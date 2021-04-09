@@ -5,9 +5,9 @@ init python:
             self.user = user
             self.image = image
 
-            if isinstance(mentions, basestring): self.mentions = [mentions]
-            elif isinstance(mentions, list): self.mentions = mentions
-            else: self.mentions = []
+            if not mentions: self.mentions = []
+            elif isinstance(mentions, str): self.mentions = [mentions]
+            else: self.mentions = mentions
 
             self.caption = caption
             self.numberLikes = numberLikes
@@ -37,7 +37,7 @@ init python:
             if comment not in self.comments:
                 self.comments.append(comment)
 
-        def addReply(self, reply, label=None, numberLikes=0, mentions=None):
+        def addReply(self, reply, label, numberLikes=0, mentions=None):
             reply = KiwiiReply(reply, label, numberLikes, mentions)
             if reply not in self.replies:
                 self.replies.append(reply)
@@ -70,9 +70,9 @@ init python:
             self.user = user
             self.text = text
 
-            if isinstance(mentions, basestring): self.mentions = [mentions]
-            elif isinstance(mentions, list): self.mentions = mentions
-            else: self.mentions = []
+            if not mentions: self.mentions = []
+            elif isinstance(mentions, str): self.mentions = [mentions]
+            else: self.mentions = mentions
 
             self.numberLikes = numberLikes
             self.liked = liked
@@ -88,13 +88,13 @@ init python:
             return str(rv)
 
     class KiwiiReply(KiwiiComment):
-        def __init__(self, reply, label=None, numberLikes=0, mentions=None):
+        def __init__(self, reply, label, numberLikes=0, mentions=None):
             self.reply = reply
             self.label = label
 
-            if isinstance(mentions, basestring): self.mentions = [mentions]
-            elif isinstance(mentions, list): self.mentions = mentions
-            else: self.mentions = []
+            if not mentions: self.mentions = []
+            elif isinstance(mentions, str): self.mentions = [mentions]
+            else: self.mentions = mentions
 
 
             if kct == "popular": self.numberLikes = int(round(numberLikes * 1.5))
@@ -121,7 +121,7 @@ init python:
 
 init -1:
     define profilePictures = [ "images/Phone/Kiwii/Profile Pictures/mcpp1.png", "images/Phone/Kiwii/Profile Pictures/mcpp2.png", "images/Phone/Kiwii/Profile Pictures/mcpp3.png", "images/Phone/Kiwii/Profile Pictures/mcpp4.png" ]
-    default profilePictures_count = 0
+    default count = 0
 
     default kiwiiPosts = []
     default liked_kiwiPosts = []
@@ -205,14 +205,6 @@ init -1:
             "MC": {
                 "username": "MC",
                 "profilePicture": profilePictures[0]
-            },
-            "Caleb": {
-                "username": "Aleb",
-                "profilePicture": "images/Phone/Kiwii/Profile Pictures/calebpp.png"
-            },
-            "Parker": {
-                "username": "Parker",
-                "profilePicture": "images/Phone/Kiwii/Profile Pictures/parkerpp.png"
             }
         }
 
@@ -250,7 +242,7 @@ screen kiwiiTemplate():
 screen kiwiiPreferences():
     tag phoneTag
 
-    $ kiwiiUsers["MC"]["profilePicture"] = profilePictures[profilePictures_count]
+    $ kiwiiUsers["MC"]["profilePicture"] = profilePictures[count]
 
     use kiwiiTemplate:
 
@@ -261,13 +253,13 @@ screen kiwiiPreferences():
             align(0.5, 0.48)
 
             textbutton "<":
-                if profilePictures_count > 0:
-                    action SetVariable("profilePictures_count", profilePictures_count - 1)
+                if count > 0:
+                    action SetVariable("count", count - 1)
                 text_style "kiwii_PrefTextButton"
 
             textbutton ">":
-                if profilePictures_count + 1 < len(profilePictures):
-                    action SetVariable("profilePictures_count", profilePictures_count + 1)
+                if count + 1 < len(profilePictures):
+                    action SetVariable("count", count + 1)
                 text_style "kiwii_PrefTextButton"
 
         vbox:
@@ -413,10 +405,7 @@ screen kiwiiPost(post):
                 textbutton reply.reply:
                     style "kiwii_reply"
                     text_style "kiwii_ReplyText"
-                    if reply.label:
-                        action [Function(reply.selectedReply, post), Jump(reply.label)]
-                    else:
-                        action Function(reply.selectedReply, post)
+                    action [Function(reply.selectedReply, post), Jump(reply.label)]
 
 screen liked_kiwii():
     tag phoneTag
@@ -494,13 +483,12 @@ label kiwii_firstTime:
     $ kiwii_firstTime = False
     play sound "sounds/vibrate.mp3"
     if emilyrs:
-        $ contact_Riley.addReply("We're not back together", "rirep3a")
+        $ contact_Riley.newMessage(rileyMessage3)
     if bowling and emilyrs:
-        $ contact_Penelope.newMessage("I didn't know you and Emily were a thing...")
+        $ contact_Penelope.newMessage(penelopeMessage4)
     if emilyrs and laurenrs:
-        $ contact_Lauren.newMessage("I saw what Emily posted. I really thought you liked me...")
-        $ contact_Lauren.newMessage("I guess we're done now, so please just delete my number.")
-        $ contact_Lauren.addReply("Lauren can we please just talk about it? I can explain", "larep16a")
+        $ contact_Lauren.newMessage(laurenMessage15)
+        $ contact_Lauren.newMessage(laurenMessage16)
     call screen kiwiiPreferences()
 
 style kiwii_PrefTextButton is button_text:

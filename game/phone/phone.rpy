@@ -76,6 +76,7 @@ screen phone():
                                 action Jump(app.screen)
                         text app.name style "applabels"
 
+
 screen tutorial():
 
         default phoneTuts = [

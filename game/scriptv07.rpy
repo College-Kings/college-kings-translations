@@ -1,3 +1,8 @@
+
+label after_load:
+    $ addReplies()
+    return
+
 label emrep4a:
 call screen messager(contact_Emily)
 
@@ -182,7 +187,7 @@ label v07:
     scene s674
     with dissolve
 
-    ch "I mean he barely got hit. He dodged almost every punch thrown at him based on his opponents' micro expressions."
+    ch "I mean he barely got hit. He dodged almost every punch thrown at him based on his opponents micro expressions."
 
     scene s674a
     with dissolve
@@ -1422,8 +1427,7 @@ label v07:
         play sound "sounds/vibrate.mp3"
         $ phoneexit = "phoneam"
         $ contact_Riley.unlock()
-        $ contact_Riley.newMessage("Are you and Emily back together?")
-        $ contact_Riley.addReply("What are you talking about???", "rirep1a")
+        $ contact_Riley.newMessage(rileyMessage1)
         pause 0.5
 
         scene s713b # mc looks at his phone
@@ -1436,7 +1440,7 @@ label v07:
         call screen messager(contact_Riley)
 
         label rirep1a:
-        $ contact_Riley.newMessage("Check Kiwii...")
+        $ contact_Riley.newMessage(rileyMessage2)
         $ kiwii = True
         call screen messager(contact_Riley)
 
@@ -1451,34 +1455,30 @@ label v07:
         call screen phone # this comes before opening kiwii
 
         label rirep3a:
-        $ contact_Riley.newMessage("Okay... just looked like it")
-        $ contact_Riley.addReply("Well we're not.", "rirep4a")
+        $ contact_Riley.newMessage(rileyMessage4)
         call screen messager(contact_Riley)
 
         label rirep4a:
-        $ contact_Riley.newMessage("k")
+        $ contact_Riley.newMessage(rileyMessage5)
         call screen messager(contact_Riley)
 
         label perep4a:
         $ addPoint("bro", 1)
-        $ contact_Penelope.newMessage("Okay...")
+        $ contact_Penelope.newMessage(penelopeMessage5)
         $ tellpenelope = True
         call screen messager(contact_Penelope)
 
         label perep4b:
         $ tellpenelope = False
-        $ contact_Penelope.newMessage("Okay...")
+        $ contact_Penelope.newMessage(penelopeMessage5)
         call screen messager(contact_Penelope)
 
         label larep16a:
-        $ contact_Lauren.newMessage("What is there to talk about? How could you betray me like that?!")
-        $ contact_Lauren.addReply("Please, it's just a big misunderstanding", "larep17a")
-
+        $ contact_Lauren.newMessage(laurenMessage17)
         call screen messager(contact_Lauren)
 
         label larep17a:
-        $ contact_Lauren.newMessage("Fine. I'm in my dorm, we can talk now.")
-
+        $ contact_Lauren.newMessage(laurenMessage18)
         call screen messager(contact_Lauren)
 
         label KiwiiPost1_reply1:
@@ -1516,20 +1516,20 @@ label v07:
                 "(I should check out what Emily posted on Kiwii.)"
                 jump phoneam              
 
-            if contact_Riley.messages[-1].replies:
+            if not rileyMessage1.reply:
                 "(I need to respond to some of these messages.)"
                 jump phoneam
 
             else:
 
                 if bowling == True:
-                    if contact_Penelope.messages[-1].replies:
+                    if not penelopeMessage4.reply:
                         "(I should answer Penelope.)"
                         jump phoneam
 
                 if laurenrs == True:
 
-                    if contact_Lauren.messages[-1].replies:
+                    if not laurenMessage17.reply:
                         "(I should respond to Lauren.)"
 
                         jump phoneam
@@ -1548,7 +1548,7 @@ label v07:
 
         u "(Okay... I need to call Emily right now.)"
 
-        u "(What the fuck was she thinking?!)"
+        u "(What the fuck was the she thinking?!)"
 
         stop sound
 
@@ -1752,8 +1752,7 @@ label v07:
         play sound "sounds/vibrate.mp3"
         $ phoneexit = "phoneam"
         $ contact_Riley.unlock()
-        $ contact_Riley.newMessage("Hey, how come you're not on Kiwii?")
-        $ contact_Riley.addReply("What's that?", "rirep6a")
+        $ contact_Riley.newMessage(rileyMessage6)
         $ phoneexit = "phonean"
 
         pause 0.5
@@ -1766,8 +1765,7 @@ label v07:
         jump phonean
 
         label rirep6a:
-        $ contact_Riley.newMessage("It's a new social media app, you should give it a try")
-        $ contact_Riley.addReply("Okay, I'll have a look", "rirep7a")
+        $ contact_Riley.newMessage(rileyMessage7)
         call screen messager(contact_Riley)
 
         label rirep7a:
@@ -1776,7 +1774,7 @@ label v07:
 
 
         label phonean:
-        if contact_Riley.messages[-1].replies:
+        if not rileyMessage7.reply:
             u "(I should respond to Riley.)"
             jump phonean
         else:
@@ -2291,7 +2289,7 @@ label v07:
     scene s717d
     with dissolve
 
-    la "And how am I supposed to believe you? That's your ex. You used to hook up with her. What would stop you now?"
+    la "And how am I supposed to believe you? That's your ex. You use to hook up with her. What would stop you now?"
 
     scene s717e
     with dissolve
@@ -2560,7 +2558,7 @@ label v07:
         scene s727
         with dissolve
 
-        aut "Oh animal rights, how fascinating. I have to admit, I haven't done much research into the Western Animal Movement... would you care to elaborate on its exact purpose and goals?"
+        aut "Oh animal rights, how fascinating. I have to admit, I haven't done much research into the Western Animal Movement... would you care to elaborate on it's exact purpose and goals?"
 
         scene s727a
         with dissolve
@@ -2812,30 +2810,25 @@ label v07:
 
             if laurenrs == True:
 
-                $ contact_Lauren.newMessage("Wanna go now babe?")
-                $ contact_Lauren.addReply("Sure, I'll come pick you up", "larep20a")
+                $ contact_Lauren.newMessage(laurenMessage20)
 
             else:
 
-                $ contact_Lauren.newMessage("Wanna go now?")
-                $ contact_Lauren.addReply("Sure, I'll come pick you up", "larep19a")
+                $ contact_Lauren.newMessage(laurenMessage19)
 
         else:
 
-            $ contact_Lauren.newMessage("Hey :)")
+            $ contact_Lauren.newMessage(laurenMessage21)
             if laurenrs:
-                $ contact_Lauren.newMessage("You wanna go to the beach today?")
-                $ contact_Lauren.addReply("Sounds good, when were you thinking?", "larep22a")
+                $ contact_Lauren.newMessage(laurenMessage22)
             else:
-                $ contact_Lauren.newMessage("You wanna go to the beach today?")
-                $ contact_Lauren.addReply("Sounds good, when were you thinking?", "larep25a")
-                $ contact_Lauren.addReply("Sorry, I can't I'm really busy today", "larep25b")
+                $ contact_Lauren.newMessage(laurenMessage25)
 
         " "
 
         label phoneao:
 
-        if contact_Lauren.messages[-1].replies:
+        if not laurenMessage20.reply and not laurenMessage19.reply and not laurenMessage23.reply and not laurenMessage25.reply:
 
             u "(I should probably reply.)"
 
@@ -2855,31 +2848,28 @@ label v07:
             jump beachlauren
 
         label larep19a:
-            $ contact_Lauren.newMessage("Great :)")
+            $ contact_Lauren.newMessage(laurenMessage24)
             call screen messager(contact_Lauren)
 
         label larep20a:
-            $ contact_Lauren.newMessage("Great :)")
+            $ contact_Lauren.newMessage(laurenMessage24)
             call screen messager(contact_Lauren)
 
         label larep22a:
-            $ contact_Lauren.newMessage("How about now?")
-            $ contact_Lauren.addReply("Sure, I'll come pick you up", "larep23a")
+            $ contact_Lauren.newMessage(laurenMessage23)
             call screen messager(contact_Lauren)
 
         label larep23a:
-            $ contact_Lauren.newMessage("Great :)")
+            $ contact_Lauren.newMessage(laurenMessage24)
             call screen messager(contact_Lauren)
 
         label larep25a:
-            $ contact_Lauren.newMessage("How about now?")
-            $ contact_Lauren.addReply("Sure, I'll come pick you up", "larep23a")
+            $ contact_Lauren.newMessage(laurenMessage23)
             call screen messager(contact_Lauren)
 
         label larep25b:
             $ nobeach = True
-            $ contact_Lauren.newMessage("Oh okay, another time then.")
-
+            $ contact_Lauren.newMessage(laurenMessage26)
             call screen messager(contact_Lauren)
 
 
@@ -3075,7 +3065,7 @@ label v07:
                     scene s742
                     with dissolve
 
-                    la "I'm happy for you, seems like you guys really have a strong friendship and that's really important when you live together."
+                    la "I'm happy for you, seems like you guys really have a strong friendship and that's really important when you love together."
 
                     scene s742b # lauren slightly annoyed
                     with dissolve
@@ -3112,7 +3102,7 @@ label v07:
                     scene s742d
                     with dissolve
 
-                    la "Aww... I hope so too."
+                    la "Aww... I hope so to."
 
                     scene s742e
                     with dissolve
@@ -3490,7 +3480,7 @@ label v07:
                     scene s742
                     with dissolve
 
-                    la "I'm happy for you, seems like you guys really have a strong friendship and that's really important when you live together."
+                    la "I'm happy for you, seems like you guys really have a strong friendship and that's really important when you love together."
 
                     scene s742b # lauren slightly annoyed
                     with dissolve
@@ -3527,7 +3517,7 @@ label v07:
                     scene s742d
                     with dissolve
 
-                    la "Aww... I hope so too."
+                    la "Aww... I hope so to."
 
                     scene s742e
                     with dissolve
@@ -3866,37 +3856,12 @@ label v07:
 
                 "Pledge to the Apes":
 
-                    $ silverback = True
-                    if steam == False:
-                        image silverback = "images/silverback.png"
-                        show silverback:
-                            xpos 0
-                            ypos -200
-                            linear 0.5 xpos 0 ypos 0
-                            pause 2.0
-                            linear 0.5 xpos 0 ypos -200
-                    else:
-                        $ achievement.grant("silverback")
-                        $ achievement.sync()
-
                     u "(Fuck it. I'm gonna be winner, no matter what it costs. I'ma go to the Apes' house and tell Grayson I changed my mind.)"
 
                     jump pledgeapes
 
 
                 "Pledge to the Wolves":
-                    $ wolfpack = True
-                    if steam == False:
-                        image wolfpack = "images/wolfpack.png"
-                        show wolfpack:
-                            xpos 0
-                            ypos -200
-                            linear 0.5 xpos 0 ypos 0
-                            pause 2.0
-                            linear 0.5 xpos 0 ypos -200
-                    else:
-                        $ achievement.grant("wolfpack")
-                        $ achievement.sync()
 
                     u "(Nah, Grayson's done more than enough questionable shit. The Wolves been nothing but good to me. I'ma pledge to the Wolves.)"
 
@@ -3908,6 +3873,18 @@ label v07:
     $ contact_Autumn.unlock()
     $ addPoint("bro", 1)
     $ joinwolves = True
+    $ wolfpack = True
+    if steam == False:
+        image wolfpack = "images/wolfpack.png"
+        show wolfpack:
+            xpos 0
+            ypos -200
+            linear 0.5 xpos 0 ypos 0
+            pause 2.0
+            linear 0.5 xpos 0 ypos -200
+    else:
+        $ achievement.grant("wolfpack")
+        $ achievement.sync()
 
     scene s756 # Camera - third person, MC walking through town during evening wearing jeans
     with fade
@@ -5095,6 +5072,19 @@ label v07:
     $ contact_Autumn.unlock()
     $ addPoint("tm", 3) # I think more TM points for joining the Apes makes sense
     $ joinwolves = False
+    $ silverback = True
+    if steam == False:
+        image silverback = "images/silverback.png"
+        show silverback:
+            xpos 0
+            ypos -200
+            linear 0.5 xpos 0 ypos 0
+            pause 2.0
+            linear 0.5 xpos 0 ypos -200
+    else:
+        $ achievement.grant("silverback")
+        $ achievement.sync()
+
 
     scene s756 # Not a new render
     with fade
@@ -5406,7 +5396,7 @@ label v07:
 
             scene s843d
             with dissolve
-            ca "What? You a bitch?{w} Too afraid?"
+            ca "What? You a bitch?{w} Too afraid."
 
             scene s843e
             with dissolve
@@ -5843,14 +5833,14 @@ label v07:
                 $ addPoint("bf", 1)
                 $ showphone = True
                 $ phoneexit = "phonebb"
-                $ contact_Emily.addReply("Hey, sorry I lost track of time. You up?", "emrep3a")
+                $ contact_Emily.newMessage(emilyMessage3)
 
                 label emrep3a:
                 call screen messager(contact_Emily)
 
                 label phonebb:
 
-                if contact_Emily.messages[-1].replies:
+                if not emilyMessage3.reply:
 
                     u "(I should text Emily that I lost track of time.)"
 
@@ -5890,8 +5880,7 @@ label v07:
     if emilyText:
         play sound "sounds/vibrate.mp3"
         $ showphone = True
-        $ contact_Emily.newMessage("It's okay. You'll get the surprise another time...")
-        $ contact_Emily.addReply("Excting :)", "emrep4a")
+        $ contact_Emily.newMessage(emilyMessage4)
         $ phoneexit = "phonebc"
 
 
@@ -6342,7 +6331,7 @@ label v07:
 
         scene s884b # Lee talking to the class with his finger pointing up, and his usual creepy smile. MC just looking around
         with dissolve
-        lee "Did you guys know that although vikings appear to come off as straggly, they were actually quite known for their cleanliness?"
+        lee "Did you guys know that although vikings appear to come off as straggly, they were actually quite known for their cleanliness."
         lee "They usually bathed once a week!"
 
         scene s885 # Close up of Penelope in her costume grossed out and talking
@@ -8313,7 +8302,7 @@ scene scc57 # FPP. Same as scc57.
 with dissolve
 
 ca "Wanna know what happened?"
-ca "My little sister has been clean for 3 months off of heroin and my buddy calls me and tells that she's off with some junkie."
+ca "My little sister has been clean for 3 months off of heroine and my buddy calls me and tells that she's off with some junkie."
 ca "A junkie she had told me she cut ties with."
 
 scene scc57a # FPP. Same as scc57a.
@@ -9418,9 +9407,7 @@ if rileyrs:
 
     play sound "sounds/vibrate.mp3"
 
-    $ contact_Riley.newMessage("Wanna come over? ;)")
-    $ contact_Riley.addReply("Sure, on my way :)", "rirep8a")
-    $ contact_Riley.addReply("Sorry I'm really exhausted. Another time", "rirep8b")
+    $ contact_Riley.newMessage(rileyMessage8)
     $ phoneexit = "rtnow"
     $ showphone = True
 
@@ -9429,7 +9416,7 @@ if rileyrs:
 
     label rtnow:
 
-    if contact_Riley.messages[-1].replies:
+    if not rileyMessage8.reply:
         u "(I should check my messages.)"
         jump rtnow
     elif rileysex:
@@ -9458,12 +9445,12 @@ else:
 
 label rirep8a:
 $ rileysex = True
-$ contact_Riley.newMessage("Yayyy")
+$ contact_Riley.newMessage(rileyMessage9)
 call screen messager(contact_Riley)
 
 label rirep8b:
 $ rileysex = False
-$ contact_Riley.newMessage("Oh oki")
+$ contact_Riley.newMessage(rileyMessage10)
 call screen messager(contact_Riley)
 
 label rileysexscene:
@@ -9810,15 +9797,14 @@ label risex: # Riley sex scene
 ########## SCENE 36 MAKING SIGNS W/ AUTUMN
 
     label signs_with_autumn:
-    $ contact_Autumn.newMessage("Hey, it's Autumn.")
-    $ contact_Autumn.newMessage("I'm just about to start making signs. Do you still want to join?")
-    $ contact_Autumn.addReply("Yes, of course. I'd love to.", "autrep1a")
+    $ contact_Autumn.newMessage(autumnMessage1)
+    $ contact_Autumn.newMessage(autumnMessage2)
     $ phoneexit = "phoneba"
     play sound "sounds/vibrate.mp3"
     $ showphone = True
 
     label phoneba:
-    if contact_Autumn.messages[-1].replies:
+    if not autumnMessage3.reply:
         u "(I should probably check my messages.)"
 
         jump phoneba
@@ -9829,12 +9815,11 @@ label risex: # Riley sex scene
         jump signs_with_autumn2
 
     label autrep1a:
-    $ contact_Autumn.newMessage("Great. I'm at the Deer's House. Do you know how to get there?")
-    $ contact_Autumn.addReply("Yeah, I think I do. On my way.", "autrep2a")
+    $ contact_Autumn.newMessage(autumnMessage3)
     call screen messager(contact_Autumn)
 
     label autrep2a:
-    $ contact_Autumn.newMessage("Alright, see you soon.")
+    $ contact_Autumn.newMessage(autumnMessage4)
     call screen messager(contact_Autumn)
 
     label signs_with_autumn2:
@@ -10144,7 +10129,7 @@ label aSigns_2:
 
     pause 0.5
 
-    scene shr2 #fpp As he walks he passes by Ms. Rose who is setting up Homecoming decorations ideally on some kinda of small latter.
+    scene shr2 #fpp As he walks he passes by Ms.Rose who is setting up Homecoming decorations ideally on some kinda of small latter.
     with dissolve
 
     scene shr2b # ms rose turns around and looks at you
@@ -10536,7 +10521,7 @@ label aSigns_2:
     scene sfr4am9 # close up amber looking at you from lying on the floor
     with dissolve
 
-    am "I decided to live! I was tired of trying to fit into my parents' ideas of who I should be. So I just said fuck it."
+    am "I decided to live! I was tired of trying to fit into my parents ideas of who I should be. So I just said fuck it."
 
     scene sfr4am9a
     with dissolve
@@ -10753,7 +10738,7 @@ label aSigns_2:
     scene sfr4cl3b # nora turns around and yells.
     with dissolve
 
-    no "Chloeee! Your date's here."
+    no "Chloeee! Your dates here."
 
     scene sfr4cl3f # chloe walks towards you in a dress, smiling
     with fade
@@ -10982,7 +10967,7 @@ label aSigns_2:
     scene sfr4cl17
     with dissolve
 
-    aa "Well... no. But, I did watch a lot of music videos."
+    aa "Well... no. But, I did watch a lot music videos."
 
     scene sfr4cl17a
     with dissolve
@@ -10997,7 +10982,7 @@ label aSigns_2:
     scene sfr4cl19 # cloe up chloe looking into the group
     with dissolve
 
-    cl "You ask someone a \"Would you rather...\"-question and after answering that person gets to ask the next question to someone else."
+    cl "You ask someone a \" Would you rather...\"-question and after answering that person gets to ask the next question to someone else."
 
     cl "I'ma start."
 
@@ -11349,7 +11334,7 @@ label aSigns_2:
     scene sfr4em5c # emily drinks straight from the bottle
     with dissolve
 
-    u "Jesus, you still drink from the bottle? You really haven't changed, haha."
+    u "Jeuss, you still drink from the bottle? You really haven't changed, haha."
 
     scene sfr4em5d # emily holds to bottle out to you
     with dissolve
@@ -11953,7 +11938,7 @@ label aSigns_2:
     scene sfr4la11a
     with dissolve
 
-    u "Yeah, I think Ms. Rose did a lot of that, I saw her earlier."
+    u "Yeah, I think Ms Rose did a lot of that, I saw her earlier."
 
     scene sfr4la11
     with dissolve
@@ -12016,7 +12001,7 @@ label aSigns_2:
     scene sfr4la13b # lauren looking past you, moving her head
     with dissolve
 
-    la "Oh look, Ms. Rose is here. Let's say hi."
+    la "Oh look, Ms.Rose is here. Let's say hi."
 
     scene sfr4la13c
     with dissolve
@@ -12046,7 +12031,7 @@ label aSigns_2:
     scene sfr4la16a
     with dissolve
 
-    u "Hey Ms. Rose."
+    u "Hey Ms.Rose."
 
     scene sfr4la16b # ms rose looking at you
     with dissolve
@@ -12800,7 +12785,7 @@ label aSigns_2:
     scene sfr4ri14 #Ryan and Mc pick up their beers and chug them.
     with dissolve
 
-    ry "Beginner's luck. Let's go again."
+    ry "Beginners luck. Let's go again."
 
     scene sfr4ri15 # you look down at your cup ready to flip it
     with dissolve
@@ -13814,7 +13799,7 @@ label aSigns_2:
         scene sfr4em28
         with dissolve
 
-        ri "Oh, me too. Where's Emily?"
+        ri "Oh me too. Where's Emily?."
 
         scene sfr4em28a
         with dissolve
@@ -15526,7 +15511,7 @@ label aSigns_2:
 
             ri "I just feel like we could be doing much more fun things."
 
-            ri "I'm sure your date would understand if you'd let her know you had to leave early..."
+            ri "I'm sure your date would have understood if you had let her known you had to leave early..."
 
             scene sfr4ri51c
             with dissolve
@@ -15593,7 +15578,7 @@ label aSigns_2:
 
             ri "I'd just rather hang out with a friend."
 
-            ri "I'm sure your date would understand if you'd let her know you had to leave early..."
+            ri "I'm sure your date would have understood if you had let her known you had to leave early..."
 
             scene sfr4ri51a
             with dissolve
@@ -16155,7 +16140,7 @@ label aSigns_2:
 
     scene sfr4cl47 #Ryan and Chloe are having a heated argument.
 
-    cl "Are you fucking kidding me, Ryan? You're so full of shit."
+    cl "Are you fucking kidding me ,Ryan? You're so full of shit."
 
     scene sfr4cl48 #close up ryan looking  annoyed at chloe
     with dissolve
@@ -16458,7 +16443,7 @@ label aSigns_2:
     scene sfr4la26c
     with dissolve
 
-    u "Aw come on Ms. Rose, you've put up a pretty amazing event here!"
+    u "Aw come on Ms.Rose, you've put up a pretty amazing event here!"
 
     scene sfr4la27 # close up lauren looking at ms rose smiling
     with dissolve
@@ -16502,7 +16487,7 @@ label aSigns_2:
             scene sfr4la27b
             with dissolve
 
-            la "Ms. Rose and I were just talking about the last essay."
+            la "Ms.Rose and I were just talking about the last essay."
 
             scene sfr4la27c
             with dissolve
@@ -16531,7 +16516,7 @@ label aSigns_2:
 
         "Focus on Ms. Rose":
 
-            u "So Ms. Rose, what was homecoming like when you were in college?"
+            u "So Ms.Rose, what was homecoming like when you were in college?"
 
             u "So like 5 years ago."
 
@@ -16548,7 +16533,7 @@ label aSigns_2:
             scene sfr4la27b
             with dissolve
 
-            la "Ms. Rose and I were just talking about the last essay."
+            la "Ms.Rose and I were just talking about the last essay."
 
             scene sfr4la27c
             with dissolve
@@ -16613,7 +16598,7 @@ label aSigns_2:
     scene sfr4la26c
     with dissolve
 
-    u "Aw come on Ms. Rose, you've put up a pretty amazing event here!"
+    u "Aw come on Ms.Rose, you've put up a pretty amazing event here!"
 
     scene sfr4la26b
     with dissolve
@@ -18292,7 +18277,7 @@ label ending7:
     if persistent.ep == 7:
         jump end7
     else:
-        jump v08_start
+        jump start8
 
 label end7:
     scene savenow
@@ -18301,4 +18286,4 @@ label end7:
     if persistent.ep == 7:
         jump end_credits
     else:
-        jump v08_start
+        jump start8

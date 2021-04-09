@@ -1,5 +1,5 @@
 init -1 python:
-    def addPoint(var, count = 1): # Add "count" number of points to variable "var"
+    def addPoint(var, count): # Add "count" number of points to variable "var"
         # Import all the global variables you use in the function
         global bro
         global boyfriend
@@ -89,11 +89,4 @@ init -1 python:
     achievement.register("slow_and_steady")
     achievement.register("true_to_self")
     achievement.register("wolfpack")
-
-    # 0.8
-    achievement.register("get_a_room")
-    achievement.register("ip_man")
-    achievement.register("thick_and_thin")
-    achievement.register("up_for_more")
-
     achievement.sync()

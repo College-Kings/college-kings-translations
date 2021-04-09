@@ -229,17 +229,17 @@ screen choice(items, time=3):
         0: {
             "background": "Left",
             "pos": (210, 907),
-            "xoffset": 0
+            "padding": (50, 21)
         },
         1: {
             "background": "Right",
             "pos": (1005, 907),
-            "xoffset": 50
+            "padding": (90, 21)
         },
         2: {
             "background": "Top",
             "pos": (600, 780),
-            "xoffset": 0 # Centered
+            "padding": (0, 21) # Centered
         }
     }
     
@@ -251,25 +251,19 @@ screen choice(items, time=3):
             $ disabled = True
 
         if count < len(menuButtonsConfig):
-            fixed:
-                xysize (660, 104)
+            textbutton item.caption.replace(" (disabled)", ""):
+                if disabled:
+                    background "gui/{}white.png".format(menuButtonsConfig[count]["background"])
+                else:
+                    idle_background "gui/{}blue.png".format(menuButtonsConfig[count]["background"])
+                    action [item.action, SetVariable("ischoice", False)]
+                hover_background "gui/{}white.png".format(menuButtonsConfig[count]["background"])
                 pos menuButtonsConfig[count]["pos"]
-
-                imagebutton:
-                    if disabled:
-                        idle "gui/{}white.png".format(menuButtonsConfig[count]["background"])
-                    else:
-                        idle "gui/{}blue.png".format(menuButtonsConfig[count]["background"])
-                        action [item.action, SetVariable("ischoice", False)]
-                    hover "gui/{}white.png".format(menuButtonsConfig[count]["background"])
-
-                text item.caption.replace(" (disabled)", ""):
-                    align(0.5, 0.5)
-                    xoffset menuButtonsConfig[count]["xoffset"]
-                    yalign 0.5
-                    size 40
-                    if count > 1:
-                        xalign 0.5
+                padding  menuButtonsConfig[count]["padding"]
+                xysize (800, 104)
+                text_size 40
+                if count > 1:
+                    text_xalign 0.5
 
 
     if realkcttut == 1:
@@ -377,7 +371,7 @@ screen choice(items, time=3):
 
     if timed == True:
 
-        timer time repeat False action [ SetVariable("timed", False), Hide('countdown'), Jump("choicetimer") ]
+        timer time repeat False action [ Hide('countdown'), Jump("choicetimer") ]
         bar value AnimatedValue(0, time, time, time) at alpha_dissolve # assuming you're using the alpha_dissolve transform from the wiki
 
 style choicetuttext is text:
@@ -2425,7 +2419,7 @@ style slider_pref_slider:
 #######################
 screen stats():
 
-    use phoneTemplate:
+        add "images/phonescreen.png" at truecenter
 
         add "images/stats.png" at truecenter
         if noexit == False:
@@ -4158,7 +4152,7 @@ screen achievements():
                     vbox spacing -10:
                         textbutton "not my business" style "ach"
 
-                        textbutton "Don't disturb Ms. Rose" style "ach2"
+                        textbutton "Don't disturb Ms.Rose" style "ach2"
 
                 else:
                     vbox:
@@ -4203,46 +4197,6 @@ screen achievements():
                 else:
                     vbox:
                         textbutton "strike" style "ach3"
-
-                if get_a_room == True:
-                    vbox spacing -10:
-                        textbutton "get a room" style "ach"
-
-                        textbutton "Sleep With Amber at Josh's" style "ach2"
-
-                else:
-                    vbox:
-                        textbutton "get a room" style "ach3"      
-
-                if ip_man == True:
-                    vbox spacing -10:
-                        textbutton "ip man" style "ach"
-
-                        textbutton "Win The Alley Fight" style "ach2"
-
-                else:
-                    vbox:
-                        textbutton "ip man" style "ach3"      
-
-                if thick_and_thin == True:
-                    vbox spacing -10:
-                        textbutton "thick and thin" style "ach"
-
-                        textbutton "Help Penelope" style "ach2"
-
-                else:
-                    vbox:
-                        textbutton "thick and thin" style "ach3"                 
-
-                if up_for_more == True:
-                    vbox spacing -10:
-                        textbutton "up for more" style "ach"
-
-                        textbutton "Flirt With Chloe" style "ach2"
-
-                else:
-                    vbox:
-                        textbutton "up for more" style "ach3"                                                                       
 
 style ach is button:
     background "#d4af37"
@@ -4405,9 +4359,6 @@ screen scenegal():
         spacing 40
         xpos 78
         ypos 200
-        scrollbars "vertical"
-        draggable True
-        mousewheel True
 
         imagebutton:
             idle "images/gallery1new.png"
@@ -4448,31 +4399,6 @@ screen scenegal():
             idle "images/gallery8.png"
             hover "images/gallery8outline.png"
             action Replay ("brbj", locked = False)
-
-        imagebutton:
-            idle "images/gallery/gallery9.png"
-            hover "images/gallery/gallery9outline.png"
-            action Replay ("v08_cl_start", locked = False)
-
-        imagebutton:
-            idle "images/gallery/gallery10.png"
-            hover "images/gallery/gallery10outline.png"
-            action Replay ("v08_ri_start", locked = False)
-
-        imagebutton:
-            idle "images/gallery/gallery11.png"
-            hover "images/gallery/gallery11outline.png"
-            action Replay ("hoco_amb_night", locked = False)
-
-        imagebutton:
-            idle "images/gallery/gallery12.png"
-            hover "images/gallery/gallery12outline.png"
-            action Replay ("s28_LarsFight", locked = False)
-
-        imagebutton:
-            idle "images/gallery/gallery13.png"
-            hover "images/gallery/gallery13outline.png"
-            action Replay ("amber_sex_at_joshs", locked = False)
 
 
 
@@ -5989,7 +5915,7 @@ screen hc_info():
             if autumnmad:
                 $ tmpMsg += "I think Autumn might be mad at me, so I probably shouldn’t ask her."
             else:
-                $ tmpMsg += "Autumn and I aren’t really close, but I’ll never know if she’d say yes if I don’t try."
+                $ tmpMsg += "Autumn and aren’t really close, but I’ll never know if she’d say yes if I don’t try."
     elif tmpGirl == "chloe":
         if laurenrs:
             $ tmpMsg += "Lauren would kill me if I asked someone other than her."

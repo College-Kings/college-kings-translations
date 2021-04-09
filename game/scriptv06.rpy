@@ -5,89 +5,81 @@ $ renpy.jump("".join([timerexit]))
 
 
 label amrep17a:
-$ contact_Amber.addReply("I'm alone now, if the surprise is still on ;)", "amrep18a")
-$ contact_Amber.addReply("I'll make it up to you tho", "amrep18b")
+$ contact_Amber.newMessage(amberMessage18)
 call screen messager(contact_Amber)
 
 label amrep18a:
 $ addPoint("tm", 1)
 $ addPoint("bro", 1)
 $ amrep18 = 1
-$ contact_Amber.newMessage("Moment's passed...")
-
+$ contact_Amber.newMessage(amberMessage19)
 call screen messager(contact_Amber)
 
 label amrep18b:
 $ amrep18 = 2
 $ addPoint("bf", 1)
-$ contact_Amber.newMessage("You better xx")
+$ contact_Amber.newMessage(amberMessage20)
 call screen messager(contact_Amber)
 
 
 label clrep9a:
 $ clrep9 = 1
-$ contact_Chloe.newMessage("Okay")
+$ contact_Chloe.newMessage(chloeMessage10)
 call screen messager(contact_Chloe)
 
 label clrep5a:
-$ contact_Chloe.newMessage("I'm busy later tonight and I'm pretty much booked for the entire week :/")
+$ contact_Chloe.newMessage(chloeMessage6)
 jump phoneab
 
 label clrep6a:
 $ clrep6 = 1
-$ contact_Chloe.newMessage("That's what I like to hear :*")
-$ contact_Chloe.newMessage("Meet me at the school's swimming pool")
-$ contact_Chloe.addReply("Cool, see you there", "clrep8a")
+$ contact_Chloe.newMessage(chloeMessage7)
+$ contact_Chloe.newMessage(chloeMessage8)
 call screen messager(contact_Chloe)
 
 label clrep8a:
 call screen messager(contact_Chloe)
 
 label amrep11a:
-$ contact_Amber.newImgMessage("images/text2.jpg") 
-$ contact_Amber.addReply("Woah, what was that for?", "amrep12a")
-$ contact_Amber.addReply("Oh wow, you're so fucking hot", "amrep12b")
+$ contact_Amber.newMessage(amberMessage12)
 call screen messager(contact_Amber)
 
 label amrep12a:
 $ amrep12 = 1
 $ addPoint("bro", 1)
-$ contact_Amber.newMessage("I'm playing drink or dare and got dared to send an underwear pic to a guy.")
-$ contact_Amber.addReply("And you chose me, huh?", "amrep13a")
-$ contact_Amber.addReply("Feel free to do so anytime :)", "amrep13b")
+$ contact_Amber.newMessage(amberMessage13)
 call screen messager(contact_Amber)
 
 label amrep12b:
 $ amrep12 = 2
 $ addPoint("bf", 1)
-$ contact_Amber.newMessage("I'm glad you like it xx")
-$ contact_Amber.addReply( "I hope there's more of that in the future :P", "amrep16a")
+$ contact_Amber.newMessage(amberMessage16)
 call screen messager(contact_Amber)
 
 label amrep13a:
 $ addPoint("bro", 1)
-$ contact_Amber.newMessage("Maybe I picked someone at random ;)")
+$ contact_Amber.newMessage(amberMessage14)
 call screen messager(contact_Amber)
 
 label amrep13b:
 $ addPoint("bf", 1)
-$ contact_Amber.newMessage("Maybe if you're lucky xx")
+$ contact_Amber.newMessage(amberMessage15)
 call screen messager(contact_Amber)
 
 label amrep16a:
-$ contact_Amber.newMessage("Maybe if you're lucky xx")
+$ contact_Amber.newMessage(amberMessage15)
 call screen messager(contact_Amber)
 
 label aubrep16a:
 $ aubrep16 = 1
 $ meetaubrey = True
-$ contact_Aubrey.newMessage(":)")
+$ contact_Aubrey.newMessage(aubreyMessage17)
 call screen messager(contact_Aubrey)
 
 label aubrep16b:
 $ aubrep16 = 2
 $ meetaubrey = False
-$ contact_Aubrey.newMessage("Oh, okay")
+$ contact_Aubrey.newMessage(aubreyMessage18)
 call screen messager(contact_Aubrey)
 
 label aubrep19a:
@@ -98,11 +90,9 @@ call screen messager(contact_Aubrey)
 
 label perep1a:
 $ perep1 = 1
-$ contact_Penelope.newMessage("Yeah, sounds good :)")
-$ contact_Penelope.newMessage("I have a lecture at 2:30 but I can go straight to the bowling alley afterwards")
-$ contact_Penelope.newMessage("Meet there at 4?")
-$ contact_Penelope.addReply("Yesss, see you there", "perep3a")
-
+$ contact_Penelope.newMessage(penelopeMessage1)
+$ contact_Penelope.newMessage(penelopeMessage2)
+$ contact_Penelope.newMessage(penelopeMessage3)
 call screen messager(contact_Penelope)
 
 label perep3a:
@@ -110,21 +100,18 @@ $ perep3 = 1
 call screen messager(contact_Penelope)
 
 label amrep22a:
-$ contact_Amber.newMessage("Going to my next lecture x_x")
-$ contact_Amber.newMessage("Which gym do you go to? Maybe we can go together at some point")
-$ contact_Amber.addReply("Sports X and you?", "amrep24a")
+$ contact_Amber.newMessage(amberMessage23)
+$ contact_Amber.newMessage(amberMessage24)
 call screen messager(contact_Amber)
 
 label amrep24a:
-$ contact_Amber.newMessage("Awww I'm SV Fitness :(")
-$ contact_Amber.addReply("Maybe we should do a home workout together sometime ;)", "amrep25a")
-$ contact_Amber.addReply("Yeah, that's too bad :/", "amrep25b")
+$ contact_Amber.newMessage(amberMessage25)
 call screen messager(contact_Amber)
 
 label amrep25a:
 $ addPoint("bro", 1)
 $ homeworkout = True
-$ contact_Amber.newMessage("Yeah maybe we should xx")
+$ contact_Amber.newMessage(amberMessage26)
 call screen messager(contact_Amber)
 
 label amrep25b:
@@ -473,7 +460,7 @@ label script06:
 
     scene s475 # MC in a remote location
     with fade
-    $ contact_Amber.addReply("I'm all by myself now.", "amrep11a")
+    $ contact_Amber.newMessage(amberMessage11a)
     $ showphone = True
     $ msgnot = 1
     $ amisreply = 1
@@ -493,7 +480,7 @@ label script06:
 
     label phonead:
 
-    if contact_Amber.messages[-1].replies:
+    if not amberMessage12.reply:
         u "(Time to text Amber.)"
         jump phonead
     else:
@@ -510,7 +497,7 @@ label script06:
     u "(Fuck it, Chloe's more important.)"
     $ clmsg = 6
     $ clisreply = 1
-    $ contact_Chloe.addReply("I'll make time for you :)", "clrep6a")
+    $ contact_Chloe.newMessage(chloeMessage6a)
     $ clrep6a = "I'll make time for you :)"
     $ clmsg7 = "That's what I like to hear :*"
     $ clmsg8 = "Meet me at the school's swimming pool"
@@ -522,7 +509,7 @@ label script06:
 
     label phoneac:
 
-    if contact_Chloe.messages[-1].replies:
+    if not chloeMessage6a.reply:
         u "(I should reply to Chloe.)"
 
         call screen messager(contact_Chloe)
@@ -1193,17 +1180,25 @@ label script06:
         if chloemad == True: # Amber texts why you never got back to her
             play sound "sounds/vibrate.mp3"
             $ showphone = True
-
-            $ contact_Amber.newMessage("I guess you didn't want my surprise :/")
-            $ contact_Amber.addReply("Sorry something important came up and I didn't have time.", "amrep17a")
-
+            $ msgnot = 1
+            $ amisreply = 1
+            $ ammsgnot = 1
+            $ ammsg = 17
+            $ contact_Amber.newMessage(amberMessage17)
+            $ ammsg17a = 1
+            $ ammsg17 = "I guess you didn't want my surprise :/"
+            $ amrep17a = "Sorry something important came up and I didn't have time."
+            $ amrep18a = "I'm alone now, if the surprise is still on ;)"
+            $ amrep18b = "I'll make it up to you tho"
+            $ ammsg19 = "Moment's passed..."
+            $ ammsg20 = "You better xx"
             $ phoneexit = "phoneae"
 
             " "
 
             label phoneae:
 
-            if contact_Amber.messages[-1].replies:
+            if not amberMessage18.reply:
                 u "(I should probably reply to my messages.)"
 
                 jump phoneae
@@ -1214,8 +1209,7 @@ label script06:
         else: # Amber texts you about the pic, chloe texts you about you not responding
             $ clisreply = 1
             play sound "sounds/vibrate.mp3"
-            $ contact_Chloe.newMessage("I guess we'll do it another time...")
-            $ contact_Chloe.addReply("Sorry, something really important came up. Definitely another time", "clrep9a")
+            $ contact_Chloe.newMessage(chloeMessage9)
             $ clmsgnot = 1
             $ clmsg = 9
             $ clmsg9a = 1
@@ -1242,8 +1236,7 @@ label script06:
     $ msgnot = 1
     $ amisreply = 1
     $ ammsgnot = 1
-    $ contact_Amber.newMessage("Hey, you alone? xx")
-    $ contact_Amber.addReply("Yeah, I'm in my dorm, why?", "amrep11a")
+    $ contact_Amber.newMessage(amberMessage21)
     $ ammsg21a = 1
     $ ammsg = 21
     $ ammsg21 = "Hey, you alone? xx"
@@ -1263,7 +1256,7 @@ label script06:
 
     label phoneaf:
 
-    if contact_Amber.messages[-1].replies:
+    if not amberMessage12.reply:
         u "(I should probably reply to my messages.)"
         jump phoneaf
     else:
@@ -2088,7 +2081,7 @@ label script06:
 
     if laurenrs == True:
 
-        u "(Homecoming. Hm. Lauren would probably be pissed if I didn't ask her...)"
+        u "(Homecoming. Hm. Lauren would probably pissed if I didn't ask her...)"
 
     else:
 
@@ -2398,7 +2391,7 @@ label script06:
         scene s524e
         with dissolve
 
-        u "Because we'll go out to a nice dinner. It'll be much more enjoyable than a girls' night and the best part: it's on me."
+        u "Because we'll go out to a nice dinner. It'll be much more enjoyable than a girls night and the best part: it's on me."
 
         scene s524d
         with dissolve
@@ -3386,7 +3379,7 @@ label script06:
     scene em18c
     with dissolve
 
-    u "You're going to the Wolves' rush party too?"
+    u "You're going to the Wolves'rush party too?"
 
     scene em18b
     with dissolve
@@ -4169,9 +4162,7 @@ label script06:
                 u "(We never really clicked. That probably means I missed my shot with her...)"
 
             play sound "sounds/vibrate.mp3"
-            $ contact_Aubrey.newMessage("Hey, I know it's late... but wanna come over?")
-            $ contact_Aubrey.addReply("Yeah, sure.", "aubrep16a")
-            $ contact_Aubrey.addReply("Sorry, I can't tonight.", "aubrep16b")
+            $ contact_Aubrey.newMessage(aubreyMessage16)
             $ showphone = True
             $ msgnot = 1
             $ aubmsgnot = 1
@@ -4188,7 +4179,7 @@ label script06:
             label phoneag:
             stop music fadeout 2.0
 
-            if contact_Aubrey.messages[-1].replies:
+            if not aubreyMessage16.reply:
 
 
                 u "(I should check my messages.)"
@@ -4223,9 +4214,7 @@ label script06:
             with dissolve
 
 
-            $ contact_Aubrey.newMessage("Hey, I know it's late... but wanna come over?")
-            $ contact_Aubrey.addReply("Yeah, sure.", "aubrep16a")
-            $ contact_Aubrey.addReply("Sorry, I can't tonight.", "aubrep16b")
+            $ contact_Aubrey.newMessage(aubreyMessage16)
             $ showphone = True
             $ msgnot = 1
             $ aubmsgnot = 1
@@ -4248,7 +4237,7 @@ label script06:
             scene s565 # mc sitting at his desk
             with dissolve
 
-            if contact_Aubrey.messages[-1].replies:
+            if not aubreyMessage16.reply:
 
                 u "(I should probably reply to Aubrey.)"
 
@@ -5061,17 +5050,15 @@ label script06:
         $ phoneexit = "phoneaj"
 
         if meetaubrey == True:
-            $ contact_Aubrey.newImgMessage("images/text3.jpg")
-            $ contact_Aubrey.newMessage("Still shaking from earlier")
-            $ contact_Aubrey.addReply("Hahaha, we should definitely do this more ;)", "aubrep19a")
+            $ contact_Aubrey.newMessage(aubreyMessage19b)
+            $ contact_Aubrey.newMessage(aubreyMessage19)
             $ aubmsg19 = "Still shaking from earlier"
             $ aubrep19a = "Holy shit, I'll be there next time"
 
 
         else:
-            $ contact_Aubrey.newImgMessage("images/text3.jpg")
-            $ contact_Aubrey.newMessage("You missed out today")
-            $ contact_Aubrey.addReply("Daaaamn, I'll be there next time", "aubrep19aa")
+            $ contact_Aubrey.newMessage(aubreyMessage19b)
+            $ contact_Aubrey.newMessage(aubreyMessage19a)
             $ aubmsg19a = "You missed out today"
             $ aubrep19aa = "Holy shit, I'll be there next time"
 
@@ -6163,8 +6150,7 @@ label script06:
     $ showphone = True
     $ msgnot = 1
     $ ammsg = 22
-    $ contact_Amber.newMessage("Heyy, what are you up to? xx")
-    $ contact_Amber.addReply("Just walking back from the gym wbu?", "amrep22a")
+    $ contact_Amber.newMessage(amberMessage22)
     $ ammsg22 = "Heyy, what are you up to? xx"
     $ amrep22a = "Just walking back from the gym wbu?"
     $ ammsg23 = "Going to my next lecture x_x"
@@ -6180,7 +6166,7 @@ label script06:
 
     if bowling == True:
 
-        $ contact_Penelope.addReply("Hey, you wanna go bowling today? I'm free this afternoon", "perep1a")
+        $ contact_Penelope.newMessage(penelopeMessage0)
         $ contact_Penelope.unlock()
         $ showphone = 1
         $ peisreply = 1
@@ -6872,7 +6858,7 @@ label script06:
         scene s629 #Close up Riley flirty smile
         with dissolve
 
-        ri "How did you pull that off? You just performed a lullaby and everyone was clapping at the end."
+        ri "How did you pull that off? You just perfomed a lullaby and everyone was clapping at the end."
 
         scene s629a
         with dissolve
@@ -7351,7 +7337,7 @@ label script06:
         scene s655c
         with dissolve
 
-        u "Wait you hacked into your school to improve your grades? Come on that's hilarious."
+        u "Wait you hacked into your school to improve your grades? Come on that's hillarious."
 
         scene s655b
         with dissolve
@@ -7624,12 +7610,12 @@ label script06:
         scene s663
         with dissolve
 
-        imre "Not only are we gonna meet all the Wolves, but there are gonna be some feisty mamacitas."
+        imre "Not only are we gonna meet all the Wolves, but there are gonna be some fiesty mamacitas."
 
         scene s663a
         with dissolve
 
-        u "*Laughs* Feisty mamacitas? Seriously?"
+        u "*Laughs* Fiesty mamacitas? Seriously?"
 
         scene s663
         with dissolve
@@ -8112,7 +8098,7 @@ label script06:
 
     scene sfr3jo3c
     with dissolve
-    u "*Deep breath* Okay, ouch. That felt a little unnecessary, not gonna lie."
+    u "*Deep breath* Okay, ouch. That felt a little unecessary, not gonna lie."
 
     scene sfr3jo3
     with dissolve
@@ -9088,7 +9074,7 @@ label script06:
         scene sfr3ch2b
         with dissolve
 
-        ch "There's a whole lot of us. Harry, he got jumped, was traumatized from it. We got his back. Sebastian, Aaron, Marcus. The list goes on."
+        ch "There's a whole lot of us. Harry, he got jumped, was traumatized from it. We got his back. Sebastian, Aaron, Marcus. The list go on."
 
         if joinapes == True:
 
@@ -9248,7 +9234,7 @@ label script06:
         scene sfr3ch2b
         with dissolve
 
-        ch "There's a whole lot of us. Harry, he got jumped, was traumatized from it. We got his back. Sebastian, Aaron, Marcus. The list goes on."
+        ch "There's a whole lot of us. Harry, he got jumped, was traumatized from it. We got his back. Sebastian, Aaron, Marcus. The list go on."
 
         if joinapes == True:
 
@@ -9438,7 +9424,7 @@ label script06:
     scene sfr3ri2a
     with dissolve
 
-    u "Yeah... I feel like he might have ulterior motives."
+    u "Yeah... I feel like he might has ulterior motives."
 
     scene sfr3ri2d
     with dissolve
@@ -9506,41 +9492,41 @@ label script06:
 
     u "Not sure yet."
 
-    scene sfr3ri3d # finn comfortable
+    scene sfr3ri3c # finn comfortable
     with dissolve
 
     finn "Tough getting in, but once you're in, it's the best place to be."
 
-    scene sfr3ri3c
+    scene sfr3ri3d
     with dissolve
 
     u "Yeah, seems like what everyone is saying around here. You know Imre?"
 
-    scene sfr3ri3d
+    scene sfr3ri3c
     with dissolve
 
     finn "Imre... Oh, he's Bence's younger brother, right?"
 
-    scene sfr3ri3c
+    scene sfr3ri3d
     with dissolve
 
     u "Uhh... yeah, if Bence is the name of his older brother."
 
     u "He used to be a Wolf, right?"
 
-    scene sfr3ri3d
+    scene sfr3ri3c
     with dissolve
 
-    finn "Yeah, I mean he's kind of a legend around here."
+    finn "Yeah , I mean he's kind of a legend around here."
 
     finn "He was fight king two years in a row. It's crazy."
 
-    scene sfr3ri3c
+    scene sfr3ri3d
     with dissolve
 
     u "Wow... Imre's got big shoes to fill."
 
-    scene sfr3ri3d
+    scene sfr3ri3c
     with dissolve
 
     finn "We all do."
@@ -11789,7 +11775,7 @@ label script06:
     scene sufr3ri2
     with dissolve
 
-    ri "Yeah, it's nice to be somewhere a bit more quiet after being right next to really loud speakers the entire night."
+    ri "Yeah, it's nice to be somehwere a bit more quiet after being right next to really loud speakers the entire night."
 
     scene sufr3ri2a
     with dissolve
