@@ -1,4 +1,5 @@
-# college-kings-game
+# college-kings-translations
 
-The 2nd best game on the internet
+:eyes:
+
 
