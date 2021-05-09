@@ -1,4 +1,4 @@
 # College Kings Translation Files
 
-DO NOT EDIT MASTER BRANCH
- - Create a new bramch for your language and copy the base files from master.
+DO NOT EDIT MAIN BRANCH
+ - Create a new bramch for your language and copy the base files from main.
