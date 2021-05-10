@@ -26,7 +26,7 @@ DO NOT EDIT MAIN BRANCH
  - Do **not** push it to the main branch.
  - Update your progress in the table below.
  - Remove your name from the table below. 
- - If you want to continue translating, jump to the previous step again.
+ - If you want to continue translating, jump to [the previous step](https://github.com/College-Kings/College-Kings-Translations#how-to-start-translating-a-new-part) again.
 
 Progress | ?/all | Who is working on it?
 ---------|----------|-----------
