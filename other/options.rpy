@@ -1,6 +1,6 @@
 ﻿# TODO: Translation updated at 2021-05-09 03:37
 
-translate other strings:
+translate lang_base_translation strings:
 
     # game/options.rpy:18
     old "College Kings"
