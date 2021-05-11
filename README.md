@@ -30,7 +30,7 @@ DO NOT EDIT MAIN BRANCH
 
 Progress | ?/all | Who is working on it? | Proofreading
 -------- | -------- | --------- | ---------
-non script files | 0/2 | - | [x]
+non script files | 0/2 | - | [ ]
 scriptv1-v2.rpy | 0/9515 | - | [ ]
 scriptv3.rpy | 0/3639 | - | [ ]
 scriptv4.rpy | 0/5653 | - | [ ]
