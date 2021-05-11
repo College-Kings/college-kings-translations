@@ -29,7 +29,7 @@ DO NOT EDIT MAIN BRANCH
  - If you want to continue translating, jump to [the previous step](https://github.com/College-Kings/College-Kings-Translations#how-to-start-translating-a-new-part) again.
 
 Progress | ?/all | Who is working on it? | Proofreading
----------|----------|-----------
+-------- | -------- | --------- | ---------
 non script files | 0/2 | - | [x]
 scriptv1-v2.rpy | 0/9515 | - | [ ]
 scriptv3.rpy | 0/3639 | - | [ ]
