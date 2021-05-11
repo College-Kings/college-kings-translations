@@ -1,6 +1,6 @@
 # College Kings Translation Files
 
-DO NOT EDIT MAIN BRANCH
+CZECH
 
 ### How to make a new language:
  - Create a new branch for your language, name it after your language and copy the base files from main.
