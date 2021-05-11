@@ -1133,4 +1133,3 @@ translate czech strings:
     # renpy/common/_errorhandling.rpym:694
     old "Copies the errors.txt file to the clipboard as Markdown for Discord."
     new ""
-
