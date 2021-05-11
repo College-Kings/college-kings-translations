@@ -28,19 +28,17 @@ DO NOT EDIT MAIN BRANCH
  - Remove your name from the table below. 
  - If you want to continue translating, jump to [the previous step](https://github.com/College-Kings/College-Kings-Translations#how-to-start-translating-a-new-part) again.
 
-If you want to proofread your script again, there is a column for that as well, just place an x in the brackets. If you are alone and don't have the time for that, just skip that step for now.
-
-Progress | ?/all | Who is working on it? | Proofreading
--------- | -------- | --------- | ---------
-non script files | 0/2 | - | [ ]
-scriptv1-v2.rpy | 0/9515 | - | [ ]
-scriptv3.rpy | 0/3639 | - | [ ]
-scriptv4.rpy | 0/5653 | - | [ ]
-scriptv5.rpy | 0/2305 | - | [ ]
-scriptv6.rpy | TBA | - | [ ]
-scriptv7.rpy |TBA | - | [ ]
-v08 files | TBA | - | [ ]
-v09 files | TBA | - | [ ]
-v10 files | TBA | - | [ ]
+Progress | ?/all | Who is working on it?
+---------|----------|-----------
+non script files | 0/2 | -
+scriptv1-v2.rpy | 0/9515 | -
+scriptv3.rpy | 0/3639 | -
+scriptv4.rpy | 0/5653 | -
+scriptv5.rpy | 0/2305 | -
+scriptv6.rpy | TBA | -
+scriptv7.rpy |TBA | -
+v08 files | TBA | -
+v09 files | TBA | -
+v10 files | TBA | -
 
 Have fun!
