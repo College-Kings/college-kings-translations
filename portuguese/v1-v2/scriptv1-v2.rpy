@@ -4,175 +4,175 @@
 translate portuguese v1_cf384216:
 
     # em "I know what I did was bad..."
-    em ""
+    em "Sei que o que fiz foi errado..."
 
 # game/v1-v2/scriptv1-v2.rpy:20
 translate portuguese v1_64fd2540:
 
     # em "But I'll do anything to make it up to you."
-    em ""
+    em "Mas eu farei qualquer coisa para te compensar."
 
 # game/v1-v2/scriptv1-v2.rpy:25
 translate portuguese v1_bf767b85:
 
     # em "Anything."
-    em ""
+    em "Qualquer coisa!"
 
 # game/v1-v2/scriptv1-v2.rpy:33
 translate portuguese v1_a412f2c0:
 
     # "Honey?"
-    ""
+    "Querido?"
 
 # game/v1-v2/scriptv1-v2.rpy:43
 translate portuguese v1_b3630c9b:
 
     # u "Hmm...?"
-    u ""
+    u "Hmm...?"
 
 # game/v1-v2/scriptv1-v2.rpy:48
 translate portuguese v1_d8f49870:
 
     # ju "Breakfast is ready!"
-    ju ""
+    ju "O café está pronto!"
 
 # game/v1-v2/scriptv1-v2.rpy:53
 translate portuguese v1_d1bbd257:
 
     # u "Mhmm... I'll be right down."
-    u ""
+    u "Mhmm... Já estou indo."
 
 # game/v1-v2/scriptv1-v2.rpy:54
 translate portuguese v1_e1ee75ad:
 
     # u "(What am I doing dreaming about Emily?!)"
-    u ""
+    u "(O que eu tô fazendo sonhando com a Emily?!)"
 
 # game/v1-v2/scriptv1-v2.rpy:60
 translate portuguese v1_b74833d7:
 
     # ju "Good morning, honey."
-    ju ""
+    ju "Bom dia, querido."
 
 # game/v1-v2/scriptv1-v2.rpy:65
 translate portuguese v1_b997b913:
 
     # u "Morning, Julia."
-    u ""
+    u "Bom dia, Julia."
 
 # game/v1-v2/scriptv1-v2.rpy:70
 translate portuguese v1_6de07b52:
 
     # ju "Are you excited for today?"
-    ju ""
+    ju "Está animado para hoje?"
 
 # game/v1-v2/scriptv1-v2.rpy:75
 translate portuguese v1_4331151b:
 
     # u "Excited?"
-    u ""
+    u "Animado?"
 
 # game/v1-v2/scriptv1-v2.rpy:80
 translate portuguese v1_92971eae:
 
     # ju "Honey, it's your first day of college. That's a big deal!"
-    ju ""
+    ju "Querido, hoje é seu primeiro dia na faculdade. Isso é muito importante!"
 
 # game/v1-v2/scriptv1-v2.rpy:85
 translate portuguese v1_8f620671:
 
     # u "I guess you're right."
-    u ""
+    u "É, acho que você tá certa."
 
 # game/v1-v2/scriptv1-v2.rpy:89
 translate portuguese v1_2eccb6f0:
 
     # ju "Have you packed all your stuff? Have you printed out all the documents you need? Have you-"
-    ju ""
+    ju "Já arrumou suas malas? Já imprimiu todos os documentos que precisa? Já-"
 
 # game/v1-v2/scriptv1-v2.rpy:95
 translate portuguese v1_d6c07c0e:
 
     # u "Julia, it's fine. I packed yesterday."
-    u ""
+    u "Julia, tá tudo certo. Já organizei tudo ontem."
 
 # game/v1-v2/scriptv1-v2.rpy:100
 translate portuguese v1_82219ef8:
 
     # ju "Look at you, all grown-up. I'm so proud of you."
-    ju ""
+    ju "Olhe para você, todo crescido. Tenho tanto orgulho de você."
 
 # game/v1-v2/scriptv1-v2.rpy:105
 translate portuguese v1_52918fb3:
 
     # ju "You better not forget to come visit."
-    ju ""
+    ju "É melhor não esquecer de vir me visitar."
 
 # game/v1-v2/scriptv1-v2.rpy:106
 translate portuguese v1_82cfc32d:
 
     # u "I'll think about it, if you make lasagna."
-    u ""
+    u "Vou pensar nisso, se você fizer sua lasanha."
 
 # game/v1-v2/scriptv1-v2.rpy:111
 translate portuguese v1_038be2bb:
 
     # ju "I'm sure that could be arranged."
-    ju ""
+    ju "Eu tenho certeza que isso pode ser feito."
 
 # game/v1-v2/scriptv1-v2.rpy:113
 translate portuguese v1_73181c8a:
 
     # ju "Anyway, we should get ready, you don't wanna be late on your first day of college!"
-    ju ""
+    ju "De qualquer forma, devemos nos apressar, você não vai querer chegar atrasado no seu primeiro dia!"
 
 # game/v1-v2/scriptv1-v2.rpy:119
 translate portuguese v1_2622622a:
 
     # u "Oh you're dropping me off? I was gonna take the train."
-    u ""
+    u "Ah, você vai me levar? Eu ia pegar o trem."
 
 # game/v1-v2/scriptv1-v2.rpy:125
 translate portuguese v1_687c0a29:
 
     # ju "No way you're robbing me of the chance to embarrass you in front of your new friends."
-    ju ""
+    ju "De jeito nenhum vou perder a chance de te envergonhar da frente dos seus novos amigos."
 
 # game/v1-v2/scriptv1-v2.rpy:131
 translate portuguese v1_0d074dd4:
 
     # u "Thanks, Julia... I'll be 20 minutes."
-    u ""
+    u "Obrigado, Julia... Me dá uns 20 minutinhos só."
 
 # game/v1-v2/scriptv1-v2.rpy:136
 translate portuguese v1_9a77e500:
 
     # u "(I better not lose this bag, Julia loves it.)"
-    u ""
+    u "(Melhor não perder essa mala, Julia ama ela.)"
 
 # game/v1-v2/scriptv1-v2.rpy:140
 translate portuguese v1_8bdb5ed3:
 
     # u "(Huh?)"
-    u ""
+    u "(Huh?)"
 
 # game/v1-v2/scriptv1-v2.rpy:177
 translate portuguese v1_360e66fc:
 
     # u "(Fuck, I really don't want to see her again after what happened.\nHopefully I can avoid her as much as possible.)"
-    u ""
+    u "(Porra, eu realmente não quero vê-la de novo depois do que aconteceu. Felizmente eu posso evita-la o máximo possível.)"
 
 # game/v1-v2/scriptv1-v2.rpy:184
 translate portuguese v1_2dac9d0e:
 
     # ju "You know, when I was in college, there were these fraternities and sororities that everyone wanted to join."
-    ju ""
+    ju "Sabe, quando eu estava na faculdade, existia essas fraternidades e irmandades que todos queriam fazer parte."
 
 # game/v1-v2/scriptv1-v2.rpy:186
 translate portuguese v1_ed7737e5:
 
     # ju "I always thought they were stupid. Binge drinking, idiotic challenges and fighting..."
-    ju ""
+    ju "Sempre achei que eles eram idiotas. Bebedeira, desafios idiotas e lutas..."
 
 # game/v1-v2/scriptv1-v2.rpy:192
 translate portuguese v1_ee490b9d:
@@ -9511,4 +9511,3 @@ translate portuguese strings:
     # game/v1-v2/scriptv1-v2.rpy:8415
     old "Be funny"
     new ""
-
