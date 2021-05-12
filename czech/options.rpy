@@ -4,4 +4,4 @@ translate czech strings:
 
     # game/options.rpy:18
     old "College Kings"
-    new ""
+    new "College Kings"
