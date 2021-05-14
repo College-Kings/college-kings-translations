@@ -2,7 +2,7 @@ I WILL UPLOAD THE FILES WHEN THEY ARE 100% DONE
 
 Progress | 4893/all | Who is working on it? | Proofreading
 -------- | -------- | --------- | ---------
-non script files | 1/2 | Krisp1k, PorneliusHubert | [X]
+non script files | 2/2 | Krisp1k, PorneliusHubert | [X]
 scriptv1-v2.rpy | 2704/9515 | PorneliusHubert | [ ]
 scriptv3.rpy | 0/3639 | - | [ ]
 scriptv4.rpy | 0/5653 | - | [ ]
