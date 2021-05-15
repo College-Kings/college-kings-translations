@@ -4,7 +4,7 @@
 translate turkish v3start_4f1997c1:
 
     # "*Knock knock knock*"
-    ""
+    "*Tak tak tak*"
 
 # game/v3/scriptv3.rpy:12
 translate turkish v3start_fa90d2f1:
