@@ -52,103 +52,103 @@ translate turkish v3start_0c12dca7:
 translate turkish v3start_924b5680:
 
     # cl "Me and Grayson had a thing, a looong time ago."
-    cl ""
+    cl "Grayson'la çok uzuuuun zaman önce bir şey yaşadık."
 
 # game/v3/scriptv3.rpy:57
 translate turkish v3start_68d063d6:
 
     # cl "But after a while, he started to lie and do shady shit and... you know, be the person he is. So I broke it off."
-    cl ""
+    cl "Ama bir süre sonra, o yalan ve gölgeli bok yapmaya başladı ve... biliyor musun, insan kendisi. Bu yüzden ayrıldık."
 
 # game/v3/scriptv3.rpy:59
 translate turkish v3start_3f4cd669:
 
     # cl "And ever since, he's just been... I guess trying to get back at me?"
-    cl ""
+    cl "Ve o zamandan beri, o sadece ... Sanırım bana geri dönmeye çalışıyor?"
 
 # game/v3/scriptv3.rpy:64
 translate turkish v3start_a3326c2c:
 
     # cl "I don't know..."
-    cl ""
+    cl "Bilmiyorum..."
 
 # game/v3/scriptv3.rpy:69
 translate turkish v3start_db66d353:
 
     # u "If you don't even like Grayson, why were you at his party?"
-    u ""
+    u "Eğer Grayson'dan hoşlanmıyorsan, neden onun partisindeydin?"
 
 # game/v3/scriptv3.rpy:74
 translate turkish v3start_87f53c76:
 
     # cl "It's complicated."
-    cl ""
+    cl "Bu biraz karmaşık."
 
 # game/v3/scriptv3.rpy:76
 translate turkish v3start_3fc28f4c:
 
     # cl "Girls join the Chicks 'cause they wanna party and have fun."
-    cl ""
+    cl "Kızlar Civcivlere katılır çünkü parti yapmak ve eğlenmek isterler."
 
 # game/v3/scriptv3.rpy:78
 translate turkish v3start_2d0a2d26:
 
     # cl "If I don't show up to Ape parties as the Chicks' president, I risk losing the relationships I've built and being voted out."
-    cl ""
+    cl "Eğer Maymun partilerine Civcivlerin başkanı olarak gelmezsem, kurduğum ilişkileri kaybetme ve oy kaybetme riskiyle karşı karşıya kalırım."
 
 # game/v3/scriptv3.rpy:83
 translate turkish v3start_e60663e2:
 
     # u "It's just... we were having such a great night and then this kinda ruined it."
-    u ""
+    u "Sadece... harika bir gece geçiriyorduk ve sonra bu onu mahvetti."
 
 # game/v3/scriptv3.rpy:88
 translate turkish v3start_83907c29:
 
     # cl "I know and I'm so sorry."
-    cl ""
+    cl "Biliyorum ve çok üzgünüm."
 
 # game/v3/scriptv3.rpy:93
 translate turkish v3start_cbfdbaad:
 
     # cl "I have to go right now, but meet me at midnight behind the gym and I'll make it up to you."
-    cl ""
+    cl "Hemen gitmem gerek, ama gece yarısı spor salonunun arkasında buluşalım ve telafi edeyim."
 
 # game/v3/scriptv3.rpy:98
 translate turkish v3start_e5b7dbdd:
 
     # u "What if I can't find you? Shouldn't you at least give me your number?"
-    u ""
+    u "Eğer seni bulamazsam ne olacak? En azından numaranı vermen gerekmiyor mu?"
 
 # game/v3/scriptv3.rpy:103
 translate turkish v3start_ed3c843a:
 
     # cl "Haha, I guess I'll have to... for safety reasons."
-    cl ""
+    cl "Haha, sanırım yapmam gerekecek ... güvenlik nedeniyle."
 
 # game/v3/scriptv3.rpy:114
 translate turkish v3start_912c9d4a:
 
     # cl "I'll see you at midnight. Don't be late."
-    cl ""
+    cl "Gece yarısı görüşürüz. Sakın geç kalma."
 
 # game/v3/scriptv3.rpy:130
 translate turkish v3start_d9894fe0:
 
     # u "Imre, where have you been? There's no way the volleyball game went on for this long, did it?"
-    u ""
+    u "Imre, nerelerdeydin? Voleybol maçı bu kadar uzun sürmedi, değil mi?"
 
 # game/v3/scriptv3.rpy:135
 translate turkish v3start_0a37f264:
 
     # imre "Hello, my friend. A gentleman never tells."
-    imre ""
+    imre "Selam, birader. Bir beyefendi asla söylemez."
 
 # game/v3/scriptv3.rpy:140
 translate turkish v3start_f5c3c13a:
 
     # u "Wait, you were with a girl?"
-    u ""
+    u "Bekle, bir kızla mıydın?"
 
 # game/v3/scriptv3.rpy:145
 translate turkish v3start_7e591237:
