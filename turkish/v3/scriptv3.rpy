@@ -10,43 +10,43 @@ translate turkish v3start_4f1997c1:
 translate turkish v3start_fa90d2f1:
 
     # u "(Who could that be?)"
-    u ""
+    u "(Bu kim olabilir?)"
 
 # game/v3/scriptv3.rpy:20
 translate turkish v3start_c8fc4dc6:
 
     # u "Chloe? What are you doing here?"
-    u ""
+    u "Chloe? Burada ne yapıyorsun?"
 
 # game/v3/scriptv3.rpy:25
 translate turkish v3start_4ebd6072:
 
     # cl "Hey, uhm... Do you have a minute?"
-    cl ""
+    cl "Selam, uhm... Bir dakikan var mı?"
 
 # game/v3/scriptv3.rpy:30
 translate turkish v3start_ed163feb:
 
     # u "Sure, come in."
-    u ""
+    u "Tabii, içeri gel."
 
 # game/v3/scriptv3.rpy:40
 translate turkish v3start_17256923:
 
     # cl "How's your eye?"
-    cl ""
+    cl "Gözün nasıl?"
 
 # game/v3/scriptv3.rpy:45
 translate turkish v3start_80c8f97f:
 
     # u "Uhm... not too bad. Thanks for asking."
-    u ""
+    u "Uhm... fena değil. Sorduğun için teşekkürler."
 
 # game/v3/scriptv3.rpy:50
 translate turkish v3start_0c12dca7:
 
     # cl "Look, about yesterday..."
-    cl ""
+    cl "Bak, dün hakkında..."
 
 # game/v3/scriptv3.rpy:52
 translate turkish v3start_924b5680:
