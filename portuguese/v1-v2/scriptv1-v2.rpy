@@ -1858,1153 +1858,1153 @@ translate portuguese v1_phoneCheck1_bcc5a332:
 translate portuguese v1_phoneCheck1_f457b45a:
 
     # ri "I doubt it."
-    ri ""
+    ri "Duvido muito disso."
 
 # game/v1-v2/scriptv1-v2.rpy:1637
 translate portuguese v1_phoneCheck1_8680b32f:
 
     # imre "Oh hello there mister, are your parents terrorists?"
-    imre ""
+    imre "Olá, senhor, seus pais são terroristas?"
 
 # game/v1-v2/scriptv1-v2.rpy:1639
 translate portuguese v1_phoneCheck1_1dd11341:
 
     # imre "Cause you look bomb."
-    imre ""
+    imre "Porque você é uma bomba."
 
 # game/v1-v2/scriptv1-v2.rpy:1644
 translate portuguese v1_phoneCheck1_a2cbeebf:
 
     # ri "Hahahaha, why did you say mister?"
-    ri ""
+    ri "Hahahaha, porque você disse senhor?"
 
 # game/v1-v2/scriptv1-v2.rpy:1649
 translate portuguese v1_phoneCheck1_d8852fe0:
 
     # imre "It wasn't... I'm not... The dumbbell is just a manly thing."
-    imre ""
+    imre "Não foi... Eu não... É que o haltere é uma coisa masculina."
 
 # game/v1-v2/scriptv1-v2.rpy:1651
 translate portuguese v1_phoneCheck1_ef5faf11:
 
     # imre "It's a mister."
-    imre ""
+    imre "É um senhor."
 
 # game/v1-v2/scriptv1-v2.rpy:1656
 translate portuguese v1_phoneCheck1_774d1c13:
 
     # la "Yeah, it's definitely not highlighting your subconscious preferences."
-    la ""
+    la "Uhum, isso com certeza não quer dizer nada sobre sua sexualidade."
 
 # game/v1-v2/scriptv1-v2.rpy:1661
 translate portuguese v1_phoneCheck1_75e607a7:
 
     # imre "Oh shut up, Lauren. Your turn."
-    imre ""
+    imre "Ah, cala a boca Lauren. Sua vez."
 
 # game/v1-v2/scriptv1-v2.rpy:1666
 translate portuguese v1_phoneCheck1_baf1a5a6:
 
     # la "Alright, what do you want me to do?"
-    la ""
+    la "Tá certo, o que você quer que eu faça?"
 
 # game/v1-v2/scriptv1-v2.rpy:1671
 translate portuguese v1_phoneCheck1_45a1691c:
 
     # imre "I dare you to make out with [name]."
-    imre ""
+    imre "Te desafio a dar uns pegas no [name]."
 
 # game/v1-v2/scriptv1-v2.rpy:1676
 translate portuguese v1_phoneCheck1_8acfc209:
 
     # ri "Ahahahaha wow."
-    ri ""
+    ri "Hahaha, nossa!"
 
 # game/v1-v2/scriptv1-v2.rpy:1680
 translate portuguese v1_phoneCheck1_c38ff59f:
 
     # la "I think I'll drink."
-    la ""
+    la "Acho que eu vou beber."
 
 # game/v1-v2/scriptv1-v2.rpy:1687
 translate portuguese v1_phoneCheck1_454f0de5:
 
     # u "Wow... you're missing out, Lauren."
-    u ""
+    u "Nossa... não sabe o que tá perdendo, hein Lauren..."
 
 # game/v1-v2/scriptv1-v2.rpy:1692
 translate portuguese v1_phoneCheck1_987ef508:
 
     # la "I guess we'll never know."
-    la ""
+    la "Acho que nunca saberemos!"
 
 # game/v1-v2/scriptv1-v2.rpy:1700
 translate portuguese v1_phoneCheck1_5fb843b3:
 
     # u "Phew, dodged a bullet there."
-    u ""
+    u "Ufa, desviei de uma bala aqui."
 
 # game/v1-v2/scriptv1-v2.rpy:1705
 translate portuguese v1_phoneCheck1_4bc362eb:
 
     # imre "Damn..."
-    imre ""
+    imre "Eita..."
 
 # game/v1-v2/scriptv1-v2.rpy:1710
 translate portuguese v1_phoneCheck1_98d0516e:
 
     # imre "Okay, it's your turn to dare someone, Lauren."
-    imre ""
+    imre "Ok, é sua vez de desafiar alguém, Lauren."
 
 # game/v1-v2/scriptv1-v2.rpy:1715
 translate portuguese v1_phoneCheck1_d062db1f:
 
     # la "Riley, I dare you to let Imre slap your ass."
-    la ""
+    la "Riley, te desafio a deixar o Imre dar um tapão na sua bunda."
 
 # game/v1-v2/scriptv1-v2.rpy:1720
 translate portuguese v1_phoneCheck1_f4318083:
 
     # ri "Oh that's easy. Let's do it, Imre"
-    ri ""
+    ri "Ah, essa é fácil! Pode vir, Imre."
 
 # game/v1-v2/scriptv1-v2.rpy:1725
 translate portuguese v1_phoneCheck1_aa6a6ec0:
 
     # imre "Great idea, Lauren!"
-    imre ""
+    imre "Valeeeeeu, Lauren!"
 
 # game/v1-v2/scriptv1-v2.rpy:1732
 translate portuguese v1_phoneCheck1_20c73366:
 
     # "*Slap*"
-    ""
+    "*Tapa*"
 
 # game/v1-v2/scriptv1-v2.rpy:1737
 translate portuguese v1_phoneCheck1_031008df:
 
     # ri "Imre! You went way too hard."
-    ri ""
+    ri "Imre! Você bateu forte demais!"
 
 # game/v1-v2/scriptv1-v2.rpy:1742
 translate portuguese v1_phoneCheck1_35839244:
 
     # imre "My bad, it looked so juicy."
-    imre ""
+    imre "Foi mal, é que eu me empolguei com o tamanho dela."
 
 # game/v1-v2/scriptv1-v2.rpy:1747
 translate portuguese v1_phoneCheck1_d4987fa2:
 
     # la "Haha, oh god."
-    la ""
+    la "Hahaha, meu deus!"
 
 # game/v1-v2/scriptv1-v2.rpy:1752
 translate portuguese v1_phoneCheck1_0cd7d3c7:
 
     # ri "Alright [name], your turn."
-    ri ""
+    ri "Beleza [name], sua vez."
 
 # game/v1-v2/scriptv1-v2.rpy:1757
 translate portuguese v1_phoneCheck1_6f27b08f:
 
     # u "I'm ready."
-    u ""
+    u "Pode mandar."
 
 # game/v1-v2/scriptv1-v2.rpy:1761
 translate portuguese v1_phoneCheck1_dca69df6:
 
     # ri "Take your shirt off."
-    ri ""
+    ri "Tira a camisa."
 
 # game/v1-v2/scriptv1-v2.rpy:1770
 translate portuguese v1_phoneCheck1_9fad5dff:
 
     # u "There you go. Happy now?"
-    u ""
+    u "Prontinho. Tá feliz agora?"
 
 # game/v1-v2/scriptv1-v2.rpy:1775
 translate portuguese v1_phoneCheck1_6c96e4ad:
 
     # ri "Very happy."
-    ri ""
+    ri "Muito."
 
 # game/v1-v2/scriptv1-v2.rpy:1780
 translate portuguese v1_phoneCheck1_561b2c3f:
 
     # u "Well then, Riley, I dare you to also take your shirt off."
-    u ""
+    u "Então tá. Riley, eu te desafio a tirar sua camisa também."
 
 # game/v1-v2/scriptv1-v2.rpy:1786
 translate portuguese v1_phoneCheck1_9ea2f78c_1:
 
     # " "
-    ""
+    " "
 
 # game/v1-v2/scriptv1-v2.rpy:1791
 translate portuguese v1_phoneCheck1_a4b0a16f:
 
     # ri "Really? That was such an easy dare."
-    ri ""
+    ri "Sério? Foi um desafio tão fácil."
 
 # game/v1-v2/scriptv1-v2.rpy:1796
 translate portuguese v1_phoneCheck1_b4ee8d13:
 
     # u "If that's what you think, then I dare you to take your shirt off."
-    u ""
+    u "Já que você achou fácil, eu te desafio a tirar a sua."
 
 # game/v1-v2/scriptv1-v2.rpy:1800
 translate portuguese v1_phoneCheck1_528d8c89:
 
     # ri "What?! Can he just dare me back like that?"
-    ri ""
+    ri "Quê?! Ele pode me desafiar de volta assim?"
 
 # game/v1-v2/scriptv1-v2.rpy:1805
 translate portuguese v1_phoneCheck1_4eb6b525:
 
     # imre "Normally it's not allowed, but I think for this one we'll make an exception."
-    imre ""
+    imre "Normalmente não é permitido, mas eu acho que vou abrir um exceção aqui."
 
 # game/v1-v2/scriptv1-v2.rpy:1810
 translate portuguese v1_phoneCheck1_ee982c6c:
 
     # ri "I'm not wearing a bra."
-    ri ""
+    ri "Eu nem tô usando sutiã."
 
 # game/v1-v2/scriptv1-v2.rpy:1812
 translate portuguese v1_phoneCheck1_f1fed5ce:
 
     # imre "Nnnnnnice."
-    imre ""
+    imre "Oooopa!"
 
 # game/v1-v2/scriptv1-v2.rpy:1817
 translate portuguese v1_phoneCheck1_8db5bfdc:
 
     # ri "So I feel like that dare is kinda unfair."
-    ri ""
+    ri "Então eu acho esse desafio meio injusto."
 
 # game/v1-v2/scriptv1-v2.rpy:1825
 translate portuguese v1_phoneCheck1_48a67918:
 
     # u "You gotta do the dare, or drink."
-    u ""
+    u "Ou você faz o desafio, ou bebe."
 
 # game/v1-v2/scriptv1-v2.rpy:1830
 translate portuguese v1_phoneCheck1_ee280130:
 
     # ri "Fine..."
-    ri ""
+    ri "Tá..."
 
 # game/v1-v2/scriptv1-v2.rpy:1835
 translate portuguese v1_phoneCheck1_9ea2f78c_2:
 
     # " "
-    ""
+    " "
 
 # game/v1-v2/scriptv1-v2.rpy:1842
 translate portuguese v1_phoneCheck1_0703a208:
 
     # u "You're right, let's continue."
-    u ""
+    u "É verdade. vamos continuar."
 
 # game/v1-v2/scriptv1-v2.rpy:1847
 translate portuguese v1_phoneCheck1_4b009856:
 
     # la "Guys, I don't wanna kill the vibe, but we have class pretty early tomorrow and I don't wanna be late for my first Economics class."
-    la ""
+    la "Gente, eu não queria ser a chata do rolê, mas temos aula amanhã cedo e eu não quero me atrasar pra minha primeira aula de economia."
 
 # game/v1-v2/scriptv1-v2.rpy:1852
 translate portuguese v1_phoneCheck1_7115daf6:
 
     # imre "What? But we were just getting started."
-    imre ""
+    imre "Quê? Mas a gente tá só começando."
 
 # game/v1-v2/scriptv1-v2.rpy:1857
 translate portuguese v1_phoneCheck1_d3713859:
 
     # ri "She's right, we should get going. We'll see you tomorrow."
-    ri ""
+    ri "Ela tá certa, temos que ir. A gente se vê amanhã."
 
 # game/v1-v2/scriptv1-v2.rpy:1862
 translate portuguese v1_phoneCheck1_d0763037:
 
     # u "Alright, see ya."
-    u ""
+    u "Tá bem, até amanhã."
 
 # game/v1-v2/scriptv1-v2.rpy:1870
 translate portuguese v1_phoneCheck1_062bd566:
 
     # imre "Man, I can't wait to bang this Riley chick."
-    imre ""
+    imre "Mano, eu mal posso esperar pra foder a gostosa Riley."
 
 # game/v1-v2/scriptv1-v2.rpy:1878
 translate portuguese v1_phoneCheck1_5d298f3a:
 
     # u "What? I want Riley. You can have Lauren."
-    u ""
+    u "Hã? Eu quero a Riley. Pode ficar com a Lauren"
 
 # game/v1-v2/scriptv1-v2.rpy:1882
 translate portuguese v1_phoneCheck1_168d6fc9:
 
     # imre "What the hell man?! I invited Riley. Back off."
-    imre ""
+    imre "Como assim, cara?! Eu convidei a Riley, sai dessa."
 
 # game/v1-v2/scriptv1-v2.rpy:1890
 translate portuguese v1_phoneCheck1_cc615a84:
 
     # u "You're right, Riley is yours. I'm sorry."
-    u ""
+    u "Cê tá certo, ela é sua. Foi mal."
 
 # game/v1-v2/scriptv1-v2.rpy:1895
 translate portuguese v1_phoneCheck1_7acc74ef:
 
     # imre "It's fine bro, I get it. She is really cute."
-    imre ""
+    imre "Tranquilo, irmão, eu entendo. Ela é muito gata."
 
 # game/v1-v2/scriptv1-v2.rpy:1902
 translate portuguese v1_phoneCheck1_43341517:
 
     # u "She wanted to see ME shirtless, not you. Face it, she wants me."
-    u ""
+    u "Ela queria me ver sem camisa, não você. Aceita que dói menos, ela me quer."
 
 # game/v1-v2/scriptv1-v2.rpy:1907
 translate portuguese v1_phoneCheck1_269f1c8b:
 
     # imre "Man, that was drink or dare, get over yourself."
-    imre ""
+    imre "Mano, era só verdade ou desafio, se liga."
 
 # game/v1-v2/scriptv1-v2.rpy:1909
 translate portuguese v1_phoneCheck1_7519f971:
 
     # imre "What happened to bros before hoes..."
-    imre ""
+    imre "O que aconteceu com aquele papo de manos antes das minas..."
 
 # game/v1-v2/scriptv1-v2.rpy:1914
 translate portuguese v1_phoneCheck1_9ec683bd:
 
     # u "Shit... You're right, sorry. I shouldn't have..."
-    u ""
+    u "Merda, você tá certo, foi mal. Eu não devia..."
 
 # game/v1-v2/scriptv1-v2.rpy:1918
 translate portuguese v1_phoneCheck1_ffeb2061:
 
     # imre "It's alright man, I get it."
-    imre ""
+    imre "Tá tudo bem mano, eu entendo."
 
 # game/v1-v2/scriptv1-v2.rpy:1921
 translate portuguese v1_phoneCheck1_ab6db348:
 
     # imre "Trust me, we're gonna bang so many chicks this year. All we need is confidence..."
-    imre ""
+    imre "E acredite, nós vamos foder muita mina esse ano. Só precisamos de confiança..."
 
 # game/v1-v2/scriptv1-v2.rpy:1929
 translate portuguese v1_phoneCheck1_0b8dfc17:
 
     # u "Hahaha, to be honest they're both pretty hot."
-    u ""
+    u "Hahaha. Pra ser sincero, as duas eram gostosas pra cacete."
 
 # game/v1-v2/scriptv1-v2.rpy:1934
 translate portuguese v1_phoneCheck1_41ca7ba9:
 
     # imre "Oh man, we're gonna bang so many chicks this year. Trust me, all you need is confidence..."
-    imre ""
+    imre "Ah mano, nós vamos foder muita mina esse ano. Acredite em mim, tudo que precisamos é ser confiantes..."
 
 # game/v1-v2/scriptv1-v2.rpy:1937
 translate portuguese at_bd_76c9ceef:
 
     # imre "And to be part of a frat."
-    imre ""
+    imre "E entrar pra uma fraternidade"
 
 # game/v1-v2/scriptv1-v2.rpy:1943
 translate portuguese at_bd_028b1b63:
 
     # u "Why do people keep saying that? I saw a guy fucking a really hot chick in the room opposite to ours."
-    u ""
+    u "Por que as pessoas continuam falando isso? Eu vi um cara fodendo uma mina gostosa pra caralho no quarto aí da frente."
 
 # game/v1-v2/scriptv1-v2.rpy:1944
 translate portuguese at_bd_834d182a:
 
     # u "And all the frat guys live in the frat houses right? So he got chicks without being in a frat."
-    u ""
+    u "E todos os caras de fraternidade vivem em casas de fraternidade, certo? Então ele conseguiu a mina sem estar em uma."
 
 # game/v1-v2/scriptv1-v2.rpy:1950
 translate portuguese at_bd_6ced6621:
 
     # u "Why do people keep saying that? I've heard from some girls that they date guys that aren't in a frat."
-    u ""
+    u "Por que as pessoas continuam falando isso? Ouvi algumas garotas dizendo que namoram caras que não estão em fraternidade nenhuma."
 
 # game/v1-v2/scriptv1-v2.rpy:1954
 translate portuguese at_bd_bbd5e6e5:
 
     # imre "Man, I'm not saying it's impossible, but why make it so hard for yourself?"
-    imre ""
+    imre "Cara, eu não disse que é impossível, mas porque escolher o caminho mais difícil?"
 
 # game/v1-v2/scriptv1-v2.rpy:1956
 translate portuguese at_bd_60f7a049:
 
     # imre "Being in a frat is the easiest way to get girls, plus you get to fight."
-    imre ""
+    imre "Entrar pra uma fraternidade é o jeito mais fácil de pegar mulher. E de quebra você ainda pode lutar."
 
 # game/v1-v2/scriptv1-v2.rpy:1961
 translate portuguese at_bd_d7de573d:
 
     # u "But I don't wanna fight man! I'm scared, okay?!"
-    u ""
+    u "Mas eu não quero lutar, cara! Eu tenho medo, tá?!"
 
 # game/v1-v2/scriptv1-v2.rpy:1963
 translate portuguese at_bd_2a44a4e0:
 
     # u "I don't know how to fight, I don't know how to pick up girls, I don't know anything about college life."
-    u ""
+    u "Eu não sei lutar, eu não sei como conseguir garotas, não sei nada sobre a vida de universitário."
 
 # game/v1-v2/scriptv1-v2.rpy:1968
 translate portuguese at_bd_0c0e8fb6:
 
     # imre "It's alright man, don't beat yourself up."
-    imre ""
+    imre "Calma, mano. Não precisa pirar não."
 
 # game/v1-v2/scriptv1-v2.rpy:1970
 translate portuguese at_bd_8e75585d:
 
     # imre "Look, I'm a first year too, but the Wolves are a brotherhood. They support each other."
-    imre ""
+    imre "Olha, eu tô no primeiro ano também, mas os Lobos são uma irmandade. Eles apoiam uns aos outros."
 
 # game/v1-v2/scriptv1-v2.rpy:1972
 translate portuguese at_bd_540ae11c:
 
     # imre "You'll learn everything over time. And trust me, fighting is a lot more fun than you'd think."
-    imre ""
+    imre "Com o tempo você vai aprendendo tudo. E acredite em mim, lutar é muito mais divertido do que você acha."
 
 # game/v1-v2/scriptv1-v2.rpy:1977
 translate portuguese at_bd_64c33d6d:
 
     # u "It might be right for you, but frat life is just not for me."
-    u ""
+    u "Isso pode ser certo pra você, mas a vida de fraternidade não é pra mim."
 
 # game/v1-v2/scriptv1-v2.rpy:1979
 translate portuguese at_bd_b2c4efee:
 
     # u "I'm not a fighter and I don't want to be one."
-    u ""
+    u "Eu não sou um lutador e não quero ser um."
 
 # game/v1-v2/scriptv1-v2.rpy:1984
 translate portuguese at_bd_c956740e:
 
     # imre "Alright man, good night."
-    imre ""
+    imre "Tá bom, mano. Boa noite."
 
 # game/v1-v2/scriptv1-v2.rpy:1989
 translate portuguese at_bd_bceb4588:
 
     # u "Night."
-    u ""
+    u "Boa noite."
 
 # game/v1-v2/scriptv1-v2.rpy:1998
 translate portuguese at_bd_b43ee7a6:
 
     # ri "Wow, you guys have a really nice house."
-    ri ""
+    ri "Nossa, a casa de vocês é linda."
 
 # game/v1-v2/scriptv1-v2.rpy:2004
 translate portuguese at_bd_c562495d:
 
     # u "I'm glad you like it."
-    u ""
+    u "Fico feliz que gostou."
 
 # game/v1-v2/scriptv1-v2.rpy:2009
 translate portuguese at_bd_9943b46a:
 
     # ri "Pretty big for just the two of you."
-    ri ""
+    ri "Grande até demais só pra vocês dois."
 
 # game/v1-v2/scriptv1-v2.rpy:2014
 translate portuguese at_bd_db8095ed:
 
     # u "Yeah, it can seem a bit empty now that... never mind."
-    u ""
+    u "É, tá parecendo meio vazia mesmo, agora que... deixa pra lá."
 
 # game/v1-v2/scriptv1-v2.rpy:2019
 translate portuguese at_bd_9ff01850:
 
     # ri "When will she be back? I can't wait to meet her."
-    ri ""
+    ri "Quando ela volta? Mal posso esperar pra conhecê-la."
 
 # game/v1-v2/scriptv1-v2.rpy:2024
 translate portuguese at_bd_ecc56e86:
 
     # u "Probably not for a few hours yet."
-    u ""
+    u "Provavelmente daqui umas horas."
 
 # game/v1-v2/scriptv1-v2.rpy:2030
 translate portuguese at_bd_c7f30e39:
 
     # ri "I have an idea about how we can fill the time."
-    ri ""
+    ri "Acho que sei o que podemos fazer pra matar o tempo."
 
 # game/v1-v2/scriptv1-v2.rpy:2034
 translate portuguese at_bd_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v1-v2/scriptv1-v2.rpy:2039
 translate portuguese at_bd_9ea2f78c_1:
 
     # " "
-    ""
+    " "
 
 # game/v1-v2/scriptv1-v2.rpy:2040
 translate portuguese at_bd_5f82c229:
 
     # u "(Okay, this is definitely a dream, but I do like where this is going.)"
-    u ""
+    u "(Beleza, isso é definitivamente um sonho, mas eu gosto de como tá indo.)"
 
 # game/v1-v2/scriptv1-v2.rpy:2049
 translate portuguese at_bd_b8e1d0bc:
 
     # ri "*Chuckles* You're hard already."
-    ri ""
+    ri "*Risadinhas* Você já tá de pau duro."
 
 # game/v1-v2/scriptv1-v2.rpy:2054
 translate portuguese at_bd_ece022ab:
 
     # ri "Oh wow."
-    ri ""
+    ri "Ai, nossa..."
 
 # game/v1-v2/scriptv1-v2.rpy:2059
 translate portuguese at_bd_794090c7:
 
     # ri "How does that feel?"
-    ri ""
+    ri "Tá gostoso assim?"
 
 # game/v1-v2/scriptv1-v2.rpy:2063
 translate portuguese at_bd_7420fe2b:
 
     # ri "Tell me what you want."
-    ri ""
+    ri "Me fala o que você quer."
 
 # game/v1-v2/scriptv1-v2.rpy:2070
 translate portuguese at_bd_b3d5ab97:
 
     # u "I want you to suck my dick."
-    u ""
+    u "Eu quero que você me chupe."
 
 # game/v1-v2/scriptv1-v2.rpy:2075
 translate portuguese at_bd_bc8db3b8:
 
     # ri "I was hoping you'd say that."
-    ri ""
+    ri "Tava torcendo pra que você dissesse isso."
 
 # game/v1-v2/scriptv1-v2.rpy:2082
 translate portuguese at_bd_c5284a9b:
 
     # u "You look so pretty with my cock in your mouth."
-    u ""
+    u "Você fica tão linda com meu pau inteiro na boca."
 
 # game/v1-v2/scriptv1-v2.rpy:2084
 translate portuguese at_bd_c1dc101e:
 
     # ri "*Gasp* You taste so good."
-    ri ""
+    ri "*Engasgando* Amei o seu gosto."
 
 # game/v1-v2/scriptv1-v2.rpy:2086
 translate portuguese at_bd_ca5607e5:
 
     # ri "Just make sure you don't come yet."
-    ri ""
+    ri "Só não pode gozar ainda."
 
 # game/v1-v2/scriptv1-v2.rpy:2088
 translate portuguese at_bd_925c3d5b:
 
     # u "I won't, I won't. You can go faster."
-    u ""
+    u "Não vou, não vou. Pode ir mais rápido."
 
 # game/v1-v2/scriptv1-v2.rpy:2093
 translate portuguese at_bd_d4cab594:
 
     # ri "*Gasp* Like this?"
-    ri ""
+    ri "*Engasgando* Assim?"
 
 # game/v1-v2/scriptv1-v2.rpy:2095
 translate portuguese at_bd_fc4dc361:
 
     # u "Fuuuuck. Yes, exactly like that."
-    u ""
+    u "Iiiiiisso. Exatamente assim."
 
 # game/v1-v2/scriptv1-v2.rpy:2097
 translate portuguese at_bd_b97e1ae1:
 
     # u "I can't hold it much longer."
-    u ""
+    u "Não posso segurar por muito tempo."
 
 # game/v1-v2/scriptv1-v2.rpy:2099
 translate portuguese at_bd_595921bc:
 
     # ri "*Gasp* Okay enough, I need your dick inside of me."
-    ri ""
+    ri "*Engasgando* Tá certo. Eu quero sua rola dentro de mim."
 
 # game/v1-v2/scriptv1-v2.rpy:2106
 translate portuguese at_bd_3e79a494:
 
     # u "I want you to use your feet."
-    u ""
+    u "Eu quero que você use seus pés."
 
 # game/v1-v2/scriptv1-v2.rpy:2111
 translate portuguese at_bd_bc8db3b8_1:
 
     # ri "I was hoping you'd say that."
-    ri ""
+    ri "Estava esperando que você dissesse isso."
 
 # game/v1-v2/scriptv1-v2.rpy:2115
 translate portuguese at_bd_5cf53dd0:
 
     # ri "Wow, I've never done this before. Does it feel good?"
-    ri ""
+    ri "Nossa, eu nunca fiz isso antes. Tá gostoso assim?"
 
 # game/v1-v2/scriptv1-v2.rpy:2117
 translate portuguese at_bd_400f53c1:
 
     # u "Yes, it feels fantastic, Riley."
-    u ""
+    u "Sim, tá uma delícia, Riley."
 
 # game/v1-v2/scriptv1-v2.rpy:2119
 translate portuguese at_bd_2a82d394:
 
     # ri "Just make sure you don't cum yet."
-    ri ""
+    ri "Só não pode gozar ainda."
 
 # game/v1-v2/scriptv1-v2.rpy:2121
 translate portuguese at_bd_925c3d5b_1:
 
     # u "I won't, I won't. You can go faster."
-    u ""
+    u "Não vou, não vou. Pode ir mais rápido."
 
 # game/v1-v2/scriptv1-v2.rpy:2126
 translate portuguese at_bd_9315c32c:
 
     # ri "Like this?"
-    ri ""
+    ri "Assim?"
 
 # game/v1-v2/scriptv1-v2.rpy:2128
 translate portuguese at_bd_fc4dc361_1:
 
     # u "Fuuuuck. Yes, exactly like that."
-    u ""
+    u "Iiiiiisso. Exatamente assim."
 
 # game/v1-v2/scriptv1-v2.rpy:2130
 translate portuguese at_bd_b97e1ae1_1:
 
     # u "I can't hold it much longer."
-    u ""
+    u "Não posso segurar por muito tempo."
 
 # game/v1-v2/scriptv1-v2.rpy:2132
 translate portuguese at_bd_f2231112:
 
     # ri "Okay enough, I need your dick inside of me."
-    ri ""
+    ri "Tá certo. Eu quero sua rola dentro de mim."
 
 # game/v1-v2/scriptv1-v2.rpy:2137
 translate portuguese at_bd_9c4f8574:
 
     # ri "What's next?"
-    ri ""
+    ri "E agora?"
 
 # game/v1-v2/scriptv1-v2.rpy:2142
 translate portuguese at_bd_a1048458:
 
     # u "I'll show you what's next."
-    u ""
+    u "Eu vou te mostrar o 'e agora'."
 
 # game/v1-v2/scriptv1-v2.rpy:2146
 translate portuguese at_bd_34350ee9:
 
     # u "Bend over."
-    u ""
+    u "Vira esse rabão pra cá."
 
 # game/v1-v2/scriptv1-v2.rpy:2154
 translate portuguese at_bd_a60d082c:
 
     # ri "Fuck yes, [name]!"
-    ri ""
+    ri "Que delícia, [name]!"
 
 # game/v1-v2/scriptv1-v2.rpy:2159
 translate portuguese at_bd_d2fd3327:
 
     # ri "Yes! I love it when you dominate me."
-    ri ""
+    ri "Isso! Amo quando você me domina."
 
 # game/v1-v2/scriptv1-v2.rpy:2169
 translate portuguese at_bd_49087095:
 
     # ri "*Squeals*"
-    ri ""
+    ri "*Gemido agudo*"
 
 # game/v1-v2/scriptv1-v2.rpy:2179
 translate portuguese at_bd_4bea6cdc:
 
     # ri "Harder!"
-    ri ""
+    ri "Mete mais forte!"
 
 # game/v1-v2/scriptv1-v2.rpy:2189
 translate portuguese at_bd_49087095_1:
 
     # ri "*Squeals*"
-    ri ""
+    ri "*Gemido agudo*"
 
 # game/v1-v2/scriptv1-v2.rpy:2194
 translate portuguese at_bd_03544d56:
 
     # ri "Please... fuck me. I want you so bad."
-    ri ""
+    ri "Por favor... me fode. Eu te quero tanto."
 
 # game/v1-v2/scriptv1-v2.rpy:2199
 translate portuguese at_bd_f0b100ae:
 
     # ri "Oh my god!"
-    ri ""
+    ri "Ahhhh meu Deus!"
 
 # game/v1-v2/scriptv1-v2.rpy:2204
 translate portuguese at_bd_080e1f67:
 
     # ri "Yesss! Faster!"
-    ri ""
+    ri "Issooooo! Mais rápido!"
 
 # game/v1-v2/scriptv1-v2.rpy:2206
 translate portuguese at_bd_518da7a4:
 
     # ri "You feel so good inside of me, [name]."
-    ri ""
+    ri "Eu amo sentir você dentro de mim, [name]."
 
 # game/v1-v2/scriptv1-v2.rpy:2208
 translate portuguese at_bd_8336bdd9:
 
     # u "(She's so fucking hot.)"
-    u ""
+    u "(Ela é tão gostosa.)"
 
 # game/v1-v2/scriptv1-v2.rpy:2210
 translate portuguese at_bd_29d7245f:
 
     # ri "Don't stop!"
-    ri ""
+    ri "Não para!"
 
 # game/v1-v2/scriptv1-v2.rpy:2212
 translate portuguese at_bd_134464db:
 
     # ri "[name], I'm gonna cum!"
-    ri ""
+    ri "[name], eu vou gozar!"
 
 # game/v1-v2/scriptv1-v2.rpy:2214
 translate portuguese at_bd_5662f67e:
 
     # u "I can't hold it any longer!"
-    u ""
+    u "Eu não consigo mais segurar!"
 
 # game/v1-v2/scriptv1-v2.rpy:2219
 translate portuguese at_bd_8112d2f5:
 
     # ri "Cum inside me, [name]! Please fill me up!"
-    ri ""
+    ri "Goza em mim, [name]! Me encha de porra!"
 
 # game/v1-v2/scriptv1-v2.rpy:2225
 translate portuguese at_bd_bbf8939e:
 
     # u "Hngh..."
-    u ""
+    u "Aaaaaah..."
 
 # game/v1-v2/scriptv1-v2.rpy:2230
 translate portuguese at_bd_3c1f4b49:
 
     # ri "My legs are shaking."
-    ri ""
+    ri "Minha pernas estão tremendo."
 
 # game/v1-v2/scriptv1-v2.rpy:2246
 translate portuguese at_bd_17079010:
 
     # u "*Yawn*"
-    u ""
+    u "*Boceja*"
 
 # game/v1-v2/scriptv1-v2.rpy:2250
 translate portuguese at_bd_a4e65bca:
 
     # u "(That was the most amazing dream of my life.)"
-    u ""
+    u "(Esse foi o melhor sonho da minha vida.)"
 
 # game/v1-v2/scriptv1-v2.rpy:2251
 translate portuguese at_bd_bc780cd5:
 
     # u "(I wish I could sleep some more, but I gotta get to class.)"
-    u ""
+    u "(Queria poder dormir mais, mas preciso ir pra aula.)"
 
 # game/v1-v2/scriptv1-v2.rpy:2252
 translate portuguese at_bd_58bcf408:
 
     # u "(I just hope I don't get a boner whenever I see Riley from now on.)"
-    u ""
+    u "(Espero que meu pau não suba sempre que eu ver a Riley a partir de agora.)"
 
 # game/v1-v2/scriptv1-v2.rpy:2257
 translate portuguese at_bd_14945e9c:
 
     # ri "Heyyy, I've switched to the last row now."
-    ri ""
+    ri "Eeeei, eu mudei pra última fileira agora."
 
 # game/v1-v2/scriptv1-v2.rpy:2262
 translate portuguese at_bd_e4826232:
 
     # u "(Okay I need to be cool, even though all I can think about is my dream.)"
-    u ""
+    u "(Beleza, eu preciso ficar tranquilo, apesar de só conseguir pensar no sonho.)"
 
 # game/v1-v2/scriptv1-v2.rpy:2264
 translate portuguese at_bd_bc2b59a3:
 
     # u "Oh, so you decided to join the cool club."
-    u ""
+    u "Opa, então você decidiu se juntar ao clube do fundão."
 
 # game/v1-v2/scriptv1-v2.rpy:2266
 translate portuguese at_bd_3d757de2:
 
     # u "Where's Imre and Lauren?"
-    u ""
+    u "Cadê o Imre e a Lauren?"
 
 # game/v1-v2/scriptv1-v2.rpy:2271
 translate portuguese at_bd_2ef1e622:
 
     # ri "Imre doesn't need to take economics for his course and Lauren, I don't know."
-    ri ""
+    ri "O Imre não precisa assistir economia pro curso dele, e a Lauren eu não sei."
 
 # game/v1-v2/scriptv1-v2.rpy:2276
 translate portuguese at_bd_11e687d4:
 
     # u "(Shit, I need to talk to someone else, I'm already starting to get hard just talking to her.)"
-    u ""
+    u "(Merda, eu preciso falar com outra pessoa, tô começando a ficar de pau duro só de falar com ela.)"
 
 # game/v1-v2/scriptv1-v2.rpy:2282
 translate portuguese at_bd_17079010_1:
 
     # u "*Yawn*"
-    u ""
+    u "*Boceja*"
 
 # game/v1-v2/scriptv1-v2.rpy:2286
 translate portuguese at_bd_4681d0cd:
 
     # u "(What a weird dream...)"
-    u ""
+    u "(Que sonho esquisito...)"
 
 # game/v1-v2/scriptv1-v2.rpy:2288
 translate portuguese at_bd_d995568b:
 
     # u "(Alright [name], just forget about it and go to class.)"
-    u ""
+    u "(Beleza [name], é só deixar pra lá e ir pra aula.)"
 
 # game/v1-v2/scriptv1-v2.rpy:2293
 translate portuguese at_bd_14945e9c_1:
 
     # ri "Heyyy, I've switched to the last row now."
-    ri ""
+    ri "Eeeei, eu mudei pra última fileira agora."
 
 # game/v1-v2/scriptv1-v2.rpy:2298
 translate portuguese at_bd_e30ca600:
 
     # u "(Stay cool, she doesn't know about your dream.)"
-    u ""
+    u "(Fica tranquilo, ela não sabe do seu sonho.)"
 
 # game/v1-v2/scriptv1-v2.rpy:2300
 translate portuguese at_bd_bc2b59a3_1:
 
     # u "Oh, so you decided to join the cool club."
-    u ""
+    u "Opa, então você decidiu se juntar ao clube do fundão."
 
 # game/v1-v2/scriptv1-v2.rpy:2302
 translate portuguese at_bd_3d757de2_1:
 
     # u "Where's Imre and Lauren?"
-    u ""
+    u "Cadê o Imre e a Lauren?"
 
 # game/v1-v2/scriptv1-v2.rpy:2307
 translate portuguese at_bd_2ef1e622_1:
 
     # ri "Imre doesn't need to take economics for his course and Lauren, I don't know."
-    ri ""
+    ri "O Imre não precisa assistir economia pro curso dele, e a Lauren eu não sei."
 
 # game/v1-v2/scriptv1-v2.rpy:2312
 translate portuguese at_bd_94e176e5:
 
     # u "Hey, man."
-    u ""
+    u "E aí, cara."
 
 # game/v1-v2/scriptv1-v2.rpy:2317
 translate portuguese at_bd_bf8b44bf:
 
     # ry "What's up, dude? You ready for some teacher staring?"
-    ry ""
+    ry "E ai, mano? Tá pronto pra dar uma secada na professora?"
 
 # game/v1-v2/scriptv1-v2.rpy:2322
 translate portuguese at_bd_181605ef:
 
     # u "Teacher staring?"
-    u ""
+    u "Secar a professora?"
 
 # game/v1-v2/scriptv1-v2.rpy:2326
 translate portuguese at_bd_85669b89:
 
     # ry "You know, 'cause the class is boring as shit, but at least the teacher's hot."
-    ry ""
+    ry "Cê sabe, porque essa aula é chata pra caralho, mas pelo menos a professora é gostosa."
 
 # game/v1-v2/scriptv1-v2.rpy:2331
 translate portuguese at_bd_b1111477:
 
     # u "(He does have a point...)"
-    u ""
+    u "(Errado ele não tá...)"
 
 # game/v1-v2/scriptv1-v2.rpy:2335
 translate portuguese at_bd_0d8a871b:
 
     # ro "Good morning everyone. Welcome to your first economics class."
-    ro ""
+    ro "Bom dia, pessoal. Bem-vindos à primeira aula de economia."
 
 # game/v1-v2/scriptv1-v2.rpy:2337
 translate portuguese at_bd_51bd3b81:
 
     # ro "Today, we're gonna learn about-"
-    ro ""
+    ro "Hoje iremos aprender sobre-"
 
 # game/v1-v2/scriptv1-v2.rpy:2344
 translate portuguese at_bd_837b269b:
 
     # la "Sorry! My roommate thought it'd be a good \"prank\" to steal my phone, so that I couldn't hear my alarm."
-    la ""
+    la "Desculpa! Minha colega de quarto achou que seria uma boa \"pegadinha\" roubar o meu celular, daí não consegui ouvir o alarme."
 
 # game/v1-v2/scriptv1-v2.rpy:2349
 translate portuguese at_bd_12e4809a:
 
     # ro "Very well, I'm sorry to hear that."
-    ro ""
+    ro "Tudo bem. Sinto muito por isso."
 
 # game/v1-v2/scriptv1-v2.rpy:2350
 translate portuguese at_bd_df034c84:
 
     # ro "Just sit down, so that we can get started on the material."
-    ro ""
+    ro "Apenas sente-se, para que possamos começar a aula."
 
 # game/v1-v2/scriptv1-v2.rpy:2381
 translate portuguese at_bd_67438110:
 
     # ry "This class is so damn boring..."
-    ry ""
+    ry "Essa aula é tão, tão chata..."
 
 # game/v1-v2/scriptv1-v2.rpy:2386
 translate portuguese at_bd_4b2fe8eb:
 
     # ri "Agreed. Also Ms. Rose offers no chances to show that we've actually done the prereading."
-    ri ""
+    ri "Concordo. E a Srta. Rose não oferece chance nenhuma da gente mostrar que fez a pré-leitura mesmo."
 
 # game/v1-v2/scriptv1-v2.rpy:2389
 translate portuguese at_bd_791da076:
 
     # ry "Yeah, 'cause she knows that no one actually does that shit anyways."
-    ry ""
+    ry "É, até porque ela sabe que ninguém fez merda nenhuma de qualquer jeito."
 
 # game/v1-v2/scriptv1-v2.rpy:2392
 translate portuguese at_bd_e657be0a:
 
     # ri "Uhm... right."
-    ri ""
+    ri "É... certo."
 
 # game/v1-v2/scriptv1-v2.rpy:2396
 translate portuguese at_bd_a3c6ad46:
 
     # u "So... trouble with your roommate?"
-    u ""
+    u "Então... problemas com a colega de quarto?"
 
 # game/v1-v2/scriptv1-v2.rpy:2401
 translate portuguese at_bd_fb14581b:
 
     # la "Yep... she's just so annoying. I wish I could still move dorms."
-    la ""
+    la "Sim... ela muito irritante. Queria poder mudar de dormitório."
 
 # game/v1-v2/scriptv1-v2.rpy:2409
 translate portuguese at_bd_d3ff7f61:
 
     # u "You should move in with me."
-    u ""
+    u "Você deveria mudar pro meu quarto."
 
 # game/v1-v2/scriptv1-v2.rpy:2414
 translate portuguese at_bd_506d7ec7:
 
     # la "Haha definitely, I'm sure Imre would looove to swap rooms with me."
-    la ""
+    la "Haha, realmente. E com certeza o Imre ia adorar trocar de quarto comigo."
 
 # game/v1-v2/scriptv1-v2.rpy:2416
 translate portuguese at_bd_2710e99d:
 
     # la "It's fine, it was just such a bad start to the day. I really didn't wanna be late to my first real class."
-    la ""
+    la "Tá tudo bem, foi só um começo de dia ruim. Só não queria mesmo me atrasar pra minha primeira aula."
 
 # game/v1-v2/scriptv1-v2.rpy:2420
 translate portuguese at_bd_2859616e:
 
     # u "How about we go to the park this afternoon? I'll bring some sandwiches and we'll make your day better."
-    u ""
+    u "Que tal irmos ao parque hoje à tarde? Eu levo alguns sanduíches e melhoramos seu dia."
 
 # game/v1-v2/scriptv1-v2.rpy:2427
 translate portuguese at_bd_6697ce3f:
 
     # u "I get that, bad roommates suck."
-    u ""
+    u "Eu entendo, colegas de quarto ruins são um porre."
 
 # game/v1-v2/scriptv1-v2.rpy:2432
 translate portuguese at_bd_5f044275:
 
     # la "It was just such a bad start into the day. I really didn't wanna be late to my first real class."
-    la ""
+    la "Foi só um começo de dia ruim. Só não queria mesmo me atrasar pra minha primeira aula."
 
 # game/v1-v2/scriptv1-v2.rpy:2436
 translate portuguese at_bd_2859616e_1:
 
     # u "How about we go to the park this afternoon? I'll bring some sandwiches and we'll make your day better."
-    u ""
+    u "Que tal irmos ao parque hoje à tarde? Eu levo alguns sanduíches e melhoramos seu dia."
 
 # game/v1-v2/scriptv1-v2.rpy:2442
 translate portuguese at_bd_50c58a7d:
 
     # la "Yeah, I'd like that."
-    la ""
+    la "É, seria legal."
 
 # game/v1-v2/scriptv1-v2.rpy:2452
 translate portuguese at_bd_2b228376:
 
     # la "This park is really nice. I've never been here before."
-    la ""
+    la "O parque é bem legal. Já estive lá antes."
 
 # game/v1-v2/scriptv1-v2.rpy:2457
 translate portuguese at_bd_35d159a7:
 
     # u "Oh, are you from here?"
-    u ""
+    u "Ah, você é daqui?"
 
 # game/v1-v2/scriptv1-v2.rpy:2462
 translate portuguese at_bd_16481531:
 
     # la "Yeah, my family lives about 20 minutes from here."
-    la ""
+    la "Sim, minha familia mora tipo uns 20 minutos daqui."
 
 # game/v1-v2/scriptv1-v2.rpy:2467
 translate portuguese at_bd_ef772a2a:
 
     # u "Oh cool."
-    u ""
+    u "Ah, legal."
 
 # game/v1-v2/scriptv1-v2.rpy:2469
 translate portuguese at_bd_964cb9e3:
 
     # u "Lauren, I gotta be honest..."
-    u ""
+    u "Lauren, eu tenho que ser sincero..."
 
 # game/v1-v2/scriptv1-v2.rpy:2471
 translate portuguese at_bd_6bc1bca1:
 
     # u "I've got good news, but I've also got some bad news."
-    u ""
+    u "Eu tenho uma boa e uma má notícia."
 
 # game/v1-v2/scriptv1-v2.rpy:2476
 translate portuguese at_bd_eed7ec71:
 
     # la "Alright, tell me."
-    la ""
+    la "Tá certo, me fala."
 
 # game/v1-v2/scriptv1-v2.rpy:2481
 translate portuguese at_bd_1ff689ef:
 
     # u "So, the good news is that I made us some delicious sandwiches."
-    u ""
+    u "Então, a boa noticia é que eu fiz ótimos sanduíches pra gente."
 
 # game/v1-v2/scriptv1-v2.rpy:2486
 translate portuguese at_bd_0a0a9d90:
 
     # la "That's so cute!"
-    la ""
+    la "Que fofo!"
 
 # game/v1-v2/scriptv1-v2.rpy:2491
 translate portuguese at_bd_3596bc19:
 
     # u "The bad news is that I forgot them in my dorm and Imre has probably eaten them by now."
-    u ""
+    u "E a má noticia é que eu os esqueci no quarto e a essa altura o Imre já deve ter comido tudo."
 
 # game/v1-v2/scriptv1-v2.rpy:2496
 translate portuguese at_bd_89d0bf13:
 
     # la "Haha, oh wow. So you're just gonna tease me with the possibility of eating a delicious sandwich only to then take that away from me?"
-    la ""
+    la "Haha, nossa. Então você só quis me provocar com a ideia de comer ótimos sanduiches pra depois tirar isso de mim?"
 
 # game/v1-v2/scriptv1-v2.rpy:2498
 translate portuguese at_bd_b4eb858c:
 
     # la "That's some pretty messed up stuff."
-    la ""
+    la "Achei bem zoado."
 
 # game/v1-v2/scriptv1-v2.rpy:2503
 translate portuguese at_bd_0b0593ff:
 
     # u "If it makes you feel any better, I'm just as disappointed as you are."
-    u ""
+    u "Se serve de consolo, eu tô tão chateado quanto você."
 
 # game/v1-v2/scriptv1-v2.rpy:2507
 translate portuguese at_bd_9ea2f78c_2:
 
     # " "
-    ""
+    " "
 
 # game/v1-v2/scriptv1-v2.rpy:2508
 translate portuguese at_bd_ebff68df:
 
     # u "So... what do you think of the guys at San Vallejo?"
-    u ""
+    u "Então... o que você acha dos caras de San Vallejo?"
 
 # game/v1-v2/scriptv1-v2.rpy:2513
 translate portuguese at_bd_1ab9d8a7:
 
     # la "I've met a couple cute guys so far..."
-    la ""
+    la "Eu conheci alguns carinhas bem bonitinhos até agora..."
 
 # game/v1-v2/scriptv1-v2.rpy:2518
 translate portuguese at_bd_8c82a8f2:
 
     # u "A couple huh?"
-    u ""
+    u "Alguns, hein?"
 
 # game/v1-v2/scriptv1-v2.rpy:2524
 translate portuguese at_bd_1ee3c357:
 
     # u "I bet you could get any guy you want."
-    u ""
+    u "Aposto que você conseguiria pegar o cara que quisesse."
 
 # game/v1-v2/scriptv1-v2.rpy:2528
 translate portuguese at_bd_075bc4b5:
 
     # la "Uhm... thanks. Not really though, haha."
-    la ""
+    la "É... Valeu. Mas na real, não. Haha."
 
 # game/v1-v2/scriptv1-v2.rpy:2535
 translate portuguese at_bd_f42e37b1:
 
     # u "And yet, you're here with me. How surprising."
-    u ""
+    u "E ainda assim, cê tá aqui comigo. Interessante."
 
 # game/v1-v2/scriptv1-v2.rpy:2539
 translate portuguese at_bd_29d7594e:
 
     # la "Okay Casanova, I'm pretty sure you invited me and not the other way around."
-    la ""
+    la "Beleza, Casanova. Tenho quase certeza que foi você quem me convidou e não o contrário. "
 
 # game/v1-v2/scriptv1-v2.rpy:2543
 translate portuguese at_bd_e0d89f5a:
 
     # u "Let's not get caught up on the details."
-    u ""
+    u "Não vamos nos apegar aos detalhes."
 
 # game/v1-v2/scriptv1-v2.rpy:2545
 translate portuguese at_bd_0281779e:
 
     # u "I'm gonna assume that there's no jealous boyfriend or ex that'll beat me up after this?"
-    u ""
+    u "Então posso assumir que não vai ter nenhum namorado ou ex ciumento me caçando depois disso?"
 
 # game/v1-v2/scriptv1-v2.rpy:2548
 translate portuguese at_bd_6fef738c:
