@@ -1216,253 +1216,253 @@ translate turkish conl_c2eb341d:
 translate turkish conl_ccfdd94e:
 
     # u "Enough human decency so fighting becomes an unnecessary relic of the past?"
-    u ""
+    u "İnsan ahlakının yeterli olması, bu yüzden kavga geçmişin gereksiz bir kalıntısı haline mi geliyor?"
 
 # game/v3/scriptv3.rpy:1294
 translate turkish conl_14275025:
 
     # imre "No, body shots. "
-    imre ""
+    imre "Hayır, vücuda vurmak. "
 
 # game/v3/scriptv3.rpy:1296
 translate turkish conl_8b5c7e8a:
 
     # imre "Hitting your opponent's body will leave them out of breath and in pain."
-    imre ""
+    imre "Rakibinizin vücuduna vurmak onları nefes nefese ve acı içinde bırakacaktır."
 
 # game/v3/scriptv3.rpy:1298
 translate turkish conl_2030526a:
 
     # imre "Perfect to get rid of a strong guard or a fast moving opponent."
-    imre ""
+    imre "Güçlü bir savunmadan veya hızlı hareket eden bir rakipten kurtulmak için mükemmeldir."
 
 # game/v3/scriptv3.rpy:1303
 translate turkish conl_bfbe325a:
 
     # u "Alright. Show me how."
-    u ""
+    u "Pekala. Nasıl olduğunu göster."
 
 # game/v3/scriptv3.rpy:1308
 translate turkish conl_824e72d3:
 
     # imre "It's quite simple. Whenever your opponent leaves his torso open you simply use your left arm to throw a body hook."
-    imre ""
+    imre "Çok basit. Rakibin gövdesini açık bıraktığında, sadece bir vücut kancası atmak için sol kolunu kullan."
 
 # game/v3/scriptv3.rpy:1320
 translate turkish conl_1f9bfc77:
 
     # imre "You wanna try?"
-    imre ""
+    imre "Denemek ister misin?"
 
 # game/v3/scriptv3.rpy:1325
 translate turkish conl_37fe551f:
 
     # u "Sure."
-    u ""
+    u "Tabii ki."
 
 # game/v3/scriptv3.rpy:1337
 translate turkish conl_94fbb147:
 
     # imre "Great job! Try it again."
-    imre ""
+    imre "İyi iş! Tekrar dene."
 
 # game/v3/scriptv3.rpy:1358
 translate turkish popup5_d3003fe6:
 
     # u "That was actually really fun, thanks, Imre."
-    u ""
+    u "Bu gerçekten eğlenceliydi, teşekkürler Imre."
 
 # game/v3/scriptv3.rpy:1363
 translate turkish popup5_37246246:
 
     # imre "Yeah, no worries. Let me know if you wanna come with me next time as well."
-    imre ""
+    imre "Tamam, sorun yok. Bir dahaki sefere benimle gelmek istersen haber ver."
 
 # game/v3/scriptv3.rpy:1368
 translate turkish popup5_e613cabf:
 
     # u "Yeah, I think I will."
-    u ""
+    u "Evet, sanırım yapacağım."
 
 # game/v3/scriptv3.rpy:1392
 translate turkish repeatk_58d01580:
 
     # u "(I should probably check my phone.)"
-    u ""
+    u "(Muhtemelen telefonumu kontrol etmeliyim.)"
 
 # game/v3/scriptv3.rpy:1395
 translate turkish repeatk_54591f14:
 
     # u "Sorry Imre, something came up. You're gonna have to go back by yourself, I gotta go."
-    u ""
+    u "Üzgünüm Imre, bir şey oldu. Tek başına dönmen gerekecek, benim gitmem gerek."
 
 # game/v3/scriptv3.rpy:1400
 translate turkish repeatk_7efdfdd7:
 
     # imre "A booty call this early in the day? Respect, my man."
-    imre ""
+    imre "Bu kadar erken saatte sevişmek için mi aradın? Saygı duy, adamım."
 
 # game/v3/scriptv3.rpy:1405
 translate turkish repeatk_8321eaa9:
 
     # u "Imre, not everything is about sex, haha. I'll see you later."
-    u ""
+    u "Imre, her şey seksle ilgili değil, haha. Sonra görüşürüz."
 
 # game/v3/scriptv3.rpy:1410
 translate turkish repeatk_ecfbdaa5:
 
     # imre "I'll see you, player."
-    imre ""
+    imre "Görüşürüz, kanka."
 
 # game/v3/scriptv3.rpy:1417
 translate turkish repeatk_30ce2936:
 
     # u "(Okay, let's see. Which one's her room?)"
-    u ""
+    u "(Tamam, bir bakalım. Onun odası hangisi?)"
 
 # game/v3/scriptv3.rpy:1421
 translate turkish repeatk_86e8b466:
 
     # u "(Oh no, the only open window is on the second floor.)"
-    u ""
+    u "(Oh hayır, tek açık pencere ikinci katta.)"
 
 # game/v3/scriptv3.rpy:1423
 translate turkish repeatk_db8b6560:
 
     # u "(Yeah, why would she want to mention that anyway...)"
-    u ""
+    u "(Evet, neden bundan bahsetmek istesin ki?..)"
 
 # game/v3/scriptv3.rpy:1456
 translate turkish repeatk_106dda54:
 
     # au "Did anyone see you?"
-    au ""
+    au "Seni gören oldu mu?"
 
 # game/v3/scriptv3.rpy:1461
 translate turkish repeatk_3b497a54:
 
     # u "I don't think so."
-    u ""
+    u "Zannetmiorum."
 
 # game/v3/scriptv3.rpy:1463
 translate turkish repeatk_aea0aa63:
 
     # u "You know, you could've really mentioned that your room is on the second floor."
-    u ""
+    u "Biliyor musun, odanın ikinci katta olduğundan gerçekten bahsedebilirdin."
 
 # game/v3/scriptv3.rpy:1468
 translate turkish repeatk_2cd894bf:
 
     # au "Look, when you peeked on me and lied about it, I felt like you broke my trust."
-    au ""
+    au "Bak, bana bakıp yalan söylediğinde, güvenimi kırdığını hissettim."
 
 # game/v3/scriptv3.rpy:1473
 translate turkish repeatk_dd3ef603:
 
     # au "But, I haven't told anyone about it."
-    au ""
+    au "Ama bundan kimseye bahsetmedim."
 
 # game/v3/scriptv3.rpy:1475
 translate turkish repeatk_0d9828c0:
 
     # au "Instead, I've watched a bunch of sitcoms and found a way for us to move past this."
-    au ""
+    au "Bunun yerine, bir sürü sitcom izledim ve bunu aşmamız için bir yol buldum."
 
 # game/v3/scriptv3.rpy:1480
 translate turkish repeatk_2b215749:
 
     # u "Yeah, anything. I'm just really sorry it happened. I shouldn't have-"
-    u ""
+    u "Evet, şey. Olanlar için gerçekten üzgünüm. Bunu yapmamalıydım -"
 
 # game/v3/scriptv3.rpy:1485
 translate turkish repeatk_aadbe3cf:
 
     # au "We need to get even."
-    au ""
+    au "Ödeşmemiz gerekiyor."
 
 # game/v3/scriptv3.rpy:1490
 translate turkish repeatk_0e9e5ef3:
 
     # u "Get even?"
-    u ""
+    u "Ödeşmek mi?"
 
 # game/v3/scriptv3.rpy:1495
 translate turkish repeatk_e91f4cda:
 
     # au "Yeah, level the playing field. Make it fair."
-    au ""
+    au "Evet, eşit şartlar. Adil olmalı."
 
 # game/v3/scriptv3.rpy:1500
 translate turkish repeatk_94ab7d51:
 
     # u "Like... you get to peek on me changing?"
-    u ""
+    u "Mesela ... üstümü değiştirmemi mi izleyeceksin??"
 
 # game/v3/scriptv3.rpy:1505
 translate turkish repeatk_9784a35e:
 
     # au "Or..."
-    au ""
+    au "Ya da..."
 
 # game/v3/scriptv3.rpy:1506
 translate turkish repeatk_70642a53:
 
     # au "You could just take your clothes off right now."
-    au ""
+    au "Şu anda elbiselerini çıkarabilirsin."
 
 # game/v3/scriptv3.rpy:1511
 translate turkish repeatk_bda4caba:
 
     # u "Are you serious?"
-    u ""
+    u "Ciddi misin?"
 
 # game/v3/scriptv3.rpy:1516
 translate turkish repeatk_5354bd03:
 
     # au "You said you'd do anything to make it right."
-    au ""
+    au "Bunu düzeltmek için her şeyi yapacağını söylemiştin."
 
 # game/v3/scriptv3.rpy:1526
 translate turkish repeatk_8b1510d3:
 
     # u "You want me to take my clothes off? Fine, I'll do it."
-    u ""
+    u "Elbiselerimi çıkarmamı ister misin? Tamam, ben yaparım."
 
 # game/v3/scriptv3.rpy:1531
 translate turkish repeatk_87e6a6c0:
 
     # au "Good! Do it."
-    au ""
+    au "İyi! Yap."
 
 # game/v3/scriptv3.rpy:1544
 translate turkish repeatk_a0e1fbf3:
 
     # u "I'm not gonna take my clothes off in front of you."
-    u ""
+    u "Senin önünde kıyafetlerimi çıkarmayacağım."
 
 # game/v3/scriptv3.rpy:1549
 translate turkish repeatk_230ada89:
 
     # au "I thought you cared about this friendship?!"
-    au ""
+    au "Bu arkadaşlığı önemsediğini sanıyordum?!"
 
 # game/v3/scriptv3.rpy:1554
 translate turkish repeatk_7d97de90:
 
     # u "I do care!"
-    u ""
+    u "Önemsiyorum!"
 
 # game/v3/scriptv3.rpy:1559
 translate turkish repeatk_81a00233:
 
     # u "You want me to take my clothes off to prove it?! Fine, I'll take them off."
-    u ""
+    u "Bunu kanıtlamak için kıyafetlerimi çıkarmamı mı istiyorsun?! Güzel, onları çıkaracağım."
 
 # game/v3/scriptv3.rpy:1564
 translate turkish repeatk_2c899df4:
 
     # au "Good! Fucking do it!"
-    au ""
+    au "İyi! Yap şunu!"
 
 # game/v3/scriptv3.rpy:1580
 translate turkish talkedout_9ea2f78c:
@@ -1474,487 +1474,487 @@ translate turkish talkedout_9ea2f78c:
 translate turkish repeatl_58d01580:
 
     # u "(I should probably check my phone.)"
-    u ""
+    u "(Muhtemelen telefonumu kontrol etmeliyim.)"
 
 # game/v3/scriptv3.rpy:1588
 translate turkish repeatl_54591f14:
 
     # u "Sorry Imre, something came up. You're gonna have to go back by yourself, I gotta go."
-    u ""
+    u "Üzgünüm Imre, bir şey oldu. Tek başına dönmen gerekecek, benim gitmem gerek."
 
 # game/v3/scriptv3.rpy:1593
 translate turkish repeatl_7efdfdd7:
 
     # imre "A booty call this early in the day? Respect, my man."
-    imre ""
+    imre "Bu kadar erken saatte sevişmek için mi aradın? Saygı duy, adamım."
 
 # game/v3/scriptv3.rpy:1598
 translate turkish repeatl_8321eaa9:
 
     # u "Imre, not everything is about sex, haha. I'll see you later."
-    u ""
+    u "Imre, her şey seksle ilgili değil, haha. Sonra görüşürüz."
 
 # game/v3/scriptv3.rpy:1603
 translate turkish repeatl_ecfbdaa5:
 
     # imre "I'll see you, player."
-    imre ""
+    imre "Görüşürüz, kanka."
 
 # game/v3/scriptv3.rpy:1610
 translate turkish repeatl_30ce2936:
 
     # u "(Okay, let's see. Which one's her room?)"
-    u ""
+    u "(Tamam, bir bakalım. Onun odası hangisi?)"
 
 # game/v3/scriptv3.rpy:1614
 translate turkish repeatl_86e8b466:
 
     # u "(Oh no, the only open window is on the second floor.)"
-    u ""
+    u "(Oh hayır, tek açık pencere ikinci katta.)"
 
 # game/v3/scriptv3.rpy:1616
 translate turkish repeatl_db8b6560:
 
     # u "(Yeah, why would she want to mention that anyway...)"
-    u ""
+    u "(Evet, neden bundan bahsetmek istesin ki?..)"
 
 # game/v3/scriptv3.rpy:1649
 translate turkish repeatl_55a95405:
 
     # au "[name], you made it!"
-    au ""
+    au "[name], başardın!"
 
 # game/v3/scriptv3.rpy:1654
 translate turkish repeatl_fae61de3:
 
     # u "Hey, so what do you need my help for?"
-    u ""
+    u "Hey, ne için yardımıma ihtiyacın var?"
 
 # game/v3/scriptv3.rpy:1659
 translate turkish repeatl_507bc9b2:
 
     # au "I'm really bored... you wanna do something?"
-    au ""
+    au "Gerçekten sıkıldım ... bir şeyler yapmak ister misin?"
 
 # game/v3/scriptv3.rpy:1664
 translate turkish repeatl_aac28a13:
 
     # u "What? I came here as fast as I could 'cause you're bored??"
-    u ""
+    u "Ne? Sıkıldığın için mi buraya olabildiğince hızlı geldim??"
 
 # game/v3/scriptv3.rpy:1669
 translate turkish repeatl_053f533f:
 
     # au "Oh, like it's so bad spending time with me."
-    au ""
+    au "Oh, sanki benimle vakit geçirmek çok kötü."
 
 # game/v3/scriptv3.rpy:1674
 translate turkish repeatl_53fbe7cb:
 
     # u "That's not what I-"
-    u ""
+    u "Ben öyle demed-"
 
 # game/v3/scriptv3.rpy:1676
 translate turkish repeatl_62cd1dd8:
 
     # u "Doesn't matter, what do you wanna do?"
-    u ""
+    u "Önemli değil, ne yapmak istiyorsun?"
 
 # game/v3/scriptv3.rpy:1681
 translate turkish repeatl_4418ebec:
 
     # au "Let's play truth or dare."
-    au ""
+    au "Hadi doğruluk mu cesaret mi oynayalım."
 
 # game/v3/scriptv3.rpy:1686
 translate turkish repeatl_f2d6081b:
 
     # u "Alright, you start."
-    u ""
+    u "Pekala, sen başla."
 
 # game/v3/scriptv3.rpy:1691
 translate turkish repeatl_7c3708ec:
 
     # au "Uhm... Truth."
-    au ""
+    au "Uhm ... Doğruluk."
 
 # game/v3/scriptv3.rpy:1696
 translate turkish repeatl_955adae1:
 
     # u "Have you ever kissed a girl?"
-    u ""
+    u "Hiç bir kızı öptün mü?"
 
 # game/v3/scriptv3.rpy:1701
 translate turkish repeatl_c150af54:
 
     # au "Once, Chloe. But it was just a quick mouth on mouth, no tongue."
-    au ""
+    au "Bir kere Chloe'yi. Ama sadece hızlı bir öpücüktü, dil yoktu."
 
 # game/v3/scriptv3.rpy:1703
 translate turkish repeatl_a3e8b422:
 
     # au "Your turn."
-    au ""
+    au "Senin sıran."
 
 # game/v3/scriptv3.rpy:1712
 translate turkish repeatl_487f178d:
 
     # u "Truth."
-    u ""
+    u "Doğruluk."
 
 # game/v3/scriptv3.rpy:1717
 translate turkish repeatl_98bccd23:
 
     # au "How many girls have you slept with?"
-    au ""
+    au "Kaç kızla yattın?"
 
 # game/v3/scriptv3.rpy:1722
 translate turkish repeatl_83418a0c:
 
     # u "Two, both ex-girlfriends."
-    u ""
+    u "İki, ikisi de eski kız arkadaşımdı."
 
 # game/v3/scriptv3.rpy:1727
 translate turkish repeatl_ab000558:
 
     # au "One of them's Emily, right?"
-    au ""
+    au "Biri Emily, değil mi?"
 
 # game/v3/scriptv3.rpy:1729
 translate turkish repeatl_445cb3eb:
 
     # au "Nora told me about her, she seems nice."
-    au ""
+    au "Nora bana ondan bahsetti, iyi birine benziyor."
 
 # game/v3/scriptv3.rpy:1734
 translate turkish repeatl_1994958c:
 
     # u "Yeah, right... It's your turn."
-    u ""
+    u "Evet, doğru... Sıra sende."
 
 # game/v3/scriptv3.rpy:1739
 translate turkish repeatl_aec10110:
 
     # au "Give me a dare."
-    au ""
+    au "Bana bir cesaretlilk ver o zaman."
 
 # game/v3/scriptv3.rpy:1744
 translate turkish repeatl_10a29175:
 
     # u "Touch both your elbows in front of your chest."
-    u ""
+    u "Her iki dirseğinle göğsünün önüne dokunun."
 
 # game/v3/scriptv3.rpy:1749
 translate turkish repeatl_fcca8881:
 
     # au "Like this?"
-    au ""
+    au "Böyle mi?"
 
 # game/v3/scriptv3.rpy:1754
 translate turkish repeatl_fc79c0ea:
 
     # au "Oh, I see. Very funny."
-    au ""
+    au "Ah anlıyorum. Çok komik."
 
 # game/v3/scriptv3.rpy:1759
 translate turkish repeatl_0e63a56c:
 
     # u "Haha, I thought you did great."
-    u ""
+    u "Haha, harika yaptığını düşündüm."
 
 # game/v3/scriptv3.rpy:1764
 translate turkish repeatl_34a44d49:
 
     # au "Okay, now it's your turn again."
-    au ""
+    au "Tamam, şimdi sıra sende."
 
 # game/v3/scriptv3.rpy:1774
 translate turkish repeatl_099d42fd:
 
     # u "Dare me."
-    u ""
+    u "Cesaret."
 
 # game/v3/scriptv3.rpy:1779
 translate turkish repeatl_d50fee28:
 
     # au "Uhm... okay. Take your pants off."
-    au ""
+    au "Uhm... tamam. Pantolonunu çıkar."
 
 # game/v3/scriptv3.rpy:1784
 translate turkish repeatl_64f86a80:
 
     # u "What?? I'm not gonna take my pants off."
-    u ""
+    u "Ne?? Pantolonumu çıkarmayacağım."
 
 # game/v3/scriptv3.rpy:1786
 translate turkish repeatl_3bc6d184:
 
     # u "You gotta give me something I can actually do."
-    u ""
+    u "Bana gerçekten yapabileceğim bir şey söylemelisin."
 
 # game/v3/scriptv3.rpy:1791
 translate turkish repeatl_3c58d281:
 
     # au "I did! It's totally doable."
-    au ""
+    au "Söyledim zaten! Bu imkansız değil."
 
 # game/v3/scriptv3.rpy:1796
 translate turkish repeatl_4c7c9292:
 
     # u "I can't just-"
-    u ""
+    u "Sadece yapam-"
 
 # game/v3/scriptv3.rpy:1801
 translate turkish repeatl_be7bafd9:
 
     # au "Yeah, you can. See?"
-    au ""
+    au "Evet, yapabilirsin. Gördün mü?"
 
 # game/v3/scriptv3.rpy:1816
 translate turkish repeatl_f4ea2660:
 
     # u "Did you just?"
-    u ""
+    u "Sen demin?"
 
 # game/v3/scriptv3.rpy:1821
 translate turkish repeatl_85eeb4bf:
 
     # au "Yeah..."
-    au ""
+    au "Evet..."
 
 # game/v3/scriptv3.rpy:1835
 translate turkish repeatm_58d01580:
 
     # u "(I should probably check my phone.)"
-    u ""
+    u "(Muhtemelen telefonumu kontrol etmeliyim.)"
 
 # game/v3/scriptv3.rpy:1838
 translate turkish repeatm_54591f14:
 
     # u "Sorry Imre, something came up. You're gonna have to go back by yourself, I gotta go."
-    u ""
+    u "Üzgünüm Imre, bir şey oldu. Tek başına dönmen gerekecek, benim gitmem gerek."
 
 # game/v3/scriptv3.rpy:1843
 translate turkish repeatm_7efdfdd7:
 
     # imre "A booty call this early in the day? Respect, my man."
-    imre ""
+    imre "Bu kadar erken saatte sevişmek için mi aradın? Saygı duy, adamım."
 
 # game/v3/scriptv3.rpy:1848
 translate turkish repeatm_8321eaa9:
 
     # u "Imre, not everything is about sex, haha. I'll see you later."
-    u ""
+    u "Imre, her şey seksle ilgili değil, haha. Sonra görüşürüz."
 
 # game/v3/scriptv3.rpy:1853
 translate turkish repeatm_ecfbdaa5:
 
     # imre "I'll see you, player."
-    imre ""
+    imre "Görüşürüz, kanka."
 
 # game/v3/scriptv3.rpy:1860
 translate turkish repeatm_30ce2936:
 
     # u "(Okay, let's see. Which one's her room?)"
-    u ""
+    u ""(Tamam, bir bakalım. Onun odası hangisi?)""
 
 # game/v3/scriptv3.rpy:1864
 translate turkish repeatm_86e8b466:
 
     # u "(Oh no, the only open window is on the second floor.)"
-    u ""
+    u "(Oh hayır, tek açık pencere ikinci katta.)"
 
 # game/v3/scriptv3.rpy:1866
 translate turkish repeatm_db8b6560:
 
     # u "(Yeah, why would she want to mention that anyway...)"
-    u ""
+    u "(Evet, neden bundan bahsetmek istesin ki?..)"
 
 # game/v3/scriptv3.rpy:1899
 translate turkish repeatm_2e912185:
 
     # au "[name], you made it."
-    au ""
+    au "[name], başardın."
 
 # game/v3/scriptv3.rpy:1904
 translate turkish repeatm_5a66d6a7:
 
     # u "Yeah, I did. So, how can I make it up to you?"
-    u ""
+    u "Evet, başardım. Peki, bunu nasıl telafi edebilirim?"
 
 # game/v3/scriptv3.rpy:1909
 translate turkish repeatm_507bc9b2:
 
     # au "I'm really bored... you wanna do something?"
-    au ""
+    au "Gerçekten sıkıldım ... bir şeyler yapmak ister misin?"
 
 # game/v3/scriptv3.rpy:1914
 translate turkish repeatm_0258c042:
 
     # u "Sure, what do you wanna do?"
-    u ""
+    u "Tabii, ne yapmak istiyorsun?"
 
 # game/v3/scriptv3.rpy:1919
 translate turkish repeatm_4418ebec:
 
     # au "Let's play truth or dare."
-    au ""
+    au "Hadi doğruluk mu cesaret mi oynayalım."
 
 # game/v3/scriptv3.rpy:1924
 translate turkish repeatm_eac718ac:
 
     # u "Okay, you start."
-    u ""
+    u "Tamam, sen başla."
 
 # game/v3/scriptv3.rpy:1929
 translate turkish repeatm_7c3708ec:
 
     # au "Uhm... Truth."
-    au ""
+    au "Uhm... Doğruluk."
 
 # game/v3/scriptv3.rpy:1934
 translate turkish repeatm_955adae1:
 
     # u "Have you ever kissed a girl?"
-    u ""
+    u "Hiç bir kızı öptün mü?"
 
 # game/v3/scriptv3.rpy:1939
 translate turkish repeatm_c150af54:
 
     # au "Once, Chloe. But it was just a quick mouth on mouth, no tongue."
-    au ""
+    au "Bir kere Chloe'yi. Ama sadece hızlı bir öpücüktü, dil yoktu."
 
 # game/v3/scriptv3.rpy:1941
 translate turkish repeatm_a3e8b422:
 
     # au "Your turn."
-    au ""
+    au "Sıra sende."
 
 # game/v3/scriptv3.rpy:1950
 translate turkish repeatm_487f178d:
 
     # u "Truth."
-    u ""
+    u "Doğruluk."
 
 # game/v3/scriptv3.rpy:1955
 translate turkish repeatm_98bccd23:
 
     # au "How many girls have you slept with?"
-    au ""
+    au "Kaç kızla yattın?"
 
 # game/v3/scriptv3.rpy:1960
 translate turkish repeatm_83418a0c:
 
     # u "Two, both ex-girlfriends."
-    u ""
+    u "İki, ikisi de eski kız arkadaşımdı."
 
 # game/v3/scriptv3.rpy:1965
 translate turkish repeatm_ab000558:
 
     # au "One of them's Emily, right?"
-    au ""
+    au "Biri Emily, değil mi?"
 
 # game/v3/scriptv3.rpy:1967
 translate turkish repeatm_445cb3eb:
 
     # au "Nora told me about her, she seems nice."
-    au ""
+    au "Nora bana ondan bahsetti, iyi birine benziyor."
 
 # game/v3/scriptv3.rpy:1972
 translate turkish repeatm_1994958c:
 
     # u "Yeah, right... It's your turn."
-    u ""
+    u "Evet, doğru... Sıra sende."
 
 # game/v3/scriptv3.rpy:1977
 translate turkish repeatm_aec10110:
 
     # au "Give me a dare."
-    au ""
+    au "Bana bir cesaretlilk ver o zaman."
 
 # game/v3/scriptv3.rpy:1982
 translate turkish repeatm_10a29175:
 
     # u "Touch both your elbows in front of your chest."
-    u ""
+    u "Her iki dirseğinle göğsünün önüne dokunun."
 
 # game/v3/scriptv3.rpy:1987
 translate turkish repeatm_fcca8881:
 
     # au "Like this?"
-    au ""
+    au "Böyle mi?"
 
 # game/v3/scriptv3.rpy:1992
 translate turkish repeatm_fc79c0ea:
 
     # au "Oh, I see. Very funny."
-    au ""
+    au "Ah anlıyorum. Çok komik."
 
 # game/v3/scriptv3.rpy:1997
 translate turkish repeatm_0e63a56c:
 
     # u "Haha, I thought you did great."
-    u ""
+    u "Haha, harika yaptığını düşündüm."
 
 # game/v3/scriptv3.rpy:2002
 translate turkish repeatm_34a44d49:
 
     # au "Okay, now it's your turn again."
-    au ""
+    au "Tamam, şimdi sıra sende."
 
 # game/v3/scriptv3.rpy:2011
 translate turkish repeatm_099d42fd:
 
     # u "Dare me."
-    u ""
+    u "Cesaret."
 
 # game/v3/scriptv3.rpy:2016
 translate turkish repeatm_d50fee28:
 
     # au "Uhm... okay. Take your pants off."
-    au ""
+    au "Uhm... tamam. Pantolonunu çıkar."
 
 # game/v3/scriptv3.rpy:2021
 translate turkish repeatm_64f86a80:
 
     # u "What?? I'm not gonna take my pants off."
-    u ""
+    u "Ne?? Pantolonumu çıkarmayacağım."
 
 # game/v3/scriptv3.rpy:2023
 translate turkish repeatm_3bc6d184:
 
     # u "You gotta give me something I can actually do."
-    u ""
+    u "Bana gerçekten yapabileceğim bir şey söylemelisin."
 
 # game/v3/scriptv3.rpy:2028
 translate turkish repeatm_3c58d281:
 
     # au "I did! It's totally doable."
-    au ""
+    au "Söyledim zaten! Bu imkansız değil."
 
 # game/v3/scriptv3.rpy:2033
 translate turkish repeatm_4c7c9292:
 
     # u "I can't just-"
-    u ""
+    u "Sadece yapam-"
 
 # game/v3/scriptv3.rpy:2038
 translate turkish repeatm_be7bafd9:
 
     # au "Yeah, you can. See?"
-    au ""
+    au "Evet, yapabilirsin. Gördün mü?"
 
 # game/v3/scriptv3.rpy:2053
 translate turkish repeatm_f4ea2660:
 
     # u "Did you just?"
-    u ""
+    u "Sen demin?"
 
 # game/v3/scriptv3.rpy:2058
 translate turkish repeatm_85eeb4bf:
 
     # au "Yeah..."
-    au ""
+    au "Evet..."
 
 # game/v3/scriptv3.rpy:2075
 translate turkish repeatm_9ea2f78c:
@@ -1966,55 +1966,55 @@ translate turkish repeatm_9ea2f78c:
 translate turkish repeatm_4381ffb1:
 
     # au "Is this such a good idea?"
-    au ""
+    au "Bu iyi bir fikir mi?"
 
 # game/v3/scriptv3.rpy:2085
 translate turkish repeatm_aac33865:
 
     # u "What's the worst that could happen?"
-    u ""
+    u "En kötü ne olabilir ki?"
 
 # game/v3/scriptv3.rpy:2095
 translate turkish repeatm_b887049b:
 
     # au "*Quiet moan* Ohhh okay... definitely a good idea."
-    au ""
+    au "*Sessiz inileme * Ohhh tamam ... kesinlikle iyi bir fikir."
 
 # game/v3/scriptv3.rpy:2110
 translate turkish repeatm_0529a669:
 
     # u "Wow..."
-    u ""
+    u "Vay canına..."
 
 # game/v3/scriptv3.rpy:2115
 translate turkish repeatm_3da13d1c:
 
     # au "*Moans*"
-    au ""
+    au "*İnlemeler*"
 
 # game/v3/scriptv3.rpy:2119
 translate turkish repeatm_f413f9e1:
 
     # au "Oh, [name]!"
-    au ""
+    au "Oh, [name]!"
 
 # game/v3/scriptv3.rpy:2121
 translate turkish repeatm_deeeaee6:
 
     # au "Fuck..."
-    au ""
+    au "Siktir..."
 
 # game/v3/scriptv3.rpy:2136
 translate turkish repeatm_ada85f0b:
 
     # au "Wait."
-    au ""
+    au "Bekle."
 
 # game/v3/scriptv3.rpy:2141
 translate turkish repeatm_fe6f48d8:
 
     # au "Now it's my turn."
-    au ""
+    au "Şimdi benim sıram."
 
 # game/v3/scriptv3.rpy:2146
 translate turkish repeatm_9ea2f78c_1:
@@ -2026,85 +2026,85 @@ translate turkish repeatm_9ea2f78c_1:
 translate turkish repeatm_d1c5d4b5:
 
     # au "You have a nice cock, I could get used to this."
-    au ""
+    au "Güzel bir sikin var, buna alışabilirim."
 
 # game/v3/scriptv3.rpy:2160
 translate turkish repeatm_52a0545f:
 
     # au "*Kiss*"
-    au ""
+    au "*Öpücük*"
 
 # game/v3/scriptv3.rpy:2165
 translate turkish repeatm_52a0545f_1:
 
     # au "*Kiss*"
-    au ""
+    au "*Öpücük*"
 
 # game/v3/scriptv3.rpy:2170
 translate turkish repeatm_52a0545f_2:
 
     # au "*Kiss*"
-    au ""
+    au "*Öpücük*"
 
 # game/v3/scriptv3.rpy:2176
 translate turkish repeatm_1c98fc42:
 
     # u "Okay, you know what? That's enough. We shouldn't go any further than this."
-    u ""
+    u "Tamam, ne var biliyor musun? Bu yeterli. Bundan daha ileri gitmemeliyiz."
 
 # game/v3/scriptv3.rpy:2181
 translate turkish repeatm_d0a9e22c:
 
     # au "Go further? What do you mean?"
-    au ""
+    au "Daha ileri gitmek mi? Ne demek istiyorsun?"
 
 # game/v3/scriptv3.rpy:2186
 translate turkish repeatm_58c0a0b8:
 
     # u "That look you just gave me... we were both thinking about it. It's just not a good idea."
-    u ""
+    u "Bana attığın o bakış... ikimiz de bunu düşünüyorduk. Sadece bu iyi bir fikir değil."
 
 # game/v3/scriptv3.rpy:2191
 translate turkish repeatm_45001cbe:
 
     # au "I wasn't thinking anything."
-    au ""
+    au "Hiç bir şey düşünmüyordum."
 
 # game/v3/scriptv3.rpy:2196
 translate turkish repeatm_bd25a1eb:
 
     # u "Maybe it's best if I go now."
-    u ""
+    u "Belki şimdi gitmem en iyisi."
 
 # game/v3/scriptv3.rpy:2201
 translate turkish repeatm_6e06be80:
 
     # au "Yeah, okay... whatever."
-    au ""
+    au "Evet, tamam ... her neyse."
 
 # game/v3/scriptv3.rpy:2206
 translate turkish repeatm_a86a48d3:
 
     # u "(Oh god, did I just turn down Aubrey, or was I just reading into it?)"
-    u ""
+    u "(Tanrım, az önce Aubrey'i red mi ettim, yoksa sadece içine mi okuyordum?)"
 
 # game/v3/scriptv3.rpy:2208
 translate turkish repeatm_30fc9a25:
 
     # u "(I just don't know if it would be a good idea if we were to hook up. What if she tells Chloe? Would Chloe be okay with it?)"
-    u ""
+    u "(Sadece sevişseydik iyi bir fikir olur muydu bilmiyorum. Ya Chloe'ye söylerse? Chloe buna izin verir mi?)"
 
 # game/v3/scriptv3.rpy:2210
 translate turkish repeatm_5ba9599e:
 
     # u "(Also, I barely know her...)"
-    u ""
+    u "(Ayrıca onu çok az tanıyorum ...)"
 
 # game/v3/scriptv3.rpy:2227
 translate turkish abj_c8231a28:
 
     # u "Ahh, fuck!"
-    u ""
+    u "Ahh, siktir!"
 
 # game/v3/scriptv3.rpy:2229
 translate turkish abj_9ea2f78c:
@@ -2116,7 +2116,7 @@ translate turkish abj_9ea2f78c:
 translate turkish abj_e25432e4:
 
     # u "Aubrey, this feels so fucking good."
-    u ""
+    u "Aubrey, bu çok iyi hissettiriyor."
 
 # game/v3/scriptv3.rpy:2235
 translate turkish abj_9ea2f78c_1:
@@ -2128,43 +2128,43 @@ translate turkish abj_9ea2f78c_1:
 translate turkish abj_dd51a358:
 
     # au "*Laughing*"
-    au ""
+    au "*Gülüşler*"
 
 # game/v3/scriptv3.rpy:2261
 translate turkish abj_b4c007f1:
 
     # au "Lost your balance?"
-    au ""
+    au "Dengeni mi kaybettin?"
 
 # game/v3/scriptv3.rpy:2266
 translate turkish abj_a8a4308f:
 
     # u "What? Nooo..."
-    u ""
+    u "Ne? Hayırrr..."
 
 # game/v3/scriptv3.rpy:2268
 translate turkish abj_7adb8e54:
 
     # u "This was just one of my moves."
-    u ""
+    u "Bu sadece benim hareketlerimden biriydi."
 
 # game/v3/scriptv3.rpy:2273
 translate turkish abj_0f04caa8:
 
     # au "Oh really?"
-    au ""
+    au "Oh gerçekten mi?"
 
 # game/v3/scriptv3.rpy:2283
 translate turkish abj_af0e0b3a:
 
-    # au "*Whispers* Fuck me, [name]."
+    # au "*Fısıltılar* Sik beni, [name]."
     au ""
 
 # game/v3/scriptv3.rpy:2298
 translate turkish amiss_69b49d53:
 
     # au "Yeah, that's good!"
-    au ""
+    au "Evet, bu iyi!"
 
 # game/v3/scriptv3.rpy:2300
 translate turkish amiss_9ea2f78c:
@@ -2176,7 +2176,7 @@ translate turkish amiss_9ea2f78c:
 translate turkish amiss_2ef60271:
 
     # au "*moans*"
-    au ""
+    au "*inlemeler*"
 
 # game/v3/scriptv3.rpy:2306
 translate turkish amiss_9ea2f78c_1:
@@ -2188,7 +2188,7 @@ translate turkish amiss_9ea2f78c_1:
 translate turkish amiss_a2310ab8:
 
     # au "Oh my god, [name]!"
-    au ""
+    au "Aman tanrım, [name]!"
 
 # game/v3/scriptv3.rpy:2312
 translate turkish amiss_9ea2f78c_2:
@@ -2200,7 +2200,7 @@ translate turkish amiss_9ea2f78c_2:
 translate turkish amiss_1e7ee0b5:
 
     # au "*Squeals* Yes, yes, yes!"
-    au ""
+    au "*Ciyaklamalar* Evet, evet, evet!"
 
 # game/v3/scriptv3.rpy:2318
 translate turkish amiss_9ea2f78c_3:
@@ -2212,19 +2212,19 @@ translate turkish amiss_9ea2f78c_3:
 translate turkish amiss_e38ad56a:
 
     # au "I want to ride you."
-    au ""
+    au "Sana binmek istiyorum."
 
 # game/v3/scriptv3.rpy:2334
 translate turkish acow_698ce1b6:
 
     # au "You ready for round two?"
-    au ""
+    au "İkinci raunt için hazır mısın?"
 
 # game/v3/scriptv3.rpy:2338
 translate turkish acow_61ec6dc9:
 
     # au "Fuck yes!"
-    au ""
+    au "Siktir evet!"
 
 # game/v3/scriptv3.rpy:2340
 translate turkish acow_9ea2f78c:
@@ -2236,7 +2236,7 @@ translate turkish acow_9ea2f78c:
 translate turkish acow_274217b3:
 
     # au "This feels amazing, [name]!"
-    au ""
+    au "Bu harika hissettiriyor, [name]!"
 
 # game/v3/scriptv3.rpy:2346
 translate turkish acow_9ea2f78c_1:
@@ -2248,7 +2248,7 @@ translate turkish acow_9ea2f78c_1:
 translate turkish acow_bfee52c7:
 
     # au "Yes! Harder!"
-    au ""
+    au "Evet! Daha sert!"
 
 # game/v3/scriptv3.rpy:2352
 translate turkish acow_9ea2f78c_2:
@@ -2260,97 +2260,97 @@ translate turkish acow_9ea2f78c_2:
 translate turkish acow_297f6dfc:
 
     # au "I'm gonna cum!"
-    au ""
+    au "Boşalacağım!"
 
 # game/v3/scriptv3.rpy:2358
 translate turkish acow_6c8e318f:
 
     # u "Oh shit, so am I."
-    u ""
+    u "Ah siktir, ben de öyle."
 
 # game/v3/scriptv3.rpy:2360
 translate turkish acow_658962e9:
 
     # au "Cum in me! It's okay, I'm on the pill."
-    au ""
+    au "İçime boşal! Sorun değil, hap kullanıyorum."
 
 # game/v3/scriptv3.rpy:2366
 translate turkish acream_a1e6d4df:
 
     # au "AHHHHHH!"
-    au ""
+    au "AHHHHHH!"
 
 # game/v3/scriptv3.rpy:2375
 translate turkish acream_54adc11f:
 
     # au "Oh my god... that was amazing."
-    au ""
+    au "Aman tanrım ... bu harikaydı."
 
 # game/v3/scriptv3.rpy:2384
 translate turkish acream_e0ec7bab:
 
     # u "I'm definitely glad I came over."
-    u ""
+    u "Kesinlikle geldiğim için çok mutluyum."
 
 # game/v3/scriptv3.rpy:2385
 translate turkish acream_cfb87ae8:
 
     # u "Why did you want me to climb through the window anyway?"
-    u ""
+    u "Neden pencereden tırmanmamı istedin ki?"
 
 # game/v3/scriptv3.rpy:2390
 translate turkish acream_18b086e8:
 
     # au "Somehow I had a hunch that something might happen between us if I told you to come over..."
-    au ""
+    au "Bir şekilde sana gel dersem aramızda bir şeyler olabileceğine dair bir önsezim vardı..."
 
 # game/v3/scriptv3.rpy:2392
 translate turkish acream_1d39d760:
 
     # au "And I assume you're talking to other girls and might wanna keep this a secret."
-    au ""
+    au "Ve sanırım diğer kızlarla konuşuyorsun ve bunu bir sır olarak saklamak isteyebilirsin."
 
 # game/v3/scriptv3.rpy:2394
 translate turkish acream_b635c57f:
 
     # au "Plus... the secrecy kinda makes it hotter."
-    au ""
+    au "Artı... gizlilik drumu biraz daha ateşli yapar."
 
 # game/v3/scriptv3.rpy:2399
 translate turkish acream_b0d99340:
 
     # u "Haha, I can't disagree with that."
-    u ""
+    u "Haha, buna katılmıyorum."
 
 # game/v3/scriptv3.rpy:2401
 translate turkish acream_7278e6f8:
 
     # u "(Damn... that was really thoughtful of her, but in a very weird way.)"
-    u ""
+    u "(Kahretsin ... gerçekten düşünceliydi, ama çok tuhaf bir şekilde.)"
 
 # game/v3/scriptv3.rpy:2403
 translate turkish acream_a0c07db3:
 
     # u "I should probably get going soon."
-    u ""
+    u "Sanırım yakında gitmeliyim."
 
 # game/v3/scriptv3.rpy:2408
 translate turkish acream_32688df2:
 
     # au "Yeah, I need to get back to studying as well..."
-    au ""
+    au "Evet, benim de çalışmaya geri dönmem gerek..."
 
 # game/v3/scriptv3.rpy:2427
 translate turkish acream_42c2114b:
 
     # u "(I can't believe I just had sex with Aubrey... that was amazing.)"
-    u ""
+    u "(Aubrey ile seks yaptığıma inanamıyorum... bu harikaydı.)"
 
 # game/v3/scriptv3.rpy:2430
 translate turkish acream_03cdc8ec:
 
     # u "(I wonder if Lauren would be upset if she knew. I guess I'll have to decide how honest I wanna be on our date tonight.)"
-    u ""
+    u "(Merak ediyorum eğer Lauren bilse üzülür mü? Sanırım bu akşamki randevumuzda ne kadar dürüst olmak istediğime karar vermem gerekecek.)"
 
 # game/v3/scriptv3.rpy:2446
 translate turkish aubsexad_e7c00723:
