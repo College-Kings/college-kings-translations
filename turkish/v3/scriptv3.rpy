@@ -2157,8 +2157,8 @@ translate turkish abj_0f04caa8:
 # game/v3/scriptv3.rpy:2283
 translate turkish abj_af0e0b3a:
 
-    # au "*Fısıltılar* Sik beni, [name]."
-    au ""
+    # au "*Whispers* Fuck me, [name]."
+    au "*Fısıltılar* Sik beni, [name]."
 
 # game/v3/scriptv3.rpy:2298
 translate turkish amiss_69b49d53:
@@ -2356,361 +2356,361 @@ translate turkish acream_03cdc8ec:
 translate turkish aubsexad_e7c00723:
 
     # u "Lauren? What are you doing here?"
-    u ""
+    u "Lauren? Burada ne yapıyorsun?"
 
 # game/v3/scriptv3.rpy:2452
 translate turkish aubsexad_754fa29d:
 
     # la "Hey, uhm..."
-    la ""
+    la "Hey, şey..."
 
 # game/v3/scriptv3.rpy:2454
 translate turkish aubsexad_8cbfe3e7:
 
     # la "I'm here to ask you for a favor... as a friend."
-    la ""
+    la "Bir arkadaş olarak senden bir iyilik istemek için geldim."
 
 # game/v3/scriptv3.rpy:2459
 translate turkish aubsexad_6b40cde0:
 
     # u "Uhm, okay... What is it?"
-    u ""
+    u "Ahm, Tamam... Nedir?"
 
 # game/v3/scriptv3.rpy:2465
 translate turkish aubsexad_84ad4a94:
 
     # la "Heyyy. I need a favor."
-    la ""
+    la "Heyyy. Bir iyiliğe ihtiyacım var."
 
 # game/v3/scriptv3.rpy:2470
 translate turkish aubsexad_1817ae6c:
 
     # u "Alright, how can I help?"
-    u ""
+    u "Pekala, nasıl yardımcı olabilirim?"
 
 # game/v3/scriptv3.rpy:2476
 translate turkish aubsexad_d310fabe:
 
     # la "Hey, uhm... I know we haven't talked since the park."
-    la ""
+    la "Selam, uhm... Parktan beri konuşmadığımızı biliyorum."
 
 # game/v3/scriptv3.rpy:2478
 translate turkish aubsexad_bfecc3b4:
 
     # la "But I kinda need a favor... as a friend."
-    la ""
+    la "Ama bir iyiliğe ihtiyacım var... bir arkadaş olarak."
 
 # game/v3/scriptv3.rpy:2483
 translate turkish aubsexad_adf0b143:
 
     # u "Uhm, okay. What is it?"
-    u ""
+    u "Ahm, Tamam... Nedir?"
 
 # game/v3/scriptv3.rpy:2503
 translate turkish continuen_2ae5cac8:
 
     # la "So you know how I'm majoring in psychology?"
-    la ""
+    la "Psikolojide nasıl uzmanlaştığımı biliyor musun?"
 
 # game/v3/scriptv3.rpy:2508
 translate turkish continuen_2c0b9bd8:
 
     # u "Uh..."
-    u ""
+    u "Uh..."
 
 # game/v3/scriptv3.rpy:2513
 translate turkish continuen_3a7e8c10:
 
     # la "For one of my assignments I need to do several personality tests on someone and analyze them."
-    la ""
+    la "Ödevlerimden biri için birisi üzerinde birkaç Kişilik Testi yapmam ve analiz etmem gerekiyor."
 
 # game/v3/scriptv3.rpy:2516
 translate turkish continuen_6d24cda0:
 
     # la "Would you wanna be my test subject?"
-    la ""
+    la "Deneğim olmak ister misin?"
 
 # game/v3/scriptv3.rpy:2525
 translate turkish continuen_015df046:
 
     # u "Yeah, I'd love to."
-    u ""
+    u "Evet, çok isterim."
 
 # game/v3/scriptv3.rpy:2533
 translate turkish continuen_ebe62aec:
 
     # u "I don't know, Lauren. Sounds kinda weird."
-    u ""
+    u "Bilmiyorum Lauren. Biraz garip geliyor."
 
 # game/v3/scriptv3.rpy:2538
 translate turkish continuen_b2592261:
 
     # la "[name], pleaaase. It's just answering a few questions."
-    la ""
+    la "[name], lütfeeen. Sadece birkaç soruya cevap vereceksin."
 
 # game/v3/scriptv3.rpy:2543
 translate turkish continuen_1283716f:
 
     # u "Okay, fine."
-    u ""
+    u "Tamam, iyi."
 
 # game/v3/scriptv3.rpy:2548
 translate turkish continuen_c874c495:
 
     # la "Thank you so much!"
-    la ""
+    la "Çok teşekkür ederim!"
 
 # game/v3/scriptv3.rpy:2568
 translate turkish continuen_0eaa1e86:
 
     # la "Let's meet up in the next couple days then and we'll go through the first personality test."
-    la ""
+    la "O zaman önümüzdeki birkaç gün içinde buluşalım ve ilk kişilik testine geçelim."
 
 # game/v3/scriptv3.rpy:2573
 translate turkish continuen_d9edb83d:
 
     # u "Alright, just send me a text."
-    u ""
+    u "Pekala, bana mesaj gönder."
 
 # game/v3/scriptv3.rpy:2591
 translate turkish continueq_26b31879:
 
     # u "Huh? Julia's calling me."
-    u ""
+    u "Huh? Julia beni arıyor."
 
 # game/v3/scriptv3.rpy:2602
 translate turkish continueq_a72d849a:
 
     # u "Hey, Julia!"
-    u ""
+    u "Selam, Julia!"
 
 # game/v3/scriptv3.rpy:2607
 translate turkish continueq_eb648ce8:
 
     # ju "Hey honey, how are you?"
-    ju ""
+    ju "Selam tatlım, nasılsın?"
 
 # game/v3/scriptv3.rpy:2612
 translate turkish continueq_8ea462a7:
 
     # u "I'm good, what's up?"
-    u ""
+    u "İyiyim, senden naber?"
 
 # game/v3/scriptv3.rpy:2617
 translate turkish continueq_6775f4bb:
 
     # ju "I was wondering if you would like to go shopping with me tomorrow morning?"
-    ju ""
+    ju "Yarın sabah benimle alışverişe gitmek ister misin?"
 
 # game/v3/scriptv3.rpy:2619
 translate turkish continueq_90c13a46:
 
     # ju "I would pick you up and you could tell me all about your first week at college."
-    ju ""
+    ju "Seni alırdım ve bana üniversitedeki ilk haftan hakkında her şeyi anlatabilirdin."
 
 # game/v3/scriptv3.rpy:2621
 translate turkish continueq_21fdd5f0:
 
     # ju "And maybe we can buy you a nice new outfit for whatever girl you met?"
-    ju ""
+    ju "Ve belki de tanıştığın kız için sana yeni ve güzel bir kıyafet alabiliriz?"
 
 # game/v3/scriptv3.rpy:2626
 translate turkish continueq_4a9e9a82:
 
     # u "(Shit... if I meet her, she'll see my bruises and get really worried.)"
-    u ""
+    u "(Sıçtım... onunla buluşursam, morluklarımı görür ve çok endişelenir.)"
 
 # game/v3/scriptv3.rpy:2633
 translate turkish continueq_b2efe1e3:
 
     # u "Yeah, shopping sounds great, Julia."
-    u ""
+    u "Evet, alışveriş kulağa harika geliyor Julia."
 
 # game/v3/scriptv3.rpy:2635
 translate turkish continueq_f4b5c784:
 
     # u "I'll see you tomorrow then."
-    u ""
+    u "Yarın görüşürüz o zaman."
 
 # game/v3/scriptv3.rpy:2640
 translate turkish continueq_9adfad62:
 
     # ju "Okay, honey. I'll call you when I'm at San Vallejo."
-    ju ""
+    ju "Tamam, tatlım. San Vallejo'ya geldiğimde seni ararım."
 
 # game/v3/scriptv3.rpy:2645
 translate turkish continueq_daa843ad:
 
     # u "Alright, bye."
-    u ""
+    u "Tamam, hoşça kal."
 
 # game/v3/scriptv3.rpy:2650
 translate turkish continueq_c4bec625:
 
     # ju "Bye, honey."
-    ju ""
+    ju "Hoşça kal tatlım."
 
 # game/v3/scriptv3.rpy:2657
 translate turkish continueq_8710069c:
 
     # u "Sorry, Julia... I'm really busy this weekend."
-    u ""
+    u "Üzgünüm Julia... Bu hafta sonu çok meşgulüm."
 
 # game/v3/scriptv3.rpy:2662
 translate turkish continueq_a13bb8c0:
 
     # ju "Oh... okay, honey. Next time then."
-    ju ""
+    ju "Oh... Tamam, tatlım. Bir dahaki sefere o zaman."
 
 # game/v3/scriptv3.rpy:2667
 translate turkish continueq_4035dcb6:
 
     # u "Yeah... next time."
-    u ""
+    u "Evet ... bir dahaki sefere."
 
 # game/v3/scriptv3.rpy:2690
 translate turkish continueq_8232499c:
 
     # u "(I don't really feel like talking to her right now.)"
-    u ""
+    u "(Şu anda onunla konuşmak istemiyorum.)"
 
 # game/v3/scriptv3.rpy:2698
 translate turkish continueq_4f1997c1:
 
     # "*Knock knock knock*"
-    ""
+    "*Tık tık tık*"
 
 # game/v3/scriptv3.rpy:2703
 translate turkish continueq_0af354ea:
 
     # u "(I guess there goes my one minute of alone time...)"
-    u ""
+    u (Sanırım bir dakikalık yalnız kaldığım zamana gidiyor...)""
 
 # game/v3/scriptv3.rpy:2710
 translate turkish continueq_9ea1e8f9:
 
     # u "Hey guys."
-    u ""
+    u "Hey çocuklar."
 
 # game/v3/scriptv3.rpy:2715
 translate turkish continueq_19588a61:
 
     # ry "What's up, [name]?"
-    ry ""
+    ry "Naber [name]?,"
 
 # game/v3/scriptv3.rpy:2720
 translate turkish continueq_a6070304:
 
     # ri "Wow, your face looks really as bad as Ryan said."
-    ri ""
+    ri "Yüzün Ryan'ın söylediği kadar kötü görünüyor."
 
 # game/v3/scriptv3.rpy:2725
 translate turkish continueq_6384a8df:
 
     # u "Thanks, Riley. What can I do for you?"
-    u ""
+    u "Teşekkürler, Riley. Senin için ne yapabilirim?"
 
 # game/v3/scriptv3.rpy:2730
 translate turkish continueq_c18c62f8:
 
     # ri "It's a really nice day, so we're going to go for a picnic. Wanna come?"
-    ri ""
+    ri "Gerçekten güzel bir gün, bu yüzden pikniğe gideceğiz. Gelmek ister misin?"
 
 # game/v3/scriptv3.rpy:2735
 translate turkish continueq_b721ba07:
 
     # ry "Plus there'll be some hotties in the park."
-    ry ""
+    ry "Ayrıca parkta bazı ateşli kızlar da olacak."
 
 # game/v3/scriptv3.rpy:2739
 translate turkish continueq_d032c40e:
 
     # ri "Is that all you think about, Ryan?"
-    ri ""
+    ri "Tüm düşündüğün bu mu Ryan?"
 
 # game/v3/scriptv3.rpy:2748
 translate turkish continueq_e9164e66:
 
     # u "I think Riley is all the hottie I need."
-    u ""
+    u "Sanırım ihtiyacım olan tek şey Riley."
 
 # game/v3/scriptv3.rpy:2753
 translate turkish continueq_e374cc2b:
 
     # ri "Awww, thank you."
-    ri ""
+    ri "Awww, teşekkür ederim."
 
 # game/v3/scriptv3.rpy:2758
 translate turkish continueq_4da4ca61:
 
     # ry "This guy..."
-    ry ""
+    ry "Bu adam..."
 
 # game/v3/scriptv3.rpy:2760
 translate turkish continueq_99a3ab07:
 
     # ry "So, you coming, or what?"
-    ry ""
+    ry "Ee, geliyor musun, gelmiyor musun?"
 
 # game/v3/scriptv3.rpy:2765
 translate turkish continueq_dacaecf9:
 
     # u "Yeah, alright. Let me just change out of my gym clothes."
-    u ""
+    u "Evet, Tamam. Spor kıyafetlerimi değiştirmeme izin ver."
 
 # game/v3/scriptv3.rpy:2773
 translate turkish continueq_d1879211:
 
     # u "Well, count me in then."
-    u ""
+    u "Peki, beni de say."
 
 # game/v3/scriptv3.rpy:2778
 translate turkish continueq_c8678876:
 
     # ri "Of course that's what made you wanna go. Why do I even spend time with you guys?"
-    ri ""
+    ri "Tabii ki gitmek istemeni sağlayan da buydu. Neden sizinle vakit geçiriyorum ki?"
 
 # game/v3/scriptv3.rpy:2783
 translate turkish continueq_cdae9e74:
 
     # u "Oh come on, Riley. You're one of the hotties."
-    u ""
+    u "Hadi ama, Riley. Sen en ateşlilerden birisin."
 
 # game/v3/scriptv3.rpy:2788
 translate turkish continueq_792d5691:
 
     # ri "What a sincere compliment. Are you ready to go then?"
-    ri ""
+    ri "Ne samimi bir iltifat. gitmek için hazır mısınız?"
 
 # game/v3/scriptv3.rpy:2793
 translate turkish continueq_486e7845:
 
     # u "Yeah, let me just change out of my gym clothes."
-    u ""
+    u "Evet, spor kıyafetlerimi değiştirmeme izin ver."
 
 # game/v3/scriptv3.rpy:2798
 translate turkish continueq_592ca2d1:
 
     # u "This is a really nice spot."
-    u ""
+    u "Bu gerçekten iyi bir nokta."
 
 # game/v3/scriptv3.rpy:2803
 translate turkish continueq_6d0eb153:
 
     # ry "Yeah, it really is."
-    ry ""
+    ry "Evet, gerçekten öyle."
 
 # game/v3/scriptv3.rpy:2808
 translate turkish continueq_60fb5707:
 
     # ri "So uhm [name]... How are you gonna get back at Grayson?"
-    ri ""
+    ri ""Yani uhm [name]... Grayson'dan nasıl intikam alacaksın?"
 
 # game/v3/scriptv3.rpy:2813
 translate turkish continueq_0c076e25:
 
     # u "What do you mean, get back?"
-    u ""
+    u "Ne demek geri çekilmek?"
 
 # game/v3/scriptv3.rpy:2818
 translate turkish continueq_6cbfe69d:
