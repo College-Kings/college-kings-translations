@@ -33,10 +33,10 @@ If you want to proofread your script again, there is a column for that as well, 
 Progress | ?/all | Who is working on it? | Proofreading
 -------- | -------- | --------- | ---------
 non script files | 0/2 | - | [ ]
-scriptv1-v2.rpy | 5983/9515 | - | [Bibs2]
-scriptv3.rpy | 0/3639 | - | [Thyg]
-scriptv4.rpy | 5653/5653 | - | [TheProfMilos]
-scriptv5.rpy | 2305/2305 | - | [TheProfMilos]
+scriptv1-v2.rpy | 5983/9515 | Bibs2 | []
+scriptv3.rpy | 0/3639 | Thyg | []
+scriptv4.rpy | 5653/5653 | TheProfMilos | []
+scriptv5.rpy | 2305/2305 | TheProfMilos | []
 scriptv6.rpy | TBA | - | [ ]
 scriptv7.rpy |TBA | - | [ ]
 v08 files | TBA | - | [ ]
