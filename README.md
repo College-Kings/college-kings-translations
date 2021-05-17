@@ -28,12 +28,12 @@ CZECH
  - Remove your name from the table below. 
  - If you want to continue translating, jump to [the previous step](https://github.com/College-Kings/College-Kings-Translations#how-to-start-translating-a-new-part) again.
 
-Progress | 9772/all | Who is working on it? | Proofreading
+Progress | 10662/all | Who is working on it? | Proofreading
 -------- | -------- | --------- | ---------
 non script files | 2/2 | Krisp1k, PorneliusHubert | [X]
 scriptv1-v2.rpy | 2704/9515 | PorneliusHubert | [ ]
 scriptv3.rpy | 0/3639 | - | [ ]
-scriptv4.rpy | 4763/5653 | Krisp1k | [ ]
+scriptv4.rpy | 5653/5653 | Krisp1k | [ ]
 scriptv5.rpy | 2305/2305 | Krisp1k | [ ]
 scriptv6.rpy | TBA | - | [ ]
 scriptv7.rpy |TBA | - | [ ]
