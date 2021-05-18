@@ -94,19 +94,19 @@ translate portuguese v5start_3e1869e8:
 translate portuguese v5start_f53fb841:
 
     # no "It's late, I really don't wanna get into it. But hey, let me know how your little love story ends."
-    no "Está tarde, eu não quero falar no assunto. Mas me conta como os fatos se desenrrolam na sua história de amor."
+    no "Está tarde, eu não quero falar no assunto. Mas me conta como os fatos se desenrolam na sua história de amor."
 
 # game/v5/scriptv5.rpy:81
 translate portuguese v5start_cdb2d7d3:
 
     # no "Night, [name]."
-    no "Boa Noite [name]"
+    no "Boa noite, [name]."
 
 # game/v5/scriptv5.rpy:86
 translate portuguese v5start_52e838e0:
 
     # u "*Drunk* Night..."
-    u "*Bêbado* Boa Noite..."
+    u "*Bêbado* Boa noite..."
 
 # game/v5/scriptv5.rpy:92
 translate portuguese v5start_52c2a370:
@@ -130,13 +130,13 @@ translate portuguese v5start_a132ad83:
 translate portuguese v5start_cdb2d7d3_1:
 
     # no "Night, [name]."
-    no "Boa Noite, [name]"
+    no "Boa noite, [name]."
 
 # game/v5/scriptv5.rpy:106
 translate portuguese v5start_52e838e0_1:
 
     # u "*Drunk* Night..."
-    u "*Bêbado* Boa Noite."
+    u "*Bêbado* Boa noite."
 
 # game/v5/scriptv5.rpy:112
 translate portuguese v5start_04b2a395:
@@ -160,7 +160,7 @@ translate portuguese v5start_0fba9dcb:
 translate portuguese v5start_f725ce66:
 
     # u "(Way to mess things up with Chloe.... great fucking job, [name].)"
-    u "(Baita maneira de estragar as coisas com a Chloe... Excelente trabalho [name])"
+    u "(Baita maneira de estragar as coisas com a Chloe... Excelente trabalho [name].)"
 
 # game/v5/scriptv5.rpy:142
 translate portuguese v5start_5a88a05e:
@@ -208,7 +208,7 @@ translate portuguese jorepb_0ed764dd:
 translate portuguese jorepb_6fab2291:
 
     # cl "Hey I don't have that much more time tonight, but how about we hang out tomorrow?"
-    cl "Ei, eu não tenho muito tempo hoje a noite, que tal se a gente se encontrar amanhã?"
+    cl "Ei, eu não tenho muito tempo hoje à noite, que tal se a gente se encontrar amanhã?"
 
 # game/v5/scriptv5.rpy:250
 translate portuguese jorepb_4b8de160:
@@ -274,7 +274,7 @@ translate portuguese jorepb_827ff41b:
 translate portuguese jorepb_17de23f6:
 
     # cl "[name], I don't care about the fighting, or any of that shit. What Grayson did to you was pathetic. I like you 'cause you were funny and kind and ... and you cared."
-    cl "[name], eu nem ligo pras lutas ou qualquer merda dessas. O que o Grayson fez com você é patético. Eu gosto de você porque vocè é engraçado e gentil e... você se importa."
+    cl "[name], eu nem ligo pras lutas ou qualquer merda dessas. O que o Grayson fez com você é patético. Eu gosto de você porque você é engraçado e gentil e... você se importa."
 
 # game/v5/scriptv5.rpy:322
 translate portuguese jorepb_023c11e2:
@@ -2301,4 +2301,3 @@ translate portuguese strings:
     # game/v5/scriptv5.rpy:4372
     old "I'm busy later tonight and I'm pretty much booked for the entire week :/"
     new "Eu tô meia ocupada hoje a noite e minha semana tá meio cheia :/"
-
