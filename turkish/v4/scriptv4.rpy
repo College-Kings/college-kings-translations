@@ -4,331 +4,331 @@
 translate turkish v4start_b4021613:
 
     # u "Imre? How you holding up buddy?"
-    u ""
+    u "Imre? Dostum nasılsın?"
 
 # game/v4/scriptv4.rpy:12
 translate turkish v4start_c5ddf28e:
 
     # imre "Hey, I'm fine. *winces in pain*"
-    imre ""
+    imre "Hey, ben iyiyim. *acı içinde titriyor*"
 
 # game/v4/scriptv4.rpy:17
 translate turkish v4start_340bf5a0:
 
     # u "The nurse said you had 3 broken ribs! What the hell happened?"
-    u ""
+    u "Hemşire 3 kaburganın kırıldığını söyledi! Ne oldu?"
 
 # game/v4/scriptv4.rpy:22
 translate turkish v4start_bf4e1bad:
 
     # imre "Well I was hitting on this girl but she wasn't really into talking so I just started grinding on her a bit."
-    imre ""
+    imre "Bir kıza asılıyordum, ama gerçekten konuşmayı sevmiyordu, bu yüzden onu biraz ezmeye başladım."
 
 # game/v4/scriptv4.rpy:24
 translate turkish v4start_dffee429:
 
     # imre "Then all of the sudden... *winces in pain* this dude shows up super mad and starts pushing me around."
-    imre ""
+    imre "Sonra birden bire... *acı içinde titriyor* bu adam süper deli bir anda ortaya çıktı ve beni itmeye başladı."
 
 # game/v4/scriptv4.rpy:28
 translate turkish v4start_df176aa7:
 
     # imre "Turns out that it was Adam and I was grinding on his sister."
-    imre ""
+    imre "Meğerse Adam'mış ve ben onun kız kardeşine asılıyormuşum."
 
 # game/v4/scriptv4.rpy:33
 translate turkish v4start_9729603a:
 
     # u "Who's Adam?"
-    u ""
+    u "Kim bu Adam?"
 
 # game/v4/scriptv4.rpy:38
 translate turkish v4start_de621888:
 
     # imre "My brother asked some of his friends in the Wolves... *winces in pain*"
-    imre ""
+    imre ""Kardeşim Kurtlardaki bazı arkadaşlarına sordu... *acı içinde titriyor*""
 
 # game/v4/scriptv4.rpy:40
 translate turkish v4start_0162cafc:
 
     # imre "And apparently Adam used to be an Ape, but last year one of his opponents wouldn't give up so he flipped and gouged his opponent's eyes."
-    imre ""
+    imre "Ve görünüşe göre Adam bir Maymundu, ama geçen yıl rakiplerinden biri pes etmedi, bu yüzden rakibinin gözlerini çevirdi ve oydu."
 
 # game/v4/scriptv4.rpy:42
 translate turkish v4start_fdf80e7c:
 
     # imre "*winces in pain* He was immediately disqualified and kicked out of the Apes."
-    imre ""
+    imre "*acı içinde titriyor* Hemen diskalifiye edildi ve Maymunlardan atıldı."
 
 # game/v4/scriptv4.rpy:44
 translate turkish v4start_c76b9e3d:
 
     # imre "Anyways, I obviously pushed him back and told to fuck off and then we got into a bit of a fight."
-    imre ""
+    imre "Her neyse, belli ki onu geri ittim ve siktir git dedim ve sonra biraz kavga ettik."
 
 # game/v4/scriptv4.rpy:49
 translate turkish v4start_8c180bbe:
 
     # u "A bit of a fight? You have three broken ribs..."
-    u ""
+    u "Biraz kavga mı? Üç kırık kaburgan var..."
 
 # game/v4/scriptv4.rpy:53
 translate turkish v4start_bc819d28:
 
     # imre "Yeah whatever... *winces in pain* he caught me by surprise, it wasn't a fair fight."
-    imre ""
+    imre "Evet her neyse... *acı içinde titriyor* beni şaşırttı, adil bir kavga değildi."
 
 # game/v4/scriptv4.rpy:77
 translate turkish do_a_3c649ef4:
 
     # u "Imre, you need to be more careful, man!"
-    u ""
+    u "Imre, daha dikkatli olmalısın dostum!"
 
 # game/v4/scriptv4.rpy:79
 translate turkish do_a_15e1a023:
 
     # u "You can't just try and fight everyone, what if he had a knife?"
-    u ""
+    u "Herkesle kavga etmeye çalışamazsın, ya bıçağı olsaydı?"
 
 # game/v4/scriptv4.rpy:84
 translate turkish do_a_eab36fd9:
 
     # imre "I told you, it wasn't a fair fight! I'll fuck him up when I get out."
-    imre ""
+    imre "Adil bir dövüş olmadığını söyledim! Dışarı çıktığımda onu mahvedeceğim."
 
 # game/v4/scriptv4.rpy:105
 translate turkish dp_a_05f159fd:
 
     # u "At least let me help you."
-    u ""
+    u "En azından sana yardım etmeme izin ver."
 
 # game/v4/scriptv4.rpy:110
 translate turkish dp_a_4b864680:
 
     # imre "Nah, this is my fight *winces in pain*."
-    imre ""
+    imre "Olmaz, Bu benim kavgam *acı içinde titriyor*."
 
 # game/v4/scriptv4.rpy:112
 translate turkish dp_a_ab9aa661:
 
     # imre "If you wanna help, pick me up when I get out of here."
-    imre ""
+    imre "Yardım etmek istiyorsan, buradan çıktığımda beni al."
 
 # game/v4/scriptv4.rpy:117
 translate turkish dp_a_dd1f40cd:
 
     # u "The nurse said you need to stay in here for two more days so I'll pick you up on Sunday, alright?"
-    u ""
+    u "Hemşire iki gün daha burada Kalman gerektiğini söyledi. Pazar günü seni alırım, tamam mı?"
 
 # game/v4/scriptv4.rpy:122
 translate turkish dp_a_e66b65b5:
 
     # imre "Alright, player. *winces in pain*"
-    imre ""
+    imre "Pekala, kanka. *acı içinde titriyor*"
 
 # game/v4/scriptv4.rpy:127
 translate turkish dp_a_8ba31839:
 
     # u "I'll see you then, get better soon."
-    u ""
+    u "Sonra görüşürüz, yakında iyileşirim."
 
 # game/v4/scriptv4.rpy:136
 translate turkish dp_b_f42f951a:
 
     # u "Dude, that's a dumb idea. He sounds dangerous, just go to the cops!"
-    u ""
+    u "Dostum, bu aptalca bir fikir. Kulağa tehlikeli geliyor, sadece polise git!"
 
 # game/v4/scriptv4.rpy:141
 translate turkish dp_b_bed1b982:
 
     # imre "I'll fuck him up myself! *winces in pain* Or do I look like a bitch to you?"
-    imre ""
+    imre "Onu kendim mahvedeceğim! *acı içinde titriyor* yoksa oradan kaltak gibi mi görünüyorum?"
 
 # game/v4/scriptv4.rpy:146
 translate turkish dp_b_d646d5e5:
 
     # u "No, just think about it, okay?"
-    u ""
+    u "Hayır, bir düşün, tamam mı?"
 
 # game/v4/scriptv4.rpy:148
 translate turkish dp_b_1b518344:
 
     # u "The nurse said you'd be in here for two more days. I'll pick you up on Sunday alright?"
-    u ""
+    u "Hemşire iki gün daha burada olacağını söyledi. Pazar günü seni alırım, tamam mı?"
 
 # game/v4/scriptv4.rpy:153
 translate turkish dp_b_e66b65b5:
 
     # imre "Alright, player. *winces in pain*"
-    imre ""
+    imre "Pekala, kanka. *acı içinde titriyor*"
 
 # game/v4/scriptv4.rpy:158
 translate turkish dp_b_8ba31839:
 
     # u "I'll see you then, get better soon."
-    u ""
+    u "Sonra görüşürüz, yakında iyileşirim."
 
 # game/v4/scriptv4.rpy:167
 translate turkish do_b_a98353e8:
 
     # u "Fuck that guy, let's fuck him up!"
-    u ""
+    u "Sikeyim şu adamı, hadi sikelim onu!"
 
 # game/v4/scriptv4.rpy:172
 translate turkish do_b_4b864680:
 
     # imre "Nah, this is my fight *winces in pain*."
-    imre ""
+    imre "Olmaz, Bu benim kavgam *acı içinde titriyor*."
 
 # game/v4/scriptv4.rpy:174
 translate turkish do_b_151acc9a:
 
     # imre "I'll be okay... but could you pick me up when I get out?"
-    imre ""
+    imre "İyi olacağım... ama dışarı çıktığımda beni alabilir misin"
 
 # game/v4/scriptv4.rpy:179
 translate turkish do_b_f581f45f:
 
     # u "Yeah of course, the nurse said you need to stay in here for two more days so I'll come back on Sunday, alright?"
-    u ""
+    u "Evet, elbette, hemşire iki gün daha burada Kalman gerektiğini söyledi, bu yüzden Pazar günü geri döneceğim, tamam mı?"
 
 # game/v4/scriptv4.rpy:184
 translate turkish do_b_e66b65b5:
 
     # imre "Alright, player. *winces in pain*"
-    imre ""
+    imre "Pekala, kanka. *acı içinde titriyor*"
 
 # game/v4/scriptv4.rpy:189
 translate turkish do_b_8ba31839:
 
     # u "I'll see you then, get better soon."
-    u ""
+    u "Sonra görüşürüz, yakında iyileşirim."
 
 # game/v4/scriptv4.rpy:215
 translate turkish dp_ad_c67246ba:
 
     # u "(Holy fuck... I'm just glad he's okay. I need to talk to someone about this.)"
-    u ""
+    u "(Hay amına koyayım... İyi olduğuna çok sevindim. Bu konuda biriyle konuşmam gerek.)"
 
 # game/v4/scriptv4.rpy:217
 translate turkish dp_ad_c7da4826:
 
     # u "(Riley's quite close with Imre, I'll call her.)"
-    u ""
+    u "(Riley Imre ile oldukça yakın, onu arayacağım.)"
 
 # game/v4/scriptv4.rpy:224
 translate turkish dp_ad_5b8aada9:
 
     # "*Phone calling*"
-    ""
+    "*Telefon çalar*"
 
 # game/v4/scriptv4.rpy:231
 translate turkish dp_ad_6f1017a1:
 
     # ri "Hey [name], why you calling me so late?"
-    ri ""
+    ri "Selam [name], neden beni bu kadar geç arıyorsun?"
 
 # game/v4/scriptv4.rpy:232
 translate turkish dp_ad_e79e7310:
 
     # ri "You know that booty calls nowadays aren't actually calls, people just text."
-    ri ""
+    ri "Bugünlerde sarhoşken telefonla konuşmanın aslında arama olmadığını biliyorsun, insanlar sadece mesaj atıyor."
 
 # game/v4/scriptv4.rpy:237
 translate turkish dp_ad_a7e3f450:
 
     # u "Riley, Imre's in the hospital. He got beat up and has three broken ribs."
-    u ""
+    u "Riley, Imre hastanede. Dövüldü ve üç kaburga kemiği kırıldı."
 
 # game/v4/scriptv4.rpy:242
 translate turkish dp_ad_186f6247:
 
     # ri "What the hell?! Will he be okay?"
-    ri ""
+    ri "Ne oluyor?! İyileşecek mi?"
 
 # game/v4/scriptv4.rpy:247
 translate turkish dp_ad_1f61cdbb:
 
     # u "Yeah, he's holding up. I'm just on my way back from the hospital. He has to stay there for two more days."
-    u ""
+    u "Evet, O bir alkolik. Hastaneden yeni dönüyorum. Orada iki gün daha kalmak zorunda."
 
 # game/v4/scriptv4.rpy:249
 translate turkish dp_ad_7cf930cb:
 
     # u "The nurse said he's lucky there was no internal bleeding."
-    u ""
+    u "Hemşire iç kanama olmadığı için şanslı olduğunu söyledi."
 
 # game/v4/scriptv4.rpy:254
 translate turkish dp_ad_b06a1579:
 
     # ri "Oh my god... Let me know when you're back at your dorm. I'll come over straight away if you wanna talk about it."
-    ri ""
+    ri "Aman tanrım... Yurda döndüğünde haber ver. Konuşmak istersen hemen gelirim."
 
 # game/v4/scriptv4.rpy:259
 translate turkish dp_ad_dd3101e7:
 
     # u "Yeah, okay. I won't be able to sleep right now anyway."
-    u ""
+    u "Evet, Tamam. Zaten şu anda uyuyamayacağım."
 
 # game/v4/scriptv4.rpy:264
 translate turkish dp_ad_c884f79b:
 
     # u "Here's good, thank you."
-    u ""
+    u "İşte güzel, teşekkür ederim."
 
 # game/v4/scriptv4.rpy:269
 translate turkish dp_ad_b01b2966:
 
     # uber "Please don't forget to rate me five stars if you enjoyed your journey."
-    uber ""
+    uber "Yolculuğunuzu beğendiyseniz lütfen bana beş yıldız vermeyi unutmayın."
 
 # game/v4/scriptv4.rpy:276
 translate turkish dp_ad_4f1997c1:
 
     # "*Knock knock knock*"
-    ""
+    "*Tık tık tık*"
 
 # game/v4/scriptv4.rpy:286
 translate turkish dp_ad_892195fa:
 
     # u "Hey..."
-    u ""
+    u "Selam..."
 
 # game/v4/scriptv4.rpy:291
 translate turkish dp_ad_a3357a82:
 
     # ri "Hey, I still can't believe this happened."
-    ri ""
+    ri ""Selam, bunun olduğuna hala inanamıyorum.""
 
 # game/v4/scriptv4.rpy:296
 translate turkish dp_ad_5031cd94:
 
     # u "Yeah, me neither..."
-    u ""
+    u "Evet, ben de öyle..."
 
 # game/v4/scriptv4.rpy:301
 translate turkish dp_ad_a20dfd33:
 
     # u "He gets out on Sunday. If you want to, you can come with me when I pick him up."
-    u ""
+    u "Pazar günü dışarı çıktı. İstersen, onu almaya benimle gelebilirsin."
 
 # game/v4/scriptv4.rpy:306
 translate turkish dp_ad_8e1db608:
 
     # ri "Of course."
-    ri ""
+    ri "Elbette."
 
 # game/v4/scriptv4.rpy:311
 translate turkish dp_ad_f26dcb73:
 
     # ri "Imre said you started training with him..."
-    ri ""
+    ri "Imre onunla antrenmana başladığını söyledi..."
 
 # game/v4/scriptv4.rpy:313
 translate turkish dp_ad_14220c37:
 
     # ri "Does that mean I'll have to visit both of you in the hospital soon?"
-    ri ""
+    ri "Bu, yakında ikinizi de hastanede ziyaret etmem gerektiği anlamına mı geliyor?"
 
 # game/v4/scriptv4.rpy:318
 translate turkish dp_ad_14a15a75:
