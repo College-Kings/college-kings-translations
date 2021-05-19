@@ -1000,1027 +1000,1028 @@ translate portuguese conl_88f06d34:
 translate portuguese conl_189777f9:
 
     # imre "*Laughs* Great first move, flawless execution."
-    imre ""
+    imre "*Rindo* Bom movimento, execução perfeita."
 
 # game/v3/scriptv3.rpy:1089
 translate portuguese conl_3586bb88:
 
     # imre "How about we start with the basics? Do you know how to throw a hook, jab and kick?"
-    imre ""
+    imre "Que tal começar com o básico? Você sabe como dar um gancho, um jab e chutar?"
 
 # game/v3/scriptv3.rpy:1094
 translate portuguese conl_0c0a6182:
 
     # u "Uhm yeah, sure."
-    u ""
+    u "Sim, sei."
 
 # game/v3/scriptv3.rpy:1138
 translate portuguese conl_0e2a9c39:
 
     # imre "Alriiight. It wasn't exactly perfect form, but it's pretty good for a beginner."
-    imre ""
+    imre "Ceeerto. Não foi exatamente perfeito, mas foi bom pra alguém que tá começando."
 
 # game/v3/scriptv3.rpy:1140
 translate portuguese conl_934009a2:
 
     # imre "Let me just go take a piss and we can get to work when I'm back."
-    imre ""
+    imre "Vou ali dar uma mijada e a gente continua quando eu voltar."
 
 # game/v3/scriptv3.rpy:1145
 translate portuguese conl_6ef4da5d:
 
     # u "Okay, sounds good."
-    u ""
+    u "Beleza."
 
 # game/v3/scriptv3.rpy:1150
 translate portuguese conl_c9d82dab:
 
     # u "(Why do people come here so early in the morning just to work out?)"
-    u ""
+    u "(Por que as pessoas vêm tão cedo pra academia?)"
 
 # game/v3/scriptv3.rpy:1157
 translate portuguese conl_aaeba228:
 
     # u "(Isn't that the cute store clerk from the costume shop?)"
-    u ""
+    u "(Aquela não é a atendente bonitinha da loja de fantasia?)"
 
 # game/v3/scriptv3.rpy:1166
 translate portuguese conl_6405b247:
 
     # u "Hey, you were working in the costume shop yesterday, right?"
-    u ""
+    u "Ei, você trabalha na loja de fantasia, né?"
 
 # game/v3/scriptv3.rpy:1171
 translate portuguese conl_8370dc32:
 
     # ev "Yeah, and you're the kid that still calls it a costume shop even though I thoroughly explained that it's just a regular clothing shop now."
-    ev ""
+    ev "Sim. E você é o menino que ainda chama de loja de fantasia mesmo depois de eu explicar que é uma loja de roupas normais agora."
 
 # game/v3/scriptv3.rpy:1176
 translate portuguese conl_f1c513ec:
 
     # u "Look, I think you're quite cute and my friend thinks I chicken out when it comes to girls..."
-    u ""
+    u "Ó, eu te acho bem bonita e meu amigo acha que eu amarelo muito quando se trata de garotas..."
 
 # game/v3/scriptv3.rpy:1178
 translate portuguese conl_9b88e00e:
 
     # u "Is there any chance I could get your number?"
-    u ""
+    u "Existe alguma chance de você me dar seu número?"
 
 # game/v3/scriptv3.rpy:1183
 translate portuguese conl_4251955d:
 
     # ev "I'm very flattered, but I'm 25 and you seem a bit too young for me."
-    ev ""
+    ev "Me sinto lisonjeada, mas eu tenho 25 e você parece muito novo pra mim."
 
 # game/v3/scriptv3.rpy:1188
 translate portuguese conl_c7a9cc52:
 
     # u "Give me one date to change your mind."
-    u ""
+    u "Me dá uma chance pra mudar sua opinião."
 
 # game/v3/scriptv3.rpy:1190
 translate portuguese conl_76b147b2:
 
     # u "Come on, it'll be fun."
-    u ""
+    u "Vamo lá, vai ser divertido."
 
 # game/v3/scriptv3.rpy:1195
 translate portuguese conl_b70f8686:
 
     # ev "Give me one good reason to give you a chance."
-    ev ""
+    ev "Me dá um bom motivo pra te dar essa chance."
 
 # game/v3/scriptv3.rpy:1204
 translate portuguese conl_ab03e551:
 
     # u "Look, I don't know and you don't know me. I'm [name] and I'm just looking for someone to have a good time with."
-    u ""
+    u "Eu não te conheço, você não me conhece... Eu sou sou o [name] e eu só tô procurando alguém com quem me divertir."
 
 # game/v3/scriptv3.rpy:1206
 translate portuguese conl_89d9b46a:
 
     # u "It's not gonna be the most exciting night of your life, and it's not gonna be a boring night at home playing jenga with the girls."
-    u ""
+    u "Não vai ser a noite mais empolgante da sua vida, mas não vai ser uma noite chata em casa, jogando Jenga com as garotas."
 
 # game/v3/scriptv3.rpy:1208
 translate portuguese conl_3fcd6793:
 
     # u "What this night will do, is serve as a benchmark for future dates with me."
-    u ""
+    u "Vai ser uma noite de amostra para seus próximos encontros comigo."
 
 # game/v3/scriptv3.rpy:1210
 translate portuguese conl_6c6f5a99:
 
     # u "What do you say?"
-    u ""
+    u "O que me diz?"
 
 # game/v3/scriptv3.rpy:1215
 translate portuguese conl_ecad669a:
 
     # ev "Damn, that was convincing. Okay, I'm in."
-    ev ""
+    ev "Você me convenceu. Tá bem, eu topo."
 
 # game/v3/scriptv3.rpy:1217
 translate portuguese conl_c9c5027b:
 
     # ev "I'll give you my number, but you better bring your A-game."
-    ev ""
+    ev "Vou te dar o meu número, mas é bom que você dê o melhor de si."
 
 # game/v3/scriptv3.rpy:1222
 translate portuguese conl_d39593f1:
 
     # u "Don't worry, you won't be disappointed."
-    u ""
+    u "Não se preocupa, você não vai se arrepender."
 
 # game/v3/scriptv3.rpy:1227
 translate portuguese conl_a5a91d71:
 
     # ev "Well, I'm looking forward to it."
-    ev ""
+    ev "Bem, eu espero"
 
 # game/v3/scriptv3.rpy:1232
 translate portuguese conl_93dfeeeb:
 
     # u "Great, I'll let you know."
-    u ""
+    u "Certo, eu falo contigo."
 
 # game/v3/scriptv3.rpy:1237
 translate portuguese conl_a13f14ef:
 
     # u "(I'm getting really good at this flirting thing...)"
-    u ""
+    u "(Eu tô ficando realmente bom nas cantadas...)"
 
 # game/v3/scriptv3.rpy:1245
 translate portuguese conl_f557a3ac:
 
     # u "How about I'll wear the costume I bought yesterday for our entire date?"
-    u ""
+    u "Que tal eu usar a fantasia que acabei de comprar durante todo o encontro?"
 
 # game/v3/scriptv3.rpy:1250
 translate portuguese conl_ca334630:
 
     # ev "Look, it's very cute that you'd do that for me, but I just don't think we'd be a great fit."
-    ev ""
+    ev "Olha, é bem fofo que você faria isso por mim, mas eu não acho que nós sejamos parecidos."
 
 # game/v3/scriptv3.rpy:1252
 translate portuguese conl_291f9cbd:
 
     # ev "I'm sure you'll find someone else."
-    ev ""
+    ev "Tenho certeza que você vai achar outra pessoa."
 
 # game/v3/scriptv3.rpy:1257
 translate portuguese conl_9f0efd63:
 
     # u "Oh okay... I guess I'll see you around."
-    u ""
+    u "Ah, tá bem... Te vejo por aí então."
 
 # game/v3/scriptv3.rpy:1262
 translate portuguese conl_5c75aca5:
 
     # u "(Damn, that didn't go as planned...)"
-    u ""
+    u "(Merda, que bola fora...)"
 
 # game/v3/scriptv3.rpy:1270
 translate portuguese conl_c5cbcb80:
 
     # imre "Okayyy, let's do it."
-    imre ""
+    imre "Okaaaay, vamos lá."
 
 # game/v3/scriptv3.rpy:1275
 translate portuguese conl_4ec90385:
 
     # imre "Low-kicks target the legs and weaken the opponent's stance."
-    imre ""
+    imre "Chutes baixos miram as pernas e enfraquecem a base do oponente."
 
 # game/v3/scriptv3.rpy:1277
 translate portuguese conl_cfd6282e:
 
     # imre "Jabs target the face and keep distance."
-    imre ""
+    imre "Jabs miram o rosto e mantém a distância."
 
 # game/v3/scriptv3.rpy:1279
 translate portuguese conl_a800b118:
 
     # imre "And hooks target the head and serve as hard hits that can knock out your opponent."
-    imre ""
+    imre "E ganchos miram o queixo e servem pra derrubar seu oponente."
 
 # game/v3/scriptv3.rpy:1284
 translate portuguese conl_c2eb341d:
 
     # imre "But what's missing?"
-    imre ""
+    imre "Mas o que tá faltando?"
 
 # game/v3/scriptv3.rpy:1289
 translate portuguese conl_ccfdd94e:
 
     # u "Enough human decency so fighting becomes an unnecessary relic of the past?"
-    u ""
+    u "Decência humana pra que lutas virem uma relíquia desnecessária do passado?"
 
 # game/v3/scriptv3.rpy:1294
 translate portuguese conl_14275025:
 
     # imre "No, body shots. "
-    imre ""
+    imre "Não. Golpes no corpo."
 
 # game/v3/scriptv3.rpy:1296
 translate portuguese conl_8b5c7e8a:
 
     # imre "Hitting your opponent's body will leave them out of breath and in pain."
-    imre ""
+    imre "Acertar o tronco do seu oponente vai fazer ele perder o fôlego e sentir dor."
 
 # game/v3/scriptv3.rpy:1298
 translate portuguese conl_2030526a:
 
     # imre "Perfect to get rid of a strong guard or a fast moving opponent."
-    imre ""
+    imre "Perfeito pra se livrar se um oponente grande ou muito rápido."
 
 # game/v3/scriptv3.rpy:1303
 translate portuguese conl_bfbe325a:
 
     # u "Alright. Show me how."
-    u ""
+    u "Beleza, me mostra como fazer."
 
 # game/v3/scriptv3.rpy:1308
 translate portuguese conl_824e72d3:
 
     # imre "It's quite simple. Whenever your opponent leaves his torso open you simply use your left arm to throw a body hook."
-    imre ""
+    imre "É bem simples. Sempre que seu oponente deixar o peito livre, você usa o braço esquerdo pra acertar seu corpo."
 
 # game/v3/scriptv3.rpy:1320
 translate portuguese conl_1f9bfc77:
 
     # imre "You wanna try?"
-    imre ""
+    imre "Quer tentar?"
 
 # game/v3/scriptv3.rpy:1325
 translate portuguese conl_37fe551f:
 
     # u "Sure."
-    u ""
+    u "Claro."
 
 # game/v3/scriptv3.rpy:1337
 translate portuguese conl_94fbb147:
 
     # imre "Great job! Try it again."
-    imre ""
+    imre "Ótimo! De novo."
 
 # game/v3/scriptv3.rpy:1358
 translate portuguese popup5_d3003fe6:
 
     # u "That was actually really fun, thanks, Imre."
-    u ""
+    u "Até que foi divertido. Valeu, Imre."
 
 # game/v3/scriptv3.rpy:1363
 translate portuguese popup5_37246246:
 
     # imre "Yeah, no worries. Let me know if you wanna come with me next time as well."
-    imre ""
+    imre "Tranquilo. Me avisa se quiser vir comigo de novo na próxima."
 
 # game/v3/scriptv3.rpy:1368
 translate portuguese popup5_e613cabf:
 
     # u "Yeah, I think I will."
-    u ""
+    u "Beleza, acho que vou."
 
 # game/v3/scriptv3.rpy:1392
 translate portuguese repeatk_58d01580:
 
     # u "(I should probably check my phone.)"
-    u ""
+    u "(Eu deveria checar meu celular.)"
 
 # game/v3/scriptv3.rpy:1395
 translate portuguese repeatk_54591f14:
 
     # u "Sorry Imre, something came up. You're gonna have to go back by yourself, I gotta go."
-    u ""
+    u "Desculpa, Imre, surgiu uma coisa. Vai ter que voltar sozinho, tenho que ir."
 
 # game/v3/scriptv3.rpy:1400
 translate portuguese repeatk_7efdfdd7:
 
     # imre "A booty call this early in the day? Respect, my man."
-    imre ""
+    imre "Uma rapidinha cedo assim? Meu respeito, cara."
 
 # game/v3/scriptv3.rpy:1405
 translate portuguese repeatk_8321eaa9:
 
     # u "Imre, not everything is about sex, haha. I'll see you later."
-    u ""
+    u "Mano, nem tudo é sobre sexo, haha. Te vejo mais tarde."
 
 # game/v3/scriptv3.rpy:1410
 translate portuguese repeatk_ecfbdaa5:
 
     # imre "I'll see you, player."
-    imre ""
+    imre "Beleza, pegador."
 
 # game/v3/scriptv3.rpy:1417
 translate portuguese repeatk_30ce2936:
 
     # u "(Okay, let's see. Which one's her room?)"
-    u ""
+    u "(Okay, vamos ver. Qual o quarto dela?)"
 
 # game/v3/scriptv3.rpy:1421
 translate portuguese repeatk_86e8b466:
 
     # u "(Oh no, the only open window is on the second floor.)"
-    u ""
+    u "(Merda, a única janela aberta é no andar de cima.)"
 
 # game/v3/scriptv3.rpy:1423
 translate portuguese repeatk_db8b6560:
 
     # u "(Yeah, why would she want to mention that anyway...)"
-    u ""
+    u "(É, pra quê ela iria querer me avisar...)"
 
 # game/v3/scriptv3.rpy:1456
 translate portuguese repeatk_106dda54:
 
     # au "Did anyone see you?"
-    au ""
+    au "Alguém te viu?"
 
 # game/v3/scriptv3.rpy:1461
 translate portuguese repeatk_3b497a54:
 
     # u "I don't think so."
-    u ""
+    u "Acho que não."
 
 # game/v3/scriptv3.rpy:1463
 translate portuguese repeatk_aea0aa63:
 
     # u "You know, you could've really mentioned that your room is on the second floor."
-    u ""
+    u "Você poderia ter avisado que seu quarto é no primeiro andar, né?"
 
 # game/v3/scriptv3.rpy:1468
 translate portuguese repeatk_2cd894bf:
 
     # au "Look, when you peeked on me and lied about it, I felt like you broke my trust."
-    au ""
+    au "Olha, quando você me espiou e mentiu sobre isso, senti que você quebrou minha confiança."
 
 # game/v3/scriptv3.rpy:1473
 translate portuguese repeatk_dd3ef603:
 
     # au "But, I haven't told anyone about it."
-    au ""
+    au "Mas eu não contei a ninguém sobre isso."
 
 # game/v3/scriptv3.rpy:1475
 translate portuguese repeatk_0d9828c0:
 
     # au "Instead, I've watched a bunch of sitcoms and found a way for us to move past this."
-    au ""
+    au "Ao invés disso, eu assisti um monte de sitcoms e descobri um jeito da gente resolver isso."
 
 # game/v3/scriptv3.rpy:1480
 translate portuguese repeatk_2b215749:
 
     # u "Yeah, anything. I'm just really sorry it happened. I shouldn't have-"
-    u ""
+    u "Qualquer coisa. Sinto muito que isso aconteceu. Eu não devia-"
 
 # game/v3/scriptv3.rpy:1485
 translate portuguese repeatk_aadbe3cf:
 
     # au "We need to get even."
-    au ""
+    au "A gente precisa ficar quites."
 
 # game/v3/scriptv3.rpy:1490
 translate portuguese repeatk_0e9e5ef3:
 
     # u "Get even?"
-    u ""
+    u "Ficar quites?"
 
 # game/v3/scriptv3.rpy:1495
 translate portuguese repeatk_e91f4cda:
 
     # au "Yeah, level the playing field. Make it fair."
-    au ""
+    au "É, igualar o terreno. Deixar isso justo."
 
 # game/v3/scriptv3.rpy:1500
 translate portuguese repeatk_94ab7d51:
 
     # u "Like... you get to peek on me changing?"
-    u ""
+    u "Tipo... você me espiar trocando de roupa?"
 
 # game/v3/scriptv3.rpy:1505
 translate portuguese repeatk_9784a35e:
 
     # au "Or..."
-    au ""
+    au "Ou..."
 
 # game/v3/scriptv3.rpy:1506
 translate portuguese repeatk_70642a53:
 
     # au "You could just take your clothes off right now."
-    au ""
+    au "Você pode simplesmente tirar suas roupas agora."
 
 # game/v3/scriptv3.rpy:1511
 translate portuguese repeatk_bda4caba:
 
     # u "Are you serious?"
-    u ""
+    u "Você tá falando sério?"
 
 # game/v3/scriptv3.rpy:1516
 translate portuguese repeatk_5354bd03:
 
     # au "You said you'd do anything to make it right."
-    au ""
+    au "Você disse que faria qualquer coisa pra consertar isso."
 
 # game/v3/scriptv3.rpy:1526
 translate portuguese repeatk_8b1510d3:
 
     # u "You want me to take my clothes off? Fine, I'll do it."
-    u ""
+    u "Você quer que eu tire a roupa? Beleza, eu tiro."
 
 # game/v3/scriptv3.rpy:1531
 translate portuguese repeatk_87e6a6c0:
 
     # au "Good! Do it."
-    au ""
+    au "Isso!"
 
 # game/v3/scriptv3.rpy:1544
 translate portuguese repeatk_a0e1fbf3:
 
     # u "I'm not gonna take my clothes off in front of you."
-    u ""
+    u "Eu não vou ficar pelado na sua frente."
 
 # game/v3/scriptv3.rpy:1549
 translate portuguese repeatk_230ada89:
 
     # au "I thought you cared about this friendship?!"
-    au ""
+    au "Pensei que você ligava pra nossa amizade?!"
 
 # game/v3/scriptv3.rpy:1554
 translate portuguese repeatk_7d97de90:
 
     # u "I do care!"
-    u ""
+    u "Eu ligo!"
 
 # game/v3/scriptv3.rpy:1559
 translate portuguese repeatk_81a00233:
 
     # u "You want me to take my clothes off to prove it?! Fine, I'll take them off."
-    u ""
+    u "Você quer que eu tire a roupa pra provar?! Beleza, eu tiro."
 
 # game/v3/scriptv3.rpy:1564
 translate portuguese repeatk_2c899df4:
 
     # au "Good! Fucking do it!"
-    au ""
+    au "Ótimo! Tira logo!"
 
 # game/v3/scriptv3.rpy:1580
 translate portuguese talkedout_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v3/scriptv3.rpy:1585
 translate portuguese repeatl_58d01580:
 
     # u "(I should probably check my phone.)"
-    u ""
+    u "(Eu deveria checar meu celular.)"
 
 # game/v3/scriptv3.rpy:1588
 translate portuguese repeatl_54591f14:
 
     # u "Sorry Imre, something came up. You're gonna have to go back by yourself, I gotta go."
-    u ""
+    u "Desculpa, Imre, surgiu uma coisa. Vai ter que voltar sozinho, tenho que ir."
 
 # game/v3/scriptv3.rpy:1593
 translate portuguese repeatl_7efdfdd7:
 
     # imre "A booty call this early in the day? Respect, my man."
-    imre ""
+    imre "Uma rapidinha cedo assim? Meu respeito, cara."
 
 # game/v3/scriptv3.rpy:1598
 translate portuguese repeatl_8321eaa9:
 
     # u "Imre, not everything is about sex, haha. I'll see you later."
-    u ""
+    u "Mano, nem tudo é sobre sexo, haha. Te vejo mais tarde."
 
 # game/v3/scriptv3.rpy:1603
 translate portuguese repeatl_ecfbdaa5:
 
     # imre "I'll see you, player."
-    imre ""
+    imre "Beleza, pegador."
 
 # game/v3/scriptv3.rpy:1610
 translate portuguese repeatl_30ce2936:
 
     # u "(Okay, let's see. Which one's her room?)"
-    u ""
+    u "(Okay, vamos ver. Qual o quarto dela?)"
 
 # game/v3/scriptv3.rpy:1614
 translate portuguese repeatl_86e8b466:
 
     # u "(Oh no, the only open window is on the second floor.)"
-    u ""
+    u "(Merda, a única janela aberta é no andar de cima.)"
+
 
 # game/v3/scriptv3.rpy:1616
 translate portuguese repeatl_db8b6560:
 
     # u "(Yeah, why would she want to mention that anyway...)"
-    u ""
+    u "(É, pra quê ela iria querer me avisar...)"
 
 # game/v3/scriptv3.rpy:1649
 translate portuguese repeatl_55a95405:
 
     # au "[name], you made it!"
-    au ""
+    au "[name], você veio!"
 
 # game/v3/scriptv3.rpy:1654
 translate portuguese repeatl_fae61de3:
 
     # u "Hey, so what do you need my help for?"
-    u ""
+    u "Então, cê me chamou por quê?"
 
 # game/v3/scriptv3.rpy:1659
 translate portuguese repeatl_507bc9b2:
 
     # au "I'm really bored... you wanna do something?"
-    au ""
+    au "Eu tava no tédio... quer fazer alguma coisa?"
 
 # game/v3/scriptv3.rpy:1664
 translate portuguese repeatl_aac28a13:
 
     # u "What? I came here as fast as I could 'cause you're bored??"
-    u ""
+    u "Quê? Eu vim correndo o mais rápido que pude porque você tá no tédio??"
 
 # game/v3/scriptv3.rpy:1669
 translate portuguese repeatl_053f533f:
 
     # au "Oh, like it's so bad spending time with me."
-    au ""
+    au "Nossa, como se fosse tão ruim assim passar o tempo comigo?"
 
 # game/v3/scriptv3.rpy:1674
 translate portuguese repeatl_53fbe7cb:
 
     # u "That's not what I-"
-    u ""
+    u "Não foi o que eu-"
 
 # game/v3/scriptv3.rpy:1676
 translate portuguese repeatl_62cd1dd8:
 
     # u "Doesn't matter, what do you wanna do?"
-    u ""
+    u "Não importa, o que você quer fazer?"
 
 # game/v3/scriptv3.rpy:1681
 translate portuguese repeatl_4418ebec:
 
     # au "Let's play truth or dare."
-    au ""
+    au "Vamos jogar verdade ou desafio."
 
 # game/v3/scriptv3.rpy:1686
 translate portuguese repeatl_f2d6081b:
 
     # u "Alright, you start."
-    u ""
+    u "Beleza, você começa."
 
 # game/v3/scriptv3.rpy:1691
 translate portuguese repeatl_7c3708ec:
 
     # au "Uhm... Truth."
-    au ""
+    au "Hmm... Verdade."
 
 # game/v3/scriptv3.rpy:1696
 translate portuguese repeatl_955adae1:
 
     # u "Have you ever kissed a girl?"
-    u ""
+    u "Você já beijou uma garota?"
 
 # game/v3/scriptv3.rpy:1701
 translate portuguese repeatl_c150af54:
 
     # au "Once, Chloe. But it was just a quick mouth on mouth, no tongue."
-    au ""
+    au "Só uma vez, a Chloe. Mas foi só um selinho, sem lingua."
 
 # game/v3/scriptv3.rpy:1703
 translate portuguese repeatl_a3e8b422:
 
     # au "Your turn."
-    au ""
+    au "Sua vez."
 
 # game/v3/scriptv3.rpy:1712
 translate portuguese repeatl_487f178d:
 
     # u "Truth."
-    u ""
+    u "Verdade."
 
 # game/v3/scriptv3.rpy:1717
 translate portuguese repeatl_98bccd23:
 
     # au "How many girls have you slept with?"
-    au ""
+    au "Com quantas garotas você já transou?"
 
 # game/v3/scriptv3.rpy:1722
 translate portuguese repeatl_83418a0c:
 
     # u "Two, both ex-girlfriends."
-    u ""
+    u "Duas, ambas ex-namoradas."
 
 # game/v3/scriptv3.rpy:1727
 translate portuguese repeatl_ab000558:
 
     # au "One of them's Emily, right?"
-    au ""
+    au "Uma delas é a Emily, certo?"
 
 # game/v3/scriptv3.rpy:1729
 translate portuguese repeatl_445cb3eb:
 
     # au "Nora told me about her, she seems nice."
-    au ""
+    au "Nora me falou sobre ela. Ela parece legal."
 
 # game/v3/scriptv3.rpy:1734
 translate portuguese repeatl_1994958c:
 
     # u "Yeah, right... It's your turn."
-    u ""
+    u "É... Sua vez."
 
 # game/v3/scriptv3.rpy:1739
 translate portuguese repeatl_aec10110:
 
     # au "Give me a dare."
-    au ""
+    au "Me dá um desafio."
 
 # game/v3/scriptv3.rpy:1744
 translate portuguese repeatl_10a29175:
 
     # u "Touch both your elbows in front of your chest."
-    u ""
+    u "Dúvido você tocar seus cotovelos um no outro."
 
 # game/v3/scriptv3.rpy:1749
 translate portuguese repeatl_fcca8881:
 
     # au "Like this?"
-    au ""
+    au "Assim?"
 
 # game/v3/scriptv3.rpy:1754
 translate portuguese repeatl_fc79c0ea:
 
     # au "Oh, I see. Very funny."
-    au ""
+    au "Ah, entendi. Muito engraçado."
 
 # game/v3/scriptv3.rpy:1759
 translate portuguese repeatl_0e63a56c:
 
     # u "Haha, I thought you did great."
-    u ""
+    u "Haha, achei que você foi ótima."
 
 # game/v3/scriptv3.rpy:1764
 translate portuguese repeatl_34a44d49:
 
     # au "Okay, now it's your turn again."
-    au ""
+    au "Okay, é a sua vez."
 
 # game/v3/scriptv3.rpy:1774
 translate portuguese repeatl_099d42fd:
 
     # u "Dare me."
-    u ""
+    u "Me dá um desafio."
 
 # game/v3/scriptv3.rpy:1779
 translate portuguese repeatl_d50fee28:
 
     # au "Uhm... okay. Take your pants off."
-    au ""
+    au "Hm... okay. Tira suas calças."
 
 # game/v3/scriptv3.rpy:1784
 translate portuguese repeatl_64f86a80:
 
     # u "What?? I'm not gonna take my pants off."
-    u ""
+    u "Quê?? Eu não vou tirar minhas calças."
 
 # game/v3/scriptv3.rpy:1786
 translate portuguese repeatl_3bc6d184:
 
     # u "You gotta give me something I can actually do."
-    u ""
+    u "Você tem me dar algo que eu realmente possa fazer."
 
 # game/v3/scriptv3.rpy:1791
 translate portuguese repeatl_3c58d281:
 
     # au "I did! It's totally doable."
-    au ""
+    au "Eu dei! É totalmente aceitável."
 
 # game/v3/scriptv3.rpy:1796
 translate portuguese repeatl_4c7c9292:
 
     # u "I can't just-"
-    u ""
+    u "Eu não posso simpl-"
 
 # game/v3/scriptv3.rpy:1801
 translate portuguese repeatl_be7bafd9:
 
     # au "Yeah, you can. See?"
-    au ""
+    au "Pode sim, viu?"
 
 # game/v3/scriptv3.rpy:1816
 translate portuguese repeatl_f4ea2660:
 
     # u "Did you just?"
-    u ""
+    u "Você acabou de?"
 
 # game/v3/scriptv3.rpy:1821
 translate portuguese repeatl_85eeb4bf:
 
     # au "Yeah..."
-    au ""
+    au "Sim..."
 
 # game/v3/scriptv3.rpy:1835
 translate portuguese repeatm_58d01580:
 
     # u "(I should probably check my phone.)"
-    u ""
+    u "(Eu deveria checar meu celular.)"
 
 # game/v3/scriptv3.rpy:1838
 translate portuguese repeatm_54591f14:
 
     # u "Sorry Imre, something came up. You're gonna have to go back by yourself, I gotta go."
-    u ""
+    u "Desculpa, Imre, surgiu uma coisa. Vai ter que voltar sozinho, tenho que ir."
 
 # game/v3/scriptv3.rpy:1843
 translate portuguese repeatm_7efdfdd7:
 
     # imre "A booty call this early in the day? Respect, my man."
-    imre ""
+    imre "Uma rapidinha cedo assim? Meu respeito, cara."
 
 # game/v3/scriptv3.rpy:1848
 translate portuguese repeatm_8321eaa9:
 
     # u "Imre, not everything is about sex, haha. I'll see you later."
-    u ""
+    u "Mano, nem tudo é sobre sexo, haha. Te vejo mais tarde."
 
 # game/v3/scriptv3.rpy:1853
 translate portuguese repeatm_ecfbdaa5:
 
     # imre "I'll see you, player."
-    imre ""
+    imre  "Beleza, pegador."
 
 # game/v3/scriptv3.rpy:1860
 translate portuguese repeatm_30ce2936:
 
     # u "(Okay, let's see. Which one's her room?)"
-    u ""
+    u "(Okay, vamos ver. Qual o quarto dela?)"
 
 # game/v3/scriptv3.rpy:1864
 translate portuguese repeatm_86e8b466:
 
     # u "(Oh no, the only open window is on the second floor.)"
-    u ""
+    u "(Merda, a única janela aberta é no andar de cima.)"
 
 # game/v3/scriptv3.rpy:1866
 translate portuguese repeatm_db8b6560:
 
     # u "(Yeah, why would she want to mention that anyway...)"
-    u ""
+    u "(É, pra quê ela iria querer me avisar...)"
 
 # game/v3/scriptv3.rpy:1899
 translate portuguese repeatm_2e912185:
 
     # au "[name], you made it."
-    au ""
+    au "[name], você veio!"
 
 # game/v3/scriptv3.rpy:1904
 translate portuguese repeatm_5a66d6a7:
 
     # u "Yeah, I did. So, how can I make it up to you?"
-    u ""
+    u "Sim, foi. Como eu posso te compensar?"
 
 # game/v3/scriptv3.rpy:1909
 translate portuguese repeatm_507bc9b2:
 
     # au "I'm really bored... you wanna do something?"
-    au ""
+    au "Eu tô muito entediada. Quer fazer algo?"
 
 # game/v3/scriptv3.rpy:1914
 translate portuguese repeatm_0258c042:
 
     # u "Sure, what do you wanna do?"
-    u ""
+    u "Claro, o que cê quer fazer?"
 
 # game/v3/scriptv3.rpy:1919
 translate portuguese repeatm_4418ebec:
 
     # au "Let's play truth or dare."
-    au ""
+    au "Vamos jogar verdade ou desafio."
 
 # game/v3/scriptv3.rpy:1924
 translate portuguese repeatm_eac718ac:
 
     # u "Okay, you start."
-    u ""
+    u "Okay, você começa."
 
 # game/v3/scriptv3.rpy:1929
 translate portuguese repeatm_7c3708ec:
 
     # au "Uhm... Truth."
-    au ""
+    au "Hmm... Verdade."
 
 # game/v3/scriptv3.rpy:1934
 translate portuguese repeatm_955adae1:
 
     # u "Have you ever kissed a girl?"
-    u ""
+    u "Você já beijou uma garota?"
 
 # game/v3/scriptv3.rpy:1939
 translate portuguese repeatm_c150af54:
 
     # au "Once, Chloe. But it was just a quick mouth on mouth, no tongue."
-    au ""
+    au "Só uma vez, a Chloe. Mas foi só um selinho, sem lingua."
 
 # game/v3/scriptv3.rpy:1941
 translate portuguese repeatm_a3e8b422:
 
     # au "Your turn."
-    au ""
+    au "Sua vez."
 
 # game/v3/scriptv3.rpy:1950
 translate portuguese repeatm_487f178d:
 
     # u "Truth."
-    u ""
+    u "Verdade."
 
 # game/v3/scriptv3.rpy:1955
 translate portuguese repeatm_98bccd23:
 
     # au "How many girls have you slept with?"
-    au ""
+    au "Com quantas garotas você já transou?"
 
 # game/v3/scriptv3.rpy:1960
 translate portuguese repeatm_83418a0c:
 
     # u "Two, both ex-girlfriends."
-    u ""
+    u "Duas, ambas ex-namoradas."
 
 # game/v3/scriptv3.rpy:1965
 translate portuguese repeatm_ab000558:
 
     # au "One of them's Emily, right?"
-    au ""
+    au "Uma delas é a Emily, certo?"
 
 # game/v3/scriptv3.rpy:1967
 translate portuguese repeatm_445cb3eb:
 
     # au "Nora told me about her, she seems nice."
-    au ""
+    au "Nora me falou sobre ela. Ela parece legal."
 
 # game/v3/scriptv3.rpy:1972
 translate portuguese repeatm_1994958c:
 
     # u "Yeah, right... It's your turn."
-    u ""
+    u "É... Sua vez."
 
 # game/v3/scriptv3.rpy:1977
 translate portuguese repeatm_aec10110:
 
     # au "Give me a dare."
-    au ""
+    au "Me dá um desafio."
 
 # game/v3/scriptv3.rpy:1982
 translate portuguese repeatm_10a29175:
 
     # u "Touch both your elbows in front of your chest."
-    u ""
+    u "Dúvido você tocar seus cotovelos um no outro."
 
 # game/v3/scriptv3.rpy:1987
 translate portuguese repeatm_fcca8881:
 
     # au "Like this?"
-    au ""
+    au "Assim?"
 
 # game/v3/scriptv3.rpy:1992
 translate portuguese repeatm_fc79c0ea:
 
     # au "Oh, I see. Very funny."
-    au ""
+    au "Ah, entendi. Muito engraçado."
 
 # game/v3/scriptv3.rpy:1997
 translate portuguese repeatm_0e63a56c:
 
     # u "Haha, I thought you did great."
-    u ""
+    u "Haha, achei que você foi ótima."
 
 # game/v3/scriptv3.rpy:2002
 translate portuguese repeatm_34a44d49:
 
     # au "Okay, now it's your turn again."
-    au ""
+    au "Okay, é sua vez."
 
 # game/v3/scriptv3.rpy:2011
 translate portuguese repeatm_099d42fd:
 
     # u "Dare me."
-    u ""
+    u "Me dá um desafio."
 
 # game/v3/scriptv3.rpy:2016
 translate portuguese repeatm_d50fee28:
 
     # au "Uhm... okay. Take your pants off."
-    au ""
+    au "Hm... okay. Tira suas calças."
 
 # game/v3/scriptv3.rpy:2021
 translate portuguese repeatm_64f86a80:
 
     # u "What?? I'm not gonna take my pants off."
-    u ""
+    u "Quê?? Eu não vou tirar minhas calças."
 
 # game/v3/scriptv3.rpy:2023
 translate portuguese repeatm_3bc6d184:
 
     # u "You gotta give me something I can actually do."
-    u ""
+    u "Você tem me dar algo que eu realmente possa fazer."
 
 # game/v3/scriptv3.rpy:2028
 translate portuguese repeatm_3c58d281:
 
     # au "I did! It's totally doable."
-    au ""
+    au "Eu fiz! É totalmente aceitável."
 
 # game/v3/scriptv3.rpy:2033
 translate portuguese repeatm_4c7c9292:
 
     # u "I can't just-"
-    u ""
+    u "Eu não posso simpl-"
 
 # game/v3/scriptv3.rpy:2038
 translate portuguese repeatm_be7bafd9:
 
     # au "Yeah, you can. See?"
-    au ""
+    au "Pode sim, viu?"
 
 # game/v3/scriptv3.rpy:2053
 translate portuguese repeatm_f4ea2660:
 
     # u "Did you just?"
-    u ""
+    u "Você acabou de?"
 
 # game/v3/scriptv3.rpy:2058
 translate portuguese repeatm_85eeb4bf:
 
     # au "Yeah..."
-    au ""
+    au "Sim..."
 
 # game/v3/scriptv3.rpy:2075
 translate portuguese repeatm_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v3/scriptv3.rpy:2080
 translate portuguese repeatm_4381ffb1:
 
     # au "Is this such a good idea?"
-    au ""
+    au "Essa é uma boa ideia?"
 
 # game/v3/scriptv3.rpy:2085
 translate portuguese repeatm_aac33865:
 
     # u "What's the worst that could happen?"
-    u ""
+    u "O quê é o pior que pode acontecer?"
 
 # game/v3/scriptv3.rpy:2095
 translate portuguese repeatm_b887049b:
 
     # au "*Quiet moan* Ohhh okay... definitely a good idea."
-    au ""
+    au "*Gemido baixo* Ohhh, okay... é realmente uma boa ideia."
 
 # game/v3/scriptv3.rpy:2110
 translate portuguese repeatm_0529a669:
 
     # u "Wow..."
-    u ""
+    u "Uau..."
 
 # game/v3/scriptv3.rpy:2115
 translate portuguese repeatm_3da13d1c:
 
     # au "*Moans*"
-    au ""
+    au "*Geme*"
 
 # game/v3/scriptv3.rpy:2119
 translate portuguese repeatm_f413f9e1:
 
     # au "Oh, [name]!"
-    au ""
+    au "Nossa, [name]!"
 
 # game/v3/scriptv3.rpy:2121
 translate portuguese repeatm_deeeaee6:
 
     # au "Fuck..."
-    au ""
+    au "Caralho..."
 
 # game/v3/scriptv3.rpy:2136
 translate portuguese repeatm_ada85f0b:
 
     # au "Wait."
-    au ""
+    au "Espera."
 
 # game/v3/scriptv3.rpy:2141
 translate portuguese repeatm_fe6f48d8:
 
     # au "Now it's my turn."
-    au ""
+    au "Agora é a minha vez."
 
 # game/v3/scriptv3.rpy:2146
 translate portuguese repeatm_9ea2f78c_1:
 
     # " "
-    ""
+    " "
 
 # game/v3/scriptv3.rpy:2155
 translate portuguese repeatm_d1c5d4b5:
