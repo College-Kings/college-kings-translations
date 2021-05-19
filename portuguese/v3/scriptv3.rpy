@@ -4,997 +4,997 @@
 translate portuguese v3start_4f1997c1:
 
     # "*Knock knock knock*"
-    ""
+    "*Toc toc toc*"
 
 # game/v3/scriptv3.rpy:12
 translate portuguese v3start_fa90d2f1:
 
     # u "(Who could that be?)"
-    u ""
+    u "(Quem será que é?)"
 
 # game/v3/scriptv3.rpy:20
 translate portuguese v3start_c8fc4dc6:
 
     # u "Chloe? What are you doing here?"
-    u ""
+    u "Chloe? O que cê tá fazendo aqui?"
 
 # game/v3/scriptv3.rpy:25
 translate portuguese v3start_4ebd6072:
 
     # cl "Hey, uhm... Do you have a minute?"
-    cl ""
+    cl "Oi, uhm... você tem um minutinho?"
 
 # game/v3/scriptv3.rpy:30
 translate portuguese v3start_ed163feb:
 
     # u "Sure, come in."
-    u ""
+    u "Claro, entra aí."
 
 # game/v3/scriptv3.rpy:40
 translate portuguese v3start_17256923:
 
     # cl "How's your eye?"
-    cl ""
+    cl "Como tá seu olho?"
 
 # game/v3/scriptv3.rpy:45
 translate portuguese v3start_80c8f97f:
 
     # u "Uhm... not too bad. Thanks for asking."
-    u ""
+    u "Uhm... tá melhor. Obrigado por perguntar."
 
 # game/v3/scriptv3.rpy:50
 translate portuguese v3start_0c12dca7:
 
     # cl "Look, about yesterday..."
-    cl ""
+    cl "Olha, sobre ontem..."
 
 # game/v3/scriptv3.rpy:52
 translate portuguese v3start_924b5680:
 
     # cl "Me and Grayson had a thing, a looong time ago."
-    cl ""
+    cl "Eu e o Grayson tivemos um rolo, há muuuito tempo. "
 
 # game/v3/scriptv3.rpy:57
 translate portuguese v3start_68d063d6:
 
     # cl "But after a while, he started to lie and do shady shit and... you know, be the person he is. So I broke it off."
-    cl ""
+    cl "Mas depois de um tempo, ele começou a mentir e fazer umas coisas escrotas e... você sabe, ser ele mesmo. Daí eu terminei."
 
 # game/v3/scriptv3.rpy:59
 translate portuguese v3start_3f4cd669:
 
     # cl "And ever since, he's just been... I guess trying to get back at me?"
-    cl ""
+    cl "E, desde então, ele meio que... tenta se vingar de mim?"
 
 # game/v3/scriptv3.rpy:64
 translate portuguese v3start_a3326c2c:
 
     # cl "I don't know..."
-    cl ""
+    cl "Eu não sei..."
 
 # game/v3/scriptv3.rpy:69
 translate portuguese v3start_db66d353:
 
     # u "If you don't even like Grayson, why were you at his party?"
-    u ""
+    u "Se você nem gosta do Grayson, por que estava na festa dele?"
 
 # game/v3/scriptv3.rpy:74
 translate portuguese v3start_87f53c76:
 
     # cl "It's complicated."
-    cl ""
+    cl "É complicado."
 
 # game/v3/scriptv3.rpy:76
 translate portuguese v3start_3fc28f4c:
 
     # cl "Girls join the Chicks 'cause they wanna party and have fun."
-    cl ""
+    cl "Garotas entram pras Gatas porque querem festas e querem se divertir."
 
 # game/v3/scriptv3.rpy:78
 translate portuguese v3start_2d0a2d26:
 
     # cl "If I don't show up to Ape parties as the Chicks' president, I risk losing the relationships I've built and being voted out."
-    cl ""
+    cl "Se eu não aparecer nas festas dos Gorilas como a presidente das Gatas, eu posso perder as relações que construí e ser retirada do posto."
 
 # game/v3/scriptv3.rpy:83
 translate portuguese v3start_e60663e2:
 
     # u "It's just... we were having such a great night and then this kinda ruined it."
-    u ""
+    u "É que... a gente tava tendo uma noite ótima e isso meio que estragou tudo."
 
 # game/v3/scriptv3.rpy:88
 translate portuguese v3start_83907c29:
 
     # cl "I know and I'm so sorry."
-    cl ""
+    cl "Eu sei e me desculpa."
 
 # game/v3/scriptv3.rpy:93
 translate portuguese v3start_cbfdbaad:
 
     # cl "I have to go right now, but meet me at midnight behind the gym and I'll make it up to you."
-    cl ""
+    cl "Eu preciso ir agora, mas me encontre atrás do ginásio à meia-noite e vou te compensar."
 
 # game/v3/scriptv3.rpy:98
 translate portuguese v3start_e5b7dbdd:
 
     # u "What if I can't find you? Shouldn't you at least give me your number?"
-    u ""
+    u "E se eu não conseguir te encontrar? Cê não devia pelo menos me dar seu número?"
 
 # game/v3/scriptv3.rpy:103
 translate portuguese v3start_ed3c843a:
 
     # cl "Haha, I guess I'll have to... for safety reasons."
-    cl ""
+    cl "Haha, acho que eu tenho que dar... por questões de segurança."
 
 # game/v3/scriptv3.rpy:114
 translate portuguese v3start_912c9d4a:
 
     # cl "I'll see you at midnight. Don't be late."
-    cl ""
+    cl "Te vejo meia-noite então. Não se atrasa."
 
 # game/v3/scriptv3.rpy:130
 translate portuguese v3start_d9894fe0:
 
     # u "Imre, where have you been? There's no way the volleyball game went on for this long, did it?"
-    u ""
+    u "Imre, onde você tava? Eu duvido que o jogo foi tão longo assim..."
 
 # game/v3/scriptv3.rpy:135
 translate portuguese v3start_0a37f264:
 
     # imre "Hello, my friend. A gentleman never tells."
-    imre ""
+    imre "Olá, meu amigo. Um cavalheiro nunca revela suas intimidades."
 
 # game/v3/scriptv3.rpy:140
 translate portuguese v3start_f5c3c13a:
 
     # u "Wait, you were with a girl?"
-    u ""
+    u "Calma, você tava com uma garota?"
 
 # game/v3/scriptv3.rpy:145
 translate portuguese v3start_7e591237:
 
     # imre "Well... Not exactly, but I did manage to hide inside the girls' locker room."
-    imre ""
+    imre "Vom... não exatamente, mas eu consegui me esconder no vestiário das garotas."
 
 # game/v3/scriptv3.rpy:154
 translate portuguese v3start_058cc530:
 
     # u "Hahaha, man you're crazy."
-    u ""
+    u "Hahaha, mano você é doido."
 
 # game/v3/scriptv3.rpy:163
 translate portuguese v3start_1508a5ef:
 
     # u "Dude, that's not cool. You're invading their privacy."
-    u ""
+    u "Mano, isso não é legal. Cê tá invadindo a privacidade delas."
 
 # game/v3/scriptv3.rpy:168
 translate portuguese v3start_5fb83b2e:
 
     # imre "Yeah, turns out it wasn't a good idea at all. One of the girls had a mental breakdown and they consoled her for hours."
-    imre ""
+    imre "Pois é, acontece que não foi uma boa ideia. Uma das garotas deu piti e as outras a consolaram por horas."
 
 # game/v3/scriptv3.rpy:170
 translate portuguese v3start_8f3a69b5:
 
     # imre "At one point they called in two different guidance counselors and then those two didn't get along as well..."
-    imre ""
+    imre "Elas chegaram a chamar dois conselheiros diferentes e eles também não se entenderam..."
 
 # game/v3/scriptv3.rpy:172
 translate portuguese v3start_392470e3:
 
     # imre "It was just an insane mess and I was stuck hiding in a pile of old jerseys."
-    imre ""
+    imre "Foi tudo uma bagunça gigante e eu fiquei preso o tempo todo com uma pilha de uniformes antigos"
 
 # game/v3/scriptv3.rpy:177
 translate portuguese v3start_691b6f87:
 
     # u "Well, I hope you learned your lesson."
-    u ""
+    u "Bom, espero que tenha aprendido sua lição"
 
 # game/v3/scriptv3.rpy:182
 translate portuguese v3start_5de4b440:
 
     # imre "Of course, next time I'll bring snacks."
-    imre ""
+    imre "Claro, na próxima eu levo o que comer."
 
 # game/v3/scriptv3.rpy:187
 translate portuguese v3start_0dc1ceb7:
 
     # u "What? Not what I was-"
-    u ""
+    u "Quê? Não foi o que-"
 
 # game/v3/scriptv3.rpy:189
 translate portuguese v3start_5762d060:
 
     # u "You know what, good for you."
-    u ""
+    u "Quer saber? Bom pra você."
 
 # game/v3/scriptv3.rpy:194
 translate portuguese v3start_3c209707:
 
     # imre "So, how has your evening been?"
-    imre ""
+    imre "Mas e aí, como tá sua noite?"
 
 # game/v3/scriptv3.rpy:199
 translate portuguese v3start_6de04fd1:
 
     # u "Well, I met this really nice girl called Penelope. And apparently, she's in our history class."
-    u ""
+    u "Bom, conheci uma garota chamada Penelope. Aparentemente, ela tá na nossa aula de história."
 
 # game/v3/scriptv3.rpy:204
 translate portuguese v3start_3d04ec9b:
 
     # imre "Oh shit, is she hot?"
-    imre ""
+    imre "Opa, ela é gata?"
 
 # game/v3/scriptv3.rpy:213
 translate portuguese v3start_4385b13c:
 
     # u "Oh, hell yeah! She's super hot."
-    u ""
+    u "Ela é gata pra caralho!"
 
 # game/v3/scriptv3.rpy:218
 translate portuguese v3start_10343fa0:
 
     # imre "Well that's what I like to hear, go on."
-    imre ""
+    imre "É assim que eu gosto. Continue."
 
 # game/v3/scriptv3.rpy:224
 translate portuguese v3start_bc716318:
 
     # u "She's alright I guess."
-    u ""
+    u "Ah, ela é bonitinha."
 
 # game/v3/scriptv3.rpy:229
 translate portuguese v3start_fdf9fb83:
 
     # imre "Well that usually means she's better in bed 'cause she tries harder, go on."
-    imre ""
+    imre "Isso normalmente quer dizer que ela se esforça mais na cama."
 
 # game/v3/scriptv3.rpy:235
 translate portuguese v3start_87b58fc4:
 
     # u "Anyways, then I went costume shopping for Mr. Lee's class with Aubrey."
-    u ""
+    u "Enfim, eu fui comprar fantasias com a Aubrey, pra aula do Prof. Lee."
 
 # game/v3/scriptv3.rpy:240
 translate portuguese v3start_96691d7e:
 
     # u "And before you ask, yes, she's hot."
-    u ""
+    u "E antes que você pergunte, sim, ela é gata."
 
 # game/v3/scriptv3.rpy:246
 translate portuguese v3start_8d8a0dbf:
 
     # u "And then I might have gotten caught peeking on her while changing..."
-    u ""
+    u "E meio que fui pego espiando ela enquanto ela se trocava."
 
 # game/v3/scriptv3.rpy:252
 translate portuguese v3start_ea7785ad:
 
     # imre "So much for invasion of privacy, huh?"
-    imre ""
+    imre "O que aconteceu com invasão de privacidade?"
 
 # game/v3/scriptv3.rpy:261
 translate portuguese v3start_f45734b5:
 
     # imre "The key is not to get caught, son."
-    imre ""
+    imre "O segredo é não ser pego, meu jovem padawan."
 
 # game/v3/scriptv3.rpy:267
 translate portuguese v3start_7191ae26:
 
     # u "But then I got the cute shop clerk's number. So it turned out to be a blessing in disguise."
-    u ""
+    u "Mas aí eu consegui o número da atendente da loja. Então meio que foi algo ruim que deu bom."
 
 # game/v3/scriptv3.rpy:273
 translate portuguese v3start_2dcbee7a:
 
     # u "But now comes the good part..."
-    u ""
+    u "Mas agora vem a parte boa..."
 
 # game/v3/scriptv3.rpy:280
 translate portuguese v3start_b101656c:
 
     # imre "Nnnice."
-    imre ""
+    imre "Boooa."
 
 # game/v3/scriptv3.rpy:286
 translate portuguese v3start_85a0b042:
 
     # u "Anyways, then I went costume shopping for Mr. Lee's class with her."
-    u ""
+    u "Enfim, eu fui comprar minha fantasia pra aula do Prof. Lee com ela"
 
 # game/v3/scriptv3.rpy:289
 translate portuguese v3start_18db3b1d:
 
     # u "And we were having a great time..."
-    u ""
+    u "E a gente tava se divertindo..."
 
 # game/v3/scriptv3.rpy:294
 translate portuguese v3start_fbc85b48:
 
     # u "But... then I might have gotten caught peeking on her while changing."
-    u ""
+    u "Mas... eu meio que fui pego espiando ela enquanto ela se trocava."
 
 # game/v3/scriptv3.rpy:300
 translate portuguese v3start_ea7785ad_1:
 
     # imre "So much for invasion of privacy, huh?"
-    imre ""
+    imre "O que aconteceu com invasão de privacidade?"
 
 # game/v3/scriptv3.rpy:309
 translate portuguese v3start_f45734b5_1:
 
     # imre "The key is not to get caught, son."
-    imre ""
+    imre "O segredo é não ser pego, meu jovem padawan."
 
 # game/v3/scriptv3.rpy:315
 translate portuguese v3start_7191ae26_1:
 
     # u "But then I got the cute shop clerk's number. So it turned out to be a blessing in disguise."
-    u ""
+    u "Mas aí eu consegui o número da atendente da loja. Então meio que foi algo ruim que deu bom."
 
 # game/v3/scriptv3.rpy:321
 translate portuguese v3start_2dcbee7a_1:
 
     # u "But now comes the good part..."
-    u ""
+    u "Mas agora vem a parte boa..."
 
 # game/v3/scriptv3.rpy:325
 translate portuguese v3start_b81d033e:
 
     # u "And we had a great time."
-    u ""
+    u "E a gente se divertiu."
 
 # game/v3/scriptv3.rpy:330
 translate portuguese v3start_663655b8:
 
     # imre "That sounds great, man."
-    imre ""
+    imre "Parece ótimo, mano."
 
 # game/v3/scriptv3.rpy:335
 translate portuguese v3start_790e2e2e:
 
     # u "But that's not even the best part..."
-    u ""
+    u "Mas essa não é nem a melhor parte..."
 
 # game/v3/scriptv3.rpy:338
 translate portuguese conl_c25cb717:
 
     # u "I'm not sure if I told you, but when I got punched in the face at the party, I was actually talking to the most beautiful girl I've seen in... probably my entire life."
-    u ""
+    u "Não sei se te contei, mas quando levei aquele soco na cara, eu tava falando com a garota mais gata que eu já vi na minha vida."
 
 # game/v3/scriptv3.rpy:340
 translate portuguese conl_77f1b168:
 
     # u "And 30 minutes ago, she knocked on our door, told me to come meet her at midnight behind the gym and kissed me on the cheek before she left."
-    u ""
+    u "E, meia hora atrás, ela bateu aqui, disse pra encontrar ela atrás do ginásio à meia-noite e me deu um beijo na bochecha antes de sair."
 
 # game/v3/scriptv3.rpy:345
 translate portuguese conl_200fd70a:
 
     # imre "OH MY GOD! My boy is getting laid tonight! Behind the gym! That's amazing, man!"
-    imre ""
+    imre "MEU DEUS! Meu garoto vai transar hoje! Atrás do ginásio! Isso é incrível, mano!"
 
 # game/v3/scriptv3.rpy:350
 translate portuguese conl_4d0c5768:
 
     # u "Dude, calm down. I don't think she's like that, haha."
-    u ""
+    u "Calma lá, não acho que ela seja dessas, haha."
 
 # game/v3/scriptv3.rpy:355
 translate portuguese conl_66c7877e:
 
     # imre "Man, shut the fuck up. She so wants you!"
-    imre ""
+    imre "Irmão, cala a boca. Ela tá tão na sua cara!"
 
 # game/v3/scriptv3.rpy:370
 translate portuguese conl_a38f0071:
 
     # imre "My man's getting laid."
-    imre ""
+    imre "Meu irmão vai transar!"
 
 # game/v3/scriptv3.rpy:375
 translate portuguese conl_a38f0071_1:
 
     # imre "My man's getting laid."
-    imre ""
+    imre "Meu irmão vai transar!"
 
 # game/v3/scriptv3.rpy:380
 translate portuguese conl_fcc18885:
 
     # u "*Laughs*"
-    u ""
+    u "*Risos*"
 
 # game/v3/scriptv3.rpy:404
 translate portuguese conl_e50de037:
 
     # u "(Okay, it's 11:50 pm. Time to go to the gym to meet Chloe.)"
-    u ""
+    u "(Okay, já são 23:50. Tá na hora de encontrar a Chloe.)"
 
 # game/v3/scriptv3.rpy:406
 translate portuguese conl_113f6d70:
 
     # u "(I really hope she actually shows up.)"
-    u ""
+    u "(Espero que ela realmente apareça.)"
 
 # game/v3/scriptv3.rpy:414
 translate portuguese conl_2cb5af63:
 
     # u "(I guess I'm just gonna wait here.)"
-    u ""
+    u "(Acho que vou esperar aqui.)"
 
 # game/v3/scriptv3.rpy:419
 translate portuguese conl_91e28cc0:
 
     # u "(Oh, there she is)"
-    u ""
+    u "(Olha ela aí.)"
 
 # game/v3/scriptv3.rpy:424
 translate portuguese conl_445fa9ea:
 
     # cl "Hey! You came."
-    cl ""
+    cl "Ei! Você veio."
 
 # game/v3/scriptv3.rpy:429
 translate portuguese conl_5875fd36:
 
     # u "Of course! I wanted to see how you're gonna make it up to me, haha."
-    u ""
+    u "Claro! Queria saber como você vai me compensar, haha."
 
 # game/v3/scriptv3.rpy:434
 translate portuguese conl_91eee772:
 
     # cl "With this."
-    cl ""
+    cl "Com isso."
 
 # game/v3/scriptv3.rpy:439
 translate portuguese conl_3b6706e7:
 
     # u "A key? What's it for?"
-    u ""
+    u "Uma chave? Pra quê?"
 
 # game/v3/scriptv3.rpy:444
 translate portuguese conl_4ec2e3c0:
 
     # cl "Well, guess why I asked you to come to the gym."
-    cl ""
+    cl "Adivinha por que eu pedi pra você vir pro ginásio."
 
 # game/v3/scriptv3.rpy:449
 translate portuguese conl_04dd98a2:
 
     # u "How did you get a key for the gym?"
-    u ""
+    u "Como você conseguiu uma chave pro ginásio?"
 
 # game/v3/scriptv3.rpy:454
 translate portuguese conl_25baca34:
 
     # cl "Oh, I have my ways."
-    cl ""
+    cl "Ah, eu dou meus jeitinhos."
 
 # game/v3/scriptv3.rpy:456
 translate portuguese conl_d57a272c:
 
     # cl "Wanna break into the gym with me?"
-    cl ""
+    cl "Quer invadir o ginásio comigo?"
 
 # game/v3/scriptv3.rpy:461
 translate portuguese conl_0c018ac5:
 
     # u "I am so down."
-    u ""
+    u "Com certeza!"
 
 # game/v3/scriptv3.rpy:475
 translate portuguese conl_b2561454:
 
     # u "Woah, this is huge. But won't security see that the lights are on from outside?"
-    u ""
+    u "Uau, isso aqui é imenso. Mas a segurança não vai ver as luzes do lado de fora?"
 
 # game/v3/scriptv3.rpy:477
 translate portuguese conl_a066df0b:
 
     # cl "I mean possibly, but where's the fun without the chance of getting caught?"
-    cl ""
+    cl "É possivel, mas não ia ter graça se não tivesse chance da gente ser pego."
 
 # game/v3/scriptv3.rpy:479
 translate portuguese conl_5e38262e:
 
     # u "Fair enough."
-    u ""
+    u "Justo."
 
 # game/v3/scriptv3.rpy:484
 translate portuguese conl_cc7fbe03:
 
     # u "So... is this where you take every guy you meet?"
-    u ""
+    u "Então... você traz todo cara aqui?"
 
 # game/v3/scriptv3.rpy:489
 translate portuguese conl_2bf91de3:
 
     # cl "Believe it or not, this is actually the first time I've done this."
-    cl ""
+    cl "Acredite se quiser, mas na verdade é a primeira vez que faço isso."
 
 # game/v3/scriptv3.rpy:494
 translate portuguese conl_8539ae13:
 
     # u "Well now I feel honored."
-    u ""
+    u "Me sinto honrado."
 
 # game/v3/scriptv3.rpy:499
 translate portuguese conl_c239255d:
 
     # cl "As you should."
-    cl ""
+    cl "Deveria se sentir assim mesmo."
 
 # game/v3/scriptv3.rpy:503
 translate portuguese conl_29b4bec9:
 
     # u "(I wonder if she had more in mind when she said she wanted to make it up to me.)"
-    u ""
+    u "(Será que ela tinha algo a mais em mente quando falou de me compensar?)"
 
 # game/v3/scriptv3.rpy:512
 translate portuguese conl_550b0429:
 
     # u "So, is this the surprise? Breaking into the gym?"
-    u ""
+    u "Mas e então, a surpresa era essa? Invadir o ginásio?"
 
 # game/v3/scriptv3.rpy:517
 translate portuguese conl_3c052600:
 
     # cl "What, you don't like it?"
-    cl ""
+    cl "Ué, cê não gostou?"
 
 # game/v3/scriptv3.rpy:522
 translate portuguese conl_0717de8c:
 
     # u "No, I do. It's just... I never thought of breaking into the gym."
-    u ""
+    u "Não, eu gostei. É só que... eu nunca pensei em invadir um ginásio."
 
 # game/v3/scriptv3.rpy:527
 translate portuguese conl_5d26808e:
 
     # cl "Really? You never wanted to have the whole gym to yourself? To do whatever you want?"
-    cl ""
+    cl "Sério? Você nunca quis ter um ginásio inteiro pra você? Pra fazer o que quisesse?"
 
 # game/v3/scriptv3.rpy:532
 translate portuguese conl_b25ee3be:
 
     # u "I mean I can't say I have, but I'm starting to get the appeal."
-    u ""
+    u "Eu não posso dizer que já, mas tô começando a entender a ideia."
 
 # game/v3/scriptv3.rpy:537
 translate portuguese conl_a7dd3f3b:
 
     # cl "Haha, good."
-    cl ""
+    cl "Haha, ótimo."
 
 # game/v3/scriptv3.rpy:545
 translate portuguese conl_86792eeb:
 
     # cl "You know, I used to play volleyball in high school, you up for a challenge?"
-    cl ""
+    cl "Sabe, eu jogava vôlei na escola. Quer tentar a sorte?"
 
 # game/v3/scriptv3.rpy:550
 translate portuguese conl_213a59e4:
 
     # u "Bring it on."
-    u ""
+    u "So vem."
 
 # game/v3/scriptv3.rpy:625
 translate portuguese conl_ccb52080:
 
     # cl "Oh no, it was so close!"
-    cl ""
+    cl "Aahh, foi por pouco!"
 
 # game/v3/scriptv3.rpy:630
 translate portuguese conl_c8286472:
 
     # u "I'm sure you'll get me next time."
-    u ""
+    u "Certeza que você ganha de mim na próxima."
 
 # game/v3/scriptv3.rpy:646
 translate portuguese conl_c47518cf:
 
     # cl "Yaaay, I won!"
-    cl ""
+    cl "Isso, ganhei!"
 
 # game/v3/scriptv3.rpy:651
 translate portuguese conl_2abd3fc6:
 
     # u "Oh I'll get you next time."
-    u ""
+    u "Vou te destruir na próxima."
 
 # game/v3/scriptv3.rpy:661
 translate portuguese conl_f7a51d54:
 
     # cl "So there'll be a next time, huh?"
-    cl ""
+    cl "Então quer dizer que vai ter uma próxima?"
 
 # game/v3/scriptv3.rpy:676
 translate portuguese conl_e212e38e:
 
     # u "I certainly hope so."
-    u ""
+    u "Eu espero que sim."
 
 # game/v3/scriptv3.rpy:687
 translate portuguese conl_777d1d2b:
 
     # "*Metal Door Sound*"
-    ""
+    "*Som de porta de metal*"
 
 # game/v3/scriptv3.rpy:689
 translate portuguese conl_5308a73f:
 
     # sec "Hello? Is there anyone in here?"
-    sec ""
+    sec "Olá? Tem alguém aqui?"
 
 # game/v3/scriptv3.rpy:694
 translate portuguese conl_e21707ef:
 
     # cl "Shit! We need to hide, we're not allowed to be here."
-    cl ""
+    cl "Merda! A gente precisa se esconder!"
 
 # game/v3/scriptv3.rpy:706
 translate portuguese conl_e416f008:
 
     # sec "Anyone in here?"
-    sec ""
+    sec "Alguém aqui?"
 
 # game/v3/scriptv3.rpy:711
 translate portuguese conl_20003bad:
 
     # sec "I could have sworn I turned the lights off earlier."
-    sec ""
+    sec "Jurava que tinha desligado as luzes mais cedo."
 
 # game/v3/scriptv3.rpy:713
 translate portuguese conl_53e843eb:
 
     # sec "Hmmm..."
-    sec ""
+    sec "Hmmm..."
 
 # game/v3/scriptv3.rpy:723
 translate portuguese conl_09d06ab8:
 
     # "*Click*"
-    ""
+    "*Click*"
 
 # game/v3/scriptv3.rpy:728
 translate portuguese conl_46f3ea6c:
 
     # u "Wow, that was close."
-    u ""
+    u "Ufa, essa foi por pouco."
 
 # game/v3/scriptv3.rpy:735
 translate portuguese conl_300d327b:
 
     # cl "Yeah, we should probably get out of here."
-    cl ""
+    cl "Sim, a gente devia sair daqui."
 
 # game/v3/scriptv3.rpy:742
 translate portuguese conl_fc93144e:
 
     # cl "So, are we even now?"
-    cl ""
+    cl "Então, estamos quites agora?"
 
 # game/v3/scriptv3.rpy:747
 translate portuguese conl_f00b573d:
 
     # u "Yeah, we definitely are. We should do this again sometime."
-    u ""
+    u "Estamos, com certeza. A gente devia fazer isso de novo qualquer dia."
 
 # game/v3/scriptv3.rpy:749
 translate portuguese conl_2520a71c:
 
     # u "Well, maybe not exactly this."
-    u ""
+    u "Não exatamente isso, mas você entendeu."
 
 # game/v3/scriptv3.rpy:754
 translate portuguese conl_69597b38:
 
     # cl "*Laughs* Yeah."
-    cl ""
+    cl "*Risos* Sim."
 
 # game/v3/scriptv3.rpy:756
 translate portuguese conl_3c2c7442:
 
     # cl "I should probably go now, but you have my number."
-    cl ""
+    cl "Eu tenho que ir agora, mas você tem meu número."
 
 # game/v3/scriptv3.rpy:758
 translate portuguese conl_3ed7e322:
 
     # cl "Bye, [name]."
-    cl ""
+    cl "Tchau, [name]."
 
 # game/v3/scriptv3.rpy:763
 translate portuguese conl_6b69ffb3:
 
     # u "I'll see you, Chloe."
-    u ""
+    u "Até mais, Chloe."
 
 # game/v3/scriptv3.rpy:778
 translate portuguese conl_5172a633:
 
     # u "Hey, give that back to me."
-    u ""
+    u "Ei, me devolve isso."
 
 # game/v3/scriptv3.rpy:783
 translate portuguese conl_66f675f1:
 
     # em "You're gonna have to go and get it."
-    em ""
+    em "Você vai ter que vir pegar."
 
 # game/v3/scriptv3.rpy:788
 translate portuguese conl_a8ec3b98:
 
     # u "Oh, I'll get it."
-    u ""
+    u "Ah, eu vou."
 
 # game/v3/scriptv3.rpy:803
 translate portuguese conl_547b0820:
 
     # em "Uhm, I don't think that's what you wanted to grab."
-    em ""
+    em "É, não acho que era aí que você queria pegar."
 
 # game/v3/scriptv3.rpy:808
 translate portuguese conl_be1a657f:
 
     # u "Oh, I think it is."
-    u ""
+    u "Ah, eu acho que era."
 
 # game/v3/scriptv3.rpy:829
 translate portuguese conl_e209a35e:
 
     # "*Doorbell rings*"
-    ""
+    "*Campainha toca*"
 
 # game/v3/scriptv3.rpy:845
 translate portuguese conl_921a112c:
 
     # u "Emily? It's 2 am, what are you doing here? I thought you were at your friend's birthday party?"
-    u ""
+    u "Emily? São duas da manhã, o que você tá fazendo aqui? Pensei que você tava no aniversário de sua amiga."
 
 # game/v3/scriptv3.rpy:850
 translate portuguese conl_148d796e:
 
     # em "[name], I did something bad."
-    em ""
+    em "[name], eu fiz algo ruim."
 
 # game/v3/scriptv3.rpy:864
 translate portuguese conl_0dc0fc89:
 
     # u "How could you do this to me?!"
-    u ""
+    u "Como você pôde?!"
 
 # game/v3/scriptv3.rpy:869
 translate portuguese conl_343e787c:
 
     # em "I'm sorry! I was vulnerable, okay?! Please, I need you."
-    em ""
+    em "Me desculpa! Eu tava vulnerável, tá?! Por favor, eu preciso de você."
 
 # game/v3/scriptv3.rpy:876
 translate portuguese conl_a70c6f6d:
 
     # u "WHY DID YOU HAVE TO RUIN EVERYTHING?!"
-    u ""
+    u "VOCÊ VOCÊ TINHA QUE ACABAR COM TUDO?!"
 
 # game/v3/scriptv3.rpy:886
 translate portuguese conl_ba03aa18:
 
     # u "NO! This is wrong. Just get out! Leave me alone!"
-    u ""
+    u "Não! Isso é errado. Só vai embora! Me deixa em paz!"
 
 # game/v3/scriptv3.rpy:895
 translate portuguese conl_3fd3d76d:
 
     # u "*Breathing heavily*"
-    u ""
+    u "*Suspiro pesado*"
 
 # game/v3/scriptv3.rpy:909
 translate portuguese conl_7eeccac5:
 
     # imre "Wake up! It's time for training."
-    imre ""
+    imre "Acorda! Hora do treino."
 
 # game/v3/scriptv3.rpy:914
 translate portuguese conl_8b258704:
 
     # u "Huh?"
-    u ""
+    u "Quê?"
 
 # game/v3/scriptv3.rpy:919
 translate portuguese conl_e90ad591:
 
     # imre "You said you were gonna train with me."
-    imre ""
+    imre "Você disse que iria treinar comigo."
 
 # game/v3/scriptv3.rpy:921
 translate portuguese conl_acf34453:
 
     # imre "Remember? Yesterday? In class?"
-    imre ""
+    imre "Lembra? Ontem? Na aula?"
 
 # game/v3/scriptv3.rpy:926
 translate portuguese conl_d4fab85d:
 
     # u "Right, right. Uhm... give me 10 minutes okay?"
-    u ""
+    u "Tá bem, tá bem. Só... me dá 10 minutos, tá?"
 
 # game/v3/scriptv3.rpy:931
 translate portuguese conl_2f52e5ce:
 
     # u "So uh... where exactly are we going?"
-    u ""
+    u "Então... pra onde a gente tá indo?"
 
 # game/v3/scriptv3.rpy:936
 translate portuguese conl_086919fc:
 
     # imre "Sports X, it's the cheapest gym in the area and it has basic fighting equipment."
-    imre ""
+    imre "Sports X, é a academia mais barata da região mas tem umas coisinhas pra treinar luta."
 
 # game/v3/scriptv3.rpy:941
 translate portuguese conl_a4ef4c6e:
 
     # u "Oh, is that where the Wolves train as well?"
-    u ""
+    u "É onde os Lobos treinam também?"
 
 # game/v3/scriptv3.rpy:946
 translate portuguese conl_52d9d101:
 
     # imre "No, the Wolves have their own fighting gym in the basement. My brother helped build a lot of it."
-    imre ""
+    imre "Não, eles têm a própria academia de luta no porão deles. Meu irmão ajudou na maior parte da construção."
 
 # game/v3/scriptv3.rpy:951
 translate portuguese conl_3e5ce331:
 
     # u "Then why don't you train with them? Didn't you plan on doing that anyways?"
-    u ""
+    u "Então por que você não treina com eles? Cê já não planeja fazer isso de qualquer jeito?"
 
 # game/v3/scriptv3.rpy:956
 translate portuguese conl_6a03dbfb:
 
     # imre "You have to be a Wolf to train there. That's one of the reasons I can't wait to pledge, man."
-    imre ""
+    imre "Você precisa ser um Lobo pra treinar lá. É uma das razões pelas quais eu mal posso esperar pra me juntar, cara."
 
 # game/v3/scriptv3.rpy:961
 translate portuguese conl_22be2ff0:
 
     # imre "It really sucks 'cause the pledging period doesn't start 'til two weeks after the year has begun."
-    imre ""
+    imre "É um saco ter que esperar duas semanas desde o início do ano até as fraternidades começarem a aceitar calouros."
 
 # game/v3/scriptv3.rpy:966
 translate portuguese conl_14d4cf42:
 
     # u "Come on, that's like 10 more days."
-    u ""
+    u "Ah, qual é. São só mais 10 dias."
 
 # game/v3/scriptv3.rpy:971
 translate portuguese conl_29273a9f:
 
     # imre "Yeah, I guess..."
-    imre ""
+    imre "É, eu acho..."
 
 # game/v3/scriptv3.rpy:976
 translate portuguese conl_9fc74789:
 
     # imre "Hey there, my friend would like a trial pass."
-    imre ""
+    imre "Olá, meu amigo queria um período de teste."
 
 # game/v3/scriptv3.rpy:981
 translate portuguese conl_8440e24f:
 
     # li "Yeah, that's no problem. I just need an ID."
-    li ""
+    li "Sem problema. Eu só preciso de uma identidade."
 
 # game/v3/scriptv3.rpy:986
 translate portuguese conl_b2269c4f:
 
     # imre "So uh... girl, you single?"
-    imre ""
+    imre "Então... você é solteira?"
 
 # game/v3/scriptv3.rpy:991
 translate portuguese conl_ae8ad83e:
 
     # u "Smooth..."
-    u ""
+    u "Delicado..."
 
 # game/v3/scriptv3.rpy:996
 translate portuguese conl_838a2e5b:
 
     # li "Yes, I am."
-    li ""
+    li "Sim, eu sou."
 
 # game/v3/scriptv3.rpy:1001
 translate portuguese conl_3db94bd4:
 
     # imre "Do you wanna maybe... you know, hang out sometime?"
-    imre ""
+    imre "E você quer... sei lá, dar um rolê algum dia?"
 
 # game/v3/scriptv3.rpy:1006
 translate portuguese conl_498da520:
 
     # li "Hmmm... Do I wanna hang out with you?"
-    li ""
+    li "Hmmm... se eu quero sair com você?"
 
 # game/v3/scriptv3.rpy:1008
 translate portuguese conl_b1e887f4:
 
     # li "On one hand..."
-    li ""
+    li "Por um lado..."
 
 # game/v3/scriptv3.rpy:1009
 translate portuguese conl_4f793aa2:
 
     # li "You seem like a barely-legal-age wannabe jock that hits on any and every girl he sees, regardless of how appropriate or welcome it is."
-    li ""
+    li "Você parece um aspirante a atleta quase-de-menor que dá em cima de toda garota que vê, independente de ser apropriado ou não."
 
 # game/v3/scriptv3.rpy:1011
 translate portuguese conl_a72db001:
 
     # li "But on the other hand..."
-    li ""
+    li "Mas por outro lado..."
 
 # game/v3/scriptv3.rpy:1013
 translate portuguese conl_549cbcb0:
 
     # li "No, actually that's it."
-    li ""
+    li "Não, é só isso mesmo."
 
 # game/v3/scriptv3.rpy:1018
 translate portuguese conl_6a54ad46:
 
     # imre "So, that's a ye-"
-    imre ""
+    imre "Então isso é um si-"
 
 # game/v3/scriptv3.rpy:1023
 translate portuguese conl_460e63a3:
 
     # li "It's a no."
-    li ""
+    li "Não, isso é um não."
 
 # game/v3/scriptv3.rpy:1028
 translate portuguese conl_55cb65d0:
 
     # imre "You're missing out, girl."
-    imre ""
+    imre "Você não sabe o que tá perdendo."
 
 # game/v3/scriptv3.rpy:1033
 translate portuguese conl_5b5e6497:
 
     # u "It's interesting how you always find new ways to make women uncomfortable."
-    u ""
+    u "Interessante como você sempre acha um jeito diferente de deixar mulheres desconfortáveis."
 
 # game/v3/scriptv3.rpy:1038
 translate portuguese conl_dd7e7412:
 
     # imre "At least I try, man. Girls always expect you to make the first move."
-    imre ""
+    imre "Pelo menos eu tento. Elas sempre esperam que você que chegue nelas."
 
 # game/v3/scriptv3.rpy:1040
 translate portuguese conl_9c25b5e4:
 
     # imre "Think about how many girls you could have had if you didn't pussy out everytime."
-    imre ""
+    imre "Pensa na quantidade de minas que você poderia ter tido se não amarelasse direto."
 
 # game/v3/scriptv3.rpy:1045
 translate portuguese conl_76046c5e:
 
     # u "Hey! When have I ever pussied out?"
-    u ""
+    u "Ei! Quando foi que eu amarelei?"
 
 # game/v3/scriptv3.rpy:1050
 translate portuguese conl_6aaac884:
 
     # imre "You know what? Never mind, player."
-    imre ""
+    imre "Quer saber? Deixa pra lá, garotão."
 
 # game/v3/scriptv3.rpy:1054
 translate portuguese conl_88f06d34:
 
     # imre "Now, show me what you've got."
-    imre ""
+    imre "Agora, me mostra o que você sabe."
 
 # game/v3/scriptv3.rpy:1087
 translate portuguese conl_189777f9:
