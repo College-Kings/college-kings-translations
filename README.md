@@ -32,7 +32,7 @@ Progress | 10662/all | Who is working on it? | Proofreading
 -------- | -------- | --------- | ---------
 non script files | 2/2 | Krisp1k, PorneliusHubert | [X]
 scriptv1-v2.rpy | 2704/9515 | PorneliusHubert | [ ]
-scriptv3.rpy | 0/3639 | - | [ ]
+scriptv3.rpy | 0/3639 | Krisp1k | [ ]
 scriptv4.rpy | 5653/5653 | Krisp1k | [ ]
 scriptv5.rpy | 2305/2305 | Krisp1k | [ ]
 scriptv6.rpy | TBA | - | [ ]
