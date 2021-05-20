@@ -154,7 +154,7 @@ translate portuguese v3start_f5c3c13a:
 translate portuguese v3start_7e591237:
 
     # imre "Well... Not exactly, but I did manage to hide inside the girls' locker room."
-    imre "Vom... não exatamente, mas eu consegui me esconder no vestiário das garotas."
+    imre "Bom... não exatamente, mas eu consegui me esconder no vestiário das garotas."
 
 # game/v3/scriptv3.rpy:154
 translate portuguese v3start_058cc530:
@@ -172,7 +172,7 @@ translate portuguese v3start_1508a5ef:
 translate portuguese v3start_5fb83b2e:
 
     # imre "Yeah, turns out it wasn't a good idea at all. One of the girls had a mental breakdown and they consoled her for hours."
-    imre "Pois é, acontece que não foi uma boa ideia. Uma das garotas deu piti e as outras a consolaram por horas."
+    imre "Pois é, acontece que não foi uma boa ideia mesmo. Uma das garotas deu piti e as outras a consolaram por horas."
 
 # game/v3/scriptv3.rpy:170
 translate portuguese v3start_8f3a69b5:
@@ -274,7 +274,7 @@ translate portuguese v3start_8d8a0dbf:
 translate portuguese v3start_ea7785ad:
 
     # imre "So much for invasion of privacy, huh?"
-    imre "O que aconteceu com invasão de privacidade?"
+    imre "O que aconteceu com o sermão da invasão de privacidade?"
 
 # game/v3/scriptv3.rpy:261
 translate portuguese v3start_f45734b5:
@@ -322,7 +322,7 @@ translate portuguese v3start_fbc85b48:
 translate portuguese v3start_ea7785ad_1:
 
     # imre "So much for invasion of privacy, huh?"
-    imre "O que aconteceu com invasão de privacidade?"
+    imre "O que aconteceu com o sermão sobre a invasão de privacidade?"
 
 # game/v3/scriptv3.rpy:309
 translate portuguese v3start_f45734b5_1:
@@ -580,7 +580,7 @@ translate portuguese conl_86792eeb:
 translate portuguese conl_213a59e4:
 
     # u "Bring it on."
-    u "So vem."
+    u "Só vem."
 
 # game/v3/scriptv3.rpy:625
 translate portuguese conl_ccb52080:
@@ -1691,7 +1691,7 @@ translate portuguese repeatl_64f86a80:
 translate portuguese repeatl_3bc6d184:
 
     # u "You gotta give me something I can actually do."
-    u "Você tem me dar algo que eu realmente possa fazer."
+    u "Você tem que me dar algo que eu realmente possa fazer."
 
 # game/v3/scriptv3.rpy:1791
 translate portuguese repeatl_3c58d281:
@@ -2309,13 +2309,13 @@ translate portuguese acream_18b086e8:
 translate portuguese acream_1d39d760:
 
     # au "And I assume you're talking to other girls and might wanna keep this a secret."
-    au "E achei que você tivesse falando com outras garotas, então talvez quisesse manter isso em segredo."
+    au "Eu acho que você está falando com outras garotas e talvez queira manter isto em segredo."
 
 # game/v3/scriptv3.rpy:2394
 translate portuguese acream_b635c57f:
 
     # au "Plus... the secrecy kinda makes it hotter."
-    au "Isso e... o segredo torna tudo ainda melhor."
+    au "E além disso... o segredo torna tudo ainda melhor."
 
 # game/v3/scriptv3.rpy:2399
 translate portuguese acream_b0d99340:
@@ -2327,7 +2327,7 @@ translate portuguese acream_b0d99340:
 translate portuguese acream_7278e6f8:
 
     # u "(Damn... that was really thoughtful of her, but in a very weird way.)"
-    u "(Nossa... ela realmente pensou muito nisso, mas de um jeito estranho.)"
+    u "(Nossa... foi bem considerado vindo da parte dela, mas de um jeito estranho.)"
 
 # game/v3/scriptv3.rpy:2403
 translate portuguese acream_a0c07db3:
@@ -2375,7 +2375,7 @@ translate portuguese aubsexad_8cbfe3e7:
 translate portuguese aubsexad_6b40cde0:
 
     # u "Uhm, okay... What is it?"
-    u "É, okay... O que foi?"
+    u "É, tá... O que foi?"
 
 # game/v3/scriptv3.rpy:2465
 translate portuguese aubsexad_84ad4a94:
@@ -2507,19 +2507,19 @@ translate portuguese continueq_6775f4bb:
 translate portuguese continueq_90c13a46:
 
     # ju "I would pick you up and you could tell me all about your first week at college."
-    ju "Eu posso te buscar e você pode falar tudo sobre sua primeira semana na faculdade."
+    ju "Eu posso te buscar e você pode me contar sobre sua primeira semana na faculdade."
 
 # game/v3/scriptv3.rpy:2621
 translate portuguese continueq_21fdd5f0:
 
     # ju "And maybe we can buy you a nice new outfit for whatever girl you met?"
-    ju "E talvez a gente pode comprar uma roupa pra impressionar alguma garota que você tenha conhecido?"
+    ju "E talvez a gente possa comprar uma roupa pra impressionar alguma garota que você tenha conhecido?"
 
 # game/v3/scriptv3.rpy:2626
 translate portuguese continueq_4a9e9a82:
 
     # u "(Shit... if I meet her, she'll see my bruises and get really worried.)"
-    u  "(Merda... se eu encontrar com ela, ela vai se preocupar com o olho roxo.)"
+    u  "(Merda... se eu me encontrar com ela, ela vai se preocupar com o olho roxo.)"
 
 # game/v3/scriptv3.rpy:2633
 translate portuguese continueq_b2efe1e3:
@@ -2621,7 +2621,7 @@ translate portuguese continueq_c18c62f8:
 translate portuguese continueq_b721ba07:
 
     # ry "Plus there'll be some hotties in the park."
-    ry "Além das gostosas no parque."
+    ry "Além do mais vai tar cheio de gostosas no parque."
 
 # game/v3/scriptv3.rpy:2739
 translate portuguese continueq_d032c40e:
@@ -2723,7 +2723,7 @@ translate portuguese continueq_6cbfe69d:
 translate portuguese continueq_61b399c5:
 
     # ry "Riley, I don't think [name] wants to get back into it with Grayson."
-    ry "Riley, eu nãoa cho que o [name] quer se vingar do Grayson."
+    ry "Riley, eu não acho que o [name] quer se vingar do Grayson."
 
 # game/v3/scriptv3.rpy:2827
 translate portuguese continueq_b07e1694:
@@ -2777,13 +2777,13 @@ translate portuguese continueq_73c3fef7:
 translate portuguese continueq_b9c12db0:
 
     # u "You know, we'll get closer in the future."
-    u "Você sabe, a gente vai ser mais próximo no futuro."
+    u "Você sabe, nós estamos cada vez mais próximos."
 
 # game/v3/scriptv3.rpy:2868
 translate portuguese continueq_43633c2f:
 
     # ry "Look, I don't wanna be that guy. but..."
-    ry "Mano, eu não quero ser aquele cara, mas..."
+    ry "Mano, eu não quero ser o estraga-prazeres, mas..."
 
 # game/v3/scriptv3.rpy:2870
 translate portuguese continueq_c71ddc73:
@@ -2819,7 +2819,7 @@ translate portuguese continueq_6c9bbaad:
 translate portuguese continueq_3b18fc45:
 
     # ry "It was me! Chloe didn't give a fuck!"
-    ry "Fui eu, caralho! A Chloe não te deu a mínima!"
+    ry "Fui eu, caralho! A Chloe não deu a mínima!"
 
 # game/v3/scriptv3.rpy:2900
 translate portuguese continueq_36ae461d:
@@ -3017,7 +3017,7 @@ translate portuguese continueq_44ddc5df:
 translate portuguese continueq_ff3bb7de:
 
     # ri "Just a really great guy."
-    ri "Você é um bom cara."
+    ri "Você é um cara legal."
 
 # game/v3/scriptv3.rpy:3096
 translate portuguese continueq_d7cdc824:
@@ -3035,7 +3035,7 @@ translate portuguese continueq_f0d156c9:
 translate portuguese continueq_93c85a33:
 
     # u "Yeah, I think I need some space from Ryan."
-    u "Acho que sim. Preciso de um tempo dele."
+    u "Acho que sim. Preciso de um tempo pra esfriar a cabeça.."
 
 # game/v3/scriptv3.rpy:3111
 translate portuguese continueq_c4dee2d3:
@@ -3047,7 +3047,7 @@ translate portuguese continueq_c4dee2d3:
 translate portuguese continueq_b73f076e:
 
     # u "Yeah, I'll see you."
-    u "Tá bem, até!"
+    u "Tá, até!"
 
 # game/v3/scriptv3.rpy:3126
 translate portuguese continueq_74405208:
@@ -3167,7 +3167,7 @@ translate portuguese continueq_1fe04d68:
 translate portuguese continueq_e68b2f3e:
 
     # la "Right... Well great job on finding a loophole."
-    la "Certo... Trabalhou bem pra encontrar uma brecha."
+    la "Certo... Pensou bem pra encontrar uma brecha."
 
 # game/v3/scriptv3.rpy:3224
 translate portuguese continueq_bed4ef40:
@@ -3179,7 +3179,7 @@ translate portuguese continueq_bed4ef40:
 translate portuguese continueq_b0b382da:
 
     # u "But we're not even dating?! I was just being real!"
-    u "Mas a gente nem tá namorando?! Eu só tava sendo honest!"
+    u "Mas a gente nem tá namorando?! Eu só tava sendo honesto!"
 
 # game/v3/scriptv3.rpy:3234
 translate portuguese continueq_608e2d7d:
@@ -3407,7 +3407,7 @@ translate portuguese continueq_6ee232c7:
 translate portuguese continues_88cebf20:
 
     # u "(Huh, who would call me this late?)"
-    u "(Ué, quem me ligaria a essa hora?)"""
+    u "(Ué, quem me ligaria a essa hora?)"
 
 # game/v3/scriptv3.rpy:3577
 translate portuguese continues_fcfea652:
@@ -3419,7 +3419,7 @@ translate portuguese continues_fcfea652:
 translate portuguese continues_4cf968b7:
 
     # unknown "Hello sir, am I talking to [name]?"
-    unknown "Olá, eu falo com [name]?"
+    unknown "Olá, estou falando com o [name]?"
 
 # game/v3/scriptv3.rpy:3587
 translate portuguese continues_5aa0c8d9:
