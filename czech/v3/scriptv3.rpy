@@ -4,313 +4,313 @@
 translate czech v3start_4f1997c1:
 
     # "*Knock knock knock*"
-    ""
+    "*Ťuk ťuk ťuk*"
 
 # game/v3/scriptv3.rpy:12
 translate czech v3start_fa90d2f1:
 
     # u "(Who could that be?)"
-    u ""
+    u "(Kdo by to mohl být?)"
 
 # game/v3/scriptv3.rpy:20
 translate czech v3start_c8fc4dc6:
 
     # u "Chloe? What are you doing here?"
-    u ""
+    u "Chloe? Co ty tady?"
 
 # game/v3/scriptv3.rpy:25
 translate czech v3start_4ebd6072:
 
     # cl "Hey, uhm... Do you have a minute?"
-    cl ""
+    cl "Hej, čau... Máš vteřinku?"
 
 # game/v3/scriptv3.rpy:30
 translate czech v3start_ed163feb:
 
     # u "Sure, come in."
-    u ""
+    u "Jasně, pojď dál."
 
 # game/v3/scriptv3.rpy:40
 translate czech v3start_17256923:
 
     # cl "How's your eye?"
-    cl ""
+    cl "Jak je na tom oko?"
 
 # game/v3/scriptv3.rpy:45
 translate czech v3start_80c8f97f:
 
     # u "Uhm... not too bad. Thanks for asking."
-    u ""
+    u "Uhm... jde to. Děkuju za optání."
 
 # game/v3/scriptv3.rpy:50
 translate czech v3start_0c12dca7:
 
     # cl "Look, about yesterday..."
-    cl ""
+    cl "Podívej, ohledně včerejšku..."
 
 # game/v3/scriptv3.rpy:52
 translate czech v3start_924b5680:
 
     # cl "Me and Grayson had a thing, a looong time ago."
-    cl ""
+    cl "Já a Grayson jsme spolu před před lety něco měli, hooodně dávno."
 
 # game/v3/scriptv3.rpy:57
 translate czech v3start_68d063d6:
 
     # cl "But after a while, he started to lie and do shady shit and... you know, be the person he is. So I broke it off."
-    cl ""
+    cl "Ale po chvíli začal lhát a dělat různý sračky a... chápeš, stal se tím, kým je teď. Proto jsem se s ním rozešla."
 
 # game/v3/scriptv3.rpy:59
 translate czech v3start_3f4cd669:
 
     # cl "And ever since, he's just been... I guess trying to get back at me?"
-    cl ""
+    cl "A od tý doby, se prostě snaží... Nevím, pomstít se mi, možná?"
 
 # game/v3/scriptv3.rpy:64
 translate czech v3start_a3326c2c:
 
     # cl "I don't know..."
-    cl ""
+    cl "Fakt nevím, o co mu jde..."
 
 # game/v3/scriptv3.rpy:69
 translate czech v3start_db66d353:
 
     # u "If you don't even like Grayson, why were you at his party?"
-    u ""
+    u "Jestli ho nemáš ráda, proč jsi byla na jeho párty?"
 
 # game/v3/scriptv3.rpy:74
 translate czech v3start_87f53c76:
 
     # cl "It's complicated."
-    cl ""
+    cl "To je komplikovaný."
 
 # game/v3/scriptv3.rpy:76
 translate czech v3start_3fc28f4c:
 
     # cl "Girls join the Chicks 'cause they wanna party and have fun."
-    cl ""
+    cl "Holky se přidávají do Děvčat hlavně kvůli pařbám, hrátkám, atd..."
 
 # game/v3/scriptv3.rpy:78
 translate czech v3start_2d0a2d26:
 
     # cl "If I don't show up to Ape parties as the Chicks' president, I risk losing the relationships I've built and being voted out."
-    cl ""
+    cl "Pokud bych se jako jejich prezidentka na tý párty neukázala, mohla bych přijít o určité věci, které jsem si se svým statusem vybudovala."
 
 # game/v3/scriptv3.rpy:83
 translate czech v3start_e60663e2:
 
     # u "It's just... we were having such a great night and then this kinda ruined it."
-    u ""
+    u "Jen že... Tak jsme si to užívali, a pak se to takhle zničilo."
 
 # game/v3/scriptv3.rpy:88
 translate czech v3start_83907c29:
 
     # cl "I know and I'm so sorry."
-    cl ""
+    cl "Já vím, a mrzí mě to."
 
 # game/v3/scriptv3.rpy:93
 translate czech v3start_cbfdbaad:
 
     # cl "I have to go right now, but meet me at midnight behind the gym and I'll make it up to you."
-    cl ""
+    cl "Něco teď budu muset jít ještě zařídit, ale najdi si mě o půlnoci u tělocvičny a já ti to vynahradím."
 
 # game/v3/scriptv3.rpy:98
 translate czech v3start_e5b7dbdd:
 
     # u "What if I can't find you? Shouldn't you at least give me your number?"
-    u ""
+    u "Co když tě nenajdu? Nedáš mi aspoň tvoje číslo?"
 
 # game/v3/scriptv3.rpy:103
 translate czech v3start_ed3c843a:
 
     # cl "Haha, I guess I'll have to... for safety reasons."
-    cl ""
+    cl "Haha, hádám, že asi budu muset... pro jistotu."
 
 # game/v3/scriptv3.rpy:114
 translate czech v3start_912c9d4a:
 
     # cl "I'll see you at midnight. Don't be late."
-    cl ""
+    cl "Uvidíme se o půlnoci, a opovaž se přijít pozdě."
 
 # game/v3/scriptv3.rpy:130
 translate czech v3start_d9894fe0:
 
     # u "Imre, where have you been? There's no way the volleyball game went on for this long, did it?"
-    u ""
+    u "Imre, kdes byl? Neříkej mi, že ten volejbal trval až tak dlouho."
 
 # game/v3/scriptv3.rpy:135
 translate czech v3start_0a37f264:
 
     # imre "Hello, my friend. A gentleman never tells."
-    imre ""
+    imre "Nazdár, bráško můj. Gentleman se přece neprokecne."
 
 # game/v3/scriptv3.rpy:140
 translate czech v3start_f5c3c13a:
 
     # u "Wait, you were with a girl?"
-    u ""
+    u "Počkat, tys byl s nějakou holkou?"
 
 # game/v3/scriptv3.rpy:145
 translate czech v3start_7e591237:
 
     # imre "Well... Not exactly, but I did manage to hide inside the girls' locker room."
-    imre ""
+    imre "No... ne tak docela, ale schoval jsem se v holčičí šatně."
 
 # game/v3/scriptv3.rpy:154
 translate czech v3start_058cc530:
 
     # u "Hahaha, man you're crazy."
-    u ""
+    u "Hahaha, ty jseš šílenec."
 
 # game/v3/scriptv3.rpy:163
 translate czech v3start_1508a5ef:
 
     # u "Dude, that's not cool. You're invading their privacy."
-    u ""
+    u "Kámo, to není správný. Je to přece jejich soukromí."
 
 # game/v3/scriptv3.rpy:168
 translate czech v3start_5fb83b2e:
 
     # imre "Yeah, turns out it wasn't a good idea at all. One of the girls had a mental breakdown and they consoled her for hours."
-    imre ""
+    imre "Jo, nakonec to nebyl tak dobrej nápad. Jedna z těch holek se tam zhroutila a několik hodin ji museli zvedat."
 
 # game/v3/scriptv3.rpy:170
 translate czech v3start_8f3a69b5:
 
     # imre "At one point they called in two different guidance counselors and then those two didn't get along as well..."
-    imre ""
+    imre "V jednu chvíli pak povolali dva různý poradce, kteří se tak úplně neshodli..."
 
 # game/v3/scriptv3.rpy:172
 translate czech v3start_392470e3:
 
     # imre "It was just an insane mess and I was stuck hiding in a pile of old jerseys."
-    imre ""
+    imre "Byl v tom hroznej bordel a musel jsem se hodiny schovávat v hromadě propocenýho oblečení."
 
 # game/v3/scriptv3.rpy:177
 translate czech v3start_691b6f87:
 
     # u "Well, I hope you learned your lesson."
-    u ""
+    u "No, snad ses poučil."
 
 # game/v3/scriptv3.rpy:182
 translate czech v3start_5de4b440:
 
     # imre "Of course, next time I'll bring snacks."
-    imre ""
+    imre "Že váháš, příště si vezmu svačinu."
 
 # game/v3/scriptv3.rpy:187
 translate czech v3start_0dc1ceb7:
 
     # u "What? Not what I was-"
-    u ""
+    u "Cože? To jsem zrovna-"
 
 # game/v3/scriptv3.rpy:189
 translate czech v3start_5762d060:
 
     # u "You know what, good for you."
-    u ""
+    u "Nebo víš co, dobře pro tebe."
 
 # game/v3/scriptv3.rpy:194
 translate czech v3start_3c209707:
 
     # imre "So, how has your evening been?"
-    imre ""
+    imre "A teď mi řekni, jak ses měl ty."
 
 # game/v3/scriptv3.rpy:199
 translate czech v3start_6de04fd1:
 
     # u "Well, I met this really nice girl called Penelope. And apparently, she's in our history class."
-    u ""
+    u "Noo, potkal jsem docela v poho holku, Penelope myslím. A dokonce je s náma na dějepisu."
 
 # game/v3/scriptv3.rpy:204
 translate czech v3start_3d04ec9b:
 
     # imre "Oh shit, is she hot?"
-    imre ""
+    imre "No do prdele, je aspoň dobrá?"
 
 # game/v3/scriptv3.rpy:213
 translate czech v3start_4385b13c:
 
     # u "Oh, hell yeah! She's super hot."
-    u ""
+    u "To si piš, že je."
 
 # game/v3/scriptv3.rpy:218
 translate czech v3start_10343fa0:
 
     # imre "Well that's what I like to hear, go on."
-    imre ""
+    imre "Tak to rád slyšim. Povídej dál."
 
 # game/v3/scriptv3.rpy:224
 translate czech v3start_bc716318:
 
     # u "She's alright I guess."
-    u ""
+    u "Je v pohodě."
 
 # game/v3/scriptv3.rpy:229
 translate czech v3start_fdf9fb83:
 
     # imre "Well that usually means she's better in bed 'cause she tries harder, go on."
-    imre ""
+    imre "No, tak to obvykle znamená, že v posteli je ještě lepší, protože se 'víc snaží'. Povídej dál."
 
 # game/v3/scriptv3.rpy:235
 translate czech v3start_87b58fc4:
 
     # u "Anyways, then I went costume shopping for Mr. Lee's class with Aubrey."
-    u ""
+    u "No, pak jsem šel s Aubrey koupit ten kostým, kterej po nás pan Lee tak moc chce."
 
 # game/v3/scriptv3.rpy:240
 translate czech v3start_96691d7e:
 
     # u "And before you ask, yes, she's hot."
-    u ""
+    u "A ano, než se zeptáš, je dobrá."
 
 # game/v3/scriptv3.rpy:246
 translate czech v3start_8d8a0dbf:
 
     # u "And then I might have gotten caught peeking on her while changing..."
-    u ""
+    u "Pak mě tak trochu chytila, když jsem jí šmíroval, jak se převlíká..."
 
 # game/v3/scriptv3.rpy:252
 translate czech v3start_ea7785ad:
 
     # imre "So much for invasion of privacy, huh?"
-    imre ""
+    imre "Tak pán tady šmíroval, huh?"
 
 # game/v3/scriptv3.rpy:261
 translate czech v3start_f45734b5:
 
     # imre "The key is not to get caught, son."
-    imre ""
+    imre "Klíčem je, můj synu, nenechat se chytit."
 
 # game/v3/scriptv3.rpy:267
 translate czech v3start_7191ae26:
 
     # u "But then I got the cute shop clerk's number. So it turned out to be a blessing in disguise."
-    u ""
+    u "Ale pak jsem dostal číslo tý prodavačky, takže to nakonec nebylo tak špatný."
 
 # game/v3/scriptv3.rpy:273
 translate czech v3start_2dcbee7a:
 
     # u "But now comes the good part..."
-    u ""
+    u "Ale teď přichází to nejlepší..."
 
 # game/v3/scriptv3.rpy:280
 translate czech v3start_b101656c:
 
     # imre "Nnnice."
-    imre ""
+    imre "Pppěkný."
 
 # game/v3/scriptv3.rpy:286
 translate czech v3start_85a0b042:
 
     # u "Anyways, then I went costume shopping for Mr. Lee's class with her."
-    u ""
+    u "No, pak jsem s ní šel nakupovat ten kostým na ten děják."
 
 # game/v3/scriptv3.rpy:289
 translate czech v3start_18db3b1d:
 
     # u "And we were having a great time..."
-    u ""
+    u "Docela jsme si to užívali..."
 
 # game/v3/scriptv3.rpy:294
 translate czech v3start_fbc85b48:
@@ -322,1189 +322,1189 @@ translate czech v3start_fbc85b48:
 translate czech v3start_ea7785ad_1:
 
     # imre "So much for invasion of privacy, huh?"
-    imre ""
+    u "Ale... pak mě tak trochu načapala, jak jsem jí šmíroval, když se oblíkala."
 
 # game/v3/scriptv3.rpy:309
 translate czech v3start_f45734b5_1:
 
     # imre "The key is not to get caught, son."
-    imre ""
+    imre "Klíčem je, můj synu, nenechat se chytit."
 
 # game/v3/scriptv3.rpy:315
 translate czech v3start_7191ae26_1:
 
     # u "But then I got the cute shop clerk's number. So it turned out to be a blessing in disguise."
-    u ""
+    u "Ale pak jsem dostal číslo tý prodavačky, takže to nakonec nebylo tak špatný."
 
 # game/v3/scriptv3.rpy:321
 translate czech v3start_2dcbee7a_1:
 
     # u "But now comes the good part..."
-    u ""
+    u "Ale teď přichází to nejlepší..."
 
 # game/v3/scriptv3.rpy:325
 translate czech v3start_b81d033e:
 
     # u "And we had a great time."
-    u ""
+    u "A docela jsme si to užívali."
 
 # game/v3/scriptv3.rpy:330
 translate czech v3start_663655b8:
 
     # imre "That sounds great, man."
-    imre ""
+    imre "To zní celkem super, brácho."
 
 # game/v3/scriptv3.rpy:335
 translate czech v3start_790e2e2e:
 
     # u "But that's not even the best part..."
-    u ""
+    u "Ale to není ani zdaleka ta nejlepší část..."
 
 # game/v3/scriptv3.rpy:338
 translate czech conl_c25cb717:
 
     # u "I'm not sure if I told you, but when I got punched in the face at the party, I was actually talking to the most beautiful girl I've seen in... probably my entire life."
-    u ""
+    u "Nevím, jestli jsem ti to říkal, ale než jsem dostal přes držku na tý párty, potkal jsem snad tu nejhezčí holku, co jsem kdy viděl... Pravděpodobně v celým svým životě."
 
 # game/v3/scriptv3.rpy:340
 translate czech conl_77f1b168:
 
     # u "And 30 minutes ago, she knocked on our door, told me to come meet her at midnight behind the gym and kissed me on the cheek before she left."
-    u ""
+    u "A před 30 minutama tady byla. Řekla mi, ať si ji o půlnoci najdu u tělocvičny, že mi to vynahradí... a těsně před odchodem mi dala pusu na tvář."
 
 # game/v3/scriptv3.rpy:345
 translate czech conl_200fd70a:
 
     # imre "OH MY GOD! My boy is getting laid tonight! Behind the gym! That's amazing, man!"
-    imre ""
+    imre "O MŮJ BOŽE! Můj bráška si dneska zašuká! V tělocvičně! To je ÚŽASNÝ, brácho!"
 
 # game/v3/scriptv3.rpy:350
 translate czech conl_4d0c5768:
 
     # u "Dude, calm down. I don't think she's like that, haha."
-    u ""
+    u "Ty vole, klidni hormony. Myslím, že tohle zrovna nemyslela, haha."
 
 # game/v3/scriptv3.rpy:355
 translate czech conl_66c7877e:
 
     # imre "Man, shut the fuck up. She so wants you!"
-    imre ""
+    imre "Vole, drž hubu. Ta tě tak moc chce!"
 
 # game/v3/scriptv3.rpy:370
 translate czech conl_a38f0071:
 
     # imre "My man's getting laid."
-    imre ""
+    imre "Můj bráška si dneska zašuká!"
 
 # game/v3/scriptv3.rpy:375
 translate czech conl_a38f0071_1:
 
     # imre "My man's getting laid."
-    imre ""
+    imre "Můj bráška si dneska zašuká!"
 
 # game/v3/scriptv3.rpy:380
 translate czech conl_fcc18885:
 
     # u "*Laughs*"
-    u ""
+    u "*Zasmání*"
 
 # game/v3/scriptv3.rpy:404
 translate czech conl_e50de037:
 
     # u "(Okay, it's 11:50 pm. Time to go to the gym to meet Chloe.)"
-    u ""
+    u "(Fajn, je za deset minut půlnoc, akorát čas vyrazit za Chloe.)"
 
 # game/v3/scriptv3.rpy:406
 translate czech conl_113f6d70:
 
     # u "(I really hope she actually shows up.)"
-    u ""
+    u "(Snad se tam fakt ukáže.)"
 
 # game/v3/scriptv3.rpy:414
 translate czech conl_2cb5af63:
 
     # u "(I guess I'm just gonna wait here.)"
-    u ""
+    u "(Tak zkusím počkat třeba tady.)"
 
 # game/v3/scriptv3.rpy:419
 translate czech conl_91e28cc0:
 
     # u "(Oh, there she is)"
-    u ""
+    u "(A hele, už jde.)"
 
 # game/v3/scriptv3.rpy:424
 translate czech conl_445fa9ea:
 
     # cl "Hey! You came."
-    cl ""
+    cl "Jé, tys přišel!"
 
 # game/v3/scriptv3.rpy:429
 translate czech conl_5875fd36:
 
     # u "Of course! I wanted to see how you're gonna make it up to me, haha."
-    u ""
+    u "Tak jasně že jo! Musel jsem se přesvědčit o tom, jak mi to hodláš vynahradit, haha."
 
 # game/v3/scriptv3.rpy:434
 translate czech conl_91eee772:
 
     # cl "With this."
-    cl ""
+    cl "Takhle."
 
 # game/v3/scriptv3.rpy:439
 translate czech conl_3b6706e7:
 
     # u "A key? What's it for?"
-    u ""
+    u "Klíč? K čemu?"
 
 # game/v3/scriptv3.rpy:444
 translate czech conl_4ec2e3c0:
 
     # cl "Well, guess why I asked you to come to the gym."
-    cl ""
+    cl "No, zkus hádat, proč jsme právě u tělocvičny."
 
 # game/v3/scriptv3.rpy:449
 translate czech conl_04dd98a2:
 
     # u "How did you get a key for the gym?"
-    u ""
+    u "Kdes ten klíč sakra vzala?"
 
 # game/v3/scriptv3.rpy:454
 translate czech conl_25baca34:
 
     # cl "Oh, I have my ways."
-    cl ""
+    cl "Oh, mám své způsoby."
 
 # game/v3/scriptv3.rpy:456
 translate czech conl_d57a272c:
 
     # cl "Wanna break into the gym with me?"
-    cl ""
+    cl "Chceš se se mnou vloupat do tělocvičny?"
 
 # game/v3/scriptv3.rpy:461
 translate czech conl_0c018ac5:
 
     # u "I am so down."
-    u ""
+    u "Si piš."
 
 # game/v3/scriptv3.rpy:475
 translate czech conl_b2561454:
 
     # u "Woah, this is huge. But won't security see that the lights are on from outside?"
-    u ""
+    u "Wow, tady je to obří. Ale neuvidí hlídač z venku ty zapnutý světla?"
 
 # game/v3/scriptv3.rpy:477
 translate czech conl_a066df0b:
 
     # cl "I mean possibly, but where's the fun without the chance of getting caught?"
-    cl ""
+    cl "No, možný to je, ale bez rizika by to přece nebyla žádná sranda, ne?"
 
 # game/v3/scriptv3.rpy:479
 translate czech conl_5e38262e:
 
     # u "Fair enough."
-    u ""
+    u "No to teda."
 
 # game/v3/scriptv3.rpy:484
 translate czech conl_cc7fbe03:
 
     # u "So... is this where you take every guy you meet?"
-    u ""
+    u "Takže... sem si taháš každýho kluka, s kterým se seznámíš?"
 
 # game/v3/scriptv3.rpy:489
 translate czech conl_2bf91de3:
 
     # cl "Believe it or not, this is actually the first time I've done this."
-    cl ""
+    cl "Věr tomu nebo ne, ale tohle je úplně poprvý, co jsem sem někoho vzala."
 
 # game/v3/scriptv3.rpy:494
 translate czech conl_8539ae13:
 
     # u "Well now I feel honored."
-    u ""
+    u "Tak to jsem poctěn."
 
 # game/v3/scriptv3.rpy:499
 translate czech conl_c239255d:
 
     # cl "As you should."
-    cl ""
+    cl "Měl bys, haha."
 
 # game/v3/scriptv3.rpy:503
 translate czech conl_29b4bec9:
 
     # u "(I wonder if she had more in mind when she said she wanted to make it up to me.)"
-    u ""
+    u "(Zajímalo by mě, co všechno tím myslela, když řekla, že mi to vynahradí.)"
 
 # game/v3/scriptv3.rpy:512
 translate czech conl_550b0429:
 
     # u "So, is this the surprise? Breaking into the gym?"
-    u ""
+    u "Takže, tohle je to překvápko? Vloupání se do tělocvičny?"
 
 # game/v3/scriptv3.rpy:517
 translate czech conl_3c052600:
 
     # cl "What, you don't like it?"
-    cl ""
+    cl "Co, nelíbí?"
 
 # game/v3/scriptv3.rpy:522
 translate czech conl_0717de8c:
 
     # u "No, I do. It's just... I never thought of breaking into the gym."
-    u ""
+    u "Ale to víš že jo... Jen jsem nikdy o ničem takovém neuvažoval."
 
 # game/v3/scriptv3.rpy:527
 translate czech conl_5d26808e:
 
     # cl "Really? You never wanted to have the whole gym to yourself? To do whatever you want?"
-    cl ""
+    cl "Fakt? Nikdy jsi nechtěl mít celou tělocvičnu pro sebe a dělat si, co chceš?"
 
 # game/v3/scriptv3.rpy:532
 translate czech conl_b25ee3be:
 
     # u "I mean I can't say I have, but I'm starting to get the appeal."
-    u ""
+    u "Jako, nemůžu říct, že jsem chtěl, ale teď tomu začínám přicházet na chuť."
 
 # game/v3/scriptv3.rpy:537
 translate czech conl_a7dd3f3b:
 
     # cl "Haha, good."
-    cl ""
+    cl "Haha, dobrá."
 
 # game/v3/scriptv3.rpy:545
 translate czech conl_86792eeb:
 
     # cl "You know, I used to play volleyball in high school, you up for a challenge?"
-    cl ""
+    cl "Víš, na střední jsem docela dobře hrála volejbal. Nechceš si pinknout?"
 
 # game/v3/scriptv3.rpy:550
 translate czech conl_213a59e4:
 
     # u "Bring it on."
-    u ""
+    u "Tak podávej."
 
 # game/v3/scriptv3.rpy:625
 translate czech conl_ccb52080:
 
     # cl "Oh no, it was so close!"
-    cl ""
+    cl "Ale né, málem jsem tě měla!"
 
 # game/v3/scriptv3.rpy:630
 translate czech conl_c8286472:
 
     # u "I'm sure you'll get me next time."
-    u ""
+    u "Příště mě dostaneš, haha."
 
 # game/v3/scriptv3.rpy:646
 translate czech conl_c47518cf:
 
     # cl "Yaaay, I won!"
-    cl ""
+    cl "Jeej, vyhrála jsem!"
 
 # game/v3/scriptv3.rpy:651
 translate czech conl_2abd3fc6:
 
     # u "Oh I'll get you next time."
-    u ""
+    u "Sakra, příště tě dostanu."
 
 # game/v3/scriptv3.rpy:661
 translate czech conl_f7a51d54:
 
     # cl "So there'll be a next time, huh?"
-    cl ""
+    cl "Jo takže příště, huh?"
 
 # game/v3/scriptv3.rpy:676
 translate czech conl_e212e38e:
 
     # u "I certainly hope so."
-    u ""
+    u "Doufám, že ano."
 
 # game/v3/scriptv3.rpy:687
 translate czech conl_777d1d2b:
 
     # "*Metal Door Sound*"
-    ""
+    "*Zaskřípání dvěří*"
 
 # game/v3/scriptv3.rpy:689
 translate czech conl_5308a73f:
 
     # sec "Hello? Is there anyone in here?"
-    sec ""
+    sec "Haló? Je tu někdo?"
 
 # game/v3/scriptv3.rpy:694
 translate czech conl_e21707ef:
 
     # cl "Shit! We need to hide, we're not allowed to be here."
-    cl ""
+    cl "Sakra! Musíme se někde schovat, tady bejt nemůžeme."
 
 # game/v3/scriptv3.rpy:706
 translate czech conl_e416f008:
 
     # sec "Anyone in here?"
-    sec ""
+    sec "Tak je tu někdo?"
 
 # game/v3/scriptv3.rpy:711
 translate czech conl_20003bad:
 
     # sec "I could have sworn I turned the lights off earlier."
-    sec ""
+    sec "Přísahám, že jsem ty světla vypínal."
 
 # game/v3/scriptv3.rpy:713
 translate czech conl_53e843eb:
 
     # sec "Hmmm..."
-    sec ""
+    sec "Hmmm..."
 
 # game/v3/scriptv3.rpy:723
 translate czech conl_09d06ab8:
 
     # "*Click*"
-    ""
+    "*Klik*"
 
 # game/v3/scriptv3.rpy:728
 translate czech conl_46f3ea6c:
 
     # u "Wow, that was close."
-    u ""
+    u "Wow, tak to bylo o fous."
 
 # game/v3/scriptv3.rpy:735
 translate czech conl_300d327b:
 
     # cl "Yeah, we should probably get out of here."
-    cl ""
+    cl "To teda, radši bychom měli zmizet."
 
 # game/v3/scriptv3.rpy:742
 translate czech conl_fc93144e:
 
     # cl "So, are we even now?"
-    cl ""
+    cl "Takže jsme si rovni?"
 
 # game/v3/scriptv3.rpy:747
 translate czech conl_f00b573d:
 
     # u "Yeah, we definitely are. We should do this again sometime."
-    u ""
+    u "Jo, to teda jsme. Měli bychom to někdy zopakovat."
 
 # game/v3/scriptv3.rpy:749
 translate czech conl_2520a71c:
 
     # u "Well, maybe not exactly this."
-    u ""
+    u "No, možná ne přímo tohle."
 
 # game/v3/scriptv3.rpy:754
 translate czech conl_69597b38:
 
     # cl "*Laughs* Yeah."
-    cl ""
+    cl "*Směje se* Jo jo."
 
 # game/v3/scriptv3.rpy:756
 translate czech conl_3c2c7442:
 
     # cl "I should probably go now, but you have my number."
-    cl ""
+    cl "Asi bych už měla jít, ale moje číslo máš."
 
 # game/v3/scriptv3.rpy:758
 translate czech conl_3ed7e322:
 
     # cl "Bye, [name]."
-    cl ""
+    cl "Tak zatím."
 
 # game/v3/scriptv3.rpy:763
 translate czech conl_6b69ffb3:
 
     # u "I'll see you, Chloe."
-    u ""
+    u "Zatím, Chloe."
 
 # game/v3/scriptv3.rpy:778
 translate czech conl_5172a633:
 
     # u "Hey, give that back to me."
-    u ""
+    u "Hej, dej to sem."
 
 # game/v3/scriptv3.rpy:783
 translate czech conl_66f675f1:
 
     # em "You're gonna have to go and get it."
-    em ""
+    em "Pojď a vem si to."
 
 # game/v3/scriptv3.rpy:788
 translate czech conl_a8ec3b98:
 
     # u "Oh, I'll get it."
-    u ""
+    u "To si piš, že si vezmu."
 
 # game/v3/scriptv3.rpy:803
 translate czech conl_547b0820:
 
     # em "Uhm, I don't think that's what you wanted to grab."
-    em ""
+    em "Uhm, nemyslím si, že si mířil přímo tam."
 
 # game/v3/scriptv3.rpy:808
 translate czech conl_be1a657f:
 
     # u "Oh, I think it is."
-    u ""
+    u "Oh, já myslím, že jo."
 
 # game/v3/scriptv3.rpy:829
 translate czech conl_e209a35e:
 
     # "*Doorbell rings*"
-    ""
+    "*Zvonek zazvoní*"
 
 # game/v3/scriptv3.rpy:845
 translate czech conl_921a112c:
 
     # u "Emily? It's 2 am, what are you doing here? I thought you were at your friend's birthday party?"
-    u ""
+    u "Emily? Jsou dvě ráno, co tady děláš? Myslel jsem, že jsi na oslavě u kamarádky."
 
 # game/v3/scriptv3.rpy:850
 translate czech conl_148d796e:
 
     # em "[name], I did something bad."
-    em ""
+    em "Víš... Udělala jsem něco hrozného."
 
 # game/v3/scriptv3.rpy:864
 translate czech conl_0dc0fc89:
 
     # u "How could you do this to me?!"
-    u ""
+    u "Jak jsi mi tohle mohla udělat?!"
 
 # game/v3/scriptv3.rpy:869
 translate czech conl_343e787c:
 
     # em "I'm sorry! I was vulnerable, okay?! Please, I need you."
-    em ""
+    em "Omlouvám se! Byla jsem zranitelná, chápeš?! Prosím, potřebuju tě."
 
 # game/v3/scriptv3.rpy:876
 translate czech conl_a70c6f6d:
 
     # u "WHY DID YOU HAVE TO RUIN EVERYTHING?!"
-    u ""
+    u "PROČ JSI MUSELA VŠECHNO POSRAT?!"
 
 # game/v3/scriptv3.rpy:886
 translate czech conl_ba03aa18:
 
     # u "NO! This is wrong. Just get out! Leave me alone!"
-    u ""
+    u "NE! Žádný takový. Vypadni a nech mě na pokoji!"
 
 # game/v3/scriptv3.rpy:895
 translate czech conl_3fd3d76d:
 
     # u "*Breathing heavily*"
-    u ""
+    u "*Dýchání z hluboka*"
 
 # game/v3/scriptv3.rpy:909
 translate czech conl_7eeccac5:
 
     # imre "Wake up! It's time for training."
-    imre ""
+    imre "Vzbuď se! Je čas trénovat."
 
 # game/v3/scriptv3.rpy:914
 translate czech conl_8b258704:
 
     # u "Huh?"
-    u ""
+    u "Huh?"
 
 # game/v3/scriptv3.rpy:919
 translate czech conl_e90ad591:
 
     # imre "You said you were gonna train with me."
-    imre ""
+    imre "Říkals přece, že se mnou budeš trénovat."
 
 # game/v3/scriptv3.rpy:921
 translate czech conl_acf34453:
 
     # imre "Remember? Yesterday? In class?"
-    imre ""
+    imre "Pamatuješ? Včera? Ve třídě?"
 
 # game/v3/scriptv3.rpy:926
 translate czech conl_d4fab85d:
 
     # u "Right, right. Uhm... give me 10 minutes okay?"
-    u ""
+    u "Dobře, dobře. Uhm... dej pár minut, jo?"
 
 # game/v3/scriptv3.rpy:931
 translate czech conl_2f52e5ce:
 
     # u "So uh... where exactly are we going?"
-    u ""
+    u "Takže, uh... kam to přesně jdeme?"
 
 # game/v3/scriptv3.rpy:936
 translate czech conl_086919fc:
 
     # imre "Sports X, it's the cheapest gym in the area and it has basic fighting equipment."
-    imre ""
+    imre "Sport X, Je to ta nejlevnější posilovna v okolí a má aspoň základní vybavení pro box."
 
 # game/v3/scriptv3.rpy:941
 translate czech conl_a4ef4c6e:
 
     # u "Oh, is that where the Wolves train as well?"
-    u ""
+    u "Oh, takže tam trénujou i Vlci?"
 
 # game/v3/scriptv3.rpy:946
 translate czech conl_52d9d101:
 
     # imre "No, the Wolves have their own fighting gym in the basement. My brother helped build a lot of it."
-    imre ""
+    imre "Ne, Vlci mají vlastní posilovnu v jejich garáži. Můj brácha jim pomáhal, když to stavěli."
 
 # game/v3/scriptv3.rpy:951
 translate czech conl_3e5ce331:
 
     # u "Then why don't you train with them? Didn't you plan on doing that anyways?"
-    u ""
+    u "Tak proč s nima netrénuješ? Nechtěl jsi se k nim náhodou přidat?"
 
 # game/v3/scriptv3.rpy:956
 translate czech conl_6a03dbfb:
 
     # imre "You have to be a Wolf to train there. That's one of the reasons I can't wait to pledge, man."
-    imre ""
+    imre "Musíš bejt Vlk, abys tam mohl cvičit. Je to jeden z důvodů, proč se k nim tak moc chci přidat."
 
 # game/v3/scriptv3.rpy:961
 translate czech conl_22be2ff0:
 
     # imre "It really sucks 'cause the pledging period doesn't start 'til two weeks after the year has begun."
-    imre ""
+    imre "Je docela na hovno, že nábor začne až dva týdny po začátku roku."
 
 # game/v3/scriptv3.rpy:966
 translate czech conl_14d4cf42:
 
     # u "Come on, that's like 10 more days."
-    u ""
+    u "Ale no tak, to je necelých 14 dní."
 
 # game/v3/scriptv3.rpy:971
 translate czech conl_29273a9f:
 
     # imre "Yeah, I guess..."
-    imre ""
+    imre "Jo, to je..."
 
 # game/v3/scriptv3.rpy:976
 translate czech conl_9fc74789:
 
     # imre "Hey there, my friend would like a trial pass."
-    imre ""
+    imre "Zdravím, tady kámoš by rád permanentku."
 
 # game/v3/scriptv3.rpy:981
 translate czech conl_8440e24f:
 
     # li "Yeah, that's no problem. I just need an ID."
-    li ""
+    li "Ano, v pořádku. Budu jen potřebovat občanku."
 
 # game/v3/scriptv3.rpy:986
 translate czech conl_b2269c4f:
 
     # imre "So uh... girl, you single?"
-    imre ""
+    imre "Takže, uh... ty, holka, máš někoho?"
 
 # game/v3/scriptv3.rpy:991
 translate czech conl_ae8ad83e:
 
     # u "Smooth..."
-    u ""
+    u "Jak elegantní..."
 
 # game/v3/scriptv3.rpy:996
 translate czech conl_838a2e5b:
 
     # li "Yes, I am."
-    li ""
+    li "Ne, nemám."
 
 # game/v3/scriptv3.rpy:1001
 translate czech conl_3db94bd4:
 
     # imre "Do you wanna maybe... you know, hang out sometime?"
-    imre ""
+    imre "Co takhle si... *Mrkne* ...víš co, vyrazit někdy?"
 
 # game/v3/scriptv3.rpy:1006
 translate czech conl_498da520:
 
     # li "Hmmm... Do I wanna hang out with you?"
-    li ""
+    li "Hmmm... Stojí mi to za to?"
 
 # game/v3/scriptv3.rpy:1008
 translate czech conl_b1e887f4:
 
     # li "On one hand..."
-    li ""
+    li "Na jednu stranu..."
 
 # game/v3/scriptv3.rpy:1009
 translate czech conl_4f793aa2:
 
     # li "You seem like a barely-legal-age wannabe jock that hits on any and every girl he sees, regardless of how appropriate or welcome it is."
-    li ""
+    li "Vypadáš jako někdo, kdo si začíná s každou holku co uvidí a je mu jedno, jestli se jí to líbí, nebo ne."
 
 # game/v3/scriptv3.rpy:1011
 translate czech conl_a72db001:
 
     # li "But on the other hand..."
-    li ""
+    li "Ale na druhou stranu..."
 
 # game/v3/scriptv3.rpy:1013
 translate czech conl_549cbcb0:
 
     # li "No, actually that's it."
-    li ""
+    li "Vlastně ne, to je vše."
 
 # game/v3/scriptv3.rpy:1018
 translate czech conl_6a54ad46:
 
     # imre "So, that's a ye-"
-    imre ""
+    imre "Takžeeee...?"
 
 # game/v3/scriptv3.rpy:1023
 translate czech conl_460e63a3:
 
     # li "It's a no."
-    li ""
+    li "Ne."
 
 # game/v3/scriptv3.rpy:1028
 translate czech conl_55cb65d0:
 
     # imre "You're missing out, girl."
-    imre ""
+    imre "O hodně přicházíš, děvěnko."
 
 # game/v3/scriptv3.rpy:1033
 translate czech conl_5b5e6497:
 
     # u "It's interesting how you always find new ways to make women uncomfortable."
-    u ""
+    u "Je docela zajímavý, že pokaždý najdeš jinej způsob, jak se před holkou ztrapnit."
 
 # game/v3/scriptv3.rpy:1038
 translate czech conl_dd7e7412:
 
     # imre "At least I try, man. Girls always expect you to make the first move."
-    imre ""
+    imre "Aspoň se snažím, vole. Holky vždycky chtěj, abys je oslovil jako první."
 
 # game/v3/scriptv3.rpy:1040
 translate czech conl_9c25b5e4:
 
     # imre "Think about how many girls you could have had if you didn't pussy out everytime."
-    imre ""
+    imre "Popřemýšlej o tom, kolik holek bys získal, kdybys pokaždý nevycouval."
 
 # game/v3/scriptv3.rpy:1045
 translate czech conl_76046c5e:
 
     # u "Hey! When have I ever pussied out?"
-    u ""
+    u "Hej! Kdy jsem vycouval naposled?"
 
 # game/v3/scriptv3.rpy:1050
 translate czech conl_6aaac884:
 
     # imre "You know what? Never mind, player."
-    imre ""
+    imre "Víš co? To je jedno."
 
 # game/v3/scriptv3.rpy:1054
 translate czech conl_88f06d34:
 
     # imre "Now, show me what you've got."
-    imre ""
+    imre "Teď mi ukaž, co v tobě je."
 
 # game/v3/scriptv3.rpy:1087
 translate czech conl_189777f9:
 
     # imre "*Laughs* Great first move, flawless execution."
-    imre ""
+    imre "*Úšklebek* Na poprvý výborný a ještě lepší provedení."
 
 # game/v3/scriptv3.rpy:1089
 translate czech conl_3586bb88:
 
     # imre "How about we start with the basics? Do you know how to throw a hook, jab and kick?"
-    imre ""
+    imre "Co kdybychom začali s něčím lehčím? Víš jak dělat háky, direkty a kopy, že jo?"
 
 # game/v3/scriptv3.rpy:1094
 translate czech conl_0c0a6182:
 
     # u "Uhm yeah, sure."
-    u ""
+    u "Uhm, asi jo."
 
 # game/v3/scriptv3.rpy:1138
 translate czech conl_0e2a9c39:
 
     # imre "Alriiight. It wasn't exactly perfect form, but it's pretty good for a beginner."
-    imre ""
+    imre "Faaajn. Nebylo to úplně nejlepší, ale na začátečníka dobrý."
 
 # game/v3/scriptv3.rpy:1140
 translate czech conl_934009a2:
 
     # imre "Let me just go take a piss and we can get to work when I'm back."
-    imre ""
+    imre "Dojdu si na záchod a hned budem pokračovat."
 
 # game/v3/scriptv3.rpy:1145
 translate czech conl_6ef4da5d:
 
     # u "Okay, sounds good."
-    u ""
+    u "Okej, tak jo."
 
 # game/v3/scriptv3.rpy:1150
 translate czech conl_c9d82dab:
 
     # u "(Why do people come here so early in the morning just to work out?)"
-    u ""
+    u "(Proč sem lidi chodí už tak brzo ráno, jen aby si zacvičili?)"
 
 # game/v3/scriptv3.rpy:1157
 translate czech conl_aaeba228:
 
     # u "(Isn't that the cute store clerk from the costume shop?)"
-    u ""
+    u "(Není to ta pěkná prodavačka z toho obchodu?)"
 
 # game/v3/scriptv3.rpy:1166
 translate czech conl_6405b247:
 
     # u "Hey, you were working in the costume shop yesterday, right?"
-    u ""
+    u "Zdravím, nejste náhodou ta prodavačka z toho obchodu s kostýmy?"
 
 # game/v3/scriptv3.rpy:1171
 translate czech conl_8370dc32:
 
     # ev "Yeah, and you're the kid that still calls it a costume shop even though I thoroughly explained that it's just a regular clothing shop now."
-    ev ""
+    ev "Ano, a ty jsi ten ze včera, který tomu pořád říká obchod s kostýmy, i přestože jsem ti vysvětovala, že prodáváme jen normální oblečení. "
 
 # game/v3/scriptv3.rpy:1176
 translate czech conl_f1c513ec:
 
     # u "Look, I think you're quite cute and my friend thinks I chicken out when it comes to girls..."
-    u ""
+    u "Podívejte, jste docela pěkná a můj kámoš si myslí, že jsem srab, když se jedná o holky..."
 
 # game/v3/scriptv3.rpy:1178
 translate czech conl_9b88e00e:
 
     # u "Is there any chance I could get your number?"
-    u ""
+    u "Takže, je tu šance, že byste mi dala Vaše číslo?"
 
 # game/v3/scriptv3.rpy:1183
 translate czech conl_4251955d:
 
     # ev "I'm very flattered, but I'm 25 and you seem a bit too young for me."
-    ev ""
+    ev "Velmi mi to lichotí, ale je mi 25 a ty na mě vypadáš docela mladý."
 
 # game/v3/scriptv3.rpy:1188
 translate czech conl_c7a9cc52:
 
     # u "Give me one date to change your mind."
-    u ""
+    u "Jedno rande a změním Vám mysl."
 
 # game/v3/scriptv3.rpy:1190
 translate czech conl_76b147b2:
 
     # u "Come on, it'll be fun."
-    u ""
+    u "No tak, bude to v pohodě."
 
 # game/v3/scriptv3.rpy:1195
 translate czech conl_b70f8686:
 
     # ev "Give me one good reason to give you a chance."
-    ev ""
+    ev "Dej mi jeden důvod, abych ti dala šanci."
 
 # game/v3/scriptv3.rpy:1204
 translate czech conl_ab03e551:
 
     # u "Look, I don't know and you don't know me. I'm [name] and I'm just looking for someone to have a good time with."
-    u ""
+    u "Co takhle, že bych si po celou dobu našeho rande vzal ten kostým, co jsem si teď koupil."
 
 # game/v3/scriptv3.rpy:1206
 translate czech conl_89d9b46a:
 
     # u "It's not gonna be the most exciting night of your life, and it's not gonna be a boring night at home playing jenga with the girls."
-    u ""
+    u "Nebude to ta nejúžasnější noc Vašeho života, ale ani to nebude žádná nudná noc strávená hraním deskovek."
 
 # game/v3/scriptv3.rpy:1208
 translate czech conl_3fcd6793:
 
     # u "What this night will do, is serve as a benchmark for future dates with me."
-    u ""
+    u "Váš názor na mě, po téhle noci, můžete brát jako nějaký ukazatel, pro případné rande se mnou."
 
 # game/v3/scriptv3.rpy:1210
 translate czech conl_6c6f5a99:
 
     # u "What do you say?"
-    u ""
+    u "Co na to říkáte?"
 
 # game/v3/scriptv3.rpy:1215
 translate czech conl_ecad669a:
 
     # ev "Damn, that was convincing. Okay, I'm in."
-    ev ""
+    ev "Páni, to bylo přesvědčivé. Dobře, tak jo."
 
 # game/v3/scriptv3.rpy:1217
 translate czech conl_c9c5027b:
 
     # ev "I'll give you my number, but you better bring your A-game."
-    ev ""
+    ev "Dám ti své číslo, ale radši by ses měl pořádně předvést."
 
 # game/v3/scriptv3.rpy:1222
 translate czech conl_d39593f1:
 
     # u "Don't worry, you won't be disappointed."
-    u ""
+    u "Nebojte se, nebudete zklamaná."
 
 # game/v3/scriptv3.rpy:1227
 translate czech conl_a5a91d71:
 
     # ev "Well, I'm looking forward to it."
-    ev ""
+    ev "No dobrá, tak už se těším."
 
 # game/v3/scriptv3.rpy:1232
 translate czech conl_93dfeeeb:
 
     # u "Great, I'll let you know."
-    u ""
+    u "Výborně. Dám vám vědět."
 
 # game/v3/scriptv3.rpy:1237
 translate czech conl_a13f14ef:
 
     # u "(I'm getting really good at this flirting thing...)"
-    u ""
+    u "(To flirtování mi začíná docela jít...)"
 
 # game/v3/scriptv3.rpy:1245
 translate czech conl_f557a3ac:
 
     # u "How about I'll wear the costume I bought yesterday for our entire date?"
-    u ""
+    u "Co takhle, že bych si po celou dobu našeho rande vzal ten kostým, co jsem si teď koupil."
 
 # game/v3/scriptv3.rpy:1250
 translate czech conl_ca334630:
 
     # ev "Look, it's very cute that you'd do that for me, but I just don't think we'd be a great fit."
-    ev ""
+    ev "Podívej, to je sice velmi milé, ale myslím, že bychom si spolu nerozuměli."
 
 # game/v3/scriptv3.rpy:1252
 translate czech conl_291f9cbd:
 
     # ev "I'm sure you'll find someone else."
-    ev ""
+    ev "Jsem si jistá, že najdeš někoho jiného."
 
 # game/v3/scriptv3.rpy:1257
 translate czech conl_9f0efd63:
 
     # u "Oh okay... I guess I'll see you around."
-    u ""
+    u "Dobře... Tak to nevadí."
 
 # game/v3/scriptv3.rpy:1262
 translate czech conl_5c75aca5:
 
     # u "(Damn, that didn't go as planned...)"
-    u ""
+    u "(Sakra, to nevyšlo zrovna podle mých představ...)"
 
 # game/v3/scriptv3.rpy:1270
 translate czech conl_c5cbcb80:
 
     # imre "Okayyy, let's do it."
-    imre ""
+    imre "Tak joooo, jdem na to."
 
 # game/v3/scriptv3.rpy:1275
 translate czech conl_4ec90385:
 
     # imre "Low-kicks target the legs and weaken the opponent's stance."
-    imre ""
+    imre "Nízký kopy jsou dobrý na útok na nohy a k ochabnutí soupeřova postoje."
 
 # game/v3/scriptv3.rpy:1277
 translate czech conl_cfd6282e:
 
     # imre "Jabs target the face and keep distance."
-    imre ""
+    imre "Direkty míří přímo na obličej a drží ti bezpečnou vzdálenost."
 
 # game/v3/scriptv3.rpy:1279
 translate czech conl_a800b118:
 
     # imre "And hooks target the head and serve as hard hits that can knock out your opponent."
-    imre ""
+    imre "A háky jsou silný na hlavu. Jedním dobrým úderem můžeš soupeře i kompletně vyřídit."
 
 # game/v3/scriptv3.rpy:1284
 translate czech conl_c2eb341d:
 
     # imre "But what's missing?"
-    imre ""
+    imre "Ale víš co chybí?"
 
 # game/v3/scriptv3.rpy:1289
 translate czech conl_ccfdd94e:
 
     # u "Enough human decency so fighting becomes an unnecessary relic of the past?"
-    u ""
+    u "Dost lidské slušnosti, aby se souboje staly zbytečnou relikvií minulosti?"
 
 # game/v3/scriptv3.rpy:1294
 translate czech conl_14275025:
 
     # imre "No, body shots. "
-    imre ""
+    imre "Ne, útoky na tělo."
 
 # game/v3/scriptv3.rpy:1296
 translate czech conl_8b5c7e8a:
 
     # imre "Hitting your opponent's body will leave them out of breath and in pain."
-    imre ""
+    imre "Zásahy do břicha můžou soupeře výrazně oslabit a zbavit ho na chvíli bez dechu."
 
 # game/v3/scriptv3.rpy:1298
 translate czech conl_2030526a:
 
     # imre "Perfect to get rid of a strong guard or a fast moving opponent."
-    imre ""
+    imre "Perfektní pro situace, kdy se soupeř silně brání, nebo je rychlej."
 
 # game/v3/scriptv3.rpy:1303
 translate czech conl_bfbe325a:
 
     # u "Alright. Show me how."
-    u ""
+    u "Tak dobře, ukaž mi, jak na to."
 
 # game/v3/scriptv3.rpy:1308
 translate czech conl_824e72d3:
 
     # imre "It's quite simple. Whenever your opponent leaves his torso open you simply use your left arm to throw a body hook."
-    imre ""
+    imre "Je to docela jednoduchý. Kdykoli tvůj soupeř nechá svůj trup bez ochrany, udeř ho tam levou rukou."
 
 # game/v3/scriptv3.rpy:1320
 translate czech conl_1f9bfc77:
 
     # imre "You wanna try?"
-    imre ""
+    imre "Chceš to zkusit?"
 
 # game/v3/scriptv3.rpy:1325
 translate czech conl_37fe551f:
 
     # u "Sure."
-    u ""
+    u "Jo."
 
 # game/v3/scriptv3.rpy:1337
 translate czech conl_94fbb147:
 
     # imre "Great job! Try it again."
-    imre ""
+    imre "Tak se mi to líbí! Teď znova."
 
 # game/v3/scriptv3.rpy:1358
 translate czech popup5_d3003fe6:
 
     # u "That was actually really fun, thanks, Imre."
-    u ""
+    u "Nakonec to nebylo zas tak špatný. Díky, kámo."
 
 # game/v3/scriptv3.rpy:1363
 translate czech popup5_37246246:
 
     # imre "Yeah, no worries. Let me know if you wanna come with me next time as well."
-    imre ""
+    imre "Bez obav. Hned mi dej vědět, až sem budeš chtít jít znova."
 
 # game/v3/scriptv3.rpy:1368
 translate czech popup5_e613cabf:
 
     # u "Yeah, I think I will."
-    u ""
+    u "Jasně, spolehni se."
 
 # game/v3/scriptv3.rpy:1392
 translate czech repeatk_58d01580:
 
     # u "(I should probably check my phone.)"
-    u ""
+    u "(Měl bych si zkontrolovat mobil.)"
 
 # game/v3/scriptv3.rpy:1395
 translate czech repeatk_54591f14:
 
     # u "Sorry Imre, something came up. You're gonna have to go back by yourself, I gotta go."
-    u ""
+    u "Hej, promiň Imre, ale něco teď musím zařídit. Domů asi budeš muset jít sám."
 
 # game/v3/scriptv3.rpy:1400
 translate czech repeatk_7efdfdd7:
 
     # imre "A booty call this early in the day? Respect, my man."
-    imre ""
+    imre "Prdelka si tě volá už takhle po ránu? Tak to respekt."
 
 # game/v3/scriptv3.rpy:1405
 translate czech repeatk_8321eaa9:
 
     # u "Imre, not everything is about sex, haha. I'll see you later."
-    u ""
+    u "Imre, ne všechno je o sexu, haha. Uvidíme se pozdějc."
 
 # game/v3/scriptv3.rpy:1410
 translate czech repeatk_ecfbdaa5:
 
     # imre "I'll see you, player."
-    imre ""
+    imre "Si piš, bráško."
 
 # game/v3/scriptv3.rpy:1417
 translate czech repeatk_30ce2936:
 
     # u "(Okay, let's see. Which one's her room?)"
-    u ""
+    u "(Tak schválně, který okno je její?)"
 
 # game/v3/scriptv3.rpy:1421
 translate czech repeatk_86e8b466:
 
     # u "(Oh no, the only open window is on the second floor.)"
-    u ""
+    u "(No jasně, to jediný otevřený ve druhým patře.)"
 
 # game/v3/scriptv3.rpy:1423
 translate czech repeatk_db8b6560:
 
     # u "(Yeah, why would she want to mention that anyway...)"
-    u ""
+    u "(Proč by to asi jinak zmiňovala...)"
 
 # game/v3/scriptv3.rpy:1456
 translate czech repeatk_106dda54:
 
     # au "Did anyone see you?"
-    au ""
+    au "Viděl tě někdo?"
 
 # game/v3/scriptv3.rpy:1461
 translate czech repeatk_3b497a54:
 
     # u "I don't think so."
-    u ""
+    u "Myslím, že ne."
 
 # game/v3/scriptv3.rpy:1463
 translate czech repeatk_aea0aa63:
 
     # u "You know, you could've really mentioned that your room is on the second floor."
-    u ""
+    u "Víš, stačilo jen říct, že tvůj pokoj je ve druhým patře."
 
 # game/v3/scriptv3.rpy:1468
 translate czech repeatk_2cd894bf:
 
     # au "Look, when you peeked on me and lied about it, I felt like you broke my trust."
-    au ""
+    au "Hele, když si na mě šmíroval a zalhal jsi mi o tom, docela mě to zabolelo..."
 
 # game/v3/scriptv3.rpy:1473
 translate czech repeatk_dd3ef603:
 
     # au "But, I haven't told anyone about it."
-    au ""
+    au "Ale nikomu jsem o tom neřekla."
 
 # game/v3/scriptv3.rpy:1475
 translate czech repeatk_0d9828c0:
 
     # au "Instead, I've watched a bunch of sitcoms and found a way for us to move past this."
-    au ""
+    au "Koukala jsem pak na nějaký sitcomy a myslím, že vím, jak se přes to přenýst."
 
 # game/v3/scriptv3.rpy:1480
 translate czech repeatk_2b215749:
 
     # u "Yeah, anything. I'm just really sorry it happened. I shouldn't have-"
-    u ""
+    u "Jasný, cokoliv. Fakt se omlouvám za to, co jsem udělal. Neměl jse-"
 
 # game/v3/scriptv3.rpy:1485
 translate czech repeatk_aadbe3cf:
 
     # au "We need to get even."
-    au ""
+    au "Musíme se vyrovnat."
 
 # game/v3/scriptv3.rpy:1490
 translate czech repeatk_0e9e5ef3:
 
     # u "Get even?"
-    u ""
+    u "Vyrovnat?"
 
 # game/v3/scriptv3.rpy:1495
 translate czech repeatk_e91f4cda:
 
     # au "Yeah, level the playing field. Make it fair."
-    au ""
+    au "Jo, prostě hrát podle pravidel. Bejt si fér."
 
 # game/v3/scriptv3.rpy:1500
 translate czech repeatk_94ab7d51:
 
     # u "Like... you get to peek on me changing?"
-    u ""
+    u "Jakože... na mě chceš taky šmírova?"
 
 # game/v3/scriptv3.rpy:1505
 translate czech repeatk_9784a35e:
 
     # au "Or..."
-    au ""
+    au "Nebo..."
 
 # game/v3/scriptv3.rpy:1506
 translate czech repeatk_70642a53:
 
     # au "You could just take your clothes off right now."
-    au ""
+    au "Si to oblečení prostě můžeš rovnou sundat."
 
 # game/v3/scriptv3.rpy:1511
 translate czech repeatk_bda4caba:
 
     # u "Are you serious?"
-    u ""
+    u "Jako vážně?"
 
 # game/v3/scriptv3.rpy:1516
 translate czech repeatk_5354bd03:
 
     # au "You said you'd do anything to make it right."
-    au ""
+    au "Říkal jsi cokoliv, jen abychom se vyrovnali."
 
 # game/v3/scriptv3.rpy:1526
 translate czech repeatk_8b1510d3:
 
     # u "You want me to take my clothes off? Fine, I'll do it."
-    u ""
+    u "Chceš po mně, abych si sundal oblečení? Fajn, tak jo."
 
 # game/v3/scriptv3.rpy:1531
 translate czech repeatk_87e6a6c0:
 
     # au "Good! Do it."
-    au ""
+    au "Ano! Udělej to."
 
 # game/v3/scriptv3.rpy:1544
 translate czech repeatk_a0e1fbf3:
 
     # u "I'm not gonna take my clothes off in front of you."
-    u ""
+    u "S tím ale nepočítej, nic si sundávat nebudu."
 
 # game/v3/scriptv3.rpy:1549
 translate czech repeatk_230ada89:
 
     # au "I thought you cared about this friendship?!"
-    au ""
+    au "Myslela jsem, že ti na našem přátelství záleží?!"
 
 # game/v3/scriptv3.rpy:1554
 translate czech repeatk_7d97de90:
 
     # u "I do care!"
-    u ""
+    u "Taky že jo!"
 
 # game/v3/scriptv3.rpy:1559
 translate czech repeatk_81a00233:
 
     # u "You want me to take my clothes off to prove it?! Fine, I'll take them off."
-    u ""
+    u "Chceš po mně, abych to potvrdtil tak, že si sundám oblečení? Fajn, tak jo."
 
 # game/v3/scriptv3.rpy:1564
 translate czech repeatk_2c899df4:
 
     # au "Good! Fucking do it!"
-    au ""
+    au "Ano! Udělej to!"
 
 # game/v3/scriptv3.rpy:1580
 translate czech talkedout_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v3/scriptv3.rpy:1585
 translate czech repeatl_58d01580:
 
     # u "(I should probably check my phone.)"
-    u ""
+    u "(Měl bych si zkontrolovat mobil.)"
 
 # game/v3/scriptv3.rpy:1588
 translate czech repeatl_54591f14:
 
     # u "Sorry Imre, something came up. You're gonna have to go back by yourself, I gotta go."
-    u ""
+    u "Hej, promiň Imre, ale něco teď musím zařídit. Domů asi budeš muset jít sám."
 
 # game/v3/scriptv3.rpy:1593
 translate czech repeatl_7efdfdd7:
 
     # imre "A booty call this early in the day? Respect, my man."
-    imre ""
+    imre "Prdelka si tě volá už takhle po ránu? Tak to respekt."
 
 # game/v3/scriptv3.rpy:1598
 translate czech repeatl_8321eaa9:
 
     # u "Imre, not everything is about sex, haha. I'll see you later."
-    u ""
+    u "Imre, ne všechno je o sexu, haha. Uvidíme se pozdějc."
 
 # game/v3/scriptv3.rpy:1603
 translate czech repeatl_ecfbdaa5:
 
     # imre "I'll see you, player."
-    imre ""
+    imre "Si piš, bráško."
 
 # game/v3/scriptv3.rpy:1610
 translate czech repeatl_30ce2936:
 
     # u "(Okay, let's see. Which one's her room?)"
-    u ""
+    u "(Tak schválně, který okno je její?)"
 
 # game/v3/scriptv3.rpy:1614
 translate czech repeatl_86e8b466:
