@@ -46,7 +46,7 @@ translate portuguese v4start_9729603a:
 translate portuguese v4start_de621888:
 
     # imre "My brother asked some of his friends in the Wolves... *winces in pain*"
-    imre "Meu irmão mexeu uns palitos junto com os Wolves... *gemido de dor*"
+    imre "Meu irmão mexeu uns palitos junto com os Lobos... *gemido de dor*"
 
 # game/v4/scriptv4.rpy:40
 translate portuguese v4start_0162cafc:
@@ -58,7 +58,7 @@ translate portuguese v4start_0162cafc:
 translate portuguese v4start_fdf80e7c:
 
     # imre "*winces in pain* He was immediately disqualified and kicked out of the Apes."
-    imre "*gemido de dor* Então ele foi imediatamente desclassificado e expulso dos Apes."
+    imre "*gemido de dor* Então ele foi imediatamente desclassificado e expulso dos Gorilas."
 
 # game/v4/scriptv4.rpy:44
 translate portuguese v4start_c76b9e3d:
@@ -1426,7 +1426,7 @@ translate portuguese eb_ad_30dd3439:
 translate portuguese eb_ad_5b5af44b:
 
     # u "Oh, you know Grayson? He punched me at the Ape's rush party."
-    u "Sabe o Grayson? Ele me bateu durante a festa dos Apes."
+    u "Sabe o Grayson? Ele me bateu durante a festa dos Gorilas."
 
 # game/v4/scriptv4.rpy:1577
 translate portuguese eb_ad_83745215:
@@ -2470,7 +2470,7 @@ translate portuguese en_ad_d55a56e4:
 translate portuguese eo_a_691f9f4f:
 
     # u "I'll join the Wolves."
-    u "Vou entrar pros Wolves."
+    u "Vou entrar pros Lobos."
 
 # game/v4/scriptv4.rpy:2794
 translate portuguese eo_a_85c6a2d8:
@@ -3118,7 +3118,7 @@ translate portuguese strings:
 
     # game/v4/scriptv4.rpy:2775
     old "I'll join the Wolves."
-    new "Vou entrar pros Wolves."
+    new "Vou entrar pros Lobos."
 
     # game/v4/scriptv4.rpy:2775
     old "I don't know yet."
@@ -4190,7 +4190,7 @@ translate portuguese autumnsita_30dd3439:
 translate portuguese autumnsita_5b5af44b:
 
     # u "Oh, you know Grayson? He punched me at the Ape's rush party."
-    u "Sabe o Grayson? Ele me bateu durante a festa dos Apes."
+    u "Sabe o Grayson? Ele me bateu durante a festa dos Gorilas."
 
 q# game/v4/scriptv4.rpy:1343
 translate portuguese autumnsita_83745215:
@@ -5042,7 +5042,7 @@ translate portuguese phonew_d55a56e4:
 translate portuguese phonew_691f9f4f:
 
     # u "I'll join the Wolves."
-    u "Vou entrar pros Wolves."
+    u "Vou entrar pros Lobos."
 
 # game/v4/scriptv4.rpy:2351
 translate portuguese phonew_85c6a2d8:
