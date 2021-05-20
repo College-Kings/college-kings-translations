@@ -2008,7 +2008,7 @@ translate portuguese hospitala_1898af7b:
 translate portuguese youfinishadam_d312e43a:
 
     # u "Yeah, I'm definitely interested. Especially in the Wolves."
-    u "Sim, eu com certeza estou interessado. Principalmente nos Wolves."
+    u "Sim, eu com certeza estou interessado. Principalmente nos Lobos."
 
 # game/v5/scriptv5.rpy:3812
 translate portuguese youfinishadam_20c6bfd9:
