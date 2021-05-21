@@ -1768,7 +1768,7 @@ translate portuguese hospitala_ba953188:
 translate portuguese hospitala_609b11d6:
 
     # u "Imre, you need to chill out for a second and think this through. You've gone crazy!"
-    u "Imre, você precisa se acalmar um pouco e pensar direito. Você está louco!"
+    u "Imre, você precisa se acalmar um pouco e pensar direito. Você enlouqueceu?!"
 
 # game/v5/scriptv5.rpy:2551
 translate portuguese hospitala_ed3d4204:
