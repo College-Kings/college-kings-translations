@@ -30,17 +30,17 @@ portuguese
 
 If you want to proofread your script again, there is a column for that as well, just place an x in the brackets. If you are alone and don't have the time for that, just skip that step for now.
 
-Progress | ?/all | Who is working on it? | Proofreading
+Progress | ?/all | Who is working on it? | Proofreading | Who is proofreading?
 -------- | -------- | --------- | ---------
-non script files | 0/2 | - | [ ]
-scriptv1-v2.rpy | 5983/9515 | Bibs2 | [ ]
-scriptv3.rpy | 3639/3639 | peacelocker125 | [ ]
-scriptv4.rpy | 5653/5653 | TheProfMilos | [ ]
-scriptv5.rpy | 2305/2305 | TheProfMilos | [ ]
-scriptv6.rpy | TBA | - | [ ]
-scriptv7.rpy |TBA | - | [ ]
-v08 files | TBA | - | [ ]
-v09 files | TBA | - | [ ]
-v10 files | TBA | - | [ ]
+non script files | 0/2 | - | [ ] | -
+scriptv1-v2.rpy | 5983/9515 | Bibs2 | [ ] | -
+scriptv3.rpy | 3639/3639 | peacelocker125 | [ ] | -
+scriptv4.rpy | 5653/5653 | TheProfMilos | [ ] | -
+scriptv5.rpy | 2305/2305 | TheProfMilos | [ ] | -
+scriptv6.rpy | TBA | - | [ ] | -
+scriptv7.rpy |TBA | - | [ ] | -
+v08 files | TBA | - | [ ] | -
+v09 files | TBA | - | [ ] | -
+v10 files | TBA | - | [ ] | -
 
 Have fun!
