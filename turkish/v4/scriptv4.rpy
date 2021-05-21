@@ -1132,85 +1132,85 @@ translate turkish continuey_d72cab90:
 translate turkish continuey_99651266:
 
     # u "(\"Economics Now\"... where are you?)"
-    u ""
+    u "(\Şimdi Ekonomi\"... Neredesin?)"
 
 # game/v4/scriptv4.rpy:1266
 translate turkish continuey_9823f80c:
 
     # u "(There it is. I guess I'll sit down and get start on it.)"
-    u ""
+    u "(İşte orada. Sanırım oturup başlayacağım.)"
 
 # game/v4/scriptv4.rpy:1271
 translate turkish continuey_49a45306:
 
     # u "(Oh that's Lauren's sister Autumn...)"
-    u ""
+    u "(Oh, bu Lauren'in kız kardeşi Autumn...)"
 
 # game/v4/scriptv4.rpy:1277
 translate turkish continuey_505428d0:
 
     # u "(Hopefully Lauren didn't tell her about what happened...)"
-    u ""
+    u "(Umarım Lauren ona ne olduğunu anlatmamıştır...)"
 
 # game/v4/scriptv4.rpy:1282
 translate turkish continuey_42ce5b24:
 
     # u "Uhm... hey Autumn."
-    u ""
+    u "Uhm... Selam Autumn."
 
 # game/v4/scriptv4.rpy:1292
 translate turkish continuey_73d4bab3:
 
     # aut "Please leave me alone..."
-    aut ""
+    aut "Lütfen beni yalnız bırakın..."
 
 # game/v4/scriptv4.rpy:1312
 translate turkish ea_a_a9677e88:
 
     # u "I'm sorry and I can see why Lauren would be upset."
-    u ""
+    u "Üzgünüm ve Lauren'in neden üzgün olduğunu anlayabiliyorum."
 
 # game/v4/scriptv4.rpy:1314
 translate turkish ea_a_59daf5a4:
 
     # u "But... I can't change what happened, I was just trying to be honest."
-    u ""
+    u "Ama... Olanları değiştiremem, sadece dürüst olmaya çalışıyordum."
 
 # game/v4/scriptv4.rpy:1316
 translate turkish ea_a_8bc25f99:
 
     # u "You have to believe me. I care about Lauren, I'd never do anything to hurt her."
-    u ""
+    u "Bana inanmak zorundasın. Lauren'ı önemsiyorum, ona zarar verecek hiçbir şey yapmam."
 
 # game/v4/scriptv4.rpy:1326
 translate turkish popup6_3c911d4c:
 
     # aut "Hm... I know you guys weren't serious or anything yet."
-    aut ""
+    aut "Hm... Ciddi falan olmadığınızı biliyorum."
 
 # game/v4/scriptv4.rpy:1328
 translate turkish popup6_93e43444:
 
     # aut "But... you really hurt Lauren."
-    aut ""
+    aut "Ama... Lauren'ı gerçekten incittin."
 
 # game/v4/scriptv4.rpy:1335
 translate turkish popup6_a7167818:
 
     # u "I know and I'm really sorry. It won't happen again, I promise."
-    u ""
+    u "Biliyorum ve gerçekten üzgünüm. Bir daha olmayacak, söz veriyorum."
 
 # game/v4/scriptv4.rpy:1340
 translate turkish popup6_7aae18fa:
 
     # aut "I believe you. At least you were honest about it and I don't think many guys would be."
-    aut ""
+    aut ""Sana inanıyorum. En azından bu konuda dürüsttün ve pek çok erkeğin böyle olacağını sanmıyorum.""
 
 # game/v4/scriptv4.rpy:1342
 translate turkish popup6_a3e3618e:
 
     # aut "I'll talk to Lauren about it."
-    aut ""
+    aut "Lauren'la konuşacağım."
 
 # game/v4/scriptv4.rpy:1347
 translate turkish popup6_d11ab6e4:
