@@ -370,7 +370,7 @@ translate portuguese jorepb_05148e1b:
 translate portuguese jorepb_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v5/scriptv5.rpy:395
 translate portuguese jorepb_8d1e43e3:
@@ -988,7 +988,7 @@ translate portuguese continueam_57468466:
 translate portuguese continueam_4f3d7069:
 
     # la "The train's heading to the right side of the intersection, where this time only one person's scared for their life."
-    la "O trem está se dirigindo à via da direita, aonde há uma pessoa temendo pela sua vida."
+    la "O trem está se dirigindo à via da direita, onde há uma pessoa temendo pela sua vida."
 
 # game/v5/scriptv5.rpy:1273
 translate portuguese continueam_e0e80fa6:
@@ -1060,7 +1060,7 @@ translate portuguese continuean_57468466:
 translate portuguese continuean_63bd70e2:
 
     # la "The train's heading to the right side of the intersection, where this time there's five people again, scared for their lives."
-    la "O trem está se dirigindo à via da direita, aonde estão cinco pessoas amarradas clamando pela sua vida."
+    la "O trem está se dirigindo à via da direita, onde estão cinco pessoas amarradas clamando pela sua vida."
 
 # game/v5/scriptv5.rpy:1391
 translate portuguese continuean_1f143709:
@@ -1330,7 +1330,7 @@ translate portuguese popup8_6439e089:
 translate portuguese popup8_449c6579:
 
     # u "Listen, I wanted to apologize, I went too far and I'm sorry."
-    u "Me escuta, eu quero me desculpar, eu fui longe demais e sinto muito memso."
+    u "Me escuta, eu quero me desculpar, eu fui longe demais e sinto muito mesmo."
 
 # game/v5/scriptv5.rpy:1785
 translate portuguese popup8_a5a44cd7:
@@ -2256,7 +2256,7 @@ translate portuguese strings:
 
     # game/v5/scriptv5.rpy:656
     old "Hey"
-    new "Oie."
+    new "Oie"
 
     # game/v5/scriptv5.rpy:657
     old "Wanna do the personality tests today at noon?"
