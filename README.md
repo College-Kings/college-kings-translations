@@ -31,7 +31,7 @@ portuguese
 If you want to proofread your script again, there is a column for that as well, just place an x in the brackets. If you are alone and don't have the time for that, just skip that step for now.
 
 Progress | ?/all | Who is working on it? | Proofreading | Who is proofreading?
--------- | -------- | --------- | ---------
+-------- | -------- | --------- | --------- | ---------
 non script files | 0/2 | - | [ ] | -
 scriptv1-v2.rpy | 5983/9515 | Bibs2 | [ ] | -
 scriptv3.rpy | 3639/3639 | peacelocker125 | [ ] | -
