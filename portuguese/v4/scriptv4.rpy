@@ -16,7 +16,7 @@ translate portuguese v4start_c5ddf28e:
 translate portuguese v4start_340bf5a0:
 
     # u "The nurse said you had 3 broken ribs! What the hell happened?"
-    u "A enfermeira me diss que você está com 3 costelas quebradas! O que houve?"
+    u "A enfermeira me disse que você está com 3 costelas quebradas! O que houve?"
 
 # game/v4/scriptv4.rpy:22
 translate portuguese v4start_bf4e1bad:
@@ -52,7 +52,7 @@ translate portuguese v4start_de621888:
 translate portuguese v4start_0162cafc:
 
     # imre "And apparently Adam used to be an Ape, but last year one of his opponents wouldn't give up so he flipped and gouged his opponent's eyes."
-    imre "E aparenteme o Adam era um Ape, mas o ano passado um dos seus oponentes não queria desistir então ele virou o cara e meteu os dedos nos olhos dele."
+    imre "E aparenteme o Adam era um Gorila, mas o ano passado um dos seus oponentes não queria desistir então ele virou o cara e meteu os dedos nos olhos dele."
 
 # game/v4/scriptv4.rpy:42
 translate portuguese v4start_fdf80e7c:
@@ -106,7 +106,7 @@ translate portuguese dp_a_05f159fd:
 translate portuguese dp_a_4b864680:
 
     # imre "Nah, this is my fight *winces in pain*."
-    imre "Não, é minha luta *geme de dor."
+    imre "Não, é minha luta *geme de dor*."
 
 # game/v4/scriptv4.rpy:112
 translate portuguese dp_a_ab9aa661:
@@ -190,7 +190,7 @@ translate portuguese do_b_151acc9a:
 translate portuguese do_b_f581f45f:
 
     # u "Yeah of course, the nurse said you need to stay in here for two more days so I'll come back on Sunday, alright?"
-    u "Lógico. A enfermeira disse que vai ter que ficar aqui mais uns dois dias, então eu venho domingo beleaza?"
+    u "Lógico. A enfermeira disse que vai ter que ficar aqui mais uns dois dias, então eu venho domingo beleza?"
 
 # game/v4/scriptv4.rpy:184
 translate portuguese do_b_e66b65b5:
@@ -220,7 +220,7 @@ translate portuguese dp_ad_c7da4826:
 translate portuguese dp_ad_5b8aada9:
 
     # "*Phone calling*"
-    "*Telefone Ligando*"
+    "*Telefone ligando*"
 
 # game/v4/scriptv4.rpy:231
 translate portuguese dp_ad_6f1017a1:
@@ -520,7 +520,7 @@ translate portuguese dr_bd_eec1fa69:
 translate portuguese dr_bd_e7190543:
 
     # u "I really like you. Do you feel the same way?"
-    u ""
+    u "Eu realmente gosto de você. Você sente o mesmo?"
 
 # game/v4/scriptv4.rpy:541
 translate portuguese dr_bd_0978d962:
@@ -646,7 +646,7 @@ translate portuguese du_a_a7e0e6db:
 translate portuguese du_a_9e4d00ae:
 
     # ju "Okay honey, let's go shopping then."
-    ju "Se você diz... Vamos pra compras então."
+    ju "Se você diz... Vamos pras compras então."
 
 # game/v4/scriptv4.rpy:689
 translate portuguese du_b_9cd1d510:
@@ -1108,7 +1108,7 @@ translate portuguese dv_bd_a62428b2:
 translate portuguese continuex_598c9d7c:
 
     # u "(I should text Chloe and see if she wants to meet up... I need to find out if there's any truth in what Ryan said.)"
-    u "(Eu deveria mandar uma mensagem pra Chloe e ver se podemos nos ver... Eu tenho que descubrir se o que o Ryan me disse é verdade.)"
+    u "(Eu deveria mandar uma mensagem pra Chloe e ver se podemos nos ver... Eu tenho que descobrir se o que o Ryan me disse é verdade.)"
 
 # game/v4/scriptv4.rpy:1235
 translate portuguese phonev_af61a800:
@@ -5649,4 +5649,3 @@ translate portuguese strings:
     # game/v4/scriptv4.rpy:2172
     old "I'm meeting a friend at 11, so I can't really."
     new "Eu tenho que me encontrar com uma amiga às 11, então não vai rolar"
-
