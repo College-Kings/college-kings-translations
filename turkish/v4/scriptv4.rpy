@@ -1216,1783 +1216,1783 @@ translate turkish popup6_a3e3618e:
 translate turkish popup6_d11ab6e4:
 
     # u "Thank you. Does that mean I can keep sitting here?"
-    u ""
+    u "Teşekkür ederim. Bu burada oturmaya devam edebileceğim anlamına mı geliyor?"
 
 # game/v4/scriptv4.rpy:1352
 translate turkish popup6_337ce757:
 
     # aut "Yeah, I guess."
-    aut ""
+    aut "Evet, sanırım."
 
 # game/v4/scriptv4.rpy:1362
 translate turkish popup6_e865d20c:
 
     # au "Right. Well actions speak louder than words, [name]."
-    au ""
+    au "Doğru. Eh, eylemler kelimelerden daha yüksek sesle konuşur, [name]."
 
 # game/v4/scriptv4.rpy:1364
 translate turkish popup6_fd78a9c5:
 
     # au "Now please leave me alone."
-    au ""
+    au "Şimdi lütfen beni yalnız bırak."
 
 # game/v4/scriptv4.rpy:1369
 translate turkish popup6_3a538381:
 
     # u "Fine. I'll sit somewhere else."
-    u ""
+    u "İyi. Başka bir yere oturacağım."
 
 # game/v4/scriptv4.rpy:1380
 translate turkish eb_b_3a538381:
 
     # u "Fine. I'll sit somewhere else."
-    u ""
+    u "İyi. Başka bir yere oturacağım."
 
 # game/v4/scriptv4.rpy:1389
 translate turkish eb_b_505428d0:
 
     # u "(Hopefully Lauren didn't tell her about what happened...)"
-    u ""
+    u "(Umarım Lauren ona ne olduğunu anlatmamıştır...)"
 
 # game/v4/scriptv4.rpy:1394
 translate turkish eb_b_42ce5b24:
 
     # u "Uhm... hey Autumn."
-    u ""
+    u "Uhm... Selam Autumn."
 
 # game/v4/scriptv4.rpy:1403
 translate turkish eb_b_a33f90ea:
 
     # aut "Go away, creep."
-    aut ""
+    aut "Uzaklaş, sürüngen."
 
 # game/v4/scriptv4.rpy:1423
 translate turkish eb_a_42928bfa:
 
     # u "I'm sorry and I understand why Lauren is upset."
-    u ""
+    u "Üzgünüm ve Lauren'in neden üzgün olduğunu anlıyorum."
 
 # game/v4/scriptv4.rpy:1425
 translate turkish eb_a_82ef0373:
 
     # u "I just got carried away in the moment... I never meant to make her uncomfortable."
-    u ""
+    u "O anda kendimi kaptırdım... Onu hiç rahatsız etmek istemedim."
 
 # game/v4/scriptv4.rpy:1427
 translate turkish eb_a_8bc25f99:
 
     # u "You have to believe me. I care about Lauren, I'd never do anything to hurt her."
-    u ""
+    u "Bana inanmak zorundasın. Lauren'ı önemsiyorum, ona zarar verecek hiçbir şey yapmam."
 
 # game/v4/scriptv4.rpy:1438
 translate turkish popup7_3e6b49b9:
 
     # aut "[name]... I don't know."
-    aut ""
+    aut "[name]... Bilmiyorum.""
 
 # game/v4/scriptv4.rpy:1440
 translate turkish popup7_683cd2be:
 
     # aut "What you did was really messed up... you should have stopped when she told you to."
-    aut ""
+    aut "Yaptığın şey gerçekten berbattı... sana söylediğinde durmalıydın."
 
 # game/v4/scriptv4.rpy:1445
 translate turkish popup7_0c87bd9b:
 
     # u "I know and I'm really sorry. I'll never do anything like that again, I promise."
-    u ""
+    u "Biliyorum ve gerçekten üzgünüm. Bir daha asla böyle bir şey yapmayacağım, söz veriyorum."
 
 # game/v4/scriptv4.rpy:1450
 translate turkish popup7_e0e1e82f:
 
     # aut "Hmmm... I mean I can understand that stuff like this can happen. It's just..."
-    aut ""
+    aut "Hmmm ... Yani böyle şeylerin olabileceğini anlayabiliyorum. Bu sadece..."
 
 # game/v4/scriptv4.rpy:1452
 translate turkish popup7_d4c69cbb:
 
     # aut "You know what? I'll talk to Lauren about it."
-    aut ""
+    aut "Biliyor musun? Lauren'la konuşacağım."
 
 # game/v4/scriptv4.rpy:1457
 translate turkish popup7_d11ab6e4:
 
     # u "Thank you. Does that mean I can keep sitting here?"
-    u ""
+    u "Teşekkür ederim. Bu burada oturmaya devam edebileceğim anlamına mı geliyor?"
 
 # game/v4/scriptv4.rpy:1462
 translate turkish popup7_2ca338bb:
 
     # aut "Yeah, alright."
-    aut ""
+    aut "Evet, elbette."
 
 # game/v4/scriptv4.rpy:1472
 translate turkish popup7_2dae989f:
 
     # aut "Right. Well actions speak louder than words, [name]."
-    aut ""
+    aut "Doğru. Eh, eylemler kelimelerden daha yüksek sesle konuşur, [name]."
 
 # game/v4/scriptv4.rpy:1474
 translate turkish popup7_ca1a06a6:
 
     # aut "Now please leave me alone."
-    aut ""
+    aut "Şimdi lütfen beni yalnız bırak."
 
 # game/v4/scriptv4.rpy:1479
 translate turkish popup7_3a538381:
 
     # u "Fine. I'll sit somewhere else."
-    u ""
+    u "İyi. Başka bir yere oturacağım."
 
 # game/v4/scriptv4.rpy:1488
 translate turkish popup7_42ce5b24:
 
     # u "Uhm... hey Autumn."
-    u ""
+    u "Uhm... Selam Autumn."
 
 # game/v4/scriptv4.rpy:1498
 translate turkish popup7_833ebfe4:
 
     # aut "Hey, [name]. Haven't seen you in a while."
-    aut ""
+    aut "Hey, [name]. Seni bir süredir görmedim."
 
 # game/v4/scriptv4.rpy:1503
 translate turkish popup7_c0366a58:
 
     # u "You mean since you rescued me from Cameron?"
-    u ""
+    u "Beni Cameron'dan kurtardığından beri mi?"
 
 # game/v4/scriptv4.rpy:1508
 translate turkish popup7_991b0d48:
 
     # aut "Well, I wasn't gonna put it like that."
-    aut ""
+    aut "Ben öyle demeyecektim."
 
 # game/v4/scriptv4.rpy:1513
 translate turkish popup7_56eac2c1:
 
     # u "Haha it's okay, I'm still grateful. Do you mind if I sit down?"
-    u ""
+    u "Haha sorun değil, hala minnettarım. Oturmamda bir sakınca var mı?"
 
 # game/v4/scriptv4.rpy:1518
 translate turkish popup7_69f80e4d:
 
     # aut "Not at all."
-    aut ""
+    aut "Sorun değil."
 
 # game/v4/scriptv4.rpy:1530
 translate turkish popup7_42ce5b24_1:
 
     # u "Uhm... hey Autumn."
-    u ""
+    u "Uhm... Selam Autumn."
 
 # game/v4/scriptv4.rpy:1540
 translate turkish popup7_7d3309ee:
 
     # aut "Hey, [name]. I heard you went on a date with my sister last night."
-    aut ""
+    aut "Selam, [name]. Dün gece kız kardeşimle çıktığını duydum."
 
 # game/v4/scriptv4.rpy:1542
 translate turkish popup7_9f497fcc:
 
     # aut "How was it?"
-    aut ""
+    aut "Nasıldı?"
 
 # game/v4/scriptv4.rpy:1547
 translate turkish popup7_93fbfeff:
 
     # u "Yeah, it was good. We had a lot of fun."
-    u ""
+    u "Evet, iyi oldu. Çok eğlenceli bir oyun vardı."
 
 # game/v4/scriptv4.rpy:1549
 translate turkish popup7_92b0d7cb:
 
     # u "Do you mind if I sit down?"
-    u ""
+    u "Oturmamda bir sakınca var mı?"
 
 # game/v4/scriptv4.rpy:1554
 translate turkish popup7_69f80e4d_1:
 
     # aut "Not at all."
-    aut ""
+    aut "Sorun değil."
 
 # game/v4/scriptv4.rpy:1567
 translate turkish eb_ad_30dd3439:
 
     # aut "So uhm... what happened to your eye?"
-    aut ""
+    aut "Şey uhm... gözüne ne oldu?"
 
 # game/v4/scriptv4.rpy:1572
 translate turkish eb_ad_5b5af44b:
 
     # u "Oh, you know Grayson? He punched me at the Ape's rush party."
-    u ""
+    u "Grayson'ı tanıyor musun? Maymun partisinde beni yumrukladı."
 
 # game/v4/scriptv4.rpy:1577
 translate turkish eb_ad_83745215:
 
     # aut "Oh god, I'm so sorry."
-    aut ""
+    aut "Tanrım, çok üzgünüm."
 
 # game/v4/scriptv4.rpy:1582
 translate turkish eb_ad_46fbbddb:
 
     # u "Yeah, it's okay."
-    u ""
+    u "Evet, sorun değil."
 
 # game/v4/scriptv4.rpy:1584
 translate turkish eb_ad_de379c05:
 
     # u "What are you uhm, studying for?"
-    u ""
+    u "Uhm... Ne için çalışıyorsun?"
 
 # game/v4/scriptv4.rpy:1589
 translate turkish eb_ad_a6156a17:
 
     # aut "Well, I'm doing political science and I volunteered to write an essay on the government's contradictive stance on the feminist movement for extra credit."
-    aut ""
+    aut "Siyaset Bilimi hakkında çalışma yapıyorum ve hükümetin feminist hareket hakkındaki çelişkili tutumu hakkında ekstra kredi için bir makale yazmak için gönüllü oldum."
 
 # game/v4/scriptv4.rpy:1594
 translate turkish eb_ad_88f635f4:
 
     # u "Ahhh... go women, right?"
-    u ""
+    u "Ahhh... yaşasın kadınlar, değil mi?"
 
 # game/v4/scriptv4.rpy:1599
 translate turkish eb_ad_d23d679f:
 
-    # aut "Haha, yeah. Go women, well put."
+    # aut "Haha, evet. Yaşasın kadınlar, iyi laftı."
     aut ""
 
 # game/v4/scriptv4.rpy:1604
 translate turkish eb_ad_5d959a82:
 
     # u "So what do you do when you're not in the library?"
-    u ""
+    u "Kütüphane dışında ne yaparsın?"
 
 # game/v4/scriptv4.rpy:1609
 translate turkish eb_ad_dbfb84cd:
 
     # aut "Well... I play lacrosse, I volunteer at the local dog shelter and I smoke weed."
-    aut ""
+    aut "Yani... Lakros oynarım, yerel köpek barınağında gönüllü olurum ve ot içerim."
 
 # game/v4/scriptv4.rpy:1614
 translate turkish eb_ad_d0c490a2:
 
     # u "Ohhh, that's uh cool??"
-    u ""
+    u "Ohhh, bu iyi mi??"
 
 # game/v4/scriptv4.rpy:1619
 translate turkish eb_ad_a5e0d5ac:
 
     # aut "Haha I'm kidding... thought I'd throw you off a bit."
-    aut ""
+    aut "Haha şaka yapıyorum... seni biraz şaşırtayım dedim."
 
 # game/v4/scriptv4.rpy:1624
 translate turkish eb_ad_e28abd1e:
 
     # u "Haha, damn. You got me."
-    u ""
+    u "Haha, kahretsin. Beni yakaladın."
 
 # game/v4/scriptv4.rpy:1626
 translate turkish eb_ad_5d702393:
 
     # u "So you work at the local dog shelter? That's awesome, I love dogs, but my parents would never let me get one."
-    u ""
+    u "Yerel köpek barınağında mı çalışıyorsun? Bu harika, köpekleri severim, ama ailem asla bir tane almama izin vermez."
 
 # game/v4/scriptv4.rpy:1631
 translate turkish eb_ad_de5a708d:
 
     # aut "You should come by when I'm working and then you can play with some of them if you want. They're really friendly."
-    aut ""
+    aut "Ben çalışırken uğramalısın, sonra istersen bazılarıyla oynayabilirsin. Çok arkadaş canlısılar."
 
 # game/v4/scriptv4.rpy:1636
 translate turkish eb_ad_7386b273:
 
     # u "Oh my god, really? I'd love that, thank you so much."
-    u ""
+    u "Aman Tanrım, gerçekten mi? Çok isterim, çok teşekkür ederim."
 
 # game/v4/scriptv4.rpy:1641
 translate turkish eb_ad_ba201126:
 
     # aut "Yeah, no worries. I'm there Monday to Thursday so just swing by."
-    aut ""
+    aut "Evet, endişelenme. Pazartesiden Perşembeye oradayım, o zaman uğra."
 
 # game/v4/scriptv4.rpy:1646
 translate turkish eb_ad_1c84fe15:
 
     # u "Alright cool, I definitely will."
-    u ""
+    u "Tamam, harika, kesinlikle yapacağım."
 
 # game/v4/scriptv4.rpy:1648
 translate turkish eb_ad_276728c9:
 
     # u "I should probably start reading now, I have a lot to get through."
-    u ""
+    u "Muhtemelen şimdi okumaya başlamalıyım, üzerinden geçmem gereken çok şey var."
 
 # game/v4/scriptv4.rpy:1653
 translate turkish eb_ad_f86d900a:
 
     # aut "Yeah, I should get back to my research as well."
-    aut ""
+    aut "Evet, ben de araştırmama dönmeliyim."
 
 # game/v4/scriptv4.rpy:1667
 translate turkish readmontagec_a8f37fc4:
 
     # u "(Alright... time to dig in.)"
-    u ""
+    u "(Pekala... araştırma zamanı.)"
 
 # game/v4/scriptv4.rpy:1682
 translate turkish readmontagec_57b5975e:
 
     # u "(Okay, that's enough for now.)"
-    u ""
+    u "(Tamam, şimdilik bu kadar yeter.)"
 
 # game/v4/scriptv4.rpy:1694
 translate turkish readmontagec_95dda80b:
 
     # u "(Oh shit, there's Ryan.)"
-    u ""
+    u "(Ah siktir, İşte Ryan.)"
 
 # game/v4/scriptv4.rpy:1715
 translate turkish ec_a_55d5cf9e:
 
     # u "(Time to talk it out.)"
-    u ""
+    u "(Bunu konuşma zamanı.)"
 
 # game/v4/scriptv4.rpy:1720
 translate turkish ec_a_54d14436:
 
     # ry "[name]?"
-    ry ""
+    ry "[name]?"
 
 # game/v4/scriptv4.rpy:1727
 translate turkish ec_a_9f7b2c3a:
 
     # u "Ryan, can we talk about yesterday?"
-    u ""
+    u "Ryan, dün hakkında konuşabilir miyiz?"
 
 # game/v4/scriptv4.rpy:1732
 translate turkish ec_a_12176e95:
 
     # ry "Yeah, man. I messed up, I'm sorry."
-    ry ""
+    ry "Evet, dostum. Hata yaptım, özür dilerim."
 
 # game/v4/scriptv4.rpy:1741
 translate turkish ec_b_a7558262:
 
     # u "(I'll just walk straight past him.)"
-    u ""
+    u "(Sadece onun yanından geçeceğim.)"
 
 # game/v4/scriptv4.rpy:1746
 translate turkish ec_b_54d14436:
 
     # ry "[name]?"
-    ry ""
+    ry "[name]?"
 
 # game/v4/scriptv4.rpy:1753
 translate turkish ec_b_d444bc23:
 
     # ry "Hey, can we talk?"
-    ry ""
+    ry "Merhaba, konuşabilir miyiz?"
 
 # game/v4/scriptv4.rpy:1758
 translate turkish ec_b_3353b912:
 
     # u "Ok, let's talk."
-    u ""
+    u "Tamam, konuşalım."
 
 # game/v4/scriptv4.rpy:1763
 translate turkish ec_b_7b7cc938:
 
     # ry "Look, man. I messed up, I'm sorry."
-    ry ""
+    ry "Bak dostum. Hata yaptım, özür dilerim."
 
 # game/v4/scriptv4.rpy:1770
 translate turkish ec_bd_d0609648:
 
     # ry "I didn't mean to attack you like that. I just wanted to let you know about the things that I've heard. "
-    ry ""
+    ry "Sana öyle saldırmak istememiştim. Sadece duyduğum şeyler hakkında seni bilgilendirmek istedim."
 
 # game/v4/scriptv4.rpy:1772
 translate turkish ec_bd_0c716ca8:
 
     # ry "You know, so she doesn't play you."
-    ry ""
+    ry "Yani seninle oynamıyor."
 
 # game/v4/scriptv4.rpy:1777
 translate turkish ec_bd_d1b41516:
 
     # u "Dude, Chloe is no-"
-    u ""
+    u "Dostum, Chloe öyl-"
 
 # game/v4/scriptv4.rpy:1782
 translate turkish ec_bd_b8d264ac:
 
     # ry "I know, she's not that kind of person."
-    ry ""
+    ry "Biliyorum, o öyle biri değil."
 
 # game/v4/scriptv4.rpy:1784
 translate turkish ec_bd_d08abeb0:
 
     # ry "And maybe she's not..."
-    ry ""
+    ry "Ve belki de şey değil..."
 
 # game/v4/scriptv4.rpy:1786
 translate turkish ec_bd_5a26e1e8:
 
     # ry "But I'm just looking out for you, homie. Making sure, you see the bigger picture, you know what I mean?"
-    ry ""
+    ry "Ama ben sadece seni kolluyorum dostum. Emin ol, büyük resmi gördün, ne demek istediğimi anlıyor musun?"
 
 # game/v4/scriptv4.rpy:1791
 translate turkish ec_bd_a574f55c:
 
     # u "Yeah, I get what you mean."
-    u ""
+    u "Evet, ne demek istediğini anlıyorum."
 
 # game/v4/scriptv4.rpy:1796
 translate turkish ec_bd_f50c265e:
 
     # ry "So we're cool?"
-    ry ""
+    ry "İyi miyiz yani?"
 
 # game/v4/scriptv4.rpy:1802
 translate turkish ec_bd_bd7292e7:
 
     # u "Yeah, we're cool."
-    u ""
+    u "Evet, sorun yok."
 
 # game/v4/scriptv4.rpy:1807
 translate turkish ec_bd_9469b5f9:
 
     # ry "Awesome, man. I gotta go, I'll see you later."
-    ry ""
+    ry "Harika, dostum. Gitmeliyim, Sonra görüşürüz."
 
 # game/v4/scriptv4.rpy:1812
 translate turkish ec_bd_ea48acb1:
 
     # u "Yeah, see you later."
-    u ""
+    u "Evet, Sonra görüşürüz."
 
 # game/v4/scriptv4.rpy:1819
 translate turkish ec_bd_17079010:
 
     # u "*Yawn*"
-    u ""
+    u "*Esnemek*"
 
 # game/v4/scriptv4.rpy:1821
 translate turkish ec_bd_09e54a59:
 
     # u "(Why do I keep waking up in the middle of the night? It really fucks with my sleep.)"
-    u ""
+    u "(Neden gecenin ortasında uyanmaya devam ediyorum? Bu gerçekten uykumu bozuyor.)"
 
 # game/v4/scriptv4.rpy:1823
 translate turkish ec_bd_c812e1b1:
 
     # u "(I'll get a coffee, otherwise I'll be tired for the rest of the day.)"
-    u ""
+    u "(Bir kahve alacağım, aksi takdirde günün geri kalanında yorgun olacağım.)"
 
 # game/v4/scriptv4.rpy:1844
 translate turkish ec_bd_6ff50e9a:
 
     # u "(Shit, Penelope's here. I wonder if she's still mad at me...)"
-    u ""
+    u "(Kahretsin, Penelope burada. Bana hala kızgın mı merak ediyorum...)"
 
 # game/v4/scriptv4.rpy:1846
 translate turkish ec_bd_8fed4328:
 
     # u "(Maybe I should buy her something and apologize for peeking on her.)"
-    u ""
+    u "(Belki de ona bir şey almalı ve onu dikizlediğim için özür dilemeliyim.)"
 
 # game/v4/scriptv4.rpy:1850
 translate turkish ec_bd_f2173858:
 
     # clerk "Hello sir, what I can do for you?"
-    clerk ""
+    clerk "Merhaba efendim, sizin için ne yapabilirim?"
 
 # game/v4/scriptv4.rpy:1884
 translate turkish ed_a_db4134d4:
 
     # u "Can I get a muffin and a coffee please?"
-    u ""
+    u "Muffin ve kahve alabilir miyim lütfen?"
 
 # game/v4/scriptv4.rpy:1889
 translate turkish ed_a_e21af801:
 
     # clerk "Coming right up, sir."
-    clerk ""
+    clerk "Hemen geliyorum, efendim."
 
 # game/v4/scriptv4.rpy:1897
 translate turkish ed_b_6a44669d:
 
     # u "Two coffees please."
-    u ""
+    u "İki kahve lütfen."
 
 # game/v4/scriptv4.rpy:1902
 translate turkish ed_b_e21af801:
 
     # clerk "Coming right up, sir."
-    clerk ""
+    clerk "Hemen geliyorum, efendim."
 
 # game/v4/scriptv4.rpy:1913
 translate turkish ed_bd_1d6a0cc7:
 
     # u "Penelope?"
-    u ""
+    u "Penelope?"
 
 # game/v4/scriptv4.rpy:1923
 translate turkish ed_bd_6f7907ef:
 
     # pe "Wha- what are you doing here, [name]?"
-    pe ""
+    pe "Bu- burada ne arıyorsun, [name]?"
 
 # game/v4/scriptv4.rpy:1928
 translate turkish ed_bd_8184b887:
 
     # u "Look I'm sorry for what happened."
-    u ""
+    u "Olanlar için çok üzgünüm."
 
 # game/v4/scriptv4.rpy:1933
 translate turkish ed_bd_cd574ba8:
 
     # pe "Just- just go please. I don't feel comfortable around you anymore."
-    pe ""
+    pe "Lü- lütfen sadece git. Artık senin yanında rahat hissetmiyorum."
 
 # game/v4/scriptv4.rpy:1940
 translate turkish ed_bd_fdff1dbf:
 
     # u "Penelope, please... I brought you this muffin, I mean I saw you already had a coffee."
-    u ""
+    u "Penelope, lütfen... Sana bu muffini getirdim, yani kahve içtiğini gördüm."
 
 # game/v4/scriptv4.rpy:1942
 translate turkish ed_bd_bdbd741f:
 
     # u "I'm really sorry. Please can we just forget about it?"
-    u ""
+    u "Gerçekten çok üzgünüm. Lütfen unutabilir miyiz?"
 
 # game/v4/scriptv4.rpy:1947
 translate turkish ed_bd_0740df4a:
 
     # pe "Oh, that's really nice... I mean no, I mean I don't know. You broke my trust..."
-    pe ""
+    pe "Oh, bu çok hoş... Yani hayır, yani bilmiyorum. Güvenimi kırdın..."
 
 # game/v4/scriptv4.rpy:1949
 translate turkish ed_bd_aa1856b5:
 
     # pe "I thought you were my friend."
-    pe ""
+    pe "Arkadaşım olduğunu sanıyordum."
 
 # game/v4/scriptv4.rpy:1954
 translate turkish ed_bd_52d9dcf6:
 
     # u "I am your friend... come on."
-    u ""
+    u "Ben senin arkadaşınım... Hadi ama."
 
 # game/v4/scriptv4.rpy:1959
 translate turkish ed_bd_70a5099f:
 
     # pe "Okay uhm... you can sit down if you want."
-    pe ""
+    pe "Tamam uhm... istersen oturabilirsin."
 
 # game/v4/scriptv4.rpy:1963
 translate turkish ed_bd_a7041bd8:
 
     # u "Again, I'm really sorry."
-    u ""
+    u "Yine, gerçekten üzgünüm."
 
 # game/v4/scriptv4.rpy:1988
 translate turkish ef_a_1adae1c1:
 
     # pe "It's okay."
-    pe ""
+    pe "Sorun değil."
 
 # game/v4/scriptv4.rpy:2012
 translate turkish eg_a_5850a261:
 
     # pe "[name], what are you doing??"
-    pe ""
+    pe "[name], ne yapıyorsun??"
 
 # game/v4/scriptv4.rpy:2017
 translate turkish eg_a_a7e115cd:
 
     # u "Uhh... I uhm-"
-    u ""
+    u "Uhh... Ben uhm-"
 
 # game/v4/scriptv4.rpy:2022
 translate turkish eg_a_7d635033:
 
     # pe "Just 'cause I forgive you doesn't mean we have something."
-    pe ""
+    pe "Seni affetmem bir şey olduğumuz anlamına gelmez."
 
 # game/v4/scriptv4.rpy:2027
 translate turkish eg_a_2f9e054b:
 
     # u "Uhm, I should probably get going. Good to see you."
-    u ""
+    u "Uhm, sanırım gitsem iyi olacak. Seni görmek ne güzel."
 
 # game/v4/scriptv4.rpy:2036
 translate turkish ef_b_1adae1c1:
 
     # pe "It's okay."
-    pe ""
+    pe "Sorun değil."
 
 # game/v4/scriptv4.rpy:2043
 translate turkish eg_b_8d1cdc14:
 
     # u "Anyways, are you excited for history next week?"
-    u ""
+    u "Her neyse, gelecek hafta tarih dersi için heyecanlı mısın?"
 
 # game/v4/scriptv4.rpy:2053
 translate turkish eg_b_e58b1ea2:
 
     # u "Penelope, please... I got you a coffee."
-    u ""
+    u "Penelope, lütfen... Sana kahve getirdim."
 
 # game/v4/scriptv4.rpy:2055
 translate turkish eg_b_bdbd741f:
 
     # u "I'm really sorry. Please can we just forget about it?"
-    u ""
+    u "Gerçekten çok üzgünüm. Lütfen unutabilir miyiz?"
 
 # game/v4/scriptv4.rpy:2060
 translate turkish eg_b_f4815bc8:
 
     # pe "I already have a coffee. I don't need another one."
-    pe ""
+    pe "Zaten kahvem var. Başka bir kahveye ihtiyacım yok."
 
 # game/v4/scriptv4.rpy:2062
 translate turkish eg_b_44b8e0ce:
 
     # pe "I- I thought you were my friend and then you broke my trust."
-    pe ""
+    pe "Se- seni arkadaşım sandım ve sonra güvenimi kırdın."
 
 # game/v4/scriptv4.rpy:2067
 translate turkish eg_b_1163e371:
 
     # u "Penelope, I never-"
-    u ""
+    u "Penelope, ben asla-"
 
 # game/v4/scriptv4.rpy:2072
 translate turkish eg_b_4a2b5236:
 
     # pe "Stop! Just leave please. I don't wanna be friends with someone I can't trust."
-    pe ""
+    pe "Dur! Lütfen bırak. Güvenemeyeceğim biriyle arkadaş olmak istemiyorum."
 
 # game/v4/scriptv4.rpy:2077
 translate turkish eg_b_1dca0bec:
 
     # u "Alright... sorry."
-    u ""
+    u "Peki... Üzgünüm."
 
 # game/v4/scriptv4.rpy:2085
 translate turkish continueaa_40fb7627:
 
     # u "(Oh, Penelope's here, I should probably say hi.)"
-    u ""
+    u "(Oh, Penelope burada, muhtemelen Merhaba demeliyim.)"
 
 # game/v4/scriptv4.rpy:2090
 translate turkish continueaa_1d6a0cc7:
 
     # u "Penelope?"
-    u ""
+    u "Penelope?"
 
 # game/v4/scriptv4.rpy:2100
 translate turkish continueaa_f8d4c8bd:
 
     # pe "[name]!!!"
-    pe ""
+    pe "[name]!!!"
 
 # game/v4/scriptv4.rpy:2112
 translate turkish continueaa_10d00e75:
 
     # pe "Heyyy!"
-    pe ""
+    pe "Heyyy!"
 
 # game/v4/scriptv4.rpy:2116
 translate turkish continueaa_fefb8a1c:
 
     # pe "How did you know I was gonna be here?"
-    pe ""
+    pe "Burada olacağımı nereden biliyordun?"
 
 # game/v4/scriptv4.rpy:2137
 translate turkish eh_a_8b7dfbe5:
 
     # u "Magic powers, of course."
-    u ""
+    u "Sihirli güçler, elbette."
 
 # game/v4/scriptv4.rpy:2142
 translate turkish eh_a_869d0574:
 
     # pe "Haha, you're stupid."
-    pe ""
+    pe "Haha, aptalsın."
 
 # game/v4/scriptv4.rpy:2147
 translate turkish eh_a_bfe01d1d:
 
     # pe "You wanna sit down?"
-    pe ""
+    pe "Oturmak ister misin?"
 
 # game/v4/scriptv4.rpy:2152
 translate turkish eh_a_9064cdac:
 
     # u "Yeah, sure."
-    u ""
+    u "Evet, tabii."
 
 # game/v4/scriptv4.rpy:2161
 translate turkish eh_b_3bb854b6:
 
     # u "I didn't, but I'm glad I came now"
-    u ""
+    u "Yapmadım, ama şimdi geldiğime sevindim."
 
 # game/v4/scriptv4.rpy:2166
 translate turkish eh_b_fcf6fc2c:
 
     # pe "Well, me too! Wanna sit down?"
-    pe ""
+    pe "Güzel, ben de! Oturmak ister misin?"
 
 # game/v4/scriptv4.rpy:2171
 translate turkish eh_b_9064cdac:
 
     # u "Yeah, sure."
-    u ""
+    u "Evet tabi."
 
 # game/v4/scriptv4.rpy:2186
 translate turkish eh_b_40fb7627:
 
     # u "(Oh, Penelope's here, I should probably say hi.)"
-    u ""
+    u "(Oh, Penelope burada, muhtemelen Merhaba demeliyim.)"
 
 # game/v4/scriptv4.rpy:2191
 translate turkish eh_b_1d6a0cc7:
 
     # u "Penelope?"
-    u ""
+    u "Penelope?"
 
 # game/v4/scriptv4.rpy:2201
 translate turkish eh_b_9bfeb216:
 
     # pe "[name]! Heyyy."
-    pe ""
+    pe "[name]! Selammm."
 
 # game/v4/scriptv4.rpy:2204
 translate turkish eh_b_fefb8a1c:
 
     # pe "How did you know I was gonna be here?"
-    pe ""
+    pe "Burada olacağımı nereden biliyordun?"
 
 # game/v4/scriptv4.rpy:2225
 translate turkish ej_a_8b7dfbe5:
 
     # u "Magic powers, of course."
-    u ""
+    u "Sihirli güçler, elbette."
 
 # game/v4/scriptv4.rpy:2230
 translate turkish ej_a_869d0574:
 
     # pe "Haha, you're stupid."
-    pe ""
+    pe "Haha, aptalsın."
 
 # game/v4/scriptv4.rpy:2232
 translate turkish ej_a_bfe01d1d:
 
     # pe "You wanna sit down?"
-    pe ""
+    pe "Oturmak ister misin?"
 
 # game/v4/scriptv4.rpy:2237
 translate turkish ej_a_9064cdac:
 
     # u "Yeah, sure."
-    u ""
+    u "Evet, tabii."
 
 # game/v4/scriptv4.rpy:2246
 translate turkish ej_b_b7962dc0:
 
     # u "I didn't, but I'm glad I came now."
-    u ""
+    u "Yapmadım, ama şimdi geldiğime sevindim."
 
 # game/v4/scriptv4.rpy:2251
 translate turkish ej_b_fcf6fc2c:
 
     # pe "Well, me too! Wanna sit down?"
-    pe ""
+    pe "Güzel, ben de! Oturmak ister misin?"
 
 # game/v4/scriptv4.rpy:2256
 translate turkish ej_b_9064cdac:
 
     # u "Yeah, sure."
-    u ""
+    u "Evet, tabii."
 
 # game/v4/scriptv4.rpy:2269
 translate turkish ej_bd_64a0bd74:
 
     # u "Soo... are you excited for the history costume party next week?"
-    u ""
+    u "Eee... gelecek haftaki tarih dersi kostüm partisi için heyecanlı mısın?"
 
 # game/v4/scriptv4.rpy:2276
 translate turkish ef_bd_7a672509:
 
     # pe "I am! I love costumes, I hope someone comes as in a giant full-body animal one."
-    pe ""
+    pe "Öyleyim! Kostümleri seviyorum, umarım birisi dev bir hayvan kılığında gelir."
 
 # game/v4/scriptv4.rpy:2281
 translate turkish ef_bd_584286ad:
 
     # u "Penelope, you are aware that Mr. Lee said historically accurate, right?"
-    u ""
+    u "Penelope, Bay Lee'nin tarihsel olarak doğru söylediğinin farkındasın, değil mi?"
 
 # game/v4/scriptv4.rpy:2286
 translate turkish ef_bd_ad41ff7f:
 
     # pe "Aww, I forgot about that... why did he have to take all the fun out of it?"
-    pe ""
+    pe "Ah, unutmuşum... neden tüm eğlenceyi elinden almak zorunda kaldı?"
 
 # game/v4/scriptv4.rpy:2291
 translate turkish ef_bd_d6eca572:
 
     # u "I know, it's a shame."
-    u ""
+    u "Biliyorum, utanç verici."
 
 # game/v4/scriptv4.rpy:2293
 translate turkish ef_bd_9b357ad5:
 
     # u "What are you working on?"
-    u ""
+    u "Ne üzerinde çalışıyorsun?"
 
 # game/v4/scriptv4.rpy:2298
 translate turkish ef_bd_39ca1438:
 
     # pe "Uhm... nothing. Uni work. Homework. School stuff."
-    pe ""
+    pe ""Uhm... hiçbir şey. Universite işleri. Ödev. Okul işleri.""
 
 # game/v4/scriptv4.rpy:2300
 translate turkish ef_bd_c6c6cfe6:
 
     # pe "You know, nothing I shouldn't be doing."
-    pe ""
+    pe "Biliyor musun, yapmaması gereken bir şey yok."
 
 # game/v4/scriptv4.rpy:2305
 translate turkish ef_bd_9852faf3:
 
     # u "Haha, Penelope, that's not very convincing... Are you ok? You're acting weird."
-    u ""
+    u "Haha, Penelope, bu pek inandırıcı değil... İyi misin? Tuhaf davranıyorsun."
 
 # game/v4/scriptv4.rpy:2311
 translate turkish ef_bd_c937a32a:
 
     # pe "No, I'm not. You're acting weird!"
-    pe ""
+    pe "Hayır, değilim. Sen tuhaf davranıyorsun!"
 
 # game/v4/scriptv4.rpy:2313
 translate turkish ef_bd_3550c3f9:
 
     # pe "What are you working on? Huh?"
-    pe ""
+    pe "Ne üzerinde çalışıyorsun? Ha?"
 
 # game/v4/scriptv4.rpy:2318
 translate turkish ef_bd_431e01ab:
 
     # u "Uhm... nothing I just got here."
-    u ""
+    u "Uhm... hiçbir şey sadece burada şey var."
 
 # game/v4/scriptv4.rpy:2323
 translate turkish ef_bd_670189a2:
 
     # pe "Exactly."
-    pe ""
+    pe "Kesinlikle."
 
 # game/v4/scriptv4.rpy:2328
 translate turkish ef_bd_6ac11fe2:
 
     # u "Penelope, come on. You can tell me. I am the world champion of keeping secrets."
-    u ""
+    u "Penelope, hadi. Bana söyleyebilirsin. Ben sır saklamanın dünya şampiyonuyum."
 
 # game/v4/scriptv4.rpy:2330
 translate turkish ef_bd_6a0d8739:
 
     # u "Literally had to go through a whole international tournament."
-    u ""
+    u "Kelimenin tam anlamıyla tam bir uluslararası turnuvadan geçmek zorunda kaldı."
 
 # game/v4/scriptv4.rpy:2335
 translate turkish ef_bd_dc2091ea:
 
     # pe "*Chuckles* Why do you have to turn everything into a joke..."
-    pe ""
+    pe "*Kıkırdıyor* Neden her şeyi bir şakaya dönüştürmek zorundasın..."
 
 # game/v4/scriptv4.rpy:2340
 translate turkish ef_bd_4b18075a:
 
     # u "Okay, you don't have to tell me. But if I were you, I'd be more careful watching hardcore porn in a cafe."
-    u ""
+    u "Tamam, bana söylemene gerek yok. Ama yerinde olsam, bir kafede hardcore porno izlerken daha dikkatli olurdum."
 
 # game/v4/scriptv4.rpy:2342
 translate turkish ef_bd_816a08d7:
 
     # u "You don't wanna accidentally turn the speakers on, I mean we've all been there."
-    u ""
+    u "Hoparlörleri yanlışlıkla açmak istemezsin, yani hepimiz oradayız."
 
 # game/v4/scriptv4.rpy:2347
 translate turkish ef_bd_e9224c22:
 
     # pe "It's not porn!"
-    pe ""
+    pe "Porno değil!"
 
 # game/v4/scriptv4.rpy:2352
 translate turkish ef_bd_5722d9bd:
 
     # pe "I don't- I don't watch porn."
-    pe ""
+    pe "Ben- ben porno izlemem."
 
 # game/v4/scriptv4.rpy:2356
 translate turkish ef_bd_90cca9a4:
 
     # u "Now we're getting into an interesting topic."
-    u ""
+    u "Şimdi ilginç bir konuya giriyoruz."
 
 # game/v4/scriptv4.rpy:2376
 translate turkish ek_a_ecf336c6:
 
     # u "You know, we should watch some together sometime."
-    u ""
+    u "Birlikte bir ara biraz dikkat etmeliyiz."
 
 # game/v4/scriptv4.rpy:2381
 translate turkish ek_a_4678f49f:
 
     # pe "*Laughs* Ewww... I don't think we should"
-    pe ""
+    pe "*Gülüyor* Eww... Hiç gerek yok "
 
 # game/v4/scriptv4.rpy:2386
 translate turkish ek_a_d38f7af4:
 
     # u "The offer still stands, if you change your mind."
-    u ""
+    u "Fikrini değiştirirsen teklif hala geçerli."
 
 # game/v4/scriptv4.rpy:2391
 translate turkish ek_a_a08e4f34:
 
     # pe "Right, thank you."
-    pe ""
+    pe "Tamam, teşekkür ederim."
 
 # game/v4/scriptv4.rpy:2398
 translate turkish ek_b_5e3e36c3:
 
     # u "You know, you should try it sometime."
-    u ""
+    u "Biliyor musun, bir ara denemelisin."
 
 # game/v4/scriptv4.rpy:2403
 translate turkish ek_b_3ebee093:
 
     # pe "*Laughs* I don't know, I don't think I'd like it."
-    pe ""
+    pe "*Gülüyor* bilmiyorum, bundan hoşlanacağımı sanmıyorum."
 
 # game/v4/scriptv4.rpy:2408
 translate turkish ek_b_52c3bf4c:
 
     # u "Haha, I think you'd be surprised."
-    u ""
+    u "Haha, bence şaşıracaksın."
 
 # game/v4/scriptv4.rpy:2414
 translate turkish ek_ad_38bda28d:
 
     # pe "I have to go now and meet my friend. It uhm, it was nice to see you though."
-    pe ""
+    pe "Şimdi gidip arkadaşımla buluşmalıyım. Uhm, seni görmek güzeldi."
 
 # game/v4/scriptv4.rpy:2435
 translate turkish el_a_c66c1660:
 
     # u "It was nice to see you too."
-    u ""
+    u "Seni görmek de güzeldi."
 
 # game/v4/scriptv4.rpy:2437
 translate turkish el_a_c4e27a4e:
 
     # u "Hey, you wanna go bowling with me sometime next week?"
-    u ""
+    u "Gelecek hafta benimle bowling oynamak ister misin?"
 
 # game/v4/scriptv4.rpy:2442
 translate turkish el_a_6b5f01a9:
 
     # pe "I don't know, I have sooo much studying to do..."
-    pe ""
+    pe "Bilmiyorum, yapacak çok işim var..."
 
 # game/v4/scriptv4.rpy:2464
 translate turkish penea_aa789e2a:
 
     # u "Come on, having some fun won't ruin your grades, I promise."
-    u ""
+    u "Hadi ama, biraz eğlenmek notlarını bozmaz, söz veriyorum."
 
 # game/v4/scriptv4.rpy:2469
 translate turkish penea_a980505d:
 
     # pe "Hmmm... alright. Let's go bowling next week."
-    pe ""
+    pe "Hmmm... Peki. Haftaya bowlinge gidelim."
 
 # game/v4/scriptv4.rpy:2474
 translate turkish penea_7c58b1bd:
 
     # u "Cool, I'll see you."
-    u ""
+    u "Güzel, görüşürüz."
 
 # game/v4/scriptv4.rpy:2479
 translate turkish penea_81df4822:
 
     # pe "Yeah, uhm, see you soon."
-    pe ""
+    pe "Evet, uhm, yakında görüşürüz."
 
 # game/v4/scriptv4.rpy:2488
 translate turkish peneb_b92b0fd7:
 
     # u "What, scared you can't beat me?"
-    u ""
+    u "Beni yenemeyeceğinden mi korkuyorsun?"
 
 # game/v4/scriptv4.rpy:2493
 translate turkish peneb_8f85037b:
 
     # pe "Sorry, I- I really can't. I need to study."
-    pe ""
+    pe "Üzgünüm, Ben- ben gerçekten yapamam. Ders çalışmam gerekiyor."
 
 # game/v4/scriptv4.rpy:2498
 translate turkish peneb_ce5911bb:
 
     # u "Alright... no worries. I'll see you."
-    u ""
+    u "Pekala... Endişeye gerek yok. Görüşürüz."
 
 # game/v4/scriptv4.rpy:2503
 translate turkish peneb_81df4822:
 
     # pe "Yeah, uhm, see you soon."
-    pe ""
+    pe "Evet, uhm, yakında görüşürüz."
 
 # game/v4/scriptv4.rpy:2514
 translate turkish el_b_20df7a57:
 
     # u "Yeah, it was nice to see you too."
-    u ""
+    u "Evet, seni görmek de güzeldi."
 
 # game/v4/scriptv4.rpy:2519
 translate turkish el_b_5e7d41e0:
 
     # pe "Bye bye, I'll see you later."
-    pe ""
+    pe "Güle güle, Sonra görüşürüz."
 
 # game/v4/scriptv4.rpy:2524
 translate turkish el_b_ea48acb1:
 
     # u "Yeah, see you later."
-    u ""
+    u "Evet, Sonra görüşürüz."
 
 # game/v4/scriptv4.rpy:2536
 translate turkish eg_ad_7c9768ce:
 
     # u "(Shit, that didn't go as planned...)"
-    u ""
+    u "(Kahretsin, bu planlandığı gibi gitmedi...)"
 
 # game/v4/scriptv4.rpy:2546
 translate turkish el_ad_441977bc:
 
     # u "(I wonder what Penelope was doing on that laptop...)"
-    u ""
+    u "(Penelope'nin o dizüstü bilgisayarda ne yaptığını merak ediyorum...)"
 
 # game/v4/scriptv4.rpy:2564
 translate turkish phonew_e80c8a11:
 
     # u "(I should probably reply to my messages.)"
-    u ""
+    u "(Muhtemelen mesajlarıma cevap vermeliyim.)"
 
 # game/v4/scriptv4.rpy:2572
 translate turkish phonew_e11dc486:
 
     # u "(Fucking hell, I forgot how persistent Josh could be...)"
-    u ""
+    u "(Hay sikeyim, Josh'un ne kadar ısrarcı olabileceğini unuttum...)"
 
 # game/v4/scriptv4.rpy:2578
 translate turkish phonew_fc1c9a82:
 
     # u "(Okay, I need to make sure that I don't forget about meeting Chloe.)"
-    u ""
+    u "(Tamam, Chloe ile buluşmayı unutmadığımdan emin olmalıyım.)"
 
 # game/v4/scriptv4.rpy:2615
 translate turkish jorepa_173454a6:
 
     # jo "What's up, bro?"
-    jo ""
+    jo "Naber kanka?"
 
 # game/v4/scriptv4.rpy:2619
 translate turkish jorepa_650ed459:
 
     # jo "Picture of Amber did it, eh?"
-    jo ""
+    jo "Amber'in resmi yaptı, değil mi?"
 
 # game/v4/scriptv4.rpy:2624
 translate turkish jorepa_074869b7:
 
     # u "Oh, shut up."
-    u ""
+    u "Oh, kapa çeneni."
 
 # game/v4/scriptv4.rpy:2629
 translate turkish jorepa_c154e617:
 
     # jo "Hahaha."
-    jo ""
+    jo "Hahaha."
 
 # game/v4/scriptv4.rpy:2635
 translate turkish jorepa_d644615c:
 
     # jo "Come in."
-    jo ""
+    jo "İçeri gel."
 
 # game/v4/scriptv4.rpy:2645
 translate turkish continueae_eed4217d:
 
     # jo "Amber, Kim, this is [name]."
-    jo ""
+    jo "Amber, Kim, bu [name]."
 
 # game/v4/scriptv4.rpy:2650
 translate turkish continueae_f934acde:
 
     # am "Heyy! Nice black eye!"
-    am ""
+    am "Heyy! Güzel siyah gözler!"
 
 # game/v4/scriptv4.rpy:2655
 translate turkish continueae_2d200ac3:
 
     # ki "Hi."
-    ki ""
+    ki "Merhaba."
 
 # game/v4/scriptv4.rpy:2660
 translate turkish continueae_b81316f3:
 
     # jo "So, what's your drink of choice?"
-    jo ""
+    jo "Peki, ne içersiniz?"
 
 # game/v4/scriptv4.rpy:2666
 translate turkish continueae_79b43121:
 
     # u "I guess I'll take a beer."
-    u ""
+    u "Sanırım bir bira alacağım."
 
 # game/v4/scriptv4.rpy:2671
 translate turkish continueae_a69d87fd:
 
     # jo "Alright, champ. Coming up."
-    jo ""
+    jo "Pekala şampiyon. Geliyor."
 
 # game/v4/scriptv4.rpy:2677
 translate turkish continueae_27c51c79:
 
     # am "Are you gonna sit down with us? We won't bite."
-    am ""
+    am "Bizimle oturacak mısın? Isırmayacağız."
 
 # game/v4/scriptv4.rpy:2682
 translate turkish continueae_922809cb:
 
     # u "Damn I was really hoping you would though."
-    u ""
+    u "Lanet olsun, bunu yapacağını umuyordum."
 
 # game/v4/scriptv4.rpy:2687
 translate turkish continueae_e897e1f7:
 
     # am "Well then you'll have to get me a bit more drunk first."
-    am ""
+    am "O zaman önce beni biraz daha sarhoş etmelisin."
 
 # game/v4/scriptv4.rpy:2692
 translate turkish continueae_0110b4c3:
 
     # jo "Here you go, man."
-    jo ""
+    jo "Al bakalım dostum."
 
 # game/v4/scriptv4.rpy:2696
 translate turkish continueae_d7a669ab:
 
     # jo "I see you've taken my spot."
-    jo ""
+    jo "Görüyorum ki yerimi almışsın."
 
 # game/v4/scriptv4.rpy:2718
 translate turkish en_a_7b869730:
 
     # u "Oh, I can move if you want."
-    u ""
+    u "Oh, İstersen başka yere geçebilirim."
 
 # game/v4/scriptv4.rpy:2723
 translate turkish en_a_98bf79bc:
 
     # jo "Hahaha, buddy I'm just kidding, stay put."
-    jo ""
+    jo "Hahaha, dostum şaka yapıyorum, yerinde kal."
 
 # game/v4/scriptv4.rpy:2732
 translate turkish en_b_4d5c180d:
 
     # u "Yeah, I guess it's my spot now."
-    u ""
+    u "Evet, sanırım artık benim yerim."
 
 # game/v4/scriptv4.rpy:2737
 translate turkish en_b_9de3145e:
 
     # jo "Damn, alright. Hahaha."
-    jo ""
+    jo "Kahretsin, tamam. Hahaha."
 
 # game/v4/scriptv4.rpy:2744
 translate turkish en_ad_72c04019:
 
     # am "So, [name], have you thought about which fraternity you're gonna join, yet?"
-    am ""
+    am "Peki, [name], hangi kardeşliğe katılacağını düşündünüz mü?"
 
 # game/v4/scriptv4.rpy:2749
 translate turkish en_ad_605738d3:
 
     # u "Uhm, I-"
-    u ""
+    u "Uhm, ben-"
 
 # game/v4/scriptv4.rpy:2754
 translate turkish en_ad_93306785:
 
     # ki "Oh come on, this guy's obviously a Frog, look at him."
-    ki ""
+    ki "Hadi ama, bu adam kesinlikle bir Kurbağa, şuna bak."
 
 # game/v4/scriptv4.rpy:2759
 translate turkish en_ad_2163d5ea:
 
     # jo "My man [name]?? No way, he's a natural born fighter."
-    jo ""
+    jo "Adamım [name]?? Hayatta olmaz, doğuştan dövüşçüdür."
 
 # game/v4/scriptv4.rpy:2764
 translate turkish en_ad_49a9e742:
 
     # u "Uhm..."
-    u ""
+    u "Uhm..."
 
 # game/v4/scriptv4.rpy:2769
 translate turkish en_ad_d55a56e4:
 
     # u "I..."
-    u ""
+    u "Ben..."
 
 # game/v4/scriptv4.rpy:2789
 translate turkish eo_a_691f9f4f:
 
     # u "I'll join the Wolves."
-    u ""
+    u "Kurtlara katılacağım."
 
 # game/v4/scriptv4.rpy:2794
 translate turkish eo_a_85c6a2d8:
 
     # jo "See? I knew he was a fighter."
-    jo ""
+    jo "Gördün mü? Onun bir dövüşçü olduğunu biliyordum."
 
 # game/v4/scriptv4.rpy:2800
 translate turkish eo_b_016e2b64:
 
     # u "I don't know yet."
-    u ""
+    u "Henüz bilmiyorum."
 
 # game/v4/scriptv4.rpy:2805
 translate turkish eo_b_7f7f2ba3:
 
     # ki "Ha! Classic Frog."
-    ki ""
+    ki "Ha! Klasik Kurbağa."
 
 # game/v4/scriptv4.rpy:2815
 translate turkish eo_bd_d15e8c98:
 
     # am "I think you'd make a good fighter."
-    am ""
+    am "Bence iyi bir dövüşçü olursun."
 
 # game/v4/scriptv4.rpy:2817
 translate turkish eo_bd_44322343:
 
     # am "You already have the look."
-    am ""
+    am "Zaten öyle görünüyorsun."
 
 # game/v4/scriptv4.rpy:2822
 translate turkish eo_bd_5d8a50ac:
 
     # u "Haha, thanks."
-    u ""
+    u "Haha, teşekkürler."
 
 # game/v4/scriptv4.rpy:2827
 translate turkish eo_bd_0294aa7e:
 
     # jo "Alright, let's play some bangolo."
-    jo ""
+    jo "Pekala, biraz bangolo oynayalım."
 
 # game/v4/scriptv4.rpy:2832
 translate turkish eo_bd_1f6b7fe0:
 
     # u "What's bangolo?"
-    u ""
+    u "Bangolo nedir?"
 
 # game/v4/scriptv4.rpy:2837
 translate turkish eo_bd_25bdbb57:
 
     # am "It's this knock-off drinking game app that Josh has 'cause he doesn't wanna pay for the original."
-    am ""
+    am "Bu Josh'un bulduğu bu knock-off içme oyunu uygulaması çünkü orijinali için ödeme yapmak istemiyor."
 
 # game/v4/scriptv4.rpy:2842
 translate turkish eo_bd_06f67ce8:
 
     # jo "Hey, I just actually think it's better than the original, alright?"
-    jo ""
+    jo "Hey, aslında orijinalinden daha iyi olduğunu düşünüyorum, tamam mı?"
 
 # game/v4/scriptv4.rpy:2847
 translate turkish eo_bd_c0d8158f:
 
     # jo "The rules are simple. The phone gives us tasks and how many sips to drink if we lose or are selected in some way or another."
-    jo ""
+    jo "Kurallar basit. Telefon bize görevler verir ve bir şekilde ya da başka bir şekilde kaybedersek ya da seçilirsek kaç yudum içeceğimizi söyler."
 
 # game/v4/scriptv4.rpy:2867
 translate turkish jonewb_c0baa699:
 
     # u "Uhm, actually... I should stop here. I really have to go see my friend soon and I don't wanna be too drunk."
-    u ""
+    u "Uhm, aslında... Burada durmalıyım. Yakında arkadaşımı görmem gerekiyor ve çok sarhoş olmak istemiyorum."
 
 # game/v4/scriptv4.rpy:2872
 translate turkish jonewb_9852be81:
 
     # am "Oh come on, just stay a bit longer. You never know what you might miss out on."
-    am ""
+    am "Hadi ama, biraz daha kal. Neyi kaçırabileceğini asla bilemezsin."
 
 # game/v4/scriptv4.rpy:2888
 translate turkish jonewd_ea361c5e:
 
     # u "Sorry, I really gotta go. But maybe I'll uhm... come back later."
-    u ""
+    u "Üzgünüm, gerçekten gitmeliyim. Ama belki ben uhm ... daha sonra geleceğim."
 
 # game/v4/scriptv4.rpy:2897
 translate turkish jonewc_61f4cac3:
 
     # u "Alright, I'll stay a bit longer, let's play."
-    u ""
+    u "Tamam, biraz daha kalacağım, hadi oynayalım."
 
 # game/v4/scriptv4.rpy:2902
 translate turkish jonewc_e7cdd086:
 
     # am "Good choice."
-    am ""
+    am "İyi seçim."
 
 # game/v4/scriptv4.rpy:2911
 translate turkish jonewa_fce7648c:
 
     # u "Cool, sounds good."
-    u ""
+    u "Harika, kulağa hoş geliyor."
 
 # game/v4/scriptv4.rpy:2918
 translate turkish jonewe_e659dfbc:
 
     # jo "I just gotta put in our names."
-    jo ""
+    jo "Sadece isimlerimizi yazmalıyım."
 
 # game/v4/scriptv4.rpy:2934
 translate turkish jonewe_f21d3d0a:
 
     # jo "[name], do a handstand or drink three sips."
-    jo ""
+    jo "[name], amuda kalk ya da üç yudum iç."
 
 # game/v4/scriptv4.rpy:2939
 translate turkish jonewe_9ec4c9cb:
 
     # u "Uhhh..."
-    u ""
+    u "Uhhh..."
 
 # game/v4/scriptv4.rpy:2958
 translate turkish ep_b_bbaab250:
 
     # u "I'll drink."
-    u ""
+    u "İçeceğim."
 
 # game/v4/scriptv4.rpy:2968
 translate turkish ep_b_af9acf21:
 
     # am "Oh come on, I wanna see you do a handstand."
-    am ""
+    am "Hadi ama, amuda kalktığını görmek istiyorum."
 
 # game/v4/scriptv4.rpy:2975
 translate turkish ep_a_f65dd734:
 
     # u "You know what, I'll do it."
-    u ""
+    u "Biliyor musun, yapacağım."
 
 # game/v4/scriptv4.rpy:2997
 translate turkish ep_a_f07e883d:
 
     # am "Hahahaha!"
-    am ""
+    am "Hahahaha!"
 
 # game/v4/scriptv4.rpy:3007
 translate turkish ep_a_cdc88908:
 
     # jo "Kim, kiss one of the other players or finish your drink."
-    jo ""
+    jo "Kim, diğer oyunculardan birini öp ya da içkini bitir."
 
 # game/v4/scriptv4.rpy:3012
 translate turkish ep_a_94afe85c:
 
     # ki "Come on Amber, let's give these boys something to watch."
-    ki ""
+    ki "Hadi Amber, bu çocuklara izlemesi için bir şeyler verelim."
 
 # game/v4/scriptv4.rpy:3034
 translate turkish ep_a_d836c40a:
 
     # jo "Hell yeah!"
-    jo ""
+    jo "Yaşasın!"
 
 # game/v4/scriptv4.rpy:3044
 translate turkish ep_a_e1da5c53:
 
     # jo "Amber, who's the most attractive guy in the room?"
-    jo ""
+    jo "Amber, odadaki en çekici adam kim?"
 
 # game/v4/scriptv4.rpy:3049
 translate turkish ep_a_ae033f4e:
 
     # jo "Sorry about that, [name]. I don't want you to feel bad. I'm sure you're a close second."
-    jo ""
+    jo "Bunun için üzgünüm, [name]. Kendini kötü hissetmeni istemiyorum. Kılpayı kaçırdığına eminim."
 
 # game/v4/scriptv4.rpy:3054
 translate turkish ep_a_e79d3cc9:
 
     # am "Actually, I prefer fresh meat over here."
-    am ""
+    am "Aslında burada taze et tercih ederim."
 
 # game/v4/scriptv4.rpy:3059
 translate turkish ep_a_585ad7c3:
 
     # jo "What?"
-    jo ""
+    jo "Ne?"
 
 # game/v4/scriptv4.rpy:3064
 translate turkish ep_a_4309e613:
 
     # am "Not gonna lie, I'm kinda digging the black eye."
-    am ""
+    am "Yalan söylemeyeceğim, Siyah gözü seçiyorum."
 
 # game/v4/scriptv4.rpy:3069
 translate turkish ep_a_0d2fa712:
 
     # u "Thanks, I'm digging your regular eye too."
-    u ""
+    u "Teşekkürler, ben de senin normal gözünü beğeniyorum."
 
 # game/v4/scriptv4.rpy:3074
 translate turkish ep_a_d66e9176:
 
     # am "Hahaha."
-    am ""
+    am "Hahaha."
 
 # game/v4/scriptv4.rpy:3117
 translate turkish ep_a_7906f94c:
 
     # jo "*Drunk* Okayy... last one."
-    jo ""
+    jo "*Sarhoş* Tamam... son bir tane."
 
 # game/v4/scriptv4.rpy:3119
 translate turkish ep_a_6f04970a:
 
     # jo "*Drunk* [name], choose another player and do a tequila shot off of them."
-    jo ""
+    jo "*Sarhoş*[name], başka bir oyuncu seçin ve onlardan bir tekila yapın."
 
 # game/v4/scriptv4.rpy:3124
 translate turkish ep_a_7f817680:
 
     # jo "*Drunken Laugh* Nice one, mate."
-    jo ""
+    jo "*Sarhoş Kahkaha* güzel, dostum."
 
 # game/v4/scriptv4.rpy:3126
 translate turkish ep_a_f23f8ceb:
 
     # jo "*Drunk* So that means that you lick salt off their collarbone, then drink a shot of tequila out of their belly button and then bite into a lime that they're holding with their mouth."
-    jo ""
+    jo "*Sarhoş* Bu, köprücük kemiklerinden tuz yaladığınız, sonra göbek deliğinden bir bardak tekila içtiğiniz ve daha sonra ağzınızla tuttukları lime'ı ısırdığınız anlamına gelir."
 
 # game/v4/scriptv4.rpy:3128
 translate turkish ep_a_be5f51b5:
 
     # jo "*Drunk* I assume you won't pick me, so who's it gonna be?"
-    jo ""
+    jo "*Sarhoş* beni seçmeyeceğini varsayıyorum, o zaman kim olacak?"
 
 # game/v4/scriptv4.rpy:3133
 translate turkish ep_a_30745333:
 
     # jo "Amber?"
-    jo ""
+    jo "Amber?"
 
 # game/v4/scriptv4.rpy:3138
 translate turkish ep_a_9338284c:
 
     # jo "Or Kim?"
-    jo ""
+    jo "Ya da Kim?"
 
 # game/v4/scriptv4.rpy:3143
 translate turkish ep_a_7aa5ee22:
 
     # u "*Drunk* Uhh..."
-    u ""
+    u "*Sarhoş* Uhh..."
 
 # game/v4/scriptv4.rpy:3164
 translate turkish eq_a_4edf4b8d:
 
     # jo "*Drunk* Alright [name], lick the salt off her collarbone, drink the shot out of her belly button and bite the lime out of her mouth."
-    jo ""
+    jo "*Sarhoş* Tamam [name], köprücük kemiğinden tuz yalamak, göbek deliğinden shot atmak ve ağzından lime ısırmak."
 
 # game/v4/scriptv4.rpy:3210
 translate turkish er_a_2e9d9883:
 
     # u "*Spits*"
-    u ""
+    u "*Tükürüyor*"
 
 # game/v4/scriptv4.rpy:3219
 translate turkish er_a_5f5680c8:
 
     # "*Phone alarm goes off*"
-    ""
+    "*Telefon alarmı yanıp söner*"
 
 # game/v4/scriptv4.rpy:3235
 translate turkish er_b_2e9d9883:
 
     # u "*Spits*"
-    u ""
+    u "*Tükürüyor*"
 
 # game/v4/scriptv4.rpy:3242
 translate turkish er_b_f99b5c3c:
 
     # "*Phone alarm ringing*"
-    ""
+    "*Telefon alarmı çalar*"
 
 # game/v4/scriptv4.rpy:3251
 translate turkish eq_b_4edf4b8d:
 
     # jo "*Drunk* Alright [name], lick the salt off her collarbone, drink the shot out of her belly button and bite the lime out of her mouth."
-    jo ""
+    jo "*Sarhoş* Tamam [name], köprücük kemiğinden tuz yalamak, göbek deliğinden shot atmak ve ağzından lime ısırmak."
 
 # game/v4/scriptv4.rpy:3297
 translate turkish es_a_a7999c7a:
 
     # u "*Spit sound*"
-    u ""
+    u "*Tükürme sesi*"
 
 # game/v4/scriptv4.rpy:3302
 translate turkish es_a_133d1a3f:
 
     # ki "Mhhh... no."
-    ki ""
+    ki "Mhhh... hayır."
 
 # game/v4/scriptv4.rpy:3309
 translate turkish es_a_5f5680c8:
 
     # "*Phone alarm goes off*"
-    ""
+    "*Telefon alarmı yanıp söner*"
 
 # game/v4/scriptv4.rpy:3325
 translate turkish es_b_2e9d9883:
 
     # u "*Spits*"
-    u ""
+    u "*Tükürüyor*"
 
 # game/v4/scriptv4.rpy:3332
 translate turkish es_b_f99b5c3c:
 
     # "*Phone alarm ringing*"
-    ""
+    "*Telefon alarmı çalar*"
 
 # game/v4/scriptv4.rpy:3348
 translate turkish es_bd_4bc21722:
 
     # u "(Shit, I gotta go meet Chloe!)"
-    u ""
+    u "(Sktir, Chloe ile buluşmalıyım!)"
 
 # game/v4/scriptv4.rpy:3352
 translate turkish es_bd_b03cce99:
 
     # u "*Drunk* Guys, I really gotta go."
-    u ""
+    u "*Sarhoş* çocuklar, gerçekten gitmeliyim."
 
 # game/v4/scriptv4.rpy:3354
 translate turkish es_bd_09610840:
 
     # u "*Drunk* Maybe I- I'll come back later."
-    u ""
+    u "*Sarhoş* Be- belki daha sonra gelirim."
 
 # game/v4/scriptv4.rpy:3361
 translate turkish es_bd_16030c75:
 
     # u "(*Drunk* Okay, I- I just gotta ask her straight up.)"
-    u ""
+    u "(*Sarhoş* Tamam, O- ona hemen sormalıyım.)"
 
 # game/v4/scriptv4.rpy:3363
 translate turkish es_bd_b3822d0f:
 
     # u "(*Drunk* Does she- does she like me or is she just- just using me to get back at Grayson?)"
-    u ""
+    u "(*Sarhoş* O- benden hoşlanıyor mu yoksa sadece- sadece Grayson'dan intikam almak için beni mi kullanıyor?)"
 
 # game/v4/scriptv4.rpy:3373
 translate turkish es_bd_4f1997c1:
 
     # "*Knock knock knock*"
-    ""
+    "*Tık tık tık*"
 
 # game/v4/scriptv4.rpy:3382
 translate turkish es_bd_b2db8899:
 
     # cl "Hey. You wanna come in?"
-    cl ""
+    cl "Hey. İçeri gelmek ister misin?"
 
 # game/v4/scriptv4.rpy:3387
 translate turkish es_bd_0080dfa0:
 
     # u "*Drunk* Hey uh, actually... can we- can we talk outside first? I- I just wanna clear something up."
-    u ""
+    u "*Sarhoş* Hey uh, aslında... önce dışarıda konuşabilir miyiz? Ben sadece net bir şey istiyorum."
 
 # game/v4/scriptv4.rpy:3392
 translate turkish es_bd_779bc2cc:
 
     # cl "[name], are you drunk?"
-    cl ""
+    cl "[name], sarhoş musun?"
 
 # game/v4/scriptv4.rpy:3397
 translate turkish es_bd_72d4dead:
 
     # u "*Drunk* Nah, I just had a drink with some friends."
-    u ""
+    u "*Sarhoş* Yok ya, sadece arkadaşlarımla bir şeyler içtim."
 
 # game/v4/scriptv4.rpy:3402
 translate turkish es_bd_e182e941:
 
     # cl "Right... Let me just put on a sweater..."
-    cl ""
+    cl "Doğru... Kazak giyip geliyorum..."
 
 # game/v4/scriptv4.rpy:3407
 translate turkish es_bd_9b634cd2:
 
     # cl "So, what did you wanna talk to me about?"
-    cl ""
+    cl "Ee, benimle ne hakkında konuşmak istiyordun?"
 
 # game/v4/scriptv4.rpy:3412
 translate turkish es_bd_7925b371:
 
     # u "*Drunk* Well, Ryan... *deep breath* Ryan said you were playing me and just using me to get back at Grayson."
-    u ""
+    u "*Sarhoş* Şey, Ryan... *derin nefes* Ryan benimle oynadığını ve Grayson'dan intikam almak için beni kullandığını söyledi."
 
 # game/v4/scriptv4.rpy:3417
 translate turkish es_bd_d4db55dd:
 
     # cl "What?? [name], that's bullshit."
-    cl ""
+    cl "Ne?? [name], bu saçmalık."
 
 # game/v4/scriptv4.rpy:3422
 translate turkish es_bd_4704181f:
 
     # u "*Drunk* He said Grayson, he- he told him about a lot of shady shit that you did in the past."
-    u ""
+    u "*Sarhoş* Dedi ki Grayson, ona geçmişte yaptığın bir sürü şüpheli şeyden bahsetti."
 
 # game/v4/scriptv4.rpy:3426
 translate turkish es_bd_e4c40602:
 
     # cl "Well there you have it! Grayson put him up to this, just to fuck with me! I didn't do anything shady!"
-    cl ""
+    cl "İşte! Grayson onu bu işe soktu, sadece benimle uğraşmak için! Şüpheli bir şey yapmadım!"
 
 # game/v4/scriptv4.rpy:3450
 translate turkish eu_a_3c06ac2d:
 
     # u "*Drunk* You're lying! Yeah sure, the hottest girl in school wants me, the freshman who got beaten up at his first college party."
-    u ""
+    u "*Sarhoş* Yalan söylüyorsun! Evet, elbette, okuldaki en seksi kız beni istiyor, ilk üniversite partisinde dövülen birinci sınıf öğrencisi."
 
 # game/v4/scriptv4.rpy:3452
 translate turkish eu_a_630e0c6c:
 
     # u "*Drunk* Pretty realistic, isn't it?!"
-    u ""
+    u "*Sarhoş* Oldukça gerçekçi, değil mi?!"
 
 # game/v4/scriptv4.rpy:3457
 translate turkish eu_a_17de23f6:
 
     # cl "[name], I don't care about the fighting, or any of that shit. What Grayson did to you was pathetic. I like you 'cause you were funny and kind and ... and you cared."
-    cl ""
+    cl "[name], Ben bu boku mücadele, ya da başka bir şeyi dert etmiyorum. Grayson'ın sana yaptığı acınacak haldeydi. Senden hoşlanıyorum çünkü komik ve naziktin ... ve sen umursadın."
 
 # game/v4/scriptv4.rpy:3463
 translate turkish eu_b_d5b3da76:
 
     # u "*Drunk* Really?? Then why did you go after Grayson instead of helping me up when he knocked me out??"
-    u ""
+    u "*Sarhoş* Gerçekten mi?? O zaman neden beni bayılttığında bana yardım etmek yerine Grayson'ın peşinden gittin??"
 
 # game/v4/scriptv4.rpy:3468
 translate turkish eu_b_1e16adae:
 
     # cl "I- I..."
-    cl ""
+    cl "Ben- Ben..."
 
 # game/v4/scriptv4.rpy:3470
 translate turkish eu_b_a5093b42:
 
     # cl "I told him to stop, okay?? I didn't know if he was gonna hurt you even more."
-    cl ""
+    cl "Ona durmasını söyledim, tamam mı?? Sana daha fazla zarar verip vermeyeceğini bilmiyordum."
 
 # game/v4/scriptv4.rpy:3475
 translate turkish eu_b_2f9ba4ed:
 
     # u "*Drunk* Ryan said that you just saw his punch as a personal attack and didn't give one fuck about me being hurt. And you know what? Maybe he's right!"
-    u ""
+    u "*Sarhoş* Ryan, yumruğunu kişisel bir saldırı olarak gördüğünü ve incinmemi umursamadığını söyledi. Ve ne biliyor musun? Belki de haklıdır!"
 
 # game/v4/scriptv4.rpy:3480
 translate turkish eu_b_fd7e91c0:
 
     # cl "What have I ever done for you not to fucking trust me one bit?!"
-    cl ""
+    cl "Bana hiç güvenmemen için ne yaptım ben amk?!"
 
 # game/v4/scriptv4.rpy:3484
 translate turkish eu_b_32c157af:
 
     # u "*Drunk* Apparently a bunch of shady shit in the past!"
-    u ""
+    u "*Sarhoş* Görünüşe göre geçmişte bir sürü şüpheli bok!"
 
 # game/v4/scriptv4.rpy:3490
 translate turkish eu_b_6a8d31a8:
 
     # cl "*Gasp*"
-    cl ""
+    cl "*Soluk*"
 
 # game/v4/scriptv4.rpy:3492
 translate turkish eu_b_07eb5d33:
 
     # cl "You know how you can be sure I wasn't just using you?"
-    cl ""
+    cl "Sadece seni kullanmadığımdan nasıl emin olabilirsin biliyor musun?"
 
 # game/v4/scriptv4.rpy:3494
 translate turkish eu_b_59dbc30c:
 
     # cl "Because if I was using you, I would probably try to seduce you back into trusting me right now."
-    cl ""
+    cl "Çünkü seni kullanıyor olsaydım, muhtemelen şu anda bana güvenmen için seni baştan çıkarmaya çalışırdım."
 
 # game/v4/scriptv4.rpy:3496
 translate turkish eu_b_1619571b:
 
     # cl "But don't worry, I don't want that. We're done."
-    cl ""
+    cl "Ama merak etme, bunu istemiyorum. İşimiz bitti."
 
 # game/v4/scriptv4.rpy:3501
 translate turkish eu_b_a8756a7b:
 
     # u "*Drunk* Chloe!"
-    u ""
+    u "*Sarhoş* Chloe!"
 
 # game/v4/scriptv4.rpy:3508
 translate turkish eu_b_c7c1b3e8:
 
     # "*Door slam*"
-    ""
+    "*Kapıyı çarpar*"
 
 # game/v4/scriptv4.rpy:3513
 translate turkish eu_b_fae10745:
 
     # u "HNGGGG!"
-    u ""
+    u "HNGGGG!"
 
 # game/v4/scriptv4.rpy:3525
 translate turkish eu_b_ac6b696f:
 
     # u "Ah, fuck!"
-    u ""
+    u "Ah, siktir!"
 
 # game/v4/scriptv4.rpy:3527
 translate turkish eu_b_05148e1b:
 
     # unknown "[name], is that you??"
-    unknown ""
+    unknown "[name], sen misin??"
 
 # game/v4/scriptv4.rpy:3534
 translate turkish eu_b_9ea2f78c:
@@ -3004,165 +3004,165 @@ translate turkish eu_b_9ea2f78c:
 translate turkish eu_b_8d1e43e3:
 
     # u "Oh shit..."
-    u ""
+    u "Oh siktir..."
 
 translate turkish strings:
 
     # game/v4/scriptv4.rpy:56
     old "You should be more careful."
-    new ""
+    new "Daha dikkatli olmalısın."
 
     # game/v4/scriptv4.rpy:56
     old "Let's fuck him up."
-    new ""
+    new "Hadi onu mahvedelim."
 
     # game/v4/scriptv4.rpy:86
     old "Let me help."
-    new ""
+    new "Yardım etmeme izin ver."
 
     # game/v4/scriptv4.rpy:86
     old "That's a dumb idea."
-    new ""
+    new "Bu aptalca bir fikir."
 
     # game/v4/scriptv4.rpy:326
     old "Take responsibility"
-    new ""
+    new "Sorumluluk al"
 
     # game/v4/scriptv4.rpy:326
     old "Blame Ryan"
-    new ""
+    new "Ryan'ı Suçla"
 
     # game/v4/scriptv4.rpy:471
     old "Ask her to sleep here"
-    new ""
+    new "Burada uyumasını söyle."
 
     # game/v4/scriptv4.rpy:633
     old "Someone punched me."
-    new ""
+    new "Biri bana yumruk attı."
 
     # game/v4/scriptv4.rpy:633
     old "It was an accident."
-    new ""
+    new "Bir kazaydı."
 
     # game/v4/scriptv4.rpy:1069
     old "Buy it"
-    new ""
+    new "Satın al"
 
     # game/v4/scriptv4.rpy:1069
     old "Don't buy it"
-    new ""
+    new "Satın alma"
 
     # game/v4/scriptv4.rpy:1294
     old "Sit somewhere else"
-    new ""
+    new "Başka bir yere otur"
 
     # game/v4/scriptv4.rpy:1696
     old "Talk to him"
-    new ""
+    new "Onunla konuş"
 
     # game/v4/scriptv4.rpy:1696
     old "Ignore him"
-    new ""
+    new "Onu görmezden gel"
 
     # game/v4/scriptv4.rpy:1852
     old "Buy Penelope a muffin"
-    new ""
+    new "Penelope'ye bir muffin al"
 
     # game/v4/scriptv4.rpy:1852
     old "Buy Penelope a coffee"
-    new ""
+    new "Penelope'ye bir kahve al"
 
     # game/v4/scriptv4.rpy:1965
     old "Grab her hand"
-    new ""
+    new "Elini tut"
 
     # game/v4/scriptv4.rpy:2118
     old "Magic Powers."
-    new ""
+    new "Sihirli Güçler."
 
     # game/v4/scriptv4.rpy:2118
     old "I didn't."
-    new ""
+    new "Ben yapmadım."
 
     # game/v4/scriptv4.rpy:2358
     old "We should watch some."
-    new ""
+    new "Biraz izlemeliyiz."
 
     # game/v4/scriptv4.rpy:2358
     old "You should try it."
-    new ""
+    new "Sen de denemelisin."
 
     # game/v4/scriptv4.rpy:2417
     old "You wanna go bowling?"
-    new ""
+    new "Bowlinge gitmek ister misin?"
 
     # game/v4/scriptv4.rpy:2417
     old "Yeah, it was nice."
-    new ""
+    new "Evet, güzeldi."
 
     # game/v4/scriptv4.rpy:2444
     old "Encourage her"
-    new ""
+    new "Onu cesaretlendir"
 
     # game/v4/scriptv4.rpy:2444
     old "Tease her"
-    new ""
+    new "Onu kızdır"
 
     # game/v4/scriptv4.rpy:2699
     old "I can move."
-    new ""
+    new "Yer değiştirebilirim."
 
     # game/v4/scriptv4.rpy:2699
     old "It's my spot now."
-    new ""
+    new "Artık benim yerim."
 
     # game/v4/scriptv4.rpy:2775
     old "I'll join the Wolves."
-    new ""
+    new "Kurtlara katılacağım."
 
     # game/v4/scriptv4.rpy:2775
     old "I don't know yet."
-    new ""
+    new "Henüz bilmiyorum."
 
     # game/v4/scriptv4.rpy:2849
     old "Sounds good."
-    new ""
+    new "Kulağa hoş geliyor."
 
     # game/v4/scriptv4.rpy:2849
     old "I should stop here."
-    new ""
+    new "Burada durmalıyım."
 
     # game/v4/scriptv4.rpy:2874
     old "Alright, just for a bit."
-    new ""
+    new "Tamam, bir süreliğine."
 
     # game/v4/scriptv4.rpy:2874
     old "Sorry, I really can't."
-    new ""
+    new "Üzgünüm, gerçekten yapamam."
 
     # game/v4/scriptv4.rpy:2942
     old "Do a handstand"
-    new ""
+    new "Amuda kalk"
 
     # game/v4/scriptv4.rpy:2942
     old "Drink three sips"
-    new ""
+    new "Üç yudum iç"
 
     # game/v4/scriptv4.rpy:3145
     old "Amber"
-    new ""
+    new "Amber"
 
     # game/v4/scriptv4.rpy:3145
     old "Kim"
-    new ""
+    new "Kim"
 
     # game/v4/scriptv4.rpy:3428
     old "Accuse her of lying"
-    new ""
+    new "Onu yalan söylemekle suçla"
 
     # game/v4/scriptv4.rpy:3428
     old "Ask about the punch"
-    new ""
+    new "Yumruk hakkında sor"
 
 # TODO: Translation updated at 2021-05-09 05:18
 
