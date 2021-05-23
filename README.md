@@ -34,7 +34,7 @@ Progress | ?/all | Who is working on it? | Proofreading | Who is proofreading?
 -------- | -------- | --------- | --------- | ---------
 non script files | 0/2 | - | [ ] | -
 scriptv1-v2.rpy | 5983/9515 | Bibs2 | [ ] | -
-scriptv3.rpy | 3639/3639 | peacelocker125 | [ ] | -
+scriptv3.rpy | 3639/3639 | peacelocker125 | [X] | TheProfMilos
 scriptv4.rpy | 5653/5653 | TheProfMilos | [ ] | Differ
 scriptv5.rpy | 2305/2305 | TheProfMilos | [X] | Differ
 scriptv6.rpy | TBA | - | [ ] | -
