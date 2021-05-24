@@ -76,7 +76,7 @@ translate template_lang v2start_22ca126f:
 translate template_lang v2start_327c6541:
 
     # u "Hmm... maybe."
-    u "Ã‰... talvez."
+    u "Hãa... Talvez."
 
 # game/v2/v2.rpy:149
 translate template_lang v2start_c08fe457:
@@ -208,13 +208,13 @@ translate template_lang walk1_f9b61707:
 translate template_lang v1_tomShoutBack_a3367190:
 
     # u "The fuck did you just say to me?!"
-    u "Que porra que cÃª tÃ¡ falando aÃ­?!"
+    u "Que porra que cê tá falando aí?!"
 
 # game/v2/v2.rpy:292
 translate template_lang v1_tomShoutBack_d1389188:
 
     # tom "You heard me. You're a fucking bitch that tried to cockblock me."
-    tom "Isso mesmo que vocÃª ouviu. VocÃª Ã© um viadinho de merda que tentou me talaricar."
+    tom "Isso mesmo que você ouviu. Você é um viadinho de merda que tentou me talaricar."
 
 # game/v2/v2.rpy:297
 translate template_lang v1_tomShoutBack_d84467b5:
