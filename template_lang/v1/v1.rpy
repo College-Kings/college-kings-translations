@@ -4,7 +4,7 @@
 translate template_lang starta_cf384216:
 
     # em "I know what I did was bad..."
-    em ""
+    em "Eu sei que o que fiz foi errado..."
 
 # game/v1/v1.rpy:48
 translate template_lang starta_64fd2540:
@@ -4924,301 +4924,300 @@ translate template_lang strings:
 
     # game/v1/v1.rpy:7
     old "Cool :)"
-    new ""
+    new "Maneiro :)"
 
     # game/v1/v1.rpy:14
     old "Ugh :/"
-    new ""
+    new "Aff :/"
 
     # game/v1/v1.rpy:34
     old "Idk, it's just feels kinda weird now. Can we please just talk tomorrow?"
-    new ""
+    new "Sei lá, só parece meio estranho agora. Podemos conversar amanhã?"
 
     # game/v1/v1.rpy:35
     old "Fine"
-    new ""
+    new "Tá bom"
 
     # game/v1/v1.rpy:36
     old ":)"
-    new ""
+    new ":)"
 
     # game/v1/v1.rpy:68
     old "What's your name?"
-    new ""
+    new "Qual é seu nome?"
 
     # game/v1/v1.rpy:68
     old "Alex"
-    new ""
+    new "Alex"
 
     # game/v1/v1.rpy:167
     old "Hey...\nI know we haven’t talked much after we broke up, but I just wanted to let you know that I didn’t get into Stanford, so I’ll be going to San Vallejo as well.\nGuess I’ll see you there. :)"
-    new ""
+    new "Oi...\nEu sei que não nos falamos muito desde que terminamos, mas queria te avisar que eu não entrei pra Stanford então vou pra San Vallejo também. \nAcho que te vejo lá então. :)"
 
     # game/v1/v1.rpy:168
     old "Yeah... I’ll see you there."
-    new ""
+    new "É.. A gente se vê."
 
     # game/v1/v1.rpy:169
     old "You cheated on me.\nGo to hell!"
-    new ""
+    new "Você me traiu. \nVai pro inferno!"
 
     # game/v1/v1.rpy:203
     old "Could be fun"
-    new ""
+    new "Pode ser divertido"
 
     # game/v1/v1.rpy:437
     old "Inquire"
-    new ""
+    new "Perguntar"
 
     # game/v1/v1.rpy:615
     old "Make fun of Elijah"
-    new ""
+    new "Tire sarro do Elijah"
 
     # game/v1/v1.rpy:767
     old "Don't defend Autumn"
-    new ""
+    new "Não defenda Autumn"
 
     # game/v1/v1.rpy:767
     old "Defend Autumn"
-    new ""
+    new "Defenda Autumn"
 
     # game/v1/v1.rpy:792
     old "You're cuter"
-    new ""
+    new "Você é mais bonita"
 
     # game/v1/v1.rpy:792
     old "Yeah, kinda"
-    new ""
+    new "É, tipo isso"
 
     # game/v1/v1.rpy:873
     old "Hey honey,\nenjoy your time in college.\nStay safe and don't forget to visit me.\nLove you"
-    new ""
+    new "Oi querido,\naproveite seu tempo na faculdade.\nSe cuide e não esqueça de vir me visitar.\nAmo você."
 
     # game/v1/v1.rpy:874
     old "Love you too."
-    new ""
+    new "Amo você também."
 
     # game/v1/v1.rpy:875
     old "Thanks, Julia :)"
-    new ""
+    new "Obrigada, Julia :)"
 
     # game/v1/v1.rpy:913
     old "She's hot."
-    new ""
+    new "Ela é gostosa."
 
     # game/v1/v1.rpy:913
     old "She seems nice."
-    new ""
+    new "Ela parece legal."
 
     # game/v1/v1.rpy:1049
     old "So... the nerds?"
-    new ""
+    new "Então... os nerds?"
 
     # game/v1/v1.rpy:1049
     old "That's cool."
-    new ""
+    new "Que legal."
 
     # game/v1/v1.rpy:1305
     old "So, they're equally good?"
-    new ""
+    new "Então eles são igualmente bons?"
 
     # game/v1/v1.rpy:1305
     old "The Wolves sound sick."
-    new ""
+    new "Os Lobos parecem maneiros."
 
     # game/v1/v1.rpy:1425
     old "Hey Lauren, would you want to hang out with me and my friends tonight?"
-    new ""
+    new "Ei Lauren, quer dar um rolê comigo e uns amigos meus hoje à noite?"
 
     # game/v1/v1.rpy:1426
     old "Yeah sounds good :) Where do you wanna meet?"
-    new ""
+    new "Sim, de boa :) Onde vai ser?"
 
     # game/v1/v1.rpy:1427
     old "Just come to dorm 109 at 8"
-    new ""
+    new "É só vir no dormitório 109 às 8h"
 
     # game/v1/v1.rpy:1428
     old "Okay, will do"
-    new ""
+    new "Beleza, eu vou"
 
     # game/v1/v1.rpy:1429
     old "See you later, cutie"
-    new ""
+    new "Até mais tarde, gatinha"
 
     # game/v1/v1.rpy:1430
     old "Cool"
-    new ""
+    new "Beleza"
 
     # game/v1/v1.rpy:1679
     old "You're missing out"
-    new ""
+    new "Você não sabe o que tá perdendo"
 
     # game/v1/v1.rpy:1679
     old "Dodged a bullet there."
-    new ""
+    new "Desviei de uma bala aqui."
 
     # game/v1/v1.rpy:1761
     old "Take your shirt off"
-    new ""
+    new "Tire sua camisa"
 
     # game/v1/v1.rpy:1761
     old "Drink instead"
-    new ""
+    new "Beba"
 
     # game/v1/v1.rpy:1818
     old "Do it, or drink."
-    new ""
+    new "Faça, ou beba."
 
     # game/v1/v1.rpy:1818
     old "You're right."
-    new ""
+    new "Você está certo."
 
     # game/v1/v1.rpy:1872
     old "Riley's mine."
-    new ""
+    new "A Riley é minha."
 
     # game/v1/v1.rpy:1872
     old "They're both hot."
-    new ""
+    new "As duas são gostosas."
 
     # game/v1/v1.rpy:1884
     old "You're right, sorry."
-    new ""
+    new "Você está certo, foi mal."
 
     # game/v1/v1.rpy:1884
     old "She wants me."
-    new ""
+    new "Ela me quer."
 
     # game/v1/v1.rpy:2042
     old "Keep dreaming"
-    new ""
+    new "Vai sonhando"
 
     # game/v1/v1.rpy:2042
     old "Wake up"
-    new ""
+    new "Acorda"
 
     # game/v1/v1.rpy:2065
     old "Blowjob"
-    new ""
+    new "Boquete"
 
     # game/v1/v1.rpy:2065
     old "Footjob"
-    new ""
+    new "Punheta com os pés"
 
     # game/v1/v1.rpy:2403
     old "Move in with me?"
-    new ""
+    new "Vem morar comigo?"
 
     # game/v1/v1.rpy:2403
     old "Bad roommates suck."
-    new ""
+    new "Colegas de quarto ruins são uma merda."
 
     # game/v1/v1.rpy:2521
     old "You could get any guy."
-    new ""
+    new "Você pode pegar o cara que quiser."
 
     # game/v1/v1.rpy:2521
     old "Yet, you're here with me."
-    new ""
+    new "Ainda sim, você está aqui comigo."
 
     # game/v1/v1.rpy:2579
     old "I'm still in love with my ex."
-    new ""
+    new "Eu ainda amo minha ex."
 
     # game/v1/v1.rpy:2579
     old "I've broken into an Ikea."
-    new ""
+    new "Eu invadi o Walmart."
 
     # game/v1/v1.rpy:2728
     old "You're really beautiful."
-    new ""
+    new "Você é muito bonita."
 
     # game/v1/v1.rpy:2728
     old "You're not ugly."
-    new ""
+    new "Você não é feia."
 
     # game/v1/v1.rpy:2754
     old "Don't kiss her"
-    new ""
+    new "Não dê um beijo nela"
 
     # game/v1/v1.rpy:2916
     old "Hey man, it's Ryan.\nThe Apes' rush party is tonight at 9. You're coming, right???"
-    new ""
+    new "Ei mano, é o Ryan aqui.\nA festa dos Gorilas é hoje às 9h. Você vai, né???"
 
     # game/v1/v1.rpy:2917
     old "Alright, but I'll only stay for a few hours."
-    new ""
+    new "Tá bom, mas eu só vou ficar umas horinhas."
 
     # game/v1/v1.rpy:2918
     old "Haha, trust me, you're not gonna want to leave once you see all the hot chicks there."
-    new ""
+    new "Haha, acredite, você não vai querer ir embora depois que ver todas as minas gostosas que estarão lá."
 
     # game/v1/v1.rpy:2919
     old "Just meet me in front of the Apes' frat house at 9."
-    new ""
+    new "Me encontre na frente da casa dos Gorilas às 9h."
 
     # game/v1/v1.rpy:2920
     old "Okay, will do."
-    new ""
+    new "Tá bom, pode deixar."
 
     # game/v1/v1.rpy:3257
     old "Ask if she likes fighters"
-    new ""
+    new "Pergunte se ela gosta de lutadores"
 
     # game/v1/v1.rpy:3271
     old "Say you're a fighter"
-    new ""
+    new "Diga que você é um lutador"
 
     # game/v1/v1.rpy:3271
     old "Say you're not a fighter"
-    new ""
+    new "Diga que você não é um lutador"
 
     # game/v1/v1.rpy:3338
     old "I'll be the next Fight King."
-    new ""
+    new "Eu serei o próximo Rei da Luta."
 
     # game/v1/v1.rpy:3338
     old "No, that's not for me."
-    new ""
+    new "Não, isso não é pra mim."
 
     # game/v1/v1.rpy:3444
     old "Hey :)\nSorry about today.\n\nCan we talk tomorrow?"
-    new ""
+    new "Oie :)\nFoi mal por hoje.\n\nPodemos conversar amanhã?"
 
     # game/v1/v1.rpy:3445
     old "Yeah, sure."
-    new ""
+    new "Sim, claro."
 
     # game/v1/v1.rpy:3446
     old "What is there to talk about?"
-    new ""
+    new "O que é que tem pra conversar sobre?"
 
     # game/v1/v1.rpy:3465
     old "Yeah, he better watch out."
-    new ""
+    new "É, melhor ele ficar esperto."
 
     # game/v1/v1.rpy:3465
     old "I didn't wanna fight him."
-    new ""
+    new "Eu não queria brigar com ele."
 
     # game/v1/v1.rpy:3784
     old "You're right, I'll talk to her."
-    new ""
+    new "Você está certo, eu vou falar com ela."
 
     # game/v1/v1.rpy:3784
     old "She's occupied."
-    new ""
+    new "Ela está ocupada."
 
     # game/v1/v1.rpy:3890
     old "Make fun of him"
-    new ""
+    new "Tire sarro da cara dele"
 
     # game/v1/v1.rpy:3986
     old "Empathize"
-    new ""
+    new "Tenha empatia"
 
     # game/v1/v1.rpy:3986
     old "Poke fun"
-    new ""
-
+    new "Zoar"
