@@ -6,15 +6,8 @@ portuguese
  - Create a new branch for your language, name it after your language and copy the base files from main.
  - This will be your language name and will stay throughout the translation.
  - Switch to the new branch.
- - In the new branch, rename every "lang_base_translation" to the language name you chose earlier.
- - In the new branch, rename the folder "lang_base_translation" to the language name you chose earlier.
  - In the new branch, replace the "DO NOT EDIT MAIN BRANCH" at the top of this file to the language name you chose earlier.
  - If you need help with anything else, just ask Jany on discord.
-
-### How to update your language:
- - Make a pull request from the main branch to your language branch.
- - If it doesn't merge automatically, contact Jany on discord.
- - If it does merge automatically, make sure to rename every "lang_base_translation" to the language name from above in the new files.
 
 ### How to start translating a new part:
  - Clone the github repository to your local pc.
@@ -32,6 +25,7 @@ If you want to proofread your script again, there is a column for that as well, 
 
 Progress | ?/all | Who is working on it? | Proofreading | Who is proofreading?
 -------- | -------- | --------- | --------- | ---------
+<<<<<<< HEAD
 non script files | 0/2 | - | [ ] | -
 scriptv1-v2.rpy | 5983/9515 | Bibs2 | [ ] | -
 scriptv3.rpy | 3639/3639 | peacelocker125 | [X] | TheProfMilos
@@ -41,6 +35,18 @@ scriptv6.rpy | TBA | - | [ ] | -
 scriptv7.rpy |TBA | - | [ ] | -
 v08 files | TBA | - | [ ] | -
 v09 files | TBA | - | [ ] | -
+=======
+non script files | 0/3 | - | [ ] | -
+v01.rpy | 0/5225 | - | [ ] | -
+v02.rpy | 0/4221 | - | [ ] | -
+v03.rpy | 0/3636 | - | [ ] | -
+v04.rpy | 0/3227 | - | [ ] | -
+v05.rpy | 0/3498 | - | [ ] | -
+v06.rpy | 0/11645 | - | [ ] | -
+v07.rpy | 0/18403 | - | [ ] | -
+v08 files | 0/45 | - | [ ] | -
+v09 files | 0/42 | - | [ ] | -
+>>>>>>> c8f1544236bdb380568d076051c1d3cfdff7c5e2
 v10 files | TBA | - | [ ] | -
 
 Have fun!
