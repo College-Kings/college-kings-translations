@@ -4,49 +4,49 @@
 translate template_lang v2start_1bba6b51:
 
     # cl "*Muffled* Why did you do that?! We were just talking!"
-    cl "*Abafado* Por que vocÃª fez isso?! NÃ³s sÃ³ estÃ¡vamos conversando!"
+    cl "*Abafado* Por que você fez isso?! Não só estávamos conversando!"
 
 # game/v2/v2.rpy:89
 translate template_lang v2start_c3b1a1ef:
 
     # ry "*Muffled* [name]?! Are you okay??"
-    ry "*Abafado* [name]?! CÃª tÃ¡ bem??"
+    ry "*Abafado* [name]?! Você tá bem??"
 
 # game/v2/v2.rpy:98
 translate template_lang v2start_cb54d010:
 
     # imre "Hey man, did you have a good night?"
-    imre "E aÃ­, cara, a festa foi boa?"
+    imre "E aí­, cara, a festa foi boa?"
 
 # game/v2/v2.rpy:104
 translate template_lang v2start_20bec76e:
 
     # u "What? How did I get here?"
-    u "QuÃª? Como eu cheguei aqui?"
+    u "Quê? Como eu cheguei aqui?"
 
 # game/v2/v2.rpy:109
 translate template_lang v2start_b94dac9c:
 
     # imre "Some Ryan guy dropped you off, after you got yourself beaten up."
-    imre "Um tal de Ryan te trouxe de volta, depois que vocÃª apagou."
+    imre "Um tal de Ryan te trouxe de volta, depois que você apagou."
 
 # game/v2/v2.rpy:114
 translate template_lang v2start_7207f97e:
 
     # u "Shit... my head hurts so much."
-    u "Porra... Minha cabeÃ§a tÃ¡ estourando."
+    u "Porra... Minha cabeça tá estourando."
 
 # game/v2/v2.rpy:119
 translate template_lang v2start_1c5c1a81:
 
     # imre "I mean, have you seen your face?"
-    imre "Tipo, vocÃª jÃ¡ se olhou no espelho?"
+    imre "Tipo, você já se olhou no espelho?"
 
 # game/v2/v2.rpy:121
 translate template_lang v2start_1adeb7b0:
 
     # imre "Here, I took a picture last night when you came home."
-    imre "Ã“, eu tirei uma foto ontem quando vocÃª chegou."
+    imre "Aí, eu tirei uma foto ontem quando você chegou."
 
 # game/v2/v2.rpy:125
 translate template_lang v2start_9ea2f78c:
@@ -58,19 +58,19 @@ translate template_lang v2start_9ea2f78c:
 translate template_lang v2start_272f5aa4:
 
     # u "Man, Grayson is such an asshole. I didn't even do anything."
-    u "Mano, o Grayson Ã© um pau no cu do caralho. Eu nem fiz nada."
+    u "Mano, o Grayson é um pau no cu do caralho. Eu nem fiz nada."
 
 # game/v2/v2.rpy:135
 translate template_lang v2start_48095016:
 
     # imre "What did you expect? I told you the Apes are dogshit."
-    imre "E vocÃª esperava o quÃª? Os Gorilas sÃ£o uns bostas."
+    imre "E você esperava o quê? Os Gorilas são uns bostas."
 
 # game/v2/v2.rpy:137
 translate template_lang v2start_22ca126f:
 
     # imre "If you knew how to fight, maybe he wouldn't fuck with you."
-    imre "Se vocÃª soubesse lutar, talvez ele nÃ£o mexesse contigo"
+    imre "Se você soubesse lutar, talvez ele não mexesse contigo."
 
 # game/v2/v2.rpy:145
 translate template_lang v2start_327c6541:
@@ -82,49 +82,49 @@ translate template_lang v2start_327c6541:
 translate template_lang v2start_c08fe457:
 
     # imre "Just think about it, okay? I'll see you later."
-    imre "Pensa nisso, tÃ¡? A gente se vÃª mais tarde."
+    imre "Pensa nisso, tá? A gente se vê mais tarde."
 
 # game/v2/v2.rpy:156
 translate template_lang v2start_f558cfe4:
 
     # u "I'm not fighting. I'll just stay away from them."
-    u "Eu nÃ£o vou lutar. SÃ³ vou manter distÃ¢ncia desses caras."
+    u "Eu não vou lutar. Só vou manter distância desses caras."
 
 # game/v2/v2.rpy:161
 translate template_lang v2start_e8ead580:
 
     # imre "Dude, you don't know what Grayson's like."
-    imre "Cara, vocÃª nÃ£o sabe como o Grayson Ã©."
+    imre "Cara, você não sabe como o Grayson é."
 
 # game/v2/v2.rpy:163
 translate template_lang v2start_1e49a1b9:
 
     # imre "If he sees you looking at him wrong from now on, you'll end up in the hospital."
-    imre "A partir de agora, se ele achar que vocÃª tÃ¡ olhando torto pra ele, vocÃª vai parar no hospital."
+    imre "A partir de agora, se ele achar que você tá olhando torto pra ele, você vai parar no hospital."
 
 # game/v2/v2.rpy:171
 translate template_lang v2start_acb5bdce:
 
     # u "Look, I'll think about it. But don't get your hopes up."
-    u "Eu vou pensar nisso. Mas nÃ£o se anima nÃ£o, viu."
+    u "Eu vou pensar nisso. Mas não se anima não, viu."
 
 # game/v2/v2.rpy:175
 translate template_lang v2start_7098dbf0:
 
     # imre "That's all I'm asking for. I'll see you later."
-    imre "Era sÃ³ isso que eu queria. Vejo vocÃª depois."
+    imre "Era só isso que eu queria. Vejo você depois."
 
 # game/v2/v2.rpy:182
 translate template_lang v2start_0b7c44c3:
 
     # u "I'm not fighting. That's final."
-    u "Eu nÃ£o vou lutar. Ponto."
+    u "Eu não vou lutar. Ponto."
 
 # game/v2/v2.rpy:187
 translate template_lang v2start_a27d90a3:
 
     # imre "You're being stupid, man. Whatever, suit yourself."
-    imre "VocÃª tÃ¡ vacilando, cara. Mas tanto faz, vocÃª Ã© quem sabe."
+    imre "Você tá vacilando, cara. Mas tanto faz, você é quem sabe."
 
 # game/v2/v2.rpy:214
 translate template_lang bjj_bd_9ea2f78c:
@@ -136,19 +136,19 @@ translate template_lang bjj_bd_9ea2f78c:
 translate template_lang repeatb_b672f3b0:
 
     # u "(Damn, my phone's blowing up. I should probably check my messages.)"
-    u "(Meu celular tÃ¡ explodindo de notificaÃ§Ãµes. Eu deveria checar minhas mensagens.)"
+    u "(Meu celular tá explodindo de notificações. Eu deveria checar minhas mensagens.)"
 
 # game/v2/v2.rpy:227
 translate template_lang repeatb_82b726ed:
 
     # u "(Well, time to head to the cafe to meet Lauren.)"
-    u "(Bom, tÃ¡ na hora de encontrar a Lauren na cafeteria.)"
+    u "(Bom, tá na hora de encontrar a Lauren na cafeteria.)"
 
 # game/v2/v2.rpy:230
 translate template_lang repeatb_b7c5def3:
 
     # u "(There's too much on my mind to be dealing with Lauren right now.)"
-    u "(TÃ´ com a cabeÃ§a cheia demais pra lidar com a Lauren agora.)"
+    u "(Tá com a cabeça cheia demais pra lidar com a Lauren agora.)"
 
 # game/v2/v2.rpy:232
 translate template_lang repeatb_1ee1e1aa:
@@ -160,49 +160,49 @@ translate template_lang repeatb_1ee1e1aa:
 translate template_lang walk1_5d38ae25:
 
     # u "(I can't believe I got knocked out in front of everyone...)"
-    u "(Eu nÃ£o acredito que fui nocauteado na frente de todo mundo...)"
+    u "(Eu não acredito que fui nocauteado na frente de todo mundo...)"
 
 # game/v2/v2.rpy:243
 translate template_lang walk1_138f9c3b:
 
     # u "(Especially in front of Chloe, that's so humiliating.)"
-    u "(Principalmente na frente da Chloe, que humilhaÃ§Ã£o.)"
+    u "(Principalmente na frente da Chloe, que humilhação.)"
 
 # game/v2/v2.rpy:248
 translate template_lang walk1_3263fe5c:
 
     # u "(Is she dating Grayson? I really thought she was flirting with me.)"
-    u "(SerÃ¡ que eles estÃ£o namorando? Eu achei que ela tava flertando comigo.)"
+    u "(Será que eles estão namorando? Eu achei que ela tava flertando comigo.)"
 
 # game/v2/v2.rpy:250
 translate template_lang walk1_d91c9beb:
 
     # u "(But why would Grayson punch me otherwise?)"
-    u "(Mas se nÃ£o estiverem, porque diabos o Grayson me bateria?)"
+    u "(Mas se não estiverem, porque diabos o Grayson me bateria?)"
 
 # game/v2/v2.rpy:252
 translate template_lang walk1_ae5cc9c0:
 
     # u "(Just thinking about all this shit makes me so mad.)"
-    u "(SÃ³ de pensar nisso eu jÃ¡ fico puto.)"
+    u "(Só de pensar nisso eu já fico puto.)"
 
 # game/v2/v2.rpy:257
 translate template_lang walk1_4b258b6b:
 
     # tom "Eyy, Mr. steal-your-girl got beaten up. *laughs*"
-    tom "Ihh, olha lÃ¡! O Sr. Talarico tomou uma surra. *risadas*."
+    tom "Ihh, olha lá! O Sr. Talarico tomou uma surra. *risadas*."
 
 # game/v2/v2.rpy:259
 translate template_lang walk1_50708946:
 
     # tom "That's what you get for being such a little bitch."
-    tom "Ã‰ isso que vocÃª merece por ser um talarico de merda."
+    tom "É isso que você merece por ser um talarico de merda."
 
 # game/v2/v2.rpy:269
 translate template_lang walk1_f9b61707:
 
     # tom "Yeah, you better keep walking, pussy."
-    tom "Isso mesmo, melhor continuar andando, cuzÃ£o."
+    tom "Isso mesmo, melhor continuar andando, cuzão."
 
 # game/v2/v2.rpy:287
 translate template_lang v1_tomShoutBack_a3367190:
@@ -4217,4 +4217,3 @@ translate template_lang strings:
     # game/v2/v2.rpy:4097
     old "Be funny"
     new ""
-
