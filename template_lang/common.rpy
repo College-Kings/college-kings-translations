@@ -1,10 +1,6 @@
 ﻿# TODO: Translation updated at 2021-05-24 07:15
 
-<<<<<<< HEAD:template_lang/common.rpy
 translate template_lang strings:
-=======
-translate lang_base_translation strings:
->>>>>>> 0879753bd1b27dc3599a4b50ac502ae622c3e5fa:lang_base_translation/common.rpy
 
     # renpy/common/00accessibility.rpy:28
     old "Self-voicing disabled."
