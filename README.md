@@ -27,7 +27,7 @@ Progress | ?/all | Who is working on it? | Proofreading | Who is proofreading?
 -------- | -------- | --------- | --------- | ---------
 non script files | 0/3 | - | [ ] | -
 v01.rpy | 0/5225 | Bibs2 | [ ] | -
-v02.rpy | 0/4221 | Bibs2 | [ ] | -
+v02.rpy | 0/4221 | Bibs2 | [ ] | Differ
 v03.rpy | 0/3636 | peacelocker125 | [ ] | -
 v04.rpy | 0/3227 | TheProfMilos | [ ] | -
 v05.rpy | 0/3498 | TheProfMilos | [ ] | -
