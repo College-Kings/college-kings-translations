@@ -1288,7 +1288,7 @@ translate template_lang eb_a_8bc25f99:
 translate template_lang popup7_3e6b49b9:
 
     # aut "[name]... I don't know."
-    aut "[name]... Bilmiyorum.""
+    aut "[name]... Bilmiyorum."
 
 # game/v4/v4.rpy:1440
 translate template_lang popup7_683cd2be:
@@ -3524,7 +3524,7 @@ translate template_lang v4start_5edf54a9:
 translate template_lang v4start_1bd7f983:
 
     # u "Hey, that's not what I-"
-    u ""Hey, ben öyle değili-"
+    u "Hey, ben öyle değili-"
 
 # game/v4/v4.rpy:380
 translate template_lang v4start_453741fb:

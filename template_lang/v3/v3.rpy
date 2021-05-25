@@ -2704,7 +2704,7 @@ translate template_lang continueq_6d0eb153:
 translate template_lang continueq_60fb5707:
 
     # ri "So uhm [name]... How are you gonna get back at Grayson?"
-    ri ""Yani uhm [name]... Grayson'dan nasıl intikam alacaksın?"
+    ri "Yani uhm [name]... Grayson'dan nasıl intikam alacaksın?"
 
 # game/v3/v3.rpy:2813
 translate template_lang continueq_0c076e25:
@@ -3148,7 +3148,7 @@ translate template_lang continueq_e0381dbe:
 translate template_lang continueq_90f46289:
 
     # u "I know how much you care about honesty and I wanted to start this right."
-    u "Dürüstlüğü ne kadar önemsediğini biliyorum Ve doğruyu söyleyerek başlamak istedim.""
+    u "Dürüstlüğü ne kadar önemsediğini biliyorum Ve doğruyu söyleyerek başlamak istedim."
 
 # game/v3/v3.rpy:3213
 translate template_lang continueq_1392e01a:

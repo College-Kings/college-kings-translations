@@ -1240,7 +1240,7 @@ translate template_lang continueaf_1d52e490:
 translate template_lang continueaf_baeded33:
 
     # u "What? No, I'm just a friend looking for her, where is she?"
-    u "Ne? Hayır, sadece onu arayan bir arkadaşıyım, nerede o?""
+    u "Ne? Hayır, sadece onu arayan bir arkadaşıyım, nerede o?"
 
 # game/v5/v5.rpy:1721
 translate template_lang popup8_d49c0157:
