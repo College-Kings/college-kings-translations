@@ -1,18 +1,18 @@
 ﻿# TODO: Translation updated at 2021-05-09 03:37
 
-translate czech strings:
+translate template_lang strings:
 
     # renpy/common/00accessibility.rpy:28
     old "Self-voicing disabled."
     new "Samomluva vypnuta."
 
     # renpy/common/00accessibility.rpy:29
-    old "Clipboard voicing enabled."
-    new "Hlasová schránka zapnuta."
+    old "Clipboard voicing enabled. "
+    new "Hlasová schránka zapnuta. "
 
     # renpy/common/00accessibility.rpy:30
-    old "Self-voicing enabled."
-    new "Samomluva zapnuta."
+    old "Self-voicing enabled. "
+    new "Samomluva zapnuta. "
 
     # renpy/common/00accessibility.rpy:32
     old "bar"
