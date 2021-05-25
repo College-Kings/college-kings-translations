@@ -220,7 +220,7 @@ translate template_lang v1_tomShoutBack_d1389188:
 translate template_lang v1_tomShoutBack_d84467b5:
 
     # u "Dude, she wanted to talk to me. She was happy that you left. You bored her."
-    u "Cara, ela queria conversar comigo. Ela ficou foi feliz quando vocÃª saiu. VocÃª tava era entediando ela."
+    u "Cara, ela queria conversar comigo. Ela ficou foi feliz quando você saiu. Você tava era entediando ela."
 
 # game/v2/v2.rpy:306
 translate template_lang v1_tomShoutBack_8fff8082:
@@ -238,25 +238,25 @@ translate template_lang gb_9ea2f78c:
 translate template_lang tomtut1kick_4a328666:
 
     # tut "Great job! You've hit Tom and hurt him. He's now more likely to get tired, give up or even get knocked out."
-    tut "Bom trabalho! VocÃª acertou e machucou Tom. Agora Ã© mais provÃ¡vel que ele fique cansado, desista ou seja nocauteado."
+    tut "Bom trabalho! Você acertou e machucou Tom. Agora é mais provável que ele fique cansado, desista ou seja nocauteado."
 
 # game/v2/v2.rpy:335
 translate template_lang tomtut1kick_100eaacc:
 
     # tut "Beware, since you've let your guard down to attack, he's going to try and abuse it with an attack of his own."
-    tut "Cuidado, jÃ¡ que vocÃª baixou a guarda ao atacar, ele tentarÃ¡ abusar dessa vantagem atacando vocÃª."
+    tut "Cuidado, já que você baixou a guarda ao atacar, ele tentará abusar dessa vantagem atacando você."
 
 # game/v2/v2.rpy:343
 translate template_lang tomtut1kick_1e5dc8ea:
 
     # tut "Now it's time to block Tom's attack."
-    tut "Agora Ã© hora de bloquear o ataque do Tom."
+    tut "Agora é hora de bloquear o ataque do Tom."
 
 # game/v2/v2.rpy:346
 translate template_lang tomtut1kick_d4a34b79:
 
     # tut "{b}Q{/b} lets you block your head from heavy attacks such as hooks, which come from a slight angle."
-    tut "{b}Q{/b} permite que vocÃª proteja sua cabeÃ§a de ataque fortes como ganchos, que partem de um Ã¢ngulo leve."
+    tut "{b}Q{/b} permite que você proteja sua cabeça de ataque fortes como ganchos, que partem de um ãngulo leve."
 
 # game/v2/v2.rpy:348
 translate template_lang tomtut1kick_663a9d66:
@@ -268,37 +268,37 @@ translate template_lang tomtut1kick_663a9d66:
 translate template_lang tomtut1kick_d9713580:
 
     # tut "Lastly, you can protect your legs, from low kicks for example, by pressing {b}R{/b}."
-    tut "E por Ãºltimo, vocÃª pode proteger suas pernas de chutes baixos por exemplo, pressionando {b}R{/b}."
+    tut "E por último, você pode proteger suas pernas de chutes baixos por exemplo, pressionando {b}R{/b}."
 
 # game/v2/v2.rpy:352
 translate template_lang tomtut1kick_88ee0afc:
 
     # tut "As of right now, there's a hook flying at your head, press {b}Q{/b} in the upcoming screen in order to block it."
-    tut "Como agora hÃ¡ um gancho vindo em direÃ§Ã£o ao seu rosto, pressione {b}Q{/b} na prÃ³xima tela para poder bloqueÃ¡-lo."
+    tut "Como agora há um gancho vindo em direção ao seu rosto, pressione {b}Q{/b} na próxima tela para poder bloqueá-lo."
 
 # game/v2/v2.rpy:365
 translate template_lang tomtut1hook_f76b89d4:
 
     # tut "Yeah, why follow what the tutorial says?? It's not like it's trying to help you or anything."
-    tut "Ah, porque seguir as dicas do tutorial?? NÃ£o Ã© como se ele fosse te ajudar ou coisa do tipo."
+    tut "Ah, porque seguir as dicas do tutorial?? Não é como se ele fosse te ajudar ou coisa do tipo."
 
 # game/v2/v2.rpy:367
 translate template_lang tomtut1hook_e1d6e4d3:
 
     # tut "Because you decided to attack Tom's guarded areas, he was able to block your attack easily."
-    tut "JÃ¡ que vocÃª decidiu atacar Ã¡reas em que o Tom estava em guarda, ele foi capaz de bloquear seu ataque facilmente."
+    tut "Já que você decidiu atacar áreas em que o Tom estava em guarda, ele foi capaz de bloquear seu ataque facilmente."
 
 # game/v2/v2.rpy:369
 translate template_lang tomtut1hook_13b808cb:
 
     # tut "He can now counter attack."
-    tut "Agora ele poderÃ¡ contra-atacar."
+    tut "Agora ele poderá contra-atacar."
 
 # game/v2/v2.rpy:378
 translate template_lang tomtut1hook_d4a34b79:
 
     # tut "{b}Q{/b} lets you block your head from heavy attacks such as hooks, which come from a slight angle."
-    tut "{b}Q{/b} permite que vocÃª proteja sua cabeÃ§a de ataque fortes como ganchos, que partem de um Ã¢ngulo leve."
+    tut "{b}Q{/b} permite que você proteja sua cabeça de ataque fortes como ganchos, que partem de um ãngulo leve."
 
 # game/v2/v2.rpy:380
 translate template_lang tomtut1hook_663a9d66:
@@ -310,43 +310,43 @@ translate template_lang tomtut1hook_663a9d66:
 translate template_lang tomtut1hook_d9713580:
 
     # tut "Lastly, you can protect your legs, from low kicks for example, by pressing {b}R{/b}."
-    tut "E por Ãºltimo, vocÃª pode proteger suas pernas de chutes baixos por exemplo, pressionando {b}R{/b}."
+    tut "E por último, você pode proteger suas pernas de chutes baixos por exemplo, pressionando {b}R{/b}."
 
 # game/v2/v2.rpy:384
 translate template_lang tomtut1hook_edc85e50:
 
     # tut "As of right now, there's a jab flying at your face, press {b}W{/b} in the upcoming screen in order to block it."
-    tut "Como agora hÃ¡ um gancho vindo em direÃ§Ã£o ao seu rosto, pressione {b}Q{/b} na prÃ³xima tela para poder bloqueÃ¡-lo."
+    tut "Como agora há um gancho vindo em direção ao seu rosto, pressione {b}Q{/b} na próxima tela para poder bloqueá-lo."
 
 # game/v2/v2.rpy:397
 translate template_lang tomtut1jab_f76b89d4:
 
     # tut "Yeah, why follow what the tutorial says?? It's not like it's trying to help you or anything."
-    tut "Ah, porque seguir as dicas do tutorial?? NÃ£o Ã© como se ele fosse te ajudar ou coisa do tipo."
+    tut "Ah, porque seguir as dicas do tutorial?? Não é como se ele fosse te ajudar ou coisa do tipo."
 
 # game/v2/v2.rpy:399
 translate template_lang tomtut1jab_e1d6e4d3:
 
     # tut "Because you decided to attack Tom's guarded areas, he was able to block your attack easily."
-    tut "JÃ¡ que vocÃª decidiu atacar Ã¡reas em que o Tom estava em guarda, ele foi capaz de bloquear seu ataque facilmente."
+    tut "Já que você decidiu atacar áreas em que o Tom estava em guarda, ele foi capaz de bloquear seu ataque facilmente."
 
 # game/v2/v2.rpy:401
 translate template_lang tomtut1jab_13b808cb:
 
     # tut "He can now counter attack."
-    tut "Agora ele poderÃ¡ contra-atacar."
+    tut "Agora ele poderá contra-atacar."
 
 # game/v2/v2.rpy:410
 translate template_lang tomtut1jab_1e5dc8ea:
 
     # tut "Now it's time to block Tom's attack."
-    tut "Agora Ã© hora de bloquear o ataque do Tom."
+    tut "Agora é hora de bloquear o ataque do Tom."
 
 # game/v2/v2.rpy:413
 translate template_lang tomtut1jab_d4a34b79:
 
     # tut "{b}Q{/b} lets you block your head from heavy attacks such as hooks, which come from a slight angle."
-    tut "{b}Q{/b} permite que vocÃª proteja sua cabeÃ§a de ataque fortes como ganchos, que partem de um Ã¢ngulo leve."
+    tut "{b}Q{/b} permite que você proteja sua cabeça de ataque fortes como ganchos, que partem de um ãngulo leve."
 
 # game/v2/v2.rpy:415
 translate template_lang tomtut1jab_663a9d66:
@@ -358,61 +358,61 @@ translate template_lang tomtut1jab_663a9d66:
 translate template_lang tomtut1jab_d9713580:
 
     # tut "Lastly, you can protect your legs, from low kicks for example, by pressing {b}R{/b}."
-    tut "E por Ãºltimo, vocÃª pode proteger suas pernas de chutes baixos por exemplo, pressionando {b}R{/b}."
+    tut "E por último, você pode proteger suas pernas de chutes baixos por exemplo, pressionando {b}R{/b}."
 
 # game/v2/v2.rpy:419
 translate template_lang tomtut1jab_edc85e50:
 
     # tut "As of right now, there's a hook flying at your head, press {b}Q{/b} in the upcoming screen in order to block it."
-    tut "Como agora hÃ¡ um gancho vindo em direÃ§Ã£o ao seu rosto, pressione {b}Q{/b} na prÃ³xima tela para poder bloqueÃ¡-lo."
+    tut "Como agora há um gancho vindo em direção ao seu rosto, pressione {b}Q{/b} na próxima tela para poder bloqueá-lo."
 
 # game/v2/v2.rpy:430
 translate template_lang tuthookblock_5883b2bf:
 
     # tut "Great job, you blocked Tom's hook."
-    tut "Bom trabalho, vocÃª bloqueou o gancho do Tom."
+    tut "Bom trabalho, você bloqueou o gancho do Tom."
 
 # game/v2/v2.rpy:434
 translate template_lang tuthookblock_cd62240e:
 
     # tut "This ends the tutorial. The real fight will test your reaction times."
-    tut "Este Ã© o fim do tutorial. A luta de verdade testarÃ¡ seu tempo de reaÃ§Ã£o."
+    tut "Este é o fim do tutorial. A luta de verdade testará seu tempo de reação."
 
 # game/v2/v2.rpy:444
 translate template_lang tuthookhit_5d47b961:
 
     # tut "You did not block your head by pressing {b}Q{/b} and got hit. Next time, try to block the correct part of your body."
-    tut "VocÃª nÃ£o conseguiu proteger sua cabeÃ§a pressionando {b}Q{/b} e foi acertado. Na prÃ³xima vez, tente proteger a parte certa do seu corpo."
+    tut "Você não conseguiu proteger sua cabeça pressionando {b}Q{/b} e foi acertado. Na próxima vez, tente proteger a parte certa do seu corpo."
 
 # game/v2/v2.rpy:4597
 translate template_lang tuthookhit4_cd62240e:
 
     # tut "This ends the tutorial. The real fight will test your reaction times."
-    tut "Este Ã© o fim do tutorial. A luta de verdade testarÃ¡ seu tempo de reaÃ§Ã£o."
+    tut "Este é o fim do tutorial. A luta de verdade testará seu tempo de reação."
 
 # game/v2/v2.rpy:4609
 translate template_lang tutjabblock_07bee493:
 
     # tut "Great job, you blocked Tom's jab."
-    tut "Bom trabalho, vocÃª bloqueou o soco do Tom."
+    tut "Bom trabalho, você bloqueou o soco do Tom."
 
 # game/v2/v2.rpy:4613
 translate template_lang tutjabblock_cd62240e:
 
     # tut "This ends the tutorial. The real fight will test your reaction times."
-    tut "Este Ã© o fim do tutorial. A luta de verdade testarÃ¡ seu tempo de reaÃ§Ã£o."
+    tut "Este é o fim do tutorial. A luta de verdade testará seu tempo de reação."
 
 # game/v2/v2.rpy:4627
 translate template_lang tutjabhit2_a498ba41:
 
     # tut "You did not block your face by pressing {b}W{/b} and got hit. Next time, try to block the correct part of your body."
-    tut "VocÃª nÃ£o conseguiu proteger seu rosto pressionando {b}W{/b} e foi acertado. Na prÃ³xima vez, tente proteger a parte certa do seu corpo."
+    tut "Você não conseguiu proteger seu rosto pressionando {b}W{/b} e foi acertado. Na próxima vez, tente proteger a parte certa do seu corpo."
 
 # game/v2/v2.rpy:448
 translate template_lang tuthookhit_cd62240e:
 
     # tut "This ends the tutorial. The real fight will test your reaction times."
-    tut "Este Ã© o fim do tutorial. A luta de verdade testarÃ¡ seu tempo de reaÃ§Ã£o."
+    tut "Este é o fim do tutorial. A luta de verdade testará seu tempo de reação."
 
 # game/v2/v2.rpy:1056
 translate template_lang tomfinish6_9ea2f78c:
@@ -430,13 +430,13 @@ translate template_lang youfinish_07b0b527:
 translate template_lang v1_tomWalkAway_44158285:
 
     # u "(Fuck, I feel like shit...)"
-    u "(Porra, tÃ´ me sentindo malzÃ£o...)"
+    u "(Porra, tá me sentindo malzão...)"
 
 # game/v2/v2.rpy:1097
 translate template_lang v1_tomWalkAway_39872a73:
 
     # u "(Holy shit, I just knocked someone out...)"
-    u "(Puta que pariu, eu acabei de nocautear alguÃ©m...)"
+    u "(Puta que pariu, eu acabei de nocautear alguém...)"
 
 # game/v2/v2.rpy:1100
 translate template_lang v1_tomWalkAway_2b65b4ac:
@@ -448,31 +448,31 @@ translate template_lang v1_tomWalkAway_2b65b4ac:
 translate template_lang v1_tomWalkAway_3782e809:
 
     # u "(Also, what am I gonna do about Lauren? I can't avoid her forever.)"
-    u "(E agora, o que eu vou fazer sobre a Lauren? Eu nÃ£o posso evitÃ¡-la pra sempre.)"
+    u "(E agora, o que eu vou fazer sobre a Lauren? Eu não posso evitá-la pra sempre.)"
 
 # game/v2/v2.rpy:1116
 translate template_lang meet_lauren2_44158285:
 
     # u "(Fuck, I feel like shit...)"
-    u "(Porra, tÃ´ me sentindo malzÃ£o...)"
+    u "(Porra, tá me sentindo malzão...)"
 
 # game/v2/v2.rpy:1118
 translate template_lang meet_lauren2_d4b73dc2:
 
     # u "(Hopefully Lauren doesn't make a big deal out of my bruises.)"
-    u "(Tomara que a Lauren nÃ£o faÃ§a uma cena sobre esses meus machucados.)"
+    u "(Tomara que a Lauren não faça uma cena sobre esses meus machucados.)"
 
 # game/v2/v2.rpy:1123
 translate template_lang meet_lauren2_39872a73:
 
     # u "(Holy shit, I just knocked someone out...)"
-    u "(Puta que pariu, eu acabei de nocautear alguÃ©m...)"
+    u "(Puta que pariu, eu acabei de nocautear alguém...)"
 
 # game/v2/v2.rpy:1125
 translate template_lang meet_lauren2_d4b73dc2_1:
 
     # u "(Hopefully Lauren doesn't make a big deal out of my bruises.)"
-    u "(Tomara que a Lauren nÃ£o faÃ§a uma cena sobre esses meus machucados.)"
+    u "(Tomara que a Lauren não faça uma cena sobre esses meus machucados.)"
 
 # game/v2/v2.rpy:1130
 translate template_lang meet_lauren2_2b65b4ac:
@@ -484,7 +484,7 @@ translate template_lang meet_lauren2_2b65b4ac:
 translate template_lang meet_lauren2_d4b73dc2_2:
 
     # u "(Hopefully Lauren doesn't make a big deal out of my bruises.)"
-    u "(Tomara que a Lauren nÃ£o faÃ§a uma cena sobre esses meus machucados.)"
+    u "(Tomara que a Lauren não faça uma cena sobre esses meus machucados.)"
 
 # game/v2/v2.rpy:1137
 translate template_lang meet_lauren2_e6b1bdd2:
@@ -508,31 +508,31 @@ translate template_lang meet_lauren2_df593ecf:
 translate template_lang meet_lauren2_e214d6bc:
 
     # u "(And also I just got beaten up by another guy on the way here...)"
-    u "(E pra completar eu levei uma surra de outro cara Ã  caminho daqui.)"
+    u "(E pra completar eu levei uma surra de outro cara a caminho daqui.)"
 
 # game/v2/v2.rpy:1153
 translate template_lang meet_lauren2_ad5741e1:
 
     # u "(And also I just beat a guy up on the way here...)"
-    u "(E pra completar eu dei uma surra de outro cara Ã  caminho daqui.)"
+    u "(E pra completar eu dei uma surra de outro cara a caminho daqui.)"
 
 # game/v2/v2.rpy:1158
 translate template_lang meet_lauren2_7fca1bb1:
 
     # la "[name], fighting is so stupid. Please don't get sucked up into it. You're way too smart for that."
-    la "[name], lutar Ã© tÃ£o estÃºpido. Por favor nÃ£o entre nessa onda. VocÃª Ã© esperto de mais pra isso."
+    la "[name], lutar é tão estúpido. Por favor não entre nessa onda. Você é esperto de mais pra isso."
 
 # game/v2/v2.rpy:1163
 translate template_lang meet_lauren2_ee09bd0b:
 
     # u "No but... I didn't even do anything."
-    u "NÃ£o mas... Eu nem fiz nada."
+    u "Não mas... Eu nem fiz nada."
 
 # game/v2/v2.rpy:1168
 translate template_lang meet_lauren2_688b87bc:
 
     # la "Ugh okay...I hope that's true. Anyway..."
-    la "Aff, tÃ¡... Espero que seja verdade. Enfim..."
+    la "Aff, tá... Espero que seja verdade. Enfim..."
 
 # game/v2/v2.rpy:1173
 translate template_lang meet_lauren2_3448fcd8:
@@ -544,49 +544,49 @@ translate template_lang meet_lauren2_3448fcd8:
 translate template_lang meet_lauren2_11273ae0:
 
     # u "I know you stopped kissing me after about a second..."
-    u "Eu sei que vocÃª parou de me beijar depois de um segundo..."
+    u "Eu sei que você parou de me beijar depois de um segundo..."
 
 # game/v2/v2.rpy:1186
 translate template_lang meet_lauren2_7a806511:
 
     # u "But that second was amazing."
-    u "Mas aquele segundo foi incrÃ­vel."
+    u "Mas aquele segundo foi incrí­vel."
 
 # game/v2/v2.rpy:1188
 translate template_lang meet_lauren2_5730065e:
 
     # u "There was something real there and you know it."
-    u "Rolou um clima legal entre nÃ³s e vocÃª sabe disso."
+    u "Rolou um clima legal entre nós e você sabe disso."
 
 # game/v2/v2.rpy:1194
 translate template_lang meet_lauren2_6db93694:
 
     # u "I don't know why you pulled away when I tried to kiss you..."
-    u "Eu nÃ£o sei porque vocÃª se esquivou quando eu tentei te beijar..."
+    u "Eu não sei porque você se esquivou quando eu tentei te beijar..."
 
 # game/v2/v2.rpy:1196
 translate template_lang meet_lauren2_844ce18f:
 
     # u "Maybe you were scared..."
-    u "Talvez vocÃª estivesse com medo..."
+    u "Talvez você estivesse com medo..."
 
 # game/v2/v2.rpy:1198
 translate template_lang meet_lauren2_c44a599c:
 
     # u "But there was something real there and you know it."
-    u "Mas rolou um clima legal entre nÃ³s e vocÃª sabe disso."
+    u "Mas rolou um clima legal entre nós e você sabe disso."
 
 # game/v2/v2.rpy:1204
 translate template_lang meet_lauren2_ebe7bf78:
 
     # u "We had this moment where I wanted to kiss you, but I didn't..."
-    u "Teve aquela hora em que eu queria beijar vocÃª, mas nÃ£o beijei..."
+    u "Teve aquela hora em que eu queria beijar você, mas não beijei..."
 
 # game/v2/v2.rpy:1206
 translate template_lang meet_lauren2_b95d0f31:
 
     # u "And I should have. There was something real there. Between us."
-    u "Eu deveria ter beijado. Rolou um clima legal lÃ¡, entre nÃ³s."
+    u "Eu deveria ter beijado. Rolou um clima legal lá, entre nós."
 
 # game/v2/v2.rpy:1217
 translate template_lang meet_lauren2_9ea2f78c:
@@ -598,37 +598,37 @@ translate template_lang meet_lauren2_9ea2f78c:
 translate template_lang meet_lauren2_9fb6f14e:
 
     # la "Maybe you're right."
-    la "Talvez vocÃª esteja certo."
+    la "Talvez você esteja certo."
 
 # game/v2/v2.rpy:1231
 translate template_lang meet_lauren2_3b15f6f6:
 
     # u "Then let's go on a date. A real date."
-    u "EntÃ£o vamos sair juntos. Um encontro de verdade."
+    u "Então vamos sair juntos. Um encontro de verdade."
 
 # game/v2/v2.rpy:1233
 translate template_lang meet_lauren2_15fed8b3:
 
     # u "How about the movies? Tomorrow night."
-    u "O que vocÃª acha de Ã­rmos ao cinema? AmanhÃ£ Ã  noite?"
+    u "O que você acha de í­rmos ao cinema? Amanhã á noite?"
 
 # game/v2/v2.rpy:1238
 translate template_lang meet_lauren2_511d9712:
 
     # la "Okay yeah, let's do it."
-    la "EntÃ£o tÃ¡, vamos sim."
+    la "Então tá, vamos sim."
 
 # game/v2/v2.rpy:1243
 translate template_lang meet_lauren2_d09702c4:
 
     # u "I'm really sorry, I'm late for class, but I'll see you tomorrow."
-    u "Eu sinto muito, Ã© que eu estou atrasado pra aula, mas vejo vocÃª amanhÃ£."
+    u "Eu sinto muito, é que eu estou atrasado pra aula, mas vejo você amanhã."
 
 # game/v2/v2.rpy:1248
 translate template_lang meet_lauren2_2f27993f:
 
     # la "Alright, see you tomorrow."
-    la "TÃ¡ bom, atÃ© amanhÃ£."
+    la "Tá bom, até amanhã."
 
 # game/v2/v2.rpy:1254
 translate template_lang meet_lauren2_2b7cfd0c:
@@ -640,31 +640,31 @@ translate template_lang meet_lauren2_2b7cfd0c:
 translate template_lang meet_lauren2_552d7a75:
 
     # la "[name], I really like you..."
-    la "[name], eu realmente gosto de vocÃª..."
+    la "[name], eu realmente gosto de você..."
 
 # game/v2/v2.rpy:1262
 translate template_lang meet_lauren2_33db1fc8:
 
     # la "... but I think we're just better as friends."
-    la "... mas eu acho que seria melhor se continuÃ¡ssemos amigos."
+    la "... mas eu acho que seria melhor se continuássemos amigos."
 
 # game/v2/v2.rpy:1264
 translate template_lang meet_lauren2_616ab277:
 
     # la "I don't wanna jeopardize our friendship."
-    la "Eu nÃ£o quero estragar nossa amizade."
+    la "Eu não quero estragar nossa amizade."
 
 # game/v2/v2.rpy:1273
 translate template_lang meet_lauren2_577bd505:
 
     # u "Lauren, please... give me a chance."
-    u "Lauren, por favor... me dÃ¡ uma chande."
+    u "Lauren, por favor... me dá uma chance."
 
 # game/v2/v2.rpy:1278
 translate template_lang meet_lauren2_c73b9d6b:
 
     # la "[name], I'm sorry. I just don't think we're right for each other."
-    la "[name], me desculpa. Eu sÃ³ nÃ£o acho que nÃ³s combinamos."
+    la "[name], me desculpa. Eu só não acho que nós combinamos."
 
 # game/v2/v2.rpy:1280
 translate template_lang meet_lauren2_79a78785:
@@ -676,7 +676,7 @@ translate template_lang meet_lauren2_79a78785:
 translate template_lang meet_lauren2_2b674013:
 
     # u "Okay..."
-    u "TÃ¡ bom..."
+    u "Tá bom..."
 
 # game/v2/v2.rpy:1290
 translate template_lang meet_lauren2_beb44c26:
@@ -694,19 +694,19 @@ translate template_lang meet_lauren2_37371914:
 translate template_lang meet_lauren2_43c3a3a3:
 
     # u "Yeah, you're probably right. Let's just forget about it."
-    u "Ã‰, acho que vocÃª tÃ¡ certa. Vamos sÃ³ esquecer isso."
+    u "É, acho que você tá certa. Vamos só esquecer isso."
 
 # game/v2/v2.rpy:1304
 translate template_lang meet_lauren2_b046b9b4:
 
     # u "I'm late for class, but I'll see you later, okay?"
-    u "Eu estou atrasado pra aula agora, mas vejo vocÃª depois, ok?"
+    u "Eu estou atrasado pra aula agora, mas vejo você depois, ok?"
 
 # game/v2/v2.rpy:1309
 translate template_lang meet_lauren2_4ffa044c:
 
     # la "Yeah, okay."
-    la "Ã‰, tÃ¡ bom."
+    la "É, tá bom."
 
 # game/v2/v2.rpy:1315
 translate template_lang meet_lauren2_2b7cfd0c_1:
@@ -718,7 +718,7 @@ translate template_lang meet_lauren2_2b7cfd0c_1:
 translate template_lang meet_lauren2_fee0ddc2:
 
     # u "That was uhm... nothing."
-    u "Aquilo nÃ£o foi hÃ£... nada."
+    u "Aquilo não foi hm... nada."
 
 # game/v2/v2.rpy:1327
 translate template_lang meet_lauren2_9fe27ce9:
@@ -730,13 +730,13 @@ translate template_lang meet_lauren2_9fe27ce9:
 translate template_lang meet_lauren2_849f7aad:
 
     # u "I mean nothing happened... Maybe it was awkward, but let's just forget about it."
-    u "Mas tipo, nada aconteceu mesmo... Pode atÃ© ter sido um pouco estranho, mas vamos sÃ³ deixar pra lÃ¡."
+    u "Mas tipo, nada aconteceu mesmo... Pode até ter sido um pouco estranho, mas vamos só deixar pra lá."
 
 # game/v2/v2.rpy:1332
 translate template_lang meet_lauren2_37309bcc:
 
     # u "We just spent some nice time in the park together... as friends."
-    u "NÃ³s sÃ³ demos um rolÃª no parque juntos... como amigos."
+    u "Nós só demos um rolê no parque juntos... como amigos."
 
 # game/v2/v2.rpy:1337
 translate template_lang meet_lauren2_9ea2f78c_1:
@@ -754,13 +754,13 @@ translate template_lang meet_lauren2_08180b4e:
 translate template_lang meet_lauren2_61cc3320:
 
     # u "Yeah, I'm glad too."
-    u "Ã‰, eu tambÃ©m."
+    u "É, eu também."
 
 # game/v2/v2.rpy:1349
 translate template_lang meet_lauren2_cc44b100:
 
     # u "I have class right now, but I'll see you later, okay?"
-    u "Eu tenho que ir pra aula agora, mas vejo vocÃª depois, ok?"
+    u "Eu tenho que ir pra aula agora, mas vejo você depois, ok?"
 
 # game/v2/v2.rpy:1354
 translate template_lang meet_lauren2_f3ad4c25:
@@ -802,7 +802,7 @@ translate template_lang history2_090822b7:
 translate template_lang history2_f060bafd:
 
     # u "Nah, his name's Tom, I think."
-    u "NÃ£o, o nome dele Ã© Tom, eu acho."
+    u "Não, o nome dele é Tom, eu acho."
 
 # game/v2/v2.rpy:1409
 translate template_lang history2_3fb49481:
@@ -814,55 +814,55 @@ translate template_lang history2_3fb49481:
 translate template_lang history2_84b92164:
 
     # u "I don't know, he walked by me on my way to meet with Lauren and just started to insult me."
-    u "Eu nÃ£o sei, ele passou por mim na rua enquanto eu estava indo me encontrar com a Lauren e daÃ­ comeÃ§ou a me xingar."
+    u "Eu não sei, ele passou por mim na rua enquanto eu estava indo me encontrar com a Lauren e daí começou a me xingar."
 
 # game/v2/v2.rpy:1419
 translate template_lang history2_a0e2f480:
 
     # u "I don't know, he walked by me on my walk and just started to insult me."
-    u "Eu nÃ£o sei, ele passou por mim na rua enquanto eu estava dando uma volta e comeÃ§ou a me xingar."
+    u "Eu não sei, ele passou por mim na rua enquanto eu estava dando uma volta e começou a me xingar."
 
 # game/v2/v2.rpy:1423
 translate template_lang history2_4a842a59:
 
     # imre "So you just knocked him out?!"
-    imre "E daÃ­ vocÃª deu uma surra nele?!"
+    imre "E daí­ você deu uma surra nele?!"
 
 # game/v2/v2.rpy:1428
 translate template_lang history2_49d2f115:
 
     # u "I mean no, I just confronted him about it, he pushed me and next thing I know, we're fighting."
-    u "NÃ£o, tipo, eu fui tirar satisfaÃ§Ã£o com ele nÃ©, daÃ­ ele me empurrou e quando dei por mim, estÃ¡vamos brigando."
+    u "Não, tipo, eu fui tirar satisfação com ele né, daí­ ele me empurrou e quando dei por mim, estávamos brigando."
 
 # game/v2/v2.rpy:1430
 translate template_lang history2_2782062a:
 
     # u "And then I just landed a couple good punches and suddenly he was laying on the floor bleeding."
-    u "E entÃ£o eu dei uma bela de umas porradas nele e quando percebi ele estava jogado no chÃ£o, sangrando."
+    u "E então eu dei uma bela de umas porradas nele e quando percebi ele estava jogado no chão, sangrando."
 
 # game/v2/v2.rpy:1435
 translate template_lang history2_6db697b3:
 
     # imre "Holy shit, you're a natural, dude"
-    imre "Puta que pariu, vocÃª tem talento, mano"
+    imre "Puta que pariu, você tem talento, mano"
 
 # game/v2/v2.rpy:1440
 translate template_lang history2_04dfb653:
 
     # imre "Train with me. Just once. Just to see if you like it. Please."
-    imre "Treine comigo. SÃ³ uma vez. SÃ³ pra ver se vocÃª gosta. Por favor."
+    imre "Treine comigo. Só uma vez. Só pra ver se você gosta. Por favor."
 
 # game/v2/v2.rpy:1445
 translate template_lang history2_221d8633:
 
     # u "Fine, I'll train with you. But just one time."
-    u "TÃ¡ bom, eu treino com vocÃª. Mas sÃ³ uma vez."
+    u "Tá bom, eu treino com você. Mas só uma vez."
 
 # game/v2/v2.rpy:1451
 translate template_lang history2_481db6df:
 
     # imre "Dude, did you get beaten up again?! You look like shit!"
-    imre "Mano, vocÃª apanhou de novo?! VocÃª tÃ¡ todo fodido!"
+    imre "Mano, você apanhou de novo?! Você tá todo fodido!"
 
 # game/v2/v2.rpy:1456
 translate template_lang history2_9461de7c:
@@ -874,31 +874,31 @@ translate template_lang history2_9461de7c:
 translate template_lang history2_0b224f7b:
 
     # u "Thanks.... and I don't know if he was an Ape, but he was also at the party and he started insulting me on my way to meet with Lauren."
-    u "Obrigado... e eu nÃ£o sei se ele Ã© um Gorila, mas ele tambÃ©m estava na festa e comeÃ§ou a me xingar quando eu estava indo me encontrar com a Lauren."
+    u "Obrigado... e eu não sei se ele é um Gorila, mas ele também estava na festa e começou a me xingar quando eu estava indo me encontrar com a Lauren."
 
 # game/v2/v2.rpy:1465
 translate template_lang history2_a1446831:
 
     # u "Thanks... and I don't know if he was an Ape, but he was also at the party and he started insulting me on my walk."
-    u "Obrigado... e eu nÃ£o sei se ele Ã© um Gorila, mas ele tambÃ©m estava na festa e comeÃ§ou a me xingar quando me viu na rua."
+    u "Obrigado... e eu não sei se ele é um Gorila, mas ele também estava na festa e começou a me xingar quando me viu na rua."
 
 # game/v2/v2.rpy:1469
 translate template_lang history2_41b06290:
 
     # imre "What did you do?"
-    imre "O que vocÃª fez?"
+    imre "O que você fez?"
 
 # game/v2/v2.rpy:1474
 translate template_lang history2_4a3906a5:
 
     # u "I confronted him, then he pushed me and then we started fighting."
-    u "Eu fui tirar satisfaÃ§Ã£o com ele, daÃ­ ele me empurrou e comeÃ§amos a brigar."
+    u "Eu fui tirar satisfação com ele, daí ele me empurrou e começamos a brigar."
 
 # game/v2/v2.rpy:1479
 translate template_lang history2_a9ab2f05:
 
     # u "And then he just landed a couple good punches and suddenly I was laying on the floor bleeding."
-    u "EntÃ£o ele me deu uns belos de uns socos e quando eu percebi eu estava jogado no chÃ£o, sangrando."
+    u "Então ele me deu uns belos de uns socos e quando eu percebi eu estava jogado no chão, sangrando."
 
 # game/v2/v2.rpy:1483
 translate template_lang history2_87177349:
@@ -910,19 +910,19 @@ translate template_lang history2_87177349:
 translate template_lang history2_67fdbb98:
 
     # u "Honestly, maybe you're right and I do need to learn to defend myself."
-    u "Sinceramente, eu acho que vocÃª estÃ¡ certo e eu preciso aprender a me defender."
+    u "Sinceramente, eu acho que você está certo e eu preciso aprender a me defender."
 
 # game/v2/v2.rpy:1493
 translate template_lang history2_35f3617a:
 
     # imre "Look, I'm gonna train tomorrow. Why don't you train with me?"
-    imre "Olha, eu vou treinar amanhÃ£. Porque vocÃª nÃ£o treina comigo?"
+    imre "Olha, eu vou treinar amanhã. Porque você não treina comigo?"
 
 # game/v2/v2.rpy:1498
 translate template_lang history2_f51c0fc6:
 
     # u "Yeah, okay. Thanks Imre."
-    u "Ã‰, tÃ¡ bom. Obrigado Imre."
+    u "É, tá bom. Obrigado Imre."
 
 # game/v2/v2.rpy:1504
 translate template_lang history2_bb82ae35:
@@ -934,85 +934,85 @@ translate template_lang history2_bb82ae35:
 translate template_lang history2_1edee191:
 
     # imre "Oh shit, what happened? Another Ape?"
-    imre "Ã” merda, o que aconteceu? Era outro Gorila?"
+    imre "Óh merda, o que aconteceu? Era outro Gorila?"
 
 # game/v2/v2.rpy:1514
 translate template_lang history2_7e658a18:
 
     # u "I don't know if he was an Ape, but he was also at the party and he started insulting me on my way to meet with Lauren."
-    u "Eu nÃ£o sei se ele Ã© um Gorila, mas ele tambÃ©m estava na festa e comeÃ§ou a me xingar quando eu estava indo me encontrar com a Lauren."
+    u "Eu não sei se ele é um Gorila, mas ele também estava na festa e começou a me xingar quando eu estava indo me encontrar com a Lauren."
 
 # game/v2/v2.rpy:1519
 translate template_lang history2_ae668939:
 
     # u "I don't know if he was an Ape, but he was also at the party and he started insulting me on my walk."
-    u "Eu nÃ£o sei se ele Ã© um Gorila, mas ele tambÃ©m estava na festa e comeÃ§ou a me xingar quando me viu na rua."
+    u "Eu não sei se ele é um Gorila, mas ele também estava na festa e começou a me xingar quando me viu na rua."
 
 # game/v2/v2.rpy:1523
 translate template_lang history2_41b06290_1:
 
     # imre "What did you do?"
-    imre "E o que vocÃª fez?"
+    imre "E o que você fez?"
 
 # game/v2/v2.rpy:1527
 translate template_lang history2_5bbb8bca:
 
     # u "Well I didn't wanna get beaten up again, so I just walked away."
-    u "Bom, eu nÃ£o queria apanhar de novo, entÃ£o eu sÃ³ sai andando."
+    u "Bom, eu não queria apanhar de novo, então eu só sai andando."
 
 # game/v2/v2.rpy:1532
 translate template_lang history2_240a40fe:
 
     # imre "Dude, if you keep this up, you're gonna get treated like crap."
-    imre "Cara, se vocÃª continuar desse jeito, vocÃª vai ser tratado que nem lixo."
+    imre "Cara, se você continuar desse jeito, você vai ser tratado que nem lixo."
 
 # game/v2/v2.rpy:1534
 translate template_lang history2_35f3617a_1:
 
     # imre "Look, I'm gonna train tomorrow. Why don't you train with me?"
-    imre "Olha, eu vou treinar amanhÃ£. Porque vocÃª nÃ£o vem treinar comigo?"
+    imre "Olha, eu vou treinar amanhã. Porque você não vem treinar comigo?"
 
 # game/v2/v2.rpy:1539
 translate template_lang history2_67dc0c9c:
 
     # u "Okay... I guess I'll try it."
-    u "TÃ¡ bom... Eu acho que posso tentar."
+    u "Tá bom... Eu acho que posso tentar."
 
 # game/v2/v2.rpy:1545
 translate template_lang nextsceneo_e025761d:
 
     # lee "Welcome to History 101, I'm Mr. Lee."
-    lee "Bem vindos Ã  aula de HistÃ³ria, eu sou o Senhor Lee."
+    lee "Bem vindos á aula de História, eu sou o Senhor Lee."
 
 # game/v2/v2.rpy:1547
 translate template_lang nextsceneo_58eff7c4:
 
     # lee "I know that some of you have put this class off for multiple years, while others of you are taking it in their first year."
-    lee "Eu sei que alguns de vocÃªs pularam essa matÃ©ria por anos, enquanto outros estÃ£o tendo contato com ela pela primeira vez."
+    lee "Eu sei que alguns de vocês pularam essa matéria por anos, enquanto outros estão tendo contato com ela pela primeira vez."
 
 # game/v2/v2.rpy:1551
 translate template_lang nextsceneo_aaf1e329:
 
     # lee "Even though it is unfathomable to me how you could actively try to avoid the most exciting subject in the world..."
-    lee "Mesmo que seja incomensurÃ¡vel pra mim que vocÃªs tentem evitar o assunto mais legal do mundo..."
+    lee "Mesmo que seja incomensurável pra mim que vocês tentem evitar o assunto mais legal do mundo..."
 
 # game/v2/v2.rpy:1553
 translate template_lang nextsceneo_cba6747b:
 
     # lee "I guess there is something to be said about saving the best for last."
-    lee "Acredito que tenha relaÃ§Ã£o com um ditado popular que diz algo sobre guardar o melhor para o final."
+    lee "Acredito que tenha relação com um ditado popular que diz algo sobre guardar o melhor para o final."
 
 # game/v2/v2.rpy:1558
 translate template_lang nextsceneo_d818341c:
 
     # lee "So what is history?"
-    lee "EntÃ£o, o que Ã© HistÃ³ria?"
+    lee "Então, o que é História?"
 
 # game/v2/v2.rpy:1563
 translate template_lang nextsceneo_a6a56d8e:
 
     # lee "Many people believe that history is about analyzing and understanding the past."
-    lee "Muitos acreditam que histÃ³ria Ã© sobre analizar e entender o passado."
+    lee "Muitos acreditam que história é sobre analizar e entender o passado."
 
 # game/v2/v2.rpy:1567
 translate template_lang nextsceneo_dd2e8650:
@@ -1042,19 +1042,19 @@ translate template_lang nextsceneo_9c2212ed:
 translate template_lang nextsceneo_6d78d111:
 
     # lee "Over the course of this year, you're not just going to learn about history."
-    lee "Durante o curso deste ano, vocÃªs nÃ£o irÃ£o aprender somente sobre histÃ³ria."
+    lee "Durante o curso deste ano, vocês nÃ£o irÃ£o aprender somente sobre histÃ³ria."
 
 # game/v2/v2.rpy:1587
 translate template_lang nextsceneo_c503f017:
 
     # lee "You're going to live history, immerse yourself within it and understand what life was truly like in the past."
-    lee "VocÃªs viverÃ£o a histÃ³ria, imergir-se nela e entender como foi realmente a vida no passado."
+    lee "vocês viverÃ£o a histÃ³ria, imergir-se nela e entender como foi realmente a vida no passado."
 
 # game/v2/v2.rpy:1592
 translate template_lang nextsceneo_e22c93f3:
 
     # ca "Yo teach, we get that you love the past, but don't you think the museum wants its shoes back?"
-    ca "Ã” prof, nÃ³s jÃ¡ entendendemos que vocÃª ama o passado e tal, mas cÃª nÃ£o acha que o museu quer os sapatos dele de volta?"
+    ca "Ã” prof, nÃ³s Já entendendemos que você ama o passado e tal, mas cÃª nÃ£o acha que o museu quer os sapatos dele de volta?"
 
 # game/v2/v2.rpy:1597
 translate template_lang nextsceneo_16ff9ca7:
@@ -1078,7 +1078,7 @@ translate template_lang nextsceneo_95d19fd6:
 translate template_lang nextsceneo_f2ba7212:
 
     # lee "Mr. Cameron, if clothing is what gets you to pay attention in this class, then I suggest you dress up as a historical character for our next lesson."
-    lee "Senhor Cameron, se vestimentas sÃ£o o que fazem vocÃª prestar atenÃ§Ã£o nesta aula, entÃ£o sugiro que vista-se como um personagem histÃ³rico para nossa prÃ³xima aula."
+    lee "Senhor Cameron, se vestimentas sÃ£o o que fazem você prestar atenÃ§Ã£o nesta aula, entÃ£o sugiro que vista-se como um personagem histÃ³rico para nossa prÃ³xima aula."
 
 # game/v2/v2.rpy:1613
 translate template_lang nextsceneo_4b455ace:
@@ -1096,7 +1096,7 @@ translate template_lang nextsceneo_53dd7c6c:
 translate template_lang nextsceneo_d9fba3f7:
 
     # lee "Perhaps you're right. Everyone should be wearing historically accurate costumes for the next lecture."
-    lee "Talvez vocÃª esteja certo. Todos deveriam usar vestimentas histÃ³ricas para nossa prÃ³xima aula."
+    lee "Talvez você esteja certo. Todos deveriam usar vestimentas histÃ³ricas para nossa prÃ³xima aula."
 
 # game/v2/v2.rpy:1625
 translate template_lang nextsceneo_6b696c54:
@@ -1108,13 +1108,13 @@ translate template_lang nextsceneo_6b696c54:
 translate template_lang nextsceneo_0cd07133:
 
     # lee "Come without costume and you've earned your first fail."
-    lee "Venha sem a vestimenta e vocÃª ganharÃ¡ seu primeiro ponto negativo."
+    lee "Venha sem a vestimenta e você ganharÃ¡ seu primeiro ponto negativo."
 
 # game/v2/v2.rpy:1629
 translate template_lang nextsceneo_99016d7b:
 
     # lee "You've got Mr. Cameron to thank for that."
-    lee "E vocÃªs podem agradecer ao Senhor Cameron por isso."
+    lee "E vocês podem agradecer ao Senhor Cameron por isso."
 
 # game/v2/v2.rpy:1662
 translate template_lang nextsceneo_c79f1d1b:
@@ -1144,7 +1144,7 @@ translate template_lang nextsceneo_414d72ea:
 translate template_lang nextsceneo_518e3ddb:
 
     # u "I didn't know you were into volleyball."
-    u "Eu nÃ£o sabia que vocÃª curtia vÃ´lei."
+    u "Eu nÃ£o sabia que você curtia vÃ´lei."
 
 # game/v2/v2.rpy:1684
 translate template_lang nextsceneo_9f78718a:
@@ -1156,7 +1156,7 @@ translate template_lang nextsceneo_9f78718a:
 translate template_lang nextsceneo_bd395da8:
 
     # u "Then why are you-"
-    u "EntÃ£o porque vocÃª-"
+    u "EntÃ£o porque você-"
 
 # game/v2/v2.rpy:1691
 translate template_lang nextsceneo_fdbce207:
@@ -1174,7 +1174,7 @@ translate template_lang nextsceneo_b5efee6a:
 translate template_lang nextsceneo_b71da505:
 
     # u "Haha, you're impossible."
-    u "Haha, vocÃª Ã© impossÃ­vel."
+    u "Haha, você Ã© impossÃ­vel."
 
 # game/v2/v2.rpy:1706
 translate template_lang nextsceneo_e8b5efc6:
@@ -1198,13 +1198,13 @@ translate template_lang nextsceneo_785e8da7:
 translate template_lang nextsceneo_a6ce608d:
 
     # em "Oh my god, what happened to you?"
-    em "Ai meu Deus, o que aconteceu com vocÃª?"
+    em "Ai meu Deus, o que aconteceu com você?"
 
 # game/v2/v2.rpy:1726
 translate template_lang nextsceneo_31a4b2c1:
 
     # no "Looks like he got beaten up."
-    no "Parece que vocÃª levou uma surra."
+    no "Parece que você levou uma surra."
 
 # game/v2/v2.rpy:1732
 translate template_lang nextsceneo_ee9e9ff5:
@@ -1216,7 +1216,7 @@ translate template_lang nextsceneo_ee9e9ff5:
 translate template_lang nextsceneo_b63527db:
 
     # no "Wait, you're the same kid that hit on me a few days ago."
-    no "Pera aÃ­, vocÃª Ã© o mesmo carinha que deu em cima de mim dias atrÃ¡s."
+    no "Pera aÃ­, você Ã© o mesmo carinha que deu em cima de mim dias atrÃ¡s."
 
 # game/v2/v2.rpy:1742
 translate template_lang nextsceneo_99bd1ed9:
@@ -1228,7 +1228,7 @@ translate template_lang nextsceneo_99bd1ed9:
 translate template_lang nextsceneo_28849dd3:
 
     # u "First of all, I was just telling you that you're cute."
-    u "Primeiramente, eu sÃ³ estava dizendo que vocÃª Ã© gata"
+    u "Primeiramente, eu sÃ³ estava dizendo que você Ã© gata"
 
 # game/v2/v2.rpy:1748
 translate template_lang nextsceneo_e5214ea4:
@@ -1246,7 +1246,7 @@ translate template_lang nextsceneo_6682385f:
 translate template_lang nextsceneo_eb29b934:
 
     # em "You know, your eye looks pretty swollen. You really need to get that checked out."
-    em "Sabe, seu olho parece bem inchado. VocÃª deveria ir no mÃ©dico dar uma olhada nisso."
+    em "Sabe, seu olho parece bem inchado. você deveria ir no mÃ©dico dar uma olhada nisso."
 
 # game/v2/v2.rpy:1764
 translate template_lang nextsceneo_6fab6ecc:
@@ -1258,7 +1258,7 @@ translate template_lang nextsceneo_6fab6ecc:
 translate template_lang nextsceneo_38842db1:
 
     # em "I'll come with you if you want."
-    em "Eu vou com vocÃª se vocÃª quiser."
+    em "Eu vou com você se você quiser."
 
 # game/v2/v2.rpy:1774
 translate template_lang nextsceneo_0038c3f0:
@@ -1270,7 +1270,7 @@ translate template_lang nextsceneo_0038c3f0:
 translate template_lang nextsceneo_79913920:
 
     # no "Look, I'm sensing some weird energy between you two, so I'ma leave."
-    no "Olha, eu tÃ´ sentindo uma energia meio estranha entre vocÃªs dois, entÃ£o vou cair fora."
+    no "Olha, eu tÃ´ sentindo uma energia meio estranha entre vocês dois, entÃ£o vou cair fora."
 
 # game/v2/v2.rpy:1781
 translate template_lang nextsceneo_0fa411c5:
@@ -1306,7 +1306,7 @@ translate template_lang nextsceneo_bba611ad:
 translate template_lang nextsceneo_24ff09d8:
 
     # u "Emily, we're not friends. You cheated on me."
-    u "Emily, nÃ³s nÃ£o somos amigos. VocÃª me traiu."
+    u "Emily, nÃ³s nÃ£o somos amigos. você me traiu."
 
 # game/v2/v2.rpy:1808
 translate template_lang nextsceneo_fd20340e:
@@ -1342,13 +1342,13 @@ translate template_lang nextsceneo_662a2cea:
 translate template_lang nextsceneo_baed0d4e:
 
     # em "Really? Where do you wanna go?"
-    em "SÃ©rio? Onde vocÃª quer ir?"
+    em "SÃ©rio? Onde você quer ir?"
 
 # game/v2/v2.rpy:1834
 translate template_lang nextsceneo_19d7ccb8:
 
     # u "I thought we're going to the doctor's office? Or are you gonna tell me that your concern was merely an attempt to hang out with me?"
-    u "Eu pensei que irÃ­amos ao hospital... Ou vocÃª vai me dizer que sua preocupaÃ§Ã£o era sÃ³ uma tentativa de sair comigo?"
+    u "Eu pensei que irÃ­amos ao hospital... Ou você vai me dizer que sua preocupaÃ§Ã£o era sÃ³ uma tentativa de sair comigo?"
 
 # game/v2/v2.rpy:1839
 translate template_lang nextsceneo_03d5e79a:
@@ -1366,7 +1366,7 @@ translate template_lang nextsceneo_b100c2df:
 translate template_lang nextsceneo_de194e89:
 
     # u "I can't just forgive you like that. You don't know what you put me through."
-    u "Eu nÃ£o posso simplesmente te perdoar assim. VocÃª nÃ£o tem idÃ©ia do que me fez passar."
+    u "Eu nÃ£o posso simplesmente te perdoar assim. você nÃ£o tem idÃ©ia do que me fez passar."
 
 # game/v2/v2.rpy:1861
 translate template_lang nextsceneo_512d53f3:
@@ -1390,7 +1390,7 @@ translate template_lang nextsceneo_83e9361f:
 translate template_lang bo_ad_867d6873:
 
     # em "Sooo... did you text your new girlfriend that you're hanging out with your ex?"
-    em "EntÃ£o... VocÃª avisou sua nova namorada que estÃ¡ saindo com sua ex?"
+    em "EntÃ£o... você avisou sua nova namorada que estÃ¡ saindo com sua ex?"
 
 # game/v2/v2.rpy:1897
 translate template_lang bo_ad_912bf9be:
@@ -1402,7 +1402,7 @@ translate template_lang bo_ad_912bf9be:
 translate template_lang bo_ad_821b0bf4:
 
     # em "Oh... okay. That's- that's good. You should tell her stuff like this."
-    em "Hmm... tÃ¡. Isso Ã©- Isso Ã© bom. VocÃª deveria avisÃ¡-la desse tipo de coisa."
+    em "Hmm... tÃ¡. Isso Ã©- Isso Ã© bom. você deveria avisÃ¡-la desse tipo de coisa."
 
 # game/v2/v2.rpy:1909
 translate template_lang bo_ad_cc8c914a:
@@ -1414,7 +1414,7 @@ translate template_lang bo_ad_cc8c914a:
 translate template_lang bo_ad_0650d652:
 
     # em "[name], you gotta stop messing with me, haha."
-    em "[name], vocÃª tem que parar de tirar onda com a minha cara, haha."
+    em "[name], você tem que parar de tirar onda com a minha cara, haha."
 
 # game/v2/v2.rpy:1921
 translate template_lang bo_ad_5bba2ef7:
@@ -1444,31 +1444,31 @@ translate template_lang bo_ad_799fe8d0:
 translate template_lang bo_ad_4d82ac42:
 
     # em "I guess you're right. I was just... you know, curious."
-    em "Ã‰ verdade... Eu sÃ³ estava... VocÃª sabe, curiosa..."
+    em "Ã‰ verdade... Eu sÃ³ estava... você sabe, curiosa..."
 
 # game/v2/v2.rpy:1956
 translate template_lang bp_bd_486ea320:
 
     # u "Hey, you remember the time you had your wisdom teeth pulled out and you looked like a hamster for 2 weeks straight?"
-    u "Ei, vocÃª lembra aquela vez que vocÃª tirou o siso e ficou parecendo um hamster por duas semanas seguidas?"
+    u "Ei, você lembra aquela vez que você tirou o siso e ficou parecendo um hamster por duas semanas seguidas?"
 
 # game/v2/v2.rpy:1962
 translate template_lang bp_bd_10706cd3:
 
     # em "Are you ever gonna stop bringing that up?"
-    em "SerÃ¡ que algum dia vocÃª vai parar de contar essa histÃ³ria?"
+    em "SerÃ¡ que algum dia você vai parar de contar essa histÃ³ria?"
 
 # game/v2/v2.rpy:1973
 translate template_lang bp_bd_57723b9c:
 
     # u "No way, you looked so adorable."
-    u "Sem chance, vocÃª estava uma fofura."
+    u "Sem chance, você estava uma fofura."
 
 # game/v2/v2.rpy:1978
 translate template_lang bp_bd_9f281ce2:
 
     # em "What was adorable was how much you cared for me. I remember you bringing me a care package full of like a hundred different soups."
-    em "O que realmente foi fofo Ã© como vocÃª cuidou de mim. Eu lembro que vocÃª me trouxe uma sacola cheia de diferentes tipos de sopas."
+    em "O que realmente foi fofo Ã© como você cuidou de mim. Eu lembro que você me trouxe uma sacola cheia de diferentes tipos de sopas."
 
 # game/v2/v2.rpy:1980
 translate template_lang bp_bd_fa12b88a:
@@ -1516,7 +1516,7 @@ translate template_lang bq_bd_b2bcac73:
 translate template_lang bq_bd_77d533cc:
 
     # u "Hey there, you accept walk-ins right?"
-    u "OlÃ¡, vocÃªs aceitam acompanhantes, certo?"
+    u "OlÃ¡, vocês aceitam acompanhantes, certo?"
 
 # game/v2/v2.rpy:2031
 translate template_lang bq_bd_7e133080:
@@ -1534,7 +1534,7 @@ translate template_lang bq_bd_eb6699a4:
 translate template_lang bq_bd_b822ede1:
 
     # em "Hey, I've seen you before, you went to school with my sister."
-    em "Ei, eu conheÃ§o vocÃª de algum lugar... VocÃª estava na mesma escola que a minha irmÃ£."
+    em "Ei, eu conheÃ§o você de algum lugar... você estava na mesma escola que a minha irmÃ£."
 
 # game/v2/v2.rpy:2043
 translate template_lang bq_bd_65f217b4:
@@ -1546,13 +1546,13 @@ translate template_lang bq_bd_65f217b4:
 translate template_lang bq_bd_1ce47e7b:
 
     # ben "Oh, I remember. You're Hannah's sister."
-    ben "Ah, lembrei! VocÃª Ã© irmÃ£ da Hannah."
+    ben "Ah, lembrei! você Ã© irmÃ£ da Hannah."
 
 # game/v2/v2.rpy:2053
 translate template_lang bq_bd_43ceef73:
 
     # em "Didn't you wanna become a lawyer?"
-    em "VocÃª nÃ£o queria estudar direito?"
+    em "você nÃ£o queria estudar direito?"
 
 # game/v2/v2.rpy:2058
 translate template_lang bq_bd_6a1ac90c:
@@ -1588,7 +1588,7 @@ translate template_lang bq_bd_77cd096f:
 translate template_lang bq_bd_6239ec8d:
 
     # em "Okay, I'm gonna go sit down in the waiting room while you fill out your forms."
-    em "EntÃ£o tÃ¡, vou sentar e aguardar na sala de espera enquanto vocÃª preenche esses formulÃ¡rios."
+    em "EntÃ£o tÃ¡, vou sentar e aguardar na sala de espera enquanto você preenche esses formulÃ¡rios."
 
 # game/v2/v2.rpy:2082
 translate template_lang bq_bd_c5a76bd8:
@@ -1600,19 +1600,19 @@ translate template_lang bq_bd_c5a76bd8:
 translate template_lang bq_bd_942ae5fc:
 
     # ben "So uhhh, are you hitting that, or can a bro make a move?"
-    ben "EntÃ£o hmmm, vocÃª tÃ¡ afim dela ou eu posso partir pra cima?"
+    ben "EntÃ£o hmmm, você tÃ¡ afim dela ou eu posso partir pra cima?"
 
 # game/v2/v2.rpy:2094
 translate template_lang bq_bd_983a6c7c:
 
     # ben "You know, even if you are hitting that... I'm totally fine with like a dual type of arrangement."
-    ben "Na real, mesmo que vocÃª esteja com ela... Eu nÃ£o tenho nada contra um relacionamento aberto."
+    ben "Na real, mesmo que você esteja com ela... Eu nÃ£o tenho nada contra um relacionamento aberto."
 
 # game/v2/v2.rpy:2099
 translate template_lang bq_bd_be666bc9:
 
     # u "Dude... aren't you like 30 or something?"
-    u "Na moral... vocÃª nÃ£o tem tipo 30 anos?""
+    u "Na moral... você nÃ£o tem tipo 30 anos?""
 
 # game/v2/v2.rpy:2104
 translate template_lang bq_bd_0a03aa80:
@@ -1630,7 +1630,7 @@ translate template_lang bq_bd_d2c46c7b:
 translate template_lang bq_bd_e5de44d4:
 
     # ben "Thanks, bro! I'll think of you when I'm doing her."
-    ben "Valeu brother! Vou lembrar de vocÃª quando eu estiver comendo ela."
+    ben "Valeu brother! Vou lembrar de você quando eu estiver comendo ela."
 
 # game/v2/v2.rpy:2128
 translate template_lang bq_bd_7a9562a5:
@@ -1660,19 +1660,19 @@ translate template_lang br_bd_69668e67:
 translate template_lang br_bd_e38ea10b:
 
     # u "Yeah, but while I was doing it Benjamin asked me if he could make a move on you."
-    u "Sim, mas enquanto eu estava preenchendo tudo o Benjamim perguntou se podia dar idÃ©ia de vocÃª."
+    u "Sim, mas enquanto eu estava preenchendo tudo o Benjamim perguntou se podia dar idÃ©ia de você."
 
 # game/v2/v2.rpy:2163
 translate template_lang br_bd_a130a4a9:
 
     # em "Oh really, are you my guardian now?"
-    em "SÃ©rio, vocÃª Ã© meu dono agora?"
+    em "SÃ©rio, você Ã© meu dono agora?"
 
 # game/v2/v2.rpy:2167
 translate template_lang br_bd_2e2b8da5:
 
     # em "What did you say?"
-    em "O que vocÃª disse?"
+    em "O que você disse?"
 
 # game/v2/v2.rpy:2173
 translate template_lang br_bd_0b8e19de:
@@ -1684,19 +1684,19 @@ translate template_lang br_bd_0b8e19de:
 translate template_lang br_bd_ca4e838e:
 
     # u "You know, just to protect you from having to deal with a creep."
-    u "Sabe, pra evitar que vocÃª tenha que lidar com o tipo dele."
+    u "Sabe, pra evitar que você tenha que lidar com o tipo dele."
 
 # game/v2/v2.rpy:2180
 translate template_lang br_bd_63edfa8d:
 
     # em "Oh, so you're \"protecting\" me now, huh?"
-    em "Ah, entÃ£o vocÃª estÃ¡ me \"protegendo\" agora?"
+    em "Ah, entÃ£o você estÃ¡ me \"protegendo\" agora?"
 
 # game/v2/v2.rpy:2185
 translate template_lang br_bd_42156a9b:
 
     # u "Oh shut up, if you wanna give him your phone number and have the worst date of your life, you're free to do so."
-    u "Ah fica quieta, se vocÃª quiser dar o seu nÃºmero pra ele e ter o pior encontro da sua vida, vai na fÃ©."
+    u "Ah fica quieta, se você quiser dar o seu nÃºmero pra ele e ter o pior encontro da sua vida, vai na fÃ©."
 
 # game/v2/v2.rpy:2190
 translate template_lang br_bd_7f95afe6:
@@ -1744,7 +1744,7 @@ translate template_lang br_bd_67e44856:
 translate template_lang br_bd_7599e584:
 
     # u "What did you think of Benjamin by the way?"
-    u "AliÃ¡s, o que vocÃª achou do Benjamim?"
+    u "AliÃ¡s, o que você achou do Benjamim?"
 
 # game/v2/v2.rpy:2224
 translate template_lang br_bd_6140f90b:
@@ -1792,7 +1792,7 @@ translate template_lang bs_bd_ef1dadc4:
 translate template_lang bs_bd_745f4da9:
 
     # ehr "Okay, looking at you I'm gonna assume you're here because of your black eye?"
-    ehr "Certo, sÃ³ de olhar pra vocÃª presumo que veio por causa do olho roxo, nÃ£o Ã©?"
+    ehr "Certo, sÃ³ de olhar pra você presumo que veio por causa do olho roxo, nÃ£o Ã©?"
 
 # game/v2/v2.rpy:2266
 translate template_lang bs_bd_42487ce7:
@@ -1924,7 +1924,7 @@ translate template_lang repeatc_029469d6:
 translate template_lang repeatc_3c4681a3:
 
     # u "Let me guess, you saw me get punched in the face at a party."
-    u "Deixa eu adivinhar, vocÃª me viu levar um socÃ£o na cara na festa."
+    u "Deixa eu adivinhar, você me viu levar um socÃ£o na cara na festa."
 
 # game/v2/v2.rpy:2372
 translate template_lang repeatc_d9f61a43:
@@ -1936,7 +1936,7 @@ translate template_lang repeatc_d9f61a43:
 translate template_lang repeatc_ebff5a89:
 
     # pe "You're in my History 101 class."
-    pe "VocÃª estÃ¡ na minha turma 101 de HistÃ³ria."
+    pe "você estÃ¡ na minha turma 101 de HistÃ³ria."
 
 # game/v2/v2.rpy:2379
 translate template_lang repeatc_9e6d33de:
@@ -1978,13 +1978,13 @@ translate template_lang repeatc_8b6bda4f:
 translate template_lang repeatc_c40fb6f1:
 
     # u "Well you're not-"
-    u "Certo, vocÃª nÃ£o-"
+    u "Certo, você nÃ£o-"
 
 # game/v2/v2.rpy:2413
 translate template_lang repeatc_19c16b65:
 
     # pe "But then I was like \"Penelope, you need to start talking to people at some point\" and then I approached you."
-    pe "Mas daÃ­ eu fiquei tipo \"Penelope, vocÃª precisa comeÃ§ar a falar com as pessoas algum dia.\" e entÃ£o eu vim aqui."
+    pe "Mas daÃ­ eu fiquei tipo \"Penelope, você precisa comeÃ§ar a falar com as pessoas algum dia.\" e entÃ£o eu vim aqui."
 
 # game/v2/v2.rpy:2418
 translate template_lang repeatc_0fb938bb:
@@ -2032,7 +2032,7 @@ translate template_lang repeatc_0e8d6143:
 translate template_lang repeatc_1b522938:
 
     # u "So, what did you mean by \"you need to start talking to people at some point\"? Are you a freshman?"
-    u "EntÃ£o, o que vocÃª quis dizer com \"preciso comeÃ§ar a falar com as pessoas algum dia.\"? VocÃª Ã© caloura?"
+    u "EntÃ£o, o que você quis dizer com \"preciso comeÃ§ar a falar com as pessoas algum dia.\"? você Ã© caloura?"
 
 # game/v2/v2.rpy:2457
 translate template_lang repeatc_1b0771d1:
@@ -2050,7 +2050,7 @@ translate template_lang repeatc_022d738f:
 translate template_lang repeatc_5f653432:
 
     # pe "And then I called my mom and said \"Mom, help! Dad is going crazy!\" But my mom was like \"You need to talk to him yourself.\""
-    pe "EntÃ£o eu liguei pra minha mÃ£e e disse \"MÃ£e, me ajuda! O papai estÃ¡ ficando doido!\", mas minha mÃ£e disse \"VocÃª tem que resolver isso com ele sozinha.\""
+    pe "EntÃ£o eu liguei pra minha mÃ£e e disse \"MÃ£e, me ajuda! O papai estÃ¡ ficando doido!\", mas minha mÃ£e disse \"você tem que resolver isso com ele sozinha.\""
 
 # game/v2/v2.rpy:2463
 translate template_lang repeatc_8e02afde:
@@ -2062,7 +2062,7 @@ translate template_lang repeatc_8e02afde:
 translate template_lang repeatc_2bec789e:
 
     # u "Okay, calm down. You-"
-    u "TÃ¡, calma ai. VocÃª-"
+    u "TÃ¡, calma ai. você-"
 
 # game/v2/v2.rpy:2473
 translate template_lang repeatc_f726c180:
@@ -2086,7 +2086,7 @@ translate template_lang repeatc_f708ba5e:
 translate template_lang repeatc_76217dd0:
 
     # u "Really? That's where you draw the line of not sharing?"
-    u "SÃ©rio? EntÃ£o Ã© ai que vocÃª colocou um limite sobre o que nÃ£o contar?"
+    u "SÃ©rio? EntÃ£o Ã© ai que você colocou um limite sobre o que nÃ£o contar?"
 
 # game/v2/v2.rpy:2493
 translate template_lang repeatc_fa4f4ffe:
@@ -2152,7 +2152,7 @@ translate template_lang repeatg_0f9922ed:
 translate template_lang repeatg_5738152c:
 
     # u "Hey, do you also need a costume for Mr. Lee's class?"
-    u "Ei, vocÃª tambÃ©m precisa de um traje pra aula do Prof. Lee, certo?"
+    u "Ei, você tambÃ©m precisa de um traje pra aula do Prof. Lee, certo?"
 
 # game/v2/v2.rpy:2550
 translate template_lang repeatg_5810be51:
@@ -2218,13 +2218,13 @@ translate template_lang csaub_4e0688f6:
 translate template_lang csaub_ef39b636:
 
     # au "Yeah, I would show you the house, but we don't have that much time 'cause I've got dance practice later."
-    au "Sim, eu atÃ© faria um tour pela casa com vocÃª, mas nÃ£o tenho tanto tempo assim porque tenho aula de danÃ§a mais tarde."
+    au "Sim, eu atÃ© faria um tour pela casa com você, mas nÃ£o tenho tanto tempo assim porque tenho aula de danÃ§a mais tarde."
 
 # game/v2/v2.rpy:2618
 translate template_lang csaub_ce5a0228:
 
     # au "Plus there's a bunch of girls in their underwear in here right now. You wouldn't wanna see that."
-    au "AlÃ©m do mais tem um monte de garotas andando de calcinha por aqui. Eu acho que vocÃª nÃ£o gostaria de ver isso."
+    au "AlÃ©m do mais tem um monte de garotas andando de calcinha por aqui. Eu acho que você nÃ£o gostaria de ver isso."
 
 # game/v2/v2.rpy:2623
 translate template_lang csaub_a650f473:
@@ -2242,7 +2242,7 @@ translate template_lang csaub_6adf6270:
 translate template_lang csaub_7905f04a:
 
     # u "Didn't you say this was a costume shop?"
-    u "VocÃª nÃ£o tinha dito que essa era uma loja de fantasias?"
+    u "você nÃ£o tinha dito que essa era uma loja de fantasias?"
 
 # game/v2/v2.rpy:2641
 translate template_lang csaub_4f3c7d9b:
@@ -2296,7 +2296,7 @@ translate template_lang csaub_7d01aa02:
 translate template_lang csaub_1944561c:
 
     # ev "So in this box are all the remaining costumes we have, I hope that's enough."
-    ev "EntÃ£o, nessa caixa estÃ£o todas as fantasias que sobraram. Espero que vocÃªs achem algo."
+    ev "EntÃ£o, nessa caixa estÃ£o todas as fantasias que sobraram. Espero que vocês achem algo."
 
 # game/v2/v2.rpy:2685
 translate template_lang csaub_dd6b5362:
@@ -2374,13 +2374,13 @@ translate template_lang try1new_cfdd20f8:
 translate template_lang try1new_53cc9e72:
 
     # au "Oh my god, you make an adorable Viking."
-    au "Nossa, vocÃª consegue ser um Viking super fofo."
+    au "Nossa, você consegue ser um Viking super fofo."
 
 # game/v2/v2.rpy:2781
 translate template_lang try1new_3f475574:
 
     # u "Really? Adorable? How about hot?"
-    u "SÃ©rio? Fofo? Eu acho que vocÃª quis dizer gostoso."
+    u "SÃ©rio? Fofo? Eu acho que você quis dizer gostoso."
 
 # game/v2/v2.rpy:2786
 translate template_lang try1new_e6f4acca:
@@ -2398,13 +2398,13 @@ translate template_lang try1new_7d80e924:
 translate template_lang try1new_9d031eba:
 
     # u "You could be like my Viking queen."
-    u "VocÃª poderia ser tipo, minha rainha Viking."
+    u "você poderia ser tipo, minha rainha Viking."
 
 # game/v2/v2.rpy:2802
 translate template_lang try1new_86a517e6:
 
     # au "I think you've put me in the wrong time period, buddy."
-    au "Eu acho que vocÃª estÃ¡ me colocando no perÃ­odo histÃ³rico errado, campeÃ£o."
+    au "Eu acho que você estÃ¡ me colocando no perÃ­odo histÃ³rico errado, campeÃ£o."
 
 # game/v2/v2.rpy:2808
 translate template_lang try1new_519c302b:
@@ -2416,7 +2416,7 @@ translate template_lang try1new_519c302b:
 translate template_lang try1new_dc103a0a:
 
     # au "Have you decided which one to buy yet?"
-    au "VocÃª jÃ¡ decidiu qual vai querer comprar?"
+    au "você Já decidiu qual vai querer comprar?"
 
 # game/v2/v2.rpy:2822
 translate template_lang try1new_f56eb18c:
@@ -2428,7 +2428,7 @@ translate template_lang try1new_f56eb18c:
 translate template_lang try1new_c1c9b559:
 
     # u "I'm not sure if you should replace your everyday clothes with it though."
-    u "Mas nÃ£o tenho certeza se vocÃª deveria usar essa ao invÃ©s das que vocÃª usa todos os dias."
+    u "Mas nÃ£o tenho certeza se você deveria usar essa ao invÃ©s das que você usa todos os dias."
 
 # game/v2/v2.rpy:2830
 translate template_lang try1new_8671c31a:
@@ -2440,7 +2440,7 @@ translate template_lang try1new_8671c31a:
 translate template_lang try1new_dc103a0a_1:
 
     # au "Have you decided which one to buy yet?"
-    au "VocÃª jÃ¡ decidiu qual vai querer comprar?"
+    au "você Já decidiu qual vai querer comprar?"
 
 # game/v2/v2.rpy:2850
 translate template_lang try2done_96bac669:
@@ -2518,13 +2518,13 @@ translate template_lang try2new_32a69f7e:
 translate template_lang try2new_da553dc5:
 
     # au "Is it weird that you talking like that kinda turns me on?"
-    au "Ã‰ estranho dizer que ouvir vocÃª falando assim me deixa excitada?"
+    au "Ã‰ estranho dizer que ouvir você falando assim me deixa excitada?"
 
 # game/v2/v2.rpy:2934
 translate template_lang try2new_5c1ba02f:
 
     # u "Wait really? Should I keep going?"
-    u "QuÃª, sÃ©rio? VocÃª quer que eu continue?"
+    u "QuÃª, sÃ©rio? você quer que eu continue?"
 
 # game/v2/v2.rpy:2940
 translate template_lang try2new_968e7bbb:
@@ -2542,7 +2542,7 @@ translate template_lang try2new_224046bf:
 translate template_lang try2new_45b9ed1d:
 
     # au "Are you gonna buy this one?"
-    au "VocÃª vai comprar essa?"
+    au "você vai comprar essa?"
 
 # game/v2/v2.rpy:2951
 translate template_lang try2new_c9a2f903:
@@ -2554,7 +2554,7 @@ translate template_lang try2new_c9a2f903:
 translate template_lang try2new_12d26b71:
 
     # au "That is the single greatest compliment I think I've ever received."
-    au "Acho que esse foi o melhor elogio que eu jÃ¡ recebi na vida."
+    au "Acho que esse foi o melhor elogio que eu Já recebi na vida."
 
 # game/v2/v2.rpy:2961
 translate template_lang try2new_d3e94b55:
@@ -2584,7 +2584,7 @@ translate template_lang try2new_224046bf_1:
 translate template_lang try2new_735ae2aa:
 
     # au "So are you gonna buy this one?"
-    au "EntÃ£o, vocÃª vai comprar essa?"
+    au "EntÃ£o, você vai comprar essa?"
 
 # game/v2/v2.rpy:3001
 translate template_lang try3done_e45e2fd1:
@@ -2632,7 +2632,7 @@ translate template_lang try3new_9f6f578e:
 translate template_lang try3new_e57a573c:
 
     # u "Aubrey? Are you coming out?"
-    u "Aubrey, vocÃª jÃ¡ estÃ¡ saindo?"
+    u "Aubrey, você Já estÃ¡ saindo?"
 
 # game/v2/v2.rpy:3054
 translate template_lang try3new_ce41a1d2:
@@ -2668,13 +2668,13 @@ translate template_lang try3new_ebb31da5:
 translate template_lang try3new_fb1ad710:
 
     # au "Okay, fine. Just for you."
-    au "TÃ¡ bom. SÃ³ pra vocÃª."
+    au "TÃ¡ bom. SÃ³ pra você."
 
 # game/v2/v2.rpy:3086
 translate template_lang try3new_2189828c:
 
     # u "Holy shit, you weren't exaggerating. That is revealing."
-    u "Eita porra, vocÃª nÃ£o estava exagerando. Ã‰ bem explÃ­cito."
+    u "Eita porra, você nÃ£o estava exagerando. Ã‰ bem explÃ­cito."
 
 # game/v2/v2.rpy:3091
 translate template_lang try3new_bd372840:
@@ -2692,13 +2692,13 @@ translate template_lang try3new_26b9cb57:
 translate template_lang try3new_72b71966:
 
     # au "Haha yes. I hope you got a good look, 'cause I'm changing back."
-    au "Haha, sim. Espero que vocÃª tenha dado uma boa olhada, porque vou me trocar agora."
+    au "Haha, sim. Espero que você tenha dado uma boa olhada, porque vou me trocar agora."
 
 # game/v2/v2.rpy:3103
 translate template_lang try3new_97818984:
 
     # au "Also, this cowboy outfit is probably the worst thing I've ever seen anyone wear."
-    au "AliÃ¡s, essa roupa de cowboy Ã© provavelmente a pior coisa que jÃ¡ vi alguÃ©m usando."
+    au "AliÃ¡s, essa roupa de cowboy Ã© provavelmente a pior coisa que Já vi alguÃ©m usando."
 
 # game/v2/v2.rpy:3105
 translate template_lang try3new_21bc3cf3:
@@ -2716,7 +2716,7 @@ translate template_lang try3new_ebb31da5_1:
 translate template_lang try3new_d76759c0:
 
     # u "Then get dressed quickly, so that you can see my costume."
-    u "EntÃ£o vista-se logo, daÃ­ vocÃª pode ver minha fantasia."
+    u "EntÃ£o vista-se logo, daÃ­ você pode ver minha fantasia."
 
 # game/v2/v2.rpy:3117
 translate template_lang try3new_d8940fd5:
@@ -2728,7 +2728,7 @@ translate template_lang try3new_d8940fd5:
 translate template_lang by_bd_289003d8:
 
     # au "Oh god, that looks so bad on you."
-    au "Meu Deus, ficou pÃ©ssimo em vocÃª."
+    au "Meu Deus, ficou pÃ©ssimo em você."
 
 # game/v2/v2.rpy:3133
 translate template_lang by_bd_89e51cb4:
@@ -2740,13 +2740,13 @@ translate template_lang by_bd_89e51cb4:
 translate template_lang by_bd_702693e1:
 
     # au "Oh no. Just whatever you do, do not buy this costume."
-    au "Ah nÃ£o. NÃ£o importa o que vocÃª faÃ§a, sÃ³ nÃ£o compre essa roupa."
+    au "Ah nÃ£o. NÃ£o importa o que você faÃ§a, sÃ³ nÃ£o compre essa roupa."
 
 # game/v2/v2.rpy:3140
 translate template_lang by_bd_5ebbd48f:
 
     # au "I think you should get out of that as quickly as you can."
-    au "Eu acho que vocÃª tem tirar ela o mais rÃ¡pido possÃ­vel."
+    au "Eu acho que você tem tirar ela o mais rÃ¡pido possÃ­vel."
 
 # game/v2/v2.rpy:3168
 translate template_lang cspe_452a4b0e:
@@ -2794,7 +2794,7 @@ translate template_lang cspe_329a48ab:
 translate template_lang cspe_da1de338:
 
     # ev "If you want, I can check if we still have some in the back, but it'll be a limited selection."
-    ev "Se vocÃª quiser posso ver se sobrou alguma coisa no estoque, provavelmente serÃ¡ pouca coisa."
+    ev "Se você quiser posso ver se sobrou alguma coisa no estoque, provavelmente serÃ¡ pouca coisa."
 
 # game/v2/v2.rpy:3203
 translate template_lang cspe_9f3beb31:
@@ -2806,7 +2806,7 @@ translate template_lang cspe_9f3beb31:
 translate template_lang cspe_1944561c:
 
     # ev "So in this box are all the remaining costumes we have, I hope that's enough."
-    ev "EntÃ£o, aqui estÃ¡ tudo o que sobrou, espero que vocÃªs encontrem alguma coisa."
+    ev "EntÃ£o, aqui estÃ¡ tudo o que sobrou, espero que vocês encontrem alguma coisa."
 
 # game/v2/v2.rpy:3218
 translate template_lang cspe_dd6b5362:
