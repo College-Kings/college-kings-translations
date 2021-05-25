@@ -25,17 +25,7 @@ If you want to proofread your script again, there is a column for that as well, 
 
 Progress | ?/all | Who is working on it? | Proofreading | Who is proofreading?
 -------- | -------- | --------- | --------- | ---------
-<<<<<<< HEAD
-non script files | 0/2 | - | [ ] | -
-scriptv1-v2.rpy | 5983/9515 | Bibs2 | [ ] | -
-scriptv3.rpy | 3639/3639 | peacelocker125 | [X] | TheProfMilos
-scriptv4.rpy | 5653/5653 | TheProfMilos | [ ] | Differ
-scriptv5.rpy | 2305/2305 | TheProfMilos | [X] | Differ
-scriptv6.rpy | TBA | - | [ ] | -
-scriptv7.rpy |TBA | - | [ ] | -
-v08 files | TBA | - | [ ] | -
-v09 files | TBA | - | [ ] | -
-=======
+
 non script files | 0/3 | - | [ ] | -
 v01.rpy | 0/5225 | - | [ ] | -
 v02.rpy | 0/4221 | - | [ ] | -
@@ -46,7 +36,6 @@ v06.rpy | 0/11645 | - | [ ] | -
 v07.rpy | 0/18403 | - | [ ] | -
 v08 files | 0/45 | - | [ ] | -
 v09 files | 0/42 | - | [ ] | -
->>>>>>> c8f1544236bdb380568d076051c1d3cfdff7c5e2
 v10 files | TBA | - | [ ] | -
 
 Have fun!
