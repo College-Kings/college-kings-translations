@@ -22,7 +22,7 @@ translate template_lang phn_chloe11_07f76765:
 translate template_lang phn_chloe11_done_fd05c7e6:
 
     # u "(An Ape. That's who I am now.)"
-    u "(Um Ape. É isso que eu sou agora?)"
+    u "(Um Gorila. É isso que eu sou agora?)"
 
 # game/v8/scene13.rpy:71
 translate template_lang phn_chloe11_done_023957c8:
@@ -64,7 +64,7 @@ translate template_lang phn_chloe11_done_aad7f880:
 translate template_lang phn_chloe11_done_5da61233:
 
     # u "It's great to be an Ape!"
-    u "É incrível ser um Ape!"
+    u "É incrível ser um Gorila!"
 
 # game/v8/scene13.rpy:112
 translate template_lang phn_chloe11_done_8dd17441:
@@ -118,7 +118,7 @@ translate template_lang phn_chloe11_done_9b6e2a3b:
 translate template_lang phn_chloe11_done_83b2bba1:
 
     # u "Don't want to get kicked out of school now that I'm finally an Ape!"
-    u "Não quero ser expulso da facul logo agora que virei um Ape!"
+    u "Não quero ser expulso da facul logo agora que virei um Gorila!"
 
 # game/v8/scene13.rpy:159
 translate template_lang phn_chloe11_done_f8894dc9:
@@ -190,7 +190,7 @@ translate template_lang phn_chloe11_done_bb29309b:
 translate template_lang phn_chloe11_done_d806f6ba:
 
     # cl "So do you. But I'm on Chicks duty. Gotta welcome you new boys to the house."
-    cl "Você também, mas agora eu estou em tarefa oficial das Chicks. Tenho que dar as boas vindas aos novos Apes."
+    cl "Você também, mas agora eu estou em tarefa oficial das Chicks. Tenho que dar as boas vindas aos novos Gorilas."
 
 # game/v8/scene13.rpy:207
 translate template_lang phn_chloe11_done_6885240b:
@@ -496,7 +496,7 @@ translate template_lang phn_chloe11_done_d0706dc7:
 translate template_lang phn_chloe11_done_a8d34f0b:
 
     # u "You're not. It's too much. But... how can I help? We're brothers now, too. Apes stick together."
-    u "Não fica assim. É algo complicado. Mas... como eu posso te ajudar? Nós somos irmãos agora. Os Apes cuidam um dos outros."
+    u "Não fica assim. É algo complicado. Mas... como eu posso te ajudar? Nós somos irmãos agora. Os Gorilas cuidam um dos outros."
 
 # game/v8/scene13.rpy:427
 translate template_lang phn_chloe11_done_ba1eddc1:
