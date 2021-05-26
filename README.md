@@ -25,12 +25,12 @@ If you want to proofread your script again, there is a column for that as well, 
 
 Progress | ?/all | Who is working on it? | Proofreading | Who is proofreading?
 -------- | -------- | --------- | --------- | ---------
-non script files | 0/3 | - | [ ] | -
-v01.rpy | 0/5225 | - | [ ] | -
-v02.rpy | 0/4221 | - | [ ] | -
-v03.rpy | 0/3636 | - | [ ] | -
-v04.rpy | 0/3227 | - | [ ] | -
-v05.rpy | 0/3498 | - | [ ] | -
+non script files | 0/3 | Krisp1k, PorneliusHubert | [X] | Krisp1k
+v01.rpy | 0/5225 | PorneliusHubert | [ ] | -
+v02.rpy | 0/4221 | PorneliusHubert | [ ] | -
+v03.rpy | 0/3636 | Krisp1k | [ ] | -
+v04.rpy | 0/3227 | Krisp1k | [ ] | -
+v05.rpy | 0/3498 | Krisp1k | [ ] | -
 v06.rpy | 0/11645 | - | [ ] | -
 v07.rpy | 0/18403 | - | [ ] | -
 v08 files | 0/45 | - | [ ] | -
