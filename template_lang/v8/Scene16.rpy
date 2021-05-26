@@ -4,11 +4,11 @@
 translate template_lang mc_wolves_sun_aft_e2049ac4:
 
     # u "(Guess I'll chill out for a bit.)"
-    u ""
+    u "(Acho que vou descansar um pouco.)"
 
 # game/v8/Scene16.rpy:49
 translate template_lang mc_apes_sun_aft_e2049ac4:
 
     # u "(Guess I'll chill out for a bit.)"
-    u ""
+    u "(Acho que vou descansar um pouco.)"
 
