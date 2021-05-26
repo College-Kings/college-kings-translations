@@ -10,7 +10,7 @@ translate template_lang fr5ryan1_3b09e5fa:
 translate template_lang fr5ryan1_dec8d92e:
 
     # ry "That obvious, huh?"
-    ry "é tão óbvio assim?"
+    ry "É tão óbvio assim?"
 
 # game/v9/scene7.rpy:144
 translate template_lang fr5ryan1_a2337515:
