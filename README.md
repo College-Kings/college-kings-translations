@@ -33,8 +33,8 @@ v04.rpy | 0/3227 | TheProfMilos | [ ] | -
 v05.rpy | 0/3498 | TheProfMilos | [ ] | -
 v06.rpy | 0/11645 | - | [ ] | -
 v07.rpy | 0/18403 | - | [ ] | -
-v08 files | 0/45 | - | [ ] | -
-v09 files | 0/42 | - | [ ] | -
+v08 files | 0/45 | TheProfMilos | [ ] | -
+v09 files | 0/42 | Kfar | [ ] | -
 v10 files | TBA | - | [ ] | -
 
 Have fun!
