@@ -1366,7 +1366,7 @@ translate template_lang phonev_991b0d48:
 translate template_lang phonev_56eac2c1:
 
     # u "Haha it's okay, I'm still grateful. Do you mind if I sit down?"
-    u ""
+    u "Haha, sem problemas. Eu ainda estou agradecido. Você se importa se eu me sentar aqui?"
 
 # game/v4/v4.rpy:1305
 translate template_lang phonev_69f80e4d:
@@ -1414,7 +1414,7 @@ translate template_lang phonev_69f80e4d_1:
 translate template_lang ea_b_3a538381:
 
     # u "Fine. I'll sit somewhere else."
-    u ""
+    u "Tá, vou sentar em outro lugar."
 
 # game/v4/v4.rpy:1358
 translate template_lang autumnsita_30dd3439:
@@ -1696,73 +1696,73 @@ translate template_lang ec_bd_c812e1b1:
 translate template_lang continueaa_40fb7627:
 
     # u "(Oh, Penelope's here, I should probably say hi.)"
-    u ""
+    u "(Olha, a Penelope está aqui. Eu provavelmente deveria ir cumprimentá-la.)"
 
 # game/v4/v4.rpy:1613
 translate template_lang continueaa_1d6a0cc7:
 
     # u "Penelope?"
-    u ""
+    u "Penelope?"
 
 # game/v4/v4.rpy:1623
 translate template_lang continueaa_f8d4c8bd:
 
     # pe "[name]!!!"
-    pe ""
+    pe "[name]!!!"
 
 # game/v4/v4.rpy:1635
 translate template_lang continueaa_10d00e75:
 
     # pe "Heyyy!"
-    pe ""
+    pe "Oiiii!!"
 
 # game/v4/v4.rpy:1639
 translate template_lang continueaa_fefb8a1c:
 
     # pe "How did you know I was gonna be here?"
-    pe ""
+    pe "Como você soube que eu estaria aqui?"
 
 # game/v4/v4.rpy:1648
 translate template_lang continueaa_8b7dfbe5:
 
     # u "Magic powers, of course."
-    u ""
+    u "Magia, obviamente."
 
 # game/v4/v4.rpy:1653
 translate template_lang continueaa_869d0574:
 
     # pe "Haha, you're stupid."
-    pe ""
+    pe "Haha, engraçadinho."
 
 # game/v4/v4.rpy:1658
 translate template_lang continueaa_bfe01d1d:
 
     # pe "You wanna sit down?"
-    pe ""
+    pe "Quer se juntar à mim?"
 
 # game/v4/v4.rpy:1663
 translate template_lang continueaa_9064cdac:
 
     # u "Yeah, sure."
-    u ""
+    u "Sim, claro."
 
 # game/v4/v4.rpy:1671
 translate template_lang continueaa_b7962dc0:
 
     # u "I didn't, but I'm glad I came now."
-    u ""
+    u "Não adivinhei, mas ainda bem que eu vim."
 
 # game/v4/v4.rpy:1676
 translate template_lang continueaa_fcf6fc2c:
 
     # pe "Well, me too! Wanna sit down?"
-    pe ""
+    pe "Bom, ainda bem mesmo! Quer sentar?"
 
 # game/v4/v4.rpy:1681
 translate template_lang continueaa_9064cdac_1:
 
     # u "Yeah, sure."
-    u ""
+    u "Sim, claro."
 
 # game/v4/v4.rpy:1684
 translate template_lang continueaa_6ff50e9a:
@@ -3010,43 +3010,43 @@ translate template_lang strings:
 
     # game/v4/v4.rpy:5
     old "Dope"
-    new ""
+    new "Maneiro"
 
     # game/v4/v4.rpy:6
     old "Come by 995 Sereno Drive at 8, it's my friends house."
-    new ""
+    new "Só vir pra Sereno Drive 995 às 8, é a casa duma amiga."
 
     # game/v4/v4.rpy:9
     old "Aww, come on. You'll be back by 11."
-    new ""
+    new "Poooo, fala sério. Vc vai voltar antes das 11."
 
     # game/v4/v4.rpy:11
     old "I told my friend Amber about you and she really wants to meet you."
-    new ""
+    new "Eu falei de vc pra minha amiga Amber e ela quer te conhecer ein ;P"
 
     # game/v4/v4.rpy:12
     old "Alright, I'll come."
-    new ""
+    new "Beleza, eu vou."
 
     # game/v4/v4.rpy:13
     old "Josh, I don't know, man. I don't wanna be late."
-    new ""
+    new "Josh eu acho melhor não, não quero me atrasar"
 
     # game/v4/v4.rpy:16
     old "Remember how you told me in high school that you felt like you always missed out on all the crazy stories?"
-    new ""
+    new "Lembra que vc me disse na escola que sempre tava de fora das paradas maneiras?"
 
     # game/v4/v4.rpy:17
     old "Don't miss out now."
-    new ""
+    new "Não perde a chance agora"
 
     # game/v4/v4.rpy:18
     old "Fine, I'll come. But I need to go before 11."
-    new ""
+    new "Blz, eu vou, mas vou vazar antes das 11"
 
     # game/v4/v4.rpy:27
     old "This guy"
-    new ""
+    new "Olha o cara."
 
     # game/v4/v4.rpy:83
     old "You should be more careful."
@@ -3094,19 +3094,19 @@ translate template_lang strings:
 
     # game/v4/v4.rpy:1053
     old "Hey Chloe, any chance you can meet up in a bit?"
-    new ""
+    new "Oie Chloe, você tá livre agora?"
 
     # game/v4/v4.rpy:1054
     old "I'm really busy today, but I could do tonight after 11 or so."
-    new ""
+    new "Eu tô super ocupada hoje, mas tô livre à noite depois das 11."
 
     # game/v4/v4.rpy:1055
     old "Alright, cool. I'll be at yours for 11"
-    new ""
+    new "Beleza, por mim ótimo. A gente se ve as 11"
 
     # game/v4/v4.rpy:1056
     old "Sounds good :)"
-    new ""
+    new "Por mim perfeito :)"
 
     # game/v4/v4.rpy:1115
     old "Sit somewhere else"
@@ -3122,11 +3122,11 @@ translate template_lang strings:
 
     # game/v4/v4.rpy:1641
     old "Magic Powers."
-    new ""
+    new "Magia Ancestral."
 
     # game/v4/v4.rpy:1641
     old "I didn't."
-    new ""
+    new "Não sabia."
 
     # game/v4/v4.rpy:1692
     old "Buy Penelope a muffin"
@@ -3158,7 +3158,7 @@ translate template_lang strings:
 
     # game/v4/v4.rpy:2171
     old "Hey man, you wanna hang out with me and some friends tonight?"
-    new ""
+    new "Eae maninho, quer vir curtir comigo e umas amigas hoje?"
 
     # game/v4/v4.rpy:2444
     old "Tease her"
@@ -3166,7 +3166,7 @@ translate template_lang strings:
 
     # game/v4/v4.rpy:2173
     old "I'm meeting a friend at 11, so I can't really."
-    new ""
+    new "Eu tenho que me encontrar com uma amiga às 11, então não vai rolar"
 
     # game/v4/v4.rpy:2285
     old "I can move."
@@ -3218,9 +3218,9 @@ translate template_lang strings:
 
     # game/v4/v4.rpy:2891
     old "Accuse her of lying"
-    new ""
+    new "Acusar ela de mentir"
 
     # game/v4/v4.rpy:2891
     old "Ask about the punch"
-    new ""
+    new "Perguntar sobre o soco"
 
