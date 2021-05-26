@@ -31,7 +31,7 @@ v02.rpy | 0/4221 | Bibs2 | [ ] | Differ
 v03.rpy | 0/3636 | peacelocker125 | [ ] | -
 v04.rpy | 0/3227 | TheProfMilos | [ ] | -
 v05.rpy | 0/3498 | TheProfMilos | [ ] | -
-v06.rpy | 0/11645 | - | [ ] | -
+v06.rpy | 0/11645 | ArkellCK | [ ] | -
 v07.rpy | 0/18403 | - | [ ] | -
 v08 files | 0/45 | TheProfMilos | [ ] | -
 v09 files | 6/42 | Kfar | [ ] | -
