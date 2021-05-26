@@ -4,7 +4,7 @@
 translate template_lang v5start_b1183ab6:
 
     # no "What are you doing here? And why did you just punch the wall?"
-    no ""
+    no "Co tady děláš? A proč boucháš do tý stěny?"
 
 # game/v5/v5.rpy:70
 translate template_lang v5start_d59430b9:
@@ -202,55 +202,55 @@ translate template_lang ev_bd_fb22b6d4:
 translate template_lang jorepb_4f1997c1:
 
     # "*Knock knock knock*"
-    ""
+    "*Ťuk ťuk ťuk*"
 
 # game/v5/v5.rpy:253
 translate template_lang jorepb_b2db8899:
 
     # cl "Hey. You wanna come in?"
-    cl ""
+    cl "Čau. Jdeš dál?"
 
 # game/v5/v5.rpy:258
 translate template_lang jorepb_428dfda8:
 
     # u "Hey uh, actually... can we- can we talk outside first? I- I just wanna clear something up."
-    u ""
+    u "Hej, uh... vlastně, nemůžeme si promluvit spíš venku? Jen si chci něco vyjastnit."
 
 # game/v5/v5.rpy:263
 translate template_lang jorepb_009c5a98:
 
     # cl "Uhm, yeah of course. Let me just put on my sweater."
-    cl ""
+    cl "Uhm, klidně. Jen si na sebe něco vezmu."
 
 # game/v5/v5.rpy:268
 translate template_lang jorepb_9b634cd2:
 
     # cl "So, what did you wanna talk to me about?"
-    cl ""
+    cl "Takže, o čem jsi to chtěl mluvit?"
 
 # game/v5/v5.rpy:273
 translate template_lang jorepb_11aed362:
 
     # u "Well, Ryan... *deep breath* Ryan said you were playing me and just using me to get back at Grayson."
-    u ""
+    u "No, Ryan... *hluboké nadechnutí* Ryan říkal, že si se mnou jen hraješ, aby ses pomstila Graysonovi."
 
 # game/v5/v5.rpy:278
 translate template_lang jorepb_e1e72d62:
 
     # cl "What?? [name], I'm not, that's absurd..."
-    cl ""
+    cl "Cože?? Ale, vždyť to je absurdní."
 
 # game/v5/v5.rpy:283
 translate template_lang jorepb_d4482fd2:
 
-    # u " He said Grayson told him about a lot of shady shit that you did in the past."
-    u ""
+    # u "He said Grayson told him about a lot of shady shit that you did in the past."
+    u "Říkal, že Grayson mu pověděl o všech těch špatných věcech, který si v minulosti dělala."
 
 # game/v5/v5.rpy:287
 translate template_lang jorepb_ac67d852:
 
     # cl "I didn't do anything shady. Grayson is just spreading lies like he always is."
-    cl ""
+    cl "To není pravda! Grayson jenom šíří takovýhle pomluvy, jako pokaždý."
 
 # game/v5/v5.rpy:297
 translate template_lang jorepb_ee48bd46:
@@ -634,19 +634,19 @@ translate template_lang nnbd_fb22b6d4:
 translate template_lang newchloec_e18add73:
 
     # u "(Oh shit, I'm getting a bunch of messages.)"
-    u ""
+    u "(Ty vole, to je hodně zpráv.)"
 
 # game/v5/v5.rpy:671
 translate template_lang phonex_fa9e2e90:
 
     # u "(I should probably reply to some of them.)"
-    u ""
+    u "(Radši bych měl začít odepisovat.)"
 
 # game/v5/v5.rpy:674
 translate template_lang phonex_8820f8c7:
 
     # u "(Time to get ready.)"
-    u ""
+    u "(Je načase se připravit.)"
 
 # game/v5/v5.rpy:681
 translate template_lang phoney_9a1ea500:
