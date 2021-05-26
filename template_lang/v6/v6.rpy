@@ -1,850 +1,850 @@
-﻿# TODO: Translation updated at 2021-05-24 07:15
+﻿# TODO: Translation updated at 2021-05-26 14:11
 
 # game/v6/v6.rpy:123
 translate template_lang imrecona_05b8b552:
 
     # u "(I need to find Imre and apologize. He's probably in our dorm room.)"
-    u ""
+    u "(Eu preciso encontrar o Imre e me desculpar com ele. Ele provavelmente está no nosso quarto.)"
 
 # game/v6/v6.rpy:133
 translate template_lang imrecona_76592c06:
 
     # u "Imre, look-"
-    u ""
+    u "Imre, mano-"
 
 # game/v6/v6.rpy:135
 translate template_lang imrecona_b36deda7:
 
     # u "Wait, what are you doing???"
-    u ""
+    u "Espera, o que cê tá fazendo??"
 
 # game/v6/v6.rpy:140
 translate template_lang imrecona_a563d57d:
 
     # imre "I'm moving out."
-    imre ""
+    imre "Eu tô me mudando."
 
 # game/v6/v6.rpy:145
 translate template_lang imrecona_6de3add4:
 
     # u "What?! Dude, we had one little argument."
-    u ""
+    u "Quê?! Cara, foi só uma briguinha."
 
 # game/v6/v6.rpy:149
 translate template_lang imrecona_aea07de2:
 
     # imre "You decided what was right for me, without even asking. You got no type of loyalty at all!"
-    imre ""
+    imre "Você decidiu o que quis por mim, sem nem me perguntar nada. Tem zero lealdade em você!"
 
 # game/v6/v6.rpy:158
 translate template_lang imrecona_c028d023:
 
     # u "Look, you're injured and I don't want you to bleed internally. I did what I had to!"
-    u ""
+    u "Cara, você já tá machucado e ia acabar com uma hemorragia ou sei lá o quê. Eu fiz o que tinha que fazer!"
 
 # game/v6/v6.rpy:160
 translate template_lang imrecona_c6abdd28:
 
     # u "You know our friendship comes first, but sometimes loyalty means protecting each other even if we don't wanna be protected."
-    u ""
+    u "Eu sei que a amizade vem primeiro, mas lealdade também é proteger um ao outro mesmo quando a gente não quer ser protegido."
 
 # game/v6/v6.rpy:170
 translate template_lang imrecona_1fefd0cf:
 
     # imre "Even if you're right, that was my fight..."
-    imre ""
+    imre "Mesmo se cê tiver certo, era a MINHA luta..."
 
 # game/v6/v6.rpy:175
 translate template_lang imrecona_9245ee4e:
 
     # u "I'm sorry, you'll get your revenge someday... but not while you're injured."
-    u ""
+    u "Me desculpa. Você ainda vai ter sua vingança... Mas não enquanto tiver machucado."
 
 # game/v6/v6.rpy:180
 translate template_lang imrecona_29273a9f:
 
     # imre "Yeah, I guess..."
-    imre ""
+    imre "É, eu acho..."
 
 # game/v6/v6.rpy:187
 translate template_lang imrecona_9918a7f5:
 
     # u "Does that mean you're staying?"
-    u ""
+    u "Quer dizer que cê vai ficar?"
 
 # game/v6/v6.rpy:192
 translate template_lang imrecona_2de85348:
 
     # imre "Alright."
-    imre ""
+    imre "Tá bem"
 
 # game/v6/v6.rpy:197
 translate template_lang imrecona_71dcf4c1:
 
     # u "Brothers?"
-    u ""
+    u "Irmãos?"
 
 # game/v6/v6.rpy:202
 translate template_lang imrecona_be583e7e:
 
     # imre "Brothers."
-    imre ""
+    imre "Irmãos."
 
 # game/v6/v6.rpy:204
 translate template_lang imrecona_b7322b81:
 
     # imre "I need some time to think. I'll see you later."
-    imre ""
+    imre "Eu preciso de um tempo pra pensar. Te vejo mais tarde."
 
 # game/v6/v6.rpy:209
 translate template_lang imrecona_3f3be3cb:
 
     # u "Alright, let me know if there's anything else I can do."
-    u ""
+    u "Beleza, me avisa se precisar de qualquer coisa."
 
 # game/v6/v6.rpy:228
 translate template_lang imrecona_3ca6fa7c:
 
     # imre "Fuck do you know about loyalty?! You just wanna be in control!"
-    imre ""
+    imre "O que você sabe sobre ser leal?! Eu só queria estar no controle!"
 
 # game/v6/v6.rpy:237
 translate template_lang imrecona_c4ee4496:
 
     # u "I'm sorry. I shouldn't have done what I did."
-    u ""
+    u "Foi mal. Eu não devia ter feito isso."
 
 # game/v6/v6.rpy:239
 translate template_lang imrecona_7987fc4b:
 
     # u "I'm really sorry."
-    u ""
+    u "Me desculpa mesmo."
 
 # game/v6/v6.rpy:244
 translate template_lang imrecona_3e161c5b:
 
     # imre "Fuck you! Your shitty apologies mean nothing!"
-    imre ""
+    imre "Vai se foder! Sua desculpinha não muda nada!"
 
 # game/v6/v6.rpy:246
 translate template_lang imrecona_a29e80eb:
 
     # imre "I'm fucking done with you! I'm staying with a friend 'till they find me a new dorm."
-    imre ""
+    imre "Cansei de você! Vou ficar com um amigo até achar um quarto novo."
 
 # game/v6/v6.rpy:251
 translate template_lang imrecona_99c4a6b6:
 
     # u "Come on Imre, you're overreacting!"
-    u ""
+    u "Qual é, cara, você tá exagerando!"
 
 # game/v6/v6.rpy:258
 translate template_lang imrecona_0a9079a2:
 
     # u "FUCK!"
-    u ""
+    u "MERDA!"
 
 # game/v6/v6.rpy:267
 translate template_lang imreconb_0eb52a41:
 
     # u "(I need to help Imre, Adam will destroy him in his current condition.)"
-    u ""
+    u "(Eu preciso ajudar o Imre. O Adam vai acabar com ele desse jeito.)"
 
 # game/v6/v6.rpy:272
 translate template_lang imreconb_6bf3e75e:
 
     # imre "Come out you piece of shit!"
-    imre ""
+    imre "Vamo, seu bosta. Sai daí!"
 
 # game/v6/v6.rpy:274
 translate template_lang imreconb_3fbd7e50:
 
     # imre "You can't fucking hide from me forever!"
-    imre ""
+    imre "Você não pode se esconder pra sempre!"
 
 # game/v6/v6.rpy:279
 translate template_lang imreconb_66bfa7ca:
 
     # u "Shit, is Adam hiding from you in his room?"
-    u ""
+    u "Quê?! O Adam tá se escondendo dentro do quarto?"
 
 # game/v6/v6.rpy:284
 translate template_lang imreconb_d640fcb6:
 
     # imre "I mean, I didn't see him go in there..."
-    imre ""
+    imre "Na real, eu nem vi ele entrando..."
 
 # game/v6/v6.rpy:289
 translate template_lang imreconb_62bf2a88:
 
     # u "Oh, so he's probably not in the dorm...?"
-    u ""
+    u "Ah, então ele nem deve estar no quarto...?"
 
 # game/v6/v6.rpy:294
 translate template_lang imreconb_839c2821:
 
     # imre "Or he's hiding."
-    imre ""
+    imre "Ou ele tá se escondendo."
 
 # game/v6/v6.rpy:299
 translate template_lang imreconb_b467603b:
 
     # u "Can we just sit down in our dorm room and talk?"
-    u ""
+    u "A gente pode voltar pro quarto e conversar?"
 
 # game/v6/v6.rpy:301
 translate template_lang imreconb_8b6bbb07:
 
     # u "He's clearly not here anyways."
-    u ""
+    u "Ele obviamente não tá aí, mano."
 
 # game/v6/v6.rpy:306
 translate template_lang imreconb_169816de:
 
     # imre "Fine..."
-    imre ""
+    imre "Tá..."
 
 # game/v6/v6.rpy:311
 translate template_lang imreconb_ed58fa91:
 
     # imre "You know, it's just... my brother would never let someone do that to him."
-    imre ""
+    imre "É que... meu irmão nunca deixaria alguém fazer isso com ele."
 
 # game/v6/v6.rpy:316
 translate template_lang imreconb_c27405c2:
 
     # u "Yeah but that doesn't mean your brother would just risk his life fighting with broken ribs."
-    u ""
+    u "É, mas também não quer dizer que seu irmão iria arriscar a própria vida lutando com as costelas quebradas."
 
 # game/v6/v6.rpy:321
 translate template_lang imreconb_e0c3f57b:
 
     # imre "You're right, he would have beaten Adam up the first time and would've never gotten injured."
-    imre ""
+    imre "Você tá certo, ele teria quebrado o Adam na primeira luta e nem teria se machucado."
 
 # game/v6/v6.rpy:326
 translate template_lang imreconb_2f0a74cf:
 
     # u "Look, there's a time to get revenge, but it's not now."
-    u ""
+    u "Cara, vai ter o tempo certo pra você se vingar, mas não é agora."
 
 # game/v6/v6.rpy:331
 translate template_lang imreconb_fb96cd56:
 
     # imre "Mhm..."
-    imre ""
+    imre "Hm..."
 
 # game/v6/v6.rpy:333
 translate template_lang imreconb_b7322b81:
 
     # imre "I need some time to think. I'll see you later."
-    imre ""
+    imre "Eu preciso de um tempo pra pensar. Te vejo mais tarde."
 
 # game/v6/v6.rpy:338
 translate template_lang imreconb_3f3be3cb:
 
     # u "Alright, let me know if there's anything else I can do."
-    u ""
+    u "Beleza, me avisa se precisar de qualquer coisa."
 
 # game/v6/v6.rpy:353
 translate template_lang imreconc_fc392e5a:
 
     # u "(Fuck it, Imre can wait.)"
-    u ""
+    u "Foda-se, o Imre se vira.)"
 
 # game/v6/v6.rpy:355
 translate template_lang imreconc_c99eb55b:
 
     # u "(I know a spot where I'm completely alone...)"
-    u ""
+    u "(Eu conheço um lugar onde eu posso ficar sozinho...)"
 
 # game/v6/v6.rpy:369
 translate template_lang phonead_8786d02f:
 
     # u "(Time to text Amber.)"
-    u ""
+    u "(Vamo ver o que a Amber quer.)"
 
 # game/v6/v6.rpy:372
 translate template_lang phonead_77a2c777:
 
     # u "(Amber is so fucking hot, I hope she sends more pictures like that in the future.)"
-    u ""
+    u "A Amber é tão gostosa, espero que ela mande mais fotos assim no futuro."
 
 # game/v6/v6.rpy:374
 translate template_lang phonead_6c075c02:
 
     # u "(Although I feel like I could've just received this in the park.)"
-    u ""
+    u "(Apesar de achar que eu poderia ter só recebido essa no parque mesmo.)"
 
 # game/v6/v6.rpy:376
 translate template_lang phonead_5aa288ad:
 
     # u "(I should probably go back to my dorm and check on Imre now.)"
-    u ""
+    u "(Eu deveria voltar pro dormitório e checar o Imre agora.)"
 
 # game/v6/v6.rpy:381
 translate template_lang imrecond_743e89f6:
 
     # u "(Fuck it, Chloe's more important.)"
-    u ""
+    u "(Foda-se, a Chloe é mais importante.)"
 
 # game/v6/v6.rpy:392
 translate template_lang phoneac_e4edb176:
 
     # u "(I should reply to Chloe.)"
-    u ""
+    u "(Eu deveria responder a Chloe.)"
 
 # game/v6/v6.rpy:397
 translate template_lang phoneac_4fe7b5ae:
 
     # u "(Time to go swimming with the hottest girl in school...)"
-    u ""
+    u "(Hora de ir nada com a garota mais gostosa do campus...)"
 
 # game/v6/v6.rpy:407
 translate template_lang phoneac_6c012194:
 
     # u "Hey, Chloe."
-    u ""
+    u "Oi, Chloe."
 
 # game/v6/v6.rpy:412
 translate template_lang phoneac_e2b7805d:
 
     # cl "Heyyy!"
-    cl ""
+    cl "Eei!"
 
 # game/v6/v6.rpy:432
 translate template_lang phoneac_d98f16ab:
 
     # u "So... swimming, huh?"
-    u ""
+    u "E aí... nadar, hein?"
 
 # game/v6/v6.rpy:437
 translate template_lang phoneac_004fc5ac:
 
     # cl "What, you don't wanna see me in a bikini?"
-    cl ""
+    cl "O quê, você não quer me ver de biquini?"
 
 # game/v6/v6.rpy:442
 translate template_lang phoneac_7bddcf18:
 
     # u "That's definitely not it, haha."
-    u ""
+    u "Com certeza não é isso, haha."
 
 # game/v6/v6.rpy:444
 translate template_lang phoneac_54cb1756:
 
     # u "Uhm, thinking about it, I did kinda forget to bring swimming trunks."
-    u ""
+    u "Falando nisso, eu até esqueci de trazer uma roupa de banho."
 
 # game/v6/v6.rpy:449
 translate template_lang phoneac_4a0e1ae6:
 
     # cl "Well then you'll have to swim in your boxers."
-    cl ""
+    cl "Acho que você vai ter que cair de cueca."
 
 # game/v6/v6.rpy:451
 translate template_lang phoneac_651788d9:
 
     # cl "You're not leaving here without getting into the water with me."
-    cl ""
+    cl "Você não sai daqui sem cair na água comigo."
 
 # game/v6/v6.rpy:456
 translate template_lang phoneac_9c87faa1:
 
     # u "I guess I don't have a choice."
-    u ""
+    u "Acho que não tenho escolha."
 
 # game/v6/v6.rpy:461
 translate template_lang phoneac_a1aa5e4a:
 
     # u "What are you looking at?"
-    u ""
+    u "O que cê tá olhando?*Sorrindo* Opa, você me seca o tempo todo."
 
 # game/v6/v6.rpy:466
 translate template_lang phoneac_cee49c18:
 
     # cl "*Chuckles* Hey, you stare at me all the time."
-    cl ""
+    cl "*Sorrindo* Opa, você me seca o tempo todo."
 
 # game/v6/v6.rpy:468
 translate template_lang phoneac_f8f3a056:
 
     # cl "I'm just trying to get us even."
-    cl ""
+    cl "Só tô tentando deixar as coisas iguais."
 
 # game/v6/v6.rpy:473
 translate template_lang phoneac_3933dc40:
 
     # u "Stare at you? You wish."
-    u ""
+    u "Te secando? Queria você."
 
 # game/v6/v6.rpy:478
 translate template_lang phoneac_9a4cf874:
 
     # cl "So, you're jumping in first, right?"
-    cl ""
+    cl "Você vai cair primeiro, né?"
 
 # game/v6/v6.rpy:483
 translate template_lang phoneac_f87f4afc:
 
     # u "Hey, you're gonna-"
-    u ""
+    u "Ei, você vai-"
 
 # game/v6/v6.rpy:490
 translate template_lang phoneac_94c537b9:
 
     # cl "*High pitched scream*"
-    cl ""
+    cl "*Grito agudo*"
 
 # game/v6/v6.rpy:495
 translate template_lang phoneac_241078e4:
 
     # cl "*Laughingly* Wow. I can't believe you did that."
-    cl ""
+    cl "*Rindo* Uau. Não acredito que você fez isso."
 
 # game/v6/v6.rpy:500
 translate template_lang phoneac_e18a9965:
 
     # u "Well if I'm going down, you're going down with me."
-    u ""
+    u "Se eu caio, você cai comigo."
 
 # game/v6/v6.rpy:505
 translate template_lang phoneac_19600c83:
 
     # cl "That's fair."
-    cl ""
+    cl "Justo."
 
 # game/v6/v6.rpy:516
 translate template_lang phoneac_6ccbac6e:
 
     # "*Splash*"
-    ""
+    "*Splash*"
 
 # game/v6/v6.rpy:521
 translate template_lang phoneac_927802d5:
 
     # u "Ey!"
-    u ""
+    u "Ei!"
 
 # game/v6/v6.rpy:526
 translate template_lang phoneac_80c64b26:
 
     # cl "*Laughs*"
-    cl ""
+    cl "*Ri*"
 
 # game/v6/v6.rpy:531
 translate template_lang phoneac_201a45ea:
 
     # u "I'll get you for that!"
-    u ""
+    u "Você vai pagar por isso!"
 
 # game/v6/v6.rpy:536
 translate template_lang phoneac_31c866e8:
 
     # cl "*Laughs* You're too fast for me!"
-    cl ""
+    cl "*Rindo* Você é rápido demais pra mim!"
 
 # game/v6/v6.rpy:550
 translate template_lang phoneac_d974d116:
 
     # "*Phone rings*"
-    ""
+    "*Celular toca*"
 
 # game/v6/v6.rpy:563
 translate template_lang phoneac_e673c31f:
 
     # u "Just let it ring..."
-    u ""
+    u "Deixa tocar..."
 
 # game/v6/v6.rpy:568
 translate template_lang phoneac_bcbc9842:
 
     # cl "What if it's important?"
-    cl ""
+    cl "E se for importante?"
 
 # game/v6/v6.rpy:573
 translate template_lang phoneac_3bb7e37d:
 
     # u "*Sighs* Alright."
-    u ""
+    u "*Suspiro* Certo."
 
 # game/v6/v6.rpy:578
 translate template_lang phoneac_a4813c2b:
 
     # cl "I'll be right back."
-    cl ""
+    cl "Já volto."
 
 # game/v6/v6.rpy:586
 translate template_lang phoneac_9df728fd:
 
     # u "You should probably get that, huh?"
-    u ""
+    u "Cê tem que atender, né?"
 
 # game/v6/v6.rpy:591
 translate template_lang phoneac_3a024c28:
 
     # cl "Yeah... I'll be right back."
-    cl ""
+    cl "É... Mas eu já volto."
 
 # game/v6/v6.rpy:607
 translate template_lang fo_ad_93c6f32c:
 
     # cl "Hey, what's up?"
-    cl ""
+    cl "Oi. E aí?"
 
 # game/v6/v6.rpy:617
 translate template_lang fo_ad_faab8195:
 
     # cl "Already? Yeah, alright..."
-    cl ""
+    cl "Já? Tá certo..."
 
 # game/v6/v6.rpy:627
 translate template_lang fo_ad_b7cb28c4:
 
     # cl "No one. I'll see you in a bit."
-    cl ""
+    cl "Ninguém. Te vejo daqui a pouco."
 
 # game/v6/v6.rpy:637
 translate template_lang fo_ad_46ebc6bd:
 
     # cl "Yeah, haha. Bye."
-    cl ""
+    cl "Uhum, haha. Tchauzinho."
 
 # game/v6/v6.rpy:651
 translate template_lang fo_ad_c915a837:
 
     # u "So, who called you?"
-    u ""
+    u "E aí, quem era?"
 
 # game/v6/v6.rpy:656
 translate template_lang fo_ad_871e72c8:
 
     # cl "Oh, just a friend."
-    cl ""
+    cl "Ah, só uma amiga."
 
 # game/v6/v6.rpy:670
 translate template_lang fp_ad_cabee948:
 
     # cl "I gotta go soon, but this was really fun."
-    cl ""
+    cl "Eu tenho que ir, mas foi divertido."
 
 # game/v6/v6.rpy:675
 translate template_lang fp_ad_3a90c30d:
 
     # u "Oh, already? You really are busy."
-    u ""
+    u "Mas já? Cheia dos compromissos."
 
 # game/v6/v6.rpy:680
 translate template_lang fp_ad_0bd1822a:
 
     # cl "What can I say? I'm just that important. *Chuckles*"
-    cl ""
+    cl "O que eu posso dizer? Eu sou muito importante. *Ri*"
 
 # game/v6/v6.rpy:685
 translate template_lang fp_ad_4e0a698d:
 
     # cl "I'm gonna get dressed. I'll see you sometime soon, okay?"
-    cl ""
+    cl "Vou me vestir. Te vejo logo, tá?"
 
 # game/v6/v6.rpy:690
 translate template_lang fp_ad_2e8c8088:
 
     # u "Yeah, sounds good."
-    u ""
+    u "Tá, a gente se vê."
 
 # game/v6/v6.rpy:695
 translate template_lang fp_ad_f5d2629a:
 
     # cl "Bye."
-    cl ""
+    cl "Tchau, tchau."
 
 # game/v6/v6.rpy:705
 translate template_lang fp_ad_604e5884:
 
     # u "Bye."
-    u ""
+    u "Tchau."
 
 # game/v6/v6.rpy:710
 translate template_lang fp_ad_3f9a5915:
 
     # u "(I wonder if she's meeting up with another guy, it did sound kinda suspicious.)"
-    u ""
+    u "(Será que ela vai encontrar outro cara? Pareceu suspeito.)"
 
 # game/v6/v6.rpy:719
 translate template_lang fp_ad_28cd08d6:
 
     # u "(I should follow her. What if Ryan wasn't so wrong about Chloe after all?)"
-    u ""
+    u "(Eu deveria segui-la. Vai que o Ryan não tava totalmente errado sobre ela.)"
 
 # game/v6/v6.rpy:729
 translate template_lang fp_ad_e2b7805d:
 
     # cl "Heyyy!"
-    cl ""
+    cl "Ooooi!"
 
 # game/v6/v6.rpy:734
 translate template_lang fp_ad_cdd2a73f:
 
     # au "Did you just come out of the shower?"
-    au ""
+    au "Cê acabou de sair do chuveiro?"
 
 # game/v6/v6.rpy:739
 translate template_lang fp_ad_6d8d6020:
 
     # u "(Phew, it's just Aubrey. I should probably get out of here before they find me...)"
-    u ""
+    u "(Ufa, é só a Aubrey. Eu deveria ir logo embora antes que elas me vejam...)"
 
 # game/v6/v6.rpy:741
 translate template_lang fp_ad_175b87b8:
 
     # u "(I wonder if they talk about me though. I could just stay a bit longer.)"
-    u ""
+    u "(Mas será que elas falam de mim? Eu poderia ficar só mais um pouco.)"
 
 # game/v6/v6.rpy:752
 translate template_lang fp_ad_d9f6f682:
 
     # cl "I was swimming, actually."
-    cl ""
+    cl "Eu tava nadando, na real"
 
 # game/v6/v6.rpy:757
 translate template_lang fp_ad_be286959:
 
     # au "Uhh, with who?"
-    au ""
+    au "Uuhh, com quem?"
 
 # game/v6/v6.rpy:762
 translate template_lang fp_ad_429d2e0e:
 
     # cl "With [name]."
-    cl ""
+    cl "Com o [name]."
 
 # game/v6/v6.rpy:767
 translate template_lang fp_ad_22f446fd:
 
     # au "He's cute, isn't he?"
-    au ""
+    au "Ele é fofo, né?"
 
 # game/v6/v6.rpy:772
 translate template_lang fp_ad_25fe91d0:
 
     # cl "And he, like, actually cares... unlike some other guys."
-    cl ""
+    cl "E ele, tipo, parece mesmo se importar... ao contrário de outros caras."
 
 # game/v6/v6.rpy:777
 translate template_lang fp_ad_e9acbb29:
 
     # au "Yeah, unlike Grayson."
-    au ""
+    au "É, caras tipo o Grayson."
 
 # game/v6/v6.rpy:782
 translate template_lang fp_ad_c9f71855:
 
     # cl "Exactly."
-    cl ""
+    cl "Exato."
 
 # game/v6/v6.rpy:789
 translate template_lang fp_ad_d5589d08:
 
     # "*Twig cracks*"
-    ""
+    "*Galho quebrando*"
 
 # game/v6/v6.rpy:791
 translate template_lang fp_ad_538b62a3:
 
     # u "(Shit.)"
-    u ""
+    u "(Puta que pariu.)"
 
 # game/v6/v6.rpy:796
 translate template_lang fp_ad_6b1bf580:
 
     # cl "What was that?"
-    cl ""
+    cl "O que foi isso?"
 
 # game/v6/v6.rpy:801
 translate template_lang fp_ad_5c227e75:
 
     # cl "[name]?!"
-    cl ""
+    cl "[name]?!"
 
 # game/v6/v6.rpy:803
 translate template_lang fp_ad_a7386861:
 
     # u "I... uh... I can explain."
-    u ""
+    u "Eu... é... eu posso explicar."
 
 # game/v6/v6.rpy:808
 translate template_lang fp_ad_d3aae36b:
 
     # au "Were you spying on us?"
-    au ""
+    au "Cê tava espionando a gente?"
 
 # game/v6/v6.rpy:813
 translate template_lang fp_ad_641cd193:
 
     # u "No I... I was just worried you know."
-    u ""
+    u "Não, eu... Eu só tava preocupado que você..."
 
 # game/v6/v6.rpy:818
 translate template_lang fp_ad_ef9cc9a0:
 
     # cl "About what?"
-    cl ""
+    cl "Que eu o quê?"
 
 # game/v6/v6.rpy:823
 translate template_lang fp_ad_6f396f00:
 
     # u "Nothing, I just thought..."
-    u ""
+    u "Nada, eu só pensei que..."
 
 # game/v6/v6.rpy:828
 translate template_lang fp_ad_4b0225b3:
 
     # cl "Do you not trust me? What? Did you think I was off meeting up with another guy?!"
-    cl ""
+    cl "Você não confia em mim? Acha que eu ia me encontrar com outro cara??"
 
 # game/v6/v6.rpy:833
 translate template_lang fp_ad_2d1344df:
 
     # u "It's not like that, it's just... the phone call, I-"
-    u ""
+    u "Não é isso, é que... A chamada, eu-"
 
 # game/v6/v6.rpy:838
 translate template_lang fp_ad_812a0583:
 
     # cl "That was from Aubrey. I can't believe you..."
-    cl ""
+    cl "Era a Aubrey. Eu não acredito..."
 
 # game/v6/v6.rpy:843
 translate template_lang fp_ad_1f00f728:
 
     # cl "Come on Aubrey."
-    cl ""
+    cl "Vamo, Aubrey."
 
 # game/v6/v6.rpy:848
 translate template_lang fp_ad_ba58b502:
 
     # u "Chloe! Chloe wait! Ugh..."
-    u ""
+    u "Chloe! Espera! Aaahhh..."
 
 # game/v6/v6.rpy:858
 translate template_lang fp_ad_57ae9944:
 
     # u "*Sighs*"
-    u ""
+    u "*Suspira*"
 
 # game/v6/v6.rpy:863
 translate template_lang fp_ad_a0e8c208:
 
     # u "(No, I should just get out of here and stop spying on her.)"
-    u ""
+    u "(Não, eu tenho que sair daqui antes que ela descubra.)"
 
 # game/v6/v6.rpy:871
 translate template_lang fp_ad_a775e98f:
 
     # u "(I shouldn't spy on her. It's not right.)"
-    u ""
+    u "Eu não devia espiona-la. É errado."
 
 # game/v6/v6.rpy:885
 translate template_lang fs_bd_809e1e42:
 
     # u "(What's this?)"
-    u ""
+    u "(O que é isso?)"
 
 # game/v6/v6.rpy:889
 translate template_lang fs_bd_4c36316e:
 
     # u "(He moved out???)"
-    u ""
+    u "(Ele foi embora???)"
 
 # game/v6/v6.rpy:891
 translate template_lang fs_bd_e22f1c00:
 
     # u "(Fuck, maybe I could've stopped him if I had just talked to him immediately...)"
-    u ""
+    u "(Que bosta. Talvez eu pudesse ter impedido ele se tivesse voltado antes...)"
 
 # game/v6/v6.rpy:908
 translate template_lang fs_bd_57ae9944:
 
     # u "*Sighs*"
-    u ""
+    u "*Suspira*"
 
 # game/v6/v6.rpy:914
 translate template_lang fs_bd_11aba451:
 
     # u "(Fuck, Imre isn't here... I hope he's okay, I better call him.)"
-    u ""
+    u "(Merda, o Imre não tá aqui... Espero que ele esteja bem. É melhor ligar pra ele.)"
 
 # game/v6/v6.rpy:924
 translate template_lang fs_bd_ef228979:
 
     # imre "Yeah?"
-    imre ""
+    imre "Quê?"
 
 # game/v6/v6.rpy:929
 translate template_lang fs_bd_8ba4c076:
 
     # u "Imre, you okay? What happened?"
-    u ""
+    u "Imre, cê tá bem? O que rolou?"
 
 # game/v6/v6.rpy:934
 translate template_lang fs_bd_fe97a2f3:
 
     # imre "Well I was banging on this bastard's door, but he was too pussy to open."
-    imre ""
+    imre "Eu fiquei batendo na porta desse puto, mas ele é cagão demais pra abrir."
 
 # game/v6/v6.rpy:939
 translate template_lang fs_bd_b9efbe3c:
 
     # u "Shit, he was hiding from you?"
-    u ""
+    u "Caralho, ele se escondeu de você?"
 
 # game/v6/v6.rpy:944
 translate template_lang fs_bd_020116b5:
 
     # imre "I mean he didn't say shit, so yeah."
-    imre ""
+    imre "Quer dizer, ele não disse nada, então sim."
 
 # game/v6/v6.rpy:949
 translate template_lang fs_bd_f18944dd:
 
     # u "Oh, so he wasn't home."
-    u ""
+    u "Ah, ele não tava lá."
 
 # game/v6/v6.rpy:954
 translate template_lang fs_bd_9188e3c4:
 
     # imre "Or he was hiding. Whatever."
-    imre ""
+    imre "Ou tava mesmo se escondendo, mas foda-se."
 
 # game/v6/v6.rpy:959
 translate template_lang fs_bd_f136889d:
 
     # u "Where are you now?"
-    u ""
+    u "Onde cê tá agora?"
 
 # game/v6/v6.rpy:964
 translate template_lang fs_bd_ba78e1fe:
 
     # imre "Walking round town, trying to think."
-    imre ""
+    imre "Dando uma volta pela cidade, tentando esfriar a cabeça."
 
 # game/v6/v6.rpy:969
 translate template_lang fs_bd_537de71c:
 
     # u "Alright, I'm here if you wanna talk."
-    u ""
+    u "Beleza. Eu tô aqui se cê precisar."
 
 # game/v6/v6.rpy:974
 translate template_lang fs_bd_faa07ed0:
 
     # imre "Alright, see you later."
-    imre ""
+    imre "Beleza, te vejo mais tarde."
 
 # game/v6/v6.rpy:979
 translate template_lang fs_bd_953a9579:
 
     # u "Yeah, bye."
-    u ""
+    u "Tá certo, tchau."
 
 # game/v6/v6.rpy:998
 translate template_lang continuebb_9ea2f78c:
@@ -856,7 +856,7 @@ translate template_lang continuebb_9ea2f78c:
 translate template_lang phoneae_e80c8a11:
 
     # u "(I should probably reply to my messages.)"
-    u ""
+    u "(Eu deveria responder minhas mensagens.)"
 
 # game/v6/v6.rpy:1026
 translate template_lang phoneae_9ea2f78c:
@@ -868,217 +868,217 @@ translate template_lang phoneae_9ea2f78c:
 translate template_lang phoneaf_e80c8a11:
 
     # u "(I should probably reply to my messages.)"
-    u ""
+    u "(Eu deveria responder minhas mensagens.)"
 
 # game/v6/v6.rpy:1035
 translate template_lang phoneaf_77a2c777:
 
     # u "(Amber is so fucking hot, I hope she sends more pictures like that in the future.)"
-    u ""
+    u "(A Amber é tão gostosa, espero que ela mande mais fotos assim no futuro.)"
 
 # game/v6/v6.rpy:1041
 translate template_lang continuebd_306ca429:
 
     # u "(I should probably go to bed now, I got class at 9 am tomorrow.)"
-    u ""
+    u "(Eu deveria deitar agora. Tenho aula amanhã de manhã.)"
 
 # game/v6/v6.rpy:1051
 translate template_lang continuebd_7d193b2b:
 
     # u "*Yawns*"
-    u ""
+    u "*Boceja*"
 
 # game/v6/v6.rpy:1056
 translate template_lang continuebd_d84a64c4:
 
     # u "(Time for another boring-ass economics lecture...)"
-    u ""
+    u "(Tá na hora de outra aula porre de economia...)"
 
 # game/v6/v6.rpy:1070
 translate template_lang continuebd_9ea1e8f9:
 
     # u "Hey guys."
-    u ""
+    u "Oi, pessoal."
 
 # game/v6/v6.rpy:1076
 translate template_lang continuebd_8b4972a9:
 
     # la "Heyyy."
-    la ""
+    la "Oiee."
 
 # game/v6/v6.rpy:1083
 translate template_lang continuebd_6c420c5e:
 
     # "*Kiss*"
-    ""
+    "*Beija*"
 
 # game/v6/v6.rpy:1093
 translate template_lang continuebd_6279aa4f:
 
     # ri "Are you two dating?"
-    ri ""
+    ri "Vocês dois estão namorando?"
 
 # game/v6/v6.rpy:1098
 translate template_lang continuebd_392dc94a:
 
     # la "I don't know. Maybe... yes."
-    la ""
+    la "Não sei. Talvez... sim."
 
 # game/v6/v6.rpy:1103
 translate template_lang continuebd_41ebc5e7:
 
     # ri "Wow, I really had no idea."
-    ri ""
+    ri "Uau, não fazia ideia."
 
 # game/v6/v6.rpy:1108
 translate template_lang continuebd_8831e416:
 
     # ro "Alright class, let's get started. Open your books to page 225."
-    ro ""
+    ro "Okay, turma, vamos começar. Abram os livros na página 225."
 
 # game/v6/v6.rpy:1143
 translate template_lang continuebd_6c420c5e_1:
 
     # "*Kiss*"
-    ""
+    "*Beija*"
 
 # game/v6/v6.rpy:1148
 translate template_lang continuebd_fa1de463:
 
     # la "I gotta go, I have to finish a paper. I'll see you later."
-    la ""
+    la "Eu tenho que ir, tneho que termina um trabalho. Te vejo mais tarde."
 
 # game/v6/v6.rpy:1153
 translate template_lang continuebd_daa843ad:
 
     # u "Alright, bye."
-    u ""
+    u "Tá bem, tchau tchau."
 
 # game/v6/v6.rpy:1158
 translate template_lang continuebd_84011d39:
 
     # ri "So, you and Lauren, huh?"
-    ri ""
+    ri "Então, você e a Lauren, hein?"
 
 # game/v6/v6.rpy:1163
 translate template_lang continuebd_38066709:
 
     # u "Oh, yeah... me and Lauren."
-    u ""
+    u "Ah, sim... eu e a Lauren."
 
 # game/v6/v6.rpy:1168
 translate template_lang continuebd_2db75ff3:
 
     # ri "I uhm... I'm happy for you guys."
-    ri ""
+    ri "Eu err... Fico feliz por vocês."
 
 # game/v6/v6.rpy:1173
 translate template_lang continuebd_ee01f9b9:
 
     # u "Thanks."
-    u ""
+    u "Valeu."
 
 # game/v6/v6.rpy:1180
 translate template_lang continuebd_8b4972a9_1:
 
     # la "Heyyy."
-    la ""
+    la "Eeei."
 
 # game/v6/v6.rpy:1195
 translate template_lang continuebd_8831e416_1:
 
     # ro "Alright class, let's get started. Open your books to page 225."
-    ro ""
+    ro "Okay, turma, vamos começar. Abram os livros na página 225."
 
 # game/v6/v6.rpy:1228
 translate template_lang continuebd_fa1de463_1:
 
     # la "I gotta go, I have to finish a paper. I'll see you later."
-    la ""
+    la "Eu tenho que ir, tneho que termina um trabalho. Te vejo mais tarde."
 
 # game/v6/v6.rpy:1233
 translate template_lang continuebd_daa843ad_1:
 
     # u "Alright, bye."
-    u ""
+    u "Tá bem, tchau tchau."
 
 # game/v6/v6.rpy:1238
 translate template_lang continuebd_d49551a2:
 
     # ri "You and Lauren seem to have been getting along quite well today."
-    ri ""
+    ri "Você e aa Lauren pareciam estar bem íntimos hoje."
 
 # game/v6/v6.rpy:1243
 translate template_lang continuebd_d97a7a4d:
 
     # u "*Grins* Whatever."
-    u ""
+    u "*Sorri* Tanto faz."
 
 # game/v6/v6.rpy:1254
 translate template_lang continuebd_8686e81c:
 
     # u "Hey."
-    u ""
+    u "Ei."
 
 # game/v6/v6.rpy:1259
 translate template_lang continuebd_a40af0da:
 
     # ri "Hey."
-    ri ""
+    ri "Oi."
 
 # game/v6/v6.rpy:1264
 translate template_lang continuebd_7508c92f:
 
     # ri "Is she mad at you or something?"
-    ri ""
+    ri "Ela tá chateada contigo ou algo do tipo?"
 
 # game/v6/v6.rpy:1269
 translate template_lang continuebd_d48bafca:
 
     # u "I don't know. Maybe."
-    u ""
+    u "Nem sei, talvez."
 
 # game/v6/v6.rpy:1274
 translate template_lang continuebd_0bdc9a22:
 
     # ri "What for?"
-    ri ""
+    ri "Pelo quê?"
 
 # game/v6/v6.rpy:1279
 translate template_lang continuebd_92994585:
 
     # u "It doesn't matter."
-    u ""
+    u "Por nada."
 
 # game/v6/v6.rpy:1284
 translate template_lang continuebd_1ccfa1f2:
 
     # ri "Mhmmm..."
-    ri ""
+    ri "Hmm..."
 
 # game/v6/v6.rpy:1286
 translate template_lang continuebd_39b3a66f:
 
     # u "Where's Ryan?"
-    u ""
+    u "Cadê o Ryan?"
 
 # game/v6/v6.rpy:1291
 translate template_lang continuebd_fc5c499f:
 
     # ri "I don't know."
-    ri ""
+    ri "Não faço ideia."
 
 # game/v6/v6.rpy:1296
 translate template_lang continuebd_8831e416_2:
 
     # ro "Alright class, let's get started. Open your books to page 225."
-    ro ""
+    ro "Okay, turma, vamos começar. Abram os livros na página 225."
 
 # game/v6/v6.rpy:1334
 translate template_lang continuebd_dc524394:
 
     # u "(Maybe I should talk to her, doesn't seem like she's forgiven me.)"
-    u ""
+    u "(Talvez eu deva falar com ela. Parece que ela ainda não me perdoou.)"
 
 # game/v6/v6.rpy:1343
 translate template_lang continuebd_115fe6fe:
