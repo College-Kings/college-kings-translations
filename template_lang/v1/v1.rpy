@@ -4,157 +4,157 @@
 translate template_lang starta_cf384216:
 
     # em "I know what I did was bad..."
-    em ""
+    em "Yaptığım şeyin kötü olduğunu biliyorum ..."
 
 # game/v1/v1.rpy:48
 translate template_lang starta_64fd2540:
 
     # em "But I'll do anything to make it up to you."
-    em ""
+    em "Ama bunu telafi etmek için her şeyi yapacağım."
 
 # game/v1/v1.rpy:53
 translate template_lang starta_bf767b85:
 
     # em "Anything."
-    em ""
+    em "Herhani bir şey."
 
 # game/v1/v1.rpy:61
 translate template_lang starta_a412f2c0:
 
     # "Honey?"
-    ""
+    "Tatlım?"
 
 # game/v1/v1.rpy:71
 translate template_lang starta_b3630c9b:
 
     # u "Hmm...?"
-    u ""
+    u "Hmm...?"
 
 # game/v1/v1.rpy:76
 translate template_lang starta_d8f49870:
 
     # ju "Breakfast is ready!"
-    ju ""
+    ju "Kahvaltı hazır!"
 
 # game/v1/v1.rpy:81
 translate template_lang starta_d1bbd257:
 
     # u "Mhmm... I'll be right down."
-    u ""
+    u "Mhmm... Hemen geliyorum."
 
 # game/v1/v1.rpy:82
 translate template_lang starta_e1ee75ad:
 
     # u "(What am I doing dreaming about Emily?!)"
-    u ""
+    u "(Emily hakkında rüya görerek ne yapıyorum ?!)"
 
 # game/v1/v1.rpy:88
 translate template_lang starta_b74833d7:
 
     # ju "Good morning, honey."
-    ju ""
+    ju "Günaydın, tatlım."
 
 # game/v1/v1.rpy:93
 translate template_lang starta_b997b913:
 
     # u "Morning, Julia."
-    u ""
+    u "Günaydın, Julia."
 
 # game/v1/v1.rpy:98
 translate template_lang starta_6de07b52:
 
     # ju "Are you excited for today?"
-    ju ""
+    ju "Bugün için heyecanlı mısın?"
 
 # game/v1/v1.rpy:103
 translate template_lang starta_4331151b:
 
     # u "Excited?"
-    u ""
+    u "Excited?"
 
 # game/v1/v1.rpy:108
 translate template_lang starta_92971eae:
 
     # ju "Honey, it's your first day of college. That's a big deal!"
-    ju ""
+    ju "Tatlım, bugün üniversitede ilk günün. Bu büyük bir mesele!"
 
 # game/v1/v1.rpy:113
 translate template_lang starta_8f620671:
 
     # u "I guess you're right."
-    u ""
+    u "Sanırım haklısın."
 
 # game/v1/v1.rpy:117
 translate template_lang starta_2eccb6f0:
 
     # ju "Have you packed all your stuff? Have you printed out all the documents you need? Have you-"
-    ju ""
+    ju "Tüm eşyalarını topladın mı? İhtiyacın olan tüm belgeleri aldın mı? Hepsini ald-"
 
 # game/v1/v1.rpy:123
 translate template_lang starta_d6c07c0e:
 
     # u "Julia, it's fine. I packed yesterday."
-    u ""
+    u "Julia, Sorun yok. Dün hallettim."
 
 # game/v1/v1.rpy:127
 translate template_lang starta_82219ef8:
 
     # ju "Look at you, all grown-up. I'm so proud of you."
-    ju ""
+    ju "Kendine bir bak, büyümüşsün. Seninle gurur duyuyorum."
 
 # game/v1/v1.rpy:132
 translate template_lang starta_52918fb3:
 
     # ju "You better not forget to come visit."
-    ju ""
+    ju "Ziyarete gelmeyi unutmasan iyi olur."
 
 # game/v1/v1.rpy:133
 translate template_lang starta_82cfc32d:
 
     # u "I'll think about it, if you make lasagna."
-    u ""
+    u "Eğer lazanya yaparsan bunu düşünebilirim."
 
 # game/v1/v1.rpy:138
 translate template_lang starta_038be2bb:
 
     # ju "I'm sure that could be arranged."
-    ju ""
+    ju "Hallederiz."
 
 # game/v1/v1.rpy:140
 translate template_lang starta_73181c8a:
 
     # ju "Anyway, we should get ready, you don't wanna be late on your first day of college!"
-    ju ""
+    ju "Neyse, hazırlanmalıyız, üniversitenin ilk gününe geç kalmak istemezsin!"
 
 # game/v1/v1.rpy:145
 translate template_lang starta_2622622a:
 
     # u "Oh you're dropping me off? I was gonna take the train."
-    u ""
+    u "Oh sen mi bırakacaksın? Trene binecektim."
 
 # game/v1/v1.rpy:150
 translate template_lang starta_687c0a29:
 
     # ju "No way you're robbing me of the chance to embarrass you in front of your new friends."
-    ju ""
+    ju "Yeni arkadaşlarının önünde seni utandırma şansını beni elinden alamazsın."
 
 # game/v1/v1.rpy:155
 translate template_lang starta_0d074dd4:
 
     # u "Thanks, Julia... I'll be 20 minutes."
-    u ""
+    u "Teşekkürler Julia... 20 dakikaya geliyorum."
 
 # game/v1/v1.rpy:160
 translate template_lang starta_9a77e500:
 
     # u "(I better not lose this bag, Julia loves it.)"
-    u ""
+    u "(Bu çantayı kaybetmesem iyi olur, Julia onu seviyor.)"
 
 # game/v1/v1.rpy:164
 translate template_lang starta_8bdb5ed3:
 
     # u "(Huh?)"
-    u ""
+    u "(Huh?)"
 
 # game/v1/v1.rpy:179
 translate template_lang starta_360e66fc:
