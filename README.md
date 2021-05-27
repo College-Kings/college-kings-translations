@@ -32,8 +32,8 @@ v03.rpy | 0/3636 | peacelocker125 | [ ] | -
 v04.rpy | 3227/3227 | TheProfMilos | [ ] | -
 v05.rpy | 3498/3498 | TheProfMilos | [ ] | -
 v06.rpy | 1081/11645 | ArkellCK | [ ] | -
-v07.rpy | 0/18403 | - | [ ] | -
-v08 files | 27/45 | TheProfMilos | [ ] | -
+v07.rpy | 4105/18403 | TheProfMilos | [ ] | -
+v08 files | 29/45 | TheProfMilos | [ ] | -
 v09 files | 6/42 | Kfar | [ ] | -
 v10 files | TBA | - | [ ] | -
 
