@@ -10,7 +10,7 @@ translate template_lang v9_hallway_8378bc4d:
 translate template_lang v9_hallway_9506aaa6:
 
     # u "(Ohhh goddamn, honey why are you so hot?)"
-    u "(Ohhh porra, querida, como você é tão gostosa?)"
+    u "(Ohhh porra, querida, como você pode ser tão gostosa?)"
 
 # game/v9/scene12.rpy:38
 translate template_lang v9_hallway_d270ea8a:
