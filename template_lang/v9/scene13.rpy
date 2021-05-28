@@ -4,7 +4,7 @@
 translate template_lang thurs_aft_room_f5486e2e:
 
     # u "(What a day. Hot babes and assholes roaming the hallways, catching me off guard after class.)"
-    u "(Que dia. Garotas gostosas e babacasandando pelos corredores, me pegando desprevenido depois da aula.)"
+    u "(Que dia. Garotas gostosas e babacas andando pelos corredores, me pegando desprevenido depois da aula.)"
 
 # game/v9/scene13.rpy:17
 translate template_lang thurs_aft_room_6f14c6a2:
