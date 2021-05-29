@@ -1175,7 +1175,6 @@ translate template_lang continuean_6b879436:
 
     # la "You can decide to switch the lever, but remember, you're on a timer. If you don't switch the lever within a few seconds, the train will keep its current course."
     la "Kolu değiştirmeye karar verebilirsin, ancak zamanlayıcıda olduğunu unutmayın. Kolu birkaç saniye içinde değiştirmezsen, tren mevcut rotasını koruyacaktır."
-    la " "
 
 # game/v5/v5.rpy:1425
 translate template_lang trolleyca_d16202fb:
