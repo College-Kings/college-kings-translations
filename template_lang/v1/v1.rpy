@@ -5145,7 +5145,7 @@ translate template_lang strings:
 
     # game/v1/v1.rpy:2754
     old "Don't kiss her"
-    new Onu öpme""
+    new "Onu öpme"
 
     # game/v1/v1.rpy:2916
     old "Hey man, it's Ryan.\nThe Apes' rush party is tonight at 9. You're coming, right???"
