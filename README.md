@@ -25,7 +25,7 @@ If you want to proofread your script again, there is a column for that as well, 
 
 Progress | ?/all | Who is working on it? | Proofreading | Who is proofreading?
 -------- | -------- | --------- | --------- | ---------
-non script files | 0/3 | - | [ ] | -
+non script files | 0/3 | ArkellCK | [ ] | -
 v01.rpy | 5225/5225 | Bibs2 | [ ] | -
 v02.rpy | 1015/4221 | Bibs2 | [ ] | Differ
 v03.rpy | 0/3636 | peacelocker125 | [ ] | -
