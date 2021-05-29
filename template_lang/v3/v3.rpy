@@ -2584,7 +2584,7 @@ translate template_lang continueq_4f1997c1:
 translate template_lang continueq_0af354ea:
 
     # u "(I guess there goes my one minute of alone time...)"
-    u (Sanırım bir dakikalık yalnız kaldığım zamana gidiyor...)""
+    u "(Sanırım bir dakikalık yalnız kaldığım zamana gidiyor...)"
 
 # game/v3/v3.rpy:2710
 translate template_lang continueq_9ea1e8f9:
