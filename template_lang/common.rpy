@@ -1,6 +1,6 @@
-﻿# TODO: Translation updated at 2021-05-09 03:37
+﻿ODO: Translation updated at 2021-05-24 07:15
 
-translate turkish strings:
+translate template_lang strings:
 
     # renpy/common/00accessibility.rpy:28
     old "Self-voicing disabled."
