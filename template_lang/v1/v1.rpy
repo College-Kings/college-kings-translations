@@ -532,7 +532,7 @@ translate template_lang ad_db_e2737b85:
 translate template_lang ad_db_675e7bcc:
 
     # ro "We won't be starting 'til I can fix this damn laptop."
-    ro ""Bu lanet dizüstü bilgisayarı tamir edene kadar başlamayacağız.""
+    ro "Bu lanet dizüstü bilgisayarı tamir edene kadar başlamayacağız."
 
 # game/v1/v1.rpy:505
 translate template_lang ad_db_0608c281:
@@ -1317,8 +1317,8 @@ translate template_lang v1_freeRoam1_nora2_13d44738:
 # game/v1/v1.rpy:1184
 translate template_lang v1_freeRoam1_nora2_fd24539d:
 
-    # no "Meşgulüm."
-    no ""
+    # no "I'm busy."
+    no "Meşgulüm."
 
 # game/v1/v1.rpy:1194
 translate template_lang v1_freeRoam1_aubrey_db8e9080:
