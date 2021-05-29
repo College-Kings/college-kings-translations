@@ -46,7 +46,7 @@ translate template_lang v4start_9729603a:
 translate template_lang v4start_de621888:
 
     # imre "My brother asked some of his friends in the Wolves... *winces in pain*"
-    imre ""Kardeşim Kurtlardaki bazı arkadaşlarına sordu... *acı içinde titriyor*""
+    imre "Kardeşim Kurtlardaki bazı arkadaşlarına sordu... *acı içinde titriyor*"
 
 # game/v4/v4.rpy:68
 translate template_lang v4start_0162cafc:
@@ -298,7 +298,7 @@ translate template_lang dp_ad_892195fa:
 translate template_lang dp_ad_a3357a82:
 
     # ri "Hey, I still can't believe this happened."
-    ri ""Selam, bunun olduğuna hala inanamıyorum.""
+    ri "Selam, bunun olduğuna hala inanamıyorum."
 
 # game/v4/v4.rpy:288
 translate template_lang dp_ad_5031cd94:
@@ -688,7 +688,7 @@ translate template_lang du_bd_b91a74c6:
 translate template_lang du_bd_b94ad4ec:
 
     # ju "So is there anyone you like in particular?"
-    ju ""
+    ju "Özellikle hoşlandığın biri var mı?"
 
 # game/v4/v4.rpy:750
 translate template_lang du_bd_c6901fd2:
@@ -743,7 +743,6 @@ translate template_lang juchloe_292df6ee:
 
     # ju "I think that's a good idea. I'm sure you'll figure it out."
     ju "Bunun iyi bir fikir olduğunu düşünüyorum. Eminim bir yolunu bulursun."
-    ju ""
 
 # game/v4/v4.rpy:711
 translate template_lang juchloe_66f145da:
@@ -965,7 +964,7 @@ translate template_lang jucon2_af1d815f:
 translate template_lang jucon2_c245e5cf:
 
     # ju "Here, let me help you."
-    ju ""
+    ju "Sana yardım etmeme izin ver."
 
 # game/v4/v4.rpy:913
 translate template_lang jucon2_052fe8ee:
@@ -1205,7 +1204,7 @@ translate template_lang phonev_a7167818:
 translate template_lang phonev_7aae18fa:
 
     # aut "I believe you. At least you were honest about it and I don't think many guys would be."
-    aut ""Sana inanıyorum. En azından bu konuda dürüsttün ve pek çok erkeğin böyle olacağını sanmıyorum.""
+    aut "Sana inanıyorum. En azından bu konuda dürüsttün ve pek çok erkeğin böyle olacağını sanmıyorum."
 
 # game/v4/v4.rpy:1146
 translate template_lang phonev_a3e3618e:
@@ -1985,7 +1984,7 @@ translate template_lang ef_bd_9b357ad5:
 translate template_lang ef_bd_39ca1438:
 
     # pe "Uhm... nothing. Uni work. Homework. School stuff."
-    pe ""Uhm... hiçbir şey. Universite işleri. Ödev. Okul işleri.""
+    pe "Uhm... hiçbir şey. Universite işleri. Ödev. Okul işleri."
 
 # game/v4/v4.rpy:1962
 translate template_lang ef_bd_c6c6cfe6:
