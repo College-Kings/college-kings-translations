@@ -2992,7 +2992,7 @@ translate template_lang continueq_d4ef56c4:
 translate template_lang continueq_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v3/v3.rpy:3077
 translate template_lang continueq_0a0f40c2:
