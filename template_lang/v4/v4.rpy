@@ -2621,7 +2621,7 @@ translate template_lang ep_a_f23f8ceb:
 translate template_lang ep_a_be5f51b5:
 
     # jo "*Drunk* I assume you won't pick me, so who's it gonna be?"
-    jo ""
+    jo "*Sarhoş* Sanırım beni seçmeyeceksin, o zaman kim olacak?"
 
 # game/v4/v4.rpy:3133
 translate template_lang ep_a_30745333:
@@ -2915,7 +2915,7 @@ translate template_lang eu_b_05148e1b:
 translate template_lang eu_b_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v4/v4.rpy:2988
 translate template_lang eu_b_8d1e43e3:
@@ -2927,43 +2927,43 @@ translate template_lang strings:
 
     # game/v4/v4.rpy:5
     old "Dope"
-    new ""
+    new "Salak"
 
     # game/v4/v4.rpy:6
     old "Come by 995 Sereno Drive at 8, it's my friends house."
-    new ""
+    new "8'de 995 Sereno Drive'a gel, burası arkadaşlarımın evi."
 
     # game/v4/v4.rpy:9
     old "Aww, come on. You'll be back by 11."
-    new ""
+    new "Ah, hadi ama. 11'de dönersin."
 
     # game/v4/v4.rpy:11
     old "I told my friend Amber about you and she really wants to meet you."
-    new ""
+    new "Arkadaşım Amber'a senden bahsettim ve seninle tanışmak istiyor."
 
     # game/v4/v4.rpy:12
     old "Alright, I'll come."
-    new ""
+    new "Tamam, geleceğim."
 
     # game/v4/v4.rpy:13
     old "Josh, I don't know, man. I don't wanna be late."
-    new ""
+    new "Josh, bilmiyorum dostum. Geç kalmak istemiyorum."
 
     # game/v4/v4.rpy:16
     old "Remember how you told me in high school that you felt like you always missed out on all the crazy stories?"
-    new ""
+    new "Lisedeyken bana hep o çılgın hikayeleri kaçırmış gibi hissettiğini söylediğini hatırlıyor musun?"
 
     # game/v4/v4.rpy:17
     old "Don't miss out now."
-    new ""
+    new "Şimdi kaçırma."
 
     # game/v4/v4.rpy:18
     old "Fine, I'll come. But I need to go before 11."
-    new ""
+    new "Tamam, geleceğim. Ama 11'den önce gitmem gerek."
 
     # game/v4/v4.rpy:27
     old "This guy"
-    new ""
+    new "Bu adam"
 
     # game/v4/v4.rpy:83
     old "You should be more careful."
@@ -3007,23 +3007,23 @@ translate template_lang strings:
 
     # game/v4/v4.rpy:951
     old "Don't buy it"
-    new ""
+    new "Satın alma"
 
     # game/v4/v4.rpy:1053
     old "Hey Chloe, any chance you can meet up in a bit?"
-    new ""
+    new "Chloe, biraz sonra buluşabilir miyiz?"
 
     # game/v4/v4.rpy:1054
     old "I'm really busy today, but I could do tonight after 11 or so."
-    new ""
+    new "Bugün çok meşgulüm, ama bu gece 11'den sonra yapabilirim."
 
     # game/v4/v4.rpy:1055
     old "Alright, cool. I'll be at yours for 11"
-    new ""
+    new "Tamam, güzel. 11 saatliğine sende olacağım."
 
     # game/v4/v4.rpy:1056
     old "Sounds good :)"
-    new ""
+    new "Kulağa iyi geliyor :)"
 
     # game/v4/v4.rpy:1115
     old "Sit somewhere else"
@@ -3035,15 +3035,15 @@ translate template_lang strings:
 
     # game/v4/v4.rpy:1482
     old "Ignore him"
-    new ""
+    new "Onu görmezden gel"
 
     # game/v4/v4.rpy:1641
     old "Magic Powers."
-    new ""
+    new "Sihirli Güçler."
 
     # game/v4/v4.rpy:1641
     old "I didn't."
-    new ""
+    new "Yapmadım."
 
     # game/v4/v4.rpy:1692
     old "Buy Penelope a muffin"
@@ -3071,19 +3071,19 @@ translate template_lang strings:
 
     # game/v4/v4.rpy:2061
     old "Yeah, it was nice."
-    new ""
+    new "Evet, güzeldi."
 
     # game/v4/v4.rpy:2171
     old "Hey man, you wanna hang out with me and some friends tonight?"
-    new ""
+    new "Dostum, bu gece benimle ve arkadaşlarınla takılmak ister misin?"
 
     # game/v4/v4.rpy:2172
     old "Uhh, sure."
-    new ""
+    new "Uhh, tabi."
 
     # game/v4/v4.rpy:2173
     old "I'm meeting a friend at 11, so I can't really."
-    new ""
+    new "11'de bir arkadaşımla buluşacağım, bu yüzden gerçekten yapamam."
 
     # game/v4/v4.rpy:2699
     old "I can move."
@@ -3139,5 +3139,5 @@ translate template_lang strings:
 
     # game/v4/v4.rpy:2891
     old "Ask about the punch"
-    new ""
+    new "Yumruk hakkında sor"
 
