@@ -3,7 +3,7 @@
 translate template_lang v1_freeRoam2_end_9ea2f78c_3:
 
     # " "
-    ""
+    " "
 
 # game/v2/v2.rpy:4150
 translate template_lang v1_freeRoam2_end_1bba6b51:
@@ -57,7 +57,7 @@ translate template_lang v1_freeRoam2_end_1adeb7b0:
 translate template_lang v1_freeRoam2_end_9ea2f78c_4:
 
     # " "
-    ""
+    " "
 
 # game/v2/v2.rpy:4195
 translate template_lang v1_freeRoam2_end_272f5aa4:
@@ -135,7 +135,7 @@ translate template_lang v1_freeRoam2_end_a27d90a3:
 translate template_lang v1_freeRoam2_end_9ea2f78c_5:
 
     # " "
-    ""
+    " "
 
 # game/v2/v2.rpy:4320
 translate template_lang repeatb_b672f3b0:
@@ -237,7 +237,7 @@ translate template_lang v1_tomShoutBack_8fff8082:
 translate template_lang gb_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v2/v2.rpy:4424
 translate template_lang sta_0aadd307:
@@ -483,7 +483,7 @@ translate template_lang tutjabhit2_cd62240e:
 translate template_lang tomfinish6_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v2/v2.rpy:5333
 translate template_lang youfinish_07b0b527:
@@ -657,7 +657,7 @@ translate template_lang meet_lauren2_b95d0f31:
 translate template_lang meet_lauren2_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v2/v2.rpy:5485
 translate template_lang meet_lauren2_9fb6f14e:
@@ -807,7 +807,7 @@ translate template_lang meet_lauren2_37309bcc:
 translate template_lang meet_lauren2_9ea2f78c_1:
 
     # " "
-    ""
+    " "
 
 # game/v2/v2.rpy:5607
 translate template_lang meet_lauren2_08180b4e:
@@ -3789,7 +3789,7 @@ translate template_lang eve1_ee01f9b9:
 translate template_lang eve1_dccecc65:
 
     # u "Hey, is there any chance I could get your number?"
-    u ""Hey, numaranı alma şansım var mı?""
+    u "Hey, numaranı alma şansım var mı?"
 
 # game/v2/v2.rpy:8401
 translate template_lang eve1_4251955d:
