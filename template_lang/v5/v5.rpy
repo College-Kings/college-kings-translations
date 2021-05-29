@@ -448,7 +448,7 @@ translate template_lang jorepb_203a8419:
 translate template_lang jorepb_67cf5e6e:
 
     # u "Nothing! I think all I did was ruin our relationship..."
-    u Hiçbir şey! Sanırım tek yaptığım ilişkimizi mahvetmekti...""
+    u "Hiçbir şey! Sanırım tek yaptığım ilişkimizi mahvetmekti..."
 
 # game/v5/v5.rpy:511
 translate template_lang jorepb_4dc2dc97:
@@ -1180,25 +1180,25 @@ translate template_lang continuean_6b879436:
 translate template_lang trolleyca_d16202fb:
 
     # u "Oh my god!"
-    u ""
+    u "Aman tanrım!"
 
 # game/v5/v5.rpy:1444
 translate template_lang trolleycb_d16202fb:
 
     # u "Oh my god!"
-    u ""
+    u "Aman tanrım!"
 
 # game/v5/v5.rpy:1452
 translate template_lang continueao_a6828a76:
 
     # u "Lauren, what the fuck?? Emily??"
-    u ""
+    u "Lauren, ne oluyor?? Emily??"
 
 # game/v5/v5.rpy:1458
 translate template_lang continueao_3c937b18:
 
     # la "Sorry, I had to ask around in order to find a weak spot. My psych professor said this was essential for the last problem to work."
-    la ""
+    la "Üzgünüm, zayıf bir nokta bulmak için etrafa sormak zorunda kaldım. Psikoloji profesörüm, bunun son sorunun işe yaraması için gerekli olduğunu söyledi."
 
 # game/v5/v5.rpy:1468
 translate template_lang continueao_7831761a:
@@ -1354,37 +1354,37 @@ translate template_lang continueaf_1d52e490:
 translate template_lang continueaf_baeded33:
 
     # u "What? No, I'm just a friend looking for her, where is she?"
-    u ""
+    u "Ne? Hayır, sadece onu arayan bir arkadaşıyım, nerede o?"
 
 # game/v5/v5.rpy:1699
 translate template_lang continueaf_a86abcb6:
 
     # unknown "Uhm, alright, she's at some classroom for her personality test thing."
-    unknown ""
+    unknown "Uhm, pekala, kişilik testi için sınıfta."
 
 # game/v5/v5.rpy:1701
 translate template_lang continueaf_4d373ad7:
 
     # u "Thanks"
-    u ""
+    u "Teşekkürler"
 
 # game/v5/v5.rpy:1704
 translate template_lang continueaf_2c88a005:
 
     # unknown "Yeah, right. Fuck off."
-    unknown ""
+    unknown "Evet, doğru. Siktir git."
 
 # game/v5/v5.rpy:1708
 translate template_lang continueaf_b7eacca2:
 
     # u "(Shit, I don't have time to search her all around campus... I guess I'll have to apologize to her another time.)"
-    u ""
+    u "(Kahretsin, onu kampüsün her yerinde aramak için zamanım yok... Sanırım ondan başka bir zaman özür dilemeliyim.)"
 
 # game/v5/v5.rpy:1710
 translate template_lang continueaf_f1d94258:
 
     # u "(I should probably pick up Riley so that we can go and get Imre)"
-    u ""
+    u "(Muhtemelen Riley'i almalıyım, böylece gidip Imre'yi alabiliriz)"
 
 # game/v5/v5.rpy:1717
 translate template_lang continueaf_d49c0157:
@@ -1462,121 +1462,121 @@ translate template_lang apo_cac680ea:
 translate template_lang apo_85daf1c0:
 
     # u "Lauren?"
-    u ""
+    u "Lauren?"
 
 # game/v5/v5.rpy:1775
 translate template_lang apo_6439e089:
 
     # la "[name], what are you doing here?"
-    la ""
+    la "[name], burada ne yapıyorsun?"
 
 # game/v5/v5.rpy:1780
 translate template_lang apo_449c6579:
 
     # u "Listen, I wanted to apologize, I went too far and I'm sorry."
-    u ""
+    u "Dinle, özür dilemek istedim, çok ileri gittim ve özür dilerim."
 
 # game/v5/v5.rpy:1782
 translate template_lang apo_a5a44cd7:
 
     # u "I- I just got carried away."
-    u ""
+    u "Ben- ben sadece kendimi kaptırdım."
 
 # game/v5/v5.rpy:1790
 translate template_lang apo_0fb46afe:
 
     # la "When you continued pushing your hand up my thigh after I told you I didn't want it, you... you made me feel disgusting."
-    la ""
+    la "Sana istemediğimi söyledikten sonra elini kalçama doğru itmeye devam ettiğinde, sen... beni iğrenç hissettirdin."
 
 # game/v5/v5.rpy:1792
 translate template_lang apo_fbde4541:
 
     # la "But I know that you're really sorry and I don't wanna be mad at you."
-    la ""
+    la "Ama gerçekten üzgün olduğunu biliyorum Ve sana kızmak istemiyorum."
 
 # game/v5/v5.rpy:1794
 translate template_lang apo_24b53218:
 
     # la "That's if you're okay with just being friends again for now?"
-    la ""
+    la "Şu an için tekrar arkadaş olmak senin için sorun değil mi?"
 
 # game/v5/v5.rpy:1799
 translate template_lang apo_2be5d203:
 
     # u "Yeah, of course."
-    u ""
+    u "Evet, tabii ki."
 
 # game/v5/v5.rpy:1804
 translate template_lang apo_712a38ff:
 
     # la "Good."
-    la ""
+    la "İyi."
 
 # game/v5/v5.rpy:1809
 translate template_lang apo_a9d4953b:
 
     # u "What are you doing here anyways?"
-    u ""
+    u "Neyse burada ne yapıyorsun?"
 
 # game/v5/v5.rpy:1814
 translate template_lang apo_bd8378df:
 
     # la "For my psychology class I need someone to do a personality test with me which I can then analyze, but my friend just cancelled on me."
-    la ""
+    la "Psikoloji dersim için, daha sonra analiz edebileceğim bir kişilik testi yapacak birine ihtiyacım var, ama arkadaşım az önce iptal etti."
 
 # game/v5/v5.rpy:1819
 translate template_lang apo_a4d576e1:
 
     # u "I can do it."
-    u ""
+    u "Ben yapabilirim."
 
 # game/v5/v5.rpy:1824
 translate template_lang apo_0a0dccb2:
 
     # la "Really? That'd be amazing."
-    la ""
+    la "Gerçekten mi? Bu harika olurdu."
 
 # game/v5/v5.rpy:1829
 translate template_lang apo_9064cdac:
 
     # u "Yeah, sure."
-    u ""
+    u "Evet, tabi."
 
 # game/v5/v5.rpy:1834
 translate template_lang apo_0fb46afe_1:
 
     # la "When you continued pushing your hand up my thigh after I told you I didn't want it, you... you made me feel disgusting."
-    la ""
+    la "Sana istemediğimi söyledikten sonra elini kalçama doğru itmeye devam ettiğinde, sen... beni iğrenç hissettirdin."
 
 # game/v5/v5.rpy:1836
 translate template_lang apo_92824800:
 
     # la "I trusted you and you? You didn't seem to care one bit."
-    la ""
+    la "Sana ve sana güvendim mi? Zerre umurunda değilmiş gibi görünüyordu."
 
 # game/v5/v5.rpy:1841
 translate template_lang apo_69129072:
 
     # u "Lauren, I-"
-    u ""
+    u "Lauren, ben-"
 
 # game/v5/v5.rpy:1846
 translate template_lang apo_923d8e02:
 
     # la "Please just give me some time. I really don't wanna see you right now."
-    la ""
+    la "Sadece bana biraz zaman ver lütfen. Şu an seni görmek istemiyorum."
 
 # game/v5/v5.rpy:1851
 translate template_lang apo_a3b359ee:
 
     # u "Yeah, of course, sorry."
-    u ""
+    u "Evet, elbette, üzgünüm."
 
 # game/v5/v5.rpy:1853
 translate template_lang apo_1f9fd117:
 
     # u "(Fuck... but it's probably time to go pick up Imre with Riley anyways.)"
-    u ""
+    u "(Siktir... ama muhtemelen Riley ile Imre'yi almanın zamanı gelmiştir.)"
 
 # game/v5/v5.rpy:1860
 translate template_lang apo_6439e089_1:
@@ -2260,229 +2260,229 @@ translate template_lang hospitala_0f5a6937:
 translate template_lang hospitala_1898af7b:
 
     # u "(On the other hand, if I don't tell the school Imre might actually get himself killed trying to get revenge.)"
-    u ""
+    u "(Öte yandan, eğer okula söylemezsem, Imre intikam almaya çalışırken kendini öldürebilir.)"
 
 # game/v5/v5.rpy:2847
 translate template_lang fk_a_fb0e787e:
 
     # ad "Oh pissbag, you're about to die."
-    ad ""
+    ad "Sidik torbası, ölmek üzeresin."
 
 # game/v5/v5.rpy:3564
 translate template_lang fl_b_187df52d:
 
     # u "(It's best if I keep to myself. Telling the school would turn both Imre and Adam against me...)"
-    u ""
+    u "(Kendime saklarsam en iyisi olur. Okula söylemek hem Imre hem de Adam'ı bana karşı çevirirdi...)"
 
 # game/v5/v5.rpy:3568
 translate template_lang fl_b_dadac323:
 
     # u "(I need to find Imre before he finds Adam.)"
-    u ""
+    u "(Adam'ı bulmadan önce Imre'yi bulmalıyım.)"
 
 # game/v5/v5.rpy:3581
 translate template_lang fl_a_85fd8679:
 
     # u "(I need to tell the school, it's the only way to sort this out.)"
-    u ""
+    u "(Okula söylemeliyim ki, bunu çözmenin tek yolu bu.)"
 
 # game/v5/v5.rpy:3591
 translate template_lang fl_a_835394e7:
 
     # co "Have a seat."
-    co ""
+    co "Oturun."
 
 # game/v5/v5.rpy:3596
 translate template_lang fl_a_121281cb:
 
     # co "How can I help you today?"
-    co ""
+    co "Bugün size nasıl yardım edebilirim?"
 
 # game/v5/v5.rpy:3601
 translate template_lang fl_a_83874930:
 
     # u "Well, kinda hard to say. Not trying to start any issues, but I need to protect my friend."
-    u ""
+    u "Söylemesi biraz zor. Herhangi bir sorun çıkarmaya çalışmıyorum, ama arkadaşımı korumam gerekiyor."
 
 # game/v5/v5.rpy:3606
 translate template_lang fl_a_91a955ae:
 
     # co "Mhm. I see. I can only help you, if you tell me the problem. Also you can be assured that whatever you tell me, your identity will be kept confidential. Feel free to share what's weighing on you."
-    co ""
+    co "Mhm. Görüyorum. Sadece sorunu anlatırsan sana yardım edebilirim. Ayrıca, bana ne söylerseniz söyleyin, kimliğinizin gizli tutulacağından emin olabilirsiniz. Size neyin ağır geldiğini paylaşmaktan çekinmeyin."
 
 # game/v5/v5.rpy:3611
 translate template_lang fl_a_756e4076:
 
     # u "A close friend of mine got jumped by this guy. He got beat up pretty bad, broken ribs and all."
-    u ""
+    u "Yakın bir arkadaşım bu adam tarafından pataklandı. Çok kötü dövülmüş, kaburgaları kırılmış falan."
 
 # game/v5/v5.rpy:3616
 translate template_lang fl_a_dd183bed:
 
     # co "I'm very sorry to hear that."
-    co ""
+    co "Bunu duyduğuma çok üzüldüm."
 
 # game/v5/v5.rpy:3621
 translate template_lang fl_a_b6da9e4f:
 
     # u "And now my friend, who isn't even fully recovered, is out trying to get revenge. He was this close to internal bleeding last time, if he gets beat up again..."
-    u ""
+    u "Ve şimdi tam olarak iyileşmemiş olan arkadaşım intikam almaya çalışıyor. Geçen sefer iç kanamaya bu kadar yakındı, eğer tekrar dövülürse..."
 
 # game/v5/v5.rpy:3626
 translate template_lang fl_a_513a53f0:
 
     # co "I understand. I'll do my best to ensure your friend does not suffer any more violence."
-    co ""
+    co "Anlıyorum. Arkadaşının daha fazla şiddete maruz kalmaması için elimden geleni yapacağım."
 
 # game/v5/v5.rpy:3628
 translate template_lang fl_a_45ab7f75:
 
     # co "What is your friend's name?"
-    co ""
+    co "Arkadaşının adı nedir?"
 
 # game/v5/v5.rpy:3633
 translate template_lang fl_a_0f22eb8d:
 
     # u "Imre, Imre Varga."
-    u ""
+    u "Imre, Imre Varga"
 
 # game/v5/v5.rpy:3638
 translate template_lang fl_a_2e77fe64:
 
     # co "And do you happen to know the name of the other person involved? Assault is a serious crime."
-    co ""
+    co "Ve bu davada yer alan diğer kişinin adını biliyor musunuz? Saldırı ciddi bir suçtur."
 
 # game/v5/v5.rpy:3643
 translate template_lang fl_a_31cbcb9b:
 
     # u "Uh yeah, his name's Adam. I don't know his last name, but he lives in corridor B."
-    u ""
+    u "Evet, adı Adam. Soyadını bilmiyorum ama B koridorunda yaşıyor."
 
 # game/v5/v5.rpy:3648
 translate template_lang fl_a_0031d9f0:
 
     # co "Thank you, that will be all. I'm sorry about what happened to your friend, please try and keep a close eye on him until we can get this all sorted."
-    co ""
+    co "Teşekkür ederim, hepsi olacak. Arkadaşınıza olanlar için üzgünüm, lütfen her şeyi halledene kadar onu yakından takip etmeye çalışın."
 
 # game/v5/v5.rpy:3653
 translate template_lang fl_a_9d5e5faf:
 
     # u "So uhm... what will happen to Adam?"
-    u ""
+    u "Yani uhm... Adam ne olacak?"
 
 # game/v5/v5.rpy:3658
 translate template_lang fl_a_5cc07dc5:
 
     # co "That won't be up to me, but expulsion is definitely a possibility."
-    co ""
+    co "Bu bana bağlı değil ama  okuldan uzaklaştırılması kesinlikle bir olasılık."
 
 # game/v5/v5.rpy:3659
 translate template_lang fl_a_a193ffe3:
 
     # co "If your friend is willing to pursue this legally, I'd assume assault charges might also be on the table. However, I'm not a lawyer, so I can't speak with certainty on that."
-    co ""
+    co "Arkadaşınız bunu yasal olarak takip etmeye istekliyse, saldırı suçlamalarının da masada olabileceğini varsayıyorum. Ancak, ben bir avukat değilim, bu yüzden bu konuda kesin olarak konuşamam."
 
 # game/v5/v5.rpy:3664
 translate template_lang fl_a_8e963ebc:
 
     # u "Alright, thanks. No one will know that I was the one who told you about this, right?"
-    u ""
+    u "Pekala, teşekkürler. Bunu sana söyleyenin ben olduğumu kimse bilmeyecek, değil mi?"
 
 # game/v5/v5.rpy:3669
 translate template_lang fl_a_c4b408b8:
 
     # co "Of course not. Your name will remain strictly confidential."
-    co ""
+    co "Tabii ki olmayacak. Adınız kesinlikle gizli kalacaktır."
 
 # game/v5/v5.rpy:3674
 translate template_lang fl_a_5f8df423:
 
     # u "Good, thank you."
-    u ""
+    u "İyi, teşekkür ederim."
 
 # game/v5/v5.rpy:3679
 translate template_lang fl_a_0c2b0379:
 
     # co "You made the right decision coming here."
-    co ""
+    co "Buraya gelmekle doğru kararı verdin."
 
 # game/v5/v5.rpy:3684
 translate template_lang fl_a_238a1b06:
 
     # u "Sorry?"
-    u ""
+    u "Pardon?"
 
 # game/v5/v5.rpy:3689
 translate template_lang fl_a_e7cc2107:
 
     # co "A lot of students never tell us about their problems until it's too late to solve them. It's not \"uncool\" or \"cowardly\" to speak up."
-    co ""
+    co "Pek çok öğrenci, sorunları çözmek için çok geç olana kadar bize sorunlarını anlatmıyor. Bunlardan bahsetmek \"havalı\" veya \"korkak\" olmak değildir."
 
 # game/v5/v5.rpy:3690
 translate template_lang fl_a_7f9f8001:
 
     # co "It's brave."
-    co ""
+    co "Cesurca."
 
 # game/v5/v5.rpy:3695
 translate template_lang fl_a_5c228c03:
 
     # u "Uhm, thanks."
-    u ""
+    u "Uhm, teşekkürler."
 
 # game/v5/v5.rpy:3702
 translate template_lang fl_a_6cffc58c:
 
     # u "(I need to find Imre.)"
-    u ""
+    u "(Imre'yi bulmam gerekiyor.)"
 
 # game/v5/v5.rpy:3712
 translate template_lang youfinishadam_980835b0:
 
     # u "Never touch Imre again, you piece of shit."
-    u ""
+    u "Bir daha asla Imre'ye dokunma, seni pislik."
 
 # game/v5/v5.rpy:3719
 translate template_lang youfinishadam_06e02a25:
 
     # unknown "Yo, did I just watch you knock out Adam?"
-    unknown ""
+    unknown "Hey, az önce Adam'ı nakavt etmeni mi izledim?"
 
 # game/v5/v5.rpy:3724
 translate template_lang youfinishadam_281f0e11:
 
     # u "Look, he-"
-    u ""
+    u "Bak, o-"
 
 # game/v5/v5.rpy:3729
 translate template_lang youfinishadam_91bafaca:
 
     # u "Oh shit, you're Chris, president of the Wolves, right?"
-    u ""
+    u "Sen Chris, kurtların başkanısın, değil mi?"
 
 # game/v5/v5.rpy:3734
 translate template_lang youfinishadam_3766d5a8:
 
     # ch "Yeah, and you're a freshman. How the hell did you manage to beat up Adam?"
-    ch ""
+    ch "Evet, sen de birinci sınıftasın. Adam'ı dövmeyi nasıl becerdin?"
 
 # game/v5/v5.rpy:3739
 translate template_lang youfinishadam_f4e8428b:
 
     # u "I don't know... I don't normally fight, it's just..."
-    u ""
+    u "Bilmiyorum... Normalde kavga etmem, sadece..."
 
 # game/v5/v5.rpy:3741
 translate template_lang youfinishadam_0876cdbf:
 
     # u "He hurt my friend."
-    u ""
+    u "Arkadaşıma zarar verdi."
 
 # game/v5/v5.rpy:3746
 translate template_lang youfinishadam_17619ef5:
 
     # ch "Christ man, you're a natural. Have you considered joining a frat?"
-    ch ""
+    ch "Tanrım, sen doğuştan yeteneklisin. Bir kardeşliğe katılmayı düşündün mü?"
 
 # game/v5/v5.rpy:3755
 translate template_lang youfinishadam_d312e43a:
@@ -2554,565 +2554,565 @@ translate template_lang youfinishadam_6e9652b9_1:
 translate template_lang youfinishadam_2d28747d_1:
 
     # u "(Actually, I should probably go find Imre and tell him about what happened.)"
-    u ""
+    u "(Aslında, muhtemelen Imre'yi bulmalı ve ona ne olduğunu anlatmalıyım.)"
 
 # game/v5/v5.rpy:3831
 translate template_lang adamfinish_b62a7bc2:
 
     # u "*winces in pain*"
-    u ""
+    u "*acı içinde titriyor*"
 
 # game/v5/v5.rpy:3836
 translate template_lang adamfinish_50d583a2:
 
     # ad "*Spits*"
-    ad ""
+    ad "*Tükürüyor*"
 
 # game/v5/v5.rpy:3841
 translate template_lang adamfinish_de51ea0d:
 
     # ad "You really thought you could beat me up, huh?"
-    ad ""
+    ad "Beni gerçekten dövebileceğini düşündün, değil mi?"
 
 # game/v5/v5.rpy:3846
 translate template_lang adamfinish_b6e13d10:
 
     # u "*winces in pain* Ahhh!"
-    u ""
+    u "*acı içinde titriyor* Ahhh!"
 
 # game/v5/v5.rpy:3851
 translate template_lang adamfinish_ddef8385:
 
     # ad "Let's see how many ribs you're gonna break today."
-    ad ""
+    ad "Bakalım bugün kaç tane kaburga kıracaksın."
 
 # game/v5/v5.rpy:3856
 translate template_lang adamfinish_3d0c0a9a:
 
     # unknown "Leave him alone, Adam!"
-    unknown ""
+    unknown "Onu rahat bırak, Adam!"
 
 # game/v5/v5.rpy:3861
 translate template_lang adamfinish_8f73a00b:
 
     # ch "Or I'll beat you up myself."
-    ch ""
+    ch "Yoksa seni kendim döverim."
 
 # game/v5/v5.rpy:3866
 translate template_lang adamfinish_20fe7500:
 
     # ad "You think I'm scared of you, Chris?"
-    ad ""
+    ad "Senden korktuğumu mu sanıyorsun Chris?"
 
 # game/v5/v5.rpy:3876
 translate template_lang adamfinish_a9ceab6e:
 
     # ch "Step. Away."
-    ch ""
+    ch "Geri bas."
 
 # game/v5/v5.rpy:3891
 translate template_lang adamfinish_93762eb0:
 
     # ch "You okay?"
-    ch ""
+    ch "İyi misin?"
 
 # game/v5/v5.rpy:3896
 translate template_lang adamfinish_2c66ecf0:
 
     # u "Yeah, thanks."
-    u ""
+    u "Evet, teşekkürler."
 
 # game/v5/v5.rpy:3901
 translate template_lang adamfinish_7322bc88:
 
     # u "You're Chris, president of the Wolves, right?"
-    u ""
+    u "Sen Chris, kurtların başkanısın, değil mi?"
 
 # game/v5/v5.rpy:3906
 translate template_lang adamfinish_dcba2ca7:
 
     # ch "Yeah, that's me."
-    ch ""
+    ch "Evet, O benim."
 
 # game/v5/v5.rpy:3908
 translate template_lang adamfinish_f8ab21ae:
 
     # ch "So, why did Adam wanna beat you up? Did you look at him the wrong way?"
-    ch ""
+    ch "Adam neden seni dövmek istedi? Ona yanlış mı baktın?"
 
 # game/v5/v5.rpy:3913
 translate template_lang adamfinish_1e6d7891:
 
     # u "He beat up my friend. And when I confronted him, I just kinda lost it and punched him."
-    u ""
+    u "Arkadaşımı dövdü. Ve onunla yüzleştiğimde, onu kaybettim ve yumrukladım."
 
 # game/v5/v5.rpy:3918
 translate template_lang adamfinish_fe9c641f:
 
     # ch "Fair enough. Do you fight a lot?"
-    ch ""
+    ch "Yeterince adil. Çok kavga eder misin?"
 
 # game/v5/v5.rpy:3923
 translate template_lang adamfinish_b754cbe0:
 
     # u "Not really. That's probably why I was the one on the ground and not him."
-    u ""
+    u "Pek değil. Muhtemelen bu yüzden yerde yatan bendim, o değil."
 
 # game/v5/v5.rpy:3928
 translate template_lang adamfinish_9d2af3bb:
 
     # ch "Trust me, not a single freshman last year could have beaten up Adam. He's not an easy opponent."
-    ch ""
+    ch "İnan bana, geçen sene tek bir birinci sınıf öğrencisi Adam'ı dövemezdi. O kolay bir rakip değil."
 
 # game/v5/v5.rpy:3933
 translate template_lang adamfinish_6e3d920f:
 
     # u "Yeah..."
-    u ""
+    u "Evet..."
 
 # game/v5/v5.rpy:3938
 translate template_lang adamfinish_d91d3c87:
 
     # ch "Look, people like Adam... they don't stop. At some point he'll find you by yourself and he'll try to fuck you up even more."
-    ch ""
+    ch "Bak, Adam gibi insanlar... durmuyorlar. Bir noktada seni tek başına bulacak ve seni daha da mahvetmeye çalışacak."
 
 # game/v5/v5.rpy:3940
 translate template_lang adamfinish_39689522:
 
     # ch "You should come to our rush party on Tuesday. As a Wolf, you'll learn how to defend yourself."
-    ch ""
+    ch "Salı günü rush partimize gelmelisin. Bir Kurt olarak, kendini nasıl savunacağını öğreneceksin."
 
 # game/v5/v5.rpy:3945
 translate template_lang adamfinish_2a0fbecd:
 
     # u "Really? You see me get beaten up and you still want me to join the Wolves, who's only requirement for joining is being good at fighting?"
-    u ""
+    u "Gerçekten mi? Dövüldüğümü görüyorsun ve hala Kurtlara katılmamı istiyorsun, katılmanın tek şartı savaşta iyi olmak mı?"
 
 # game/v5/v5.rpy:3950
 translate template_lang adamfinish_699d1d5a:
 
     # ch "Well, you gave him a nosebleed, so you must have landed at least one good punch."
-    ch ""
+    ch "Ona burun kanaması geçirdin, o yüzden en az bir tane iyi yumruk atmış olmalısın."
 
 # game/v5/v5.rpy:3952
 translate template_lang adamfinish_2b38ea14:
 
     # ch "Also, fighting can be learned. We care about loyalty. And you trying to avenge your friend like that, without much fighting experience, that's honorable."
-    ch ""
+    ch "Ayrıca, mücadele öğrenilebilir. Sadakati önemsiyoruz. Ve arkadaşının intikamını böyle almaya çalışıyorsun, çok fazla dövüş deneyimi olmadan, bu onurlu bir davranış."
 
 # game/v5/v5.rpy:3954
 translate template_lang adamfinish_4de1b9ea:
 
     # ch "So, Tuesday?"
-    ch ""
+    ch "Yani, Salı?"
 
 # game/v5/v5.rpy:3959
 translate template_lang adamfinish_f954a308:
 
     # u "Alright, I'll be there."
-    u ""
+    u "Tamam, orada olacağım."
 
 # game/v5/v5.rpy:3964
 translate template_lang adamfinish_f458aad1:
 
     # ch "Good, I'll see you then. Come talk to me when you're there."
-    ch ""
+    ch "Güzel, görüşürüz o zaman. Oradayken gel konuş benimle."
 
 # game/v5/v5.rpy:3969
 translate template_lang adamfinish_6e9652b9:
 
     # u "Yeah, will do."
-    u ""
+    u "Tamam, yapacağım."
 
 # game/v5/v5.rpy:3974
 translate template_lang adamfinish_2d28747d:
 
     # u "(Actually, I should probably go find Imre and tell him about what happened.)"
-    u ""
+    u "(Aslında, muhtemelen Imre'yi bulmalı ve ona ne olduğunu anlatmalıyım.)"
 
 # game/v5/v5.rpy:3978
 translate template_lang adamfinish_5754cadc:
 
     # u "(But first, I gotta wash the blood of my face.)"
-    u ""
+    u "(Ama önce yüzümün kanını yıkamalıyım.)"
 
 # game/v5/v5.rpy:3988
 translate template_lang findimre_97f93bda:
 
     # u "Imre?"
-    u ""
+    u "Imre?"
 
 # game/v5/v5.rpy:3993
 translate template_lang findimre_4e0355dd:
 
     # u "Have you seen Imre?"
-    u ""
+    u "Imre'yi gördün mü?"
 
 # game/v5/v5.rpy:3998
 translate template_lang findimre_a6a1bb36:
 
     # u "Imreee? Are you here?"
-    u ""
+    u "Imreee? Burada msın?"
 
 # game/v5/v5.rpy:4003
 translate template_lang findimre_2c874bf2:
 
     # u "Mr. Lee, any chance you've seen Imre?"
-    u ""
+    u "Bay Lee, Imre'yi görmüş olma ihtimaliniz var mı?"
 
 # game/v5/v5.rpy:4008
 translate template_lang findimre_1771c387:
 
     # u "Imre, there you are!"
-    u ""
+    u "Imre, işte buradasın!"
 
 # game/v5/v5.rpy:4013
 translate template_lang findimre_0482bc78:
 
     # imre "I can't fucking find him. He must be hiding or some shit. No one seems to know where he lives either."
-    imre ""
+    imre "Onu bulmak eziyet amına koyayım. Saklanıyor falan olmalı. Kimse onun da nerede yaşadığını bilmiyor gibi görünüyor."
 
 # game/v5/v5.rpy:4014
 translate template_lang findimre_e731e46c:
 
     # imre "Fucking bullshit, they're all just scared of him!"
-    imre ""
+    imre "Sikik bir saçmalık, hepsi ondan korkuyor!"
 
 # game/v5/v5.rpy:4021
 translate template_lang findimre_100b0d2f:
 
     # u "Actually, I uhm... I found Adam."
-    u ""
+    u "Aslında, ben uhm... Adam'ı buldum."
 
 # game/v5/v5.rpy:4026
 translate template_lang findimre_c1b21072:
 
     # imre "Where? Where is he?"
-    imre ""
+    imre "Nerede? Nerede o?"
 
 # game/v5/v5.rpy:4031
 translate template_lang findimre_1d0f4d73:
 
     # u "He lives in the dorm opposite to us. But I already paid him a visit."
-    u ""
+    u "Karşımızdaki Yurtta yaşıyor. Ama onu çoktan ziyaret ettim."
 
 # game/v5/v5.rpy:4036
 translate template_lang findimre_767793e7:
 
     # imre "Fuck you mean you paid him a visit?"
-    imre ""
+    imre "Siktir adamım yani onu ziyaret mi ettin?"
 
 # game/v5/v5.rpy:4041
 translate template_lang findimre_890f004a:
 
     # u "I beat him up. Knocked him out. Told him to leave you alone."
-    u ""
+    u "Onu dövdüm. Onu bayılttı. Seni rahat bırakmasını söyledim."
 
 # game/v5/v5.rpy:4046
 translate template_lang findimre_b54a0b35:
 
     # imre "You did what?! What the fuck is wrong with you?!"
-    imre ""
+    imre "Ne yaptın?! Ne oluyor sana be?!"
 
 # game/v5/v5.rpy:4051
 translate template_lang findimre_5c35f2be:
 
     # u "What?? That's what you wanted, right? He got beaten up."
-    u ""
+    u "Ne?? İstediğin buydu, değil mi? O dayak yedi."
 
 # game/v5/v5.rpy:4056
 translate template_lang findimre_b061062d:
 
     # imre "I wanted to beat him up! He was mine! You knew he was mine!"
-    imre ""
+    imre "Onu dövmek istedim! O benimdi! Benim olduğunu biliyordun!"
 
 # game/v5/v5.rpy:4061
 translate template_lang findimre_1dc58521:
 
     # u "Imre, I-"
-    u ""
+    u "Imre, ben-"
 
 # game/v5/v5.rpy:4066
 translate template_lang findimre_866fa656:
 
     # imre "You pretend like you're not a fighter, like you're not a Wolf..."
-    imre ""
+    imre "Dövüşçü değilmişsin gibi davranıyorsun, Kurt değilmişsin gibi..."
 
 # game/v5/v5.rpy:4068
 translate template_lang findimre_94427e73:
 
     # imre "Well turns out you were right about one of those. Go join the fucking Apes!"
-    imre ""
+    imre "Görünüşe göre bunlardan biri hakkında haklıymışsın. Git siktiğimin Maymunlara katıl!"
 
 # game/v5/v5.rpy:4073
 translate template_lang findimre_1cd2fc7c:
 
     # u "Imre!"
-    u ""
+    u "Imre!"
 
 # game/v5/v5.rpy:4078
 translate template_lang findimre_f617ca71:
 
     # u "Fuck!"
-    u ""
+    u "Siktir!"
 
 # game/v5/v5.rpy:4081
 translate template_lang findimre_100b0d2f_1:
 
     # u "Actually, I uhm... I found Adam."
-    u ""
+    u "Aslında, ben uhm... Adam'ı buldum."
 
 # game/v5/v5.rpy:4086
 translate template_lang findimre_c1b21072_1:
 
     # imre "Where? Where is he?"
-    imre ""
+    imre "Nerede? Nerede o?"
 
 # game/v5/v5.rpy:4091
 translate template_lang findimre_d4852c6a:
 
     # u "He lives in the dorm opposite to us. I confronted him when I found out, but it got out of control and he beat me up."
-    u ""
+    u "Bizim karşımızdaki yurtta yaşıyor. Öğrendiğimde onunla yüzleştim ama işler kontrolden çıktı ve beni dövdü."
 
 # game/v5/v5.rpy:4093
 translate template_lang findimre_fe65c7fa:
 
     # u "Luckily Chris stepped in, otherwise he would've sent me to the hospital as well."
-    u ""
+    u "Neyse ki Chris devreye girdi, yoksa beni de hastaneye gönderirdi."
 
 # game/v5/v5.rpy:4098
 translate template_lang findimre_50e0f118:
 
     # imre "Well that was fucking stupid of you, wasn't it?"
-    imre ""
+    imre "Bu çok aptalcaydı, değil mi?"
 
 # game/v5/v5.rpy:4100
 translate template_lang findimre_5ca50fa3:
 
     # imre "I told you, I don't need your help, I got this."
-    imre ""
+    imre "Bu çok aptalcaydı, değil mi?"
 
 # game/v5/v5.rpy:4105
 translate template_lang findimre_954f4219:
 
     # u "Yeah sorry, it's just... I don't wanna pick you up from the hospital again."
-    u ""
+    u "Evet üzgünüm, sadece... Seni tekrar hastaneden almak istemiyorum."
 
 # game/v5/v5.rpy:4110
 translate template_lang findimre_b7b76de0:
 
     # imre "I'll get a cab next time."
-    imre ""
+    imre "Bir dahaki sefere taksi çağırırım."
 
 # game/v5/v5.rpy:4115
 translate template_lang findimre_327df7fb:
 
     # u "You know that's not what I meant."
-    u ""
+    u "Demek istediğimin bu olmadığını biliyorsun."
 
 # game/v5/v5.rpy:4120
 translate template_lang findimre_c6103c1c:
 
     # imre "Look, I really appreciate that you're trying to help, but I know what I'm doing, okay?"
-    imre ""
+    imre "Bak, yardım etmeye çalıştığın için gerçekten minnettarım, ama ne yaptığımı biliyorum, tamam mı?"
 
 # game/v5/v5.rpy:4125
 translate template_lang findimre_b9c4fde3:
 
     # u "Okay."
-    u ""
+    u "Tamam."
 
 # game/v5/v5.rpy:4127
 translate template_lang findimre_312624f2:
 
     # u "Are you gonna try and fight him now?"
-    u ""
+    u "Şimdi onunla savaşmaya çalışacak mısın?"
 
 # game/v5/v5.rpy:4132
 translate template_lang findimre_f34a6855:
 
     # imre "I have to do this."
-    imre ""
+    imre "Bunu yapmak zorundayım."
 
 # game/v5/v5.rpy:4137
 translate template_lang findimre_27ada699:
 
     # u "Can I at least-"
-    u ""
+    u "En azından şey yapabilir miyim-"
 
 # game/v5/v5.rpy:4142
 translate template_lang findimre_d366a356:
 
     # imre "[name], please. Go take a walk. Let me handle this myself."
-    imre ""
+    imre "[name], lütfen. Git biraz yürü. Bunu kendim halledeyim."
 
 # game/v5/v5.rpy:4147
 translate template_lang findimre_0ed196a0:
 
     # u "Alright. Good luck, man."
-    u ""
+    u "Peki. İyi şanslar dostum."
 
 # game/v5/v5.rpy:4151
 translate template_lang findimre_100b0d2f_2:
 
     # u "Actually, I uhm... I found Adam."
-    u ""
+    u "Aslında, ben uhm... Adam'ı buldum."
 
 # game/v5/v5.rpy:4156
 translate template_lang findimre_c1b21072_2:
 
     # imre "Where? Where is he?"
-    imre ""
+    imre "Nerede? O nerede?"
 
 # game/v5/v5.rpy:4161
 translate template_lang findimre_bc47b8ad:
 
     # u "He lives in the dorm opposite to us. But there's something else I need to tell you."
-    u ""
+    u "Bizim karşımızdaki yurtta yaşıyor. Ama sana söylemem gereken başka bir şey var."
 
 # game/v5/v5.rpy:4163
 translate template_lang findimre_6e981df1:
 
     # u "I told the school about what happened. They're gonna take care of it."
-    u ""
+    u "Olanları okula anlattım. İcabına bakacaklar."
 
 # game/v5/v5.rpy:4168
 translate template_lang findimre_b54a0b35_1:
 
     # imre "You did what?! What the fuck is wrong with you?!"
-    imre ""
+    imre "Ne yaptın?! Senin neyin var amına koyayım?!"
 
 # game/v5/v5.rpy:4173
 translate template_lang findimre_fc06e59c:
 
     # u "Look, I know that's not what you wanted, but-"
-    u ""
+    u "Bak, istediğin şeyin bu olmadığını biliyorum, ama-"
 
 # game/v5/v5.rpy:4178
 translate template_lang findimre_b9a51817:
 
     # imre "I told you to stay out of it! Now if I touch him the school will kick both of us out!"
-    imre ""
+    imre "Sana bu işe karışma demiştim! Şimde eğer ona dokunursam okul ikimizi de kovacak!"
 
 # game/v5/v5.rpy:4183
 translate template_lang findimre_1dc58521_1:
 
     # u "Imre, I-"
-    u ""
+    u "Imre, ben-"
 
 # game/v5/v5.rpy:4188
 translate template_lang findimre_f2cbde9f:
 
     # imre "I knew you weren't a fucking fighter, but I didn't know you were such a snitch!"
-    imre ""
+    imre "Dövüşçü olmadığını biliyordum, ama böyle bir ispiyoncu olduğunu bilmiyordum!"
 
 # game/v5/v5.rpy:4190
 translate template_lang findimre_2d7c7972:
 
     # imre "Stay the fuck out of my life!"
-    imre ""
+    imre "Hayatımdan siktir git!"
 
 # game/v5/v5.rpy:4195
 translate template_lang findimre_1cd2fc7c_1:
 
     # u "Imre!"
-    u ""
+    u "Imre!"
 
 # game/v5/v5.rpy:4200
 translate template_lang findimre_f617ca71_1:
 
     # u "Fuck!"
-    u ""
+    u "Siktir git!"
 
 # game/v5/v5.rpy:4203
 translate template_lang findimre_100b0d2f_3:
 
     # u "Actually, I uhm... I found Adam."
-    u ""
+    u "Aslında, ben uhm... Adam'ı buldum."
 
 # game/v5/v5.rpy:4208
 translate template_lang findimre_c1b21072_3:
 
     # imre "Where? Where is he?"
-    imre ""
+    imre "Nerede? O nerede?"
 
 # game/v5/v5.rpy:4213
 translate template_lang findimre_7b8a0c27:
 
     # u "You really wanna know? He lives in the dorm opposite to us."
-    u ""
+    u "Gerçekten bilmek istiyor musun? Bizim karşımızdaki yurtta yaşıyor."
 
 # game/v5/v5.rpy:4215
 translate template_lang findimre_4e762005:
 
     # u "But you can't do this, man! At least not by yourself, let me come with you and we'll take him on together."
-    u ""
+    u "Ama bunu yapamazsın adamım! En azından tek başına değil, seninle gelmeme izin ver ve onu birlikte ele alalım."
 
 # game/v5/v5.rpy:4220
 translate template_lang findimre_5ca50fa3_1:
 
     # imre "I told you, I don't need your help, I got this."
-    imre ""
+    imre "Sana söyledim, yardımına ihtiyacım yok, ben hallederim."
 
 # game/v5/v5.rpy:4225
 translate template_lang findimre_9579efe1:
 
     # u "I get that, but... I don't wanna pick you up from the hospital again."
-    u ""
+    u "Bunu anlıyorum, ama... Seni tekrar hastaneden almak istemiyorum."
 
 # game/v5/v5.rpy:4230
 translate template_lang findimre_b7b76de0_1:
 
     # imre "I'll get a cab next time."
-    imre ""
+    imre "Bir dahaki sefere taksi çağırırım."
 
 # game/v5/v5.rpy:4235
 translate template_lang findimre_327df7fb_1:
 
     # u "You know that's not what I meant."
-    u ""
+    u "Demek istediğimin bu olmadığını biliyorsun."
 
 # game/v5/v5.rpy:4240
 translate template_lang findimre_c6103c1c_1:
 
     # imre "Look, I really appreciate that you're trying to help, but I know what I'm doing, okay?"
-    imre ""
+    imre "Yapıyorum, Tamam yardım etmeye çalışıyorsun bak, gerçekten takdir ediyorum, ama biliyorum."
 
 # game/v5/v5.rpy:4245
 translate template_lang findimre_b9c4fde3_1:
 
     # u "Okay."
-    u ""
+    u "Tamam."
 
 # game/v5/v5.rpy:4247
 translate template_lang findimre_312624f2_1:
 
     # u "Are you gonna try and fight him now?"
-    u ""
+    u "Şimdi onunla savaşmaya çalışacak mısın?"
 
 # game/v5/v5.rpy:4252
 translate template_lang findimre_f34a6855_1:
 
     # imre "I have to do this."
-    imre ""
+    imre "Bunu yapmak zorundayım."
 
 # game/v5/v5.rpy:4257
 translate template_lang findimre_27ada699_1:
 
     # u "Can I at least-"
-    u ""
+    u "En azından yapabilir miyim-"
 
 # game/v5/v5.rpy:4262
 translate template_lang findimre_ecf38ec3:
 
     # imre "[name], please. Go take a walk, distract yourself. Let me handle this myself."
-    imre ""
+    imre "[name], lütfen. Git bir yürüyüşe çık, dikkatini dağıt. Bunu kendim halletmeme izin ver."
 
 # game/v5/v5.rpy:4267
 translate template_lang findimre_0ed196a0_1:
 
     # u "Alright. Good luck, man."
-    u ""
+    u "Peki. İyi şanslar dostum."
 
 # game/v5/v5.rpy:4279
 translate template_lang continueba_9399425c:
@@ -3254,31 +3254,31 @@ translate template_lang strings:
 
     # game/v5/v5.rpy:43
     old "Haha, I'm fine"
-    new ""
+    new "Haha, ben iyiyim"
 
     # game/v5/v5.rpy:65
     old "It's Chloe."
-    new ""
+    new "Ben Chloe."
 
     # game/v5/v5.rpy:65
     old "It's nothing."
-    new ""
+    new "Hiçbir şey."
 
     # game/v5/v5.rpy:95
     old "Tell her"
-    new ""
+    new "Söyle ona"
 
     # game/v5/v5.rpy:95
     old "Say you gotta go"
-    new ""
+    new "Gitmen gerektiğini söyle"
 
     # game/v5/v5.rpy:289
     old "I believe you."
-    new ""
+    new "Sana inanıyorum."
 
     # game/v5/v5.rpy:289
     old "You're lying."
-    new ""
+    new "Yalan söylüyorsun."
 
     # game/v5/v5.rpy:637
     old "Hey, it's Amber"
@@ -3322,99 +3322,99 @@ translate template_lang strings:
 
     # game/v5/v5.rpy:661
     old "Wanna do the personality tests today at noon?"
-    new ""
+    new "Kişilik testlerini bugün öğlen yapmak ister misin?"
 
     # game/v5/v5.rpy:663
     old "Great :) Meet me at our economics' classroom."
-    new ""
+    new "Harika :) Ekonomi sınıfında buluşalım."
 
     # game/v5/v5.rpy:729
     old "Complaints? I love it."
-    new ""
+    new "Şikayetler? Onları seviyorum"
 
     # game/v5/v5.rpy:729
     old "I don't like kissing in public."
-    new ""
+    new "Toplum içinde öpüşmeyi sevmiyorum."
 
     # game/v5/v5.rpy:779
     old "Sorry, not in public."
-    new ""
+    new "Üzgünüm, halka açık değil."
 
     # game/v5/v5.rpy:779
     old "Actually, a kiss is fine."
-    new ""
+    new "Aslında, bir öpücük iyidir."
 
     # game/v5/v5.rpy:1078
     old "Yes."
-    new ""
+    new "Evet."
 
     # game/v5/v5.rpy:1078
     old "No."
-    new ""
+    new "Hayır."
 
     # game/v5/v5.rpy:1229
     old "Yeah, let's do it."
-    new ""
+    new "Evet, hadi yapalım."
 
     # game/v5/v5.rpy:1229
     old "I'd rather not."
-    new ""
+    new "Yapmasam daha iyi."
 
     # game/v5/v5.rpy:1344
     old "Yeah, okay."
-    new ""
+    new "Evet, tamam."
 
     # game/v5/v5.rpy:1460
     old "At least we're done now."
-    new ""
+    new "En azından artık işimiz bitti."
 
     # game/v5/v5.rpy:1460
     old "That was too far."
-    new ""
+    new "Çok ileri gittim."
 
     # game/v5/v5.rpy:1660
     old "I should go apologize"
-    new ""
+    new "Gitmem lazım özür dilerim"
 
     # game/v5/v5.rpy:1660
     old "I'll give her time"
-    new ""
+    new "Ona zaman vereceğim"
 
     # game/v5/v5.rpy:1690
     old "I'm someone else"
-    new ""
+    new "Ben başka biriyim"
 
     # game/v5/v5.rpy:1690
     old "I didn't mean to"
-    new ""
+    new "Öyle demek istemedim "
 
     # game/v5/v5.rpy:2719
     old "Confront Adam"
-    new ""
+    new "Adam ile yüzleş"
 
     # game/v5/v5.rpy:2738
     old "Punch him"
-    new ""
+    new "Yumrukla onu"
 
     # game/v5/v5.rpy:2763
     old "Threaten to tell school"
-    new ""
+    new "Okula söylemekle tehdit et"
 
     # game/v5/v5.rpy:2794
     old "Tell the school"
-    new ""
+    new "Okula söyle."
 
     # game/v5/v5.rpy:2794
     old "Keep it to yourself"
-    new ""
+    new "Kendine sakla"
 
     # game/v5/v5.rpy:3748
     old "Yeah, I'm interested."
-    new ""
+    new "Evet, ilgileniyorum"
 
     # game/v5/v5.rpy:3748
     old "Not really."
-    new ""
+    new "Pek değil."
 
     # game/v5/v5.rpy:4299
     old "Hey, you alone? xx"
