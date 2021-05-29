@@ -1090,7 +1090,7 @@ translate template_lang conl_76b147b2:
 translate template_lang conl_b70f8686:
 
     # ev "Give me one good reason to give you a chance."
-    ev ""Sana bir şans vermem için bana iyi bir sebep ver.""
+    ev "Sana bir şans vermem için bana iyi bir sebep ver."
 
 # game/v3/v3.rpy:1204
 translate template_lang conl_ab03e551:
@@ -1468,7 +1468,7 @@ translate template_lang repeatk_2c899df4:
 translate template_lang talkedout_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v3/v3.rpy:1585
 translate template_lang repeatl_58d01580:
@@ -1756,7 +1756,7 @@ translate template_lang repeatm_ecfbdaa5:
 translate template_lang repeatm_30ce2936:
 
     # u "(Okay, let's see. Which one's her room?)"
-    u ""(Tamam, bir bakalım. Onun odası hangisi?)""
+    u "(Tamam, bir bakalım. Onun odası hangisi?)"
 
 # game/v3/v3.rpy:1864
 translate template_lang repeatm_86e8b466:
@@ -1960,7 +1960,7 @@ translate template_lang repeatm_85eeb4bf:
 translate template_lang repeatm_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v3/v3.rpy:2080
 translate template_lang repeatm_4381ffb1:
@@ -2020,7 +2020,7 @@ translate template_lang repeatm_fe6f48d8:
 translate template_lang repeatm_9ea2f78c_1:
 
     # " "
-    ""
+    " "
 
 # game/v3/v3.rpy:2155
 translate template_lang repeatm_d1c5d4b5:
@@ -2110,7 +2110,7 @@ translate template_lang abj_c8231a28:
 translate template_lang abj_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v3/v3.rpy:2233
 translate template_lang abj_e25432e4:
@@ -2122,7 +2122,7 @@ translate template_lang abj_e25432e4:
 translate template_lang abj_9ea2f78c_1:
 
     # " "
-    ""
+    " "
 
 # game/v3/v3.rpy:2259
 translate template_lang abj_dd51a358:
@@ -2170,7 +2170,7 @@ translate template_lang amiss_69b49d53:
 translate template_lang amiss_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v3/v3.rpy:2304
 translate template_lang amiss_2ef60271:
@@ -2182,7 +2182,7 @@ translate template_lang amiss_2ef60271:
 translate template_lang amiss_9ea2f78c_1:
 
     # " "
-    ""
+    " "
 
 # game/v3/v3.rpy:2310
 translate template_lang amiss_a2310ab8:
@@ -2194,7 +2194,7 @@ translate template_lang amiss_a2310ab8:
 translate template_lang amiss_9ea2f78c_2:
 
     # " "
-    ""
+    " "
 
 # game/v3/v3.rpy:2316
 translate template_lang amiss_1e7ee0b5:
@@ -2206,7 +2206,7 @@ translate template_lang amiss_1e7ee0b5:
 translate template_lang amiss_9ea2f78c_3:
 
     # " "
-    ""
+    " "
 
 # game/v3/v3.rpy:2323
 translate template_lang amiss_e38ad56a:
@@ -2230,7 +2230,7 @@ translate template_lang acow_61ec6dc9:
 translate template_lang acow_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v3/v3.rpy:2344
 translate template_lang acow_274217b3:
@@ -2242,7 +2242,7 @@ translate template_lang acow_274217b3:
 translate template_lang acow_9ea2f78c_1:
 
     # " "
-    ""
+    " "
 
 # game/v3/v3.rpy:2350
 translate template_lang acow_bfee52c7:
@@ -2254,7 +2254,7 @@ translate template_lang acow_bfee52c7:
 translate template_lang acow_9ea2f78c_2:
 
     # " "
-    ""
+    " "
 
 # game/v3/v3.rpy:2356
 translate template_lang acow_297f6dfc:
