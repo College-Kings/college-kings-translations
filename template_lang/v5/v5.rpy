@@ -4,7 +4,7 @@
 translate template_lang v5start_b1183ab6:
 
     # no "What are you doing here? And why did you just punch the wall?"
-    no ""
+    no "Burada ne yapıyorsun? Ve neden duvarı yumrukladın?"
 
 # game/v5/v5.rpy:70
 translate template_lang v5start_d59430b9:
@@ -376,7 +376,7 @@ translate template_lang jorepb_05148e1b:
 translate template_lang jorepb_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v5/v5.rpy:454
 translate template_lang jorepb_8d1e43e3:
@@ -574,61 +574,61 @@ translate template_lang nnbd_7d193b2b_1:
 translate template_lang nnbd_fb22b6d4:
 
     # u "(At least my eye is starting to heal...)"
-    u ""
+    u "(En azından gözüm iyileşmeye başlıyor...)"
 
 # game/v5/v5.rpy:665
 translate template_lang newchloec_e18add73:
 
     # u "(Oh shit, I'm getting a bunch of messages.)"
-    u ""
+    u "(Hassiktir, bir sürü mesaj geliyor.)"
 
 # game/v5/v5.rpy:671
 translate template_lang phonex_fa9e2e90:
 
     # u "(I should probably reply to some of them.)"
-    u ""
+    u "(Muhtemelen bazılarına cevap vermeliyim.)"
 
 # game/v5/v5.rpy:674
 translate template_lang phonex_8820f8c7:
 
     # u "(Time to get ready.)"
-    u ""
+    u "(Hazırlanma zamanı.)"
 
 # game/v5/v5.rpy:681
 translate template_lang phoney_9a1ea500:
 
     # "(Maybe it's Lauren and she wants to talk about what happened? I should definitely check.)"
-    ""
+    "(Belki Lauren ve ne olduğu hakkında konuşmak istiyor? Kesinlikle kontrol etmeliyim.)"
 
 # game/v5/v5.rpy:699
 translate template_lang continuez_8f6227f7:
 
     # u "Hey, Lauren."
-    u ""
+    u "Selam Lauren."
 
 # game/v5/v5.rpy:704
 translate template_lang continuez_8b4972a9:
 
     # la "Heyyy."
-    la ""
+    la "Selammm."
 
 # game/v5/v5.rpy:717
 translate template_lang continuez_70720724:
 
     # u "*Chuckles* Is that how we greet each other now?"
-    u ""
+    u "*Kıkırdar* Artık böyle mi selamlaşıyoruz?"
 
 # game/v5/v5.rpy:722
 translate template_lang continuez_6b90dfa7:
 
     # la "I mean we are kinda dating and I do enjoy kissing you, so if you don't have any complaints..."
-    la ""
+    la "Yani çıkıyor gibiyiz ve seni öpmekten zevk alıyorum, yani şikayetin yoksa..."
 
 # game/v5/v5.rpy:727
 translate template_lang continuez_80148402:
 
     # u "(If we kiss in public, other girls are bound to find out that I'm dating Lauren.)"
-    u ""
+    u "(Eğer halka açık bir şekilde öpüşürsek, diğer kızlar Lauren ile çıktığımı öğreneceklerdir.)"
 
 # game/v5/v5.rpy:734
 translate template_lang continuez_98b5930c:
@@ -1066,37 +1066,37 @@ translate template_lang continueam_39320b34:
 translate template_lang continueam_6b879436:
 
     # la "You can decide to switch the lever, but remember, you're on a timer. If you don't switch the lever within a few seconds, the train will keep its current course."
-    la ""
+    la "Kolu değiştirmeye karar verebilirsiniz, ancak zamanlayıcıda olduğunuzu unutmayın. Kolu birkaç saniye içinde değiştirmezseniz, tren mevcut rotasını koruyacaktır."
 
 # game/v5/v5.rpy:1305
 translate template_lang trolleyba_4e02250a:
 
     # u "Ahh fuck!"
-    u ""
+    u "Ahh siktir!"
 
 # game/v5/v5.rpy:1328
 translate template_lang trolleybb_4e02250a:
 
     # u "Ahh fuck!"
-    u ""
+    u "Ahh siktir!"
 
 # game/v5/v5.rpy:1336
 translate template_lang continuean_0f71c6ca:
 
     # u "Fucking hell, what is this personality test??"
-    u ""
+    u "Hassiktir ya, bu Kişilik Testi ne böyle??"
 
 # game/v5/v5.rpy:1341
 translate template_lang continuean_233d41a2:
 
     # la "Sorry, I know it's a lot but there's only one more to go."
-    la ""
+    la "Üzgünüm, çok fazla olduğunu biliyorum ama bir tane daha var."
 
 # game/v5/v5.rpy:1342
 translate template_lang continuean_ba5d5eca:
 
     # la "Are you okay with doing the last one?"
-    la ""
+    la "Sonuncusunu yapabilir misin?"
 
 # game/v5/v5.rpy:1349
 translate template_lang continuean_25d8298b:
@@ -1175,7 +1175,7 @@ translate template_lang continuean_6b879436:
 
     # la "You can decide to switch the lever, but remember, you're on a timer. If you don't switch the lever within a few seconds, the train will keep its current course."
     la "Kolu değiştirmeye karar verebilirsin, ancak zamanlayıcıda olduğunu unutmayın. Kolu birkaç saniye içinde değiştirmezsen, tren mevcut rotasını koruyacaktır."
-    la ""
+    la " "
 
 # game/v5/v5.rpy:1425
 translate template_lang trolleyca_d16202fb:
