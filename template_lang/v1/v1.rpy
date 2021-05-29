@@ -580,7 +580,7 @@ translate template_lang ad_db_9f297b91:
 translate template_lang ad_db_cf152294:
 
     # ry "They're the best fraternity in the entire University. They get so many girls."
-    ry ""Üniversitenin en iyi kardeşliği onlar. Çok fazla kız alıyorlar."
+    ry "Üniversitenin en iyi kardeşliği onlar. Çok fazla kız alıyorlar."
 
 # game/v1/v1.rpy:539
 translate template_lang ad_db_bb4a72ce:
@@ -874,7 +874,7 @@ translate template_lang af_db_1b97be3d:
 translate template_lang af_db_ad6531f5:
 
     # la "Ohhh... so you think she's cute?"
-    la "Ohhh... yani onun sevimli olduğunu mu düşünüyorsun?
+    la "Ohhh... yani onun sevimli olduğunu mu düşünüyorsun?"
 
 # game/v1/v1.rpy:797
 translate template_lang af_db_222f9225:
