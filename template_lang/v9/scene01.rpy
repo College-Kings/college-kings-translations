@@ -312,11 +312,11 @@ translate template_lang strings:
 
     # game/v9/scene01.rpy:214
     old "You here yet?"
-    new "Você ainda está aqui?"
+    new "Você ainda está aí?"
 
     # game/v9/scene01.rpy:215
     old "Yeah, you ready?"
-    new "Claro, está pronto?"
+    new "Claro, está preparado?"
 
     # game/v9/scene01.rpy:216
     old "Hell no! But we need to get ready!"
