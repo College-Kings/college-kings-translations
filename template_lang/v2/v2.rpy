@@ -1270,7 +1270,7 @@ translate template_lang nextsceneo_0038c3f0:
 translate template_lang nextsceneo_79913920:
 
     # no "Look, I'm sensing some weird energy between you two, so I'ma leave."
-    no "Olha, eu tô sentindo uma energia meio estranha entre vocês dois, entÃ£o vou cair fora."
+    no "Olha, eu tô sentindo uma energia meio estranha entre vocês dois, então vou cair fora."
 
 # game/v2/v2.rpy:1781
 translate template_lang nextsceneo_0fa411c5:
@@ -1540,7 +1540,7 @@ translate template_lang bq_bd_b822ede1:
 translate template_lang bq_bd_65f217b4:
 
     # em "Benjamin, right?"
-    em "Benjamim, né?"
+    em "Benjamin, né?"
 
 # game/v2/v2.rpy:2048
 translate template_lang bq_bd_1ce47e7b:
@@ -1660,13 +1660,13 @@ translate template_lang br_bd_69668e67:
 translate template_lang br_bd_e38ea10b:
 
     # u "Yeah, but while I was doing it Benjamin asked me if he could make a move on you."
-    u "Sim, mas enquanto eu estava preenchendo tudo o Benjamim perguntou se podia dar idÃ©ia de você."
+    u "Sim, mas enquanto eu estava preenchendo tudo o Benjamin perguntou se podia dar ideia de você."
 
 # game/v2/v2.rpy:2163
 translate template_lang br_bd_a130a4a9:
 
     # em "Oh really, are you my guardian now?"
-    em "SÃ©rio, você Ã© meu dono agora?"
+    em "Sério, você é meu dono agora?"
 
 # game/v2/v2.rpy:2167
 translate template_lang br_bd_2e2b8da5:
@@ -1690,19 +1690,19 @@ translate template_lang br_bd_ca4e838e:
 translate template_lang br_bd_63edfa8d:
 
     # em "Oh, so you're \"protecting\" me now, huh?"
-    em "Ah, entÃ£o você está me \"protegendo\" agora?"
+    em "Ah, então você está me \"protegendo\" agora?"
 
 # game/v2/v2.rpy:2185
 translate template_lang br_bd_42156a9b:
 
     # u "Oh shut up, if you wanna give him your phone number and have the worst date of your life, you're free to do so."
-    u "Ah fica quieta, se você quiser dar o seu nÃºmero pra ele e ter o pior encontro da sua vida, vai na fÃ©."
+    u "Ah fica quieta, se você quiser dar o seu número pra ele e ter o pior encontro da sua vida, vai na fé."
 
 # game/v2/v2.rpy:2190
 translate template_lang br_bd_7f95afe6:
 
     # em "Haha, I think I'm good."
-    em "Haha, eu tÃ´ de boa."
+    em "Haha, eu tô de boa."
 
 # game/v2/v2.rpy:2196
 translate template_lang br_bd_27459841:
@@ -1714,13 +1714,13 @@ translate template_lang br_bd_27459841:
 translate template_lang br_bd_bc513adc:
 
     # u "I mean there's no way you'd go for him anyways."
-    u "Quer dizer, ele nem Ã© seu tipo mesmo."
+    u "Quer dizer, ele nem é seu tipo mesmo."
 
 # game/v2/v2.rpy:2202
 translate template_lang br_bd_fb7ee5e1:
 
     # em "Haha, he is kinda cute."
-    em "Haha, ele Ã© bonitinho atÃ©."
+    em "Haha, ele é bonitinho até."
 
 # game/v2/v2.rpy:2204
 translate template_lang br_bd_4174c731:
@@ -1744,7 +1744,7 @@ translate template_lang br_bd_67e44856:
 translate template_lang br_bd_7599e584:
 
     # u "What did you think of Benjamin by the way?"
-    u "AliÃ¡s, o que você achou do Benjamim?"
+    u "Aliás, o que você achou do Benjamin?"
 
 # game/v2/v2.rpy:2224
 translate template_lang br_bd_6140f90b:
@@ -1762,7 +1762,7 @@ translate template_lang br_bd_7e05f0f5:
 translate template_lang br_bd_ee2db0a2:
 
     # em "I guess he's kinda cute, but also a bit weird."
-    em "Ele atÃ© que Ã© bonitinho, mas Ã© meio esquisito."
+    em "Ele até que é bonitinho, mas é meio esquisito."
 
 # game/v2/v2.rpy:2239
 translate template_lang br_bd_084ab882:
@@ -1792,7 +1792,7 @@ translate template_lang bs_bd_ef1dadc4:
 translate template_lang bs_bd_745f4da9:
 
     # ehr "Okay, looking at you I'm gonna assume you're here because of your black eye?"
-    ehr "Certo, sÃ³ de olhar pra você presumo que veio por causa do olho roxo, não Ã©?"
+    ehr "Certo, só de olhar pra você presumo que veio por causa do olho roxo, não é?"
 
 # game/v2/v2.rpy:2266
 translate template_lang bs_bd_42487ce7:
@@ -1804,13 +1804,13 @@ translate template_lang bs_bd_42487ce7:
 translate template_lang bs_bd_16d3800d:
 
     # u "Uhh... yeah, my friend dragged me here in order to get it looked at."
-    u "Hmm... pois Ã©, minha amiga me obrigou a vir."
+    u "Hmm... pois é, minha amiga me obrigou a vir."
 
 # game/v2/v2.rpy:2275
 translate template_lang bs_bd_2977c7af:
 
     # ehr "Alright, let me have a closer look and see if there's anything unusual about it."
-    ehr "Certo, deixa eu dar uma olhada mais de perto e ver se hÃ¡ algo para se preocupar aqui."
+    ehr "Certo, deixa eu dar uma olhada mais de perto e ver se há algo para se preocupar aqui."
 
 # game/v2/v2.rpy:2280
 translate template_lang bs_bd_99ef3bd4:
@@ -1834,25 +1834,25 @@ translate template_lang bs_bd_f5b11998:
 translate template_lang bs_bd_4d469330:
 
     # u "Yesterday. I got punched in the face out of nowhere."
-    u "Ontem. AlguÃ©m me deu um socÃ£o do nada."
+    u "Ontem. Alguém me deu um socão do nada."
 
 # game/v2/v2.rpy:2297
 translate template_lang bs_bd_b46706a3:
 
     # ehr "Does it hurt a lot? I could prescribe you a week's worth of painkillers."
-    ehr "Está sentido muita dor? Eu posso te receitar uma semana de analgÃ©sicos."
+    ehr "Está sentido muita dor? Eu posso te receitar uma semana de analgésicos."
 
 # game/v2/v2.rpy:2302
 translate template_lang bs_bd_976e8c37:
 
     # u "(Why can't life be more like porn...? Sex with her would take any pain away.)"
-    u "(Por que a vida não Ã© como nos pornÃ´s? Eu tenho certeza que trepar com ela faria minha dor desaparecer.)"
+    u "(Por que a vida não é como nos pornô? Eu tenho certeza que trepar com ela faria minha dor desaparecer.)"
 
 # game/v2/v2.rpy:2304
 translate template_lang bs_bd_635445a7:
 
     # u "Uhm... no, that's fine. It doesn't hurt too badly."
-    u "HÃ£aa... não, tá tranquilo. não está doendo tanto assim."
+    u "Hâaa... não, tá tranquilo. não está doendo tanto assim."
 
 # game/v2/v2.rpy:2309
 translate template_lang bs_bd_d075d62f:
@@ -1894,7 +1894,7 @@ translate template_lang bo_bd_dc5051d5:
 translate template_lang bo_bd_18cf3231:
 
     # u "(Still... I don't know if I can ever fully forgive her for what she did.)"
-    u "(Mesmo assim... Eu não sei se vou conseguir perdoÃ¡-la totalmente algum dia.)"
+    u "(Mesmo assim... Eu não sei se vou conseguir perdoa-la totalmente algum dia.)"
 
 # game/v2/v2.rpy:2347
 translate template_lang bo_bd_c975e35e:
@@ -1912,19 +1912,19 @@ translate template_lang repeatc_d647e9cd:
 translate template_lang repeatc_dfbd0821:
 
     # pe "Uhm... excuse me."
-    pe "HÃ£... Com licenÃ§a."
+    pe "Hâ... Com licença."
 
 # game/v2/v2.rpy:2362
 translate template_lang repeatc_029469d6:
 
     # pe "I- I know you-"
-    pe "Eu- Eu te conheÃ§o-"
+    pe "Eu- Eu te conheço-"
 
 # game/v2/v2.rpy:2367
 translate template_lang repeatc_3c4681a3:
 
     # u "Let me guess, you saw me get punched in the face at a party."
-    u "Deixa eu adivinhar, você me viu levar um socÃ£o na cara na festa."
+    u "Deixa eu adivinhar, você me viu levar um socão na cara na festa."
 
 # game/v2/v2.rpy:2372
 translate template_lang repeatc_d9f61a43:
@@ -1936,7 +1936,7 @@ translate template_lang repeatc_d9f61a43:
 translate template_lang repeatc_ebff5a89:
 
     # pe "You're in my History 101 class."
-    pe "você está na minha turma 101 de história."
+    pe "Você está na minha turma 101 de história."
 
 # game/v2/v2.rpy:2379
 translate template_lang repeatc_9e6d33de:
@@ -1954,25 +1954,25 @@ translate template_lang repeatc_3afc33fc:
 translate template_lang repeatc_01a6d297:
 
     # u "Fair point. So... what's up? How can I help you?"
-    u "Ã‰ verdade. EntÃ£o... Tudo certo? Posso te ajudar com alguma coisa?"
+    u "É verdade. Então... tudo certo? Posso te ajudar com alguma coisa?"
 
 # game/v2/v2.rpy:2394
 translate template_lang repeatc_0e69188c:
 
     # pe "Oh, well I saw you and I thought to myself \"Hey, I know this person and I should talk to him.\""
-    pe "Ã‰- EntÃ£o, eu te vi passando e pensei \"Olha, eu conheÃ§o ele e deveria tentar puxar assunto.\""
+    pe "Ah- então, eu te vi passando e pensei \"Olha, eu conheço ele e deveria tentar puxar assunto.\""
 
 # game/v2/v2.rpy:2398
 translate template_lang repeatc_8046f99c:
 
     # u "Uhm, okay so-"
-    u "Entendi, entÃ£o-"
+    u "Entendi, então-"
 
 # game/v2/v2.rpy:2403
 translate template_lang repeatc_8b6bda4f:
 
     # pe "And then I thought \"But what if I'm disturbing him?\" So I decided not to say anything."
-    pe "E daÃ­ eu pensei \"Mas e se eu estiver incomodando?\" EntÃ£o decidi não dizer nada."
+    pe "E daí eu pensei \"Mas e se eu estiver incomodando?\" então decidi não dizer nada."
 
 # game/v2/v2.rpy:2408
 translate template_lang repeatc_c40fb6f1:
@@ -1984,25 +1984,25 @@ translate template_lang repeatc_c40fb6f1:
 translate template_lang repeatc_19c16b65:
 
     # pe "But then I was like \"Penelope, you need to start talking to people at some point\" and then I approached you."
-    pe "Mas daÃ­ eu fiquei tipo \"Penelope, você precisa comeÃ§ar a falar com as pessoas algum dia.\" e entÃ£o eu vim aqui."
+    pe "Mas daí­ eu fiquei tipo \"Penelope, você precisa começar a falar com as pessoas algum dia.\" e então eu vim aqui."
 
 # game/v2/v2.rpy:2418
 translate template_lang repeatc_0fb938bb:
 
     # u "Okay... I'm [name] and-"
-    u "tá certo... Eu sou o [name] e-"
+    u "Tá certo... Eu sou o [name] e-"
 
 # game/v2/v2.rpy:2423
 translate template_lang repeatc_b60f3409:
 
     # pe "Oh god, is it weird? Did I make it weird?"
-    pe "Ah não, isso foi estranho nÃ©? Eu deixei um clima estranho?"
+    pe "Ah não, isso foi estranho né? Eu deixei um clima estranho?"
 
 # game/v2/v2.rpy:2425
 translate template_lang repeatc_6483ea79:
 
     # pe "I should leave, this was a bad idea. Good bye."
-    pe "Ã‰ melhor eu ir embora, isso foi uma pÃ©ssima idÃ©ia. AtÃ© mais."
+    pe "É melhor eu ir embora, isso foi uma péssima ideia. Até mais."
 
 # game/v2/v2.rpy:2435
 translate template_lang repeatc_7a104825:
@@ -2014,13 +2014,13 @@ translate template_lang repeatc_7a104825:
 translate template_lang repeatc_2ebbb426:
 
     # u "There's no need to be nervous."
-    u "não precisa ficar nervosa."
+    u "Não precisa ficar nervosa."
 
 # game/v2/v2.rpy:2442
 translate template_lang repeatc_9721d31c:
 
     # u "So your name is Penelope right?"
-    u "EntÃ£o, seu nome Ã© Penelope, certo?"
+    u "Então, seu nome é Penelope, certo?"
 
 # game/v2/v2.rpy:2447
 translate template_lang repeatc_0e8d6143:
@@ -2032,49 +2032,49 @@ translate template_lang repeatc_0e8d6143:
 translate template_lang repeatc_1b522938:
 
     # u "So, what did you mean by \"you need to start talking to people at some point\"? Are you a freshman?"
-    u "EntÃ£o, o que você quis dizer com \"preciso comeÃ§ar a falar com as pessoas algum dia.\"? você Ã© caloura?"
+    u "Então, o que você quis dizer com \"preciso começar a falar com as pessoas algum dia.\"? você é caloura?"
 
 # game/v2/v2.rpy:2457
 translate template_lang repeatc_1b0771d1:
 
     # pe "No, I'm a junior, but I just transferred to San Vallejo 'cause I got kicked out of my old college."
-    pe "não, eu sou veterana, mas acabei de me transferir pra San Vallejo, porque fui expulsa da minha outra faculdade."
+    pe "Não, eu sou veterana, mas acabei de me transferir pra San Vallejo, porque fui expulsa da minha outra faculdade."
 
 # game/v2/v2.rpy:2459
 translate template_lang repeatc_022d738f:
 
     # pe "And my dad paid a lot of money so I could go to my old college and now he's super mad and he said I'll have to get a job 'cause he's gonna cut my money off."
-    pe "E meu pai pagou muito dinheiro para eu entrar na minha antiga faculdade, entÃ£o ele está super bravo e disse que eu tenho que conseguir um emprego porque ele vai cortar minha mesada."
+    pe "E meu pai pagou muito dinheiro para eu entrar na minha antiga faculdade, então ele está super bravo e disse que eu tenho que conseguir um emprego porque ele vai cortar minha mesada."
 
 # game/v2/v2.rpy:2461
 translate template_lang repeatc_5f653432:
 
     # pe "And then I called my mom and said \"Mom, help! Dad is going crazy!\" But my mom was like \"You need to talk to him yourself.\""
-    pe "EntÃ£o eu liguei pra minha mÃ£e e disse \"MÃ£e, me ajuda! O papai está ficando doido!\", mas minha mÃ£e disse \"você tem que resolver isso com ele sozinha.\""
+    pe "Então eu liguei pra minha mãe e disse \"Mãe, me ajuda! O papai está ficando doido!\", mas minha mãe disse \"Você tem que resolver isso com ele sozinha.\""
 
 # game/v2/v2.rpy:2463
 translate template_lang repeatc_8e02afde:
 
     # pe "I mean they don't really talk to each other since the divorce and it's like-"
-    pe "Quer dizer, eles meio que pararam se falar depois do divÃ³rcio, Ã© que-"
+    pe "Quer dizer, eles meio que pararam se falar depois do divórcio, é que-"
 
 # game/v2/v2.rpy:2468
 translate template_lang repeatc_2bec789e:
 
     # u "Okay, calm down. You-"
-    u "tá, calma ai. você-"
+    u "Tá, calma ai. Você-"
 
 # game/v2/v2.rpy:2473
 translate template_lang repeatc_f726c180:
 
     # pe "Oh god, am I oversharing again? I am, aren't I?"
-    pe "Ai Deus, eu estou falando demais de novo nÃ©? TÃ´, num tÃ´?"
+    pe "Ai Deus, eu estou falando demais de novo né? Tá, num tá?"
 
 # game/v2/v2.rpy:2478
 translate template_lang repeatc_2725f76b:
 
     # u "It's all good. It's just... Why did you get kicked out of your old college?"
-    u "não tem problema. Ã‰ que... Por que te expulsaram da universidade?"
+    u "Não tem problema. É que... Por que te expulsaram da universidade?"
 
 # game/v2/v2.rpy:2483
 translate template_lang repeatc_f708ba5e:
@@ -2086,7 +2086,7 @@ translate template_lang repeatc_f708ba5e:
 translate template_lang repeatc_76217dd0:
 
     # u "Really? That's where you draw the line of not sharing?"
-    u "SÃ©rio? EntÃ£o Ã© ai que você colocou um limite sobre o que não contar?"
+    u "Sério? então é ai que você colocou um limite sobre o que não contar?"
 
 # game/v2/v2.rpy:2493
 translate template_lang repeatc_fa4f4ffe:
@@ -2110,13 +2110,13 @@ translate template_lang repeatc_d1679705:
 translate template_lang repeatc_ae3c79d1:
 
     # u "Ugh... alright."
-    u "Aff... EntÃ£o tá."
+    u "Aff... então tá."
 
 # game/v2/v2.rpy:2516
 translate template_lang repeatc_6ec17477:
 
     # u "(Fuck, I totally forgot about Aubrey. I guess it's time to make a decision.)"
-    u "(Porra, eu esqueci totalmente do encontro com a Aubrey. Acho que chegou a hora de tomar uma decisÃ£o.)"
+    u "(Porra, eu esqueci totalmente do encontro com a Aubrey. Acho que chegou a hora de tomar uma decisão.)"
 
 # game/v2/v2.rpy:2522
 translate template_lang repeatg_234dd80d:
@@ -2134,13 +2134,13 @@ translate template_lang repeatg_c2bcf1de:
 translate template_lang repeatg_febb5ee0:
 
     # pe "Oh, I understand. I guess I'll see you around."
-    pe "Ah, eu entendo. EntÃ£o acho que nos vemos por aÃ­."
+    pe "Ah, eu entendo. então acho que nos vemos por aí­."
 
 # game/v2/v2.rpy:2536
 translate template_lang repeatg_6b7e7881:
 
     # u "Yeah, definitely. See you later."
-    u "Sim, com certeza. AtÃ© mais."
+    u "Sim, com certeza. Até mais."
 
 # game/v2/v2.rpy:2543
 translate template_lang repeatg_0f9922ed:
@@ -2152,7 +2152,7 @@ translate template_lang repeatg_0f9922ed:
 translate template_lang repeatg_5738152c:
 
     # u "Hey, do you also need a costume for Mr. Lee's class?"
-    u "Ei, você tambÃ©m precisa de um traje pra aula do Prof. Lee, certo?"
+    u "Ei, você também precisa de um traje pra aula do Prof. Lee, certo?"
 
 # game/v2/v2.rpy:2550
 translate template_lang repeatg_5810be51:
@@ -2164,7 +2164,7 @@ translate template_lang repeatg_5810be51:
 translate template_lang repeatg_b546e27b:
 
     # u "Wanna go together? I need one as well."
-    u "Quer ir comigo? Eu tambÃ©m preciso comprar um."
+    u "Quer ir comigo? Eu também preciso comprar um."
 
 # game/v2/v2.rpy:2560
 translate template_lang repeatg_e6e8c76c:
@@ -2182,7 +2182,7 @@ translate template_lang csaub_4f1997c1:
 translate template_lang csaub_6b48de92:
 
     # no "Oh, look who it is."
-    no "Hm, olha sÃ³ quem está aqui."
+    no "Hm, olha só quem está aqui."
 
 # game/v2/v2.rpy:2591
 translate template_lang csaub_17f9b20b:
@@ -2218,25 +2218,25 @@ translate template_lang csaub_4e0688f6:
 translate template_lang csaub_ef39b636:
 
     # au "Yeah, I would show you the house, but we don't have that much time 'cause I've got dance practice later."
-    au "Sim, eu atÃ© faria um tour pela casa com você, mas não tenho tanto tempo assim porque tenho aula de danÃ§a mais tarde."
+    au "Sim, eu até faria um tour pela casa com você, mas não tenho tanto tempo assim porque tenho aula de dança mais tarde."
 
 # game/v2/v2.rpy:2618
 translate template_lang csaub_ce5a0228:
 
     # au "Plus there's a bunch of girls in their underwear in here right now. You wouldn't wanna see that."
-    au "AlÃ©m do mais tem um monte de garotas andando de calcinha por aqui. Eu acho que você não gostaria de ver isso."
+    au "Além do mais tem um monte de garotas andando de calcinha por aqui. Eu acho que você não gostaria de ver isso."
 
 # game/v2/v2.rpy:2623
 translate template_lang csaub_a650f473:
 
     # u "Yeah, that does sound horrible."
-    u "Claro, isso parece realmente horrÃ­vel."
+    u "Claro, isso parece realmente horrível."
 
 # game/v2/v2.rpy:2628
 translate template_lang csaub_6adf6270:
 
     # au "Haha, I thought so. Let's go then."
-    au "Haha, foi o que pensei. Bora entÃ£o."
+    au "Haha, foi o que pensei. Bora então."
 
 # game/v2/v2.rpy:2635
 translate template_lang csaub_7905f04a:
@@ -2254,19 +2254,19 @@ translate template_lang csaub_4f3c7d9b:
 translate template_lang csaub_fb1245f5:
 
     # au "Excuse me, wasn't this a costume shop?"
-    au "Com licenÃ§a, aqui não era uma loja de fantasias?"
+    au "Com licença, aqui não era uma loja de fantasias?"
 
 # game/v2/v2.rpy:2651
 translate template_lang csaub_18865407:
 
     # ev "Well, we were last year, but after Halloween was over sales plummeted."
-    ev "Bom, Ã©ramos no ano passado, mas depois do Halloween as vendas despencaram."
+    ev "Bom, éramos no ano passado, mas depois do Halloween as vendas despencaram."
 
 # game/v2/v2.rpy:2653
 translate template_lang csaub_d3e029a0:
 
     # ev "So the owners had this crazy idea of Halloween in January, but the surprising increase of in-store injuries and following lawsuits quickly made it go bust."
-    ev "EntÃ£o os donos tiveram uma ideia maluca de Janeiroween, mas o aumento dos acidentes na loja e os respectivos processos judiciais foram a decadÃªncia do lugar."
+    ev "então os donos tiveram uma ideia maluca de Janeiroween, mas o aumento dos acidentes na loja e os respectivos processos judiciais foram a decadência do lugar."
 
 # game/v2/v2.rpy:2655
 translate template_lang csaub_8926613f:
@@ -2284,7 +2284,7 @@ translate template_lang csaub_3e2f50e5:
 translate template_lang csaub_3af28705:
 
     # ev "I can check if we still have some costumes in the back, but it'll be a limited selection."
-    ev "Eu posso dar uma olhada se sobraram algumas lá no depÃ³sito, mas seriam bem poucas..."
+    ev "Eu posso dar uma olhada se sobraram algumas lá no depósito, mas seriam bem poucas..."
 
 # game/v2/v2.rpy:2670
 translate template_lang csaub_7d01aa02:
@@ -2296,7 +2296,7 @@ translate template_lang csaub_7d01aa02:
 translate template_lang csaub_1944561c:
 
     # ev "So in this box are all the remaining costumes we have, I hope that's enough."
-    ev "EntÃ£o, nessa caixa estÃ£o todas as fantasias que sobraram. Espero que vocês achem algo."
+    ev "então, nessa caixa estÃ£o todas as fantasias que sobraram. Espero que vocês achem algo."
 
 # game/v2/v2.rpy:2685
 translate template_lang csaub_dd6b5362:
@@ -2326,7 +2326,7 @@ translate template_lang csaub_7f4be50c:
 translate template_lang try1done_189b727a:
 
     # "(Yeah- still look the same as a viking as I did before.)"
-    "(Ã‰- eu definitivamente não pareÃ§o um viking.)"
+    "(É- eu definitivamente não pareço um viking.)"
 
 # game/v2/v2.rpy:2718
 translate template_lang try1done_679ca8e6:
@@ -2344,19 +2344,19 @@ translate template_lang try1new_f4c99d29:
 translate template_lang try1new_18a1ecbe:
 
     # u "(I wonder what Aubrey is changing into.)"
-    u "(O que serÃ¡ que a Aubrey está experimentando...)"
+    u "(O que será que a Aubrey está experimentando...)"
 
 # game/v2/v2.rpy:2740
 translate template_lang try1new_dc177c1d:
 
     # u "(Holy shit, if I could just stick my head through a bit further, I could get a way better view."
-    u "(Droga, se eu consguisse esticar meu pescoÃ§o um pouco mais, eu poderia ver melhor.)"
+    u "(Droga, se eu consguisse esticar meu pescoço um pouco mais, eu poderia ver melhor.)"
 
 # game/v2/v2.rpy:2750
 translate template_lang try1new_1c1a21bf:
 
     # u "(Oh my god, her ass is perfect.)"
-    u "(Puta merda, a bunda dela Ã© perfeita.)"
+    u "(Puta merda, a bunda dela é perfeita.)"
 
 # game/v2/v2.rpy:2752
 translate template_lang try1new_1999eee5:
@@ -2380,7 +2380,7 @@ translate template_lang try1new_53cc9e72:
 translate template_lang try1new_3f475574:
 
     # u "Really? Adorable? How about hot?"
-    u "SÃ©rio? Fofo? Eu acho que você quis dizer gostoso."
+    u "Sério? Fofo? Eu acho que você quis dizer gostoso."
 
 # game/v2/v2.rpy:2786
 translate template_lang try1new_e6f4acca:
@@ -2392,7 +2392,7 @@ translate template_lang try1new_e6f4acca:
 translate template_lang try1new_7d80e924:
 
     # u "I'm not gonna lie, it's kinda hot."
-    u "não vou mentir, Ã© um pouco sexy."
+    u "não vou mentir, é um pouco sexy."
 
 # game/v2/v2.rpy:2797
 translate template_lang try1new_9d031eba:
@@ -2404,7 +2404,7 @@ translate template_lang try1new_9d031eba:
 translate template_lang try1new_86a517e6:
 
     # au "I think you've put me in the wrong time period, buddy."
-    au "Eu acho que você está me colocando no perÃ­odo histÃ³rico errado, campeÃ£o."
+    au "Eu acho que você está me colocando no período histórico errado, campeÃ£o."
 
 # game/v2/v2.rpy:2808
 translate template_lang try1new_519c302b:
@@ -2422,19 +2422,19 @@ translate template_lang try1new_dc103a0a:
 translate template_lang try1new_f56eb18c:
 
     # u "I mean, it's definitely something."
-    u "Olha, Ã© atÃ© que interessante."
+    u "Olha, é até que interessante."
 
 # game/v2/v2.rpy:2824
 translate template_lang try1new_c1c9b559:
 
     # u "I'm not sure if you should replace your everyday clothes with it though."
-    u "Mas não tenho certeza se você deveria usar essa ao invÃ©s das que você usa todos os dias."
+    u "Mas não tenho certeza se você deveria usar essa ao invés das que você usa todos os dias."
 
 # game/v2/v2.rpy:2830
 translate template_lang try1new_8671c31a:
 
     # au "I'll guess I'll have to try some of the other outfits then."
-    au "Eu acho que vou tentar experimentar outras entÃ£o."
+    au "Eu acho que vou tentar experimentar outras então."
 
 # game/v2/v2.rpy:2833
 translate template_lang try1new_dc103a0a_1:
@@ -2458,7 +2458,7 @@ translate template_lang try2done_7fa8b529:
 translate template_lang try2new_b364b155:
 
     # u "(I definitely do not fit into these shoulder pads.)"
-    u "(Eu com certeza não faÃ§o jus Ã  estas ombreiras.)"
+    u "(Eu com certeza não faço jus Ã  estas ombreiras.)"
 
 # game/v2/v2.rpy:2866
 translate template_lang try2new_88dd52ba:
@@ -2470,7 +2470,7 @@ translate template_lang try2new_88dd52ba:
 translate template_lang try2new_adec1f00:
 
     # u "(Wow... if I could just stick my head through a bit further, I could get a way better view."
-    u "(Nossa... Se eu conseguisse esticar meu pescoÃ§o um pouco mais, conseguiria ver melhor.)"
+    u "(Nossa... Se eu conseguisse esticar meu pescoço um pouco mais, conseguiria ver melhor.)"
 
 # game/v2/v2.rpy:2885
 translate template_lang try2new_a8b4395e:
@@ -2506,31 +2506,31 @@ translate template_lang try2new_ffa24c4f:
 translate template_lang try2new_3101ede1:
 
     # u "Yours is uhhh..."
-    u "A sua Ã© hmm..."
+    u "A sua é hmm..."
 
 # game/v2/v2.rpy:2924
 translate template_lang try2new_32a69f7e:
 
     # u "...looking mighty fine as well."
-    u "...igualmente magnÃ­fica, nobre donzela."
+    u "...igualmente magnífica, nobre donzela."
 
 # game/v2/v2.rpy:2929
 translate template_lang try2new_da553dc5:
 
     # au "Is it weird that you talking like that kinda turns me on?"
-    au "Ã‰ estranho dizer que ouvir você falando assim me deixa excitada?"
+    au "É estranho dizer que ouvir você falando assim me deixa excitada?"
 
 # game/v2/v2.rpy:2934
 translate template_lang try2new_5c1ba02f:
 
     # u "Wait really? Should I keep going?"
-    u "QuÃª, sÃ©rio? você quer que eu continue?"
+    u "Quê, Sério? você quer que eu continue?"
 
 # game/v2/v2.rpy:2940
 translate template_lang try2new_968e7bbb:
 
     # au "Hahaha, no. I was just joking."
-    au "Hahaha, não. Eu tava zoando sÃ³."
+    au "Hahaha, não. Eu tava zoando só."
 
 # game/v2/v2.rpy:2943
 translate template_lang try2new_224046bf:
@@ -2566,7 +2566,7 @@ translate template_lang try2new_d3e94b55:
 translate template_lang try2new_66970db9:
 
     # au "Really? I thought it was for getting punched in the face."
-    au "SÃ©rio? Eu pensei que fosse pelo fato de ter levado um soco na cara."
+    au "Sério? Eu pensei que fosse pelo fato de ter levado um soco na cara."
 
 # game/v2/v2.rpy:2971
 translate template_lang try2new_9bfbf47c:
@@ -2584,7 +2584,7 @@ translate template_lang try2new_224046bf_1:
 translate template_lang try2new_735ae2aa:
 
     # au "So are you gonna buy this one?"
-    au "EntÃ£o, você vai comprar essa?"
+    au "então, você vai comprar essa?"
 
 # game/v2/v2.rpy:3001
 translate template_lang try3done_e45e2fd1:
@@ -2608,19 +2608,19 @@ translate template_lang try3new_6e79c38e:
 translate template_lang try3new_b270ad9e:
 
     # u "(Fuck... if I could just stick my head through a bit further, I could get a way better view."
-    u "(Merda... se eu conseguisse esticar meu pescoÃ§o um pouco mais, conseguiria ver melhor.)"
+    u "(Merda... se eu conseguisse esticar meu pescoço um pouco mais, conseguiria ver melhor.)"
 
 # game/v2/v2.rpy:3032
 translate template_lang try3new_5859855c:
 
     # u "(In all fairness, whenever I watch porn, the person getting caught spying gets to fuck the girl right afterwards.)"
-    u "(Pra ser sincero, sempre que eu vejo pornÃ´, quando o cara Ã© pego espiando ele sempre acaba comendo a mina...)"
+    u "(Pra ser sincero, sempre que eu vejo pornÃ´, quando o cara é pego espiando ele sempre acaba comendo a mina...)"
 
 # game/v2/v2.rpy:3034
 translate template_lang try3new_26a091a9:
 
     # u "(Still... I better stop peeking now, it's too risky.)"
-    u "(De qualquer jeito... eu deveria parar de espiar agora, Ã© muito arriscado.)"
+    u "(De qualquer jeito... eu deveria parar de espiar agora, é muito arriscado.)"
 
 # game/v2/v2.rpy:3047
 translate template_lang try3new_9f6f578e:
@@ -2638,7 +2638,7 @@ translate template_lang try3new_e57a573c:
 translate template_lang try3new_ce41a1d2:
 
     # au "This costume is literally just historic lingerie."
-    au "Essa fantasia Ã© literalmente uma lingerie medieval."
+    au "Essa fantasia é literalmente uma lingerie medieval."
 
 # game/v2/v2.rpy:3058
 translate template_lang try3new_156b0976:
@@ -2662,19 +2662,19 @@ translate template_lang try3new_209d958e:
 translate template_lang try3new_ebb31da5:
 
     # u "Alright, fine."
-    u "EntÃ£o tá."
+    u "então tá."
 
 # game/v2/v2.rpy:3076
 translate template_lang try3new_fb1ad710:
 
     # au "Okay, fine. Just for you."
-    au "tá bom. SÃ³ pra você."
+    au "tá bom. Só pra você."
 
 # game/v2/v2.rpy:3086
 translate template_lang try3new_2189828c:
 
     # u "Holy shit, you weren't exaggerating. That is revealing."
-    u "Eita porra, você não estava exagerando. Ã‰ bem explÃ­cito."
+    u "Eita porra, você não estava exagerando. É bem explícito."
 
 # game/v2/v2.rpy:3091
 translate template_lang try3new_bd372840:
@@ -2698,55 +2698,55 @@ translate template_lang try3new_72b71966:
 translate template_lang try3new_97818984:
 
     # au "Also, this cowboy outfit is probably the worst thing I've ever seen anyone wear."
-    au "AliÃ¡s, essa roupa de cowboy Ã© provavelmente a pior coisa que Já vi alguÃ©m usando."
+    au "Aliás, essa roupa de cowboy é provavelmente a pior coisa que já vi alguém usando."
 
 # game/v2/v2.rpy:3105
 translate template_lang try3new_21bc3cf3:
 
     # au "So let's get out of these outfits."
-    au "EntÃ£o vamos trocar de roupa."
+    au "Então vamos trocar de roupa."
 
 # game/v2/v2.rpy:3113
 translate template_lang try3new_ebb31da5_1:
 
     # u "Alright, fine."
-    u "EntÃ£o tá."
+    u "Então tá."
 
 # game/v2/v2.rpy:3115
 translate template_lang try3new_d76759c0:
 
     # u "Then get dressed quickly, so that you can see my costume."
-    u "EntÃ£o vista-se logo, daÃ­ você pode ver minha fantasia."
+    u "Então vista-se logo, daí você pode ver minha fantasia."
 
 # game/v2/v2.rpy:3117
 translate template_lang try3new_d8940fd5:
 
     # au "Yeah, just give me a minute."
-    au "tá bom, espera sÃ³ um minutinho."
+    au "Tá bom, espera só um minutinho."
 
 # game/v2/v2.rpy:3128
 translate template_lang by_bd_289003d8:
 
     # au "Oh god, that looks so bad on you."
-    au "Meu Deus, ficou pÃ©ssimo em você."
+    au "Meu Deus, ficou péssimo em você."
 
 # game/v2/v2.rpy:3133
 translate template_lang by_bd_89e51cb4:
 
     # u "What?? I considered cowboy to be a serious career path for me after I saw myself in this outfit."
-    u "QuÃª?? Eu estou considerando sÃ©riamente a carreira de Cowboy depois de ter experimentado essa roupa."
+    u "Quê?? Eu estou considerando sériamente a carreira de Cowboy depois de ter experimentado essa roupa."
 
 # game/v2/v2.rpy:3138
 translate template_lang by_bd_702693e1:
 
     # au "Oh no. Just whatever you do, do not buy this costume."
-    au "Ah não. não importa o que você faÃ§a, sÃ³ não compre essa roupa."
+    au "Ah não. Não importa o que você faça, só não compre essa roupa."
 
 # game/v2/v2.rpy:3140
 translate template_lang by_bd_5ebbd48f:
 
     # au "I think you should get out of that as quickly as you can."
-    au "Eu acho que você tem tirar ela o mais rÃ¡pido possÃ­vel."
+    au "Eu acho que você tem tirar ela o mais rápido possível."
 
 # game/v2/v2.rpy:3168
 translate template_lang cspe_452a4b0e:
@@ -2758,13 +2758,13 @@ translate template_lang cspe_452a4b0e:
 translate template_lang cspe_d3fe6a51:
 
     # pe "Maybe we can ask the lady over there, she seems to work here."
-    pe "Melhor perguntar para aquela moÃ§a, parece que ela trabalha aqui."
+    pe "Melhor perguntar para aquela moça, parece que ela trabalha aqui."
 
 # game/v2/v2.rpy:3179
 translate template_lang cspe_7e5f655f:
 
     # pe "Excuse me, is this not a costume shop?"
-    pe "Com licenÃ§a, essa não Ã© uma loja de fantasias?"
+    pe "Com licença, essa não é uma loja de fantasias?"
 
 # game/v2/v2.rpy:3184
 translate template_lang cspe_18865407:
@@ -2776,37 +2776,37 @@ translate template_lang cspe_18865407:
 translate template_lang cspe_d3e029a0:
 
     # ev "So the owners had this crazy idea of Halloween in January, but the surprising increase of in-store injuries and following lawsuits quickly made it go bust."
-    ev "EntÃ£o os donos tiveram uma ideia maluca de Janeiroween, mas o aumento dos acidentes na loja e os respectivos processos judiciais foram a decadÃªncia do lugar."
+    ev "então os donos tiveram uma ideia maluca de Janeiroween, mas o aumento dos acidentes na loja e os respectivos processos judiciais foram a decadência do lugar."
 
 # game/v2/v2.rpy:3188
 translate template_lang cspe_8926613f:
 
     # ev "We had to put in a new floor and change the branding, so now we just sell regular clothing in all months of the year."
-    ev "nós tivemos que mudar o lugar todo e tambÃ©m de nome, agora nós vendemos roupa normal o ano inteiro."
+    ev "nós tivemos que mudar o lugar todo e também de nome, agora nós vendemos roupa normal o ano inteiro."
 
 # game/v2/v2.rpy:3193
 translate template_lang cspe_329a48ab:
 
     # pe "Oh, wow, well that's very unfortunate. We were looking to buy some costumes."
-    pe "Ã‰ realmente uma pena. nós precisÃ¡vamos de uma fantasia."
+    pe "É realmente uma pena. nós precisÃ¡vamos de uma fantasia."
 
 # game/v2/v2.rpy:3198
 translate template_lang cspe_da1de338:
 
     # ev "If you want, I can check if we still have some in the back, but it'll be a limited selection."
-    ev "Se você quiser posso ver se sobrou alguma coisa no estoque, provavelmente serÃ¡ pouca coisa."
+    ev "Se você quiser posso ver se sobrou alguma coisa no estoque, provavelmente será pouca coisa."
 
 # game/v2/v2.rpy:3203
 translate template_lang cspe_9f3beb31:
 
     # pe "Yes, that would be amazing. We'd really appreciate it, thank you."
-    pe "Sim, seria Ã³timo. Muito obrigada mesmo."
+    pe "Sim, seria ótimo. Muito obrigada mesmo."
 
 # game/v2/v2.rpy:3213
 translate template_lang cspe_1944561c:
 
     # ev "So in this box are all the remaining costumes we have, I hope that's enough."
-    ev "EntÃ£o, aqui está tudo o que sobrou, espero que vocês encontrem alguma coisa."
+    ev "então, aqui está tudo o que sobrou, espero que vocês encontrem alguma coisa."
 
 # game/v2/v2.rpy:3218
 translate template_lang cspe_dd6b5362:
@@ -2836,13 +2836,13 @@ translate template_lang cspe_c648d714:
 translate template_lang cspe_bfdc89dd:
 
     # pe "At my old college we weren't even allowed to wear costumes on Halloween, because of the dress code."
-    pe "Na minha antiga faculdade nós não podÃ­amos usar fantasias no Halloween, por causa do cÃ³digo de vestimenta."
+    pe "Na minha antiga faculdade nós não podíamos usar fantasias no Halloween, por causa do código de vestimenta."
 
 # game/v2/v2.rpy:3250
 translate template_lang try4done_07bec283:
 
     # "(Yeah- still look the same as a Viking as I did before.)"
-    "(Ã‰- eu definitivamente não pareÃ§o um viking.)"
+    "(É- eu definitivamente não pareço um viking.)"
 
 # game/v2/v2.rpy:3252
 translate template_lang try4done_679ca8e6:
@@ -2854,25 +2854,25 @@ translate template_lang try4done_679ca8e6:
 translate template_lang try4new_f4c99d29:
 
     # u "(Alright, rocking the Viking look.)"
-    u "(tá, tÃ´ arrasando no look de Viking.)"
+    u "(Tá, tá arrasando no look de Viking.)"
 
 # game/v2/v2.rpy:3265
 translate template_lang try4new_d69fd5d5:
 
     # u "(I wonder what Penelope is changing in to.)"
-    u "(O que serÃ¡ que a Penelope está provando...)"
+    u "(O que será que a Penelope está provando...)"
 
 # game/v2/v2.rpy:3274
 translate template_lang try4new_5e7d2f55:
 
     # u "(Holy shit, if I could just stick my head through a bit further, I could get a way better view.)"
-    u "(Merda, se eu conseguisse esticar meu pescoÃ§o um pouco mais, eu conseguiria ver melhor.)"
+    u "(Merda, se eu conseguisse esticar meu pescoço um pouco mais, eu conseguiria ver melhor.)"
 
 # game/v2/v2.rpy:3284
 translate template_lang try4new_6fe76176:
 
     # u "(Oh my god, her ass is so nice.)"
-    u "(Puta que pariu, a bunda dela Ã© incrÃ­vel.)"
+    u "(Puta que pariu, a bunda dela é incrível.)"
 
 # game/v2/v2.rpy:3286
 translate template_lang try4new_1999eee5:
