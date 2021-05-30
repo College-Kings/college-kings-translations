@@ -40,7 +40,7 @@ translate template_lang v9_start_apes_e4efbc4a:
 translate template_lang v9_start_apes_f427f748:
 
     # ca "But you're about to get that chance."
-    ca "Mas você está prestes ter a chance de provar."
+    ca "Mas você está prestes ter uma chance de provar agora."
 
 # game/v9/scene02.rpy:61
 translate template_lang v9_start_apes_907e332d:
@@ -64,7 +64,7 @@ translate template_lang v9_start_apes_c00e3b00:
 translate template_lang v9_start_apes_2deb3af4:
 
     # u "(Cam's just a dick. Not worth it.)"
-    u "(Cam é só um otário. Não vale a pena)."
+    u "(Cam é só um otário. Não vale a pena discutir com ele)."
 
 # game/v9/scene02.rpy:75
 translate template_lang v9_start_apes_d0e0230b:
@@ -82,7 +82,7 @@ translate template_lang v9_start_apes_89dea450:
 translate template_lang v9_start_apes_30ba7630:
 
     # u "Can you tell me?"
-    u "Você pode de dizer o que é?"
+    u "Você pode me dizer o que é?"
 
 # game/v9/scene02.rpy:87
 translate template_lang v9_start_apes_69ee9e1a:
@@ -100,7 +100,7 @@ translate template_lang v9_start_apes_bce01907:
 translate template_lang v9_start_apes_7b81c3bc:
 
     # ca "Uh uh. You stay here, pledge." with hpunch
-    ca "Uh uh. Você fica aqui, promessa." with hpunch
+    ca "Uh uh. Você espera um minuto, promessa." with hpunch
 
 # game/v9/scene02.rpy:103
 translate template_lang v9_start_apes_042bd251:
@@ -154,7 +154,7 @@ translate template_lang v9_start_apes_0bb7db1f:
 translate template_lang v9_start_apes_0d74e70c:
 
     # ca "Oh shut the fuck up."
-    ca "Oh cala a porra desa boca."
+    ca "Oh cala a porra dessa boca."
 
 # game/v9/scene02.rpy:141
 translate template_lang v9_start_apes_b7218951:
@@ -166,7 +166,7 @@ translate template_lang v9_start_apes_b7218951:
 translate template_lang v9_start_apes_6848aa41:
 
     # u "What's up with the red square? That's all I wanna know."
-    u "O que é esse quadrado vermelho? Isso é tudo o que quero saber."
+    u "O que é esse quadrado vermelho no Kiwii? Isso é tudo o que quero saber."
 
 # game/v9/scene02.rpy:150
 translate template_lang v9_start_apes_9d50a3d7:
@@ -332,5 +332,5 @@ translate template_lang strings:
 
     # game/v9/scene02.rpy:251
     old "I think so, actually. You and Cameron really helped"
-    new "Acho que sim, na verdade. Você e Cameron realmente estão ajudando."
+    new "Acho que sim, na verdade. Você e Cameron realmente estão ajudando bastante."
 
