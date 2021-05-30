@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-24 07:15
+﻿# TODO: Translation updated at 2021-05-30 19:11
 
 # game/v5/v5.rpy:63
 translate template_lang v5start_b1183ab6:
@@ -2724,1003 +2724,1003 @@ translate template_lang hospitala_1e1437c3:
     # u "*Deep breath*"
     u ""
 
-# game/v5/v5.rpy:2729
-translate template_lang hospitala_4f1997c1:
+# game/v5/v5.rpy:2732
+translate template_lang fj_b_4f1997c1:
 
     # "*Knock knock knock*"
     ""
 
-# game/v5/v5.rpy:2736
-translate template_lang hospitala_cf5757cb:
+# game/v5/v5.rpy:2739
+translate template_lang fj_b_cf5757cb:
 
     # ad "Wrong dorm, pissbag. Now fuck off."
     ad ""
 
-# game/v5/v5.rpy:2751
-translate template_lang hospitala_41c4e507:
+# game/v5/v5.rpy:2754
+translate template_lang fj_b_41c4e507:
 
     # u "You're Adam, right? Look, you beat up my friend Imre and-"
     u ""
 
-# game/v5/v5.rpy:2756
-translate template_lang hospitala_2a4f3e8b:
+# game/v5/v5.rpy:2759
+translate template_lang fj_b_2a4f3e8b:
 
     # ad "Ahh yeah, I remember, that was quite fun."
     ad ""
 
-# game/v5/v5.rpy:2761
-translate template_lang hospitala_6139557a:
+# game/v5/v5.rpy:2764
+translate template_lang fj_b_6139557a:
 
     # ad "So what are you gonna do about it, bitch?"
     ad ""
 
-# game/v5/v5.rpy:2776
-translate template_lang hospitala_31946e3b:
+# game/v5/v5.rpy:2779
+translate template_lang fj_b_31946e3b:
 
     # u "You find him and apologize or I'll tell the fucking school and you'll get kicked out and maybe even assault charges thrown your way."
     u ""
 
-# game/v5/v5.rpy:2781
-translate template_lang hospitala_a84364ef:
+# game/v5/v5.rpy:2784
+translate template_lang fj_b_a84364ef:
 
     # ad "You do that and I'll come back for you and unlike your friend, you'll never leave the fucking hospital again."
     ad ""
 
-# game/v5/v5.rpy:2783
-translate template_lang hospitala_9e7beed6:
+# game/v5/v5.rpy:2786
+translate template_lang fj_b_9e7beed6:
 
     # ad "Now fuck off."
     ad ""
 
-# game/v5/v5.rpy:2790
-translate template_lang hospitala_9d73ea27:
+# game/v5/v5.rpy:2793
+translate template_lang fj_b_9d73ea27:
 
     # u "(Fuck...)"
     u ""
 
-# game/v5/v5.rpy:2792
-translate template_lang hospitala_92f0993b:
+# game/v5/v5.rpy:2795
+translate template_lang fj_b_92f0993b:
 
     # u "(Great, if I tell the school about this, Imre will be pissed at me and Adam will try to fucking kill me, but if I don't, Imre is gonna get himself killed trying to get revenge.)"
     u ""
 
-# game/v5/v5.rpy:2814
-translate template_lang hospitala_6f8ae513:
+# game/v5/v5.rpy:2817
+translate template_lang fj_b_6f8ae513:
 
     # u "(It's not like I can do anything against him anyways...)"
     u ""
 
-# game/v5/v5.rpy:2815
-translate template_lang hospitala_0f5a6937:
+# game/v5/v5.rpy:2818
+translate template_lang fj_b_0f5a6937:
 
     # u "(Maybe I should tell the school, but Imre would be super pissed and Adam might try and kill me for it.)"
     u ""
 
-# game/v5/v5.rpy:2816
-translate template_lang hospitala_1898af7b:
+# game/v5/v5.rpy:2819
+translate template_lang fj_b_1898af7b:
 
     # u "(On the other hand, if I don't tell the school Imre might actually get himself killed trying to get revenge.)"
     u ""
 
-# game/v5/v5.rpy:2847
+# game/v5/v5.rpy:2850
 translate template_lang fk_a_fb0e787e:
 
     # ad "Oh pissbag, you're about to die."
     ad ""
 
-# game/v5/v5.rpy:3564
+# game/v5/v5.rpy:3567
 translate template_lang fl_b_187df52d:
 
     # u "(It's best if I keep to myself. Telling the school would turn both Imre and Adam against me...)"
     u ""
 
-# game/v5/v5.rpy:3568
+# game/v5/v5.rpy:3571
 translate template_lang fl_b_dadac323:
 
     # u "(I need to find Imre before he finds Adam.)"
     u ""
 
-# game/v5/v5.rpy:3581
+# game/v5/v5.rpy:3584
 translate template_lang fl_a_85fd8679:
 
     # u "(I need to tell the school, it's the only way to sort this out.)"
     u ""
 
-# game/v5/v5.rpy:3591
+# game/v5/v5.rpy:3594
 translate template_lang fl_a_835394e7:
 
     # co "Have a seat."
     co ""
 
-# game/v5/v5.rpy:3596
+# game/v5/v5.rpy:3599
 translate template_lang fl_a_121281cb:
 
     # co "How can I help you today?"
     co ""
 
-# game/v5/v5.rpy:3601
+# game/v5/v5.rpy:3604
 translate template_lang fl_a_83874930:
 
     # u "Well, kinda hard to say. Not trying to start any issues, but I need to protect my friend."
     u ""
 
-# game/v5/v5.rpy:3606
+# game/v5/v5.rpy:3609
 translate template_lang fl_a_91a955ae:
 
     # co "Mhm. I see. I can only help you, if you tell me the problem. Also you can be assured that whatever you tell me, your identity will be kept confidential. Feel free to share what's weighing on you."
     co ""
 
-# game/v5/v5.rpy:3611
+# game/v5/v5.rpy:3614
 translate template_lang fl_a_756e4076:
 
     # u "A close friend of mine got jumped by this guy. He got beat up pretty bad, broken ribs and all."
     u ""
 
-# game/v5/v5.rpy:3616
+# game/v5/v5.rpy:3619
 translate template_lang fl_a_dd183bed:
 
     # co "I'm very sorry to hear that."
     co ""
 
-# game/v5/v5.rpy:3621
+# game/v5/v5.rpy:3624
 translate template_lang fl_a_b6da9e4f:
 
     # u "And now my friend, who isn't even fully recovered, is out trying to get revenge. He was this close to internal bleeding last time, if he gets beat up again..."
     u ""
 
-# game/v5/v5.rpy:3626
+# game/v5/v5.rpy:3629
 translate template_lang fl_a_513a53f0:
 
     # co "I understand. I'll do my best to ensure your friend does not suffer any more violence."
     co ""
 
-# game/v5/v5.rpy:3628
+# game/v5/v5.rpy:3631
 translate template_lang fl_a_45ab7f75:
 
     # co "What is your friend's name?"
     co ""
 
-# game/v5/v5.rpy:3633
+# game/v5/v5.rpy:3636
 translate template_lang fl_a_0f22eb8d:
 
     # u "Imre, Imre Varga."
     u ""
 
-# game/v5/v5.rpy:3638
+# game/v5/v5.rpy:3641
 translate template_lang fl_a_2e77fe64:
 
     # co "And do you happen to know the name of the other person involved? Assault is a serious crime."
     co ""
 
-# game/v5/v5.rpy:3643
+# game/v5/v5.rpy:3646
 translate template_lang fl_a_31cbcb9b:
 
     # u "Uh yeah, his name's Adam. I don't know his last name, but he lives in corridor B."
     u ""
 
-# game/v5/v5.rpy:3648
+# game/v5/v5.rpy:3651
 translate template_lang fl_a_0031d9f0:
 
     # co "Thank you, that will be all. I'm sorry about what happened to your friend, please try and keep a close eye on him until we can get this all sorted."
     co ""
 
-# game/v5/v5.rpy:3653
+# game/v5/v5.rpy:3656
 translate template_lang fl_a_9d5e5faf:
 
     # u "So uhm... what will happen to Adam?"
     u ""
 
-# game/v5/v5.rpy:3658
+# game/v5/v5.rpy:3661
 translate template_lang fl_a_5cc07dc5:
 
     # co "That won't be up to me, but expulsion is definitely a possibility."
     co ""
 
-# game/v5/v5.rpy:3659
+# game/v5/v5.rpy:3662
 translate template_lang fl_a_a193ffe3:
 
     # co "If your friend is willing to pursue this legally, I'd assume assault charges might also be on the table. However, I'm not a lawyer, so I can't speak with certainty on that."
     co ""
 
-# game/v5/v5.rpy:3664
+# game/v5/v5.rpy:3667
 translate template_lang fl_a_8e963ebc:
 
     # u "Alright, thanks. No one will know that I was the one who told you about this, right?"
     u ""
 
-# game/v5/v5.rpy:3669
+# game/v5/v5.rpy:3672
 translate template_lang fl_a_c4b408b8:
 
     # co "Of course not. Your name will remain strictly confidential."
     co ""
 
-# game/v5/v5.rpy:3674
+# game/v5/v5.rpy:3677
 translate template_lang fl_a_5f8df423:
 
     # u "Good, thank you."
     u ""
 
-# game/v5/v5.rpy:3679
+# game/v5/v5.rpy:3682
 translate template_lang fl_a_0c2b0379:
 
     # co "You made the right decision coming here."
     co ""
 
-# game/v5/v5.rpy:3684
+# game/v5/v5.rpy:3687
 translate template_lang fl_a_238a1b06:
 
     # u "Sorry?"
     u ""
 
-# game/v5/v5.rpy:3689
+# game/v5/v5.rpy:3692
 translate template_lang fl_a_e7cc2107:
 
     # co "A lot of students never tell us about their problems until it's too late to solve them. It's not \"uncool\" or \"cowardly\" to speak up."
     co ""
 
-# game/v5/v5.rpy:3690
+# game/v5/v5.rpy:3693
 translate template_lang fl_a_7f9f8001:
 
     # co "It's brave."
     co ""
 
-# game/v5/v5.rpy:3695
+# game/v5/v5.rpy:3698
 translate template_lang fl_a_5c228c03:
 
     # u "Uhm, thanks."
     u ""
 
-# game/v5/v5.rpy:3702
+# game/v5/v5.rpy:3705
 translate template_lang fl_a_6cffc58c:
 
     # u "(I need to find Imre.)"
     u ""
 
-# game/v5/v5.rpy:3712
+# game/v5/v5.rpy:3715
 translate template_lang youfinishadam_980835b0:
 
     # u "Never touch Imre again, you piece of shit."
     u ""
 
-# game/v5/v5.rpy:3719
+# game/v5/v5.rpy:3722
 translate template_lang youfinishadam_06e02a25:
 
     # unknown "Yo, did I just watch you knock out Adam?"
     unknown ""
 
-# game/v5/v5.rpy:3724
+# game/v5/v5.rpy:3727
 translate template_lang youfinishadam_281f0e11:
 
     # u "Look, he-"
     u ""
 
-# game/v5/v5.rpy:3729
+# game/v5/v5.rpy:3732
 translate template_lang youfinishadam_91bafaca:
 
     # u "Oh shit, you're Chris, president of the Wolves, right?"
     u ""
 
-# game/v5/v5.rpy:3734
+# game/v5/v5.rpy:3737
 translate template_lang youfinishadam_3766d5a8:
 
     # ch "Yeah, and you're a freshman. How the hell did you manage to beat up Adam?"
     ch ""
 
-# game/v5/v5.rpy:3739
+# game/v5/v5.rpy:3742
 translate template_lang youfinishadam_f4e8428b:
 
     # u "I don't know... I don't normally fight, it's just..."
     u ""
 
-# game/v5/v5.rpy:3741
+# game/v5/v5.rpy:3744
 translate template_lang youfinishadam_0876cdbf:
 
     # u "He hurt my friend."
     u ""
 
-# game/v5/v5.rpy:3746
+# game/v5/v5.rpy:3749
 translate template_lang youfinishadam_17619ef5:
 
     # ch "Christ man, you're a natural. Have you considered joining a frat?"
     ch ""
 
-# game/v5/v5.rpy:3755
+# game/v5/v5.rpy:3758
 translate template_lang youfinishadam_d312e43a:
 
     # u "Yeah, I'm definitely interested. Especially in the Wolves."
     u ""
 
-# game/v5/v5.rpy:3760
+# game/v5/v5.rpy:3763
 translate template_lang youfinishadam_20c6bfd9:
 
     # ch "That's what I like to hear. Not a single freshman last year could have beaten up Adam. I assume you're gonna be at our rush party on Tuesday?"
     ch ""
 
-# game/v5/v5.rpy:3765
+# game/v5/v5.rpy:3768
 translate template_lang youfinishadam_0a33a1ce:
 
     # u "Yeah, I'll definitely be there."
     u ""
 
-# game/v5/v5.rpy:3770
+# game/v5/v5.rpy:3773
 translate template_lang youfinishadam_19c20dc9:
 
     # ch "Cool, I'll see you then. Come talk to me when you're there."
     ch ""
 
-# game/v5/v5.rpy:3775
+# game/v5/v5.rpy:3778
 translate template_lang youfinishadam_6e9652b9:
 
     # u "Yeah, will do."
     u ""
 
-# game/v5/v5.rpy:3782
+# game/v5/v5.rpy:3785
 translate template_lang youfinishadam_2d28747d:
 
     # u "(Actually, I should probably go find Imre and tell him about what happened.)"
     u ""
 
-# game/v5/v5.rpy:3792
+# game/v5/v5.rpy:3795
 translate template_lang youfinishadam_75ec71bf:
 
     # u "Not really, I'm not a fighter, okay? This was a one time thing, I had no choice."
     u ""
 
-# game/v5/v5.rpy:3797
+# game/v5/v5.rpy:3800
 translate template_lang youfinishadam_4eda40a7:
 
     # ch "Not a single freshman last year could have beaten up Adam. You have talent, man. Come to our rush party on Tuesday, I promise you, you won't regret it."
     ch ""
 
-# game/v5/v5.rpy:3802
+# game/v5/v5.rpy:3805
 translate template_lang youfinishadam_67c72b3e:
 
     # u "I promised my friend I'd go anyways. So yeah, I'll be there."
     u ""
 
-# game/v5/v5.rpy:3807
+# game/v5/v5.rpy:3810
 translate template_lang youfinishadam_92882fc0:
 
     # ch "That's good. I'll see you then, come talk to me when you're there."
     ch ""
 
-# game/v5/v5.rpy:3812
+# game/v5/v5.rpy:3815
 translate template_lang youfinishadam_6e9652b9_1:
 
     # u "Yeah, will do."
     u ""
 
-# game/v5/v5.rpy:3817
+# game/v5/v5.rpy:3820
 translate template_lang youfinishadam_2d28747d_1:
 
     # u "(Actually, I should probably go find Imre and tell him about what happened.)"
     u ""
 
-# game/v5/v5.rpy:3831
+# game/v5/v5.rpy:3834
 translate template_lang adamfinish_b62a7bc2:
 
     # u "*winces in pain*"
     u ""
 
-# game/v5/v5.rpy:3836
+# game/v5/v5.rpy:3839
 translate template_lang adamfinish_50d583a2:
 
     # ad "*Spits*"
     ad ""
 
-# game/v5/v5.rpy:3841
+# game/v5/v5.rpy:3844
 translate template_lang adamfinish_de51ea0d:
 
     # ad "You really thought you could beat me up, huh?"
     ad ""
 
-# game/v5/v5.rpy:3846
+# game/v5/v5.rpy:3849
 translate template_lang adamfinish_b6e13d10:
 
     # u "*winces in pain* Ahhh!"
     u ""
 
-# game/v5/v5.rpy:3851
+# game/v5/v5.rpy:3854
 translate template_lang adamfinish_ddef8385:
 
     # ad "Let's see how many ribs you're gonna break today."
     ad ""
 
-# game/v5/v5.rpy:3856
+# game/v5/v5.rpy:3859
 translate template_lang adamfinish_3d0c0a9a:
 
     # unknown "Leave him alone, Adam!"
     unknown ""
 
-# game/v5/v5.rpy:3861
+# game/v5/v5.rpy:3864
 translate template_lang adamfinish_8f73a00b:
 
     # ch "Or I'll beat you up myself."
     ch ""
 
-# game/v5/v5.rpy:3866
+# game/v5/v5.rpy:3869
 translate template_lang adamfinish_20fe7500:
 
     # ad "You think I'm scared of you, Chris?"
     ad ""
 
-# game/v5/v5.rpy:3876
+# game/v5/v5.rpy:3879
 translate template_lang adamfinish_a9ceab6e:
 
     # ch "Step. Away."
     ch ""
 
-# game/v5/v5.rpy:3891
+# game/v5/v5.rpy:3894
 translate template_lang adamfinish_93762eb0:
 
     # ch "You okay?"
     ch ""
 
-# game/v5/v5.rpy:3896
+# game/v5/v5.rpy:3899
 translate template_lang adamfinish_2c66ecf0:
 
     # u "Yeah, thanks."
     u ""
 
-# game/v5/v5.rpy:3901
+# game/v5/v5.rpy:3904
 translate template_lang adamfinish_7322bc88:
 
     # u "You're Chris, president of the Wolves, right?"
     u ""
 
-# game/v5/v5.rpy:3906
+# game/v5/v5.rpy:3909
 translate template_lang adamfinish_dcba2ca7:
 
     # ch "Yeah, that's me."
     ch ""
 
-# game/v5/v5.rpy:3908
+# game/v5/v5.rpy:3911
 translate template_lang adamfinish_f8ab21ae:
 
     # ch "So, why did Adam wanna beat you up? Did you look at him the wrong way?"
     ch ""
 
-# game/v5/v5.rpy:3913
+# game/v5/v5.rpy:3916
 translate template_lang adamfinish_1e6d7891:
 
     # u "He beat up my friend. And when I confronted him, I just kinda lost it and punched him."
     u ""
 
-# game/v5/v5.rpy:3918
+# game/v5/v5.rpy:3921
 translate template_lang adamfinish_fe9c641f:
 
     # ch "Fair enough. Do you fight a lot?"
     ch ""
 
-# game/v5/v5.rpy:3923
+# game/v5/v5.rpy:3926
 translate template_lang adamfinish_b754cbe0:
 
     # u "Not really. That's probably why I was the one on the ground and not him."
     u ""
 
-# game/v5/v5.rpy:3928
+# game/v5/v5.rpy:3931
 translate template_lang adamfinish_9d2af3bb:
 
     # ch "Trust me, not a single freshman last year could have beaten up Adam. He's not an easy opponent."
     ch ""
 
-# game/v5/v5.rpy:3933
+# game/v5/v5.rpy:3936
 translate template_lang adamfinish_6e3d920f:
 
     # u "Yeah..."
     u ""
 
-# game/v5/v5.rpy:3938
+# game/v5/v5.rpy:3941
 translate template_lang adamfinish_d91d3c87:
 
     # ch "Look, people like Adam... they don't stop. At some point he'll find you by yourself and he'll try to fuck you up even more."
     ch ""
 
-# game/v5/v5.rpy:3940
+# game/v5/v5.rpy:3943
 translate template_lang adamfinish_39689522:
 
     # ch "You should come to our rush party on Tuesday. As a Wolf, you'll learn how to defend yourself."
     ch ""
 
-# game/v5/v5.rpy:3945
+# game/v5/v5.rpy:3948
 translate template_lang adamfinish_2a0fbecd:
 
     # u "Really? You see me get beaten up and you still want me to join the Wolves, who's only requirement for joining is being good at fighting?"
     u ""
 
-# game/v5/v5.rpy:3950
+# game/v5/v5.rpy:3953
 translate template_lang adamfinish_699d1d5a:
 
     # ch "Well, you gave him a nosebleed, so you must have landed at least one good punch."
     ch ""
 
-# game/v5/v5.rpy:3952
+# game/v5/v5.rpy:3955
 translate template_lang adamfinish_2b38ea14:
 
     # ch "Also, fighting can be learned. We care about loyalty. And you trying to avenge your friend like that, without much fighting experience, that's honorable."
     ch ""
 
-# game/v5/v5.rpy:3954
+# game/v5/v5.rpy:3957
 translate template_lang adamfinish_4de1b9ea:
 
     # ch "So, Tuesday?"
     ch ""
 
-# game/v5/v5.rpy:3959
+# game/v5/v5.rpy:3962
 translate template_lang adamfinish_f954a308:
 
     # u "Alright, I'll be there."
     u ""
 
-# game/v5/v5.rpy:3964
+# game/v5/v5.rpy:3967
 translate template_lang adamfinish_f458aad1:
 
     # ch "Good, I'll see you then. Come talk to me when you're there."
     ch ""
 
-# game/v5/v5.rpy:3969
+# game/v5/v5.rpy:3972
 translate template_lang adamfinish_6e9652b9:
 
     # u "Yeah, will do."
     u ""
 
-# game/v5/v5.rpy:3974
+# game/v5/v5.rpy:3977
 translate template_lang adamfinish_2d28747d:
 
     # u "(Actually, I should probably go find Imre and tell him about what happened.)"
     u ""
 
-# game/v5/v5.rpy:3978
+# game/v5/v5.rpy:3981
 translate template_lang adamfinish_5754cadc:
 
     # u "(But first, I gotta wash the blood of my face.)"
     u ""
 
-# game/v5/v5.rpy:3988
+# game/v5/v5.rpy:3991
 translate template_lang findimre_97f93bda:
 
     # u "Imre?"
     u ""
 
-# game/v5/v5.rpy:3993
+# game/v5/v5.rpy:3996
 translate template_lang findimre_4e0355dd:
 
     # u "Have you seen Imre?"
     u ""
 
-# game/v5/v5.rpy:3998
+# game/v5/v5.rpy:4001
 translate template_lang findimre_a6a1bb36:
 
     # u "Imreee? Are you here?"
     u ""
 
-# game/v5/v5.rpy:4003
+# game/v5/v5.rpy:4006
 translate template_lang findimre_2c874bf2:
 
     # u "Mr. Lee, any chance you've seen Imre?"
     u ""
 
-# game/v5/v5.rpy:4008
+# game/v5/v5.rpy:4011
 translate template_lang findimre_1771c387:
 
     # u "Imre, there you are!"
     u ""
 
-# game/v5/v5.rpy:4013
+# game/v5/v5.rpy:4016
 translate template_lang findimre_0482bc78:
 
     # imre "I can't fucking find him. He must be hiding or some shit. No one seems to know where he lives either."
     imre ""
 
-# game/v5/v5.rpy:4014
+# game/v5/v5.rpy:4017
 translate template_lang findimre_e731e46c:
 
     # imre "Fucking bullshit, they're all just scared of him!"
     imre ""
 
-# game/v5/v5.rpy:4021
+# game/v5/v5.rpy:4024
 translate template_lang findimre_100b0d2f:
 
     # u "Actually, I uhm... I found Adam."
     u ""
 
-# game/v5/v5.rpy:4026
+# game/v5/v5.rpy:4029
 translate template_lang findimre_c1b21072:
 
     # imre "Where? Where is he?"
     imre ""
 
-# game/v5/v5.rpy:4031
+# game/v5/v5.rpy:4034
 translate template_lang findimre_1d0f4d73:
 
     # u "He lives in the dorm opposite to us. But I already paid him a visit."
     u ""
 
-# game/v5/v5.rpy:4036
+# game/v5/v5.rpy:4039
 translate template_lang findimre_767793e7:
 
     # imre "Fuck you mean you paid him a visit?"
     imre ""
 
-# game/v5/v5.rpy:4041
+# game/v5/v5.rpy:4044
 translate template_lang findimre_890f004a:
 
     # u "I beat him up. Knocked him out. Told him to leave you alone."
     u ""
 
-# game/v5/v5.rpy:4046
+# game/v5/v5.rpy:4049
 translate template_lang findimre_b54a0b35:
 
     # imre "You did what?! What the fuck is wrong with you?!"
     imre ""
 
-# game/v5/v5.rpy:4051
+# game/v5/v5.rpy:4054
 translate template_lang findimre_5c35f2be:
 
     # u "What?? That's what you wanted, right? He got beaten up."
     u ""
 
-# game/v5/v5.rpy:4056
+# game/v5/v5.rpy:4059
 translate template_lang findimre_b061062d:
 
     # imre "I wanted to beat him up! He was mine! You knew he was mine!"
     imre ""
 
-# game/v5/v5.rpy:4061
+# game/v5/v5.rpy:4064
 translate template_lang findimre_1dc58521:
 
     # u "Imre, I-"
     u ""
 
-# game/v5/v5.rpy:4066
+# game/v5/v5.rpy:4069
 translate template_lang findimre_866fa656:
 
     # imre "You pretend like you're not a fighter, like you're not a Wolf..."
     imre ""
 
-# game/v5/v5.rpy:4068
+# game/v5/v5.rpy:4071
 translate template_lang findimre_94427e73:
 
     # imre "Well turns out you were right about one of those. Go join the fucking Apes!"
     imre ""
 
-# game/v5/v5.rpy:4073
+# game/v5/v5.rpy:4076
 translate template_lang findimre_1cd2fc7c:
 
     # u "Imre!"
     u ""
 
-# game/v5/v5.rpy:4078
+# game/v5/v5.rpy:4081
 translate template_lang findimre_f617ca71:
 
     # u "Fuck!"
     u ""
 
-# game/v5/v5.rpy:4081
+# game/v5/v5.rpy:4084
 translate template_lang findimre_100b0d2f_1:
 
     # u "Actually, I uhm... I found Adam."
     u ""
 
-# game/v5/v5.rpy:4086
+# game/v5/v5.rpy:4089
 translate template_lang findimre_c1b21072_1:
 
     # imre "Where? Where is he?"
     imre ""
 
-# game/v5/v5.rpy:4091
+# game/v5/v5.rpy:4094
 translate template_lang findimre_d4852c6a:
 
     # u "He lives in the dorm opposite to us. I confronted him when I found out, but it got out of control and he beat me up."
     u ""
 
-# game/v5/v5.rpy:4093
+# game/v5/v5.rpy:4096
 translate template_lang findimre_fe65c7fa:
 
     # u "Luckily Chris stepped in, otherwise he would've sent me to the hospital as well."
     u ""
 
-# game/v5/v5.rpy:4098
+# game/v5/v5.rpy:4101
 translate template_lang findimre_50e0f118:
 
     # imre "Well that was fucking stupid of you, wasn't it?"
     imre ""
 
-# game/v5/v5.rpy:4100
+# game/v5/v5.rpy:4103
 translate template_lang findimre_5ca50fa3:
 
     # imre "I told you, I don't need your help, I got this."
     imre ""
 
-# game/v5/v5.rpy:4105
+# game/v5/v5.rpy:4108
 translate template_lang findimre_954f4219:
 
     # u "Yeah sorry, it's just... I don't wanna pick you up from the hospital again."
     u ""
 
-# game/v5/v5.rpy:4110
+# game/v5/v5.rpy:4113
 translate template_lang findimre_b7b76de0:
 
     # imre "I'll get a cab next time."
     imre ""
 
-# game/v5/v5.rpy:4115
+# game/v5/v5.rpy:4118
 translate template_lang findimre_327df7fb:
 
     # u "You know that's not what I meant."
     u ""
 
-# game/v5/v5.rpy:4120
+# game/v5/v5.rpy:4123
 translate template_lang findimre_c6103c1c:
 
     # imre "Look, I really appreciate that you're trying to help, but I know what I'm doing, okay?"
     imre ""
 
-# game/v5/v5.rpy:4125
+# game/v5/v5.rpy:4128
 translate template_lang findimre_b9c4fde3:
 
     # u "Okay."
     u ""
 
-# game/v5/v5.rpy:4127
+# game/v5/v5.rpy:4130
 translate template_lang findimre_312624f2:
 
     # u "Are you gonna try and fight him now?"
     u ""
 
-# game/v5/v5.rpy:4132
+# game/v5/v5.rpy:4135
 translate template_lang findimre_f34a6855:
 
     # imre "I have to do this."
     imre ""
 
-# game/v5/v5.rpy:4137
+# game/v5/v5.rpy:4140
 translate template_lang findimre_27ada699:
 
     # u "Can I at least-"
     u ""
 
-# game/v5/v5.rpy:4142
+# game/v5/v5.rpy:4145
 translate template_lang findimre_d366a356:
 
     # imre "[name], please. Go take a walk. Let me handle this myself."
     imre ""
 
-# game/v5/v5.rpy:4147
+# game/v5/v5.rpy:4150
 translate template_lang findimre_0ed196a0:
 
     # u "Alright. Good luck, man."
     u ""
 
-# game/v5/v5.rpy:4151
+# game/v5/v5.rpy:4154
 translate template_lang findimre_100b0d2f_2:
 
     # u "Actually, I uhm... I found Adam."
     u ""
 
-# game/v5/v5.rpy:4156
+# game/v5/v5.rpy:4159
 translate template_lang findimre_c1b21072_2:
 
     # imre "Where? Where is he?"
     imre ""
 
-# game/v5/v5.rpy:4161
+# game/v5/v5.rpy:4164
 translate template_lang findimre_bc47b8ad:
 
     # u "He lives in the dorm opposite to us. But there's something else I need to tell you."
     u ""
 
-# game/v5/v5.rpy:4163
+# game/v5/v5.rpy:4166
 translate template_lang findimre_6e981df1:
 
     # u "I told the school about what happened. They're gonna take care of it."
     u ""
 
-# game/v5/v5.rpy:4168
+# game/v5/v5.rpy:4171
 translate template_lang findimre_b54a0b35_1:
 
     # imre "You did what?! What the fuck is wrong with you?!"
     imre ""
 
-# game/v5/v5.rpy:4173
+# game/v5/v5.rpy:4176
 translate template_lang findimre_fc06e59c:
 
     # u "Look, I know that's not what you wanted, but-"
     u ""
 
-# game/v5/v5.rpy:4178
+# game/v5/v5.rpy:4181
 translate template_lang findimre_b9a51817:
 
     # imre "I told you to stay out of it! Now if I touch him the school will kick both of us out!"
     imre ""
 
-# game/v5/v5.rpy:4183
+# game/v5/v5.rpy:4186
 translate template_lang findimre_1dc58521_1:
 
     # u "Imre, I-"
     u ""
 
-# game/v5/v5.rpy:4188
+# game/v5/v5.rpy:4191
 translate template_lang findimre_f2cbde9f:
 
     # imre "I knew you weren't a fucking fighter, but I didn't know you were such a snitch!"
     imre ""
 
-# game/v5/v5.rpy:4190
+# game/v5/v5.rpy:4193
 translate template_lang findimre_2d7c7972:
 
     # imre "Stay the fuck out of my life!"
     imre ""
 
-# game/v5/v5.rpy:4195
+# game/v5/v5.rpy:4198
 translate template_lang findimre_1cd2fc7c_1:
 
     # u "Imre!"
     u ""
 
-# game/v5/v5.rpy:4200
+# game/v5/v5.rpy:4203
 translate template_lang findimre_f617ca71_1:
 
     # u "Fuck!"
     u ""
 
-# game/v5/v5.rpy:4203
+# game/v5/v5.rpy:4206
 translate template_lang findimre_100b0d2f_3:
 
     # u "Actually, I uhm... I found Adam."
     u ""
 
-# game/v5/v5.rpy:4208
+# game/v5/v5.rpy:4211
 translate template_lang findimre_c1b21072_3:
 
     # imre "Where? Where is he?"
     imre ""
 
-# game/v5/v5.rpy:4213
+# game/v5/v5.rpy:4216
 translate template_lang findimre_7b8a0c27:
 
     # u "You really wanna know? He lives in the dorm opposite to us."
     u ""
 
-# game/v5/v5.rpy:4215
+# game/v5/v5.rpy:4218
 translate template_lang findimre_4e762005:
 
     # u "But you can't do this, man! At least not by yourself, let me come with you and we'll take him on together."
     u ""
 
-# game/v5/v5.rpy:4220
+# game/v5/v5.rpy:4223
 translate template_lang findimre_5ca50fa3_1:
 
     # imre "I told you, I don't need your help, I got this."
     imre ""
 
-# game/v5/v5.rpy:4225
+# game/v5/v5.rpy:4228
 translate template_lang findimre_9579efe1:
 
     # u "I get that, but... I don't wanna pick you up from the hospital again."
     u ""
 
-# game/v5/v5.rpy:4230
+# game/v5/v5.rpy:4233
 translate template_lang findimre_b7b76de0_1:
 
     # imre "I'll get a cab next time."
     imre ""
 
-# game/v5/v5.rpy:4235
+# game/v5/v5.rpy:4238
 translate template_lang findimre_327df7fb_1:
 
     # u "You know that's not what I meant."
     u ""
 
-# game/v5/v5.rpy:4240
+# game/v5/v5.rpy:4243
 translate template_lang findimre_c6103c1c_1:
 
     # imre "Look, I really appreciate that you're trying to help, but I know what I'm doing, okay?"
     imre ""
 
-# game/v5/v5.rpy:4245
+# game/v5/v5.rpy:4248
 translate template_lang findimre_b9c4fde3_1:
 
     # u "Okay."
     u ""
 
-# game/v5/v5.rpy:4247
+# game/v5/v5.rpy:4250
 translate template_lang findimre_312624f2_1:
 
     # u "Are you gonna try and fight him now?"
     u ""
 
-# game/v5/v5.rpy:4252
+# game/v5/v5.rpy:4255
 translate template_lang findimre_f34a6855_1:
 
     # imre "I have to do this."
     imre ""
 
-# game/v5/v5.rpy:4257
+# game/v5/v5.rpy:4260
 translate template_lang findimre_27ada699_1:
 
     # u "Can I at least-"
     u ""
 
-# game/v5/v5.rpy:4262
+# game/v5/v5.rpy:4265
 translate template_lang findimre_ecf38ec3:
 
     # imre "[name], please. Go take a walk, distract yourself. Let me handle this myself."
     imre ""
 
-# game/v5/v5.rpy:4267
+# game/v5/v5.rpy:4270
 translate template_lang findimre_0ed196a0_1:
 
     # u "Alright. Good luck, man."
     u ""
 
-# game/v5/v5.rpy:4279
+# game/v5/v5.rpy:4282
 translate template_lang continueba_9399425c:
 
     # u "(How the fuck did everything go so wrong??)"
     u ""
 
-# game/v5/v5.rpy:4280
+# game/v5/v5.rpy:4283
 translate template_lang continueba_af6f658d:
 
     # u "(A couple hours ago Imre was so happy to see me and now he probably hates me...)"
     u ""
 
-# game/v5/v5.rpy:4282
+# game/v5/v5.rpy:4285
 translate template_lang continueba_4ee172ff:
 
     # u "(I need to go and talk to him again. He's probably in our dorm.)"
     u ""
 
-# game/v5/v5.rpy:4285
+# game/v5/v5.rpy:4288
 translate template_lang continueba_0a2a60e5:
 
     # u "(What am I doing? Adam could be beating Imre senseless at our dorms right now.)"
     u ""
 
-# game/v5/v5.rpy:4287
+# game/v5/v5.rpy:4290
 translate template_lang continueba_d88dab7e:
 
     # u "(I know Imre said he didn't want me to help him, but I can't just do nothing.)"
     u ""
 
-# game/v5/v5.rpy:4296
+# game/v5/v5.rpy:4299
 translate template_lang continueba_7acac9c4:
 
     # u "(Maybe that's Imre...)"
     u ""
 
-# game/v5/v5.rpy:4308
+# game/v5/v5.rpy:4311
 translate template_lang continueba_846a36e8:
 
     # u "(Fuck, I don't have time for Amber right now, but I really wanna find out what surprise she has.)"
     u ""
 
-# game/v5/v5.rpy:4311
+# game/v5/v5.rpy:4314
 translate template_lang continueba_593d13cf:
 
     # u "(I gotta make a decision. Should I find Imre, or keep talking to Amber?)"
     u ""
 
-# game/v5/v5.rpy:4313
+# game/v5/v5.rpy:4316
 translate template_lang continueba_09958f46:
 
     # u "(I gotta make a decision. Should I help Imre, or keep talking to Amber?)"
     u ""
 
-# game/v5/v5.rpy:4325
+# game/v5/v5.rpy:4328
 translate template_lang continueba_56d845ec:
 
     # u "(Fuck, I don't have time for this right now, but going swimming with Chloe sounds like the best possible way to get closer to her.)"
     u ""
 
-# game/v5/v5.rpy:4328
+# game/v5/v5.rpy:4331
 translate template_lang continueba_8d30836f:
 
     # u "(I gotta make a decision. Should I find Imre, or meet Chloe?)"
     u ""
 
-# game/v5/v5.rpy:4330
+# game/v5/v5.rpy:4333
 translate template_lang continueba_e8cda8a6:
 
     # u "(I gotta make a decision. Should I help Imre, or meet Chloe?)"
@@ -3928,63 +3928,63 @@ translate template_lang strings:
     old "I didn't mean to"
     new ""
 
-    # game/v5/v5.rpy:2719
+    # game/v5/v5.rpy:2722
     old "Confront Adam"
     new ""
 
-    # game/v5/v5.rpy:2738
+    # game/v5/v5.rpy:2741
     old "Punch him"
     new ""
 
-    # game/v5/v5.rpy:2763
+    # game/v5/v5.rpy:2766
     old "Threaten to tell school"
     new ""
 
-    # game/v5/v5.rpy:2794
+    # game/v5/v5.rpy:2797
     old "Tell the school"
     new ""
 
-    # game/v5/v5.rpy:2794
+    # game/v5/v5.rpy:2797
     old "Keep it to yourself"
     new ""
 
-    # game/v5/v5.rpy:3748
+    # game/v5/v5.rpy:3751
     old "Yeah, I'm interested."
     new ""
 
-    # game/v5/v5.rpy:3748
+    # game/v5/v5.rpy:3751
     old "Not really."
     new ""
 
-    # game/v5/v5.rpy:4299
+    # game/v5/v5.rpy:4302
     old "Hey, you alone? xx"
     new ""
 
-    # game/v5/v5.rpy:4300
+    # game/v5/v5.rpy:4303
     old "I'm at the park, but I'm by myself."
     new ""
 
-    # game/v5/v5.rpy:4301
+    # game/v5/v5.rpy:4304
     old "Go somewhere where you're completely alone xx"
     new ""
 
-    # game/v5/v5.rpy:4302
+    # game/v5/v5.rpy:4305
     old "I got a surprise for you ;)"
     new ""
 
-    # game/v5/v5.rpy:4316
+    # game/v5/v5.rpy:4319
     old "I got some free time right now :)"
     new ""
 
-    # game/v5/v5.rpy:4317
+    # game/v5/v5.rpy:4320
     old "Wanna go swimming?"
     new ""
 
-    # game/v5/v5.rpy:4318
+    # game/v5/v5.rpy:4321
     old "Any chance we could do it later? Or tomorrow?"
     new ""
 
-    # game/v5/v5.rpy:4319
+    # game/v5/v5.rpy:4322
     old "I'm busy later tonight and I'm pretty much booked for the entire week :/"
     new ""
 

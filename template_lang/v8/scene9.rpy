@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-24 07:15
+﻿# TODO: Translation updated at 2021-05-30 19:11
 
 # game/v8/scene9.rpy:16
 translate template_lang after_prot_wolves_558e2d1d:

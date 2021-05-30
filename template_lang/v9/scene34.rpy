@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-24 07:15
+﻿# TODO: Translation updated at 2021-05-30 19:11
 
 # game/v9/scene34.rpy:17
 translate template_lang v9_ri_sex_b4c8c4cb:
@@ -301,9 +301,9 @@ translate template_lang v9_ri_sex_57258cce:
     u ""
 
 # game/v9/scene34.rpy:252
-translate template_lang v9_ri_sex_81e6143f:
+translate template_lang v9_ri_sex_bebb9ce1:
 
-    # ri "Let me drive."
+    # ri "Let me get on top."
     ri ""
 
 # game/v9/scene34.rpy:267

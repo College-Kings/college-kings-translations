@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-24 07:15
+﻿# TODO: Translation updated at 2021-05-30 19:11
 
 # game/v9/scene35.rpy:80
 translate template_lang v9_room_sat_aft_392403a7:
@@ -224,10 +224,6 @@ translate template_lang strings:
 
     # game/v9/scene35.rpy:68
     old "Goodnight Chloe."
-    new ""
-
-    # game/v9/scene35.rpy:85
-    old "Hey [name], what you up to?"
     new ""
 
     # game/v9/scene35.rpy:86

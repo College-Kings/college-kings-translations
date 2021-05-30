@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-24 07:15
+﻿# TODO: Translation updated at 2021-05-30 19:11
 
 # game/v9/scene41.rpy:11
 translate template_lang v9_apes_pre_fight_a2110246:

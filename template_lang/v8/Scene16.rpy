@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-24 07:15
+﻿# TODO: Translation updated at 2021-05-30 19:11
 
 # game/v8/Scene16.rpy:17
 translate template_lang mc_wolves_sun_aft_e2049ac4:

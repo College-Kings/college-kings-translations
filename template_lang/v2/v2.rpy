@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-24 07:15
+﻿# TODO: Translation updated at 2021-05-30 19:11
 
 # game/v2/v2.rpy:85
 translate template_lang v2start_1bba6b51:
@@ -4164,10 +4164,6 @@ translate template_lang strings:
 
     # game/v2/v2.rpy:3060
     old "Oh come on."
-    new ""
-
-    # game/v2/v2.rpy:3060
-    old "Fine."
     new ""
 
     # game/v2/v2.rpy:3333

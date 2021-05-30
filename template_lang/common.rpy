@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-24 07:15
+﻿# TODO: Translation updated at 2021-05-30 19:11
 
 translate template_lang strings:
 
@@ -398,43 +398,43 @@ translate template_lang strings:
     old "Audio Filename:"
     new ""
 
-    # renpy/common/00gui.rpy:374
+    # renpy/common/00gui.rpy:382
     old "Are you sure?"
     new ""
 
-    # renpy/common/00gui.rpy:375
+    # renpy/common/00gui.rpy:383
     old "Are you sure you want to delete this save?"
     new ""
 
-    # renpy/common/00gui.rpy:376
+    # renpy/common/00gui.rpy:384
     old "Are you sure you want to overwrite your save?"
     new ""
 
-    # renpy/common/00gui.rpy:377
+    # renpy/common/00gui.rpy:385
     old "Loading will lose unsaved progress.\nAre you sure you want to do this?"
     new ""
 
-    # renpy/common/00gui.rpy:378
+    # renpy/common/00gui.rpy:386
     old "Are you sure you want to quit?"
     new ""
 
-    # renpy/common/00gui.rpy:379
+    # renpy/common/00gui.rpy:387
     old "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
     new ""
 
-    # renpy/common/00gui.rpy:380
+    # renpy/common/00gui.rpy:388
     old "Are you sure you want to end the replay?"
     new ""
 
-    # renpy/common/00gui.rpy:381
+    # renpy/common/00gui.rpy:389
     old "Are you sure you want to begin skipping?"
     new ""
 
-    # renpy/common/00gui.rpy:382
+    # renpy/common/00gui.rpy:390
     old "Are you sure you want to skip to the next choice?"
     new ""
 
-    # renpy/common/00gui.rpy:383
+    # renpy/common/00gui.rpy:391
     old "Are you sure you want to skip unseen dialogue to the next choice?"
     new ""
 
@@ -806,91 +806,91 @@ translate template_lang strings:
     old "The Ren'Py Updater is not supported on mobile devices."
     new ""
 
-    # renpy/common/00updater.rpy:493
+    # renpy/common/00updater.rpy:496
     old "An error is being simulated."
     new ""
 
-    # renpy/common/00updater.rpy:677
+    # renpy/common/00updater.rpy:680
     old "Either this project does not support updating, or the update status file was deleted."
     new ""
 
-    # renpy/common/00updater.rpy:691
+    # renpy/common/00updater.rpy:694
     old "This account does not have permission to perform an update."
     new ""
 
-    # renpy/common/00updater.rpy:694
+    # renpy/common/00updater.rpy:697
     old "This account does not have permission to write the update log."
     new ""
 
-    # renpy/common/00updater.rpy:721
+    # renpy/common/00updater.rpy:724
     old "Could not verify update signature."
     new ""
 
-    # renpy/common/00updater.rpy:992
+    # renpy/common/00updater.rpy:995
     old "The update file was not downloaded."
     new ""
 
-    # renpy/common/00updater.rpy:1010
+    # renpy/common/00updater.rpy:1013
     old "The update file does not have the correct digest - it may have been corrupted."
     new ""
 
-    # renpy/common/00updater.rpy:1064
+    # renpy/common/00updater.rpy:1067
     old "While unpacking {}, unknown type {}."
     new ""
 
-    # renpy/common/00updater.rpy:1430
+    # renpy/common/00updater.rpy:1433
     old "Updater"
     new ""
 
-    # renpy/common/00updater.rpy:1437
+    # renpy/common/00updater.rpy:1440
     old "An error has occured:"
     new ""
 
-    # renpy/common/00updater.rpy:1439
+    # renpy/common/00updater.rpy:1442
     old "Checking for updates."
     new ""
 
-    # renpy/common/00updater.rpy:1441
+    # renpy/common/00updater.rpy:1444
     old "This program is up to date."
     new ""
 
-    # renpy/common/00updater.rpy:1443
+    # renpy/common/00updater.rpy:1446
     old "[u.version] is available. Do you want to install it?"
     new ""
 
-    # renpy/common/00updater.rpy:1445
+    # renpy/common/00updater.rpy:1448
     old "Preparing to download the updates."
     new ""
 
-    # renpy/common/00updater.rpy:1447
+    # renpy/common/00updater.rpy:1450
     old "Downloading the updates."
     new ""
 
-    # renpy/common/00updater.rpy:1449
+    # renpy/common/00updater.rpy:1452
     old "Unpacking the updates."
     new ""
 
-    # renpy/common/00updater.rpy:1451
+    # renpy/common/00updater.rpy:1454
     old "Finishing up."
     new ""
 
-    # renpy/common/00updater.rpy:1453
+    # renpy/common/00updater.rpy:1456
     old "The updates have been installed. The program will restart."
     new ""
 
-    # renpy/common/00updater.rpy:1455
+    # renpy/common/00updater.rpy:1458
     old "The updates have been installed."
     new ""
 
-    # renpy/common/00updater.rpy:1457
+    # renpy/common/00updater.rpy:1460
     old "The updates were cancelled."
     new ""
 
-    # renpy/common/00updater.rpy:1472
+    # renpy/common/00updater.rpy:1475
     old "Proceed"
     new ""
 
-    # renpy/common/00compat.rpy:305
+    # renpy/common/00compat.rpy:313
     old "Fullscreen"
     new ""
 

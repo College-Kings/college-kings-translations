@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-24 07:15
+﻿# TODO: Translation updated at 2021-05-30 19:11
 
 # game/v8/scene28.rpy:18
 translate template_lang drug_deal_w_josh_7b255707:

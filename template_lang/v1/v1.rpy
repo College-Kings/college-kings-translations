@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-24 07:15
+﻿# TODO: Translation updated at 2021-05-30 19:11
 
 # game/v1/v1.rpy:46
 translate template_lang starta_cf384216:
@@ -4942,10 +4942,6 @@ translate template_lang strings:
 
     # game/v1/v1.rpy:35
     old "Fine"
-    new ""
-
-    # game/v1/v1.rpy:36
-    old ":)"
     new ""
 
     # game/v1/v1.rpy:68

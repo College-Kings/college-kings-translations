@@ -1,25 +1,37 @@
-﻿# TODO: Translation updated at 2021-05-24 07:15
+﻿# TODO: Translation updated at 2021-05-30 19:11
 
-# game/v8/Scene19.rpy:110
-translate template_lang sun_eve_room_c478a397:
+# game/v8/Scene19.rpy:105
+translate template_lang emily_arcade_msg_w_3faef724:
+
+    # u "(I should probably reply.)"
+    u ""
+
+# game/v8/Scene19.rpy:114
+translate template_lang emily_arcade_msg_w_c478a397:
 
     # u "(I think I'll get an early night)"
     u ""
 
-# game/v8/Scene19.rpy:116
-translate template_lang sun_eve_room_c478a397_1:
+# game/v8/Scene19.rpy:120
+translate template_lang emily_arcade_msg_w_c478a397_1:
 
     # u "(I think I'll get an early night)"
     u ""
 
 # game/v8/Scene19.rpy:173
-translate template_lang sun_eve_room_c478a397_2:
+translate template_lang emily_arcade_msg_a_3faef724:
+
+    # u "(I should probably reply.)"
+    u ""
+
+# game/v8/Scene19.rpy:182
+translate template_lang emily_arcade_msg_a_c478a397:
 
     # u "(I think I'll get an early night)"
     u ""
 
-# game/v8/Scene19.rpy:179
-translate template_lang sun_eve_room_c478a397_3:
+# game/v8/Scene19.rpy:188
+translate template_lang emily_arcade_msg_a_c478a397_1:
 
     # u "(I think I'll get an early night)"
     u ""
@@ -150,103 +162,103 @@ translate template_lang strings:
     old "Goodnight"
     new ""
 
-    # game/v8/Scene19.rpy:63
+    # game/v8/Scene19.rpy:62
     old "Hey u up?"
     new ""
 
-    # game/v8/Scene19.rpy:64
+    # game/v8/Scene19.rpy:63
     old "Always for you ;)"
     new ""
 
-    # game/v8/Scene19.rpy:65
+    # game/v8/Scene19.rpy:64
     old "That's what I was hoping to hear"
     new ""
 
-    # game/v8/Scene19.rpy:66
+    # game/v8/Scene19.rpy:65
     old "I can be even more up if you want..."
     new ""
 
-    # game/v8/Scene19.rpy:67
+    # game/v8/Scene19.rpy:66
     old "Really? Just like that?"
     new ""
 
-    # game/v8/Scene19.rpy:68
+    # game/v8/Scene19.rpy:67
     old "What can I say? You're hot"
     new ""
 
-    # game/v8/Scene19.rpy:69
+    # game/v8/Scene19.rpy:68
     old "You're pretty hot yourself and I'm... thinking about things"
     new ""
 
-    # game/v8/Scene19.rpy:70
+    # game/v8/Scene19.rpy:69
     old "What kind of things? Same things I'm thinking? ;)"
     new ""
 
-    # game/v8/Scene19.rpy:71
+    # game/v8/Scene19.rpy:70
     old "I think so"
     new ""
 
-    # game/v8/Scene19.rpy:72
+    # game/v8/Scene19.rpy:71
     old "Wanna see what thinking about you has done to me?"
     new ""
 
-    # game/v8/Scene19.rpy:73
+    # game/v8/Scene19.rpy:72
     old "I look at your pic all the time...when I'm thinking about things"
     new ""
 
-    # game/v8/Scene19.rpy:77
+    # game/v8/Scene19.rpy:76
     old "Hey, Sweetie, what are you up to?"
     new ""
 
-    # game/v8/Scene19.rpy:78
+    # game/v8/Scene19.rpy:77
     old "Nothing, just catching up on some homework. You having a good night?"
     new ""
 
-    # game/v8/Scene19.rpy:79
+    # game/v8/Scene19.rpy:78
     old "It would be better if you were here..."
     new ""
 
-    # game/v8/Scene19.rpy:80
+    # game/v8/Scene19.rpy:79
     old "Really?"
     new ""
 
-    # game/v8/Scene19.rpy:81
+    # game/v8/Scene19.rpy:80
     old "I could use some snuggles."
     new ""
 
-    # game/v8/Scene19.rpy:82
+    # game/v8/Scene19.rpy:81
     old "Aww, I'd love to get some snuggles. When can I see you again?"
     new ""
 
-    # game/v8/Scene19.rpy:83
+    # game/v8/Scene19.rpy:82
     old "I have a big test coming up but after that? I miss you"
     new ""
 
-    # game/v8/Scene19.rpy:84
+    # game/v8/Scene19.rpy:83
     old "I miss you too. It's a date. Just let me know"
     new ""
 
-    # game/v8/Scene19.rpy:93
+    # game/v8/Scene19.rpy:92
     old "Hey, I was thinking"
     new ""
 
-    # game/v8/Scene19.rpy:94
+    # game/v8/Scene19.rpy:93
     old "Uh oh that can't be good ;)"
     new ""
 
-    # game/v8/Scene19.rpy:95
+    # game/v8/Scene19.rpy:94
     old "Wanna meet up at the arcade?"
     new ""
 
-    # game/v8/Scene19.rpy:98
+    # game/v8/Scene19.rpy:97
     old "I feel so bad about homecoming and want to make it up to you. My treat!"
     new ""
 
-    # game/v8/Scene19.rpy:99
+    # game/v8/Scene19.rpy:98
     old "Sure! Sounds like fun. I can be there in a few minutes"
     new ""
 
-    # game/v8/Scene19.rpy:100
+    # game/v8/Scene19.rpy:99
     old "I would but it's getting late and I haven't even started Mr. Lee's project"
     new ""
 

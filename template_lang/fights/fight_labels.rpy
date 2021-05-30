@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-24 07:15
+﻿# TODO: Translation updated at 2021-05-30 19:11
 
 # game/fights/fight_labels.rpy:7
 translate template_lang fight_tutorialLabel_0aadd307:

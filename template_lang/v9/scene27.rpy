@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-24 07:15
+﻿# TODO: Translation updated at 2021-05-30 19:11
 
 # game/v9/scene27.rpy:24
 translate template_lang v9_train_w_apes_77a54587:

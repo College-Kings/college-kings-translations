@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-24 07:15
+﻿# TODO: Translation updated at 2021-05-30 19:11
 
 # game/v9/scene02.rpy:21
 translate template_lang v9_start_apes_4ca6872d:
