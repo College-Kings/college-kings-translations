@@ -34,7 +34,7 @@ v05.rpy | 3498/3498 | TheProfMilos | [ ] | -
 v06.rpy | 2089/11645 | Bibs2 | [ ] | -
 v07.rpy | 18403/18403 | TheProfMilos | [ ] | -
 v08 files | 29/45 | TheProfMilos | [ ] | -
-v09 files | 20/42 | Kfar | [ ] | -
-v10 files | TBA | ArkellCK | [ ] | -
+v09 files | 42/42 | Kfar | [ ] | -
+v10 files | TBA | Kfar (<20) ArkellCK | [ ] | -
 
 Have fun!
