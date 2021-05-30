@@ -90,7 +90,7 @@ translate template_lang strings:
 
     # game/v9/scene05.rpy:18
     old "A couple of us wanted to go to the lake. Wanna join us?"
-    new "Alguns de nós estamos querendo ir para o lago. Quer ir com a gente?"
+    new "Alguns de nossos amigos estão querendo ir para o lago. Quer ir com a gente?"
 
     # game/v9/scene05.rpy:19
     old "I dunno, feeling kind of crappy."
