@@ -3226,5 +3226,5 @@ translate template_lang strings:
 
     # game/v4/v4.rpy:2172
     old "Uhh, sure."
-    new ""
+    new "Hmm, claro."
 
