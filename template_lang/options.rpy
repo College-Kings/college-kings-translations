@@ -4,5 +4,5 @@ translate template_lang strings:
 
     # game/options.rpy:14
     old "College Kings"
-    new ""
+    new "College Kings"
 
