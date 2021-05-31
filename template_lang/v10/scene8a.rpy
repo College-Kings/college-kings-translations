@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-30 19:11
+﻿# TODO: Translation updated at 2021-05-31 12:17
 
 # game/v10/scene8a.rpy:21
 translate template_lang v10_avoid_fight_4cf6faaa:

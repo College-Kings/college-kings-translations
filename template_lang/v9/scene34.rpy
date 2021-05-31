@@ -504,3 +504,11 @@ translate template_lang v9_ri_sex_785406a2:
     # ri "Good. Now go."
     ri "Ótimo. Agora vai."
 
+# TODO: Translation updated at 2021-05-31 12:17
+
+# game/v9/scene34.rpy:252
+translate template_lang v9_ri_sex_bebb9ce1:
+
+    # ri "Let me get on top."
+    ri ""
+

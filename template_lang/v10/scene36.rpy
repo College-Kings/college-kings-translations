@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-30 19:11
+﻿# TODO: Translation updated at 2021-05-31 12:17
 
 # game/v10/scene36.rpy:6
 translate template_lang v10_emily_vs_aubrey_d3d835b7:

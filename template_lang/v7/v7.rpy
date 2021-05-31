@@ -18400,3 +18400,65 @@ translate template_lang strings:
     old "Tell them truth"
     new "Contar a verdade"
 
+# TODO: Translation updated at 2021-05-31 12:17
+
+# game/v7/v7.rpy:12557
+translate template_lang fr4chloedate2_8b39f939:
+
+    # ro "Chris !"
+    ro ""
+
+# game/v7/v7.rpy:12572
+translate template_lang fr4chloedate2_ba56bc58:
+
+    # ro "Congratulations Chris !"
+    ro ""
+
+# game/v7/v7.rpy:13221
+translate template_lang fr4laurendate2_8b39f939:
+
+    # ro "Chris !"
+    ro ""
+
+# game/v7/v7.rpy:13236
+translate template_lang fr4laurendate2_ba56bc58:
+
+    # ro "Congratulations Chris !"
+    ro ""
+
+# game/v7/v7.rpy:13468
+translate template_lang fr4penelopedate2_8b39f939:
+
+    # ro "Chris !"
+    ro ""
+
+# game/v7/v7.rpy:13483
+translate template_lang fr4penelopedate2_ba56bc58:
+
+    # ro "Congratulations Chris !"
+    ro ""
+
+# game/v7/v7.rpy:13940
+translate template_lang fr4rileydate2_8b39f939:
+
+    # ro "Chris !"
+    ro ""
+
+# game/v7/v7.rpy:13955
+translate template_lang fr4rileydate2_ba56bc58:
+
+    # ro "Congratulations Chris !"
+    ro ""
+
+# game/v7/v7.rpy:14672
+translate template_lang fr4riley22_8b39f939:
+
+    # ro "Chris !"
+    ro ""
+
+# game/v7/v7.rpy:14687
+translate template_lang fr4riley22_ba56bc58:
+
+    # ro "Congratulations Chris !"
+    ro ""
+

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-30 19:11
+﻿# TODO: Translation updated at 2021-05-31 12:17
 
 # game/v10/scene31.rpy:14
 translate template_lang v10_late_alley_c47c16f0:
@@ -222,43 +222,43 @@ translate template_lang v10_late_alley_9732885a:
     # u "I get that this isn't supposed to be a permanent thing for you and you have an out plan, but I still don't support what you're doing. There's other ways to get money. You're gonna end up fucking up your life."
     u ""
 
-# game/v10/scene31.rpy:184
+# game/v10/scene31.rpy:185
 translate template_lang v10_late_alley_4db8eba2:
 
     # jo "I open up to you and that's your response? What else am I supposed to do?"
     jo ""
 
-# game/v10/scene31.rpy:189
+# game/v10/scene31.rpy:190
 translate template_lang v10_late_alley_2f0de082:
 
     # u "I'm not saying I have all the answers, but putting yourself in a dangerous situation to get out of a dangerous situation isn't a good idea."
     u ""
 
-# game/v10/scene31.rpy:194
+# game/v10/scene31.rpy:195
 translate template_lang v10_late_alley_4f16cdf6:
 
     # jo "Fuck, when you say it out loud like that it kinda makes some sense."
     jo ""
 
-# game/v10/scene31.rpy:199
+# game/v10/scene31.rpy:200
 translate template_lang v10_late_alley_2b4e1c9e:
 
     # u "I'm just saying man."
     u ""
 
-# game/v10/scene31.rpy:204
+# game/v10/scene31.rpy:205
 translate template_lang v10_late_alley_3056f3ce:
 
     # jo "Trust me, I hear you. I'm gonna get out of here man."
     jo ""
 
-# game/v10/scene31.rpy:210
+# game/v10/scene31.rpy:211
 translate template_lang v10_late_alley_9732885a_1:
 
     # u "I get that this isn't supposed to be a permanent thing for you and you have an out plan, but I still don't support what you're doing. There's other ways to get money. You're gonna end up fucking up your life."
     u ""
 
-# game/v10/scene31.rpy:215
+# game/v10/scene31.rpy:216
 translate template_lang v10_late_alley_ddafc0a4:
 
     # jo "I open up to you and that's your response? Mind your own business from now on! Fuck you man!"

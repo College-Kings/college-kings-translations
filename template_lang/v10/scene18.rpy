@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-30 19:11
+﻿# TODO: Translation updated at 2021-05-31 12:17
 
 # game/v10/scene18.rpy:12
 translate template_lang v10_call_with_lauren2_a8c3537e:
@@ -836,13 +836,5 @@ translate template_lang strings:
 
     # game/v10/scene18.rpy:31
     old "Be serious"
-    new ""
-
-    # game/v10/scene18.rpy:181
-    old "Agree"
-    new ""
-
-    # game/v10/scene18.rpy:181
-    old "Disagree"
     new ""
 

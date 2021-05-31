@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-30 19:11
+﻿# TODO: Translation updated at 2021-05-31 12:17
 
 # game/v10/scene25.rpy:12
 translate template_lang v10_ms_rose_fight_57d4df50:
@@ -292,10 +292,6 @@ translate template_lang strings:
 
     # game/v10/scene25.rpy:58
     old "Speak up"
-    new ""
-
-    # game/v10/scene25.rpy:58
-    old "Stay quiet"
     new ""
 
     # game/v10/scene25.rpy:138

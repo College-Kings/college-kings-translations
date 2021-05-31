@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-30 19:11
+﻿# TODO: Translation updated at 2021-05-31 12:17
 
 # game/v10/scene32.rpy:12
 translate template_lang v10_tues_room_night_45e1ab15:
@@ -71,14 +71,4 @@ translate template_lang v10s32_phoneCheckA_6fbe3944:
 
     # u "(Bright and fucking early! I'm so excited for this charity event. I need to get ready.)"
     u ""
-
-translate template_lang strings:
-
-    # game/v10/scene32.rpy:27
-    old "Sweet Dreams ;)"
-    new ""
-
-    # game/v10/scene32.rpy:28
-    old "They will be now."
-    new ""
 

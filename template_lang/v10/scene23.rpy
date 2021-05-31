@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-30 19:11
+﻿# TODO: Translation updated at 2021-05-31 12:17
 
 # game/v10/scene23.rpy:12
 translate template_lang v10_aft_walk_home_bd2d734d:
@@ -322,17 +322,5 @@ translate template_lang strings:
 
     # game/v10/scene23.rpy:206
     old "Hot girls"
-    new ""
-
-    # game/v10/scene23.rpy:281
-    old "Hey, wanna hangout? I have some free time in between study sessions."
-    new ""
-
-    # game/v10/scene23.rpy:282
-    old "Sure, on my way"
-    new ""
-
-    # game/v10/scene23.rpy:283
-    old ":)"
     new ""
 

@@ -5221,3 +5221,41 @@ translate template_lang strings:
     # game/v1/v1.rpy:3986
     old "Poke fun"
     new "Zoar"
+# TODO: Translation updated at 2021-05-31 12:17
+
+# game/v1/v1.rpy:1436
+translate template_lang v1_phoneCheck1_6deb2580:
+
+    # "(I should reply to Lauren.)"
+    ""
+
+translate template_lang strings:
+
+    # game/v1/v1.rpy:437
+    old "Flirt"
+    new ""
+
+    # game/v1/v1.rpy:615
+    old "Stay quiet"
+    new ""
+
+    # game/v1/v1.rpy:703
+    old "Agree"
+    new ""
+
+    # game/v1/v1.rpy:703
+    old "Disagree"
+    new ""
+
+    # game/v1/v1.rpy:1146
+    old "Leave"
+    new ""
+
+    # game/v1/v1.rpy:2754
+    old "Kiss her"
+    new ""
+
+    # game/v1/v1.rpy:3890
+    old "Apologize"
+    new ""
+

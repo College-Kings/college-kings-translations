@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-30 19:11
+﻿# TODO: Translation updated at 2021-05-31 12:17
 
 # game/v10/scene22.rpy:14
 translate template_lang v10_cafe_w_jenny_16bf8974:
@@ -986,10 +986,6 @@ translate template_lang strings:
 
     # game/v10/scene22.rpy:167
     old "Stay positive"
-    new ""
-
-    # game/v10/scene22.rpy:214
-    old "Flirt"
     new ""
 
     # game/v10/scene22.rpy:214

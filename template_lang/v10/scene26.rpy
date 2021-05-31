@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-30 19:11
+﻿# TODO: Translation updated at 2021-05-31 12:17
 
 # game/v10/scene26.rpy:19
 translate template_lang v10_amber_skatepark_0105dc21:
@@ -600,359 +600,343 @@ translate template_lang v10_amber_skatepark_sg_2984a175:
     # am "If I ever settled for a dude he'd be a skater."
     am ""
 
-# game/v10/scene26.rpy:653
+# game/v10/scene26.rpy:655
 translate template_lang v10_amber_skatepark_sg_b36dd4e3:
 
     # u "Maybe I could learn it."
     u ""
 
-# game/v10/scene26.rpy:658
+# game/v10/scene26.rpy:660
 translate template_lang v10_amber_skatepark_sg_efd4a40a:
 
     # am "I think that'd be good."
     am ""
 
-# game/v10/scene26.rpy:664
+# game/v10/scene26.rpy:666
 translate template_lang v10_amber_skatepark_sg_6f5eaa83:
 
     # u "Sounds like I'm your type."
     u ""
 
-# game/v10/scene26.rpy:669
+# game/v10/scene26.rpy:671
 translate template_lang v10_amber_skatepark_sg_31dfa2f3:
 
     # am "It does, doesn't it?"
     am ""
 
-# game/v10/scene26.rpy:674
+# game/v10/scene26.rpy:676
 translate template_lang v10_amber_skatepark_sg_d19daf0f:
 
     # am "*Whisper* You know, I'm pretty horny right now. *Giggles*"
     am ""
 
-# game/v10/scene26.rpy:679
+# game/v10/scene26.rpy:681
 translate template_lang v10_amber_skatepark_sg_0c359d78_1:
 
     # u "*Whisper* Really? Right now? *Chuckles*"
     u ""
 
-# game/v10/scene26.rpy:684
+# game/v10/scene26.rpy:686
 translate template_lang v10_amber_skatepark_sg_3f92ae90_1:
 
     # am "*Whisper* Yeah, wanna do something about it?"
     am ""
 
-# game/v10/scene26.rpy:689
+# game/v10/scene26.rpy:691
 translate template_lang v10_amber_skatepark_sg_5fba5a1b_1:
 
     # u "*Whisper* Here?"
     u ""
 
-# game/v10/scene26.rpy:694
+# game/v10/scene26.rpy:696
 translate template_lang v10_amber_skatepark_sg_bc21dd33_1:
 
     # am "Why not?"
     am ""
 
-# game/v10/scene26.rpy:704
+# game/v10/scene26.rpy:708
 translate template_lang v10_amber_skatepark_sg_e6dc38ec_1:
 
     # u "Damn Amber!"
     u ""
 
-# game/v10/scene26.rpy:709
+# game/v10/scene26.rpy:713
 translate template_lang v10_amber_skatepark_sg_0d14ebca_1:
 
     # u "Holy fuck!"
     u ""
 
-# game/v10/scene26.rpy:714
+# game/v10/scene26.rpy:718
 translate template_lang v10_amber_skatepark_sg_0dcffdec_1:
 
     # u "I didn't know you... oh shit!"
     u ""
 
-# game/v10/scene26.rpy:728
+# game/v10/scene26.rpy:732
 translate template_lang v10_amber_skatepark_sg_ac358932_1:
 
     # am "Fuck me."
     am ""
 
-# game/v10/scene26.rpy:733
+# game/v10/scene26.rpy:737
 translate template_lang v10_amber_skatepark_sg_93141561_1:
 
     # am "Oh I needed this!"
     am ""
 
-# game/v10/scene26.rpy:738
+# game/v10/scene26.rpy:742
 translate template_lang v10_amber_skatepark_sg_cee0f438_1:
 
     # am "Fuck me harder [name]!"
     am ""
 
-# game/v10/scene26.rpy:743
+# game/v10/scene26.rpy:747
 translate template_lang v10_amber_skatepark_sg_f7fd4196_1:
 
     # am "Oh god!"
     am ""
 
-# game/v10/scene26.rpy:748
+# game/v10/scene26.rpy:752
 translate template_lang v10_amber_skatepark_sg_bee091fa_1:
 
     # am "Oh my God, FASTER!"
     am ""
 
-# game/v10/scene26.rpy:753
+# game/v10/scene26.rpy:757
 translate template_lang v10_amber_skatepark_sg_cfa8ef6a_1:
 
     # am "YESSSS!"
     am ""
 
-# game/v10/scene26.rpy:758
+# game/v10/scene26.rpy:762
 translate template_lang v10_amber_skatepark_sg_aa368576_1:
 
     # u "Damn this feels good!"
     u ""
 
-# game/v10/scene26.rpy:763
+# game/v10/scene26.rpy:767
 translate template_lang v10_amber_skatepark_sg_ace625cb_1:
 
     # am "Oh fuck!"
     am ""
 
-# game/v10/scene26.rpy:768
+# game/v10/scene26.rpy:772
 translate template_lang v10_amber_skatepark_sg_2650c780_1:
 
     # am "I could get used to this!"
     am ""
 
-# game/v10/scene26.rpy:773
+# game/v10/scene26.rpy:777
 translate template_lang v10_amber_skatepark_sg_a8d1bb6c_1:
 
     # u "Damn you know what you're doing!"
     u ""
 
-# game/v10/scene26.rpy:778
+# game/v10/scene26.rpy:782
 translate template_lang v10_amber_skatepark_sg_9a45d6c4_1:
 
     # am "Oh shit I'm gonna cum!"
     am ""
 
-# game/v10/scene26.rpy:783
+# game/v10/scene26.rpy:787
 translate template_lang v10_amber_skatepark_sg_145180e5_1:
 
     # u "Me too."
     u ""
 
-# game/v10/scene26.rpy:788
+# game/v10/scene26.rpy:792
 translate template_lang v10_amber_skatepark_sg_6260584c_1:
 
     # am "Cum in me [name]."
     am ""
 
-# game/v10/scene26.rpy:793
+# game/v10/scene26.rpy:797
 translate template_lang v10_amber_skatepark_sg_270dde9d_1:
 
     # am "That was exciting!"
     am ""
 
-# game/v10/scene26.rpy:798
+# game/v10/scene26.rpy:802
 translate template_lang v10_amber_skatepark_sg_23d0cfc4_1:
 
     # u "I'm glad you hit me up."
     u ""
 
-# game/v10/scene26.rpy:803
+# game/v10/scene26.rpy:807
 translate template_lang v10_amber_skatepark_sg_e28aafa2_1:
 
     # am "Me too."
     am ""
 
-# game/v10/scene26.rpy:818
+# game/v10/scene26.rpy:822
 translate template_lang v10_amber_skatepark_sg_ce9a2a19_1:
 
     # am "I don't wanna make you feel like a booty call, but I'm pretty tired after that."
     am ""
 
-# game/v10/scene26.rpy:823
+# game/v10/scene26.rpy:827
 translate template_lang v10_amber_skatepark_sg_b121e142_1:
 
     # u "Haha, don't worry, me too. Maybe we should call it a night."
     u ""
 
-# game/v10/scene26.rpy:828
+# game/v10/scene26.rpy:832
 translate template_lang v10_amber_skatepark_sg_d964a994_1:
 
     # am "Yeah, I'll see you soon."
     am ""
 
-# game/v10/scene26.rpy:833
+# game/v10/scene26.rpy:837
 translate template_lang v10_amber_skatepark_sg_9cc7b881_1:
 
     # u "*Chuckles* Bye."
     u ""
 
-# game/v10/scene26.rpy:838
+# game/v10/scene26.rpy:842
 translate template_lang v10_amber_skatepark_sg_4e09152f_1:
 
     # u "(Damn, that really just happened. That was crazy.)"
     u ""
 
-# game/v10/scene26.rpy:845
+# game/v10/scene26.rpy:849
 translate template_lang v10_amber_skatepark_sg_367ab691_1:
 
     # u "Woah, let's not do that."
     u ""
 
-# game/v10/scene26.rpy:850
+# game/v10/scene26.rpy:854
 translate template_lang v10_amber_skatepark_sg_3de35d93_1:
 
     # am "Ugh fine, guess I'll just go home."
     am ""
 
-# game/v10/scene26.rpy:860
+# game/v10/scene26.rpy:864
 translate template_lang v10_amber_skatepark_sg_248c007d_1:
 
     # u "Alright, sorry... it was a nice night though."
     u ""
 
-# game/v10/scene26.rpy:865
+# game/v10/scene26.rpy:869
 translate template_lang v10_amber_skatepark_sg_3bffa3eb_1:
 
     # am "Yeah, whatever."
     am ""
 
-# game/v10/scene26.rpy:871
+# game/v10/scene26.rpy:875
 translate template_lang v10_amber_skatepark_sg_810d488e_1:
 
     # u "I could come with you and maybe we could continue this there."
     u ""
 
-# game/v10/scene26.rpy:876
+# game/v10/scene26.rpy:880
 translate template_lang v10_amber_skatepark_sg_1d96a7a8_1:
 
     # am "Nah, you kinda killed the mood."
     am ""
 
-# game/v10/scene26.rpy:881
+# game/v10/scene26.rpy:885
 translate template_lang v10_amber_skatepark_sg_eed87296_1:
 
     # u "Right, sorry."
     u ""
 
-# game/v10/scene26.rpy:897
+# game/v10/scene26.rpy:901
 translate template_lang v10_amber_skatepark_sg_154a497f:
 
     # am "Haha, I think you got the wrong impression."
     am ""
 
-# game/v10/scene26.rpy:902
+# game/v10/scene26.rpy:906
 translate template_lang v10_amber_skatepark_sg_c16f841a:
 
     # u "Oh, uhm sorry."
     u ""
 
-# game/v10/scene26.rpy:907
+# game/v10/scene26.rpy:911
 translate template_lang v10_amber_skatepark_sg_15187a4a:
 
     # am "It's alright."
     am ""
 
-# game/v10/scene26.rpy:912
+# game/v10/scene26.rpy:916
 translate template_lang v10_amber_skatepark_sg_8df0b25d:
 
     # u "So..."
     u ""
 
-# game/v10/scene26.rpy:917
+# game/v10/scene26.rpy:921
 translate template_lang v10_amber_skatepark_sg_0efa889b:
 
     # am "On that awkward note let's call it a night. *Chuckles*"
     am ""
 
-# game/v10/scene26.rpy:922
+# game/v10/scene26.rpy:926
 translate template_lang v10_amber_skatepark_sg_934f2948:
 
     # u "Yeah, it is getting late."
     u ""
 
-# game/v10/scene26.rpy:927
+# game/v10/scene26.rpy:931
 translate template_lang v10_amber_skatepark_sg_077b352f:
 
     # am "See you."
     am ""
 
-# game/v10/scene26.rpy:938
+# game/v10/scene26.rpy:942
 translate template_lang v10_amber_skatepark_sg_ab95ad13:
 
     # u "Then just call me Tony. *Laughs*"
     u ""
 
-# game/v10/scene26.rpy:943
+# game/v10/scene26.rpy:947
 translate template_lang v10_amber_skatepark_sg_e3aa9a3d:
 
     # am "*Chuckles* Looks like we're out of beer, Tony."
     am ""
 
-# game/v10/scene26.rpy:948
+# game/v10/scene26.rpy:952
 translate template_lang v10_amber_skatepark_sg_02e3dc8d:
 
     # u "You drank half of it in our little game. *Laughs*"
     u ""
 
-# game/v10/scene26.rpy:953
+# game/v10/scene26.rpy:957
 translate template_lang v10_amber_skatepark_sg_2118d3ae:
 
     # am "True. Guess that ends our night. No buzz no fun."
     am ""
 
-# game/v10/scene26.rpy:958
+# game/v10/scene26.rpy:962
 translate template_lang v10_amber_skatepark_sg_8055781b:
 
     # u "Haha, yeah it is getting late."
     u ""
 
-# game/v10/scene26.rpy:963
+# game/v10/scene26.rpy:967
 translate template_lang v10_amber_skatepark_sg_a66c55cc:
 
     # am "I'll see you around."
     am ""
 
-# game/v10/scene26.rpy:968
+# game/v10/scene26.rpy:972
 translate template_lang v10_amber_skatepark_sg_104440d0:
 
     # u "See ya."
     u ""
 
-# game/v10/scene26.rpy:979
+# game/v10/scene26.rpy:983
 translate template_lang v10_amber_skatepark_sg_51a3b320:
 
     # u "(Okay for real this time, I'm going home.)"
     u ""
 
-# game/v10/scene26.rpy:984
+# game/v10/scene26.rpy:988
 translate template_lang v10_amber_skatepark_sg_0ce58993:
 
     # u "(I'm fucking beat.)"
     u ""
 
 translate template_lang strings:
-
-    # game/v10/scene26.rpy:11
-    old "Beer, obviously"
-    new ""
-
-    # game/v10/scene26.rpy:21
-    old "Skatepark behind SVC, 10pm, bring a six pack."
-    new ""
-
-    # game/v10/scene26.rpy:22
-    old "Condoms or beer?"
-    new ""
-
-    # game/v10/scene26.rpy:23
-    old "Alright sure"
-    new ""
 
     # game/v10/scene26.rpy:131
     old "Yeah, you should"

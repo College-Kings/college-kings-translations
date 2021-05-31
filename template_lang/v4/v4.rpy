@@ -3160,10 +3160,6 @@ translate template_lang strings:
     old "Hey man, you wanna hang out with me and some friends tonight?"
     new "Eae maninho, quer vir curtir comigo e umas amigas hoje?"
 
-    # game/v4/v4.rpy:2444
-    old "Tease her"
-    new "Provocá-la"
-
     # game/v4/v4.rpy:2173
     old "I'm meeting a friend at 11, so I can't really."
     new "Eu tenho que me encontrar com uma amiga às 11, então não vai rolar"
@@ -3223,4 +3219,12 @@ translate template_lang strings:
     # game/v4/v4.rpy:2891
     old "Ask about the punch"
     new "Perguntar sobre o soco"
+
+# TODO: Translation updated at 2021-05-31 12:17
+
+translate template_lang strings:
+
+    # game/v4/v4.rpy:2172
+    old "Uhh, sure."
+    new ""
 

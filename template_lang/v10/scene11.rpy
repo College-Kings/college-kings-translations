@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-30 19:11
+﻿# TODO: Translation updated at 2021-05-31 12:17
 
 # game/v10/scene11.rpy:23
 translate template_lang v10_linds_room_d13596d9:
@@ -282,253 +282,253 @@ translate template_lang v10_linds_room_64f6c450:
     # u "Hey, at least you're not gonna end up like that sailor that followed the North Star and ended up freezing to death in a snow storm, right?"
     u ""
 
-# game/v10/scene11.rpy:225
+# game/v10/scene11.rpy:227
 translate template_lang v10_linds_room_dbc27e42:
 
     # li "Haha, that's true. Guess that wasn't the best reference."
     li ""
 
-# game/v10/scene11.rpy:230
+# game/v10/scene11.rpy:232
 translate template_lang v10_linds_room_417da3b3:
 
     # u "Haha, just teasing you."
     u ""
 
-# game/v10/scene11.rpy:235
+# game/v10/scene11.rpy:237
 translate template_lang v10_linds_room_58e80ad6:
 
     # li "Haha, yeah I know I know. It does suck though because even though I'm wishing my mother was here to talk to me I already know exactly what she would say if she was."
     li ""
 
-# game/v10/scene11.rpy:240
+# game/v10/scene11.rpy:242
 translate template_lang v10_linds_room_a49f20aa_1:
 
     # u "And what is it she'd say?"
     u ""
 
-# game/v10/scene11.rpy:245
+# game/v10/scene11.rpy:247
 translate template_lang v10_linds_room_6235cf52:
 
     # li "\"Stop moping, start hoping!\" She never let me walk around sad, even when I wanted to."
     li ""
 
-# game/v10/scene11.rpy:247
+# game/v10/scene11.rpy:249
 translate template_lang v10_linds_room_a9ca204c:
 
     # li "My mom was positive even when being positive was hard. So I guess I kinda already know what I need to do."
     li ""
 
-# game/v10/scene11.rpy:256
+# game/v10/scene11.rpy:258
 translate template_lang v10_linds_room_9454c0f8_1:
 
     # u "Your mother seems very wise."
     u ""
 
-# game/v10/scene11.rpy:261
+# game/v10/scene11.rpy:263
 translate template_lang v10_linds_room_95f8fda6:
 
     # li "Yeah... she was."
     li ""
 
-# game/v10/scene11.rpy:267
+# game/v10/scene11.rpy:269
 translate template_lang v10_linds_room_fec844f1_1:
 
     # u "Sometimes it's good to be sad."
     u ""
 
-# game/v10/scene11.rpy:275
+# game/v10/scene11.rpy:277
 translate template_lang v10_linds_room_64f6c450_1:
 
     # u "Hey, at least you're not gonna end up like that sailor that followed the North Star and ended up freezing to death in a snow storm, right?"
     u ""
 
-# game/v10/scene11.rpy:280
+# game/v10/scene11.rpy:282
 translate template_lang v10_linds_room_a18f046f:
 
     # li "What?"
     li ""
 
-# game/v10/scene11.rpy:285
+# game/v10/scene11.rpy:287
 translate template_lang v10_linds_room_4d708136:
 
     # u "Oh, it was just- it was just a joke..."
     u ""
 
-# game/v10/scene11.rpy:290
+# game/v10/scene11.rpy:292
 translate template_lang v10_linds_room_5ec1709e:
 
     # li "Yeah... I don't really feel like I can get into a joking spirit right now."
     li ""
 
-# game/v10/scene11.rpy:295
+# game/v10/scene11.rpy:297
 translate template_lang v10_linds_room_d5c530f3:
 
     # u "Oh uhm my bad, thought I'd try lightening the mood."
     u ""
 
-# game/v10/scene11.rpy:300
+# game/v10/scene11.rpy:302
 translate template_lang v10_linds_room_26a3786c:
 
     # li "It's fine, because I wish my mother was here... but I also already know exactly what she'd say."
     li ""
 
-# game/v10/scene11.rpy:305
+# game/v10/scene11.rpy:307
 translate template_lang v10_linds_room_cb6c1c75:
 
     # u "And that is?"
     u ""
 
-# game/v10/scene11.rpy:310
+# game/v10/scene11.rpy:312
 translate template_lang v10_linds_room_6235cf52_1:
 
     # li "\"Stop moping, start hoping!\" She never let me walk around sad, even when I wanted to."
     li ""
 
-# game/v10/scene11.rpy:312
+# game/v10/scene11.rpy:314
 translate template_lang v10_linds_room_a9ca204c_1:
 
     # li "My mom was positive even when being positive was hard. So I guess I kinda already know what I need to do."
     li ""
 
-# game/v10/scene11.rpy:322
+# game/v10/scene11.rpy:324
 translate template_lang v10_linds_room_9454c0f8_2:
 
     # u "Your mother seems very wise."
     u ""
 
-# game/v10/scene11.rpy:327
+# game/v10/scene11.rpy:329
 translate template_lang v10_linds_room_95f8fda6_1:
 
     # li "Yeah... she was."
     li ""
 
-# game/v10/scene11.rpy:333
+# game/v10/scene11.rpy:335
 translate template_lang v10_linds_room_fec844f1_2:
 
     # u "Sometimes it's good to be sad."
     u ""
 
-# game/v10/scene11.rpy:339
+# game/v10/scene11.rpy:341
 translate template_lang v10_linds_room_7daa1034:
 
     # u "I'm just happy you feel a bit better."
     u ""
 
-# game/v10/scene11.rpy:344
+# game/v10/scene11.rpy:346
 translate template_lang v10_linds_room_9f84e5bc:
 
     # li "I wouldn't feel better if it wasn't for you. I'm glad I called you before anyone else."
     li ""
 
-# game/v10/scene11.rpy:354
+# game/v10/scene11.rpy:356
 translate template_lang v10_linds_room_d2ed8a86:
 
     # li "I'm sorry I don't know if I should've been as forward and flirty as I was before."
     li ""
 
-# game/v10/scene11.rpy:366
+# game/v10/scene11.rpy:368
 translate template_lang v10_linds_room_3b704c0e:
 
     # u "I'd never say no to any attention you wanted to give."
     u ""
 
-# game/v10/scene11.rpy:371
+# game/v10/scene11.rpy:373
 translate template_lang v10_linds_room_b5a1ceec:
 
     # li "Really? I just may have to take you up on that sometime."
     li ""
 
-# game/v10/scene11.rpy:376
+# game/v10/scene11.rpy:378
 translate template_lang v10_linds_room_1d9dab05:
 
     # u "Just say the word."
     u ""
 
-# game/v10/scene11.rpy:383
+# game/v10/scene11.rpy:385
 translate template_lang v10_linds_room_3b704c0e_1:
 
     # u "I'd never say no to any attention you wanted to give."
     u ""
 
-# game/v10/scene11.rpy:388
+# game/v10/scene11.rpy:390
 translate template_lang v10_linds_room_15e2cfa3:
 
     # li "I'm just not sure this is the best time..."
     li ""
 
-# game/v10/scene11.rpy:393
+# game/v10/scene11.rpy:395
 translate template_lang v10_linds_room_d0e5b246:
 
     # u "Uhm yeah... no... I get that. We don't have to, you know... ugh nevermind."
     u ""
 
-# game/v10/scene11.rpy:400
+# game/v10/scene11.rpy:402
 translate template_lang v10_linds_room_5736afbc:
 
     # u "Oh, don't worry about it. You're going through stuff, I completely understand."
     u ""
 
-# game/v10/scene11.rpy:405
+# game/v10/scene11.rpy:407
 translate template_lang v10_linds_room_0d0f2f63:
 
     # li "Thanks [name], that really means a lot to me."
     li ""
 
-# game/v10/scene11.rpy:410
+# game/v10/scene11.rpy:412
 translate template_lang v10_linds_room_173f2156:
 
     # u "Anytime."
     u ""
 
-# game/v10/scene11.rpy:415
+# game/v10/scene11.rpy:417
 translate template_lang v10_linds_room_16e29616:
 
     # li "Thanks for coming [name]."
     li ""
 
-# game/v10/scene11.rpy:420
+# game/v10/scene11.rpy:422
 translate template_lang v10_linds_room_2be5d203:
 
     # u "Yeah, of course."
     u ""
 
-# game/v10/scene11.rpy:427
+# game/v10/scene11.rpy:429
 translate template_lang v10_linds_room_ef4b17bf:
 
     # li "I'm sure I've taken up enough of your day with all my sad talk, I'll stop holding you hostage. Hopefully I'll see you soon."
     li ""
 
-# game/v10/scene11.rpy:432
+# game/v10/scene11.rpy:434
 translate template_lang v10_linds_room_cf715ffb:
 
     # u "I'll make sure you do."
     u ""
 
-# game/v10/scene11.rpy:442
+# game/v10/scene11.rpy:444
 translate template_lang v10_linds_room_34ee61e8:
 
     # li "So uhm, I guess I should let you go huh?"
     li ""
 
-# game/v10/scene11.rpy:447
+# game/v10/scene11.rpy:449
 translate template_lang v10_linds_room_a1b97500:
 
     # u "As long as you're feeling okay."
     u ""
 
-# game/v10/scene11.rpy:452
+# game/v10/scene11.rpy:454
 translate template_lang v10_linds_room_98c1ea39:
 
     # li "Yeah I'm feeling fine."
     li ""
 
-# game/v10/scene11.rpy:457
+# game/v10/scene11.rpy:459
 translate template_lang v10_linds_room_2c39ad1b:
 
     # u "Good to hear. Guess I'll see you around."
     u ""
 
-# game/v10/scene11.rpy:462
+# game/v10/scene11.rpy:464
 translate template_lang v10_linds_room_9f7ed344:
 
     # li "Yeah, see you [name]."
@@ -560,19 +560,19 @@ translate template_lang strings:
     old "Talk about her"
     new ""
 
-    # game/v10/scene11.rpy:251
+    # game/v10/scene11.rpy:253
     old "Speak on her mother"
     new ""
 
-    # game/v10/scene11.rpy:251
+    # game/v10/scene11.rpy:253
     old "Speak on her"
     new ""
 
-    # game/v10/scene11.rpy:359
+    # game/v10/scene11.rpy:361
     old "I like it"
     new ""
 
-    # game/v10/scene11.rpy:359
+    # game/v10/scene11.rpy:361
     old "I understand"
     new ""
 
