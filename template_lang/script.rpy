@@ -4,5 +4,5 @@
 translate template_lang end_credits_9ea2f78c:
 
     # " "
-    ""
+    " "
 
