@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-30 19:11
+﻿# TODO: Translation updated at 2021-05-31 12:17
 
 # game/v10/scene19.rpy:19
 translate template_lang v10_walk_jenny_text_ee212610:
@@ -116,76 +116,12 @@ translate template_lang v10s19_PhoneContinue1_0ce7200d:
 
 translate template_lang strings:
 
-    # game/v10/scene19.rpy:21
-    old "Hey [name], this is Jenny, a friend of Penelope. I've noticed she's been acting a little off."
-    new ""
-
-    # game/v10/scene19.rpy:22
-    old "Btw, I got your number from her phone when she was in the bathroom."
-    new ""
-
-    # game/v10/scene19.rpy:23
-    old "Hey... yeah, Penelope has actually been dealing with some pretty heavy stuff. Also, the number stealing is a tad creepy, haha."
-    new ""
-
-    # game/v10/scene19.rpy:24
-    old "I knew it!"
-    new ""
-
-    # game/v10/scene19.rpy:25
-    old "I didn’t know any other way to get in contact with her new friends..."
-    new ""
-
-    # game/v10/scene19.rpy:26
-    old "I think it's best to tell you about it all in person, if you're cool with that?"
-    new ""
-
-    # game/v10/scene19.rpy:27
-    old "Sure, when and where?"
-    new ""
-
-    # game/v10/scene19.rpy:28
-    old "Cafe off of Stevenson Street tomorrow morning?"
-    new ""
-
-    # game/v10/scene19.rpy:29
-    old "Sounds good to me, thanks [name]!"
-    new ""
-
     # game/v10/scene19.rpy:40
     old "Invite Penelope"
     new ""
 
     # game/v10/scene19.rpy:40
     old "Go alone"
-    new ""
-
-    # game/v10/scene19.rpy:48
-    old "Hey, you free for coffee at the cafe in the morning?"
-    new ""
-
-    # game/v10/scene19.rpy:49
-    old "Special occasion?"
-    new ""
-
-    # game/v10/scene19.rpy:50
-    old "Honestly, if you're okay with talking about it, I just wanted to see how you were doing with all the school stuff."
-    new ""
-
-    # game/v10/scene19.rpy:51
-    old "That’s sweet… thanks.."
-    new ""
-
-    # game/v10/scene19.rpy:52
-    old "So are you free to meet?"
-    new ""
-
-    # game/v10/scene19.rpy:53
-    old "Yeah, of course. I’ll see you in the morning."
-    new ""
-
-    # game/v10/scene19.rpy:54
-    old "See ya!"
     new ""
 
     # game/v10/scene19.rpy:96

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-30 19:11
+﻿# TODO: Translation updated at 2021-05-31 12:17
 
 # game/v10/scene40.rpy:10
 translate template_lang v10_riley_sex_b4784014:
@@ -42,967 +42,967 @@ translate template_lang v10_riley_sex_2a05b05d:
     # u "(Okay, she should be coming out soon.)"
     u ""
 
-# game/v10/scene40.rpy:55
+# game/v10/scene40.rpy:58
 translate template_lang v10s40_galleryScene_e0ba48da:
 
     # ri "I'm back."
     ri ""
 
-# game/v10/scene40.rpy:60
+# game/v10/scene40.rpy:63
 translate template_lang v10s40_galleryScene_3169600f:
 
     # u "You look uhm-"
     u ""
 
-# game/v10/scene40.rpy:65
+# game/v10/scene40.rpy:68
 translate template_lang v10s40_galleryScene_bbddfd36:
 
     # ri "*Chuckles* I forgot a change of clothes."
     ri ""
 
-# game/v10/scene40.rpy:91
+# game/v10/scene40.rpy:94
 translate template_lang v10s40_galleryScene_6a5e75b9:
 
     # ri "I like where this is going."
     ri ""
 
-# game/v10/scene40.rpy:96
+# game/v10/scene40.rpy:99
 translate template_lang v10s40_galleryScene_af9f90af:
 
     # u "Come here."
     u ""
 
-# game/v10/scene40.rpy:104
+# game/v10/scene40.rpy:107
 translate template_lang v10s40_galleryScene_81defe42:
 
     # u "Lie down."
     u ""
 
-# game/v10/scene40.rpy:114
+# game/v10/scene40.rpy:117
 translate template_lang v10s40_galleryScene_7fe7ebd9:
 
     # u "You're so sexy."
     u ""
 
-# game/v10/scene40.rpy:116
+# game/v10/scene40.rpy:119
 translate template_lang v10s40_galleryScene_79aa4919:
 
     # ri "Squeeze my thighs."
     ri ""
 
-# game/v10/scene40.rpy:121
+# game/v10/scene40.rpy:124
 translate template_lang v10s40_galleryScene_a3f53d1b:
 
     # ri "Oh god!"
     ri ""
 
-# game/v10/scene40.rpy:130
+# game/v10/scene40.rpy:133
 translate template_lang v10s40_galleryScene_647e3692:
 
     # ri "Oh fuck!"
     ri ""
 
-# game/v10/scene40.rpy:135
+# game/v10/scene40.rpy:138
 translate template_lang v10s40_galleryScene_7fd21f74:
 
     # ri "[name]!"
     ri ""
 
-# game/v10/scene40.rpy:137
+# game/v10/scene40.rpy:140
 translate template_lang v10s40_galleryScene_99799095:
 
     # ri "My turn."
     ri ""
 
-# game/v10/scene40.rpy:146
+# game/v10/scene40.rpy:149
 translate template_lang v10s40_galleryScene_a4793be3:
 
     # u "Fuck that feels good."
     u ""
 
-# game/v10/scene40.rpy:148
+# game/v10/scene40.rpy:151
 translate template_lang v10s40_galleryScene_cf3ce5ee:
 
     # ri "You like it huh?"
     ri ""
 
-# game/v10/scene40.rpy:153
+# game/v10/scene40.rpy:156
 translate template_lang v10s40_galleryScene_429717d2:
 
     # u "Oh fuck, YESSS!"
     u ""
 
-# game/v10/scene40.rpy:155
+# game/v10/scene40.rpy:158
 translate template_lang v10s40_galleryScene_5077813d:
 
     # u "I'm gonna cum."
     u ""
 
-# game/v10/scene40.rpy:157
+# game/v10/scene40.rpy:160
 translate template_lang v10s40_galleryScene_f856c885:
 
     # ri "Go ahead."
     ri ""
 
-# game/v10/scene40.rpy:173
+# game/v10/scene40.rpy:176
 translate template_lang v10s40_galleryScene_c30d1468:
 
     # ri "That was nice."
     ri ""
 
-# game/v10/scene40.rpy:178
+# game/v10/scene40.rpy:181
 translate template_lang v10s40_galleryScene_7bc47303:
 
     # u "It was."
     u ""
 
-# game/v10/scene40.rpy:184
+# game/v10/scene40.rpy:187
 translate template_lang v10s40_galleryScene_d1462b04:
 
     # ri "Hey, can I ask you something?"
     ri ""
 
-# game/v10/scene40.rpy:189
+# game/v10/scene40.rpy:192
 translate template_lang v10s40_galleryScene_26089244:
 
     # u "Sure, what's up?"
     u ""
 
-# game/v10/scene40.rpy:194
+# game/v10/scene40.rpy:197
 translate template_lang v10s40_galleryScene_27b2dc54:
 
     # ri "What would you do if you had a million dollars and you could either only spend it on yourself or only spend it on others?"
     ri ""
 
-# game/v10/scene40.rpy:199
+# game/v10/scene40.rpy:202
 translate template_lang v10s40_galleryScene_46226e29:
 
     # u "Uhhh... I'm not sure."
     u ""
 
-# game/v10/scene40.rpy:204
+# game/v10/scene40.rpy:207
 translate template_lang v10s40_galleryScene_c584e05c:
 
     # ri "Come on, you gotta choose one."
     ri ""
 
-# game/v10/scene40.rpy:213
+# game/v10/scene40.rpy:216
 translate template_lang v10s40_galleryScene_9ec044b3:
 
     # u "I'd spend it all on myself and then give away the stuff that I wanted to give."
     u ""
 
-# game/v10/scene40.rpy:218
+# game/v10/scene40.rpy:221
 translate template_lang v10s40_galleryScene_dd0bab12:
 
     # ri "What, no. *Laughs* You can't give away anything, quit trying to find loopholes. It's supposed to be a hard choice."
     ri ""
 
-# game/v10/scene40.rpy:223
+# game/v10/scene40.rpy:226
 translate template_lang v10s40_galleryScene_8a3a4367:
 
     # u "Look at it as if I'm buying happiness."
     u ""
 
-# game/v10/scene40.rpy:225
+# game/v10/scene40.rpy:228
 translate template_lang v10s40_galleryScene_67fbe892:
 
     # u "I get happy when I do things for others so if I buy others something or give something away that they want, then I'm also buying happiness for myself."
     u ""
 
-# game/v10/scene40.rpy:230
+# game/v10/scene40.rpy:233
 translate template_lang v10s40_galleryScene_cd6ce674:
 
     # ri "Haven't you ever heard you can't buy happiness? *Chuckles*"
     ri ""
 
-# game/v10/scene40.rpy:235
+# game/v10/scene40.rpy:238
 translate template_lang v10s40_galleryScene_2b1f8b13:
 
     # u "Well I just found a way."
     u ""
 
-# game/v10/scene40.rpy:240
+# game/v10/scene40.rpy:243
 translate template_lang v10s40_galleryScene_247ce7a7:
 
     # ri "You're crazy. *Laughs*"
     ri ""
 
-# game/v10/scene40.rpy:246
+# game/v10/scene40.rpy:249
 translate template_lang v10s40_galleryScene_4d082514:
 
     # u "Easy, I'd give it all to one person and sign a contract with him saying he had to give half of it back to me."
     u ""
 
-# game/v10/scene40.rpy:248
+# game/v10/scene40.rpy:251
 translate template_lang v10s40_galleryScene_8f7d5209:
 
     # u "A quarter of it he had to spend on my family and friends, and the rest he could keep."
     u ""
 
-# game/v10/scene40.rpy:253
+# game/v10/scene40.rpy:256
 translate template_lang v10s40_galleryScene_bc09e83c:
 
     # ri "What, no. *Laughs* You can't make deals like that, quit trying to find loopholes. It's supposed to be a hard choice."
     ri ""
 
-# game/v10/scene40.rpy:255
+# game/v10/scene40.rpy:258
 translate template_lang v10s40_galleryScene_4886bb1c:
 
     # ri "Plus, why would you just have him also give you what you wanted to give away to your family and friends so you could do?"
     ri ""
 
-# game/v10/scene40.rpy:260
+# game/v10/scene40.rpy:263
 translate template_lang v10s40_galleryScene_f1f8c547:
 
     # u "*Chuckles* That would make more sense."
     u ""
 
-# game/v10/scene40.rpy:265
+# game/v10/scene40.rpy:268
 translate template_lang v10s40_galleryScene_6592d0f5:
 
     # ri "Didn't think that one through. *Laughs*"
     ri ""
 
-# game/v10/scene40.rpy:270
+# game/v10/scene40.rpy:273
 translate template_lang v10s40_galleryScene_b5377b2a:
 
     # ri "Don't you have to get up early tomorrow?"
     ri ""
 
-# game/v10/scene40.rpy:275
+# game/v10/scene40.rpy:278
 translate template_lang v10s40_galleryScene_32c9c8df:
 
     # u "Yeah, I have something pretty major in the morning."
     u ""
 
-# game/v10/scene40.rpy:280
+# game/v10/scene40.rpy:283
 translate template_lang v10s40_galleryScene_58bfc2d4:
 
     # ri "Don't you think you should go then?"
     ri ""
 
-# game/v10/scene40.rpy:285
+# game/v10/scene40.rpy:288
 translate template_lang v10s40_galleryScene_7c83caef:
 
     # u "Oh so you're kicking me out?"
     u ""
 
-# game/v10/scene40.rpy:290
+# game/v10/scene40.rpy:293
 translate template_lang v10s40_galleryScene_028f7cc4:
 
     # ri "Haha, no! I just don't want you to be super tired."
     ri ""
 
-# game/v10/scene40.rpy:295
+# game/v10/scene40.rpy:298
 translate template_lang v10s40_galleryScene_dc06b66f:
 
     # u "Haha, yeah you're right. I should get out of here. I'll see you soon."
     u ""
 
-# game/v10/scene40.rpy:300
+# game/v10/scene40.rpy:303
 translate template_lang v10s40_galleryScene_bde6a20f:
 
     # ri "See ya."
     ri ""
 
-# game/v10/scene40.rpy:333
+# game/v10/scene40.rpy:339
 translate template_lang v10s40_galleryScene_e7e5a542:
 
     # ri "Someone's confident."
     ri ""
 
-# game/v10/scene40.rpy:338
+# game/v10/scene40.rpy:344
 translate template_lang v10s40_galleryScene_af9f90af_1:
 
     # u "Come here."
     u ""
 
-# game/v10/scene40.rpy:346
+# game/v10/scene40.rpy:352
 translate template_lang v10s40_galleryScene_81defe42_1:
 
     # u "Lie down."
     u ""
 
-# game/v10/scene40.rpy:351
+# game/v10/scene40.rpy:357
 translate template_lang v10s40_galleryScene_7fe7ebd9_1:
 
     # u "You're so sexy."
     u ""
 
-# game/v10/scene40.rpy:353
+# game/v10/scene40.rpy:359
 translate template_lang v10s40_galleryScene_79aa4919_1:
 
     # ri "Squeeze my thighs."
     ri ""
 
-# game/v10/scene40.rpy:358
+# game/v10/scene40.rpy:364
 translate template_lang v10s40_galleryScene_a3f53d1b_1:
 
     # ri "Oh god!"
     ri ""
 
-# game/v10/scene40.rpy:363
+# game/v10/scene40.rpy:369
 translate template_lang v10s40_galleryScene_647e3692_1:
 
     # ri "Oh fuck!"
     ri ""
 
-# game/v10/scene40.rpy:368
+# game/v10/scene40.rpy:374
 translate template_lang v10s40_galleryScene_7fd21f74_1:
 
     # ri "[name]!"
     ri ""
 
-# game/v10/scene40.rpy:370
+# game/v10/scene40.rpy:376
 translate template_lang v10s40_galleryScene_99799095_1:
 
     # ri "My turn."
     ri ""
 
-# game/v10/scene40.rpy:375
+# game/v10/scene40.rpy:381
 translate template_lang v10s40_galleryScene_a4793be3_1:
 
     # u "Fuck that feels good."
     u ""
 
-# game/v10/scene40.rpy:377
+# game/v10/scene40.rpy:383
 translate template_lang v10s40_galleryScene_cf3ce5ee_1:
 
     # ri "You like it huh?"
     ri ""
 
-# game/v10/scene40.rpy:382
+# game/v10/scene40.rpy:388
 translate template_lang v10s40_galleryScene_429717d2_1:
 
     # u "Oh fuck, YESSS!"
     u ""
 
-# game/v10/scene40.rpy:384
+# game/v10/scene40.rpy:390
 translate template_lang v10s40_galleryScene_5077813d_1:
 
     # u "I'm gonna cum."
     u ""
 
-# game/v10/scene40.rpy:386
+# game/v10/scene40.rpy:392
 translate template_lang v10s40_galleryScene_f856c885_1:
 
     # ri "Go ahead."
     ri ""
 
-# game/v10/scene40.rpy:395
+# game/v10/scene40.rpy:401
 translate template_lang v10s40_galleryScene_c30d1468_1:
 
     # ri "That was nice."
     ri ""
 
-# game/v10/scene40.rpy:402
+# game/v10/scene40.rpy:408
 translate template_lang v10s40_galleryScene_7bc47303_1:
 
     # u "It was."
     u ""
 
-# game/v10/scene40.rpy:408
+# game/v10/scene40.rpy:414
 translate template_lang v10s40_galleryScene_e7fd61d8:
 
     # u "Go ahead and get dressed, I'll turn around."
     u ""
 
-# game/v10/scene40.rpy:413
+# game/v10/scene40.rpy:419
 translate template_lang v10s40_galleryScene_e2db937c:
 
     # ri "Awww, not even a little peek?"
     ri ""
 
-# game/v10/scene40.rpy:422
+# game/v10/scene40.rpy:428
 translate template_lang v10s40_galleryScene_727743f4:
 
     # u "No ma'am."
     u ""
 
-# game/v10/scene40.rpy:427
+# game/v10/scene40.rpy:433
 translate template_lang v10s40_galleryScene_c24364e1:
 
     # ri "Such a gentleman."
     ri ""
 
-# game/v10/scene40.rpy:432
+# game/v10/scene40.rpy:438
 translate template_lang v10s40_galleryScene_d1462b04_1:
 
     # ri "Hey, can I ask you something?"
     ri ""
 
-# game/v10/scene40.rpy:437
+# game/v10/scene40.rpy:443
 translate template_lang v10s40_galleryScene_26089244_1:
 
     # u "Sure, what's up?"
     u ""
 
-# game/v10/scene40.rpy:442
+# game/v10/scene40.rpy:448
 translate template_lang v10s40_galleryScene_27b2dc54_1:
 
     # ri "What would you do if you had a million dollars and you could either only spend it on yourself or only spend it on others?"
     ri ""
 
-# game/v10/scene40.rpy:447
+# game/v10/scene40.rpy:453
 translate template_lang v10s40_galleryScene_46226e29_1:
 
     # u "Uhhh... I'm not sure."
     u ""
 
-# game/v10/scene40.rpy:452
+# game/v10/scene40.rpy:458
 translate template_lang v10s40_galleryScene_c584e05c_1:
 
     # ri "Come on, you gotta choose one."
     ri ""
 
-# game/v10/scene40.rpy:461
+# game/v10/scene40.rpy:467
 translate template_lang v10s40_galleryScene_9ec044b3_1:
 
     # u "I'd spend it all on myself and then give away the stuff that I wanted to give."
     u ""
 
-# game/v10/scene40.rpy:466
+# game/v10/scene40.rpy:472
 translate template_lang v10s40_galleryScene_dd0bab12_1:
 
     # ri "What, no. *Laughs* You can't give away anything, quit trying to find loopholes. It's supposed to be a hard choice."
     ri ""
 
-# game/v10/scene40.rpy:471
+# game/v10/scene40.rpy:477
 translate template_lang v10s40_galleryScene_8a3a4367_1:
 
     # u "Look at it as if I'm buying happiness."
     u ""
 
-# game/v10/scene40.rpy:473
+# game/v10/scene40.rpy:479
 translate template_lang v10s40_galleryScene_fb1facbd:
 
     # u "I get happy when I do things for others so if I buy others something or give something away that they want. then I'm also buying happiness for myself."
     u ""
 
-# game/v10/scene40.rpy:478
+# game/v10/scene40.rpy:484
 translate template_lang v10s40_galleryScene_cd6ce674_1:
 
     # ri "Haven't you ever heard you can't buy happiness? *Chuckles*"
     ri ""
 
-# game/v10/scene40.rpy:483
+# game/v10/scene40.rpy:489
 translate template_lang v10s40_galleryScene_2b1f8b13_1:
 
     # u "Well I just found a way."
     u ""
 
-# game/v10/scene40.rpy:488
+# game/v10/scene40.rpy:494
 translate template_lang v10s40_galleryScene_247ce7a7_1:
 
     # ri "You're crazy. *Laughs*"
     ri ""
 
-# game/v10/scene40.rpy:494
+# game/v10/scene40.rpy:500
 translate template_lang v10s40_galleryScene_4d082514_1:
 
     # u "Easy, I'd give it all to one person and sign a contract with him saying he had to give half of it back to me."
     u ""
 
-# game/v10/scene40.rpy:496
+# game/v10/scene40.rpy:502
 translate template_lang v10s40_galleryScene_8f7d5209_1:
 
     # u "A quarter of it he had to spend on my family and friends, and the rest he could keep."
     u ""
 
-# game/v10/scene40.rpy:501
+# game/v10/scene40.rpy:507
 translate template_lang v10s40_galleryScene_bc09e83c_1:
 
     # ri "What, no. *Laughs* You can't make deals like that, quit trying to find loopholes. It's supposed to be a hard choice."
     ri ""
 
-# game/v10/scene40.rpy:503
+# game/v10/scene40.rpy:509
 translate template_lang v10s40_galleryScene_4886bb1c_1:
 
     # ri "Plus, why would you just have him also give you what you wanted to give away to your family and friends so you could do?"
     ri ""
 
-# game/v10/scene40.rpy:508
+# game/v10/scene40.rpy:514
 translate template_lang v10s40_galleryScene_f1f8c547_1:
 
     # u "*Chuckles* That would make more sense."
     u ""
 
-# game/v10/scene40.rpy:513
+# game/v10/scene40.rpy:519
 translate template_lang v10s40_galleryScene_6592d0f5_1:
 
     # ri "Didn't think that one through. *Laughs*"
     ri ""
 
-# game/v10/scene40.rpy:518
+# game/v10/scene40.rpy:524
 translate template_lang v10s40_galleryScene_b2d25bc3:
 
     # ri "You have to get up early?"
     ri ""
 
-# game/v10/scene40.rpy:523
+# game/v10/scene40.rpy:529
 translate template_lang v10s40_galleryScene_32c9c8df_1:
 
     # u "Yeah, I have something pretty major in the morning."
     u ""
 
-# game/v10/scene40.rpy:528
+# game/v10/scene40.rpy:534
 translate template_lang v10s40_galleryScene_58bfc2d4_1:
 
     # ri "Don't you think you should go then?"
     ri ""
 
-# game/v10/scene40.rpy:533
+# game/v10/scene40.rpy:539
 translate template_lang v10s40_galleryScene_7c83caef_1:
 
     # u "Oh so you're kicking me out?"
     u ""
 
-# game/v10/scene40.rpy:538
+# game/v10/scene40.rpy:544
 translate template_lang v10s40_galleryScene_028f7cc4_1:
 
     # ri "Haha, no! I just don't want you to be super tired."
     ri ""
 
-# game/v10/scene40.rpy:543
+# game/v10/scene40.rpy:549
 translate template_lang v10s40_galleryScene_dc06b66f_1:
 
     # u "Haha, yeah you're right. I should get out of here. I'll see you soon."
     u ""
 
-# game/v10/scene40.rpy:548
+# game/v10/scene40.rpy:554
 translate template_lang v10s40_galleryScene_bde6a20f_1:
 
     # ri "See ya."
     ri ""
 
-# game/v10/scene40.rpy:576
+# game/v10/scene40.rpy:585
 translate template_lang v10s40_galleryScene_e7e5a542_1:
 
     # ri "Someone's confident."
     ri ""
 
-# game/v10/scene40.rpy:581
+# game/v10/scene40.rpy:590
 translate template_lang v10s40_galleryScene_af9f90af_2:
 
     # u "Come here."
     u ""
 
-# game/v10/scene40.rpy:586
+# game/v10/scene40.rpy:595
 translate template_lang v10s40_galleryScene_81defe42_2:
 
     # u "Lie down."
     u ""
 
-# game/v10/scene40.rpy:591
+# game/v10/scene40.rpy:600
 translate template_lang v10s40_galleryScene_7fe7ebd9_2:
 
     # u "You're so sexy."
     u ""
 
-# game/v10/scene40.rpy:593
+# game/v10/scene40.rpy:602
 translate template_lang v10s40_galleryScene_79aa4919_2:
 
     # ri "Squeeze my thighs."
     ri ""
 
-# game/v10/scene40.rpy:598
+# game/v10/scene40.rpy:607
 translate template_lang v10s40_galleryScene_a3f53d1b_2:
 
     # ri "Oh god!"
     ri ""
 
-# game/v10/scene40.rpy:603
+# game/v10/scene40.rpy:612
 translate template_lang v10s40_galleryScene_647e3692_2:
 
     # ri "Oh fuck!"
     ri ""
 
-# game/v10/scene40.rpy:608
+# game/v10/scene40.rpy:617
 translate template_lang v10s40_galleryScene_7fd21f74_2:
 
     # ri "[name]!"
     ri ""
 
-# game/v10/scene40.rpy:610
+# game/v10/scene40.rpy:619
 translate template_lang v10s40_galleryScene_99799095_2:
 
     # ri "My turn."
     ri ""
 
-# game/v10/scene40.rpy:615
+# game/v10/scene40.rpy:624
 translate template_lang v10s40_galleryScene_a4793be3_2:
 
     # u "Fuck that feels good."
     u ""
 
-# game/v10/scene40.rpy:617
+# game/v10/scene40.rpy:626
 translate template_lang v10s40_galleryScene_cf3ce5ee_2:
 
     # ri "You like it huh?"
     ri ""
 
-# game/v10/scene40.rpy:622
+# game/v10/scene40.rpy:631
 translate template_lang v10s40_galleryScene_429717d2_2:
 
     # u "Oh fuck, YESSS!"
     u ""
 
-# game/v10/scene40.rpy:624
+# game/v10/scene40.rpy:633
 translate template_lang v10s40_galleryScene_5077813d_2:
 
     # u "I'm gonna cum."
     u ""
 
-# game/v10/scene40.rpy:626
+# game/v10/scene40.rpy:635
 translate template_lang v10s40_galleryScene_f856c885_2:
 
     # ri "Go ahead."
     ri ""
 
-# game/v10/scene40.rpy:640
+# game/v10/scene40.rpy:649
 translate template_lang v10s40_galleryScene_c30d1468_2:
 
     # ri "That was nice."
     ri ""
 
-# game/v10/scene40.rpy:645
+# game/v10/scene40.rpy:654
 translate template_lang v10s40_galleryScene_7bc47303_2:
 
     # u "It was."
     u ""
 
-# game/v10/scene40.rpy:650
+# game/v10/scene40.rpy:659
 translate template_lang v10s40_galleryScene_d1462b04_2:
 
     # ri "Hey, can I ask you something?"
     ri ""
 
-# game/v10/scene40.rpy:655
+# game/v10/scene40.rpy:664
 translate template_lang v10s40_galleryScene_26089244_2:
 
     # u "Sure, what's up?"
     u ""
 
-# game/v10/scene40.rpy:660
+# game/v10/scene40.rpy:669
 translate template_lang v10s40_galleryScene_27b2dc54_2:
 
     # ri "What would you do if you had a million dollars and you could either only spend it on yourself or only spend it on others?"
     ri ""
 
-# game/v10/scene40.rpy:665
+# game/v10/scene40.rpy:674
 translate template_lang v10s40_galleryScene_46226e29_2:
 
     # u "Uhhh... I'm not sure."
     u ""
 
-# game/v10/scene40.rpy:670
+# game/v10/scene40.rpy:679
 translate template_lang v10s40_galleryScene_c584e05c_2:
 
     # ri "Come on, you gotta choose one."
     ri ""
 
-# game/v10/scene40.rpy:679
+# game/v10/scene40.rpy:688
 translate template_lang v10s40_galleryScene_9ec044b3_2:
 
     # u "I'd spend it all on myself and then give away the stuff that I wanted to give."
     u ""
 
-# game/v10/scene40.rpy:684
+# game/v10/scene40.rpy:693
 translate template_lang v10s40_galleryScene_dd0bab12_2:
 
     # ri "What, no. *Laughs* You can't give away anything, quit trying to find loopholes. It's supposed to be a hard choice."
     ri ""
 
-# game/v10/scene40.rpy:689
+# game/v10/scene40.rpy:698
 translate template_lang v10s40_galleryScene_8a3a4367_2:
 
     # u "Look at it as if I'm buying happiness."
     u ""
 
-# game/v10/scene40.rpy:691
+# game/v10/scene40.rpy:700
 translate template_lang v10s40_galleryScene_67fbe892_1:
 
     # u "I get happy when I do things for others so if I buy others something or give something away that they want, then I'm also buying happiness for myself."
     u ""
 
-# game/v10/scene40.rpy:696
+# game/v10/scene40.rpy:705
 translate template_lang v10s40_galleryScene_cd6ce674_2:
 
     # ri "Haven't you ever heard you can't buy happiness? *Chuckles*"
     ri ""
 
-# game/v10/scene40.rpy:701
+# game/v10/scene40.rpy:710
 translate template_lang v10s40_galleryScene_2b1f8b13_2:
 
     # u "Well I just found a way."
     u ""
 
-# game/v10/scene40.rpy:706
+# game/v10/scene40.rpy:715
 translate template_lang v10s40_galleryScene_247ce7a7_2:
 
     # ri "You're crazy. *Laughs*"
     ri ""
 
-# game/v10/scene40.rpy:712
+# game/v10/scene40.rpy:721
 translate template_lang v10s40_galleryScene_4d082514_2:
 
     # u "Easy, I'd give it all to one person and sign a contract with him saying he had to give half of it back to me."
     u ""
 
-# game/v10/scene40.rpy:714
+# game/v10/scene40.rpy:723
 translate template_lang v10s40_galleryScene_8f7d5209_2:
 
     # u "A quarter of it he had to spend on my family and friends, and the rest he could keep."
     u ""
 
-# game/v10/scene40.rpy:719
+# game/v10/scene40.rpy:728
 translate template_lang v10s40_galleryScene_bc09e83c_2:
 
     # ri "What, no. *Laughs* You can't make deals like that, quit trying to find loopholes. It's supposed to be a hard choice."
     ri ""
 
-# game/v10/scene40.rpy:721
+# game/v10/scene40.rpy:730
 translate template_lang v10s40_galleryScene_4886bb1c_2:
 
     # ri "Plus, why would you just have him also give you what you wanted to give away to your family and friends so you could do?"
     ri ""
 
-# game/v10/scene40.rpy:726
+# game/v10/scene40.rpy:735
 translate template_lang v10s40_galleryScene_f1f8c547_2:
 
     # u "*Chuckles* That would make more sense."
     u ""
 
-# game/v10/scene40.rpy:731
+# game/v10/scene40.rpy:740
 translate template_lang v10s40_galleryScene_6592d0f5_2:
 
     # ri "Didn't think that one through. *Laughs*"
     ri ""
 
-# game/v10/scene40.rpy:736
+# game/v10/scene40.rpy:745
 translate template_lang v10s40_galleryScene_b2d25bc3_1:
 
     # ri "You have to get up early?"
     ri ""
 
-# game/v10/scene40.rpy:741
+# game/v10/scene40.rpy:750
 translate template_lang v10s40_galleryScene_32c9c8df_2:
 
     # u "Yeah, I have something pretty major in the morning."
     u ""
 
-# game/v10/scene40.rpy:746
+# game/v10/scene40.rpy:755
 translate template_lang v10s40_galleryScene_58bfc2d4_2:
 
     # ri "Don't you think you should go then?"
     ri ""
 
-# game/v10/scene40.rpy:751
+# game/v10/scene40.rpy:760
 translate template_lang v10s40_galleryScene_7c83caef_2:
 
     # u "Oh so you're kicking me out?"
     u ""
 
-# game/v10/scene40.rpy:756
+# game/v10/scene40.rpy:765
 translate template_lang v10s40_galleryScene_028f7cc4_2:
 
     # ri "Haha, no! I just don't want you to be super tired."
     ri ""
 
-# game/v10/scene40.rpy:761
+# game/v10/scene40.rpy:770
 translate template_lang v10s40_galleryScene_dc06b66f_2:
 
     # u "Haha, yeah you're right. I should get out of here. I'll see you soon."
     u ""
 
-# game/v10/scene40.rpy:766
+# game/v10/scene40.rpy:775
 translate template_lang v10s40_galleryScene_bde6a20f_2:
 
     # ri "See ya."
     ri ""
 
-# game/v10/scene40.rpy:793
+# game/v10/scene40.rpy:802
 translate template_lang v10s40_galleryScene_a47af2f2:
 
     # ri "WHOA, I didn't expect this from you!"
     ri ""
 
-# game/v10/scene40.rpy:798
+# game/v10/scene40.rpy:807
 translate template_lang v10s40_galleryScene_1bf7e3da:
 
     # u "Was I reading things wrong?"
     u ""
 
-# game/v10/scene40.rpy:803
+# game/v10/scene40.rpy:812
 translate template_lang v10s40_galleryScene_0cc228b1:
 
     # ri "I don't know, this just doesn't feel like the right time, maybe you should go."
     ri ""
 
-# game/v10/scene40.rpy:808
+# game/v10/scene40.rpy:817
 translate template_lang v10s40_galleryScene_c377717f:
 
     # u "Uhm yeah, my bad. Bye. Sorry."
     u ""
 
-# game/v10/scene40.rpy:821
+# game/v10/scene40.rpy:830
 translate template_lang v10s40_galleryScene_e7fd61d8_1:
 
     # u "Go ahead and get dressed, I'll turn around."
     u ""
 
-# game/v10/scene40.rpy:826
+# game/v10/scene40.rpy:835
 translate template_lang v10s40_galleryScene_8e748418:
 
     # ri "Alrighty."
     ri ""
 
-# game/v10/scene40.rpy:831
+# game/v10/scene40.rpy:840
 translate template_lang v10s40_galleryScene_d1462b04_3:
 
     # ri "Hey, can I ask you something?"
     ri ""
 
-# game/v10/scene40.rpy:836
+# game/v10/scene40.rpy:845
 translate template_lang v10s40_galleryScene_26089244_3:
 
     # u "Sure, what's up?"
     u ""
 
-# game/v10/scene40.rpy:841
+# game/v10/scene40.rpy:850
 translate template_lang v10s40_galleryScene_27b2dc54_3:
 
     # ri "What would you do if you had a million dollars and you could either only spend it on yourself or only spend it on others?"
     ri ""
 
-# game/v10/scene40.rpy:846
+# game/v10/scene40.rpy:855
 translate template_lang v10s40_galleryScene_46226e29_3:
 
     # u "Uhhh... I'm not sure."
     u ""
 
-# game/v10/scene40.rpy:851
+# game/v10/scene40.rpy:860
 translate template_lang v10s40_galleryScene_c584e05c_3:
 
     # ri "Come on, you gotta choose one."
     ri ""
 
-# game/v10/scene40.rpy:860
+# game/v10/scene40.rpy:869
 translate template_lang v10s40_galleryScene_9ec044b3_3:
 
     # u "I'd spend it all on myself and then give away the stuff that I wanted to give."
     u ""
 
-# game/v10/scene40.rpy:865
+# game/v10/scene40.rpy:874
 translate template_lang v10s40_galleryScene_dd0bab12_3:
 
     # ri "What, no. *Laughs* You can't give away anything, quit trying to find loopholes. It's supposed to be a hard choice."
     ri ""
 
-# game/v10/scene40.rpy:870
+# game/v10/scene40.rpy:879
 translate template_lang v10s40_galleryScene_8a3a4367_3:
 
     # u "Look at it as if I'm buying happiness."
     u ""
 
-# game/v10/scene40.rpy:872
+# game/v10/scene40.rpy:881
 translate template_lang v10s40_galleryScene_67fbe892_2:
 
     # u "I get happy when I do things for others so if I buy others something or give something away that they want, then I'm also buying happiness for myself."
     u ""
 
-# game/v10/scene40.rpy:877
+# game/v10/scene40.rpy:886
 translate template_lang v10s40_galleryScene_cd6ce674_3:
 
     # ri "Haven't you ever heard you can't buy happiness? *Chuckles*"
     ri ""
 
-# game/v10/scene40.rpy:882
+# game/v10/scene40.rpy:891
 translate template_lang v10s40_galleryScene_2b1f8b13_3:
 
     # u "Well I just found a way."
     u ""
 
-# game/v10/scene40.rpy:887
+# game/v10/scene40.rpy:896
 translate template_lang v10s40_galleryScene_247ce7a7_3:
 
     # ri "You're crazy. *Laughs*"
     ri ""
 
-# game/v10/scene40.rpy:893
+# game/v10/scene40.rpy:902
 translate template_lang v10s40_galleryScene_4d082514_3:
 
     # u "Easy, I'd give it all to one person and sign a contract with him saying he had to give half of it back to me."
     u ""
 
-# game/v10/scene40.rpy:895
+# game/v10/scene40.rpy:904
 translate template_lang v10s40_galleryScene_8f7d5209_3:
 
     # u "A quarter of it he had to spend on my family and friends, and the rest he could keep."
     u ""
 
-# game/v10/scene40.rpy:900
+# game/v10/scene40.rpy:909
 translate template_lang v10s40_galleryScene_bc09e83c_3:
 
     # ri "What, no. *Laughs* You can't make deals like that, quit trying to find loopholes. It's supposed to be a hard choice."
     ri ""
 
-# game/v10/scene40.rpy:902
+# game/v10/scene40.rpy:911
 translate template_lang v10s40_galleryScene_4886bb1c_3:
 
     # ri "Plus, why would you just have him also give you what you wanted to give away to your family and friends so you could do?"
     ri ""
 
-# game/v10/scene40.rpy:907
+# game/v10/scene40.rpy:916
 translate template_lang v10s40_galleryScene_f1f8c547_3:
 
     # u "*Chuckles* That would make more sense."
     u ""
 
-# game/v10/scene40.rpy:912
+# game/v10/scene40.rpy:921
 translate template_lang v10s40_galleryScene_6592d0f5_3:
 
     # ri "Didn't think that one through. *Laughs*"
     ri ""
 
-# game/v10/scene40.rpy:917
+# game/v10/scene40.rpy:926
 translate template_lang v10s40_galleryScene_b5377b2a_1:
 
     # ri "Don't you have to get up early tomorrow?"
     ri ""
 
-# game/v10/scene40.rpy:922
+# game/v10/scene40.rpy:931
 translate template_lang v10s40_galleryScene_32c9c8df_3:
 
     # u "Yeah, I have something pretty major in the morning."
     u ""
 
-# game/v10/scene40.rpy:927
+# game/v10/scene40.rpy:936
 translate template_lang v10s40_galleryScene_58bfc2d4_3:
 
     # ri "Don't you think you should go then?"
     ri ""
 
-# game/v10/scene40.rpy:932
+# game/v10/scene40.rpy:941
 translate template_lang v10s40_galleryScene_7c83caef_3:
 
     # u "Oh so you're kicking me out?"
     u ""
 
-# game/v10/scene40.rpy:937
+# game/v10/scene40.rpy:946
 translate template_lang v10s40_galleryScene_028f7cc4_3:
 
     # ri "Haha, no! I just don't want you to be super tired."
     ri ""
 
-# game/v10/scene40.rpy:942
+# game/v10/scene40.rpy:951
 translate template_lang v10s40_galleryScene_dc06b66f_3:
 
     # u "Haha, yeah you're right. I should get out of here. I'll see you soon."
     u ""
 
-# game/v10/scene40.rpy:947
+# game/v10/scene40.rpy:956
 translate template_lang v10s40_galleryScene_bde6a20f_3:
 
     # ri "See ya."
@@ -1010,23 +1010,23 @@ translate template_lang v10s40_galleryScene_bde6a20f_3:
 
 translate template_lang strings:
 
-    # game/v10/scene40.rpy:208
+    # game/v10/scene40.rpy:211
     old "Myself"
     new ""
 
-    # game/v10/scene40.rpy:208
+    # game/v10/scene40.rpy:211
     old "Others"
     new ""
 
-    # game/v10/scene40.rpy:308
+    # game/v10/scene40.rpy:311
     old "Offer to turn around"
     new ""
 
-    # game/v10/scene40.rpy:417
+    # game/v10/scene40.rpy:423
     old "Don't peek"
     new ""
 
-    # game/v10/scene40.rpy:417
+    # game/v10/scene40.rpy:423
     old "Peek"
     new ""
 

@@ -1,110 +1,109 @@
-﻿# TODO: Translation updated at 2021-05-30 19:11
+﻿# TODO: Translation updated at 2021-05-30 11:39
 
 # game/v10/scene7.rpy:9
 translate template_lang v10_mc_vs_imre_fight_856ab472:
 
     # ry "Hey man real quick. I'm not saying I think you would, but I know you and Imre are friends and have been close since you started college..."
-    ry ""
+    ry "Ei, mano, não tão rápido. Não estou dizendo que eu acho que você vai fazer algo, mas eu sei que você e Imre são amigos e são próximos desde que você começou a faculdade..."
 
 # game/v10/scene7.rpy:11
 translate template_lang v10_mc_vs_imre_fight_3df88c3b:
 
     # ry "Just don't let that get in the middle of this fight."
-    ry ""
+    ry "Só não deixe que isso entre no meio dessa briga."
 
 # game/v10/scene7.rpy:16
 translate template_lang v10_mc_vs_imre_fight_e9cf407b:
 
     # u "Just because we're-"
-    u ""
+    u "Só porque nós..."
 
 # game/v10/scene7.rpy:21
 translate template_lang v10_mc_vs_imre_fight_27baa7fa:
 
     # gr "Don't even start with all the sappy shit! You better destroy his ass!"
-    gr ""
+    gr "Não começa com essa porra agora! É melhor você destruir a cara dele!"
 
 # game/v10/scene7.rpy:26
 translate template_lang v10_mc_vs_imre_fight_8b61ca13:
 
     # jo "*Loud whisper* Hey, I got some plans tonight. How much longer is-"
-    jo ""
+    jo "*Sussurro alto* Ei, eu tenho alguns planos pra esta noite. Quanto tempo mais vai demorar..."
 
 # game/v10/scene7.rpy:31
 translate template_lang v10_mc_vs_imre_fight_538461f3:
 
     # gr "Bro chill the fuck out, we're ready!"
-    gr ""
+    gr "Mano fica frio, estamos prontos!"
 
 # game/v10/scene7.rpy:36
 translate template_lang v10_mc_vs_imre_fight_58eefc96:
 
     # ry "Do it for the Apes man."
-    ry ""
+    ry "Faça isso para os Gorilas mano."
 
 # game/v10/scene7.rpy:41
 translate template_lang v10_mc_vs_imre_fight_075819f2:
 
     # u "You got it."
-    u ""
+    u "Claro, você está certo.."
 
 # game/v10/scene7.rpy:46
 translate template_lang v10_mc_vs_imre_fight_a8519fbf:
 
     # jo "Looks like our fighters are ready!"
-    jo ""
+    jo "Parece que nossos lutadores estão prontos!"
 
 # game/v10/scene7.rpy:51
 translate template_lang v10_mc_vs_imre_fight_451b7f0d:
 
     # imre "Ready to get your ass kicked?"
-    imre ""
+    imre "Pronto para levar uma surra?"
 
 # game/v10/scene7.rpy:59
 translate template_lang v10_mc_vs_imre_fight_443ecaf0:
 
     # u "You're going down tonight."
-    u ""
+    u "Você vai cair hoje à noite."
 
 # game/v10/scene7.rpy:61
 translate template_lang v10_mc_vs_imre_fight_a24f67d4:
 
     # jo "Same rules as before, just get it guys!"
-    jo ""
+    jo "As mesmas regras de antes, apenas lutem rapazes!"
 
 # game/v10/scene7.rpy:418
 translate template_lang imre_fightEnd_1863080c:
 
     # u "I don't think I can do this. I- I... I'm sorry guys."
-    u ""
+    u "Acho que não posso fazer isso. E-EU... Desculpa, pessoal."
 
 # game/v10/scene7.rpy:422
 translate template_lang imre_fightEnd_19324cd4:
 
     # ry "What the fuck did I just say?! I literally just-"
-    ry ""
+    ry "Que porra eu acabei de falar?! Eu literalmente disse..."
 
 # game/v10/scene7.rpy:427
 translate template_lang imre_fightEnd_c443bde3:
 
     # gr "Fucking pussy, go fight that bitch or you're sleeping outside tonight!"
-    gr ""
+    gr "Maldito bichinha, vai lutar com aquele filho da puta ou você está dormindo do lado de fora hoje à noite!"
 
 # game/v10/scene7.rpy:432
 translate template_lang imre_fightEnd_d8616735:
 
     # imre "Hahaha, pussy."
-    imre ""
+    imre "Hahaha, bichinha."
 
 # game/v10/scene7.rpy:437
 translate template_lang imre_fightEnd_a5764f9c:
 
     # u "I can't, I just can't."
-    u ""
+    u "Eu não posso, simplesmente não posso."
 
 translate template_lang strings:
 
     # game/v10/scene7.rpy:53
     old "Fight Imre"
-    new ""
-
+    new "Lutar contra Imre."

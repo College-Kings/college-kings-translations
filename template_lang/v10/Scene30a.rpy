@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-30 19:11
+﻿# TODO: Translation updated at 2021-05-31 12:17
 
 # game/v10/Scene30a.rpy:19
 translate template_lang v10_emily_course_c30e3e49:
@@ -523,10 +523,6 @@ translate template_lang v10_emily_course_79c48ee2_3:
     u ""
 
 translate template_lang strings:
-
-    # game/v10/Scene30a.rpy:17
-    old "Leave"
-    new ""
 
     # game/v10/Scene30a.rpy:17
     old "Watch"

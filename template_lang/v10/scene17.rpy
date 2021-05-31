@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-30 19:11
+﻿# TODO: Translation updated at 2021-05-31 12:17
 
 # game/v10/scene17.rpy:12
 translate template_lang v10_aubrey_house_fdc2d753:
@@ -950,10 +950,6 @@ translate template_lang strings:
 
     # game/v10/scene17.rpy:300
     old "Bottom"
-    new ""
-
-    # game/v10/scene17.rpy:515
-    old "Apologize"
     new ""
 
     # game/v10/scene17.rpy:694
