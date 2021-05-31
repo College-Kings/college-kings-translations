@@ -2710,7 +2710,7 @@ translate template_lang thisbewalk_2e8c8088:
 translate template_lang thisbewalk_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v7/v7.rpy:2587
 translate template_lang phoneao_3faef724:
@@ -2746,7 +2746,7 @@ translate template_lang nobeach_8bdb5ed3:
 translate template_lang nobeach_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v7/v7.rpy:2638
 translate template_lang nobeach_102667f2:
@@ -3082,7 +3082,7 @@ translate template_lang beachlauren_fb1bbfff:
 translate template_lang beachlauren_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v7/v7.rpy:2952
 translate template_lang beachlauren_f2c1c051:
@@ -3466,7 +3466,7 @@ translate template_lang beachlauren_6f913c29:
 translate template_lang beachlauren_9ea2f78c_1:
 
     # " "
-    ""
+    " "
 
 # game/v7/v7.rpy:3317
 translate template_lang beachlauren_f2c1c051_1:
@@ -3574,7 +3574,7 @@ translate template_lang rightafterbeach_8bdb5ed3:
 translate template_lang rightafterbeach_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v7/v7.rpy:3451
 translate template_lang rightafterbeach_102667f2:
@@ -6280,7 +6280,7 @@ translate template_lang phonebb_d6af4e20:
 translate template_lang ep7_before_history_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v7/v7.rpy:5502
 translate template_lang ep7_before_history_9109d176:
@@ -9814,7 +9814,7 @@ translate template_lang wolves_ceremony_0e2994fa:
 translate template_lang rileytext_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v7/v7.rpy:8925
 translate template_lang rtnow_d647e9cd:
@@ -9886,7 +9886,7 @@ translate template_lang risex_8ec7413d:
 translate template_lang risex_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v7/v7.rpy:9032
 translate template_lang risex_a375d8a3:
@@ -9922,7 +9922,7 @@ translate template_lang riblowjob_c4c20616:
 translate template_lang riblowjob_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v7/v7.rpy:9068
 translate template_lang riblowjob_48f8234d:
@@ -9940,7 +9940,7 @@ translate template_lang riblowjob_53ba7abc:
 translate template_lang riblowjob_9ea2f78c_1:
 
     # " "
-    ""
+    " "
 
 # game/v7/v7.rpy:9075
 translate template_lang riblowjob_ac040264:
@@ -9976,7 +9976,7 @@ translate template_lang rifingering_ca7e65d8:
 translate template_lang rifingering_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v7/v7.rpy:9110
 translate template_lang rifingering_1069e0d4:
@@ -10000,7 +10000,7 @@ translate template_lang rifingering_c8bd42b8:
 translate template_lang rifingering_9ea2f78c_1:
 
     # " "
-    ""
+    " "
 
 # game/v7/v7.rpy:9121
 translate template_lang rimissionary_d407f199:
@@ -10012,7 +10012,7 @@ translate template_lang rimissionary_d407f199:
 translate template_lang rimissionary_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v7/v7.rpy:9126
 translate template_lang rimissionary_63736364:
@@ -15712,7 +15712,7 @@ translate template_lang brbj_1a63518d:
 translate template_lang brbj_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v7/v7.rpy:15252
 translate template_lang brbj_55a04182:
@@ -15724,7 +15724,7 @@ translate template_lang brbj_55a04182:
 translate template_lang brbj_9ea2f78c_1:
 
     # " "
-    ""
+    " "
 
 # game/v7/v7.rpy:15259
 translate template_lang brbj_2016bc1a:
@@ -15736,7 +15736,7 @@ translate template_lang brbj_2016bc1a:
 translate template_lang brbj_9ea2f78c_2:
 
     # " "
-    ""
+    " "
 
 # game/v7/v7.rpy:15266
 translate template_lang brbj_a5586883:
@@ -15748,7 +15748,7 @@ translate template_lang brbj_a5586883:
 translate template_lang brbj_9ea2f78c_3:
 
     # " "
-    ""
+    " "
 
 # game/v7/v7.rpy:15273
 translate template_lang brbj_eda774c8:
@@ -17800,7 +17800,7 @@ translate template_lang fr4chloeending_e9e3d2a0:
 translate template_lang fr4chloeending_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v7/v7.rpy:17305
 translate template_lang fr4amberending_d2b0de33:
@@ -17812,7 +17812,7 @@ translate template_lang fr4amberending_d2b0de33:
 translate template_lang v7end_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 translate template_lang strings:
 
@@ -18406,59 +18406,59 @@ translate template_lang strings:
 translate template_lang fr4chloedate2_8b39f939:
 
     # ro "Chris !"
-    ro ""
+    ro "Chris!"
 
 # game/v7/v7.rpy:12572
 translate template_lang fr4chloedate2_ba56bc58:
 
     # ro "Congratulations Chris !"
-    ro ""
+    ro "Parabéns Chris!"
 
 # game/v7/v7.rpy:13221
 translate template_lang fr4laurendate2_8b39f939:
 
     # ro "Chris !"
-    ro ""
+    ro "Chris!"
 
 # game/v7/v7.rpy:13236
 translate template_lang fr4laurendate2_ba56bc58:
 
     # ro "Congratulations Chris !"
-    ro ""
+    ro "Parabéns Chris!"
 
 # game/v7/v7.rpy:13468
 translate template_lang fr4penelopedate2_8b39f939:
 
     # ro "Chris !"
-    ro ""
+    ro "Chris!"
 
 # game/v7/v7.rpy:13483
 translate template_lang fr4penelopedate2_ba56bc58:
 
     # ro "Congratulations Chris !"
-    ro ""
+    ro "Parabéns Chris!"
 
 # game/v7/v7.rpy:13940
 translate template_lang fr4rileydate2_8b39f939:
 
     # ro "Chris !"
-    ro ""
+    ro "Chris!"
 
 # game/v7/v7.rpy:13955
 translate template_lang fr4rileydate2_ba56bc58:
 
     # ro "Congratulations Chris !"
-    ro ""
+    ro "Parabéns Chris!"
 
 # game/v7/v7.rpy:14672
 translate template_lang fr4riley22_8b39f939:
 
     # ro "Chris !"
-    ro ""
+    ro "Chris!"
 
 # game/v7/v7.rpy:14687
 translate template_lang fr4riley22_ba56bc58:
 
     # ro "Congratulations Chris !"
-    ro ""
+    ro "Parabéns Chris!"
 
