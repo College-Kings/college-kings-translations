@@ -256,35 +256,35 @@ translate template_lang strings:
 translate template_lang v8s19_phoneCheck1_e6825ef5:
 
     # u "I should reply to Emily"
-    u ""
+    u "Eu deveria responder a Emily"
 
 # game/v8/Scene19.rpy:116
 translate template_lang v8s19_phoneCheck1_c478a397:
 
     # u "(I think I'll get an early night)"
-    u ""
+    u "(Eu acho que vou dormir cedo hoje)"
 
 # game/v8/Scene19.rpy:122
 translate template_lang v8s19_phoneCheck1_c478a397_1:
 
     # u "(I think I'll get an early night)"
-    u ""
+    u "(Eu acho que vou dormir cedo hoje)"
 
 # game/v8/Scene19.rpy:175
 translate template_lang v8s19_phoneCheck2_e6825ef5:
 
     # u "I should reply to Emily"
-    u ""
+    u "Eu deveria responder a Emily"
 
 # game/v8/Scene19.rpy:184
 translate template_lang v8s19_phoneCheck2_c478a397:
 
     # u "(I think I'll get an early night)"
-    u ""
+    u "(Eu acho que vou dormir cedo hoje)"
 
 # game/v8/Scene19.rpy:190
 translate template_lang v8s19_phoneCheck2_c478a397_1:
 
     # u "(I think I'll get an early night)"
-    u ""
+    u "(Eu acho que vou dormir cedo hoje)"
 
