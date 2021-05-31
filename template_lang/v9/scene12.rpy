@@ -70,7 +70,7 @@ translate template_lang v9_hall_cont1_60085895:
 translate template_lang v9_hall_cont1_71ebf7ca:
 
     # unknown "Do what, this? Yeah? You like being pushed around, bitch? Huh?"
-    unknown "Fazer o quê, isso? Você gosta de ser empurrada por aí, boiola?
+    unknown "Fazer o quê, isso? Você gosta de ser empurrada por aí, boiola?"
 
 # game/v9/scene12.rpy:113
 translate template_lang v9_hall_cont1_eab5ddfc:

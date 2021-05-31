@@ -1612,7 +1612,7 @@ translate template_lang bq_bd_983a6c7c:
 translate template_lang bq_bd_be666bc9:
 
     # u "Dude... aren't you like 30 or something?"
-    u "Na moral... você não tem tipo 30 anos?""
+    u "Na moral... você não tem tipo 30 anos?"
 
 # game/v2/v2.rpy:2104
 translate template_lang bq_bd_0a03aa80:

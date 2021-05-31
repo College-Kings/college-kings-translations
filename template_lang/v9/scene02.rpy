@@ -10,7 +10,7 @@ translate template_lang v9_start_apes_4ca6872d:
 translate template_lang v9_start_apes_8526cef8:
 
     # ca "What you want, pledge?"
-    ca "O que você quer, promessa?""
+    ca "O que você quer, promessa?"
 
 # game/v9/scene02.rpy:41
 translate template_lang v9_start_apes_7fc469a7:
@@ -118,7 +118,7 @@ translate template_lang v9_start_apes_417eb9ff:
 translate template_lang v9_start_apes_a1a79220:
 
     # unkfem "Come back in Cammiiieee!"
-    unkfem "Volta pra cá Cammiiieee!""
+    unkfem "Volta pra cá Cammiiieee!"
 
 # game/v9/scene02.rpy:112
 translate template_lang v9_start_apes_94e4c324:

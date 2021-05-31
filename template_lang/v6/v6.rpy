@@ -1504,13 +1504,13 @@ translate template_lang nr_bb_ac11233a:
 translate template_lang nr_bb_f317fd7b:
 
     # u "(Homecoming. Hm. Lauren would probably be pissed if I didn't ask her...)"
-    u "("Baile de boas vindas". Hmm, a Lauren provavelmente ficaria puta se eu não a convidasse...)"
+    u "(\"Baile de boas vindas\". Hmm, a Lauren provavelmente ficaria puta se eu não a convidasse...)"
 
 # game/v6/v6.rpy:1784
 translate template_lang nr_bb_cdb81572:
 
     # u "(Homecoming. Hm. I should really think about who I want to go with...)"
-    u ""Baile de boas vindas". Hmm, eu tenho que decidir quem vou convidar..."
+    u "\"Baile de boas vindas\". Hmm, eu tenho que decidir quem vou convidar..."
 
 # game/v6/v6.rpy:1795
 translate template_lang nr_bb_c7e28610:
