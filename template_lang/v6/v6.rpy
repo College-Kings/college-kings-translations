@@ -1576,1267 +1576,1267 @@ translate template_lang continuebe_8e61bb0f:
 translate template_lang continuebe_08730599:
 
     # u "I just saw you from the distance so I thought I might as well say hi."
-    u ""
+    u "Seni uzaktan gördüm, ben de selam vereyim dedim."
 
 # game/v6/v6.rpy:1861
 translate template_lang continuebe_50a1c619:
 
     # no "Right."
-    no ""
+    no "Doğru."
 
 # game/v6/v6.rpy:1866
 translate template_lang continuebe_e9d0a7f7:
 
     # u "So uhm... do you run a lot?"
-    u ""
+    u "Yani uhm... çok koşar mısın?"
 
 # game/v6/v6.rpy:1871
 translate template_lang continuebe_5ec77185:
 
     # no "Yeah, almost everyday."
-    no ""
+    no "Evet, neredeyse her gün."
 
 # game/v6/v6.rpy:1876
 translate template_lang continuebe_cd961bb3:
 
     # u "Oh, cool."
-    u ""
+    u "Oh, güzel."
 
 # game/v6/v6.rpy:1881
 translate template_lang continuebe_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v6/v6.rpy:1883
 translate template_lang continuebe_6ceaba0c:
 
     # u "I wanna start running more too, it really helps me clear my thoughts."
-    u ""
+    u "Ben de daha fazla koşmaya başlamak istiyorum, gerçekten düşüncelerimi temizlememe yardımcı oluyor."
 
 # game/v6/v6.rpy:1888
 translate template_lang continuebe_3f646b05:
 
     # no "I don't even remember an age where I didn't run. It's just such a good stress relief."
-    no ""
+    no "Koşuya çıkmadığım bir sene bile hatırlamıyorum. Bu sadece çok iyi bir stres giderici."
 
 # game/v6/v6.rpy:1893
 translate template_lang continuebe_fd8da66f:
 
     # u "Haha, it really is."
-    u ""
+    u "Haha, gerçekten öyle."
 
 # game/v6/v6.rpy:1895
 translate template_lang continuebe_661b4b00:
 
     # u "So, are you going to the Wolves' rush party tomorrow?"
-    u ""
+    u "Ee, yarın Kurtlar'ın rush partisine gidecek misin?"
 
 # game/v6/v6.rpy:1900
 translate template_lang continuebe_e8ed35c0:
 
     # no "Yeah, I think Chris would kill me if I didn't."
-    no ""
+    no "Evet, eğer yapmasaydım Chris beni öldürürdü."
 
 # game/v6/v6.rpy:1902
 translate template_lang continuebe_adf14c70:
 
     # no "What about you?"
-    no ""
+    no "Peki ya sen?"
 
 # game/v6/v6.rpy:1907
 translate template_lang continuebe_82e49e55:
 
     # u "Uhm, yeah. I think so."
-    u ""
+    u "Ahm, Evet. Gelmeyi düşünüyorum"
 
 # game/v6/v6.rpy:1912
 translate template_lang continuebe_9ea2f78c_1:
 
     # " "
-    ""
+    " "
 
 # game/v6/v6.rpy:1917
 translate template_lang continuebe_b4e8627d:
 
     # no "So... was that all you needed?"
-    no ""
+    no "Yani... tek ihtiyacın olan bu muydu?"
 
 # game/v6/v6.rpy:1922
 translate template_lang continuebe_e20f3d03:
 
     # u "Uhh, yeah."
-    u ""
+    u "Uhh, evet."
 
 # game/v6/v6.rpy:1927
 translate template_lang continuebe_06d6693d:
 
     # no "Alright, I'll probably see you tomorrow then."
-    no ""
+    no "Tamam, yarın görüşürüz o zaman."
 
 # game/v6/v6.rpy:1932
 translate template_lang continuebe_0f8495d3:
 
     # u "Yeah, cool. I'll see you then."
-    u ""
+    u "Evet, güzel. Sonra görüşürüz."
 
 # game/v6/v6.rpy:1937
 translate template_lang continuebe_a4acbf5c:
 
     # u "(Damn...)"
-    u ""
+    u "(Kahretsin...)"
 
 # game/v6/v6.rpy:1952
 translate template_lang fu_b_eedb5df0:
 
     # u "(I should call Evelyn about doing the date tonight. After all, she did say she'd give me a chance.)"
-    u ""
+    u "(Bu gece randevuyu için Evelyn'i aramalıyım. Ne de olsa bana bir şans vereceğini söyledi.)"
 
 # game/v6/v6.rpy:1961
 translate template_lang fu_b_c37175f9:
 
     # ev "Hello?"
-    ev ""
+    ev "Merhaba?"
 
 # game/v6/v6.rpy:1966
 translate template_lang fu_b_372c870a:
 
     # u "Hey Evelyn, it's me, [name]."
-    u ""
+    u "Selam Evelyn, benim, [name]."
 
 # game/v6/v6.rpy:1976
 translate template_lang fu_b_e95c4f10:
 
     # u "Uhh.. you know, the really cute guy you wanted to go on a date with."
-    u ""
+    u "Ahh.. bilirsin işte, çıkmak istediğin çok tatlı bir adam."
 
 # game/v6/v6.rpy:1981
 translate template_lang fu_b_9be101ec:
 
     # ev "I know who you are."
-    ev ""
+    ev "Senin kim olduğunu biliyorum."
 
 # game/v6/v6.rpy:1986
 translate template_lang fu_b_069528a1:
 
     # u "So uhm, how about we do the date tonight?"
-    u ""
+    u "Ee, bu gece randevumuza ne dersin?"
 
 # game/v6/v6.rpy:1991
 translate template_lang fu_b_d1298f31:
 
     # ev "Look, you gave a fair fight and I think it's great that you're as direct as you were with me."
-    ev ""
+    ev "Bak, adil bir mücadele verdin ve bence benimle olduğun kadar doğrudan olman harika."
 
 # game/v6/v6.rpy:1993
 translate template_lang fu_b_4838f730:
 
     # ev "But you're really not my type. Plus I'm meeting friends tonight."
-    ev ""
+    ev "Ama sen benim tipim değilsin. Ayrıca bu gece arkadaşlarımla buluşacağım."
 
 # game/v6/v6.rpy:1998
 translate template_lang fu_b_4f07dbb0:
 
     # u "I know you like playing hard to get, but I think you'd make a big mistake by missing out on this date."
-    u ""
+    u "Zor oynamayı sevdiğini biliyorum, ama bu randevuyu kaçırarak büyük bir hata yapacağını düşünüyorum."
 
 # game/v6/v6.rpy:2003
 translate template_lang fu_b_68ebbf0d:
 
     # ev "How so?"
-    ev ""
+    ev "Nasıl?"
 
 # game/v6/v6.rpy:2013
 translate template_lang fu_b_3d776033:
 
     # u "'Cause we'll go on an adventure."
-    u ""
+    u "Çünkü bir maceraya atılacağız."
 
 # game/v6/v6.rpy:2018
 translate template_lang fu_b_f8d5666f:
 
     # ev "An adventure?"
-    ev ""
+    ev "Macera?"
 
 # game/v6/v6.rpy:2023
 translate template_lang fu_b_ebc52c52:
 
     # u "Yeah, it will be fun."
-    u ""
+    u "Evet, eğlenceli olacak."
 
 # game/v6/v6.rpy:2028
 translate template_lang fu_b_8054c266:
 
     # ev "To where?"
-    ev ""
+    ev "Nereye?"
 
 # game/v6/v6.rpy:2033
 translate template_lang fu_b_fc230bf9:
 
     # u "It will be a surprise."
-    u ""
+    u "Bu bir sürpriz olacak."
 
 # game/v6/v6.rpy:2038
 translate template_lang fu_b_3578b6fc:
 
     # ev "That sounds uhm... a bit childish. Sorry I gotta go."
-    ev ""
+    ev "Bu kulağa uhm... biraz çocukça geliyor. Üzgünüm, gitmeliyim."
 
 # game/v6/v6.rpy:2040
 translate template_lang fu_b_b1420f2c:
 
     # ev "I'm sure you'll find someone else, good bye."
-    ev ""
+    ev "Eminim başka birini bulursun, hoşçakal."
 
 # game/v6/v6.rpy:2044
 translate template_lang fu_b_79e1b3f6:
 
     # "*Evelyn hangs up*"
-    ""
+    "*Evelyn telefonu kapatır*"
 
 # game/v6/v6.rpy:2049
 translate template_lang fu_b_fecdd0f1:
 
     # u "Damnit."
-    u ""
+    u "Lanet olsun."
 
 # game/v6/v6.rpy:2058
 translate template_lang fu_b_e4fc9def:
 
     # u "Because we'll go out to a nice dinner. It'll be much more enjoyable than a girls' night and the best part: it's on me."
-    u ""
+    u "Çünkü güzel bir yemeğe çıkacağız. Bir kız gecesinden çok daha keyifli olacak ve en iyi bölüm: benim üzerimde."
 
 # game/v6/v6.rpy:2063
 translate template_lang fu_b_38b76687:
 
-    # ev " Hmmm... that does sound enticing. Where would we be going?"
-    ev ""
+    # ev "Hmmm... that does sound enticing. Where would we be going?"
+    ev "Hmmm... hoşuma gitti. Nereye gidecektik?"
 
 # game/v6/v6.rpy:2068
 translate template_lang fu_b_51b3a145:
 
     # u "That's a surprise."
-    u ""
+    u "Bu bir sürpriz."
 
 # game/v6/v6.rpy:2073
 translate template_lang fu_b_f3d03d64:
 
     # ev "Okay, I can do with surprises. Pick me up at eight?"
-    ev ""
+    ev "Tamam, sürprizlerle başa çıkabilirim. Sekizde beni alır mısın?"
 
 # game/v6/v6.rpy:2078
 translate template_lang fu_b_7e006013:
 
     # u "Yeah... there's one more issue, I don't really have a car-"
-    u ""
+    u "Evet... bir sorun daha var, gerçekten bir arabam yok-"
 
 # game/v6/v6.rpy:2083
 translate template_lang fu_b_9d2ff1d7:
 
     # ev "Of course you don't."
-    ev ""
+    ev "Tabii ki yok."
 
 # game/v6/v6.rpy:2088
 translate template_lang fu_b_5daa0ce9:
 
     # u "How about I tell you the address, but you're not allowed to look up which restaurant it is and we'll meet there?"
-    u ""
+    u "Sana adresi söylesem nasıl olur, ama hangi restoran olduğuna bakamazsın ve orada buluşuruz?"
 
 # game/v6/v6.rpy:2093
 translate template_lang fu_b_7e022e06:
 
     # ev "*Sighs* Fine."
-    ev ""
+    ev "*İç çeker* İyi."
 
 # game/v6/v6.rpy:2098
 translate template_lang fu_b_3eddfa99:
 
     # u "376 Gardner Avenue. I'll see you at eight."
-    u ""
+    u "376 Gardner Caddesi. Sekizde görüşürüz."
 
 # game/v6/v6.rpy:2103
 translate template_lang fu_b_075a5a30:
 
     # ev "Yes..."
-    ev ""
+    ev "Evet..."
 
 # game/v6/v6.rpy:2107
 translate template_lang fu_b_79e1b3f6_1:
 
     # "*Evelyn hangs up*"
-    ""
+    "*Evelyn telefonu kapatır*"
 
 # game/v6/v6.rpy:2112
 translate template_lang fu_b_e6dbca32:
 
     # u "Hell yeah."
-    u ""
+    u "Yaşasın."
 
 # game/v6/v6.rpy:2151
 translate template_lang lookdog_3fd3d76d:
 
     # u "*Breathing heavily*"
-    u ""
+    u "*Nefes nefese*"
 
 # game/v6/v6.rpy:2176
 translate template_lang runback_7af3d5fa:
 
     # u "(I really need to patch things up with Chloe. It was going so great until-)"
-    u ""
+    u "(Gerçekten Chloe ile işleri düzeltmem gerekiyor. O kadar iyi gidiyordu ki-)"
 
 # game/v6/v6.rpy:2178
 translate template_lang runback_e8e75db3:
 
     # u "(Until I messed things up.)"
-    u ""
+    u "(İşleri berbat edene kadar.)"
 
 # game/v6/v6.rpy:2180
 translate template_lang runback_cf5be5c5:
 
     # u "(I should've just trusted her.)"
-    u ""
+    u "(Ona güvenmeliydim.)"
 
 # game/v6/v6.rpy:2188
 translate template_lang runback_8f599c2c:
 
     # u "(Wow, I still haven't given that to Chloe. Next time I'm definitely taking it with me.)"
-    u ""
+    u "(Vay canına, bunu hala Chloe'ye vermedim. Bir dahaki sefere kesinlikle yanımda götüreceğim.)"
 
 # game/v6/v6.rpy:2201
 translate template_lang fw_a_8bdb5ed3:
 
     # u "(Huh?)"
-    u ""
+    u "(Ha?)"
 
 # game/v6/v6.rpy:2219
 translate template_lang fw_a_195a6f2b:
 
     # u "What's wrong now?"
-    u ""
+    u "Şimdi ne oldu?"
 
 # game/v6/v6.rpy:2224
 translate template_lang fw_a_6711b258:
 
     # em "(Sobbing) Really? That's how you're going to treat me?"
-    em ""
+    em "(Hıçkıra hıçkıra ağlayarak) Gerçekten mi? Bana böyle mi davranacaksın?"
 
 # game/v6/v6.rpy:2229
 translate template_lang fw_a_ba3e8519:
 
     # u "Alright fine. What's wrong, Emily?"
-    u ""
+    u "Tamam iyi. Sorun ne, Emily?"
 
 # game/v6/v6.rpy:2234
 translate template_lang fw_a_cf9cf369:
 
     # em "(Sobbing) Can you please come over? I need you."
-    em ""
+    em "(Hıçkıra hıçkıra ağlayarak) Lütfen gelir misin? Sana ihtiyacım var."
 
 # game/v6/v6.rpy:2239
 translate template_lang fw_a_d681a9fa:
 
     # u "For what? We already went over this..."
-    u ""
+    u "Ne için? Bunu zaten konuştuk..."
 
 # game/v6/v6.rpy:2244
 translate template_lang fw_a_43d987e7:
 
     # em "*Sniff* I just really need someone to talk to."
-    em ""
+    em "*Burnunu çeker* Gerçekten konuşacak birine ihtiyacım var."
 
 # game/v6/v6.rpy:2249
 translate template_lang fw_a_16296ffa:
 
     # u "Right... like that time you told me you needed me and then opened the door in your underwear trying to get me back???"
-    u ""
+    u "Doğru... bana ihtiyacın olduğunu söylediğin ve sonra beni geri almaya çalışırken iç çamaşırınla kapıyı açtığın zaman gibi mi???"
 
 # game/v6/v6.rpy:2254
 translate template_lang fw_a_419c4d03:
 
     # em "[name], this is different. I promise. Please can you just come over? I'm in Dorm 17, Block A."
-    em ""
+    em "[name], bu farklı. Söz veriyorum. Lütfen buraya gelebilir misin? 17. Yatakhanedeyim, A Blok."
 
 # game/v6/v6.rpy:2264
 translate template_lang fw_a_4c9b5b30:
 
     # u "Fine, I'll come."
-    u ""
+    u "İyi, geleceğim."
 
 # game/v6/v6.rpy:2269
 translate template_lang fw_a_ddddf0d7:
 
     # em "Thank you!"
-    em ""
+    em "Teşekkürler!"
 
 # game/v6/v6.rpy:2276
 translate template_lang fw_a_c2bdea7e:
 
     # "*You hang up*"
-    ""
+    "*Kapatırsın*"
 
 # game/v6/v6.rpy:2278
 translate template_lang fw_a_57ae9944:
 
     # u "*Sighs*"
-    u ""
+    u "*İç çeker*"
 
 # game/v6/v6.rpy:2283
 translate template_lang fw_a_4f1997c1:
 
     # "*Knock knock knock*"
-    ""
+    "*Tık tık tık*"
 
 # game/v6/v6.rpy:2285
 translate template_lang fw_a_2e4a8818:
 
     # u "Emily?"
-    u ""
+    u "Emily?"
 
 # game/v6/v6.rpy:2290
 translate template_lang fw_a_932ecead:
 
     # em "*Sniff* Door's open..."
-    em ""
+    em "*İç çeker* Kapı açık..."
 
 # game/v6/v6.rpy:2295
 translate template_lang fw_a_e695d403:
 
     # u "So?"
-    u ""
+    u "Yani?"
 
 # game/v6/v6.rpy:2297
 translate template_lang fw_a_bf0f879c:
 
     # em "*Sniff*"
-    em ""
+    em "*Burnunu çeker*"
 
 # game/v6/v6.rpy:2299
 translate template_lang fw_a_a3495ac7:
 
     # u "Are you going to tell me what's wrong or not?!"
-    u ""
+    u "Bana neyin yanlış olup olmadığını söyleyecek misin ?!"
 
 # game/v6/v6.rpy:2304
 translate template_lang fw_a_1e735209:
 
     # em "It's Hazel.."
-    em ""
+    em "Hazel.."
 
 # game/v6/v6.rpy:2309
 translate template_lang fw_a_178098b2:
 
     # u "As in your best friend from high school Hazel?"
-    u ""
+    u "Lisedeki en iyi arkadaşın olan Hazel mı?"
 
 # game/v6/v6.rpy:2314
 translate template_lang fw_a_cc77529c:
 
     # em "Yes."
-    em ""
+    em "Evet."
 
 # game/v6/v6.rpy:2319
 translate template_lang fw_a_23d8e0c1:
 
     # u "What'd she do?"
-    u ""
+    u "Ne yaptı?"
 
 # game/v6/v6.rpy:2324
 translate template_lang fw_a_c67f5e04:
 
     # u "She posted a picture?"
-    u ""
+    u "Bir resim mi gönderdi?"
 
 # game/v6/v6.rpy:2329
 translate template_lang fw_a_783256d6:
 
     # em "Look!"
-    em ""
+    em "Bak!"
 
 # game/v6/v6.rpy:2334
 translate template_lang fw_a_356fe308:
 
     # em "She cut me out!"
-    em ""
+    em "Beni kesmiş!"
 
 # game/v6/v6.rpy:2354
 translate template_lang fw_a_1c2cf3f4:
 
     # u "No."
-    u ""
+    u "Hayır."
 
 # game/v6/v6.rpy:2361
 translate template_lang fw_a_c2bdea7e_1:
 
     # "*You hang up*"
-    ""
+    "Kapatırsın"
 
 # game/v6/v6.rpy:2363
 translate template_lang fw_a_57ae9944_1:
 
     # u "*Sighs*"
-    u ""
+    u "*İç çeker*"
 
 # game/v6/v6.rpy:2373
 translate template_lang fw_a_a1030b81:
 
     # u "Hey Emily, what's up?"
-    u ""
+    u "Selam Emily, naber?"
 
 # game/v6/v6.rpy:2378
 translate template_lang fw_a_cf9cf369_1:
 
     # em "(Sobbing) Can you please come over? I need you."
-    em ""
+    em "(Hıçkıra hıçkıra ağlayarak) Gel lütfen? Sana ihtiyacım var."
 
 # game/v6/v6.rpy:2383
 translate template_lang fw_a_279e2b34:
 
     # u "Uhm, yeah of course, what's wrong?"
-    u ""
+    u "Evet, elbette, sorun ne?"
 
 # game/v6/v6.rpy:2388
 translate template_lang fw_a_dbd1cf0c:
 
     # em "*Sniff* I just really need someone to talk to. I'm in Dorm 17, Block A."
-    em ""
+    em "*Burnunu çeker* Gerçekten konuşacak birine ihtiyacım var. 17. Yatakhanedeyim, A Blok."
 
 # game/v6/v6.rpy:2393
 translate template_lang fw_a_8a1e45cc:
 
     # u "Okay, I'm on my way."
-    u ""
+    u "Tamam, geliyorum."
 
 # game/v6/v6.rpy:2400
 translate template_lang fw_a_c2bdea7e_2:
 
     # "*You hang up*"
-    ""
+    "*Kapatırsın*"
 
 # game/v6/v6.rpy:2407
 translate template_lang fw_a_4f1997c1_1:
 
     # "*Knock knock knock*"
-    ""
+    "*Tık tık tık*"
 
 # game/v6/v6.rpy:2409
 translate template_lang fw_a_2e4a8818_1:
 
     # u "Emily?"
-    u ""
+    u "Emily?"
 
 # game/v6/v6.rpy:2414
 translate template_lang fw_a_932ecead_1:
 
     # em "*Sniff* Door's open..."
-    em ""
+    em "*Burnunu çeker* Kapı açık..."
 
 # game/v6/v6.rpy:2419
 translate template_lang fw_a_31eb7790:
 
     # u "Hey, what's wrong?"
-    u ""
+    u "Hey, sorun ne?"
 
 # game/v6/v6.rpy:2424
 translate template_lang fw_a_3f245d79:
 
     # em "*Sniff* It's Hazel.."
-    em ""
+    em "*Burnunu çeker* Hazel..."
 
 # game/v6/v6.rpy:2429
 translate template_lang fw_a_8817339b:
 
     # u "As in your best friend from college Hazel?"
-    u ""
+    u "Kolejdeki en iyi arkadaşın olan Hazel mı?"
 
 # game/v6/v6.rpy:2434
 translate template_lang fw_a_cc77529c_1:
 
     # em "Yes."
-    em ""
+    em "Evet."
 
 # game/v6/v6.rpy:2439
 translate template_lang fw_a_23d8e0c1_1:
 
     # u "What'd she do?"
-    u ""
+    u "Ne yaptı?"
 
 # game/v6/v6.rpy:2444
 translate template_lang fw_a_c67f5e04_1:
 
     # u "She posted a picture?"
-    u ""
+    u "Bir resim mi gönderdi?"
 
 # game/v6/v6.rpy:2449
 translate template_lang fw_a_783256d6_1:
 
     # em "Look!"
-    em ""
+    em "Bak!"
 
 # game/v6/v6.rpy:2454
 translate template_lang fw_a_356fe308_1:
 
     # em "She cut me out!"
-    em ""
+    em "Beni kesmiş!"
 
 # game/v6/v6.rpy:2489
 translate template_lang fz_a_d66f90c9:
 
     # u "Hey, it's okay."
-    u ""
+    u "Hey, sorun değil."
 
 # game/v6/v6.rpy:2494
 translate template_lang fz_a_3bd65c28:
 
     # em "No it's not! I just don't understand why she would do that! She didn't even ask me..."
-    em ""
+    em "Hayır öyle! Bunu neden yaptığını anlamıyorum! Bana sormadı bile..."
 
 # game/v6/v6.rpy:2499
 translate template_lang fz_a_9c98e318:
 
     # u "Have you asked her?"
-    u ""
+    u "Ona sordun mu?"
 
 # game/v6/v6.rpy:2504
 translate template_lang fz_a_7e824ad8:
 
     # em "No, of course not. I don't wanna talk to her after what she did."
-    em ""
+    em "Hayır, tabiki yapmadım. Yaptıklarından sonra onunla konuşmak istemiyorum."
 
 # game/v6/v6.rpy:2509
 translate template_lang fz_a_f6ff5156:
 
     # u "You ever think maybe it wasn't a very good picture of you? So she wouldn't want to post it, if you didn't look good in it."
-    u ""
+    u "Hiç iyi bir resmin olmadığını düşündün mü? Bu yüzden, içinde iyi görünmeseydin, onu yayınlamak istemezdi."
 
 # game/v6/v6.rpy:2514
 translate template_lang fz_a_38949b61:
 
     # em "What, you're saying I'm ugly?"
-    em ""
+    em "Çirkin olduğumu mu söylüyorsun?"
 
 # game/v6/v6.rpy:2519
 translate template_lang fz_a_0e65ac36:
 
     # u "*Chuckles* I guess I walked right into that one."
-    u ""
+    u "*Kıkırdamalar* Sanırım o anlama geldi."
 
 # game/v6/v6.rpy:2521
 translate template_lang fz_a_b2de5f51:
 
     # u "Even though you're cute crying, I still prefer when you're smiling."
-    u ""
+    u "Ne kadar tatlı ağlasan da ben yine de senin gülümsemeni tercih ederim."
 
 # game/v6/v6.rpy:2526
 translate template_lang fz_a_7a1db2f5:
 
     # em "*Chuckles* Me too."
-    em ""
+    em "*Kıkırdamalar* Ben de."
 
 # game/v6/v6.rpy:2531
 translate template_lang fz_a_2b1c9282:
 
     # em "Remember when we snuck into the movies 'cause you forgot your ID?"
-    em ""
+    em "Kimliğini unuttuğun için sinemaya gizlice girdiğimizi hatırlıyor musun?"
 
 # game/v6/v6.rpy:2536
 translate template_lang fz_a_30f93b47:
 
     # u "Yeah and we got caught 'cause you couldn't keep your cool."
-    u ""
+    u "Evet ve yakalandık çünkü soğukkanlılığını koruyamadın."
 
 # game/v6/v6.rpy:2541
 translate template_lang fz_a_73fe48d6:
 
     # em "*Laughs* That's still my favorite date to this day."
-    em ""
+    em "*Gülüyor* Hala bu güne kadarki en sevdiğim randevu."
 
 # game/v6/v6.rpy:2546
 translate template_lang fz_a_0a9c28ad:
 
     # u "Yeah... it was uhm... good."
-    u ""
+    u "Evet... uhm... güzeldi."
 
 # game/v6/v6.rpy:2570
 translate template_lang fz_a_3b7a3d46:
 
     # u "Emily! What are you doing?!"
-    u ""
+    u "Emily! Ne yapıyorsun?!"
 
 # game/v6/v6.rpy:2575
 translate template_lang fz_a_87cc5356:
 
     # em "I'm sorry, it's just..."
-    em ""
+    em "Üzgünüm, sadece..."
 
 # game/v6/v6.rpy:2577
 translate template_lang fz_a_b544d06f:
 
     # em "When I see you, I- I just wanna kiss you."
-    em ""
+    em "Seni gördüğümde, sa- sadece seni öpmek istiyorum."
 
 # game/v6/v6.rpy:2582
 translate template_lang fz_a_4ecfc0ea:
 
     # u "Maybe we shouldn't see each other then."
-    u ""
+    u "Belki de o zaman birbirimizi görmemeliyiz."
 
 # game/v6/v6.rpy:2587
 translate template_lang fz_a_349ad7ed:
 
     # em "[name], please..."
-    em ""
+    em "[name], lütfen..."
 
 # game/v6/v6.rpy:2592
 translate template_lang fz_a_9fb64eb4:
 
     # u "I gotta go. I'll see you around."
-    u ""
+    u "Gitmem lazım. Görüşürüz."
 
 # game/v6/v6.rpy:2594
 translate template_lang fz_a_1b03ac11:
 
     # u "Or... not."
-    u ""
+    u "Ya da... görüşmeyiz."
 
 # game/v6/v6.rpy:2602
 translate template_lang fz_b_19101482:
 
     # u "Are you fucking kidding me?! This is why you're calling me??? Over something stupid like this?"
-    u ""
+    u "Benimle taşşak mı geçiyorsun, amına koyayım?! Bu yüzden mi beni arıyorsun??? Böyle aptalca bir şey yüzünden mi?"
 
 # game/v6/v6.rpy:2607
 translate template_lang fz_b_13dba02e:
 
     # em "God, you have no empathy at all, do you?!"
-    em ""
+    em "Tanrım, hiç empati kurmuyorsun, değil mi?!"
 
 # game/v6/v6.rpy:2612
 translate template_lang fz_b_978741a9:
 
     # em "You never fucking cared! All my problems are ridiculous to you, like my feelings don't matter!"
-    em ""
+    em "Hiç sikine değil! Tüm sorunlarım sana gülünç geliyor, sanki duygularım hiç önemli değil!"
 
 # game/v6/v6.rpy:2617
 translate template_lang fz_b_cbc70cad:
 
     # u "No fucking wonder, you get upset over stupid shit like this!"
-    u ""
+    u "Hayır amına koyayım merak ediyorum, böyle aptalca şeyler yüzünden üzülüyorsun!"
 
 # game/v6/v6.rpy:2619
 translate template_lang fz_b_8106dfd3:
 
     # u "You make every little thing about yourself, 'cause that's all you care about! Grow the fuck up. No one gives a shit."
-    u ""
+    u "Kendinle ilgili her küçük şeyi yapıyorsun, çünkü tek umursadığın bu! Artık büyümelisin. Yoksa kimsenin sikinde olmaz."
 
 # game/v6/v6.rpy:2624
 translate template_lang fz_b_5e09f045:
 
     # em "How can you even say that? After everything I did for you?!"
-    em ""
+    em "Bunu nasıl söyleyebilirsin ki? Her şeyi senin için yaptım ben?!"
 
 # game/v6/v6.rpy:2625
 translate template_lang fz_b_d0a6fdcd:
 
     # em "Every day I was there for you. I listened. I was the one who found your therapist. I did everything for you."
-    em ""
+    em "Her gün yanındaydım. Dinledim. Terapistini bulan bendim. Senin için her şeyi yaptım."
 
 # game/v6/v6.rpy:2626
 translate template_lang fz_b_8cf6daaa:
 
     # em "So don't you dare tell me I only care about myself!"
-    em ""
+    em "Sakın bana sadece kendimi önemsediğimi söyleme!"
 
 # game/v6/v6.rpy:2631
 translate template_lang fz_b_1fb26ab4:
 
     # u "You cheated on me!"
-    u ""
+    u "Beni aldattın!"
 
 # game/v6/v6.rpy:2636
 translate template_lang fz_b_a0f24165:
 
     # em "I slipped up, okay?!"
-    em ""
+    em "Hata yaptım, tamam mı?!"
 
 # game/v6/v6.rpy:2638
 translate template_lang fz_b_848adced:
 
     # em "And I'm really sorry. But you have to admit it wasn't going well."
-    em ""
+    em "Ve gerçekten üzgünüm. Ama iyi gitmediğini kabul etmelisin."
 
 # game/v6/v6.rpy:2643
 translate template_lang fz_b_2f87499f:
 
     # em "I mean, did you even love me anymore?"
-    em ""
+    em "Yani, beni seviyor muydun?"
 
 # game/v6/v6.rpy:2648
 translate template_lang fz_b_adc1e2f4:
 
     # u "Of course I did."
-    u ""
+    u "Tabiki seviyordum."
 
 # game/v6/v6.rpy:2653
 translate template_lang fz_b_d55a56e4:
 
     # u "I..."
-    u ""
+    u "Ben..."
 
 # game/v6/v6.rpy:2676
 translate template_lang fz_b_3b7a3d46:
 
     # u "Emily! What are you doing?!"
-    u ""
+    u "Emily! Ne yapıyorsun?!"
 
 # game/v6/v6.rpy:2681
 translate template_lang fz_b_87cc5356:
 
     # em "I'm sorry, it's just..."
-    em ""
+    em "Üzgünüm, sadece..."
 
 # game/v6/v6.rpy:2683
 translate template_lang fz_b_b544d06f:
 
     # em "When I see you, I- I just wanna kiss you."
-    em ""
+    em "Seni gördüğümde, sa- sadece seni öpmek istiyorum."
 
 # game/v6/v6.rpy:2688
 translate template_lang fz_b_4ecfc0ea:
 
     # u "Maybe we shouldn't see each other then."
-    u ""
+    u "Belki de o zaman birbirimizi görmemeliyiz."
 
 # game/v6/v6.rpy:2693
 translate template_lang fz_b_349ad7ed:
 
     # em "[name], please..."
-    em ""
+    em "[name], lütfen..."
 
 # game/v6/v6.rpy:2698
 translate template_lang fz_b_9fb64eb4:
 
     # u "I gotta go. I'll see you around."
-    u ""
+    u "Gitmem lazım. Görüşürüz."
 
 # game/v6/v6.rpy:2700
 translate template_lang fz_b_1b03ac11:
 
     # u "Or... not."
-    u ""
+    u "Ya da... görüşmeyiz."
 
 # game/v6/v6.rpy:2715
 translate template_lang emsex_c_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v6/v6.rpy:2720
 translate template_lang emsex_c_0529a669:
 
     # u "Wow..."
-    u ""
+    u "Vay canına..."
 
 # game/v6/v6.rpy:2725
 translate template_lang emsex_c_8b355b19:
 
     # em "Come here."
-    em ""
+    em "Buraya gel."
 
 # game/v6/v6.rpy:2730
 translate template_lang emsex_c_fc8b2973:
 
     # em "*Chuckles*"
-    em ""
+    em "*Kıkırdama*"
 
 # game/v6/v6.rpy:2748
 translate template_lang emsex_a_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v6/v6.rpy:2758
 translate template_lang emsex_a_9b013366:
 
     # em "Fuck... get down there."
-    em ""
+    em "Siktir... Orası."
 
 # game/v6/v6.rpy:2763
 translate template_lang emsex_a_507e0dfa:
 
     # em "I haven't been eaten out in so long..."
-    em ""
+    em "Uzun zamandır dışarıda yemek yemedim..."
 
 # game/v6/v6.rpy:2768
 translate template_lang emsex_a_9c0c9c2f:
 
     # em "*Quiet moan* Mhhh..."
-    em ""
+    em "*Sessiz inilti* Mhh..."
 
 # game/v6/v6.rpy:2778
 translate template_lang emhead_7925d4c5:
 
     # em "*Moans* Ahhh...."
-    em ""
+    em "*İnleme* Ahhh..."
 
 # game/v6/v6.rpy:2780
 translate template_lang emhead_14b30358:
 
     # em "*Moans louder* Oh baby..."
-    em ""
+    em "*Daha yüksek sesle inliyor* Oh bebeğim..."
 
 # game/v6/v6.rpy:2782
 translate template_lang emhead_818ee437:
 
     # em "*Moans even louder* Fuuuuck."
-    em ""
+    em "*Daha da yüksek sesle inliyor* Siktiiiir."
 
 # game/v6/v6.rpy:2784
 translate template_lang emhead_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v6/v6.rpy:2786
 translate template_lang emhead_1a8211a6:
 
     # em "Oh my god, I'm gonna cum."
-    em ""
+    em "Aman Tanrım, boşalıyorum."
 
 # game/v6/v6.rpy:2788
 translate template_lang emhead_f31627d2:
 
     # em "You're so fucking good at this..."
-    em ""
+    em "Bu işte o kadar iyisin ki amına koyayım..."
 
 # game/v6/v6.rpy:2793
 translate template_lang emhead_7b90eebd:
 
     # u "Nah, first it's my turn."
-    u ""
+    u "Hayır, önce benim sıram."
 
 # game/v6/v6.rpy:2798
 translate template_lang emhead_06d89a39:
 
     # em "Mhhh..."
-    em ""
+    em "Mhhh..."
 
 # game/v6/v6.rpy:2803
 translate template_lang emhead_5c0a562f:
 
     # em "You look so good."
-    em ""
+    em "Çok iyi görünüyorsun."
 
 # game/v6/v6.rpy:2808
 translate template_lang emhead_564d9e32:
 
     # u "Take your shirt off."
-    u ""
+    u "Üstünü çıkar."
 
 # game/v6/v6.rpy:2818
 translate template_lang emhead_3da381ca:
 
     # u "You're gonna suck some dick now."
-    u ""
+    u "Şimdi biraz sik yalayacaksın."
 
 # game/v6/v6.rpy:2823
 translate template_lang emhead_00eb4eed:
 
     # em "Yesss... treat me like your dirty little slut."
-    em ""
+    em "Yesss... bana küçük pis orospun gibi davran."
 
 # game/v6/v6.rpy:2830
 translate template_lang emfacefuck_50e4e445:
 
     # u "Take this fucking dick."
-    u ""
+    u "Al şu sikimi."
 
 # game/v6/v6.rpy:2832
 translate template_lang emfacefuck_8f2ba603:
 
     # em "*Gag sounds*"
-    em ""
+    em "*Gag sesleri*"
 
 # game/v6/v6.rpy:2834
 translate template_lang emfacefuck_e9c40f23:
 
     # u "Fuck..."
-    u ""
+    u "Siktir..."
 
 # game/v6/v6.rpy:2836
 translate template_lang emfacefuck_8f2ba603_1:
 
     # em "*Gag sounds*"
-    em ""
+    em "*Gag sesleri*"
 
 # game/v6/v6.rpy:2838
 translate template_lang emfacefuck_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v6/v6.rpy:2843
 translate template_lang emfacefuck_ac06ae34:
 
     # em "*Breathing heavily* Just fuck me, please!"
-    em ""
+    em "*Nefes efese* Sadece sik beni, lütfen!"
 
 # game/v6/v6.rpy:2848
 translate template_lang emfacefuck_c6fea742:
 
     # u "You wanna be fucked you little slut?"
-    u ""
+    u "Sikilmek mi istiyorsun küçük orospu?"
 
 # game/v6/v6.rpy:2853
 translate template_lang emfacefuck_3696aa12:
 
     # em "I'm so fucking wet."
-    em ""
+    em "Çok ıslandım amına koyayım."
 
 # game/v6/v6.rpy:2855
 translate template_lang emfacefuck_82968715:
 
     # em "Fuck me, [name]!"
-    em ""
+    em "Sik beni, [name]!"
 
 # game/v6/v6.rpy:2865
 translate template_lang emfacefuck_4dc25266:
 
     # em "*Moans* Ahhh..."
-    em ""
+    em "*İnleme* Ahhh..."
 
 # game/v6/v6.rpy:2872
 translate template_lang embehind_50ff6872:
 
     # em "*Moans* Oh my god!"
-    em ""
+    em "*İnleme* Aman tanrım!"
 
 # game/v6/v6.rpy:2874
 translate template_lang embehind_bc3b597f:
 
     # em "*Moans louder* Yes! Fuck me!"
-    em ""
+    em "*Daha yüksek sesle inler* Evet! Sik beni!"
 
 # game/v6/v6.rpy:2876
 translate template_lang embehind_1153b30d:
 
     # em "*Moans* Yes! [name]!"
-    em ""
+    em "*İnleme* Evet! [name]!"
 
 # game/v6/v6.rpy:2878
 translate template_lang embehind_9327614b:
 
     # em "*Moans* Ahhh! Don't stop!"
-    em ""
+    em "*İnleme* Ahhh! Durma!"
 
 # game/v6/v6.rpy:2880
 translate template_lang embehind_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v6/v6.rpy:2885
 translate template_lang embehind_94f30d9b:
 
     # u "Fucking turn around."
-    u ""
+    u "Arkanı dön."
 
 # game/v6/v6.rpy:2890
 translate template_lang embehind_b6992f20:
 
     # em "*Breathing heavily* Mhhh..."
-    em ""
+    em "*Nefes nefese* Mhhh..."
 
 # game/v6/v6.rpy:2897
 translate template_lang embutterfly_33104b16:
 
     # em "*Moans* Baby... yes!"
-    em ""
+    em "*İnleme* Bebeğim... evet!"
 
 # game/v6/v6.rpy:2899
 translate template_lang embutterfly_f4daee08:
 
     # em "*Moans louder* Ahhh!"
-    em ""
+    em "*Daha yüksek sesle inler* Ahhh!"
 
 # game/v6/v6.rpy:2901
 translate template_lang embutterfly_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v6/v6.rpy:2905
 translate template_lang embutterfly_ccac5aee:
 
     # em "*Moans even louder* Oh my god! I'm gonna cum!"
-    em ""
+    em "*Daha yüksek sesle inler* Aman tanrım! Boşalıyorum!"
 
 # game/v6/v6.rpy:2907
 translate template_lang embutterfly_9ea2f78c_1:
 
     # " "
-    ""
+    " "
 
 # game/v6/v6.rpy:2909
 translate template_lang embutterfly_ba50b607:
 
     # u "Fuuuck!"
-    u ""
+    u "Siktirrr!"
 
 # game/v6/v6.rpy:2911
 translate template_lang embutterfly_44fc3dbd:
 
     # em "Cum inside me! Please! Fill me up!"
-    em ""
+    em "İçime boşal! Lütfen! Doldur beni!"
 
 # game/v6/v6.rpy:2920
 translate template_lang emclimax_c87fb5fe:
 
     # em "*Really loud moan* Ahhhhh!"
-    em ""
+    em "*Gerçekten yüksek sesle iniliyor* Ahhhhh!"
 
 # game/v6/v6.rpy:2931
 translate template_lang emclimax_79e32b24:
 
     # u "That was so good."
-    u ""
+    u "Bu çok iyiydi."
 
 # game/v6/v6.rpy:2936
 translate template_lang emclimax_567b5ff2:
 
     # em "Just like the old times."
-    em ""
+    em "Tıpkı eski günlerdeki gibi."
 
 # game/v6/v6.rpy:2941
 translate template_lang emclimax_cfd5ae1b:
 
     # u "You are on the pill right?"
-    u ""
+    u "Hap kullanıyorsun, değil mi?"
 
 # game/v6/v6.rpy:2946
 translate template_lang emclimax_a15a0920:
 
     # em "*Laughs* Yeah, don't worry."
-    em ""
+    em "*Gülüyor* Evet, endişelenme."
 
 # game/v6/v6.rpy:2951
 translate template_lang emclimax_e79bb6d7:
 
     # u "Phew..."
-    u ""
+    u "Vay be..."
 
 # game/v6/v6.rpy:2953
 translate template_lang emclimax_267c210d:
 
     # u "I still need to finish some of my assignments, so I kinda gotta go now."
-    u ""
+    u "Hala bazı ödevlerimi bitirmem gerekiyor, o yüzden şimdi gitmeliyim."
 
 # game/v6/v6.rpy:2958
 translate template_lang emclimax_9b9a52c4:
 
     # em "Already?"
-    em ""
+    em "Şimdiden mi?"
 
 # game/v6/v6.rpy:2963
 translate template_lang emclimax_e07ea09e:
 
     # u "Sorry, Emily. I don't wanna fall behind this early into the semester."
-    u ""
+    u "Üzgünüm, Emily. Dönemin bu kadar erken gerisinde kalmak istemiyorum."
 
 # game/v6/v6.rpy:2968
 translate template_lang emclimax_f270561c:
 
     # em "Are you at least gonna be at the party later?"
-    em ""
+    em "En azından daha sonra partide olacak mısın?"
 
 # game/v6/v6.rpy:2973
 translate template_lang emclimax_dcafa4ac:
 
     # u "You're going to the Wolves' rush party too?"
-    u ""
+    u "Kurtların rush partisine sen de mi gidiyorsun?"
 
 # game/v6/v6.rpy:2978
 translate template_lang emclimax_7f9524fe:
 
     # em "Yeah, Nora invited me."
-    em ""
+    em "Evet, Nora beni davet etti."
 
 # game/v6/v6.rpy:2983
 translate template_lang emclimax_a61fdaa7:
 
     # u "Oh, awesome. I'll see you tonight then."
-    u ""
+    u "Oh, harika. O zaman bu gece görüşürüz."
 
 # game/v6/v6.rpy:2988
 translate template_lang emclimax_2265f685:
 
     # em "Still would've rather you stayed now..."
-    em ""
+    em "Yine de şimdi kalmanı tercih ederim..."
 
 # game/v6/v6.rpy:2993
 translate template_lang emclimax_4592c69f:
 
     # u "Emily, you know I can't. I'll see you later."
-    u ""
+    u "Emily, yapamayacağımı biliyorsun, Sonra görüşürüz."
 
 # game/v6/v6.rpy:2998
 translate template_lang emclimax_1d3ccfe2:
 
     # em "Okay..."
-    em ""
+    em "Tamam..."
 
 # game/v6/v6.rpy:3008
 translate template_lang afteremily_fd979a6f:
 
     # u "(What just happened...?)"
-    u ""
+    u "(Az önce ne oldu...?)"
 
 # game/v6/v6.rpy:3048
 translate template_lang fy_bd_895b4b0f:
 
     # u "(I really hope Imre comes back at some point.)"
-    u ""
+    u "(Umarım Imre bir noktada geri döner.)"
 
 # game/v6/v6.rpy:3061
 translate template_lang fy_bd_649ad9c0:
 
     # u "Hey, what's up?"
-    u ""
+    u "Hey, naber?"
 
 # game/v6/v6.rpy:3066
 translate template_lang fy_bd_31b3d31e:
 
     # imre "Not much, just back from class. What are you up to?"
-    imre ""
+    imre "Hiç, sadece dersten döndüm. Ne işle meşgulsün?"
 
 # game/v6/v6.rpy:3071
 translate template_lang fy_bd_34cc6799:
 
     # u "Some boring-ass Econ assignment."
-    u ""
+    u "Sıkıcı bir ekonomi ödevi."
 
 # game/v6/v6.rpy:3076
 translate template_lang fy_bd_87f070f2:
 
     # imre "*Laughs* Yeah, assignments are the worst."
-    imre ""
+    imre "*Gülüyor* Evet, ödevler en kötüsüdür."
 
 # game/v6/v6.rpy:3081
 translate template_lang fy_bd_3706af4d:
 
     # imre "You up for another training session tomorrow morning?"
-    imre ""
+    imre "Yarın sabah başka bir antrenman için hazır mısın?"
 
 # game/v6/v6.rpy:3086
 translate template_lang fy_bd_f959f467:
 
     # imre "*Winces in pain*"
-    imre ""
+    imre "* Acı içinde titriyor*"
 
 # game/v6/v6.rpy:3091
 translate template_lang fy_bd_5f2ebfec:
 
     # u "You're not allowed to train yet."
-    u ""
+    u "Henüz antrenman yapma iznin yok."
 
 # game/v6/v6.rpy:3096
 translate template_lang fy_bd_49041954:
