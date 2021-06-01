@@ -35,6 +35,6 @@ v06.rpy | 2089/11645 | Bibs2 | [ ] | -
 v07.rpy | 18403/18403 | TheProfMilos | [ ] | -
 v08 files | 29/45 | TheProfMilos | [ ] | -
 v09 files | 42/42 | Kfar | [ ] | -
-v10 files | 1/41 | Kfar (<20) + ArkellCK (>20) | [ ] | -
+v10 files | 15/41 | Kfar (<15) + ArkellCK (>16) | [ ] | -
 
 Have fun!
