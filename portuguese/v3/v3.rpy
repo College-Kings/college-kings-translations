@@ -3443,7 +3443,7 @@ translate portuguese strings:
 
     # game/v3/v3.rpy:147
     old "You're crazy."
-    new ""
+    new "Tá doido"
 
     # game/v3/v3.rpy:147
     old "That's not cool."
@@ -3491,27 +3491,27 @@ translate portuguese strings:
 
     # game/v3/v3.rpy:1389
     old "I wanna talk about what happened yesterday."
-    new ""
+    new "Eu quero conversar sobre oq aconteceu ontem."
 
     # game/v3/v3.rpy:1390
     old "Any chance that you could come over now?"
-    new ""
+    new "Você pode vir aqui agora?"
 
     # game/v3/v3.rpy:1391
     old "Yeah, I can."
-    new ""
+    new "Sim, eu posso."
 
     # game/v3/v3.rpy:1392
     old "My room has a window facing the backyard. Can you climb in through there? I'll leave it open."
-    new ""
+    new "Tem uma janela no meu quarto que dá pro quintal. Você poderia entrar por aí. Vou deixar aberta."
 
     # game/v3/v3.rpy:1393
     old "I'd prefer if none of the girls saw you."
-    new ""
+    new "Eu prefiro que ninguem te veja."
 
     # game/v3/v3.rpy:1394
     old "Uhm... sure."
-    new ""
+    new "Hmm... tá."
 
     # game/v3/v3.rpy:1528
     old "Take off your clothes"
@@ -3523,19 +3523,19 @@ translate portuguese strings:
 
     # game/v3/v3.rpy:1583
     old "Hey, I really need your help."
-    new ""
+    new "Oie, eu preciso muito a sua ajuda."
 
     # game/v3/v3.rpy:1585
     old "Yeah, I'll be right there.."
-    new ""
+    new "Blz, já to indo..."
 
     # game/v3/v3.rpy:1586
     old "My room has a window facing the backyard. Can you climb in through there instead of using the front door?"
-    new ""
+    new "Tem uma janela no meu quarto que dá pro quintal. Você poderia entrar por aí ao invés de entrar pela porta principal."
 
     # game/v3/v3.rpy:1587
     old "I'll leave it open."
-    new ""
+    new "Vou deixar ela aberta."
 
     # game/v3/v3.rpy:1717
     old "Truth"
@@ -3547,15 +3547,15 @@ translate portuguese strings:
 
     # game/v3/v3.rpy:1836
     old "Hey, you know how you had to cancel on me yesterday and you really want to make it up to me?"
-    new ""
+    new "Oie, sabe ontem quando você me deu um toco? Você quer me compensar por isso?"
 
     # game/v3/v3.rpy:1837
     old "Wanna come over now?"
-    new ""
+    new "Quer vir aqui agora?"
 
     # game/v3/v3.rpy:1838
     old "Uhh... okay."
-    new ""
+    new "Hmm... tá."
 
     # game/v3/v3.rpy:2076
     old "Stop it"
@@ -3631,7 +3631,7 @@ translate portuguese strings:
 
     # game/v3/v3.rpy:3356
     old "Stop"
-    new ""
+    new "Parar"
 
 # TODO: Translation updated at 2021-06-01 21:33
 
@@ -3639,77 +3639,77 @@ translate portuguese strings:
 translate portuguese v3_nsfwSkipLabel1_fc79c0ea:
 
     # au "Oh, I see. Very funny."
-    au ""
+    au "Ah, entendi. Dormiu com o bozo ontem, tá todo engraçadinho."
 
 # game/v3/v3.rpy:1775
 translate portuguese v3_nsfwSkipLabel1_0e63a56c:
 
     # u "Haha, I thought you did great."
-    u ""
+    u "Haha, você fez certinho."
 
 # game/v3/v3.rpy:1780
 translate portuguese v3_nsfwSkipLabel1_34a44d49:
 
     # au "Okay, now it's your turn again."
-    au ""
+    au "Beleza, sua vez de novo."
 
 # game/v3/v3.rpy:1790
 translate portuguese v3_nsfwSkipLabel1_099d42fd:
 
     # u "Dare me."
-    u ""
+    u "Eu quero um desafio."
 
 # game/v3/v3.rpy:1795
 translate portuguese v3_nsfwSkipLabel1_d50fee28:
 
     # au "Uhm... okay. Take your pants off."
-    au ""
+    au "Hmmm... tá. Tira as calças."
 
 # game/v3/v3.rpy:1800
 translate portuguese v3_nsfwSkipLabel1_64f86a80:
 
     # u "What?? I'm not gonna take my pants off."
-    u ""
+    u "O quê?? Eu não vou tirar minhas calças."
 
 # game/v3/v3.rpy:1802
 translate portuguese v3_nsfwSkipLabel1_3bc6d184:
 
     # u "You gotta give me something I can actually do."
-    u ""
+    u "Você tem que me dizer algo que eu realmente possa fazer."
 
 # game/v3/v3.rpy:1807
 translate portuguese v3_nsfwSkipLabel1_3c58d281:
 
     # au "I did! It's totally doable."
-    au ""
+    au "Mas é! Qualquer um consegue fazer!"
 
 # game/v3/v3.rpy:1812
 translate portuguese v3_nsfwSkipLabel1_4c7c9292:
 
     # u "I can't just-"
-    u ""
+    u "Eu não posso simples-"
 
 # game/v3/v3.rpy:1817
 translate portuguese v3_nsfwSkipLabel1_be7bafd9:
 
     # au "Yeah, you can. See?"
-    au ""
+    au "Sim, você pode. Quer ver?"
 
 # game/v3/v3.rpy:1835
 translate portuguese v3_nsfwSkipLabel1_f4ea2660:
 
     # u "Did you just?"
-    u ""
+    u "Você acabou de-?"
 
 # game/v3/v3.rpy:1840
 translate portuguese v3_nsfwSkipLabel1_85eeb4bf:
 
     # au "Yeah..."
-    au ""
+    au "Sim..."
 
 translate portuguese strings:
 
     # game/v3/v3.rpy:3038
     old "I like her."
-    new ""
+    new "Eu gosto dela."
 
