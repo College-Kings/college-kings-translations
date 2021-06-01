@@ -4072,11 +4072,11 @@ translate portuguese fj_b_1898af7b:
 translate portuguese continueba_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 translate portuguese strings:
 
     # game/v5/v5.rpy:24
     old "Don't worry, you'll see me soon."
-    new ""
+    new "Não se estressa, logo logo vc vai me ver."
 
