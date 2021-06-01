@@ -16,7 +16,7 @@ translate portuguese drive_to_lake_b9e23283:
 translate portuguese drive_to_lake_c25b7d4a:
 
     # au "Says who? There's gonna be at least one babe swimming in there."
-    au "Quem disseisso? Vai ter pelo menos uma garota nadando lá dentro."
+    au "Quem disse isso? Vai ter pelo menos uma garota nadando lá dentro."
 
 # game/v9/scene06.rpy:29
 translate portuguese drive_to_lake_a045aab7:
@@ -34,13 +34,13 @@ translate portuguese drive_to_lake_1bcbbff8:
 translate portuguese drive_to_lake_cf17ff7b:
 
     # u "A trip? Wait a second, how far is this lake anyway?"
-    u "Uma viagem? Espere um pouco, a que distância fica este lago afinal?"
+    u "Uma viagem? Espera um pouco, a que distância fica este lago afinal?"
 
 # game/v9/scene06.rpy:44
 translate portuguese drive_to_lake_04c961dd:
 
     # au "Far enough for us to play a car game or two, for sure."
-    au "Longe o bastante pra jogarmos um ou dois jogos aqui no carro, com certeza."
+    au "Longe o bastante pra jogarmos um ou dois jogos aqui dentro do carro, com certeza."
 
 # game/v9/scene06.rpy:49
 translate portuguese drive_to_lake_c43b9497:
@@ -148,7 +148,7 @@ translate portuguese drive_to_lake_776dd9e3:
 translate portuguese drive_to_lake_6edbedfc:
 
     # ry "What? An opponent worthy of my time?! It is a button, actually."
-    ry "O que?! Um adversário digno do meu tempo?! É um botão, na verdade."
+    ry "O que?! Apareceu um adversário digno de meu tempo?! Sim, é um botão, na verdade."
 
 # game/v9/scene06.rpy:139
 translate portuguese drive_to_lake_1f37bebb:
@@ -160,7 +160,7 @@ translate portuguese drive_to_lake_1f37bebb:
 translate portuguese drive_to_lake_bb8f19a9:
 
     # au "Haha, it surely needs a lot of effort to draw the attention to such a tiny thing..."
-    au "Haha, certamente é preciso muito esforço para chamar a atenção para uma coisa tão pequena..."
+    au "Haha, certamente é preciso muito esforço pra chamar a atenção para uma coisa tão pequena..."
 
 # game/v9/scene06.rpy:149
 translate portuguese drive_to_lake_95dc44a2:
@@ -298,7 +298,7 @@ translate portuguese drive_to_lake_55205e65:
 translate portuguese drive_to_lake_e3dcfea8:
 
     # ri "It's too ingenious."
-    ri "É muito engenhoso."
+    ri "Mas é muito engenhoso."
 
 # game/v9/scene06.rpy:264
 translate portuguese drive_to_lake_be5b18a9:
@@ -526,13 +526,13 @@ translate portuguese dtl_cont1_45b8bfec:
 translate portuguese dtl_cont1_ba1e4ce8:
 
     # au "Stupid or not, it worked like a time passing charm... because we're almost there."
-    au "Estúpidos ou não, funcionou como um ótimo passa o tempo... porque estamos quase lá."
+    au "Estúpidos ou não, funcionou como um ótimo passa o tempo... porque já estamos quase lá."
 
 # game/v9/scene06.rpy:471
 translate portuguese dtl_cont1_afdb10cb:
 
     # ri "Yay! We're here!"
-    ri "Boa! Estamos aqui!"
+    ri "Bom! Estamos aqui!"
 
 # game/v9/scene06.rpy:476
 translate portuguese dtl_cont1_f168fe1f:
@@ -580,7 +580,7 @@ translate portuguese dtl_cont1_60c229d6:
 translate portuguese dtl_cont1_c14e6a5a:
 
     # ry "And I'll find a perfect view, uhm I mean the perfect picnic spot on the grass."
-    ry "E vou encontrar uma vista perfeita, uhm, quero dizer, o local perfeito para piqueniques na grama."
+    ry "E eu vou achar uma vista perfeita, uhm, quero dizer, o local perfeito para piqueniques na grama."
 
 # game/v9/scene06.rpy:516
 translate portuguese dtl_cont1_04fbf5ce:
@@ -592,7 +592,7 @@ translate portuguese dtl_cont1_04fbf5ce:
 translate portuguese dtl_cont1_495b4dd3:
 
     # u "Well, what are we waiting for?"
-    u "Bem, do que estamos esperando?"
+    u "Bem, o que estamos esperando?"
 
 translate portuguese strings:
 

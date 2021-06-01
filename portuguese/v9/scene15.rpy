@@ -4,7 +4,7 @@
 translate portuguese v9_thur_room_w_cam_punch_df6e013f:
 
     # ca "[name], You're fucking famous!"
-    ca "[name], Você é famoso, porra!"
+    ca "[name], Você agora é famoso, porra!"
 
 # game/v9/scene15.rpy:37
 translate portuguese v9_thur_room_w_cam_punch_8b258704:
@@ -46,7 +46,7 @@ translate portuguese v9_thur_room_w_cam_punch_9a9540f3:
 translate portuguese v9_thur_room_w_cam_punch_532b9bac:
 
     # "(I should check Kiwii.)"
-    "(Eu deveria checar Kiwii.)"
+    "(Deixa eu dar uma checada rápida no Kiwii.)"
 
 # game/v9/scene15.rpy:76
 translate portuguese v9_thur_room_w_cam_brag_50a3a8d1:
@@ -82,7 +82,7 @@ translate portuguese v9_thur_room_w_cam_brag_6e21c6cd:
 translate portuguese v9_thur_room_w_cam_brag_6213bb73:
 
     # ca "Didn't stand a chance!"
-    ca "Não teve nenhuma chance!"
+    ca "Ele não teve nenhuma chance!"
 
 # game/v9/scene15.rpy:105
 translate portuguese v9_thur_room_w_cam_humble_fd76e99c:
@@ -106,7 +106,7 @@ translate portuguese v9_thur_room_w_cam_humble_05dd5001:
 translate portuguese v9_thur_room_w_cam_humble_af7c9971:
 
     # sa "Those Wolf cubs don't stand a chance."
-    sa "Esses filhotes de lobo não têm chance."
+    sa "Esses filhotes de lobo não vão ter chance."
 
 # game/v9/scene15.rpy:122
 translate portuguese v9_thur_room_w_cam_humble_adbad840:
@@ -142,7 +142,7 @@ translate portuguese v9_thur_room_w_cam_cont1_fc66f20d:
 translate portuguese v9_thur_room_w_cam_cont1_6345c97d:
 
     # u "I didn't do it on purpose. It just happened, but yeah, won't hurt."
-    u "Eu não o fiz de propósito. Apenas aconteceu, mas sim, mas isso não foi ruim."
+    u "Eu não o fiz de propósito. Apenas aconteceu, \nmas sim, isso não vai ser ruim."
 
 # game/v9/scene15.rpy:151
 translate portuguese v9_thur_room_w_cam_cont1_32464462:
@@ -172,7 +172,7 @@ translate portuguese v9_thur_room_w_cam_drink_a7760b21:
 translate portuguese v9_thur_room_w_cam_drink_b6b188d1:
 
     # sa "It's okay. I have to get used to being around it. Besides, beer wasn't my thing anyway."
-    sa "Tudo bem. Tenho que me acostumar a estar ao redor disso. Além disso, a cerveja não era o meu problema."
+    sa "Tudo bem. Tenho que me acostumar a estar perto disso. \nAlém disso, a cerveja não era o meu problema."
 
 # game/v9/scene15.rpy:184
 translate portuguese v9_thur_room_w_cam_no_drink_6f3aa963:
@@ -196,7 +196,7 @@ translate portuguese v9_thur_room_w_cam_no_drink_7c041ed0:
 translate portuguese v9_thur_room_w_cam_cont2_11d06ff1:
 
     # sa "You're gonna have your pick of the Apes groupies now."
-    sa "Você vai ter sua escolha dos grupios dos Gorilas agora." #Verificar......
+    sa "Você vai ter sua entrar no grupo dos Gorilas agora." #Verificar......
 
 # game/v9/scene15.rpy:208
 translate portuguese v9_thur_room_w_cam_cont2_90e32de0:
@@ -485,4 +485,3 @@ translate portuguese strings:
     # game/v9/scene15.rpy:331
     old "Follow orders"
     new "Seguir as ordens."
-

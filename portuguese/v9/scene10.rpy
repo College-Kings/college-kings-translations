@@ -22,13 +22,13 @@ translate portuguese v9_history_class_c7db65fa:
 translate portuguese v9_hc_cont1_a92f1267:
 
     # lee "I have an exciting class planned for you today."
-    lee "Eu tenho uma aula emocionante planejada para vocês hoje."
+    lee "Eu tenho uma aula emocionante planejada para todos vocês hoje."
 
 # game/v9/scene10.rpy:67
 translate portuguese v9_hc_heckle_b86e5a88:
 
     # u "Yeah, right! I can count on my naps in this class like clockwork."
-    u "Oh, claro! E eu posso contar com meus cochilos nessa aula como se eu fosse um relógio.."
+    u "Oh, claro! E eu posso contar com meus cochilos nessa aula \ncomo se eu fosse um relógio.."
 
 # game/v9/scene10.rpy:72
 translate portuguese v9_hc_heckle_fa7a3a70:
@@ -40,7 +40,7 @@ translate portuguese v9_hc_heckle_fa7a3a70:
 translate portuguese v9_hc_quiet_e9641e9b:
 
     # u "(Not likely.)"
-    u "(Improvável.)"
+    u "(Acho que é improvável.)"
 
 # game/v9/scene10.rpy:85
 translate portuguese v9_hc_cont2_ca221422:
@@ -58,7 +58,7 @@ translate portuguese v9_hc_cont2_984f61bd:
 translate portuguese v9_hc_cont2_29d7d8a6:
 
     # lee "Now, once I separate you into small groups, I want you to think about what life would have been like in a Viking village, and come up with a short scenario to act out. There's a box of props in the corner at your disposal. Sorry, no real swords."
-    lee "Agora, uma vez que eu separo vocês em pequenos grupos, quero que imaginem em como teria sido a vida em uma vila Viking, e inventem um cenário curto para atuar. Há uma caixa de fantasias no canto à disposição. Desculpe mas não há espadas de verdade."
+    lee "Agora, uma vez que eu separo vocês em pequenos grupos, quero que imaginem em como teria sido a vida em uma vila Viking, \ninventem um cenário curto para atuar. Há uma caixa de fantasias no canto à disposição. Desculpe mas não há espadas de verdade."
 
 # game/v9/scene10.rpy:100
 translate portuguese v9_hc_cont2_e945532d:
@@ -136,7 +136,7 @@ translate portuguese v9_hc_cont3_2a07000a:
 translate portuguese v9_hc_cont3_0bf8e4b3:
 
     # u "You don't want to do your work anyway. And besides, you look cute."
-    u "Você não quer fazer seu trabalho de qualquer jeito. E além do mais, você está linda, haha."
+    u "Você não quer fazer seu trabalho de qualquer jeito,  então  aceita. \nE além do mais, você está linda, haha."
 
 # game/v9/scene10.rpy:201
 translate portuguese v9_hc_cont3_219e4b82:
@@ -172,7 +172,7 @@ translate portuguese v9_hc_cont3_c3283f7f:
 translate portuguese v9_hc_cont3_5cd65034:
 
     # lee "Alright class, that's enough prep time. Who wants to go first?"
-    lee "Muito bem, classe, já é tempo suficiente de preparação. Quem vão ser os primeiros?"
+    lee "Muito bem, classe, já deu tempo suficiente de preparação. Quem vão ser os primeiros?"
 
 # game/v9/scene10.rpy:239
 translate portuguese v9_hc_scared_cb5f50ca:
@@ -214,13 +214,13 @@ translate portuguese v9_hc_cont4_3b51f737:
 translate portuguese v9_hc_cont4_5a5be935:
 
     # u "Imagine this... the year is 950, and your ship just landed at port. There's a bald burly guard waiting to take his dues off you. Behind him is your next target... a line of small wooden huts, ripe for plundering."
-    u "Imaginem isso... o ano é 950, e o navio acabou de ancorar no porto. Há um guarda careca esperando para pra receber as taxas do porto. Atrás dele está nosso próximo alvo... uma fileira de pequenas cabanas de madeira, prontas para serem saqueadas."
+    u "Imaginem isso... o ano é 950, e o navio acabou de ancorar no porto. Há um guarda careca esperando para pra receber as taxas do porto. Atrás dele está nosso próximo alvo... uma fileira de pequenas cabanas de madeira, prontas para serem saqueadas...."
 
 # game/v9/scene10.rpy:284
 translate portuguese v9_hc_return_281d074a:
 
     # lee "Great job! I'm impressed. That's going to be hard to beat."
-    lee "Ótimo trabalho! Estou impressionado. Vai ser difícil de ter melhor hoje."
+    lee "Ótimo trabalho! Estou impressionado. Vai ser difícil ter grupo melhor hoje."
 
 translate portuguese strings:
 
@@ -230,11 +230,11 @@ translate portuguese strings:
 
     # game/v9/scene10.rpy:125
     old "Grumble with Cameron"
-    new "Reclamar junto com o Cameron"
+    new "Reclamar junto com o Cameron."
 
     # game/v9/scene10.rpy:125
     old "Be happy with Penelope"
-    new "Ficar animado junto com a Penelope"
+    new "Ficar animado igual a Penelope."
 
     # game/v9/scene10.rpy:231
     old "Be scared"

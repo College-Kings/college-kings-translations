@@ -10,25 +10,25 @@ translate portuguese v9_walk_li_txt_1d8a7ae7:
 translate portuguese v9_walk_li_txt_ed398106:
 
     # u "(I may need some help if they run into each other again)"
-    u "(Posso precisar de ajuda se eles se encontrarem novamente)"
+    u "(Posso precisar de ajuda se eles se encontrarem novamente.)"
 
 # game/v9/scene38.rpy:32
 translate portuguese v9_walk_li_txt_112e72aa:
 
     # u "(Please no more drama)"
-    u "(Por favor, sem mais drama)"
+    u "(Por favor, sem mais drama.)"
 
 # game/v9/scene38.rpy:46
 translate portuguese s38_PhoneContinue_73e9c274:
 
     # "(I should reply to Lindsey.)"
-    "(Eu deveria responder a Lindsey)."
+    "(Melhor eu responde pra Lindsey agora.)."
 
 # game/v9/scene38.rpy:53
 translate portuguese s38_PhoneContinue_744c4169:
 
     # u "(I suppose I should head to see Lindsey.)"
-    u "(Melhor eu ir ver a Lindsey agora)."
+    u "(Melhor eu ir ver a Lindsey agora.)"
 
 # game/v9/scene38.rpy:60
 translate portuguese s38_PhoneContinue_538b62a3:
@@ -48,7 +48,7 @@ translate portuguese strings:
 
     # game/v9/scene38.rpy:13
     old "Please don't hate me. You know I want to. I really, really want to."
-    new "Por favor, não me odeie. Você sabe que eu quero. Eu realmente, realmente quero estar aí."
+    new "Por favor, não me odeie. Você sabe que eu quero. Eu realmente muito queria muito estar aí."
 
     # game/v9/scene38.rpy:14
     old "No hard feelings. Bye"
@@ -85,5 +85,3 @@ translate portuguese strings:
     # game/v9/scene38.rpy:40
     old "Aww, I wish I could, but I gotta get ready for the brawl"
     new "Aww, eu gostaria poderir agora, mas tenho que me preparar para a briga."
-
-    

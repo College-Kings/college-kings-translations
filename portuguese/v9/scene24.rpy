@@ -16,7 +16,7 @@ translate portuguese v9_walk_w_sam_joke_07faa9d3:
 translate portuguese v9_walk_w_sam_joke_43f5856a:
 
     # u "No! No, not like that. Just... you kinda told me to come."
-    u "Não! Não, não desse jeito. Apenas... você meio que me disse era pra mim vir."
+    u "Não! Não, não desse jeito. \nApenas... você meio que me disse era pra mim vir."
 
 # game/v9/scene24.rpy:31
 translate portuguese v9_walk_w_sam_joke_d56e47c5:
@@ -28,7 +28,7 @@ translate portuguese v9_walk_w_sam_joke_d56e47c5:
 translate portuguese v9_walk_w_sam_joke_8e1fbad7:
 
     # u "No, it's fine. I totally get it. And I'm glad to be out here with you."
-    u "Não, está tudo bem. Eu entendo perfeitamente. E estou feliz por estar aqui fora com você."
+    u "Não, está tudo bem. Eu entendo perfeitamente. \nE estou feliz por estar aqui fora com você."
 
 # game/v9/scene24.rpy:42
 translate portuguese v9_walk_w_sam_serious_c5d4b82d:
@@ -40,7 +40,7 @@ translate portuguese v9_walk_w_sam_serious_c5d4b82d:
 translate portuguese v9_walk_w_sam_serious_a6f2c182:
 
     # sa "That obvious?"
-    sa "Isso é óbvio?"
+    sa "Isso era óbvio?"
 
 # game/v9/scene24.rpy:50
 translate portuguese v9_walk_w_sam_serious_f2c72877:
@@ -52,13 +52,13 @@ translate portuguese v9_walk_w_sam_serious_f2c72877:
 translate portuguese v9_walk_w_sam_serious_a854d9f8:
 
     # sa "It's a strange place up here."
-    sa "É um lugar estranho aqui em cima."
+    sa "É um lugar estranho aqui em cima na minha cabeça."
 
 # game/v9/scene24.rpy:58
 translate portuguese v9_walk_w_sam_serious_7b0cd924:
 
     # u "Here, too. Don't worry. There's a reason we can't all read minds."
-    u "Aqui, também. Não se preocupe. Há uma razão pela qual não podemos ler mentes."
+    u "Minha também. Não se preocupe. Essa é uma razão \npela qual não podemos ler mentes."
 
 # game/v9/scene24.rpy:65
 translate portuguese v9_walk_w_sam_cont1_b39ce301:
@@ -106,7 +106,7 @@ translate portuguese v9_walk_w_sam_cont1_a7022ec4:
 translate portuguese v9_walk_w_sam_cont1_a3cffd5e:
 
     # sa "I mean... good I'm not the only one who doesn't have her shit figured out."
-    sa "Quero dizer... Ainda bem que não sou o único que não tem suas merdas resolvidas."
+    sa "Quero dizer... Ainda bem que não sou a única que não tem suas merdas resolvidas."
 
 # game/v9/scene24.rpy:94
 translate portuguese v9_walk_w_sam_cont1_da71a6b4:
@@ -190,7 +190,7 @@ translate portuguese v9_walk_w_sam_grayson_1a80acaa:
 translate portuguese v9_walk_w_sam_cameron_14442b9c:
 
     # sa "I was talking about you... us walking... together."
-    sa "Eu estava falando de você... nós caminhando... juntos."
+    sa "Eu estava pensando se você gostaria...de nós caminhando... juntos." #Checar #Verificar.....
 
 # game/v9/scene24.rpy:155
 translate portuguese v9_walk_w_sam_cameron_cbec7a37:
@@ -202,13 +202,13 @@ translate portuguese v9_walk_w_sam_cameron_cbec7a37:
 translate portuguese v9_walk_w_sam_cameron_2c22928c:
 
     # sa "You've been so nice, at a time when I really needed a friend."
-    sa "Você tem sido tão legal, agora nesse momento que eu realmente preciso de um amigo."
+    sa "Você tem sido tão legal, \nagora nesse momento que eu realmente preciso de um amigo."
 
 # game/v9/scene24.rpy:163
 translate portuguese v9_walk_w_sam_cameron_00566635:
 
     # u "Don't mention it."
-    u "Não mencione isso."
+    u "Não é bem verdade isso."
 
 # game/v9/scene24.rpy:167
 translate portuguese v9_walk_w_sam_cameron_99a4b287:
@@ -250,7 +250,7 @@ translate portuguese v9_walk_w_sam_cameron_3c5c5493:
 translate portuguese v9_walk_w_sam_cameron_c8f0417f:
 
     # sa "Took you long enough."
-    sa "Demorou o bastante."
+    sa "Mas levou bastante tempo pra isso acontecer."
 
 # game/v9/scene24.rpy:195
 translate portuguese v9_walk_w_sam_cameron_53670bae:
@@ -304,7 +304,7 @@ translate portuguese v9_walk_w_sam_cont2_de16c73e:
 translate portuguese v9_walk_w_sam_cont2_bf00262c:
 
     # sa "Must be nice. Only saying I remember from my dad is, 'Jesus, Sam, not again!' "
-    sa "Deve ser legal. O único ditado que eu lembro do meu pai é: 'Jesus, Sam, de novo não!' "
+    sa "Deve ser legal. O único ditado que eu lembro do \nmeu pai é: 'Jesus, Sam, de novo não!' "
 
 # game/v9/scene24.rpy:231
 translate portuguese v9_walk_w_sam_cont2_d7098175:
@@ -322,7 +322,7 @@ translate portuguese v9_walk_w_sam_cont2_049c99f6:
 translate portuguese v9_walk_w_sam_cont2_f9ace53a:
 
     # sa "Yeah, I hate to go back inside but I told Cam I was just going out for a smoothie. I should head back."
-    sa "Sim, odeio voltar para dentro, mas disse a Cam que estava saindo por pouco tempo. Então eu tenho que voltar."
+    sa "Sim, odeio voltar para dentro, mas disse ao Cam que estava saindo por pouco tempo. Então eu tenho que voltar."
 
 # game/v9/scene24.rpy:250
 translate portuguese v9_walk_w_sam_walk_again_4e94aa2f:
@@ -346,7 +346,7 @@ translate portuguese v9_walk_w_sam_walk_again_8fb4066d:
 translate portuguese v9_walk_w_sam_walk_again_fbc67742:
 
     # u "I'd love to go on another trip around the pond with you, next time you're up for it."
-    u "Eu vou adorar fazer outro passeio ao redor da lagoa com você, da próxima vez que você estiver pronta para isso."
+    u "Eu vou adorar fazer outro passeio ao redor da lagoa com você, \nda próxima vez que você estiver pronta para isso."
 
 # game/v9/scene24.rpy:263
 translate portuguese v9_walk_w_sam_walk_again_aa31a19e:
@@ -435,4 +435,3 @@ translate portuguese strings:
     # game/v9/scene24.rpy:241
     old "Say goodbye"
     new "Diga adeus"
-

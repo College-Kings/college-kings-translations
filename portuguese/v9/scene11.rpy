@@ -4,7 +4,7 @@
 translate portuguese v9_hc_demo_b8a17200:
 
     # pe "*Deep voice* Hark, good sir, it is I, your king. This is my bride, yur queen."
-    pe "*Voz Grossa* Escuta, bom senhor, eu sou o seu rei. E esta é a minha noiva, sua rainha."
+    pe "*Voz Grossa* Escuta, bom senhor, eu sou Kfar o seu rei. E esta é a minha noiva, sua rainha."
 
 # game/v9/scene11.rpy:32
 translate portuguese v9_hc_demo_49a7f6b9:
@@ -64,7 +64,7 @@ translate portuguese v9_hc_demo_1b98cfe7:
 translate portuguese v9_hc_demo_rec_a70466b8:
 
     # u "Well met, Your Majesty. And this must be your lovely new bride."
-    u "Bom te conhecer, Vossa Majestade. E esta deve ser a sua nova adorável noiva."
+    u "Bom te conhecer, Vossa Majestade Kfar. \nE esta deve ser a sua nova adorável noiva."
 
 # game/v9/scene11.rpy:116
 translate portuguese v9_hc_demo_rec_dcaa595d:
@@ -82,7 +82,7 @@ translate portuguese v9_hc_demo_rec_b6ef4624:
 translate portuguese v9_hc_demo_norec_b9a133af:
 
     # u "Hark, who goes there?"
-    u "Escute, quem é ali?"
+    u "Escute, Kfar então você é o Rei?"
 
 # game/v9/scene11.rpy:131
 translate portuguese v9_hc_demo_norec_a2d6c8ca:
@@ -106,7 +106,7 @@ translate portuguese v9_hc_demo_norec_d41a0c87:
 translate portuguese v9_hc_demo_norec_9455008d:
 
     # pe "My dear bride is not one for the sea. Sick the whole time. What a mess."
-    pe "Minha querida noiva não foi feita para o mar. Enfermo o tempo todo. Foi uma bagunça."
+    pe "Minha querida noiva não foi feita para o mar. \nEnferma o tempo todo. Foi uma bagunça."
 
 # game/v9/scene11.rpy:151
 translate portuguese v9_hc_demo_norec_1b4642cf:
@@ -130,19 +130,19 @@ translate portuguese v9_hc_demo_cont1_87b28197:
 translate portuguese v9_hc_demo_war_41bf3ace:
 
     # u "We have conquered the enemies to the East and South. Much is left to pillage to the West. It's good you've returned to us now. We will need your expert guidance."
-    u "Conquistamos os inimigos do Leste ao Sul. Muito resta para saquear no Ocidente. É bom que você tenha voltado para nós agora. Vamos precisar de sua orientação especializada."
+    u "Conquistamos os inimigos do Leste ao Sul. \nMuito resta para saquear no Ocidente. É bom que você tenha voltado para nós agora. Vamos precisar de sua orientação especializada."
 
 # game/v9/scene11.rpy:179
 translate portuguese v9_hc_demo_war_06535cf8:
 
     # pe "Great news. We spent months cooped up in our cabin, it will be good to get my sword wet again."
-    pe "Ótimas notícias. Passamos meses presos em nossa cabine, será bom molhar minha espada novamente."
+    pe "Ótimas notícias. Passamos meses presos em nossa cabine, \nserá bom molhar minha espada novamente."
 
 # game/v9/scene11.rpy:184
 translate portuguese v9_hc_demo_war_2f6f2c32:
 
     # u "The new bride not to your liking, my King?"
-    u "A nova noiva não é do seu agrado, meu rei?"
+    u "A sua nova noiva não é do seu agrado, meu rei?"
 
 # game/v9/scene11.rpy:189
 translate portuguese v9_hc_demo_war_39fb4920:
@@ -154,7 +154,7 @@ translate portuguese v9_hc_demo_war_39fb4920:
 translate portuguese v9_hc_demo_riches_d31a275b:
 
     # u "Gold and jewel cache is overflowing. We'll need to expand, and soon."
-    u "O ouro e as jóias estão transbordando. Precisaremos expandir, e em breve."
+    u "O ouro e as jóias estão transbordando. \nPrecisaremos expandir, e em breve."
 
 # game/v9/scene11.rpy:199
 translate portuguese v9_hc_demo_riches_6e8f8855:
@@ -166,7 +166,7 @@ translate portuguese v9_hc_demo_riches_6e8f8855:
 translate portuguese v9_hc_demo_riches_94b2f017:
 
     # pe "I promised my new bride riches beyond her wildest dreams and I must deliver, even if it means escalating the war to the West."
-    pe "Prometi à minha nova noiva riquezas além de seus sonhos mais loucos e devo entregar, mesmo que isso signifique uma escalada da guerra para o Ocidente."
+    pe "Prometi pra minha nova noiva riquezas além de seus sonhos mais loucos e devo entregar, mesmo que isso signifique uma escalada da guerra para o Ocidente."
 
 # game/v9/scene11.rpy:206
 translate portuguese v9_hc_demo_riches_4a6a5104:
@@ -232,19 +232,19 @@ translate portuguese v9_hc_demo_north_b57df1f0:
 translate portuguese v9_hc_demo_north_8d4d761c:
 
     # pe "Yes, dear thing can't be away from me for long, can she?"
-    pe "Sim, minha querida não pode estar longe de mim por muito tempo, como poderia?"
+    pe "Sim, minha querida não pode estar longe de mim \npor muito tempo, como poderia?"
 
 # game/v9/scene11.rpy:280
 translate portuguese v9_hc_demo_cont3_70c8a594:
 
     # u "We have set up the royal lair for you and your new bride."
-    u "Nós montamos o quarto real para você e sua nova noiva."
+    u "Nós montamos um quarto real para você e sua nova noiva."
 
 # game/v9/scene11.rpy:285
 translate portuguese v9_hc_demo_cont3_eb88d0da:
 
     # pe "Lovely, I'm whipped after a long sail. Ready to retire with your king, dear bride?"
-    pe "Adorável, sou abatido depois de uma longa viagem. Está pronta para se retirar com seu rei, minha querida noiva?"
+    pe "Adorável, estou abatido depois de uma longa viagem. \nEstá pronta para se retirar com seu rei, minha querida noiva?"
 
 # game/v9/scene11.rpy:290
 translate portuguese v9_hc_demo_cont3_f2953708:
@@ -277,4 +277,3 @@ translate portuguese strings:
     # game/v9/scene11.rpy:229
     old "West"
     new "Vamos ir para o Oeste."
-

@@ -312,11 +312,11 @@ translate portuguese strings:
 
     # game/v9/scene01.rpy:214
     old "You here yet?"
-    new "Você ainda está aí?"
+    new "Você ainda está aqui?"
 
     # game/v9/scene01.rpy:215
     old "Yeah, you ready?"
-    new "Claro, está preparado?"
+    new "Claro, está pronto?"
 
     # game/v9/scene01.rpy:216
     old "Hell no! But we need to get ready!"

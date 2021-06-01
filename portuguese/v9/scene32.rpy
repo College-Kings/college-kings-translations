@@ -10,13 +10,13 @@ translate portuguese v9_sat_gym_90842537:
 translate portuguese v9_sat_hit_gym_b9ee1b75:
 
     # u "Hey, you seem to handle that bench pretty easy."
-    u "Ei, você parece lidar com isso com muita facilidade."
+    u "Ei, você parece estar lidando com isso com muita facilidade."
 
 # game/v9/scene32.rpy:46
 translate portuguese v9_sat_hit_gym_60664cc8:
 
     # ev "Yeah, I'm trying to focus on reps rather than increasing my weight endurance. The more times you do something the better, practice makes perfect. I'm sure you at least picked up on that in school."
-    ev "Sim, estou tentando me concentrar em aumentar pesos em vez de aumentar minha resistência. Quanto mais vezes você fizer melhor fica, a prática faz a perfeição. Tenho certeza de que você pelo menos pegou isso na escola."
+    ev "Sim, estou tentando me concentrar em aumentar a resistencia em vez de aumentar os peso. Quanto mais vezes você fizer melhor fica, a prática faz a perfeição. Tenho certeza de que você pelo menos pegou isso na escola."
 
 # game/v9/scene32.rpy:50
 translate portuguese v9_sat_hit_gym_cd1bc029:
@@ -167,4 +167,3 @@ translate portuguese strings:
     # game/v9/scene32.rpy:164
     old "Man, I'd really love to but..."
     new "Eu realmente adoraria, mas..."
-

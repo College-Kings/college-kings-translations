@@ -280,7 +280,7 @@ translate portuguese v9_at_warehouse_2d08c8b5:
 translate portuguese v9_at_warehouse_a67e0c96:
 
     # u "(I wonder if that's gonna stick. Not bad as far as nicknames go, though.)"
-    u "(Me Pergunto se isso vai pegar. Mas nada mal pra um apelidos, entretanto)."
+    u "(Me Pergunto se isso vai pegar. Mas esse não é nada mal pra um apelido, no entanto)."
 
 # game/v9/scene42.rpy:315
 translate portuguese v9_at_warehouse_f6bbd778:
@@ -298,7 +298,7 @@ translate portuguese v9_at_warehouse_5680ff22:
 translate portuguese v9_at_warehouse_648d380f:
 
     # gr "There's a lot riding on this fight. Not only our reputations, but power over the whole school. You can walk through the halls and KNOW you won't be fucked with."
-    gr "Há muita coisa a ser feita nessa luta. Não só nossa reputação, mas o poder sobre toda a escola. Você pode andar pelos corredores e SABER que não vai ser fodido."
+    gr "Há muita coisa a ser feita nessa luta. Não só nossa reputação, \nmas o poder sobre toda a escola. Você pode andar pelos corredores e SABER que não vai ser fodido."
 
 # game/v9/scene42.rpy:330
 translate portuguese v9_at_warehouse_35acd71f:
@@ -328,13 +328,13 @@ translate portuguese v9_at_warehouse_833b402c:
 translate portuguese v9_at_warehouse_120e7f58:
 
     # u "(He's sure amped up, but what's Sebastian got to do with it?)"
-    u "(Ele está bem amparado, mas o que Sebastian tem a ver com isso?)"
+    u "(O Cam bem distraído, mas o que Sebastian tem a ver com isso?)"
 
 # game/v9/scene42.rpy:362
 translate portuguese v9_at_warehouse_af53b222:
 
     # gr "Come take over. I have to make sure shit's ready to go."
-    gr "Venha tomar conta. Tenho que ter certeza de que as coisas estão prontas pra acontecer."
+    gr "Venha tomar conta. Tenho que ter certeza de que as coisas \nestão prontas pra acontecer."
 
 # game/v9/scene42.rpy:367
 translate portuguese v9_at_warehouse_639fb2ad:
@@ -370,7 +370,7 @@ translate portuguese v9_at_warehouse_05a7aabd:
 translate portuguese v9_at_warehouse_2b9af87d:
 
     # ca "YOU HEAR ME?!"
-    ca "VOCÊ OUVE-ME?!"
+    ca "VOCÊS ME OUVIRAM?!"
 
 # game/v9/scene42.rpy:401
 translate portuguese v9_at_warehouse_e48abf28:
@@ -382,13 +382,13 @@ translate portuguese v9_at_warehouse_e48abf28:
 translate portuguese v9_at_warehouse_fb32b427:
 
     # cal "They'll wish they never even pledged in the first place!"
-    cal "Eles vão desejar que nunca tivessem se comprometido em primeiro lugar!"
+    cal "Eles vão desejar que nunca tivessem se comprometido com aqueles fracassados em primeiro lugar!"
 
 # game/v9/scene42.rpy:408
 translate portuguese v9_at_warehouse_847f313b:
 
     # ca "Come out swinging and leave nothing to chance. Fuck their shit up!"
-    ca "Saiam balançando e não deixem nenhuma chance pra eles. Fodem com esses filhos da putas!"
+    ca "Saiam balançando e não dêem nenhuma chance pra eles. \nFodem com esses filhos da putas!"
 
 # game/v9/scene42.rpy:411
 translate portuguese v9_at_warehouse_2750ce43:
@@ -406,7 +406,7 @@ translate portuguese v9_at_warehouse_64ac2f89:
 translate portuguese v9_at_warehouse_0cd84d77:
 
     # ry "Ha! Same, bro. Same."
-    ry "Ha! O também mano. O mesmo."
+    ry "Ha! também mano. O mesmo."
 
 # game/v9/scene42.rpy:426
 translate portuguese v9_at_warehouse_a841d113:
@@ -424,7 +424,7 @@ translate portuguese v9_at_warehouse_8574e584:
 translate portuguese v9_at_warehouse_38baaa66:
 
     # ca "Apes don't fail and failures can't be Apes. Am I clear?"
-    ca "Os Gorilas não fracassam e os fracassos não podem ser Gorilas. Fui claro?"
+    ca "Os Gorilas não fracassam e os fracassados não podem ser Gorilas. Fui claro?"
 
 # game/v9/scene42.rpy:441
 translate portuguese v9_at_warehouse_9acb7c8a:
@@ -490,9 +490,8 @@ translate portuguese strings:
 
     # game/v9/scene42.rpy:397
     old "Get pumped"
-    new "Seja bombardeado."
+    new "Ficar animado."
 
     # game/v9/scene42.rpy:397
     old "Ask Cameron what's up"
     new "Perguntar ao Cameron o que está acontecendo."
-

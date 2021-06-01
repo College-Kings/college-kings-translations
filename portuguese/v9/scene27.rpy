@@ -76,7 +76,7 @@ translate portuguese v9_train_w_apes_5431d25d:
 translate portuguese v9_train_w_apes_a935c7a1:
 
     # u "Hey, man, I think you're nice and all but you're not my type."
-    u "Ei, cara, eu acho que vocês são legais e tudo, mas não são meu tipo."
+    u "Ei, Can, eu acho que você legal e tudo, mas não é o meu tipo amigo."
 
 # game/v9/scene27.rpy:99
 translate portuguese v9_train_w_apes_37f29506:
@@ -100,13 +100,13 @@ translate portuguese v9_train_w_apes_9f0e6521:
 translate portuguese v9_train_w_apes_f79b4567:
 
     # ca "If you assholes think you're making a fool out of this house tomorrow, you got another thing coming."
-    ca "Se vocês, imbecis, acham que estão fazendo esta casa de bobo amanhã, vocês têm outra coisa a vindo."
+    ca "Se vocês, imbecis, acham que estão fazendo esta casa de bobo amanhã, vocês vão ter outra coisa vindo aí."
 
 # game/v9/scene27.rpy:115
 translate portuguese v9_train_w_apes_4c1ed076:
 
     # ca "This guy here! He's the only one of you shit stains I trust to wear our name. He's gonna pull a big crowd for the Brawl and they'll all be chanting his name. [name]! [name]!"
-    ca "Este cara aqui! Ele é o único entre vocês sujeiras de lixos que eu confio para usar nosso nome. Ele vai puxar uma grande multidão pra a briga e todos vão cantar o nome dele. [name]! [name]!"
+    ca "Este cara aqui! Ele é o único entre vocês sujeiras de lixos que eu confio para usar nosso nome. Ele vai puxar uma grande multidão pra a briga e todos vão cantar o nome dele.  [name]!  [name]!"
 
 # game/v9/scene27.rpy:120
 translate portuguese v9_train_w_apes_acd9cc76:
@@ -136,19 +136,19 @@ translate portuguese v9_train_w_apes_bb6c5f14:
 translate portuguese v9_train_w_apes_8edded3f:
 
     # ca "You. Weight bench. Don't stop til you puke!"
-    ca "Você. Levante alguns pesos no banco. Não para até vomitar!"
+    ca "Você. Levante alguns pesos no banco. E não para até vomitar!"
 
 # game/v9/scene27.rpy:146
 translate portuguese v9_train_w_apes_988526b3:
 
     # ca "And you, go punch something."
-    ca "E você, vá dar socos em alguma coisa."
+    ca "E você, vai dar socos em alguma coisa."
 
 # game/v9/scene27.rpy:152
 translate portuguese v9_train_w_apes_667562ba:
 
     # ca "And Rocky. I'm sure you don't need my help. You're already famous."
-    ca "E Rocky. Tenho certeza que você não precisa da minha ajuda. Você já é famoso."
+    ca "E Rocky. Tenho certeza que você não precisa da minha ajuda. \nVocê já é famoso."
 
 # game/v9/scene27.rpy:161
 translate portuguese v9_train_w_apes_b6c55d53:
@@ -166,13 +166,13 @@ translate portuguese v9_train_w_apes_98c0e1b1:
 translate portuguese v9_train_w_apes_96c5b347:
 
     # ca "When I get done with you, no punk will even THINK about starting shit again. You hear me?"
-    ca "Quando eu terminar com você, nenhum punk vai sequer PENSAR sobre te encarar de novo. Você está me ouvindo?"
+    ca "Quando eu terminar com você, nenhum punk vai sequer PENSAR \nem te encarar de novo. Você está me ouvindo?"
 
 # game/v9/scene27.rpy:179
 translate portuguese v9_train_w_apes_f95a5b53:
 
     # u "Aww, I don't know. It wasn't that big a deal."
-    u "Aww, não sei. Não foi nada de mais."
+    u "Ah, não sei. Não foi nada de mais."
 
 # game/v9/scene27.rpy:184
 translate portuguese v9_train_w_apes_6589919d:
@@ -202,7 +202,7 @@ translate portuguese v9_train_w_apes_4be08fd5:
 translate portuguese v9_train_w_apes_1c9d3127:
 
     # ca "You got an arm. That's clear. What you need is options."
-    ca "Você tem um braço. Isso está claro. O que você precisa é de opções."
+    ca "Você tem um braço bom. Isso está claro. O que você precisa é de opções."
 
 # game/v9/scene27.rpy:206
 translate portuguese v9_train_w_apes_6e511561:
@@ -232,7 +232,7 @@ translate portuguese v9_train_w_apes_1f1d929c:
 translate portuguese v9_train_w_apes_76d47545:
 
     # ca "Footwork. That's where it's at. You have the power behind that fist. They're expecting it. You gotta hit 'em WHERE they're not expecting."
-    ca "Trabalho de pés. É aí que está. Você tem o poder por trás desse punho. Eles estão esperando por ele. Você tem que atingir eles ONDE não estão esperando."
+    ca "Trabalho de pés. É aí que está. Você tem o poder por trás desse punho. Eles estão esperando por ele. Você tem que atingir eles onde não estão esperando."
 
 # game/v9/scene27.rpy:231
 translate portuguese v9_train_w_apes_b6911cac:
@@ -250,7 +250,7 @@ translate portuguese v9_train_w_apes_215f6516:
 translate portuguese v9_train_w_apes_9df498ac:
 
     # ca "Now your turn. Imagine him standing right in front of you and get as many sneak shots in as possible. Balls, kidneys, throat, I don't care. Go for the kill!"
-    ca "Agora é a sua vez. Imagine ele de pé bem na sua frente e dê o maior número possível de tiros sorrateiros. Bolas, rins, garganta, eu não me importo. Vai pra matar!"
+    ca "Agora é a sua vez. Imagine ele de pé bem na sua frente e dê o maior número possível de tiros sorrateiros. \nBolas, rins, garganta, eu não me importo. Vai pra matar!"
 
 # game/v9/scene27.rpy:247
 translate portuguese v9_train_w_apes_e7dacb23:
@@ -274,13 +274,13 @@ translate portuguese v9_train_w_apes_fbfedc5f:
 translate portuguese v9_train_w_apes_9bf261e4:
 
     # u "(I'm not trying to send someone to the fucking hospital here.)"
-    u "(Não estou tentando mandar alguém para a porra de um hospital aqui.)"
+    u "(Não estou tentando mandar alguém \npara a porra de um hospital aqui.)"
 
 # game/v9/scene27.rpy:262
 translate portuguese v9_train_w_apes_520929c1:
 
     # ca "Come on, man. We fight to win in this house. Are you an Ape or not?"
-    ca "Vamos lá, cara. Nós brigamos pra ganhar aqui nesta casa. Você é um Gorila ou não?"
+    ca "Vamos lá, cara. Nós brigamos pra ganhar aqui nesta casa. \nVocê é um Gorila ou não?"
 
 # game/v9/scene27.rpy:267
 translate portuguese v9_train_w_apes_6d2019f8:
@@ -298,7 +298,7 @@ translate portuguese v9_train_w_apes_99f67875:
 translate portuguese v9_train_w_apes_4541d05a:
 
     # ca "Good! I'll be back after I whip these pussies into something resembling a man."
-    ca "Ótimo! Vou voltar depois de chicotear esses bichinhas, deixar eles parecido em um homem."
+    ca "Ótimo! Vou voltar depois que eu chicotear essas bichinhas, \ndeixar eles parecido com um homem."
 
 # game/v9/scene27.rpy:282
 translate portuguese v9_train_w_apes_08fbf1be:
@@ -340,7 +340,7 @@ translate portuguese v9_train_w_apes_c8407da0:
 translate portuguese v9_train_w_apes_beb7ec18:
 
     # u "(Great. If he's gonna make Caleb puke on the weight bench, I can't wait to see what he has in store for me.)"
-    u "(Ótimo. Se ele vai fazer o Caleb vomitar no banco de pesos, mal posso esperar para ver o que ele tem reservado para mim.)"
+    u "(Ótimo. Se ele vai fazer o Caleb vomitar no banco de pesos, \nmal posso esperar para ver o que ele tem reservado para mim.)"
 
 # game/v9/scene27.rpy:319
 translate portuguese v9_train_w_apes_6468dd5e:
@@ -364,7 +364,7 @@ translate portuguese v9_train_w_apes_16bf1016:
 translate portuguese v9_train_w_apes_dd03a9e3:
 
     # u "Look. I was just trying not to fight in the middle of school. You want me to get expelled or something? Geez."
-    u "Veja. Eu só estava tentando não brigar no meio da escola. Você quer que eu seja expulso ou algo assim? Meu deus cara."
+    u "Veja. Eu só estava tentando não brigar no meio da escola. \nVocê quer que eu seja expulso ou algo assim? Meu deus cara."
 
 # game/v9/scene27.rpy:333
 translate portuguese v9_train_w_apes_83694a48:
@@ -376,7 +376,7 @@ translate portuguese v9_train_w_apes_83694a48:
 translate portuguese v9_train_w_apes_1fdba394:
 
     # ca "If you were a Wolf and you knew your opponent was a pussy who got his ass knocked out, what would you be thinking?"
-    ca "Se você fosse um Lobo e soubesse que seu oponente é uma bichinha que levou uma surra, o que você estaria pensando?"
+    ca "Se você fosse um Lobo e soubesse que seu oponente é uma bichinha\n que levou uma surra, o que você estaria pensando?"
 
 # game/v9/scene27.rpy:343
 translate portuguese v9_train_w_apes_cbfa1a34:
@@ -412,7 +412,7 @@ translate portuguese v9_train_w_apes_a0e42609:
 translate portuguese v9_train_w_apes_5566f872:
 
     # ca "Your guy's gonna come off that bell like a cheetah and you have to be ready."
-    ca "Seu cara vai sair daquele sino como um guepardo e você tem que estar pronto."
+    ca "Seu cara vai sair daquele sino como um guepardo\n e você tem que estar pronto."
 
 # game/v9/scene27.rpy:392
 translate portuguese v9_train_w_apes_2e926852:
@@ -448,7 +448,7 @@ translate portuguese v9_train_w_apes_310c19c1:
 translate portuguese v9_train_w_apes_f9e2528e:
 
     # ca "When I get done with those guys, we'll talk about sneak shots. Balls, kidneys, throat. Sweep him to the ground and strike fast!"
-    ca "Quando eu terminar com esses caras, falaremos de tiros sorrateiros. Bolas, rins, garganta. Derrube ele no chão e ataque rápido!"
+    ca "Quando eu terminar com esses caras, falaremos de tiros sorrateiros. \nBolas, rins, garganta. Derrube ele no chão e ataque rápido!"
 
 # game/v9/scene27.rpy:419
 translate portuguese v9_train_w_apes_58e43061:
@@ -472,7 +472,7 @@ translate portuguese v9_train_w_apes_fe5d9856:
 translate portuguese v9_train_w_apes_0da2bbca:
 
     # ca "Took you long enough. Good job. I thought you'd drop a long time ago. Puke or pass out. That's how you know you're done!"
-    ca "Aguentou o suficiente. Bom trabalho. Pensei que você já tivesse caído há muito tempo. Vomitar ou desmaiar. É assim que você sabe que acabou!"
+    ca "Aguentou o suficiente. Bom trabalho. Pensei que você já tivesse caído há muito tempo. Vomitar ou desmaiar. \nÉ assim que você sabe que acabou!"
 
 translate portuguese strings:
 
@@ -482,9 +482,8 @@ translate portuguese strings:
 
     # game/v9/scene27.rpy:240
     old "Be pumped"
-    new "Seja bombardeado."
+    new "Bombarder o saco."
 
     # game/v9/scene27.rpy:240
     old "Be concerned"
     new "Ficar preoucupado."
-

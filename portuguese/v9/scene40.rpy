@@ -82,7 +82,7 @@ translate portuguese v9_wolves_pre_fight_40ad6bd3:
 translate portuguese v9_wolves_pre_fight_7d381fc2:
 
     # se "Lights out."
-    se "Apague as luzes."
+    se "Põe essa vendas."
 
 # game/v9/scene40.rpy:106
 translate portuguese v9_wolves_pre_fight_0a6077fc:

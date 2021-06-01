@@ -4,13 +4,13 @@
 translate portuguese v9_call_w_lindsey_71fbada3:
 
     # u "(What a jam-packed day. And this wasn't even the real deal. Tomorrow is showtime.)"
-    u "(Que dia cheio. E este nem sequer foi o verdadeiro negócio. Amanhã é hora do show.)"
+    u "(Que dia cheio. E este nem sequer foi o verdadeiro negócio. \nAmanhã é hora do show.)"
 
 # game/v9/scene28.rpy:14
 translate portuguese v9_call_w_lindsey_40e33fe2:
 
     # u "(I didn't see myself going down this road when I started college, but I'm in too deep now. There's no way I'll lose, no way in hell.)"
-    u "(Eu não me vi seguindo esse caminho quando comecei a faculdade, mas agora estou muito fundo. Não há como eu perder, de maneira nenhuma.)"
+    u "(Eu não me vi seguindo esse caminho quando comecei a faculdade, mas agora estou muito fundo. Não há como eu perder, \nde maneira nenhuma.)"
 
 # game/v9/scene28.rpy:24
 translate portuguese v9_call_w_lindsey_3f8c31a9:
@@ -52,25 +52,25 @@ translate portuguese v9_call_w_lindsey_707111c7:
 translate portuguese v9_call_w_lindsey_521f2093:
 
     # li "Ha, guess you'll never know. Anyway though, I called to ask how you're feeling about the fight tomorrow?"
-    li "Ha, acho que você nunca vai saber. De qualquer forma, eu liguei pra te perguntar como você está se sentindo sobre a luta de amanhã?"
+    li "Ha, acho que você nunca vai saber. De qualquer forma, eu te liguei pra te perguntar como você está se sentindo sobre a luta de amanhã?"
 
 # game/v9/scene28.rpy:55
 translate portuguese v9_call_w_lindsey_72e82999:
 
     # li "I gave you my number but you never called so I got your number from Aubrey."
-    li "Eu te mandei meu número, mas você nunca ligou, então eu pedi seu número com a Aubrey."
+    li "Eu te mandei meu número, \nmas você nunca me ligou, então eu pedi seu número com a Aubrey."
 
 # game/v9/scene28.rpy:57
 translate portuguese v9_call_w_lindsey_c6448d1f:
 
     # li "Anyway, this fight could be major for you. Think you'll come out on top?"
-    li "De qualquer forma, essa luta pode ser importante pra você. Acha que você vai sair por cima?"
+    li "De qualquer forma, essa luta pode ser importante pra você. \nAcha que você vai sair por cima?"
 
 # game/v9/scene28.rpy:63
 translate portuguese v9_call_w_lindsey_8ad56a83:
 
     # u "Does a fish need water? Of course I'll come out on top. When I set my mind to something that's it, mission accomplished."
-    u "Será que um peixe precisa de água? Claro que eu vou sair por cima. Quando eu me comprometo com algo é isso, missão cumprida."
+    u "Será que um peixe precisa de água? \nClaro que eu vou sair por cima. \nQuando eu me comprometo com algo é isso, missão cumprida."
 
 # game/v9/scene28.rpy:66
 translate portuguese v9_call_w_lindsey_a8ba2731:
@@ -88,7 +88,7 @@ translate portuguese v9_call_w_lindsey_ff298235:
 translate portuguese v9_call_w_lindsey_f8b84bf1:
 
     # li "I like where your head is at. Just don't go acting a fool and getting yourself hurt."
-    li "Gosto de onde sua cabeça está. Só não seja tolo e se machuque."
+    li "Gosto de onde sua cabeça está. \nSó não seja tolo e se machuque."
 
 # game/v9/scene28.rpy:79
 translate portuguese v9_call_w_lindsey_ea125876:
@@ -112,13 +112,13 @@ translate portuguese v9_call_w_lindsey_81e9007d:
 translate portuguese v9_call_w_lindsey_831ff80d:
 
     # li "Someone's looking to feel special before his big day I see."
-    li "Alguém está procurando se sentir especial antes do seu grande dia que eu vejo."
+    li "Alguém está procurando se sentir especial \nantes do seu grande dia que eu vejo."
 
 # game/v9/scene28.rpy:95
 translate portuguese v9_call_w_lindsey_befdb319:
 
     # li "If you must know, some of my girlfriends were talking about some of this year's new fighters and your name came up so I thought I'd see how you were feeling."
-    li "Se você deve saber, algumas das minhas meninas estavam falando sobre alguns novos lutadores deste ano e seu nome surgiu, então pensei em ver como você estava se sentindo."
+    li "Se você quer saber, algumas das minhas meninas estavam falando sobre alguns novos lutadores deste ano e seu nome surgiu, então pensei em ver como você estava se sentindo."
 
 # game/v9/scene28.rpy:100
 translate portuguese v9_call_w_lindsey_1cffbf9a:
@@ -154,7 +154,7 @@ translate portuguese v9_call_w_lindsey_5788969f:
 translate portuguese v9_call_w_lindsey_9443a35c:
 
     # u "(Was she hinting at something? \"I could be even sweeter\", what does that mean? Oh well, time to get some rest. I got a big day tomorrow.)"
-    u "(Ela estava insinuando alguma coisa? \"Eu poderia ser ainda mais doce\", o que isso quis dizer? Bem, é hora de descansar um pouco. Tenho um grande dia amanhã.)"
+    u "(Ela estava insinuando alguma coisa? \"Eu poderia ser ainda mais doce\", \no que isso quis dizer? Bem, é hora de descansar um pouco. Tenho um grande dia amanhã.)"
 
 # game/v9/scene28.rpy:143
 translate portuguese v9_call_w_lindsey_71fbada3_1:
@@ -166,7 +166,7 @@ translate portuguese v9_call_w_lindsey_71fbada3_1:
 translate portuguese v9_call_w_lindsey_40e33fe2_1:
 
     # u "(I didn't see myself going down this road when I started college, but I'm in too deep now. There's no way I'll lose, no way in hell.)"
-    u "(Eu não me vi seguindo esse caminho quando entre aqui na faculdade, mas agora estou muito fundo. Não há como eu perder, de maneira nenhuma.)"
+    u "(Eu não me vi seguindo esse caminho quando entre aqui na faculdade, mas agora estou muito fundo. Não há como eu perder, \nde maneira nenhuma.)"
 
 # game/v9/scene28.rpy:154
 translate portuguese v9_call_w_lindsey_3f8c31a9_1:
@@ -208,7 +208,7 @@ translate portuguese v9_call_w_lindsey_707111c7_1:
 translate portuguese v9_call_w_lindsey_4add2e92:
 
     # li "Ha, guess you'll never know. Anyway though, I called to ask how you're feeling about the fight tomorrow. This could be major for you. Think you'll come out on top?"
-    li "Ha, acho que você nunca vai saber. De qualquer forma, eu liguei pra perguntar como você está se sentindo sobre a luta de amanhã. Isto pode ser importante para você. Acha que você vai se dar bem?"
+    li "Ha, acho que você nunca vai saber. De qualquer forma, eu te liguei pra perguntar como você está se sentindo sobre a luta de amanhã. \nIsto pode ser importante para você. Acha que você vai se dar bem?"
 
 # game/v9/scene28.rpy:190
 translate portuguese v9_call_w_lindsey_8ad56a83_1:
@@ -250,7 +250,7 @@ translate portuguese v9_call_w_lindsey_074433a9_1:
 translate portuguese v9_call_w_lindsey_81e9007d_1:
 
     # u "So are you calling all the fighters tonight or just me."
-    u "Então, você está ligando pra todos os lutadores esta noite ou apenas pra mim?"
+    u "Então, você está ligando pra todos os lutadores esta noite \nou apenas pra mim?"
 
 # game/v9/scene28.rpy:221
 translate portuguese v9_call_w_lindsey_831ff80d_1:
@@ -262,7 +262,7 @@ translate portuguese v9_call_w_lindsey_831ff80d_1:
 translate portuguese v9_call_w_lindsey_befdb319_1:
 
     # li "If you must know, some of my girlfriends were talking about some of this year's new fighters and your name came up so I thought I'd see how you were feeling."
-    li "Se você quer saber, algumas de minhas garotas estavam falando sobre alguns dos novos lutadores deste ano e seu nome apareceu, então pensei em ver como você estava se sentindo."
+    li "Se você quer saber, algumas de minhas garotas estavam falando sobre alguns dos novos lutadores deste ano e seu nome apareceu, \nentão pensei em ver como você estava se sentindo."
 
 # game/v9/scene28.rpy:227
 translate portuguese v9_call_w_lindsey_1cffbf9a_1:
@@ -299,4 +299,3 @@ translate portuguese v9_call_w_lindsey_9443a35c_1:
 
     # u "(Was she hinting at something? \"I could be even sweeter\", what does that mean? Oh well, time to get some rest. I got a big day tomorrow.)"
     u "(Ela estava insinuando alguma coisa? \"Eu poderia ser ainda mais doce\", o que isso significa? Bem, é hora de descansar um pouco. Tenho um grande dia amanhã.)"
-

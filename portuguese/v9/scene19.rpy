@@ -232,7 +232,7 @@ translate portuguese v9_lau_dorm_97fba12b:
 translate portuguese v9_lau_dorm_ca52d90a:
 
     # u "Hmm. I see why you're stressed. But don't worry. We can come up with something just as awesome."
-    u "Hmm. Estou vendo porque você está estressado. Mas não se preocupe. Nós podemos inventar algo igualmente fantástico."
+    u "Hmm. Estou vendo porque você está estressada. Mas não se preocupe. Nós podemos inventar algo igualmente fantástico."
 
 # game/v9/scene19.rpy:243
 translate portuguese v9_lau_dorm_6ec484d9:
@@ -250,19 +250,19 @@ translate portuguese v9_lau_dorm_4b086a50:
 translate portuguese v9_lau_dorm_fa478350:
 
     # u "How about a hand job booth?"
-    u "Que tal uma estande de trabalho manual?"
+    u "Que tal uma estande de artesanato?"
 
 # game/v9/scene19.rpy:259
 translate portuguese v9_lau_dorm_b5a78e4d:
 
     # u "Everyone but you, of course."
-    u "Todos, menos você, é claro."
+    u "Todos criando algo, mas você não precisa, é claro."
 
 # game/v9/scene19.rpy:264
 translate portuguese v9_lau_dorm_f6595565:
 
     # la "You want me to run a booth of hand jobs and not participate?"
-    la "Você quer que eu dirija um estande de trabalhos manuais e não participe?"
+    la "Você quer que eu dirija um estande de artesanatos e não participe?"
 
 # game/v9/scene19.rpy:269
 translate portuguese v9_lau_dorm_c272cb46:
@@ -280,13 +280,13 @@ translate portuguese v9_lau_dorm_9ccb934b:
 translate portuguese v9_lau_dorm_0b5a6c58:
 
     # u "I'm sure there's already a kissing booth."
-    u "Tenho certeza de que já existe uma cabine de beijos."
+    u "Tenho certeza de que já estão fazendo \num esntande de beijos."
 
 # game/v9/scene19.rpy:282
 translate portuguese v9_lau_dorm_0a68fef9:
 
     # la "Not sure, but I don't think that would compete with mud wrestling."
-    la "Não tenho certeza, mas acho que isso não iria competir com a luta na lama."
+    la "Não tenho certeza, \nmas acho que isso não iria competir com a luta na lama."
 
 # game/v9/scene19.rpy:287
 translate portuguese v9_lau_dorm_1bf547b6:
@@ -310,7 +310,7 @@ translate portuguese v9_lau_dorm_438cdf47:
 translate portuguese v9_lau_dorm_d07f6684:
 
     # la "Liability."
-    la "Responsabilidade civil."
+    la "Olha a responsabilidade civil rapaz."
 
 # game/v9/scene19.rpy:308
 translate portuguese v9_lau_dorm_b7e5e943:
@@ -322,7 +322,7 @@ translate portuguese v9_lau_dorm_b7e5e943:
 translate portuguese v9_lau_dorm_a1a00266:
 
     # u "Five bucks to punch Chris in the face. It's for charity. He'd do it."
-    u "Que tal, R$ 20,00 para dar um soco no rosto de Chris. É pra caridade. Ele faria."
+    u "Que tal, R$ 20,00 para dar um soco no rosto do Chris. É pra caridade. Ele faria."
 
 # game/v9/scene19.rpy:316
 translate portuguese v9_lau_dorm_4a847933:
@@ -352,7 +352,7 @@ translate portuguese v9_lau_dorm_a3251769:
 translate portuguese v9_lau_dorm_ad2b6e35:
 
     # la "Oh, yeah. Cakes are a classic at charity events. But the living statue does sound like it would draw a crowd. I don't know. What would you do if it were your booth?"
-    la "Ah, é verdade. Os bolos são um clássico em eventos de caridade. Mas a estátua viva soa como se atraísse uma multidão. Eu não sei. O que você faria se fosse o seu estande?"
+    la "Ah, é verdade. Os bolos são um clássico em eventos de caridade. Mas a estátua viva soa como se atraísse uma multidão. Eu não sei. \nO que você faria se fosse o seu estande?"
 
 # game/v9/scene19.rpy:343
 translate portuguese v9_lau_dorm_6d3dc536:
@@ -382,7 +382,7 @@ translate portuguese v9_lau_dorm_8b365be2:
 translate portuguese v9_lau_dorm_9aadab31:
 
     # u "Yeah, I guess it comes down to which you prefer? Playing it safe, or pushing the envelope."
-    u "Sim, acho que se resume ao que você prefere? Jogar pelo seguro, ou empurramos nossos limites."
+    u "Sim, acho que se resume ao que você prefere? \nJogar pelo seguro, ou empurramos nossos limites."
 
 # game/v9/scene19.rpy:368
 translate portuguese v9_lau_dorm_943462c1:
@@ -466,7 +466,7 @@ translate portuguese v9_lau_dorm_dbfec190:
 translate portuguese v9_lau_dorm_f48cdd28:
 
     # la "Statues!"
-    la "Estátuas!"
+    la "Estátua!"
 
 # game/v9/scene19.rpy:445
 translate portuguese v9_lau_dorm_63622fbf:
@@ -478,7 +478,7 @@ translate portuguese v9_lau_dorm_63622fbf:
 translate portuguese v9_lau_dorm_f7f2d700:
 
     # la "We'll need paint, obviously. And something to stand on."
-    la "Vamos precisar de tinta, obviamente. E de algo para ficar de pé."
+    la "Vamos precisar de tinta, obviamente. E de algo para poder ficar em pé."
 
 # game/v9/scene19.rpy:460
 translate portuguese v9_lau_dorm_dab64db5:
@@ -508,7 +508,7 @@ translate portuguese v9_lau_dorm_bcd56699:
 translate portuguese v9_lau_dorm_8931f6be:
 
     # u "Man, my eyes are starting to cross. I gotta move around a bit."
-    u "Cara, meus olhos estão começando a se fecharem. Eu tenho que me andar um pouco."
+    u "Cara, meus olhos estão começando a se cruzarem. Eu tenho que sair um pouco."
 
 # game/v9/scene19.rpy:485
 translate portuguese v9_lau_dorm_ff0decb3:
@@ -598,13 +598,13 @@ translate portuguese v9_lau_dorm_fe2c8fa0:
 translate portuguese v9_lau_dorm_6ca876a2:
 
     # u "It's gonna be a great event. Those Deer will be begging you to host every event from now on."
-    u "Vai ser um grande evento. Os cervos vão implorar que você seja o anfitrião de cada evento a partir de agora."
+    u "Vai ser um grande evento. Os Cervos vão implorar que você seja \na anfitriã de cada evento a partir de agora."
 
 # game/v9/scene19.rpy:595
 translate portuguese v9_lau_dorm_c2f13ed3:
 
     # la "You think so? It is fun. And I love giving back to the community."
-    la "Você acha que sim? É divertido. E eu adoro retribuir a comunidade."
+    la "Você acha isso? É divertido. E eu adoro retribuir a comunidade."
 
 # game/v9/scene19.rpy:600
 translate portuguese v9_lau_dorm_6655a0ee:
@@ -628,13 +628,13 @@ translate portuguese v9_lau_dorm_b685d4da:
 translate portuguese v9_lau_dorm_1834ca88:
 
     # u "Maybe one day we'll start a party planning business together!"
-    u "Talvez um dia começamos juntos um negócio de planejamento de festas!"
+    u "Talvez um dia devemos começar um negócio de planejamento de festas juntos!"
 
 # game/v9/scene19.rpy:618
 translate portuguese v9_lau_dorm_b864fb06:
 
     # la "Great to have a backup plan."
-    la "É ótimo ter um plano de apoio."
+    la "É ótimo ter um plano para uma opção."
 
 # game/v9/scene19.rpy:639
 translate portuguese v9_lau_dorm_no_kiss_462fe8ce:
@@ -692,9 +692,8 @@ translate portuguese strings:
 
     # game/v9/scene19.rpy:586
     old "Credit Lauren"
-    new "Crédito a Lauren."
+    new "Dar o crédito a Lauren."
 
     # game/v9/scene19.rpy:586
     old "Take some credit"
-    new "Pegue algum crédito."
-
+    new "Dividir os crédito."

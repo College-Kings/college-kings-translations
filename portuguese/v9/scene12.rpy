@@ -40,7 +40,7 @@ translate portuguese v9_hall_apol_719c0a01:
 translate portuguese v9_hall_apol_860d091d:
 
     # unknown "Watch where you're fucking walking, bitch!"
-    unknown "Vê por onde andas, cuzão!"
+    unknown "Vê por onde anda, cuzão!"
 
 # game/v9/scene12.rpy:74
 translate portuguese v9_hall_calm_d66fe900:
@@ -52,7 +52,7 @@ translate portuguese v9_hall_calm_d66fe900:
 translate portuguese v9_hall_calm_c47ba31b:
 
     # u "I guess we should watch where we're going. No hard feelings, are we cool?"
-    u "Devíamos ter cuidado por onde nos andamos. Sem ressentimentos, estamos bem?"
+    u "Devíamos ter cuidado por onde nos andamos. \nSem ressentimentos, estamos bem?"
 
 # game/v9/scene12.rpy:84
 translate portuguese v9_hall_calm_a2bb3be2:
@@ -130,13 +130,13 @@ translate portuguese v9_hall_punch_d62e7b53:
 translate portuguese v9_hall_punch_e5546b7f:
 
     # u "But you've seen it, guys. He was asking for it. And totally deserved what he got. One less douchebag in the hallways, I guess."
-    u "Mas vocês viram, galera. Ele estava pedindo por isso. E mereceu totalmente o que pediu. Menos um idiota nos corredores, isso é o que eu acho."
+    u "Mas vocês viram, galera. Ele estava pedindo por isso. E mereceu totalmente o que pediu. \nMenos um babaca nos corredores, isso é o que eu acho."
 
 # game/v9/scene12.rpy:208
 translate portuguese v9_hall_punch_20c2d50f:
 
     # u "(Now talk about random shit going on.)"
-    u "(Agora sobre as merdas malucas que estão acontecendo)."
+    u "(Agora tem um monte de merdas malucas que estão acontecendo do nada.)"
 
 # game/v9/scene12.rpy:213
 translate portuguese v9_hall_punch_8a6fe218:
@@ -154,7 +154,7 @@ translate portuguese v9_hall_punch_2bfb8d77:
 translate portuguese v9_hall_punch_27fff20b:
 
     # unknown "I was told to give you this. *Sigh*"
-    unknown "Me pediram pra te dar isso. *risos*"
+    unknown "Me pediram pra te dar isso. *suspiro*"
 
 # game/v9/scene12.rpy:228
 translate portuguese v9_hall_punch_b36d0796:
@@ -304,7 +304,7 @@ translate portuguese v9_hall_no_punch_b5c9e3d4:
 translate portuguese v9_hall_no_punch_f9d8ebef:
 
     # li "Now if you will excuse me, I'm pissed off for being late as it is. I'll see you around."
-    li "Agora, se me da licença, estou irritada por estar atrasada agora. Vejo você por aí."
+    li "Agora, se me da licença, estou irritada por estar atrasada agora. \nVejo você por aí."
 
 # game/v9/scene12.rpy:375
 translate portuguese v9_hall_no_punch_295f7bae:
@@ -349,4 +349,3 @@ translate portuguese strings:
     # game/v9/scene12.rpy:128
     old "Don't punch the guy"
     new "Não bata no cara."
-

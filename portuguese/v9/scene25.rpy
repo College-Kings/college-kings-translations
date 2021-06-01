@@ -4,7 +4,7 @@
 translate portuguese v9_room_fri_eve_303d2d04:
 
     # u "(I wonder how much Mr. Lee expects us to remember from everyone else's Viking scenes. I was too busy looking at the costumes to pay attention.)"
-    u "(Eu me pergunto o quanto o Sr. Lee espera que nos lembramos das cenas Viking de todos. Eu estava muito ocupado olhando para os figurinos para prestar atenção.)"
+    u "(Eu me pergunto o quanto o Sr. Lee espera que nos lembramos de todas as cenas Viking que teve. Eu estava muito ocupado olhando para os figurinos pra prestar atenção.)"
 
 # game/v9/scene25.rpy:18
 translate portuguese v9_room_fri_eve_5ef4f2a2:
@@ -97,4 +97,3 @@ translate portuguese strings:
     # game/v9/scene25.rpy:32
     old "Sure!"
     new "Claro!"
-

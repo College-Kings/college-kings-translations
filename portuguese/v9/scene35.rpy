@@ -64,7 +64,7 @@ translate portuguese strings:
 
     # game/v9/scene35.rpy:8
     old "I was thinking about you and I kind of miss you."
-    new "Eu estava pensando em você e mais oumenos meio que sinto sua falta."
+    new "Eu estava pensando em você e mais ou menos meio que sinto sua falta."
 
     # game/v9/scene35.rpy:9
     old "Kinda? That's it? ;)"
@@ -116,7 +116,7 @@ translate portuguese strings:
 
     # game/v9/scene35.rpy:34
     old "Your wish is my command."
-    new "Seu desejo é meu ordem."
+    new "Seu desejo é minha ordem."
 
     # game/v9/scene35.rpy:36
     old "God, I miss that cock. "
@@ -128,7 +128,7 @@ translate portuguese strings:
 
     # game/v9/scene35.rpy:38
     old "I wish. I have a lot to do for tomorrow, but that would be nice."
-    new "Eu queria. Mas tenho muito o que fazer pra amanhã, mas isso seria bom."
+    new "Isso ia ser legal, e eu até queria. Mas não dá, tenho muito o que fazer pra amanhã."
 
     # game/v9/scene35.rpy:39
     old "Yeah, that would be great. Would like to see more of you."
@@ -241,4 +241,3 @@ translate portuguese strings:
     # game/v9/scene35.rpy:89
     old "Yeah haha, I feel wiped."
     new "Sim haha, eu me sinto meio morto."
-

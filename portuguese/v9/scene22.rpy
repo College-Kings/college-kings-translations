@@ -46,7 +46,7 @@ translate portuguese v9_room_w_sam_2ed27bdb:
 translate portuguese v9_room_w_sam_ad4a753d:
 
     # u "I'm all ears."
-    u "Sou todo ouvidos."
+    u "Sou todo os ouvidos."
 
 # game/v9/scene22.rpy:67
 translate portuguese v9_room_w_sam_1a395c96:
@@ -88,7 +88,7 @@ translate portuguese v9_room_w_sam_8aefe0ce:
 translate portuguese v9_room_w_sam_2a57e47b:
 
     # sa "I wanted to come apologize for dragging you into my mess. I'm so sorry you got caught up in all this."
-    sa "Queria vir pedir desculpas por ter te arrastado pra a minha confusão. Lamento muito que você tenha se envolvido em tudo isso."
+    sa "Queria vir pedir desculpas por ter te arrastado pra a minha confusão. \nLamento muito que você tenha se envolvido em tudo isso."
 
 # game/v9/scene22.rpy:103
 translate portuguese v9_room_w_sam_0597bc30:
@@ -118,7 +118,7 @@ translate portuguese v9_room_w_sam_fee824cd:
 translate portuguese v9_room_w_sam_d9b88ad4:
 
     # u "Yeah, I heard some of what you went through. Cam and I talked earlier."
-    u "Sim, eu ouvi um pouco do que você passou. Cam e eu conversamos antes."
+    u "Sim, eu ouvi um pouco do que você passou. \nCam e eu conversamos antes."
 
 # game/v9/scene22.rpy:130
 translate portuguese v9_room_w_sam_c9c0ae1d:
@@ -148,7 +148,7 @@ translate portuguese v9_room_w_sam_2a17feea:
 translate portuguese v9_room_w_sam_550ed32d:
 
     # sa "You're so sweet. You're not like the other meatheads here."
-    sa "Você é tão doce. Você não é como os outros cabeças de vento daqui."
+    sa "Você é tão doce. \nVocê não é como os outros cabeças de vento daqui."
 
 # game/v9/scene22.rpy:155
 translate portuguese v9_room_w_sam_5bc28bd2:
@@ -160,7 +160,7 @@ translate portuguese v9_room_w_sam_5bc28bd2:
 translate portuguese v9_room_w_sam_cb9ed2cd:
 
     # u "You're not a mess! You're figuring your life out. We're supposed to screw up."
-    u "Você não é uma bagunça! Você está descobrindo sua vida. Estamos sujeitos a ferrar tudo."
+    u "Você não é uma bagunça! Você está descobrindo sua vida. \nEstamos sujeitos a ferrar tudo."
 
 # game/v9/scene22.rpy:165
 translate portuguese v9_room_w_sam_a77a999a:
@@ -172,7 +172,7 @@ translate portuguese v9_room_w_sam_a77a999a:
 translate portuguese v9_room_w_sam_d4438015:
 
     # u "Maybe not everyone has gone through your troubles, but plenty have... and they've come back from it just fine."
-    u "Talvez nem todos tenham passado por seus problemas, mas muitos já passaram... e eles voltaram e ficaram bem."
+    u "Talvez nem todos tenham passado por seus problemas, mas muitos já passaram... \ne eles no final e ficaram bem."
 
 # game/v9/scene22.rpy:175
 translate portuguese v9_room_w_sam_4353ec6b:
@@ -196,19 +196,19 @@ translate portuguese v9_room_w_sam_aa31a19e:
 translate portuguese v9_room_w_sam_20c6c7ac:
 
     # sa "I wanted to come thank you for your support earlier, that thing with Cam and Grayson."
-    sa "Queria te agradecer por seu apoio mais cedo, aquela coisa entre o Cam e o Grayson."
+    sa "Queria te agradecer por seu apoio mais cedo, \naquela coisa entre o Cam e o Grayson."
 
 # game/v9/scene22.rpy:200
 translate portuguese v9_room_w_sam_cc65076c:
 
     # u "No need to thank me. Really. it was nothing. I support my fellow Apes."
-    u "Não é preciso me agradecer. Realmente, não foi nada. Eu apoio meus colegas Gorilas."
+    u "Não é preciso me agradecer. \nRealmente, não foi nada. Eu apoio meus colegas Gorilas."
 
 # game/v9/scene22.rpy:205
 translate portuguese v9_room_w_sam_c1e17e8f:
 
     # sa "It wasn't nothing to me. Things have been a mess lately and Cameron and I appreciate your support."
-    sa "Pra mim isso não bem verdade, pra mim foi algo. As coisas têm estado uma bagunça ultimamente e Cameron e eu agradecemos pelo seu apoio."
+    sa "Pra mim isso não bem verdade, pra mim foi algo. \nAs coisas têm estado uma bagunça ultimamente \ne Cameron e eu agradecemos pelo seu apoio."
 
 # game/v9/scene22.rpy:210
 translate portuguese v9_room_w_sam_9c1505da:
@@ -256,7 +256,7 @@ translate portuguese v9_room_w_sam_ecb9a328:
 translate portuguese v9_room_w_sam_3a8a4cad:
 
     # u "And you won't be. I can see it in your eyes. You're strong. You've got this. And you've got us now, too."
-    u "E você não vai ser. Eu posso ver isso em seus olhos. Você é forte. Você tem isso. E você também nos tem agora."
+    u "E você não vai ser. Eu posso ver isso em seus olhos. Você é forte e você sabe disso. \nVocê tem isso. E você também nos tem agora."
 
 # game/v9/scene22.rpy:250
 translate portuguese v9_room_w_sam_90b89bd2:
@@ -268,7 +268,7 @@ translate portuguese v9_room_w_sam_90b89bd2:
 translate portuguese v9_room_w_sam_acfb3160:
 
     # sa "Alright, enough of that! I think I need some fresh air. You should come with me."
-    sa "Muito bem, chega disso! Acho que preciso de um pouco de ar fresco. Você deveria vir comigo."
+    sa "Muito bem, chega disso! \nAcho que preciso de um pouco de ar fresco. \nE você deve vir comigo lá pra fora agora."
 
 # game/v9/scene22.rpy:260
 translate portuguese v9_room_w_sam_aaeaf486_1:
@@ -285,4 +285,3 @@ translate portuguese strings:
     # game/v9/scene22.rpy:196
     old "Accept the thanks"
     new "Aceite os agradecimentos."
-

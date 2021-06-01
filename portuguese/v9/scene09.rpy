@@ -4,7 +4,7 @@
 translate portuguese room_wed_night_effd9593:
 
     # u "(Now this was not a bad day. I guess having fun like this is pretty cool too.)"
-    u "(Bom este não foi um dia ruim. Acho que se divertir assim também é muito legal)."
+    u "(Bom este não foi um dia ruim. \nAcho que se divertir assim também é muito legal)."
 
 # game/v9/scene09.rpy:24
 translate portuguese room_wed_night_0095d73a:
@@ -28,7 +28,7 @@ translate portuguese room_wed_night_d257537b:
 translate portuguese room_wed_night_d2744084:
 
     # u "(The thing I should really be worried about is that Brawl. But after today I think I feel more confident. Day was pretty inspiring.)"
-    u "(Mas o que eu realmente devo me preocupar é com essa briga. Mas depois de hoje eu acho que me sinto mais confiante. O dia foi bastante inspirador)."
+    u "(Mas o que eu realmente devo me preocupar é com essa briga. Mas depois de hoje eu acho que me sinto mais confiante. \nO dia foi bastante inspirador)."
 
 # game/v9/scene09.rpy:47
 translate portuguese room_wed_night_c6245875:
@@ -52,19 +52,19 @@ translate portuguese room_wed_night_4be08caa:
 translate portuguese room_wed_night_effd9593_1:
 
     # u "(Now this was not a bad day. I guess having fun like this is pretty cool too.)"
-    u "(Bom este não foi um dia ruim. Acho que se divertir assim também é muito legal)."
+    u "(Bom este não foi um dia ruim. \nAcho que se divertir assim também é muito legal)."
 
 # game/v9/scene09.rpy:86
 translate portuguese room_wed_night_0095d73a_1:
 
     # u "(Well I can't really decide on my favorite moment of the day, but dude, Aubrey...)"
-    u "(Bem, eu não posso realmente decidir sobre meu momento favorito do dia, mas cara, Aubrey...)"
+    u "(Bom, eu não posso realmente decidir sobre \nmeu momento favorito do dia, mas nossa, a Aubrey...)"
 
 # game/v9/scene09.rpy:89
 translate portuguese room_wed_night_ebbf7c97_1:
 
     # u "(Well I can't really decide on my favorite moment of the day, but dude, Riley...)"
-    u "(Bem, eu não posso realmente decidir sobre meu momento favorito do dia, mas cara, Riley...)"
+    u "(Bem, eu não posso realmente decidir sobre meu momento favorito do dia, mas cara, a sRiley...)"
 
 # game/v9/scene09.rpy:92
 translate portuguese room_wed_night_d257537b_1:
@@ -95,4 +95,3 @@ translate portuguese room_wed_night_4be08caa_1:
 
     # u "What?! Fuck! I'm gonna be late!"
     u "O quê?! Porra! Eu vou me atrasar!"
-

@@ -76,13 +76,13 @@ translate portuguese v9_hang_w_linds_e9a5f6ab:
 translate portuguese v9_hang_w_linds_59c86d5e:
 
     # u "Or will you wait to see how I'm doing first?"
-    u "Ou você vai esperar pra ver o que vai acontecer primeiro lá, haha?"
+    u "Ou você vai esperar pra ver o que vai acontecer lá primeiro, haha?"
 
 # game/v9/scene39.rpy:100
 translate portuguese v9_hang_w_linds_bcbc7ce6:
 
     # li "Of course! Can't be on the loser's side of the ring."
-    li "Claro que sim! Não posso ficar do lado do perdedor no ringue, haha."
+    li "Claro que sim! Não posso ficar do lado do perdedor do ringue, haha."
 
 # game/v9/scene39.rpy:105
 translate portuguese v9_hang_w_linds_018e3205:
@@ -118,7 +118,7 @@ translate portuguese v9_hang_w_linds_49a084a9:
 translate portuguese v9_hang_w_linds_901f82b9:
 
     # li "No it wasn't! I saw the whole thing, remember?"
-    li "Não, não foi! Eu vi tudo, Se lembra?"
+    li "Não, não foi! Eu vi tudo, Se lembra? Então na se preoucupe."
 
 # game/v9/scene39.rpy:135
 translate portuguese v9_hang_w_linds_62667946:
@@ -142,7 +142,7 @@ translate portuguese v9_make_out_w_lin_e7262d85:
 translate portuguese v9_make_out_w_lin_83fb4b4d:
 
     # u "I thought you said not to worry."
-    u "Eu pensei que você tinha falado pra você não se preocupar."
+    u "Eu pensei que você tinha falado pra não ter preocupações."
 
 # game/v9/scene39.rpy:170
 translate portuguese v9_make_out_w_lin_ffbaf89b:
@@ -286,7 +286,7 @@ translate portuguese v9_make_out_w_lin_132986ee:
 translate portuguese v9_make_out_w_lin_2913cabe:
 
     # u "Nothing. Seriously, you're amazing and I wish I could stay and... hang out with you. But I have to get ready for the fight."
-    u "Nada. Sério, você é incrível e eu gostaria de poder ficar e... pegar você. Mas eu tenho que me preparar pra a luta."
+    u "Nada. Sério, você é incrível e eu gostaria de poder ficar e... ficar você. Mas eu tenho que me preparar pra a luta."
 
 # game/v9/scene39.rpy:336
 translate portuguese v9_make_out_w_lin_516c8432:

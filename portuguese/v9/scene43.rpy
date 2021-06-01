@@ -4,13 +4,13 @@
 translate portuguese v9_warehouse_josh_af05436a:
 
     # u "Just when I was starting to get used to seeing you with a black eye. *Laughs*"
-    u "Logo quando eu estava começando a me acostumar a te ver com um olho roxo. *Risos"
+    u "Logo quando eu estava começando a me acostumar a te ver \ncom um olho roxo. *Risos*"
 
 # game/v9/scene43.rpy:22
 translate portuguese v9_warehouse_josh_95c3a43b:
 
     # jo "The ladies weren't digging it. *Laughs*"
-    jo "As garotas não estavam admiradas. *Risos"
+    jo "As garotas não estavam admiradando. *Risos*"
 
 # game/v9/scene43.rpy:27
 translate portuguese v9_warehouse_josh_62368a44:
@@ -58,7 +58,7 @@ translate portuguese v9_warehouse_josh_1d109e08:
 translate portuguese v9_warehouse_josh_43caca3f:
 
     # ki "That's exactly what I said."
-    ki "Foi exatamente o que eu falei."
+    ki "Isso foi exatamente o que eu disse."
 
 # game/v9/scene43.rpy:64
 translate portuguese v9_warehouse_josh_2c3b56e0:
@@ -100,25 +100,25 @@ translate portuguese v9_warehouse_josh_48c37a9e:
 translate portuguese v9_warehouse_josh_dd62a7a1:
 
     # am "*Laughs*"
-    am "*Risos"
+    am "*Risos*"
 
 # game/v9/scene43.rpy:104
 translate portuguese v9_warehouse_josh_fcc18885:
 
     # u "*Laughs*"
-    u "*Risos"
+    u "*Risos*"
 
 # game/v9/scene43.rpy:109
 translate portuguese v9_warehouse_josh_e7c02fce:
 
     # jo "*WWE announcer Voice* Lovely, lovely ladies...and dudes, I'm your beloved announcer Josh AKA Mr. Have-A-Good-Time."
-    jo "*Voz de anunciante WWE* Amados, Amadas, senhoras... e idiotas, Eu sou seu adorável locutor senhor Josh AKA. Tenham.. Uma.. Boa.. Noite!!!."
+    jo "*Voz de anunciante WWE* Amados, Amadas, senhoras... e idiotas, Eu sou seu adorável locutor senhor Josh AKA. \nTenham.. Uma.. Boa.. Noite!!!."
 
 # game/v9/scene43.rpy:115
 translate portuguese v9_warehouse_josh_85fe8c96:
 
     # am "He should've asked for help if he was planning on doing that. *Laughs*"
-    am "Ele deveria ter pedido ajuda se estava planejando fazer isso. *Risos"
+    am "Ele deveria ter pedido ajuda se estava planejando fazer isso. *Risos*"
 
 # game/v9/scene43.rpy:120
 translate portuguese v9_warehouse_josh_df80df8c:
@@ -143,4 +143,3 @@ translate portuguese v9_warehouse_josh_e28aeeb6:
 
     # ki "Later!"
     ki "Até logo!"
-

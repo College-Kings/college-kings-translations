@@ -40,7 +40,7 @@ translate portuguese v9_apes_pre_fight_6f80ed38:
 translate portuguese v9_apes_pre_fight_a0d04d43:
 
     # ca "Lights out."
-    ca "Apague as luzes."
+    ca "Põe a venda."
 
 # game/v9/scene41.rpy:81
 translate portuguese v9_apes_pre_fight_774371a5:

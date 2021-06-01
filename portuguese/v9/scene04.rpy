@@ -10,7 +10,7 @@ translate portuguese v9_dream_fd4bfdf4:
 translate portuguese v9_dream_bbc0e946:
 
     # u "(Where is this place?)"
-    u "(Que lugar é este que estou?)"
+    u "(Onde fica este lugar?)"
 
 # game/v9/scene04.rpy:36
 translate portuguese v9_dream_8fa635fb:
@@ -58,7 +58,7 @@ translate portuguese v9_dream_wolves_1b749a57:
 translate portuguese v9_dream_wolves_dd24ca14:
 
     # pe "Lookin' sexy [name]!"
-    pe "Você está muito gostoso aí [name]!"
+    pe "Está muito sexy aí [name]!"
 
 # game/v9/scene04.rpy:155
 translate portuguese v9_dream_wolves_8bdb5ed3:
@@ -70,7 +70,7 @@ translate portuguese v9_dream_wolves_8bdb5ed3:
 translate portuguese v9_dream_wolves_0ce94309:
 
     # u "(Are they booing me? I'll show them.)"
-    u "(Tem gente me vaiando? Vou mostrar pra eles)."
+    u "(Eles estão me vaiando? Vou mostrar pra eles)."
 
 # game/v9/scene04.rpy:166
 translate portuguese v9_dream_wolves_c3ff7ee0:
@@ -88,7 +88,7 @@ translate portuguese v9_dream_wolves_388a6938:
 translate portuguese v9_dream_wolves_3f9a49b1:
 
     # ch "Who do you wanna fight [name]? Ryan or Caleb?"
-    ch "Contra quem você quer lutar [name]? Ryan ou Caleb?"
+    ch "Com quem você quer lutar [name]? Ryan ou Caleb?"
 
 # game/v9/scene04.rpy:180
 translate portuguese v9_dream_wolves_aa8042d4:
@@ -196,7 +196,7 @@ translate portuguese v9_dream_wolves_10ed4aac:
 translate portuguese v9_dream_apes_15046b1d:
 
     # gr "Way to go man! You can do it! I knew you were the right dude!"
-    gr "Assim que é, cara! Você pode fazer isso! Eu sabia que você era o cara certo!"
+    gr "Assim é que é, cara! Você pode fazer isso! Eu sabia que você era o cara certo!"
 
 # game/v9/scene04.rpy:355
 translate portuguese v9_dream_apes_3ba88270:
@@ -208,7 +208,7 @@ translate portuguese v9_dream_apes_3ba88270:
 translate portuguese v9_dream_apes_83a3330a:
 
     # ri "Lookin' sexy [name]!"
-    ri "Você está muito gostoso aí em cima [name]!"
+    ri "Está muito sexy aí [name]!"
 
 # game/v9/scene04.rpy:401
 translate portuguese v9_dream_apes_8bdb5ed3:
@@ -280,7 +280,7 @@ translate portuguese v9_dream_apes_551c4506_1:
 translate portuguese v9_dream_apes_525c2ae1_1:
 
     # ri "My grandma can hit harder than that! *Laughs*"
-    ri "Minha avó pode bater mais forte que isso! *Risos*"
+    ri "Minha avó pode bater com mais forte que isso! *Risos"
 
 # game/v9/scene04.rpy:525
 translate portuguese v9_dream_apes_18b663da_1:
@@ -292,7 +292,7 @@ translate portuguese v9_dream_apes_18b663da_1:
 translate portuguese v9_dream_apes_26c66330:
 
     # ri "Never letting a pussy like that near mine."
-    ri "Nunca vou deixa uma bicha como ele perto de mim."
+    ri "Nunca vou deixar uma bicha como ele perto de mim."
 
 # game/v9/scene04.rpy:532
 translate portuguese v9_dream_apes_ce44d44e:

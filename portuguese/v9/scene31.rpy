@@ -16,19 +16,19 @@ translate portuguese v9_sat_cafe_w_nora_67cd3695:
 translate portuguese v9_sat_cafe_w_nora_ac079442:
 
     # no "Do you really have to ask? We spent a lot of time together when we first started dating, but now it's like I'm second to the Wolves."
-    no "Você realmente tem que perguntar? Passavamos muito tempo juntos quando começamos a namorar, mas agora é como se eu estivesse em segundo lugar em relação aos Lobos."
+    no "Você acha que precisa perguntar isso? Passavamos muito tempo juntos quando começamos a namorar, mas agora é como se eu estivesse em segundo lugar em relação aos Lobos."
 
 # game/v9/scene31.rpy:33
 translate portuguese v9_sat_cafe_w_nora_1264b6df:
 
     # no "And I know I shouldn't be jealous, but in a way I am. Like, if you have all this passion, love and attention to give, can some come my way?"
-    no "E eu sei que não deveria ter ciúmes, mas de certa forma eu tenho. Tipo, se você tem toda essa paixão, amor e atenção pra dar, será que um pouco disso pode vir em pra mim?"
+    no "E eu sei que não deveria ter ciúmes, mas de certa forma eu tenho. Tipo, se você tem toda essa paixão, amor e atenção pra dar, \nserá que um pouco disso não pode vir em pra mim?"
 
 # game/v9/scene31.rpy:38
 translate portuguese v9_sat_cafe_w_nora_f7ecc16b:
 
     # u "I think you're right to see it the way you do. Your partner should come first regardless, and even though all of this seems important now, it's all temporary."
-    u "Acho que você está certo em ver as coisas do jeito que você vê. Seu parceiro deve vir em primeiro lugar, e mesmo que tudo isso pareça importante agora, tudo isso é temporário."
+    u "Acho que você está certo em ver as coisas do jeito que você vê. \nSeu parceiro deve vir em primeiro lugar, e mesmo que tudo isso \npareça importante agora, tudo isso é temporário."
 
 # game/v9/scene31.rpy:43
 translate portuguese v9_sat_cafe_w_nora_dd3f3a9e:
@@ -58,7 +58,7 @@ translate portuguese v9_sat_cafe_w_nora_44c25675:
 translate portuguese v9_sat_cafe_w_nora_3c8f81cb:
 
     # waiter "Ahhh okay, what will you be having today?"
-    waiter "Ahhh ok, o que vocês vão querer hoje?"
+    waiter "Ahhh ok, é que pareciam ser, \nmas então o que vocês vão querer hoje?"
 
 # game/v9/scene31.rpy:72
 translate portuguese v9_sat_cafe_w_nora_2027a26c:
@@ -70,7 +70,7 @@ translate portuguese v9_sat_cafe_w_nora_2027a26c:
 translate portuguese v9_sat_cafe_w_nora_3bfd1c84:
 
     # no "It's going great! We almost have everything we need. I'm thinking about seeing if we can get a bit more involvement from the houses. I mentioned it to Chris, but he only said \"we'll get to that later\". It means a lot to me that you've taken an interest."
-    no "Está indo muito bem! Temos quase tudo o que precisamos. Estou pensando em ver se podemos ter um pouco mais de envolvimento das casas. Mencionei isso ao Chris, mas ele só disse \"vamos resolver a isso mais tarde\".Mas significa muito para mim que você tenha se interessado."
+    no "Está indo muito bem! Temos quase tudo o que precisamos. \nEstou pensando em ver se podemos ter um pouco mais de envolvimento das fraternidades. Mencionei isso ao Chris, mas ele só disse \"vamos resolver a isso mais tarde\".Mas significa muito para mim que você tenha se interessado."
 
 # game/v9/scene31.rpy:81
 translate portuguese v9_sat_cafe_w_nora_6208327c:
@@ -88,19 +88,19 @@ translate portuguese v9_sat_cafe_w_nora_97e99bbf:
 translate portuguese v9_sat_cafe_w_nora_20c7b874:
 
     # no "Thanks for asking."
-    no "Obrigado por perguntar."
+    no "Obrigada por perguntar."
 
 # game/v9/scene31.rpy:101
 translate portuguese v9_sat_cafe_w_nora_f0c7c13c:
 
     # no "I had a really good time [name]. Wish I could do this more often."
-    no "Eu tive um bom tempo hoje com você [name]. Gostaria de poder fazer isto mais vezes."
+    no "Eu tive um bom tempo hoje com você [name]. \nGostaria de poder fazer isto mais vezes."
 
 # game/v9/scene31.rpy:106
 translate portuguese v9_sat_cafe_w_nora_8c6198f5:
 
     # u "Maybe we can."
-    u "Talvez nós podemos outras vezes."
+    u "Talvez nós podemos em outras vezes."
 
 # game/v9/scene31.rpy:111
 translate portuguese v9_sat_cafe_w_nora_44c2578a:
@@ -124,7 +124,7 @@ translate portuguese v9_sat_cafe_w_nora_2027a26c_1:
 translate portuguese v9_sat_cafe_w_nora_76bba1c4:
 
     # no "It's going great! We almost have everything we need. I'm thinking about seeing if we can get a bit more involvement from the houses."
-    no "Está indo muito bem! Temos quase tudo o que precisamos. Estou pensando em ver se podemos ter um pouco mais de envolvimento das casas."
+    no "Está indo muito bem! Temos quase tudo o que precisamos. \nEstou pensando em ver se podemos ter um pouco mais de envolvimento das fraternidades."
 
 # game/v9/scene31.rpy:134
 translate portuguese v9_sat_cafe_w_nora_3576a6fd:
@@ -190,7 +190,7 @@ translate portuguese v9_sat_cafe_c68fb736:
 translate portuguese v9_sat_cafe_68ef14fe:
 
     # unknown "Hey, sorry but you're the guy that punched that other guy on Kiwii right?"
-    unknown "Ei, desculpa mas você é o cara que esmurrou aquele outro cara do vídeo do Kiwii, certo?"
+    unknown "Ei, desculpa mas você é o cara que esmurrou aquele \noutro cara do vídeo do Kiwii, certo?"
 
 # game/v9/scene31.rpy:202
 translate portuguese v9_sat_cafe_7720a2b5:
@@ -202,7 +202,7 @@ translate portuguese v9_sat_cafe_7720a2b5:
 translate portuguese v9_sat_cafe_cfecf5c5:
 
     # unknown "Wow, I can't believe it's you. Like you're actually here in front of me right now."
-    unknown "Uau, não posso acreditar que seja você. Como se você estivesse realmente aqui na minha frente agora mesmo."
+    unknown "Uau, não posso acreditar que seja você. \nComo se você estivesse realmente aqui \nna minha frente agora mesmo."
 
 # game/v9/scene31.rpy:212
 translate portuguese v9_sat_cafe_8eb7f5ad:
@@ -214,7 +214,7 @@ translate portuguese v9_sat_cafe_8eb7f5ad:
 translate portuguese v9_sat_cafe_a061b1dc:
 
     # unknown "Can I sit with you or is that too much? No that's too much, or is it? OMG, you're so stupid. Not you, me. OMG!"
-    unknown "Posso sentar com você ou isso é demais? Não, isso é demais, ou será que não é ? o meu deus, você é tão estúpido. Não você, eu. oh meu deus!"
+    unknown "Posso sentar com você ou isso é demais? Não, isso é demais, \nou será que não é ? o meu deus, você é tão estúpida. Não você, eu. oh meu deus!"
 
 # game/v9/scene31.rpy:222
 translate portuguese v9_sat_cafe_d653b00c:
@@ -226,7 +226,7 @@ translate portuguese v9_sat_cafe_d653b00c:
 translate portuguese v9_sat_cafe_8b513a1b:
 
     # unknown "You're the guy that got his ass kicked on Kiwii right?"
-    unknown "Você é o cara que levou uma surra no e está em vídeo no Kiwii, certo?"
+    unknown "Você é o cara que levou uma surra \nque está em vídeo no Kiwii, certo?"
 
 # game/v9/scene31.rpy:233
 translate portuguese v9_sat_cafe_9678d4dc:
@@ -244,7 +244,7 @@ translate portuguese v9_sat_cafe_cb76e0dd:
 translate portuguese v9_sat_cafe_67e48a73:
 
     # u "(Okay... bitch.)"
-    u "(Certo... porra...)"
+    u "(Certo... vadia...)"
 
 # game/v9/scene31.rpy:248
 translate portuguese v9_sat_cafe_cf7579f5:
@@ -261,4 +261,3 @@ translate portuguese strings:
     # game/v9/scene31.rpy:58
     old "Don't correct Waiter"
     new "Não corrija a garçonete."
-

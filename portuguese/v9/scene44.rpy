@@ -58,7 +58,7 @@ translate portuguese v9_warehouse_lindsey_d5b89701:
 translate portuguese v9_warehouse_lindsey_9e74907e:
 
     # u "I just wanted to say I'm sorry for not coming over. I've been so distracted with this fight. It's really gotten in my head."
-    u "Eu só queria dizer que sinto muito por não ter te visto chegando. Tenho andado tão distraído com essa briga. Isso realmente entrou na minha cabeça."
+    u "Eu só queria dizer que sinto muito por não ter te visto chegando. \nTenho andado tão distraído com essa briga. \nIsso realmente entrou na minha cabeça."
 
 # game/v9/scene44.rpy:71
 translate portuguese v9_warehouse_lindsey_80023ecf:
@@ -76,7 +76,7 @@ translate portuguese v9_warehouse_lindsey_58bb3900:
 translate portuguese v9_warehouse_lindsey_b60e9ba0:
 
     # li "I'm sure you'll do great. I gotta get back to my friends."
-    li "Tenho certeza de que você vai se sair muito bem. Tenho que voltar para meus amigos."
+    li "Tenho certeza de que você vai se sair muito bem. \nTenho que voltar para meus amigos."
 
 # game/v9/scene44.rpy:86
 translate portuguese v9_warehouse_lindsey_133af279:
@@ -94,7 +94,7 @@ translate portuguese v9_warehouse_lindsey_1b6ab66c:
 translate portuguese v9_warehouse_lindsey_e786f86a:
 
     # u "(You really screwed that one up. But you gotta get your head in the game.)"
-    u "(Você realmente estragou tudo, mas tenho que me concentrar no jogo)."
+    u "(Você realmente estragou tudo, \nmas tenho que me concentrar no jogo)."
 
 # game/v9/scene44.rpy:103
 translate portuguese v9_warehouse_lindsey_0b80707c:
@@ -124,7 +124,7 @@ translate portuguese v9_warehouse_lindsey_df7e2987:
 translate portuguese v9_warehouse_lindsey_029cb7e7:
 
     # u "(Am I nuts or was that a cold shoulder? Damn. I really want to fix it but I have to get ready.)"
-    u "(Estou louco ou isso pareceu frio? Porra. Eu realmente quero consertar isso, mas tenho que me preparar)."
+    u "(Estou louco ou isso pareceu frio? Porra. \nEu realmente quero consertar isso, mas tenho que me preparar)."
 
 # game/v9/scene44.rpy:135
 translate portuguese v9_warehouse_lindsey_a7fe1be1:
@@ -172,7 +172,7 @@ translate portuguese v9_warehouse_lindsey_9484cdb7:
 translate portuguese v9_warehouse_lindsey_ad044853:
 
     # li "I'm sure you won't. But yeah, why don't you text me if you're feeling up to it after the fight?"
-    li "Tenho certeza que você não vai. Mas sim, por que você não me manda uma mensagem, se você está se sentindo bem depois da luta?"
+    li "Tenho certeza que você não vai. Mas sim, \npor que você não me manda uma mensagem, \nse você está se sentindo bem depois da luta?"
 
 # game/v9/scene44.rpy:177
 translate portuguese v9_warehouse_lindsey_437039fe:
@@ -190,7 +190,7 @@ translate portuguese v9_warehouse_lindsey_1ce0af63:
 translate portuguese v9_warehouse_lindsey_03fff1d6:
 
     # u "Sure. Sure. I, uh, have to get back to...worrying. Haha."
-    u "Claro. Claro. Eu, uh, tenho que voltar a... me preocupar. Haha."
+    u "Claro. Claro. Eu, uh, \ntenho que voltar a... me preocupar. Haha."
 
 # game/v9/scene44.rpy:192
 translate portuguese v9_warehouse_lindsey_99516385:
@@ -238,7 +238,7 @@ translate portuguese v9_warehouse_lindsey_a18f046f:
 translate portuguese v9_warehouse_lindsey_223965ec:
 
     # u "Aww, don't worry. No cold feet here. You're just very hard to resist."
-    u "Aww, não se preocupe. Nada de pés frios aqui. Você só é muito difícil de resistir."
+    u "Aww, não se preocupe. Nada de pés frios aqui. \nVocê só é muito difícil de resistir."
 
 # game/v9/scene44.rpy:252
 translate portuguese v9_warehouse_lindsey_f8d38387:
@@ -403,4 +403,3 @@ translate portuguese strings:
     # game/v9/scene44.rpy:243
     old "It was a joke"
     new "Foi uma piada."
-
