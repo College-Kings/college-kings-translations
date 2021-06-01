@@ -1,28 +1,56 @@
 # College Kings Translation Files
 
-portuguese
-
-### How to make a new language:
- - Create a new branch for your language, name it after your language and copy the base files from main.
- - This will be your language name and will stay throughout the translation.
- - Switch to the new branch.
- - In the new branch, replace the "DO NOT EDIT MAIN BRANCH" at the top of this file to the language name you chose earlier.
- - If you need help with anything else, just ask Jany on discord.
+## Tutorials
 
 ### How to start translating a new part:
  - Clone the github repository to your local pc.
  - Choose a file you want to translate from the table below and add your name to the "Who is working on it?" column.
+ - Take a look into your language folder
  - Open the file and start filling the Empty brackets with the translation.
 
 ### How add a newly translated part:
- - Push it to the branch named after the language name from above.
- - Do **not** push it to the main branch.
+ - Push it through github
  - Update your progress in the table below.
- - Remove your name from the table below. 
- - If you want to continue translating, jump to [the previous step](https://github.com/College-Kings/College-Kings-Translations#how-to-start-translating-a-new-part) again.
+ - Remove your name from the according table below.
+ - If you want to continue translating, jump to the previous step again.
 
-If you want to proofread your script again, there is a column for that as well, just place an x in the brackets. If you are alone and don't have the time for that, just skip that step for now.
+## Progress tables
 
+### czech
+Progress | ?/all | Who is working on it? | Proofreading | Who is proofreading?
+-------- | -------- | --------- | --------- | ---------
+non script files | 0/3 | Krisp1k, PorneliusHubert | [X] | Krisp1k
+v01.rpy | 0/5225 | PorneliusHubert | [ ] | -
+v02.rpy | 0/4221 | PorneliusHubert | [ ] | -
+v03.rpy | 0/3636 | Krisp1k | [ ] | -
+v04.rpy | 0/3227 | Krisp1k | [ ] | -
+v05.rpy | 0/3498 | Krisp1k | [ ] | -
+v06.rpy | 0/11645 | - | [ ] | -
+v07.rpy | 0/18403 | - | [ ] | -
+v08 files | 0/45 | - | [ ] | -
+v09 files | 0/42 | - | [ ] | -
+v10 files | 0/41 | - | [ ] | -
+
+
+
+### portuguese
+Progress | ?/all | Who is working on it? | Proofreading | Who is proofreading?
+-------- | -------- | --------- | --------- | ---------
+non script files | 3/3 | ArkellCK | [ ] | -
+v01.rpy | 5225/5225 | Bibs2 | [ ] | -
+v02.rpy | 1015/4221 | Bibs2 | [ ] | Differ
+v03.rpy | 0/3636 | peacelocker125 | [ ] | -
+v04.rpy | 3227/3227 | TheProfMilos | [ ] | -
+v05.rpy | 3498/3498 | TheProfMilos | [ ] | -
+v06.rpy | 2089/11645 | Bibs2 | [ ] | -
+v07.rpy | 18403/18403 | TheProfMilos | [ ] | -
+v08 files | 29/45 | TheProfMilos | [ ] | -
+v09 files | 42/42 | Kfar | [ ] | -
+v10 files | 15/41 | Kfar (<15) + ArkellCK (>16) | [ ] | -
+
+
+
+### turkish
 Progress | ?/all | Who is working on it? | Proofreading | Who is proofreading?
 -------- | -------- | --------- | --------- | ---------
 non script files | 0/6 | - | [ ] | -
@@ -35,6 +63,8 @@ v06.rpy | 0/11645 | - | [ ] | -
 v07.rpy | 0/18403 | - | [ ] | -
 v08 files | 0/45 | - | [ ] | -
 v09 files | 0/42 | - | [ ] | -
-v10 files | TBA | - | [ ] | -
+v10 files | 0/41 | - | [ ] | -
 
-Have fun!
+
+
+#### Have fun!
