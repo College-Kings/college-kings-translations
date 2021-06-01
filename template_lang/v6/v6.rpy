@@ -232,7 +232,7 @@ translate template_lang imreconb_2f0a74cf:
 translate template_lang imreconb_fb96cd56:
 
     # imre "Mhm..."
-    imre ""Mhm...
+    imre "Mhm..."
 
 # game/v6/v6.rpy:333
 translate template_lang imreconb_b7322b81:
@@ -11641,4 +11641,60 @@ translate template_lang strings:
     # game/v6/v6.rpy:10120
     old "At least we got to talk."
     new ""
+
+# TODO: Translation updated at 2021-06-01 17:46
+
+# game/v6/v6.rpy:2962
+translate template_lang v6_nsfwSkipLabel1_9b9a52c4:
+
+    # em "Already?"
+    em ""
+
+# game/v6/v6.rpy:2967
+translate template_lang v6_nsfwSkipLabel1_e07ea09e:
+
+    # u "Sorry, Emily. I don't wanna fall behind this early into the semester."
+    u ""
+
+# game/v6/v6.rpy:2972
+translate template_lang v6_nsfwSkipLabel1_f270561c:
+
+    # em "Are you at least gonna be at the party later?"
+    em ""
+
+# game/v6/v6.rpy:2977
+translate template_lang v6_nsfwSkipLabel1_dcafa4ac:
+
+    # u "You're going to the Wolves' rush party too?"
+    u ""
+
+# game/v6/v6.rpy:2982
+translate template_lang v6_nsfwSkipLabel1_7f9524fe:
+
+    # em "Yeah, Nora invited me."
+    em ""
+
+# game/v6/v6.rpy:2987
+translate template_lang v6_nsfwSkipLabel1_a61fdaa7:
+
+    # u "Oh, awesome. I'll see you tonight then."
+    u ""
+
+# game/v6/v6.rpy:2992
+translate template_lang v6_nsfwSkipLabel1_2265f685:
+
+    # em "Still would've rather you stayed now..."
+    em ""
+
+# game/v6/v6.rpy:2997
+translate template_lang v6_nsfwSkipLabel1_4592c69f:
+
+    # u "Emily, you know I can't. I'll see you later."
+    u ""
+
+# game/v6/v6.rpy:3002
+translate template_lang v6_nsfwSkipLabel1_1d3ccfe2:
+
+    # em "Okay..."
+    em ""
 

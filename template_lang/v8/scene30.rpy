@@ -306,3 +306,59 @@ translate template_lang amber_sex_at_joshs_8914c077:
     # u "You too!"
     u ""
 
+# TODO: Translation updated at 2021-06-01 17:46
+
+# game/v8/scene30.rpy:223
+translate template_lang v8s30_nsfwSkipLabel1_f308c4ba:
+
+    # am "My God, you were amazing."
+    am ""
+
+# game/v8/scene30.rpy:229
+translate template_lang v8s30_nsfwSkipLabel1_860115d1:
+
+    # u "Me? YOU were amazing!"
+    u ""
+
+# game/v8/scene30.rpy:233
+translate template_lang v8s30_nsfwSkipLabel1_f13e5e4f:
+
+    # am "*Chuckles* This was so perfect. Just what I needed."
+    am ""
+
+# game/v8/scene30.rpy:237
+translate template_lang v8s30_nsfwSkipLabel1_d997a3e9:
+
+    # u "I hope we can do this again."
+    u ""
+
+# game/v8/scene30.rpy:241
+translate template_lang v8s30_nsfwSkipLabel1_049e73a9:
+
+    # am "Oh yes! Definitely. I'm counting on it."
+    am ""
+
+# game/v8/scene30.rpy:245
+translate template_lang v8s30_nsfwSkipLabel1_b0c2bea1:
+
+    # am "You tired yet?"
+    am ""
+
+# game/v8/scene30.rpy:249
+translate template_lang v8s30_nsfwSkipLabel1_4c61b4a5:
+
+    # u "A little."
+    u ""
+
+# game/v8/scene30.rpy:253
+translate template_lang v8s30_nsfwSkipLabel1_6c0d069e:
+
+    # am "Must've been a long day. Goodnight baby."
+    am ""
+
+# game/v8/scene30.rpy:257
+translate template_lang v8s30_nsfwSkipLabel1_8914c077:
+
+    # u "You too!"
+    u ""
+

@@ -2025,7 +2025,7 @@ translate template_lang repeatc_01a6d297:
 translate template_lang repeatc_0e69188c:
 
     # pe "Oh, well I saw you and I thought to myself \"Hey, I know this person and I should talk to him.\""
-    pe "Seni gördüm ve kendi kendime düşündüm." \"Hey, bu kişiyi tanıyorum ve onunla konuşmalıyım.\""
+    pe "Seni gördüm ve kendi kendime düşündüm. \"Hey, bu kişiyi tanıyorum ve onunla konuşmalıyım.\""
 
 # game/v2/v2.rpy:6698
 translate template_lang repeatc_8046f99c:
@@ -3976,618 +3976,2021 @@ translate template_lang v1_endShop_24b804e1:
 
     # u "(The Wolves... huh.)"
     u "(Kurtlar... hah.)"
+# TODO: Translation updated at 2021-06-01 17:46
+
+# game/v2/v2.rpy:85
+translate template_lang v2start_1bba6b51:
+
+    # cl "*Muffled* Why did you do that?! We were just talking!"
+    cl ""
+
+# game/v2/v2.rpy:89
+translate template_lang v2start_c3b1a1ef:
+
+    # ry "*Muffled* [name]?! Are you okay??"
+    ry ""
+
+# game/v2/v2.rpy:98
+translate template_lang v2start_cb54d010:
+
+    # imre "Hey man, did you have a good night?"
+    imre ""
+
+# game/v2/v2.rpy:104
+translate template_lang v2start_20bec76e:
+
+    # u "What? How did I get here?"
+    u ""
+
+# game/v2/v2.rpy:109
+translate template_lang v2start_b94dac9c:
+
+    # imre "Some Ryan guy dropped you off, after you got yourself beaten up."
+    imre ""
+
+# game/v2/v2.rpy:114
+translate template_lang v2start_7207f97e:
+
+    # u "Shit... my head hurts so much."
+    u ""
+
+# game/v2/v2.rpy:119
+translate template_lang v2start_1c5c1a81:
+
+    # imre "I mean, have you seen your face?"
+    imre ""
+
+# game/v2/v2.rpy:121
+translate template_lang v2start_1adeb7b0:
+
+    # imre "Here, I took a picture last night when you came home."
+    imre ""
+
+# game/v2/v2.rpy:125
+translate template_lang v2start_9ea2f78c:
+
+    # " "
+    ""
+
+# game/v2/v2.rpy:130
+translate template_lang v2start_272f5aa4:
+
+    # u "Man, Grayson is such an asshole. I didn't even do anything."
+    u ""
+
+# game/v2/v2.rpy:135
+translate template_lang v2start_48095016:
+
+    # imre "What did you expect? I told you the Apes are dogshit."
+    imre ""
+
+# game/v2/v2.rpy:137
+translate template_lang v2start_22ca126f:
+
+    # imre "If you knew how to fight, maybe he wouldn't fuck with you."
+    imre ""
+
+# game/v2/v2.rpy:145
+translate template_lang v2start_327c6541:
+
+    # u "Hmm... maybe."
+    u ""
+
+# game/v2/v2.rpy:149
+translate template_lang v2start_c08fe457:
+
+    # imre "Just think about it, okay? I'll see you later."
+    imre ""
+
+# game/v2/v2.rpy:156
+translate template_lang v2start_f558cfe4:
+
+    # u "I'm not fighting. I'll just stay away from them."
+    u ""
+
+# game/v2/v2.rpy:161
+translate template_lang v2start_e8ead580:
+
+    # imre "Dude, you don't know what Grayson's like."
+    imre ""
+
+# game/v2/v2.rpy:163
+translate template_lang v2start_1e49a1b9:
+
+    # imre "If he sees you looking at him wrong from now on, you'll end up in the hospital."
+    imre ""
+
+# game/v2/v2.rpy:171
+translate template_lang v2start_acb5bdce:
+
+    # u "Look, I'll think about it. But don't get your hopes up."
+    u ""
+
+# game/v2/v2.rpy:175
+translate template_lang v2start_7098dbf0:
+
+    # imre "That's all I'm asking for. I'll see you later."
+    imre ""
+
+# game/v2/v2.rpy:182
+translate template_lang v2start_0b7c44c3:
+
+    # u "I'm not fighting. That's final."
+    u ""
+
+# game/v2/v2.rpy:187
+translate template_lang v2start_a27d90a3:
+
+    # imre "You're being stupid, man. Whatever, suit yourself."
+    imre ""
+
+# game/v2/v2.rpy:214
+translate template_lang bjj_bd_9ea2f78c:
+
+    # " "
+    ""
+
+# game/v2/v2.rpy:239
+translate template_lang walk1_5d38ae25:
+
+    # u "(I can't believe I got knocked out in front of everyone...)"
+    u ""
+
+# game/v2/v2.rpy:243
+translate template_lang walk1_138f9c3b:
+
+    # u "(Especially in front of Chloe, that's so humiliating.)"
+    u ""
+
+# game/v2/v2.rpy:248
+translate template_lang walk1_3263fe5c:
+
+    # u "(Is she dating Grayson? I really thought she was flirting with me.)"
+    u ""
+
+# game/v2/v2.rpy:250
+translate template_lang walk1_d91c9beb:
+
+    # u "(But why would Grayson punch me otherwise?)"
+    u ""
+
+# game/v2/v2.rpy:252
+translate template_lang walk1_ae5cc9c0:
+
+    # u "(Just thinking about all this shit makes me so mad.)"
+    u ""
+
+# game/v2/v2.rpy:257
+translate template_lang walk1_4b258b6b:
+
+    # tom "Eyy, Mr. steal-your-girl got beaten up. *laughs*"
+    tom ""
+
+# game/v2/v2.rpy:259
+translate template_lang walk1_50708946:
+
+    # tom "That's what you get for being such a little bitch."
+    tom ""
+
+# game/v2/v2.rpy:269
+translate template_lang walk1_f9b61707:
+
+    # tom "Yeah, you better keep walking, pussy."
+    tom ""
+
+# game/v2/v2.rpy:419
+translate template_lang tomtut1jab_edc85e50:
+
+    # tut "As of right now, there's a jab flying at your face, press {b}W{/b} in the upcoming screen in order to block it."
+    tut ""
+
+# game/v2/v2.rpy:444
+translate template_lang tuthookhit_5d47b961:
+
+    # tut "You did not block your head by pressing {b}Q{/b} and got hit. Next time, try to block the correct part of your body."
+    tut ""
+
+# game/v2/v2.rpy:448
+translate template_lang tuthookhit_cd62240e:
+
+    # tut "This ends the tutorial. The real fight will test your reaction times."
+    tut ""
+
+# game/v2/v2.rpy:1435
+translate template_lang history2_6db697b3:
+
+    # imre "Holy shit, you're a natural, dude."
+    imre ""
+
+# game/v2/v2.rpy:1545
+translate template_lang nextsceneo_e025761d:
+
+    # lee "Welcome to History 101, I'm Mr. Lee."
+    lee ""
+
+# game/v2/v2.rpy:1547
+translate template_lang nextsceneo_58eff7c4:
+
+    # lee "I know that some of you have put this class off for multiple years, while others of you are taking it in their first year."
+    lee ""
+
+# game/v2/v2.rpy:1551
+translate template_lang nextsceneo_aaf1e329:
+
+    # lee "Even though it is unfathomable to me how you could actively try to avoid the most exciting subject in the world..."
+    lee ""
+
+# game/v2/v2.rpy:1553
+translate template_lang nextsceneo_cba6747b:
+
+    # lee "I guess there is something to be said about saving the best for last."
+    lee ""
+
+# game/v2/v2.rpy:1558
+translate template_lang nextsceneo_d818341c:
+
+    # lee "So what is history?"
+    lee ""
+
+# game/v2/v2.rpy:1563
+translate template_lang nextsceneo_a6a56d8e:
+
+    # lee "Many people believe that history is about analyzing and understanding the past."
+    lee ""
+
+# game/v2/v2.rpy:1567
+translate template_lang nextsceneo_dd2e8650:
+
+    # lee "But it's quite the contrary."
+    lee ""
+
+# game/v2/v2.rpy:1571
+translate template_lang nextsceneo_cc2072c5:
+
+    # lee "History is looking to the future... but backwards."
+    lee ""
+
+# game/v2/v2.rpy:1575
+translate template_lang nextsceneo_afc5bc9d:
+
+    # imre "*Whispers* What is he talking about??"
+    imre ""
+
+# game/v2/v2.rpy:1580
+translate template_lang nextsceneo_9c2212ed:
+
+    # u "*Whispers* I don't know."
+    u ""
+
+# game/v2/v2.rpy:1585
+translate template_lang nextsceneo_6d78d111:
+
+    # lee "Over the course of this year, you're not just going to learn about history."
+    lee ""
+
+# game/v2/v2.rpy:1587
+translate template_lang nextsceneo_c503f017:
+
+    # lee "You're going to live history, immerse yourself within it and understand what life was truly like in the past."
+    lee ""
+
+# game/v2/v2.rpy:1592
+translate template_lang nextsceneo_e22c93f3:
+
+    # ca "Yo teach, we get that you love the past, but don't you think the museum wants its shoes back?"
+    ca ""
+
+# game/v2/v2.rpy:1597
+translate template_lang nextsceneo_16ff9ca7:
+
+    # "*Class laughing*"
+    ""
+
+# game/v2/v2.rpy:1602
+translate template_lang nextsceneo_62f46205:
+
+    # lee "What's your name, young man?"
+    lee ""
+
+# game/v2/v2.rpy:1607
+translate template_lang nextsceneo_95d19fd6:
+
+    # ca "It's Cameron, teach."
+    ca ""
+
+# game/v2/v2.rpy:1612
+translate template_lang nextsceneo_f2ba7212:
+
+    # lee "Mr. Cameron, if clothing is what gets you to pay attention in this class, then I suggest you dress up as a historical character for our next lesson."
+    lee ""
+
+# game/v2/v2.rpy:1613
+translate template_lang nextsceneo_4b455ace:
+
+    # lee "As a matter of fact, I insist you do."
+    lee ""
+
+# game/v2/v2.rpy:1618
+translate template_lang nextsceneo_53dd7c6c:
+
+    # ca "Sure, but I'll steal the show."
+    ca ""
+
+# game/v2/v2.rpy:1623
+translate template_lang nextsceneo_d9fba3f7:
+
+    # lee "Perhaps you're right. Everyone should be wearing historically accurate costumes for the next lecture."
+    lee ""
+
+# game/v2/v2.rpy:1625
+translate template_lang nextsceneo_6b696c54:
+
+    # "*Class confused*"
+    ""
+
+# game/v2/v2.rpy:1627
+translate template_lang nextsceneo_0cd07133:
+
+    # lee "Come without costume and you've earned your first fail."
+    lee ""
+
+# game/v2/v2.rpy:1629
+translate template_lang nextsceneo_99016d7b:
+
+    # lee "You've got Mr. Cameron to thank for that."
+    lee ""
+
+# game/v2/v2.rpy:1662
+translate template_lang nextsceneo_c79f1d1b:
+
+    # imre "I can't believe he's making us come in costume."
+    imre ""
+
+# game/v2/v2.rpy:1667
+translate template_lang nextsceneo_0c080a35:
+
+    # u "Yeah, I don't even have anything I could wear. That's so annoying."
+    u ""
+
+# game/v2/v2.rpy:1669
+translate template_lang nextsceneo_f030f2ec:
+
+    # u "Can we go to the mall later?"
+    u ""
+
+# game/v2/v2.rpy:1674
+translate template_lang nextsceneo_414d72ea:
+
+    # imre "Sorry man, I heard the girls' volleyball team is playing and I'm not gonna miss that."
+    imre ""
+
+# game/v2/v2.rpy:1679
+translate template_lang nextsceneo_518e3ddb:
+
+    # u "I didn't know you were into volleyball."
+    u ""
+
+# game/v2/v2.rpy:1684
+translate template_lang nextsceneo_9f78718a:
+
+    # imre "Oh, I'm not."
+    imre ""
+
+# game/v2/v2.rpy:1689
+translate template_lang nextsceneo_bd395da8:
+
+    # u "Then why are you-"
+    u ""
+
+# game/v2/v2.rpy:1691
+translate template_lang nextsceneo_fdbce207:
+
+    # u "Oh..."
+    u ""
+
+# game/v2/v2.rpy:1696
+translate template_lang nextsceneo_b5efee6a:
+
+    # imre "Hot girls in shorts getting sweaty? What more could I ask for?"
+    imre ""
+
+# game/v2/v2.rpy:1701
+translate template_lang nextsceneo_b71da505:
+
+    # u "Haha, you're impossible."
+    u ""
+
+# game/v2/v2.rpy:1706
+translate template_lang nextsceneo_e8b5efc6:
+
+    # imre "I got another class now, I'll see you later."
+    imre ""
+
+# game/v2/v2.rpy:1711
+translate template_lang nextsceneo_ab5d9ca9:
+
+    # u "(Great... I guess it was only a matter of time 'til I saw Emily.)"
+    u ""
+
+# game/v2/v2.rpy:1716
+translate template_lang nextsceneo_785e8da7:
+
+    # em "[name]?"
+    em ""
+
+# game/v2/v2.rpy:1721
+translate template_lang nextsceneo_a6ce608d:
+
+    # em "Oh my god, what happened to you?"
+    em ""
+
+# game/v2/v2.rpy:1726
+translate template_lang nextsceneo_31a4b2c1:
+
+    # no "Looks like he got beaten up."
+    no ""
+
+# game/v2/v2.rpy:1732
+translate template_lang nextsceneo_ee9e9ff5:
+
+    # u "I didn't-"
+    u ""
+
+# game/v2/v2.rpy:1737
+translate template_lang nextsceneo_b63527db:
+
+    # no "Wait, you're the same kid that hit on me a few days ago."
+    no ""
+
+# game/v2/v2.rpy:1742
+translate template_lang nextsceneo_99bd1ed9:
+
+    # em "Charming."
+    em ""
+
+# game/v2/v2.rpy:1746
+translate template_lang nextsceneo_28849dd3:
+
+    # u "First of all, I was just telling you that you're cute."
+    u ""
+
+# game/v2/v2.rpy:1748
+translate template_lang nextsceneo_e5214ea4:
+
+    # u "Secondly, the guy who punched me came out of nowhere, it wasn't a fair fight."
+    u ""
+
+# game/v2/v2.rpy:1754
+translate template_lang nextsceneo_6682385f:
+
+    # u "I- I didn't get beaten up, okay? A guy just punched me out of nowhere, it wasn't a fair fight."
+    u ""
+
+# game/v2/v2.rpy:1759
+translate template_lang nextsceneo_eb29b934:
+
+    # em "You know, your eye looks pretty swollen. You really need to get that checked out."
+    em ""
+
+# game/v2/v2.rpy:1764
+translate template_lang nextsceneo_6fab6ecc:
+
+    # u "It's fine."
+    u ""
+
+# game/v2/v2.rpy:1769
+translate template_lang nextsceneo_38842db1:
+
+    # em "I'll come with you if you want."
+    em ""
+
+# game/v2/v2.rpy:1774
+translate template_lang nextsceneo_0038c3f0:
+
+    # u "Emily, we're not-"
+    u ""
+
+# game/v2/v2.rpy:1779
+translate template_lang nextsceneo_79913920:
+
+    # no "Look, I'm sensing some weird energy between you two, so I'ma leave."
+    no ""
+
+# game/v2/v2.rpy:1781
+translate template_lang nextsceneo_0fa411c5:
+
+    # no "Bye Emily."
+    no ""
+
+# game/v2/v2.rpy:1786
+translate template_lang nextsceneo_377de940:
+
+    # no "Bye weirdo."
+    no ""
+
+# game/v2/v2.rpy:1791
+translate template_lang nextsceneo_d1f7d7f9:
+
+    # u "What? I didn't even-"
+    u ""
+
+# game/v2/v2.rpy:1793
+translate template_lang nextsceneo_62b194d4:
+
+    # em "I'll see you later, Nora."
+    em ""
+
+# game/v2/v2.rpy:1798
+translate template_lang nextsceneo_bba611ad:
+
+    # em "Come on, let's-"
+    em ""
+
+# game/v2/v2.rpy:1803
+translate template_lang nextsceneo_24ff09d8:
+
+    # u "Emily, we're not friends. You cheated on me."
+    u ""
+
+# game/v2/v2.rpy:1808
+translate template_lang nextsceneo_fd20340e:
+
+    # em "[name], I know I fucked up. I'm really sorry, okay?"
+    em ""
+
+# game/v2/v2.rpy:1810
+translate template_lang nextsceneo_575b7098:
+
+    # em "We hit a rough patch and I was drunk and..."
+    em ""
+
+# game/v2/v2.rpy:1812
+translate template_lang nextsceneo_a0ba8469:
+
+    # em "I just miss us. Even if it's just as friends."
+    em ""
+
+# game/v2/v2.rpy:1814
+translate template_lang nextsceneo_8607b0a7:
+
+    # em "Can we please just hang out?"
+    em ""
+
+# game/v2/v2.rpy:1824
+translate template_lang nextsceneo_662a2cea:
+
+    # u "Fine, let's go then."
+    u ""
+
+# game/v2/v2.rpy:1829
+translate template_lang nextsceneo_baed0d4e:
+
+    # em "Really? Where do you wanna go?"
+    em ""
+
+# game/v2/v2.rpy:1834
+translate template_lang nextsceneo_19d7ccb8:
+
+    # u "I thought we're going to the doctor's office? Or are you gonna tell me that your concern was merely an attempt to hang out with me?"
+    u ""
+
+# game/v2/v2.rpy:1839
+translate template_lang nextsceneo_03d5e79a:
+
+    # em "Right, of course not. Let's go."
+    em ""
+
+# game/v2/v2.rpy:1851
+translate template_lang nextsceneo_b100c2df:
+
+    # u "No Emily."
+    u ""
+
+# game/v2/v2.rpy:1856
+translate template_lang nextsceneo_de194e89:
+
+    # u "I can't just forgive you like that. You don't know what you put me through."
+    u ""
+
+# game/v2/v2.rpy:1861
+translate template_lang nextsceneo_512d53f3:
+
+    # em "Oh..."
+    em ""
+
+# game/v2/v2.rpy:1863
+translate template_lang nextsceneo_cc8c1e8a:
+
+    # em "I'll go then..."
+    em ""
+
+# game/v2/v2.rpy:1868
+translate template_lang nextsceneo_83e9361f:
+
+    # u "Goodbye, Emily."
+    u ""
+
+# game/v2/v2.rpy:1956
+translate template_lang bp_bd_486ea320:
+
+    # u "Hey, you remember the time you had your wisdom teeth pulled out and you looked like a hamster for 2 weeks straight?"
+    u ""
+
+# game/v2/v2.rpy:1962
+translate template_lang bp_bd_10706cd3:
+
+    # em "Are you ever gonna stop bringing that up?"
+    em ""
+
+# game/v2/v2.rpy:1973
+translate template_lang bp_bd_57723b9c:
+
+    # u "No way, you looked so adorable."
+    u ""
+
+# game/v2/v2.rpy:1978
+translate template_lang bp_bd_9f281ce2:
+
+    # em "What was adorable was how much you cared for me. I remember you bringing me a care package full of like a hundred different soups."
+    em ""
+
+# game/v2/v2.rpy:1980
+translate template_lang bp_bd_fa12b88a:
+
+    # em "It was so thoughtful."
+    em ""
+
+# game/v2/v2.rpy:1989
+translate template_lang bp_bd_b6576c73:
+
+    # u "It was sooo funny though."
+    u ""
+
+# game/v2/v2.rpy:1995
+translate template_lang bp_bd_78255f88:
+
+    # em "You're the one to talk, your face is literally swollen up right now."
+    em ""
+
+# game/v2/v2.rpy:2001
+translate template_lang bp_bd_4fc8d054:
+
+    # u "It's not my whole face, it's just my eye."
+    u ""
+
+# game/v2/v2.rpy:2003
+translate template_lang bp_bd_8745972f:
+
+    # u "Plus, it looks badass."
+    u ""
+
+# game/v2/v2.rpy:2009
+translate template_lang bp_bd_5c5b73f9:
+
+    # em "Haha, I'm not sure who told you that."
+    em ""
+
+# game/v2/v2.rpy:2020
+translate template_lang bq_bd_b2bcac73:
+
+    # u "Shit, we gotta get off at this stop."
+    u ""
+
+# game/v2/v2.rpy:2029
+translate template_lang bq_bd_77d533cc:
+
+    # u "Hey there, you accept walk-ins right?"
+    u ""
+
+# game/v2/v2.rpy:2031
+translate template_lang bq_bd_7e133080:
+
+    # u "I need someone to look at my eye."
+    u ""
+
+# game/v2/v2.rpy:2036
+translate template_lang bq_bd_eb6699a4:
+
+    # ben "Yeah, sure thing. Fill out these forms and then take a seat in the waiting room and I'll let you know when Dr. Ehrmantraut can slot you in."
+    ben ""
+
+# game/v2/v2.rpy:2041
+translate template_lang bq_bd_b822ede1:
+
+    # em "Hey, I've seen you before, you went to school with my sister."
+    em ""
+
+# game/v2/v2.rpy:2043
+translate template_lang bq_bd_65f217b4:
+
+    # em "Benjamin, right?"
+    em ""
+
+# game/v2/v2.rpy:2048
+translate template_lang bq_bd_1ce47e7b:
+
+    # ben "Oh, I remember. You're Hannah's sister."
+    ben ""
+
+# game/v2/v2.rpy:2053
+translate template_lang bq_bd_43ceef73:
+
+    # em "Didn't you wanna become a lawyer?"
+    em ""
+
+# game/v2/v2.rpy:2058
+translate template_lang bq_bd_6a1ac90c:
+
+    # ben "I mean yeah, but technically - I didn't get into law school."
+    ben ""
+
+# game/v2/v2.rpy:2063
+translate template_lang bq_bd_56bfd909:
+
+    # ben "But this is actually a really good job, you know."
+    ben ""
+
+# game/v2/v2.rpy:2065
+translate template_lang bq_bd_5c90378d:
+
+    # ben "It pays well. And I get benefits. Dental benefits."
+    ben ""
+
+# game/v2/v2.rpy:2067
+translate template_lang bq_bd_4e2c3912:
+
+    # ben "So really, dream job."
+    ben ""
+
+# game/v2/v2.rpy:2072
+translate template_lang bq_bd_77cd096f:
+
+    # em "Well, I'm glad you found something you like."
+    em ""
+
+# game/v2/v2.rpy:2077
+translate template_lang bq_bd_6239ec8d:
+
+    # em "Okay, I'm gonna go sit down in the waiting room while you fill out your forms."
+    em ""
+
+# game/v2/v2.rpy:2082
+translate template_lang bq_bd_c5a76bd8:
+
+    # u "Cool, I'll be done in a second."
+    u ""
+
+# game/v2/v2.rpy:2089
+translate template_lang bq_bd_942ae5fc:
+
+    # ben "So uhhh, are you hitting that, or can a bro make a move?"
+    ben ""
+
+# game/v2/v2.rpy:2094
+translate template_lang bq_bd_983a6c7c:
+
+    # ben "You know, even if you are hitting that... I'm totally fine with like a dual type of arrangement."
+    ben ""
+
+# game/v2/v2.rpy:2099
+translate template_lang bq_bd_be666bc9:
+
+    # u "Dude... aren't you like 30 or something?"
+    u ""
+
+# game/v2/v2.rpy:2104
+translate template_lang bq_bd_0a03aa80:
+
+    # ben "What? I'm 24."
+    ben ""
+
+# game/v2/v2.rpy:2118
+translate template_lang bq_bd_d2c46c7b:
+
+    # u "Sure, knock yourself out, man. We're not an item."
+    u ""
+
+# game/v2/v2.rpy:2123
+translate template_lang bq_bd_e5de44d4:
+
+    # ben "Thanks, bro! I'll think of you when I'm doing her."
+    ben ""
+
+# game/v2/v2.rpy:2128
+translate template_lang bq_bd_7a9562a5:
+
+    # u "Please don't..."
+    u ""
+
+# game/v2/v2.rpy:2137
+translate template_lang bq_bd_1051b39e:
+
+    # u "Just - just stay away from her, okay?"
+    u ""
+
+# game/v2/v2.rpy:2142
+translate template_lang bq_bd_3afbede2:
+
+    # ben "Fine, bro. Sorry for asking."
+    ben ""
+
+# game/v2/v2.rpy:2148
+translate template_lang br_bd_69668e67:
+
+    # em "All done with the forms?"
+    em ""
+
+# game/v2/v2.rpy:2158
+translate template_lang br_bd_e38ea10b:
+
+    # u "Yeah, but while I was doing it Benjamin asked me if he could make a move on you."
+    u ""
+
+# game/v2/v2.rpy:2163
+translate template_lang br_bd_a130a4a9:
+
+    # em "Oh really, are you my guardian now?"
+    em ""
+
+# game/v2/v2.rpy:2167
+translate template_lang br_bd_2e2b8da5:
+
+    # em "What did you say?"
+    em ""
+
+# game/v2/v2.rpy:2173
+translate template_lang br_bd_0b8e19de:
+
+    # u "Uhm... I told him off."
+    u ""
+
+# game/v2/v2.rpy:2175
+translate template_lang br_bd_ca4e838e:
+
+    # u "You know, just to protect you from having to deal with a creep."
+    u ""
+
+# game/v2/v2.rpy:2180
+translate template_lang br_bd_63edfa8d:
+
+    # em "Oh, so you're \"protecting\" me now, huh?"
+    em ""
+
+# game/v2/v2.rpy:2185
+translate template_lang br_bd_42156a9b:
+
+    # u "Oh shut up, if you wanna give him your phone number and have the worst date of your life, you're free to do so."
+    u ""
+
+# game/v2/v2.rpy:2190
+translate template_lang br_bd_7f95afe6:
+
+    # em "Haha, I think I'm good."
+    em ""
+
+# game/v2/v2.rpy:2196
+translate template_lang br_bd_27459841:
+
+    # u "I told him he should."
+    u ""
+
+# game/v2/v2.rpy:2198
+translate template_lang br_bd_bc513adc:
+
+    # u "I mean there's no way you'd go for him anyways."
+    u ""
+
+# game/v2/v2.rpy:2202
+translate template_lang br_bd_fb7ee5e1:
+
+    # em "Haha, he is kinda cute."
+    em ""
+
+# game/v2/v2.rpy:2204
+translate template_lang br_bd_4174c731:
+
+    # em "Plus he has a job."
+    em ""
+
+# game/v2/v2.rpy:2209
+translate template_lang br_bd_82a93bfc:
+
+    # u "As a receptionist."
+    u ""
+
+# game/v2/v2.rpy:2217
+translate template_lang br_bd_67e44856:
+
+    # u "Yeah, I did. I guess now we gotta wait."
+    u ""
+
+# game/v2/v2.rpy:2219
+translate template_lang br_bd_7599e584:
+
+    # u "What did you think of Benjamin by the way?"
+    u ""
+
+# game/v2/v2.rpy:2224
+translate template_lang br_bd_6140f90b:
+
+    # em "What do you mean?"
+    em ""
+
+# game/v2/v2.rpy:2229
+translate template_lang br_bd_7e05f0f5:
+
+    # u "You know, as a guy."
+    u ""
+
+# game/v2/v2.rpy:2234
+translate template_lang br_bd_ee2db0a2:
+
+    # em "I guess he's kinda cute, but also a bit weird."
+    em ""
+
+# game/v2/v2.rpy:2239
+translate template_lang br_bd_084ab882:
+
+    # em "Why are you asking?"
+    em ""
+
+# game/v2/v2.rpy:2244
+translate template_lang br_bd_6fddef7b:
+
+    # u "Just wondering."
+    u ""
+
+# game/v2/v2.rpy:2251
+translate template_lang bs_bd_ea172d77:
+
+    # ben "Dr. Ehrmantraut is now ready for you."
+    ben ""
+
+# game/v2/v2.rpy:2256
+translate template_lang bs_bd_ef1dadc4:
+
+    # em "I'll wait here, I saw a bunch of Vogues I wanna dig into."
+    em ""
+
+# game/v2/v2.rpy:2261
+translate template_lang bs_bd_745f4da9:
+
+    # ehr "Okay, looking at you I'm gonna assume you're here because of your black eye?"
+    ehr ""
+
+# game/v2/v2.rpy:2266
+translate template_lang bs_bd_42487ce7:
+
+    # u "(Holy shit, I thought Dr. Ehrmantraut was a guy.)"
+    u ""
+
+# game/v2/v2.rpy:2270
+translate template_lang bs_bd_16d3800d:
+
+    # u "Uhh... yeah, my friend dragged me here in order to get it looked at."
+    u ""
+
+# game/v2/v2.rpy:2275
+translate template_lang bs_bd_2977c7af:
+
+    # ehr "Alright, let me have a closer look and see if there's anything unusual about it."
+    ehr ""
+
+# game/v2/v2.rpy:2280
+translate template_lang bs_bd_99ef3bd4:
+
+    # ehr "Hmm..."
+    ehr ""
+
+# game/v2/v2.rpy:2282
+translate template_lang bs_bd_bc9d85e6:
+
+    # ehr "It all looks fine to me."
+    ehr ""
+
+# game/v2/v2.rpy:2287
+translate template_lang bs_bd_f5b11998:
+
+    # ehr "When did this happen?"
+    ehr ""
+
+# game/v2/v2.rpy:2292
+translate template_lang bs_bd_4d469330:
+
+    # u "Yesterday. I got punched in the face out of nowhere."
+    u ""
+
+# game/v2/v2.rpy:2297
+translate template_lang bs_bd_b46706a3:
+
+    # ehr "Does it hurt a lot? I could prescribe you a week's worth of painkillers."
+    ehr ""
+
+# game/v2/v2.rpy:2302
+translate template_lang bs_bd_976e8c37:
+
+    # u "(Why can't life be more like porn...? Sex with her would take any pain away.)"
+    u ""
+
+# game/v2/v2.rpy:2304
+translate template_lang bs_bd_635445a7:
+
+    # u "Uhm... no, that's fine. It doesn't hurt too badly."
+    u ""
+
+# game/v2/v2.rpy:2309
+translate template_lang bs_bd_d075d62f:
+
+    # ehr "Well then, your face should be back to normal in a week. If it doesn't get better, please come see me again."
+    ehr ""
+
+# game/v2/v2.rpy:2314
+translate template_lang bs_bd_8024e817:
+
+    # u "Thanks, will do."
+    u ""
+
+# game/v2/v2.rpy:2316
+translate template_lang bs_bd_44abc50c:
+
+    # u "(Now I really hope it doesn't get better...)"
+    u ""
+
+# game/v2/v2.rpy:2321
+translate template_lang bs_bd_44918a53:
+
+    # u "Are you ready to go?"
+    u ""
+
+# game/v2/v2.rpy:2326
+translate template_lang bs_bd_b0d1ce85:
+
+    # em "Yeah, let's leave."
+    em ""
+
+# game/v2/v2.rpy:2770
+translate template_lang v2_nsfwSkipLabel1_cfdd20f8:
+
+    # u "(Let's see what Aubrey thinks of this costume.)"
+    u ""
+
+# game/v2/v2.rpy:2780
+translate template_lang v2_nsfwSkipLabel1_53cc9e72:
+
+    # au "Oh my god, you make an adorable Viking."
+    au ""
+
+# game/v2/v2.rpy:2785
+translate template_lang v2_nsfwSkipLabel1_3f475574:
+
+    # u "Really? Adorable? How about hot?"
+    u ""
+
+# game/v2/v2.rpy:2790
+translate template_lang v2_nsfwSkipLabel1_e6f4acca:
+
+    # au "Haha, what do you think of my outfit?"
+    au ""
+
+# game/v2/v2.rpy:2799
+translate template_lang v2_nsfwSkipLabel1_7d80e924:
+
+    # u "I'm not gonna lie, it's kinda hot."
+    u ""
+
+# game/v2/v2.rpy:2801
+translate template_lang v2_nsfwSkipLabel1_9d031eba:
+
+    # u "You could be like my Viking queen."
+    u ""
+
+# game/v2/v2.rpy:2806
+translate template_lang v2_nsfwSkipLabel1_86a517e6:
+
+    # au "I think you've put me in the wrong time period, buddy."
+    au ""
+
+# game/v2/v2.rpy:2812
+translate template_lang v2_nsfwSkipLabel1_519c302b:
+
+    # au "Let's try some of the other outfits."
+    au ""
+
+# game/v2/v2.rpy:2818
+translate template_lang v2_nsfwSkipLabel1_dc103a0a:
+
+    # au "Have you decided which one to buy yet?"
+    au ""
+
+# game/v2/v2.rpy:2826
+translate template_lang v2_nsfwSkipLabel1_f56eb18c:
+
+    # u "I mean, it's definitely something."
+    u ""
+
+# game/v2/v2.rpy:2828
+translate template_lang v2_nsfwSkipLabel1_c1c9b559:
+
+    # u "I'm not sure if you should replace your everyday clothes with it though."
+    u ""
+
+# game/v2/v2.rpy:2834
+translate template_lang v2_nsfwSkipLabel1_8671c31a:
+
+    # au "I'll guess I'll have to try some of the other outfits then."
+    au ""
+
+# game/v2/v2.rpy:2837
+translate template_lang v2_nsfwSkipLabel1_dc103a0a_1:
+
+    # au "Have you decided which one to buy yet?"
+    au ""
+
+# game/v2/v2.rpy:2909
+translate template_lang v2_nsfwSkipLabel2_5d028643:
+
+    # u "(Time to show this to Aubrey)"
+    u ""
+
+# game/v2/v2.rpy:2919
+translate template_lang v2_nsfwSkipLabel2_1a5b144f:
+
+    # au "Damn, I like your outfit."
+    au ""
+
+# game/v2/v2.rpy:2924
+translate template_lang v2_nsfwSkipLabel2_ffa24c4f:
+
+    # u "Well thank you, milady."
+    u ""
+
+# game/v2/v2.rpy:2926
+translate template_lang v2_nsfwSkipLabel2_3101ede1:
+
+    # u "Yours is uhhh..."
+    u ""
+
+# game/v2/v2.rpy:2932
+translate template_lang v2_nsfwSkipLabel2_32a69f7e:
+
+    # u "...looking mighty fine as well."
+    u ""
+
+# game/v2/v2.rpy:2937
+translate template_lang v2_nsfwSkipLabel2_da553dc5:
+
+    # au "Is it weird that you talking like that kinda turns me on?"
+    au ""
+
+# game/v2/v2.rpy:2942
+translate template_lang v2_nsfwSkipLabel2_5c1ba02f:
+
+    # u "Wait really? Should I keep going?"
+    u ""
+
+# game/v2/v2.rpy:2948
+translate template_lang v2_nsfwSkipLabel2_968e7bbb:
+
+    # au "Hahaha, no. I was just joking."
+    au ""
+
+# game/v2/v2.rpy:2951
+translate template_lang v2_nsfwSkipLabel2_224046bf:
+
+    # au "Let's switch outfits."
+    au ""
+
+# game/v2/v2.rpy:2954
+translate template_lang v2_nsfwSkipLabel2_45b9ed1d:
+
+    # au "Are you gonna buy this one?"
+    au ""
+
+# game/v2/v2.rpy:2959
+translate template_lang v2_nsfwSkipLabel2_c9a2f903:
+
+    # u "... certainly practical."
+    u ""
+
+# game/v2/v2.rpy:2964
+translate template_lang v2_nsfwSkipLabel2_12d26b71:
+
+    # au "That is the single greatest compliment I think I've ever received."
+    au ""
+
+# game/v2/v2.rpy:2969
+translate template_lang v2_nsfwSkipLabel2_d3e94b55:
+
+    # u "I am kinda known for my charm."
+    u ""
+
+# game/v2/v2.rpy:2974
+translate template_lang v2_nsfwSkipLabel2_66970db9:
+
+    # au "Really? I thought it was for getting punched in the face."
+    au ""
+
+# game/v2/v2.rpy:2979
+translate template_lang v2_nsfwSkipLabel2_9bfbf47c:
+
+    # u "Wow, low blow."
+    u ""
+
+# game/v2/v2.rpy:2984
+translate template_lang v2_nsfwSkipLabel2_224046bf_1:
+
+    # au "Let's switch outfits."
+    au ""
+
+# game/v2/v2.rpy:2987
+translate template_lang v2_nsfwSkipLabel2_735ae2aa:
+
+    # au "So are you gonna buy this one?"
+    au ""
+
+# game/v2/v2.rpy:3059
+translate template_lang v2_nsfwSkipLabel3_9f6f578e:
+
+    # u "Man she's gonna love this costume."
+    u ""
+
+# game/v2/v2.rpy:3064
+translate template_lang v2_nsfwSkipLabel3_e57a573c:
+
+    # u "Aubrey? Are you coming out?"
+    u ""
+
+# game/v2/v2.rpy:3066
+translate template_lang v2_nsfwSkipLabel3_ce41a1d2:
+
+    # au "This costume is literally just historic lingerie."
+    au ""
+
+# game/v2/v2.rpy:3070
+translate template_lang v2_nsfwSkipLabel3_156b0976:
+
+    # au "I'm not showing you this, haha."
+    au ""
+
+# game/v2/v2.rpy:3077
+translate template_lang v2_nsfwSkipLabel3_36465395:
+
+    # u "Oh come on, Aubrey. I wanna see."
+    u ""
+
+# game/v2/v2.rpy:3082
+translate template_lang v2_nsfwSkipLabel3_209d958e:
+
+    # au "Sorry but... I'm gonna get dressed again."
+    au ""
+
+# game/v2/v2.rpy:3084
+translate template_lang v2_nsfwSkipLabel3_ebb31da5:
+
+    # u "Alright, fine."
+    u ""
+
+# game/v2/v2.rpy:3088
+translate template_lang v2_nsfwSkipLabel3_fb1ad710:
+
+    # au "Okay, fine. Just for you."
+    au ""
+
+# game/v2/v2.rpy:3098
+translate template_lang v2_nsfwSkipLabel3_2189828c:
+
+    # u "Holy shit, you weren't exaggerating. That is revealing."
+    u ""
+
+# game/v2/v2.rpy:3103
+translate template_lang v2_nsfwSkipLabel3_bd372840:
+
+    # au "See what I mean now? Can I get dressed again?"
+    au ""
+
+# game/v2/v2.rpy:3108
+translate template_lang v2_nsfwSkipLabel3_26b9cb57:
+
+    # u "You sure you don't wanna keep this on for the rest of the day?"
+    u ""
+
+# game/v2/v2.rpy:3113
+translate template_lang v2_nsfwSkipLabel3_72b71966:
+
+    # au "Haha yes. I hope you got a good look, 'cause I'm changing back."
+    au ""
+
+# game/v2/v2.rpy:3115
+translate template_lang v2_nsfwSkipLabel3_97818984:
+
+    # au "Also, this cowboy outfit is probably the worst thing I've ever seen anyone wear."
+    au ""
+
+# game/v2/v2.rpy:3117
+translate template_lang v2_nsfwSkipLabel3_21bc3cf3:
+
+    # au "So let's get out of these outfits."
+    au ""
+
+# game/v2/v2.rpy:3125
+translate template_lang v2_nsfwSkipLabel3_ebb31da5_1:
+
+    # u "Alright, fine."
+    u ""
+
+# game/v2/v2.rpy:3127
+translate template_lang v2_nsfwSkipLabel3_d76759c0:
+
+    # u "Then get dressed quickly, so that you can see my costume."
+    u ""
+
+# game/v2/v2.rpy:3129
+translate template_lang v2_nsfwSkipLabel3_d8940fd5:
+
+    # au "Yeah, just give me a minute."
+    au ""
+
+# game/v2/v2.rpy:3316
+translate template_lang v2_nsfwSkipLabel4_c9690363:
+
+    # u "(Let's see what Penelope thinks of this costume.)"
+    u ""
+
+# game/v2/v2.rpy:3326
+translate template_lang v2_nsfwSkipLabel4_d5b92c88:
+
+    # pe "Oh I don't think you should get that costume."
+    pe ""
+
+# game/v2/v2.rpy:3331
+translate template_lang v2_nsfwSkipLabel4_1891caa4:
+
+    # u "Why? Do I look too dashing?"
+    u ""
+
+# game/v2/v2.rpy:3336
+translate template_lang v2_nsfwSkipLabel4_4445f003:
+
+    # pe "No, it's just that Vikings didn't actually have horns on their helmets."
+    pe ""
+
+# game/v2/v2.rpy:3338
+translate template_lang v2_nsfwSkipLabel4_42a8d686:
+
+    # pe "And Mr. Lee said that the costumes should be historically accurate."
+    pe ""
+
+# game/v2/v2.rpy:3343
+translate template_lang v2_nsfwSkipLabel4_74466041:
+
+    # u "Oh, right. Totally."
+    u ""
+
+# game/v2/v2.rpy:3347
+translate template_lang v2_nsfwSkipLabel4_94e659fd:
+
+    # pe "So uhm... what do you think of my outfit?"
+    pe ""
+
+# game/v2/v2.rpy:3356
+translate template_lang v2_nsfwSkipLabel4_9427cc31:
+
+    # u "You look beautiful. Do you like it?"
+    u ""
+
+# game/v2/v2.rpy:3361
+translate template_lang v2_nsfwSkipLabel4_b030db80:
+
+    # pe "Awww, thank you."
+    pe ""
+
+# game/v2/v2.rpy:3363
+translate template_lang v2_nsfwSkipLabel4_d07ac90d:
+
+    # pe "Yeah, it's kinda cool."
+    pe ""
+
+# game/v2/v2.rpy:3366
+translate template_lang v2_nsfwSkipLabel4_784f0486:
+
+    # pe "Should we try some other outfits?"
+    pe ""
+
+# game/v2/v2.rpy:3369
+translate template_lang v2_nsfwSkipLabel4_8928515d:
+
+    # pe "Are you ready to buy an outfit?"
+    pe ""
+
+# game/v2/v2.rpy:3377
+translate template_lang v2_nsfwSkipLabel4_fdf7c84b:
+
+    # u "I guess it's kinda nice. What do you think?"
+    u ""
+
+# game/v2/v2.rpy:3382
+translate template_lang v2_nsfwSkipLabel4_ebc2e279:
+
+    # pe "I like it, but I'm not sure."
+    pe ""
+
+# game/v2/v2.rpy:3385
+translate template_lang v2_nsfwSkipLabel4_784f0486_1:
+
+    # pe "Should we try some other outfits?"
+    pe ""
+
+# game/v2/v2.rpy:3388
+translate template_lang v2_nsfwSkipLabel4_8928515d_1:
+
+    # pe "Are you ready to buy an outfit?"
+    pe ""
+
+# game/v2/v2.rpy:3461
+translate template_lang v2_nsfwSkipLabel5_7617b006:
+
+    # u "(Time to show this to Penelope)"
+    u ""
+
+# game/v2/v2.rpy:3471
+translate template_lang v2_nsfwSkipLabel5_be95785c:
+
+    # pe "Oh, you're a knight!"
+    pe ""
+
+# game/v2/v2.rpy:3476
+translate template_lang v2_nsfwSkipLabel5_22e59b26:
+
+    # u "Yeah and you're like a female with shoulder pads?"
+    u ""
+
+# game/v2/v2.rpy:3481
+translate template_lang v2_nsfwSkipLabel5_5e850613:
+
+    # pe "Sir, your perception skills are outstanding."
+    pe ""
+
+# game/v2/v2.rpy:3486
+translate template_lang v2_nsfwSkipLabel5_ffa24c4f:
+
+    # u "Well thank you, milady."
+    u ""
+
+# game/v2/v2.rpy:3491
+translate template_lang v2_nsfwSkipLabel5_e4bda834:
+
+    # pe "You know, our costumes fit quite well together."
+    pe ""
+
+# game/v2/v2.rpy:3497
+translate template_lang v2_nsfwSkipLabel5_4d80c854:
+
+    # u "Yeah, maybe it's like the costume of two lovers, you know... historically speaking."
+    u ""
+
+# game/v2/v2.rpy:3502
+translate template_lang v2_nsfwSkipLabel5_4881cc23:
+
+    # pe "Haha, I'm sure that's the case."
+    pe ""
+
+# game/v2/v2.rpy:3505
+translate template_lang v2_nsfwSkipLabel5_b5ad0502:
+
+    # pe "Let's continue, I wanna try another outfit."
+    pe ""
+
+# game/v2/v2.rpy:3508
+translate template_lang v2_nsfwSkipLabel5_8928515d:
+
+    # pe "Are you ready to buy an outfit?"
+    pe ""
+
+# game/v2/v2.rpy:3513
+translate template_lang v2_nsfwSkipLabel5_2f9da969:
+
+    # u "Yeah, it would be a cool partner costume."
+    u ""
+
+# game/v2/v2.rpy:3518
+translate template_lang v2_nsfwSkipLabel5_5c182744:
+
+    # pe "That's a sweet idea. Maybe we can do something like that."
+    pe ""
+
+# game/v2/v2.rpy:3521
+translate template_lang v2_nsfwSkipLabel5_507a43ec:
+
+    # pe "But let's check out the other outfits first."
+    pe ""
+
+# game/v2/v2.rpy:3524
+translate template_lang v2_nsfwSkipLabel5_bc9f16f8:
+
+    # pe "Would you be ready to buy an outfit?"
+    pe ""
+
+# game/v2/v2.rpy:3597
+translate template_lang v2_nsfwSkipLabel6_9f6f578e:
+
+    # u "Man she's gonna love this costume."
+    u ""
+
+# game/v2/v2.rpy:3602
+translate template_lang v2_nsfwSkipLabel6_63079810:
+
+    # u "Penelope? Are you coming out?"
+    u ""
+
+# game/v2/v2.rpy:3604
+translate template_lang v2_nsfwSkipLabel6_15298cba:
+
+    # pe "Well I was trying on a costume, but after seeing I realize that it shows way too much skin to wear it to class."
+    pe ""
+
+# game/v2/v2.rpy:3606
+translate template_lang v2_nsfwSkipLabel6_cfb6e0db:
+
+    # u "Can I see?"
+    u ""
+
+# game/v2/v2.rpy:3608
+translate template_lang v2_nsfwSkipLabel6_38062494:
+
+    # pe "No, haha. Sorry."
+    pe ""
+
+# game/v2/v2.rpy:3615
+translate template_lang v2_nsfwSkipLabel6_8d333e1a:
+
+    # u "Oh come on, Penelope. I wanna see."
+    u ""
+
+# game/v2/v2.rpy:3618
+translate template_lang v2_nsfwSkipLabel6_6749b01c:
+
+    # pe "Sorry but... I'm gonna get dressed again."
+    pe ""
+
+# game/v2/v2.rpy:3621
+translate template_lang v2_nsfwSkipLabel6_ebb31da5:
+
+    # u "Alright, fine."
+    u ""
+
+# game/v2/v2.rpy:3626
+translate template_lang v2_nsfwSkipLabel6_1283716f:
+
+    # u "Okay, fine."
+    u ""
+
+# game/v2/v2.rpy:3628
+translate template_lang v2_nsfwSkipLabel6_d76759c0:
+
+    # u "Then get dressed quickly, so that you can see my costume."
+    u ""
+
+# game/v2/v2.rpy:3630
+translate template_lang v2_nsfwSkipLabel6_557d2bda:
+
+    # pe "Yeah, just give me a minute."
+    pe ""
+
+# game/v2/v2.rpy:3640
+translate template_lang v2_nsfwSkipLabel6_22984668:
+
+    # pe "Wow, I'm not sure how I feel about the cowboy look."
+    pe ""
+
+# game/v2/v2.rpy:3645
+translate template_lang v2_nsfwSkipLabel6_89e51cb4:
+
+    # u "What?? I considered cowboy to be a serious career path for me after I saw myself in this outfit."
+    u ""
+
+# game/v2/v2.rpy:3650
+translate template_lang v2_nsfwSkipLabel6_e93cf270:
+
+    # pe "Yeah... you should probably rethink that, haha."
+    pe ""
+
+# game/v2/v2.rpy:3653
+translate template_lang v2_nsfwSkipLabel6_a296406c:
+
+    # pe "Let's check out something different."
+    pe ""
+
+# game/v2/v2.rpy:3656
+translate template_lang v2_nsfwSkipLabel6_8928515d:
+
+    # pe "Are you ready to buy an outfit?"
+    pe ""
+
+# game/v2/v2.rpy:3747
+translate template_lang v1_caughtContinue_ee7c7ea8:
+
+    # au "Wait really?"
+    au ""
+
+# game/v2/v2.rpy:3749
+translate template_lang v1_caughtContinue_94a999db:
+
+    # au "Ooops, I guess never mind, let's just buy a costume."
+    au ""
+
+# game/v2/v2.rpy:3754
+translate template_lang v1_caughtContinue_a9eb1f0d:
+
+    # u "Yeah, it's fine. I'll pick one."
+    u ""
+
+# game/v2/v2.rpy:3760
+translate template_lang v1_caughtContinue_8ce08bd4:
+
+    # au "Yeah, right."
+    au ""
+
+# game/v2/v2.rpy:3762
+translate template_lang v1_caughtContinue_59523f30:
+
+    # au "Honestly, I didn't even mind, but why would you lie about it, that's messed up."
+    au ""
+
+# game/v2/v2.rpy:3764
+translate template_lang v1_caughtContinue_fccb15df:
+
+    # au "I'm gonna leave, I guess I'll see you around."
+    au ""
+
+# game/v2/v2.rpy:3769
+translate template_lang v1_caughtContinue_6684c9a9:
+
+    # u "(Fuck, I shouldn't have lied to her.)"
+    u ""
+
+# game/v2/v2.rpy:3771
+translate template_lang v1_caughtContinue_1f305862:
+
+    # u "(And I still need to buy a costume...)"
+    u ""
+
+# game/v2/v2.rpy:3870
+translate template_lang v1_caughtContinue_pen_9c9b0acb:
+
+    # pe "Wait really?"
+    pe ""
+
+# game/v2/v2.rpy:3872
+translate template_lang v1_caughtContinue_pen_7fb91ed5:
+
+    # pe "I'm so sorry, I just... I just thought-"
+    pe ""
+
+# game/v2/v2.rpy:3874
+translate template_lang v1_caughtContinue_pen_db62e527:
+
+    # pe "Let's just both buy a costume and get out of here."
+    pe ""
+
+# game/v2/v2.rpy:3879
+translate template_lang v1_caughtContinue_pen_a9eb1f0d:
+
+    # u "Yeah, it's fine. I'll pick one."
+    u ""
+
+# game/v2/v2.rpy:3885
+translate template_lang v1_caughtContinue_pen_1f1ad7fe:
+
+    # pe "[name], I know what I saw."
+    pe ""
+
+# game/v2/v2.rpy:3887
+translate template_lang v1_caughtContinue_pen_94a64fa7:
+
+    # pe "Why can't you just admit it?"
+    pe ""
+
+# game/v2/v2.rpy:3889
+translate template_lang v1_caughtContinue_pen_183d89ad:
+
+    # pe "I don't know how to deal with this right now. Goodbye."
+    pe ""
+
+# game/v2/v2.rpy:3894
+translate template_lang v1_caughtContinue_pen_948c682f_1:
+
+    # u "(Fuck, I shouldn't have risked it.)"
+    u ""
+
+# game/v2/v2.rpy:3896
+translate template_lang v1_caughtContinue_pen_1f305862_1:
+
+    # u "(And I still need to buy a costume...)"
+    u ""
 
 translate template_lang strings:
 
-    # game/v2/v2.rpy:40
-    old "What's your name?"
-    new "Adın ne?"
+    # game/v2/v2.rpy:6
+    old "Look, I know what Grayson did was a dick move, but he was just being overprotective of Chloe"
+    new ""
+
+    # game/v2/v2.rpy:7
+    old "Whatever"
+    new ""
+
+    # game/v2/v2.rpy:8
+    old "Don't you dare defend that guy"
+    new ""
+
+    # game/v2/v2.rpy:15
+    old "Sorry..."
+    new ""
+
+    # game/v2/v2.rpy:27
+    old "Great, I'll see you then :)"
+    new ""
+
+    # game/v2/v2.rpy:36
+    old "It's fine, you go get her."
+    new ""
 
     # game/v2/v2.rpy:40
-    old "Alex"
-    new "Alex"
+    old "Nah, you don't want a bitch like her."
+    new ""
 
-    # game/v2/v2.rpy:152
-    old "Cool :)"
-    new "Güzel :)"
+    # game/v2/v2.rpy:41
+    old "Yeah, I guess you're right."
+    new ""
 
-    # game/v2/v2.rpy:163
-    old "Ugh :/"
-    new "Ugh :/"
+    # game/v2/v2.rpy:42
+    old "Dude, what the fuck?!"
+    new ""
+
+    # game/v2/v2.rpy:46
+    old "Hahaha, I'm just kidding, yo."
+    new ""
+
+    # game/v2/v2.rpy:47
+    old "Of course I gave her your number."
+    new ""
+
+    # game/v2/v2.rpy:48
+    old "Damn, you got me."
+    new ""
+
+    # game/v2/v2.rpy:59
+    old "Yeah, I mean they had a thing a while ago but she broke it off 'cause he lied about some shit."
+    new ""
+
+    # game/v2/v2.rpy:60
+    old "So... tomorrow?"
+    new ""
+
+    # game/v2/v2.rpy:61
+    old "My day tomorrow is quite full, but how about today?\n\nI need to buy a costume."
+    new ""
+
+    # game/v2/v2.rpy:65
+    old "I've got dance practice tonight \n:("
+    new ""
+
+    # game/v2/v2.rpy:66
+    old "I'm not talking tonight, I can pick you up right now."
+    new ""
+
+    # game/v2/v2.rpy:67
+    old "Oh wow, that's spontaneous, I like it haha.\n\nI guess come to the Chicks' house whenever you're ready and then we can go costume shopping."
+    new ""
+
+    # game/v2/v2.rpy:68
+    old "Cool, I'll be 20 mins."
+    new ""
+
+    # game/v2/v2.rpy:73
+    old "Good :)"
+    new ""
+
+    # game/v2/v2.rpy:78
+    old "Oh, okay. Guess we'll have to postpone the costume buying."
+    new ""
+
+    # game/v2/v2.rpy:139
+    old "Hmm... maybe."
+    new ""
+
+    # game/v2/v2.rpy:139
+    old "I'm not fighting."
+    new ""
 
     # game/v2/v2.rpy:165
-    old "Hey...\nI know we haven’t talked much after we broke up, but I just wanted to let you know that I didn’t get into Stanford, so I’ll be going to San Vallejo as well.\nGuess I’ll see you there. :)"
-    new "Hey...\nAyrıldıktan sonra pek konuşmadığımızı biliyorum, ama sadece Stanford'a girmediğimi bilmeni istedim, bu yüzden San Vallejo'ya da gideceğim.\nSanırım orada görüşürüz. :)"
+    old "I'll think about it."
+    new ""
 
-    # game/v2/v2.rpy:166
-    old "Yeah... I’ll see you there."
-    new "Evet... Orada görüşürüz."
+    # game/v2/v2.rpy:165
+    old "I won't fight."
+    new ""
 
-    # game/v2/v2.rpy:167
-    old "You cheated on me.\nGo to hell!"
-    new "Beni aldattın.\nCehenneme kadar yolun var!"
+    # game/v2/v2.rpy:196
+    old "You okay?"
+    new ""
+
+    # game/v2/v2.rpy:197
+    old "I'm fine"
+    new ""
+
+    # game/v2/v2.rpy:198
+    old "No, wtf was that?! Fuck Grayson and fuck the Apes"
+    new ""
 
     # game/v2/v2.rpy:201
-    old "Could be fun"
-    new "Eğlenceli olurdu"
-
-    # game/v2/v2.rpy:436
-    old "Flirt"
-    new "Flört et"
-
-    # game/v2/v2.rpy:436
-    old "Inquire"
-    new "Sor"
-
-    # game/v2/v2.rpy:613
-    old "Stay quiet"
-    new "Sessiz kal"
-
-    # game/v2/v2.rpy:700
-    old "Disagree"
-    new "Katılma"
-
-    # game/v2/v2.rpy:763
-    old "Don't defend Autumn"
-    new "Autumn'ı savunma"
-
-    # game/v2/v2.rpy:763
-    old "Defend Autumn"
-    new "Autumn'ı savun"
-
-    # game/v2/v2.rpy:788
-    old "You're cuter"
-    new "Sen daha tatlısın"
-
-    # game/v2/v2.rpy:788
-    old "Yeah, kinda"
-    new "Evet, biraz"
-
-    # game/v2/v2.rpy:875
-    old "Hey honey,\nenjoy your time in college.\nStay safe and don't forget to visit me.\nLove you"
-    new "Hey tatlım,\nüniversitede iyi eğlenceler.\nGüvende kal ve beni ziyaret etmeyi unutma.\nSeni seviyorum"
-
-    # game/v2/v2.rpy:876
-    old "Love you too."
-    new "Ben de seni seviyorum."
-
-    # game/v2/v2.rpy:877
-    old "Thanks, Julia :)"
-    new "Teşekkürler, Julia :)"
-
-    # game/v2/v2.rpy:914
-    old "She's hot."
-    new "O çok ateşli."
-
-    # game/v2/v2.rpy:914
-    old "She seems nice."
-    new "Hoş görünüyor."
-
-    # game/v2/v2.rpy:1050
-    old "So... the nerds?"
-    new "Yani ... inekler?"
-
-    # game/v2/v2.rpy:1050
-    old "That's cool."
-    new "Çok havalı."
-
-    # game/v2/v2.rpy:1310
-    old "So, they're equally good?"
-    new "Yani eşit derecede iyiler mi?"
-
-    # game/v2/v2.rpy:1310
-    old "The Wolves sound sick."
-    new "Kurtlar hasta gibi."
-
-    # game/v2/v2.rpy:1432
-    old "Hey Lauren, would you want to hang out with me and my friends tonight?"
-    new "Lauren, bu gece benimle ve arkadaşlarımla takılmak ister misin?"
-
-    # game/v2/v2.rpy:1433
-    old "Yeah sounds good :) Where do you wanna meet?"
-    new "Evet kulağa hoş geliyor:) nerede buluşmak istiyorsun?"
-
-    # game/v2/v2.rpy:1434
-    old "Just come to dorm 109 at 8"
-    new "Saat 8'de 109 numaralı yatakhaneye gel."
-
-    # game/v2/v2.rpy:1435
-    old "Okay, will do"
-    new "Tamam yapacağım"
-
-    # game/v2/v2.rpy:1436
-    old "See you later, cutie"
-    new "Sonra görüşürüz tatlım"
-
-    # game/v2/v2.rpy:1437
-    old "Cool"
-    new "Güzel"
-
-    # game/v2/v2.rpy:1682
-    old "You're missing out"
-    new "Çok şey kaçırıyorsun"
-
-    # game/v2/v2.rpy:1682
-    old "Dodged a bullet there."
-    new "Ucuz atlattım."
-
-    # game/v2/v2.rpy:1763
-    old "Take your shirt off"
-    new "Üstünü çıkar"
-
-    # game/v2/v2.rpy:1763
-    old "Drink instead"
-    new "Bunun yerine iç"
-
-    # game/v2/v2.rpy:1819
-    old "Do it, or drink."
-    new "Yap ya da iç."
-
-    # game/v2/v2.rpy:1819
-    old "You're right."
-    new "Haklısın."
-
-    # game/v2/v2.rpy:1872
-    old "Riley's mine."
-    new "Riley benim."
-
-    # game/v2/v2.rpy:1872
-    old "They're both hot."
-    new "İkisi de ateşli."
-
-    # game/v2/v2.rpy:1884
-    old "You're right, sorry."
-    new "Haklısın, kusura bakma."
-
-    # game/v2/v2.rpy:1884
-    old "She wants me."
-    new "Beni istiyor."
-
-    # game/v2/v2.rpy:2042
-    old "Keep dreaming"
-    new "Hayal etmeye devam et"
-
-    # game/v2/v2.rpy:2042
-    old "Wake up"
-    new "Uyan"
-
-    # game/v2/v2.rpy:2065
-    old "Blowjob"
-    new "Sakso"
-
-    # game/v2/v2.rpy:2065
-    old "Footjob"
-    new "Footjob"
-
-    # game/v2/v2.rpy:2403
-    old "Move in with me?"
-    new "Yanıma taşınmak mı?"
-
-    # game/v2/v2.rpy:2403
-    old "Bad roommates suck."
-    new "Kötü oda arkadaşları berbattır."
-
-    # game/v2/v2.rpy:2520
-    old "You could get any guy."
-    new "Herhangi bir erkeği elde edebilirsin."
-
-    # game/v2/v2.rpy:2520
-    old "Yet, you're here with me."
-    new "Yine de benimlesin."
-
-    # game/v2/v2.rpy:2577
-    old "I'm still in love with my ex."
-    new "Hala eski sevgilime aşığım."
-
-    # game/v2/v2.rpy:2577
-    old "I've broken into an Ikea."
-    new "Ikea'ya girdim."
-
-    # game/v2/v2.rpy:2725
-    old "You're really beautiful."
-    new "Gerçekten çok güzelsin."
-
-    # game/v2/v2.rpy:2725
-    old "You're not ugly."
-    new "Çirkin değilsin."
-
-    # game/v2/v2.rpy:2912
-    old "Hey man, it's Ryan.\nThe Apes' rush party is tonight at 9. You're coming, right???"
-    new "Selam dostum, ben Ryan.\nMaymunların Rush Partisi bu akşam saat 9'da. Geliyorsun, değil mi???"
-
-    # game/v2/v2.rpy:2913
-    old "Alright, but I'll only stay for a few hours."
-    new "Tamam, ama sadece birkaç saat kalacağım."
-
-    # game/v2/v2.rpy:2914
-    old "Haha, trust me, you're not gonna want to leave once you see all the hot chicks there."
-    new "Haha, inan bana, oradaki tüm ateşli hatunları gördükten sonra ayrılmak istemeyeceksin."
-
-    # game/v2/v2.rpy:2915
-    old "Just meet me in front of the Apes' frat house at 9."
-    new "Saat 9'da Maymunların kardeşlik evinin önünde buluşalım."
-
-    # game/v2/v2.rpy:2916
-    old "Okay, will do."
-    new "Tamam yapacağım."
-
-    # game/v2/v2.rpy:3251
-    old "Ask if she likes fighters"
-    new "Dövüşçüleri sevip sevmediğini sor"
-
-    # game/v2/v2.rpy:3265
-    old "Say you're a fighter"
-    new "Bir dövüşçü olduğunu söyle"
-
-    # game/v2/v2.rpy:3265
-    old "Say you're not a fighter"
-    new "Bir dövüşçü olmadığını söyle"
-
-    # game/v2/v2.rpy:3332
-    old "I'll be the next Fight King."
-    new "Bir sonraki Dövüş Kralı olacağım."
-
-    # game/v2/v2.rpy:3332
-    old "No, that's not for me."
-    new "Hayır, Bu bana göre değil."
-
-    # game/v2/v2.rpy:3444
-    old "Idk, it's just feels kinda weird now. Can we please just talk tomorrow?"
-    new "Bilmiyorum, bu biraz garip geliyor. Lütfen yarın konuşabilir miyiz?"
-
-    # game/v2/v2.rpy:3445
-    old "Fine"
-    new "İyi"
-
-    # game/v2/v2.rpy:3446
-    old ":)"
-    new ":)"
-
-    # game/v2/v2.rpy:3448
-    old "Hey :)\nSorry about today.\n\nCan we talk tomorrow?"
-    new "Selam :)\nBugün için üzgünüm.\n\nYarın konuşabilir miyiz?"
-
-    # game/v2/v2.rpy:3450
-    old "What is there to talk about?"
-    new "Konuşacak ne var?"
-
-    # game/v2/v2.rpy:3469
-    old "Yeah, he better watch out."
-    new "Evet, çok dikkatli olmalı."
-
-    # game/v2/v2.rpy:3469
-    old "I didn't wanna fight him."
-    new "Onunla dövüşmek istemedim."
-
-    # game/v2/v2.rpy:3790
-    old "You're right, I'll talk to her."
-    new "Haklısın, onunla konuşurum."
-
-    # game/v2/v2.rpy:3790
-    old "She's occupied."
-    new "O meşgul."
-
-    # game/v2/v2.rpy:3895
-    old "Make fun of him"
-    new "Onunla dalga geç"
-
-    # game/v2/v2.rpy:3990
-    old "Poke fun"
-    new "Alay et"
-
-    # game/v2/v2.rpy:4204
-    old "Hmm... maybe."
-    new "Hmm... belki."
-
-    # game/v2/v2.rpy:4204
-    old "I'm not fighting."
-    new "Ben kavga etmiyorum"
-
-    # game/v2/v2.rpy:4230
-    old "I'll think about it."
-    new "Ben bu konuda düşüneceğim."
-
-    # game/v2/v2.rpy:4230
-    old "I won't fight."
-    new "Kavga etmeyeceğim"
-
-    # game/v2/v2.rpy:4263
-    old "Look, I know what Grayson did was a dick move, but he was just being overprotective of Chloe"
-    new "Bak, Grayson'ın yaptığı şey sikik bir hareketti biliyorum ama Chloe'ye karşı aşırı korumacıydı."
-
-    # game/v2/v2.rpy:4264
-    old "Whatever"
-    new "Herneyse"
-
-    # game/v2/v2.rpy:4265
-    old "Don't you dare defend that guy"
-    new "Sakın o adamı savunmaya kalkma."
-
-    # game/v2/v2.rpy:4272
-    old "Sorry..."
-    new "Üzgünüm..."
-
-    # game/v2/v2.rpy:4280
-    old "You okay?"
-    new "İyi misin?"
-
-    # game/v2/v2.rpy:4281
-    old "I'm fine"
-    new "İyiyim"
-
-    # game/v2/v2.rpy:4282
-    old "No, wtf was that?! Fuck Grayson and fuck the Apes"
-    new "Hayır, amk o da neydi öyle?! Grayson'ı siktir et ve Maymunları siktir et"
-
-    # game/v2/v2.rpy:4288
-    old "Great, I'll see you then :)"
-    new "Harika, görüşürüz o zaman. :)"
-
-    # game/v2/v2.rpy:4299
     old "Is everything okay?"
-    new "Her şey yolunda mı?"
+    new ""
 
-    # game/v2/v2.rpy:4300
+    # game/v2/v2.rpy:202
     old "Yeah, I'm fine."
-    new "Evet, ben iyiyim."
+    new ""
 
-    # game/v2/v2.rpy:4301
+    # game/v2/v2.rpy:203
     old "Okay..."
-    new "Tamam..."
+    new ""
 
-    # game/v2/v2.rpy:4304
+    # game/v2/v2.rpy:206
     old "Hello?? Can we please talk today?"
-    new "Merhaba?? Bugün konuşabilir miyiz?"
+    new ""
 
-    # game/v2/v2.rpy:4305
+    # game/v2/v2.rpy:207
     old "Yeah, SV cafe in 20 mins?"
-    new "Evet, 20 dakika içinde SV cafe?"
+    new ""
 
-    # game/v2/v2.rpy:4306
+    # game/v2/v2.rpy:208
     old "Sorry, I can't"
-    new "Üzgünüm, yapamam "
+    new ""
 
-    # game/v2/v2.rpy:4308
+    # game/v2/v2.rpy:210
     old "Are we still on for today? :)"
-    new "Yine de bugün için. :)"
+    new ""
 
-    # game/v2/v2.rpy:4358
+    # game/v2/v2.rpy:261
     old "Shout back"
-    new "Geri seslen"
+    new ""
 
-    # game/v2/v2.rpy:4358
-    old "Keep walking"
-    new "Yürümeye devam et"
-
-    # game/v2/v2.rpy:4368
+    # game/v2/v2.rpy:271
     old "Walk away"
-    new "Uzaklaş"
+    new ""
 
-    # game/v2/v2.rpy:5324
+    # game/v2/v2.rpy:1069
     old "Kick him"
-    new "Tekmele"
+    new ""
 
-    # game/v2/v2.rpy:5431
+    # game/v2/v2.rpy:1177
     old "There was something there."
-    new "Orada bir şey vardı."
+    new ""
 
-    # game/v2/v2.rpy:5431
+    # game/v2/v2.rpy:1177
     old "Let's forget about it."
-    new "Unutalım gitsin."
+    new ""
 
-    # game/v2/v2.rpy:5527
+    # game/v2/v2.rpy:1266
     old "Give me a chance."
-    new "Bana bir şans ver."
+    new ""
 
-    # game/v2/v2.rpy:5641
-    old "It's fine, you go get her."
-    new "Sorun değil, git onu al."
-
-    # game/v2/v2.rpy:5645
-    old "Nah, you don't want a bitch like her."
-    new "Hayır, onun gibi bir orospu istemezsin."
-
-    # game/v2/v2.rpy:5646
-    old "Yeah, I guess you're right."
-    new "Evet, sanırım haklısın."
-
-    # game/v2/v2.rpy:5647
-    old "Dude, what the fuck?!"
-    new "Dostum, ne oluyor amına koyayım?!"
-
-    # game/v2/v2.rpy:5651
-    old "Hahaha, I'm just kidding, yo."
-    new "Hahaha, şaka yapıyorum."
-
-    # game/v2/v2.rpy:5652
-    old "Of course I gave her your number."
-    new "Tabii ki numaranı verdim."
-
-    # game/v2/v2.rpy:5653
-    old "Damn, you got me."
-    new "Kahretsin, yakaladın beni."
-
-    # game/v2/v2.rpy:5661
+    # game/v2/v2.rpy:1373
     old "Dude, I talked to this Aubrey chick the entire night and guess who's number she wanted..."
-    new "Dostum, bütün gece bu Aubrey denen hatunla konuştum ve tahmin et kimin numarasını istedi..."
+    new ""
 
-    # game/v2/v2.rpy:5662
+    # game/v2/v2.rpy:1374
     old "YOURS"
-    new "SENİN"
+    new ""
 
-    # game/v2/v2.rpy:5663
+    # game/v2/v2.rpy:1375
     old "What a bitch..."
-    new "Ne orospu ama..."
+    new ""
 
-    # game/v2/v2.rpy:5664
+    # game/v2/v2.rpy:1376
     old "Sorry, man. She doesn't know what she's missing."
-    new "Üzgünüm, dostum. Ne kaçırdığını bilmiyor."
+    new ""
 
-    # game/v2/v2.rpy:5665
+    # game/v2/v2.rpy:1377
     old "Sooo, did you give it to her?"
-    new "Yaniii, ona verdin mi?"
+    new ""
 
-    # game/v2/v2.rpy:6103
+    # game/v2/v2.rpy:1816
     old "Okay, I guess."
-    new "Tamam, sanırım."
+    new ""
 
-    # game/v2/v2.rpy:6103
+    # game/v2/v2.rpy:1816
     old "No, sorry."
-    new "Hayır, üzgünüm."
+    new ""
 
-    # game/v2/v2.rpy:6176
+    # game/v2/v2.rpy:1889
     old "Yeah, of course. (joke)"
-    new "Evet, tabii ki. (şaka)"
+    new ""
 
-    # game/v2/v2.rpy:6176
+    # game/v2/v2.rpy:1889
     old "I'm still single."
-    new "Ben hala bekarım."
+    new ""
 
-    # game/v2/v2.rpy:6250
+    # game/v2/v2.rpy:1964
     old "It was adorable."
-    new "Çok hoştu."
+    new ""
 
-    # game/v2/v2.rpy:6250
+    # game/v2/v2.rpy:1964
     old "It was so funny."
-    new "Çok komikti."
+    new ""
 
-    # game/v2/v2.rpy:6391
+    # game/v2/v2.rpy:2106
     old "Sure, knock yourself out."
-    new "Tabi, kafana göre takıl."
+    new ""
 
-    # game/v2/v2.rpy:6391
+    # game/v2/v2.rpy:2106
     old "Stay away from her."
-    new "Ondan uzak dur."
+    new ""
 
-    # game/v2/v2.rpy:6438
+    # game/v2/v2.rpy:2150
     old "Tell Emily about Benjamin"
-    new "Emily'ye Benjamin'den bahset"
+    new ""
 
-    # game/v2/v2.rpy:6438
+    # game/v2/v2.rpy:2150
     old "Don't tell Emily"
-    new "Emily'ye söyleme."
+    new ""
 
-    # game/v2/v2.rpy:6632
-    old "Yeah, I mean they had a thing a while ago but she broke it off 'cause he lied about some shit."
-    new "Evet, demek istediğim, bir süre önce bir şeyleri vardı, ama boktan bir şey hakkında yalan söylediği için ayrıldı."
-
-    # game/v2/v2.rpy:6633
-    old "So... tomorrow?"
-    new "Öyleyse... yarın?"
-
-    # game/v2/v2.rpy:6634
-    old "My day tomorrow is quite full, but how about today?\n\nI need to buy a costume."
-    new "Yarın günüm oldukça dolu, peki ya bugün?\n\nKostüm almam gerek."
-
-    # game/v2/v2.rpy:6638
-    old "I've got dance practice tonight :("
-    new "Bu gece dans pratiğim var :("
-
-    # game/v2/v2.rpy:6639
-    old "I'm not talking tonight, I can pick you up right now."
-    new "Bu gece konuşmayacağım, seni hemen alabilirim."
-
-    # game/v2/v2.rpy:6640
-    old "Oh wow, that's spontaneous, I like it haha.\n\nI guess come to the Chicks' house whenever you're ready and then we can go costume shopping."
-    new "Vay canına, bu spontane, bunu beğendim haha.\n\nHazır olduğunda Civcivlerin evine gel, sonra kostüm alışverişine gideriz."
-
-    # game/v2/v2.rpy:6641
-    old "Cool, I'll be 20 mins."
-    new "Harika, 20 dakikaya geliyorum."
-
-    # game/v2/v2.rpy:6643
+    # game/v2/v2.rpy:2342
     old "Hey,\nJosh gave me your number\n\nI hope your face is feeling better after the shit that Grayson pulled..."
-    new "Selam,\nJosh numaranı verdi.\n\nUmarım Grayson'ın yaptığı aptallıktan sonra yüzün daha iyidir..."
+    new ""
 
-    # game/v2/v2.rpy:6644
+    # game/v2/v2.rpy:2343
     old "He's not even dating Chloe and you guys didn't even do anything so I don't know what he was thinking.\n\nAnyway, do you wanna like... hang out tomorrow?"
-    new "Chloe ile çıkmıyor bile ve siz hiçbir şey yapmadınız, bu yüzden onun ne düşündüğünü bilmiyorum.\n\nHer neyse, yarın?.. takılmak ister misin?"
+    new ""
 
-    # game/v2/v2.rpy:6645
+    # game/v2/v2.rpy:2344
     old "Wait they're not dating?"
-    new "Bekle, çıkmıyorlar mı?"
+    new ""
 
-    # game/v2/v2.rpy:6816
-    old "Good :)"
-    new "İyi :)"
-
-    # game/v2/v2.rpy:6821
-    old "Oh, okay. Guess we'll have to postpone the costume buying."
-    new "Oh, tamam. Sanırım kostüm alışverişini ertelememiz gerekecek."
-
-    # game/v2/v2.rpy:6823
+    # game/v2/v2.rpy:2512
     old "Hey, are you nearby?"
-    new "Selam, yakınlarda mısın?"
+    new ""
 
-    # game/v2/v2.rpy:6824
+    # game/v2/v2.rpy:2513
     old "Yeah, I'm just on my way, I'll be right there."
-    new "Evet, yoldayım, hemen geliyorum."
+    new ""
 
-    # game/v2/v2.rpy:6825
+    # game/v2/v2.rpy:2514
     old "Sorry, something came up and I can't make it."
-    new "Üzgünüm, bir şey oldu ve gelemiyorum."
+    new ""
 
-    # game/v2/v2.rpy:7044
-    old "Peek"
-    new "Gözetle"
-
-    # game/v2/v2.rpy:7044
-    old "Don't peek"
-    new "Gözetleme"
-
-    # game/v2/v2.rpy:7053
+    # game/v2/v2.rpy:2742
     old "Risk it"
-    new "Risk al"
+    new ""
 
-    # game/v2/v2.rpy:7053
+    # game/v2/v2.rpy:2742
     old "Stop peeking"
-    new "Gözetlemeyi bırak"
+    new ""
 
-    # game/v2/v2.rpy:7099
+    # game/v2/v2.rpy:2792
     old "It's kinda hot."
-    new "Bu çok ateşli."
+    new ""
 
-    # game/v2/v2.rpy:7099
+    # game/v2/v2.rpy:2792
     old "It's definitely something."
-    new "Kesinlikle bir şey."
+    new ""
 
-    # game/v2/v2.rpy:7231
+    # game/v2/v2.rpy:2928
     old "looking mighty fine."
-    new "çok iyi görünüyor."
+    new ""
 
-    # game/v2/v2.rpy:7231
+    # game/v2/v2.rpy:2928
     old "certainly practical."
-    new "kesinlikle pratik."
+    new ""
 
-    # game/v2/v2.rpy:7371
+    # game/v2/v2.rpy:3072
     old "Oh come on."
-    new "Oh hadi ama."
+    new ""
 
-    # game/v2/v2.rpy:7371
+    # game/v2/v2.rpy:3072
     old "Fine."
-    new "İyi."
+    new ""
 
-    # game/v2/v2.rpy:7647
+    # game/v2/v2.rpy:3349
     old "You look beautiful."
-    new "Çok güzel görünüyorsun."
+    new ""
 
-    # game/v2/v2.rpy:7647
+    # game/v2/v2.rpy:3349
     old "I guess it's nice"
-    new "Güzel oldu sanırım "
+    new ""
 
-    # game/v2/v2.rpy:8002
+    # game/v2/v2.rpy:3712
     old "Deny it"
-    new "İnkar et"
+    new ""
 
-    # game/v2/v2.rpy:8386
+    # game/v2/v2.rpy:4092
     old "Make a move."
-    new "Bir hamle yap."
+    new ""
 
-    # game/v2/v2.rpy:8415
+    # game/v2/v2.rpy:4121
     old "Be smart"
-    new "Akıllı ol"
+    new ""
 
-    # game/v2/v2.rpy:8415
+    # game/v2/v2.rpy:4121
     old "Be funny"
-    new "Komik ol"
+    new ""
 

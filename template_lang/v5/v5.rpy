@@ -3448,3 +3448,635 @@ translate template_lang strings:
     old "I'm busy later tonight and I'm pretty much booked for the entire week :/"
     new "Bu gece ve daha sonrasında da meşgulüm ve neredeyse tüm hafta boyunca doluyum :/"
 
+# TODO: Translation updated at 2021-06-01 17:46
+
+# game/v5/v5.rpy:244
+translate template_lang jorepb_4f1997c1:
+
+    # "*Knock knock knock*"
+    ""
+
+# game/v5/v5.rpy:253
+translate template_lang jorepb_b2db8899:
+
+    # cl "Hey. You wanna come in?"
+    cl ""
+
+# game/v5/v5.rpy:258
+translate template_lang jorepb_428dfda8:
+
+    # u "Hey uh, actually... can we- can we talk outside first? I- I just wanna clear something up."
+    u ""
+
+# game/v5/v5.rpy:263
+translate template_lang jorepb_009c5a98:
+
+    # cl "Uhm, yeah of course. Let me just put on my sweater."
+    cl ""
+
+# game/v5/v5.rpy:268
+translate template_lang jorepb_9b634cd2:
+
+    # cl "So, what did you wanna talk to me about?"
+    cl ""
+
+# game/v5/v5.rpy:273
+translate template_lang jorepb_11aed362:
+
+    # u "Well, Ryan... *deep breath* Ryan said you were playing me and just using me to get back at Grayson."
+    u ""
+
+# game/v5/v5.rpy:278
+translate template_lang jorepb_e1e72d62:
+
+    # cl "What?? [name], I'm not, that's absurd..."
+    cl ""
+
+# game/v5/v5.rpy:283
+translate template_lang jorepb_d4482fd2:
+
+    # u " He said Grayson told him about a lot of shady shit that you did in the past."
+    u ""
+
+# game/v5/v5.rpy:287
+translate template_lang jorepb_ac67d852:
+
+    # cl "I didn't do anything shady. Grayson is just spreading lies like he always is."
+    cl ""
+
+# game/v5/v5.rpy:833
+translate template_lang continueag_b5e4dde2:
+
+    # la "Well, my psychology teacher Mrs. Anderson said that she'd leave this room open over the weekend so that we can do the tests on neutral ground."
+    la ""
+
+# game/v5/v5.rpy:838
+translate template_lang continueag_7c5a55ca:
+
+    # u "Uhh... neutral ground?"
+    u ""
+
+# game/v5/v5.rpy:843
+translate template_lang continueag_664cf29f:
+
+    # la "You know, your answers can be affected by the environment you're in and an empty classroom should minimize the impact of that."
+    la ""
+
+# game/v5/v5.rpy:848
+translate template_lang continueag_1fe62b9e:
+
+    # u "Uhm, sure."
+    u ""
+
+# game/v5/v5.rpy:854
+translate template_lang gotest_a17c9ba8:
+
+    # la "Alright, let's get started, shall we?"
+    la ""
+
+# game/v5/v5.rpy:865
+translate template_lang gokissb_a72f7f6d:
+
+    # la "So I'll tell you a series of statements and you just tell me if you agree or disagree, okay?"
+    la ""
+
+# game/v5/v5.rpy:870
+translate template_lang gokissb_2e8c8088:
+
+    # u "Yeah, sounds good."
+    u ""
+
+# game/v5/v5.rpy:875
+translate template_lang gokissb_86166407:
+
+    # la "Remember, there is no right or wrong, so just answer honestly."
+    la ""
+
+# game/v5/v5.rpy:880
+translate template_lang gokissb_bbdb12d1:
+
+    # la "Statement one: I struggle making difficult decisions."
+    la ""
+
+# game/v5/v5.rpy:1135
+translate template_lang continuetrolley_d5f3f034:
+
+    # u "Done."
+    u ""
+
+# game/v5/v5.rpy:1140
+translate template_lang continuetrolley_d2aab557:
+
+    # la "Turn to the front, imagine there's a big red lever."
+    la ""
+
+# game/v5/v5.rpy:1145
+translate template_lang continuetrolley_6c920b56:
+
+    # u "Okay, yeah."
+    u ""
+
+# game/v5/v5.rpy:1148
+translate template_lang continuetrolley_176d311c:
+
+    # la "You said that you struggle making difficult decisions, let's see how that impacts your behavior in the following situation."
+    la ""
+
+# game/v5/v5.rpy:1151
+translate template_lang continuetrolley_8b0ef562:
+
+    # la "You said that you don't struggle making difficult decisions, let's see how if that's still true in the following situation."
+    la ""
+
+# game/v5/v5.rpy:1153
+translate template_lang continuetrolley_4620f874:
+
+    # la "As the train's moving forward you come closer to an intersection."
+    la ""
+
+# game/v5/v5.rpy:1158
+translate template_lang continuetrolley_5db69547:
+
+    # la "The train's heading to the right side of the intersection, where five people are scared for their lives."
+    la ""
+
+# game/v5/v5.rpy:1163
+translate template_lang continuetrolley_a7c0fc3e:
+
+    # la "Now, you could flick the lever in order for the train to switch to the left track. However, there's also a person scared for their life on that track."
+    la ""
+
+# game/v5/v5.rpy:1168
+translate template_lang continuetrolley_c5ad21f9:
+
+    # la "Now it's up to you, will you actively decide to kill someone to save five people or will you stand by and see five times as many people die as needed?"
+    la ""
+
+# game/v5/v5.rpy:1173
+translate template_lang continuetrolley_6b879436:
+
+    # la "You can decide to switch the lever, but remember, you're on a timer. If you don't switch the lever within a few seconds, the train will keep its current course."
+    la ""
+
+# game/v5/v5.rpy:1193
+translate template_lang trolleyaa_c441c6f8:
+
+    # u "Holy fuck..."
+    u ""
+
+# game/v5/v5.rpy:1212
+translate template_lang trolleyab_c441c6f8:
+
+    # u "Holy fuck..."
+    u ""
+
+# game/v5/v5.rpy:1220
+translate template_lang continueam_0aa37b28:
+
+    # u "Jesus, that got pretty intense..."
+    u ""
+
+# game/v5/v5.rpy:1225
+translate template_lang continueam_32671ba6:
+
+    # la "I know these questions can be difficult..."
+    la ""
+
+# game/v5/v5.rpy:1227
+translate template_lang continueam_71365da0:
+
+    # la "Are you okay with doing another one?"
+    la ""
+
+# game/v5/v5.rpy:1584
+translate template_lang fb_b_f8d58710:
+
+    # u "I'd rather not, can we just move on?"
+    u ""
+
+# game/v5/v5.rpy:1589
+translate template_lang fb_b_b1544f13:
+
+    # la "Yeah of course."
+    la ""
+
+# game/v5/v5.rpy:1595
+translate template_lang skiptrolleya_182b5ce1:
+
+    # la "That'd be all. I'll let you know once I have analyzed the results."
+    la ""
+
+# game/v5/v5.rpy:1600
+translate template_lang skiptrolleya_26825b3e:
+
+    # la "In the meantime, I could use a coffee, wanna come with me?"
+    la ""
+
+# game/v5/v5.rpy:1605
+translate template_lang skiptrolleya_7cc710c6:
+
+    # u "Sorry, Lauren. As much as I'd like to, I gotta pick up Imre from the hospital."
+    u ""
+
+# game/v5/v5.rpy:1610
+translate template_lang skiptrolleya_579f3000:
+
+    # la "Oh, alright."
+    la ""
+
+# game/v5/v5.rpy:1615
+translate template_lang skiptrolleya_eb1e8286:
+
+    # u "I'll see you later, okay?"
+    u ""
+
+# game/v5/v5.rpy:1620
+translate template_lang skiptrolleya_88d040a5:
+
+    # la "Yeah."
+    la ""
+
+# game/v5/v5.rpy:1623
+translate template_lang skiptrolleya_3a40ec94:
+
+    # la "Are we still gonna kiss goodbye?"
+    la ""
+
+# game/v5/v5.rpy:1628
+translate template_lang skiptrolleya_198eec9c:
+
+    # u "Oh yeah, of course."
+    u ""
+
+# game/v5/v5.rpy:1646
+translate template_lang skiptrolleya_daa843ad:
+
+    # u "Alright, bye."
+    u ""
+
+# game/v5/v5.rpy:1651
+translate template_lang skiptrolleya_853e4089:
+
+    # la "Bye."
+    la ""
+
+# game/v5/v5.rpy:1658
+translate template_lang continueaf_64c5a1d5:
+
+    # u "(Damn, it wasn't from Lauren... I wonder if she's still mad at me.)"
+    u ""
+
+# game/v5/v5.rpy:1872
+translate template_lang apo_0fb46afe_2:
+
+    # la "When you continued pushing your hand up my thigh after I told you I didn't want it, you... you made me feel disgusting."
+    la ""
+
+# game/v5/v5.rpy:1874
+translate template_lang apo_0c3b9dbd:
+
+    # la "But my sister helped me understand that you just made a mistake and I really don't wanna be mad you."
+    la ""
+
+# game/v5/v5.rpy:1876
+translate template_lang apo_24b53218_1:
+
+    # la "That's if you're okay with just being friends again for now?"
+    la ""
+
+# game/v5/v5.rpy:1881
+translate template_lang apo_2be5d203_1:
+
+    # u "Yeah, of course."
+    u ""
+
+# game/v5/v5.rpy:1886
+translate template_lang apo_712a38ff_1:
+
+    # la "Good."
+    la ""
+
+# game/v5/v5.rpy:1891
+translate template_lang apo_a9d4953b_1:
+
+    # u "What are you doing here anyways?"
+    u ""
+
+# game/v5/v5.rpy:1896
+translate template_lang apo_bd8378df_1:
+
+    # la "For my psychology class I need someone to do a personality test with me which I can then analyze, but my friend just cancelled on me."
+    la ""
+
+# game/v5/v5.rpy:1901
+translate template_lang apo_a4d576e1_1:
+
+    # u "I can do it."
+    u ""
+
+# game/v5/v5.rpy:1906
+translate template_lang apo_0a0dccb2_1:
+
+    # la "Really? That'd be amazing."
+    la ""
+
+# game/v5/v5.rpy:1911
+translate template_lang apo_9064cdac_1:
+
+    # u "Yeah, sure."
+    u ""
+
+# game/v5/v5.rpy:1916
+translate template_lang apo_6439e089_2:
+
+    # la "[name], what are you doing here?"
+    la ""
+
+# game/v5/v5.rpy:1921
+translate template_lang apo_d8e5cc2a:
+
+    # u "Listen, I wanted to apologize, I was being insensitive and I'm sorry."
+    u ""
+
+# game/v5/v5.rpy:1923
+translate template_lang apo_2d7ff3b9:
+
+    # u "I- I just wanted to be honest with you."
+    u ""
+
+# game/v5/v5.rpy:1933
+translate template_lang apo_19a37158:
+
+    # la "Thinking of you with another girl made me feel really weird."
+    la ""
+
+# game/v5/v5.rpy:1935
+translate template_lang apo_1dbb08ca:
+
+    # la "But I know that I shouldn't be mad because we weren't technically dating or anything."
+    la ""
+
+# game/v5/v5.rpy:1940
+translate template_lang apo_a48a00f4:
+
+    # la "So, how about we just continue where we left off?"
+    la ""
+
+# game/v5/v5.rpy:1945
+translate template_lang apo_999eec7d:
+
+    # u "Yeah, I'd love that."
+    u ""
+
+# game/v5/v5.rpy:1947
+translate template_lang apo_c6415055:
+
+    # u "And don't worry, now that I know how important this is to you, I'll count it as us dating from now on."
+    u ""
+
+# game/v5/v5.rpy:1952
+translate template_lang apo_712a38ff_2:
+
+    # la "Good."
+    la ""
+
+# game/v5/v5.rpy:1957
+translate template_lang apo_a9d4953b_2:
+
+    # u "What are you doing here anyways?"
+    u ""
+
+# game/v5/v5.rpy:1962
+translate template_lang apo_bd8378df_2:
+
+    # la "For my psychology class I need someone to do a personality test with me which I can then analyze, but my friend just cancelled on me."
+    la ""
+
+# game/v5/v5.rpy:1967
+translate template_lang apo_a4d576e1_2:
+
+    # u "I can do it."
+    u ""
+
+# game/v5/v5.rpy:1972
+translate template_lang apo_0a0dccb2_2:
+
+    # la "Really? That'd be amazing."
+    la ""
+
+# game/v5/v5.rpy:1977
+translate template_lang apo_9064cdac_2:
+
+    # u "Yeah, sure."
+    u ""
+
+# game/v5/v5.rpy:1990
+translate template_lang apo_19a37158_1:
+
+    # la "Thinking of you with another girl made me feel really weird."
+    la ""
+
+# game/v5/v5.rpy:1992
+translate template_lang apo_f71146c2:
+
+    # la "I don't wanna be mad at you, but can we just put a pause on the whole dating thing for now and go back to just being friends again?"
+    la ""
+
+# game/v5/v5.rpy:1997
+translate template_lang apo_4f9201bc:
+
+    # u "Uhm... yeah, of course."
+    u ""
+
+# game/v5/v5.rpy:2002
+translate template_lang apo_712a38ff_3:
+
+    # la "Good."
+    la ""
+
+# game/v5/v5.rpy:2007
+translate template_lang apo_a9d4953b_3:
+
+    # u "What are you doing here anyways?"
+    u ""
+
+# game/v5/v5.rpy:2012
+translate template_lang apo_bd8378df_3:
+
+    # la "For my psychology class I need someone to do a personality test with me which I can then analyze, but my friend just cancelled on me."
+    la ""
+
+# game/v5/v5.rpy:2017
+translate template_lang apo_a4d576e1_3:
+
+    # u "I can do it."
+    u ""
+
+# game/v5/v5.rpy:2022
+translate template_lang apo_0a0dccb2_3:
+
+    # la "Really? That'd be amazing."
+    la ""
+
+# game/v5/v5.rpy:2027
+translate template_lang apo_9064cdac_3:
+
+    # u "Yeah, sure."
+    u ""
+
+# game/v5/v5.rpy:2037
+translate template_lang apo_19a37158_2:
+
+    # la "Thinking of you with another girl made me feel really weird."
+    la ""
+
+# game/v5/v5.rpy:2039
+translate template_lang apo_35de95e2:
+
+    # la "But my sister really helped me understand that I shouldn't be mad at you for it."
+    la ""
+
+# game/v5/v5.rpy:2044
+translate template_lang apo_a48a00f4_1:
+
+    # la "So, how about we just continue where we left off?"
+    la ""
+
+# game/v5/v5.rpy:2049
+translate template_lang apo_999eec7d_1:
+
+    # u "Yeah, I'd love that."
+    u ""
+
+# game/v5/v5.rpy:2051
+translate template_lang apo_c6415055_1:
+
+    # u "And don't worry, now that I know how important this is to you, I'll count it as us dating from now on."
+    u ""
+
+# game/v5/v5.rpy:2056
+translate template_lang apo_712a38ff_4:
+
+    # la "Good."
+    la ""
+
+# game/v5/v5.rpy:2061
+translate template_lang apo_a9d4953b_4:
+
+    # u "What are you doing here anyways?"
+    u ""
+
+# game/v5/v5.rpy:2066
+translate template_lang apo_bd8378df_4:
+
+    # la "For my psychology class I need someone to do a personality test with me which I can then analyze, but my friend just cancelled on me."
+    la ""
+
+# game/v5/v5.rpy:2071
+translate template_lang apo_a4d576e1_4:
+
+    # u "I can do it."
+    u ""
+
+# game/v5/v5.rpy:2076
+translate template_lang apo_0a0dccb2_4:
+
+    # la "Really? That'd be amazing."
+    la ""
+
+# game/v5/v5.rpy:2081
+translate template_lang apo_9064cdac_4:
+
+    # u "Yeah, sure."
+    u ""
+
+# game/v5/v5.rpy:2732
+translate template_lang fj_b_4f1997c1:
+
+    # "*Knock knock knock*"
+    ""
+
+# game/v5/v5.rpy:2739
+translate template_lang fj_b_cf5757cb:
+
+    # ad "Wrong dorm, pissbag. Now fuck off."
+    ad ""
+
+# game/v5/v5.rpy:2754
+translate template_lang fj_b_41c4e507:
+
+    # u "You're Adam, right? Look, you beat up my friend Imre and-"
+    u ""
+
+# game/v5/v5.rpy:2759
+translate template_lang fj_b_2a4f3e8b:
+
+    # ad "Ahh yeah, I remember, that was quite fun."
+    ad ""
+
+# game/v5/v5.rpy:2764
+translate template_lang fj_b_6139557a:
+
+    # ad "So what are you gonna do about it, bitch?"
+    ad ""
+
+# game/v5/v5.rpy:2779
+translate template_lang fj_b_31946e3b:
+
+    # u "You find him and apologize or I'll tell the fucking school and you'll get kicked out and maybe even assault charges thrown your way."
+    u ""
+
+# game/v5/v5.rpy:2784
+translate template_lang fj_b_a84364ef:
+
+    # ad "You do that and I'll come back for you and unlike your friend, you'll never leave the fucking hospital again."
+    ad ""
+
+# game/v5/v5.rpy:2786
+translate template_lang fj_b_9e7beed6:
+
+    # ad "Now fuck off."
+    ad ""
+
+# game/v5/v5.rpy:2793
+translate template_lang fj_b_9d73ea27:
+
+    # u "(Fuck...)"
+    u ""
+
+# game/v5/v5.rpy:2795
+translate template_lang fj_b_92f0993b:
+
+    # u "(Great, if I tell the school about this, Imre will be pissed at me and Adam will try to fucking kill me, but if I don't, Imre is gonna get himself killed trying to get revenge.)"
+    u ""
+
+# game/v5/v5.rpy:2817
+translate template_lang fj_b_6f8ae513:
+
+    # u "(It's not like I can do anything against him anyways...)"
+    u ""
+
+# game/v5/v5.rpy:2818
+translate template_lang fj_b_0f5a6937:
+
+    # u "(Maybe I should tell the school, but Imre would be super pissed and Adam might try and kill me for it.)"
+    u ""
+
+# game/v5/v5.rpy:2819
+translate template_lang fj_b_1898af7b:
+
+    # u "(On the other hand, if I don't tell the school Imre might actually get himself killed trying to get revenge.)"
+    u ""
+
+# game/v5/v5.rpy:4338
+translate template_lang continueba_9ea2f78c:
+
+    # " "
+    ""
+
+translate template_lang strings:
+
+    # game/v5/v5.rpy:24
+    old "Don't worry, you'll see me soon."
+    new ""
+

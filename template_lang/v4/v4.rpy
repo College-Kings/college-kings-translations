@@ -3140,3 +3140,89 @@ translate template_lang strings:
     old "Ask about the punch"
     new "Yumruk hakkında sor"
 
+# TODO: Translation updated at 2021-06-01 17:46
+
+# game/v4/v4.rpy:1347
+translate template_lang ea_b_3a538381:
+
+    # u "Fine. I'll sit somewhere else."
+    u ""
+
+# game/v4/v4.rpy:1608
+translate template_lang continueaa_40fb7627:
+
+    # u "(Oh, Penelope's here, I should probably say hi.)"
+    u ""
+
+# game/v4/v4.rpy:1613
+translate template_lang continueaa_1d6a0cc7:
+
+    # u "Penelope?"
+    u ""
+
+# game/v4/v4.rpy:1623
+translate template_lang continueaa_f8d4c8bd:
+
+    # pe "[name]!!!"
+    pe ""
+
+# game/v4/v4.rpy:1635
+translate template_lang continueaa_10d00e75:
+
+    # pe "Heyyy!"
+    pe ""
+
+# game/v4/v4.rpy:1639
+translate template_lang continueaa_fefb8a1c:
+
+    # pe "How did you know I was gonna be here?"
+    pe ""
+
+# game/v4/v4.rpy:1648
+translate template_lang continueaa_8b7dfbe5:
+
+    # u "Magic powers, of course."
+    u ""
+
+# game/v4/v4.rpy:1653
+translate template_lang continueaa_869d0574:
+
+    # pe "Haha, you're stupid."
+    pe ""
+
+# game/v4/v4.rpy:1658
+translate template_lang continueaa_bfe01d1d:
+
+    # pe "You wanna sit down?"
+    pe ""
+
+# game/v4/v4.rpy:1663
+translate template_lang continueaa_9064cdac:
+
+    # u "Yeah, sure."
+    u ""
+
+# game/v4/v4.rpy:1671
+translate template_lang continueaa_b7962dc0:
+
+    # u "I didn't, but I'm glad I came now."
+    u ""
+
+# game/v4/v4.rpy:1676
+translate template_lang continueaa_fcf6fc2c:
+
+    # pe "Well, me too! Wanna sit down?"
+    pe ""
+
+# game/v4/v4.rpy:1681
+translate template_lang continueaa_9064cdac_1:
+
+    # u "Yeah, sure."
+    u ""
+
+# game/v4/v4.rpy:2413
+translate template_lang eo_bd_fce7648c:
+
+    # u "Cool, sounds good."
+    u ""
+

@@ -250,3 +250,41 @@ translate template_lang strings:
     old "I would but it's getting late and I haven't even started Mr. Lee's project"
     new ""
 
+# TODO: Translation updated at 2021-06-01 17:46
+
+# game/v8/Scene19.rpy:116
+translate template_lang v8s19_phoneCheck1_e6825ef5:
+
+    # u "I should reply to Emily"
+    u ""
+
+# game/v8/Scene19.rpy:125
+translate template_lang v8s19_phoneCheck1_c478a397:
+
+    # u "(I think I'll get an early night)"
+    u ""
+
+# game/v8/Scene19.rpy:131
+translate template_lang v8s19_phoneCheck1_c478a397_1:
+
+    # u "(I think I'll get an early night)"
+    u ""
+
+# game/v8/Scene19.rpy:184
+translate template_lang v8s19_phoneCheck2_e6825ef5:
+
+    # u "I should reply to Emily"
+    u ""
+
+# game/v8/Scene19.rpy:193
+translate template_lang v8s19_phoneCheck2_c478a397:
+
+    # u "(I think I'll get an early night)"
+    u ""
+
+# game/v8/Scene19.rpy:199
+translate template_lang v8s19_phoneCheck2_c478a397_1:
+
+    # u "(I think I'll get an early night)"
+    u ""
+

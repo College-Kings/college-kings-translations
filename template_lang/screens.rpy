@@ -294,3 +294,15 @@ translate template_lang strings:
     old "Skipping"
     new ""
 
+# TODO: Translation updated at 2021-06-01 17:46
+
+translate template_lang strings:
+
+    # game/screens.rpy:1201
+    old "on"
+    new ""
+
+    # game/screens.rpy:1206
+    old "off"
+    new ""
+

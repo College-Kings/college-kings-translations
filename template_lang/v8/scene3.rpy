@@ -522,3 +522,137 @@ translate template_lang v8_ri_start_9d30626e:
     # ri "Hit me up when you're free. Byeee."
     ri ""
 
+# TODO: Translation updated at 2021-06-01 17:46
+
+# game/v8/scene3.rpy:308
+translate template_lang v8s3_nsfwSkipLabel1_98220662:
+
+    # u "(She's up already.)"
+    u ""
+
+# game/v8/scene3.rpy:312
+translate template_lang v8s3_nsfwSkipLabel1_1f7d4f5a:
+
+    # ri "Well, good morning to you!"
+    ri ""
+
+# game/v8/scene3.rpy:316
+translate template_lang v8s3_nsfwSkipLabel1_457f269e:
+
+    # u "Morning! What are you up to?"
+    u ""
+
+# game/v8/scene3.rpy:320
+translate template_lang v8s3_nsfwSkipLabel1_0e0d37ca:
+
+    # ri "Oh nothing, just this assignment I had pending."
+    ri ""
+
+# game/v8/scene3.rpy:324
+translate template_lang v8s3_nsfwSkipLabel1_f15e04e7:
+
+    # u "Riley... It's 7AM!"
+    u ""
+
+# game/v8/scene3.rpy:328
+translate template_lang v8s3_nsfwSkipLabel1_6237de07:
+
+    # ri "Well..."
+    ri ""
+
+# game/v8/scene3.rpy:332
+translate template_lang v8s3_nsfwSkipLabel1_4597b3ef:
+
+    # u "On a Saturday!"
+    u ""
+
+# game/v8/scene3.rpy:336
+translate template_lang v8s3_nsfwSkipLabel1_c3821aa5:
+
+    # ri "It's-"
+    ri ""
+
+# game/v8/scene3.rpy:340
+translate template_lang v8s3_nsfwSkipLabel1_c820ecb2:
+
+    # u "Just after homecoming night."
+    u ""
+
+# game/v8/scene3.rpy:344
+translate template_lang v8s3_nsfwSkipLabel1_1768e78b:
+
+    # ri "Oh, will you stop already? *laughs*"
+    ri ""
+
+# game/v8/scene3.rpy:348
+translate template_lang v8s3_nsfwSkipLabel1_2a638174:
+
+    # ri "I just like to finish up my work as early as I can so I have free time later."
+    ri ""
+
+# game/v8/scene3.rpy:353
+translate template_lang v8s3_nsfwSkipLabel1_9ba7b681:
+
+    # u "No wonder you were able to add 35 references in your Econ assignment *laughs*"
+    u ""
+
+# game/v8/scene3.rpy:357
+translate template_lang v8s3_nsfwSkipLabel1_29061286:
+
+    # ri "It's, uh... 47 now."
+    ri ""
+
+# game/v8/scene3.rpy:361
+translate template_lang v8s3_nsfwSkipLabel1_5963a69f:
+
+    # u "Are you kidding me!?"
+    u ""
+
+# game/v8/scene3.rpy:366
+translate template_lang v8s3_nsfwSkipLabel1_8c2eb65a:
+
+    # u "Unbelievable."
+    u ""
+
+# game/v8/scene3.rpy:370
+translate template_lang v8s3_nsfwSkipLabel1_fa33cfb2:
+
+    # ri "Hey, it's not that weird, is it now?"
+    ri ""
+
+# game/v8/scene3.rpy:374
+translate template_lang v8s3_nsfwSkipLabel1_22d35d79:
+
+    # u "Haha, not really. I just did not expect it."
+    u ""
+
+# game/v8/scene3.rpy:378
+translate template_lang v8s3_nsfwSkipLabel1_497ec5d1:
+
+    # u "Anyway, carry on I guess. I'll go freshen up."
+    u ""
+
+# game/v8/scene3.rpy:396
+translate template_lang v8s3_nsfwSkipLabel1_06d8dbc2:
+
+    # ri "At least get dressed before you go hotshot."
+    ri ""
+
+# game/v8/scene3.rpy:400
+translate template_lang v8s3_nsfwSkipLabel1_ff1c7d65:
+
+    # u "Oops, haha yeah."
+    u ""
+
+# game/v8/scene3.rpy:404
+translate template_lang v8s3_nsfwSkipLabel1_cbbe3be5:
+
+    # u "Well... See you later."
+    u ""
+
+# game/v8/scene3.rpy:410
+translate template_lang v8s3_nsfwSkipLabel1_9d30626e:
+
+    # ri "Hit me up when you're free. Byeee."
+    ri ""
+

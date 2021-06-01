@@ -5227,3 +5227,285 @@ translate template_lang strings:
     old "Poke fun"
     new "Alay et"
 
+# TODO: Translation updated at 2021-06-01 17:46
+
+# game/v1/v1.rpy:2253
+translate template_lang v1_nsfwSkipLabel1_17079010:
+
+    # u "*Yawn*"
+    u ""
+
+# game/v1/v1.rpy:2257
+translate template_lang v1_nsfwSkipLabel1_a4e65bca:
+
+    # u "(That was the most amazing dream of my life.)"
+    u ""
+
+# game/v1/v1.rpy:2258
+translate template_lang v1_nsfwSkipLabel1_bc780cd5:
+
+    # u "(I wish I could sleep some more, but I gotta get to class.)"
+    u ""
+
+# game/v1/v1.rpy:2259
+translate template_lang v1_nsfwSkipLabel1_58bcf408:
+
+    # u "(I just hope I don't get a boner whenever I see Riley from now on.)"
+    u ""
+
+# game/v1/v1.rpy:2264
+translate template_lang v1_nsfwSkipLabel1_14945e9c:
+
+    # ri "Heyyy, I've switched to the last row now."
+    ri ""
+
+# game/v1/v1.rpy:2269
+translate template_lang v1_nsfwSkipLabel1_e4826232:
+
+    # u "(Okay I need to be cool, even though all I can think about is my dream.)"
+    u ""
+
+# game/v1/v1.rpy:2271
+translate template_lang v1_nsfwSkipLabel1_bc2b59a3:
+
+    # u "Oh, so you decided to join the cool club."
+    u ""
+
+# game/v1/v1.rpy:2273
+translate template_lang v1_nsfwSkipLabel1_3d757de2:
+
+    # u "Where's Imre and Lauren?"
+    u ""
+
+# game/v1/v1.rpy:2278
+translate template_lang v1_nsfwSkipLabel1_2ef1e622:
+
+    # ri "Imre doesn't need to take economics for his course and Lauren, I don't know."
+    ri ""
+
+# game/v1/v1.rpy:2283
+translate template_lang v1_nsfwSkipLabel1_11e687d4:
+
+    # u "(Shit, I need to talk to someone else, I'm already starting to get hard just talking to her.)"
+    u ""
+
+# game/v1/v1.rpy:2289
+translate template_lang v1_nsfwSkipLabel1_17079010_1:
+
+    # u "*Yawn*"
+    u ""
+
+# game/v1/v1.rpy:2293
+translate template_lang v1_nsfwSkipLabel1_4681d0cd:
+
+    # u "(What a weird dream...)"
+    u ""
+
+# game/v1/v1.rpy:2295
+translate template_lang v1_nsfwSkipLabel1_d995568b:
+
+    # u "(Alright [name], just forget about it and go to class.)"
+    u ""
+
+# game/v1/v1.rpy:2300
+translate template_lang v1_nsfwSkipLabel1_14945e9c_1:
+
+    # ri "Heyyy, I've switched to the last row now."
+    ri ""
+
+# game/v1/v1.rpy:2305
+translate template_lang v1_nsfwSkipLabel1_e30ca600:
+
+    # u "(Stay cool, she doesn't know about your dream.)"
+    u ""
+
+# game/v1/v1.rpy:2307
+translate template_lang v1_nsfwSkipLabel1_bc2b59a3_1:
+
+    # u "Oh, so you decided to join the cool club."
+    u ""
+
+# game/v1/v1.rpy:2309
+translate template_lang v1_nsfwSkipLabel1_3d757de2_1:
+
+    # u "Where's Imre and Lauren?"
+    u ""
+
+# game/v1/v1.rpy:2314
+translate template_lang v1_nsfwSkipLabel1_2ef1e622_1:
+
+    # ri "Imre doesn't need to take economics for his course and Lauren, I don't know."
+    ri ""
+
+# game/v1/v1.rpy:2319
+translate template_lang v1_nsfwSkipLabel1_94e176e5:
+
+    # u "Hey, man."
+    u ""
+
+# game/v1/v1.rpy:2324
+translate template_lang v1_nsfwSkipLabel1_bf8b44bf:
+
+    # ry "What's up, dude? You ready for some teacher staring?"
+    ry ""
+
+# game/v1/v1.rpy:2329
+translate template_lang v1_nsfwSkipLabel1_181605ef:
+
+    # u "Teacher staring?"
+    u ""
+
+# game/v1/v1.rpy:2333
+translate template_lang v1_nsfwSkipLabel1_85669b89:
+
+    # ry "You know, 'cause the class is boring as shit, but at least the teacher's hot."
+    ry ""
+
+# game/v1/v1.rpy:2338
+translate template_lang v1_nsfwSkipLabel1_b1111477:
+
+    # u "(He does have a point...)"
+    u ""
+
+# game/v1/v1.rpy:2342
+translate template_lang v1_nsfwSkipLabel1_0d8a871b:
+
+    # ro "Good morning everyone. Welcome to your first economics class."
+    ro ""
+
+# game/v1/v1.rpy:2344
+translate template_lang v1_nsfwSkipLabel1_51bd3b81:
+
+    # ro "Today, we're gonna learn about-"
+    ro ""
+
+# game/v1/v1.rpy:2351
+translate template_lang v1_nsfwSkipLabel1_837b269b:
+
+    # la "Sorry! My roommate thought it'd be a good \"prank\" to steal my phone, so that I couldn't hear my alarm."
+    la ""
+
+# game/v1/v1.rpy:2356
+translate template_lang v1_nsfwSkipLabel1_12e4809a:
+
+    # ro "Very well, I'm sorry to hear that."
+    ro ""
+
+# game/v1/v1.rpy:2357
+translate template_lang v1_nsfwSkipLabel1_df034c84:
+
+    # ro "Just sit down, so that we can get started on the material."
+    ro ""
+
+# game/v1/v1.rpy:2388
+translate template_lang v1_nsfwSkipLabel1_67438110:
+
+    # ry "This class is so damn boring..."
+    ry ""
+
+# game/v1/v1.rpy:2393
+translate template_lang v1_nsfwSkipLabel1_4b2fe8eb:
+
+    # ri "Agreed. Also Ms. Rose offers no chances to show that we've actually done the prereading."
+    ri ""
+
+# game/v1/v1.rpy:2396
+translate template_lang v1_nsfwSkipLabel1_791da076:
+
+    # ry "Yeah, 'cause she knows that no one actually does that shit anyways."
+    ry ""
+
+# game/v1/v1.rpy:2399
+translate template_lang v1_nsfwSkipLabel1_e657be0a:
+
+    # ri "Uhm... right."
+    ri ""
+
+# game/v1/v1.rpy:2403
+translate template_lang v1_nsfwSkipLabel1_a3c6ad46:
+
+    # u "So... trouble with your roommate?"
+    u ""
+
+# game/v1/v1.rpy:2408
+translate template_lang v1_nsfwSkipLabel1_fb14581b:
+
+    # la "Yep... she's just so annoying. I wish I could still move dorms."
+    la ""
+
+# game/v1/v1.rpy:2416
+translate template_lang v1_nsfwSkipLabel1_d3ff7f61:
+
+    # u "You should move in with me."
+    u ""
+
+# game/v1/v1.rpy:2421
+translate template_lang v1_nsfwSkipLabel1_506d7ec7:
+
+    # la "Haha definitely, I'm sure Imre would looove to swap rooms with me."
+    la ""
+
+# game/v1/v1.rpy:2423
+translate template_lang v1_nsfwSkipLabel1_2710e99d:
+
+    # la "It's fine, it was just such a bad start to the day. I really didn't wanna be late to my first real class."
+    la ""
+
+# game/v1/v1.rpy:2427
+translate template_lang v1_nsfwSkipLabel1_2859616e:
+
+    # u "How about we go to the park this afternoon? I'll bring some sandwiches and we'll make your day better."
+    u ""
+
+# game/v1/v1.rpy:2434
+translate template_lang v1_nsfwSkipLabel1_6697ce3f:
+
+    # u "I get that, bad roommates suck."
+    u ""
+
+# game/v1/v1.rpy:2439
+translate template_lang v1_nsfwSkipLabel1_5f044275:
+
+    # la "It was just such a bad start into the day. I really didn't wanna be late to my first real class."
+    la ""
+
+# game/v1/v1.rpy:2443
+translate template_lang v1_nsfwSkipLabel1_2859616e_1:
+
+    # u "How about we go to the park this afternoon? I'll bring some sandwiches and we'll make your day better."
+    u ""
+
+translate template_lang strings:
+
+    # game/v1/v1.rpy:437
+    old "Flirt"
+    new ""
+
+    # game/v1/v1.rpy:615
+    old "Stay quiet"
+    new ""
+
+    # game/v1/v1.rpy:703
+    old "Agree"
+    new ""
+
+    # game/v1/v1.rpy:703
+    old "Disagree"
+    new ""
+
+    # game/v1/v1.rpy:1146
+    old "Leave"
+    new ""
+
+    # game/v1/v1.rpy:1682
+    old "You're missing out."
+    new ""
+
+    # game/v1/v1.rpy:2761
+    old "Kiss her"
+    new ""
+
+    # game/v1/v1.rpy:3897
+    old "Apologize"
+    new ""
+
