@@ -1840,7 +1840,7 @@ translate template_lang hospitala_f6df7b46:
 translate template_lang hospitala_2285978a:
 
     # "*Bus stops*"
-    "*Ônibus Para*"
+    "*Ônibus para*"
 
 # game/v5/v5.rpy:2269
 translate template_lang hospitala_e8154167:
@@ -3885,7 +3885,7 @@ translate template_lang apo_f71146c2:
 translate template_lang apo_4f9201bc:
 
     # u "Uhm... yeah, of course."
-    u "Hmm... tá, sem probelmas."
+    u "Hmm... tá, sem problemas."
 
 # game/v5/v5.rpy:2002
 translate template_lang apo_712a38ff_3:
@@ -4066,4 +4066,3 @@ translate template_lang fj_b_1898af7b:
 
     # u "(On the other hand, if I don't tell the school Imre might actually get himself killed trying to get revenge.)"
     u "(Por outro lado, se eu não disser pra facul o Imre talvez acabe morto tentando a vingança.)"
-

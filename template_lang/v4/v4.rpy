@@ -2998,7 +2998,7 @@ translate template_lang eu_b_05148e1b:
 translate template_lang eu_b_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v4/v4.rpy:2988
 translate template_lang eu_b_8d1e43e3:
@@ -3227,4 +3227,3 @@ translate template_lang strings:
     # game/v4/v4.rpy:2172
     old "Uhh, sure."
     new "Hmm, claro."
-
