@@ -4066,3 +4066,17 @@ translate portuguese fj_b_1898af7b:
 
     # u "(On the other hand, if I don't tell the school Imre might actually get himself killed trying to get revenge.)"
     u "(Por outro lado, se eu não disser pra facul o Imre talvez acabe morto tentando a vingança.)"
+# TODO: Translation updated at 2021-06-01 21:33
+
+# game/v5/v5.rpy:4338
+translate portuguese continueba_9ea2f78c:
+
+    # " "
+    ""
+
+translate portuguese strings:
+
+    # game/v5/v5.rpy:24
+    old "Don't worry, you'll see me soon."
+    new ""
+

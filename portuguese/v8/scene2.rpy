@@ -312,3 +312,59 @@ translate portuguese v8_cl_start_82fa3603:
     # cl "Sorry, [name]. See you another time."
     cl "Desculpa mesmo, [name]. A gente continua na próxima."
 
+# TODO: Translation updated at 2021-06-01 21:33
+
+# game/v8/scene2.rpy:236
+translate portuguese v8s2_nsfwSkipLabel1_1d9f9dfc:
+
+    # cl "I'm so sorry, Lindsey."
+    cl ""
+
+# game/v8/scene2.rpy:237
+translate portuguese v8s2_nsfwSkipLabel1_72119969:
+
+    # cl "Let's talk outside, okay?"
+    cl ""
+
+# game/v8/scene2.rpy:238
+translate portuguese v8s2_nsfwSkipLabel1_c6918bb1:
+
+    # li "Hmmm *sobs*"
+    li ""
+
+# game/v8/scene2.rpy:252
+translate portuguese v8s2_nsfwSkipLabel1_6680ff12:
+
+    # u "(Damn, that came out of nowhere.)"
+    u ""
+
+# game/v8/scene2.rpy:266
+translate portuguese v8s2_nsfwSkipLabel1_ae64e706:
+
+    # cl "Hey... uh, maybe you should head home."
+    cl ""
+
+# game/v8/scene2.rpy:270
+translate portuguese v8s2_nsfwSkipLabel1_fdbce207:
+
+    # u "Oh..."
+    u ""
+
+# game/v8/scene2.rpy:274
+translate portuguese v8s2_nsfwSkipLabel1_eac01c19:
+
+    # cl "She {i}really{/i} needs me right now."
+    cl ""
+
+# game/v8/scene2.rpy:278
+translate portuguese v8s2_nsfwSkipLabel1_45d8b8be:
+
+    # u "Oh yeah... uhm, of course. Go help your friend."
+    u ""
+
+# game/v8/scene2.rpy:282
+translate portuguese v8s2_nsfwSkipLabel1_82fa3603:
+
+    # cl "Sorry, [name]. See you another time."
+    cl ""
+

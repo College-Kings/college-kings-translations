@@ -4194,3 +4194,563 @@ translate czech strings:
     old "Be funny"
     new ""
 
+# TODO: Translation updated at 2021-06-01 21:32
+
+# game/v2/v2.rpy:2770
+translate czech v2_nsfwSkipLabel1_cfdd20f8:
+
+    # u "(Let's see what Aubrey thinks of this costume.)"
+    u ""
+
+# game/v2/v2.rpy:2780
+translate czech v2_nsfwSkipLabel1_53cc9e72:
+
+    # au "Oh my god, you make an adorable Viking."
+    au ""
+
+# game/v2/v2.rpy:2785
+translate czech v2_nsfwSkipLabel1_3f475574:
+
+    # u "Really? Adorable? How about hot?"
+    u ""
+
+# game/v2/v2.rpy:2790
+translate czech v2_nsfwSkipLabel1_e6f4acca:
+
+    # au "Haha, what do you think of my outfit?"
+    au ""
+
+# game/v2/v2.rpy:2799
+translate czech v2_nsfwSkipLabel1_7d80e924:
+
+    # u "I'm not gonna lie, it's kinda hot."
+    u ""
+
+# game/v2/v2.rpy:2801
+translate czech v2_nsfwSkipLabel1_9d031eba:
+
+    # u "You could be like my Viking queen."
+    u ""
+
+# game/v2/v2.rpy:2806
+translate czech v2_nsfwSkipLabel1_86a517e6:
+
+    # au "I think you've put me in the wrong time period, buddy."
+    au ""
+
+# game/v2/v2.rpy:2812
+translate czech v2_nsfwSkipLabel1_519c302b:
+
+    # au "Let's try some of the other outfits."
+    au ""
+
+# game/v2/v2.rpy:2818
+translate czech v2_nsfwSkipLabel1_dc103a0a:
+
+    # au "Have you decided which one to buy yet?"
+    au ""
+
+# game/v2/v2.rpy:2826
+translate czech v2_nsfwSkipLabel1_f56eb18c:
+
+    # u "I mean, it's definitely something."
+    u ""
+
+# game/v2/v2.rpy:2828
+translate czech v2_nsfwSkipLabel1_c1c9b559:
+
+    # u "I'm not sure if you should replace your everyday clothes with it though."
+    u ""
+
+# game/v2/v2.rpy:2834
+translate czech v2_nsfwSkipLabel1_8671c31a:
+
+    # au "I'll guess I'll have to try some of the other outfits then."
+    au ""
+
+# game/v2/v2.rpy:2837
+translate czech v2_nsfwSkipLabel1_dc103a0a_1:
+
+    # au "Have you decided which one to buy yet?"
+    au ""
+
+# game/v2/v2.rpy:2909
+translate czech v2_nsfwSkipLabel2_5d028643:
+
+    # u "(Time to show this to Aubrey)"
+    u ""
+
+# game/v2/v2.rpy:2919
+translate czech v2_nsfwSkipLabel2_1a5b144f:
+
+    # au "Damn, I like your outfit."
+    au ""
+
+# game/v2/v2.rpy:2924
+translate czech v2_nsfwSkipLabel2_ffa24c4f:
+
+    # u "Well thank you, milady."
+    u ""
+
+# game/v2/v2.rpy:2926
+translate czech v2_nsfwSkipLabel2_3101ede1:
+
+    # u "Yours is uhhh..."
+    u ""
+
+# game/v2/v2.rpy:2932
+translate czech v2_nsfwSkipLabel2_32a69f7e:
+
+    # u "...looking mighty fine as well."
+    u ""
+
+# game/v2/v2.rpy:2937
+translate czech v2_nsfwSkipLabel2_da553dc5:
+
+    # au "Is it weird that you talking like that kinda turns me on?"
+    au ""
+
+# game/v2/v2.rpy:2942
+translate czech v2_nsfwSkipLabel2_5c1ba02f:
+
+    # u "Wait really? Should I keep going?"
+    u ""
+
+# game/v2/v2.rpy:2948
+translate czech v2_nsfwSkipLabel2_968e7bbb:
+
+    # au "Hahaha, no. I was just joking."
+    au ""
+
+# game/v2/v2.rpy:2951
+translate czech v2_nsfwSkipLabel2_224046bf:
+
+    # au "Let's switch outfits."
+    au ""
+
+# game/v2/v2.rpy:2954
+translate czech v2_nsfwSkipLabel2_45b9ed1d:
+
+    # au "Are you gonna buy this one?"
+    au ""
+
+# game/v2/v2.rpy:2959
+translate czech v2_nsfwSkipLabel2_c9a2f903:
+
+    # u "... certainly practical."
+    u ""
+
+# game/v2/v2.rpy:2964
+translate czech v2_nsfwSkipLabel2_12d26b71:
+
+    # au "That is the single greatest compliment I think I've ever received."
+    au ""
+
+# game/v2/v2.rpy:2969
+translate czech v2_nsfwSkipLabel2_d3e94b55:
+
+    # u "I am kinda known for my charm."
+    u ""
+
+# game/v2/v2.rpy:2974
+translate czech v2_nsfwSkipLabel2_66970db9:
+
+    # au "Really? I thought it was for getting punched in the face."
+    au ""
+
+# game/v2/v2.rpy:2979
+translate czech v2_nsfwSkipLabel2_9bfbf47c:
+
+    # u "Wow, low blow."
+    u ""
+
+# game/v2/v2.rpy:2984
+translate czech v2_nsfwSkipLabel2_224046bf_1:
+
+    # au "Let's switch outfits."
+    au ""
+
+# game/v2/v2.rpy:2987
+translate czech v2_nsfwSkipLabel2_735ae2aa:
+
+    # au "So are you gonna buy this one?"
+    au ""
+
+# game/v2/v2.rpy:3059
+translate czech v2_nsfwSkipLabel3_9f6f578e:
+
+    # u "Man she's gonna love this costume."
+    u ""
+
+# game/v2/v2.rpy:3064
+translate czech v2_nsfwSkipLabel3_e57a573c:
+
+    # u "Aubrey? Are you coming out?"
+    u ""
+
+# game/v2/v2.rpy:3066
+translate czech v2_nsfwSkipLabel3_ce41a1d2:
+
+    # au "This costume is literally just historic lingerie."
+    au ""
+
+# game/v2/v2.rpy:3070
+translate czech v2_nsfwSkipLabel3_156b0976:
+
+    # au "I'm not showing you this, haha."
+    au ""
+
+# game/v2/v2.rpy:3077
+translate czech v2_nsfwSkipLabel3_36465395:
+
+    # u "Oh come on, Aubrey. I wanna see."
+    u ""
+
+# game/v2/v2.rpy:3082
+translate czech v2_nsfwSkipLabel3_209d958e:
+
+    # au "Sorry but... I'm gonna get dressed again."
+    au ""
+
+# game/v2/v2.rpy:3084
+translate czech v2_nsfwSkipLabel3_ebb31da5:
+
+    # u "Alright, fine."
+    u ""
+
+# game/v2/v2.rpy:3088
+translate czech v2_nsfwSkipLabel3_fb1ad710:
+
+    # au "Okay, fine. Just for you."
+    au ""
+
+# game/v2/v2.rpy:3098
+translate czech v2_nsfwSkipLabel3_2189828c:
+
+    # u "Holy shit, you weren't exaggerating. That is revealing."
+    u ""
+
+# game/v2/v2.rpy:3103
+translate czech v2_nsfwSkipLabel3_bd372840:
+
+    # au "See what I mean now? Can I get dressed again?"
+    au ""
+
+# game/v2/v2.rpy:3108
+translate czech v2_nsfwSkipLabel3_26b9cb57:
+
+    # u "You sure you don't wanna keep this on for the rest of the day?"
+    u ""
+
+# game/v2/v2.rpy:3113
+translate czech v2_nsfwSkipLabel3_72b71966:
+
+    # au "Haha yes. I hope you got a good look, 'cause I'm changing back."
+    au ""
+
+# game/v2/v2.rpy:3115
+translate czech v2_nsfwSkipLabel3_97818984:
+
+    # au "Also, this cowboy outfit is probably the worst thing I've ever seen anyone wear."
+    au ""
+
+# game/v2/v2.rpy:3117
+translate czech v2_nsfwSkipLabel3_21bc3cf3:
+
+    # au "So let's get out of these outfits."
+    au ""
+
+# game/v2/v2.rpy:3125
+translate czech v2_nsfwSkipLabel3_ebb31da5_1:
+
+    # u "Alright, fine."
+    u ""
+
+# game/v2/v2.rpy:3127
+translate czech v2_nsfwSkipLabel3_d76759c0:
+
+    # u "Then get dressed quickly, so that you can see my costume."
+    u ""
+
+# game/v2/v2.rpy:3129
+translate czech v2_nsfwSkipLabel3_d8940fd5:
+
+    # au "Yeah, just give me a minute."
+    au ""
+
+# game/v2/v2.rpy:3316
+translate czech v2_nsfwSkipLabel4_c9690363:
+
+    # u "(Let's see what Penelope thinks of this costume.)"
+    u ""
+
+# game/v2/v2.rpy:3326
+translate czech v2_nsfwSkipLabel4_d5b92c88:
+
+    # pe "Oh I don't think you should get that costume."
+    pe ""
+
+# game/v2/v2.rpy:3331
+translate czech v2_nsfwSkipLabel4_1891caa4:
+
+    # u "Why? Do I look too dashing?"
+    u ""
+
+# game/v2/v2.rpy:3336
+translate czech v2_nsfwSkipLabel4_4445f003:
+
+    # pe "No, it's just that Vikings didn't actually have horns on their helmets."
+    pe ""
+
+# game/v2/v2.rpy:3338
+translate czech v2_nsfwSkipLabel4_42a8d686:
+
+    # pe "And Mr. Lee said that the costumes should be historically accurate."
+    pe ""
+
+# game/v2/v2.rpy:3343
+translate czech v2_nsfwSkipLabel4_74466041:
+
+    # u "Oh, right. Totally."
+    u ""
+
+# game/v2/v2.rpy:3347
+translate czech v2_nsfwSkipLabel4_94e659fd:
+
+    # pe "So uhm... what do you think of my outfit?"
+    pe ""
+
+# game/v2/v2.rpy:3356
+translate czech v2_nsfwSkipLabel4_9427cc31:
+
+    # u "You look beautiful. Do you like it?"
+    u ""
+
+# game/v2/v2.rpy:3361
+translate czech v2_nsfwSkipLabel4_b030db80:
+
+    # pe "Awww, thank you."
+    pe ""
+
+# game/v2/v2.rpy:3363
+translate czech v2_nsfwSkipLabel4_d07ac90d:
+
+    # pe "Yeah, it's kinda cool."
+    pe ""
+
+# game/v2/v2.rpy:3366
+translate czech v2_nsfwSkipLabel4_784f0486:
+
+    # pe "Should we try some other outfits?"
+    pe ""
+
+# game/v2/v2.rpy:3369
+translate czech v2_nsfwSkipLabel4_8928515d:
+
+    # pe "Are you ready to buy an outfit?"
+    pe ""
+
+# game/v2/v2.rpy:3377
+translate czech v2_nsfwSkipLabel4_fdf7c84b:
+
+    # u "I guess it's kinda nice. What do you think?"
+    u ""
+
+# game/v2/v2.rpy:3382
+translate czech v2_nsfwSkipLabel4_ebc2e279:
+
+    # pe "I like it, but I'm not sure."
+    pe ""
+
+# game/v2/v2.rpy:3385
+translate czech v2_nsfwSkipLabel4_784f0486_1:
+
+    # pe "Should we try some other outfits?"
+    pe ""
+
+# game/v2/v2.rpy:3388
+translate czech v2_nsfwSkipLabel4_8928515d_1:
+
+    # pe "Are you ready to buy an outfit?"
+    pe ""
+
+# game/v2/v2.rpy:3461
+translate czech v2_nsfwSkipLabel5_7617b006:
+
+    # u "(Time to show this to Penelope)"
+    u ""
+
+# game/v2/v2.rpy:3471
+translate czech v2_nsfwSkipLabel5_be95785c:
+
+    # pe "Oh, you're a knight!"
+    pe ""
+
+# game/v2/v2.rpy:3476
+translate czech v2_nsfwSkipLabel5_22e59b26:
+
+    # u "Yeah and you're like a female with shoulder pads?"
+    u ""
+
+# game/v2/v2.rpy:3481
+translate czech v2_nsfwSkipLabel5_5e850613:
+
+    # pe "Sir, your perception skills are outstanding."
+    pe ""
+
+# game/v2/v2.rpy:3486
+translate czech v2_nsfwSkipLabel5_ffa24c4f:
+
+    # u "Well thank you, milady."
+    u ""
+
+# game/v2/v2.rpy:3491
+translate czech v2_nsfwSkipLabel5_e4bda834:
+
+    # pe "You know, our costumes fit quite well together."
+    pe ""
+
+# game/v2/v2.rpy:3497
+translate czech v2_nsfwSkipLabel5_4d80c854:
+
+    # u "Yeah, maybe it's like the costume of two lovers, you know... historically speaking."
+    u ""
+
+# game/v2/v2.rpy:3502
+translate czech v2_nsfwSkipLabel5_4881cc23:
+
+    # pe "Haha, I'm sure that's the case."
+    pe ""
+
+# game/v2/v2.rpy:3505
+translate czech v2_nsfwSkipLabel5_b5ad0502:
+
+    # pe "Let's continue, I wanna try another outfit."
+    pe ""
+
+# game/v2/v2.rpy:3508
+translate czech v2_nsfwSkipLabel5_8928515d:
+
+    # pe "Are you ready to buy an outfit?"
+    pe ""
+
+# game/v2/v2.rpy:3513
+translate czech v2_nsfwSkipLabel5_2f9da969:
+
+    # u "Yeah, it would be a cool partner costume."
+    u ""
+
+# game/v2/v2.rpy:3518
+translate czech v2_nsfwSkipLabel5_5c182744:
+
+    # pe "That's a sweet idea. Maybe we can do something like that."
+    pe ""
+
+# game/v2/v2.rpy:3521
+translate czech v2_nsfwSkipLabel5_507a43ec:
+
+    # pe "But let's check out the other outfits first."
+    pe ""
+
+# game/v2/v2.rpy:3524
+translate czech v2_nsfwSkipLabel5_bc9f16f8:
+
+    # pe "Would you be ready to buy an outfit?"
+    pe ""
+
+# game/v2/v2.rpy:3597
+translate czech v2_nsfwSkipLabel6_9f6f578e:
+
+    # u "Man she's gonna love this costume."
+    u ""
+
+# game/v2/v2.rpy:3602
+translate czech v2_nsfwSkipLabel6_63079810:
+
+    # u "Penelope? Are you coming out?"
+    u ""
+
+# game/v2/v2.rpy:3604
+translate czech v2_nsfwSkipLabel6_15298cba:
+
+    # pe "Well I was trying on a costume, but after seeing I realize that it shows way too much skin to wear it to class."
+    pe ""
+
+# game/v2/v2.rpy:3606
+translate czech v2_nsfwSkipLabel6_cfb6e0db:
+
+    # u "Can I see?"
+    u ""
+
+# game/v2/v2.rpy:3608
+translate czech v2_nsfwSkipLabel6_38062494:
+
+    # pe "No, haha. Sorry."
+    pe ""
+
+# game/v2/v2.rpy:3615
+translate czech v2_nsfwSkipLabel6_8d333e1a:
+
+    # u "Oh come on, Penelope. I wanna see."
+    u ""
+
+# game/v2/v2.rpy:3618
+translate czech v2_nsfwSkipLabel6_6749b01c:
+
+    # pe "Sorry but... I'm gonna get dressed again."
+    pe ""
+
+# game/v2/v2.rpy:3621
+translate czech v2_nsfwSkipLabel6_ebb31da5:
+
+    # u "Alright, fine."
+    u ""
+
+# game/v2/v2.rpy:3626
+translate czech v2_nsfwSkipLabel6_1283716f:
+
+    # u "Okay, fine."
+    u ""
+
+# game/v2/v2.rpy:3628
+translate czech v2_nsfwSkipLabel6_d76759c0:
+
+    # u "Then get dressed quickly, so that you can see my costume."
+    u ""
+
+# game/v2/v2.rpy:3630
+translate czech v2_nsfwSkipLabel6_557d2bda:
+
+    # pe "Yeah, just give me a minute."
+    pe ""
+
+# game/v2/v2.rpy:3640
+translate czech v2_nsfwSkipLabel6_22984668:
+
+    # pe "Wow, I'm not sure how I feel about the cowboy look."
+    pe ""
+
+# game/v2/v2.rpy:3645
+translate czech v2_nsfwSkipLabel6_89e51cb4:
+
+    # u "What?? I considered cowboy to be a serious career path for me after I saw myself in this outfit."
+    u ""
+
+# game/v2/v2.rpy:3650
+translate czech v2_nsfwSkipLabel6_e93cf270:
+
+    # pe "Yeah... you should probably rethink that, haha."
+    pe ""
+
+# game/v2/v2.rpy:3653
+translate czech v2_nsfwSkipLabel6_a296406c:
+
+    # pe "Let's check out something different."
+    pe ""
+
+# game/v2/v2.rpy:3656
+translate czech v2_nsfwSkipLabel6_8928515d:
+
+    # pe "Are you ready to buy an outfit?"
+    pe ""
+

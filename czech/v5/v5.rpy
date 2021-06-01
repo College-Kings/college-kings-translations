@@ -3934,3 +3934,149 @@ translate czech strings:
     # game/v5/v5.rpy:4319
     old "I'm busy later tonight and I'm pretty much booked for the entire week :/"
     new "Navečer už mám moc práce, a příští týden taky vůbec nemůžu :/"
+# TODO: Translation updated at 2021-06-01 21:32
+
+# game/v5/v5.rpy:833
+translate czech continueag_b5e4dde2:
+
+    # la "Well, my psychology teacher Mrs. Anderson said that she'd leave this room open over the weekend so that we can do the tests on neutral ground."
+    la ""
+
+# game/v5/v5.rpy:838
+translate czech continueag_7c5a55ca:
+
+    # u "Uhh... neutral ground?"
+    u ""
+
+# game/v5/v5.rpy:843
+translate czech continueag_664cf29f:
+
+    # la "You know, your answers can be affected by the environment you're in and an empty classroom should minimize the impact of that."
+    la ""
+
+# game/v5/v5.rpy:848
+translate czech continueag_1fe62b9e:
+
+    # u "Uhm, sure."
+    u ""
+
+# game/v5/v5.rpy:854
+translate czech gotest_a17c9ba8:
+
+    # la "Alright, let's get started, shall we?"
+    la ""
+
+# game/v5/v5.rpy:865
+translate czech gokissb_a72f7f6d:
+
+    # la "So I'll tell you a series of statements and you just tell me if you agree or disagree, okay?"
+    la ""
+
+# game/v5/v5.rpy:870
+translate czech gokissb_2e8c8088:
+
+    # u "Yeah, sounds good."
+    u ""
+
+# game/v5/v5.rpy:875
+translate czech gokissb_86166407:
+
+    # la "Remember, there is no right or wrong, so just answer honestly."
+    la ""
+
+# game/v5/v5.rpy:880
+translate czech gokissb_bbdb12d1:
+
+    # la "Statement one: I struggle making difficult decisions."
+    la ""
+
+# game/v5/v5.rpy:2732
+translate czech fj_b_4f1997c1:
+
+    # "*Knock knock knock*"
+    ""
+
+# game/v5/v5.rpy:2739
+translate czech fj_b_cf5757cb:
+
+    # ad "Wrong dorm, pissbag. Now fuck off."
+    ad ""
+
+# game/v5/v5.rpy:2754
+translate czech fj_b_41c4e507:
+
+    # u "You're Adam, right? Look, you beat up my friend Imre and-"
+    u ""
+
+# game/v5/v5.rpy:2759
+translate czech fj_b_2a4f3e8b:
+
+    # ad "Ahh yeah, I remember, that was quite fun."
+    ad ""
+
+# game/v5/v5.rpy:2764
+translate czech fj_b_6139557a:
+
+    # ad "So what are you gonna do about it, bitch?"
+    ad ""
+
+# game/v5/v5.rpy:2779
+translate czech fj_b_31946e3b:
+
+    # u "You find him and apologize or I'll tell the fucking school and you'll get kicked out and maybe even assault charges thrown your way."
+    u ""
+
+# game/v5/v5.rpy:2784
+translate czech fj_b_a84364ef:
+
+    # ad "You do that and I'll come back for you and unlike your friend, you'll never leave the fucking hospital again."
+    ad ""
+
+# game/v5/v5.rpy:2786
+translate czech fj_b_9e7beed6:
+
+    # ad "Now fuck off."
+    ad ""
+
+# game/v5/v5.rpy:2793
+translate czech fj_b_9d73ea27:
+
+    # u "(Fuck...)"
+    u ""
+
+# game/v5/v5.rpy:2795
+translate czech fj_b_92f0993b:
+
+    # u "(Great, if I tell the school about this, Imre will be pissed at me and Adam will try to fucking kill me, but if I don't, Imre is gonna get himself killed trying to get revenge.)"
+    u ""
+
+# game/v5/v5.rpy:2817
+translate czech fj_b_6f8ae513:
+
+    # u "(It's not like I can do anything against him anyways...)"
+    u ""
+
+# game/v5/v5.rpy:2818
+translate czech fj_b_0f5a6937:
+
+    # u "(Maybe I should tell the school, but Imre would be super pissed and Adam might try and kill me for it.)"
+    u ""
+
+# game/v5/v5.rpy:2819
+translate czech fj_b_1898af7b:
+
+    # u "(On the other hand, if I don't tell the school Imre might actually get himself killed trying to get revenge.)"
+    u ""
+
+# game/v5/v5.rpy:4338
+translate czech continueba_9ea2f78c:
+
+    # " "
+    ""
+
+translate czech strings:
+
+    # game/v5/v5.rpy:24
+    old "Don't worry, you'll see me soon."
+    new ""
+

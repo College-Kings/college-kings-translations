@@ -928,3 +928,59 @@ translate czech strings:
     old "I'm ok, it's really not that bad"
     new ""
 
+# TODO: Translation updated at 2021-06-01 21:32
+
+# game/v9/scene16.rpy:739
+translate czech v9s16_nsfwSkipLabel1_37571982:
+
+    # u "Well, if you ever want a repeat, I'm your man."
+    u ""
+
+# game/v9/scene16.rpy:744
+translate czech v9s16_nsfwSkipLabel1_c0336b17:
+
+    # em "You and your sex kill switch."
+    em ""
+
+# game/v9/scene16.rpy:749
+translate czech v9s16_nsfwSkipLabel1_3a8d5173:
+
+    # u "It was so good. You wore me out."
+    u ""
+
+# game/v9/scene16.rpy:759
+translate czech v9s16_nsfwSkipLabel1_ccd53b23:
+
+    # u "Thank you."
+    u ""
+
+# game/v9/scene16.rpy:764
+translate czech v9s16_nsfwSkipLabel1_0c8f2d0e:
+
+    # em "Thank you. You heading out?"
+    em ""
+
+# game/v9/scene16.rpy:769
+translate czech v9s16_nsfwSkipLabel1_08365825:
+
+    # u "You really did knock me out. I better get to my room."
+    u ""
+
+# game/v9/scene16.rpy:774
+translate czech v9s16_nsfwSkipLabel1_d41a0781:
+
+    # em "Alright. I'll talk to you tomorrow."
+    em ""
+
+# game/v9/scene16.rpy:779
+translate czech v9s16_nsfwSkipLabel1_094f3c8d:
+
+    # u "You really were amazing."
+    u ""
+
+# game/v9/scene16.rpy:784
+translate czech v9s16_nsfwSkipLabel1_42ecfd01:
+
+    # em "I know."
+    em ""
+

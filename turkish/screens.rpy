@@ -1,6 +1,6 @@
 ﻿# TODO: Translation updated at 2021-05-24 07:15
 
-translate template_lang strings:
+translate turkish strings:
 
     # game/screens.rpy:346
     old "Page {}"
@@ -296,7 +296,7 @@ translate template_lang strings:
 
 # TODO: Translation updated at 2021-06-01 17:46
 
-translate template_lang strings:
+translate turkish strings:
 
     # game/screens.rpy:1201
     old "on"

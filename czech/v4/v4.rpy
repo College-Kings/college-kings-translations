@@ -1698,8 +1698,6 @@ translate czech ec_bd_c812e1b1:
     # u "(I'll get a coffee, otherwise I'll be tired for the rest of the day.)"
     u "(Zajdu si pro kafe, jinak budu po zbytek dne nepoužitelnej.)"
 
-# game/v4/v4.rpy:1844
-translate czech ec_bd_6ff50e9a:
 # game/v4/v4.rpy:1608
 translate czech continueaa_40fb7627:
 
@@ -3231,4 +3229,11 @@ translate czech strings:
     # game/v4/v4.rpy:2891
     old "Ask about the punch"
     new ""
-						
+# TODO: Translation updated at 2021-06-01 21:32
+
+# game/v4/v4.rpy:2421
+translate czech eo_bd_c0baa699:
+
+    # u "Uhm, actually... I should stop here. I really have to go see my friend soon and I don't wanna be too drunk."
+    u ""
+

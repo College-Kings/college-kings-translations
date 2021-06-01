@@ -148,7 +148,7 @@ translate portuguese nora_hall_eu_go_2ea7fbca:
 translate portuguese nora_hall_eu_no_ae7207c6:
 
     # u "(Hmm, it's still a lot of money but I don't want to upset Nora.)"
-    u (Hmmm, é bastante dinheiro, mas eu não quero chatear a Nora.)"
+    u "(Hmmm, é bastante dinheiro, mas eu não quero chatear a Nora.)"
 
 # game/v8/scene33.rpy:177
 translate portuguese cont_nora_hall_3_82584925:

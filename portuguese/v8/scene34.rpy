@@ -134,7 +134,7 @@ translate portuguese strings:
 
     # game/v8/scene34.rpy:55
     old "You too"
-    new ""Com você também.
+    new "Com você também."
 
     # game/v8/scene34.rpy:58
     old "There's a new Japanese place right down the road"

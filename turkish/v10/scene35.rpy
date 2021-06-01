@@ -138,3 +138,87 @@ translate turkish v10s35_nsfwSkipLabel1_7add01b1:
     # aut "That was an... exciting start. Our next matchup is Emily and Aubrey."
     aut ""
 
+# TODO: Translation updated at 2021-06-01 21:33
+
+# game/v10/scene35.rpy:7
+translate turkish v10_chloe_vs_nora_5899a49a:
+
+    # cl "*Grunts*"
+    cl ""
+
+# game/v10/scene35.rpy:13
+translate turkish v10_chloe_vs_nora_2acacd9e:
+
+    # no "Oh my God, GET OFF!"
+    no ""
+
+# game/v10/scene35.rpy:18
+translate turkish v10_chloe_vs_nora_8d013a1e:
+
+    # cl "*Screams* Ahh!"
+    cl ""
+
+# game/v10/scene35.rpy:19
+translate turkish v10_chloe_vs_nora_139523f5:
+
+    # no "Who's smiling now?"
+    no ""
+
+# game/v10/scene35.rpy:24
+translate turkish v10_chloe_vs_nora_ac905342:
+
+    # no "C'mon Madame President."
+    no ""
+
+# game/v10/scene35.rpy:32
+translate turkish v10_chloe_vs_nora_5899a49a_1:
+
+    # cl "*Grunts*"
+    cl ""
+
+# game/v10/scene35.rpy:33
+translate turkish v10_chloe_vs_nora_e106ad20:
+
+    # no "*Screams* Ahh!"
+    no ""
+
+# game/v10/scene35.rpy:34
+translate turkish v10_chloe_vs_nora_9a0463e8:
+
+    # aa "This is getting more interesting by the second!"
+    aa ""
+
+# game/v10/scene35.rpy:35
+translate turkish v10_chloe_vs_nora_0a70f671:
+
+    # imre "Now you're making sense!"
+    imre ""
+
+# game/v10/scene35.rpy:36
+translate turkish v10_chloe_vs_nora_a2992451:
+
+    # aut "Uhm..."
+    aut ""
+
+# game/v10/scene35.rpy:41
+translate turkish v10_chloe_vs_nora_f44255fc:
+
+    # no "Ugh!"
+    no ""
+
+# game/v10/scene35.rpy:46
+translate turkish v10_chloe_vs_nora_75edee73:
+
+    # no "OKAY YOU WIN!"
+    no ""
+
+translate turkish strings:
+
+    # game/v10/scene35.rpy:59
+    old "Talk to Chloe"
+    new ""
+
+    # game/v10/scene35.rpy:59
+    old "Talk to Nora"
+    new ""
+

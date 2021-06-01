@@ -18462,3 +18462,645 @@ translate portuguese fr4riley22_ba56bc58:
     # ro "Congratulations Chris !"
     ro "Parabéns Chris!"
 
+# TODO: Translation updated at 2021-06-01 21:33
+
+# game/v7/v7.rpy:6501
+translate portuguese v7_nsfwSkipLabel2_cf34432d:
+
+    # lee "Who was that?{w} {b}WHO WAS THAT?{/b}"
+    lee ""
+
+# game/v7/v7.rpy:6502
+translate portuguese v7_nsfwSkipLabel2_da52bfb2:
+
+    # ca "HAHAHA! FUCKIN' ACES!"
+    ca ""
+
+# game/v7/v7.rpy:7718
+translate portuguese v7_nsfwSkipLabel3_0d6659f6:
+
+    # ca "That was sick!"
+    ca ""
+
+# game/v7/v7.rpy:7723
+translate portuguese v7_nsfwSkipLabel3_2a4403a3:
+
+    # u "Haha, yeah. They were pretty hot. Good pick."
+    u ""
+
+# game/v7/v7.rpy:7728
+translate portuguese v7_nsfwSkipLabel3_d481db0a:
+
+    # ca "I know where the good ones are. You ready for the next?"
+    ca ""
+
+# game/v7/v7.rpy:7733
+translate portuguese v7_nsfwSkipLabel3_505a3f68:
+
+    # u "Yeah."
+    u ""
+
+# game/v7/v7.rpy:7894
+translate portuguese v7_nsfwSkipLabel4_c6368d45:
+
+    # ca "What the fuck?!"
+    ca ""
+
+# game/v7/v7.rpy:7904
+translate portuguese v7_nsfwSkipLabel4_53d22eea:
+
+    # sa "Cameron?"
+    sa ""
+
+# game/v7/v7.rpy:7909
+translate portuguese v7_nsfwSkipLabel4_6f67ce4e:
+
+    # ca "What the fuck do you think you're doing?"
+    ca ""
+
+# game/v7/v7.rpy:7919
+translate portuguese v7_nsfwSkipLabel4_b7c85b7c:
+
+    # sa "What am I doing? What the hell are you doing here?!"
+    sa ""
+
+# game/v7/v7.rpy:7924
+translate portuguese v7_nsfwSkipLabel4_54bc2a27:
+
+    # ca "It's like I have to fucking babysit you 24-7!"
+    ca ""
+
+# game/v7/v7.rpy:7929
+translate portuguese v7_nsfwSkipLabel4_b589a000:
+
+    # sa "I'm an adult! I can take care of myself!"
+    sa ""
+
+# game/v7/v7.rpy:7934
+translate portuguese v7_nsfwSkipLabel4_a99825c4:
+
+    # ca "You're fucking 18, Sam! You're hardly an adult!{w} And clearly you can't take care of yourself."
+    ca ""
+
+# game/v7/v7.rpy:7935
+translate portuguese v7_nsfwSkipLabel4_30c44324:
+
+    # ca "What do you want me to do? Stand around while I watch you kill yourself?!"
+    ca ""
+
+# game/v7/v7.rpy:7936
+translate portuguese v7_nsfwSkipLabel4_88aef05f:
+
+    # ca "You're my little sister for God's sake!"
+    ca ""
+
+# game/v7/v7.rpy:7946
+translate portuguese v7_nsfwSkipLabel4_bd66fa76:
+
+    # sa "Just fuck off Cameron!{w} Go home!"
+    sa ""
+
+# game/v7/v7.rpy:7951
+translate portuguese v7_nsfwSkipLabel4_78587dc5:
+
+    # ca "Don't you dare talk to me like that! You're leaving.{w} NOW!"
+    ca ""
+
+# game/v7/v7.rpy:7961
+translate portuguese v7_nsfwSkipLabel4_6d1b0a51:
+
+    # ca "Don't you fucking dare drag her into this shit again!"
+    ca ""
+
+# game/v7/v7.rpy:7971
+translate portuguese v7_nsfwSkipLabel4_7f17ad95:
+
+    # ca "I cannot fucking believe you Samantha."
+    ca ""
+
+# game/v7/v7.rpy:7984
+translate portuguese v7_nsfwSkipLabel4_024496ef:
+
+    # u "Hey, you know he only wants the best for you."
+    u ""
+
+# game/v7/v7.rpy:7989
+translate portuguese v7_nsfwSkipLabel4_3d1310d4:
+
+    # sa "Yeah, well, he has a shitty way of showing it."
+    sa ""
+
+# game/v7/v7.rpy:7994
+translate portuguese v7_nsfwSkipLabel4_d2a778e9:
+
+    # u "Yeah, maybe it's just the only way he knows to show that he cares."
+    u ""
+
+# game/v7/v7.rpy:7995
+translate portuguese v7_nsfwSkipLabel4_cb919327:
+
+    # u "You know, that stuff can really kill you. He doesn't want that for his little sister."
+    u ""
+
+# game/v7/v7.rpy:8000
+translate portuguese v7_nsfwSkipLabel4_25fac944:
+
+    # sa "I know. I just can't help it."
+    sa ""
+
+# game/v7/v7.rpy:8005
+translate portuguese v7_nsfwSkipLabel4_ebd40b08:
+
+    # u "It's hard, I bet. But even though I don't know you, I think you can do it."
+    u ""
+
+# game/v7/v7.rpy:8006
+translate portuguese v7_nsfwSkipLabel4_50e6070a:
+
+    # u "You've done it before, haven't you?"
+    u ""
+
+# game/v7/v7.rpy:8011
+translate portuguese v7_nsfwSkipLabel4_1a80acaa:
+
+    # sa "Yeah."
+    sa ""
+
+# game/v7/v7.rpy:8016
+translate portuguese v7_nsfwSkipLabel4_09794f68:
+
+    # u "Then you can definitely do it again. And in the end it'll all be worth it. Trust me."
+    u ""
+
+# game/v7/v7.rpy:8031
+translate portuguese v7_nsfwSkipLabel4_dd7d10ce:
+
+    # sa "Thank you, really."
+    sa ""
+
+# game/v7/v7.rpy:9190
+translate portuguese v7_nsfwSkipLabel1_5c607d4c:
+
+    # u "Yeah, see you tomorrow."
+    u ""
+
+# game/v7/v7.rpy:9300
+translate portuguese signs_with_autumn_9ea2f78c:
+
+    # " "
+    ""
+
+# game/v7/v7.rpy:9884
+translate portuguese v7_nsfwSkipLabel5_bec8eb34:
+
+    # u "Now what?"
+    u ""
+
+# game/v7/v7.rpy:9889
+translate portuguese v7_nsfwSkipLabel5_6ef44660:
+
+    # am "Now we wait, it takes a few minutes to set in."
+    am ""
+
+# game/v7/v7.rpy:9894
+translate portuguese v7_nsfwSkipLabel5_33e3dcfc:
+
+    # u "Oh alright."
+    u ""
+
+# game/v7/v7.rpy:9899
+translate portuguese v7_nsfwSkipLabel5_42a3c118:
+
+    # am "So you glad you missed out on homecoming?"
+    am ""
+
+# game/v7/v7.rpy:9904
+translate portuguese v7_nsfwSkipLabel5_db2d50b5:
+
+    # u "Yeah I guess. Always got next year if I really wanna go. And this did sound a lot more exciting."
+    u ""
+
+# game/v7/v7.rpy:9909
+translate portuguese v7_nsfwSkipLabel5_395c5010:
+
+    # am "Trust me, this is gonna be so much better. You're about to have the most amazing experience."
+    am ""
+
+# game/v7/v7.rpy:9914
+translate portuguese v7_nsfwSkipLabel5_95a12780:
+
+    # u "I mean we could've done this any day though. How come you don't like dances?"
+    u ""
+
+# game/v7/v7.rpy:9919
+translate portuguese v7_nsfwSkipLabel5_9ee8d97b:
+
+    # am "I mean that kinda stuff was exciting back in high school, but now I'm an adult. Just feels more suitable to do adult stuff, you know."
+    am ""
+
+# game/v7/v7.rpy:9924
+translate portuguese v7_nsfwSkipLabel5_6372ad97:
+
+    # u "Like drugs? Haha."
+    u ""
+
+# game/v7/v7.rpy:9929
+translate portuguese v7_nsfwSkipLabel5_4a311cae:
+
+    # am "Well yeah. No adults watching over you telling you what you can or can't do. Putting on whatever music you like. Essentially doing whatever you want."
+    am ""
+
+# game/v7/v7.rpy:9934
+translate portuguese v7_nsfwSkipLabel5_0698cd5c:
+
+    # u "Yeah I get it. Freedom."
+    u ""
+
+# game/v7/v7.rpy:9939
+translate portuguese v7_nsfwSkipLabel5_ab5dd991:
+
+    # am "Exactly. That reminds me."
+    am ""
+
+# game/v7/v7.rpy:9958
+translate portuguese v7_nsfwSkipLabel5_980e1710:
+
+    # u "Alriiight. I'm starting to get really excited now."
+    u ""
+
+# game/v7/v7.rpy:9963
+translate portuguese v7_nsfwSkipLabel5_96bad041:
+
+    # am "*Chuckles* The effects should kick in soon."
+    am ""
+
+# game/v7/v7.rpy:9968
+translate portuguese v7_nsfwSkipLabel5_db4d742f:
+
+    # am "But yeah. Freedom. Little would you know but I use to be a little angel back in my days. Haha."
+    am ""
+
+# game/v7/v7.rpy:9973
+translate portuguese v7_nsfwSkipLabel5_b898a6eb:
+
+    # u "What happened?"
+    u ""
+
+# game/v7/v7.rpy:9978
+translate portuguese v7_nsfwSkipLabel5_4a2201eb:
+
+    # am "I decided to live! I was tired of trying to fit into my parents' ideas of who I should be. So I just said fuck it."
+    am ""
+
+# game/v7/v7.rpy:9983
+translate portuguese v7_nsfwSkipLabel5_4f1bba86:
+
+    # u "That's surprisingly wise, haha."
+    u ""
+
+# game/v7/v7.rpy:9996
+translate portuguese v7_nsfwSkipLabel5_d4a4c241:
+
+    # u "Woah..."
+    u ""
+
+# game/v7/v7.rpy:10001
+translate portuguese v7_nsfwSkipLabel5_3b9c2be3:
+
+    # am "Oooh feeling something aren't you?"
+    am ""
+
+# game/v7/v7.rpy:10006
+translate portuguese v7_nsfwSkipLabel5_f319d912:
+
+    # u "Yeah. Yeah, I think so. I feel kind of-"
+    u ""
+
+# game/v7/v7.rpy:10011
+translate portuguese v7_nsfwSkipLabel5_0bad0342:
+
+    # am "Amazing. Am I right?"
+    am ""
+
+# game/v7/v7.rpy:10016
+translate portuguese v7_nsfwSkipLabel5_f5e79f37:
+
+    # u "Yeah... amazing."
+    u ""
+
+# game/v7/v7.rpy:10021
+translate portuguese v7_nsfwSkipLabel5_f8a0f903:
+
+    # am "Lie down next to me."
+    am ""
+
+# game/v7/v7.rpy:10041
+translate portuguese v7_nsfwSkipLabel5_6cd2f39e:
+
+    # am "Just look at the ceiling for a bit."
+    am ""
+
+# game/v7/v7.rpy:10046
+translate portuguese v7_nsfwSkipLabel5_b8e40727:
+
+    # am "Doesn't it just have the best color ever?"
+    am ""
+
+# game/v7/v7.rpy:10048
+translate portuguese v7_nsfwSkipLabel5_0391c364:
+
+    # u "Yeah... it does."
+    u ""
+
+# game/v7/v7.rpy:10050
+translate portuguese v7_nsfwSkipLabel5_00b33d7a:
+
+    # u "Honestly the ceiling just fits so perfectly into the room."
+    u ""
+
+# game/v7/v7.rpy:10052
+translate portuguese v7_nsfwSkipLabel5_a1ef46e9:
+
+    # am "I have never seen a better ceiling in my life."
+    am ""
+
+# game/v7/v7.rpy:10054
+translate portuguese v7_nsfwSkipLabel5_8569c4fa:
+
+    # u "*Chuckles*"
+    u ""
+
+# game/v7/v7.rpy:10059
+translate portuguese v7_nsfwSkipLabel5_bfeb9615:
+
+    # am "Hold this."
+    am ""
+
+# game/v7/v7.rpy:10064
+translate portuguese v7_nsfwSkipLabel5_e371cbaf:
+
+    # u "It's so fluffy."
+    u ""
+
+# game/v7/v7.rpy:10069
+translate portuguese v7_nsfwSkipLabel5_f5ad5ae3:
+
+    # u "Man, this feels so good."
+    u ""
+
+# game/v7/v7.rpy:10074
+translate portuguese v7_nsfwSkipLabel5_897de339:
+
+    # am "I know, it's so nice, right?"
+    am ""
+
+# game/v7/v7.rpy:10076
+translate portuguese v7_nsfwSkipLabel5_b556e454:
+
+    # am "Hold my hand."
+    am ""
+
+# game/v7/v7.rpy:10078
+translate portuguese v7_nsfwSkipLabel5_ef2f1671:
+
+    # u "What?"
+    u ""
+
+# game/v7/v7.rpy:10083
+translate portuguese v7_nsfwSkipLabel5_201b6511:
+
+    # am "Trust me. It feels really good when you're high."
+    am ""
+
+# game/v7/v7.rpy:10088
+translate portuguese v7_nsfwSkipLabel5_e39bc94e:
+
+    # u "Woah... my hands are so sensitive."
+    u ""
+
+# game/v7/v7.rpy:10090
+translate portuguese v7_nsfwSkipLabel5_86b8d5b8:
+
+    # u "And your hands are so... soft."
+    u ""
+
+# game/v7/v7.rpy:10095
+translate portuguese v7_nsfwSkipLabel5_1c5507eb:
+
+    # am "Isn't it just the best?"
+    am ""
+
+# game/v7/v7.rpy:10100
+translate portuguese v7_nsfwSkipLabel5_d0aae9ac:
+
+    # u "Yeah... it's incredible."
+    u ""
+
+# game/v7/v7.rpy:10117
+translate portuguese v7_nsfwSkipLabel5_2d9cfe9a:
+
+    # u "How do you keep your hands so soft?"
+    u ""
+
+# game/v7/v7.rpy:10122
+translate portuguese v7_nsfwSkipLabel5_4d750afd:
+
+    # am "Uhm... lotion? *Laughs*"
+    am ""
+
+# game/v7/v7.rpy:10127
+translate portuguese v7_nsfwSkipLabel5_24b22c24:
+
+    # u "Woah... that's crazy."
+    u ""
+
+# game/v7/v7.rpy:10132
+translate portuguese v7_nsfwSkipLabel5_79fb48c4:
+
+    # am "*Chuckles* Is it?"
+    am ""
+
+# game/v7/v7.rpy:10137
+translate portuguese v7_nsfwSkipLabel5_960cd9ad:
+
+    # u "Yeaaaahhh..."
+    u ""
+
+# game/v7/v7.rpy:10144
+translate portuguese v7_nsfwSkipLabel5_94693f2c:
+
+    # u "Man... you're soft everywhere."
+    u ""
+
+# game/v7/v7.rpy:10149
+translate portuguese v7_nsfwSkipLabel5_e5d751c2:
+
+    # am "*Laughs* Thanks."
+    am ""
+
+# game/v7/v7.rpy:10154
+translate portuguese v7_nsfwSkipLabel5_c09ff0c4:
+
+    # am "*Chuckles* Hey! What are you doing?"
+    am ""
+
+# game/v7/v7.rpy:10156
+translate portuguese v7_nsfwSkipLabel5_3ec79a14:
+
+    # u "Uhm... just exploring."
+    u ""
+
+# game/v7/v7.rpy:10161
+translate portuguese v7_nsfwSkipLabel5_67817cb4:
+
+    # am "*Laughs* Exploring my belly button?"
+    am ""
+
+# game/v7/v7.rpy:10166
+translate portuguese v7_nsfwSkipLabel5_eaf8e31c:
+
+    # u "What can I say? it feels good. *Laughs*"
+    u ""
+
+translate portuguese strings:
+
+    # game/v7/v7.rpy:3
+    old "Lol, pussy"
+    new ""
+
+    # game/v7/v7.rpy:7
+    old "Slide into her DMs bro!"
+    new ""
+
+    # game/v7/v7.rpy:15
+    old "Yeah, they really are"
+    new ""
+
+    # game/v7/v7.rpy:19
+    old "Bring it on!"
+    new ""
+
+    # game/v7/v7.rpy:23
+    old "lol"
+    new ""
+
+    # game/v7/v7.rpy:1356
+    old "I'll always follow the sun :)"
+    new ""
+
+    # game/v7/v7.rpy:1357
+    old "Check your DMs"
+    new ""
+
+    # game/v7/v7.rpy:1358
+    old "Whore."
+    new ""
+
+    # game/v7/v7.rpy:1359
+    old "What I wouldn't give for your body..."
+    new ""
+
+    # game/v7/v7.rpy:1360
+    old "If you ever need a tutor, I'm free on Wednesdays and Fridays."
+    new ""
+
+    # game/v7/v7.rpy:1361
+    old "SO FUCKING HOT WTFFF"
+    new ""
+
+    # game/v7/v7.rpy:1362
+    old "Where did you get that bikini?"
+    new ""
+
+    # game/v7/v7.rpy:1363
+    old "I can't remember :("
+    new ""
+
+    # game/v7/v7.rpy:1364
+    old "You're so beautiful!"
+    new ""
+
+    # game/v7/v7.rpy:1365
+    old "I got some sun in my room..."
+    new ""
+
+    # game/v7/v7.rpy:1367
+    old "Wishing I could go back..."
+    new ""
+
+    # game/v7/v7.rpy:1368
+    old "That was such a great vacation!"
+    new ""
+
+    # game/v7/v7.rpy:1369
+    old "Looks beautiful"
+    new ""
+
+    # game/v7/v7.rpy:1370
+    old "You're a cutie!"
+    new ""
+
+    # game/v7/v7.rpy:1371
+    old "Winter vacations are the best"
+    new ""
+
+    # game/v7/v7.rpy:1373
+    old "Finally changed my profile pic!"
+    new ""
+
+    # game/v7/v7.rpy:1374
+    old "You put the hot into thot"
+    new ""
+
+    # game/v7/v7.rpy:1375
+    old "You still single?"
+    new ""
+
+    # game/v7/v7.rpy:1376
+    old "I'm sooo jealous of your hair!"
+    new ""
+
+    # game/v7/v7.rpy:1377
+    old "Most beautiful girl in the world"
+    new ""
+
+    # game/v7/v7.rpy:1378
+    old "I'd destroy you in Air hockey!"
+    new ""
+
+    # game/v7/v7.rpy:1381
+    old "Finally fate brings us back together. What doesn't kill us only makes us stronger."
+    new ""
+
+    # game/v7/v7.rpy:1382
+    old "You guys are so cute"
+    new ""
+
+    # game/v7/v7.rpy:1383
+    old "GORGEOUS"
+    new ""
+
+    # game/v7/v7.rpy:1384
+    old "Woah, you guys back together??"
+    new ""
+
+    # game/v7/v7.rpy:1385
+    old "No, we're not."
+    new ""
+
+    # game/v7/v7.rpy:5492
+    old "One of us!"
+    new ""
+
+    # game/v7/v7.rpy:5493
+    old "Losers"
+    new ""
+
+    # game/v7/v7.rpy:5494
+    old "Hell yeah bro!"
+    new ""
+
+    # game/v7/v7.rpy:5495
+    old "Wohoo!"
+    new ""
+

@@ -1,6 +1,6 @@
 ﻿# TODO: Translation updated at 2021-05-24 07:15
 
-translate template_lang strings:
+translate czech strings:
 
     # game/screens.rpy:346
     old "Page {}"
@@ -292,5 +292,17 @@ translate template_lang strings:
 
     # game/screens.rpy:1698
     old "Skipping"
+    new ""
+
+# TODO: Translation updated at 2021-06-01 21:32
+
+translate czech strings:
+
+    # game/screens.rpy:1201
+    old "on"
+    new ""
+
+    # game/screens.rpy:1206
+    old "off"
     new ""
 

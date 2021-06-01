@@ -250,3 +250,41 @@ translate czech strings:
     old "I would but it's getting late and I haven't even started Mr. Lee's project"
     new ""
 
+# TODO: Translation updated at 2021-06-01 21:32
+
+# game/v8/Scene19.rpy:116
+translate czech v8s19_phoneCheck1_e6825ef5:
+
+    # u "I should reply to Emily"
+    u ""
+
+# game/v8/Scene19.rpy:125
+translate czech v8s19_phoneCheck1_c478a397:
+
+    # u "(I think I'll get an early night)"
+    u ""
+
+# game/v8/Scene19.rpy:131
+translate czech v8s19_phoneCheck1_c478a397_1:
+
+    # u "(I think I'll get an early night)"
+    u ""
+
+# game/v8/Scene19.rpy:184
+translate czech v8s19_phoneCheck2_e6825ef5:
+
+    # u "I should reply to Emily"
+    u ""
+
+# game/v8/Scene19.rpy:193
+translate czech v8s19_phoneCheck2_c478a397:
+
+    # u "(I think I'll get an early night)"
+    u ""
+
+# game/v8/Scene19.rpy:199
+translate czech v8s19_phoneCheck2_c478a397_1:
+
+    # u "(I think I'll get an early night)"
+    u ""
+

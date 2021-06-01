@@ -3633,3 +3633,83 @@ translate portuguese strings:
     old "Stop"
     new ""
 
+# TODO: Translation updated at 2021-06-01 21:33
+
+# game/v3/v3.rpy:1770
+translate portuguese v3_nsfwSkipLabel1_fc79c0ea:
+
+    # au "Oh, I see. Very funny."
+    au ""
+
+# game/v3/v3.rpy:1775
+translate portuguese v3_nsfwSkipLabel1_0e63a56c:
+
+    # u "Haha, I thought you did great."
+    u ""
+
+# game/v3/v3.rpy:1780
+translate portuguese v3_nsfwSkipLabel1_34a44d49:
+
+    # au "Okay, now it's your turn again."
+    au ""
+
+# game/v3/v3.rpy:1790
+translate portuguese v3_nsfwSkipLabel1_099d42fd:
+
+    # u "Dare me."
+    u ""
+
+# game/v3/v3.rpy:1795
+translate portuguese v3_nsfwSkipLabel1_d50fee28:
+
+    # au "Uhm... okay. Take your pants off."
+    au ""
+
+# game/v3/v3.rpy:1800
+translate portuguese v3_nsfwSkipLabel1_64f86a80:
+
+    # u "What?? I'm not gonna take my pants off."
+    u ""
+
+# game/v3/v3.rpy:1802
+translate portuguese v3_nsfwSkipLabel1_3bc6d184:
+
+    # u "You gotta give me something I can actually do."
+    u ""
+
+# game/v3/v3.rpy:1807
+translate portuguese v3_nsfwSkipLabel1_3c58d281:
+
+    # au "I did! It's totally doable."
+    au ""
+
+# game/v3/v3.rpy:1812
+translate portuguese v3_nsfwSkipLabel1_4c7c9292:
+
+    # u "I can't just-"
+    u ""
+
+# game/v3/v3.rpy:1817
+translate portuguese v3_nsfwSkipLabel1_be7bafd9:
+
+    # au "Yeah, you can. See?"
+    au ""
+
+# game/v3/v3.rpy:1835
+translate portuguese v3_nsfwSkipLabel1_f4ea2660:
+
+    # u "Did you just?"
+    u ""
+
+# game/v3/v3.rpy:1840
+translate portuguese v3_nsfwSkipLabel1_85eeb4bf:
+
+    # au "Yeah..."
+    au ""
+
+translate portuguese strings:
+
+    # game/v3/v3.rpy:3038
+    old "I like her."
+    new ""
+

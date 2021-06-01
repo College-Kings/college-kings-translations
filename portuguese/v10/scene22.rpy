@@ -220,7 +220,7 @@ translate portuguese v10_cafe_w_jenny_7fa80cbb:
 translate portuguese v10_cafe_w_jenny_2b320b75:
 
     # u "Penelope always puts others before herself, even if you knew and tried to stop her, she probably still would've done it."
-    u ""Penelope sempre coloca os outros antes dela mesma. Mesmo se você soubesse e tentasse impedi-la, provavelmente ela ainda faria isso.
+    u "Penelope sempre coloca os outros antes dela mesma. Mesmo se você soubesse e tentasse impedi-la, provavelmente ela ainda faria isso."
 
 # game/v10/scene22.rpy:178
 translate portuguese v10_cafe_w_jenny_fa66cd59:
@@ -987,10 +987,6 @@ translate portuguese strings:
     # game/v10/scene22.rpy:167
     old "Stay positive"
     new "Se manter otimista"
-
-    # game/v10/scene22.rpy:214
-    old "Flirt"
-    new "Flertar"
 
     # game/v10/scene22.rpy:214
     old "Stay friendly"

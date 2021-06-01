@@ -512,3 +512,41 @@ translate portuguese v9_ri_sex_bebb9ce1:
     # ri "Let me get on top."
     ri ""
 
+# TODO: Translation updated at 2021-06-01 21:33
+
+# game/v9/scene34.rpy:400
+translate portuguese v9s34_nsfwSkipLabel1_c1b65a38:
+
+    # u "(Nap? What?)"
+    u ""
+
+# game/v9/scene34.rpy:405
+translate portuguese v9s34_nsfwSkipLabel1_b7495ffd:
+
+    # ri "I have to meet some friends for lunch. Gotta hit the road."
+    ri ""
+
+# game/v9/scene34.rpy:410
+translate portuguese v9s34_nsfwSkipLabel1_999edf04:
+
+    # u "What time is it? How long was I out?"
+    u ""
+
+# game/v9/scene34.rpy:415
+translate portuguese v9s34_nsfwSkipLabel1_42ce5cf0:
+
+    # ri "Not long. Just a little catnap. You feel refreshed?"
+    ri ""
+
+# game/v9/scene34.rpy:420
+translate portuguese v9s34_nsfwSkipLabel1_7725473a:
+
+    # u "Very."
+    u ""
+
+# game/v9/scene34.rpy:425
+translate portuguese v9s34_nsfwSkipLabel1_785406a2:
+
+    # ri "Good. Now go."
+    ri ""
+
