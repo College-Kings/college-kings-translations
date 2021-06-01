@@ -8,7 +8,7 @@
  - Take a look into your language folder
  - Open the file and start filling the Empty brackets with the translation.
 
-## How add a newly translated part:
+### How add a newly translated part:
  - Push it through github
  - Update your progress in the table below.
  - Remove your name from the according table below.
