@@ -18468,181 +18468,181 @@ translate portuguese fr4riley22_ba56bc58:
 translate portuguese v7_nsfwSkipLabel2_cf34432d:
 
     # lee "Who was that?{w} {b}WHO WAS THAT?{/b}"
-    lee ""
+    lee "Quem foi?{w} {b}QUEM FOI?{/b}"
 
 # game/v7/v7.rpy:6502
 translate portuguese v7_nsfwSkipLabel2_da52bfb2:
 
     # ca "HAHAHA! FUCKIN' ACES!"
-    ca ""
+    ca "HAHAHAHAHAH! PIMBA NA XULIMBA!"
 
 # game/v7/v7.rpy:7718
 translate portuguese v7_nsfwSkipLabel3_0d6659f6:
 
     # ca "That was sick!"
-    ca ""
+    ca "Isso foi uma loucura!"
 
 # game/v7/v7.rpy:7723
 translate portuguese v7_nsfwSkipLabel3_2a4403a3:
 
     # u "Haha, yeah. They were pretty hot. Good pick."
-    u ""
+    u "Haha, pois é. Elas eram gostosas, mandou bem."
 
 # game/v7/v7.rpy:7728
 translate portuguese v7_nsfwSkipLabel3_d481db0a:
 
     # ca "I know where the good ones are. You ready for the next?"
-    ca ""
+    ca "Eu sei onde as gostosas estão. Pronto pra próxima?"
 
 # game/v7/v7.rpy:7733
 translate portuguese v7_nsfwSkipLabel3_505a3f68:
 
     # u "Yeah."
-    u ""
+    u "Pode crer."
 
 # game/v7/v7.rpy:7894
 translate portuguese v7_nsfwSkipLabel4_c6368d45:
 
     # ca "What the fuck?!"
-    ca ""
+    ca "Que porra foi essa cara?"
 
 # game/v7/v7.rpy:7904
 translate portuguese v7_nsfwSkipLabel4_53d22eea:
 
     # sa "Cameron?"
-    sa ""
+    u "Eu perdi minha oportunidade! Eu ia fazer!"
 
 # game/v7/v7.rpy:7909
 translate portuguese v7_nsfwSkipLabel4_6f67ce4e:
 
     # ca "What the fuck do you think you're doing?"
-    ca ""
+    ca "O que diabos você pensa que tá fazendo porra?"
 
 # game/v7/v7.rpy:7919
 translate portuguese v7_nsfwSkipLabel4_b7c85b7c:
 
     # sa "What am I doing? What the hell are you doing here?!"
-    sa ""
+    sa "O que EU estou fazendo? O que VOCÊ está fazendo aqui?!"
 
 # game/v7/v7.rpy:7924
 translate portuguese v7_nsfwSkipLabel4_54bc2a27:
 
     # ca "It's like I have to fucking babysit you 24-7!"
-    ca ""
+    ca "Parece que eu tenho que ser sua babá 24 horas por dia 7 dias por semana."
 
 # game/v7/v7.rpy:7929
 translate portuguese v7_nsfwSkipLabel4_b589a000:
 
     # sa "I'm an adult! I can take care of myself!"
-    sa ""
+    sa "Sou uma adulta! Eu consigo me cuidar sozinha!"
 
 # game/v7/v7.rpy:7934
 translate portuguese v7_nsfwSkipLabel4_a99825c4:
 
     # ca "You're fucking 18, Sam! You're hardly an adult!{w} And clearly you can't take care of yourself."
-    ca ""
+    ca "Você tem 18 anos porra! Você não é tão adulta assim!{w} E claramente você não consegue tomar conta de você mesma."
 
 # game/v7/v7.rpy:7935
 translate portuguese v7_nsfwSkipLabel4_30c44324:
 
     # ca "What do you want me to do? Stand around while I watch you kill yourself?!"
-    ca ""
+    ca "O que você quer que eu faça? Ficar parado vendo você se matar aos poucos?!"
 
 # game/v7/v7.rpy:7936
 translate portuguese v7_nsfwSkipLabel4_88aef05f:
 
     # ca "You're my little sister for God's sake!"
-    ca ""
+    ca "Você é minha irmã caçula porra!"
 
 # game/v7/v7.rpy:7946
 translate portuguese v7_nsfwSkipLabel4_bd66fa76:
 
     # sa "Just fuck off Cameron!{w} Go home!"
-    sa ""
+    sa "Só vaza daqui Cameron!{w} Vai pra casa!"
 
 # game/v7/v7.rpy:7951
 translate portuguese v7_nsfwSkipLabel4_78587dc5:
 
     # ca "Don't you dare talk to me like that! You're leaving.{w} NOW!"
-    ca ""
+    ca "Não ouse falar assim comigo! Você vai sair daqui.{w} AGORA!"
 
 # game/v7/v7.rpy:7961
 translate portuguese v7_nsfwSkipLabel4_6d1b0a51:
 
     # ca "Don't you fucking dare drag her into this shit again!"
-    ca ""
+    ca "Não ouse trazer ela de voltar pra esse mundo de novo!"
 
 # game/v7/v7.rpy:7971
 translate portuguese v7_nsfwSkipLabel4_7f17ad95:
 
     # ca "I cannot fucking believe you Samantha."
-    ca ""
+    ca "Eu não acredito nessa merda Samantha."
 
 # game/v7/v7.rpy:7984
 translate portuguese v7_nsfwSkipLabel4_024496ef:
 
     # u "Hey, you know he only wants the best for you."
-    u ""
+    u "Ei, você sabe que ele só quer o melhor pra você."
 
 # game/v7/v7.rpy:7989
 translate portuguese v7_nsfwSkipLabel4_3d1310d4:
 
     # sa "Yeah, well, he has a shitty way of showing it."
-    sa ""
+    sa "Sim, mas ele meio que tem um jeito de merda de mostrar isso."
 
 # game/v7/v7.rpy:7994
 translate portuguese v7_nsfwSkipLabel4_d2a778e9:
 
     # u "Yeah, maybe it's just the only way he knows to show that he cares."
-    u ""
+    u "Pois é, talvez é o único jeito que ele consegue mostrar que se importa."
 
 # game/v7/v7.rpy:7995
 translate portuguese v7_nsfwSkipLabel4_cb919327:
 
     # u "You know, that stuff can really kill you. He doesn't want that for his little sister."
-    u ""
+    u "Tipo, esse tipo de coisa pode até te matar. Ele não quer que isso aconteça com você."
 
 # game/v7/v7.rpy:8000
 translate portuguese v7_nsfwSkipLabel4_25fac944:
 
     # sa "I know. I just can't help it."
-    sa ""
+    sa "Eu sei, mas não consigo evitar."
 
 # game/v7/v7.rpy:8005
 translate portuguese v7_nsfwSkipLabel4_ebd40b08:
 
     # u "It's hard, I bet. But even though I don't know you, I think you can do it."
-    u ""
+    u "Eu imagino como é difícil... Mas mesmo que eu não te conheça, eu acredito em você."
 
 # game/v7/v7.rpy:8006
 translate portuguese v7_nsfwSkipLabel4_50e6070a:
 
     # u "You've done it before, haven't you?"
-    u ""
+    u "Você já fez isso antes certo?"
 
 # game/v7/v7.rpy:8011
 translate portuguese v7_nsfwSkipLabel4_1a80acaa:
 
     # sa "Yeah."
-    sa ""
+    sa "Sim."
 
 # game/v7/v7.rpy:8016
 translate portuguese v7_nsfwSkipLabel4_09794f68:
 
     # u "Then you can definitely do it again. And in the end it'll all be worth it. Trust me."
-    u ""
+    u "Então você com certeza consegue fazer de novo. E no fim das contas vai valer a pena, acredite."
 
 # game/v7/v7.rpy:8031
 translate portuguese v7_nsfwSkipLabel4_dd7d10ce:
 
     # sa "Thank you, really."
-    sa ""
+    sa "Obrigada, mesmo."
 
 # game/v7/v7.rpy:9190
 translate portuguese v7_nsfwSkipLabel1_5c607d4c:
 
     # u "Yeah, see you tomorrow."
-    u ""
+    ca "Ei, hora de ir."
 
 # game/v7/v7.rpy:9300
 translate portuguese signs_with_autumn_9ea2f78c:
@@ -18654,453 +18654,453 @@ translate portuguese signs_with_autumn_9ea2f78c:
 translate portuguese v7_nsfwSkipLabel5_bec8eb34:
 
     # u "Now what?"
-    u ""
+    u "E agora?"
 
 # game/v7/v7.rpy:9889
 translate portuguese v7_nsfwSkipLabel5_6ef44660:
 
     # am "Now we wait, it takes a few minutes to set in."
-    am ""
+    am "Agora a gente espera, demora um pouco pro efeito vir."
 
 # game/v7/v7.rpy:9894
 translate portuguese v7_nsfwSkipLabel5_33e3dcfc:
 
     # u "Oh alright."
-    u ""
+    u "Ah entendi."
 
 # game/v7/v7.rpy:9899
 translate portuguese v7_nsfwSkipLabel5_42a3c118:
 
     # am "So you glad you missed out on homecoming?"
-    am ""
+    am "Então, valeu a pena não ir pro baile?"
 
 # game/v7/v7.rpy:9904
 translate portuguese v7_nsfwSkipLabel5_db2d50b5:
 
     # u "Yeah I guess. Always got next year if I really wanna go. And this did sound a lot more exciting."
-    u ""
+    u "Sim, eu acho que sim. Você sempre tem o próximo ano se realmente quiser ir. E isso aqui parecia bem mais interessante."
 
 # game/v7/v7.rpy:9909
 translate portuguese v7_nsfwSkipLabel5_395c5010:
 
     # am "Trust me, this is gonna be so much better. You're about to have the most amazing experience."
-    am ""
+    am "Pode acreditar, isso vai ser muito melhor. Nós vamos ter um experiência de outro mundo."
 
 # game/v7/v7.rpy:9914
 translate portuguese v7_nsfwSkipLabel5_95a12780:
 
     # u "I mean we could've done this any day though. How come you don't like dances?"
-    u ""
+    u "Tipo, a gente poderia ter feito isso qualquer outro dia. Mas me conta, por que você não gosta de bailes?"
 
 # game/v7/v7.rpy:9919
 translate portuguese v7_nsfwSkipLabel5_9ee8d97b:
 
     # am "I mean that kinda stuff was exciting back in high school, but now I'm an adult. Just feels more suitable to do adult stuff, you know."
-    am ""
+    am "É o tipo de coisa que eu adorava no ensino médio, mas agora eu sou adulta. Eu sinto que não é algo que os adultos fazem, só isso."
 
 # game/v7/v7.rpy:9924
 translate portuguese v7_nsfwSkipLabel5_6372ad97:
 
     # u "Like drugs? Haha."
-    u ""
+    u "Coisas de adultos? Tipo se drogar? hahaha"
 
 # game/v7/v7.rpy:9929
 translate portuguese v7_nsfwSkipLabel5_4a311cae:
 
     # am "Well yeah. No adults watching over you telling you what you can or can't do. Putting on whatever music you like. Essentially doing whatever you want."
-    am ""
+    am "Bom, sim. Nenhum adulto te controlando ou te dizendo oque fazer. Colocar a música que você quiser... Basicamente fazer oque der na telha."
 
 # game/v7/v7.rpy:9934
 translate portuguese v7_nsfwSkipLabel5_0698cd5c:
 
     # u "Yeah I get it. Freedom."
-    u ""
+    u "Sim, seicumé. Liberdade."
 
 # game/v7/v7.rpy:9939
 translate portuguese v7_nsfwSkipLabel5_ab5dd991:
 
     # am "Exactly. That reminds me."
-    am ""
+    am "Exatamente. Isso me faz lembrar-"
 
 # game/v7/v7.rpy:9958
 translate portuguese v7_nsfwSkipLabel5_980e1710:
 
     # u "Alriiight. I'm starting to get really excited now."
-    u ""
+    u "EEiiitttaaaa. Tô começando a sentir alguma coisa."
 
 # game/v7/v7.rpy:9963
 translate portuguese v7_nsfwSkipLabel5_96bad041:
 
     # am "*Chuckles* The effects should kick in soon."
-    am ""
+    am "*Risadas* O efeito tá começando ein?"
 
 # game/v7/v7.rpy:9968
 translate portuguese v7_nsfwSkipLabel5_db4d742f:
 
     # am "But yeah. Freedom. Little would you know but I use to be a little angel back in my days. Haha."
-    am ""
+    am "Mas sim, liberdade. Você pode não conseguir imaginar isso, mas eu costumava ser uma anjinha quando era mais nova. Haha."
 
 # game/v7/v7.rpy:9973
 translate portuguese v7_nsfwSkipLabel5_b898a6eb:
 
     # u "What happened?"
-    u ""
+    u "E o que aconteceu?"
 
 # game/v7/v7.rpy:9978
 translate portuguese v7_nsfwSkipLabel5_4a2201eb:
 
     # am "I decided to live! I was tired of trying to fit into my parents' ideas of who I should be. So I just said fuck it."
-    am ""
+    am "Eu decidi começar a viver! Eu estava sempre tentando encaixar nos ideias dos meus pais. Até que eu taquei o foda-se."
 
 # game/v7/v7.rpy:9983
 translate portuguese v7_nsfwSkipLabel5_4f1bba86:
 
     # u "That's surprisingly wise, haha."
-    u ""
+    u "Isso é surpreendentemente sábio, haha."
 
 # game/v7/v7.rpy:9996
 translate portuguese v7_nsfwSkipLabel5_d4a4c241:
 
     # u "Woah..."
-    u ""
+    u "Nossaaaa..."
 
 # game/v7/v7.rpy:10001
 translate portuguese v7_nsfwSkipLabel5_3b9c2be3:
 
     # am "Oooh feeling something aren't you?"
-    am ""
+    am "Aaahhh você tá sentindo o efeito chegando né?"
 
 # game/v7/v7.rpy:10006
 translate portuguese v7_nsfwSkipLabel5_f319d912:
 
     # u "Yeah. Yeah, I think so. I feel kind of-"
-    u ""
+    u "Sim, simm. Eu acho que sim. Tô me sentindo meio-"
 
 # game/v7/v7.rpy:10011
 translate portuguese v7_nsfwSkipLabel5_0bad0342:
 
     # am "Amazing. Am I right?"
-    am ""
+    am "Foda demais né?"
 
 # game/v7/v7.rpy:10016
 translate portuguese v7_nsfwSkipLabel5_f5e79f37:
 
     # u "Yeah... amazing."
-    u ""
+    u "Sim... incrível."
 
 # game/v7/v7.rpy:10021
 translate portuguese v7_nsfwSkipLabel5_f8a0f903:
 
     # am "Lie down next to me."
-    am ""
+    am "Deita aqui do meu lado."
 
 # game/v7/v7.rpy:10041
 translate portuguese v7_nsfwSkipLabel5_6cd2f39e:
 
     # am "Just look at the ceiling for a bit."
-    am ""
+    am "Vamos ficar olhando um pouco pro teto."
 
 # game/v7/v7.rpy:10046
 translate portuguese v7_nsfwSkipLabel5_b8e40727:
 
     # am "Doesn't it just have the best color ever?"
-    am ""
+    am "Não é a melhor cor do mundo?"
 
 # game/v7/v7.rpy:10048
 translate portuguese v7_nsfwSkipLabel5_0391c364:
 
     # u "Yeah... it does."
-    u ""
+    u "Sim... é, com certeza."
 
 # game/v7/v7.rpy:10050
 translate portuguese v7_nsfwSkipLabel5_00b33d7a:
 
     # u "Honestly the ceiling just fits so perfectly into the room."
-    u ""
+    u "Honestamente, o teto encaixa perfeitamente com o resto do quarto."
 
 # game/v7/v7.rpy:10052
 translate portuguese v7_nsfwSkipLabel5_a1ef46e9:
 
     # am "I have never seen a better ceiling in my life."
-    am ""
+    am "Eu nunca tinha visto um teto tão lindo na minha vida."
 
 # game/v7/v7.rpy:10054
 translate portuguese v7_nsfwSkipLabel5_8569c4fa:
 
     # u "*Chuckles*"
-    u ""
+    u "*Risadas*"
 
 # game/v7/v7.rpy:10059
 translate portuguese v7_nsfwSkipLabel5_bfeb9615:
 
     # am "Hold this."
-    am ""
+    am "Pega isso aqui."
 
 # game/v7/v7.rpy:10064
 translate portuguese v7_nsfwSkipLabel5_e371cbaf:
 
     # u "It's so fluffy."
-    u ""
+    u "É tão fofo."
 
 # game/v7/v7.rpy:10069
 translate portuguese v7_nsfwSkipLabel5_f5ad5ae3:
 
     # u "Man, this feels so good."
-    u ""
+    u "Nossaaa, isso é tão bommmm."
 
 # game/v7/v7.rpy:10074
 translate portuguese v7_nsfwSkipLabel5_897de339:
 
     # am "I know, it's so nice, right?"
-    am ""
+    am "Eu sei, super bom né?"
 
 # game/v7/v7.rpy:10076
 translate portuguese v7_nsfwSkipLabel5_b556e454:
 
     # am "Hold my hand."
-    am ""
+    am "Segura a minha mão."
 
 # game/v7/v7.rpy:10078
 translate portuguese v7_nsfwSkipLabel5_ef2f1671:
 
     # u "What?"
-    u ""
+    u "O quê?"
 
 # game/v7/v7.rpy:10083
 translate portuguese v7_nsfwSkipLabel5_201b6511:
 
     # am "Trust me. It feels really good when you're high."
-    am ""
+    am "Confia em mim. A sensação é incrível quando você tá na Disney."
 
 # game/v7/v7.rpy:10088
 translate portuguese v7_nsfwSkipLabel5_e39bc94e:
 
     # u "Woah... my hands are so sensitive."
-    u ""
+    u "Woooww... minhas mãos tão super sensíveis."
 
 # game/v7/v7.rpy:10090
 translate portuguese v7_nsfwSkipLabel5_86b8d5b8:
 
     # u "And your hands are so... soft."
-    u ""
+    u "E suas mãos são tão... macias."
 
 # game/v7/v7.rpy:10095
 translate portuguese v7_nsfwSkipLabel5_1c5507eb:
 
     # am "Isn't it just the best?"
-    am ""
+    am "Não é a melhor sensação do mundo?"
 
 # game/v7/v7.rpy:10100
 translate portuguese v7_nsfwSkipLabel5_d0aae9ac:
 
     # u "Yeah... it's incredible."
-    u ""
+    u "Sim... é incrível."
 
 # game/v7/v7.rpy:10117
 translate portuguese v7_nsfwSkipLabel5_2d9cfe9a:
 
     # u "How do you keep your hands so soft?"
-    u ""
+    u "Como você faz para suas mãos serem tão macias?"
 
 # game/v7/v7.rpy:10122
 translate portuguese v7_nsfwSkipLabel5_4d750afd:
 
     # am "Uhm... lotion? *Laughs*"
-    am ""
+    am "Hmm... creme? *Risadas*"
 
 # game/v7/v7.rpy:10127
 translate portuguese v7_nsfwSkipLabel5_24b22c24:
 
     # u "Woah... that's crazy."
-    u ""
+    u "Nossa... que loucura."
 
 # game/v7/v7.rpy:10132
 translate portuguese v7_nsfwSkipLabel5_79fb48c4:
 
     # am "*Chuckles* Is it?"
-    am ""
+    am "*Rindo* É uma loucura?"
 
 # game/v7/v7.rpy:10137
 translate portuguese v7_nsfwSkipLabel5_960cd9ad:
 
     # u "Yeaaaahhh..."
-    u ""
+    u "Siiiiiimmmmmm...."
 
 # game/v7/v7.rpy:10144
 translate portuguese v7_nsfwSkipLabel5_94693f2c:
 
     # u "Man... you're soft everywhere."
-    u ""
+    u "Caralho... toda a tua pele é completamente macia."
 
 # game/v7/v7.rpy:10149
 translate portuguese v7_nsfwSkipLabel5_e5d751c2:
 
     # am "*Laughs* Thanks."
-    am ""
+    am "*Rindo* Valeu."
 
 # game/v7/v7.rpy:10154
 translate portuguese v7_nsfwSkipLabel5_c09ff0c4:
 
     # am "*Chuckles* Hey! What are you doing?"
-    am ""
+    am "*Rindo* Ei! O que você está fazendo?"
 
 # game/v7/v7.rpy:10156
 translate portuguese v7_nsfwSkipLabel5_3ec79a14:
 
     # u "Uhm... just exploring."
-    u ""
+    u "Hmm... só explorando."
 
 # game/v7/v7.rpy:10161
 translate portuguese v7_nsfwSkipLabel5_67817cb4:
 
     # am "*Laughs* Exploring my belly button?"
-    am ""
+    am "*Rindo* Explorando o meu umbigo?"
 
 # game/v7/v7.rpy:10166
 translate portuguese v7_nsfwSkipLabel5_eaf8e31c:
 
     # u "What can I say? it feels good. *Laughs*"
-    u ""
+    u "O que eu posso dizer? Eu adoro a sensação. *Risadas*"
 
 translate portuguese strings:
 
     # game/v7/v7.rpy:3
     old "Lol, pussy"
-    new ""
+    new "Nossa, que baitola."
 
     # game/v7/v7.rpy:7
     old "Slide into her DMs bro!"
-    new ""
+    new "Próximo passo é ir pro pv maninho!"
 
     # game/v7/v7.rpy:15
     old "Yeah, they really are"
-    new ""
+    new "Sim, com certeza"
 
     # game/v7/v7.rpy:19
     old "Bring it on!"
-    new ""
+    new "Pode vir quente que eu tô fervendo!"
 
     # game/v7/v7.rpy:23
     old "lol"
-    new ""
+    new "KKKKKK"
 
     # game/v7/v7.rpy:1356
     old "I'll always follow the sun :)"
-    new ""
+    new "Sempre irei onde houver sol :)"
 
     # game/v7/v7.rpy:1357
     old "Check your DMs"
-    new ""
+    new "Dá uma olhada no pv"
 
     # game/v7/v7.rpy:1358
     old "Whore."
-    new ""
+    new "Putinha"
 
     # game/v7/v7.rpy:1359
     old "What I wouldn't give for your body..."
-    new ""
+    new "Eu daria tudo pra ter o teu corpo..."
 
     # game/v7/v7.rpy:1360
     old "If you ever need a tutor, I'm free on Wednesdays and Fridays."
-    new ""
+    new "Se algum dia você precisar, eu estou livre as quartas e sextas."
 
     # game/v7/v7.rpy:1361
     old "SO FUCKING HOT WTFFF"
-    new ""
+    new "GATA PRA CARALHO"
 
     # game/v7/v7.rpy:1362
     old "Where did you get that bikini?"
-    new ""
+    new "Onde você comprou esse biquini?"
 
     # game/v7/v7.rpy:1363
     old "I can't remember :("
-    new ""
+    new "Eu não lembro :("
 
     # game/v7/v7.rpy:1364
     old "You're so beautiful!"
-    new ""
+    new "Você é tão linda!"
 
     # game/v7/v7.rpy:1365
     old "I got some sun in my room..."
-    new ""
+    new "Tem um pouco de sol aqui no meu quarto..."
 
     # game/v7/v7.rpy:1367
     old "Wishing I could go back..."
-    new ""
+    new "Bem que eu queria voltar pra lá..."
 
     # game/v7/v7.rpy:1368
     old "That was such a great vacation!"
-    new ""
+    new "Eu amei essas férias!"
 
     # game/v7/v7.rpy:1369
     old "Looks beautiful"
-    new ""
+    new "Que lugar lindo"
 
     # game/v7/v7.rpy:1370
     old "You're a cutie!"
-    new ""
+    new "Lindaa!"
 
     # game/v7/v7.rpy:1371
     old "Winter vacations are the best"
-    new ""
+    new "As melhores férias são as de inverno"
 
     # game/v7/v7.rpy:1373
     old "Finally changed my profile pic!"
-    new ""
+    new "Finalmente troquei minha foto de perfil!"
 
     # game/v7/v7.rpy:1374
     old "You put the hot into thot"
-    new ""
+    new "Me chama de Estados Unidos e me USA"
 
     # game/v7/v7.rpy:1375
     old "You still single?"
-    new ""
+    new "Você ainda tá solteira?"
 
     # game/v7/v7.rpy:1376
     old "I'm sooo jealous of your hair!"
-    new ""
+    new "Nossaaa que inveja do seu cabelo!"
 
     # game/v7/v7.rpy:1377
     old "Most beautiful girl in the world"
-    new ""
+    new "Garota mais linda do mundo"
 
     # game/v7/v7.rpy:1378
     old "I'd destroy you in Air hockey!"
-    new ""
+    new "Eu te destruo no air hockey!"
 
     # game/v7/v7.rpy:1381
     old "Finally fate brings us back together. What doesn't kill us only makes us stronger."
-    new ""
+    new "Finalmente o destino nos juntou novamente. Oque não te mata te fortalece."
 
     # game/v7/v7.rpy:1382
     old "You guys are so cute"
-    new ""
+    new "Vocês são tão fofos!"
 
     # game/v7/v7.rpy:1383
     old "GORGEOUS"
-    new ""
+    new "LINDOS"
 
     # game/v7/v7.rpy:1384
     old "Woah, you guys back together??"
-    new ""
+    new "Porra, vocês voltaram??"
 
     # game/v7/v7.rpy:1385
     old "No, we're not."
-    new ""
+    new "Não, não voltamos."
 
     # game/v7/v7.rpy:5492
     old "One of us!"
-    new ""
+    new "Um de nós!"
 
     # game/v7/v7.rpy:5493
     old "Losers"
-    new ""
+    new "Perdedores"
 
     # game/v7/v7.rpy:5494
     old "Hell yeah bro!"
-    new ""
+    new "Isso aí porra!"
 
     # game/v7/v7.rpy:5495
     old "Wohoo!"
-    new ""
+    new "Boooaaa!"
 
