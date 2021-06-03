@@ -670,7 +670,7 @@ translate portuguese continuez_8b4972a9:
 translate portuguese continuez_70720724:
 
     # u "*Chuckles* Is that how we greet each other now?"
-    u "*Risadinhas* A gente se cumrpimenta assim agora?"
+    u "*Risadinhas* A gente se cumprimenta assim agora?"
 
 # game/v5/v5.rpy:722
 translate portuguese continuez_6b90dfa7:
@@ -808,13 +808,13 @@ translate portuguese continuez_7a16bc12:
 translate portuguese continueag_b5e4dde2:
 
     # la "Well, my psychology teacher Mrs. Anderson said that she'd leave this room open over the weekend so that we can do the tests on neutral ground."
-    la "Bom, minha professora de Psicologia a Prof.Anderson disse que deixaria esta sala aberta durante o fim de semana para que possamos fazer os testes em abiente neutro."
+    la "Bom, minha professora de Psicologia a Prof. Anderson disse que deixaria esta sala aberta durante o fim de semana para que possamos fazer os testes em ambiente neutro."
 
 # game/v5/v5.rpy:838
 translate portuguese continueag_7c5a55ca:
 
     # u "Uhh... neutral ground?"
-    u "Hmm... Ambiente Neutro?"
+    u "Hmm... ambiente neutro?"
 
 # game/v5/v5.rpy:843
 translate portuguese continueag_664cf29f:
@@ -1210,7 +1210,7 @@ translate portuguese continuean_3c8517fb:
 translate portuguese continuean_a80040a0:
 
     # la "You said that you consider yourself a relationship person, let's put that to the test."
-    la "Você disse que é uma pessoa de realações sérias, vamos testar isso."
+    la "Você disse que é uma pessoa de relações sérias, vamos testar isso."
 
 # game/v5/v5.rpy:1376
 translate portuguese continuean_b5778d35:
@@ -1348,7 +1348,7 @@ translate portuguese continueao_853e4089:
 translate portuguese continueao_b0b652ff:
 
     # u "Lauren, that was too fucking far. What are you, some mad scientist?"
-    u "Lauren, você foi longe demais. Que tipo de cientista do mal você é?"
+    u "Lauren, você foi longe demais. Que tipo de cientista louco você é?"
 
 # game/v5/v5.rpy:1545
 translate portuguese continueao_bbe88f90:
@@ -1456,7 +1456,7 @@ translate portuguese continueaf_b7eacca2_1:
 translate portuguese continueaf_f1d94258_1:
 
     # u "(I should probably pick up Riley so that we can go and get Imre)"
-    u "(Eu provavelmente deveria em encontrar com a Riley para irmos buscar o Imre.)"
+    u "(Eu provavelmente deveria me encontrar com a Riley para irmos buscar o Imre.)"
 
 # game/v5/v5.rpy:1729
 translate portuguese continueaf_520b64da:
@@ -1522,7 +1522,7 @@ translate portuguese apo_6439e089:
 translate portuguese apo_449c6579:
 
     # u "Listen, I wanted to apologize, I went too far and I'm sorry."
-    u "Olha, eu queria me desculpar, eu pessei dos limites e sinto muito."
+    u "Olha, eu queria me desculpar, eu passei dos limites e sinto muito."
 
 # game/v5/v5.rpy:1782
 translate portuguese apo_a5a44cd7:
@@ -1612,7 +1612,7 @@ translate portuguese apo_69129072:
 translate portuguese apo_923d8e02:
 
     # la "Please just give me some time. I really don't wanna see you right now."
-    la "Só um me dá um tempo. Eu realmente não quero te ver agora."
+    la "Só me dá um tempo. Eu realmente não quero te ver agora."
 
 # game/v5/v5.rpy:1851
 translate portuguese apo_a3b359ee:
@@ -1864,7 +1864,7 @@ translate portuguese hospitala_390b10ff:
 translate portuguese hospitala_f959f467:
 
     # imre "*Winces in pain*"
-    imre "*Gemido de Dor*"
+    imre "*Gemido de dor*"
 
 # game/v5/v5.rpy:2295
 translate portuguese hospitala_2ff9262d:
@@ -2152,7 +2152,7 @@ translate portuguese hospitala_0d057683:
 translate portuguese hospitala_293e2f97:
 
     # au "*Hesitates*"
-    au "*Pensando*"
+    au "*Hesita*"
 
 # game/v5/v5.rpy:2635
 translate portuguese hospitala_7d881c04:
@@ -2290,13 +2290,13 @@ translate portuguese hospitala_9d73ea27:
 translate portuguese hospitala_92f0993b:
 
     # u "(Great, if I tell the school about this, Imre will be pissed at me and Adam will try to fucking kill me, but if I don't, Imre is gonna get himself killed trying to get revenge.)"
-    u "(Maravilha, agora se eu informar a universidade o Imre vai ficar puto comigo e o Adam vai me matar, mas se eu não fizer isso o Imre vai se matar tentando conseguir vingança,)"
+    u "(Maravilha, agora se eu informar a universidade o Imre vai ficar puto comigo e o Adam vai me matar, mas se eu não fizer isso o Imre vai se matar tentando conseguir vingança.)"
 
 # game/v5/v5.rpy:2814
 translate portuguese hospitala_6f8ae513:
 
     # u "(It's not like I can do anything against him anyways...)"
-    u "(Talvez eu não tenha chance contra ele de qualquer jeito....)"
+    u "(Talvez eu não tenha chance contra ele de qualquer jeito...)"
 
 # game/v5/v5.rpy:2815
 translate portuguese hospitala_0f5a6937:
@@ -2380,7 +2380,7 @@ translate portuguese fl_a_b6da9e4f:
 translate portuguese fl_a_513a53f0:
 
     # co "I understand. I'll do my best to ensure your friend does not suffer any more violence."
-    co "Entendo. Eu farei tudo oque estiver dentro das minhas possibilidade para evitar que ele sofra qualquer tipo de violência novamente."
+    co "Entendo. Eu farei tudo oque estiver dentro das minhas possibilidades para evitar que ele sofra qualquer tipo de violência novamente."
 
 # game/v5/v5.rpy:3628
 translate portuguese fl_a_45ab7f75:
@@ -2554,7 +2554,7 @@ translate portuguese youfinishadam_0a33a1ce:
 translate portuguese youfinishadam_19c20dc9:
 
     # ch "Cool, I'll see you then. Come talk to me when you're there."
-    ch "Ótimo, a gente se vê então. Me avise assim que chegar lá me avise."
+    ch "Ótimo, a gente se vê então. Venha falar comigo assim que chegar lá."
 
 # game/v5/v5.rpy:3775
 translate portuguese youfinishadam_6e9652b9:
@@ -2626,7 +2626,7 @@ translate portuguese adamfinish_de51ea0d:
 translate portuguese adamfinish_b6e13d10:
 
     # u "*winces in pain* Ahhh!"
-    u "*Gemendo de dor* Aahhhh!"
+    u "*gemendo de dor* Aahhhh!"
 
 # game/v5/v5.rpy:3851
 translate portuguese adamfinish_ddef8385:
@@ -2944,7 +2944,7 @@ translate portuguese findimre_5ca50fa3:
 translate portuguese findimre_954f4219:
 
     # u "Yeah sorry, it's just... I don't wanna pick you up from the hospital again."
-    u "Pois é, foi mal. Eu só... Só não queria ter que te buscar de novo no hospital."
+    u "Pois é, foi mal. Eu só... só não queria ter que te buscar de novo no hospital."
 
 # game/v5/v5.rpy:4110
 translate portuguese findimre_b7b76de0:
@@ -3220,7 +3220,7 @@ translate portuguese continueba_09958f46:
 translate portuguese continueba_56d845ec:
 
     # u "(Fuck, I don't have time for this right now, but going swimming with Chloe sounds like the best possible way to get closer to her.)"
-    u "(Que merda, eu não tenho tempo pra isso agora, mas ir nadar com a Chloe parece ser minha melhor possibilidade de me aproximar à ela.)"
+    u "(Que merda, eu não tenho tempo pra isso agora, mas ir nadar com a Chloe parece ser minha melhor possibilidade de me aproximar a ela.)"
 
 # game/v5/v5.rpy:4328
 translate portuguese continueba_8d30836f:
