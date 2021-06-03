@@ -38,11 +38,11 @@ Progress | ?/all | Who is working on it? | Proofreading | Who is proofreading?
 -------- | -------- | --------- | --------- | ---------
 non script files | 3/3 | ArkellCK | [ ] | -
 v01.rpy | 5225/5225 | Bibs2 | [ ] | -
-v02.rpy | 1015/4221 | Bibs2 | [ ] | Differ
-v03.rpy | 0/3636 | peacelocker125 | [ ] | -
+v02.rpy | 4221/4221 | Bibs2 | [ ] | Differ
+v03.rpy | 3636/3636 | peacelocker125 + TheProfMilos | [ ] | -
 v04.rpy | 3227/3227 | TheProfMilos | [X] | Differ
 v05.rpy | 3498/3498 | TheProfMilos | [ ] | -
-v06.rpy | 2089/11645 | Bibs2 | [ ] | -
+v06.rpy | 11645/11645 | Bibs2 + TheProfMilos | [ ] | -
 v07.rpy | 18403/18403 | TheProfMilos | [ ] | -
 v08 files | 29/45 | TheProfMilos | [ ] | -
 v09 files | 42/42 | Kfar | [ ] | -
