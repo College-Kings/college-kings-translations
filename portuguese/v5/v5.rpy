@@ -4078,5 +4078,4 @@ translate portuguese strings:
 
     # game/v5/v5.rpy:24
     old "Don't worry, you'll see me soon."
-    new "Não se estressa, logo logo vc vai me ver."
-
+    new "Não se estressa, logo logo cê vai me ver."
