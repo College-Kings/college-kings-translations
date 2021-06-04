@@ -4,5 +4,4 @@
 translate portugal freeRoamSpokenToo_9490a94d:
 
     # u "I should probably talk to someone else"
-    u ""
-
+    u "Eu provavelmente deveria falar com outra pessoa"

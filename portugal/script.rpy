@@ -4,5 +4,4 @@
 translate portugal end_credits_9ea2f78c:
 
     # " "
-    ""
-
+    " "
