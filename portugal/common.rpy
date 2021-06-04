@@ -1,4 +1,4 @@
-Auto-voz desabilitada.﻿# TODO: Translation updated at 2021-06-04 23:38
+﻿# TODO: Translation updated at 2021-06-04 23:38
 
 translate portugal strings:
 
