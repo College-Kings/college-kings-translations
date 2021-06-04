@@ -14,6 +14,13 @@
  - Remove your name from the according table below.
  - If you want to continue translating, jump to the previous step again.
 
+### Languages:
+ - Brazilian Portuguese (portuguese)
+ - Portugal Portuguese (portugal)
+ - Czech (czech)
+ - Turkish (turkish)
+
+
 ## Progress tables
 
 ### czech
