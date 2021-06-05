@@ -766,7 +766,7 @@ translate portuguese v10_call_with_lauren2_6f08e1e1_1:
 translate portuguese v10_call_with_lauren2_ba61dac1_1:
 
     # u "You ever just have random questions pop up in your head, but then you’re like… wait a minute, I don’t even know what I’d do in that scenario?"
-    u "Você já teve perguntas aleatórias surgindo em sua cabeça, mas depois... \"espera um minuto, eu nem sei o que eu faria nesse cenário?""
+    u "Você já teve perguntas aleatórias surgindo em sua cabeça, mas depois... \"espera um minuto, eu nem sei o que eu faria nesse cenário?"
 
 # game/v10/scene18.rpy:665
 translate portuguese v10_call_with_lauren2_e66e68fc_1:
