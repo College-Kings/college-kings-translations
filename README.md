@@ -16,8 +16,10 @@
 
 ### Languages:
  - Czech (czech)
+ - French (fancais)
  - Portugal Portuguese (portugal)
  - Brazilian Portuguese (portuguese)
+ - Thai (thai)
  - Turkish (turkish)
 
 
