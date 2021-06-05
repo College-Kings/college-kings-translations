@@ -21,12 +21,13 @@
  - Turkish (turkish)
 
 
+ 
 ## Progress tables
 
 ### czech
 Progress | ?/all | Who is working on it? | Proofreading | Who is proofreading?
 -------- | -------- | --------- | --------- | ---------
-non script files | 0/3 | Krisp1k, PorneliusHubert | [X] | Krisp1k
+non script files | 0/6 | Krisp1k, PorneliusHubert | [X] | Krisp1k
 v01.rpy | 0/5225 | PorneliusHubert | [ ] | -
 v02.rpy | 0/4221 | PorneliusHubert | [ ] | -
 v03.rpy | 0/3636 | Krisp1k | [ ] | -
@@ -37,6 +38,25 @@ v07.rpy | 0/18403 | - | [ ] | -
 v08 files | 0/45 | - | [ ] | -
 v09 files | 0/42 | - | [ ] | -
 v10 files | 0/41 | - | [ ] | -
+
+
+
+### francais
+Progress | ?/all | Who is working on it? | Proofreading | Who is proofreading?
+-------- | -------- | --------- | --------- | ---------
+non script files | 0/6 | - | [ ] | -
+v01.rpy | 0/5225 | - | [ ] | -
+v02.rpy | 0/4221 | - | [ ] | -
+v03.rpy | 0/3636 | - | [ ] | -
+v04.rpy | 0/3227 | - | [ ] | -
+v05.rpy | 0/3498 | - | [ ] | -
+v06.rpy | 0/11645 | - | [ ] | -
+v07.rpy | 0/18403 | - | [ ] | -
+v08 files | 0/45 | - | [ ] | -
+v09 files | 0/42 | - | [ ] | -
+v10 files | 0/41 | - | [ ] | -
+
+
 
 ### portugal
 Progress | ?/all | Who is working on it? | Proofreading | Who is proofreading?
@@ -54,10 +74,11 @@ v09 files | 0/42 | - | [ ] | -
 v10 files | 0/41 | - | [ ] | -
 
 
+
 ### portuguese
 Progress | ?/all | Who is working on it? | Proofreading | Who is proofreading?
 -------- | -------- | --------- | --------- | ---------
-non script files | 3/3 | ArkellCK | [ ] | -
+non script files | 6/6 | ArkellCK | [ ] | -
 v01.rpy | 5225/5225 | Bibs2 | [ ] | -
 v02.rpy | 4221/4221 | Bibs2 | [ ] | Differ
 v03.rpy | 3636/3636 | peacelocker125 + TheProfMilos | [ ] | -
@@ -68,6 +89,23 @@ v07.rpy | 18403/18403 | TheProfMilos | [ ] | -
 v08 files | 45/45 | TheProfMilos | [ ] | -
 v09 files | 42/42 | Kfar | [ ] | -
 v10 files | 15/41 | Kfar (<15) + ArkellCK (>16) | [ ] | -
+
+
+
+### thai
+Progress | ?/all | Who is working on it? | Proofreading | Who is proofreading?
+-------- | -------- | --------- | --------- | ---------
+non script files | 0/6 | - | [ ] | -
+v01.rpy | 0/5225 | - | [ ] | -
+v02.rpy | 0/4221 | - | [ ] | -
+v03.rpy | 0/3636 | - | [ ] | -
+v04.rpy | 0/3227 | - | [ ] | -
+v05.rpy | 0/3498 | - | [ ] | -
+v06.rpy | 0/11645 | - | [ ] | -
+v07.rpy | 0/18403 | - | [ ] | -
+v08 files | 0/45 | - | [ ] | -
+v09 files | 0/42 | - | [ ] | -
+v10 files | 0/41 | - | [ ] | -
 
 
 
