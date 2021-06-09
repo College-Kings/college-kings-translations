@@ -346,7 +346,7 @@ translate portuguese phn_penelope6_done_6db8db1e:
 translate portuguese phn_penelope6_done_bb0636c1:
 
     # ro "He broke both his legs and... They gave him some pain killers. At first I was giving them to him when he needed them..."
-    ro "Ele quebrou as duas pernas... e eles deram vário analgésicos pra ele. No começo ele estava tomando só quando precisava..."
+    ro "Ele quebrou as duas pernas... e eles deram vários analgésicos pra ele. No começo ele estava tomando só quando precisava..."
 
 # game/v8/scene17.rpy:262
 translate portuguese phn_penelope6_done_3f7d71a5:
