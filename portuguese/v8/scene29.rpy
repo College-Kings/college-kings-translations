@@ -472,7 +472,7 @@ translate portuguese after_drugs_d1106947:
 translate portuguese after_drugs_c03fdec2:
 
     # u "I uh... probably should've gone with him and maybe then this wouldn't have happened."
-    u "Eu hmm... Provavelmente deveria ter ido com ele e talvez isso não teria acontecida."
+    u "Eu hmm... Provavelmente deveria ter ido com ele e talvez isso não teria acontecido."
 
 # game/v8/scene29.rpy:388
 translate portuguese after_drugs_11912203:
