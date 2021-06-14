@@ -4,7 +4,7 @@
 translate portuguese drive_to_lake_7abc6055:
 
     # au "So I'm telling you guys, the lake is the best..."
-    au "Tô falando galera, o lago é o melhor lugar do mundo..."
+    au "Estou falando galera, o lago é o melhor..."
 
 # game/v9/scene06.rpy:19
 translate portuguese drive_to_lake_b9e23283:
@@ -34,13 +34,13 @@ translate portuguese drive_to_lake_1bcbbff8:
 translate portuguese drive_to_lake_cf17ff7b:
 
     # u "A trip? Wait a second, how far is this lake anyway?"
-    u "Viajar? Pera aí, o quão longe fica este lago afinal?"
+    u "Uma viagem? Espera um pouco, a que distância fica este lago afinal?"
 
 # game/v9/scene06.rpy:44
 translate portuguese drive_to_lake_04c961dd:
 
     # au "Far enough for us to play a car game or two, for sure."
-    au "Longe o bastante pra gente fazer umas brincadeiras no carro."
+    au "Longe o bastante pra jogarmos um ou dois jogos aqui dentro do carro, com certeza."
 
 # game/v9/scene06.rpy:49
 translate portuguese drive_to_lake_c43b9497:
@@ -70,19 +70,19 @@ translate portuguese drive_to_lake_6e67b325:
 translate portuguese drive_to_lake_d91f55af:
 
     # au "Yeah right! Prove it, spy boy!"
-    au "Sei, história pra boi dormir! Manda bala então James Bond!"
+    au "Sim, claro! Prove isso, rapaz espião!"
 
 # game/v9/scene06.rpy:74
 translate portuguese drive_to_lake_36d6cad7:
 
     # ry "Ha! Okay, I spy with my little eye, something that begins with the letter B..."
-    ry "Comediante! Tá, eu espio algo que começa com a letra B..."
+    ry "Ha! Certo, eu espio com meu pequeno olho, algo que começa com a letra B..."
 
 # game/v9/scene06.rpy:79
 translate portuguese drive_to_lake_aa406ab3:
 
     # ri "Oh that's easy! It's Aubrey's bikini."
-    ri "Mamão com açúcar! Com certeza é o Biquíni da Aubrey."
+    ri "Mamão com açúca! Com certeza é o Biquíni da Aubrey."
 
 # game/v9/scene06.rpy:84
 translate portuguese drive_to_lake_4b17622d:
@@ -136,7 +136,7 @@ translate portuguese drive_to_lake_4b337da6:
 translate portuguese drive_to_lake_8dbfddc5:
 
     # ry "It's normal to get pissed off, when playing against the great Spy such as me, so no."
-    ry "Eu sei que é normal ficar bravinho quando se joga contra alguém muito melhor que você, mas errou."
+    ry "Eu sei que é normal ficar bravinha quando se joga contra alguém muito melhor que você, mas errou."
 
 # game/v9/scene06.rpy:129
 translate portuguese drive_to_lake_776dd9e3:
@@ -148,19 +148,19 @@ translate portuguese drive_to_lake_776dd9e3:
 translate portuguese drive_to_lake_6edbedfc:
 
     # ry "What? An opponent worthy of my time?! It is a button, actually."
-    ry "O quê?! Será que apareceu um oponente digno?! Sim, é um botão."
+    ry "Que?! Me apareceu um adversário digno finalmente?! Sim, é um botão, na verdade."
 
 # game/v9/scene06.rpy:139
 translate portuguese drive_to_lake_1f37bebb:
 
     # ri "I knew it! Ryan only wanted to draw attention to his crotch."
-    ri "Eu sabia! O Ryan só queria tentar fazer a gente olhar pro saco dele."
+    ri "Eu sabia! O Ryan só queria chamar a atenção para sua virilha."
 
 # game/v9/scene06.rpy:144
 translate portuguese drive_to_lake_bb8f19a9:
 
     # au "Haha, it surely needs a lot of effort to draw the attention to such a tiny thing..."
-    au "Haha, deve ser díficil mesmo chamar atenção com um bilauzinho desses..."
+    au "Haha, certamente é preciso muito esforço pra chamar a atenção para uma coisa tão pequena..."
 
 # game/v9/scene06.rpy:149
 translate portuguese drive_to_lake_95dc44a2:
@@ -172,16 +172,16 @@ translate portuguese drive_to_lake_95dc44a2:
 translate portuguese drive_to_lake_3d8b3a77:
 
     # au "Come on, [name]! Show him how it's done."
-    au "Manda bala [name]! Mostra pra ele como é que se faz.."
+    au "Vamos lá, [name]! Mostre pra ele como se faz."
 
 # game/v9/scene06.rpy:159
 translate portuguese drive_to_lake_7c1b0a35:
 
     # u "I spy with my little eye, something pink, I cannot lie."
-    u "Eu espio algo cor de rosa, mas não por isso é menos asquerosa." #Baita rima do pai Milos
-
-# game/v9/scene06.rpy:164
-translate portuguese drive_to_lake_fd042c1c:
+    u "Eu espio com meu pequeno olhar, algo cor de rosa, e não vou enganar." #Acho que o contexto pede a rima que coloquei antes nesse caso, meu colega Milos
+    
+    # game/v9/scene06.rpy:164
+    translate portuguese drive_to_lake_fd042c1c:
 
     # au "Wow, a poet?"
     au "Nossa, Shakespeare é você?"
@@ -190,13 +190,13 @@ translate portuguese drive_to_lake_fd042c1c:
 translate portuguese drive_to_lake_34b39e8a:
 
     # ri "Don't tell me you're going for it now! Is it Aubrey's bikini?"
-    ri "Não adianta mentir! Agora eu tenho certeza! É o biquíni da Aubrey?" #Verificar..... Contexto
-
+    ri "Não adianta mentir! Agora eu tenho certeza! É o biquíni da Aubrey?"
+    
 # game/v9/scene06.rpy:174
 translate portuguese drive_to_lake_5f8599ab:
 
     # u "No, no."
-    u "Não não."
+    u "Não não é, e também eu já disse não ia enganar."
 
 # game/v9/scene06.rpy:179
 translate portuguese drive_to_lake_051d47c2:
@@ -220,7 +220,7 @@ translate portuguese drive_to_lake_ea71f966:
 translate portuguese drive_to_lake_193bd217:
 
     # u "No..."
-    u "Não..."
+    u "Haha, não, de jeito algum."
 
 # game/v9/scene06.rpy:199
 translate portuguese drive_to_lake_8e7f0610:
@@ -262,7 +262,7 @@ translate portuguese drive_to_lake_41757639:
 translate portuguese drive_to_lake_e344c03b:
 
     # au "You're really something... ahem, was it here all along?"
-    au "Você é realmente um caso a parte... tá, esteve aqui o tempo inteiro?"
+    au "Você é realmente um caso a parte... voltando a brincadeira, esteve aqui o tempo todo?"
 
 # game/v9/scene06.rpy:234
 translate portuguese drive_to_lake_be8ecfc7:
@@ -322,13 +322,13 @@ translate portuguese drive_to_lake_efd07225:
 translate portuguese drive_to_lake_265159ee:
 
     # ry "Words can't touch this Ape."
-    ry "Essa palavras não penetram minha pele de Gorila."
+    ry "Essa palavras não atigem este Gorila aqui."
 
 # game/v9/scene06.rpy:284
 translate portuguese drive_to_lake_abbeb330:
 
     # ri "Well I spy with my little eye, something that starts with a letter A."
-    ri "Então tá, eu espio algo que começa com a letra A."
+    ri "Bem, eu espio com meu pequeno olho, algo que começa com a letra A."
 
 # game/v9/scene06.rpy:298
 translate portuguese dtl_f_6e52cf34:
@@ -406,7 +406,7 @@ translate portuguese dtl_cont1_6860a51f:
 translate portuguese dtl_cont1_66433334:
 
     # ri "It's not Aubrey's bikini, alright?!"
-    ri "Não, não é o biquíni da Aubrey, tá?!"
+    ri "Não, não tem nada a ver com a Aubrey ou o biquini dela, entendidos?!"
 
 # game/v9/scene06.rpy:366
 translate portuguese dtl_cont1_aed19b42:
@@ -430,13 +430,13 @@ translate portuguese dtl_cont1_71f466e7:
 translate portuguese dtl_cont1_f92ab4c9:
 
     # ri "99%% no, 100%% hell no."
-    ri "99%% de chances, 100%% de certeza."
+    ri "99%% não, 100%% inferno que não."
 
 # game/v9/scene06.rpy:386
 translate portuguese dtl_cont1_43b696e6:
 
     # ry "Is it smelly?"
-    ry "Cheira mal?"
+    ry "É fedido?"
 
 # game/v9/scene06.rpy:391
 translate portuguese dtl_cont1_800d4ae9:
@@ -490,7 +490,7 @@ translate portuguese dtl_cont1_b592843e:
 translate portuguese dtl_cont1_2b353e9e:
 
     # ry "Errrr... Car air freshener?"
-    ry "Ehhhh... é o ambientador do carro?"
+    ry "Errrr... aromatizante de carro?"
 
 # game/v9/scene06.rpy:436
 translate portuguese dtl_cont1_76a41a09:
@@ -502,7 +502,7 @@ translate portuguese dtl_cont1_76a41a09:
 translate portuguese dtl_cont1_ea94861b:
 
     # ry "Hey!! I see what you did there!"
-    ry "Ei!! Eu tô ligado o que vocês tão fazendo!"
+    ry "Ei!! Estou vendo o que estão fazendo!"
 
 # game/v9/scene06.rpy:446
 translate portuguese dtl_cont1_9ae21c13:
@@ -514,19 +514,19 @@ translate portuguese dtl_cont1_9ae21c13:
 translate portuguese dtl_cont1_7d14bda7:
 
     # ry "I'm done playing stupid games!"
-    ry "Cansei desses joguinhos de merda!"
+    ry "Cansei desses jogos estúpidos!"
 
 # game/v9/scene06.rpy:456
 translate portuguese dtl_cont1_45b8bfec:
 
     # ri "There are no stupid games, only bad players, haha."
-    ri "Não há jogos de merda, só jogadores de merda, haha."
+    ri "Não há jogos estúpidos, só jogadores ruins, haha."
 
 # game/v9/scene06.rpy:461
 translate portuguese dtl_cont1_ba1e4ce8:
 
     # au "Stupid or not, it worked like a time passing charm... because we're almost there."
-    au "De merda ou não, foi o passa-tempo perfeito... porque já estamos quase chegando."
+    au "Estúpido ou não, funcionou como um ótimo passa o tempo... porque já estamos quase lá."
 
 # game/v9/scene06.rpy:471
 translate portuguese dtl_cont1_afdb10cb:
@@ -538,13 +538,13 @@ translate portuguese dtl_cont1_afdb10cb:
 translate portuguese dtl_cont1_f168fe1f:
 
     # u "Well I'll be... that's actually not so bad."
-    u "Bom... não é tão ruim quanto eu achava."
+    u "Bem... na verdade não é tão ruim assim."
 
 # game/v9/scene06.rpy:481
 translate portuguese dtl_cont1_0eaad41c:
 
     # au "When I was here for the first time, I felt so relaxed... and today's just the best day for relaxation."
-    au "Quando eu vim aqui pela primeira vez, me senti tão tranquila... e hoje é o dia perfeito pra relaxar."
+    au "Quando eu vim aqui pela primeira vez, me senti tão relaxada... e hoje é apenas o melhor dia para relaxar."
 
 # game/v9/scene06.rpy:486
 translate portuguese dtl_cont1_582a0844:
@@ -556,13 +556,13 @@ translate portuguese dtl_cont1_582a0844:
 translate portuguese dtl_cont1_bac18be2:
 
     # ry "Yeah... middle of the week really should be a bit more relaxing."
-    ry "Sim... o meio da semana deveria ser um pouco mais tranquilo."
+    ry "Sim... o meio da semana realmente deveria ser um pouco mais relaxante."
 
 # game/v9/scene06.rpy:496
 translate portuguese dtl_cont1_a43dcdcc:
 
     # u "Well I guess we can all agree on that. Wednesdays usually suck. Dare I say, they are worse than Mondays."
-    u "Bem, acho que todos concordamos com isso. As quartas geralmente são uma bosta. Eu até diria que são piores que as segundas."
+    u "Bem, acho que todos nós podemos concordar com isso. As quartas geralmente são uma droga. Ouso dizer que são piores que as segundas-feiras."
 
 # game/v9/scene06.rpy:501
 translate portuguese dtl_cont1_a8edd3b8:
@@ -580,7 +580,7 @@ translate portuguese dtl_cont1_60c229d6:
 translate portuguese dtl_cont1_c14e6a5a:
 
     # ry "And I'll find a perfect view, uhm I mean the perfect picnic spot on the grass."
-    ry "E eu vou procurar uma vista perfeita, uhm, quer dizer, o local perfeito para montar o piquenique."
+    ry "E eu vou achar uma vista perfeita, uhm, quero dizer, o local perfeito para montar o piquenique."
 
 # game/v9/scene06.rpy:516
 translate portuguese dtl_cont1_04fbf5ce:
@@ -592,7 +592,7 @@ translate portuguese dtl_cont1_04fbf5ce:
 translate portuguese dtl_cont1_495b4dd3:
 
     # u "Well, what are we waiting for?"
-    u "Bom, tão esperando o que então?"
+    u "Bem, o que estamos esperando?"
 
 translate portuguese strings:
 
