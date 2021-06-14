@@ -4,13 +4,13 @@
 translate portuguese v9_dream_wakeup_afb5e265:
 
     # u "(What the hell was that? Holy shit!)"
-    u "(Que porra é essa? Puta merda!)"
+    u "(Que diabos foi isso? Puta que pariu!)"
 
 # game/v9/scene05.rpy:14
 translate portuguese v9_dream_wakeup_8c00a49d:
 
     # u "(God I hate dreams. Most of the time, they're good. But sometimes... they really suck.)"
-    u "(Meu Deus, eu odeio os meus sonhos. Na maioria das vezes eles são bons, mas às vezes... eles realmente são uma merda.)"
+    u "(Deus, eu odeio sonhos. Na maioria das vezes, eles são bons, mas às vezes... eles realmente são uma droga)."
 
 # game/v9/scene05.rpy:29
 translate portuguese v9_dream_wakeup_4d0eb332:
@@ -22,13 +22,13 @@ translate portuguese v9_dream_wakeup_4d0eb332:
 translate portuguese v9_dream_wakeup_afb5e265_1:
 
     # u "(What the hell was that? Holy shit!)"
-    u "(Que porra foi essa? Puta merda!)"
+    u "(Que diabos foi isso? Puta que pariu!)"
 
 # game/v9/scene05.rpy:41
 translate portuguese v9_dream_wakeup_8c00a49d_1:
 
     # u "(God I hate dreams. Most of the time, they're good. But sometimes... they really suck.)"
-    u "(Meu Deus, eu odeio os meus sonhos. Na maioria das vezes eles são bons, mas às vezes... eles realmente são uma merda.)"
+    u "(Deus, eu odeio sonhos. Na maioria das vezes, eles são bons, mas às vezes... eles realmente são uma droga)."
 
 # game/v9/scene05.rpy:56
 translate portuguese v9_dream_wakeup_4d0eb332_1:
@@ -46,13 +46,13 @@ translate portuguese v9_phn_riley1_11900a1d:
 translate portuguese v9_phn_riley1_done_d5b584f7:
 
     # u "(I wonder what that dream was all about. Why am I that worried about the stupid Brawl thing?)"
-    u "(Me pergunto sobre o que se tratava aquele sonho. Por que eu estou tão preocupado com essa porra de campeonato?)"
+    u "(Me pergunto o que se tratava aquele sonho. Por que eu estou tão preocupado com essa coisa estúpida de briga?)"
 
 # game/v9/scene05.rpy:79
 translate portuguese v9_phn_riley1_done_73817a7a:
 
     # u "(But fuck it, I'm not gonna puss out. I can do this!)"
-    u "(Mas que se foda, não vou ser uma bicha. Eu vou conseguir!)"
+    u "(Mas que se foda, não vou ser uma bicha. Eu posso fazer isso!)"
 
 # game/v9/scene05.rpy:80
 translate portuguese v9_phn_riley1_done_f1fa6283:
@@ -110,11 +110,11 @@ translate portuguese strings:
 
     # game/v9/scene05.rpy:23
     old "I guess I could go. Could use some fresh air."
-    new "Acho que dá pra eu ir. Seria bom respirar um pouco de ar puro."
+    new "Acho que eu posso ir sim. Posso pegar um pouco de ar fresco."
 
     # game/v9/scene05.rpy:24
     old "You'll love it! Meet you in 30 minutes?"
-    new "Você vai adorar! A gente se vê em meia hora?"
+    new "Você vai adorar! Te encontramos em 30 minutos?"
 
     # game/v9/scene05.rpy:25
     old "Yeah, see ya soon."
