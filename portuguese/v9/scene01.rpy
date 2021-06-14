@@ -22,7 +22,7 @@ translate portuguese v9_start_wolves_97da5d54:
 translate portuguese v9_start_wolves_b40074b8:
 
     # ch "It's badass, right?"
-    ch "É uma loucura, né?"
+    ch "É uma loucura, né mano?"
 
 # game/v9/scene01.rpy:47
 translate portuguese v9_start_wolves_d32776d3:
