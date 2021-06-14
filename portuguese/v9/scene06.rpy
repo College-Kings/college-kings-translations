@@ -64,7 +64,7 @@ translate portuguese drive_to_lake_eb440070:
 translate portuguese drive_to_lake_6e67b325:
 
     # ry "Oh yeah? Wouldn't want to worry you, ladies, but I was sort of an 'I Spy' champion back in the day."
-    ry "É assim então? Não quero me gabar nem nada, mas nos meu tempos de ouro eu era o campeão da escola de "Eu espio".."
+    ry "É assim então? Não quero me gabar nem nada, mas nos meu tempos de ouro eu era o campeão da escola de \"Eu espio"\"
 
 # game/v9/scene06.rpy:69
 translate portuguese drive_to_lake_d91f55af:
