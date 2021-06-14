@@ -64,7 +64,7 @@ translate portuguese drive_to_lake_eb440070:
 translate portuguese drive_to_lake_6e67b325:
 
     # ry "Oh yeah? Wouldn't want to worry you, ladies, but I was sort of an 'I Spy' champion back in the day."
-    ry "É assim então? Não quero me gabar nem nada, mas nos meu tempos de ouro eu era o campeão da escola de \"Eu espio"\"
+    ry "É assim então? Não quero me gabar nem nada, mas nos meu tempos de ouro eu era o campeão da escola de \"Eu espio\""
 
 # game/v9/scene06.rpy:69
 translate portuguese drive_to_lake_d91f55af:
@@ -179,9 +179,9 @@ translate portuguese drive_to_lake_7c1b0a35:
 
     # u "I spy with my little eye, something pink, I cannot lie."
     u "Eu espio com meu pequeno olhar, algo cor de rosa, e não vou enganar." #Acho que o contexto pede a rima que coloquei antes nesse caso, meu colega Milos
-    
-    # game/v9/scene06.rpy:164
-    translate portuguese drive_to_lake_fd042c1c:
+
+# game/v9/scene06.rpy:164
+translate portuguese drive_to_lake_fd042c1c:
 
     # au "Wow, a poet?"
     au "Nossa, Shakespeare é você?"
@@ -191,7 +191,7 @@ translate portuguese drive_to_lake_34b39e8a:
 
     # ri "Don't tell me you're going for it now! Is it Aubrey's bikini?"
     ri "Não adianta mentir! Agora eu tenho certeza! É o biquíni da Aubrey?"
-    
+
 # game/v9/scene06.rpy:174
 translate portuguese drive_to_lake_5f8599ab:
 
