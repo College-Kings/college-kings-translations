@@ -369,7 +369,7 @@ translate portuguese fr5ryan1_76a0d067:
 translate portuguese fr5ryan1_519b48a7:
 
     # ry "No problem, that's what bros are for, am I right?"
-    ry ""Não tem problema, é para isso que servem os amigos, né?"
+    ry "Não tem problema, é para isso que servem os amigos, né?"
 
 # game/v9/scene7.rpy:430
 translate portuguese fr5ryan1_ac92dc30:
