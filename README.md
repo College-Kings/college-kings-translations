@@ -82,7 +82,7 @@ Progress | ?/all | Who is working on it? | Proofreading | Who is proofreading?
 -------- | -------- | --------- | --------- | ---------
 non script files | 6/6 | ArkellCK | [ ] | -
 v01.rpy | 5225/5225 | Bibs2 | [ ] | -
-v02.rpy | 4221/4221 | Bibs2 | [ ] | Differ
+v02.rpy | 4221/4221 | Bibs2 | [ ] | Differ + Bibs2
 v03.rpy | 3636/3636 | peacelocker125 + TheProfMilos | [ ] | -
 v04.rpy | 3227/3227 | TheProfMilos | [X] | Differ
 v05.rpy | 3498/3498 | TheProfMilos | [ ] | Differ
