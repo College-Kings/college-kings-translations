@@ -10,19 +10,19 @@ translate portuguese v9_start_apes_4ca6872d:
 translate portuguese v9_start_apes_8526cef8:
 
     # ca "What you want, pledge?"
-    ca "O que você quer, candidato?"
+    ca "O que você quer, promessa?"
 
 # game/v9/scene02.rpy:41
 translate portuguese v9_start_apes_7fc469a7:
 
     # u "Not a pledge anymore."
-    u "Não sou mais um candidato."
+    u "Não sou mais uma promessa."
 
 # game/v9/scene02.rpy:45
 translate portuguese v9_start_apes_78f9c099:
 
     # ca "To me, you're a pledge 'til you prove yourself...{w} PLEDGE."
-    ca "Pra mim você é um candidato até mostrar o contrário...{w} CANDIDATO'"
+    ca "Pra mim, você é uma promessa até provar o contrário...{w} PROMESSA'"
 
 # game/v9/scene02.rpy:49
 translate portuguese v9_start_apes_82f16e9d:
@@ -100,7 +100,7 @@ translate portuguese v9_start_apes_bce01907:
 translate portuguese v9_start_apes_7b81c3bc:
 
     # ca "Uh uh. You stay here, pledge." with hpunch
-    ca "Uh uh. Você fica aqui, candidato." with hpunch
+    ca "Uh uh. Você fica aqui, promessa." with hpunch
 
 # game/v9/scene02.rpy:103
 translate portuguese v9_start_apes_042bd251:
@@ -130,19 +130,19 @@ translate portuguese v9_start_apes_94e4c324:
 translate portuguese v9_start_apes_575489d5:
 
     # ca "Hey! If you ever get a girl in that room of yours, pledge... let her call you whatever she wants."
-    ca "Ei! se alguma dia você conseguir uma mina naquele seu quarto... deixe ela te chamar do que quiser."
+    ca "Ei! se alguma vez você conseguir uma garota naquele seu quarto, Promessa... deixe ela te chamar do que quiser."
 
 # game/v9/scene02.rpy:125
 translate portuguese v9_start_apes_5894e6c5:
 
     # u "I do fine. And they ALL call me Big Daddy."
-    u "Eu não preciso. Todas elas me chamam de amorzinho."
+    u "Eu deixo. E todos eles me chamam de 'O Grande.'"
 
 # game/v9/scene02.rpy:129
 translate portuguese v9_start_apes_d8ce9675:
 
     # ca "What the fuck ever, dude. What do you want?"
-    ca "Tô aqui procurando quem te perguntou!. O que você quer?"
+    ca "Que porra é essa, cara. O que você quer?"
 
 # game/v9/scene02.rpy:133
 translate portuguese v9_start_apes_0bb7db1f:
@@ -190,13 +190,13 @@ translate portuguese v9_start_apes_8fc2cb21:
 translate portuguese v9_start_apes_59935874:
 
     # ca "Not just a fight. A brawl! No holds barred. Every pledge for himself. Bloodbath!"
-    ca "Não apenas uma luta. Uma campeonato! Não há barreiras. Cada candidato por si mesmo. Um banho de sangue!"
+    ca "Não apenas uma luta. Uma briga! Não há barreiras. Cada promessa por si mesmo. Um banho de sangue!"
 
 # game/v9/scene02.rpy:173
 translate portuguese v9_start_apes_b62174a2:
 
     # u "Pledge vs pledge!?"
-    u "Novato contra novato?"
+    u "Promessa contra promessa?"
 
 # game/v9/scene02.rpy:177
 translate portuguese v9_start_apes_4dfaff91:
@@ -268,7 +268,7 @@ translate portuguese v9_start_apes_5e0232ed:
 translate portuguese v9_start_apes_79eb385d:
 
     # u "(Saturday? Oh, shit!)"
-    u "(Sábado? Puta merda!)"
+    u "(Sábado? Que porra!)"
 
 # game/v9/scene02.rpy:242
 translate portuguese v9_start_apes_802268d8:
@@ -316,7 +316,7 @@ translate portuguese strings:
 
     # game/v9/scene02.rpy:37
     old "Not a pledge anymore"
-    new "Não sou mais um candidato."
+    new "Não sou mais uma promessa."
 
     # game/v9/scene02.rpy:37
     old "Let it slide"
