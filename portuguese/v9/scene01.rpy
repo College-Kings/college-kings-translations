@@ -28,13 +28,13 @@ translate portuguese v9_start_wolves_b40074b8:
 translate portuguese v9_start_wolves_d32776d3:
 
     # u "I don't know. What the hell is it? Kiwii's going crazy!"
-    u "Sei lá, o que diabos está acontencendo? O Kiwii tá uma loucura!"
+    u "Sei lá, o que diabos está acontencendo? O Kiwii tá pegando fogo."
 
 # game/v9/scene01.rpy:51
 translate portuguese v9_start_wolves_dcd250b0:
 
     # ch "I know! Everyone's talking about it."
-    ch "Tô ligado! Todo mundo tá falando disso."
+    ch "Eu sei, todo mundo está falando sobre isso."
 
 # game/v9/scene01.rpy:55
 translate portuguese v9_start_wolves_c6605108:
@@ -46,13 +46,13 @@ translate portuguese v9_start_wolves_c6605108:
 translate portuguese v9_start_wolves_2d2291e1:
 
     # ch "Of course! Didn't someone tell you when?"
-    ch "É lógico! Ainda não te contaram nada?"
+    ch "Claro que sei! Ainda não te contaram nada?"
 
 # game/v9/scene01.rpy:63
 translate portuguese v9_start_wolves_dc4d0c7c:
 
     # u "Naw, man. My phone just started blowing up."
-    u "Não mano. Meu celular não para de vibrar."
+    u "Não mano. Meu celular está sobrecarregado com isso."
 
 # game/v9/scene01.rpy:67
 translate portuguese v9_start_wolves_9d6888fc:
@@ -76,13 +76,13 @@ translate portuguese v9_start_wolves_2d2c903e:
 translate portuguese v9_start_wolves_9422f7e6:
 
     # u "No shit! That's amazing!"
-    u "Caraca! Que foda!"
+    u "Porra, isso é foda!"
 
 # game/v9/scene01.rpy:89
 translate portuguese v9_start_wolves_84837158:
 
     # ch "You've been working out, right?"
-    ch "Você está se preparando, né?"
+    ch "Você está se preparando, certo?"
 
 # game/v9/scene01.rpy:93
 translate portuguese v9_start_wolves_ee1744e1:
@@ -124,7 +124,7 @@ translate portuguese v9_start_wolves_df74b9eb:
 translate portuguese v9_start_wolves_7b3ac1b6:
 
     # ch "Come on, man. We're gonna need you to kick some Ape ass!"
-    ch "Fala sério cara. Vamos precisar que você você desça o cacete nos Gorilas!"
+    ch "Qual é cara. Vamos precisar que você você chute a bunda dos Gorilas."
 
 # game/v9/scene01.rpy:120
 translate portuguese v9_start_wolves_85856e21:
@@ -148,13 +148,13 @@ translate portuguese v9_start_wolves_d5804e02:
 translate portuguese v9_start_wolves_6a94dba2:
 
     # ch "Because it's the Freshman Brawl!"
-    ch "Porque vai ser a bBiga dos Calouros!"
+    ch "Porque vai ser a Briga dos Calouros!"
 
 # game/v9/scene01.rpy:136
 translate portuguese v9_start_wolves_1c27296d:
 
     # ch "Aww it's gonna be awesome! What better way to see what you pledges have in you?"
-    ch "Ahh. Vai ser incível! É o melhor jeito possível pra testar todo o pontencial de vocês!"
+    ch "Ahh. Vai ser incível! É o melhor jeito possível pra testar todo o pontencial de vocês promessas!"
 
 # game/v9/scene01.rpy:140
 translate portuguese v9_start_wolves_a286b3e5:
@@ -166,7 +166,7 @@ translate portuguese v9_start_wolves_a286b3e5:
 translate portuguese v9_start_wolves_c7a4a11a:
 
     # ch "Plenty of time. It's not 'til Saturday."
-    ch "Tempo o suficiente. Vai começar no Sábado."
+    ch "Bastante tempo. Só vai acontecer no Sábado."
 
 # game/v9/scene01.rpy:148
 translate portuguese v9_start_wolves_35413f73:
@@ -178,19 +178,19 @@ translate portuguese v9_start_wolves_35413f73:
 translate portuguese v9_start_wolves_31c394e8:
 
     # ch "You're gonna do great! We'll double down on gym time to make sure, but I believe in you, man."
-    ch "Cê vai se sair muito bem! Vamos dobrar o tempo na academia para ter certeza, mas acredito em você mano."
+    ch "Você vai se sair muito bem! Vamos dobrar o tempo na academia para ter certeza, mas acredito em você mano."
 
 # game/v9/scene01.rpy:162
 translate portuguese v9_start_wolves_2bd04810:
 
     # u "I don't know... I'm not ready for something like this. A... BRAWL?"
-    u "Eu não sei não... Ainda não estou pronto pra alguma coisa do tipo. Tipo... UM TORNEIO?"
+    u "Eu não sei não... Ainda não estou pronto pra alguma coisa como isso. Tipo... UMA BRIGA?"
 
 # game/v9/scene01.rpy:166
 translate portuguese v9_start_wolves_3a438991:
 
     # ch "Come on. You knew what these frats were about when you pledged. We fight. It'll be fine."
-    ch "Qual é? Você sabia sobre o que se tratava estar en uma fraternidae. Nós lutamos. Vai ficar tudo bem."
+    ch "Qual é? Você sabia o que eram nossas fraternidades quando você se comprometeu. Nós lutamos. Vai ficar tudo bem."
 
 # game/v9/scene01.rpy:170
 translate portuguese v9_start_wolves_e68297c3:
@@ -202,13 +202,13 @@ translate portuguese v9_start_wolves_e68297c3:
 translate portuguese v9_start_wolves_b0006260:
 
     # u "You're right. Sebastian and Imre have shown me a lot. I'll be ready."
-    u "É verdade. O Sebastian e o Imre têm me ensinado muita coisa. Eu estarei pronto à tempo."
+    u "Você está certo. O Sebastian e o Imre têm me ensinado muita coisa. Eu estarei pronto à tempo."
 
 # game/v9/scene01.rpy:175
 translate portuguese v9_start_wolves_4e9136b1:
 
     # ch "Damn right you will! That's the spirit. Now, I gotta finish spreading the word. Make sure you share the square!"
-    ch "É isso aí porra! Esse é o espírito. Agora eu tenho que terminar de espalhar a palavra. Não esquece de compartilhar o quadrado!"
+    ch "É isso aí porra! Esse é o espírito. Agora eu tenho que terminar de espalhar a noticia. Não esquece de compartilhar o quadrado!"
 
 # game/v9/scene01.rpy:183
 translate portuguese v9_start_wolves_7813d186:
@@ -220,7 +220,7 @@ translate portuguese v9_start_wolves_7813d186:
 translate portuguese v9_start_wolves_0fac4ac9:
 
     # ch "Right? I'm so pumped! You're already much farther along than those punk ape pledges. We got this!"
-    ch "Não é mesmo? Tô super animado! Você já tá muito mais adiantado que aqueles Gorilas. Essa já tá no papo!"
+    ch "Não é mesmo? Tô super animado! Você já está muito mais adiantado que aqueles Gorilas. Vamos ganhar essa!"
 
 # game/v9/scene01.rpy:191
 translate portuguese v9_start_wolves_69c57e14:
@@ -232,7 +232,7 @@ translate portuguese v9_start_wolves_69c57e14:
 translate portuguese v9_start_wolves_3a2b9354:
 
     # ch "Great! Keep that going. I gotta get back to spreading the word. You go hit the gym and make sure you share the square!"
-    ch "Ótimo! Continue assim. Vou continuar espalhando a palavra. Agora vai malhar pô e não esquece de compartilhar o quadrado!"
+    ch "Ótimo! Continue com isso. Tenho que voltar a espalhar a notícia. Você vai até a academia e se garanta na briga!"
 
 # game/v9/scene01.rpy:208
 translate portuguese v9_start_wolves_028ffa71:
@@ -250,13 +250,13 @@ translate portuguese v9_phn_imre1_f67ba0b4:
 translate portuguese v9_phn_imre1_cfe1d3a5:
 
     # u "(Freshman Brawl... sounds intense.)"
-    u "(Briga dos calouros... parece uma loucura.)"
+    u "(Briga dos calouros... parece intenso.)"
 
 # game/v9/scene01.rpy:231
 translate portuguese v9_phn_imre1_2c4978a8:
 
     # u "(I think I got this.)"
-    u "(Acho que consigo.)"
+    u "(Acho que consigo isso.)"
 
 # game/v9/scene01.rpy:233
 translate portuguese v9_phn_imre1_95db1cff:
@@ -284,7 +284,7 @@ translate portuguese strings:
 
     # game/v9/scene01.rpy:9
     old "Naw, I'm spent. But I have a feeling I'll be spending a lot of my time in there"
-    new "Não, eu tô morto. Mas to sentindo que vou acabar gastando meu tempo lá"
+    new "Não, eu tô morto. Mas tenho a sensação que vou passar muito tempo lá dentro."
 
     # game/v9/scene01.rpy:10
     old "Me too. See ya there!"
@@ -296,7 +296,7 @@ translate portuguese strings:
 
     # game/v9/scene01.rpy:14
     old "Damn right! We got this! We need to hit the gym soon... after I get some sleep. I'm bout to pass out"
-    new "Pode crer! Tá na mão! Temos que ir pra academia logo... mas só depois que eu dormir um pouco. Tô quase desmaiando."
+    new "Pode crer! Vamos ganhar essa! Temos que ir pra academia logo... mas só depois que eu dormir um pouco. Estou prestes a desmaiar."
 
     # game/v9/scene01.rpy:15
     old "Same! Talk soon"
