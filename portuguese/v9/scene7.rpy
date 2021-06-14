@@ -52,25 +52,25 @@ translate portuguese fr5ryan1_a89a262e:
 translate portuguese fr5ryan1_a2a93119:
 
     # u "And to me, getting into Wolves really feels like a pretty good choice."
-    u "E pra mim, me juntar aos Lobos foi realmente a escolha perfeita."
+    u "E pra mim, me juntar aos Lobos foi realmente uma escolha muito boa."
 
 # game/v9/scene7.rpy:174
 translate portuguese fr5ryan1_b7a5bce3:
 
     # ry "Oh, here we go, boy. Apes are the way to go, and never look back."
-    ry "Aqui vamos nós. Garoto os Gorilas são o caminho correto a seguir, e não tenha dúvidas disso."
+    ry "Lá vamos nós, cara. Os Gorilas é o caminho a seguir, e não olhe pra trás."
 
 # game/v9/scene7.rpy:179
 translate portuguese fr5ryan1_89ecfb68:
 
     # ry "But at least you did get a piece of my philosophy. Frat guys always have better chances with the ladies."
-    ry "Mas pelo menos agraciei seus ouvidos com um pouco da minha sabedorira. Estar numa fraternidade aumenta as chances com as minas."
+    ry "Mas pelo menos você seguiu um pouco da minha filosofia. Os caras de fraternidade sempre têm melhores chances com as garotas."
 
 # game/v9/scene7.rpy:184
 translate portuguese fr5ryan1_44a35439:
 
     # u "I guess you are right. But there's also something else I've learned."
-    u "Aparentemente sim, mas também tem uma outra coisa que eu aprendi."
+    u "Acho que você está certo. Mas também tem uma outra coisa que aprendi a mais."
 
 # game/v9/scene7.rpy:189
 translate portuguese fr5ryan1_f4638a95:
@@ -94,7 +94,7 @@ translate portuguese fr5ryan1_dd6510e9:
 translate portuguese fr5ryan1_e2212c7d:
 
     # ry "Still, a poor choice by you, I can tell you that, ha."
-    ry "Ainda assim, você é muito burro, eu posso garantir isso, ha."
+    ry "Mesmo assim, uma escolha ruim sua, posso dizer, ha."
 
 # game/v9/scene7.rpy:206
 translate portuguese fr5ryan1_5839eb58:
@@ -112,13 +112,13 @@ translate portuguese fr5ryan1_783a4905:
 translate portuguese fr5ryan1_9d598f22:
 
     # u "Frat or not, it all comes down to the looks. And one could not deny your boy's handsome as fuck, haha."
-    u "Fraternidade ou não, tudo se resume à aparência. E você não pode negar que sou bonito pra caralho, haha."
+    u "Fraternidade ou não, tudo se resume a aparência. E você não pode negar que o cara aqui é bonito pra caralho, haha."
 
 # game/v9/scene7.rpy:219
 translate portuguese fr5ryan1_25dd620f:
 
     # ry "Now that you mention it, that first day I met you, I almost mistook you for a babe."
-    ry "Aproveitando que você tocou no assunto, no primeiro dia que eu te vi eu achei que você era uma mina."
+    ry "Agora que você falou isso, no primeiro dia em que te conheci, quase te confundi com uma garota."
 
 # game/v9/scene7.rpy:224
 translate portuguese fr5ryan1_1a6449c3:
@@ -136,25 +136,24 @@ translate portuguese fr5ryan1_41e6520c:
 translate portuguese fr5ryan1_628da757:
 
     # u "OK now that's too far, asshole!"
-    u "Caraca, eu quero um pouco dessa merda com a que cê tá se drogando!"
+    u "OK, agora você viajou muito, idiota!"
 
 # game/v9/scene7.rpy:239
 translate portuguese fr5ryan1_ffc80b55:
 
     # ry "Anyway, I don't mind a day such as this sometimes. A cool breeze and a hot view, hehe."
-    ry "De qualquer jeito, não me importo em ter uma folga assim de vez em quando. Tipo, vento refrescante com vista empaudurante, hehe."
-
+    ry "De qualquer jeito, não me importo em ter uma folga assim de vez em quando. Tipo, vento refrescante com vista quente, hehehe."
 # game/v9/scene7.rpy:244
 translate portuguese fr5ryan1_a6402742:
 
     # u "I guess I should leave you at it, then. Let me check around for a bit."
-    u "Eu acho que vou te deixar curtir e dar uma volta."
+    u "Acho que eu devo deixar você nisso, então. Deixa eu ir dar uma olhada por aí."
 
 # game/v9/scene7.rpy:249
 translate portuguese fr5ryan1_053e4bcb:
 
     # ry "You do that, man."
-    ry "Manda bala cara."
+    ry "Faça isso, cara."
 
 # game/v9/scene7.rpy:255
 translate portuguese fr5ryan1_e8379126:
@@ -172,7 +171,7 @@ translate portuguese fr5ryan1_a07c209d:
 translate portuguese fr5ryan1_521df0c5:
 
     # u "By staring at the girls, right?"
-    u "Acadêmicos? Olhando a bunda das minas?"
+    u "Acadêmicos? Olhando as garotas, certo?"
 
 # game/v9/scene7.rpy:270
 translate portuguese fr5ryan1_9379389a:
@@ -190,7 +189,7 @@ translate portuguese fr5ryan1_46cafde1:
 translate portuguese fr5ryan1_f246a7dd:
 
     # ry "There may be enough pussy to go around, but a man should properly evaluate first, you know?"
-    ry "Pode ter muita xota por aí, mas um homem tem que avaliar corretamente o material, sacou?"
+    ry "Pode ter bastante bucetas por aí, mas um homem deve avaliar corretamente primeiro, sabe?"
 
 # game/v9/scene7.rpy:285
 translate portuguese fr5ryan1_807cfaeb:
@@ -214,37 +213,37 @@ translate portuguese fr5ryan1_30143dd3:
 translate portuguese fr5ryan1_55984293:
 
     # ry "Good, good. For instance, I can tell you that Aubrey maybe looks like it, but I can sense she's not very experienced."
-    ry "Bom. Posso te dizer que Aubrey pode parecer atrevida, mas sinto que ela não é muito experiente."
+    ry "Bom. Por exemplo, posso te dizer que Aubrey talvez pareça atrevida, mas posso sentir que ela não é muito experiente."
 
 # game/v9/scene7.rpy:305
 translate portuguese fr5ryan1_49722f9e:
 
     # u "Oh, haha dude, I think you got it all wrong."
-    u "Ah coitado, eu acho que você tá entendendo tudo errado."
+    u "Oh, haha cara, eu acho que você está errado nessa."
 
 # game/v9/scene7.rpy:310
 translate portuguese fr5ryan1_e7b991f8:
 
     # ry "Or maybe I'm just not into giving away secrets!"
-    ry "Ou talvez eu simplesmente não esteja interessado em revelar meus segredos!"
+    ry "Ou talvez eu simplesmente não esteja interessado em revelar segredos!"
 
 # game/v9/scene7.rpy:315
 translate portuguese fr5ryan1_028e6a79:
 
     # u "Yeah yeah, or that."
-    u "Sim, claro, poderia ser isso."
+    u "Sim, sim, ou então talvez seja isso."
 
 # game/v9/scene7.rpy:320
 translate portuguese fr5ryan1_464cdce0:
 
     # ry "So what's up with you? You're looking more cheerful than usual today."
-    ry "Então, e você? Tá mais feliz que o normal hoje."
+    ry "E você, o quê está pegando? Você está com um ar mais alegre que o normal hoje."
 
 # game/v9/scene7.rpy:331
 translate portuguese fr5ryan1_6ba02e83:
 
     # u "I'm not so sure about that. Last night I had a fucked up dream."
-    u "Não tenho tanta certeza sobre isso. Ontem eu tive um sonho bizarro."
+    u "Não tenho tanta certeza sobre isso. Essa última noite eu tive um sonho fodido."
 
 # game/v9/scene7.rpy:336
 translate portuguese fr5ryan1_29f18b00:
@@ -256,13 +255,13 @@ translate portuguese fr5ryan1_29f18b00:
 translate portuguese fr5ryan1_c9a180b5:
 
     # u "There was this dark void all around me and then a boxing ring and then a fight."
-    u "Tava tudo preto e do nada apareceu um ringue de boxe e depois eu comecei a brigar."
+    u "Tinha um vazio escuro em minha volta e depois um ringue de boxe e depois uma luta."
 
 # game/v9/scene7.rpy:346
 translate portuguese fr5ryan1_87d48738:
 
     # ry "You were fighting someone? In a dark void?"
-    ry "Você estava lutando com alguém? Num lugar todo preto?"
+    ry "Você estava lutando com alguém? Em um vazio escuro?"
 
 # game/v9/scene7.rpy:351
 translate portuguese fr5ryan1_043c96ab:
@@ -274,13 +273,13 @@ translate portuguese fr5ryan1_043c96ab:
 translate portuguese fr5ryan1_03f07a16:
 
     # ry "Seems like you're worried about the Brawl, [name]."
-    ry "Parece que você está preocupado com o campeonato, [name]."
+    ry "Parece que você está preocupado com a briga, [name]."
 
 # game/v9/scene7.rpy:361
 translate portuguese fr5ryan1_0a1ae2ca:
 
     # u "Not about the Brawl but, there was more."
-    u "Não é só sobre o campeonato, havia algo mais."
+    u "Não é só sobre a briga, mas, havia algo a mais."
 
 # game/v9/scene7.rpy:366
 translate portuguese fr5ryan1_b88d72fb:
@@ -304,13 +303,13 @@ translate portuguese fr5ryan1_dc6e6030:
 translate portuguese fr5ryan1_691adef7:
 
     # u "Like losing there meant losing everything."
-    u "Como se se eu perdesse ali significasse perder tudo."
+    u "Como se eu perdesse ali significasse perder tudo."
 
 # game/v9/scene7.rpy:379
 translate portuguese fr5ryan1_feac0b19:
 
     # ry "I get it. But it was all just a dream, right?"
-    ry "Entendi. Mas não passa de um sonho, né?"
+    ry "Eu entendi. Mas foi tudo apenas um sonho, certo?"
 
 # game/v9/scene7.rpy:384
 translate portuguese fr5ryan1_30ce0142:
@@ -328,7 +327,7 @@ translate portuguese fr5ryan1_28e74414:
 translate portuguese fr5ryan1_dce80447:
 
     # u "Doesn't feel like that to me."
-    u "Eu não me sinto confiante assim."
+    u "Não me parece que seja simples assim."
 
 # game/v9/scene7.rpy:399
 translate portuguese fr5ryan1_ec5b3bf1:
@@ -352,7 +351,7 @@ translate portuguese fr5ryan1_c1654ba2:
 translate portuguese fr5ryan1_4496ad5f:
 
     # ry "But seeing you, [name]. You are the kind of guy who makes the right choices."
-    ry "Mas sendo sincero [name]. Você é o tipo de cara que faz as escolhas certas."
+    ry "Mas olhando você, [name]. Você é o tipo de cara que faz as escolhas certas."
 
 # game/v9/scene7.rpy:415
 translate portuguese fr5ryan1_86b36519:
@@ -364,13 +363,13 @@ translate portuguese fr5ryan1_86b36519:
 translate portuguese fr5ryan1_76a0d067:
 
     # u "Thanks, Ryan. I didn't even know I needed this. But it seems I sure as fuck have."
-    u "Valeu Ryan. Eu nem sabia que eu precisava disso. Mas aparentemente eu precisava mesmo."
+    u "Obrigado, Ryan. Eu nem imaginava que precisava disso. Mas parece que com certeza eu precisei."
 
 # game/v9/scene7.rpy:425
 translate portuguese fr5ryan1_519b48a7:
 
     # ry "No problem, that's what bros are for, am I right?"
-    ry "Tamo junto cara, é para isso que servem os amigos, né?"
+    ry ""Não tem problema, é para isso que servem os amigos, né?"
 
 # game/v9/scene7.rpy:430
 translate portuguese fr5ryan1_ac92dc30:
@@ -382,7 +381,7 @@ translate portuguese fr5ryan1_ac92dc30:
 translate portuguese fr5ryan1_aa539ad9:
 
     # u "I guess I am just excited."
-    u "Eu acho que tô meio ansioso."
+    u "Acho que estou apenas ansioso."
 
 # game/v9/scene7.rpy:443
 translate portuguese fr5ryan1_8d14f526:
@@ -406,19 +405,19 @@ translate portuguese fr5ryan1_105c8062:
 translate portuguese fr5ryan1_a685a59e:
 
     # u "I was not sure at first. You know, it was all so sudden."
-    u "Eu não tinha certeza no começo. Foi tudo tão repentino."
+    u "Eu não tinha certeza no começo. Sabe, foi tudo tão repentino."
 
 # game/v9/scene7.rpy:463
 translate portuguese fr5ryan1_f594701d:
 
     # ry "But that's how best things work, right?"
-    ry "Mas é assim que as melhores coisas funcionam, tá ligado?"
+    ry "Mas é assim que as coisas funcionam melhor, sabe?"
 
 # game/v9/scene7.rpy:468
 translate portuguese fr5ryan1_809fd8d0:
 
     # u "I guess so. I've been training for this, and there's no way in Hell I'm gonna lose."
-    u "Acho que sim. Tenho treinado pra isso, e não há como eu perca essa porra."
+    u "Acho que sim. Tenho treinado pra isso, e não ten infernos que faça eu perder essa porra."
 
 # game/v9/scene7.rpy:473
 translate portuguese fr5ryan1_6d774b20:
@@ -436,19 +435,19 @@ translate portuguese fr5ryan1_efaa0bd5:
 translate portuguese fr5ryan1_6d774b20_1:
 
     # ry "Fuck yeah!"
-    ry "Isso aí!"
+    ry "Isso caralho!"
 
 # game/v9/scene7.rpy:488
 translate portuguese fr5ryan1_4e611057:
 
     # u "And no stupid fucking dreams can stop me!"
-    u "E nenhum sonho de merda vai me atrapalhar!"
+    u "E nenhum pesadelo fodido e estúpido pode me parar!"
 
 # game/v9/scene7.rpy:493
 translate portuguese fr5ryan1_2d8d5fb7:
 
     # ry "Fuck- Errr, what?"
-    ry "Isso, amh... Errr, quê?"
+    ry "Porra, é... Errr, o quê?"
 
 # game/v9/scene7.rpy:498
 translate portuguese fr5ryan1_9692c86e:
@@ -466,7 +465,7 @@ translate portuguese fr5ryan1_958bf7b5:
 translate portuguese fr5ryan1_328d0a1c:
 
     # u "Oh man, I feel so great!"
-    u "Ah cara, eu tô me sentindo tão bem agora!"
+    u "Ah cara, eu me sinto tão bem agora. Deixa pra lá!"
 
 # game/v9/scene7.rpy:513
 translate portuguese fr5ryan1_353bcc6d:
@@ -478,49 +477,49 @@ translate portuguese fr5ryan1_353bcc6d:
 translate portuguese fr5ryan1_0b98b340:
 
     # ry "Anyway, it's great to see you are doing well. And I surely don't mind a day such as this sometimes. A cool breeze and a hot view, hehe."
-    ry "De qualquer jeito, é bom saber que você está bem e eu não me importo em ter uma folga assim de vez em quando. Um vento refrescante com uma vista empaudurante, hehe."
+    ry "De qualquer forma é otimo ver que você está bem, e eu também não me importo de ter um dia como este as vezes. Tipo, um vento fresco e uma vista quente, hehehe."
 
 # game/v9/scene7.rpy:525
 translate portuguese fr5ryan1_a6402742_1:
 
     # u "I guess I should leave you at it, then. Let me check around for a bit."
-    u "Acho que eu devo deixar você curtir então, vou dar uma volta."
+    u "Acho que eu devo deixar você nisso então. Deixa eu ir dar umas voltas por aí."
 
 # game/v9/scene7.rpy:530
 translate portuguese fr5ryan1_053e4bcb_1:
 
     # ry "You do that, man."
-    ry "Manda bala cara."
+    ry "Faz isso mano."
 
 # game/v9/scene7.rpy:546
 translate portuguese fr5riley1_f98229dd:
 
     # u "What's a pretty lady doing all by herself?"
-    u "O que uma linda donzela está fazendo aqui sozinha?"
+    u "O que uma senhora bonita está fazendo sozinha?"
 
 # game/v9/scene7.rpy:551
 translate portuguese fr5riley1_51d3f5f4:
 
     # ri "Maybe she's waiting for a hot guy to ask her that exact question, hehe."
-    ri "Talvez ela esteja esperando por um gostoso fazer exatamente essa pergunta, hehe."
+    ri "Talvez ela esteja esperando por um cara gostoso vir fazer exatamente essa pergunta, hehe."
 
 # game/v9/scene7.rpy:556
 translate portuguese fr5riley1_9174c262:
 
     # u "Well what do you know. Here he comes, hah."
-    u "E surpreendentemente ele chegou, hah."
+    u "Bem, e como você sabe. Lá veio ele, hah."
 
 # game/v9/scene7.rpy:561
 translate portuguese fr5riley1_f1e2f83f:
 
     # ri "Where? Can't see. Come closer, mister."
-    ri "Cadê? Não tô vendo ninguém. Chegue mais perto senhor."
+    ri "A onde? Não consigo ver. Apareça, mister x."
 
 # game/v9/scene7.rpy:582
 translate portuguese fr5riley1_aa94a989:
 
     # u "Did that fix your eyesight, lady?"
-    u "Tá conseguindo ver melhor, senhora?"
+    u "Isso consertou sua visão, senhora?"
 
 # game/v9/scene7.rpy:587
 translate portuguese fr5riley1_f6f6bc58:
@@ -538,7 +537,7 @@ translate portuguese fr5riley1_5e129456:
 translate portuguese fr5riley1_a262a4ad:
 
     # ri "And what a sweet talker, hah."
-    ri "E por que tão galante hoje? haha"
+    ri "E por que dessas falas doces, hah."
 
 # game/v9/scene7.rpy:602
 translate portuguese fr5riley1_c566bedd:
@@ -562,37 +561,37 @@ translate portuguese fr5riley1_706baa4c:
 translate portuguese fr5riley1_1cbd0ab7:
 
     # u "It's a family recipe, don't even try to ask."
-    u "É uma tradição familiar, nem tente descobrir."
+    u "É uma receita caseira, nem tente descobrir."
 
 # game/v9/scene7.rpy:624
 translate portuguese fr5riley1_1a7274d0:
 
     # ri "Why would I? It sucks, haha."
-    ri "Por que eu ia querer descobrir? É uma bizarro, haha."
+    ri "Por que eu ia querer descobrir? É uma droga, haha."
 
 # game/v9/scene7.rpy:629
 translate portuguese fr5riley1_5da49d20:
 
     # u "First of all, it does not suck, it blows! And second of all, it's not an instant remedy, you know."
-    u "Antes de tudo, não é bizarro, é um sopro! E em segundo lugar, não é instantâneo, exige paciência."
+    u "Antes de tudo, não é uma droga, é um sopro! E em segundo lugar, não é um remédio instantâneo, sabe, tenha calma."
 
 # game/v9/scene7.rpy:634
 translate portuguese fr5riley1_8ccd0ce0:
 
     # ri "And here was I relaxing. Then HE had to drop by and make me all excited and what not."
-    ri "E aqui estava eu relaxando. E do nada ELE teve que passar por aqui e me deixar toda excitada."
+    ri "E aqui estava eu relaxando. E do nada ELE teve que passar por aqui e me deixar toda excitada e porque não."
 
 # game/v9/scene7.rpy:639
 translate portuguese fr5riley1_421475d5:
 
     # u "I was just checking on you. Having a nice time?"
-    u "Eu só tava dando uma olhada. Tá aproveitando?"
+    u "Eu só quero saber como vpcê está. Tá aproveitando?"
 
 # game/v9/scene7.rpy:644
 translate portuguese fr5riley1_51a2edbe:
 
     # ri "Yeah. I really need this sometimes. Just looking at water is so relaxing. Don't you think so?"
-    ri "Sim. Eu preciso disso às vezes. Só de olhar para a água eu fico tão relaxada. Você não acha?"
+    ri "Sim. Eu realmente preciso disso às vezes. Só de olhar para a água eu fico tão relaxada. Você não acha?"
 
 # game/v9/scene7.rpy:649
 translate portuguese fr5riley1_94b1b55a:
@@ -604,13 +603,13 @@ translate portuguese fr5riley1_94b1b55a:
 translate portuguese fr5riley1_ea38f33b:
 
     # ri "Not at all."
-    ri "Magina."
+    ri "De jeito algum."
 
 # game/v9/scene7.rpy:659
 translate portuguese fr5riley1_fb910257:
 
     # u "Hehe, OK I'm gonna go check on others."
-    u "Hehe, tá, vou ver como estão os outros."
+    u "Hehe, tá, vou ir ver como estão os outros."
 
 # game/v9/scene7.rpy:664
 translate portuguese fr5riley1_78b9cd5a:
@@ -628,7 +627,7 @@ translate portuguese fr5riley1_491a2272:
 translate portuguese fr5riley1_510a2cc3:
 
     # ri "No, not in the mood for that. I just like being close, watching it, that's all."
-    ri "Não, não tô no clima. Eu só gosto de ficar na beira, observando, só isso."
+    ri "Não, não tô no clima pra isso. Eu só gosto de ficar na beirada, observando, só isso."
 
 # game/v9/scene7.rpy:678
 translate portuguese fr5riley1_759ef880:
@@ -652,13 +651,13 @@ translate portuguese fr5riley1_28546354:
 translate portuguese fr5riley1_d48068bf:
 
     # ri "Relaxing yourself."
-    ri "Relaxar."
+    ri "Ficar relaxado."
 
 # game/v9/scene7.rpy:694
 translate portuguese fr5riley1_42afb053:
 
     # u "Let me leave you to your relaxation a bit more. Weirdo."
-    u "Acho que vou te deixar na sua relaxação. Esquisitona."
+    u "Deixa eu te deixar um pouco mais relaxada. Estranha."
 
 # game/v9/scene7.rpy:699
 translate portuguese fr5riley1_fc8cb628:
@@ -682,19 +681,19 @@ translate portuguese fr5aubrey1_7c5374b5:
 translate portuguese fr5aubrey1_7c8ac242:
 
     # au "Nice and cool, just the way I like it."
-    au "Calma e fria, do jeito que eu gosto."
+    au "Boa e fresca, do jeito que eu gosto."
 
 # game/v9/scene7.rpy:736
 translate portuguese fr5aubrey1_38c9a303:
 
     # u "Doesn't sound too nice, hm."
-    u "Não soa muito agradável, hm."
+    u "Não parece muito agradável, hm."
 
 # game/v9/scene7.rpy:741
 translate portuguese fr5aubrey1_d030d6c2:
 
     # au "Oh what, don't tell me that [name] is afraid of a bit of cold water?"
-    au "Ah não, não me diga que você tem medo de água fria?"
+    au "Ah não, não me diga que você tem medo de um pouco de água fria?"
 
 # game/v9/scene7.rpy:746
 translate portuguese fr5aubrey1_bc78feac:
@@ -706,7 +705,7 @@ translate portuguese fr5aubrey1_bc78feac:
 translate portuguese fr5aubrey1_e15ef875:
 
     # au "Boo-hoo, water is so cold, it would make his nipples sharp as a razor, boo-hoo."
-    au "Eu aposto que a água tá tão fria que faria seus mamilos fiarem tão duros quanto uma pedra."
+    au "Boo-hoo, a água está tão fria que faria seus mamilos ficarem afiados como uma lâmina de barbear, boo-hoo."
 
 # game/v9/scene7.rpy:756
 translate portuguese fr5aubrey1_87c0faae:
@@ -730,13 +729,13 @@ translate portuguese fr5aubrey1_3e05c478:
 translate portuguese fr5aubrey1_b03baac7:
 
     # au "Yeah."
-    au "Aham."
+    au "Sim, venha."
 
 # game/v9/scene7.rpy:782
 translate portuguese fr5aubrey1_db1a25f9:
 
     # u "That was a nice try, miss. But you must be mistaking me for a child, if you thought that would work."
-    u "Essa foi uma boa tentativa, senhorita. Mas você deve estar me confundindo com uma criancinha se você achou que isso ia funcionar."
+    u "Essa foi uma boa tentativa, senhorita. Mas você deve estar me confundindo com uma criancinha se você achou que isso ia funcionar comigo."
 
 # game/v9/scene7.rpy:787
 translate portuguese fr5aubrey1_6b1ea0c2:
@@ -754,7 +753,7 @@ translate portuguese fr5aubrey1_043c6ee5:
 translate portuguese fr5aubrey1_fda9681e:
 
     # au "You are such a party-pooper, [name]. I'll forgive you, though. But don't forget, you owe me one now."
-    au "Você é um grande estraga prazeres, [name]. Eu vou te perdoar dessa vez, mas não esquece, você me deve uma."
+    au "Você é um grande estraga prazeres, [name]. Eu vou te perdoar dessa vez, mas não esquece, você me deve uma agora."
 
 # game/v9/scene7.rpy:802
 translate portuguese fr5aubrey1_9b74adb0:
@@ -784,7 +783,7 @@ translate portuguese fr5aubrey1_fdcac9f1:
 translate portuguese fr5aubrey1_6566b23f:
 
     # au "That's what I like to hear."
-    au "É isso que eu queria ouvir."
+    au "Isso é o que eu gosto de ouvir."
 
 # game/v9/scene7.rpy:835
 translate portuguese fr5aubrey1_b57bff8b:
@@ -808,19 +807,19 @@ translate portuguese fr5aubrey1_0d6b02d2:
 translate portuguese fr5aubrey1_97c8a142:
 
     # u "If it's good to you, why would I be any different? So, why did you invite me here?"
-    u "Se é bom para você, por que não seria pra mim? Então, pra que você me fez entrar?"
+    u "Se é bom para você, por que eu acharia diferente? E então, por que você me faria entrar aqui?"
 
 # game/v9/scene7.rpy:855
 translate portuguese fr5aubrey1_f97453ac:
 
     # au "I just thought it could be fun, you know. I was getting a bit lonely."
-    au "Achei que poderia ser divertido, tipo. Eu tava me sentindo meio sozinha."
+    au "Achei que poderia ser divertido, sabe. Eu estava ficando um pouco sozinha."
 
 # game/v9/scene7.rpy:860
 translate portuguese fr5aubrey1_c6b997fb:
 
     # u "Well that can't be a good thing, especially if it's someone like you."
-    u "Bom, isso não é bom, especialmente se for alguém como você."
+    u "Bem, isso não pode ser uma coisa boa, especialmente se for alguém como você."
 
 # game/v9/scene7.rpy:865
 translate portuguese fr5aubrey1_f3559e2e:
@@ -832,7 +831,7 @@ translate portuguese fr5aubrey1_f3559e2e:
 translate portuguese fr5aubrey1_ce284c00:
 
     # u "Ever since I've met you, one thing was the same. Nothing was ever the same, when it comes to you."
-    u "Desde que te conheci só uma coisa é certa, nada é o esperado se tratando de você."
+    u "Desde que conheci você, só uma coisa é certa, nada é a mesma coisa, quando se trata de você."
 
 # game/v9/scene7.rpy:875
 translate portuguese fr5aubrey1_191a6214:
@@ -844,7 +843,7 @@ translate portuguese fr5aubrey1_191a6214:
 translate portuguese fr5aubrey1_5c6dc2eb:
 
     # u "I just don't think a girl like you would want the world to stop. If anything, I'd say you'd want to spin it faster."
-    u "Eu acho que você é o tipo de garota que não pararia o mundo, você faria ele girar ainda mais rápido."
+    u "Eu só não acho que uma garota como você gostaria que o mundo parasse.\nNa verdade, eu diria que você quer que gire mais rápido."
 
 # game/v9/scene7.rpy:885
 translate portuguese fr5aubrey1_51bc6fc0:
@@ -856,7 +855,7 @@ translate portuguese fr5aubrey1_51bc6fc0:
 translate portuguese fr5aubrey1_04006b79:
 
     # u "For one living in the moment, I wouldn't say you expect much at all. Well, maybe you don't expect much, but you surely know how to seize the moment."
-    u "Para quem vive no agora, eu não diria que você tem grandes expectativas. Talvez você não espere muito, mas sabe como curtir o agora."
+    u "Para quem vive no momento, eu não diria que você tem grandes expectativas. Mas bem, talvez você não espere muito das coisas,\nmas certamente sabe como aproveitar o momento."
 
 # game/v9/scene7.rpy:900
 translate portuguese v9_aubrey_scene_lake_27c4011f:
@@ -868,7 +867,7 @@ translate portuguese v9_aubrey_scene_lake_27c4011f:
 translate portuguese v9_aubrey_scene_lake_6c02f2eb:
 
     # u "What could that be?"
-    u "E o que seria?"
+    u "O que pode ser isso?"
 
 # game/v9/scene7.rpy:910
 translate portuguese v9_aubrey_scene_lake_c2fd76b5:
@@ -898,13 +897,13 @@ translate portuguese v9_aubrey_scene_lake_9b30ff5e:
 translate portuguese v9_aubrey_scene_lake_2fb2c456:
 
     # au "Come. Follow me."
-    au "Vem. Me segue."
+    au "Venha. Me siga."
 
 # game/v9/scene7.rpy:940
 translate portuguese v9_aubrey_scene_lake_61bed0b8:
 
     # au "Now, where were we?"
-    au "Agora, onde estávamos?"
+    au "Agora, onde nós estávamos?"
 
 # game/v9/scene7.rpy:954
 translate portuguese v9_aubrey_scene_lake_9ea2f78c:
@@ -916,7 +915,7 @@ translate portuguese v9_aubrey_scene_lake_9ea2f78c:
 translate portuguese v9_aubrey_scene_lake_383ac9cb:
 
     # au "Let's see what we got here."
-    au "Vejamos o que temos aqui."
+    au "Vamos ver o que temos aqui."
 
 # game/v9/scene7.rpy:964
 translate portuguese v9_aubrey_scene_lake_f19e86fc:
@@ -958,7 +957,7 @@ translate portuguese v9_aubrey_scene_lake_9ea2f78c_3:
 translate portuguese v9_aubrey_scene_lake_a05f98a2_1:
 
     # au "You like this?"
-    au "Tá gostando?"
+    au "Você gosta disso?"
 
 # game/v9/scene7.rpy:987
 translate portuguese v9_aubrey_scene_lake_9ea2f78c_4:
@@ -982,7 +981,7 @@ translate portuguese v9_aubrey_scene_lake_4432addf:
 translate portuguese v9_aubrey_scene_lake_3bf52e69:
 
     # au "We should probably swim back before the others notice we're missing though."
-    au "Mas provavelmente deveríamos voltar antes que os outros percebam que a gente sumiu."
+    au "Mas provavelmente devemos nadar de volta antes que os outros percebam que estamos sumidos."
 
 # game/v9/scene7.rpy:1014
 translate portuguese v9_aubrey_scene_lake_810fa79b:
@@ -1000,7 +999,7 @@ translate portuguese v9_aubrey_scene_lake_c864b3fa:
 translate portuguese v9_aubrey_scene_lake_5d270f1e:
 
     # u "That does sound fair, haha."
-    u "Justo, haha."
+    u "Isso parece bom, haha."
 
 # game/v9/scene7.rpy:1036
 translate portuguese v9_aubrey_scene_lake_9f16ac2e:
@@ -1012,7 +1011,7 @@ translate portuguese v9_aubrey_scene_lake_9f16ac2e:
 translate portuguese v9_aubrey_scene_lake_22a23130:
 
     # u "One could say I'm full of surprises. But I think I just know how to figure out people I care about."
-    u "Alguns dizem que eu sou uma caixinha de surpresas. Mas na verdade eu sei ler as pessoas que eu me importo."
+    u "Alguns dizem que eu sou uma caixinha de surpresas. Mas ma verdade eu acho que só sei como desvendo as pessoas que eu me importo."
 
 # game/v9/scene7.rpy:1046
 translate portuguese v9_aubrey_scene_lake_b8a5652a:
@@ -1030,19 +1029,19 @@ translate portuguese v9_aubrey_scene_lake_f39b9ab0:
 translate portuguese v9_aubrey_scene_lake_719c02f1:
 
     # au "I guess that is a double edged sword, ha."
-    au "Acho que essa é uma faca de dois gumes, ha."
+    au "Acho que essa é uma lâmina de dois gumes, ha."
 
 # game/v9/scene7.rpy:1061
 translate portuguese v9_aubrey_scene_lake_dc207349:
 
     # u "That's life. Like, do you think Ryan ever thought I would ruin his view by jumping in here?"
-    u "Essa é a vida. Tipo, você acha que Ryan pensou que eu ia vir estragar a vista dele?"
+    u "Isso é a vida. Tipo, você acha que Ryan pensou que eu ia vir arruinar a vista dele ao vir pular aqui?"
 
 # game/v9/scene7.rpy:1066
 translate portuguese v9_aubrey_scene_lake_1e8acc57:
 
     # au "What do you mean?"
-    au "Como assim?"
+    au "O que você quer dizer com isso?"
 
 # game/v9/scene7.rpy:1071
 translate portuguese v9_aubrey_scene_lake_26df9759:
@@ -1096,7 +1095,7 @@ translate portuguese v9_aubrey_scene_lake_4895ddf9:
 translate portuguese v9_aubrey_scene_lake_3e629aab:
 
     # u "Well, I guess I should probably get out now. Explore the place a bit more, you know?"
-    u "Bom, acho que provavelmente eu deveria sair agora. Dar uma volta pelo lugar, sacou?"
+    u "Bem, acho que provavelmente eu devo sair agora. Explorar o lugar um pouco mais, entende?"
 
 # game/v9/scene7.rpy:1116
 translate portuguese v9_aubrey_scene_lake_e882ca6f:
@@ -1108,7 +1107,7 @@ translate portuguese v9_aubrey_scene_lake_e882ca6f:
 translate portuguese fr5aubrey2_6db57629:
 
     # u "(I should look around a bit more.)"
-    u "(Eu deveria explorar um pouco mais.)"
+    u "(Eu deveria olhar um pouco mais aqui em volta)."
 
 # game/v9/scene7.rpy:1145
 translate portuguese fr5treeguy1_dad2bad7:
@@ -1198,7 +1197,7 @@ translate portuguese fr5treeguy1_5b7c4bdb:
 translate portuguese fr5treeguy1_1eefda27:
 
     # u "You've grabbed people?"
-    u "Você agarrou as pessoas?"
+    u "Você já agarrou as pessoas?"
 
 # game/v9/scene7.rpy:1216
 translate portuguese fr5treeguy1_79e52176:
@@ -1270,7 +1269,7 @@ translate portuguese fr5dogwalker1_fc89ec21:
 translate portuguese fr5dogwalker1_404c3a41:
 
     # u "Who could forget that ugl- I mean, yeah. I've seen him at the shelter the other day."
-    u "Quem poderia esquecer esse fei... Quer dizer, sim. Eu conheci ele no canil o outro dia."
+    u "Quem poderia esquecer esse fei... Quer dizer, sim. Eu conheci ele no canil no outro dia."
 
 # game/v9/scene7.rpy:1298
 translate portuguese fr5dogwalker1_d93a4f19:
@@ -1288,7 +1287,7 @@ translate portuguese fr5dogwalker1_ef7d30cc:
 translate portuguese fr5dogwalker1_9ac14e5f:
 
     # unknown "I just could not resist. You see, people don't usually come running to me."
-    unknown "Eu não resisti. Tipo, as pessoas não costumam vir correndo pra mim."
+    unknown "Simplesmente não pude resistir. Olha, as pessoas não costumam vir correndo pra mim."
 
 # game/v9/scene7.rpy:1313
 translate portuguese fr5dogwalker1_67f0dfef:
@@ -1306,7 +1305,7 @@ translate portuguese fr5dogwalker1_8817081d:
 translate portuguese fr5dogwalker1_b663e4a9:
 
     # u "I see."
-    u "Entendi."
+    u "Estou vendo."
 
 # game/v9/scene7.rpy:1328
 translate portuguese fr5dogwalker1_3e213704:
@@ -1372,7 +1371,7 @@ translate portuguese fr5dogwalker1_ba5ea4bd:
 translate portuguese fr5dogwalker1_9ac14e5f_1:
 
     # unknown "I just could not resist. You see, people don't usually come running to me."
-    unknown "Eu não resisti. Tipo, as pessoas não costumam vir correndo pra mim."
+    unknown "Simplesmente não pude resistir. Veja, as pessoas não costumam vir correndo para mim."
 
 # game/v9/scene7.rpy:1379
 translate portuguese fr5dogwalker1_67f0dfef_1:
@@ -1474,7 +1473,7 @@ translate portuguese fr5ryan3_93013ccf:
 translate portuguese fr5ryan3_593c7aee:
 
     # ri "Today was certainly relaxing..."
-    ri "Hoje foi um dia relaxante..."
+    ri "Hoje certamente foi relaxante..."
 
 # game/v9/scene7.rpy:1498
 translate portuguese fr5ryan3_e9daf6d5:
@@ -1492,7 +1491,7 @@ translate portuguese fr5ryan3_90abd26c:
 translate portuguese fr5ryan3_618dda73:
 
     # ri "Well, now you will know for the next time, always to say yes to all of my awesome proposals."
-    ri "Bom, agora vocês sabem, podem dizer sim pra todas as minhas incríveis propostas."
+    ri "Bom, agora vocês já sabem, nas próximas vezes podem dizer sim pra todas as minhas incríveis propostas."
 
 # game/v9/scene7.rpy:1518
 translate portuguese fr5ryan3_7f7e2b4f:
@@ -1530,7 +1529,7 @@ translate portuguese strings:
 
     # game/v9/scene7.rpy:325
     old "Talk about the brawl"
-    new "Falar sobre o torneio."
+    new "Fale sobre a briga."
 
     # game/v9/scene7.rpy:566
     old "Blow air at her"
@@ -1538,8 +1537,8 @@ translate portuguese strings:
 
     # game/v9/scene7.rpy:776
     old "Don't join her"
-    new "Não entrar na água."
+    new "Não se juntar a ela na àgua."
 
     # game/v9/scene7.rpy:776
     old "Join her"
-    new "Entrar na água."
+    new "Ir pra dentro da água com ela."
