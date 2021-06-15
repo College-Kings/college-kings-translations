@@ -256,7 +256,7 @@ translate portuguese strings:
 
     # game/v8/scene39.rpy:61
     old "Climb the hospital"
-    new "Esclar o hospital"
+    new "Escalar o hospital"
 
     # game/v8/scene39.rpy:61
     old "Don't climb the hospital"

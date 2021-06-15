@@ -262,7 +262,7 @@ translate portuguese aa_db_84ee60dd:
 translate portuguese aa_db_b9d51565:
 
     # ju "We go to the same nail salon."
-    ju "A gente vai para o mesmo salão de beleza."
+    ju "Nós vamos ao mesmo salão de beleza."
 
 # game/v1/v1.rpy:291
 translate portuguese aa_db_7c46af54:
@@ -406,7 +406,7 @@ translate portuguese aa_db_304c6a63:
 translate portuguese aa_db_1bf7c341:
 
     # ca "Fine..."
-    ca "Beleza..."
+    ca "Tá..."
 
 # game/v1/v1.rpy:402
 translate portuguese aa_db_2dd477b7:
@@ -514,7 +514,7 @@ translate portuguese ad_db_3e0ad800:
 translate portuguese ad_db_9c52b5de:
 
     # u "(I should probably go to my induction class right now.)"
-    u "(É melhor eu ir andando para aula de introdutória agora.)"
+    u "(É melhor eu ir andando para aula introdutória agora.)"
 
 # game/v1/v1.rpy:488
 translate portuguese ad_db_c224bb3e:
@@ -688,7 +688,7 @@ translate portuguese ad_db_e1e082fb:
 translate portuguese ad_db_360d1f0f:
 
     # ro "It seems that Elijah here fixed the laptop and we can start the induction. Thank you, Elijah."
-    ro "Parece que o Elijah aqui conseguiu concertar o laptop e podemos começar a indução. Obrigada, Elijah."
+    ro "Parece que o Elijah aqui conseguiu concertar o laptop e podemos começar a introdução. Obrigada, Elijah."
 
 # game/v1/v1.rpy:620
 translate portuguese ad_db_b2596c1e:
@@ -754,7 +754,7 @@ translate portuguese ag_da_0515e6c0:
 translate portuguese ag_da_a7bf38fb:
 
     # la "You know... you don't have to join a frat to get girls."
-    la "Você sabe... você não precisa se juntar a uma fraternidade para conseguir garotas."
+    la "Sabe... você não precisa se juntar a uma fraternidade para conseguir garotas."
 
 # game/v1/v1.rpy:697
 translate portuguese ag_da_8b258704:
@@ -790,7 +790,7 @@ translate portuguese ag_da_6f65c9c5:
 translate portuguese ag_da_85cc40ba:
 
     # u "I mean it is kinda cool, I just wish I knew how to fight."
-    u "Quer dizer, é bem legal eu gostaria de saber lutar."
+    u "Quer dizer, é bem legal, eu gostaria de saber lutar."
 
 # game/v1/v1.rpy:730
 translate portuguese ag_da_e61c7e99:
@@ -802,7 +802,7 @@ translate portuguese ag_da_e61c7e99:
 translate portuguese ag_da_bd280c79:
 
     # la "You know, there's a bunch of girls that would rather date a guy that doesn't fight."
-    la "Você sabia, tem muitas meninas que prefeririam namorar um cara que não lute."
+    la "Sabe, tem muitas meninas que prefeririam namorar um cara que não luta."
 
 # game/v1/v1.rpy:736
 translate portuguese ag_da_c5446f18:
@@ -826,7 +826,7 @@ translate portuguese af_db_1cacebd1:
 translate portuguese af_db_e4477cef:
 
     # la "They're one of the two sororities at San Vallejo. My sister Autumn is their president, so I know most of them quite well."
-    la "Elas são uma das duas irmandades em San Vallejo. Minha irmã a Autumn é presidente delas, então eu meio que já as conheço bastante."
+    la "Elas são uma das duas irmandades em San Vallejo. Minha irmã, a Autumn é presidente delas, então eu meio que já as conheço bastante."
 
 # game/v1/v1.rpy:753
 translate portuguese af_db_5cc482d2:
@@ -886,7 +886,7 @@ translate portuguese af_db_222f9225:
 translate portuguese af_db_ce23670f:
 
     # la "Haha, prince charming huh?"
-    la "Haha, o príncipe encantado huh?"
+    la "Haha, o príncipe encantado hein?"
 
 # game/v1/v1.rpy:806
 translate portuguese af_db_7e0e7a51:
@@ -922,7 +922,7 @@ translate portuguese af_db_3071f7e9:
 translate portuguese aj_db_5be28c1b:
 
     # u "We should hang out sometime, what's your number?"
-    u "A gente devia sair uma hora dessas, qual o seu número?"
+    u "Deveríamos sair qualquer dia desses, qual o seu número?"
 
 # game/v1/v1.rpy:837
 translate portuguese aj_db_173c5e8d:
@@ -934,13 +934,13 @@ translate portuguese aj_db_173c5e8d:
 translate portuguese aj_db_00fbe766:
 
     # u "Uhhhh..."
-    u "Hmmm..."
+    u "Hãa..."
 
 # game/v1/v1.rpy:847
 translate portuguese aj_db_1ff7b514:
 
     # la "I'm just kidding, I'm Lauren. I'll put my number into your phone."
-    la "Eu tô zoando, meu nome é Lauren. Vou te dar meu número."
+    la "Eu tô zoando, meu nome é Lauren. Vou te passar meu número."
 
 # game/v1/v1.rpy:851
 translate portuguese aj_db_0801b8ee:
@@ -1042,7 +1042,7 @@ translate portuguese v1_freeRoam1_riley_9ed721a3:
 translate portuguese v1_freeRoam1_riley_5dd66e4c:
 
     # ri "Hmmm.. I'll think about it."
-    ri "Hmmm.. vou pensar sobre isso."
+    ri "Hmmm.. vou pensar no seu caso."
 
 # game/v1/v1.rpy:960
 translate portuguese v1_freeRoam1_riley_9f41e0c7:
@@ -1066,7 +1066,7 @@ translate portuguese v1_freeRoam1_riley_9ed721a3_1:
 translate portuguese v1_freeRoam1_riley_5dd66e4c_1:
 
     # ri "Hmmm.. I'll think about it."
-    ri "Hmmm.. vou pensar sobre isso."
+    ri "Hmmm.. vou pensar no seu caso."
 
 # game/v1/v1.rpy:984
 translate portuguese v1_freeRoam1_riley2_93a57ebd:
@@ -1102,7 +1102,7 @@ translate portuguese v1_freeRoam1_elijah_01b5bd71:
 translate portuguese v1_freeRoam1_elijah_2ace45db:
 
     # u "Are you going to this rush party thing tomorrow?"
-    u "Você vai nessa festa amanhã?"
+    u "Você vai naquela festa amanhã?"
 
 # game/v1/v1.rpy:1016
 translate portuguese v1_freeRoam1_elijah_68b74e4b:
@@ -1156,7 +1156,7 @@ translate portuguese v1_freeRoam1_elijah_6034382a:
 translate portuguese v1_freeRoam1_elijah_10f86768:
 
     # el "Only the brightest of minds are allowed to join."
-    el "Apenas as mentes mais brilhantes são permitidos a fazer parte deles."
+    el "Apenas as mentes mais brilhantes são permitidas a fazer parte deles."
 
 # game/v1/v1.rpy:1056
 translate portuguese v1_freeRoam1_elijah_54fa02c9:
@@ -1168,7 +1168,7 @@ translate portuguese v1_freeRoam1_elijah_54fa02c9:
 translate portuguese v1_freeRoam1_elijah_44146d49:
 
     # el "How dare you defy the frogs like that?!"
-    el "Como se atreve a insultar os Sapos assim?"
+    el "Como se atreve a insultar os Sapos assim?!"
 
 # game/v1/v1.rpy:1063
 translate portuguese v1_freeRoam1_elijah_94727f75:
@@ -1222,7 +1222,7 @@ translate portuguese v1_freeRoam1_chris_e0704ea2:
 translate portuguese v1_freeRoam1_chris_d9941cda:
 
     # ch "Most years there's only one or two good fighters. I can't risk letting the Apes get them... Not again."
-    ch "A maioria dos anos apenas uma ou duas pessoas são bons lutadores. Eu não posso correr o risco de deixar eles se juntarem aos Gorilas...não de novo."
+    ch "Na maioria dos anos apenas uma ou duas pessoas são bons lutadores. Eu não posso correr o risco de deixar eles se juntarem aos Gorilas... Não de novo."
 
 # game/v1/v1.rpy:1108
 translate portuguese v1_freeRoam1_chris_836fb1da:
@@ -1240,7 +1240,7 @@ translate portuguese v1_freeRoam1_chris_5c859220:
 translate portuguese v1_freeRoam1_chris_db198b70:
 
     # no "Okay... well, I hope your plan works."
-    no "Okay...então, espero que seu plano funcione."
+    no "Ok... bem, espero que seu plano funcione."
 
 # game/v1/v1.rpy:1120
 translate portuguese v1_freeRoam1_chris_751e805d:
@@ -1306,13 +1306,13 @@ translate portuguese v1_freeRoam1_nora_ee01f9b9:
 translate portuguese v1_freeRoam1_nora2_49a9e742:
 
     # u "Uhm..."
-    u "Uhm..."
+    u "Hmm..."
 
 # game/v1/v1.rpy:1179
 translate portuguese v1_freeRoam1_nora2_13d44738:
 
     # no "Dude, keep it moving."
-    no "Cara, continua andando."
+    no "Cara, chispa daqui."
 
 # game/v1/v1.rpy:1184
 translate portuguese v1_freeRoam1_nora2_fd24539d:
@@ -1324,7 +1324,7 @@ translate portuguese v1_freeRoam1_nora2_fd24539d:
 translate portuguese v1_freeRoam1_aubrey_db8e9080:
 
     # au "Ohhh shit, that feels good!"
-    au "Ahhh porra, isso é incível!"
+    au "Ahhh porra, isso é incrível!"
 
 # game/v1/v1.rpy:1195
 translate portuguese v1_freeRoam1_aubrey_3eb283e4:
@@ -1582,7 +1582,7 @@ translate portuguese an_bd_72ce765f:
 translate portuguese an_bd_6e60c90b:
 
     # u "But... you didn't even know me at the time. What if I was a huge dick to you? Or-"
-    u "Mas... você nem me conhecia. E se eu fosse um ultra babaca contigo? Ou sei lá..."
+    u "Mas... você nem me conhecia. E se eu fosse ultra babaca contigo? Ou-"
 
 # game/v1/v1.rpy:1397
 translate portuguese an_bd_dff18ae1:
@@ -1594,7 +1594,7 @@ translate portuguese an_bd_dff18ae1:
 translate portuguese an_bd_56e6340a:
 
     # u "Fair enough. Only problem is, I don't actually know that many people here. It is also my first day after all."
-    u "Justo. O único problema é que eu não conheço muita gente por aqui. Também cheguei hoje e tal..."
+    u "Justo. O único problema é que eu não conheço muita gente por aqui. Também cheguei hoje e tal."
 
 # game/v1/v1.rpy:1407
 translate portuguese an_bd_af41006b:
@@ -1642,7 +1642,7 @@ translate portuguese v1_phoneCheck1_3c422dc2:
 translate portuguese v1_phoneCheck1_10eaa655:
 
     # imre "Awesome! Get ready for a wild night, my man."
-    imre "Top! Bora se arrumar então, mano."
+    imre "Ótimo! Prepare-se para ter uma noite bem doida, meu parceiro."
 
 # game/v1/v1.rpy:1461
 translate portuguese v1_phoneCheck1_9ea2f78c:
@@ -1702,7 +1702,7 @@ translate portuguese continueonea_f6ebb216:
 translate portuguese continueonea_f6d75db0:
 
     # u "Yeah, that's right. Good to see you again."
-    u "Foi. Legal te ver de novo."
+    u "Sim. Legal te ver de novo."
 
 # game/v1/v1.rpy:1506
 translate portuguese talktorib_3f663067:
@@ -1834,7 +1834,7 @@ translate portuguese talktorib_b0dc7976:
 translate portuguese talktorib_133e1c1d:
 
     # ri "Of course, but you gotta start."
-    ri "Claro! Mas você começa."
+    ri "Claro, mas você começa."
 
 # game/v1/v1.rpy:1614
 translate portuguese talktorib_80db9f4e:
@@ -1936,7 +1936,7 @@ translate portuguese talktorib_454f0de5:
 translate portuguese talktorib_987ef508:
 
     # la "I guess we'll never know."
-    la "Acho que nunca saberemos!"
+    la "Acho que nunca saberemos."
 
 # game/v1/v1.rpy:1697
 translate portuguese talktorib_5fb843b3:
@@ -1996,7 +1996,7 @@ translate portuguese ao_bd_35839244:
 translate portuguese ao_bd_d4987fa2:
 
     # la "Haha, oh god."
-    la "Hahaha, meu deus!"
+    la "Hahaha, meu Deus!"
 
 # game/v1/v1.rpy:1750
 translate portuguese ao_bd_0cd7d3c7:
@@ -2134,7 +2134,7 @@ translate portuguese ar_bd_d0763037:
 translate portuguese ar_bd_062bd566:
 
     # imre "Man, I can't wait to bang this Riley chick."
-    imre "Mano, eu mal posso esperar pra foder a gostosa Riley."
+    imre "Mano, eu mal posso esperar pra foder a gostosa da Riley."
 
 # game/v1/v1.rpy:1878
 translate portuguese ar_bd_5d298f3a:
@@ -2194,7 +2194,7 @@ translate portuguese ar_bd_ffeb2061:
 translate portuguese ar_bd_ab6db348:
 
     # imre "Trust me, we're gonna bang so many chicks this year. All we need is confidence..."
-    imre "E acredite, nós vamos foder muita mina esse ano. Só precisamos de confiança..."
+    imre "E acredite, nós vamos foder muita mina esse ano. Tudo que precisamos é ser confiantes..."
 
 # game/v1/v1.rpy:1929
 translate portuguese ar_bd_0b8dfc17:
@@ -2818,7 +2818,7 @@ translate portuguese sexdream1_a3c6ad46:
 translate portuguese sexdream1_fb14581b:
 
     # la "Yep... she's just so annoying. I wish I could still move dorms."
-    la "Sim... ela muito irritante. Queria poder mudar de dormitório."
+    la "Sim... ela é muito irritante. Queria poder mudar de dormitório."
 
 # game/v1/v1.rpy:2409
 translate portuguese sexdream1_d3ff7f61:
@@ -2872,7 +2872,7 @@ translate portuguese au_bd_50c58a7d:
 translate portuguese au_bd_2b228376:
 
     # la "This park is really nice. I've never been here before."
-    la "O parque é bem legal. Já estive lá antes."
+    la "O parque é bem legal. Nunca estive aqui antes."
 
 # game/v1/v1.rpy:2458
 translate portuguese au_bd_35d159a7:
@@ -3154,7 +3154,7 @@ translate portuguese av_ad_3a40239f:
 translate portuguese av_ad_3e5a9f5c:
 
     # la "Oh wow, I guess you should have hid in the closet, haha."
-    la "Hmm, nossa! Acho que você devia ter ficado no armário, haha."
+    la "Hmm, nossa! Acho que você devia ter ficado escondido no armário, haha."
 
 # game/v1/v1.rpy:2652
 translate portuguese av_ad_f1e66ef4:
@@ -3418,7 +3418,7 @@ translate portuguese next_scenea_109b736a_1:
 translate portuguese next_scenea_bb1bff6d:
 
     # u "She gave me all the signs, so I went for a kiss."
-    u "Ela me deu todos os sinais, então eu só a beijei."
+    u "Ela me deu todos os sinais, então eu arrisquei um beijo."
 
 # game/v1/v1.rpy:2871
 translate portuguese next_scenea_fe9e08c3:
@@ -3562,7 +3562,7 @@ translate portuguese nextscenef_0529f46b:
 translate portuguese nextscenef_00b07dd4:
 
     # ry "Haha, don't worry player, there are."
-    ry "Haha, não se preocupe não camisa 10, vai ter sim!"
+    ry "Haha, não se preocupe não ô camisa 10, vai ter sim!"
 
 # game/v1/v1.rpy:2992
 translate portuguese nextscenef_58b95a0d:
@@ -3592,7 +3592,7 @@ translate portuguese nextscenef_39f781a7:
 translate portuguese nextscenef_f1f1b41e:
 
     # u "Alright, let's go."
-    u "Tá certo, vamos nessa!"
+    u "Tá certo, vamos nessa."
 
 # game/v1/v1.rpy:3021
 translate portuguese v1_freeRoam2_sam_85039d3b:
@@ -3994,7 +3994,7 @@ translate portuguese v1_freeRoam2_josh_dc57a155:
 translate portuguese v1_freeRoam2_josh_b1537408:
 
     # u "Hell yeah! I'll be the next Fight King."
-    u "Exato! Eu sei o próximo Rei da Luta."
+    u "Exato! Eu serei o próximo Rei da Luta."
 
 # game/v1/v1.rpy:3350
 translate portuguese v1_freeRoam2_josh_67550db8_1:
@@ -4006,7 +4006,7 @@ translate portuguese v1_freeRoam2_josh_67550db8_1:
 translate portuguese v1_freeRoam2_josh_e58fedb7_1:
 
     # au "Oh wow, big words. Have you met Grayson yet? I'm sure he'd like your confidence."
-    au "Uau! Palavras fortes. Você já conheceu o Grayson? Tenho certeza que ele vai gostar de sua confiança."
+    au "Uau! Palavras fortes. Você já conheceu o Grayson? Tenho certeza que ele vai gostar da sua confiança."
 
 # game/v1/v1.rpy:3360
 translate portuguese v1_freeRoam2_josh_44972d79_2:
@@ -4366,7 +4366,7 @@ translate portuguese v1_freeRoam2_katy_ad78e293:
 translate portuguese v1_freeRoam2_katy2_d6261efc:
 
     # u "(I'm definitely not going back there.)"
-    u "Com certeza eu não voltarei lá.)"
+    u "(Com certeza eu não voltarei lá.)"
 
 # game/v1/v1.rpy:3679
 translate portuguese v1_freeRoam2_grayson_5758ed80:
@@ -4750,7 +4750,7 @@ translate portuguese be_bd_3e105903:
 translate portuguese be_bd_fe1d7570:
 
     # u "Wow, that sounds awful."
-    u "Nossa, que absurdo"
+    u "Nossa, que absurdo."
 
 # game/v1/v1.rpy:3998
 translate portuguese be_bd_6e288e3b:
@@ -5512,4 +5512,3 @@ translate portuguese strings:
     # game/v1/v1.rpy:1682
     old "You're missing out."
     new "Quem perde é você"
-

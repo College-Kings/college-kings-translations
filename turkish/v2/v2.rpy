@@ -3982,211 +3982,211 @@ translate turkish v1_endShop_24b804e1:
 translate turkish v2start_1bba6b51:
 
     # cl "*Muffled* Why did you do that?! We were just talking!"
-    cl ""
+    cl "*Boğuk* Bunu neden yaptın?! Sadece konuşuyorduk!"
 
 # game/v2/v2.rpy:89
 translate turkish v2start_c3b1a1ef:
 
     # ry "*Muffled* [name]?! Are you okay??"
-    ry ""
+    ry "* Boğuk* [name]?! İyi misin??"
 
 # game/v2/v2.rpy:98
 translate turkish v2start_cb54d010:
 
     # imre "Hey man, did you have a good night?"
-    imre ""
+    imre "Hey dostum, iyi bir gece geçirdin mi?"
 
 # game/v2/v2.rpy:104
 translate turkish v2start_20bec76e:
 
     # u "What? How did I get here?"
-    u ""
+    u "Ne? Buraya nasıl geldim?"
 
 # game/v2/v2.rpy:109
 translate turkish v2start_b94dac9c:
 
     # imre "Some Ryan guy dropped you off, after you got yourself beaten up."
-    imre ""
+    imre "Ryan denen bir adam seni bıraktı."
 
 # game/v2/v2.rpy:114
 translate turkish v2start_7207f97e:
 
     # u "Shit... my head hurts so much."
-    u ""
+    u "Kahretsin... başım çok ağrıyor."
 
 # game/v2/v2.rpy:119
 translate turkish v2start_1c5c1a81:
 
     # imre "I mean, have you seen your face?"
-    imre ""
+    imre "Yani, yüzünü gördün mü?"
 
 # game/v2/v2.rpy:121
 translate turkish v2start_1adeb7b0:
 
     # imre "Here, I took a picture last night when you came home."
-    imre ""
+    imre "Dün gece eve geldiğinde bir fotoğraf çektim."
 
 # game/v2/v2.rpy:125
 translate turkish v2start_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v2/v2.rpy:130
 translate turkish v2start_272f5aa4:
 
     # u "Man, Grayson is such an asshole. I didn't even do anything."
-    u ""
+    u "Grayson tam bir pislik. Hiçbir şey yapmadım bile."
 
 # game/v2/v2.rpy:135
 translate turkish v2start_48095016:
 
     # imre "What did you expect? I told you the Apes are dogshit."
-    imre ""
+    imre "Ne bekliyordun? Maymunların köpek pisliği olduğunu söylemiştim."
 
 # game/v2/v2.rpy:137
 translate turkish v2start_22ca126f:
 
     # imre "If you knew how to fight, maybe he wouldn't fuck with you."
-    imre ""
+    imre "Eğer dövüşmeyi bilseydin, belki seninle dalga geçmezdi."
 
 # game/v2/v2.rpy:145
 translate turkish v2start_327c6541:
 
     # u "Hmm... maybe."
-    u ""
+    u "Hmm... belki."
 
 # game/v2/v2.rpy:149
 translate turkish v2start_c08fe457:
 
     # imre "Just think about it, okay? I'll see you later."
-    imre ""
+    imre "Sadece bir düşün, tamam mı? Sonra görüşürüz."
 
 # game/v2/v2.rpy:156
 translate turkish v2start_f558cfe4:
 
     # u "I'm not fighting. I'll just stay away from them."
-    u ""
+    u "Kavga etmiyorum. Sadece onlardan uzak kalacağım."
 
 # game/v2/v2.rpy:161
 translate turkish v2start_e8ead580:
 
     # imre "Dude, you don't know what Grayson's like."
-    imre ""
+    imre "Dostum, Grayson'ın nasıl biri olduğunu bilmiyorsun."
 
 # game/v2/v2.rpy:163
 translate turkish v2start_1e49a1b9:
 
     # imre "If he sees you looking at him wrong from now on, you'll end up in the hospital."
-    imre ""
+    imre "Şu andan itibaren ona yanlış baktığını görürse, kendini hastanede bulursun."
 
 # game/v2/v2.rpy:171
 translate turkish v2start_acb5bdce:
 
     # u "Look, I'll think about it. But don't get your hopes up."
-    u ""
+    u "Bak, bunu düşüneceğim. Ama umutlanma."
 
 # game/v2/v2.rpy:175
 translate turkish v2start_7098dbf0:
 
     # imre "That's all I'm asking for. I'll see you later."
-    imre ""
+    imre "Çok büyük bir beklentim yok. Sonra görüşürüz."
 
 # game/v2/v2.rpy:182
 translate turkish v2start_0b7c44c3:
 
     # u "I'm not fighting. That's final."
-    u ""
+    u "Kavga etmiyorum. Bu son sözüm."
 
 # game/v2/v2.rpy:187
 translate turkish v2start_a27d90a3:
 
     # imre "You're being stupid, man. Whatever, suit yourself."
-    imre ""
+    imre "Aptallık ediyorsun dostum. Her neyse, sen bilirsin."
 
 # game/v2/v2.rpy:214
 translate turkish bjj_bd_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v2/v2.rpy:239
 translate turkish walk1_5d38ae25:
 
     # u "(I can't believe I got knocked out in front of everyone...)"
-    u ""
+    u "(Herkesin önünde nakavt edildiğime inanamıyorum...)"
 
 # game/v2/v2.rpy:243
 translate turkish walk1_138f9c3b:
 
     # u "(Especially in front of Chloe, that's so humiliating.)"
-    u ""
+    u "(Özellikle Chloe'nin önünde, bu çok aşağılayıcı.)"
 
 # game/v2/v2.rpy:248
 translate turkish walk1_3263fe5c:
 
     # u "(Is she dating Grayson? I really thought she was flirting with me.)"
-    u ""
+    u "(Grayson ile çıkıyor mu? Benimle flört ettiğini sanıyordum.)"
 
 # game/v2/v2.rpy:250
 translate turkish walk1_d91c9beb:
 
     # u "(But why would Grayson punch me otherwise?)"
-    u ""
+    u "(Ama Grayson neden bana yumruk atsın ki?)"
 
 # game/v2/v2.rpy:252
 translate turkish walk1_ae5cc9c0:
 
     # u "(Just thinking about all this shit makes me so mad.)"
-    u ""
+    u "(Sadece tüm bu şeyleri düşünmek beni çok kızdırıyor.)"
 
 # game/v2/v2.rpy:257
 translate turkish walk1_4b258b6b:
 
     # tom "Eyy, Mr. steal-your-girl got beaten up. *laughs*"
-    tom ""
+    tom "Eyy, Bay kızını çalan dayak yemiş. *güler*"
 
 # game/v2/v2.rpy:259
 translate turkish walk1_50708946:
 
     # tom "That's what you get for being such a little bitch."
-    tom ""
+    tom "Bu kadar küçük bir kaltak olmanın karşılığı bu."
 
 # game/v2/v2.rpy:269
 translate turkish walk1_f9b61707:
 
     # tom "Yeah, you better keep walking, pussy."
-    tom ""
+    tom "Evet, yürümeye devam etsen iyi olur, amcık."
 
 # game/v2/v2.rpy:419
 translate turkish tomtut1jab_edc85e50:
 
     # tut "As of right now, there's a jab flying at your face, press {b}W{/b} in the upcoming screen in order to block it."
-    tut ""
+    tut "Şu an itibariyle, yüzünüzde uçan bir jab var, engellemek için yaklaşan ekranda {B}w{/b} tuşuna basın."
 
 # game/v2/v2.rpy:444
 translate turkish tuthookhit_5d47b961:
 
     # tut "You did not block your head by pressing {b}Q{/b} and got hit. Next time, try to block the correct part of your body."
-    tut ""
+    tut "{B}Q{/B} tuşlarına basarak başınızı engellemediniz ve vuruldunuz. Bir dahaki sefere, vücudunuzun doğru kısmını engellemeye çalışın."
 
 # game/v2/v2.rpy:448
 translate turkish tuthookhit_cd62240e:
 
     # tut "This ends the tutorial. The real fight will test your reaction times."
-    tut ""
+    tut "Bu öğreticiyi bitirir. Gerçek mücadele reaksiyon sürenizi test edecektir."
 
 # game/v2/v2.rpy:1435
 translate turkish history2_6db697b3:
 
     # imre "Holy shit, you're a natural, dude."
-    imre ""
+    imre "Vay canına, sen doğalsın ahbap."
 
 # game/v2/v2.rpy:1545
 translate turkish nextsceneo_e025761d:
 
     # lee "Welcome to History 101, I'm Mr. Lee."
-    lee ""
+    lee "Tarih 101'e hoş geldiniz, ben Bay Lee."
 
 # game/v2/v2.rpy:1547
 translate turkish nextsceneo_58eff7c4:

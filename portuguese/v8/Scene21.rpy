@@ -46,7 +46,7 @@ translate portuguese walk_to_dean_2f876c44:
 translate portuguese walk_to_dean_3d1245c3:
 
     # u "Good morning Mrs. Harrison. My name is [name]. Might I have a-a minute of your time?"
-    u "Bom Dia Sra. Harrison. Meu nome é [name]. Posso lhe incomodar po um momento?"
+    u "Bom Dia Sra. Harrison. Meu nome é [name]. Posso lhe incomodar por um momento?"
 
 # game/v8/Scene21.rpy:66
 translate portuguese walk_to_dean_90a5a797:

@@ -22,7 +22,7 @@ translate portuguese v9_start_apes_7fc469a7:
 translate portuguese v9_start_apes_78f9c099:
 
     # ca "To me, you're a pledge 'til you prove yourself...{w} PLEDGE."
-    ca "Pra mim, você é uma promessa 'até provar a si mesmo...{w} PROMESSA'"
+    ca "Pra mim, você é uma promessa até provar o contrário...{w} PROMESSA'"
 
 # game/v9/scene02.rpy:49
 translate portuguese v9_start_apes_82f16e9d:
@@ -34,7 +34,7 @@ translate portuguese v9_start_apes_82f16e9d:
 translate portuguese v9_start_apes_e4efbc4a:
 
     # ca "Shit no."
-    ca "Droga nenhuma."
+    ca "Porra nenhuma."
 
 # game/v9/scene02.rpy:57
 translate portuguese v9_start_apes_f427f748:
@@ -46,7 +46,7 @@ translate portuguese v9_start_apes_f427f748:
 translate portuguese v9_start_apes_907e332d:
 
     # u "How?"
-    u "E como?"
+    u "Como?"
 
 # game/v9/scene02.rpy:65
 translate portuguese v9_start_apes_c1434064:
@@ -64,7 +64,7 @@ translate portuguese v9_start_apes_c00e3b00:
 translate portuguese v9_start_apes_2deb3af4:
 
     # u "(Cam's just a dick. Not worth it.)"
-    u "(Cam é só um otário. Não vale a pena)."
+    u "(O Cameron é um otário. Não vale a pena)."
 
 # game/v9/scene02.rpy:75
 translate portuguese v9_start_apes_d0e0230b:
@@ -76,7 +76,7 @@ translate portuguese v9_start_apes_d0e0230b:
 translate portuguese v9_start_apes_89dea450:
 
     # ca "Of course I do. I'm an Ape!"
-    ca "Claro que eu sei, eu sou um Gorila."
+    ca "Claro que eu sei, eu sou um Gorila!"
 
 # game/v9/scene02.rpy:83
 translate portuguese v9_start_apes_30ba7630:
@@ -88,7 +88,7 @@ translate portuguese v9_start_apes_30ba7630:
 translate portuguese v9_start_apes_69ee9e1a:
 
     # ca "I don't think you're ready."
-    ca "Não acho que você esteja pronto."
+    ca "Eu não acho que você esteja pronto."
 
 # game/v9/scene02.rpy:91
 translate portuguese v9_start_apes_bce01907:
@@ -124,7 +124,7 @@ translate portuguese v9_start_apes_a1a79220:
 translate portuguese v9_start_apes_94e4c324:
 
     # u "Cammie *snickers*"
-    u "Cammie *risadinhas*"
+    u "Cammie *risadas*"
 
 # game/v9/scene02.rpy:116
 translate portuguese v9_start_apes_575489d5:
@@ -154,13 +154,13 @@ translate portuguese v9_start_apes_0bb7db1f:
 translate portuguese v9_start_apes_0d74e70c:
 
     # ca "Oh shut the fuck up."
-    ca "Oh cala a porra desa boca."
+    ca "Ah cala a porra desa boca."
 
 # game/v9/scene02.rpy:141
 translate portuguese v9_start_apes_b7218951:
 
     # ca "That's for the Freshman Brawl! It's gonna be epic!"
-    ca "Isso é a Briga dos Calouros! Vai ser épico!"
+    ca "Isso é da Briga dos Calouros! Vai ser épico!"
 
 # game/v9/scene02.rpy:146
 translate portuguese v9_start_apes_6848aa41:
@@ -178,7 +178,7 @@ translate portuguese v9_start_apes_9d50a3d7:
 translate portuguese v9_start_apes_4784812c:
 
     # ca "Better beef up or you won't stand a chance."
-    ca "É melhor se fortalecer ou você não terá nenhuma chance."
+    ca "É melhor malhar um pouco mais, se não você não tem a menor chance."
 
 # game/v9/scene02.rpy:159
 translate portuguese v9_start_apes_8fc2cb21:
@@ -202,7 +202,7 @@ translate portuguese v9_start_apes_b62174a2:
 translate portuguese v9_start_apes_4dfaff91:
 
     # ca "Yeah, and I expect you to wipe the floor with those pussy Wolves."
-    ca "Isso, e espero que você limpe o chão com esses Lobos boiolas."
+    ca "Isso aí, e espero que você limpe o chão com esses Lobos boiolas."
 
 # game/v9/scene02.rpy:181
 translate portuguese v9_start_apes_2b4feb02:
@@ -250,7 +250,7 @@ translate portuguese v9_start_apes_86aaa3ee:
 translate portuguese v9_start_apes_7d3c7542:
 
     # ca "Now go away so she can finish what she started."
-    ca "Agora vai embora para que ela poder acabar o que começou."
+    ca "Agora vai embora para ela terminar o que começou."
 
 # game/v9/scene02.rpy:221
 translate portuguese v9_start_apes_79a12648:
@@ -262,31 +262,31 @@ translate portuguese v9_start_apes_79a12648:
 translate portuguese v9_start_apes_5e0232ed:
 
     # ca "Saturday. Get to work!"
-    ca "No sábado. Agora ao trabalho!"
+    ca "No sábado. Agora vai malhar!"
 
 # game/v9/scene02.rpy:232
 translate portuguese v9_start_apes_79eb385d:
 
     # u "(Saturday? Oh, shit!)"
-    u "(Sábado? Oh, porra!)"
+    u "(Sábado? Que porra!)"
 
 # game/v9/scene02.rpy:242
 translate portuguese v9_start_apes_802268d8:
 
     # u "(Better amp up my workouts. Ryan too.)"
-    u "Melhor aumentar meus treinos. Ryan também.)"
+    u "(Melhor aumentar meus treinos. O Ryan também.)"
 
 # game/v9/scene02.rpy:257
 translate portuguese v9_phn_ryan1_a539245b:
 
     # u "(I should talk to Ryan.)"
-    u "Eu deveria falar com o Ryan.)"
+    u "(Eu deveria falar com o Ryan.)"
 
 # game/v9/scene02.rpy:262
 translate portuguese v9_phn_ryan1_cfe1d3a5:
 
     # u "(Freshman Brawl... sounds intense.)"
-    u "Briga dos calouros... parece intenso.)"
+    u "(Briga dos calouros... parece intenso.)"
 
 # game/v9/scene02.rpy:265
 translate portuguese v9_phn_ryan1_2c4978a8:
@@ -332,4 +332,4 @@ translate portuguese strings:
     
     # game/v9/scene02.rpy:251
     old "I think so, actually. You and Cameron really helped"
-    new "Acho que sim, na verdade. Você e Cameron realmente estão ajudando."
+    new "Acho que sim, na verdade. Você e o Cameron realmente estão ajudando."

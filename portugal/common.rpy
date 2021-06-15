@@ -636,155 +636,155 @@ translate portugal strings:
 
     # renpy/common/00iap.rpy:219
     old "Contacting App Store\nPlease Wait..."
-    new "Contactando a App Store\nPor favor espere..."
+    new "Contactando a App Store\nPor favor aguarde..."
 
     # renpy/common/00updater.rpy:374
     old "The Ren'Py Updater is not supported on mobile devices."
-    new ""
+    new "O atualizador Ren'Py não é suportado em dispositivos móveis."
 
     # renpy/common/00updater.rpy:496
     old "An error is being simulated."
-    new ""
+    new "Um erro está a ser simulado."
 
     # renpy/common/00updater.rpy:680
     old "Either this project does not support updating, or the update status file was deleted."
-    new ""
+    new "Ou este projeto não suporta atualizações, ou o arquivo de status da atualização foi deletado."
 
     # renpy/common/00updater.rpy:694
     old "This account does not have permission to perform an update."
-    new ""
+    new "Esta conta não tem permissão para fazer uma atualização."
 
     # renpy/common/00updater.rpy:697
     old "This account does not have permission to write the update log."
-    new ""
+    new "Esta conta não tem permissão para escrever a log de atualização."
 
     # renpy/common/00updater.rpy:724
     old "Could not verify update signature."
-    new ""
+    new "Não foi possivél verificar a assinatura da atualização."
 
     # renpy/common/00updater.rpy:995
     old "The update file was not downloaded."
-    new ""
+    new "O arquivo de atualização não foi baixado."
 
     # renpy/common/00updater.rpy:1013
     old "The update file does not have the correct digest - it may have been corrupted."
-    new ""
+    new "O arquivo de atualização não tem o resumo correto - pode ter sido corrompido."
 
     # renpy/common/00updater.rpy:1067
     old "While unpacking {}, unknown type {}."
-    new ""
+    new "Ao desempacotar {}, tipo desconhecido {}."
 
     # renpy/common/00updater.rpy:1433
     old "Updater"
-    new ""
+    new "Atualizador"
 
     # renpy/common/00updater.rpy:1440
     old "An error has occured:"
-    new ""
+    new "Ocorreu um erro:"
 
     # renpy/common/00updater.rpy:1442
     old "Checking for updates."
-    new ""
+    new "Verificando por atualizações."
 
     # renpy/common/00updater.rpy:1444
     old "This program is up to date."
-    new ""
+    new "Este programa está atualizado."
 
     # renpy/common/00updater.rpy:1446
     old "[u.version] is available. Do you want to install it?"
-    new ""
+    new "[u.version] está disponível. Queres instalá-la?"
 
     # renpy/common/00updater.rpy:1448
     old "Preparing to download the updates."
-    new ""
+    new "Preparando para baixar as atualizações."
 
     # renpy/common/00updater.rpy:1450
     old "Downloading the updates."
-    new ""
+    new "Baixando as atualizações."
 
     # renpy/common/00updater.rpy:1452
     old "Unpacking the updates."
-    new ""
+    new "A desempacotar as atualizações."
 
     # renpy/common/00updater.rpy:1454
     old "Finishing up."
-    new ""
+    new "Finalizando."
 
     # renpy/common/00updater.rpy:1456
     old "The updates have been installed. The program will restart."
-    new ""
+    new "As atualizações foram instaladas. O programa vai reiniciar."
 
     # renpy/common/00updater.rpy:1458
     old "The updates have been installed."
-    new ""
+    new "As atualizações foram instaladas."
 
     # renpy/common/00updater.rpy:1460
     old "The updates were cancelled."
-    new ""
+    new "As atualizações foram canceladas."
 
     # renpy/common/00updater.rpy:1475
     old "Proceed"
-    new ""
+    new "Proceder"
 
     # renpy/common/00compat.rpy:313
     old "Fullscreen"
-    new ""
+    new "Tela-cheia"
 
     # renpy/common/00gallery.rpy:590
     old "Image [index] of [count] locked."
-    new ""
+    new "Imagem [index] de [count] bloqueada."
 
     # renpy/common/00gallery.rpy:610
     old "prev"
-    new ""
+    new "anterior"
 
     # renpy/common/00gallery.rpy:611
     old "next"
-    new ""
+    new "próximo"
 
     # renpy/common/00gallery.rpy:612
     old "slideshow"
-    new ""
+    new "slideshow"
 
     # renpy/common/00gallery.rpy:613
     old "return"
-    new ""
+    new "retornar"
 
     # renpy/common/00gltest.rpy:89
     old "Renderer"
-    new ""
+    new "Renderer"
 
     # renpy/common/00gltest.rpy:93
     old "Automatically Choose"
-    new ""
+    new "Escolher Automaticamente"
 
     # renpy/common/00gltest.rpy:100
     old "Force GL Renderer"
-    new ""
+    new "Forçar GL Renderer"
 
     # renpy/common/00gltest.rpy:105
     old "Force ANGLE Renderer"
-    new ""
+    new "Forçar ANGLE Renderer"
 
     # renpy/common/00gltest.rpy:110
     old "Force GLES Renderer"
-    new ""
+    new "Forçar GLES Renderer"
 
     # renpy/common/00gltest.rpy:116
     old "Force GL2 Renderer"
-    new ""
+    new "Forçar GL2 Renderer"
 
     # renpy/common/00gltest.rpy:121
     old "Force ANGLE2 Renderer"
-    new ""
+    new "Forçar ANGLE2 Renderer"
 
     # renpy/common/00gltest.rpy:126
     old "Force GLES2 Renderer"
-    new ""
+    new "Forçar GLES2 Renderer"
 
     # renpy/common/00gltest.rpy:136
     old "Enable (No Blocklist)"
-    new ""
+    new "Habilitar (Sem Blocklist)"
 
     # renpy/common/00gltest.rpy:140
     old "Enable"

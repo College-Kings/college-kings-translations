@@ -142,7 +142,7 @@ translate portuguese walk_home_hosp_16646f84:
 translate portuguese walk_home_hosp_ec8037ef:
 
     # se "Some Wolves take pride in their strength and some in being attractive."
-    se "Alguns Lobos se orgulham da força e outros da belza."
+    se "Alguns Lobos se orgulham da força e outros da beleza."
 
 # game/v8/scene41.rpy:135
 translate portuguese walk_home_hosp_72eab10c:

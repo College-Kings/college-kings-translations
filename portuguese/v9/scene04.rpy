@@ -4,13 +4,13 @@
 translate portuguese v9_dream_fd4bfdf4:
 
     # u "Hello? Anyone here?"
-    u "Olá? Alguém aqui?"
+    u "Olá? Tem alguém aqui?"
 
 # game/v9/scene04.rpy:28
 translate portuguese v9_dream_bbc0e946:
 
     # u "(Where is this place?)"
-    u "(Onde fica este lugar?)"
+    u "(Onde eu tô?)"
 
 # game/v9/scene04.rpy:36
 translate portuguese v9_dream_8fa635fb:
@@ -22,7 +22,7 @@ translate portuguese v9_dream_8fa635fb:
 translate portuguese v9_dream_a2e6bbaa:
 
     # u "(Awesome!)"
-    u "(Fantástico!)"
+    u "(Maravilha!)"
 
 # game/v9/scene04.rpy:44
 translate portuguese v9_dream_e7e43e90:
@@ -40,7 +40,7 @@ translate portuguese v9_dream_46542d29:
 translate portuguese v9_dream_c332942c:
 
     # u "Whoa!"
-    u "Uau!"
+    u "Nossa!"
 
 # game/v9/scene04.rpy:92
 translate portuguese v9_dream_wolves_2ab69988:
@@ -58,37 +58,37 @@ translate portuguese v9_dream_wolves_1b749a57:
 translate portuguese v9_dream_wolves_dd24ca14:
 
     # pe "Lookin' sexy [name]!"
-    pe "Está muito sexy aí [name]!"
+    pe "Você tá lindo [name]!"
 
 # game/v9/scene04.rpy:155
 translate portuguese v9_dream_wolves_8bdb5ed3:
 
     # u "(Huh?)"
-    u "(Huh?)"
+    u "(Ahn?)"
 
 # game/v9/scene04.rpy:160
 translate portuguese v9_dream_wolves_0ce94309:
 
     # u "(Are they booing me? I'll show them.)"
-    u "(Eles estão me vaiando? Vou mostrar pra eles)."
+    u "(Eles estão me vaiando? Vou mostrar pra eles.)"
 
 # game/v9/scene04.rpy:166
 translate portuguese v9_dream_wolves_c3ff7ee0:
 
     # u "(Now we're talking!)"
-    u "(Agora estamos conversando!)"
+    u "(Agora sim porra!)"
 
 # game/v9/scene04.rpy:170
 translate portuguese v9_dream_wolves_388a6938:
 
     # u "(Come on, [name], let's give 'em a good show.)"
-    u "(Vamos lá, [name], vamos dar pra eles um bom show.)"
+    u "(Vamos lá, [name], é hora do show porra!)"
 
 # game/v9/scene04.rpy:174
 translate portuguese v9_dream_wolves_3f9a49b1:
 
     # ch "Who do you wanna fight [name]? Ryan or Caleb?"
-    ch "Com quem você quer lutar [name]? Ryan ou Caleb?"
+    ch "Contra quem você quer lutar [name]? Ryan ou Caleb?"
 
 # game/v9/scene04.rpy:180
 translate portuguese v9_dream_wolves_aa8042d4:
@@ -106,13 +106,13 @@ translate portuguese v9_dream_wolves_9e03b250:
 translate portuguese v9_dream_wolves_d42ac66f:
 
     # pe "My grandma can hit harder than that! *Laughs*"
-    pe "Minha avó pode bater com mais força que isso! *Risos*"
+    pe "Minha avó bate mais forte que isso! *Risos*"
 
 # game/v9/scene04.rpy:225
 translate portuguese v9_dream_wolves_581b0a50:
 
     # ch "I told you guys we shouldn't have let him into the Wolves. He's gonna lose the whole thing for us."
-    ch "Eu disse que não deveríamos ter deixado ele entrar nos Lobos. Ele vai perder tudo pra nós."
+    ch "Eu disse que não deveríamos ter deixado ele se juntar aos Lobos. Ele vai perder tudo pra nós."
 
 # game/v9/scene04.rpy:234
 translate portuguese v9_dream_wolves_94bc228c:
@@ -130,13 +130,13 @@ translate portuguese v9_dream_wolves_9e03b250_1:
 translate portuguese v9_dream_wolves_d42ac66f_1:
 
     # pe "My grandma can hit harder than that! *Laughs*"
-    pe "Minha avó pode bater com mais forte que isso! *Risos"
+    pe "Minha avó bate mais forte que isso! *Risos*"
 
 # game/v9/scene04.rpy:279
 translate portuguese v9_dream_wolves_581b0a50_1:
 
     # ch "I told you guys we shouldn't have let him into the Wolves. He's gonna lose the whole thing for us."
-    ch "Eu disse que não devíamos ter deixado ele entrar nos Lobos. Ele vai perder tudo para nós."
+    ch "Eu disse que não deveríamos ter deixado ele se juntar aos Lobos com a gente. Ele vai perder tudo pra nós."
 
 # game/v9/scene04.rpy:285
 translate portuguese v9_dream_wolves_38abafaf:
@@ -148,7 +148,7 @@ translate portuguese v9_dream_wolves_38abafaf:
 translate portuguese v9_dream_wolves_ce44d44e:
 
     # u "(Fuck! Let's turn this mess around, [name]!)"
-    u "(Porra! Vamos revidar essa confusão, [name]!)"
+    u "(Porra! Hora de mostrar como é que se faz, [name]!)"
 
 # game/v9/scene04.rpy:299
 translate portuguese v9_dream_wolves_5166d29a:
@@ -172,7 +172,7 @@ translate portuguese v9_dream_wolves_27737a0a:
 translate portuguese v9_dream_wolves_cbfd6610:
 
     # la "You risked our relationship to join a fighting frat and you aren't even GOOD at it? What the hell?"
-    la "Você arriscou nossa relação para se juntar a uma fraternidade de luta e você nem é BOM nisso? Mas que diabos?"
+    la "Você arriscou nossa relação para se juntar a uma fraternidade de luta e você nem é BOM nisso? Mas que inferno?"
 
 # game/v9/scene04.rpy:313
 translate portuguese v9_dream_wolves_5944bfd1:
@@ -190,7 +190,7 @@ translate portuguese v9_dream_wolves_3fb90807:
 translate portuguese v9_dream_wolves_10ed4aac:
 
     # u "Wake up, [name]. WAKE UP!"
-    u "Acorde, [name]. ACORDE!"
+    u "Acorda, [name]. ACORDA!"
 
 # game/v9/scene04.rpy:338
 translate portuguese v9_dream_apes_15046b1d:
@@ -214,7 +214,7 @@ translate portuguese v9_dream_apes_83a3330a:
 translate portuguese v9_dream_apes_8bdb5ed3:
 
     # u "(Huh?)"
-    u "(Huh?)"
+    u "(Ahn?)"
 
 # game/v9/scene04.rpy:406
 translate portuguese v9_dream_apes_0ce94309:
@@ -226,7 +226,7 @@ translate portuguese v9_dream_apes_0ce94309:
 translate portuguese v9_dream_apes_c3ff7ee0:
 
     # u "(Now we're talking!)"
-    u "(Agora estamos conversando!)"
+    u "(Agora estamos falando!)"
 
 # game/v9/scene04.rpy:416
 translate portuguese v9_dream_apes_388a6938:
@@ -238,7 +238,7 @@ translate portuguese v9_dream_apes_388a6938:
 translate portuguese v9_dream_apes_07d04bb1:
 
     # gr "Whose ass you wanna beat [name]? Imre or Perry?"
-    gr "Quem você quer bater [name]? Imre ou Perry?"
+    gr "Em quem você quer bater [name]? No Imre ou Perry?"
 
 # game/v9/scene04.rpy:426
 translate portuguese v9_dream_apes_65f98d87:
@@ -256,13 +256,13 @@ translate portuguese v9_dream_apes_551c4506:
 translate portuguese v9_dream_apes_525c2ae1:
 
     # ri "My grandma can hit harder than that! *Laughs*"
-    ri "Minha avó pode bater com mais força que isso! *Risos*"
+    ri "Minha avó bate mais forte que você! *Risos*"
 
 # game/v9/scene04.rpy:471
 translate portuguese v9_dream_apes_18b663da:
 
     # gr "I made a huge mistake letting this guy into the Apes. He's gonna lose the whole thing for us."
-    gr "Eu cometi um grande erro ao deixar este cara se juntar aos Gorilas. Ele vai perder tudo para nós."
+    gr "Eu cometi um grande erro ao deixar este cara se juntar aos Gorilas com a gente. Ele vai perder tudo pra nós porra."
 
 # game/v9/scene04.rpy:480
 translate portuguese v9_dream_apes_76e839c7:
@@ -280,25 +280,25 @@ translate portuguese v9_dream_apes_551c4506_1:
 translate portuguese v9_dream_apes_525c2ae1_1:
 
     # ri "My grandma can hit harder than that! *Laughs*"
-    ri "Minha avó pode bater com mais forte que isso! *Risos"
+    ri "Minha avó bate mais forte que você! *Risos*"
 
 # game/v9/scene04.rpy:525
 translate portuguese v9_dream_apes_18b663da_1:
 
     # gr "I made a huge mistake letting this guy into the Apes. He's gonna lose the whole thing for us."
-    gr "Eu cometi um grande erro ao deixar este cara se juntar aos Gorilas. Ele vai perder tudo para nós."
+    gr "Eu cometi um grande erro ao deixar este cara se juntar aos Gorilas com a gente. Ele vai perder tudo pra nós porra."
 
 # game/v9/scene04.rpy:531
 translate portuguese v9_dream_apes_26c66330:
 
     # ri "Never letting a pussy like that near mine."
-    ri "Nunca vou deixar uma bicha como ele perto de mim."
+    ri "Nunca vou deixar um bichinha que nem ele chegar perto de mim."
 
 # game/v9/scene04.rpy:532
 translate portuguese v9_dream_apes_ce44d44e:
 
     # u "(Fuck! Let's turn this mess around, [name]!)"
-    u "(Porra! Vamos revidar essa bagunça, [name]!)"
+    u "(Porra! Vamos mostrar como é que se faz [name]!)"
 
 # game/v9/scene04.rpy:545
 translate portuguese v9_dream_apes_5166d29a:
@@ -322,7 +322,7 @@ translate portuguese v9_dream_apes_27737a0a:
 translate portuguese v9_dream_apes_cbfd6610:
 
     # la "You risked our relationship to join a fighting frat and you aren't even GOOD at it? What the hell?"
-    la "Você arriscou nossa relação para se juntar a uma fraternidade de luta e você nem é BOM nisso? Mas que diabos?"
+    la "Você arriscou nossa relação para se juntar a uma fraternidade de luta e você nem é BOM nisso? Mas que inferno?"
 
 # game/v9/scene04.rpy:559
 translate portuguese v9_dream_apes_5944bfd1:
@@ -340,7 +340,7 @@ translate portuguese v9_dream_apes_3fb90807:
 translate portuguese v9_dream_apes_10ed4aac:
 
     # u "Wake up, [name]. WAKE UP!"
-    u "Acorde, [name]. ACORDE!"
+    u "Acorda, [name]. ACORDA!"
 
 translate portuguese strings:
 
