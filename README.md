@@ -63,7 +63,7 @@ v10 files | 0/41 | - | [ ] | -
 ### portugal
 Progress | ?/all | Who is working on it? | Proofreading | Who is proofreading?
 -------- | -------- | --------- | --------- | ---------
-non script files | 4/6 | Differ | [ ] | -
+non script files | 5/6 | Differ | [ ] | -
 v01.rpy | 0/5225 | Alberto74 | [ ] | -
 v02.rpy | 0/4221 | - | [ ] | -
 v03.rpy | 0/3636 | - | [ ] | -
