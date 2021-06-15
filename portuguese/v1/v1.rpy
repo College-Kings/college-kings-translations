@@ -4894,7 +4894,7 @@ translate portuguese bf_bd_e537814b:
 translate portuguese bf_bd_7ac7107d:
 
     # u "The part where he grabs her head like this..."
-    u "A parte em que ele segura o pescoço dela assim..."
+    u "A parte em que ele segura a cabeça dela assim..."
 
 # game/v1/v1.rpy:4120
 translate portuguese bf_bd_00ea65c1:
@@ -5096,7 +5096,7 @@ translate portuguese strings:
 
     # game/v1/v1.rpy:2042
     old "Wake up"
-    new "Acorda"
+    new "Acordar"
 
     # game/v1/v1.rpy:2065
     old "Blowjob"
@@ -5277,13 +5277,13 @@ translate portuguese v1_nsfwSkipLabel1_a4e65bca:
 translate portuguese v1_nsfwSkipLabel1_bc780cd5:
 
     # u "(I wish I could sleep some more, but I gotta get to class.)"
-    u "(Bem que eu queria dormir um pouco mais, mas é hora da aula.)"
+    u "(Bem que eu queria dormir um pouco mais, mas tenho que ir pra aula.)"
 
 # game/v1/v1.rpy:2259
 translate portuguese v1_nsfwSkipLabel1_58bcf408:
 
     # u "(I just hope I don't get a boner whenever I see Riley from now on.)"
-    u "(Só espero não ficar de pau duro quando ver a Riley.)"
+    u "(Só espero não ficar de pau duro toda vez que eu ver a Riley de agora em diante.)"
 
 # game/v1/v1.rpy:2264
 translate portuguese v1_nsfwSkipLabel1_14945e9c:
@@ -5295,13 +5295,13 @@ translate portuguese v1_nsfwSkipLabel1_14945e9c:
 translate portuguese v1_nsfwSkipLabel1_e4826232:
 
     # u "(Okay I need to be cool, even though all I can think about is my dream.)"
-    u "(Tá, cabeça fria... Mesmo que eu só consigo imaginar meu sonho olhando pra ela.)"
+    u "(Tá, eu preciso ficar de boa, mesmo que eu só consiga pensar no meu sonho.)"
 
 # game/v1/v1.rpy:2271
 translate portuguese v1_nsfwSkipLabel1_bc2b59a3:
 
     # u "Oh, so you decided to join the cool club."
-    u "Então você decidiu se unir à turma..."
+    u "Então você decidiu se unir à turma do fundão."
 
 # game/v1/v1.rpy:2273
 translate portuguese v1_nsfwSkipLabel1_3d757de2:
@@ -5313,7 +5313,7 @@ translate portuguese v1_nsfwSkipLabel1_3d757de2:
 translate portuguese v1_nsfwSkipLabel1_2ef1e622:
 
     # ri "Imre doesn't need to take economics for his course and Lauren, I don't know."
-    ri "O Imre não tem aula de economia, mas a Lauren eu não sei."
+    ri "O Imre não precisa fazer aula de economia pro curso dele, e a Lauren eu não sei."
 
 # game/v1/v1.rpy:2283
 translate portuguese v1_nsfwSkipLabel1_11e687d4:
@@ -5337,7 +5337,7 @@ translate portuguese v1_nsfwSkipLabel1_4681d0cd:
 translate portuguese v1_nsfwSkipLabel1_d995568b:
 
     # u "(Alright [name], just forget about it and go to class.)"
-    u "(Tá [name], foco na aula, esquece o sonho.)"
+    u "(Tá [name], apenas esqueça aquele sonho e bora pra aula.)"
 
 # game/v1/v1.rpy:2300
 translate portuguese v1_nsfwSkipLabel1_14945e9c_1:
@@ -5355,7 +5355,7 @@ translate portuguese v1_nsfwSkipLabel1_e30ca600:
 translate portuguese v1_nsfwSkipLabel1_bc2b59a3_1:
 
     # u "Oh, so you decided to join the cool club."
-    u "Então você decidiu se juntar aos descolados."
+    u "Então você decidiu se juntar ao clube do fundão."
 
 # game/v1/v1.rpy:2309
 translate portuguese v1_nsfwSkipLabel1_3d757de2_1:
@@ -5367,13 +5367,13 @@ translate portuguese v1_nsfwSkipLabel1_3d757de2_1:
 translate portuguese v1_nsfwSkipLabel1_2ef1e622_1:
 
     # ri "Imre doesn't need to take economics for his course and Lauren, I don't know."
-    ri "O Imre não tem aula de economia, mas a Lauren eu não faço ideia."
+    ri "O Imre não precisa fazer aula de economia pro curso dele, e a Lauren eu não sei."
 
 # game/v1/v1.rpy:2319
 translate portuguese v1_nsfwSkipLabel1_94e176e5:
 
     # u "Hey, man."
-    u "Salve cara."
+    u "Eae, cara."
 
 # game/v1/v1.rpy:2324
 translate portuguese v1_nsfwSkipLabel1_bf8b44bf:
@@ -5391,13 +5391,13 @@ translate portuguese v1_nsfwSkipLabel1_181605ef:
 translate portuguese v1_nsfwSkipLabel1_85669b89:
 
     # ry "You know, 'cause the class is boring as shit, but at least the teacher's hot."
-    ry "Sacumé né? A aula é uma merda, mas a prof é gostosa pelo menos."
+    ry "Sacumé né? A aula é uma merda, mas pelo menos a professora é gostosa."
 
 # game/v1/v1.rpy:2338
 translate portuguese v1_nsfwSkipLabel1_b1111477:
 
     # u "(He does have a point...)"
-    u "(Não vejo falhas nessa lógica...)"
+    u "(Errado ele não tá...)"
 
 # game/v1/v1.rpy:2342
 translate portuguese v1_nsfwSkipLabel1_0d8a871b:
@@ -5415,7 +5415,7 @@ translate portuguese v1_nsfwSkipLabel1_51bd3b81:
 translate portuguese v1_nsfwSkipLabel1_837b269b:
 
     # la "Sorry! My roommate thought it'd be a good \"prank\" to steal my phone, so that I couldn't hear my alarm."
-    la "Desculpe! Minha colega de quarto achou que seria uma boa \"brincadeira\" esconder meu celular pra eu não escutar o despertador."
+    la "Desculpe! Minha colega de quarto achou que seria uma boa \"pegadinha\" roubar meu celular para que eu não escutasse o despertador."
 
 # game/v1/v1.rpy:2356
 translate portuguese v1_nsfwSkipLabel1_12e4809a:
@@ -5427,25 +5427,25 @@ translate portuguese v1_nsfwSkipLabel1_12e4809a:
 translate portuguese v1_nsfwSkipLabel1_df034c84:
 
     # ro "Just sit down, so that we can get started on the material."
-    ro "Agora sente e vamos continuar."
+    ro "Agora sente-se para que possamos começar a aula."
 
 # game/v1/v1.rpy:2388
 translate portuguese v1_nsfwSkipLabel1_67438110:
 
     # ry "This class is so damn boring..."
-    ry "Essa aula é chata demais..."
+    ry "Essa aula é chata pra cacete..."
 
 # game/v1/v1.rpy:2393
 translate portuguese v1_nsfwSkipLabel1_4b2fe8eb:
 
     # ri "Agreed. Also Ms. Rose offers no chances to show that we've actually done the prereading."
-    ri "Com certeza. A Prof. Rose não dá nenhuma oportunidades pra gente mostrar que estudou antes da aula."
+    ri "Com certeza. A Prof. Rose não dá nenhuma oportunidade para mostrarmos que fizemos uma pré-leitura do material."
 
 # game/v1/v1.rpy:2396
 translate portuguese v1_nsfwSkipLabel1_791da076:
 
     # ry "Yeah, 'cause she knows that no one actually does that shit anyways."
-    ry "Pois é, porque ela sabe que ninguém dá a mínima pra essa merda."
+    ry "Pois é, porque ela sabe que ninguém fez porra nenhuma mesmo."
 
 # game/v1/v1.rpy:2399
 translate portuguese v1_nsfwSkipLabel1_e657be0a:
@@ -5475,31 +5475,31 @@ translate portuguese v1_nsfwSkipLabel1_d3ff7f61:
 translate portuguese v1_nsfwSkipLabel1_506d7ec7:
 
     # la "Haha definitely, I'm sure Imre would looove to swap rooms with me."
-    la "Haha claro, tenho certeza que o Imre ia amaarr trocar de quarto comigo."
+    la "Haha claro, tenho certeza que o Imre ia amaaar trocar de quarto comigo."
 
 # game/v1/v1.rpy:2423
 translate portuguese v1_nsfwSkipLabel1_2710e99d:
 
     # la "It's fine, it was just such a bad start to the day. I really didn't wanna be late to my first real class."
-    la "Não faz mal, foi só um mau começo de dia. Eu realmente não queria chegar atrasada na minha primeira aula."
+    la "Não faz mal, foi só uma forma ruim de começar o dia. Eu realmente não queria chegar atrasada na minha primeira aula."
 
 # game/v1/v1.rpy:2427
 translate portuguese v1_nsfwSkipLabel1_2859616e:
 
     # u "How about we go to the park this afternoon? I'll bring some sandwiches and we'll make your day better."
-    u "Que tal se a gente der uma volta no parque hoje a tarde? Eu levo alguns sanduíches e vamos aproveitar o dia."
+    u "Que tal se a gente der uma volta no parque hoje à tarde? Eu levo alguns sanduíches e deixaremos seu dia melhor."
 
 # game/v1/v1.rpy:2434
 translate portuguese v1_nsfwSkipLabel1_6697ce3f:
 
     # u "I get that, bad roommates suck."
-    u "Tô ligado, colegas de quarto podem ser um saco."
+    u "Tô ligado, colegas de quarto ruins são uma merda."
 
 # game/v1/v1.rpy:2439
 translate portuguese v1_nsfwSkipLabel1_5f044275:
 
     # la "It was just such a bad start into the day. I really didn't wanna be late to my first real class."
-    la "Foi como acordar com o pé esquerdo. Eu realmente não queria me atrasar na primeira aula."
+    la "Foi só uma forma ruim de começar o dia. Eu realmente não queria chegar atrasada na minha primeira aula."
 
 # game/v1/v1.rpy:2443
 translate portuguese v1_nsfwSkipLabel1_2859616e_1:
@@ -5511,4 +5511,4 @@ translate portuguese strings:
 
     # game/v1/v1.rpy:1682
     old "You're missing out."
-    new "Quem perde é você"
+    new "Você é quem tá perdendo"
