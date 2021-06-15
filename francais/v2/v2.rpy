@@ -1,4 +1,13 @@
 ﻿# TODO: Translation updated at 2021-06-05 20:30
+# WTF Copy of previous ??? Dupplication of code ??? Can't you use enums to index sentences in a table ?
+# C like code :
+# char* vSentencesTable[][] = {{ "Sentence0", "Sentence1", "Sentence2" }, { "Phrase0", "Phrase1", "Phrase2" }/*, {...}*/;};
+# enum Languages( English=0, French, AnyOther; )
+# enum Sentences{ Sentence0=0, Sentence1, Sentence2; };
+# //in the code :
+# vSentencesTable[Languages::English][Sentences::Sentence0]
+# //or
+# vSentencesTable[Languages::French][vIntIndex]
 
 # game/v2/v2.rpy:85
 translate francais v2start_1bba6b51:
@@ -124,7 +133,7 @@ translate francais v2start_0b7c44c3:
 translate francais v2start_a27d90a3:
 
     # imre "You're being stupid, man. Whatever, suit yourself."
-    imre "T'est con, mec. Quoi qu'il en soit, arrangez vous entre vous."
+    imre "T'est con, mec. Quoi qu'il en soit, fait comme tu le sent."
 
 # game/v2/v2.rpy:214
 translate francais bjj_bd_9ea2f78c:
@@ -214,13 +223,13 @@ translate francais v1_tomShoutBack_a3367190:
 translate francais v1_tomShoutBack_d1389188:
 
     # tom "You heard me. You're a fucking bitch that tried to cockblock me."
-    tom "Tu m'a bien entendu. Tu es une putain de salope qui a essayé de me casser la baraque."
+    tom "Tu m'a bien entendu. Tu es une putain de salope qui a essayé de me casser un coup."
 
 # game/v2/v2.rpy:297
 translate francais v1_tomShoutBack_d84467b5:
 
     # u "Dude, she wanted to talk to me. She was happy that you left. You bored her."
-    u "Gars, elle voulait me parler. Elle était contente que tu sois parti. Tu l'emerdais."
+    u "Gars, elle voulait me parler. Elle était contente que tu sois parti. Tu l'emerdais avec tes histoires de cailloux."
 
 # game/v2/v2.rpy:306
 translate francais v1_tomShoutBack_8fff8082:
@@ -341,15 +350,6 @@ translate francais tomtut1jab_1e5dc8ea:
 
     # tut "Now it's time to block Tom's attack."
     tut "Il est maintenant temps de bloquer l'attaque de Tom."
-
-# WTF Copy of previous ??? Dupplication of code ??? Can't you use enums to index sentences in a table ?
-# C like code :
-# char* vSentencesTable[] = { "Sentence0", "Sentence1", "Sentence2" };
-# enum Sentences{ Sentence0=0, Sentence1, Sentence2 };
-# //in the code :
-# vSentencesTable[Sentences::Sentence0]
-# //or
-# vSentencesTable[vIntIndex]
 
 # game/v2/v2.rpy:413
 translate francais tomtut1jab_d4a34b79:
@@ -487,7 +487,7 @@ translate francais meet_lauren2_379acf5e:
 translate francais meet_lauren2_df593ecf:
 
     # u "Some asshole punched me in the face at the Apes' rush party last night."
-    u "Un connard m'a frappé au visage à la fête rapide des Apes hier soir."
+    u "Un trou du cul m'a frappé au visage à la fête des nouveaux des Apes hier soir."
 
 # game/v2/v2.rpy:1150
 translate francais meet_lauren2_e214d6bc:
