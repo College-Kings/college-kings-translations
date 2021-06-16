@@ -984,3 +984,39 @@ translate czech v9s16_nsfwSkipLabel1_42ecfd01:
     # em "I know."
     em ""
 
+# TODO: Translation updated at 2021-06-16 12:58
+
+# game/v9/scene16.rpy:319
+translate czech v9_emily_dorm_1daa7a41:
+
+    # u "(This feels like the right time)"
+    u ""
+
+# game/v9/scene16.rpy:325
+translate czech v9_emily_dorm_3d7f8274:
+
+    # u "Anyways, i should probably head home."
+    u ""
+
+# game/v9/scene16.rpy:420
+translate czech v9_emily_dorm_1daa7a41_1:
+
+    # u "(This feels like the right time)"
+    u ""
+
+# game/v9/scene16.rpy:425
+translate czech v9_emily_dorm_3d7f8274_1:
+
+    # u "Anyways, i should probably head home."
+    u ""
+
+translate czech strings:
+
+    # game/v9/scene16.rpy:317
+    old "Make A Move On Emily"
+    new ""
+
+    # game/v9/scene16.rpy:317
+    old "Head home"
+    new ""
+

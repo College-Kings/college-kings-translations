@@ -19042,3 +19042,23 @@ translate turkish strings:
     old "Wohoo!"
     new ""
 
+# TODO: Translation updated at 2021-06-16 12:55
+
+translate turkish strings:
+
+    # game/v7/v7.rpy:1369
+    old "Omg beautiful!"
+    new ""
+
+    # game/v7/v7.rpy:1376
+    old "Holy hell... gorgeous Aubs!"
+    new ""
+
+    # game/v7/v7.rpy:1377
+    old "Most beautiful girl in the world <3"
+    new ""
+
+    # game/v7/v7.rpy:5495
+    old "Woohoo!"
+    new ""
+

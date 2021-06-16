@@ -927,3 +927,75 @@ translate portuguese strings:
     # game/v9/scene16.rpy:813
     old "I'm ok, it's really not that bad"
     new "Estou bem, realmente não é tão ruim assim."
+# TODO: Translation updated at 2021-06-16 12:56
+
+# game/v9/scene16.rpy:319
+translate portuguese v9_emily_dorm_1daa7a41:
+
+    # u "(This feels like the right time)"
+    u ""
+
+# game/v9/scene16.rpy:325
+translate portuguese v9_emily_dorm_3d7f8274:
+
+    # u "Anyways, i should probably head home."
+    u ""
+
+# game/v9/scene16.rpy:420
+translate portuguese v9_emily_dorm_1daa7a41_1:
+
+    # u "(This feels like the right time)"
+    u ""
+
+# game/v9/scene16.rpy:425
+translate portuguese v9_emily_dorm_3d7f8274_1:
+
+    # u "Anyways, i should probably head home."
+    u ""
+
+# game/v9/scene16.rpy:790
+translate portuguese v9s16_nsfwSkipLabel1_ccd53b23:
+
+    # u "Thank you."
+    u ""
+
+# game/v9/scene16.rpy:795
+translate portuguese v9s16_nsfwSkipLabel1_0c8f2d0e:
+
+    # em "Thank you. You heading out?"
+    em ""
+
+# game/v9/scene16.rpy:800
+translate portuguese v9s16_nsfwSkipLabel1_08365825:
+
+    # u "You really did knock me out. I better get to my room."
+    u ""
+
+# game/v9/scene16.rpy:805
+translate portuguese v9s16_nsfwSkipLabel1_d41a0781:
+
+    # em "Alright. I'll talk to you tomorrow."
+    em ""
+
+# game/v9/scene16.rpy:810
+translate portuguese v9s16_nsfwSkipLabel1_094f3c8d:
+
+    # u "You really were amazing."
+    u ""
+
+# game/v9/scene16.rpy:815
+translate portuguese v9s16_nsfwSkipLabel1_42ecfd01:
+
+    # em "I know."
+    em ""
+
+translate portuguese strings:
+
+    # game/v9/scene16.rpy:317
+    old "Make A Move On Emily"
+    new ""
+
+    # game/v9/scene16.rpy:317
+    old "Head home"
+    new ""
+

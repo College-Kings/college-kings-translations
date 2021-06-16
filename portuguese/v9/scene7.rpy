@@ -1542,3 +1542,107 @@ translate portuguese strings:
     # game/v9/scene7.rpy:776
     old "Join her"
     new "Ir pra dentro da água com ela."
+# TODO: Translation updated at 2021-06-16 12:56
+
+# game/v9/scene7.rpy:1039
+translate portuguese v9s7_nsfwSkipLabel1_9f16ac2e:
+
+    # au "Wow, you keep on surprising me, [name]."
+    au ""
+
+# game/v9/scene7.rpy:1044
+translate portuguese v9s7_nsfwSkipLabel1_22a23130:
+
+    # u "One could say I'm full of surprises. But I think I just know how to figure out people I care about."
+    u ""
+
+# game/v9/scene7.rpy:1049
+translate portuguese v9s7_nsfwSkipLabel1_b8a5652a:
+
+    # au "Oh, so you care about me?"
+    au ""
+
+# game/v9/scene7.rpy:1054
+translate portuguese v9s7_nsfwSkipLabel1_f39b9ab0:
+
+    # u "Oh, so I figured you out?"
+    u ""
+
+# game/v9/scene7.rpy:1059
+translate portuguese v9s7_nsfwSkipLabel1_719c02f1:
+
+    # au "I guess that is a double edged sword, ha."
+    au ""
+
+# game/v9/scene7.rpy:1064
+translate portuguese v9s7_nsfwSkipLabel1_dc207349:
+
+    # u "That's life. Like, do you think Ryan ever thought I would ruin his view by jumping in here?"
+    u ""
+
+# game/v9/scene7.rpy:1069
+translate portuguese v9s7_nsfwSkipLabel1_1e8acc57:
+
+    # au "What do you mean?"
+    au ""
+
+# game/v9/scene7.rpy:1074
+translate portuguese v9s7_nsfwSkipLabel1_26df9759:
+
+    # u "He's been staring at you ever since we came here."
+    u ""
+
+# game/v9/scene7.rpy:1079
+translate portuguese v9s7_nsfwSkipLabel1_b2efcf46:
+
+    # au "Well who could blame him?"
+    au ""
+
+# game/v9/scene7.rpy:1084
+translate portuguese v9s7_nsfwSkipLabel1_d0aa81a9:
+
+    # u "True."
+    u ""
+
+# game/v9/scene7.rpy:1089
+translate portuguese v9s7_nsfwSkipLabel1_384f6740:
+
+    # au "Ha, are you saying I'm hot?"
+    au ""
+
+# game/v9/scene7.rpy:1094
+translate portuguese v9s7_nsfwSkipLabel1_681cf30c:
+
+    # u "I'm not saying anything. But saying otherwise could be one lie over my weekly quota."
+    u ""
+
+# game/v9/scene7.rpy:1099
+translate portuguese v9s7_nsfwSkipLabel1_0c950894:
+
+    # au "Funny. Or should I say clever."
+    au ""
+
+# game/v9/scene7.rpy:1104
+translate portuguese v9s7_nsfwSkipLabel1_a638a690:
+
+    # u "Some would say both."
+    u ""
+
+# game/v9/scene7.rpy:1109
+translate portuguese v9s7_nsfwSkipLabel1_4895ddf9:
+
+    # au "Maybe, haha."
+    au ""
+
+# game/v9/scene7.rpy:1114
+translate portuguese v9s7_nsfwSkipLabel1_3e629aab:
+
+    # u "Well, I guess I should probably get out now. Explore the place a bit more, you know?"
+    u ""
+
+# game/v9/scene7.rpy:1119
+translate portuguese v9s7_nsfwSkipLabel1_e882ca6f:
+
+    # au "Alright, see you later."
+    au ""
+

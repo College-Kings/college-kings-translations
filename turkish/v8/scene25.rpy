@@ -72,3 +72,11 @@ translate turkish strings:
     old "Great!"
     new ""
 
+# TODO: Translation updated at 2021-06-16 12:55
+
+translate turkish strings:
+
+    # game/v8/scene25.rpy:14
+    old "Ugh someone save me pls"
+    new ""
+

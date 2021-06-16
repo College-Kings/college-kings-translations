@@ -970,3 +970,11 @@ translate francais strings:
     old "Copies the errors.txt file to the clipboard as Markdown for Discord."
     new "Copie le fichier error.txt dans le presse-papiers en tant que Markdown pour Discord."
 
+# TODO: Translation updated at 2021-06-16 12:58
+
+translate francais strings:
+
+    # renpy/common/00accessibility.rpy:128
+    old "Font Override"
+    new ""
+

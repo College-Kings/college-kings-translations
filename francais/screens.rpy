@@ -294,3 +294,11 @@ translate francais strings:
     old "Skipping"
     new "Passer"
 
+# TODO: Translation updated at 2021-06-16 12:58
+
+translate francais strings:
+
+    # game/screens.rpy:595
+    old "Q.Load"
+    new ""
+

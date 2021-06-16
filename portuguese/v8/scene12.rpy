@@ -718,3 +718,29 @@ translate portuguese strings:
     old "Just get to the task"
     new "Ir direto à tareda"
 
+# TODO: Translation updated at 2021-06-16 12:56
+
+# game/v8/scene12.rpy:133
+translate portuguese apes_join_ceremony_c1f7137f:
+
+    # ry "Woohoo!!!"
+    ry ""
+
+# game/v8/scene12.rpy:152
+translate portuguese apes_join_ceremony_c1f7137f_1:
+
+    # ry "Woohoo!!!"
+    ry ""
+
+# game/v8/scene12.rpy:192
+translate portuguese apes_join_ceremony_c1f7137f_2:
+
+    # ry "Woohoo!!!"
+    ry ""
+
+# game/v8/scene12.rpy:233
+translate portuguese apes_join_ceremony_c1f7137f_3:
+
+    # ry "Woohoo!!!"
+    ry ""
+

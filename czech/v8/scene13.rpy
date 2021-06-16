@@ -616,3 +616,63 @@ translate czech strings:
     old "Press it"
     new ""
 
+# TODO: Translation updated at 2021-06-16 12:58
+
+translate czech strings:
+
+    # game/v8/scene13.rpy:29
+    old "[name], Ryan and Caleb are the new proud Apes! I can see this fight season turning out well for us!"
+    new ""
+
+    # game/v8/scene13.rpy:31
+    old "And congrats to the prodigal son, [name], for getting the perfect score. Looks like somebody's coming for my throne!"
+    new ""
+
+    # game/v8/scene13.rpy:32
+    old "Apes baby! Woohoooo!!!"
+    new ""
+
+    # game/v8/scene13.rpy:33
+    old "GO APES!!!"
+    new ""
+
+    # game/v8/scene13.rpy:34
+    old "Congrats guys!"
+    new ""
+
+    # game/v8/scene13.rpy:36
+    old "Damn, perfect score? Would love to see you in action in the ring ;)"
+    new ""
+
+    # game/v8/scene13.rpy:38
+    old "Congrats guys! Couldn't be at the ceremony cause of some stupid shit :/"
+    new ""
+
+    # game/v8/scene13.rpy:39
+    old "So proud of you guys especially my man"
+    new ""
+
+    # game/v8/scene13.rpy:40
+    old "Yaayyy! Congrats"
+    new ""
+
+    # game/v8/scene13.rpy:42
+    old "Hmph ridiculous! Like those are the perfect scores that matter..."
+    new ""
+
+    # game/v8/scene13.rpy:43
+    old "Just shut the fuck up and never come back"
+    new ""
+
+    # game/v8/scene13.rpy:44
+    old "That is unless you want me to kick your ass, then of course knock yourself out"
+    new ""
+
+    # game/v8/scene13.rpy:45
+    old "Congrats people!!!"
+    new ""
+
+    # game/v8/scene13.rpy:46
+    old "Thanks everyone!"
+    new ""
+

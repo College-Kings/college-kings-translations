@@ -72,3 +72,11 @@ translate czech strings:
     old "Great!"
     new ""
 
+# TODO: Translation updated at 2021-06-16 12:58
+
+translate czech strings:
+
+    # game/v8/scene25.rpy:14
+    old "Ugh someone save me pls"
+    new ""
+
