@@ -300,5 +300,5 @@ translate francais strings:
 
     # game/screens.rpy:595
     old "Q.Load"
-    new ""
+    new "Chargement rapide"
 
