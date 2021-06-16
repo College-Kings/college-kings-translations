@@ -788,39 +788,39 @@ translate portugal strings:
 
     # renpy/common/00gltest.rpy:140
     old "Enable"
-    new ""
+    new "Habilitar"
 
     # renpy/common/00gltest.rpy:144
     old "Disable"
-    new ""
+    new "Desabilitar"
 
     # renpy/common/00gltest.rpy:159
     old "Powersave"
-    new ""
+    new "Economia de energia"
 
     # renpy/common/00gltest.rpy:173
     old "Framerate"
-    new ""
+    new "Taxa de quadros"
 
     # renpy/common/00gltest.rpy:177
     old "Screen"
-    new ""
+    new "Tela"
 
     # renpy/common/00gltest.rpy:181
     old "60"
-    new ""
+    new "60"
 
     # renpy/common/00gltest.rpy:185
     old "30"
-    new ""
+    new "30"
 
     # renpy/common/00gltest.rpy:191
     old "Tearing"
-    new ""
+    new "Tearing"
 
     # renpy/common/00gltest.rpy:207
     old "Changes will take effect the next time this program is run."
-    new ""
+    new "Mudanças ganharam efeito na próxima vez que este programa for aberto."
 
     # renpy/common/00gltest.rpy:242
     old "Performance Warning"
