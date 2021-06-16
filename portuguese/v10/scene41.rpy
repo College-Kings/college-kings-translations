@@ -64,7 +64,7 @@ translate portuguese v10_mc_pen_call_d32187da:
 translate portuguese v10_mc_pen_call_4df4e90d:
 
     # pe "*Sighs* Do you practice these speeches?"
-    pe "*SUspira* Você pratica esses discursos?"
+    pe "*Suspira* Você pratica esses discursos?"
 
 # game/v10/scene41.rpy:65
 translate portuguese v10_mc_pen_call_3ad3758a:
