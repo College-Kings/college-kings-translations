@@ -3515,7 +3515,7 @@ translate francais repeata_d30c9f28:
 translate francais repeata_bc926aec:
 
     # imre "Man, fuck the Apes! What do you want there anyways?!"
-    imre "Mec, Nique les Apes ! Qu'est-ce que tu veux trouver là-bas de toute façon ?!""
+    imre "Mec, Nique les Apes ! Qu'est-ce que tu veux trouver là-bas de toute façon ?!"
 
 # game/v1/v1.rpy:2951
 translate francais repeata_64306eee:
@@ -4972,7 +4972,6 @@ translate francais strings:
     # game/v1/v1.rpy:203
     old "Could be fun"
     new "Ça pourrait être amusant"
-"
 
     # game/v1/v1.rpy:437
     old "Flirt"
@@ -5064,7 +5063,7 @@ translate francais strings:
 
     # game/v1/v1.rpy:1430
     old "Just come to dorm 109 at 8"
-    new "Viens juste au dortoir 109 à 20:00
+    new "Viens juste au dortoir 109 à 20:00"
 
     # game/v1/v1.rpy:1431
     old "Okay, will do"

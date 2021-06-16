@@ -128,7 +128,7 @@ translate francais strings:
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Saturday"
-	new "{#weekday}Samedi"
+    new "{#weekday}Samedi"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Sunday"
@@ -196,7 +196,7 @@ translate francais strings:
 
     # renpy/common/00action_file.rpy:47
     old "{#month}September"
-	new "{#month}Septembre"
+    new "{#month}Septembre"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}October"

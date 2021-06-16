@@ -12,8 +12,7 @@ translate francais strings:
 
     # game/screens.rpy:348
     old "Quick saves"
-    new "
-Sauvegardes rapides"
+    new "Sauvegardes rapides"
 
     # game/screens.rpy:381
     old "{#file_time}%A, %B %d %Y, %H:%M"
@@ -229,7 +228,7 @@ Sauvegardes rapides"
 
     # game/screens.rpy:1508
     old "Takes a screenshot."
-    new "Prend une capture d'écran.
+    new "Prend une capture d'écran."
 
     # game/screens.rpy:1512
     old "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."

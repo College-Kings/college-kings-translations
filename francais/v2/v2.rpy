@@ -733,7 +733,7 @@ translate francais meet_lauren2_9ea2f78c_1:
 translate francais meet_lauren2_08180b4e:
 
     # la "I'm really glad to have you as a friend, [name]."
-	la "Je suis vraiment content de t'avoir comme ami, [name]."
+    la "Je suis vraiment content de t'avoir comme ami, [name]."
 
 # game/v2/v2.rpy:1347
 translate francais meet_lauren2_61cc3320:
