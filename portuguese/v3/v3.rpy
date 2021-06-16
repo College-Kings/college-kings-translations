@@ -22,7 +22,7 @@ translate portuguese v3start_c8fc4dc6:
 translate portuguese v3start_4ebd6072:
 
     # cl "Hey, uhm... Do you have a minute?"
-    cl "Oi, uhm... você tem um minutinho?"
+    cl "Oi, hmm... você tem um minutinho?"
 
 # game/v3/v3.rpy:30
 translate portuguese v3start_ed163feb:
@@ -3712,4 +3712,3 @@ translate portuguese strings:
     # game/v3/v3.rpy:3038
     old "I like her."
     new "Eu gosto dela."
-

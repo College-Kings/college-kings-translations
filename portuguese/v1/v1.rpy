@@ -166,7 +166,7 @@ translate portuguese starta_360e66fc:
 translate portuguese starta_2dac9d0e:
 
     # ju "You know, when I was in college, there were these fraternities and sororities that everyone wanted to join."
-    ju "Sabe, quando eu estava na faculdade, existia essas fraternidades e irmandades que todos queriam fazer parte."
+    ju "Sabe, quando eu estava na faculdade, existiam essas fraternidades e irmandades que todos queriam fazer parte."
 
 # game/v1/v1.rpy:188
 translate portuguese starta_ed7737e5:
@@ -538,7 +538,7 @@ translate portuguese ad_db_675e7bcc:
 translate portuguese ad_db_0608c281:
 
     # ry "Nice job being late on your first day, man."
-    ry "Belo trabalho se atrasando no primeiro dia, mano."
+    ry "Bom trabalho se atrasando no primeiro dia, mano."
 
 # game/v1/v1.rpy:510
 translate portuguese ad_db_8eb7f5ad:
@@ -892,7 +892,7 @@ translate portuguese af_db_ce23670f:
 translate portuguese af_db_7e0e7a51:
 
     # u "Only for the right girl."
-    u "Apenas para garota certa."
+    u "Apenas para a garota certa."
 
 # game/v1/v1.rpy:813
 translate portuguese af_db_128eaf78:
@@ -964,7 +964,7 @@ translate portuguese aj_db_cc686ec9:
 translate portuguese aj_db_030708fe:
 
     # u "(I should probably go to my new dorm, but I might as well explore for a bit beforehand.)"
-    u "(Eu deveria ir pro meu novo dormitório, mas eu bem que devia dar uma explorada por ai antes.)"
+    u "(Eu deveria ir pro meu novo dormitório, mas eu bem que poderia dar uma explorada por ai antes.)"
 
 # game/v1/v1.rpy:891
 translate portuguese v1_freeRoam1_riley_4417530d:
