@@ -3010,7 +3010,7 @@ translate francais strings:
 
     # game/v4/v4.rpy:5
     old "Dope"
-    new "Came"
+    new "T'assure"
 
     # game/v4/v4.rpy:6
     old "Come by 995 Sereno Drive at 8, it's my friends house."
