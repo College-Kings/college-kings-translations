@@ -712,7 +712,7 @@ translate francais cr_bd_3ed7e322:
 translate francais cr_bd_6b69ffb3:
 
     # u "I'll see you, Chloe."
-    u "Je te verrai, Chloé."
+    u "A plus, Chloé."
 
 # game/v3/v3.rpy:783
 translate francais cr_bd_5172a633:
@@ -1312,7 +1312,7 @@ translate francais repeatk_8321eaa9:
 translate francais repeatk_ecfbdaa5:
 
     # imre "I'll see you, player."
-    imre "A plus, chaud lapin."
+    imre "A plus, champion."
 
 # game/v3/v3.rpy:1425
 translate francais repeatk_30ce2936:
@@ -1498,7 +1498,7 @@ translate francais repeatl_8321eaa9:
 translate francais repeatl_ecfbdaa5:
 
     # imre "I'll see you, player."
-    imre "A plus, chaud lapin"
+    imre "A plus, champion"
 
 # game/v3/v3.rpy:1622
 translate francais repeatl_30ce2936:
@@ -1750,7 +1750,7 @@ translate francais repeatm_8321eaa9:
 translate francais repeatm_ecfbdaa5:
 
     # imre "I'll see you, player."
-    imre "A plus, chaud lapin."
+    imre "A plus, champion."
 
 # game/v3/v3.rpy:1879
 translate francais repeatm_30ce2936:

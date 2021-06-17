@@ -3569,7 +3569,7 @@ translate francais nextscenef_0529f46b:
 translate francais nextscenef_00b07dd4:
 
     # ry "Haha, don't worry player, there are."
-    ry "Haha, ne t'inquiéte pas chaud lapin, il y en a."
+    ry "Haha, ne t'inquiéte pas champion, il y en a."
 
 # game/v1/v1.rpy:2999
 translate francais nextscenef_58b95a0d:
