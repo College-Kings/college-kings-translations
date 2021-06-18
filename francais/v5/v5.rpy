@@ -3988,7 +3988,7 @@ translate francais strings:
 
     # game/v5/v5.rpy:4321
     old "Any chance we could do it later? Or tomorrow?"
-    new "Une chance que nous puissions le faire plus tard ? Ou demain ?"
+    new "Il y a une chance que nous puissions le faire plus tard ? Ou demain ?"
 
     # game/v5/v5.rpy:4322
     old "I'm busy later tonight and I'm pretty much booked for the entire week :/"
