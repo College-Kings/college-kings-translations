@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-06-05 20:30
+# TODO: Translation updated at 2021-06-05 20:30
 
 # game/v6/v6.rpy:123
 translate francais imrecona_05b8b552:
@@ -892,7 +892,7 @@ translate francais continuebd_7d193b2b:
 translate francais continuebd_d84a64c4:
 
     # u "(Time for another boring-ass economics lecture...)"
-    u "(Il est temps d'un autre cours d'économie ennuyeux à crever...)"
+    u "(Il est temps d'un autre cours d'économie chiant à en crever...)"
 
 # game/v6/v6.rpy:1070
 translate francais continuebd_9ea1e8f9:
@@ -2458,379 +2458,378 @@ translate francais emsex_a_9ea2f78c:
 translate francais emsex_a_9b013366:
 
     # em "Fuck... get down there."
-    em "Putain... descend à la cave"
+    em "Putain... descend à la cave."
 
 # game/v6/v6.rpy:2766
 translate francais emsex_a_507e0dfa:
 
     # em "I haven't been eaten out in so long..."
-    em "."
+    em "Je n'ai pas été broutée depuis si longtemps."
 
 # game/v6/v6.rpy:2771
 translate francais emsex_a_9c0c9c2f:
 
     # em "*Quiet moan* Mhhh..."
-    em ""
+    em "*Quiet moan* Mhhh..."
 
 # game/v6/v6.rpy:2781
 translate francais emhead_7925d4c5:
 
     # em "*Moans* Ahhh...."
-    em ""
+    em "*Gémissements* Ahhh...."
 
 # game/v6/v6.rpy:2783
 translate francais emhead_14b30358:
 
     # em "*Moans louder* Oh baby..."
-    em ""
+    em "*Gémit plus fort* Oh bébé..."
 
 # game/v6/v6.rpy:2785
 translate francais emhead_818ee437:
 
-    # em "*Moans even louder* Fuuuuck."
-    em ""
+    # em "w"
+    em "*Gémit encore plus fort* Puuutain."
 
 # game/v6/v6.rpy:2787
 translate francais emhead_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v6/v6.rpy:2789
 translate francais emhead_1a8211a6:
 
     # em "Oh my god, I'm gonna cum."
-    em ""
+    em "Oh mon dieu, je vais jouir."
 
 # game/v6/v6.rpy:2791
 translate francais emhead_f31627d2:
 
     # em "You're so fucking good at this..."
-    em ""
+    em "Tu es tellement bon à ça..."
 
 # game/v6/v6.rpy:2796
 translate francais emhead_7b90eebd:
 
     # u "Nah, first it's my turn."
-    u ""
+    u "Non, d'abord c'est mon tour."
 
 # game/v6/v6.rpy:2801
 translate francais emhead_06d89a39:
 
     # em "Mhhh..."
-    em ""
+    em "Mhhh..."
 
 # game/v6/v6.rpy:2806
 translate francais emhead_5c0a562f:
 
     # em "You look so good."
-    em ""
+    em "Tu as l'air en forme."
 
 # game/v6/v6.rpy:2811
 translate francais emhead_564d9e32:
 
     # u "Take your shirt off."
-    u ""
+    u "Enlève ton t-shirt."
 
 # game/v6/v6.rpy:2821
 translate francais emhead_3da381ca:
 
     # u "You're gonna suck some dick now."
-    u ""
+    u "Tu vas sucer une bite maintenant."
 
 # game/v6/v6.rpy:2826
 translate francais emhead_00eb4eed:
 
     # em "Yesss... treat me like your dirty little slut."
-    em ""
+    em "Ouiii... traite-moi comme ta sale petite salope."
 
 # game/v6/v6.rpy:2833
 translate francais emfacefuck_50e4e445:
 
     # u "Take this fucking dick."
-    u ""
+    u "Mange cette putain de bite."
 
 # game/v6/v6.rpy:2835
 translate francais emfacefuck_8f2ba603:
 
     # em "*Gag sounds*"
-    em ""
+    em "*Bruit de gorge*"
 
 # game/v6/v6.rpy:2837
 translate francais emfacefuck_e9c40f23:
 
     # u "Fuck..."
-    u ""
-
+    u "Putain..."
 # game/v6/v6.rpy:2839
 translate francais emfacefuck_8f2ba603_1:
 
     # em "*Gag sounds*"
-    em ""
+    em "*Bruit de gorge*"
 
 # game/v6/v6.rpy:2841
 translate francais emfacefuck_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v6/v6.rpy:2846
 translate francais emfacefuck_ac06ae34:
 
     # em "*Breathing heavily* Just fuck me, please!"
-    em ""
+    em "*Respire bruyamment* Baise-moi, s'il te plait !"
 
 # game/v6/v6.rpy:2851
 translate francais emfacefuck_c6fea742:
 
     # u "You wanna be fucked you little slut?"
-    u ""
+    u "Tu veux te faire baiser toi la petite salope ?"
 
 # game/v6/v6.rpy:2856
 translate francais emfacefuck_3696aa12:
 
     # em "I'm so fucking wet."
-    em ""
+    em "Je suis tellement mouillé."
 
 # game/v6/v6.rpy:2858
 translate francais emfacefuck_82968715:
 
     # em "Fuck me, [name]!"
-    em ""
+    em "Fuck me, [name]!"
 
 # game/v6/v6.rpy:2868
 translate francais emfacefuck_4dc25266:
 
     # em "*Moans* Ahhh..."
-    em ""
+    em "*Gémissements* Ahhh..."
 
 # game/v6/v6.rpy:2875
 translate francais embehind_50ff6872:
 
     # em "*Moans* Oh my god!"
-    em ""
+    em "*Gémissements* Oh mon dieu !"
 
 # game/v6/v6.rpy:2877
 translate francais embehind_bc3b597f:
 
     # em "*Moans louder* Yes! Fuck me!"
-    em ""
+    em "*Gémit plus fort* Oui ! Baise-moi !"
 
 # game/v6/v6.rpy:2879
 translate francais embehind_1153b30d:
 
     # em "*Moans* Yes! [name]!"
-    em ""
+    em "*Gémissements* Oui ! [name]!"
 
 # game/v6/v6.rpy:2881
 translate francais embehind_9327614b:
 
     # em "*Moans* Ahhh! Don't stop!"
-    em ""
+    em "*Gémissements* Ahhh ! T'arrête pas !"
 
 # game/v6/v6.rpy:2883
 translate francais embehind_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v6/v6.rpy:2888
 translate francais embehind_94f30d9b:
 
     # u "Fucking turn around."
-    u ""
+    u "Putain tourne-toi."
 
 # game/v6/v6.rpy:2893
 translate francais embehind_b6992f20:
 
     # em "*Breathing heavily* Mhhh..."
-    em ""
+    em "*Respiration lourde* Mhhh..."
 
 # game/v6/v6.rpy:2900
 translate francais embutterfly_33104b16:
 
     # em "*Moans* Baby... yes!"
-    em ""
+    em "*Gémissements* Bébé... oui !"
 
 # game/v6/v6.rpy:2902
 translate francais embutterfly_f4daee08:
 
     # em "*Moans louder* Ahhh!"
-    em ""
+    em "*Gémit plus fort* Ahhh !"
 
 # game/v6/v6.rpy:2904
 translate francais embutterfly_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v6/v6.rpy:2908
 translate francais embutterfly_ccac5aee:
 
     # em "*Moans even louder* Oh my god! I'm gonna cum!"
-    em ""
+    em "*Gémit encore plus fort* Oh mon dieu ! Je vais jouir !"
 
 # game/v6/v6.rpy:2910
 translate francais embutterfly_9ea2f78c_1:
 
     # " "
-    ""
+    " "
 
 # game/v6/v6.rpy:2912
 translate francais embutterfly_ba50b607:
 
     # u "Fuuuck!"
-    u ""
+    u "Puuutain !"
 
 # game/v6/v6.rpy:2914
 translate francais embutterfly_44fc3dbd:
 
     # em "Cum inside me! Please! Fill me up!"
-    em ""
+    em "Jouis en moi ! S'il te plaît ! Remplis-moi !"
 
 # game/v6/v6.rpy:2923
 translate francais emclimax_c87fb5fe:
 
     # em "*Really loud moan* Ahhhhh!"
-    em ""
+    em "*Gémissement très fort* Ahhhhh !"
 
 # game/v6/v6.rpy:2934
 translate francais emclimax_79e32b24:
 
     # u "That was so good."
-    u ""
+    u "C'était tellement bon."
 
 # game/v6/v6.rpy:2939
 translate francais emclimax_567b5ff2:
 
     # em "Just like the old times."
-    em ""
+    em "Tout comme au bon vieux temps."
 
 # game/v6/v6.rpy:2944
 translate francais emclimax_cfd5ae1b:
 
     # u "You are on the pill right?"
-    u ""
+    u "Tu prends la pilule non ?"
 
 # game/v6/v6.rpy:2949
 translate francais emclimax_a15a0920:
 
     # em "*Laughs* Yeah, don't worry."
-    em ""
+    em "*Rires* Ouais, ne t'inquiète pas."
 
 # game/v6/v6.rpy:2954
 translate francais emclimax_e79bb6d7:
 
     # u "Phew..."
-    u ""
+    u "Ouf..."
 
 # game/v6/v6.rpy:2956
 translate francais emclimax_267c210d:
 
     # u "I still need to finish some of my assignments, so I kinda gotta go now."
-    u ""
+    u "J'ai encore des devoirs à finir, donc je dois y aller maintenant."
 
 # game/v6/v6.rpy:2962
 translate francais v6_nsfwSkipLabel1_9b9a52c4:
 
     # em "Already?"
-    em ""
+    em "Déjà ?"
 
 # game/v6/v6.rpy:2967
 translate francais v6_nsfwSkipLabel1_e07ea09e:
 
     # u "Sorry, Emily. I don't wanna fall behind this early into the semester."
-    u ""
+    u "Désolé, Emilie. Je ne veux pas prendre du retard si tôt dans le semestre."
 
 # game/v6/v6.rpy:2972
 translate francais v6_nsfwSkipLabel1_f270561c:
 
     # em "Are you at least gonna be at the party later?"
-    em ""
+    em "Est-ce que tu seras au moins à la fête plus tard ?"
 
 # game/v6/v6.rpy:2977
 translate francais v6_nsfwSkipLabel1_dcafa4ac:
 
     # u "You're going to the Wolves' rush party too?"
-    u ""
+    u "Tu vas aussi à la fête des nouveaux des Wolves ?"
 
 # game/v6/v6.rpy:2982
 translate francais v6_nsfwSkipLabel1_7f9524fe:
 
     # em "Yeah, Nora invited me."
-    em ""
+    em "Ouai, Nora m'a invité."
 
 # game/v6/v6.rpy:2987
 translate francais v6_nsfwSkipLabel1_a61fdaa7:
 
     # u "Oh, awesome. I'll see you tonight then."
-    u ""
+    u "Oh, génial. Je te verrai ce soir alors."
 
 # game/v6/v6.rpy:2992
 translate francais v6_nsfwSkipLabel1_2265f685:
 
     # em "Still would've rather you stayed now..."
-    em ""
+    em "J'aurais quand même préféré que tu restes maintenant..."
 
 # game/v6/v6.rpy:2997
 translate francais v6_nsfwSkipLabel1_4592c69f:
 
     # u "Emily, you know I can't. I'll see you later."
-    u ""
+    u "Emily, tu sais que je ne peux pas. Je te verrai plus tard."
 
 # game/v6/v6.rpy:3002
 translate francais v6_nsfwSkipLabel1_1d3ccfe2:
 
     # em "Okay..."
-    em ""
+    em "D'accord..."
 
 # game/v6/v6.rpy:3012
 translate francais afteremily_fd979a6f:
 
     # u "(What just happened...?)"
-    u ""
+    u "(Qu'est-ce qui vient de se passer...?)"
 
 # game/v6/v6.rpy:3052
 translate francais fy_bd_895b4b0f:
 
     # u "(I really hope Imre comes back at some point.)"
-    u ""
+    u "(J'espère vraiment qu'Imre reviendra à un moment donné.)"
 
 # game/v6/v6.rpy:3065
 translate francais fy_bd_649ad9c0:
 
     # u "Hey, what's up?"
-    u ""
+    u "Hey, qu'est-ce qu'il y a?"
 
 # game/v6/v6.rpy:3070
 translate francais fy_bd_31b3d31e:
 
     # imre "Not much, just back from class. What are you up to?"
-    imre ""
+    imre "Pas grand chose, je rentre juste de cours. Que fais-tu?"
 
 # game/v6/v6.rpy:3075
 translate francais fy_bd_34cc6799:
 
     # u "Some boring-ass Econ assignment."
-    u ""
+    u "Des devoirs d'Éco chiants à en crever."
 
 # game/v6/v6.rpy:3080
 translate francais fy_bd_87f070f2:
 
     # imre "*Laughs* Yeah, assignments are the worst."
-    imre ""
+    imre "*Rires* Oui, les devoirs c'est le pire."
 
 # game/v6/v6.rpy:3085
 translate francais fy_bd_3706af4d:
 
     # imre "You up for another training session tomorrow morning?"
-    imre ""
+    imre "Tu es partant pour une autre séance d'entraînement demain matin ?"
 
 # game/v6/v6.rpy:3090
 translate francais fy_bd_f959f467:
 
     # imre "*Winces in pain*"
-    imre ""
+    imre "*Grimace de douleur*"
 
 # game/v6/v6.rpy:3095
 translate francais fy_bd_5f2ebfec:
