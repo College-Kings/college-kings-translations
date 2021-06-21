@@ -1360,7 +1360,7 @@ translate francais afterclass_7d7dc690:
 translate francais afterclass_be910af9:
 
     # gr "So forget the Wolves, join the Apes."
-    gr "Alors oublie les Wolves, rejoignez les Apes."
+    gr "Alors oublie les Wolves et rejoins les Apes."
 
 # game/v6/v6.rpy:1633
 translate francais ft_ad_8e17fac5:
@@ -1384,7 +1384,7 @@ translate francais ft_ad_b694c0b7:
 translate francais ft_ad_437f98b7:
 
     # gr "Have a think about it and then meet me at midnight on the front stairs."
-    gr "Réfléchis-y puis retrouve-moi à minuit devant les escaliers de l'entrée."
+    gr "Réfléchis-y et retrouve-moi à minuit devant les escaliers de l'entrée."
 
 # game/v6/v6.rpy:1653
 translate francais ft_ad_65810f25:
@@ -4234,7 +4234,7 @@ translate francais afteraubrey_dc07930a:
 translate francais afteraubrey_250ab959:
 
     # u "(Grayson said I should meet him, but how can I trust him after everything that happened?)"
-    u "(Grayson a dit que je devrais le rencontrer, mais comment puis-je lui faire confiance après tout ce qui s'est passé ?)"
+    u "(Grayson a dit que je devrais le voir ce soir, mais comment puis-je lui faire confiance après tout ce qui s'est passé ?)"
 
 # game/v6/v6.rpy:4483
 translate francais meetgrayson_d944c127:
@@ -4318,7 +4318,7 @@ translate francais meetgrayson_8817db4f:
 translate francais meetgrayson_cc4bd5bd:
 
     # gr "Guess we all have shit that we need to deal with."
-    gr "Je suppose que nous avons tous nos emerdes avec lesquelles nous devons vivre avec."
+    gr "Je suppose que nous avons tous nos emmerdes avec lesquelles nous devons vivre avec."
 
 # game/v6/v6.rpy:4587
 translate francais meetgrayson_8b940739:
@@ -4756,13 +4756,13 @@ translate francais wehere_20d6e415:
 translate francais wehere_e3ac30cf:
 
     # u "Sorry, Grayson. But I don't wanna be an Ape."
-    u "Désolé, Grayson. Mais je ne veux pas être un Apes."
+    u "Désolé, Grayson. Mais je ne veux pas devenir un Apes."
 
 # game/v6/v6.rpy:4959
 translate francais wehere_d97e760b:
 
     # gr "What? What do you mean you don't wanna be an Ape?!"
-    gr "Quoi ? Comment ça, tu ne veux pas être un Apes ?!"
+    gr "Quoi ? Comment ça, tu ne veux pas devenir un Apes ?!"
 
 # game/v6/v6.rpy:4964
 translate francais wehere_cc6a7e76:
@@ -4822,7 +4822,7 @@ translate francais wehere_290c0a3a:
 translate francais wehere_e7240c19:
 
     # u "(Fuck Grayson, I'm not meeting him.)"
-    u "(Putain Grayson, je n'y vais pas.)"
+    u "(Vas te faire foutre Grayson, j'y vais pas.)"
 
 # game/v6/v6.rpy:5025
 translate francais aftergrayson_697eb4ad:
@@ -6562,7 +6562,7 @@ translate francais readywolf_e3ac30cf:
 translate francais readywolf_d97e760b:
 
     # gr "What? What do you mean you don't wanna be an Ape?!"
-    gr "Quoi ? Comment ça, tu ne veux pas être un Apes ?!"
+    gr "Quoi ? Comment ça, tu ne veux pas devenir un Apes ?!"
 
 # game/v6/v6.rpy:6716
 translate francais readywolf_c0856720:
@@ -6628,691 +6628,691 @@ translate francais readywolf_b9563d83:
 translate francais readywolf_8fbaa728_2:
 
     # gr "Join the Apes and I promise you, everyone at San Vallejo will know who you are within weeks."
-    gr ""
+    gr "Rejoins les Apes et je te promets que tout le monde à San Vallejo saura qui tu es dans quelques semaines."
 
 # game/v6/v6.rpy:6781
 translate francais readywolf_3de68741_2:
 
     # gr "So what do you say?"
-    gr ""
+    gr "Alors, qu'en dis-tu ?"
 
 # game/v6/v6.rpy:6786
 translate francais readywolf_41f7fb45_1:
 
     # u "Okay, I'm in."
-    u ""
+    u "Ok, j'en suis."
 
 # game/v6/v6.rpy:6792
 translate francais readywolf_db2ed90b_1:
 
     # gr "That's what I'm talking about!"
-    gr ""
+    gr "C'est ce dont je te parlais !"
 
 # game/v6/v6.rpy:6799
 translate francais readywolf_8fbaa728_3:
 
     # gr "Join the Apes and I promise you, everyone at San Vallejo will know who you are within weeks."
-    gr ""
+    gr "Rejoins les Apes et je te promets que tout le monde à San Vallejo saura qui tu es dans quelques semaines."
 
 # game/v6/v6.rpy:6804
 translate francais readywolf_3de68741_3:
 
     # gr "So what do you say?"
-    gr ""
+    gr "Alors, qu'en dis-tu ?"
 
 # game/v6/v6.rpy:6809
 translate francais readywolf_e3ac30cf_1:
 
     # u "Sorry, Grayson. But I don't wanna be an Ape."
-    u ""
+    u "Désolé, Grayson. Mais je ne veux pas devenir un Apes."
 
 # game/v6/v6.rpy:6814
 translate francais readywolf_d97e760b_1:
 
     # gr "What? What do you mean you don't wanna be an Ape?!"
-    gr ""
+    gr "Quoi ? Comment ça, tu ne veux pas devenir un Apes ?!"
 
 # game/v6/v6.rpy:6821
 translate francais readywolf_be910af9:
 
     # gr "So forget the Wolves, join the Apes."
-    gr ""
+    gr "Alors oublie les Wolves et rejoins les Apes."
 
 # game/v6/v6.rpy:6826
 translate francais readywolf_437f98b7:
 
     # gr "Have a think about it and then meet me at midnight on the front stairs."
-    gr ""
+    gr "Réfléchis-y et retrouve-moi à minuit devant les escaliers de l'entrée."
 
 # game/v6/v6.rpy:6831
 translate francais readywolf_250ab959:
 
     # u "(Grayson said I should meet him, but how can I trust him after everything that happened?)"
-    u ""
+    u "(Grayson a dit que je devrais le voir ce soir, mais comment puis-je lui faire confiance après tout ce qui s'est passé ?)"
 
 # game/v6/v6.rpy:6835
 translate francais readywolf_e7240c19:
 
     # u "(Fuck Grayson, I'm not meeting him.)"
-    u ""
+    u "(Vas te faire foutre Grayson, j'y vais pas.)"
 
 # game/v6/v6.rpy:6841
 translate francais readywolf_c0856720_1:
 
     # u "(Hopefully that was the right decision...)"
-    u ""
+    u "(J'espère que c'était la bonne décision...)"
 
 # game/v6/v6.rpy:6846
 translate francais readywolf_1e6fec8f:
 
     # u "Imre, do you know the president of the Apes?"
-    u ""
+    u "Imre, connais-tu le président des Apes ?"
 
 # game/v6/v6.rpy:6851
 translate francais readywolf_0dca3c06:
 
     # imre "Who? Grayson?"
-    imre ""
+    imre "Qui ? Grayson ?"
 
 # game/v6/v6.rpy:6856
 translate francais readywolf_46d1769c:
 
     # u "Yeah, I think that's his name."
-    u ""
+    u "Ouai, je pense que c'est son nom."
 
 # game/v6/v6.rpy:6861
 translate francais readywolf_29f7d1c3:
 
     # imre "You mean the guy that punched you in the face? He's an asshole. Why?"
-    imre ""
+    imre "Tu veux dire le gars qui t'a frappé au visage ? C'est un connard. Pourquoi ?"
 
 # game/v6/v6.rpy:6863
 translate francais readywolf_1d4df49e:
 
     # imre "You thinking about joining the Apes?"
-    imre ""
+    imre "Tu penses à rejoindre les Apes ?"
 
 # game/v6/v6.rpy:6868
 translate francais readywolf_650345b4:
 
     # u "What? No!"
-    u ""
+    u "Quoi ? Non !"
 
 # game/v6/v6.rpy:6873
 translate francais readywolf_98c83a2c:
 
     # imre "*Laughs* Calm down, I'm just kidding man."
-    imre ""
+    imre "*Rires* Calme-toi, je plaisante mec."
 
 # game/v6/v6.rpy:6875
 translate francais readywolf_52fe6023:
 
     # imre "I know you'd never join the Apes."
-    imre ""
+    imre "Je sais que tu ne rejoindrais jamais les Apes."
 
 # game/v6/v6.rpy:6879
 translate francais readywolf_e0890818:
 
     # imre "You know why? Cause you're not a fucking asshole."
-    imre ""
+    imre "Tu sais pourquoi ? Parce que tu n'es pas un putain de connard."
 
 # game/v6/v6.rpy:6881
 translate francais readywolf_da2f45a1:
 
     # imre "You have honor and loyalty and you're a good friend."
-    imre ""
+    imre "Tu as l'honneur et la loyauté et tu es un bon ami."
 
 # game/v6/v6.rpy:6883
 translate francais readywolf_a9c07d26:
 
     # imre "Apes don't have any of that shit."
-    imre ""
+    imre "Les Apes n'ont rien de ces qualités ce sont des merdes."
 
 # game/v6/v6.rpy:6889
 translate francais readywolf_47d43f2b:
 
     # u "Right... "
-    u ""
+    u "Vrai..."
 
 # game/v6/v6.rpy:6892
 translate francais readywolf_87096675:
 
     # u "Thanks man."
-    u ""
+    u "Merci mec."
 
 # game/v6/v6.rpy:6894
 translate francais readywolf_a7f007a0:
 
     # u "I was just uhm... wondering."
-    u ""
+    u "Je me demandais juste euh."
 
 # game/v6/v6.rpy:6899
 translate francais readywolf_53ba7abc:
 
     # u "Holy shit..."
-    u ""
+    u "Putain de merde..."
 
 # game/v6/v6.rpy:6901
 translate francais readywolf_c86c8763:
 
     # imre "This is where dreams come true."
-    imre ""
+    imre "C'est là que les rêves deviennent réalité."
 
 # game/v6/v6.rpy:6911
 translate francais readywolf_59133e5c:
 
     # aa "Hey bro, what's up?"
-    aa ""
+    aa "Hé frère, quoi de neuf ?"
 
 # game/v6/v6.rpy:6916
 translate francais readywolf_a894d7a7:
 
     # imre "Sup man? You already working something?"
-    imre ""
+    imre "Bonsoir mec ? Tu travaille déjà sur quelque chose ?"
 
 # game/v6/v6.rpy:6921
 translate francais readywolf_8c4a7356:
 
     # aa "*Chuckles* Trying to."
-    aa ""
+    aa "*Rires* J'essaye."
 
 # game/v6/v6.rpy:6926
 translate francais readywolf_be7eeb17:
 
     # imre "I see there's two... big plans or are you saving one for me?"
-    imre ""
+    imre "Je vois qu'il y a deux... grands projets ou tu en gardes un pour moi ?"
 
 # game/v6/v6.rpy:6931
 translate francais readywolf_899a27f4:
 
     # aa "Dude, I got you. You even get to choose."
-    aa ""
+    aa "Mec, je t'ai eu. Tu as même le choix."
 
 # game/v6/v6.rpy:6936
 translate francais readywolf_155bed87:
 
     # imre "Hahaha, this man knows how to be a bro!"
-    imre ""
+    imre "Hahaha, cet mec sait être un frère !"
 
 # game/v6/v6.rpy:6941
 translate francais readywolf_2befab5d:
 
     # aa "Oh sorry, didn't introduce myself. I'm Aaron. Vice President of the Wolves. Nice to meet you."
-    aa ""
+    aa "Oh désolé, je ne me suis pas présenté. Je suis Aaron. Vice-président des Wolves. Ravi de te rencontrer."
 
 # game/v6/v6.rpy:6946
 translate francais readywolf_7e475da4:
 
     # u "I'm [name], Imre's roommate. Nice to meet you too."
-    u ""
+    u "Je suis [name], colocataire d'Imre. Ravi de te rencontrer également."
 
 # game/v6/v6.rpy:6948
 translate francais readywolf_0edf4fe1:
 
     # u "You guys know each other long?"
-    u ""
+    u "Vous vous connaissez depuis longtemps ?"
 
 # game/v6/v6.rpy:6953
 translate francais readywolf_6c59fca3:
 
     # imre "Funny story actually. You remember that girls' volleyball game where I kinda hid in the girls' lockerroom afterwards?"
-    imre ""
+    imre "Drôle d'histoire en fait. Tu te souviens de ce match de volley-ball où je me suis un peu caché dans le vestiaire des filles après ?"
 
 # game/v6/v6.rpy:6955
 translate francais readywolf_4130b404:
 
     # imre "Aaron was seated next to me at the game."
-    imre ""
+    imre "Aaron était assis à côté de moi au match."
 
 # game/v6/v6.rpy:6960
 translate francais readywolf_75189fd4:
 
     # u "Oh, so you like volleyball, Aaron?"
-    u ""
+    u "Oh, alors tu aimes le volley, Aaron ?"
 
 # game/v6/v6.rpy:6965
 translate francais readywolf_7b3af07f:
 
     # aa "What? Hell no. I was there for the tushies."
-    aa ""
+    aa "Quoi ? Sûrement pas. J'étais là pour matter les fesses."
 
 # game/v6/v6.rpy:6970
 translate francais readywolf_cc8fb76f:
 
     # u "Wow, you guys really are a match made in heaven then."
-    u ""
+    u "Wow, vous faites vraiment la paire alors."
 
 # game/v6/v6.rpy:6975
 translate francais readywolf_23cc0550:
 
     # aa "So Imre, you want me to introduce you to my two new friends?"
-    aa ""
+    aa "Alors Imre, tu veux que je te présente mes deux nouveaux amis ?"
 
 # game/v6/v6.rpy:6980
 translate francais readywolf_ad097bc6:
 
     # imre "Hell yeah."
-    imre ""
+    imre "Putain ouais."
 
 # game/v6/v6.rpy:6985
 translate francais readywolf_61c7442f:
 
     # imre "[name], you don't mind if I go, do you?"
-    imre ""
+    imre "[name], ça ne te dérange pas si j'y vais, n'est-ce pas ?"
 
 # game/v6/v6.rpy:6990
 translate francais readywolf_daeb2714:
 
     # u "No, not at all. Enjoy."
-    u ""
+    u "Non pas du tout. Amuse toi."
 
 # game/v6/v6.rpy:6995
 translate francais readywolf_74483de5:
 
     # imre "Alriiight! Lead the way, Aaron."
-    imre ""
+    imre "D'accord ! Je te suis, Aaron."
 
 # game/v6/v6.rpy:7000
 translate francais readywolf_bd0f033a:
 
     # u "(Okay, I guess I'm on my own.)"
-    u ""
+    u "(D'accord, je du coups je suis seul.)"
 
 # game/v6/v6.rpy:7008
 translate francais wolvesfr_57a3ab58:
 
     # u "(Time to check out this party.)"
-    u ""
+    u "(Il est temps de regarder cette fête.)"
 
 # game/v6/v6.rpy:7028
 translate francais v6_fr3josh1_9bd7d51c:
 
     # jo "I could go for another right now."
-    jo ""
+    jo "Je pourrais en prendre un autre maintenant."
 
 # game/v6/v6.rpy:7033
 translate francais v6_fr3josh1_64db04c2:
 
     # ki "I don't mind another."
-    ki ""
+    ki "Cela ne me dérange pas un autre."
 
 # game/v6/v6.rpy:7038
 translate francais v6_fr3josh1_b3bed3d5:
 
     # u "Hey what's up guys?"
-    u ""
+    u "Hé quoi de neuf les gars?"
 
 # game/v6/v6.rpy:7045
 translate francais v6_fr3josh1_0e747376:
 
     # u "Damn, you guys are pretty high huh?"
-    u ""
+    u "Merde, vous êtes plutôt défoncés, hein ?"
 
 # game/v6/v6.rpy:7050
 translate francais v6_fr3josh1_d81bb48d:
 
     # jo "Maybe."
-    jo ""
+    jo "Peut-être."
 
 # game/v6/v6.rpy:7055
 translate francais v6_fr3josh1_9b8ae663:
 
     # ki "Wanna hit?"
-    ki ""
+    ki "T'en veux ?"
 
 # game/v6/v6.rpy:7060
 translate francais v6_fr3josh1_4ac34a25:
 
     # u "Nah, I'm good."
-    u ""
+    u "Non, ça va."
 
 # game/v6/v6.rpy:7065
 translate francais v6_fr3josh1_2b06903e:
 
     # jo "Then at least have a shot with us."
-    jo ""
+    jo "Alors essaye au moins un coup avec nous."
 
 # game/v6/v6.rpy:7075
 translate francais v6_fr3josh1_a0e55258:
 
     # u "Fuck it. Why not."
-    u ""
+    u "Putain. Pourquoi pas."
 
 # game/v6/v6.rpy:7085
 translate francais v6_fr3josh1_b4b78336:
 
     # ki "Attaboy."
-    ki ""
+    ki "Attaboy."
 
 # game/v6/v6.rpy:7090
 translate francais v6_fr3josh1_72d46456:
 
     # jo "Yes, G!"
-    jo ""
+    jo "Oui, G!"
 
 # game/v6/v6.rpy:7099
 translate francais v6_fr3josh1_4ac34a25_1:
 
     # u "Nah, I'm good."
-    u ""
+    u "Non, ça va."
 
 # game/v6/v6.rpy:7109
 translate francais v6_fr3josh1_242ac9bb:
 
     # jo "You're weak."
-    jo ""
+    jo "Tu es faible."
 
 # game/v6/v6.rpy:7114
 translate francais v6_fr3josh1_5b236ca0:
 
     # u "Sorry, gonna start off easy with a beer or something."
-    u ""
+    u "Désolé, je vais commencer doucement avec une bière ou quelque chose comme ça."
 
 # game/v6/v6.rpy:7119
 translate francais v6_fr3josh1_75928358:
 
     # jo "Alright."
-    jo ""
+    jo "Bien."
 
 # game/v6/v6.rpy:7124
 translate francais v6_fr3josh1_05b4694e:
 
     # u "So, what are you guys doing here?"
-    u ""
+    u "Alors, qu'est-ce que vous faites ici ?"
 
 # game/v6/v6.rpy:7129
 translate francais v6_fr3josh1_3f201145:
 
     # jo "Checking out the Wolves. Just wanna see what the fuzz is all about, you know."
-    jo ""
+    jo "Voir les Wolves. Je veux juste voir ce qu'il s'y passe, tu sais."
 
 # game/v6/v6.rpy:7131
 translate francais v6_fr3josh1_23a47b8f:
 
     # jo "Maybe join if they're cool."
-    jo ""
+    jo "Peut-être les rejoindre s'ils sont cool."
 
 # game/v6/v6.rpy:7136
 translate francais v6_fr3josh1_7587e6d2:
 
     # u "Right."
-    u ""
+    u "D'accord."
 
 # game/v6/v6.rpy:7141
 translate francais v6_fr3josh1_fd1ffefa:
 
     # ki "I'm only here 'cuz Amber convinced me."
-    ki ""
+    ki "Je ne suis là que parce qu'Amber m'a convaincue de venir."
 
 # game/v6/v6.rpy:7146
 translate francais v6_fr3josh1_bfc8c409:
 
     # u "Amber's here too? How'd she convince you?"
-    u ""
+    u "Amber est là aussi ? Comment t'a-t-elle convaincu ?"
 
 # game/v6/v6.rpy:7151
 translate francais v6_fr3josh1_77d72859:
 
     # ki "She said there'd be a lot of hot guys here, but right now all I see is you."
-    ki ""
+    ki "Elle a dit qu'il y aurait beaucoup de mecs sexy ici, mais pour l'instant tout ce que je vois c'est toi."
 
 # game/v6/v6.rpy:7156
 translate francais v6_fr3josh1_c9ef3914:
 
     # jo "*Laughs*"
-    jo ""
+    jo "*Rires*"
 
 # game/v6/v6.rpy:7161
 translate francais v6_fr3josh1_618cacc1:
 
     # u "*Deep breath* Okay, ouch. That felt a little unnecessary, not gonna lie."
-    u ""
+    u "*Souffle profond* D'accord, aïe. Cela semblait un peu inutile, je ne vais pas mentir."
 
 # game/v6/v6.rpy:7166
 translate francais v6_fr3josh1_9c86526c:
 
     # jo "Aww, don't get offended, bro. You know she means well."
-    jo ""
+    jo "Aouh, ne sois pas offensé, mon frère. Tu sais bien ce qu'elle voulais dire."
 
 # game/v6/v6.rpy:7171
 translate francais v6_fr3josh1_7908b75d:
 
     # u "How could that possibly be meant well?"
-    u ""
+    u "Et qu'est-ce que cela pourrait-il bien signifier ?"
 
 # game/v6/v6.rpy:7173
 translate francais v6_fr3josh1_6b234b82:
 
     # u "Anyway, you guys know where Amber is?"
-    u ""
+    u "Quoi qu'il en soit, vous savez où est Amber ?"
 
 # game/v6/v6.rpy:7178
 translate francais v6_fr3josh1_028164bb:
 
     # ki "Off somewhere inside."
-    ki ""
+    ki "Quelque part à l'intérieur."
 
 # game/v6/v6.rpy:7183
 translate francais v6_fr3josh1_6f68e6d3:
 
     # u "Alright, I'll probably go inside too. See you guys later."
-    u ""
+    u "D'accord, j'irai probablement à l'intérieur aussi. A plus tard tous les deux."
 
 # game/v6/v6.rpy:7188
 translate francais v6_fr3josh1_9ca8174b:
 
     # jo "Bye G."
-    jo ""
+    jo "Bye G."
 
 # game/v6/v6.rpy:7196
 translate francais v6_fr3josh2_f5890c4c:
 
     # u "(I already talked to them, not sure I'm down for more Kim right now.)"
-    u ""
+    u "(Je leur ai déjà parlé, je ne suis pas sûr d'avoir envie de plus de Kim en ce moment.)"
 
 # game/v6/v6.rpy:7209
 translate francais v6_fr3guy1_04aa3d88:
 
     # guya "Kourtney is way more beautiful than Kylie."
-    guya ""
+    guya "Kourtney est bien plus belle que Kylie."
 
 # game/v6/v6.rpy:7214
 translate francais v6_fr3guy1_aef53e37:
 
     # guyb "How could you say that? Kylie is definitely the hottest of them all."
-    guyb ""
+    guyb "Comment peux tu dire ca? Kylie est certainement la plus sexy de toutes."
 
 # game/v6/v6.rpy:7219
 translate francais v6_fr3guy1_6e071574:
 
     # guya "You're crazy."
-    guya ""
+    guya "Tu es malade."
 
 # game/v6/v6.rpy:7224
 translate francais v6_fr3guy1_65796ef7:
 
     # guyb "Ask this guy. He'll know."
-    guyb ""
+    guyb "Demande à ce gars. Il saura."
 
 # game/v6/v6.rpy:7229
 translate francais v6_fr3guy1_ef2f1671:
 
     # u "What?"
-    u ""Quoi ?""
+    u "Quoi ?"
 
 # game/v6/v6.rpy:7234
 translate francais v6_fr3guy1_18aa5774:
 
     # guya "Who's hotter, Kourtney or Kylie?"
-    guya ""
+    guya "Qui est la plus sexy, Kourtney ou Kylie ?"
 
 # game/v6/v6.rpy:7239
 translate francais v6_fr3guy1_8d101fc4:
 
     # u "Like the Kardashians?"
-    u ""
+    u "Comme les Kardashians-Jenner ?"
 
 # game/v6/v6.rpy:7244
 translate francais v6_fr3guy1_ad3b8004:
 
     # guya "Yeah, duh."
-    guya ""
+    guya "Ouais, mec."
 
 # game/v6/v6.rpy:7249
 translate francais v6_fr3guy1_26767fb9:
 
     # guyb "Definitely Kylie."
-    guyb ""
+    guyb "Certainement Kylie Jenner."
 
 # game/v6/v6.rpy:7259
 translate francais v6_fr3guy1_72732272:
 
     # u "Yeah I agree, Kylie's way hotter."
-    u ""
+    u "Ouais je suis d'accord, Kylie est bien plus sexy."
 
 # game/v6/v6.rpy:7264
 translate francais v6_fr3guy1_59d94461:
 
     # guyb "Exactly!"
-    guyb ""
+    guyb "Exactement!"
 
 # game/v6/v6.rpy:7269
 translate francais v6_fr3guy1_4c24ada3:
 
     # guya "What? Why?"
-    guya ""
+    guya "Quoi ? Pourquoi ?"
 
 # game/v6/v6.rpy:7274
 translate francais v6_fr3guy1_6734e85f:
 
     # u "Kylie has a body. And her face is way better."
-    u ""
+    u "Kylie a un corps. Et son visage est bien mieux."
 
 # game/v6/v6.rpy:7279
 translate francais v6_fr3guy1_9a6bf9d7:
 
     # guya "Yeah, because all the work done."
-    guya ""
+    guya "Ouais, parce qu'elle est refaite de la tête aux pieds."
 
 # game/v6/v6.rpy:7284
 translate francais v6_fr3guy1_b97a9c8b:
 
     # u "Work done or not, she's hotter."
-    u ""
+    u "Refaite ou pas, elle est plus chaude."
 
 # game/v6/v6.rpy:7289
 translate francais v6_fr3guy1_b6830402:
 
     # guyb "That's what I've been saying!"
-    guyb ""
+    guyb "C'est ce que j'ai dit !"
 
 # game/v6/v6.rpy:7294
 translate francais v6_fr3guy1_b8e635df:
 
     # guya "Man, you guys are crazy. Kourtney's the only natural one."
-    guya ""
+    guya "Mec, vous êtes fous. Kourtney est la seule naturelle."
 
 # game/v6/v6.rpy:7299
 translate francais v6_fr3guy1_1efe2674:
 
     # guyb "Keeping up with the Kardashians, season 18, episode 3."
-    guyb ""
+    guyb "L'Incroyable Famille Kardashian, saison 18, épisode 3."
 
 # game/v6/v6.rpy:7301
 translate francais v6_fr3guy1_533aff4a:
 
     # guyb "Tell me Kourtney looks anywhere near as hot as Kylie there."
-    guyb ""
+    guyb "Dis-moi que Kourtney a l'air aussi sexy que Kylie là-bas."
 
 # game/v6/v6.rpy:7306
 translate francais v6_fr3guy1_f5d23264:
 
     # u "Alright, I'ma leave you guys to it."
-    u ""
+    u "D'accord, je vous laisse."
 
 # game/v6/v6.rpy:7312
 translate francais v6_fr3guy1_6e98178e:
 
     # u "Definitely Kourtney."
-    u ""
+    u "Certainement Kourtney."
 
 # game/v6/v6.rpy:7317
 translate francais v6_fr3guy1_ce7bbd1d:
 
     # guya "See! Told you!"
-    guya ""
+    guya "Tu vois ! Je te l'ai dis ! "
 
 # game/v6/v6.rpy:7322
 translate francais v6_fr3guy1_94e1be19:
 
     # guyb "Hell nah."
-    guyb ""
+    guyb "Putain mais non."
 
 # game/v6/v6.rpy:7327
 translate francais v6_fr3guy1_480e82c4:
 
     # u "Kourtney's the natural one. I prefer natural beauty all day."
-    u ""
+    u "Kourtney's the natural one. I prefer natural beauty all day."
 
 # game/v6/v6.rpy:7332
 translate francais v6_fr3guy1_7372b877:
 
     # guya "My point exactly."
-    guya ""
+    guya "Mon point de vue exactement."
 
 # game/v6/v6.rpy:7337
 translate francais v6_fr3guy1_c259c9d9:
 
     # guyb "Man, who cares about natural beauty when that body is banging. Don't matter in bed."
-    guyb ""
+    guyb "L'homme, qui se soucie de la beauté naturelle. Quand tu te la tappe, peu importe au lit."
 
 # game/v6/v6.rpy:7342
 translate francais v6_fr3guy1_5f222853:
 
     # u "Haha, I feel like natural also looks better naked."
-    u ""
+    u "Haha, j'ai l'impression que le naturel a aussi l'air mieux nu."
 
 # game/v6/v6.rpy:7347
 translate francais v6_fr3guy1_69bebd9e:
 
     # guya "Yeah bud, just accept that Kourtney's hotter."
-    guya ""
+    guya "Ouais mon pote, accepte juste que Kourtney soit plus sexy."
 
 # game/v6/v6.rpy:7352
 translate francais v6_fr3guy1_90456ee8:
 
     # guyb "Keeping up with the Kardashians, season two, episode 3."
-    guyb ""
+    guyb "L'Incroyable Famille Kardashian, saison 2, épisode 3."
 
 # game/v6/v6.rpy:7354
 translate francais v6_fr3guy1_533aff4a_1:
 
     # guyb "Tell me Kourtney looks anywhere near as hot as Kylie there."
-    guyb ""
+    guyb "Dis-moi que Kourtney a l'air aussi sexy que Kylie là-bas."
 
 # game/v6/v6.rpy:7359
 translate francais v6_fr3guy1_f5d23264_1:
 
     # u "Alright, I'ma leave you guys to it."
-    u ""
+    u "D'accord, je vous laisse."
 
 # game/v6/v6.rpy:7367
 translate francais v6_fr3guy2_b5187620:
 
     # u "(No way I'm getting dragged back into that argument.)"
-    u ""
+    u "(Pas question que je sois ramené dans ce débat.)"
 
 # game/v6/v6.rpy:7379
 translate francais v6_fr3aubrey1_8c1ef366:
 
     # au "Really?"
-    au ""
+    au "Ah bon ?"
 
 # game/v6/v6.rpy:7384
 translate francais v6_fr3aubrey1_9d29d92c:
 
     # em "Yeah."
-    em ""
+    em "Oui."
 
 # game/v6/v6.rpy:7389
 translate francais v6_fr3aubrey1_8686e81c:
@@ -7324,67 +7324,67 @@ translate francais v6_fr3aubrey1_8686e81c:
 translate francais v6_fr3aubrey1_38a3dbeb:
 
     # em "Uhm... hey."
-    em "Salut"
+    em "Euh... Salut"
 
 # game/v6/v6.rpy:7404
 translate francais v6_fr3aubrey1_501a02e8:
 
     # u "So uhm..."
-    u ""
+    u "Alors euh..."
 
 # game/v6/v6.rpy:7411
 translate francais v6_fr3aubrey1_65fc7545:
 
     # au "Well, this feels awkward. I can leave if you guys wanna talk."
-    au ""
+    au "Eh bien, cela semble gênant. Je peux partir si vous voulez parler."
 
 # game/v6/v6.rpy:7416
 translate francais v6_fr3aubrey1_611ab529:
 
     # u "No, stay. I was just stopping by to say hi."
-    u ""
+    u "Non reste. Je m'arrêtais juste pour dire bonjour."
 
 # game/v6/v6.rpy:7421
 translate francais v6_fr3aubrey1_df10c864:
 
     # au "Oh, okay."
-    au ""
+    au "Oh d'accord."
 
 # game/v6/v6.rpy:7426
 translate francais v6_fr3aubrey1_4bc97342:
 
     # u "Alright, I'ma go talk to some of the other people here. Bye..."
-    u ""
+    u "D'accord, je vais parler à d'autres personnes ici. Au revoir..."
 
 # game/v6/v6.rpy:7431
 translate francais v6_fr3aubrey1_3f21304e:
 
     # au "Okay, bye."
-    au ""
+    au "Okay au revoir."
 
 # game/v6/v6.rpy:7434
 translate francais v6_fr3aubrey1_8c1ef366_1:
 
     # au "Really?"
-    au ""
+    au "vraiment"
 
 # game/v6/v6.rpy:7439
 translate francais v6_fr3aubrey1_9d29d92c_1:
 
     # em "Yeah."
-    em ""
+    em "Oui."
 
 # game/v6/v6.rpy:7444
 translate francais v6_fr3aubrey1_5b240244:
 
     # au "Oh hey."
-    au "Salut"
+    au "Oh Salut"
 
 # game/v6/v6.rpy:7449
 translate francais v6_fr3aubrey1_e961481b:
 
     # u "Hey Aubrey. Uhm... hey Emily."
-    u ""
+    u "Salut Aubrey. Euh... salut Emily."
 
 # game/v6/v6.rpy:7454
 translate francais v6_fr3aubrey1_4bbc2845:
