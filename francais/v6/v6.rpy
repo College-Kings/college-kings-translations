@@ -7366,7 +7366,7 @@ translate francais v6_fr3aubrey1_3f21304e:
 translate francais v6_fr3aubrey1_8c1ef366_1:
 
     # au "Really?"
-    au "vraiment"
+    au "Vraiment ?"
 
 # game/v6/v6.rpy:7439
 translate francais v6_fr3aubrey1_9d29d92c_1:
@@ -7390,49 +7390,49 @@ translate francais v6_fr3aubrey1_e961481b:
 translate francais v6_fr3aubrey1_4bbc2845:
 
     # em "Did you need something?"
-    em ""
+    em "As-tu besoin de quelque chose ?"
 
 # game/v6/v6.rpy:7459
 translate francais v6_fr3aubrey1_22b005c1:
 
     # u "Just wanted to say hi to Aubrey."
-    u ""
+    u "Je voulais juste dire bonjour à Aubrey."
 
 # game/v6/v6.rpy:7464
 translate francais v6_fr3aubrey1_353aa221:
 
     # em "We were kind of in the middle of talking."
-    em ""
+    em "Nous étions un peu en train de discuter."
 
 # game/v6/v6.rpy:7469
 translate francais v6_fr3aubrey1_0df97a62:
 
     # u "Uhm... okay?"
-    u ""
+    u "Euh... d'accord ?"
 
 # game/v6/v6.rpy:7474
 translate francais v6_fr3aubrey1_18db84ee:
 
     # au "Do you guys need to talk alone for a minute orrr-?"
-    au ""
+    au "Avez-vous besoin de parler seuls pendant une minute ouuuu-?"
 
 # game/v6/v6.rpy:7479
 translate francais v6_fr3aubrey1_c736197e:
 
     # u "Nah, it's cool. Just saying hi, I'll go talk to some of the other people here."
-    u ""
+    u "Nan, c'est cool. Je dis juste bonjour, je vais parler à d'autres personnes ici."
 
 # game/v6/v6.rpy:7482
 translate francais v6_fr3aubrey1_8c1ef366_2:
 
     # au "Really?"
-    au ""
+    au "Vraiment ?"
 
 # game/v6/v6.rpy:7487
 translate francais v6_fr3aubrey1_9d29d92c_2:
 
     # em "Yeah."
-    em ""
+    em "Ouai."
 
 # game/v6/v6.rpy:7492
 translate francais v6_fr3aubrey1_8686e81c_1:
@@ -7444,193 +7444,193 @@ translate francais v6_fr3aubrey1_8686e81c_1:
 translate francais v6_fr3aubrey1_437e9148:
 
     # em "Hi."
-    em ""
+    em "Salut"
 
 # game/v6/v6.rpy:7502
 translate francais v6_fr3aubrey1_66eeae3d:
 
     # u "You look good."
-    u ""
+    u "Tu as l'air bien."
 
 # game/v6/v6.rpy:7507
 translate francais v6_fr3aubrey1_7f986cd0:
 
     # em "Could say the same about you."
-    em ""
+    em "Je pourrais dire la même chose de toi."
 
 # game/v6/v6.rpy:7512
 translate francais v6_fr3aubrey1_2344e08d:
 
     # au "Uhh, hi?"
-    au ""
+    au "Euh, salut ?"
 
 # game/v6/v6.rpy:7517
 translate francais v6_fr3aubrey1_6c0e06bd:
 
     # u "Oh, hey Aubrey."
-    u ""
+    u "Oh, salut Aubrey."
 
 # game/v6/v6.rpy:7522
 translate francais v6_fr3aubrey1_a2d231ef:
 
     # au "Sooo, Emily was just telling me you guys used to date."
-    au ""
+    au "Tellement, Emily me disait juste que vous sortiez ensemble."
 
 # game/v6/v6.rpy:7527
 translate francais v6_fr3aubrey1_fb7ad77b:
 
     # u "Yup. High school sweethearts."
-    u ""
+    u "Ouais. Amoureux au lycée."
 
 # game/v6/v6.rpy:7532
 translate francais v6_fr3aubrey1_22493b30:
 
     # em "I was just telling Aubrey the story of how you asked me to senior prom."
-    em ""
+    em "Je racontais juste à Aubrey l'histoire de la façon dont tu m'as invité au bal de fin d'année."
 
 # game/v6/v6.rpy:7537
 translate francais v6_fr3aubrey1_19058afb:
 
     # u "*Chuckles* Oh no, not that story."
-    u ""
+    u "*Rires* Oh non, pas cette histoire."
 
 # game/v6/v6.rpy:7542
 translate francais v6_fr3aubrey1_07d0d820:
 
     # em "Why don't you like that story? It was so sweet."
-    em ""
+    em "Pourquoi tu n'aimes pas cette histoire ? C'était si gentil."
 
 # game/v6/v6.rpy:7547
 translate francais v6_fr3aubrey1_bef22ccd:
 
     # au "Yeah, I really didn't take you as the romantic type. But a whole banner in the entrance of the school?"
-    au ""
+    au "Ouais, je ne t'ai vraiment pas pris pour le genre romantique. Mais toute une banderole à l'entrée de l'école ?"
 
 # game/v6/v6.rpy:7548
 translate francais v6_fr3aubrey1_5814c83b:
 
     # au "I don't think anyone has ever given me such a grand gesture."
-    au ""
+    au "Je pense que personne ne m'a jamais fait un geste aussi grandiose."
 
 # game/v6/v6.rpy:7553
 translate francais v6_fr3aubrey1_89bba34b:
 
     # u "What can I say? I was a hopeless romantic. *Laughs*"
-    u ""
+    u "Que puis-je dire ? J'étais désespérément romantique. *Des rires*"
 
 # game/v6/v6.rpy:7558
 translate francais v6_fr3aubrey1_6fcb5661:
 
     # em "When I saw it, I just started crying. It was the most amazing thing anyone's ever done for me."
-    em ""
+    em "Quand je l'ai vu, je me suis mise à pleurer. C'était la chose la plus incroyable que quelqu'un ait jamais faite pour moi."
 
 # game/v6/v6.rpy:7563
 translate francais v6_fr3aubrey1_10436562:
 
     # au "I mean it's definitely a lot, haha."
-    au ""
+    au "Je veux dire, c'est vraiment beaucoup, haha."
 
 # game/v6/v6.rpy:7573
 translate francais v6_fr3aubrey1_67db44e0:
 
     # u "Anything for a girl like that..."
-    u ""
+    u "N'importe quoi pour une fille comme ça..."
 
 # game/v6/v6.rpy:7578
 translate francais v6_fr3aubrey1_a5904ca3:
 
     # em "You're too sweet."
-    em ""
+    em "Tu es trop gentil."
 
 # game/v6/v6.rpy:7583
 translate francais v6_fr3aubrey1_7d97da4f:
 
     # au "Oh god, think I'm gonna puke."
-    au ""
+    au "Oh mon Dieu, je pense que je vais vomir."
 
 # game/v6/v6.rpy:7588
 translate francais v6_fr3aubrey1_5f3ef176:
 
     # u "*Laughs* Couldn't help myself. I was young and in love."
-    u ""
+    u "*Rires* Je n'ai pas pu m'en empêcher. J'étais jeune et amoureux."
 
 # game/v6/v6.rpy:7593
 translate francais v6_fr3aubrey1_c4eb7b86:
 
     # au "Sure sounds like it."
-    au ""
+    au "Bien sûr, ça ce voyais."
 
 # game/v6/v6.rpy:7598
 translate francais v6_fr3aubrey1_a4d86504:
 
     # u "Anyways, I'ma check out the rest of this party."
-    u ""
+    u "Quoi qu'il en soit, je vais voir le reste de cette fête."
 
 # game/v6/v6.rpy:7603
 translate francais v6_fr3aubrey1_ebf31ff6:
 
     # em "I hope we get to catch up some more later."
-    em ""
+    em "J'espère que nous pourrons nous rattraper un peu plus tard."
 
 # game/v6/v6.rpy:7608
 translate francais v6_fr3aubrey1_9e52db9b:
 
     # u "*Chuckles* I'm sure we will."
-    u ""
+    u "*Rires* Je suis sûr que nous le ferons."
 
 # game/v6/v6.rpy:7615
 translate francais v6_fr3aubrey1_8beb1c42:
 
     # u "What people do for pussy, am I right?"
-    u ""
+    u "Qu'est-ce que les gens feraient pour une chatte, ai-je raison ?"
 
 # game/v6/v6.rpy:7620
 translate francais v6_fr3aubrey1_b9b9c170:
 
     # em "What?!"
-    em ""
+    em "Quoi ?!"
 
 # game/v6/v6.rpy:7625
 translate francais v6_fr3aubrey1_4d155599:
 
     # au "*Laughs* It seems to have worked."
-    au ""
+    au "*Rires* Cela semble avoir fonctionné."
 
 # game/v6/v6.rpy:7630
 translate francais v6_fr3aubrey1_c866df4c:
 
     # em "Aubrey!"
-    em ""
+    em "Aubrey ! "
 
 # game/v6/v6.rpy:7635
 translate francais v6_fr3aubrey1_da08299a:
 
     # u "I was just kidding, calm down Emily."
-    u ""
+    u "Je plaisantais, calme-toi Emily."
 
 # game/v6/v6.rpy:7640
 translate francais v6_fr3aubrey1_8cedd093:
 
     # em "You better have been."
-    em ""
+    em "Tu vaudrais mieux que ce soit vrai."
 
 # game/v6/v6.rpy:7647
 translate francais v6_fr3aubrey1_23195ec4:
 
     # u "Uhm... anyway, I'ma check out the rest of this party. See you guys later."
-    u ""
+    u "Euh... de toute façon, je vais voir le reste de cette fête. A plus tard les filles."
 
 # game/v6/v6.rpy:7651
 translate francais v6_fr3aubrey1_8c1ef366_3:
 
     # au "Really?"
-    au ""
+    au "Vraiment ?"
 
 # game/v6/v6.rpy:7656
 translate francais v6_fr3aubrey1_9d29d92c_3:
 
     # em "Yeah."
-    em ""
+    em "Ouai"
 
 # game/v6/v6.rpy:7661
 translate francais v6_fr3aubrey1_5b240244_1:
@@ -7642,133 +7642,133 @@ translate francais v6_fr3aubrey1_5b240244_1:
 translate francais v6_fr3aubrey1_e90e3e31:
 
     # u "Hey. Looking good, girls."
-    u ""
+    u "Hey. Vous avez l'air en forme, les filles."
 
 # game/v6/v6.rpy:7669
 translate francais v6_fr3aubrey1_de19ee5d:
 
     # au "Thank you."
-    au ""
+    au "Merci."
 
 # game/v6/v6.rpy:7674
 translate francais v6_fr3aubrey1_b7329563:
 
     # em "You too."
-    em ""
+    em "Toi aussi."
 
 # game/v6/v6.rpy:7679
 translate francais v6_fr3aubrey1_a3138af2:
 
     # au "Emily was just telling me some stories about you two from high school."
-    au ""
+    au "Emily me racontait juste des histoires sur vous deux depuis le lycée."
 
 # game/v6/v6.rpy:7684
 translate francais v6_fr3aubrey1_d98c3dc2:
 
     # u "Oh god. Which ones?"
-    u ""
+    u "Oh mon Dieu. Lesquelles?"
 
 # game/v6/v6.rpy:7689
 translate francais v6_fr3aubrey1_642604b6:
 
     # au "The one where you asked her to senior prom."
-    au ""
+    au "Celui où tu l'as invitée au bal de fin d'année."
 
 # game/v6/v6.rpy:7694
 translate francais v6_fr3aubrey1_2c5932e4:
 
     # u "*Chuckles* Oh no."
-    u ""
+    u "*Rires* Oh non."
 
 # game/v6/v6.rpy:7699
 translate francais v6_fr3aubrey1_22df2404:
 
     # au "A whole banner in the entrance of the school? What a grand gesture."
-    au ""
+    au "Une banderole entière à l'entrée de l'école ? Quel beau geste."
 
 # game/v6/v6.rpy:7704
 translate francais v6_fr3aubrey1_0efb29a5:
 
     # u "It was nothing really."
-    u ""
+    u "Ce n'était vraiment rien."
 
 # game/v6/v6.rpy:7709
 translate francais v6_fr3aubrey1_6fcb5661_1:
 
     # em "When I saw it, I just started crying. It was the most amazing thing anyone's ever done for me."
-    em ""
+    em "Quand je l'ai vu, je me suis mise à pleurer. C'était la chose la plus incroyable que quelqu'un ait jamais faite pour moi."
 
 # game/v6/v6.rpy:7714
 translate francais v6_fr3aubrey1_10436562_1:
 
     # au "I mean it's definitely a lot, haha."
-    au ""
+    au "Je veux dire, c'est vraiment beaucoup, haha."
 
 # game/v6/v6.rpy:7724
 translate francais v6_fr3aubrey1_4f5c2ffa:
 
     # u "What can I say? I was young and in love."
-    u ""
+    u "Que puis-je dire ? J'étais jeune et amoureux."
 
 # game/v6/v6.rpy:7729
 translate francais v6_fr3aubrey1_fe0fc4f0:
 
     # em "*Chuckles* We both were."
-    em ""
+    em "*Rires* Nous l'étions tous les deux."
 
 # game/v6/v6.rpy:7734
 translate francais v6_fr3aubrey1_6e7b83b9:
 
     # au "Mhm."
-    au ""
+    au "Hum."
 
 # game/v6/v6.rpy:7739
 translate francais v6_fr3aubrey1_6b407d38:
 
     # em "Those were good times."
-    em ""
+    em "C'était de bons moments."
 
 # game/v6/v6.rpy:7744
 translate francais v6_fr3aubrey1_c053df64:
 
     # u "Uh, yeah, yeah they were."
-    u ""
+    u "Euh, ouais, ouais ils l'étaient."
 
 # game/v6/v6.rpy:7749
 translate francais v6_fr3aubrey1_4dc016c6:
 
     # em "So you here to check out the Wolves?"
-    em ""
+    em "Alors tu es ici pour voir les Wolves ? "
 
 # game/v6/v6.rpy:7754
 translate francais v6_fr3aubrey1_744a6b9b:
 
     # u "Yeah, just seeing what they're like. Plus a lot of my friends are here."
-    u ""
+    u "Ouais, juste voir à quoi ils ressemblent. De plus, beaucoup de mes amis sont ici."
 
 # game/v6/v6.rpy:7756
 translate francais v6_fr3aubrey1_a4d86504_1:
 
     # u "Anyways, I'ma check out the rest of this party."
-    u ""
+    u "Quoi qu'il en soit, je vais voir le reste de cette fête."
 
 # game/v6/v6.rpy:7761
 translate francais v6_fr3aubrey1_ebf31ff6_1:
 
     # em "I hope we get to catch up some more later."
-    em ""
+    em "J'espère que nous pourrons nous rattraper un peu plus tard."
 
 # game/v6/v6.rpy:7766
 translate francais v6_fr3aubrey1_0eca355e:
 
     # u "I'm sure we will."
-    u ""
+    u "Je suis sûr que nous le ferons."
 
 # game/v6/v6.rpy:7771
 translate francais v6_fr3aubrey1_9d5ad3ff:
 
     # au "Byeee."
-    au ""
+    au "Au revoir."
 
 # game/v6/v6.rpy:7778
 translate francais v6_fr3aubrey1_01cd9943:
@@ -7780,31 +7780,31 @@ translate francais v6_fr3aubrey1_01cd9943:
 translate francais v6_fr3aubrey1_c583cc22:
 
     # em "Was still really sweet."
-    em ""
+    em "Vraiment, ce n'était rien. C'était il y a si longtemps."
 
 # game/v6/v6.rpy:7788
 translate francais v6_fr3aubrey1_2d38d605:
 
     # u "Yeah, yeah. I know."
-    u ""
+    u "Yeah Yeah. Je sais."
 
 # game/v6/v6.rpy:7793
 translate francais v6_fr3aubrey1_a646aadd:
 
     # au "Sooo, you here to check out the Wolves or the ladies tonight?"
-    au ""
+    au "Alors, tu es ici pour voir les Wolves ou les dames ce soir ?"
 
 # game/v6/v6.rpy:7798
 translate francais v6_fr3aubrey1_735eba10:
 
     # u "*Laughs* Maybe a bit of both."
-    u ""
+    u "*Rires* Peut-être un peu des deux."
 
 # game/v6/v6.rpy:7803
 translate francais v6_fr3aubrey1_f1c99fac:
 
     # em "Wow."
-    em ""
+    em "Waouh."
 
 # game/v6/v6.rpy:7808
 translate francais v6_fr3aubrey1_3d5a1afc:
@@ -7816,31 +7816,31 @@ translate francais v6_fr3aubrey1_3d5a1afc:
 translate francais v6_fr3aubrey1_c7c26833:
 
     # au "Sure."
-    au ""
+    au "Je plaisante. J'essaye juste de voir ce qui se passe."
 
 # game/v6/v6.rpy:7818
 translate francais v6_fr3aubrey1_a4d86504_2:
 
     # u "Anyways, I'ma check out the rest of this party."
-    u ""
+    u "Quoi qu'il en soit, je vais vérifier le reste de cette fête."
 
 # game/v6/v6.rpy:7823
 translate francais v6_fr3aubrey1_074c1fb7:
 
     # au "I'm sure we'll get to catch up some more later."
-    au ""
+    au "Quoi qu'il en soit, je vais voir le reste de cette fête."
 
 # game/v6/v6.rpy:7828
 translate francais v6_fr3aubrey1_515b4cf7:
 
     # u "*Chuckles* I'd hope so."
-    u ""
+    u "*Rires* Je l'espère."
 
 # game/v6/v6.rpy:7836
 translate francais v6_fr3aubrey2_ebf251f6:
 
     # u "(I should check out other parts of the party as well.)"
-    u ""
+    u "(Je devrais également vérifier d'autres parties de la fête.)"
 
 # game/v6/v6.rpy:7845
 translate francais v6_fr3dsbathroom_805bb12a:
