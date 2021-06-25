@@ -106,7 +106,7 @@ translate francais imrecona_3f3be3cb:
 translate francais imrecona_3ca6fa7c:
 
     # imre "Fuck do you know about loyalty?! You just wanna be in control!"
-    imre "Putain tu connais la loyauté ?! Vous voulez juste avoir le contrôle !"
+    imre "Putain tu connais la loyauté ?! Tu voulais juste avoir le contrôle !"
 
 # game/v6/v6.rpy:237
 translate francais imrecona_c4ee4496:
@@ -208,7 +208,7 @@ translate francais imreconb_169816de:
 translate francais imreconb_ed58fa91:
 
     # imre "You know, it's just... my brother would never let someone do that to him."
-    imre Tu sais, c'est juste que... mon frère ne laisserait jamais quelqu'un lui faire ça."
+    imre "Tu sais, c'est juste que... mon frère ne laisserait jamais quelqu'un lui faire ça."
 
 # game/v6/v6.rpy:316
 translate francais imreconb_c27405c2:
@@ -388,7 +388,7 @@ translate francais phoneac_9a4cf874:
 translate francais phoneac_f87f4afc:
 
     # u "Hey, you're gonna-"
-    u ""Hé, tu vas-"
+    u "Hé, tu vas-"
 
 # game/v6/v6.rpy:490
 translate francais phoneac_94c537b9:
@@ -790,7 +790,7 @@ translate francais fs_bd_8ba4c076:
 translate francais fs_bd_fe97a2f3:
 
     # imre "Well I was banging on this bastard's door, but he was too pussy to open."
-    imre ""Eh bien, je frappais à la porte de ce batard, mais il était trop poule mouillée pour ouvrir."
+    imre "Eh bien, je frappais à la porte de ce batard, mais il était trop poule mouillée pour ouvrir."
 
 # game/v6/v6.rpy:939
 translate francais fs_bd_b9efbe3c:
@@ -4000,7 +4000,7 @@ translate francais naub69_4a5f7c76:
 translate francais naubfingering_fc0146a8:
 
     # au "Oh my god...."
-    au ""
+    au "Oh mon Dieu...."
 
 # game/v6/v6.rpy:4284
 translate francais naubfingering_3da13d1c:
@@ -7906,7 +7906,7 @@ translate francais v6_fr3chris1_8672bf74:
 translate francais v6_fr3chris1_0a62565a:
 
     # guyc "Looks like you got a fan waiting for you. I'll catch up with you later."
-    guyc "On dirait que tu as un fan qui t'attend. Je racontterais plus tard.""
+    guyc "On dirait que tu as un fan qui t'attend. Je racontterais plus tard."
 
 # game/v6/v6.rpy:7912
 translate francais v6_fr3chris1_c22bd342:
@@ -11408,11 +11408,11 @@ translate francais strings:
 
     # game/v6/v6.rpy:3881
     old "I think you know."
-    new ""
+    new "Je pense que tu le sais."
 
     # game/v6/v6.rpy:3881
     old "We're just friends."
-    new "Je pense que tu le sais."
+    new "Nous sommes juste amis."
 
     # game/v6/v6.rpy:3947
     old "You got me."

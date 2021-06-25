@@ -243,7 +243,7 @@ translate francais dp_ad_a7e3f450:
 # game/v4/v4.rpy:235
 translate francais dp_ad_186f6247:
 
-    # ri "What the hell?! Will he be okay?" 
+    # ri "What the hell?! Will he be okay?"
     ri "Quelle merde?! Est-ce qu'il vas bien ?"
 
 # game/v4/v4.rpy:240
@@ -370,7 +370,7 @@ translate francais dp_ad_b3d899b0:
 translate francais dq_bd_26cb2dcb:
 
     # u "Hey, isn't it kinda crazy that we all just met at the beginning of the week?"
-    u "Hé, n'est-ce pas un peu fou que nous nous soyons tous rencontrés au début de la semaine ?""
+    u "Hé, n'est-ce pas un peu fou que nous nous soyons tous rencontrés au début de la semaine ?"
 
 # game/v4/v4.rpy:354
 translate francais dq_bd_24a1daf3:
@@ -898,7 +898,7 @@ translate francais jucon2_4f1997c1:
 translate francais jucon2_d8cd3e8c:
 
     # ju "Honey, you in there?"
-    ju "Chéri, tu es là-dedans ?""
+    ju "Chéri, tu es là-dedans ?"
 
 # game/v4/v4.rpy:858
 translate francais jucon2_4be38f15:
@@ -3223,4 +3223,3 @@ translate francais strings:
     # game/v4/v4.rpy:2891
     old "Ask about the punch"
     new "Demander à propos du coup de poing"
-
