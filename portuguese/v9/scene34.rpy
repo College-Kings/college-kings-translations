@@ -510,41 +510,41 @@ translate portuguese v9_ri_sex_785406a2:
 translate portuguese v9_ri_sex_bebb9ce1:
 
     # ri "Let me get on top."
-    ri ""
+    ri "Me deixe ir por cima"
 
 # game/v9/scene34.rpy:403
 translate portuguese v9s34_nsfwSkipLabel1_c1b65a38:
 
     # u "(Nap? What?)"
-    u ""
+    u "(Cochilei? o quê?)"
 
 # game/v9/scene34.rpy:408
 translate portuguese v9s34_nsfwSkipLabel1_b7495ffd:
 
     # ri "I have to meet some friends for lunch. Gotta hit the road."
-    ri ""
+    ri "Eu tenho que encontrar alguns amigos pra almoçar. Tenho que me sair agora."
 
 # game/v9/scene34.rpy:413
 translate portuguese v9s34_nsfwSkipLabel1_999edf04:
 
     # u "What time is it? How long was I out?"
-    u ""
+    u "Que horas são? Quanto tempo estive dormindo?"
 
 # game/v9/scene34.rpy:418
 translate portuguese v9s34_nsfwSkipLabel1_42ce5cf0:
 
     # ri "Not long. Just a little catnap. You feel refreshed?"
-    ri ""
+    ri "Não muito. Apenas uma pequena soneca de gato. Você se sente aliviado?"
 
 # game/v9/scene34.rpy:423
 translate portuguese v9s34_nsfwSkipLabel1_7725473a:
 
     # u "Very."
-    u ""
+    u "Bastante."
 
 # game/v9/scene34.rpy:428
 translate portuguese v9s34_nsfwSkipLabel1_785406a2:
 
     # ri "Good. Now go."
-    ri ""
+    ri "Otimo, agora vai."
 

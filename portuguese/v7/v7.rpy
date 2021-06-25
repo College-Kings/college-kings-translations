@@ -14344,7 +14344,7 @@ translate portuguese fr4penelopedatechloe_ff810339:
 translate portuguese fr4penelopedatechloe_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v7/v7.rpy:13763
 translate portuguese fr4penelopedatechloe_6a0d4a27:
@@ -18648,7 +18648,7 @@ translate portuguese v7_nsfwSkipLabel1_5c607d4c:
 translate portuguese signs_with_autumn_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v7/v7.rpy:9884
 translate portuguese v7_nsfwSkipLabel5_bec8eb34:
@@ -19110,17 +19110,17 @@ translate portuguese strings:
 
     # game/v7/v7.rpy:1369
     old "Omg beautiful!"
-    new ""
+    new "Oh meu deus, linda!"
 
     # game/v7/v7.rpy:1376
     old "Holy hell... gorgeous Aubs!"
-    new ""
+    new "Puta que pariu, Maravilhosa!"
 
     # game/v7/v7.rpy:1377
     old "Most beautiful girl in the world <3"
-    new ""
+    new "Garota mais bonita do mundo <3"
 
     # game/v7/v7.rpy:5495
     old "Woohoo!"
-    new ""
+    new "Woohoo!"
 

@@ -100,7 +100,7 @@ translate portuguese v10_emily_vs_aubrey_aa0910b4_1:
 translate portuguese v10_emily_vs_aubrey_c5f11a9f:
 
     # em "You can give up anytime you want."
-    em ""
+    em "Você pode desistir a qualquer momento que quiser."
 
 # game/v10/scene36.rpy:73
 translate portuguese v10_emily_vs_aubrey_d8c34d6e:

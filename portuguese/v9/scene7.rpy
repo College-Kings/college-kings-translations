@@ -1083,7 +1083,7 @@ translate portuguese v9_aubrey_scene_lake_0c950894:
 translate portuguese v9_aubrey_scene_lake_a638a690:
 
     # u "Some would say both."
-    u "Alguns diriam que ambas."
+    u "Alguns diriam que ambos."
 
 # game/v9/scene7.rpy:1106
 translate portuguese v9_aubrey_scene_lake_4895ddf9:
@@ -1095,7 +1095,7 @@ translate portuguese v9_aubrey_scene_lake_4895ddf9:
 translate portuguese v9_aubrey_scene_lake_3e629aab:
 
     # u "Well, I guess I should probably get out now. Explore the place a bit more, you know?"
-    u "Bem, acho que provavelmente eu devo sair agora. Explorar o lugar um pouco mais, entende?"
+    u "Bem, acho que provavelmente eu devo sair agora. Explorar o lugar um pouco mais, beleza?"
 
 # game/v9/scene7.rpy:1116
 translate portuguese v9_aubrey_scene_lake_e882ca6f:
@@ -1548,101 +1548,101 @@ translate portuguese strings:
 translate portuguese v9s7_nsfwSkipLabel1_9f16ac2e:
 
     # au "Wow, you keep on surprising me, [name]."
-    au ""
+    au "Uou você continua me surpreendendo [name]."
 
 # game/v9/scene7.rpy:1044
 translate portuguese v9s7_nsfwSkipLabel1_22a23130:
 
     # u "One could say I'm full of surprises. But I think I just know how to figure out people I care about."
-    u ""
+    u "Alguns dizem que eu sou uma caixinha de surpresas. Mas ma verdade eu acho que só sei como desvendo as pessoas que eu me importo.""
 
 # game/v9/scene7.rpy:1049
 translate portuguese v9s7_nsfwSkipLabel1_b8a5652a:
 
     # au "Oh, so you care about me?"
-    au ""
+    au "Hmm, então você se importa comigo?"
 
 # game/v9/scene7.rpy:1054
 translate portuguese v9s7_nsfwSkipLabel1_f39b9ab0:
 
     # u "Oh, so I figured you out?"
-    u ""
+    u "Hmm, então eu desvendei você?"
 
 # game/v9/scene7.rpy:1059
 translate portuguese v9s7_nsfwSkipLabel1_719c02f1:
 
     # au "I guess that is a double edged sword, ha."
-    au ""
+    au "Acho que essa é uma lâmina de dois gumes, ha."
 
 # game/v9/scene7.rpy:1064
 translate portuguese v9s7_nsfwSkipLabel1_dc207349:
 
     # u "That's life. Like, do you think Ryan ever thought I would ruin his view by jumping in here?"
-    u ""
+    u "Isso é a vida. Tipo, você acha que Ryan pensou que eu ia vir arruinar a vista dele ao vir pular aqui?"
 
 # game/v9/scene7.rpy:1069
 translate portuguese v9s7_nsfwSkipLabel1_1e8acc57:
 
     # au "What do you mean?"
-    au ""
+    au "O queê quer dizer?"
 
 # game/v9/scene7.rpy:1074
 translate portuguese v9s7_nsfwSkipLabel1_26df9759:
 
     # u "He's been staring at you ever since we came here."
-    u ""
+    u "Ele tá olhando pra você desde que chegamos aqui."
 
 # game/v9/scene7.rpy:1079
 translate portuguese v9s7_nsfwSkipLabel1_b2efcf46:
 
     # au "Well who could blame him?"
-    au ""
+    au "Bem, quem não faria isso?"
 
 # game/v9/scene7.rpy:1084
 translate portuguese v9s7_nsfwSkipLabel1_d0aa81a9:
 
     # u "True."
-    u ""
+    u "Verdade"
 
 # game/v9/scene7.rpy:1089
 translate portuguese v9s7_nsfwSkipLabel1_384f6740:
 
     # au "Ha, are you saying I'm hot?"
-    au ""
+    au "Ha, você tá admitindo que eu sou gostosa?"
 
 # game/v9/scene7.rpy:1094
 translate portuguese v9s7_nsfwSkipLabel1_681cf30c:
 
     # u "I'm not saying anything. But saying otherwise could be one lie over my weekly quota."
-    u ""
+    u "Eu não tô dizendo nada. Mas dizer o contrário poderia ser uma mentira a mais da minha cota semanal."
 
 # game/v9/scene7.rpy:1099
 translate portuguese v9s7_nsfwSkipLabel1_0c950894:
 
     # au "Funny. Or should I say clever."
-    au ""
+    au "Engraçado. Ou deveria dizer inteligente."
 
 # game/v9/scene7.rpy:1104
 translate portuguese v9s7_nsfwSkipLabel1_a638a690:
 
     # u "Some would say both."
-    u ""
+    u "Alguns diriam que ambos."
 
 # game/v9/scene7.rpy:1109
 translate portuguese v9s7_nsfwSkipLabel1_4895ddf9:
 
     # au "Maybe, haha."
-    au ""
+    au "Acho que sim, haha"
 
 # game/v9/scene7.rpy:1114
 translate portuguese v9s7_nsfwSkipLabel1_3e629aab:
 
     # u "Well, I guess I should probably get out now. Explore the place a bit more, you know?"
-    u ""
+    u "Bem, acho que provavelmente eu devo sair agora. Explorar o lugar um pouco mais, beleza?"
 
 # game/v9/scene7.rpy:1119
 translate portuguese v9s7_nsfwSkipLabel1_e882ca6f:
 
     # au "Alright, see you later."
-    au ""
+    au "Certo, até mais"
 

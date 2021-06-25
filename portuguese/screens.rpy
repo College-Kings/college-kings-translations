@@ -300,9 +300,9 @@ translate portuguese strings:
 
     # game/screens.rpy:1201
     old "on"
-    new ""
+    new "Ligar"
 
     # game/screens.rpy:1206
     old "off"
-    new ""
+    new "Desligar"
 
