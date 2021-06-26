@@ -78,5 +78,5 @@ translate portuguese strings:
 
     # game/v8/scene25.rpy:14
     old "Ugh someone save me pls"
-    new ""
+    new "Ugh, alugém me salve por favor."
 

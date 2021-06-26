@@ -850,7 +850,7 @@ translate portuguese fs_bd_953a9579:
 translate portuguese continuebb_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v6/v6.rpy:1004
 translate portuguese phoneae_e80c8a11:
@@ -862,7 +862,7 @@ translate portuguese phoneae_e80c8a11:
 translate portuguese phoneae_9ea2f78c:
 
     # " "
-    ""
+    "  "
 
 # game/v6/v6.rpy:1032
 translate portuguese phoneaf_e80c8a11:
@@ -1606,7 +1606,7 @@ translate portuguese continuebe_cd961bb3:
 translate portuguese continuebe_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v6/v6.rpy:1883
 translate portuguese continuebe_6ceaba0c:
@@ -1654,7 +1654,7 @@ translate portuguese continuebe_82e49e55:
 translate portuguese continuebe_9ea2f78c_1:
 
     # " "
-    ""
+    " "
 
 # game/v6/v6.rpy:1917
 translate portuguese continuebe_b4e8627d:
@@ -2428,7 +2428,7 @@ translate portuguese fz_b_1b03ac11:
 translate portuguese emsex_c_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v6/v6.rpy:2720
 translate portuguese emsex_c_0529a669:
@@ -2452,7 +2452,7 @@ translate portuguese emsex_c_fc8b2973:
 translate portuguese emsex_a_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v6/v6.rpy:2758
 translate portuguese emsex_a_9b013366:
@@ -2494,7 +2494,7 @@ translate portuguese emhead_818ee437:
 translate portuguese emhead_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v6/v6.rpy:2786
 translate portuguese emhead_1a8211a6:
@@ -2572,7 +2572,7 @@ translate portuguese emfacefuck_8f2ba603_1:
 translate portuguese emfacefuck_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v6/v6.rpy:2843
 translate portuguese emfacefuck_ac06ae34:
@@ -2632,7 +2632,7 @@ translate portuguese embehind_9327614b:
 translate portuguese embehind_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v6/v6.rpy:2885
 translate portuguese embehind_94f30d9b:
@@ -2662,7 +2662,7 @@ translate portuguese embutterfly_f4daee08:
 translate portuguese embutterfly_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v6/v6.rpy:2905
 translate portuguese embutterfly_ccac5aee:
@@ -2674,7 +2674,7 @@ translate portuguese embutterfly_ccac5aee:
 translate portuguese embutterfly_9ea2f78c_1:
 
     # " "
-    ""
+    " "
 
 # game/v6/v6.rpy:2909
 translate portuguese embutterfly_ba50b607:
@@ -3442,7 +3442,7 @@ translate portuguese gf_b_18f1fc54:
 translate portuguese gf_b_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v6/v6.rpy:3697
 translate portuguese phoneag_d647e9cd:
@@ -3724,7 +3724,7 @@ translate portuguese v6_phoneah_e90a9633:
 translate portuguese aubreysexb_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v6/v6.rpy:4019
 translate portuguese aubreysexb_53e21599:
@@ -3748,7 +3748,7 @@ translate portuguese aubreysexb_38450c6f:
 translate portuguese aubreysexb_9ea2f78c_1:
 
     # " "
-    ""
+    " "
 
 # game/v6/v6.rpy:4044
 translate portuguese aubreysexb_768b9ba2:
@@ -3760,13 +3760,13 @@ translate portuguese aubreysexb_768b9ba2:
 translate portuguese aubreysexb_9ea2f78c_2:
 
     # " "
-    ""
+    " "
 
 # game/v6/v6.rpy:4059
 translate portuguese aubreysexb_9ea2f78c_3:
 
     # " "
-    ""
+    " "
 
 # game/v6/v6.rpy:4064
 translate portuguese aubreysexb_3902d1e3:
@@ -3784,7 +3784,7 @@ translate portuguese aubreysexb_22fd5371:
 translate portuguese aubreysexb_9ea2f78c_4:
 
     # " "
-    ""
+    " "
 
 # game/v6/v6.rpy:4073
 translate portuguese aubreysexb_71b33996:
@@ -3826,7 +3826,7 @@ translate portuguese naubblowjob_e9c40f23:
 translate portuguese naubblowjob_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v6/v6.rpy:4124
 translate portuguese naubblowjob_a689f138:
@@ -3838,7 +3838,7 @@ translate portuguese naubblowjob_a689f138:
 translate portuguese naubblowjob_9ea2f78c_1:
 
     # " "
-    ""
+    " "
 
 # game/v6/v6.rpy:4128
 translate portuguese naubblowjob_cebc9e8d:
@@ -3874,7 +3874,7 @@ translate portuguese naub69_9452721a:
 translate portuguese naub69_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v6/v6.rpy:4160
 translate portuguese naub69_3fe6baae:
@@ -3952,7 +3952,7 @@ translate portuguese naub69_ce35ff3c:
 translate portuguese naub69_9ea2f78c_1:
 
     # " "
-    ""
+    " "
 
 # game/v6/v6.rpy:4234
 translate portuguese naub69_53e21599:
@@ -4030,7 +4030,7 @@ translate portuguese naubfingering_f198172c:
 translate portuguese naubfingering_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v6/v6.rpy:4296
 translate portuguese naubmissionary_9f9828f3:
@@ -4054,7 +4054,7 @@ translate portuguese naubmissionary_7588752b:
 translate portuguese naubmissionary_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v6/v6.rpy:4310
 translate portuguese naubmissionary_4f6c3704:
@@ -4072,7 +4072,7 @@ translate portuguese naubmissionary_a6fa342a:
 translate portuguese naubmissionary_9ea2f78c_1:
 
     # " "
-    ""
+    " "
 
 # game/v6/v6.rpy:4324
 translate portuguese naubmissionary_c1cf125b:
@@ -4102,7 +4102,7 @@ translate portuguese naubbehind_40f81ca5:
 translate portuguese naubbehind_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v6/v6.rpy:4344
 translate portuguese naubbehind_feb380d5:
@@ -4222,7 +4222,7 @@ translate portuguese aubreytalk_17f03d84:
 translate portuguese afteraubrey_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v6/v6.rpy:4460
 translate portuguese afteraubrey_dc07930a:
@@ -5104,7 +5104,7 @@ translate portuguese phoneak_1c9e14f6:
 translate portuguese phoneak_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v6/v6.rpy:5477
 translate portuguese phoneak_d974d116:

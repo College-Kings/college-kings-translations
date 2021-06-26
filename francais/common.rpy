@@ -976,5 +976,5 @@ translate francais strings:
 
     # renpy/common/00accessibility.rpy:128
     old "Font Override"
-    new ""
+    new "Remplacement de la police de caractères"
 
