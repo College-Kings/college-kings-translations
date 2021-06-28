@@ -1078,7 +1078,7 @@ translate francais continuebd_8831e416_2:
 translate francais continuebd_dc524394:
 
     # u "(Maybe I should talk to her, doesn't seem like she's forgiven me.)"
-    u (Peut-être que je devrais lui parler, on dirait qu'elle ne m'a pas pardonné.)"
+    u "(Peut-être que je devrais lui parler, on dirait qu'elle ne m'a pas pardonné.)"
 
 # game/v6/v6.rpy:1343
 translate francais continuebd_115fe6fe:

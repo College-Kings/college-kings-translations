@@ -1554,7 +1554,7 @@ translate portuguese v9s7_nsfwSkipLabel1_9f16ac2e:
 translate portuguese v9s7_nsfwSkipLabel1_22a23130:
 
     # u "One could say I'm full of surprises. But I think I just know how to figure out people I care about."
-    u "Alguns dizem que eu sou uma caixinha de surpresas. Mas ma verdade eu acho que só sei como desvendo as pessoas que eu me importo.""
+    u "Alguns dizem que eu sou uma caixinha de surpresas. Mas ma verdade eu acho que só sei como desvendo as pessoas que eu me importo."
 
 # game/v9/scene7.rpy:1049
 translate portuguese v9s7_nsfwSkipLabel1_b8a5652a:

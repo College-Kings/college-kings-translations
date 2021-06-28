@@ -1318,7 +1318,7 @@ translate francais continuean_944eb5f0:
 translate francais continuean_432f6b54:
 
     # la "Look out the front again."
-    la 'Regarde à nouveau devant toi."
+    la "Regarde à nouveau devant toi."
 
 # game/v5/v5.rpy:1370
 translate francais continuean_3c8517fb:
