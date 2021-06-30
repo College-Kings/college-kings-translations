@@ -4,529 +4,529 @@
 translate francais v7start_6db60d7a:
 
     # u "This is amazing."
-    u ""
+    u "C'est incroyable."
 
 # game/v7/v7.rpy:89
 translate francais v7start_d8491119:
 
     # ch "These are all the fight kings of the Wolves. There's one for every year we have won."
-    ch ""
+    ch "Ce sont tous les rois du combat des Wolves. Il y en a un pour chaque année que nous avons gagnée."
 
 # game/v7/v7.rpy:94
 translate francais v7start_12dcf38f:
 
     # u "Haven't you guys won seven times though? I only count six portaits."
-    u ""
+    u "N'avez-vous pas gagné sept fois ? Je ne compte que six portraits."
 
 # game/v7/v7.rpy:99
 translate francais v7start_4fa1efe5:
 
     # ch "Yeah, well that's because of this guy."
-    ch ""
+    ch "Ouais, c'est à cause de ce gars."
 
 # game/v7/v7.rpy:104
 translate francais v7start_a7e817e4:
 
     # ch "This is a Wolves legend right here, Bence Varga."
-    ch ""
+    ch "C'est une légende des Wolves ici, Bence Varga."
 
 # game/v7/v7.rpy:106
 translate francais v7start_fed7f2e4:
 
     # u "Imre's brother..."
-    u ""
+    u "Le frère d'Imre..."
 
 # game/v7/v7.rpy:108
 translate francais v7start_42705392:
 
     # ch "He won two years in a row. The only Wolf to ever win twice."
-    ch ""
+    ch "Il a gagné deux années de suite. Le seul Wolves à avoir gagné deux fois."
 
 # game/v7/v7.rpy:113
 translate francais v7start_cdb1c36c:
 
     # ch "You should've seen him. He was so determined. Sometimes he'd workout for eight hours in a single day."
-    ch ""
+    ch "Tu aurai dû le voir. Il était tellement déterminé. Parfois, il s'entraînait huit heures en une seule journée."
 
 # game/v7/v7.rpy:118
 translate francais v7start_a1cf6498:
 
     # u "That's insane."
-    u ""
+    u "C'est dingue."
 
 # game/v7/v7.rpy:123
 translate francais v7start_f399348a:
 
     # ch "Yeah, he was something different."
-    ch ""
+    ch "Ouais, il était quelque chose de différent."
 
 # game/v7/v7.rpy:128
 translate francais v7start_5281058e:
 
     # u "Who's the guy next to him?"
-    u ""
+    u "C'est qui le gars à côté de lui ?"
 
 # game/v7/v7.rpy:133
 translate francais v7start_dff9d72c:
 
     # ch "*Chuckles* Oh that guy. That's Chuck. AKA the fighting cock."
-    ch ""
+    ch "*Rires* Oh ce gars. C'est Chuck. Alias le coq de combat."
 
 # game/v7/v7.rpy:135
 translate francais v7start_c2c7166c:
 
     # u "The fighting cock? Like a-?"
-    u ""
+    u "Le coq de combat ? Comme un-?"
 
 # game/v7/v7.rpy:140
 translate francais v7start_a96b2544:
 
     # ch "Haha, no not like that. Like a chicken. Cock just sounded better."
-    ch ""
+    ch "Haha, non pas comme ça. Comme un poulet. Le coq sonnait mieux."
 
 # game/v7/v7.rpy:142
 translate francais v7start_2bc37cea:
 
     # ch "He was scrawny as fuck, but that kid could fight like hell."
-    ch ""
+    ch "Il était maigre comme de la merde, mais ce gamin pouvait se battre comme un diable."
 
 # game/v7/v7.rpy:147
 translate francais v7start_9a0e7144:
 
     # u "Haha, damn."
-    u ""
+    u "Haha, putain."
 
 # game/v7/v7.rpy:152
 translate francais v7start_77066e7a:
 
     # ch "And then next to him is Drew. He was known for his kicks."
-    ch ""
+    ch "Et puis à côté de lui se trouve Drew. Il était connu pour ses coups de pied."
 
 # game/v7/v7.rpy:157
 translate francais v7start_3d5c67e2:
 
     # ch "I don't remember what that guy used to do, I think it was gymnastics or something. I don't know him personally, but we still teach his kicking technique to this day."
-    ch ""
+    ch "Je ne me souviens pas de ce que ce gars faisait, je pense que c'était de la gymnastique ou quelque chose comme ça. Je ne le connais pas personnellement, mais nous enseignons toujours sa technique de coup de pied à ce jour."
 
 # game/v7/v7.rpy:159
 translate francais v7start_8c152cf6:
 
     # u "I didn't know gymnastics would make you good at fighting."
-    u ""
+    u "I didn't know gymnastics would make you good at fighting."
 
 # game/v7/v7.rpy:164
 translate francais v7start_62edcde3:
 
     # ch "Haha, me neither. But here at the Wolves, we try not to judge people based on stereotypes."
-    ch ""
+    ch "Haha, moi non plus. Mais ici aux Wolves, nous essayons de ne pas juger les gens sur la base de stéréotypes."
 
 # game/v7/v7.rpy:169
 translate francais v7start_fd68924d:
 
     # ch "He actually got turned away by the Apes that year. They told him he didn't fit the style."
-    ch ""
+    ch "Il a en fait été refoulé par les Apes cette année-là. Ils lui ont dit qu'il ne correspondait pas au style."
 
 # game/v7/v7.rpy:171
 translate francais v7start_8c6ca059:
 
     # ch "But the Wolves saw his potential and welcomed him with open arms. He turned out be one of the best fighters we ever had."
-    ch ""
+    ch "Mais les Wolves ont vu son potentiel et l'ont accueilli à bras ouverts. Il s'est avéré être l'un des meilleurs combattants que nous ayons jamais eu."
 
 # game/v7/v7.rpy:176
 translate francais v7start_1b70ca7d:
 
     # u "Yeah, sounds amazing."
-    u ""
+    u "Ouais, ça a l'air incroyable."
 
 # game/v7/v7.rpy:178
 translate francais v7start_d7d26b64:
 
     # u "What about the guys on the other side?"
-    u ""
+    u "Et les gars de l'autre côté ?"
 
 # game/v7/v7.rpy:183
 translate francais v7start_e75fead3:
 
     # ch "On the left that's David Park. He was actually a foreign exchange student from Korea quite a while ago."
-    ch ""
+    ch "A gauche, c'est David Park. Il était en fait un étudiant étranger en provenance de Corée il y a un certain temps."
 
 # game/v7/v7.rpy:185
 translate francais v7start_2aa6bcf0:
 
     # ch "He was a black belt in Taekwondo. It took him a little while to adjust to a different style of combat, but his fighting was like an art. He was swift, light on his feet."
-    ch ""
+    ch "Il était ceinture noire de Taekwondo. Il lui a fallu un peu de temps pour s'adapter à un style de combat différent, mais son combat était comme un art. Il était rapide, léger sur ses pieds."
 
 # game/v7/v7.rpy:190
 translate francais v7start_108d8f94:
 
     # u "How do you know so much about each of them? You've only been at San Vallejo for like three years, right? "
-    u ""
+    u "Comment en savez-vous autant sur chacun d'eux ? Vous n'êtes à San Vallejo que depuis trois ans, n'est-ce pas ?"
 
 # game/v7/v7.rpy:195
 translate francais v7start_beedabb8:
 
     # ch "These guys are legends. There were hundreds of Wolves over the years, only six ever won the Summer Showdown. It's a huge deal, so you hear a lot about them."
-    ch ""
+    ch "Ces gars sont des légendes. Il y a eu des centaines de Wolves au fil des ans, seuls six ont remporté le Summer Showdown. C'est une affaire énorme, donc tu entendra beaucoup parler d'eux."
 
 # game/v7/v7.rpy:200
 translate francais v7start_87c8c59c:
 
     # u "Yeah, I guess that makes sense."
-    u ""
+    u "Ouais, c'est logique."
 
 # game/v7/v7.rpy:205
 translate francais v7start_cca7cd58:
 
     # u "What about him?"
-    u ""
+    u "Qu'en est-il de lui ?"
 
 # game/v7/v7.rpy:207
 translate francais v7start_871551c9:
 
     # ch "That's the wall."
-    ch ""
+    ch "C'est le mur."
 
 # game/v7/v7.rpy:209
 translate francais v7start_7128fac3:
 
     # u "The wall?"
-    u ""
+    u "Le mur ?"
 
 # game/v7/v7.rpy:214
 translate francais v7start_ccae0443:
 
     # ch "He was a big guy. He wasn't particularly skilled at fighting from what I've heard. He was hella slow."
-    ch ""
+    ch "C'était un grand gars. Il n'était pas particulièrement doué pour se battre d'après ce que j'ai entendu. Il était sacrément lent."
 
 # game/v7/v7.rpy:219
 translate francais v7start_420b5c5d:
 
     # u "Then how the hell did he become Fight King?"
-    u ""
+    u "Then how the hell did he become Fight King?"
 
 # game/v7/v7.rpy:224
 translate francais v7start_9e7c062d:
 
     # ch "Because that guy could take hits like it was nothing, hence the wall."
-    ch ""
+    ch "Parce que ce type pouvait prendre des coups comme si de rien n'était, d'où le mur."
 
 # game/v7/v7.rpy:226
 translate francais v7start_9235aeab:
 
     # ch "He'd just let the other guy hit him over and over again until they got tired. Then when the other guy was completely exhausted, the wall would just lay one good hit on him and he'd be down."
-    ch ""
+    ch "Il laissait juste l'autre type le frapper encore et encore jusqu'à ce qu'ils soient fatigués. Ensuite, quand l'autre gars était complètement épuisé, le mur lui mettait juste un bon coup et l'autre était à terre."
 
 # game/v7/v7.rpy:231
 translate francais v7start_1266e179:
 
     # u "That's crazy. That guy must have had some mad genetics."
-    u ""
+    u "C'est fou. Ce type devait avoir une génétique folle."
 
 # game/v7/v7.rpy:236
 translate francais v7start_1ab4d2cf:
 
     # ch "Yeah he was just completely unbreakable."
-    ch ""
+    ch "Ouais, il était juste complètement incassable."
 
 # game/v7/v7.rpy:241
 translate francais v7start_831481ac:
 
     # u "Okay, what about the last guy? He can't possibly be a Fight King, right?"
-    u ""
+    u "OK, et le dernier gars ? Il ne peut pas être un Fight King, n'est-ce pas ?"
 
 # game/v7/v7.rpy:243
 translate francais v7start_c3845f42:
 
     # ch "I told you, we don't discriminate based on prejudices. That's Earl Levington. He was a brain, probably the smartest Wolf we ever had."
-    ch ""
+    ch "Je te l'ai dit, nous ne discriminons pas sur la base de préjugés. C'est Earl Levington. C'était un cerveau, probablement le loup le plus intelligent que nous ayons jamais eu."
 
 # game/v7/v7.rpy:245
 translate francais v7start_10e84c19:
 
     # ch "He would plan out his moves methodically. He would analyze the way his opponents fought and prepare every possible move."
-    ch ""
+    ch "Il planifiait ses mouvements méthodiquement. Il analyserait la façon dont ses adversaires se battaient et préparerait chaque mouvement possible."
 
 # game/v7/v7.rpy:250
 translate francais v7start_ce8dfd97:
 
     # ch "I mean he barely got hit. He dodged almost every punch thrown at him based on his opponents' micro expressions."
-    ch ""
+    ch "Je veux dire qu'il a à peine été touché. Il a esquivé presque tous les coups de poing qui lui ont été lancés en fonction des micro-expressions de ses adversaires."
 
 # game/v7/v7.rpy:255
 translate francais v7start_9c3f3e11:
 
     # u "Now that's actually insane."
-    u ""
+    u "Maintenant, c'est vraiment fou."
 
 # game/v7/v7.rpy:257
 translate francais v7start_e3c04d3c:
 
     # u "So all these guys were Wolves presidents too?"
-    u ""
+    u "Donc tous ces gars étaient aussi des présidents des Wolves ?"
 
 # game/v7/v7.rpy:262
 translate francais v7start_a92a95f7:
 
     # ch "Yup. Each and every one of them was at some point in their lives."
-    ch ""
+    ch "Ouais. Chacun d'entre eux l'a été à un moment de sa vie."
 
 # game/v7/v7.rpy:272
 translate francais v7start_28672aef:
 
     # u "So, I don't know if it's weird asking, but if you're not one of the Fight Kings, how come you're the current president?"
-    u ""
+    u "Donc, je ne sais pas si c'est bizarre de demander, mais si tu n'es pas l'un des Roi des combatants, comment se fait-il que tu sois l'actuel président ?"
 
 # game/v7/v7.rpy:277
 translate francais v7start_9c7e8a1c:
 
     # ch "Well the year before me, Chuck was president. It was his last year, so I got voted in."
-    ch ""
+    ch "Eh bien, l'année avant moi, Chuck était président. C'était sa dernière année, alors j'ai été élu."
 
 # game/v7/v7.rpy:279
 translate francais v7start_ad46bc01:
 
     # ch "We need a new president every one or two years so some presidents aren't Fight Kings."
-    ch ""
+    ch "Nous avons besoin d'un nouveau président tous les un ou deux ans, donc certains présidents ne sont pas des Fight Kings."
 
 # game/v7/v7.rpy:281
 translate francais v7start_63d4bd2f:
 
     # ch "Of course my goal is to become one and get on that wall."
-    ch ""
+    ch "Bien sûr, mon objectif est d'en devenir un et de monter sur ce mur."
 
 # game/v7/v7.rpy:283
 translate francais v7start_48258e8f:
 
     # ch "But I also believe that being president whilst someone else wins for the Wolves is just as big of an honor as winning yourself."
-    ch ""
+    ch "Mais je pense aussi qu'être président pendant que quelqu'un d'autre gagne pour les Wolves est tout aussi un honneur que de gagner soi-même."
 
 # game/v7/v7.rpy:285
 translate francais v7start_45c1ffc8:
 
     # ch "A good leader doesn't need to be the best fighter."
-    ch ""
+    ch "Un bon leader n'a pas besoin d'être le meilleur combattant."
 
 # game/v7/v7.rpy:290
 translate francais v7start_74da2cc0:
 
     # u "Yeah, I can see that. But winning must be surreal too."
-    u ""
+    u "Ouais, je peux voir ça. Mais gagner doit aussi être surréaliste."
 
 # game/v7/v7.rpy:295
 translate francais v7start_3cf82e29:
 
     # u "That's really impressive. Winning the entire tournament must be surreal."
-    u ""
+    u "C'est vraiment impressionnant. Gagner tout le tournoi doit être surréaliste."
 
 # game/v7/v7.rpy:301
 translate francais hg_ad_2b9d29d5:
 
     # ch "Of course. Good thing we're taking the crown back this year, I can feel it."
-    ch ""
+    ch "Bien sûr. Heureusement que nous reprenons la couronne cette année, je le sens."
 
 # game/v7/v7.rpy:306
 translate francais hg_ad_1ba41e92:
 
     # u "So that's what the empty frame is for, huh?"
-    u ""
+    u "C'est à ça que sert le cadre vide, hein ?"
 
 # game/v7/v7.rpy:308
 translate francais hg_ad_24bd972a:
 
     # ch "You gotta manifest your beliefs. Only way to make 'em come true."
-    ch ""
+    ch "Tu dois manifester tes croyances. Seul moyen de les réaliser."
 
 # game/v7/v7.rpy:313
 translate francais hg_ad_75d05756:
 
     # ch "I bought the frame preemptively because I know that this will be our year."
-    ch ""
+    ch "J'ai acheté le cadre à titre préventif car je sais que ce sera notre année."
 
 # game/v7/v7.rpy:318
 translate francais hg_ad_891f2c97:
 
     # u "Well it's good you're prepared."
-    u ""
+    u "C'est bien que tu sois préparé."
 
 # game/v7/v7.rpy:323
 translate francais hg_ad_5e5d1436:
 
     # ch "Yeah."
-    ch ""
+    ch "Oui."
 
 # game/v7/v7.rpy:325
 translate francais hg_ad_a54b739c:
 
     # ch "So pledging starts tomorrow at 6pm right here at the Wolves house."
-    ch ""
+    ch "Les engagements commencent donc demain à 18h, ici même à la maison des Wolves."
 
 # game/v7/v7.rpy:327
 translate francais hg_ad_564ded28:
 
     # ch "I gotta get back downstairs now. I hope I'll see you tomorrow."
-    ch ""
+    ch "Je dois redescendre maintenant. J'espère te voir demain."
 
 # game/v7/v7.rpy:332
 translate francais hg_ad_bdaa6cb8:
 
     # u "Yeah, alright. Thanks."
-    u ""
+    u "Ouais, d'accord. Merci."
 
 # game/v7/v7.rpy:339
 translate francais hg_ad_01354870:
 
     # u "(I should go back down too.)"
-    u ""
+    u "(Je devrais redescendre aussi.)"
 
 # game/v7/v7.rpy:350
 translate francais hg_ad_3536ca63:
 
     # u "(I wonder if Imre is here... Maybe this would be a good time to patch things up between us.)"
-    u ""
+    u "(Je me demande si Imre est là... Peut-être que ce serait le bon moment pour arranger les choses entre nous.)"
 
 # game/v7/v7.rpy:352
 translate francais hg_ad_6f109a0a:
 
     # u "Aubrey."
-    u ""
+    u "Aubrey."
 
 # game/v7/v7.rpy:357
 translate francais hg_ad_5b3016dd:
 
     # au "Yeah?"
-    au ""
+    au "Ouai ?"
 
 # game/v7/v7.rpy:362
 translate francais hg_ad_4e0355dd:
 
     # u "Have you seen Imre?"
-    u ""
+    u "As-tu vu Imre?"
 
 # game/v7/v7.rpy:367
 translate francais hg_ad_29d739b5:
 
     # au "Who's Imre again?"
-    au ""
+    au "Qui est Imre déjà ?"
 
 # game/v7/v7.rpy:372
 translate francais hg_ad_5ce1a3f2:
 
     # aa "I've seen him."
-    aa ""
+    aa "Je l'ai vu."
 
 # game/v7/v7.rpy:377
 translate francais hg_ad_b062f6ef:
 
     # aa "He left with this hot blonde like 10 minutes ago."
-    aa ""
+    aa "Il est parti avec cette blonde chaude il y a environ 10 minutes."
 
 # game/v7/v7.rpy:382
 translate francais hg_ad_5978b23a:
 
     # u "Oh, alright. Thanks."
-    u ""
+    u "Oh d'accord. Merci."
 
 # game/v7/v7.rpy:387
 translate francais hg_ad_a2bc0a4c:
 
     # u "(Dammit.)"
-    u ""
+    u "(Bon sang.)"
 
 # game/v7/v7.rpy:393
 translate francais hg_ad_7ee76a6c:
 
     # u "(I'll go check on Imre and see if he wants to go home soon.)"
-    u ""
+    u "(Je vais aller voir Imre et voir s'il veut rentrer chez lui bientôt.)"
 
 # game/v7/v7.rpy:395
 translate francais hg_ad_139dec42:
 
     # u "Aaron."
-    u ""
+    u "Aaron."
 
 # game/v7/v7.rpy:400
 translate francais hg_ad_5160aa7b:
 
     # aa "What's up, my bro?"
-    aa ""
+    aa "Quoi de neuf, mon frère ?"
 
 # game/v7/v7.rpy:405
 translate francais hg_ad_4e0355dd_1:
 
     # u "Have you seen Imre?"
-    u ""
+    u "As-tu vu Imre?"
 
 # game/v7/v7.rpy:410
 translate francais hg_ad_c234b77c:
 
     # aa "Oh yeah, he left with this hot blonde like 10 minutes ago."
-    aa ""
+    aa "Oh ouais, il est parti avec cette blonde chaude il y a 10 minutes."
 
 # game/v7/v7.rpy:415
 translate francais hg_ad_5978b23a_1:
 
     # u "Oh, alright. Thanks."
-    u ""
+    u "Oh d'accord. Merci."
 
 # game/v7/v7.rpy:420
 translate francais hg_ad_a51152f9:
 
     # u "(I guess I'm going home without him.)"
-    u ""
+    u "(Je suppose que je rentre à la maison sans lui.)"
 
 # game/v7/v7.rpy:423
 translate francais hg_ad_9a8bf7c0:
 
     # ri "[name]?"
-    ri ""
+    ri "[name] ?"
 
 # game/v7/v7.rpy:428
 translate francais hg_ad_b3a46969:
 
     # u "Yeah, what's up, Riley?"
-    u ""
+    u "Ouais, quoi de neuf, Riley ?"
 
 # game/v7/v7.rpy:433
 translate francais hg_ad_b215453a:
 
     # ri "I'm gonna head out, just wanted to see if you're gonna live up to your promise and walk me home like you said."
-    ri ""
+    ri "Je vais partir, je voulais juste voir si tu vas tenir ta promesse et me raccompagner à la maison comme tu l'as dit."
 
 # game/v7/v7.rpy:438
 translate francais hg_ad_632a02af:
 
     # u "Uhm-"
-    u ""
+    u "Euh-"
 
 # game/v7/v7.rpy:444
 translate francais nonoriri_8728b3cf:
 
     # no "Can you just not for once? You do this every single fucking time. I just don't get it!"
-    no ""
+    no "Ne peux-tu pas pour une fois ? Tu fais ça à chaque putain de fois. Je ne comprends tout simplement pas !"
 
 # game/v7/v7.rpy:454
 translate francais nonoriri_3766d648:
 
     # ch "Nora! C'mon! Don't do that!"
-    ch ""
+    ch "Nora ! Allons y! Ne fais pas ça !"
 
 # game/v7/v7.rpy:459
 translate francais nonoriri_ad376cef:
 
     # ch "I swear she finds new reasons to get upset every day."
-    ch ""
+    ch "Je jure qu'elle trouve de nouvelles raisons de s'énerver chaque jour."
 
 # game/v7/v7.rpy:465
 translate francais nonoriri_f93e47a3:
 
     # ri "Soo? Are you walking me home?"
-    ri ""
+    ri "Alors ? Tu me raccompagnes à la maison ?"
 
 # game/v7/v7.rpy:479
 translate francais nonoriri_bc6f6373:
 
     # u "Uhh, yeah of course."
-    u ""
+    u "Euh, ouais bien sur."
 
 # game/v7/v7.rpy:484
 translate francais nonoriri_7cf87bb4:
@@ -18545,4 +18545,3 @@ translate francais strings:
     # game/v7/v7.rpy:16860
     old "Tell them truth"
     new ""
-
