@@ -724,23 +724,23 @@ translate portuguese strings:
 translate portuguese apes_join_ceremony_c1f7137f:
 
     # ry "Woohoo!!!"
-    ry ""
+    ry "Woohoo!!!"
 
 # game/v8/scene12.rpy:152
 translate portuguese apes_join_ceremony_c1f7137f_1:
 
     # ry "Woohoo!!!"
-    ry ""
+    ry "Woohoo!!!"
 
 # game/v8/scene12.rpy:192
 translate portuguese apes_join_ceremony_c1f7137f_2:
 
     # ry "Woohoo!!!"
-    ry ""
+    ry "Woohoo!!!"
 
 # game/v8/scene12.rpy:233
 translate portuguese apes_join_ceremony_c1f7137f_3:
 
     # ry "Woohoo!!!"
-    ry ""
+    ry "Woohoo!!!"
 

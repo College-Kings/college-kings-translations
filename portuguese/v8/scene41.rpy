@@ -250,7 +250,7 @@ translate portuguese walk_home_hosp_87962b3e:
 translate portuguese walk_home_hosp_d00c6454:
 
     # se "No matter what we did, you did come with me and I appreciate it. That's how Marcus and I do things. That's how all Wolves do things."
-    se ""
+    se "Não importa o que tenhamos feito, você veio comigo e eu agradeço. É assim que Marcus e eu fazemos as coisas. É assim que todos os lobos fazem as coisas."
 
 # game/v8/scene41.rpy:239
 translate portuguese walk_home_hosp_6e5a8340:

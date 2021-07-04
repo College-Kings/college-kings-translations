@@ -70,7 +70,7 @@ translate portuguese v8s46_phoneCheck_8f6e2dff:
 translate portuguese v8end_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 translate portuguese strings:
 

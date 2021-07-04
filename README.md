@@ -128,4 +128,21 @@ v10 files | 0/41 | - | [ ] | -
 
 
 
+### russian
+Progress | ?/all | Who is working on it? | Proofreading | Who is proofreading?
+-------- | -------- | --------- | --------- | ---------
+non script files | 0/6 | - | [ ] | -
+v01.rpy | 0/5225 | - | [ ] | -
+v02.rpy | 0/4221 | - | [ ] | -
+v03.rpy | 0/3636 | - | [ ] | -
+v04.rpy | 0/3227 | - | [ ] | -
+v05.rpy | 0/3498 | - | [ ] | -
+v06.rpy | 0/11645 | - | [ ] | -
+v07.rpy | 0/18403 | - | [ ] | -
+v08 files | 0/45 | - | [ ] | -
+v09 files | 0/42 | - | [ ] | -
+v10 files | 0/41 | - | [ ] | -
+
+
+
 #### Have fun!

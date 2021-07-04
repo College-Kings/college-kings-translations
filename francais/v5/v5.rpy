@@ -166,7 +166,7 @@ translate francais v5start_0fba9dcb:
 translate francais ev_bd_f725ce66:
 
     # u "(Way to mess things up with Chloe.... great fucking job, [name].)"
-    u "(Une façon de gâcher les choses avec Chloé... super putain de boulot, [name].)""
+    u "(Une façon de gâcher les choses avec Chloé... super putain de boulot, [name].)"
 
 # game/v5/v5.rpy:201
 translate francais ev_bd_5a88a05e:
@@ -772,7 +772,7 @@ translate francais continuez_a3390623:
 translate francais continuez_60785ac8:
 
     # u "Actually, you're right, sorry. A kiss is fine."
-    u "En fait, tu as raison, désolé. Un baiser, c'est bien.""
+    u "En fait, tu as raison, désolé. Un baiser, c'est bien."
 
 # game/v5/v5.rpy:802
 translate francais continuez_5ad03eed:
@@ -1318,7 +1318,7 @@ translate francais continuean_944eb5f0:
 translate francais continuean_432f6b54:
 
     # la "Look out the front again."
-    la 'Regarde à nouveau devant toi."
+    la "Regarde à nouveau devant toi."
 
 # game/v5/v5.rpy:1370
 translate francais continuean_3c8517fb:
@@ -2434,7 +2434,7 @@ translate francais hospitala_ef2f1671:
 translate francais hospitala_7c1faae7:
 
     # em "Nothing."
-    em ""
+    em "Rien."
 
 # game/v5/v5.rpy:2409
 translate francais hospitala_ae0ff28c:
@@ -2794,7 +2794,7 @@ translate francais fj_b_6f8ae513:
 translate francais fj_b_0f5a6937:
 
     # u "(Maybe I should tell the school, but Imre would be super pissed and Adam might try and kill me for it.)"
-    u ""
+    u "(Peut-être que je devrais le dire à l'école, mais Imre serait super énervé et Adam pourrait essayer de me tuer pour ça.)"
 
 # game/v5/v5.rpy:2819
 translate francais fj_b_1898af7b:
@@ -3412,7 +3412,7 @@ translate francais findimre_c1b21072_1:
 translate francais findimre_d4852c6a:
 
     # u "He lives in the dorm opposite to us. I confronted him when I found out, but it got out of control and he beat me up."
-    u "Il habite dans le dortoir en face de nous. Je l'ai confronté quand je l'ai découvert, mais c'est devenu incontrôlable et il m'a tabassé.""
+    u "Il habite dans le dortoir en face de nous. Je l'ai confronté quand je l'ai découvert, mais c'est devenu incontrôlable et il m'a tabassé."
 
 # game/v5/v5.rpy:4096
 translate francais findimre_fe65c7fa:
@@ -3479,7 +3479,7 @@ translate francais findimre_27ada699:
 
     # u "Can I at least-"
     u "Puis-je au moins-"
-	
+
 # game/v5/v5.rpy:4145
 translate francais findimre_d366a356:
 
@@ -3993,4 +3993,3 @@ translate francais strings:
     # game/v5/v5.rpy:4322
     old "I'm busy later tonight and I'm pretty much booked for the entire week :/"
     new "Je suis occupée plus tard ce soir et je suis à peu près bloquée pour toute la semaine :/"
-
