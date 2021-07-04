@@ -3917,487 +3917,486 @@ translate francais pledgewolves_229b995a:
 translate francais pledgewolves_68efd3ec:
 
     # ch "You will all face four challenges, each representing one of the core Wolves' values."
-    ch ""
+    ch "Vous serez tous confrontés à quatre défis, chacun représentant l'une des valeurs fondamentales des Wolves."
 
 # game/v7/v7.rpy:3704
 translate francais pledgewolves_45a5eb85:
 
     # ch "Honor, Determination, Honesty, and Loyalty. These values are what make us, what defines us."
-    ch ""
+    ch "Honor, Determination, Honesty, and Loyalty. These values are what make us, what defines us."
 
 # game/v7/v7.rpy:3705
 translate francais pledgewolves_286e2e2c:
 
     # ch "We need guys that can embody these 100 percent of the time."
-    ch ""
+    ch "Nous avons besoin de gars qui peuvent incarner ces valeurs 100 pour cent du temps."
 
 # game/v7/v7.rpy:3709
 translate francais pledgewolves_94ea2419:
 
     # ch "The challenges will be difficult, but if you wanna be a Wolf, you must prove yourself."
-    ch ""
+    ch "Les défis seront difficiles, mais si vous voulez être un Wolves, vous devez faire vos preuves."
 
 # game/v7/v7.rpy:3710
 translate francais pledgewolves_acae5b7b:
 
     # ch "Now let's get started with the first challenge."
-    ch ""
+    ch "Commençons maintenant par le premier défi."
 
 # game/v7/v7.rpy:3718
 translate francais pledgewolves_837b1d46:
 
     # ch "Determination.{w} For this challenge you'll have to prove that you will do whatever it takes to become a Wolf. Each of you will be in a separate room."
-    ch ""
+    ch "Détermination {W} Pour ce défi, vous devrez prouver que vous ferez tout ce qu'il faut pour devenir un Wolves. Chacun de vous sera dans une pièce séparée."
 
 # game/v7/v7.rpy:3719
 translate francais pledgewolves_d074c59c:
-
     # ch "You will be given tasks to test how much you really want to be a Wolf{w}, how far you're willing to go{w}, and what you're willing to give up."
-    ch ""
+    ch "On vous donnera des tâches pour tester à quel point vous voulez vraiment être un loup {w}, jusqu'où vous êtes prêt à aller {w} et ce que vous êtes prêt à abandonner."
 
 # game/v7/v7.rpy:3720
 translate francais pledgewolves_7fcdf632:
 
     # ch "Other wolves will guide you with the tasks. Let's get started."
-    ch ""
+    ch "D'autres loups vous guideront dans les tâches. Commençons."
 
 # game/v7/v7.rpy:3724
 translate francais pledgewolves_8856c5a9:
 
     # u "(I wonder how far they're gonna take us for the tests.)"
-    u ""
+    u "(Je me demande jusqu'où ils vont nous emmener pour les tests.)"
 
 # game/v7/v7.rpy:3732
 translate francais pledgewolves_080beb47:
 
     # guyc "Sup [name]. It's Marcus."
-    guyc ""
+    guyc "Quoi de neuf [name]. C'est Marcus."
 
 # game/v7/v7.rpy:3736
 translate francais pledgewolves_8686e81c:
 
     # u "Hey."
-    u ""
+    u "Salut."
 
 # game/v7/v7.rpy:3740
 translate francais pledgewolves_8d050bdb:
 
     # guyc "So, listen. I'm supposed to run you through a bunch of questions and then hit you with the final one in order to see if you're determined enough."
-    guyc ""
+    guyc "Alors écoute. Je suis censé vous poser un tas de questions, puis vous poser la dernière pour voir si vous êtes suffisamment déterminé."
 
 # game/v7/v7.rpy:3742
 translate francais pledgewolves_0668f605:
 
     # guyc "But I'm just gonna tell you straight up, the only way to show determination is if you're willing to eliminate one of the other guys."
-    guyc ""
+    guyc "Mais je vais juste te dire tout de suite, la seule façon de montrer de la détermination est si tu es prêt à éliminer l'un des autres gars."
 
 # game/v7/v7.rpy:3746
 translate francais pledgewolves_09332657:
 
     # u "What do you mean?"
-    u ""
+    u "Que veux-tu dire ?"
 
 # game/v7/v7.rpy:3750
 translate francais pledgewolves_5775be83:
 
     # guyc "If I tell the guys you're willing to have me eliminate Imre, I can convince them to secure you a spot. You wouldn't have to compete with the others for it."
-    guyc ""
+    guyc "Si je dis aux gars que tu veux que j'élimine Imre, je peux les convaincre de t'assurer une place. Tu n'aurait plus à concourir avec les autres."
 
 # game/v7/v7.rpy:3754
 translate francais pledgewolves_e825940f:
 
     # u "...And if I don't?"
-    u ""
+    u "... Et si je ne le fais pas ?"
 
 # game/v7/v7.rpy:3758
 translate francais pledgewolves_894e784c:
 
     # guyc "Then you'll still continue on with the challenges to try and secure your place."
-    guyc ""
+    guyc "Ensuite, tu continuera à relever les défis pour essayer de sécuriser ta place."
 
 # game/v7/v7.rpy:3759
 translate francais pledgewolves_ea57ef27:
 
     # guyc "But remember, we only take in three pledges. And usually at least two people take these deals and get a secure spot. So you might get eliminated if you don't do it."
-    guyc ""
+    guyc "Mais rappele-toi, nous ne prenons que trois engagements. Et généralement, au moins deux personnes acceptent ces offres et obtiennent une place sécurisée. Tu pourrais donc être éliminé si tu ne le fait pas."
 
 # game/v7/v7.rpy:3763
 translate francais pledgewolves_fdc18d6b:
 
     # u "Why Imre?"
-    u ""
+    u "Pourquoi Imre ? "
 
 # game/v7/v7.rpy:3767
 translate francais pledgewolves_f48f4a92:
 
     # guyc "You know why."
-    guyc ""
+    guyc "Tu sais pourquoi."
 
 # game/v7/v7.rpy:3778
 translate francais pledgewolves_5f00cb21:
 
     # u "Fine. I'll do whatever it takes. You can eliminate Imre."
-    u ""
+    u "Bien. Je ferai tout ce qu'il faut. Vous pouvez éliminer Imre."
 
 # game/v7/v7.rpy:3787
 translate francais pledgewolves_158045b9:
 
     # u "I'm not betraying Imre like that. I'll take my chances."
-    u ""
+    u "Je ne trahis pas Imre comme ça. Je vais tenter ma chance."
 
 # game/v7/v7.rpy:3791
 translate francais pledgewolves_2be8a1db:
 
     # guyc "Noted. Now go meet Chris again."
-    guyc ""
+    guyc "Noté. Maintenant, va retrouver Chris."
 
 # game/v7/v7.rpy:3795
 translate francais pledgewolves_b8911521:
 
     # u "Alright."
-    u ""
+    u "Très bien."
 
 # game/v7/v7.rpy:3800
 translate francais pledgewolves_36476f41:
 
     # guyc "And hey, good luck with the other tasks."
-    guyc ""
+    guyc "Et hé, bonne chance pour les autres tâches."
 
 # game/v7/v7.rpy:3804
 translate francais pledgewolves_e6b74c2b:
 
     # ch "So, how was your first challenge, guys?"
-    ch ""
+    ch "Alors, comment s'est passé votre premier défi, les gars ?"
 
 # game/v7/v7.rpy:3808
 translate francais pledgewolves_127e5fff:
 
     # xav "*Clears throat*"
-    xav ""
+    xav "*Se racle la gorge*"
 
 # game/v7/v7.rpy:3812
 translate francais pledgewolves_3156b2c3:
 
     # ch "I've got a confession to make. I know I talked about honesty before, but this challenge was actually meant to test your Loyalty. I lied about the determination part."
-    ch ""
+    ch "J'ai un aveu à faire. Je sais que j'ai déjà parlé d'honnêteté, mais ce défi était en fait destiné à tester votre fidélité. J'ai menti sur la partie détermination."
 
 # game/v7/v7.rpy:3819
 translate francais pledgewolves_c68fb736:
 
     # u "(What the fuck!?)"
-    u ""
+    u "(C'est quoi ce bordel !?)"
 
 # game/v7/v7.rpy:3821
 translate francais pledgewolves_5599ec01:
 
     # u "(Wow, good thing I didn't do it.)"
-    u ""
+    u "(Wow, heureusement que je ne l'ai pas fait.)"
 
 # game/v7/v7.rpy:3825
 translate francais pledgewolves_e36787cd:
 
     # ch "We wanted to see how loyal you were to your fellow pledges and potentially future Wolves."
-    ch ""
+    ch "Nous voulions voir à quel point vous étiez loyal envers vos compagnons d'engagement et potentiellement les futurs Wolves."
 
 # game/v7/v7.rpy:3826
 translate francais pledgewolves_8365aa77:
 
     # ch "Loyalty trumps everything. Never go against a brother's back. For those of you that did, I hope you learned your lesson."
-    ch ""
+    ch "La fidélité l'emporte sur tout. N'allez jamais contre le dos d'un frère. Pour ceux d'entre vous qui l'ont fait, j'espère que vous avez retenu votre leçon."
 
 # game/v7/v7.rpy:3828
 translate francais pledgewolves_e1465ddf:
 
     # ch "For now, let's move on to the actual determination challenge."
-    ch ""
+    ch "Pour l'instant, passons au véritable défi de la détermination."
 
 # game/v7/v7.rpy:3836
 translate francais pledgewolves_e6f2b00a:
 
     # ch "Now this is your real determination challenge. You will need to prove that you can stick it out until the very end."
-    ch ""
+    ch "C'est maintenant votre véritable défi de détermination. Vous devrez prouver que vous pouvez tenir jusqu'au bout."
 
 # game/v7/v7.rpy:3837
 translate francais pledgewolves_e576fa2e:
 
     # ch "How bad do you want it? How long can you suffer to get what you want? How determined are you?"
-    ch ""
+    ch "A quel point vous en voulez ? Combien de temps pouvez-vous souffrir pour obtenir ce que vous voulez ? Êtes-vous déterminé ?"
 
 # game/v7/v7.rpy:3841
 translate francais pledgewolves_d14f47b4:
 
     # ch "The task is simple.{w} All of you will get into a tub filled with freezing cold ice water. The last one to leave wins."
-    ch ""
+    ch "La tâche est simple.{w} Vous entrerez tous dans une baignoire remplie d'eau glacée glacée. Le dernier à partir gagne."
 
 # game/v7/v7.rpy:3845
 translate francais pledgewolves_5062c62f:
 
     # imre "I got this."
-    imre ""
+    imre "J'ai compris"
 
 # game/v7/v7.rpy:3846
 translate francais pledgewolves_401f714a:
 
     # xav "Fuck. I hate cold water."
-    xav ""
+    xav "Putain. Je déteste l'eau froide."
 
 # game/v7/v7.rpy:3850
 translate francais pledgewolves_9c0e9d26:
 
     # ch "Let's get started. Come with me."
-    ch ""
+    ch "Commençons. Venez avec moi."
 
 # game/v7/v7.rpy:3855
 translate francais pledgewolves_c82b3dcc:
 
     # ch "Remember, the last one in is the winner."
-    ch ""
+    ch "N'oubliez pas que le dernier est le gagnant."
 
 # game/v7/v7.rpy:3867
 translate francais pledgewolves_8183f6a9:
 
     # xav "I can't do this. I'm out."
-    xav ""
+    xav "Je ne peux pas faire ça. J'arrête."
 
 # game/v7/v7.rpy:3868
 translate francais pledgewolves_d561f90a:
 
     # ch "There's our first victim."
-    ch ""
+    ch "N'oubliez pas que le dernier est le gagnant."
 
 # game/v7/v7.rpy:3872
 translate francais pledgewolves_1fe6cbf4:
 
     # jax "I'll try my luck in the next one too."
-    jax ""
+    jax "Je tenterai ma chance dans le défi suivant."
 
 # game/v7/v7.rpy:3873
 translate francais pledgewolves_173f724f:
 
     # ch "Another goes down."
-    ch ""
+    ch "Un autre descend."
 
 # game/v7/v7.rpy:3877
 translate francais pledgewolves_a4af9221:
 
     # ch "Let's see how long you guys can endure."
-    ch ""
+    ch "Voyons combien de temps vous pouvez le supporter."
 
 # game/v7/v7.rpy:3883
 translate francais pledgewolves_993a3770:
 
     # imre "Shit. I thought this would be easy."
-    imre ""
+    imre "Merde. Je pensais que ce serait facile."
 
 # game/v7/v7.rpy:3887
 translate francais pledgewolves_7d766217:
 
     # ch "That leaves two of you. [name] and Perry. Let's see who chickens out first."
-    ch ""
+    ch "Cela en laisse deux. [name] et Perry. Voyons qui se dégonfle en premier."
 
 # game/v7/v7.rpy:3891
 translate francais pledgewolves_7873f6a2:
 
     # imre "[name]! You got this bro!"
-    imre ""
+    imre "[name]! Vous avez ce frère !"
 
 # game/v7/v7.rpy:3896
 translate francais pledgewolves_1524a5ae:
 
     # u "(Fuck. This is too cold. I'm losing sensation of my body.)"
-    u ""
+    u "(Putain. C'est trop froid. Je perds la sensation de mon corps.)"
 
 # game/v7/v7.rpy:3906
 translate francais pledgewolves_91359905:
 
     # aa "Yo [name]... Why is Chloe calling you? *Laughs*"
-    aa ""
+    aa "Yo [name]... Pourquoi est-ce que Chloé t'appelle ? *Des rires*"
 
 # game/v7/v7.rpy:3910
 translate francais pledgewolves_d0b58b98:
 
     # u "Wait, Chloe?"
-    u ""
+    u "Attend, Chloe ?"
 
 # game/v7/v7.rpy:3911
 translate francais pledgewolves_abf3d3c3:
 
     # u "(This could be important. But if I leave, I'll lose the challenge.)"
-    u ""
+    u "(Cela pourrait être important. Mais si je pars, je perdrai le défi.)"
 
 # game/v7/v7.rpy:3921
 translate francais pledgewolves_e0b624e5:
 
     # u "Shit, I gotta get that."
-    u ""
+    u "Merde, je dois la prendre."
 
 # game/v7/v7.rpy:3923
 translate francais pledgewolves_0a2feb18:
 
     # ch "And therefore Perry wins! Congrats Perry!"
-    ch ""
+    ch "Et donc Perry gagne ! Félicitations Perry !"
 
 # game/v7/v7.rpy:3930
 translate francais pledgewolves_ab116151:
 
     # u "I'll get it later. I'm in this to win."
-    u ""
+    u "Je la rappelerais plus tard. Je suis là pour gagner."
 
 # game/v7/v7.rpy:3931
 translate francais pledgewolves_b89c0488:
 
     # ch "That's the spirit!"
-    ch ""
+    ch "Voilà l'esprit !"
 
 # game/v7/v7.rpy:3935
 translate francais pledgewolves_a9a6d56d:
 
     # guyd "Damn. I tried my best."
-    guyd ""
+    guyd "Mince. J'ai fait de mon mieux."
 
 # game/v7/v7.rpy:3939
 translate francais pledgewolves_61879c3e:
 
     # imre "You did it man!"
-    imre ""
+    imre "Tu l'as fait mec !"
 
 # game/v7/v7.rpy:3940
 translate francais pledgewolves_63c3f136:
 
     # ch "Grats [name]. Good job!"
-    ch ""
+    ch "Félicitations [name]. Bon travail!"
 
 # game/v7/v7.rpy:3948
 translate francais chloe_call_8508ae94:
 
     # u "Hello? Chloe?"
-    u ""
+    u "Allo ? Chloe ?"
 
 # game/v7/v7.rpy:3955
 translate francais chloe_call_52d5d698:
 
     # cl "Hey [name]... can we talk right now?"
-    cl ""
+    cl "Salut [name]... peut on parler ?"
 
 # game/v7/v7.rpy:3960
 translate francais chloe_call_f1afb579:
 
     # u "Uhm... right now is bad. How about tomorrow?"
-    u ""
+    u "Euh... maintenant ça vas pas le faire. Pourquoi pas demaain ?"
 
 # game/v7/v7.rpy:3965
 translate francais chloe_call_179ba101:
 
     # cl "Uhm yeah... maybe. I don't know I'm really busy tomorrow."
-    cl ""
+    cl "Euh ouai... peut-être. Je sais pas je suis très occupée demain."
 
 # game/v7/v7.rpy:3967
 translate francais chloe_call_c62cf00f:
 
     # cl "You know what... never mind."
-    cl ""
+    cl "Tu sais quoi... laisse tomber."
 
 # game/v7/v7.rpy:3972
 translate francais chloe_call_66087e81:
 
     # u "What about-"
-    u ""
+    u "C'est à quel suj-"
 
 # game/v7/v7.rpy:3979
 translate francais chloe_call_8928c29e:
 
     # "*Chloe hangs up*"
-    ""
+    "*Chloe raccroche*"
 
 # game/v7/v7.rpy:3984
 translate francais chloe_call_10cc093e:
 
     # u "(How weird...)"
-    u ""
+    u "(comme c'est bizarre...)"
 
 # game/v7/v7.rpy:3987
 translate francais chloe_call_fc752ac1:
 
     # cl "Hey [name]... just wanted to say thanks for yesterday."
-    cl ""
+    cl "Hé [name]... je voulais juste te dire merci pour hier."
 
 # game/v7/v7.rpy:3992
 translate francais chloe_call_7a2192dd:
 
     # u "Of course. Is that why you're calling?"
-    u ""
+    u "Of course. Is that why you're calling?"
 
 # game/v7/v7.rpy:3997
 translate francais chloe_call_74c8a25b:
 
     # cl "Uhm yeah... sorry, I know pledging is going on right now... I just-"
-    cl ""
+    cl "Euh ouais... désolé, je sais que l'engagement est en cours en ce moment... je viens-"
 
 # game/v7/v7.rpy:3999
 translate francais chloe_call_f4b66647:
 
     # cl "Oh, shit Aubrey's calling me, I gotta get back. But thanks... for everything. I'll talk to you soon."
-    cl ""
+    cl "Oh, merde, Aubrey m'appelle, je dois revenir. Mais merci... pour tout. Je vais t'appeler bientôt."
 
 # game/v7/v7.rpy:4004
 translate francais chloe_call_45918ba4:
 
     # u "Sounds good."
-    u ""
+    u "k'attend ça."
 
 # game/v7/v7.rpy:4011
 translate francais chloe_call_8928c29e_1:
 
     # "*Chloe hangs up*"
-    ""
+    "*Chloe hangs up*"
 
 # game/v7/v7.rpy:4016
 translate francais chloe_call_5e7141c7:
 
     # u "(I wonder what she was about to say.)"
-    u ""
+    u "(Je me demande ce qu'elle était sur le point de dire.)"
 
 # game/v7/v7.rpy:4019
 translate francais chloe_call_15420168:
 
     # cl "Hey [name]... can you talk right now?"
-    cl ""
+    cl "Allo ? [nom]... peux-tu parler maintenant ? "
 
 # game/v7/v7.rpy:4024
 translate francais chloe_call_b90f9b78:
 
     # u "Uhm... right now is bad. Is it urgent?"
-    u ""
+    u "Uhm... right now is bad. Is it urgent ?"
 
 # game/v7/v7.rpy:4029
 translate francais chloe_call_f82582c7:
 
     # cl "Uhhh no, I just-."
-    cl ""
+    cl "Euuuh no, I just-."
 
 # game/v7/v7.rpy:4031
 translate francais chloe_call_c62cf00f_1:
 
     # cl "You know what... never mind."
-    cl ""
+    cl "Tu sais quoi... laisse tomber."
 
 # game/v7/v7.rpy:4036
 translate francais chloe_call_8dde6faa:
 
     # u "I mean I can-"
-    u ""
+    u "Je veux dire je peux-"
 
 # game/v7/v7.rpy:4043
 translate francais chloe_call_8928c29e_2:
 
     # "*Chloe hangs up*"
-    ""
+    "*Chloe raccroche*"
 
 # game/v7/v7.rpy:4048
 translate francais chloe_call_5ca3c184:
 
     # u "(What was that about?)"
-    u ""
+    u "(De quoi s'agissait-il ?)"
 
 # game/v7/v7.rpy:4057
 translate francais aftercall_edc6ada0:
