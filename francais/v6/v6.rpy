@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2021-06-05 20:30
+﻿# TODO: Translation updated at 2021-06-05 20:30
 
 # game/v6/v6.rpy:123
 translate francais imrecona_05b8b552:
@@ -10,11 +10,7 @@ translate francais imrecona_05b8b552:
 translate francais imrecona_76592c06:
 
     # u "Imre, look-"
-<<<<<<< HEAD
-    u "Imre, regarde-"
-=======
     u "Imre, Écoute-"
->>>>>>> main
 
 # game/v6/v6.rpy:135
 translate francais imrecona_b36deda7:
@@ -32,31 +28,19 @@ translate francais imrecona_a563d57d:
 translate francais imrecona_6de3add4:
 
     # u "What?! Dude, we had one little argument."
-<<<<<<< HEAD
     u "Quoi ?! Mec, on a eu qu'une petite dispute."
-=======
-    u "Quoi?! Mec, on a eu juste une petite dispute."
->>>>>>> main
 
 # game/v6/v6.rpy:149
 translate francais imrecona_aea07de2:
 
     # imre "You decided what was right for me, without even asking. You got no type of loyalty at all!"
-<<<<<<< HEAD
     imre "Tu as décidé de ce qui était bon pour moi, sans même me demander. Tu n'as aucun sens de la loyauté !"
-=======
-    imre "Tu as décidé de ce qui était bon pour moi, sans même le demander. tu n'as aucune loyauté !"
->>>>>>> main
 
 # game/v6/v6.rpy:158
 translate francais imrecona_c028d023:
 
     # u "Look, you're injured and I don't want you to bleed internally. I did what I had to!"
-<<<<<<< HEAD
     u "Écoute, tu es blessé et je ne veux pas que tu fasse une hémoragie interne. J'ai fait ce qu'il fallait !"
-=======
-    u "Écoute, tu es blessé et je ne veux pas que tu ia une hémoragie interne. J'ai fait ce qu'il fallait !"
->>>>>>> main
 
 # game/v6/v6.rpy:160
 translate francais imrecona_c6abdd28:
@@ -98,11 +82,7 @@ translate francais imrecona_2de85348:
 translate francais imrecona_71dcf4c1:
 
     # u "Brothers?"
-<<<<<<< HEAD
     u "Frères ?"
-=======
-    u "Frères?"
->>>>>>> main
 
 # game/v6/v6.rpy:202
 translate francais imrecona_be583e7e:
@@ -120,11 +100,7 @@ translate francais imrecona_b7322b81:
 translate francais imrecona_3f3be3cb:
 
     # u "Alright, let me know if there's anything else I can do."
-<<<<<<< HEAD
     u "D'accord, dis-moi si je peux faire autre chose."
-=======
-    u "D'accord, dites-moi si je peux faire autre chose."
->>>>>>> main
 
 # game/v6/v6.rpy:228
 translate francais imrecona_3ca6fa7c:
@@ -172,41 +148,25 @@ translate francais imrecona_0a9079a2:
 translate francais imreconb_0eb52a41:
 
     # u "(I need to help Imre, Adam will destroy him in his current condition.)"
-<<<<<<< HEAD
-    u "(J'ai besoin d'aider Imre, Adam le détruira dans son état actuel.)"
-=======
     u "(Je dois d'aider Imre, Adam le détruira dans son état actuel.)"
->>>>>>> main
 
 # game/v6/v6.rpy:272
 translate francais imreconb_6bf3e75e:
 
     # imre "Come out you piece of shit!"
-<<<<<<< HEAD
     imre "Sors de là tas de merde !"
-=======
-    imre "Sors tas de merde !"
->>>>>>> main
 
 # game/v6/v6.rpy:274
 translate francais imreconb_3fbd7e50:
 
     # imre "You can't fucking hide from me forever!"
-<<<<<<< HEAD
-    imre "Tu ne peux pas te cacher de moi éternellement !"
-=======
     imre "Tu ne pourras pas te cacher indéfiniment !"
->>>>>>> main
 
 # game/v6/v6.rpy:279
 translate francais imreconb_66bfa7ca:
 
     # u "Shit, is Adam hiding from you in his room?"
-<<<<<<< HEAD
-    u "Merde, est-ce qu'Adam se cache de toi dans sa chambre ?"
-=======
     u "Merde, est-ce qu'Adam se cache dans sa chambre ?"
->>>>>>> main
 
 # game/v6/v6.rpy:284
 translate francais imreconb_d640fcb6:
@@ -230,11 +190,7 @@ translate francais imreconb_839c2821:
 translate francais imreconb_b467603b:
 
     # u "Can we just sit down in our dorm room and talk?"
-<<<<<<< HEAD
     u "Pouvons-nous simplement nous asseoir dans notre dortoir et parler ?"
-=======
-    u "« Pouvons-nous simplement nous asseoir et parler ?"
->>>>>>> main
 
 # game/v6/v6.rpy:301
 translate francais imreconb_8b6bbb07:
@@ -246,11 +202,7 @@ translate francais imreconb_8b6bbb07:
 translate francais imreconb_169816de:
 
     # imre "Fine..."
-<<<<<<< HEAD
     imre "Très bien!"
-=======
-    imre "Bien..."
->>>>>>> main
 
 # game/v6/v6.rpy:311
 translate francais imreconb_ed58fa91:
@@ -292,11 +244,7 @@ translate francais imreconb_b7322b81:
 translate francais imreconb_3f3be3cb:
 
     # u "Alright, let me know if there's anything else I can do."
-<<<<<<< HEAD
     u "D'accord, dis-moi si je peux faire autre chose."
-=======
-    u "D'accord, dites-moi si je peux faire autre chose."
->>>>>>> main
 
 # game/v6/v6.rpy:353
 translate francais imreconc_fc392e5a:
@@ -308,11 +256,7 @@ translate francais imreconc_fc392e5a:
 translate francais imreconc_c99eb55b:
 
     # u "(I know a spot where I'm completely alone...)"
-<<<<<<< HEAD
     u "(Je connais un endroit où je serais complètement seul...)"
-=======
-    u "(Je connais un endroit où je suis complètement seul...)"
->>>>>>> main
 
 # game/v6/v6.rpy:369
 translate francais phonead_8786d02f:
@@ -336,11 +280,7 @@ translate francais phonead_6c075c02:
 translate francais phonead_5aa288ad:
 
     # u "(I should probably go back to my dorm and check on Imre now.)"
-<<<<<<< HEAD
     u "(Je devrais probablement retourner dans mon dortoir et voir ce qui se passe avec Imre maintenant.)"
-=======
-    u "(Je devrais probablement retourner dans mon dortoir et vérifier Imre maintenant.)"
->>>>>>> main
 
 # game/v6/v6.rpy:381
 translate francais imrecond_743e89f6:
@@ -388,11 +328,7 @@ translate francais phoneac_004fc5ac:
 translate francais phoneac_7bddcf18:
 
     # u "That's definitely not it, haha."
-<<<<<<< HEAD
-    u "Ce n'est certainement pas ça, haha."
-=======
     u "Ce n'est absolument pas ça, haha."
->>>>>>> main
 
 # game/v6/v6.rpy:444
 translate francais phoneac_54cb1756:
@@ -404,11 +340,7 @@ translate francais phoneac_54cb1756:
 translate francais phoneac_4a0e1ae6:
 
     # cl "Well then you'll have to swim in your boxers."
-<<<<<<< HEAD
-    cl "Eh bien, tu devrais nager dans ton boxer."
-=======
     cl "Eh bien, tu devra nager dans ton boxer."
->>>>>>> main
 
 # game/v6/v6.rpy:451
 translate francais phoneac_651788d9:
@@ -426,11 +358,7 @@ translate francais phoneac_9c87faa1:
 translate francais phoneac_a1aa5e4a:
 
     # u "What are you looking at?"
-<<<<<<< HEAD
     u "Qu'est ce que tu regardes ?"
-=======
-    u "Qu'est ce que tu regardes?"
->>>>>>> main
 
 # game/v6/v6.rpy:466
 translate francais phoneac_cee49c18:
@@ -442,31 +370,19 @@ translate francais phoneac_cee49c18:
 translate francais phoneac_f8f3a056:
 
     # cl "I'm just trying to get us even."
-<<<<<<< HEAD
-    cl "J'essaie juste de d'avoir une compensation."
-=======
-    cl "J'essaie juste d'avoir une compensation."
->>>>>>> main
+    cl "J'essaie juste d'avoir un bon souvenir."
 
 # game/v6/v6.rpy:473
 translate francais phoneac_3933dc40:
 
     # u "Stare at you? You wish."
-<<<<<<< HEAD
     u "Te regarder ? Tu le souhaites."
-=======
-    u "Moi te regarder ? Dans tes rêves."
->>>>>>> main
 
 # game/v6/v6.rpy:478
 translate francais phoneac_9a4cf874:
 
     # cl "So, you're jumping in first, right?"
-<<<<<<< HEAD
-    cl "Alors, tu saute en premier, n'est-ce pas ?
-=======
     cl "Alors, tu saute en premier, n'est-ce pas ?"
->>>>>>> main
 
 # game/v6/v6.rpy:483
 translate francais phoneac_f87f4afc:
@@ -478,21 +394,13 @@ translate francais phoneac_f87f4afc:
 translate francais phoneac_94c537b9:
 
     # cl "*High pitched scream*"
-<<<<<<< HEAD
-    cl "*Cri aigu*"
-=======
     cl "*Cris strident*"
->>>>>>> main
 
 # game/v6/v6.rpy:495
 translate francais phoneac_241078e4:
 
     # cl "*Laughingly* Wow. I can't believe you did that."
-<<<<<<< HEAD
-    cl "*En riant* Waouh. Je ne peux pas croire que tu aies fait ça."
-=======
-    cl "*Rires* Wow. Je ne peux pas croire que tu aies fait ça."
->>>>>>> main
+    cl "*Rires* Waouh. Je ne peux pas croire que tu aies fait ça."
 
 # game/v6/v6.rpy:500
 translate francais phoneac_e18a9965:
@@ -504,31 +412,19 @@ translate francais phoneac_e18a9965:
 translate francais phoneac_19600c83:
 
     # cl "That's fair."
-<<<<<<< HEAD
-    cl "C'est juste."
-=======
     cl "C'est de bonne guerre."
->>>>>>> main
 
 # game/v6/v6.rpy:516
 translate francais phoneac_6ccbac6e:
 
     # "*Splash*"
-<<<<<<< HEAD
-    "*Éclaboussure*"
-=======
     "*Éclaboussures*"
->>>>>>> main
 
 # game/v6/v6.rpy:521
 translate francais phoneac_927802d5:
 
     # u "Ey!"
-<<<<<<< HEAD
-    u "Oh!"
-=======
-    u "Hé !"
->>>>>>> main
+    u "Oh !"
 
 # game/v6/v6.rpy:526
 translate francais phoneac_80c64b26:
@@ -552,31 +448,19 @@ translate francais phoneac_31c866e8:
 translate francais phoneac_d974d116:
 
     # "*Phone rings*"
-<<<<<<< HEAD
-    "*Sonnerie de téléphone*"
-=======
     "*Sonneries de téléphone*"
->>>>>>> main
 
 # game/v6/v6.rpy:563
 translate francais phoneac_e673c31f:
 
     # u "Just let it ring..."
-<<<<<<< HEAD
     u "Laisse sonner..."
-=======
-    u "Laisse juste sonner..."
->>>>>>> main
 
 # game/v6/v6.rpy:568
 translate francais phoneac_bcbc9842:
 
     # cl "What if it's important?"
-<<<<<<< HEAD
     cl "Et si c'était important ?"
-=======
-    cl "« Et si c'était important ?"
->>>>>>> main
 
 # game/v6/v6.rpy:573
 translate francais phoneac_3bb7e37d:
@@ -594,11 +478,7 @@ translate francais phoneac_a4813c2b:
 translate francais phoneac_9df728fd:
 
     # u "You should probably get that, huh?"
-<<<<<<< HEAD
     u "Tu devrais probablement prendre ça, hein ?"
-=======
-    u "Tu devrais probablement comprendre ça, hein ?"
->>>>>>> main
 
 # game/v6/v6.rpy:591
 translate francais phoneac_3a024c28:
@@ -610,11 +490,7 @@ translate francais phoneac_3a024c28:
 translate francais fo_ad_93c6f32c:
 
     # cl "Hey, what's up?"
-<<<<<<< HEAD
-    cl "Hey, quoi de neuf ?"
-=======
-    cl "Hey, qu'est-ce qu'il y a ?"
->>>>>>> main
+    cl "Allo, quoi de neuf ?"
 
 # game/v6/v6.rpy:617
 translate francais fo_ad_faab8195:
@@ -656,21 +532,13 @@ translate francais fp_ad_cabee948:
 translate francais fp_ad_3a90c30d:
 
     # u "Oh, already? You really are busy."
-<<<<<<< HEAD
     u "Ah, déjà ? Tu es vraiment très occupée."
-=======
-    u "Ah, déjà ? tu es vraiment occupé."
->>>>>>> main
 
 # game/v6/v6.rpy:680
 translate francais fp_ad_0bd1822a:
 
     # cl "What can I say? I'm just that important. *Chuckles*"
-<<<<<<< HEAD
     cl "Que puis-je dire ? Je suis juste indispensable. *Rires*"
-=======
-    cl "Que puis-je dire ? Je suis juste si indispensable. *Rires*"
->>>>>>> main
 
 # game/v6/v6.rpy:685
 translate francais fp_ad_4e0a698d:
@@ -682,11 +550,7 @@ translate francais fp_ad_4e0a698d:
 translate francais fp_ad_2e8c8088:
 
     # u "Yeah, sounds good."
-<<<<<<< HEAD
     u "Ouais, vas y."
-=======
-    u "Ouais, ça sonne bien."
->>>>>>> main
 
 # game/v6/v6.rpy:695
 translate francais fp_ad_f5d2629a:
@@ -698,11 +562,7 @@ translate francais fp_ad_f5d2629a:
 translate francais fp_ad_604e5884:
 
     # u "Bye."
-<<<<<<< HEAD
     u "Au revoir."
-=======
-    u "Bye."
->>>>>>> main
 
 # game/v6/v6.rpy:710
 translate francais fp_ad_3f9a5915:
@@ -726,11 +586,7 @@ translate francais fp_ad_e2b7805d:
 translate francais fp_ad_cdd2a73f:
 
     # au "Did you just come out of the shower?"
-<<<<<<< HEAD
     au "Tu viens de sortir de la douche ?"
-=======
-    au "Vous venez de sortir de la douche ?"
->>>>>>> main
 
 # game/v6/v6.rpy:739
 translate francais fp_ad_6d8d6020:
@@ -742,11 +598,7 @@ translate francais fp_ad_6d8d6020:
 translate francais fp_ad_175b87b8:
 
     # u "(I wonder if they talk about me though. I could just stay a bit longer.)"
-<<<<<<< HEAD
     u "(Je me demande si elles parlent de moi cependant. Je pourrais juste rester un peu plus longtemps.)"
-=======
-    u "(Je me demande s'elles parlent de moi cependant. Je pourrais juste rester un peu plus longtemps.)"
->>>>>>> main
 
 # game/v6/v6.rpy:752
 translate francais fp_ad_d9f6f682:
@@ -764,11 +616,7 @@ translate francais fp_ad_be286959:
 translate francais fp_ad_429d2e0e:
 
     # cl "With [name]."
-<<<<<<< HEAD
     cl "Avec [name]."
-=======
-    cl "With [name]."
->>>>>>> main
 
 # game/v6/v6.rpy:767
 translate francais fp_ad_22f446fd:
@@ -780,11 +628,7 @@ translate francais fp_ad_22f446fd:
 translate francais fp_ad_25fe91d0:
 
     # cl "And he, like, actually cares... unlike some other guys."
-<<<<<<< HEAD
-    cl "Et lui, et j'aime ça, il est vraiment attentionné ... contrairement à d'autres gars."
-=======
     cl "Et il est vraiment attentionné... contrairement à d'autres gars."
->>>>>>> main
 
 # game/v6/v6.rpy:777
 translate francais fp_ad_e9acbb29:
@@ -814,11 +658,7 @@ translate francais fp_ad_538b62a3:
 translate francais fp_ad_6b1bf580:
 
     # cl "What was that?"
-<<<<<<< HEAD
     cl "C'était quoi ça ?"
-=======
-    cl "Ca c'était quoi?"
->>>>>>> main
 
 # game/v6/v6.rpy:801
 translate francais fp_ad_5c227e75:
@@ -836,11 +676,7 @@ translate francais fp_ad_a7386861:
 translate francais fp_ad_d3aae36b:
 
     # au "Were you spying on us?"
-<<<<<<< HEAD
     au "Étais-tu en train de nous espionnier ?"
-=======
-    au "Tu m' espionniais ?"
->>>>>>> main
 
 # game/v6/v6.rpy:813
 translate francais fp_ad_641cd193:
@@ -864,41 +700,25 @@ translate francais fp_ad_6f396f00:
 translate francais fp_ad_4b0225b3:
 
     # cl "Do you not trust me? What? Did you think I was off meeting up with another guy?!"
-<<<<<<< HEAD
-    cl "Tu ne me fais pas confiance ? Quoi ? Tu pensais que j'allais rencontrer un autre garçon ?!"
-=======
     cl "Tu ne me fais pas confiance ? Quoi ? Tu pensais que j'allais rencontrer un autre mec ?!"
->>>>>>> main
 
 # game/v6/v6.rpy:833
 translate francais fp_ad_2d1344df:
 
     # u "It's not like that, it's just... the phone call, I-"
-<<<<<<< HEAD
     u "Ce n'est pas ça, c'est juste... l'appel téléphonique, je-"
-=======
-    u "Ce n'est pas comme ça, c'est juste... l'appel téléphonique, je-"
->>>>>>> main
 
 # game/v6/v6.rpy:838
 translate francais fp_ad_812a0583:
 
     # cl "That was from Aubrey. I can't believe you..."
-<<<<<<< HEAD
-    cl "C'était d'Aubrey. Je n'arrive pas à te croire..."
-=======
     cl "C'était d'Aubrey. Je n'arrive pas a le croire..."
->>>>>>> main
 
 # game/v6/v6.rpy:843
 translate francais fp_ad_1f00f728:
 
     # cl "Come on Aubrey."
-<<<<<<< HEAD
     cl "Viens Aubrey."
-=======
-    cl "Allez Aubrey."
->>>>>>> main
 
 # game/v6/v6.rpy:848
 translate francais fp_ad_ba58b502:
@@ -910,11 +730,7 @@ translate francais fp_ad_ba58b502:
 translate francais fp_ad_57ae9944:
 
     # u "*Sighs*"
-<<<<<<< HEAD
-    u "*soupire*"
-=======
     u "*Soupirs*"
->>>>>>> main
 
 # game/v6/v6.rpy:863
 translate francais fp_ad_a0e8c208:
@@ -950,11 +766,7 @@ translate francais fs_bd_e22f1c00:
 translate francais fs_bd_57ae9944:
 
     # u "*Sighs*"
-<<<<<<< HEAD
-    u "*soupire*"
-=======
     u "*Soupir*"
->>>>>>> main
 
 # game/v6/v6.rpy:914
 translate francais fs_bd_11aba451:
@@ -966,11 +778,7 @@ translate francais fs_bd_11aba451:
 translate francais fs_bd_ef228979:
 
     # imre "Yeah?"
-<<<<<<< HEAD
     imre "Ouai ?"
-=======
-    imre "Yeah?"
->>>>>>> main
 
 # game/v6/v6.rpy:929
 translate francais fs_bd_8ba4c076:
@@ -982,21 +790,13 @@ translate francais fs_bd_8ba4c076:
 translate francais fs_bd_fe97a2f3:
 
     # imre "Well I was banging on this bastard's door, but he was too pussy to open."
-<<<<<<< HEAD
-    imre "Eh bien, je frappais à la porte de ce batard, mais il était trop une poule mouillée pour ouvrir."
-=======
     imre "Eh bien, je frappais à la porte de ce batard, mais il était trop poule mouillée pour ouvrir."
->>>>>>> main
 
 # game/v6/v6.rpy:939
 translate francais fs_bd_b9efbe3c:
 
     # u "Shit, he was hiding from you?"
-<<<<<<< HEAD
-    u "Merde, il se cachait de toi ?"
-=======
     u "Merde, il se cachait ?"
->>>>>>> main
 
 # game/v6/v6.rpy:944
 translate francais fs_bd_020116b5:
@@ -1008,11 +808,7 @@ translate francais fs_bd_020116b5:
 translate francais fs_bd_f18944dd:
 
     # u "Oh, so he wasn't home."
-<<<<<<< HEAD
-    u "Oh, donc il n'était pas à la maison."
-=======
     u "Oh, donc il n'était pas chez lui."
->>>>>>> main
 
 # game/v6/v6.rpy:954
 translate francais fs_bd_9188e3c4:
@@ -1030,21 +826,13 @@ translate francais fs_bd_f136889d:
 translate francais fs_bd_ba78e1fe:
 
     # imre "Walking round town, trying to think."
-<<<<<<< HEAD
-    imre "Je me promène dans la ville, essayer de réfléchir.""
-=======
     imre "Je me promène en ville, j'essaye de réfléchir."
->>>>>>> main
 
 # game/v6/v6.rpy:969
 translate francais fs_bd_537de71c:
 
     # u "Alright, I'm here if you wanna talk."
-<<<<<<< HEAD
-    u "Alright, I'm here if you wanna talk."
-=======
     u "D'accord, je suis là si tu veux parler."
->>>>>>> main
 
 # game/v6/v6.rpy:974
 translate francais fs_bd_faa07ed0:
@@ -1068,21 +856,13 @@ translate francais continuebb_9ea2f78c:
 translate francais phoneae_e80c8a11:
 
     # u "(I should probably reply to my messages.)"
-<<<<<<< HEAD
     u "(Je dois probablement répondre à mes messages.)"
-=======
-    u "(I should probably reply to my messages.)"
->>>>>>> main
 
 # game/v6/v6.rpy:1026
 translate francais phoneae_9ea2f78c:
 
     # " "
-<<<<<<< HEAD
     " "
-=======
-    "(Je devrais probablement répondre à mes messages.)"
->>>>>>> main
 
 # game/v6/v6.rpy:1032
 translate francais phoneaf_e80c8a11:
@@ -1112,41 +892,25 @@ translate francais continuebd_7d193b2b:
 translate francais continuebd_d84a64c4:
 
     # u "(Time for another boring-ass economics lecture...)"
-<<<<<<< HEAD
-    u "(Il est temps pour un autre cours d'économie ennuyeux...)"
-=======
     u "(Il est temps pour un autre cours d'économie chiant à en crever...)"
->>>>>>> main
 
 # game/v6/v6.rpy:1070
 translate francais continuebd_9ea1e8f9:
 
     # u "Hey guys."
-<<<<<<< HEAD
     u "Salut les gars."
-=======
-    u "Hey guys."
->>>>>>> main
 
 # game/v6/v6.rpy:1076
 translate francais continuebd_8b4972a9:
 
     # la "Heyyy."
-<<<<<<< HEAD
     la "Saluuut."
-=======
-    la "Saluuut"
->>>>>>> main
 
 # game/v6/v6.rpy:1083
 translate francais continuebd_6c420c5e:
 
     # "*Kiss*"
-<<<<<<< HEAD
-    "*Embrasser*"
-=======
-    "*Smack*"
->>>>>>> main
+    "*Bisou*"
 
 # game/v6/v6.rpy:1093
 translate francais continuebd_6279aa4f:
@@ -1164,41 +928,25 @@ translate francais continuebd_392dc94a:
 translate francais continuebd_41ebc5e7:
 
     # ri "Wow, I really had no idea."
-<<<<<<< HEAD
     ri "Wouah, je n'en avais vraiment aucune idée."
-=======
-    ri "Waouh, je n'en savais rien."
->>>>>>> main
 
 # game/v6/v6.rpy:1108
 translate francais continuebd_8831e416:
 
     # ro "Alright class, let's get started. Open your books to page 225."
-<<<<<<< HEAD
-    ro "Bien, commençons. Ouvrez vos livres à la page 225."
-=======
     ro "Commençons le cours. Ouvrez vos livres à la page 225."
->>>>>>> main
 
 # game/v6/v6.rpy:1143
 translate francais continuebd_6c420c5e_1:
 
     # "*Kiss*"
-<<<<<<< HEAD
-    "*Embrasser*"
-=======
-    "*Smack*"
->>>>>>> main
+    "*Bisous*"
 
 # game/v6/v6.rpy:1148
 translate francais continuebd_fa1de463:
 
     # la "I gotta go, I have to finish a paper. I'll see you later."
-<<<<<<< HEAD
     la "Je dois y aller, je dois finir un papier. À plus tard."
-=======
-    la "Je dois y aller, je dois finir un papier. Je te verrai plus tard."
->>>>>>> main
 
 # game/v6/v6.rpy:1153
 translate francais continuebd_daa843ad:
@@ -1228,11 +976,7 @@ translate francais continuebd_2db75ff3:
 translate francais continuebd_ee01f9b9:
 
     # u "Thanks."
-<<<<<<< HEAD
     u "Merci."
-=======
-    u "Thanks."
->>>>>>> main
 
 # game/v6/v6.rpy:1180
 translate francais continuebd_8b4972a9_1:
@@ -1244,21 +988,13 @@ translate francais continuebd_8b4972a9_1:
 translate francais continuebd_8831e416_1:
 
     # ro "Alright class, let's get started. Open your books to page 225."
-<<<<<<< HEAD
-    ro "Bien, commençons. Ouvrez vos livres à la page 225."
-=======
     ro "Commençons le cours. Ouvrez vos livres à la page 225."
->>>>>>> main
 
 # game/v6/v6.rpy:1228
 translate francais continuebd_fa1de463_1:
 
     # la "I gotta go, I have to finish a paper. I'll see you later."
-<<<<<<< HEAD
 	la "Je dois y aller, je dois finir un papier. À plus tard."
-=======
-    la "Je dois y aller, je dois finir un papier. Je te verrai plus tard."
->>>>>>> main
 
 # game/v6/v6.rpy:1233
 translate francais continuebd_daa843ad_1:
@@ -1276,21 +1012,13 @@ translate francais continuebd_d49551a2:
 translate francais continuebd_d97a7a4d:
 
     # u "*Grins* Whatever."
-<<<<<<< HEAD
-    u "*Sourit* Peu importe."
-=======
-    u "*Souri* Peu importe."
->>>>>>> main
+    u "*Souris* Peu importe."
 
 # game/v6/v6.rpy:1254
 translate francais continuebd_8686e81c:
 
     # u "Hey."
-<<<<<<< HEAD
-    u "Salut"
-=======
     u "Salut."
->>>>>>> main
 
 # game/v6/v6.rpy:1259
 translate francais continuebd_a40af0da:
@@ -1331,11 +1059,7 @@ translate francais continuebd_1ccfa1f2:
 # game/v6/v6.rpy:1286
 translate francais continuebd_39b3a66f:
 
-<<<<<<< HEAD
-    # u "Where's Ryan?"
-=======
     # u "Where's Ryan?" # Ryan is in the kitchen !
->>>>>>> main
     u "Où est Ryan ?"
 
 # game/v6/v6.rpy:1291
@@ -1348,11 +1072,7 @@ translate francais continuebd_fc5c499f:
 translate francais continuebd_8831e416_2:
 
     # ro "Alright class, let's get started. Open your books to page 225."
-<<<<<<< HEAD
-    ro "Bien, commençons. Ouvrez vos livres à la page 225."
-=======
     ro "Commençons le cours. Ouvrez vos livres à la page 225."
->>>>>>> main
 
 # game/v6/v6.rpy:1334
 translate francais continuebd_dc524394:
@@ -1364,11 +1084,7 @@ translate francais continuebd_dc524394:
 translate francais continuebd_115fe6fe:
 
     # u "Lauren! ... Lauren!"
-<<<<<<< HEAD
-    u "Lauren! ... Lauren!"
-=======
     u "Lauren ! ... Lauren !"
->>>>>>> main
 
 # game/v6/v6.rpy:1348
 translate francais continuebd_25752f9b:
@@ -1386,21 +1102,13 @@ translate francais continuebd_c2756ca8:
 translate francais continuebd_57ae9944:
 
     # u "*Sighs*"
-<<<<<<< HEAD
-    u "*soupire*"
-=======
     u "*Soupirs*"
->>>>>>> main
 
 # game/v6/v6.rpy:1366
 translate francais continuebd_69015477:
 
     # ri "You good?"
-<<<<<<< HEAD
     ri "Tout vas bien ?"
-=======
-    ri "You good?"
->>>>>>> main
 
 # game/v6/v6.rpy:1371
 translate francais continuebd_e044d8f9:
@@ -1412,11 +1120,7 @@ translate francais continuebd_e044d8f9:
 translate francais continuebd_9a601991:
 
     # ri "Okay, just making sure."
-<<<<<<< HEAD
     ri "D'accord, je voulais juste être sûre."
-=======
-    ri "D'accord, juste pour être sûr."
->>>>>>> main
 
 # game/v6/v6.rpy:1382
 translate francais continuebd_9ea1e8f9_1:
@@ -1434,41 +1138,25 @@ translate francais continuebd_8b4972a9_2:
 translate francais continuebd_39b3a66f_1:
 
     # u "Where's Ryan?"
-<<<<<<< HEAD
-    u "Where's Ryan?"
-=======
     u "Où est Ryan ?"
->>>>>>> main
 
 # game/v6/v6.rpy:1397
 translate francais continuebd_5ac07643:
 
     # ri "I don't know, but he said he's already falling behind on the classwork, so I don't think him skipping class is a good idea."
-<<<<<<< HEAD
-    ri "Je ne sais pas, mais il a dit qu'il prenait déjà du retard dans le travail en classe, donc je ne pense pas que sauter les cours soit une bonne idée."
-=======
     ri "Je ne sais pas, mais il a dit qu'il prenait déjà du retard dans ses devoirs, donc je ne pense pas qu'il soit une bonne idée de sauter les cours."
->>>>>>> main
 
 # game/v6/v6.rpy:1402
 translate francais continuebd_8831e416_3:
 
     # ro "Alright class, let's get started. Open your books to page 225."
-<<<<<<< HEAD
-    ro "Bien, commençons. Ouvrez vos livres à la page 225."
-=======
     ro "Commençons le cours. Ouvrez vos livres à la page 225."
->>>>>>> main
 
 # game/v6/v6.rpy:1435
 translate francais continuebd_5b5b00ed:
 
     # la "I gotta go, I have to finish a paper. I'll see you guys later."
-<<<<<<< HEAD
     la "Je dois y aller, je dois finir un papier. À plus tard."
-=======
-    la "Je dois y aller, je dois finir un papier. Je te verrais plus tard."
->>>>>>> main
 
 # game/v6/v6.rpy:1440
 translate francais continuebd_daa843ad_2:
@@ -1479,11 +1167,7 @@ translate francais continuebd_daa843ad_2:
 # game/v6/v6.rpy:1445
 translate francais continuebd_5d2f22a5:
 
-<<<<<<< HEAD
-    # ri "Alors, comment ça se passe avec Chloé ?"
-=======
     # ri "So, how are things with Chloe?"
->>>>>>> main
     ri "Alors, comment ça se passe avec Chloé ?"
 
 # game/v6/v6.rpy:1451
@@ -1502,11 +1186,7 @@ translate francais continuebd_d43cd8c3:
 translate francais continuebd_4e504701:
 
     # u "I don't really wanna get into it."
-<<<<<<< HEAD
     u "Je ne veux pas vraiment remettre ça sur le tapis."
-=======
-    u "Je ne tiens pas vraiment à remuer ça."
->>>>>>> main
 
 # game/v6/v6.rpy:1466
 translate francais continuebd_613ad5e2:
@@ -1524,11 +1204,7 @@ translate francais continuebd_f442ec10:
 translate francais continuebd_5cc448a7:
 
     # ri "I'm glad. You deserve to be happy."
-<<<<<<< HEAD
-    ri "Je suis contente. Vous méritez d'être heureux."
-=======
     ri "Je suis contente. Tu mérite d'être heureux."
->>>>>>> main
 
 # game/v6/v6.rpy:1482
 translate francais continuebd_d7cdc824:
@@ -1540,31 +1216,19 @@ translate francais continuebd_d7cdc824:
 translate francais afterclass_e0edce24:
 
     # ry "[name], I need to talk to you. Now."
-<<<<<<< HEAD
-    ry "[name], j'ai besoin de te parler. À présent."
-=======
     ry "[name], j'ai besoin de te parler. Maintenant."
->>>>>>> main
 
 # game/v6/v6.rpy:1502
 translate francais afterclass_2f78175d:
 
     # u "Hey, what's the hurry?"
-<<<<<<< HEAD
-    u "Hé, qu'est-ce qui est presse ?"
-=======
-    u "Hé, qu'est-ce qui est si pressé ?"
->>>>>>> main
+    u "Allo, qu'est-ce qui est si pressé ?"
 
 # game/v6/v6.rpy:1507
 translate francais afterclass_1680868c:
 
     # ri "You just missed class, you know that?"
-<<<<<<< HEAD
     ri "Tu viens de manquer le cours, tu le sais ça ?"
-=======
-    ri "You just missed class, you know that ?"
->>>>>>> main
 
 # game/v6/v6.rpy:1512
 translate francais afterclass_a32f441b:
@@ -1582,11 +1246,7 @@ translate francais afterclass_d2277844:
 translate francais afterclass_1235c127:
 
     # ry "Just follow me."
-<<<<<<< HEAD
     ry "Suis-moi simplement."
-=======
-    ry "Suis moi juste."
->>>>>>> main
 
 # game/v6/v6.rpy:1527
 translate francais afterclass_1010d005:
@@ -1604,21 +1264,13 @@ translate francais afterclass_972cdec5:
 translate francais afterclass_57bd300c:
 
     # ry "In here."
-<<<<<<< HEAD
-    ry "Ici."
-=======
     ry "à l'interrieur."
->>>>>>> main
 
 # game/v6/v6.rpy:1551
 translate francais afterclass_90aafb71:
 
     # u "What the fuck is this?!"
-<<<<<<< HEAD
-    u "Qu'est-ce que c'est que ça ?!"
-=======
     u "C'est quoi ce merdier ?!"
->>>>>>> main
 
 # game/v6/v6.rpy:1556
 translate francais afterclass_4977b9f2:
@@ -1636,11 +1288,7 @@ translate francais afterclass_35d5d557:
 translate francais afterclass_e75c9cb1:
 
     # u "The wrong foot?! Are you kidding me?!"
-<<<<<<< HEAD
-    u "Le mauvais pied ?! Tu plaisante j'espère?!"
-=======
     u "Du mauvais pied ?! Tu te fout de ma gueule j'espère?!"
->>>>>>> main
 
 # game/v6/v6.rpy:1571
 translate francais afterclass_0d1741b2:
@@ -1658,11 +1306,7 @@ translate francais afterclass_2cf85c7b:
 translate francais afterclass_3a6b5942:
 
     # ry "Just hear him out."
-<<<<<<< HEAD
     ry "Écoutez-le simplement."
-=======
-    ry "Juste, écoute-le."
->>>>>>> main
 
 # game/v6/v6.rpy:1586
 translate francais afterclass_bd2e0a0b:
@@ -1674,11 +1318,7 @@ translate francais afterclass_bd2e0a0b:
 translate francais afterclass_4b0249ae:
 
     # u "You did it 'cause I got too close to Chloe, right?"
-<<<<<<< HEAD
-    u "Tu l'as fait parce que je me suis trop rapproché de Chloé, n'est-ce pas ?"
-=======
     u "Tu l'as fait parce que je me suis trop rapproché de Chloé, non ?"
->>>>>>> main
 
 # game/v6/v6.rpy:1596
 translate francais afterclass_2406b364:
@@ -1696,11 +1336,7 @@ translate francais afterclass_d4304960:
 translate francais afterclass_08e90584:
 
     # gr "Natural born leaders."
-<<<<<<< HEAD
-    gr "Leaders nés, naturels."
-=======
     gr "Leaders nés par nature."
->>>>>>> main
 
 # game/v6/v6.rpy:1612
 translate francais afterclass_83ee59e3:
@@ -1748,21 +1384,13 @@ translate francais ft_ad_b694c0b7:
 translate francais ft_ad_437f98b7:
 
     # gr "Have a think about it and then meet me at midnight on the front stairs."
-<<<<<<< HEAD
-    gr "Réfléchis-y et retrouve-moi à minuit dans les escaliers de l'entrée."
-=======
     gr "Réfléchis-y et retrouve-moi à minuit devant les escaliers de l'entrée."
->>>>>>> main
 
 # game/v6/v6.rpy:1653
 translate francais ft_ad_65810f25:
 
     # ry "Don't waste this chance, man."
-<<<<<<< HEAD
     ry "Ne perds pas cette chance, mec."
-=======
-    ry "Ne gaspille pas cette chance, mec."
->>>>>>> main
 
 # game/v6/v6.rpy:1659
 translate francais ft_ad_4f5115e5:
@@ -1774,11 +1402,7 @@ translate francais ft_ad_4f5115e5:
 translate francais ft_ad_104b948f:
 
     # ro "*Sniffs* Damnit!"
-<<<<<<< HEAD
     ro "*Renifle* Putain de merde !"
-=======
-    ro "*Renifle* Merde !"
->>>>>>> main
 
 # game/v6/v6.rpy:1677
 translate francais ft_ad_11f06a15:
@@ -1820,11 +1444,7 @@ translate francais ft_ad_3c75c9fa:
 translate francais ft_ad_fee87927:
 
     # ro "I'm sure! You can't help me! No one can!"
-<<<<<<< HEAD
-    ro "Je suis sûre ! Vous ne pouvez pas m'aider ! Personne ne peut !"
-=======
     ro "J'en suis sûre ! Vous ne pouvez pas m'aider ! Personne ne le peut !"
->>>>>>> main
 
 # game/v6/v6.rpy:1717
 translate francais ft_ad_1ef1f2c7:
@@ -1836,51 +1456,31 @@ translate francais ft_ad_1ef1f2c7:
 translate francais ft_ad_ca52e5d7:
 
     # ro "Just leave me alone! Go!"
-<<<<<<< HEAD
-    ro "Laisse moi seule ! Va !"
-=======
     ro "Laisse moi seulle ! Vas-t'en !"
->>>>>>> main
 
 # game/v6/v6.rpy:1727
 translate francais ft_ad_2c5d2ba9:
 
     # u "Okay. Okay. Apologies. I'll leave you alone."
-<<<<<<< HEAD
-    u "D'accord. D'accord. Excusez moi. Je te laisse tranquille."
-=======
     u "D'accord. D'accord. Excusez-moi. Je vous laisse tranquille."
->>>>>>> main
 
 # game/v6/v6.rpy:1732
 translate francais ft_ad_ba66880b:
 
     # ro "Wait."
-<<<<<<< HEAD
-    ro "Attendez."
-=======
     ro "Attend."
->>>>>>> main
 
 # game/v6/v6.rpy:1737
 translate francais ft_ad_4a58dbb5:
 
     # ro "I'm sorry. I didn't mean to snap at you. I just have a lot going on right now."
-<<<<<<< HEAD
     ro "Je suis désolé. Je ne voulais pas t'agresser. J'ai juste beaucoup de choses à faire en ce moment."
-=======
-    ro "Je suis désolé. Je ne voulais pas t'en vouloir. J'ai juste beaucoup de choses à faire en ce moment."
->>>>>>> main
 
 # game/v6/v6.rpy:1742
 translate francais ft_ad_2e47791b:
 
     # u "It's okay. I get it. I don't wanna pry."
-<<<<<<< HEAD
     u "C'est bon. Je comprends. Je ne voulais pas vous forcer."
-=======
-    u "C'est bon. Je comprends. Je ne veux pas vous forcer."
->>>>>>> main
 
 # game/v6/v6.rpy:1747
 translate francais ft_ad_281dfb87:
@@ -1904,21 +1504,13 @@ translate francais nr_bb_ac11233a:
 translate francais nr_bb_f317fd7b:
 
     # u "(Homecoming. Hm. Lauren would probably be pissed if I didn't ask her...)"
-<<<<<<< HEAD
-    u "(Soirée de vacances. Hm. Lauren serait probablement énervé si je ne lui demandais pas...)"
-=======
     u "(Fête de rentrée. Hm. Lauren serait probablement énervé si je ne lui demandais pas...)"
->>>>>>> main
 
 # game/v6/v6.rpy:1784
 translate francais nr_bb_cdb81572:
 
     # u "(Homecoming. Hm. I should really think about who I want to go with...)"
-<<<<<<< HEAD
-    u "(Soirée de vacances. Hm. Je devrais vraiment penser à qui je veux inviter...)"
-=======
     u "(Fête de rentrée. Hm. Je devrais vraiment penser à qui je veux inviter...)"
->>>>>>> main
 
 # game/v6/v6.rpy:1795
 translate francais nr_bb_c7e28610:
@@ -1990,11 +1582,7 @@ translate francais continuebe_08730599:
 translate francais continuebe_50a1c619:
 
     # no "Right."
-<<<<<<< HEAD
     no "Bien."
-=======
-    no "Droite."
->>>>>>> main
 
 # game/v6/v6.rpy:1866
 translate francais continuebe_e9d0a7f7:
@@ -2030,21 +1618,13 @@ translate francais continuebe_6ceaba0c:
 translate francais continuebe_3f646b05:
 
     # no "I don't even remember an age where I didn't run. It's just such a good stress relief."
-<<<<<<< HEAD
-    no "Je ne me souviens même pas d'un âge où je n'ai pas couru. C'est juste un bon soulagement du stress."
-=======
-    no "Je ne me souviens même pas d'un âge où je n'ai pas couru. ça me permet d'évacuer le stress."
->>>>>>> main
+    no "Je ne me souviens même pas d'un âge où je n'ai pas couru. Ça me permet d'évacuer le stress."
 
 # game/v6/v6.rpy:1893
 translate francais continuebe_fd8da66f:
 
     # u "Haha, it really is."
-<<<<<<< HEAD
-    u "Haha, ça l'est vraiment."
-=======
     u "Haha, Oui c'est vrai."
->>>>>>> main
 
 # game/v6/v6.rpy:1895
 translate francais continuebe_661b4b00:
@@ -2056,21 +1636,13 @@ translate francais continuebe_661b4b00:
 translate francais continuebe_e8ed35c0:
 
     # no "Yeah, I think Chris would kill me if I didn't."
-<<<<<<< HEAD
     no "Ouais, je pense que Chris me tuerait si je n'y allais pas."
-=======
-    no "Ouais, je pense que Chris me tuerait si je n'y étais pas."
->>>>>>> main
 
 # game/v6/v6.rpy:1902
 translate francais continuebe_adf14c70:
 
     # no "What about you?"
-<<<<<<< HEAD
-    no "Qu'en pense-tu ?"
-=======
     no "Et toi ?"
->>>>>>> main
 
 # game/v6/v6.rpy:1907
 translate francais continuebe_82e49e55:
@@ -2100,21 +1672,13 @@ translate francais continuebe_e20f3d03:
 translate francais continuebe_06d6693d:
 
     # no "Alright, I'll probably see you tomorrow then."
-<<<<<<< HEAD
     no "Bon, je te verrai probablement demain alors."
-=======
-    no "D'accord, je te verrai probablement demain alors."
->>>>>>> main
 
 # game/v6/v6.rpy:1932
 translate francais continuebe_0f8495d3:
 
     # u "Yeah, cool. I'll see you then."
-<<<<<<< HEAD
-    u "Ouais cool. À plus."
-=======
     u "Ouais cool. À demain."
->>>>>>> main
 
 # game/v6/v6.rpy:1937
 translate francais continuebe_a4acbf5c:
@@ -2126,31 +1690,19 @@ translate francais continuebe_a4acbf5c:
 translate francais fu_b_eedb5df0:
 
     # u "(I should call Evelyn about doing the date tonight. After all, she did say she'd give me a chance.)"
-<<<<<<< HEAD
-    u "(Je devrais appeler Evelyn pour organiser le rendez-vous ce soir. Après tout, elle a dit qu'elle me donnerait une chance.)"
-=======
     u "(Je devrais appeler Evelyn pour organiser le rencard ce soir. Après tout, elle a dit qu'elle me donnerait une chance.)"
->>>>>>> main
 
 # game/v6/v6.rpy:1961
 translate francais fu_b_c37175f9:
 
     # ev "Hello?"
-<<<<<<< HEAD
-    ev "Bonjour?"
-=======
     ev "Allo ?"
->>>>>>> main
 
 # game/v6/v6.rpy:1966
 translate francais fu_b_372c870a:
 
     # u "Hey Evelyn, it's me, [name]."
-<<<<<<< HEAD
-    u "Hé Evelyn, c'est moi, [name]."
-=======
     u "Salut Evelyn, c'est moi, [name]."
->>>>>>> main
 
 # game/v6/v6.rpy:1976
 translate francais fu_b_e95c4f10:
@@ -2168,11 +1720,7 @@ translate francais fu_b_9be101ec:
 translate francais fu_b_069528a1:
 
     # u "So uhm, how about we do the date tonight?"
-<<<<<<< HEAD
     u "Alors euh, et si on se donnait rendez-vous ce soir ?"
-=======
-    u "Alors euh, et si on faisait le rendez-vous ce soir ?"
->>>>>>> main
 
 # game/v6/v6.rpy:1991
 translate francais fu_b_d1298f31:
@@ -2184,21 +1732,13 @@ translate francais fu_b_d1298f31:
 translate francais fu_b_4838f730:
 
     # ev "But you're really not my type. Plus I'm meeting friends tonight."
-<<<<<<< HEAD
-    ev "Mais tu n'es vraiment pas mon genre. En plus, je vais chez des amies ce soir."
-=======
     ev "Mais tu n'es vraiment pas mon genre. En plus, je vais voir des amies ce soir."
->>>>>>> main
 
 # game/v6/v6.rpy:1998
 translate francais fu_b_4f07dbb0:
 
     # u "I know you like playing hard to get, but I think you'd make a big mistake by missing out on this date."
-<<<<<<< HEAD
-    u "Je sais que tu aimes la jouer dûr, mais je pense que tu ferais une grosse erreur en ratant ce rendez-vous."
-=======
-    u "Je sais que tu aimes la jouer dure, mais je pense que tu ferais une grosse erreur en ratant ce rendez-vous."
->>>>>>> main
+    u "Je sais que tu aimes la jouer à la dure, mais je pense que tu ferais une grosse erreur en ratant ce rendez-vous."
 
 # game/v6/v6.rpy:2003
 translate francais fu_b_68ebbf0d:
@@ -2210,11 +1750,7 @@ translate francais fu_b_68ebbf0d:
 translate francais fu_b_3d776033:
 
     # u "'Cause we'll go on an adventure."
-<<<<<<< HEAD
-    u "Parce que nous allons partir à l'aventure."
-=======
     u "Parce que nous partirions à l'aventure."
->>>>>>> main
 
 # game/v6/v6.rpy:2018
 translate francais fu_b_f8d5666f:
@@ -2250,11 +1786,7 @@ translate francais fu_b_3578b6fc:
 translate francais fu_b_b1420f2c:
 
     # ev "I'm sure you'll find someone else, good bye."
-<<<<<<< HEAD
-    ev "Je suis sûr que tu trouveras quelqu'un d'autre, au revoir."
-=======
     ev "Je suis sûre que tu trouveras quelqu'un d'autre, au revoir."
->>>>>>> main
 
 # game/v6/v6.rpy:2044
 translate francais fu_b_79e1b3f6:
@@ -2266,21 +1798,13 @@ translate francais fu_b_79e1b3f6:
 translate francais fu_b_fecdd0f1:
 
     # u "Damnit."
-<<<<<<< HEAD
     u "Bon sang."
-=======
-    u "Damnit."
->>>>>>> main
 
 # game/v6/v6.rpy:2058
 translate francais fu_b_e4fc9def:
 
     # u "Because we'll go out to a nice dinner. It'll be much more enjoyable than a girls' night and the best part: it's on me."
-<<<<<<< HEAD
     u "Parce que nous sortirons pour un bon dîner. Ce sera bien plus agréable qu'une soirée entre filles et le meilleur : c'est avec moi."
-=======
-    u "Parce que nous sortirions pour un bon dîner. Ce sera bien plus agréable qu'une soirée entre filles et le meilleur : c'est avec moi."
->>>>>>> main
 
 # game/v6/v6.rpy:2063
 translate francais fu_b_38b76687:
@@ -2298,11 +1822,7 @@ translate francais fu_b_51b3a145:
 translate francais fu_b_f3d03d64:
 
     # ev "Okay, I can do with surprises. Pick me up at eight?"
-<<<<<<< HEAD
     ev "D'accord, je peux faire avec des surprises. Tu viens me chercher à huit heures ?"
-=======
-    ev "D'accord, je peux faire avec des surprises. Viens me chercher à huit heures ?"
->>>>>>> main
 
 # game/v6/v6.rpy:2078
 translate francais fu_b_7e006013:
@@ -2320,61 +1840,37 @@ translate francais fu_b_9d2ff1d7:
 translate francais fu_b_5daa0ce9:
 
     # u "How about I tell you the address, but you're not allowed to look up which restaurant it is and we'll meet there?"
-<<<<<<< HEAD
-    u "Et si je vous disais l'adresse, mais vous n'êtes pas autorisé à chercher de quel restaurant il s'agit et nous nous rencontrerons là-bas ?"
-=======
     u "Et si je te disais l'adresse, mais tu n'êtes pas autorisé à chercher de quel restaurant il s'agit et que nous nous retrouverons là-bas ?"
->>>>>>> main
 
 # game/v6/v6.rpy:2093
 translate francais fu_b_7e022e06:
 
     # ev "*Sighs* Fine."
-<<<<<<< HEAD
-    ev "*Sighs* Fine."
-=======
     ev "*Soupirs* Bien."
->>>>>>> main
 
 # game/v6/v6.rpy:2098
 translate francais fu_b_3eddfa99:
 
     # u "376 Gardner Avenue. I'll see you at eight."
-<<<<<<< HEAD
-    u "376, avenue Gardner. Je te verrai à huit heures."
-=======
     u "376, avenue Gardner. Je t'attendrais à huit heures."
->>>>>>> main
 
 # game/v6/v6.rpy:2103
 translate francais fu_b_075a5a30:
 
     # ev "Yes..."
-<<<<<<< HEAD
     ev "Oui..."
-=======
-    ev "D'accord..."
->>>>>>> main
 
 # game/v6/v6.rpy:2107
 translate francais fu_b_79e1b3f6_1:
 
     # "*Evelyn hangs up*"
-<<<<<<< HEAD
     "*Evelyne raccroche*"
-=======
-    "*Evelyn hangs up*"
->>>>>>> main
 
 # game/v6/v6.rpy:2112
 translate francais fu_b_e6dbca32:
 
     # u "Hell yeah."
-<<<<<<< HEAD
     u "Putain ouais."
-=======
-    u "YESSS !"
->>>>>>> main
 
 # game/v6/v6.rpy:2151
 translate francais lookdog_3fd3d76d:
@@ -2404,11 +1900,7 @@ translate francais runback_cf5be5c5:
 translate francais runback_8f599c2c:
 
     # u "(Wow, I still haven't given that to Chloe. Next time I'm definitely taking it with me.)"
-<<<<<<< HEAD
     u "(Waouh, je ne l'ai toujours pas donné à Chloé. La prochaine fois, je l'emporterai avec moi.)"
-=======
-    u "(Wow, je ne l'ai toujours pas donné à Chloé. La prochaine fois, je l'emporterai avec moi.)"
->>>>>>> main
 
 # game/v6/v6.rpy:2201
 translate francais fw_a_8bdb5ed3:
@@ -2420,37 +1912,25 @@ translate francais fw_a_8bdb5ed3:
 translate francais fw_a_195a6f2b:
 
     # u "What's wrong now?"
-<<<<<<< HEAD
-    u "Quel est le problème encore ?"
-=======
     u "C'est quoi ton problème maintenant ?"
->>>>>>> main
 
 # game/v6/v6.rpy:2224
 translate francais fw_a_6711b258:
 
     # em "(Sobbing) Really? That's how you're going to treat me?"
-<<<<<<< HEAD
     em "(Sanglots) Vraiment ? C'est comme ça que tu vas me traiter ?"
-=======
-    em "(Sanglotant) Vraiment ? C'est comme ça que tu me traiter ?"
->>>>>>> main
 
 # game/v6/v6.rpy:2229
 translate francais fw_a_ba3e8519:
 
     # u "Alright fine. What's wrong, Emily?"
-    u "Très bien. Qu'est-ce qui ne va pas, Emilie ?"
+    u "Très bien. Qu'est-ce qui ne va pas, Emily ?"
 
 # game/v6/v6.rpy:2234
 translate francais fw_a_cf9cf369:
 
     # em "(Sobbing) Can you please come over? I need you."
-<<<<<<< HEAD
     em "(Sanglots) Peux-tu s'il te plaît venir? J'ai besoin de toi."
-=======
-    em "(Sanglotant) Peux-tu, s'il te plaît, venir ? J'ai besoin de toi."
->>>>>>> main
 
 # game/v6/v6.rpy:2239
 translate francais fw_a_d681a9fa:
@@ -2468,51 +1948,31 @@ translate francais fw_a_43d987e7:
 translate francais fw_a_16296ffa:
 
     # u "Right... like that time you told me you needed me and then opened the door in your underwear trying to get me back???"
-<<<<<<< HEAD
     u "C'est vrai... comme la fois où tu m'as dit que tu avais besoin de moi et puis tu as ouvert la porte en sous-vêtements pour essayer de me récupérer ???"
-=======
-    u "C'est vrai... comme la fois où tu m'as dit que tu avais besoin de moi et puis tu as ouvert la porte dans tes sous-vêtements pour essayer de me récupérer ???"
->>>>>>> main
 
 # game/v6/v6.rpy:2254
 translate francais fw_a_419c4d03:
 
     # em "[name], this is different. I promise. Please can you just come over? I'm in Dorm 17, Block A."
-<<<<<<< HEAD
     em "[name], c'est différent. Je te promets. S'il te plaît, peux-tu juste venir ? Je suis dans le dortoir 17, bloc A."
-=======
-    em "[name], c'est différent. Je promets. S'il te plaît, peux-tu juste venir ? Je suis dans le dortoir 17, bloc A."
->>>>>>> main
 
 # game/v6/v6.rpy:2264
 translate francais fw_a_4c9b5b30:
 
     # u "Fine, I'll come."
-<<<<<<< HEAD
-    u "Bien, je viendrai."
-=======
     u "Bien, j'arrive."
->>>>>>> main
 
 # game/v6/v6.rpy:2269
 translate francais fw_a_ddddf0d7:
 
     # em "Thank you!"
-<<<<<<< HEAD
-    em "Merci!"
-=======
     em "Merci !"
->>>>>>> main
 
 # game/v6/v6.rpy:2276
 translate francais fw_a_c2bdea7e:
 
     # "*You hang up*"
-<<<<<<< HEAD
-    "*Vous raccrochez*"
-=======
     "*Tu raccroche*"
->>>>>>> main
 
 # game/v6/v6.rpy:2278
 translate francais fw_a_57ae9944:
@@ -2524,11 +1984,7 @@ translate francais fw_a_57ae9944:
 translate francais fw_a_4f1997c1:
 
     # "*Knock knock knock*"
-<<<<<<< HEAD
-    "*Knock knock knock*"
-=======
     "*Toc Toc Toc*"
->>>>>>> main
 
 # game/v6/v6.rpy:2285
 translate francais fw_a_2e4a8818:
@@ -2570,11 +2026,7 @@ translate francais fw_a_1e735209:
 translate francais fw_a_178098b2:
 
     # u "As in your best friend from high school Hazel?"
-<<<<<<< HEAD
     u "Comme ta meilleure amie de lycée Hazel ?"
-=======
-    u "Comme ta meilleure amie du lycée Hazel ?"
->>>>>>> main
 
 # game/v6/v6.rpy:2314
 translate francais fw_a_cc77529c:
@@ -2586,11 +2038,7 @@ translate francais fw_a_cc77529c:
 translate francais fw_a_23d8e0c1:
 
     # u "What'd she do?"
-<<<<<<< HEAD
     u "Qu'a-t-elle fait ?"
-=======
-    u "Qu'est-ce qu'elle fait ?"
->>>>>>> main
 
 # game/v6/v6.rpy:2324
 translate francais fw_a_c67f5e04:
@@ -2614,31 +2062,19 @@ translate francais fw_a_356fe308:
 translate francais fw_a_1c2cf3f4:
 
     # u "No."
-<<<<<<< HEAD
     u "Non."
-=======
-    u "No."
->>>>>>> main
 
 # game/v6/v6.rpy:2361
 translate francais fw_a_c2bdea7e_1:
 
     # "*You hang up*"
-<<<<<<< HEAD
-    "*Vous raccrochez*"
-=======
     "*Tu raccroche*"
->>>>>>> main
 
 # game/v6/v6.rpy:2363
 translate francais fw_a_57ae9944_1:
 
     # u "*Sighs*"
-<<<<<<< HEAD
-    u "*soupir*"
-=======
     u "*soupirs*"
->>>>>>> main
 
 # game/v6/v6.rpy:2373
 translate francais fw_a_a1030b81:
@@ -2650,11 +2086,7 @@ translate francais fw_a_a1030b81:
 translate francais fw_a_cf9cf369_1:
 
     # em "(Sobbing) Can you please come over? I need you."
-<<<<<<< HEAD
     em "(Sanglots) Peux-tu s'il te plaît venir? J'ai besoin de toi."
-=======
-    em "(Sanglotant) Peux-tu, s'il te plaît, venir ? J'ai besoin de toi."
->>>>>>> main
 
 # game/v6/v6.rpy:2383
 translate francais fw_a_279e2b34:
@@ -2726,11 +2158,7 @@ translate francais fw_a_cc77529c_1:
 translate francais fw_a_23d8e0c1_1:
 
     # u "What'd she do?"
-<<<<<<< HEAD
     u "Qu'a-t-elle fait ?"
-=======
-    u "Qu'est-ce qu'elle a fait ?"
->>>>>>> main
 
 # game/v6/v6.rpy:2444
 translate francais fw_a_c67f5e04_1:
@@ -2760,11 +2188,7 @@ translate francais fz_a_d66f90c9:
 translate francais fz_a_3bd65c28:
 
     # em "No it's not! I just don't understand why she would do that! She didn't even ask me..."
-<<<<<<< HEAD
     em "Non ça vas pas ! Je ne comprends pas pourquoi elle ferait ça ! Elle ne m'a même pas demandé..."
-=======
-    em "Non ça ne vas pas ! Je ne comprends pas pourquoi elle ferait ça ! Elle ne m'a même pas demandé..."
->>>>>>> main
 
 # game/v6/v6.rpy:2499
 translate francais fz_a_9c98e318:
@@ -2782,11 +2206,7 @@ translate francais fz_a_7e824ad8:
 translate francais fz_a_f6ff5156:
 
     # u "You ever think maybe it wasn't a very good picture of you? So she wouldn't want to post it, if you didn't look good in it."
-<<<<<<< HEAD
-    u "As-tu pensé que ça n'était peut-être pas une très bonne photo de vous ? Donc elle ne voudrait pas la poster, si tu n'étais pas belle dedans."
-=======
     u "As-tu pensé que ce n'était peut-être pas une très bonne photo de toi ? Donc elle ne voudrait pas la poster, si tu n'étais pas belle dessus."
->>>>>>> main
 
 # game/v6/v6.rpy:2514
 translate francais fz_a_38949b61:
@@ -2798,11 +2218,7 @@ translate francais fz_a_38949b61:
 translate francais fz_a_0e65ac36:
 
     # u "*Chuckles* I guess I walked right into that one."
-<<<<<<< HEAD
-    u "*Rires* Je suppose que je suis entré directement dans celui-là."
-=======
     u "*Rires* Je suppose que je suis tombé directement dans ce panneau."
->>>>>>> main
 
 # game/v6/v6.rpy:2521
 translate francais fz_a_b2de5f51:
@@ -2820,11 +2236,7 @@ translate francais fz_a_7a1db2f5:
 translate francais fz_a_2b1c9282:
 
     # em "Remember when we snuck into the movies 'cause you forgot your ID?"
-<<<<<<< HEAD
-    em "Tu te souviens quand on s'est faufilé dans le cinémas parce que tu avais oublié ta carte d'identité ?"
-=======
     em "Tu te souviens quand on s'est faufilé dans le cinéma parce que tu as oublié ta carte d'identité ?"
->>>>>>> main
 
 # game/v6/v6.rpy:2536
 translate francais fz_a_30f93b47:
@@ -2848,11 +2260,7 @@ translate francais fz_a_0a9c28ad:
 translate francais fz_a_3b7a3d46:
 
     # u "Emily! What are you doing?!"
-<<<<<<< HEAD
-    u "Emilie! Que fais-tu ?!"
-=======
-    u "Emilie! Qu'est-ce que tu fait ?!"
->>>>>>> main
+    u "Emily! Qu'est-ce que tu fait ?!"
 
 # game/v6/v6.rpy:2575
 translate francais fz_a_87cc5356:
@@ -2882,11 +2290,7 @@ translate francais fz_a_349ad7ed:
 translate francais fz_a_9fb64eb4:
 
     # u "I gotta go. I'll see you around."
-<<<<<<< HEAD
     u "Je dois partir. À tout à la prochaine."
-=======
-    u "Je dois partir. À tout à l'heure."
->>>>>>> main
 
 # game/v6/v6.rpy:2594
 translate francais fz_a_1b03ac11:
@@ -2898,31 +2302,19 @@ translate francais fz_a_1b03ac11:
 translate francais fz_b_19101482:
 
     # u "Are you fucking kidding me?! This is why you're calling me??? Over something stupid like this?"
-<<<<<<< HEAD
-    u "Tu te fous de moi ?! C'est pour ça que tu m'appelles ??? Pour quelque chose de stupide comme ça ?"
-=======
     u "Tu te fous de ma gueule ?! C'est pour ça que tu m'appelles ??? Pour quelque chose de stupide comme ça ?"
->>>>>>> main
 
 # game/v6/v6.rpy:2607
 translate francais fz_b_13dba02e:
 
     # em "God, you have no empathy at all, do you?!"
-<<<<<<< HEAD
     em "Putain, tu n'as aucune empathie du tout, n'est-ce pas ?!"
-=======
-    em "Mon Dieu, tu n'as aucune empathie du tout, ou quoi ?!"
->>>>>>> main
 
 # game/v6/v6.rpy:2612
 translate francais fz_b_978741a9:
 
     # em "You never fucking cared! All my problems are ridiculous to you, like my feelings don't matter!"
-<<<<<<< HEAD
-    em "Tu ne t'en soucies jamais putain ! Tous mes problèmes sont ridicules pour toi, comme si mes sentiments n'avaient pas d'importance !"
-=======
     em "Putain, tu ne t'en est jamais soucié ! Tous mes problèmes sont ridicules pour toi, comme si mes sentiments n'avaient pas d'importance !"
->>>>>>> main
 
 # game/v6/v6.rpy:2617
 translate francais fz_b_cbc70cad:
@@ -2934,11 +2326,7 @@ translate francais fz_b_cbc70cad:
 translate francais fz_b_8106dfd3:
 
     # u "You make every little thing about yourself, 'cause that's all you care about! Grow the fuck up. No one gives a shit."
-<<<<<<< HEAD
-    u "Tu fais tout pour toi, parce que c'est tout ce qui compte pour toi ! Grandis un peu, bordel. Personne n'en a rien à foutre."
-=======
     u "Tu fais une montagne d'un truc ridicule, parce que c'est tout ce qui compte pour toi ! Grandis un peu, bordel. Personne n'en a rien à foutre."
->>>>>>> main
 
 # game/v6/v6.rpy:2624
 translate francais fz_b_5e09f045:
@@ -2998,11 +2386,7 @@ translate francais fz_b_d55a56e4:
 translate francais fz_b_3b7a3d46:
 
     # u "Emily! What are you doing?!"
-<<<<<<< HEAD
-    u "Emilie! Que fais-tu ?!"
-=======
-    u "Emilie! Qu'est-ce que tu fait ?!"
->>>>>>> main
+    u "Emily! Qu'est-ce que tu fait ?!"
 
 # game/v6/v6.rpy:2681
 translate francais fz_b_87cc5356:
@@ -3038,11 +2422,7 @@ translate francais fz_b_9fb64eb4:
 translate francais fz_b_1b03ac11:
 
     # u "Or... not."
-<<<<<<< HEAD
-    u "Ou pas."
-=======
     u "Ou... pas."
->>>>>>> main
 
 # game/v6/v6.rpy:2715
 translate francais emsex_c_9ea2f78c:
@@ -3078,31 +2458,19 @@ translate francais emsex_a_9ea2f78c:
 translate francais emsex_a_9b013366:
 
     # em "Fuck... get down there."
-<<<<<<< HEAD
-    em "Putain... descends en-bas."
-=======
     em "Putain... descend à la cave."
->>>>>>> main
 
 # game/v6/v6.rpy:2766
 translate francais emsex_a_507e0dfa:
 
     # em "I haven't been eaten out in so long..."
-<<<<<<< HEAD
-    em "Je n'e me suis pas fait mangée depuis si longtemps..."
-=======
     em "Je n'ai pas été broutée depuis si longtemps."
->>>>>>> main
 
 # game/v6/v6.rpy:2771
 translate francais emsex_a_9c0c9c2f:
 
     # em "*Quiet moan* Mhhh..."
-<<<<<<< HEAD
     em "*Gémissement silencieux* Mhhh..."
-=======
-    em "*Quiet moan* Mhhh..."
->>>>>>> main
 
 # game/v6/v6.rpy:2781
 translate francais emhead_7925d4c5:
@@ -3119,13 +2487,8 @@ translate francais emhead_14b30358:
 # game/v6/v6.rpy:2785
 translate francais emhead_818ee437:
 
-<<<<<<< HEAD
     # em "*Moans even louder* Fuuuuck."
     em "*Gémit encore plus fort* Puuuutain."
-=======
-    # em "w"
-    em "*Gémit encore plus fort* Puuutain."
->>>>>>> main
 
 # game/v6/v6.rpy:2787
 translate francais emhead_9ea2f78c:
@@ -3143,11 +2506,7 @@ translate francais emhead_1a8211a6:
 translate francais emhead_f31627d2:
 
     # em "You're so fucking good at this..."
-<<<<<<< HEAD
     em "Tu es tellement putain de bon à ça..."
-=======
-    em "Tu es tellement bon à ça..."
->>>>>>> main
 
 # game/v6/v6.rpy:2796
 translate francais emhead_7b90eebd:
@@ -3177,60 +2536,36 @@ translate francais emhead_564d9e32:
 translate francais emhead_3da381ca:
 
     # u "You're gonna suck some dick now."
-<<<<<<< HEAD
     u "Tu vas sucer ma bite maintenant."
-=======
-    u "Tu vas sucer une bite maintenant."
->>>>>>> main
 
 # game/v6/v6.rpy:2826
 translate francais emhead_00eb4eed:
 
     # em "Yesss... treat me like your dirty little slut."
-<<<<<<< HEAD
-    em "Oui... traite-moi comme ta sale petite salope."
-=======
-    em "Ouiii... traite-moi comme ta sale petite salope."
->>>>>>> main
+    em "Ouiii... traite-moi comme ta sale petite chienne."
 
 # game/v6/v6.rpy:2833
 translate francais emfacefuck_50e4e445:
 
     # u "Take this fucking dick."
-<<<<<<< HEAD
-    u "Prends toi cette putain de bite."
-=======
-    u "Mange cette putain de bite."
->>>>>>> main
+    u "Avale cette putain de bite."
 
 # game/v6/v6.rpy:2835
 translate francais emfacefuck_8f2ba603:
 
     # em "*Gag sounds*"
-<<<<<<< HEAD
     em "*Bruits de gorges*"
-=======
-    em "*Bruit de gorge*"
->>>>>>> main
 
 # game/v6/v6.rpy:2837
 translate francais emfacefuck_e9c40f23:
 
     # u "Fuck..."
     u "Putain..."
-<<<<<<< HEAD
-
-=======
->>>>>>> main
 # game/v6/v6.rpy:2839
 translate francais emfacefuck_8f2ba603_1:
 
     # em "*Gag sounds*"
-<<<<<<< HEAD
     em "*Bruits de gorges*"
-=======
-    em "*Bruit de gorge*"
->>>>>>> main
 
 # game/v6/v6.rpy:2841
 translate francais emfacefuck_9ea2f78c:
@@ -3248,11 +2583,7 @@ translate francais emfacefuck_ac06ae34:
 translate francais emfacefuck_c6fea742:
 
     # u "You wanna be fucked you little slut?"
-<<<<<<< HEAD
     u "Tu veux te faire baiser petite salope ?"
-=======
-    u "Tu veux te faire baiser toi la petite salope ?"
->>>>>>> main
 
 # game/v6/v6.rpy:2856
 translate francais emfacefuck_3696aa12:
@@ -3264,31 +2595,19 @@ translate francais emfacefuck_3696aa12:
 translate francais emfacefuck_82968715:
 
     # em "Fuck me, [name]!"
-<<<<<<< HEAD
     em "Baise-moi, [name] !"
-=======
-    em "Fuck me, [name]!"
->>>>>>> main
 
 # game/v6/v6.rpy:2868
 translate francais emfacefuck_4dc25266:
 
     # em "*Moans* Ahhh..."
-<<<<<<< HEAD
     em "*Gémissements* Ahhh..."
-=======
-    em "*Gémissements* Ahhh..."
->>>>>>> main
 
 # game/v6/v6.rpy:2875
 translate francais embehind_50ff6872:
 
     # em "*Moans* Oh my god!"
-<<<<<<< HEAD
-    em "*Gémit* Oh mon dieu !"
-=======
     em "*Gémissements* Oh mon dieu !"
->>>>>>> main
 
 # game/v6/v6.rpy:2877
 translate francais embehind_bc3b597f:
@@ -3300,21 +2619,13 @@ translate francais embehind_bc3b597f:
 translate francais embehind_1153b30d:
 
     # em "*Moans* Yes! [name]!"
-<<<<<<< HEAD
-    em "*Gémit* Oui ! [name] !"
-=======
     em "*Gémissements* Oui ! [name]!"
->>>>>>> main
 
 # game/v6/v6.rpy:2881
 translate francais embehind_9327614b:
 
     # em "*Moans* Ahhh! Don't stop!"
-<<<<<<< HEAD
-    em "*Gémit* Ahhh ! Ne t'arrête pas !"
-=======
     em "*Gémissements* Ahhh ! T'arrête pas !"
->>>>>>> main
 
 # game/v6/v6.rpy:2883
 translate francais embehind_9ea2f78c:
@@ -3326,31 +2637,19 @@ translate francais embehind_9ea2f78c:
 translate francais embehind_94f30d9b:
 
     # u "Fucking turn around."
-<<<<<<< HEAD
-    u "Putain retourne toi."
-=======
-    u "Putain tourne-toi."
->>>>>>> main
+    u "Retourne toi putain."
 
 # game/v6/v6.rpy:2893
 translate francais embehind_b6992f20:
 
     # em "*Breathing heavily* Mhhh..."
-<<<<<<< HEAD
-    em "*Respire bruyamment* Mhhh..."
-=======
     em "*Respiration lourde* Mhhh..."
->>>>>>> main
 
 # game/v6/v6.rpy:2900
 translate francais embutterfly_33104b16:
 
     # em "*Moans* Baby... yes!"
-<<<<<<< HEAD
-    em "*Gémit* Bébé... oui !"
-=======
     em "*Gémissements* Bébé... oui !"
->>>>>>> main
 
 # game/v6/v6.rpy:2902
 translate francais embutterfly_f4daee08:
@@ -3380,31 +2679,19 @@ translate francais embutterfly_9ea2f78c_1:
 translate francais embutterfly_ba50b607:
 
     # u "Fuuuck!"
-<<<<<<< HEAD
     u "Puuuutain !"
-=======
-    u "Puuutain !"
->>>>>>> main
 
 # game/v6/v6.rpy:2914
 translate francais embutterfly_44fc3dbd:
 
     # em "Cum inside me! Please! Fill me up!"
-<<<<<<< HEAD
-    em "Jouis en moi ! S'il te plaît! Remplis-moi!"
-=======
     em "Jouis en moi ! S'il te plaît ! Remplis-moi !"
->>>>>>> main
 
 # game/v6/v6.rpy:2923
 translate francais emclimax_c87fb5fe:
 
     # em "*Really loud moan* Ahhhhh!"
-<<<<<<< HEAD
-    em "*Gémit très fort* Ahhhhh !"
-=======
     em "*Gémissement très fort* Ahhhhh !"
->>>>>>> main
 
 # game/v6/v6.rpy:2934
 translate francais emclimax_79e32b24:
@@ -3440,31 +2727,19 @@ translate francais emclimax_e79bb6d7:
 translate francais emclimax_267c210d:
 
     # u "I still need to finish some of my assignments, so I kinda gotta go now."
-<<<<<<< HEAD
-    u "J'ai encore besoin de finir certains de mes devoirs, donc je dois y aller maintenant."
-=======
     u "J'ai encore des devoirs à finir, donc je dois y aller maintenant."
->>>>>>> main
 
 # game/v6/v6.rpy:2962
 translate francais v6_nsfwSkipLabel1_9b9a52c4:
 
     # em "Already?"
-<<<<<<< HEAD
-    em "Déjà?"
-=======
     em "Déjà ?"
->>>>>>> main
 
 # game/v6/v6.rpy:2967
 translate francais v6_nsfwSkipLabel1_e07ea09e:
 
     # u "Sorry, Emily. I don't wanna fall behind this early into the semester."
-<<<<<<< HEAD
     u "Désolé, Emily. Je ne veux pas prendre du retard si tôt dans le semestre."
-=======
-    u "Désolé, Emilie. Je ne veux pas prendre du retard si tôt dans le semestre."
->>>>>>> main
 
 # game/v6/v6.rpy:2972
 translate francais v6_nsfwSkipLabel1_f270561c:
@@ -3482,11 +2757,7 @@ translate francais v6_nsfwSkipLabel1_dcafa4ac:
 translate francais v6_nsfwSkipLabel1_7f9524fe:
 
     # em "Yeah, Nora invited me."
-<<<<<<< HEAD
-    em "Tu vas aussi à la fête des nouveaux des Wolves ?"
-=======
     em "Ouai, Nora m'a invité."
->>>>>>> main
 
 # game/v6/v6.rpy:2987
 translate francais v6_nsfwSkipLabel1_a61fdaa7:
@@ -3528,11 +2799,7 @@ translate francais fy_bd_895b4b0f:
 translate francais fy_bd_649ad9c0:
 
     # u "Hey, what's up?"
-<<<<<<< HEAD
     u "Hey, qu'est-ce qu'il y a ?"
-=======
-    u "Hey, qu'est-ce qu'il y a?"
->>>>>>> main
 
 # game/v6/v6.rpy:3070
 translate francais fy_bd_31b3d31e:
@@ -3544,11 +2811,7 @@ translate francais fy_bd_31b3d31e:
 translate francais fy_bd_34cc6799:
 
     # u "Some boring-ass Econ assignment."
-<<<<<<< HEAD
-    u "Un devoir d'éco ennuyeux."
-=======
     u "Des devoirs d'Éco chiants à en crever."
->>>>>>> main
 
 # game/v6/v6.rpy:3080
 translate francais fy_bd_87f070f2:
@@ -3572,12 +2835,7 @@ translate francais fy_bd_f959f467:
 translate francais fy_bd_5f2ebfec:
 
     # u "You're not allowed to train yet."
-<<<<<<< HEAD
     u "Tu n'es pas encore autorisé à t'entraîner."
-=======
-    u "Tu n'es pas encore autorisé à t'entraîner.
-"
->>>>>>> main
 
 # game/v6/v6.rpy:3100
 translate francais fy_bd_49041954:
@@ -3589,11 +2847,7 @@ translate francais fy_bd_49041954:
 translate francais fy_bd_0d7a9cd9:
 
     # imre "Pledging period is starting soon, so you wanna at least know the basics."
-<<<<<<< HEAD
     imre "La période d'engagement commence bientôt, alors tu veux au moins connaître les bases."
-=======
-    imre "La période d'engagemet commence bientôt, alors tu veux au moins connaître les bases."
->>>>>>> main
 
 # game/v6/v6.rpy:3107
 translate francais fy_bd_17980f31:
@@ -3605,21 +2859,13 @@ translate francais fy_bd_17980f31:
 translate francais fy_bd_f8f59d4f:
 
     # imre "And then tomorrow night it's the Wolves' rush party, I can't fucking wait."
-<<<<<<< HEAD
-    imre "Et puis demain soir, c'est la fête des Wolves, j'ai hâte."
-=======
     imre "Et puis demain soir, c'est la fête des Wolves, j'ai une putain de hâte d'y être."
->>>>>>> main
 
 # game/v6/v6.rpy:3117
 translate francais fy_bd_79b183c4:
 
     # u "Yeah, it's exciting."
-<<<<<<< HEAD
     u "Ouais, j'ai hate."
-=======
-    u "Yeah, it's exciting."
->>>>>>> main
 
 # game/v6/v6.rpy:3122
 translate francais fy_bd_0fcc3371:
@@ -3667,61 +2913,37 @@ translate francais continuebg_170cb77f:
 translate francais continuebg_ebb05709:
 
     # u "Wow, you look-"
-<<<<<<< HEAD
-    u "Waouh, ton look-"
-=======
     u "Waouh, tu est-"
->>>>>>> main
 
 # game/v6/v6.rpy:3180
 translate francais continuebg_ec06c268:
 
     # ev "Let me guess, beautiful?"
-<<<<<<< HEAD
-    ev "Laisse-moi deviner, je suis belle ?"
-=======
     ev "Laisse-moi deviner, belle ?"
->>>>>>> main
 
 # game/v6/v6.rpy:3189
 translate francais continuebg_cfbbb718:
 
     # u "Actually, I was gonna say hot."
-<<<<<<< HEAD
-    u "En fait, j'allais dire chaude."
-=======
     u "En fait, j'allais dire cannon."
->>>>>>> main
 
 # game/v6/v6.rpy:3194
 translate francais continuebg_97e6f57e:
 
     # ev "*Smirks* Of course you were."
-<<<<<<< HEAD
     ev "*Sourires satisfaits* Bien sûr que je le suis."
-=======
-    ev "*Sourires satisfaits* Bien sûr que tu allais le dire."
->>>>>>> main
 
 # game/v6/v6.rpy:3202
 translate francais continuebg_b1ab654c:
 
     # u "Actually, I was gonna say stunning."
-<<<<<<< HEAD
-    u "En fait, j'allais dire éblouissante."
-=======
     u "En fait, j'allais dire superbe."
->>>>>>> main
 
 # game/v6/v6.rpy:3207
 translate francais continuebg_f06f0976:
 
     # ev "Oh, well thank you."
-<<<<<<< HEAD
     ev "Ah bien merci."
-=======
-    ev "Ah ben merci."
->>>>>>> main
 
 # game/v6/v6.rpy:3213
 translate francais gc_ad_aa4f29a7:
@@ -3733,41 +2955,25 @@ translate francais gc_ad_aa4f29a7:
 translate francais gc_ad_7cd3e74f:
 
     # u "After you, m'lady."
-<<<<<<< HEAD
-    u "Après toi, ma lady."
-=======
     u "Après toi, milady."
->>>>>>> main
 
 # game/v6/v6.rpy:3223
 translate francais gc_ad_7e6ec529:
 
     # waiter "Can I start you two off with something to drink?"
-<<<<<<< HEAD
-    waiter "Je peux vous apporter quelque chose à boire ?"
-=======
     waiter "Je peux vous proposer quelque chose à boire pour commencer ?"
->>>>>>> main
 
 # game/v6/v6.rpy:3228
 translate francais gc_ad_2cdff11e:
 
     # u "Uh, yeah, can I just get a beer?"
-<<<<<<< HEAD
-    u "Euh, ouais, je vais juste vous prendre une bière ?"
-=======
     u "Euh, ouais, je vais prendre une bière ?"
->>>>>>> main
 
 # game/v6/v6.rpy:3238
 translate francais gc_ad_5db48f0d:
 
     # ev "A beer?"
-<<<<<<< HEAD
-    ev "Une bière?"
-=======
     ev "Une bière ?"
->>>>>>> main
 
 # game/v6/v6.rpy:3243
 translate francais gc_ad_e7ed71f1:
@@ -3797,11 +3003,7 @@ translate francais gc_ad_a179e7aa:
 translate francais gc_ad_9efc2cb6:
 
     # ev "You know if you're going to wine and dine a lady, I suggest you really WINE and dine her."
-<<<<<<< HEAD
-    ev "Tu sais si tu veux faire boire une dame qui à de la bouteille au restaurant, je te suggère de lui commander du VIN pour le dîner."
-=======
-    ev "Tu sais, si tu invite une dame qui as de la bouteille à diner, je te suggère vraiment de lui proposer du VIN à boire si tu espère la remplir."
->>>>>>> main
+    ev "Tu sais, si tu invite une dame qui as de la bouteille à diner, je te suggère vraiment de lui proposer du VIN à boire pour la remplir."
 
 # game/v6/v6.rpy:3273
 translate francais gc_ad_e40d34c2:
@@ -3813,11 +3015,7 @@ translate francais gc_ad_e40d34c2:
 translate francais gc_ad_ef7ae04f:
 
     # u "Soo... anything else new lately?"
-<<<<<<< HEAD
-    u "Soo... autre chose de nouveau dernièrement ?"
-=======
     u "Alooors... autre chose de nouveau ces derniers temps ?"
->>>>>>> main
 
 # game/v6/v6.rpy:3288
 translate francais gc_ad_be4ab9b3:
@@ -3829,11 +3027,7 @@ translate francais gc_ad_be4ab9b3:
 translate francais gc_ad_e41603d5:
 
     # u "Been partying a lot?"
-<<<<<<< HEAD
-    u "Tu as beaucoup fait la fête ?"
-=======
     u "Tu fait la fête souvent ?"
->>>>>>> main
 
 # game/v6/v6.rpy:3298
 translate francais gc_ad_01f8b435:
@@ -3851,11 +3045,7 @@ translate francais gc_ad_92739275:
 translate francais gc_ad_ac1d9481:
 
     # waiter "There you go, a bottle of La Grupa Malbec Syrah from the 2018 harvest. It's from Tupungato in Mendoza. Delicate spices, ripe plums and cherries are balanced by refreshing acidity."
-<<<<<<< HEAD
-    waiter "Et voilà, une bouteille de La Grupa Malbec Syrah de 2018. C'est de Tupungato à Mendoza. Des épices délicates, des prunes mûres et des cerises sont équilibrées par une acidité rafraîchissante."
-=======
     waiter "Et voilà, une bouteille de La Grupa Malbec Syrah de la récolte 2018. C'est de Tupungato à Mendoza. Des épices délicates, des prunes mûres et des cerises sont équilibrées par une acidité rafraîchissante."
->>>>>>> main
 
 # game/v6/v6.rpy:3313
 translate francais gc_ad_0c6aadf3:
@@ -3897,41 +3087,25 @@ translate francais gc_ad_b7cbd6c5:
 translate francais gc_ad_2466aa8c:
 
     # u "So uhm, is this the only eggplant you're looking to eat tonight?"
-<<<<<<< HEAD
-    u "Alors euh, ce sera la seule aubergine que tu souhaite manger ce soir ?"
-=======
     u "Alors euh, c'est la seule aubergine que tu veux manger ce soir ?"
->>>>>>> main
 
 # game/v6/v6.rpy:3359
 translate francais gc_ad_4294c1b1:
 
     # u "Wow, tough crowd.."
-<<<<<<< HEAD
-    u "Waouh, public difficile.."
-=======
     u "Waouh, public difficile ..."
->>>>>>> main
 
 # game/v6/v6.rpy:3369
 translate francais gc_ad_ae725141:
 
     # u "So did you hear about the new discoveries they made on Mars recently?"
-<<<<<<< HEAD
-    u "Alors, as-tu entendu parler des nouvelles découvertes qu'ils ont faites récemment sur Mars ?"
-=======
     u "Alors, as-tu déjà entendu parler des nouvelles découvertes qu'ils ont faites sur Mars récemment ?"
->>>>>>> main
 
 # game/v6/v6.rpy:3374
 translate francais gc_ad_b516c62e:
 
     # ev "No, I haven't. What was it they discovered?"
-<<<<<<< HEAD
     ev "Non. Qu'ont-ils découvert ?"
-=======
-    ev "Non, je ne sais pas. Qu'ont-ils découvert ?"
->>>>>>> main
 
 # game/v6/v6.rpy:3379
 translate francais gc_ad_300f9c96:
@@ -3943,57 +3117,37 @@ translate francais gc_ad_300f9c96:
 translate francais gc_ad_6d19fefa:
 
     # u "Water maybe? Just thought it would be a cool topic to discuss."
-<<<<<<< HEAD
-    u "De l'eau peut-être ? J'ai juste pensé que ce serait un sujet sympa à discuter."
-=======
     u "De l'eau peut-être ? J'ai juste pensé que ce serait un sujet sympa pour discuter."
->>>>>>> main
 
 # game/v6/v6.rpy:3389
 translate francais gc_ad_1f8aea01:
 
     # ev "Right."
-<<<<<<< HEAD
     ev "D'accord."
-=======
-    ev "D'accord"
->>>>>>> main
 
 # game/v6/v6.rpy:3395
 translate francais gd_ad_57f7c3ba:
 
     # ev "Will you excuse me for a second?"
-<<<<<<< HEAD
-    ev "Veux-tu m'excuser une seconde ?"
-=======
     ev "Tu veux bien m'excuser une seconde ?"
->>>>>>> main
 
 # game/v6/v6.rpy:3400
 translate francais gd_ad_2be5d203:
 
     # u "Yeah, of course."
-    u "Yeah, of course."
+    u "Ouai bien sûr."
 
 # game/v6/v6.rpy:3405
 translate francais gd_ad_b5702555:
 
     # u "(Shit this isn't going well. It's super awkward and we're not clicking at all.)"
-<<<<<<< HEAD
     u "(Merde ça ne va pas bien. C'est super gênant et on ne matche pas du tout.)"
-=======
-    u "Ouais, bien sûr."
->>>>>>> main
 
 # game/v6/v6.rpy:3407
 translate francais gd_ad_11ccda3f:
 
     # u "(I gotta connect with her, but how?)"
-<<<<<<< HEAD
-    u "(Je dois me connecter à elle, mais comment ?)"
-=======
     u "(Je dois me connecter avec elle, mais comment ?)"
->>>>>>> main
 
 # game/v6/v6.rpy:3412
 translate francais gd_ad_647c082e:
@@ -4017,31 +3171,19 @@ translate francais gd_ad_ccd53b23:
 translate francais gd_ad_88f11dce:
 
     # waiter "You're most welcome."
-<<<<<<< HEAD
-    waiter "Le client est roi monsieur."
-=======
     waiter "à votre service"
->>>>>>> main
 
 # game/v6/v6.rpy:3437
 translate francais gd_ad_33a93a19:
 
     # ev "This certainly looks delicious."
-<<<<<<< HEAD
-    ev "Cela a l'air délicieux"
-=======
     ev "Cela a vraiment l'air délicieux."
->>>>>>> main
 
 # game/v6/v6.rpy:3442
 translate francais gd_ad_7d6e262e:
 
     # ev "Bon appetit."
-<<<<<<< HEAD
     ev "Bon appetit."
-=======
-    ev "Bon appétit."
->>>>>>> main
 
 # game/v6/v6.rpy:3447
 translate francais gd_ad_12f3b74d:
@@ -4059,21 +3201,13 @@ translate francais gd_ad_5ffd156f:
 translate francais gd_ad_8741596e:
 
     # u "So, how's life as a store clerk?"
-<<<<<<< HEAD
-    u "Alors, comment se passe la vie de vendeuse en magasin ?"
-=======
     u "Alors, comment se passe la vie de vendeuse ?"
->>>>>>> main
 
 # game/v6/v6.rpy:3470
 translate francais gd_ad_372acc9f:
 
     # ev "You know that I'm more than a store clerk, right?"
-<<<<<<< HEAD
-    ev "Tu sais que je suis plus qu'une vendeuse en magasin, n'est-ce pas ?"
-=======
     ev "Tu sais que je suis plus qu'une simple vendeuse, n'est-ce pas ?"
->>>>>>> main
 
 # game/v6/v6.rpy:3475
 translate francais gd_ad_49a9e742:
@@ -4085,11 +3219,7 @@ translate francais gd_ad_49a9e742:
 translate francais gd_ad_cba38bed:
 
     # ev "I'm also assistant regional manager of the branch."
-<<<<<<< HEAD
     ev "Je suis également directrice régionale adjointe de la succursale."
-=======
-    ev "Je suis également directrisse régionale adjointe de la succursale."
->>>>>>> main
 
 # game/v6/v6.rpy:3482
 translate francais gd_ad_bb23e89e:
@@ -4113,41 +3243,25 @@ translate francais gd_ad_86123b87:
 translate francais gd_ad_6373b1b0:
 
     # u "So, what's your dream job? Say you could do anything."
-<<<<<<< HEAD
-    u "Alors, quel est ton boulo de rêve ? Si tu pouvais faire ce que tu veux."
-=======
     u "Alors, disons que tu peux faire tout ce que tu veux. Quel est le travail de tes rêves ?"
->>>>>>> main
 
 # game/v6/v6.rpy:3506
 translate francais gd_ad_a137e37f:
 
     # ev "Dream job? That's not how life works, [name]."
-<<<<<<< HEAD
-    ev "Emploi de rêve? Ce n'est pas comme ça que la vie fonctionne, [name]."
-=======
     ev "L'emploi de mes rêves ? Ce n'est pas comme ça que la vie fonctionne, [name]."
->>>>>>> main
 
 # game/v6/v6.rpy:3508
 translate francais gd_ad_1785b004:
 
     # ev "Working at the store pays well and it will offer great career opportunities in the future."
-<<<<<<< HEAD
-    ev "Travailler en magasin est bien rémunéré et offre de belles opportunités de carrière dans l'avenir."
-=======
-    ev "Travailler en magasin est bien rémunéré et offrira de belles opportunités de carrière à l'avenir."
->>>>>>> main
+    ev "Travailler en magasin est bien rémunéré et offre de belles opportunités de carrière pour l'avenir."
 
 # game/v6/v6.rpy:3513
 translate francais gd_ad_9411ad19:
 
     # u "Yeah but... forget about the money for second. You gotta do what you're passionate about, right?"
-<<<<<<< HEAD
-    u "Ouais mais... oublie l'argent pour le moment. Tu dois faire ce qui te passionne, non ?"
-=======
     u "Ouais mais... oublie l'argent une seconde. Tu dois faire ce qui te passionne, non ?"
->>>>>>> main
 
 # game/v6/v6.rpy:3518
 translate francais gd_ad_f69dad3d:
@@ -4171,41 +3285,25 @@ translate francais gd_ad_50ff7387:
 translate francais gd_ad_e2ec2ef9:
 
     # u "Oh cool, that's like some science stuff, right?"
-<<<<<<< HEAD
-    u "Oh cool, c'est un truc de cursus scietifique, non ?"
-=======
     u "Oh cool, c'est un cursus scientifique, non ?"
->>>>>>> main
 
 # game/v6/v6.rpy:3538
 translate francais gd_ad_bcc97542:
 
     # ev "Actually, it's medical. But close."
-<<<<<<< HEAD
-    ev "En fait, c'est médical. Mais proche."
-=======
     ev "En fait, c'est un cursus médical. Mais c'est proche."
->>>>>>> main
 
 # game/v6/v6.rpy:3543
 translate francais gd_ad_9eb5c377:
 
     # u "Even cooler. So what exactly would you be doing?"
-<<<<<<< HEAD
     u "Encore mieux. Alors que ferais-tu exactement ?"
-=======
-    u "Encore plus cool. Alors, que ferais-tu exactement ?"
->>>>>>> main
 
 # game/v6/v6.rpy:3548
 translate francais gd_ad_9a5cac2f:
 
     # ev "Help children get and stay healthy."
-<<<<<<< HEAD
     ev "Aider les enfants à être et à rester en bonne santé."
-=======
-    ev "Aidez les enfants à être et à rester en bonne santé."
->>>>>>> main
 
 # game/v6/v6.rpy:3553
 translate francais gd_ad_b2e6f040:
@@ -4217,11 +3315,7 @@ translate francais gd_ad_b2e6f040:
 translate francais gd_ad_30286ad1:
 
     # ev "I mean that would be the dream."
-<<<<<<< HEAD
     ev "Je veux dire que ce serait mon rêve."
-=======
-    ev "Je veux dire que ce serait le rêve."
->>>>>>> main
 
 # game/v6/v6.rpy:3563
 translate francais gd_ad_c6afe57b:
@@ -4263,21 +3357,13 @@ translate francais ge_ad_9315b48f:
 translate francais ge_ad_87147a15:
 
     # u "My pleasure."
-<<<<<<< HEAD
     u "Tout le plaisir était pour moi."
-=======
-    u "Tout le plaisir est pour moi."
->>>>>>> main
 
 # game/v6/v6.rpy:3593
 translate francais ge_ad_74998d11:
 
     # u "So, how are you getting home?"
-<<<<<<< HEAD
-    u "Alors, comment rentrez-vous à la maison ?"
-=======
-    u "So, how are you getting home?"
->>>>>>> main
+    u "Alors, comment rentre-tu chez toi ?"
 
 # game/v6/v6.rpy:3598
 translate francais ge_ad_d5cbb3ea:
@@ -4289,31 +3375,19 @@ translate francais ge_ad_d5cbb3ea:
 translate francais ge_ad_17a5a369:
 
     # ev "Are you just gonna walk back? We can share the Uber if you want."
-<<<<<<< HEAD
-    ev "Vas-tu juste rentrer à piend ? Nous pouvons partager l'Uber si tu le souhaite."
-=======
     ev "Tu vas juste rentrer à pieds ? Nous pouvons partager le Uber si tu veux."
->>>>>>> main
 
 # game/v6/v6.rpy:3606
 translate francais ge_ad_671c19ec:
 
     # u "Thanks, but it's okay. It's not that far."
-<<<<<<< HEAD
-    u "Thanks, but it's okay. It's not that far."
-=======
     u "Merci, mais ça va. Ce n'est pas si loin."
->>>>>>> main
 
 # game/v6/v6.rpy:3612
 translate francais ge_ad_cd961bb3:
 
     # u "Oh, cool."
-<<<<<<< HEAD
-    u "Oh, cool."
-=======
-    u "Oh cool."
->>>>>>> main
+    u "Oh, d'accord."
 
 # game/v6/v6.rpy:3617
 translate francais ge_ad_7258faa3:
@@ -4325,12 +3399,7 @@ translate francais ge_ad_7258faa3:
 translate francais ge_ad_c32a42d6:
 
     # ev "Thank you for this date, I didn't think I was gonna enjoy it as much as I did."
-<<<<<<< HEAD
-    ev "Merci pour ce rencard, je ne pensais pas que j'allais l'apprécier autant que je l'ai fait.
-"
-=======
     ev "Merci pour cette soirée, je ne pensais pas que j'allais l'apprécier autant que ça."
->>>>>>> main
 
 # game/v6/v6.rpy:3628
 translate francais ge_ad_84897891:
@@ -4354,11 +3423,7 @@ translate francais gf_b_d743845e:
 translate francais gf_b_640ddcce:
 
     # u "Good bye, Evelyn."
-<<<<<<< HEAD
-    u "Au revoir, Evelyne."
-=======
     u "Au revoir, Evelyn."
->>>>>>> main
 
 # game/v6/v6.rpy:3684
 translate francais gf_b_4c29a20a:
@@ -4370,11 +3435,7 @@ translate francais gf_b_4c29a20a:
 translate francais gf_b_18f1fc54:
 
     # u "(We never really clicked. That probably means I missed my shot with her...)"
-<<<<<<< HEAD
     u "(Nous n'avons jamais vraiment tilté. Cela signifie probablement que j'ai raté mon coup avec elle...)"
-=======
-    u "(Nous n'avons jamais vraiment cliqué. Cela signifie probablement que j'ai raté mon coup avec elle...)"
->>>>>>> main
 
 # game/v6/v6.rpy:3694
 translate francais gf_b_9ea2f78c:
@@ -4398,11 +3459,7 @@ translate francais phoneag_463c5ccb:
 translate francais phoneag_8e7e0d9e:
 
     # u "(Damn, I'm in demand today.)"
-<<<<<<< HEAD
     u "(Merde, je suis très demandé aujourd'hui.)"
-=======
-    u "(Merde, je suis demandé aujourd'hui.)"
->>>>>>> main
 
 # game/v6/v6.rpy:3721
 translate francais phoneag_251e62a8:
@@ -4426,11 +3483,7 @@ translate francais v6_phoneah_299f3124:
 translate francais v6_phoneah_8e7e0d9e:
 
     # u "(Damn, I'm in demand today.)"
-<<<<<<< HEAD
     u "(Merde, je suis très demandé aujourd'hui.)"
-=======
-    u "(Merde, je suis demandé aujourd'hui.)"
->>>>>>> main
 
 # game/v6/v6.rpy:3750
 translate francais v6_phoneah_4f1997c1:
@@ -4442,41 +3495,25 @@ translate francais v6_phoneah_4f1997c1:
 translate francais v6_phoneah_e4cf31be:
 
     # au "Heyy."
-<<<<<<< HEAD
-    au "Hé."
-=======
     au "Saluuut"
->>>>>>> main
 
 # game/v6/v6.rpy:3761
 translate francais v6_phoneah_66eeae3d:
 
     # u "You look good."
-<<<<<<< HEAD
     u "Tu as l'air radieuse."
-=======
-    u "Tu as l'air bien."
->>>>>>> main
 
 # game/v6/v6.rpy:3766
 translate francais v6_phoneah_c3ce9318:
 
     # au "Oh do I?"
-<<<<<<< HEAD
     au "Ah vraiment ?"
-=======
-    au "Ah oui ?"
->>>>>>> main
 
 # game/v6/v6.rpy:3771
 translate francais v6_phoneah_40eaa1be:
 
     # u "Hey, how come you wanted me to sneak in last time, but not this time?"
-<<<<<<< HEAD
-    u "Hé, comment se fait-il que tu voulais que je me faufile par la fenêtre la dernière fois, mais pas cette fois ?"
-=======
     u "Hé, comment se fait-il que tu voulais que je rentre par la fenetre de derrière la dernière fois, mais pas cette fois ?"
->>>>>>> main
 
 # game/v6/v6.rpy:3776
 translate francais v6_phoneah_901627c0:
@@ -4494,11 +3531,7 @@ translate francais v6_phoneah_2aefe6db:
 translate francais v6_phoneah_53ca9dd2:
 
     # au "You want a beer?"
-<<<<<<< HEAD
     au "Tu veux une bière ?"
-=======
-    au "Vous voulez une bière ?"
->>>>>>> main
 
 # game/v6/v6.rpy:3793
 translate francais v6_phoneah_49556a9c:
@@ -4534,21 +3567,13 @@ translate francais v6_phoneah_8f291c51:
 translate francais v6_phoneah_85f42dd7:
 
     # u "If you did, it was a lucky find, haha."
-<<<<<<< HEAD
     u "Si tu l'avais fait, ça aurait été une trouvaille, haha."
-=======
-    u "Si tu l'as fait, c'était une trouvaille, haha."
->>>>>>> main
 
 # game/v6/v6.rpy:3829
 translate francais v6_phoneah_0a693ac9:
 
     # au "So, who have you been seducing lately? Certainly not Chloe. *laughs*"
-<<<<<<< HEAD
     au "Alors, qui as-tu séduit ces derniers temps ? Certainement pas Chloé. *Rires*"
-=======
-    au "Alors, qui as-tu séduit ces derniers temps ? Certainement pas Chloé. *des rires*"
->>>>>>> main
 
 # game/v6/v6.rpy:3834
 translate francais v6_phoneah_4f8179f9:
