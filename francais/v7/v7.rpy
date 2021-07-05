@@ -4402,133 +4402,133 @@ translate francais chloe_call_5ca3c184:
 translate francais aftercall_edc6ada0:
 
     # ch "Honesty. Honesty is a key pillar to being a Wolf."
-    ch ""
+    ch "Honnêteté. L'honnêteté est un pilier essentiel pour être un Wolves."
 
 # game/v7/v7.rpy:4058
 translate francais aftercall_dbf858ca:
 
     # ch "Without honesty, there can be no loyalty or honor. This challenge will test how honest you will really be when the time comes."
-    ch ""
+    ch "Sans honnêteté, il ne peut y avoir ni loyauté ni honneur. Ce défi testera à quel point vous serez honnête le moment venu."
 
 # game/v7/v7.rpy:4062
 translate francais aftercall_c52a5555:
 
     # ch "The Wolves will come out and say personal statements about each of you. You'll have to say whether the statements are true or false."
-    ch ""
+    ch "Les Wolves sortiront et diront des déclarations personnelles sur chacun de vous. Vous devrez dire si les déclarations sont vraies ou fausses."
 
 # game/v7/v7.rpy:4066
 translate francais aftercall_9ec4890d:
 
     # ch "And I will warn you, these statements are meant to embarrass you, they're meant to be shameful."
-    ch ""
+    ch "Et je vous préviens, ces déclarations sont censées vous embarrasser, elles sont censées être honteuses."
 
 # game/v7/v7.rpy:4067
 translate francais aftercall_de51bae7:
 
     # ch "First up, Jaxon."
-    ch ""
+    ch "Tout d'abord, Jaxon."
 
 # game/v7/v7.rpy:4071
 translate francais aftercall_a1af0e4d:
 
     # se "True or False. Your first weekend here at the University, you got so wasted that you shit your own bed."
-    se ""
+    se "Vrai ou faux. A ton premier week-end ici à l'université, tu t'es tellement bourré que tu en à chié dans ton lit."
 
 # game/v7/v7.rpy:4075
 translate francais aftercall_2a83d0c8:
 
     # jax "False."
-    jax ""
+    jax "Faux."
 
 # game/v7/v7.rpy:4079
 translate francais aftercall_65fd4108:
 
     # se "Are you sure?"
-    se ""
+    se "Are you sure ?"
 
 # game/v7/v7.rpy:4083
 translate francais aftercall_aad6a83f:
 
     # jax "Yeah, I'm not embarrassed. I shit my pants, not my bed."
-    jax ""
+    jax "Oui, je ne suis pas gêné par ça. J'ai chié dans mon pantalon, pas dans mon lit."
 
 # game/v7/v7.rpy:4087
 translate francais aftercall_c801c12f:
 
     # se "*Laughs*"
-    se ""
+    se "*Laughs*"
 
 # game/v7/v7.rpy:4088
 translate francais aftercall_603e1ba0:
 
     # xav "*Laughs* That's so gross."
-    xav ""
+    xav "*Rires* C'est tellement dégoûtant."
 
 # game/v7/v7.rpy:4092
 translate francais aftercall_e0c6d093:
 
     # ch "Very good Jaxon. You can step back. Next up, Perry."
-    ch ""
+    ch "Très bien Jaxon. Tu peux reprendre ta place. Ensuite, Perry."
 
 # game/v7/v7.rpy:4096
 translate francais aftercall_68fd1a26:
 
     # aa "Perry. True or False. In high school you slept with your cousin."
-    aa ""
+    aa "Perry. Vrai ou faux. Au lycée, tu as couché avec ta cousine."
 
 # game/v7/v7.rpy:4100
 translate francais aftercall_229a7e33:
 
     # guyd "Uhhh..."
-    guyd ""
+    guyd "Euh..."
 
 # game/v7/v7.rpy:4101
 translate francais aftercall_6465d53b:
 
     # aa "Quick! True or False?"
-    aa ""
+    aa "Vite ! Vrai ou faux ?"
 
 # game/v7/v7.rpy:4102
 translate francais aftercall_aea8fa87:
 
     # guyd "False."
-    guyd ""
+    guyd "False."
 
 # game/v7/v7.rpy:4103
 translate francais aftercall_982cca19:
 
     # aa "Sadly we are confident that it's true."
-    aa ""
+    aa "Malheureusement, nous sommes convaincus que c'est vrai."
 
 # game/v7/v7.rpy:4107
 translate francais aftercall_1eb70335:
 
     # se "What the fuck?"
-    se ""
+    se "Putain, C'est quoi ce bordel ?"
 
 # game/v7/v7.rpy:4108
 translate francais aftercall_f8331d6d:
 
     # imre "Really bro?"
-    imre ""
+    imre "Vraiment frère ?"
 
 # game/v7/v7.rpy:4112
 translate francais aftercall_a36ca2f2:
 
     # guyd "B-but I have a reason!"
-    guyd ""
+    guyd "M-mais j'ai une raison !"
 
 # game/v7/v7.rpy:4116
 translate francais aftercall_809f8056:
 
     # jax "Man, what reason could you possibly have for that?"
-    jax ""
+    jax "Mec, quelle raison pourrais-tu avoir pour cela ?"
 
 # game/v7/v7.rpy:4120
 translate francais aftercall_f0d322e3:
 
     # guyd "I didn't know she was my cousin until a lot later."
-    guyd ""
+    guyd "Je n'ai su qu'elle était ma cousine que bien plus tard."
 
 # game/v7/v7.rpy:4124
 translate francais aftercall_15ee64be:
