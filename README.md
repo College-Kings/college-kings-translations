@@ -14,17 +14,65 @@
  - Remove your name from the according table below.
  - If you want to continue translating, jump to the previous step again.
 
-### Languages:
- - Czech (czech)
- - French (fancais)
- - Portugal Portuguese (portugal)
- - Brazilian Portuguese (portuguese)
- - Thai (thai)
- - Turkish (turkish)
 
 
- 
+## Progress table index
+- [chineses](https://github.com/College-Kings/College-Kings-Translations#chineses)
+- [chineset](https://github.com/College-Kings/College-Kings-Translations#chineset]
+- [czech](https://github.com/College-Kings/College-Kings-Translations#czech]
+- [francais](https://github.com/College-Kings/College-Kings-Translations#francais]
+- [german](https://github.com/College-Kings/College-Kings-Translations#german]
+- [greek](https://github.com/College-Kings/College-Kings-Translations#greek]
+- [hindi](https://github.com/College-Kings/College-Kings-Translations#hindi]
+- [hungarian](https://github.com/College-Kings/College-Kings-Translations#hungarian]
+- [italian](https://github.com/College-Kings/College-Kings-Translations#italian]
+- [japanese](https://github.com/College-Kings/College-Kings-Translations#japanese]
+- [polish](https://github.com/College-Kings/College-Kings-Translations#polish]
+- [portugal](https://github.com/College-Kings/College-Kings-Translations#portugal]
+- [portuguese](https://github.com/College-Kings/College-Kings-Translations#portuguese]
+- [russian](https://github.com/College-Kings/College-Kings-Translations#russian]
+- [spanish](https://github.com/College-Kings/College-Kings-Translations#spanish]
+- [thai](https://github.com/College-Kings/College-Kings-Translations#thai]
+- [turkish](https://github.com/College-Kings/College-Kings-Translations#turkish]
+- [vietnamese ](https://github.com/College-Kings/College-Kings-Translations#vietnamese]
+
+
+
 ## Progress tables
+
+### chineses (Simplified Chinese)
+Progress | ?/all | Who is working on it? | Proofreading | Who is proofreading?
+-------- | -------- | --------- | --------- | ---------
+non script files | 0/6 | - | [ ] | -
+v01.rpy | 0/5225 | - | [ ] | -
+v02.rpy | 0/4221 | - | [ ] | -
+v03.rpy | 0/3636 | - | [ ] | -
+v04.rpy | 0/3227 | - | [ ] | -
+v05.rpy | 0/3498 | - | [ ] | -
+v06.rpy | 0/11645 | - | [ ] | -
+v07.rpy | 0/18403 | - | [ ] | -
+v08 files | 0/45 | - | [ ] | -
+v09 files | 0/42 | - | [ ] | -
+v10 files | 0/41 | - | [ ] | -
+
+
+
+### chineset (Traditional Chinese)
+Progress | ?/all | Who is working on it? | Proofreading | Who is proofreading?
+-------- | -------- | --------- | --------- | ---------
+non script files | 0/6 | - | [ ] | -
+v01.rpy | 0/5225 | - | [ ] | -
+v02.rpy | 0/4221 | - | [ ] | -
+v03.rpy | 0/3636 | - | [ ] | -
+v04.rpy | 0/3227 | - | [ ] | -
+v05.rpy | 0/3498 | - | [ ] | -
+v06.rpy | 0/11645 | - | [ ] | -
+v07.rpy | 0/18403 | - | [ ] | -
+v08 files | 0/45 | - | [ ] | -
+v09 files | 0/42 | - | [ ] | -
+v10 files | 0/41 | - | [ ] | -
+
+
 
 ### czech
 Progress | ?/all | Who is working on it? | Proofreading | Who is proofreading?
@@ -60,7 +108,126 @@ v10 files | 0/41 | - | [ ] | -
 
 
 
-### portugal
+### german
+Progress | ?/all | Who is working on it? | Proofreading | Who is proofreading?
+-------- | -------- | --------- | --------- | ---------
+non script files | 0/6 | - | [ ] | -
+v01.rpy | 0/5225 | - | [ ] | -
+v02.rpy | 0/4221 | - | [ ] | -
+v03.rpy | 0/3636 | - | [ ] | -
+v04.rpy | 0/3227 | - | [ ] | -
+v05.rpy | 0/3498 | - | [ ] | -
+v06.rpy | 0/11645 | - | [ ] | -
+v07.rpy | 0/18403 | - | [ ] | -
+v08 files | 0/45 | - | [ ] | -
+v09 files | 0/42 | - | [ ] | -
+v10 files | 0/41 | - | [ ] | -
+
+
+
+### greek
+Progress | ?/all | Who is working on it? | Proofreading | Who is proofreading?
+-------- | -------- | --------- | --------- | ---------
+non script files | 0/6 | - | [ ] | -
+v01.rpy | 0/5225 | - | [ ] | -
+v02.rpy | 0/4221 | - | [ ] | -
+v03.rpy | 0/3636 | - | [ ] | -
+v04.rpy | 0/3227 | - | [ ] | -
+v05.rpy | 0/3498 | - | [ ] | -
+v06.rpy | 0/11645 | - | [ ] | -
+v07.rpy | 0/18403 | - | [ ] | -
+v08 files | 0/45 | - | [ ] | -
+v09 files | 0/42 | - | [ ] | -
+v10 files | 0/41 | - | [ ] | -
+
+
+
+### hindi
+Progress | ?/all | Who is working on it? | Proofreading | Who is proofreading?
+-------- | -------- | --------- | --------- | ---------
+non script files | 0/6 | - | [ ] | -
+v01.rpy | 0/5225 | - | [ ] | -
+v02.rpy | 0/4221 | - | [ ] | -
+v03.rpy | 0/3636 | - | [ ] | -
+v04.rpy | 0/3227 | - | [ ] | -
+v05.rpy | 0/3498 | - | [ ] | -
+v06.rpy | 0/11645 | - | [ ] | -
+v07.rpy | 0/18403 | - | [ ] | -
+v08 files | 0/45 | - | [ ] | -
+v09 files | 0/42 | - | [ ] | -
+v10 files | 0/41 | - | [ ] | -
+
+
+
+### hungarian
+Progress | ?/all | Who is working on it? | Proofreading | Who is proofreading?
+-------- | -------- | --------- | --------- | ---------
+non script files | 0/6 | - | [ ] | -
+v01.rpy | 0/5225 | - | [ ] | -
+v02.rpy | 0/4221 | - | [ ] | -
+v03.rpy | 0/3636 | - | [ ] | -
+v04.rpy | 0/3227 | - | [ ] | -
+v05.rpy | 0/3498 | - | [ ] | -
+v06.rpy | 0/11645 | - | [ ] | -
+v07.rpy | 0/18403 | - | [ ] | -
+v08 files | 0/45 | - | [ ] | -
+v09 files | 0/42 | - | [ ] | -
+v10 files | 0/41 | - | [ ] | -
+
+
+
+### italian
+Progress | ?/all | Who is working on it? | Proofreading | Who is proofreading?
+-------- | -------- | --------- | --------- | ---------
+non script files | 0/6 | - | [ ] | -
+v01.rpy | 0/5225 | - | [ ] | -
+v02.rpy | 0/4221 | - | [ ] | -
+v03.rpy | 0/3636 | - | [ ] | -
+v04.rpy | 0/3227 | - | [ ] | -
+v05.rpy | 0/3498 | - | [ ] | -
+v06.rpy | 0/11645 | - | [ ] | -
+v07.rpy | 0/18403 | - | [ ] | -
+v08 files | 0/45 | - | [ ] | -
+v09 files | 0/42 | - | [ ] | -
+v10 files | 0/41 | - | [ ] | -
+
+
+
+### japanese
+Progress | ?/all | Who is working on it? | Proofreading | Who is proofreading?
+-------- | -------- | --------- | --------- | ---------
+non script files | 0/6 | - | [ ] | -
+v01.rpy | 0/5225 | - | [ ] | -
+v02.rpy | 0/4221 | - | [ ] | -
+v03.rpy | 0/3636 | - | [ ] | -
+v04.rpy | 0/3227 | - | [ ] | -
+v05.rpy | 0/3498 | - | [ ] | -
+v06.rpy | 0/11645 | - | [ ] | -
+v07.rpy | 0/18403 | - | [ ] | -
+v08 files | 0/45 | - | [ ] | -
+v09 files | 0/42 | - | [ ] | -
+v10 files | 0/41 | - | [ ] | -
+
+
+
+### polish
+Progress | ?/all | Who is working on it? | Proofreading | Who is proofreading?
+-------- | -------- | --------- | --------- | ---------
+non script files | 0/6 | - | [ ] | -
+v01.rpy | 0/5225 | - | [ ] | -
+v02.rpy | 0/4221 | - | [ ] | -
+v03.rpy | 0/3636 | - | [ ] | -
+v04.rpy | 0/3227 | - | [ ] | -
+v05.rpy | 0/3498 | - | [ ] | -
+v06.rpy | 0/11645 | - | [ ] | -
+v07.rpy | 0/18403 | - | [ ] | -
+v08 files | 0/45 | - | [ ] | -
+v09 files | 0/42 | - | [ ] | -
+v10 files | 0/41 | - | [ ] | -
+
+
+
+### portugal (Eu Portuguese)
 Progress | ?/all | Who is working on it? | Proofreading | Who is proofreading?
 -------- | -------- | --------- | --------- | ---------
 non script files | 5/6 | Differ | [ ] | -
@@ -77,7 +244,7 @@ v10 files | 0/41 | - | [ ] | -
 
 
 
-### portuguese
+### portuguese (Brazilian Portuguese)
 Progress | ?/all | Who is working on it? | Proofreading | Who is proofreading?
 -------- | -------- | --------- | --------- | ---------
 non script files | 6/6 | ArkellCK | [ ] | -
@@ -91,6 +258,40 @@ v07.rpy | 18403/18403 | TheProfMilos | [ ] | -
 v08 files | 45/45 | TheProfMilos | [ ] | -
 v09 files | 42/42 | Kfar | [ ] | -
 v10 files | 15/41 | Kfar (<15) + ArkellCK (>16) | [ ] | -
+
+
+
+### russian
+Progress | ?/all | Who is working on it? | Proofreading | Who is proofreading?
+-------- | -------- | --------- | --------- | ---------
+non script files | 0/6 | - | [ ] | -
+v01.rpy | 0/5225 | - | [ ] | -
+v02.rpy | 0/4221 | - | [ ] | -
+v03.rpy | 0/3636 | - | [ ] | -
+v04.rpy | 0/3227 | - | [ ] | -
+v05.rpy | 0/3498 | - | [ ] | -
+v06.rpy | 0/11645 | - | [ ] | -
+v07.rpy | 0/18403 | - | [ ] | -
+v08 files | 0/45 | - | [ ] | -
+v09 files | 0/42 | - | [ ] | -
+v10 files | 0/41 | - | [ ] | -
+
+
+
+### spanish
+Progress | ?/all | Who is working on it? | Proofreading | Who is proofreading?
+-------- | -------- | --------- | --------- | ---------
+non script files | 0/6 | - | [ ] | -
+v01.rpy | 0/5225 | - | [ ] | -
+v02.rpy | 0/4221 | - | [ ] | -
+v03.rpy | 0/3636 | - | [ ] | -
+v04.rpy | 0/3227 | - | [ ] | -
+v05.rpy | 0/3498 | - | [ ] | -
+v06.rpy | 0/11645 | - | [ ] | -
+v07.rpy | 0/18403 | - | [ ] | -
+v08 files | 0/45 | - | [ ] | -
+v09 files | 0/42 | - | [ ] | -
+v10 files | 0/41 | - | [ ] | -
 
 
 
@@ -128,7 +329,7 @@ v10 files | 0/41 | - | [ ] | -
 
 
 
-### russian
+### vietnamese
 Progress | ?/all | Who is working on it? | Proofreading | Who is proofreading?
 -------- | -------- | --------- | --------- | ---------
 non script files | 0/6 | - | [ ] | -
