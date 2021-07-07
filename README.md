@@ -18,23 +18,23 @@
 
 ## Progress table index
 - [chineses](https://github.com/College-Kings/College-Kings-Translations#chineses)
-- [chineset](https://github.com/College-Kings/College-Kings-Translations#chineset]
-- [czech](https://github.com/College-Kings/College-Kings-Translations#czech]
-- [francais](https://github.com/College-Kings/College-Kings-Translations#francais]
-- [german](https://github.com/College-Kings/College-Kings-Translations#german]
-- [greek](https://github.com/College-Kings/College-Kings-Translations#greek]
-- [hindi](https://github.com/College-Kings/College-Kings-Translations#hindi]
-- [hungarian](https://github.com/College-Kings/College-Kings-Translations#hungarian]
-- [italian](https://github.com/College-Kings/College-Kings-Translations#italian]
-- [japanese](https://github.com/College-Kings/College-Kings-Translations#japanese]
-- [polish](https://github.com/College-Kings/College-Kings-Translations#polish]
-- [portugal](https://github.com/College-Kings/College-Kings-Translations#portugal]
-- [portuguese](https://github.com/College-Kings/College-Kings-Translations#portuguese]
-- [russian](https://github.com/College-Kings/College-Kings-Translations#russian]
-- [spanish](https://github.com/College-Kings/College-Kings-Translations#spanish]
-- [thai](https://github.com/College-Kings/College-Kings-Translations#thai]
-- [turkish](https://github.com/College-Kings/College-Kings-Translations#turkish]
-- [vietnamese ](https://github.com/College-Kings/College-Kings-Translations#vietnamese]
+- [chineset](https://github.com/College-Kings/College-Kings-Translations#chineset)
+- [czech](https://github.com/College-Kings/College-Kings-Translations#czech)
+- [francais](https://github.com/College-Kings/College-Kings-Translations#francais)
+- [german](https://github.com/College-Kings/College-Kings-Translations#german)
+- [greek](https://github.com/College-Kings/College-Kings-Translations#greek)
+- [hindi](https://github.com/College-Kings/College-Kings-Translations#hindi)
+- [hungarian](https://github.com/College-Kings/College-Kings-Translations#hungarian)
+- [italian](https://github.com/College-Kings/College-Kings-Translations#italian)
+- [japanese](https://github.com/College-Kings/College-Kings-Translations#japanese)
+- [polish](https://github.com/College-Kings/College-Kings-Translations#polish)
+- [portugal](https://github.com/College-Kings/College-Kings-Translations#portugal)
+- [portuguese](https://github.com/College-Kings/College-Kings-Translations#portuguese)
+- [russian](https://github.com/College-Kings/College-Kings-Translations#russian)
+- [spanish](https://github.com/College-Kings/College-Kings-Translations#spanish)
+- [thai](https://github.com/College-Kings/College-Kings-Translations#thai)
+- [turkish](https://github.com/College-Kings/College-Kings-Translations#turkish)
+- [vietnamese ](https://github.com/College-Kings/College-Kings-Translations#vietnamese)
 
 
 
