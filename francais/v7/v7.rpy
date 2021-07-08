@@ -11506,2263 +11506,2263 @@ translate francais emilyhocodate_d0c2499c:
 translate francais emilyhocodate_2609003c:
 
     # u "Haha, yeah you're right about that."
-    u ""
+    u "Haha, ouais tu as raison."
 
 # game/v7/v7.rpy:10780
 translate francais emilyhocodate_80dab564:
 
     # u "Jesus, you still drink from the bottle? You really haven't changed, haha."
-    u ""
+    u "Putain, tu bois encore à la bouteille ? Tu n'as vraiment pas changé, haha."
 
 # game/v7/v7.rpy:10785
 translate francais emilyhocodate_125e4b7f:
 
     # em "Your turn."
-    em ""
+    em "À ton tour."
 
 # game/v7/v7.rpy:10795
 translate francais emilyhocodate_9132be30:
 
     # u "*Winces* Oh god."
-    u ""
+    u "*Grimace* Oh mon dieu."
 
 # game/v7/v7.rpy:10800
 translate francais emilyhocodate_93fddf68:
 
     # em "Oh come on, it's not that bad."
-    em ""
+    em "Oh allez, c'est pas si mal."
 
 # game/v7/v7.rpy:10805
 translate francais emilyhocodate_17b59cf2:
 
     # u "I strongly disagree with that statement."
-    u ""
+    u "Je ne suis pas du tout d'accord avec cette affirmation."
 
 # game/v7/v7.rpy:10810
 translate francais emilyhocodate_edac07d2:
 
     # em "You should definitely be used to these things by now."
-    em ""
+    em "Vous devriez certainement être habitué à ces choses maintenant."
 
 # game/v7/v7.rpy:10815
 translate francais emilyhocodate_ea6a56df:
 
     # u "*Laughs* Yeah... maybe I should be."
-    u ""
+    u "*Rires* Ouais... peut-être que je devrais l'être."
 
 # game/v7/v7.rpy:10820
 translate francais emilyhocodate_acff6c69:
 
     # em "What do you think of my dress by the way?"
-    em ""
+    em "Au fait, que pensez-vous de ma robe ?"
 
 # game/v7/v7.rpy:10825
 translate francais emilyhocodate_3f4da93a:
 
     # u "It looks amazing on you. I like this dress better than your prom dress."
-    u ""
+    u "Ça a l'air incroyable sur toi. J'aime mieux cette robe que ta robe de bal."
 
 # game/v7/v7.rpy:10830
 translate francais emilyhocodate_cf90d5f6:
 
     # em "You think? Or maybe you just miss me."
-    em ""
+    em "Tu penses? Ou peut-être que je te manque juste."
 
 # game/v7/v7.rpy:10835
 translate francais emilyhocodate_f7c73f6b:
 
     # u "Maybe a bit of both."
-    u ""
+    u "Peut-être un peu des deux."
 
 # game/v7/v7.rpy:10856
 translate francais emilyhocodate_992ac89f:
 
     # em "Oh yeah, and when we get there, can we take a cute photo in the booth? No prom repeats please."
-    em ""
+    em "Oh ouais, et quand on y sera, on pourra prendre une jolie photo dans le stand ? Pas de répétition du bal s'il vous plaît."
 
 # game/v7/v7.rpy:10861
 translate francais emilyhocodate_9ca7d617:
 
     # u "What was wrong with our prom photos?"
-    u ""
+    u "Qu'est-ce qui n'allait pas avec nos photos de bal ?"
 
 # game/v7/v7.rpy:10868
 translate francais emilyhocodate_ef2f1671:
 
     # u "What?"
-    u ""
+    u "Quoi ?"
 
 # game/v7/v7.rpy:10873
 translate francais emilyhocodate_807083c2:
 
     # em "Our prom photos sucked. You were so sweaty in all of them."
-    em ""
+    em "Nos photos de bal sont nulles. Tu étais tellement en sueur dans chacun d'eux."
 
 # game/v7/v7.rpy:10878
 translate francais emilyhocodate_b10be41b:
 
     # u "*Chuckles* I told you, I ate really hot chili right before they were taken."
-    u ""
+    u "*Chuckles* I told you, I ate really hot chili right before they were taken."
 
 # game/v7/v7.rpy:10883
 translate francais emilyhocodate_e75f1ac0:
 
     # em "*Laughs* Do you still know how to dance?"
-    em ""
+    em "*Rires* Savez-vous toujours danser ?"
 
 # game/v7/v7.rpy:10892
 translate francais emilyhocodate_3fd21ced:
 
     # u "Of course. Dancing is like riding a bicycle. You don't unlearn that."
-    u ""
+    u "Bien sûr. Danser, c'est comme faire du vélo. Vous ne désapprenez pas cela."
 
 # game/v7/v7.rpy:10894
 translate francais emilyhocodate_cb76ede8:
 
     # u "Especially not if you're as good as I am."
-    u ""
+    u "Surtout pas si tu es aussi bon que moi."
 
 # game/v7/v7.rpy:10899
 translate francais emilyhocodate_57b9272f:
 
     # em "Show me then."
-    em ""
+    em "Montre-moi alors."
 
 # game/v7/v7.rpy:10904
 translate francais emilyhocodate_711dd9d2:
 
     # u "I'm not sure... I haven't properly done couple dancing since high school."
-    u ""
+    u "Je ne suis pas sûr... Je n'ai pas bien fait de danse en couple depuis le lycée."
 
 # game/v7/v7.rpy:10909
 translate francais emilyhocodate_f3a6972d:
 
     # em "All the more reason to do a trial run."
-    em ""
+    em "Raison de plus pour faire un essai."
 
 # game/v7/v7.rpy:10919
 translate francais emilyhocodate_cbbfa964:
 
     # em "Let me just put on some music."
-    em ""
+    em "Laissez-moi juste mettre de la musique."
 
 # game/v7/v7.rpy:10926
 translate francais emilyhocodate_55e4ed4d:
 
     # u "Alright, let's do this."
-    u ""
+    u "D'accord, faisons ça."
 
 # game/v7/v7.rpy:10941
 translate francais emilyhocodate_458bd428:
 
     # em "I can work with this."
-    em ""
+    em "Je peux faire avec ça."
 
 # game/v7/v7.rpy:10946
 translate francais emilyhocodate_d8e23736:
 
     # u "*Chuckles* Good, cause it's kinda late for you to back out."
-    u ""
+    u "*Rires* Bien, parce qu'il est un peu tard pour que tu recules."
 
 # game/v7/v7.rpy:10965
 translate francais emilyhocodate_4cc68146:
 
     # em "Mmm. You know that's my favorite, don't you?"
-    em ""
+    em "Mmm. Tu sais que c'est mon préféré, n'est-ce pas ?"
 
 # game/v7/v7.rpy:10970
 translate francais emilyhocodate_4652369b:
 
     # u "How could I forget?"
-    u ""
+    u "Comment pourrai-je oublier?"
 
 # game/v7/v7.rpy:10975
 translate francais emilyhocodate_05ce8e4d:
 
     # em "I miss this."
-    em ""
+    em "Ça me manque."
 
 # game/v7/v7.rpy:10980
 translate francais emilyhocodate_d057cbd6:
 
     # u "Yeah... me too."
-    u ""
+    u "Ouais moi aussi."
 
 # game/v7/v7.rpy:10985
 translate francais emilyhocodate_a7639af6:
 
     # em "We should get going before we get carried away."
-    em ""
+    em "On devrait y aller avant de s'emballer."
 
 # game/v7/v7.rpy:10990
 translate francais emilyhocodate_876be260:
 
     # u "You're probably right. Might just end up staying."
-    u ""
+    u "Tu as probablement raison. Peut-être finira-t-il par rester."
 
 # game/v7/v7.rpy:10995
 translate francais emilyhocodate_da30fa42:
 
     # em "*Chuckles* Yeah, and we wouldn't want that, would we?"
-    em ""
+    em "*Rires* Ouais, et nous ne voudrions pas ça, n'est-ce pas ?"
 
 # game/v7/v7.rpy:11000
 translate francais emilyhocodate_f1b22d10:
 
     # u "No we wouldn't."
-    u ""
+    u "Non, nous ne le ferions pas."
 
 # game/v7/v7.rpy:11014
 translate francais emilyhocodate_b77e20be:
 
     # em "I feel like our prom was a lot bigger."
-    em ""
+    em "J'ai l'impression que notre bal était beaucoup plus gros."
 
 # game/v7/v7.rpy:11019
 translate francais emilyhocodate_94bb2ab0:
 
     # u "Yeah, maybe."
-    u ""
+    u "Ouais peut-être."
 
 # game/v7/v7.rpy:11024
 translate francais emilyhocodate_43fc5989:
 
     # em "Let's take some pictures."
-    em ""
+    em "Prenons quelques photos."
 
 # game/v7/v7.rpy:11029
 translate francais emilyhocodate_3c8517fb:
 
     # u "Sure thing."
-    u ""
+    u "Chose sûre."
 
 # game/v7/v7.rpy:11067
 translate francais emilyhocodate_ebb2436b:
 
     # jo "If it isn't our high school's favorite couple. You guys came together?"
-    jo ""
+    jo "Si ce n'est pas le couple préféré de notre lycée. Vous êtes venus ensemble ?"
 
 # game/v7/v7.rpy:11072
 translate francais emilyhocodate_505a3f68:
 
     # u "Yeah."
-    u ""
+    u "Oui."
 
 # game/v7/v7.rpy:11077
 translate francais emilyhocodate_dc9bcff9:
 
     # jo "It's great seeing that you guys finally made up."
-    jo ""
+    jo "C'est génial de voir que vous vous êtes enfin réconciliés."
 
 # game/v7/v7.rpy:11082
 translate francais emilyhocodate_880e8437:
 
     # em "Thanks."
-    em ""
+    em "Merci."
 
 # game/v7/v7.rpy:11084
 translate francais emilyhocodate_84535669:
 
     # u "So what's up, you just wandering around?"
-    u ""
+    u "Alors quoi de neuf, tu es juste en train de flâner ?"
 
 # game/v7/v7.rpy:11089
 translate francais emilyhocodate_0556b1a6:
 
     # jo "Yeah, maybe gonna go out and smoke a blunt. Too sober for this shit right now. Haha."
-    jo ""
+    jo "Ouais, peut-être que je vais sortir et fumer un oinj. Trop sobre pour cette merde en ce moment. Haha."
 
 # game/v7/v7.rpy:11094
 translate francais emilyhocodate_8b940739:
 
     # u "Right..."
-    u ""
+    u "Bien"
 
 # game/v7/v7.rpy:11099
 translate francais emilyhocodate_98d5b09f:
 
     # jo "Well I'll catch you guys around."
-    jo ""
+    jo "Eh bien, A plus tard."
 
 # game/v7/v7.rpy:11104
 translate francais emilyhocodate_b8911521:
 
     # u "Alright."
-    u ""
+    u "Bien."
 
 # game/v7/v7.rpy:11114
 translate francais emilyhocodate_84f56653:
 
     # em "Did he seem off to you?"
-    em ""
+    em "Est-ce qu'il t'as semblé à l'ouest ?"
 
 # game/v7/v7.rpy:11119
 translate francais emilyhocodate_1ee6dfdd:
 
     # u "Josh? No... I think he was just being nice."
-    u ""
+    u "Josh? Non... Je pense qu'il était juste gentil."
 
 # game/v7/v7.rpy:11124
 translate francais emilyhocodate_95edfb84:
 
     # em "Anyway, you wanna go dance?"
-    em ""
+    em "Bref, tu veux aller danser ?"
 
 # game/v7/v7.rpy:11129
 translate francais emilyhocodate_671a2e88:
 
     # u "Yeah, let's do it."
-    u ""
+    u "Ouais, faisons-le."
 
 # game/v7/v7.rpy:11149
 translate francais emilyhocodate_5f3b5fab:
 
     # u "I'm gonna say hi to my friends real quick, if you don't mind."
-    u ""
+    u "Je vais dire bonjour à mes amis très vite, si ça ne vous dérange pas."
 
 # game/v7/v7.rpy:11154
 translate francais emilyhocodate_e09117b0:
 
     # em "Yeah, of course. I'll be here dancing."
-    em ""
+    em "Ouais, bien sûr. Je serai ici en train de danser."
 
 # game/v7/v7.rpy:11171
 translate francais laurenhocodate_4f1997c1:
 
     # "*Knock knock knock*"
-    ""
+    "*Knock knock knock*"
 
 # game/v7/v7.rpy:11177
 translate francais laurenhocodate_8b4972a9:
 
     # la "Heyyy."
-    la ""
+    la "Saluut."
 
 # game/v7/v7.rpy:11182
 translate francais laurenhocodate_72f42a3e:
 
     # u "Damn!"
-    u ""
+    u "Mince !"
 
 # game/v7/v7.rpy:11187
 translate francais laurenhocodate_e0381dbe:
 
     # la "What?"
-    la ""
+    la "What ?"
 
 # game/v7/v7.rpy:11192
 translate francais laurenhocodate_2c5144f0:
 
     # u "Nothin. You just look really good!"
-    u ""
+    u "Rien. Tu as l'air vraiment bien !"
 
 # game/v7/v7.rpy:11197
 translate francais laurenhocodate_6f1b8114:
 
     # la "Oh, get in here."
-    la ""
+    la "Oh, entre ici."
 
 # game/v7/v7.rpy:11210
 translate francais laurenhocodate_b1ee4269:
 
     # la "We still have some time left. You want a drink?"
-    la ""
+    la "Il nous reste encore du temps. Tu veux un verre ?"
 
 # game/v7/v7.rpy:11215
 translate francais laurenhocodate_12576a2b:
 
     # u "Yeah, definitely. Thanks."
-    u ""
+    u "We still have some time left. You want a drink ?"
 
 # game/v7/v7.rpy:11230
 translate francais laurenhocodate_45046b00:
 
     # la "My favorite wine. Thought it would be nice."
-    la ""
+    la "Mon vin préféré. Je pensais que ce serait bien."
 
 # game/v7/v7.rpy:11235
 translate francais laurenhocodate_f4790727:
 
     # u "Feeling fancy I see."
-    u ""
+    u "Sensation de fantaisie, je vois."
 
 # game/v7/v7.rpy:11240
 translate francais laurenhocodate_3d61a08e:
 
     # la "Just for the occasion."
-    la ""
+    la "Juste pour l'occasion."
 
 # game/v7/v7.rpy:11247
 translate francais laurenhocodate_a947744d:
 
     # u "Cheers."
-    u ""
+    u "Tchin."
 
 # game/v7/v7.rpy:11249
 translate francais laurenhocodate_d035aa7f:
 
     # la "Cheers."
-    la ""
+    la "Tchin."
 
 # game/v7/v7.rpy:11254
 translate francais laurenhocodate_6e8667d6:
 
     # la "Mhm..."
-    la ""
+    la "Mhm..."
 
 # game/v7/v7.rpy:11256
 translate francais laurenhocodate_5f22f2e4:
 
     # u "Ahh yes. I can definitely smell a fine note of oak as well as lime stone which was probably the soil for this particular grape."
-    u ""
+    u "Ahh oui. Je peux certainement sentir une fine note de chêne ainsi que de pierre calcaire qui était probablement le sol de ce cépage particulier."
 
 # game/v7/v7.rpy:11261
 translate francais laurenhocodate_02f35856:
 
     # la "*Laughs* Oh don't even pretend like you're some kind of wine expert."
-    la ""
+    la "* Rires * Oh, ne prétends même pas que tu es une sorte d'expert en vin."
 
 # game/v7/v7.rpy:11266
 translate francais laurenhocodate_7a332abd:
 
     # u "What can I say? I'm a man of many talents."
-    u ""
+    u "Que puis-je dire ? Je suis un homme aux multiples talents."
 
 # game/v7/v7.rpy:11281
 translate francais laurenhocodate_a68937de:
 
     # la "Oh yeah, I just have to say, I'm not much of a dancer."
-    la ""
+    la "Oh ouais, je dois juste dire que je ne suis pas vraiment une danseuse."
 
 # game/v7/v7.rpy:11290
 translate francais laurenhocodate_09514f67:
 
     # u "I'm not surprised."
-    u ""
+    u "Je ne suis pas surpris."
 
 # game/v7/v7.rpy:11295
 translate francais laurenhocodate_e4c23b00:
 
     # la "Oh wow."
-    la ""
+    la "Oh waouh."
 
 # game/v7/v7.rpy:11300
 translate francais laurenhocodate_ed0954f3:
 
     # u "I'm sure you're not that bad."
-    u ""
+    u "Je suis sûr que tu n'es pas si mal que ça."
 
 # game/v7/v7.rpy:11305
 translate francais laurenhocodate_a0d8565e:
 
     # la "*Chuckles* Then you're in for a surprise."
-    la ""
+    la "*Rires* Alors vous allez avoir une surprise."
 
 # game/v7/v7.rpy:11310
 translate francais laurenhocodate_04a5d051:
 
     # u "Can you stand up? I really wanna take a picture of you in this dress."
-    u ""
+    u "Peux-tu te lever ? Je veux vraiment te prendre en photo dans cette robe."
 
 # game/v7/v7.rpy:11315
 translate francais laurenhocodate_c54ebf62:
 
     # la "Uhm sure, haha. Why?"
-    la ""
+    la "Euh bien sûr, haha. Pourquoi ?"
 
 # game/v7/v7.rpy:11320
 translate francais laurenhocodate_acaad6fd:
 
     # u "You just look so amazing."
-    u ""
+    u "Tu as l'air tellement incroyable."
 
 # game/v7/v7.rpy:11325
 translate francais laurenhocodate_b64f7c11:
 
     # la "Awww. Maybe I'll surprise you one day and arrive at your dorm in this dress."
-    la ""
+    la "Awww. Peut-être que je te surprendrai un jour et arriverai à ton dortoir dans cette robe."
 
 # game/v7/v7.rpy:11330
 translate francais laurenhocodate_836e0339:
 
     # u "Haha. That might just make my year."
-    u ""
+    u "Haha. Cela pourrait bien faire mon année."
 
 # game/v7/v7.rpy:11335
 translate francais laurenhocodate_8f666626:
 
     # la "Well if I show up to your dorm in this dress then you are definitely showing up to my dorm in this suit. I am kinda liking it on you."
-    la ""
+    la "Eh bien, si je me présente à votre dortoir dans cette robe, alors vous vous présentez certainement à mon dortoir dans ce costume. Je l'aime bien sur toi."
 
 # game/v7/v7.rpy:11340
 translate francais laurenhocodate_255e2deb:
 
     # u "Thanks, haha. I'll make note of that."
-    u ""
+    u "Merci, haha. Je vais prendre note de cela."
 
 # game/v7/v7.rpy:11345
 translate francais laurenhocodate_c09555c5:
 
     # la "You almost ready to go?"
-    la ""
+    la "Vous êtes presque prêt à partir ?"
 
 # game/v7/v7.rpy:11350
 translate francais laurenhocodate_b9563d83:
 
     # u "Yeah, let's go."
-    u ""
+    u "Ouais, allons-y."
 
 # game/v7/v7.rpy:11364
 translate francais laurenhocodate_10458530:
 
     # la "Wow, they really turned the gym into such a nice location for the dance."
-    la ""
+    la "Wow, ils ont vraiment transformé la salle de gym en un si bel endroit pour la danse."
 
 # game/v7/v7.rpy:11369
 translate francais laurenhocodate_23757ce9:
 
     # u "Yeah, I think Ms. Rose did a lot of that, I saw her earlier."
-    u ""
+    u "Oui, je pense que Mme. Rose a fait beaucoup de ça, je l'ai vue plus tôt."
 
 # game/v7/v7.rpy:11374
 translate francais laurenhocodate_99f9b22b:
 
     # la "You wanna take some pictures?"
-    la ""
+    la "Vous voulez prendre des photos ?"
 
 # game/v7/v7.rpy:11379
 translate francais laurenhocodate_015df046:
 
     # u "Yeah, I'd love to."
-    u ""
+    u "Ouais, j'adorerais."
 
 # game/v7/v7.rpy:11417
 translate francais laurenhocodate_10c19d07:
 
     # la "I'm so glad we went here together."
-    la ""
+    la "Je suis tellement content que nous soyons allés ici ensemble."
 
 # game/v7/v7.rpy:11422
 translate francais laurenhocodate_1f7e2d0a:
 
     # u "Yeah, me too. Best date I could've asked for."
-    u ""
+    u "Ouais moi aussi. La meilleure date que j'aurais pu demander."
 
 # game/v7/v7.rpy:11427
 translate francais laurenhocodate_b3f802da:
 
     # la "Awww."
-    la ""
+    la "Awww."
 
 # game/v7/v7.rpy:11432
 translate francais laurenhocodate_1d7c4b5b:
 
     # la "Oh look, Ms. Rose is here. Let's say hi."
-    la ""
+    la "Oh regardez, mademoiselle. Rose est là. Disons bonjour."
 
 # game/v7/v7.rpy:11437
 translate francais laurenhocodate_37fe551f:
 
     # u "Sure."
-    u ""
+    u "Sure."
 
 # game/v7/v7.rpy:11447
 translate francais laurenhocodate_2951fd42:
 
     # la "Hey Ms. Rose, I didn't know you were a chaperone."
-    la ""
+    la "Hé Mme. Rose, je ne savais pas que tu étais chaperon."
 
 # game/v7/v7.rpy:11452
 translate francais laurenhocodate_2e9216b8:
 
     # ro "Yup! I always chaperone these things."
-    ro ""
+    ro "Ouais! Je chaperonne toujours ces choses."
 
 # game/v7/v7.rpy:11457
 translate francais laurenhocodate_669b1f5c:
 
     # la "That's so nice."
-    la ""
+    la "C'est tellement bien."
 
 # game/v7/v7.rpy:11462
 translate francais laurenhocodate_96f477aa:
 
     # u "Hey Ms. Rose."
-    u ""
+    u "Hé Mme. Rose."
 
 # game/v7/v7.rpy:11467
 translate francais laurenhocodate_75c999e3:
 
     # ro "Hi [name]. Look at you two... You guys look great."
-    ro ""
+    ro "Salut [name]. Regardez-vous tous les deux... Vous êtes superbes."
 
 # game/v7/v7.rpy:11472
 translate francais laurenhocodate_7a847472:
 
     # la "Thanks!"
-    la ""
+    la "Merci !"
 
 # game/v7/v7.rpy:11477
 translate francais laurenhocodate_5e4d4989:
 
     # ro "Well you two, enjoy your dance tonight and stay out of trouble."
-    ro ""
+    ro "Eh bien, vous deux, profitez de votre danse ce soir et évitez les ennuis."
 
 # game/v7/v7.rpy:11482
 translate francais laurenhocodate_1f317d4b:
 
     # u "*Chuckles* Of course."
-    u ""
+    u "*Rires* Bien sûr."
 
 # game/v7/v7.rpy:11487
 translate francais laurenhocodate_b8dfddd0:
 
     # u "Talking about dance, you ready for some movement, Lauren?"
-    u ""
+    u "En parlant de danse, tu es prête à bouger, Lauren ?"
 
 # game/v7/v7.rpy:11492
 translate francais laurenhocodate_bd531346:
 
     # la "Yeah, alright. Let's do it."
-    la ""
+    la "Ouais, d'accord. Faisons le."
 
 # game/v7/v7.rpy:11497
 translate francais laurenhocodate_4793c1ea:
 
     # la "Bye, Ms. Rose."
-    la ""
+    la "Au revoir, Mme. Rose."
 
 # game/v7/v7.rpy:11502
 translate francais laurenhocodate_b18deea8:
 
     # ro "Goodbye you two. Have fun."
-    ro ""
+    ro "Au revoir vous deux. S'amuser."
 
 # game/v7/v7.rpy:11522
 translate francais laurenhocodate_5f3b5fab:
 
     # u "I'm gonna say hi to my friends real quick, if you don't mind."
-    u ""
+    u "Je vais dire bonjour à mes amis très vite, si ça ne vous dérange pas."
 
 # game/v7/v7.rpy:11527
 translate francais laurenhocodate_718aedea:
 
     # la "Yeah, of course. I'll be here."
-    la ""
+    la "Ouais, bien sûr. Je serai là."
 
 # game/v7/v7.rpy:11545
 translate francais penelopehocodate_4f1997c1:
 
     # "*Knock knock knock*"
-    ""
+    "* Toc Toc Toc *"
 
 # game/v7/v7.rpy:11550
 translate francais penelopehocodate_1d6a0cc7:
 
     # u "Penelope?"
-    u ""
+    u "Penelope ?"
 
 # game/v7/v7.rpy:11564
 translate francais penelopehocodate_1d6a0cc7_1:
 
     # u "Penelope?"
-    u ""
+    u "Penelope ?"
 
 # game/v7/v7.rpy:11569
 translate francais penelopehocodate_1ea1a0dc:
 
     # pe "Ah! Oh my god! Turn around!"
-    pe ""
+    pe "Ah ! Oh mon Dieu! Tourne toi !"
 
 # game/v7/v7.rpy:11574
 translate francais penelopehocodate_446a35d3:
 
     # u "Sorry, sorry. Didn't mean to scare you."
-    u ""
+    u "Pardon pardon. Je ne voulais pas t'effrayer."
 
 # game/v7/v7.rpy:11576
 translate francais penelopehocodate_5f8cfe72:
 
     # pe "Let me just get something on quickly. Oh my god I'm so embarrassed."
-    pe ""
+    pe "Laisse-moi le temps de mettre quelque chose rapidement. Oh mon dieu, je suis tellement gêné."
 
 # game/v7/v7.rpy:11578
 translate francais penelopehocodate_a9849b77:
 
     # u "It's okay! You looked good doing it. *Laughs*"
-    u ""
+    u "C'est bon! Tu avais l'air bien de le faire. * Des rires *"
 
 # game/v7/v7.rpy:11580
 translate francais penelopehocodate_c2f778e4:
 
     # pe "You're early aren't you?"
-    pe ""
+    pe "Tu es en avance n'est-ce pas ?"
 
 # game/v7/v7.rpy:11582
 translate francais penelopehocodate_7ec241f9:
 
     # u "Nope, I think I'm right on time."
-    u ""
+    u "Non, je pense que je suis à l'heure."
 
 # game/v7/v7.rpy:11584
 translate francais penelopehocodate_9c190384:
 
     # pe "Sorry, I must have just got carried away."
-    pe ""
+    pe "Désolé, j'ai dû m'emballer."
 
 # game/v7/v7.rpy:11586
 translate francais penelopehocodate_7c9e62f1:
 
     # pe "You can turn around now."
-    pe ""
+    pe "Tu peux te retourner maintenant."
 
 # game/v7/v7.rpy:11591
 translate francais penelopehocodate_c7ef4fd7:
 
     # u "Wow You look... stunning."
-    u ""
+    u "Wow, tu es magnifique."
 
 # game/v7/v7.rpy:11601
 translate francais penelopehocodate_4f1997c1_1:
 
     # "*Knock knock knock*"
-    ""
+    "* Toc Toc Toc *"
 
 # game/v7/v7.rpy:11606
 translate francais penelopehocodate_60fcff2b:
 
     # pe "One second!"
-    pe ""
+    pe "Une seconde !"
 
 # game/v7/v7.rpy:11608
 translate francais penelopehocodate_b8911521:
 
     # u "Alright."
-    u ""
+    u "Bien."
 
 # game/v7/v7.rpy:11610
 translate francais penelopehocodate_05604aac:
 
     # pe "Okay, you can come in now!"
-    pe ""
+    pe "D'accord, tu peux entrer maintenant !"
 
 # game/v7/v7.rpy:11621
 translate francais penelopehocodate_ef031fdb:
 
     # pe "Sorry, I just got carried away."
-    pe ""
+    pe "Désolé, je viens de m'emporter."
 
 # game/v7/v7.rpy:11626
 translate francais penelopehocodate_dca542d8:
 
     # u "No worries. You look... stunning."
-    u ""
+    u "Pas de soucis. Tu es... magnifique."
 
 # game/v7/v7.rpy:11631
 translate francais penelopehocodate_b030db80:
 
     # pe "Awww, thank you."
-    pe ""
+    pe "Awww, merci."
 
 # game/v7/v7.rpy:11633
 translate francais penelopehocodate_d0f1ccab:
 
     # pe "Honestly I'm so glad you think that, because it took me forever to pick out this dress!"
-    pe ""
+    pe "Honnêtement, je suis tellement contente que tu pense ça, car il m'a fallu une éternité pour choisir cette robe !"
 
 # game/v7/v7.rpy:11635
 translate francais penelopehocodate_c05a8d53:
 
     # pe "I was almost afraid I wouldn't find anything and that I'd have to cancel, but here I am."
-    pe ""
+    pe "J'avais presque peur de ne rien trouver et de devoir annuler, mais me voilà."
 
 # game/v7/v7.rpy:11640
 translate francais penelopehocodate_51f9dcf7:
 
     # u "Neurotic as ever. *Laughs*"
-    u ""
+    u "Névrosé comme toujours. * Des rires *"
 
 # game/v7/v7.rpy:11645
 translate francais penelopehocodate_542d922e:
 
     # pe "What?"
-    pe ""
+    pe "Quoi ?"
 
 # game/v7/v7.rpy:11650
 translate francais penelopehocodate_02c0a479:
 
     # u "*Chuckles* Nothing."
-    u ""
+    u "*Rires * Rien."
 
 # game/v7/v7.rpy:11655
 translate francais penelopehocodate_78287164:
 
     # pe "Uhm.... you wanna have a drink before we leave?"
-    pe ""
+    pe "Euh... tu veux prendre un verre avant de partir ?"
 
 # game/v7/v7.rpy:11660
 translate francais penelopehocodate_671a2e88:
 
     # u "Yeah, let's do it."
-    u ""
+    u "Ouais, faisons-le."
 
 # game/v7/v7.rpy:11678
 translate francais penelopehocodate_8f9eae05:
 
     # u "Nice hiding spot."
-    u ""
+    u "Belle cachette."
 
 # game/v7/v7.rpy:11683
 translate francais penelopehocodate_c02166d6:
 
     # pe "Thank you. I used to hide everything that I didn't want my parents to see under my bed."
-    pe ""
+    pe "Merci. J'avais l'habitude de cacher tout ce que je ne voulais pas que mes parents voient sous mon lit."
 
 # game/v7/v7.rpy:11688
 translate francais penelopehocodate_1a78b6da:
 
     # u "*Chuckles* Really?"
-    u ""
+    u "*Rires* Vraiment ?"
 
 # game/v7/v7.rpy:11693
 translate francais penelopehocodate_ea118f2f:
 
     # u "What kinda things are we talking about?"
-    u ""
+    u "De quel genre de choses parlons-nous ?"
 
 # game/v7/v7.rpy:11698
 translate francais penelopehocodate_06321d42:
 
     # pe "I don't really wanna say."
-    pe ""
+    pe "Je ne veux pas vraiment en parler."
 
 # game/v7/v7.rpy:11708
 translate francais penelopehocodate_12b6e382:
 
     # u "Come on, were you hiding your sex toys?"
-    u ""
+    u "Allez, tu cachais tes jouets sexuels ?"
 
 # game/v7/v7.rpy:11713
 translate francais penelopehocodate_d9b8a59c:
 
     # pe "No, ewww! *Laughs*"
-    pe ""
+    pe "Eh bien, ooouuuh ! * Des rires *"
 
 # game/v7/v7.rpy:11718
 translate francais penelopehocodate_2896f8ab:
 
     # pe "Well..."
-    pe ""
+    pe "Bien ..."
 
 # game/v7/v7.rpy:11720
 translate francais penelopehocodate_7d4b67f3:
 
     # pe "It was only one... and I just wanted to try it..."
-    pe ""
+    pe "Il n'y en avais qu'un... et je voulais juste l'essayer..."
 
 # game/v7/v7.rpy:11725
 translate francais penelopehocodate_91d00542:
 
     # u "Well did you?"
-    u ""
+    u "Eh bien tu as tenter ?"
 
 # game/v7/v7.rpy:11730
 translate francais penelopehocodate_4f6f0ec5:
 
     # pe "Did I what?"
-    pe ""
+    pe "J'ai tenté quoi ?"
 
 # game/v7/v7.rpy:11735
 translate francais penelopehocodate_18519f3b:
 
     # u "Did you try the toy?"
-    u ""
+    u "As-tu essayé le jouet ?"
 
 # game/v7/v7.rpy:11740
 translate francais penelopehocodate_a8a7f8d8:
 
     # pe "No!"
-    pe ""
+    pe "Non !"
 
 # game/v7/v7.rpy:11745
 translate francais penelopehocodate_a8feb654:
 
     # pe "Well... yeah."
-    pe ""
+    pe "Enfin... ouais."
 
 # game/v7/v7.rpy:11747
 translate francais penelopehocodate_10e65d7c:
 
     # pe "It was weird... but good. I don't know."
-    pe ""
+    pe "C'était bizarre... mais bon. Je ne sais pas."
 
 # game/v7/v7.rpy:11752
 translate francais penelopehocodate_036b8c8a:
 
     # u "I bet it was weed."
-    u ""
+    u "Je parie que c'était de l'herbe."
 
 # game/v7/v7.rpy:11757
 translate francais penelopehocodate_e57abfc7:
 
     # pe "*Chuckles* No, I don't do drugs."
-    pe ""
+    pe "*Rires* Non, je ne me drogue pas."
 
 # game/v7/v7.rpy:11762
 translate francais penelopehocodate_fbe8f8d0:
 
     # u "*Chuckles* Whatever you say."
-    u ""
+    u "*Rires* Quoi que tu dis."
 
 # game/v7/v7.rpy:11767
 translate francais penelopehocodate_f73587c0:
 
     # pe "Anyways... you wanna play a drinking game?"
-    pe ""
+    pe "De toute façon... tu veux jouer à un jeu à boire ?"
 
 # game/v7/v7.rpy:11772
 translate francais penelopehocodate_70581c2f:
 
     # u "Sure, what did you have in mind?"
-    u ""
+    u "Bien sûr, qu'as-tu en tête ?"
 
 # game/v7/v7.rpy:11777
 translate francais penelopehocodate_ca63b2bb:
 
     # pe "One truth, one lie?"
-    pe ""
+    pe "Une vérité, un mensonge ?"
 
 # game/v7/v7.rpy:11782
 translate francais penelopehocodate_5e8494e6:
 
     # u "Isn't it two truths and a lie?"
-    u ""
+    u "N'est-ce pas deux vérités et un mensonge ?"
 
 # game/v7/v7.rpy:11787
 translate francais penelopehocodate_77402312:
 
     # pe "I only know it as one truth, one lie."
-    pe ""
+    pe "Je ne le connais que comme une vérité, un mensonge."
 
 # game/v7/v7.rpy:11792
 translate francais penelopehocodate_ac0f5ba3:
 
     # u "*Smirks* Uhm alright, I guess one truth, one lie it is then."
-    u ""
+    u "*Smirks* Uhm alright, I guess one truth, one lie it is then."
 
 # game/v7/v7.rpy:11797
 translate francais penelopehocodate_e7793f7b:
 
     # pe "Okay, I'll start. When I was younger, I had four cats and six lizards."
-    pe ""
+    pe "Bon, je vais commencer. Quand j'étais plus jeune, j'avais quatre chats et six lézards."
 
 # game/v7/v7.rpy:11805
 translate francais penelopehocodate_274b67b5:
 
     # u "You definitely did not have four cats."
-    u ""
+    u "Vous n'aviez certainement pas quatre chats."
 
 # game/v7/v7.rpy:11810
 translate francais penelopehocodate_81fc3b5c:
 
     # pe "Wrong! I did, I only had four lizards though, not six."
-    pe ""
+    pe "Tort! Je l'ai fait, je n'avais que quatre lézards, pas six."
 
 # game/v7/v7.rpy:11815
 translate francais penelopehocodate_fb19ff80:
 
     # u "*Laughs* Four cats? That's way too many."
-    u ""
+    u "*Rires* Quatre chats ? C'est beaucoup trop."
 
 # game/v7/v7.rpy:11820
 translate francais penelopehocodate_743d1762:
 
     # pe "What??? You can never have too many cats."
-    pe ""
+    pe "Quoi ??? On ne peut jamais avoir trop de chats."
 
 # game/v7/v7.rpy:11822
 translate francais penelopehocodate_a250a72f:
 
     # pe "Your turn."
-    pe ""
+    pe "À ton tour."
 
 # game/v7/v7.rpy:11830
 translate francais penelopehocodate_d4429fa4:
 
     # u "You definitely did not have six lizards."
-    u ""
+    u "Tu n'avais certainement pas six lézards."
 
 # game/v7/v7.rpy:11835
 translate francais penelopehocodate_09349850:
 
     # pe "Yeah, you're right. I only had four."
-    pe ""
+    pe "Oui vous avez raison. Je n'en ai eu que quatre."
 
 # game/v7/v7.rpy:11840
 translate francais penelopehocodate_4f2d7a71:
 
     # u "*Laughs* Four? That's still four more than I expected..."
-    u ""
+    u "* Rires * Quatre ? C'est quand même quatre de plus que ce à quoi je m'attendais..."
 
 # game/v7/v7.rpy:11845
 translate francais penelopehocodate_060332aa:
 
     # pe "Pepé, Ronald, Lucy, and Mike. They were so cute!"
-    pe ""
+    pe "Pépé, Ronald, Lucy et Mike. Ils étaient si mignons !"
 
 # game/v7/v7.rpy:11847
 translate francais penelopehocodate_a250a72f_1:
 
     # pe "Your turn."
-    pe ""
+    pe "À ton tour."
 
 # game/v7/v7.rpy:11852
 translate francais penelopehocodate_6e05f8fc:
 
     # u "Okay...uhm, I have been both scuba diving and cliff jumping."
-    u ""
+    u "D'accord ... euh, j'ai fait de la plongée sous-marine et du saut de falaise."
 
 # game/v7/v7.rpy:11857
 translate francais penelopehocodate_a6ffda3b:
 
     # pe "No way, you were never cliff Jumping."
-    pe ""
+    pe "Pas question, tu n'as jamais sauté d'une falaise."
 
 # game/v7/v7.rpy:11862
 translate francais penelopehocodate_ed07559e:
 
     # u "Man you're good."
-    u ""
+    u "Tu es bonne à ce jeu."
 
 # game/v7/v7.rpy:11867
 translate francais penelopehocodate_9f7af9c7:
 
     # pe "My turn... at 14 I both learned how to drive and lost my virginity."
-    pe ""
+    pe "A mon tour... à 14 ans j'ai appris à conduire et j'ai perdu ma virginité."
 
 # game/v7/v7.rpy:11876
 translate francais penelopehocodate_49b2966e:
 
     # u "No way you lost your virginity at 14, that's a lie."
-    u ""
+    u "Pas question que tu aies perdu ta virginité à 14 ans, c'est un mensonge."
 
 # game/v7/v7.rpy:11881
 translate francais penelopehocodate_0b46336f:
 
     # pe "Yeah, you're right..."
-    pe ""
+    pe "Oui tu as raison ..."
 
 # game/v7/v7.rpy:11891
 translate francais penelopehocodate_f33da5e2:
 
     # pe "It was a year before that."
-    pe ""
+    pe "It was a year before that."
 
 # game/v7/v7.rpy:11896
 translate francais penelopehocodate_106f7a82:
 
     # u "What???"
-    u ""
+    u "Quoi ???"
 
 # game/v7/v7.rpy:11901
 translate francais penelopehocodate_47b075d3:
 
     # pe "*Laughs* I'm just kidding! You should have seen your face though."
-    pe ""
+    pe "*Rires* Je plaisante ! Tu aurais dû voir ta tête cependant."
 
 # game/v7/v7.rpy:11905
 translate francais penelopehocodate_ffddbf95:
 
     # u "No way you learned to drive that early. I guess you lost your virginity?"
-    u ""
+    u "Pas question que tu aies appris à conduire si tôt. Je suppose que tu as perdu ta virginité ?"
 
 # game/v7/v7.rpy:11910
 translate francais penelopehocodate_cd51cf63:
 
     # pe "Nope, I learned to drive. My grandma taught me."
-    pe ""
+    pe "Non, j'ai appris à conduire. Ma grand-mère m'a appris."
 
 # game/v7/v7.rpy:11915
 translate francais penelopehocodate_f31c5072:
 
     # u "Damn."
-    u ""
+    u "Mince."
 
 # game/v7/v7.rpy:11925
 translate francais penelopehocodate_88a79f2f:
 
     # u "Alright. I once got bitten by a raccoon and I only had As on my final report card in high school."
-    u ""
+    u "Bien. Une fois, j'ai été mordu par un raton laveur et je n'avais qu'A sur mon bulletin de fin d'études au lycée."
 
 # game/v7/v7.rpy:11930
 translate francais penelopehocodate_18387dd5:
 
     # pe "This one's hard... You do seem pretty smart so I'm gonna go with only As."
-    pe ""
+    pe "Celui-ci est difficile... Tu as l'air assez intelligent donc je vais y aller avec seulement As."
 
 # game/v7/v7.rpy:11935
 translate francais penelopehocodate_a4af73c7:
 
     # u "Nope, a raccoon bit me when I was five."
-    u ""
+    u "Non, un raton laveur m'a mordu quand j'avais cinq ans."
 
 # game/v7/v7.rpy:11940
 translate francais penelopehocodate_b50c6957:
 
     # pe "That's so random. *Chuckles*"
-    pe ""
+    pe "C'est tellement improbable. *Rires*"
 
 # game/v7/v7.rpy:11945
 translate francais penelopehocodate_4aa40cbf:
 
     # u "Yeah, it just kinda happened, haha."
-    u ""
+    u "Ouais, c'est juste arrivé, haha."
 
 # game/v7/v7.rpy:11950
 translate francais penelopehocodate_af3716a0:
 
     # pe "Should we get going now?"
-    pe ""
+    pe "Doit-on y aller maintenant ?"
 
 # game/v7/v7.rpy:11955
 translate francais penelopehocodate_bab087bd:
 
     # u "Yeah, let's head out."
-    u ""
+    u "Ouais, sortons."
 
 # game/v7/v7.rpy:11964
 translate francais penelopehocodate_e0b797bc:
 
     # pe "Oh, it's so nice!"
-    pe ""
+    pe "Oh, c'est si mignon !"
 
 # game/v7/v7.rpy:11969
 translate francais penelopehocodate_e8f5d41e:
 
     # pe "I love what they did with the balloons!"
-    pe ""
+    pe "J'adore ce qu'ils ont fait avec les ballons !"
 
 # game/v7/v7.rpy:11974
 translate francais penelopehocodate_d69dd7eb:
 
     # u "Yeah, it's really cool."
-    u ""
+    u "Ouais, c'est vraiment cool."
 
 # game/v7/v7.rpy:11976
 translate francais penelopehocodate_c8a95986:
 
     # u "So you ready to dance or what?"
-    u ""
+    u "Alors t'es prêt à danser ou quoi ?"
 
 # game/v7/v7.rpy:11981
 translate francais penelopehocodate_a343e6db:
 
     # pe "Haha yes I think so! Let's hope I don't fall, or do something embarrassing."
-    pe ""
+    pe "Haha oui je pense ! Espérons que je ne tombe pas, ou que je fasse quelque chose d'embarrassant."
 
 # game/v7/v7.rpy:11986
 translate francais penelopehocodate_e112cc2d:
 
     # u "Don't worry, if you fall, I'm falling with you."
-    u ""
+    u "Ne t'inquiète pas, si tu tombes, je tombe avec toi."
 
 # game/v7/v7.rpy:11991
 translate francais penelopehocodate_d159f87c:
 
     # pe "*Chuckles* Well that just makes me feel much better."
-    pe ""
+    pe "*Rires* Eh bien, ça me fait me sentir beaucoup mieux."
 
 # game/v7/v7.rpy:12011
 translate francais penelopehocodate_5f3b5fab:
 
     # u "I'm gonna say hi to my friends real quick, if you don't mind."
-    u ""
+    u "Je vais dire bonjour à mes amis très vite, si ça ne te dérange pas."
 
 # game/v7/v7.rpy:12016
 translate francais penelopehocodate_3df105c6:
 
     # pe "Yeah, of course. I'll be here."
-    pe ""
+    pe "Ouais, bien sûr. Je serai là."
 
 # game/v7/v7.rpy:12033
 translate francais rileyhocodate_4f1997c1:
 
     # "*Knock knock knock*"
-    ""
+    "* Toc Toc Toc *"
 
 # game/v7/v7.rpy:12040
 translate francais rileyhocodate_30a148ed:
 
     # ry "Heyyy [name]! You ready for a wild night?"
-    ry ""
+    ry "Salut [name] ! Êtes-vous prêt pour une nuit sauvage?"
 
 # game/v7/v7.rpy:12045
 translate francais rileyhocodate_5b74c6a1:
 
     # u "Yeah, of course!"
-    u ""
+    u "Ouais, bien sûr!"
 
 # game/v7/v7.rpy:12050
 translate francais rileyhocodate_84682214:
 
     # ry "What's up!"
-    ry ""
+    ry "Quoi de neuf!"
 
 # game/v7/v7.rpy:12052
 translate francais rileyhocodate_d7f37a1f:
 
     # la "Hey."
-    la ""
+    la "Hey."
 
 # game/v7/v7.rpy:12057
 translate francais rileyhocodate_9668b8a6:
 
     # u "Hey guys, you two going together?"
-    u ""
+    u "Hé les gars, vous ettes ensemble ?"
 
 # game/v7/v7.rpy:12062
 translate francais rileyhocodate_2feef91c:
 
     # la "What? Oh, no. We're just both predrinking here."
-    la ""
+    la "Quoi? Oh non. Nous buvons juste tous les deux ici."
 
 # game/v7/v7.rpy:12067
 translate francais rileyhocodate_7ef26ec1:
 
     # ry "You know, we still could go together..."
-    ry ""
+    ry "Tu sais, on pourrait encore y aller ensemble..."
 
 # game/v7/v7.rpy:12072
 translate francais rileyhocodate_aa2da5cb:
 
     # la "Uhm..."
-    la ""
+    la "Euh..."
 
 # game/v7/v7.rpy:12074
 translate francais rileyhocodate_18c5e051:
 
     # la "I uhm...-"
-    la ""
+    la "Je euh...-"
 
 # game/v7/v7.rpy:12079
 translate francais rileyhocodate_990bbe83:
 
     # ri "Who's ready for some drinks?"
-    ri ""
+    ri "Qui est prêt pour un verre ?"
 
 # game/v7/v7.rpy:12081
 translate francais rileyhocodate_eccaf7f3:
 
     # u "I definitely am."
-    u ""
+    u "Je le suis définitivement."
 
 # game/v7/v7.rpy:12086
 translate francais rileyhocodate_bdfc578e:
 
     # ry "We doing flip pong?"
-    ry ""
+    ry "On fait du flip pong ?"
 
 # game/v7/v7.rpy:12091
 translate francais rileyhocodate_57258cce:
 
     # u "What's that?"
-    u ""
+    u "Qu'est-ce que c'est?"
 
 # game/v7/v7.rpy:12096
 translate francais rileyhocodate_9d8b5a72:
 
     # ry "Bro, you don't know flip pong?"
-    ry ""
+    ry "Bro, tu ne connais pas le flip pong ?"
 
 # game/v7/v7.rpy:12101
 translate francais rileyhocodate_0e10bfbb:
 
     # la "You just try to flip a cup and once you successfully flipped it your team partner has to do the same thing."
-    la ""
+    la "Tu essais simplement de retourner un verre et une fois que tu l'as retournée avec succès, ton partenaire d'équipe doit faire la même chose."
 
 # game/v7/v7.rpy:12103
 translate francais rileyhocodate_08da18fb:
 
     # la "Whichever team flipped both their cups first wins the round and the other team has to take a shot."
-    la ""
+    la "L'équipe qui a retourné ses deux coupes en premier remporte la manche et l'autre équipe doit boire."
 
 # game/v7/v7.rpy:12108
 translate francais rileyhocodate_4a44db57:
 
     # u "Alright, seems easy enough."
-    u ""
+    u "D'accord, ça semble assez facile."
 
 # game/v7/v7.rpy:12113
 translate francais rileyhocodate_3616396b:
 
     # ri "Girls vs. guys."
-    ri ""
+    ri "Filles contre les garçons."
 
 # game/v7/v7.rpy:12118
 translate francais rileyhocodate_8be6dc0b:
 
     # ry "You're on."
-    ry ""
+    ry "Vous êtes sûres."
 
 # game/v7/v7.rpy:12130
 translate francais rileyhocodate_7aab53ba:
 
     # ry "Ready... and go!"
-    ry ""
+    ry "Prêt... et partez !"
 
 # game/v7/v7.rpy:12147
 translate francais rileyhocodate_27b32290:
 
     # u "Come on, come on!"
-    u ""
+    u "Allez allez !"
 
 # game/v7/v7.rpy:12154
 translate francais rileyhocodate_96354ac0:
 
     # u "You got this, man!"
-    u ""
+    u "Tu as ça, mec !"
 
 # game/v7/v7.rpy:12166
 translate francais rileyhocodate_f94bbcf9:
 
     # la "Oh my god! I got it. Come on Riley!"
-    la ""
+    la "Oh mon Dieu ! J'ai compris. Allez Riley !"
 
 # game/v7/v7.rpy:12183
 translate francais rileyhocodate_3f7d3722:
 
     # la "Yes!"
-    la ""
+    la "Oui!"
 
 # game/v7/v7.rpy:12188
 translate francais rileyhocodate_157e3f7c:
 
     # ri "Woooh!"
-    ri ""
+    ri "Ouaiii !"
 
 # game/v7/v7.rpy:12190
 translate francais rileyhocodate_534e9f22:
 
     # u "Damnit, Ryan."
-    u ""
+    u "Merde, Ryan."
 
 # game/v7/v7.rpy:12200
 translate francais rileyhocodate_886ba792:
 
     # ry "Beginner's luck. Let's go again."
-    ry ""
+    ry "La chance des débutants. Aller encore une fois."
 
 # game/v7/v7.rpy:12217
 translate francais rileyhocodate_e6eab8a3:
 
     # la "Yes, Riley!"
-    la ""
+    la "Oui, Riley !"
 
 # game/v7/v7.rpy:12229
 translate francais rileyhocodate_983f50dd:
 
     # ry "Nice one, [name]!"
-    ry ""
+    ry "Joli coup, [name]!"
 
 # game/v7/v7.rpy:12240
 translate francais rileyhocodate_0192e1df:
 
     # u "Hell yeah!"
-    u ""
+    u "Putain ouais !"
 
 # game/v7/v7.rpy:12245
 translate francais rileyhocodate_95cb01ea:
 
     # ri "Oh come on..."
-    ri ""
+    ri "Oh come on..."
 
 # game/v7/v7.rpy:12255
 translate francais rileyhocodate_d0a53aaa:
 
     # la "Last one. Loser team has to down four cups."
-    la ""
+    la "Le dernier coup. L'équipe perdante doit vider quatre verres."
 
 # game/v7/v7.rpy:12257
 translate francais rileyhocodate_86857b62:
 
     # u "You're on."
-    u ""
+    u "Vous êtes sûres"
 
 # game/v7/v7.rpy:12262
 translate francais rileyhocodate_870e5171:
 
     # la "Go!"
-    la ""
+    la "Allez !"
 
 # game/v7/v7.rpy:12276
 translate francais rileyhocodate_ee020e28:
 
     # u "Yes!"
-    u ""
+    u "Yes !"
 
 # game/v7/v7.rpy:12281
 translate francais rileyhocodate_aa2c2045:
 
     # la "Come on, Riley!"
-    la ""
+    la "Allez, Riley!"
 
 # game/v7/v7.rpy:12286
 translate francais rileyhocodate_125a2c8a:
 
     # ry "Bro, you got this!"
-    ry ""
+    ry "Frère, tu l'a fait !"
 
 # game/v7/v7.rpy:12297
 translate francais rileyhocodate_b9d3cbcd:
 
     # ri "Ahhh yeah!"
-    ri ""
+    ri "Ahhh ouais !"
 
 # game/v7/v7.rpy:12302
 translate francais rileyhocodate_b0eab939:
 
     # ri "Drink up, losers!"
-    ri ""
+    ri "Buvez, perdants !"
 
 # game/v7/v7.rpy:12317
 translate francais rileyhocodate_67123daa:
 
     # ri "You guys ready to go?"
-    ri ""
+    ri "Vous êtes prêts à partir ?"
 
 # game/v7/v7.rpy:12319
 translate francais rileyhocodate_d31c5132:
 
     # u "Yeah, let's go!"
-    u ""
+    u "Ouais, allons-y !"
 
 # game/v7/v7.rpy:12328
 translate francais rileyhocodate_74cd6c88:
 
     # ri "How cute!"
-    ri ""
+    ri "Comme c'est mignon!"
 
 # game/v7/v7.rpy:12333
 translate francais rileyhocodate_12799803:
 
     # ry "I'm pretty sure, I signed up to DJ, I'll see you later guys."
-    ry ""
+    ry "Je suis presque sûr, je me suis inscrit à DJ, je vous verrai plus tard les gars."
 
 # game/v7/v7.rpy:12338
 translate francais rileyhocodate_b31fb9a9:
 
     # u "Have fun, man."
-    u ""
+    u "Amuse-toi bien, mec."
 
 # game/v7/v7.rpy:12343
 translate francais rileyhocodate_57f67dd3:
 
     # la "I'm gonna go get settled in and talk to some of my friends."
-    la ""
+    la "Je vais aller m'installer et parler à certains de mes amis."
 
 # game/v7/v7.rpy:12348
 translate francais rileyhocodate_bc8143f8:
 
     # ri "Alright, see you later."
-    ri ""
+    ri "Bon, à plus tard."
 
 # game/v7/v7.rpy:12353
 translate francais rileyhocodate_ba8b4515:
 
     # ri "You ready to dance?"
-    ri ""
+    ri "Tu es prêt à danser ?"
 
 # game/v7/v7.rpy:12358
 translate francais rileyhocodate_1b28a406:
 
     # u "Of course."
-    u ""
+    u "Bien sûr."
 
 # game/v7/v7.rpy:12378
 translate francais rileyhocodate_5f3b5fab:
 
     # u "I'm gonna say hi to my friends real quick, if you don't mind."
-    u ""
+    u "Je vais dire bonjour à mes amis très vite, si ça ne vous dérange pas."
 
 # game/v7/v7.rpy:12383
 translate francais rileyhocodate_c4734137:
 
     # ri "Sure, I'll be here dancing."
-    ri ""
+    ri "Bien sûr, je serai là à danser."
 
 # game/v7/v7.rpy:12541
 translate francais fr4chloedate2_1806e5e3:
 
     # cl "Hey missed you over here."
-    cl ""
+    cl "Hé, tu m'as manqué ici."
 
 # game/v7/v7.rpy:12546
 translate francais fr4chloedate2_ca6fbcb9:
 
     # u "Wanna dance?"
-    u ""
+    u "Tu veux danser ?"
 
 # game/v7/v7.rpy:12551
 translate francais fr4chloedate2_0fa195c4:
 
     # cl "Yeah, of course. Why do you think I'm still on the dance floor?"
-    cl ""
+    cl "Ouais, bien sûr. Pourquoi penses-tu que je suis toujours sur la piste de danse ?"
 
 # game/v7/v7.rpy:12556
 translate francais fr4chloedate2_e493b464:
 
     # u "*Chuckles* True."
-    u ""
+    u "*Rires * Vrai."
 
 # game/v7/v7.rpy:12561
 translate francais fr4chloedate2_b65e7341:
 
     # ro "Ahem. Hello... Hello... Hi!"
-    ro ""
+    ro "Hum. Bonjour... Bonjour... Bonjour !"
 
 # game/v7/v7.rpy:12571
 translate francais fr4chloedate2_5e863585:
 
     # ro "So it's time for big announcement as you all know... time to announce the homecoming queen and king!"
-    ro ""
+    ro "C'est donc l'heure de la grande annonce, car vous savez tous... c'est l'heure d'annoncer le renne et le roi de la fête !"
 
 # game/v7/v7.rpy:12576
 translate francais fr4chloedate2_5be0576c:
 
     # "*Crowd cheers and applauds*"
-    ""
+    "* La foule applaudit *"
 
 # game/v7/v7.rpy:12581
 translate francais fr4chloedate2_b362a881:
 
     # ro "And your homecoming king is...."
-    ro ""
+    ro "Et votre roi est ...."
 
 # game/v7/v7.rpy:12583
 translate francais fr4chloedate2_bd3d18a4:
 
     # ro "Chris Jackson!"
-    ro ""
+    ro "Chris Jackson !"
 
 # game/v7/v7.rpy:12588
 translate francais fr4chloedate2_5be0576c_1:
 
     # "*Crowd cheers and applauds*"
-    ""
+    "* La foule applaudit *"
 
 # game/v7/v7.rpy:12593
 translate francais fr4chloedate2_e9f82a36:
 
     # ch "Thank you! Thank you!"
-    ch ""
+    ch "Merci ! Merci !"
 
 # game/v7/v7.rpy:12598
 translate francais fr4chloedate2_fa794c30:
 
     # ro "Congratulations Chris!"
-    ro ""
+    ro "Félicitations Chris !"
 
 # game/v7/v7.rpy:12603
 translate francais fr4chloedate2_f91f153d:
 
     # ro "Next up, your homecoming queen is...."
-    ro ""
+    ro "Ensuite, votre reine est ...."
 
 # game/v7/v7.rpy:12605
 translate francais fr4chloedate2_df5cfe33:
 
     # ro "Chloe Moralez!"
-    ro ""
+    ro "Chloé Moralez !"
 
 # game/v7/v7.rpy:12607
 translate francais fr4chloedate2_5be0576c_2:
 
     # "*Crowd cheers and applauds*"
-    ""
+    "* La foule applaudit *"
 
 # game/v7/v7.rpy:12612
 translate francais fr4chloedate2_34398882:
 
     # cl "That's my cue."
-    cl ""
+    cl "C'est mon signal."
 
 # game/v7/v7.rpy:12617
 translate francais fr4chloedate2_21417d05:
 
     # u "Go get 'em!"
-    u ""
+    u "Allez les chercher !"
 
 # game/v7/v7.rpy:12622
 translate francais fr4chloedate2_a2ca5d32:
 
     # "*Crowd continues to cheer*"
-    ""
+    "* La foule continue d'acclamer *"
 
 # game/v7/v7.rpy:12624
 translate francais fr4chloedate2_b1882e92:
 
-    # cl "Thanks guys!"
-    cl ""
+    # cl "Thanks guys !"
+    cl "Merci les gars! "
 
 # game/v7/v7.rpy:12629
 translate francais fr4chloedate2_97a619cf:
 
     # ro "Congrats Chloe!"
-    ro ""
+    ro "Félicitations Chloé !"
 
 # game/v7/v7.rpy:12634
 translate francais fr4chloedate2_0153b28f:
 
     # ro "Let's give it up for Chris and Chloe!!"
-    ro ""
+    ro "Faite une ovation pour Chris et Chloé !!"
 
 # game/v7/v7.rpy:12638
 translate francais fr4chloedate2_5be0576c_3:
 
     # "*Crowd cheers and applauds*"
-    ""
+    "* La foule applaudit *"
 
 # game/v7/v7.rpy:12643
 translate francais fr4chloedate2_00476b9b:
 
     # ro "Now it is a tradition that the king and queen dance with each other."
-    ro ""
+    ro "C'est maintenant une tradition que le roi et la reine dansent ensemble."
 
 # game/v7/v7.rpy:12655
 translate francais fr4chloedate2_2fd5aad6:
 
     # u "(Well this is great...)"
-    u ""
+    u "(Eh bien c'est super...)"
 
 # game/v7/v7.rpy:12660
 translate francais fr4chloedate2_cf68f838:
 
     # u "(Hmm...)"
-    u ""
+    u "(Hmm ...)"
 
 # game/v7/v7.rpy:12672
 translate francais fr4chloedate2_56f1fda5:
 
     # u "Hey... you wanna dance?"
-    u ""
+    u "Hé... tu veux danser ?"
 
 # game/v7/v7.rpy:12677
 translate francais fr4chloedate2_e0c28ac5:
 
     # no "Uhm..."
-    no ""
+    no "Euh..."
 
 # game/v7/v7.rpy:12681
 translate francais fr4chloedate2_0b9a37e4:
 
     # no "Yeah, why not."
-    no ""
+    no "Ouais pourquoi pas."
 
 # game/v7/v7.rpy:12686
 translate francais fr4chloedate2_da52a567:
 
     # u "Cool."
-    u ""
+    u "Cool"
 
 # game/v7/v7.rpy:12691
 translate francais fr4chloedate2_dde35bd2:
 
     # no "Guess we can't let our dates have all the fun."
-    no ""
+    no "Je suppose que nous ne pouvons pas laisser nos partenaires s'amuser tout seuls."
 
 # game/v7/v7.rpy:12696
 translate francais fr4chloedate2_1143b92a:
 
     # u "Exactly. You having a good night?"
-    u ""
+    u "Exactement. Tu passe une bonne soirée ?"
 
 # game/v7/v7.rpy:12701
 translate francais fr4chloedate2_a3fe0c58:
 
     # no "Can't complain, well not too much at least. But you know Chris, Mr. Popular."
-    no ""
+    no "Je ne peux pas me plaindre, enfin pas trop du moins. Mais tu connais Chris, M. Populaire."
 
 # game/v7/v7.rpy:12706
 translate francais fr4chloedate2_f67ad3ee:
 
     # u "Well I'm glad you're at least having a good time."
-    u ""
+    u "Eh bien, je suis content que tu passes au moins un bon moment."
 
 # game/v7/v7.rpy:12711
 translate francais fr4chloedate2_b45f91e5:
 
     # no "Haha at least the best I could in this shitty place."
-    no ""
+    no "Haha au moins du mieux que j'ai pu dans cet endroit de merde."
 
 # game/v7/v7.rpy:12716
 translate francais fr4chloedate2_aed8b6a8:
 
     # u "Oh come on. It's not that bad."
-    u ""
+    u "Oh allez. C'est pas si mal."
 
 # game/v7/v7.rpy:12721
 translate francais fr4chloedate2_1d19f272:
 
     # no "Well it's not hell if that's what you mean."
-    no ""
+    no "Et bien ce n'est pas l'enfer si c'est ce que tu veux dire."
 
 # game/v7/v7.rpy:12726
 translate francais fr4chloedate2_b54e4039:
 
     # u "Haha."
-    u ""
+    u "Haha."
 
 # game/v7/v7.rpy:12731
 translate francais fr4chloedate2_d47fc1a6:
 
     # ch "You guys having fun?"
-    ch ""
+    ch "Vous vous amusez bien ?"
 
 # game/v7/v7.rpy:12736
 translate francais fr4chloedate2_0cc4b1ef:
 
     # u "Haha yeah, congrats!"
-    u ""
+    u "Haha ouais, félicitations !"
 
 # game/v7/v7.rpy:12741
 translate francais fr4chloedate2_304ad7a0:
 
     # ch "Yeah, yeah. Thanks man."
-    ch ""
+    ch "Yeah Yeah. Merci mec."
 
 # game/v7/v7.rpy:12746
 translate francais fr4chloedate2_96c88331:
 
     # ch "Wanna get a drink?"
-    ch ""
+    ch "Envie de boire un verre ?"
 
 # game/v7/v7.rpy:12751
 translate francais fr4chloedate2_abdad94a:
 
     # no "Sure."
-    no ""
+    no "Bien sûr"
 
 # game/v7/v7.rpy:12761
 translate francais fr4chloedate2_f72c9fa8:
 
     # cl "Now for that dance?"
-    cl ""
+    cl "Maintenant pour cette danse ?"
 
 # game/v7/v7.rpy:12766
 translate francais fr4chloedate2_1cbcf91e:
 
     # u "Finally, haha."
-    u ""
+    u "Enfin, haha."
 
 # game/v7/v7.rpy:12771
 translate francais fr4chloedate2_90d3eb61:
 
     # no "I don't really feel like dancing, sorry."
-    no ""
+    no "Je n'ai pas vraiment envie de danser, désolé."
 
 # game/v7/v7.rpy:12776
 translate francais fr4chloedate2_88d2dbb1:
 
     # u "Oh, okay."
-    u ""
+    u "Oh d'accord."
 
 # game/v7/v7.rpy:12779
 translate francais fr4chloedate2_f82617d7:
 
     # no "I don't."
-    no ""
+    no "Non ."
 
 # game/v7/v7.rpy:12784
 translate francais fr4chloedate2_41892409:
 
     # u "Uh, okay..."
-    u ""
+    u "Euh, d'accord..."
 
 # game/v7/v7.rpy:12787
 translate francais fr4chloedate2_8e0f1c69:
 
     # u "(I'll leave her be.)"
-    u ""
+    u "(Je vais la laisser tranquille.)"
 
 # game/v7/v7.rpy:12798
 translate francais walk_to_ryan_649ad9c0:
 
     # u "Hey, what's up?"
-    u ""
+    u "Hey, qu'est-ce qu'il y a ?"
 
 # game/v7/v7.rpy:12803
 translate francais walk_to_ryan_546fb5e7:
 
     # ry "Hey."
-    ry ""
+    ry "Hey."
 
 # game/v7/v7.rpy:12808
 translate francais walk_to_ryan_fbd4a226:
 
     # u "How's the DJing?"
-    u ""
+    u "Comment est le DJ ?"
 
 # game/v7/v7.rpy:12813
 translate francais walk_to_ryan_deffb979:
 
     # ry "It's good, just wish there were more girls coming by, that's kinda why I offered to do it."
-    ry ""
+    ry "C'est bien, j'aimerais juste qu'il y ait plus de filles qui passent, c'est un peu pourquoi j'ai proposé de le faire."
 
 # game/v7/v7.rpy:12818
 translate francais walk_to_ryan_6c76b714:
 
     # u "Haha, I feel you."
-    u ""
+    u "Haha, je te reconnais."
 
 # game/v7/v7.rpy:12823
 translate francais walk_to_ryan_4fab62a6:
 
     # cl "Hey, sorry about that."
-    cl ""
+    cl "Hé, désolé pour ça."
 
 # game/v7/v7.rpy:12828
 translate francais walk_to_ryan_7255585c:
 
     # u "Congrats!"
-    u ""
+    u "Félicitations!"
 
 # game/v7/v7.rpy:12833
 translate francais walk_to_ryan_caa8acaa:
 
     # cl "Oh yeah, thanks!"
-    cl ""
+    cl "Ah ouais, merci !"
 
 # game/v7/v7.rpy:12835
 translate francais walk_to_ryan_f72c9fa8:
 
     # cl "Now for that dance?"
-    cl ""
+    cl "Maintenant pour cette danse ?"
 
 # game/v7/v7.rpy:12840
 translate francais walk_to_ryan_1cbcf91e:
 
     # u "Finally, haha."
-    u ""
+    u "Enfin, haha."
 
 # game/v7/v7.rpy:12850
 translate francais chloe_dance_4f85c72d:
 
     # cl "I hope you're a better dancer than Chris."
-    cl ""
+    cl "J'espère que tu es un meilleur danseur que Chris."
 
 # game/v7/v7.rpy:12855
 translate francais chloe_dance_d68a50df:
 
     # u "*Chuckles* What do you mean?"
-    u ""
+    u "*Rires* Qu'est-ce que tu veux dire ?"
 
 # game/v7/v7.rpy:12860
 translate francais chloe_dance_98ac6360:
 
     # cl "I don't know if he's just really uncoordinated, or was just enjoying the spotlight a bit too much, but he didn't really lead well *Laughs*."
-    cl ""
+    cl "Je ne sais pas s'il est juste vraiment mal coordonné, ou s'il profitait juste un peu trop des projecteurs, mais il n'a pas vraiment bien dirigé la dance*Rires*."
 
 # game/v7/v7.rpy:12865
 translate francais chloe_dance_e5a6a9fe:
 
     # u "He doesn't strike me as the kinda guy to get blinded by the spotlight, haha."
-    u ""
+    u "Il ne me semble pas du genre à être aveuglé par les projecteurs, haha."
 
 # game/v7/v7.rpy:12870
 translate francais chloe_dance_b2e1570a:
 
     # cl "I've known him for a while now and I'm not sure he's as much of a good guy as you think."
-    cl ""
+    cl "Je le connais depuis un moment maintenant et je ne suis pas sûr qu'il soit aussi bien que tu le pense."
 
 # game/v7/v7.rpy:12872
 translate francais chloe_dance_59f29ec3:
 
     # cl "I don't really get along with Nora, but even I see how poorly he treats her sometimes."
-    cl ""
+    cl "Je ne m'entends pas vraiment avec Nora, mais même je vois à quel point il la traite mal parfois."
 
 # game/v7/v7.rpy:12877
 translate francais chloe_dance_257f9e53:
 
     # u "I mean he's just very busy-"
-    u ""
+    u "Je veux dire qu'il est juste très occupé-"
 
 # game/v7/v7.rpy:12882
 translate francais chloe_dance_94b32f7b:
 
     # cl "Being a fraternity president is exhausting, but it doesn't mean you can treat the people around you like they're unimportant."
-    cl ""
+    cl "Être président de fraternité est épuisant, mais cela ne signifie pas que vous pouvez traiter les gens autour de vous comme s'ils n'avaient pas d'importance."
 
 # game/v7/v7.rpy:12884
 translate francais chloe_dance_47469c82:
 
     # cl "He always acts like this super nice guy, but some of the shit he's done..."
-    cl ""
+    cl "Il agit toujours comme ce gars super sympa, mais une partie de ce qu'il fait est de la merde..."
 
 # game/v7/v7.rpy:12889
 translate francais chloe_dance_18099162:
 
     # u "What has he done?"
-    u ""
+    u "Qu'a t-il fait?"
 
 # game/v7/v7.rpy:12894
 translate francais chloe_dance_d944a519:
 
     # cl "Look, I don't want our night to revolve around him as well, let's just talk about something else okay?"
-    cl ""
+    cl "Écoute, je ne veux pas que notre nuit tourne aussi autour de lui, parlons juste d'autre chose d'accord ?"
 
 # game/v7/v7.rpy:12899
 translate francais chloe_dance_2be5d203:
 
     # u "Yeah, of course."
-    u ""
+    u "Ouais, bien sûr."
 
 # game/v7/v7.rpy:12904
 translate francais chloe_dance_ca7caa91:
 
     # cl "I'm so glad, I'm here with you."
-    cl ""
+    cl "Je suis si contente, je suis ici avec toi."
 
 # game/v7/v7.rpy:12909
 translate francais chloe_dance_95d38d61:
 
     # u "Haha, me too."
-    u ""
+    u "Haha moi aussi."
 
 # game/v7/v7.rpy:12914
 translate francais chloe_dance_3cda9b47:
 
     # cl "And yet... I feel like I'd rather be somewhere else with you."
-    cl ""
+    cl "Et pourtant... J'ai l'impression que je préfère être ailleurs avec toi."
 
 # game/v7/v7.rpy:12919
 translate francais chloe_dance_d68a50df_1:
 
     # u "*Chuckles* What do you mean?"
-    u ""
+    u "*Rires* Qu'est-ce que tu veux dire ?"
 
 # game/v7/v7.rpy:12924
 translate francais chloe_dance_6556e983:
 
     # cl "How about we leave early and go back to mine instead?"
-    cl ""
+    cl "Que dirais-tu de partir tôt et de retourner chez moi à la place ?"
 
 # game/v7/v7.rpy:12929
 translate francais chloe_dance_911f1c7e:
 
     # u "*Gulp* Hell yeah, that sounds pretty good to me."
-    u ""
+    u "* Dégluti * Ah un peu ouais, ça me semble plutôt bien."
 
 # game/v7/v7.rpy:12934
 translate francais chloe_dance_a385ae39:
 
     # cl "That's what I thought. Let's go."
-    cl ""
+    cl "C'est ce que je pensais. Allons-y."
 
 # game/v7/v7.rpy:12949
 translate francais fr4emilydate2_e58f8fa8:
 
     # u "Woah woah woah. Slow down there."
-    u ""
+    u "Woah woah woah. Ralentis là."
 
 # game/v7/v7.rpy:12954
 translate francais fr4emilydate2_2862a5fc:
 
     # em "Come on! Don't be lame! Dance with me."
-    em ""
+    em "Allez! Ne sois pas boiteux ! Danse avec moi."
 
 # game/v7/v7.rpy:12959
 translate francais fr4emilydate2_42c2c45e:
 
     # u "Alright, alright."
-    u ""
+    u "D'accord, d'accord."
 
 # game/v7/v7.rpy:12984
 translate francais fr4emilydate2_5ca9d32e:
 
     # em "Look what I hid under my dress."
-    em ""
+    em "Regarde ce que j'ai caché sous ma robe."
 
 # game/v7/v7.rpy:12989
 translate francais fr4emilydate2_cfa013be:
 
     # u "Don't you think you had enough?"
-    u ""
+    u "Tu Ne pense pas que tu en as eu assez?"
 
 # game/v7/v7.rpy:12994
 translate francais fr4emilydate2_8c4b8e46:
 
     # em "Don't be all psycho on me. This isn't high school anymore."
-    em ""
+    em "Ne sois pas complètement psychorigide avec moi. Ce n'est plus le lycée."
 
 # game/v7/v7.rpy:12999
 translate francais fr4emilydate2_e1fb5f54:
 
     # u "Calm down, I just don't want you to throw up."
-    u ""
+    u "Calme-toi, je ne veux pas que tu vomisses."
 
 # game/v7/v7.rpy:13004
 translate francais fr4emilydate2_084b5e9a:
 
     # em "Jeez, just let me enjoy myself."
-    em ""
+    em "Bon sang, laisse-moi juste m'amuser."
 
 # game/v7/v7.rpy:13009
 translate francais fr4emilydate2_c0137290:
 
     # u "Alright, whatever."
-    u ""
+    u "D'accord, peu importe."
 
 # game/v7/v7.rpy:13014
 translate francais fr4emilydate2_b0f01b66:
 
     # u "Well this is like prom again isn't it? You and me, dancing."
-    u ""
+    u "Eh bien, c'est encore comme le bal, n'est-ce pas? Toi et moi, on danse."
 
 # game/v7/v7.rpy:13019
 translate francais fr4emilydate2_ef75d0da:
 
     # em "Yeah... we should get more drinks."
-    em ""
+    em "Ouais... on devrait prendre plus de verres."
 
 # game/v7/v7.rpy:13024
 translate francais fr4emilydate2_24b278d2:
 
     # u "Didn't you just-"
-    u ""
+    u "Ne viens-tu pas de-"
 
 # game/v7/v7.rpy:13029
 translate francais fr4emilydate2_363b918d:
 
     # em "*Gags*"
-    em ""
+    em "*Rote*"
 
 # game/v7/v7.rpy:13034
 translate francais fr4emilydate2_7dadae3c:
 
     # em "Shit, I think I'm gonna be sick."
-    em ""
+    em "Merde, je pense que je vais être malade."
 
 # game/v7/v7.rpy:13044
 translate francais fr4emilydate2_2e4a8818:
 
     # u "Emily?"
-    u ""
+    u "Emily ?"
 
 # game/v7/v7.rpy:13049
 translate francais fr4emilydate2_b223985c:
 
     # em "*Throwing up*"
-    em ""
+    em "* Vomis *"
 
 # game/v7/v7.rpy:13054
 translate francais fr4emilydate2_8b4aabeb:
 
     # u "You okay?"
-    u ""
+    u "Tu vas bien ?"
 
 # game/v7/v7.rpy:13059
 translate francais fr4emilydate2_85d9d32a:
 
     # em "Does it sound like I'm okay? Just leave me alone!"
-    em ""
+    em "Est-ce que j'ai l'air d'aller bien ? Laisse moi seul !"
 
 # game/v7/v7.rpy:13066
 translate francais fr4emilydate2_ff93ed26:
 
     # u "Look, I'm sorry. Just let me help you."
-    u ""
+    u "Écoute, je suis désolé. Laisse moi juste t'aider."
 
 # game/v7/v7.rpy:13071
 translate francais fr4emilydate2_073e7b69:
 
     # em "Please just leave me alone. I don't want you to see me like this. We'll talk tomorrow."
-    em ""
+    em "S'il te plaît, laisse-moi tranquille. Je ne veux pas que tu me vois comme ça. On parlera demain."
 
 # game/v7/v7.rpy:13076
 translate francais fr4emilydate2_399615ab:
 
     # u "Tomorrow? I can wait outside till you feel better."
-    u ""
+    u "Demain? Je peux attendre dehors jusqu'à ce que tu te sentes mieux."
 
 # game/v7/v7.rpy:13081
 translate francais fr4emilydate2_e6ea6dad:
 
     # em "I just wanna be alone... I'm sorry, okay?"
-    em ""
+    em "Je veux juste être seul... Je suis désolé, d'accord ?"
 
 # game/v7/v7.rpy:13086
 translate francais fr4emilydate2_65ad28e6:
 
     # u "Alright, I guess I'll see you tomorrow."
-    u ""
+    u "D'accord, je suppose que je te verrai demain."
 
 # game/v7/v7.rpy:13091
 translate francais fr4emilydate2_b223985c_1:
 
     # em "*Throwing up*"
-    em ""
+    em "* Vomis *"
 
 # game/v7/v7.rpy:13097
 translate francais fr4emilydate2_fd1ee933:
 
     # u "I told you to stop drinking Emily. You never fucking listen!"
-    u ""
+    u "Je t'ai dit d'arrêter de boire Emily. Putain, tu n'écoutes jamais !"
 
 # game/v7/v7.rpy:13102
 translate francais fr4emilydate2_c10b8b8e:
 
     # em "Really?! You're gonna start that right now? You're such an asshole."
-    em ""
+    em "Vraiment ?! Tu vas commencer ça tout de suite ? Tu es un sale connard."
 
 # game/v7/v7.rpy:13107
 translate francais fr4emilydate2_4c1e4859:
 
     # u "You know what Emily, fuck this. I'm going."
-    u ""
+    u "Tu sais quoi Emily, je t'emmerde. Je me casse."
 
 # game/v7/v7.rpy:13112
 translate francais fr4emilydate2_e8c6f135:
 
     # em "Go ahead! Leave me the fuck alone!"
-    em ""
+    em "Vas-y! Laisse-moi tranquille !"
 
 # game/v7/v7.rpy:13117
 translate francais fr4emilydate2_b223985c_2:
 
     # em "*Throwing up*"
-    em ""
+    em "* Vomis *"
 
 # game/v7/v7.rpy:13122
 translate francais fr4emilydate2_3cdecba6:
 
     # u "(I guess I'll just go home.)"
-    u ""
+    u "(Je suppose que je vais juste rentrer à la maison.)"
 
 # game/v7/v7.rpy:13127
 translate francais fr4emilydate2_40861aea:
 
     # ri "Hey [name]."
-    ri ""
+    ri "Salut [name]."
 
 # game/v7/v7.rpy:13133
 translate francais fr4emilydate2_e415941c:
 
     # u "Oh, hey Riley, didn't you say you wanted to go home?"
-    u ""
+    u "Oh, salut Riley, tu n'as pas dit que tu voulais rentrer à la maison ?"
 
 # game/v7/v7.rpy:13138
 translate francais fr4emilydate2_9d1f6a66:
 
     # ri "Yeah, but some friends held me here..."
-    ri ""
+    ri "Ouais, mais des amis m'ont retenu ici..."
 
 # game/v7/v7.rpy:13140
 translate francais fr4emilydate2_94d84130:
 
     # ri "Where are you going?"
-    ri ""
+    ri "Où vas-tu ?"
 
 # game/v7/v7.rpy:13145
 translate francais fr4emilydate2_edc8d7e8:
 
     # u "I was just heading out."
-    u ""
+    u "Je sortais juste."
 
 # game/v7/v7.rpy:13150
 translate francais fr4emilydate2_5346a983:
 
     # ri "So you wanna walk home together and maybe hang out for a bit?"
-    ri ""
+    ri "Alors tu veux qu'on rentre à la maison ensemble et peut-être on pourrait traîner un peu ?"
 
 # game/v7/v7.rpy:13155
 translate francais fr4emilydate2_4c5d7b2a:
 
     # u "Sure. Emily said she wants to be alone anyway."
-    u ""
+    u "Sûr. Emily a dit qu'elle voulait être seule de toute façon."
 
 # game/v7/v7.rpy:13160
 translate francais fr4emilydate2_8a11ee0c:
 
     # u "Oh, hey Riley."
-    u ""
+    u "Oh, salut Riley."
 
 # game/v7/v7.rpy:13165
 translate francais fr4emilydate2_94d84130_1:
 
     # ri "Where are you going?"
-    ri ""
+    ri "Où vas-tu ?"
 
 # game/v7/v7.rpy:13170
 translate francais fr4emilydate2_edc8d7e8_1:
 
     # u "I was just heading out."
-    u ""
+    u "Je sortais juste."
 
 # game/v7/v7.rpy:13175
 translate francais fr4emilydate2_dc88673b:
 
     # ri "Oh, me too. Where's Emily?"
-    ri ""
+    ri "Oh moi aussi. Où est Emily ?"
 
 # game/v7/v7.rpy:13180
 translate francais fr4emilydate2_5518bd23:
 
     # u "She's uhm... she just wants to be alone right now."
-    u ""
+    u "Elle est euh... elle veut juste être seule maintenant."
 
 # game/v7/v7.rpy:13185
 translate francais fr4emilydate2_72fe9b85:
 
     # ri "Oh okay."
-    ri ""
+    ri "Oh d'accord."
 
 # game/v7/v7.rpy:13190
 translate francais fr4emilydate2_d48703b3:
 
     # ri "You wanna walk home together and maybe hang out for a bit?"
-    ri ""
+    ri "Vous voulez rentrer à la maison ensemble et peut-être traîner un peu ?"
 
 # game/v7/v7.rpy:13195
 translate francais fr4emilydate2_37fe551f:
 
     # u "Sure."
-    u ""
+    u "Sûre."
 
 # game/v7/v7.rpy:13205
 translate francais fr4laurendate2_98deb391:
 
     # u "There's my beautiful lady."
-    u ""
+    u "Voilà ma belle dame."
 
 # game/v7/v7.rpy:13210
 translate francais fr4laurendate2_057acc6a:
 
     # la "Was wondering where my noble steed went? Off having fun?"
-    la ""
+    la "Je me demandais où était passé mon noble destrier ? Envie de t'amuser ?"
 
 # game/v7/v7.rpy:13215
 translate francais fr4laurendate2_a8ce2bcc:
 
     # u "Haha I guess you could say that. Just mingling."
-    u ""
+    u "Haha, je suppose que vous pourriez dire ça. Juste se mêler."
 
 # game/v7/v7.rpy:13220
 translate francais fr4laurendate2_d608df94:
 
     # la "Well, I'm glad you're back."
-    la ""
+    la "Eh bien, je suis content que tu sois de retour."
 
 # game/v7/v7.rpy:13225
 translate francais fr4laurendate2_b65e7341:
 
     # ro "Ahem. Hello... Hello... Hi!"
-    ro ""
+    ro "Hum. Bonjour... Bonjour... Bonjour !"
 
 # game/v7/v7.rpy:13235
 translate francais fr4laurendate2_5e863585:
 
     # ro "So it's time for big announcement as you all know... time to announce the homecoming queen and king!"
-    ro ""
+    ro "C'est donc l'heure de la grande annonce, comme vous le savez tous... il est temps d'annoncer la reine et le roi de la fête !"
 
 # game/v7/v7.rpy:13240
 translate francais fr4laurendate2_5be0576c:
