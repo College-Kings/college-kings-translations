@@ -790,7 +790,7 @@ translate francais fs_bd_8ba4c076:
 translate francais fs_bd_fe97a2f3:
 
     # imre "Well I was banging on this bastard's door, but he was too pussy to open."
-    imre "Eh bien, je frappais à la porte de ce batard, mais il était trop poule mouillée pour ouvrir."
+    imre "Eh bien, je frappais à la porte de ce batard, mais il était trop couille molle pour ouvrir."
 
 # game/v6/v6.rpy:939
 translate francais fs_bd_b9efbe3c:
@@ -4515,7 +4515,7 @@ translate francais wehere_5dbc255b:
 translate francais wehere_87767ff4:
 
     # gr "So in other words, a winner is an Ape. An Ape doesn't let any fucker step on him. An Ape isn't a pussy."
-    gr "Donc, en d'autres termes, un gagnant est un Apes. Un Apes ne laisse aucun connard lui marcher dessus. Un Apes n'est pas un poule mouillée."
+    gr "Donc, en d'autres termes, un gagnant est un Apes. Un Apes ne laisse aucun connard lui marcher dessus. Un Apes n'est pas un couille molle."
 
 # game/v6/v6.rpy:4762
 translate francais wehere_3fcc46a3:
@@ -9999,7 +9999,7 @@ translate francais v6_fr3josh3_26670bd0:
 translate francais v6_fr3josh3_34d8dde9:
 
     # ki "It's pussyman!"
-    ki "Poule mouillée !"
+    ki "couille molle !"
 
 # game/v6/v6.rpy:9731
 translate francais v6_fr3josh3_3e272c98:
@@ -10011,7 +10011,7 @@ translate francais v6_fr3josh3_3e272c98:
 translate francais v6_fr3josh3_1d3f8f44:
 
     # ki "Shut up pussyman!"
-    ki "Tais-toi poule mouillée !"
+    ki "Tais-toi couille molle !"
 
 # game/v6/v6.rpy:9741
 translate francais v6_fr3josh3_f422715f:

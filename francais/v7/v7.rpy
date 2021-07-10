@@ -5812,7 +5812,7 @@ translate francais ep7_fight_cam_09faf937:
 translate francais ep7_fight_cam_5ae30b14:
 
     # ca "I knew it. You're a pussy."
-    ca "Je le savais. Tu était une poule mouillée."
+    ca "Je le savais. Tu était une couille molle."
 
 # game/v7/v7.rpy:5112
 translate francais ep7_fight_cam_a461faa0:
@@ -6118,13 +6118,13 @@ translate francais ep7_cam_picture_ff223546:
 translate francais ep7_cam_picture_be773676:
 
     # ca "Damn! You really are a pussy ass bitch!"
-    ca "Mince! Tu es vraiment une putain de poule mouillée !"
+    ca "Mince! Tu es vraiment une putain de couille molle !"
 
 # game/v7/v7.rpy:5341
 translate francais ep7_cam_picture_fa802f81:
 
     # ca "Haha! Pussy ass dumb little bitch!"
-    ca "Haha ! Stupide petite salope de poule mouillée !"
+    ca "Haha ! Stupide petite salope de couille molle !"
 
 # game/v7/v7.rpy:5345
 translate francais ep7_cam_picture_a461faa0:
@@ -7414,7 +7414,7 @@ translate francais cam_task_2_4ae750da:
 translate francais cam_task_2_d3bb6727:
 
     # ca "It's time for your first video. Don't fuckin' pussy out like last time."
-    ca "C'est l'heure de ta première vidéo. Ne fait pas ta poule mouillée comme la dernière fois."
+    ca "C'est l'heure de ta première vidéo. Ne fait pas ta couille molle comme la dernière fois."
 
 # game/v7/v7.rpy:6374
 translate francais cam_task_2_6d3faa40:
@@ -7474,7 +7474,7 @@ translate francais cam_task_2_88a244f3:
 translate francais cam_task_2_57ed84d0:
 
     # ca "You either do it, or pussy out. What's it gonna be?"
-    ca "Soit tu le fait, soit t'est une poule mouillée. Qu'est-ce que ça va être ?"
+    ca "Soit tu le fait, soit t'est une couille molle. Qu'est-ce que ça va être ?"
 
 # game/v7/v7.rpy:6417
 translate francais cam_task_2_55e95ae0:
@@ -8548,7 +8548,7 @@ translate francais cameron_thurs_tasks_6a64b28f:
 translate francais cameron_thurs_tasks_0561a74f:
 
     # ca "Stab me you pussy!" with hpunch
-    ca "Poignarde-moi poule mouillée !" with hpunch
+    ca "Poignarde-moi couille molle !" with hpunch
 
 # game/v7/v7.rpy:7445
 translate francais cameron_thurs_tasks_91e8d7c4:
@@ -8794,7 +8794,7 @@ translate francais av_crickets_no_drop_46e8c64a:
 translate francais av_crickets_no_drop_71cb3ea7:
 
     # ca "Man, you're such a pussy!"
-    ca "Mec, tu es une putain de poule mouillée !"
+    ca "Mec, tu es une putain de couille molle !"
 
 # game/v7/v7.rpy:7767
 translate francais av_crickets_no_drop_a8741d88:
@@ -16672,7 +16672,7 @@ translate francais fr4grayson1_690a2047:
 translate francais fr4grayson1_98084e78:
 
     # gr "What's up, pussy? You about to police my ass?"
-    gr "Quoi de neuf, poule mouillée ? Tu es sur le point de surveiller mon cul ?"
+    gr "Quoi de neuf, couille molle ? Tu es sur le point de me flicker ?"
 
 # game/v7/v7.rpy:16263
 translate francais fr4grayson1_4fce0966:
