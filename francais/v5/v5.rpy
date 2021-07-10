@@ -2572,7 +2572,7 @@ translate francais hospitala_609b11d6:
 translate francais hospitala_ed3d4204:
 
     # imre "I have thought this through. I'm not gonna sit here looking like a little bitch. I'm gonna make him regret what he did."
-    imre "J'y ai réfléchi. Je ne vais resté assis ici en ayant l'air d'une poule mouillée. Je vais lui faire regretter ce qu'il a fait."
+    imre "J'y ai réfléchi. Je ne vais resté assis ici en ayant l'air d'une couille molle. Je vais lui faire regretter ce qu'il a fait."
 
 # game/v5/v5.rpy:2546
 translate francais hospitala_119cde44:

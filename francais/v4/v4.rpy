@@ -142,7 +142,7 @@ translate francais v4start_f42f951a:
 translate francais v4start_bed1b982:
 
     # imre "I'll fuck him up myself! *winces in pain* Or do I look like a bitch to you?"
-    imre "Je vais le défoncer moi-même ! * grimace de douleur * Ou est-ce que je ressemble à une poule mouillée pour toi ?"
+    imre "Je vais le défoncer moi-même ! * grimace de douleur * Ou est-ce que je ressemble à une couille molle pour toi ?"
 
 # game/v4/v4.rpy:147
 translate francais v4start_d646d5e5:
