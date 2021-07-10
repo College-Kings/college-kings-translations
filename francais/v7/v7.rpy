@@ -6562,7 +6562,7 @@ translate francais ep7_before_history_e03c78bc_1:
 translate francais ep7_before_history_786166e0:
 
     # u "{size=-5}Come with me princess. I'm your knight in shining armor *laughs*{/size}"
-    u "{size=-5} Viens avec moi princesse. Je suis ton chevalier en armure brillante *rires* {/size}
+    u "{size=-5} Viens avec moi princesse. Je suis ton chevalier en armure brillante *rires* {/size}"
 
 # game/v7/v7.rpy:5708
 translate francais ep7_before_history_a1836413:

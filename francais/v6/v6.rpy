@@ -994,7 +994,7 @@ translate francais continuebd_8831e416_1:
 translate francais continuebd_fa1de463_1:
 
     # la "I gotta go, I have to finish a paper. I'll see you later."
-	la "Je dois y aller, je dois finir un papier. À plus tard."
+    la "Je dois y aller, je dois finir un papier. À plus tard."
 
 # game/v6/v6.rpy:1233
 translate francais continuebd_daa843ad_1:
