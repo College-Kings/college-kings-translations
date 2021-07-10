@@ -18020,7 +18020,7 @@ translate francais strings:
 
     # game/v7/v7.rpy:1374
     old "You put the hot into thot"
-    new "Tu mets le chaud dans le thot"
+    new "Tu est sexy, très sexy."
 
     # game/v7/v7.rpy:1375
     old "You still single?"
