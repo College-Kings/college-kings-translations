@@ -6562,7 +6562,7 @@ translate francais ep7_before_history_e03c78bc_1:
 translate francais ep7_before_history_786166e0:
 
     # u "{size=-5}Come with me princess. I'm your knight in shining armor *laughs*{/size}"
-    u "{size=-5} Viens avec moi princesse. Je suis ton chevalier en armure brillante *rires* {/size}
+    u "{size=-5} Viens avec moi princesse. Je suis ton chevalier en armure brillante *rires* {/size}"
 
 # game/v7/v7.rpy:5708
 translate francais ep7_before_history_a1836413:
@@ -7618,7 +7618,7 @@ translate francais after_cam_history_5c4c6136:
 translate francais after_cam_history_cfa897e7:
 
     # u "(I still need to ask a girl as well as rent a suit.)"
-    u "(J'ai encore besoin de demander à une fille et de louer un costume.)""
+    u "(J'ai encore besoin de demander à une fille et de louer un costume.)"
 
 # game/v7/v7.rpy:6564
 translate francais after_cam_history_344eb2f4:
@@ -10006,7 +10006,7 @@ translate francais rifingering_9ea2f78c_1:
 translate francais rimissionary_d407f199:
 
     # ri "*Moans louder* Holy shit!"
-    ri "*Gémit plus fort* Putain de merde !""
+    ri "*Gémit plus fort* Putain de merde !"
 
 # game/v7/v7.rpy:9145
 translate francais rimissionary_9ea2f78c:
