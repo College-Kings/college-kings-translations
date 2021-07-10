@@ -17824,11 +17824,11 @@ translate francais strings:
 
     # game/v7/v7.rpy:3
     old "Lol, pussy"
-    new ""
+    new "Lol, couille molle"
 
     # game/v7/v7.rpy:7
     old "Slide into her DMs bro!"
-    new ""
+    new "Envoie lui un message, frero !"
 
     # game/v7/v7.rpy:15
     old "Yeah, they really are"
@@ -17836,7 +17836,7 @@ translate francais strings:
 
     # game/v7/v7.rpy:19
     old "Bring it on!"
-    new "Amène"
+    new "Amène toi !"
 
     # game/v7/v7.rpy:23
     old "lol"
@@ -17976,7 +17976,7 @@ translate francais strings:
 
     # game/v7/v7.rpy:1361
     old "SO FUCKING HOT WTFFF"
-    new "TELLEMENT CANON BORDEL"
+    new "TELLEMENT CANON !!!"
 
     # game/v7/v7.rpy:1362
     old "Where did you get that bikini?"
@@ -17984,7 +17984,7 @@ translate francais strings:
 
     # game/v7/v7.rpy:1363
     old "I can't remember :("
-    new "je ne me souviens plus :("
+    new "je ne m'en souviens plus :("
 
     # game/v7/v7.rpy:1364
     old "You're so beautiful!"
@@ -18236,7 +18236,7 @@ translate francais strings:
 
     # game/v7/v7.rpy:5238
     old "Take the slip"
-    new "Prendre la glissade"
+    new "Prendre le numéro"
 
     # game/v7/v7.rpy:5318
     old "Call her"
@@ -18304,7 +18304,7 @@ translate francais strings:
 
     # game/v7/v7.rpy:6463
     old "Pull it"
-    new "Le prendre"
+    new "Lui baisser le pantalon"
 
     # game/v7/v7.rpy:6463
     old "..."
@@ -18512,11 +18512,11 @@ translate francais strings:
 
     # game/v7/v7.rpy:16010
     old "I'll let you get back."
-    new ""
+    new "Je vais te laisser rappeler ton amie."
 
     # game/v7/v7.rpy:16115
     old "You got this."
-    new "Tu as ça."
+    new "Tu l'a fait."
 
     # game/v7/v7.rpy:16115
     old "Or we could just leave."
@@ -18540,7 +18540,7 @@ translate francais strings:
 
     # game/v7/v7.rpy:16860
     old "Play along"
-    new ""
+    new "Jouer le jeu"
 
     # game/v7/v7.rpy:16860
     old "Tell them truth"
