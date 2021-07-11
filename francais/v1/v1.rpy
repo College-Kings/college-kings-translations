@@ -671,7 +671,7 @@ translate francais ad_db_b14d8766:
 translate francais ad_db_d9d3333a:
 
     # u "Knock yourself out... Fighting is not really for me."
-    u "Tape toi les si ça te chante... Le combat n'est pas vraiment pour moi."
+    u "Tape toi les combats si ça te chante... Les combats ne sont pas vraiment pour moi."
 
 # game/v1/v1.rpy:607
 translate francais ad_db_ff20357a:
@@ -755,13 +755,13 @@ translate francais ag_da_0515e6c0:
 translate francais ag_da_a7bf38fb:
 
     # la "You know... you don't have to join a frat to get girls."
-    la "Tu sais... tu n'es pas obligé de rejoindre une fraternité pour avoir des filles."
+    la "Tu sais... tu n'es pas obligé de rejoindre une fraternité pour avoir des copines."
 
 # game/v1/v1.rpy:697
 translate francais ag_da_8b258704:
 
     # u "Huh?"
-    u "Hein?"
+    u "Hein ?"
 
 # game/v1/v1.rpy:701
 translate francais ag_da_9dd226d6:
@@ -785,7 +785,7 @@ translate francais ag_da_a3d4daac:
 translate francais ag_da_6f65c9c5:
 
     # la "Not at all, pretty much any girl that's part of the Deer hates it."
-    la "Pas du tout, à peu près toutes les filles qui font partie dex Deers détestent ça."
+    la "Pas du tout, à peu près toutes les filles qui font partie des Deers détestent ça."
 
 # game/v1/v1.rpy:725
 translate francais ag_da_85cc40ba:
@@ -929,7 +929,7 @@ translate francais aj_db_5be28c1b:
 translate francais aj_db_173c5e8d:
 
     # la "Wow, you don't even know my name and you're gonna ask for my number?"
-    la "Waouh, tu ne connais même pas mon nom et tu veux me demander mon numéro ?"
+    la "Wouah, tu ne connais même pas mon nom et tu veux me demander mon numéro ?"
 
 # game/v1/v1.rpy:842
 translate francais aj_db_00fbe766:
@@ -947,7 +947,7 @@ translate francais aj_db_1ff7b514:
 translate francais aj_db_0801b8ee:
 
     # u "Haha phew... I'm [name] by the way."
-    u "Haha ouf... au fait, moi c'est [name]."
+    u "Haha ouf... moi c'est [name]."
 
 # game/v1/v1.rpy:853
 translate francais aj_db_c6a4fd2a:
@@ -977,7 +977,7 @@ translate francais v1_freeRoam1_riley_4417530d:
 translate francais v1_freeRoam1_riley_5a5729bf:
 
     # ri "Haha, you caught me. That's what I'm known for."
-    ri "Haha, tu m'as eue. C'est pour ça que je suis connu."
+    ri "Haha, tu m'as eue. C'est pour ça que je suis connue."
 
 # game/v1/v1.rpy:901
 translate francais v1_freeRoam1_riley_8af8bf58:
@@ -1037,7 +1037,7 @@ translate francais v1_freeRoam1_riley_0a10c3a6:
 translate francais v1_freeRoam1_riley_9ed721a3:
 
     # u "Next time, just sit with me. Sitting in the last row is where it's at."
-    u "La prochaine fois, assied-toi avec moi. Assis au dernier rang, c'est là où tout se passe."
+    u "La prochaine fois, assied-toi avec moi. Au dernier rang, c'est là où tout se passe."
 
 # game/v1/v1.rpy:954
 translate francais v1_freeRoam1_riley_5dd66e4c:
@@ -1049,7 +1049,7 @@ translate francais v1_freeRoam1_riley_5dd66e4c:
 translate francais v1_freeRoam1_riley_9f41e0c7:
 
     # u "I guess she seems pretty nice. I didn't really pay much attention haha."
-    u "Je suppose qu'elle a l'air plutôt sympa. Je n'ai pas vraiment fait attention haha."
+    u "Je trouve qu'elle a l'air plutôt sympa. Je n'ai pas vraiment fait attention haha."
 
 # game/v1/v1.rpy:965
 translate francais v1_freeRoam1_riley_c7612a61:
@@ -1103,7 +1103,7 @@ translate francais v1_freeRoam1_elijah_01b5bd71:
 translate francais v1_freeRoam1_elijah_2ace45db:
 
     # u "Are you going to this rush party thing tomorrow?"
-    u "Vas-tu à cette fête des nouveaux demain ?"
+    u "Vas-tu à cette fête des nouveaux des Apes demain ?"
 
 # game/v1/v1.rpy:1016
 translate francais v1_freeRoam1_elijah_68b74e4b:
@@ -4991,11 +4991,11 @@ translate francais strings:
 
     # game/v1/v1.rpy:703
     old "Agree"
-    new "Acquiescer"
+    new "Aprouver"
 
     # game/v1/v1.rpy:703
     old "Disagree"
-    new "Nier"
+    new "Désaprouver"
 
     # game/v1/v1.rpy:767
     old "Don't defend Autumn"
@@ -5027,7 +5027,7 @@ translate francais strings:
 
     # game/v1/v1.rpy:913
     old "She's hot."
-    new "Elle est chaude."
+    new "Elle est canon."
 
     # game/v1/v1.rpy:913
     old "She seems nice."
