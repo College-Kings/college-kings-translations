@@ -461,7 +461,7 @@ translate francais aa_db_70254a14:
 translate francais aa_db_4561b8f0:
 
     # u "It's not as bad if you get to meet a pretty girl afterwards."
-    u "Ce n'est pas aussi grave si vous rencontrez une jolie fille par la suite."
+    u "Ce n'est pas aussi grave si on rencontre une jolie fille grâce à ça."
 
 # game/v1/v1.rpy:447
 translate francais aa_db_a2992451:
@@ -929,7 +929,7 @@ translate francais aj_db_5be28c1b:
 translate francais aj_db_173c5e8d:
 
     # la "Wow, you don't even know my name and you're gonna ask for my number?"
-    la "Wouah, tu ne connais même pas mon nom et tu veux me demander mon numéro ?"
+    la "Wouah, tu ne connais même pas mon nom et tu me demande mon numéro ?"
 
 # game/v1/v1.rpy:842
 translate francais aj_db_00fbe766:
@@ -941,7 +941,7 @@ translate francais aj_db_00fbe766:
 translate francais aj_db_1ff7b514:
 
     # la "I'm just kidding, I'm Lauren. I'll put my number into your phone."
-    la "Je plaisante, moi c'est Lauren. Je vais mettre mon numéro dans ton téléphone."
+    la "Je plaisante, mon nom est Lauren. Je vais mettre mon numéro dans ton téléphone."
 
 # game/v1/v1.rpy:851
 translate francais aj_db_0801b8ee:
