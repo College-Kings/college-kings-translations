@@ -264,7 +264,7 @@ v10 files | 15/41 | Kfar (<15) + ArkellCK (>16) | [ ] | -
 ### russian
 Progress | ?/all | Who is working on it? | Proofreading | Who is proofreading?
 -------- | -------- | --------- | --------- | ---------
-non script files | 0/6 | - | [ ] | -
+non script files | 0/6 | jonnymccane | [ ] | -
 v01.rpy | 0/5225 | - | [ ] | -
 v02.rpy | 0/4221 | - | [ ] | -
 v03.rpy | 0/3636 | - | [ ] | -
