@@ -34,7 +34,7 @@ translate francais starta_b3630c9b:
 translate francais starta_d8f49870:
 
     # ju "Breakfast is ready!"
-    ju "Le petit déjeuner est prêt!"
+    ju "Le petit déjeuner est prêt !"
 
 # game/v1/v1.rpy:81
 translate francais starta_d1bbd257:
@@ -352,7 +352,7 @@ translate francais aa_db_d8da752f:
 translate francais aa_db_b4109eb1:
 
     # u "(And already... so many hot girls.)"
-    u "(Et déjà... tant de filles chaudes.)"
+    u "(Et déjà... tant de nana canon.)"
 
 # game/v1/v1.rpy:360
 translate francais aa_db_feb36aee:
@@ -376,7 +376,7 @@ translate francais aa_db_9ea2f78c_2:
 translate francais aa_db_0f21bb45:
 
     # ca "Yo, watch where you're fucking walking, bitch!"
-    ca "Yo, regarde où tu marches, connard !"
+    ca "Oh, regarde où tu marches, connard !"
 
 # game/v1/v1.rpy:383
 translate francais aa_db_885cc755:
@@ -388,7 +388,7 @@ translate francais aa_db_885cc755:
 translate francais aa_db_d8df67ba:
 
     # ca "Fuck you, if you want a fucking problem, I'll give you a fucking problem!"
-    ca "Va te faire foutre, si tu veux un putain de problème, je vais te donner un putain de problème !"
+    ca "Va te faire enculer, si tu veux un putain de problème, je vais te donner un putain de problème !"
 
 # game/v1/v1.rpy:393
 translate francais aa_db_1b57ce3e:
@@ -406,7 +406,7 @@ translate francais aa_db_304c6a63:
 translate francais aa_db_1bf7c341:
 
     # ca "Fine..."
-    ca "Entendu... "
+    ca "Ok, ç'est bon... "
 
 # game/v1/v1.rpy:402
 translate francais aa_db_2dd477b7:
@@ -431,19 +431,19 @@ translate francais aa_db_3cc4a83e:
 translate francais aa_db_e5f4315d:
 
     # u "I'm [name] by the way."
-    u "Au fait, je suis [name]."
+    u "Au fait, moi c'est [name]."
 
 # game/v1/v1.rpy:423
 translate francais aa_db_c0f5654a:
 
     # aut "I'm Autumn."
-    aut "Je suis Autumn."
+    aut "Moi c'est Autumn."
 
 # game/v1/v1.rpy:425
 translate francais aa_db_791f218c:
 
     # aut "You're new here right?"
-    aut "Tu êst nouveau ici, n'est-ce pas ?"
+    aut "Tu es nouveau ici, n'est-ce pas ?"
 
 # game/v1/v1.rpy:430
 translate francais aa_db_b2b46500:
@@ -479,13 +479,13 @@ translate francais aa_db_eedc251e:
 translate francais aa_db_8bbbb0f2:
 
     # aut "Anyways, I gotta go. Nice to meet you."
-    aut "De toute façon, je dois y aller. Ravi de t'avoir rencontré."
+    aut "C'est pas tout ça, mais je dois y aller. Ravi de t'avoir rencontré."
 
 # game/v1/v1.rpy:463
 translate francais aa_db_2ee51159:
 
     # u "Why is that?"
-    u "Pourquoi donc ?"
+    u "Pourquoi ça ?"
 
 # game/v1/v1.rpy:468
 translate francais aa_db_b6a9fd48:
@@ -503,7 +503,7 @@ translate francais aa_db_15cd2252:
 translate francais aa_db_8bbbb0f2_1:
 
     # aut "Anyways, I gotta go. Nice to meet you."
-    aut "De toute façon, je dois y aller. Ravi de t'avoir rencontré."
+    aut "Bon, faut que j'y aille. Ravi de t'avoir rencontré."
 
 # game/v1/v1.rpy:479
 translate francais ad_db_3e0ad800:
@@ -515,7 +515,7 @@ translate francais ad_db_3e0ad800:
 translate francais ad_db_9c52b5de:
 
     # u "(I should probably go to my induction class right now.)"
-    u "(Je devrais probablement aller à mon cours d'initiation en ce moment.)"
+    u "(Je devrais probablement aller à mon cours d'introduction en ce moment.)"
 
 # game/v1/v1.rpy:488
 translate francais ad_db_c224bb3e:
@@ -533,7 +533,7 @@ translate francais ad_db_e2737b85:
 translate francais ad_db_675e7bcc:
 
     # ro "We won't be starting 'til I can fix this damn laptop."
-    ro "Nous ne commencerons pas tant que je ne pourrai pas réparer ce satané d'ordinateur portable."
+    ro "Nous ne commencerons pas tant que je ne pourrai pas réparer ce satané ordinateur portable."
 
 # game/v1/v1.rpy:505
 translate francais ad_db_0608c281:
@@ -551,13 +551,13 @@ translate francais ad_db_8eb7f5ad:
 translate francais ad_db_77dfd603:
 
     # ry "I'm Ryan."
-    ry "Je suis Ryan."
+    ry "Moi c'est Ryan."
 
 # game/v1/v1.rpy:520
 translate francais ad_db_8af8bf58:
 
     # u "I'm [name]."
-    u "Je suis [name]."
+    u "Moi [name]."
 
 # game/v1/v1.rpy:525
 translate francais ad_db_b16a3a10:
@@ -581,7 +581,7 @@ translate francais ad_db_9f297b91:
 translate francais ad_db_cf152294:
 
     # ry "They're the best fraternity in the entire University. They get so many girls."
-    ry "C'est la meilleure fraternité de toute l'université. Ils ont tellement de filles."
+    ry "C'est la meilleure fraternité de toute l'université. Ils ont tellement de nanas."
 
 # game/v1/v1.rpy:539
 translate francais ad_db_bb4a72ce:
@@ -617,7 +617,7 @@ translate francais ad_db_abbe6689:
 translate francais ad_db_1efe722d:
 
     # ry "Every year the two most popular fraternities, the Apes and the Wolves, host an MMA fighting tournament called the Summer Showdown."
-    ry "Chaque année, les deux fraternités les plus populaires, les Apes et les Wolves, organisent un tournoi de combat Mano à Mano appelé Épreuve de force d'été."
+    ry "Chaque année, les deux fraternités les plus populaires, les Apes et les Wolves, organisent un tournoi de combat MMA appelé Épreuve de force d'été."
 
 # game/v1/v1.rpy:566
 translate francais ad_db_25f53c47:
@@ -635,7 +635,7 @@ translate francais ad_db_8eda5bf0:
 translate francais ad_db_9fd9ed2a:
 
     # ry "You don't get it... The Fight King gets sooo many girls."
-    ry "Tu ne comprend pas... Le Roi des combatants a tellement de filles."
+    ry "Tu ne comprend pas... Le Roi des combatants a tellement de nanas."
 
 # game/v1/v1.rpy:577
 translate francais ad_db_e72f3ba5:
@@ -653,7 +653,7 @@ translate francais ad_db_7bedb932:
 translate francais ad_db_23c5c107:
 
     # ry "Did you not hear what I said? Sooo many girls."
-    ry "Tu n'a pas entendu ce que j'ai dit ? Tellement de filles."
+    ry "Tu n'a pas entendu ce que j'ai dit ? Tellement de nanas."
 
 # game/v1/v1.rpy:592
 translate francais ad_db_f4004f72:
