@@ -82,7 +82,7 @@ translate francais starta_92971eae:
 translate francais starta_8f620671:
 
     # u "I guess you're right."
-    u "Je pense que tu as raison."
+    u "Ouai, tu as raison."
 
 # game/v1/v1.rpy:117
 translate francais starta_2eccb6f0:
@@ -4959,7 +4959,7 @@ translate francais strings:
 
     # game/v1/v1.rpy:167
     old "Hey...\nI know we haven’t talked much after we broke up, but I just wanted to let you know that I didn’t get into Stanford, so I’ll be going to San Vallejo as well.\nGuess I’ll see you there. :)"
-    new "Hey...\nJe sais que nous n'avons pas beaucoup parlé après notre rupture, mais je voulais juste que tu sache que je ne suis pas entré à Stanford, donc je vais aussi aller à San Vallejo.\nJe suppose que je te verrai là-bas. :)"
+    new "Salut...\nJe sais que nous n'avons pas beaucoup parlé après notre rupture, mais je voulais juste que tu sache que je ne suis pas entré à Stanford, donc je vais aussi aller à San Vallejo.\nJe suppose que je te verrai là-bas. :)"
 
     # game/v1/v1.rpy:168
     old "Yeah... I’ll see you there."
@@ -4967,7 +4967,7 @@ translate francais strings:
 
     # game/v1/v1.rpy:169
     old "You cheated on me.\nGo to hell!"
-    new "Tu m'as trompé.\nVas au diable !"
+    new "Tu m'as trompé.\nVas te faire mettre !"
 
     # game/v1/v1.rpy:203
     old "Could be fun"
