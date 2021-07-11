@@ -941,25 +941,25 @@ translate francais aj_db_00fbe766:
 translate francais aj_db_1ff7b514:
 
     # la "I'm just kidding, I'm Lauren. I'll put my number into your phone."
-    la "Je plaisante, je suis Lauren. Je vais mettre mon numéro dans ton téléphone."
+    la "Je plaisante, moi c'est Lauren. Je vais mettre mon numéro dans ton téléphone."
 
 # game/v1/v1.rpy:851
 translate francais aj_db_0801b8ee:
 
     # u "Haha phew... I'm [name] by the way."
-    u "Haha ouf... Je suis [name] au fait."
+    u "Haha ouf... au fait, moi c'est [name]."
 
 # game/v1/v1.rpy:853
 translate francais aj_db_c6a4fd2a:
 
     # u "I'll text you later then, Lauren."
-    u "Je t'enverrai un texto plus tard alors, Lauren."
+    u "Je t'enverrai un message plus tard alors, Lauren."
 
 # game/v1/v1.rpy:858
 translate francais aj_db_cc686ec9:
 
     # la "Sounds good. I'll see you later."
-    la "Ça me vas. On se voit plus tard."
+    la "Ça me vas. À plus tard."
 
 # game/v1/v1.rpy:866
 translate francais aj_db_030708fe:
@@ -983,13 +983,13 @@ translate francais v1_freeRoam1_riley_5a5729bf:
 translate francais v1_freeRoam1_riley_8af8bf58:
 
     # u "I'm [name]."
-    u "Je suis [name]."
+    u "Je me présente, [name]."
 
 # game/v1/v1.rpy:906
 translate francais v1_freeRoam1_riley_cde3dd4b:
 
     # ri "I'm Riley."
-    ri "Je suis Riley."
+    ri "Moi c'est Riley."
 
 # game/v1/v1.rpy:911
 translate francais v1_freeRoam1_riley_e733c6bc:
@@ -1001,7 +1001,7 @@ translate francais v1_freeRoam1_riley_e733c6bc:
 translate francais v1_freeRoam1_riley_108f89e7:
 
     # u "Oh, she's super hot."
-    u "Oh, elle est super chaude."
+    u "Oh, elle est super canon."
 
 # game/v1/v1.rpy:925
 translate francais v1_freeRoam1_riley_5538d1bc:
@@ -1121,7 +1121,7 @@ translate francais v1_freeRoam1_elijah_415af1a6:
 translate francais v1_freeRoam1_elijah_be1f688a:
 
     # el "Yeah, how can I help you?"
-    el "Ouai, comment puis-je vous aider?"
+    el "Ouai, comment puis-je t'aider ?"
 
 # game/v1/v1.rpy:1029
 translate francais v1_freeRoam1_elijah_dc72540e:
@@ -1133,7 +1133,7 @@ translate francais v1_freeRoam1_elijah_dc72540e:
 translate francais v1_freeRoam1_elijah_9451eb0c:
 
     # el "Rush parties are just a way for idiots to justify binge drinking."
-    el "Les Fêtes des nouveaux  ne sont qu'un moyen pour les idiots de justifier qu'ils se bourrent la gueule."
+    el "Les Fêtes des nouveaux ne sont qu'un moyen pour les idiots de justifier qu'ils se bourrent la gueule."
 
 # game/v1/v1.rpy:1036
 translate francais v1_freeRoam1_elijah_b5f83ff8:
@@ -4253,7 +4253,7 @@ translate francais v1_freeRoam2_mason_baa91167_1:
 translate francais v1_freeRoam2_mason_6d1c5c37_1:
 
     # u "I need to go, but I'll talk to you later."
-    u "Je dois y aller, mais je t'en parlerai plus tard."
+    u "Je dois y aller, mais je vous en reparlerai plus tard."
 
 # game/v1/v1.rpy:3576
 translate francais v1_freeRoam2_mason_75eab91b_1:
@@ -5071,7 +5071,7 @@ translate francais strings:
 
     # game/v1/v1.rpy:1432
     old "See you later, cutie"
-    new "A plus tard ma mignonne"
+    new "À tout à l'heure, ma mignonne"
 
     # game/v1/v1.rpy:1433
     old "Cool"
