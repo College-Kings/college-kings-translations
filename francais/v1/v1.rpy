@@ -4963,7 +4963,7 @@ translate francais strings:
 
     # game/v1/v1.rpy:168
     old "Yeah... I’ll see you there."
-    new "Ouai... Je te verrai là-bas."
+    new "Ouai... On se vois là bas."
 
     # game/v1/v1.rpy:169
     old "You cheated on me.\nGo to hell!"
