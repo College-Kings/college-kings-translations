@@ -1510,7 +1510,7 @@ translate vietnamese bq_bd_eb6699a4:
 translate vietnamese bq_bd_b822ede1:
 
     # em "Hey, I've seen you before, you went to school with my sister."
-    em ""Này, em có gặp anh trước đây rồi, anh học cùng trường với chị em đây mà."
+    em "Này, em có gặp anh trước đây rồi, anh học cùng trường với chị em đây mà."
 
 # game/v2/v2.rpy:2043
 translate vietnamese bq_bd_65f217b4:

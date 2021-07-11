@@ -707,7 +707,6 @@ translate vietnamese ag_da_883214dc:
 
     # ro "Here at San Vallejo College most courses start their first year with the same three classes: Biology, Economics and History."
     ro "Tại Đại Học San Vallejo hầu hết các khóa học bắt đầu năm đầu tiên với ba môn học: Sinh Học, Kinh Tế và Lịch Sử."
- "
 
 # game/v1/v1.rpy:638
 translate vietnamese ag_da_55bedea8:
@@ -4205,7 +4204,7 @@ translate vietnamese v1_freeRoam2_mason_c4625b10:
 translate vietnamese v1_freeRoam2_mason_5d8e6f82:
 
     # ma "Damn, and just as I thought we had a good one, he's just another pussy. Why are there always so many losers that try to get into the Apes?!"
-    ma "Cái địt, vậy mà tao cứ tưởng thằng nào ghê gớm lắm, hóa ra lại một thằng nhát gan. Sao mấy thằng thất bại cứ muốn gia nhập hội Apes thế nhỉ?!"	"
+    ma "Cái địt, vậy mà tao cứ tưởng thằng nào ghê gớm lắm, hóa ra lại một thằng nhát gan. Sao mấy thằng thất bại cứ muốn gia nhập hội Apes thế nhỉ?!"
 
 # game/v1/v1.rpy:3543
 translate vietnamese v1_freeRoam2_mason_dbb221ad:
@@ -4271,7 +4270,7 @@ translate vietnamese v1_freeRoam2_mason2_045bec88:
 translate vietnamese v1_freeRoam2_katy_d40da212:
 
     # katy "And then she said \"Those jeans look so good on you.\" Can you believe that?!"
-    katy "Và rồi nó nói \"Mấy cái quần jean đấy hợp với cậu thật.\" Mày tin được không?
+    katy "Và rồi nó nói \"Mấy cái quần jean đấy hợp với cậu thật.\" Mày tin được không?"
 
 # game/v1/v1.rpy:3595
 translate vietnamese v1_freeRoam2_katy_0996458c:
@@ -4854,7 +4853,7 @@ translate vietnamese bf_bd_2550dc06:
 
     # cl "\"Oh no, my hand landed on your abs, but I might as well feel them for a bit.\""
     cl "\"Ôi không, tay tôi chạm trúng đùi cậu rồi, nhưng tôi sờ nó chút cũng được.\""
-.
+
 # game/v1/v1.rpy:4086
 translate vietnamese bf_bd_7bfb88ba:
 
