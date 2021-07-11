@@ -2303,7 +2303,7 @@ translate francais at_bd_c956740e:
 translate francais at_bd_bceb4588:
 
     # u "Night."
-    u "Bon'nuit"
+    u "Bonne nuit"
 
 # game/v1/v1.rpy:2001
 translate francais sexdream1_b43ee7a6:
