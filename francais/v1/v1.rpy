@@ -58,7 +58,7 @@ translate francais starta_b74833d7:
 translate francais starta_b997b913:
 
     # u "Morning, Julia."
-    u "B'jour, Julia."
+    u "Bonjour, Julia."
 
 # game/v1/v1.rpy:98
 translate francais starta_6de07b52:
@@ -148,7 +148,7 @@ translate francais starta_0d074dd4:
 translate francais starta_9a77e500:
 
     # u "(I better not lose this bag, Julia loves it.)"
-    u "(Je ferais mieux de ne pas perdre ce sac, Julia l'adore.)"
+    u "(Je ferais mieux de ne pas perdre cette valise, Julia l'adore.)"
 
 # game/v1/v1.rpy:164
 translate francais starta_8bdb5ed3:
@@ -695,7 +695,7 @@ translate francais ad_db_360d1f0f:
 translate francais ad_db_b2596c1e:
 
     # u "Wow Elijah, way to start the fun."
-    u "Wow Elijah, tu appuie sur le starter."
+    u "Waouh Elijah, tu appuie sur le starter."
 
 # game/v1/v1.rpy:627
 translate francais ad_db_885597a0:
@@ -929,7 +929,7 @@ translate francais aj_db_5be28c1b:
 translate francais aj_db_173c5e8d:
 
     # la "Wow, you don't even know my name and you're gonna ask for my number?"
-    la "Wow, tu ne connais même pas mon nom et tu veux me demander mon numéro ?"
+    la "Waouh, tu ne connais même pas mon nom et tu veux me demander mon numéro ?"
 
 # game/v1/v1.rpy:842
 translate francais aj_db_00fbe766:
@@ -1937,7 +1937,7 @@ translate francais talktorib_c38ff59f:
 translate francais talktorib_454f0de5:
 
     # u "Wow... you're missing out, Lauren."
-    u "waouh... tu manques quelque chose, Lauren."
+    u "Waouh... tu manques quelque chose, Lauren."
 
 # game/v1/v1.rpy:1692
 translate francais talktorib_987ef508:
@@ -2309,7 +2309,7 @@ translate francais at_bd_bceb4588:
 translate francais sexdream1_b43ee7a6:
 
     # ri "Wow, you guys have a really nice house."
-    ri "Wow, tu as une très belle maison."
+    ri "Waouh, tu as une très belle maison."
 
 # game/v1/v1.rpy:2007
 translate francais sexdream1_c562495d:
@@ -2375,7 +2375,7 @@ translate francais sexdream1_b8e1d0bc:
 translate francais sexdream1_ece022ab:
 
     # ri "Oh wow."
-    ri "Oh waou."
+    ri "Oh waouh."
 
 # game/v1/v1.rpy:2066
 translate francais sexdream1_794090c7:
@@ -2465,7 +2465,7 @@ translate francais sexdream1_bc8db3b8_1:
 translate francais sexdream1_5cf53dd0:
 
     # ri "Wow, I've never done this before. Does it feel good?"
-    ri "Woua, je n'ai jamais fait ça avant. Est-ce que ça fait du bien ?"
+    ri "Wouah, je n'ai jamais fait ça avant. Est-ce que ça fait du bien ?"
 
 # game/v1/v1.rpy:2124
 translate francais sexdream1_400f53c1:
@@ -3161,7 +3161,7 @@ translate francais av_ad_3a40239f:
 translate francais av_ad_3e5a9f5c:
 
     # la "Oh wow, I guess you should have hid in the closet, haha."
-    la "Oh wow, je suppose que tu aurais dû te cacher dans les toillettes, haha."
+    la "Oh waouh, je suppose que tu aurais dû te cacher dans les toillettes, haha."
 
 # game/v1/v1.rpy:2659
 translate francais av_ad_f1e66ef4:
@@ -3281,7 +3281,7 @@ translate francais aw_bd_c779ae3e:
 translate francais aw_bd_35d1516f:
 
     # la "Wow, how flattering."
-    la "Wow, comme c'est flatteur."
+    la "Wouah, comme c'est flatteur."
 
 # game/v1/v1.rpy:2759
 translate francais ax_bd_8b792778:
@@ -4757,7 +4757,7 @@ translate francais be_bd_3e105903:
 translate francais be_bd_fe1d7570:
 
     # u "Wow, that sounds awful."
-    u "Wow, ça a l'air horrible."
+    u "Wouah, ça a l'air horrible."
 
 # game/v1/v1.rpy:4005
 translate francais be_bd_6e288e3b:
@@ -4935,7 +4935,7 @@ translate francais strings:
 
     # game/v1/v1.rpy:14
     old "Ugh :/"
-    new "Ugh :/"
+    new "Gnagnagna :/"
 
     # game/v1/v1.rpy:34
     old "Idk, it's just feels kinda weird now. Can we please just talk tomorrow?"
