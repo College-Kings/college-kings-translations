@@ -425,7 +425,7 @@ translate francais aa_db_9ae7cce6:
 translate francais aa_db_3cc4a83e:
 
     # u "Yeah...thanks."
-    u "Oui... merci."
+    u "Ouai... merci."
 
 # game/v1/v1.rpy:418
 translate francais aa_db_e5f4315d:
@@ -659,7 +659,7 @@ translate francais ad_db_23c5c107:
 translate francais ad_db_f4004f72:
 
     # u "Yeah, but do you even know how to fight?"
-    u "Oui, mais sais-tu comment te battre ?"
+    u "Ouai, mais sais-tu comment te battre ?"
 
 # game/v1/v1.rpy:597
 translate francais ad_db_b14d8766:
@@ -815,7 +815,7 @@ translate francais ag_da_c5446f18:
 translate francais ag_da_0fee4769:
 
     # la "Yeah, most of the Deer for example."
-    la "ouai, la plupart des Deers par exemple."
+    la "Ouai, la plupart des Deers par exemple."
 
 # game/v1/v1.rpy:745
 translate francais af_db_1cacebd1:
@@ -857,7 +857,7 @@ translate francais af_db_8eb725f2:
 translate francais af_db_daac62bb:
 
     # u "Yeah, I get that."
-    u "ouai, je comprends."
+    u "Ouai, je comprends."
 
 # game/v1/v1.rpy:777
 translate francais af_db_6f4ca145:
@@ -899,7 +899,7 @@ translate francais af_db_7e0e7a51:
 translate francais af_db_128eaf78:
 
     # u "Yeah, she's kinda cute."
-    u "ouai, elle est plutôt mignonne."
+    u "Ouai, elle est plutôt mignonne."
 
 # game/v1/v1.rpy:818
 translate francais af_db_61980c5c:
@@ -1055,7 +1055,7 @@ translate francais v1_freeRoam1_riley_9f41e0c7:
 translate francais v1_freeRoam1_riley_c7612a61:
 
     # ri "Yeah, I wish I had sat further back. I had to look like I was engaged the entire time, or I would have left a bad first impression."
-    ri "Oui, j'aurais aimé m'asseoir plus en arrière. Je devais avoir l'air d'être attentive tout le temps, sinon j'aurais laissé une mauvaise première impression."
+    ri "Ouai, j'aurais aimé m'asseoir plus en arrière. Je devais avoir l'air d'être attentive tout le temps, sinon j'aurais laissé une mauvaise première impression."
 
 # game/v1/v1.rpy:970
 translate francais v1_freeRoam1_riley_9ed721a3_1:
@@ -1079,7 +1079,7 @@ translate francais v1_freeRoam1_riley2_93a57ebd:
 translate francais v1_freeRoam1_riley2_84eb9a9f:
 
     # ri "Yeah.. you're probably right haha."
-    ri "ouai.. tu as probablement raison haha."
+    ri "Ouai.. tu as probablement raison haha."
 
 # game/v1/v1.rpy:995
 translate francais v1_freeRoam1_elijah_30638a3b:
@@ -1121,7 +1121,7 @@ translate francais v1_freeRoam1_elijah_415af1a6:
 translate francais v1_freeRoam1_elijah_be1f688a:
 
     # el "Yeah, how can I help you?"
-    el "ouai, comment puis-je vous aider?"
+    el "Ouai, comment puis-je vous aider?"
 
 # game/v1/v1.rpy:1029
 translate francais v1_freeRoam1_elijah_dc72540e:
@@ -1475,7 +1475,7 @@ translate francais efra_6f59e463:
 translate francais efra_7b87d77e:
 
     # imre "Yeah they did, but that doesn't mean shit. The Wolves have won 5 out of the last 10 years."
-    imre "Oui, ils l'ont fait, mais ça veut rien dire. Les Wolves en ont remporté 5 les 10 dernières années."
+    imre "Ouai, ils l'ont fait, mais ça veut rien dire. Les Wolves en ont remporté 5 les 10 dernières années."
 
 # game/v1/v1.rpy:1315
 translate francais efra_e5629812:
@@ -1505,7 +1505,7 @@ translate francais efra_db44cc06:
 translate francais efra_590aac41:
 
     # imre "Yeahhhh! They fucking are man. That's what I've been trying to tell you."
-    imre "ouai ! Ce sont des putain de mec. C'est ce que j'ai essayé de te dire."
+    imre "Ouaaaai ! Ce sont des putain de mec. C'est ce que j'ai essayé de te dire."
 
 # game/v1/v1.rpy:1343
 translate francais an_bd_4ec46fa2:
@@ -1685,7 +1685,7 @@ translate francais continueonea_f0be93fe:
 translate francais continueonea_142d464a:
 
     # ri "Yeah, we've met."
-    ri "Oui, nous nous sommes rencontrés."
+    ri "Ouai, nous nous sommes rencontrés."
 
 # game/v1/v1.rpy:1490
 translate francais continueonea_c40aa748:
@@ -1697,7 +1697,7 @@ translate francais continueonea_c40aa748:
 translate francais continueonea_74d5e346:
 
     # u "Yeah, we were in the same induction class."
-    u "Oui, nous étions dans la même classe d'introduction."
+    u "Ouai, nous étions dans la même classe d'introduction."
 
 # game/v1/v1.rpy:1499
 translate francais continueonea_f6ebb216:
@@ -1709,7 +1709,7 @@ translate francais continueonea_f6ebb216:
 translate francais continueonea_f6d75db0:
 
     # u "Yeah, that's right. Good to see you again."
-    u "Oui c'est vrai. C'est bon de te revoir."
+    u "Ouai c'est vrai. C'est bon de te revoir."
 
 # game/v1/v1.rpy:1509
 translate francais talktorib_3f663067:
@@ -1781,7 +1781,7 @@ translate francais talktorib_f23ab317:
 translate francais talktorib_7346c12e:
 
     # ri "Yeah, that's right."
-    ri "Oui c'est vrai."
+    ri "Ouai c'est vrai."
 
 # game/v1/v1.rpy:1568
 translate francais talktorib_7d48478d:
@@ -1799,7 +1799,7 @@ translate francais talktorib_f35b98ad:
 translate francais talktorib_d4754214:
 
     # imre "Hell yeah, I snuck in a beer bottle filled with vodka."
-    imre "Par tous les enfers ouai, j'ai fait passer une bouteille de bière remplie de vodka."
+    imre "Putain ouai, j'ai fait passer une bouteille de bière remplie de vodka."
 
 # game/v1/v1.rpy:1582
 translate francais talktorib_83a656aa:
@@ -1901,7 +1901,7 @@ translate francais talktorib_ef5faf11:
 translate francais talktorib_774d1c13:
 
     # la "Yeah, it's definitely not highlighting your subconscious preferences."
-    la "ouai, ça ne met certainement pas en évidence les préférences de ton subconscient."
+    la "Ouai, ça ne met certainement pas en évidence les préférences de ton subconscient."
 
 # game/v1/v1.rpy:1661
 translate francais talktorib_75e607a7:
@@ -2327,7 +2327,7 @@ translate francais sexdream1_9943b46a:
 translate francais sexdream1_db8095ed:
 
     # u "Yeah, it can seem a bit empty now that... never mind."
-    u "ouai, ça peut sembler un peu vide maintenant que... peu importe."
+    u "Ouai, ça peut sembler un peu vide maintenant que... peu importe."
 
 # game/v1/v1.rpy:2022
 translate francais sexdream1_9ff01850:
@@ -2807,7 +2807,7 @@ translate francais v1_nsfwSkipLabel1_4b2fe8eb:
 translate francais v1_nsfwSkipLabel1_791da076:
 
     # ry "Yeah, 'cause she knows that no one actually does that shit anyways."
-    ry "ouai, parce qu'elle sait que personne ne fait cette merde de toute façon."
+    ry "Ouai, parce qu'elle sait que personne ne fait cette merde de toute façon."
 
 # game/v1/v1.rpy:2399
 translate francais v1_nsfwSkipLabel1_e657be0a:
@@ -2825,7 +2825,7 @@ translate francais v1_nsfwSkipLabel1_a3c6ad46:
 translate francais v1_nsfwSkipLabel1_fb14581b:
 
     # la "Yep... she's just so annoying. I wish I could still move dorms."
-    la "ouai... elle est tellement chiante. J'aimerais pouvoir changer de dortoir."
+    la "Ouai... elle est tellement chiante. J'aimerais pouvoir changer de dortoir."
 
 # game/v1/v1.rpy:2416
 translate francais v1_nsfwSkipLabel1_d3ff7f61:
@@ -2873,7 +2873,7 @@ translate francais v1_nsfwSkipLabel1_2859616e_1:
 translate francais au_bd_50c58a7d:
 
     # la "Yeah, I'd like that."
-    la "ouai, j'aimerais bien."
+    la "Ouai, j'aimerais bien."
 
 # game/v1/v1.rpy:2460
 translate francais au_bd_2b228376:
@@ -2891,7 +2891,7 @@ translate francais au_bd_35d159a7:
 translate francais au_bd_16481531:
 
     # la "Yeah, my family lives about 20 minutes from here."
-    la "Oui, ma famille habite à environ 20 minutes d'ici."
+    la "Ouai, ma famille habite à environ 20 minutes d'ici."
 
 # game/v1/v1.rpy:2475
 translate francais au_bd_ef772a2a:
@@ -3083,7 +3083,7 @@ translate francais av_ad_f5a43270:
 translate francais av_ad_c1abb86d:
 
     # u "Yeah, it's whatever."
-    u "ouai, c'est n'importe quoi."
+    u "Ouai, c'est n'importe quoi."
 
 # game/v1/v1.rpy:2609
 translate francais av_ad_85fc0e25:
@@ -3143,7 +3143,7 @@ translate francais av_ad_7219bb52:
 translate francais av_ad_38acf05e:
 
     # u "Yeah, the stupid thing was that it triggered the silent alarm."
-    u "ouai, le truc stupide c'est que ça a déclenché l'alarme silencieuse."
+    u "Ouai, le truc stupide c'est que ça a déclenché l'alarme silencieuse."
 
 # game/v1/v1.rpy:2647
 translate francais av_ad_f45f3f32:
@@ -3485,7 +3485,7 @@ translate francais next_scenea_38509333:
 translate francais next_scenea_251344e8:
 
     # u "Yeah maybe..."
-    u "ouai peut-être..."
+    u "Ouai peut-être..."
 
 # game/v1/v1.rpy:2911
 translate francais next_scenea_e452eedc:
@@ -3563,7 +3563,7 @@ translate francais nextscenef_2a9430b2:
 translate francais nextscenef_0529f46b:
 
     # u "Yeah, but you know how you said there's gonna be so many hot chicks here?"
-    u "ouai, mais tu sais, tu m'avais pas dis qu'il y aurait des nanas canon ici ?"
+    u "Ouai, mais tu sais, tu m'avais pas dis qu'il y aurait des nanas canon ici ?"
 
 # game/v1/v1.rpy:2994
 translate francais nextscenef_00b07dd4:
@@ -3581,7 +3581,7 @@ translate francais nextscenef_58b95a0d:
 translate francais nextscenef_1ea208c0:
 
     # ry "Well yeah, but both the Apes and the Wolves want the best fighters to join their frat, so they use hot girls to show them the benefits of joining."
-    ry "Eh bien oui, mais les Apes et les Wolves veulent que les meilleurs combattants rejoignent leur fraternité, alors ils utilisent des filles canon pour leur montrer les avantages de se joindre à eux."
+    ry "Bien ouai, mais les Apes et les Wolves veulent que les meilleurs combattants rejoignent leur fraternité, alors ils utilisent des filles canon pour leur montrer les avantages de se joindre à eux."
 
 # game/v1/v1.rpy:3009
 translate francais nextscenef_069a13a9:
@@ -3623,7 +3623,7 @@ translate francais v1_freeRoam2_sam_625c2f40:
 translate francais v1_freeRoam2_sam_160bd4b2:
 
     # sam "Yeah, what's up man?"
-    sam "ouai, quoi de neuf mec ?"
+    sam "Ouai, quoi de neuf mec ?"
 
 # game/v1/v1.rpy:3045
 translate francais v1_freeRoam2_sam_782c66f7:
@@ -3647,7 +3647,7 @@ translate francais v1_freeRoam2_sam_8442a986:
 translate francais v1_freeRoam2_sam_31823ef8:
 
     # sam "Yeah and now piss off man, I'm trying to score here."
-    sam "ouai et maintenant dégage mec, j'essaye de conclure ici."
+    sam "Ouai et maintenant dégage mec, j'essaye de conclure ici."
 
 # game/v1/v1.rpy:3065
 translate francais v1_freeRoam2_sam_0c931c71:
@@ -3863,7 +3863,7 @@ translate francais v1_freeRoam2_josh_cbd9cbb7:
 translate francais v1_freeRoam2_josh_9e578f7d:
 
     # jo "Yeah. *sniff* Yeah, I'm - I'm fine."
-    jo "Oui. *renifle* ouai, je vais - je vais bien."
+    jo "Ouai. *renifle* ouai, je vais - je vais bien."
 
 # game/v1/v1.rpy:3242
 translate francais v1_freeRoam2_josh_beb405f8:
@@ -3887,7 +3887,7 @@ translate francais v1_freeRoam2_josh_6a47912d:
 translate francais v1_freeRoam2_josh_45afc00e:
 
     # u "Yeah, what about you?"
-    u "Oui, et toi ?"
+    u "Ouai, et toi ?"
 
 # game/v1/v1.rpy:3262
 translate francais v1_freeRoam2_josh_ef4b66ca:
@@ -4091,7 +4091,7 @@ translate francais v1_freeRoam2_josh_74d95520:
 translate francais v1_freeRoam2_josh_c11d256c:
 
     # jo "Yeah bro, hit me up sometime."
-    jo "ouai frère, viens me voir jour."
+    jo "Ouai frèro, viens me voir jour."
 
 # game/v1/v1.rpy:3425
 translate francais v1_freeRoam2_josh2_616acf57:
@@ -4133,13 +4133,13 @@ translate francais v1_freeRoam2_mason_23839f01:
 translate francais v1_freeRoam2_mason_d42d1353:
 
     # u "Yeah, he better watch out, or I'll kick his ass."
-    u "ouai, il ferait mieux de faire attention, ou je vais lui botter le cul."
+    u "Ouai, il ferait mieux de faire attention, ou je vais lui botter le cul."
 
 # game/v1/v1.rpy:3486
 translate francais v1_freeRoam2_mason_3ece339e:
 
     # u "(Yeah [name], that seems like a brilliant thing to say about a hyper-aggressive idiot that prides himself in his fighting skills.)"
-    u "(ouai [name], cela semble être une chose brillante à dire à propos d'un idiot hyper-agressif qui se targue de ses talents de combattant.)"
+    u "(Ouai [name], cela semble être une chose brillante à dire à propos d'un idiot hyper-agressif qui se targue de ses talents de combattant.)"
 
 # game/v1/v1.rpy:3491
 translate francais v1_freeRoam2_mason_91513681:
@@ -4235,7 +4235,7 @@ translate francais v1_freeRoam2_mason_bb205230:
 translate francais v1_freeRoam2_mason_7cf1ebcf:
 
     # jeremy "Yeah, show us what you got. If you beat Cameron, you're pretty much guaranteed to become an Ape."
-    jeremy "Oui, montre-nous ce que tu as. Si tu bat Cameron, tu es pratiquement assuré de devenir un Apes."
+    jeremy "Ouai, montre-nous ce que tu as. Si tu bat Cameron, tu es pratiquement assuré de devenir un Apes."
 
 # game/v1/v1.rpy:3568
 translate francais v1_freeRoam2_mason_5d22c863_1:
@@ -4343,7 +4343,7 @@ translate francais v1_freeRoam2_katy_df313d0d:
 translate francais v1_freeRoam2_katy_065ff367:
 
     # katy "Yeah, duh. Geez, small talk much???"
-    katy "ouai, duh. Bon sang, Tu parle beaucoup ???"
+    katy "Ouai, duh. Bon sang, Tu parle beaucoup ???"
 
 # game/v1/v1.rpy:3655
 translate francais v1_freeRoam2_katy_5f0204e5:
@@ -4421,7 +4421,7 @@ translate francais v1_freeRoam2_grayson_2ad87677:
 translate francais v1_freeRoam2_grayson_97d91ec5:
 
     # ca "Uhh... yeah. Of course, man."
-    ca "Euh... ouai. Bien sûr, mec."
+    ca "Euh... Ouai. Bien sûr, mec."
 
 # game/v1/v1.rpy:3723
 translate francais v1_freeRoam2_grayson_73063489:
@@ -4511,7 +4511,7 @@ translate francais fr2end_f7d97c1f:
 translate francais fr2end_684bf39f:
 
     # u "Yeah, you're right! I'm gonna go over there and talk to her right now."
-    u "Oui tu as raison ! Je vais aller là-bas et lui parler tout de suite."
+    u "Ouai tu as raison ! Je vais aller là-bas et lui parler tout de suite."
 
 # game/v1/v1.rpy:3803
 translate francais fr2end_53f29104:
@@ -4613,7 +4613,7 @@ translate francais bd_bd_4962b2e6:
 translate francais bd_bd_eeb16497:
 
     # tom "Yeah, but we were in the middle of a conversation."
-    tom "Oui, mais nous étions au milieu d'une conversation."
+    tom "Ouai, mais nous étions au milieu d'une conversation."
 
 # game/v1/v1.rpy:3886
 translate francais bd_bd_1b4a4743:
@@ -4691,7 +4691,7 @@ translate francais be_bd_966673da:
 translate francais be_bd_2ec642c0:
 
     # u "Yeah, sounds great."
-    u "ouai, ça me vas."
+    u "Ouai, ça me vas."
 
 # game/v1/v1.rpy:3954
 translate francais be_bd_ca0cb783:
@@ -4799,7 +4799,7 @@ translate francais bf_bd_683c1010:
 translate francais bf_bd_bc8f5c5f:
 
     # cl "Oh yeah, she's my best friend. Haha, why are you asking?"
-    cl "Oh oui, c'est ma meilleure amie. Haha, pourquoi tu demandes ?"
+    cl "Oh ouai, c'est ma meilleure amie. Haha, pourquoi tu demandes ?"
 
 # game/v1/v1.rpy:4044
 translate francais bf_bd_76e4c6d8:
@@ -4817,7 +4817,7 @@ translate francais bf_bd_5bf6b182:
 translate francais bf_bd_50d28ae9:
 
     # u "Yeah, I've known him since middle school and let's just say he's always been very eager to get with girls."
-    u "Oui, je le connais depuis le collège et disons simplement qu'il a toujours été très désireux de se faire des filles."
+    u "Ouai, je le connais depuis le collège et disons simplement qu'il a toujours été très désireux de se faire des filles."
 
 # game/v1/v1.rpy:4059
 translate francais bf_bd_b1a9dc18:
@@ -4877,7 +4877,7 @@ translate francais bf_bd_78429ad0:
 translate francais bf_bd_64cd762c:
 
     # u "Uhh... yeah, let's go."
-    u "Euh... ouai, allons-y."
+    u "Euh... Ouai, allons-y."
 
 # game/v1/v1.rpy:4107
 translate francais bf_bd_d1473a43:
@@ -4963,7 +4963,7 @@ translate francais strings:
 
     # game/v1/v1.rpy:168
     old "Yeah... I’ll see you there."
-    new "ouai... Je te verrai là-bas."
+    new "Ouai... Je te verrai là-bas."
 
     # game/v1/v1.rpy:169
     old "You cheated on me.\nGo to hell!"
@@ -5011,7 +5011,7 @@ translate francais strings:
 
     # game/v1/v1.rpy:792
     old "Yeah, kinda"
-    new "ouai un peu"
+    new "Ouai un peu"
 
     # game/v1/v1.rpy:873
     old "Hey honey,\nenjoy your time in college.\nStay safe and don't forget to visit me.\nLove you"
@@ -5059,7 +5059,7 @@ translate francais strings:
 
     # game/v1/v1.rpy:1429
     old "Yeah sounds good :) Where do you wanna meet?"
-    new "ouai ça me vas :) Où veux-tu te qu'on se retrouve ?"
+    new "Ouai ça me vas :) Où veux-tu te qu'on se retrouve ?"
 
     # game/v1/v1.rpy:1430
     old "Just come to dorm 109 at 8"
@@ -5219,7 +5219,7 @@ translate francais strings:
 
     # game/v1/v1.rpy:3452
     old "Yeah, sure."
-    new "Oui bien sûr."
+    new "Ouai bien sûr."
 
     # game/v1/v1.rpy:3453
     old "What is there to talk about?"
@@ -5227,7 +5227,7 @@ translate francais strings:
 
     # game/v1/v1.rpy:3472
     old "Yeah, he better watch out."
-    new "ouai, il ferait mieux de faire attention."
+    new "Ouai, il ferait mieux de faire attention."
 
     # game/v1/v1.rpy:3472
     old "I didn't wanna fight him."
