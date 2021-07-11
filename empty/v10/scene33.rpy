@@ -4114,11 +4114,11 @@ translate empty strings:
 
     # game/v10/scene33.rpy:2769
     old "Riley"
-    new ""
+    new "Riley"
 
     # game/v10/scene33.rpy:2769
     old "Aubrey"
-    new ""
+    new "Aubrey"
 
     # game/v10/scene33.rpy:3104
     old "Witty retort"

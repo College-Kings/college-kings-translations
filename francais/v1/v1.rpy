@@ -1205,7 +1205,7 @@ translate francais v1_freeRoam1_elijah2_b4f07074:
 translate francais v1_freeRoam1_elijah2_27804adb:
 
     # el "Leave me alone."
-    el "Laisse-moi tranquille."
+    el "Fout moi la paix."
 
 # game/v1/v1.rpy:1096
 translate francais v1_freeRoam1_chris_a534bfa8:
@@ -1331,7 +1331,7 @@ translate francais v1_freeRoam1_aubrey_db8e9080:
 translate francais v1_freeRoam1_aubrey_3eb283e4:
 
     # u "(Oh my god... she's so fucking hot.)"
-    u "(Oh mon dieu... elle est tellement chaude.)"
+    u "(Oh mon dieu... elle est tellement canon.)"
 
 # game/v1/v1.rpy:1199
 translate francais v1_freeRoam1_aubrey_fbf24a6c:
@@ -1367,7 +1367,7 @@ translate francais efra_0a89cebe:
 translate francais efra_0b7398ae:
 
     # u "Hey man, I'm your new roommate."
-    u "Hé mec, je suis ton nouveau colocataire."
+    u "Salut mec, je suis ton nouveau colocataire."
 
 # game/v1/v1.rpy:1234
 translate francais efra_91eaa749:
@@ -1499,13 +1499,13 @@ translate francais efra_c7393401:
 translate francais efra_db44cc06:
 
     # u " Honestly, after listening to you, the Wolves sound sick!"
-    u "Honnêtement, après t'avoir écouté, les Wolves ont l'air d'être des malades !"
+    u "Honnêtement, après t'avoir écouté, les Wolves ont l'air d'être de gros malades !"
 
 # game/v1/v1.rpy:1340
 translate francais efra_590aac41:
 
     # imre "Yeahhhh! They fucking are man. That's what I've been trying to tell you."
-    imre "Ouaaaai ! Ce sont des putain de mec. C'est ce que j'ai essayé de te dire."
+    imre "Ouaaaai ! Ce sont des putains de vrais mec. C'est ce que j'ai essayé de te dire."
 
 # game/v1/v1.rpy:1343
 translate francais an_bd_4ec46fa2:
@@ -5051,7 +5051,7 @@ translate francais strings:
 
     # game/v1/v1.rpy:1308
     old "The Wolves sound sick."
-    new "Les Wolves ont l'air malades."
+    new "Les Wolves sont des malades."
 
     # game/v1/v1.rpy:1428
     old "Hey Lauren, would you want to hang out with me and my friends tonight?"
