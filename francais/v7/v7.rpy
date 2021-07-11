@@ -10258,13 +10258,13 @@ translate francais phoneba_017eb25d:
 translate francais phoneba_2ba12a40:
 
     # aut "Sounds like she is a perspicacious woman."
-    aut "Sounds like she is a perspicacious woman."
+    aut "On dirait que c'est une femme perspicace."
 
 # game/v7/v7.rpy:9451
 translate francais phoneba_bb87a1e6:
 
     # u "She is. Smart and strong for sure."
-    u "Elle l'est. Intelligente et forte à coup sûr."
+    u "Elle l'est. Intelligente et forte, absolument."
 
 # game/v7/v7.rpy:9456
 translate francais phoneba_57925813:
@@ -10276,7 +10276,7 @@ translate francais phoneba_57925813:
 translate francais phoneba_1e012e22:
 
     # u "But yeah, that's why I do it. Stand up for those who deserve it."
-    u "Mais oui, c'est pourquoi je le fais. Défendre ceux qui le méritent."
+    u "Mais ouai, c'est pourquoi je le fais. Défendre ceux qui le méritent."
 
 # game/v7/v7.rpy:9466
 translate francais phoneba_7b962360:
@@ -10294,7 +10294,7 @@ translate francais phoneba_a574f55c:
 translate francais phoneba_4cd88846:
 
     # aut "This movement definitely needs more men. Actually, I take that back. Haha. More men just need to realize their given privileges and stop being in denial. "
-    aut "Ce mouvement a définitivement besoin de plus d'hommes. En fait, je retire ça. Haha. Plus d'hommes ont juste besoin de réaliser leurs privilèges et d'arrêter d'être dans le déni."
+    aut "Ce mouvement a définitivement besoin de plus d'hommes. En fait, je reprend ça. Haha. Plus d'hommes ont juste besoin de réaliser leurs privilèges et d'arrêter d'être dans le déni."
 
 # game/v7/v7.rpy:9481
 translate francais phoneba_d73dab84:
