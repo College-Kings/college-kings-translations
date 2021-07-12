@@ -5163,15 +5163,15 @@ translate francais strings:
 
     # game/v1/v1.rpy:2735
     old "You're not ugly."
-    new "Tu n'es pas moche."
+    new "Tu n'es pas vilaine."
 
     # game/v1/v1.rpy:2761
     old "Kiss her"
-    new "L'embrasser"
+    new "Embrasse la"
 
     # game/v1/v1.rpy:2761
     old "Don't kiss her"
-    new "Ne fais rien.r"
+    new "Ne l'embrasse pas."
 
     # game/v1/v1.rpy:2923
     old "Hey man, it's Ryan.\nThe Apes' rush party is tonight at 9. You're coming, right???"

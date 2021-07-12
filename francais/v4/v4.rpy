@@ -4,25 +4,25 @@
 translate francais v4start_b4021613:
 
     # u "Imre? How you holding up buddy?"
-    u "Imre? Comment tu tiens le coup mon pote ?"
+    u "Imre ? Comment tu tiens le coup mon pote ?"
 
 # game/v4/v4.rpy:40
 translate francais v4start_c5ddf28e:
 
     # imre "Hey, I'm fine. *winces in pain*"
-    imre "Hé, je vais bien. * grimace de douleur *"
+    imre "Salut, je vais bien. * grimace de douleur *"
 
 # game/v4/v4.rpy:45
 translate francais v4start_340bf5a0:
 
     # u "The nurse said you had 3 broken ribs! What the hell happened?"
-    u "L'infirmière a dit que tu avais 3 côtes cassées ! Que diable s'est-il passé ?"
+    u "L'infirmière a dit que tu avais 3 côtes cassées ! Qu'est-ce qui s'est-il passé ?"
 
 # game/v4/v4.rpy:50
 translate francais v4start_bf4e1bad:
 
     # imre "Well I was hitting on this girl but she wasn't really into talking so I just started grinding on her a bit."
-    imre "Eh bien, je draguais cette fille mais elle n'aimait pas vraiment parler, alors j'ai juste commencé à la chauffer un peu."
+    imre "Eh bien, je draguais cette fille mais elle n'aimait pas vraiment parler, alors j'ai juste commencé à la peloter un peu."
 
 # game/v4/v4.rpy:52
 translate francais v4start_dffee429:
@@ -34,7 +34,7 @@ translate francais v4start_dffee429:
 translate francais v4start_df176aa7:
 
     # imre "Turns out that it was Adam and I was grinding on his sister."
-    imre "Il s'avère que c'était Adam et moi j'était en train de chauffer sa sœur."
+    imre "Il s'avère que c'était Adam et moi j'était en train de peloter sa sœur."
 
 # game/v4/v4.rpy:61
 translate francais v4start_9729603a:
@@ -52,7 +52,7 @@ translate francais v4start_de621888:
 translate francais v4start_0162cafc:
 
     # imre "And apparently Adam used to be an Ape, but last year one of his opponents wouldn't give up so he flipped and gouged his opponent's eyes."
-    imre "Et apparemment, Adam était un Apes, mais l'année dernière, l'un de ses adversaires n'a pas abandonné, alors il s'est vengé en crevé les yeux de son adversaire."
+    imre "Et apparemment, Adam était un Apes, mais l'année dernière, l'un de ses adversaires n'a pas abandonné, alors il s'est vengé en crevant les yeux de son adversaire."
 
 # game/v4/v4.rpy:70
 translate francais v4start_fdf80e7c:
@@ -82,7 +82,7 @@ translate francais v4start_bc819d28:
 translate francais v4start_3c649ef4:
 
     # u "Imre, you need to be more careful, man!"
-    u "Imre, tu dois être plus prudent, mec!"
+    u "Imre, tu dois être plus prudent, mec !"
 
 # game/v4/v4.rpy:92
 translate francais v4start_15e1a023:
@@ -130,7 +130,7 @@ translate francais v4start_e66b65b5:
 translate francais v4start_8ba31839:
 
     # u "I'll see you then, get better soon."
-    u "A plus alors, j'irais mieux bientôt."
+    u "A plus alors, soigne toi vite."
 
 # game/v4/v4.rpy:137
 translate francais v4start_f42f951a:
@@ -154,19 +154,19 @@ translate francais v4start_d646d5e5:
 translate francais v4start_1b518344:
 
     # u "The nurse said you'd be in here for two more days. I'll pick you up on Sunday alright?"
-    u "L'infirmière a dit que vous resteriez ici encore deux jours. Je viendrai te chercher dimanche d'accord ?"
+    u "L'infirmière a dit que tu restera ici encore deux jours. Je viendrai te chercher dimanche d'accord ?"
 
 # game/v4/v4.rpy:154
 translate francais v4start_e66b65b5_1:
 
     # imre "Alright, player. *winces in pain*"
-    imre "D'accord, joueur. * grimace de douleur *"
+    imre "D'accord, mec. * grimace de douleur *"
 
 # game/v4/v4.rpy:159
 translate francais v4start_8ba31839_1:
 
     # u "I'll see you then, get better soon."
-    u "A plus alors, ira mieux bientôt."
+    u "A plus alors, soigne toi vite."
 
 # game/v4/v4.rpy:169
 translate francais v4start_a98353e8:
@@ -202,7 +202,7 @@ translate francais v4start_e66b65b5_2:
 translate francais v4start_8ba31839_2:
 
     # u "I'll see you then, get better soon."
-    u "A plus alors, j'irais mieux bientôt."
+    u "A plus alors, Soigne toi vite."
 
 # game/v4/v4.rpy:208
 translate francais dp_ad_c67246ba:
@@ -232,7 +232,7 @@ translate francais dp_ad_6f1017a1:
 translate francais dp_ad_e79e7310:
 
     # ri "You know that booty calls nowadays aren't actually calls, people just text."
-    ri "Vous savez que les appels coquins de nos jours ne sont pas réellement des appels, les gens ne font que des textos."
+    ri "Tu sais que les appels coquins de nos jours ne sont pas réellement des appels, les gens ne font que des textos."
 
 # game/v4/v4.rpy:230
 translate francais dp_ad_a7e3f450:
@@ -244,7 +244,7 @@ translate francais dp_ad_a7e3f450:
 translate francais dp_ad_186f6247:
 
     # ri "What the hell?! Will he be okay?"
-    ri "Quelle merde?! Est-ce qu'il vas bien ?"
+    ri "Oh merde ?! Est-ce qu'il vas bien ?"
 
 # game/v4/v4.rpy:240
 translate francais dp_ad_1f61cdbb:
@@ -256,13 +256,13 @@ translate francais dp_ad_1f61cdbb:
 translate francais dp_ad_7cf930cb:
 
     # u "The nurse said he's lucky there was no internal bleeding."
-    u "L'infirmière a dit qu'il avait de la chance qu'il n'y ait pas eu de saignement interne."
+    u "L'infirmière a dit qu'il avait eu de la chance qu'il n'y ait pas eu d'hémoragie."
 
 # game/v4/v4.rpy:247
 translate francais dp_ad_b06a1579:
 
     # ri "Oh my god... Let me know when you're back at your dorm. I'll come over straight away if you wanna talk about it."
-    ri "Oh mon dieu... Préviens-moi quand tu seras de retour à ton dortoir. Je viendrai tout de suite si tu veux en parler."
+    ri "Oh mon dieu... Préviens-moi quand tu seras de retour au dortoir. Je viendrai tout de suite si tu veux en parler."
 
 # game/v4/v4.rpy:252
 translate francais dp_ad_dd3101e7:
@@ -292,13 +292,13 @@ translate francais dp_ad_4f1997c1:
 translate francais dp_ad_892195fa:
 
     # u "Hey..."
-    u "Hey..."
+    u "Salut..."
 
 # game/v4/v4.rpy:283
 translate francais dp_ad_a3357a82:
 
     # ri "Hey, I still can't believe this happened."
-    ri "Hé, je n'arrive toujours pas à croire que c'est arrivé."
+    ri "Salut, je n'arrive toujours pas à croire que c'est arrivé."
 
 # game/v4/v4.rpy:288
 translate francais dp_ad_5031cd94:
@@ -310,7 +310,7 @@ translate francais dp_ad_5031cd94:
 translate francais dp_ad_a20dfd33:
 
     # u "He gets out on Sunday. If you want to, you can come with me when I pick him up."
-    u "Il sort dimanche. Si tu veux, tu peux venir avec moi quand je viens le chercher."
+    u "Il sort dimanche. Si tu veux, tu peux venir avec moi quand j'irrais le chercher."
 
 # game/v4/v4.rpy:298
 translate francais dp_ad_8e1db608:
@@ -328,7 +328,7 @@ translate francais dp_ad_f26dcb73:
 translate francais dp_ad_14220c37:
 
     # ri "Does that mean I'll have to visit both of you in the hospital soon?"
-    ri "Est-ce que ça veut dire que je vais devoir vous rendre visite tous les deux à l'hôpital bientôt ?"
+    ri "Est-ce que ça veut dire que je vais devoir vous rendre visite à tous les deux à l'hôpital bientôt ?"
 
 # game/v4/v4.rpy:310
 translate francais dp_ad_14a15a75:
@@ -364,7 +364,7 @@ translate francais dp_ad_c7d00e58:
 translate francais dp_ad_b3d899b0:
 
     # ri "Right... sorry for bringing it up."
-    ri "D'accord... désolé d'avoir remonté ça."
+    ri "D'accord... désolé d'avoir remué ça."
 
 # game/v4/v4.rpy:352
 translate francais dq_bd_26cb2dcb:
@@ -382,7 +382,7 @@ translate francais dq_bd_24a1daf3:
 translate francais dq_bd_62b08434:
 
     # ri "Yeah, you're not wrong. That first night where we played truth or drink."
-    ri "Ouais, tu n'as pas tort. Cette première nuit où nous avons joué à vérité ou à boire."
+    ri "Ouais, tu n'as pas tort. Cette première nuit où nous avons joué à Action ou Boire."
 
 # game/v4/v4.rpy:364
 translate francais dq_bd_fc80a47f:
@@ -454,7 +454,7 @@ translate francais dq_bd_ee52491e:
 translate francais dq_bd_5d5c08d4:
 
     # ri "Good?"
-    ri "Bien?"
+    ri "Bien ?"
 
 # game/v4/v4.rpy:426
 translate francais dq_bd_c864f1d9:
@@ -3074,7 +3074,7 @@ translate francais strings:
 
     # game/v4/v4.rpy:436
     old "Ask her to sleep here"
-    new "Demandez-lui de dormir ici"
+    new "Demande-lui de dormir ici"
 
     # game/v4/v4.rpy:576
     old "Someone punched me."

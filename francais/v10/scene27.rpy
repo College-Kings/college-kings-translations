@@ -434,5 +434,5 @@ translate francais strings:
 
     # game/v10/scene27.rpy:219
     old "Don't ask"
-    new ""
+    new "Ne lui demande pas"
 
