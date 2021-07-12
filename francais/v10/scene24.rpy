@@ -634,5 +634,5 @@ translate francais strings:
 
     # game/v10/scene24.rpy:280
     old "Suck on her tits"
-    new "Suce ses seins"
+    new "Suce lui les tétons"
 

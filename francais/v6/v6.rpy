@@ -298,7 +298,7 @@ translate francais phoneac_e4edb176:
 translate francais phoneac_4fe7b5ae:
 
     # u "(Time to go swimming with the hottest girl in school...)"
-    u "(Il est temps d'aller nager avec la fille la plus chaude de l'école...)"
+    u "(Il est temps d'aller nager avec la fille la plus canon de l'école...)"
 
 # game/v6/v6.rpy:407
 translate francais phoneac_6c012194:
@@ -316,7 +316,7 @@ translate francais phoneac_e2b7805d:
 translate francais phoneac_d98f16ab:
 
     # u "So... swimming, huh?"
-    u "Alors... nager, hein ?"
+    u "Alors... tu veux nager, hein ?"
 
 # game/v6/v6.rpy:437
 translate francais phoneac_004fc5ac:
@@ -358,7 +358,7 @@ translate francais phoneac_9c87faa1:
 translate francais phoneac_a1aa5e4a:
 
     # u "What are you looking at?"
-    u "Qu'est ce que tu regardes ?"
+    u "Qu'est ce que tu mate ?"
 
 # game/v6/v6.rpy:466
 translate francais phoneac_cee49c18:
@@ -370,13 +370,13 @@ translate francais phoneac_cee49c18:
 translate francais phoneac_f8f3a056:
 
     # cl "I'm just trying to get us even."
-    cl "J'essaie juste d'avoir un bon souvenir."
+    cl "J'essayais juste d'avoir un bon souvenir."
 
 # game/v6/v6.rpy:473
 translate francais phoneac_3933dc40:
 
-    # u "Stare at you? You wish."
-    u "Te regarder ? Tu le souhaites."
+    # u "Stare at you ? You wish."
+    u "Moi te mater ? Dans tes rêves."
 
 # game/v6/v6.rpy:478
 translate francais phoneac_9a4cf874:
@@ -1144,7 +1144,7 @@ translate francais continuebd_39b3a66f_1:
 translate francais continuebd_5ac07643:
 
     # ri "I don't know, but he said he's already falling behind on the classwork, so I don't think him skipping class is a good idea."
-    ri "Je ne sais pas, mais il a dit qu'il prenait déjà du retard dans ses devoirs, donc je ne pense pas qu'il soit une bonne idée de sauter les cours."
+    ri "Je ne sais pas, mais il a dit qu'il prenait déjà du retard dans ses devoirs, donc je ne pense pas que se soit une bonne idée de sauter les cours pour lui."
 
 # game/v6/v6.rpy:1402
 translate francais continuebd_8831e416_3:
@@ -1222,7 +1222,7 @@ translate francais afterclass_e0edce24:
 translate francais afterclass_2f78175d:
 
     # u "Hey, what's the hurry?"
-    u "Allo, qu'est-ce qui est si pressé ?"
+    u "Salut, qu'est-ce qui est si pressé ?"
 
 # game/v6/v6.rpy:1507
 translate francais afterclass_1680868c:
@@ -1252,7 +1252,7 @@ translate francais afterclass_1235c127:
 translate francais afterclass_1010d005:
 
     # u "I'll see you later, Riley."
-    u "Je te verrai plus tard, Riley."
+    u "A plus tard, Riley."
 
 # game/v6/v6.rpy:1532
 translate francais afterclass_972cdec5:
@@ -1288,7 +1288,7 @@ translate francais afterclass_35d5d557:
 translate francais afterclass_e75c9cb1:
 
     # u "The wrong foot?! Are you kidding me?!"
-    u "Du mauvais pied ?! Tu te fout de ma gueule j'espère?!"
+    u "Du mauvais pied ?! Tu te fout de ma gueule j'espère ?!"
 
 # game/v6/v6.rpy:1571
 translate francais afterclass_0d1741b2:
@@ -11231,7 +11231,7 @@ translate francais strings:
 
     # game/v6/v6.rpy:151
     old "Explain yourself"
-    new "Expliquez-vous"
+    new "Explique-toi"
 
     # game/v6/v6.rpy:360
     old "I'm all by myself now."

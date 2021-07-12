@@ -310,7 +310,7 @@ translate francais strings:
 
     # game/v10/scene23.rpy:31
     old "Check it out"
-    new ""
+    new "Aller voir ça"
 
     # game/v10/scene23.rpy:31
     old "Keep walking"
@@ -322,5 +322,5 @@ translate francais strings:
 
     # game/v10/scene23.rpy:206
     old "Hot girls"
-    new ""
+    new "Filles canon"
 

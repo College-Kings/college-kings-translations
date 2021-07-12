@@ -3486,7 +3486,7 @@ translate francais strings:
 
     # game/v3/v3.rpy:1166
     old "Leave it"
-    new "Laisse la"
+    new "Laisse tomber"
 
     # game/v3/v3.rpy:1389
     old "I wanna talk about what happened yesterday."
