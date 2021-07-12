@@ -67,7 +67,7 @@ translate francais v2start_9ea2f78c:
 translate francais v2start_272f5aa4:
 
     # u "Man, Grayson is such an asshole. I didn't even do anything."
-    u "Mec, Grayson est un sale trou du cul. Je n'ai rien pu faire."
+    u "Mec, Grayson est un sale trou du cul. Je n'ai rien pu faire, il m'a pris en traitre."
 
 # game/v2/v2.rpy:135
 translate francais v2start_48095016:
@@ -79,7 +79,7 @@ translate francais v2start_48095016:
 translate francais v2start_22ca126f:
 
     # imre "If you knew how to fight, maybe he wouldn't fuck with you."
-    imre "Si t'avais su te battre, peut-être qu'il t'aurait pas défoncé."
+    imre "Si t'avais su te battre, peut-être qu'il t'aurait pas défoncé comme ça."
 
 # game/v2/v2.rpy:145
 translate francais v2start_327c6541:
@@ -91,7 +91,7 @@ translate francais v2start_327c6541:
 translate francais v2start_c08fe457:
 
     # imre "Just think about it, okay? I'll see you later."
-    imre "Juste, pense y, d'accord ? Je te vois plus tard."
+    imre "Juste, pense y, d'accord ? On se voit plus tard."
 
 # game/v2/v2.rpy:156
 translate francais v2start_f558cfe4:
@@ -121,7 +121,7 @@ translate francais v2start_acb5bdce:
 translate francais v2start_7098dbf0:
 
     # imre "That's all I'm asking for. I'll see you later."
-    imre "C'est tout ce que je te demande. Je te verrai plus tard."
+    imre "C'est tout ce que je te demande. On se voit plus tard."
 
 # game/v2/v2.rpy:182
 translate francais v2start_0b7c44c3:
@@ -199,19 +199,19 @@ translate francais walk1_ae5cc9c0:
 translate francais walk1_4b258b6b:
 
     # tom "Eyy, Mr. steal-your-girl got beaten up. *laughs*"
-    tom "Hé, \"M. Vole-ta-copine\" s'est fait tabasser. *rires*"
+    tom "Saluut, \"M. Je-vole-ta-copine\" s'est fait tabasser. *rires*"
 
 # game/v2/v2.rpy:259
 translate francais walk1_50708946:
 
     # tom "That's what you get for being such a little bitch."
-    tom "C'est ce qu'on gagne à être une petite salope comme toi."
+    tom "C'est ce qu'on gagne à être une petite salope dans ton genre."
 
 # game/v2/v2.rpy:269
 translate francais walk1_f9b61707:
 
     # tom "Yeah, you better keep walking, pussy."
-    tom "Ouais, tu ferais mieux de continuer à marcher, poufiasse."
+    tom "Ouais, tu ferais mieux de continuer à marcher, pétasse."
 
 # game/v2/v2.rpy:287
 translate francais v1_tomShoutBack_a3367190:
@@ -235,7 +235,7 @@ translate francais v1_tomShoutBack_d84467b5:
 translate francais v1_tomShoutBack_8fff8082:
 
     # tom "Fuck you!"
-    tom "Va te faire foutre !"
+    tom "Va te faire enculer !"
 
 # game/v2/v2.rpy:315
 translate francais gb_9ea2f78c:
@@ -511,7 +511,7 @@ translate francais meet_lauren2_7fca1bb1:
 translate francais meet_lauren2_ee09bd0b:
 
     # u "No but... I didn't even do anything."
-    u "Non mais... je n'ai rien pu faire, il m'a pris par derrière."
+    u "Non mais... Il m'a attaqué en traitre, je n'ai rien pu faire."
 
 # game/v2/v2.rpy:1168
 translate francais meet_lauren2_688b87bc:
@@ -1045,7 +1045,7 @@ translate francais nextsceneo_e22c93f3:
 translate francais nextsceneo_16ff9ca7:
 
     # "*Class laughing*"
-    "*La classe rit"
+    "*La classe rit*"
 
 # game/v2/v2.rpy:1602
 translate francais nextsceneo_62f46205:
@@ -1543,7 +1543,7 @@ translate francais bq_bd_43ceef73:
 translate francais bq_bd_6a1ac90c:
 
     # ben "I mean yeah, but technically - I didn't get into law school."
-    ben "Je veux dire oui, mais techniquement - je ne suis pas entré en faculté de droit."
+    ben "En fait oui, mais techniquement - je ne suis pas entré en faculté de droit."
 
 # game/v2/v2.rpy:2063
 translate francais bq_bd_56bfd909:
@@ -1609,7 +1609,7 @@ translate francais bq_bd_0a03aa80:
 translate francais bq_bd_d2c46c7b:
 
     # u "Sure, knock yourself out, man. We're not an item."
-    u "Bien sûr, vas la draguer, mec. Nous ne sommes pas ensemble."
+    u "Bien sûr, tape toi là, mec. Nous ne sommes pas ensemble."
 
 # game/v2/v2.rpy:2123
 translate francais bq_bd_e5de44d4:
@@ -1621,13 +1621,13 @@ translate francais bq_bd_e5de44d4:
 translate francais bq_bd_7a9562a5:
 
     # u "Please don't..."
-    u "Non par pitiée, ne pense pas à moi..."
+    u "Non par pitiée... Ne pense pas à moi..."
 
 # game/v2/v2.rpy:2137
 translate francais bq_bd_1051b39e:
 
     # u "Just - just stay away from her, okay?"
-    u "Reste - bas les pattes, d'accord ?"
+    u "Ne - Ne t'approche pas d'elle, d'accord ?"
 
 # game/v2/v2.rpy:2142
 translate francais bq_bd_3afbede2:
@@ -1747,7 +1747,7 @@ translate francais br_bd_7e05f0f5:
 translate francais br_bd_ee2db0a2:
 
     # em "I guess he's kinda cute, but also a bit weird."
-    em "Je suppose qu'il est plutôt mignon, mais aussi un peu bizarre."
+    em "Je trouve qu'il est plutôt mignon, mais aussi un peu bizarre."
 
 # game/v2/v2.rpy:2239
 translate francais br_bd_084ab882:
@@ -1795,7 +1795,7 @@ translate francais bs_bd_16d3800d:
 translate francais bs_bd_2977c7af:
 
     # ehr "Alright, let me have a closer look and see if there's anything unusual about it."
-    ehr "Très bien, laissez-moi regarder de plus près et voir s'il y a quelque chose d'inhabituel à ce sujet."
+    ehr "Très bien, laissez-moi regarder de plus près et voir s'il y a quelque chose d'inhabituel dans cet œil."
 
 # game/v2/v2.rpy:2280
 translate francais bs_bd_99ef3bd4:
@@ -1969,13 +1969,13 @@ translate francais repeatc_c40fb6f1:
 translate francais repeatc_19c16b65:
 
     # pe "But then I was like \"Penelope, you need to start talking to people at some point\" and then I approached you."
-    pe "Mais ensuite j'étais comme \"Penelope, tu dois commencer à parler aux gens à un moment donné\" et puis je t'ai abordé."
+    pe "Mais ensuite je me suis dis \"Penelope, tu dois commencer à parler aux gens à un moment donné\" et puis je t'ai abordé."
 
 # game/v2/v2.rpy:2418
 translate francais repeatc_0fb938bb:
 
     # u "Okay... I'm [name] and-"
-    u "D'accord... je suis [name] et-
+    u "D'accord... Moi c'est [name] et-
 "
 
 # game/v2/v2.rpy:2423
@@ -2030,7 +2030,7 @@ translate francais repeatc_1b0771d1:
 translate francais repeatc_022d738f:
 
     # pe "And my dad paid a lot of money so I could go to my old college and now he's super mad and he said I'll have to get a job 'cause he's gonna cut my money off."
-    pe "Et mon père a payé beaucoup d'argent pour que je puisse aller dans mon ancien collège et maintenant il est super énervé et il a dit que je devrais trouver un travail parce qu'il va me couper les vivres."
+    pe "Et mon père a payé beaucoup d'argent pour que je puisse revenir dans mon université précédente et maintenant il est super énervé et il a dit que je devrais trouver un travail parce qu'il va me couper les vivres."
 
 # game/v2/v2.rpy:2461
 translate francais repeatc_5f653432:
@@ -2060,7 +2060,7 @@ translate francais repeatc_f726c180:
 translate francais repeatc_2725f76b:
 
     # u "It's all good. It's just... Why did you get kicked out of your old college?"
-    u "C'est parfait. C'est juste... Pourquoi t'es-tu fait virer de ton ancienne fac ?"
+    u "C'est parfait. C'est juste... Pourquoi t'es-tu fait virer de ton ancienne université ?"
 
 # game/v2/v2.rpy:2483
 translate francais repeatc_f708ba5e:
@@ -2102,7 +2102,7 @@ translate francais repeatc_ae3c79d1:
 translate francais repeatc_6ec17477:
 
     # u "(Fuck, I totally forgot about Aubrey. I guess it's time to make a decision.)"
-    u "(Putain, j'ai totalement oublié Aubrey. Je suppose qu'il est temps de prendre une décision.)"
+    u "(Putain, j'ai totalement oublié Aubrey. Je pense qu'il est temps de prendre une décision.)"
 
 # game/v2/v2.rpy:2522
 translate francais repeatg_234dd80d:
@@ -3910,7 +3910,7 @@ translate francais strings:
 
     # game/v2/v2.rpy:8
     old "Don't you dare defend that guy"
-    new "Ne t'avise pas de défendre ce gars"
+    new "Ne t'avise pas de défendre ce connard"
 
     # game/v2/v2.rpy:15
     old "Sorry..."
@@ -3918,7 +3918,7 @@ translate francais strings:
 
     # game/v2/v2.rpy:27
     old "Great, I'll see you then :)"
-    new "Super, je te verrai plus tard alors :)"
+    new "Super, à tout de suite alors :)"
 
     # game/v2/v2.rpy:36
     old "It's fine, you go get her."
@@ -4110,7 +4110,7 @@ translate francais strings:
 
     # game/v2/v2.rpy:2106
     old "Sure, knock yourself out."
-    new "Bien sûr, fait lui du gringue."
+    new "Bien sûr, tape toi là."
 
     # game/v2/v2.rpy:2106
     old "Stay away from her."
@@ -4154,7 +4154,7 @@ translate francais strings:
 
     # game/v2/v2.rpy:2742
     old "Stop peeking"
-    new "Arrête de regarder"
+    new "Arrêter"
 
     # game/v2/v2.rpy:2792
     old "It's kinda hot."

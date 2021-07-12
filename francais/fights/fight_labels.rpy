@@ -16,7 +16,7 @@ translate francais fight_tutorialLabel_ae7d5522:
 translate francais fight_tutorialLabel_0c9e457e:
 
     # tut "Since you're new to fighting, you only have 3 simple attacks:"
-    tut "Comme tu débutez dans le combat, tu n'as que 3 attaques simples :"
+    tut "Comme tu débute dans le combat, tu n'as que 3 attaques simples :"
 
 # game/fights/fight_labels.rpy:13
 translate francais fight_tutorialLabel_96c8a50f:
@@ -46,7 +46,7 @@ translate francais fight_tutorialLabel_0892bfef:
 translate francais fight_tutorialLabel_bcd5956e:
 
     # tut "When attacking, look at the opponent's stance and try to identify possible points of attack."
-    tut "Lorsque tu attaque, regardez la position de l'adversaire et essaye d'identifier les points d'attaque possibles."
+    tut "Lorsque tu attaque, regarde la position de l'adversaire et essaye d'identifier les points d'attaque possibles."
 
 # game/fights/fight_labels.rpy:31
 translate francais fight_tutorialLabel_472c2aed:
