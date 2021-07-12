@@ -1426,7 +1426,7 @@ translate francais ft_ad_4be465d7:
 translate francais ft_ad_7e08fcea:
 
     # u "Are you okay? What happened?"
-    u "Est-ce que ça va ? Que s'est-il passé ?"
+    u "Est-ce que ça va ? Qu'est-ce qui vous arrive ?"
 
 # game/v6/v6.rpy:1702
 translate francais ft_ad_3edb39b7:
@@ -1438,7 +1438,7 @@ translate francais ft_ad_3edb39b7:
 translate francais ft_ad_3c75c9fa:
 
     # u "Are you sure? Maybe I can help."
-    u "Êtes-vous sûre ? Peut-être que je peux aider."
+    u "Vous êtes sure ? Je peux peut-être vous aider."
 
 # game/v6/v6.rpy:1712
 translate francais ft_ad_fee87927:
@@ -1486,7 +1486,7 @@ translate francais ft_ad_2e47791b:
 translate francais ft_ad_281dfb87:
 
     # ro "Thanks, really. I appreciate it."
-    ro "Merci, vraiment. Je vous en suis reconnaissante."
+    ro "Merci, vraiment. Je t'en suis reconnaissante."
 
 # game/v6/v6.rpy:1752
 translate francais ft_ad_f908a0f6:
@@ -1564,7 +1564,7 @@ translate francais continuebe_473326b7:
 translate francais continuebe_7f33cf07:
 
     # u "*Out of breath* Hey, Nora!"
-    u "*À bout de souffle* Hé, Nora !"
+    u "*À bout de souffle* Salut, Nora !"
 
 # game/v6/v6.rpy:1851
 translate francais continuebe_8e61bb0f:
@@ -2386,7 +2386,7 @@ translate francais fz_b_d55a56e4:
 translate francais fz_b_3b7a3d46:
 
     # u "Emily! What are you doing?!"
-    u "Emily! Qu'est-ce que tu fait ?!"
+    u "Emily ! Qu'est-ce que tu fait ?!"
 
 # game/v6/v6.rpy:2681
 translate francais fz_b_87cc5356:
@@ -2542,7 +2542,7 @@ translate francais emhead_3da381ca:
 translate francais emhead_00eb4eed:
 
     # em "Yesss... treat me like your dirty little slut."
-    em "Ouiii... traite-moi comme ta sale petite chienne."
+    em "Ouiii... traite-moi comme ta petite salope."
 
 # game/v6/v6.rpy:2833
 translate francais emfacefuck_50e4e445:
@@ -2583,7 +2583,7 @@ translate francais emfacefuck_ac06ae34:
 translate francais emfacefuck_c6fea742:
 
     # u "You wanna be fucked you little slut?"
-    u "Tu veux te faire baiser petite salope ?"
+    u "Tu veux te faire baiser ma petite salope hein ?"
 
 # game/v6/v6.rpy:2856
 translate francais emfacefuck_3696aa12:
@@ -2709,7 +2709,7 @@ translate francais emclimax_567b5ff2:
 translate francais emclimax_cfd5ae1b:
 
     # u "You are on the pill right?"
-    u "Tu prends la pilule non ?"
+    u "Tu prends la pilule, non ?"
 
 # game/v6/v6.rpy:2949
 translate francais emclimax_a15a0920:
@@ -2775,7 +2775,7 @@ translate francais v6_nsfwSkipLabel1_2265f685:
 translate francais v6_nsfwSkipLabel1_4592c69f:
 
     # u "Emily, you know I can't. I'll see you later."
-    u "Emily, tu sais que je ne peux pas. Je te verrai plus tard."
+    u "Emily, tu sais que je ne peux pas. À plus tard."
 
 # game/v6/v6.rpy:3002
 translate francais v6_nsfwSkipLabel1_1d3ccfe2:
@@ -2877,7 +2877,7 @@ translate francais fy_bd_0fcc3371:
 translate francais fy_bd_30ca988d:
 
     # u "Jesus... Enjoy."
-    u "Seigneur... Profite."
+    u "Ok... Profite."
 
 # game/v6/v6.rpy:3138
 translate francais continuebg_b4fe6db7:
@@ -3477,7 +3477,7 @@ translate francais v6_phoneah_0b5740d2:
 translate francais v6_phoneah_299f3124:
 
     # u "(I guess I'm going to Aubrey's)"
-    u "(Je suppose que je vais chez Aubrey)"
+    u "(Je dois aller chez Aubrey)"
 
 # game/v6/v6.rpy:3737
 translate francais v6_phoneah_8e7e0d9e:
@@ -3519,13 +3519,13 @@ translate francais v6_phoneah_40eaa1be:
 translate francais v6_phoneah_901627c0:
 
     # au "None of the girls are home. We got the whole place to ourselves."
-    au "Aucune des filles n'est à la maison. Nous avons toute la place pour nous."
+    au "Aucune des filles n'est à la maison. Nous avons toute la place pour nous tout seuls."
 
 # game/v6/v6.rpy:3778
 translate francais v6_phoneah_2aefe6db:
 
     # au "So are you gonna come in or what?"
-    au "Alors tu vas entrer ou quoi ?"
+    au "Alors tu entre ou quoi ?"
 
 # game/v6/v6.rpy:3788
 translate francais v6_phoneah_53ca9dd2:
@@ -3609,13 +3609,13 @@ translate francais v6_phoneah_0073a849:
 translate francais v6_phoneah_6fe20a0c:
 
     # u "It's kinda crazy how you're so cool with it."
-    u "C'est un peu fou comme tu es si cool avec ça."
+    u "C'est un peu dingue comme tu es si à l'aise avec ça."
 
 # game/v6/v6.rpy:3870
 translate francais v6_phoneah_afc4fcaa:
 
     # au "It's actually kinda hot."
-    au "C'est en fait un peu chaud."
+    au "En réalité, c'est un peu sexy."
 
 # game/v6/v6.rpy:3876
 translate francais v6_phoneah_87172167:
@@ -4017,7 +4017,7 @@ translate francais naubfingering_f32b0681:
 translate francais naubfingering_5c234ace:
 
     # au "[name] please... *Moans*"
-    au "[nom] s'il te plaît... *Gémissements*"
+    au "[name] s'il te plaît... *Gémissements*"
 
 # game/v6/v6.rpy:4290
 translate francais naubfingering_f198172c:
@@ -5049,7 +5049,7 @@ translate francais wakeupa_1908f62b:
 translate francais wakeupa_c85b8be3:
 
     # imre "Great job today man, you're really learning fast. The Wolves are gonna love you."
-    imre "Super boulot aujourd'hui mec, tu apprends vraiment vite. Les loups vont t'aimer."
+    imre "Super boulot aujourd'hui mec, tu apprends vraiment vite. Les Wolves vont t'aimer."
 
 # game/v6/v6.rpy:5358
 translate francais wakeupa_0596a09d:
@@ -8007,7 +8007,7 @@ translate francais v6_fr3chris1_a999289a:
 translate francais v6_fr3chris1_a1be1d42:
 
     # ch "The one key difference is loyalty. The Apes will do anything to win, even if that means stepping on each other."
-    ch "La seule différence clé est la fidélité. Les singes feront tout pour gagner, même si cela signifie se marcher les uns sur les autres."
+    ch "La seule différence clé est la fidélité. Les Apes feront tout pour gagner, même si cela signifie se marcher les uns sur les autres."
 
 # game/v6/v6.rpy:7993
 translate francais v6_fr3chris1_e3386e41:
@@ -8019,7 +8019,7 @@ translate francais v6_fr3chris1_e3386e41:
 translate francais v6_fr3chris1_ce333bdd:
 
     # ch "In the Wolves, loyalty and the brotherhood always comes first."
-    ch "Chez les Loups, la loyauté et la fraternité passent toujours en premier."
+    ch "Chez les Wolves, la loyauté et la fraternité passent toujours en premier."
 
 # game/v6/v6.rpy:7997
 translate francais v6_fr3chris1_909240b4:
@@ -8163,7 +8163,7 @@ translate francais v6_fr3chris1_fd6d164f:
 translate francais v6_fr3chris1_a5d51e96:
 
     # u "Hey, I'm [name]. You're Chris, right? The Wolves' President?"
-    u "Hé, je suis [nom]. Tu es Chris, n'est-ce pas ? Le président des Wolves ?"
+    u "Hé, je suis [name]. Tu es Chris, n'est-ce pas ? Le président des Wolves ?"
 
 # game/v6/v6.rpy:8110
 translate francais v6_fr3chris1_35ed20ec:
@@ -8559,7 +8559,7 @@ translate francais v6_fr3riley1_181dce3f:
 translate francais v6_fr3riley1_af1017f0:
 
     # u "He used to be a Wolf, right?"
-    u "C'était un loup, n'est-ce pas ?"
+    u "C'était un Wolves, n'est-ce pas ?"
 
 # game/v6/v6.rpy:8449
 translate francais v6_fr3riley1_0c31f35e:
@@ -9681,7 +9681,7 @@ translate francais v6_fr3office_8c466545:
 translate francais v6_fr3office_1e1c7e30:
 
     # u "(It's filled with all of these historic Wolves' relics.)"
-    u "(Il est rempli de toutes les reliques de ces loups historiques.)"
+    u "(Il est rempli de toutes les reliques de ces Wolves historiques.)"
 
 # game/v6/v6.rpy:9413
 translate francais v6_fr3picture_a5372e00:
@@ -11331,7 +11331,7 @@ translate francais strings:
 
     # game/v6/v6.rpy:1836
     old "Stay on your route"
-    new "Restez sur votre itinéraire"
+    new "Reste sur ton itinéraire"
 
     # game/v6/v6.rpy:2005
     old "It'll be an adventure."

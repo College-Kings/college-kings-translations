@@ -238,7 +238,7 @@ translate francais v7start_831481ac:
 translate francais v7start_c3845f42:
 
     # ch "I told you, we don't discriminate based on prejudices. That's Earl Levington. He was a brain, probably the smartest Wolf we ever had."
-    ch "Je te l'ai dit, nous ne discriminons pas sur la base de préjugés. C'est Earl Levington. C'était un cerveau, probablement le loup le plus intelligent que nous ayons jamais eu."
+    ch "Je te l'ai dit, nous ne discriminons pas sur la base de préjugés. C'est Earl Levington. C'était un cerveau, probablement le Wolves le plus intelligent que nous ayons jamais eu."
 
 # game/v7/v7.rpy:245
 translate francais v7start_10e84c19:
@@ -1739,7 +1739,7 @@ translate francais apologylauren_4f1997c1:
 translate francais apologylauren_58aa5a7e:
 
     # la "[name]? What are you doing here?"
-    la "[Nom] ? Que fais-tu ici ?"
+    la "[name] ? Que fais-tu ici ?"
 
 # game/v7/v7.rpy:1687
 translate francais apologylauren_1d1745a2:
@@ -3017,7 +3017,7 @@ translate francais beachlauren_b7fec015:
 translate francais beachlauren_a5ad2742:
 
     # la "No [name]... but if you're already joining a frat, why not at least one that doesn't reek of toxic masculinity?"
-    la "Non [nom]... mais si tu rejoins déjà une fraternité, pourquoi pas au moins une qui ne pue pas la masculinité toxique ?"
+    la "Non [name]... mais si tu rejoins déjà une fraternité, pourquoi pas au moins une qui ne pue pas la masculinité toxique ?"
 
 # game/v7/v7.rpy:2898
 translate francais beachlauren_75214e48:
@@ -3605,7 +3605,7 @@ translate francais afterbeach_9cf51854:
 translate francais afterbeach_ff36e0fe:
 
     # u "(Pledging starts soon, I told Grayson I'd join the Apes, but is that really the right call? I mean the Wolves party was sick...)"
-    u "(Les promesses de dons commencent bientôt, j'ai dit à Grayson que je rejoindrais les singes, mais est-ce vraiment la bonne décision ? Je veux dire que le groupe des Wolves était malade...)"
+    u "(Les promesses de dons commencent bientôt, j'ai dit à Grayson que je rejoindrais les Apes, mais est-ce vraiment la bonne décision ? Je veux dire que le groupe des Wolves était malade...)"
 
 # game/v7/v7.rpy:3470
 translate francais afterbeach_6d742799:
@@ -3647,13 +3647,13 @@ translate francais afterbeach_0f6f4e40:
 translate francais afterbeach_e3369032:
 
     # u "(Grayson might kill me when he finds out, but I can't join the Apes. I gotta pledge to the Wolves.)"
-    u "(Grayson pourrait me tuer quand il le découvrira, mais je ne peux pas rejoindre les singes. Je dois m'engager envers les Wolves.)"
+    u "(Grayson pourrait me tuer quand il le découvrira, mais je ne peux pas rejoindre les Apes. Je dois m'engager envers les Wolves.)"
 
 # game/v7/v7.rpy:3499
 translate francais afterbeach_3c180a03:
 
     # u "(Pledging starts soon, I told Grayson I wouldn't join the Apes, but is that really the right call? I mean he did say some things that really resonated with me...)"
-    u "(Les engagements commencent bientôt, j'ai dit à Grayson que je ne rejoindrais pas les singes, mais est-ce vraiment la bonne décision ? Je veux dire qu'il a dit des choses qui m'ont vraiment marqué ...)"
+    u "(Les engagements commencent bientôt, j'ai dit à Grayson que je ne rejoindrais pas les Apes, mais est-ce vraiment la bonne décision ? Je veux dire qu'il a dit des choses qui m'ont vraiment marqué ...)"
 
 # game/v7/v7.rpy:3501
 translate francais afterbeach_953db6f5:
@@ -3952,13 +3952,13 @@ translate francais pledgewolves_837b1d46:
 # game/v7/v7.rpy:3719
 translate francais pledgewolves_d074c59c:
     # ch "You will be given tasks to test how much you really want to be a Wolf{w}, how far you're willing to go{w}, and what you're willing to give up."
-    ch "On vous donnera des tâches pour tester à quel point vous voulez vraiment être un loup {w}, jusqu'où vous êtes prêt à aller {w} et ce que vous êtes prêt à abandonner."
+    ch "On vous donnera des tâches pour tester à quel point vous voulez vraiment être un Wolves {w}, jusqu'où vous êtes prêt à aller {w} et ce que vous êtes prêt à abandonner."
 
 # game/v7/v7.rpy:3720
 translate francais pledgewolves_7fcdf632:
 
     # ch "Other wolves will guide you with the tasks. Let's get started."
-    ch "D'autres loups vous guideront dans les tâches. Commençons."
+    ch "D'autres Wolves vous guideront dans les tâches. Commençons."
 
 # game/v7/v7.rpy:3724
 translate francais pledgewolves_8856c5a9:
@@ -4360,7 +4360,7 @@ translate francais chloe_call_5e7141c7:
 translate francais chloe_call_15420168:
 
     # cl "Hey [name]... can you talk right now?"
-    cl "Allo ? [nom]... peux-tu parler maintenant ? "
+    cl "Allo ? [name]... peux-tu parler maintenant ? "
 
 # game/v7/v7.rpy:4024
 translate francais chloe_call_b90f9b78:
@@ -4642,7 +4642,7 @@ translate francais aftercall_a324b476:
 translate francais aftercall_7816f159:
 
     # ch "And last but not least, [name]."
-    ch "Et last but not least, [nom]."
+    ch "Et last but not least, [name]."
 
 # game/v7/v7.rpy:4183
 translate francais aftercall_b9261e89:
@@ -5326,7 +5326,7 @@ translate francais pledgeapes_1c624ba1:
 translate francais pledgeapes_8eb504bb:
 
     # ry "Hey, what's up? You've finally come around to join the Apes or what?"
-    ry "Hey, qu'est-ce qu'il y a ? Tu es enfin venu rejoindre les singes ou quoi ?"
+    ry "Hey, qu'est-ce qu'il y a ? Tu es enfin venu rejoindre les Apes ou quoi ?"
 
 # game/v7/v7.rpy:4746
 translate francais pledgeapes_9da1fe3a:
@@ -8038,7 +8038,7 @@ translate francais hc_asking_chloe_25a968cf:
 translate francais hc_asking_chloe_5049dd5d:
 
     # cl "I'm sorry [name], but I can't be anyone's date, I'd need to find a replacement and everything."
-    cl "Je suis désolé [nom], mais je ne peux être le rendez-vous de personne, il faudrait que je trouve un remplaçant et tout."
+    cl "Je suis désolé [name], mais je ne peux être le rendez-vous de personne, il faudrait que je trouve un remplaçant et tout."
 
 # game/v7/v7.rpy:6916
 translate francais hc_asking_chloe_32dd222c:
@@ -8266,7 +8266,7 @@ translate francais hc_asking_penelope_36fb2319:
 translate francais hc_asking_penelope_f6a14c8b:
 
     # pe "*Laughs* [name]? Why are you dressed like this?"
-    pe "*Rires* [nom] ? Pourquoi tu es habillé comme ça ?"
+    pe "*Rires* [name] ? Pourquoi tu es habillé comme ça ?"
 
 # game/v7/v7.rpy:7116
 translate francais hc_asking_penelope_3003defe:
@@ -10420,7 +10420,7 @@ translate francais phoneba_87147a15:
 translate francais walking_through_hallways_2a956c6e:
 
     # ro "Hey [name], would you mind getting me the tape?"
-    ro "Salut [nom], ça te dérangerait de m'apporter le ruban adhésif ?"
+    ro "Salut [name], ça te dérangerait de m'apporter le ruban adhésif ?"
 
 # game/v7/v7.rpy:9614
 translate francais walking_through_hallways_fab479d9:
@@ -14296,7 +14296,7 @@ translate francais fr4penelopedatechloe_711e5681:
 translate francais fr4penelopedatechloe_8dd75c16:
 
     # pe "Thank you for the amazing evening! Good night, [name]."
-    pe "Merci pour cette soirée incroyable ! Bonne nuit, [nom]."
+    pe "Merci pour cette soirée incroyable ! Bonne nuit, [name]."
 
 # game/v7/v7.rpy:13733
 translate francais fr4penelopedatechloe_67cd6c02:
@@ -14986,7 +14986,7 @@ translate francais fr4aaron1_7dcc9b07:
 translate francais fr4aaron1_82d7de3d:
 
     # u "Actually I was at the Wolves rush party just a few days ago..."
-    u "En fait, j'étais à la fête des loups il y a quelques jours à peine..."
+    u "En fait, j'étais à la fête des Wolves il y a quelques jours à peine..."
 
 # game/v7/v7.rpy:14548
 translate francais fr4aaron1_f6d28fe2:
@@ -15088,7 +15088,7 @@ translate francais fr4aaron1_698601dc_2:
 translate francais fr4aaron1_98852177:
 
     # u "Also, I was actually at the Wolves rush party just a few days ago..."
-    u "De plus, j'étais en fait à la fête des loups il y a quelques jours à peine..."
+    u "De plus, j'étais en fait à la fête des Wolves il y a quelques jours à peine..."
 
 # game/v7/v7.rpy:14632
 translate francais fr4aaron1_f6d28fe2_1:
@@ -15946,7 +15946,7 @@ translate francais fr4cameron1_7cf330db:
 translate francais fr4cameron1_09cd2e32:
 
     # ca "Get the fuck out of here, you Wolf nerd."
-    ca "Casse toi d'ici, espèce de nerd de loup."
+    ca "Casse toi d'ici, espèce de nerd de Wolves."
 
 # game/v7/v7.rpy:15579
 translate francais fr4cameron1_10681e91:
@@ -16306,7 +16306,7 @@ translate francais fr4imre1_a295b3d0:
 translate francais fr4imre1_8cc81941:
 
     # imre "[name]? That you?"
-    imre "[Nom]? Que vous?"
+    imre "[name]? Que vous?"
 
 # game/v7/v7.rpy:15907
 translate francais fr4imre1_620de1ad:
