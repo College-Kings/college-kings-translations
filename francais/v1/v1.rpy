@@ -4487,7 +4487,7 @@ translate francais fr2end_4d1115dc:
 translate francais fr2end_9a31af9b:
 
     # ry "I think that's Chloe, right? I talked to some of the Chicks and she's like their president."
-    ry "Je pense que c'est Chloé, non ? J'ai parlé à certaines des Chicks et elle est comme leur présidente."
+    ry "Je pense que c'est Chloe, non ? J'ai parlé à certaines des Chicks et elle est comme leur présidente."
 
 # game/v1/v1.rpy:3782
 translate francais fr2end_5e0569e2:
@@ -4589,7 +4589,7 @@ translate francais bd_bd_281d410d:
 translate francais bd_bd_f1f27610:
 
     # cl "I'm Chloe."
-    cl "Chloé."
+    cl "Chloe."
 
 # game/v1/v1.rpy:3870
 translate francais bd_bd_b54d3e2d:

@@ -4146,7 +4146,7 @@ translate francais strings:
 
     # game/v10/scene33.rpy:3487
     old "Defend Chloe"
-    new ""
+    new "Défend Chloe"
 
     # game/v10/scene33.rpy:3600
     old "It's okay"

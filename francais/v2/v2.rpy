@@ -175,7 +175,7 @@ translate francais walk1_5d38ae25:
 translate francais walk1_138f9c3b:
 
     # u "(Especially in front of Chloe, that's so humiliating.)"
-    u "(Surtout devant Chloé, c'est tellement humiliant.)"
+    u "(Surtout devant Chloe, c'est tellement humiliant.)"
 
 # game/v2/v2.rpy:248
 translate francais walk1_3263fe5c:
@@ -3902,7 +3902,7 @@ translate francais strings:
 
     # game/v2/v2.rpy:6
     old "Look, I know what Grayson did was a dick move, but he was just being overprotective of Chloe"
-    new "Écoute, je sais que ce que Grayson a fait était un coup de pute, mais il est juste surprotecteur envers Chloé"
+    new "Écoute, je sais que ce que Grayson a fait était un coup de pute, mais il est juste surprotecteur envers Chloe"
 
     # game/v2/v2.rpy:7
     old "Whatever"
@@ -4130,7 +4130,7 @@ translate francais strings:
 
     # game/v2/v2.rpy:2343
     old "He's not even dating Chloe and you guys didn't even do anything so I don't know what he was thinking.\n\nAnyway, do you wanna like... hang out tomorrow?"
-    new "Il ne sort même pas avec Chloé et vous n'avez rien fait de mal, donc je ne sais pas à quoi il pensait.\n\nQuoi qu'il en soit, veux-tu... comme qui dirait sortir demain ?"
+    new "Il ne sort même pas avec Chloe et vous n'avez rien fait de mal, donc je ne sais pas à quoi il pensait.\n\nQuoi qu'il en soit, veux-tu... comme qui dirait sortir demain ?"
 
     # game/v2/v2.rpy:2344
     old "Wait they're not dating?"

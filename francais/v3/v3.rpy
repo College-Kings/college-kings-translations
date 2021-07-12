@@ -412,7 +412,7 @@ translate francais conl_fcc18885:
 translate francais conl_e50de037:
 
     # u "(Okay, it's 11:50 pm. Time to go to the gym to meet Chloe.)"
-    u "(D'accord, il est 23h50. Il est temps d'aller à la salle de sport pour rencontrer Chloé.)"
+    u "(D'accord, il est 23h50. Il est temps d'aller à la salle de sport pour rencontrer Chloe.)"
 
 # game/v3/v3.rpy:408
 translate francais conl_113f6d70:
@@ -712,7 +712,7 @@ translate francais cr_bd_3ed7e322:
 translate francais cr_bd_6b69ffb3:
 
     # u "I'll see you, Chloe."
-    u "A plus, Chloé."
+    u "A plus, Chloe."
 
 # game/v3/v3.rpy:783
 translate francais cr_bd_5172a633:
@@ -1588,7 +1588,7 @@ translate francais repeatl_955adae1:
 translate francais repeatl_c150af54:
 
     # au "Once, Chloe. But it was just a quick mouth on mouth, no tongue."
-    au "Une fois, Chloé. Mais c'était juste un smack rapide, pas de langue."
+    au "Une fois, Chloe. Mais c'était juste un smack rapide, pas de langue."
 
 # game/v3/v3.rpy:1715
 translate francais repeatl_a3e8b422:
@@ -1822,7 +1822,7 @@ translate francais repeatm_955adae1:
 translate francais repeatm_c150af54:
 
     # au "Once, Chloe. But it was just a quick mouth on mouth, no tongue."
-    au "Une fois, Chloé. Mais c'était juste un smack rapide, pas de langue."
+    au "Une fois, Chloe. Mais c'était juste un smack rapide, pas de langue."
 
 # game/v3/v3.rpy:1960
 translate francais repeatm_a3e8b422:
@@ -2092,7 +2092,7 @@ translate francais continuem_a86a48d3:
 translate francais continuem_30fc9a25:
 
     # u "(I just don't know if it would be a good idea if we were to hook up. What if she tells Chloe? Would Chloe be okay with it?)"
-    u "(Je ne sais tout simplement pas si ce serait une bonne idée si nous sortions ensemble. Et si elle le disait à Chloé ? Chloé serait-elle d'accord ?)"
+    u "(Je ne sais tout simplement pas si ce serait une bonne idée si nous sortions ensemble. Et si elle le disait à Chloe ? Chloe serait-elle d'accord ?)"
 
 # game/v3/v3.rpy:2233
 translate francais continuem_5ba9599e:
@@ -2752,7 +2752,7 @@ translate francais df_bd_d0ffff2f:
 translate francais df_bd_453b6c3b:
 
     # u "You know why Grayson punched me? Cause I was about to make out with Chloe and he's still not over her!"
-    u "Tu sais pourquoi Grayson m'a frappé ? Parce que j'étais sur le point de sortir avec Chloé et il n'en a toujours pas fini avec elle !"
+    u "Tu sais pourquoi Grayson m'a frappé ? Parce que j'étais sur le point de sortir avec Chloe et il n'en a toujours pas fini avec elle !"
 
 # game/v3/v3.rpy:2873
 translate francais df_bd_7180a783:
@@ -2788,7 +2788,7 @@ translate francais df_bd_43633c2f:
 translate francais df_bd_c71ddc73:
 
     # ry "Do you really think that pursuing Chloe is a good idea?"
-    ry "Tu pense vraiment que courrir après Chloé est une bonne idée ?"
+    ry "Tu pense vraiment que courrir après Chloe est une bonne idée ?"
 
 # game/v3/v3.rpy:2897
 translate francais df_bd_e48ae9cd:
@@ -2818,7 +2818,7 @@ translate francais df_bd_6c9bbaad:
 translate francais df_bd_3b18fc45:
 
     # ry "It was me! Chloe didn't give a fuck!"
-    ry "C'était moi ! Chloé s'en foutais royalement !"
+    ry "C'était moi ! Chloe s'en foutais royalement !"
 
 # game/v3/v3.rpy:2922
 translate francais df_bd_36ae461d:
@@ -2830,7 +2830,7 @@ translate francais df_bd_36ae461d:
 translate francais df_bd_5eb010c7:
 
     # u "You don't know what you're talking about! Chloe likes me. She went after Grayson 'cause someone needed to."
-    u "Tu ne sais pas de quoi tu parle ! Chloé m'aime bien. Elle s'en est pris à Grayson parce qu'il le méritait."
+    u "Tu ne sais pas de quoi tu parle ! Chloe m'aime bien. Elle s'en est pris à Grayson parce qu'il le méritait."
 
 # game/v3/v3.rpy:2933
 translate francais df_bd_0fdef493:
@@ -2848,13 +2848,13 @@ translate francais df_bd_fb78781e:
 translate francais df_bd_9af7c04d:
 
     # ry "Chloe is playing you! Like she played Grayson! Don't fucking fall for it."
-    ry "Chloé joue avec toi ! Comme elle jouait avec Grayson ! Putain, ne tombe pas dans le panneau."
+    ry "Chloe joue avec toi ! Comme elle jouait avec Grayson ! Putain, ne tombe pas dans le panneau."
 
 # game/v3/v3.rpy:2945
 translate francais df_bd_5a8b93f1:
 
     # u "You don't know Chloe at all! You're just fucking jealous!"
-    u "Tu ne connais pas du tout Chloé ! Tu es juste un putain de jaloux !"
+    u "Tu ne connais pas du tout Chloe ! Tu es juste un putain de jaloux !"
 
 # game/v3/v3.rpy:2953
 translate francais df_bd_3b6387e3:
@@ -2938,7 +2938,7 @@ translate francais df_bd_ae10b6d0:
 translate francais df_bd_b926967c:
 
     # ri "So what's going on between you and Chloe? She's the president of the Chicks, right?"
-    ri "Alors qu'est-ce qui se passe entre toi et Chloé ? C'est la présidente des Chicks, non ?"
+    ri "Alors qu'est-ce qui se passe entre toi et Chloe ? C'est la présidente des Chicks, non ?"
 
 # game/v3/v3.rpy:3045
 translate francais df_bd_1f3a7ba6:

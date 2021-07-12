@@ -10,7 +10,7 @@ translate francais v5start_b1183ab6:
 translate francais v5start_d59430b9:
 
     # u "*Drunk* It's Chloe... I just- I just wanted to talk to her..."
-    u "*Ivre* C'est Chloé... Je voulais juste lui parler..."
+    u "*Ivre* C'est Chloe... Je voulais juste lui parler..."
 
 # game/v5/v5.rpy:72
 translate francais v5start_e305aab5:
@@ -28,7 +28,7 @@ translate francais v5start_f42e30d3:
 translate francais v5start_8f75944f:
 
     # no "Chloe can be a bit overdramatic sometimes, you know."
-    no "Chloé peut être un peu trop dramatique parfois, tu sais."
+    no "Chloe peut être un peu trop dramatique parfois, tu sais."
 
 # game/v5/v5.rpy:83
 translate francais v5start_e0724b74:
@@ -52,7 +52,7 @@ translate francais v5start_30adda01:
 translate francais v5start_7ff172e2:
 
     # u "*Drunk* My uhm, my friend, he- he said that Chloe did some shady shit in the past and I just had to find out the truth!"
-    u "*Ivre* Mon euh, mon ami, il- il a dit que Chloé avait fait des trucs louches dans le passé et que je voulais juste connaitre la vérité !"
+    u "*Ivre* Mon euh, mon ami, il- il a dit que Chloe avait fait des trucs louches dans le passé et que je voulais juste connaitre la vérité !"
 
 # game/v5/v5.rpy:105
 translate francais v5start_203a8419:
@@ -166,7 +166,7 @@ translate francais v5start_0fba9dcb:
 translate francais ev_bd_f725ce66:
 
     # u "(Way to mess things up with Chloe.... great fucking job, [name].)"
-    u "(Une façon de gâcher les choses avec Chloé... super putain de boulot, [name].)"
+    u "(Une façon de gâcher les choses avec Chloe... super putain de boulot, [name].)"
 
 # game/v5/v5.rpy:201
 translate francais ev_bd_5a88a05e:
@@ -184,7 +184,7 @@ translate francais ev_bd_7d193b2b:
 translate francais ev_bd_bf4ca58f:
 
     # u "(I completely forgot I bought this. I guess I can't really give it to Chloe anymore now, can I?)"
-    u "(J'ai complètement oublié que j'ai acheté ça. Je suppose que je ne peux plus vraiment le donner à Chloé maintenant, n'est-ce pas ?)"
+    u "(J'ai complètement oublié que j'ai acheté ça. Je suppose que je ne peux plus vraiment le donner à Chloe maintenant, n'est-ce pas ?)"
 
 # game/v5/v5.rpy:222
 translate francais ev_bd_7d193b2b_1:
@@ -286,7 +286,7 @@ translate francais jorepb_982299b7:
 translate francais jorepb_b1758b11:
 
     # u "(Good thing I didn't get drunk, that could have very easily gone wrong and ended in a big fight with Chloe.)"
-    u "(C'est une bonne chose que je ne me sois pas saoulé, cela aurait très facilement pu mal tourner et se terminer par une grosse bagarre avec Chloé.)"
+    u "(C'est une bonne chose que je ne me sois pas saoulé, cela aurait très facilement pu mal tourner et se terminer par une grosse bagarre avec Chloe.)"
 
 # game/v5/v5.rpy:329
 translate francais jorepb_ba1c4808:
@@ -304,7 +304,7 @@ translate francais jorepb_7d193b2b:
 translate francais jorepb_935737be:
 
     # u "(I completely forgot I bought this. I should give it to Chloe when we hang out later today.)"
-    u "(J'avais complètement oublié que j'avais acheté ça. Je devrais le donner à Chloé quand nous sortirons ensemble plus tard dans la journée.)"
+    u "(J'avais complètement oublié que j'avais acheté ça. Je devrais le donner à Chloe quand nous sortirons ensemble plus tard dans la journée.)"
 
 # game/v5/v5.rpy:351
 translate francais jorepb_7d193b2b_1:
@@ -448,7 +448,7 @@ translate francais jorepb_b1183ab6:
 translate francais jorepb_da2cfc62:
 
     # u "It's Chloe... I just- I just wanted to talk to her..."
-    u "C'est Chloé... je voulais juste lui parler..."
+    u "C'est Chloe... je voulais juste lui parler..."
 
 # game/v5/v5.rpy:468
 translate francais jorepb_a4ac767d:
@@ -466,7 +466,7 @@ translate francais jorepb_f42e30d3:
 translate francais jorepb_8f75944f:
 
     # no "Chloe can be a bit overdramatic sometimes, you know."
-    no "Chloé peut être un peu trop dramatique parfois, tu sais."
+    no "Chloe peut être un peu trop dramatique parfois, tu sais."
 
 # game/v5/v5.rpy:479
 translate francais jorepb_e0724b74:
@@ -490,7 +490,7 @@ translate francais jorepb_30adda01:
 translate francais jorepb_d9ef0c47:
 
     # u "My uhm, my friend said that Chloe did some shady shit in the past and I just had to find out the truth."
-    u "Mon euh, mon ami a dit que Chloé avait fait des trucs louches dans le passé et que je voulais juste découvrir la vérité."
+    u "Mon euh, mon ami a dit que Chloe avait fait des trucs louches dans le passé et que je voulais juste découvrir la vérité."
 
 # game/v5/v5.rpy:501
 translate francais jorepb_203a8419:
@@ -604,7 +604,7 @@ translate francais jorepb_76c398ec:
 translate francais nnbd_f725ce66:
 
     # u "(Way to mess things up with Chloe.... great fucking job, [name].)"
-    u "(Une façon de gâcher les choses avec Chloé... super putain de boulot, [name].)"
+    u "(Une façon de gâcher les choses avec Chloe... super putain de boulot, [name].)"
 
 # game/v5/v5.rpy:603
 translate francais nnbd_7d193b2b:
@@ -616,7 +616,7 @@ translate francais nnbd_7d193b2b:
 translate francais nnbd_bf4ca58f:
 
     # u "(I completely forgot I bought this. I guess I can't really give it to Chloe anymore now, can I?)"
-    u "(J'ai complètement oublié que j'ai acheté ça. Je suppose que je ne peux plus vraiment le donner à Chloé maintenant, n'est-ce pas ?)"
+    u "(J'ai complètement oublié que j'ai acheté ça. Je suppose que je ne peux plus vraiment le donner à Chloe maintenant, n'est-ce pas ?)"
 
 # game/v5/v5.rpy:619
 translate francais nnbd_7d193b2b_1:
@@ -3712,19 +3712,19 @@ translate francais continueba_09958f46:
 translate francais continueba_56d845ec:
 
     # u "(Fuck, I don't have time for this right now, but going swimming with Chloe sounds like the best possible way to get closer to her.)"
-    u "(Putain, je n'ai pas le temps pour ça en ce moment, mais aller nager avec Chloé semble être le meilleur moyen de se rapprocher d'elle.)"
+    u "(Putain, je n'ai pas le temps pour ça en ce moment, mais aller nager avec Chloe semble être le meilleur moyen de se rapprocher d'elle.)"
 
 # game/v5/v5.rpy:4331
 translate francais continueba_8d30836f:
 
     # u "(I gotta make a decision. Should I find Imre, or meet Chloe?)"
-    u "(Je dois prendre une décision. Dois-je trouver Imre ou rencontrer Chloé ?)"
+    u "(Je dois prendre une décision. Dois-je trouver Imre ou rencontrer Chloe ?)"
 
 # game/v5/v5.rpy:4333
 translate francais continueba_e8cda8a6:
 
     # u "(I gotta make a decision. Should I help Imre, or meet Chloe?)"
-    u "(Je dois prendre une décision. Dois-je aider Imre ou rencontrer Chloé ?)"
+    u "(Je dois prendre une décision. Dois-je aider Imre ou rencontrer Chloe ?)"
 
 # game/v5/v5.rpy:4338
 translate francais continueba_9ea2f78c:
@@ -3804,7 +3804,7 @@ translate francais strings:
 
     # game/v5/v5.rpy:65
     old "It's Chloe."
-    new "C'est Chloé."
+    new "C'est Chloe."
 
     # game/v5/v5.rpy:65
     old "It's nothing."

@@ -502,7 +502,7 @@ translate francais continuev_f2cde013:
 translate francais dr_bd_ef037077:
 
     # u "Chloe, you are the most amazing girl I've ever met."
-    u "Chloé, tu es la fille la plus incroyable que j'aie jamais rencontrée."
+    u "Chloe, tu es la fille la plus incroyable que j'aie jamais rencontrée."
 
 # game/v4/v4.rpy:477
 translate francais dr_bd_35192050:
@@ -556,7 +556,7 @@ translate francais dr_bd_4c1488ca:
 translate francais dr_bd_1f7d239c:
 
     # ry "[name], how could you ever think Chloe likes you?? Hahaha!"
-    ry "[name], comment as-tu pu penser que Chloé puisse t'aimer ?? Hahaha!"
+    ry "[name], comment as-tu pu penser que Chloe puisse t'aimer ?? Hahaha!"
 
 # game/v4/v4.rpy:510
 translate francais dr_bd_d981cfea:
@@ -580,7 +580,7 @@ translate francais dr_bd_3fd3d76d:
 translate francais dr_bd_ce7dce11:
 
     # u "(What the hell was that dream? Ryan really made me second guess how things are going with Chloe.)"
-    u "(Qu'est-ce que c'était que ce rêve ? Ryan m'a vraiment fait changer d'avis sur comment les choses se passent avec Chloé.)"
+    u "(Qu'est-ce que c'était que ce rêve ? Ryan m'a vraiment fait changer d'avis sur comment les choses se passent avec Chloe.)"
 
 # game/v4/v4.rpy:528
 translate francais dr_bd_7fe361f6:
@@ -700,7 +700,7 @@ translate francais du_bd_c6901fd2:
 translate francais juchloe_93b10497:
 
     # u "There's this girl called Chloe..."
-    u "Il y a cette fille qui s'appelle Chloé..."
+    u "Il y a cette fille qui s'appelle Chloe..."
 
 # game/v4/v4.rpy:672
 translate francais juchloe_db194447:
@@ -1000,7 +1000,7 @@ translate francais jucon2_cdce257a:
 translate francais jucon2_9bc8e04b:
 
     # ju "Honey, didn't you say you played volleyball with uhh... Chloe, was it?"
-    ju "Chéri, tu n'as pas dit que tu jouais au volley avec euh... Chloé, c'est ça ?"
+    ju "Chéri, tu n'as pas dit que tu jouais au volley avec euh... Chloe, c'est ça ?"
 
 # game/v4/v4.rpy:949
 translate francais jucon2_c9849583:
@@ -1036,7 +1036,7 @@ translate francais jucon2_c468fbd4:
 translate francais jucon2_873da541:
 
     # u "(Chloe would probably love this volleyball.)"
-    u "(Chloé adorerait probablement ce balon de volley.)"
+    u "(Chloe adorerait probablement ce balon de volley.)"
 
 # game/v4/v4.rpy:983
 translate francais jucon2_fa9a4ce8:
@@ -1108,13 +1108,13 @@ translate francais dv_dd_a62428b2:
 translate francais dv_dd_598c9d7c:
 
     # u "(I should text Chloe and see if she wants to meet up... I need to find out if there's any truth in what Ryan said.)"
-    u "(Je devrais envoyer un SMS à Chloé et voir si elle veut me rencontrer... Je dois savoir s'il y a du vrai dans ce que Ryan a dit.)"
+    u "(Je devrais envoyer un SMS à Chloe et voir si elle veut me rencontrer... Je dois savoir s'il y a du vrai dans ce que Ryan a dit.)"
 
 # game/v4/v4.rpy:1064
 translate francais phonev_af61a800:
 
     # u "(I should message Chloe about meeting up later.)"
-    u "(Je devrais envoyer un message à Chloé pour la rencontrer plus tard.)"
+    u "(Je devrais envoyer un message à Chloe pour la rencontrer plus tard.)"
 
 # game/v4/v4.rpy:1070
 translate francais phonev_8bd166bb:
@@ -1624,7 +1624,7 @@ translate francais ec_bd_0c716ca8:
 translate francais ec_bd_d1b41516:
 
     # u "Dude, Chloe is no-"
-    u "Mec, Chloé n'est pas-"
+    u "Mec, Chloe n'est pas-"
 
 # game/v4/v4.rpy:1551
 translate francais ec_bd_b8d264ac:
@@ -2308,7 +2308,7 @@ translate francais phonew_e11dc486:
 translate francais phonew_fc1c9a82:
 
     # u "(Okay, I need to make sure that I don't forget about meeting Chloe.)"
-    u "(D'accord, je dois m'assurer que je n'oublie pas de rencontrer Chloé.)"
+    u "(D'accord, je dois m'assurer que je n'oublie pas de rencontrer Chloe.)"
 
 # game/v4/v4.rpy:2212
 translate francais jorepa_173454a6:
@@ -2794,7 +2794,7 @@ translate francais ep_a_f99b5c3c_1:
 translate francais es_bd_4bc21722:
 
     # u "(Shit, I gotta go meet Chloe!)"
-    u "(Merde, je dois aller rencontrer Chloé !)"
+    u "(Merde, je dois aller rencontrer Chloe !)"
 
 # game/v4/v4.rpy:2816
 translate francais es_bd_b03cce99:
@@ -3094,7 +3094,7 @@ translate francais strings:
 
     # game/v4/v4.rpy:1053
     old "Hey Chloe, any chance you can meet up in a bit?"
-    new "Hey Chloé, y a t'il une chance que l'on se voit dans un moment ?"
+    new "Hey Chloe, y a t'il une chance que l'on se voit dans un moment ?"
 
     # game/v4/v4.rpy:1054
     old "I'm really busy today, but I could do tonight after 11 or so."
