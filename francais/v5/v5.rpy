@@ -238,7 +238,7 @@ translate francais jorepb_11aed362:
 translate francais jorepb_e1e72d62:
 
     # cl "What?? [name], I'm not, that's absurd..."
-    cl "Quoi?? [nom], c'est pas vrai, c'est absurde..."
+    cl "Quoi?? [name], c'est pas vrai, c'est absurde..."
 
 # game/v5/v5.rpy:283
 translate francais jorepb_d4482fd2:

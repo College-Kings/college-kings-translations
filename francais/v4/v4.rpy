@@ -2314,7 +2314,7 @@ translate francais phonew_fc1c9a82:
 translate francais jorepa_173454a6:
 
     # jo "What's up, bro?"
-    jo "Quoi de neuf frèro ?"
+    jo "Quoi de neuf fréro ?"
 
 # game/v4/v4.rpy:2215
 translate francais jorepa_650ed459:
@@ -2338,19 +2338,19 @@ translate francais jorepa_c154e617:
 translate francais jorepa_d644615c:
 
     # jo "Come in."
-    jo "Entrez."
+    jo "Entre."
 
 # game/v4/v4.rpy:2234
 translate francais continueae_eed4217d:
 
     # jo "Amber, Kim, this is [name]."
-    jo "Ambre, Kim, voici [name]."
+    jo "Amber, Kim, voici [name]."
 
 # game/v4/v4.rpy:2239
 translate francais continueae_f934acde:
 
     # am "Heyy! Nice black eye!"
-    am "Hé ! Joli œil au beurre noir !"
+    am "Saluut ! Joli œil au beurre noir !"
 
 # game/v4/v4.rpy:2244
 translate francais continueae_2d200ac3:
@@ -2362,13 +2362,13 @@ translate francais continueae_2d200ac3:
 translate francais continueae_b81316f3:
 
     # jo "So, what's your drink of choice?"
-    jo "Alors, quelle est votre boisson préférée ?"
+    jo "Alors, qu'est-ce que tu bois ?"
 
 # game/v4/v4.rpy:2254
 translate francais continueae_79b43121:
 
     # u "I guess I'll take a beer."
-    u "Je suppose que je vais prendre une bière."
+    u "Je pense que je vais prendre une bière."
 
 # game/v4/v4.rpy:2259
 translate francais continueae_a69d87fd:
@@ -2379,7 +2379,7 @@ translate francais continueae_a69d87fd:
 # game/v4/v4.rpy:2264
 translate francais continueae_27c51c79:
 
-    # am "Are you gonna sit down with us? We won't bite."
+    # am "Are you gonna sit down with us ? We won't bite."
     am "Tu vas t'asseoir avec nous ? On ne mord pas."
 
 # game/v4/v4.rpy:2269
@@ -2416,13 +2416,13 @@ translate francais continueae_7b869730:
 translate francais continueae_98bf79bc:
 
     # jo "Hahaha, buddy I'm just kidding, stay put."
-    jo "Hahaha, mon pote, je plaisante, reste sur place."
+    jo "Hahaha, mon pote, je plaisante, reste là où tu est."
 
 # game/v4/v4.rpy:2306
 translate francais continueae_4d5c180d:
 
     # u "Yeah, I guess it's my spot now."
-    u "Ouais, je suppose que c'est ma place maintenant."
+    u "Ouais, je oense que c'est ma place maintenant."
 
 # game/v4/v4.rpy:2311
 translate francais continueae_9de3145e:
@@ -2554,7 +2554,7 @@ translate francais eo_bd_c0baa699:
 translate francais eo_bd_9852be81:
 
     # am "Oh come on, just stay a bit longer. You never know what you might miss out on."
-    am "Oh allez, reste un peu plus longtemps. Vous ne savez jamais ce que vous pourriez manquer."
+    am "Oh allez, reste un peu plus longtemps. Tu ne sais jamais ce que tu pourrait rater."
 
 # game/v4/v4.rpy:2433
 translate francais eo_bd_61f4cac3:
@@ -2572,7 +2572,7 @@ translate francais eo_bd_e7cdd086:
 translate francais eo_bd_ea361c5e:
 
     # u "Sorry, I really gotta go. But maybe I'll uhm... come back later."
-    u "Désolé, je dois vraiment y aller. Mais peut-être que je vais euh... revenir plus tard."
+    u "Désolé, je dois vraiment y aller. Mais peut-être que je vais euh... reviendrai plus tard."
 
 # game/v4/v4.rpy:2452
 translate francais jonewe_e659dfbc:
@@ -2734,7 +2734,7 @@ translate francais ep_a_4edf4b8d:
 translate francais ep_a_2e9d9883:
 
     # u "*Spits*"
-    u "*crache*"
+    u "*Crache*"
 
 # game/v4/v4.rpy:2710
 translate francais ep_a_5f5680c8:
@@ -2746,7 +2746,7 @@ translate francais ep_a_5f5680c8:
 translate francais ep_a_2e9d9883_1:
 
     # u "*Spits*"
-    u "*crache*"
+    u "*Crache*"
 
 # game/v4/v4.rpy:2733
 translate francais ep_a_f99b5c3c:
@@ -2782,7 +2782,7 @@ translate francais ep_a_5f5680c8_1:
 translate francais ep_a_2e9d9883_2:
 
     # u "*Spits*"
-    u "*crache*"
+    u "*Crache*"
 
 # game/v4/v4.rpy:2806
 translate francais ep_a_f99b5c3c_1:
