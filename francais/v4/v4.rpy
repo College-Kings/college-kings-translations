@@ -544,7 +544,7 @@ translate francais dr_bd_4336064d:
 translate francais dr_bd_1d60e8eb:
 
     # gr "HAHAHA! This fucking idiot really fell for it!"
-    gr "HAHAHA! Ce putain d'idiot a vraiment craqué pour ça !"
+    gr "HAHAHA ! Ce putain de crétin a vraiment craqué pour toi !"
 
 # game/v4/v4.rpy:500
 translate francais dr_bd_4c1488ca:
@@ -562,7 +562,7 @@ translate francais dr_bd_1f7d239c:
 translate francais dr_bd_d981cfea:
 
     # ri "Everyone could see it. She was playing you! How could you be so blind?!"
-    ri "Tout le monde pouvait le voir. Elle se jouait de toi ! Comment peux tu être aussi aveugle ?!"
+    ri "Tout le monde pouvait le voir. Elle se foutait de ta gueule ! Comment peux tu être aussi aveugle ?!"
 
 # game/v4/v4.rpy:515
 translate francais dr_bd_42e11ebb:
@@ -724,7 +724,7 @@ translate francais juchloe_2a10e18a:
 translate francais juchloe_44ad88e2:
 
     # u "Just my friend said some bad stuff about her and I don't know what to believe."
-    u "Juste mon ami a dit du mal d'elle et je ne sais pas qui croire."
+    u "Juste un ami a dit du mal d'elle et je ne sais pas qui croire."
 
 # game/v4/v4.rpy:693
 translate francais juchloe_2e2a98ec:
@@ -934,7 +934,7 @@ translate francais jucon2_6c59b8bc:
 translate francais jucon2_5aae6f78:
 
     # ju "You've put on a bit of muscle, honey."
-    ju "Tu as pris un peu de muscle, chérie."
+    ju "Tu as pris un peu de muscle, chéri."
 
 # game/v4/v4.rpy:888
 translate francais jucon2_16f5775e:
@@ -946,7 +946,7 @@ translate francais jucon2_16f5775e:
 translate francais jucon2_0f93c712:
 
     # ju "Wow, it looks great! What do you think, honey?"
-    ju "Waouh, ça a l'air super ! Qu'en penses-tu, chéri?"
+    ju "Waouh, ça a l'air super ! Qu'en penses-tu, chéri ?"
 
 # game/v4/v4.rpy:898
 translate francais jucon2_ce7ddc93:
@@ -970,7 +970,7 @@ translate francais jucon2_c245e5cf:
 translate francais jucon2_052fe8ee:
 
     # ju "How's that?"
-    ju "Comment tu trouve ?"
+    ju "Et maintenant c'est comment ?"
 
 # game/v4/v4.rpy:918
 translate francais jucon2_552b00d2:
@@ -982,7 +982,7 @@ translate francais jucon2_552b00d2:
 translate francais jucon2_77ef8948:
 
     # ju "Okay, I'm gonna look around some more. Let me know when you're ready to buy something."
-    ju "Bon, je vais regarder un peu plus. Faites-moi savoir quand vous êtes prêt à acheter quelque chose."
+    ju "Bon, je vais regarder un peu plus. Faites-moi savoir quand tu es prêt à acheter quelque chose."
 
 # game/v4/v4.rpy:928
 translate francais jucon2_b8911521:
@@ -1018,7 +1018,7 @@ translate francais jucon2_dd3b9566:
 translate francais jucon2_96515001:
 
     # ju "That's a great idea, honey."
-    ju "C'est une excellente idée, chérie."
+    ju "C'est une excellente idée, chéri."
 
 # game/v4/v4.rpy:964
 translate francais jucon2_86d15637:
@@ -1059,7 +1059,7 @@ translate francais jucon2_056e1a90:
 # game/v4/v4.rpy:998
 translate francais dv_cd_fe0c7159:
 
-    # clerk "Hey there, would you like a bag with that?"
+    # clerk "Hey there, would you like a bag with that?" # "salut ça fart ?"
     clerk "Salut, tu veux un sac avec ça ?"
 
 # game/v4/v4.rpy:1003
@@ -1072,7 +1072,7 @@ translate francais dv_cd_155cd35b:
 translate francais dv_cd_562f7968:
 
     # clerk "That's $10.90, please."
-    clerk "That's $10.90, please."
+    clerk "Ça fait $10.90, s'il vous plait."
 
 # game/v4/v4.rpy:1017
 translate francais dv_cd_5c54fb34:
@@ -1120,25 +1120,25 @@ translate francais phonev_af61a800:
 translate francais phonev_8bd166bb:
 
     # u "(Shit, I just remembered that I still need a book for Ms. Rose's class...)"
-    u "(Shit, I just remembered that I still need a book for Ms. Rose's class...)"
+    u "(Merde, je viens de me rappeler que j'ai besoins d'un bouquin pour le cours de Mme Rose.)"
 
 # game/v4/v4.rpy:1072
 translate francais phonev_d72cab90:
 
     # u "(The library should have it.)"
-    u "(The library should have it.)"
+    u "(La bibliothèque devrait l'avoir.)"
 
 # game/v4/v4.rpy:1086
 translate francais phonev_99651266:
 
     # u "(\"Economics Now\"... where are you?)"
-    u "(\"Economics Now\"... where are you?)"
+    u "(\"L'économie aujourd'hui\"... Où es-tu ?)"
 
 # game/v4/v4.rpy:1088
 translate francais phonev_9823f80c:
 
     # u "(There it is. I guess I'll sit down and get start on it.)"
-    u "(There it is. I guess I'll sit down and get start on it.)"
+    u "(Je te tiens. Je devrais m'asseoir et commencer à le lire.)"
 
 # game/v4/v4.rpy:1093
 translate francais phonev_49a45306:
@@ -1252,7 +1252,7 @@ translate francais phonev_505428d0_1:
 translate francais phonev_42ce5b24_1:
 
     # u "Uhm... hey Autumn."
-    u "Euh... salut Automne."
+    u "Euh... salut Autumn."
 
 # game/v4/v4.rpy:1199
 translate francais phonev_a33f90ea:
@@ -1342,7 +1342,7 @@ translate francais phonev_3a538381_1:
 translate francais phonev_42ce5b24_2:
 
     # u "Uhm... hey Autumn."
-    u "Euh... salut Automne."
+    u "Euh... salut Autumn."
 
 # game/v4/v4.rpy:1285
 translate francais phonev_833ebfe4:
@@ -1366,7 +1366,7 @@ translate francais phonev_991b0d48:
 translate francais phonev_56eac2c1:
 
     # u "Haha it's okay, I'm still grateful. Do you mind if I sit down?"
-    u "Haha ça va, je suis toujours reconnaissant. Ça te dérange si je m'assois ?"
+    u "Haha ça va, je te suis toujours reconnaissant. Ça te dérange si je m'assois ?"
 
 # game/v4/v4.rpy:1305
 translate francais phonev_69f80e4d:
@@ -1378,7 +1378,7 @@ translate francais phonev_69f80e4d:
 translate francais phonev_42ce5b24_3:
 
     # u "Uhm... hey Autumn."
-    u "Euh... salut Automne."
+    u "Euh... salut Autumn."
 
 # game/v4/v4.rpy:1324
 translate francais phonev_7d3309ee:
@@ -1498,19 +1498,19 @@ translate francais autumnsita_e28abd1e:
 translate francais autumnsita_5d702393:
 
     # u "So you work at the local dog shelter? That's awesome, I love dogs, but my parents would never let me get one."
-    u "Donc, vous travaillez au refuge pour chiens local? C'est génial, j'adore les chiens, mais mes parents ne m'ont jamais laissé en avoir un."
+    u "Donc, tu travaille au refuge pour chiens local ? C'est génial, j'adore les chiens, mais mes parents ne m'ont jamais laissé en avoir un."
 
 # game/v4/v4.rpy:1422
 translate francais autumnsita_de5a708d:
 
     # aut "You should come by when I'm working and then you can play with some of them if you want. They're really friendly."
-    aut "Tu devrais venir quand je travaille et ensuite tu peux jouer avec certains d'entre eux si tu veux. Ils sont vraiment sympathiques."
+    aut "Tu devrais venir quand je travaille et tu pourra jouer avec certains d'entre eux si tu veux. Ils sont vraiment sympathiques."
 
 # game/v4/v4.rpy:1427
 translate francais autumnsita_7386b273:
 
     # u "Oh my god, really? I'd love that, thank you so much."
-    u "Oh mon Dieu vraiment? J'adorerais ça, merci beaucoup."
+    u "Oh mon Dieu vraiment ? J'adorerais ça, merci beaucoup."
 
 # game/v4/v4.rpy:1432
 translate francais autumnsita_ba201126:
@@ -1618,7 +1618,7 @@ translate francais ec_bd_d0609648:
 translate francais ec_bd_0c716ca8:
 
     # ry "You know, so she doesn't play you."
-    ry "Tu sais, alors elle ne joue pas avec toi."
+    ry "Tu sais, alors désolé elle ne joue pas avec toi."
 
 # game/v4/v4.rpy:1546
 translate francais ec_bd_d1b41516:
@@ -1714,7 +1714,7 @@ translate francais continueaa_f8d4c8bd:
 translate francais continueaa_10d00e75:
 
     # pe "Heyyy!"
-    pe "Salut !"
+    pe "Saluuut !"
 
 # game/v4/v4.rpy:1639
 translate francais continueaa_fefb8a1c:
@@ -1972,7 +1972,7 @@ translate francais eg_b_1d6a0cc7:
 translate francais eg_b_9bfeb216:
 
     # pe "[name]! Heyyy."
-    pe "[Nom]! Salut."
+    pe "[Nom] ! Salut."
 
 # game/v4/v4.rpy:1887
 translate francais eg_b_fefb8a1c:
@@ -2044,7 +2044,7 @@ translate francais ef_bd_584286ad:
 translate francais ef_bd_ad41ff7f:
 
     # pe "Aww, I forgot about that... why did he have to take all the fun out of it?"
-    pe "Aouw, j'avais oublié ça... pourquoi a-t-il dû en enlever tout le plaisir ?"
+    pe "Ah ouai, j'avais complettement oublié ça... pourquoi a-t-il dû en enlever tout le plaisir ?"
 
 # game/v4/v4.rpy:1953
 translate francais ef_bd_d6eca572:
@@ -2056,7 +2056,7 @@ translate francais ef_bd_d6eca572:
 translate francais ef_bd_9b357ad5:
 
     # u "What are you working on?"
-    u "Sur quoi travailles-tu?"
+    u "Sur quoi tu travailles ?"
 
 # game/v4/v4.rpy:1960
 translate francais ef_bd_39ca1438:
@@ -2074,7 +2074,7 @@ translate francais ef_bd_c6c6cfe6:
 translate francais ef_bd_9852faf3:
 
     # u "Haha, Penelope, that's not very convincing... Are you ok? You're acting weird."
-    u "Haha, Penelope, ce n'est pas très convaincant... Ça va ? tu agis bizarrement."
+    u "Haha, Penelope, ce n'est pas très convaincant... Ça va ? Tu agis bizarrement."
 
 # game/v4/v4.rpy:1972
 translate francais ef_bd_c937a32a:
@@ -2086,7 +2086,7 @@ translate francais ef_bd_c937a32a:
 translate francais ef_bd_3550c3f9:
 
     # pe "What are you working on? Huh?"
-    pe "Sur quoi travaille-tu ? Hein ?"
+    pe "Et toi, sur quoi tu travailles ? Hein ?"
 
 # game/v4/v4.rpy:1979
 translate francais ef_bd_431e01ab:
@@ -2104,7 +2104,7 @@ translate francais ef_bd_670189a2:
 translate francais ef_bd_6ac11fe2:
 
     # u "Penelope, come on. You can tell me. I am the world champion of keeping secrets."
-    u "Pénélope, allez. Tu peux me le dire. Je suis le champion du monde de la garde des secrets."
+    u "Pénélope, allez. Tu peux me le dire. Je suis le champion du monde pour garder les secrets."
 
 # game/v4/v4.rpy:1991
 translate francais ef_bd_6a0d8739:
@@ -2122,13 +2122,13 @@ translate francais ef_bd_dc2091ea:
 translate francais ef_bd_4b18075a:
 
     # u "Okay, you don't have to tell me. But if I were you, I'd be more careful watching hardcore porn in a cafe."
-    u "Okay, you don't have to tell me. But if I were you, I'd be more careful watching hardcore porn in a cafe."
+    u "D'accord, tu n'as pas à me le dire. Mais si j'étais toi, je ferais plus attention en regardant du porno hardcore dans un café."
 
 # game/v4/v4.rpy:2003
 translate francais ef_bd_816a08d7:
 
     # u "You don't wanna accidentally turn the speakers on, I mean we've all been there."
-    u "D'accord, tu n'as pas à me le dire. Mais si j'étais toi, je ferais plus attention en regardant du porno hardcore dans un café."
+    u "Tu ne veut pas mettre accidentellement les haut-parleurs en marche alors que tout le monde peut entendre."
 
 # game/v4/v4.rpy:2008
 translate francais ef_bd_e9224c22:
@@ -2158,13 +2158,13 @@ translate francais ef_bd_ecf336c6:
 translate francais ef_bd_9e557984:
 
     # pe "*Laughs* Ewww... I don't think we should."
-    pe "*Rires* Èèèh... Je ne pense pas que nous devrions."
+    pe "*Rires* Èèèh... Je ne pense pas qu'on devrait."
 
 # game/v4/v4.rpy:2033
 translate francais ef_bd_d38f7af4:
 
     # u "The offer still stands, if you change your mind."
-    u "L'offre est toujours valable, si tu change d'avis."
+    u "L'offre tiens toujours, si tu change d'avis."
 
 # game/v4/v4.rpy:2038
 translate francais ef_bd_a08e4f34:
@@ -2188,7 +2188,7 @@ translate francais ef_bd_3ebee093:
 translate francais ek_ad_52c3bf4c:
 
     # u "Haha, I think you'd be surprised."
-    u "Haha, je pense que vous seriez surprise."
+    u "Haha, je pense que tu serais surprise."
 
 # game/v4/v4.rpy:2059
 translate francais ek_ad_38bda28d:
@@ -3142,7 +3142,7 @@ translate francais strings:
 
     # game/v4/v4.rpy:2019
     old "We should watch some."
-    new "Nous devrions en regarder quelques-uns."
+    new "On devrait en regarder."
 
     # game/v4/v4.rpy:2019
     old "You should try it."

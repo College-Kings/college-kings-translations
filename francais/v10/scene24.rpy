@@ -622,17 +622,17 @@ translate francais strings:
 
     # game/v10/scene24.rpy:54
     old "Push back"
-    new ""
+    new "Repousse la"
 
     # game/v10/scene24.rpy:173
     old "Encourage her"
-    new ""
+    new "Encourage la"
 
     # game/v10/scene24.rpy:173
     old "Let her decide"
-    new ""
+    new "Laisse la décider"
 
     # game/v10/scene24.rpy:280
     old "Suck on her tits"
-    new ""
+    new "Suce ses seins"
 

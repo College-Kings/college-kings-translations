@@ -404,7 +404,7 @@ translate francais strings:
 
     # game/v10/scene25a.rpy:173
     old "Tease her"
-    new ""
+    new "Prépare la"
 
     # game/v10/scene25a.rpy:237
     old "Eagle"
