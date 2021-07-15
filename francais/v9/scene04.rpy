@@ -346,17 +346,17 @@ translate francais strings:
 
     # game/v9/scene04.rpy:176
     old "Ryan"
-    new ""
+    new "Ryan"
 
     # game/v9/scene04.rpy:176
     old "Caleb"
-    new ""
+    new "Caleb"
 
     # game/v9/scene04.rpy:422
     old "Imre"
-    new ""
+    new "Imre"
 
     # game/v9/scene04.rpy:422
     old "Perry"
-    new ""
+    new "Perry"
 

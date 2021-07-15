@@ -101,7 +101,7 @@ v03.rpy | 3636/3636 | Patrick PIGNOL | [ ] | -
 v04.rpy | 3227/3227 | Patrick PIGNOL | [ ] | -
 v05.rpy | 3498/3498 | Patrick PIGNOL | [ ] | -
 v06.rpy | 11645/11645 | Patrick PIGNOL | [ ] | -
-v07.rpy | 13764/18403 | Patrick PIGNOL | [ ] | -
+v07.rpy | 18403/18403 | Patrick PIGNOL | [ ] | -
 v08 files | 0/45 | - | [ ] | -
 v09 files | 0/42 | - | [ ] | -
 v10 files | 0/41 | - | [ ] | -
@@ -264,7 +264,7 @@ v10 files | 15/41 | Kfar (<15) + ArkellCK (>16) | [ ] | -
 ### russian
 Progress | ?/all | Who is working on it? | Proofreading | Who is proofreading?
 -------- | -------- | --------- | --------- | ---------
-non script files | 0/6 | - | [ ] | -
+non script files | 0/6 | jonnymccane | [ ] | -
 v01.rpy | 0/5225 | - | [ ] | -
 v02.rpy | 0/4221 | - | [ ] | -
 v03.rpy | 0/3636 | - | [ ] | -

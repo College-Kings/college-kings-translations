@@ -1286,11 +1286,11 @@ translate francais strings:
 
     # game/v10/scene40.rpy:90
     old "Don't peek"
-    new ""
+    new "Ne pas regarder"
 
     # game/v10/scene40.rpy:90
     old "Peek"
-    new ""
+    new "Regarder"
 
     # game/v10/scene40.rpy:129
     old "Myself"
