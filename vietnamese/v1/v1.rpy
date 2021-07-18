@@ -166,7 +166,7 @@ translate vietnamese starta_360e66fc:
 translate vietnamese starta_2dac9d0e:
 
     # ju "You know, when I was in college, there were these fraternities and sororities that everyone wanted to join."
-    ju "Con biết không, hồi mẹ đi Đại Học, trong đấy có những hội nam sinh và hội nữ sinh mà mọi người rất muốn tham gia đấy."
+    ju "Con biết không, khi mẹ ở trong đại học, trong đấy có những hội nam sinh và hội nữ sinh mà mọi người rất muốn tham gia đấy."
 
 # game/v1/v1.rpy:188
 translate vietnamese starta_ed7737e5:
@@ -268,7 +268,7 @@ translate vietnamese aa_db_b9d51565:
 translate vietnamese aa_db_7c46af54:
 
     # u "Whatever... me and Josh haven't really talked much lately."
-    u "Sao cũng được ạ... con và Josh dạo này không nói chuyện với nhau nhiều lắm"
+    u "Sao cũng được ạ... con và Josh dạo này không nói chuyện với nhau nhiều lắm."
 
 # game/v1/v1.rpy:293
 translate vietnamese aa_db_a8f5f219:
@@ -328,7 +328,7 @@ translate vietnamese aa_db_66f145da:
 translate vietnamese aa_db_0e946d2c:
 
     # ju "Enjoy college, honey."
-    ju "Tận hưởng Đại Học nhé, con yêu."
+    ju "Tận hưởng đại học nhé, con yêu."
 
 # game/v1/v1.rpy:343
 translate vietnamese aa_db_8d7d5d1f:
@@ -352,7 +352,7 @@ translate vietnamese aa_db_d8da752f:
 translate vietnamese aa_db_b4109eb1:
 
     # u "(And already... so many hot girls.)"
-    u "(Và chưa gì hết mà đã... nhiều em gái ngon thật.) "
+    u "(Và chưa gì hết mà đã... nhiều em gái ngon thật.)"
 
 # game/v1/v1.rpy:360
 translate vietnamese aa_db_feb36aee:
@@ -376,7 +376,7 @@ translate vietnamese aa_db_9ea2f78c_2:
 translate vietnamese aa_db_0f21bb45:
 
     # ca "Yo, watch where you're fucking walking, bitch!"
-    ca "Yo, đi đứng kiểu gì đấy, thằng lồn! "
+    ca "Yo, đi đứng kiểu gì đấy, thằng lồn!"
 
 # game/v1/v1.rpy:383
 translate vietnamese aa_db_885cc755:
@@ -388,7 +388,7 @@ translate vietnamese aa_db_885cc755:
 translate vietnamese aa_db_d8df67ba:
 
     # ca "Fuck you, if you want a fucking problem, I'll give you a fucking problem!"
-    ca "Địt mẹ mày, nếu mày muốn rắc rối, thì tao sẽ cho mày rắc rối!."
+    ca "Địt mẹ mày, nếu mày muốn rắc rối, thì tao sẽ cho mày rắc rối!"
 
 # game/v1/v1.rpy:393
 translate vietnamese aa_db_1b57ce3e:
@@ -412,7 +412,7 @@ translate vietnamese aa_db_1bf7c341:
 translate vietnamese aa_db_2dd477b7:
 
     # ca "Next time, Mommy won't be there to save you, asshole."
-    ca "Lần sau, đến bà già cũng đéo cứu được mày đâu, thằng lồn. "
+    ca "Lần sau, đến bà già cũng đéo cứu được mày đâu, thằng lồn."
 
 # game/v1/v1.rpy:409
 translate vietnamese aa_db_9ae7cce6:
@@ -430,19 +430,19 @@ translate vietnamese aa_db_3cc4a83e:
 translate vietnamese aa_db_e5f4315d:
 
     # u "I'm [name] by the way."
-    u "Tiện thể em tên là [name]"
+    u "Tiện thể em tên là [name]."
 
 # game/v1/v1.rpy:423
 translate vietnamese aa_db_c0f5654a:
 
     # aut "I'm Autumn."
-    aut "Chị là Autumn."
+    aut "Tôi là Autumn."
 
 # game/v1/v1.rpy:425
 translate vietnamese aa_db_791f218c:
 
     # aut "You're new here right?"
-    aut "Em là tân sinh viên đúng không?"
+    aut "Cậu là tân sinh viên đúng không?"
 
 # game/v1/v1.rpy:430
 translate vietnamese aa_db_b2b46500:
@@ -472,13 +472,13 @@ translate vietnamese aa_db_a2992451:
 translate vietnamese aa_db_eedc251e:
 
     # u "(Way to make her uncomfortable, Casanova.)"
-    u "(Biết cách làm người ta khó chịu quá đấy,Casanova ạ)"
+    u "(Biết cách làm người ta khó chịu quá đấy,Casanova ạ.)"
 
 # game/v1/v1.rpy:457
 translate vietnamese aa_db_8bbbb0f2:
 
     # aut "Anyways, I gotta go. Nice to meet you."
-    aut "Dù sao thì, chị phải đi đây. Rất vui được gặp em."
+    aut "Dù sao thì, tôi phải đi đây. Rất vui được gặp cậu."
 
 # game/v1/v1.rpy:463
 translate vietnamese aa_db_2ee51159:
@@ -508,7 +508,7 @@ translate vietnamese aa_db_8bbbb0f2_1:
 translate vietnamese ad_db_3e0ad800:
 
     # u "(Damn... she was really cute. Hopefully I'll get to see her again.)"
-    u "Vãi... chị ấy xinh thật. Mong là mình sẽ được gặp lại chị ấy."
+    u "(Vãi... chị ấy xinh thật. Mong là mình sẽ được gặp lại chị ấy.)"
 
 # game/v1/v1.rpy:481
 translate vietnamese ad_db_9c52b5de:
@@ -520,7 +520,7 @@ translate vietnamese ad_db_9c52b5de:
 translate vietnamese ad_db_c224bb3e:
 
     # u "Sorry for being late, I couldn't find the classroom."
-    u "Xin lỗi vì em đến trễ, em không tìm được lớp ạ."
+    u "Xin lỗi vì em đến trễ, em không tìm được lớp."
 
 # game/v1/v1.rpy:495
 translate vietnamese ad_db_e2737b85:
@@ -550,19 +550,19 @@ translate vietnamese ad_db_8eb7f5ad:
 translate vietnamese ad_db_77dfd603:
 
     # ry "I'm Ryan."
-    ry "Tôi là Ryan"
+    ry "Tôi là Ryan."
 
 # game/v1/v1.rpy:520
 translate vietnamese ad_db_8af8bf58:
 
     # u "I'm [name]."
-    u "Tôi là [name]"
+    u "Tôi là [name]."
 
 # game/v1/v1.rpy:525
 translate vietnamese ad_db_b16a3a10:
 
     # ry "10 minutes late, sitting in the back row. Man, you'd make a perfect Ape."
-    ry "Đi trễ 10 phút, lại còn ngồi cuối lớp nữa. Anh bạn à, cậu sẽ là một Ape hoàn hảo đấy"
+    ry "Đi trễ 10 phút, lại còn ngồi cuối lớp nữa. Anh bạn à, cậu sẽ là một Ape hoàn hảo đấy."
 
 # game/v1/v1.rpy:530
 translate vietnamese ad_db_c827eaef:
@@ -586,7 +586,7 @@ translate vietnamese ad_db_cf152294:
 translate vietnamese ad_db_bb4a72ce:
 
     # ry "And...their president is the current Fight King."
-    ry "Và...Chủ tịch của họ đang là Fight King hiện tại nữa "
+    ry "Và...Chủ tịch của họ đang là Fight King hiện tại nữa."
 
 # game/v1/v1.rpy:544
 translate vietnamese ad_db_a79483bf:
@@ -670,7 +670,7 @@ translate vietnamese ad_db_b14d8766:
 translate vietnamese ad_db_d9d3333a:
 
     # u "Knock yourself out... Fighting is not really for me."
-    u "Cậu thích thì chơi đi... Đánh nhau không phải chuyên môn của tôi"
+    u "Cậu thích thì chơi đi... Đánh nhau không phải chuyên môn của tôi."
 
 # game/v1/v1.rpy:607
 translate vietnamese ad_db_ff20357a:
@@ -772,7 +772,7 @@ translate vietnamese ag_da_9dd226d6:
 translate vietnamese ag_da_c6e9033c:
 
     # u "It really is."
-    u "Ừ đúng thật"
+    u "Ừ đúng thật."
 
 # game/v1/v1.rpy:712
 translate vietnamese ag_da_a3d4daac:
@@ -838,7 +838,7 @@ translate vietnamese af_db_5cc482d2:
 translate vietnamese af_db_87434f45:
 
     # la "You did? I hope she didn't weird you out. She can be a bit much."
-    la "Cậu gặp rồi à? Tôi mong chị ấy không làm cậu cảm thấy kỳ lạ. Chị ấy có thể quá đáng lắm. "
+    la "Cậu gặp rồi à? Tôi mong chị ấy không làm cậu cảm thấy kỳ lạ. Chị ấy có thể quá đáng lắm."
 
 # game/v1/v1.rpy:761
 translate vietnamese af_db_ce8bea27:
@@ -850,7 +850,7 @@ translate vietnamese af_db_ce8bea27:
 translate vietnamese af_db_8eb725f2:
 
     # la "Well... she's really passionate about political stuff and that can be a bit annoying haha."
-    la "Ừ thì... Cô ấy rất đam mê về mấy vụ chính trị và việc đấy có thể phiền lắm haha.  "
+    la "Ừ thì... Cô ấy rất đam mê về mấy vụ chính trị và việc đấy có thể phiền lắm haha."
 
 # game/v1/v1.rpy:772
 translate vietnamese af_db_daac62bb:
@@ -868,7 +868,7 @@ translate vietnamese af_db_6f4ca145:
 translate vietnamese af_db_1b97be3d:
 
     # u "I think that's pretty cool."
-    u "Tôi thấy có vẻ hay đấy chứ"
+    u "Tôi thấy có vẻ hay đấy chứ."
 
 # game/v1/v1.rpy:790
 translate vietnamese af_db_ad6531f5:
@@ -946,7 +946,7 @@ translate vietnamese aj_db_1ff7b514:
 translate vietnamese aj_db_0801b8ee:
 
     # u "Haha phew... I'm [name] by the way."
-    u "Haha phew... Tiện thể tôi là [name]"
+    u "Haha phew... Tiện thể tôi là [name]."
 
 # game/v1/v1.rpy:853
 translate vietnamese aj_db_c6a4fd2a:
@@ -976,13 +976,13 @@ translate vietnamese v1_freeRoam1_riley_4417530d:
 translate vietnamese v1_freeRoam1_riley_5a5729bf:
 
     # ri "Haha, you caught me. That's what I'm known for."
-    ri "Haha, đúng rồi. Đấy là những gì tớ được biết đến. "
+    ri "Haha, đúng rồi. Đấy là những gì tớ được biết đến."
 
 # game/v1/v1.rpy:901
 translate vietnamese v1_freeRoam1_riley_8af8bf58:
 
     # u "I'm [name]."
-    u "Tớ là [name] "
+    u "Tớ là [name]."
 
 # game/v1/v1.rpy:906
 translate vietnamese v1_freeRoam1_riley_cde3dd4b:
@@ -1000,7 +1000,7 @@ translate vietnamese v1_freeRoam1_riley_e733c6bc:
 translate vietnamese v1_freeRoam1_riley_108f89e7:
 
     # u "Oh, she's super hot."
-    u "Oh, cô ấy nhìn ngon thật. "
+    u "Oh, cô ấy xinh thật."
 
 # game/v1/v1.rpy:925
 translate vietnamese v1_freeRoam1_riley_5538d1bc:
@@ -1114,7 +1114,7 @@ translate vietnamese v1_freeRoam1_elijah_68b74e4b:
 translate vietnamese v1_freeRoam1_elijah_415af1a6:
 
     # el "I got invited to the Frogs' Chess Night."
-    el "Tôi đã được mời đến Đêm Cờ Vua của Hội Frogs rồi. "
+    el "Tôi đã được mời đến Đêm Cờ Vua của Hội Frogs rồi."
 
 # game/v1/v1.rpy:1024
 translate vietnamese v1_freeRoam1_elijah_be1f688a:
@@ -1150,7 +1150,7 @@ translate vietnamese v1_freeRoam1_elijah_b5a9791d:
 translate vietnamese v1_freeRoam1_elijah_6034382a:
 
     # el "The Frogs are the elite fraternity at San Vallejo."
-    el "Hội Frogs là hội nam sinh ưu tú ở San Vallejo. "
+    el "Hội Frogs là hội nam sinh ưu tú ở San Vallejo."
 
 # game/v1/v1.rpy:1047
 translate vietnamese v1_freeRoam1_elijah_10f86768:
@@ -1378,7 +1378,7 @@ translate vietnamese efra_91eaa749:
 translate vietnamese efra_32397d93:
 
     # imre "This is your bed. I took the other one 'cause I'm hoping for some sexy noises from the chick next door."
-    imre "Đây là giường của cậu nhé. Tôi chọn bên này vì tôi hi vọng mình có thể nghe lén được tiếng quyến rũ của em gái phòng bên. "
+    imre "Đây là giường của cậu nhé. Tôi chọn bên này vì tôi hi vọng mình có thể nghe lén được tiếng quyến rũ của em gái phòng bên."
 
 # game/v1/v1.rpy:1243
 translate vietnamese efra_544a8f0c:
@@ -1420,7 +1420,7 @@ translate vietnamese efra_a9296b7c:
 translate vietnamese efra_64a2af61:
 
     # imre "And, I got some weights as well, so we can get a pump before going to parties."
-    imre "Và tôi còn hay tập tạ nữa, nên chúng ta có thể đi tập trước khi đến các bữa tiệc. "
+    imre "Và tôi còn hay tập tạ nữa, nên chúng ta có thể đi tập trước khi đến các bữa tiệc."
 
 # game/v1/v1.rpy:1269
 translate vietnamese efra_f1c2feb9:
@@ -1480,7 +1480,7 @@ translate vietnamese efra_7b87d77e:
 translate vietnamese efra_e5629812:
 
     # u "Soo.. they're equally good?"
-    u "Vậy là.. họ ngang nhau à?"
+    u "Vậy là.. họ đỉnh ngang nhau à?"
 
 # game/v1/v1.rpy:1320
 translate vietnamese efra_6ec07095:
@@ -1558,7 +1558,7 @@ translate vietnamese an_bd_106453ce:
 translate vietnamese an_bd_4d5428ef:
 
     # imre "By the way, I met a hot fresher today and she's coming over later to hang out with me and my friends."
-    imre "À mà, tôi vừa gặp một em năm nhất hôm nay và cô ấy đang đến chơi cùng tôi và thằng bạn"
+    imre "À mà, tôi vừa gặp một em năm nhất hôm nay và cô ấy đang đến chơi cùng tôi và thằng bạn."
 
 # game/v1/v1.rpy:1384
 translate vietnamese an_bd_4011124e:
@@ -1660,7 +1660,7 @@ translate vietnamese v1_phoneCheck1_9ea2f78c:
 translate vietnamese continueonea_4f1997c1:
 
     # "*Knock knock knock*"
-    "*Knock knock knock*"
+    "*Cốc cốc cốc*"
 
 # game/v1/v1.rpy:1473
 translate vietnamese continueonea_31650508:
@@ -1678,7 +1678,7 @@ translate vietnamese continueonea_1ab536c0:
 translate vietnamese continueonea_f0be93fe:
 
     # imre "Hey, come on in Riley. This is my roommate [name]."
-    imre "Chào, vào đi Riley. Đây là thằng bạn cùng phòng của tôi [name]"
+    imre "Chào, vào đi Riley. Đây là thằng bạn cùng phòng của tôi [name]."
 
 # game/v1/v1.rpy:1486
 translate vietnamese continueonea_142d464a:
@@ -1792,7 +1792,7 @@ translate vietnamese talktorib_7d48478d:
 translate vietnamese talktorib_f35b98ad:
 
     # ri "Shit chat, really? ... You got drinks?"
-    ri "Vớ vẩn, thật luôn?... Cậu có đồ uống không đấy?"
+    ri "Vớ vẩn, thật đấy à?... Cậu có đồ uống không đấy?"
 
 # game/v1/v1.rpy:1578
 translate vietnamese talktorib_d4754214:
@@ -1834,7 +1834,7 @@ translate vietnamese talktorib_40942682:
 translate vietnamese talktorib_b0dc7976:
 
     # imre "You guys know drink or dare?"
-    imre "Mọi người biết trò Thách hoặc Uống chứ? "
+    imre "Mọi người biết trò Thách hoặc Uống chứ?"
 
 # game/v1/v1.rpy:1612
 translate vietnamese talktorib_133e1c1d:
@@ -1996,7 +1996,7 @@ translate vietnamese ao_bd_031008df:
 translate vietnamese ao_bd_35839244:
 
     # imre "My bad, it looked so juicy."
-    imre "Xin lỗi, do nhìn nảy quá thôi."
+    imre "Xin lỗi, do nhìn nó nảy quá thôi."
 
 # game/v1/v1.rpy:1748
 translate vietnamese ao_bd_d4987fa2:
@@ -2110,13 +2110,13 @@ translate vietnamese ap_bd_9ea2f78c:
 translate vietnamese ap_bd_0703a208:
 
     # u "You're right, let's continue."
-    u "Cậu nói đúng, chúng ta tiếp tục vậy"
-
+    u "Cậu nói đúng, chúng ta tiếp tục vậy."
+.
 # game/v1/v1.rpy:1850
 translate vietnamese ar_bd_4b009856:
 
     # la "Guys, I don't wanna kill the vibe, but we have class pretty early tomorrow and I don't wanna be late for my first Economics class."
-    la "Mọi người à, tôi không làm tụt hứng đâu, nhưng mà chúng ta có tiết học vào sáng sớm mai và tôi không muốn đi trễ buổi học Kinh Tế đầu tiên đâu"
+    la "Mọi người à, tôi không làm tụt hứng đâu, nhưng mà chúng ta có tiết học vào sáng sớm mai và tôi không muốn đi trễ buổi học Kinh Tế đầu tiên đâu."
 
 # game/v1/v1.rpy:1855
 translate vietnamese ar_bd_7115daf6:
@@ -2230,7 +2230,7 @@ translate vietnamese at_bd_028b1b63:
 translate vietnamese at_bd_834d182a:
 
     # u "And all the frat guys live in the frat houses right? So he got chicks without being in a frat."
-    u "Và tất cả thành viên trong hội đều sống chung một căn nhà đúng không? Thằng kia địt được gái mà không cần gia nhập hội nào đấy. "
+    u "Và tất cả thành viên trong hội đều sống chung một căn nhà đúng không? Thằng kia địt được gái mà không cần gia nhập hội nào đấy."
 
 # game/v1/v1.rpy:1953
 translate vietnamese at_bd_6ced6621:
@@ -3514,7 +3514,7 @@ translate vietnamese repeata_d30c9f28:
 translate vietnamese repeata_bc926aec:
 
     # imre "Man, fuck the Apes! What do you want there anyways?!"
-    imre "Anh bạn à, địt mẹ lũ Apes! Cậu định làm gì ở đó thế?"
+    imre "Anh bạn à, địt mẹ lũ Apes! Cậu định làm gì ở đó thế?!"
 
 # game/v1/v1.rpy:2951
 translate vietnamese repeata_64306eee:
@@ -3916,7 +3916,7 @@ translate vietnamese v1_freeRoam2_josh_62e1b047:
 translate vietnamese v1_freeRoam2_josh_830247d2:
 
     # u "Well, you're certainly warming up the right guy."
-    u "Chà, thế thì cậu tạo động lực cho đúng người rồi đấy.  "
+    u "Chà, thế thì cậu tạo động lực cho đúng người rồi đấy."
 
 # game/v1/v1.rpy:3291
 translate vietnamese v1_freeRoam2_josh_ec9b82c9:
@@ -4060,7 +4060,7 @@ translate vietnamese v1_freeRoam2_josh_f30d22af:
 translate vietnamese v1_freeRoam2_josh_94906a23:
 
     # u "Alright, I'll leave you guys alone and look around a bit more. Maybe I'll even talk to Grayson."
-    u "Được rồi, tôi sẽ để hai người yên và đi một vòng xung quanh đây. Có lẽ tôi sẽ nói chuyện với Grayson luôn. "
+    u "Được rồi, tôi sẽ để hai người yên và đi một vòng xung quanh đây. Có lẽ tôi sẽ nói chuyện với Grayson luôn."
 
 # game/v1/v1.rpy:3401
 translate vietnamese v1_freeRoam2_josh_2f3f97b5:
@@ -4642,7 +4642,7 @@ translate vietnamese bd_bd_a33ee725:
 translate vietnamese bd_bd_3e7d7879:
 
     # cl "I should be thanking you for saving me. He literally spent the last 20 minutes talking about rocks."
-    cl "Tôi nên cảm ơn cậu vì cậu đã cứu tôi mới phải. Cậu ta ngồi nói về mấy cục đá trong suốt 20 phút đúng theo nghĩa đen luôn đấy. "
+    cl "Tôi nên cảm ơn cậu vì cậu đã cứu tôi mới phải. Cậu ta ngồi nói về mấy cục đá trong suốt 20 phút đúng theo nghĩa đen luôn đấy."
 
 # game/v1/v1.rpy:3911
 translate vietnamese bd_bd_195490e8:
@@ -4720,7 +4720,7 @@ translate vietnamese be_bd_7e22fcd1:
 translate vietnamese be_bd_f3102769:
 
     # cl "Hahaha, maybe."
-    cl "Hahaha, có lẽ thế đấy."
+    cl "Hahaha, có lẽ là thế."
 
 # game/v1/v1.rpy:3980
 translate vietnamese be_bd_ec4dc9b8:
