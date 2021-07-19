@@ -4,7 +4,7 @@
 translate portuguese v4start_b4021613:
 
     # u "Imre? How you holding up buddy?"
-    u "Imre? Como você está bro?"
+    u "Imre? Como você está, mano?"
 
 # game/v4/v4.rpy:40
 translate portuguese v4start_c5ddf28e:
@@ -16,25 +16,25 @@ translate portuguese v4start_c5ddf28e:
 translate portuguese v4start_340bf5a0:
 
     # u "The nurse said you had 3 broken ribs! What the hell happened?"
-    u "A enfermeira me disse que você está com 3 costelas quebradas! O que houve?"
+    u "A enfermeira me disse que você está com 3 costelas quebradas! Que porra que aconteceu?"
 
 # game/v4/v4.rpy:50
 translate portuguese v4start_bf4e1bad:
 
     # imre "Well I was hitting on this girl but she wasn't really into talking so I just started grinding on her a bit."
-    imre "Bom, eu tava dando em cima duma mina, mas ela não tava muito a fim e eu comecei a forçar demais com ela."
+    imre "Bom, eu tava dando em cima de uma mina, mas ela não tava muito a fim e eu comecei a forçar demais com ela."
 
 # game/v4/v4.rpy:52
 translate portuguese v4start_dffee429:
 
     # imre "Then all of the sudden... *winces in pain* this dude shows up super mad and starts pushing me around."
-    imre "Do nada... *gemido de dor* um cara apareceu super irritado e começou a me empurrar."
+    imre "E daí do nada... *gemido de dor* um cara apareceu super irritado e começou a me empurrar."
 
 # game/v4/v4.rpy:56
 translate portuguese v4start_df176aa7:
 
     # imre "Turns out that it was Adam and I was grinding on his sister."
-    imre "Aparentemente eu tava dando em cima da irmã do Adam."
+    imre "Aparentemente eu estava dando em cima da irmã do Adam."
 
 # game/v4/v4.rpy:61
 translate portuguese v4start_9729603a:
@@ -46,13 +46,13 @@ translate portuguese v4start_9729603a:
 translate portuguese v4start_de621888:
 
     # imre "My brother asked some of his friends in the Wolves... *winces in pain*"
-    imre "Meu irmão mexeu uns palitos junto com os Lobos... *gemido de dor*"
+    imre "Meu irmão perguntou para alguns dos Lobos amigos dele... *gemido de dor*"
 
 # game/v4/v4.rpy:68
 translate portuguese v4start_0162cafc:
 
     # imre "And apparently Adam used to be an Ape, but last year one of his opponents wouldn't give up so he flipped and gouged his opponent's eyes."
-    imre "E aparenteme o Adam era um Gorila, mas o ano passado um dos seus oponentes não queria desistir então ele virou o cara e meteu os dedos nos olhos dele."
+    imre "E aparenteme o Adam era um Gorila, mas o ano passado um dos seus oponentes não queria desistir, então ele virou o cara e meteu os dedos nos olhos dele."
 
 # game/v4/v4.rpy:70
 translate portuguese v4start_fdf80e7c:
@@ -64,19 +64,19 @@ translate portuguese v4start_fdf80e7c:
 translate portuguese v4start_c76b9e3d:
 
     # imre "Anyways, I obviously pushed him back and told to fuck off and then we got into a bit of a fight."
-    imre "Bom, eu obviamente empurrei ele e disse pra ele se mandar. Claro que a gente começou a brigar depois."
+    imre "Bom, eu obviamente empurrei ele e disse pra ele cair fora, e daí começamos uma tretinha."
 
 # game/v4/v4.rpy:77
 translate portuguese v4start_8c180bbe:
 
     # u "A bit of a fight? You have three broken ribs..."
-    u "Brigar? Você tomou uma surra. Quebrou 3 costelas..."
+    u "Tretinha? Você tomou foi uma surra. Quebrou 3 costelas..."
 
 # game/v4/v4.rpy:81
 translate portuguese v4start_bc819d28:
 
     # imre "Yeah whatever... *winces in pain* he caught me by surprise, it wasn't a fair fight."
-    imre "Qual a diferença? *gemido de dor* ele me atingiu desprevenido, não foi uma luta justa."
+    imre "Ah, e daí?... *gemido de dor* ele me pegou desprevenido, não foi uma luta justa."
 
 # game/v4/v4.rpy:90
 translate portuguese v4start_3c649ef4:
@@ -106,7 +106,7 @@ translate portuguese v4start_05f159fd:
 translate portuguese v4start_4b864680:
 
     # imre "Nah, this is my fight *winces in pain*."
-    imre "Não, é minha luta *geme de dor*."
+    imre "Não, essa luta é minha *geme de dor*."
 
 # game/v4/v4.rpy:114
 translate portuguese v4start_ab9aa661:
@@ -118,31 +118,31 @@ translate portuguese v4start_ab9aa661:
 translate portuguese v4start_dd1f40cd:
 
     # u "The nurse said you need to stay in here for two more days so I'll pick you up on Sunday, alright?"
-    u "A enfermeira disse que vai ter que ficar aqui mais uns dois dias, então eu venho domingo beleza?"
+    u "A enfermeira disse que você vai ter que ficar aqui mais uns dois dias, então eu venho no domingo, beleza?"
 
 # game/v4/v4.rpy:124
 translate portuguese v4start_e66b65b5:
 
     # imre "Alright, player. *winces in pain*"
-    imre "Valeu comedor. *gemido de dor*"
+    imre "Valeu, comedor. *gemido de dor*"
 
 # game/v4/v4.rpy:129
 translate portuguese v4start_8ba31839:
 
     # u "I'll see you then, get better soon."
-    u "A gente se vê então, melhoras bro."
+    u "A gente se vê então, melhoras mano."
 
 # game/v4/v4.rpy:137
 translate portuguese v4start_f42f951a:
 
     # u "Dude, that's a dumb idea. He sounds dangerous, just go to the cops!"
-    u "Cara, foi uma ideia de merda. Você tem que tomar cuidado. Vai prestar queixa na polícia."
+    u "Cara, foi uma ideia bem idiota. Ele parece perigoso, vá prestar queixa na polícia!"
 
 # game/v4/v4.rpy:142
 translate portuguese v4start_bed1b982:
 
     # imre "I'll fuck him up myself! *winces in pain* Or do I look like a bitch to you?"
-    imre "Eu vou sentar o pau nele! *gemido de dor* Ou eu tenho cara de covarde?"
+    imre "Eu vou é sentar o pau nele! *gemido de dor* Ou por acaso eu tenho cara de covarde?"
 
 # game/v4/v4.rpy:147
 translate portuguese v4start_d646d5e5:
@@ -154,19 +154,19 @@ translate portuguese v4start_d646d5e5:
 translate portuguese v4start_1b518344:
 
     # u "The nurse said you'd be in here for two more days. I'll pick you up on Sunday alright?"
-    u "A enfermeira disse que vai ter que ficar aqui mais uns dois dias, então eu venho domingo beleza?"
+    u "A enfermeira disse que você vai ter que ficar aqui mais uns dois dias, então eu venho no domingo, beleza?"
 
 # game/v4/v4.rpy:154
 translate portuguese v4start_e66b65b5_1:
 
     # imre "Alright, player. *winces in pain*"
-    imre "Valeu comedor. *gemido de dor*"
+    imre "Valeu, comedor. *gemido de dor*"
 
 # game/v4/v4.rpy:159
 translate portuguese v4start_8ba31839_1:
 
     # u "I'll see you then, get better soon."
-    u "A gente se vê então, melhoras bro."
+    u "A gente se vê então, melhoras mano."
 
 # game/v4/v4.rpy:169
 translate portuguese v4start_a98353e8:
@@ -178,7 +178,7 @@ translate portuguese v4start_a98353e8:
 translate portuguese v4start_4b864680_1:
 
     # imre "Nah, this is my fight *winces in pain*."
-    imre "Não, essa é minha luta *gemido de dor*."
+    imre "Não, essa luta é minha *gemido de dor*."
 
 # game/v4/v4.rpy:176
 translate portuguese v4start_151acc9a:
@@ -190,25 +190,25 @@ translate portuguese v4start_151acc9a:
 translate portuguese v4start_f581f45f:
 
     # u "Yeah of course, the nurse said you need to stay in here for two more days so I'll come back on Sunday, alright?"
-    u "Lógico. A enfermeira disse que vai ter que ficar aqui mais uns dois dias, então eu venho domingo beleza?"
+    u "Lógico. A enfermeira disse que você vai ter que ficar aqui mais uns dois dias, então eu venho no domingo, beleza?"
 
 # game/v4/v4.rpy:186
 translate portuguese v4start_e66b65b5_2:
 
     # imre "Alright, player. *winces in pain*"
-    imre "Valeu comedor. *gemido de dor*"
+    imre "Valeu, comedor. *gemido de dor*"
 
 # game/v4/v4.rpy:191
 translate portuguese v4start_8ba31839_2:
 
     # u "I'll see you then, get better soon."
-    u "A gente se vê então, melhoras bro."
+    u "A gente se vê então, melhoras mano."
 
 # game/v4/v4.rpy:208
 translate portuguese dp_ad_c67246ba:
 
     # u "(Holy fuck... I'm just glad he's okay. I need to talk to someone about this.)"
-    u "(Puta merda... Eu espero que fique bem. Tenho que contar isso pra alguém.)"
+    u "(Puta merda... Eu espero que ele fique bem. Tenho que contar isso pra alguém.)"
 
 # game/v4/v4.rpy:210
 translate portuguese dp_ad_c7da4826:
@@ -238,19 +238,19 @@ translate portuguese dp_ad_e79e7310:
 translate portuguese dp_ad_a7e3f450:
 
     # u "Riley, Imre's in the hospital. He got beat up and has three broken ribs."
-    u "Riley, o Imre tá no hospital. Ele tomou uma surra e está com três costelas quebradas."
+    u "Riley, o Imre tá no hospital. Ele levou uma surra e está com três costelas quebradas."
 
 # game/v4/v4.rpy:235
 translate portuguese dp_ad_186f6247:
 
     # ri "What the hell?! Will he be okay?"
-    ri "Que porra é essa?! Ele tá bem?!"
+    ri "Que porra é essa?! Ele vai ficar bem?!"
 
 # game/v4/v4.rpy:240
 translate portuguese dp_ad_1f61cdbb:
 
     # u "Yeah, he's holding up. I'm just on my way back from the hospital. He has to stay there for two more days."
-    u "Sim. Tô voltando do hospital agora. Ele vai ter que ficar internado uns dois dias."
+    u "Sim, ele até que está bem. Tô voltando do hospital agora. Ele vai ter que ficar internado por mais uns dois dias."
 
 # game/v4/v4.rpy:242
 translate portuguese dp_ad_7cf930cb:
@@ -262,13 +262,13 @@ translate portuguese dp_ad_7cf930cb:
 translate portuguese dp_ad_b06a1579:
 
     # ri "Oh my god... Let me know when you're back at your dorm. I'll come over straight away if you wanna talk about it."
-    ri "Meu Deus... Me avisa assim que você chegar no seu quarto. Vou na hora aí falar disso."
+    ri "Meu Deus... Me avisa assim que você chegar no seu quarto. Vou aí na mesma hora se você quiser conversar sobre isso."
 
 # game/v4/v4.rpy:252
 translate portuguese dp_ad_dd3101e7:
 
     # u "Yeah, okay. I won't be able to sleep right now anyway."
-    u "Beleza. Eu acho que não vou conseguir dormir hoje."
+    u "Beleza. Eu acho que não vou conseguir dormir assim que eu chegar."
 
 # game/v4/v4.rpy:257
 translate portuguese dp_ad_c884f79b:
@@ -280,7 +280,7 @@ translate portuguese dp_ad_c884f79b:
 translate portuguese dp_ad_b01b2966:
 
     # uber "Please don't forget to rate me five stars if you enjoyed your journey."
-    uber "Não esquece de me avaliar com cinco estrelas no aplicativo. Boa noite."
+    uber "Por favor não esqueça de me avaliar com cinco estrelas no aplicativo se você curtiu a corrida."
 
 # game/v4/v4.rpy:269
 translate portuguese dp_ad_4f1997c1:
@@ -298,7 +298,7 @@ translate portuguese dp_ad_892195fa:
 translate portuguese dp_ad_a3357a82:
 
     # ri "Hey, I still can't believe this happened."
-    ri "Oi, eu ainda não acredito no que aconteceu."
+    ri "Oi, eu ainda não acredito que isso aconteceu."
 
 # game/v4/v4.rpy:288
 translate portuguese dp_ad_5031cd94:
