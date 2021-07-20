@@ -4,7 +4,7 @@
 translate polish starta_cf384216:
 
     # em "I know what I did was bad..."
-    em ""
+    em "test"
 
 # game/v1/v1.rpy:48
 translate polish starta_64fd2540:
