@@ -5255,3 +5255,4 @@ translate polish strings:
     # game/v1/v1.rpy:3993
     old "Poke fun"
     new "Zażartuj"
+
