@@ -215,7 +215,7 @@ Progress | ?/all | Who is working on it? | Proofreading | Who is proofreading?
 -------- | -------- | --------- | --------- | ---------
 non script files | 4/6 | Klamos | [ ] | -
 v01.rpy | 5225/5225 | Klamos | [ ] | -
-v02.rpy | 298/4221 | Klamos | [ ] | -
+v02.rpy | 1011/4221 | Klamos | [ ] | -
 v03.rpy | 0/3636 | - | [ ] | -
 v04.rpy | 0/3227 | - | [ ] | -
 v05.rpy | 0/3498 | - | [ ] | -
