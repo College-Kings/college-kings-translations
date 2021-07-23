@@ -28,13 +28,13 @@ translate portuguese v5start_f42e30d3:
 translate portuguese v5start_8f75944f:
 
     # no "Chloe can be a bit overdramatic sometimes, you know."
-    no "A Chloe pode ser um pouco dramática às vezes..."
+    no "A Chloe pode ser um pouco dramática às vezes, sabe..."
 
 # game/v5/v5.rpy:83
 translate portuguese v5start_e0724b74:
 
     # no "Maybe she'll calm down by tomorrow."
-    no "Talvez ela esfrie a cabeça até amanhã."
+    no "Talvez ela esteja de cabeça fria amanhã."
 
 # game/v5/v5.rpy:88
 translate portuguese v5start_c319e66f:
@@ -52,7 +52,7 @@ translate portuguese v5start_30adda01:
 translate portuguese v5start_7ff172e2:
 
     # u "*Drunk* My uhm, my friend, he- he said that Chloe did some shady shit in the past and I just had to find out the truth!"
-    u "*Bêbado* Meu hmm, meu amigo, me- me disse que a Chloe fez algumas paradas meio barra-pesada e eu queria saber se era verdade!"
+    u "*Bêbado* Meu hmm, meu amigo, ele- ele me disse que a Chloe fez algumas paradas meio barra-pesada no passado e eu queria saber se era verdade!"
 
 # game/v5/v5.rpy:105
 translate portuguese v5start_203a8419:
@@ -64,13 +64,13 @@ translate portuguese v5start_203a8419:
 translate portuguese v5start_ba31489a:
 
     # u "*Drunk* Nothing! I think all I did was ruin our relationship..."
-    u "*Bêbado* Nada! Eu acho que o único que fiz foi arruinar nossa relação..."
+    u "*Bêbado* Nada! Eu acho que a única coisa que fiz foi arruinar nossa relação..."
 
 # game/v5/v5.rpy:115
 translate portuguese v5start_4dc2dc97:
 
     # no "Yeah, that sounds about right."
-    no "É, provavelmente..."
+    no "É, provavelmente."
 
 # game/v5/v5.rpy:120
 translate portuguese v5start_ce9d80ae:
@@ -100,7 +100,7 @@ translate portuguese v5start_3e1869e8:
 translate portuguese v5start_f53fb841:
 
     # no "It's late, I really don't wanna get into it. But hey, let me know how your little love story ends."
-    no "Está tarde, eu não quero falar no assunto. Mas me conta como os fatos se desenrolam na sua história de amor."
+    no "Está tarde, eu não quero entrar nesse assunto. Mas olha, depois me conta como termina sua histórinha de amor."
 
 # game/v5/v5.rpy:139
 translate portuguese v5start_cdb2d7d3:
@@ -118,7 +118,7 @@ translate portuguese v5start_52e838e0:
 translate portuguese v5start_52c2a370:
 
     # u "*Drunk* Uhhh... nothing. It's not important."
-    u "*Bêbado* Ahhh... nada, não é importante."
+    u "*Bêbado* Ahhh... nada. Não é importante."
 
 # game/v5/v5.rpy:152
 translate portuguese v5start_c9a8b304:
@@ -130,7 +130,7 @@ translate portuguese v5start_c9a8b304:
 translate portuguese v5start_a132ad83:
 
     # no "Alright, well let me know how your little love story ends."
-    no "Certo, depois me conte como a sua historinha de amor termina."
+    no "Certo, depois me conta como termina sua histórinha de amor."
 
 # game/v5/v5.rpy:159
 translate portuguese v5start_cdb2d7d3_1:
@@ -142,7 +142,7 @@ translate portuguese v5start_cdb2d7d3_1:
 translate portuguese v5start_52e838e0_1:
 
     # u "*Drunk* Night..."
-    u "*Bêbado* Boa noite."
+    u "*Bêbado* Boa noite..."
 
 # game/v5/v5.rpy:170
 translate portuguese v5start_04b2a395:
@@ -154,7 +154,7 @@ translate portuguese v5start_04b2a395:
 translate portuguese v5start_cc6f375e:
 
     # no "Alright, well let's hope you and our house don't get into another fight in the future."
-    no "Certo, bom, espero que você e a nossa casa não voltem a brigar no futuro."
+    no "Certo, bom, eu espero que você e a nossa casa não voltem a brigar no futuro."
 
 # game/v5/v5.rpy:180
 translate portuguese v5start_0fba9dcb:
@@ -166,7 +166,7 @@ translate portuguese v5start_0fba9dcb:
 translate portuguese ev_bd_f725ce66:
 
     # u "(Way to mess things up with Chloe.... great fucking job, [name].)"
-    u "(Baita maneira de estragar as coisas com a Chloe... Excelente trabalho [name].)"
+    u "(Baita maneira de estragar as coisas com a Chloe... Excelente trabalho, [name].)"
 
 # game/v5/v5.rpy:201
 translate portuguese ev_bd_5a88a05e:
@@ -184,7 +184,7 @@ translate portuguese ev_bd_7d193b2b:
 translate portuguese ev_bd_bf4ca58f:
 
     # u "(I completely forgot I bought this. I guess I can't really give it to Chloe anymore now, can I?)"
-    u "(Eu esqueci completamente que tinha comprado isso. Eu acho que não posso mais dar pra Chloe né?)"
+    u "(Eu esqueci completamente que tinha comprado isso. Eu acho que não posso mais dar pra Chloe, né?)"
 
 # game/v5/v5.rpy:222
 translate portuguese ev_bd_7d193b2b_1:
@@ -214,7 +214,7 @@ translate portuguese jorepb_b2db8899:
 translate portuguese jorepb_428dfda8:
 
     # u "Hey uh, actually... can we- can we talk outside first? I- I just wanna clear something up."
-    u "Oi, na verdade... a gente pode falar aqui fora primeiro? Eu- eu só quero esclarecer umas coisas antes."
+    u "Oi, na verdade... podemos conversar aqui fora primeiro? Eu- eu só quero esclarecer umas coisas antes."
 
 # game/v5/v5.rpy:263
 translate portuguese jorepb_009c5a98:
@@ -238,19 +238,19 @@ translate portuguese jorepb_11aed362:
 translate portuguese jorepb_e1e72d62:
 
     # cl "What?? [name], I'm not, that's absurd..."
-    cl "O Quê?? [name], eu não, isso é absurdo..."
+    cl "O Quê?? [name], eu não, isso é um absurdo..."
 
 # game/v5/v5.rpy:283
 translate portuguese jorepb_d4482fd2:
 
     # u " He said Grayson told him about a lot of shady shit that you did in the past."
-    u "Ele disse que o Grayson contou algumas paradas meio sinistras que você fez no passado."
+    u "Ele disse que o Grayson contou pra ele sobre algumas paradas erradas que você fez no passado."
 
 # game/v5/v5.rpy:287
 translate portuguese jorepb_ac67d852:
 
     # cl "I didn't do anything shady. Grayson is just spreading lies like he always is."
-    cl "Eu nunca fiz nada desse gênero. O Grayson só está espalhando mentiras como de costume."
+    cl "Eu nunca fiz nada errado. O Grayson só está espalhando mentiras, como de costume."
 
 # game/v5/v5.rpy:297
 translate portuguese jorepb_ee48bd46:
@@ -268,7 +268,7 @@ translate portuguese jorepb_0ed764dd:
 translate portuguese jorepb_6fab2291:
 
     # cl "Hey I don't have that much more time tonight, but how about we hang out tomorrow?"
-    cl "Ei, eu não tenho muito tempo hoje à noite, que tal se a gente se encontrar amanhã?"
+    cl "Ei, eu não tenho muito tempo hoje à noite, que tal se nos encontrarmos amanhã?"
 
 # game/v5/v5.rpy:309
 translate portuguese jorepb_4b8de160:
@@ -286,7 +286,7 @@ translate portuguese jorepb_982299b7:
 translate portuguese jorepb_b1758b11:
 
     # u "(Good thing I didn't get drunk, that could have very easily gone wrong and ended in a big fight with Chloe.)"
-    u "(Ainda bem que eu não estava bêbado, tudo poderia ter dado errado bem facilmente e talvez tivesse terminado em briga.)"
+    u "(Ainda bem que eu não estava bêbado, tudo poderia ter dado errado bem fácil e talvez até acabado em briga.)"
 
 # game/v5/v5.rpy:329
 translate portuguese jorepb_ba1c4808:
@@ -322,25 +322,25 @@ translate portuguese jorepb_da5d6565:
 translate portuguese jorepb_339940d9:
 
     # u "You're lying. Yeah sure, the hottest girl in school wants me, the freshman who got beaten up at his first college party."
-    u "Você está mentindo. É claro que a garota mais gata da facul gosta de mim, o novato que apanhou na sua primeira festa."
+    u "Você está mentindo. É claro, imagina só, a garota mais gata da facul gosta de mim, o novato que apanhou na sua primeira festa."
 
 # game/v5/v5.rpy:371
 translate portuguese jorepb_827ff41b:
 
     # u "That seems realistic, right?!"
-    u "Super plausível, né?"
+    u "Parece bem normal, né?"
 
 # game/v5/v5.rpy:376
 translate portuguese jorepb_17de23f6:
 
     # cl "[name], I don't care about the fighting, or any of that shit. What Grayson did to you was pathetic. I like you 'cause you were funny and kind and ... and you cared."
-    cl "[name], eu nem ligo pras lutas ou qualquer merda dessas. O que o Grayson fez com você é patético. Eu gosto de você porque você é engraçado e gentil e... você se importa."
+    cl "[name], eu nem ligo pras lutas ou qualquer merda dessas. O que o Grayson fez com você foi patético. Eu gosto de você porque você é engraçado e gentil e... você se importa."
 
 # game/v5/v5.rpy:381
 translate portuguese jorepb_023c11e2:
 
     # u "Then why did you go after Grayson instead of helping me up when he knocked me out??"
-    u "Então por que você foi atrás do Grayson ao invés de me ajudar quando estava no chão??"
+    u "Então por que você foi atrás do Grayson ao invés de me ajudar quando eu estava no chão??"
 
 # game/v5/v5.rpy:386
 translate portuguese jorepb_1e16adae:
@@ -352,25 +352,25 @@ translate portuguese jorepb_1e16adae:
 translate portuguese jorepb_a5093b42:
 
     # cl "I told him to stop, okay?? I didn't know if he was gonna hurt you even more."
-    cl "Eu disse pra ele parar tá?? Eu não sabia se ele ia continuar te batendo."
+    cl "Eu disse pra ele parar, tá?? Eu não sabia se ele ia te machucar ainda mais."
 
 # game/v5/v5.rpy:393
 translate portuguese jorepb_a688755b:
 
     # u "*Ryan said that you just saw his punch as a personal attack and didn't give one fuck about me being hurt. And you know what? Maybe he's right!"
-    u "O Ryan disse que você tomou o soco como algo pessoal contra você e não se importou que ele tenha me machucado. E sabe, eu acho que é verdade!"
+    u "O Ryan disse que você tomou o soco como algo pessoal contra você, e simplesmente cagou que ele tenha me machucado. E quer saber? Eu acho que ele tem razão!"
 
 # game/v5/v5.rpy:398
 translate portuguese jorepb_fd7e91c0:
 
     # cl "What have I ever done for you not to fucking trust me one bit?!"
-    cl "O que eu fiz pra você não confiar o mínimo em mim?!"
+    cl "Me diz que porra foi que eu te fiz pra você não confiar nem um pouco em mim?!"
 
 # game/v5/v5.rpy:403
 translate portuguese jorepb_b5bccc9e:
 
     # u "Apparently a bunch of shady shit in the past!"
-    u "Aparentemente um monte de coisas obscuras no passado!"
+    u "Aparentemente um monte de besteiras no passado!"
 
 # game/v5/v5.rpy:408
 translate portuguese jorepb_6a8d31a8:
@@ -382,19 +382,19 @@ translate portuguese jorepb_6a8d31a8:
 translate portuguese jorepb_07eb5d33:
 
     # cl "You know how you can be sure I wasn't just using you?"
-    cl "Como você tem certeza que eu não estava só te usando?"
+    cl "Quer saber como você pode ter certeza que eu não estava só te usando?"
 
 # game/v5/v5.rpy:412
 translate portuguese jorepb_59dbc30c:
 
     # cl "Because if I was using you, I would probably try to seduce you back into trusting me right now."
-    cl "Porque se eu estivesse te usando eu provavelmente tentaria te seduzir de novo neste momento."
+    cl "Porque se eu estivesse te usando, eu provavelmente tentaria te seduzir pra confiar em mim de novo agora."
 
 # game/v5/v5.rpy:414
 translate portuguese jorepb_1619571b:
 
     # cl "But don't worry, I don't want that. We're done."
-    cl "Mas não se preocupe, não quero isso. Acabou tudo."
+    cl "Mas não se preocupe, eu não quero isso. Acabou tudo."
 
 # game/v5/v5.rpy:419
 translate portuguese jorepb_76b03b19:
@@ -418,7 +418,7 @@ translate portuguese jorepb_fae10745:
 translate portuguese jorepb_ac6b696f:
 
     # u "Ah, fuck!"
-    u "Que merda!"
+    u "Ah, puta que pariu!!"
 
 # game/v5/v5.rpy:445
 translate portuguese jorepb_05148e1b:
@@ -454,25 +454,25 @@ translate portuguese jorepb_da2cfc62:
 translate portuguese jorepb_a4ac767d:
 
     # u "But it just got out of control..."
-    u "Mas eu só conseguir perder o controle de tudo..."
+    u "Mas as coisas meio que saíram do controle..."
 
 # game/v5/v5.rpy:472
 translate portuguese jorepb_f42e30d3:
 
     # no "Hmmm..."
-    no "Hmmmm..."
+    no "Hmmm..."
 
 # game/v5/v5.rpy:477
 translate portuguese jorepb_8f75944f:
 
     # no "Chloe can be a bit overdramatic sometimes, you know."
-    no "A Chloe pode ser um pouco dramática às vezes..."
+    no "A Chloe pode ser um pouco dramática às vezes, sabe..."
 
 # game/v5/v5.rpy:479
 translate portuguese jorepb_e0724b74:
 
     # no "Maybe she'll calm down by tomorrow."
-    no "Talvez ela esfrie a cabeça até amanhã."
+    no "Talvez ela esteja de cabeça fria amanhã."
 
 # game/v5/v5.rpy:484
 translate portuguese jorepb_8b940739:
@@ -484,13 +484,13 @@ translate portuguese jorepb_8b940739:
 translate portuguese jorepb_30adda01:
 
     # no "Hey, it's none of my business, but... what did you guys talk about that made you wanna punch a wall after?"
-    no "Olha, eu sei que não é da minha conta, mas... sobre o que vocês estavam falando a ponto de te fazer dar um murro na parede?"
+    no "Olha, eu sei que não é da minha conta, mas... Sobre o que vocês estavam conversando a ponto de te fazer dar um murro na parede?"
 
 # game/v5/v5.rpy:496
 translate portuguese jorepb_d9ef0c47:
 
     # u "My uhm, my friend said that Chloe did some shady shit in the past and I just had to find out the truth."
-    u "Meu hmm, meu amigo, me- me disse que a Chloe fez algumas paradas meio barra-pesada e eu queria saber se era verdade!"
+    u "Meu hmm, meu amigo me disse que a Chloe fez algumas paradas meio barra-pesada no passado e eu queria saber se era verdade."
 
 # game/v5/v5.rpy:501
 translate portuguese jorepb_203a8419:
@@ -502,7 +502,7 @@ translate portuguese jorepb_203a8419:
 translate portuguese jorepb_67cf5e6e:
 
     # u "Nothing! I think all I did was ruin our relationship..."
-    u "Nada! Eu acho que o único que fiz foi arruinar nossa relação..."
+    u "Nada! Eu acho que a única coisa que fiz foi arruinar nossa relação..."
 
 # game/v5/v5.rpy:511
 translate portuguese jorepb_4dc2dc97:
@@ -514,7 +514,7 @@ translate portuguese jorepb_4dc2dc97:
 translate portuguese jorepb_0330cd59:
 
     # u "What- What do you mean?"
-    u "O que- o que você quer dizer?"
+    u "O que- O que você quer dizer?"
 
 # game/v5/v5.rpy:521
 translate portuguese jorepb_90159cdb:
