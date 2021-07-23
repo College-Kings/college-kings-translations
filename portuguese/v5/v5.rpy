@@ -538,7 +538,7 @@ translate portuguese jorepb_a88454dd:
 translate portuguese jorepb_f53fb841:
 
     # no "It's late, I really don't wanna get into it. But hey, let me know how your little love story ends."
-    no "Está tarde, eu não quero falar no assunto. Mas me conta como os fatos se desenrrolam na sua história de amor."
+    no "Está tarde, eu não quero falar no assunto. Mas me conta como os fatos se desenrolam na sua história de amor."
 
 # game/v5/v5.rpy:535
 translate portuguese jorepb_cdb2d7d3:
