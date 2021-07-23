@@ -2939,7 +2939,7 @@ translate portuguese eu_b_fd7e91c0:
 translate portuguese eu_b_32c157af:
 
     # u "*Drunk* Apparently a bunch of shady shit in the past!"
-    u "*Bêbado* Aparentemente um monte de coisas obscuras no passado!"
+    u "*Bêbado* Aparentemente um monte de besteiras no passado!"
 
 # game/v4/v4.rpy:2942
 translate portuguese eu_b_6a8d31a8:
@@ -2951,19 +2951,19 @@ translate portuguese eu_b_6a8d31a8:
 translate portuguese eu_b_07eb5d33:
 
     # cl "You know how you can be sure I wasn't just using you?"
-    cl "Como você tem certeza que eu não estava só te usando?"
+    cl "Sabe como é que você pode ter certeza que eu não estava te usando?"
 
 # game/v4/v4.rpy:2946
 translate portuguese eu_b_59dbc30c:
 
     # cl "Because if I was using you, I would probably try to seduce you back into trusting me right now."
-    cl "Porque se eu estivesse te usando eu provavelmente tentaria te seduzir de novo neste momento."
+    cl "Porque se eu estivesse te usando, eu provavelmente tentaria te seduzir pra confiar em mim de novo, neste momento."
 
 # game/v4/v4.rpy:2948
 translate portuguese eu_b_1619571b:
 
     # cl "But don't worry, I don't want that. We're done."
-    cl "Mas não se preocupe, não quero isso. Acabou tudo."
+    cl "Mas não se preocupe, eu não quero isso. Acabou tudo."
 
 # game/v4/v4.rpy:2953
 translate portuguese eu_b_a8756a7b:
@@ -2987,7 +2987,7 @@ translate portuguese eu_b_fae10745:
 translate portuguese eu_b_ac6b696f:
 
     # u "Ah, fuck!"
-    u "Que merda!"
+    u "Ah, puta que pariu!!"
 
 # game/v4/v4.rpy:2979
 translate portuguese eu_b_05148e1b:
@@ -3005,7 +3005,7 @@ translate portuguese eu_b_9ea2f78c:
 translate portuguese eu_b_8d1e43e3:
 
     # u "Oh shit..."
-    u "Que merda..."
+    u "Ah merda..."
 
 translate portuguese strings:
 
@@ -3015,11 +3015,11 @@ translate portuguese strings:
 
     # game/v4/v4.rpy:6
     old "Come by 995 Sereno Drive at 8, it's my friends house."
-    new "Só vir pra Sereno Drive 995 às 8, é a casa duma amiga."
+    new "Só vir pra Sereno Drive 995 às 8h, é a casa de uma amiga minha."
 
     # game/v4/v4.rpy:9
     old "Aww, come on. You'll be back by 11."
-    new "Poooo, fala sério. Vc vai voltar antes das 11."
+    new "Poooo, fala sério. Você vai voltar antes das 11h."
 
     # game/v4/v4.rpy:11
     old "I told my friend Amber about you and she really wants to meet you."
@@ -3031,19 +3031,19 @@ translate portuguese strings:
 
     # game/v4/v4.rpy:13
     old "Josh, I don't know, man. I don't wanna be late."
-    new "Josh eu acho melhor não, não quero me atrasar"
+    new "Josh eu acho melhor não, mano. Não quero me atrasar."
 
     # game/v4/v4.rpy:16
     old "Remember how you told me in high school that you felt like you always missed out on all the crazy stories?"
-    new "Lembra que vc me disse na escola que sempre tava de fora das paradas maneiras?"
+    new "Lembra que você me disse no tempo da escola que tu sempre perdia todas as paradas maneiras?"
 
     # game/v4/v4.rpy:17
     old "Don't miss out now."
-    new "Não perde a chance agora"
+    new "Não perca essa de agora."
 
     # game/v4/v4.rpy:18
     old "Fine, I'll come. But I need to go before 11."
-    new "Blz, eu vou, mas vou vazar antes das 11"
+    new "Beleza, eu vou, mas vou vazar antes das 11h."
 
     # game/v4/v4.rpy:27
     old "This guy"
@@ -3075,7 +3075,7 @@ translate portuguese strings:
 
     # game/v4/v4.rpy:436
     old "Ask her to sleep here"
-    new "Pedir pra ela dormir aqui."
+    new "Pedir pra ela dormir aqui"
 
     # game/v4/v4.rpy:576
     old "Someone punched me."
@@ -3095,19 +3095,19 @@ translate portuguese strings:
 
     # game/v4/v4.rpy:1053
     old "Hey Chloe, any chance you can meet up in a bit?"
-    new "Oie Chloe, você tá livre agora?"
+    new "Oi Chloe, você tá livre agora?"
 
     # game/v4/v4.rpy:1054
     old "I'm really busy today, but I could do tonight after 11 or so."
-    new "Eu tô super ocupada hoje, mas tô livre à noite depois das 11."
+    new "Eu tô super ocupada hoje, mas tô livre à noite depois das 11h."
 
     # game/v4/v4.rpy:1055
     old "Alright, cool. I'll be at yours for 11"
-    new "Beleza, por mim ótimo. A gente se ve as 11"
+    new "Beleza, por mim ótimo. A gente se vê as 11h"
 
     # game/v4/v4.rpy:1056
     old "Sounds good :)"
-    new "Por mim perfeito :)"
+    new "Ok então :)"
 
     # game/v4/v4.rpy:1115
     old "Sit somewhere else"
@@ -3123,35 +3123,35 @@ translate portuguese strings:
 
     # game/v4/v4.rpy:1641
     old "Magic Powers."
-    new "Magia Ancestral."
+    new "Poderes mágicos."
 
     # game/v4/v4.rpy:1641
     old "I didn't."
-    new "Não sabia."
+    new "Eu não sabia."
 
     # game/v4/v4.rpy:1692
     old "Buy Penelope a muffin"
-    new "Comprar um Muffin"
+    new "Comprar um Muffin para Penelope"
 
     # game/v4/v4.rpy:1692
     old "Buy Penelope a coffee"
-    new "Comprar um café"
+    new "Comprar um café para Penelope"
 
     # game/v4/v4.rpy:1778
     old "Grab her hand"
-    new "Tocar a mão dela."
+    new "Pegar na mão dela."
 
     # game/v4/v4.rpy:2019
     old "We should watch some."
-    new "Deveríamos ver."
+    new "Deveríamos ver algum."
 
     # game/v4/v4.rpy:2019
     old "You should try it."
-    new "Deveria tentar."
+    new "Você deveria tentar."
 
     # game/v4/v4.rpy:2061
     old "You wanna go bowling?"
-    new "Quer jogar boliche?"
+    new "Quer ir jogar boliche?"
 
     # game/v4/v4.rpy:2061
     old "Yeah, it was nice."
@@ -3163,11 +3163,11 @@ translate portuguese strings:
 
     # game/v4/v4.rpy:2173
     old "I'm meeting a friend at 11, so I can't really."
-    new "Eu tenho que me encontrar com uma amiga às 11, então não vai rolar"
+    new "Eu tenho que me encontrar com uma amiga às 11h, então não vai rolar."
 
     # game/v4/v4.rpy:2285
     old "I can move."
-    new "Eu posso sair"
+    new "Eu posso sair."
 
     # game/v4/v4.rpy:2285
     old "It's my spot now."
@@ -3187,11 +3187,11 @@ translate portuguese strings:
 
     # game/v4/v4.rpy:2406
     old "I should stop here."
-    new "Deveria parar."
+    new "Eu deveria parar por aqui."
 
     # game/v4/v4.rpy:2428
     old "Alright, just for a bit."
-    new "Certo, Só mais um pouco."
+    new "Certo, só mais um pouco."
 
     # game/v4/v4.rpy:2428
     old "Sorry, I really can't."
@@ -3215,7 +3215,7 @@ translate portuguese strings:
 
     # game/v4/v4.rpy:2891
     old "Accuse her of lying"
-    new "Acusar ela de mentir"
+    new "Acuse-a de mentir"
 
     # game/v4/v4.rpy:2891
     old "Ask about the punch"
