@@ -3250,7 +3250,7 @@ translate polish aw_bd_dba7d64f:
 translate polish aw_bd_01e1731c:
 
     # la "Oh come on, it's not that weird."
-    la "Daj spokój, to przecież nie jest takie dziwne.
+    la "Daj spokój, to przecież nie jest takie dziwne."
 
 # game/v1/v1.rpy:2732
 translate polish aw_bd_1558ff35:
@@ -5106,7 +5106,7 @@ translate polish strings:
 
     # game/v1/v1.rpy:1875
     old "They're both hot."
-    new "Obie są niezłe.
+    new "Obie są niezłe."
 
     # game/v1/v1.rpy:1887
     old "You're right, sorry."
@@ -5205,7 +5205,7 @@ translate polish strings:
     new "Powiedz, że nie jesteś wojownikiem"
 
     # game/v1/v1.rpy:3345
-    old "I'll be the next Fight King."+++++++++++++++++++++++++++++++++++++++++++++
+    old "I'll be the next Fight King."
     new "Będę następnym Królem Walk."
 
     # game/v1/v1.rpy:3345

@@ -148,7 +148,7 @@ translate polish repeatb_82b726ed:
 translate polish repeatb_b7c5def3:
 
     # u "(There's too much on my mind to be dealing with Lauren right now.)"
-    u "(Mam teraz zbyt duży mętlik w głowie, żeby spotykać się z Lauren.)
+    u "(Mam teraz zbyt duży mętlik w głowie, żeby spotykać się z Lauren.)"
 
 # game/v2/v2.rpy:232
 translate polish repeatb_1ee1e1aa:
@@ -328,7 +328,7 @@ translate polish tomtut1jab_f76b89d4:
 translate polish tomtut1jab_e1d6e4d3:
 
     # tut "Because you decided to attack Tom's guarded areas, he was able to block your attack easily."
-    tut "Ponieważ zdecydowałeś się zaatakować miejsca chronione przez Toma, był on w stanie z łatwością zablokować twój atak.\"
+    tut "Ponieważ zdecydowałeś się zaatakować miejsca chronione przez Toma, był on w stanie z łatwością zablokować twój atak."
 
 # game/v2/v2.rpy:401
 translate polish tomtut1jab_13b808cb:
@@ -746,7 +746,6 @@ translate polish meet_lauren2_f3ad4c25:
 
 # game/v2/v2.rpy:1360
 translate polish meet_lauren2_e6b07d44:+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
     # u "(I should probably wash the blood off my face in the restroom before I go.)"
     u "(Chyba powinienem pójść do toalety zmyć krew z twarzy przed wyjściem.)"
 

@@ -2111,7 +2111,7 @@ translate vietnamese ap_bd_0703a208:
 
     # u "You're right, let's continue."
     u "Cậu nói đúng, chúng ta tiếp tục vậy."
-.
+
 # game/v1/v1.rpy:1850
 translate vietnamese ar_bd_4b009856:
 
