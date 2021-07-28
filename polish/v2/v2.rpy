@@ -4,751 +4,750 @@
 translate polish v2start_1bba6b51:
 
     # cl "*Muffled* Why did you do that?! We were just talking!"
-    cl ""
+    cl "*Przytłumione* Dlaczego to zrobiłeś?! Przecież tylko rozmawialiśmy!"
 
 # game/v2/v2.rpy:89
 translate polish v2start_c3b1a1ef:
 
     # ry "*Muffled* [name]?! Are you okay??"
-    ry ""
+    ry "*Przytłumione* [name]?! Nic ci nie jest??"
 
 # game/v2/v2.rpy:98
 translate polish v2start_cb54d010:
 
     # imre "Hey man, did you have a good night?"
-    imre ""
+    imre "Hej stary, wyspałeś się?"
 
 # game/v2/v2.rpy:104
 translate polish v2start_20bec76e:
 
     # u "What? How did I get here?"
-    u ""
+    u "Co? Jak się tu dostałem?"
 
 # game/v2/v2.rpy:109
 translate polish v2start_b94dac9c:
 
     # imre "Some Ryan guy dropped you off, after you got yourself beaten up."
-    imre ""
+    imre "Jakiś Ryan cię tu przytargał po tym, jak zostałeś pobity."
 
 # game/v2/v2.rpy:114
 translate polish v2start_7207f97e:
 
     # u "Shit... my head hurts so much."
-    u ""
+    u "Kurwa... ale boli mnie głowa."
 
 # game/v2/v2.rpy:119
 translate polish v2start_1c5c1a81:
 
     # imre "I mean, have you seen your face?"
-    imre ""
+    imre "A widziałeś już swoją twarz?"
 
 # game/v2/v2.rpy:121
 translate polish v2start_1adeb7b0:
 
     # imre "Here, I took a picture last night when you came home."
-    imre ""
+    imre "Trzymaj, zrobiłem ci zdjęcie wczoraj wieczorem, kiedy wróciłeś do domu."
 
 # game/v2/v2.rpy:125
 translate polish v2start_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v2/v2.rpy:130
 translate polish v2start_272f5aa4:
 
     # u "Man, Grayson is such an asshole. I didn't even do anything."
-    u ""
+    u "Stary, Grayson to kawał chuja. Nawet nic nie zrobiłem."
 
 # game/v2/v2.rpy:135
 translate polish v2start_48095016:
 
     # imre "What did you expect? I told you the Apes are dogshit."
-    imre ""
+    imre "A czego się spodziewałeś? Mówiłem ci, że Małpy to chuje."
 
 # game/v2/v2.rpy:137
 translate polish v2start_22ca126f:
 
     # imre "If you knew how to fight, maybe he wouldn't fuck with you."
-    imre ""
+    imre "Gdybyś umiał walczyć, może by ci tak nie zapierdolił."
 
 # game/v2/v2.rpy:145
 translate polish v2start_327c6541:
 
     # u "Hmm... maybe."
-    u ""
+    u "Hmm... może."
 
 # game/v2/v2.rpy:149
 translate polish v2start_c08fe457:
 
     # imre "Just think about it, okay? I'll see you later."
-    imre ""
+    imre "Przemyśl to, dobra? Do zobaczenia później."
 
 # game/v2/v2.rpy:156
 translate polish v2start_f558cfe4:
 
     # u "I'm not fighting. I'll just stay away from them."
-    u ""
+    u "Ja nie walczę. Po prostu będę się trzymać od nich z daleka."
 
 # game/v2/v2.rpy:161
 translate polish v2start_e8ead580:
 
     # imre "Dude, you don't know what Grayson's like."
-    imre ""
+    imre "Ziom, nie wiesz jaki jest Grayson."
 
 # game/v2/v2.rpy:163
 translate polish v2start_1e49a1b9:
 
     # imre "If he sees you looking at him wrong from now on, you'll end up in the hospital."
-    imre ""
+    imre "Jeśli teraz zobaczy, że źle na niego patrzysz to skończysz w szpitalu."
 
 # game/v2/v2.rpy:171
 translate polish v2start_acb5bdce:
 
     # u "Look, I'll think about it. But don't get your hopes up."
-    u ""
+    u "Posłuchaj, pomyślę o tym. Ale nie rób sobie nadziei."
 
 # game/v2/v2.rpy:175
 translate polish v2start_7098dbf0:
 
     # imre "That's all I'm asking for. I'll see you later."
-    imre ""
+    imre "O nic więcej nie proszę. Do zobaczenia poźniej."
 
 # game/v2/v2.rpy:182
 translate polish v2start_0b7c44c3:
 
     # u "I'm not fighting. That's final."
-    u ""
+    u "Ja nie walczę. Koniec kropka."
 
 # game/v2/v2.rpy:187
 translate polish v2start_a27d90a3:
 
     # imre "You're being stupid, man. Whatever, suit yourself."
-    imre ""
+    imre "Jesteś głupi, stary. Nieważne, rób co chcesz."
 
 # game/v2/v2.rpy:214
 translate polish bjj_bd_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v2/v2.rpy:223
 translate polish repeatb_b672f3b0:
 
     # u "(Damn, my phone's blowing up. I should probably check my messages.)"
-    u ""
+    u "(Kurde, mój telefon zaraz eksploduje. Powinienem sprawdzić wiadomości.)"
 
 # game/v2/v2.rpy:227
 translate polish repeatb_82b726ed:
 
     # u "(Well, time to head to the cafe to meet Lauren.)"
-    u ""
+    u "(Cóż, czas iść do kawiarni na spotkanie z Lauren.)"
 
 # game/v2/v2.rpy:230
 translate polish repeatb_b7c5def3:
 
     # u "(There's too much on my mind to be dealing with Lauren right now.)"
-    u ""
+    u "(Mam teraz zbyt duży mętlik w głowie, żeby spotykać się z Lauren.)"
 
 # game/v2/v2.rpy:232
 translate polish repeatb_1ee1e1aa:
 
     # u "(Maybe taking a walk will relax me.)"
-    u ""
+    u "(Może spacer mnie trochę zrelaksuje.)"
 
 # game/v2/v2.rpy:239
 translate polish walk1_5d38ae25:
 
     # u "(I can't believe I got knocked out in front of everyone...)"
-    u ""
+    u "(Nie mogę uwierzyć, że zostałem znokautowany na oczach wszystkich...)"
 
 # game/v2/v2.rpy:243
 translate polish walk1_138f9c3b:
 
     # u "(Especially in front of Chloe, that's so humiliating.)"
-    u ""
+    u "(Zwłaszcza na oczach Chloe, to takie upokarzające.)"
 
 # game/v2/v2.rpy:248
 translate polish walk1_3263fe5c:
 
     # u "(Is she dating Grayson? I really thought she was flirting with me.)"
-    u ""
+    u "(Czy ona chodzi z Graysonem? Myślałem, że naprawdę ze mną flirtuje.)"
 
 # game/v2/v2.rpy:250
 translate polish walk1_d91c9beb:
 
     # u "(But why would Grayson punch me otherwise?)"
-    u ""
+    u "(Ale dlaczego w takim razie Grayson uderzył mnie?)"
 
 # game/v2/v2.rpy:252
 translate polish walk1_ae5cc9c0:
 
     # u "(Just thinking about all this shit makes me so mad.)"
-    u ""
+    u "(Samo myślenie o tym całym gównie doprowadza mnie do szału.)"
 
 # game/v2/v2.rpy:257
 translate polish walk1_4b258b6b:
 
     # tom "Eyy, Mr. steal-your-girl got beaten up. *laughs*"
-    tom ""
+    tom "Ejj, Pan ukradłem-ci-laskę został pobity. *śmiech*"
 
 # game/v2/v2.rpy:259
 translate polish walk1_50708946:
 
     # tom "That's what you get for being such a little bitch."
-    tom ""
+    tom "Należało ci się za bycie taką jebaną szmatą."
 
 # game/v2/v2.rpy:269
 translate polish walk1_f9b61707:
 
     # tom "Yeah, you better keep walking, pussy."
-    tom ""
+    tom "Tak, lepiej idź dalej, cipo."
 
 # game/v2/v2.rpy:287
 translate polish v1_tomShoutBack_a3367190:
 
     # u "The fuck did you just say to me?!"
-    u ""
+    u "Co ty kurwa o mnie powiedziałeś?!"
 
 # game/v2/v2.rpy:292
 translate polish v1_tomShoutBack_d1389188:
 
     # tom "You heard me. You're a fucking bitch that tried to cockblock me."
-    tom ""
+    tom "Dobrze słyszałeś. Jesteś pierdoloną cipą, przez którą nie zaliczyłem."
 
 # game/v2/v2.rpy:297
 translate polish v1_tomShoutBack_d84467b5:
 
     # u "Dude, she wanted to talk to me. She was happy that you left. You bored her."
-    u ""
+    u "Koleś, ona chciała ze mną porozmawiać. Była szczęśliwa, że sobie poszedłeś. Nudziłeś ją."
 
 # game/v2/v2.rpy:306
 translate polish v1_tomShoutBack_8fff8082:
 
     # tom "Fuck you!"
-    tom ""
+    tom "Pierdol się!"
 
 # game/v2/v2.rpy:315
 translate polish gb_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v2/v2.rpy:334
 translate polish tomtut1kick_4a328666:
 
     # tut "Great job! You've hit Tom and hurt him. He's now more likely to get tired, give up or even get knocked out."
-    tut ""
+    tut "Dobra tobota! Uderzyłeś Toma i zraniłeś go. Jest teraz bardziej podatny na zmęczenie, poddanie się, a nawet znokautowanie."
 
 # game/v2/v2.rpy:335
 translate polish tomtut1kick_100eaacc:
 
     # tut "Beware, since you've let your guard down to attack, he's going to try and abuse it with an attack of his own."
-    tut ""
+    tut "Uważaj, odsłoniłeś się, żeby wykonać atak, on to wykorzysta, żeby wyprowadzić własny cios."
 
 # game/v2/v2.rpy:343
 translate polish tomtut1kick_1e5dc8ea:
 
     # tut "Now it's time to block Tom's attack."
-    tut ""
+    tut "Teraz czas na zablokowanie ataku Toma."
 
 # game/v2/v2.rpy:346
 translate polish tomtut1kick_d4a34b79:
 
     # tut "{b}Q{/b} lets you block your head from heavy attacks such as hooks, which come from a slight angle."
-    tut ""
+    tut "{b}Q{/b} pozwala chronić głowę przed mocnymi atakami, takimi jak haki, które nadchodzą pod niewielkim kątem."
 
 # game/v2/v2.rpy:348
 translate polish tomtut1kick_663a9d66:
 
     # tut "In order to protect yourself from attacks flying straight at your face, such as jabs, press {b}W{/b}."
-    tut ""
+    tut "Aby uchronić się przed atakami prosto w twarz, takimi jak proste, naciśnij {b}W{/b}."
 
 # game/v2/v2.rpy:350
 translate polish tomtut1kick_d9713580:
 
     # tut "Lastly, you can protect your legs, from low kicks for example, by pressing {b}R{/b}."
-    tut ""
+    tut "Możesz także chronić swoje nogi, na przykład przed niskimi kopnięciami, naciskając {b}R{/b}."
 
 # game/v2/v2.rpy:352
 translate polish tomtut1kick_88ee0afc:
 
     # tut "As of right now, there's a hook flying at your head, press {b}Q{/b} in the upcoming screen in order to block it."
-    tut ""
+    tut "W tej chwili do twojej głowy zbliża się hak, naciśnij {b}Q{/b} w następnej scenie, aby go zablokować."
 
 # game/v2/v2.rpy:365
 translate polish tomtut1hook_f76b89d4:
 
     # tut "Yeah, why follow what the tutorial says?? It's not like it's trying to help you or anything."
-    tut ""
+    tut "No tak, po co robić to, co mówi samouczek?? To nie tak, że próbuje ci pomóc czy coś."
 
 # game/v2/v2.rpy:367
 translate polish tomtut1hook_e1d6e4d3:
 
     # tut "Because you decided to attack Tom's guarded areas, he was able to block your attack easily."
-    tut ""
+    tut "Ponieważ zdecydowałeś się zaatakować miejsca chronione przez Toma, był on w stanie z łatwością zablokować twój atak."
 
 # game/v2/v2.rpy:369
 translate polish tomtut1hook_13b808cb:
 
     # tut "He can now counter attack."
-    tut ""
+    tut "Teraz może kontratakować."
 
 # game/v2/v2.rpy:378
 translate polish tomtut1hook_d4a34b79:
 
     # tut "{b}Q{/b} lets you block your head from heavy attacks such as hooks, which come from a slight angle."
-    tut ""
+    tut "{b}Q{/b} pozwala chronić głowę przed mocnymi atakami, takimi jak haki, które nadchodzą pod niewielkim kątem."
 
 # game/v2/v2.rpy:380
 translate polish tomtut1hook_663a9d66:
 
     # tut "In order to protect yourself from attacks flying straight at your face, such as jabs, press {b}W{/b}."
-    tut ""
+    tut "Aby uchronić się przed atakami prosto w twarz, takimi jak proste, naciśnij {b}W{/b}."
 
 # game/v2/v2.rpy:382
 translate polish tomtut1hook_d9713580:
 
     # tut "Lastly, you can protect your legs, from low kicks for example, by pressing {b}R{/b}."
-    tut ""
+    tut "Możesz także chronić swoje nogi, na przykład przed niskimi kopnięciami, naciskając {b}R{/b}."
 
 # game/v2/v2.rpy:384
 translate polish tomtut1hook_edc85e50:
 
     # tut "As of right now, there's a jab flying at your face, press {b}W{/b} in the upcoming screen in order to block it."
-    tut ""
+    tut "W tej chwili do twojej głowy zbliża się hak, naciśnij {b}W{/b} w następnej scenie, aby go zablokować."
 
 # game/v2/v2.rpy:397
 translate polish tomtut1jab_f76b89d4:
 
     # tut "Yeah, why follow what the tutorial says?? It's not like it's trying to help you or anything."
-    tut ""
+    tut "No tak, po co robić to, co mówi samouczek?? To nie tak, że próbuje ci pomóc czy coś."
 
 # game/v2/v2.rpy:399
 translate polish tomtut1jab_e1d6e4d3:
 
     # tut "Because you decided to attack Tom's guarded areas, he was able to block your attack easily."
-    tut ""
+    tut "Ponieważ zdecydowałeś się zaatakować miejsca chronione przez Toma, był on w stanie z łatwością zablokować twój atak."
 
 # game/v2/v2.rpy:401
 translate polish tomtut1jab_13b808cb:
 
     # tut "He can now counter attack."
-    tut ""
+    tut "Teraz może kontratakować."
 
 # game/v2/v2.rpy:410
 translate polish tomtut1jab_1e5dc8ea:
 
     # tut "Now it's time to block Tom's attack."
-    tut ""
+    tut "Przyszedł czas na zablokowanie ataku Toma."
 
 # game/v2/v2.rpy:413
 translate polish tomtut1jab_d4a34b79:
 
     # tut "{b}Q{/b} lets you block your head from heavy attacks such as hooks, which come from a slight angle."
-    tut ""
+    tut "{b}Q{/b} pozwala chronić głowę przed mocnymi atakami, takimi jak haki, które nadchodzą pod niewielkim kątem."
 
 # game/v2/v2.rpy:415
 translate polish tomtut1jab_663a9d66:
 
     # tut "In order to protect yourself from attacks flying straight at your face, such as jabs, press {b}W{/b}."
-    tut ""
+    tut "Aby uchronić się przed atakami prosto w twarz, takimi jak proste, naciśnij {b}W{/b}."
 
 # game/v2/v2.rpy:417
 translate polish tomtut1jab_d9713580:
 
     # tut "Lastly, you can protect your legs, from low kicks for example, by pressing {b}R{/b}."
-    tut ""
+    tut "Możesz także chronić swoje nogi, na przykład przed niskimi kopnięciami, naciskając {b}R{/b}."
 
 # game/v2/v2.rpy:419
 translate polish tomtut1jab_edc85e50:
 
     # tut "As of right now, there's a jab flying at your face, press {b}W{/b} in the upcoming screen in order to block it."
-    tut ""
+    tut "W tej chwili do twojej głowy zbliża się hak, naciśnij {b}W{/b} w następnej scenie, aby go zablokować."
 
 # game/v2/v2.rpy:430
 translate polish tuthookblock_5883b2bf:
 
     # tut "Great job, you blocked Tom's hook."
-    tut ""
+    tut "Dobra robota, zablokowałeś hak Toma."
 
 # game/v2/v2.rpy:434
 translate polish tuthookblock_cd62240e:
 
     # tut "This ends the tutorial. The real fight will test your reaction times."
-    tut ""
+    tut "To koniec samouczka. W prawdziwej walce istotny jest twój czas reakcji."
 
 # game/v2/v2.rpy:444
 translate polish tuthookhit_5d47b961:
 
     # tut "You did not block your head by pressing {b}Q{/b} and got hit. Next time, try to block the correct part of your body."
-    tut ""
+    tut "Nie osłoniłeś głowe poprzez naciśnięcie {b}Q{/b} i oberwałeś. Następnym razem spróbuj zablokować odpowiednią część ciała."
 
 # game/v2/v2.rpy:448
 translate polish tuthookhit_cd62240e:
 
     # tut "This ends the tutorial. The real fight will test your reaction times."
-    tut ""
+    tut "To koniec samouczka. W prawdziwej walce istotny jest twój czas reakcji."
 
 # game/v2/v2.rpy:1056
 translate polish tomfinish6_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v2/v2.rpy:1078
 translate polish youfinish_07b0b527:
 
     # u "Fuck you!"
-    u ""
+    u "Pierdol się!"
 
 # game/v2/v2.rpy:1094
 translate polish v1_tomWalkAway_44158285:
 
     # u "(Fuck, I feel like shit...)"
-    u ""
+    u "(Kurwa, czuję się jak gówno...)"
 
 # game/v2/v2.rpy:1097
 translate polish v1_tomWalkAway_39872a73:
 
     # u "(Holy shit, I just knocked someone out...)"
-    u ""
+    u "(Ja pierdolę, właśnie kogoś znokautowałem...)"
 
 # game/v2/v2.rpy:1100
 translate polish v1_tomWalkAway_2b65b4ac:
 
     # u "(What a douchebag...)"
-    u ""
+    u "(Co za dupek...)"
 
 # game/v2/v2.rpy:1102
 translate polish v1_tomWalkAway_3782e809:
 
     # u "(Also, what am I gonna do about Lauren? I can't avoid her forever.)"
-    u ""
+    u "(Poza tym, co mam zrobić z Lauren? Nie mogę jej wiecznie unikać.)"
 
 # game/v2/v2.rpy:1116
 translate polish meet_lauren2_44158285:
 
     # u "(Fuck, I feel like shit...)"
-    u ""
+    u "(Kurwa, czuję się jak gówno...)"
 
 # game/v2/v2.rpy:1118
 translate polish meet_lauren2_d4b73dc2:
 
     # u "(Hopefully Lauren doesn't make a big deal out of my bruises.)"
-    u ""
+    u "(Mam nadzieję, że Lauren nie będą przeszkadzać moje siniaki.)"
 
 # game/v2/v2.rpy:1123
 translate polish meet_lauren2_39872a73:
 
     # u "(Holy shit, I just knocked someone out...)"
-    u ""
+    u "(Ja pierdolę, właśnie kogoś znokautowałem...)"
 
 # game/v2/v2.rpy:1125
 translate polish meet_lauren2_d4b73dc2_1:
 
     # u "(Hopefully Lauren doesn't make a big deal out of my bruises.)"
-    u ""
+    u "(Mam nadzieję, że Lauren nie będą przeszkadzać moje siniaki.)"
 
 # game/v2/v2.rpy:1130
 translate polish meet_lauren2_2b65b4ac:
 
     # u "(What a douchebag...)"
-    u ""
+    u "(Co za dupek...)"
 
 # game/v2/v2.rpy:1132
 translate polish meet_lauren2_d4b73dc2_2:
 
     # u "(Hopefully Lauren doesn't make a big deal out of my bruises.)"
-    u ""
+    u "(Mam nadzieję, że Lauren nie będą przeszkadzać moje siniaki.)"
 
 # game/v2/v2.rpy:1137
 translate polish meet_lauren2_e6b1bdd2:
 
     # la "Heyyy-"
-    la ""
+    la "Cze-"
 
 # game/v2/v2.rpy:1142
 translate polish meet_lauren2_379acf5e:
 
     # la "Oh my god! What happened to your face?!"
-    la ""
+    la "O mój Boże! Co się stało z twoją twarzą?!"
 
 # game/v2/v2.rpy:1147
 translate polish meet_lauren2_df593ecf:
 
     # u "Some asshole punched me in the face at the Apes' rush party last night."
-    u ""
+    u "Jakiś kretyn walnął mnie prosto w twarz na imprezie Małp zeszłej nocy."
 
 # game/v2/v2.rpy:1150
 translate polish meet_lauren2_e214d6bc:
 
     # u "(And also I just got beaten up by another guy on the way here...)"
-    u ""
+    u "(A po drodze tutaj zostałem pobity przez innego faceta...)"
 
 # game/v2/v2.rpy:1153
 translate polish meet_lauren2_ad5741e1:
 
     # u "(And also I just beat a guy up on the way here...)"
-    u ""
+    u "(a po drodze tutaj pobiłem jakiegoś faceta...)"
 
 # game/v2/v2.rpy:1158
 translate polish meet_lauren2_7fca1bb1:
 
     # la "[name], fighting is so stupid. Please don't get sucked up into it. You're way too smart for that."
-    la ""
+    la "[name], walka jest głupia. Proszę, nie daj się w to wciągnąć. Jesteś na to za mądry."
 
 # game/v2/v2.rpy:1163
 translate polish meet_lauren2_ee09bd0b:
 
     # u "No but... I didn't even do anything."
-    u ""
+    u "Wiem, ale... nawet nie nie zrobiłem."
 
 # game/v2/v2.rpy:1168
 translate polish meet_lauren2_688b87bc:
 
     # la "Ugh okay...I hope that's true. Anyway..."
-    la ""
+    la "Ugh dobrze...Mam nadzieję, że to prawda. Tak czy siak..."
 
 # game/v2/v2.rpy:1173
 translate polish meet_lauren2_3448fcd8:
 
     # la "About yesterday in the park..."
-    la ""
+    la "Co do wczoraj w parku..."
 
 # game/v2/v2.rpy:1184
 translate polish meet_lauren2_11273ae0:
 
     # u "I know you stopped kissing me after about a second..."
-    u ""
+    u "Wiem, że przestałaś mnie całować po około sekundzie..."
 
 # game/v2/v2.rpy:1186
 translate polish meet_lauren2_7a806511:
 
     # u "But that second was amazing."
-    u ""
+    u "Ale ta sekunda była niesamowita."
 
 # game/v2/v2.rpy:1188
 translate polish meet_lauren2_5730065e:
 
     # u "There was something real there and you know it."
-    u ""
+    u "Coś między nami zaiskrzyło i ty o tym wiesz."
 
 # game/v2/v2.rpy:1194
 translate polish meet_lauren2_6db93694:
 
     # u "I don't know why you pulled away when I tried to kiss you..."
-    u ""
+    u "Nie wiem, dlaczego się odsunęłaś, kiedy próbowałem cię pocałować..."
 
 # game/v2/v2.rpy:1196
 translate polish meet_lauren2_844ce18f:
 
     # u "Maybe you were scared..."
-    u ""
+    u "Może się bałaś..."
 
 # game/v2/v2.rpy:1198
 translate polish meet_lauren2_c44a599c:
 
     # u "But there was something real there and you know it."
-    u ""
+    u "Ale coś zaiskrzyło i ty o tym wiesz."
 
 # game/v2/v2.rpy:1204
 translate polish meet_lauren2_ebe7bf78:
 
     # u "We had this moment where I wanted to kiss you, but I didn't..."
-    u ""
+    u "Nadszedł ten moment, kiedy chciałem cię pocałować, ale tego nie zrobiłem..."
 
 # game/v2/v2.rpy:1206
 translate polish meet_lauren2_b95d0f31:
 
     # u "And I should have. There was something real there. Between us."
-    u ""
+    u "A powinienem. Coś zaiskrzyło. Między nami."
 
 # game/v2/v2.rpy:1217
 translate polish meet_lauren2_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v2/v2.rpy:1226
 translate polish meet_lauren2_9fb6f14e:
 
     # la "Maybe you're right."
-    la ""
+    la "Może masz rację."
 
 # game/v2/v2.rpy:1231
 translate polish meet_lauren2_3b15f6f6:
 
     # u "Then let's go on a date. A real date."
-    u ""
+    u "W takim razie chodźmy na randkę. Prawdziwą randkę."
 
 # game/v2/v2.rpy:1233
 translate polish meet_lauren2_15fed8b3:
 
     # u "How about the movies? Tomorrow night."
-    u ""
+    u "Może pójdziemy do kina? Jutro wieczorem."
 
 # game/v2/v2.rpy:1238
 translate polish meet_lauren2_511d9712:
 
     # la "Okay yeah, let's do it."
-    la ""
+    la "Dobra, zróbmy to."
 
 # game/v2/v2.rpy:1243
 translate polish meet_lauren2_d09702c4:
 
     # u "I'm really sorry, I'm late for class, but I'll see you tomorrow."
-    u ""
+    u "Naprawdę przepraszam, spóźnię się na zajęcia, ale zobaczymy się jutro."
 
 # game/v2/v2.rpy:1248
 translate polish meet_lauren2_2f27993f:
 
     # la "Alright, see you tomorrow."
-    la ""
+    la "W porządku, do zobaczenia jutro."
 
 # game/v2/v2.rpy:1254
 translate polish meet_lauren2_2b7cfd0c:
 
     # u "(I should probably wash the blood off my face in the restroom before I go to class.)"
-    u ""
+    u "(Chyba powinienem pójść do toalety zmyć krew z twarzy przed pójściem na zajęcia.)"
 
 # game/v2/v2.rpy:1260
 translate polish meet_lauren2_552d7a75:
 
     # la "[name], I really like you..."
-    la ""
+    la "[name], naprawdę cię lubię..."
 
 # game/v2/v2.rpy:1262
 translate polish meet_lauren2_33db1fc8:
 
     # la "... but I think we're just better as friends."
-    la ""
+    la "... ale myślę, że powinniśmy zostać przyjaciółmi."
 
 # game/v2/v2.rpy:1264
 translate polish meet_lauren2_616ab277:
 
     # la "I don't wanna jeopardize our friendship."
-    la ""
+    la "Nie chcę narażać naszej przyjaźni."
 
 # game/v2/v2.rpy:1273
 translate polish meet_lauren2_577bd505:
 
     # u "Lauren, please... give me a chance."
-    u ""
+    u "Lauren, proszę... daj mi szansę."
 
 # game/v2/v2.rpy:1278
 translate polish meet_lauren2_c73b9d6b:
 
     # la "[name], I'm sorry. I just don't think we're right for each other."
-    la ""
+    la "[name], przepraszam. Po prostu uważam, że do siebie nie pasujemy."
 
 # game/v2/v2.rpy:1280
 translate polish meet_lauren2_79a78785:
 
     # la "Look, I gotta go to class. I'm really sorry."
-    la ""
+    la "Muszę iść na zajęcia. Bardzo przepraszam."
 
 # game/v2/v2.rpy:1285
 translate polish meet_lauren2_2b674013:
 
     # u "Okay..."
-    u ""
+    u "Dobra..."
 
 # game/v2/v2.rpy:1290
 translate polish meet_lauren2_beb44c26:
 
     # u "(Shit, I forgot I have class right now.)"
-    u ""
+    u "(Kurde, zapomniałem, że mam teraz zajęcia.)"
 
 # game/v2/v2.rpy:1292
 translate polish meet_lauren2_37371914:
 
     # u "(I should probably wash the blood off my face before I go.)"
-    u ""
+    u "(Chyba powinienem zmyć krew z twarzy zanim wyjdę.)"
 
 # game/v2/v2.rpy:1300
 translate polish meet_lauren2_43c3a3a3:
 
     # u "Yeah, you're probably right. Let's just forget about it."
-    u ""
+    u "Tak, chyba masz rację. Zapomnijmy o tym."
 
 # game/v2/v2.rpy:1304
 translate polish meet_lauren2_b046b9b4:
 
     # u "I'm late for class, but I'll see you later, okay?"
-    u ""
+    u "Spóźnię się na zajęcia, zobaczymy się później, dobrze?"
 
 # game/v2/v2.rpy:1309
 translate polish meet_lauren2_4ffa044c:
 
     # la "Yeah, okay."
-    la ""
+    la "Tak, w porządku."
 
 # game/v2/v2.rpy:1315
 translate polish meet_lauren2_2b7cfd0c_1:
 
     # u "(I should probably wash the blood off my face in the restroom before I go to class.)"
-    u ""
+    u "(Chyba powinienem pójść do toalety zmyć krew z twarzy przed pójściem na zajęcia.)"
 
 # game/v2/v2.rpy:1325
 translate polish meet_lauren2_fee0ddc2:
 
     # u "That was uhm... nothing."
-    u ""
+    u "To było uhm... to nic takiego."
 
 # game/v2/v2.rpy:1327
 translate polish meet_lauren2_9fe27ce9:
 
     # u "Let's just forget that ever happened."
-    u ""
+    u "Po prostu zapomnijmy, że to się kiedykolwiek wydarzyło."
 
 # game/v2/v2.rpy:1330
 translate polish meet_lauren2_849f7aad:
 
     # u "I mean nothing happened... Maybe it was awkward, but let's just forget about it."
-    u ""
+    u "To znaczy, nic się nie wydarzyło... Może było niezręcznie, ale po prostu o tym zapomnijmy."
 
 # game/v2/v2.rpy:1332
 translate polish meet_lauren2_37309bcc:
 
     # u "We just spent some nice time in the park together... as friends."
-    u ""
+    u "Tylko spędzaliśmy miło czas w parku razem... jako przyjaciele."
 
 # game/v2/v2.rpy:1337
 translate polish meet_lauren2_9ea2f78c_1:
 
     # " "
-    ""
+    " "
 
 # game/v2/v2.rpy:1342
 translate polish meet_lauren2_08180b4e:
 
     # la "I'm really glad to have you as a friend, [name]."
-    la ""
+    la "Naprawdę się cieszę, że mam takiego przyjaciela, [name]."
 
 # game/v2/v2.rpy:1347
 translate polish meet_lauren2_61cc3320:
 
     # u "Yeah, I'm glad too."
-    u ""
+    u "Tak, ja też się cieszę."
 
 # game/v2/v2.rpy:1349
 translate polish meet_lauren2_cc44b100:
 
     # u "I have class right now, but I'll see you later, okay?"
-    u ""
+    u "Mam zaraz zajęcia, ale zobaczymy się później, dobrze?"
 
 # game/v2/v2.rpy:1354
 translate polish meet_lauren2_f3ad4c25:
 
     # la "Yeah, sounds great."
-    la ""
+    la "Tak, brzmi świetnie."
 
 # game/v2/v2.rpy:1360
-translate polish meet_lauren2_e6b07d44:
-
+translate polish meet_lauren2_e6b07d44:+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
     # u "(I should probably wash the blood off my face in the restroom before I go.)"
-    u ""
+    u "(Chyba powinienem pójść do toalety zmyć krew z twarzy przed wyjściem.)"
 
 # game/v2/v2.rpy:1382
 translate polish history2_0306743c:
@@ -3892,263 +3891,263 @@ translate polish strings:
 
     # game/v2/v2.rpy:6
     old "Look, I know what Grayson did was a dick move, but he was just being overprotective of Chloe"
-    new ""
+    new "Słuchaj, wiem, że Grayson zachował się jak kutas, ale po prostu był nadopiekuńczy wobec Chloe"
 
     # game/v2/v2.rpy:7
     old "Whatever"
-    new ""
+    new "Nieważne"
 
     # game/v2/v2.rpy:8
     old "Don't you dare defend that guy"
-    new ""
+    new "Jak możesz go bronić tego gościa"
 
     # game/v2/v2.rpy:15
     old "Sorry..."
-    new ""
+    new "Wybacz..."
 
     # game/v2/v2.rpy:27
     old "Great, I'll see you then :)"
-    new ""
+    new "Świetnie, do zobaczenia :)"
 
     # game/v2/v2.rpy:36
     old "It's fine, you go get her."
-    new ""
+    new "Spoko, bierz ją."
 
     # game/v2/v2.rpy:40
     old "Nah, you don't want a bitch like her."
-    new ""
+    new "Niee, nie chciałbyś takiej suki jak ona."
 
     # game/v2/v2.rpy:41
     old "Yeah, I guess you're right."
-    new ""
+    new "Ta, chyba masz rację."
 
     # game/v2/v2.rpy:42
     old "Dude, what the fuck?!"
-    new ""
+    new "Kurwa, co jest z tobą ziomek?!"
 
     # game/v2/v2.rpy:46
     old "Hahaha, I'm just kidding, yo."
-    new ""
+    new "Hahaha, tylko żartowałem."
 
     # game/v2/v2.rpy:47
     old "Of course I gave her your number."
-    new ""
+    new "Oczywiście, że dałem jej twój numer."
 
     # game/v2/v2.rpy:48
     old "Damn, you got me."
-    new ""
+    new "Kurde, masz mnie."
 
     # game/v2/v2.rpy:59
     old "Yeah, I mean they had a thing a while ago but she broke it off 'cause he lied about some shit."
-    new ""
+    new "Tak, to znaczy, jakiś czas temu byli razem, ale zerwała z nim, bo ją okłamał."
 
     # game/v2/v2.rpy:60
     old "So... tomorrow?"
-    new ""
+    new "To jak... jutro?"
 
     # game/v2/v2.rpy:61
     old "My day tomorrow is quite full, but how about today?\n\nI need to buy a costume."
-    new ""
+    new "Jutro jestem trochę zajęty, ale może dzisiaj?\n\nMuszę kupić kostium."
 
     # game/v2/v2.rpy:65
     old "I've got dance practice tonight \n:("
-    new ""
+    new "Mam dziś wieczorem trening tańca \n:("
 
     # game/v2/v2.rpy:66
     old "I'm not talking tonight, I can pick you up right now."
-    new ""
+    new "Nie mówię o wieczorze, możemy się spotkać teraz."
 
     # game/v2/v2.rpy:67
     old "Oh wow, that's spontaneous, I like it haha.\n\nI guess come to the Chicks' house whenever you're ready and then we can go costume shopping."
-    new ""
+    new "O wow, to takie spontaniczne, podoba mi się haha.\n\nPrzyjdź do domu Lasek, kiedy będziesz gotowy, a potem pójdziemy na kostiumowe zakupy."
 
     # game/v2/v2.rpy:68
     old "Cool, I'll be 20 mins."
-    new ""
+    new "Spoko, będę za 20 minut."
 
     # game/v2/v2.rpy:73
     old "Good :)"
-    new ""
+    new "Dobrze :)"
 
     # game/v2/v2.rpy:78
     old "Oh, okay. Guess we'll have to postpone the costume buying."
-    new ""
+    new "Och, dobra. Chyba będziemy musieli przełożyć kupowanie kostiumów."
 
     # game/v2/v2.rpy:139
     old "Hmm... maybe."
-    new ""
+    new "Hmm... może."
 
     # game/v2/v2.rpy:139
     old "I'm not fighting."
-    new ""
+    new "Ja nie walczę."
 
     # game/v2/v2.rpy:165
     old "I'll think about it."
-    new ""
+    new "Pomyślę o tym."
 
     # game/v2/v2.rpy:165
     old "I won't fight."
-    new ""
+    new "Nie będę walczył."
 
     # game/v2/v2.rpy:196
     old "You okay?"
-    new ""
+    new "Wszystko w porządku?"
 
     # game/v2/v2.rpy:197
     old "I'm fine"
-    new ""
+    new "Nic mi nie jest"
 
     # game/v2/v2.rpy:198
     old "No, wtf was that?! Fuck Grayson and fuck the Apes"
-    new ""
+    new "Nie, co to kurwa było?! Jebać Graysona i jebać Małpy"
 
     # game/v2/v2.rpy:201
     old "Is everything okay?"
-    new ""
+    new "Wszystko w porządku?"
 
     # game/v2/v2.rpy:202
     old "Yeah, I'm fine."
-    new ""
+    new "Tak, nic mi nie jest."
 
     # game/v2/v2.rpy:203
     old "Okay..."
-    new ""
+    new "Ok..."
 
     # game/v2/v2.rpy:206
     old "Hello?? Can we please talk today?"
-    new ""
+    new "Cześć?? Możemy dzisiaj porozmawiać?"
 
     # game/v2/v2.rpy:207
     old "Yeah, SV cafe in 20 mins?"
-    new ""
+    new "Tak, kawiarnia SV za 20 minut?"
 
     # game/v2/v2.rpy:208
     old "Sorry, I can't"
-    new ""
+    new "Wybacz, nie mogę"
 
     # game/v2/v2.rpy:210
     old "Are we still on for today? :)"
-    new ""
+    new "Dzisiejsze spotkanie aktualne? :)"
 
     # game/v2/v2.rpy:261
     old "Shout back"
-    new ""
+    new "Odpowiedz"
 
     # game/v2/v2.rpy:271
     old "Walk away"
-    new ""
+    new "Odejdź"
 
     # game/v2/v2.rpy:1069
     old "Kick him"
-    new ""
+    new "Kopnij go"
 
     # game/v2/v2.rpy:1177
     old "There was something there."
-    new ""
+    new "Coś zaiskrzyło."
 
     # game/v2/v2.rpy:1177
     old "Let's forget about it."
-    new ""
+    new "Zapomnijmy o tym."
 
     # game/v2/v2.rpy:1266
     old "Give me a chance."
-    new ""
+    new "Daj mi szansę."
 
     # game/v2/v2.rpy:1373
     old "Dude, I talked to this Aubrey chick the entire night and guess who's number she wanted..."
-    new ""
+    new "Ziomek, rozmawiałem z tą dupką Aubrey całą noc i zgadnij czyj numer chciała dostać..."
 
     # game/v2/v2.rpy:1374
     old "YOURS"
-    new ""
+    new "TWÓJ"
 
     # game/v2/v2.rpy:1375
     old "What a bitch..."
-    new ""
+    new "Co za suka..."
 
     # game/v2/v2.rpy:1376
     old "Sorry, man. She doesn't know what she's missing."
-    new ""
+    new "Przykro mi stary. Nie wie co traci."
 
     # game/v2/v2.rpy:1377
     old "Sooo, did you give it to her?"
-    new ""
+    new "I jak, dałeś jej go?"
 
     # game/v2/v2.rpy:1816
     old "Okay, I guess."
-    new ""
+    new "Chyba tak."
 
     # game/v2/v2.rpy:1816
     old "No, sorry."
-    new ""
+    new "Wybacz ale nie."
 
     # game/v2/v2.rpy:1889
     old "Yeah, of course. (joke)"
-    new ""
+    new "Oczywiście. (żart)"
 
     # game/v2/v2.rpy:1889
     old "I'm still single."
-    new ""
+    new "Nadal jestem singlem."
 
     # game/v2/v2.rpy:1964
     old "It was adorable."
-    new ""
+    new "To było urocze."
 
     # game/v2/v2.rpy:1964
     old "It was so funny."
-    new ""
+    new "To było takie zabawne."
 
     # game/v2/v2.rpy:2106
     old "Sure, knock yourself out."
-    new ""
+    new "Pewnie, nie krępuj się."
 
     # game/v2/v2.rpy:2106
     old "Stay away from her."
-    new ""
+    new "Trzymaj się od niej z daleka"
 
     # game/v2/v2.rpy:2150
     old "Tell Emily about Benjamin"
-    new ""
+    new "Powiedz Emily o Benjaminie"
 
     # game/v2/v2.rpy:2150
     old "Don't tell Emily"
-    new ""
+    new "Nie mów nic Emily"
 
     # game/v2/v2.rpy:2342
     old "Hey,\nJosh gave me your number\n\nI hope your face is feeling better after the shit that Grayson pulled..."
-    new ""
+    new "Hej,\nJosh dał mi twój numer\n\nMam nadzieję, że twoja twarz czuje się już lepiej po tym, co odjebał Grayson..."
 
     # game/v2/v2.rpy:2343
     old "He's not even dating Chloe and you guys didn't even do anything so I don't know what he was thinking.\n\nAnyway, do you wanna like... hang out tomorrow?"
-    new ""
+    new "On nawet nie chodzi z Chloe, a wy nic nie zrobiliście, więc nie wiem, co on sobie myślał.\n\nW każdym razie, chciałbyś... gdzieś jutro wyskoczyć?"
 
     # game/v2/v2.rpy:2344
     old "Wait they're not dating?"
-    new ""
+    new "Czekaj, oni nie są razem?"
 
     # game/v2/v2.rpy:2512
     old "Hey, are you nearby?"
-    new ""
+    new "Hej, za chwilę będziesz?"
 
     # game/v2/v2.rpy:2513
     old "Yeah, I'm just on my way, I'll be right there."
-    new ""
+    new "Tak, już idę, zaraz tam będę."
 
     # game/v2/v2.rpy:2514
     old "Sorry, something came up and I can't make it."
-    new ""
+    new "Przepraszam, coś mi wypadło i jednak nie dam rady."
 
     # game/v2/v2.rpy:2742
     old "Risk it"
-    new ""
+    new "Zaryzykuj"
 
     # game/v2/v2.rpy:2742
     old "Stop peeking"
-    new ""
+    new "Przestań podglądać"
 
     # game/v2/v2.rpy:2792
     old "It's kinda hot."
-    new ""
+    new "Jest seksowny."
 
     # game/v2/v2.rpy:2792
     old "It's definitely something."
@@ -4164,11 +4163,11 @@ translate polish strings:
 
     # game/v2/v2.rpy:3072
     old "Oh come on."
-    new ""
+    new "Och, no weź."
 
     # game/v2/v2.rpy:3072
     old "Fine."
-    new ""
+    new "Dobra."
 
     # game/v2/v2.rpy:3349
     old "You look beautiful."

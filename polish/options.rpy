@@ -4,5 +4,5 @@ translate polish strings:
 
     # game/options.rpy:14
     old "College Kings"
-    new ""
+    new "College Kings"
 

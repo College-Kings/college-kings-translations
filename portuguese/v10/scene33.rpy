@@ -4,1999 +4,1999 @@
 translate portuguese v10_charity_freeroam_426fd579:
 
     # u "(Now this is an event!)"
-    u ""
+    u "(Isso sim é um evento!)"
 
 # game/v10/scene33.rpy:34
 translate portuguese v10s33_autumn1_42867b55:
 
     # u "Hey Autumn! This is really nice."
-    u ""
+    u "Eae Autumn! Isso ficou super legal."
 
 # game/v10/scene33.rpy:39
 translate portuguese v10s33_autumn1_69da2448:
 
     # aut "Thanks. It took a lot of work, but I love how it's all turned out."
-    aut ""
+    aut "Brigada. Foi bem trabalhoso, mas eu amei como ficou o resultado final."
 
 # game/v10/scene33.rpy:44
 translate portuguese v10s33_autumn1_17266218:
 
     # u "Did everything go as planned?"
-    u ""
+    u "Foi tudo como o planejado?"
 
 # game/v10/scene33.rpy:49
 translate portuguese v10s33_autumn1_85096394:
 
     # aut "Little bumps and bruises here and there, but for the most part it did."
-    aut ""
+    aut "Alguns imprevistos aqui e ali, mas a grande parte deu certo."
 
 # game/v10/scene33.rpy:50
 translate portuguese v10s33_autumn1_65103820:
 
     # aut "Our little thrift sale was a last minute decision so I had to stay up all night sorting through old clothes."
-    aut ""
+    aut "Nosso pequeno brechó foi uma ideia de última hora, então eu tive que ficar a noite inteira procurando roupas velhas."
 
 # game/v10/scene33.rpy:55
 translate portuguese v10s33_autumn1_9772c9e0:
 
     # u "Since everything is running smoothly, do you at least get to relax now?"
-    u ""
+    u "Já que tá tudo funcionando tão bem, você tá pelo menos conseguindo relaxar agora?"
 
 # game/v10/scene33.rpy:60
 translate portuguese v10s33_autumn1_b16f766f:
 
     # aut "Not if I want to keep it that way. Best if I just push through and relax when it's all over."
-    aut ""
+    aut "Não se eu quiser manter as coisas assim. É melhor eu continuar me esforçando e só relaxar quando acabar tudo."
 
 # game/v10/scene33.rpy:65
 translate portuguese v10s33_autumn1_7a38161b:
 
     # u "Lauren said this event was really important to you. Why's that?"
-    u ""
+    u "A Lauren disse que esse evento era super importante pra você. Por quê?"
 
 # game/v10/scene33.rpy:70
 translate portuguese v10s33_autumn1_dd95c3db:
 
     # aut "I mean, it's one of if not our biggest event of the year."
-    aut ""
+    aut "Tipo, se não for o maior é um dos maiores eventos do ano."
 
 # game/v10/scene33.rpy:75
 translate portuguese v10s33_autumn1_af8940f8:
 
     # aut "Also, it's for a good cause. *Chuckles* I'm a sucker for good causes."
-    aut ""
+    aut "Além disso, é por uma boa causa. *Risadas* Eu adoro uma boa causa."
 
 # game/v10/scene33.rpy:80
 translate portuguese v10s33_autumn1_5bbd8cbd:
 
     # u "I can only imagine all the behind the scenes work. Surprised you didn't have the pledges do most of the heavy lifting."
-    u ""
+    u "Eu nem quero pensar na quantidade de trabalho dos bastidores. Fico surpreso que você não usou as candidatas pra fazer o trabalho pesado."
 
 # game/v10/scene33.rpy:85
 translate portuguese v10s33_autumn1_df090562:
 
     # aut "I take a more uhm... lead by example approach, instead of just passing out orders. Though some were more eager to help than others. *Chuckles*"
-    aut ""
+    aut "Eu tomo uma persepctiva meio hmm... sigam o exemplo, ao invés de só dar ordens. Mas algumas estava mais dispostas a me ajudar que outras. *Risadas*"
 
 # game/v10/scene33.rpy:90
 translate portuguese v10s33_autumn1_11384a71:
 
     # u "I assume you're talking about Lauren?"
-    u ""
+    u "Eu imagino que você esteja falando da Lauren?"
 
 # game/v10/scene33.rpy:95
 translate portuguese v10s33_autumn1_a8454c9c:
 
     # aut "Yep, she not only helped with everything I had already planned, but she contributed a lot as well."
-    aut ""
+    aut "Sim, ela não só ajudou com tudo o que eu tinha planejado, como também deu várias ideias."
 
 # game/v10/scene33.rpy:100
 translate portuguese v10s33_autumn1_6a6dcaea:
 
     # u "Seems like you guys are really close."
-    u ""
+    u "Realmente parece que vocês são bem próximas."
 
 # game/v10/scene33.rpy:105
 translate portuguese v10s33_autumn1_9cf629fd:
 
     # aut "We really are, it means a lot to me that she decided to pledge. It isn't something I expected from her, but regardless it's a good thing."
-    aut ""
+    aut "Com certeza, significa muito mesmo pra mim que ela decidiu se candidatar. Não é algo que eu estava esperando dela, mas de qualquer jeito é algo bom."
 
 # game/v10/scene33.rpy:116
 translate portuguese v10s33_autumn1_72da5258:
 
     # u "Why wouldn't you expect her to pledge?"
-    u ""
+    u "Por que você não esperava que ela quisesse se candidatar?"
 
 # game/v10/scene33.rpy:121
 translate portuguese v10s33_autumn1_53950c31:
 
     # aut "She's just a little shy. Even when we were kids she was shy. Being in a big group isn't really her thing, she's a really private person. If she does share something personal with you it's because she trusts you."
-    aut ""
+    aut "Ela é um pouco tímida. Mesmo quando nós éramos crianças ela era tímida. Ser parte dum grupo não é muito a praia dela, ela é bem reservada. Se ela compartilha algo com você, significa que ela confia muito em você."
 
 # game/v10/scene33.rpy:126
 translate portuguese v10s33_autumn1_07c14a3a:
 
     # u "(I doubt she's told many people everything she's told me.)"
-    u ""
+    u "(Eu duvido que ela tenha dito pra muitas pessoas o que ela me diz.)"
 
 # game/v10/scene33.rpy:131
 translate portuguese v10s33_autumn1_27e0e79c:
 
     # u "(Not really my business.)"
-    u ""
+    u "(Não é da minha conta.)"
 
 # game/v10/scene33.rpy:136
 translate portuguese v10s33_autumn1_4807f226:
 
     # aut "So... plan on sticking around?"
-    aut ""
+    aut "Então... está pensando em ficar na área?"
 
 # game/v10/scene33.rpy:141
 translate portuguese v10s33_autumn1_e912fcea:
 
     # u "Of course, I've been looking forward to this."
-    u ""
+    u "Mas é claro, eu estava esperando ansiosamente por isso."
 
 # game/v10/scene33.rpy:146
 translate portuguese v10s33_autumn1_4c236f88:
 
     # aut "Is that so? A lot of guys told me they were really excited once they had heard about the mud wrestling."
-    aut ""
+    aut "É mesmo? Muitos caras me disseram que só ficaram animados quando souberam da briga na lama."
 
 # game/v10/scene33.rpy:156
 translate portuguese v10s33_autumn1_6cf7436f:
 
     # u "I'll be sure to try the other things too, but it's definitely the main attraction."
-    u ""
+    u "Eu tenho certeza que vou dar uma olhadas nas outras coisas também, mas isso é a atração principal."
 
 # game/v10/scene33.rpy:161
 translate portuguese v10s33_autumn1_2a9e7cc7:
 
     # u "I didn't even know about the mud wrestling until recently, I'd be here with or without it."
-    u ""
+    u "Eu nem sabia sobre essa briga na lama até faz pouco tempo, eu estaria aqui com ou sem isso."
 
 # game/v10/scene33.rpy:166
 translate portuguese v10s33_autumn1_186cf758:
 
     # aut "As long as we raise enough money I'll be happy. *Laughs* That's why I decided on mud wrestling in the first place. Gotta know your audience."
-    aut ""
+    aut "Contanto que a gente consiga dinheiro suficiente eu estarei feliz. *Risadas* E foi por isso que eu tive a ideia disso em primeiro lugar. Você tem que conhecer seu público alvo."
 
 # game/v10/scene33.rpy:170
 translate portuguese v10s33_autumn1_96ee4783:
 
     # u "*Laughs* What are you guys raising money for?"
-    u ""
+    u "*risadas* Vocês tão juntando dinheiro pro que?"
 
 # game/v10/scene33.rpy:175
 translate portuguese v10s33_autumn1_e9cb7106:
 
     # aut "We decided we're going to start raising funds at our charity events for our local animal shelters in serious need."
-    aut ""
+    aut "Nós decidimos que vamos juntar os fundos dos nossos eventos de caridade e doar para os abrigos de animais."
 
 # game/v10/scene33.rpy:180
 translate portuguese v10s33_autumn1_3020f767:
 
     # u "That's really cool!"
-    u ""
+    u "Isso é super legal!"
 
 # game/v10/scene33.rpy:184
 translate portuguese v10s33_autumn1_5afe52d6:
 
     # u "You know, might be good for you to find a way to relax after this."
-    u ""
+    u "Tipo, seria bom você achar um jeito de relaxar depois de tudo isso."
 
 # game/v10/scene33.rpy:189
 translate portuguese v10s33_autumn1_62d7dc60:
 
     # aut "I'm definitely going to need to."
-    aut ""
+    aut "Eu com certeza vou precisar."
 
 # game/v10/scene33.rpy:194
 translate portuguese v10s33_autumn1_61eba386:
 
     # u "I don't know if you'd be up for it, but Nora is actually getting people together for us all to take a trip to Europe. Does that sound like something you'd be interested in doing? I'm definitely going."
-    u ""
+    u "Eu não sei se você vai topar, mas a Nora está reunindo gente pra viajar pra Europa. Você estaria interessada em fazer algo assim? Eu com certeza vou participar disso."
 
 # game/v10/scene33.rpy:199
 translate portuguese v10s33_autumn1_5525d078:
 
     # aut "Hmm, I don't know. It sounds fun, but the Deers may feel neglected if I'm gone for too long."
-    aut ""
+    aut "Hmmm, eu não sei. Parece ser algo legal, mas as Corças podem se sentir meio abandonadas se eu ficar ausente por muito tempo."
 
 # game/v10/scene33.rpy:204
 translate portuguese v10s33_autumn1_176f5948:
 
     # u "*Chuckles* You say it like they're your kids. I'm sure they can take care of themselves while you're on vacation."
-    u ""
+    u "*Risadas* Você fala como se fossem suas filhas. Eu tenho certeza que elas podem se cuidar sozinhas enquanto você tira umas férias."
 
 # game/v10/scene33.rpy:209
 translate portuguese v10s33_autumn1_6a74434e:
 
     # aut "I guess that's true. Maybe I'll talk to Nora about signing up."
-    aut ""
+    aut "Eu acho que é verdade. Talvez eu fale com ela sobre isso."
 
 # game/v10/scene33.rpy:218
 translate portuguese v10s33_autumn1_7ddf6253:
 
     # aut "Anyway, I better get back to running everything, see you around."
-    aut ""
+    aut "De qualquer jeito, é melhor eu voltar pras minhas tarefas, a gente se vê."
 
 # game/v10/scene33.rpy:223
 translate portuguese v10s33_autumn1_104440d0:
 
     # u "See ya."
-    u ""
+    u "Até mais."
 
 # game/v10/scene33.rpy:233
 translate portuguese v10s33_deergirl11_e65f3b66:
 
     # dg1 "Haha, I don't think I've met anyone less coordinated. It's the dab, it's pretty simple."
-    dg1 ""
+    dg1 "Haha, eu não conheço ninguém tão descoordenado assim. É um dab, é super simples."
 
 # game/v10/scene33.rpy:243
 translate portuguese v10s33_deergirl11_ef150fb0:
 
     # dg1 "See?"
-    dg1 ""
+    dg1 "Viu?"
 
 # game/v10/scene33.rpy:252
 translate portuguese v10s33_deergirl11_105c3093:
 
     # dg1 "There you go!"
-    dg1 ""
+    dg1 "Isso aí!"
 
 # game/v10/scene33.rpy:256
 translate portuguese v10s33_deergirl11_2524c01b:
 
     # guyd "Only took me a thousand tries."
-    guyd ""
+    guyd "Eu só precisei tentar umas mil vezes."
 
 # game/v10/scene33.rpy:263
 translate portuguese v10s33_deergirl11_7b0e1116:
 
     # guyd "Hey [name], please come help me."
-    guyd ""
+    guyd "Ei [name], vem aqui me ajudar."
 
 # game/v10/scene33.rpy:269
 translate portuguese v10s33_deergirl11_2f517bdf:
 
     # dg1 "Hey you, c'mon over here."
-    dg1 ""
+    dg1 "Ei você, vem cá."
 
 # game/v10/scene33.rpy:274
 translate portuguese v10s33_deergirl11_775c910d:
 
     # dg1 "I'm trying to teach Perry some new dances, but he's having some trouble."
-    dg1 ""
+    dg1 "Eu tô tentando ensinar uns passinhos pro Perry, mas ele não tá conseguindo."
 
 # game/v10/scene33.rpy:279
 translate portuguese v10s33_deergirl11_a788126e:
 
     # u "What kind of dances?"
-    u ""
+    u "Que tipo de dança?"
 
 # game/v10/scene33.rpy:284
 translate portuguese v10s33_deergirl11_64e1e0bc:
 
     # guyd "If you were scrolling on your phone late at night and kept seeing a bunch of short videos type dances."
-    guyd ""
+    guyd "Aquele tipo de dança que você vê no seu feed à noite, naqueles vídeos curtos."
 
 # game/v10/scene33.rpy:289
 translate portuguese v10s33_deergirl11_ebb0356f:
 
     # u "Haha, oh! Those are easy."
-    u ""
+    u "Haha, sei! Super fácil."
 
 # game/v10/scene33.rpy:294
 translate portuguese v10s33_deergirl11_b4ef6af5:
 
     # guyd "Don't speak too soon."
-    guyd ""
+    guyd "É melhor não falar muito."
 
 # game/v10/scene33.rpy:299
 translate portuguese v10s33_deergirl11_c8098228:
 
     # dg1 "He's just bad at them. *Laughs* Try this one?"
-    dg1 ""
+    dg1 "Ele é super ruim com isso. *Risadas* Tenta essa aqui, tá?"
 
 # game/v10/scene33.rpy:335
 translate portuguese v10s33_deergirl11_8728ff1d:
 
     # dg1 "Look at you!"
-    dg1 ""
+    dg1 "Olha só!"
 
 # game/v10/scene33.rpy:340
 translate portuguese v10s33_deergirl11_c8d858fd:
 
     # guyd "You probably practiced these before."
-    guyd ""
+    guyd "Você deve ter treinado isso em casa."
 
 # game/v10/scene33.rpy:345
 translate portuguese v10s33_deergirl11_c9462c8c:
 
     # u "*Laughs* No, but it's not that hard."
-    u ""
+    u "*Risadas* Não, mas não é tão difícil assim."
 
 # game/v10/scene33.rpy:362
 translate portuguese v10s33_deergirl11_9b81b9ea:
 
     # u "What was that last part?"
-    u ""
+    u "O que foi essa última parte?"
 
 # game/v10/scene33.rpy:367
 translate portuguese v10s33_deergirl11_15d82cbc:
 
     # guyd "Haha, thought they were easy?"
-    guyd ""
+    guyd "Haha, achou que fosse dificíl?"
 
 # game/v10/scene33.rpy:373
 translate portuguese v10s33_deergirl11_7de56c35:
 
     # dg1 "Let's try one more."
-    dg1 ""
+    dg1 "Vamos tentar outra."
 
 # game/v10/scene33.rpy:394
 translate portuguese v10s33_deergirl11_8b3cb218:
 
     # dg1 "See, it's easy for him. Why are you so stiff? *Laughs*"
-    dg1 ""
+    dg1 "Viu, é fácil pra ele. Por que você é tão durão assim? *Risadas*"
 
 # game/v10/scene33.rpy:399
 translate portuguese v10s33_deergirl11_40a02505:
 
     # guyd "Honestly, I'd just be embarrassed to do that."
-    guyd ""
+    guyd "Honestamente, eu só tenho vergonha de fazer esse tipo de coisa."
 
 # game/v10/scene33.rpy:420
 translate portuguese v10s33_deergirl11_489c2d41:
 
     # guyd "Well, I'm not the only one struggling."
-    guyd ""
+    guyd "Bom, não sou eu que estou sofrendo."
 
 # game/v10/scene33.rpy:425
 translate portuguese v10s33_deergirl11_4e62a2ce:
 
     # dg1 "Guess dancing isn't for everyone. *Laughs*"
-    dg1 ""
+    dg1 "Eu acho que dançar não é pra qualquer um. *Risadas*"
 
 # game/v10/scene33.rpy:431
 translate portuguese v10s33_deergirl11_90a322f7:
 
     # u "Well as fun as that was, I'm gonna look around some."
-    u ""
+    u "Por mais que tenha sido divertido, vou dar uma volta."
 
 # game/v10/scene33.rpy:436
 translate portuguese v10s33_deergirl11_9ef7390b:
 
     # dg1 "If you're interested in learning any more dances, you know where to find me."
-    dg1 ""
+    dg1 "Se você quiser aprender mais alguns movimentos você sabe onde me achar."
 
 # game/v10/scene33.rpy:447
 translate portuguese v10s33_deergirl11_058deeb6:
 
     # u "Or I could find Perry, he was doing great. *Chuckles*"
-    u ""
+    u "Ou eu poderia procurar o Perry, ele tava mandando bem. *Risadas*"
 
 # game/v10/scene33.rpy:452
 translate portuguese v10s33_deergirl11_c26eb129:
 
     # guyd "Funny."
-    guyd ""
+    guyd "Engraçadinho."
 
 # game/v10/scene33.rpy:458
 translate portuguese v10s33_deergirl11_091279f7:
 
     # u "Keep going at it Perry, I'm sure you'll get it."
-    u ""
+    u "Continua assim Perry, eu tenho certeza que você vai conseguir."
 
 # game/v10/scene33.rpy:463
 translate portuguese v10s33_deergirl11_daa37645:
 
     # guyd "Thanks man."
-    guyd ""
+    guyd "Valeu cara."
 
 # game/v10/scene33.rpy:488
 translate portuguese v10s33_aubrey1_563d7dd7:
 
     # u "Someone's having fun!"
-    u ""
+    u "Alguém está se divertindo!"
 
 # game/v10/scene33.rpy:493
 translate portuguese v10s33_aubrey1_05198ef7:
 
     # au "Oh hey [name]. Caught me dancing."
-    au ""
+    au "Ah oi [name]. Me pegou no meio da dança."
 
 # game/v10/scene33.rpy:498
 translate portuguese v10s33_aubrey1_1d34cfa6:
 
     # u "You look like you know what you're doing."
-    u ""
+    u "Parece que você sabe o que está fazendo."
 
 # game/v10/scene33.rpy:503
 translate portuguese v10s33_aubrey1_81fe0d7b:
 
     # au "If I didn't I would've wasted a lot of time as a kid."
-    au ""
+    au "Se eu não soubesse eu teria jogado muito tempo da minha infância no lixo."
 
 # game/v10/scene33.rpy:508
 translate portuguese v10s33_aubrey1_09332657:
 
     # u "What do you mean?"
-    u ""
+    u "Como assim?"
 
 # game/v10/scene33.rpy:513
 translate portuguese v10s33_aubrey1_a4319e7f:
 
     # au "I've always loved dancing. I did it for fun all the time growing up, then I stopped for a long time."
-    au ""
+    au "Eu sempre amei dançar. Eu dancei muito enquanto estava crescendo, e depois eu parei por muito tempo."
 
 # game/v10/scene33.rpy:515
 translate portuguese v10s33_aubrey1_967ad07a:
 
     # au "But I heard being a good dancer makes you better in bed. *Laughs* So I picked it back up a few months ago."
-    au ""
+    au "Mas eu ouvi falar que dançar bem te faz ser uma máquina na cama. *Risadas* Então eu voltei a dançar faz uns meses."
 
 # game/v10/scene33.rpy:520
 translate portuguese v10s33_aubrey1_fcc18885:
 
     # u "*Laughs*"
-    u ""
+    u "*Risasdas*"
 
 # game/v10/scene33.rpy:525
 translate portuguese v10s33_aubrey1_fb56d58e:
 
     # au "Wanna dance with me?"
-    au ""
+    au "Quer dançar comigo?"
 
 # game/v10/scene33.rpy:535
 translate portuguese v10s33_aubrey1_37fe551f:
 
     # u "Sure."
-    u ""
+    u "Claro."
 
 # game/v10/scene33.rpy:576
 translate portuguese v10s33_aubrey1_5beb9fee:
 
     # au "Someone's old school."
-    au ""
+    au "Alguém é da velha guarda."
 
 # game/v10/scene33.rpy:592
 translate portuguese v10s33_aubrey1_94b6229d:
 
     # au "So you know a little bit about dancing too."
-    au ""
+    au "Então você também sabe dançar."
 
 # game/v10/scene33.rpy:599
 translate portuguese v10s33_aubrey1_fcc18885_1:
 
     # u "*Laughs*"
-    u ""
+    u "*Risadas*"
 
 # game/v10/scene33.rpy:609
 translate portuguese v10s33_aubrey1_6b1d8637:
 
     # au "I haven't danced with someone else in a long time."
-    au ""
+    au "Eu não dançava com alguém faz tempo."
 
 # game/v10/scene33.rpy:614
 translate portuguese v10s33_aubrey1_23ac5743:
 
     # u "Do you remember who your last dance partner was?"
-    u ""
+    u "Você lembra quem foi seu último parceiro de dança?"
 
 # game/v10/scene33.rpy:619
 translate portuguese v10s33_aubrey1_2abdb4c8:
 
     # au "I don't, high school prom date. *Laughs*"
-    au ""
+    au "Não, era meu par na formatura da escola. *Risadas*"
 
 # game/v10/scene33.rpy:626
 translate portuguese v10s33_aubrey1_f0c0d3ac:
 
     # u "Oh no way, I don't wanna be an embarrassment. *Laughs*"
-    u ""
+    u "Nem ferrando. Eu não quero me envergonhar assim. *Risadas*"
 
 # game/v10/scene33.rpy:631
 translate portuguese v10s33_aubrey1_975f73fe:
 
     # au "Your loss sir."
-    au ""
+    au "Você que perde."
 
 # game/v10/scene33.rpy:643
 translate portuguese v10s33_aubrey1_4a539217:
 
     # u "You know what I've always liked about you?"
-    u ""
+    u "Sabe o que eu sempre gostei de você?"
 
 # game/v10/scene33.rpy:648
 translate portuguese v10s33_aubrey1_2c2f345e:
 
     # au "What's that?"
-    au ""
+    au "O quê?"
 
 # game/v10/scene33.rpy:653
 translate portuguese v10s33_aubrey1_3b37f59b:
 
     # u "You're always so positive. I don't think I've ever seen you down."
-    u ""
+    u "Você é sempre tão positiva. Eu acho que nunca te vi triste."
 
 # game/v10/scene33.rpy:658
 translate portuguese v10s33_aubrey1_4c662f68:
 
     # au "Ha, what's the point in being down? I just think life is short and you should enjoy it. I don't wanna waste time pouting around or being pissed off."
-    au ""
+    au "Ha, qual é o ponto em estar triste? Eu só acho que a vida é curta e a gente deveria aproveitar cada momento. Eu não quero gastar meu tempo passando raiva ou me estressando."
 
 # game/v10/scene33.rpy:663
 translate portuguese v10s33_aubrey1_8b3751c1:
 
     # u "I rate that."
-    u ""
+    u "É a forma certa de avaliar as coisas."
 
 # game/v10/scene33.rpy:668
 translate portuguese v10s33_aubrey1_43c47179:
 
     # au "Speaking of rating, I'm curious, what would you rate the girls on campus?"
-    au ""
+    au "Falando em avaliar. Estou curiosa, qual nota você daria pra garotas do campus?"
 
 # game/v10/scene33.rpy:673
 translate portuguese v10s33_aubrey1_09332657_1:
 
     # u "What do you mean?"
-    u ""
+    u "Como assim?"
 
 # game/v10/scene33.rpy:678
 translate portuguese v10s33_aubrey1_7586d4f1:
 
     # au "Like a one to ten? What would you rate them? Looks only."
-    au ""
+    au "Tipo de 1 a 10? Como você avaliaria elas? Só por aparência."
 
 # game/v10/scene33.rpy:679
 translate portuguese v10s33_aubrey1_297fff8d:
 
     # au "Matter of fact, I'll make it even easier for you. I'll say a girl's name and you say if she's hot or not. No reason you can't be honest."
-    au ""
+    au "Pra falar a verdade, eu vou facilitar as coisas pra você. Eu vou dizer o nome de uma mina e você me diz se ela é gostosa ou não. Não tem motivo pra não ser honesto."
 
 # game/v10/scene33.rpy:684
 translate portuguese v10s33_aubrey1_ecfde935:
 
     # u "Go ahead."
-    u ""
+    u "Manda bala."
 
 # game/v10/scene33.rpy:689
 translate portuguese v10s33_aubrey1_63be3a52:
 
     # au "Chloe?"
-    au ""
+    au "Chloe?"
 
 # game/v10/scene33.rpy:698
 translate portuguese v10s33_aubrey1_e91f3b1f:
 
     # u "Hot."
-    u ""
+    u "Gata."
 
 # game/v10/scene33.rpy:703
 translate portuguese v10s33_aubrey1_98036b72:
 
     # au "Of course she is!"
-    au ""
+    au "É claro que sim!"
 
 # game/v10/scene33.rpy:709
 translate portuguese v10s33_aubrey1_3a31f429:
 
     # u "Not."
-    u ""
+    u "Não."
 
 # game/v10/scene33.rpy:714
 translate portuguese v10s33_aubrey1_b02fdf60:
 
     # au "What?! You must be blind."
-    au ""
+    au "O quê?! Você deve estar cego."
 
 # game/v10/scene33.rpy:719
 translate portuguese v10s33_aubrey1_de45ef26:
 
     # au "Alright, Nora?"
-    au ""
+    au "Tá, Nora?"
 
 # game/v10/scene33.rpy:728
 translate portuguese v10s33_aubrey1_e91f3b1f_1:
 
     # u "Hot."
-    u ""
+    u "Gata."
 
 # game/v10/scene33.rpy:733
 translate portuguese v10s33_aubrey1_84fe5278:
 
     # au "Not gonna lie, if I ever went for a girl from the Chicks... Whew!"
-    au ""
+    au "Eu não vou mentir, se eu fosse pegar alguém das Chicks... Pimba!"
 
 # game/v10/scene33.rpy:739
 translate portuguese v10s33_aubrey1_3a31f429_1:
 
     # u "Not."
-    u ""
+    u "Não."
 
 # game/v10/scene33.rpy:744
 translate portuguese v10s33_aubrey1_d024d692:
 
     # au "You must be joking!"
-    au ""
+    au "Você tá brincando!"
 
 # game/v10/scene33.rpy:749
 translate portuguese v10s33_aubrey1_24a2ecb0:
 
     # au "What about Lindsey?"
-    au ""
+    au "E a Lindsey?"
 
 # game/v10/scene33.rpy:758
 translate portuguese v10s33_aubrey1_e91f3b1f_2:
 
     # u "Hot."
-    u ""
+    u "Gostosa."
 
 # game/v10/scene33.rpy:763
 translate portuguese v10s33_aubrey1_36c73441:
 
     # au "Cute, but I don't know about hot."
-    au ""
+    au "Bonita, mas tenho minhas dúvidas da parte gostosa."
 
 # game/v10/scene33.rpy:767
 translate portuguese v10s33_aubrey1_3a31f429_2:
 
     # u "Not."
-    u ""
+    u "Não."
 
 # game/v10/scene33.rpy:772
 translate portuguese v10s33_aubrey1_e39a21b0:
 
     # au "She's not that bad."
-    au ""
+    au "Ela não é tão ruim assim."
 
 # game/v10/scene33.rpy:777
 translate portuguese v10s33_aubrey1_47fc0e1d:
 
     # u "*Chuckles* Are you planning on asking me about every girl on campus you know?"
-    u ""
+    u "*Risadas* Você está pensando em me perguntar sobre todas as garotas da facul que a gente conhece?"
 
 # game/v10/scene33.rpy:782
 translate portuguese v10s33_aubrey1_1a179f5f:
 
     # au "Haha, maybe. Let's keep going."
-    au ""
+    au "Haha, talvez. Vamo continuar."
 
 # game/v10/scene33.rpy:787
 translate portuguese v10s33_aubrey1_c3a7ca6d:
 
     # au "Lauren?"
-    au ""
+    au "Lauren?"
 
 # game/v10/scene33.rpy:799
 translate portuguese v10s33_aubrey1_7ab71bda:
 
     # u "Hot, obviously."
-    u ""
+    u "Gata, obviamente."
 
 # game/v10/scene33.rpy:804
 translate portuguese v10s33_aubrey1_7c39d4a3:
 
     # au "Oh yeah, duh. *Laughs*"
-    au ""
+    au "É claro, duh. *Risadas*"
 
 # game/v10/scene33.rpy:808
 translate portuguese v10s33_aubrey1_e91f3b1f_3:
 
     # u "Hot."
-    u ""
+    u "Gata."
 
 # game/v10/scene33.rpy:813
 translate portuguese v10s33_aubrey1_8c2b5920:
 
     # au "Her little innocent attitude is pretty hot."
-    au ""
+    au "Eu acho que aquela atitude de certinha é super sexy.."
 
 # game/v10/scene33.rpy:819
 translate portuguese v10s33_aubrey1_3a31f429_3:
 
     # u "Not."
-    u ""
+    u "Não."
 
 # game/v10/scene33.rpy:824
 translate portuguese v10s33_aubrey1_6b2ac7bd:
 
     # au "What, don't like the little innocent ones?"
-    au ""
+    au "O quê, você não gostas das que tem carinha de inocente?"
 
 # game/v10/scene33.rpy:829
 translate portuguese v10s33_aubrey1_fcc18885_2:
 
     # u "*Laughs*"
-    u ""
+    u "*Risadas*"
 
 # game/v10/scene33.rpy:834
 translate portuguese v10s33_aubrey1_057d6a1c:
 
     # au "Riley?"
-    au ""
+    au "Riley."
 
 # game/v10/scene33.rpy:843
 translate portuguese v10s33_aubrey1_e91f3b1f_4:
 
     # u "Hot."
-    u ""
+    u "Gostosa."
 
 # game/v10/scene33.rpy:848
 translate portuguese v10s33_aubrey1_0838e6e2:
 
     # au "Exactly!"
-    au ""
+    au "Exatamente!"
 
 # game/v10/scene33.rpy:849
 translate portuguese v10s33_aubrey1_6fdc0d26:
 
     # au "It seems we both have good taste."
-    au ""
+    au "Parece que a gente tem bom gosto."
 
 # game/v10/scene33.rpy:854
 translate portuguese v10s33_aubrey1_3a31f429_4:
 
     # u "Not."
-    u ""
+    u "Não."
 
 # game/v10/scene33.rpy:859
 translate portuguese v10s33_aubrey1_c9f10403:
 
     # au "I don't think you know what the word 'hot' means."
-    au ""
+    au "Eu não acho que você saiba o que a palavra 'gostosa' significa."
 
 # game/v10/scene33.rpy:863
 translate portuguese v10s33_aubrey1_450cdbe3:
 
     # au "Okay last one, what about Ms. Rose?"
-    au ""
+    au "Tá, a última, a Prof. Rose?"
 
 # game/v10/scene33.rpy:870
 translate portuguese v10s33_aubrey1_d27331b7:
 
     # u "*Blushes* Uhhh'"
-    u ""
+    u "*Fica Corado* Uhhh."
 
 # game/v10/scene33.rpy:875
 translate portuguese v10s33_aubrey1_d3660af2:
 
     # au "*Chuckles* Guess I have my answer to that."
-    au ""
+    au "*Risadas* Eu acho que já consegui a minha resposta."
 
 # game/v10/scene33.rpy:880
 translate portuguese v10s33_aubrey1_af5b70d8:
 
     # u "No I just-"
-    u ""
+    u "NNão, eu só-"
 
 # game/v10/scene33.rpy:885
 translate portuguese v10s33_aubrey1_88fe2542:
 
     # au "You don't have to explain to me."
-    au ""
+    au "Não precisa me explicar nada."
 
 # game/v10/scene33.rpy:895
 translate portuguese v10s33_aubrey1_e91f3b1f_5:
 
     # u "Hot."
-    u ""
+    u "Gostosa."
 
 # game/v10/scene33.rpy:900
 translate portuguese v10s33_aubrey1_36fcc5fc:
 
     # au "Definitely too cute to be a Professor."
-    au ""
+    au "Definitivamente muito gata pra ser uma Professora."
 
 # game/v10/scene33.rpy:906
 translate portuguese v10s33_aubrey1_3a31f429_5:
 
     # u "Not."
-    u ""
+    u "Não."
 
 # game/v10/scene33.rpy:911
 translate portuguese v10s33_aubrey1_de5fbb49:
 
     # au "What? You're definitely wrong on that one."
-    au ""
+    au "O quê? Você está completamente errado nessa."
 
 # game/v10/scene33.rpy:916
 translate portuguese v10s33_aubrey1_a7f72d37:
 
     # u "*Laughs* Oh man, what a game."
-    u ""
+    u "*Risadas* Ah cara, que jogo."
 
 # game/v10/scene33.rpy:921
 translate portuguese v10s33_aubrey1_ea6e051b:
 
     # au "Haha!"
-    au ""
+    au "Haha!"
 
 # game/v10/scene33.rpy:937
 translate portuguese v10s33_aubrey1_04e2e5cc:
 
     # u "Before I forget, do you know about the Europe trip?"
-    u ""
+    u "Antes que eu esqueça, você ficou sabendo sobre a viagem pra Europa?"
 
 # game/v10/scene33.rpy:942
 translate portuguese v10s33_aubrey1_5984a000:
 
     # au "That's the trip where we all go to Australia right?"
-    au ""
+    au "É aquela viagem que a gente vai pra Austrália né?"
 
 # game/v10/scene33.rpy:947
 translate portuguese v10s33_aubrey1_8d402e41:
 
     # u "What? *Chuckles*"
-    u ""
+    u "O quê? *Risadas*"
 
 # game/v10/scene33.rpy:952
 translate portuguese v10s33_aubrey1_97ee1b7a:
 
     # au "Haha, I'm just playing. *Laughs* Yes I know about the trip. Why?"
-    au ""
+    au "Haha, tô brincando. *Risadas* Sim, fiquei sabendo da viagem. Por quê?"
 
 # game/v10/scene33.rpy:957
 translate portuguese v10s33_aubrey1_29e71198:
 
     # u "Well I'm planning on going and I was wondering if you wanna come with me."
-    u ""
+    u "Bom, eu estava planejando ir e estava me perguntando se você quer vir comigo."
 
 # game/v10/scene33.rpy:962
 translate portuguese v10s33_aubrey1_9fdfa540:
 
     # au "Well since you're inviting me I assume that means you'll keep me company if I go?"
-    au ""
+    au "Bom, já que você tá me convidado eu vou assumir que você vai me fazer compania lá se eu for?"
 
 # game/v10/scene33.rpy:967
 translate portuguese v10s33_aubrey1_c26abd4e:
 
     # u "Of course I will."
-    u ""
+    u "É claro que sim."
 
 # game/v10/scene33.rpy:972
 translate portuguese v10s33_aubrey1_53a4a6a6:
 
     # au "Then sure I'll go then."
-    au ""
+    au "Então com certeza eu irei."
 
 # game/v10/scene33.rpy:977
 translate portuguese v10s33_aubrey1_1bea4ac4:
 
     # u "Great!"
-    u ""
+    u "Ótimo!"
 
 # game/v10/scene33.rpy:983
 translate portuguese v10s33_aubrey1_46aa8bca:
 
     # u "(If she goes she goes, if she doesn't she doesn't.)"
-    u ""
+    u "(Se ela for ela vai, se ela não for ela não vai.)"
 
 # game/v10/scene33.rpy:986
 translate portuguese v10s33_aubrey1_39139928:
 
     # u "I'm gonna go check out some more stuff."
-    u ""
+    u "Eu vou dar uma olhada em outras coisas agora."
 
 # game/v10/scene33.rpy:991
 translate portuguese v10s33_aubrey1_5c380b07:
 
     # au "Alright, see ya."
-    au ""
+    au "Tá, até mais."
 
 # game/v10/scene33.rpy:1001
 translate portuguese v10s33_chloe1_54c5d3c9:
 
     # u "I think Chloe's still mad at me, I'd rather not talk to her."
-    u ""
+    u "Eu acho que a Chloe ainda está brava comigo, é melhor eu não falar com ela."
 
 # game/v10/scene33.rpy:1007
 translate portuguese v10s33_chloe2_5bdb2809:
 
     # u "(I already talked to her.)"
-    u ""
+    u "(Eu já falaei com ela.)"
 
 # game/v10/scene33.rpy:1014
 translate portuguese v10s33_chloe2_21a98069:
 
     # u "Hey Chloe."
-    u ""
+    u "Eae Chloe."
 
 # game/v10/scene33.rpy:1019
 translate portuguese v10s33_chloe2_debd5884:
 
     # cl "Hey."
-    cl ""
+    cl "Oie."
 
 # game/v10/scene33.rpy:1024
 translate portuguese v10s33_chloe2_385c18d3:
 
     # u "There may be a lot of people here, but you're pretty easy to spot in a crowd, you know?"
-    u ""
+    u "Pode ter muita gente aqui, mas você se destaca muito na multidão, sabia?"
 
 # game/v10/scene33.rpy:1029
 translate portuguese v10s33_chloe2_6feade1e:
 
     # cl "I don't know if that's supposed to be a compliment or not. *Chuckles*"
-    cl ""
+    cl "Eu não sei isso é pra ser um elogio ou não. *Risadas*"
 
 # game/v10/scene33.rpy:1034
 translate portuguese v10s33_chloe2_23bb0aa4:
 
     # u "It's a compliment. Just don't think about it for too long, cause I kinda see now that there's other ways to interpret it. *Laughs*"
-    u ""
+    u "É um elogio com certeza. Só não fica pensando muito nisso, porque eu acabei de perceber que há muitos maneiras de interpretar isso. *Risadas*"
 
 # game/v10/scene33.rpy:1039
 translate portuguese v10s33_chloe2_57669806:
 
     # cl "Thanks. You are right though, there are a lot of people here. Way more than The Deers pulled in last year."
-    cl ""
+    cl "Brigada. Você está certo mesmo, tem muita gente aqui. Muito mais que no evento do ano passado das Corças."
 
 # game/v10/scene33.rpy:1041
 translate portuguese v10s33_chloe2_485381dc:
 
     # cl "Us Chicks are going to have to step up our game if we're gonna be able to compete with this. Autumn deserves a round of applause."
-    cl ""
+    cl "Nós as Gatas vamos ter que aumentar o nosso patamar pra poder competir com isso. A Autumn merece todos os aplausos."
 
 # game/v10/scene33.rpy:1046
 translate portuguese v10s33_chloe2_5d8d6afb:
 
     # u "She did work pretty hard on this."
-    u ""
+    u "Ela trabalhou duro em tudo isso."
 
 # game/v10/scene33.rpy:1051
 translate portuguese v10s33_chloe2_0e91f7e6:
 
     # cl "It's always interesting how most of the time we're all doing our own thing."
-    cl ""
+    cl "É sempre interessante pensar como a maior parte do tempo a gente tá fazendo nossas próprias coisas."
 
 # game/v10/scene33.rpy:1053
 translate portuguese v10s33_chloe2_e1e75c52:
 
     # cl "But an event like this comes up and all of the sudden each of us has the same few hours on a Wednesday locked in on the calendar."
-    cl ""
+    cl "Mas um evento desses aparece do nada e de repente todo mundo tem algumas horas de quarta travadas na agenda."
 
 # game/v10/scene33.rpy:1058
 translate portuguese v10s33_chloe2_2c40e258:
 
     # u "Isn't there a theory or something about that?"
-    u ""
+    u "Não existe uma teoria sobre algo assim?"
 
 # game/v10/scene33.rpy:1063
 translate portuguese v10s33_chloe2_07193040:
 
     # cl "I wouldn't know. *Laughs*"
-    cl ""
+    cl "Eu não tenho ideia. *Risadas*"
 
 # game/v10/scene33.rpy:1068
 translate portuguese v10s33_chloe2_fcc18885:
 
     # u "*Laughs*"
-    u ""
+    u "*Risadas*"
 
 # game/v10/scene33.rpy:1073
 translate portuguese v10s33_chloe2_dfc26376:
 
     # u "I wonder who's idea this was?"
-    u ""
+    u "Eu me pergunto de quem foi essa ideia?"
 
 # game/v10/scene33.rpy:1078
 translate portuguese v10s33_chloe2_815f6293:
 
     # cl "Someone clever."
-    cl ""
+    cl "Alguém inteligente."
 
 # game/v10/scene33.rpy:1083
 translate portuguese v10s33_chloe2_825969ed:
 
     # u "Or someone hoping to get a date. *Laughs*"
-    u ""
+    u "Ou alguém esperando por um encontro. *Risadas*"
 
 # game/v10/scene33.rpy:1088
 translate portuguese v10s33_chloe2_9630fd10:
 
     # cl "You're so mean! *Laughs*"
-    cl ""
+    cl "Você é ruim ein! *Risadas*"
 
 # game/v10/scene33.rpy:1098
 translate portuguese v10s33_chloe2_034252eb:
 
     # u "I wish I could win a date with you."
-    u ""
+    u "Eu bem que queria ganhar um encontro com você."
 
 # game/v10/scene33.rpy:1103
 translate portuguese v10s33_chloe2_be385395:
 
     # cl "Anytime!"
-    cl ""
+    cl "A hora que você quiser."
 
 # game/v10/scene33.rpy:1108
 translate portuguese v10s33_chloe2_034252eb_1:
 
     # u "I wish I could win a date with you."
-    u ""
+    u "Bem que eu queria ganhar um encontro com você."
 
 # game/v10/scene33.rpy:1113
 translate portuguese v10s33_chloe2_3e10a645:
 
     # cl "That's cute."
-    cl ""
+    cl "Isso é fofo."
 
 # game/v10/scene33.rpy:1119
 translate portuguese v10s33_chloe2_d7a60a65:
 
     # u "Who would you wanna win a date with?"
-    u ""
+    u "Com quem você gostaria de ganhar um encontro?"
 
 # game/v10/scene33.rpy:1124
 translate portuguese v10s33_chloe2_90e83552:
 
     # cl "Can I choose cartoon characters? *Chuckles*"
-    cl ""
+    cl "Eu posso escolher o personagem de um desenho animado? *Risadas*"
 
 # game/v10/scene33.rpy:1129
 translate portuguese v10s33_chloe2_ff828f1f:
 
     # u "That's one way to say no man is good enough for me. *Chuckles*"
-    u ""
+    u "Eu tô achado que esse é um jeito de dizer que nenhum homem e bom o suficiente pra você. *Risadas*"
 
 # game/v10/scene33.rpy:1134
 translate portuguese v10s33_chloe2_ed23f02b:
 
     # cl "What? No, I was just thinking about what'd it'd be like to go on a date in a cartoon because in a cartoon anything could happen."
-    cl ""
+    cl "O quê? Não, eu disse pensando que se você tivesse um encontro com um desenho animado qualquer coisa poderia acontecer."
 
 # game/v10/scene33.rpy:1136
 translate portuguese v10s33_chloe2_8c8a5e02:
 
     # cl "I could be like... like a princess or something. *Laughs*"
-    cl ""
+    cl "Eu poderia ser tipo... tipo uma princesa ou sei lá. *Risadas*"
 
 # game/v10/scene33.rpy:1141
 translate portuguese v10s33_chloe2_060564f9:
 
     # u "Haha, I guess that's true."
-    u ""
+    u "Haha, eu acho que é verdade."
 
 # game/v10/scene33.rpy:1146
 translate portuguese v10s33_chloe2_e25ce6c9:
 
     # u "Not to change subjects, but how's the sorority going? Any more troubles?"
-    u ""
+    u "Não é pra trocar de assunto, mas como está indo a irmandade? Muitos problemas?"
 
 # game/v10/scene33.rpy:1151
 translate portuguese v10s33_chloe2_bc17f195:
 
     # cl "None that I know of."
-    cl ""
+    cl "Nenhum que eu saiba."
 
 # game/v10/scene33.rpy:1164
 translate portuguese v10s33_chloe2_21201944:
 
     # u "Well, not to be that guy, but I ask cause Nora was actually talking about you earlier."
-    u ""
+    u "Bom, não quero ser esse cara, mas eu te pergunto porque a Nora estava falando de você mais cedo."
 
 # game/v10/scene33.rpy:1169
 translate portuguese v10s33_chloe2_ab8a57d5:
 
     # cl "What was she saying?"
-    cl ""
+    cl "O que ela estava dizendo?"
 
 # game/v10/scene33.rpy:1174
 translate portuguese v10s33_chloe2_7f428b8c:
 
     # u "She said a lot, but to sum up everything, she called you fake. Said you do a bunch of pretending for sympathy points from people."
-    u ""
+    u "Ela falou muita coisa, mas pra resumir, ela disse que você é uma falsa. Disse que você finge um monte de coisa pra ganhar a simpatia das pessoas."
 
 # game/v10/scene33.rpy:1179
 translate portuguese v10s33_chloe2_8e20fa41:
 
     # cl "Are you serious? You know what..."
-    cl ""
+    cl "Você tá falando sério? Sabe o que..."
 
 # game/v10/scene33.rpy:1184
 translate portuguese v10s33_chloe2_d197b0c2:
 
     # cl "NORA WHAT'S THE DEAL?"
-    cl ""
+    cl "NORA QUAL É O SEU PROBLEMA?"
 
 # game/v10/scene33.rpy:1189
 translate portuguese v10s33_chloe2_b5669c67:
 
     # no "What are you talking about?"
-    no ""
+    no "Do que você tá falando?"
 
 # game/v10/scene33.rpy:1194
 translate portuguese v10s33_chloe2_b775b399:
 
     # cl "Don't act clueless, I heard what you said about me to [name]."
-    cl ""
+    cl "Não se faz de idiota, eu escutei o que você falou de mim pro [name]."
 
 # game/v10/scene33.rpy:1200
 translate portuguese v10s33_chloe2_84dde34f:
 
     # no "And? I didn't say anything that wasn't true. You're a manipulative person that does anything to get what she wants."
-    no ""
+    no "E? Eu não disse nada que não seja verdade. Você é uma pessoa manipulativa que faz qualquer coisa pra conseguir o que quer."
 
 # game/v10/scene33.rpy:1205
 translate portuguese v10s33_chloe2_f9903ef9:
 
     # cl "Oh stop! I don't know if you're jealous or what."
-    cl ""
+    cl "Ah para! Eu não sei se você está com ciumes ou o que."
 
 # game/v10/scene33.rpy:1207
 translate portuguese v10s33_chloe2_0cc1c769:
 
     # cl "You've had something against me from the second I became president and I'm honestly getting sick of it!"
-    cl ""
+    cl "Você sempre teve alguma coisa contra mim desde que eu me tornei presidente e pra ser sincera eu tô ficando irritada com isso!"
 
 # game/v10/scene33.rpy:1209
 translate portuguese v10s33_chloe2_4a519a34:
 
     # cl "Let's settle this right here right now, in the ring!"
-    cl ""
+    cl "Vamos solucionar isso aqui e agora, no ringue!"
 
 # game/v10/scene33.rpy:1214
 translate portuguese v10s33_chloe2_862441b5:
 
     # no "OH YEAH, THEN GET IN THE RING ALREADY!"
-    no ""
+    no "ISSO AÍ, ENTÂO PREPAREM O RINGUE!"
 
 # game/v10/scene33.rpy:1223
 translate portuguese v10s33_chloe2_e121bbb8:
 
     # u "(Let's not start anything.)"
-    u ""
+    u "(Não vamos começar nada.)"
 
 # game/v10/scene33.rpy:1225
 translate portuguese v10s33_chloe2_36a53b46:
 
     # u "That's good, it's best if you guys are getting along."
-    u ""
+    u "Já deu, é melhor se vocês não tiverem conflitos."
 
 # game/v10/scene33.rpy:1230
 translate portuguese v10s33_chloe2_13d21dc2:
 
     # cl "Yeah, true."
-    cl ""
+    cl "Sim, verdade."
 
 # game/v10/scene33.rpy:1240
 translate portuguese v10s33_chloe2_94c305a7:
 
     # u "Speaking of getting along, are you going on the Europe trip? I know I am."
-    u ""
+    u "Falando em se dar bem, você vai na viagem pra Europa? Eu vou com certeza."
 
 # game/v10/scene33.rpy:1245
 translate portuguese v10s33_chloe2_0dbfa3d3:
 
     # cl "I'm not trying to be on a long trip in another country with Nora, if I'm being honest."
-    cl ""
+    cl "Eu não quero ir pra uma viagem longa pra outro país com a Nora, sinceramente."
 
 # game/v10/scene33.rpy:1254
 translate portuguese v10s33_chloe2_fbc6319c:
 
     # u "Europe is a big place, I'm sure you can find a way to enjoy yourself and not be around her if that's what you want."
-    u ""
+    u "Europa é grande pra caraca, eu tenho certeza que você vai conseguir aproveitar e não ficar perto dela se é o que quiser."
 
 # game/v10/scene33.rpy:1264
 translate portuguese v10s33_chloe2_4d2705e7:
 
     # cl "Okay, I'll think about it."
-    cl ""
+    cl "Tá, vou pesnar nisso."
 
 # game/v10/scene33.rpy:1271
 translate portuguese v10s33_chloe2_6b5d0ae3:
 
     # cl "Yeah... I don't know."
-    cl ""
+    cl "É... eu não sei não."
 
 # game/v10/scene33.rpy:1278
 translate portuguese v10s33_chloe2_d65b14c5:
 
     # u "I understand, it's your choice."
-    u ""
+    u "Eu entendo, é a tua escolha."
 
 # game/v10/scene33.rpy:1285
 translate portuguese v10s33_chloe2_03917d7d:
 
     # u "(I'll let her decide if she goes.)"
-    u ""
+    u "(Eu vou deixar ela pensar se vai.)"
 
 # game/v10/scene33.rpy:1290
 translate portuguese v10s33_chloe2_c87b4d9d:
 
     # cl "Anyway, I want to look around some more, so I'll catch up with you."
-    cl ""
+    cl "De qualquer jeito, eu vou ver outras coisas aqui e depois a gente conversa mais."
 
 # game/v10/scene33.rpy:1295
 translate portuguese v10s33_chloe2_cb046e78:
 
     # u "Later."
-    u ""
+    u "Até."
 
 # game/v10/scene33.rpy:1305
 translate portuguese v10s33_deergirl21_75454bf3:
 
     # dg2 "Hey you!"
-    dg2 ""
+    dg2 "Ei você!"
 
 # game/v10/scene33.rpy:1310
 translate portuguese v10s33_deergirl21_2dde6c9c:
 
     # u "Me?"
-    u ""
+    u "Eu?"
 
 # game/v10/scene33.rpy:1315
 translate portuguese v10s33_deergirl21_6847d8f9:
 
     # dg2 "Yeah, come try out my game."
-    dg2 ""
+    dg2 "Você mesmo, vem cá testar meu jogo."
 
 # game/v10/scene33.rpy:1320
 translate portuguese v10s33_deergirl21_dccaf971:
 
     # u "I used to play this back in school."
-    u ""
+    u "Eu costumava jogar isso na escola."
 
 # game/v10/scene33.rpy:1325
 translate portuguese v10s33_deergirl21_4c966563:
 
     # dg2 "Some people have done amazing, others... not so much. *Chuckles*"
-    dg2 ""
+    dg2 "Algumas pessoas arrasaram, outras... nem tanto. *Risadas*"
 
 # game/v10/scene33.rpy:1330
 translate portuguese v10s33_deergirl21_a3f6b7fd:
 
     # u "What are these prizes?"
-    u ""
+    u "E esses prêmios estranhos?"
 
 # game/v10/scene33.rpy:1335
 translate portuguese v10s33_deergirl21_1024b30c:
 
     # dg2 "Just a few things to spice up your uhm... life."
-    dg2 ""
+    dg2 "Só umas coisinhas pra apimentar a sua hmm... vida."
 
 # game/v10/scene33.rpy:1347
 translate portuguese v10s33_deergirl21_51f60d28:
 
     # u "If I win the lingerie I get to see you in it right? *Chuckles*"
-    u ""
+    u "Se eu ganhar a lingeria eu ganho o privilégio de te ver nela certo? *Risadas*"
 
 # game/v10/scene33.rpy:1352
 translate portuguese v10s33_deergirl21_7eb6c568:
 
     # dg2 "Not a chance!"
-    dg2 ""
+    dg2 "Só nos seus sonhos!"
 
 # game/v10/scene33.rpy:1357
 translate portuguese v10s33_deergirl21_16a00abe:
 
     # u "My bad, I didn't mean to... I'm just gonna go."
-    u ""
+    u "Foi mal, eu não queria... só vou indo nessa."
 
 # game/v10/scene33.rpy:1362
 translate portuguese v10s33_deergirl21_90243d62:
 
     # u "Mind if I play a game?"
-    u ""
+    u "Se importa se eu jogar?"
 
 # game/v10/scene33.rpy:1367
 translate portuguese v10s33_deergirl21_fe1da588:
 
     # dg2 "Please do."
-    dg2 ""
+    dg2 "Por favor."
 
 # game/v10/scene33.rpy:1402
 translate portuguese v10s33_deergirl21_867a44c7:
 
     # dg2 "I'll put you in the category of those who did... not so well."
-    dg2 ""
+    dg2 "Eu vou te colocar na categoria das pessoas que não foram... tão bem assim."
 
 # game/v10/scene33.rpy:1407
 translate portuguese v10s33_deergirl21_fd5b35e5:
 
     # u "Yep, and that's my cue to leave. Thanks."
-    u ""
+    u "É... essa foi a minha deixa. Valeu."
 
 # game/v10/scene33.rpy:1419
 translate portuguese v10s33_deergirl31_6a5e8b0a:
 
     # u "You know I didn't expect to see one of these at the event. What made you want to do one of these?"
-    u ""
+    u "Tipo, eu não esperava ver algo desse gênero no evento. O que te fez fazer isso?"
 
 # game/v10/scene33.rpy:1424
 translate portuguese v10s33_deergirl31_adca8249:
 
     # dg3 "I'm lonely."
-    dg3 ""
+    dg3 "Eu me sinto sozinha."
 
 # game/v10/scene33.rpy:1429
 translate portuguese v10s33_deergirl31_501229d4:
 
     # u "That's it?"
-    u ""
+    u "Só isso?"
 
 # game/v10/scene33.rpy:1434
 translate portuguese v10s33_deergirl31_b067ff47:
 
     # dg3 "I don't think you understand, I'm really lonely. No guys ever talk to me."
-    dg3 ""
+    dg3 "Eu não acho que você entenderia, estou super sozinha. Ninguém fala comigo."
 
 # game/v10/scene33.rpy:1436
 translate portuguese v10s33_deergirl31_ca37a50b:
 
     # dg3 "With this, one guy will be forced to go out with me and I'll never be lonely again."
-    dg3 ""
+    dg3 "Com isso aqui, um cara vai ser forçado a sair comigo e eu nunca mais vou precisar ficar sozinha."
 
 # game/v10/scene33.rpy:1441
 translate portuguese v10s33_deergirl31_f48d199c:
 
     # u "(Okay, I see why she's lonely now.)"
-    u ""
+    u "(Tá, agora eu entendi o motivo.)"
 
 # game/v10/scene33.rpy:1443
 translate portuguese v10s33_deergirl31_7883be49:
 
     # u "Are a lot of people getting tickets?"
-    u ""
+    u "Tem muita gente comprando os tickets?"
 
 # game/v10/scene33.rpy:1448
 translate portuguese v10s33_deergirl31_cf425db9:
 
     # dg3 "Not yet, but they will. My mom said it's a great idea."
-    dg3 ""
+    dg3 "Ainda não, mas eles vão. Minha mãe disse que é uma grande ideia."
 
 # game/v10/scene33.rpy:1459
 translate portuguese v10s33_deergirl31_cf21a436:
 
     # u "Well I'll take one."
-    u ""
+    u "Bom, vou comprar um."
 
 # game/v10/scene33.rpy:1464
 translate portuguese v10s33_deergirl31_494b485b:
 
     # dg3 "Yayyyy! I mean okay, thank you. Here you go."
-    dg3 ""
+    dg3 "Eebbaaa! Quer dizer, tá, valeu. Prontinho."
 
 # game/v10/scene33.rpy:1469
 translate portuguese v10s33_deergirl31_ee01f9b9:
 
     # u "Thanks."
-    u ""
+    u "Brigado."
 
 # game/v10/scene33.rpy:1476
 translate portuguese v10s33_deergirl31_88a3a4bd:
 
     # u "Well, good luck."
-    u ""
+    u "Bom, boa sorte."
 
 # game/v10/scene33.rpy:1481
 translate portuguese v10s33_deergirl31_d8686a63:
 
     # dg3 "You don't want one?"
-    dg3 ""
+    dg3 "Você não quer um?"
 
 # game/v10/scene33.rpy:1486
 translate portuguese v10s33_deergirl31_2b2ea3fb:
 
     # u "Oh uhm... I have a girlfriend."
-    u ""
+    u "Ah hmm... eu namoro."
 
 # game/v10/scene33.rpy:1491
 translate portuguese v10s33_deergirl31_1b8fe6b0:
 
     # dg3 "The good ones are always taken."
-    dg3 ""
+    dg3 "Os bons sempre têm dona."
 
 # game/v10/scene33.rpy:1503
 translate portuguese v10s33_laurenbake1_475eadc6:
 
     # la "Hey babe!"
-    la ""
+    la "Oie amor!"
 
 # game/v10/scene33.rpy:1517
 translate portuguese v10s33_laurenbake1_eeb3b6c7:
 
     # u "How are the sales going? Good I'm assuming..."
-    u ""
+    u "Como estão indo as vendas? Eu assumo que bem..."
 
 # game/v10/scene33.rpy:1522
 translate portuguese v10s33_laurenbake1_b7c84852:
 
     # la "Do pigs fly?"
-    la ""
+    la "Os porcos voam?"
 
 # game/v10/scene33.rpy:1527
 translate portuguese v10s33_laurenbake1_8d402e41:
 
     # u "What? *Chuckles*"
-    u ""
+    u "O quê? *Risadas*"
 
 # game/v10/scene33.rpy:1532
 translate portuguese v10s33_laurenbake1_4e083ba1:
 
     # la "Haha, to answer your question, bad. Sales are going bad. I only sold one and that was to my mother when she stopped by earlier."
-    la ""
+    la "Haha, pra responder a sua pergunta, mal. As vendas estão ruins. Eu só vendi um e foi porque minha mãe comprou mais cedo."
 
 # game/v10/scene33.rpy:1539
 translate portuguese v10s33_laurenbake1_53b83657:
 
     # la "It would've been nice if you two could've met."
-    la ""
+    la "Teria sido legal se vocês tivessem se encontrado."
 
 # game/v10/scene33.rpy:1544
 translate portuguese v10s33_laurenbake1_2455da8a:
 
     # u "Well I wish sales were going better for you. Maybe if you get Autumn to give a kiss to everyone that buys a cake they'll sell faster."
-    u ""
+    u "Bom eu espero que as vendas melhorem. Talvez se você falar pra Autumn beijar todo mundo que comprar um bolo eles vão vender rapidinho."
 
 # game/v10/scene33.rpy:1549
 translate portuguese v10s33_laurenbake1_92882b8b:
 
     # la "Knowing her, if she knew it'd make the event better then she'd do it."
-    la ""
+    la "Conhecendo ela, se soubesse que ajudaria o evento ela com certeza faria isso."
 
 # game/v10/scene33.rpy:1554
 translate portuguese v10s33_laurenbake1_cc80f314:
 
     # u "That's dedication. Speaking of making the event better, I know what would."
-    u ""
+    u "Dedicação total. Falando em como tornar o evento melhor, eu sei o que faria isso."
 
 # game/v10/scene33.rpy:1559
 translate portuguese v10s33_laurenbake1_e0381dbe:
 
     # la "What?"
-    la ""
+    la "O quê?"
 
 # game/v10/scene33.rpy:1564
 translate portuguese v10s33_laurenbake1_1d9dd01b:
 
     # u "You plus mud wrestling."
-    u ""
+    u "Você + luta na lama."
 
 # game/v10/scene33.rpy:1569
 translate portuguese v10s33_laurenbake1_9aae4548:
 
     # la "Funny, but I can't leave my stand."
-    la ""
+    la "Engraçadinho, mas eu não posso sair daqui."
 
 # game/v10/scene33.rpy:1574
 translate portuguese v10s33_laurenbake1_f86c0f1e:
 
     # u "Just put a cardboard cut out in your place, you'll still sell the same amount."
-    u ""
+    u "Só colocar uma pôster no seu lugar, você continuaria vendendo a mesma quantidade."
 
 # game/v10/scene33.rpy:1579
 translate portuguese v10s33_laurenbake1_07013ebd:
 
     # la "You're not funny."
-    la ""
+    la "Isso não foi engraçado."
 
 # game/v10/scene33.rpy:1584
 translate portuguese v10s33_laurenbake1_e2240fc0:
 
     # u "Haha, you know... a lot of people showed up. Even the not so social ones."
-    u ""
+    u "Haha, tipo... muita gente apareceu. Até os anti-sociais."
 
 # game/v10/scene33.rpy:1589
 translate portuguese v10s33_laurenbake1_8d6cb41a:
 
     # la "We do have a really good turn out and everyone's booths turned out great."
-    la ""
+    la "A gente teve várias boas ideias e todas as barraquinhas ficaram lindas."
 
 # game/v10/scene33.rpy:1594
 translate portuguese v10s33_laurenbake1_980bee63:
 
     # u "Yeah they did, \"Lauren's Moist Muffins\". *Laughs*"
-    u ""
+    u "Com certeza, \"Os muffins molhadinhos da Lauren\". *Risadas*"
 
 # game/v10/scene33.rpy:1599
 translate portuguese v10s33_laurenbake1_91f9f7ef:
 
     # la "Oh my god stop. *Smiles*"
-    la ""
+    la "Meu Deus, para. *Sorriso*"
 
 # game/v10/scene33.rpy:1604
 translate portuguese v10s33_laurenbake1_bdc8f2ed:
 
     # u "Mind if I try one?"
-    u ""
+    u "Se importa se eu provar um?"
 
 # game/v10/scene33.rpy:1609
 translate portuguese v10s33_laurenbake1_41890d0a:
 
     # la "Sure, for $2.50."
-    la ""
+    la "Claro, por apenas R$2.50."
 
 # game/v10/scene33.rpy:1614
 translate portuguese v10s33_laurenbake1_cab2a430:
 
     # u "Oh?"
-    u ""
+    u "Nossa?"
 
 # game/v10/scene33.rpy:1619
 translate portuguese v10s33_laurenbake1_e0381dbe_1:
 
     # la "What?"
-    la ""
+    la "O quê?"
 
 # game/v10/scene33.rpy:1624
 translate portuguese v10s33_laurenbake1_926a1534:
 
     # u "I actually didn't bring any money?"
-    u ""
+    u "Eu esqueci a minha carteira?"
 
 # game/v10/scene33.rpy:1629
 translate portuguese v10s33_laurenbake1_121ac104:
 
     # la "You came to a charity event with no money? Please tell me you're joking."
-    la ""
+    la "Você veio a um evento de caridade sem dinheiro? Me diz que você tá brincando."
 
 # game/v10/scene33.rpy:1634
 translate portuguese v10s33_laurenbake1_dfb2b7b7:
 
     # u "Haha, yes I'm just playing around. I brought some money, but I'm not spending it on a cake."
-    u ""
+    u "Haha, sim, tô só zuando. Eu trouxe um pouco de dinheiro, mas não vou gastar num bolinho."
 
 # game/v10/scene33.rpy:1635
 translate portuguese v10s33_laurenbake1_1f94dd2a:
 
     # u "I'm not even hungry, I'd rather spend it on something a little bit more fun."
-    u ""
+    u "Eu nem tô com fome, eu prefiro gastar em alguma coisa mais legal."
 
 # game/v10/scene33.rpy:1640
 translate portuguese v10s33_laurenbake1_77b0383d:
 
     # la "Like?"
-    la ""
+    la "Tipo?"
 
 # game/v10/scene33.rpy:1645
 translate portuguese v10s33_laurenbake1_48530d52:
 
     # u "Like every other booth."
-    u ""
+    u "Tipo qualquer outra barraquinha."
 
 # game/v10/scene33.rpy:1650
 translate portuguese v10s33_laurenbake1_8f544c69:
 
     # la "Now I feel silly for choosing the bake sale."
-    la ""
+    la "Agora eu me senti mal por vender bolinhos."
 
 # game/v10/scene33.rpy:1655
 translate portuguese v10s33_laurenbake1_0ec02ce2:
 
     # u "I'm sure you people are gonna get hungry at some point."
-    u ""
+    u "Eu tenho certeza que as pessoas, eventualmente, vão ficar com fome."
 
 # game/v10/scene33.rpy:1661
 translate portuguese v10s33_laurenbake1_03c93053:
 
     # u "I know, I'd love some of... Lauren's Moist Muffins."
-    u ""
+    u "Eu sei, eu adoraria uns... Bolinhos molhadinhos da Lauren."
 
 # game/v10/scene33.rpy:1666
 translate portuguese v10s33_laurenbake1_68fbfabf:
 
     # la "[name] you're gonna get me in trouble."
-    la ""
+    la "[name] você vai me meter em problemas."
 
 # game/v10/scene33.rpy:1671
 translate portuguese v10s33_laurenbake1_11635aa6:
 
     # u "Haha!"
-    u ""
+    u "Haha!"
 
 # game/v10/scene33.rpy:1673
 translate portuguese v10s33_laurenbake1_027cbca9:
 
     # u "Oh I wanted to ask, I'm planning on going on this year's Europe trip. Would you want to go?"
-    u ""
+    u "Ah, eu queria te perguntar, estou planejando em ir pra viagem pra Europa. Você gostaria de ir?"
 
 # game/v10/scene33.rpy:1678
 translate portuguese v10s33_laurenbake1_3723fefe:
 
     # la "Hmm, I hadn't thought about it, but since you're wanting to I'll think about it."
-    la ""
+    la "Hmmm, não tinha pensado nisso, mas já que você quer que eu vá pensarei no seu caso."
 
 # game/v10/scene33.rpy:1683
 translate portuguese v10s33_laurenbake1_e7743dcf:
 
     # u "Great."
-    u ""
+    u "Boa!"
 
 # game/v10/scene33.rpy:1695
 translate portuguese v10s33_laurenbake1_027cbca9_1:
 
     # u "Oh I wanted to ask, I'm planning on going on this year's Europe trip. Would you want to go?"
-    u ""
+    u "Ah, eu queria te perguntar, estou planejando em ir pra viagem pra Europa. Você gostaria de ir?"
 
 # game/v10/scene33.rpy:1703
 translate portuguese v10s33_laurenbake1_3723fefe_1:
 
     # la "Hmm, I hadn't thought about it, but since you're wanting to I'll think about it."
-    la ""
+   la "Hmmm, não tinha pensado nisso, mas já que você quer que eu vá pensarei no seu caso."
 
 # game/v10/scene33.rpy:1708
 translate portuguese v10s33_laurenbake1_e7743dcf_1:
 
     # u "Great."
-    u ""
+    u "Excelente."
 
 # game/v10/scene33.rpy:1715
 translate portuguese v10s33_laurenbake1_bf20b7c3:
 
     # la "Hmm, I hadn't thought about it, I'm not sure."
-    la ""
+    la "Hmm, não tinha pensado sobre isso, não sei não."
 
 # game/v10/scene33.rpy:1720
 translate portuguese v10s33_laurenbake1_1207e102:
 
     # u "No problem, you still have some time to decide."
-    u ""
+    u "Sem problemas, você ainda tem tempo pra decidir."
 
 # game/v10/scene33.rpy:1725
 translate portuguese v10s33_laurenbake1_4f7e9797:
 
     # u "(I don't really feel like inviting Lauren.)"
-    u ""
+    u "(Eu não tô muito afim de convidar ela.)"
 
 # game/v10/scene33.rpy:1729
 translate portuguese v10s33_laurenbake1_71d94131:
 
     # u "I'm gonna check out some more stuff, I'll check back in later."
-    u ""
+    u "Eu vou dar uma olhada nas outras coisas, volto mais tarde."
 
 # game/v10/scene33.rpy:1734
 translate portuguese v10s33_laurenbake1_5eeaf8c2:
 
     # la "See ya."
-    la ""
+    la "A gente se vê."
 
 # game/v10/scene33.rpy:1745
 translate portuguese v10s33_laurenstatue1_67c16a23:
 
     # u "What a beautiful statue."
-    u ""
+    u "Que bela estátua."
 
 # game/v10/scene33.rpy:1752
 translate portuguese v10s33_laurenstatue1_99cc0aa7:
 
     # la "Sorry babe, the paint."
-    la ""
+    la "Desculpa amor, a tinta."
 
 # game/v10/scene33.rpy:1757
 translate portuguese v10s33_laurenstatue1_dd751539:
 
     # la "Just so you know, this was a horrible idea. It's too hot to be standing here like this."
-    la ""
+    la "Só pra você saber, isso foi um ideia terrível. Tá muito quente pra ficar parada aqui desse jeito."
 
 # game/v10/scene33.rpy:1768
 translate portuguese v10s33_laurenstatue1_960fc909:
 
     # u "It is, I'm sorry. Maybe it's not a good idea to follow my ideas from now on."
-    u ""
+    u "Tá mesmo, desculpa. Talvez é melhor você não seguir minhas ideias a partir de agora."
 
 # game/v10/scene33.rpy:1773
 translate portuguese v10s33_laurenstatue1_1e152bc7:
 
     # la "You think? *Chuckles*"
-    la ""
+    la "Você acha mesmo? *Risadas*"
 
 # game/v10/scene33.rpy:1778
 translate portuguese v10s33_laurenstatue1_4a912210:
 
     # u "It does look like you got quite a bit of donations though."
-    u ""
+    u "Mas parece que você conseguiu uns trocados."
 
 # game/v10/scene33.rpy:1783
 translate portuguese v10s33_laurenstatue1_3c772892:
 
     # la "Really? I hadn't even had a chance to look."
-    la ""
+    la "Sério? Eu nem tinha parado pra ver ainda."
 
 # game/v10/scene33.rpy:1788
 translate portuguese v10s33_laurenstatue1_83d0661e:
 
     # u "Yeah there's at least $100 in here."
-    u ""
+    u "É, tem pelo menos uns R$100 aqui."
 
 # game/v10/scene33.rpy:1793
 translate portuguese v10s33_laurenstatue1_ed982906:
 
     # la "Oh, well maybe the idea wasn't so bad. *Laughs*"
-    la ""
+    la "Nossa, parece que a ideia não foi tão ruim assim. *Risadas*"
 
 # game/v10/scene33.rpy:1798
 translate portuguese v10s33_laurenstatue1_fcc18885:
 
     # u "*Laughs*"
-    u ""
+    u "*Risadas*"
 
 # game/v10/scene33.rpy:1805
 translate portuguese v10s33_laurenstatue1_0cf4044e:
 
     # u "Oh my gosh, did that statue just talk to me? Everyone, that statue just talked!"
-    u ""
+    u "Ah Meu Deus, a estátua acabou de falar comigo? Galera, essa estátua acabou de falar!"
 
 # game/v10/scene33.rpy:1810
 translate portuguese v10s33_laurenstatue1_5d4a46f5:
 
     # la "I'm never taking your advice again."
-    la ""
+    la "Eu nunca mais vou seguir os teus conselhos."
 
 # game/v10/scene33.rpy:1815
 translate portuguese v10s33_laurenstatue1_a2f119d0:
 
     # u "Hey, at least it made you money. There's at least $100 in here already."
-    u ""
+    u "Ei, pelo menos você conseguiu ganhar um pouco de dinheiro. Tem pelo menos uns R$100 aqui."
 
 # game/v10/scene33.rpy:1820
 translate portuguese v10s33_laurenstatue1_63ffe8a4:
 
     # la "Are you serious?"
-    la ""
+    la "Tá falando sério?"
 
 # game/v10/scene33.rpy:1825
 translate portuguese v10s33_laurenstatue1_89827171:
 
     # u "Yeah, for real."
-    u ""
+    u "Sim, de verdade."
 
 # game/v10/scene33.rpy:1830
 translate portuguese v10s33_laurenstatue1_f987aa3f:
 
     # la "Oh, well maybe the idea wasn't so bad then. *Laughs*"
-    la ""
+    la "Ah, parece que a ideia não foi tão ruim assim. *Risadas*"
 
 # game/v10/scene33.rpy:1835
 translate portuguese v10s33_laurenstatue1_fcc18885_1:
 
     # u "*Laughs*"
-    u ""
+    u "*Risadas*"
 
 # game/v10/scene33.rpy:1840
 translate portuguese v10s33_laurenstatue1_631c66ea:
 
     # la "But I am super itchy, this paint is really bothering me. And I'm kinda worried it won't wash off."
-    la ""
+    la "Mas tá coçando um monte, essa tinta realmente tá incomodando. E eu tô preocupada que não vou conseguir tirar."
 
 # game/v10/scene33.rpy:1845
 translate portuguese v10s33_laurenstatue1_46e209b3:
 
     # u "If not, can I pose you in my room? I think you'd make a great addition. *Laughs*"
-    u ""
+    u "Se você não conseguir, você vai posar no meu quarto? Eu acho que você seria uma bela peça na minha decoração. *Risadas*"
 
 # game/v10/scene33.rpy:1850
 translate portuguese v10s33_laurenstatue1_161dcd95:
 
     # la "Not funny."
-    la ""
+    la "Sem graça."
 
 # game/v10/scene33.rpy:1855
 translate portuguese v10s33_laurenstatue1_b7353d9e:
 
     # u "Well I wish it was going better for you."
-    u ""
+    u "Bom, eu esperava que as coisas estivessem melhores pra você."
 
 # game/v10/scene33.rpy:1856
 translate portuguese v10s33_laurenstatue1_091f7dd8:
 
     # u "Maybe if you get Autumn to sell fake oil cans people can act as though they're loosening your joints Mrs. Tin Man. *Laughs*"
-    u ""
+    u "Talvez se você falar pra Autumn vender latas de óleo pras pessoas fingirem que estão lubrificando suas articulações Homem de Lata. *Risadas*"
 
 # game/v10/scene33.rpy:1861
 translate portuguese v10s33_laurenstatue1_92882b8b:
 
     # la "Knowing her, if she knew it'd make the event better then she'd do it."
-    la ""
+    la "Conhecendo ela, se soubesse que ajudaria no evento ela faria sem pensar duas vezes."
 
 # game/v10/scene33.rpy:1866
 translate portuguese v10s33_laurenstatue1_c9923516:
 
     # u "Speaking of making the event better, I know what would."
-    u ""
+    u "Falando em melhorar o evento, eu sei o que ajudaria."
 
 # game/v10/scene33.rpy:1871
 translate portuguese v10s33_laurenstatue1_e0381dbe:
 
     # la "What?"
-    la ""
+    la "O quê?"
 
 # game/v10/scene33.rpy:1876
 translate portuguese v10s33_laurenstatue1_1d9dd01b:
 
     # u "You plus mud wrestling."
-    u ""
+    u "Você + Luta na lama."
 
 # game/v10/scene33.rpy:1881
 translate portuguese v10s33_laurenstatue1_2aefaeb7:
 
     # la "Funny, but I can't leave my stand. I'm a statue remember?"
-    la ""
+    la "Engraçadinho, mas eu não posso sair daqui. Eu sou uma estátua, lembra?"
 
 # game/v10/scene33.rpy:1886
 translate portuguese v10s33_laurenstatue1_8d8ae1ad:
 
     # u "So committed, we love to see it."
-    u ""
+    u "Tão comprometida, amo ver isso."
 
 # game/v10/scene33.rpy:1893
 translate portuguese v10s33_laurenstatue1_027cbca9:
 
     # u "Oh I wanted to ask, I'm planning on going on this year's Europe trip. Would you want to go?"
-    u ""
+    u "Ah, queria te perguntar, estou planejando ir na viagem pra Europa deste ano. Você quer ir?"
 
 # game/v10/scene33.rpy:1898
 translate portuguese v10s33_laurenstatue1_3723fefe:
 
     # la "Hmm, I hadn't thought about it, but since you're wanting to I'll think about it."
-    la ""
+    la "Hmmm, não tinha pensado nisso, mas já que você quer que eu vá pensarei no seu caso."
 
 # game/v10/scene33.rpy:1903
 translate portuguese v10s33_laurenstatue1_e7743dcf:
 
     # u "Great."
-    u ""
+    u "Ótimo."
 
 # game/v10/scene33.rpy:1915
 translate portuguese v10s33_laurenstatue1_027cbca9_1:
 
     # u "Oh I wanted to ask, I'm planning on going on this year's Europe trip. Would you want to go?"
-    u ""
+    u "Ah, queria te perguntar, estou planejando ir na viagem pra Europa deste ano. Você quer ir?"
 
 # game/v10/scene33.rpy:1923
 translate portuguese v10s33_laurenstatue1_3723fefe_1:
 
     # la "Hmm, I hadn't thought about it, but since you're wanting to I'll think about it."
-    la ""
+    la "Hmmm, não tinha pensado nisso, mas já que você quer que eu vá pensarei no seu caso."
 
 # game/v10/scene33.rpy:1928
 translate portuguese v10s33_laurenstatue1_e7743dcf_1:
 
     # u "Great."
-    u ""
+    u "Ótimo."
 
 # game/v10/scene33.rpy:1935
 translate portuguese v10s33_laurenstatue1_bf20b7c3:
 
     # la "Hmm, I hadn't thought about it, I'm not sure."
-    la ""
+    la "Hmm, não tinha pensado nisso, não tenho certeza."
 
 # game/v10/scene33.rpy:1940
 translate portuguese v10s33_laurenstatue1_1207e102:
 
     # u "No problem, you still have some time to decide."
-    u ""
+    u "Sem problemas, você ainda tem tempo pra decidir."
 
 # game/v10/scene33.rpy:1945
 translate portuguese v10s33_laurenstatue1_4f7e9797:
 
     # u "(I don't really feel like inviting Lauren.)"
-    u ""
+    u "(Eu não tô muito afim de convidar a Lauren.)"
 
 # game/v10/scene33.rpy:1949
 translate portuguese v10s33_laurenstatue1_71d94131:
 
     # u "I'm gonna check out some more stuff, I'll check back in later."
-    u ""
+    u "Eu vou dar uma olhada nas outras coisas, a gente se vê depois."
 
 # game/v10/scene33.rpy:1954
 translate portuguese v10s33_laurenstatue1_5eeaf8c2:
 
     # la "See ya."
-    la ""
+    la "Até."
 
 # game/v10/scene33.rpy:1969
 translate portuguese v10s33_lindsey1_481b9c11:
 
     # u "Look at you! This alone is a reason to give all my money away."
-    u ""
+    u "Olha só pra você! Só isso já é suficiene pra eu dar todo o meu dinheiro."
 
 # game/v10/scene33.rpy:1974
 translate portuguese v10s33_lindsey1_2a2c6adb:
 
     # li "Haha, you like it?"
-    li ""
+    li "Haha, você gostou?"
 
 # game/v10/scene33.rpy:1979
 translate portuguese v10s33_lindsey1_6e45ac7f:
 
     # u "Yes, it looks nice."
-    u ""
+    u "Sim, ficou legal."
 
 # game/v10/scene33.rpy:1984
 translate portuguese v10s33_lindsey1_8c8a3d85:
 
     # li "Thanks, I didn't get a second opinion when I got it, but as long as you like it that works for me."
-    li ""
+    li "Valeu, eu não tinha conseguido uma segunda opinião, mas já que você gostou é suficiente pra mim."
 
 # game/v10/scene33.rpy:1989
 translate portuguese v10s33_lindsey1_e834c2cf:
 
     # u "Glad my opinion is valued so much."
-    u ""
+    u "Fico feliz que minha opinião valha tanto."
 
 # game/v10/scene33.rpy:1994
 translate portuguese v10s33_lindsey1_edb01215:
 
     # li "Of course, I'm thinking of spicing it up with some more paint."
-    li ""
+    li "Claro que sim, eu estava pensando em colocar um pouco mais de tinta."
 
 # game/v10/scene33.rpy:2001
 translate portuguese v10s33_lindsey1_bc745733:
 
     # u "Sounds good to me, I'll do it."
-    u ""
+    u "É uma boa ideia, vou fazer isso."
 
 # game/v10/scene33.rpy:2011
 translate portuguese v10s33_lindsey1_7970cf98:
 
     # li "Oh, that tickles. *Laughs*"
-    li ""
+    li "Ah, isso faz cócegas. *Risadas*"
 
 # game/v10/scene33.rpy:2013
 translate portuguese v10s33_lindsey1_1048cd16:
 
     # u "Just stay still."
-    u ""
+    u "Só fica parada."
 
 # game/v10/scene33.rpy:2018
 translate portuguese v10s33_lindsey1_562f5c93:
 
     # li "Please don't paint anything embarrassing. Ooh, can you give me wings?"
-    li ""
+    li "Por favor, não pinta nada vergonhoso. Ahh, você pode fazer umas asas?"
 
 # game/v10/scene33.rpy:2023
 translate portuguese v10s33_lindsey1_aaeaf486:
 
     # u "Sure!"
-    u ""
+    u "Claro!"
 
 # game/v10/scene33.rpy:2028
 translate portuguese v10s33_lindsey1_daf6b737:
 
     # li "Oh, and a tail."
-    li ""
+    li "Ah, e um rabinho."
 
 # game/v10/scene33.rpy:2033
 translate portuguese v10s33_lindsey1_04291ee0:
 
     # u "On it."
-    u ""
+    u "Pode deixar."
 
 # game/v10/scene33.rpy:2038
 translate portuguese v10s33_lindsey1_3dff74e2:
 
     # u "(Uhm, how am I supposed to do this? Ahh, I know!)"
-    u ""
+    u "(Hmm, como eu posso fazer isso? Ahh, já sei!)"
 
 # game/v10/scene33.rpy:2053
 translate portuguese v10s33_lindsey1_27ebe42e:
 
     # li "You didn't draw anything bad did you?"
-    li ""
+    li "Você não fez nada errado né?"
 
 # game/v10/scene33.rpy:2058
 translate portuguese v10s33_lindsey1_2d98f042:
 
     # u "Of course not, you can trust me."
-    u ""
+    u "Claro que não, confia no pai."
 
 # game/v10/scene33.rpy:2063
 translate portuguese v10s33_lindsey1_a594bfea:
 
     # li "Alright [name]."
-    li ""
+    li "Tá [name]."
 
 # game/v10/scene33.rpy:2066
 translate portuguese v10s33_lindsey1_8c6ef418:
 
     # u "*Laughs* You should."
-    u ""
+    u "*Risadas* Você deveria."
 
 # game/v10/scene33.rpy:2071
 translate portuguese v10s33_lindsey1_20538ace:

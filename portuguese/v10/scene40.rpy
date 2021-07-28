@@ -1036,269 +1036,269 @@ translate portuguese strings:
 translate portuguese v10s40_galleryScene_e2db937c_1:
 
     # ri "Awww, not even a little peek?"
-    ri ""
+    ri "Aahhh, nem uma olhadinha?"
 
 # game/v10/scene40.rpy:680
 translate portuguese v10s40_galleryScene_727743f4_1:
 
     # u "No ma'am."
-    u ""
+    u "Não senhora."
 
 # game/v10/scene40.rpy:685
 translate portuguese v10s40_galleryScene_c24364e1_1:
 
     # ri "Such a gentleman."
-    ri ""
+    ri "Todo um cavalheiro."
 
 # game/v10/scene40.rpy:731
 translate portuguese v10s40_galleryScene_fb1facbd_1:
 
     # u "I get happy when I do things for others so if I buy others something or give something away that they want. then I'm also buying happiness for myself."
-    u ""
+    u "Eu fico feliz quando faço coisas para os outros, então, se eu comprar coisas para os outros ou dar alguma coisa que eles queiram, então, estou comprando felicidade para mim mesmo."
 
 # game/v10/scene40.rpy:839
 translate portuguese v10s40_galleryScene_e7e5a542_2:
 
     # ri "Someone's confident."
-    ri ""
+    ri "Alguém está confiante."
 
 # game/v10/scene40.rpy:844
 translate portuguese v10s40_galleryScene_af9f90af_3:
 
     # u "Come here."
-    u ""
+    u "Vem cá."
 
 # game/v10/scene40.rpy:849
 translate portuguese v10s40_galleryScene_81defe42_3:
 
     # u "Lie down."
-    u ""
+    u "Deita."
 
 # game/v10/scene40.rpy:854
 translate portuguese v10s40_galleryScene_7fe7ebd9_3:
 
     # u "You're so sexy."
-    u ""
+    u "Você é tão gata."
 
 # game/v10/scene40.rpy:856
 translate portuguese v10s40_galleryScene_79aa4919_3:
 
     # ri "Squeeze my thighs."
-    ri ""
+    ri "Aperte minhas coxas."
 
 # game/v10/scene40.rpy:861
 translate portuguese v10s40_galleryScene_a3f53d1b_3:
 
     # ri "Oh god!"
-    ri ""
+    ri "Meu Deus!"
 
 # game/v10/scene40.rpy:866
 translate portuguese v10s40_galleryScene_647e3692_3:
 
     # ri "Oh fuck!"
-    ri ""
+    ri "Puta merda!"
 
 # game/v10/scene40.rpy:871
 translate portuguese v10s40_galleryScene_7fd21f74_3:
 
     # ri "[name]!"
-    ri ""
+    ri "[name]!"
 
 # game/v10/scene40.rpy:873
 translate portuguese v10s40_galleryScene_99799095_3:
 
     # ri "My turn."
-    ri ""
+    ri "Minha vez."
 
 # game/v10/scene40.rpy:878
 translate portuguese v10s40_galleryScene_a4793be3_3:
 
     # u "Fuck that feels good."
-    u ""
+    u "Porra, isso é bom demais."
 
 # game/v10/scene40.rpy:880
 translate portuguese v10s40_galleryScene_cf3ce5ee_3:
 
     # ri "You like it huh?"
-    ri ""
+    ri "Você gosta disso ein?"
 
 # game/v10/scene40.rpy:885
 translate portuguese v10s40_galleryScene_429717d2_3:
 
     # u "Oh fuck, YESSS!"
-    u ""
+    u "Puta merda, SIIMM!"
 
 # game/v10/scene40.rpy:887
 translate portuguese v10s40_galleryScene_5077813d_3:
 
     # u "I'm gonna cum."
-    u ""
+    u "Eu vou gozar."
 
 # game/v10/scene40.rpy:889
 translate portuguese v10s40_galleryScene_f856c885_3:
 
     # ri "Go ahead."
-    ri ""
+    ri "Vá em frente."
 
 # game/v10/scene40.rpy:903
 translate portuguese v10s40_galleryScene_c30d1468_3:
 
     # ri "That was nice."
-    ri ""
+    ri "Isso foi ótimo."
 
 # game/v10/scene40.rpy:908
 translate portuguese v10s40_galleryScene_7bc47303_3:
 
     # u "It was."
-    u ""
+    u "Com certeza."
 
 # game/v10/scene40.rpy:999
 translate portuguese v10s40_galleryScene_b2d25bc3_2:
 
     # ri "You have to get up early?"
-    ri ""
+    ri "Você tem que acordar cedo?"
 
 # game/v10/scene40.rpy:1086
 translate portuguese v10s40_galleryScene_e7fd61d8_2:
 
     # u "Go ahead and get dressed, I'll turn around."
-    u ""
+    u "Pode se vestir tranquila, eu vou olhar pro outro lado."
 
 # game/v10/scene40.rpy:1096
 translate portuguese v10s40_galleryScene_d1462b04_4:
 
     # ri "Hey, can I ask you something?"
-    ri ""
+    ri "Ei, posso te perguntar uma coisa?"
 
 # game/v10/scene40.rpy:1101
 translate portuguese v10s40_galleryScene_26089244_4:
 
     # u "Sure, what's up?"
-    u ""
+    u "Claro, o que houve?"
 
 # game/v10/scene40.rpy:1106
 translate portuguese v10s40_galleryScene_27b2dc54_4:
 
     # ri "What would you do if you had a million dollars and you could either only spend it on yourself or only spend it on others?"
-    ri ""
+    ri "O que você faria se tivesse 1 milhão de reais e você poderia, somente, gastar em si próprio ou gastar nos outros?"
 
 # game/v10/scene40.rpy:1111
 translate portuguese v10s40_galleryScene_46226e29_4:
 
     # u "Uhhh... I'm not sure."
-    u ""
+    u "Hmmm... não tenho certeza."
 
 # game/v10/scene40.rpy:1116
 translate portuguese v10s40_galleryScene_c584e05c_4:
 
     # ri "Come on, you gotta choose one."
-    ri ""
+    ri "Vaii, você tem que querer alguma coisa."
 
 # game/v10/scene40.rpy:1125
 translate portuguese v10s40_galleryScene_9ec044b3_4:
 
     # u "I'd spend it all on myself and then give away the stuff that I wanted to give."
-    u ""
+    u "Eu iria gastar tudo em mim e depois doar as coisas que eu queria doar."
 
 # game/v10/scene40.rpy:1130
 translate portuguese v10s40_galleryScene_dd0bab12_4:
 
     # ri "What, no. *Laughs* You can't give away anything, quit trying to find loopholes. It's supposed to be a hard choice."
-    ri ""
+    ri "Que?? não. *Risadas* Você não pode doar nada, pare de tentar achar uma brecha! É para ser uma escolha difícil."
 
 # game/v10/scene40.rpy:1135
 translate portuguese v10s40_galleryScene_8a3a4367_4:
 
     # u "Look at it as if I'm buying happiness."
-    u ""
+    u "Parece que eu estou comprando felicidade."
 
 # game/v10/scene40.rpy:1142
 translate portuguese v10s40_galleryScene_cd6ce674_4:
 
     # ri "Haven't you ever heard you can't buy happiness? *Chuckles*"
-    ri ""
+    ri "Você nunca ouviu falar que não tem como comprar felicidade? *Risos*"
 
 # game/v10/scene40.rpy:1147
 translate portuguese v10s40_galleryScene_2b1f8b13_4:
 
     # u "Well I just found a way."
-    u ""
+    u "Bom, eu acabei de achar um jeito."
 
 # game/v10/scene40.rpy:1152
 translate portuguese v10s40_galleryScene_247ce7a7_4:
 
     # ri "You're crazy. *Laughs*"
-    ri ""
+    ri "Você está doido. *Risadas*"
 
 # game/v10/scene40.rpy:1158
 translate portuguese v10s40_galleryScene_4d082514_4:
 
     # u "Easy, I'd give it all to one person and sign a contract with him saying he had to give half of it back to me."
-    u ""
+    u "Fácil, eu daria tudo para uma pessoa e assinaria um contrato dizendo que ela iria me devolver metade."
 
 # game/v10/scene40.rpy:1160
 translate portuguese v10s40_galleryScene_8f7d5209_4:
 
     # u "A quarter of it he had to spend on my family and friends, and the rest he could keep."
-    u ""
+    u "1/4 do dinheiro ela teria que gastar com minha família e amigos, e o resto ela poderia ficar."
 
 # game/v10/scene40.rpy:1165
 translate portuguese v10s40_galleryScene_bc09e83c_4:
 
     # ri "What, no. *Laughs* You can't make deals like that, quit trying to find loopholes. It's supposed to be a hard choice."
-    ri ""
+    ri "Que?? não. *Risadas* Você não pode doar nada, pare de tentar achar uma brecha! É para ser uma escolha difícil."
 
 # game/v10/scene40.rpy:1167
 translate portuguese v10s40_galleryScene_4886bb1c_4:
 
     # ri "Plus, why would you just have him also give you what you wanted to give away to your family and friends so you could do?"
-    ri ""
+    ri "E ainda, por que você não só faz ela dar o que você queria dar para sua família e amigos?"
 
 # game/v10/scene40.rpy:1172
 translate portuguese v10s40_galleryScene_f1f8c547_4:
 
     # u "*Chuckles* That would make more sense."
-    u ""
+    u "*Risadas* Isso faria mais sentido."
 
 # game/v10/scene40.rpy:1177
 translate portuguese v10s40_galleryScene_6592d0f5_4:
 
     # ri "Didn't think that one through. *Laughs*"
-    ri ""
+    ri "Não tinha pensado por esse ângulo. *Risadas*"
 
 # game/v10/scene40.rpy:1187
 translate portuguese v10s40_galleryScene_32c9c8df_4:
 
     # u "Yeah, I have something pretty major in the morning."
-    u ""
+    u "É... Eu tenho algo importante pela manhã."
 
 # game/v10/scene40.rpy:1192
 translate portuguese v10s40_galleryScene_58bfc2d4_4:
 
     # ri "Don't you think you should go then?"
-    ri ""
+    ri "Você não deveria ir então?"
 
 # game/v10/scene40.rpy:1197
 translate portuguese v10s40_galleryScene_7c83caef_4:
 
     # u "Oh so you're kicking me out?"
-    u ""
+    u "Ah, então você tá me expulsando?"
 
 # game/v10/scene40.rpy:1202
 translate portuguese v10s40_galleryScene_028f7cc4_4:
 
     # ri "Haha, no! I just don't want you to be super tired."
-    ri ""
+    ri "Haha, não! Eu só não quero que você esteja super cansado."
 
 # game/v10/scene40.rpy:1207
 translate portuguese v10s40_galleryScene_dc06b66f_4:
 
     # u "Haha, yeah you're right. I should get out of here. I'll see you soon."
-    u ""
+    u "Haha, é, você tá certa. Eu deveria ir nessa. A gente se vê."
 
 # game/v10/scene40.rpy:1212
 translate portuguese v10s40_galleryScene_bde6a20f_4:
 
     # ri "See ya."
-    ri ""
+    ri "Até mais."
 

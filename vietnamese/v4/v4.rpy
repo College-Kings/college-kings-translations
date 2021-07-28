@@ -3090,7 +3090,7 @@ translate vietnamese strings:
 
     # game/v4/v4.rpy:951
     old "Don't buy it"
-    new ""Đừng mua nó
+    new "Đừng mua nó"
 
     # game/v4/v4.rpy:1053
     old "Hey Chloe, any chance you can meet up in a bit?"

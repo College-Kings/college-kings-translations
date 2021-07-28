@@ -8,7 +8,7 @@ translate polish strings:
 
     # renpy/common/00accessibility.rpy:29
     old "Clipboard voicing enabled. "
-    new ""
+    new "Dźwięki w schowku włączone. "
 
     # renpy/common/00accessibility.rpy:30
     old "Self-voicing enabled. "
@@ -16,11 +16,11 @@ translate polish strings:
 
     # renpy/common/00accessibility.rpy:32
     old "bar"
-    new ""
+    new "pasek"
 
     # renpy/common/00accessibility.rpy:33
     old "selected"
-    new ""
+    new "wybrane"
 
     # renpy/common/00accessibility.rpy:34
     old "viewport"
@@ -28,39 +28,39 @@ translate polish strings:
 
     # renpy/common/00accessibility.rpy:35
     old "horizontal scroll"
-    new ""
+    new "przewijanie w poziomie"
 
     # renpy/common/00accessibility.rpy:36
     old "vertical scroll"
-    new ""
+    new "przewijanie w pionie"
 
     # renpy/common/00accessibility.rpy:37
     old "activate"
-    new ""
+    new "aktywuj"
 
     # renpy/common/00accessibility.rpy:38
     old "deactivate"
-    new ""
+    new "dezaktywuj"
 
     # renpy/common/00accessibility.rpy:39
     old "increase"
-    new ""
+    new "zwiększ"
 
     # renpy/common/00accessibility.rpy:40
     old "decrease"
-    new ""
+    new "zmniejsz"
 
     # renpy/common/00accessibility.rpy:128
     old "Font Override"
-    new ""
+    new "Nadpisanie czcionki"
 
     # renpy/common/00accessibility.rpy:132
     old "Default"
-    new ""
+    new "Domyślne"
 
     # renpy/common/00accessibility.rpy:136
     old "DejaVu Sans"
-    new ""
+    new "DejaVu Sans"
 
     # renpy/common/00accessibility.rpy:140
     old "Opendyslexic"
@@ -72,7 +72,7 @@ translate polish strings:
 
     # renpy/common/00accessibility.rpy:152
     old "Reset"
-    new ""
+    new "Reset"
 
     # renpy/common/00accessibility.rpy:158
     old "Line Spacing Scaling"
@@ -88,11 +88,11 @@ translate polish strings:
 
     # renpy/common/00accessibility.rpy:179
     old "Text-to-speech"
-    new ""
+    new "Tekst na mowę"
 
     # renpy/common/00accessibility.rpy:183
     old "Clipboard"
-    new ""
+    new "Schowek"
 
     # renpy/common/00accessibility.rpy:187
     old "Debug"
@@ -584,7 +584,7 @@ translate polish strings:
 
     # renpy/common/00preferences.rpy:448
     old "font size"
-    new ""
+    new "rozmiar czcionki"
 
     # renpy/common/00preferences.rpy:456
     old "font line spacing"
@@ -592,35 +592,35 @@ translate polish strings:
 
     # renpy/common/00preferences.rpy:464
     old "system cursor"
-    new ""
+    new "kursor systemowy"
 
     # renpy/common/00preferences.rpy:484
     old "music volume"
-    new ""
+    new "głośność muzyki"
 
     # renpy/common/00preferences.rpy:485
     old "sound volume"
-    new ""
+    new "głośność dźwięku"
 
     # renpy/common/00preferences.rpy:486
     old "voice volume"
-    new ""
+    new "głośność głosów"
 
     # renpy/common/00preferences.rpy:487
     old "mute music"
-    new ""
+    new "wycisz muzykę"
 
     # renpy/common/00preferences.rpy:488
     old "mute sound"
-    new ""
+    new "wycisz dźwięk"
 
     # renpy/common/00preferences.rpy:489
     old "mute voice"
-    new ""
+    new "wycisz głosy"
 
     # renpy/common/00preferences.rpy:490
     old "mute all"
-    new ""
+    new "wycisz wszystko"
 
     # renpy/common/00preferences.rpy:571
     old "Clipboard voicing enabled. Press 'shift+C' to disable."
@@ -676,15 +676,15 @@ translate polish strings:
 
     # renpy/common/00updater.rpy:1433
     old "Updater"
-    new ""
+    new "Aktualizator"
 
     # renpy/common/00updater.rpy:1440
     old "An error has occured:"
-    new ""
+    new "Wystąpił błąd:"
 
     # renpy/common/00updater.rpy:1442
     old "Checking for updates."
-    new ""
+    new "Sprawdzanie aktualizacji."
 
     # renpy/common/00updater.rpy:1444
     old "This program is up to date."
@@ -728,7 +728,7 @@ translate polish strings:
 
     # renpy/common/00compat.rpy:318
     old "Fullscreen"
-    new ""
+    new "Pełny ekran"
 
     # renpy/common/00gallery.rpy:590
     old "Image [index] of [count] locked."
@@ -736,11 +736,11 @@ translate polish strings:
 
     # renpy/common/00gallery.rpy:610
     old "prev"
-    new ""
+    new "poprzedni"
 
     # renpy/common/00gallery.rpy:611
     old "next"
-    new ""
+    new "następny"
 
     # renpy/common/00gallery.rpy:612
     old "slideshow"
@@ -748,7 +748,7 @@ translate polish strings:
 
     # renpy/common/00gallery.rpy:613
     old "return"
-    new ""
+    new "powrót"
 
     # renpy/common/00gltest.rpy:89
     old "Renderer"
@@ -788,11 +788,11 @@ translate polish strings:
 
     # renpy/common/00gltest.rpy:140
     old "Enable"
-    new ""
+    new "Włącz"
 
     # renpy/common/00gltest.rpy:144
     old "Disable"
-    new ""
+    new "Wyłącz"
 
     # renpy/common/00gltest.rpy:159
     old "Powersave"
@@ -804,15 +804,15 @@ translate polish strings:
 
     # renpy/common/00gltest.rpy:177
     old "Screen"
-    new ""
+    new "Ekran"
 
     # renpy/common/00gltest.rpy:181
     old "60"
-    new ""
+    new "60"
 
     # renpy/common/00gltest.rpy:185
     old "30"
-    new ""
+    new "30"
 
     # renpy/common/00gltest.rpy:191
     old "Tearing"
@@ -852,23 +852,23 @@ translate polish strings:
 
     # renpy/common/00gltest.rpy:269
     old "Continue, Show this warning again"
-    new ""
+    new "Kontynuuj, wciąż pokazuj ostrzeżenie"
 
     # renpy/common/00gltest.rpy:273
     old "Continue, Don't show warning again"
-    new ""
+    new "Kontynuuj, nie pokazuj tego ostrzeżenia ponownie"
 
     # renpy/common/00gltest.rpy:281
     old "Change render options"
-    new ""
+    new "Zmień opcje renderowania"
 
     # renpy/common/00gamepad.rpy:32
     old "Select Gamepad to Calibrate"
-    new ""
+    new "Wybierz kontroler w celu kalibracji"
 
     # renpy/common/00gamepad.rpy:35
     old "No Gamepads Available"
-    new ""
+    new "Nie wykryto kontrolera"
 
     # renpy/common/00gamepad.rpy:54
     old "Calibrating [name] ([i]/[total])"
@@ -880,7 +880,7 @@ translate polish strings:
 
     # renpy/common/00gamepad.rpy:68
     old "Skip (A)"
-    new ""
+    new "Pomiń (A)"
 
     # renpy/common/00gamepad.rpy:71
     old "Back (B)"
@@ -888,7 +888,7 @@ translate polish strings:
 
     # renpy/common/_errorhandling.rpym:542
     old "Open"
-    new ""
+    new "Otwórz"
 
     # renpy/common/_errorhandling.rpym:544
     old "Opens the traceback.txt file in a text editor."
@@ -924,7 +924,7 @@ translate polish strings:
 
     # renpy/common/_errorhandling.rpym:609
     old "Ignore"
-    new ""
+    new "Ignoruj"
 
     # renpy/common/_errorhandling.rpym:613
     old "Ignores the exception, allowing you to continue."
@@ -944,7 +944,7 @@ translate polish strings:
 
     # renpy/common/_errorhandling.rpym:624
     old "Console"
-    new ""
+    new "Konsola"
 
     # renpy/common/_errorhandling.rpym:626
     old "Opens a console to allow debugging the problem."
