@@ -228,89 +228,89 @@ translate portuguese hoco_amb_morning_b36f0799:
 translate portuguese v8s5_nsfwSkipLabel1_14660504:
 
     # am "Okay."
-    am ""
+    am "Tá."
 
 # game/v8/scene5.rpy:211
 translate portuguese v8s5_nsfwSkipLabel1_ea0397dc:
 
     # u "So where are your parents? I mean you have this whole house to yourself."
-    u ""
+    u "Onde estão seus pais? Tipo, você tá com essa casa inteira pra você."
 
 # game/v8/scene5.rpy:216
 translate portuguese v8s5_nsfwSkipLabel1_f88953d1:
 
     # am "Oh yeah... My parents moved away to Europe."
-    am ""
+    am "Ah é... meus amigos se mudaram pra Europa."
 
 # game/v8/scene5.rpy:221
 translate portuguese v8s5_nsfwSkipLabel1_ef5eae93:
 
     # u "Europe?"
-    u ""
+    u "Europa?"
 
 # game/v8/scene5.rpy:226
 translate portuguese v8s5_nsfwSkipLabel1_54fa0b60:
 
     # am "Yeah, I refused to go. So they left me here, let me keep the house."
-    am ""
+    am "É, eu me recusei a ir. Então eles me deixaram aqui, pra cuidar da casa."
 
 # game/v8/scene5.rpy:231
 translate portuguese v8s5_nsfwSkipLabel1_bd068cc9:
 
     # u "Well that's a nice setup."
-    u ""
+    u "Bom, essa é uma boa casa."
 
 # game/v8/scene5.rpy:236
 translate portuguese v8s5_nsfwSkipLabel1_86a0eb5f:
 
     # am "Yeah and who would want to live in Europe anyway. And Germany of all places! Haha."
-    am ""
+    am "É e quem iria pra Europa de qualquer jeito. E ainda mais a Alemanha! Haha."
 
 # game/v8/scene5.rpy:241
 translate portuguese v8s5_nsfwSkipLabel1_ebb3ba05:
 
     # u "Germany sounds pretty dope."
-    u ""
+    u "A Alemanha parece um lugar legal."
 
 # game/v8/scene5.rpy:246
 translate portuguese v8s5_nsfwSkipLabel1_4eeb6e5b:
 
     # am "Yeah I know. But I'd rather be here. Much more my vibe."
-    am ""
+    am "Sim eu sei. Mas aqui é melhor. Mais o meu estilo."
 
 # game/v8/scene5.rpy:251
 translate portuguese v8s5_nsfwSkipLabel1_65ccfb9d:
 
     # u "Yeah, I get it."
-    u ""
+    u "É, seicumé."
 
 # game/v8/scene5.rpy:256
 translate portuguese v8s5_nsfwSkipLabel1_ac32ce18:
 
     # am "I still talk to them all the time, it's not like we're estranged haha. But at least I have the house."
-    am ""
+    am "Eu ainda falo com eles toda hora, não é como se a gente se odiasse haha. Mas pelo menos eu tenho uma casa."
 
 # game/v8/scene5.rpy:261
 translate portuguese v8s5_nsfwSkipLabel1_74c27a44:
 
     # u "Yeah... Well, I'm gonna head out. Probably gonna try to sleep more. I still feel pretty exhausted."
-    u ""
+    u "Verdade... Bom, eu vou indo nessa. Vou tentar dormir um pouco. Eu tô super cansado."
 
 # game/v8/scene5.rpy:266
 translate portuguese v8s5_nsfwSkipLabel1_b99bad85:
 
     # am "Yeah, you'll need extra rest."
-    am ""
+    am "Realmente, você precisa descansar."
 
 # game/v8/scene5.rpy:271
 translate portuguese v8s5_nsfwSkipLabel1_b0c6fbf4:
 
     # u "Thanks for the invite."
-    u ""
+    u "Valeu pelo convite."
 
 # game/v8/scene5.rpy:276
 translate portuguese v8s5_nsfwSkipLabel1_b36f0799:
 
     # am "Of course. Anytime."
-    am ""
+    am "Claro, a hora que quiser."
 
