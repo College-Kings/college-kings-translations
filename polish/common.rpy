@@ -316,11 +316,11 @@ translate polish strings:
 
     # renpy/common/00director.rpy:1481
     old "⬆"
-    new ""
+    new "⬆"
 
     # renpy/common/00director.rpy:1487
     old "⬇"
-    new ""
+    new "⬇"
 
     # renpy/common/00director.rpy:1551
     old "Done"
@@ -352,39 +352,39 @@ translate polish strings:
 
     # renpy/common/00director.rpy:1602
     old "(filename)"
-    new ""
+    new "(nazwa pliku)"
 
     # renpy/common/00director.rpy:1631
     old "Change"
-    new ""
+    new "Zmień"
 
     # renpy/common/00director.rpy:1633
     old "Add"
-    new ""
+    new "Dodaj"
 
     # renpy/common/00director.rpy:1636
     old "Cancel"
-    new ""
+    new "Anuluj"
 
     # renpy/common/00director.rpy:1639
     old "Remove"
-    new ""
+    new "Usuń"
 
     # renpy/common/00director.rpy:1674
     old "Statement:"
-    new ""
+    new "Komunikat:"
 
     # renpy/common/00director.rpy:1695
     old "Tag:"
-    new ""
+    new "Etykieta:"
 
     # renpy/common/00director.rpy:1711
     old "Attributes:"
-    new ""
+    new "Atrybuty:"
 
     # renpy/common/00director.rpy:1729
     old "Transforms:"
-    new ""
+    new "Przekształcenia:"
 
     # renpy/common/00director.rpy:1748
     old "Behind:"
@@ -392,35 +392,35 @@ translate polish strings:
 
     # renpy/common/00director.rpy:1767
     old "Transition:"
-    new ""
+    new "Przejście:"
 
     # renpy/common/00director.rpy:1785
     old "Channel:"
-    new ""
+    new "Kanał:"
 
     # renpy/common/00director.rpy:1803
     old "Audio Filename:"
-    new ""
+    new "Nazwa pliku audio:"
 
     # renpy/common/00gui.rpy:382
     old "Are you sure?"
-    new ""
+    new "Na pewno?"
 
     # renpy/common/00gui.rpy:383
     old "Are you sure you want to delete this save?"
-    new ""
+    new "Na pewno chcesz usunąć ten zapis?"
 
     # renpy/common/00gui.rpy:384
     old "Are you sure you want to overwrite your save?"
-    new ""
+    new "Na pewno chcesz nadpisać swój zapis?"
 
     # renpy/common/00gui.rpy:385
     old "Loading will lose unsaved progress.\nAre you sure you want to do this?"
-    new ""
+    new "Wczytanie spowoduje utratę niezapisanych postępów.\nNa pewno chcesz to zrobić?"
 
     # renpy/common/00gui.rpy:386
     old "Are you sure you want to quit?"
-    new ""
+    new "Na pewno chcesz wyjść?"
 
     # renpy/common/00gui.rpy:387
     old "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
@@ -444,15 +444,15 @@ translate polish strings:
 
     # renpy/common/00keymap.rpy:300
     old "Failed to save screenshot as %s."
-    new ""
+    new "Nie udało się zapisać zrzutu ekranu jako %s."
 
     # renpy/common/00keymap.rpy:312
     old "Saved screenshot as %s."
-    new ""
+    new "Zapisano zrzut ekranu jako %s."
 
     # renpy/common/00library.rpy:195
     old "Skip Mode"
-    new ""
+    new "Tryb pomijania"
 
     # renpy/common/00library.rpy:281
     old "This program contains free software under a number of licenses, including the MIT License and GNU Lesser General Public License. A complete list of software, including links to full source code, can be found {a=https://www.renpy.org/l/license}here{/a}."
@@ -464,11 +464,11 @@ translate polish strings:
 
     # renpy/common/00preferences.rpy:252
     old "transitions"
-    new ""
+    new "przejścia"
 
     # renpy/common/00preferences.rpy:261
     old "skip transitions"
-    new ""
+    new "pomiń przejścia"
 
     # renpy/common/00preferences.rpy:263
     old "video sprites"
@@ -688,43 +688,43 @@ translate polish strings:
 
     # renpy/common/00updater.rpy:1444
     old "This program is up to date."
-    new ""
+    new "Program jest aktualny."
 
     # renpy/common/00updater.rpy:1446
     old "[u.version] is available. Do you want to install it?"
-    new ""
+    new "[u.version] jest dostępna. Czy chcesz zainstalować?"
 
     # renpy/common/00updater.rpy:1448
     old "Preparing to download the updates."
-    new ""
+    new "Przygotowanie do pobrania aktualizacji."
 
     # renpy/common/00updater.rpy:1450
     old "Downloading the updates."
-    new ""
+    new "Pobieranie aktualizacji."
 
     # renpy/common/00updater.rpy:1452
     old "Unpacking the updates."
-    new ""
+    new "Wypakowywanie aktualizacji."
 
     # renpy/common/00updater.rpy:1454
     old "Finishing up."
-    new ""
+    new "Kończenie."
 
     # renpy/common/00updater.rpy:1456
     old "The updates have been installed. The program will restart."
-    new ""
+    new "Aktualizacje zostały zainstalowane. Program zostanie uruchomiony ponownie."
 
     # renpy/common/00updater.rpy:1458
     old "The updates have been installed."
-    new ""
+    new "Aktualizacje zostały zainstalowane."
 
     # renpy/common/00updater.rpy:1460
     old "The updates were cancelled."
-    new ""
+    new "Aktualizacje zostały anulowane."
 
     # renpy/common/00updater.rpy:1475
     old "Proceed"
-    new ""
+    new "Kontynuuj"
 
     # renpy/common/00compat.rpy:318
     old "Fullscreen"
@@ -732,7 +732,7 @@ translate polish strings:
 
     # renpy/common/00gallery.rpy:590
     old "Image [index] of [count] locked."
-    new ""
+    new "Obraz [index] z [count] zablokowany."
 
     # renpy/common/00gallery.rpy:610
     old "prev"
@@ -744,7 +744,7 @@ translate polish strings:
 
     # renpy/common/00gallery.rpy:612
     old "slideshow"
-    new ""
+    new "pokaz slajdów"
 
     # renpy/common/00gallery.rpy:613
     old "return"
@@ -752,39 +752,39 @@ translate polish strings:
 
     # renpy/common/00gltest.rpy:89
     old "Renderer"
-    new ""
+    new "Renderowanie"
 
     # renpy/common/00gltest.rpy:93
     old "Automatically Choose"
-    new ""
+    new "Wybierz automatycznie"
 
     # renpy/common/00gltest.rpy:100
     old "Force GL Renderer"
-    new ""
+    new "Wymuś renderowanie GL"
 
     # renpy/common/00gltest.rpy:105
     old "Force ANGLE Renderer"
-    new ""
+    new "Wymuś renderowanie ANGLE"
 
     # renpy/common/00gltest.rpy:110
     old "Force GLES Renderer"
-    new ""
+    new "Wymuś renderowanie GLES"
 
     # renpy/common/00gltest.rpy:116
     old "Force GL2 Renderer"
-    new ""
+    new "Wymuś renderowanie GL2"
 
     # renpy/common/00gltest.rpy:121
     old "Force ANGLE2 Renderer"
-    new ""
+    new "Wymuś renderowanie ANGLE2"
 
     # renpy/common/00gltest.rpy:126
     old "Force GLES2 Renderer"
-    new ""
+    new "Wymuś renderowanie GLES2"
 
     # renpy/common/00gltest.rpy:136
     old "Enable (No Blocklist)"
-    new ""
+    new "Włącz (Bez listy zablokowanych)"
 
     # renpy/common/00gltest.rpy:140
     old "Enable"
@@ -796,11 +796,11 @@ translate polish strings:
 
     # renpy/common/00gltest.rpy:159
     old "Powersave"
-    new ""
+    new "Oszczędzanie energii"
 
     # renpy/common/00gltest.rpy:173
     old "Framerate"
-    new ""
+    new "Częstotliwość odświeżania"
 
     # renpy/common/00gltest.rpy:177
     old "Screen"
@@ -836,19 +836,19 @@ translate polish strings:
 
     # renpy/common/00gltest.rpy:251
     old "This computer has a problem displaying graphics: [problem]."
-    new ""
+    new "Ten komputer ma problem z wyświetlaniem grafiki: [problem]."
 
     # renpy/common/00gltest.rpy:255
     old "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display."
-    new ""
+    new "Jego sterowniki graficzne mogą być nieaktualne lub nie działać prawidłowo. Może to prowadzić do powolnego lub nieprawidłowego wyświetlania grafiki."
 
     # renpy/common/00gltest.rpy:259
     old "The {a=edit:1:log.txt}log.txt{/a} file may contain information to help you determine what is wrong with your computer."
-    new ""
+    new "Plik {a=edit:1:log.txt}log.txt{/a} może zawierać informacje, które pomogą ci określić, co jest nie tak z twoim komputerem.."
 
     # renpy/common/00gltest.rpy:264
     old "More details on how to fix this can be found in the {a=[url]}documentation{/a}."
-    new ""
+    new "Więcej informacji na temat rozwiązania tego problemu można znaleźć w {a=[url]}documentation{/a}."
 
     # renpy/common/00gltest.rpy:269
     old "Continue, Show this warning again"
@@ -872,11 +872,11 @@ translate polish strings:
 
     # renpy/common/00gamepad.rpy:54
     old "Calibrating [name] ([i]/[total])"
-    new ""
+    new "Kalibracja [name] ([i]/[total])"
 
     # renpy/common/00gamepad.rpy:58
     old "Press or move the '[control!s]' [kind]."
-    new ""
+    new "Naciśnij lub poruszaj '[control!s]' [kind]"
 
     # renpy/common/00gamepad.rpy:68
     old "Skip (A)"
@@ -884,7 +884,7 @@ translate polish strings:
 
     # renpy/common/00gamepad.rpy:71
     old "Back (B)"
-    new ""
+    new "Wstecz (B)"
 
     # renpy/common/_errorhandling.rpym:542
     old "Open"
@@ -892,11 +892,11 @@ translate polish strings:
 
     # renpy/common/_errorhandling.rpym:544
     old "Opens the traceback.txt file in a text editor."
-    new ""
+    new "Otwiera plik traceback.txt w edytorze tekstu."
 
     # renpy/common/_errorhandling.rpym:546
     old "Copy BBCode"
-    new ""
+    new "Kopiuj BBCode"
 
     # renpy/common/_errorhandling.rpym:548
     old "Copies the traceback.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."
@@ -904,7 +904,7 @@ translate polish strings:
 
     # renpy/common/_errorhandling.rpym:550
     old "Copy Markdown"
-    new ""
+    new "Kopiuj Markdown"
 
     # renpy/common/_errorhandling.rpym:552
     old "Copies the traceback.txt file to the clipboard as Markdown for Discord."
@@ -928,11 +928,11 @@ translate polish strings:
 
     # renpy/common/_errorhandling.rpym:613
     old "Ignores the exception, allowing you to continue."
-    new ""
+    new "Ignoruje wyjątek, pozwalajac ci kontynuować."
 
     # renpy/common/_errorhandling.rpym:615
     old "Ignores the exception, allowing you to continue. This often leads to additional errors."
-    new ""
+    new "Ignoruje wyjątek, pozwalajac ci kontynuować. Prowadzo to często do dodatkowych błędów."
 
     # renpy/common/_errorhandling.rpym:619
     old "Reload"
@@ -948,25 +948,25 @@ translate polish strings:
 
     # renpy/common/_errorhandling.rpym:626
     old "Opens a console to allow debugging the problem."
-    new ""
+    new "Otwiera konsolę umożliwiającą debugowanie problemu."
 
     # renpy/common/_errorhandling.rpym:639
     old "Quits the game."
-    new ""
+    new "Wychodzi z gry."
 
     # renpy/common/_errorhandling.rpym:660
     old "Parsing the script failed."
-    new ""
+    new "Przetwarzanie skryptu nie powiodło się."
 
     # renpy/common/_errorhandling.rpym:686
     old "Opens the errors.txt file in a text editor."
-    new ""
+    new "Otwiera plik errors.txt w edytorze tekstu."
 
     # renpy/common/_errorhandling.rpym:690
     old "Copies the errors.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."
-    new ""
+    new "Kopiuje plik errors.txt do schowka jako BBcode dla forów takich jak https://lemmasoft.renai.us/."
 
     # renpy/common/_errorhandling.rpym:694
     old "Copies the errors.txt file to the clipboard as Markdown for Discord."
-    new ""
+    new "Kopiuje plik errors.txt do schowka jako Markdown dla Discorda."
 

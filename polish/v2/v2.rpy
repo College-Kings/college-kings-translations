@@ -745,7 +745,7 @@ translate polish meet_lauren2_f3ad4c25:
     la "Tak, brzmi świetnie."
 
 # game/v2/v2.rpy:1360
-translate polish meet_lauren2_e6b07d44:+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+translate polish meet_lauren2_e6b07d44:
     # u "(I should probably wash the blood off my face in the restroom before I go.)"
     u "(Chyba powinienem pójść do toalety zmyć krew z twarzy przed wyjściem.)"
 
@@ -753,1021 +753,1021 @@ translate polish meet_lauren2_e6b07d44:+++++++++++++++++++++++++++++++++++++++++
 translate polish history2_0306743c:
 
     # u "(Time to sit through another boring ass lecture.)"
-    u ""
+    u "(Czas przesiedzieć kolejny nudny wykład.)"
 
 # game/v2/v2.rpy:1388
 translate polish history2_4329feeb:
 
     # imre "Hey man, about earlier, I-"
-    imre ""
+    imre "Hej stary, co do wcześniej, ja-"
 
 # game/v2/v2.rpy:1394
 translate polish history2_3ebb916e:
 
     # u "Imre, I just beat someone up."
-    u ""
+    u "Imre, właśnie kogoś pobiłem."
 
 # game/v2/v2.rpy:1399
 translate polish history2_090822b7:
 
     # imre "Holy shit, was it Grayson?!"
-    imre ""
+    imre "O chuj, to był Grayson?!"
 
 # game/v2/v2.rpy:1404
 translate polish history2_f060bafd:
 
     # u "Nah, his name's Tom, I think."
-    u ""
+    u "Nie, chyba nazywał się Tom."
 
 # game/v2/v2.rpy:1409
 translate polish history2_3fb49481:
 
     # imre "What happened?"
-    imre ""
+    imre "Co się stało?"
 
 # game/v2/v2.rpy:1414
 translate polish history2_84b92164:
 
     # u "I don't know, he walked by me on my way to meet with Lauren and just started to insult me."
-    u ""
+    u "Nie wiem, stanął mi na drodze, kiedy szedłem na spotkanie z Lauren i po prostu zaczął mnie obrażać."
 
 # game/v2/v2.rpy:1419
 translate polish history2_a0e2f480:
 
     # u "I don't know, he walked by me on my walk and just started to insult me."
-    u ""
+    u "Nie wiem, stanął mi na drodze w trakcie mojego spaceru i po prostu zaczął mnie obrażać."
 
 # game/v2/v2.rpy:1423
 translate polish history2_4a842a59:
 
     # imre "So you just knocked him out?!"
-    imre ""
+    imre "Więc po prostu go znokautowałeś?!"
 
 # game/v2/v2.rpy:1428
 translate polish history2_49d2f115:
 
     # u "I mean no, I just confronted him about it, he pushed me and next thing I know, we're fighting."
-    u ""
+    u "Nie to miałem na myśli, podszedłem do niego, popchnął mnie i zaczęliśmy walczyć."
 
 # game/v2/v2.rpy:1430
 translate polish history2_2782062a:
 
     # u "And then I just landed a couple good punches and suddenly he was laying on the floor bleeding."
-    u ""
+    u "A potem zadałem kilka dobrych ciosów i nagle leżał na ziemii, krwawiąc."
 
 # game/v2/v2.rpy:1435
 translate polish history2_6db697b3:
 
     # imre "Holy shit, you're a natural, dude."
-    imre ""
+    imre "Ja pierdolę, jesteś urodzonym wojownikiem, stary."
 
 # game/v2/v2.rpy:1440
 translate polish history2_04dfb653:
 
     # imre "Train with me. Just once. Just to see if you like it. Please."
-    imre ""
+    imre "Chodź ze mną na trening. Tylko raz. Zobaczysz czy ci się spodoba. Proszę."
 
 # game/v2/v2.rpy:1445
 translate polish history2_221d8633:
 
     # u "Fine, I'll train with you. But just one time."
-    u ""
+    u "Zgoda, potrenuję z tobą. Ale tylko ten jeden raz."
 
 # game/v2/v2.rpy:1451
 translate polish history2_481db6df:
 
     # imre "Dude, did you get beaten up again?! You look like shit!"
-    imre ""
+    imre "Stary, znowu dałeś się pobić?! Wyglądasz jak gówno!"
 
 # game/v2/v2.rpy:1456
 translate polish history2_9461de7c:
 
     # imre "Was it another ape??? Tell me who, I'll fuck them up!"
-    imre ""
+    imre "To byłka kolejna Małpa??? Powiedz komu mam wpierdolić!"
 
 # game/v2/v2.rpy:1461
 translate polish history2_0b224f7b:
 
     # u "Thanks.... and I don't know if he was an Ape, but he was also at the party and he started insulting me on my way to meet with Lauren."
-    u ""
+    u "Dzięki, nie ma takiej potrzeby.... nie wiem, czy był Małpą, ale też był na imprezie, zaczął mnie obrażać w drodze na spotkanie z Lauren."
 
 # game/v2/v2.rpy:1465
 translate polish history2_a1446831:
 
     # u "Thanks... and I don't know if he was an Ape, but he was also at the party and he started insulting me on my walk."
-    u ""
+    u "Dzięki, nie ma takiej potrzeby.... nie wiem, czy był Małpą, ale też był na imprezie, zaczął mnie obrażać, kiedy byłem na spacerze."
 
 # game/v2/v2.rpy:1469
 translate polish history2_41b06290:
 
     # imre "What did you do?"
-    imre ""
+    imre "I co zrobiłeś?"
 
 # game/v2/v2.rpy:1474
 translate polish history2_4a3906a5:
 
     # u "I confronted him, then he pushed me and then we started fighting."
-    u ""
+    u "Podszedłem do niego, popchnął mnie i zaczęliśmy walczyć."
 
 # game/v2/v2.rpy:1479
 translate polish history2_a9ab2f05:
 
     # u "And then he just landed a couple good punches and suddenly I was laying on the floor bleeding."
-    u ""
+    u "A potem zadał kilka dobrych ciosów i nagle leżałem na ziemii, krwawiąc."
 
 # game/v2/v2.rpy:1483
 translate polish history2_87177349:
 
     # imre "Shit, man..."
-    imre ""
+    imre "Przejebane, ziomek..."
 
 # game/v2/v2.rpy:1488
 translate polish history2_67fdbb98:
 
     # u "Honestly, maybe you're right and I do need to learn to defend myself."
-    u ""
+    u "Chyba miałeś rację, muszę nauczyć się bronić."
 
 # game/v2/v2.rpy:1493
 translate polish history2_35f3617a:
 
     # imre "Look, I'm gonna train tomorrow. Why don't you train with me?"
-    imre ""
+    imre "Słuchaj, jutro idę na trening. Może potrenujesz ze mną?"
 
 # game/v2/v2.rpy:1498
 translate polish history2_f51c0fc6:
 
     # u "Yeah, okay. Thanks Imre."
-    u ""
+    u "Zgoda. Dzięki Imre."
 
 # game/v2/v2.rpy:1504
 translate polish history2_bb82ae35:
 
     # u "Imre, another guy tried to fight me today."
-    u ""
+    u "Imre, kolejny facet chciał dzisiaj ze mną walczyć."
 
 # game/v2/v2.rpy:1509
 translate polish history2_1edee191:
 
     # imre "Oh shit, what happened? Another Ape?"
-    imre ""
+    imre "O kurwa, co się stało? Kolejna Małpa?"
 
 # game/v2/v2.rpy:1514
 translate polish history2_7e658a18:
 
     # u "I don't know if he was an Ape, but he was also at the party and he started insulting me on my way to meet with Lauren."
-    u ""
+    u "Nie wiem, czy był Małpą, ale też był na imprezie, zaczął mnie obrażać w drodze na spotkanie z Lauren."
 
 # game/v2/v2.rpy:1519
 translate polish history2_ae668939:
 
     # u "I don't know if he was an Ape, but he was also at the party and he started insulting me on my walk."
-    u ""
+    u "Nie wiem, czy był Małpą, ale też był na imprezie, zaczął mnie obrażać, kiedy byłem na spacerze."
 
 # game/v2/v2.rpy:1523
 translate polish history2_41b06290_1:
 
     # imre "What did you do?"
-    imre ""
+    imre "I co zrobiłeś?"
 
 # game/v2/v2.rpy:1527
 translate polish history2_5bbb8bca:
 
     # u "Well I didn't wanna get beaten up again, so I just walked away."
-    u ""
+    u "Cóż, nie chciałem, żeby znowu ktoś mnie pobił, więc po prostu odszedłem."
 
 # game/v2/v2.rpy:1532
 translate polish history2_240a40fe:
 
     # imre "Dude, if you keep this up, you're gonna get treated like crap."
-    imre ""
+    imre "Koleś, jeśli dalej będziesz tak robił, będziesz traktowany jak gówno."
 
 # game/v2/v2.rpy:1534
 translate polish history2_35f3617a_1:
 
     # imre "Look, I'm gonna train tomorrow. Why don't you train with me?"
-    imre ""
+    imre "Słuchaj, jutro idę na trening. Może potrenujesz ze mną?"
 
 # game/v2/v2.rpy:1539
 translate polish history2_67dc0c9c:
 
     # u "Okay... I guess I'll try it."
-    u ""
+    u "Dobra... Chyba mogę spóbować."
 
 # game/v2/v2.rpy:1545
 translate polish nextsceneo_e025761d:
 
     # lee "Welcome to History 101, I'm Mr. Lee."
-    lee ""
+    lee "Witam w sali do Historii 101, nazywam się Lee."
 
 # game/v2/v2.rpy:1547
 translate polish nextsceneo_58eff7c4:
 
     # lee "I know that some of you have put this class off for multiple years, while others of you are taking it in their first year."
-    lee ""
+    lee "Wiem, że niektórzy z was odkładają te zajęcia przez wiele lat, podczas gdy inni wybierają je na pierwszym roku."
 
 # game/v2/v2.rpy:1551
 translate polish nextsceneo_aaf1e329:
 
     # lee "Even though it is unfathomable to me how you could actively try to avoid the most exciting subject in the world..."
-    lee ""
+    lee "Mimo, że jest to dla mnie niezrozumiałe, jak można próbować uniknięci anajbardziej ekscytującego przedmiotu na świecie..."
 
 # game/v2/v2.rpy:1553
 translate polish nextsceneo_cba6747b:
 
     # lee "I guess there is something to be said about saving the best for last."
-    lee ""
+    lee "Chociaż zgaduję, że zostawiacie sobie najlepsze na koniec."
 
 # game/v2/v2.rpy:1558
 translate polish nextsceneo_d818341c:
 
     # lee "So what is history?"
-    lee ""
+    lee "Czym jest więc historia?"
 
 # game/v2/v2.rpy:1563
 translate polish nextsceneo_a6a56d8e:
 
     # lee "Many people believe that history is about analyzing and understanding the past."
-    lee ""
+    lee "Pewnie wielu z was uważa, że historia polega na analizie i zrozumieniu przeszłości."
 
 # game/v2/v2.rpy:1567
 translate polish nextsceneo_dd2e8650:
 
     # lee "But it's quite the contrary."
-    lee ""
+    lee "Ale jest wręcz przeciwnie."
 
 # game/v2/v2.rpy:1571
 translate polish nextsceneo_cc2072c5:
 
     # lee "History is looking to the future... but backwards."
-    lee ""
+    lee "Historia to patrzenie w przyszłość... ale wstecz."
 
 # game/v2/v2.rpy:1575
 translate polish nextsceneo_afc5bc9d:
 
     # imre "*Whispers* What is he talking about??"
-    imre ""
+    imre "*Szeptanie* O czym on gada??"
 
 # game/v2/v2.rpy:1580
 translate polish nextsceneo_9c2212ed:
 
     # u "*Whispers* I don't know."
-    u ""
+    u "*Szeptanie* Nie mam pojęcia."
 
 # game/v2/v2.rpy:1585
 translate polish nextsceneo_6d78d111:
 
     # lee "Over the course of this year, you're not just going to learn about history."
-    lee ""
+    lee "W ciągu tego roku nie tylko poznacie historię."
 
 # game/v2/v2.rpy:1587
 translate polish nextsceneo_c503f017:
 
     # lee "You're going to live history, immerse yourself within it and understand what life was truly like in the past."
-    lee ""
+    lee "Przeżyjecie historię, zanurzycie się w niej i zrozumiecie, jak naprawdę wyglądało życie w przeszłości."
 
 # game/v2/v2.rpy:1592
 translate polish nextsceneo_e22c93f3:
 
     # ca "Yo teach, we get that you love the past, but don't you think the museum wants its shoes back?"
-    ca ""
+    ca "Hej psorze, czaimy, że uwielbiasz przeszłość, ale nie sądzisz, że muzeum chce odzyskać swoje buty?"
 
 # game/v2/v2.rpy:1597
 translate polish nextsceneo_16ff9ca7:
 
     # "*Class laughing*"
-    ""
+    "*Śmiech na sali*"
 
 # game/v2/v2.rpy:1602
 translate polish nextsceneo_62f46205:
 
     # lee "What's your name, young man?"
-    lee ""
+    lee "Jak masz na imię, młody człowieku?"
 
 # game/v2/v2.rpy:1607
 translate polish nextsceneo_95d19fd6:
 
     # ca "It's Cameron, teach."
-    ca ""
+    ca "Cameron, psorze."
 
 # game/v2/v2.rpy:1612
 translate polish nextsceneo_f2ba7212:
 
     # lee "Mr. Cameron, if clothing is what gets you to pay attention in this class, then I suggest you dress up as a historical character for our next lesson."
-    lee ""
+    lee "Panie Cameron, jeśli tym, co zwraca twoją uwagę na tych zajęciach jest ubiór, proponuję, abyś na następne zajęcia przebrał się za postać historyczną."
 
 # game/v2/v2.rpy:1613
 translate polish nextsceneo_4b455ace:
 
     # lee "As a matter of fact, I insist you do."
-    lee ""
+    lee "Właściwie to nalegam, żebyś tak zrobił."
 
 # game/v2/v2.rpy:1618
 translate polish nextsceneo_53dd7c6c:
 
     # ca "Sure, but I'll steal the show."
-    ca ""
+    ca "Dobra, ale ściągne na siebie całą uwagę."
 
 # game/v2/v2.rpy:1623
 translate polish nextsceneo_d9fba3f7:
 
     # lee "Perhaps you're right. Everyone should be wearing historically accurate costumes for the next lecture."
-    lee ""
+    lee "Być może masz rację. W takim razie na następnych zajęciach wszyscy powinni mieć przebranie związane z historią."
 
 # game/v2/v2.rpy:1625
 translate polish nextsceneo_6b696c54:
 
     # "*Class confused*"
-    ""
+    "*Zdziwienie na sali*"
 
 # game/v2/v2.rpy:1627
 translate polish nextsceneo_0cd07133:
 
     # lee "Come without costume and you've earned your first fail."
-    lee ""
+    lee "Przyjdźcie bez kostiumu, a z pewnością oblejecie ten przedmiot."
 
 # game/v2/v2.rpy:1629
 translate polish nextsceneo_99016d7b:
 
     # lee "You've got Mr. Cameron to thank for that."
-    lee ""
+    lee "Podziękujcie za to Panu Cameronowi."
 
 # game/v2/v2.rpy:1662
 translate polish nextsceneo_c79f1d1b:
 
     # imre "I can't believe he's making us come in costume."
-    imre ""
+    imre "Nie mogę uwierzyć, że zmusza nas do przyjścia w kostiumach."
 
 # game/v2/v2.rpy:1667
 translate polish nextsceneo_0c080a35:
 
     # u "Yeah, I don't even have anything I could wear. That's so annoying."
-    u ""
+    u "Ja też, nie mam nawet niczego, co mógłbym ubrać. To takie denerwujące."
 
 # game/v2/v2.rpy:1669
 translate polish nextsceneo_f030f2ec:
 
     # u "Can we go to the mall later?"
-    u ""
+    u "Pójdziemy poźniej do centrum handlowego?"
 
 # game/v2/v2.rpy:1674
 translate polish nextsceneo_414d72ea:
 
     # imre "Sorry man, I heard the girls' volleyball team is playing and I'm not gonna miss that."
-    imre ""
+    imre "Wybacz stary, słyszałem, że dzisiaj gra dziewczęca drużyna siatkarska i nie ma opcji, że to przegapię."
 
 # game/v2/v2.rpy:1679
 translate polish nextsceneo_518e3ddb:
 
     # u "I didn't know you were into volleyball."
-    u ""
+    u "Nie wiedziałem, że interesujesz się siatkówką."
 
 # game/v2/v2.rpy:1684
 translate polish nextsceneo_9f78718a:
 
     # imre "Oh, I'm not."
-    imre ""
+    imre "Och, bo się nie interesuję."
 
 # game/v2/v2.rpy:1689
 translate polish nextsceneo_bd395da8:
 
     # u "Then why are you-"
-    u ""
+    u "Więc dlaczego-"
 
 # game/v2/v2.rpy:1691
 translate polish nextsceneo_fdbce207:
 
     # u "Oh..."
-    u ""
+    u "Aa..."
 
 # game/v2/v2.rpy:1696
 translate polish nextsceneo_b5efee6a:
 
     # imre "Hot girls in shorts getting sweaty? What more could I ask for?"
-    imre ""
+    imre "Spocone, seksowne dziewczyny w szortach? O co więcej mógłbym prosić?"
 
 # game/v2/v2.rpy:1701
 translate polish nextsceneo_b71da505:
 
     # u "Haha, you're impossible."
-    u ""
+    u "Haha, jesteś niemożliwy."
 
 # game/v2/v2.rpy:1706
 translate polish nextsceneo_e8b5efc6:
 
     # imre "I got another class now, I'll see you later."
-    imre ""
+    imre "Mam zaraz kolejne zajęcia, do zobaczenia później."
 
 # game/v2/v2.rpy:1711
 translate polish nextsceneo_ab5d9ca9:
 
     # u "(Great... I guess it was only a matter of time 'til I saw Emily.)"
-    u ""
+    u "(Świetnie... myślę, że spotkanie z Emily to była tylko kwestia czasu.)"
 
 # game/v2/v2.rpy:1716
 translate polish nextsceneo_785e8da7:
 
     # em "[name]?"
-    em ""
+    em "[name]?"
 
 # game/v2/v2.rpy:1721
 translate polish nextsceneo_a6ce608d:
 
     # em "Oh my god, what happened to you?"
-    em ""
+    em "O mój Boże, co ci się stało?"
 
 # game/v2/v2.rpy:1726
 translate polish nextsceneo_31a4b2c1:
 
     # no "Looks like he got beaten up."
-    no ""
+    no "Wygląda na to, że został pobity."
 
 # game/v2/v2.rpy:1732
 translate polish nextsceneo_ee9e9ff5:
 
     # u "I didn't-"
-    u ""
+    u "Ja nie-"
 
 # game/v2/v2.rpy:1737
 translate polish nextsceneo_b63527db:
 
     # no "Wait, you're the same kid that hit on me a few days ago."
-    no ""
+    no "Czekaj, jesteś tym dzieciakiem, który mnie podrywał kilka dni temu."
 
 # game/v2/v2.rpy:1742
 translate polish nextsceneo_99bd1ed9:
 
     # em "Charming."
-    em ""
+    em "Urocze."
 
 # game/v2/v2.rpy:1746
 translate polish nextsceneo_28849dd3:
 
     # u "First of all, I was just telling you that you're cute."
-    u ""
+    u "Po pierwsze, powiedziałem ci tylko, że jesteś słodka."
 
 # game/v2/v2.rpy:1748
 translate polish nextsceneo_e5214ea4:
 
     # u "Secondly, the guy who punched me came out of nowhere, it wasn't a fair fight."
-    u ""
+    u "Po drugie, koleś, który mnie uderzył, pojawił się znikąd, to nie była uczciwa walka."
 
 # game/v2/v2.rpy:1754
 translate polish nextsceneo_6682385f:
 
     # u "I- I didn't get beaten up, okay? A guy just punched me out of nowhere, it wasn't a fair fight."
-    u ""
+    u "Nie- nie zostałem pobity, jasne? Koleś po prostu pojawił się znikąd i mnie uderzył, to nie była uczciwa walka."
 
 # game/v2/v2.rpy:1759
 translate polish nextsceneo_eb29b934:
 
     # em "You know, your eye looks pretty swollen. You really need to get that checked out."
-    em ""
+    em "Twoje oko jest strasznie spuchnięte. Powinieneś pójść, żeby ktoś to obejrzał."
 
 # game/v2/v2.rpy:1764
 translate polish nextsceneo_6fab6ecc:
 
     # u "It's fine."
-    u ""
+    u "Nic mi nie jest."
 
 # game/v2/v2.rpy:1769
 translate polish nextsceneo_38842db1:
 
     # em "I'll come with you if you want."
-    em ""
+    em "Pójdę z tobą, jeśli chcesz."
 
 # game/v2/v2.rpy:1774
 translate polish nextsceneo_0038c3f0:
 
     # u "Emily, we're not-"
-    u ""
+    u "Emily, nie jesteśmy-"
 
 # game/v2/v2.rpy:1779
 translate polish nextsceneo_79913920:
 
     # no "Look, I'm sensing some weird energy between you two, so I'ma leave."
-    no ""
+    no "Słuchaj, wyczuwam między wami jakąś dziwną energię, więc idę."
 
 # game/v2/v2.rpy:1781
 translate polish nextsceneo_0fa411c5:
 
     # no "Bye Emily."
-    no ""
+    no "Pa Emily."
 
 # game/v2/v2.rpy:1786
 translate polish nextsceneo_377de940:
 
     # no "Bye weirdo."
-    no ""
+    no "Nara dziwaku."
 
 # game/v2/v2.rpy:1791
 translate polish nextsceneo_d1f7d7f9:
 
     # u "What? I didn't even-"
-    u ""
+    u "Co? Ja nawet nie-"
 
 # game/v2/v2.rpy:1793
 translate polish nextsceneo_62b194d4:
 
     # em "I'll see you later, Nora."
-    em ""
+    em "Zobaczymy się później, Nora."
 
 # game/v2/v2.rpy:1798
 translate polish nextsceneo_bba611ad:
 
     # em "Come on, let's-"
-    em ""
+    em "No dalej, idziemy-"
 
 # game/v2/v2.rpy:1803
 translate polish nextsceneo_24ff09d8:
 
     # u "Emily, we're not friends. You cheated on me."
-    u ""
+    u "Emily, nie jesteśmy przyjaciółmi. Zdradziłaś mnie."
 
 # game/v2/v2.rpy:1808
 translate polish nextsceneo_fd20340e:
 
     # em "[name], I know I fucked up. I'm really sorry, okay?"
-    em ""
+    em "[name], wiem, że zjebałam. Jest mi naprawdę przykro, dobrze?"
 
 # game/v2/v2.rpy:1810
 translate polish nextsceneo_575b7098:
 
     # em "We hit a rough patch and I was drunk and..."
-    em ""
+    em "Mieliśmy trudny okres i byłam pijana i..."
 
 # game/v2/v2.rpy:1812
 translate polish nextsceneo_a0ba8469:
 
     # em "I just miss us. Even if it's just as friends."
-    em ""
+    em "Po prostu tęsknię za nami. Nawet jeśli będziemy tylko przyjaciółmi."
 
 # game/v2/v2.rpy:1814
 translate polish nextsceneo_8607b0a7:
 
     # em "Can we please just hang out?"
-    em ""
+    em "Możemy po prostu spędzić trochę czasu razem?"
 
 # game/v2/v2.rpy:1824
 translate polish nextsceneo_662a2cea:
 
     # u "Fine, let's go then."
-    u ""
+    u "Dobra, chodźmy."
 
 # game/v2/v2.rpy:1829
 translate polish nextsceneo_baed0d4e:
 
     # em "Really? Where do you wanna go?"
-    em ""
+    em "Naprawdę? Gdzie chcesz iść?"
 
 # game/v2/v2.rpy:1834
 translate polish nextsceneo_19d7ccb8:
 
     # u "I thought we're going to the doctor's office? Or are you gonna tell me that your concern was merely an attempt to hang out with me?"
-    u ""
+    u "Myślałem, że mieliśmy iść do lekarza? Chyba, że chcesz mi powiedzieć, że twoja troska była tylko próbą spędzenia ze mną czasu?"
 
 # game/v2/v2.rpy:1839
 translate polish nextsceneo_03d5e79a:
 
     # em "Right, of course not. Let's go."
-    em ""
+    em "Racja, oczywiście, że nie. Chodźmy."
 
 # game/v2/v2.rpy:1851
 translate polish nextsceneo_b100c2df:
 
     # u "No Emily."
-    u ""
+    u "Nie Emily."
 
 # game/v2/v2.rpy:1856
 translate polish nextsceneo_de194e89:
 
     # u "I can't just forgive you like that. You don't know what you put me through."
-    u ""
+    u "Nie mogę ci tak po prostu wybaczyć. Nawet nie wiesz przez co przeszedłem z twojego powodu."
 
 # game/v2/v2.rpy:1861
 translate polish nextsceneo_512d53f3:
 
     # em "Oh..."
-    em ""
+    em "Och..."
 
 # game/v2/v2.rpy:1863
 translate polish nextsceneo_cc8c1e8a:
 
     # em "I'll go then..."
-    em ""
+    em "Lepiej już pójdę..."
 
 # game/v2/v2.rpy:1868
 translate polish nextsceneo_83e9361f:
 
     # u "Goodbye, Emily."
-    u ""
+    u "Żegnaj, Emily."
 
 # game/v2/v2.rpy:1887
 translate polish bo_ad_867d6873:
 
     # em "Sooo... did you text your new girlfriend that you're hanging out with your ex?"
-    em ""
+    em "Więc... napisałeś już do swojej nowej dziewczyny, że wychodzisz ze swoją byłą?"
 
 # game/v2/v2.rpy:1897
 translate polish bo_ad_912bf9be:
 
     # u "Yeah, of course I did. I tell her everything."
-    u ""
+    u "Tak, przecież to oczywiste. Mówię jej o wszystkim."
 
 # game/v2/v2.rpy:1903
 translate polish bo_ad_821b0bf4:
 
     # em "Oh... okay. That's- that's good. You should tell her stuff like this."
-    em ""
+    em "Och... ok. To- to dobrze. Powinieneś jej mówić takie rzeczy."
 
 # game/v2/v2.rpy:1909
 translate polish bo_ad_cc8c914a:
 
     # u "*Laughs* Emily, I'm kidding. I'm still single, I mean we only broke up a couple months ago."
-    u ""
+    u "*Śmieje się* Emily, żaruję. Nadal jestem singlem, to zaczy, zerwaliśmy zaledwie kilka miesięcy temu."
 
 # game/v2/v2.rpy:1915
 translate polish bo_ad_0650d652:
 
     # em "[name], you gotta stop messing with me, haha."
-    em ""
+    em "[name], musisz przestać się ze mną droczyć, haha."
 
 # game/v2/v2.rpy:1921
 translate polish bo_ad_5bba2ef7:
 
     # u "Oh come on, don't act like you didn't miss this."
-    u ""
+    u "Och, daj spokój, nie udawaj, że za tym nie tęskniłaś."
 
 # game/v2/v2.rpy:1927
 translate polish bo_ad_120a757f:
 
     # em "Maybe a little bit."
-    em ""
+    em "Może troszeczkę."
 
 # game/v2/v2.rpy:1936
 translate polish bo_ad_b9fed6b2:
 
     # u "Believe it or not, I'm still single."
-    u ""
+    u "Wierz lub nie, ale nadal jestem singlem."
 
 # game/v2/v2.rpy:1942
 translate polish bo_ad_799fe8d0:
 
     # u "I mean we only broke up a couple months ago."
-    u ""
+    u "To zaczy, zerwaliśmy zaledwie kilka miesięcy temu."
 
 # game/v2/v2.rpy:1948
 translate polish bo_ad_4d82ac42:
 
     # em "I guess you're right. I was just... you know, curious."
-    em ""
+    em "Chyba masz rację. Byłam tylko... no wiesz, ciekawa."
 
 # game/v2/v2.rpy:1956
 translate polish bp_bd_486ea320:
 
     # u "Hey, you remember the time you had your wisdom teeth pulled out and you looked like a hamster for 2 weeks straight?"
-    u ""
+    u "Ej, pamiętasz, jak wyrwałaś sobie zęby mądrości i przez 2 tygodnie wyglądałaś jak chomik?"
 
 # game/v2/v2.rpy:1962
 translate polish bp_bd_10706cd3:
 
     # em "Are you ever gonna stop bringing that up?"
-    em ""
+    em "Czy kiedyś przestaniesz o tym wspominać?"
 
 # game/v2/v2.rpy:1973
 translate polish bp_bd_57723b9c:
 
     # u "No way, you looked so adorable."
-    u ""
+    u "Nie ma mowy, wyglądałeś tak słodko."
 
 # game/v2/v2.rpy:1978
 translate polish bp_bd_9f281ce2:
 
     # em "What was adorable was how much you cared for me. I remember you bringing me a care package full of like a hundred different soups."
-    em ""
+    em "Słodkie było to, jak bardzo się o mnie troszczyłeś. Pamiętam, że dbałeś o mnie do tego stopnia, że ugotowałeś mi chyba sto różnych zup."
 
 # game/v2/v2.rpy:1980
 translate polish bp_bd_fa12b88a:
 
     # em "It was so thoughtful."
-    em ""
+    em "Byłeś taki troskliwy."
 
 # game/v2/v2.rpy:1989
 translate polish bp_bd_b6576c73:
 
     # u "It was sooo funny though."
-    u ""
+    u "To było bardzo zabawne."
 
 # game/v2/v2.rpy:1995
 translate polish bp_bd_78255f88:
 
     # em "You're the one to talk, your face is literally swollen up right now."
-    em ""
+    em "I kto to mówi? To twoja twarz jest teraz dosłownie cała spuchnięta."
 
 # game/v2/v2.rpy:2001
 translate polish bp_bd_4fc8d054:
 
     # u "It's not my whole face, it's just my eye."
-    u ""
+    u "Nie cała twarz, to tylko oko."
 
 # game/v2/v2.rpy:2003
 translate polish bp_bd_8745972f:
 
     # u "Plus, it looks badass."
-    u ""
+    u "Poza tym wyglądam na twardziela."
 
 # game/v2/v2.rpy:2009
 translate polish bp_bd_5c5b73f9:
 
     # em "Haha, I'm not sure who told you that."
-    em ""
+    em "Haha, jestem ciekawa, kto ci nagadał takich bzdur."
 
 # game/v2/v2.rpy:2020
 translate polish bq_bd_b2bcac73:
 
     # u "Shit, we gotta get off at this stop."
-    u ""
+    u "Kurde, musimy wysiąść na tym przystanku."
 
 # game/v2/v2.rpy:2029
 translate polish bq_bd_77d533cc:
 
     # u "Hey there, you accept walk-ins right?"
-    u ""
+    u "Hej, przyjmujecie pacjentów bez rejestracji, prawda?"
 
 # game/v2/v2.rpy:2031
 translate polish bq_bd_7e133080:
 
     # u "I need someone to look at my eye."
-    u ""
+    u "Potrzebuję, żeby ktoś obejrzał moje oko."
 
 # game/v2/v2.rpy:2036
 translate polish bq_bd_eb6699a4:
 
     # ben "Yeah, sure thing. Fill out these forms and then take a seat in the waiting room and I'll let you know when Dr. Ehrmantraut can slot you in."
-    ben ""
+    ben "Tak, jasne. Wypełnij te formularze, a następnie usiądź w poczekalni, a ja dam ci znać, kiedy dr Ehrmantraut będzie mogła cię przyjąć."
 
 # game/v2/v2.rpy:2041
 translate polish bq_bd_b822ede1:
 
     # em "Hey, I've seen you before, you went to school with my sister."
-    em ""
+    em "Hej, już cię kiedyś widziałam, chodziłeś do szkoły z moją siostrą."
 
 # game/v2/v2.rpy:2043
 translate polish bq_bd_65f217b4:
 
     # em "Benjamin, right?"
-    em ""
+    em "Benjamin, prawda"
 
 # game/v2/v2.rpy:2048
 translate polish bq_bd_1ce47e7b:
 
     # ben "Oh, I remember. You're Hannah's sister."
-    ben ""
+    ben "Och, pamiętam. Hannah to twoja siostra."
 
 # game/v2/v2.rpy:2053
 translate polish bq_bd_43ceef73:
 
     # em "Didn't you wanna become a lawyer?"
-    em ""
+    em "Czy przypadkiem nie chciałeś być wcześniej prawnikiem?"
 
 # game/v2/v2.rpy:2058
 translate polish bq_bd_6a1ac90c:
 
     # ben "I mean yeah, but technically - I didn't get into law school."
-    ben ""
+    ben "Tak, ale wyszło inaczej - nie dostałem się na prawo."
 
 # game/v2/v2.rpy:2063
 translate polish bq_bd_56bfd909:
 
     # ben "But this is actually a really good job, you know."
-    ben ""
+    ben "Ale tu mam naprawdę dobrą pracę."
 
 # game/v2/v2.rpy:2065
 translate polish bq_bd_5c90378d:
 
     # ben "It pays well. And I get benefits. Dental benefits."
-    ben ""
+    ben "Dobrze płacą. I mam różne korzyści. Darmowe usługi stomatologiczne."
 
 # game/v2/v2.rpy:2067
 translate polish bq_bd_4e2c3912:
 
     # ben "So really, dream job."
-    ben ""
+    ben "Więc w sumie to wmarzona praca."
 
 # game/v2/v2.rpy:2072
 translate polish bq_bd_77cd096f:
 
     # em "Well, I'm glad you found something you like."
-    em ""
+    em "Cóż, cieszę się, że znalazłeś coś, co lubisz."
 
 # game/v2/v2.rpy:2077
 translate polish bq_bd_6239ec8d:
 
     # em "Okay, I'm gonna go sit down in the waiting room while you fill out your forms."
-    em ""
+    em "Dobra, usiądę w poczekalni, a ty wypełnij te formularze."
 
 # game/v2/v2.rpy:2082
 translate polish bq_bd_c5a76bd8:
 
     # u "Cool, I'll be done in a second."
-    u ""
+    u "Spoko, za chwilę skończę."
 
 # game/v2/v2.rpy:2089
 translate polish bq_bd_942ae5fc:
 
     # ben "So uhhh, are you hitting that, or can a bro make a move?"
-    ben ""
+    ben "Więc ten eee, uderzasz do niej, czy ziomek może wykonać swój ruch?"
 
 # game/v2/v2.rpy:2094
 translate polish bq_bd_983a6c7c:
 
     # ben "You know, even if you are hitting that... I'm totally fine with like a dual type of arrangement."
-    ben ""
+    ben "Wiesz, nawet jeśli do niej uderzasz... nie mam żadnego problemu z otwartym związkiem."
 
 # game/v2/v2.rpy:2099
 translate polish bq_bd_be666bc9:
 
     # u "Dude... aren't you like 30 or something?"
-    u ""
+    u "Koleś... czy ty nie jesteś około 30 czy coś w tym stylu?"
 
 # game/v2/v2.rpy:2104
 translate polish bq_bd_0a03aa80:
 
     # ben "What? I'm 24."
-    ben ""
+    ben "Co? Mam 24 lata."
 
 # game/v2/v2.rpy:2118
 translate polish bq_bd_d2c46c7b:
 
     # u "Sure, knock yourself out, man. We're not an item."
-    u ""
+    u "Pewnie, nie krępuj się, stary. Między nami nic nie ma."
 
 # game/v2/v2.rpy:2123
 translate polish bq_bd_e5de44d4:
 
     # ben "Thanks, bro! I'll think of you when I'm doing her."
-    ben ""
+    ben "Dzięki, stary! Pomyślę o tobie, kiedy będę ją pukał."
 
 # game/v2/v2.rpy:2128
 translate polish bq_bd_7a9562a5:
 
     # u "Please don't..."
-    u ""
+    u "Proszę nie..."
 
 # game/v2/v2.rpy:2137
 translate polish bq_bd_1051b39e:
 
     # u "Just - just stay away from her, okay?"
-    u ""
+    u "Po prostu trzymaj się od niej z daleka, dobra?"
 
 # game/v2/v2.rpy:2142
 translate polish bq_bd_3afbede2:
 
     # ben "Fine, bro. Sorry for asking."
-    ben ""
+    ben "W porządku. Wybacz, że spytałem."
 
 # game/v2/v2.rpy:2148
 translate polish br_bd_69668e67:
 
     # em "All done with the forms?"
-    em ""
+    em "Wypełniłeś te formularze?"
 
 # game/v2/v2.rpy:2158
 translate polish br_bd_e38ea10b:
 
     # u "Yeah, but while I was doing it Benjamin asked me if he could make a move on you."
-    u ""
+    u "Tak, ale kiedy to robiłem, Benjamin zapytał mnie, czy może do ciebie uderzyć."
 
 # game/v2/v2.rpy:2163
 translate polish br_bd_a130a4a9:
 
     # em "Oh really, are you my guardian now?"
-    em ""
+    em "Naprawdę, teraz jesteś moim opiekunem?"
 
 # game/v2/v2.rpy:2167
 translate polish br_bd_2e2b8da5:
 
     # em "What did you say?"
-    em ""
+    em "I co mu powiedziałeś?"
 
 # game/v2/v2.rpy:2173
 translate polish br_bd_0b8e19de:
 
     # u "Uhm... I told him off."
-    u ""
+    u "Uhm... powiedziałem, żeby trzymał się od ciebie z daleka."
 
 # game/v2/v2.rpy:2175
 translate polish br_bd_ca4e838e:
 
     # u "You know, just to protect you from having to deal with a creep."
-    u ""
+    u "Wiesz, tylko po to, żeby chronić cię przed kontaktem z takim czubkiem."
 
 # game/v2/v2.rpy:2180
 translate polish br_bd_63edfa8d:
 
     # em "Oh, so you're \"protecting\" me now, huh?"
-    em ""
+    em "Och, więc teraz mnie \"chronisz\", co?"
 
 # game/v2/v2.rpy:2185
 translate polish br_bd_42156a9b:
 
     # u "Oh shut up, if you wanna give him your phone number and have the worst date of your life, you're free to do so."
-    u ""
+    u "Och zamknij się, jeśli chcesz mu dać swój numer i przeżyć najgorszą randkę w swoim życiu, droga wolna."
 
 # game/v2/v2.rpy:2190
 translate polish br_bd_7f95afe6:
 
     # em "Haha, I think I'm good."
-    em ""
+    em "Haha, myślę, że podziękuję."
 
 # game/v2/v2.rpy:2196
 translate polish br_bd_27459841:
 
     # u "I told him he should."
-    u ""
+    u "Powiedziałem mu, że powinien spróbować."
 
 # game/v2/v2.rpy:2198
 translate polish br_bd_bc513adc:
 
     # u "I mean there's no way you'd go for him anyways."
-    u ""
+    u "To znaczy, i tak wiem, że nie ma u ciebie szans."
 
 # game/v2/v2.rpy:2202
 translate polish br_bd_fb7ee5e1:
 
     # em "Haha, he is kinda cute."
-    em ""
+    em "Haha, jest całkiem uroczy."
 
 # game/v2/v2.rpy:2204
 translate polish br_bd_4174c731:
 
     # em "Plus he has a job."
-    em ""
+    em "Poza tym ma pracę."
 
 # game/v2/v2.rpy:2209
 translate polish br_bd_82a93bfc:
 
     # u "As a receptionist."
-    u ""
+    u "Jako recepcjonista."
 
 # game/v2/v2.rpy:2217
 translate polish br_bd_67e44856:
 
     # u "Yeah, I did. I guess now we gotta wait."
-    u ""
+    u "Tak, wypełniłem. Chyba teraz musimy poczekać."
 
 # game/v2/v2.rpy:2219
 translate polish br_bd_7599e584:
 
     # u "What did you think of Benjamin by the way?"
-    u ""
+    u "A tak przy okazji, co myślisz o Benjaminie?"
 
 # game/v2/v2.rpy:2224
 translate polish br_bd_6140f90b:
 
     # em "What do you mean?"
-    em ""
+    em "Co masz na myśli?"
 
 # game/v2/v2.rpy:2229
 translate polish br_bd_7e05f0f5:
 
     # u "You know, as a guy."
-    u ""
+    u "No wiesz, jako facecie."
 
 # game/v2/v2.rpy:2234
 translate polish br_bd_ee2db0a2:
 
     # em "I guess he's kinda cute, but also a bit weird."
-    em ""
+    em "Myślę, że jest całkiem uroczy, ale jest też trochę dziwny."
 
 # game/v2/v2.rpy:2239
 translate polish br_bd_084ab882:
 
     # em "Why are you asking?"
-    em ""
+    em "Dlaczego pytasz?"
 
 # game/v2/v2.rpy:2244
 translate polish br_bd_6fddef7b:
 
     # u "Just wondering."
-    u ""
+    u "Z ciekawości."
 
 # game/v2/v2.rpy:2251
 translate polish bs_bd_ea172d77:
 
     # ben "Dr. Ehrmantraut is now ready for you."
-    ben ""
+    ben "Dr Ehrmantraut może cię teraz przyjąć."
 
 # game/v2/v2.rpy:2256
 translate polish bs_bd_ef1dadc4:
 
     # em "I'll wait here, I saw a bunch of Vogues I wanna dig into."
-    em ""
+    em "Zaczekam tutaj, widziałam kilka Vouge'ów, w które chcę się zagłębić.'"
 
 # game/v2/v2.rpy:2261
-translate polish bs_bd_745f4da9:
+translate polish bs_bd_745f4da9:+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
     # ehr "Okay, looking at you I'm gonna assume you're here because of your black eye?"
-    ehr ""
+    ehr "Ok, patrząc na ciebie, zakładam, że jesteś tu z powodu podbitego oka?"
 
 # game/v2/v2.rpy:2266
 translate polish bs_bd_42487ce7:
@@ -4095,7 +4095,7 @@ translate polish strings:
 
     # game/v2/v2.rpy:1964
     old "It was so funny."
-    new "To było takie zabawne."
+    new "To było bardzo zabawne."
 
     # game/v2/v2.rpy:2106
     old "Sure, knock yourself out."
