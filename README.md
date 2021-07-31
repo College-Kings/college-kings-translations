@@ -257,7 +257,7 @@ v06.rpy | 11645/11645 | Bibs2 + TheProfMilos | [ ] | -
 v07.rpy | 18403/18403 | TheProfMilos | [ ] | -
 v08 files | 45/45 | TheProfMilos | [ ] | -
 v09 files | 42/42 | Kfar | [ ] | -
-v10 files | 15/41 | Kfar (<15) + ArkellCK (>16) | [ ] | -
+v10 files | 41/41 | Kfar (<15) + ArkellCK (16-30) + TheProfMilos (30-41)| [ ] | -
 
 
 
