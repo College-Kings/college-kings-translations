@@ -261,3 +261,23 @@ translate portuguese strings:
     # game/v9/scene31.rpy:58
     old "Don't correct Waiter"
     new "Não corrija a garçonete."
+# TODO: Translation updated at 2021-07-31 16:17
+
+# game/v9/scene31.rpy:32
+translate portuguese v9_sat_cafe_w_nora_92966436:
+
+    # no "Do you really have to ask? We spent a lot of time together when we first started dating, but now it's like I'm second to the Wolves. And I know I shouldn't be jealous, but in a way I am. Like, if you have all this passion, love and attention to give, can some come my way?"
+    no ""
+
+# game/v9/scene31.rpy:132
+translate portuguese v9_sat_cafe_w_nora_3bfd1c84_1:
+
+    # no "It's going great! We almost have everything we need. I'm thinking about seeing if we can get a bit more involvement from the houses. I mentioned it to Chris, but he only said \"we'll get to that later\". It means a lot to me that you've taken an interest."
+    no ""
+
+translate portuguese strings:
+
+    # game/v9/scene31.rpy:57
+    old "Don't Correct Waiter"
+    new ""
+

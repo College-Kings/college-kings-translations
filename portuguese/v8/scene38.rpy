@@ -168,3 +168,17 @@ translate portuguese seb_in_room_abd362e9:
     # se "This is gonna be so fuckin great, you'll see!"
     se "Isso vai ser muito foda, você vai ver."
 
+# TODO: Translation updated at 2021-07-31 16:17
+
+# game/v8/scene38.rpy:133
+translate portuguese seb_in_room_3f3a6bc0:
+
+    # se "Haha, I'm not surprised. Me and Marcus climb the hospital, from the ground to roof, no equipment, just pure balls and stupidity haha."
+    se ""
+
+# game/v8/scene38.rpy:134
+translate portuguese seb_in_room_437fec49:
+
+    # se "It's also a great workout bro. Really gets those muscles working and that blood pumping. You in?"
+    se ""
+

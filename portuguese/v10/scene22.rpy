@@ -1000,3 +1000,29 @@ translate portuguese strings:
     old "Be supportive"
     new "Ser empático"
 
+# TODO: Translation updated at 2021-07-31 16:17
+
+# game/v10/scene22.rpy:121
+translate portuguese v10_cafe_w_jenny_dc1410c4:
+
+    # u "Her kindness just gets in the way of her judgment."
+    u ""
+
+# game/v10/scene22.rpy:140
+translate portuguese v10_cafe_w_jenny_7d03d712:
+
+    # u "Well, Penelope told me a while ago that a friend of hers had some trouble and she wanted to do whatever she could to help her out."
+    u ""
+
+# game/v10/scene22.rpy:550
+translate portuguese v10_cafe_w_jenny_92486873:
+
+    # pe "Yeah well... it worked out because I did something. I sort of hacked into the school and made sure you got accepted."
+    pe ""
+
+# game/v10/scene22.rpy:639
+translate portuguese v10_cafe_w_jenny_d755d7f0:
+
+    # u "After all the kind stuff you've done, I'm sure some good karma should be headed your way. *Chuckles*"
+    u ""
+

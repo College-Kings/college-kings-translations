@@ -65,3 +65,23 @@ translate portuguese v10start_a1e599de:
 
     # u "(This ought to be a fucking show.)"
     u "(Isto vai ser um show do caralho)."
+# TODO: Translation updated at 2021-07-31 16:17
+
+# game/v10/scene1.rpy:39
+translate portuguese v10start_2f0eed6e:
+
+    # imre "I'll bash your fucking head in right now."
+    imre ""
+
+# game/v10/scene1.rpy:45
+translate portuguese v10start_a640ce6b:
+
+    # ry "You couldn't bash someone's head in if they gave you a fucking head bashing machine!"
+    ry ""
+
+# game/v10/scene1.rpy:63
+translate portuguese v10start_ba2f2598:
+
+    # se "Why the fuck would you wrestle him?! Go for a fucking punch if you mean it!"
+    se ""
+

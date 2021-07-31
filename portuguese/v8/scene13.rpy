@@ -676,3 +676,11 @@ translate portuguese strings:
     old "Thanks everyone!"
     new "Valeu galera!"
 
+# TODO: Translation updated at 2021-07-31 16:17
+
+# game/v8/scene13.rpy:179
+translate portuguese phn_chloe11_done_8eecb18c:
+
+    # u "(Oh, Chloe is here.)"
+    u ""
+

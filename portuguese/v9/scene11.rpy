@@ -277,3 +277,29 @@ translate portuguese strings:
     # game/v9/scene11.rpy:229
     old "West"
     new "Vamos ir para o Oeste."
+# TODO: Translation updated at 2021-07-31 16:17
+
+# game/v9/scene11.rpy:27
+translate portuguese v9_hc_demo_24689d7f:
+
+    # pe "*Deep voice* Hark, good sir, it is I, your King. This is my bride, your Queen."
+    pe ""
+
+# game/v9/scene11.rpy:135
+translate portuguese v9_hc_demo_norec_7d40f31a:
+
+    # pe "Well met, Sir [name], it is I, your King and my new bride."
+    pe ""
+
+# game/v9/scene11.rpy:205
+translate portuguese v9_hc_demo_riches_a1f9575f:
+
+    # u "Already making demands of my King's good nature, I see."
+    u ""
+
+# game/v9/scene11.rpy:289
+translate portuguese v9_hc_demo_cont3_1451a1fa:
+
+    # pe "Lovely, I'm whipped after a long sail. Ready to retire with your King, dear bride?"
+    pe ""
+

@@ -395,3 +395,17 @@ translate portuguese strings:
     # game/v10/scene14.rpy:206
     old "I don't know"
     new "Eu não sei."
+# TODO: Translation updated at 2021-07-31 16:17
+
+# game/v10/scene14.rpy:27
+translate portuguese v10_apes_samantha_d0d17564:
+
+    # sa "Hey hey!"
+    sa ""
+
+# game/v10/scene14.rpy:67
+translate portuguese v10_apes_samantha_5abedfb3:
+
+    # sa "*Laughs* Yeah, it's very subtle. But yeah, he's always been a hothead so it makes sense to me for a guy like him to fight and be in a frat like this, but you're not like him and yet you're in this frat too."
+    sa ""
+

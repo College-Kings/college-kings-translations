@@ -143,3 +143,11 @@ translate portuguese v9_warehouse_josh_e28aeeb6:
 
     # ki "Later!"
     ki "Até logo!"
+# TODO: Translation updated at 2021-07-31 16:17
+
+# game/v9/scene43.rpy:109
+translate portuguese v9_warehouse_josh_eb947913:
+
+    # jo "*WWE announcer Voice* Lovely, lovely ladies... and dudes, I'm your beloved announcer Josh AKA Mr. Have-A-Good-Time."
+    jo ""
+

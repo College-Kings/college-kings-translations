@@ -999,3 +999,311 @@ translate portuguese strings:
     old "Head home"
     new "Ir pra casa."
 
+# TODO: Translation updated at 2021-07-31 16:17
+
+# game/v9/scene16.rpy:331
+translate portuguese v9_emily_dorm_1f4cb310:
+
+    # u "Anyways, I should probably head home."
+    u ""
+
+# game/v9/scene16.rpy:434
+translate portuguese v9_emily_dorm_1f4cb310_1:
+
+    # u "Anyways, I should probably head home."
+    u ""
+
+# game/v9/scene16.rpy:536
+translate portuguese v9s16_emilyBlowjob_a1139689:
+
+    # u "Fuck, that's amazing."
+    u ""
+
+# game/v9/scene16.rpy:537
+translate portuguese v9s16_emilyBlowjob_47b043ad:
+
+    # em "Mhmmmm..."
+    em ""
+
+# game/v9/scene16.rpy:538
+translate portuguese v9s16_emilyBlowjob_6887d8ba:
+
+    # u "Moans* Ahhh... This is so good, go faster!"
+    u ""
+
+# game/v9/scene16.rpy:544
+translate portuguese v9s16_emilyBlowjob_8d78e67c:
+
+    # u "Oh wowwww!"
+    u ""
+
+# game/v9/scene16.rpy:545
+translate portuguese v9s16_emilyBlowjob_f6c1daed:
+
+    # em "*Suck* *Suck*"
+    em ""
+
+# game/v9/scene16.rpy:546
+translate portuguese v9s16_emilyBlowjob_643fb271:
+
+    # u "(I'm gonna blow if I don't do something.)"
+    u ""
+
+# game/v9/scene16.rpy:566
+translate portuguese v9s16_emilyBlowjob_84c913f8:
+
+    # em "Aww, I was enjoying that."
+    em ""
+
+# game/v9/scene16.rpy:571
+translate portuguese v9s16_emilyBlowjob_a259e7dd:
+
+    # u "So was I... way too much!"
+    u ""
+
+# game/v9/scene16.rpy:586
+translate portuguese v9s16_emilyBlowjob_10801874:
+
+    # em "Mmmm."
+    em ""
+
+# game/v9/scene16.rpy:596
+translate portuguese v9s16_emilyBlowjob_12a49c5d:
+
+    # em "I want you inside me. Now."
+    em ""
+
+# game/v9/scene16.rpy:601
+translate portuguese v9s16_emilyBlowjob_485369b5:
+
+    # u "You ready?"
+    u ""
+
+# game/v9/scene16.rpy:606
+translate portuguese v9s16_emilyBlowjob_ed243d65:
+
+    # em "YES!"
+    em ""
+
+# game/v9/scene16.rpy:617
+translate portuguese v9s16_emilyMissionary_7ead7949:
+
+    # em "Ahhhh!"
+    em ""
+
+# game/v9/scene16.rpy:623
+translate portuguese v9s16_emilyMissionary_a8155cd9:
+
+    # u "Mmmm. You're so wet."
+    u ""
+
+# game/v9/scene16.rpy:624
+translate portuguese v9s16_emilyMissionary_eb6dd491:
+
+    # em "*Moan* Ahhhhh you feel so good."
+    em ""
+
+# game/v9/scene16.rpy:630
+translate portuguese v9s16_emilyMissionary_5bf6ee4f:
+
+    # em "*Moans* Ahhhh keep going!"
+    em ""
+
+# game/v9/scene16.rpy:631
+translate portuguese v9s16_emilyMissionary_ab26321c:
+
+    # em "*Moans Louder* Oh god [name] you're so fucking goooood!!"
+    em ""
+
+# game/v9/scene16.rpy:632
+translate portuguese v9s16_emilyMissionary_47c91c6a:
+
+    # u "*Groans* Mhmmm fuck."
+    u ""
+
+# game/v9/scene16.rpy:642
+translate portuguese v9s16_emilyMissionary_c6b5935a:
+
+    # em "I wanna ride you."
+    em ""
+
+# game/v9/scene16.rpy:647
+translate portuguese v9s16_emilyMissionary_6015dc54:
+
+    # u "Please do."
+    u ""
+
+# game/v9/scene16.rpy:658
+translate portuguese v9s16_emilyCowgirl_25723303:
+
+    # em "*Moans* [name] I've missed your cock so much!"
+    em ""
+
+# game/v9/scene16.rpy:664
+translate portuguese v9s16_emilyCowgirl_435db962:
+
+    # u "*Groan* This feel so good."
+    u ""
+
+# game/v9/scene16.rpy:665
+translate portuguese v9s16_emilyCowgirl_2cb7743f:
+
+    # em "*Moans* Ahhhhhh..."
+    em ""
+
+# game/v9/scene16.rpy:666
+translate portuguese v9s16_emilyCowgirl_58c7aee8:
+
+    # em "Fuck me harder [name]!"
+    em ""
+
+# game/v9/scene16.rpy:672
+translate portuguese v9s16_emilyCowgirl_45620519:
+
+    # em "Fuuuuuuck!!"
+    em ""
+
+# game/v9/scene16.rpy:673
+translate portuguese v9s16_emilyCowgirl_41af3b50:
+
+    # em "Can I cum now? Please? God, it's so good."
+    em ""
+
+# game/v9/scene16.rpy:678
+translate portuguese v9s16_emilyCowgirl_224813f1:
+
+    # u "Not yet. I have an idea."
+    u ""
+
+# game/v9/scene16.rpy:683
+translate portuguese v9s16_emilyCowgirl_990b9655:
+
+    # em "Are you thinking what I'm thinking?"
+    em ""
+
+# game/v9/scene16.rpy:688
+translate portuguese v9s16_emilyCowgirl_378721ac:
+
+    # u "I sure hope so."
+    u ""
+
+# game/v9/scene16.rpy:698
+translate portuguese v9s16_emilyCowgirl_faa56308:
+
+    # u "Flip over and lay flat."
+    u ""
+
+# game/v9/scene16.rpy:703
+translate portuguese v9s16_emilyCowgirl_aaf0ba74:
+
+    # em "Like this?"
+    em ""
+
+# game/v9/scene16.rpy:705
+translate portuguese v9s16_emilyCowgirl_2ca9fab5:
+
+    # u "Perfect."
+    u ""
+
+# game/v9/scene16.rpy:721
+translate portuguese v9s16_emilyDoggy_e5a034a1:
+
+    # em "OH FUUUCK!!"
+    em ""
+
+# game/v9/scene16.rpy:727
+translate portuguese v9s16_emilyDoggy_ce9c66f6:
+
+    # u "Ahhhh."
+    u ""
+
+# game/v9/scene16.rpy:728
+translate portuguese v9s16_emilyDoggy_2f8cbcf8:
+
+    # em "Oh, wow. Oh my God."
+    em ""
+
+# game/v9/scene16.rpy:729
+translate portuguese v9s16_emilyDoggy_e0748244:
+
+    # u "You like it?"
+    u ""
+
+# game/v9/scene16.rpy:730
+translate portuguese v9s16_emilyDoggy_37ac908f:
+
+    # em "It feels so good. I'm gonna cum."
+    em ""
+
+# game/v9/scene16.rpy:736
+translate portuguese v9s16_emilyDoggy_1f16eef6:
+
+    # em "*Moans* Ohhh. Now. Now!"
+    em ""
+
+# game/v9/scene16.rpy:737
+translate portuguese v9s16_emilyDoggy_73119390:
+
+    # u "Cum for me!"
+    u ""
+
+# game/v9/scene16.rpy:738
+translate portuguese v9s16_emilyDoggy_7fb6b205:
+
+    # em "*Moans Louder* Ahhhh!!"
+    em ""
+
+# game/v9/scene16.rpy:760
+translate portuguese v9s16_emilyDoggy_41bb5fff:
+
+    # em "You've learned a few tricks, college boy."
+    em ""
+
+# game/v9/scene16.rpy:765
+translate portuguese v9s16_emilyDoggy_9206a76f:
+
+    # u "That thing you did with your mouth. I almost blew my load right away."
+    u ""
+
+# game/v9/scene16.rpy:770
+translate portuguese v9s16_emilyDoggy_465f3c68:
+
+    # em "I'll have to remember that for next time."
+    em ""
+
+# game/v9/scene16.rpy:777
+translate portuguese v9s16_emilyDoggy_43d10a56:
+
+    # u "Please do. Are you okay? I didn't hurt you, did I?"
+    u ""
+
+# game/v9/scene16.rpy:782
+translate portuguese v9s16_emilyDoggy_1e4ccc6d:
+
+    # em "No, I'm great. I can't believe I came that way. It was so intense."
+    em ""
+
+# game/v9/scene16.rpy:787
+translate portuguese v9s16_emilyDoggy_37571982:
+
+    # u "Well, if you ever want a repeat, I'm your man."
+    u ""
+
+# game/v9/scene16.rpy:792
+translate portuguese v9s16_emilyDoggy_c0336b17:
+
+    # em "You and your sex kill switch."
+    em ""
+
+# game/v9/scene16.rpy:797
+translate portuguese v9s16_emilyDoggy_3a8d5173:
+
+    # u "It was so good. You wore me out."
+    u ""
+
+translate portuguese strings:
+
+    # game/v9/scene16.rpy:323
+    old "Make a move on Emily"
+    new ""
+

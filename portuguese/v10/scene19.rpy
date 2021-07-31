@@ -128,3 +128,23 @@ translate portuguese strings:
     old "Don't make a joke"
     new "Não fazer piada"
 
+# TODO: Translation updated at 2021-07-31 16:17
+
+# game/v10/scene19.rpy:38
+translate portuguese v10s19_PhoneContinue_ce52b2d3:
+
+    # u "(Hmm, maybe I should invite Penelope too, otherwise it's just me and Jenny.)"
+    u ""
+
+# game/v10/scene19.rpy:66
+translate portuguese v10s19_PhoneContinue1_41376b52:
+
+    # u "(On the other hand, maybe there's benefits to meeting Jenny alone...)"
+    u ""
+
+# game/v10/scene19.rpy:112
+translate portuguese v10s19_PhoneContinue1_6510ef30:
+
+    # lee "Indeed it was, and now I should be headed home, it's my bedtime soon."
+    lee ""
+

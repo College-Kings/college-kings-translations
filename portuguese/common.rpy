@@ -1133,3 +1133,15 @@ translate portuguese strings:
     # renpy/common/_errorhandling.rpym:694
     old "Copies the errors.txt file to the clipboard as Markdown for Discord."
     new "Copia o arquivo errors.txt para a área de transferência como Markdown para o Discord."
+# TODO: Translation updated at 2021-07-31 16:17
+
+translate portuguese strings:
+
+    # renpy/common/00preferences.rpy:480
+    old "renderer menu"
+    new ""
+
+    # renpy/common/00preferences.rpy:483
+    old "accessibility menu"
+    new ""
+

@@ -409,3 +409,11 @@ translate portuguese strings:
     # game/v10/scene25a.rpy:237
     old "Eagle"
     new "Uma Águia;"
+# TODO: Translation updated at 2021-07-31 16:17
+
+# game/v10/scene25a.rpy:263
+translate portuguese v10_sam_kitchen_467d994a:
+
+    # sa "*Drunk* Cause you like to hang out, like right now, we're hanging out. That means I'm a bunny too."
+    sa ""
+

@@ -234,3 +234,11 @@ translate portuguese walk_to_dean_6fc6551d:
     # u "(Holy shit, I did it! Now I gotta call Penelope when I get back.)"
     u "(Puta merda, eu consegui! Agora eu tenho que ligar pra Penelope.)"
 
+# TODO: Translation updated at 2021-07-31 16:17
+
+# game/v8/Scene21.rpy:160
+translate portuguese walk_to_dean_5df5cafc:
+
+    # de "However... it takes a special kind of friend and man to put your neck on the line the way you are doing now. I like that. In fact, that's what makes a person a good one."
+    de ""
+

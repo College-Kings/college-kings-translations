@@ -967,3 +967,485 @@ translate portuguese strings:
     # game/v10/scene17.rpy:776
     old "Don't defend them"
     new "Ficar quieto, aceitando."
+# TODO: Translation updated at 2021-07-31 16:17
+
+# game/v10/scene17.rpy:28
+translate portuguese v10_aubrey_house_31d4ef7b:
+
+    # u "Well... I may have one or two ideas on what could be done once we're actually at your place."
+    u ""
+
+# game/v10/scene17.rpy:43
+translate portuguese v10_aubrey_house_bcdb6278:
+
+    # au "*Chuckles* Alright, you got me excited there..."
+    au ""
+
+# game/v10/scene17.rpy:59
+translate portuguese v10_aubrey_house_2f53c0a8:
+
+    # u "*Chuckles* We'll see how the walk goes."
+    u ""
+
+# game/v10/scene17.rpy:85
+translate portuguese v10_aubrey_house_ba6c354b:
+
+    # au "It kinda was. Usually it's really quiet around this time, but all of the sudden it was packed."
+    au ""
+
+# game/v10/scene17.rpy:109
+translate portuguese v10_aubrey_house_f2e8971a:
+
+    # au "That's exactly what I told her. It's not my fault your boyfriend has to stray cause you can't please him in bed... *Laughs*"
+    au ""
+
+# game/v10/scene17.rpy:114
+translate portuguese v10_aubrey_house_bcaf0ca6:
+
+    # u "Have you always been so uhm... exciting, adventurous... whatever you wanna call it?"
+    u ""
+
+# game/v10/scene17.rpy:134
+translate portuguese v10_aubrey_house_6f5234b6:
+
+    # u "What? You're saying you weren't always this hot?"
+    u ""
+
+# game/v10/scene17.rpy:172
+translate portuguese v10_aubrey_house_8289c597:
+
+    # au "Honestly I think it's mostly due to my older sister."
+    au ""
+
+# game/v10/scene17.rpy:221
+translate portuguese v10_aubrey_house_238e559f:
+
+    # u "How's that going for you?"
+    u ""
+
+# game/v10/scene17.rpy:227
+translate portuguese v10_aubrey_house_7d9f410b:
+
+    # au "Pretty good, I'd say we have a lot of fun, wouldn't you?"
+    au ""
+
+# game/v10/scene17.rpy:246
+translate portuguese v10_aubrey_house_caface0b:
+
+    # u "So your sister... is she like really into parties or what's her deal?"
+    u ""
+
+# game/v10/scene17.rpy:251
+translate portuguese v10_aubrey_house_1f194030:
+
+    # au "*Laughs* I think that's enough about my family."
+    au ""
+
+# game/v10/scene17.rpy:403
+translate portuguese v10s17_aubreyBlowjob_64eab57f:
+
+    # u "Holy shit, this is amazing!"
+    u ""
+
+# game/v10/scene17.rpy:405
+translate portuguese v10s17_aubreyBlowjob_3d1e4eb1:
+
+    # u "You really know what you're doing."
+    u ""
+
+# game/v10/scene17.rpy:411
+translate portuguese v10s17_aubreyBlowjob_bdf33ad0:
+
+    # u "(Damn, she's good!)"
+    u ""
+
+# game/v10/scene17.rpy:413
+translate portuguese v10s17_aubreyBlowjob_911ee71d:
+
+    # u "Fuck, Aubrey!"
+    u ""
+
+# game/v10/scene17.rpy:419
+translate portuguese v10s17_aubreyBlowjob_2c483de5:
+
+    # u "Oh fuck!"
+    u ""
+
+# game/v10/scene17.rpy:424
+translate portuguese v10s17_aubreyBlowjob_5af7b6e5:
+
+    # u "Mhmmmm..."
+    u ""
+
+# game/v10/scene17.rpy:425
+translate portuguese v10s17_aubreyBlowjob_b20f9a55:
+
+    # u "That's fucking amazing."
+    u ""
+
+# game/v10/scene17.rpy:432
+translate portuguese v10s17_aubreyCowgirl_ee7c99c7:
+
+    # au "We're not finished yet!"
+    au ""
+
+# game/v10/scene17.rpy:434
+translate portuguese v10s17_aubreyCowgirl_a2ba8d61:
+
+    # au "Oh my God it's BIG!"
+    au ""
+
+# game/v10/scene17.rpy:440
+translate portuguese v10s17_aubreyCowgirl_aa368576:
+
+    # u "Damn this feels good!"
+    u ""
+
+# game/v10/scene17.rpy:442
+translate portuguese v10s17_aubreyCowgirl_27ebb48e:
+
+    # au "*Moaning*"
+    au ""
+
+# game/v10/scene17.rpy:449
+translate portuguese v10s17_aubreyStanding_a76a04fc:
+
+    # u "My turn!"
+    u ""
+
+# game/v10/scene17.rpy:451
+translate portuguese v10s17_aubreyStanding_10ada700:
+
+    # au "OH MY GOD!"
+    au ""
+
+# game/v10/scene17.rpy:457
+translate portuguese v10s17_aubreyStanding_8e5fcf1f:
+
+    # au "Faster, [name]!"
+    au ""
+
+# game/v10/scene17.rpy:459
+translate portuguese v10s17_aubreyStanding_27ebb48e:
+
+    # au "*Moaning*"
+    au ""
+
+# game/v10/scene17.rpy:465
+translate portuguese v10s17_aubreyStanding_9c8e57e7:
+
+    # au "*Groans* Mhmmmmm."
+    au ""
+
+# game/v10/scene17.rpy:467
+translate portuguese v10s17_aubreyStanding_fb1f3793:
+
+    # au "Fuuuuuuck!"
+    au ""
+
+# game/v10/scene17.rpy:473
+translate portuguese v10s17_aubreyStanding_5b7ee4a7:
+
+    # au "This feel so good!"
+    au ""
+
+# game/v10/scene17.rpy:479
+translate portuguese v10s17_aubreyStanding_a5586883:
+
+    # u "Fuck, I'm gonna cum!"
+    u ""
+
+# game/v10/scene17.rpy:485
+translate portuguese v10s17_aubreyStanding_bdf1804f:
+
+    # au "Yes [name], cum on my face!"
+    au ""
+
+# game/v10/scene17.rpy:487
+translate portuguese v10s17_aubreyStanding_fcff8c57:
+
+    # au "*Laughs* And scene."
+    au ""
+
+# game/v10/scene17.rpy:499
+translate portuguese v10s17_aubreyStanding_b41762cb:
+
+    # au "Now get out of here while I clean up!"
+    au ""
+
+# game/v10/scene17.rpy:504
+translate portuguese v10s17_aubreyStanding_6a0c8740:
+
+    # u "(What the fuck!)"
+    u ""
+
+# game/v10/scene17.rpy:509
+translate portuguese v10s17_aubreyStanding_e6139509:
+
+    # u "(Oh shit, ughhhh...)"
+    u ""
+
+# game/v10/scene17.rpy:515
+translate portuguese v10s17_aubreyStanding_80dfe053:
+
+    # u "Nora, it's not what it-"
+    u ""
+
+# game/v10/scene17.rpy:520
+translate portuguese v10s17_aubreyStanding_a2307bfc:
+
+    # no "What the fuck are you doing naked in our hallway!?"
+    no ""
+
+# game/v10/scene17.rpy:527
+translate portuguese v10s17_aubreyStanding_89498c45:
+
+    # u "Look uhm, I'm so sorry."
+    u ""
+
+# game/v10/scene17.rpy:532
+translate portuguese v10s17_aubreyStanding_4483f110:
+
+    # no "I don't even want to know, just put some clothes on."
+    no ""
+
+# game/v10/scene17.rpy:537
+translate portuguese v10s17_aubreyStanding_11222dd8:
+
+    # u "(Yup. Classic day in my life.) *Chuckles*"
+    u ""
+
+# game/v10/scene17.rpy:546
+translate portuguese v10s17_aubreyStanding_76a6e8d4:
+
+    # u "The real question is why are you still clothed?"
+    u ""
+
+# game/v10/scene17.rpy:551
+translate portuguese v10s17_aubreyStanding_e01de9a4:
+
+    # no "You're not funny. Just... ugh."
+    no ""
+
+# game/v10/scene17.rpy:561
+translate portuguese v10s17_aubreyStanding_f0ea7460:
+
+    # au "All cleaned up!!"
+    au ""
+
+# game/v10/scene17.rpy:566
+translate portuguese v10s17_aubreyStanding_14f9d65c:
+
+    # u "*Laughs* You won't believe what just happened!"
+    u ""
+
+# game/v10/scene17.rpy:574
+translate portuguese v10s17_aubreyStanding_daa90663:
+
+    # u "Can I come watch?"
+    u ""
+
+# game/v10/scene17.rpy:579
+translate portuguese v10s17_aubreyStanding_f7df818c:
+
+    # au "*Laughs* Maybe next time."
+    au ""
+
+# game/v10/scene17.rpy:581
+translate portuguese v10s17_aubreyStanding_38c69228:
+
+    # au "I should really go shopping. I want some more cute gym sets."
+    au ""
+
+# game/v10/scene17.rpy:586
+translate portuguese v10s17_aubreyStanding_d4e49f18:
+
+    # u "Are you hinting at good gift ideas?"
+    u ""
+
+# game/v10/scene17.rpy:591
+translate portuguese v10s17_aubreyStanding_43ccdc81:
+
+    # au "Who me? I would never. *Laughs*"
+    au ""
+
+# game/v10/scene17.rpy:596
+translate portuguese v10s17_aubreyStanding_f92ea22f:
+
+    # u "Haha, what's your favorite brand?"
+    u ""
+
+# game/v10/scene17.rpy:601
+translate portuguese v10s17_aubreyStanding_e25e135d:
+
+    # au "I really love Lew's, they always fit me the best."
+    au ""
+
+# game/v10/scene17.rpy:606
+translate portuguese v10s17_aubreyStanding_add8e854:
+
+    # u "Isn't Lew's the expensive designer brand?"
+    u ""
+
+# game/v10/scene17.rpy:611
+translate portuguese v10s17_aubreyStanding_eb510c0c:
+
+    # au "Hey you asked what I liked, not what I can afford."
+    au ""
+
+# game/v10/scene17.rpy:616
+translate portuguese v10s17_aubreyStanding_aeab3c2a:
+
+    # u "*Laughs* True."
+    u ""
+
+# game/v10/scene17.rpy:624
+translate portuguese v10s17_aubreyStanding_d897c21e:
+
+    # u "Alright, I'll wait out here."
+    u ""
+
+# game/v10/scene17.rpy:630
+translate portuguese v10s17_aubreyStanding_732702e0:
+
+    # au "Surprised you're fine not watching, even though you know I'm completely naked behind this door. Someone's being a gentleman all of a sudden."
+    au ""
+
+# game/v10/scene17.rpy:635
+translate portuguese v10s17_aubreyStanding_bd767f00:
+
+    # u "You gotta strike the right balance. Can't be a player 24/7."
+    u ""
+
+# game/v10/scene17.rpy:640
+translate portuguese v10s17_aubreyStanding_6b01b5e1:
+
+    # au "*Laughs* Too bad, these poses sure would make for some nice views."
+    au ""
+
+# game/v10/scene17.rpy:645
+translate portuguese v10s17_aubreyStanding_29b11336:
+
+    # u "Now you're just teasing me."
+    u ""
+
+# game/v10/scene17.rpy:650
+translate portuguese v10s17_aubreyStanding_9bd37bc8:
+
+    # au "Tease? I don't know what you're talking about."
+    au ""
+
+# game/v10/scene17.rpy:655
+translate portuguese v10s17_aubreyStanding_a74175b3:
+
+    # u "Sure you don't."
+    u ""
+
+# game/v10/scene17.rpy:661
+translate portuguese v10s17_aubreyStanding_38c69228_1:
+
+    # au "I should really go shopping. I want some more cute gym sets."
+    au ""
+
+# game/v10/scene17.rpy:666
+translate portuguese v10s17_aubreyStanding_d4e49f18_1:
+
+    # u "Are you hinting at good gift ideas?"
+    u ""
+
+# game/v10/scene17.rpy:671
+translate portuguese v10s17_aubreyStanding_43ccdc81_1:
+
+    # au "Who me? I would never. *Laughs*"
+    au ""
+
+# game/v10/scene17.rpy:676
+translate portuguese v10s17_aubreyStanding_f92ea22f_1:
+
+    # u "Haha, what's your favorite brand?"
+    u ""
+
+# game/v10/scene17.rpy:681
+translate portuguese v10s17_aubreyStanding_e25e135d_1:
+
+    # au "I really love Lew's, they always fit me the best."
+    au ""
+
+# game/v10/scene17.rpy:686
+translate portuguese v10s17_aubreyStanding_add8e854_1:
+
+    # u "Isn't Lew's the expensive designer brand?"
+    u ""
+
+# game/v10/scene17.rpy:691
+translate portuguese v10s17_aubreyStanding_eb510c0c_1:
+
+    # au "Hey you asked what I liked, not what I can afford."
+    au ""
+
+# game/v10/scene17.rpy:696
+translate portuguese v10s17_aubreyStanding_aeab3c2a_1:
+
+    # u "*Laughs* True."
+    u ""
+
+# game/v10/scene17.rpy:707
+translate portuguese v10s17_aubreyStanding_010ff285:
+
+    # u "Damn, are those Lew's right there."
+    u ""
+
+# game/v10/scene17.rpy:712
+translate portuguese v10s17_aubreyStanding_af34d79d:
+
+    # au "*Laughs* They might be."
+    au ""
+
+# game/v10/scene17.rpy:718
+translate portuguese v10s17_aubreyStanding_7283b5bb:
+
+    # u "Took you long enough."
+    u ""
+
+# game/v10/scene17.rpy:723
+translate portuguese v10s17_aubreyStanding_dc65d7eb:
+
+    # au "Oh shush."
+    au ""
+
+# game/v10/scene17.rpy:728
+translate portuguese v10s17_aubreyStanding_7b0efd81:
+
+    # au "Let's go to my room."
+    au ""
+
+# game/v10/scene17.rpy:741
+translate portuguese v10_aubrey_room_676e508c:
+
+    # u "It's kinda unfair... you guys have a way nicer house than we do."
+    u ""
+
+# game/v10/scene17.rpy:756
+translate portuguese v10_aubrey_room_14721e3e:
+
+    # au "*Smiles* My mom and my sister were both in the Chicks. So it's kind of a family tradition."
+    au ""
+
+# game/v10/scene17.rpy:761
+translate portuguese v10_aubrey_room_c79694da:
+
+    # u "That's pretty impressive, I didn't even know you guys were around that long. Since you're VP, I assume you quite enjoy being one?"
+    u ""
+
+# game/v10/scene17.rpy:793
+translate portuguese v10_aubrey_room_ab560757:
+
+    # au "Haha, okay okay. I'm just pulling their leg a bit."
+    au ""
+
+# game/v10/scene17.rpy:827
+translate portuguese v10_aubrey_room_b0121023:
+
+    # u "Haha true. Anyways I'm probably gonna head off now, I still got stuff to do, you know? *Laughs*"
+    u ""
+

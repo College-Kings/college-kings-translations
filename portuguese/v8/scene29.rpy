@@ -1078,3 +1078,11 @@ translate portuguese strings:
     old "Reject her advances"
     new "Rejeitar a oferta"
 
+# TODO: Translation updated at 2021-07-31 16:17
+
+# game/v8/scene29.rpy:149
+translate portuguese after_drugs_db33d2f9:
+
+    # u "He's sleeping at the moment, Amber, and I..."
+    u ""
+

@@ -96,3 +96,11 @@ translate portuguese strings:
     old "Did you buy me anything?"
     new "Você comprou algo pra mim?"
 
+# TODO: Translation updated at 2021-07-31 16:17
+
+translate portuguese strings:
+
+    # game/v8/Scene16.rpy:8
+    old "Took a lot of work but Homecoming looks great"
+    new ""
+

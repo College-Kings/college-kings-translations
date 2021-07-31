@@ -546,3 +546,11 @@ translate portuguese strings:
     old "Admit you don't know"
     new "Admitir que não sabe"
 
+# TODO: Translation updated at 2021-07-31 16:17
+
+# game/v8/scene8.rpy:120
+translate portuguese prot_w_au_wing_3468a7ad:
+
+    # aut "That's good. It's nice to know people who are knowledgeable in politics and the issues we still face in society everyday."
+    aut ""
+

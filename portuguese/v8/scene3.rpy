@@ -656,3 +656,317 @@ translate portuguese v8s3_nsfwSkipLabel1_9d30626e:
     # ri "Hit me up when you're free. Byeee."
     ri ""
 
+# TODO: Translation updated at 2021-07-31 16:17
+
+# game/v8/scene3.rpy:130
+translate portuguese v8s3_rileyCowgirl_eda8b360:
+
+    # ri "Mmmm..."
+    ri ""
+
+# game/v8/scene3.rpy:131
+translate portuguese v8s3_rileyCowgirl_86747027:
+
+    # u "(She's so wet, she slipped right through.)"
+    u ""
+
+# game/v8/scene3.rpy:137
+translate portuguese v8s3_rileyCowgirl_172d2077:
+
+    # ri "*Moans lightly*"
+    ri ""
+
+# game/v8/scene3.rpy:138
+translate portuguese v8s3_rileyCowgirl_73873b8e:
+
+    # ri "[name]... you feel so good!"
+    ri ""
+
+# game/v8/scene3.rpy:143
+translate portuguese v8s3_rileyCowgirl_87175e70:
+
+    # u "(Oh, she's starting to pick up the pace.)"
+    u ""
+
+# game/v8/scene3.rpy:144
+translate portuguese v8s3_rileyCowgirl_d839211b:
+
+    # ri "Oh yes!"
+    ri ""
+
+# game/v8/scene3.rpy:150
+translate portuguese v8s3_rileyCowgirl_5b185690:
+
+    # u "Ahh! You're so hot, Riley!"
+    u ""
+
+# game/v8/scene3.rpy:152
+translate portuguese v8s3_rileyCowgirl_d5f0f25d:
+
+    # ri "You want me to go faster?"
+    ri ""
+
+# game/v8/scene3.rpy:153
+translate portuguese v8s3_rileyCowgirl_8a29721f:
+
+    # u "If you can, yeah."
+    u ""
+
+# game/v8/scene3.rpy:159
+translate portuguese v8s3_rileyCowgirl_9965325c:
+
+    # u "(She's trying, but hasn't actually sped up much.)"
+    u ""
+
+# game/v8/scene3.rpy:160
+translate portuguese v8s3_rileyCowgirl_d30e26f0:
+
+    # ri "[name]... Let's change up."
+    ri ""
+
+# game/v8/scene3.rpy:161
+translate portuguese v8s3_rileyCowgirl_c9ff1539:
+
+    # ri "*Moans* I want you to fuck me from behind."
+    ri ""
+
+# game/v8/scene3.rpy:167
+translate portuguese v8s3_rileyLiftDoggy_76fd10b4:
+
+    # ri "Well, what are you waiting for?"
+    ri ""
+
+# game/v8/scene3.rpy:172
+translate portuguese v8s3_rileyLiftDoggy_4b82e33b:
+
+    # ri "Oh God! Yes!"
+    ri ""
+
+# game/v8/scene3.rpy:177
+translate portuguese v8s3_rileyLiftDoggy_4e02250a:
+
+    # u "Ahh fuck!"
+    u ""
+
+# game/v8/scene3.rpy:178
+translate portuguese v8s3_rileyLiftDoggy_51d3990d:
+
+    # ri "*Moans* Harder!"
+    ri ""
+
+# game/v8/scene3.rpy:183
+translate portuguese v8s3_rileyLiftDoggy_6676b031:
+
+    # u "Hngh!"
+    u ""
+
+# game/v8/scene3.rpy:184
+translate portuguese v8s3_rileyLiftDoggy_b4b1ecd9:
+
+    # ri "Fuck yes! Just like that!"
+    ri ""
+
+# game/v8/scene3.rpy:189
+translate portuguese v8s3_rileyLiftDoggy_91c5f429:
+
+    # ri "*Moans loudly*"
+    ri ""
+
+# game/v8/scene3.rpy:190
+translate portuguese v8s3_rileyLiftDoggy_5c4fc619:
+
+    # ri "Harder! Show me your... *moans*{w} best."
+    ri ""
+
+# game/v8/scene3.rpy:191
+translate portuguese v8s3_rileyLiftDoggy_1602ef5e:
+
+    # u "Ahh! Get your hands here."
+    u ""
+
+# game/v8/scene3.rpy:197
+translate portuguese v8s3_rileyDoggy_0433e828:
+
+    # u "You like that?"
+    u ""
+
+# game/v8/scene3.rpy:198
+translate portuguese v8s3_rileyDoggy_46b8446f:
+
+    # ri "Yes! Yes! God yes!"
+    ri ""
+
+# game/v8/scene3.rpy:200
+translate portuguese v8s3_rileyDoggy_f0069fd8:
+
+    # ri "Oh God baby, you feel so... *moans*"
+    ri ""
+
+# game/v8/scene3.rpy:201
+translate portuguese v8s3_rileyDoggy_7b2c2964:
+
+    # ri "...fucking good!!!"
+    ri ""
+
+# game/v8/scene3.rpy:202
+translate portuguese v8s3_rileyDoggy_eb9e57b9:
+
+    # u "It's about to feel better now."
+    u ""
+
+# game/v8/scene3.rpy:207
+translate portuguese v8s3_rileyDoggy_2cab7c6e:
+
+    # ri "Yes! Yes! Don't stop!"
+    ri ""
+
+# game/v8/scene3.rpy:209
+translate portuguese v8s3_rileyDoggy_831702b6:
+
+    # ri "[name]... Fuck! I'm about to... *moans*"
+    ri ""
+
+# game/v8/scene3.rpy:210
+translate portuguese v8s3_rileyDoggy_e8b71f2f:
+
+    # u "Ahh! I'm also close. Fuck!"
+    u ""
+
+# game/v8/scene3.rpy:211
+translate portuguese v8s3_rileyDoggy_c9e65db6:
+
+    # ri "*Moans really loud*" with hpunch
+    ri "" with hpunch
+
+# game/v8/scene3.rpy:212
+translate portuguese v8s3_rileyDoggy_afde7175:
+
+    # u "Did you-"
+    u ""
+
+# game/v8/scene3.rpy:213
+translate portuguese v8s3_rileyDoggy_ee532d24:
+
+    # ri "Yes! *moans*"
+    ri ""
+
+# game/v8/scene3.rpy:215
+translate portuguese v8s3_rileyDoggy_be19ca7b:
+
+    # ri "Cum in me. I want it.{w} Now!!!"
+    ri ""
+
+# game/v8/scene3.rpy:216
+translate portuguese v8s3_rileyDoggy_f15cadce:
+
+    # u "You sure?"
+    u ""
+
+# game/v8/scene3.rpy:217
+translate portuguese v8s3_rileyDoggy_7806a7b4:
+
+    # ri "Yes, I'm on the pill."
+    ri ""
+
+# game/v8/scene3.rpy:219
+translate portuguese v8s3_rileyDoggy_ae1b3cb7:
+
+    # u "Ah yes! Ahhh fuck!" with hpunch
+    u "" with hpunch
+
+# game/v8/scene3.rpy:227
+translate portuguese v8s3_rileyDoggy_65df360a:
+
+    # ri "Mmmmm!"
+    ri ""
+
+# game/v8/scene3.rpy:237
+translate portuguese v8s3_rileyDoggy_4d3ab0a5:
+
+    # ri "Fuck me. That was so good!"
+    ri ""
+
+# game/v8/scene3.rpy:245
+translate portuguese v8s3_rileyDoggy_489878ad:
+
+    # u "Agreed."
+    u ""
+
+# game/v8/scene3.rpy:249
+translate portuguese v8s3_rileyDoggy_6da31428:
+
+    # ri "I haven't had such an orgasm in like... ever!"
+    ri ""
+
+# game/v8/scene3.rpy:253
+translate portuguese v8s3_rileyDoggy_366fc8d3:
+
+    # u "Haha, glad to be of service!"
+    u ""
+
+# game/v8/scene3.rpy:254
+translate portuguese v8s3_rileyDoggy_2057c186:
+
+    # ri "*Chuckles*"
+    ri ""
+
+# game/v8/scene3.rpy:264
+translate portuguese v8s3_rileyDoggy_b84e9fc9:
+
+    # u "By the way, where's your roommate?"
+    u ""
+
+# game/v8/scene3.rpy:268
+translate portuguese v8s3_rileyDoggy_8793c7f5:
+
+    # ri "She isn't gonna be back until noon tomorrow."
+    ri ""
+
+# game/v8/scene3.rpy:273
+translate portuguese v8s3_rileyDoggy_e3196af1:
+
+    # ri "Which is why you're gonna sleep here this time *Chuckles*"
+    ri ""
+
+# game/v8/scene3.rpy:278
+translate portuguese v8s3_rileyDoggy_3f255ba7:
+
+    # ri "Which is why I wish you stay here until the morning."
+    ri ""
+
+# game/v8/scene3.rpy:282
+translate portuguese v8s3_rileyDoggy_c7436fb2:
+
+    # u "Why? You wanna go another round after waking up?"
+    u ""
+
+# game/v8/scene3.rpy:286
+translate portuguese v8s3_rileyDoggy_e1a37bce:
+
+    # ri "Haha, I didn't mean that, but we'll see."
+    ri ""
+
+# game/v8/scene3.rpy:290
+translate portuguese v8s3_rileyDoggy_f1d8ec86:
+
+    # u "Mhmm. You tired?"
+    u ""
+
+# game/v8/scene3.rpy:294
+translate portuguese v8s3_rileyDoggy_33c6856e:
+
+    # ri "Very."
+    ri ""
+
+# game/v8/scene3.rpy:298
+translate portuguese v8s3_rileyDoggy_4960e549:
+
+    # u "Get some rest then."
+    u ""
+
+# game/v8/scene3.rpy:302
+translate portuguese v8s3_rileyDoggy_9c911bff:
+
+    # ri "Good night, [name]."
+    ri ""
+

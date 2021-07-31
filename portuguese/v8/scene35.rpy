@@ -638,3 +638,11 @@ translate portuguese strings:
     old "Don't say a joke"
     new "Não contar piada"
 
+# TODO: Translation updated at 2021-07-31 16:17
+
+# game/v8/scene35.rpy:208
+translate portuguese steak_w_chloe_cont_e5cab38b:
+
+    # cl "I'll have a large beef ramen with an egg please!"
+    cl ""
+

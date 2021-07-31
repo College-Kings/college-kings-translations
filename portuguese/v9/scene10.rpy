@@ -243,3 +243,17 @@ translate portuguese strings:
     # game/v9/scene10.rpy:231
     old "Be ready"
     new "Estemos prontos."
+# TODO: Translation updated at 2021-07-31 16:17
+
+# game/v9/scene10.rpy:95
+translate portuguese v9_hc_cont2_a15a9391:
+
+    # lee "Now, once I separate you into small groups, I want you to think about what life would have been like in a Viking village, and come up with a short scenario to act out."
+    lee ""
+
+# game/v9/scene10.rpy:96
+translate portuguese v9_hc_cont2_46f86340:
+
+    # lee "There's a box of props in the corner at your disposal. Sorry, no real swords."
+    lee ""
+

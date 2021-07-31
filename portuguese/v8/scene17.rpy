@@ -524,3 +524,11 @@ translate portuguese strings:
     old "Focus on moving the boxes"
     new "Focar em mover as caixas"
 
+# TODO: Translation updated at 2021-07-31 16:17
+
+# game/v8/scene17.rpy:170
+translate portuguese phn_penelope6_done_4abab1f7:
+
+    # ro "The whole place is... tainted!"
+    ro ""
+

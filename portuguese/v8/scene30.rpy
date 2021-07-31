@@ -362,3 +362,239 @@ translate portuguese v8s30_nsfwSkipLabel1_8914c077:
     # u "You too!"
     u ""
 
+# TODO: Translation updated at 2021-07-31 16:17
+
+# game/v8/scene30.rpy:55
+translate portuguese v8s30_amberBlowjob_989905b7:
+
+    # am "I want your cock in my mouth. Now."
+    am ""
+
+# game/v8/scene30.rpy:64
+translate portuguese v8s30_amberBlowjob_7dff5d3d:
+
+    # am "I can't believe how much I missed it."
+    am ""
+
+# game/v8/scene30.rpy:66
+translate portuguese v8s30_amberBlowjob_a912d6d4:
+
+    # am "Oh wow, I could get used to this."
+    am ""
+
+# game/v8/scene30.rpy:85
+translate portuguese v8s30_amberBlowjob_0efbe7e6:
+
+    # u "*Moans* Oh fuck, Amber..."
+    u ""
+
+# game/v8/scene30.rpy:86
+translate portuguese v8s30_amberBlowjob_f122857a:
+
+    # am "*In a muffled voice* You like it?"
+    am ""
+
+# game/v8/scene30.rpy:87
+translate portuguese v8s30_amberBlowjob_a8ef544d:
+
+    # u "Yeah... Go faster *Moans*"
+    u ""
+
+# game/v8/scene30.rpy:92
+translate portuguese v8s30_amberBlowjob_967e3c25:
+
+    # u "Ah yes!"
+    u ""
+
+# game/v8/scene30.rpy:93
+translate portuguese v8s30_amberBlowjob_016299f7:
+
+    # am "*Suck suck*"
+    am ""
+
+# game/v8/scene30.rpy:97
+translate portuguese v8s30_amberBlowjob_1a387098:
+
+    # am "Sit down. I want more of that cock now."
+    am ""
+
+# game/v8/scene30.rpy:118
+translate portuguese v8s30_amberBlowjob_6828cb01:
+
+    # u "That is a magnificent ass!"
+    u ""
+
+# game/v8/scene30.rpy:119
+translate portuguese v8s30_amberBlowjob_3318c05d:
+
+    # am "*Chuckles* I'm glad you like it."
+    am ""
+
+# game/v8/scene30.rpy:132
+translate portuguese v8s30_amberCowgirl_dcd60c77:
+
+    # am "*Gasps*"
+    am ""
+
+# game/v8/scene30.rpy:133
+translate portuguese v8s30_amberCowgirl_bcbb5e12:
+
+    # u "*Moans* Oh my God..."
+    u ""
+
+# game/v8/scene30.rpy:138
+translate portuguese v8s30_amberCowgirl_68288b6c:
+
+    # am "Ohh fuck [name]! You feel sooo good!"
+    am ""
+
+# game/v8/scene30.rpy:140
+translate portuguese v8s30_amberCowgirl_3924ae6b:
+
+    # u "God, you're so fucking beautiful!"
+    u ""
+
+# game/v8/scene30.rpy:146
+translate portuguese v8s30_amberCowgirl_83fb8e15:
+
+    # am "Ahhh yes!"
+    am ""
+
+# game/v8/scene30.rpy:152
+translate portuguese v8s30_amberCowgirl_d43a7e01:
+
+    # am "*Moans* Oh God yes!"
+    am ""
+
+# game/v8/scene30.rpy:158
+translate portuguese v8s30_amberCowgirl_99a407f3:
+
+    # am "You're not close yet, are you?"
+    am ""
+
+# game/v8/scene30.rpy:159
+translate portuguese v8s30_amberCowgirl_d0d25ffc:
+
+    # u "Nope. Ahh! but this feels so good."
+    u ""
+
+# game/v8/scene30.rpy:160
+translate portuguese v8s30_amberCowgirl_fc122851:
+
+    # am "Good. I wanna try something."
+    am ""
+
+# game/v8/scene30.rpy:165
+translate portuguese v8s30_amberAnal_919457ef:
+
+    # u "Doggy?"
+    u ""
+
+# game/v8/scene30.rpy:169
+translate portuguese v8s30_amberAnal_e64ee617:
+
+    # am "Yes. But I hope you're lubed enough by now."
+    am ""
+
+# game/v8/scene30.rpy:173
+translate portuguese v8s30_amberAnal_b64fdafd:
+
+    # u "Hmm? Why? What do you-"
+    u ""
+
+# game/v8/scene30.rpy:177
+translate portuguese v8s30_amberAnal_4691bfeb:
+
+    # am "Cause you're gonna put it in the other hole."
+    am ""
+
+# game/v8/scene30.rpy:181
+translate portuguese v8s30_amberAnal_5062cbe8:
+
+    # u "Holy shit! Are you serious?"
+    u ""
+
+# game/v8/scene30.rpy:185
+translate portuguese v8s30_amberAnal_cf73239b:
+
+    # am "Oh yes, a hundred percent. Do it. C'mon."
+    am ""
+
+# game/v8/scene30.rpy:186
+translate portuguese v8s30_amberAnal_1eabb9b8:
+
+    # am "Slide it deep in my ass. Let me feel you deep inside me."
+    am ""
+
+# game/v8/scene30.rpy:191
+translate portuguese v8s30_amberAnal_4caf0ac3:
+
+    # am "*Moans loudly* Oh yes baby! I love it!"
+    am ""
+
+# game/v8/scene30.rpy:193
+translate portuguese v8s30_amberAnal_a35e85f4:
+
+    # u "Oh fuck Amber, you're amazing!"
+    u ""
+
+# game/v8/scene30.rpy:195
+translate portuguese v8s30_amberAnal_eabe876f:
+
+    # am "OH YES! OHH YESSS!!"
+    am ""
+
+# game/v8/scene30.rpy:196
+translate portuguese v8s30_amberAnal_95ba6e4e:
+
+    # u "Shh! SHH! Don't shout, you don't wanna wake Josh up."
+    u ""
+
+# game/v8/scene30.rpy:197
+translate portuguese v8s30_amberAnal_de6cb3f5:
+
+    # am "But this feels sooo goood!! I'm-"
+    am ""
+
+# game/v8/scene30.rpy:201
+translate portuguese v8s30_amberAnal_714ad948:
+
+    # am "*Moans very loud*"
+    am ""
+
+# game/v8/scene30.rpy:202
+translate portuguese v8s30_amberAnal_69829529:
+
+    # am "...not able to control myself!!"
+    am ""
+
+# game/v8/scene30.rpy:204
+translate portuguese v8s30_amberAnal_9906f9d3:
+
+    # am "I'm gonna come! [name] I'm gonna come!!"
+    am ""
+
+# game/v8/scene30.rpy:206
+translate portuguese v8s30_amberAnal_9425dbfd:
+
+    # u "I think I'm close too."
+    u ""
+
+# game/v8/scene30.rpy:207
+translate portuguese v8s30_amberAnal_9cd04334:
+
+    # am "Come in my ass [name]. *Moans* Fill it up good!"
+    am ""
+
+# game/v8/scene30.rpy:216
+translate portuguese v8s30_amberAnal_9c66471a:
+
+    # u "OHHHHH!"
+    u ""
+
+# game/v8/scene30.rpy:217
+translate portuguese v8s30_amberAnal_0a73bda9:
+
+    # am "*Moans*"
+    am ""
+

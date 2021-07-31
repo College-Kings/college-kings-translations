@@ -207,3 +207,11 @@ translate portuguese strings:
     # game/v10/scene13.rpy:83
     old "Decline help"
     new "Recusar a ajuda e mudar sozinho"
+# TODO: Translation updated at 2021-07-31 16:17
+
+# game/v10/scene13.rpy:104
+translate portuguese v10_wolves_redec_b1f92f4b:
+
+    # guyd "I was waiting for you to bring that up. It's kind of embarrassing, man."
+    guyd ""
+

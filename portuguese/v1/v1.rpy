@@ -5512,3 +5512,27 @@ translate portuguese strings:
     # game/v1/v1.rpy:1682
     old "You're missing out."
     new "Você é quem tá perdendo"
+# TODO: Translation updated at 2021-07-31 16:17
+
+# game/v1/v1.rpy:194
+translate portuguese starta_22bad4d4:
+
+    # u "Mhm..."
+    u ""
+
+# game/v1/v1.rpy:2668
+translate portuguese aw_bd_08fc64de:
+
+    # la "I... I haven't actually had sex before."
+    la ""
+
+translate portuguese strings:
+
+    # game/v1/v1.rpy:167
+    old "Hey...\nI know we haven't talked much after we broke up, but I just wanted to let you know that I didn't get into Stanford, so I'll be going to San Vallejo as well.\nGuess I'll see you there. :)"
+    new ""
+
+    # game/v1/v1.rpy:168
+    old "Yeah... I'll see you there."
+    new ""
+

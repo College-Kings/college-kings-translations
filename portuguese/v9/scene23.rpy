@@ -615,3 +615,23 @@ translate portuguese strings:
     # game/v9/scene23.rpy:305
     old "Wait"
     new "Esperar."
+# TODO: Translation updated at 2021-07-31 16:17
+
+# game/v9/scene23.rpy:157
+translate portuguese v9_dinner_w_rose_67f2d79d:
+
+    # u "Hey, you wanna catch a workout later?"
+    u ""
+
+# game/v9/scene23.rpy:183
+translate portuguese v9_dinner_w_rose_2c7f7c31:
+
+    # u "How hard was that Viking thing in History class?"
+    u ""
+
+# game/v9/scene23.rpy:263
+translate portuguese v9_dinner_w_rose_06bbcfbb:
+
+    # ro "What I need now is for you boys to finish off this lasagna-"
+    ro ""
+

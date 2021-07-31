@@ -11698,3 +11698,119 @@ translate portuguese v6_nsfwSkipLabel1_1d3ccfe2:
     # em "Okay..."
     em "Então tá..."
 
+# TODO: Translation updated at 2021-07-31 16:17
+
+# game/v6/v6.rpy:2060
+translate portuguese fu_b_913d2fda:
+
+    # ev "Hmmm... that does sound enticing. Where would we be going?"
+    ev ""
+
+# game/v6/v6.rpy:2776
+translate portuguese emhead_4dc25266:
+
+    # em "*Moans* Ahhh..."
+    em ""
+
+# game/v6/v6.rpy:4151
+translate portuguese naub69_f6eec8cb:
+
+    # au "*Moans louder* Ah..."
+    au ""
+
+# game/v6/v6.rpy:4269
+translate portuguese naub69_c297ffde:
+
+    # au "*Loud moan* Ahhh..."
+    au ""
+
+# game/v6/v6.rpy:4275
+translate portuguese naubfingering_a859c06b:
+
+    # au "Oh my god..."
+    au ""
+
+# game/v6/v6.rpy:5744
+translate portuguese go_ad_01f63a6a:
+
+    # sa "When I was a little girl,"
+    sa ""
+
+# game/v6/v6.rpy:5746
+translate portuguese go_ad_66036ab7:
+
+    # sa "All I wanted to be was a super star."
+    sa ""
+
+# game/v6/v6.rpy:5748
+translate portuguese go_ad_4fca3c26:
+
+    # sa "In my room I'd twirl,"
+    sa ""
+
+# game/v6/v6.rpy:5750
+translate portuguese go_ad_87af2c99:
+
+    # sa "Dreaming of the day I could go far."
+    sa ""
+
+# game/v6/v6.rpy:5755
+translate portuguese go_ad_e5e5af65:
+
+    # sa "Now that I am older,"
+    sa ""
+
+# game/v6/v6.rpy:5757
+translate portuguese go_ad_6e50985f:
+
+    # sa "I know that I'm a star."
+    sa ""
+
+# game/v6/v6.rpy:5759
+translate portuguese go_ad_94ebc5a3:
+
+    # sa "I am the beholder,"
+    sa ""
+
+# game/v6/v6.rpy:5761
+translate portuguese go_ad_4cdd53ab:
+
+    # sa "You'll never be at par."
+    sa ""
+
+# game/v6/v6.rpy:5766
+translate portuguese go_ad_49473f80:
+
+    # sa "I know you all want to be me,"
+    sa ""
+
+# game/v6/v6.rpy:5768
+translate portuguese go_ad_f62e0e7b:
+
+    # sa "But no one will ever compare."
+    sa ""
+
+# game/v6/v6.rpy:5770
+translate portuguese go_ad_1a8b356b:
+
+    # sa "So why not take a knee,"
+    sa ""
+
+# game/v6/v6.rpy:5772
+translate portuguese go_ad_acbcb8e9:
+
+    # sa "And maybe I'll let you breathe my air."
+    sa ""
+
+# game/v6/v6.rpy:5843
+translate portuguese gp_ad_be02824c:
+
+    # host "There is no judgment here. Is anyone brave enough to share?"
+    host ""
+
+# game/v6/v6.rpy:5974
+translate portuguese gp_ad_849215c7:
+
+    # u "The stars are on uhh... fire."
+    u ""
+

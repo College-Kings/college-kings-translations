@@ -98,3 +98,17 @@ translate portuguese strings:
     old "Fuckin check it out man. Crazy shit"
     new "Dá uma olhada cara. Que doideira"
 
+# TODO: Translation updated at 2021-07-31 16:17
+
+# game/v8/scene46.rpy:56
+translate portuguese v8_ending_f975cffd:
+
+    # u "(What the...? Is this about the upcoming fight?)"
+    u ""
+
+# game/v8/scene46.rpy:114
+translate portuguese v8s46_phoneCheck_f975cffd:
+
+    # u "(What the...? Is this about the upcoming fight?)"
+    u ""
+

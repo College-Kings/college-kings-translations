@@ -435,3 +435,17 @@ translate portuguese strings:
     # game/v10/scene27.rpy:219
     old "Don't ask"
     new "Não pergunte."
+# TODO: Translation updated at 2021-07-31 16:17
+
+# game/v10/scene27.rpy:195
+translate portuguese v10_econ_class_fc4bdb7d:
+
+    # u "Uhm, yeah I'm... fine. You?"
+    u ""
+
+# game/v10/scene27.rpy:200
+translate portuguese v10_econ_class_fed3c183:
+
+    # ro "Yeah, uhm. I'm actually really happy."
+    ro ""
+

@@ -80,3 +80,19 @@ translate portuguese strings:
     old "Ugh someone save me pls"
     new "Ugh, alugém me salve por favor."
 
+# TODO: Translation updated at 2021-07-31 16:17
+
+translate portuguese strings:
+
+    # game/v8/scene25.rpy:44
+    old "sure I will come but where is the store ?"
+    new ""
+
+    # game/v8/scene25.rpy:45
+    old "Just down the road from the gym on the right hand side of the road"
+    new ""
+
+    # game/v8/scene25.rpy:46
+    old "Cool will meet you both there"
+    new ""
+

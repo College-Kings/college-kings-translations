@@ -837,3 +837,353 @@ translate portuguese strings:
     # game/v10/scene18.rpy:31
     old "Be serious"
     new "Seja sério."
+# TODO: Translation updated at 2021-07-31 16:17
+
+# game/v10/scene18.rpy:47
+translate portuguese v10_call_with_lauren2_b46c8115:
+
+    # u "I'm sure everything will go just fine, if there's anything that needs special attention I'm sure your sister is already on top of it."
+    u ""
+
+# game/v10/scene18.rpy:57
+translate portuguese v10_call_with_lauren2_ad0b15df:
+
+    # la "It's also like... what if no one comes to my thing? And I put all this work in and just no one ever comes by."
+    la ""
+
+# game/v10/scene18.rpy:67
+translate portuguese v10_call_with_lauren2_f7f238df:
+
+    # la "Well I'm glad my failure amuses you."
+    la ""
+
+# game/v10/scene18.rpy:72
+translate portuguese v10_call_with_lauren2_e3ca4fd4:
+
+    # u "Okay, IMAGINARY failure. Obviously that's not gonna happen."
+    u ""
+
+# game/v10/scene18.rpy:77
+translate portuguese v10_call_with_lauren2_880a93a2:
+
+    # la "I don't know, this could be middle school all over again."
+    la ""
+
+# game/v10/scene18.rpy:92
+translate portuguese v10_call_with_lauren2_44550014:
+
+    # u "Let me guess, you didn't have a project."
+    u ""
+
+# game/v10/scene18.rpy:105
+translate portuguese v10_call_with_lauren2_c730f9ae:
+
+    # la "Apparently he had forgotten to put up the sign that'd tell people about my installation."
+    la ""
+
+# game/v10/scene18.rpy:110
+translate portuguese v10_call_with_lauren2_9cddb323:
+
+    # u "Holy shit, that's so sad. I wish I could've seen the project. It sounds really cool."
+    u ""
+
+# game/v10/scene18.rpy:120
+translate portuguese v10_call_with_lauren2_81beec71:
+
+    # u "I assume you haven't forgiven your teacher to this day, huh?"
+    u ""
+
+# game/v10/scene18.rpy:125
+translate portuguese v10_call_with_lauren2_c0af0e0f:
+
+    # la "Well... no. But, in all fairness, most of my teachers weren't the nicest people anyways. I'm just glad that phase of my life is over."
+    la ""
+
+# game/v10/scene18.rpy:130
+translate portuguese v10_call_with_lauren2_b72af6ed:
+
+    # u "Sounds like you really didn't have a good time in middle school."
+    u ""
+
+# game/v10/scene18.rpy:135
+translate portuguese v10_call_with_lauren2_9368b33a:
+
+    # la "It was a private school, so... no."
+    la ""
+
+# game/v10/scene18.rpy:145
+translate portuguese v10_call_with_lauren2_34637223:
+
+    # la "Not just any private school... a very strict, religious one."
+    la ""
+
+# game/v10/scene18.rpy:150
+translate portuguese v10_call_with_lauren2_213c4edb:
+
+    # u "Oh, I didn't even know you were super religious."
+    u ""
+
+# game/v10/scene18.rpy:160
+translate portuguese v10_call_with_lauren2_57f3faab:
+
+    # u "So what's that like, growing up with very religious parents?"
+    u ""
+
+# game/v10/scene18.rpy:165
+translate portuguese v10_call_with_lauren2_d1a3c8c5:
+
+    # la "Uhm I don't know. I love my parents, but there were times when I really felt like I needed a break from them."
+    la ""
+
+# game/v10/scene18.rpy:172
+translate portuguese v10_call_with_lauren2_af9ac2ee:
+
+    # u "Do you feel like you're not your own person?"
+    u ""
+
+# game/v10/scene18.rpy:202
+translate portuguese v10_call_with_lauren2_ef55f80c:
+
+    # u "I guess, but it's also nice to make other people happy. I don't know, your selflessness is one of the things I like most about you."
+    u ""
+
+# game/v10/scene18.rpy:207
+translate portuguese v10_call_with_lauren2_e259bc54:
+
+    # la "Thanks, I guess. Yeah, you're probably right. I don't know. I think it's about finding a balance."
+    la ""
+
+# game/v10/scene18.rpy:212
+translate portuguese v10_call_with_lauren2_41aee1b9:
+
+    # la "So uhm... rapid change of topics, do you want kids someday?"
+    la ""
+
+# game/v10/scene18.rpy:218
+translate portuguese v10_call_with_lauren2_ed206474:
+
+    # u "Wait, is this like a trick question where I gotta make sure that my answer doesn't hurt your feelings or something?"
+    u ""
+
+# game/v10/scene18.rpy:223
+translate portuguese v10_call_with_lauren2_eeb719d0:
+
+    # la "*Laughs* No, I'm just interested in my boyfriend's thoughts."
+    la ""
+
+# game/v10/scene18.rpy:285
+translate portuguese v10_call_with_lauren2_fdd1ca76:
+
+    # u "I don't think so, kinda sounds expensive. I'm just not really a big family man."
+    u ""
+
+# game/v10/scene18.rpy:295
+translate portuguese v10_call_with_lauren2_2460e7aa:
+
+    # u "Yeah, I guess. I don't really know, it seems like a lot of responsibility."
+    u ""
+
+# game/v10/scene18.rpy:300
+translate portuguese v10_call_with_lauren2_1db55f51:
+
+    # la "*Laughs* Having a kid? Yeah that's kind of the point."
+    la ""
+
+# game/v10/scene18.rpy:305
+translate portuguese v10_call_with_lauren2_77b9bc23:
+
+    # u "You ever just have random questions pop up in your head, but then you're like... wait a minute, I don't even know what I'd do in that scenario?"
+    u ""
+
+# game/v10/scene18.rpy:325
+translate portuguese v10_call_with_lauren2_55e92563:
+
+    # u "You're making it too easy! If you're not granting him the wish then you would be granting him the wish, but that would mean you wouldn't grant him the wish and that-"
+    u ""
+
+# game/v10/scene18.rpy:330
+translate portuguese v10_call_with_lauren2_0517d272:
+
+    # la "Okay, okay. I see what you're getting at. *Chuckles*"
+    la ""
+
+# game/v10/scene18.rpy:357
+translate portuguese v10_call_with_lauren2_a102f141:
+
+    # u "(Wow, that was quite a long call, but I feel like I really learned a lot about her... It's not that late, maybe I can go for a bit of a walk before going to bed.)"
+    u ""
+
+# game/v10/scene18.rpy:402
+translate portuguese v10_call_with_lauren2_b46c8115_1:
+
+    # u "I'm sure everything will go just fine, if there's anything that needs special attention I'm sure your sister is already on top of it."
+    u ""
+
+# game/v10/scene18.rpy:412
+translate portuguese v10_call_with_lauren2_ad0b15df_1:
+
+    # la "It's also like... what if no one comes to my thing? And I put all this work in and just no one ever comes by."
+    la ""
+
+# game/v10/scene18.rpy:422
+translate portuguese v10_call_with_lauren2_f7f238df_1:
+
+    # la "Well I'm glad my failure amuses you."
+    la ""
+
+# game/v10/scene18.rpy:427
+translate portuguese v10_call_with_lauren2_e3ca4fd4_1:
+
+    # u "Okay, IMAGINARY failure. Obviously that's not gonna happen."
+    u ""
+
+# game/v10/scene18.rpy:432
+translate portuguese v10_call_with_lauren2_880a93a2_1:
+
+    # la "I don't know, this could be middle school all over again."
+    la ""
+
+# game/v10/scene18.rpy:447
+translate portuguese v10_call_with_lauren2_44550014_1:
+
+    # u "Let me guess, you didn't have a project."
+    u ""
+
+# game/v10/scene18.rpy:460
+translate portuguese v10_call_with_lauren2_c730f9ae_1:
+
+    # la "Apparently he had forgotten to put up the sign that'd tell people about my installation."
+    la ""
+
+# game/v10/scene18.rpy:465
+translate portuguese v10_call_with_lauren2_9cddb323_1:
+
+    # u "Holy shit, that's so sad. I wish I could've seen the project. It sounds really cool."
+    u ""
+
+# game/v10/scene18.rpy:475
+translate portuguese v10_call_with_lauren2_81beec71_1:
+
+    # u "I assume you haven't forgiven your teacher to this day, huh?"
+    u ""
+
+# game/v10/scene18.rpy:480
+translate portuguese v10_call_with_lauren2_c0af0e0f_1:
+
+    # la "Well... no. But, in all fairness, most of my teachers weren't the nicest people anyways. I'm just glad that phase of my life is over."
+    la ""
+
+# game/v10/scene18.rpy:485
+translate portuguese v10_call_with_lauren2_b72af6ed_1:
+
+    # u "Sounds like you really didn't have a good time in middle school."
+    u ""
+
+# game/v10/scene18.rpy:490
+translate portuguese v10_call_with_lauren2_9368b33a_1:
+
+    # la "It was a private school, so... no."
+    la ""
+
+# game/v10/scene18.rpy:500
+translate portuguese v10_call_with_lauren2_34637223_1:
+
+    # la "Not just any private school... a very strict, religious one."
+    la ""
+
+# game/v10/scene18.rpy:505
+translate portuguese v10_call_with_lauren2_213c4edb_1:
+
+    # u "Oh, I didn't even know you were super religious."
+    u ""
+
+# game/v10/scene18.rpy:515
+translate portuguese v10_call_with_lauren2_57f3faab_1:
+
+    # u "So what's that like, growing up with very religious parents?"
+    u ""
+
+# game/v10/scene18.rpy:520
+translate portuguese v10_call_with_lauren2_d1a3c8c5_1:
+
+    # la "Uhm I don't know. I love my parents, but there were times when I really felt like I needed a break from them."
+    la ""
+
+# game/v10/scene18.rpy:527
+translate portuguese v10_call_with_lauren2_af9ac2ee_1:
+
+    # u "Do you feel like you're not your own person?"
+    u ""
+
+# game/v10/scene18.rpy:557
+translate portuguese v10_call_with_lauren2_ef55f80c_1:
+
+    # u "I guess, but it's also nice to make other people happy. I don't know, your selflessness is one of the things I like most about you."
+    u ""
+
+# game/v10/scene18.rpy:562
+translate portuguese v10_call_with_lauren2_e259bc54_1:
+
+    # la "Thanks, I guess. Yeah, you're probably right. I don't know. I think it's about finding a balance."
+    la ""
+
+# game/v10/scene18.rpy:567
+translate portuguese v10_call_with_lauren2_41aee1b9_1:
+
+    # la "So uhm... rapid change of topics, do you want kids someday?"
+    la ""
+
+# game/v10/scene18.rpy:573
+translate portuguese v10_call_with_lauren2_ed206474_1:
+
+    # u "Wait, is this like a trick question where I gotta make sure that my answer doesn't hurt your feelings or something?"
+    u ""
+
+# game/v10/scene18.rpy:578
+translate portuguese v10_call_with_lauren2_eeb719d0_1:
+
+    # la "*Laughs* No, I'm just interested in my boyfriend's thoughts."
+    la ""
+
+# game/v10/scene18.rpy:640
+translate portuguese v10_call_with_lauren2_fdd1ca76_1:
+
+    # u "I don't think so, kinda sounds expensive. I'm just not really a big family man."
+    u ""
+
+# game/v10/scene18.rpy:650
+translate portuguese v10_call_with_lauren2_2460e7aa_1:
+
+    # u "Yeah, I guess. I don't really know, it seems like a lot of responsibility."
+    u ""
+
+# game/v10/scene18.rpy:655
+translate portuguese v10_call_with_lauren2_1db55f51_1:
+
+    # la "*Laughs* Having a kid? Yeah that's kind of the point."
+    la ""
+
+# game/v10/scene18.rpy:660
+translate portuguese v10_call_with_lauren2_77b9bc23_1:
+
+    # u "You ever just have random questions pop up in your head, but then you're like... wait a minute, I don't even know what I'd do in that scenario?"
+    u ""
+
+# game/v10/scene18.rpy:680
+translate portuguese v10_call_with_lauren2_55e92563_1:
+
+    # u "You're making it too easy! If you're not granting him the wish then you would be granting him the wish, but that would mean you wouldn't grant him the wish and that-"
+    u ""
+
+# game/v10/scene18.rpy:685
+translate portuguese v10_call_with_lauren2_0517d272_1:
+
+    # la "Okay, okay. I see what you're getting at. *Chuckles*"
+    la ""
+
+# game/v10/scene18.rpy:712
+translate portuguese v10_call_with_lauren2_a102f141_1:
+
+    # u "(Wow, that was quite a long call, but I feel like I really learned a lot about her... It's not that late, maybe I can go for a bit of a walk before going to bed.)"
+    u ""
+
