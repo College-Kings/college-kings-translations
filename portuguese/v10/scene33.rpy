@@ -112,7 +112,7 @@ translate portuguese v10s33_autumn1_72da5258:
 translate portuguese v10s33_autumn1_53950c31:
 
     # aut "She's just a little shy. Even when we were kids she was shy. Being in a big group isn't really her thing, she's a really private person. If she does share something personal with you it's because she trusts you."
-    aut "Ela é um pouco tímida. Mesmo quando nós éramos crianças ela era tímida. Ser parte dum grupo não é muito a praia dela, ela é bem reservada. Se ela compartilha algo com você, significa que ela confia muito em você."
+    aut "Ela é um pouco tímida. Mesmo quando nós éramos crianças ela era tímida. Ser parte de um grupo não é muito a praia dela, ela é bem reservada. Se ela compartilha algo com você, significa que ela confia muito em você."
 
 # game/v10/scene33.rpy:126
 translate portuguese v10s33_autumn1_07c14a3a:
@@ -166,7 +166,7 @@ translate portuguese v10s33_autumn1_186cf758:
 translate portuguese v10s33_autumn1_96ee4783:
 
     # u "*Laughs* What are you guys raising money for?"
-    u "*risadas* Vocês tão juntando dinheiro pro que?"
+    u "*risadas* Vocês tão juntando dinheiro pra quê?"
 
 # game/v10/scene33.rpy:175
 translate portuguese v10s33_autumn1_e9cb7106:
@@ -1042,7 +1042,7 @@ translate portuguese v10s33_chloe2_90e83552:
 translate portuguese v10s33_chloe2_ff828f1f:
 
     # u "That's one way to say no man is good enough for me. *Chuckles*"
-    u "Eu tô achado que esse é um jeito de dizer que nenhum homem e bom o suficiente pra você. *Risadas*"
+    u "Eu tô achado que esse é um jeito de dizer que nenhum homem é bom o suficiente pra você. *Risadas*"
 
 # game/v10/scene33.rpy:1134
 translate portuguese v10s33_chloe2_ed23f02b:
@@ -2248,7 +2248,7 @@ translate portuguese v10s33_msrose1_f83a68b6:
 translate portuguese v10s33_msrose1_b6fc4faf:
 
     # lee "Or everyone else is just lost."
-    lee "Ou todo o mundo não tem ideia de nada."
+    lee "Ou todo mundo não tem ideia de nada."
 
 # game/v10/scene33.rpy:2293
 translate portuguese v10s33_msrose1_fe57ddb2:
@@ -2290,7 +2290,7 @@ translate portuguese v10s33_riley1_3bccc100:
 translate portuguese v10s33_riley1_30347565:
 
     # u "Maybe I came to throw you in the mud."
-    u "Talvez eu vi pra te jogar na lama."
+    u "Talvez eu vim pra te jogar na lama."
 
 # game/v10/scene33.rpy:2334
 translate portuguese v10s33_riley1_95f8f5ac:
@@ -2620,7 +2620,7 @@ translate portuguese v10s33_riley2_abb699b8:
 translate portuguese v10s33_riley2_8ba00f97:
 
     # au "I really like it, if it goes missing it wasn't me. *Chuckles* You look like a real dancer in that hat."
-    au "Eu gostei bastante, se desaparecer do nada não me culpe. *Risadas* Você parece uma dançarina de verdade com ese chapéu."
+    au "Eu gostei bastante, se desaparecer do nada não me culpe. *Risadas* Você parece uma dançarina de verdade com esse chapéu."
 
 # game/v10/scene33.rpy:2616
 translate portuguese v10s33_riley2_e79f5c74:
@@ -3962,7 +3962,7 @@ translate portuguese strings:
 
     # game/v10/scene33.rpy:110
     old "Leave it be"
-    new "Deixar queto"
+    new "Deixar quieto"
 
     # game/v10/scene33.rpy:151
     old "That's the main reason"

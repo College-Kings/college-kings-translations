@@ -213,9 +213,9 @@ v10 files | 0/41 | - | [ ] | -
 ### polish
 Progress | ?/all | Who is working on it? | Proofreading | Who is proofreading?
 -------- | -------- | --------- | --------- | ---------
-non script files | 4/6 | Klamos | [ ] | -
+non script files | 5/6 | Klamos | [ ] | -
 v01.rpy | 5225/5225 | Klamos | [ ] | -
-v02.rpy | 1011/4221 | Klamos | [ ] | -
+v02.rpy | 1941/4221 | Klamos | [ ] | -
 v03.rpy | 0/3636 | - | [ ] | -
 v04.rpy | 0/3227 | - | [ ] | -
 v05.rpy | 0/3498 | - | [ ] | -
@@ -257,7 +257,7 @@ v06.rpy | 11645/11645 | Bibs2 + TheProfMilos | [ ] | -
 v07.rpy | 18403/18403 | TheProfMilos | [ ] | -
 v08 files | 45/45 | TheProfMilos | [ ] | -
 v09 files | 42/42 | Kfar | [ ] | -
-v10 files | 15/41 | Kfar (<15) + ArkellCK (>16) | [ ] | -
+v10 files | 41/41 | Kfar (<15) + ArkellCK (16-30) + TheProfMilos (30-41)| [ ] | -
 
 
 
