@@ -82,7 +82,7 @@ translate portuguese v10_riley_walk_3c755fb0:
 translate portuguese v10_riley_walk_da129628:
 
     # u "Riley did I ever tell you I'm a professional in all forms of dance?"
-    u "Riley, eu já tinba te dito que eu sou um dançarino profissional em todas os estilos?"
+    u "Riley, eu já tinha te dito que eu sou um dançarino profissional em todas os estilos?"
 
 # game/v10/scene39.rpy:92
 translate portuguese v10_riley_walk_40632fb1:
@@ -118,7 +118,7 @@ translate portuguese v10_riley_walk_eee71283:
 translate portuguese v10_riley_walk_4fdd3754:
 
     # ri "Didn't really look at much, but I did speak to a lot of people. Everyone wanted to talk to me once they found out I was in the main event."
-    ri "Não fiz nada demais, mas eu falei com bastante gente. Todo mundo queria conversar comigo depois que descubriram que estava no evento principal."
+    ri "Não fiz nada demais, mas eu falei com bastante gente. Todo mundo queria conversar comigo depois que descobriram que estava no evento principal."
 
 # game/v10/scene39.rpy:121
 translate portuguese v10_riley_walk_c98aeae0:
