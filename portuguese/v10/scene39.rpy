@@ -10,7 +10,7 @@ translate portuguese v10_riley_walk_fc72eb82:
 translate portuguese v10_riley_walk_5fab8452:
 
     # u "You looked like you enjoyed it. *Laughs*"
-    u "Bem que parecia que você tava curindo. *Risadas*"
+    u "Bem que parecia que você tava curtindo. *Risadas*"
 
 # game/v10/scene39.rpy:25
 translate portuguese v10_riley_walk_663bfed4:
