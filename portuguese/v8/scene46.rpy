@@ -104,11 +104,11 @@ translate portuguese strings:
 translate portuguese v8_ending_f975cffd:
 
     # u "(What the...? Is this about the upcoming fight?)"
-    u ""
+    u "(Mas que...? Isso é sobre a próxima luta?)"
 
 # game/v8/scene46.rpy:114
 translate portuguese v8s46_phoneCheck_f975cffd:
 
     # u "(What the...? Is this about the upcoming fight?)"
-    u ""
+    u "(Mas que...? Isso é sobre a próxima luta?)"
 
