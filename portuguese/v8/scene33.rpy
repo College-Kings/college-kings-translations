@@ -268,5 +268,5 @@ translate portuguese strings:
 translate portuguese nora_trip_nerv_5a9a62be:
 
     # u "Wow that sounds awesome...ly expensive."
-    u ""
+    u "Nossa, isso parece ser incrivel...mente caro."
 
