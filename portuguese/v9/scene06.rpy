@@ -605,5 +605,5 @@ translate portuguese strings:
 translate portuguese dtl_f_de811f79:
 
     # ri "No, it is NOT!"
-    ri ""
+    ri "Não, não é NÃO!"
 
