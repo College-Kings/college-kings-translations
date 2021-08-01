@@ -1139,9 +1139,9 @@ translate portuguese strings:
 
     # renpy/common/00preferences.rpy:480
     old "renderer menu"
-    new ""
+    new "menu de renderizador"
 
     # renpy/common/00preferences.rpy:483
     old "accessibility menu"
-    new ""
+    new "menu de acessibilidade"
 
