@@ -3852,7 +3852,7 @@ translate polish v1_endShop_69a2e875:
     ch "Wcale nie musi tak być."
 
 # game/v2/v2.rpy:4219
-translate polish v1_endShop_98f1162f:+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+translate polish v1_endShop_98f1162f:
 
     # ch "Look, Grayson's an asshole. If you wanna get back at him, you should pledge the Wolves."
     ch "Słuchaj, Grayson to dupek. Jeśli chcesz się na nim odegrać, powinieneś wstąpić do Wilków."
