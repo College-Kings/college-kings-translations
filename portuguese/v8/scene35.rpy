@@ -644,5 +644,5 @@ translate portuguese strings:
 translate portuguese steak_w_chloe_cont_e5cab38b:
 
     # cl "I'll have a large beef ramen with an egg please!"
-    cl ""
+    cl "Eu vou querer um Ramem grande de filé mignon com ovo por favor!"
 
