@@ -2214,7 +2214,7 @@ translate polish csaub_6adf6270:
     au "Haha, tak myślałam. W takim razie chodźmy."
 
 # game/v2/v2.rpy:2635
-translate polish csaub_7905f04a:+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+translate polish csaub_7905f04a:
 
     # u "Didn't you say this was a costume shop?"
     u "Czy nie mówiłaś, że to sklep z kostiumami?"
@@ -2247,7 +2247,7 @@ translate polish csaub_d3e029a0:
 translate polish csaub_8926613f:
 
     # ev "We had to put in a new floor and change the branding, so now we just sell regular clothing in all months of the year."
-    ev "Musieliśmy przenieść się na inne piętro i odciąć się od poprzedniej marki, więc teraz po prostu sprzedajemy zwykłą odzież przez wszystkie miesiące w roku."
+    ev "Musieliśmy przenieść się na inne piętro i odciąć się od poprzedniej marki, więc teraz po prostu sprzedajemy zwykłą odzież przez cały rok."
 
 # game/v2/v2.rpy:2660
 translate polish csaub_3e2f50e5:
@@ -2313,7 +2313,7 @@ translate polish try1done_679ca8e6:
 translate polish try1new_f4c99d29:
 
     # u "(Alright, rocking the Viking look.)"
-    u ""
+    u "(Dobra, odjazdowo wyglądający wiking)"
 
 # game/v2/v2.rpy:2731
 translate polish try1new_18a1ecbe:
@@ -2385,7 +2385,7 @@ translate polish v2_nsfwSkipLabel1_86a517e6:
 translate polish v2_nsfwSkipLabel1_519c302b:
 
     # au "Let's try some of the other outfits."
-    au "Wypróbujmy inne kostiumy."
+    au "Przymierzmy inne kostiumy."
 
 # game/v2/v2.rpy:2818
 translate polish v2_nsfwSkipLabel1_dc103a0a:
@@ -2397,19 +2397,19 @@ translate polish v2_nsfwSkipLabel1_dc103a0a:
 translate polish v2_nsfwSkipLabel1_f56eb18c:
 
     # u "I mean, it's definitely something."
-    u ""
+    u "Nie jest taki zły."
 
 # game/v2/v2.rpy:2828
 translate polish v2_nsfwSkipLabel1_c1c9b559:
 
     # u "I'm not sure if you should replace your everyday clothes with it though."
-    u ""
+    u "Ale nie jestem pewny, czy powinnać zastąpić nim swoje codzienne ubrania."
 
 # game/v2/v2.rpy:2834
 translate polish v2_nsfwSkipLabel1_8671c31a:
 
     # au "I'll guess I'll have to try some of the other outfits then."
-    au ""
+    au "Chyba będę musiała przymierzyć jakieś inne kostiumy."
 
 # game/v2/v2.rpy:2837
 translate polish v2_nsfwSkipLabel1_dc103a0a_1:
@@ -2433,7 +2433,7 @@ translate polish try2done_7fa8b529:
 translate polish try2new_b364b155:
 
     # u "(I definitely do not fit into these shoulder pads.)"
-    u ""
+    u "(Zdecydowanie nie pasuję do tych naramienników.)"
 
 # game/v2/v2.rpy:2870
 translate polish try2new_88dd52ba:
@@ -2457,1405 +2457,1405 @@ translate polish try2new_a8b4395e:
 translate polish try2new_a7012ffd:
 
     # u "(I should stop peeking now, or I risk getting caught.)"
-    u ""
+    u "(Powinienem przestać podglądać, albo zaraz mnie przyłapie.)"
 
 # game/v2/v2.rpy:2909
 translate polish v2_nsfwSkipLabel2_5d028643:
 
     # u "(Time to show this to Aubrey)"
-    u ""
+    u "(Czas pokazać się Aubrey.)"
 
 # game/v2/v2.rpy:2919
 translate polish v2_nsfwSkipLabel2_1a5b144f:
 
     # au "Damn, I like your outfit."
-    au ""
+    au "Nieźle, podoba mi się twój kostium."
 
 # game/v2/v2.rpy:2924
 translate polish v2_nsfwSkipLabel2_ffa24c4f:
 
     # u "Well thank you, milady."
-    u ""
+    u "Dziękuję, moja pani."
 
 # game/v2/v2.rpy:2926
 translate polish v2_nsfwSkipLabel2_3101ede1:
 
     # u "Yours is uhhh..."
-    u ""
+    u "Twój eee..."
 
 # game/v2/v2.rpy:2932
 translate polish v2_nsfwSkipLabel2_32a69f7e:
 
     # u "...looking mighty fine as well."
-    u ""
+    u "...wygląda oszałamiająco."
 
 # game/v2/v2.rpy:2937
 translate polish v2_nsfwSkipLabel2_da553dc5:
 
     # au "Is it weird that you talking like that kinda turns me on?"
-    au ""
+    au "Czy to dziwne, że podniecam się, kiedy tak mówisz?"
 
 # game/v2/v2.rpy:2942
 translate polish v2_nsfwSkipLabel2_5c1ba02f:
 
     # u "Wait really? Should I keep going?"
-    u ""
+    u "Czekaj, naprawdę? Powinienem kontynuować?"
 
 # game/v2/v2.rpy:2948
 translate polish v2_nsfwSkipLabel2_968e7bbb:
 
     # au "Hahaha, no. I was just joking."
-    au ""
+    au "Hahaha, nie. Tylko żartowałam."
 
 # game/v2/v2.rpy:2951
 translate polish v2_nsfwSkipLabel2_224046bf:
 
     # au "Let's switch outfits."
-    au ""
+    au "Zmieńmy stroje."
 
 # game/v2/v2.rpy:2954
 translate polish v2_nsfwSkipLabel2_45b9ed1d:
 
     # au "Are you gonna buy this one?"
-    au ""
+    au "Kupisz ten kostium?"
 
 # game/v2/v2.rpy:2959
 translate polish v2_nsfwSkipLabel2_c9a2f903:
 
     # u "... certainly practical."
-    u ""
+    u "... jest całkiem praktyczny."
 
 # game/v2/v2.rpy:2964
 translate polish v2_nsfwSkipLabel2_12d26b71:
 
     # au "That is the single greatest compliment I think I've ever received."
-    au ""
+    au "To chyba najwspanialszy komplement, jaki kiedykolwiek usłyszałam."
 
 # game/v2/v2.rpy:2969
 translate polish v2_nsfwSkipLabel2_d3e94b55:
 
     # u "I am kinda known for my charm."
-    u ""
+    u "Jestem znany ze swojego uroku osobistego."
 
 # game/v2/v2.rpy:2974
 translate polish v2_nsfwSkipLabel2_66970db9:
 
     # au "Really? I thought it was for getting punched in the face."
-    au ""
+    au "Naprawdę? Myślałam, że jesteś znany z bycia uderzonym w twarz."
 
 # game/v2/v2.rpy:2979
 translate polish v2_nsfwSkipLabel2_9bfbf47c:
 
     # u "Wow, low blow."
-    u ""
+    u "Wow, cios poniżej pasa."
 
 # game/v2/v2.rpy:2984
 translate polish v2_nsfwSkipLabel2_224046bf_1:
 
     # au "Let's switch outfits."
-    au ""
+    au "Zmieńmy stroje."
 
 # game/v2/v2.rpy:2987
 translate polish v2_nsfwSkipLabel2_735ae2aa:
 
     # au "So are you gonna buy this one?"
-    au ""
+    au "I jak, kupisz ten kostium?"
 
 # game/v2/v2.rpy:3009
 translate polish try3done_e45e2fd1:
 
     # "(The more I wear this, the more I feel like I would make a great cowboy.)"
-    ""
+    "(Im dłużej to noszę, tym bardziej czuję, że byłbym świetnym kowbojem.)"
 
 # game/v2/v2.rpy:3019
 translate polish try3new_284d5548:
 
     # u "(Yeehaw!)"
-    u ""
+    u "(No to wio!)"
 
 # game/v2/v2.rpy:3021
 translate polish try3new_6e79c38e:
 
     # u "(I can hear Aubrey sliding her clothes off...)"
-    u ""
+    u "(Słyszę jak Aubrey zsuwa z siebie ubrania...)"
 
 # game/v2/v2.rpy:3030
 translate polish try3new_b270ad9e:
 
     # u "(Fuck... if I could just stick my head through a bit further, I could get a way better view."
-    u ""
+    u "(Kurwa... gdybym tylko mógł wsunąć głowę trochę dalej, mógłbym mieć o wiele lepszy widok.)"
 
 # game/v2/v2.rpy:3043
 translate polish try3new_5859855c:
 
     # u "(In all fairness, whenever I watch porn, the person getting caught spying gets to fuck the girl right afterwards.)"
-    u ""
+    u "(Szczerze mówiąc, za każdym razem, kiedy oglądam porno, osoba przyłapana na podglądaniu i tak rucha dziewczynę.)"
 
 # game/v2/v2.rpy:3045
 translate polish try3new_26a091a9:
 
     # u "(Still... I better stop peeking now, it's too risky.)"
-    u ""
+    u "(Ale i tak... lepiej przestanę podglądać, to zbyt ryzykowne.)"
 
 # game/v2/v2.rpy:3059
 translate polish v2_nsfwSkipLabel3_9f6f578e:
 
     # u "Man she's gonna love this costume."
-    u ""
+    u "Stary, ona pokocha ten kostium."
 
 # game/v2/v2.rpy:3064
 translate polish v2_nsfwSkipLabel3_e57a573c:
 
     # u "Aubrey? Are you coming out?"
-    u ""
+    u "Aubrey? Wychodzisz?"
 
 # game/v2/v2.rpy:3066
 translate polish v2_nsfwSkipLabel3_ce41a1d2:
 
     # au "This costume is literally just historic lingerie."
-    au ""
+    au "Ten kostium to jest dosłownie jak historyczna bielizna."
 
 # game/v2/v2.rpy:3070
 translate polish v2_nsfwSkipLabel3_156b0976:
 
     # au "I'm not showing you this, haha."
-    au ""
+    au "W tym ci się nie pokażę, haha."
 
 # game/v2/v2.rpy:3077
 translate polish v2_nsfwSkipLabel3_36465395:
 
     # u "Oh come on, Aubrey. I wanna see."
-    u ""
+    u "Daj spokój, Aubrey. Chcę zobaczyć."
 
 # game/v2/v2.rpy:3082
 translate polish v2_nsfwSkipLabel3_209d958e:
 
     # au "Sorry but... I'm gonna get dressed again."
-    au ""
+    au "Wybacz, ale... chcę się już przebrać."
 
 # game/v2/v2.rpy:3084
 translate polish v2_nsfwSkipLabel3_ebb31da5:
 
     # u "Alright, fine."
-    u ""
+    u "Dobra, w porządku."
 
 # game/v2/v2.rpy:3088
 translate polish v2_nsfwSkipLabel3_fb1ad710:
 
     # au "Okay, fine. Just for you."
-    au ""
+    au "No dobrze. Specjalnie dla ciebie."
 
 # game/v2/v2.rpy:3098
 translate polish v2_nsfwSkipLabel3_2189828c:
 
     # u "Holy shit, you weren't exaggerating. That is revealing."
-    u ""
+    u "O kurwa, nie żartowałaś. Jest bardzo skąpy."
 
 # game/v2/v2.rpy:3103
 translate polish v2_nsfwSkipLabel3_bd372840:
 
     # au "See what I mean now? Can I get dressed again?"
-    au ""
+    au "Już wiesz co miałam na myśli? Mogę się już przebrać?"
 
 # game/v2/v2.rpy:3108
 translate polish v2_nsfwSkipLabel3_26b9cb57:
 
     # u "You sure you don't wanna keep this on for the rest of the day?"
-    u ""
+    u "Jesteś pewna, że nie chcesz w tym zostać przez resztę dnia?"
 
 # game/v2/v2.rpy:3113
 translate polish v2_nsfwSkipLabel3_72b71966:
 
     # au "Haha yes. I hope you got a good look, 'cause I'm changing back."
-    au ""
+    au "Haha tak. Mam nadzieję, że się napatrzyłeś, bo idę się przebrać."
 
 # game/v2/v2.rpy:3115
 translate polish v2_nsfwSkipLabel3_97818984:
 
     # au "Also, this cowboy outfit is probably the worst thing I've ever seen anyone wear."
-    au ""
+    au "Poza tym, ten strój kowboja to chyba najgorsza rzecz, jaką kiedykolwiek widziałam."
 
 # game/v2/v2.rpy:3117
 translate polish v2_nsfwSkipLabel3_21bc3cf3:
 
     # au "So let's get out of these outfits."
-    au ""
+    au "Więc przebierzmy się w coś innego."
 
 # game/v2/v2.rpy:3125
 translate polish v2_nsfwSkipLabel3_ebb31da5_1:
 
     # u "Alright, fine."
-    u ""
+    u "Ok, niech będzie."
 
 # game/v2/v2.rpy:3127
 translate polish v2_nsfwSkipLabel3_d76759c0:
 
     # u "Then get dressed quickly, so that you can see my costume."
-    u ""
+    u "W takim razie szybko się ubierz, żebyś mogła zobaczyć mój kostium."
 
 # game/v2/v2.rpy:3129
 translate polish v2_nsfwSkipLabel3_d8940fd5:
 
     # au "Yeah, just give me a minute."
-    au ""
+    au "Dobra, daj mi chwilę."
 
 # game/v2/v2.rpy:3140
 translate polish by_bd_289003d8:
 
     # au "Oh god, that looks so bad on you."
-    au ""
+    au "O Boże, wyglądasz w tym okropnie."
 
 # game/v2/v2.rpy:3145
 translate polish by_bd_89e51cb4:
 
     # u "What?? I considered cowboy to be a serious career path for me after I saw myself in this outfit."
-    u ""
+    u "Co?? Poważnie rozważałem rozpoczęcie kariery kowboja, kiedy zobaczyłem się w tym stroju."
 
 # game/v2/v2.rpy:3150
 translate polish by_bd_702693e1:
 
     # au "Oh no. Just whatever you do, do not buy this costume."
-    au ""
+    au "O nie. Zrób co chcesz, tylko nie kupuj tego kostiumu."
 
 # game/v2/v2.rpy:3152
 translate polish by_bd_5ebbd48f:
 
     # au "I think you should get out of that as quickly as you can."
-    au ""
+    au "Myślę, że powinieneś się jak najszybciej przebrać."
 
 # game/v2/v2.rpy:3180
 translate polish cspe_452a4b0e:
 
     # u "I swear Google maps said this was a costume shop."
-    u ""
+    u "Przysięgam, że mapy Google, wskazywały to miejsce jako sklep z kostiumami."
 
 # game/v2/v2.rpy:3186
 translate polish cspe_d3fe6a51:
 
     # pe "Maybe we can ask the lady over there, she seems to work here."
-    pe ""
+    pe "Może zapytamy tą panią, wydaje się, że tutaj pracuje."
 
 # game/v2/v2.rpy:3191
 translate polish cspe_7e5f655f:
 
     # pe "Excuse me, is this not a costume shop?"
-    pe ""
+    pe "Przepraszam, czy to nie był kiedyś sklep z kostiumami?"
 
 # game/v2/v2.rpy:3196
 translate polish cspe_18865407:
 
     # ev "Well, we were last year, but after Halloween was over sales plummeted."
-    ev ""
+    ev "Cóż, jeszcze w zeszłym roku tak, ale po Halloween sprzedaż gwałtownie spadła."
 
 # game/v2/v2.rpy:3198
 translate polish cspe_d3e029a0:
 
     # ev "So the owners had this crazy idea of Halloween in January, but the surprising increase of in-store injuries and following lawsuits quickly made it go bust."
-    ev ""
+    ev "Więc właściciele wpadli na szalony pomysł Halloween w styczniu, ale zaskakujący wzrost liczby wypadków w sklepie i związane z tym procesy sądowe szybko doprowadziły do bankructwa."
 
 # game/v2/v2.rpy:3200
 translate polish cspe_8926613f:
 
     # ev "We had to put in a new floor and change the branding, so now we just sell regular clothing in all months of the year."
-    ev ""
+    ev "Musieliśmy przenieść się na inne piętro i odciąć się od poprzedniej marki, więc teraz po prostu sprzedajemy zwykłą odzież przez cały rok."
 
 # game/v2/v2.rpy:3205
 translate polish cspe_329a48ab:
 
     # pe "Oh, wow, well that's very unfortunate. We were looking to buy some costumes."
-    pe ""
+    pe "O nie, ale pech. Chcieliśmy kupić kostiumy."
 
 # game/v2/v2.rpy:3210
 translate polish cspe_da1de338:
 
     # ev "If you want, I can check if we still have some in the back, but it'll be a limited selection."
-    ev ""
+    ev "Mogę sprawdzić, czy mamy jeszcze jakieś kostiumy na zapleczu, ale wybór będzie ograniczony"
 
 # game/v2/v2.rpy:3215
 translate polish cspe_9f3beb31:
 
     # pe "Yes, that would be amazing. We'd really appreciate it, thank you."
-    pe ""
+    pe "Tak, byłoby cudownie. Bylibyśmy bardzo wdzięczni, dziękujemy."
 
 # game/v2/v2.rpy:3225
 translate polish cspe_1944561c:
 
     # ev "So in this box are all the remaining costumes we have, I hope that's enough."
-    ev ""
+    ev "W tym pudełku są wszyskie kostiumy, które nam zostały, mam nadzieję, że to wystarczy."
 
 # game/v2/v2.rpy:3230
 translate polish cspe_dd6b5362:
 
     # ev "Let me know if there's anything else you need."
-    ev ""
+    ev "Dajcie znać, jeśli potrzebujecie czegoś jeszcze."
 
 # game/v2/v2.rpy:3232
 translate polish cspe_ccd53b23:
 
     # u "Thank you."
-    u ""
+    u "Dziękujemy."
 
 # game/v2/v2.rpy:3237
 translate polish cspe_cc9854e2:
 
     # u "Okay, let's have a look at some of these."
-    u ""
+    u "Dobra, zobaczmy, co my tu mamy."
 
 # game/v2/v2.rpy:3242
 translate polish cspe_c648d714:
 
     # pe "I'm actually really excited to buy a costume."
-    pe ""
+    pe "Jestem strasznie podekscytowana kupnem kostiumu."
 
 # game/v2/v2.rpy:3243
 translate polish cspe_bfdc89dd:
 
     # pe "At my old college we weren't even allowed to wear costumes on Halloween, because of the dress code."
-    pe ""
+    pe "Na mojej poprzedniej uczelni nie wolno nam było nosić kostiumów nawet w Halloween, z powodu mundurków."
 
 # game/v2/v2.rpy:3262
 translate polish try4done_07bec283:
 
     # "(Yeah- still look the same as a Viking as I did before.)"
-    ""
+    "(Zgadza się- nadal wyglądam tak samo jak wiking, jak wcześniej.)"
 
 # game/v2/v2.rpy:3264
 translate polish try4done_679ca8e6:
 
     # "(I should really just choose a costume to buy.)"
-    ""
+    "(Naprawdę powinienem po prostu wybrać kostium, który kupię.)"
 
 # game/v2/v2.rpy:3275
 translate polish try4new_f4c99d29:
 
     # u "(Alright, rocking the Viking look.)"
-    u ""
+    u "(Dobra, odjazdowo wyglądający wiking)"
 
 # game/v2/v2.rpy:3277
 translate polish try4new_d69fd5d5:
 
     # u "(I wonder what Penelope is changing in to.)"
-    u ""
+    u "(Ciekawe, w co przebierze się Penelope.)"
 
 # game/v2/v2.rpy:3286
 translate polish try4new_5e7d2f55:
 
     # u "(Holy shit, if I could just stick my head through a bit further, I could get a way better view.)"
-    u ""
+    u "(Cholera, gdybym tylko mógł wsunąć głowę trochę dalej, mógłbym mieć o wiele lepszy widok.)"
 
 # game/v2/v2.rpy:3299
 translate polish try4new_6fe76176:
 
     # u "(Oh my god, her ass is so nice.)"
-    u ""
+    u "(O mój Boże, jej tyłek jest taki śliczny.)"
 
 # game/v2/v2.rpy:3301
 translate polish try4new_1999eee5:
 
     # u "(I should stop peeking now, or I'll get caught.)"
-    u ""
+    u "(Powinienem przestać podglądać, albo zaraz mnie przyłapie.)"
 
 # game/v2/v2.rpy:3316
 translate polish v2_nsfwSkipLabel4_c9690363:
 
     # u "(Let's see what Penelope thinks of this costume.)"
-    u ""
+    u "(Zobaczmy, co Penelope myśli o tym kostiumie.)"
 
 # game/v2/v2.rpy:3326
 translate polish v2_nsfwSkipLabel4_d5b92c88:
 
     # pe "Oh I don't think you should get that costume."
-    pe ""
+    pe "Och, myślę, że nie powinieneś kupować tego kostiumu."
 
 # game/v2/v2.rpy:3331
 translate polish v2_nsfwSkipLabel4_1891caa4:
 
     # u "Why? Do I look too dashing?"
-    u ""
+    u "Dlaczego? Nie wyglądam szykownie?"
 
 # game/v2/v2.rpy:3336
 translate polish v2_nsfwSkipLabel4_4445f003:
 
     # pe "No, it's just that Vikings didn't actually have horns on their helmets."
-    pe ""
+    pe "Nie, chodzi o to, że wikingowie nie nosili hełmów z rogami."
 
 # game/v2/v2.rpy:3338
 translate polish v2_nsfwSkipLabel4_42a8d686:
 
     # pe "And Mr. Lee said that the costumes should be historically accurate."
-    pe ""
+    pe "A pan Lee powiedział, że kostiumy powinny być związane z historią."
 
 # game/v2/v2.rpy:3343
 translate polish v2_nsfwSkipLabel4_74466041:
 
     # u "Oh, right. Totally."
-    u ""
+    u "Masz rację."
 
 # game/v2/v2.rpy:3347
 translate polish v2_nsfwSkipLabel4_94e659fd:
 
     # pe "So uhm... what do you think of my outfit?"
-    pe ""
+    pe "Więc eee... co myślisz o moim stroju?"
 
 # game/v2/v2.rpy:3356
 translate polish v2_nsfwSkipLabel4_9427cc31:
 
     # u "You look beautiful. Do you like it?"
-    u ""
+    u "Wygląsz cudownie. Podoba ci się?"
 
 # game/v2/v2.rpy:3361
 translate polish v2_nsfwSkipLabel4_b030db80:
 
     # pe "Awww, thank you."
-    pe ""
+    pe "Ooo, dziękuję."
 
 # game/v2/v2.rpy:3363
 translate polish v2_nsfwSkipLabel4_d07ac90d:
 
     # pe "Yeah, it's kinda cool."
-    pe ""
+    pe "Tak, jest całkiem fajny."
 
 # game/v2/v2.rpy:3366
 translate polish v2_nsfwSkipLabel4_784f0486:
 
     # pe "Should we try some other outfits?"
-    pe ""
+    pe "Chcesz przymierzyć inne kostiumy?"
 
 # game/v2/v2.rpy:3369
 translate polish v2_nsfwSkipLabel4_8928515d:
 
     # pe "Are you ready to buy an outfit?"
-    pe ""
+    pe "Zdecydowałeś się już na coś?"
 
 # game/v2/v2.rpy:3377
 translate polish v2_nsfwSkipLabel4_fdf7c84b:
 
     # u "I guess it's kinda nice. What do you think?"
-    u ""
+    u "Myślę, że jest całkiem ładny. A ty co myślisz?"
 
 # game/v2/v2.rpy:3382
 translate polish v2_nsfwSkipLabel4_ebc2e279:
 
     # pe "I like it, but I'm not sure."
-    pe ""
+    pe "Podoba mi się, ale nie jestem pewna."
 
 # game/v2/v2.rpy:3385
 translate polish v2_nsfwSkipLabel4_784f0486_1:
 
     # pe "Should we try some other outfits?"
-    pe ""
+    pe "Chcesz przymierzyć inne kostiumy?"
 
 # game/v2/v2.rpy:3388
 translate polish v2_nsfwSkipLabel4_8928515d_1:
 
     # pe "Are you ready to buy an outfit?"
-    pe ""
+    pe "Zdecydowałeś się już na coś?"
 
 # game/v2/v2.rpy:3408
 translate polish try5done_96bac669:
 
     # "(I mean looking at the Knight costume now, I notice that...)"
-    ""
+    "(Teraz patrząc na kostium Rycerza, widzę, że...)"
 
 # game/v2/v2.rpy:3410
 translate polish try5done_7fa8b529:
 
     # "(... it looks exactly the same as before.)"
-    ""
+    "(... wygląda dokładnie tak samo jak wcześniej.)"
 
 # game/v2/v2.rpy:3421
 translate polish try5new_b364b155:
 
     # u "(I definitely do not fit into these shoulder pads.)"
-    u ""
+    u "(Zdecydowanie nie pasuję do tych naramienników.)"
 
 # game/v2/v2.rpy:3423
 translate polish try5new_0814e0e0:
 
     # u "(Penelope is changing right next to me...)"
-    u ""
+    u "(Penelope przebiera się tuż obok mnie...)"
 
 # game/v2/v2.rpy:3432
 translate polish try5new_adec1f00:
 
     # u "(Wow... if I could just stick my head through a bit further, I could get a way better view."
-    u ""
+    u "(Wow...  gdybym tylko mógł wsunąć głowę trochę dalej, mógłbym mieć o wiele lepszy widok.)"
 
 # game/v2/v2.rpy:3445
 translate polish try5new_a8b4395e:
 
     # u "(Damn, what I wouldn't give to touch her ass right now.)"
-    u ""
+    u "(Masakra, oddałbym wszystko, żeby teraz dotknąć jej tyłka.)"
 
 # game/v2/v2.rpy:3447
 translate polish try5new_a7012ffd:
 
     # u "(I should stop peeking now, or I risk getting caught.)"
-    u ""
+    u "(Powinienem przestać podglądać, albo zaraz mnie przyłapie.)"
 
 # game/v2/v2.rpy:3461
 translate polish v2_nsfwSkipLabel5_7617b006:
 
     # u "(Time to show this to Penelope)"
-    u ""
+    u "(Czas pokazać się Penelope.)"
 
 # game/v2/v2.rpy:3471
 translate polish v2_nsfwSkipLabel5_be95785c:
 
     # pe "Oh, you're a knight!"
-    pe ""
+    pe "Och, jesteś rycerzem!"
 
 # game/v2/v2.rpy:3476
 translate polish v2_nsfwSkipLabel5_22e59b26:
 
     # u "Yeah and you're like a female with shoulder pads?"
-    u ""
+    u "Tak, a ty jesteś kobietą z poduszkami na ramionach?"
 
 # game/v2/v2.rpy:3481
 translate polish v2_nsfwSkipLabel5_5e850613:
 
     # pe "Sir, your perception skills are outstanding."
-    pe ""
+    pe "Panie, twoja spostrzegawczość mnie onieśmiela."
 
 # game/v2/v2.rpy:3486
 translate polish v2_nsfwSkipLabel5_ffa24c4f:
 
     # u "Well thank you, milady."
-    u ""
+    u "Pięknie dziękuję, moja pani."
 
 # game/v2/v2.rpy:3491
 translate polish v2_nsfwSkipLabel5_e4bda834:
 
     # pe "You know, our costumes fit quite well together."
-    pe ""
+    pe "Wiesz, nasze kostiumy całkiem dobrze do siebie pasują."
 
 # game/v2/v2.rpy:3497
 translate polish v2_nsfwSkipLabel5_4d80c854:
 
     # u "Yeah, maybe it's like the costume of two lovers, you know... historically speaking."
-    u ""
+    u "Prawda, może to trochę jak kostiumy dwojga kochanków, wiesz... w historycznym sensie."
 
 # game/v2/v2.rpy:3502
 translate polish v2_nsfwSkipLabel5_4881cc23:
 
     # pe "Haha, I'm sure that's the case."
-    pe ""
+    pe "Haha, na pewno tak było."
 
 # game/v2/v2.rpy:3505
 translate polish v2_nsfwSkipLabel5_b5ad0502:
 
     # pe "Let's continue, I wanna try another outfit."
-    pe ""
+    pe "Kontynuujmy, chcę przymierzyć inny kostium."
 
 # game/v2/v2.rpy:3508
 translate polish v2_nsfwSkipLabel5_8928515d:
 
     # pe "Are you ready to buy an outfit?"
-    pe ""
+    pe "Zdecydowałeś się już na coś?"
 
 # game/v2/v2.rpy:3513
 translate polish v2_nsfwSkipLabel5_2f9da969:
 
     # u "Yeah, it would be a cool partner costume."
-    u ""
+    u "Tak, pasowalibyśmy do siebie w tych kostiumach."
 
 # game/v2/v2.rpy:3518
 translate polish v2_nsfwSkipLabel5_5c182744:
 
     # pe "That's a sweet idea. Maybe we can do something like that."
-    pe ""
+    pe "To słodki pomysł. Może moglibyśmy coś takiego zrobić."
 
 # game/v2/v2.rpy:3521
 translate polish v2_nsfwSkipLabel5_507a43ec:
 
     # pe "But let's check out the other outfits first."
-    pe ""
+    pe "Ale najpierw przymierzmy inne stroje."
 
 # game/v2/v2.rpy:3524
 translate polish v2_nsfwSkipLabel5_bc9f16f8:
 
     # pe "Would you be ready to buy an outfit?"
-    pe ""
+    pe "Zdecydowałeś się już na coś?"
 
 # game/v2/v2.rpy:3547
 translate polish try6done_e45e2fd1:
 
     # "(The more I wear this, the more I feel like I would make a great cowboy.)"
-    ""
+    "(Im dłużej to noszę, tym bardziej czuję, że byłbym świetnym kowbojem.)"
 
 # game/v2/v2.rpy:3557
 translate polish try6new_284d5548:
 
     # u "(Yeehaw!)"
-    u ""
+    u "(No to wio!)"
 
 # game/v2/v2.rpy:3559
 translate polish try6new_1aba16da:
 
     # u "(I can hear Penelope sliding her clothes off...)"
-    u ""
+    u "(Słyszę jak Penelope zsuwa z siebie ubrania...)"
 
 # game/v2/v2.rpy:3568
 translate polish try6new_b270ad9e:
 
     # u "(Fuck... if I could just stick my head through a bit further, I could get a way better view."
-    u ""
+    u "(Kurwa... gdybym tylko mógł wsunąć głowę trochę dalej, mógłbym mieć o wiele lepszy widok.)"
 
 # game/v2/v2.rpy:3581
 translate polish try6new_5859855c:
 
     # u "(In all fairness, whenever I watch porn, the person getting caught spying gets to fuck the girl right afterwards.)"
-    u ""
+    u "(Szczerze mówiąc, za każdym razem, kiedy oglądam porno, osoba przyłapana na podglądaniu i tak rucha dziewczynę.)"
 
 # game/v2/v2.rpy:3583
 translate polish try6new_26a091a9:
 
     # u "(Still... I better stop peeking now, it's too risky.)"
-    u ""
+    u "(Ale i tak... lepiej przestanę podglądać, to zbyt ryzykowne.)"
 
 # game/v2/v2.rpy:3597
 translate polish v2_nsfwSkipLabel6_9f6f578e:
 
     # u "Man she's gonna love this costume."
-    u ""
+    u "Stary, ona pokocha ten kostium."
 
 # game/v2/v2.rpy:3602
 translate polish v2_nsfwSkipLabel6_63079810:
 
     # u "Penelope? Are you coming out?"
-    u ""
+    u "Penelope? Wychodzisz?"
 
 # game/v2/v2.rpy:3604
 translate polish v2_nsfwSkipLabel6_15298cba:
 
     # pe "Well I was trying on a costume, but after seeing I realize that it shows way too much skin to wear it to class."
-    pe ""
+    pe "Cóż, przymierzyłam kostium, ale właśnie zdałam sobie sprawę, że pokazuje zbyt dużo ciała, żeby założyć go na zajęcia."
 
 # game/v2/v2.rpy:3606
 translate polish v2_nsfwSkipLabel6_cfb6e0db:
 
     # u "Can I see?"
-    u ""
+    u "Mogę zobaczyć?"
 
 # game/v2/v2.rpy:3608
 translate polish v2_nsfwSkipLabel6_38062494:
 
     # pe "No, haha. Sorry."
-    pe ""
+    pe "Nie, haha. Wybacz."
 
 # game/v2/v2.rpy:3615
 translate polish v2_nsfwSkipLabel6_8d333e1a:
 
     # u "Oh come on, Penelope. I wanna see."
-    u ""
+    u "Daj spokój, Penelope. Chcę zobaczyć."
 
 # game/v2/v2.rpy:3618
 translate polish v2_nsfwSkipLabel6_6749b01c:
 
     # pe "Sorry but... I'm gonna get dressed again."
-    pe ""
+    pe "Wybacz, ale... chcę się już przebrać."
 
 # game/v2/v2.rpy:3621
 translate polish v2_nsfwSkipLabel6_ebb31da5:
 
     # u "Alright, fine."
-    u ""
+    u "Dobra, w porządku."
 
 # game/v2/v2.rpy:3626
 translate polish v2_nsfwSkipLabel6_1283716f:
 
     # u "Okay, fine."
-    u ""
+    u "Ok, niech będzie."
 
 # game/v2/v2.rpy:3628
 translate polish v2_nsfwSkipLabel6_d76759c0:
 
     # u "Then get dressed quickly, so that you can see my costume."
-    u ""
+    u "W takim razie szybko się ubierz, żebyś mogła zobaczyć mój kostium."
 
 # game/v2/v2.rpy:3630
 translate polish v2_nsfwSkipLabel6_557d2bda:
 
     # pe "Yeah, just give me a minute."
-    pe ""
+    pe "Dobra, daj mi chwilę."
 
 # game/v2/v2.rpy:3640
 translate polish v2_nsfwSkipLabel6_22984668:
 
     # pe "Wow, I'm not sure how I feel about the cowboy look."
-    pe ""
+    pe "Wow, nie jestem pewna, co mam myśleć o tym stroju kowboja."
 
 # game/v2/v2.rpy:3645
 translate polish v2_nsfwSkipLabel6_89e51cb4:
 
     # u "What?? I considered cowboy to be a serious career path for me after I saw myself in this outfit."
-    u ""
+    u "Co?? Poważnie rozważałem rozpoczęcie kariery kowboja, kiedy zobaczyłem się w tym stroju."
 
 # game/v2/v2.rpy:3650
 translate polish v2_nsfwSkipLabel6_e93cf270:
 
     # pe "Yeah... you should probably rethink that, haha."
-    pe ""
+    pe "Tia... chyba powinieneś to przemyśleć, haha."
 
 # game/v2/v2.rpy:3653
 translate polish v2_nsfwSkipLabel6_a296406c:
 
     # pe "Let's check out something different."
-    pe ""
+    pe "Przymierzmy coś innego."
 
 # game/v2/v2.rpy:3656
 translate polish v2_nsfwSkipLabel6_8928515d:
 
     # pe "Are you ready to buy an outfit?"
-    pe ""
+    pe "Zdecydowałeś się już na coś?"
 
 # game/v2/v2.rpy:3669
 translate polish caughta_1c1a21bf:
 
     # u "(Oh my god, her ass is perfect.)"
-    u ""
+    u "(O mój Boże, jej tyłek jest idealny.)"
 
 # game/v2/v2.rpy:3671
 translate polish caughta_1999eee5:
 
     # u "(I should stop peeking now, or I'll get caught.)"
-    u ""
+    u "(Powinienem przestać podglądać, albo zaraz mnie przyłapie.)"
 
 # game/v2/v2.rpy:3682
 translate polish caughtb_a8b4395e:
 
     # u "(Damn, what I wouldn't give to touch her ass right now.)"
-    u ""
+    u "(Masakra, oddałbym wszystko, żeby teraz dotknąć jej tyłka.)"
 
 # game/v2/v2.rpy:3684
 translate polish caughtb_a7012ffd:
 
     # u "(I should stop peeking now, or I risk getting caught.)"
-    u ""
+    u "(Powinienem przestać podglądać, albo zaraz mnie przyłapie.)"
 
 # game/v2/v2.rpy:3695
 translate polish caughtc_5859855c:
 
     # u "(In all fairness, whenever I watch porn, the person getting caught spying gets to fuck the girl right afterwards.)"
-    u ""
+    u "(Szczerze mówiąc, za każdym razem, kiedy oglądam porno, osoba przyłapana na podglądaniu i tak rucha dziewczynę.)"
 
 # game/v2/v2.rpy:3697
 translate polish caughtc_26a091a9:
 
     # u "(Still... I better stop peeking now, it's too risky.)"
-    u ""
+    u "(Ale i tak... lepiej przestanę podglądać, to zbyt ryzykowne.)"
 
 # game/v2/v2.rpy:3705
 translate polish v1_caughtContinue_fc4149f2:
 
     # au "[name], did I just see you pull your head out from underneath the dividers?"
-    au ""
+    au "[name], czy ja właśnie widziałam, jak wyciągasz głowę spod przegródek?"
 
 # game/v2/v2.rpy:3710
 translate polish v1_caughtContinue_95faea77:
 
     # au "[name]? Did you just peek on me?"
-    au ""
+    au "[name]? Czy ty mnie podglądasz?"
 
 # game/v2/v2.rpy:3720
 translate polish v1_caughtContinue_ecdc40cf:
 
     # u "Aubrey, I'm so sorry. It was just..."
-    u ""
+    u "Aubrey, bardzo przepraszam. To było po prostu..."
 
 # game/v2/v2.rpy:3722
 translate polish v1_caughtContinue_4d2a0445:
 
     # u "...so tempting."
-    u ""
+    u "...takie kuszące."
 
 # game/v2/v2.rpy:3727
 translate polish v1_caughtContinue_df0a5b58:
 
     # au "Honestly, it's okay. It was just kinda surprising."
-    au ""
+    au "Szczerze mówiąc, nie przeszkadzało mi to. Po prostu trochę mnie zaskoczyłeś."
 
 # game/v2/v2.rpy:3729
 translate polish v1_caughtContinue_4a923d62:
 
     # au "How about we just buy a costume and get going?"
-    au ""
+    au "Może po prostu kupimy kostiumy i pójdziemy stąd?"
 
 # game/v2/v2.rpy:3737
 translate polish v1_caughtContinue_5f43075d:
 
     # u "What are you talking about? You probably just saw my foot."
-    u ""
+    u "O czym ty mówisz? Pewnie zobaczyłaś moją stopę."
 
 # game/v2/v2.rpy:3747
 translate polish v1_caughtContinue_ee7c7ea8:
 
     # au "Wait really?"
-    au ""
+    au "Czekaj, naprawdę?"
 
 # game/v2/v2.rpy:3749
 translate polish v1_caughtContinue_94a999db:
 
     # au "Ooops, I guess never mind, let's just buy a costume."
-    au ""
+    au "Ups, to chyba nic takiego, po prostu kupmy kostiumy."
 
 # game/v2/v2.rpy:3754
 translate polish v1_caughtContinue_a9eb1f0d:
 
     # u "Yeah, it's fine. I'll pick one."
-    u ""
+    u "Tak, w porządku. Wybiorę któryś z nich."
 
 # game/v2/v2.rpy:3760
 translate polish v1_caughtContinue_8ce08bd4:
 
     # au "Yeah, right."
-    au ""
+    au "Ta, jasne."
 
 # game/v2/v2.rpy:3762
 translate polish v1_caughtContinue_59523f30:
 
     # au "Honestly, I didn't even mind, but why would you lie about it, that's messed up."
-    au ""
+    au "Szczerze mówiąc, nawet mi to nie przeszkadzało, ale dlaczego musiałeś skłamać, to jest powalone."
 
 # game/v2/v2.rpy:3764
 translate polish v1_caughtContinue_fccb15df:
 
     # au "I'm gonna leave, I guess I'll see you around."
-    au ""
+    au "Wychodzę, chyba zobaczymy się później."
 
 # game/v2/v2.rpy:3769
 translate polish v1_caughtContinue_6684c9a9:
 
     # u "(Fuck, I shouldn't have lied to her.)"
-    u ""
+    u "(Kurwa, nie powinienem był jej okłamywać.)"
 
 # game/v2/v2.rpy:3771
 translate polish v1_caughtContinue_1f305862:
 
     # u "(And I still need to buy a costume...)"
-    u ""
+    u "(I wciąż muszę kupić kostium...)"
 
 # game/v2/v2.rpy:3780
 translate polish caughtd_6fe76176:
 
     # u "(Oh my god, her ass is so nice.)"
-    u ""
+    u "(O mój Boże, jej tyłek jest taki śliczny.)"
 
 # game/v2/v2.rpy:3782
 translate polish caughtd_1999eee5:
 
     # u "(I should stop peeking now, or I'll get caught.)"
-    u ""
+    u "(Powinienem przestać podglądać, albo zaraz mnie przyłapie.)"
 
 # game/v2/v2.rpy:3794
 translate polish caughte_a8b4395e:
 
     # u "(Damn, what I wouldn't give to touch her ass right now.)"
-    u ""
+    u "(O mój Boże, jej tyłek jest taki śliczny.)"
 
 # game/v2/v2.rpy:3796
 translate polish caughte_a7012ffd:
 
     # u "(I should stop peeking now, or I risk getting caught.)"
-    u ""
+    u "(Powinienem przestać podglądać, albo zaraz mnie przyłapie.)"
 
 # game/v2/v2.rpy:3807
 translate polish caughtf_5859855c:
 
     # u "(In all fairness, whenever I watch porn, the person getting caught spying gets to fuck the girl right afterwards.)"
-    u ""
+    u "(Szczerze mówiąc, za każdym razem, kiedy oglądam porno, osoba przyłapana na podglądaniu i tak rucha dziewczynę.)"
 
 # game/v2/v2.rpy:3809
 translate polish caughtf_26a091a9:
 
     # u "(Still... I better stop peeking now, it's too risky.)"
-    u ""
+    u "(Ale i tak... lepiej przestanę podglądać, to zbyt ryzykowne.)"
 
 # game/v2/v2.rpy:3817
 translate polish v1_caughtContinue_pen_bfb4afdd:
 
     # pe "Oh my god! [name], did I just see you pull your head out from underneath the dividers??"
-    pe ""
+    pe "O mój Boże! [name], czy ja właśnie widziałam, jak wyciągasz głowę spod przegródek?"
 
 # game/v2/v2.rpy:3819
 translate polish v1_caughtContinue_pen_58f6b650:
 
     # pe "Did you spy on me??"
-    pe ""
+    pe "Podglądasz mnie??"
 
 # game/v2/v2.rpy:3825
 translate polish v1_caughtContinue_pen_bd2dee3b:
 
     # pe "[name]! What were you thinking?!"
-    pe ""
+    pe "[name]! Co ty sobie myślisz?!"
 
 # game/v2/v2.rpy:3835
 translate polish v1_caughtContinue_pen_31934a9a:
 
     # u "Penelope, I'm so sorry. It was just..."
-    u ""
+    u "Penelope, bardzo przepraszam. To było po prostu..."
 
 # game/v2/v2.rpy:3837
 translate polish v1_caughtContinue_pen_4d2a0445:
 
     # u "...so tempting."
-    u ""
+    u "...takie kuszące."
 
 # game/v2/v2.rpy:3842
 translate polish v1_caughtContinue_pen_828c026e:
 
     # pe "I don't know how to deal with this right now."
-    pe ""
+    pe "Nie wiem co mam teraz o tym myśleć."
 
 # game/v2/v2.rpy:3844
 translate polish v1_caughtContinue_pen_34c28773:
 
     # pe "I'm gonna leave, goodbye."
-    pe ""
+    pe "Wychodzę, do widzenia."
 
 # game/v2/v2.rpy:3849
 translate polish v1_caughtContinue_pen_948c682f:
 
     # u "(Fuck, I shouldn't have risked it.)"
-    u ""
+    u "(Kurwa, nie powinienem był ryzykować.)"
 
 # game/v2/v2.rpy:3851
 translate polish v1_caughtContinue_pen_1f305862:
 
     # u "(And I still need to buy a costume...)"
-    u ""
+    u "(I wciąż muszę kupić kostium...)"
 
 # game/v2/v2.rpy:3860
 translate polish v1_caughtContinue_pen_5f43075d:
 
     # u "What are you talking about? You probably just saw my foot."
-    u ""
+    u "O czym ty mówisz? Pewnie zobaczyłaś moją stopę."
 
 # game/v2/v2.rpy:3870
 translate polish v1_caughtContinue_pen_9c9b0acb:
 
     # pe "Wait really?"
-    pe ""
+    pe "Czekaj, naprawdę?"
 
 # game/v2/v2.rpy:3872
 translate polish v1_caughtContinue_pen_7fb91ed5:
 
     # pe "I'm so sorry, I just... I just thought-"
-    pe ""
+    pe "Przepraszam, ja tylko... po prostu myślałam-"
 
 # game/v2/v2.rpy:3874
 translate polish v1_caughtContinue_pen_db62e527:
 
     # pe "Let's just both buy a costume and get out of here."
-    pe ""
+    pe "Po postu kupmy kostiumy i chodźmy stąd."
 
 # game/v2/v2.rpy:3879
 translate polish v1_caughtContinue_pen_a9eb1f0d:
 
     # u "Yeah, it's fine. I'll pick one."
-    u ""
+    u "Tak, w porządku. Wybiorę któryś z nich."
 
 # game/v2/v2.rpy:3885
 translate polish v1_caughtContinue_pen_1f1ad7fe:
 
     # pe "[name], I know what I saw."
-    pe ""
+    pe "[name], wiem, co widziałam."
 
 # game/v2/v2.rpy:3887
 translate polish v1_caughtContinue_pen_94a64fa7:
 
     # pe "Why can't you just admit it?"
-    pe ""
+    pe "Dlaczego po prostu się nie przyznasz?"
 
 # game/v2/v2.rpy:3889
 translate polish v1_caughtContinue_pen_183d89ad:
 
     # pe "I don't know how to deal with this right now. Goodbye."
-    pe ""
+    pe "Nie wiem co mam teraz o tym myśleć. Do widzenia."
 
 # game/v2/v2.rpy:3894
 translate polish v1_caughtContinue_pen_948c682f_1:
 
     # u "(Fuck, I shouldn't have risked it.)"
-    u ""
+    u "(Kurwa, nie powinienem był ryzykować.)"
 
 # game/v2/v2.rpy:3896
 translate polish v1_caughtContinue_pen_1f305862_1:
 
     # u "(And I still need to buy a costume...)"
-    u ""
+    u "(I wciąż muszę kupić kostium...)"
 
 # game/v2/v2.rpy:3923
 translate polish buyCont_4746fd3b:
 
     # u "I'll take this one, please."
-    u ""
+    u "Poproszę ten."
 
 # game/v2/v2.rpy:3925
 translate polish buyCont_d8c9d619:
 
     # u "Pay by card."
-    u ""
+    u "Zapłacę kartą."
 
 # game/v2/v2.rpy:3930
 translate polish buyCont_c70c3763:
 
     # ev "Well I'm glad you guys found something."
-    ev ""
+    ev "Cieszę się, że coś znaleźliście."
 
 # game/v2/v2.rpy:3935
 translate polish buyCont_88654011:
 
     # u "Thanks again so much for helping us out."
-    u ""
+    u "Jeszcze raz bardzo dziękujemy za pomoc."
 
 # game/v2/v2.rpy:3940
 translate polish buyCont_b891b253:
 
     # ev "Yeah, it's no worry."
-    ev ""
+    ev "To nic takiego."
 
 # game/v2/v2.rpy:3945
 translate polish buyCont_a6568aaa:
 
     # ev "Alright, here you go."
-    ev ""
+    ev "Dobrze, proszę bardzo."
 
 # game/v2/v2.rpy:3950
 translate polish buyCont_9d654c2d:
 
     # u "Thank you, have a nice day."
-    u ""
+    u "Dziękuję, miłego dnia."
 
 # game/v2/v2.rpy:3955
 translate polish buyCont_6e31d732:
 
     # ev "You too."
-    ev ""
+    ev "Wzajemnie."
 
 # game/v2/v2.rpy:3960
 translate polish buyCont_01e623c3:
 
     # au "I had a really great time today."
-    au ""
+    au "Świetnie się dzisiaj bawiłam."
 
 # game/v2/v2.rpy:3965
 translate polish buyCont_fa4d288f:
 
     # au "But I wouldn't mind doing something different than costume shopping next time."
-    au ""
+    au "Ale nie miałabym nic przeciwko, żeby następnym razem porobić coś innego niż kupowanie kostiumów."
 
 # game/v2/v2.rpy:3970
 translate polish buyCont_c7296519:
 
     # u "Haha, I'm sure we'll find something fun to do."
-    u ""
+    u "Haha, na pewno wymyślimy coś fajnego."
 
 # game/v2/v2.rpy:3972
 translate polish buyCont_c886ea6f:
 
     # u "I gotta go right here, so I'll see you later, okay?"
-    u ""
+    u "Ja idę w tę stronę, zobaczymy się później, dobrze?"
 
 # game/v2/v2.rpy:3977
 translate polish buyCont_eb4b53b6:
 
     # au "Yeah, goodbye [name]."
-    au ""
+    au "Dobrze, do zobaczenia [name]."
 
 # game/v2/v2.rpy:3999
 translate polish v1_buyContinuePenelope_2f6dcc2a:
 
     # pe "Hey, sorry to ask this, but could you lend me the money for this? My dad just sent me a text that he froze my card."
-    pe ""
+    pe "Hej, przepraszam, że cię o to proszę, ale czy możesz zapłacić za mnie? Tata właśnie wysłał mi wiadomość, że zablokował moją kartę. Nie martw się, oddam."
 
 # game/v2/v2.rpy:4004
 translate polish v1_buyContinuePenelope_f53e85c0:
 
     # u "Oh shit. Yeah, of course."
-    u ""
+    u "O kurde. Pewnie, nie ma problemu."
 
 # game/v2/v2.rpy:4006
 translate polish v1_buyContinuePenelope_076106e2:
 
     # u "I'll take these two, please."
-    u ""
+    u "Poproszę te dwa."
 
 # game/v2/v2.rpy:4008
 translate polish v1_buyContinuePenelope_d8c9d619:
 
     # u "Pay by card."
-    u ""
+    u "Zapłacę kartą."
 
 # game/v2/v2.rpy:4013
 translate polish v1_buyContinuePenelope_c70c3763:
 
     # ev "Well I'm glad you guys found something."
-    ev ""
+    ev "Cieszę się, że coś znaleźliście."
 
 # game/v2/v2.rpy:4018
 translate polish v1_buyContinuePenelope_88654011:
 
     # u "Thanks again so much for helping us out."
-    u ""
+    u "Jeszcze raz bardzo dziękujemy za pomoc."
 
 # game/v2/v2.rpy:4023
 translate polish v1_buyContinuePenelope_b891b253:
 
     # ev "Yeah, it's no worry."
-    ev ""
+    ev "To nic takiego."
 
 # game/v2/v2.rpy:4028
 translate polish v1_buyContinuePenelope_a6568aaa:
 
     # ev "Alright, here you go."
-    ev ""
+    ev "Dobrze, proszę bardzo."
 
 # game/v2/v2.rpy:4033
 translate polish v1_buyContinuePenelope_9d654c2d:
 
     # u "Thank you, have a nice day."
-    u ""
+    u "Dziękuję, miłego dnia."
 
 # game/v2/v2.rpy:4038
 translate polish v1_buyContinuePenelope_6e31d732:
 
     # ev "You too."
-    ev ""
+    ev "Wzajemnie."
 
 # game/v2/v2.rpy:4043
 translate polish v1_buyContinuePenelope_8a573f4f:
 
     # pe "Thanks for paying for me."
-    pe ""
+    pe "Dzięki, że za mnie zapłaciłeś."
 
 # game/v2/v2.rpy:4048
 translate polish v1_buyContinuePenelope_6e568b1d:
 
     # pe "If you give me your number, I can let you know as soon as I have the money to pay you back."
-    pe ""
+    pe "Jeśli podasz mi swój numer, dam ci znać, gdy tylko będę miała pieniądzę, żeby ci je oddać."
 
 # game/v2/v2.rpy:4053
 translate polish v1_buyContinuePenelope_7293f7e9:
 
     # u "Yeah sounds, good."
-    u ""
+    u "Spoko."
 
 # game/v2/v2.rpy:4055
 translate polish v1_buyContinuePenelope_c886ea6f:
 
     # u "I gotta go right here, so I'll see you later, okay?"
-    u ""
+    u "Ja idę w tę stronę, zobaczymy się później, dobrze?"
 
 # game/v2/v2.rpy:4060
 translate polish v1_buyContinuePenelope_fbd6f2bc:
 
     # pe "Okay, bye [name]."
-    pe ""
+    pe "Dobrze, pa [name]."
 
 # game/v2/v2.rpy:4068
 translate polish eve1_4746fd3b:
 
     # u "I'll take this one, please."
-    u ""
+    u "Poproszę ten."
 
 # game/v2/v2.rpy:4070
 translate polish eve1_d8c9d619:
 
     # u "Pay by card."
-    u ""
+    u "Zapłacę kartą."
 
 # game/v2/v2.rpy:4075
 translate polish eve1_580b7101:
 
     # ev "Well I'm glad you found something."
-    ev ""
+    ev "Cieszę się, że coś znalazłeś."
 
 # game/v2/v2.rpy:4080
 translate polish eve1_0eee0588:
 
     # ev "Even though you seem to have a lost a person on the way."
-    ev ""
+    ev "Chociaż wydaje mi się, że chyba kogoś zgubiłeś."
 
 # game/v2/v2.rpy:4085
 translate polish eve1_442380a5:
 
     # u "Yeah, she had to get home."
-    u ""
+    u "Tak, musiała wrócić do domu."
 
 # game/v2/v2.rpy:4090
 translate polish eve1_a6568aaa:
 
     # ev "Alright, here you go."
-    ev ""
+    ev "Dobrze, proszę bardzo."
 
 # game/v2/v2.rpy:4100
 translate polish eve1_ee01f9b9:
 
     # u "Thanks."
-    u ""
+    u "Dzięki."
 
 # game/v2/v2.rpy:4102
 translate polish eve1_dccecc65:
 
     # u "Hey, is there any chance I could get your number?"
-    u ""
+    u "Hej, istnieje jakaś szansa, że dostanę twój numer?"
 
 # game/v2/v2.rpy:4107
 translate polish eve1_4251955d:
 
     # ev "I'm very flattered, but I'm 25 and you seem a bit too young for me."
-    ev ""
+    ev "Bardzo mi to schlebia, ale mam 25 lat, a ty wydajesz się dla mnie zbyt młody."
 
 # game/v2/v2.rpy:4112
 translate polish eve1_c7a9cc52:
 
     # u "Give me one date to change your mind."
-    u ""
+    u "Zgódź się na jedną randkę, a zmienisz zdanie."
 
 # game/v2/v2.rpy:4114
 translate polish eve1_76b147b2:
 
     # u "Come on, it'll be fun."
-    u ""
+    u "No chodź, będzie fajnie."
 
 # game/v2/v2.rpy:4116
 translate polish eve1_b70f8686:
 
     # ev "Give me one good reason to give you a chance."
-    ev ""
+    ev "Daj mi jeden dobry powód, aby dać ci szansę."
 
 # game/v2/v2.rpy:4128
 translate polish eve1_ab03e551:
 
     # u "Look, I don't know and you don't know me. I'm [name] and I'm just looking for someone to have a good time with."
-    u ""
+    u "Słuchaj, nie znam cię, a ty nie znasz mnie. Mam na imię [name] i po prostu szukam kogoś, z kim mógłbym miło spędzić czas."
 
 # game/v2/v2.rpy:4130
 translate polish eve1_89d9b46a:
 
     # u "It's not gonna be the most exciting night of your life, and it's not gonna be a boring night at home playing jenga with the girls."
-    u ""
+    u "To nie będzie najbardziej ekscytująca noc w twoim życiu, ale nie będzie to też nudna noc gry w jengę z koleżankami."
 
 # game/v2/v2.rpy:4132
 translate polish eve1_3fcd6793:
 
     # u "What this night will do, is serve as a benchmark for future dates with me."
-    u ""
+    u "Ta noc będzie służyć jako punkt odniesienia dla przyszłych randek ze mną."
 
 # game/v2/v2.rpy:4134
 translate polish eve1_6c6f5a99:
 
     # u "What do you say?"
-    u ""
+    u "Co powiesz na to?"
 
 # game/v2/v2.rpy:4139
 translate polish eve1_ecad669a:
 
     # ev "Damn, that was convincing. Okay, I'm in."
-    ev ""
+    ev "Kurcze, to było przekonujące. Dobra, wchodzę w to."
 
 # game/v2/v2.rpy:4141
 translate polish eve1_c9c5027b:
 
     # ev "I'll give you my number, but you better bring your A-game."
-    ev ""
+    ev "Dam ci mój numer, ale lepiej, żebyś nie marnował mojego czasu."
 
 # game/v2/v2.rpy:4146
 translate polish eve1_d39593f1:
 
     # u "Don't worry, you won't be disappointed."
-    u ""
+    u "Nie martw się, nie będziesz zawiedziona."
 
 # game/v2/v2.rpy:4151
 translate polish eve1_a5a91d71:
 
     # ev "Well, I'm looking forward to it."
-    ev ""
+    ev "Cóż, nie mogę się doczekać."
 
 # game/v2/v2.rpy:4156
 translate polish eve1_93dfeeeb:
 
     # u "Great, I'll let you know."
-    u ""
+    u "Świetnie, odezwę się do ciebie."
 
 # game/v2/v2.rpy:4158
 translate polish eve1_a13f14ef:
 
     # u "(I'm getting really good at this flirting thing...)"
-    u ""
+    u "(Zaczynam być naprawdę dobry w tym całym flirtowaniu...)"
 
 # game/v2/v2.rpy:4166
 translate polish eve1_f557a3ac:
 
     # u "How about I'll wear the costume I bought yesterday for our entire date?"
-    u ""
+    u "Co powiesz na to, że przez całą randkę będę nosił kostium, który kupiłem?"
 
 # game/v2/v2.rpy:4171
 translate polish eve1_ca334630:
 
     # ev "Look, it's very cute that you'd do that for me, but I just don't think we'd be a great fit."
-    ev ""
+    ev "Słuchaj, to bardzo słodkie, że byś to dla mnie zrobił, ale po prostu uważam, że do siebie nie pasujemy."
 
 # game/v2/v2.rpy:4173
 translate polish eve1_291f9cbd:
 
     # ev "I'm sure you'll find someone else."
-    ev ""
+    ev "Jestem pewna, że znajdziesz kogoś innego."
 
 # game/v2/v2.rpy:4178
 translate polish eve1_9f0efd63:
 
     # u "Oh okay... I guess I'll see you around."
-    u ""
+    u "Och ok... W takim razie do zobaczenia."
 
 # game/v2/v2.rpy:4180
 translate polish eve1_5c75aca5:
 
     # u "(Damn, that didn't go as planned...)"
-    u ""
+    u "(Cholera, to nie poszło zgodnie z planem...)"
 
 # game/v2/v2.rpy:4188
 translate polish eve1_9d654c2d:
 
     # u "Thank you, have a nice day."
-    u ""
+    u "Dziękuję, miłego dnia."
 
 # game/v2/v2.rpy:4193
 translate polish eve1_6e31d732:
 
     # ev "You too."
-    ev ""
+    ev "Wzajemnie."
 
 # game/v2/v2.rpy:4202
 translate polish v1_endShop_582914ae:
 
     # u "(The Wolves? What are they doing here?)"
-    u ""
+    u "(Wilki? Co oni tu robią?)"
 
 # game/v2/v2.rpy:4207
 translate polish v1_endShop_a063467e:
 
     # aa "Hey, you're the guy that got punched by Grayson!"
-    aa ""
+    aa "Hej, jesteś tym gościem, którego uderzył Grayson!"
 
 # game/v2/v2.rpy:4212
 translate polish v1_endShop_75de082c:
 
     # u "Really? Is that what I'm gonna be known for from now on?"
-    u ""
+    u "Serio? Czy teraz będę znany tylko z tego powodu?"
 
 # game/v2/v2.rpy:4217
 translate polish v1_endShop_69a2e875:
 
     # ch "It doesn't have to be."
-    ch ""
+    ch "Wcale nie musi tak być."
 
 # game/v2/v2.rpy:4219
-translate polish v1_endShop_98f1162f:
+translate polish v1_endShop_98f1162f:+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
     # ch "Look, Grayson's an asshole. If you wanna get back at him, you should pledge the Wolves."
-    ch ""
+    ch "Słuchaj, Grayson to dupek. Jeśli chcesz się na nim odegrać, powinieneś wstąpić do Wilków."
 
 # game/v2/v2.rpy:4221
 translate polish v1_endShop_af56f0be:
@@ -4147,23 +4147,23 @@ translate polish strings:
 
     # game/v2/v2.rpy:2792
     old "It's kinda hot."
-    new "Jest seksowny."
+    new "Wyglądasz seksownie."
 
     # game/v2/v2.rpy:2792
     old "It's definitely something."
-    new ""
+    new "Nie jest taki zły."
 
     # game/v2/v2.rpy:2928
     old "looking mighty fine."
-    new ""
+    new "wygląda oszałamiająco."
 
     # game/v2/v2.rpy:2928
     old "certainly practical."
-    new ""
+    new "jest całkiem praktyczny."
 
     # game/v2/v2.rpy:3072
     old "Oh come on."
-    new "Och, no weź."
+    new "Daj spokój."
 
     # game/v2/v2.rpy:3072
     old "Fine."
@@ -4171,25 +4171,25 @@ translate polish strings:
 
     # game/v2/v2.rpy:3349
     old "You look beautiful."
-    new ""
+    new "Wygląsz cudownie."
 
     # game/v2/v2.rpy:3349
     old "I guess it's nice"
-    new ""
+    new "Jest całkiem ładny."
 
     # game/v2/v2.rpy:3712
     old "Deny it"
-    new ""
+    new "Zaprzecz"
 
     # game/v2/v2.rpy:4092
     old "Make a move."
-    new ""
+    new "Podrywaj."
 
     # game/v2/v2.rpy:4121
     old "Be smart"
-    new ""
+    new "Bądź błyskotliwy"
 
     # game/v2/v2.rpy:4121
     old "Be funny"
-    new ""
+    new "Bądź zabawny"
 
