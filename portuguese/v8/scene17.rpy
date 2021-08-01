@@ -530,5 +530,5 @@ translate portuguese strings:
 translate portuguese phn_penelope6_done_4abab1f7:
 
     # ro "The whole place is... tainted!"
-    ro ""
+    ro "O lugar inteiro está... contaminado!"
 
