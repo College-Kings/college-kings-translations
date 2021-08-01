@@ -528,133 +528,133 @@ translate portuguese v8_ri_start_9d30626e:
 translate portuguese v8s3_nsfwSkipLabel1_98220662:
 
     # u "(She's up already.)"
-    u ""
+    u "(Ela já acordou.)"
 
 # game/v8/scene3.rpy:312
 translate portuguese v8s3_nsfwSkipLabel1_1f7d4f5a:
 
     # ri "Well, good morning to you!"
-    ri ""
+    ri "Bom dia flor do dia!"
 
 # game/v8/scene3.rpy:316
 translate portuguese v8s3_nsfwSkipLabel1_457f269e:
 
     # u "Morning! What are you up to?"
-    u ""
+    u "Bom dia! Tá fazendo o que?"
 
 # game/v8/scene3.rpy:320
 translate portuguese v8s3_nsfwSkipLabel1_0e0d37ca:
 
     # ri "Oh nothing, just this assignment I had pending."
-    ri ""
+    ri "Nada demais, só uma lição que eu tinha que acabar."
 
 # game/v8/scene3.rpy:324
 translate portuguese v8s3_nsfwSkipLabel1_f15e04e7:
 
     # u "Riley... It's 7AM!"
-    u ""
+    u "Riley... são 7 da manhã!"
 
 # game/v8/scene3.rpy:328
 translate portuguese v8s3_nsfwSkipLabel1_6237de07:
 
     # ri "Well..."
-    ri ""
+    ri "Bom..."
 
 # game/v8/scene3.rpy:332
 translate portuguese v8s3_nsfwSkipLabel1_4597b3ef:
 
     # u "On a Saturday!"
-    u ""
+    u "De um sábado!"
 
 # game/v8/scene3.rpy:336
 translate portuguese v8s3_nsfwSkipLabel1_c3821aa5:
 
     # ri "It's-"
-    ri ""
+    ri "É que-"
 
 # game/v8/scene3.rpy:340
 translate portuguese v8s3_nsfwSkipLabel1_c820ecb2:
 
     # u "Just after homecoming night."
-    u ""
+    u "No dia seguinte ao baile."
 
 # game/v8/scene3.rpy:344
 translate portuguese v8s3_nsfwSkipLabel1_1768e78b:
 
     # ri "Oh, will you stop already? *laughs*"
-    ri ""
+    ri "Ah, você já pode parar, tá? *Risadas*"
 
 # game/v8/scene3.rpy:348
 translate portuguese v8s3_nsfwSkipLabel1_2a638174:
 
     # ri "I just like to finish up my work as early as I can so I have free time later."
-    ri ""
+    ri "Eu só queria adiantar um pouco minha lição, pra ter mais tempo livre depois."
 
 # game/v8/scene3.rpy:353
 translate portuguese v8s3_nsfwSkipLabel1_9ba7b681:
 
     # u "No wonder you were able to add 35 references in your Econ assignment *laughs*"
-    u ""
+    u "Não me surpreende que você conseguiu adicionar 35 bibliografias no trabalho de economia *Risadas*"
 
 # game/v8/scene3.rpy:357
 translate portuguese v8s3_nsfwSkipLabel1_29061286:
 
     # ri "It's, uh... 47 now."
-    ri ""
+    ri "Na verdade, hm... agora são 47."
 
 # game/v8/scene3.rpy:361
 translate portuguese v8s3_nsfwSkipLabel1_5963a69f:
 
     # u "Are you kidding me!?"
-    u ""
+    u "Você tá de brincadeira?!"
 
 # game/v8/scene3.rpy:366
 translate portuguese v8s3_nsfwSkipLabel1_8c2eb65a:
 
     # u "Unbelievable."
-    u ""
+    u "Inacreditável."
 
 # game/v8/scene3.rpy:370
 translate portuguese v8s3_nsfwSkipLabel1_fa33cfb2:
 
     # ri "Hey, it's not that weird, is it now?"
-    ri ""
+    ri "Ei, não é tão estranho assim, ou é?"
 
 # game/v8/scene3.rpy:374
 translate portuguese v8s3_nsfwSkipLabel1_22d35d79:
 
     # u "Haha, not really. I just did not expect it."
-    u ""
+    u "Haha, na verdade não. Eu só não estava esperando isso."
 
 # game/v8/scene3.rpy:378
 translate portuguese v8s3_nsfwSkipLabel1_497ec5d1:
 
     # u "Anyway, carry on I guess. I'll go freshen up."
-    u ""
+    u "De qualquer jeito, prossiga. Eu vou tomar um banho."
 
 # game/v8/scene3.rpy:396
 translate portuguese v8s3_nsfwSkipLabel1_06d8dbc2:
 
     # ri "At least get dressed before you go hotshot."
-    ri ""
+    ri "Pelo menos se veste antes de ir gostosão."
 
 # game/v8/scene3.rpy:400
 translate portuguese v8s3_nsfwSkipLabel1_ff1c7d65:
 
     # u "Oops, haha yeah."
-    u ""
+    u "oops, haha é verdade."
 
 # game/v8/scene3.rpy:404
 translate portuguese v8s3_nsfwSkipLabel1_cbbe3be5:
 
     # u "Well... See you later."
-    u ""
+    u "Bom... a gente se vê."
 
 # game/v8/scene3.rpy:410
 translate portuguese v8s3_nsfwSkipLabel1_9d30626e:
 
     # ri "Hit me up when you're free. Byeee."
-    ri ""
+    ri "Me dá um toque quando tiver livre. Tchauuu."
 
 # TODO: Translation updated at 2021-07-31 16:17
 
@@ -662,311 +662,311 @@ translate portuguese v8s3_nsfwSkipLabel1_9d30626e:
 translate portuguese v8s3_rileyCowgirl_eda8b360:
 
     # ri "Mmmm..."
-    ri ""
+    ri "Mmmm..."
 
 # game/v8/scene3.rpy:131
 translate portuguese v8s3_rileyCowgirl_86747027:
 
     # u "(She's so wet, she slipped right through.)"
-    u ""
+    u "(Ela tá tão molhadinha, entrou sem dificuldade.)"
 
 # game/v8/scene3.rpy:137
 translate portuguese v8s3_rileyCowgirl_172d2077:
 
     # ri "*Moans lightly*"
-    ri ""
+    ri "*Geme levemente*"
 
 # game/v8/scene3.rpy:138
 translate portuguese v8s3_rileyCowgirl_73873b8e:
 
     # ri "[name]... you feel so good!"
-    ri ""
+    ri "[name]... isso é tão bom!"
 
 # game/v8/scene3.rpy:143
 translate portuguese v8s3_rileyCowgirl_87175e70:
 
     # u "(Oh, she's starting to pick up the pace.)"
-    u ""
+    u "(Ah, ela tá começando a entrar no ritmo.)"
 
 # game/v8/scene3.rpy:144
 translate portuguese v8s3_rileyCowgirl_d839211b:
 
     # ri "Oh yes!"
-    ri ""
+    ri "Isso!"
 
 # game/v8/scene3.rpy:150
 translate portuguese v8s3_rileyCowgirl_5b185690:
 
     # u "Ahh! You're so hot, Riley!"
-    u ""
+    u "Ahhh! Você é tão gostosa Riley!"
 
 # game/v8/scene3.rpy:152
 translate portuguese v8s3_rileyCowgirl_d5f0f25d:
 
     # ri "You want me to go faster?"
-    ri ""
+    ri "Você quer que eu vá mais rápido?"
 
 # game/v8/scene3.rpy:153
 translate portuguese v8s3_rileyCowgirl_8a29721f:
 
     # u "If you can, yeah."
-    u ""
+    u "Se você puder, manda bala."
 
 # game/v8/scene3.rpy:159
 translate portuguese v8s3_rileyCowgirl_9965325c:
 
     # u "(She's trying, but hasn't actually sped up much.)"
-    u ""
+    u "(Ela tá tentando, mas eu acho que não fez muita diferença.)"
 
 # game/v8/scene3.rpy:160
 translate portuguese v8s3_rileyCowgirl_d30e26f0:
 
     # ri "[name]... Let's change up."
-    ri ""
+    ri "[name]... Vamos trocar de posição."
 
 # game/v8/scene3.rpy:161
 translate portuguese v8s3_rileyCowgirl_c9ff1539:
 
     # ri "*Moans* I want you to fuck me from behind."
-    ri ""
+    ri "*Gemendo* Eu quero que você me coma de quatro."
 
 # game/v8/scene3.rpy:167
 translate portuguese v8s3_rileyLiftDoggy_76fd10b4:
 
     # ri "Well, what are you waiting for?"
-    ri ""
+    ri "Então, tá esperando o que?"
 
 # game/v8/scene3.rpy:172
 translate portuguese v8s3_rileyLiftDoggy_4b82e33b:
 
     # ri "Oh God! Yes!"
-    ri ""
+    ri "Meu deus! Isso!"
 
 # game/v8/scene3.rpy:177
 translate portuguese v8s3_rileyLiftDoggy_4e02250a:
 
     # u "Ahh fuck!"
-    u ""
+    u "Ahh porra!"
 
 # game/v8/scene3.rpy:178
 translate portuguese v8s3_rileyLiftDoggy_51d3990d:
 
     # ri "*Moans* Harder!"
-    ri ""
+    ri "*Gemidos* Mais forte!"
 
 # game/v8/scene3.rpy:183
 translate portuguese v8s3_rileyLiftDoggy_6676b031:
 
     # u "Hngh!"
-    u ""
+    u "Ahm!"
 
 # game/v8/scene3.rpy:184
 translate portuguese v8s3_rileyLiftDoggy_b4b1ecd9:
 
     # ri "Fuck yes! Just like that!"
-    ri ""
+    ri "Isso porra! Assim porra!"
 
 # game/v8/scene3.rpy:189
 translate portuguese v8s3_rileyLiftDoggy_91c5f429:
 
     # ri "*Moans loudly*"
-    ri ""
+    ri "*Gemendo alto*"
 
 # game/v8/scene3.rpy:190
 translate portuguese v8s3_rileyLiftDoggy_5c4fc619:
 
     # ri "Harder! Show me your... *moans*{w} best."
-    ri ""
+    ri "Mais forte porra! Mostra do... *gemidos*{w} é capaz"
 
 # game/v8/scene3.rpy:191
 translate portuguese v8s3_rileyLiftDoggy_1602ef5e:
 
     # u "Ahh! Get your hands here."
-    u ""
+    u "Ahhh! Coloca a mão aqui."
 
 # game/v8/scene3.rpy:197
 translate portuguese v8s3_rileyDoggy_0433e828:
 
     # u "You like that?"
-    u ""
+    u "Você gosta disso?"
 
 # game/v8/scene3.rpy:198
 translate portuguese v8s3_rileyDoggy_46b8446f:
 
     # ri "Yes! Yes! God yes!"
-    ri ""
+    ri "Isso! Isso! VAI PORRA!"
 
 # game/v8/scene3.rpy:200
 translate portuguese v8s3_rileyDoggy_f0069fd8:
 
     # ri "Oh God baby, you feel so... *moans*"
-    ri ""
+    ri "Caraca gato, você é tão... *gemidos*"
 
 # game/v8/scene3.rpy:201
 translate portuguese v8s3_rileyDoggy_7b2c2964:
 
     # ri "...fucking good!!!"
-    ri ""
+    ri "...tão bom porra!!!"
 
 # game/v8/scene3.rpy:202
 translate portuguese v8s3_rileyDoggy_eb9e57b9:
 
     # u "It's about to feel better now."
-    u ""
+    u "Tá a ponto de ficar melhor ainda."
 
 # game/v8/scene3.rpy:207
 translate portuguese v8s3_rileyDoggy_2cab7c6e:
 
     # ri "Yes! Yes! Don't stop!"
-    ri ""
+    ri "Isso! Vai! Não pára!"
 
 # game/v8/scene3.rpy:209
 translate portuguese v8s3_rileyDoggy_831702b6:
 
     # ri "[name]... Fuck! I'm about to... *moans*"
-    ri ""
+    ri "[name]... Porra! Eu vou... *gemidos*"
 
 # game/v8/scene3.rpy:210
 translate portuguese v8s3_rileyDoggy_e8b71f2f:
 
     # u "Ahh! I'm also close. Fuck!"
-    u ""
+    u "Ahh!! Eu tô quase também. Porra!"
 
 # game/v8/scene3.rpy:211
 translate portuguese v8s3_rileyDoggy_c9e65db6:
 
     # ri "*Moans really loud*" with hpunch
-    ri "" with hpunch
+    ri "*Gemendo muito alto*" with hpunch
 
 # game/v8/scene3.rpy:212
 translate portuguese v8s3_rileyDoggy_afde7175:
 
     # u "Did you-"
-    u ""
+    u "Você acabou-"
 
 # game/v8/scene3.rpy:213
 translate portuguese v8s3_rileyDoggy_ee532d24:
 
     # ri "Yes! *moans*"
-    ri ""
+    ri "SIM! *gemendo*"
 
 # game/v8/scene3.rpy:215
 translate portuguese v8s3_rileyDoggy_be19ca7b:
 
     # ri "Cum in me. I want it.{w} Now!!!"
-    ri ""
+    ri "Goza dentro. Eu quero tudinho lá dentro.{w} AGORA!!!"
 
 # game/v8/scene3.rpy:216
 translate portuguese v8s3_rileyDoggy_f15cadce:
 
     # u "You sure?"
-    u ""
+    u "Tem certeza?"
 
 # game/v8/scene3.rpy:217
 translate portuguese v8s3_rileyDoggy_7806a7b4:
 
     # ri "Yes, I'm on the pill."
-    ri ""
+    ri "Sim, eu tô tomando meu anticonceptivo."
 
 # game/v8/scene3.rpy:219
 translate portuguese v8s3_rileyDoggy_ae1b3cb7:
 
     # u "Ah yes! Ahhh fuck!" with hpunch
-    u "" with hpunch
+    u "Isso! Puta merda!" with hpunch
 
 # game/v8/scene3.rpy:227
 translate portuguese v8s3_rileyDoggy_65df360a:
 
     # ri "Mmmmm!"
-    ri ""
+    ri "Mmmmm!"
 
 # game/v8/scene3.rpy:237
 translate portuguese v8s3_rileyDoggy_4d3ab0a5:
 
     # ri "Fuck me. That was so good!"
-    ri ""
+    ri "Catapimbas. Isso foi bom demais!"
 
 # game/v8/scene3.rpy:245
 translate portuguese v8s3_rileyDoggy_489878ad:
 
     # u "Agreed."
-    u ""
+    u "Concordo."
 
 # game/v8/scene3.rpy:249
 translate portuguese v8s3_rileyDoggy_6da31428:
 
     # ri "I haven't had such an orgasm in like... ever!"
-    ri ""
+    ri "Eu não tinha gozado desse jeito desde... desde nunca!"
 
 # game/v8/scene3.rpy:253
 translate portuguese v8s3_rileyDoggy_366fc8d3:
 
     # u "Haha, glad to be of service!"
-    u ""
+    u "Haha, fico feliz de ter te proporcionado isso!"
 
 # game/v8/scene3.rpy:254
 translate portuguese v8s3_rileyDoggy_2057c186:
 
     # ri "*Chuckles*"
-    ri ""
+    ri "*Risadas*"
 
 # game/v8/scene3.rpy:264
 translate portuguese v8s3_rileyDoggy_b84e9fc9:
 
     # u "By the way, where's your roommate?"
-    u ""
+    u "Falando nisso, cadê a tua colega de quarto?"
 
 # game/v8/scene3.rpy:268
 translate portuguese v8s3_rileyDoggy_8793c7f5:
 
     # ri "She isn't gonna be back until noon tomorrow."
-    ri ""
+    ri "Ela não vai voltar até o meio-dia de amanhã."
 
 # game/v8/scene3.rpy:273
 translate portuguese v8s3_rileyDoggy_e3196af1:
 
     # ri "Which is why you're gonna sleep here this time *Chuckles*"
-    ri ""
+    ri "E é por isso que você vai dormir aqui hoje. *Risadas*"
 
 # game/v8/scene3.rpy:278
 translate portuguese v8s3_rileyDoggy_3f255ba7:
 
     # ri "Which is why I wish you stay here until the morning."
-    ri ""
+    ri "Pelo qual eu quero que você fique aqui até amanhã."
 
 # game/v8/scene3.rpy:282
 translate portuguese v8s3_rileyDoggy_c7436fb2:
 
     # u "Why? You wanna go another round after waking up?"
-    u ""
+    u "Por quê? Você quer o segundo round quando acordar?"
 
 # game/v8/scene3.rpy:286
 translate portuguese v8s3_rileyDoggy_e1a37bce:
 
     # ri "Haha, I didn't mean that, but we'll see."
-    ri ""
+    ri "Haha, eu não estava me referindo a isso, mas vou pensar no seu caso."
 
 # game/v8/scene3.rpy:290
 translate portuguese v8s3_rileyDoggy_f1d8ec86:
 
     # u "Mhmm. You tired?"
-    u ""
+    u "Mhmm. Você tá cansada?"
 
 # game/v8/scene3.rpy:294
 translate portuguese v8s3_rileyDoggy_33c6856e:
 
     # ri "Very."
-    ri ""
+    ri "Muito."
 
 # game/v8/scene3.rpy:298
 translate portuguese v8s3_rileyDoggy_4960e549:
 
     # u "Get some rest then."
-    u ""
+    u "Descansa então."
 
 # game/v8/scene3.rpy:302
 translate portuguese v8s3_rileyDoggy_9c911bff:
 
     # ri "Good night, [name]."
-    ri ""
+    ri "Boa noite, [name]."
 
