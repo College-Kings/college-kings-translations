@@ -682,5 +682,5 @@ translate portuguese strings:
 translate portuguese phn_chloe11_done_8eecb18c:
 
     # u "(Oh, Chloe is here.)"
-    u ""
+    u "(Ah, a Chloe tá aqui.)"
 
