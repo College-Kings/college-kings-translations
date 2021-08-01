@@ -1084,5 +1084,5 @@ translate portuguese strings:
 translate portuguese after_drugs_db33d2f9:
 
     # u "He's sleeping at the moment, Amber, and I..."
-    u ""
+    u "Ele está dormindo agora, Amber, e Eu..."
 
