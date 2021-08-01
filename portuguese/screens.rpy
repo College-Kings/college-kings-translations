@@ -312,17 +312,17 @@ translate portuguese strings:
 
     # game/screens.rpy:374
     old "Start"
-    new ""
+    new "Iniciar"
 
     # game/screens.rpy:384
     old "Preferences"
-    new ""
+    new "Preferências"
 
     # game/screens.rpy:687
     old "save"
-    new ""
+    new "salvar"
 
     # game/screens.rpy:959
     old "Change Language"
-    new ""
+    new "Trocar Idioma"
 
