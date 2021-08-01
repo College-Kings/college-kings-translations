@@ -2214,8 +2214,8 @@ translate polish csaub_6adf6270:
     au "Haha, tak myślałam. W takim razie chodźmy."
 
 # game/v2/v2.rpy:2635
-translate polish csaub_7905f04a:+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
+translate polish csaub_7905f04a:
+#++++++++++++++++++++++++++++++++++++
     # u "Didn't you say this was a costume shop?"
     u "Czy nie mówiłaś, że to sklep z kostiumami?"
 
@@ -2259,7 +2259,7 @@ translate polish csaub_3e2f50e5:
 translate polish csaub_3af28705:
 
     # ev "I can check if we still have some costumes in the back, but it'll be a limited selection."
-    ev "Mogę sprawdzić, czy mamy jeszcze jakieś kostiumy na zapleczu, ale wybór będzie ograniczony.
+    ev "Mogę sprawdzić, czy mamy jeszcze jakieś kostiumy na zapleczu, ale wybór będzie ograniczony."
 
 # game/v2/v2.rpy:2670
 translate polish csaub_7d01aa02:
