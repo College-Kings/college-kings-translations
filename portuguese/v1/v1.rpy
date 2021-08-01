@@ -5518,21 +5518,21 @@ translate portuguese strings:
 translate portuguese starta_22bad4d4:
 
     # u "Mhm..."
-    u ""
+    u "Mhm..."
 
 # game/v1/v1.rpy:2668
 translate portuguese aw_bd_08fc64de:
 
     # la "I... I haven't actually had sex before."
-    la ""
+    la "Eu... eu nunca tive sexo na minha vida."
 
 translate portuguese strings:
 
     # game/v1/v1.rpy:167
     old "Hey...\nI know we haven't talked much after we broke up, but I just wanted to let you know that I didn't get into Stanford, so I'll be going to San Vallejo as well.\nGuess I'll see you there. :)"
-    new ""
+    new "Oi... \Eu sei que a gente não falou muito desde que terminou, mas eu só queria falar pra você que eu não consegui entrar pra Stanford, então eu vou pra San Vallejo também. \nAcho que a gente se vê então. :)"
 
     # game/v1/v1.rpy:168
     old "Yeah... I'll see you there."
-    new ""
+    new "Tá... a gente se vê lá."
 
