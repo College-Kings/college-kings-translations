@@ -552,5 +552,5 @@ translate portuguese strings:
 translate portuguese prot_w_au_wing_3468a7ad:
 
     # aut "That's good. It's nice to know people who are knowledgeable in politics and the issues we still face in society everyday."
-    aut ""
+    aut "Isso é bom. É bom saber que existem pessoas que compreendem política e os problemas que a sociedade enfrenta todos os dias."
 
