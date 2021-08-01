@@ -2259,7 +2259,7 @@ translate polish csaub_3e2f50e5:
 translate polish csaub_3af28705:
 
     # ev "I can check if we still have some costumes in the back, but it'll be a limited selection."
-    ev "Mogę sprawdzić, czy mamy jeszcze jakieś kostiumy na zapleczu, ale wybór będzie ograniczony.
+    ev "Mogę sprawdzić, czy mamy jeszcze jakieś kostiumy na zapleczu, ale wybór będzie ograniczony."
 
 # game/v2/v2.rpy:2670
 translate polish csaub_7d01aa02:
