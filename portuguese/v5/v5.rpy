@@ -4085,35 +4085,35 @@ translate portuguese strings:
 translate portuguese ev_bd_7e2bb437:
 
     # u "(Way to mess things up with Chloe... great fucking job, [name].)"
-    u ""
+    u "(Bela maneira de estragar tudo com a Chloe... mandou bem [name].)"
 
 # game/v5/v5.rpy:283
 translate portuguese jorepb_326bb96d:
 
     # u "He said Grayson told him about a lot of shady shit that you did in the past."
-    u ""
+    u "Ele disse que o Grayson contou pra ele sobre um monte de coisas sinistras que você fez no passado."
 
 # game/v5/v5.rpy:582
 translate portuguese nnbd_7e2bb437:
 
     # u "(Way to mess things up with Chloe... great fucking job, [name].)"
-    u ""
+    u "(Bela maneira de estragar tudo com a Chloe... mandou bem [name].)"
 
 # game/v5/v5.rpy:754
 translate portuguese continuez_bd485a95:
 
     # la "Oh... yeah, of course, I'm sorry, I didn't-"
-    la ""
+    la "Ah... sim, claro, eu sinto muito, eu não-"
 
 # game/v5/v5.rpy:2127
 translate portuguese gokiss_bd485a95:
 
     # la "Oh... yeah, of course, I'm sorry, I didn't-"
-    la ""
+    la "Ah... sim, claro, eu sinto muito, eu não-"
 
 # game/v5/v5.rpy:2246
 translate portuguese hospitala_09b5abca:
 
     # u "Mhmmm..."
-    u ""
+    u "Mhmmm..."
 
