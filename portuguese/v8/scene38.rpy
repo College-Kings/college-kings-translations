@@ -174,11 +174,11 @@ translate portuguese seb_in_room_abd362e9:
 translate portuguese seb_in_room_3f3a6bc0:
 
     # se "Haha, I'm not surprised. Me and Marcus climb the hospital, from the ground to roof, no equipment, just pure balls and stupidity haha."
-    se ""
+    se "Haha, eu não estou surpreso. Eu e o Marcus escalamos o hospital, do chão até o telhado, sem equipamento, só com os culhões e um monte de idiotez, haha."
 
 # game/v8/scene38.rpy:134
 translate portuguese seb_in_room_437fec49:
 
     # se "It's also a great workout bro. Really gets those muscles working and that blood pumping. You in?"
-    se ""
+    se "É um ótimo exercício também. Você acaba ativando os músculos e faz o sangue fluir. Você topa?"
 
