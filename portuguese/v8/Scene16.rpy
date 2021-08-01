@@ -102,5 +102,5 @@ translate portuguese strings:
 
     # game/v8/Scene16.rpy:8
     old "Took a lot of work but Homecoming looks great"
-    new ""
+    new "Deu bastante trabalho, mas o baile ficou incrível."
 
