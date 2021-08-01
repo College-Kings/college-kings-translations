@@ -4,5 +4,5 @@ translate portuguese strings:
 
     # game/customScreens.rpy:16
     old "Select Language"
-    new ""
+    new "Selecionar Idioma"
 
