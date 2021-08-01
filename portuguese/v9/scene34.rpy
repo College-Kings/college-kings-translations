@@ -10,7 +10,7 @@ translate portuguese v9_ri_sex_b4c8c4cb:
 translate portuguese v9_ri_sex_69d3bdd0:
 
     # ri "Hi. That was fast?"
-    ri "Oii. Isso foi rápido?"
+    ri "Oii. Chegou rapido ein?"
 
 # game/v9/scene34.rpy:27
 translate portuguese v9_ri_sex_4b863404:
@@ -34,25 +34,25 @@ translate portuguese v9_ri_sex_f11df369:
 translate portuguese v9_ri_sex_2c7af909:
 
     # ri "Had a late night so I've just been chilling in my room mostly."
-    ri "Tive uma noite longa, por isso estava relaxando no meu quarto, principalmente."
+    ri "Tive uma noite longa, por isso estava relaxando no meu quarto."
 
 # game/v9/scene34.rpy:47
 translate portuguese v9_ri_sex_fc323bec:
 
     # u "A late night, huh? Should I be jealous?"
-    u "Uma noite longa, hein? Devo ficar com ciúmes?"
+    u "Uma noite longa, hein? Deveria ficar com ciúmes?"
 
 # game/v9/scene34.rpy:52
 translate portuguese v9_ri_sex_6342177d:
 
     # ri "You staking your claim, big boy?"
-    ri "Está defendendo sua reivindicação, garotão?"
+    ri "Está defendendo seu território, garotão?"
 
 # game/v9/scene34.rpy:57
 translate portuguese v9_ri_sex_2c55bf47:
 
     # ri "Aubrey and I went shopping. Had to get some new tops to match my new glasses."
-    ri "Aubrey e eu fomos às compras. Tive que comprar alguns tops novos para combinar com meus novos óculos."
+    ri "Aubrey e eu fomos fazer umas compras. Tive que comprar alguns tops novos para combinar com meus novos óculos."
 
 # game/v9/scene34.rpy:62
 translate portuguese v9_ri_sex_ec1445d5:
@@ -554,13 +554,13 @@ translate portuguese v9s34_nsfwSkipLabel1_785406a2:
 translate portuguese v9s34_rileyBlowjob_9d10ff00:
 
     # u "Fuck. You're good at this."
-    u ""
+    u "Porra. Você é boa demais nisso."
 
 # game/v9/scene34.rpy:130
 translate portuguese v9s34_rileyBlowjob_a6dffd3d:
 
     # u "Mhmmmmm."
-    u ""
+    u "Mhhmmmm."
 
 # game/v9/scene34.rpy:131
 translate portuguese v9s34_rileyBlowjob_9ea2f78c:
@@ -572,7 +572,7 @@ translate portuguese v9s34_rileyBlowjob_9ea2f78c:
 translate portuguese v9s34_rileyBlowjob_2c3c958e:
 
     # ri "I like the way you taste."
-    ri ""
+    ri "Eu gosto do seu sabor."
 
 # game/v9/scene34.rpy:141
 translate portuguese v9s34_rileyBlowjob_9ea2f78c_1:
@@ -584,37 +584,37 @@ translate portuguese v9s34_rileyBlowjob_9ea2f78c_1:
 translate portuguese v9s34_rileyBlowjob_26d1d309:
 
     # u "Is it my turn to taste you?"
-    u ""
+    u "É a minha vez de te saborear?"
 
 # game/v9/scene34.rpy:151
 translate portuguese v9s34_rileyBlowjob_b7c3cb8f:
 
     # ri "By all means."
-    ri ""
+    ri "Fique à vontade."
 
 # game/v9/scene34.rpy:156
 translate portuguese v9s34_rileyBlowjob_a265e9e9:
 
     # u "Lay down."
-    u ""
+    u "Deita."
 
 # game/v9/scene34.rpy:172
 translate portuguese v9s34_rileyLicking_588f3b78:
 
     # ri "Ahh."
-    ri ""
+    ri "Ahh."
 
 # game/v9/scene34.rpy:173
 translate portuguese v9s34_rileyLicking_60cc73c1:
 
     # ri "Ohh, yes."
-    ri ""
+    ri "Ahh, isso."
 
 # game/v9/scene34.rpy:174
 translate portuguese v9s34_rileyLicking_ec1dae41:
 
     # ri "Fuuuck [name]."
-    ri ""
+    ri "Poorraaa [name]."
 
 # game/v9/scene34.rpy:175
 translate portuguese v9s34_rileyLicking_9ea2f78c:
@@ -626,13 +626,13 @@ translate portuguese v9s34_rileyLicking_9ea2f78c:
 translate portuguese v9s34_rileyLicking_506aa854:
 
     # ri "That's the spot!"
-    ri ""
+    ri "Tá no ponto certo!"
 
 # game/v9/scene34.rpy:181
 translate portuguese v9s34_rileyLicking_daed79fe:
 
     # ri "*Moans* Mhmmmm"
-    ri ""
+    ri "*Gemidos* Mhmmmm"
 
 # game/v9/scene34.rpy:182
 translate portuguese v9s34_rileyLicking_9ea2f78c_1:
@@ -644,67 +644,67 @@ translate portuguese v9s34_rileyLicking_9ea2f78c_1:
 translate portuguese v9s34_rileyLicking_af6b7539:
 
     # ri "Stop. Stop. Stop!"
-    ri ""
+    ri "Para. Para. Para!"
 
 # game/v9/scene34.rpy:188
 translate portuguese v9s34_rileyLicking_957424b2:
 
     # u "Everything okay?"
-    u ""
+    u "Tá tudo bem?"
 
 # game/v9/scene34.rpy:193
 translate portuguese v9s34_rileyLicking_1bfe8df3:
 
     # ri "I was about to cum all over you."
-    ri ""
+    ri "Eu estava a ponto de gozar."
 
 # game/v9/scene34.rpy:198
 translate portuguese v9s34_rileyLicking_1eabb3a5:
 
     # u "Isn't that kinda the point?"
-    u ""
+    u "Mas esse não é o ponto disso?"
 
 # game/v9/scene34.rpy:203
 translate portuguese v9s34_rileyLicking_1825755f:
 
     # ri "I know where I want to cum."
-    ri ""
+    ri "Eu sei exatamente onde quero gozar."
 
 # game/v9/scene34.rpy:213
 translate portuguese v9s34_rileyLicking_5f8916d5:
 
     # ri "Right here."
-    ri ""
+    ri "Bem aqui."
 
 # game/v9/scene34.rpy:215
 translate portuguese v9s34_rileyLicking_e2361360:
 
     # u "That makes two of us."
-    u ""
+    u "Então somos dois."
 
 # game/v9/scene34.rpy:220
 translate portuguese v9s34_rileyLicking_72af4404:
 
     # ri "Fuck me."
-    ri ""
+    ri "Me come."
 
 # game/v9/scene34.rpy:236
 translate portuguese v9s34_rileyMissionary_07687013:
 
     # ri "Ahhhh. I love how you feel inside me."
-    ri ""
+    ri "Ahhh. Eu amo quando você tá dentro de mim."
 
 # game/v9/scene34.rpy:237
 translate portuguese v9s34_rileyMissionary_ddcf8409:
 
     # u "That's all you. You're amazing."
-    u ""
+    u "Isso tudo é graças à você. Você é incrível."
 
 # game/v9/scene34.rpy:238
 translate portuguese v9s34_rileyMissionary_2f221a73:
 
     # u "I won't last long if you keep doing that."
-    u ""
+    u "Eu não vou durar muito se você continuar fazendo isso."
 
 # game/v9/scene34.rpy:239
 translate portuguese v9s34_rileyMissionary_9ea2f78c:
@@ -716,25 +716,25 @@ translate portuguese v9s34_rileyMissionary_9ea2f78c:
 translate portuguese v9s34_rileyMissionary_b80b14bd:
 
     # ri "Fuck me! I wanna cum hard. Fuck me!"
-    ri ""
+    ri "Puta merda! Eu quero muito gozar. Me come!"
 
 # game/v9/scene34.rpy:245
 translate portuguese v9s34_rileyMissionary_5a3b116d:
 
     # u "Shit! Riley! You're gonna make me cum!"
-    u ""
+    u "Porra! Riley! Você vai me fazer gozar!"
 
 # game/v9/scene34.rpy:246
 translate portuguese v9s34_rileyMissionary_b349d6bb:
 
     # u "You feel so good."
-    u ""
+    u "Você é tão gostosa."
 
 # game/v9/scene34.rpy:247
 translate portuguese v9s34_rileyMissionary_2118f67c:
 
     # ri "*Groans* Fuuuuuck!"
-    ri ""
+    ri "*Grunhido* Pooooorraaaa!"
 
 # game/v9/scene34.rpy:248
 translate portuguese v9s34_rileyMissionary_9ea2f78c_1:
@@ -746,31 +746,31 @@ translate portuguese v9s34_rileyMissionary_9ea2f78c_1:
 translate portuguese v9s34_rileyMissionary_b36e2c0f:
 
     # ri "I have an idea."
-    ri ""
+    ri "Eu tenho uma ideia."
 
 # game/v9/scene34.rpy:258
 translate portuguese v9s34_rileyMissionary_57258cce:
 
     # u "What's that?"
-    u ""
+    u "Qual seria?"
 
 # game/v9/scene34.rpy:263
 translate portuguese v9s34_rileyMissionary_bebb9ce1:
 
     # ri "Let me get on top."
-    ri ""
+    ri "Deixa eu ficar por cima."
 
 # game/v9/scene34.rpy:279
 translate portuguese v9s34_rileyCowgirl_0e7967a9:
 
     # u "Oh, God!"
-    u ""
+    u "Ah, nossa!"
 
 # game/v9/scene34.rpy:280
 translate portuguese v9s34_rileyCowgirl_2dc1e1b8:
 
     # ri "Ahhh, fuck! Yes! I'm gonna cum."
-    ri ""
+    ri "Ahhhh, porraaaa! ISSO! Eu vou gozar."
 
 # game/v9/scene34.rpy:281
 translate portuguese v9s34_rileyCowgirl_9ea2f78c:
@@ -782,19 +782,19 @@ translate portuguese v9s34_rileyCowgirl_9ea2f78c:
 translate portuguese v9s34_rileyCowgirl_32b952d0:
 
     # ri "Yes! Yes!"
-    ri ""
+    ri "Isso! Vai!"
 
 # game/v9/scene34.rpy:287
 translate portuguese v9s34_rileyCowgirl_8db303f1:
 
     # u "Don't stop! Don't stop!"
-    u ""
+    u "Não para! Não para!"
 
 # game/v9/scene34.rpy:288
 translate portuguese v9s34_rileyCowgirl_bef25273:
 
     # ri "AHHHHH!"
-    ri ""
+    ri "AAAHHHHHH!"
 
 # game/v9/scene34.rpy:289
 translate portuguese v9s34_rileyCowgirl_9ea2f78c_1:
@@ -806,37 +806,37 @@ translate portuguese v9s34_rileyCowgirl_9ea2f78c_1:
 translate portuguese v9s34_rileyCowgirl_36f396d7:
 
     # ri "It's not over yet."
-    ri ""
+    ri "Ainda não acabou."
 
 # game/v9/scene34.rpy:298
 translate portuguese v9s34_rileyCowgirl_671c994b:
 
     # u "(Oh, shit! What is she doing?)"
-    u ""
+    u "(Eita porra! O que ela tá fazendo?)"
 
 # game/v9/scene34.rpy:303
 translate portuguese v9s34_rileyCowgirl_c853431b:
 
     # ri "I said I like how you taste."
-    ri ""
+    ri "Eu disse que gosto do seu sabor."
 
 # game/v9/scene34.rpy:308
 translate portuguese v9s34_rileyCowgirl_f781572b:
 
     # u "You are my favorite person in the whole world."
-    u ""
+    u "Você é a minha pessoa favorita do mundo inteiro."
 
 # game/v9/scene34.rpy:313
 translate portuguese v9s34_rileyCowgirl_922ce4e8:
 
     # u "Ahh! Oh, God. Mmmm."
-    u ""
+    u "Ahhh! Meu, Deus. Mhmmm."
 
 # game/v9/scene34.rpy:314
 translate portuguese v9s34_rileyCowgirl_5197fdcb:
 
     # u "Riley that feels so good."
-    u ""
+    u "Riley isso é bom demais."
 
 # game/v9/scene34.rpy:315
 translate portuguese v9s34_rileyCowgirl_9ea2f78c_2:
@@ -848,13 +848,13 @@ translate portuguese v9s34_rileyCowgirl_9ea2f78c_2:
 translate portuguese v9s34_rileyCowgirl_dfdf0a27:
 
     # u "Fuck!!"
-    u ""
+    u "Porra!!"
 
 # game/v9/scene34.rpy:321
 translate portuguese v9s34_rileyCowgirl_67b57bce:
 
     # u "I'm gonna cum!!"
-    u ""
+    u "Eu vou gozar!!"
 
 # game/v9/scene34.rpy:322
 translate portuguese v9s34_rileyCowgirl_9ea2f78c_3:
@@ -866,59 +866,59 @@ translate portuguese v9s34_rileyCowgirl_9ea2f78c_3:
 translate portuguese v9s34_rileyCowgirl_aa93adc0:
 
     # ri "Damn right I am."
-    ri ""
+    ri "Com certeza eu sou."
 
 # game/v9/scene34.rpy:355
 translate portuguese v9s34_rileyCowgirl_272535a5:
 
     # u "Do you... need anything?"
-    u ""
+    u "Você... você precisa de alguma coia."
 
 # game/v9/scene34.rpy:362
 translate portuguese v9s34_rileyCowgirl_b679a075:
 
     # ri "This is my place, remember?"
-    ri ""
+    ri "Esse é o meu quarto, lembra?"
 
 # game/v9/scene34.rpy:367
 translate portuguese v9s34_rileyCowgirl_16b8d66d:
 
     # u "I can't remember shit right now!"
-    u ""
+    u "Eu não consigo lembrar de porra nenhuma agora!"
 
 # game/v9/scene34.rpy:372
 translate portuguese v9s34_rileyCowgirl_9864fa41:
 
     # ri "No, I don't need anything. How are you feeling? Still stressed?"
-    ri ""
+    ri "Não, eu não preciso de nada. Como você tá se sentindo? Ainda tá estressado?"
 
 # game/v9/scene34.rpy:377
 translate portuguese v9s34_rileyCowgirl_4c84de25:
 
     # u "Absolutely not."
-    u ""
+    u "Nadica de nada."
 
 # game/v9/scene34.rpy:382
 translate portuguese v9s34_rileyCowgirl_497a232d:
 
     # ri "Really?"
-    ri ""
+    ri "Sério?"
 
 # game/v9/scene34.rpy:387
 translate portuguese v9s34_rileyCowgirl_28fc7c99:
 
     # u "Definitely."
-    u ""
+    u "Com certeza."
 
 # game/v9/scene34.rpy:399
 translate portuguese v9s34_rileyCowgirl_e07d5dc0:
 
     # u "(Whuh?)"
-    u ""
+    u "(Quê?)"
 
 # game/v9/scene34.rpy:404
 translate portuguese v9s34_rileyCowgirl_0be5faa0:
 
     # ri "Come on, sleepyhead. Naptime's over."
-    ri ""
+    ri "Vamos dorminhoco. Acabou a hora da soneca."
 
