@@ -40,7 +40,7 @@ translate portuguese v10_apes_samantha_10e27cb6:
 translate portuguese v10_apes_samantha_0336fa14:
 
     # u "What's up?"
-    u "O que está acontecendo?"
+    u "O que houve?"
 
 # game/v10/scene14.rpy:57
 translate portuguese v10_apes_samantha_04da644e:
@@ -52,7 +52,7 @@ translate portuguese v10_apes_samantha_04da644e:
 translate portuguese v10_apes_samantha_5c3b6ed5:
 
     # u "*Chuckles* Really? I didn't notice."
-    u "*Risos* Realmente? Eu não notei."
+    u "*Risos* Sério? Eu não notei."
 
 # game/v10/scene14.rpy:67
 translate portuguese v10_apes_samantha_a709d6a4:
@@ -82,7 +82,7 @@ translate portuguese v10_apes_samantha_7fdcd055:
 translate portuguese v10_apes_samantha_e01c2374:
 
     # sa "So you have a dangerous side... I never knew"
-    sa "Então você tem um lado perigoso... Eu nunca soube"
+    sa "Então você tem um lado perigoso... Eu nunca imaginaria."
 
 # game/v10/scene14.rpy:98
 translate portuguese v10_apes_samantha_d2c31424:
@@ -118,19 +118,19 @@ translate portuguese v10_apes_samantha_4caddde4:
 translate portuguese v10_apes_samantha_95972100:
 
     # u "People were doing all kinds of shit, they were throwing paper planes at him during class, cheating on his tests and just making fun of him even with him in the room."
-    u "As pessoas faziam todo tipo de merda, jogavam aviãozinhos durante as aulas, colavam em seus testes e apenas zombavam dele mesmo com ele na sala."
+    u "As pessoas faziam todo tipo de merda, jogavam aviãozinhos durante as aulas, colavam nas provas e tiravam o sarro dele até quando ele tava na sala."
 
 # game/v10/scene14.rpy:120
 translate portuguese v10_apes_samantha_5f618586:
 
     # u "But they never got into any trouble. I did anything remotely questionable, there I go, straight to detention."
-    u "Mas os outros nunca se metiam em nenhum problema. Já eu fiz qualquer coisa minimamente questionável, lá ia eu direto para a detenção."
+    u "Mas eles nunca se metiam em nenhum problema. Já se eu fizesse qualquer coisa, minimamente questionável, ia direto para a detenção."
 
 # game/v10/scene14.rpy:121
 translate portuguese v10_apes_samantha_23f6db01:
 
     # u "Well at some point I got really fed up and I wanted to piss him off you know, get him really good."
-    u "Bem, em algum momento eu fiquei realmente puto e queria irritar ele com razão, fazer algo que valia a pena."
+    u "Bem, em algum momento eu fiquei realmente puto e queria irritar ele, pegar ele de jeito."
 
 # game/v10/scene14.rpy:126
 translate portuguese v10_apes_samantha_583f4165:
@@ -142,13 +142,13 @@ translate portuguese v10_apes_samantha_583f4165:
 translate portuguese v10_apes_samantha_d7d75ef6:
 
     # u "Not quite. He announced that he was gonna be one of the chaperones for our senior prom and I knew his daughter just happened to be going to our school and graduating with me."
-    u "Não exatamente. Ele anunciou que seria um dos acompanhantes do nosso baile de frmandos e eu sabia que sua filha estava indo pra a nossa escola e se formando comigo."
+    u "Não exatamente. Ele anunciou que seria um dos acompanhantes do nosso baile de formandos e eu sabia que sua filha estudava na nossa escola e estava se formando comigo."
 
 # game/v10/scene14.rpy:132
 translate portuguese v10_apes_samantha_5a247805:
 
     # u "Sooo... long story short, I asked his daughter to prom and - after some very painful back and forth - she said yes."
-    u "Entãããoo... resumindo a longa história, eu convidei sua filha para o baile de formatura e - \"depois de algunss dolorosas sim, mas melhor não\" - ela disse tudo bem."
+    u "Entãããoo... resumindo a longa história, eu convidei sua filha para o baile de formatura e - \"depois de muita insistência\" - ela disse sim."
 
 # game/v10/scene14.rpy:133
 translate portuguese v10_apes_samantha_b3dc8919:
@@ -166,7 +166,7 @@ translate portuguese v10_apes_samantha_8cd64967:
 translate portuguese v10_apes_samantha_f72aca60:
 
     # sa "*Laughs* Remind me to never be a part of your revenge plans."
-    sa "*Risos* Me lembra de nunca fazer entrar de seus planos de vingança."
+    sa "*Risos* Me lembra de nunca fazer parte dos seus planos de vingança."
 
 # game/v10/scene14.rpy:144
 translate portuguese v10_apes_samantha_8f528a91:
@@ -178,7 +178,7 @@ translate portuguese v10_apes_samantha_8f528a91:
 translate portuguese v10_apes_samantha_783c1171:
 
     # u "*Chuckles* What's that supposed to mean?"
-    u "*Risos*O que isso quer dizer?"
+    u "*Risos* O que isso quer dizer?"
 
 # game/v10/scene14.rpy:157
 translate portuguese v10_apes_samantha_bb7e8d5f:
@@ -190,13 +190,13 @@ translate portuguese v10_apes_samantha_bb7e8d5f:
 translate portuguese v10_apes_samantha_8d4b7f35:
 
     # u "I'll have you know that I can be quite a dangerous thumb-wrestler. Also, I still like doing dumb shit, I'm just trying to be smart about the dumb shit I do"
-    u "Quero que você saiba que eu posso ser um lutador bastante perigoso. \nAlém disso, eu ainda gosto de fazer merdas idiotas, só estou tentando ser esperto sobre as merdas idiotas que eu faço"
+    u "Quero que você saiba que eu posso ser um lutador de dedo bastante perigoso. \nAlém disso, eu ainda gosto de fazer idiotices, só estou tentando ser esperto sobre as merdas que eu faço"
 
 # game/v10/scene14.rpy:167
 translate portuguese v10_apes_samantha_5cdd5204:
 
     # sa "*Laughs* Was that your senior quote or something?"
-    sa "*Risos* Esse foi sseu discurso de formatura ou algo assim?"
+    sa "*Risos* Esse foi seu discurso de formatura ou algo assim?"
 
 # game/v10/scene14.rpy:172
 translate portuguese v10_apes_samantha_b43a6b84:
@@ -208,7 +208,7 @@ translate portuguese v10_apes_samantha_b43a6b84:
 translate portuguese v10_apes_samantha_4e2a4378:
 
     # sa "*Laughs* So you were the \"can I copy off of you\" kinda guy?"
-    sa "*Risos* Então você era o tipo \"Passa a cola aí\"?"
+    sa "*Risos* Então você era o tipo de cara que falava \"Passa a cola aí\"?"
 
 # game/v10/scene14.rpy:182
 translate portuguese v10_apes_samantha_d89ea267:
@@ -220,7 +220,7 @@ translate portuguese v10_apes_samantha_d89ea267:
 translate portuguese v10_apes_samantha_cabed922:
 
     # sa "What's that saying? \"Don't hate the player, hate the game.\""
-    sa "O que é esse ditado? \"Não odeie o jogador, odeie o jogo\"."
+    sa "Como era aquele ditado mesmo? \"Não odeie o jogador, odeie o jogo\"."
 
 # game/v10/scene14.rpy:192
 translate portuguese v10_apes_samantha_46698d44:
@@ -262,7 +262,7 @@ translate portuguese v10_apes_samantha_829a7b40:
 translate portuguese v10_apes_samantha_9c705841:
 
     # sa "*Laughs*"
-    sa "*Risos..."
+    sa "*Risos*..."
 
 # game/v10/scene14.rpy:243
 translate portuguese v10_apes_samantha_ebe1c8dd:
@@ -274,7 +274,7 @@ translate portuguese v10_apes_samantha_ebe1c8dd:
 translate portuguese v10_apes_samantha_e0287150:
 
     # sa "YOU SHOULDN'T BE TELLING ME WHAT I SHOULD OR SHOULDN'T BE DOING! Just leave us alone Cameron."
-    sa "{b}.VOCÊ{/b} NÃO DEVERIA ESTAR ME DIZENDO \nO QUE EU DEVERIA OU NÃO FAZER! \nSó nos deixe sozinho, Cameron."
+    sa "{b}.VOCÊ{/b} NÃO DEVERIA ESTAR ME DIZENDO \nO QUE EU DEVERIA OU NÃO FAZER! \nSó nos deixe sozinhos, Cameron."
 
 # game/v10/scene14.rpy:253
 translate portuguese v10_apes_samantha_1ef4493b:
@@ -292,7 +292,7 @@ translate portuguese v10_apes_samantha_a49126a3:
 translate portuguese v10_apes_samantha_5fd87a1d:
 
     # sa "*Chuckles* Oh shut up. And just so we're clear no one is calling dibs on me. I'm not some leftover lasagna."
-    sa "*Risos* Oh, cala a boca. E só pra que fique claro que ninguém está tomando posse de mim. Eu não sou uma lasanha que sobrou."
+    sa "*Risos* Ah, cala a boca. E só pra que fique claro, eu não tenho dono. Eu não sou uma lasanha que sobrou."
 
 # game/v10/scene14.rpy:273
 translate portuguese v10_apes_samantha_3bb6b427:
@@ -316,13 +316,13 @@ translate portuguese v10_apes_samantha_866ba53b:
 translate portuguese v10_apes_samantha_9c705841_1:
 
     # sa "*Laughs*"
-    sa "*Risos..."
+    sa "*Risos*..."
 
 # game/v10/scene14.rpy:298
 translate portuguese v10_apes_samantha_51cd4b26:
 
     # sa "Alright, I have some stuff I need to take care of, I'll see you later."
-    sa "Muito bem, tenho algumas coisas que preciso cuidar, até mais tarde."
+    sa "Então, tenho que fazer umas coisas, até mais tarde."
 
 # game/v10/scene14.rpy:303
 translate portuguese v10_apes_samantha_b9910c6e:
@@ -334,13 +334,13 @@ translate portuguese v10_apes_samantha_b9910c6e:
 translate portuguese v10_apes_samantha_2a572222:
 
     # sa "Uhm... you know? Stuff."
-    sa "Uhm... você sabe? Coisas."
+    sa "Uhm... sabe? Coisas."
 
 # game/v10/scene14.rpy:313
 translate portuguese v10_apes_samantha_78338b42:
 
     # u "(Ahh, she's something else. I should head up to my room.)"
-    u "(Ahh, ela é outra coisa. Eu deveria ir pro meu quarto)."
+    u "(Ahh, ela é um caso a parte. Eu deveria ir pro meu quarto)."
 
 # game/v10/scene14.rpy:324
 translate portuguese v10_apes_samantha_535f9d77:
@@ -352,7 +352,7 @@ translate portuguese v10_apes_samantha_535f9d77:
 translate portuguese v10_apes_samantha_c0766b04:
 
     # ca "Looked like more than just a friendly conversation to me. Just don't try shit and we won't have a problem."
-    ca "Me parecia mais do que apenas uma conversa amigável. \nSó não tente merda nenhuma e não teremos nenhum problema."
+    ca "Me parecia mais do que apenas uma conversa amigável. \nSó não tente nenhuma merda e não teremos nenhum problema."
 
 # game/v10/scene14.rpy:344
 translate portuguese v10_apes_samantha_8b940739:
@@ -364,7 +364,7 @@ translate portuguese v10_apes_samantha_8b940739:
 translate portuguese v10_apes_samantha_16f6c574:
 
     # ca "Samantha's been through enough already and doesn't need to deal with any of your bullshit too. You do anything to fucking upset her and you're fucking dead."
-    ca "Samantha já passou por muita coisa e não precisa lidar com nenhuma de suas besteiras também. Se você fazer qualquer coisa para chatear ela, você vao estar morto."
+    ca "Samantha já passou por muita coisa e não precisa lidar com nenhuma das suas merdas também. Se você fazer qualquer coisa para chatear ela, você vai estar morto."
 
 # game/v10/scene14.rpy:354
 translate portuguese v10_apes_samantha_ef673dcf:
@@ -401,11 +401,11 @@ translate portuguese strings:
 translate portuguese v10_apes_samantha_d0d17564:
 
     # sa "Hey hey!"
-    sa ""
+    sa "Olá Olá!"
 
 # game/v10/scene14.rpy:67
 translate portuguese v10_apes_samantha_5abedfb3:
 
     # sa "*Laughs* Yeah, it's very subtle. But yeah, he's always been a hothead so it makes sense to me for a guy like him to fight and be in a frat like this, but you're not like him and yet you're in this frat too."
-    sa ""
+    sa "*Risadas* É, é bem sutil. Mas sim, ele sempre foi um cabeça quente, então faz sentido que um cara que nem ele goste de brigar e entre numa fraternidade assim, mas você não é que nem ele e também está nessa fraternidade."
 
