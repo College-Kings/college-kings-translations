@@ -240,5 +240,5 @@ translate portuguese walk_to_dean_6fc6551d:
 translate portuguese walk_to_dean_5df5cafc:
 
     # de "However... it takes a special kind of friend and man to put your neck on the line the way you are doing now. I like that. In fact, that's what makes a person a good one."
-    de ""
+    de "Entretanto... você deve ter um tipo muito especial de amigo pra se arriscar desse jeito nessas situações. Eu gosto disso. De fato, isso é o que mostra as pessoas boas de verdade."
 
