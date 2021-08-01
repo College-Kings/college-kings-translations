@@ -4,7 +4,7 @@
 translate portuguese v9_room_thur_night_32f88741:
 
     # u "(Whew, glad to be alone... finally)"
-    u "(Whew, feliz por estar sozinho... finalmente.)"
+    u "(Whew, ainda bem que eu estou sozinho... finalmente.)"
 
 # game/v9/scene16.rpy:69
 translate portuguese v9_room_thur_night_235cf27b:
@@ -16,13 +16,13 @@ translate portuguese v9_room_thur_night_235cf27b:
 translate portuguese s16_PhoneContinueW_a0b93d3e:
 
     # "(I should reply to Emily.)"
-    "(Eu deveria responder Emily.)"
+    "(Eu deveria responder a Emily.)"
 
 # game/v9/scene16.rpy:96
 translate portuguese s16_PhoneContinueW_32f88741:
 
     # u "(Whew, glad to be alone... finally)"
-    u "(Whew, feliz por estar sozinhao.. finalmente.)"
+    u "(Whew, ainda bem que eu estou sozinho... finalmente.)"
 
 # game/v9/scene16.rpy:104
 translate portuguese s16_PhoneContinueW_235cf27b:
@@ -34,7 +34,7 @@ translate portuguese s16_PhoneContinueW_235cf27b:
 translate portuguese s16_PhoneContinueA_a0b93d3e:
 
     # "(I should reply to Emily.)"
-    "(Eu deveria responder Emily.)"
+    "(Eu deveria responder a Emily.)"
 
 # game/v9/scene16.rpy:139
 translate portuguese v9_emily_dorm_48a7bfd9:
@@ -52,19 +52,19 @@ translate portuguese v9_emily_dorm_99c42580:
 translate portuguese v9_emily_dorm_77066c85:
 
     # u "Yeah, me neither."
-    u "Eh, nem eu."
+    u "É, nem eu."
 
 # game/v9/scene16.rpy:165
 translate portuguese v9_emily_dorm_cef84ed8:
 
     # em "Boxer's high?"
-    em "O boxeador esta ligado?"
+    em "O boxeador está bem?"
 
 # game/v9/scene16.rpy:170
 translate portuguese v9_emily_dorm_5e15ed41:
 
     # u "You could say that."
-    u "Você pode dizer que é isso."
+    u "Você pode dizer que sim."
 
 # game/v9/scene16.rpy:176
 translate portuguese v9_emily_dorm_0c8dbe46:
@@ -82,13 +82,13 @@ translate portuguese v9_emily_dorm_8b29a428:
 translate portuguese v9_emily_dorm_d1cd40be:
 
     # u "I'm alright. Just more attention than I'd like."
-    u "Eu estou bem. Só atenção mais do que eu gostaria."
+    u "Eu estou bem. Só mais atenção do que eu gostaria."
 
 # game/v9/scene16.rpy:188
 translate portuguese v9_emily_dorm_e93c3e12:
 
     # em "I can imagine. It'll blow over, though."
-    em "Eu posso imaginar. Mas vai acabar logo."
+    em "Eu imagino. Mas vai acabar logo."
 
 # game/v9/scene16.rpy:193
 translate portuguese v9_emily_dorm_b6e102b1:
@@ -118,19 +118,19 @@ translate portuguese v9_emily_dorm_d39aab42:
 translate portuguese v9_emily_dorm_063dbb39:
 
     # em "I think you bring out the best in me. I was at the top of my game."
-    em "Acho que você traz para fora o melhor de mim. Eu estava no topo no meu jogo."
+    em "Acho que você traz para fora o melhor de mim. Eu estava jogando muito."
 
 # game/v9/scene16.rpy:221
 translate portuguese v9_emily_dorm_a22da1ad:
 
     # u "Does that mean I still owe you that last bet?"
-    u "Isso significa que ainda lhe devo aquela última aposta?"
+    u "Isso significa que ainda te devo aquela última aposta?"
 
 # game/v9/scene16.rpy:226
 translate portuguese v9_emily_dorm_5e7b09a1:
 
     # em "Oh yeah! And what was that again?"
-    em "Ah, sim! E o que era isso mesmo?"
+    em "Ah, sim! E o que era mesmo?"
 
 # game/v9/scene16.rpy:231
 translate portuguese v9_emily_dorm_9a58f0c4:
@@ -214,7 +214,7 @@ translate portuguese v9_emily_dorm_e93ce3ba:
 translate portuguese v9_emily_dorm_f1887060:
 
     # em "Am I still a good kisser??"
-    em "Ainda sou um boa beijadora?"
+    em "Eu ainda beijo bem??"
 
 # game/v9/scene16.rpy:302
 translate portuguese v9_emily_dorm_eb6d7212:
@@ -226,7 +226,7 @@ translate portuguese v9_emily_dorm_eb6d7212:
 translate portuguese v9_emily_dorm_2a57cf33:
 
     # em "Good. More where that came from. Gotta get some while I can. You're very popular... Rocky."
-    em "Muito bom. Mais de onde isso veio. Tenho que beijar enquanto posso. Você é muito popular... Rocky."
+    em "Muito bom. Tem mais de onde isso veio. Tenho que te beijar enquanto posso. Você é muito popular... Rocky."
 
 # game/v9/scene16.rpy:321
 translate portuguese v9_emily_dorm_0cb1bc55:
@@ -244,13 +244,13 @@ translate portuguese v9_emily_dorm_d69417f4:
 translate portuguese v9_emily_dorm_e72ae24b:
 
     # u "Pretty sure they have a standing agreement. One BJ per KO."
-    u "Tenho certeza de que eles têm um acordo permanente. Um BJ por KO."
+    u "Tenho certeza de que eles têm um acordo permanente. Uma MMD por um KO."
 
 # game/v9/scene16.rpy:336
 translate portuguese v9_emily_dorm_b1b89f70:
 
     # em "Well, in that case..."
-    em "Bem, nesse caso..."
+    em "Bom, nesse caso..."
 
 # game/v9/scene16.rpy:341
 translate portuguese v9_emily_dorm_234bcc11:
@@ -262,7 +262,7 @@ translate portuguese v9_emily_dorm_234bcc11:
 translate portuguese v9_emily_dorm_30754a70:
 
     # em "Don't be so sure about that. I heard some girls talking in the hallway. You're a hot commodity."
-    em "Não tenha tanta certeza sobre isso. Eu ouvi algumas garotas falando no corredor. Você é uma carne quente."
+    em "Não tenha tanta certeza sobre isso. Eu ouvi algumas garotas falando no corredor. Você é um prato quente."
 
 # game/v9/scene16.rpy:351
 translate portuguese v9_emily_dorm_c381fc01:
@@ -274,7 +274,7 @@ translate portuguese v9_emily_dorm_c381fc01:
 translate portuguese v9_emily_dorm_55ec44ab:
 
     # em "Then I suppose the clock's ticking on your prize."
-    em "Então, eu acho que o relógio está passando pelo seu prêmio."
+    em "Então, eu acho que o relógio está passando, junto com seu prêmio."
 
 # game/v9/scene16.rpy:361
 translate portuguese v9_emily_dorm_3369ee80:
@@ -340,7 +340,7 @@ translate portuguese v9_emily_dorm_3b9bf00b:
 translate portuguese v9_emily_dorm_fe20225e:
 
     # u "Don't. I'm pumped up for a rematch. I'll find that guy and kick his ass."
-    u "Não seja. Estou animado para uma revanche. Vou achar aquele cara e dar um chute na bunda."
+    u "Não seja. Estou animado para uma revanche. Vou achar aquele cara e dar uma surra nele."
 
 # game/v9/scene16.rpy:421
 translate portuguese v9_emily_dorm_91571d97:
@@ -352,19 +352,19 @@ translate portuguese v9_emily_dorm_91571d97:
 translate portuguese v9_emily_dorm_38831c29:
 
     # u "Yeah, it was a lucky shot, but I'm good."
-    u "Sim, foi um golpe de sorte, mas eu estou bem."
+    u "Sim, foi pura sorte, mas eu estou bem."
 
 # game/v9/scene16.rpy:429
 translate portuguese v9_emily_dorm_4c67dcb2:
 
     # em "I remember how good you are."
-    em "Me lembro de quando você está bem."
+    em "Me lembro de quão bom você é."
 
 # game/v9/scene16.rpy:434
 translate portuguese v9_emily_dorm_9214d9f6:
 
     # u "Mmmm. You too."
-    u "Mmmm."
+    u "Mmmm. Você também."
 
 # game/v9/scene16.rpy:439
 translate portuguese v9_emily_dorm_daa8a980:
@@ -376,7 +376,7 @@ translate portuguese v9_emily_dorm_daa8a980:
 translate portuguese v9_emily_dorm_2e738586:
 
     # u "I could be in a coma and still get hard when you come in the room."
-    u "Posso estar em coma e ainda ficar duro quando você entra na sala."
+    u "Posso estar em coma, mas ainda assim vou ficar duro quando você entrar na sala."
 
 # game/v9/scene16.rpy:449
 translate portuguese v9_emily_dorm_91ccd86c:
@@ -394,7 +394,7 @@ translate portuguese v9_emily_dorm_6b7337c2:
 translate portuguese v9_emily_dorm_b87c2079:
 
     # u "Oh God. I've missed this."
-    u "Oh, Deus. Eu perdi isso."
+    u "Oh, Deus. Eu senti saudades disso."
 
 # game/v9/scene16.rpy:471
 translate portuguese v9_emily_dorm_0d02ac7c:
@@ -700,7 +700,7 @@ translate portuguese v9_emily_dorm_ccd53b23:
 translate portuguese v9_emily_dorm_0c8f2d0e:
 
     # em "Thank you. You heading out?"
-    em "Obrigada. Você está saindo?"
+    em "Obrigada. Você está indo embora?"
 
 # game/v9/scene16.rpy:765
 translate portuguese v9_emily_dorm_08365825:
@@ -712,7 +712,7 @@ translate portuguese v9_emily_dorm_08365825:
 translate portuguese v9_emily_dorm_d41a0781:
 
     # em "Alright. I'll talk to you tomorrow."
-    em "Está bem. Falo com você amanhã."
+    em "Tá. Falo com você amanhã."
 
 # game/v9/scene16.rpy:775
 translate portuguese v9_emily_dorm_094f3c8d:
@@ -742,7 +742,7 @@ translate portuguese v9_thur_night_aft_em_w_8184ec7c:
 translate portuguese s16_ContinueW1_73e9c274:
 
     # "(I should reply to Lindsey.)"
-    "(Eu devo responder a Lindsey.)"
+    "(Eu deveria responder a Lindsey.)"
 
 # game/v9/scene16.rpy:844
 translate portuguese v9_thur_night_aft_em_a_576529ee:
@@ -766,7 +766,7 @@ translate portuguese strings:
 
     # game/v9/scene16.rpy:9
     old "I see you're still riding high from that fight"
-    new "Vejo que você ainda está em alto depois daquela briga."
+    new "Vejo que você ainda está em alta depois daquela briga."
 
     # game/v9/scene16.rpy:10
     old "Maybe a little. But I'm still happy you texted"
@@ -782,7 +782,7 @@ translate portuguese strings:
 
     # game/v9/scene16.rpy:13
     old "Can I text you before the Brawl?"
-    new "Posso enviar enviar uma mensagem pra você antes da briga?"
+    new "Posso enviar uma mensagem pra você antes da briga?"
 
     # game/v9/scene16.rpy:14
     old "YES! Can't wait. Goodnight to you too"
@@ -790,7 +790,7 @@ translate portuguese strings:
 
     # game/v9/scene16.rpy:18
     old "Yeah, just wanted to say hi. I was thinking about you"
-    new "Hey, eu só queria dizer oi. Eu estava pensando em você."
+    new "Hey, eu só queria dizer oi. Tava pensando em você."
 
     # game/v9/scene16.rpy:19
     old "Oooh, anything interesting? ;)"
@@ -834,7 +834,7 @@ translate portuguese strings:
 
     # game/v9/scene16.rpy:31
     old "What do you think about me checking on you again tomorrow?"
-    new "O que você acha de eu checar você de novo amanhã?"
+    new "O que você acha de eu ver você de novo amanhã?"
 
     # game/v9/scene16.rpy:32
     old "I think I should get punched more often!"
@@ -846,7 +846,7 @@ translate portuguese strings:
 
     # game/v9/scene16.rpy:37
     old "I just couldn't stop worrying about you"
-    new "Eu não conseguia parar de me preocupar com você."
+    new "Eu só não consigo parar de me preocupar com você."
 
     # game/v9/scene16.rpy:38
     old "That's very nice of you"
@@ -854,7 +854,7 @@ translate portuguese strings:
 
     # game/v9/scene16.rpy:39
     old "Can I check on you again tomorrow?"
-    new "Posso te checar de novo amanhã?"
+    new "Posso ver se está tudo bem de novo amanhã?"
 
     # game/v9/scene16.rpy:40
     old "Sure! Anytime"
@@ -862,11 +862,11 @@ translate portuguese strings:
 
     # game/v9/scene16.rpy:41
     old "Good, maybe we can meet up, let me get a good look at you before the Brawl"
-    new "Ótimo, talvez possamos nos encontrar, me deixa eu dar uma boa olhada em você antes da briga"
+    new "Ótimo, talvez possamos nos encontrar, dar uma boa olhada em você antes da briga"
 
     # game/v9/scene16.rpy:42
     old "I'd love too!"
-    new "Eu também adoraria!"
+    new "Eu adoraria!"
 
     # game/v9/scene16.rpy:43
     old "Great, goodnight :)"
@@ -882,11 +882,11 @@ translate portuguese strings:
 
     # game/v9/scene16.rpy:71
     old "I'm bored. Come hang out."
-    new "Estou entediado. Venha passear."
+    new "Estou entediado. Vamos dar uma volta."
 
     # game/v9/scene16.rpy:72
     old "Sure! Gimme a sec."
-    new "Claro! Me da um segundo."
+    new "Claro! Me dá um segundo."
 
     # game/v9/scene16.rpy:73
     old "It's kinda late"
@@ -898,23 +898,23 @@ translate portuguese strings:
 
     # game/v9/scene16.rpy:207
     old "Say you were winning"
-    new "Digamos que você estava ganhando"
+    new "Dizer que estava ganhando"
 
     # game/v9/scene16.rpy:402
     old "Be Macho"
-    new "Seja homem"
+    new "Seja macho"
 
     # game/v9/scene16.rpy:402
     old "Be dismissive"
-    new "Seja arrogante."
+    new "Seja arrogante"
 
     # game/v9/scene16.rpy:806
     old "How are you doing tonight?"
-    new "Como você está indo hoje à noite?"
+    new "Como você está hoje à noite?"
 
     # game/v9/scene16.rpy:807
     old "Better now that I'm talking to you"
-    new "Melhor agora que estou falando."
+    new "Melhor agora que estamos falando."
 
     # game/v9/scene16.rpy:808
     old "Super. You getting ready for bed?"
@@ -926,7 +926,7 @@ translate portuguese strings:
 
     # game/v9/scene16.rpy:813
     old "I'm ok, it's really not that bad"
-    new "Estou bem, realmente não é tão ruim assim."
+    new "Estou bem, não é tão ruim assim."
 # TODO: Translation updated at 2021-06-16 12:56
 
 # game/v9/scene16.rpy:319
@@ -1005,305 +1005,305 @@ translate portuguese strings:
 translate portuguese v9_emily_dorm_1f4cb310:
 
     # u "Anyways, I should probably head home."
-    u ""
+    u "De qualuqer jeito, eu deveria voltar pra casa."
 
 # game/v9/scene16.rpy:434
 translate portuguese v9_emily_dorm_1f4cb310_1:
 
     # u "Anyways, I should probably head home."
-    u ""
+    u "De qualquer jeito, eu deveria voltar pra casa."
 
 # game/v9/scene16.rpy:536
 translate portuguese v9s16_emilyBlowjob_a1139689:
 
     # u "Fuck, that's amazing."
-    u ""
+    u "Porra, isso é bom demais."
 
 # game/v9/scene16.rpy:537
 translate portuguese v9s16_emilyBlowjob_47b043ad:
 
     # em "Mhmmmm..."
-    em ""
+    em "Mhmmm..."
 
 # game/v9/scene16.rpy:538
 translate portuguese v9s16_emilyBlowjob_6887d8ba:
 
     # u "Moans* Ahhh... This is so good, go faster!"
-    u ""
+    u "*Gemendo* Aahhh... Isso é bom demais, vai mais rápido!"
 
 # game/v9/scene16.rpy:544
 translate portuguese v9s16_emilyBlowjob_8d78e67c:
 
     # u "Oh wowwww!"
-    u ""
+    u "Ahh nossaaaa!"
 
 # game/v9/scene16.rpy:545
 translate portuguese v9s16_emilyBlowjob_f6c1daed:
 
     # em "*Suck* *Suck*"
-    em ""
+    em "*Chupa que chupa*"
 
 # game/v9/scene16.rpy:546
 translate portuguese v9s16_emilyBlowjob_643fb271:
 
     # u "(I'm gonna blow if I don't do something.)"
-    u ""
+    u "(Eu vou gozar se não fizer alguma coisa.)"
 
 # game/v9/scene16.rpy:566
 translate portuguese v9s16_emilyBlowjob_84c913f8:
 
     # em "Aww, I was enjoying that."
-    em ""
+    em "Aww, eu tava curtindo fazer isso."
 
 # game/v9/scene16.rpy:571
 translate portuguese v9s16_emilyBlowjob_a259e7dd:
 
     # u "So was I... way too much!"
-    u ""
+    u "Eu também... até demais!"
 
 # game/v9/scene16.rpy:586
 translate portuguese v9s16_emilyBlowjob_10801874:
 
     # em "Mmmm."
-    em ""
+    em "Mmmm."
 
 # game/v9/scene16.rpy:596
 translate portuguese v9s16_emilyBlowjob_12a49c5d:
 
     # em "I want you inside me. Now."
-    em ""
+    em "Eu quero que você me coma. Agora!"
 
 # game/v9/scene16.rpy:601
 translate portuguese v9s16_emilyBlowjob_485369b5:
 
     # u "You ready?"
-    u ""
+    u "Você está pronta?"
 
 # game/v9/scene16.rpy:606
 translate portuguese v9s16_emilyBlowjob_ed243d65:
 
     # em "YES!"
-    em ""
+    em "ESTOU CAPITÃO!"
 
 # game/v9/scene16.rpy:617
 translate portuguese v9s16_emilyMissionary_7ead7949:
 
     # em "Ahhhh!"
-    em ""
+    em "Ahhhh!"
 
 # game/v9/scene16.rpy:623
 translate portuguese v9s16_emilyMissionary_a8155cd9:
 
     # u "Mmmm. You're so wet."
-    u ""
+    u "Mmmm. Você tá tão molhadinha."
 
 # game/v9/scene16.rpy:624
 translate portuguese v9s16_emilyMissionary_eb6dd491:
 
     # em "*Moan* Ahhhhh you feel so good."
-    em ""
+    em "*Gemido* Ahhhh, isso é tão bom."
 
 # game/v9/scene16.rpy:630
 translate portuguese v9s16_emilyMissionary_5bf6ee4f:
 
     # em "*Moans* Ahhhh keep going!"
-    em ""
+    em "Gemido* Ahhh continua!"
 
 # game/v9/scene16.rpy:631
 translate portuguese v9s16_emilyMissionary_ab26321c:
 
     # em "*Moans Louder* Oh god [name] you're so fucking goooood!!"
-    em ""
+    em "*Gemendo mais alto* Meu Deus [name] você transa bem demaissss!!"
 
 # game/v9/scene16.rpy:632
 translate portuguese v9s16_emilyMissionary_47c91c6a:
 
     # u "*Groans* Mhmmm fuck."
-    u ""
+    u "*Geme* MMhmmm porra."
 
 # game/v9/scene16.rpy:642
 translate portuguese v9s16_emilyMissionary_c6b5935a:
 
     # em "I wanna ride you."
-    em ""
+    em "Eu quero te cavalgar."
 
 # game/v9/scene16.rpy:647
 translate portuguese v9s16_emilyMissionary_6015dc54:
 
     # u "Please do."
-    u ""
+    u "Fica à vontade."
 
 # game/v9/scene16.rpy:658
 translate portuguese v9s16_emilyCowgirl_25723303:
 
     # em "*Moans* [name] I've missed your cock so much!"
-    em ""
+    em "*Gemidos* [name] eu senti tanta falta do seu pau!"
 
 # game/v9/scene16.rpy:664
 translate portuguese v9s16_emilyCowgirl_435db962:
 
     # u "*Groan* This feel so good."
-    u ""
+    u "*Gemendo* Isso é bom demais."
 
 # game/v9/scene16.rpy:665
 translate portuguese v9s16_emilyCowgirl_2cb7743f:
 
     # em "*Moans* Ahhhhhh..."
-    em ""
+    em "*Gemendo* Ahhhh..."
 
 # game/v9/scene16.rpy:666
 translate portuguese v9s16_emilyCowgirl_58c7aee8:
 
     # em "Fuck me harder [name]!"
-    em ""
+    em "Me fode bem fodida [name]!"
 
 # game/v9/scene16.rpy:672
 translate portuguese v9s16_emilyCowgirl_45620519:
 
     # em "Fuuuuuuck!!"
-    em ""
+    em "Pooorraaaaa!!"
 
 # game/v9/scene16.rpy:673
 translate portuguese v9s16_emilyCowgirl_41af3b50:
 
     # em "Can I cum now? Please? God, it's so good."
-    em ""
+    em "Eu posso gozar agora? Por favorzinho? Porra, isso tá bom demais."
 
 # game/v9/scene16.rpy:678
 translate portuguese v9s16_emilyCowgirl_224813f1:
 
     # u "Not yet. I have an idea."
-    u ""
+    u "Ainda não. Eu tenho uma ideia."
 
 # game/v9/scene16.rpy:683
 translate portuguese v9s16_emilyCowgirl_990b9655:
 
     # em "Are you thinking what I'm thinking?"
-    em ""
+    em "Você tá pensando no que eu tô pensando?"
 
 # game/v9/scene16.rpy:688
 translate portuguese v9s16_emilyCowgirl_378721ac:
 
     # u "I sure hope so."
-    u ""
+    u "Eu espero que sim."
 
 # game/v9/scene16.rpy:698
 translate portuguese v9s16_emilyCowgirl_faa56308:
 
     # u "Flip over and lay flat."
-    u ""
+    u "Vira e fica deitada."
 
 # game/v9/scene16.rpy:703
 translate portuguese v9s16_emilyCowgirl_aaf0ba74:
 
     # em "Like this?"
-    em ""
+    em "Assim?"
 
 # game/v9/scene16.rpy:705
 translate portuguese v9s16_emilyCowgirl_2ca9fab5:
 
     # u "Perfect."
-    u ""
+    u "Perfeito."
 
 # game/v9/scene16.rpy:721
 translate portuguese v9s16_emilyDoggy_e5a034a1:
 
     # em "OH FUUUCK!!"
-    em ""
+    em "AHHH CARALHOOO!!!"
 
 # game/v9/scene16.rpy:727
 translate portuguese v9s16_emilyDoggy_ce9c66f6:
 
     # u "Ahhhh."
-    u ""
+    u "Ahhhhh."
 
 # game/v9/scene16.rpy:728
 translate portuguese v9s16_emilyDoggy_2f8cbcf8:
 
     # em "Oh, wow. Oh my God."
-    em ""
+    em "Ah, nossa. Meu Deus do céu."
 
 # game/v9/scene16.rpy:729
 translate portuguese v9s16_emilyDoggy_e0748244:
 
     # u "You like it?"
-    u ""
+    u "Você gostou?"
 
 # game/v9/scene16.rpy:730
 translate portuguese v9s16_emilyDoggy_37ac908f:
 
     # em "It feels so good. I'm gonna cum."
-    em ""
+    em "É tão bom. Que eu vou gozar."
 
 # game/v9/scene16.rpy:736
 translate portuguese v9s16_emilyDoggy_1f16eef6:
 
     # em "*Moans* Ohhh. Now. Now!"
-    em ""
+    em "*Gemendo* Aaahh. Agora. Agora!"
 
 # game/v9/scene16.rpy:737
 translate portuguese v9s16_emilyDoggy_73119390:
 
     # u "Cum for me!"
-    u ""
+    u "Quero te ver tremendo inteirinha!"
 
 # game/v9/scene16.rpy:738
 translate portuguese v9s16_emilyDoggy_7fb6b205:
 
     # em "*Moans Louder* Ahhhh!!"
-    em ""
+    em "*Gemendo alto* Ahhhhhh!!"
 
 # game/v9/scene16.rpy:760
 translate portuguese v9s16_emilyDoggy_41bb5fff:
 
     # em "You've learned a few tricks, college boy."
-    em ""
+    em "Você aprendeu uns truques, garotinho."
 
 # game/v9/scene16.rpy:765
 translate portuguese v9s16_emilyDoggy_9206a76f:
 
     # u "That thing you did with your mouth. I almost blew my load right away."
-    u ""
+    u "Aquele negócio que você fez com a boca. Eu quase virei precoce com aquilo."
 
 # game/v9/scene16.rpy:770
 translate portuguese v9s16_emilyDoggy_465f3c68:
 
     # em "I'll have to remember that for next time."
-    em ""
+    em "Vou lembrar disso pra próxima vez."
 
 # game/v9/scene16.rpy:777
 translate portuguese v9s16_emilyDoggy_43d10a56:
 
     # u "Please do. Are you okay? I didn't hurt you, did I?"
-    u ""
+    u "Por favor. Tá tudo bem? Eu não te machuquei né?"
 
 # game/v9/scene16.rpy:782
 translate portuguese v9s16_emilyDoggy_1e4ccc6d:
 
     # em "No, I'm great. I can't believe I came that way. It was so intense."
-    em ""
+    em "Não, tá tudo bem. Eu ainda não acredito que eu gozei daquele jeito. Foi tão intenso."
 
 # game/v9/scene16.rpy:787
 translate portuguese v9s16_emilyDoggy_37571982:
 
     # u "Well, if you ever want a repeat, I'm your man."
-    u ""
+    u "Bom, se você quiser repetir isso, eu sou o cara certo."
 
 # game/v9/scene16.rpy:792
 translate portuguese v9s16_emilyDoggy_c0336b17:
 
     # em "You and your sex kill switch."
-    em ""
+    em "Você e o seu brochômetro."
 
 # game/v9/scene16.rpy:797
 translate portuguese v9s16_emilyDoggy_3a8d5173:
 
     # u "It was so good. You wore me out."
-    u ""
+    u "Foi bom demais. Você me deixou acabado."
 
 translate portuguese strings:
 
     # game/v9/scene16.rpy:323
     old "Make a move on Emily"
-    new ""
+    new "Tentar algo com a Emily"
 
