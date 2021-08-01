@@ -11704,113 +11704,113 @@ translate portuguese v6_nsfwSkipLabel1_1d3ccfe2:
 translate portuguese fu_b_913d2fda:
 
     # ev "Hmmm... that does sound enticing. Where would we be going?"
-    ev ""
+    ev "Hmmm... isso soa tentador. Pra onde iríamos?"
 
 # game/v6/v6.rpy:2776
 translate portuguese emhead_4dc25266:
 
     # em "*Moans* Ahhh..."
-    em ""
+    em "*Gemidos* Aahhh..."
 
 # game/v6/v6.rpy:4151
 translate portuguese naub69_f6eec8cb:
 
     # au "*Moans louder* Ah..."
-    au ""
+    au "*Gemendo mais alto* Ah..."
 
 # game/v6/v6.rpy:4269
 translate portuguese naub69_c297ffde:
 
     # au "*Loud moan* Ahhh..."
-    au ""
+    au "*Gemido Alto* Ahhh..."
 
 # game/v6/v6.rpy:4275
 translate portuguese naubfingering_a859c06b:
 
     # au "Oh my god..."
-    au ""
+    au "Meu Deus do céu..."
 
 # game/v6/v6.rpy:5744
 translate portuguese go_ad_01f63a6a:
 
     # sa "When I was a little girl,"
-    sa ""
+    sa "Quando eu era uma garotinha,"
 
 # game/v6/v6.rpy:5746
 translate portuguese go_ad_66036ab7:
 
     # sa "All I wanted to be was a super star."
-    sa ""
+    sa "Tudo o que eu queria era ser uma estrela."
 
 # game/v6/v6.rpy:5748
 translate portuguese go_ad_4fca3c26:
 
     # sa "In my room I'd twirl,"
-    sa ""
+    sa "No meu quarta eu dançava"
 
 # game/v6/v6.rpy:5750
 translate portuguese go_ad_87af2c99:
 
     # sa "Dreaming of the day I could go far."
-    sa ""
+    sa "Sonhando o dia que eu fosse amada."
 
 # game/v6/v6.rpy:5755
 translate portuguese go_ad_e5e5af65:
 
     # sa "Now that I am older,"
-    sa ""
+    sa "Agora que cresci,"
 
 # game/v6/v6.rpy:5757
 translate portuguese go_ad_6e50985f:
 
     # sa "I know that I'm a star."
-    sa ""
+    sa "Eu sei que meu sonho eu cumpri."
 
 # game/v6/v6.rpy:5759
 translate portuguese go_ad_94ebc5a3:
 
     # sa "I am the beholder,"
-    sa ""
+    sa "Eu sou uma contempladora,"
 
 # game/v6/v6.rpy:5761
 translate portuguese go_ad_4cdd53ab:
 
     # sa "You'll never be at par."
-    sa ""
+    sa "Que será a sua inspiradora."
 
 # game/v6/v6.rpy:5766
 translate portuguese go_ad_49473f80:
 
     # sa "I know you all want to be me,"
-    sa ""
+    sa "Eu sei que todas querer ser como eu,"
 
 # game/v6/v6.rpy:5768
 translate portuguese go_ad_f62e0e7b:
 
     # sa "But no one will ever compare."
-    sa ""
+    sa "Mas não se passa de um bando de plebeus."
 
 # game/v6/v6.rpy:5770
 translate portuguese go_ad_1a8b356b:
 
     # sa "So why not take a knee,"
-    sa ""
+    sa "Então porque vocês não se ajoelham,"
 
 # game/v6/v6.rpy:5772
 translate portuguese go_ad_acbcb8e9:
 
     # sa "And maybe I'll let you breathe my air."
-    sa ""
+    sa "Que talvez um dia vocês se assemelham. "
 
 # game/v6/v6.rpy:5843
 translate portuguese gp_ad_be02824c:
 
     # host "There is no judgment here. Is anyone brave enough to share?"
-    host ""
+    host "Sem julgamentos aqui. Alguém é corajoso o suficiente pra subir?"
 
 # game/v6/v6.rpy:5974
 translate portuguese gp_ad_849215c7:
 
     # u "The stars are on uhh... fire."
-    u ""
+    u "As estrelas estão hmm... queimando."
 
