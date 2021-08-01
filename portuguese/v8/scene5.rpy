@@ -320,95 +320,95 @@ translate portuguese v8s5_nsfwSkipLabel1_b36f0799:
 translate portuguese v8s5_amberBlowjob_01df651c:
 
     # u "Ah fuck. Ahhhh."
-    u ""
+    u "Ah porra! Ahhh."
 
 # game/v8/scene5.rpy:64
 translate portuguese v8s5_amberMissonary_8e8192c6:
 
     # am "Ah that feels... ah so good. Ah.. Fuck me."
-    am ""
+    am "Ah isso... isso é tão bom. Ah... Me come."
 
 # game/v8/scene5.rpy:69
 translate portuguese v8s5_amberMissonary_ffa53ab5:
 
     # u "Ahh. Fuck. Ahhh."
-    u ""
+    u "Ahh. Porra. Ahhh."
 
 # game/v8/scene5.rpy:74
 translate portuguese v8s5_amberMissonary_b9e0d69c:
 
     # am "Ahh ah ahhh."
-    am ""
+    am "Ahh ah ahhh."
 
 # game/v8/scene5.rpy:79
 translate portuguese v8s5_amberMissonary_0a73bda9:
 
     # am "*Moans*"
-    am ""
+    am "*Gemidos*"
 
 # game/v8/scene5.rpy:88
 translate portuguese v8s5_amberMissonary_4e02250a:
 
     # u "Ahh fuck!"
-    u ""
+    u "Ahh porra!"
 
 # game/v8/scene5.rpy:93
 translate portuguese v8s5_amberMissonary_2087707f:
 
     # am "You want me to finish you off?"
-    am ""
+    am "Você quer que eu acabe o serviço?"
 
 # game/v8/scene5.rpy:94
 translate portuguese v8s5_amberMissonary_0eb5ed12:
 
     # u "With pleasure!"
-    u ""
+    u "Com prazer!"
 
 # game/v8/scene5.rpy:119
 translate portuguese v8s5_amberFacefuck_cb4ec657:
 
     # u "I'm gonna-"
-    u ""
+    u "Eu vou-"
 
 # game/v8/scene5.rpy:123
 translate portuguese v8s5_amberFacefuck_52d2c684:
 
     # u "Ahh!"
-    u ""
+    u "Ahh!"
 
 # game/v8/scene5.rpy:128
 translate portuguese v8s5_amberFacefuck_93e081c0:
 
     # u "That felt... way better than it usually does."
-    u ""
+    u "Isso foi... muito melhor que o normal."
 
 # game/v8/scene5.rpy:133
 translate portuguese v8s5_amberFacefuck_279ed26d:
 
     # am "Haha. It's the ecstasy."
-    am ""
+    am "Haha. É o ecstasy."
 
 # game/v8/scene5.rpy:138
 translate portuguese v8s5_amberFacefuck_2f7799b3:
 
     # u "Damn. That was fucking good."
-    u ""
+    u "Porra. Isso foi bom demais."
 
 # game/v8/scene5.rpy:146
 translate portuguese v8s5_amberFacefuck_91f10aaf:
 
     # am "Haha yeah. Better than homecoming?"
-    am ""
+    am "Haha sim. Melhor que o baile."
 
 # game/v8/scene5.rpy:151
 translate portuguese v8s5_amberFacefuck_733f5d9e:
 
     # u "Way fucking better than homecoming."
-    u ""
+    u "Muito melhor que aquela porra de baile."
 
 # game/v8/scene5.rpy:156
 translate portuguese v8s5_amberFacefuck_e5a1dd91:
 
     # am "Haha."
-    am ""
+    am "Haha."
 
