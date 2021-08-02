@@ -4,13 +4,13 @@
 translate portuguese v10_call_with_lauren2_a8c3537e:
 
     # u "Excited for the charity event?"
-    u "Entusiasmado com o evento beneficente?"
+    u "Entusiasmada com o evento beneficente?"
 
 # game/v10/scene18.rpy:17
 translate portuguese v10_call_with_lauren2_3bb3ba4e:
 
     # la "Excited, nervous, all of the above."
-    la "Entusiasmada, nervosa, e tudo o que foi já dito."
+    la "Entusiasmada, nervosa, todas as alternativas."
 
 # game/v10/scene18.rpy:22
 translate portuguese v10_call_with_lauren2_10994e2b:
@@ -58,7 +58,7 @@ translate portuguese v10_call_with_lauren2_f36a01c4:
 translate portuguese v10_call_with_lauren2_6aad51bc:
 
     # u "*Laughs* So the whole event is buzzing and every stand has a long queue, but just absolutely no one comes to you? That would be pretty funny to be fair."
-    u "*Risos* Então o evento todo está agitado e cada estande tem uma longa fila, mas absolutamente ninguém vem a sua? Isso seria muito engraçado para ser justo."
+    u "*Risos* Então, o evento todo agitado, os estandes com longas filas, mas absolutamente ninguém vem à sua? Isso seria muito engraçado para ser honesto."
 
 # game/v10/scene18.rpy:67
 translate portuguese v10_call_with_lauren2_2a570b1b:
@@ -106,13 +106,13 @@ translate portuguese v10_call_with_lauren2_bbe009af:
 translate portuguese v10_call_with_lauren2_e58ae4fa:
 
     # la "It was a huge installation of the solar system that would look beautiful and glow in the dark. It had proper orbiting and everything."
-    la "Era uma instalação enorme do sistema solar que brilhava no escuro e ficou lindo. Tinha uma órbita bem feita e tudo."
+    la "Era uma representação enorme do sistema solar que brilhava no escuro e ficou lindo. Tinha uma órbita bem feita e tudo."
 
 # game/v10/scene18.rpy:101
 translate portuguese v10_call_with_lauren2_5b2fd806:
 
     # la "Since it would work best in the dark, I asked if I could have a room at the school instead of showing it off at a stand in the gym like everyone else."
-    la "Como funcionava melhor no escuro, perguntei se poderia ter uma sala na escola em vez de exibir ele em um estande na academia como todos os outros."
+    la "Como funcionava melhor no escuro, perguntei se poderia ter uma sala na escola em vez de exibir ele em um estande no ginásio como todos os outros."
 
 # game/v10/scene18.rpy:103
 translate portuguese v10_call_with_lauren2_886d3317:
@@ -202,7 +202,7 @@ translate portuguese v10_call_with_lauren2_009f66ba:
 translate portuguese v10_call_with_lauren2_8d5cf2ce:
 
     # la "My sister never really got along with them. Her whole \"fight the system\" mindset. She was always her own person and to be honest, I've always respected that a lot about her."
-    la "Minha irmã nunca se deu realmente bem com eles. \nToda sua mentalidade de \"lutar contra o sistema\". Ela sempre teve essa personalide. \nEpra ser honesta, sempre respeitei muito isso nela."
+    la "Minha irmã nunca se deu bem com eles. \nToda sua mentalidade de \"lutar contra o sistema\". Ela sempre teve essa personalide. \nE pra ser honesta, sempre respeitei muito isso nela."
 
 # game/v10/scene18.rpy:172
 translate portuguese v10_call_with_lauren2_73d23e78:
@@ -274,19 +274,19 @@ translate portuguese v10_call_with_lauren2_d8d58629:
 translate portuguese v10_call_with_lauren2_341f3398:
 
     # u "Someday I do, I consider myself somewhat of a family man. *Chuckles*"
-    u "Algum dia, eu me considero um pouco um homem de família. *Risos*"
+    u "Algum dia sim, eu me considero um homem de família. *Risos*"
 
 # game/v10/scene18.rpy:242
 translate portuguese v10_call_with_lauren2_aedc0875:
 
     # la "I do too, well, family woman. The chance to create a person and then just be able to give that person the most amazing life possible just sounds too good to pass up on."
-    la "Eu também, bem, mulher de família. A chance de criar uma pessoa e depois apenas ser capaz de dar a essa pessoa a vida mais incrível possível, parece bem demais para deixar passar adiante."
+    la "Eu também, bom, mulher de família. A chance de criar uma pessoa e ser capaz de dar a essa pessoa a vida mais incrível possível, parece bom demais para deixar passar."
 
 # game/v10/scene18.rpy:248
 translate portuguese v10_call_with_lauren2_ec523e46:
 
     # la "I think we'd make great parents, you know? And as long as you don't let your mother feed them, we may even have another childhood star in the family. *Laughs*"
-    la "Acho que daríamos ótimos pais, sabe? E desde que você não deixe sua mãe alimentar ele, podemos até mesmo ter outra estrela de TV na família. *Risos"
+    la "Acho que seríamos ótimos pais, sabe? E desde que você não deixe sua mãe alimentar ele, podemos até mesmo ter outra estrela de TV na família. *Risos"
 
 # game/v10/scene18.rpy:253
 translate portuguese v10_call_with_lauren2_9a90e255:
@@ -304,13 +304,13 @@ translate portuguese v10_call_with_lauren2_afdeb934:
 translate portuguese v10_call_with_lauren2_341f3398_1:
 
     # u "Someday I do, I consider myself somewhat of a family man. *Chuckles*"
-    u "Um dia, sim, me considero um pouco um homem de família. *Risos*"
+    u "Algum dia sim, eu me considero um homem de família. *Risos*"
 
 # game/v10/scene18.rpy:269
 translate portuguese v10_call_with_lauren2_150ac2a4:
 
     # la "Those poor kids, little do they know they're doomed to be fat babies."
-    la "Essas pobres crianças, pouco sabem elas que estão condenadas a ser bebês gordos."
+    la "Essas pobres crianças, elas nem sabem que estão condenadas a ser bebês gordos."
 
 # game/v10/scene18.rpy:274
 translate portuguese v10_call_with_lauren2_9a90e255_1:
@@ -364,7 +364,7 @@ translate portuguese v10_call_with_lauren2_e66e68fc:
 translate portuguese v10_call_with_lauren2_dc7fadd3:
 
     # u "Okay, so right before I went to bed last night I thought about this. If you're a genie and someone says \"I wish you wouldn't grant me this wish\", what do you do?"
-    u "Certo, então bem antes de ir pra a cama ontem à noite eu pensei sobre isso. Se você é um gênio e alguém diz \"Eu gostaria que você não me concedesse este desejo\", o que você faz?"
+    u "Certo, então bem antes de ir pra a cama ontem à noite eu pensei sobre isso. Se você é um gênio e alguém diz \"Eu gostaria que você não me concedesse este desejo\", o que você faria?"
 
 # game/v10/scene18.rpy:320
 translate portuguese v10_call_with_lauren2_26f1f200:
@@ -616,7 +616,7 @@ translate portuguese v10_call_with_lauren2_009f66ba_1:
 translate portuguese v10_call_with_lauren2_8d5cf2ce_1:
 
     # la "My sister never really got along with them. Her whole \"fight the system\" mindset. She was always her own person and to be honest, I've always respected that a lot about her."
-    la "Minha irmã nunca se deu realmente bem com eles. \nToda sua mentalidade de \"lutar contra o sistema\". Ela sempre teve essa personalide. \nEpra ser honesta, sempre respeitei muito isso nela."
+    la "Minha irmã nunca se deu bem com eles. \nToda sua mentalidade de \"lutar contra o sistema\". Ela sempre teve essa personalide. \nEpra ser honesta, sempre respeitei muito isso nela."
 
 # game/v10/scene18.rpy:527
 translate portuguese v10_call_with_lauren2_73d23e78_1:
@@ -688,13 +688,13 @@ translate portuguese v10_call_with_lauren2_d8d58629_1:
 translate portuguese v10_call_with_lauren2_341f3398_2:
 
     # u "Someday I do, I consider myself somewhat of a family man. *Chuckles*"
-    u "Algum dia, eu me considero um pouco um homem de família. *Risos*"
+    u "Algum dia sim, eu me considero um homem de família. *Risos*"
 
 # game/v10/scene18.rpy:597
 translate portuguese v10_call_with_lauren2_aedc0875_1:
 
     # la "I do too, well, family woman. The chance to create a person and then just be able to give that person the most amazing life possible just sounds too good to pass up on."
-    la "Eu também, bem, mulher de família. A chance de criar uma pessoa e depois apenas ser capaz de dar a essa pessoa a vida mais incrível possível, parece bem demais para deixar passar adiante."
+    la "Eu também, bom... mulher de família. A chance de criar uma pessoa e depois ser capaz de dar à essa pessoa a vida mais incrível possível, parece bem demais para deixar passar."
 
 # game/v10/scene18.rpy:603
 translate portuguese v10_call_with_lauren2_ec523e46_1:
@@ -718,13 +718,13 @@ translate portuguese v10_call_with_lauren2_afdeb934_2:
 translate portuguese v10_call_with_lauren2_341f3398_3:
 
     # u "Someday I do, I consider myself somewhat of a family man. *Chuckles*"
-    u "Um dia, sim, eu me considero um pouco um homem de família. *Risos*"
+    u "Algum dia sim, eu me considero um homem de família. *Risos*"
 
 # game/v10/scene18.rpy:624
 translate portuguese v10_call_with_lauren2_150ac2a4_1:
 
     # la "Those poor kids, little do they know they're doomed to be fat babies."
-    la "Essas pobres crianças, pouco sabem eles que estão condenadas a serem bebês gordos."
+    la "Essas pobres crianças, nem sabe que estão condenadas a ser bebês gordos."
 
 # game/v10/scene18.rpy:629
 translate portuguese v10_call_with_lauren2_9a90e255_3:
@@ -843,347 +843,347 @@ translate portuguese strings:
 translate portuguese v10_call_with_lauren2_b46c8115:
 
     # u "I'm sure everything will go just fine, if there's anything that needs special attention I'm sure your sister is already on top of it."
-    u ""
+    u "Eu tenho certeza que vai ficar tudo bem, se alguma coisa precisar de mais atenção eu tenho certeza que a sua irmã vai dar conta."
 
 # game/v10/scene18.rpy:57
 translate portuguese v10_call_with_lauren2_ad0b15df:
 
     # la "It's also like... what if no one comes to my thing? And I put all this work in and just no one ever comes by."
-    la ""
+    la "É também que... e se ninguém vir pro meu stand? E eu me esforçar um monte pra ninguém vir."
 
 # game/v10/scene18.rpy:67
 translate portuguese v10_call_with_lauren2_f7f238df:
 
     # la "Well I'm glad my failure amuses you."
-    la ""
+    la "Bom, eu fico feliz que meu fracasso te entretenha."
 
 # game/v10/scene18.rpy:72
 translate portuguese v10_call_with_lauren2_e3ca4fd4:
 
     # u "Okay, IMAGINARY failure. Obviously that's not gonna happen."
-    u ""
+    u "Tá, fracasso IMAGINÁRIO. Obviamente, isso não vai acontecer."
 
 # game/v10/scene18.rpy:77
 translate portuguese v10_call_with_lauren2_880a93a2:
 
     # la "I don't know, this could be middle school all over again."
-    la ""
+    la "Eu não sei, isso seria como voltar ao ensino médio."
 
 # game/v10/scene18.rpy:92
 translate portuguese v10_call_with_lauren2_44550014:
 
     # u "Let me guess, you didn't have a project."
-    u ""
+    u "Deixa eu tentar adivinhar, você não tinha um stand."
 
 # game/v10/scene18.rpy:105
 translate portuguese v10_call_with_lauren2_c730f9ae:
 
     # la "Apparently he had forgotten to put up the sign that'd tell people about my installation."
-    la ""
+    la "Aparentemente ele esqueceu de colocar o aviso que informava as pessoas sobre minha representação."
 
 # game/v10/scene18.rpy:110
 translate portuguese v10_call_with_lauren2_9cddb323:
 
     # u "Holy shit, that's so sad. I wish I could've seen the project. It sounds really cool."
-    u ""
+    u "Caralho, que triste. Bem que eu queria ter visto o seu projeto. Parece ter sido super legal."
 
 # game/v10/scene18.rpy:120
 translate portuguese v10_call_with_lauren2_81beec71:
 
     # u "I assume you haven't forgiven your teacher to this day, huh?"
-    u ""
+    u "Eu imagino que você não tenha perdoado seu professor até hoje né?"
 
 # game/v10/scene18.rpy:125
 translate portuguese v10_call_with_lauren2_c0af0e0f:
 
     # la "Well... no. But, in all fairness, most of my teachers weren't the nicest people anyways. I'm just glad that phase of my life is over."
-    la ""
+    la "Bom... não. Mas, se melhora as coisas, meus professores não eram as melhores pessoas. Eu fico feliz que essa fase da minha vida acabou."
 
 # game/v10/scene18.rpy:130
 translate portuguese v10_call_with_lauren2_b72af6ed:
 
     # u "Sounds like you really didn't have a good time in middle school."
-    u ""
+    u "Parece que o ensino médio foi um período ruim da sua vida."
 
 # game/v10/scene18.rpy:135
 translate portuguese v10_call_with_lauren2_9368b33a:
 
     # la "It was a private school, so... no."
-    la ""
+    la "Era uma escola particular, então... não."
 
 # game/v10/scene18.rpy:145
 translate portuguese v10_call_with_lauren2_34637223:
 
     # la "Not just any private school... a very strict, religious one."
-    la ""
+    la "Não só uma escola particular... uma super estrita, era reliogosa."
 
 # game/v10/scene18.rpy:150
 translate portuguese v10_call_with_lauren2_213c4edb:
 
     # u "Oh, I didn't even know you were super religious."
-    u ""
+    u "Ah, eu não sabia que você era super religiosa."
 
 # game/v10/scene18.rpy:160
 translate portuguese v10_call_with_lauren2_57f3faab:
 
     # u "So what's that like, growing up with very religious parents?"
-    u ""
+    u "Então como foi, crescer com pais super religiosos?"
 
 # game/v10/scene18.rpy:165
 translate portuguese v10_call_with_lauren2_d1a3c8c5:
 
     # la "Uhm I don't know. I love my parents, but there were times when I really felt like I needed a break from them."
-    la ""
+    la "Hmm, eu não sei. Eu amo meus pais, mas tem horas que eu sinto que preciso de um descanso deles."
 
 # game/v10/scene18.rpy:172
 translate portuguese v10_call_with_lauren2_af9ac2ee:
 
     # u "Do you feel like you're not your own person?"
-    u ""
+    u "Você sente que não é dona das suas próprias decisões?"
 
 # game/v10/scene18.rpy:202
 translate portuguese v10_call_with_lauren2_ef55f80c:
 
     # u "I guess, but it's also nice to make other people happy. I don't know, your selflessness is one of the things I like most about you."
-    u ""
+    u "Eu acho, mas é bom deixar as outras pessoas felizes. Eu não sei, seu altruísmo é umas das coisas que eu mais gosto de você."
 
 # game/v10/scene18.rpy:207
 translate portuguese v10_call_with_lauren2_e259bc54:
 
     # la "Thanks, I guess. Yeah, you're probably right. I don't know. I think it's about finding a balance."
-    la ""
+    la "Valeu, eu acho. É, você está certo. Eu não sei. Eu acho que se trata de achar um equilíbrio."
 
 # game/v10/scene18.rpy:212
 translate portuguese v10_call_with_lauren2_41aee1b9:
 
     # la "So uhm... rapid change of topics, do you want kids someday?"
-    la ""
+    la "Então hmm... trocando de assunto, você quer ter filhos algum dia?"
 
 # game/v10/scene18.rpy:218
 translate portuguese v10_call_with_lauren2_ed206474:
 
     # u "Wait, is this like a trick question where I gotta make sure that my answer doesn't hurt your feelings or something?"
-    u ""
+    u "Espera, isso é uma pegadinha que eu tenho que pensar detalhadamente para não ferir os seus sentimentos ou algo assim?"
 
 # game/v10/scene18.rpy:223
 translate portuguese v10_call_with_lauren2_eeb719d0:
 
     # la "*Laughs* No, I'm just interested in my boyfriend's thoughts."
-    la ""
+    la "*Risadas* Não, eu só quero saber o que meu namorado pensa."
 
 # game/v10/scene18.rpy:285
 translate portuguese v10_call_with_lauren2_fdd1ca76:
 
     # u "I don't think so, kinda sounds expensive. I'm just not really a big family man."
-    u ""
+    u "Eu acho que não, parece ser bem caro. Eu não sou um cara muito adepto às grandes famílias."
 
 # game/v10/scene18.rpy:295
 translate portuguese v10_call_with_lauren2_2460e7aa:
 
     # u "Yeah, I guess. I don't really know, it seems like a lot of responsibility."
-    u ""
+    u "Sim, eu acho. Eu não tenho certeza, porque parece ser bastante responsabilidade."
 
 # game/v10/scene18.rpy:300
 translate portuguese v10_call_with_lauren2_1db55f51:
 
     # la "*Laughs* Having a kid? Yeah that's kind of the point."
-    la ""
+    la "*Risadas* Ter um filho? É, qual é ponto disso."
 
 # game/v10/scene18.rpy:305
 translate portuguese v10_call_with_lauren2_77b9bc23:
 
     # u "You ever just have random questions pop up in your head, but then you're like... wait a minute, I don't even know what I'd do in that scenario?"
-    u ""
+    u "Você já teve umas perguntas aleatórias aparecendo na sua mente, mas então você fica tipo... espera um pouco, eu nem sei o que faria nessa situação?"
 
 # game/v10/scene18.rpy:325
 translate portuguese v10_call_with_lauren2_55e92563:
 
     # u "You're making it too easy! If you're not granting him the wish then you would be granting him the wish, but that would mean you wouldn't grant him the wish and that-"
-    u ""
+    u "Isso aqui tá muito fácil! Se você não der a ele o desejo você vai estar realizando o desejo dele, mas isso significaria que você não realizaria o desejo dele e isso-"
 
 # game/v10/scene18.rpy:330
 translate portuguese v10_call_with_lauren2_0517d272:
 
     # la "Okay, okay. I see what you're getting at. *Chuckles*"
-    la ""
+    la "Tá tá. Eu entendi o seu ponto. *Risadas*"
 
 # game/v10/scene18.rpy:357
 translate portuguese v10_call_with_lauren2_a102f141:
 
     # u "(Wow, that was quite a long call, but I feel like I really learned a lot about her... It's not that late, maybe I can go for a bit of a walk before going to bed.)"
-    u ""
+    u "(Nossa, essa foi uma chamada bem longa, mas sinto que aprendi muito sobre ela... não tá tão tarde assim, talvez eu posso dar uma caminhada antes de dormir.)"
 
 # game/v10/scene18.rpy:402
 translate portuguese v10_call_with_lauren2_b46c8115_1:
 
     # u "I'm sure everything will go just fine, if there's anything that needs special attention I'm sure your sister is already on top of it."
-    u ""
+    u "Eu tenho certeza que vai dar tudo certo, se houver algo que precisa de atenção especial eu tenho certeza que a sua irmã vai dar conta."
 
 # game/v10/scene18.rpy:412
 translate portuguese v10_call_with_lauren2_ad0b15df_1:
 
     # la "It's also like... what if no one comes to my thing? And I put all this work in and just no one ever comes by."
-    la ""
+    la "É que tipo... e se ninguém for me ver? E eu me esforcei tanto pra ninguém ver o que eu fiz."
 
 # game/v10/scene18.rpy:422
 translate portuguese v10_call_with_lauren2_f7f238df_1:
 
     # la "Well I'm glad my failure amuses you."
-    la ""
+    la "Bom, fico feliz que meu fracasso te entretenha."
 
 # game/v10/scene18.rpy:427
 translate portuguese v10_call_with_lauren2_e3ca4fd4_1:
 
     # u "Okay, IMAGINARY failure. Obviously that's not gonna happen."
-    u ""
+    u "Tá, fracasso IMAGINÁRIO. Obviamente, isso não vai acontecer."
 
 # game/v10/scene18.rpy:432
 translate portuguese v10_call_with_lauren2_880a93a2_1:
 
     # la "I don't know, this could be middle school all over again."
-    la ""
+    la "Eu não sei, isso poderia ser como o ensino médio se repetindo."
 
 # game/v10/scene18.rpy:447
 translate portuguese v10_call_with_lauren2_44550014_1:
 
     # u "Let me guess, you didn't have a project."
-    u ""
+    u "Deixa eu adivinhar, você não tinha um projeto."
 
 # game/v10/scene18.rpy:460
 translate portuguese v10_call_with_lauren2_c730f9ae_1:
 
     # la "Apparently he had forgotten to put up the sign that'd tell people about my installation."
-    la ""
+    la "Aparentemente ele esqueceu de colocar o aviso que informava as pessoas sobre a minha representação."
 
 # game/v10/scene18.rpy:465
 translate portuguese v10_call_with_lauren2_9cddb323_1:
 
     # u "Holy shit, that's so sad. I wish I could've seen the project. It sounds really cool."
-    u ""
+    u "Puta merda, isso é triste. Bem que eu gostaria de ter visto o seu projeto. Parece ter sido super legal."
 
 # game/v10/scene18.rpy:475
 translate portuguese v10_call_with_lauren2_81beec71_1:
 
     # u "I assume you haven't forgiven your teacher to this day, huh?"
-    u ""
+    u "Eu imagino que você ainda não perdoou o seu professor até hoje né?"
 
 # game/v10/scene18.rpy:480
 translate portuguese v10_call_with_lauren2_c0af0e0f_1:
 
     # la "Well... no. But, in all fairness, most of my teachers weren't the nicest people anyways. I'm just glad that phase of my life is over."
-    la ""
+    la "Bom... não. Mas, pra falar a verdade, a maioria dos meus professores não eram as melhores pessoas. Eu só estou feliz de ter passado por essa fase."
 
 # game/v10/scene18.rpy:485
 translate portuguese v10_call_with_lauren2_b72af6ed_1:
 
     # u "Sounds like you really didn't have a good time in middle school."
-    u ""
+    u "Parece que você não teve uma boa experiência enquanto estava no ensino médio."
 
 # game/v10/scene18.rpy:490
 translate portuguese v10_call_with_lauren2_9368b33a_1:
 
     # la "It was a private school, so... no."
-    la ""
+    la "Era uma escolha particular, então... não."
 
 # game/v10/scene18.rpy:500
 translate portuguese v10_call_with_lauren2_34637223_1:
 
     # la "Not just any private school... a very strict, religious one."
-    la ""
+    la "Não apenas uma escola particular... uma super estrita, uma religiosa."
 
 # game/v10/scene18.rpy:505
 translate portuguese v10_call_with_lauren2_213c4edb_1:
 
     # u "Oh, I didn't even know you were super religious."
-    u ""
+    u "Ah, eu não sabia que você era super religiosa."
 
 # game/v10/scene18.rpy:515
 translate portuguese v10_call_with_lauren2_57f3faab_1:
 
     # u "So what's that like, growing up with very religious parents?"
-    u ""
+    u "Então, como foi crescer com pais super religiosos?"
 
 # game/v10/scene18.rpy:520
 translate portuguese v10_call_with_lauren2_d1a3c8c5_1:
 
     # la "Uhm I don't know. I love my parents, but there were times when I really felt like I needed a break from them."
-    la ""
+    la "Hmmm, eu não sei. Eu amo meus pais, mas em alguns momentos eu sinto que preciso de um descanso deles."
 
 # game/v10/scene18.rpy:527
 translate portuguese v10_call_with_lauren2_af9ac2ee_1:
 
     # u "Do you feel like you're not your own person?"
-    u ""
+    u "Você sente como se não controlasse suas ações?"
 
 # game/v10/scene18.rpy:557
 translate portuguese v10_call_with_lauren2_ef55f80c_1:
 
     # u "I guess, but it's also nice to make other people happy. I don't know, your selflessness is one of the things I like most about you."
-    u ""
+    u "Eu acho, mas também é bom fazer os outros felizes. Eu não sei, seu altruísmo é uma das coisas que eu mais gosto em você."
 
 # game/v10/scene18.rpy:562
 translate portuguese v10_call_with_lauren2_e259bc54_1:
 
     # la "Thanks, I guess. Yeah, you're probably right. I don't know. I think it's about finding a balance."
-    la ""
+    la "Valeu, eu acho. Sim, você está certo. Eu não sei. Eu acho que se trata de achar um equilíbrio."
 
 # game/v10/scene18.rpy:567
 translate portuguese v10_call_with_lauren2_41aee1b9_1:
 
     # la "So uhm... rapid change of topics, do you want kids someday?"
-    la ""
+    la "Então hmm... mudando de assunto, você quer ter filhos algum dia?"
 
 # game/v10/scene18.rpy:573
 translate portuguese v10_call_with_lauren2_ed206474_1:
 
     # u "Wait, is this like a trick question where I gotta make sure that my answer doesn't hurt your feelings or something?"
-    u ""
+    u "Espera, essa é uma daquelas pegadinhas que eu tenho que pensar detalhadamente minhas resposta pra não ferir seus sentimentos ou algo assim?"
 
 # game/v10/scene18.rpy:578
 translate portuguese v10_call_with_lauren2_eeb719d0_1:
 
     # la "*Laughs* No, I'm just interested in my boyfriend's thoughts."
-    la ""
+    la "*Risadas* Não, eu só quero saber o que meu namorado pensa das coisas."
 
 # game/v10/scene18.rpy:640
 translate portuguese v10_call_with_lauren2_fdd1ca76_1:
 
     # u "I don't think so, kinda sounds expensive. I'm just not really a big family man."
-    u ""
+    u "Eu acho que não, parece ser caro. Eu não sou um cara muito familiar."
 
 # game/v10/scene18.rpy:650
 translate portuguese v10_call_with_lauren2_2460e7aa_1:
 
     # u "Yeah, I guess. I don't really know, it seems like a lot of responsibility."
-    u ""
+    u "Sim, eu acho. Eu não sei na real, parece ser muita responsabilidade."
 
 # game/v10/scene18.rpy:655
 translate portuguese v10_call_with_lauren2_1db55f51_1:
 
     # la "*Laughs* Having a kid? Yeah that's kind of the point."
-    la ""
+    la "*Risadas* Ter um filho? Tipo, qual é o ponto nisso."
 
 # game/v10/scene18.rpy:660
 translate portuguese v10_call_with_lauren2_77b9bc23_1:
 
     # u "You ever just have random questions pop up in your head, but then you're like... wait a minute, I don't even know what I'd do in that scenario?"
-    u ""
+    u "Você já teve um questionamento que apareceu do nada na sua cabeça, mas você fica tipo... espera um minuto, eu nem sei o que faria nessa situação?"
 
 # game/v10/scene18.rpy:680
 translate portuguese v10_call_with_lauren2_55e92563_1:
 
     # u "You're making it too easy! If you're not granting him the wish then you would be granting him the wish, but that would mean you wouldn't grant him the wish and that-"
-    u ""
+    u "Isso é fácil demais! Se você não realizar o seu desejo então você vai realizar o seu desejo, mas isso significaria que você não estaria realizando o desejo dele e isso-"
 
 # game/v10/scene18.rpy:685
 translate portuguese v10_call_with_lauren2_0517d272_1:
 
     # la "Okay, okay. I see what you're getting at. *Chuckles*"
-    la ""
+    la "Tá, tá. Eu entendi o seu ponto. *Risadas*"
 
 # game/v10/scene18.rpy:712
 translate portuguese v10_call_with_lauren2_a102f141_1:
 
     # u "(Wow, that was quite a long call, but I feel like I really learned a lot about her... It's not that late, maybe I can go for a bit of a walk before going to bed.)"
-    u ""
+    u "(Nossa, foi uma ligação super longa, mas eu sinto que aprendi muito sobre ela... não está tão tarde assim, talvez eu possa caminhar um pouco antes de dormir.)"
 
