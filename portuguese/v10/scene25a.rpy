@@ -415,5 +415,5 @@ translate portuguese strings:
 translate portuguese v10_sam_kitchen_467d994a:
 
     # sa "*Drunk* Cause you like to hang out, like right now, we're hanging out. That means I'm a bunny too."
-    sa ""
+    sa "*Bêbada* Por que você gosta de sair, tipo agora, nós estamos saindo. Isso significa que eu também sou uma colhinha."
 
