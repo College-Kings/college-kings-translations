@@ -19232,7 +19232,7 @@ translate portuguese ep7_before_history_645a309e:
 translate portuguese v7_nsfwSkipLabel2_829dbcf1:
 
     # lee "Who was that? {b}WHO WAS THAT?{/b}"
-    lee "Quem foi? {b}QUEM FOI?{/b}""
+    lee "Quem foi? {b}QUEM FOI?{/b}"
 
 # game/v7/v7.rpy:6521
 translate portuguese lee_pants_fail_059cbc4d:
