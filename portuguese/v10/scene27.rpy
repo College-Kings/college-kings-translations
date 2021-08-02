@@ -441,11 +441,11 @@ translate portuguese strings:
 translate portuguese v10_econ_class_fc4bdb7d:
 
     # u "Uhm, yeah I'm... fine. You?"
-    u ""
+    u "Hmm, é eu tô... bem. E você?"
 
 # game/v10/scene27.rpy:200
 translate portuguese v10_econ_class_fed3c183:
 
     # ro "Yeah, uhm. I'm actually really happy."
-    ro ""
+    ro "Sim, hm. Na verdade eu tô super feliz."
 
