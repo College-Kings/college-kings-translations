@@ -1002,551 +1002,551 @@ translate portuguese v10s26_nsfwSkipLabel1_0ce58993:
 translate portuguese v10s26_amberBlowjob_e6dc38ec:
 
     # u "Damn Amber!"
-    u ""
+    u "Caraca Amber!"
 
 # game/v10/scene26.rpy:418
 translate portuguese v10s26_amberBlowjob_0d14ebca:
 
     # u "Holy fuck!"
-    u ""
+    u "Puta merda!"
 
 # game/v10/scene26.rpy:423
 translate portuguese v10s26_amberBlowjob_0dcffdec:
 
     # u "I didn't know you... oh shit!"
-    u ""
+    u "Eu não sabia que você... puta merda!"
 
 # game/v10/scene26.rpy:437
 translate portuguese v10s26_amberBlowjob_ac358932:
 
     # am "Fuck me."
-    am ""
+    am "Me come."
 
 # game/v10/scene26.rpy:446
 translate portuguese v10s26_amberLying_93141561:
 
     # am "Oh I needed this!"
-    am ""
+    am "Ah, eu precisava disso!"
 
 # game/v10/scene26.rpy:451
 translate portuguese v10s26_amberLying_cee0f438:
 
     # am "Fuck me harder [name]!"
-    am ""
+    am "Me fode bem fodida [name]!"
 
 # game/v10/scene26.rpy:456
 translate portuguese v10s26_amberLying_f7fd4196:
 
     # am "Oh god!"
-    am ""
+    am "Meu Deus!"
 
 # game/v10/scene26.rpy:465
 translate portuguese v10s26_amberDoggy_bee091fa:
 
     # am "Oh my God, FASTER!"
-    am ""
+    am "Ah meu Deus, MAIS FORTE!"
 
 # game/v10/scene26.rpy:467
 translate portuguese v10s26_amberDoggy_cfa8ef6a:
 
     # am "YESSSS!"
-    am ""
+    am "ISSOOOO!"
 
 # game/v10/scene26.rpy:472
 translate portuguese v10s26_amberDoggy_aa368576:
 
     # u "Damn this feels good!"
-    u ""
+    u "Porra, isso é bom demais!"
 
 # game/v10/scene26.rpy:474
 translate portuguese v10s26_amberDoggy_ace625cb:
 
     # am "Oh fuck!"
-    am ""
+    am "Puta merda!"
 
 # game/v10/scene26.rpy:483
 translate portuguese v10s26_amberCowgirl_2650c780:
 
     # am "I could get used to this!"
-    am ""
+    am "Bem que eu podia me acostumar a isso!"
 
 # game/v10/scene26.rpy:488
 translate portuguese v10s26_amberCowgirl_a8d1bb6c:
 
     # u "Damn you know what you're doing!"
-    u ""
+    u "Caralho, você sabe mesmo o que faz!"
 
 # game/v10/scene26.rpy:493
 translate portuguese v10s26_amberCowgirl_9a45d6c4:
 
     # am "Oh shit I'm gonna cum!"
-    am ""
+    am "Caralho eu vou gozar!"
 
 # game/v10/scene26.rpy:498
 translate portuguese v10s26_amberCowgirl_145180e5:
 
     # u "Me too."
-    u ""
+    u "Eu também."
 
 # game/v10/scene26.rpy:503
 translate portuguese v10s26_amberCowgirl_6260584c:
 
     # am "Cum in me [name]."
-    am ""
+    am "Goza em mim [name].
 
 # game/v10/scene26.rpy:510
 translate portuguese v10s26_amberCowgirl_270dde9d:
 
     # am "That was exciting!"
-    am ""
+    am "Isso foi emociontante!"
 
 # game/v10/scene26.rpy:515
 translate portuguese v10s26_amberCowgirl_23d0cfc4:
 
     # u "I'm glad you hit me up."
-    u ""
+    u "Eu fico feliz que você tenha me chamado."
 
 # game/v10/scene26.rpy:520
 translate portuguese v10s26_amberCowgirl_e28aafa2:
 
     # am "Me too."
-    am ""
+    am "Eu também."
 
 # game/v10/scene26.rpy:535
 translate portuguese v10s26_amberCowgirl_ce9a2a19:
 
     # am "I don't wanna make you feel like a booty call, but I'm pretty tired after that."
-    am ""
+    am "Eu não quero te fazer sentir que te chamei só pra uma rapidinha, mas eu fiquei acabada depois disso."
 
 # game/v10/scene26.rpy:540
 translate portuguese v10s26_amberCowgirl_b121e142:
 
     # u "Haha, don't worry, me too. Maybe we should call it a night."
-    u ""
+    u "Haha, não tem problema, eu também. Talvez a gente deveria concluir a noite."
 
 # game/v10/scene26.rpy:545
 translate portuguese v10s26_amberCowgirl_d964a994:
 
     # am "Yeah, I'll see you soon."
-    am ""
+    am "Sim, a gente se vê."
 
 # game/v10/scene26.rpy:550
 translate portuguese v10s26_amberCowgirl_9cc7b881:
 
     # u "*Chuckles* Bye."
-    u ""
+    u "*Risadas* Tchau."
 
 # game/v10/scene26.rpy:555
 translate portuguese v10s26_amberCowgirl_4e09152f:
 
     # u "(Damn, that really just happened. That was crazy.)"
-    u ""
+    u "(Caraca, isso acabou de acontecer mesmo. Isso foi uma loucura.)"
 
 # game/v10/scene26.rpy:562
 translate portuguese v10s26_amberCowgirl_367ab691:
 
     # u "Woah, let's not do that."
-    u ""
+    u "Nossa, não vamos fazer isso."
 
 # game/v10/scene26.rpy:567
 translate portuguese v10s26_amberCowgirl_3de35d93:
 
     # am "Ugh fine, guess I'll just go home."
-    am ""
+    am "Ah tá, eu acho que vou pra casa então."
 
 # game/v10/scene26.rpy:576
 translate portuguese v10s26_amberCowgirl_248c007d:
 
     # u "Alright, sorry... it was a nice night though."
-    u ""
+    u "Então tá, foi mal... foi uma bela noite de qualquer jeito."
 
 # game/v10/scene26.rpy:581
 translate portuguese v10s26_amberCowgirl_3bffa3eb:
 
     # am "Yeah, whatever."
-    am ""
+    am "Sim, tanto faz."
 
 # game/v10/scene26.rpy:587
 translate portuguese v10s26_amberCowgirl_810d488e:
 
     # u "I could come with you and maybe we could continue this there."
-    u ""
+    u "Eu poderia vir te ajudar e talvez continuar de onde paramos."
 
 # game/v10/scene26.rpy:592
 translate portuguese v10s26_amberCowgirl_1d96a7a8:
 
     # am "Nah, you kinda killed the mood."
-    am ""
+    am "Nah, você matou o clima."
 
 # game/v10/scene26.rpy:597
 translate portuguese v10s26_amberCowgirl_eed87296:
 
     # u "Right, sorry."
-    u ""
+    u "Tá, foi mal."
 
 # game/v10/scene26.rpy:608
 translate portuguese v10s26_amberCowgirl_7cb3e308:
 
     # am "You skate?"
-    am ""
+    am "Você anda de skate?"
 
 # game/v10/scene26.rpy:618
 translate portuguese v10s26_amberCowgirl_ae9b2e78:
 
     # u "Yeah, I love all wheels."
-    u ""
+    u "Sim, eu amo."
 
 # game/v10/scene26.rpy:623
 translate portuguese v10s26_amberCowgirl_e714878d:
 
     # am "I've always liked guys that skate."
-    am ""
+    am "Eu sempre gostei de caras que andam de skate."
 
 # game/v10/scene26.rpy:628
 translate portuguese v10s26_amberCowgirl_47896fc3:
 
     # u "Good to know."
-    u ""
+    u "É bom saber."
 
 # game/v10/scene26.rpy:634
 translate portuguese v10s26_amberCowgirl_fa67bd4a:
 
     # u "No, I'm not really into wheels."
-    u ""
+    u "Não, eu não gosto muito."
 
 # game/v10/scene26.rpy:639
 translate portuguese v10s26_amberCowgirl_56ea09f0:
 
     # am "Really? I've always liked guys that skate."
-    am ""
+    am "Sério? Eu sempre gostei de caras que andam de skate."
 
 # game/v10/scene26.rpy:644
 translate portuguese v10s26_amberCowgirl_d2a72425:
 
     # u "I'll keep that in mind."
-    u ""
+    u "Eu vou ter isso em mente."
 
 # game/v10/scene26.rpy:649
 translate portuguese v10s26_amberCowgirl_2984a175:
 
     # am "If I ever settled for a dude he'd be a skater."
-    am ""
+    am "Se algum dia eu namorasse com um cara ele teria que andar de skate."
 
 # game/v10/scene26.rpy:667
 translate portuguese v10s26_amberCowgirl_b36dd4e3:
 
     # u "Maybe I could learn it."
-    u ""
+    u "Talvez eu pudesse aprender."
 
 # game/v10/scene26.rpy:672
 translate portuguese v10s26_amberCowgirl_efd4a40a:
 
     # am "I think that'd be good."
-    am ""
+    am "Eu acho que isso seria bom."
 
 # game/v10/scene26.rpy:678
 translate portuguese v10s26_amberCowgirl_6f5eaa83:
 
     # u "Sounds like I'm your type."
-    u ""
+    u "Parece que eu sou o seu tipo de homem."
 
 # game/v10/scene26.rpy:683
 translate portuguese v10s26_amberCowgirl_31dfa2f3:
 
     # am "It does, doesn't it?"
-    am ""
+    am "É mesmo, não é?"
 
 # game/v10/scene26.rpy:688
 translate portuguese v10s26_amberCowgirl_d19daf0f:
 
     # am "*Whisper* You know, I'm pretty horny right now. *Giggles*"
-    am ""
+    am "*Sussurro* Sabe, eu tô cheia de tesão agora. *Risadas*"
 
 # game/v10/scene26.rpy:693
 translate portuguese v10s26_amberCowgirl_0c359d78:
 
     # u "*Whisper* Really? Right now? *Chuckles*"
-    u ""
+    u "*Sussurro* Sério? Agora? *Risadas*"
 
 # game/v10/scene26.rpy:698
 translate portuguese v10s26_amberCowgirl_3f92ae90:
 
     # am "*Whisper* Yeah, wanna do something about it?"
-    am ""
+    am "*Sussurro* Sim, quer fazer algo a respeito?"
 
 # game/v10/scene26.rpy:703
 translate portuguese v10s26_amberCowgirl_5fba5a1b:
 
     # u "*Whisper* Here?"
-    u ""
+    u "*Sussurro* Aqui?"
 
 # game/v10/scene26.rpy:708
 translate portuguese v10s26_amberCowgirl_bc21dd33:
 
     # am "Why not?"
-    am ""
+    am "Por quê não?"
 
 # game/v10/scene26.rpy:725
 translate portuguese v10s26_amberCowgirl_e6dc38ec:
 
     # u "Damn Amber!"
-    u ""
+    u "Caraca Amber!"
 
 # game/v10/scene26.rpy:730
 translate portuguese v10s26_amberCowgirl_0d14ebca:
 
     # u "Holy fuck!"
-    u ""
+    u "Puta merda!"
 
 # game/v10/scene26.rpy:735
 translate portuguese v10s26_amberCowgirl_0dcffdec:
 
     # u "I didn't know you... oh shit!"
-    u ""
+    u "Eu não sabia que você... puta merda!"
 
 # game/v10/scene26.rpy:749
 translate portuguese v10s26_amberCowgirl_ac358932:
 
     # am "Fuck me."
-    am ""
+    am "Me come."
 
 # game/v10/scene26.rpy:754
 translate portuguese v10s26_amberCowgirl_93141561:
 
     # am "Oh I needed this!"
-    am ""
+    am "Ah eu tava precisando disso!"
 
 # game/v10/scene26.rpy:759
 translate portuguese v10s26_amberCowgirl_cee0f438:
 
     # am "Fuck me harder [name]!"
-    am ""
+    am "Me come bem comida [name]!"
 
 # game/v10/scene26.rpy:764
 translate portuguese v10s26_amberCowgirl_f7fd4196:
 
     # am "Oh god!"
-    am ""
+    am "Meu Deus!"
 
 # game/v10/scene26.rpy:769
 translate portuguese v10s26_amberCowgirl_bee091fa:
 
     # am "Oh my God, FASTER!"
-    am ""
+    am "Meu Deus do céu, MAIS FORTE!"
 
 # game/v10/scene26.rpy:774
 translate portuguese v10s26_amberCowgirl_cfa8ef6a:
 
     # am "YESSSS!"
-    am ""
+    am "ISSSOOOO!!"
 
 # game/v10/scene26.rpy:779
 translate portuguese v10s26_amberCowgirl_aa368576:
 
     # u "Damn this feels good!"
-    u ""
+    u "Caralho isso é bom demais!"
 
 # game/v10/scene26.rpy:784
 translate portuguese v10s26_amberCowgirl_ace625cb:
 
     # am "Oh fuck!"
-    am ""
+    am "Puta merda!"
 
 # game/v10/scene26.rpy:789
 translate portuguese v10s26_amberCowgirl_2650c780_1:
 
     # am "I could get used to this!"
-    am ""
+    am "Eu poderia me acostumar a isso!"
 
 # game/v10/scene26.rpy:794
 translate portuguese v10s26_amberCowgirl_a8d1bb6c_1:
 
     # u "Damn you know what you're doing!"
-    u ""
+    u "Caralho, você sabe o que faz!"
 
 # game/v10/scene26.rpy:799
 translate portuguese v10s26_amberCowgirl_9a45d6c4_1:
 
     # am "Oh shit I'm gonna cum!"
-    am ""
+    am "Caralho eu vou gozar!"
 
 # game/v10/scene26.rpy:804
 translate portuguese v10s26_amberCowgirl_145180e5_1:
 
     # u "Me too."
-    u ""
+    u "Eu também."
 
 # game/v10/scene26.rpy:809
 translate portuguese v10s26_amberCowgirl_6260584c_1:
 
     # am "Cum in me [name]."
-    am ""
+    am "Goza em mim [name]."
 
 # game/v10/scene26.rpy:814
 translate portuguese v10s26_amberCowgirl_270dde9d_1:
 
     # am "That was exciting!"
-    am ""
+    am "Isso foi emocionante!"
 
 # game/v10/scene26.rpy:819
 translate portuguese v10s26_amberCowgirl_23d0cfc4_1:
 
     # u "I'm glad you hit me up."
-    u ""
+    u "Fico feliz que você tenha me chamado."
 
 # game/v10/scene26.rpy:824
 translate portuguese v10s26_amberCowgirl_e28aafa2_1:
 
     # am "Me too."
-    am ""
+    am "Eu também."
 
 # game/v10/scene26.rpy:839
 translate portuguese v10s26_amberCowgirl_ce9a2a19_1:
 
     # am "I don't wanna make you feel like a booty call, but I'm pretty tired after that."
-    am ""
+    am "Eu não quero te fazer sentir como se só te chamei pra uma rapidinha, mas eu fiquei exausta depois disso."
 
 # game/v10/scene26.rpy:844
 translate portuguese v10s26_amberCowgirl_b121e142_1:
 
     # u "Haha, don't worry, me too. Maybe we should call it a night."
-    u ""
+    u "Haha, não se preocupa, eu também. Eu acho que posso concluir minha noite."
 
 # game/v10/scene26.rpy:849
 translate portuguese v10s26_amberCowgirl_d964a994_1:
 
     # am "Yeah, I'll see you soon."
-    am ""
+    am "É, a gente se vê então."
 
 # game/v10/scene26.rpy:854
 translate portuguese v10s26_amberCowgirl_9cc7b881_1:
 
     # u "*Chuckles* Bye."
-    u ""
+    u "*Risadas* Tchau."
 
 # game/v10/scene26.rpy:859
 translate portuguese v10s26_amberCowgirl_4e09152f_1:
 
     # u "(Damn, that really just happened. That was crazy.)"
-    u ""
+    u "(Porra, isso aconteceu mesmo. Que loucura.)"
 
 # game/v10/scene26.rpy:866
 translate portuguese v10s26_amberCowgirl_367ab691_1:
 
     # u "Woah, let's not do that."
-    u ""
+    u "Nossa, não vamos fazer isso."
 
 # game/v10/scene26.rpy:871
 translate portuguese v10s26_amberCowgirl_3de35d93_1:
 
     # am "Ugh fine, guess I'll just go home."
-    am ""
+    am "Ah tá, acho que eu vou pra casa então."
 
 # game/v10/scene26.rpy:881
 translate portuguese v10s26_amberCowgirl_248c007d_1:
 
     # u "Alright, sorry... it was a nice night though."
-    u ""
+    u "Então tá, foi mal... mesmo com isso foi uma bela noite."
 
 # game/v10/scene26.rpy:886
 translate portuguese v10s26_amberCowgirl_3bffa3eb_1:
 
     # am "Yeah, whatever."
-    am ""
+    am "É, tanto faz."
 
 # game/v10/scene26.rpy:892
 translate portuguese v10s26_amberCowgirl_810d488e_1:
 
     # u "I could come with you and maybe we could continue this there."
-    u ""
+    u "Eu poderia ir com você e talvez continuar de onde paramos."
 
 # game/v10/scene26.rpy:897
 translate portuguese v10s26_amberCowgirl_1d96a7a8_1:
 
     # am "Nah, you kinda killed the mood."
-    am ""
+    am "Nah, você acabou com o clima."
 
 # game/v10/scene26.rpy:902
 translate portuguese v10s26_amberCowgirl_eed87296_1:
 
     # u "Right, sorry."
-    u ""
+    u "Tá, desculpa."
 
 # game/v10/scene26.rpy:918
 translate portuguese v10s26_amberCowgirl_154a497f:
 
     # am "Haha, I think you got the wrong impression."
-    am ""
+    am "Haha, eu acho que você entendeu as coias errado."
 
 # game/v10/scene26.rpy:923
 translate portuguese v10s26_amberCowgirl_c16f841a:
 
     # u "Oh, uhm sorry."
-    u ""
+    u "Ah, hmm foi mal."
 
 # game/v10/scene26.rpy:928
 translate portuguese v10s26_amberCowgirl_15187a4a:
 
     # am "It's alright."
-    am ""
+    am "Tudo bem."
 
 # game/v10/scene26.rpy:933
 translate portuguese v10s26_amberCowgirl_8df0b25d:
 
     # u "So..."
-    u ""
+    u "Então..."
 
 # game/v10/scene26.rpy:938
 translate portuguese v10s26_amberCowgirl_0efa889b:
 
     # am "On that awkward note let's call it a night. *Chuckles*"
-    am ""
+    am "E é com esta situação incômoda que vamos concluir a noite. *Risadas*"
 
 # game/v10/scene26.rpy:943
 translate portuguese v10s26_amberCowgirl_934f2948:
 
     # u "Yeah, it is getting late."
-    u ""
+    u "É, tá ficando tarde."
 
 # game/v10/scene26.rpy:948
 translate portuguese v10s26_amberCowgirl_077b352f:
 
     # am "See you."
-    am ""
+    am "A gente se vê."
 
 # game/v10/scene26.rpy:959
 translate portuguese v10s26_amberCowgirl_ab95ad13:
 
     # u "Then just call me Tony. *Laughs*"
-    u ""
+    u "Então me chama de Tony. *Risadas8"
 
 # game/v10/scene26.rpy:964
 translate portuguese v10s26_amberCowgirl_e3aa9a3d:
 
     # am "*Chuckles* Looks like we're out of beer, Tony."
-    am ""
+    am "*Risadas* Parece que a cerveja acabou, Tony."
 
 # game/v10/scene26.rpy:969
 translate portuguese v10s26_amberCowgirl_02e3dc8d:
 
     # u "You drank half of it in our little game. *Laughs*"
-    u ""
+    u "Você bebeu a metade de tudo no nosso pequeno jogo. *Risadas*"
 
 # game/v10/scene26.rpy:974
 translate portuguese v10s26_amberCowgirl_2118d3ae:
 
     # am "True. Guess that ends our night. No buzz no fun."
-    am ""
+    am "Verdade. Eu acho que isso conclui a nossa noite. Sem alcool, sem diversão."
 
 # game/v10/scene26.rpy:979
 translate portuguese v10s26_amberCowgirl_8055781b:
 
     # u "Haha, yeah it is getting late."
-    u ""
+    u "Haha, pois é. Tá ficando tarde."
 
 # game/v10/scene26.rpy:984
 translate portuguese v10s26_amberCowgirl_a66c55cc:
 
     # am "I'll see you around."
-    am ""
+    am "A gente se vê por aí."
 
