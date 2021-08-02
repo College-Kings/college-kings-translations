@@ -90,11 +90,11 @@ translate portuguese v10s20_PhoneContinue2_34c42768:
 translate portuguese v10s20_PhoneContinueW_7c1c2f0f:
 
     # u "(I guess I'll figure that out if it ever comes to it. It's about time I go to bed.)"
-    u ""
+    u "(Eu acho que vou ter que descobrir como se chegar a isso. É hora de ir pra cama.)"
 
 # game/v10/scene20.rpy:118
 translate portuguese v10s20_PhoneContinue2_7c1c2f0f:
 
     # u "(I guess I'll figure that out if it ever comes to it. It's about time I go to bed.)"
-    u ""
+    u "(Eu acho que vou ter que descobrir como se chegar a isso. É hora de ir pra cama.)"
 
