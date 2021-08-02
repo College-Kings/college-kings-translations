@@ -888,17 +888,17 @@ translate portuguese v10s24_nsfwSkipLabel1_1b28a406:
 translate portuguese v10_lauren_room_sg_ae2f56b2:
 
     # la "[name], I... I don't think I'm ready. Sorry I just..."
-    la ""
+    la "[name], Eu... Eu não acho que eu esteja pronta. Desculpa, eu só..."
 
 # game/v10/scene24.rpy:463
 translate portuguese v10s24_nsfwSkipLabel1_705b6924:
 
     # la "I told them 'Lauren's Choice Muffins'; tell me why I go to pick up the banner and it says 'Lauren's Moist Muffins'?"
-    la ""
+    la "Eu disse pra eles 'Os Muffins da Lauren'; me diz porque quando eu busquei o banner estava escrio 'Bolinhos Molhadinhos da Lauren'?"
 
 # game/v10/scene24.rpy:539
 translate portuguese v10s24_nsfwSkipLabel1_909f9f4f:
 
     # ro "But I don't really know who else to turn to. My husband is outside parked in his car and just won't leave."
-    ro ""
+    ro "Mas eu não sei a quem mais recorrer. Meu marido está estacionado do lado de fora, e não quer ir embora."
 
