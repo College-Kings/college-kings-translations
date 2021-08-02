@@ -1123,73 +1123,73 @@ translate portuguese v10s17_aubreyStanding_10ada700:
 translate portuguese v10s17_aubreyStanding_8e5fcf1f:
 
     # au "Faster, [name]!"
-    au "Mais rápido, [name]!
+    au "Mais rápido, [name]!"
 
 # game/v10/scene17.rpy:459
 translate portuguese v10s17_aubreyStanding_27ebb48e:
 
     # au "*Moaning*"
-    au "*Gemendo*
+    au "*Gemendo*"
 
 # game/v10/scene17.rpy:465
 translate portuguese v10s17_aubreyStanding_9c8e57e7:
 
     # au "*Groans* Mhmmmmm."
-    au "*Grunhindo* Mhhhmmm.
+    au "*Grunhindo* Mhhhmmm."
 
 # game/v10/scene17.rpy:467
 translate portuguese v10s17_aubreyStanding_fb1f3793:
 
     # au "Fuuuuuuck!"
-    au "Poooooorrraaaa!
+    au "Poooooorrraaaa!"
 
 # game/v10/scene17.rpy:473
 translate portuguese v10s17_aubreyStanding_5b7ee4a7:
 
     # au "This feel so good!"
-    au "Isso é tão bom!
+    au "Isso é tão bom!"
 
 # game/v10/scene17.rpy:479
 translate portuguese v10s17_aubreyStanding_a5586883:
 
     # u "Fuck, I'm gonna cum!"
-    u "Porra, eu vou gozar!
+    u "Porra, eu vou gozar!"
 
 # game/v10/scene17.rpy:485
 translate portuguese v10s17_aubreyStanding_bdf1804f:
 
     # au "Yes [name], cum on my face!"
-    au "Isso [name], goza na minha cara!
+    au "Isso [name], goza na minha cara!"
 
 # game/v10/scene17.rpy:487
 translate portuguese v10s17_aubreyStanding_fcff8c57:
 
     # au "*Laughs* And scene."
-    au "*Risadas* E corta.
+    au "*Risadas* E corta."
 
 # game/v10/scene17.rpy:499
 translate portuguese v10s17_aubreyStanding_b41762cb:
 
     # au "Now get out of here while I clean up!"
-    au "Agora me dá licença enquanto eu me limpo!
+    au "Agora me dá licença enquanto eu me limpo!"
 
 # game/v10/scene17.rpy:504
 translate portuguese v10s17_aubreyStanding_6a0c8740:
 
     # u "(What the fuck!)"
-    u "(Mas que porra!)
+    u "(Mas que porra!)"
 
 # game/v10/scene17.rpy:509
 translate portuguese v10s17_aubreyStanding_e6139509:
 
     # u "(Oh shit, ughhhh...)"
-    u "(Puta merda, uughhh...
+    u "(Puta merda, uughhh..."
 
 # game/v10/scene17.rpy:515
 translate portuguese v10s17_aubreyStanding_80dfe053:
 
     # u "Nora, it's not what it-"
-    u "Nora, não é o que você está pensando-
+    u "Nora, não é o que você está pensando-"
 
 # game/v10/scene17.rpy:520
 translate portuguese v10s17_aubreyStanding_a2307bfc:
