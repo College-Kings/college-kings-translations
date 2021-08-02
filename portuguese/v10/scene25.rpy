@@ -315,5 +315,5 @@ translate portuguese strings:
 translate portuguese v10_ms_rose_fight_5544e6d6:
 
     # ro "You're too sweet."
-    ro ""
+    ro "Você é tão doce."
 
