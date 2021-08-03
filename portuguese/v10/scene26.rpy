@@ -1092,7 +1092,7 @@ translate portuguese v10s26_amberCowgirl_145180e5:
 translate portuguese v10s26_amberCowgirl_6260584c:
 
     # am "Cum in me [name]."
-    am "Goza em mim [name].
+    am "Goza em mim [name]."
 
 # game/v10/scene26.rpy:510
 translate portuguese v10s26_amberCowgirl_270dde9d:
