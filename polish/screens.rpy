@@ -248,7 +248,7 @@ translate polish strings:
 
     # game/screens.rpy:1530
     old "Mouse Wheel Up\nClick Rollback Side"
-    new "Scrolluj w górę\nPrzycisk cofania"
+    new "Scrolluj w górę\nKliknięcie po stronie cofania"
 
     # game/screens.rpy:1534
     old "Mouse Wheel Down"
