@@ -1,218 +1,188 @@
-﻿# TODO: Translation updated at 2021-06-05 20:30
+# SCENE 8: Fight Results
+# Locations: Abandoned Warehouse
+# Characters: Ryan (Outfit 2), Josh (Outfit 2),MC (Outfit 7), Grayson (Outfit 3),Imre (Outfit 4), Sebastian (Outfit 1),Cameron (Outfit 3),Chris (Outfit 2)
+# Time: Saturday Night
+label v10_fight_result:
+    $ renpy.end_replay()
+    scene v10fr1 # FPP. Show close up of Josh pointing down towards the floor, slight smile, mouth open
+    with dissolve
+    jo "*Rires* Dans les mots de Smokey, \"vous avez été assommé !\""
 
-# game/v10/scene8.rpy:9
-translate francais v10_fight_result_1068c009:
+    play music "music/v10/Scene 8/Track 8.mp3" fadein 3
 
-    # jo "*Laughs* In the words of Smokey, \"you got knocked the fuck out!\""
-    jo ""
+    if joinwolves:
+    # -If MC wins the fight against Ryan-
 
-# game/v10/scene8.rpy:20
-translate francais v10_fight_result_34ffd3e7:
+        if v10_ryan_win:
 
-    # jo "I think as we all expected, [name] has dominated! So ladies if you're itching for a winner tonight, I found one."
-    jo ""
+            scene v10fr1
+            with dissolve
 
-# game/v10/scene8.rpy:25
-translate francais v10_fight_result_648d2a97:
+            jo "Je pense que comme nous nous y attendions tous, [nom] a dominé ! Alors mesdames, si vous avez envie d'un gagnant ce soir, j'en ai trouvé un."
 
-    # jo "Anything from the man himself?"
-    jo ""
+            jo "Quelque chose de l'homme lui-même ?"
 
-# game/v10/scene8.rpy:30
-translate francais v10_fight_result_623b3d64:
+            scene v10fr2 # TPP. Show close up of MC hands in the air above head, excited face, mouth closed
+            with dissolve
 
-    # u "This wasn't just a fight for me, it was a fight for me and my brothers."
-    u ""
+            if reaction == 0.5:
+                $ grant_achievement("lights_out")
 
-# game/v10/scene8.rpy:32
-translate francais v10_fight_result_7b93577e:
+            u "Ce n'était pas seulement un combat pour moi, c'était un combat pour moi et mes frères."
 
-    # u "This is our win!"
-    u ""
+            u "C'est notre victoire !"
 
-# game/v10/scene8.rpy:37
-translate francais v10_fight_result_352b55f4:
+            scene v10fr3 # TPP. Show MC and Josh standing in ring, ryan on the floor in the ring, Josh mouth open
+            with dissolve
 
-    # jo "Glad to see the excitement! Congratulations on a well deserved win."
-    jo ""
+            jo "Heureux de voir l'excitation ! Félicitations pour une victoire bien méritée."
 
-# game/v10/scene8.rpy:47
-translate francais v10_fight_result_6f746018:
+            scene v10fr5 # FPP. Show close up of MC exiting the ring, mouth closed
+            with dissolve
 
-    # ch "*Wolf howls* You did us proud man, great fucking job!"
-    ch ""
+            pause 0.5
 
-# game/v10/scene8.rpy:49
-translate francais v10_fight_result_9392a749:
+            scene v10fr4 # FPP. Show chris and sebastian, chris one hand up in the air, excited face, chris mouth open, sebatian mouth closed
+            with dissolve
 
-    # u "(I fucking did it!)"
-    u ""
+            ch "*Le Loup hurle* Tu nous as rendu fier, putain de super boulot !"
 
-# game/v10/scene8.rpy:51
-translate francais v10_fight_result_4ec13f28:
+            u "(putain je l'ai fait!)"
+            
+            u "(Ouf, je suis tellement épuisé maintenant... Je veux juste aller me coucher.)"
 
-    # u "(Phew, I'm so exhausted now... I just wanna go to bed.)"
-    u ""
+            
+            stop music fadeout 3
+            jump v10_leave_fight
 
-# game/v10/scene8.rpy:61
-translate francais v10_fight_result_53b9e952:
+        else:
 
-    # jo "I definitely didn't see that happening, I don't think anyone did. Any words from the man himself?"
-    jo ""
+            scene v10fr3b # TPP. Show imre and Josh standing in ring, MC on the floor in the ring, Josh mouth open, imre mouth closed
+            with dissolve
+            jo "Je n'ai certainement pas vu cela se produire, je pense que personne ne l'a fait. Des mots de l'homme lui-même ?"
 
-# game/v10/scene8.rpy:66
-translate francais v10_fight_result_4cd684da:
+            scene v10fr3a # TPP. Show Ryan and Josh standing in ring, MC on the floor in the ring, Josh mouth closed, Ryan mouth open
+            with dissolve
 
-    # ry "I worked hard for this and I got it! Wolves fucking suck!"
-    ry ""
+            ry "J'ai travaillé dur pour ça et je l'ai eu ! Putain de Wolves, ces nuls !"
 
-# game/v10/scene8.rpy:71
-translate francais v10_fight_result_352b55f4_1:
+            scene v10fr3b # TPP. Show Ryan and Josh standing in ring, MC on the floor in the ring, Josh mouth open, Ryan mouth closed
+            with dissolve
 
-    # jo "Glad to see the excitement! Congratulations on a well deserved win."
-    jo ""
+            jo "Heureux de voir l'excitation ! Félicitations pour une victoire bien méritée."
 
-# game/v10/scene8.rpy:76
-translate francais v10_fight_result_935ec922:
+            scene v10fr6 # TPP. Show Ryan helping MC get up, Ryan mouth open, Mc mouth closed
+            with dissolve
 
-    # ry "Hope you're alright, man. Can't afford to be a friend in a fight. You good?"
-    ry ""
+            ry "J'espère que tu vas bien, mec. Je ne peux pas me permettre d'être un ami dans un combat. Tu vas bien ?"
 
-# game/v10/scene8.rpy:81
-translate francais v10_fight_result_23663631:
+            scene v10fr7 # FPP. Show ryan in ring, neutral look, mouth closed
+            with dissolve
 
-    # u "Yeah, I'm alright. Congrats."
-    u ""
+            u "Ouais, je vais bien. Félicitations."
 
-# game/v10/scene8.rpy:90
-translate francais v10_fight_result_399c8795:
+            scene v10fr5
+            with dissolve
 
-    # ch "Losing's always hard, but you put up a good fight."
-    ch ""
+            pause 0.5
 
-# game/v10/scene8.rpy:95
-translate francais v10_fight_result_4a811766:
+            scene v10fr4a # FPP. Show chris and sebastian, both slight frown, chris mouth open, sebastian mouth open
+            with dissolve
+            ch "Perdre est toujours difficile, mais tu te bats bien."
 
-    # u "Sorry, Chris. I really wanted to do better."
-    u ""
+            scene v10fr4b # FPP. Show chris and sebastian, both slight frown, chris mouth closed, sebastian mouth closed
+            with dissolve
 
-# game/v10/scene8.rpy:99
-translate francais v10_fight_result_3c39cb48:
+            u "Désolé, Chris. Je voulais vraiment faire mieux."
 
-    # ch "That's alright, man. You'll get him next time."
-    ch ""
+            scene v10fr4a # FPP. Show chris and sebastian, both slight frown, chris mouth open, sebastian mouth open
+            with dissolve
+            ch "C'est bon, mec. Tu l'auras la prochaine fois."
 
-# game/v10/scene8.rpy:104
-translate francais v10_fight_result_21f66087:
+            scene v10fr4b # FPP. Show chris and sebastian, both slight frown, chris mouth closed, sebastian mouth closed
+            with dissolve
 
-    # u "(Fuck, I let my entire frat down...)"
-    u ""
+            u "(Putain, j'ai laissé tomber toute ma fraternité...)"
+            u "(Dieu, je veux juste aller au lit.)"
 
-# game/v10/scene8.rpy:105
-translate francais v10_fight_result_f259d1fd:
+            stop music fadeout 3
 
-    # u "(God, I just wanna go to bed.)"
-    u ""
+            jump v10_leave_fight
+    else:
 
-# game/v10/scene8.rpy:115
-translate francais v10_fight_result_34ffd3e7_1:
+        if v10_imre_win:
+            scene v10fr1
+            with dissolve
+            jo "Je pense que comme nous nous y attendions tous, [nom] a dominé ! Alors mesdames, si vous avez envie d'un gagnant ce soir, j'en ai trouvé un."
 
-    # jo "I think as we all expected, [name] has dominated! So ladies if you're itching for a winner tonight, I found one."
-    jo ""
+            jo "Quelque chose de l'homme lui-même ?"
 
-# game/v10/scene8.rpy:117
-translate francais v10_fight_result_648d2a97_1:
+            scene v10fr2
+            with dissolve
 
-    # jo "Anything from the man himself?"
-    jo ""
+            if reaction == 0.5:
+                $ grant_achievement("golden_boy")
 
-# game/v10/scene8.rpy:122
-translate francais v10_fight_result_623b3d64_1:
+            u "Ce n'était pas seulement un combat pour moi, c'était un combat pour moi et mes frères."
 
-    # u "This wasn't just a fight for me, it was a fight for me and my brothers."
-    u ""
+            u "C'est notre victoire!"
 
-# game/v10/scene8.rpy:124
-translate francais v10_fight_result_7b93577e_1:
+            scene v10fr3c # TPP. Show MC and Josh standing in ring, Imre on the floor in the ring, Josh mouth open
+            with dissolve
 
-    # u "This is our win!"
-    u ""
+            jo "Heureux de voir l'excitation ! Félicitations pour une victoire bien méritée."
 
-# game/v10/scene8.rpy:129
-translate francais v10_fight_result_352b55f4_2:
+            scene v10fr4c # FPP. Show Grayson and cameron, both slight smile, grayson mouth open, cameron mouth closed
+            with dissolve
+            gr "*Chantant* Apes! Apes! Apes!"
+            gr "Putain ouais, mec!"
 
-    # jo "Glad to see the excitement! Congratulations on a well deserved win."
-    jo ""
+            u "(putain je l'ai fait!)"
+            
+            u "(Ouf, je suis tellement épuisé maintenant... Je veux juste aller me coucher.)"
+            stop music fadeout 3
 
-# game/v10/scene8.rpy:133
-translate francais v10_fight_result_6df98004:
+            jump v10_leave_fight
+        
+        else:
+            scene v10fr3d # TPP. Show imre and Josh standing in ring, MC on the floor in the ring, Josh mouth open, imre mouth closed
+            with dissolve
+            jo "Je n'ai certainement pas vu cela se produire, je pense que personne ne l'a fait. Des mots de l'homme lui-même ?"
 
-    # gr "*Chanting* Apes! Apes! Apes!"
-    gr ""
+            scene v10fr3e # TPP. Show imre and Josh standing in ring, MC on the floor in the ring, Josh mouth closed, imre mouth open
+            with dissolve
 
-# game/v10/scene8.rpy:134
-translate francais v10_fight_result_168b9d02:
+            imre "WOLVES POUR LA VIE ! Aussi, les dames m'ont frappées."
 
-    # gr "Fuck yeah, man!"
-    gr ""
+            scene v10fr3d
+            with dissolve
 
-# game/v10/scene8.rpy:136
-translate francais v10_fight_result_9392a749_1:
+            jo "Heureux de voir l'excitation ! Félicitations pour une victoire bien méritée."
 
-    # u "(I fucking did it!)"
-    u ""
+            scene v10fr5 # FPP. Show close up of MC exiting the ring, mouth closed
+            with dissolve
 
-# game/v10/scene8.rpy:138
-translate francais v10_fight_result_4ec13f28_1:
+            pause 0.5
 
-    # u "(Phew, I'm so exhausted now... I just wanna go to bed.)"
-    u ""
+            scene v10fr4d # FPP. Show grayson and cameron, both slight frown, grayson mouth open, cameron mouth closed
+            with dissolve
+            gr "C'était de la merde, mec ! Tu dois faire mieux si tu veux représenter APES !"
 
-# game/v10/scene8.rpy:146
-translate francais v10_fight_result_53b9e952_1:
+            scene v10fr4e # FPP. Show grayson and cameron, both slight frown, grayson mouth closed, cameron mouth closed
+            with dissolve
 
-    # jo "I definitely didn't see that happening, I don't think anyone did. Any words from the man himself?"
-    jo ""
+            u "D'accord, je suis désolé..."
 
-# game/v10/scene8.rpy:151
-translate francais v10_fight_result_c1143392:
+            scene v10fr4d # FPP. Show grayson and cameron, both slight frown, grayson mouth open, cameron mouth closed
+            with dissolve
+            gr "Désolé, ce n'est pas assez bon. J'ai vu quelque chose en toi, ne me le fais pas regretter."
 
-    # imre "WOLVES FOR LIFE! Also, ladies hit me up."
-    imre ""
+            u "(Putain, j'ai laissé tomber toute ma fraternité...)"
+            
+            u "(Dieu, je veux juste aller au lit.)"
+            stop music fadeout 3
+            
+            jump v10_leave_fight
 
-# game/v10/scene8.rpy:156
-translate francais v10_fight_result_352b55f4_3:
 
-    # jo "Glad to see the excitement! Congratulations on a well deserved win."
-    jo ""
-
-# game/v10/scene8.rpy:165
-translate francais v10_fight_result_4c5f14c7:
-
-    # gr "That was absolute shit, man! You gotta do better if you wanna rep the Apes!"
-    gr ""
-
-# game/v10/scene8.rpy:170
-translate francais v10_fight_result_11f865a6:
-
-    # u "Right, I'm sorry..."
-    u ""
-
-# game/v10/scene8.rpy:174
-translate francais v10_fight_result_78325997:
-
-    # gr "Sorry's not fucking good enough. I saw something in you, don't make me regret it."
-    gr ""
-
-# game/v10/scene8.rpy:176
-translate francais v10_fight_result_21f66087_1:
-
-    # u "(Fuck, I let my entire frat down...)"
-    u ""
-
-# game/v10/scene8.rpy:178
-translate francais v10_fight_result_f259d1fd_1:
-
-    # u "(God, I just wanna go to bed.)"
-    u ""
 
