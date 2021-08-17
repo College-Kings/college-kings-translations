@@ -4,49 +4,49 @@
 translate chineses starta_cf384216:
 
     # em "I know what I did was bad..."
-    em ""
+    em "我知道我做的不对..."
 
 # game/v1/v1.rpy:48
 translate chineses starta_64fd2540:
 
     # em "But I'll do anything to make it up to you."
-    em ""
+    em "但我会做任何事来补偿你的。"
 
 # game/v1/v1.rpy:53
 translate chineses starta_bf767b85:
 
     # em "Anything."
-    em ""
+    em "任何事哟。"
 
 # game/v1/v1.rpy:61
 translate chineses starta_a412f2c0:
 
     # "Honey?"
-    ""
+    "亲爱的？"
 
 # game/v1/v1.rpy:71
 translate chineses starta_b3630c9b:
 
     # u "Hmm...?"
-    u ""
+    u "嗯...？"
 
 # game/v1/v1.rpy:76
 translate chineses starta_d8f49870:
 
     # ju "Breakfast is ready!"
-    ju ""
+    ju "早饭好了！"
 
 # game/v1/v1.rpy:81
 translate chineses starta_d1bbd257:
 
     # u "Mhmm... I'll be right down."
-    u ""
+    u "嗯...我马上下去."
 
 # game/v1/v1.rpy:82
 translate chineses starta_e1ee75ad:
 
     # u "(What am I doing dreaming about Emily?!)"
-    u ""
+    u "（我怎么做梦梦到艾米丽了？！）"
 
 # game/v1/v1.rpy:88
 translate chineses starta_b74833d7:
