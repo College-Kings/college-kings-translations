@@ -1,5 +1,8 @@
 # College Kings Translation Files
 
+## RELEASE
+This is the release branch. Clone this into the "game/tl" folder of your College Kings steam install and then start the game. It should be available in the settings.
+
 ## Tutorials
 
 ### How to start translating a new part:
