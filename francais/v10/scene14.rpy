@@ -1,398 +1,362 @@
-﻿# TODO: Translation updated at 2021-06-05 20:30
+# SCENE 14: Samantha At The Apes
+# Locations: MC - Apes Living Room
+# Characters: Sam (Outfit 2), MC (Outfit 1), Cameron (Outfit 3)
+# Time: Sunday Morning
+label v10_apes_samantha:
 
-# game/v10/scene14.rpy:12
-translate francais v10_apes_samantha_44fa33a1:
+    scene v10ssap1 # TPP. Show MC in the Ape's living room. He's sitting on the couch, appearing exhausted, mouth closed.
+    with fade
 
-    # u "(Shit I'm tired.)"
-    u ""
+    play music "music/v10/Scene 14/Track Scene 14.mp3" fadein 3
 
-# game/v10/scene14.rpy:27
-translate francais v10_apes_samantha_08843433:
+    u "(Merde, je suis fatigué.)"
 
-    # sa "Hey Hey!"
-    sa ""
+    scene v10ssap1a # TPP. Same camera as v10ssap1. MC's sitting on the couch, appearing exhausted, mouth closed. He reaches forward to grab the remote.
+    with dissolve
+    
+    pause 0.5
 
-# game/v10/scene14.rpy:32
-translate francais v10_apes_samantha_892195fa:
+    scene v10ssap1b # TPP. Same camera as v10ssap1. MC's sitting on the couch, appearing exhausted, mouth closed. He's holding the remote. Show Samantha come into the living room.
+    with dissolve
+    
+    pause 0.5
 
-    # u "Hey..."
-    u ""
+    scene v10ssap1c # TPP. Same camera as v10ssap1. MC's sitting on the couch, appearing exhausted, mouth closed. He's holding the remote. Samantha sits down on the couch next to him, smiling, mouth open.
+    with dissolve
 
-# game/v10/scene14.rpy:37
-translate francais v10_apes_samantha_ba6f4fa8:
+    sa "Hé hé!"
 
-    # sa "Something wrong?"
-    sa ""
+    scene v10ssap2 # FPP. Perspective is from MC, who is sitting on the couch in Ape's living room. Show Sam (who is sitting beside him), normal/slightly curious expresison, mouth closed.
+    with dissolve
 
-# game/v10/scene14.rpy:42
-translate francais v10_apes_samantha_fb00ed35:
+    u "Hé..."
 
-    # u "Uhm... no, I'm good. I'm just tired."
-    u ""
+    scene v10ssap2a # FPP. Same camera as v10ssap2. Show Sam, normal/slightly curious expresison, mouth open.
+    with dissolve
 
-# game/v10/scene14.rpy:47
-translate francais v10_apes_samantha_10e27cb6:
+    sa "Quelque chose ne va pas ?"
 
-    # sa "Oh okay. I got a question for you."
-    sa ""
+    scene v10ssap2
+    with dissolve
 
-# game/v10/scene14.rpy:52
-translate francais v10_apes_samantha_0336fa14:
+    u "Uhm... non, je vais bien. Je suis juste fatiguée."
 
-    # u "What's up?"
-    u ""
+    scene v10ssap2a
+    with dissolve
 
-# game/v10/scene14.rpy:57
-translate francais v10_apes_samantha_04da644e:
+    sa "Oh ok. J'ai une question pour toi."
 
-    # sa "I've been thinking a lot about the frats and the fighting. My brother has been a hothead his entire life-"
-    sa ""
+    scene v10ssap2
+    with dissolve
 
-# game/v10/scene14.rpy:62
-translate francais v10_apes_samantha_5c3b6ed5:
+    u "Qu'est-ce qu'il y a ?"
 
-    # u "*Chuckles* Really? I didn't notice."
-    u ""
+    scene v10ssap2a
+    with dissolve
 
-# game/v10/scene14.rpy:67
-translate francais v10_apes_samantha_a709d6a4:
+    sa "J'ai beaucoup pensé aux fraternités et aux bagarres. Mon frère a été une tête brûlée toute sa vie."
 
-    # sa "*Laughs* Yeah, it’s very subtle. But yeah, he's always been a hothead so it makes sense to me for a guy like him to fight and be in a frat like this, but you're not like him and yet you're in this frat too."
-    sa ""
+    scene v10ssap2
+    with dissolve
 
-# game/v10/scene14.rpy:72
-translate francais v10_apes_samantha_ac2ba772:
+    u "*Gloussements* Vraiment ? Je n'ai pas remarqué."
 
-    # u "And your question is..."
-    u ""
+    scene v10ssap2b # FPP. Same camera as v10ssap2. Show Sam, smiling, mouth open.
+    with dissolve
 
-# game/v10/scene14.rpy:77
-translate francais v10_apes_samantha_1d728101:
+    sa "*Rires* Oui, c'est très subtil. Mais oui, il a toujours été une tête brûlée donc ça me semble logique qu'un gars comme lui se batte et soit dans une fraternité comme celle-ci, mais tu n'es pas comme lui et pourtant tu es dans cette fraternité aussi."
 
-    # sa "Well, I guess I really just wanna know why. It's kinda weird, don't you think? You don't really fit in with everyone else here."
-    sa ""
+    scene v10ssap2c # FPP. Same camera as v10ssap2. Show Sam, smiling, mouth closed.
+    with dissolve
 
-# game/v10/scene14.rpy:88
-translate francais v10_apes_samantha_7fdcd055:
+    u "Et ta question est..."
 
-    # u "I can be a hot head at least when I need to be, *chuckles* sometimes when I wanna be."
-    u ""
+    scene v10ssap2a
+    with dissolve
 
-# game/v10/scene14.rpy:93
-translate francais v10_apes_samantha_e01c2374:
+    sa "Eh bien, je suppose que je veux juste savoir pourquoi. C'est un peu bizarre, tu ne trouves pas ? Tu ne t'adaptes pas vraiment à tout le monde ici."
 
-    # sa "So you have a dangerous side... I never knew"
-    sa ""
+    scene v10ssap2
+    with dissolve
+    menu:
+        "Je suis peux être une tête brûlée":
+            $ addPoint("tm", 1)
 
-# game/v10/scene14.rpy:98
-translate francais v10_apes_samantha_d2c31424:
+            scene v10ssap2c
+            with dissolve
 
-    # u "I may not have gotten into fights before college, but I never let people disrespect me and I definitely wasn't afraid to speak my mind."
-    u ""
+            u "Je suis peux être une tête brûlée au moins quand j'ai besoin de l'être, *gloussements* parfois quand je veux l'être."
 
-# game/v10/scene14.rpy:103
-translate francais v10_apes_samantha_704f9636:
+            scene v10ssap2b
+            with dissolve
 
-    # sa "That we have in common."
-    sa ""
+            sa "Donc tu as un côté dangereux... Je ne le savais pas."
 
-# game/v10/scene14.rpy:108
-translate francais v10_apes_samantha_ae72ecce:
+            scene v10ssap2c
+            with dissolve
 
-    # u "I just think sometimes there's better ways to make someone pay than violence."
-    u ""
+            u "Je ne me suis peut-être pas battu avant l'université, mais je n'ai jamais laissé les gens me manquer de respect et je n'avais certainement pas peur de dire ce que je pensais."
 
-# game/v10/scene14.rpy:113
-translate francais v10_apes_samantha_c5a8be80:
+            scene v10ssap2b
+            with dissolve
 
-    # sa "What do you mean?"
-    sa ""
+            sa "Ce que nous avons en commun."
 
-# game/v10/scene14.rpy:118
-translate francais v10_apes_samantha_4caddde4:
+            scene v10ssap2
+            with dissolve
 
-    # u "Back in high school I had a teacher that was just always out to get me."
-    u ""
+            u "Je pense juste que parfois il y a de meilleurs moyens que la violence pour faire payer quelqu'un."
 
-# game/v10/scene14.rpy:119
-translate francais v10_apes_samantha_95972100:
+            scene v10ssap2a
+            with dissolve
 
-    # u "People were doing all kinds of shit, they were throwing paper planes at him during class, cheating on his tests and just making fun of him even with him in the room."
-    u ""
+            sa "Qu'est-ce que tu veux dire ?"
 
-# game/v10/scene14.rpy:120
-translate francais v10_apes_samantha_5f618586:
+            scene v10ssap2a
+            with dissolve
 
-    # u "But they never got into any trouble. I did anything remotely questionable, there I go, straight to detention."
-    u ""
+            u "Au lycée, j'avais un professeur qui voulait toujours m'avoir."
+            u "Les gens faisaient toutes sortes de choses, ils lui lançaient des avions en papier pendant le cours, trichaient sur ses tests et se moquaient de lui même s'il était dans la salle."
+            u "Mais ils n'ont jamais eu de problèmes. Si je faisais quoi que ce soit de douteux, j'allais directement en retenue."
+            u "Eh bien, à un moment donné, j'en ai eu vraiment marre et j'ai voulu l'énerver, tu sais, le rendre vraiment bon..."
 
-# game/v10/scene14.rpy:121
-translate francais v10_apes_samantha_23f6db01:
+            scene v10ssap2b
+            with dissolve
 
-    # u "Well at some point I got really fed up and I wanted to piss him off you know, get him really good."
-    u ""
+            sa "Dis-moi que ça mène à quelque chose de vraiment juteux comme une farce de terminale ou du sucre dans un réservoir d'essence ?"
 
-# game/v10/scene14.rpy:126
-translate francais v10_apes_samantha_583f4165:
+            scene v10ssap2c
+            with dissolve
 
-    # sa "Please tell me this is leading to something really juicy like a senior prank or sugar in a gas tank?"
-    sa ""
+            u "Pas tout à fait. Il a annoncé qu'il allait être l'un des chaperons pour notre bal de fin d'année et je savais que sa fille allait à notre école et serait diplômée avec moi."
+            u "Donc... pour faire court, j'ai invité sa fille au bal de fin d'année et après des allers-retours très douloureux, elle a dit oui."
+            u "Nous avons dansé toute la nuit et j'ai essayé de le regarder autant que possible, c'était tellement drôle."
+            u "Pour être honnête, la fille n'était pas vraiment enthousiaste quand elle a découvert pourquoi je lui avais demandé, mais... ça valait vraiment le coup. *Rires*"
 
-# game/v10/scene14.rpy:131
-translate francais v10_apes_samantha_d7d75ef6:
+            scene v10ssap2b
+            with dissolve
 
-    # u "Not quite. He announced that he was gonna be one of the chaperones for our senior prom and I knew his daughter just happened to be going to our school and graduating with me."
-    u ""
+            sa "*Rires* Rappelle-moi de ne jamais faire partie de tes plans de vengeance.."
 
-# game/v10/scene14.rpy:132
-translate francais v10_apes_samantha_5a247805:
+            scene v10ssap2c
+            with dissolve
 
-    # u "Sooo... long story short, I asked his daughter to prom and - after some very painful back and forth - she said yes."
-    u ""
+            u "Haha, je m'en souviendrai."
+       
+        "Qu'est-ce que ça veut dire ??":
+            $ addPoint("bro", 1)
+            
+            scene v10ssap2c
+            with dissolve
 
-# game/v10/scene14.rpy:133
-translate francais v10_apes_samantha_b3dc8919:
+            u "*Gloussements* Qu'est-ce que ça veut dire ?"
 
-    # u "We danced all night and I tried to give him as much eye contact as I possibly could, it was so funny."
-    u ""
+            scene v10ssap2b
+            with dissolve
 
-# game/v10/scene14.rpy:134
-translate francais v10_apes_samantha_8cd64967:
+            sa "Tu sais... C'est juste que tu n'es pas vraiment du genre macho et fort.."
 
-    # u "To be honest, the girl really wasn't keen on it once she found out why I had asked her, but... totally worth it. *Laughs*"
-    u ""
+            scene v10ssap2c
+            with dissolve
 
-# game/v10/scene14.rpy:139
-translate francais v10_apes_samantha_f72aca60:
+            u "Je te ferais savoir que je peux être un dangereux lutteur de pouce. Aussi, j'aime toujours faire des conneries, j'essaye juste d'être intelligent à propos des conneries que je fais."
 
-    # sa "*Laughs* Remind me to never be a part of your revenge plans."
-    sa ""
+            scene v10ssap2b
+            with dissolve
 
-# game/v10/scene14.rpy:144
-translate francais v10_apes_samantha_8f528a91:
+            sa "*Rires* C'était ta citation de fin d'études ou quelque chose comme ça ?"
 
-    # u "Haha, I'll remember that."
-    u ""
+            scene v10ssap2c
+            with dissolve
 
-# game/v10/scene14.rpy:152
-translate francais v10_apes_samantha_783c1171:
+            u "Non, mais ça aurait pu l'être. Ma citation de terminale était bien meilleure. C'était quelque chose comme *glousse* \"Les tricheurs ne gagnent jamais, mais je viens de le faire.\""
 
-    # u "*Chuckles* What's that supposed to mean?"
-    u ""
+            scene v10ssap2b
+            with dissolve
 
-# game/v10/scene14.rpy:157
-translate francais v10_apes_samantha_bb7e8d5f:
+            sa "*Rires* Donc tu étais le \"Je peux copier sur toi\" type de gars ?"
 
-    # sa "You know.. Just that you're not really the strong macho type."
-    sa ""
+            scene v10ssap2c
+            with dissolve
 
-# game/v10/scene14.rpy:162
-translate francais v10_apes_samantha_8d4b7f35:
+            u "Hé, qui est le plus intelligent, celui qui étudie toute la nuit pour avoir les bonnes réponses ou celui qui n'étudie pas et obtient les réponses de celui qui étudie le lendemain matin."
 
-    # u "I'll have you know that I can be quite a dangerous thumb-wrestler. Also, I still like doing dumb shit, I'm just trying to be smart about the dumb shit I do"
-    u ""
+            scene v10ssap2b
+            with dissolve
 
-# game/v10/scene14.rpy:167
-translate francais v10_apes_samantha_5cdd5204:
+            sa "Comment dit-on ? \"Ne détestez pas le joueur, détestez le jeu.\""
 
-    # sa "*Laughs* Was that your senior quote or something?"
-    sa ""
+            scene v10ssap2c
+            with dissolve
 
-# game/v10/scene14.rpy:172
-translate francais v10_apes_samantha_b43a6b84:
+            u "Exactement."
 
-    # u "No, but it definitely could've been. My senior quote was way better. It went something like *chuckles* \"Cheaters never win, but I just did.\""
-    u ""
+    scene v10ssap1d # TPP. Same camera as v10ssap1. MC and Samantha are sitting on the couch, smiling, mouths closed. Camera walks into the living room with an aggressive look on his face, mouth closed.
+    with fade
+    
+    pause 0.5
 
-# game/v10/scene14.rpy:177
-translate francais v10_apes_samantha_4e2a4378:
+    scene v10ssap3 # FPP. Perspective is from MC, who is sitting on the couch in Ape's living room. He is looking up at Cameron who is standing nearby. Show Cameron with an angry expression, mouth open.
+    with dissolve
+    
+    ca "Qu'est-ce que vous faites ? [name] tu essaies de draguer ma soeur ?!"
 
-    # sa "*Laughs* So you were the \"can I copy off of you\" kinda guy?"
-    sa ""
+    scene v10ssap3a # FPP. Same camera as v10ssap3. Show Cameron with an angry expression, mouth closed.
+    with dissolve
+    menu:
+        "Peut-être":
+            $ addPoint("tm", 1)
+            
+            scene v10ssap3a
+            with dissolve
 
-# game/v10/scene14.rpy:182
-translate francais v10_apes_samantha_d89ea267:
+            u "Peut-être, peut-être pas. Qu'est-ce que ça peut te faire ?"
 
-    # u "Hey, who's smarter, the guy that studies all night so he can get the right answers or the guy that doesn't study and then gets the answers from the guy that studies the next morning."
-    u ""
+            scene v10ssap2d # FPP. Same camera as v10ssap2. Show Sam, with a smile that displays a bit of interest, mouth closed.
+            with dissolve
+            
+            pause 0.5
 
-# game/v10/scene14.rpy:187
-translate francais v10_apes_samantha_cabed922:
+            scene v10ssap3
+            with dissolve
 
-    # sa "What's that saying? \"Don't hate the player, hate the game.\""
-    sa ""
+            ca "Je n'ai pas besoin de raison, mais ne drague pas ma soeur !"
 
-# game/v10/scene14.rpy:192
-translate francais v10_apes_samantha_46698d44:
+            scene v10ssap3a
+            with dissolve
 
-    # u "Exactly."
-    u ""
+            u "C'est ma faute, je n'avais pas réalisé que tu avais déjà appelé Prem's."
 
-# game/v10/scene14.rpy:202
-translate francais v10_apes_samantha_f64071d3:
+            scene v10ssap3
+            with dissolve
 
-    # ca "The fuck you guys doing? [name] you trying to hit on my sister?!"
-    ca ""
+            ca "Putain, non ! J'ai juste..."
 
-# game/v10/scene14.rpy:213
-translate francais v10_apes_samantha_63dee4ec:
+            scene v10ssap1e # TPP. Same camera as v10ssap1. Show MC and Sam sitting on the couch. Camera is standing nearby, angry expression, mouth closed. Sam is smiling, mouth open. MC is smiling, mouth closed.
+            with dissolve
 
-    # u "Maybe I am, maybe I'm not. Why do you care?"
-    u ""
+            sa "*Rires*"
 
-# game/v10/scene14.rpy:223
-translate francais v10_apes_samantha_b427a89d:
+            scene v10ssap1f # TPP. Same camera as v10ssap1. Show MC and Sam sitting on the couch. Camera is standing nearby, angry expression, mouth open. Sam looks pissed, mouth closed. MC has a normal expression, mouth closed.
+            with dissolve
 
-    # ca "I don't need a reason, just don't be hitting on my sister!"
-    ca ""
+            ca "Je ne vois pas ce qu'il y a de drôle, tu ne devrais pas être..."
 
-# game/v10/scene14.rpy:228
-translate francais v10_apes_samantha_199f4fd4:
+            scene v10ssap1g # TPP. Same camera as v10ssap1. Show MC and Sam sitting on the couch. Camera is standing nearby, angry expression, mouth closed. Sam looks pissed, mouth open. MC has a normal expression, mouth closed.
+            with dissolve
 
-    # u "My bad, I didn't realize you had called dibs already."
-    u ""
+            sa "TU NE DEVRAIS PAS ME DIRE CE QUE JE DEVRAIS OU NE DEVRAIS PAS FAIRE ! Laisse-nous seuls, Cameron."
 
-# game/v10/scene14.rpy:233
-translate francais v10_apes_samantha_829a7b40:
+            scene v10ssap1f 
+            with dissolve
 
-    # ca "What the fuck, no! I just..."
-    ca ""
+            ca "*Grognements*"
 
-# game/v10/scene14.rpy:238
-translate francais v10_apes_samantha_9c705841:
+            scene v10ssap1h # TPP. Same camera as v10ssap1. Show MC and Sam sitting on the couch. Camera is walking away, angry expression, mouth closed. Sam looks annoyed, mouth closed. MC has a normal expression, mouth closed.
+            with dissolve
+            
+            pause 0.5
 
-    # sa "*Laughs*"
-    sa ""
+            scene v10ssap2c
+            with fade
 
-# game/v10/scene14.rpy:243
-translate francais v10_apes_samantha_ebe1c8dd:
+            u "C'était amusant.."
 
-    # ca "I don't see what's so funny, you shouldn't be-"
-    ca ""
+            scene v10ssap2b
+            with dissolve
 
-# game/v10/scene14.rpy:248
-translate francais v10_apes_samantha_e0287150:
+            sa "*Gloussements* Oh, la ferme. Et juste pour que ce soit clair, personne n'a dit Preums sur moi. Je ne suis pas un reste de lasagne.."
 
-    # sa "YOU SHOULDN'T BE TELLING ME WHAT I SHOULD OR SHOULDN'T BE DOING! Just leave us alone Cameron."
-    sa ""
+            scene v10ssap2c
+            with dissolve
 
-# game/v10/scene14.rpy:253
-translate francais v10_apes_samantha_1ef4493b:
+            u "Oh, je suppose que je dois dire aux gars d'oublier que j'ai appelé Prem's."
 
-    # ca "*Grunts*"
-    ca ""
+            scene v10ssap2d
+            with dissolve
 
-# game/v10/scene14.rpy:263
-translate francais v10_apes_samantha_a49126a3:
+            sa "Alors tu as dit prem's, hein ?"
 
-    # u "That was fun."
-    u ""
+            scene v10ssap2c
+            with dissolve
 
-# game/v10/scene14.rpy:268
-translate francais v10_apes_samantha_5fd87a1d:
+            u "Euh... il y a peut-être eu un appel au Prem's à un moment donné dans le passé."
 
-    # sa "*Chuckles* Oh shut up. And just so we're clear no one is calling dibs on me. I'm not some leftover lasagna."
-    sa ""
+            scene v10ssap2b
+            with dissolve
 
-# game/v10/scene14.rpy:273
-translate francais v10_apes_samantha_3bb6b427:
+            sa "*Rires*"
 
-    # u "Oh, guess I need to tell the guys to forget I called dibs then."
-    u ""
+            scene v10ssap1i # TPP. Same camera as v10ssap1. Show MC and Sam sitting on the couch. Sam starts to stand up from the couch. Mouths closed, normal expressions.
+            with dissolve
+            
+            pause 0.5
 
-# game/v10/scene14.rpy:278
-translate francais v10_apes_samantha_88b3ce91:
+            scene v10ssap3b # FPP. Same camera as v10ssap3. Show Sam standing nearby, normal expression, mouth open.
+            with dissolve
 
-    # sa "So you called dibs huh?"
-    sa ""
+            sa "D'accord, j'ai des choses à faire, à plus tard."
 
-# game/v10/scene14.rpy:283
-translate francais v10_apes_samantha_866ba53b:
+            scene v10ssap3c # FPP. Same camera as v10ssap3. Show Sam standing nearby, normal expression, mouth closed.
+            with dissolve
 
-    # u "Uhm... there may have been dibs called at some point in the past."
-    u ""
+            u "Quel genre de trucs ?"
 
-# game/v10/scene14.rpy:288
-translate francais v10_apes_samantha_9c705841_1:
+            scene v10ssap3b
+            with dissolve
 
-    # sa "*Laughs*"
-    sa ""
+            sa "Uhm... tu sais ? Des trucs."
 
-# game/v10/scene14.rpy:298
-translate francais v10_apes_samantha_51cd4b26:
+            scene v10ssap1j # TPP. Same camera as v10ssap1. Show MC sitting on the couch. Sam is walking away. Mouths closed, normal expressions.
+            with dissolve
 
-    # sa "Alright, I have some stuff I need to take care of, I'll see you later."
-    sa ""
+            u "(Ahh, elle est quelque chose de différent. Je devrais monter dans ma chambre.)"
 
-# game/v10/scene14.rpy:303
-translate francais v10_apes_samantha_b9910c6e:
+            scene v10ssap1k # TPP. Same camera as v10ssap1. Show MC standing up from the couch. Mouth closed, normal expression.
+            with dissolve
+            
+            pause 0.5
+ 
+        "Je ne sais pas.":
+            scene v10ssap3a
+            with dissolve
 
-    # u "What kinda stuff?"
-    u ""
+            u "Je ne sais pas de quoi tu parles, on ne fait que parler. En tant qu'amis."
 
-# game/v10/scene14.rpy:308
-translate francais v10_apes_samantha_2a572222:
+            scene v10ssap2e # FPP. Same camera as v10ssap2. Show Sam, with an expression of awkward disappointment, mouth closed.
+            with dissolve
+            
+            pause 0.5
 
-    # sa "Uhm... you know? Stuff."
-    sa ""
+            scene v10ssap4 # TPP. Show MC and Sam sitting on the couch. Cameron is standing nearby, angry expression, mouth closed. Sam has an awkward, disappointed expression, mouth closed, and is standing up from the couch. MC has a normal expression, mouth closed.
+            with dissolve
+            
+            pause 0.5
 
-# game/v10/scene14.rpy:313
-translate francais v10_apes_samantha_78338b42:
+            scene v10ssap3
+            with fade
 
-    # u "(Ahh, she's something else. I should head up to my room.)"
-    u ""
+            ca "Ça ressemblait à plus qu'une simple conversation amicale pour moi. Ne tentez rien et nous n'aurons pas de problème."
 
-# game/v10/scene14.rpy:324
-translate francais v10_apes_samantha_535f9d77:
+            scene v10ssap3a
+            with dissolve
 
-    # u "I don't know what you're talking about, we're just talking. As friends."
-    u ""
+            u "D'accord..."
 
-# game/v10/scene14.rpy:339
-translate francais v10_apes_samantha_c0766b04:
+            scene v10ssap3
+            with dissolve
 
-    # ca "Looked like more than just a friendly conversation to me. Just don't try shit and we won't have a problem."
-    ca ""
+            ca "Samantha a déjà assez souffert et n'a pas besoin de subir tes conneries. Tu fais quoi que ce soit qui la contrarie et tu es mort."
 
-# game/v10/scene14.rpy:344
-translate francais v10_apes_samantha_8b940739:
+            scene v10ssap3a
+            with dissolve
 
-    # u "Right..."
-    u ""
+            u "Bien, peu importe."
 
-# game/v10/scene14.rpy:349
-translate francais v10_apes_samantha_16f6c574:
+            scene v10ssap1k
+            with fade
 
-    # ca "Samantha's been through enough already and doesn't need to deal with any of your bullshit too. You do anything to fucking upset her and you're fucking dead."
-    ca ""
+            u "(Il peut vraiment être un connard parfois. Ce bon vieux Cameron. Je devrais aller dans ma chambre.)"
+    stop music fadeout 3
 
-# game/v10/scene14.rpy:354
-translate francais v10_apes_samantha_ef673dcf:
-
-    # u "Fine, whatever."
-    u ""
-
-# game/v10/scene14.rpy:359
-translate francais v10_apes_samantha_cfb199af:
-
-    # u "(He can really be a dick sometimes. Good ol' Cameron. I should head up to my room.)"
-    u ""
-
-translate francais strings:
-
-    # game/v10/scene14.rpy:81
-    old "I can be a hothead"
-    new ""
-
-    # game/v10/scene14.rpy:81
-    old "What's that supposed to mean?"
-    new ""
-
-    # game/v10/scene14.rpy:206
-    old "Maybe"
-    new ""
-
-    # game/v10/scene14.rpy:206
-    old "I don't know"
-    new ""
-
+    jump v10_call_with_lauren1 # jump to scene 15
