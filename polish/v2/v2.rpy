@@ -3861,31 +3861,31 @@ translate polish v1_endShop_98f1162f:
 translate polish v1_endShop_af56f0be:
 
     # ch "If you're the right fit, you'll become one of us and trust me, next year a Wolf is gonna beat the shit out of Grayson and take the fucking crown."
-    ch ""
+    ch "Jeśli będziesz pasował, staniesz się jednym z nas i zaufaj mi, w przyszłym roku Wilk rozpierdoli Graysona i zdobędzie jebaną koronę."
 
 # game/v2/v2.rpy:4226
 translate polish v1_endShop_49a9e742:
 
     # u "Uhm..."
-    u ""
+    u "Umm..."
 
 # game/v2/v2.rpy:4231
 translate polish v1_endShop_f229e5b4:
 
     # ch "Just think about it."
-    ch ""
+    ch "Przemyśl to sobie."
 
 # game/v2/v2.rpy:4236
 translate polish v1_endShop_a2c87577:
 
     # u "(Hmmm...)"
-    u ""
+    u "(Hmmm...)"
 
 # game/v2/v2.rpy:4241
 translate polish v1_endShop_24b804e1:
 
     # u "(The Wolves... huh.)"
-    u ""
+    u "(Wilki... hę.)"
 
 translate polish strings:
 

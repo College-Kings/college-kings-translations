@@ -2105,7 +2105,7 @@ translate francais thisbelauren_2ba54354:
 translate francais thisbelauren_4a5bffc7:
 
     # u "Lauren, stop."
-    u "Laurent, arrête."
+    u "Lauren, arrête."
 
 # game/v7/v7.rpy:2022
 translate francais thisbelauren_ef8c8d98:
@@ -2177,7 +2177,7 @@ translate francais thisbelauren_97912e40:
 translate francais thisbelauren_35115ebe:
 
     # la "I said we're done!"
-    la "J'ai dit que nous avons terminé !"
+    la "J'ai dit que c'est terminé entre nous !"
 
 # game/v7/v7.rpy:2084
 translate francais thisbelauren_9d73ea27_1:
@@ -2219,7 +2219,7 @@ translate francais thisbelauren_2555847b:
 translate francais thisbelauren_51f96f62:
 
     # la "You're just saying that."
-    la "Tu dis juste ça."
+    la "Tu dis juste ça comme ça."
 
 # game/v7/v7.rpy:2117
 translate francais thisbelauren_f5ca91f6:
@@ -2249,13 +2249,13 @@ translate francais thisbelauren_ad8b784d:
 translate francais thisbelauren_7866db52:
 
     # la "Okay... I believe you."
-    la "OK je te crois."
+    la "Ok... je te crois."
 
 # game/v7/v7.rpy:2139
 translate francais thisbelauren_2fe910e0:
 
     # u "Thank god."
-    u "Dieu merci."
+    u "Merci mon dieu."
 
 # game/v7/v7.rpy:2144
 translate francais thisbelauren_2bdfd46b:
@@ -2273,13 +2273,13 @@ translate francais thisbelauren_ee020e28:
 translate francais thisbelauren_708d9aae:
 
     # la "I was gonna go to the beach with Autumn later, but she has to work. Why don't we go?"
-    la "J'allais aller à la plage avec Autumn plus tard, mais elle doit travailler. Pourquoi n'y allons-nous pas ?"
+    la "J'allais aller à la plage avec Autumn plus tard, mais elle doit travailler. Pourquoi n'irions-nous pas ensemble ?"
 
 # game/v7/v7.rpy:2159
 translate francais thisbelauren_4f6fcc4b:
 
     # u "Yeah, I'd love that. Just let me know when."
-    u "Ouais, j'adorerais ça. Laissez-moi savoir quand."
+    u "Ouais, j'adorerais ça. Fait-moi savoir quand."
 
 # game/v7/v7.rpy:2164
 translate francais thisbelauren_4f2df161:
@@ -2465,7 +2465,7 @@ translate francais thisbewalk_5a360fd2:
 translate francais thisbewalk_cb073227:
 
     # u "Yeah, but if we're not the ones fighting for change, then who is?"
-    u ""
+    u "Ouai, mais si ce n'est pas nous qui luttons pour le changement, alors qui le fera ?"
 
 # game/v7/v7.rpy:2328
 translate francais thisbewalk_a471ccbe:
@@ -2495,7 +2495,7 @@ translate francais thisbewalk_73449991:
 translate francais thisbewalk_771cafcc:
 
     # u "You know, uhm... it's like animal rights but more in the west."
-    u "Vous savez, euh... c'est comme les droits des animaux mais plus particulièrement en occident."
+    u "Tu sais, euh... c'est comme les droits des animaux mais plus particulièrement en occident."
 
 # game/v7/v7.rpy:2353
 translate francais thisbewalk_ed19451e:
@@ -2657,7 +2657,7 @@ translate francais thisbewalk_fe701da5:
 translate francais thisbewalk_930feb5a:
 
     # pe "I feel bad about before. And I hate feeling like there's tension between us. I don't want to be angry at you."
-    pe "Je me sens mal avant. Et je déteste avoir l'impression qu'il y a une tension entre nous. Je ne veux pas être en colère contre toi."
+    pe "Je me sens mal par rapport à tout à l'heure. Et je déteste avoir l'impression qu'il y a une tension entre nous. Je ne veux pas être en colère contre toi."
 
 # game/v7/v7.rpy:2514
 translate francais thisbewalk_f54b19b1:
@@ -2675,7 +2675,7 @@ translate francais thisbewalk_f25d8d8c:
 translate francais thisbewalk_f09c255d:
 
     # u "I'm glad. And I'm sorry for everything. Let's just start over."
-    u "Je suis contente. Et je suis désolé pour tout. Recommençons tout simplement."
+    u "Je suis content. Et je suis désolé pour tout. Recommençons tout simplement."
 
 # game/v7/v7.rpy:2529
 translate francais thisbewalk_5125a197:
@@ -2717,7 +2717,7 @@ translate francais thisbewalk_9ea2f78c:
 translate francais phoneao_3faef724:
 
     # u "(I should probably reply.)"
-    u "(Je devrais probablement répondre.)g"
+    u "(Je devrais probablement répondre.)"
 
 # game/v7/v7.rpy:2592
 translate francais phoneao_5368266c:
@@ -2795,7 +2795,7 @@ translate francais beachlauren_68240775:
 translate francais beachlauren_42098120:
 
     # u "Wait a minute-"
-    u "Attendez une minute-"
+    u "Attend une minute-"
 
 # game/v7/v7.rpy:2704
 translate francais beachlauren_e0381dbe:
@@ -2879,7 +2879,7 @@ translate francais beachlauren_f3416895:
 translate francais beachlauren_e642b4df:
 
     # la "I wish I would be as close with my roommate as you guys are."
-    la "J'aimerais être aussi proche de ma colocataire que toi."
+    la "J'aimerais être aussi proche de ma colocataire que vous deux."
 
 # game/v7/v7.rpy:2792
 translate francais beachlauren_6e3d920f:
@@ -2921,7 +2921,7 @@ translate francais beachlauren_33f2d6a2:
 translate francais beachlauren_bb2d7632:
 
     # la "Aww... I hope so too."
-    la "Aouh... je l'espère aussi."
+    la "Ooh... je l'espère aussi."
 
 # game/v7/v7.rpy:2822
 translate francais beachlauren_db470e3e:
@@ -2945,7 +2945,7 @@ translate francais beachlauren_c94d7b66:
 translate francais beachlauren_d59a86bf:
 
     # u "Look Lauren, I know you're not big on fighting, but being in a frat is so much more. And I just really think I'd miss out on a lot if I didn't join one."
-    u "Écoute Lauren, je sais que tu n'aimes pas trop te battre, mais être dans une fraternité c'est tellement plus. Et je pense vraiment que je raterais beaucoup de choses si je n'en rejoignais pas une."
+    u "Écoute Lauren, je sais que tu n'aimes pas trop les combats, mais être dans une fraternité c'est tellement plus. Et je pense vraiment que je raterais beaucoup de choses si je n'en rejoignais pas une."
 
 # game/v7/v7.rpy:2840
 translate francais beachlauren_61dbb461:
@@ -2969,7 +2969,7 @@ translate francais beachlauren_073a3fb8:
 translate francais beachlauren_7cb3a599:
 
     # u "I'll be careful. I promise."
-    u "Je ferai attention. Je promets."
+    u "Je ferai attention. Je te promets."
 
 # game/v7/v7.rpy:2860
 translate francais beachlauren_c4e5425f:
@@ -2987,7 +2987,7 @@ translate francais beachlauren_7edeac79:
 translate francais beachlauren_3a4c2a95:
 
     # la "The Apes? Really?"
-    la "The Apes ? Really ?"
+    la "Les Apes ? Vraiment ?"
 
 # game/v7/v7.rpy:2876
 translate francais beachlauren_b4db03b1:
@@ -3071,13 +3071,13 @@ translate francais beachlauren_6a19a882:
 translate francais beachlauren_a99d2df9:
 
     # u "*Chuckles* Woah, Lauren..."
-    u "*Rires* Woah, Lauren..."
+    u "*Rires* Waouh, Lauren..."
 
 # game/v7/v7.rpy:2941
 translate francais beachlauren_fb1bbfff:
 
     # la "What? No one else is here. It's just us."
-    la "Quoi ? Personne d'autre n'est ici. C'est juste nous."
+    la "Quoi ? Personne d'autre n'est ici. Juste nous."
 
 # game/v7/v7.rpy:2951
 translate francais beachlauren_9ea2f78c:
@@ -18200,7 +18200,7 @@ translate francais strings:
 
     # game/v7/v7.rpy:3913
     old "Continue the challenge"
-    new "Continuez le défi"
+    new "Continue le défi"
 
     # game/v7/v7.rpy:4190
     old "True."
@@ -18472,7 +18472,7 @@ translate francais strings:
 
     # game/v7/v7.rpy:14824
     old "I can't ditch my date."
-    new "Je ne peux pas laisser tomber mon rendez-vous."
+    new "Je ne peux pas laisser tomber ma cavalière."
 
     # game/v7/v7.rpy:14951
     old "Agree with Nora."
@@ -18480,7 +18480,7 @@ translate francais strings:
 
     # game/v7/v7.rpy:14951
     old "Defend Chris."
-    new "Défendez Chris."
+    new "Défendre Chris."
 
     # game/v7/v7.rpy:15241
     old "I'm not really feeling it."
@@ -18532,7 +18532,7 @@ translate francais strings:
 
     # game/v7/v7.rpy:16502
     old "Of course you can."
-    new "Bien sûr que tu dois."
+    new "Bien sûr que tu dois y aller."
 
     # game/v7/v7.rpy:16502
     old "Let's get out of here."

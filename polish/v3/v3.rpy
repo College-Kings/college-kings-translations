@@ -4,385 +4,385 @@
 translate polish v3start_4f1997c1:
 
     # "*Knock knock knock*"
-    ""
+    "*Puk puk puk*"
 
 # game/v3/v3.rpy:12
 translate polish v3start_fa90d2f1:
 
     # u "(Who could that be?)"
-    u ""
+    u "(Kto to może być?)"
 
 # game/v3/v3.rpy:20
 translate polish v3start_c8fc4dc6:
 
     # u "Chloe? What are you doing here?"
-    u ""
+    u "Chloe? Co ty tu robisz?"
 
 # game/v3/v3.rpy:25
 translate polish v3start_4ebd6072:
 
     # cl "Hey, uhm... Do you have a minute?"
-    cl ""
+    cl "Hej, eee... Masz chwilę?"
 
 # game/v3/v3.rpy:30
 translate polish v3start_ed163feb:
 
     # u "Sure, come in."
-    u ""
+    u "Jasne, wejdź."
 
 # game/v3/v3.rpy:40
 translate polish v3start_17256923:
 
     # cl "How's your eye?"
-    cl ""
+    cl "Jak twoje oko?"
 
 # game/v3/v3.rpy:45
 translate polish v3start_80c8f97f:
 
     # u "Uhm... not too bad. Thanks for asking."
-    u ""
+    u "Umm... nie jest źle. Dzięki, że pytasz."
 
 # game/v3/v3.rpy:50
 translate polish v3start_0c12dca7:
 
     # cl "Look, about yesterday..."
-    cl ""
+    cl "Słuchaj, co do wczoraj..."
 
 # game/v3/v3.rpy:52
 translate polish v3start_924b5680:
 
     # cl "Me and Grayson had a thing, a looong time ago."
-    cl ""
+    cl "Ja i Grayson byliśy razem, daaaaaawno temu."
 
 # game/v3/v3.rpy:57
 translate polish v3start_68d063d6:
 
     # cl "But after a while, he started to lie and do shady shit and... you know, be the person he is. So I broke it off."
-    cl ""
+    cl "Ale po jakimś czasie zaczął mnie okłamywać i robić podejrzane rzeczy i... wiesz, zaczął być tym, kim jest. Więc z nim zerwałam."
 
 # game/v3/v3.rpy:59
 translate polish v3start_3f4cd669:
 
     # cl "And ever since, he's just been... I guess trying to get back at me?"
-    cl ""
+    cl "I od tamtej pory po prostu... chyba próbował się na mnie zemścić?"
 
 # game/v3/v3.rpy:64
 translate polish v3start_a3326c2c:
 
     # cl "I don't know..."
-    cl ""
+    cl "Nie wiem..."
 
 # game/v3/v3.rpy:69
 translate polish v3start_db66d353:
 
     # u "If you don't even like Grayson, why were you at his party?"
-    u ""
+    u "Skoro nie lubisz Graysona, dlaczego byłaś na jego imprezie?"
 
 # game/v3/v3.rpy:74
 translate polish v3start_87f53c76:
 
     # cl "It's complicated."
-    cl ""
+    cl "To skomplikowane."
 
 # game/v3/v3.rpy:76
 translate polish v3start_3fc28f4c:
 
     # cl "Girls join the Chicks 'cause they wanna party and have fun."
-    cl ""
+    cl "Dziewczyny dołączają do Lasek, bo chcą imprezować i się dobrze bawić."
 
 # game/v3/v3.rpy:78
 translate polish v3start_2d0a2d26:
 
     # cl "If I don't show up to Ape parties as the Chicks' president, I risk losing the relationships I've built and being voted out."
-    cl ""
+    cl "Jeśli nie pojawię się na imprezach Małp jako liderka Lasek, ryzykuję utratę relacji, które zbudowałam i zostanę wyrzucona."
 
 # game/v3/v3.rpy:83
 translate polish v3start_e60663e2:
 
     # u "It's just... we were having such a great night and then this kinda ruined it."
-    u ""
+    u "Po prostu... miło spędzaliśmy wieczór, a ta sytuacja wszystko popsuła."
 
 # game/v3/v3.rpy:88
 translate polish v3start_83907c29:
 
     # cl "I know and I'm so sorry."
-    cl ""
+    cl "Wiem i bardzo za to przepraszam."
 
 # game/v3/v3.rpy:93
 translate polish v3start_cbfdbaad:
 
     # cl "I have to go right now, but meet me at midnight behind the gym and I'll make it up to you."
-    cl ""
+    cl "Muszę już iść, ale spotkajmy się o północy za salą gimnastyczną, a wynagrodzę ci to."
 
 # game/v3/v3.rpy:98
 translate polish v3start_e5b7dbdd:
 
     # u "What if I can't find you? Shouldn't you at least give me your number?"
-    u ""
+    u "A jeśli nie będę mógł cię znaleźć? Nie powinnaś mi chociaż zostawić swojego numeru?"
 
 # game/v3/v3.rpy:103
 translate polish v3start_ed3c843a:
 
     # cl "Haha, I guess I'll have to... for safety reasons."
-    cl ""
+    cl "Haha, chyba będę musiała to zrobić... dla bezpieczeństwa."
 
 # game/v3/v3.rpy:114
 translate polish v3start_912c9d4a:
 
     # cl "I'll see you at midnight. Don't be late."
-    cl ""
+    cl "Do zobaczenia o północy. Nie spóźnij się."
 
 # game/v3/v3.rpy:130
 translate polish v3start_d9894fe0:
 
     # u "Imre, where have you been? There's no way the volleyball game went on for this long, did it?"
-    u ""
+    u "Imre, gdzie ty byłeś? Nie ma mowy, że mecz siatkówki trwał tak długo, prawda?"
 
 # game/v3/v3.rpy:135
 translate polish v3start_0a37f264:
 
     # imre "Hello, my friend. A gentleman never tells."
-    imre ""
+    imre "Witaj mój przyjacielu. Dżentelmen nigdy nie zdradza sekretów."
 
 # game/v3/v3.rpy:140
 translate polish v3start_f5c3c13a:
 
     # u "Wait, you were with a girl?"
-    u ""
+    u "Czekaj, byłeś z dziewczyną?"
 
 # game/v3/v3.rpy:145
 translate polish v3start_7e591237:
 
     # imre "Well... Not exactly, but I did manage to hide inside the girls' locker room."
-    imre ""
+    imre "Cóż... Niezupełnie, ale udało mi się ukryć w damskiej przebieralni."
 
 # game/v3/v3.rpy:154
 translate polish v3start_058cc530:
 
     # u "Hahaha, man you're crazy."
-    u ""
+    u "Hahaha, stary, jesteś szalony."
 
 # game/v3/v3.rpy:163
 translate polish v3start_1508a5ef:
 
     # u "Dude, that's not cool. You're invading their privacy."
-    u ""
+    u "Stary, to nie jest zabawne. Naruszasz ich prywatność."
 
 # game/v3/v3.rpy:169
 translate polish cm_bd_5fb83b2e:
 
     # imre "Yeah, turns out it wasn't a good idea at all. One of the girls had a mental breakdown and they consoled her for hours."
-    imre ""
+    imre "Tak, okazało się, że to wcale nie był dobry pomysł. Jedna z dziewczyn miała załamanie nerwowe i godzinami ją pocieszali."
 
 # game/v3/v3.rpy:171
 translate polish cm_bd_8f3a69b5:
 
     # imre "At one point they called in two different guidance counselors and then those two didn't get along as well..."
-    imre ""
+    imre "W pewnym momencie zadzwonili do dwóch różnych pedagogów z uczelni i ci dwaj też się nie dogadywali..."
 
 # game/v3/v3.rpy:173
 translate polish cm_bd_392470e3:
 
     # imre "It was just an insane mess and I was stuck hiding in a pile of old jerseys."
-    imre ""
+    imre "To było istne szaleństwo, a ja utknąłem w kupie starych koszulek."
 
 # game/v3/v3.rpy:178
 translate polish cm_bd_691b6f87:
 
     # u "Well, I hope you learned your lesson."
-    u ""
+    u "Cóż, mam nadzieję, że czegoś się nauczyłeś."
 
 # game/v3/v3.rpy:183
 translate polish cm_bd_5de4b440:
 
     # imre "Of course, next time I'll bring snacks."
-    imre ""
+    imre "Oczywiście, następnym razem wezmę jakieś przekąski."
 
 # game/v3/v3.rpy:188
 translate polish cm_bd_0dc1ceb7:
 
     # u "What? Not what I was-"
-    u ""
+    u "Co? Nie tego ocze-"
 
 # game/v3/v3.rpy:190
 translate polish cm_bd_5762d060:
 
     # u "You know what, good for you."
-    u ""
+    u "Wiesz co, rób co chcesz."
 
 # game/v3/v3.rpy:195
 translate polish cm_bd_3c209707:
 
     # imre "So, how has your evening been?"
-    imre ""
+    imre "Więc, jak ci minął wieczór?"
 
 # game/v3/v3.rpy:200
 translate polish cm_bd_6de04fd1:
 
     # u "Well, I met this really nice girl called Penelope. And apparently, she's in our history class."
-    u ""
+    u "Cóż, poznałem naprawdę miłą dziewczynę o imieniu Penelope. I tak sięskłada, że chodzi z nami na zajęcia z historii."
 
 # game/v3/v3.rpy:205
 translate polish cm_bd_3d04ec9b:
 
     # imre "Oh shit, is she hot?"
-    imre ""
+    imre "O kurwa, fajna z niej dupa?"
 
 # game/v3/v3.rpy:214
 translate polish cm_bd_4385b13c:
 
     # u "Oh, hell yeah! She's super hot."
-    u ""
+    u "Jeszcze jak! Zajebista z niej dupa."
 
 # game/v3/v3.rpy:219
 translate polish cm_bd_10343fa0:
 
     # imre "Well that's what I like to hear, go on."
-    imre ""
+    imre "No i takie rzeczy lubię słyszeć, mów dalej."
 
 # game/v3/v3.rpy:225
 translate polish cm_bd_bc716318:
 
     # u "She's alright I guess."
-    u ""
+    u "Chyba jest w porządku."
 
 # game/v3/v3.rpy:230
 translate polish cm_bd_fdf9fb83:
 
     # imre "Well that usually means she's better in bed 'cause she tries harder, go on."
-    imre ""
+    imre "To zazwyczaj oznacza, że jest lepsza w łóżku, bo stara się to nadrobić, mów dalej."
 
 # game/v3/v3.rpy:237
 translate polish cp_bd_87b58fc4:
 
     # u "Anyways, then I went costume shopping for Mr. Lee's class with Aubrey."
-    u ""
+    u "W każdym razie, potem poszedłem z Aubrey kupić kostiumy na zajęcia u Pana Lee."
 
 # game/v3/v3.rpy:242
 translate polish cp_bd_96691d7e:
 
     # u "And before you ask, yes, she's hot."
-    u ""
+    u "I zanim zapytasz, tak, niezła z niej laska."
 
 # game/v3/v3.rpy:248
 translate polish cp_bd_8d8a0dbf:
 
     # u "And then I might have gotten caught peeking on her while changing..."
-    u ""
+    u "A potem chyba zostałem przyłapany na podglądaniu jej, gdy się przebierała..."
 
 # game/v3/v3.rpy:254
 translate polish cp_bd_ea7785ad:
 
     # imre "So much for invasion of privacy, huh?"
-    imre ""
+    imre "I kto tu mówi o naruszaniu prywatności, co?"
 
 # game/v3/v3.rpy:263
 translate polish cp_bd_f45734b5:
 
     # imre "The key is not to get caught, son."
-    imre ""
+    imre "Najważniejsze to nie dać się złapać, synku."
 
 # game/v3/v3.rpy:269
 translate polish cp_bd_7191ae26:
 
     # u "But then I got the cute shop clerk's number. So it turned out to be a blessing in disguise."
-    u ""
+    u "Ale potem dostałem numer od uroczej kasjerki. Więc okazało się to szczęściem w nieszczęściu."
 
 # game/v3/v3.rpy:275
 translate polish cp_bd_2dcbee7a:
 
     # u "But now comes the good part..."
-    u ""
+    u "A teraz najlepsza część..."
 
 # game/v3/v3.rpy:282
 translate polish cp_bd_b101656c:
 
     # imre "Nnnice."
-    imre ""
+    imre "Nieźle."
 
 # game/v3/v3.rpy:288
 translate polish cp_bd_85a0b042:
 
     # u "Anyways, then I went costume shopping for Mr. Lee's class with her."
-    u ""
+    u "W każdym razie, potem poszedłem z nią kupić kostiumy na zajęcia u Pana Lee."
 
 # game/v3/v3.rpy:291
 translate polish cp_bd_18db3b1d:
 
     # u "And we were having a great time..."
-    u ""
+    u "I świetnie się bawiliśmy..."
 
 # game/v3/v3.rpy:296
 translate polish cp_bd_fbc85b48:
 
     # u "But... then I might have gotten caught peeking on her while changing."
-    u ""
+    u "Ale... potem chyba zostałem przyłapany na podglądaniu jej, gdy się przebierała."
 
 # game/v3/v3.rpy:302
 translate polish cp_bd_ea7785ad_1:
 
     # imre "So much for invasion of privacy, huh?"
-    imre ""
+    imre "I kto tu mówi o naruszaniu prywatności, co?"
 
 # game/v3/v3.rpy:311
 translate polish cp_bd_f45734b5_1:
 
     # imre "The key is not to get caught, son."
-    imre ""
+    imre "Najważniejsze to nie dać się złapać, synku."
 
 # game/v3/v3.rpy:317
 translate polish cp_bd_7191ae26_1:
 
     # u "But then I got the cute shop clerk's number. So it turned out to be a blessing in disguise."
-    u ""
+    u "Ale potem dostałem numer od uroczej kasjerki. Więc okazało się to szczęściem w nieszczęściu."
 
 # game/v3/v3.rpy:323
 translate polish cp_bd_2dcbee7a_1:
 
     # u "But now comes the good part..."
-    u ""
+    u "A teraz najlepsza część..."
 
 # game/v3/v3.rpy:327
 translate polish cp_bd_b81d033e:
 
     # u "And we had a great time."
-    u ""
+    u "I świetnie się bawiliśmy."
 
 # game/v3/v3.rpy:332
 translate polish cp_bd_663655b8:
 
     # imre "That sounds great, man."
-    imre ""
+    imre "Brzmi spoko, stary."
 
 # game/v3/v3.rpy:337
 translate polish cp_bd_790e2e2e:
 
     # u "But that's not even the best part..."
-    u ""
+    u "A to nawet nie jest najlepsza część..."
 
 # game/v3/v3.rpy:340
 translate polish conl_c25cb717:
 
     # u "I'm not sure if I told you, but when I got punched in the face at the party, I was actually talking to the most beautiful girl I've seen in... probably my entire life."
-    u ""
+    u "Nie wiem, czy już ci mówiłem, ale kiedy dostałem w twarz na imprezie, rozmawiałem z najpiękniejszą dziewczyną, jaką widziałem... prawdopodobnie przez całe moje życie."
 
 # game/v3/v3.rpy:342
 translate polish conl_77f1b168:
 
     # u "And 30 minutes ago, she knocked on our door, told me to come meet her at midnight behind the gym and kissed me on the cheek before she left."
-    u ""
+    u "A 30 minut temu zapukała do naszych drzwi, kazała mi przyjść na spotkanie o północy za salą gimnastyczną i pocałowała mnie w policzek, zanim wyszła."
 
 # game/v3/v3.rpy:347
 translate polish conl_200fd70a:
 
     # imre "OH MY GOD! My boy is getting laid tonight! Behind the gym! That's amazing, man!"
-    imre ""
+    imre "O MÓJ BOŻE! Mój ziomek dziś wieczorem zarucha! Za salą gimnastyczną! Zajebiście, stary!"
 
 # game/v3/v3.rpy:352
 translate polish conl_4d0c5768:
 
     # u "Dude, calm down. I don't think she's like that, haha."
-    u ""
+    u "Ziom, uspokój się. Myślę, że ona taka nie jest, haha."
 
 # game/v3/v3.rpy:357
 translate polish conl_66c7877e:
@@ -3442,51 +3442,51 @@ translate polish strings:
 
     # game/v3/v3.rpy:147
     old "You're crazy."
-    new ""
+    new "Jesteś szalony."
 
     # game/v3/v3.rpy:147
     old "That's not cool."
-    new ""
+    new "To nie jest zabawne."
 
     # game/v3/v3.rpy:207
     old "Hell yeah."
-    new ""
+    new "Jeszcze jak."
 
     # game/v3/v3.rpy:207
     old "She's alright."
-    new ""
+    new "Jest w porządku."
 
     # game/v3/v3.rpy:507
     old "Ask her about it"
-    new ""
+    new "Zapytaj ją o to"
 
     # game/v3/v3.rpy:507
     old "Don't question it"
-    new ""
+    new "Nie kwestionuj tego"
 
     # game/v3/v3.rpy:603
     old "Win the game"
-    new ""
+    new "Wygraj"
 
     # game/v3/v3.rpy:603
     old "Let her win"
-    new ""
+    new "Pozwól jej wygrać"
 
     # game/v3/v3.rpy:1061
     old "Show off"
-    new ""
+    new "Popisuj się"
 
     # game/v3/v3.rpy:1061
     old "Stick to what you know"
-    new ""
+    new "Zostań przy tym, co potrafisz"
 
     # game/v3/v3.rpy:1166
     old "Approach her"
-    new ""
+    new "Podejdź do niej"
 
     # game/v3/v3.rpy:1166
     old "Leave it"
-    new ""
+    new "Odpuść"
 
     # game/v3/v3.rpy:1389
     old "I wanna talk about what happened yesterday."

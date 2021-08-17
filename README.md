@@ -102,7 +102,7 @@ v04.rpy | 3227/3227 | Patrick PIGNOL | [ ] | -
 v05.rpy | 3498/3498 | Patrick PIGNOL | [ ] | -
 v06.rpy | 11645/11645 | Patrick PIGNOL | [ ] | -
 v07.rpy | 18403/18403 | Patrick PIGNOL | [ ] | -
-v08 files | 0/45 | - | [ ] | -
+v08 files | 6/45 | Patrick PIGNOL | [ ] | -
 v09 files | 0/42 | - | [ ] | -
 v10 files | 0/41 | - | [ ] | -
 
@@ -213,10 +213,10 @@ v10 files | 0/41 | - | [ ] | -
 ### polish
 Progress | ?/all | Who is working on it? | Proofreading | Who is proofreading?
 -------- | -------- | --------- | --------- | ---------
-non script files | 5/6 | Klamos | [ ] | -
+non script files | 6/6 | Klamos | [ ] | -
 v01.rpy | 5225/5225 | Klamos | [ ] | -
-v02.rpy | 4058/4221 | Klamos | [ ] | -
-v03.rpy | 0/3636 | - | [ ] | -
+v02.rpy | 4221/4221 | Klamos | [ ] | -
+v03.rpy | 410/3636 | Klamos | [ ] | -
 v04.rpy | 0/3227 | - | [ ] | -
 v05.rpy | 0/3498 | - | [ ] | -
 v06.rpy | 0/11645 | - | [ ] | -
