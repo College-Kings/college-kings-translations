@@ -4000,463 +4000,463 @@ translate chineses v1_freeRoam2_josh_dc57a155:
 translate chineses v1_freeRoam2_josh_b1537408:
 
     # u "Hell yeah! I'll be the next Fight King."
-    u ""
+    u "那当然！我要成为下届的拳王。"
 
 # game/v1/v1.rpy:3357
 translate chineses v1_freeRoam2_josh_67550db8_1:
 
     # u "(Shit, why did I say that?? I don't even know how to fight and I don't really want to either.)"
-    u ""
+    u "（天哪，我为什么那样说？？我连怎么决斗都不知道而且我也不想参加。）"
 
 # game/v1/v1.rpy:3362
 translate chineses v1_freeRoam2_josh_e58fedb7_1:
 
     # au "Oh wow, big words. Have you met Grayson yet? I'm sure he'd like your confidence."
-    au ""
+    au "哦哇，说大话啊。你见过格雷森吗？我想他一定会很欣赏你的自信。"
 
 # game/v1/v1.rpy:3367
 translate chineses v1_freeRoam2_josh_44972d79_2:
 
     # u "Who's Grayson?"
-    u ""
+    u "格雷森是谁？"
 
 # game/v1/v1.rpy:3373
 translate chineses v1_freeRoam2_josh_f4948cb6:
 
     # u "No, I don't think that's for me."
-    u ""
+    u "不，我不认为那适合我。"
 
 # game/v1/v1.rpy:3378
 translate chineses v1_freeRoam2_josh_5d256568_1:
 
     # au "Really? Well, then what are you doing at the Apes' rush party?"
-    au ""
+    au "是吗？那你来人猿会的抢先派对干嘛？"
 
 # game/v1/v1.rpy:3380
 translate chineses v1_freeRoam2_josh_b981e395_1:
 
     # au "Grayson doesn't accept non-fighters."
-    au ""
+    au "格雷森不欣赏没有自信的斗士。"
 
 # game/v1/v1.rpy:3385
 translate chineses v1_freeRoam2_josh_44972d79_3:
 
     # u "Who's Grayson?"
-    u ""
+    u "格雷森是谁？""
 
 # game/v1/v1.rpy:3390
 translate chineses v1_freeRoam2_josh_e864578b:
 
     # au "He's the president of the Apes and the current Fight King."
-    au ""
+    au "他是人猿会会长同时也是当今的拳王。""
 
 # game/v1/v1.rpy:3393
 translate chineses v1_freeRoam2_josh_f30d22af:
 
     # au "I think he's upstairs, but I'm not sure."
-    au ""
+    au "我想他在楼上吧，但我不太肯定。"
 
 # game/v1/v1.rpy:3398
 translate chineses v1_freeRoam2_josh_94906a23:
 
     # u "Alright, I'll leave you guys alone and look around a bit more. Maybe I'll even talk to Grayson."
-    u ""
+    u "好了，我就不再打扰你们了。我再逛一会儿，也许我会去找格雷森谈谈。"
 
 # game/v1/v1.rpy:3401
 translate chineses v1_freeRoam2_josh_2f3f97b5:
 
     # au "You'll never know, maybe if you meet some of the Apes, you'll change your mind about fighting."
-    au ""
+    au "你永远都不会知道的，也许你见到几个人猿会的之后，就会改变对决斗的看法了。"
 
 # game/v1/v1.rpy:3406
 translate chineses v1_freeRoam2_josh_94b81b79:
 
     # u "(I doubt it, but I guess it won't hurt to talk to some of them.)"
-    u ""
+    u "（我很怀疑这点，不过跟他们聊聊天也没什么大不了的。）"
 
 # game/v1/v1.rpy:3408
 translate chineses v1_freeRoam2_josh_25f14ccc:
 
     # u "Alright, I'll leave you guys alone and look around a bit more."
-    u ""
+    u "好了，我就不再打扰你们了。我再逛一会儿。"
 
 # game/v1/v1.rpy:3413
 translate chineses v1_freeRoam2_josh_74d95520:
 
     # au "I'll see you later, [name]."
-    au ""
+    au "那就待会儿见了，[名字]。"
 
 # game/v1/v1.rpy:3418
 translate chineses v1_freeRoam2_josh_c11d256c:
 
     # jo "Yeah bro, hit me up sometime."
-    jo ""
+    jo "好啊兄弟，我们下次再聊。"
 
 # game/v1/v1.rpy:3425
 translate chineses v1_freeRoam2_josh2_616acf57:
 
     # u "(I should talk to some other people around here and make some new friends.)"
-    u ""
+    u "（我应该再多跟这里的人聊聊，好多交些新朋友。）"
 
 # game/v1/v1.rpy:3433
 translate chineses v1_freeRoam2_stairs_9ae0336b:
 
     # u "(I should talk to Josh first, I haven't seen him in a while.)"
-    u ""
+    u "（我该先去同乔希聊聊，我很久没见到他了。）"
 
 # game/v1/v1.rpy:3443
 translate chineses v1_freeRoam2_camp_9ae0336b:
 
     # u "(I should talk to Josh first, I haven't seen him in a while.)"
-    u ""
+    u "（我该先去同乔希聊聊，我很久没见到他了。）"
 
 # game/v1/v1.rpy:3461
 translate chineses v1_freeRoam2_mason_6bab276b:
 
     # ma "Eyyyy, you're the kid that tried to fight Cameron yesterday!"
-    ma ""
+    ma "哎，你就是昨天那个想跟卡梅伦打架的小子！"
 
 # game/v1/v1.rpy:3465
 translate chineses v1_freeRoam2_mason_531790e2:
 
     # u "What? I didn't-"
-    u ""
+    u "什么？我没有- "
 
 # game/v1/v1.rpy:3470
 translate chineses v1_freeRoam2_mason_23839f01:
 
     # jeremy "Damn, that takes balls, kid!"
-    jeremy ""
+    jeremy "厉害呀，小子，那是要勇气的！"
 
 # game/v1/v1.rpy:3484
 translate chineses v1_freeRoam2_mason_d42d1353:
 
     # u "Yeah, he better watch out, or I'll kick his ass."
-    u ""
+    u "是的，他最好把眼睛睁大点，不然小心被我揍。"
 
 # game/v1/v1.rpy:3486
 translate chineses v1_freeRoam2_mason_3ece339e:
 
     # u "(Yeah [name], that seems like a brilliant thing to say about a hyper-aggressive idiot that prides himself in his fighting skills.)"
-    u ""
+    u "（这下好啦[名字]，对一个借着自己高超的决斗技巧而气势汹汹的笨蛋说那样的话真是够明智的。）"
 
 # game/v1/v1.rpy:3491
 translate chineses v1_freeRoam2_mason_91513681:
 
     # jeremy "That's some big words, kid."
-    jeremy ""
+    jeremy "有点大言不惭啊，小子。"
 
 # game/v1/v1.rpy:3496
 translate chineses v1_freeRoam2_mason_0e4f94df:
 
     # ma "We're doing a small tournament in the basement, you should sign up. We can put you up against Cameron if you want."
-    ma ""
+    ma "我们在地下室正举办一场小型的比赛，你应该去报名。如果你愿意我们可以把你和卡梅伦放一组。"
 
 # game/v1/v1.rpy:3501
 translate chineses v1_freeRoam2_mason_22dce75b:
 
     # jeremy "Mason, that's a little much, no? He's just a kid."
-    jeremy ""
+    jeremy "梅森，那是不是太过了？他还只是个小子。"
 
 # game/v1/v1.rpy:3506
 translate chineses v1_freeRoam2_mason_6e94c23d:
 
     # ma "Bullshit, he's a freshman and he can handle it! And if he wants to be an Ape, he's gonna have to fight Cameron anyways at some point."
-    ma ""
+    ma "鬼扯，他都读大一了而且他因该能处理好的！如果他真的想加入人猿会的话，他迟早都会跟卡梅伦一战的。"
 
 # game/v1/v1.rpy:3511
 translate chineses v1_freeRoam2_mason_5d22c863:
 
     # u "Alright guys, I'll definitely uhm..."
-    u ""
+    u "好吧伙计们，我一定会嗯..."
 
 # game/v1/v1.rpy:3516
 translate chineses v1_freeRoam2_mason_baa91167:
 
     # u "I'll uh..."
-    u ""
+    u "我会呃..."
 
 # game/v1/v1.rpy:3518
 translate chineses v1_freeRoam2_mason_6d1c5c37:
 
     # u "I need to go, but I'll talk to you later."
-    u ""
+    u "我得走了，我们稍后再聊吧。"
 
 # game/v1/v1.rpy:3522
 translate chineses v1_freeRoam2_mason_75eab91b:
 
     # u "(Oh no, what have I gotten myself into?!)"
-    u ""
+    u "（哦不好，我都给自己做了什么？！）"
 
 # game/v1/v1.rpy:3528
 translate chineses v1_freeRoam2_mason_af5d091d:
 
     # u "I uhh... I didn't actually wanna fight Cameron. I just bumped into him by accident."
-    u ""
+    u "我呃...没有真正打算跟卡梅伦对决。我只是无意撞到他了。"
 
 # game/v1/v1.rpy:3533
 translate chineses v1_freeRoam2_mason_c4625b10:
 
     # jeremy "Ahh, that makes more sense, 'cause you don't really seem like you have it in you."
-    jeremy ""
+    jeremy "啊，那就说得通了，因为你看上去根本就没实力去打卡梅伦。"
 
 # game/v1/v1.rpy:3538
 translate chineses v1_freeRoam2_mason_5d8e6f82:
 
     # ma "Damn, and just as I thought we had a good one, he's just another pussy. Why are there always so many losers that try to get into the Apes?!"
-    ma ""
+    ma "妈的，我还正以为我们得了名好斗士，结果他也是个胆小鬼。为什么会有这么多没用的想要加入人猿会呢？！"
 
 # game/v1/v1.rpy:3543
 translate chineses v1_freeRoam2_mason_dbb221ad:
 
     # u "Hey! I'm not a loser, or a pussy. I would totally fight Cameron and he'd probably end up begging for mercy."
-    u ""
+    u "嘿！我不是个没用的，也不是胆小鬼。我完全可以跟卡梅伦对决而且他多半会给我跪地求饶。"
 
 # game/v1/v1.rpy:3548
 translate chineses v1_freeRoam2_mason_580e2e2e:
 
     # u "(Fuck, why did I just say that?! I can't even fucking fight and that guy is a hyper-aggressive idiot that prides himself in his fighting skills.)"
-    u ""
+    u "（操，我为什么那样讲？我他妈连怎么打都不知道而他又是个借着自己高超的决斗技巧而气势汹汹的笨蛋。）"
 
 # game/v1/v1.rpy:3553
 translate chineses v1_freeRoam2_mason_91513681_1:
 
     # jeremy "That's some big words, kid."
-    jeremy ""
+    jeremy "有点大言不惭啊，小子。"
 
 # game/v1/v1.rpy:3558
 translate chineses v1_freeRoam2_mason_bb205230:
 
     # ma "You know, we're doing a small fighting tournament in the basement, you should sign up. We can put you up against Cameron if you want."
-    ma ""
+    ma "告诉你，我们在地下室正举办一场小型的比赛，你应该去报名。如果你愿意我们可以把你和卡梅伦放一组。"
 
 # game/v1/v1.rpy:3563
 translate chineses v1_freeRoam2_mason_7cf1ebcf:
 
     # jeremy "Yeah, show us what you got. If you beat Cameron, you're pretty much guaranteed to become an Ape."
-    jeremy ""
+    jeremy "是啊，展示一下你的实力。如果你能打败卡梅伦，你就基本能够保证成为人猿会的一员。"
 
 # game/v1/v1.rpy:3568
 translate chineses v1_freeRoam2_mason_5d22c863_1:
 
     # u "Alright guys, I'll definitely uhm..."
-    u ""
+    u "好吧伙计们，我一定会嗯..."
 
 # game/v1/v1.rpy:3570
 translate chineses v1_freeRoam2_mason_baa91167_1:
 
     # u "I'll uh..."
-    u ""
+    u "我会呃..."
 
 # game/v1/v1.rpy:3572
 translate chineses v1_freeRoam2_mason_6d1c5c37_1:
 
     # u "I need to go, but I'll talk to you later."
-    u ""
+    u "我得走了，我们稍后再聊吧。"
 
 # game/v1/v1.rpy:3576
 translate chineses v1_freeRoam2_mason_75eab91b_1:
 
     # u "(Oh no, what have I gotten myself into?!)"
-    u ""
+    u "（哦不好，我都给自己做了什么？！）"
 
 # game/v1/v1.rpy:3584
 translate chineses v1_freeRoam2_mason2_045bec88:
 
     # u "I've already talked to these guys."
-    u ""
+    u "我已经同这些伙计们谈过了。"
 
 # game/v1/v1.rpy:3593
 translate chineses v1_freeRoam2_katy_d40da212:
 
     # katy "And then she said \"Those jeans look so good on you.\" Can you believe that?!"
-    katy ""
+    katy "她之后说\“那件牛仔裤很适合你。\”你能相信那话吗？！"
 
 # game/v1/v1.rpy:3595
 translate chineses v1_freeRoam2_katy_0996458c:
 
     # katy "That stupid bitch is always saying stuff like that even though she knows exactly what it means."
-    katy ""
+    katy "那个愚蠢的婊子老是那样说，即使她自己很清楚这话的意思。"
 
 # game/v1/v1.rpy:3600
 translate chineses v1_freeRoam2_katy_786edfc6:
 
     # sarah "Katy, are you sure that she didn't just give you a compliment?"
-    sarah ""
+    sarah "凯蒂，你确认她不是在称赞你吗？"
 
 # game/v1/v1.rpy:3605
 translate chineses v1_freeRoam2_katy_899ab915:
 
     # katy "Oh my god, you sound just like my mom."
-    katy ""
+    katy "哦天哪，你听起来像我妈。"
 
 # game/v1/v1.rpy:3610
 translate chineses v1_freeRoam2_katy_30e665e2:
 
     # u "Uhm... hey guys."
-    u ""
+    u "嗯...你们好。"
 
 # game/v1/v1.rpy:3615
 translate chineses v1_freeRoam2_katy_ed6b7ad8:
 
     # katy "Oh, hey there, handsome."
-    katy ""
+    katy "哦，嘿，帅哥。"
 
 # game/v1/v1.rpy:3620
 translate chineses v1_freeRoam2_katy_97673c4a:
 
     # sarah "Katy! You have a boyfriend."
-    sarah ""
+    sarah "凯蒂！你已经有男友了。"
 
 # game/v1/v1.rpy:3625
 translate chineses v1_freeRoam2_katy_dc2a2c86:
 
     # katy "Uuugh, fiiine."
-    katy ""
+    katy "呃，好吧。"
 
 # game/v1/v1.rpy:3630
 translate chineses v1_freeRoam2_katy_894ca97d:
 
     # katy "Hey there, ugly."
-    katy ""
+    katy "嘿，丑八怪。"
 
 # game/v1/v1.rpy:3635
 translate chineses v1_freeRoam2_katy_6f272399:
 
     # u "Uh... hey. What are you guys up to tonight?"
-    u ""
+    u "呃...嘿。你们今晚有啥打算？"
 
 # game/v1/v1.rpy:3640
 translate chineses v1_freeRoam2_katy_f0fa6239:
 
     # katy "Partying, obviously."
-    katy ""
+    katy "当然是找乐子啊。"
 
 # game/v1/v1.rpy:3645
 translate chineses v1_freeRoam2_katy_df313d0d:
 
     # u "Cool uhm... me too."
-    u ""
+    u "挺好，嗯...我也是。"
 
 # game/v1/v1.rpy:3650
 translate chineses v1_freeRoam2_katy_065ff367:
 
     # katy "Yeah, duh. Geez, small talk much???"
-    katy ""
+    katy "是吗，呃，天哪，无聊的寒暄吗？？？"
 
 # game/v1/v1.rpy:3655
 translate chineses v1_freeRoam2_katy_5f0204e5:
 
     # sarah "Katy! Play nice."
-    sarah ""
+    sarah "凯蒂！别那样。"
 
 # game/v1/v1.rpy:3660
 translate chineses v1_freeRoam2_katy_c7bc82ee:
 
     # katy "Whatever, this guy's a dork."
-    katy ""
+    katy "随便啦，这人是个呆子。"
 
 # game/v1/v1.rpy:3665
 translate chineses v1_freeRoam2_katy_2716a72e:
 
     # sarah "She doesn't mean that."
-    sarah ""
+    sarah "她不是那个意思。"
 
 # game/v1/v1.rpy:3670
 translate chineses v1_freeRoam2_katy_ad78e293:
 
     # u "It's fine, I'll leave."
-    u ""
+    u "没事儿，我这就走。"
 
 # game/v1/v1.rpy:3677
 translate chineses v1_freeRoam2_katy2_d6261efc:
 
     # u "(I'm definitely not going back there.)"
-    u ""
+    u "（我一定不会再回那儿了。）"
 
 # game/v1/v1.rpy:3686
 translate chineses v1_freeRoam2_grayson_5758ed80:
 
     # ca "Dude, all these freshmen are shit. I've been watching most of tonight's fights and they're garbage."
-    ca ""
+    ca "哥们儿，所有的新生都太烂了。我今晚观看的绝大多数对决都是垃圾。"
 
 # game/v1/v1.rpy:3691
 translate chineses v1_freeRoam2_grayson_a7cbd169:
 
     # gr "They're rookies, we'll find the best and train them 'til they're good."
-    gr ""
+    gr "他们还是菜鸟，我们可以挖掘出最好的然后把他们训练成精英。"
 
 # game/v1/v1.rpy:3696
 translate chineses v1_freeRoam2_grayson_949d03e8:
 
     # ca "I still think we're wasting our time."
-    ca ""
+    ca "我还是认为我们在浪费时间。"
 
 # game/v1/v1.rpy:3701
 translate chineses v1_freeRoam2_grayson_04124bda:
 
     # gr "I'm not allowing the Wolves to get any good rookies this year."
-    gr ""
+    gr "我今年不会允许饿狼会得到任何优秀的菜鸟。"
 
 # game/v1/v1.rpy:3703
 translate chineses v1_freeRoam2_grayson_ab6b8486:
 
     # gr "Without new talent, they've already lost. Because currently, Chris and his lackeys don't stand a chance against me."
-    gr ""
+    gr "没有新鲜人才，他们便会输。因为从目前来看，克里斯和他的走狗们根本没实力对付我。"
 
 # game/v1/v1.rpy:3708
 translate chineses v1_freeRoam2_grayson_ee79f8f7:
 
     # ca "Sure, but... none of the rookies would stand a chance against us either."
-    ca ""
+    ca "那当然，不过...所有的菜鸟也都没实力跟我们抗衡。"
 
 # game/v1/v1.rpy:3713
 translate chineses v1_freeRoam2_grayson_2ad87677:
 
     # gr "Cameron, Cameron - do you trust me?"
-    gr ""
+    gr "卡梅伦，卡梅伦 - 你信得过我吗？"
 
 # game/v1/v1.rpy:3718
 translate chineses v1_freeRoam2_grayson_97d91ec5:
 
     # ca "Uhh... yeah. Of course, man."
-    ca ""
+    ca "呃...是。当然了，哥们儿。"
 
 # game/v1/v1.rpy:3723
 translate chineses v1_freeRoam2_grayson_73063489:
 
     # gr "Then find the best freshmen and recruit them."
-    gr ""
+    gr "那就把最好的新生找出来让他们入会。"
 
 # game/v1/v1.rpy:3728
 translate chineses v1_freeRoam2_grayson_0b699c82:
 
     # gr "We're building the Apes' legacy here. 10 Years from now, I'll be the most successful Ape president in history."
-    gr ""
+    gr "我们正在创建人猿会的辉煌。10年之后，我将会成为人猿会历史上最成功的会长。"
 
 # game/v1/v1.rpy:3730
 translate chineses v1_freeRoam2_grayson_fc120108:
 
     # gr "And you could be the most successful vice president."
-    gr ""
+    gr "而你可能会成为最成功的副会长。"
 
 # game/v1/v1.rpy:3735
 translate chineses v1_freeRoam2_grayson_dde7fbe6:
 
     # ca "Alright man. Whatever you say."
-    ca ""
+    ca "好吧哥们儿。就照你的做。"
 
 # game/v1/v1.rpy:3740
 translate chineses v1_freeRoam2_grayson_2c702fbc:
 
     # u "(Is that this Grayson guy that Aubrey talked about? He sounds like even more of a dick than Cameron.)"
-    u ""
+    u "（那就是奥布里提到的克雷森吗？他听上去比卡梅伦更像个混蛋。）"
 
 # game/v1/v1.rpy:3748
 translate chineses v1_freeRoam2_grayson2_210fff29:
 
     # u "(Somehow barging into a private conversation of two violence-addicted frat guys doesn't sound appealing to me.)"
-    u ""
+    u "（我觉得突然闯入一个有两名充满暴力倾向兄弟会成员的私人谈话好像不太妥吧。）"
 
 # game/v1/v1.rpy:3762
 translate chineses fr2end_9ea2f78c:
@@ -4468,397 +4468,397 @@ translate chineses fr2end_9ea2f78c:
 translate chineses fr2end_f0ff2a68:
 
     # u "Ryan?"
-    u ""
+    u "瑞安？"
 
 # game/v1/v1.rpy:3770
 translate chineses fr2end_e0d669b4:
 
     # ry "What's up, man? You enjoying the party?"
-    ry ""
+    ry "怎样啦，哥们儿？这派对不错吧？"
 
 # game/v1/v1.rpy:3775
 translate chineses fr2end_4d1115dc:
 
     # u "Who is that?"
-    u ""
+    u "那是谁呀？"
 
 # game/v1/v1.rpy:3780
 translate chineses fr2end_9a31af9b:
 
     # ry "I think that's Chloe, right? I talked to some of the Chicks and she's like their president."
-    ry ""
+    ry "我想那是克洛伊，对吧？我跟几个辣妹会的谈过，而她好像是她们的会长。"
 
 # game/v1/v1.rpy:3782
 translate chineses fr2end_5e0569e2:
 
     # ry "Also, possibly the hottest girl I've seen in my life."
-    ry ""
+    ry "而且，很可能是我这辈子见过的最火辣的女孩子。"
 
 # game/v1/v1.rpy:3784
 translate chineses fr2end_6aab21ae:
 
     # u "And who's that guy she's talking to? Is that her boyfriend?"
-    u ""
+    u "那跟她讲话的那位是谁？她的男朋友吗？"
 
 # game/v1/v1.rpy:3789
 translate chineses fr2end_f7d97c1f:
 
     # ry "Man, I don't know. Why don't you just go ask her yourself?"
-    ry ""
+    ry "哥们儿，我不清楚。你怎么不去问她本人呢？"
 
 # game/v1/v1.rpy:3798
 translate chineses fr2end_684bf39f:
 
     # u "Yeah, you're right! I'm gonna go over there and talk to her right now."
-    u ""
+    u "是啊，你说得对！我这就过去问她。"
 
 # game/v1/v1.rpy:3803
 translate chineses fr2end_53f29104:
 
     # ry "Good luck, man."
-    ry ""
+    ry "祝你好运，哥们儿。"
 
 # game/v1/v1.rpy:3808
 translate chineses fr2end_d464f09e:
 
     # u "(Here I go.)"
-    u ""
+    u "（开始了。）"
 
 # game/v1/v1.rpy:3813
 translate chineses fr2end_6d57cf4c:
 
     # u "Hey there, guys."
-    u ""
+    u "嘿，你们好。"
 
 # game/v1/v1.rpy:3818
 translate chineses fr2end_86eab849:
 
     # cl "Hey, what's your name?"
-    cl ""
+    cl "嘿，你叫什么名字？"
 
 # game/v1/v1.rpy:3824
 translate chineses fr2end_91a4ef1b:
 
     # u "I don't know... She's talking to someone right now and I don't wanna come off as rude."
-    u ""
+    u "不知道...她现正同别人聊天，而我也不想粗鲁的打扰他们。"
 
 # game/v1/v1.rpy:3829
 translate chineses fr2end_88a9c7f1:
 
     # ry "I'm sure it's fine."
-    ry ""
+    ry "没关系的。"
 
 # game/v1/v1.rpy:3834
 translate chineses fr2end_e1000191:
 
     # "*Push*"
-    ""
+    "*推*"
 
 # game/v1/v1.rpy:3839
 translate chineses fr2end_d5881ead:
 
     # u "Woah!"
-    u ""
+    u "哇！"
 
 # game/v1/v1.rpy:3844
 translate chineses fr2end_3b978437:
 
     # cl "Are you okay?"
-    cl ""
+    cl "你没事吧？"
 
 # game/v1/v1.rpy:3849
 translate chineses fr2end_92c2ba45:
 
     # u "Yeah, my friend just pushed me, sorry."
-    u ""
+    u "没事，我的朋友推了我一下，抱歉啊。"
 
 # game/v1/v1.rpy:3854
 translate chineses fr2end_f2a15372:
 
     # cl "It's fine, haha. What's your name?"
-    cl ""
+    cl "没关系啦，哈哈。你叫什么名字？"
 
 # game/v1/v1.rpy:3860
 translate chineses bd_bd_281d410d:
 
     # u "I'm [name] and you?"
-    u ""
+    u "我叫[名字]，你呢？"
 
 # game/v1/v1.rpy:3865
 translate chineses bd_bd_f1f27610:
 
     # cl "I'm Chloe."
-    cl ""
+    cl "我叫克洛伊。"
 
 # game/v1/v1.rpy:3870
 translate chineses bd_bd_b54d3e2d:
 
     # tom "Hey champ, it's cool that you're talking to new people, et cetera, but we were kinda in the middle of something."
-    tom ""
+    tom "嘿，臭小子，你想找新人聊天也不是不行，不过我跟她正聊得开心呢。"
 
 # game/v1/v1.rpy:3871
 translate chineses bd_bd_c6ad9afc:
 
     # tom "So you should probably... you know, leave."
-    tom ""
+    tom "所以你最好先...你知道的，消失。"
 
 # game/v1/v1.rpy:3876
 translate chineses bd_bd_4962b2e6:
 
     # cl "Tom, come on. Why are you being such a dick? We're at a party."
-    cl ""
+    cl "汤姆，你为什么要说这些混话呢？这是一个派对啊。"
 
 # game/v1/v1.rpy:3881
 translate chineses bd_bd_eeb16497:
 
     # tom "Yeah, but we were in the middle of a conversation."
-    tom ""
+    tom "是呀，但我们刚正聊得起劲呢。"
 
 # game/v1/v1.rpy:3886
 translate chineses bd_bd_1b4a4743:
 
     # cl "You were telling me about your rock collection... I'm actually quite happy we've moved on from that."
-    cl ""
+    cl "你刚刚在跟我讲你的石头收藏...我其实很高兴我们能转换话题。"
 
 # game/v1/v1.rpy:3891
 translate chineses bd_bd_f22ad29d:
 
     # tom "They're minerals!"
-    tom ""
+    tom "那是矿石！"
 
 # game/v1/v1.rpy:3892
 translate chineses bd_bd_7e3a3bcf:
 
     # tom "You know what, fine. Enjoy talking to this loser, 'cause I'm outta here."
-    tom ""
+    tom "你知道吗，好吧。祝你跟这个废物谈得愉快，我现在就离开这里。"
 
 # game/v1/v1.rpy:3901
 translate chineses bd_bd_a33ee725:
 
     # u "I'm really sorry for interrupting your conversation."
-    u ""
+    u "我真的很抱歉打断你们的谈话。"
 
 # game/v1/v1.rpy:3906
 translate chineses bd_bd_3e7d7879:
 
     # cl "I should be thanking you for saving me. He literally spent the last 20 minutes talking about rocks."
-    cl ""
+    cl "我应该感谢你帮我解围才是。他花了20分钟来给我讲他的那些石头。"
 
 # game/v1/v1.rpy:3911
 translate chineses bd_bd_195490e8:
 
     # u "In that case, you're very welcome."
-    u ""
+    u "如果是那样的话，不用太客气。"
 
 # game/v1/v1.rpy:3916
 translate chineses bd_bd_4ea14155:
 
     # u "Don't worry, I'm not gonna start talking about my rock collection."
-    u ""
+    u "别担心，我不会对你讲我的石头收藏的。"
 
 # game/v1/v1.rpy:3921
 translate chineses bd_bd_e4af330a:
 
     # cl "Oh that's too bad, I only go for guys that brag about them constantly."
-    cl ""
+    cl "哦那太糟了，我只喜欢在我面前常常吹嘘石头收藏的男生。"
 
 # game/v1/v1.rpy:3926
 translate chineses bd_bd_65a73a32:
 
     # u "Aww damn. I think your dream guy just ran off."
-    u ""
+    u "哇。我想你的梦中情人刚刚溜掉了。"
 
 # game/v1/v1.rpy:3931
 translate chineses bd_bd_629cab92:
 
     # cl "I guess I'll have to make do with you."
-    cl ""
+    cl "我想我只好委屈一下跟你聊聊了。"
 
 # game/v1/v1.rpy:3936
 translate chineses bd_bd_7c955aed:
 
     # u "Haha, I guess you will."
-    u ""
+    u "哈哈，那就委屈你了。"
 
 # game/v1/v1.rpy:3942
 translate chineses be_bd_966673da:
 
     # cl "Hey, do you wanna go outside and sit down? I could really use some fresh air."
-    cl ""
+    cl "嘿，你想出去坐坐吗？我真想去呼吸下新鲜空气。"
 
 # game/v1/v1.rpy:3947
 translate chineses be_bd_2ec642c0:
 
     # u "Yeah, sounds great."
-    u ""
+    u "好啊，我们走吧。"
 
 # game/v1/v1.rpy:3954
 translate chineses be_bd_ca0cb783:
 
     # cl "So you're a first year, huh? Are you excited to get into the college lifestyle?"
-    cl ""
+    cl "那你现在是读大一，对吧？你对大学生活是不是很期待呀？"
 
 # game/v1/v1.rpy:3960
 translate chineses be_bd_32a86bac:
 
     # u "I mean, I guess. I don't really know what that includes to be honest."
-    u ""
+    u "我是说，大概吧。实话讲，我不是很清楚那生活都包括了什么。"
 
 # game/v1/v1.rpy:3965
 translate chineses be_bd_4d173839:
 
     # cl "You know, parties, drinking, wild sex..."
-    cl ""
+    cl "你知道的，派对啦，喝酒啦，疯狂的性生活啦..."
 
 # game/v1/v1.rpy:3970
 translate chineses be_bd_7e22fcd1:
 
     # u "Are you just describing your weekend?"
-    u ""
+    u "你刚才是在描述你的周末生活吗？"
 
 # game/v1/v1.rpy:3975
 translate chineses be_bd_f3102769:
 
     # cl "Hahaha, maybe."
-    cl ""
+    cl "哈哈哈，也许吧。"
 
 # game/v1/v1.rpy:3980
 translate chineses be_bd_ec4dc9b8:
 
     # cl "Let's sit down here."
-    cl ""
+    cl "让我们在这儿坐坐。"
 
 # game/v1/v1.rpy:3985
 translate chineses be_bd_457e91a3:
 
     # cl "I remember being so nervous in my first year."
-    cl ""
+    cl "我记得我大一时都好紧张哦。"
 
 # game/v1/v1.rpy:3987
 translate chineses be_bd_f7da4588:
 
     # cl "One time a guy stole my underwear and somehow the dean found out about it."
-    cl ""
+    cl "一次有位男生偷了我的内裤，而且不知怎么被校长发现了。"
 
 # game/v1/v1.rpy:3989
 translate chineses be_bd_0ed80af6:
 
     # cl "Both of us then had to come to his office, so that the guy could apologize and give me my panties back right in front of the dean."
-    cl ""
+    cl "我们两都被叫到了他的办公室，那位男生当着校长的面向我道歉并且交还了我的内裤。"
 
 # game/v1/v1.rpy:3991
 translate chineses be_bd_3e105903:
 
     # cl "It was sooo embarrassing."
-    cl ""
+    cl "那真是太尴尬了。"
 
 # game/v1/v1.rpy:4000
 translate chineses be_bd_fe1d7570:
 
     # u "Wow, that sounds awful."
-    u ""
+    u "哇，那听起来真可怕。"
 
 # game/v1/v1.rpy:4005
 translate chineses be_bd_6e288e3b:
 
     # cl "It really was."
-    cl ""
+    cl "的却是可怕。"
 
 # game/v1/v1.rpy:4013
 translate chineses be_bd_060f89a0:
 
     # u "Hahaha, sounds like the dean was into you."
-    u ""
+    u "哈哈哈，听上去校长好像对你有意思。"
 
 # game/v1/v1.rpy:4018
 translate chineses be_bd_7bc67113:
 
     # cl "Ewww. Don't say that, hahaha."
-    cl ""
+    cl "哇。别那样讲啦，哈哈哈。"
 
 # game/v1/v1.rpy:4024
 translate chineses bf_bd_3297ad8b:
 
     # u "So, you're the president of the Chicks, right?"
-    u ""
+    u "你是辣妹会的会长，对吧？"
 
 # game/v1/v1.rpy:4029
 translate chineses bf_bd_44058108:
 
     # cl "Yeah, I am."
-    cl ""
+    cl "我是啊。"
 
 # game/v1/v1.rpy:4034
 translate chineses bf_bd_683c1010:
 
     # u "Are you close with Aubrey then? She told me she was the vice president."
-    u ""
+    u "那你跟奥布里很要好了？她告诉我说她是副会长。"
 
 # game/v1/v1.rpy:4039
 translate chineses bf_bd_bc8f5c5f:
 
     # cl "Oh yeah, she's my best friend. Haha, why are you asking?"
-    cl ""
+    cl "哦是的，她是我最好的朋友。哈哈，你为什么问这个？"
 
 # game/v1/v1.rpy:4044
 translate chineses bf_bd_76e4c6d8:
 
     # u "Just wondering. Do you know Josh as well then?"
-    u ""
+    u "只是出于好奇。那你也认识乔希咯？"
 
 # game/v1/v1.rpy:4049
 translate chineses bf_bd_5bf6b182:
 
     # cl "Josh...? Oh is that the guy she's been talking to all night?"
-    cl ""
+    cl "乔希...？哦是那位整晚都跟奥布里聊天的男生？"
 
 # game/v1/v1.rpy:4054
 translate chineses bf_bd_50d28ae9:
 
     # u "Yeah, I've known him since middle school and let's just say he's always been very eager to get with girls."
-    u ""
+    u "是呀，我从初中开始就认识他了而且他总是对女孩子非常热情。"
 
 # game/v1/v1.rpy:4059
 translate chineses bf_bd_b1a9dc18:
 
     # cl "Hahaha, Aubrey's also not the shy type."
-    cl ""
+    cl "哈哈哈，奥布里也不是腼腆型的。"
 
 # game/v1/v1.rpy:4061
 translate chineses bf_bd_51feb79b:
 
     # cl "Could you imagine if they were sitting here by themselves right now?"
-    cl ""
+    cl "你可以想象他们俩如果也是一起坐在这里吗？"
 
 # game/v1/v1.rpy:4066
 translate chineses bf_bd_396c4743:
 
     # u "He'd just be like..."
-    u ""
+    u "那他就会像这样..."
 
 # game/v1/v1.rpy:4071
 translate chineses bf_bd_fe99abe2:
 
     # u "\"*Yawn* I guess I might as well leave my arm here.\""
-    u ""
+    u "\“*打哈欠*我想我不妨把手臂放这里吧。\”"
 
 # game/v1/v1.rpy:4076
 translate chineses bf_bd_46f34d62:
 
     # cl "Hahaha, and she'd just be like..."
-    cl ""
+    cl "哈哈哈，而她就会像这样..."
 
 # game/v1/v1.rpy:4081
 translate chineses bf_bd_2550dc06:
 
     # cl "\"Oh no, my hand landed on your abs, but I might as well feel them for a bit.\""
-    cl ""
+    cl "\“哦不好，我的手放到了你的腹肌上了，不过我不妨就摸一摸它吧。\”"
 
 # game/v1/v1.rpy:4086
 translate chineses bf_bd_7bfb88ba:
 
     # u "Hahaha."
-    u ""
+    u "哈哈哈。"
 
 # game/v1/v1.rpy:4091
 translate chineses bf_bd_9ea2f78c:
@@ -4870,55 +4870,55 @@ translate chineses bf_bd_9ea2f78c:
 translate chineses bf_bd_78429ad0:
 
     # cl "It's getting pretty cold. Should we go back inside?"
-    cl ""
+    cl "这里有点开始冷了。我们进屋如何？"
 
 # game/v1/v1.rpy:4102
 translate chineses bf_bd_64cd762c:
 
     # u "Uhh... yeah, let's go."
-    u ""
+    u "呃...是啊，我们走吧。"
 
 # game/v1/v1.rpy:4107
 translate chineses bf_bd_d1473a43:
 
     # cl "Oh look, they're still talking and now they're even closer to each other, haha."
-    cl ""
+    cl "哦看，他们还在交谈呢，而且他们的距离更近了。"
 
 # game/v1/v1.rpy:4112
 translate chineses bf_bd_052430ea:
 
     # u "You know what they should just skip to?"
-    u ""
+    u "你知道他们应该直接跳过做什么吗？"
 
 # game/v1/v1.rpy:4117
 translate chineses bf_bd_e537814b:
 
     # cl "What?"
-    cl ""
+    cl "什么？"
 
 # game/v1/v1.rpy:4122
 translate chineses bf_bd_7ac7107d:
 
     # u "The part where he grabs her head like this..."
-    u ""
+    u "直接跳到他像这样抓住她的头..."
 
 # game/v1/v1.rpy:4127
 translate chineses bf_bd_00ea65c1:
 
     # u "Pulls her in..."
-    u ""
+    u "把她拉近..."
 
 # game/v1/v1.rpy:4129
 translate chineses bf_bd_9628d7d9:
 
     # u "And goes for the..."
-    u ""
+    u "然后就..."
 
 # game/v1/v1.rpy:4134
 translate chineses bf_bd_d98683b4:
 
     # "Hey!"
-    ""
+    "嘿！"
 
 # game/v1/v1.rpy:4139
 translate chineses bf_bd_9ea2f78c_1:
@@ -4930,329 +4930,329 @@ translate chineses strings:
 
     # game/v1/v1.rpy:7
     old "Cool :)"
-    new ""
+    new "好 :)"
 
     # game/v1/v1.rpy:14
     old "Ugh :/"
-    new ""
+    new "呃 :/"
 
     # game/v1/v1.rpy:34
     old "Idk, it's just feels kinda weird now. Can we please just talk tomorrow?"
-    new ""
+    new "我不知道，只是现在感觉有点怪怪的。我们可以明天谈谈吗？"
 
     # game/v1/v1.rpy:35
     old "Fine"
-    new ""
+    new "可以"
 
     # game/v1/v1.rpy:36
     old ":)"
-    new ""
+    new ":)"
 
     # game/v1/v1.rpy:68
     old "What's your name?"
-    new ""
+    new "你叫什么名字？"
 
     # game/v1/v1.rpy:68
     old "Alex"
-    new ""
+    new "亚历克斯"
 
     # game/v1/v1.rpy:167
     old "Hey...\nI know we haven’t talked much after we broke up, but I just wanted to let you know that I didn’t get into Stanford, so I’ll be going to San Vallejo as well.\nGuess I’ll see you there. :)"
-    new ""
+    new "嘿...我知道我们分手后就没什么来往了，但我只是想告诉你我没有被斯坦福录取，所以我也会去圣瓦列霍。那我们在那儿见吧。:)"
 
     # game/v1/v1.rpy:168
     old "Yeah... I’ll see you there."
-    new ""
+    new "好啊...我们在那儿见。"
 
     # game/v1/v1.rpy:169
     old "You cheated on me.\nGo to hell!"
-    new ""
+    new "你给我带了绿帽。见鬼去吧！"
 
     # game/v1/v1.rpy:203
     old "Could be fun"
-    new ""
+    new "可能会很有趣"
 
     # game/v1/v1.rpy:437
     old "Flirt"
-    new ""
+    new "调情"
 
     # game/v1/v1.rpy:437
     old "Inquire"
-    new ""
+    new "询问"
 
     # game/v1/v1.rpy:615
     old "Make fun of Elijah"
-    new ""
+    new "讥笑以利亚"
 
     # game/v1/v1.rpy:615
     old "Stay quiet"
-    new ""
+    new "保持沉默"
 
     # game/v1/v1.rpy:703
     old "Agree"
-    new ""
+    new "同意"
 
     # game/v1/v1.rpy:703
     old "Disagree"
-    new ""
+    new "不同意"
 
     # game/v1/v1.rpy:767
     old "Don't defend Autumn"
-    new ""
+    new "不为欧特辩解"
 
     # game/v1/v1.rpy:767
     old "Defend Autumn"
-    new ""
+    new "为欧特辩解"
 
     # game/v1/v1.rpy:792
     old "You're cuter"
-    new ""
+    new "你更可爱"
 
     # game/v1/v1.rpy:792
     old "Yeah, kinda"
-    new ""
+    new "是，有一点"
 
     # game/v1/v1.rpy:873
     old "Hey honey,\nenjoy your time in college.\nStay safe and don't forget to visit me.\nLove you"
-    new ""
+    new "嘿亲爱的，祝你在大学过得愉快。注意安全还有别忘了回来看我。我爱你"
 
     # game/v1/v1.rpy:874
     old "Love you too."
-    new ""
+    new "我也爱你。"
 
     # game/v1/v1.rpy:875
     old "Thanks, Julia :)"
-    new ""
+    new "谢了，朱莉娅 :)"
 
     # game/v1/v1.rpy:913
     old "She's hot."
-    new ""
+    new "她好辣。"
 
     # game/v1/v1.rpy:913
     old "She seems nice."
-    new ""
+    new "她和蔼可亲。"
 
     # game/v1/v1.rpy:1049
     old "So... the nerds?"
-    new ""
+    new "那就是...书呆子了？"
 
     # game/v1/v1.rpy:1049
     old "That's cool."
-    new ""
+    new "挺好的。"
 
     # game/v1/v1.rpy:1146
     old "Leave"
-    new ""
+    new "走开"
 
     # game/v1/v1.rpy:1308
     old "So, they're equally good?"
-    new ""
+    new "那...他们一样强了？"
 
     # game/v1/v1.rpy:1308
     old "The Wolves sound sick."
-    new ""
+    new "饿狼会听起来厉害。"
 
     # game/v1/v1.rpy:1428
     old "Hey Lauren, would you want to hang out with me and my friends tonight?"
-    new ""
+    new "嘿劳伦，你今晚愿意跟我和我的朋友们一起玩吗？"
 
     # game/v1/v1.rpy:1429
     old "Yeah sounds good :) Where do you wanna meet?"
-    new ""
+    new "好啊，听起来不错 :) 我们在哪儿见呢？"
 
     # game/v1/v1.rpy:1430
     old "Just come to dorm 109 at 8"
-    new ""
+    new "8点到109号寝室来"
 
     # game/v1/v1.rpy:1431
     old "Okay, will do"
-    new ""
+    new "好的，我会的"
 
     # game/v1/v1.rpy:1432
     old "See you later, cutie"
-    new ""
+    new "待会儿见，小可爱"
 
     # game/v1/v1.rpy:1433
     old "Cool"
-    new ""
+    new "好的"
 
     # game/v1/v1.rpy:1682
     old "You're missing out."
-    new ""
+    new "你错过了好机会。"
 
     # game/v1/v1.rpy:1682
     old "Dodged a bullet there."
-    new ""
+    new "躲过了一劫。"
 
     # game/v1/v1.rpy:1764
     old "Take your shirt off"
-    new ""
+    new "把你的上衣脱了"
 
     # game/v1/v1.rpy:1764
     old "Drink instead"
-    new ""
+    new "还是喝吧"
 
     # game/v1/v1.rpy:1821
     old "Do it, or drink."
-    new ""
+    new "做，不然就喝。"
 
     # game/v1/v1.rpy:1821
     old "You're right."
-    new ""
+    new "你说的对。"
 
     # game/v1/v1.rpy:1875
     old "Riley's mine."
-    new ""
+    new "莱利是我的。"
 
     # game/v1/v1.rpy:1875
     old "They're both hot."
-    new ""
+    new "他们俩儿都辣。"
 
     # game/v1/v1.rpy:1887
     old "You're right, sorry."
-    new ""
+    new "你说得对，抱歉。"
 
     # game/v1/v1.rpy:1887
     old "She wants me."
-    new ""
+    new "她要的是我。"
 
     # game/v1/v1.rpy:2049
     old "Keep dreaming"
-    new ""
+    new "继续做梦"
 
     # game/v1/v1.rpy:2049
     old "Wake up"
-    new ""
+    new "醒来"
 
     # game/v1/v1.rpy:2072
     old "Blowjob"
-    new ""
+    new "口交"
 
     # game/v1/v1.rpy:2072
     old "Footjob"
-    new ""
+    new "足交"
 
     # game/v1/v1.rpy:2410
     old "Move in with me?"
-    new ""
+    new "搬来跟我住？"
 
     # game/v1/v1.rpy:2410
     old "Bad roommates suck."
-    new ""
+    new "室友不好真烦。"
 
     # game/v1/v1.rpy:2528
     old "You could get any guy."
-    new ""
+    new "你能吸引任何男生。"
 
     # game/v1/v1.rpy:2528
     old "Yet, you're here with me."
-    new ""
+    new "但你却同我一起。"
 
     # game/v1/v1.rpy:2586
     old "I'm still in love with my ex."
-    new ""
+    new "我依然爱我的前女友。"
 
     # game/v1/v1.rpy:2586
     old "I've broken into an Ikea."
-    new ""
+    new "我非法闯入过易家。"
 
     # game/v1/v1.rpy:2735
     old "You're really beautiful."
-    new ""
+    new "你真的很漂亮。"
 
     # game/v1/v1.rpy:2735
     old "You're not ugly."
-    new ""
+    new "你不算丑。"
 
     # game/v1/v1.rpy:2761
     old "Kiss her"
-    new ""
+    new "吻她"
 
     # game/v1/v1.rpy:2761
     old "Don't kiss her"
-    new ""
+    new "不吻她"
 
     # game/v1/v1.rpy:2923
     old "Hey man, it's Ryan.\nThe Apes' rush party is tonight at 9. You're coming, right???"
-    new ""
+    new "嘿，哥们儿，我是瑞安。人猿会的抢先派对是今晚9点。你会来，对吧？？？"
 
     # game/v1/v1.rpy:2924
     old "Alright, but I'll only stay for a few hours."
-    new ""
+    new "好吧，但我只待几个小时。"
 
     # game/v1/v1.rpy:2925
     old "Haha, trust me, you're not gonna want to leave once you see all the hot chicks there."
-    new ""
+    new "哈哈，相信我，当你见了那里所有的辣妹之后就不会想要离开了。"
 
     # game/v1/v1.rpy:2926
     old "Just meet me in front of the Apes' frat house at 9."
-    new ""
+    new "那我们在人猿会的门口9点见。"
 
     # game/v1/v1.rpy:2927
     old "Okay, will do."
-    new ""
+    new "好，我会的。"
 
     # game/v1/v1.rpy:3264
     old "Ask if she likes fighters"
-    new ""
+    new "问她是否喜欢斗士"
 
     # game/v1/v1.rpy:3278
     old "Say you're a fighter"
-    new ""
+    new "告诉她你是名斗士"
 
     # game/v1/v1.rpy:3278
     old "Say you're not a fighter"
-    new ""
+    new "告诉她你不是名斗士"
 
     # game/v1/v1.rpy:3345
     old "I'll be the next Fight King."
-    new ""
+    new "我将成为下一届的拳王。"
 
     # game/v1/v1.rpy:3345
     old "No, that's not for me."
-    new ""
+    new "不，那不适合我。"
 
     # game/v1/v1.rpy:3451
     old "Hey :)\nSorry about today.\n\nCan we talk tomorrow?"
-    new ""
+    new "嘿 :) 今天很抱歉。我们能明天谈谈吗？"
 
     # game/v1/v1.rpy:3452
     old "Yeah, sure."
-    new ""
+    new "好，行。"
 
     # game/v1/v1.rpy:3453
     old "What is there to talk about?"
-    new ""
+    new "还有什么可说的？"
 
     # game/v1/v1.rpy:3472
     old "Yeah, he better watch out."
-    new ""
+    new "是啊，他可得小心了。"
 
     # game/v1/v1.rpy:3472
     old "I didn't wanna fight him."
-    new ""
+    new "我不想跟他决斗。"
 
     # game/v1/v1.rpy:3791
     old "You're right, I'll talk to her."
-    new ""
+    new "你说得对，我去跟她谈谈。"
 
     # game/v1/v1.rpy:3791
     old "She's occupied."
-    new ""
+    new "她在忙。"
 
     # game/v1/v1.rpy:3897
     old "Apologize"
-    new ""
+    new "道歉"
 
     # game/v1/v1.rpy:3897
     old "Make fun of him"
-    new ""
+    new "耻笑他"
 
     # game/v1/v1.rpy:3993
     old "Empathize"
-    new ""
+    new "同情"
 
     # game/v1/v1.rpy:3993
     old "Poke fun"
-    new ""
+    new "嘲弄"
 
