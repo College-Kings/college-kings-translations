@@ -4,7 +4,7 @@
 translate francais work_with_seb_f0ed8561:
 
     # se "This is every teacher who flunked me!"
-    se "C'est pour tous les professeurs qui m'ont raté !"
+    se "C'est pour tous les professeurs qui m'ont saqués !"
 
 # game/v8/scene11.rpy:20
 translate francais work_with_seb_d460ca54:
