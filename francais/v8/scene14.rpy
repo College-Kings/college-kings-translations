@@ -4,33 +4,33 @@
 translate francais mc_wolves_sun_morn_17079010:
 
     # u "*Yawn*"
-    u ""
+    u "*Bâiller*"
 
 # game/v8/scene14.rpy:34
 translate francais mc_apes_sun_morn_17079010:
 
     # u "*Yawn*"
-    u ""
+    u "*Bâiller*"
 
 # game/v8/scene14.rpy:57
 translate francais v8_s14_pen_text_a23d379a:
 
     # u "(I should reply to her.)"
-    u ""
+    u "(Je devrais lui répondre.)"
 
 # game/v8/scene14.rpy:60
 translate francais v8_s14_pen_text_094c556b:
 
     # u "(That sounded serious. What got her all upset so sudden?)"
-    u ""
+    u "(Cela avait l'air sérieux. Qu'est-ce qui l'a bouleversée si soudainement ?)"
 
 translate francais strings:
 
     # game/v8/scene14.rpy:18
     old "[name] I'm really scared! I am in so much trouble! I need you! Please come over??"
-    new ""
+    new "[name] J'ai vraiment peur ! J'ai tellement d'ennuis ! J'ai besoin de toi ! S'il te plait, viens ??"
 
     # game/v8/scene14.rpy:19
     old "Ok try to stay calm. I'll be right over."
-    new ""
+    new "Ok, essaie de rester calme. J'arrive tout de suite."
 
