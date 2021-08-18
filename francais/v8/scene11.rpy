@@ -130,7 +130,7 @@ translate francais wolves_gym_cool_9c2c6245:
 translate francais wolves_gym_cool_62b12957:
 
     # u "Maybe I'll show you some of my tricks after this."
-    u ""
+    u "Peut-être que je vais vous montrer quelques-uns de mes trucs après ça."
 
 # game/v8/scene11.rpy:140
 translate francais wolves_gym_cool_4071b3fd:
