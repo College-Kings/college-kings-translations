@@ -4,259 +4,259 @@
 translate chineses v2start_1bba6b51:
 
     # cl "*Muffled* Why did you do that?! We were just talking!"
-    cl ""
+    cl "*听不清*你为什么要那样做？我们只是聊天而已！"
 
 # game/v2/v2.rpy:89
 translate chineses v2start_c3b1a1ef:
 
     # ry "*Muffled* [name]?! Are you okay??"
-    ry ""
+    ry "*听不清*[名字]？！你还好吧？？"
 
 # game/v2/v2.rpy:98
 translate chineses v2start_cb54d010:
 
     # imre "Hey man, did you have a good night?"
-    imre ""
+    imre "嘿哥们儿，你这晚过得可好？"
 
 # game/v2/v2.rpy:104
 translate chineses v2start_20bec76e:
 
     # u "What? How did I get here?"
-    u ""
+    u "什么？我怎么到这儿来了？"
 
 # game/v2/v2.rpy:109
 translate chineses v2start_b94dac9c:
 
     # imre "Some Ryan guy dropped you off, after you got yourself beaten up."
-    imre ""
+    imre "你被揍了之后，有个叫瑞安的家伙把你送来的。"
 
 # game/v2/v2.rpy:114
 translate chineses v2start_7207f97e:
 
     # u "Shit... my head hurts so much."
-    u ""
+    u "可恶...我的头好痛。"
 
 # game/v2/v2.rpy:119
 translate chineses v2start_1c5c1a81:
 
     # imre "I mean, have you seen your face?"
-    imre ""
+    imre "我想问你，你照过镜子吗？"
 
 # game/v2/v2.rpy:121
 translate chineses v2start_1adeb7b0:
 
     # imre "Here, I took a picture last night when you came home."
-    imre ""
+    imre "这里，我在你昨晚会来的时候照了张。"
 
 # game/v2/v2.rpy:125
 translate chineses v2start_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v2/v2.rpy:130
 translate chineses v2start_272f5aa4:
 
     # u "Man, Grayson is such an asshole. I didn't even do anything."
-    u ""
+    u "哥们儿，格雷森真是个大混蛋。我还什么都没做。"
 
 # game/v2/v2.rpy:135
 translate chineses v2start_48095016:
 
     # imre "What did you expect? I told you the Apes are dogshit."
-    imre ""
+    imre "我告诉过你人猿会的都是狗屎。我还期望什么？"
 
 # game/v2/v2.rpy:137
 translate chineses v2start_22ca126f:
 
     # imre "If you knew how to fight, maybe he wouldn't fuck with you."
-    imre ""
+    imre "如果你知道怎么决斗，也许他就不会找你麻烦。"
 
 # game/v2/v2.rpy:145
 translate chineses v2start_327c6541:
 
     # u "Hmm... maybe."
-    u ""
+    u "嗯...也许。"
 
 # game/v2/v2.rpy:149
 translate chineses v2start_c08fe457:
 
     # imre "Just think about it, okay? I'll see you later."
-    imre ""
+    imre "好好想想，行吗？我们待会儿见。"
 
 # game/v2/v2.rpy:156
 translate chineses v2start_f558cfe4:
 
     # u "I'm not fighting. I'll just stay away from them."
-    u ""
+    u "我不会去斗殴的。我以后躲着他们就是了。"
 
 # game/v2/v2.rpy:161
 translate chineses v2start_e8ead580:
 
     # imre "Dude, you don't know what Grayson's like."
-    imre ""
+    imre "哥们儿，你不知道格雷森是怎样的人。"
 
 # game/v2/v2.rpy:163
 translate chineses v2start_1e49a1b9:
 
     # imre "If he sees you looking at him wrong from now on, you'll end up in the hospital."
-    imre ""
+    imre "如果他以后看你不顺眼，你就会被送进医院的。"
 
 # game/v2/v2.rpy:171
 translate chineses v2start_acb5bdce:
 
     # u "Look, I'll think about it. But don't get your hopes up."
-    u ""
+    u "好，我会考虑的。但你不要期望太高了。"
 
 # game/v2/v2.rpy:175
 translate chineses v2start_7098dbf0:
 
     # imre "That's all I'm asking for. I'll see you later."
-    imre ""
+    imre "决定权当然是在你。我们待会儿见。"
 
 # game/v2/v2.rpy:182
 translate chineses v2start_0b7c44c3:
 
     # u "I'm not fighting. That's final."
-    u ""
+    u "我不会去斗殴的。这是我最后决定。"
 
 # game/v2/v2.rpy:187
 translate chineses v2start_a27d90a3:
 
     # imre "You're being stupid, man. Whatever, suit yourself."
-    imre ""
+    imre "你太傻了，哥们儿。不管了，随你便。"
 
 # game/v2/v2.rpy:214
 translate chineses bjj_bd_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v2/v2.rpy:223
 translate chineses repeatb_b672f3b0:
 
     # u "(Damn, my phone's blowing up. I should probably check my messages.)"
-    u ""
+    u "（可恶，我的手机要炸掉了。我大概应该查看我的短信。）"
 
 # game/v2/v2.rpy:227
 translate chineses repeatb_82b726ed:
 
     # u "(Well, time to head to the cafe to meet Lauren.)"
-    u ""
+    u "（好吧，是时候去咖啡店见劳伦了。）"
 
 # game/v2/v2.rpy:230
 translate chineses repeatb_b7c5def3:
 
     # u "(There's too much on my mind to be dealing with Lauren right now.)"
-    u ""
+    u "（我现在没什么心情去跟劳伦见面。"
 
 # game/v2/v2.rpy:232
 translate chineses repeatb_1ee1e1aa:
 
     # u "(Maybe taking a walk will relax me.)"
-    u ""
+    u "（也许我该出去散步放松一下。）"
 
 # game/v2/v2.rpy:239
 translate chineses walk1_5d38ae25:
 
     # u "(I can't believe I got knocked out in front of everyone...)"
-    u ""
+    u "（我不相信我居然在大庭广众之下被打晕了...）"
 
 # game/v2/v2.rpy:243
 translate chineses walk1_138f9c3b:
 
     # u "(Especially in front of Chloe, that's so humiliating.)"
-    u ""
+    u "（特别是在克洛伊面前，真是太丢人了。）"
 
 # game/v2/v2.rpy:248
 translate chineses walk1_3263fe5c:
 
     # u "(Is she dating Grayson? I really thought she was flirting with me.)"
-    u ""
+    u "（她跟格雷森有关系？我真的以为她是在跟我打情骂俏。）"
 
 # game/v2/v2.rpy:250
 translate chineses walk1_d91c9beb:
 
     # u "(But why would Grayson punch me otherwise?)"
-    u ""
+    u "（不过格雷森又为何要揍我呢？）"
 
 # game/v2/v2.rpy:252
 translate chineses walk1_ae5cc9c0:
 
     # u "(Just thinking about all this shit makes me so mad.)"
-    u ""
+    u "（想到这些就让我非常恼火。）"
 
 # game/v2/v2.rpy:257
 translate chineses walk1_4b258b6b:
 
     # tom "Eyy, Mr. steal-your-girl got beaten up. *laughs*"
-    tom ""
+    tom "哎，偷心小子被揍了。*嘲笑*"
 
 # game/v2/v2.rpy:259
 translate chineses walk1_50708946:
 
     # tom "That's what you get for being such a little bitch."
-    tom ""
+    tom "这就是狗娘养的所应得的。"
 
 # game/v2/v2.rpy:269
 translate chineses walk1_f9b61707:
 
     # tom "Yeah, you better keep walking, pussy."
-    tom ""
+    tom "是呀，继续走你的路吧，胆小鬼。"
 
 # game/v2/v2.rpy:287
 translate chineses v1_tomShoutBack_a3367190:
 
     # u "The fuck did you just say to me?!"
-    u ""
+    u "你他妈刚才对我说什么？！"
 
 # game/v2/v2.rpy:292
 translate chineses v1_tomShoutBack_d1389188:
 
     # tom "You heard me. You're a fucking bitch that tried to cockblock me."
-    tom ""
+    tom "你听到的。你他妈狗娘养的居然搅黄了我的好戏。"
 
 # game/v2/v2.rpy:297
 translate chineses v1_tomShoutBack_d84467b5:
 
     # u "Dude, she wanted to talk to me. She was happy that you left. You bored her."
-    u ""
+    u "哥们儿，你想跟我聊。你走后她很高兴。你让她感到无聊。"
 
 # game/v2/v2.rpy:306
 translate chineses v1_tomShoutBack_8fff8082:
 
     # tom "Fuck you!"
-    tom ""
+    tom "操你妈的！"
 
 # game/v2/v2.rpy:315
 translate chineses gb_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v2/v2.rpy:334
 translate chineses tomtut1kick_4a328666:
 
     # tut "Great job! You've hit Tom and hurt him. He's now more likely to get tired, give up or even get knocked out."
-    tut ""
+    tut "做得好！你击中并打伤了汤姆。他现在更容易变得疲劳，投降，甚至被打晕。"
 
 # game/v2/v2.rpy:335
 translate chineses tomtut1kick_100eaacc:
 
     # tut "Beware, since you've let your guard down to attack, he's going to try and abuse it with an attack of his own."
-    tut ""
+    tut "注意，由于你松懈了防备来进攻，他会试着抓住机会也向你攻来。"
 
 # game/v2/v2.rpy:343
 translate chineses tomtut1kick_1e5dc8ea:
 
     # tut "Now it's time to block Tom's attack."
-    tut ""
+    tut "现在是时候格挡汤姆的攻击了。"
 
 # game/v2/v2.rpy:346
 translate chineses tomtut1kick_d4a34b79:
 
     # tut "{b}Q{/b} lets you block your head from heavy attacks such as hooks, which come from a slight angle."
-    tut ""
+    tut "{b}Q{/b}让你防止你的头部被重钩拳击中。钩拳是从一定的角度打出的。"
 
 # game/v2/v2.rpy:348
 translate chineses tomtut1kick_663a9d66:
