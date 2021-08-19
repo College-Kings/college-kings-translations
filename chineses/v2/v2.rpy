@@ -1636,343 +1636,343 @@ translate chineses br_bd_69668e67:
 translate chineses br_bd_e38ea10b:
 
     # u "Yeah, but while I was doing it Benjamin asked me if he could make a move on you."
-    u ""
+    u "是啊，但我在填表时，本杰明问我他可不可以追你。"
 
 # game/v2/v2.rpy:2163
 translate chineses br_bd_a130a4a9:
 
     # em "Oh really, are you my guardian now?"
-    em ""
+    em "哦真的，你是我的监护人啦？"
 
 # game/v2/v2.rpy:2167
 translate chineses br_bd_2e2b8da5:
 
     # em "What did you say?"
-    em ""
+    em "你怎么说的？"
 
 # game/v2/v2.rpy:2173
 translate chineses br_bd_0b8e19de:
 
     # u "Uhm... I told him off."
-    u ""
+    u "嗯...我没让他追你。"
 
 # game/v2/v2.rpy:2175
 translate chineses br_bd_ca4e838e:
 
     # u "You know, just to protect you from having to deal with a creep."
-    u ""
+    u "你知道，只是为了保护你不被一个变态骚扰。"
 
 # game/v2/v2.rpy:2180
 translate chineses br_bd_63edfa8d:
 
     # em "Oh, so you're \"protecting\" me now, huh?"
-    em ""
+    em "哦，那你是在\“保护\”我了，呵？"
 
 # game/v2/v2.rpy:2185
 translate chineses br_bd_42156a9b:
 
     # u "Oh shut up, if you wanna give him your phone number and have the worst date of your life, you're free to do so."
-    u ""
+    u "哦闭嘴吧，如果你想要度过你这辈子最糟糕的一天的话，你可以随时把你的电话号给他。"
 
 # game/v2/v2.rpy:2190
 translate chineses br_bd_7f95afe6:
 
     # em "Haha, I think I'm good."
-    em ""
+    em "哈哈，我想我不用了。"
 
 # game/v2/v2.rpy:2196
 translate chineses br_bd_27459841:
 
     # u "I told him he should."
-    u ""
+    u "我告诉他可以试试。"
 
 # game/v2/v2.rpy:2198
 translate chineses br_bd_bc513adc:
 
     # u "I mean there's no way you'd go for him anyways."
-    u ""
+    u "我的意思是你不可能会对他有感觉的。"
 
 # game/v2/v2.rpy:2202
 translate chineses br_bd_fb7ee5e1:
 
     # em "Haha, he is kinda cute."
-    em ""
+    em "哈哈，他有一点可爱啦。"
 
 # game/v2/v2.rpy:2204
 translate chineses br_bd_4174c731:
 
     # em "Plus he has a job."
-    em ""
+    em "而且他还有份工作。"
 
 # game/v2/v2.rpy:2209
 translate chineses br_bd_82a93bfc:
 
     # u "As a receptionist."
-    u ""
+    u "接待员的工作。"
 
 # game/v2/v2.rpy:2217
 translate chineses br_bd_67e44856:
 
     # u "Yeah, I did. I guess now we gotta wait."
-    u ""
+    u "是啊，我填了。我想我们现在只有等吧。"
 
 # game/v2/v2.rpy:2219
 translate chineses br_bd_7599e584:
 
     # u "What did you think of Benjamin by the way?"
-    u ""
+    u "顺便问问，你觉得本杰明怎样？"
 
 # game/v2/v2.rpy:2224
 translate chineses br_bd_6140f90b:
 
     # em "What do you mean?"
-    em ""
+    em "你什么意思？"
 
 # game/v2/v2.rpy:2229
 translate chineses br_bd_7e05f0f5:
 
     # u "You know, as a guy."
-    u ""
+    u "你知道，作为一个男的。"
 
 # game/v2/v2.rpy:2234
 translate chineses br_bd_ee2db0a2:
 
     # em "I guess he's kinda cute, but also a bit weird."
-    em ""
+    em "我觉得他有点可爱，但也有点奇怪。"
 
 # game/v2/v2.rpy:2239
 translate chineses br_bd_084ab882:
 
     # em "Why are you asking?"
-    em ""
+    em "你为什么要问？"
 
 # game/v2/v2.rpy:2244
 translate chineses br_bd_6fddef7b:
 
     # u "Just wondering."
-    u ""
+    u "只是好奇。"
 
 # game/v2/v2.rpy:2251
 translate chineses bs_bd_ea172d77:
 
     # ben "Dr. Ehrmantraut is now ready for you."
-    ben ""
+    ben "埃曼特劳特医生现在可以见你了。"
 
 # game/v2/v2.rpy:2256
 translate chineses bs_bd_ef1dadc4:
 
     # em "I'll wait here, I saw a bunch of Vogues I wanna dig into."
-    em ""
+    em "我在这里等你，我想读读这里的《时尚》杂志。"
 
 # game/v2/v2.rpy:2261
 translate chineses bs_bd_745f4da9:
 
     # ehr "Okay, looking at you I'm gonna assume you're here because of your black eye?"
-    ehr ""
+    ehr "好，看你这样子我猜你是为了你青肿的眼眶来的？"
 
 # game/v2/v2.rpy:2266
 translate chineses bs_bd_42487ce7:
 
     # u "(Holy shit, I thought Dr. Ehrmantraut was a guy.)"
-    u ""
+    u "（天哪，我以为埃曼特劳特医生是个男的。）"
 
 # game/v2/v2.rpy:2270
 translate chineses bs_bd_16d3800d:
 
     # u "Uhh... yeah, my friend dragged me here in order to get it looked at."
-    u ""
+    u "呃...是啊，我朋友拽我过来就是要检查一下它。"
 
 # game/v2/v2.rpy:2275
 translate chineses bs_bd_2977c7af:
 
     # ehr "Alright, let me have a closer look and see if there's anything unusual about it."
-    ehr ""
+    ehr "行，让我仔细看看有什么异样。"
 
 # game/v2/v2.rpy:2280
 translate chineses bs_bd_99ef3bd4:
 
     # ehr "Hmm..."
-    ehr ""
+    ehr "嗯..."
 
 # game/v2/v2.rpy:2282
 translate chineses bs_bd_bc9d85e6:
 
     # ehr "It all looks fine to me."
-    ehr ""
+    ehr "看上去没什么大碍。"
 
 # game/v2/v2.rpy:2287
 translate chineses bs_bd_f5b11998:
 
     # ehr "When did this happen?"
-    ehr ""
+    ehr "这是什么时候发生的？"
 
 # game/v2/v2.rpy:2292
 translate chineses bs_bd_4d469330:
 
     # u "Yesterday. I got punched in the face out of nowhere."
-    u ""
+    u "昨天。我被莫名其妙的打中了脸。"
 
 # game/v2/v2.rpy:2297
 translate chineses bs_bd_b46706a3:
 
     # ehr "Does it hurt a lot? I could prescribe you a week's worth of painkillers."
-    ehr ""
+    ehr "疼得厉害吗？我可以给你开一个星期的止痛药。"
 
 # game/v2/v2.rpy:2302
 translate chineses bs_bd_976e8c37:
 
     # u "(Why can't life be more like porn...? Sex with her would take any pain away.)"
-    u ""
+    u "（生活为什么不能像色情片那样...?跟她性交能除去任何的疼痛。"
 
 # game/v2/v2.rpy:2304
 translate chineses bs_bd_635445a7:
 
     # u "Uhm... no, that's fine. It doesn't hurt too badly."
-    u ""
+    u "嗯...不，不用了。现在不怎么疼。"
 
 # game/v2/v2.rpy:2309
 translate chineses bs_bd_d075d62f:
 
     # ehr "Well then, your face should be back to normal in a week. If it doesn't get better, please come see me again."
-    ehr ""
+    ehr "这样啊，你的脸一个星期之后就能恢复正常。如若不然，请再来见我。"
 
 # game/v2/v2.rpy:2314
 translate chineses bs_bd_8024e817:
 
     # u "Thanks, will do."
-    u ""
+    u "谢了，我会的。"
 
 # game/v2/v2.rpy:2316
 translate chineses bs_bd_44abc50c:
 
     # u "(Now I really hope it doesn't get better...)"
-    u ""
+    u "（现在我真希望我不会变好...）"
 
 # game/v2/v2.rpy:2321
 translate chineses bs_bd_44918a53:
 
     # u "Are you ready to go?"
-    u ""
+    u "你准备好要走了吗？"
 
 # game/v2/v2.rpy:2326
 translate chineses bs_bd_b0d1ce85:
 
     # em "Yeah, let's leave."
-    em ""
+    em "是的，我们走。"
 
 # game/v2/v2.rpy:2335
 translate chineses bo_bd_dc5051d5:
 
     # u "(Even though that just cost me almost a hundred dollars, it was kinda nice to spend time with Emily.)"
-    u ""
+    u "（尽管刚才花了我接近一百元，花时间跟艾米丽在一起也不错。"
 
 # game/v2/v2.rpy:2337
 translate chineses bo_bd_18cf3231:
 
     # u "(Still... I don't know if I can ever fully forgive her for what she did.)"
-    u ""
+    u "（不过...我不知道我还能不能够原谅她所做的。）"
 
 # game/v2/v2.rpy:2347
 translate chineses bo_bd_c975e35e:
 
     # u "(Oh, I just got a message.)"
-    u ""
+    u "（哦，我刚收到了短信。）"
 
 # game/v2/v2.rpy:2353
 translate chineses repeatc_d647e9cd:
 
     # u "(I should check my messages.)"
-    u ""
+    u "（我该查查我的短信。）"
 
 # game/v2/v2.rpy:2360
 translate chineses repeatc_dfbd0821:
 
     # pe "Uhm... excuse me."
-    pe ""
+    pe "嗯...打扰了。"
 
 # game/v2/v2.rpy:2362
 translate chineses repeatc_029469d6:
 
     # pe "I- I know you-"
-    pe ""
+    pe "我- 我认识你-"
 
 # game/v2/v2.rpy:2367
 translate chineses repeatc_3c4681a3:
 
     # u "Let me guess, you saw me get punched in the face at a party."
-    u ""
+    u "让我猜猜，你在派对上见到了我的脸被人打了。"
 
 # game/v2/v2.rpy:2372
 translate chineses repeatc_d9f61a43:
 
     # pe "Uhm, no, but that would explain your swollen eye."
-    pe ""
+    pe "嗯，不是，但那就可以解释你肿胀的眼。"
 
 # game/v2/v2.rpy:2374
 translate chineses repeatc_ebff5a89:
 
     # pe "You're in my History 101 class."
-    pe ""
+    pe "你在我的历史101班上。"
 
 # game/v2/v2.rpy:2379
 translate chineses repeatc_9e6d33de:
 
     # u "With Mr. Lee?"
-    u ""
+    u "李先生的课？"
 
 # game/v2/v2.rpy:2384
 translate chineses repeatc_3afc33fc:
 
     # pe "Yes. What other History 101 class is there?"
-    pe ""
+    pe "是的。哪里还有别的历史101班啊？"
 
 # game/v2/v2.rpy:2389
 translate chineses repeatc_01a6d297:
 
     # u "Fair point. So... what's up? How can I help you?"
-    u ""
+    u "有道理。那...有事吗？我能帮你什么？"
 
 # game/v2/v2.rpy:2394
 translate chineses repeatc_0e69188c:
 
     # pe "Oh, well I saw you and I thought to myself \"Hey, I know this person and I should talk to him.\""
-    pe ""
+    pe "哦，我见你一人我就对自己说\“嘿，我认识这人，我该找他谈谈。\”"
 
 # game/v2/v2.rpy:2398
 translate chineses repeatc_8046f99c:
 
     # u "Uhm, okay so-"
-    u ""
+    u "嗯，好的，那-"
 
 # game/v2/v2.rpy:2403
 translate chineses repeatc_8b6bda4f:
 
     # pe "And then I thought \"But what if I'm disturbing him?\" So I decided not to say anything."
-    pe ""
+    pe "我又想\“但我会不会打扰到他呢？\”所以我决定不说什么。"
 
 # game/v2/v2.rpy:2408
 translate chineses repeatc_c40fb6f1:
 
     # u "Well you're not-"
-    u ""
+    u "你没有-"
 
 # game/v2/v2.rpy:2413
 translate chineses repeatc_19c16b65:
 
     # pe "But then I was like \"Penelope, you need to start talking to people at some point\" and then I approached you."
-    pe ""
+    pe "但之后我又想\“佩内洛普，你始终还是需要开始跟别人交谈的。\”，然后我就找上你了。"
 
 # game/v2/v2.rpy:2418
 translate chineses repeatc_0fb938bb:
 
     # u "Okay... I'm [name] and-"
-    u ""
+    u "好...我叫[名字]还有-"
 
 # game/v2/v2.rpy:2423
 translate chineses repeatc_b60f3409:
 
     # pe "Oh god, is it weird? Did I make it weird?"
-    pe ""
+    pe "哦天哪，是不是有点怪？我是不是让你感到奇怪？"
 
 # game/v2/v2.rpy:2425
 translate chineses repeatc_6483ea79:
