@@ -148,7 +148,7 @@ translate chineses repeatb_82b726ed:
 translate chineses repeatb_b7c5def3:
 
     # u "(There's too much on my mind to be dealing with Lauren right now.)"
-    u "（我现在没什么心情去跟劳伦见面。"
+    u "（我现在没什么心情去跟劳伦见面。）"
 
 # game/v2/v2.rpy:232
 translate chineses repeatb_1ee1e1aa:
@@ -760,877 +760,877 @@ translate chineses history2_0306743c:
 translate chineses history2_4329feeb:
 
     # imre "Hey man, about earlier, I-"
-    imre ""
+    imre "嘿哥们儿，关于今早，我-"
 
 # game/v2/v2.rpy:1394
 translate chineses history2_3ebb916e:
 
     # u "Imre, I just beat someone up."
-    u ""
+    u "伊姆雷，我刚把人揍了一顿。"
 
 # game/v2/v2.rpy:1399
 translate chineses history2_090822b7:
 
     # imre "Holy shit, was it Grayson?!"
-    imre ""
+    imre "天哪，是格雷森吗？！"
 
 # game/v2/v2.rpy:1404
 translate chineses history2_f060bafd:
 
     # u "Nah, his name's Tom, I think."
-    u ""
+    u "不是，我想他的名字是汤姆。"
 
 # game/v2/v2.rpy:1409
 translate chineses history2_3fb49481:
 
     # imre "What happened?"
-    imre ""
+    imre "发生了什么？"
 
 # game/v2/v2.rpy:1414
 translate chineses history2_84b92164:
 
     # u "I don't know, he walked by me on my way to meet with Lauren and just started to insult me."
-    u ""
+    u "我不知道，我当时正在去见劳伦的路上，他一见到我就开始污辱我。"
 
 # game/v2/v2.rpy:1419
 translate chineses history2_a0e2f480:
 
     # u "I don't know, he walked by me on my walk and just started to insult me."
-    u ""
+    u "我不知道，我当时正在散心，他一见到我就开始污辱我。"
 
 # game/v2/v2.rpy:1423
 translate chineses history2_4a842a59:
 
     # imre "So you just knocked him out?!"
-    imre ""
+    imre "那你就直接把他打晕了？！"
 
 # game/v2/v2.rpy:1428
 translate chineses history2_49d2f115:
 
     # u "I mean no, I just confronted him about it, he pushed me and next thing I know, we're fighting."
-    u ""
+    u "我没有，我只是上去跟他对质，他推了我一把之后，我们就打起来了。"
 
 # game/v2/v2.rpy:1430
 translate chineses history2_2782062a:
 
     # u "And then I just landed a couple good punches and suddenly he was laying on the floor bleeding."
-    u ""
+    u "而在那之后我只是打中了他几拳，他就立马躺在地上流血了。"
 
 # game/v2/v2.rpy:1435
 translate chineses history2_6db697b3:
 
     # imre "Holy shit, you're a natural, dude."
-    imre ""
+    imre "天哪，你是天生好手啊，哥们儿。"
 
 # game/v2/v2.rpy:1440
 translate chineses history2_04dfb653:
 
     # imre "Train with me. Just once. Just to see if you like it. Please."
-    imre ""
+    imre "跟我练。就一次。只是让你看看你是否喜欢。拜托了。"
 
 # game/v2/v2.rpy:1445
 translate chineses history2_221d8633:
 
     # u "Fine, I'll train with you. But just one time."
-    u ""
+    u "行，我就跟你练。不过就一次啊。"
 
 # game/v2/v2.rpy:1451
 translate chineses history2_481db6df:
 
     # imre "Dude, did you get beaten up again?! You look like shit!"
-    imre ""
+    imre "哥们儿，你怎么又挨打了？！你看上去太糟了！"
 
 # game/v2/v2.rpy:1456
 translate chineses history2_9461de7c:
 
     # imre "Was it another ape??? Tell me who, I'll fuck them up!"
-    imre ""
+    imre "又是一个人猿会的？？？告诉我他是谁，我去搞定他!"
 
 # game/v2/v2.rpy:1461
 translate chineses history2_0b224f7b:
 
     # u "Thanks.... and I don't know if he was an Ape, but he was also at the party and he started insulting me on my way to meet with Lauren."
-    u ""
+    u "谢了...我不知道他是不是人猿会的，但他也去了那场派对。我当时正在去见劳伦的路上，他一见到我就开始污辱我。"
 
 # game/v2/v2.rpy:1465
 translate chineses history2_a1446831:
 
     # u "Thanks... and I don't know if he was an Ape, but he was also at the party and he started insulting me on my walk."
-    u ""
+    u "谢了...我不知道他是不是人猿会的，但他也去了那场派对。我当时正在散心，他一见到我就开始污辱我。"
 
 # game/v2/v2.rpy:1469
 translate chineses history2_41b06290:
 
     # imre "What did you do?"
-    imre ""
+    imre "你做了什么？"
 
 # game/v2/v2.rpy:1474
 translate chineses history2_4a3906a5:
 
     # u "I confronted him, then he pushed me and then we started fighting."
-    u ""
+    u "我找他对质，他推了我一把之后，我们就打起来了。"
 
 # game/v2/v2.rpy:1479
 translate chineses history2_a9ab2f05:
 
     # u "And then he just landed a couple good punches and suddenly I was laying on the floor bleeding."
-    u ""
+    u "而在那之后他只是打中了我几拳，我就立马躺在地上流血了。"
 
 # game/v2/v2.rpy:1483
 translate chineses history2_87177349:
 
     # imre "Shit, man..."
-    imre ""
+    imre "糟糕，哥们儿..."
 
 # game/v2/v2.rpy:1488
 translate chineses history2_67fdbb98:
 
     # u "Honestly, maybe you're right and I do need to learn to defend myself."
-    u ""
+    u "老实说，也许你说得对。我确实需要学习自卫。"
 
 # game/v2/v2.rpy:1493
 translate chineses history2_35f3617a:
 
     # imre "Look, I'm gonna train tomorrow. Why don't you train with me?"
-    imre ""
+    imre "我明天回去训练。你要不跟我一起练？"
 
 # game/v2/v2.rpy:1498
 translate chineses history2_f51c0fc6:
 
     # u "Yeah, okay. Thanks Imre."
-    u ""
+    u "是啊，好。谢了伊姆雷。"
 
 # game/v2/v2.rpy:1504
 translate chineses history2_bb82ae35:
 
     # u "Imre, another guy tried to fight me today."
-    u ""
+    u "伊姆雷，今天又有一个家伙想打我。"
 
 # game/v2/v2.rpy:1509
 translate chineses history2_1edee191:
 
     # imre "Oh shit, what happened? Another Ape?"
-    imre ""
+    imre "哦糟糕，发生了什么？又是人猿会的？"
 
 # game/v2/v2.rpy:1514
 translate chineses history2_7e658a18:
 
     # u "I don't know if he was an Ape, but he was also at the party and he started insulting me on my way to meet with Lauren."
-    u ""
+    u "我不知道他是不是人猿会的，但他也去了那场派对。我当时正在去见劳伦的路上，他一见到我就开始污辱我。"
 
 # game/v2/v2.rpy:1519
 translate chineses history2_ae668939:
 
     # u "I don't know if he was an Ape, but he was also at the party and he started insulting me on my walk."
-    u ""
+    u "我不知道他是不是人猿会的，但他也去了那场派对。我当时正在散心，他一见到我就开始污辱我。"
 
 # game/v2/v2.rpy:1523
 translate chineses history2_41b06290_1:
 
     # imre "What did you do?"
-    imre ""
+    imre "我做了什么？"
 
 # game/v2/v2.rpy:1527
 translate chineses history2_5bbb8bca:
 
     # u "Well I didn't wanna get beaten up again, so I just walked away."
-    u ""
+    u "我不想又被挨打，所以我就走开了。"
 
 # game/v2/v2.rpy:1532
 translate chineses history2_240a40fe:
 
     # imre "Dude, if you keep this up, you're gonna get treated like crap."
-    imre ""
+    imre "哥们儿，如果你继续这样，你就会被人当成垃圾处理。"
 
 # game/v2/v2.rpy:1534
 translate chineses history2_35f3617a_1:
 
     # imre "Look, I'm gonna train tomorrow. Why don't you train with me?"
-    imre ""
+    imre "我明天回去训练。你要不跟我一起练？"
 
 # game/v2/v2.rpy:1539
 translate chineses history2_67dc0c9c:
 
     # u "Okay... I guess I'll try it."
-    u ""
+    u "好吧...我可以试一试。"
 
 # game/v2/v2.rpy:1545
 translate chineses nextsceneo_e025761d:
 
     # lee "Welcome to History 101, I'm Mr. Lee."
-    lee ""
+    lee "欢迎来上历史101课，我是李先生。"
 
 # game/v2/v2.rpy:1547
 translate chineses nextsceneo_58eff7c4:
 
     # lee "I know that some of you have put this class off for multiple years, while others of you are taking it in their first year."
-    lee ""
+    lee "我知道你们之中有的同学连续几年都没有选这么课，而也有同学第一年就选了。"
 
 # game/v2/v2.rpy:1551
 translate chineses nextsceneo_aaf1e329:
 
     # lee "Even though it is unfathomable to me how you could actively try to avoid the most exciting subject in the world..."
-    lee ""
+    lee "虽然说我很难理解为什么有人会故意的去尝试避免这个世界上最令人兴奋的科目。"
 
 # game/v2/v2.rpy:1553
 translate chineses nextsceneo_cba6747b:
 
     # lee "I guess there is something to be said about saving the best for last."
-    lee ""
+    lee "不过俗话说，最好的都是留到最后的。"
 
 # game/v2/v2.rpy:1558
 translate chineses nextsceneo_d818341c:
 
     # lee "So what is history?"
-    lee ""
+    lee "那么什么是历史？"
 
 # game/v2/v2.rpy:1563
 translate chineses nextsceneo_a6a56d8e:
 
     # lee "Many people believe that history is about analyzing and understanding the past."
-    lee ""
+    lee "很多人相信历史是用来分析和理解过去。"
 
 # game/v2/v2.rpy:1567
 translate chineses nextsceneo_dd2e8650:
 
     # lee "But it's quite the contrary."
-    lee ""
+    lee "但事实却完全相反。"
 
 # game/v2/v2.rpy:1571
 translate chineses nextsceneo_cc2072c5:
 
     # lee "History is looking to the future... but backwards."
-    lee ""
+    lee "历史是向前看的...不是向后。"
 
 # game/v2/v2.rpy:1575
 translate chineses nextsceneo_afc5bc9d:
 
     # imre "*Whispers* What is he talking about??"
-    imre ""
+    imre "*低声说*他在讲什么？？"
 
 # game/v2/v2.rpy:1580
 translate chineses nextsceneo_9c2212ed:
 
     # u "*Whispers* I don't know."
-    u ""
+    u "*低声说*我不知道。"
 
 # game/v2/v2.rpy:1585
 translate chineses nextsceneo_6d78d111:
 
     # lee "Over the course of this year, you're not just going to learn about history."
-    lee ""
+    lee "通过今年的课程，你不仅能够学习到历史。"
 
 # game/v2/v2.rpy:1587
 translate chineses nextsceneo_c503f017:
 
     # lee "You're going to live history, immerse yourself within it and understand what life was truly like in the past."
-    lee ""
+    lee "你将会进入历史里，完全沉浸其中，深刻理解到生活在过去是怎样的情形。"
 
 # game/v2/v2.rpy:1592
 translate chineses nextsceneo_e22c93f3:
 
     # ca "Yo teach, we get that you love the past, but don't you think the museum wants its shoes back?"
-    ca ""
+    ca "唷老师，我们知道你热爱过去，但你不认为博物馆会想要回他们的鞋吗？"
 
 # game/v2/v2.rpy:1597
 translate chineses nextsceneo_16ff9ca7:
 
     # "*Class laughing*"
-    ""
+    "*全班大笑*"
 
 # game/v2/v2.rpy:1602
 translate chineses nextsceneo_62f46205:
 
     # lee "What's your name, young man?"
-    lee ""
+    lee "你的名字什么，年轻人？"
 
 # game/v2/v2.rpy:1607
 translate chineses nextsceneo_95d19fd6:
 
     # ca "It's Cameron, teach."
-    ca ""
+    ca "是卡梅伦，老师。"
 
 # game/v2/v2.rpy:1612
 translate chineses nextsceneo_f2ba7212:
 
     # lee "Mr. Cameron, if clothing is what gets you to pay attention in this class, then I suggest you dress up as a historical character for our next lesson."
-    lee ""
+    lee "卡梅伦先生，如果这堂课能让你感兴趣的是衣服的话，那我建议你在下节课上穿着成一位历史人物。"
 
 # game/v2/v2.rpy:1613
 translate chineses nextsceneo_4b455ace:
 
     # lee "As a matter of fact, I insist you do."
-    lee ""
+    lee "事实上，我坚决要求你照做。"
 
 # game/v2/v2.rpy:1618
 translate chineses nextsceneo_53dd7c6c:
 
     # ca "Sure, but I'll steal the show."
-    ca ""
+    ca "可以，不过我会抢你风头的。"
 
 # game/v2/v2.rpy:1623
 translate chineses nextsceneo_d9fba3f7:
 
     # lee "Perhaps you're right. Everyone should be wearing historically accurate costumes for the next lecture."
-    lee ""
+    lee "也许你会。那么下节课上每人都要穿上与历史相符的服装。"
 
 # game/v2/v2.rpy:1625
 translate chineses nextsceneo_6b696c54:
 
     # "*Class confused*"
-    ""
+    "*全班迷茫*"
 
 # game/v2/v2.rpy:1627
 translate chineses nextsceneo_0cd07133:
 
     # lee "Come without costume and you've earned your first fail."
-    lee ""
+    lee "没有穿戏服来的就会不及格。"
 
 # game/v2/v2.rpy:1629
 translate chineses nextsceneo_99016d7b:
 
     # lee "You've got Mr. Cameron to thank for that."
-    lee ""
+    lee "你们都该感谢卡梅伦先生。"
 
 # game/v2/v2.rpy:1662
 translate chineses nextsceneo_c79f1d1b:
 
     # imre "I can't believe he's making us come in costume."
-    imre ""
+    imre "我不相信他竟然要我们穿戏服来上课。"
 
 # game/v2/v2.rpy:1667
 translate chineses nextsceneo_0c080a35:
 
     # u "Yeah, I don't even have anything I could wear. That's so annoying."
-    u ""
+    u "是啊，我一件可以穿的都没有。还真是烦人啊。"
 
 # game/v2/v2.rpy:1669
 translate chineses nextsceneo_f030f2ec:
 
     # u "Can we go to the mall later?"
-    u ""
+    u "要不我们待会儿去购物中心？"
 
 # game/v2/v2.rpy:1674
 translate chineses nextsceneo_414d72ea:
 
     # imre "Sorry man, I heard the girls' volleyball team is playing and I'm not gonna miss that."
-    imre ""
+    imre "抱歉啦哥们儿，我听说女子排球队待会儿要比赛，我不想错过了。"
 
 # game/v2/v2.rpy:1679
 translate chineses nextsceneo_518e3ddb:
 
     # u "I didn't know you were into volleyball."
-    u ""
+    u "我不知道你对排球这么有兴趣。"
 
 # game/v2/v2.rpy:1684
 translate chineses nextsceneo_9f78718a:
 
     # imre "Oh, I'm not."
-    imre ""
+    imre "哦我没有。"
 
 # game/v2/v2.rpy:1689
 translate chineses nextsceneo_bd395da8:
 
     # u "Then why are you-"
-    u ""
+    u "那你为什么-"
 
 # game/v2/v2.rpy:1691
 translate chineses nextsceneo_fdbce207:
 
     # u "Oh..."
-    u ""
+    u "哦..."
 
 # game/v2/v2.rpy:1696
 translate chineses nextsceneo_b5efee6a:
 
     # imre "Hot girls in shorts getting sweaty? What more could I ask for?"
-    imre ""
+    imre "穿着短裤的辣妹流着汗？我还能要求什么吗？"
 
 # game/v2/v2.rpy:1701
 translate chineses nextsceneo_b71da505:
 
     # u "Haha, you're impossible."
-    u ""
+    u "哈哈，你是不可理喻了。"
 
 # game/v2/v2.rpy:1706
 translate chineses nextsceneo_e8b5efc6:
 
     # imre "I got another class now, I'll see you later."
-    imre ""
+    imre "我要去上下一节课了，我们待会儿见。"
 
 # game/v2/v2.rpy:1711
 translate chineses nextsceneo_ab5d9ca9:
 
     # u "(Great... I guess it was only a matter of time 'til I saw Emily.)"
-    u ""
+    u "（这下好了...我想我迟早还是会遇上艾米丽的。）"
 
 # game/v2/v2.rpy:1716
 translate chineses nextsceneo_785e8da7:
 
     # em "[name]?"
-    em ""
+    em "[名字]？"
 
 # game/v2/v2.rpy:1721
 translate chineses nextsceneo_a6ce608d:
 
     # em "Oh my god, what happened to you?"
-    em ""
+    em "哦天哪，你出了什么事？"
 
 # game/v2/v2.rpy:1726
 translate chineses nextsceneo_31a4b2c1:
 
     # no "Looks like he got beaten up."
-    no ""
+    no "看起来他被揍了。"
 
 # game/v2/v2.rpy:1732
 translate chineses nextsceneo_ee9e9ff5:
 
     # u "I didn't-"
-    u ""
+    u "我没有-"
 
 # game/v2/v2.rpy:1737
 translate chineses nextsceneo_b63527db:
 
     # no "Wait, you're the same kid that hit on me a few days ago."
-    no ""
+    no "等等，你是几天前想泡我的那小子。"
 
 # game/v2/v2.rpy:1742
 translate chineses nextsceneo_99bd1ed9:
 
     # em "Charming."
-    em ""
+    em "迷人啊。"
 
 # game/v2/v2.rpy:1746
 translate chineses nextsceneo_28849dd3:
 
     # u "First of all, I was just telling you that you're cute."
-    u ""
+    u "首先，我只是在告诉你你长得可爱。"
 
 # game/v2/v2.rpy:1748
 translate chineses nextsceneo_e5214ea4:
 
     # u "Secondly, the guy who punched me came out of nowhere, it wasn't a fair fight."
-    u ""
+    u "其次，那人打了我一个措手不及，那不是场公平的对决。"
 
 # game/v2/v2.rpy:1754
 translate chineses nextsceneo_6682385f:
 
     # u "I- I didn't get beaten up, okay? A guy just punched me out of nowhere, it wasn't a fair fight."
-    u ""
+    u "我-我没有被揍，好吧？那人打了我一个措手不及，那不是场公平的对决。"
 
 # game/v2/v2.rpy:1759
 translate chineses nextsceneo_eb29b934:
 
     # em "You know, your eye looks pretty swollen. You really need to get that checked out."
-    em ""
+    em "你知道吗，你的眼睛肿得很厉害。你真的需要去检查一下。"
 
 # game/v2/v2.rpy:1764
 translate chineses nextsceneo_6fab6ecc:
 
     # u "It's fine."
-    u ""
+    u "我还行。"
 
 # game/v2/v2.rpy:1769
 translate chineses nextsceneo_38842db1:
 
     # em "I'll come with you if you want."
-    em ""
+    em "如果你愿意的话，我陪你去。"
 
 # game/v2/v2.rpy:1774
 translate chineses nextsceneo_0038c3f0:
 
     # u "Emily, we're not-"
-    u ""
+    u "艾米丽，我们不是-"
 
 # game/v2/v2.rpy:1779
 translate chineses nextsceneo_79913920:
 
     # no "Look, I'm sensing some weird energy between you two, so I'ma leave."
-    no ""
+    no "我感到你们俩之间好像有什么奇怪的能量，那我先走了。"
 
 # game/v2/v2.rpy:1781
 translate chineses nextsceneo_0fa411c5:
 
     # no "Bye Emily."
-    no ""
+    no "拜，艾米丽"
 
 # game/v2/v2.rpy:1786
 translate chineses nextsceneo_377de940:
 
     # no "Bye weirdo."
-    no ""
+    no "拜，古怪人。"
 
 # game/v2/v2.rpy:1791
 translate chineses nextsceneo_d1f7d7f9:
 
     # u "What? I didn't even-"
-    u ""
+    u "什么？我还没有-"
 
 # game/v2/v2.rpy:1793
 translate chineses nextsceneo_62b194d4:
 
     # em "I'll see you later, Nora."
-    em ""
+    em "我们待会儿见，诺拉。"
 
 # game/v2/v2.rpy:1798
 translate chineses nextsceneo_bba611ad:
 
     # em "Come on, let's-"
-    em ""
+    em "走吧，我们一起-"
 
 # game/v2/v2.rpy:1803
 translate chineses nextsceneo_24ff09d8:
 
     # u "Emily, we're not friends. You cheated on me."
-    u ""
+    u "艾米丽，我们不是朋友了。你把我绿了。"
 
 # game/v2/v2.rpy:1808
 translate chineses nextsceneo_fd20340e:
 
     # em "[name], I know I fucked up. I'm really sorry, okay?"
-    em ""
+    em "[名字]，我知道我搞砸了。我真的很抱歉，好吧？"
 
 # game/v2/v2.rpy:1810
 translate chineses nextsceneo_575b7098:
 
     # em "We hit a rough patch and I was drunk and..."
-    em ""
+    em "我们正处于低落时候而我当时又喝醉了..."
 
 # game/v2/v2.rpy:1812
 translate chineses nextsceneo_a0ba8469:
 
     # em "I just miss us. Even if it's just as friends."
-    em ""
+    em "我只是想念我们一起的时光。就算我们现在是朋友了。"
 
 # game/v2/v2.rpy:1814
 translate chineses nextsceneo_8607b0a7:
 
     # em "Can we please just hang out?"
-    em ""
+    em "我们还能够一起玩吗，拜托了？"
 
 # game/v2/v2.rpy:1824
 translate chineses nextsceneo_662a2cea:
 
     # u "Fine, let's go then."
-    u ""
+    u "行，那我们走吧。"
 
 # game/v2/v2.rpy:1829
 translate chineses nextsceneo_baed0d4e:
 
     # em "Really? Where do you wanna go?"
-    em ""
+    em "真的？你想去哪儿？"
 
 # game/v2/v2.rpy:1834
 translate chineses nextsceneo_19d7ccb8:
 
     # u "I thought we're going to the doctor's office? Or are you gonna tell me that your concern was merely an attempt to hang out with me?"
-    u ""
+    u "我以为我们要去医务室？又或者说你对我的关心只是为了要跟我一起玩？"
 
 # game/v2/v2.rpy:1839
 translate chineses nextsceneo_03d5e79a:
 
     # em "Right, of course not. Let's go."
-    em ""
+    em "对，当然不是啦。我们走吧。"
 
 # game/v2/v2.rpy:1851
 translate chineses nextsceneo_b100c2df:
 
     # u "No Emily."
-    u ""
+    u "不，艾米丽。"
 
 # game/v2/v2.rpy:1856
 translate chineses nextsceneo_de194e89:
 
     # u "I can't just forgive you like that. You don't know what you put me through."
-    u ""
+    u "我还不能就这样宽恕你。你不知道你对我的伤害有多深。"
 
 # game/v2/v2.rpy:1861
 translate chineses nextsceneo_512d53f3:
 
     # em "Oh..."
-    em ""
+    em "哦..."
 
 # game/v2/v2.rpy:1863
 translate chineses nextsceneo_cc8c1e8a:
 
     # em "I'll go then..."
-    em ""
+    em "那我先走了..."
 
 # game/v2/v2.rpy:1868
 translate chineses nextsceneo_83e9361f:
 
     # u "Goodbye, Emily."
-    u ""
+    u "再见，艾米丽。"
 
 # game/v2/v2.rpy:1887
 translate chineses bo_ad_867d6873:
 
     # em "Sooo... did you text your new girlfriend that you're hanging out with your ex?"
-    em ""
+    em "那...你有没有发短信给你的新女友告诉她你现在跟你的前女友在一起？"
 
 # game/v2/v2.rpy:1897
 translate chineses bo_ad_912bf9be:
 
     # u "Yeah, of course I did. I tell her everything."
-    u ""
+    u "是的，我当然有。我告诉他我的一切。"
 
 # game/v2/v2.rpy:1903
 translate chineses bo_ad_821b0bf4:
 
     # em "Oh... okay. That's- that's good. You should tell her stuff like this."
-    em ""
+    em "哦...好。那是-那是正确的。你应该告诉她这些事。"
 
 # game/v2/v2.rpy:1909
 translate chineses bo_ad_cc8c914a:
 
     # u "*Laughs* Emily, I'm kidding. I'm still single, I mean we only broke up a couple months ago."
-    u ""
+    u "*嘲笑*艾米丽，我开玩笑的。我还是单身，我的意思是我们才分开了几个月。"
 
 # game/v2/v2.rpy:1915
 translate chineses bo_ad_0650d652:
 
     # em "[name], you gotta stop messing with me, haha."
-    em ""
+    em "[名字]，你别再逗我玩啦，哈哈。"
 
 # game/v2/v2.rpy:1921
 translate chineses bo_ad_5bba2ef7:
 
     # u "Oh come on, don't act like you didn't miss this."
-    u ""
+    u "哦得了吧，别做得好象你没有想念这些。"
 
 # game/v2/v2.rpy:1927
 translate chineses bo_ad_120a757f:
 
     # em "Maybe a little bit."
-    em ""
+    em "也许有一点啦。"
 
 # game/v2/v2.rpy:1936
 translate chineses bo_ad_b9fed6b2:
 
     # u "Believe it or not, I'm still single."
-    u ""
+    u "信或不信，我还是单身。"
 
 # game/v2/v2.rpy:1942
 translate chineses bo_ad_799fe8d0:
 
     # u "I mean we only broke up a couple months ago."
-    u ""
+    u "我的意思是我们才分开了几个月。"
 
 # game/v2/v2.rpy:1948
 translate chineses bo_ad_4d82ac42:
 
     # em "I guess you're right. I was just... you know, curious."
-    em ""
+    em "我想你是对的。我只是...你知道的，好奇。"
 
 # game/v2/v2.rpy:1956
 translate chineses bp_bd_486ea320:
 
     # u "Hey, you remember the time you had your wisdom teeth pulled out and you looked like a hamster for 2 weeks straight?"
-    u ""
+    u "嘿，你记得那次你拔智齿的时候吗？你有2个星期看起来就像只仓鼠一样？"
 
 # game/v2/v2.rpy:1962
 translate chineses bp_bd_10706cd3:
 
     # em "Are you ever gonna stop bringing that up?"
-    em ""
+    em "你什么时候才会停止提那事儿啊？"
 
 # game/v2/v2.rpy:1973
 translate chineses bp_bd_57723b9c:
 
     # u "No way, you looked so adorable."
-    u ""
+    u "没可能，我看上去太可爱了。"
 
 # game/v2/v2.rpy:1978
 translate chineses bp_bd_9f281ce2:
 
     # em "What was adorable was how much you cared for me. I remember you bringing me a care package full of like a hundred different soups."
-    em ""
+    em "太可爱的是你对我的悉心照顾。我记得你带给了我一包各式各样的汤。"
 
 # game/v2/v2.rpy:1980
 translate chineses bp_bd_fa12b88a:
 
     # em "It was so thoughtful."
-    em ""
+    em "你考虑得真周到。"
 
 # game/v2/v2.rpy:1989
 translate chineses bp_bd_b6576c73:
 
     # u "It was sooo funny though."
-    u ""
+    u "但那好搞笑啊。"
 
 # game/v2/v2.rpy:1995
 translate chineses bp_bd_78255f88:
 
     # em "You're the one to talk, your face is literally swollen up right now."
-    em ""
+    em "你还说呢，你的脸现在就是肿起来了。"
 
 # game/v2/v2.rpy:2001
 translate chineses bp_bd_4fc8d054:
 
     # u "It's not my whole face, it's just my eye."
-    u ""
+    u "不是我整张脸，只是我的眼睛。"
 
 # game/v2/v2.rpy:2003
 translate chineses bp_bd_8745972f:
 
     # u "Plus, it looks badass."
-    u ""
+    u "而且，这样看上去坏坏的"
 
 # game/v2/v2.rpy:2009
 translate chineses bp_bd_5c5b73f9:
 
     # em "Haha, I'm not sure who told you that."
-    em ""
+    em "哈哈，我不清楚谁告诉你的。"
 
 # game/v2/v2.rpy:2020
 translate chineses bq_bd_b2bcac73:
 
     # u "Shit, we gotta get off at this stop."
-    u ""
+    u "糟，我们得在这里下车了。"
 
 # game/v2/v2.rpy:2029
 translate chineses bq_bd_77d533cc:
 
     # u "Hey there, you accept walk-ins right?"
-    u ""
+    u "嘿，你们接受未预约门诊吗？"
 
 # game/v2/v2.rpy:2031
 translate chineses bq_bd_7e133080:
 
     # u "I need someone to look at my eye."
-    u ""
+    u "我需要医生帮我看看我的眼睛。"
 
 # game/v2/v2.rpy:2036
 translate chineses bq_bd_eb6699a4:
 
     # ben "Yeah, sure thing. Fill out these forms and then take a seat in the waiting room and I'll let you know when Dr. Ehrmantraut can slot you in."
-    ben ""
+    ben "是的，当然。把这些表格填了之后找个座位在候诊室等。埃曼特劳特医生可以见你的时候我会通知你的。"
 
 # game/v2/v2.rpy:2041
 translate chineses bq_bd_b822ede1:
 
     # em "Hey, I've seen you before, you went to school with my sister."
-    em ""
+    em "嘿，我以前见过你，你跟我的姐姐上一所学校。"
 
 # game/v2/v2.rpy:2043
 translate chineses bq_bd_65f217b4:
 
     # em "Benjamin, right?"
-    em ""
+    em "本杰明，对吧？"
 
 # game/v2/v2.rpy:2048
 translate chineses bq_bd_1ce47e7b:
 
     # ben "Oh, I remember. You're Hannah's sister."
-    ben ""
+    ben "哦，我想起了，你是汉娜的妹妹。"
 
 # game/v2/v2.rpy:2053
 translate chineses bq_bd_43ceef73:
 
     # em "Didn't you wanna become a lawyer?"
-    em ""
+    em "你不是想成为一名律师吗？"
 
 # game/v2/v2.rpy:2058
 translate chineses bq_bd_6a1ac90c:
 
     # ben "I mean yeah, but technically - I didn't get into law school."
-    ben ""
+    ben "我想说是，不过事实上说- 我没有考进法律学院。"
 
 # game/v2/v2.rpy:2063
 translate chineses bq_bd_56bfd909:
 
     # ben "But this is actually a really good job, you know."
-    ben ""
+    ben "你知道吗，但这其实是一个很不错的工作。"
 
 # game/v2/v2.rpy:2065
 translate chineses bq_bd_5c90378d:
 
     # ben "It pays well. And I get benefits. Dental benefits."
-    ben ""
+    ben "工资高，还有福利，牙科福利哟。"
 
 # game/v2/v2.rpy:2067
 translate chineses bq_bd_4e2c3912:
 
     # ben "So really, dream job."
-    ben ""
+    ben "真正的梦寐以求的工作。"
 
 # game/v2/v2.rpy:2072
 translate chineses bq_bd_77cd096f:
 
     # em "Well, I'm glad you found something you like."
-    em ""
+    em "我很高兴你找到了你喜欢的。"
 
 # game/v2/v2.rpy:2077
 translate chineses bq_bd_6239ec8d:
 
     # em "Okay, I'm gonna go sit down in the waiting room while you fill out your forms."
-    em ""
+    em "好，我先去候诊室坐下等你把表格填完。"
 
 # game/v2/v2.rpy:2082
 translate chineses bq_bd_c5a76bd8:
 
     # u "Cool, I'll be done in a second."
-    u ""
+    u "行，我很快就好。"
 
 # game/v2/v2.rpy:2089
 translate chineses bq_bd_942ae5fc:
 
     # ben "So uhhh, are you hitting that, or can a bro make a move?"
-    ben ""
+    ben "那个呃，你是在泡她，又或者兄弟我也能去泡？"
 
 # game/v2/v2.rpy:2094
 translate chineses bq_bd_983a6c7c:
 
     # ben "You know, even if you are hitting that... I'm totally fine with like a dual type of arrangement."
-    ben ""
+    ben "你知道，就算你在泡她...我也完全可以接受一种三人的安排。"
 
 # game/v2/v2.rpy:2099
 translate chineses bq_bd_be666bc9:
 
     # u "Dude... aren't you like 30 or something?"
-    u ""
+    u "哥们儿...你不是都奔30了吧？"
 
 # game/v2/v2.rpy:2104
 translate chineses bq_bd_0a03aa80:
 
     # ben "What? I'm 24."
-    ben ""
+    ben "什么？我才24。"
 
 # game/v2/v2.rpy:2118
 translate chineses bq_bd_d2c46c7b:
 
     # u "Sure, knock yourself out, man. We're not an item."
-    u ""
+    u "当然，随你便，哥们儿。我们不是一起的。"
 
 # game/v2/v2.rpy:2123
 translate chineses bq_bd_e5de44d4:
 
     # ben "Thanks, bro! I'll think of you when I'm doing her."
-    ben ""
+    ben "谢了，兄弟！在我上她的时候我会感念你的。"
 
 # game/v2/v2.rpy:2128
 translate chineses bq_bd_7a9562a5:
 
     # u "Please don't..."
-    u ""
+    u "请别..."
 
 # game/v2/v2.rpy:2137
 translate chineses bq_bd_1051b39e:
 
     # u "Just - just stay away from her, okay?"
-    u ""
+    u "别 - 别靠近她，了解吗？"
 
 # game/v2/v2.rpy:2142
 translate chineses bq_bd_3afbede2:
 
     # ben "Fine, bro. Sorry for asking."
-    ben ""
+    ben "行，兄弟。抱歉我问了这些。"
 
 # game/v2/v2.rpy:2148
 translate chineses br_bd_69668e67:
 
     # em "All done with the forms?"
-    em ""
+    em "表格都填完了？"
 
 # game/v2/v2.rpy:2158
 translate chineses br_bd_e38ea10b:
