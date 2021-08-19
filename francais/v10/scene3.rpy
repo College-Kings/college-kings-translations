@@ -40,13 +40,13 @@ translate empty v10_imre_vs_caleb_a6dae17e:
 translate empty v10_imre_vs_caleb_ce31a117:
 
     # cal "I don't think I can do this. I feel... sick."
-    cal "Je ne pense pas pouvoir faire ?a. Je me sens...malade."
+    cal "Je ne pense pas pouvoir faire ça. Je me sens...malade."
 
 # game/v10/scene3.rpy:43
 translate empty v10_imre_vs_caleb_10c3f2fc:
 
     # gr "Aww fuck, man. None of that shit! Suck it up and get in that ring!"
-    gr "Ooh Putain, mec. Rien de cette merde ! Suce-le et monte dans ce ring !"
+    gr "Ooh Putain, mec. T'est pas malade ! Reprend toi et monte dans ce ring !"
 
 # game/v10/scene3.rpy:52
 translate empty v10_imre_vs_caleb_861a4707:
