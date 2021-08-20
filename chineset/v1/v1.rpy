@@ -1,244 +1,244 @@
-﻿# TODO: Translation updated at 2021-07-07 09:05
+# TODO: Translation updated at 2021-07-07 09:05
 
 # game/v1/v1.rpy:46
 translate chineset starta_cf384216:
 
     # em "I know what I did was bad..."
-    em ""
+    em "我知道我做了些壞事......"
 
 # game/v1/v1.rpy:48
 translate chineset starta_64fd2540:
 
     # em "But I'll do anything to make it up to you."
-    em ""
+    em "但我會做任何事情來補償你。"
 
 # game/v1/v1.rpy:53
 translate chineset starta_bf767b85:
 
     # em "Anything."
-    em ""
+    em "任何事情"
 
 # game/v1/v1.rpy:61
 translate chineset starta_a412f2c0:
 
     # "Honey?"
-    ""
+    "甜心?"
 
 # game/v1/v1.rpy:71
 translate chineset starta_b3630c9b:
 
     # u "Hmm...?"
-    u ""
+    u "阿...?"
 
 # game/v1/v1.rpy:76
 translate chineset starta_d8f49870:
 
     # ju "Breakfast is ready!"
-    ju ""
+    ju "早餐準備好了!"
 
 # game/v1/v1.rpy:81
 translate chineset starta_d1bbd257:
 
     # u "Mhmm... I'll be right down."
-    u ""
+    u "阿... 我會下去的"
 
 # game/v1/v1.rpy:82
 translate chineset starta_e1ee75ad:
 
     # u "(What am I doing dreaming about Emily?!)"
-    u ""
+    u "(我到底為何會夢到艾蜜莉?!)"
 
 # game/v1/v1.rpy:88
 translate chineset starta_b74833d7:
 
     # ju "Good morning, honey."
-    ju ""
+    ju "早晨, 甜心."
 
 # game/v1/v1.rpy:93
 translate chineset starta_b997b913:
 
     # u "Morning, Julia."
-    u ""
+    u "早上好, 朱莉婭."
 
 # game/v1/v1.rpy:98
 translate chineset starta_6de07b52:
 
     # ju "Are you excited for today?"
-    ju ""
+    ju "你為今天感到興奮嗎？"
 
 # game/v1/v1.rpy:103
 translate chineset starta_4331151b:
 
     # u "Excited?"
-    u ""
+    u "興奮?"
 
 # game/v1/v1.rpy:108
 translate chineset starta_92971eae:
 
     # ju "Honey, it's your first day of college. That's a big deal!"
-    ju ""
+    ju "甜心, 這是你大學的第一天. 這是一個很重要的事!"
 
 # game/v1/v1.rpy:113
 translate chineset starta_8f620671:
 
     # u "I guess you're right."
-    u ""
+    u "我想你是對的。"
 
 # game/v1/v1.rpy:117
 translate chineset starta_2eccb6f0:
 
     # ju "Have you packed all your stuff? Have you printed out all the documents you need? Have you-"
-    ju ""
+    ju "你準備好了所有的東西嗎? 您是否打印了所需的所有文件? 你-"
 
 # game/v1/v1.rpy:123
 translate chineset starta_d6c07c0e:
 
     # u "Julia, it's fine. I packed yesterday."
-    u ""
+    u "朱莉婭, 沒關係. 我昨天都準備好了。"
 
 # game/v1/v1.rpy:127
 translate chineset starta_82219ef8:
 
     # ju "Look at you, all grown-up. I'm so proud of you."
-    ju ""
+    ju "看看你, 終於成為大人了, 我為你感到驕傲。"
 
 # game/v1/v1.rpy:132
 translate chineset starta_52918fb3:
 
     # ju "You better not forget to come visit."
-    ju ""
+    ju "你最好不要忘記來探望我。"
 
 # game/v1/v1.rpy:133
 translate chineset starta_82cfc32d:
 
     # u "I'll think about it, if you make lasagna."
-    u ""
+    u "如果你會準備好千層面的話, 我會考慮一下。"
 
 # game/v1/v1.rpy:138
 translate chineset starta_038be2bb:
 
     # ju "I'm sure that could be arranged."
-    ju ""
+    ju "我肯定這可以安排一下的。"
 
 # game/v1/v1.rpy:140
 translate chineset starta_73181c8a:
 
     # ju "Anyway, we should get ready, you don't wanna be late on your first day of college!"
-    ju ""
+    ju "無論如何, 我們應該準備好, 你不想在大學的第一天就遲到！"
 
 # game/v1/v1.rpy:145
 translate chineset starta_2622622a:
 
     # u "Oh you're dropping me off? I was gonna take the train."
-    u ""
+    u "阿，你要送我去嗎? 我本來打算要坐火車的。"
 
 # game/v1/v1.rpy:150
 translate chineset starta_687c0a29:
 
     # ju "No way you're robbing me of the chance to embarrass you in front of your new friends."
-    ju ""
+    ju "我不會讓你搶走令你在新朋友面前尷尬的機會的。"
 
 # game/v1/v1.rpy:155
 translate chineset starta_0d074dd4:
 
     # u "Thanks, Julia... I'll be 20 minutes."
-    u ""
+    u "謝謝，朱莉婭......我20分鐘後就會準備好。"
 
 # game/v1/v1.rpy:160
 translate chineset starta_9a77e500:
 
     # u "(I better not lose this bag, Julia loves it.)"
-    u ""
+    u "（我最好不要掉失這個行李箱，朱莉婭很喜歡它。）"
 
 # game/v1/v1.rpy:164
 translate chineset starta_8bdb5ed3:
 
     # u "(Huh?)"
-    u ""
+    u "（咦？）"
 
 # game/v1/v1.rpy:179
 translate chineset starta_360e66fc:
 
     # u "(Fuck, I really don't want to see her again after what happened.\nHopefully I can avoid her as much as possible.)"
-    u ""
+    u "靠, 他媽的，自從那件事後我真的不想再次見到她。\n希望我能盡量避免見到她。）"
 
 # game/v1/v1.rpy:186
 translate chineset starta_2dac9d0e:
 
     # ju "You know, when I was in college, there were these fraternities and sororities that everyone wanted to join."
-    ju ""
+    ju "你知道嗎，當我還在大學時，每個人都想加入那些兄弟會和姐妹會。"
 
 # game/v1/v1.rpy:188
 translate chineset starta_ed7737e5:
 
     # ju "I always thought they were stupid. Binge drinking, idiotic challenges and fighting..."
-    ju ""
+    ju "我一直以為他們是笨蛋的。 喝到爛醉，愚蠢的所謂挑戰和打鬥......"
 
 # game/v1/v1.rpy:194
 translate chineset starta_ee490b9d:
 
     # u "Mhm...."
-    u ""
+    u "嗯...."
 
 # game/v1/v1.rpy:200
 translate chineset starta_c90fe374:
 
     # ju "You're not planning on joining one of those, are you?"
-    ju ""
+    ju "你應該不會打算加入他們其中之一吧, 對嗎?"
 
 # game/v1/v1.rpy:210
 translate chineset starta_5103a9b9:
 
     # u "I don't know... it might be fun."
-    u ""
+    u "我不知道... 這可能會很有趣。"
 
 # game/v1/v1.rpy:218
 translate chineset starta_159d4a13:
 
     # u "No, I don't think so, Julia."
-    u ""
+    u "不，我不這麼認為，朱莉婭。"
 
 # game/v1/v1.rpy:229
 translate chineset aa_db_befaf879:
 
     # ju "Fraternities can be dangerous, honey."
-    ju ""
+    ju "兄弟會可以是十分危險的, 甜心。"
 
 # game/v1/v1.rpy:235
 translate chineset aa_db_df08ccc0:
 
     # ju "My boyfriend in college almost got suspended because he had to steal one of the lecturer's underwear."
-    ju ""
+    ju "我在大學的男友曾經因為要去偷講師的內衣而差點要被停學"
 
 # game/v1/v1.rpy:241
 translate chineset aa_db_8569c4fa:
 
     # u "*Chuckles*"
-    u ""
+    u "*抿嘴笑*"
 
 # game/v1/v1.rpy:247
 translate chineset aa_db_c87a6833:
 
     # ju "Believe me, it's not as fun as it sounds."
-    ju ""
+    ju "相信我, 這一點都不有趣"
 
 # game/v1/v1.rpy:253
 translate chineset aa_db_6e9b7094:
 
     # u "Relax, Julia. Over the last couple years colleges have become a lot stricter."
-    u ""
+    u "放鬆，朱莉婭。 在過去的幾年裡，大學已經變得更嚴格。"
 
 # game/v1/v1.rpy:255
 translate chineset aa_db_25342ddd:
 
     # u "I doubt stuff like that happens anymore."
-    u ""
+    u "我懷疑這些事會繼續發生"
 
 # game/v1/v1.rpy:261
 translate chineset aa_db_2ad87597:
 
     # ju "Well, that would be a relief."
-    ju ""
+    ju "好吧，這將是一個解脫。"
 
 # game/v1/v1.rpy:267
 translate chineset aa_db_3a3a8c6d:
