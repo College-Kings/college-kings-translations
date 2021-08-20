@@ -1,198 +1,198 @@
-﻿# TODO: Translation updated at 2021-07-07 09:06
+# TODO: Translation updated at 2021-07-07 09:06
 
 translate chineset strings:
 
     # renpy/common/00accessibility.rpy:28
     old "Self-voicing disabled."
-    new ""
+    new "自發聲禁用"
 
     # renpy/common/00accessibility.rpy:29
     old "Clipboard voicing enabled. "
-    new ""
+    new "啟用剪貼板語聲"
 
     # renpy/common/00accessibility.rpy:30
     old "Self-voicing enabled. "
-    new ""
+    new "自發聲開啟"
 
     # renpy/common/00accessibility.rpy:32
     old "bar"
-    new ""
+    new "bar"
 
     # renpy/common/00accessibility.rpy:33
     old "selected"
-    new ""
+    new "已選擇"
 
     # renpy/common/00accessibility.rpy:34
     old "viewport"
-    new ""
+    new "視角"
 
     # renpy/common/00accessibility.rpy:35
     old "horizontal scroll"
-    new ""
+    new "水平捲軸"
 
     # renpy/common/00accessibility.rpy:36
     old "vertical scroll"
-    new ""
+    new "垂直捲軸"
 
     # renpy/common/00accessibility.rpy:37
     old "activate"
-    new ""
+    new "啟動"
 
     # renpy/common/00accessibility.rpy:38
     old "deactivate"
-    new ""
+    new "停用"
 
     # renpy/common/00accessibility.rpy:39
     old "increase"
-    new ""
+    new "增加"
 
     # renpy/common/00accessibility.rpy:40
     old "decrease"
-    new ""
+    new "減少"
 
     # renpy/common/00accessibility.rpy:128
     old "Font Override"
-    new ""
+    new "字型取代"
 
     # renpy/common/00accessibility.rpy:132
     old "Default"
-    new ""
+    new "預設"
 
     # renpy/common/00accessibility.rpy:136
     old "DejaVu Sans"
-    new ""
+    new "DejaVu字型"
 
     # renpy/common/00accessibility.rpy:140
     old "Opendyslexic"
-    new ""
+    new "Opendyslexic字型""
 
     # renpy/common/00accessibility.rpy:146
     old "Text Size Scaling"
-    new ""
+    new "文本大小縮放"
 
     # renpy/common/00accessibility.rpy:152
     old "Reset"
-    new ""
+    new "重設"
 
     # renpy/common/00accessibility.rpy:158
     old "Line Spacing Scaling"
-    new ""
+    new "線間距縮放"
 
     # renpy/common/00accessibility.rpy:171
     old "Self-Voicing"
-    new ""
+    new "自發聲"
 
     # renpy/common/00accessibility.rpy:175
     old "Off"
-    new ""
+    new "關閉"
 
     # renpy/common/00accessibility.rpy:179
     old "Text-to-speech"
-    new ""
+    new "文字轉語音"
 
     # renpy/common/00accessibility.rpy:183
     old "Clipboard"
-    new ""
+    new "剪貼板"
 
     # renpy/common/00accessibility.rpy:187
     old "Debug"
-    new ""
+    new "除錯"
 
     # renpy/common/00accessibility.rpy:193
     old "Self-Voicing Volume Drop"
-    new ""
+    new "自發聲聲音下降"
 
     # renpy/common/00accessibility.rpy:202
     old "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was."
-    new ""
+    new "此菜單上的選項旨在提高可訪問性。他們可能無法令所有遊戲運行，並且某些選項組合可能會使遊戲無法遊玩。但這不是遊戲或引擎的問題。為達到更改字體時的最佳結果，請嘗試將文本大小保持與預設值相同。"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Monday"
-    new ""
+    new "{#weekday}星期一"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Tuesday"
-    new ""
+    new "{#weekday}星期二"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Wednesday"
-    new ""
+    new "{#weekday}星期三"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Thursday"
-    new ""
+    new "{#weekday}星期四"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Friday"
-    new ""
+    new "{#weekday}星期五"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Saturday"
-    new ""
+    new "{#weekday}星期六"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Sunday"
-    new ""
+    new "{#weekday}星期日"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Mon"
-    new ""
+    new "{#weekday_short}Mon"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Tue"
-    new ""
+    new "{#weekday_short}Tue"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Wed"
-    new ""
+    new "{#weekday_short}Wed"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Thu"
-    new ""
+    new "{#weekday_short}Thu"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Fri"
-    new ""
+    new "{#weekday_short}Fri"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Sat"
-    new ""
+    new "{#weekday_short}Sat"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Sun"
-    new ""
+    new "{#weekday_short}Sun"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}January"
-    new ""
+    new "{#month}一月"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}February"
-    new ""
+    new "{#month}二月"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}March"
-    new ""
+    new "{#month}三月"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}April"
-    new ""
+    new "{#month}四月"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}May"
-    new ""
+    new "{#month}五月"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}June"
-    new ""
+    new "{#month}六月"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}July"
-    new ""
+    new "{#month}七月"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}August"
-    new ""
+    new "{#month}八月"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}September"
