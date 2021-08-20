@@ -43,9 +43,9 @@
 ### chineses (Simplified Chinese)
 Progress | ?/all | Who is working on it? | Proofreading | Who is proofreading?
 -------- | -------- | --------- | --------- | ---------
-non script files | 0/6 | - | [ ] | -
-v01.rpy | 0/5225 | - | [ ] | -
-v02.rpy | 0/4221 | - | [ ] | -
+non script files | 3/6 | Mycelle | [ ] | -
+v01.rpy | 5225/5225 | Mycelle | [ ] | -
+v02.rpy | 3829/4221 | Mycelle | [ ] | -
 v03.rpy | 0/3636 | - | [ ] | -
 v04.rpy | 0/3227 | - | [ ] | -
 v05.rpy | 0/3498 | - | [ ] | -
