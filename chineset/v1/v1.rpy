@@ -22,7 +22,7 @@ translate chineset starta_bf767b85:
 translate chineset starta_a412f2c0:
 
     # "Honey?"
-    "甜心?"
+    "親愛的?"
 
 # game/v1/v1.rpy:71
 translate chineset starta_b3630c9b:
@@ -52,7 +52,7 @@ translate chineset starta_e1ee75ad:
 translate chineset starta_b74833d7:
 
     # ju "Good morning, honey."
-    ju "早晨, 甜心."
+    ju "早晨, 親愛的."
 
 # game/v1/v1.rpy:93
 translate chineset starta_b997b913:
@@ -202,7 +202,7 @@ translate chineset starta_159d4a13:
 translate chineset aa_db_befaf879:
 
     # ju "Fraternities can be dangerous, honey."
-    ju "兄弟會可以是十分危險的, 甜心。"
+    ju "兄弟會可以是十分危險的, 親愛的。"
 
 # game/v1/v1.rpy:235
 translate chineset aa_db_df08ccc0:
@@ -244,49 +244,49 @@ translate chineset aa_db_2ad87597:
 translate chineset aa_db_3a3a8c6d:
 
     # ju "Anyways..."
-    ju ""
+    ju "對了..."
 
 # game/v1/v1.rpy:273
 translate chineset aa_db_f6ae9cf3:
 
     # ju "Sophia told me that Josh is also going to San Vallejo."
-    ju ""
+    ju "索菲亞告訴我喬希也要去聖瓦列霍。"
 
 # game/v1/v1.rpy:279
 translate chineset aa_db_84ee60dd:
 
     # u "You hang out with Josh's mom?"
-    u ""
+    u "你和喬希的媽媽一起出去玩的？"
 
 # game/v1/v1.rpy:285
 translate chineset aa_db_b9d51565:
 
     # ju "We go to the same nail salon."
-    ju ""
+    ju "我們去同一間美甲店。"
 
 # game/v1/v1.rpy:291
 translate chineset aa_db_7c46af54:
 
     # u "Whatever... me and Josh haven't really talked much lately."
-    u ""
+    u "無論如何……我和喬希最近都沒怎麼說話。"
 
 # game/v1/v1.rpy:293
 translate chineset aa_db_a8f5f219:
 
     # u "(I wonder if he's still dealing...)"
-    u ""
+    u "(我好奇他是否還在做那種買賣...)"
 
 # game/v1/v1.rpy:297
 translate chineset aa_db_451db5d3:
 
     # car "*stops*"
-    car ""
+    car "*停靠*"
 
 # game/v1/v1.rpy:302
 translate chineset aa_db_9dc40050:
 
     # ju "Well, this is it. San Vallejo College."
-    ju ""
+    ju "嗯，是這裡了。 聖瓦列霍學院。"
 
 # game/v1/v1.rpy:307
 translate chineset aa_db_9ea2f78c:
@@ -298,13 +298,13 @@ translate chineset aa_db_9ea2f78c:
 translate chineset aa_db_820fdfac:
 
     # u "Alright, let me grab my bag and I'm ready."
-    u ""
+    u "好，先讓我拿起我的包,我就準備好了。"
 
 # game/v1/v1.rpy:319
 translate chineset aa_db_f779ad4d:
 
     # ju "Don't worry, I'll get it for you, honey."
-    ju ""
+    ju "不用擔心, 我幫你拿, 親愛的。"
 
 # game/v1/v1.rpy:326
 translate chineset aa_db_9ea2f78c_1:
@@ -316,55 +316,55 @@ translate chineset aa_db_9ea2f78c_1:
 translate chineset aa_db_f3a5d6c9:
 
     # ju "Here you go."
-    ju ""
+    ju "給你。"
 
 # game/v1/v1.rpy:336
 translate chineset aa_db_66f145da:
 
     # u "Thanks, Julia."
-    u ""
+    u "謝謝你, 朱莉婭。"
 
 # game/v1/v1.rpy:341
 translate chineset aa_db_0e946d2c:
 
     # ju "Enjoy college, honey."
-    ju ""
+    ju "享受大學時光，親愛的。"
 
 # game/v1/v1.rpy:343
 translate chineset aa_db_8d7d5d1f:
 
     # ju "Don't forget to visit me."
-    ju ""
+    ju "別忘了來看我。"
 
 # game/v1/v1.rpy:348
 translate chineset aa_db_773e230c:
 
     # u "I won't, I'll see you soon."
-    u ""
+    u "我不會忘的，我很快就會來看你。"
 
 # game/v1/v1.rpy:353
 translate chineset aa_db_d8da752f:
 
     # u "(Holy shit. I'm actually a college freshman now.)"
-    u ""
+    u "（天哪。我現在真的是一名大學新生。）"
 
 # game/v1/v1.rpy:355
 translate chineset aa_db_b4109eb1:
 
     # u "(And already... so many hot girls.)"
-    u ""
+    u "（而且已經......這麼多辣妹。）"
 
 # game/v1/v1.rpy:360
 translate chineset aa_db_feb36aee:
 
     # ca "I'm telling you, she was trying to suck me off, while I was taking a shit."
-    ca ""
+    ca "我告訴你，當我拉屎的時候，她想吸我的屌。"
 
 # game/v1/v1.rpy:364
 translate chineset aa_db_28d3f7bb:
 
     # ma "Dude, that's my sister you're talking about!"
-    ma ""
+    ma "兄弟，你在說的就是我姐姐啊！"
 
 # game/v1/v1.rpy:371
 translate chineset aa_db_9ea2f78c_2:
@@ -376,463 +376,463 @@ translate chineset aa_db_9ea2f78c_2:
 translate chineset aa_db_0f21bb45:
 
     # ca "Yo, watch where you're fucking walking, bitch!"
-    ca ""
+    ca "喲，你沒長眼睛嗎，婊子！"
 
 # game/v1/v1.rpy:383
 translate chineset aa_db_885cc755:
 
     # u "Sorry man, I didn't mean to..."
-    u ""
+    u "對不起，我不是故意的……”"
 
 # game/v1/v1.rpy:388
 translate chineset aa_db_d8df67ba:
 
     # ca "Fuck you, if you want a fucking problem, I'll give you a fucking problem!"
-    ca ""
+    ca "屌你老母，如果你想要找他媽的麻煩，我就給你個他媽的麻煩！"
 
 # game/v1/v1.rpy:393
 translate chineset aa_db_1b57ce3e:
 
     # aut "Leave him alone Cameron."
-    aut ""
+    aut "放開他,卡梅倫。"
 
 # game/v1/v1.rpy:395
 translate chineset aa_db_304c6a63:
 
     # aut "Otherwise I'll post the pics and I'm sure you don't want that."
-    aut ""
+    aut "否則我會在網上發布照片，我相信你不會想要那樣的。"
 
 # game/v1/v1.rpy:400
 translate chineset aa_db_1bf7c341:
 
     # ca "Fine..."
-    ca ""
+    ca "好吧..."
 
 # game/v1/v1.rpy:402
 translate chineset aa_db_2dd477b7:
 
     # ca "Next time, Mommy won't be there to save you, asshole."
-    ca ""
+    ca "下次媽媽不會出現來救你了，混蛋。"
 
 # game/v1/v1.rpy:409
 translate chineset aa_db_9ae7cce6:
 
     # aut "You okay?"
-    aut ""
+    aut "你沒事吧?"
 
 # game/v1/v1.rpy:416
 translate chineset aa_db_3cc4a83e:
 
     # u "Yeah...thanks."
-    u ""
+    u "嗯……謝謝。"
 
 # game/v1/v1.rpy:418
 translate chineset aa_db_e5f4315d:
 
     # u "I'm [name] by the way."
-    u ""
+    u "順便說一下，我是[name]。"
 
 # game/v1/v1.rpy:423
 translate chineset aa_db_c0f5654a:
 
     # aut "I'm Autumn."
-    aut ""
+    aut "我是奧特姆。"
 
 # game/v1/v1.rpy:425
 translate chineset aa_db_791f218c:
 
     # aut "You're new here right?"
-    aut ""
+    aut "你是新來的對嗎?"
 
 # game/v1/v1.rpy:430
 translate chineset aa_db_b2b46500:
 
     # u "Yeah, is it that obvious?"
-    u ""
+    u "對, 這有那麼明顯嗎?"
 
 # game/v1/v1.rpy:435
 translate chineset aa_db_70254a14:
 
     # aut "It's just that most people would avoid bumping into Cameron at any cost."
-    aut ""
+    aut "只是大多數人會不惜一切代價避免撞到卡梅倫。"
 
 # game/v1/v1.rpy:442
 translate chineset aa_db_4561b8f0:
 
     # u "It's not as bad if you get to meet a pretty girl afterwards."
-    u ""
+    u "如果你後來遇到一個漂亮的女孩，這似乎也沒有那麼糟糕。"
 
 # game/v1/v1.rpy:447
 translate chineset aa_db_a2992451:
 
     # aut "Uhm..."
-    aut ""
+    aut "嗯..."
 
 # game/v1/v1.rpy:452
 translate chineset aa_db_eedc251e:
 
     # u "(Way to make her uncomfortable, Casanova.)"
-    u ""
+    u "（好一個令她不舒服的方法，卡薩諾瓦。）"
 
 # game/v1/v1.rpy:457
 translate chineset aa_db_8bbbb0f2:
 
     # aut "Anyways, I gotta go. Nice to meet you."
-    aut ""
+    aut "無論如何, 我要走了, 很高興見到你。"
 
 # game/v1/v1.rpy:463
 translate chineset aa_db_2ee51159:
 
     # u "Why is that?"
-    u ""
+    u "這是為什麼？"
 
 # game/v1/v1.rpy:468
 translate chineset aa_db_b6a9fd48:
 
     # aut "He's uhm-"
-    aut ""
+    aut "他只是——"
 
 # game/v1/v1.rpy:470
 translate chineset aa_db_15cd2252:
 
     # aut "Let's just say he doesn't have the best of tempers."
-    aut ""
+    aut "只能說他沒有好脾氣。"
 
 # game/v1/v1.rpy:473
 translate chineset aa_db_8bbbb0f2_1:
 
     # aut "Anyways, I gotta go. Nice to meet you."
-    aut ""
+    aut "不管怎樣，我要走了。 很高興見到你。"
 
 # game/v1/v1.rpy:479
 translate chineset ad_db_3e0ad800:
 
     # u "(Damn... she was really cute. Hopefully I'll get to see her again.)"
-    u ""
+    u "（該死的......她真的很可愛。希望我能再次見到她。）"
 
 # game/v1/v1.rpy:481
 translate chineset ad_db_9c52b5de:
 
     # u "(I should probably go to my induction class right now.)"
-    u ""
+    u "（我現在應該去上我的新生介紹課。）"
 
 # game/v1/v1.rpy:488
 translate chineset ad_db_c224bb3e:
 
     # u "Sorry for being late, I couldn't find the classroom."
-    u ""
+    u "抱歉我遲到了，我剛剛找不到教室"
 
 # game/v1/v1.rpy:495
 translate chineset ad_db_e2737b85:
 
     # ro "It's fine, just take a seat."
-    ro ""
+    ro "沒關係，找個位置坐下就好了。"
 
 # game/v1/v1.rpy:500
 translate chineset ad_db_675e7bcc:
 
     # ro "We won't be starting 'til I can fix this damn laptop."
-    ro ""
+    ro "在我可以弄好這個該死的手提電腦前我們都不會開始'。"
 
 # game/v1/v1.rpy:505
 translate chineset ad_db_0608c281:
 
     # ry "Nice job being late on your first day, man."
-    ry ""
+    ry "真厲害阿兄弟, 你第一天就遲到了。"
 
 # game/v1/v1.rpy:510
 translate chineset ad_db_8eb7f5ad:
 
     # u "Thanks..."
-    u ""
+    u "謝謝..."
 
 # game/v1/v1.rpy:515
 translate chineset ad_db_77dfd603:
 
     # ry "I'm Ryan."
-    ry ""
+    ry "我是瑞安"
 
 # game/v1/v1.rpy:520
 translate chineset ad_db_8af8bf58:
 
     # u "I'm [name]."
-    u ""
+    u "我是 [name]"
 
 # game/v1/v1.rpy:525
 translate chineset ad_db_b16a3a10:
 
     # ry "10 minutes late, sitting in the back row. Man, you'd make a perfect Ape."
-    ry ""
+    ry "遲到10分鐘，坐在後排。 兄弟，你會是一個完美的人猿。"
 
 # game/v1/v1.rpy:530
 translate chineset ad_db_c827eaef:
 
     # u "Ape? Are you calling me a chimpanzee?"
-    u ""
+    u "人猿？ 你把我當成一個黑猩猩嗎？"
 
 # game/v1/v1.rpy:535
 translate chineset ad_db_9f297b91:
 
     # ry "Nooo, the Apes, you don't know them?"
-    ry ""
+    ry "不不不, 是人猿會阿, 你不知道他們嗎?"
 
 # game/v1/v1.rpy:537
 translate chineset ad_db_cf152294:
 
     # ry "They're the best fraternity in the entire University. They get so many girls."
-    ry ""
+    ry "他們是整個大學裡最優勢的兄弟會。 他們那裡有超多的女孩。"
 
 # game/v1/v1.rpy:539
 translate chineset ad_db_bb4a72ce:
 
     # ry "And...their president is the current Fight King."
-    ry ""
+    ry "而且......他們的會長是當前的格鬥之王。"
 
 # game/v1/v1.rpy:544
 translate chineset ad_db_a79483bf:
 
     # u "Fight King? What are you talking about?"
-    u ""
+    u "格鬥之王? 你在說什麼?"
 
 # game/v1/v1.rpy:549
 translate chineset ad_db_1a3beb36:
 
     # ry "Don't tell me you don't know about the Summer Showdown?!"
-    ry ""
+    ry "你不要告訴我你不知道夏天的終極之戰嗎？！"
 
 # game/v1/v1.rpy:554
 translate chineset ad_db_6bdd0a8e:
 
     # u "Never heard of it."
-    u ""
+    u "從來沒有聽說過。"
 
 # game/v1/v1.rpy:559
 translate chineset ad_db_abbe6689:
 
     # ry "Duuude!"
-    ry ""
+    ry "兄弟!"
 
 # game/v1/v1.rpy:564
 translate chineset ad_db_1efe722d:
 
     # ry "Every year the two most popular fraternities, the Apes and the Wolves, host an MMA fighting tournament called the Summer Showdown."
-    ry ""
+    ry "每年兩個最受歡迎的兄弟會，人猿會和戰狼會，舉辦一個叫夏季終極之戰的MMA格鬥錦標賽。"
 
 # game/v1/v1.rpy:566
 translate chineset ad_db_25f53c47:
 
     # ry "The winner of the final fight is crowned the Fight King."
-    ry ""
+    ry "比賽最終的獲勝者將被加冕為格鬥之王。"
 
 # game/v1/v1.rpy:571
 translate chineset ad_db_8eda5bf0:
 
     # u "Well that seems pretty violent..."
-    u ""
+    u "好吧這似乎很暴力......"
 
 # game/v1/v1.rpy:576
 translate chineset ad_db_9fd9ed2a:
 
     # ry "You don't get it... The Fight King gets sooo many girls."
-    ry ""
+    ry "你似乎不明白......格鬥之王會受到許多女生的歡迎。"
 
 # game/v1/v1.rpy:577
 translate chineset ad_db_e72f3ba5:
 
     # ry "I can't wait to become an Ape and compete."
-    ry ""
+    ry "我迫不及待想要成為人猿後參加比賽。"
 
 # game/v1/v1.rpy:582
 translate chineset ad_db_7bedb932:
 
     # u "You want to fight?"
-    u ""
+    u "你想打架嗎？"
 
 # game/v1/v1.rpy:587
 translate chineset ad_db_23c5c107:
 
     # ry "Did you not hear what I said? Sooo many girls."
-    ry ""
+    ry "你聽不到我說的話了嗎？ 超級多女生。"
 
 # game/v1/v1.rpy:592
 translate chineset ad_db_f4004f72:
 
     # u "Yeah, but do you even know how to fight?"
-    u ""
+    u "聽到, 但你知道如何戰鬥嗎?"
 
 # game/v1/v1.rpy:597
 translate chineset ad_db_b14d8766:
 
     # ry "Not yet, but the fraternities train you. After all, they want someone from their frat to win."
-    ry ""
+    ry "還沒有，但兄弟會的人會訓練你。 畢竟，他們希望有人從他們的兄弟會中贏得勝利。"
 
 # game/v1/v1.rpy:602
 translate chineset ad_db_d9d3333a:
 
     # u "Knock yourself out... Fighting is not really for me."
-    u ""
+    u "你自己喜歡就好......打鬥對我並不感興趣。"
 
 # game/v1/v1.rpy:607
 translate chineset ad_db_ff20357a:
 
     # ry "Trust me dude, if you're not a fighter, you're a nobody."
-    ry ""
+    ry "相信我兄弟, 如果你不是一名鬥士, 你什麼都不是。"
 
 # game/v1/v1.rpy:609
 translate chineset ad_db_e1e082fb:
 
     # ry "You won't be invited to any parties and you won't get any hot girls."
-    ry ""
+    ry "你將不會受到任何派對的邀請, 而且沒有美女看上你"
 
 # game/v1/v1.rpy:613
 translate chineset ad_db_360d1f0f:
 
     # ro "It seems that Elijah here fixed the laptop and we can start the induction. Thank you, Elijah."
-    ro ""
+    ro "似乎以利亞已經修好了手提電腦，我們可以開始新生課了。 謝謝你，以利亞。"
 
 # game/v1/v1.rpy:620
 translate chineset ad_db_b2596c1e:
 
     # u "Wow Elijah, way to start the fun."
-    u ""
+    u "喲, 以利亞，有夠厲害的。"
 
 # game/v1/v1.rpy:627
 translate chineset ad_db_885597a0:
 
     # el "..."
-    el ""
+    el "..."
 
 # game/v1/v1.rpy:636
 translate chineset ag_da_883214dc:
 
     # ro "Here at San Vallejo College most courses start their first year with the same three classes: Biology, Economics and History."
-    ro ""
+    ro "在聖瓦列霍學院的大多數課程都會先開始學習這三個課程：生物學，經濟學和歷史學。"
 
 # game/v1/v1.rpy:638
 translate chineset ag_da_55bedea8:
 
     # ro "Alcohol, smoking and any form of violence whilst on College grounds is strictly forbidden."
-    ro ""
+    ro "學院內禁止酒精，吸煙和任何形式的暴力。"
 
 # game/v1/v1.rpy:640
 translate chineset ag_da_a3af4d99:
 
     # ro "Classes start tomorrow, so you'll have plenty of time to explore the campus today."
-    ro ""
+    ro "課堂明天開始，所以你今天會有足夠的時間去探索校園。"
 
 # game/v1/v1.rpy:642
 translate chineset ag_da_c1ab37ce:
 
     # ro "Now, let's move on to some of the boring administrative stuff..."
-    ro ""
+    ro "現在，讓我們繼續一些無聊的行政事項......"
 
 # game/v1/v1.rpy:675
 translate chineset ag_da_cb48ce5a:
 
     # ry "[name], give me your number and I'll hit you up for the Apes' rush party tomorrow."
-    ry ""
+    ry "[name], 給我你的號碼，我明天會告訴你有關人猿會的聯誼派對。"
 
 # game/v1/v1.rpy:677
 translate chineset ag_da_d001303a:
 
     # ry "Then you'll see how sick they are."
-    ry ""
+    ry "然後你會看到他們有多瘋狂。"
 
 # game/v1/v1.rpy:682
 translate chineset ag_da_a7111ff6:
 
     # u "Alright, sure."
-    u ""
+    u "好的，沒問題。"
 
 # game/v1/v1.rpy:687
 translate chineset ag_da_0515e6c0:
 
     # ry "Awesome, I'll see you later."
-    ry ""
+    ry "真棒，晚點見。"
 
 # game/v1/v1.rpy:692
 translate chineset ag_da_a7bf38fb:
 
     # la "You know... you don't have to join a frat to get girls."
-    la ""
+    la "其實你......你想得到女孩不必加入兄弟會。"
 
 # game/v1/v1.rpy:697
 translate chineset ag_da_8b258704:
 
     # u "Huh?"
-    u ""
+    u "嗯?"
 
 # game/v1/v1.rpy:701
 translate chineset ag_da_9dd226d6:
 
     # la "Sorry... I overheard you guys talking and I just wanted to say that... this fighting thing? It's really stupid."
-    la ""
+    la "對不起......我聽到了你們說話，我只是想說......這格鬥比賽真的很愚蠢。"
 
 # game/v1/v1.rpy:710
 translate chineset ag_da_c6e9033c:
 
     # u "It really is."
-    u ""
+    u "它真的是愚蠢。"
 
 # game/v1/v1.rpy:712
 translate chineset ag_da_a3d4daac:
 
     # u "Does that mean not all girls here are into the fighting?"
-    u ""
+    u "這是否意味著這裡不是所有女孩都喜歡打鬥？"
 
 # game/v1/v1.rpy:717
 translate chineset ag_da_6f65c9c5:
 
     # la "Not at all, pretty much any girl that's part of the Deer hates it."
-    la ""
+    la "根本不喜歡，幾乎任何小鹿會的女孩都討厭它。"
 
 # game/v1/v1.rpy:725
 translate chineset ag_da_85cc40ba:
 
     # u "I mean it is kinda cool, I just wish I knew how to fight."
-    u ""
+    u "我的意思是它有點酷，我只是希望我知道如何戰鬥。"
 
 # game/v1/v1.rpy:730
 translate chineset ag_da_e61c7e99:
 
     # la "It's not cool, it's dangerous!"
-    la ""
+    la "這一點都不酷，這很危險！"
 
 # game/v1/v1.rpy:732
 translate chineset ag_da_bd280c79:
 
     # la "You know, there's a bunch of girls that would rather date a guy that doesn't fight."
-    la ""
+    la "你知道嗎，總有一群女孩寧願和一個不會打架的人約會。"
 
 # game/v1/v1.rpy:736
 translate chineset ag_da_c5446f18:
 
     # u "Really?"
-    u ""
+    u "真的嗎?"
 
 # game/v1/v1.rpy:740
 translate chineset ag_da_0fee4769:
 
     # la "Yeah, most of the Deer for example."
-    la ""
+    la "當然, 例如大部份小鹿會的女生。"
 
 # game/v1/v1.rpy:745
 translate chineset af_db_1cacebd1:
 
     # u "The Deer?"
-    u ""
+    u "小鹿會"
 
 # game/v1/v1.rpy:749
 translate chineset af_db_e4477cef:
 
     # la "They're one of the two sororities at San Vallejo. My sister Autumn is their president, so I know most of them quite well."
-    la ""
+    la "她們是聖瓦列霍的兩個姐妹會之一。我的姐姐奧特姆是他們的會長，所以她們大部份我都很熟悉。"
 
 # game/v1/v1.rpy:753
 translate chineset af_db_5cc482d2:
 
     # u "Autumn? I've actually met her just before this class."
-    u ""
+    u "奧特姆? 我在上這個課前才見到了她。"
 
 # game/v1/v1.rpy:757
 translate chineset af_db_87434f45:
