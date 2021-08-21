@@ -160,7 +160,7 @@ translate chineses starta_8bdb5ed3:
 translate chineses starta_360e66fc:
 
     # u "(Fuck, I really don't want to see her again after what happened.\nHopefully I can avoid her as much as possible.)"
-    u "（我操，我真不想在那事之后再见她。希望我可以尽量避免碰上她。）"
+    u "（操，我真不想在那事之后再见她。希望我可以尽量避免碰上她。）"
 
 # game/v1/v1.rpy:186
 translate chineses starta_2dac9d0e:
