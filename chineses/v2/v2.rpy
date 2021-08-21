@@ -4,13 +4,13 @@
 translate chineses v2start_1bba6b51:
 
     # cl "*Muffled* Why did you do that?! We were just talking!"
-    cl "*听不清*你为什么要那样做？我们只是聊天而已！"
+    cl "*听不清* 你为什么要那样做？我们只是聊天而已！"
 
 # game/v2/v2.rpy:89
 translate chineses v2start_c3b1a1ef:
 
     # ry "*Muffled* [name]?! Are you okay??"
-    ry "*听不清*[名字]？！你还好吧？？"
+    ry "*听不清* [名字]？！你还好吧？？"
 
 # game/v2/v2.rpy:98
 translate chineses v2start_cb54d010:
@@ -1438,7 +1438,7 @@ translate chineses bp_bd_10706cd3:
 translate chineses bp_bd_57723b9c:
 
     # u "No way, you looked so adorable."
-    u "没可能，我看上去太可爱了。"
+    u "没可能，你看上去太可爱了。"
 
 # game/v2/v2.rpy:1978
 translate chineses bp_bd_9f281ce2:
@@ -1618,7 +1618,7 @@ translate chineses bq_bd_7a9562a5:
 translate chineses bq_bd_1051b39e:
 
     # u "Just - just stay away from her, okay?"
-    u "别 - 别靠近她，了解吗？"
+    u "请 - 请离她远点，了解了吗？"
 
 # game/v2/v2.rpy:2142
 translate chineses bq_bd_3afbede2:
@@ -2368,7 +2368,7 @@ translate chineses v2_nsfwSkipLabel1_e6f4acca:
 translate chineses v2_nsfwSkipLabel1_7d80e924:
 
     # u "I'm not gonna lie, it's kinda hot."
-    u "我不想撒谎，挺性感的。"
+    u "我不想撒谎，有点火辣啊。"
 
 # game/v2/v2.rpy:2801
 translate chineses v2_nsfwSkipLabel1_9d031eba:
@@ -2398,7 +2398,7 @@ translate chineses v2_nsfwSkipLabel1_dc103a0a:
 translate chineses v2_nsfwSkipLabel1_f56eb18c:
 
     # u "I mean, it's definitely something."
-    u "我的意思是，看上去挺不错的。"
+    u "我是指，还有点意思。"
 
 # game/v2/v2.rpy:2828
 translate chineses v2_nsfwSkipLabel1_c1c9b559:
@@ -2410,7 +2410,7 @@ translate chineses v2_nsfwSkipLabel1_c1c9b559:
 translate chineses v2_nsfwSkipLabel1_8671c31a:
 
     # au "I'll guess I'll have to try some of the other outfits then."
-    au "那我想我得试试其它的戏服。"
+    au "那我想我还得试试其它的戏服。"
 
 # game/v2/v2.rpy:2837
 translate chineses v2_nsfwSkipLabel1_dc103a0a_1:
@@ -3832,365 +3832,365 @@ translate chineses eve1_6e31d732:
 translate chineses v1_endShop_582914ae:
 
     # u "(The Wolves? What are they doing here?)"
-    u ""
+    u "（饿狼会的？他们在这里做什么？）"
 
 # game/v2/v2.rpy:4207
 translate chineses v1_endShop_a063467e:
 
     # aa "Hey, you're the guy that got punched by Grayson!"
-    aa ""
+    aa "嘿，你是那个被格雷森揍了的人！"
 
 # game/v2/v2.rpy:4212
 translate chineses v1_endShop_75de082c:
 
     # u "Really? Is that what I'm gonna be known for from now on?"
-    u ""
+    u "真的？我从今以后就是以那个称号闻名了吗？"
 
 # game/v2/v2.rpy:4217
 translate chineses v1_endShop_69a2e875:
 
     # ch "It doesn't have to be."
-    ch ""
+    ch "不用是这样的。"
 
 # game/v2/v2.rpy:4219
 translate chineses v1_endShop_98f1162f:
 
     # ch "Look, Grayson's an asshole. If you wanna get back at him, you should pledge the Wolves."
-    ch ""
+    ch "听着，格雷森是个混蛋。如果你想要报复他，你就应该加入饿狼会。"
 
 # game/v2/v2.rpy:4221
 translate chineses v1_endShop_af56f0be:
 
     # ch "If you're the right fit, you'll become one of us and trust me, next year a Wolf is gonna beat the shit out of Grayson and take the fucking crown."
-    ch ""
+    ch "如果你能适应的话，你将会成为我们的一员。相信我，饿狼会明年就会把格雷森打得屁滚尿流，并且拿回他妈的拳王头衔。"
 
 # game/v2/v2.rpy:4226
 translate chineses v1_endShop_49a9e742:
 
     # u "Uhm..."
-    u ""
+    u "嗯..."
 
 # game/v2/v2.rpy:4231
 translate chineses v1_endShop_f229e5b4:
 
     # ch "Just think about it."
-    ch ""
+    ch "好好考虑下。"
 
 # game/v2/v2.rpy:4236
 translate chineses v1_endShop_a2c87577:
 
     # u "(Hmmm...)"
-    u ""
+    u "（嗯...）"
 
 # game/v2/v2.rpy:4241
 translate chineses v1_endShop_24b804e1:
 
     # u "(The Wolves... huh.)"
-    u ""
+    u "（饿狼会...呵。）"
 
 translate chineses strings:
 
     # game/v2/v2.rpy:6
     old "Look, I know what Grayson did was a dick move, but he was just being overprotective of Chloe"
-    new ""
+    new "听着，我知道格雷森做得有点混帐，但他只是在过分保护克洛伊"
 
     # game/v2/v2.rpy:7
     old "Whatever"
-    new ""
+    new "随你"
 
     # game/v2/v2.rpy:8
     old "Don't you dare defend that guy"
-    new ""
+    new "你敢护着那家伙"
 
     # game/v2/v2.rpy:15
     old "Sorry..."
-    new ""
+    new "抱歉..."
 
     # game/v2/v2.rpy:27
     old "Great, I'll see you then :)"
-    new ""
+    new "太好了，我们待会儿见 :)"
 
     # game/v2/v2.rpy:36
     old "It's fine, you go get her."
-    new ""
+    new "没什么，你去追她吧。"
 
     # game/v2/v2.rpy:40
     old "Nah, you don't want a bitch like her."
-    new ""
+    new "不，你不会想要她那样的裱子。"
 
     # game/v2/v2.rpy:41
     old "Yeah, I guess you're right."
-    new ""
+    new "是啊，我想你说得对。"
 
     # game/v2/v2.rpy:42
     old "Dude, what the fuck?!"
-    new ""
+    new "哥们儿，他妈的怎么了？！"
 
     # game/v2/v2.rpy:46
     old "Hahaha, I'm just kidding, yo."
-    new ""
+    new "哈哈哈，我只是开玩笑的唷。"
 
     # game/v2/v2.rpy:47
     old "Of course I gave her your number."
-    new ""
+    new "当然我把你的手机号给她了。"
 
     # game/v2/v2.rpy:48
     old "Damn, you got me."
-    new ""
+    new "可恶，我被你骗了。"
 
     # game/v2/v2.rpy:59
     old "Yeah, I mean they had a thing a while ago but she broke it off 'cause he lied about some shit."
-    new ""
+    new "是啊，我的意思是他们很久以前有在一起，但她因为格雷森对一些胡作非为之事的撒谎而跟他分开了。"
 
     # game/v2/v2.rpy:60
     old "So... tomorrow?"
-    new ""
+    new "那...明天？"
 
     # game/v2/v2.rpy:61
     old "My day tomorrow is quite full, but how about today?\n\nI need to buy a costume."
-    new ""
+    new "我明天的安排很满，但今天怎样？\n\n我需要买一套戏服。"
 
     # game/v2/v2.rpy:65
     old "I've got dance practice tonight \n:("
-    new ""
+    new "我今晚还要练习跳舞 \n:("
 
     # game/v2/v2.rpy:66
     old "I'm not talking tonight, I can pick you up right now."
-    new ""
+    new "我不是指今晚，我可以先在就去接你。"
 
     # game/v2/v2.rpy:67
     old "Oh wow, that's spontaneous, I like it haha.\n\nI guess come to the Chicks' house whenever you're ready and then we can go costume shopping."
-    new ""
+    new "哦哇，有点小冲动，我喜欢哈哈。\n\n我想你什么时候准备好了就来辣妹会，之后我们就可以去买戏服。"
 
     # game/v2/v2.rpy:68
     old "Cool, I'll be 20 mins."
-    new ""
+    new "那好，我20分钟到。"
 
     # game/v2/v2.rpy:73
     old "Good :)"
-    new ""
+    new "好 :)"
 
     # game/v2/v2.rpy:78
     old "Oh, okay. Guess we'll have to postpone the costume buying."
-    new ""
+    new "哦，好。我想我们得把买戏服往后推了。"
 
     # game/v2/v2.rpy:139
     old "Hmm... maybe."
-    new ""
+    new "嗯...也许。"
 
     # game/v2/v2.rpy:139
     old "I'm not fighting."
-    new ""
+    new "我不想斗殴。"
 
     # game/v2/v2.rpy:165
     old "I'll think about it."
-    new ""
+    new "我会考虑的。"
 
     # game/v2/v2.rpy:165
     old "I won't fight."
-    new ""
+    new "我不会对决的。"
 
     # game/v2/v2.rpy:196
     old "You okay?"
-    new ""
+    new "你还好吗？"
 
     # game/v2/v2.rpy:197
     old "I'm fine"
-    new ""
+    new "我没事"
 
     # game/v2/v2.rpy:198
     old "No, wtf was that?! Fuck Grayson and fuck the Apes"
-    new ""
+    new "不，这他妈算什么？！操那格雷森，操那人猿会"
 
     # game/v2/v2.rpy:201
     old "Is everything okay?"
-    new ""
+    new "一切都好吗？"
 
     # game/v2/v2.rpy:202
     old "Yeah, I'm fine."
-    new ""
+    new "是的，我很好。"
 
     # game/v2/v2.rpy:203
     old "Okay..."
-    new ""
+    new "好的..."
 
     # game/v2/v2.rpy:206
     old "Hello?? Can we please talk today?"
-    new ""
+    new "喂？？我们今天可以谈谈吗？"
 
     # game/v2/v2.rpy:207
     old "Yeah, SV cafe in 20 mins?"
-    new ""
+    new "好啊，圣瓦咖啡店20分钟后见？"
 
     # game/v2/v2.rpy:208
     old "Sorry, I can't"
-    new ""
+    new "抱歉，我不行"
 
     # game/v2/v2.rpy:210
     old "Are we still on for today? :)"
-    new ""
+    new "我们今天还按计划进行吗？ :)"
 
     # game/v2/v2.rpy:261
     old "Shout back"
-    new ""
+    new "大喊"
 
     # game/v2/v2.rpy:271
     old "Walk away"
-    new ""
+    new "走开"
 
     # game/v2/v2.rpy:1069
     old "Kick him"
-    new ""
+    new "踢他"
 
     # game/v2/v2.rpy:1177
     old "There was something there."
-    new ""
+    new "我们互相是有感觉的。"
 
     # game/v2/v2.rpy:1177
     old "Let's forget about it."
-    new ""
+    new "让我们把它忘了吧。"
 
     # game/v2/v2.rpy:1266
     old "Give me a chance."
-    new ""
+    new "再给我一次机会。"
 
     # game/v2/v2.rpy:1373
     old "Dude, I talked to this Aubrey chick the entire night and guess who's number she wanted..."
-    new ""
+    new "哥们儿，我整晚都跟奥布里这妞聊天，结果你猜猜她想要谁的号码..."
 
     # game/v2/v2.rpy:1374
     old "YOURS"
-    new ""
+    new "你的"
 
     # game/v2/v2.rpy:1375
     old "What a bitch..."
-    new ""
+    new "真是个裱子..."
 
     # game/v2/v2.rpy:1376
     old "Sorry, man. She doesn't know what she's missing."
-    new ""
+    new "抱歉，哥们儿。她不知道她错过了什么。"
 
     # game/v2/v2.rpy:1377
     old "Sooo, did you give it to her?"
-    new ""
+    new "那，你给她了吗？"
 
     # game/v2/v2.rpy:1816
     old "Okay, I guess."
-    new ""
+    new "好，可以。"
 
     # game/v2/v2.rpy:1816
     old "No, sorry."
-    new ""
+    new "不，对不起。"
 
     # game/v2/v2.rpy:1889
     old "Yeah, of course. (joke)"
-    new ""
+    new "是啊，那当然。（玩笑）"
 
     # game/v2/v2.rpy:1889
     old "I'm still single."
-    new ""
+    new "我还是单身。"
 
     # game/v2/v2.rpy:1964
     old "It was adorable."
-    new ""
+    new "那很可爱。"
 
     # game/v2/v2.rpy:1964
     old "It was so funny."
-    new ""
+    new "那很搞笑。"
 
     # game/v2/v2.rpy:2106
     old "Sure, knock yourself out."
-    new ""
+    new "当然，随你便。"
 
     # game/v2/v2.rpy:2106
     old "Stay away from her."
-    new ""
+    new "离她远点。"
 
     # game/v2/v2.rpy:2150
     old "Tell Emily about Benjamin"
-    new ""
+    new "告诉艾米丽本杰明的事"
 
     # game/v2/v2.rpy:2150
     old "Don't tell Emily"
-    new ""
+    new "不要告诉艾米丽"
 
     # game/v2/v2.rpy:2342
     old "Hey,\nJosh gave me your number\n\nI hope your face is feeling better after the shit that Grayson pulled..."
-    new ""
+    new "嘿，\n乔希给了我你的号码\n\n我希望你的脸在那格雷森干的混帐事之后感觉好些了..."
 
     # game/v2/v2.rpy:2343
     old "He's not even dating Chloe and you guys didn't even do anything so I don't know what he was thinking.\n\nAnyway, do you wanna like... hang out tomorrow?"
-    new ""
+    new "他跟克洛伊又没在谈恋爱，而且你们俩什么事都还没做。所以我不知道他在想什么。\n\n不多说了，你想，比如...明天一起出去玩吗？"
 
     # game/v2/v2.rpy:2344
     old "Wait they're not dating?"
-    new ""
+    new "等等，他们没在谈恋爱？"
 
     # game/v2/v2.rpy:2512
     old "Hey, are you nearby?"
-    new ""
+    new "嘿，你在附近吗？"
 
     # game/v2/v2.rpy:2513
     old "Yeah, I'm just on my way, I'll be right there."
-    new ""
+    new "是呀，我正在路上了，我很快就到。"
 
     # game/v2/v2.rpy:2514
     old "Sorry, something came up and I can't make it."
-    new ""
+    new "不好意思，我有点事绊住了，不能来了。"
 
     # game/v2/v2.rpy:2742
     old "Risk it"
-    new ""
+    new "冒险"
 
     # game/v2/v2.rpy:2742
     old "Stop peeking"
-    new ""
+    new "停止偷看"
 
     # game/v2/v2.rpy:2792
     old "It's kinda hot."
-    new ""
+    new "有点火辣。"
 
     # game/v2/v2.rpy:2792
     old "It's definitely something."
-    new ""
+    new "还有点意思。"
 
     # game/v2/v2.rpy:2928
     old "looking mighty fine."
-    new ""
+    new "看上去挺威武。"
 
     # game/v2/v2.rpy:2928
     old "certainly practical."
-    new ""
+    new "相当实用。"
 
     # game/v2/v2.rpy:3072
     old "Oh come on."
-    new ""
+    new "哦得了吧。"
 
     # game/v2/v2.rpy:3072
     old "Fine."
-    new ""
+    new "行。"
 
     # game/v2/v2.rpy:3349
     old "You look beautiful."
-    new ""
+    new "你看起来很漂亮。"
 
     # game/v2/v2.rpy:3349
     old "I guess it's nice"
-    new ""
+    new "我觉得不错"
 
     # game/v2/v2.rpy:3712
     old "Deny it"
-    new ""
+    new "否认它"
 
     # game/v2/v2.rpy:4092
     old "Make a move."
-    new ""
+    new "采取行动。"
 
     # game/v2/v2.rpy:4121
     old "Be smart"
-    new ""
+    new "聪明回答"
 
     # game/v2/v2.rpy:4121
     old "Be funny"
-    new ""
+    new "滑稽回答"
 
