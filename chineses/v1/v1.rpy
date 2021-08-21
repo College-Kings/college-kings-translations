@@ -4,7 +4,7 @@
 translate chineses starta_cf384216:
 
     # em "I know what I did was bad..."
-    em "我知道我做的不对..."
+    em "我知道我做错了..."
 
 # game/v1/v1.rpy:48
 translate chineses starta_64fd2540:
