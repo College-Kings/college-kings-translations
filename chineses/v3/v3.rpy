@@ -766,229 +766,229 @@ translate chineses cr_bd_148d796e:
 translate chineses cr_bd_0dc0fc89:
 
     # u "How could you do this to me?!"
-    u ""
+    u "你怎么能这样对我？！"
 
 # game/v3/v3.rpy:874
 translate chineses cr_bd_343e787c:
 
     # em "I'm sorry! I was vulnerable, okay?! Please, I need you."
-    em ""
+    em "我很抱歉！我很脆弱，好吧？！求求你，我需要你。"
 
 # game/v3/v3.rpy:881
 translate chineses cr_bd_a70c6f6d:
 
     # u "WHY DID YOU HAVE TO RUIN EVERYTHING?!"
-    u ""
+    u "你为什么要毁掉一切？！"
 
 # game/v3/v3.rpy:891
 translate chineses cr_bd_ba03aa18:
 
     # u "NO! This is wrong. Just get out! Leave me alone!"
-    u ""
+    u "不！这是错的。你走！离我远点！"
 
 # game/v3/v3.rpy:900
 translate chineses cr_bd_3fd3d76d:
 
     # u "*Breathing heavily*"
-    u ""
+    u "*喘气*"
 
 # game/v3/v3.rpy:914
 translate chineses cr_bd_7eeccac5:
 
     # imre "Wake up! It's time for training."
-    imre ""
+    imre "快醒来！是时候去训练了。"
 
 # game/v3/v3.rpy:919
 translate chineses cr_bd_8b258704:
 
     # u "Huh?"
-    u ""
+    u "呵？"
 
 # game/v3/v3.rpy:924
 translate chineses cr_bd_e90ad591:
 
     # imre "You said you were gonna train with me."
-    imre ""
+    imre "你说过你要跟我训练的。"
 
 # game/v3/v3.rpy:926
 translate chineses cr_bd_acf34453:
 
     # imre "Remember? Yesterday? In class?"
-    imre ""
+    imre "还记得吗？昨天？在课上？"
 
 # game/v3/v3.rpy:931
 translate chineses cr_bd_d4fab85d:
 
     # u "Right, right. Uhm... give me 10 minutes okay?"
-    u ""
+    u "对，对。嗯...给我10分钟好吗？"
 
 # game/v3/v3.rpy:936
 translate chineses cr_bd_2f52e5ce:
 
     # u "So uh... where exactly are we going?"
-    u ""
+    u "那呃...我们到底要去哪儿？"
 
 # game/v3/v3.rpy:941
 translate chineses cr_bd_086919fc:
 
     # imre "Sports X, it's the cheapest gym in the area and it has basic fighting equipment."
-    imre ""
+    imre "极限运动，这是这儿附近最便宜的健身房，而且它还有基本的拳击器械。"
 
 # game/v3/v3.rpy:946
 translate chineses cr_bd_a4ef4c6e:
 
     # u "Oh, is that where the Wolves train as well?"
-    u ""
+    u "哦，那里也是饿狼会的训练地吗？"
 
 # game/v3/v3.rpy:951
 translate chineses cr_bd_52d9d101:
 
     # imre "No, the Wolves have their own fighting gym in the basement. My brother helped build a lot of it."
-    imre ""
+    imre "不，饿狼会的在地下室有他们自己的拳击室。我哥花了很大力气帮忙修建的。"
 
 # game/v3/v3.rpy:956
 translate chineses cr_bd_3e5ce331:
 
     # u "Then why don't you train with them? Didn't you plan on doing that anyways?"
-    u ""
+    u "那你为什么不跟他们训练？你不是早就打算要加入他们吗？"
 
 # game/v3/v3.rpy:961
 translate chineses cr_bd_6a03dbfb:
 
     # imre "You have to be a Wolf to train there. That's one of the reasons I can't wait to pledge, man."
-    imre ""
+    imre "你得是一名饿狼才能在那儿训练。这就是我为什么等不及要入会的原因之一，哥们儿。"
 
 # game/v3/v3.rpy:966
 translate chineses cr_bd_22be2ff0:
 
     # imre "It really sucks 'cause the pledging period doesn't start 'til two weeks after the year has begun."
-    imre ""
+    imre "真正恶心的是每学年开始两个星期后才会有入会宣誓。"
 
 # game/v3/v3.rpy:971
 translate chineses cr_bd_14d4cf42:
 
     # u "Come on, that's like 10 more days."
-    u ""
+    u "得了，那不过就10几天。"
 
 # game/v3/v3.rpy:976
 translate chineses cr_bd_29273a9f:
 
     # imre "Yeah, I guess..."
-    imre ""
+    imre "是啊，也对..."
 
 # game/v3/v3.rpy:981
 translate chineses cr_bd_9fc74789:
 
     # imre "Hey there, my friend would like a trial pass."
-    imre ""
+    imre "嘿，我的朋友想要一张体验同行证。"
 
 # game/v3/v3.rpy:986
 translate chineses cr_bd_8440e24f:
 
     # li "Yeah, that's no problem. I just need an ID."
-    li ""
+    li "好啊，那没问题。我只是需要你的证件。"
 
 # game/v3/v3.rpy:991
 translate chineses cr_bd_b2269c4f:
 
     # imre "So uh... girl, you single?"
-    imre ""
+    imre "那呃...小姐姐，你是单身吗？"
 
 # game/v3/v3.rpy:996
 translate chineses cr_bd_ae8ad83e:
 
     # u "Smooth..."
-    u ""
+    u "撩妹高手..."
 
 # game/v3/v3.rpy:1001
 translate chineses cr_bd_838a2e5b:
 
     # li "Yes, I am."
-    li ""
+    li "对，我是。"
 
 # game/v3/v3.rpy:1006
 translate chineses cr_bd_3db94bd4:
 
     # imre "Do you wanna maybe... you know, hang out sometime?"
-    imre ""
+    imre "你想不想也许...你知道，什么时候一起去玩玩？"
 
 # game/v3/v3.rpy:1011
 translate chineses cr_bd_498da520:
 
     # li "Hmmm... Do I wanna hang out with you?"
-    li ""
+    li "嗯...我想不想跟你一起玩玩呢？"
 
 # game/v3/v3.rpy:1013
 translate chineses cr_bd_b1e887f4:
 
     # li "On one hand..."
-    li ""
+    li "一方面来说..."
 
 # game/v3/v3.rpy:1014
 translate chineses cr_bd_4f793aa2:
 
     # li "You seem like a barely-legal-age wannabe jock that hits on any and every girl he sees, regardless of how appropriate or welcome it is."
-    li ""
+    li "你看来像个还未成年，一心想成为见一个爱一个的猛男，即使那样做是不合适或不受欢迎的。"
 
 # game/v3/v3.rpy:1016
 translate chineses cr_bd_a72db001:
 
     # li "But on the other hand..."
-    li ""
+    li "但从另一方面来说..."
 
 # game/v3/v3.rpy:1018
 translate chineses cr_bd_549cbcb0:
 
     # li "No, actually that's it."
-    li ""
+    li "不对，没有另一面了。"
 
 # game/v3/v3.rpy:1023
 translate chineses cr_bd_6a54ad46:
 
     # imre "So, that's a ye-"
-    imre ""
+    imre "那，你的回答是-"
 
 # game/v3/v3.rpy:1028
 translate chineses cr_bd_460e63a3:
 
     # li "It's a no."
-    li ""
+    li "答案是不。"
 
 # game/v3/v3.rpy:1033
 translate chineses cr_bd_55cb65d0:
 
     # imre "You're missing out, girl."
-    imre ""
+    imre "你错过了机会，小姐姐。"
 
 # game/v3/v3.rpy:1038
 translate chineses cr_bd_5b5e6497:
 
     # u "It's interesting how you always find new ways to make women uncomfortable."
-    u ""
+    u "你始终能够找到新办法来让女孩子感到不舒服，这还真有趣。"
 
 # game/v3/v3.rpy:1043
 translate chineses cr_bd_dd7e7412:
 
     # imre "At least I try, man. Girls always expect you to make the first move."
-    imre ""
+    imre "至少我试了，哥们儿。女孩子都期望你首先行动。"
 
 # game/v3/v3.rpy:1045
 translate chineses cr_bd_9c25b5e4:
 
     # imre "Think about how many girls you could have had if you didn't pussy out everytime."
-    imre ""
+    imre "想想要是你不每次都怂了的话，那你能得到多少女孩子的芳心啊。"
 
 # game/v3/v3.rpy:1050
 translate chineses cr_bd_76046c5e:
 
     # u "Hey! When have I ever pussied out?"
-    u ""
+    u "嘿！我什么时候怂过？"
 
 # game/v3/v3.rpy:1055
 translate chineses cr_bd_6aaac884:
 
     # imre "You know what? Never mind, player."
-    imre ""
+    imre "你知道什么？算了，花花公子。"
 
 # game/v3/v3.rpy:1059
 translate chineses cr_bd_88f06d34:
