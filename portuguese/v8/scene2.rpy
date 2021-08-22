@@ -318,53 +318,53 @@ translate portuguese v8_cl_start_82fa3603:
 translate portuguese v8s2_nsfwSkipLabel1_1d9f9dfc:
 
     # cl "I'm so sorry, Lindsey."
-    cl ""
+    cl "Eu sinto muito Lindsey."
 
 # game/v8/scene2.rpy:237
 translate portuguese v8s2_nsfwSkipLabel1_72119969:
 
     # cl "Let's talk outside, okay?"
-    cl ""
+    cl "Vamos falar lá fora, tá?"
 
 # game/v8/scene2.rpy:238
 translate portuguese v8s2_nsfwSkipLabel1_c6918bb1:
 
     # li "Hmmm *sobs*"
-    li ""
+    li "Hmmm *Soluça*"
 
 # game/v8/scene2.rpy:252
 translate portuguese v8s2_nsfwSkipLabel1_6680ff12:
 
     # u "(Damn, that came out of nowhere.)"
-    u ""
+    u "(Nossa, isso foi mais que inesperado.)"
 
 # game/v8/scene2.rpy:266
 translate portuguese v8s2_nsfwSkipLabel1_ae64e706:
 
     # cl "Hey... uh, maybe you should head home."
-    cl ""
+    cl "Ei... hmm, você talvez deveria ir pra casa."
 
 # game/v8/scene2.rpy:270
 translate portuguese v8s2_nsfwSkipLabel1_fdbce207:
 
     # u "Oh..."
-    u ""
+    u "Ah..."
 
 # game/v8/scene2.rpy:274
 translate portuguese v8s2_nsfwSkipLabel1_eac01c19:
 
     # cl "She {i}really{/i} needs me right now."
-    cl ""
+    cl "Ela {i}realmente{/i} precisa de mim agora."
 
 # game/v8/scene2.rpy:278
 translate portuguese v8s2_nsfwSkipLabel1_45d8b8be:
 
     # u "Oh yeah... uhm, of course. Go help your friend."
-    u ""
+    u "Ah tá... hmmm, claro. Vai ajudar a sua amiga."
 
 # game/v8/scene2.rpy:282
 translate portuguese v8s2_nsfwSkipLabel1_82fa3603:
 
     # cl "Sorry, [name]. See you another time."
-    cl ""
+    cl "Desculpa, [name]. A gente se vê outra hora."
 

@@ -1,56 +1,56 @@
-﻿# TODO: Translation updated at 2021-06-05 20:30
+# SCENE 3: First Matchup - Imre vs Caleb (Apes)
+# Locations: Abandoned Warehouse
+# Characters: MC (Outfit 7), Grayson (Outfit 3), Josh (Outfit 2), 
+# Time: Saturday Night
 
-# game/v10/scene3.rpy:14
-translate francais v10_imre_vs_caleb_1b7d47e2:
+label v10_imre_vs_caleb:
+    scene v10ivc1 # TPP. Show MC walking towards the ring, Josh in ring in tux, mouths closed, nerutal expressions-
+    with fade
+    play music "music/v10/Scene 2 & 3/Track Scene 2 & 3.mp3" fadein 3
+    pause 0.5
 
-    # u "(Let's see who's up first)"
-    u ""
+    scene v10ivc2 # FPP. Show Josh in the ring, mouth closed, slight smile
+    with dissolve
+    u "(Voyons qui est debout en premier)"
 
-# game/v10/scene3.rpy:18
-translate francais v10_imre_vs_caleb_41581a3e:
+    scene v10ivc2a # FPP. Same Camera as v10ivc2, Show josh with his left hand held up pointing to Imre, neutral expression, josh mouth open
+    with dissolve
+    jo "Mesdames et Messieurs, le moment est venu de commencer notre premier match. Dans le coin des Wolves, nous avons Imre !"
 
-    # jo "Ladies and Gentlemen, the time has arrived for our first matchup to begin. In the Wolves corner, we have Imre!"
-    jo ""
+    scene v10ivc2b # FPP. Same Camera as v10ivc2, Show josh with his left hand held up pointing to Imre, neutral expression, josh mouth closed
+    with dissolve
+    u "Bouhhh!"
 
-# game/v10/scene3.rpy:22
-translate francais v10_imre_vs_caleb_50eba26f:
+    scene v10ivc2c # FPP. Same Camera as v10ivc2, Show josh with his right other hand held up pointing to Caleb, neutral expression, josh mouth open
+    with dissolve
+    jo "Et pour les Apes, nous avons Caleb !"
 
-    # u "Boooo!"
-    u ""
+    scene v10ivc2d # FPP. Same Camera as v10ivc2, Show josh with his right other hand held up pointing to Caleb, neutral expression, josh mouth closed
+    with dissolve
+    u "Wouhhhh!"
 
-# game/v10/scene3.rpy:26
-translate francais v10_imre_vs_caleb_6872087e:
+    scene v10ivc3 # FPP. Show Caleb, hand over his mouth looking like he's going to be sick, mouth closed
+    with dissolve
+    # -MC turns to Caleb to cheer him on and sees Caleb clutching his stomach-
+    u "Oh non ! Qu'est-ce qui ne va pas ?"
 
-    # jo "And for the Apes, we have Caleb!"
-    jo ""
+    scene v10ivc3a # FPP. Same Camera as v10ivc3, Show Caleb, hand now slightly lowered looking like he's going to be sick, mouth open
+    with dissolve
+    cal "Je ne pense pas pouvoir faire ?a. Je me sens...malade."
 
-# game/v10/scene3.rpy:30
-translate francais v10_imre_vs_caleb_d6ff8162:
+    scene v10ivc4 # FPP. Show Grayson, pointing at caleb, slight angry face, caleb hand over mouth, Grayson mouh open
+    with dissolve
+    gr "Putain, mec. Rien de cette merde ! Suce-le et monte dans ce ring !"
 
-    # u "Woooo!"
-    u ""
+    scene v10ivc5 # FPP. Show Caleb running for the door to go puke
+    with dissolve
 
-# game/v10/scene3.rpy:35
-translate francais v10_imre_vs_caleb_a6dae17e:
+    pause 0.5
 
-    # u "Oh no! What's wrong?"
-    u ""
+    scene v10ivc2e # FPP. Same Camera as v10ivc2,Show Josh in the ring, mouth open, slight smile
+    with dissolve
+    jo "Bien, maintenant..."
+    
+    stop music fadeout 3
 
-# game/v10/scene3.rpy:39
-translate francais v10_imre_vs_caleb_ce31a117:
-
-    # cal "I don't think I can do this. I feel... sick."
-    cal ""
-
-# game/v10/scene3.rpy:43
-translate francais v10_imre_vs_caleb_10c3f2fc:
-
-    # gr "Aww fuck, man. None of that shit! Suck it up and get in that ring!"
-    gr ""
-
-# game/v10/scene3.rpy:52
-translate francais v10_imre_vs_caleb_861a4707:
-
-    # jo "Well, now..."
-    jo ""
-
+    jump v10_imre_vs_caleb_fight

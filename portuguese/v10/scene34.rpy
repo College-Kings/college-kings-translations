@@ -220,7 +220,7 @@ translate portuguese v10_autumn_announcement_50453ff1:
 translate portuguese v10_autumn_announcement_f787f809:
 
     # no "Oh shut up."
-    no "Ah, fica queto!"
+    no "Ah, fica quieto!"
 
 translate portuguese strings:
 

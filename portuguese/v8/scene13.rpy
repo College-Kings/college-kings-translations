@@ -622,57 +622,65 @@ translate portuguese strings:
 
     # game/v8/scene13.rpy:29
     old "[name], Ryan and Caleb are the new proud Apes! I can see this fight season turning out well for us!"
-    new ""
+    new "[name], o Ryan e o Caleb são Gorilas orgulhosos! Eu posso ver que a temporada de luta vai ser boa!"
 
     # game/v8/scene13.rpy:31
     old "And congrats to the prodigal son, [name], for getting the perfect score. Looks like somebody's coming for my throne!"
-    new ""
+    new "E parabéns ao meu filho prodígio, [name], por conseguir a pontuação perfeita. Parece que tenho um sucessor pro meu trono!"
 
     # game/v8/scene13.rpy:32
     old "Apes baby! Woohoooo!!!"
-    new ""
+    new "Gorilas porra!! Wooohooo!!!"
 
     # game/v8/scene13.rpy:33
     old "GO APES!!!"
-    new ""
+    new "GORILASS!!"
 
     # game/v8/scene13.rpy:34
     old "Congrats guys!"
-    new ""
+    new "Parabéns caras!"
 
     # game/v8/scene13.rpy:36
     old "Damn, perfect score? Would love to see you in action in the ring ;)"
-    new ""
+    new "Pô, pontuação perfeita? Tô esperando pra te ver no ringue ;)"
 
     # game/v8/scene13.rpy:38
     old "Congrats guys! Couldn't be at the ceremony cause of some stupid shit :/"
-    new ""
+    new "Parabéns caras! Eu não consegui ir pra cerimônia por umas merdas :/"
 
     # game/v8/scene13.rpy:39
     old "So proud of you guys especially my man"
-    new ""
+    new "Orgulhoso demais de vocês, especialmente do meu garotão"
 
     # game/v8/scene13.rpy:40
     old "Yaayyy! Congrats"
-    new ""
+    new "Ebaa!! Parabéns"
 
     # game/v8/scene13.rpy:42
     old "Hmph ridiculous! Like those are the perfect scores that matter..."
-    new ""
+    new "Hmm, ridículo! Como se ter a pontuação perfeita significasse algo..."
 
     # game/v8/scene13.rpy:43
     old "Just shut the fuck up and never come back"
-    new ""
+    new "Só cala a porra da boca e nunca mais volta"
 
     # game/v8/scene13.rpy:44
     old "That is unless you want me to kick your ass, then of course knock yourself out"
-    new ""
+    new "É isso ou eu te quebro na porrada, e obviamente depois ir embora"
 
     # game/v8/scene13.rpy:45
     old "Congrats people!!!"
-    new ""
+    new "Parabéns galera!!!"
 
     # game/v8/scene13.rpy:46
     old "Thanks everyone!"
-    new ""
+    new "Valeu galera!"
+
+# TODO: Translation updated at 2021-07-31 16:17
+
+# game/v8/scene13.rpy:179
+translate portuguese phn_chloe11_done_8eecb18c:
+
+    # u "(Oh, Chloe is here.)"
+    u "(Ah, a Chloe tá aqui.)"
 

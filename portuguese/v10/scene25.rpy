@@ -309,3 +309,11 @@ translate portuguese strings:
     # game/v10/scene25.rpy:212
     old "Don't make a move"
     new "Não faça um movimento"
+# TODO: Translation updated at 2021-07-31 16:17
+
+# game/v10/scene25.rpy:210
+translate portuguese v10_ms_rose_fight_5544e6d6:
+
+    # ro "You're too sweet."
+    ro "Você é tão doce."
+

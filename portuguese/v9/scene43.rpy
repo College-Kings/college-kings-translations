@@ -10,7 +10,7 @@ translate portuguese v9_warehouse_josh_af05436a:
 translate portuguese v9_warehouse_josh_95c3a43b:
 
     # jo "The ladies weren't digging it. *Laughs*"
-    jo "As garotas não estavam admiradando. *Risos*"
+    jo "As garotas não estavam gostando mais. *Risos*"
 
 # game/v9/scene43.rpy:27
 translate portuguese v9_warehouse_josh_62368a44:
@@ -28,25 +28,25 @@ translate portuguese v9_warehouse_josh_a6d40e57:
 translate portuguese v9_warehouse_josh_58ff7c89:
 
     # am "Yeah news, Josh somehow forgot to tell us he was gonna be the announcer tonight."
-    am "Sim, notícia, Josh de alguma forma esqueceu de dizer pra gente que vai ser o anunciante desta noite."
+    am "Sim, notícia, o Josh de alguma forma esqueceu de dizer pra gente que vai ser o anunciante desta noite."
 
 # game/v9/scene43.rpy:42
 translate portuguese v9_warehouse_josh_7aa70210:
 
     # u "Wait really?"
-    u "Esperar, sério?"
+    u "Espera, sério?"
 
 # game/v9/scene43.rpy:47
 translate portuguese v9_warehouse_josh_d1eeaa09:
 
     # jo "Yeah, it was kind of odd. Chris and Grayson came over to my place and asked if I'd do it. For some reason they thought I'd be good for it. I remember them using the word \"entertaining\"."
-    jo "Sim, foi meio estranho. Chris e Grayson vieram até minha casa e perguntaram se eu o poderia ser. Por alguma razão, eles acharam que eu seria bom para isso. Eu me lembro deles usando a palavra \"divertido\"."
+    jo "Sim, foi meio estranho. Chris e Grayson vieram até minha casa e perguntaram se eu podia ser. Por alguma razão, eles acharam que eu seria bom para isso. Eu me lembro deles usando a palavra \"divertido\"."
 
 # game/v9/scene43.rpy:52
 translate portuguese v9_warehouse_josh_e5537ace:
 
     # u "We know they're right about that! Got a fancy announcer voice whipped up already? I'm sure you were up all night practicing it in the mirror."
-    u "Sabemos que eles estão certos sobre isso! Já tem uma voz de locutor extravagante? Tenho certeza de que você ficou acordado a noite toda praticando no espelho."
+    u "Sabemos que eles estão certos sobre isso! Você já treinou a voz de locutor exuberante? Tenho certeza de que você ficou acordado a noite toda praticando no espelho."
 
 # game/v9/scene43.rpy:54
 translate portuguese v9_warehouse_josh_1d109e08:
@@ -64,7 +64,7 @@ translate portuguese v9_warehouse_josh_43caca3f:
 translate portuguese v9_warehouse_josh_2c3b56e0:
 
     # am "Knowing Josh, I'm sure he's got something in store for us."
-    am "Conhecendo Josh, tenho certeza de que ele tem algo reservado pra gente."
+    am "Conhecendo o Josh, tenho certeza de que ele tem algo reservado pra gente."
 
 # game/v9/scene43.rpy:69
 translate portuguese v9_warehouse_josh_fb2b0694:
@@ -82,19 +82,19 @@ translate portuguese v9_warehouse_josh_fad58745:
 translate portuguese v9_warehouse_josh_6200b983:
 
     # u "What's that noise I keep hearing?"
-    u "Que barulho é esse que continuo ouvindo?"
+    u "Que barulho é esse que não pára?"
 
 # game/v9/scene43.rpy:84
 translate portuguese v9_warehouse_josh_616c1dcc:
 
     # jo "Oh shit, that's my cue!"
-    jo "Oh merda, essa é a minha hora!"
+    jo "Ah merda, essa é a minha hora!"
 
 # game/v9/scene43.rpy:94
 translate portuguese v9_warehouse_josh_48c37a9e:
 
     # ki "You hate that you love him."
-    ki "Você odeia o que ama."
+    ki "Você odeia que o ama."
 
 # game/v9/scene43.rpy:99
 translate portuguese v9_warehouse_josh_dd62a7a1:
@@ -112,7 +112,7 @@ translate portuguese v9_warehouse_josh_fcc18885:
 translate portuguese v9_warehouse_josh_e7c02fce:
 
     # jo "*WWE announcer Voice* Lovely, lovely ladies...and dudes, I'm your beloved announcer Josh AKA Mr. Have-A-Good-Time."
-    jo "*Voz de anunciante WWE* Amados, Amadas, senhoras... e idiotas, Eu sou seu adorável locutor senhor Josh AKA. \nTenham.. Uma.. Boa.. Noite!!!."
+    jo "*Voz de anunciante da WWE* Adoráveis damas... e caras, sou seu amado locutor, o senhor Josh AKA Sr. Tenham-Uma-Boa-Noite!!."
 
 # game/v9/scene43.rpy:115
 translate portuguese v9_warehouse_josh_85fe8c96:
@@ -143,3 +143,11 @@ translate portuguese v9_warehouse_josh_e28aeeb6:
 
     # ki "Later!"
     ki "Até logo!"
+# TODO: Translation updated at 2021-07-31 16:17
+
+# game/v9/scene43.rpy:109
+translate portuguese v9_warehouse_josh_eb947913:
+
+    # jo "*WWE announcer Voice* Lovely, lovely ladies... and dudes, I'm your beloved announcer Josh AKA Mr. Have-A-Good-Time."
+    jo "*Voz de anunciante da WWE* Adoráveis damas... e caras, sou seu amado locutor, o senhor Josh AKA Sr. Tenham-Uma-Boa-Noite!!."
+

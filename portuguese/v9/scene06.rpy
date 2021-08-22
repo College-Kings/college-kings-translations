@@ -599,3 +599,11 @@ translate portuguese strings:
     # game/v9/scene06.rpy:289
     old "Serious"
     new "Sério"
+# TODO: Translation updated at 2021-07-31 16:17
+
+# game/v9/scene06.rpy:308
+translate portuguese dtl_f_de811f79:
+
+    # ri "No, it is NOT!"
+    ri "Não, não é NÃO!"
+

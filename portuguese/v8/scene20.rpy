@@ -1644,167 +1644,167 @@ translate portuguese strings:
 translate portuguese v8s20_nsfwSkipLabel1_6d1e062e:
 
     # em "How about we make this more interesting?"
-    em ""
+    em "Que tal a gente deixar as coisas mais interessantes?"
 
 # game/v8/scene20.rpy:1139
 translate portuguese v8s20_nsfwSkipLabel1_b1a60398:
 
     # u "More interesting than that?"
-    u ""
+    u "Mais interessantes que isso?"
 
 # game/v8/scene20.rpy:1147
 translate portuguese v8s20_nsfwSkipLabel1_b272eac8:
 
     # em "First person to get a stuffed animal is the ultimate winner."
-    em ""
+    em "A primeira pessoa a conseguir o ursinho de pelúcia vai ser o vecedor supremo."
 
 # game/v8/scene20.rpy:1151
 translate portuguese v8s20_nsfwSkipLabel1_b592843e:
 
     # u "And?"
-    u ""
+    u "E?"
 
 # game/v8/scene20.rpy:1155
 translate portuguese v8s20_nsfwSkipLabel1_c26bc4f1:
 
     # em "Winner gets a kiss."
-    em ""
+    em "O vencedor ganha um beijo."
 
 # game/v8/scene20.rpy:1159
 translate portuguese v8s20_nsfwSkipLabel1_186676dc:
 
     # u "Seems like I win either way, so I'll even let you go first."
-    u ""
+    u "Parece que eu ganho de um jeito ou do outro, então primeiro as damas."
 
 # game/v8/scene20.rpy:1163
 translate portuguese v8s20_nsfwSkipLabel1_953354fa:
 
     # em "Such a gentleman."
-    em ""
+    em "Todo um cavalheiro."
 
 # game/v8/scene20.rpy:1167
 translate portuguese v8s20_nsfwSkipLabel1_17f40a63:
 
     # em "Get ready to lose."
-    em ""
+    em "Se prepara pra perder."
 
 # game/v8/scene20.rpy:1173
 translate portuguese v8s20_nsfwSkipLabel1_4d12181a:
 
     # em "Damn it."
-    em ""
+    em "Que merda!"
 
 # game/v8/scene20.rpy:1177
 translate portuguese v8s20_nsfwSkipLabel1_9b700d30:
 
     # u "Let me show you how it's done."
-    u ""
+    u "Deixa o pai te mostrar como se faz."
 
 # game/v8/scene20.rpy:1183
 translate portuguese v8s20_nsfwSkipLabel1_74a6934c:
 
     # u "So close!"
-    u ""
+    u "Quase!"
 
 # game/v8/scene20.rpy:1184
 translate portuguese v8s20_nsfwSkipLabel1_e4140240:
 
     # em "Good show. My turn now."
-    em ""
+    em "Mandou bem. Minha vez."
 
 # game/v8/scene20.rpy:1224
 translate portuguese v8s20_nsfwSkipLabel1_162123b6:
 
     # u "Finally!"
-    u ""
+    u "Finalmente!"
 
 # game/v8/scene20.rpy:1225
 translate portuguese v8s20_nsfwSkipLabel1_22554d2e:
 
     # em "HOW?"
-    em ""
+    em "COMO?"
 
 # game/v8/scene20.rpy:1229
 translate portuguese v8s20_nsfwSkipLabel1_86664b91:
 
     # u "It's called talen-"
-    u ""
+    u "Isso se chama talen-"
 
 # game/v8/scene20.rpy:1233
 translate portuguese v8s20_nsfwSkipLabel1_4b1f73ab:
 
     # ann "Attention! We're closing in five minutes. Everyone is requested to leave the arcade zone immediately. Thank you for visiting."
-    ann ""
+    ann "Atenção! O estabelecimento fecha em cinco minutos. Todos os clientes devem sair imediatamente da área de jogos. Obrigado pela sua visita."
 
 # game/v8/scene20.rpy:1237
 translate portuguese v8s20_nsfwSkipLabel1_8fdb075e:
 
     # em "Awww, too bad. Time to go home."
-    em ""
+    em "Awww, que pena. Hora de ir pra casa."
 
 # game/v8/scene20.rpy:1241
 translate portuguese v8s20_nsfwSkipLabel1_2ae43ea4:
 
     # u "But I was winning! I had it!"
-    u ""
+    u "Mas eu estava ganhando! Tava no papo já!"
 
 # game/v8/scene20.rpy:1245
 translate portuguese v8s20_nsfwSkipLabel1_7ea29e84:
 
     # em "Sure you did. Come on. Walk me home."
-    em ""
+    em "Claro que sim. Vamos. Me leva pra casa."
 
 # game/v8/scene20.rpy:1271
 translate portuguese v8s20_nsfwSkipLabel1_709aba89:
 
     # em "Thank you for the lovely evening."
-    em ""
+    em "Obrigada pela linda noite."
 
 # game/v8/scene20.rpy:1275
 translate portuguese v8s20_nsfwSkipLabel1_eccca5d3:
 
     # u "And thanks for asking me to come out. This sure beat studying."
-    u ""
+    u "E obrigado por me convidar pra sair. Isso com certeza foi melhor que ficar estudando."
 
 # game/v8/scene20.rpy:1279
 translate portuguese v8s20_nsfwSkipLabel1_d134fb4e:
 
     # em "Maybe we can do it again sometime."
-    em ""
+    em "Talvez a gente possa repetir isso outro dia."
 
 # game/v8/scene20.rpy:1283
 translate portuguese v8s20_nsfwSkipLabel1_d4aba523:
 
     # u "Hope so."
-    u ""
+    u "Espero que sim."
 
 # game/v8/scene20.rpy:1287
 translate portuguese v8s20_nsfwSkipLabel1_b0b67d4f:
 
     # em "Goodnight, [name]."
-    em ""
+    em "Boa noite, [name]."
 
 # game/v8/scene20.rpy:1293
 translate portuguese v8s20_nsfwSkipLabel1_bceb4588:
 
     # u "Night."
-    u ""
+    u "Boa Noite."
 
 # game/v8/scene20.rpy:1314
 translate portuguese v8s20_nsfwSkipLabel1_4719ef48:
 
     # u "I had fun."
-    u ""
+    u "Eu me diverti."
 
 # game/v8/scene20.rpy:1318
 translate portuguese v8s20_nsfwSkipLabel1_bf5bc2ff:
 
     # em "Me too, thanks for coming. Goodnight."
-    em ""
+    em "Eu também, obrigada por vir. Boa noite."
 
 # game/v8/scene20.rpy:1324
 translate portuguese v8s20_nsfwSkipLabel1_bceb4588_1:
 
     # u "Night."
-    u ""
+    u "Boa noite."
 

@@ -306,3 +306,23 @@ translate portuguese strings:
     old "off"
     new "Desligar"
 
+# TODO: Translation updated at 2021-07-31 16:17
+
+translate portuguese strings:
+
+    # game/screens.rpy:374
+    old "Start"
+    new "Iniciar"
+
+    # game/screens.rpy:384
+    old "Preferences"
+    new "Preferências"
+
+    # game/screens.rpy:687
+    old "save"
+    new "salvar"
+
+    # game/screens.rpy:959
+    old "Change Language"
+    new "Trocar Idioma"
+

@@ -10,7 +10,7 @@ translate portuguese v9_driving_home_lake_781a0f73:
 translate portuguese v9_driving_home_lake_21efdd1c:
 
     # u "And you were like what, seven?"
-    u "E você tinha o quê, sete?"
+    u "E você tinha o quê, sete anos?"
 
 # game/v9/scene8.rpy:23
 translate portuguese v9_driving_home_lake_9497fa07:
@@ -28,7 +28,7 @@ translate portuguese v9_driving_home_lake_d2467061:
 translate portuguese v9_driving_home_lake_574b3d2a:
 
     # ry "You just don't get it. The point is I was born with no fear. And I wasn't afraid ever since."
-    ry "Você simplesmente não entendeu. \nO importante é que eu nasci sem medo. E não tenho medo desde então."
+    ry "Você simplesmente não entende. \nO importante é que eu nasci sem medo. E nunca tive medo até então."
 
 # game/v9/scene8.rpy:39
 translate portuguese v9_driving_home_lake_c31b2f0d:
@@ -40,25 +40,25 @@ translate portuguese v9_driving_home_lake_c31b2f0d:
 translate portuguese v9_driving_home_lake_a6822e5b:
 
     # ry "Oh yeah? I don't think so. Bravery is recognized in people when they are still young."
-    ry "Ah, é? Eu acho que que prova. A coragem é reconhecida nas pessoas quando elas ainda são pequenas."
+    ry "Ah, é? Eu acho que prova. A coragem é percebida nas pessoas desde que são pequenas."
 
 # game/v9/scene8.rpy:49
 translate portuguese v9_driving_home_lake_d6f50c92:
 
     # ri "What has gotten into Ryan today, he's full brag mode on."
-    ri "O que aconteceu com o Ryan hoje, ele está no modo de tagarelice total."
+    ri "O que deu no Ryan hoje, ele tá no modo tagarelice total."
 
 # game/v9/scene8.rpy:54
 translate portuguese v9_driving_home_lake_f2073757:
 
     # ry "Just stating the facts, but you don't have to believe me."
-    ry "Apenas declarando os fatos, mas você não tem que acreditar em mim."
+    ry "Apenas mostrando os fatos, mas você não tem que acreditar em mim."
 
 # game/v9/scene8.rpy:59
 translate portuguese v9_driving_home_lake_5923d7b5:
 
     # u "That story was kinda cool, though."
-    u "Essa história foi meio legal, entretanto."
+    u "Essa história até que foi legal."
 
 # game/v9/scene8.rpy:64
 translate portuguese v9_driving_home_lake_b409d988:
@@ -70,7 +70,7 @@ translate portuguese v9_driving_home_lake_b409d988:
 translate portuguese v9_driving_home_lake_eaac88de:
 
     # au "Don't tell me you really think Ryan's story was cool?"
-    au "Não diga que você realmente acha que a história do Ryan foi legal?"
+    au "Não diga que você realmente achou que a história do Ryan foi legal?"
 
 # game/v9/scene8.rpy:71
 translate portuguese v9_driving_home_lake_cb51f3c5:
@@ -82,7 +82,7 @@ translate portuguese v9_driving_home_lake_cb51f3c5:
 translate portuguese v9_driving_home_lake_9fc611ed:
 
     # u "Reminds me of one thing I heard from someone a long time ago."
-    u "Me lembra de uma htória que ouvi de alguém há muito tempo atrás."
+    u "Me lembra de uma história que ouvi de alguém há muito tempo atrás."
 
 # game/v9/scene8.rpy:81
 translate portuguese v9_driving_home_lake_a6435508:
@@ -100,13 +100,13 @@ translate portuguese v9_driving_home_lake_90f33614:
 translate portuguese v9_driving_home_lake_c1564c4d:
 
     # ri "You trying to scare us, now?"
-    ri "Você está tentando nos assustar, agora?"
+    ri "Você está tentando nos assustar agora?"
 
 # game/v9/scene8.rpy:96
 translate portuguese v9_driving_home_lake_93539e68:
 
     # u "No, no, true story. He was really tired but he knew he was still safe to drive. When all out of nowhere..."
-    u "Não, claro que não, essa história é verdadeira. \nEle estava muito cansado, mas sabia que ainda estava seguro pra dirigir. Quando de repente do nada ..."
+    u "Não, claro que não, essa história é verdadeira. \nEle estava muito cansado, mas sabia que ainda era seguro dirigir. Quando de repente, do nada ..."
 
 # game/v9/scene8.rpy:101
 translate portuguese v9_driving_home_lake_59e994f4:
@@ -130,7 +130,7 @@ translate portuguese v9_driving_home_lake_4f16d06d:
 translate portuguese v9_driving_home_lake_04e169b6:
 
     # u "He was really confused, so he looked below his wheel to see if something broke. But the moment he lifted his head back up Bang! He hit something with his car!"
-    u "Ele estava muito confuso, então olhou no painel atrás do volante para ver se alguma coisa estava quebrada. Mas no momento em que ele levantou a cabeça para cima Bang! Ele bateu em alguma coisa com o carro!"
+    u "Ele estava muito confuso, então olhou por cima do volante pra ver se alguma coisa estava quebrada. Mas no momento em que ele levantou a cabeça Bang! Ele bateu em alguma!"
 
 # game/v9/scene8.rpy:125
 translate portuguese v9_driving_home_lake_77fcf6c8:
@@ -142,19 +142,19 @@ translate portuguese v9_driving_home_lake_77fcf6c8:
 translate portuguese v9_driving_home_lake_70b05107:
 
     # u "It was true! The guy didn't really feel the hit, but he was so sure hit something, that he immediately stomped the brakes."
-    u "Era verdade! O cara Não sentiu REALMENTE o golpe... \nmas ele estava tão certo de ter batido em alguma coisa, e imediatamente pisou no freio."
+    u "É sério! O cara realmente não sentiu a batida de verdade... \nmas ele tinha tanta certeza que tinha batido em algo que imediatamente pisou no freio."
 
 # game/v9/scene8.rpy:135
 translate portuguese v9_driving_home_lake_08045f44:
 
     # au "Oh I would not stop for a second."
-    au "Oh, eu não ia parar nem por um segundo."
+    au "Oh, nem ferrando que eu ia parar."
 
 # game/v9/scene8.rpy:140
 translate portuguese v9_driving_home_lake_7ab351bb:
 
     # u "He took a moment and a deep breath, then exited his car."
-    u "Ele respirou um momento e respirou fundo, depois saiu do seu carro."
+    u "Ele esperou um momento e respirou fundo, depois saiu do carro."
 
 # game/v9/scene8.rpy:145
 translate portuguese v9_driving_home_lake_b13389bf:
@@ -166,7 +166,7 @@ translate portuguese v9_driving_home_lake_b13389bf:
 translate portuguese v9_driving_home_lake_93cbdea0:
 
     # u "He carefully looked in the distance and truly did see a shadow on the road, not moving. It was about 40... no, 30 yards away."
-    u "Ele olhou atentamente de longe e realmente viu uma sombra na estrada, sem se mexer. \nEla estava a cerca de 40... não, a 30 metros de distância."
+    u "Ele olhou atentamente na distância e viu uma sombra na estrada, que não se mexia. \nEla estava a cerca de 40... não, uns 30 metros de distância."
 
 # game/v9/scene8.rpy:155
 translate portuguese v9_driving_home_lake_2248b2fd:
@@ -178,19 +178,19 @@ translate portuguese v9_driving_home_lake_2248b2fd:
 translate portuguese v9_driving_home_lake_5fd138da:
 
     # u "It wasn't a deer. Wasn't really easy to see even though the headlights were still on, so he made a couple of steps in the shadow's direction."
-    u "Não era um cervo. \nNão era realmente fácil de ver, embora os faróis ainda estivessem acesos, então ele deu alguns passos na direção da sombra."
+    u "Não era um cervo. \nNa verdade não era fácil de ver, mesmo que os faróis ainda estivessem acesos, então ele deu alguns passos na direção da sombra."
 
 # game/v9/scene8.rpy:165
 translate portuguese v9_driving_home_lake_fa966bf1:
 
     # ry "I mean, who would be that stupid?!"
-    ry "Quer dizer, quem seria tão estúpido assim?!"
+    ry "Tipo, quem seria tão idiota assim?!"
 
 # game/v9/scene8.rpy:170
 translate portuguese v9_driving_home_lake_e69558ff:
 
     # u "You mean brave? When he got so close that he almost could see what that thing was, the headlights suddenly went off!"
-    u "Você quer dizer corajoso? Então quando ele chegou tão perto que quase podia ver o que aquela coisa era, {b}\nos faróis se apagaram de repente!{/b}."
+    u "Você quer dizer corajoso? Então, quando ele estava a ponto de descobrir o que aquela coisa era, {b}\nos faróis se apagaram de repente!{/b}."
 
 # game/v9/scene8.rpy:175
 translate portuguese v9_driving_home_lake_b5b4a67f:
@@ -208,19 +208,19 @@ translate portuguese v9_driving_home_lake_e611f019:
 translate portuguese v9_driving_home_lake_17bbe6e1:
 
     # u "So he immediately turns back to the car, but nothing was suspicious there. Yet, when he turned his head back to the shadow, the shadow was gone too!"
-    u "Então ele olhou imediatamente para o carro, mas não tinha nada suspeito lá. No entanto, quando ele virou sua cabeça \nde volta para a sombra, {cps=10}a sombra também desapareceu!{/cps}"
+    u "Então, ele olhou imediatamente para o carro, mas não tinha nada de suspeito lá. No entanto, quando ele virou sua cabeça \nde volta para a sombra, {cps=10}a sombra também desapareceu!{/cps}"
 
 # game/v9/scene8.rpy:190
 translate portuguese v9_driving_home_lake_bbc12887:
 
     # ry "No! You are making this up, stop!"
-    ry "Não! Você está inventando isso, para!"
+    ry "Não! Você está inventando isso, pára!"
 
 # game/v9/scene8.rpy:195
 translate portuguese v9_driving_home_lake_f0045484:
 
     # u "Then he heard a noise, like the lock on his car clicked all out of sudden. So he looked back at the car again! And there, in the driver's seat, now was sitting a shadow."
-    u "Então ele ouviu um barulho, como se a trava do seu carro tivesse acionada de repente. Ele olhou para o carro de novo! E lá, no banco do motorista, {cps=15}agora estava sentado uma sombra.{/cps}"
+    u "Então ele ouviu um barulho, como se a trava do seu carro tivesse sido acionada de repente. Ele olhou para o carro de novo! E lá, no banco do motorista, {cps=15}agora estava sentada aquela sombra.{/cps}"
 
 # game/v9/scene8.rpy:200
 translate portuguese v9_driving_home_lake_cb899e58:
@@ -238,7 +238,7 @@ translate portuguese v9_driving_home_lake_3b711d89:
 translate portuguese v9_driving_home_lake_006506a7:
 
     # u "So the guy ran and ran, but behind him the car had its headlights turning on and off, on and off... driving him insane."
-    u "Então o cara correu e correu, mas atrás dele o carro ficava com os faróis acendendo e apagando, acendendo e apagando... \no levando à loucura."
+    u "Então o cara correu e correu, mas atrás dele o carro ficava com os faróis piscando, acendendo e apagando... \nlevando-o à loucura."
 
 # game/v9/scene8.rpy:215
 translate portuguese v9_driving_home_lake_e34bf831:
@@ -262,7 +262,7 @@ translate portuguese v9_driving_home_lake_aeea7ddb:
 translate portuguese v9_driving_home_lake_b8417943:
 
     # u "Luckily, another car was passing by and stopped to help the guy. Together, they went back to check on his car."
-    u "Por sorte, outro carro estava passando e parou para ajudar o cara. Então os dois voltaram para checar o carro dele."
+    u "Por sorte, outro carro estava passando e parou para ajudar o cara. Então os dois voltaram para dar uma olhada no carro dele."
 
 # game/v9/scene8.rpy:235
 translate portuguese v9_driving_home_lake_a0961c2e:
@@ -274,25 +274,25 @@ translate portuguese v9_driving_home_lake_a0961c2e:
 translate portuguese v9_driving_home_lake_148ddd9f:
 
     # u "No one. They've opened the car hood and that's when they found out..."
-    u "Não tinha ninguém. Eles abriram o capô do carro e foi quando {b}descobriram...{/b}"
+    u "Não tinha ninguém. Eles abriram o capô do carro e {b}descobriram...{/b}"
 
 # game/v9/scene8.rpy:245
 translate portuguese v9_driving_home_lake_eaa4a6a7:
 
     # ry "Racoon? Killer?? A ghost?!"
-    ry "Um bicho? Assassino?? Um fantasma?!"
+    ry "Um guaxinim? Assassino?? Um fantasma?!"
 
 # game/v9/scene8.rpy:250
 translate portuguese v9_driving_home_lake_cad8bbd8:
 
     # u "No. The car battery has gone haywire, sparking and all. It was causing all the problems."
-    u "Não. A bateria do carro ficou soltou e ficou com mal contato, com faíscas e tudo mais. \nEstava causando todos esses problemas."
+    u "Não. A bateria do carro estava fazendo mal contato, com faíscas e tudo mais. \nEstava causando todos esses problemas."
 
 # game/v9/scene8.rpy:259
 translate portuguese v9_driving_home_lake_44822625:
 
     # ri "Whaaaat?! You are joking, right!"
-    ri "O que?! \nVocê está brincando, certo!"
+    ri "O quêêê?! \nVocê tá brincando, né?!"
 
 # game/v9/scene8.rpy:264
 translate portuguese v9_driving_home_lake_7c0d375d:
@@ -304,13 +304,13 @@ translate portuguese v9_driving_home_lake_7c0d375d:
 translate portuguese v9_driving_home_lake_e9bc6684:
 
     # u "Well I did say he was pretty tired, haha. Eyes can deceive you when you're tired."
-    u "Bem, eu disse que no início que ele estava bem cansado, haha. \nOs olhos podem enganar nos engnar quando você estamos cansado."
+    u "Bom, eu disse no início que ele estava bem cansado, haha. \nOs olhos podem nos enganar quando estamos cansados."
 
 # game/v9/scene8.rpy:274
 translate portuguese v9_driving_home_lake_8b5aa81b:
 
     # au "Fuck, my heart almost stopped! That is so stupid!"
-    au "Porra, meu coração quase parou! Isso é tão estúpido!"
+    au "Porra, meu coração quase parou! Isso é tão idiota!"
 
 # game/v9/scene8.rpy:279
 translate portuguese v9_driving_home_lake_64964cf5:
@@ -322,19 +322,19 @@ translate portuguese v9_driving_home_lake_64964cf5:
 translate portuguese v9_driving_home_lake_bfd244de:
 
     # ry "I... I knew it was something stupid all along!"
-    ry "E... Eu sabia que era algo estúpido o tempo todo!"
+    ry "E... Eu sabia que era algo idiota o tempo todo!"
 
 # game/v9/scene8.rpy:289
 translate portuguese v9_driving_home_lake_3de15674:
 
     # u "Yeah right, hero. I think you were shaking the most."
-    u "Sim, certo, herói. Eu acho que você é o que mais estava tremendo."
+    u "Sim, claro, machão. Eu acho que você é o que mais estava tremendo."
 
 # game/v9/scene8.rpy:294
 translate portuguese v9_driving_home_lake_d3905d80:
 
     # ry "Well one thing sure remains certain. You guys are fun to hang around with."
-    ry "Bem, uma coisa com certeza é certa. Vocês são divertidos pra se estar."
+    ry "Bom, um fato é um fato. Vocês são legais de estar por perto."
 
 # game/v9/scene8.rpy:299
 translate portuguese v9_driving_home_lake_04c20dbf:
@@ -352,19 +352,19 @@ translate portuguese v9_driving_home_lake_455eac9f:
 translate portuguese v9_driving_home_lake_7a667dd7:
 
     # au "You are just a bunch of crazy people, haha."
-    au "Vocês são apenas um bando de malucos, haha."
+    au "Vocês são um bando de doidos, haha."
 
 # game/v9/scene8.rpy:314
 translate portuguese v9_driving_home_lake_84d4036c:
 
     # ry "Wait, wait, but I didn't tell you about my neighbor and the scary cat lady!"
-    ry "Espera, espera, mas eu ainda não falei da minha vizinha \ne da senhora que tem uma gata assustadora!"
+    ry "Espera, espera, mas eu ainda não falei da minha vizinha \ne a velha dos gatos!!"
 
 # game/v9/scene8.rpy:319
 translate portuguese v9_driving_home_lake_eb8e9e93:
 
     # ri "Oh shut up, Ryan!"
-    ri "Oh, fica quieto, Ryan!"
+    ri "Ah, cala boca, Ryan!"
 
 # game/v9/scene8.rpy:324
 translate portuguese v9_driving_home_lake_9bead381:
@@ -376,4 +376,4 @@ translate portuguese v9_driving_home_lake_9bead381:
 translate portuguese v9_driving_home_lake_2745c320:
 
     # u "No, I just need to hear this now, haha."
-    u "Não, eu só tenho que ouvir issso agora, haha."
+    u "Não, eu preciso ouvir isso agora, haha."

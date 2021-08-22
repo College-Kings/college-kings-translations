@@ -262,3 +262,11 @@ translate portuguese strings:
     old "Don't help Nora"
     new "Não ajudar a Nora"
 
+# TODO: Translation updated at 2021-07-31 16:17
+
+# game/v8/scene33.rpy:91
+translate portuguese nora_trip_nerv_5a9a62be:
+
+    # u "Wow that sounds awesome...ly expensive."
+    u "Nossa, isso parece ser incrivel...mente caro."
+

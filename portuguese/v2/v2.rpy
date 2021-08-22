@@ -4776,3 +4776,17 @@ translate portuguese v2_nsfwSkipLabel6_8928515d:
 
     # pe "Are you ready to buy an outfit?"
     pe "Você está pronto pra comprar?"
+# TODO: Translation updated at 2021-07-31 16:17
+
+# game/v2/v2.rpy:1167
+translate portuguese meet_lauren2_53160b56:
+
+    # la "Ugh okay... I hope that's true. Anyway..."
+    la "Ugh tá... eu espero que seja verdade. De qualquer jeito..."
+
+# game/v2/v2.rpy:1459
+translate portuguese history2_75e4dd00:
+
+    # u "Thanks... and I don't know if he was an Ape, but he was also at the party and he started insulting me on my way to meet with Lauren."
+    u "Valeu... e eu não sei se ele era um Gorila, mas ele também estava na festa e começou a me insultar quando estava indo me encontrar com a Lauren."
+

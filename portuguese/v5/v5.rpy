@@ -4079,3 +4079,41 @@ translate portuguese strings:
     # game/v5/v5.rpy:24
     old "Don't worry, you'll see me soon."
     new "Não se estressa, logo logo cê vai me ver."
+# TODO: Translation updated at 2021-07-31 16:17
+
+# game/v5/v5.rpy:186
+translate portuguese ev_bd_7e2bb437:
+
+    # u "(Way to mess things up with Chloe... great fucking job, [name].)"
+    u "(Bela maneira de estragar tudo com a Chloe... mandou bem [name].)"
+
+# game/v5/v5.rpy:283
+translate portuguese jorepb_326bb96d:
+
+    # u "He said Grayson told him about a lot of shady shit that you did in the past."
+    u "Ele disse que o Grayson contou pra ele sobre um monte de coisas sinistras que você fez no passado."
+
+# game/v5/v5.rpy:582
+translate portuguese nnbd_7e2bb437:
+
+    # u "(Way to mess things up with Chloe... great fucking job, [name].)"
+    u "(Bela maneira de estragar tudo com a Chloe... mandou bem [name].)"
+
+# game/v5/v5.rpy:754
+translate portuguese continuez_bd485a95:
+
+    # la "Oh... yeah, of course, I'm sorry, I didn't-"
+    la "Ah... sim, claro, eu sinto muito, eu não-"
+
+# game/v5/v5.rpy:2127
+translate portuguese gokiss_bd485a95:
+
+    # la "Oh... yeah, of course, I'm sorry, I didn't-"
+    la "Ah... sim, claro, eu sinto muito, eu não-"
+
+# game/v5/v5.rpy:2246
+translate portuguese hospitala_09b5abca:
+
+    # u "Mhmmm..."
+    u "Mhmmm..."
+

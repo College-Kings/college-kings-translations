@@ -1,180 +1,229 @@
-﻿# TODO: Translation updated at 2021-06-05 20:30
+# SCENE 9: MC and Frat leave. MC back in room
+# Locations: MC Apes/Wolves Room
+# Characters: Ryan (Outfit 2), Sam (Outfit 2),MC (Outfit 7), Grayson (Outfit 3),Imre (Outfit 4), Sebastian (Outfit 1),Cameron (Outfit 3),Chris (Outfit 2)
+# Time: Sunday Morning
+label v10_leave_fight:
+    play music "music/v10/Scene 9/Track Scene 9.mp3" fadein 3
+    if joinwolves:
+        scene v10sraf1 # TPP. MC sits down on bed in his room.
+        with fade
+        pause 0.5
 
-# game/v10/scene9.rpy:16
-translate francais v10_leave_fight_d81fd0fd:
+        if v10_ryan_win: # RCS - MC is a Wolf and won the fight.
+            scene v10sraf1a # TPP. Same camera as v10swaf1. Show MC sitting on the bed in his room. MC looks proud, mouth closed.
+            with dissolve
 
-    # u "(What a fucking day! Definitely didn't expect any of this when I came to college. So many ups, so many downs. Crazy shit.)"
-    u ""
+            u "(Quelle putain de journée ! Je ne m'attendais certainement pas à tout cela quand je suis arrivé à l'université. Tant de hauts, tant de bas. Merde folle.)"
+        else:
+            scene v10sraf1b # TPP. Same camera as v10swaf1. Show MC sitting on the bed in his room. MC looks disappointed, mouth closed.
+            with dissolve
 
-# game/v10/scene9.rpy:21
-translate francais v10_leave_fight_d8ea90b7:
+            u "(Aujourd'hui ça ne s'est vraiment pas passé comme prévu... C'est la pire des sensations.)"
 
-    # u "(Today really didn't go as planned... This is the worst fucking feeling.)"
-    u ""
+        if v10_ryan_fight:
+            scene v10sraf1c # TPP. Same camera as v10swaf1. Show MC sitting on bed in his room. MC reacts to someone knocking on his door.
+            with dissolve
+            play sound "sounds/knock.mp3"
 
-# game/v10/scene9.rpy:35
-translate francais v10_leave_fight_d1bfd8b5:
+            pause 0.5
 
-    # u "(Enough for today, I'm going to sleep.)"
-    u ""
+            menu:
+                "Fais comme si tu dormais":
+                    scene v10sraf1c
+                    with dissolve
 
-# game/v10/scene9.rpy:45
-translate francais v10_leave_fight_6bcd435f:
+                    u "(Assez pour aujourd'hui, je vais dormir.)"
 
-    # u "Yeah?"
-    u ""
+                    scene v10sraf2 # TPP. Show MC sitting in bed. He gets in the bed, deciding to go to sleep.
+                    with dissolve
+                    pause 0.5
+           
+                "Répondre à la porte":
+                    scene v10sraf3 # FPP. Show the door in MC's Wolves room. MC is sitting on the bed.
+                    with dissolve
 
-# game/v10/scene9.rpy:56
-translate francais v10_leave_fight_1c81c8e1:
+                    u "Oui ?"
 
-    # ch "If I ever have a son I'm naming him [name]! I'm so proud of you right now."
-    ch ""
+                    if v10_ryan_win: # RCS - MC is a Wolf and won the fight.
+                        scene v10sraf3a # FPP. Same camera as v10sraf3. Show Chris, Sebastian and Imre entering MC's room. They are all smiling.
+                        with dissolve
 
-# game/v10/scene9.rpy:61
-translate francais v10_leave_fight_6ad29c6e:
+                        pause 0.5
+                    
+                        scene v10sraf3b # FPP. Same camera as v10sraf3. Show Chris, Sebastian and Imre. All smiling, Chris mouth open.
+                        with dissolve
 
-    # se "Looks like guys really belong into the Wolves. Well done."
-    se ""
+                        ch "Si jamais j'ai un fils, je l'appelle [name] ! Je suis tellement fier de toi en ce moment."
 
-# game/v10/scene9.rpy:66
-translate francais v10_leave_fight_db4a123d:
+                        scene v10sraf3c # FPP. Same camera as v10sraf3. Show Chris, Sebastian and Imre. All smiling, Sebastian mouth open.
+                        with dissolve
 
-    # u "Imre either turned into a beast out there or his opponent was just trash."
-    u ""
+                        se "On dirait que les gars appartiennent vraiment aux Wolves. Bien fait."
 
-# game/v10/scene9.rpy:71
-translate francais v10_leave_fight_9a1dcc2b:
+                        scene v10sraf3d # FPP. Same camera as v10sraf3. Show Chris, Sebastian and Imre. All smiling, all mouths closed.
+                        with dissolve
 
-    # imre "*Laughs* That guy had no fucking chance, classic Apes. So much shit talk and no backing it up."
-    imre ""
+                        u "Imre s'est soit transformé en bête là-bas, soit son adversaire n'était qu'un déchet."
 
-# game/v10/scene9.rpy:76
-translate francais v10_leave_fight_461cb1ae:
+                        scene v10sraf3e # FPP. Same camera as v10sraf3. Show Chris, Sebastian and Imre. All smiling, Imre mouth open.
+                        with dissolve
 
-    # ch "Really well done guys, you're absolutely crushing it."
-    ch ""
+                        imre "*Rires* Ce type n'avait aucune putain de chance, classique d'un Apes. Tellement de bavardages et aucun support."
 
-# game/v10/scene9.rpy:81
-translate francais v10_leave_fight_ee01f9b9:
+                        scene v10sraf3b
+                        with dissolve
 
-    # u "Thanks."
-    u ""
+                        ch "Vraiment bien joué les gars, vous êtes absolument en train de l'écraser."
 
-# game/v10/scene9.rpy:86
-translate francais v10_leave_fight_f5c508dd:
+                        scene v10sraf3d
+                        with dissolve
 
-    # ch "Try to get some sleep, I'm sure it's the only privacy you're gonna have after a fight like that. *Chuckles*"
-    ch ""
+                        u "Merci."
 
-# game/v10/scene9.rpy:91
-translate francais v10_leave_fight_9e26ccb4:
+                        scene v10sraf3b
+                        with dissolve
 
-    # u "(Damn, I'm really THAT guy now!)"
-    u ""
+                        ch "Essayez de dormir, je suis sûr que c'est la seule intimité que vous aurez après un combat comme ça. *Rires*"
 
-# game/v10/scene9.rpy:106
-translate francais v10_leave_fight_5d0ff11e:
+                        scene v10sraf3f # FPP. Same camera as v10sraf3. Show Chris, Sebastian and Imre leaving MC's room.
+                        with dissolve
 
-    # ch "I don't know if it's true, but one of the guys mentioned that you might have held back cause you were friends with your opponent. There are no friends in the ring, [name]."
-    ch ""
+                        u "(Merde, je suis vraiment CE gars maintenant !)"
 
-# game/v10/scene9.rpy:111
-translate francais v10_leave_fight_49424dab:
+                        scene v10sraf2
+                        with dissolve
 
-    # se "Yeah, that shit's not okay. You can't get your ass kicked by an Ape."
-    se ""
+                        pause 0.5
+                
+                    else: # RCS - MC is a Wolf and lost the fight
+                        scene v10sraf3g
+                        with dissolve
+                        pause 0.5
+                    
+                        scene v10sraf3h
+                        with dissolve
 
-# game/v10/scene9.rpy:116
-translate francais v10_leave_fight_c5dc2d5d:
+                        ch "e ne sais pas si c'est vrai, mais l'un des gars a mentionné que tu es peut-être retenu parce que tu étais ami avec ton adversaire. Il n'y a pas d'amis sur le ring, [name]."
 
-    # u "I'm sorry guys. He was just better on the day."
-    u ""
+                        scene v10sraf3i
+                        with dissolve
 
-# game/v10/scene9.rpy:121
-translate francais v10_leave_fight_f9f2e824:
+                        se "Ouais, cette merde ne va pas bien. Tu ne peux pas te faire botter le cul par un Apes."
 
-    # ch "Try to get some sleep now, no use beating yourself up over it."
-    ch ""
+                        scene v10sraf3j
+                        with dissolve
 
-# game/v10/scene9.rpy:130
-translate francais v10_leave_fight_7cbd5471:
+                        u "Je suis désolé les gars. Il était juste meilleur ce jour-là."
 
-    # u "(Damn, I really dropped the ball there...)"
-    u ""
+                        scene v10sraf3h
+                        with dissolve
 
-# game/v10/scene9.rpy:147
-translate francais v10_leave_fight_d81fd0fd_1:
+                        ch "Essayes de dormir un peu maintenant, inutile de te battre pour ça."
 
-    # u "(What a fucking day! Definitely didn't expect any of this when I came to college. So many ups, so many downs. Crazy shit.)"
-    u ""
+                        scene v10sraf3f
+                        with dissolve
+                        pause 0.5
 
-# game/v10/scene9.rpy:152
-translate francais v10_leave_fight_d8ea90b7_1:
+                        scene v10sraf3f
+                        with dissolve
 
-    # u "(Today really didn't go as planned... This is the worst fucking feeling.)"
-    u ""
+                        u "(Merde, j'ai vraiment laissé tomber la balle là...)"
 
-# game/v10/scene9.rpy:167
-translate francais v10_leave_fight_d1bfd8b5_1:
+                        scene v10sraf2
+                        with fade
 
-    # u "(Enough for today, I'm going to sleep.)"
-    u ""
+                        pause 0.5
 
-# game/v10/scene9.rpy:177
-translate francais v10_leave_fight_6bcd435f_1:
+    else: # RCS - MC is an Ape
+        scene v10sraf4 # TPP. MC sits down on bed in his room. Apes.
+        with fade
+        
+        pause 0.5
 
-    # u "Yeah?"
-    u ""
+        if v10_imre_win: # RCS - MC is an Ape and won the fight
+            scene v10sraf4a # TPP. Same camera as v10sraf4. Show MC sitting on the bed in his room. MC looks proud, mouth closed.
+            with dissolve
 
-# game/v10/scene9.rpy:185
-translate francais v10_leave_fight_512de434:
+            u "(Quelle putain de journée ! Je ne m'attendais certainement pas à tout cela quand je suis arrivé à l'université. Tant de hauts, tant de bas. Merde folle.)"
+        else:
+            scene v10sraf4b # TPP. Same camera as v10sraf4. Show MC sitting on the bed in his room. MC looks disappointed, mouth closed.
+            with dissolve
 
-    # gr "Great job tonight [name], I fucking knew you were gonna destroy him."
-    gr ""
+            u "(Aujourd'hui ça ne s'est vraiment pas passé comme prévu... C'est la pire des sensations.)"
 
-# game/v10/scene9.rpy:190
-translate francais v10_leave_fight_8824c385:
+        if v10_imre_win: # RCS - MC is an Ape and won the fight
+            scene v10sraf4c # TPP. Same camera as v10sraf4. Show MC sitting on bed in his room. MC reacts to someone knocking on his door.
+            with dissolve
 
-    # ca "Actually turning into a fighter... not a horrible performance today."
-    ca ""
+            play sound "sounds/knock.mp3"
 
-# game/v10/scene9.rpy:195
-translate francais v10_leave_fight_ed511f23:
+            pause 0.5
 
-    # u "Thanks guys. Ryan killed it too though."
-    u ""
+            menu:
+                "Fais comme si tu dormais":
+                    scene v10sraf4c
+                    with dissolve
 
-# game/v10/scene9.rpy:200
-translate francais v10_leave_fight_935cc2f7:
+                    u "(Assez pour aujourd'hui, je vais dormir.)"
 
-    # ry "We both did, man. Apes all the way!"
-    ry ""
+                    scene v10sraf5 # TPP. Show MC sitting in bed. He gets in the bed, deciding to go to sleep.
+                    with fade
+                    pause 0.5
 
-# game/v10/scene9.rpy:205
-translate francais v10_leave_fight_0fcf95e9:
+                "Répondre à la porte":
+                    scene v10sraf6 # FPP. Show the door in MC's Apes room. MC is sitting on his bed.
+                    with dissolve
 
-    # gr "That's fucking right."
-    gr ""
+                    u "Oui ?"
+                    scene v10sraf6a # FPP. Same camera as v10sraf6. Show Grayson, Cameron and Ryan entering MC's room. They are all smiling.
+                    with dissolve
+                    pause 0.5
 
-# game/v10/scene9.rpy:210
-translate francais v10_leave_fight_716f29f3:
+                    scene v10sraf6b # FPP. Same camera as v10sraf6. Show Grayson, Cameron and Ryan. All smiling, Grayson mouth open.
+                    with dissolve
 
-    # u "Haha, I appreciate the compliments, but I'm super exhausted, so I think I'm just gonna head to bed if that's alright."
-    u ""
+                    gr "Super boulot ce soir [name], je savais que tu allais le détruire."
 
-# game/v10/scene9.rpy:215
-translate francais v10_leave_fight_f6c7ab3e:
+                    scene v10sraf6c # FPP. Same camera as v10sraf6. Show Grayson, Cameron and Ryan. All smiling, Cameron mouth open.
+                    with dissolve
 
-    # gr "You've earned it."
-    gr ""
+                    ca "Se transformer en combattant... ce n'est pas une performance horrible aujourd'hui."
 
-translate francais strings:
+                    scene v10sraf6d # FPP. Same camera as v10sraf6. Show Grayson, Cameron and Ryan. All smiling, all mouths closed.
+                    with dissolve
 
-    # game/v10/scene9.rpy:30
-    old "Act like you're asleep"
-    new ""
+                    u "Merci les gars. Ryan l'a tué aussi."
 
-    # game/v10/scene9.rpy:30
-    old "Answer the door"
-    new ""
+                    scene v10sraf6e # FPP. Same camera as v10sraf6. Show Grayson, Cameron and Ryan. All smiling, Ryan mouth open.
+                    with dissolve
 
+                    ry "Nous l'avons fait tous les deux, mec. Apes jusqu'au bout !"
+
+                    scene v10sraf6b
+                    with dissolve
+
+                    gr "Putain c'est vrai."
+
+                    scene v10sraf6d
+                    with dissolve
+
+                    u "Haha, j'apprécie les compliments, mais je suis super épuisé, donc je pense que je vais juste aller me coucher si ça va."
+
+                    scene v10sraf6b
+                    with dissolve
+
+                    gr "Tu l'as mérité."
+
+                    scene v10sraf6f # FPP. Same camera as v10sraf6. Show Grayson, Cameron and Ryan leaving MC's room.
+                    with dissolve
+
+                    pause 0.5
+
+        else:
+            scene v10sraf5
+            with fade
+
+            pause 0.5
+
+    stop music fadeout 3
+    jump v10_sun_morn

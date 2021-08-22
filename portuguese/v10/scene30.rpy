@@ -521,3 +521,89 @@ translate portuguese v10s30_nsfwSkipLabel1_2c78773d_1:
 
     # cl "See you around [name]."
     cl "Até a próxima [name]."
+# TODO: Translation updated at 2021-07-31 16:17
+
+# game/v10/scene30.rpy:267
+translate portuguese v10s30_chloeLicking_222a6f16:
+
+    # cl "I'm gonna cum!"
+    cl "Eu vou gozar!"
+
+# game/v10/scene30.rpy:272
+translate portuguese v10s30_chloeLicking_c26ffcbd:
+
+    # cl "Oh my god, I'm cumming!"
+    cl "Ah meu Deus, eu vou gozar!"
+
+# game/v10/scene30.rpy:282
+translate portuguese v10s30_chloeLicking_b53821cd:
+
+    # cl "Your turn."
+    cl "Sua vez."
+
+# game/v10/scene30.rpy:287
+translate portuguese v10s30_chloeLicking_60a59849:
+
+    # u "Oh God!"
+    u "Caralho!"
+
+# game/v10/scene30.rpy:293
+translate portuguese v10s30_chloeBlowjob_bcc0c0dd:
+
+    # u "I need to win games more often."
+    u "Eu preciso ganhar mais constantemente."
+
+# game/v10/scene30.rpy:301
+translate portuguese v10s30_chloeBlowjob_77595f28:
+
+    # u "This is... oh fuck."
+    u "Isso é... puta merda."
+
+# game/v10/scene30.rpy:306
+translate portuguese v10s30_chloeBlowjob_5077813d:
+
+    # u "I'm gonna cum."
+    u "Eu vou gozar."
+
+# game/v10/scene30.rpy:311
+translate portuguese v10s30_chloeBlowjob_61e3a8cb:
+
+    # u "Ahh fuck... I'm cumming!"
+    u "Aahh porraa... Eu tô gozando!"
+
+# game/v10/scene30.rpy:316
+translate portuguese v10s30_chloeBlowjob_d1c7d776:
+
+    # cl "Mmm..."
+    cl "Mmm..."
+
+# game/v10/scene30.rpy:321
+translate portuguese v10s30_chloeBlowjob_30e4e810:
+
+    # cl "*gulp*"
+    cl "*Engole*"
+
+# game/v10/scene30.rpy:328
+translate portuguese v10s30_chloeBlowjob_cf557223:
+
+    # cl "How was that for a reward?"
+    cl "Como foi a sua recompensa?"
+
+# game/v10/scene30.rpy:333
+translate portuguese v10s30_chloeBlowjob_2e7f819d:
+
+    # u "Couldn't have been better."
+    u "Não poderia ter sido melhor."
+
+# game/v10/scene30.rpy:338
+translate portuguese v10s30_chloeBlowjob_e8abd882:
+
+    # cl "As much as I would love to stay and chat, I need to go study. Hope you don't feel like I'm rushing off."
+    cl "Por mais que eu queria ficar e conversar, eu tenho que estudar. Espero que você não ache que eu tô tentando fugir."
+
+# game/v10/scene30.rpy:343
+translate portuguese v10s30_chloeBlowjob_5879a77a:
+
+    # u "Nah you're good, I need to study too honestly."
+    u "Nah, não tem problema, eu também tenho que estudar."
+

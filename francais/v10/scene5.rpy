@@ -1,74 +1,88 @@
-﻿# TODO: Translation updated at 2021-06-05 20:30
+# SCENE 5: Imre vs Caleb
+# Locations: Abandoned Warehouse
+# Characters: MC (Outfit 7), Josh (Outfit 2), Imre (Outfit 4), Caleb (Outfit 2)
+# Time: Saturday Night
 
-# game/v10/scene5.rpy:11
-translate francais v10_imre_vs_caleb_fight_17b978b3:
+label v10_imre_vs_caleb_fight:
+    play music "music/v10/Scene 4 & 5/Track Scene 4 & 5.mp3" fadein 3
+    scene v10ivc3b # TPP. Show Josh in the ring strolling around as if he's adressing a crowd, mouth open.
+    with fade
 
-    # jo "Well, the show must go on."
-    jo ""
+    jo "Eh bien, le spectacle doit continuer."
+    
+    jo "Après ce petit retard, nous voilà enfin prêts pour le premier combat de la nuit."
+    
+    jo "Imre contre Caleb !"
 
-# game/v10/scene5.rpy:13
-translate francais v10_imre_vs_caleb_fight_7e634509:
+    scene v10ivc4b # TPP. Show Imre stepping into the ring.
+    with dissolve
 
-    # jo "After this small delay, we're now finally ready for the first fight of the night."
-    jo ""
+    pause 0.75
 
-# game/v10/scene5.rpy:15
-translate francais v10_imre_vs_caleb_fight_07839494:
+    scene v10ivc5b # TPP. Show Caleb stepping into the ring.
+    with dissolve
 
-    # jo "Imre versus Caleb!"
-    jo ""
+    pause 0.75
 
-# game/v10/scene5.rpy:30
-translate francais v10_imre_vs_caleb_fight_e964dca7:
+    scene v10ivc6 # TPP. Show Josh addressing both Imre and Caleb who are stood in opposite corners of the ring, Caleb and Imre angrily starring at eachother, Josh mouth open.
+    with dissolve
 
-    # jo "Don't kill each other, stay in the ring, yada, yada, yada. Have fun!"
-    jo ""
+    jo "Ne vous entretuez pas, restez sur le ring, yada, yada, yada. Amusez-vous !"
 
-# game/v10/scene5.rpy:35
-translate francais v10_imre_vs_caleb_fight_e9a39362:
+    scene v10ivc7 # TPP. Show Josh leaving the ring, Imre and Caleb stepping up closer to eachother, guards up, starring angrilly, Caleb mouth open.
+    with dissolve
 
-    # cal "You better be ready, cause I'm about to dance circles around you."
-    cal ""
+    cal "Tu ferais mieux d'être prêt, parce que je suis sur le point de danser des cercles autour de toi."
 
-# game/v10/scene5.rpy:40
-translate francais v10_imre_vs_caleb_fight_bbd65ac9:
+    scene v10ivc8 # TPP. Show Imre, imre drops his guard and sarcastically laughs, mouth open.
+    with dissolve 
 
-    # imre "Hope you're watching ladies!"
-    imre ""
+    imre "J'espère que vous regardez mesdames !"
 
-# game/v10/scene5.rpy:64
-translate francais v10_imre_vs_caleb_fight_8e185b13:
+    scene v10ivc9 # TPP. Show Caleb swinging a punch at Imre, Imre dodges to the side easilly.
+    with dissolve
 
-    # jo "Doesn't look like he's getting up anytime soon! Not sure any of us expected this to happen so quickly... Is he alive?"
-    jo ""
+    pause 0.75
 
-# game/v10/scene5.rpy:69
-translate francais v10_imre_vs_caleb_fight_0e07d8ca:
+    scene v10ivc9a # TPP. Same as ivc9, show Imre, returning from his dodge with a punch square to Caleb's jaw, Caleb in pain, begins to fall.
+    with hpunch
 
-    # jo "Ah, who cares, this is fight night."
-    jo ""
+    play sound "sounds/hs.mp3"
 
-# game/v10/scene5.rpy:74
-translate francais v10_imre_vs_caleb_fight_4a6f411d:
+    pause 0.75
 
-    # jo "Anyways, looks like we have a winner everyone! Most likely in record time!"
-    jo ""
+    scene v10ivc9b # TPP. Same as ivc9, Caleb now knocked out on the floor, Imre stood over him with a saractic smile.
+    with dissolve
 
-# game/v10/scene5.rpy:76
-translate francais v10_imre_vs_caleb_fight_bed436de:
+    play sound "sounds/fall.mp3"
 
-    # jo "Any words to the crowd after that amazing performance?"
-    jo ""
+    pause 1
 
-# game/v10/scene5.rpy:81
-translate francais v10_imre_vs_caleb_fight_2dd3ea2f:
+    scene v10ivc10 # TPP. Show Josh climbing back into the ring, mouth open looking at Caleb on the floor.
+    with dissolve
 
-    # imre "To all the fine ass ladies out there, that was for you."
-    imre ""
+    jo "Il n'a pas l'air de se lever de sitôt ! Pas sûr que l'un d'entre nous s'attendait à ce que cela se produise si rapidement... Est-il vivant ?"
 
-# game/v10/scene5.rpy:86
-translate francais v10_imre_vs_caleb_fight_b2240209:
+    scene v10ivc11 # TPP. Show Josh walking around the ring as if he's announcing again, Josh smile.
+    with dissolve
 
-    # jo "Sounds like you know what you're here for!"
-    jo ""
+    jo "Ah, peu importe, c'est la nuit du combat."
 
+    scene v10ivc12 # TPP. Show Josh now stood with Imre, Josh looking at Imre, both smiling, Josh mouth open.
+    with dissolve
+    
+    jo "Quoi qu'il en soit, on dirait que nous avons un gagnant tout le monde ! Très probablement en un temps record !"
+
+    jo "Un mot à la foule après cette incroyable performance ?"
+
+    scene v10ivc12a # TPP. Same as ivc12, Imre mouth open.
+    with dissolve
+
+    imre "À toutes les belles femmes au cul là-bas, c'était pour vous."
+
+    scene v10ivc12
+    with dissolve
+
+    jo "On dirait que tu sais pourquoi tu es là !"
+    stop music fadeout 3
+    jump v10_mc_vs_imre_fight

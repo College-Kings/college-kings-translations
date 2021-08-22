@@ -4,7 +4,7 @@
 translate portuguese v10_wolves_redec_4df48b01:
 
     # u "Hey Chris, I really appreciate the room and all, but I haven't had a chance to make it scream [name] yet. It cool if I jazz it up a bit?"
-    u "Ei Chris, eu realmente aprecio o quarto e tudo mais, mas ainda não tive a chance de fazer ele a cara do [name]. Tá legal se eu o mudar ele um pouco?"
+    u "Ei Chris, eu realmente fico feliz pelo quarto e tudo mais, mas ainda não tive a chance de fazer ele gritar [name]. Tá legal se eu o mudar ele um pouco?"
 
 # game/v10/scene13.rpy:28
 translate portuguese v10_wolves_redec_330c5ce3:
@@ -22,7 +22,7 @@ translate portuguese v10_wolves_redec_db45c5a6:
 translate portuguese v10_wolves_redec_1f934751:
 
     # ch "Yeah man! Make it scream 'Wolves', you know?"
-    ch "Sim, cara! Fazer gritar \"Lobos\",  sabe?"
+    ch "Sim, cara! Fazer gritar \"Lobos\", sabe?"
 
 # game/v10/scene13.rpy:43
 translate portuguese v10_wolves_redec_b7b4eb93:
@@ -46,7 +46,7 @@ translate portuguese v10_wolves_redec_afe5b98b:
 translate portuguese v10_wolves_redec_57d8d8ca:
 
     # u "Hey, feels like you've kinda been hiding since the fight."
-    u "Ei, parece que você está meio escondido desde a luta."
+    u "Ei, parece que você está meio que se escondendo desde a luta."
 
 # game/v10/scene13.rpy:68
 translate portuguese v10_wolves_redec_b5435dd1:
@@ -58,13 +58,13 @@ translate portuguese v10_wolves_redec_b5435dd1:
 translate portuguese v10_wolves_redec_0c35028a:
 
     # u "I'm getting ready to decorate my room."
-    u "Estou me preparando pra mudar meu quarto."
+    u "Estou me preparando pra decorar o meu quarto."
 
 # game/v10/scene13.rpy:78
 translate portuguese v10_wolves_redec_f962524a:
 
     # guyd "Oh wow, you wants some help?"
-    guyd "Oh uau, você quer alguma ajuda?"
+    guyd "Ah uau, você quer alguma ajuda?"
 
 # game/v10/scene13.rpy:89
 translate portuguese v10_wolves_redec_af42423d:
@@ -76,25 +76,25 @@ translate portuguese v10_wolves_redec_af42423d:
 translate portuguese v10_wolves_redec_70d4e0c1:
 
     # u "Hey man, hope you don't mind me asking, but what made you back out at the brawl?"
-    u "Ei cara, espero que você não se importe que eu pergunte, mas o que o fez sair for da briga?"
+    u "Ei cara, espero que você não se importe que eu pergunte, mas o que o fez você sair da briga?"
 
 # game/v10/scene13.rpy:104
 translate portuguese v10_wolves_redec_1f678b80:
 
     # guyd "I was waiting for you to bring that up. It's kind of embarassing, man."
-    guyd "Eu estava esperando você pperguntar sobre isso. É meio embaraçoso, cara."
+    guyd "Eu estava esperando você pperguntar sobre isso. É meio vergonhoso, cara."
 
 # game/v10/scene13.rpy:109
 translate portuguese v10_wolves_redec_cbb67e80:
 
     # u "Embarassing? What's up?"
-    u "Embaraçoso? Como assim?"
+    u "Vergonhoso? Como assim?"
 
 # game/v10/scene13.rpy:114
 translate portuguese v10_wolves_redec_83b04292:
 
     # guyd "Well, the reason I ran and chose not to fight isn't because I didn't want to, it's because I couldn't."
-    guyd "Bem, a razão pela qual eu precisei sair e escolhi não lutar não foi porque eu não queria, foi porque eu não podia."
+    guyd "Bom, a razão pela qual eu saí e escolhi não lutar não foi porque eu não queria, foi porque eu não podia."
 
 # game/v10/scene13.rpy:119
 translate portuguese v10_wolves_redec_3f445921:
@@ -112,13 +112,13 @@ translate portuguese v10_wolves_redec_04467af6:
 translate portuguese v10_wolves_redec_1899c846:
 
     # u "Sick from what?"
-    u "Doente de quê?"
+    u "Doente do quê?"
 
 # game/v10/scene13.rpy:134
 translate portuguese v10_wolves_redec_76d2366f:
 
     # guyd "You know that sushi we had in the fridge for a while?"
-    guyd "Você sabe aquele sushi que tínhamos na geladeira por um tempo?"
+    guyd "Você sabe aquele sushi que estava na geladeira por um tempinho já?"
 
 # game/v10/scene13.rpy:139
 translate portuguese v10_wolves_redec_505a3f68:
@@ -130,19 +130,19 @@ translate portuguese v10_wolves_redec_505a3f68:
 translate portuguese v10_wolves_redec_bf5b4103:
 
     # guyd "Well, I ate it right before the fight because I was hungry and well I've never had sushi before. Turns out, I'm allergic."
-    guyd "Bem, eu comi bem antes da briga porque estava com fome e bem, nunca comi sushi antes. Acontece que eu sou alérgico."
+    guyd "Bom, eu comi bem antes da briga porque estava com fome e bem, nunca comi sushi antes. Aparentemente, eu sou alérgico."
 
 # game/v10/scene13.rpy:149
 translate portuguese v10_wolves_redec_b0adf0ee:
 
     # u "Are you serious!?"
-    u "Você está falando sério?"
+    u "Você tá falando sério?"
 
 # game/v10/scene13.rpy:154
 translate portuguese v10_wolves_redec_c69982bc:
 
     # guyd "Sadly, yes. Regardless of me sick or not though the guys still weren't happy."
-    guyd "Infelizmente sim. Independentemente de eu estar doente ou não, embora os caras não focaram felizes."
+    guyd "Infelizmente sim. Independentemente de eu estar doente ou não, os caras não ficaram felizes."
 
 # game/v10/scene13.rpy:159
 translate portuguese v10_wolves_redec_13180a3d:
@@ -154,7 +154,7 @@ translate portuguese v10_wolves_redec_13180a3d:
 translate portuguese v10_wolves_redec_f3035874:
 
     # guyd "Yeah, next time though I'm going in like a beast."
-    guyd "Sim, mas da próxima vez vou entrar como uma besta."
+    guyd "Sim, mas da próxima vez vou entrar como um animal."
 
 # game/v10/scene13.rpy:169
 translate portuguese v10_wolves_redec_0a32df86:
@@ -172,19 +172,19 @@ translate portuguese v10_wolves_redec_318f0c65:
 translate portuguese v10_wolves_redec_8f945033:
 
     # u "Yeah, this is way better, the carpet and curtains really finish it off. Thanks man!"
-    u "Sim, isso é muito melhor, o tapete e as cortinas realmente detonaram. Obrigado, amigo!"
+    u "Sim, ficou muito melhor, o tapete e as cortinas realmente deram o toque final. Valeu cara!"
 
 # game/v10/scene13.rpy:178
 translate portuguese v10_wolves_redec_2308ae9f:
 
     # guyd "Anytime."
-    guyd "A qualquer momento."
+    guyd "Sempre que precisar."
 
 # game/v10/scene13.rpy:181
 translate portuguese v10_wolves_redec_f04441de:
 
     # u "I appreciate it man, but I'm all good. This is gonna require all my focus."
-    u "Agradeço, cara, mas estou bem. Isto vai exigir todo o meu foco."
+    u "Agradeço, cara, mas já deu. Isto vai exigir todo o meu foco."
 
 # game/v10/scene13.rpy:186
 translate portuguese v10_wolves_redec_24b470b0:
@@ -207,3 +207,11 @@ translate portuguese strings:
     # game/v10/scene13.rpy:83
     old "Decline help"
     new "Recusar a ajuda e mudar sozinho"
+# TODO: Translation updated at 2021-07-31 16:17
+
+# game/v10/scene13.rpy:104
+translate portuguese v10_wolves_redec_b1f92f4b:
+
+    # guyd "I was waiting for you to bring that up. It's kind of embarrassing, man."
+    guyd "Eu estava esperando você falar disso. É meio que vergonhoso, cara."
+

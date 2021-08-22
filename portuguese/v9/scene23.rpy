@@ -40,31 +40,31 @@ translate portuguese v9_dinner_w_rose_c3c7a58e:
 translate portuguese v9_dinner_w_rose_2ad4ce12:
 
     # u "I'll take a water, too. Thanks."
-    u "Também vou tomar água. Obrigado."
+    u "Também vou querer água. Obrigado."
 
 # game/v9/scene23.rpy:52
 translate portuguese v9_dinner_w_rose_b37af4a2:
 
     # ro "Coming right up."
-    ro "Já estou vindo."
+    ro "É pra já."
 
 # game/v9/scene23.rpy:59
 translate portuguese v9_dinner_w_rose_60da80ab:
 
     # u "Um, here, let me help."
-    u "Um, aqui, me deixa te ajudar."
+    u "Um, aqui, deixa eu te ajudar."
 
 # game/v9/scene23.rpy:64
 translate portuguese v9_dinner_w_rose_9e8b8f73:
 
     # ro "You're such a fine young man. Your parents must be proud."
-    ro "Você é um jovem tão bom homem. Seus pais devem estar orgulhosos."
+    ro "Você é um ótimo jovem. Seus pais devem estar orgulhosos."
 
 # game/v9/scene23.rpy:69
 translate portuguese v9_dinner_w_rose_0038b270:
 
     # u "I do my best. And you seem better. How are things?"
-    u "Eu faço o meu melhor. E você parece melhor. Como estão as coisas?"
+    u "Eu faço o meu melhor. Você parece melhor. Como estão as coisas?"
 
 # game/v9/scene23.rpy:74
 translate portuguese v9_dinner_w_rose_6019ce02:
@@ -100,13 +100,13 @@ translate portuguese v9_dinner_w_rose_4edc8f99:
 translate portuguese v9_dinner_w_rose_a4bb6d19:
 
     # finn "I'm starving."
-    finn "Eu estou morrendo de fome."
+    finn "Estou morrendo de fome."
 
 # game/v9/scene23.rpy:120
 translate portuguese v9_dinner_w_rose_ed55e7e3:
 
     # imre "You're always starving! You should get checked for a tapeworm!"
-    imre "Você está sempre morrendo de fome! Você deveria ser examinado para ver se tem algo no seu estômago!"
+    imre "Você está sempre morrendo de fome! Você deveria ser examinado para ver se não tá com vermes!"
 
 # game/v9/scene23.rpy:125
 translate portuguese v9_dinner_w_rose_a29c7a90:
@@ -124,19 +124,19 @@ translate portuguese v9_dinner_w_rose_241d1f1b:
 translate portuguese v9_dinner_w_rose_c0cf2855:
 
     # u "Let me help."
-    u "Me deixa ir te ajudar."
+    u "Deixa eu te ajudar."
 
 # game/v9/scene23.rpy:140
 translate portuguese v9_dinner_w_rose_413da0ec:
 
     # ro "No, have a seat. This is a thank you dinner. I can't have you doing more work!"
-    ro "Não, pode se sentar. Este é um jantar de agradecimento. Não posso permitir que você faça mais trabalho!"
+    ro "Não precisa, pode se sentar. Este é um jantar de agradecimento. Não posso permitir que você trabalhe mais!"
 
 # game/v9/scene23.rpy:157
 translate portuguese v9_dinner_w_rose_6a8b117b:
 
     # u "Hey you wanna catch a workout later?"
-    u "Ei, você quer fazer treinar mais tarde?"
+    u "Ei, você quer treinar mais tarde?"
 
 # game/v9/scene23.rpy:162
 translate portuguese v9_dinner_w_rose_e5c077cf:
@@ -178,7 +178,7 @@ translate portuguese v9_dinner_w_rose_d01ef9fb:
 translate portuguese v9_dinner_w_rose_a9902111:
 
     # u "Yeah, I had a blast coming up with the scene, but having to get up in front of everyone. And those accents!"
-    u "Sim, eu me diverti muito com a cena, mas ter que me levantar na frente de todos. E aqueles sotaques!"
+    u "Sim, eu me diverti muito com a cena, mas ter que atuar na frente de todos. E aqueles sotaques!"
 
 # game/v9/scene23.rpy:198
 translate portuguese v9_dinner_w_rose_ffddec28:
@@ -202,7 +202,7 @@ translate portuguese v9_dinner_w_rose_8445dcfc:
 translate portuguese v9_dinner_w_rose_44576609:
 
     # finn "It smells so good!"
-    finn "Tem um cheiro tão bom!"
+    finn "O cheiro tá ótimo!"
 
 # game/v9/scene23.rpy:218
 translate portuguese v9_dinner_w_rose_0e14f2d7:
@@ -214,7 +214,7 @@ translate portuguese v9_dinner_w_rose_0e14f2d7:
 translate portuguese v9_dinner_w_rose_fa171f20:
 
     # ro "Dig in boys!"
-    ro "Pode atacar meninos!"
+    ro "Podem atacar meninos!"
 
 # game/v9/scene23.rpy:228
 translate portuguese v9_dinner_w_rose_495b63f0:
@@ -232,13 +232,13 @@ translate portuguese v9_dinner_w_rose_886bf3fe:
 translate portuguese v9_dinner_w_rose_cd217aef:
 
     # u "You can always open a restaurant if you get tired of dealing with college kids, Ms. Rose."
-    u "Você sempre pode abrir um restaurante se você se cansar de lidar com garotos universitários, Sra. Rose."
+    u "Você poderia abrir um restaurante se você cansasse de lidar com garotos universitários, Sra. Rose."
 
 # game/v9/scene23.rpy:243
 translate portuguese v9_dinner_w_rose_24900a4d:
 
     # ro "I couldn't imagine life without my students, especially good ones like you boys."
-    ro "Eu não posso imaginar a minha vida sem meus alunos, especialmente os bons como vocês, rapazes."
+    ro "Eu não consigo imaginar a minha vida sem meus alunos, especialmente os bons como vocês, rapazes."
 
 # game/v9/scene23.rpy:248
 translate portuguese v9_dinner_w_rose_5f090dee:
@@ -256,7 +256,7 @@ translate portuguese v9_dinner_w_rose_e639e498:
 translate portuguese v9_dinner_w_rose_91a0b93f:
 
     # u "You're a great teacher, Ms. Rose, and we all want you to be happy. We're here if you need anything."
-    u "Você é uma grande professora, Sra. Rose, e todos nós queremos que você seja feliz. Estamos aqui, se você precisar de alguma coisa."
+    u "Você é uma grande professora, Prof. Rose, e todos nós queremos que você seja feliz. Estamos aqui, se você precisar de alguma coisa."
 
 # game/v9/scene23.rpy:263
 translate portuguese v9_dinner_w_rose_634c4c56:
@@ -286,7 +286,7 @@ translate portuguese v9_dinner_w_rose_3074c699:
 translate portuguese v9_dinner_w_rose_88c5135e:
 
     # ch "Me too. I can't move."
-    ch "Eu também. Não posso me mover."
+    ch "Eu também. Não consigo me mover."
 
 # game/v9/scene23.rpy:288
 translate portuguese v9_dinner_w_rose_3d56ad80:
@@ -334,13 +334,13 @@ translate portuguese v9_dinner_w_rose_a0dd42b2:
 translate portuguese v9_dinner_w_rose_15405f71:
 
     # ro "My grandmother's famous Caramel Apple Pie."
-    ro "A famosa torta de maçã Caramelo da minha avó."
+    ro "A famosa torta de maçã com caramelo da minha avó."
 
 # game/v9/scene23.rpy:328
 translate portuguese v9_dinner_w_rose_689508a3:
 
     # u "Wow, you did all this while unpacking? I would have burned the house down."
-    u "Uau, você fez tudo isso enquanto desempacotava? Eu teria incendiado a casa."
+    u "Uau, você fez tudo isso enquanto estava se mudando? Eu teria incendiado a casa."
 
 # game/v9/scene23.rpy:332
 translate portuguese v9_dinner_w_rose_ef4235f2:
@@ -376,13 +376,13 @@ translate portuguese v9_dinner_w_rose_913310f8:
 translate portuguese v9_dinner_w_rose_9ec1522d:
 
     # u "That's what I was just thinking!"
-    u "Isso é o que eu estava pensando agora!"
+    u "Isso é o que eu estava pensando!"
 
 # game/v9/scene23.rpy:362
 translate portuguese v9_dinner_w_rose_5823b966:
 
     # finn "Did she look sad for a second when we were talking earlier?"
-    finn "Ela pareceu triste por um segundo quando nós estávamos conversando antes?"
+    finn "Ela pareceu triste por um segundo quando nós estávamos conversando?"
 
 # game/v9/scene23.rpy:366
 translate portuguese v9_dinner_w_rose_a6235dc6:
@@ -400,7 +400,7 @@ translate portuguese v9_dinner_w_rose_32dac2c1:
 translate portuguese v9_dinner_w_rose_29e2429d:
 
     # ro "Nobody can resist Grandma Ruth's famous Caramel Apple Pie!"
-    ro "Ninguém consegue resistir à famosa torta de maçã Caramelo da vovó Ruth!"
+    ro "Ninguém consegue resistir à famosa torta de maçã com caramelo da vovó Ruth!"
 
 # game/v9/scene23.rpy:381
 translate portuguese v9_dinner_w_rose_9f1ebea2:
@@ -412,7 +412,7 @@ translate portuguese v9_dinner_w_rose_9f1ebea2:
 translate portuguese v9_dinner_w_rose_741eba50:
 
     # imre "I'd be the size of a sumo wrestler if I grew up with Grandma Ruth!"
-    imre "Eu seria do tamanho de um lutador de sumo se eu crescesse com a vovó Ruth!"
+    imre "Eu seria do tamanho de um lutador de sumô se eu crescesse com a vovó Ruth!"
 
 # game/v9/scene23.rpy:391
 translate portuguese v9_dinner_w_rose_c1beece0:
@@ -424,7 +424,7 @@ translate portuguese v9_dinner_w_rose_c1beece0:
 translate portuguese v9_dinner_w_rose_409d6bbb:
 
     # ch "Whoa! You actually filled Finn up, Ms. Rose! I don't think that's ever happened!"
-    ch "Uau! Você realmente encheu o Finn, Sra. Rose! Eu acho que isso nunca aconteceu!"
+    ch "Uau! Você realmente encheu o Finn, Prof. Rose! Eu acho que isso nunca aconteceu!"
 
 # game/v9/scene23.rpy:401
 translate portuguese v9_dinner_w_rose_4ed93385:
@@ -478,19 +478,19 @@ translate portuguese v9_dinner_w_rose_5a42c141:
 translate portuguese v9_dinner_w_rose_fc5186db:
 
     # imre "Nice TV, Ms. Rose. Is it new?"
-    imre "Bela TV, Sra. Rose. É nova?"
+    imre "Bela TV, Prof. Rose. É nova?"
 
 # game/v9/scene23.rpy:458
 translate portuguese v9_dinner_w_rose_a31b4951:
 
     # ro "Yes. I dropped the one you helped me move. Got it all the way here and tipped it over when I was plugging it in."
-    ro "Sim. Deixei cair a que você me ajudou a trazer. Trouxe até aqui mas derrubei ela quando a estava prestes a ligar."
+    ro "Sim. Deixei cair a que você me ajudou a trazer. Trouxe até aqui mas derrubei ela quando a estava instalando as coisas."
 
 # game/v9/scene23.rpy:463
 translate portuguese v9_dinner_w_rose_06f11a54:
 
     # ch "Oh, no! Well, at least you got an upgrade out of the deal. I wish we'd have stayed to help you setup, though."
-    ch "Oh, não! Bem, pelo menos você conseguiu uma melhor com isso. Mas eu preferia que pidessemos ter ficado aqui para te ajudar a montar."
+    ch "Ah, não! Bem, pelo menos você conseguiu uma melhor com isso. Mas eu preferia que pudessemos ter ficado aqui para te ajudar a montar tudo."
 
 # game/v9/scene23.rpy:468
 translate portuguese v9_dinner_w_rose_34b84b47:
@@ -532,13 +532,13 @@ translate portuguese v9_dinner_w_rose_7f4f8957:
 translate portuguese v9_dinner_w_rose_ddaa6212:
 
     # u "For what?"
-    u "Por quê?"
+    u "Pelo quê?"
 
 # game/v9/scene23.rpy:509
 translate portuguese v9_dinner_w_rose_710b7d5c:
 
     # ro "You've helped me a lot, even more than the rest of the boys. When you took the time to really talk to me while we were moving, it meant a lot."
-    ro "Vocês me ajudou muito, até mais do que o resto dos meninos. Quando você teve tempo de conversar comigo enquanto estávamos nos mudando, realmente isso significou muito."
+    ro "Você me ajudou muito, até mais do que o resto dos meninos. Quando você deu seu tempo par conversar comigo enquanto estávamos na mudança, realmente isso significou muito."
 
 # game/v9/scene23.rpy:514
 translate portuguese v9_dinner_w_rose_4e520c3f:
@@ -556,7 +556,7 @@ translate portuguese v9_dinner_w_rose_a1e0e1f6:
 translate portuguese v9_dinner_w_rose_20555e48:
 
     # u "What's the point of being part of a community if you can't help your fellow man... or woman. Haha."
-    u "Pra quê fazer parte de uma comunidade se você não pode ajudar uma mulher. Haha."
+    u "Pra quê fazer parte de uma comunidade se você não pode ajudar os que estão à sua volta. Haha."
 
 # game/v9/scene23.rpy:529
 translate portuguese v9_dinner_w_rose_1ab6b23b:
@@ -580,7 +580,7 @@ translate portuguese v9_dinner_w_rose_06f7c192:
 translate portuguese v9_dinner_w_rose_98609411:
 
     # u "I'm sure they're waiting for me up ahead. We stick together."
-    u "Tenho certeza de que eles estão me esperando lá na frente. Nós ficamos juntos. Viva os Lobos"
+    u "Tenho certeza de que eles estão me esperando lá na frente. Os lobos são uma matilha. Viva os Lobos"
 
 # game/v9/scene23.rpy:549
 translate portuguese v9_dinner_w_rose_ae35ea7c:
@@ -615,3 +615,23 @@ translate portuguese strings:
     # game/v9/scene23.rpy:305
     old "Wait"
     new "Esperar."
+# TODO: Translation updated at 2021-07-31 16:17
+
+# game/v9/scene23.rpy:157
+translate portuguese v9_dinner_w_rose_67f2d79d:
+
+    # u "Hey, you wanna catch a workout later?"
+    u "Ei, você quer treinar depois?"
+
+# game/v9/scene23.rpy:183
+translate portuguese v9_dinner_w_rose_2c7f7c31:
+
+    # u "How hard was that Viking thing in History class?"
+    u "O quão difícil foi aquela coisa viking da aula de história?"
+
+# game/v9/scene23.rpy:263
+translate portuguese v9_dinner_w_rose_06bbcfbb:
+
+    # ro "What I need now is for you boys to finish off this lasagna-"
+    ro "O que eu preciso agora é que vocês terminem essa lasanha-"
+

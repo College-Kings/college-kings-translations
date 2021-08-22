@@ -1,68 +1,80 @@
-﻿# TODO: Translation updated at 2021-06-05 20:30
+# SCENE 1: Outside Scuffle
+# Locations: Abandoned Warehouse
+# Characters: MC (Outfit 7),Imre (Outfit 4), Sebastian (Outfit 1), Cameron (Outfit 3), Ryan (Outfit 2)
+# Time: Saturday Night
+ 
+label v10start:
+   scene v10sta1 # FPP. Show Imre and ryan on the floor fighting, imre on bottom, ryan on top, angry faces, mouths closed
+   with dissolve
+   u "Qu'est ce que vous faites les gars !?"
 
-# game/v10/scene1.rpy:9
-translate francais v10start_47067c3f:
+   play music "music/v10/Scene 1/Track Scene 1.mp3" fadein 3
 
-    # u "What are you guys doing!?"
-    u ""
+   scene v10sta2 # FPP. Show MC trying to pull Ryan and imre apart, imre/ryan angry, mc worried look, mouths closed
+   with dissolve
+ 
+   pause 0.75
+ 
+   if joinwolves:
 
-# game/v10/scene1.rpy:23
-translate francais v10start_2b69d19e:
+        scene v10sta2 # FPP. Show Imre and ryan now standing in fighting stances both with fists raised, angry look on imre/ryan, ryan mouth closed, imre mouth open
+        with dissolve
 
-    # imre "Stay the fuck out [name]! This is my fight."
-    imre ""
+        imre "Reste à ta putin de place [name]! C'est mon combat."
 
-# game/v10/scene1.rpy:28
-translate francais v10start_33fb7619:
+        scene v10sta2       
+        with dissolve
 
-    # ry "You're gonna wish you hadn't called off your back up."
-    ry ""
+        ry "Vous allez regretter de ne pas avoir rappelé votre remplaçant."
 
-# game/v10/scene1.rpy:34
-translate francais v10start_4e6aae5f:
+   else:
+        scene v10sta2
+        with dissolve
+  
+        ry "Non ! C'est mon combat ! N'interfère pas putain !"
+ 
+        scene v10sta3
+        with dissolve
 
-    # ry "No! This is my fight! Don't fucking interfere!"
-    ry ""
+        imre "Je vais te défoncer la tête tout de suite."
 
-# game/v10/scene1.rpy:39
-translate francais v10start_1a8da92c:
+        scene v10sta3a # FPP. Same camera as v10sta3, angry look on imre/ryan, ryan mouth open, imre mouth closed
 
-    # imre "I’ll bash your fucking head in right now."
-    imre ""
+        with dissolve
 
-# game/v10/scene1.rpy:45
-translate francais v10start_10bb488c:
+        ry "Vous ne pouvez pas cogner la tête de quelqu'un s'il vous donne une putain de machine à cogner la tête !"
 
-    # ry "You couldn’t bash someone’s head in if they gave you a fucking head bashing machine!"
-    ry ""
+        scene v10sta3b # FPP. Same camera as v10sta3, Imre and ryan grappling each other, sebastian pulling away imre, cameron pulling away ryan, angry faces, imre/ryan/cameron closed mouths, Sebastian mouth open.
+        with dissolve
+ 
+        se "D'accord les gars, mieux vaut s'arrêter ici avant que ça devienne embarrassant."
+ 
+        scene v10sta3c
+        with dissolve
+ 
+        ca "Pourquoi putain le combattrais-tu ?! Va pour un putain de punch si tu le penses vraiment !"
 
-# game/v10/scene1.rpy:50
-translate francais v10start_9ac6850d:
+   stop music fadeout 3
 
-    # se "Alright guys, better stop here before it gets embarrassing."
-    se ""
+   if joinwolves:
+       scene v10sta4a # FPP. Same Camera as v10sta4, imre now left scene, Show Sebastian near the warehouse doors facing camera, neutral look, mouth open
+       with dissolve
+ 
+       se "Pourquoi putain le combattrais-tu ?! Va pour un putain de punch si tu le penses vraiment !"
+ 
+       jump v10_ryan_v_perry
+   else:
+       scene v10sta5 # FPP. Show Cameron Facing Camera, neutral look, mouth open
+       with dissolve
+ 
+       ca "Vous n'avez pas un combat à préparer ?"
+ 
+       scene v10sta5a # FPP. Same camera as v10sta5,Show Cameron Facing Camera, neutral look, mouth closed
+       with dissolve
+ 
+       u "(Cela devrait être un putain de spectacle.)"
+ 
+       scene v10sta6 # TPP. Show MC back to camera heading towards warehouse
+       with dissolve
 
-# game/v10/scene1.rpy:55
-translate francais v10start_8f23467c:
-
-    # ca "Why the fuck would you wrestle him?! Go for a fucking punch if you mean it!"
-    ca ""
-
-# game/v10/scene1.rpy:63
-translate francais v10start_878530ff:
-
-    # se "Why the fuck would you wrestle him?! Go for a fucking punch if you mean it!” "
-    se ""
-
-# game/v10/scene1.rpy:70
-translate francais v10start_84845ca2:
-
-    # ca "Don't you have a fight to get ready for?"
-    ca ""
-
-# game/v10/scene1.rpy:75
-translate francais v10start_a1e599de:
-
-    # u "(This ought to be a fucking show.)"
-    u ""
-
+       jump v10_imre_vs_caleb
