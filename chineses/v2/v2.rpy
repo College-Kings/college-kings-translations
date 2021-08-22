@@ -3796,13 +3796,13 @@ translate chineses eve1_f557a3ac:
 translate chineses eve1_ca334630:
 
     # ev "Look, it's very cute that you'd do that for me, but I just don't think we'd be a great fit."
-    ev "你为了那样很可爱，但我只是不认为我们很匹配。"
+    ev "听着，你为了我那样做很可爱，但我只是不认为我们很匹配。"
 
 # game/v2/v2.rpy:4173
 translate chineses eve1_291f9cbd:
 
     # ev "I'm sure you'll find someone else."
-    ev "我肯定你会找到适合的。"
+    ev "我肯定你会找到适合你的人。"
 
 # game/v2/v2.rpy:4178
 translate chineses eve1_9f0efd63:
