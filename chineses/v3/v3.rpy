@@ -1978,877 +1978,877 @@ translate chineses continuem_aac33865:
 translate chineses continuem_b887049b:
 
     # au "*Quiet moan* Ohhh okay... definitely a good idea."
-    au ""
+    au "*轻声呻吟*噢~好...绝对是个好主意。"
 
 # game/v3/v3.rpy:2133
 translate chineses continuem_0529a669:
 
     # u "Wow..."
-    u ""
+    u "哇..."
 
 # game/v3/v3.rpy:2138
 translate chineses continuem_3da13d1c:
 
     # au "*Moans*"
-    au ""
+    au "*呻吟*"
 
 # game/v3/v3.rpy:2142
 translate chineses continuem_f413f9e1:
 
     # au "Oh, [name]!"
-    au ""
+    au "噢，[名字]！"
 
 # game/v3/v3.rpy:2144
 translate chineses continuem_deeeaee6:
 
     # au "Fuck..."
-    au ""
+    au "操..."
 
 # game/v3/v3.rpy:2159
 translate chineses continuem_ada85f0b:
 
     # au "Wait."
-    au ""
+    au "等等。"
 
 # game/v3/v3.rpy:2164
 translate chineses continuem_fe6f48d8:
 
     # au "Now it's my turn."
-    au ""
+    au "现在轮到我了。"
 
 # game/v3/v3.rpy:2169
 translate chineses continuem_9ea2f78c_1:
 
     # " "
-    ""
+    " "
 
 # game/v3/v3.rpy:2178
 translate chineses continuem_d1c5d4b5:
 
     # au "You have a nice cock, I could get used to this."
-    au ""
+    au "你的肉棒真好，我会变得很习惯它的。"
 
 # game/v3/v3.rpy:2183
 translate chineses continuem_52a0545f:
 
     # au "*Kiss*"
-    au ""
+    au "*亲吻*"
 
 # game/v3/v3.rpy:2188
 translate chineses continuem_52a0545f_1:
 
     # au "*Kiss*"
-    au ""
+    au "*亲吻*"
 
 # game/v3/v3.rpy:2193
 translate chineses continuem_52a0545f_2:
 
     # au "*Kiss*"
-    au ""
+    au "*亲吻*"
 
 # game/v3/v3.rpy:2199
 translate chineses continuem_1c98fc42:
 
     # u "Okay, you know what? That's enough. We shouldn't go any further than this."
-    u ""
+    u "好了，你知道什么吗？那样就够了，我们不应该再继续往下了。"
 
 # game/v3/v3.rpy:2204
 translate chineses continuem_d0a9e22c:
 
     # au "Go further? What do you mean?"
-    au ""
+    au "继续往下？你什么意思？"
 
 # game/v3/v3.rpy:2209
 translate chineses continuem_58c0a0b8:
 
     # u "That look you just gave me... we were both thinking about it. It's just not a good idea."
-    u ""
+    u "你刚给我的那个眼神...我们都在想那件事。只是那不是个好主意。"
 
 # game/v3/v3.rpy:2214
 translate chineses continuem_45001cbe:
 
     # au "I wasn't thinking anything."
-    au ""
+    au "我没有想什么呀."
 
 # game/v3/v3.rpy:2219
 translate chineses continuem_bd25a1eb:
 
     # u "Maybe it's best if I go now."
-    u ""
+    u "也许我现在还是离开比较好。"
 
 # game/v3/v3.rpy:2224
 translate chineses continuem_6e06be80:
 
     # au "Yeah, okay... whatever."
-    au ""
+    au "是啊，好吧...随便。"
 
 # game/v3/v3.rpy:2229
 translate chineses continuem_a86a48d3:
 
     # u "(Oh god, did I just turn down Aubrey, or was I just reading into it?)"
-    u ""
+    u "（哦天哪，我刚才真的拒绝了奥布里，又或者我只是想得太多了？）"
 
 # game/v3/v3.rpy:2231
 translate chineses continuem_30fc9a25:
 
     # u "(I just don't know if it would be a good idea if we were to hook up. What if she tells Chloe? Would Chloe be okay with it?)"
-    u ""
+    u "（我只是不知道如果我们现在发生关系会不会是个好主意。要是她对克洛伊说怎么办？克洛伊会怎么想呢？）"
 
 # game/v3/v3.rpy:2233
 translate chineses continuem_5ba9599e:
 
     # u "(Also, I barely know her...)"
-    u ""
+    u "（还有，我几乎不认识她...)"
 
 # game/v3/v3.rpy:2250
 translate chineses abj_c8231a28:
 
     # u "Ahh, fuck!"
-    u ""
+    u "啊，操！"
 
 # game/v3/v3.rpy:2252
 translate chineses abj_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v3/v3.rpy:2256
 translate chineses abj_e25432e4:
 
     # u "Aubrey, this feels so fucking good."
-    u ""
+    u "奥布里，这样感觉真他妈的好。"
 
 # game/v3/v3.rpy:2258
 translate chineses abj_9ea2f78c_1:
 
     # " "
-    ""
+    " "
 
 # game/v3/v3.rpy:2282
 translate chineses abj_dd51a358:
 
     # au "*Laughing*"
-    au ""
+    au "*大笑*"
 
 # game/v3/v3.rpy:2284
 translate chineses abj_b4c007f1:
 
     # au "Lost your balance?"
-    au ""
+    au "失去平衡了？"
 
 # game/v3/v3.rpy:2289
 translate chineses abj_a8a4308f:
 
     # u "What? Nooo..."
-    u ""
+    u "什么？没有..."
 
 # game/v3/v3.rpy:2291
 translate chineses abj_7adb8e54:
 
     # u "This was just one of my moves."
-    u ""
+    u "这只是我的手法之一。"
 
 # game/v3/v3.rpy:2296
 translate chineses abj_0f04caa8:
 
     # au "Oh really?"
-    au ""
+    au "哦真的？"
 
 # game/v3/v3.rpy:2306
 translate chineses abj_af0e0b3a:
 
     # au "*Whispers* Fuck me, [name]."
-    au ""
+    au "*低声说*干我，[名字]。"
 
 # game/v3/v3.rpy:2321
 translate chineses amiss_69b49d53:
 
     # au "Yeah, that's good!"
-    au ""
+    au "是啊，那很好！"
 
 # game/v3/v3.rpy:2323
 translate chineses amiss_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v3/v3.rpy:2327
 translate chineses amiss_2ef60271:
 
     # au "*moans*"
-    au ""
+    au "*呻吟*"
 
 # game/v3/v3.rpy:2329
 translate chineses amiss_9ea2f78c_1:
 
     # " "
-    ""
+    " "
 
 # game/v3/v3.rpy:2333
 translate chineses amiss_a2310ab8:
 
     # au "Oh my god, [name]!"
-    au ""
+    au "哦天哪，[名字]！"
 
 # game/v3/v3.rpy:2335
 translate chineses amiss_9ea2f78c_2:
 
     # " "
-    ""
+    " "
 
 # game/v3/v3.rpy:2339
 translate chineses amiss_1e7ee0b5:
 
     # au "*Squeals* Yes, yes, yes!"
-    au ""
+    au "*尖叫*爽，霜，霜！"
 
 # game/v3/v3.rpy:2341
 translate chineses amiss_9ea2f78c_3:
 
     # " "
-    ""
+    " "
 
 # game/v3/v3.rpy:2346
 translate chineses amiss_e38ad56a:
 
     # au "I want to ride you."
-    au ""
+    au "我想骑在上面。"
 
 # game/v3/v3.rpy:2357
 translate chineses acow_698ce1b6:
 
     # au "You ready for round two?"
-    au ""
+    au "你准备好来第二轮了吗？"
 
 # game/v3/v3.rpy:2361
 translate chineses acow_61ec6dc9:
 
     # au "Fuck yes!"
-    au ""
+    au "操，霜！"
 
 # game/v3/v3.rpy:2363
 translate chineses acow_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v3/v3.rpy:2367
 translate chineses acow_274217b3:
 
     # au "This feels amazing, [name]!"
-    au ""
+    au "这感觉好棒，[名子]！"
 
 # game/v3/v3.rpy:2369
 translate chineses acow_9ea2f78c_1:
 
     # " "
-    ""
+    " "
 
 # game/v3/v3.rpy:2373
 translate chineses acow_bfee52c7:
 
     # au "Yes! Harder!"
-    au ""
+    au "爽！大力！"
 
 # game/v3/v3.rpy:2375
 translate chineses acow_9ea2f78c_2:
 
     # " "
-    ""
+    " "
 
 # game/v3/v3.rpy:2379
 translate chineses acow_297f6dfc:
 
     # au "I'm gonna cum!"
-    au ""
+    au "我要去了！"
 
 # game/v3/v3.rpy:2381
 translate chineses acow_6c8e318f:
 
     # u "Oh shit, so am I."
-    u ""
+    u "哦糟，我也是。"
 
 # game/v3/v3.rpy:2383
 translate chineses acow_658962e9:
 
     # au "Cum in me! It's okay, I'm on the pill."
-    au ""
+    au "射进来！没事，我有吃避孕药。"
 
 # game/v3/v3.rpy:2389
 translate chineses acream_a1e6d4df:
 
     # au "AHHHHHH!"
-    au ""
+    au "啊~！"
 
 # game/v3/v3.rpy:2398
 translate chineses acream_54adc11f:
 
     # au "Oh my god... that was amazing."
-    au ""
+    au "哦我的天哪...那太棒了。"
 
 # game/v3/v3.rpy:2407
 translate chineses acream_e0ec7bab:
 
     # u "I'm definitely glad I came over."
-    u ""
+    u "我真高兴我过来了。"
 
 # game/v3/v3.rpy:2408
 translate chineses acream_cfb87ae8:
 
     # u "Why did you want me to climb through the window anyway?"
-    u ""
+    u "话说回来，你为什么要我翻窗呢？"
 
 # game/v3/v3.rpy:2413
 translate chineses acream_18b086e8:
 
     # au "Somehow I had a hunch that something might happen between us if I told you to come over..."
-    au ""
+    au "我的直觉告诉我如果我叫你过来的话，我们之间可能会发生什么。"
 
 # game/v3/v3.rpy:2415
 translate chineses acream_1d39d760:
 
     # au "And I assume you're talking to other girls and might wanna keep this a secret."
-    au ""
+    au "另外我估计你有跟别的女生发展关系，所以你可能会想把这件事保密。"
 
 # game/v3/v3.rpy:2417
 translate chineses acream_b635c57f:
 
     # au "Plus... the secrecy kinda makes it hotter."
-    au ""
+    au "还有...保密让我更有感觉。"
 
 # game/v3/v3.rpy:2422
 translate chineses acream_b0d99340:
 
     # u "Haha, I can't disagree with that."
-    u ""
+    u "哈哈，我不可否认那点。"
 
 # game/v3/v3.rpy:2424
 translate chineses acream_7278e6f8:
 
     # u "(Damn... that was really thoughtful of her, but in a very weird way.)"
-    u ""
+    u "（哎呀...她还想得真周到，但却是以一种非常奇怪的方式。）"
 
 # game/v3/v3.rpy:2426
 translate chineses acream_a0c07db3:
 
     # u "I should probably get going soon."
-    u ""
+    u "我大概应该走了。"
 
 # game/v3/v3.rpy:2431
 translate chineses acream_32688df2:
 
     # au "Yeah, I need to get back to studying as well..."
-    au ""
+    au "是啊，我也需要回去学习了..."
 
 # game/v3/v3.rpy:2450
 translate chineses acream_42c2114b:
 
     # u "(I can't believe I just had sex with Aubrey... that was amazing.)"
-    u ""
+    u "（我不敢相信我刚同奥布里发生了性关系...感觉太好了。）"
 
 # game/v3/v3.rpy:2453
 translate chineses acream_03cdc8ec:
 
     # u "(I wonder if Lauren would be upset if she knew. I guess I'll have to decide how honest I wanna be on our date tonight.)"
-    u ""
+    u "（我怀疑如果劳伦知道后会生气的。我想我得决定我在我们今晚的约会上应该有多诚实。）"
 
 # game/v3/v3.rpy:2469
 translate chineses aubsexad_e7c00723:
 
     # u "Lauren? What are you doing here?"
-    u ""
+    u "劳伦？你在这里干嘛？"
 
 # game/v3/v3.rpy:2475
 translate chineses aubsexad_754fa29d:
 
     # la "Hey, uhm..."
-    la ""
+    la "嘿，嗯..."
 
 # game/v3/v3.rpy:2477
 translate chineses aubsexad_8cbfe3e7:
 
     # la "I'm here to ask you for a favor... as a friend."
-    la ""
+    la "我来找你帮个忙...作为一位朋友。"
 
 # game/v3/v3.rpy:2482
 translate chineses aubsexad_6b40cde0:
 
     # u "Uhm, okay... What is it?"
-    u ""
+    u "嗯，好...帮什么忙？"
 
 # game/v3/v3.rpy:2488
 translate chineses aubsexad_84ad4a94:
 
     # la "Heyyy. I need a favor."
-    la ""
+    la "嘿，我需要你帮个忙。"
 
 # game/v3/v3.rpy:2493
 translate chineses aubsexad_1817ae6c:
 
     # u "Alright, how can I help?"
-    u ""
+    u "好啊，要我怎么帮？"
 
 # game/v3/v3.rpy:2499
 translate chineses aubsexad_d310fabe:
 
     # la "Hey, uhm... I know we haven't talked since the park."
-    la ""
+    la "嘿，嗯...我知道我们在公园之后就没有谈过。"
 
 # game/v3/v3.rpy:2501
 translate chineses aubsexad_bfecc3b4:
 
     # la "But I kinda need a favor... as a friend."
-    la ""
+    la "但我有点需要你帮个忙...作为一位朋友。"
 
 # game/v3/v3.rpy:2506
 translate chineses aubsexad_adf0b143:
 
     # u "Uhm, okay. What is it?"
-    u ""
+    u "嗯，好...帮什么忙？"
 
 # game/v3/v3.rpy:2526
 translate chineses continuen_2ae5cac8:
 
     # la "So you know how I'm majoring in psychology?"
-    la ""
+    la "那你知道我是主修心理学吧？"
 
 # game/v3/v3.rpy:2531
 translate chineses continuen_2c0b9bd8:
 
     # u "Uh..."
-    u ""
+    u "呃..."
 
 # game/v3/v3.rpy:2536
 translate chineses continuen_3a7e8c10:
 
     # la "For one of my assignments I need to do several personality tests on someone and analyze them."
-    la ""
+    la "我有一门作业要我对人做几种性格测试并且对其分析。"
 
 # game/v3/v3.rpy:2539
 translate chineses continuen_6d24cda0:
 
     # la "Would you wanna be my test subject?"
-    la ""
+    la "我愿意成为我的测试对象吗？"
 
 # game/v3/v3.rpy:2548
 translate chineses continuen_015df046:
 
     # u "Yeah, I'd love to."
-    u ""
+    u "是的，我很乐意。"
 
 # game/v3/v3.rpy:2556
 translate chineses continuen_ebe62aec:
 
     # u "I don't know, Lauren. Sounds kinda weird."
-    u ""
+    u "我不知道，劳伦。那听起来很奇怪。"
 
 # game/v3/v3.rpy:2561
 translate chineses continuen_b2592261:
 
     # la "[name], pleaaase. It's just answering a few questions."
-    la ""
+    la "[名字]，求你了。只是回答几个问题而已。"
 
 # game/v3/v3.rpy:2566
 translate chineses continuen_1283716f:
 
     # u "Okay, fine."
-    u ""
+    u "好，行。"
 
 # game/v3/v3.rpy:2572
 translate chineses dc_bd_c874c495:
 
     # la "Thank you so much!"
-    la ""
+    la "太谢谢你了！"
 
 # game/v3/v3.rpy:2592
 translate chineses dc_bd_0eaa1e86:
 
     # la "Let's meet up in the next couple days then and we'll go through the first personality test."
-    la ""
+    la "让我们约好过几天见面，之后我们就进行第一次的性格测试。"
 
 # game/v3/v3.rpy:2597
 translate chineses dc_bd_d9edb83d:
 
     # u "Alright, just send me a text."
-    u ""
+    u "好吧，到时给我发短信。"
 
 # game/v3/v3.rpy:2615
 translate chineses continueq_26b31879:
 
     # u "Huh? Julia's calling me."
-    u ""
+    u "呵？朱莉娅在给我打电话。"
 
 # game/v3/v3.rpy:2626
 translate chineses continueq_a72d849a:
 
     # u "Hey, Julia!"
-    u ""
+    u "嘿，朱莉娅！"
 
 # game/v3/v3.rpy:2631
 translate chineses continueq_eb648ce8:
 
     # ju "Hey honey, how are you?"
-    ju ""
+    ju "嘿亲爱的，你过得怎样？"
 
 # game/v3/v3.rpy:2636
 translate chineses continueq_8ea462a7:
 
     # u "I'm good, what's up?"
-    u ""
+    u "我还好，有事吗？"
 
 # game/v3/v3.rpy:2641
 translate chineses continueq_6775f4bb:
 
     # ju "I was wondering if you would like to go shopping with me tomorrow morning?"
-    ju ""
+    ju "我只是在想你明早是否愿意跟我去购物？"
 
 # game/v3/v3.rpy:2643
 translate chineses continueq_90c13a46:
 
     # ju "I would pick you up and you could tell me all about your first week at college."
-    ju ""
+    ju "我会去接你，然后你可以跟我讲讲你在大学第一个星期都发生了什么。"
 
 # game/v3/v3.rpy:2645
 translate chineses continueq_21fdd5f0:
 
     # ju "And maybe we can buy you a nice new outfit for whatever girl you met?"
-    ju ""
+    ju "而且我们也许可以给你买套新衣服来为你的约会做准备？"
 
 # game/v3/v3.rpy:2650
 translate chineses continueq_4a9e9a82:
 
     # u "(Shit... if I meet her, she'll see my bruises and get really worried.)"
-    u ""
+    u "（可恶...如果我见到她，她就会发现我的瘀伤而变得很担心。）"
 
 # game/v3/v3.rpy:2657
 translate chineses continueq_b2efe1e3:
 
     # u "Yeah, shopping sounds great, Julia."
-    u ""
+    u "是啊，购物听起来很好，朱莉娅。"
 
 # game/v3/v3.rpy:2659
 translate chineses continueq_f4b5c784:
 
     # u "I'll see you tomorrow then."
-    u ""
+    u "那我们明天见。"
 
 # game/v3/v3.rpy:2664
 translate chineses continueq_9adfad62:
 
     # ju "Okay, honey. I'll call you when I'm at San Vallejo."
-    ju ""
+    ju "好，亲爱的。我到了圣瓦列霍就给你电话。"
 
 # game/v3/v3.rpy:2669
 translate chineses continueq_daa843ad:
 
     # u "Alright, bye."
-    u ""
+    u "好的，再见。"
 
 # game/v3/v3.rpy:2674
 translate chineses continueq_c4bec625:
 
     # ju "Bye, honey."
-    ju ""
+    ju "再见，亲爱的。"
 
 # game/v3/v3.rpy:2681
 translate chineses continueq_8710069c:
 
     # u "Sorry, Julia... I'm really busy this weekend."
-    u ""
+    u "抱歉，朱莉娅...我这个周末真的很忙。"
 
 # game/v3/v3.rpy:2686
 translate chineses continueq_a13bb8c0:
 
     # ju "Oh... okay, honey. Next time then."
-    ju ""
+    ju "哦...好，亲爱的。那就下次吧。"
 
 # game/v3/v3.rpy:2691
 translate chineses continueq_4035dcb6:
 
     # u "Yeah... next time."
-    u ""
+    u "是啊...下次再去。"
 
 # game/v3/v3.rpy:2710
 translate chineses continueq_8232499c:
 
     # u "(I don't really feel like talking to her right now.)"
-    u ""
+    u "（我现在不太想跟她交谈。）"
 
 # game/v3/v3.rpy:2719
 translate chineses de_bd_4f1997c1:
 
     # "*Knock knock knock*"
-    ""
+    "*敲 敲 敲*"
 
 # game/v3/v3.rpy:2724
 translate chineses de_bd_0af354ea:
 
     # u "(I guess there goes my one minute of alone time...)"
-    u ""
+    u "（看来我连一分钟单独的时间都没有...）"
 
 # game/v3/v3.rpy:2731
 translate chineses de_bd_9ea1e8f9:
 
     # u "Hey guys."
-    u ""
+    u "嘿大伙儿。"
 
 # game/v3/v3.rpy:2736
 translate chineses de_bd_19588a61:
 
     # ry "What's up, [name]?"
-    ry ""
+    ry "怎样啦，[名字]？"
 
 # game/v3/v3.rpy:2741
 translate chineses de_bd_a6070304:
 
     # ri "Wow, your face looks really as bad as Ryan said."
-    ri ""
+    ri "哇，你的脸看起来真的跟瑞安说的一样糟。"
 
 # game/v3/v3.rpy:2746
 translate chineses de_bd_6384a8df:
 
     # u "Thanks, Riley. What can I do for you?"
-    u ""
+    u "谢了，莱利。我能为你们做什么吗？"
 
 # game/v3/v3.rpy:2751
 translate chineses de_bd_c18c62f8:
 
     # ri "It's a really nice day, so we're going to go for a picnic. Wanna come?"
-    ri ""
+    ri "今天天气很好，所以我们要去野餐。想来吗？"
 
 # game/v3/v3.rpy:2756
 translate chineses de_bd_b721ba07:
 
     # ry "Plus there'll be some hotties in the park."
-    ry ""
+    ry "而且公园里还会有些辣妹。"
 
 # game/v3/v3.rpy:2760
 translate chineses de_bd_d032c40e:
 
     # ri "Is that all you think about, Ryan?"
-    ri ""
+    ri "你脑子里整天就想这些吗，瑞安？"
 
 # game/v3/v3.rpy:2769
 translate chineses de_bd_e9164e66:
 
     # u "I think Riley is all the hottie I need."
-    u ""
+    u "我想我只需要莱利一位辣妹。"
 
 # game/v3/v3.rpy:2774
 translate chineses de_bd_e374cc2b:
 
     # ri "Awww, thank you."
-    ri ""
+    ri "啊，谢谢你。"
 
 # game/v3/v3.rpy:2779
 translate chineses de_bd_4da4ca61:
 
     # ry "This guy..."
-    ry ""
+    ry "这家伙..."
 
 # game/v3/v3.rpy:2781
 translate chineses de_bd_99a3ab07:
 
     # ry "So, you coming, or what?"
-    ry ""
+    ry "那你是来还是什么？"
 
 # game/v3/v3.rpy:2786
 translate chineses de_bd_dacaecf9:
 
     # u "Yeah, alright. Let me just change out of my gym clothes."
-    u ""
+    u "是的，好呀。让我先把运动服换了。"
 
 # game/v3/v3.rpy:2794
 translate chineses de_bd_d1879211:
 
     # u "Well, count me in then."
-    u ""
+    u "好啊，那把我也算进去。"
 
 # game/v3/v3.rpy:2799
 translate chineses de_bd_c8678876:
 
     # ri "Of course that's what made you wanna go. Why do I even spend time with you guys?"
-    ri ""
+    ri "那当然是你为什么想去的原因了。我花时间跟你们这些家伙一起到底是为什么呀？"
 
 # game/v3/v3.rpy:2804
 translate chineses de_bd_cdae9e74:
 
     # u "Oh come on, Riley. You're one of the hotties."
-    u ""
+    u "哦得了吧，莱利。你也是辣妹之一啦。"
 
 # game/v3/v3.rpy:2809
 translate chineses de_bd_792d5691:
 
     # ri "What a sincere compliment. Are you ready to go then?"
-    ri ""
+    ri "你的恭维好友诚意哟。那你准备好出发了吗？"
 
 # game/v3/v3.rpy:2814
 translate chineses de_bd_486e7845:
 
     # u "Yeah, let me just change out of my gym clothes."
-    u ""
+    u "是啊，让我先把运动服换了。"
 
 # game/v3/v3.rpy:2820
 translate chineses df_bd_592ca2d1:
 
     # u "This is a really nice spot."
-    u ""
+    u "这地方真好。"
 
 # game/v3/v3.rpy:2825
 translate chineses df_bd_6d0eb153:
 
     # ry "Yeah, it really is."
-    ry ""
+    ry "是啊，确实如此。"
 
 # game/v3/v3.rpy:2830
 translate chineses df_bd_60fb5707:
 
     # ri "So uhm [name]... How are you gonna get back at Grayson?"
-    ri ""
+    ri "那嗯[名字]...你打算要怎么报复格雷森呢？"
 
 # game/v3/v3.rpy:2835
 translate chineses df_bd_0c076e25:
 
     # u "What do you mean, get back?"
-    u ""
+    u "你什么意思，报复？"
 
 # game/v3/v3.rpy:2840
 translate chineses df_bd_6cbfe69d:
 
     # ri "You know, he punched you in front of so many people... how are you gonna avenge yourself?"
-    ri ""
+    ri "你知道，他当着那么多人的面揍了你...我要怎么为你自己报仇？"
 
 # game/v3/v3.rpy:2845
 translate chineses df_bd_61b399c5:
 
     # ry "Riley, I don't think [name] wants to get back into it with Grayson."
-    ry ""
+    ry "莱利，我不认为[名字]想要跟格雷森对立。"
 
 # game/v3/v3.rpy:2849
 translate chineses df_bd_b07e1694:
 
     # ry "Any retribution will only make it worse."
-    ry ""
+    ry "任何的报复都会让事情变得更糟。"
 
 # game/v3/v3.rpy:2856
 translate chineses df_bd_c1c79b70:
 
     # u "Why?! Because he's some kind of god that can do whatever he wants?!"
-    u ""
+    u "为什么？！因为他是一个可以胡作非为的某个神明吗？！"
 
 # game/v3/v3.rpy:2861
 translate chineses df_bd_f48a9033:
 
     # u "I'm not scared of him."
-    u ""
+    u "我不怕他。"
 
 # game/v3/v3.rpy:2866
 translate chineses df_bd_d0ffff2f:
 
     # ry "I'm just saying that-"
-    ry ""
+    ry "我只是在说-"
 
 # game/v3/v3.rpy:2871
 translate chineses df_bd_453b6c3b:
 
     # u "You know why Grayson punched me? Cause I was about to make out with Chloe and he's still not over her!"
-    u ""
+    u "你知道为什么格雷森为什么揍我吗？因为我当时正要跟克洛伊热吻，而他对克洛伊还余情未了！"
 
 # game/v3/v3.rpy:2873
 translate chineses df_bd_7180a783:
 
     # u "And guess who fucking came to my dorm to make it up to me yesterday evening? Chloe."
-    u ""
+    u "猜猜谁他妈的昨晚来到我的寝室要补偿我？克洛伊。"
 
 # game/v3/v3.rpy:2878
 translate chineses df_bd_c45a6762:
 
     # ry "Did you hook up?"
-    ry ""
+    ry "你们上了床？？"
 
 # game/v3/v3.rpy:2883
 translate chineses df_bd_73c3fef7:
 
     # u "I mean no, we just hung out at the gym, but if it wasn't for that stupid security guard-"
-    u ""
+    u "我的意思是没有，我们只是去了体育室玩，但如果不是因为那个愚蠢的保安-"
 
 # game/v3/v3.rpy:2885
 translate chineses df_bd_b9c12db0:
 
     # u "You know, we'll get closer in the future."
-    u ""
+    u "你知道，我们将来会走得更进的。"
 
 # game/v3/v3.rpy:2890
 translate chineses df_bd_43633c2f:
 
     # ry "Look, I don't wanna be that guy. but..."
-    ry ""
+    ry "听着，我不想成为那个人。但是..."
 
 # game/v3/v3.rpy:2892
 translate chineses df_bd_c71ddc73:
 
     # ry "Do you really think that pursuing Chloe is a good idea?"
-    ry ""
+    ry "你真的认为追克洛伊是个好主要吗？"
 
 # game/v3/v3.rpy:2897
 translate chineses df_bd_e48ae9cd:
 
     # u "Why?! You think I should fear Grayson?! Fuck him. I couldn't care less."
-    u ""
+    u "为什么？！你认为我该怕格雷森？！操他妈的。我才不在乎他。"
 
 # game/v3/v3.rpy:2902
 translate chineses df_bd_4b870f9b:
 
     # ry "No, 'cause she's a bitch. After I went back to the party, Grayson told me about all the shady shit she did."
-    ry ""
+    ry "不，因为她是个裱子。那天我回到派对之后，格雷森把她做的所有丑陋之事都告诉我了。"
 
 # game/v3/v3.rpy:2907
 translate chineses df_bd_012a2583:
 
     # u "Really?! Grayson?! Well I'm glad your new mentor gives such great advice."
-    u ""
+    u "真的？！格雷森？！好呀，我很高兴你的新导师给你这么好的指教。"
 
 # game/v3/v3.rpy:2912
 translate chineses df_bd_6c9bbaad:
 
     # ry "When you were knocked out, who fucking came to help you?!"
-    ry ""
+    ry "当你晕倒的时候，谁他妈的来帮你的？"
 
 # game/v3/v3.rpy:2917
 translate chineses df_bd_3b18fc45:
 
     # ry "It was me! Chloe didn't give a fuck!"
-    ry ""
+    ry "那是我！克洛伊关心个毛!"
 
 # game/v3/v3.rpy:2922
 translate chineses df_bd_36ae461d:
 
     # ry "She went after Grayson, 'cause she felt personally attacked! She thought about herself, not about you!"
-    ry ""
+    ry "她去质问格雷森了，因为她觉得她自身被攻击了！她只关心她自己，不是你！"
 
 # game/v3/v3.rpy:2927
 translate chineses df_bd_5eb010c7:
 
     # u "You don't know what you're talking about! Chloe likes me. She went after Grayson 'cause someone needed to."
-    u ""
+    u "你不知道你在说什么！克洛伊喜欢我。她去质问格雷森因为有人得做这个。"
 
 # game/v3/v3.rpy:2933
 translate chineses df_bd_0fdef493:
 
     # u "Cause you were too fucking pussy to do it yourself."
-    u ""
+    u "因为你他妈的怂到你自己不敢去。"
 
 # game/v3/v3.rpy:2938
 translate chineses df_bd_fb78781e:
 
     # ry "Fuck you! I looked after you, I brought you home!"
-    ry ""
+    ry "操你妈的！我照顾了你，我把你带回了家！"
 
 # game/v3/v3.rpy:2940
 translate chineses df_bd_9af7c04d:
 
     # ry "Chloe is playing you! Like she played Grayson! Don't fucking fall for it."
-    ry ""
+    ry "克洛伊在耍你！"
 
 # game/v3/v3.rpy:2945
 translate chineses df_bd_5a8b93f1:
