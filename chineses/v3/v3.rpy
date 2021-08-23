@@ -2422,7 +2422,7 @@ translate chineses continuen_2c0b9bd8:
 translate chineses continuen_3a7e8c10:
 
     # la "For one of my assignments I need to do several personality tests on someone and analyze them."
-    la "我有一门作业要我对人做几种性格测试并且对其分析。"
+    la "我有一门作业要我对一个人做几种性格测试并且对其分析。"
 
 # game/v3/v3.rpy:2539
 translate chineses continuen_6d24cda0:
@@ -2848,785 +2848,785 @@ translate chineses df_bd_fb78781e:
 translate chineses df_bd_9af7c04d:
 
     # ry "Chloe is playing you! Like she played Grayson! Don't fucking fall for it."
-    ry "克洛伊在耍你！"
+    ry "克洛伊在耍你！就像她耍格雷森一样！别他妈的给骗了。"
 
 # game/v3/v3.rpy:2945
 translate chineses df_bd_5a8b93f1:
 
     # u "You don't know Chloe at all! You're just fucking jealous!"
-    u ""
+    u "你一点都不了解克洛伊！你只会他妈的嫉妒！"
 
 # game/v3/v3.rpy:2953
 translate chineses df_bd_3b6387e3:
 
     # ri "Guys, please stop fighting!"
-    ri ""
+    ri "大家请不要打了！"
 
 # game/v3/v3.rpy:2958
 translate chineses df_bd_a2db678b:
 
     # u "No, fuck this, I'm leaving!"
-    u ""
+    u "不，操他妈的，我现走了！"
 
 # game/v3/v3.rpy:2973
 translate chineses df_bd_333f63a6:
 
     # ri "Are you not gonna go after him?!"
-    ri ""
+    ri "你不去把他追回来吗？！"
 
 # game/v3/v3.rpy:2978
 translate chineses df_bd_129c1f3b:
 
     # ry "Nah, he's being a bitch."
-    ry ""
+    ry "不，他那是婊子作为。"
 
 # game/v3/v3.rpy:2983
 translate chineses df_bd_ac0f7c83:
 
     # ri "Fine, then I'll go after him."
-    ri ""
+    ri "行，那我去追他回来。"
 
 # game/v3/v3.rpy:2992
 translate chineses df_bd_74b8828b:
 
     # ri "[name], wait!"
-    ri ""
+    ri "[名字]，等等！"
 
 # game/v3/v3.rpy:2999
 translate chineses df_bd_76fc60eb:
 
     # ri "Hey, stop... I'm sure Ryan didn't mean what he said."
-    ri ""
+    ri "嘿，停下...我肯定瑞安不是那个意思。"
 
 # game/v3/v3.rpy:3004
 translate chineses df_bd_0265b299:
 
     # u "I just don't get why he's siding with Grayson after what happened."
-    u ""
+    u "我只是不知道他为什么在发生那事之后还能跟格雷森站在一起。"
 
 # game/v3/v3.rpy:3006
 translate chineses df_bd_72ce0eeb:
 
     # u "He should be helping me get back at him instead of becoming his best friend."
-    u ""
+    u "他应该帮我报复格雷森，而不是变成他的好友。"
 
 # game/v3/v3.rpy:3011
 translate chineses df_bd_5cb13cb5:
 
     # ri "I know... can you please just come back and maybe we can talk it out?"
-    ri ""
+    ri "我知道...求你跟我回去吧，也许我们可以好好聊聊？"
 
 # game/v3/v3.rpy:3016
 translate chineses df_bd_a26dc3ba:
 
     # u "There's no talking to him, he doesn't seem to understand what loyalty even is."
-    u ""
+    u "我跟他没什么好说的，他似乎根本不懂什么叫忠义。"
 
 # game/v3/v3.rpy:3021
 translate chineses df_bd_d1f5aa94:
 
     # ri "If you don't wanna talk to him, can you at least talk to me?"
-    ri ""
+    ri "如果你不想跟他谈的话，你可不可以至少跟我谈？"
 
 # game/v3/v3.rpy:3026
 translate chineses df_bd_ae10b6d0:
 
     # u "Fine."
-    u ""
+    u "行。"
 
 # game/v3/v3.rpy:3036
 translate chineses df_bd_b926967c:
 
     # ri "So what's going on between you and Chloe? She's the president of the Chicks, right?"
-    ri ""
+    ri "那你跟克洛伊之间发生了什么？她是小鸡会的会长，对吧？"
 
 # game/v3/v3.rpy:3045
 translate chineses df_bd_1f3a7ba6:
 
     # u "Yeah, we met at the Apes' rush party and I really like her."
-    u ""
+    u "是啊，我们是在人猿会的抢先派对上遇到的，而且我很喜欢她。"
 
 # game/v3/v3.rpy:3047
 translate chineses df_bd_b68ceaa7:
 
     # u "We haven't done anything yet, but I feel like we really have a connection, you know?"
-    u ""
+    u "我们什么事都还没做，但我感觉到我们之间有真情实感，你知道吗？"
 
 # game/v3/v3.rpy:3052
 translate chineses df_bd_3438b585:
 
     # ri "Oh uhm... yeah, that sounds really good. I'm happy for you."
-    ri ""
+    ri "哦嗯...是啊，那听起来很好。我为你感到高兴。"
 
 # game/v3/v3.rpy:3060
 translate chineses df_bd_bd44de72:
 
     # u "Yeah, I mean it's nothing serious. She's really into me, but I don't know how I feel yet."
-    u ""
+    u "是啊，我的意思是我们不是太认真。她很喜欢我，但我还不知道我的感觉怎样。"
 
 # game/v3/v3.rpy:3062
 translate chineses df_bd_8d04bbfa:
 
     # u "You know, keeping my options open?"
-    u ""
+    u "你知道，给我留下选择余地？"
 
 # game/v3/v3.rpy:3067
 translate chineses df_bd_5f70e45e:
 
     # ri "I can certainly see why she'd be into you."
-    ri ""
+    ri "我能明白她为什么喜欢你。"
 
 # game/v3/v3.rpy:3072
 translate chineses df_bd_09332657:
 
     # u "What do you mean?"
-    u ""
+    u "你什么意思？"
 
 # game/v3/v3.rpy:3077
 translate chineses df_bd_d4ef56c4:
 
     # ri "You're attractive and charismatic and-"
-    ri ""
+    ri "你俊俏又有魅力，而且-"
 
 # game/v3/v3.rpy:3092
 translate chineses df_bd_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v3/v3.rpy:3097
 translate chineses df_bd_0a0f40c2:
 
     # ri "*Blushes* Uhm..."
-    ri ""
+    ri "*脸红*嗯..."
 
 # game/v3/v3.rpy:3102
 translate chineses df_bd_e4879c99:
 
     # u "Sorry, I just had to."
-    u ""
+    u "不好意思，我控制不住。"
 
 # game/v3/v3.rpy:3107
 translate chineses df_bd_44ddc5df:
 
     # ri "I'm glad you did."
-    ri ""
+    ri "我很高兴你做了。"
 
 # game/v3/v3.rpy:3112
 translate chineses df_bd_ff3bb7de:
 
     # ri "Just a really great guy."
-    ri ""
+    ri "真是个好人啊。"
 
 # game/v3/v3.rpy:3116
 translate chineses df_bd_d7cdc824:
 
     # u "Thanks, Riley."
-    u ""
+    u "谢了，莱利。"
 
 # game/v3/v3.rpy:3122
 translate chineses dj_bd_f0d156c9:
 
     # ri "You know, Ryan is probably waiting for me to come back. Are you sure you wanna leave?"
-    ri ""
+    ri "你知道，瑞安大概还在等我回去。你确定你要走吗？"
 
 # game/v3/v3.rpy:3127
 translate chineses dj_bd_93c85a33:
 
     # u "Yeah, I think I need some space from Ryan."
-    u ""
+    u "是啊，我想我得跟瑞安保持一点距离。"
 
 # game/v3/v3.rpy:3132
 translate chineses dj_bd_c4dee2d3:
 
     # ri "Okay... I'll see you later then."
-    ri ""
+    ri "好...那我们待会儿见。"
 
 # game/v3/v3.rpy:3137
 translate chineses dj_bd_b73f076e:
 
     # u "Yeah, I'll see you."
-    u ""
+    u "好啊，待会儿见。"
 
 # game/v3/v3.rpy:3147
 translate chineses dj_bd_74405208:
 
     # u "(I can't believe I'm finally going on a real date with Lauren...)"
-    u ""
+    u "（我不感相信我终于在跟劳伦约会了...）"
 
 # game/v3/v3.rpy:3149
 translate chineses dj_bd_fb18c3f4:
 
     # u "(I better not fuck this up.)"
-    u ""
+    u "（我最好别把这个给搞砸了。）"
 
 # game/v3/v3.rpy:3155
 translate chineses dj_bd_4f1997c1:
 
     # "*Knock knock knock*"
-    ""
+    "*敲 敲 敲*"
 
 # game/v3/v3.rpy:3162
 translate chineses dj_bd_8b4972a9:
 
     # la "Heyyy."
-    la ""
+    la "嘿。"
 
 # game/v3/v3.rpy:3167
 translate chineses dj_bd_366576ab:
 
     # u "Wow, you look incredible..."
-    u ""
+    u "哇，你看上去太不可思议了..."
 
 # game/v3/v3.rpy:3172
 translate chineses dj_bd_1fd8ba9d:
 
     # la "Awww, thank you, [name]."
-    la ""
+    la "啊，谢谢你，[名字]。"
 
 # game/v3/v3.rpy:3177
 translate chineses dj_bd_44918a53:
 
     # u "Are you ready to go?"
-    u ""
+    u "你准备好要走了吗？"
 
 # game/v3/v3.rpy:3182
 translate chineses dj_bd_e5270ccc:
 
     # la "Yeah, let's go."
-    la ""
+    la "是的，我们走吧。"
 
 # game/v3/v3.rpy:3192
 translate chineses dj_bd_bd5debd3:
 
     # la "So, what did you do all day?"
-    la ""
+    la "那，你整天做了些什么？"
 
 # game/v3/v3.rpy:3197
 translate chineses dj_bd_bb9f8bdf:
 
     # u "(Okay, time to make a decision. Should I tell her about what happened with Aubrey?)"
-    u ""
+    u "（好了，是时候做决定了。我该告诉她跟奥布里的事吗？）"
 
 # game/v3/v3.rpy:3205
 translate chineses dj_bd_c1711764:
 
     # u "(Lauren values honesty and we're not in a relationship yet, so she'll probably be understanding as long as I tell her the truth.)"
-    u ""
+    u "（劳伦看重诚实而我们也还不是男女朋友关系，所以只要我实话实说她大概会理解吧。"
 
 # game/v3/v3.rpy:3207
 translate chineses dj_bd_9f9ae56b:
 
     # u "Okay listen, I need to tell you something."
-    u ""
+    u "好了听着，我有事需要告诉你。"
 
 # game/v3/v3.rpy:3212
 translate chineses dj_bd_3f3b9cc9:
 
     # la "What is it?"
-    la ""
+    la "什么事？"
 
 # game/v3/v3.rpy:3217
 translate chineses dj_bd_766c1f0c:
 
     # u "This morning Aubrey invited me over..."
-    u ""
+    u "今早奥布里邀请我去她那儿..."
 
 # game/v3/v3.rpy:3219
 translate chineses dj_bd_1041cce0:
 
     # u "... and we had sex."
-    u ""
+    u "...我们发生了关系。"
 
 # game/v3/v3.rpy:3224
 translate chineses dj_bd_e0381dbe:
 
     # la "What?"
-    la ""
+    la "什么？"
 
 # game/v3/v3.rpy:3229
 translate chineses dj_bd_90f46289:
 
     # u "I know how much you care about honesty and I wanted to start this right."
-    u ""
+    u "我知道你很重视诚实，而且我想以正确的态度开始。"
 
 # game/v3/v3.rpy:3234
 translate chineses dj_bd_1392e01a:
 
     # la "You had sex with another girl... right before our first date?"
-    la ""
+    la "你跟别的女孩上了床...就在我们第一次约会之前？"
 
 # game/v3/v3.rpy:3239
 translate chineses dj_bd_1fe04d68:
 
     # u "Yeah, but it's not like we're in a relationship. You see, I did nothing wrong."
-    u ""
+    u "是的，但我们并不是男女朋友关系啊。你看吧，我没有做错啊。"
 
 # game/v3/v3.rpy:3244
 translate chineses dj_bd_e68b2f3e:
 
     # la "Right... Well great job on finding a loophole."
-    la ""
+    la "对啊...钻空子的本事很好啊。"
 
 # game/v3/v3.rpy:3245
 translate chineses dj_bd_bed4ef40:
 
     # la "I don't think I wanna do this anymore."
-    la ""
+    la "我不认为我想继续待在这儿了。"
 
 # game/v3/v3.rpy:3250
 translate chineses dj_bd_b0b382da:
 
     # u "But we're not even dating?! I was just being real!"
-    u ""
+    u "但我们还没有开始约会呀？！我只是做了一个真实的我！"
 
 # game/v3/v3.rpy:3255
 translate chineses dj_bd_608e2d7d:
 
     # la "Be real with someone else then."
-    la ""
+    la "那你跟别人真实去吧。"
 
 # game/v3/v3.rpy:3264
 translate chineses dj_bd_90dd3450:
 
     # u "(Fuck me... I guess that's what honesty gets you.)"
-    u ""
+    u "（操...我看那就是诚实对你的惩罚。）"
 
 # game/v3/v3.rpy:3271
 translate chineses dj_bd_086b7a34:
 
     # u "(Lauren seems to value loyalty, she might be upset if she finds out and I don't wanna ruin our date before it even started.)"
-    u ""
+    u "（劳伦似乎看重忠诚，如果她知道了之后可能会变得烦乱，而我不想在我们约会还没开始之前就给毁了。）"
 
 # game/v3/v3.rpy:3277
 translate chineses dk_bb_70d0bde6:
 
     # u "Uhm... I went picnicking with Riley and Ryan. What about you?"
-    u ""
+    u "嗯...我跟莱利和瑞恩野餐去了。你呢？"
 
 # game/v3/v3.rpy:3282
 translate chineses dk_bb_2ba1a056:
 
     # la "Mostly studying, I'm glad to finally do something exciting."
-    la ""
+    la "只要是学习，我很高兴我终于可以做些别的激动的事了。"
 
 # game/v3/v3.rpy:3287
 translate chineses dk_bb_4bc6e39b:
 
     # u "I'll make sure this date won't disappoint then."
-    u ""
+    u "那我一定保证这次约会不会让你失望的。"
 
 # game/v3/v3.rpy:3301
 translate chineses dk_bb_b91d7543:
 
     # la "*Whispers* Why did you have to pick a horror film? Is fear really the emotion you want me to feel on our first date?"
-    la ""
+    la "*低声说*你为什么要选个恐怖片？你真的要我在我们第一次约会上所感受到的情感是恐惧吗？"
 
 # game/v3/v3.rpy:3306
 translate chineses dk_bb_06178cae:
 
     # u "*Whispers* Oh come on, it's not that bad."
-    u ""
+    u "*低声说*哦得了吧，没有那么糟吧。"
 
 # game/v3/v3.rpy:3311
 translate chineses dk_bb_33c26e3e:
 
     # la "*Whispers* You just want me to hold your hand when you get scared."
-    la ""
+    la "*低声说*你只是想我在害怕的时候握住你的手。"
 
 # game/v3/v3.rpy:3316
 translate chineses dk_bb_f378906b:
 
     # u "*Whispers* Now would that be so bad?"
-    u ""
+    u "*低声说*现在那样也不是太糟吧？"
 
 # game/v3/v3.rpy:3321
 translate chineses dk_bb_db8c1d89:
 
     # la "*Whispers* I could think of worse."
-    la ""
+    la "*低声说*我可以想到更糟的。"
 
 # game/v3/v3.rpy:3332
 translate chineses dk_bb_087c1159:
 
     # la "*Squeals*"
-    la ""
+    la "*尖叫*"
 
 # game/v3/v3.rpy:3337
 translate chineses dk_bb_42b1868b:
 
     # u "*Whispers* Now look who's getting scared."
-    u ""
+    u "*低声说*看看现在是谁害怕了。"
 
 # game/v3/v3.rpy:3342
 translate chineses dk_bb_b7e79880:
 
     # la "*Whispers* I was just making sure you're safe."
-    la ""
+    la "*低声说*我只是要确定你是安全的。"
 
 # game/v3/v3.rpy:3364
 translate chineses dl_b_b55fed01:
 
     # la "[name], I don't think I want to do this."
-    la ""
+    la "[名字]，我不认为我想做这个。"
 
 # game/v3/v3.rpy:3380
 translate chineses dl_b_2497b947:
 
     # la "*Moans quietly*"
-    la ""
+    la "*低声呻吟*"
 
 # game/v3/v3.rpy:3394
 translate chineses dl_b_da50d460:
 
     # la "I told you I don't want to do this!"
-    la ""
+    la "我说了我不想做这个！"
 
 # game/v3/v3.rpy:3404
 translate chineses dl_b_8e77b97d:
 
     # u "(Shit, I pushed it too far.)"
-    u ""
+    u "（可恶，我做过头了。）"
 
 # game/v3/v3.rpy:3414
 translate chineses dl_b_a0221d2e:
 
     # la "Thank you, I just need some time."
-    la ""
+    la "谢谢你，我还需要点时间。"
 
 # game/v3/v3.rpy:3455
 translate chineses dl_b_98d8f433:
 
     # la "After watching that movie, I'm just constantly scared a clown's gonna jump out of one of these bushes."
-    la ""
+    la "看了那部电影后，我老是害怕会有小丑无端从那些灌木丛中跳出来。"
 
 # game/v3/v3.rpy:3460
 translate chineses dl_b_cd78de32:
 
     # u "Haha, don't worry, I'll protect you."
-    u ""
+    u "哈哈，别担心，我会保护你的。"
 
 # game/v3/v3.rpy:3465
 translate chineses dl_b_c8a4dc14:
 
     # la "I'm not sure you'd have much of a chance against a killer clown."
-    la ""
+    la "我不太确定你有多大的机会对付一个杀人小丑。"
 
 # game/v3/v3.rpy:3470
 translate chineses dl_b_bee32251:
 
     # u "Oh trust me, you just haven't seen my tickle attack."
-    u ""
+    u "哦相信我，你只是还没见过我的搔痒攻击。"
 
 # game/v3/v3.rpy:3475
 translate chineses dl_b_c06e9f97:
 
     # la "Your tickle attack?"
-    la ""
+    la "你的搔痒攻击？"
 
 # game/v3/v3.rpy:3480
 translate chineses dl_b_cf680df2:
 
     # la "*Laughs* Hahaha, stop."
-    la ""
+    la "*大笑*哈哈哈，停下。"
 
 # game/v3/v3.rpy:3485
 translate chineses dl_b_10958600:
 
     # u "See? The clown wouldn't stand a chance."
-    u ""
+    u "看吧？小丑没机会赢的。"
 
 # game/v3/v3.rpy:3490
 translate chineses dl_b_a27ff253:
 
     # la "Haha, maybe you're right."
-    la ""
+    la "哈哈，也许你说得对。"
 
 # game/v3/v3.rpy:3501
 translate chineses dl_b_c576edb0:
 
     # la "I had a great time tonight."
-    la ""
+    la "我今晚过得很愉快。"
 
 # game/v3/v3.rpy:3506
 translate chineses dl_b_ad6d6b80:
 
     # u "Yeah, me too. We should do something this weekend."
-    u ""
+    u "是啊，我也是。我们这个周末应该做什么。"
 
 # game/v3/v3.rpy:3511
 translate chineses dl_b_ae77e33d:
 
     # la "Yeah, that sounds good."
-    la ""
+    la "是啊，听起来不错。"
 
 # game/v3/v3.rpy:3516
 translate chineses dl_b_f49a6891:
 
     # la "Also I was gonna ask you something."
-    la ""
+    la "还有我想问你一些事。"
 
 # game/v3/v3.rpy:3518
 translate chineses dl_b_71a3e04b:
 
     # la "For one of my psychology assignments I need to do several personality tests on someone and analyze them."
-    la ""
+    la "我有一门作业要我对一个人做几种性格测试并且对其分析。"
 
 # game/v3/v3.rpy:3520
 translate chineses dl_b_6d24cda0:
 
     # la "Would you wanna be my test subject?"
-    la ""
+    la "我愿意成为我的测试对象吗？"
 
 # game/v3/v3.rpy:3525
 translate chineses dl_b_3cb5541e:
 
     # u "Yeah, definitely!"
-    u ""
+    u "是的，一定的！"
 
 # game/v3/v3.rpy:3530
 translate chineses dl_b_fa40b26a:
 
     # la "Really? Thank you so much."
-    la ""
+    la "真的？非常感谢你。"
 
 # game/v3/v3.rpy:3542
 translate chineses dl_b_53d87c5b:
 
     # la "Good night, [name]."
-    la ""
+    la "晚安，[名字]。"
 
 # game/v3/v3.rpy:3547
 translate chineses dl_b_6ee232c7:
 
     # u "Yeah, good night, Lauren."
-    u ""
+    u "是啊，晚安，劳伦."
 
 # game/v3/v3.rpy:3588
 translate chineses continues_88cebf20:
 
     # u "(Huh, who would call me this late?)"
-    u ""
+    u "（呵，谁这么晚给我打电话？）"
 
 # game/v3/v3.rpy:3597
 translate chineses continues_fcfea652:
 
     # u "Hello?"
-    u ""
+    u "喂？"
 
 # game/v3/v3.rpy:3602
 translate chineses continues_4cf968b7:
 
     # unknown "Hello sir, am I talking to [name]?"
-    unknown ""
+    unknown "喂先生，我是在跟[名字]谈话吗？"
 
 # game/v3/v3.rpy:3607
 translate chineses continues_5aa0c8d9:
 
     # u "Yeah that's me, who is this?"
-    u ""
+    u "是啊，我就是，你是谁？"
 
 # game/v3/v3.rpy:3612
 translate chineses continues_48d67560:
 
     # unknown "This is Sarah Haddock calling from San Vallejo Hospital. Do you happen to know Imre Varga? You're listed as his emergency contact."
-    unknown ""
+    unknown "我是莎拉·哈多克从圣瓦列霍打来的。你碰巧认识伊姆雷·瓦尔加吗？你被列为他的紧急联系人。"
 
 # game/v3/v3.rpy:3617
 translate chineses continues_262e66aa:
 
     # u "Yes, he's my roommate. What happened?!"
-    u ""
+    u "是的，我是他室友。发生什么事了？！"
 
 translate chineses strings:
 
     # game/v3/v3.rpy:147
     old "You're crazy."
-    new ""
+    new "你疯了。"
 
     # game/v3/v3.rpy:147
     old "That's not cool."
-    new ""
+    new "不是太好。"
 
     # game/v3/v3.rpy:207
     old "Hell yeah."
-    new ""
+    new "好耶。"
 
     # game/v3/v3.rpy:207
     old "She's alright."
-    new ""
+    new "她是对的。"
 
     # game/v3/v3.rpy:507
     old "Ask her about it"
-    new ""
+    new "向她确认"
 
     # game/v3/v3.rpy:507
     old "Don't question it"
-    new ""
+    new "不向她确认"
 
     # game/v3/v3.rpy:603
     old "Win the game"
-    new ""
+    new "赢得比赛"
 
     # game/v3/v3.rpy:603
     old "Let her win"
-    new ""
+    new "让她胜出"
 
     # game/v3/v3.rpy:1061
     old "Show off"
-    new ""
+    new "卖弄"
 
     # game/v3/v3.rpy:1061
     old "Stick to what you know"
-    new ""
+    new "使用你所知的"
 
     # game/v3/v3.rpy:1166
     old "Approach her"
-    new ""
+    new "接近她"
 
     # game/v3/v3.rpy:1166
     old "Leave it"
-    new ""
+    new "算了"
 
     # game/v3/v3.rpy:1389
     old "I wanna talk about what happened yesterday."
-    new ""
+    new "我想谈谈昨天发生了什么。"
 
     # game/v3/v3.rpy:1390
     old "Any chance that you could come over now?"
-    new ""
+    new "你现在有机会能过来吗？"
 
     # game/v3/v3.rpy:1391
     old "Yeah, I can."
-    new ""
+    new "是的，我能。"
 
     # game/v3/v3.rpy:1392
     old "My room has a window facing the backyard. Can you climb in through there? I'll leave it open."
-    new ""
+    new "我房间的窗户朝着后院。你能从那儿爬进来吗？我会把它打开的。"
 
     # game/v3/v3.rpy:1393
     old "I'd prefer if none of the girls saw you."
-    new ""
+    new "我宁愿不要其他女孩子看到你。"
 
     # game/v3/v3.rpy:1394
     old "Uhm... sure."
-    new ""
+    new "嗯...当然。"
 
     # game/v3/v3.rpy:1528
     old "Take off your clothes"
-    new ""
+    new "脱你的衣服"
 
     # game/v3/v3.rpy:1528
     old "Refuse"
-    new ""
+    new "拒绝"
 
     # game/v3/v3.rpy:1583
     old "Hey, I really need your help."
-    new ""
+    new "嘿，我真的需要你的帮助。"
 
     # game/v3/v3.rpy:1585
     old "Yeah, I'll be right there.."
-    new ""
+    new "是啊，我很快就到..."
 
     # game/v3/v3.rpy:1586
     old "My room has a window facing the backyard. Can you climb in through there instead of using the front door?"
-    new ""
+    new "我房间的窗户朝着后院。你能从那儿爬进来而不走前门吗？"
 
     # game/v3/v3.rpy:1587
     old "I'll leave it open."
-    new ""
+    new "我会把它打开的。"
 
     # game/v3/v3.rpy:1717
     old "Truth"
-    new ""
+    new "实话"
 
     # game/v3/v3.rpy:1717
     old "Dare"
-    new ""
+    new "挑逗"
 
     # game/v3/v3.rpy:1843
     old "Hey, you know how you had to cancel on me yesterday and you really want to make it up to me?"
-    new ""
+    new "嘿，你知道你不得不取消昨天的约定，而且你说你很想补偿我？"
 
     # game/v3/v3.rpy:1844
     old "Wanna come over now?"
-    new ""
+    new "想现在过来吗？"
 
     # game/v3/v3.rpy:1845
     old "Uhh... okay."
-    new ""
+    new "呃...好。"
 
     # game/v3/v3.rpy:2086
     old "Stop it"
-    new ""
+    new "停止"
 
     # game/v3/v3.rpy:2541
     old "I'd love to."
-    new ""
+    new "我很乐意。"
 
     # game/v3/v3.rpy:2541
     old "I don't know..."
-    new ""
+    new "我不知道..."
 
     # game/v3/v3.rpy:2617
     old "Answer"
-    new ""
+    new "回答"
 
     # game/v3/v3.rpy:2617
     old "Don't answer"
-    new ""
+    new "不回答"
 
     # game/v3/v3.rpy:2652
     old "Shopping sounds great."
-    new ""
+    new "购物听上去很好。"
 
     # game/v3/v3.rpy:2652
     old "I can't, sorry."
-    new ""
+    new "我不行，抱歉。"
 
     # game/v3/v3.rpy:2762
     old "Compliment Riley"
-    new ""
+    new "称赞莱利"
 
     # game/v3/v3.rpy:2762
     old "Agree with Ryan"
-    new ""
+    new "同意瑞安"
 
     # game/v3/v3.rpy:2929
     old "Insult Ryan"
-    new ""
+    new "侮辱瑞安"
 
     # game/v3/v3.rpy:3038
     old "I like her."
-    new ""
+    new "我喜欢她。"
 
     # game/v3/v3.rpy:3038
     old "She's into me."
-    new ""
+    new "她喜欢我。"
 
     # game/v3/v3.rpy:3199
     old "Tell her what happened."
-    new ""
+    new "告诉她发生了什么。"
 
     # game/v3/v3.rpy:3199
     old "Don't tell her."
-    new ""
+    new "不告诉她。"
 
     # game/v3/v3.rpy:3346
     old "Continue watching"
-    new ""
+    new "继续看"
 
     # game/v3/v3.rpy:3355
     old "Reach under her skirt"
-    new ""
+    new "申进她的裙底"
 
     # game/v3/v3.rpy:3355
     old "Keep hands to yourself"
-    new ""
+    new "把自己的手管好"
 
     # game/v3/v3.rpy:3366
     old "Keep going"
-    new ""
+    new "继续"
 
     # game/v3/v3.rpy:3366
     old "Stop"
