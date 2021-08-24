@@ -4,571 +4,571 @@
 translate chineses v4start_b4021613:
 
     # u "Imre? How you holding up buddy?"
-    u ""
+    u "伊姆雷？你感觉怎样伙伴？"
 
 # game/v4/v4.rpy:40
 translate chineses v4start_c5ddf28e:
 
     # imre "Hey, I'm fine. *winces in pain*"
-    imre ""
+    imre "嘿，我还行。*因疼痛畏缩*"
 
 # game/v4/v4.rpy:45
 translate chineses v4start_340bf5a0:
 
     # u "The nurse said you had 3 broken ribs! What the hell happened?"
-    u ""
+    u "护士说你断了3根肋骨！到底发生什么事了？"
 
 # game/v4/v4.rpy:50
 translate chineses v4start_bf4e1bad:
 
     # imre "Well I was hitting on this girl but she wasn't really into talking so I just started grinding on her a bit."
-    imre ""
+    imre "且说我正在撩这个妹子但她好像没什么兴趣，所以我就开始缠着她了一点。"
 
 # game/v4/v4.rpy:52
 translate chineses v4start_dffee429:
 
     # imre "Then all of the sudden... *winces in pain* this dude shows up super mad and starts pushing me around."
-    imre ""
+    imre "后来突然...*因疼痛畏缩*有个超级愤怒的家伙出现，开始跟我推来推去。"
 
 # game/v4/v4.rpy:56
 translate chineses v4start_df176aa7:
 
     # imre "Turns out that it was Adam and I was grinding on his sister."
-    imre ""
+    imre "结果那人是亚当，而我缠着的正是他妹妹。"
 
 # game/v4/v4.rpy:61
 translate chineses v4start_9729603a:
 
     # u "Who's Adam?"
-    u ""
+    u "亚当是谁？"
 
 # game/v4/v4.rpy:66
 translate chineses v4start_de621888:
 
     # imre "My brother asked some of his friends in the Wolves... *winces in pain*"
-    imre ""
+    imre "我哥问了几个饿狼会的朋友...*因疼痛畏缩*"
 
 # game/v4/v4.rpy:68
 translate chineses v4start_0162cafc:
 
     # imre "And apparently Adam used to be an Ape, but last year one of his opponents wouldn't give up so he flipped and gouged his opponent's eyes."
-    imre ""
+    imre "很明显亚当过去是人猿会的，但去年他的一位对手不愿认输，所以他发了狂，把对手的眼睛给抠了出来。"
 
 # game/v4/v4.rpy:70
 translate chineses v4start_fdf80e7c:
 
     # imre "*winces in pain* He was immediately disqualified and kicked out of the Apes."
-    imre ""
+    imre "*因疼痛畏缩*他立即就被取消了资格并且被人猿会开除了。"
 
 # game/v4/v4.rpy:72
 translate chineses v4start_c76b9e3d:
 
     # imre "Anyways, I obviously pushed him back and told to fuck off and then we got into a bit of a fight."
-    imre ""
+    imre "长话短说，我显然推了他一把叫他滚蛋，之后我们就发生了一点打斗。"
 
 # game/v4/v4.rpy:77
 translate chineses v4start_8c180bbe:
 
     # u "A bit of a fight? You have three broken ribs..."
-    u ""
+    u "一点打斗？你有三根肋骨断了..."
 
 # game/v4/v4.rpy:81
 translate chineses v4start_bc819d28:
 
     # imre "Yeah whatever... *winces in pain* he caught me by surprise, it wasn't a fair fight."
-    imre ""
+    imre "是啊，随便...*因疼痛畏缩*他打了我个措手不及，那不是一场公平决斗。"
 
 # game/v4/v4.rpy:90
 translate chineses v4start_3c649ef4:
 
     # u "Imre, you need to be more careful, man!"
-    u ""
+    u "伊姆雷，你需要更加小心才是，哥们儿！"
 
 # game/v4/v4.rpy:92
 translate chineses v4start_15e1a023:
 
     # u "You can't just try and fight everyone, what if he had a knife?"
-    u ""
+    u "你不能试着跟每个人打，要是他有把刀怎么办？"
 
 # game/v4/v4.rpy:97
 translate chineses v4start_eab36fd9:
 
     # imre "I told you, it wasn't a fair fight! I'll fuck him up when I get out."
-    imre ""
+    imre "我告诉过你，那不是一场公平决斗！等我出院后我要弄死他。"
 
 # game/v4/v4.rpy:107
 translate chineses v4start_05f159fd:
 
     # u "At least let me help you."
-    u ""
+    u "只是让我来帮你。"
 
 # game/v4/v4.rpy:112
 translate chineses v4start_4b864680:
 
     # imre "Nah, this is my fight *winces in pain*."
-    imre ""
+    imre "不，这是我的决斗*因疼痛畏缩*。"
 
 # game/v4/v4.rpy:114
 translate chineses v4start_ab9aa661:
 
     # imre "If you wanna help, pick me up when I get out of here."
-    imre ""
+    imre "如果你想帮忙，就在我出院的时候来接我。"
 
 # game/v4/v4.rpy:119
 translate chineses v4start_dd1f40cd:
 
     # u "The nurse said you need to stay in here for two more days so I'll pick you up on Sunday, alright?"
-    u ""
+    u "护士说你需要在这里住两天，那我就星期天来接你，好吧？"
 
 # game/v4/v4.rpy:124
 translate chineses v4start_e66b65b5:
 
     # imre "Alright, player. *winces in pain*"
-    imre ""
+    imre "好吧，大玩家。*因疼痛畏缩*"
 
 # game/v4/v4.rpy:129
 translate chineses v4start_8ba31839:
 
     # u "I'll see you then, get better soon."
-    u ""
+    u "那我们再见了，祝你尽快康复。"
 
 # game/v4/v4.rpy:137
 translate chineses v4start_f42f951a:
 
     # u "Dude, that's a dumb idea. He sounds dangerous, just go to the cops!"
-    u ""
+    u "哥们儿，那是个笨蛋计划。他听上去很危险，直接去报警吧！"
 
 # game/v4/v4.rpy:142
 translate chineses v4start_bed1b982:
 
     # imre "I'll fuck him up myself! *winces in pain* Or do I look like a bitch to you?"
-    imre ""
+    imre "我会自己把他弄死！*因疼痛畏缩*或者我在你眼中是个裱子？"
 
 # game/v4/v4.rpy:147
 translate chineses v4start_d646d5e5:
 
     # u "No, just think about it, okay?"
-    u ""
+    u "不，再考虑一下，可以吗？"
 
 # game/v4/v4.rpy:149
 translate chineses v4start_1b518344:
 
     # u "The nurse said you'd be in here for two more days. I'll pick you up on Sunday alright?"
-    u ""
+    u "护士说你需要在这里住两天，那我就星期天来接你，好吧？"
 
 # game/v4/v4.rpy:154
 translate chineses v4start_e66b65b5_1:
 
     # imre "Alright, player. *winces in pain*"
-    imre ""
+    imre "好吧，大玩家。*因疼痛畏缩*"
 
 # game/v4/v4.rpy:159
 translate chineses v4start_8ba31839_1:
 
     # u "I'll see you then, get better soon."
-    u ""
+    u "那我们再见了，祝你尽快康复。"
 
 # game/v4/v4.rpy:169
 translate chineses v4start_a98353e8:
 
     # u "Fuck that guy, let's fuck him up!"
-    u ""
+    u "操他妈的，让我们把他弄死！"
 
 # game/v4/v4.rpy:174
 translate chineses v4start_4b864680_1:
 
     # imre "Nah, this is my fight *winces in pain*."
-    imre ""
+    imre "不，这是我的决斗*因疼痛畏缩*。"
 
 # game/v4/v4.rpy:176
 translate chineses v4start_151acc9a:
 
     # imre "I'll be okay... but could you pick me up when I get out?"
-    imre ""
+    imre "我会没事的...但你能在我出院时来接我吗？"
 
 # game/v4/v4.rpy:181
 translate chineses v4start_f581f45f:
 
     # u "Yeah of course, the nurse said you need to stay in here for two more days so I'll come back on Sunday, alright?"
-    u ""
+    u "是啊当然，护士说你需要在这里住两天，那我就星期天来接你，好吧？"
 
 # game/v4/v4.rpy:186
 translate chineses v4start_e66b65b5_2:
 
     # imre "Alright, player. *winces in pain*"
-    imre ""
+    imre "好吧，大玩家。*因疼痛畏缩*"
 
 # game/v4/v4.rpy:191
 translate chineses v4start_8ba31839_2:
 
     # u "I'll see you then, get better soon."
-    u ""
+    u "那我们再见了，祝你尽快康复。"
 
 # game/v4/v4.rpy:208
 translate chineses dp_ad_c67246ba:
 
     # u "(Holy fuck... I'm just glad he's okay. I need to talk to someone about this.)"
-    u ""
+    u "（天哪...我很高兴他没事。我需要跟人讲讲这件事。）"
 
 # game/v4/v4.rpy:210
 translate chineses dp_ad_c7da4826:
 
     # u "(Riley's quite close with Imre, I'll call her.)"
-    u ""
+    u "（莱利跟伊姆雷的关系不错，你就给她打电话。）"
 
 # game/v4/v4.rpy:217
 translate chineses dp_ad_5b8aada9:
 
     # "*Phone calling*"
-    ""
+    "*电话声响*"
 
 # game/v4/v4.rpy:224
 translate chineses dp_ad_6f1017a1:
 
     # ri "Hey [name], why you calling me so late?"
-    ri ""
+    ri "嘿[名字]，你为什么这么晚打电话给我？"
 
 # game/v4/v4.rpy:225
 translate chineses dp_ad_e79e7310:
 
     # ri "You know that booty calls nowadays aren't actually calls, people just text."
-    ri ""
+    ri "你知道现在大家约炮不是打电话了，而是发短信。"
 
 # game/v4/v4.rpy:230
 translate chineses dp_ad_a7e3f450:
 
     # u "Riley, Imre's in the hospital. He got beat up and has three broken ribs."
-    u ""
+    u "莱利，伊姆雷住进了医院。他被揍了，断了三根肋骨。"
 
 # game/v4/v4.rpy:235
 translate chineses dp_ad_186f6247:
 
     # ri "What the hell?! Will he be okay?"
-    ri ""
+    ri "到底怎么了？！他会没事吗？"
 
 # game/v4/v4.rpy:240
 translate chineses dp_ad_1f61cdbb:
 
     # u "Yeah, he's holding up. I'm just on my way back from the hospital. He has to stay there for two more days."
-    u ""
+    u "是的，他感觉还行。我正在从医院回来的路上。他还得在那儿待两天。"
 
 # game/v4/v4.rpy:242
 translate chineses dp_ad_7cf930cb:
 
     # u "The nurse said he's lucky there was no internal bleeding."
-    u ""
+    u "护士说他运气好，没有内出血。"
 
 # game/v4/v4.rpy:247
 translate chineses dp_ad_b06a1579:
 
     # ri "Oh my god... Let me know when you're back at your dorm. I'll come over straight away if you wanna talk about it."
-    ri ""
+    ri "哦天哪...当你回到你的寝室后告诉我。如果你想找人聊聊我会马上去的。"
 
 # game/v4/v4.rpy:252
 translate chineses dp_ad_dd3101e7:
 
     # u "Yeah, okay. I won't be able to sleep right now anyway."
-    u ""
+    u "是啊，好的。我反正现在也睡不着。"
 
 # game/v4/v4.rpy:257
 translate chineses dp_ad_c884f79b:
 
     # u "Here's good, thank you."
-    u ""
+    u "这里就好，谢谢你。"
 
 # game/v4/v4.rpy:262
 translate chineses dp_ad_b01b2966:
 
     # uber "Please don't forget to rate me five stars if you enjoyed your journey."
-    uber ""
+    uber "如果你觉得旅程愉快的话，请别忘了给我五星。"
 
 # game/v4/v4.rpy:269
 translate chineses dp_ad_4f1997c1:
 
     # "*Knock knock knock*"
-    ""
+    "*敲 敲 敲*"
 
 # game/v4/v4.rpy:278
 translate chineses dp_ad_892195fa:
 
     # u "Hey..."
-    u ""
+    u "嘿..."
 
 # game/v4/v4.rpy:283
 translate chineses dp_ad_a3357a82:
 
     # ri "Hey, I still can't believe this happened."
-    ri ""
+    ri "嘿，我还不能相信发生的事。"
 
 # game/v4/v4.rpy:288
 translate chineses dp_ad_5031cd94:
 
     # u "Yeah, me neither..."
-    u ""
+    u "是啊，我也不能..."
 
 # game/v4/v4.rpy:293
 translate chineses dp_ad_a20dfd33:
 
     # u "He gets out on Sunday. If you want to, you can come with me when I pick him up."
-    u ""
+    u "他星期天出院。如果你愿意，你可以跟我一起去接他。"
 
 # game/v4/v4.rpy:298
 translate chineses dp_ad_8e1db608:
 
     # ri "Of course."
-    ri ""
+    ri "当然。"
 
 # game/v4/v4.rpy:303
 translate chineses dp_ad_f26dcb73:
 
     # ri "Imre said you started training with him..."
-    ri ""
+    ri "伊姆雷说你开始跟他训练了..."
 
 # game/v4/v4.rpy:305
 translate chineses dp_ad_14220c37:
 
     # ri "Does that mean I'll have to visit both of you in the hospital soon?"
-    ri ""
+    ri "那是不是就等于我很快就会到医院探望你们两个啊？"
 
 # game/v4/v4.rpy:310
 translate chineses dp_ad_14a15a75:
 
     # u "Come on Riley, you know I don't get mad as easily as Imre... it's just for self-defense."
-    u ""
+    u "得啦莱利，你知道我不像伊姆雷那样疯狂...只是用来自我防卫的。"
 
 # game/v4/v4.rpy:315
 translate chineses dp_ad_8029ed88:
 
     # ri "I mean you did seem quite angry at the park today..."
-    ri ""
+    ri "我的意思是你今天在公园好像很愤怒的样子..."
 
 # game/v4/v4.rpy:325
 translate chineses dp_ad_5247df77:
 
     # u "Yeah... I'm sorry. I shouldn't have acted out like that. Tomorrow I'll talk to Ryan and make things right."
-    u ""
+    u "是啊...我很抱歉。我不应该那样做的。明天我会找瑞安谈谈，握手言和。"
 
 # game/v4/v4.rpy:330
 translate chineses dp_ad_2adf0f24:
 
     # ri "I think that'd be good."
-    ri ""
+    ri "我认为那很好。"
 
 # game/v4/v4.rpy:341
 translate chineses dp_ad_c7d00e58:
 
     # u "That's just 'cause Ryan was completely out of line..."
-    u ""
+    u "那只是因为瑞安太出格了..."
 
 # game/v4/v4.rpy:346
 translate chineses dp_ad_b3d899b0:
 
     # ri "Right... sorry for bringing it up."
-    ri ""
+    ri "对...抱歉提起这事。"
 
 # game/v4/v4.rpy:352
 translate chineses dq_bd_26cb2dcb:
 
     # u "Hey, isn't it kinda crazy that we all just met at the beginning of the week?"
-    u ""
+    u "嘿，我们几个在这个星期开始才刚认识，是不是感觉有点夸张啊？"
 
 # game/v4/v4.rpy:354
 translate chineses dq_bd_24a1daf3:
 
     # u "I mean so much has happened since then."
-    u ""
+    u "我的意思是这几天发生了好多事。"
 
 # game/v4/v4.rpy:359
 translate chineses dq_bd_62b08434:
 
     # ri "Yeah, you're not wrong. That first night where we played truth or drink."
-    ri ""
+    ri "是啊，你没有错。那第一晚我们玩了做或喝。"
 
 # game/v4/v4.rpy:364
 translate chineses dq_bd_fc80a47f:
 
     # u "You know, that night, Imre told me he wanted to get with you."
-    u ""
+    u "你知道，那一晚，伊姆雷告诉我她想泡你。"
 
 # game/v4/v4.rpy:369
 translate chineses dq_bd_abafbfdd:
 
     # ri "Oh reeeally?"
-    ri ""
+    ri "哦真的？"
 
 # game/v4/v4.rpy:374
 translate chineses dq_bd_2ae32f65:
 
     # u "Did you guys ever...?"
-    u ""
+    u "你们两有没有...？"
 
 # game/v4/v4.rpy:379
 translate chineses dq_bd_c587782c:
 
     # ri "Me and Imre? No."
-    ri ""
+    ri "我和伊姆雷？没有。"
 
 # game/v4/v4.rpy:384
 translate chineses dq_bd_94e3e2d7:
 
     # u "Would you ever...?"
-    u ""
+    u "你们会不会...？"
 
 # game/v4/v4.rpy:389
 translate chineses dq_bd_8c62df3a:
 
     # ri "Uhm... no, I don't think so. I like Imre, but he can be a bit gross, haha."
-    ri ""
+    ri "嗯...不会，我不这么认为。我喜欢伊姆雷，但他有点粗俗啦，哈哈。"
 
 # game/v4/v4.rpy:395
 translate chineses dq_bd_b1cb03ee:
 
     # u "Haha, I get that. I'm a better kisser anyway."
-    u ""
+    u "哈哈，我了解。我的接吻技术更好些。"
 
 # game/v4/v4.rpy:400
 translate chineses dq_bd_5edf54a9:
 
     # ri "Oh, so you've tried him?"
-    ri ""
+    ri "哦，那你跟他试过？"
 
 # game/v4/v4.rpy:405
 translate chineses dq_bd_1bd7f983:
 
     # u "Hey, that's not what I-"
-    u ""
+    u "嘿，那不是我-"
 
 # game/v4/v4.rpy:410
 translate chineses dq_bd_453741fb:
 
     # ri "I'm just kidding, haha."
-    ri ""
+    ri "我只是开玩笑啦，哈哈。"
 
 # game/v4/v4.rpy:416
 translate chineses dq_bd_ee52491e:
 
     # u "Haha, good."
-    u ""
+    u "哈哈，挺好。"
 
 # game/v4/v4.rpy:421
 translate chineses dq_bd_5d5c08d4:
 
     # ri "Good?"
-    ri ""
+    ri "挺好？"
 
 # game/v4/v4.rpy:426
 translate chineses dq_bd_c864f1d9:
 
     # u "Uhm... you know, good for you that you made that decision."
-    u ""
+    u "嗯...你知道，你做的那个决定挺好。"
 
 # game/v4/v4.rpy:431
 translate chineses dq_bd_979ff76c:
 
     # ri "Right..."
-    ri ""
+    ri "对..."
 
 # game/v4/v4.rpy:434
 translate chineses continuev_d672b706:
 
     # ri "It's getting quite late, I should probably head back to my dorm."
-    ri ""
+    ri "已经很晚了，我大概应该会我的寝室了。"
 
 # game/v4/v4.rpy:441
 translate chineses continuev_b2c7615a:
 
     # u "Or... you could sleep here. I mean, Imre's bed certainly isn't taken tonight."
-    u ""
+    u "或者...你可以睡这里。我的意思是，伊姆雷的床今晚没人睡。"
 
 # game/v4/v4.rpy:446
 translate chineses continuev_b78d80d0:
 
     # ri "Haha, I don't wanna find out what's underneath those covers."
-    ri ""
+    ri "哈哈，我不想知道那床套下面有什么。"
 
 # game/v4/v4.rpy:452
 translate chineses continuev_9eeb5bd0:
 
     # u "Yeah, thank you for coming though."
-    u ""
+    u "是啊，不过还是谢谢你来。"
 
 # game/v4/v4.rpy:457
 translate chineses continuev_f2cde013:
 
     # ri "Not a problem at all."
-    ri ""
+    ri "完全没问题。"
 
 # game/v4/v4.rpy:475
 translate chineses dr_bd_ef037077:
 
     # u "Chloe, you are the most amazing girl I've ever met."
-    u ""
+    u "克洛伊，你是我见过的最迷人的女孩。"
 
 # game/v4/v4.rpy:477
 translate chineses dr_bd_35192050:
 
     # u "You're funny, you're beautiful, you're kind..."
-    u ""
+    u "你很幽默，你很美丽，你很亲切..."
 
 # game/v4/v4.rpy:479
 translate chineses dr_bd_eec1fa69:
 
     # u "We get along so well... I-"
-    u ""
+    u "我们很合得来...我-"
 
 # game/v4/v4.rpy:481
 translate chineses dr_bd_e7190543:
 
     # u "I really like you. Do you feel the same way?"
-    u ""
+    u "我真喜欢你。你的感觉也是一样吗？"
 
 # game/v4/v4.rpy:486
 translate chineses dr_bd_0978d962:
 
     # cl "What?? Hahahaha!"
-    cl ""
+    cl "什么？？哈哈哈哈！"
 
 # game/v4/v4.rpy:488
 translate chineses dr_bd_2285590d:
 
     # cl "Did you really think a girl like me would ever go for a guy like you?!"
-    cl ""
+    cl "你真的以为像我这样的女孩会喜欢一个像你那样的男孩？！"
 
 # game/v4/v4.rpy:493
 translate chineses dr_bd_4336064d:
 
     # cl "Guys, look at this loser!"
-    cl ""
+    cl "大伙儿，看看这个失败者！"
 
 # game/v4/v4.rpy:498
 translate chineses dr_bd_1d60e8eb:
 
     # gr "HAHAHA! This fucking idiot really fell for it!"
-    gr ""
+    gr "哈哈哈！这个他妈蠢货真的上当了！"
 
 # game/v4/v4.rpy:500
 translate chineses dr_bd_4c1488ca:
 
     # u "What? I don't understand..."
-    u ""
+    u "什么？我不明白..."
 
 # game/v4/v4.rpy:505
 translate chineses dr_bd_1f7d239c:
 
     # ry "[name], how could you ever think Chloe likes you?? Hahaha!"
-    ry ""
+    ry "[名字]，你怎么会以为克洛伊会喜欢你？？哈哈哈！"
 
 # game/v4/v4.rpy:510
 translate chineses dr_bd_d981cfea:
 
     # ri "Everyone could see it. She was playing you! How could you be so blind?!"
-    ri ""
+    ri "每个人都看到的。你在耍你！你怎么会眼瞎得那么厉害？！"
 
 # game/v4/v4.rpy:515
 translate chineses dr_bd_42e11ebb:
 
     # u "Ahhh! Stop! Stop!"
-    u ""
+    u "啊！停！停！"
 
 # game/v4/v4.rpy:524
 translate chineses dr_bd_3fd3d76d:
