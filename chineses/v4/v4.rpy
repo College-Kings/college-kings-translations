@@ -1552,133 +1552,133 @@ translate chineses readmontagea_57b5975e:
 translate chineses readmontagea_95dda80b:
 
     # u "(Oh shit, there's Ryan.)"
-    u ""
+    u "（咦，瑞安在那儿。）"
 
 # game/v4/v4.rpy:1489
 translate chineses readmontagea_55d5cf9e:
 
     # u "(Time to talk it out.)"
-    u ""
+    u "（是时候跟他谈谈了。）"
 
 # game/v4/v4.rpy:1494
 translate chineses readmontagea_54d14436:
 
     # ry "[name]?"
-    ry ""
+    ry "[名字]？"
 
 # game/v4/v4.rpy:1501
 translate chineses readmontagea_9f7b2c3a:
 
     # u "Ryan, can we talk about yesterday?"
-    u ""
+    u "瑞安，我们可以谈谈昨天的事吗？"
 
 # game/v4/v4.rpy:1506
 translate chineses readmontagea_12176e95:
 
     # ry "Yeah, man. I messed up, I'm sorry."
-    ry ""
+    ry "是啊，哥们儿。我搞砸了，抱歉。"
 
 # game/v4/v4.rpy:1514
 translate chineses readmontagea_a7558262:
 
     # u "(I'll just walk straight past him.)"
-    u ""
+    u "（我就从他身边径直走过。）"
 
 # game/v4/v4.rpy:1519
 translate chineses readmontagea_54d14436_1:
 
     # ry "[name]?"
-    ry ""
+    ry "[名字]？"
 
 # game/v4/v4.rpy:1526
 translate chineses readmontagea_d444bc23:
 
     # ry "Hey, can we talk?"
-    ry ""
+    ry "嘿，我们能谈谈吗？"
 
 # game/v4/v4.rpy:1531
 translate chineses readmontagea_3353b912:
 
     # u "Ok, let's talk."
-    u ""
+    u "好，我们来谈吧。"
 
 # game/v4/v4.rpy:1536
 translate chineses readmontagea_7b7cc938:
 
     # ry "Look, man. I messed up, I'm sorry."
-    ry ""
+    ry "听着，哥们儿，我搞砸了，抱歉。"
 
 # game/v4/v4.rpy:1539
 translate chineses ec_bd_d0609648:
 
     # ry "I didn't mean to attack you like that. I just wanted to let you know about the things that I've heard. "
-    ry ""
+    ry "我没有打算要像那样攻击你。我只是想让你知道我所听到的事。"
 
 # game/v4/v4.rpy:1541
 translate chineses ec_bd_0c716ca8:
 
     # ry "You know, so she doesn't play you."
-    ry ""
+    ry "你知道，这样她就不能耍你了。"
 
 # game/v4/v4.rpy:1546
 translate chineses ec_bd_d1b41516:
 
     # u "Dude, Chloe is no-"
-    u ""
+    u "哥们儿，克洛伊不是-"
 
 # game/v4/v4.rpy:1551
 translate chineses ec_bd_b8d264ac:
 
     # ry "I know, she's not that kind of person."
-    ry ""
+    ry "我知道，她不是那样的人。"
 
 # game/v4/v4.rpy:1553
 translate chineses ec_bd_d08abeb0:
 
     # ry "And maybe she's not..."
-    ry ""
+    ry "而且也许她不是..."
 
 # game/v4/v4.rpy:1555
 translate chineses ec_bd_5a26e1e8:
 
     # ry "But I'm just looking out for you, homie. Making sure, you see the bigger picture, you know what I mean?"
-    ry ""
+    ry "但我只是在照看你啊，死党。我想确保你可以看见整个画面，你明白我的意思吗？"
 
 # game/v4/v4.rpy:1560
 translate chineses ec_bd_a574f55c:
 
     # u "Yeah, I get what you mean."
-    u ""
+    u "是啊，我明白你的意思。"
 
 # game/v4/v4.rpy:1565
 translate chineses ec_bd_f50c265e:
 
     # ry "So we're cool?"
-    ry ""
+    ry "那我们和好了？"
 
 # game/v4/v4.rpy:1570
 translate chineses ec_bd_bd7292e7:
 
     # u "Yeah, we're cool."
-    u ""
+    u "是的，我们和好了。"
 
 # game/v4/v4.rpy:1575
 translate chineses ec_bd_9469b5f9:
 
     # ry "Awesome, man. I gotta go, I'll see you later."
-    ry ""
+    ry "太棒了，哥们儿。我得走了，我们待会儿见。"
 
 # game/v4/v4.rpy:1580
 translate chineses ec_bd_ea48acb1:
 
     # u "Yeah, see you later."
-    u ""
+    u "是啊，待会儿见。"
 
 # game/v4/v4.rpy:1587
 translate chineses ec_bd_17079010:
 
     # u "*Yawn*"
-    u ""
+    u "*打哈欠*"
 
 # game/v4/v4.rpy:1589
 translate chineses ec_bd_09e54a59:
