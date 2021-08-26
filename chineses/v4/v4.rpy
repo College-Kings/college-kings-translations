@@ -1684,1111 +1684,1111 @@ translate chineses ec_bd_17079010:
 translate chineses ec_bd_09e54a59:
 
     # u "(Why do I keep waking up in the middle of the night? It really fucks with my sleep.)"
-    u ""
+    u "（我为什么老是在半夜醒来？这真把我的睡眠给搞砸了.)"
 
 # game/v4/v4.rpy:1591
 translate chineses ec_bd_c812e1b1:
 
     # u "(I'll get a coffee, otherwise I'll be tired for the rest of the day.)"
-    u ""
+    u "（我会去买杯咖啡，不然我整天都会无精打采的。）"
 
 # game/v4/v4.rpy:1608
 translate chineses continueaa_40fb7627:
 
     # u "(Oh, Penelope's here, I should probably say hi.)"
-    u ""
+    u "（哦，佩内洛普在这里，我大概应该打个招呼。）"
 
 # game/v4/v4.rpy:1613
 translate chineses continueaa_1d6a0cc7:
 
     # u "Penelope?"
-    u ""
+    u "佩内洛普？"
 
 # game/v4/v4.rpy:1623
 translate chineses continueaa_f8d4c8bd:
 
     # pe "[name]!!!"
-    pe ""
+    pe "[名字]！！！"
 
 # game/v4/v4.rpy:1635
 translate chineses continueaa_10d00e75:
 
     # pe "Heyyy!"
-    pe ""
+    pe "嘿！"
 
 # game/v4/v4.rpy:1639
 translate chineses continueaa_fefb8a1c:
 
     # pe "How did you know I was gonna be here?"
-    pe ""
+    pe "你怎么知道我会到这儿来？"
 
 # game/v4/v4.rpy:1648
 translate chineses continueaa_8b7dfbe5:
 
     # u "Magic powers, of course."
-    u ""
+    u "当然是，法力啊。"
 
 # game/v4/v4.rpy:1653
 translate chineses continueaa_869d0574:
 
     # pe "Haha, you're stupid."
-    pe ""
+    pe "哈哈，你糊涂啦。"
 
 # game/v4/v4.rpy:1658
 translate chineses continueaa_bfe01d1d:
 
     # pe "You wanna sit down?"
-    pe ""
+    pe "你想坐下吗？"
 
 # game/v4/v4.rpy:1663
 translate chineses continueaa_9064cdac:
 
     # u "Yeah, sure."
-    u ""
+    u "是啊，当然。"
 
 # game/v4/v4.rpy:1671
 translate chineses continueaa_b7962dc0:
 
     # u "I didn't, but I'm glad I came now."
-    u ""
+    u "我没有，但我现在很高兴我来了。"
 
 # game/v4/v4.rpy:1676
 translate chineses continueaa_fcf6fc2c:
 
     # pe "Well, me too! Wanna sit down?"
-    pe ""
+    pe "这个，我也是！想要坐下吗？"
 
 # game/v4/v4.rpy:1681
 translate chineses continueaa_9064cdac_1:
 
     # u "Yeah, sure."
-    u ""
+    u "是啊，当然。"
 
 # game/v4/v4.rpy:1684
 translate chineses continueaa_6ff50e9a:
 
     # u "(Shit, Penelope's here. I wonder if she's still mad at me...)"
-    u ""
+    u "糟，佩内洛普在这儿。我不晓得她是不是还恼我...）"
 
 # game/v4/v4.rpy:1686
 translate chineses continueaa_8fed4328:
 
     # u "(Maybe I should buy her something and apologize for peeking on her.)"
-    u ""
+    u "（也许我应该给她买点什么，为我偷看她而抱歉。）"
 
 # game/v4/v4.rpy:1690
 translate chineses continueaa_f2173858:
 
     # clerk "Hello sir, what I can do for you?"
-    clerk ""
+    clerk "喂先生，我能为你做什么吗？"
 
 # game/v4/v4.rpy:1705
 translate chineses continueaa_db4134d4:
 
     # u "Can I get a muffin and a coffee please?"
-    u ""
+    u "我可以来个松糕和一杯咖啡吗？"
 
 # game/v4/v4.rpy:1710
 translate chineses continueaa_e21af801:
 
     # clerk "Coming right up, sir."
-    clerk ""
+    clerk "马上就来，先生。"
 
 # game/v4/v4.rpy:1716
 translate chineses continueaa_6a44669d:
 
     # u "Two coffees please."
-    u ""
+    u "麻烦来两杯咖啡。"
 
 # game/v4/v4.rpy:1721
 translate chineses continueaa_e21af801_1:
 
     # clerk "Coming right up, sir."
-    clerk ""
+    clerk "马上就来，先生。"
 
 # game/v4/v4.rpy:1727
 translate chineses ed_bd_1d6a0cc7:
 
     # u "Penelope?"
-    u ""
+    u "佩内洛普？"
 
 # game/v4/v4.rpy:1737
 translate chineses ed_bd_6f7907ef:
 
     # pe "Wha- what are you doing here, [name]?"
-    pe ""
+    pe "你-你在这里做什么，[名字]？"
 
 # game/v4/v4.rpy:1742
 translate chineses ed_bd_8184b887:
 
     # u "Look I'm sorry for what happened."
-    u ""
+    u "我很抱歉发生了那样的事。"
 
 # game/v4/v4.rpy:1747
 translate chineses ed_bd_cd574ba8:
 
     # pe "Just- just go please. I don't feel comfortable around you anymore."
-    pe ""
+    pe "请-请你离开。跟你一起我感到很不舒服。"
 
 # game/v4/v4.rpy:1753
 translate chineses ed_bd_fdff1dbf:
 
     # u "Penelope, please... I brought you this muffin, I mean I saw you already had a coffee."
-    u ""
+    u "佩内洛普，别...看我给你买了这个松糕，因为我见你已近有咖啡了。"
 
 # game/v4/v4.rpy:1755
 translate chineses ed_bd_bdbd741f:
 
     # u "I'm really sorry. Please can we just forget about it?"
-    u ""
+    u "我真的很抱歉。我们能把它给忘了吗？"
 
 # game/v4/v4.rpy:1760
 translate chineses ed_bd_0740df4a:
 
     # pe "Oh, that's really nice... I mean no, I mean I don't know. You broke my trust..."
-    pe ""
+    pe "哦，那挺好啊...我是指不，我想说我不知道。你破坏了我的信任..."
 
 # game/v4/v4.rpy:1762
 translate chineses ed_bd_aa1856b5:
 
     # pe "I thought you were my friend."
-    pe ""
+    pe "我还以为你是我的朋友。"
 
 # game/v4/v4.rpy:1767
 translate chineses ed_bd_52d9dcf6:
 
     # u "I am your friend... come on."
-    u ""
+    u "我是你的朋友...得了吧。"
 
 # game/v4/v4.rpy:1772
 translate chineses ed_bd_70a5099f:
 
     # pe "Okay uhm... you can sit down if you want."
-    pe ""
+    pe "好嗯...我可以随便坐。"
 
 # game/v4/v4.rpy:1776
 translate chineses ed_bd_a7041bd8:
 
     # u "Again, I'm really sorry."
-    u ""
+    u "我再次道歉。"
 
 # game/v4/v4.rpy:1790
 translate chineses ed_bd_1adae1c1:
 
     # pe "It's okay."
-    pe ""
+    pe "没什么的。"
 
 # game/v4/v4.rpy:1803
 translate chineses ed_bd_5850a261:
 
     # pe "[name], what are you doing??"
-    pe ""
+    pe "[名字]，你在做什么？？"
 
 # game/v4/v4.rpy:1808
 translate chineses ed_bd_a7e115cd:
 
     # u "Uhh... I uhm-"
-    u ""
+    u "呃...我嗯-"
 
 # game/v4/v4.rpy:1813
 translate chineses ed_bd_7d635033:
 
     # pe "Just 'cause I forgive you doesn't mean we have something."
-    pe ""
+    pe "只是因为我原谅你不代表我们之间有感情。"
 
 # game/v4/v4.rpy:1818
 translate chineses ed_bd_2f9e054b:
 
     # u "Uhm, I should probably get going. Good to see you."
-    u ""
+    u "嗯，我该走了。见到你真好。"
 
 # game/v4/v4.rpy:1829
 translate chineses ed_bd_1adae1c1_1:
 
     # pe "It's okay."
-    pe ""
+    pe "没什么的。"
 
 # game/v4/v4.rpy:1835
 translate chineses eg_b_8d1cdc14:
 
     # u "Anyways, are you excited for history next week?"
-    u ""
+    u "不管怎样，你为下个星期的历史课而兴奋吗？"
 
 # game/v4/v4.rpy:1840
 translate chineses eg_b_e58b1ea2:
 
     # u "Penelope, please... I got you a coffee."
-    u ""
+    u "佩内洛普，别...我给你买了杯咖啡。"
 
 # game/v4/v4.rpy:1842
 translate chineses eg_b_bdbd741f:
 
     # u "I'm really sorry. Please can we just forget about it?"
-    u ""
+    u "我真的很抱歉。我们能把它给忘了吗？"
 
 # game/v4/v4.rpy:1847
 translate chineses eg_b_f4815bc8:
 
     # pe "I already have a coffee. I don't need another one."
-    pe ""
+    pe "我已经有杯咖啡了。我不需要第二杯。"
 
 # game/v4/v4.rpy:1849
 translate chineses eg_b_44b8e0ce:
 
     # pe "I- I thought you were my friend and then you broke my trust."
-    pe ""
+    pe "我-我已为你是我的朋友，结果你破坏了我的信任。"
 
 # game/v4/v4.rpy:1854
 translate chineses eg_b_1163e371:
 
     # u "Penelope, I never-"
-    u ""
+    u "佩内洛普，我从来没有-"
 
 # game/v4/v4.rpy:1859
 translate chineses eg_b_4a2b5236:
 
     # pe "Stop! Just leave please. I don't wanna be friends with someone I can't trust."
-    pe ""
+    pe "别说了！请离开吧。我不想跟我不相信的人做朋友。"
 
 # game/v4/v4.rpy:1864
 translate chineses eg_b_1dca0bec:
 
     # u "Alright... sorry."
-    u ""
+    u "好吧...抱歉。"
 
 # game/v4/v4.rpy:1869
 translate chineses eg_b_40fb7627:
 
     # u "(Oh, Penelope's here, I should probably say hi.)"
-    u ""
+    u "（哦，佩内洛普在这里，我大概应该打个招呼。）"
 
 # game/v4/v4.rpy:1874
 translate chineses eg_b_1d6a0cc7:
 
     # u "Penelope?"
-    u ""
+    u "佩内洛普？"
 
 # game/v4/v4.rpy:1884
 translate chineses eg_b_9bfeb216:
 
     # pe "[name]! Heyyy."
-    pe ""
+    pe "[名字]！嘿。"
 
 # game/v4/v4.rpy:1887
 translate chineses eg_b_fefb8a1c:
 
     # pe "How did you know I was gonna be here?"
-    pe ""
+    pe "你怎么知道我会到这儿来？"
 
 # game/v4/v4.rpy:1896
 translate chineses eg_b_8b7dfbe5:
 
     # u "Magic powers, of course."
-    u ""
+    u "当然是，法力啊。"
 
 # game/v4/v4.rpy:1901
 translate chineses eg_b_869d0574:
 
     # pe "Haha, you're stupid."
-    pe ""
+    pe "哈哈，你糊涂啦。"
 
 # game/v4/v4.rpy:1903
 translate chineses eg_b_bfe01d1d:
 
     # pe "You wanna sit down?"
-    pe ""
+    pe "你想坐下吗？"
 
 # game/v4/v4.rpy:1908
 translate chineses eg_b_9064cdac:
 
     # u "Yeah, sure."
-    u ""
+    u "是啊，当然。"
 
 # game/v4/v4.rpy:1916
 translate chineses eg_b_b7962dc0:
 
     # u "I didn't, but I'm glad I came now."
-    u ""
+    u "我没有，但我现在很高兴我来了。"
 
 # game/v4/v4.rpy:1921
 translate chineses eg_b_fcf6fc2c:
 
     # pe "Well, me too! Wanna sit down?"
-    pe ""
+    pe "这个，我也是！想要坐下吗？"
 
 # game/v4/v4.rpy:1926
 translate chineses eg_b_9064cdac_1:
 
     # u "Yeah, sure."
-    u ""
+    u "是啊，当然。"
 
 # game/v4/v4.rpy:1932
 translate chineses ej_bd_64a0bd74:
 
     # u "Soo... are you excited for the history costume party next week?"
-    u ""
+    u "那...你有为下个星期历史课上的戏服派对感到兴奋吗？"
 
 # game/v4/v4.rpy:1938
 translate chineses ef_bd_7a672509:
 
     # pe "I am! I love costumes, I hope someone comes as in a giant full-body animal one."
-    pe ""
+    pe "我有啊！我热爱戏服，我希望有人会穿一套全身的动物装来。"
 
 # game/v4/v4.rpy:1943
 translate chineses ef_bd_584286ad:
 
     # u "Penelope, you are aware that Mr. Lee said historically accurate, right?"
-    u ""
+    u "佩内洛普，你意识到李先生说了要穿符合历史的，对吧？"
 
 # game/v4/v4.rpy:1948
 translate chineses ef_bd_ad41ff7f:
 
     # pe "Aww, I forgot about that... why did he have to take all the fun out of it?"
-    pe ""
+    pe "啊，我把那给忘了...他为什么要把所有有趣的东西都拿掉？"
 
 # game/v4/v4.rpy:1953
 translate chineses ef_bd_d6eca572:
 
     # u "I know, it's a shame."
-    u ""
+    u "我知道，真遗憾。"
 
 # game/v4/v4.rpy:1955
 translate chineses ef_bd_9b357ad5:
 
     # u "What are you working on?"
-    u ""
+    u "你在忙什么呢？"
 
 # game/v4/v4.rpy:1960
 translate chineses ef_bd_39ca1438:
 
     # pe "Uhm... nothing. Uni work. Homework. School stuff."
-    pe ""
+    pe "嗯...没什么。大学的事。作业。学校的东西。"
 
 # game/v4/v4.rpy:1962
 translate chineses ef_bd_c6c6cfe6:
 
     # pe "You know, nothing I shouldn't be doing."
-    pe ""
+    pe "你知道，并不是我不该做的事。"
 
 # game/v4/v4.rpy:1967
 translate chineses ef_bd_9852faf3:
 
     # u "Haha, Penelope, that's not very convincing... Are you ok? You're acting weird."
-    u ""
+    u "哈哈，佩内洛普，那不是很有说服力唷...你还好吧？你有点古怪。"
 
 # game/v4/v4.rpy:1972
 translate chineses ef_bd_c937a32a:
 
     # pe "No, I'm not. You're acting weird!"
-    pe ""
+    pe "不，我没事。你才有点古怪呢！"
 
 # game/v4/v4.rpy:1974
 translate chineses ef_bd_3550c3f9:
 
     # pe "What are you working on? Huh?"
-    pe ""
+    pe "你又在忙什么呢？呵？"
 
 # game/v4/v4.rpy:1979
 translate chineses ef_bd_431e01ab:
 
     # u "Uhm... nothing I just got here."
-    u ""
+    u "嗯...没什么，我才刚来。"
 
 # game/v4/v4.rpy:1984
 translate chineses ef_bd_670189a2:
 
     # pe "Exactly."
-    pe ""
+    pe "对啦。"
 
 # game/v4/v4.rpy:1989
 translate chineses ef_bd_6ac11fe2:
 
     # u "Penelope, come on. You can tell me. I am the world champion of keeping secrets."
-    u ""
+    u "佩内洛普，得了吧。你可以跟我讲。我是全世界的保密冠军。"
 
 # game/v4/v4.rpy:1991
 translate chineses ef_bd_6a0d8739:
 
     # u "Literally had to go through a whole international tournament."
-    u ""
+    u "那是我参加了整个国际赛事之后才获得的。"
 
 # game/v4/v4.rpy:1996
 translate chineses ef_bd_dc2091ea:
 
     # pe "*Chuckles* Why do you have to turn everything into a joke..."
-    pe ""
+    pe "*抿嘴笑*你为什么要把一切都变成玩笑呢..."
 
 # game/v4/v4.rpy:2001
 translate chineses ef_bd_4b18075a:
 
     # u "Okay, you don't have to tell me. But if I were you, I'd be more careful watching hardcore porn in a cafe."
-    u ""
+    u "好，你不用告诉我。不过如果我是你，我会更加小心的在咖啡厅里看色情片。"
 
 # game/v4/v4.rpy:2003
 translate chineses ef_bd_816a08d7:
 
     # u "You don't wanna accidentally turn the speakers on, I mean we've all been there."
-    u ""
+    u "你不会想无意间把音响打开了，我的意思是我们都做过那些事。"
 
 # game/v4/v4.rpy:2008
 translate chineses ef_bd_e9224c22:
 
     # pe "It's not porn!"
-    pe ""
+    pe "不是色情片！"
 
 # game/v4/v4.rpy:2013
 translate chineses ef_bd_5722d9bd:
 
     # pe "I don't- I don't watch porn."
-    pe ""
+    pe "我不-我不看色情片。"
 
 # game/v4/v4.rpy:2017
 translate chineses ef_bd_90cca9a4:
 
     # u "Now we're getting into an interesting topic."
-    u ""
+    u "现在我们终于开始谈论有意思的话题了。"
 
 # game/v4/v4.rpy:2023
 translate chineses ef_bd_ecf336c6:
 
     # u "You know, we should watch some together sometime."
-    u ""
+    u "你知道，我们什么时候应该一起看。"
 
 # game/v4/v4.rpy:2028
 translate chineses ef_bd_9e557984:
 
     # pe "*Laughs* Ewww... I don't think we should."
-    pe ""
+    pe "*大笑*恶心...我不认为我们该看。"
 
 # game/v4/v4.rpy:2033
 translate chineses ef_bd_d38f7af4:
 
     # u "The offer still stands, if you change your mind."
-    u ""
+    u "如果你改变你的想法的话，我的邀请还有效。"
 
 # game/v4/v4.rpy:2038
 translate chineses ef_bd_a08e4f34:
 
     # pe "Right, thank you."
-    pe ""
+    pe "好了，谢谢你。"
 
 # game/v4/v4.rpy:2043
 translate chineses ef_bd_5e3e36c3:
 
     # u "You know, you should try it sometime."
-    u ""
+    u "你知道，你什么时候应该试试。"
 
 # game/v4/v4.rpy:2048
 translate chineses ef_bd_3ebee093:
 
     # pe "*Laughs* I don't know, I don't think I'd like it."
-    pe ""
+    pe "*大笑*我不知道，我不认为我会喜欢的。"
 
 # game/v4/v4.rpy:2054
 translate chineses ek_ad_52c3bf4c:
 
     # u "Haha, I think you'd be surprised."
-    u ""
+    u "哈哈，我想你会吃惊的。"
 
 # game/v4/v4.rpy:2059
 translate chineses ek_ad_38bda28d:
 
     # pe "I have to go now and meet my friend. It uhm, it was nice to see you though."
-    pe ""
+    pe "我现在得去见我的朋友。但嗯，但是很高兴见到你。"
 
 # game/v4/v4.rpy:2066
 translate chineses ek_ad_c66c1660:
 
     # u "It was nice to see you too."
-    u ""
+    u "我也很高兴见到你。"
 
 # game/v4/v4.rpy:2068
 translate chineses ek_ad_c4e27a4e:
 
     # u "Hey, you wanna go bowling with me sometime next week?"
-    u ""
+    u "嘿，你想下个星期跟我去打保龄球吗？"
 
 # game/v4/v4.rpy:2073
 translate chineses ek_ad_6b5f01a9:
 
     # pe "I don't know, I have sooo much studying to do..."
-    pe ""
+    pe "我不知道，我有好多的学习要做..."
 
 # game/v4/v4.rpy:2083
 translate chineses ek_ad_aa789e2a:
 
     # u "Come on, having some fun won't ruin your grades, I promise."
-    u ""
+    u "来嘛，享受乐趣不会影响你的成绩，我保证。"
 
 # game/v4/v4.rpy:2088
 translate chineses ek_ad_a980505d:
 
     # pe "Hmmm... alright. Let's go bowling next week."
-    pe ""
+    pe "嗯...好吧。我们下个星期去打保龄球。"
 
 # game/v4/v4.rpy:2093
 translate chineses ek_ad_7c58b1bd:
 
     # u "Cool, I'll see you."
-    u ""
+    u "好咧，我们再见了。"
 
 # game/v4/v4.rpy:2098
 translate chineses ek_ad_81df4822:
 
     # pe "Yeah, uhm, see you soon."
-    pe ""
+    pe "是啊，嗯，待会儿见。"
 
 # game/v4/v4.rpy:2109
 translate chineses ek_ad_b92b0fd7:
 
     # u "What, scared you can't beat me?"
-    u ""
+    u "什么，你怕打不过我？"
 
 # game/v4/v4.rpy:2114
 translate chineses ek_ad_8f85037b:
 
     # pe "Sorry, I- I really can't. I need to study."
-    pe ""
+    pe "对不起，我-我真的不行。我需要学习。"
 
 # game/v4/v4.rpy:2119
 translate chineses ek_ad_ce5911bb:
 
     # u "Alright... no worries. I'll see you."
-    u ""
+    u "好吧...别在意。我们再见了。"
 
 # game/v4/v4.rpy:2124
 translate chineses ek_ad_81df4822_1:
 
     # pe "Yeah, uhm, see you soon."
-    pe ""
+    pe "是啊，嗯，待会儿见。"
 
 # game/v4/v4.rpy:2134
 translate chineses ek_ad_20df7a57:
 
     # u "Yeah, it was nice to see you too."
-    u ""
+    u "是啊，我也很高兴见到你。"
 
 # game/v4/v4.rpy:2139
 translate chineses ek_ad_5e7d41e0:
 
     # pe "Bye bye, I'll see you later."
-    pe ""
+    pe "拜拜，我们待会儿见。"
 
 # game/v4/v4.rpy:2144
 translate chineses ek_ad_ea48acb1:
 
     # u "Yeah, see you later."
-    u ""
+    u "好的，待会儿见。"
 
 # game/v4/v4.rpy:2154
 translate chineses continueac_7c9768ce:
 
     # u "(Shit, that didn't go as planned...)"
-    u ""
+    u "（糟糕，那没有找计划进行...）"
 
 # game/v4/v4.rpy:2162
 translate chineses el_ad_441977bc:
 
     # u "(I wonder what Penelope was doing on that laptop...)"
-    u ""
+    u "（我很好奇佩内洛普在那笔记本上做什么...）"
 
 # game/v4/v4.rpy:2179
 translate chineses phonew_e80c8a11:
 
     # u "(I should probably reply to my messages.)"
-    u ""
+    u "（我该回复来的短信。）"
 
 # game/v4/v4.rpy:2183
 translate chineses phonew_e11dc486:
 
     # u "(Fucking hell, I forgot how persistent Josh could be...)"
-    u ""
+    u "（他妈的炼狱啊，我忘了乔希能有多顽固...）"
 
 # game/v4/v4.rpy:2187
 translate chineses phonew_fc1c9a82:
 
     # u "(Okay, I need to make sure that I don't forget about meeting Chloe.)"
-    u ""
+    u "（好，我得确保我不会把跟克洛伊见面的事给忘了。）"
 
 # game/v4/v4.rpy:2212
 translate chineses jorepa_173454a6:
 
     # jo "What's up, bro?"
-    jo ""
+    jo "怎样啦，兄弟？"
 
 # game/v4/v4.rpy:2215
 translate chineses jorepa_650ed459:
 
     # jo "Picture of Amber did it, eh?"
-    jo ""
+    jo "安波的照片起作用了，嗯？"
 
 # game/v4/v4.rpy:2220
 translate chineses jorepa_074869b7:
 
     # u "Oh, shut up."
-    u ""
+    u "哦，闭嘴。"
 
 # game/v4/v4.rpy:2225
 translate chineses jorepa_c154e617:
 
     # jo "Hahaha."
-    jo ""
+    jo "哈哈哈。"
 
 # game/v4/v4.rpy:2228
 translate chineses jorepa_d644615c:
 
     # jo "Come in."
-    jo ""
+    jo "近来。"
 
 # game/v4/v4.rpy:2234
 translate chineses continueae_eed4217d:
 
     # jo "Amber, Kim, this is [name]."
-    jo ""
+    jo "安波，金，这是[名字]。"
 
 # game/v4/v4.rpy:2239
 translate chineses continueae_f934acde:
 
     # am "Heyy! Nice black eye!"
-    am ""
+    am "嘿！好个发青的眼眶！"
 
 # game/v4/v4.rpy:2244
 translate chineses continueae_2d200ac3:
 
     # ki "Hi."
-    ki ""
+    ki "嗨。"
 
 # game/v4/v4.rpy:2249
 translate chineses continueae_b81316f3:
 
     # jo "So, what's your drink of choice?"
-    jo ""
+    jo "那，你想喝点什么？"
 
 # game/v4/v4.rpy:2254
 translate chineses continueae_79b43121:
 
     # u "I guess I'll take a beer."
-    u ""
+    u "我想我就喝杯啤酒。"
 
 # game/v4/v4.rpy:2259
 translate chineses continueae_a69d87fd:
 
     # jo "Alright, champ. Coming up."
-    jo ""
+    jo "好的，大佬。马上来。"
 
 # game/v4/v4.rpy:2264
 translate chineses continueae_27c51c79:
 
     # am "Are you gonna sit down with us? We won't bite."
-    am ""
+    am "你要跟我做一块儿吗？我们不咬人的。"
 
 # game/v4/v4.rpy:2269
 translate chineses continueae_922809cb:
 
     # u "Damn I was really hoping you would though."
-    u ""
+    u "可恶，我还真希望你们会咬呢。"
 
 # game/v4/v4.rpy:2274
 translate chineses continueae_e897e1f7:
 
     # am "Well then you'll have to get me a bit more drunk first."
-    am ""
+    am "那你得先把我灌醉些。"
 
 # game/v4/v4.rpy:2279
 translate chineses continueae_0110b4c3:
 
     # jo "Here you go, man."
-    jo ""
+    jo "拿着，哥们儿。"
 
 # game/v4/v4.rpy:2283
 translate chineses continueae_d7a669ab:
 
     # jo "I see you've taken my spot."
-    jo ""
+    jo "看来你把我的位置占了。"
 
 # game/v4/v4.rpy:2293
 translate chineses continueae_7b869730:
 
     # u "Oh, I can move if you want."
-    u ""
+    u "哦，如果你想的话我可以挪开。"
 
 # game/v4/v4.rpy:2298
 translate chineses continueae_98bf79bc:
 
     # jo "Hahaha, buddy I'm just kidding, stay put."
-    jo ""
+    jo "哈哈，伙伴，我只是开玩笑啦，不用挪了。"
 
 # game/v4/v4.rpy:2306
 translate chineses continueae_4d5c180d:
 
     # u "Yeah, I guess it's my spot now."
-    u ""
+    u "是啊，我才这现在是我的位置了。"
 
 # game/v4/v4.rpy:2311
 translate chineses continueae_9de3145e:
 
     # jo "Damn, alright. Hahaha."
-    jo ""
+    jo "可恶，好吧。哈哈哈。"
 
 # game/v4/v4.rpy:2317
 translate chineses en_ad_72c04019:
 
     # am "So, [name], have you thought about which fraternity you're gonna join, yet?"
-    am ""
+    am "那，[名字]，你有决定好要加入哪个兄弟会了吗？"
 
 # game/v4/v4.rpy:2322
 translate chineses en_ad_605738d3:
 
     # u "Uhm, I-"
-    u ""
+    u "嗯，我-"
 
 # game/v4/v4.rpy:2327
 translate chineses en_ad_93306785:
 
     # ki "Oh come on, this guy's obviously a Frog, look at him."
-    ki ""
+    ki "哦得了吧，看看他，这家伙一定是青蛙会的。"
 
 # game/v4/v4.rpy:2332
 translate chineses en_ad_2163d5ea:
 
     # jo "My man [name]?? No way, he's a natural born fighter."
-    jo ""
+    jo "我哥们儿[名字]？？绝无可能，他是天生的斗士。"
 
 # game/v4/v4.rpy:2337
 translate chineses en_ad_49a9e742:
 
     # u "Uhm..."
-    u ""
+    u "嗯..."
 
 # game/v4/v4.rpy:2342
 translate chineses en_ad_d55a56e4:
 
     # u "I..."
-    u ""
+    u "我..."
 
 # game/v4/v4.rpy:2351
 translate chineses en_ad_691f9f4f:
 
     # u "I'll join the Wolves."
-    u ""
+    u "我会加入饿狼会。"
 
 # game/v4/v4.rpy:2356
 translate chineses en_ad_85c6a2d8:
 
     # jo "See? I knew he was a fighter."
-    jo ""
+    jo "看吧？我就知道他是个斗士。"
 
 # game/v4/v4.rpy:2361
 translate chineses en_ad_016e2b64:
 
     # u "I don't know yet."
-    u ""
+    u "我还不知道。"
 
 # game/v4/v4.rpy:2366
 translate chineses en_ad_7f7f2ba3:
 
     # ki "Ha! Classic Frog."
-    ki ""
+    ki "哈！典型青蛙会的。"
 
 # game/v4/v4.rpy:2372
 translate chineses eo_bd_d15e8c98:
 
     # am "I think you'd make a good fighter."
-    am ""
+    am "我认为你会成为一名优秀斗士的。"
 
 # game/v4/v4.rpy:2374
 translate chineses eo_bd_44322343:
 
     # am "You already have the look."
-    am ""
+    am "你已经有了斗士的模样。"
 
 # game/v4/v4.rpy:2379
 translate chineses eo_bd_5d8a50ac:
 
     # u "Haha, thanks."
-    u ""
+    u "哈哈，谢了。"
 
 # game/v4/v4.rpy:2384
 translate chineses eo_bd_0294aa7e:
 
     # jo "Alright, let's play some bangolo."
-    jo ""
+    jo "好吧，我们来玩班戈洛。"
 
 # game/v4/v4.rpy:2389
 translate chineses eo_bd_1f6b7fe0:
 
     # u "What's bangolo?"
-    u ""
+    u "什么是班戈洛？"
 
 # game/v4/v4.rpy:2394
 translate chineses eo_bd_25bdbb57:
 
     # am "It's this knock-off drinking game app that Josh has 'cause he doesn't wanna pay for the original."
-    am ""
+    am "那是个冒牌的喝酒游戏程序，因为乔希不想花钱买原版的。"
 
 # game/v4/v4.rpy:2399
 translate chineses eo_bd_06f67ce8:
 
     # jo "Hey, I just actually think it's better than the original, alright?"
-    jo ""
+    jo "嘿，我只不过认为它实际上比原版更棒，好吧？"
 
 # game/v4/v4.rpy:2404
 translate chineses eo_bd_c0d8158f:
 
     # jo "The rules are simple. The phone gives us tasks and how many sips to drink if we lose or are selected in some way or another."
-    jo ""
+    jo "规则很简单。手机会分配任务给我们，如果我们输了或者被随机选中，手机就会显示要喝多少口。"
 
 # game/v4/v4.rpy:2413
 translate chineses eo_bd_fce7648c:
 
     # u "Cool, sounds good."
-    u ""
+    u "听上去挺好的。"
 
 # game/v4/v4.rpy:2421
 translate chineses eo_bd_c0baa699:
 
     # u "Uhm, actually... I should stop here. I really have to go see my friend soon and I don't wanna be too drunk."
-    u ""
+    u "嗯，事实上...我该再次打住。我待会儿真的要去见我的朋友，而且我不想喝得太醉了。"
 
 # game/v4/v4.rpy:2426
 translate chineses eo_bd_9852be81:
 
     # am "Oh come on, just stay a bit longer. You never know what you might miss out on."
-    am ""
+    am "哦来嘛，就再待一会儿。你永远不会知道你将错过什么。"
 
 # game/v4/v4.rpy:2433
 translate chineses eo_bd_61f4cac3:
 
     # u "Alright, I'll stay a bit longer, let's play."
-    u ""
+    u "好吧，我就再待一会儿，来玩吧。"
 
 # game/v4/v4.rpy:2438
 translate chineses eo_bd_e7cdd086:
 
     # am "Good choice."
-    am ""
+    am "明智的选择。"
 
 # game/v4/v4.rpy:2444
 translate chineses eo_bd_ea361c5e:
 
     # u "Sorry, I really gotta go. But maybe I'll uhm... come back later."
-    u ""
+    u "抱歉，我真的得走了。不过也许我会嗯...待会儿再来。"
 
 # game/v4/v4.rpy:2452
 translate chineses jonewe_e659dfbc:
 
     # jo "I just gotta put in our names."
-    jo ""
+    jo "我只需要把我们的名字放进去。"
 
 # game/v4/v4.rpy:2467
 translate chineses jonewe_f21d3d0a:
 
     # jo "[name], do a handstand or drink three sips."
-    jo ""
+    jo "[名字]，做个倒立或者喝三口。"
 
 # game/v4/v4.rpy:2472
 translate chineses jonewe_9ec4c9cb:
 
     # u "Uhhh..."
-    u ""
+    u "呃..."
 
 # game/v4/v4.rpy:2481
 translate chineses jonewe_bbaab250:
 
     # u "I'll drink."
-    u ""
+    u "我还是喝吧。"
 
 # game/v4/v4.rpy:2491
 translate chineses jonewe_af9acf21:
 
     # am "Oh come on, I wanna see you do a handstand."
-    am ""
+    am "哦来嘛，我想看你做倒立。"
 
 # game/v4/v4.rpy:2497
 translate chineses ep_a_f65dd734:
 
     # u "You know what, I'll do it."
-    u ""
+    u "你知道吗，我来做吧。"
 
 # game/v4/v4.rpy:2519
 translate chineses ep_a_f07e883d:
 
     # am "Hahahaha!"
-    am ""
+    am "哈哈哈哈！"
 
 # game/v4/v4.rpy:2529
 translate chineses ep_a_cdc88908:
 
     # jo "Kim, kiss one of the other players or finish your drink."
-    jo ""
+    jo "金，亲吻另外一位玩家或者喝完你的酒。"
 
 # game/v4/v4.rpy:2534
 translate chineses ep_a_94afe85c:
 
     # ki "Come on Amber, let's give these boys something to watch."
-    ki ""
+    ki "来吧安波，让我们来给这些男孩子表演一下。"
 
 # game/v4/v4.rpy:2556
 translate chineses ep_a_d836c40a:
 
     # jo "Hell yeah!"
-    jo ""
+    jo "好极了！"
 
 # game/v4/v4.rpy:2566
 translate chineses ep_a_e1da5c53:
 
     # jo "Amber, who's the most attractive guy in the room?"
-    jo ""
+    jo "安波，谁是这房间里最有吸引力的人？"
 
 # game/v4/v4.rpy:2571
 translate chineses ep_a_ae033f4e:
 
     # jo "Sorry about that, [name]. I don't want you to feel bad. I'm sure you're a close second."
-    jo ""
+    jo "抱歉了，[名字]。我不想让你感到失落。我肯定你也很有吸引力。"
 
 # game/v4/v4.rpy:2576
 translate chineses ep_a_e79d3cc9:
 
     # am "Actually, I prefer fresh meat over here."
-    am ""
+    am "实际上，我更喜欢那边的小鲜肉。"
 
 # game/v4/v4.rpy:2581
 translate chineses ep_a_585ad7c3:
 
     # jo "What?"
-    jo ""
+    jo "什么？"
 
 # game/v4/v4.rpy:2586
 translate chineses ep_a_4309e613:
 
     # am "Not gonna lie, I'm kinda digging the black eye."
-    am ""
+    am "我不想撒谎，我有点喜欢那发青的眼眶。"
 
 # game/v4/v4.rpy:2591
 translate chineses ep_a_0d2fa712:
 
     # u "Thanks, I'm digging your regular eye too."
-    u ""
+    u "谢了，我也喜欢你平常的眼睛。"
 
 # game/v4/v4.rpy:2596
 translate chineses ep_a_d66e9176:
 
     # am "Hahaha."
-    am ""
+    am "哈哈哈。"
 
 # game/v4/v4.rpy:2637
 translate chineses ep_a_7906f94c:
 
     # jo "*Drunk* Okayy... last one."
-    jo ""
+    jo "*醉了*好...最后一次。"
 
 # game/v4/v4.rpy:2639
 translate chineses ep_a_6f04970a:
 
     # jo "*Drunk* [name], choose another player and do a tequila shot off of them."
-    jo ""
+    jo "*醉了*[名字]，选一名玩家并从她们身上干一口龙舌兰酒。"
 
 # game/v4/v4.rpy:2644
 translate chineses ep_a_7f817680:
 
     # jo "*Drunken Laugh* Nice one, mate."
-    jo ""
+    jo "*醉着大笑*好咧，伙伴。"
 
 # game/v4/v4.rpy:2646
 translate chineses ep_a_f23f8ceb:
 
     # jo "*Drunk* So that means that you lick salt off their collarbone, then drink a shot of tequila out of their belly button and then bite into a lime that they're holding with their mouth."
-    jo ""
+    jo "*醉了*那就是说你要从她们的锁骨上添盐，然后从她们的肚脐眼喝口龙舌兰酒，最后再从她们的嘴里咬柠檬片。"
 
 # game/v4/v4.rpy:2648
 translate chineses ep_a_be5f51b5:
 
     # jo "*Drunk* I assume you won't pick me, so who's it gonna be?"
-    jo ""
+    jo "*醉了*我估计你不会选我，那你会选谁呢？"
 
 # game/v4/v4.rpy:2653
 translate chineses ep_a_30745333:
 
     # jo "Amber?"
-    jo ""
+    jo "安波？"
 
 # game/v4/v4.rpy:2658
 translate chineses ep_a_9338284c:
 
     # jo "Or Kim?"
-    jo ""
+    jo "或金？"
 
 # game/v4/v4.rpy:2662
 translate chineses ep_a_7aa5ee22:
 
     # u "*Drunk* Uhh..."
-    u ""
+    u "*醉了*呃..."
 
 # game/v4/v4.rpy:2671
 translate chineses ep_a_4edf4b8d:
 
     # jo "*Drunk* Alright [name], lick the salt off her collarbone, drink the shot out of her belly button and bite the lime out of her mouth."
-    jo ""
+    jo "*醉了*好吧[名字]，从她的锁骨上添盐，从她的肚脐眼喝口龙舌兰酒，最后从她的嘴里咬柠檬片。"
 
 # game/v4/v4.rpy:2701
 translate chineses ep_a_2e9d9883:
 
     # u "*Spits*"
-    u ""
+    u "*吐唾沫*"
 
 # game/v4/v4.rpy:2710
 translate chineses ep_a_5f5680c8:
 
     # "*Phone alarm goes off*"
-    ""
+    "*手机闹铃响了*"
 
 # game/v4/v4.rpy:2726
 translate chineses ep_a_2e9d9883_1:
 
     # u "*Spits*"
-    u ""
+    u "*吐唾沫*"
 
 # game/v4/v4.rpy:2733
 translate chineses ep_a_f99b5c3c:
 
     # "*Phone alarm ringing*"
-    ""
+    "*手机闹铃响了*"
 
 # game/v4/v4.rpy:2741
 translate chineses ep_a_4edf4b8d_1:
 
     # jo "*Drunk* Alright [name], lick the salt off her collarbone, drink the shot out of her belly button and bite the lime out of her mouth."
-    jo ""
+    jo "*醉了*好吧[名字]，从她的锁骨上添盐，从她的肚脐眼喝口龙舌兰酒，最后从她的嘴里咬柠檬片。"
 
 # game/v4/v4.rpy:2771
 translate chineses ep_a_a7999c7a:
 
     # u "*Spit sound*"
-    u ""
+    u "*吐唾沫声*"
 
 # game/v4/v4.rpy:2776
 translate chineses ep_a_133d1a3f:
 
     # ki "Mhhh... no."
-    ki ""
+    ki "嗯...不要。"
 
 # game/v4/v4.rpy:2783
 translate chineses ep_a_5f5680c8_1:
 
     # "*Phone alarm goes off*"
-    ""
+    "*手机闹铃响了*"
 
 # game/v4/v4.rpy:2799
 translate chineses ep_a_2e9d9883_2:
 
     # u "*Spits*"
-    u ""
+    u "*吐唾沫*"
 
 # game/v4/v4.rpy:2806
 translate chineses ep_a_f99b5c3c_1:
 
     # "*Phone alarm ringing*"
-    ""
+    "*手机闹铃响了*"
 
 # game/v4/v4.rpy:2812
 translate chineses es_bd_4bc21722:
