@@ -2794,433 +2794,433 @@ translate chineses ep_a_f99b5c3c_1:
 translate chineses es_bd_4bc21722:
 
     # u "(Shit, I gotta go meet Chloe!)"
-    u ""
+    u "（糟，我得去见克洛伊了！）"
 
 # game/v4/v4.rpy:2816
 translate chineses es_bd_b03cce99:
 
     # u "*Drunk* Guys, I really gotta go."
-    u ""
+    u "*醉了*伙计们，我真得走了。"
 
 # game/v4/v4.rpy:2818
 translate chineses es_bd_09610840:
 
     # u "*Drunk* Maybe I- I'll come back later."
-    u ""
+    u "*醉了*也许我-我待会儿会再回来。"
 
 # game/v4/v4.rpy:2825
 translate chineses es_bd_16030c75:
 
     # u "(*Drunk* Okay, I- I just gotta ask her straight up.)"
-    u ""
+    u "（*醉了*好，我-我就单刀直入的去问她。）"
 
 # game/v4/v4.rpy:2827
 translate chineses es_bd_b3822d0f:
 
     # u "(*Drunk* Does she- does she like me or is she just- just using me to get back at Grayson?)"
-    u ""
+    u "（*醉了*她是-她是喜欢我，还是她只是-只是在利用我来报复格雷森？）"
 
 # game/v4/v4.rpy:2836
 translate chineses es_bd_4f1997c1:
 
     # "*Knock knock knock*"
-    ""
+    "*敲 敲 敲*"
 
 # game/v4/v4.rpy:2845
 translate chineses es_bd_b2db8899:
 
     # cl "Hey. You wanna come in?"
-    cl ""
+    cl "嘿。你想进来吗？"
 
 # game/v4/v4.rpy:2850
 translate chineses es_bd_0080dfa0:
 
     # u "*Drunk* Hey uh, actually... can we- can we talk outside first? I- I just wanna clear something up."
-    u ""
+    u "*醉了*嘿呃，事实上...我们能-我们能现在外面谈谈吗?我想先把一些事搞清楚。"
 
 # game/v4/v4.rpy:2855
 translate chineses es_bd_779bc2cc:
 
     # cl "[name], are you drunk?"
-    cl ""
+    cl "[名字]，你喝醉了？"
 
 # game/v4/v4.rpy:2860
 translate chineses es_bd_72d4dead:
 
     # u "*Drunk* Nah, I just had a drink with some friends."
-    u ""
+    u "*醉了*没有，我只是跟几个朋友喝了一杯。"
 
 # game/v4/v4.rpy:2865
 translate chineses es_bd_e182e941:
 
     # cl "Right... Let me just put on a sweater..."
-    cl ""
+    cl "对...让我穿件毛衣..."
 
 # game/v4/v4.rpy:2870
 translate chineses es_bd_9b634cd2:
 
     # cl "So, what did you wanna talk to me about?"
-    cl ""
+    cl "那，你想跟我谈什么呢？"
 
 # game/v4/v4.rpy:2875
 translate chineses es_bd_7925b371:
 
     # u "*Drunk* Well, Ryan... *deep breath* Ryan said you were playing me and just using me to get back at Grayson."
-    u ""
+    u "*醉了*这个，瑞安...*深吸气*瑞安说你是在耍我，只是在利用我来报复格雷森。"
 
 # game/v4/v4.rpy:2880
 translate chineses es_bd_d4db55dd:
 
     # cl "What?? [name], that's bullshit."
-    cl ""
+    cl "什么？？[名字]，那是胡说八道的。"
 
 # game/v4/v4.rpy:2885
 translate chineses es_bd_4704181f:
 
     # u "*Drunk* He said Grayson, he- he told him about a lot of shady shit that you did in the past."
-    u ""
+    u "*醉了*他说格雷森，格-格雷森跟他讲了很多你以前做过的见不得人的事。"
 
 # game/v4/v4.rpy:2889
 translate chineses es_bd_e4c40602:
 
     # cl "Well there you have it! Grayson put him up to this, just to fuck with me! I didn't do anything shady!"
-    cl ""
+    cl "那你自己刚说的！格雷森叫他做这些事，只是为了给我捣乱！我没有做见不得人的事！"
 
 # game/v4/v4.rpy:2898
 translate chineses es_bd_3c06ac2d:
 
     # u "*Drunk* You're lying! Yeah sure, the hottest girl in school wants me, the freshman who got beaten up at his first college party."
-    u ""
+    u "*醉了*你在撒谎！是啊当然，校花居然会喜欢我，一个在他参加第一次大学派对上被打的新生。"
 
 # game/v4/v4.rpy:2900
 translate chineses es_bd_630e0c6c:
 
     # u "*Drunk* Pretty realistic, isn't it?!"
-    u ""
+    u "*醉了*很真实，不是吗？！"
 
 # game/v4/v4.rpy:2905
 translate chineses es_bd_17de23f6:
 
     # cl "[name], I don't care about the fighting, or any of that shit. What Grayson did to you was pathetic. I like you 'cause you were funny and kind and ... and you cared."
-    cl ""
+    cl "[名字]，我对打斗一类的屁事不关心。格雷森对你所做的很恶劣。我喜欢你因为你有趣，厚道，而且...而且你在乎别人。"
 
 # game/v4/v4.rpy:2915
 translate chineses eu_b_d5b3da76:
 
     # u "*Drunk* Really?? Then why did you go after Grayson instead of helping me up when he knocked me out??"
-    u ""
+    u "*醉了*真的？？那你为什么在格雷森把我打晕后，选择去追他而不是扶我起来？？"
 
 # game/v4/v4.rpy:2920
 translate chineses eu_b_1e16adae:
 
     # cl "I- I..."
-    cl ""
+    cl "我-我..."
 
 # game/v4/v4.rpy:2922
 translate chineses eu_b_a5093b42:
 
     # cl "I told him to stop, okay?? I didn't know if he was gonna hurt you even more."
-    cl ""
+    cl "我叫他别打了，好吧？？我不知道他是否会继续伤害你。"
 
 # game/v4/v4.rpy:2927
 translate chineses eu_b_2f9ba4ed:
 
     # u "*Drunk* Ryan said that you just saw his punch as a personal attack and didn't give one fuck about me being hurt. And you know what? Maybe he's right!"
-    u ""
+    u "*醉了*瑞安说你只是把他的袭击看作是对你的人身攻击，并不在乎我受的伤害。而你知道吗？也许他是对的！"
 
 # game/v4/v4.rpy:2932
 translate chineses eu_b_fd7e91c0:
 
     # cl "What have I ever done for you not to fucking trust me one bit?!"
-    cl ""
+    cl "我到底对你做了什么让你他妈的完全不相信我？！"
 
 # game/v4/v4.rpy:2937
 translate chineses eu_b_32c157af:
 
     # u "*Drunk* Apparently a bunch of shady shit in the past!"
-    u ""
+    u "*醉了*明显有一堆过去见不得人的事！"
 
 # game/v4/v4.rpy:2942
 translate chineses eu_b_6a8d31a8:
 
     # cl "*Gasp*"
-    cl ""
+    cl "*叹气*"
 
 # game/v4/v4.rpy:2944
 translate chineses eu_b_07eb5d33:
 
     # cl "You know how you can be sure I wasn't just using you?"
-    cl ""
+    cl "你知道你如何能确定我没有在利用你吗？"
 
 # game/v4/v4.rpy:2946
 translate chineses eu_b_59dbc30c:
 
     # cl "Because if I was using you, I would probably try to seduce you back into trusting me right now."
-    cl ""
+    cl "因为如果我是在利用你的话，我现在大概会试着勾引你来重新相信我。"
 
 # game/v4/v4.rpy:2948
 translate chineses eu_b_1619571b:
 
     # cl "But don't worry, I don't want that. We're done."
-    cl ""
+    cl "不过不用担心，我不想那样。我们结束了。"
 
 # game/v4/v4.rpy:2953
 translate chineses eu_b_a8756a7b:
 
     # u "*Drunk* Chloe!"
-    u ""
+    u "*醉了*克洛伊！"
 
 # game/v4/v4.rpy:2960
 translate chineses eu_b_c7c1b3e8:
 
     # "*Door slam*"
-    ""
+    "*砰的关门*"
 
 # game/v4/v4.rpy:2965
 translate chineses eu_b_fae10745:
 
     # u "HNGGGG!"
-    u ""
+    u "哼！"
 
 # game/v4/v4.rpy:2977
 translate chineses eu_b_ac6b696f:
 
     # u "Ah, fuck!"
-    u ""
+    u "啊，操！"
 
 # game/v4/v4.rpy:2979
 translate chineses eu_b_05148e1b:
 
     # unknown "[name], is that you??"
-    unknown ""
+    unknown "[名字]，是你吗？？"
 
 # game/v4/v4.rpy:2986
 translate chineses eu_b_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v4/v4.rpy:2988
 translate chineses eu_b_8d1e43e3:
 
     # u "Oh shit..."
-    u ""
+    u "哦糟糕..."
 
 translate chineses strings:
 
     # game/v4/v4.rpy:5
     old "Dope"
-    new ""
+    new "很好"
 
     # game/v4/v4.rpy:6
     old "Come by 995 Sereno Drive at 8, it's my friends house."
-    new ""
+    new "8点到塞雷诺小道995号，那是我朋友的房子。"
 
     # game/v4/v4.rpy:9
     old "Aww, come on. You'll be back by 11."
-    new ""
+    new "啊，得了吧。你11点前会回来。"
 
     # game/v4/v4.rpy:11
     old "I told my friend Amber about you and she really wants to meet you."
-    new ""
+    new "我跟我的朋友安波讲了你的事，她真的很想见你。"
 
     # game/v4/v4.rpy:12
     old "Alright, I'll come."
-    new ""
+    new "好吧，我会来的。"
 
     # game/v4/v4.rpy:13
     old "Josh, I don't know, man. I don't wanna be late."
-    new ""
+    new "乔希，我不知道，哥们儿。我不想去晚了。"
 
     # game/v4/v4.rpy:16
     old "Remember how you told me in high school that you felt like you always missed out on all the crazy stories?"
-    new ""
+    new "记得你在高中的时候告诉过我你觉得你老是错过所有的疯狂逸事？"
 
     # game/v4/v4.rpy:17
     old "Don't miss out now."
-    new ""
+    new "现在可别错过了。"
 
     # game/v4/v4.rpy:18
     old "Fine, I'll come. But I need to go before 11."
-    new ""
+    new "行，我会来。但我得在11点前离开。"
 
     # game/v4/v4.rpy:27
     old "This guy"
-    new ""
+    new "这家伙"
 
     # game/v4/v4.rpy:83
     old "You should be more careful."
-    new ""
+    new "你应该更小心。"
 
     # game/v4/v4.rpy:83
     old "Let's fuck him up."
-    new ""
+    new "我们一起弄死他。"
 
     # game/v4/v4.rpy:99
     old "Let me help."
-    new ""
+    new "让我帮忙。"
 
     # game/v4/v4.rpy:99
     old "That's a dumb idea."
-    new ""
+    new "那是个笨主意。"
 
     # game/v4/v4.rpy:317
     old "Take responsibility"
-    new ""
+    new "负责"
 
     # game/v4/v4.rpy:317
     old "Blame Ryan"
-    new ""
+    new "指责瑞安"
 
     # game/v4/v4.rpy:436
     old "Ask her to sleep here"
-    new ""
+    new "叫她在这里睡"
 
     # game/v4/v4.rpy:576
     old "Someone punched me."
-    new ""
+    new "有人揍了我。"
 
     # game/v4/v4.rpy:576
     old "It was an accident."
-    new ""
+    new "是个意外。"
 
     # game/v4/v4.rpy:951
     old "Buy it"
-    new ""
+    new "买它"
 
     # game/v4/v4.rpy:951
     old "Don't buy it"
-    new ""
+    new "不买它"
 
     # game/v4/v4.rpy:1053
     old "Hey Chloe, any chance you can meet up in a bit?"
-    new ""
+    new "嘿克洛伊，你待会儿有时间吗？"
 
     # game/v4/v4.rpy:1054
     old "I'm really busy today, but I could do tonight after 11 or so."
-    new ""
+    new "我今天真的很忙，但我今晚11点后可以。"
 
     # game/v4/v4.rpy:1055
     old "Alright, cool. I'll be at yours for 11"
-    new ""
+    new "好吧，很好。我11点去你那儿"
 
     # game/v4/v4.rpy:1056
     old "Sounds good :)"
-    new ""
+    new "听上去很好 :)"
 
     # game/v4/v4.rpy:1115
     old "Sit somewhere else"
-    new ""
+    new "坐别处"
 
     # game/v4/v4.rpy:1482
     old "Talk to him"
-    new ""
+    new "跟他谈"
 
     # game/v4/v4.rpy:1482
     old "Ignore him"
-    new ""
+    new "不理他"
 
     # game/v4/v4.rpy:1641
     old "Magic Powers."
-    new ""
+    new "法力。"
 
     # game/v4/v4.rpy:1641
     old "I didn't."
-    new ""
+    new "我不知。"
 
     # game/v4/v4.rpy:1692
     old "Buy Penelope a muffin"
-    new ""
+    new "给佩内洛普买个松糕"
 
     # game/v4/v4.rpy:1692
     old "Buy Penelope a coffee"
-    new ""
+    new "给佩内洛普买杯咖啡"
 
     # game/v4/v4.rpy:1778
     old "Grab her hand"
-    new ""
+    new "抓住她的手"
 
     # game/v4/v4.rpy:2019
     old "We should watch some."
-    new ""
+    new "我们该看一些。"
 
     # game/v4/v4.rpy:2019
     old "You should try it."
-    new ""
+    new "你该试着看些。"
 
     # game/v4/v4.rpy:2061
     old "You wanna go bowling?"
-    new ""
+    new "你想去玩保龄球吗？"
 
     # game/v4/v4.rpy:2061
     old "Yeah, it was nice."
-    new ""
+    new "是啊，是很好。"
 
     # game/v4/v4.rpy:2171
     old "Hey man, you wanna hang out with me and some friends tonight?"
-    new ""
+    new "嘿哥们儿，你今晚想跟我和我的朋友一起玩吗？"
 
     # game/v4/v4.rpy:2172
     old "Uhh, sure."
-    new ""
+    new "呃，当然。"
 
     # game/v4/v4.rpy:2173
     old "I'm meeting a friend at 11, so I can't really."
-    new ""
+    new "我11点要见位朋友，所以我不行。"
 
     # game/v4/v4.rpy:2285
     old "I can move."
-    new ""
+    new "我能挪开。"
 
     # game/v4/v4.rpy:2285
     old "It's my spot now."
-    new ""
+    new "现在是我的位置了。"
 
     # game/v4/v4.rpy:2347
     old "I'll join the Wolves."
-    new ""
+    new "我会参加饿狼会。"
 
     # game/v4/v4.rpy:2347
     old "I don't know yet."
-    new ""
+    new "我还不知道。"
 
     # game/v4/v4.rpy:2406
     old "Sounds good."
-    new ""
+    new "听上去不错。"
 
     # game/v4/v4.rpy:2406
     old "I should stop here."
-    new ""
+    new "我现在该停了。"
 
     # game/v4/v4.rpy:2428
     old "Alright, just for a bit."
-    new ""
+    new "好吧，就再一点点。"
 
     # game/v4/v4.rpy:2428
     old "Sorry, I really can't."
-    new ""
+    new "抱歉，我真的不行。"
 
     # game/v4/v4.rpy:2474
     old "Do a handstand"
-    new ""
+    new "做个倒立"
 
     # game/v4/v4.rpy:2474
     old "Drink three sips"
-    new ""
+    new "喝三口"
 
     # game/v4/v4.rpy:2664
     old "Amber"
-    new ""
+    new "安波"
 
     # game/v4/v4.rpy:2664
     old "Kim"
-    new ""
+    new "金"
 
     # game/v4/v4.rpy:2891
     old "Accuse her of lying"
-    new ""
+    new "谴责她撒谎"
 
     # game/v4/v4.rpy:2891
     old "Ask about the punch"
-    new ""
+    new "询问袭击"
 
