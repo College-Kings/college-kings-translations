@@ -1,35 +1,25 @@
-# SCENE 2: Ryan vs Perry
-# Locations: Abandoned Warehouse
-# Characters: MC (Outfit 7), Chris (Outfit ), Perry (Outfit ), Josh (Outfit 2), 
-# Time: Saturday Night
+# TODO: Translation updated at 2021-07-11 20:37
 
-label v10_ryan_v_perry:
-    play music "music/v10/Scene 2 & 3/Track Scene 2 & 3.mp3" fadein 3
-    scene v10rvp1 # FPP. Show Josh in the ring walking around, taking the announcer role in his stride. Mouth open.
-    with dissolve
+# game/v10/scene2.rpy:11
+translate empty v10_ryan_v_perry_a27e7919:
 
+    # jo "Ladies and Gentlemen, the time has arrived for our first matchup to begin. In the Wolves corner, we have Perry!"
     jo "Mesdames et Messieurs, le moment est venu de commencer notre premier match. Dans le coin des Wolves, nous avons Perry !"
 
-    scene v10rvp2 # FPP. Show Perry stood next to Chris just outside the ring, perry looks super worried, Chris smile, Perry mouth open.
-    with dissolve
+# game/v10/scene2.rpy:16
+translate empty v10_ryan_v_perry_e2c4f4c6:
 
+    # guyd "I can't do this. I'm gonna be sick."
     guyd "Je ne peux pas faire ça. Je vais être malade."
 
-    scene v10rvp2a # FPP. Same as rvp2, Chris and Perry both looking at eachother, Chris smile, Perry worried, Chris mouth open.
-    with dissolve
+# game/v10/scene2.rpy:21
+translate empty v10_ryan_v_perry_a1dfc03e:
 
-    ch "Bien sûr tu peux. Tu es un loup. Tu as ça ! Tu tu sentiras mieux une fois dedans."
+    # ch "Of course you can. You're a wolf. You got this! You'll feel better once you get in there."
+    ch "Bien sûr tu peux. Tu es un Wolves. Tu as ça ! Tu tu sentiras mieux une fois dedans."
 
-    scene v10rvp2b # FPP. Same as rvp2, Chris no longer has his hand on perry, Chris looks slightly concerned, perry with his hand on his stomach as if he's about to puke, Perry mouth open.
-    with dissolve
+# game/v10/scene2.rpy:26
+translate empty v10_ryan_v_perry_7b29b279:
 
+    # guyd "I'm gonna..."
     guyd "J'y vais..."
-
-    scene v10rvp3 # TPP. Show Josh now looking in the direction of Perry, josh looks a little confused.
-    with dissolve
-
-    pause 1
-
-    stop music fadeout 3
-
-    jump v9_ryan_v_perry_fight

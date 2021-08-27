@@ -1,445 +1,114 @@
-# SCENE 6: MC vs Ryan (Wolves)
-# Locations: Warehouse
-# Characters:
-# Time: Saturday Night
+# TODO: Translation updated at 2021-07-11 20:37
 
-label v10_mc_vs_ryan_fight:
-    play music "music/v10/Scene 6 & 7/Track Scene 6 & 7.mp3" fadein 3
-    scene v10mvr1 # FPP. Show imre and chris near ring, imre excited look, mouth open chris mouth closed
-    with dissolve
+# game/v10/scene6.rpy:11
+translate empty v10_mc_vs_ryan_fight_c1876d69:
 
-    imre "Putain de merde, tu as vu cette merde !? J'avais prévu de faire ce un-deux que Sebastian m'a montré mais je suppose que celui-là était suffisant !"
+    # imre "Holy shit man, did you see that shit!? I was planning on doing that one-two thing Sebastian showed me but I guess the one was enough!"
+    imre "Putain de merde, tu as vu cette tuerie !? J'avais prévu de faire ce un-deux que Sebastian m'a montré mais je suppose que celui-là était suffisant !"
 
-    scene v10mvr1a # FPP. Same camera as v10mvr1, Show imre and chris near ring, imre excited look, mouth closed chris mouth closed
-    with dissolve
+# game/v10/scene6.rpy:16
+translate empty v10_mc_vs_ryan_fight_14505d8e:
 
-    u "*Rires* Ouais mec, c'était foutrement malade !"
+    # u "*Laughs* Yeah man, that was fucking sick!"
+    u "*Rires* Ouais mec, c'était putain de dément !"
 
-    scene v10mvr1
-    with dissolve
-    # -Imre starts dancing-
+# game/v10/scene6.rpy:21
+translate empty v10_mc_vs_ryan_fight_8ddb6893:
+
+    # imre "*Sings* I'm getting me some pussy after that! I'm getting me some pussy! I'm getting me some pussy!"
     imre "*Chante* Je vais me chercher une chatte après ça ! Je me fais de la chatte ! Je me fais de la chatte !"
 
-    scene v10mvr1b # FPP. Same camera as v10mvr1, Show imre and chris near ring, excited look, imre mouth closed Chris mouth open
-    with dissolve
+# game/v10/scene6.rpy:26
+translate empty v10_mc_vs_ryan_fight_3b3db138:
 
-    ch "Imre a fait du bien là-bas, mais ne laissez pas sa victoire vous distraire."
+    # ch "Imre did good out there, but don't let his win distract you."
+    ch "Imre a fait du bon boulot là-bas, mais ne laisse pas sa victoire te distraire."
 
-    scene v10mvr2 # FPP. Show Jost leant against the edge of the ring, slight smile, mouth open
-    with dissolve
+# game/v10/scene6.rpy:31
+translate empty v10_mc_vs_ryan_fight_4be91cd1:
 
+    # jo "*Loud whisper* Hey, I got some plans tonight. How much longer is..."
     jo "*Murmure fort* Hé, j'ai des projets ce soir. Combien de temps encore..."
 
-    scene v10mvr1b
-    with dissolve
+# game/v10/scene6.rpy:36
+translate empty v10_mc_vs_ryan_fight_b8606b9d:
 
+    # ch "We're ready Josh! *Laughs*"
     ch "Nous sommes prêts Josh ! *Des rires*"
 
-    scene v10mvr1
-    with dissolve
+# game/v10/scene6.rpy:41
+translate empty v10_mc_vs_ryan_fight_09b6ceab:
 
-    imre "Allez le démonter !"
+    # imre "Go take him apart!"
+    imre "Allez le défoncer !"
 
-    scene v10mvr1a
-    with dissolve
+# game/v10/scene6.rpy:46
+translate empty v10_mc_vs_ryan_fight_3eeb3d50:
 
+    # u "You got it man."
     u "Tu l'as eu mec."
 
-    scene v10mvr3 # TPP. Show Josh in the ring, mc walking towards him from behind mc.
-    with dissolve
+# game/v10/scene6.rpy:55
+translate empty v10_mc_vs_ryan_fight_a8519fbf:
 
-    pause 0.5
-
-    scene v10mvr4 # TPP. Show josh in the centre of the ring and ryan and MC in opposite corners, Josh mouth open, mc and ryan mouth closed
-    with dissolve
+    # jo "Looks like our fighters are ready!"
     jo "On dirait que nos combattants sont prêts !"
 
-    scene v10mvr5 # TPP. Show josh in the centre of the ring and ryan next to josh either side, Josh mouth closed, mc mouth closed, ryan mouth open
-    with dissolve
+# game/v10/scene6.rpy:60
+translate empty v10_mc_vs_ryan_fight_9b25de81:
 
-    ry "You ready to do this?"
+    # ry "You ready to do this?"
+    ry "You ready to do this ?"
 
-    menu:
-        "Combattre Ryan":
-            $ v10_ryan_fight = True
-            scene v10mvr6a # FPP. Show Ryan infront of camera in ring, mouth open, hands raised ready to fight.
-            with dissolve
-            u "La question est, es-tu prêt ?"
+# game/v10/scene6.rpy:67
+translate empty v10_mc_vs_ryan_fight_7a9bf57f:
 
-            jo "Mêmes règles qu'avant, comprenez-le les gars !"
+    # u "Question is, are you ready?"
+    u "La question est, es-tu prêt ?"
 
-            # Ryan Fight
-            call screen fight_tutorialPopup
+# game/v10/scene6.rpy:69
+translate empty v10_mc_vs_ryan_fight_a24f67d4:
 
-            scene v10mvr6a
+    # jo "Same rules as before, just get it guys!"
+    jo "Mêmes règles qu'avant, comprenez-le les gars !"
 
-            call screen fight_typeMenu
+# game/v10/scene6.rpy:429
+translate empty ryan_fightEnd_d9990e5b:
 
-            if fight_type == "normal":
-                $ simRyanFight = False
-                $ ryanStance = renpy.random.choice([1, 2, 3, 4])
-                $ ryanAttack = renpy.random.choice([1, 2, 3, 4])
+    # u "I don't think I can do this. Sorry guys."
+    u "Je ne pense pas pouvoir faire ça. Désolé les gars."
 
-                call screen fight_selectDifficulty
+# game/v10/scene6.rpy:433
+translate empty ryan_fightEnd_707e55b8:
 
-                call screen fight_keybindOptions
+    # imre "Dude, you better not quit right now!"
+    imre "Mec, tu ferais mieux de ne pas abandonner tout de suite !"
 
-            elif fight_type == "simReal" or fight_type == "simWin":
-                $ simRyanFight = True
-                $ stance = 1
+# game/v10/scene6.rpy:438
+translate empty ryan_fightEnd_7ea7fb9c:
 
-                $ ryanStance = renpy.random.choice([1, 2, 3, 4])
-                $ ryanAttack = renpy.random.choice([1, 2, 3, 4])
-                $ ryanSimulation = renpy.random.choice([1, 2, 3, 4, 5, 6])
+    # ch "Come on, man. You got this!"
+    ch "Allez mec. Tu as ça !"
 
-            if fight_type == "simWin":
-                $ youHealth = 100000
-            else:
-                $ youHealth = 3
+# game/v10/scene6.rpy:443
+translate empty ryan_fightEnd_8039e85f:
 
-            $ enemyhealth = 6
-            $ youDamage = 0
-            $ ryanDamage = 0
+    # ry "Man, what are you doing?! We have to do this."
+    ry "Mec, qu'est-ce que tu fais ?! Nous devons le faire."
 
-            # Ryan attacks MC
-            label ryan_McAttack:
-                $ stance = 2 # Defence
+# game/v10/scene6.rpy:448
+translate empty ryan_fightEnd_a5764f9c:
 
-                show screen fight_overlay(stance="defend")
+    # u "I can't, I just can't."
+    u "Je ne peux pas, je ne peux juste pas."
 
-                # Ryan hook
-                if ryanAttack == 1:
+translate empty strings:
 
-                    scene ryanhook
-                    pause 0.6 # Trial Error
+    # game/v10/scene6.rpy:62
+    old "Fight Ryan"
+    new "Combattre Ryan"
 
-                    scene ryanhookend
-                    $ ryanStance = renpy.random.choice([1, 2, 3, 4]) # Ryan next defensive stance
-                    $ simyou = renpy.random.choice([1, 2, 3, 4, 5, 6]) # What attack you're gonna pick next
+    # game/v10/scene6.rpy:62
+    old "Don't Fight"
+    new "Ne pas combattre"
 
-                    if simRyanFight:
-                        if ryanSimulation in [1, 2, 3]: # simryan is ryan random attack
-                            jump ryan_McKickHit # REMEMBER switch attacks!
-                        else:
-                            jump ryan_McKickBlock
-
-                    else:
-                        call screen ryanFight_MCDefend(attack="Hook")
-
-                # Ryan jab
-                if ryanAttack == 2:
-
-                    scene ryanjab
-                    $ renpy.pause(0.5)
-
-                    scene ryanjabend
-                    $ ryanStance = renpy.random.choice([1, 2, 3, 4])
-                    $ simyou = renpy.random.choice([1, 2, 3, 4, 5, 6])
-
-                    if simRyanFight:
-                        if ryanSimulation in [1, 2, 3]:
-                            jump ryan_McJabHit
-                        else:
-                            jump ryan_McJabBlock
-
-                    else:
-                        call screen ryanFight_MCDefend(attack="Jab")
-
-                # Ryan body hook
-                if ryanAttack == 3:
-
-                    scene ryanbody
-                    $ renpy.pause(0.7)
-
-                    scene ryanbodyend
-                    $ ryanStance = renpy.random.choice([1, 2, 3, 4])
-                    $ simyou = renpy.random.choice([1, 2, 3, 4, 5, 6])
-
-                    if simRyanFight:
-                        if ryanSimulation in [1, 2, 3]:
-                            jump ryan_McHookHit
-                        else:
-                            jump ryan_McHookBlock
-
-                    else:
-                        call screen ryanFight_MCDefend(attack="BodyHook")
-
-                # Ryan kick
-                if ryanAttack == 4:
-
-                    scene ryankick
-                    $ renpy.pause(0.6)
-
-                    scene ryankickend
-                    $ ryanStance = renpy.random.choice([1, 2, 3, 4])
-                    $ simyou = renpy.random.choice([1, 2, 3, 4, 5, 6])
-
-                    if simRyanFight:
-                        if ryanSimulation in [1, 2, 3]:
-                            jump ryan_McBodyhookHit
-                        else:
-                            jump ryan_McBodyhookBlock
-
-                    else:
-                        call screen ryanFight_MCDefend(attack="Kick")
-
-
-            # label Attacker_TargetAction
-            label mc_ryanKickHit: # MC Kicks Ryan (Hits/No Block)
-                $ ryanDamage += 1
-
-                scene mc_ryan_Kick_hit
-                pause 1 # Trial/Error
-                
-                if ryanDamage >= enemyhealth:
-                    jump mc_ryanFightEnd
-                jump ryan_McAttack
-
-            label mc_ryanKickBlock: # MC Kicks Ryan (Blocks)
-                scene mc_ryan_Kick_block
-                pause 0.7 # Trial/Error
-
-                jump ryan_McAttack
-
-
-            label mc_ryanJabsHit: # MC Jabs Ryan (Hits/No Block)
-                $ ryanDamage += 1
-
-                scene mc_ryan_Jab_hit
-                pause 1 # Trial/Error
-
-                if ryanDamage >= enemyhealth:
-                    jump mc_ryanFightEnd
-                jump ryan_McAttack
-
-            label mc_ryanJabsBlock: # MC Jabs Ryan (Blocks)
-                scene mc_ryan_Jab_block
-                pause 1 # Trial/Error
-
-                jump ryan_McAttack
-
-            label mc_ryanHooksHit: # MC Hooks Ryan (Hits/No Block)
-                $ ryanDamage += 1
-
-                scene mc_ryan_Hook_hit
-                pause 1 # Trial/Error
-
-                if ryanDamage >= enemyhealth:
-                    jump mc_ryanFightEnd
-                jump ryan_McAttack
-
-            label mc_ryanHooksBlock: # MC Hooks Ryan (Blocks)
-                scene mc_ryan_Hook_block
-                pause 1 # Trial/Error
-
-                jump ryan_McAttack
-
-            label mc_ryanBodyhookHit: # MC Body Hooks Ryan (Hits/No Block)
-                $ ryanDamage += 1
-
-                scene mc_ryan_BodyJab_hit
-                pause 1 # Trial/Error
-
-                if ryanDamage >= enemyhealth:
-                    jump mc_ryanFightEnd
-                jump ryan_McAttack
-
-            label mc_ryanBodyhookBlock: # MC Body Hooks Ryan (Blocks)
-                scene mc_ryan_BodyJab_block
-                pause 1 # Trial/Error
-
-                jump ryan_McAttack
-
-
-            label ryan_McKickHit: # Ryan Kicks MC (Hits/No Block)
-
-                play sound "sounds/ks.mp3"
-                $ youDamage += 1
-                scene Ryan_Kick_hit
-                with hpunch
-
-                pause 0.5
-                $ stance = 1
-                $ ryanAttack = renpy.random.choice([1, 2, 3, 4])
-                $ ryanSimulation = renpy.random.choice([1, 2, 3, 4, 5, 6])
-                jump mc_ryanAttack
-
-            label ryan_McKickBlock: # Ryan Kicks MC (Blocked)
-
-                play sound "sounds/ks.mp3"
-                scene Ryan_Kick_block
-                with hpunch
-
-                pause 0.5
-                $ stance = 1
-                $ ryanAttack = renpy.random.choice([1, 2, 3, 4])
-                $ ryanSimulation = renpy.random.choice([1, 2, 3, 4])
-                jump mc_ryanAttack
-
-            label ryan_McJabHit: # Ryan Kicks MC (Hits/No Block)
-
-                play sound "sounds/js.mp3"
-                $ youDamage += 1
-                scene Ryan_Jab_hit
-                with hpunch
-
-                pause 0.5
-                $ stance = 1
-                $ ryanAttack = renpy.random.choice([1, 2, 3, 4])
-                $ ryanSimulation = renpy.random.choice([1, 2, 3, 4])
-                if youDamage >= youHealth:
-                        jump ryan_McFightEnd
-                jump mc_ryanAttack
-
-            label ryan_McJabBlock: # Ryan Kicks MC (Hits/No Block)
-
-                play sound "sounds/bs.mp3"
-                scene Ryan_Hook_block
-                with hpunch
-
-                pause 0.5
-                $ stance = 1
-                $ ryanAttack = renpy.random.choice([1, 2, 3, 4])
-                $ ryanSimulation = renpy.random.choice([1, 2, 3, 4])
-                jump mc_ryanAttack
-
-            label ryan_McHookHit: # Ryan Kicks MC (Hits/No Block)
-
-                play sound "sounds/hs.mp3"
-                $ youDamage += 1
-                scene Ryan_Hook_hit
-                with hpunch
-
-                pause 0.5
-                $ stance = 1
-                $ ryanAttack = renpy.random.choice([1, 2, 3, 4])
-                $ ryanSimulation = renpy.random.choice([1, 2, 3, 4])
-                if youDamage >= youHealth:
-                        jump ryan_McFightEnd
-                jump mc_ryanAttack
-
-            label ryan_McHookBlock: # Ryan Kicks MC (Hits/No Block)
-
-                play sound "sounds/bs.mp3"
-                scene Ryan_Hook_block
-                with hpunch
-
-                pause 0.5
-                $ stance = 1
-                $ ryanAttack = renpy.random.choice([1, 2, 3, 4])
-                $ ryanSimulation = renpy.random.choice([1, 2, 3, 4])
-                jump mc_ryanAttack
-
-            label ryan_McBodyhookHit: # Ryan Kicks MC (Hits/No Block)
-
-                play sound "sounds/hs.mp3"
-                $ youDamage += 1
-                scene Ryan_BodyJab_hit
-                with hpunch
-
-                pause 0.5
-                $ stance = 1
-                $ ryanAttack = renpy.random.choice([1, 2, 3, 4])
-                $ ryanSimulation = renpy.random.choice([1, 2, 3, 4])
-                jump mc_ryanAttack
-
-            label ryan_McBodyhookBlock: # Ryan Kicks MC (Hits/No Block)
-
-                play sound "sounds/bs.mp3"
-                scene Ryan_BodyJab_block
-                with hpunch
-
-                pause 0.5
-                $ stance = 1
-                $ ryanAttack = renpy.random.choice([1, 2, 3, 4])
-                $ ryanSimulation = renpy.random.choice([1, 2, 3, 4])
-                jump mc_ryanAttack
-
-
-            label mc_ryanAttack:
-                if simRyanFight:
-                    if ryanStance == 1: # Jab Weakness
-                        if simyou == 1:
-                            jump mc_ryanBodyhookBlock
-                        if simyou == 2:
-                            jump mc_ryanHooksBlock
-                        if simyou == 3:
-                            jump mc_ryanKickBlock
-                        if simyou == 4 or simyou == 5 or simyou == 6:
-                            jump mc_ryanJabsHit
-                    if ryanStance == 2: # Hook Weakness
-                        if simyou == 1:
-                            jump mc_ryanHooksBlock
-                        if simyou == 2:
-                            jump mc_ryanJabsBlock
-                        if simyou == 3:
-                            jump mc_ryanKickBlock
-                        if simyou == 4 or simyou == 5 or simyou == 6:
-                            jump mc_ryanBodyhookHit
-                    if ryanStance == 3: # Body Hook Weakness
-                        if simyou == 1:
-                            jump mc_ryanJabsBlock
-                        if simyou == 2:
-                            jump mc_ryanHooksBlock
-                        if simyou == 3:
-                            jump mc_ryanKickBlock
-                        if simyou == 4 or simyou == 5 or simyou == 6:
-                            jump mc_ryanBodyhookBlock
-                    if ryanStance == 4: # Kick Weakness
-                        if simyou == 1:
-                            jump mc_ryanBodyhookBlock
-                        if simyou == 2:
-                            jump mc_ryanHooksBlock
-                        if simyou == 3:
-                            jump mc_ryanJabsBlock
-                        if simyou == 4 or simyou == 5 or simyou == 6:
-                            jump mc_ryanKickHit
-                else:
-                    call screen ryanFight_MCAttack
-
-
-            label mc_ryanFightEnd: # MC wins fight against Ryan
-                $ v10_ryan_win = True
-
-                jump ryan_fightEnd
-
-            label ryan_McFightEnd: # MC loses fight against Ryan
-                $ v10_ryan_win = False
-                jump ryan_fightEnd
-
-            label ryan_fightEnd:
-                hide screen ryanFight_MCAttack
-                hide screen ryanFight_MCDefend
-                hide screen fight_overlay
-                $ youDamage = 0
-                $ stance = 0
-                stop music fadeout 3
-            jump v10_fight_result
-
-        "Ne pas combattre":
-            scene v10mvr6a
-            with dissolve
-
-            $ grant_achievement("fright_club")
-            u "Je ne pense pas pouvoir faire ça. Désolé les gars."
-
-            scene v10mvr7 # FPP. Show Close up from ring of Chris and imre stood watching, Imre mouth open, chris mouth closed
-            with dissolve
-            imre "Mec, tu ferais mieux de ne pas abandonner tout de suite !"
-
-            scene v10mvr7a # FPP. Show Close up from ring of Chris and imre stood watching, Imre mouth closed, chris mouth open
-            with dissolve
-
-            ch "Allez mec. Tu as ça !"
-
-            scene v10mvr6  #Ryan mouth open
-            with dissolve
-
-            ry "Mec, qu'est-ce que tu fais ?! Nous devons le faire."
-
-            scene v10mvr6a
-            with dissolve
-
-            u "Je ne peux pas, je ne peux pas."
-            stop music fadeout 3
-            jump v10_avoid_fight

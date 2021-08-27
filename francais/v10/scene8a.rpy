@@ -1,258 +1,277 @@
-# SCENE 8a: Fight Results
-# Locations: Abandoned Warehouse
-# Characters:MC (Outfit 7), Grayson (Outfit 3),Chris (Outfit 2)
-# Time: Saturday Night
-label v10_avoid_fight:
-    $ renpy.end_replay()
-    if not v10_ryan_fight and not v10_imre_fight:   
+# TODO: Translation updated at 2021-07-11 20:37
 
-        scene v10frr1 # TPP. Show MC leaving the warehouse.(camera from inside wearhouse positioned behind mc)
-        with dissolve
+# game/v10/scene8a.rpy:21
+translate empty v10_avoid_fight_4cf6faaa:
 
-        play music "music/v10/Scene 8/Track Scene 8a.mp3" fadein 3
+    # ch "Hey!"
+    ch "Hé !"
 
-        pause 0.75
+# game/v10/scene8a.rpy:23
+translate empty v10_avoid_fight_a595b5b5:
 
-        scene v10frr2 # TPP. Show MC having just left the warehouse (camera from outside, mc facing camera)        
-        with dissolve
+    # u "(Really don't wanna talk right now.)"
+    u "(Je ne veux vraiment pas parler maintenant.)"
 
-        if joinwolves:
-            scene v10frr2a # TPP. same camera as v10frr2, Show MC having just left the warehouse (camera from outside, mc facing camera), Show chris just exiting the warehouse. MC mouth closed, Chris mouth open
-            with dissolve
-            ch "Hé!"
+# game/v10/scene8a.rpy:28
+translate empty v10_avoid_fight_30075b22:
 
-            u "(Je ne veux vraiment pas parler maintenant.)"
+    # ch "Hey! Man what was that? Why'd you run off like that?"
+    ch "Hé! Mec qu'est-ce que c'était ? Pourquoi tu t'es enfuis comme ça ?"
 
-            scene v10frr2c # TPP. same camera as v10frr2, Show chriss now right behind MC, Chris hand on MC shoulder, chris mouth open, MC mouth closed
-            with dissolve
+# game/v10/scene8a.rpy:33
+translate empty v10_avoid_fight_10f5eb28:
 
-            ch "Hé! Mec qu'est-ce que c'était ? Pourquoi tu t'es enfuis comme ça ?"
+    # u "*Sighs* Look I don't know okay."
+    u "*Soupirs* Ecoute, je ne sais pas d'accord."
 
-            scene v10frr3 # FPP. Show Chris, mouth closed, worried look.
-            with dissolve
+# game/v10/scene8a.rpy:38
+translate empty v10_avoid_fight_de887acf:
 
-            u "*Soupirs* Ecoute, je ne sais pas d'accord."
+    # ch "I'm going to try and be understanding, but it's really difficult for me to keep cool after I think about everything that's led up to this moment."
+    ch "Je vais essayer d'être compréhensif, mais c'est vraiment difficile pour moi de rester calme après avoir pensé à tout ce qui a mené à ce moment."
 
-            scene v10frr3a # FPP. same camera as v10frr3, Show Chris, mouth open, serious look.
-            with dissolve
+# game/v10/scene8a.rpy:48
+translate empty v10_avoid_fight_22d91d61:
 
-            ch "Je vais essayer d'être compréhensif, mais c'est vraiment difficile pour moi de rester calme après avoir pensé à tout ce qui a mené à ce moment."
+    # ch "You were one of three pledges that got in even though many others fought for your spot."
+    ch "Tu était l'un des trois postulants qui ont été reçus même si beaucoup d'autres se sont battus pour ta place."
 
-            scene s764 # Ignore this render, old image from 0.4
-            with dissolve
+# game/v10/scene8a.rpy:50
+translate empty v10_avoid_fight_286f293d:
 
-            pause 0.4
+    # ch "And even now, here I am focusing on the guy that ran while everyone else, including Imre who did a spectacular job, is inside."
+    ch "Et même maintenant, je me concentre ici sur le gars qui est parti alors que tout le monde, y compris Imre qui a fait un travail spectaculaire, est à l'intérieur."
 
-            scene v10frr3a
-            with dissolve
+# game/v10/scene8a.rpy:52
+translate empty v10_avoid_fight_b51052a2:
 
-            ch "Tu étais l'un des trois engagements qui ont été reçus même si beaucoup d'autres se sont battus pour ta place."
+    # ch "Busting their ass to show them they belong to the Wolves. Tonight was supposed to be a night of accomplishment and celebration."
+    ch "Se casser le cul pour leur montrer qu'ils appartiennent aux Wolves. Ce soir était censé être une nuit d'accomplissement et de célébration."
 
-            ch "Et même maintenant, je me concentre ici sur le gars qui a couru alors que tout le monde, y compris Imre qui a fait un travail spectaculaire, est à l'intérieur."
+# game/v10/scene8a.rpy:54
+translate empty v10_avoid_fight_43d46c21:
 
-            ch "Se casser le cul pour leur montrer qu'ils appartiennent aux Wolves. Ce soir était censé être une nuit d'accomplissement et de célébration."
+    # ch "If this is how you're going to act when push comes to shove then think real hard about if this is even for you."
+    ch "Si c'est comme ça que tu vas agir quand les choses se passent bien, alors réfléchis bien à si c'est pareil pour toi."
 
-            ch "Si c'est comme ça que tu vas agir quand les choses se présentent, alors réfléchis bien à savoir si cela est bien pour ton cas."
+# game/v10/scene8a.rpy:61
+translate empty v10_avoid_fight_e64d3a78:
 
-            menu:
-                "Apologize":
-                    $ addPoint("bro", 1)
-                    scene v10frr3b # FPP. same camera as v10frr3, Show Chris, mouth closed, serious look.
-                    with dissolve
-                    u "*Soupirs* A quoi pensais-je ? Je n'aurais pas dû vous laisser tomber juste parce que.."
+    # u "*Sighs* What was I thinking? I shouldn't have let you guys down just because-"
+    u "*Soupirs* A quoi pensais-je ? Je n'aurais pas dû vous laisser tomber juste parce que-"
 
-                    scene v10frr3a
-                    with dissolve
+# game/v10/scene8a.rpy:66
+translate empty v10_avoid_fight_3e5b1f8a:
 
-                    ch "Juste parce que c'est ton ami ?"
+    # ch "Just because he's your friend?"
+    ch "Juste parce que c'est ton ami ?"
 
-                    scene v10frr3b
-                    with dissolve
+# game/v10/scene8a.rpy:71
+translate empty v10_avoid_fight_0ff0cbdc:
 
-                    u "Ouais... MERDE ! Je vais le faire."
+    # u "Yeah... FUCK IT! I'll do it."
+    u "Ouais... PUTAIN t'as raison ! Je vais le faire."
 
-                    scene v10frr3a
-                    with dissolve
+# game/v10/scene8a.rpy:76
+translate empty v10_avoid_fight_8ef10cf7:
 
-                    ch "Heureux que vous compreniez et que vous ayez raison, mais ce navire a navigué."
+    # ch "Glad you understand and got your head right, but that ship has sailed."
+    ch "Heureux que tu comprenne et que tu revienne à la raison, mais ce navire a navigué."
 
-                    scene v10frr3b
-                    with dissolve
+# game/v10/scene8a.rpy:81
+translate empty v10_avoid_fight_0238517d:
 
-                    u "Je.."
+    # u "I-"
+    u "Je-"
 
-                    scene v10frr3a
-                    with dissolve
+# game/v10/scene8a.rpy:86
+translate empty v10_avoid_fight_8f83aba0:
 
-                    ch "C'est probablement mieux si tu rentres chez toi. Je ne pense pas que tu veuilles affronter les autres WOLVES maintenant."
+    # ch "It's probably best if you just go home. I don't think you wanna face the other Wolves right now."
+    ch "C'est probablement mieux si tu rentre chez toi. Je ne pense pas que tu veuilles affronter les autres Wolves maintenant."
 
-                    scene v10frr3b
-                    with dissolve
+# game/v10/scene8a.rpy:91
+translate empty v10_avoid_fight_460698fc:
 
-                    u "Chris, je.."
+    # u "Chris, I-"
+    u "Chris, je-"
 
-                    scene v10frr3a
-                    with dissolve
+# game/v10/scene8a.rpy:96
+translate empty v10_avoid_fight_c293ffa4:
 
-                    ch "Rentre juste à la maison."
-                "Défends ton territoire":
-                    scene v10frr3b
-                    with dissolve
+    # ch "Just go home."
+    ch "Rentre chez toi."
 
-                    u "Je respecte les Wolves, vous êtes comme une famille pour moi. Mais mes amis sont comme une famille aussi."
+# game/v10/scene8a.rpy:101
+translate empty v10_avoid_fight_bc167e39:
 
-                    scene v10frr3a
-                    with dissolve
+    # u "I respect the Wolves, you guys are like family to me. But my friends are like family too."
+    u "Je respecte les Wolves, vous êtes comme une famille pour moi. Mais mes amis sont aussi comme une famille."
 
-                    ch "Laisses moi te demander ceci, Ryan aurait-il hésité à te battre?"
+# game/v10/scene8a.rpy:106
+translate empty v10_avoid_fight_101d2f41:
 
-                    scene v10frr3b
-                    with dissolve
+    # ch "Let me ask you this, would Ryan have hesitated to fight you?"
+    ch "Laissez-moi te demander ceci, Ryan aurait-il hésité à te battre ?"
 
-                    u "C'est mon ami alors.."
+# game/v10/scene8a.rpy:111
+translate empty v10_avoid_fight_58c290da:
 
-                    scene v10frr3a
-                    with dissolve
+    # u "He's my friend so-"
+    u "C'est mon ami donc-"
 
-                    ch "Sois honnête avec toi-même, aurait-il hésité ?"
+# game/v10/scene8a.rpy:116
+translate empty v10_avoid_fight_ae951de7:
 
-                    scene v10frr3b
-                    with dissolve
+    # ch "Be honest with yourself, would he have hesitated?"
+    ch "Sois honnête avec toi-même, aurait-il hésité ?"
 
-                    u "*Soupirs* Non."
+# game/v10/scene8a.rpy:121
+translate empty v10_avoid_fight_bef090f8:
 
-                    scene v10frr3a
-                    with dissolve
+    # u "*Sighs* No."
+    u "*Soupirs* Non."
 
-                    ch "C'est probablement mieux si tu rentres chez toi. Je ne pense pas que tu veuilles affronter les autres Wolves maintenant."
+# game/v10/scene8a.rpy:126
+translate empty v10_avoid_fight_8f83aba0_1:
 
-                    scene v10frr3b
-                    with dissolve
-                    u "Chris, je.."
+    # ch "It's probably best if you just go home. I don't think you wanna face the other Wolves right now."
+    ch "C'est probablement mieux si tu rentre chez toi. Je ne pense pas que tu veuilles affronter les autres Wolves maintenant."
 
-                    scene v10frr3a
-                    with dissolve
+# game/v10/scene8a.rpy:130
+translate empty v10_avoid_fight_460698fc_1:
 
-                    ch "Rentre juste à la maison."
-                    
-        else:
-            scene v10frr4 # TPP. Show MC stood near the side of the warehouse outside, Show Grayson approaching, grayson mouth open, MC mouth closed.
-            with dissolve
+    # u "Chris, I-"
+    u "Chris, je-"
 
-            gr "Hé [name]!"
+# game/v10/scene8a.rpy:135
+translate empty v10_avoid_fight_c293ffa4_1:
 
-            u "(Je ne veux vraiment pas parler maintenant.)"
+    # ch "Just go home."
+    ch "Juste rentre chez toi."
 
-            scene v10frr5 # FPP. Show Grayson, worried look, mouth open
-            with dissolve
+# game/v10/scene8a.rpy:141
+translate empty v10_avoid_fight_0dbc50c8:
 
-            gr "Tu vas bien, mon pote ? On avait l'impression que tu étais un peu dépassé là-bas ?"
+    # gr "Hey [name]!"
+    gr "Hé [name] !"
 
-            scene v10frr5a # FPP. Same camera as v10frr5, Show Grayson, worried look, mouth closed
-            with dissolve
+# game/v10/scene8a.rpy:143
+translate empty v10_avoid_fight_a595b5b5_1:
 
-            u "Je suis désolé, c'était juste. Aurais-tu combattu ton ami comme ça ?"
+    # u "(Really don't wanna talk right now.)"
+    u "(Je ne veux vraiment pas parler maintenant.)"
 
-            scene v10frr5
-            with dissolve
+# game/v10/scene8a.rpy:148
+translate empty v10_avoid_fight_fa1a2310:
 
-            gr "Ahhh, c'est donc ça le problème. Tu sais, tu me rappelles en fait un engagement que nous avions l'année dernière... Lui et moi étions très proches."
+    # gr "You okay, buddy? It looked like you were a bit overwhelmed there?"
+    gr "Tu vas bien, mon pote ? Vous aviez l'air d'être un peu débordé là-bas ?"
 
-            scene v10frr5a
-            with dissolve
+# game/v10/scene8a.rpy:153
+translate empty v10_avoid_fight_cabc656b:
 
-            u "Où est-il maintenant ?"
+    # u "I'm sorry, it was just. Would you have fought your friend like that?"
+    u "Je suis désolé, c'était juste. Aurais-tu combattu un ami comme ça ?"
 
-            scene v10frr6 # TPP. Show MC and Grayson now stood by the corner of the building, both mouths closed.
-            with dissolve
+# game/v10/scene8a.rpy:158
+translate empty v10_avoid_fight_5c74821a:
 
-            pause 0.75
+    # gr "Ahhh, so that's the issue. You know, you actually remind me of a pledge we had last year... Him and I were real close."
+    gr "Ahhh, c'est donc ça le problème. Tu sais, tu me rappelles en fait un postulant que nous avions l'année dernière... Lui et moi étions très proches."
 
-            scene v10frr6a # TPP. Same camera as v10frr6, Show MC and Grayson now stood around to corner with the door no exit no longer visable from where they're stood, both mouths closed.
-            with dissolve
+# game/v10/scene8a.rpy:163
+translate empty v10_avoid_fight_83195575:
 
-            scene v10frr7 # FPP. Show Grayson (now stood round the corner from v10frr5), worried look, mouth open
-            with dissolve
+    # u "Where is he now?"
+    u "Où est-il maintenant?"
 
-            gr "Oh, il a abandonné SVC. Je pense qu'il a fini par avoir des problèmes."
+# game/v10/scene8a.rpy:176
+translate empty v10_avoid_fight_80d41ffb:
 
-            scene v10frr7a # FPP. Show Grayson (now stood round the corner from v10frr5), worried look, mouth closed
-            with dissolve
+    # gr "Oh he dropped out of SVC. I think he ended up having some issues."
+    gr "Oh, il a abandonné SVC. Je pense qu'il a fini par avoir des problèmes."
 
-            u "Quel genre de problèmes ?"
+# game/v10/scene8a.rpy:181
+translate empty v10_avoid_fight_053d2683:
 
-            u "Grayson ?"
+    # u "What kind of issues?"
+    u "Quel genre de problèmes ?"
 
-            u "Quel genre de problèmes?"
+# game/v10/scene8a.rpy:183
+translate empty v10_avoid_fight_84139945:
 
-            scene v10frr8 # TPP. Show Grayson arm pulled back ready to punch MC.
-            with dissolve
+    # u "Grayson?"
+    u "Grayson ?"
 
-            pause 0.5
+# game/v10/scene8a.rpy:185
+translate empty v10_avoid_fight_053d2683_1:
 
-            scene v10frr8a # TPP. same camera as v10frr8, Show Grayson Punching MC in the stomach.
-            with dissolve
-            gr "Il."
+    # u "What kind of issues?"
+    u "Quel genre de problèmes ?"
 
-            scene v10frr8
-            with dissolve
+# game/v10/scene8a.rpy:194
+translate empty v10_avoid_fight_190e9ed4:
 
-            pause 0.5
+    # gr "He."
+    gr "Il."
 
-            scene v10frr8a
-            with dissolve
-            gr "A été."
+# game/v10/scene8a.rpy:203
+translate empty v10_avoid_fight_514cd41c:
 
-            scene v10frr8
-            with dissolve
+    # gr "Was."
+    gr "était."
 
-            pause 0.5
+# game/v10/scene8a.rpy:212
+translate empty v10_avoid_fight_e4dff02b:
 
-            scene v10frr8a
-            with dissolve
-            gr "Une."
+    # gr "A."
+    gr "Une."
 
-            scene v10frr8
-            with dissolve
+# game/v10/scene8a.rpy:221
+translate empty v10_avoid_fight_1b4a813b:
 
-            pause 0.5
+    # gr "Fucking."
+    gr "Putain."
 
-            scene v10frr8a
-            with dissolve
-            gr "Putain."
+# game/v10/scene8a.rpy:230
+translate empty v10_avoid_fight_98195fa0:
 
-            scene v10frr8
-            with dissolve
+    # gr "Pussy!"
+    gr "De poule mouillée."
 
-            pause 0.5
+# game/v10/scene8a.rpy:235
+translate empty v10_avoid_fight_d137de44:
 
-            scene v10frr8a
-            with dissolve
-            gr "De chatte !"
+    # u "Fuck! Why'd you do that?!"
+    u "Merde! Pourquoi as-tu fait ça ?!"
 
-            scene v10frr7b # FPP. Same camera as v10frr7, Show Grayson angry look, mouth closed
-            with dissolve
+# game/v10/scene8a.rpy:240
+translate empty v10_avoid_fight_5d580940:
 
-            u "Merde ! Pourquoi as-tu fait ça ?!"
+    # gr "I don't care if we share the same fucking blood, a fight is a fight! You ever do any pussy shit like this again and you're out! You got that?"
+    gr "Je m'en fiche si nous partageons le même sang, un combat est un combat ! Tu avez déjà refait des conneries de poule mouillée comme ça et tu t'en est sorti ! Tu capte ?"
 
-            scene v10frr7c # FPP. Same camera as v10frr7, Show Grayson angry look, mouth open
-            with dissolve
+# game/v10/scene8a.rpy:245
+translate empty v10_avoid_fight_5f606cca:
 
-            gr "Je m'en fiche si nous partageons le même sang, un combat est un combat ! Tu as déjà refait des conneries de chatte comme ça et tu es sorti ! Tu as ça ?"
+    # u "*Cough* Yeah..."
+    u "*Tousse* Ouais..."
 
-            scene v10frr7b
-            with dissolve
+# game/v10/scene8a.rpy:250
+translate empty v10_avoid_fight_b10e297f:
 
-            u "*Tousse* Ouais..."
+    # gr "Now get the fuck out of here, I don't wanna see your face!"
+    gr "Maintenant, fous le camp d'ici, je ne veux pas te revoir !"
 
-            scene v10frr7c
-            with dissolve
+# game/v10/scene8a.rpy:255
+translate empty v10_avoid_fight_3c582c4b:
 
-            gr "Maintenant, fous le camp d'ici, je ne veux pas voir ton visage !"
+    # u "(Fuck that hurt, I'm going home.)"
+    u "(Putain ça fait mal, je rentre à la maison.)"
 
-            scene v10frr7b
-            with dissolve
+translate empty strings:
 
-            u "(Putain ce coup, je rentre à la maison.)"
-    stop music fadeout 3
-    jump v10_leave_fight
+    # game/v10/scene8a.rpy:56
+    old "Stand your ground"
+    new "Défend ton territoire"
