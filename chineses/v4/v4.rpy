@@ -2920,7 +2920,7 @@ translate chineses eu_b_1e16adae:
 translate chineses eu_b_a5093b42:
 
     # cl "I told him to stop, okay?? I didn't know if he was gonna hurt you even more."
-    cl "我叫他别打了，好吧？？我不知道他是否会继续伤害你。"
+    cl "我有叫他别打了，好吧？？我不知道他是否会继续伤害你。"
 
 # game/v4/v4.rpy:2927
 translate chineses eu_b_2f9ba4ed:
