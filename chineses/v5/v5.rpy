@@ -4,439 +4,439 @@
 translate chineses v5start_b1183ab6:
 
     # no "What are you doing here? And why did you just punch the wall?"
-    no ""
+    no "你在这里做什么？还有你为什么刚刚要对墙打？"
 
 # game/v5/v5.rpy:70
 translate chineses v5start_d59430b9:
 
     # u "*Drunk* It's Chloe... I just- I just wanted to talk to her..."
-    u ""
+    u "*醉了*是克洛伊...我只是-只是想跟她谈谈..."
 
 # game/v5/v5.rpy:72
 translate chineses v5start_e305aab5:
 
     # u "*Drunk* And now she's all mad and I don't even know what happened."
-    u ""
+    u "*醉了*而现在她完全恼了，我都还不知道发生了什么。"
 
 # game/v5/v5.rpy:76
 translate chineses v5start_f42e30d3:
 
     # no "Hmmm..."
-    no ""
+    no "嗯..."
 
 # game/v5/v5.rpy:81
 translate chineses v5start_8f75944f:
 
     # no "Chloe can be a bit overdramatic sometimes, you know."
-    no ""
+    no "克洛伊有时会有点夸张，你知道。"
 
 # game/v5/v5.rpy:83
 translate chineses v5start_e0724b74:
 
     # no "Maybe she'll calm down by tomorrow."
-    no ""
+    no "也许她明天会冷静下来。"
 
 # game/v5/v5.rpy:88
 translate chineses v5start_c319e66f:
 
     # u "*Drunk* Right..."
-    u ""
+    u "*醉了*对..."
 
 # game/v5/v5.rpy:93
 translate chineses v5start_30adda01:
 
     # no "Hey, it's none of my business, but... what did you guys talk about that made you wanna punch a wall after?"
-    no ""
+    no "嘿，那不关我的事，但是...你们都聊了什么让你想对墙打？"
 
 # game/v5/v5.rpy:100
 translate chineses v5start_7ff172e2:
 
     # u "*Drunk* My uhm, my friend, he- he said that Chloe did some shady shit in the past and I just had to find out the truth!"
-    u ""
+    u "*醉了*我的嗯，我的朋友，他-他说克洛伊过去做了见不得人的事，而我只是想找到真相！"
 
 # game/v5/v5.rpy:105
 translate chineses v5start_203a8419:
 
     # no "And what did you find out?"
-    no ""
+    no "那你都找到了什么？"
 
 # game/v5/v5.rpy:110
 translate chineses v5start_ba31489a:
 
     # u "*Drunk* Nothing! I think all I did was ruin our relationship..."
-    u ""
+    u "*醉了*什么都没有！我唯一做到的就是毁了我们的关系..."
 
 # game/v5/v5.rpy:115
 translate chineses v5start_4dc2dc97:
 
     # no "Yeah, that sounds about right."
-    no ""
+    no "是啊，那听上去没有错。"
 
 # game/v5/v5.rpy:120
 translate chineses v5start_ce9d80ae:
 
     # u "*Drunk* What- What do you mean?"
-    u ""
+    u "*醉了*什么-你什么意思？"
 
 # game/v5/v5.rpy:125
 translate chineses v5start_676fbf64:
 
     # no "Dude, you're drunk, upset and don't even know the whole story. What did you think was gonna happen when you talk to her?"
-    no ""
+    no "哥们儿，你喝醉了，心烦，又不根本不知道整个故事。你认为你这样跟她谈会发生什么？"
 
 # game/v5/v5.rpy:130
 translate chineses v5start_b37bcb68:
 
     # u "*Drunk* I don't know..."
-    u ""
+    u "*醉了*我不知道..."
 
 # game/v5/v5.rpy:132
 translate chineses v5start_3e1869e8:
 
     # u "*Drunk* What do you mean the whole story?"
-    u ""
+    u "*醉了*你说的整个故事是什么意思？"
 
 # game/v5/v5.rpy:137
 translate chineses v5start_f53fb841:
 
     # no "It's late, I really don't wanna get into it. But hey, let me know how your little love story ends."
-    no ""
+    no "时间不早了，我实在不想去说它。但嘿，什么时候跟我讲你那可怜的爱情故事是怎么结束的。"
 
 # game/v5/v5.rpy:139
 translate chineses v5start_cdb2d7d3:
 
     # no "Night, [name]."
-    no ""
+    no "晚安，[名字]。"
 
 # game/v5/v5.rpy:144
 translate chineses v5start_52e838e0:
 
     # u "*Drunk* Night..."
-    u ""
+    u "*醉了*晚安..."
 
 # game/v5/v5.rpy:150
 translate chineses v5start_52c2a370:
 
     # u "*Drunk* Uhhh... nothing. It's not important."
-    u ""
+    u "*醉了*呃...没什么。没什么重要的事。"
 
 # game/v5/v5.rpy:152
 translate chineses v5start_c9a8b304:
 
     # u "*Drunk* I should uhm... probably go home now, it's late."
-    u ""
+    u "*醉了*我该嗯...大概现在该回家了，时候不早了。"
 
 # game/v5/v5.rpy:157
 translate chineses v5start_a132ad83:
 
     # no "Alright, well let me know how your little love story ends."
-    no ""
+    no "好吧，什么时候跟我讲你那可怜的爱情故事是怎么结束的。"
 
 # game/v5/v5.rpy:159
 translate chineses v5start_cdb2d7d3_1:
 
     # no "Night, [name]."
-    no ""
+    no "晚安，[名字]。"
 
 # game/v5/v5.rpy:164
 translate chineses v5start_52e838e0_1:
 
     # u "*Drunk* Night..."
-    u ""
+    u "*醉了*晚安..."
 
 # game/v5/v5.rpy:170
 translate chineses v5start_04b2a395:
 
     # u "*Drunk* It's- it's nothing. I gotta go, I'll see you around, Nora."
-    u ""
+    u "*醉了*没-没什么。我要走了，我们再见了，诺拉。"
 
 # game/v5/v5.rpy:175
 translate chineses v5start_cc6f375e:
 
     # no "Alright, well let's hope you and our house don't get into another fight in the future."
-    no ""
+    no "好吧，我希望你同我们的房子将来不会再打起来。"
 
 # game/v5/v5.rpy:180
 translate chineses v5start_0fba9dcb:
 
     # u "*Drunk* Yeah, right..."
-    u ""
+    u "*醉了*是啊，对..."
 
 # game/v5/v5.rpy:186
 translate chineses ev_bd_f725ce66:
 
     # u "(Way to mess things up with Chloe.... great fucking job, [name].)"
-    u ""
+    u "（这下跟克洛伊闹翻了...真他妈做得太好了，[名字]。）"
 
 # game/v5/v5.rpy:201
 translate chineses ev_bd_5a88a05e:
 
     # u "(Oh man, I drank way too much last night...)"
-    u ""
+    u "（哦哥们儿，我昨晚喝太多了...）"
 
 # game/v5/v5.rpy:206
 translate chineses ev_bd_7d193b2b:
 
     # u "*Yawns*"
-    u ""
+    u "*打哈欠*"
 
 # game/v5/v5.rpy:216
 translate chineses ev_bd_bf4ca58f:
 
     # u "(I completely forgot I bought this. I guess I can't really give it to Chloe anymore now, can I?)"
-    u ""
+    u "（我完全忘了我买了这个。我想我现在没法把它送给克洛伊了，是吧？）"
 
 # game/v5/v5.rpy:222
 translate chineses ev_bd_7d193b2b_1:
 
     # u "*Yawns*"
-    u ""
+    u "*打哈欠*"
 
 # game/v5/v5.rpy:227
 translate chineses ev_bd_fb22b6d4:
 
     # u "(At least my eye is starting to heal...)"
-    u ""
+    u "（至少我的眼睛开始好了...）"
 
 # game/v5/v5.rpy:244
 translate chineses jorepb_4f1997c1:
 
     # "*Knock knock knock*"
-    ""
+    "*敲 敲 敲*"
 
 # game/v5/v5.rpy:253
 translate chineses jorepb_b2db8899:
 
     # cl "Hey. You wanna come in?"
-    cl ""
+    cl "嘿。你想进来吗？"
 
 # game/v5/v5.rpy:258
 translate chineses jorepb_428dfda8:
 
     # u "Hey uh, actually... can we- can we talk outside first? I- I just wanna clear something up."
-    u ""
+    u "嘿呃，事实上...我们可以-可以先在外面谈谈吗？我-我只是想先弄清楚一些事。"
 
 # game/v5/v5.rpy:263
 translate chineses jorepb_009c5a98:
 
     # cl "Uhm, yeah of course. Let me just put on my sweater."
-    cl ""
+    cl "嗯，是啊当然。让我穿件毛衣。"
 
 # game/v5/v5.rpy:268
 translate chineses jorepb_9b634cd2:
 
     # cl "So, what did you wanna talk to me about?"
-    cl ""
+    cl "那，你想跟我谈什么呢？"
 
 # game/v5/v5.rpy:273
 translate chineses jorepb_11aed362:
 
     # u "Well, Ryan... *deep breath* Ryan said you were playing me and just using me to get back at Grayson."
-    u ""
+    u "这个，瑞安...*深吸气*瑞安说你是在耍我，只是在利用我来报复格雷森。"
 
 # game/v5/v5.rpy:278
 translate chineses jorepb_e1e72d62:
 
     # cl "What?? [name], I'm not, that's absurd..."
-    cl ""
+    cl "什么？？[名字]，我没有啊，那太荒谬了..."
 
 # game/v5/v5.rpy:283
 translate chineses jorepb_d4482fd2:
 
     # u " He said Grayson told him about a lot of shady shit that you did in the past."
-    u ""
+    u "他说格雷森跟他讲了很多你以前做过的见不得人的事。"
 
 # game/v5/v5.rpy:287
 translate chineses jorepb_ac67d852:
 
     # cl "I didn't do anything shady. Grayson is just spreading lies like he always is."
-    cl ""
+    cl "我没有做见不得人的事。格雷森还是在一如既往的散布谣言。"
 
 # game/v5/v5.rpy:297
 translate chineses jorepb_ee48bd46:
 
     # u "I believe you. I just had to make sure, you know?"
-    u ""
+    u "我相信你。我只是想确认一下，你知道吗？"
 
 # game/v5/v5.rpy:302
 translate chineses jorepb_0ed764dd:
 
     # cl "Yeah, I get that."
-    cl ""
+    cl "是啊，我懂的。"
 
 # game/v5/v5.rpy:304
 translate chineses jorepb_6fab2291:
 
     # cl "Hey I don't have that much more time tonight, but how about we hang out tomorrow?"
-    cl ""
+    cl "嘿我今晚没太多时间，但你想明天再一起玩吗？"
 
 # game/v5/v5.rpy:309
 translate chineses jorepb_4b8de160:
 
     # u "Yeah, sounds great. I'll see you then, good night."
-    u ""
+    u "好啊，听起来很好。那再见了，晚安。"
 
 # game/v5/v5.rpy:314
 translate chineses jorepb_982299b7:
 
     # cl "Good night, [name]."
-    cl ""
+    cl "晚安，[名字]。"
 
 # game/v5/v5.rpy:319
 translate chineses jorepb_b1758b11:
 
     # u "(Good thing I didn't get drunk, that could have very easily gone wrong and ended in a big fight with Chloe.)"
-    u ""
+    u "（幸好我没有喝醉，不然情况很容易变得非常糟糕，还可能会跟克洛伊大闹一场。）"
 
 # game/v5/v5.rpy:329
 translate chineses jorepb_ba1c4808:
 
     # u "(Alright, time for a new day.)"
-    u ""
+    u "（好吧，新的一天到了。）"
 
 # game/v5/v5.rpy:335
 translate chineses jorepb_7d193b2b:
 
     # u "*Yawns*"
-    u ""
+    u "*打哈欠*"
 
 # game/v5/v5.rpy:345
 translate chineses jorepb_935737be:
 
     # u "(I completely forgot I bought this. I should give it to Chloe when we hang out later today.)"
-    u ""
+    u "（我完全忘了我买了这个。我应该在明天见克洛伊的时候给她。）"
 
 # game/v5/v5.rpy:351
 translate chineses jorepb_7d193b2b_1:
 
     # u "*Yawns*"
-    u ""
+    u "*打哈欠*"
 
 # game/v5/v5.rpy:356
 translate chineses jorepb_da5d6565:
 
     # u "(Hey, my eye is starting to heal...)"
-    u ""
+    u "（嘿，我的眼睛开始好了...）"
 
 # game/v5/v5.rpy:366
 translate chineses jorepb_339940d9:
 
     # u "You're lying. Yeah sure, the hottest girl in school wants me, the freshman who got beaten up at his first college party."
-    u ""
+    u "你在撒谎！是啊当然，校花居然会喜欢我，一个在他参加第一次大学派对上被打的新生。"
 
 # game/v5/v5.rpy:371
 translate chineses jorepb_827ff41b:
 
     # u "That seems realistic, right?!"
-    u ""
+    u "那似乎很真实，不是吗？！"
 
 # game/v5/v5.rpy:376
 translate chineses jorepb_17de23f6:
 
     # cl "[name], I don't care about the fighting, or any of that shit. What Grayson did to you was pathetic. I like you 'cause you were funny and kind and ... and you cared."
-    cl ""
+    cl "[名字]，我对打斗一类的屁事不关心。格雷森对你所做的很恶劣。我喜欢你因为你有趣，厚道，而且...而且你在乎别人。"
 
 # game/v5/v5.rpy:381
 translate chineses jorepb_023c11e2:
 
     # u "Then why did you go after Grayson instead of helping me up when he knocked me out??"
-    u ""
+    u "那你为什么在格雷森把我打晕后，选择去追他而不是扶我起来？？"
 
 # game/v5/v5.rpy:386
 translate chineses jorepb_1e16adae:
 
     # cl "I- I..."
-    cl ""
+    cl "我-我..."
 
 # game/v5/v5.rpy:388
 translate chineses jorepb_a5093b42:
 
     # cl "I told him to stop, okay?? I didn't know if he was gonna hurt you even more."
-    cl ""
+    cl "我有叫他别打了，好吧？？我不知道他是否会继续伤害你。"
 
 # game/v5/v5.rpy:393
 translate chineses jorepb_a688755b:
 
     # u "*Ryan said that you just saw his punch as a personal attack and didn't give one fuck about me being hurt. And you know what? Maybe he's right!"
-    u ""
+    u "瑞安说你只是把他的袭击看作是对你的人身攻击，并不在乎我受的伤害。而你知道吗？也许他是对的！"
 
 # game/v5/v5.rpy:398
 translate chineses jorepb_fd7e91c0:
 
     # cl "What have I ever done for you not to fucking trust me one bit?!"
-    cl ""
+    cl "我到底对你做了什么让你他妈的完全不相信我？！"
 
 # game/v5/v5.rpy:403
 translate chineses jorepb_b5bccc9e:
 
     # u "Apparently a bunch of shady shit in the past!"
-    u ""
+    u "明显有一堆过去见不得人的事！"
 
 # game/v5/v5.rpy:408
 translate chineses jorepb_6a8d31a8:
 
     # cl "*Gasp*"
-    cl ""
+    cl "*叹气*"
 
 # game/v5/v5.rpy:410
 translate chineses jorepb_07eb5d33:
 
     # cl "You know how you can be sure I wasn't just using you?"
-    cl ""
+    cl "你知道你如何能确定我没有在利用你吗？"
 
 # game/v5/v5.rpy:412
 translate chineses jorepb_59dbc30c:
 
     # cl "Because if I was using you, I would probably try to seduce you back into trusting me right now."
-    cl ""
+    cl "因为如果我是在利用你的话，我现在大概会试着勾引你来重新相信我。"
 
 # game/v5/v5.rpy:414
 translate chineses jorepb_1619571b:
 
     # cl "But don't worry, I don't want that. We're done."
-    cl ""
+    cl "不过不用担心，我不想那样。我们结束了。"
 
 # game/v5/v5.rpy:419
 translate chineses jorepb_76b03b19:
 
     # u "Chloe!"
-    u ""
+    u "克洛伊！"
 
 # game/v5/v5.rpy:426
 translate chineses jorepb_c7c1b3e8:
 
     # "*Door slam*"
-    ""
+    "*砰的关门*"
 
 # game/v5/v5.rpy:431
 translate chineses jorepb_fae10745:
 
     # u "HNGGGG!"
-    u ""
+    u "哼！"
 
 # game/v5/v5.rpy:443
 translate chineses jorepb_ac6b696f:
 
     # u "Ah, fuck!"
-    u ""
+    u "啊，操！"
 
 # game/v5/v5.rpy:445
 translate chineses jorepb_05148e1b:
 
     # unknown "[name], is that you??"
-    unknown ""
+    unknown "[名字]，是你吗？？"
 
 # game/v5/v5.rpy:452
 translate chineses jorepb_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v5/v5.rpy:454
 translate chineses jorepb_8d1e43e3:
 
     # u "Oh shit..."
-    u ""
+    u "哦糟糕..."
 
 # game/v5/v5.rpy:459
 translate chineses jorepb_b1183ab6:
