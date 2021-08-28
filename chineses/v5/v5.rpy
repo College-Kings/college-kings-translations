@@ -40,13 +40,13 @@ translate chineses v5start_e0724b74:
 translate chineses v5start_c319e66f:
 
     # u "*Drunk* Right..."
-    u "*醉了*对..."
+    u "*醉了*对啊..."
 
 # game/v5/v5.rpy:93
 translate chineses v5start_30adda01:
 
     # no "Hey, it's none of my business, but... what did you guys talk about that made you wanna punch a wall after?"
-    no "嘿，那不关我的事，但是...你们都聊了什么让你想对墙打？"
+    no "嘿，那不关我的事，但是...你们都聊了什么让你想往墙上打？"
 
 # game/v5/v5.rpy:100
 translate chineses v5start_7ff172e2:
@@ -94,13 +94,13 @@ translate chineses v5start_b37bcb68:
 translate chineses v5start_3e1869e8:
 
     # u "*Drunk* What do you mean the whole story?"
-    u "*醉了*你说的整个故事是什么意思？"
+    u "*醉了*你说整个故事是什么意思？"
 
 # game/v5/v5.rpy:137
 translate chineses v5start_f53fb841:
 
     # no "It's late, I really don't wanna get into it. But hey, let me know how your little love story ends."
-    no "时间不早了，我实在不想去说它。但嘿，什么时候跟我讲你那可怜的爱情故事是怎么结束的。"
+    no "时候不早了，我实在不想去说它。但嘿，改天跟我讲你那可怜的爱情故事是怎么结束的。"
 
 # game/v5/v5.rpy:139
 translate chineses v5start_cdb2d7d3:
@@ -118,7 +118,7 @@ translate chineses v5start_52e838e0:
 translate chineses v5start_52c2a370:
 
     # u "*Drunk* Uhhh... nothing. It's not important."
-    u "*醉了*呃...没什么。没什么重要的事。"
+    u "*醉了*呃...没什么。没要紧的事。"
 
 # game/v5/v5.rpy:152
 translate chineses v5start_c9a8b304:
@@ -130,7 +130,7 @@ translate chineses v5start_c9a8b304:
 translate chineses v5start_a132ad83:
 
     # no "Alright, well let me know how your little love story ends."
-    no "好吧，什么时候跟我讲你那可怜的爱情故事是怎么结束的。"
+    no "好吧，改天跟我讲你那可怜的爱情故事是怎么结束的。"
 
 # game/v5/v5.rpy:159
 translate chineses v5start_cdb2d7d3_1:
@@ -442,355 +442,355 @@ translate chineses jorepb_8d1e43e3:
 translate chineses jorepb_b1183ab6:
 
     # no "What are you doing here? And why did you just punch the wall?"
-    no ""
+    no "你在这里做什么？还有你为什么刚刚要对墙打？"
 
 # game/v5/v5.rpy:466
 translate chineses jorepb_da2cfc62:
 
     # u "It's Chloe... I just- I just wanted to talk to her..."
-    u ""
+    u "是克洛伊...我只是-只是想跟她谈谈..."
 
 # game/v5/v5.rpy:468
 translate chineses jorepb_a4ac767d:
 
     # u "But it just got out of control..."
-    u ""
+    u "但结果却是情绪失控..."
 
 # game/v5/v5.rpy:472
 translate chineses jorepb_f42e30d3:
 
     # no "Hmmm..."
-    no ""
+    no "嗯..."
 
 # game/v5/v5.rpy:477
 translate chineses jorepb_8f75944f:
 
     # no "Chloe can be a bit overdramatic sometimes, you know."
-    no ""
+    no "克洛伊有时会有点夸张，你知道。"
 
 # game/v5/v5.rpy:479
 translate chineses jorepb_e0724b74:
 
     # no "Maybe she'll calm down by tomorrow."
-    no ""
+    no "也许她明天会冷静下来。"
 
 # game/v5/v5.rpy:484
 translate chineses jorepb_8b940739:
 
     # u "Right..."
-    u ""
+    u "对啊..."
 
 # game/v5/v5.rpy:489
 translate chineses jorepb_30adda01:
 
     # no "Hey, it's none of my business, but... what did you guys talk about that made you wanna punch a wall after?"
-    no ""
+    no "嘿，那不关我的事，但是...你们都聊了什么让你想往墙上打？"
 
 # game/v5/v5.rpy:496
 translate chineses jorepb_d9ef0c47:
 
     # u "My uhm, my friend said that Chloe did some shady shit in the past and I just had to find out the truth."
-    u ""
+    u "我的嗯，我的朋友，他-他说克洛伊过去做了见不得人的事，而我只是想找到真相！"
 
 # game/v5/v5.rpy:501
 translate chineses jorepb_203a8419:
 
     # no "And what did you find out?"
-    no ""
+    no "那你都找到了什么？"
 
 # game/v5/v5.rpy:506
 translate chineses jorepb_67cf5e6e:
 
     # u "Nothing! I think all I did was ruin our relationship..."
-    u ""
+    u "什么都没有！我唯一做到的就是毁了我们的关系..."
 
 # game/v5/v5.rpy:511
 translate chineses jorepb_4dc2dc97:
 
     # no "Yeah, that sounds about right."
-    no ""
+    no "是啊，那听上去没有错。"
 
 # game/v5/v5.rpy:516
 translate chineses jorepb_0330cd59:
 
     # u "What- What do you mean?"
-    u ""
+    u "什么-你什么意思？"
 
 # game/v5/v5.rpy:521
 translate chineses jorepb_90159cdb:
 
     # no "Dude, you're upset and don't even know the whole story. What did you think was gonna happen when you talk to her?"
-    no ""
+    no "哥们儿，你心烦，又不根本不知道整个故事。你认为你这样跟她谈会发生什么？"
 
 # game/v5/v5.rpy:526
 translate chineses jorepb_c88a1b09:
 
     # u "I don't know..."
-    u ""
+    u "我不知道..."
 
 # game/v5/v5.rpy:528
 translate chineses jorepb_a88454dd:
 
     # u "What do you mean the whole story?"
-    u ""
+    u "你说整个故事是什么意思？"
 
 # game/v5/v5.rpy:533
 translate chineses jorepb_f53fb841:
 
     # no "It's late, I really don't wanna get into it. But hey, let me know how your little love story ends."
-    no ""
+    no "时候不早了，我实在不想去说它。但嘿，改天跟我讲你那可怜的爱情故事是怎么结束的。"
 
 # game/v5/v5.rpy:535
 translate chineses jorepb_cdb2d7d3:
 
     # no "Night, [name]."
-    no ""
+    no "晚安，[名字]。"
 
 # game/v5/v5.rpy:540
 translate chineses jorepb_88a3c768:
 
     # u "Night..."
-    u ""
+    u "晚安..."
 
 # game/v5/v5.rpy:546
 translate chineses jorepb_ad12e9fe:
 
     # u "Uhhh... nothing. It's not important."
-    u ""
+    u "呃...没什么。没要紧的事。"
 
 # game/v5/v5.rpy:548
 translate chineses jorepb_7ead0570:
 
     # u "I should uhm... probably go home now, it's late."
-    u ""
+    u "我该嗯...大概现在该回家了，时候不早了。"
 
 # game/v5/v5.rpy:553
 translate chineses jorepb_a132ad83:
 
     # no "Alright, well let me know how your little love story ends."
-    no ""
+    no "好吧，改天跟我讲你那可怜的爱情故事是怎么结束的。"
 
 # game/v5/v5.rpy:555
 translate chineses jorepb_cdb2d7d3_1:
 
     # no "Night, [name]."
-    no ""
+    no "晚安，[名字]。"
 
 # game/v5/v5.rpy:560
 translate chineses jorepb_88a3c768_1:
 
     # u "Night..."
-    u ""
+    u "晚安..."
 
 # game/v5/v5.rpy:566
 translate chineses jorepb_f57452fe:
 
     # u "It's- it's nothing. I gotta go, I'll see you around, Nora."
-    u ""
+    u "没-没什么。我要走了，我们再见了，诺拉。"
 
 # game/v5/v5.rpy:571
 translate chineses jorepb_cc6f375e:
 
     # no "Alright, well let's hope you and our house don't get into another fight in the future."
-    no ""
+    no "好吧，我希望你同我们的房子将来不会再打起来。"
 
 # game/v5/v5.rpy:576
 translate chineses jorepb_76c398ec:
 
     # u "Yeah, right..."
-    u ""
+    u "是啊，对..."
 
 # game/v5/v5.rpy:582
 translate chineses nnbd_f725ce66:
 
     # u "(Way to mess things up with Chloe.... great fucking job, [name].)"
-    u ""
+    u "（这下跟克洛伊闹翻了...真他妈做得太好了，[名字]。）"
 
 # game/v5/v5.rpy:603
 translate chineses nnbd_7d193b2b:
 
     # u "*Yawns*"
-    u ""
+    u "*打哈欠*"
 
 # game/v5/v5.rpy:613
 translate chineses nnbd_bf4ca58f:
 
     # u "(I completely forgot I bought this. I guess I can't really give it to Chloe anymore now, can I?)"
-    u ""
+    u "（我完全忘了我买了这个。我想我现在没法把它送给克洛伊了，是吧？）"
 
 # game/v5/v5.rpy:619
 translate chineses nnbd_7d193b2b_1:
 
     # u "*Yawns*"
-    u ""
+    u "*打哈欠*"
 
 # game/v5/v5.rpy:624
 translate chineses nnbd_fb22b6d4:
 
     # u "(At least my eye is starting to heal...)"
-    u ""
+    u "（至少我的眼睛开始好了...）"
 
 # game/v5/v5.rpy:665
 translate chineses newchloec_e18add73:
 
     # u "(Oh shit, I'm getting a bunch of messages.)"
-    u ""
+    u "哦糟，我有一堆的短信。）"
 
 # game/v5/v5.rpy:671
 translate chineses phonex_fa9e2e90:
 
     # u "(I should probably reply to some of them.)"
-    u ""
+    u "（我大概应该回复它们。）"
 
 # game/v5/v5.rpy:674
 translate chineses phonex_8820f8c7:
 
     # u "(Time to get ready.)"
-    u ""
+    u "（是时候做准备了。）"
 
 # game/v5/v5.rpy:681
 translate chineses phoney_9a1ea500:
 
     # "(Maybe it's Lauren and she wants to talk about what happened? I should definitely check.)"
-    ""
+    "（也许是劳伦想要谈谈发生的事？我一定得看看。）"
 
 # game/v5/v5.rpy:699
 translate chineses continuez_8f6227f7:
 
     # u "Hey, Lauren."
-    u ""
+    u "嘿，劳伦。"
 
 # game/v5/v5.rpy:704
 translate chineses continuez_8b4972a9:
 
     # la "Heyyy."
-    la ""
+    la "嘿。"
 
 # game/v5/v5.rpy:717
 translate chineses continuez_70720724:
 
     # u "*Chuckles* Is that how we greet each other now?"
-    u ""
+    u "*抿嘴笑*那就是我们现在如何相互问候了吗？"
 
 # game/v5/v5.rpy:722
 translate chineses continuez_6b90dfa7:
 
     # la "I mean we are kinda dating and I do enjoy kissing you, so if you don't have any complaints..."
-    la ""
+    la "我的意思是我们基本上算男女朋友了，而且我也喜欢跟你接吻，所以如果你没有什么抱怨的话..."
 
 # game/v5/v5.rpy:727
 translate chineses continuez_80148402:
 
     # u "(If we kiss in public, other girls are bound to find out that I'm dating Lauren.)"
-    u ""
+    u "（如果我们在大庭广众下接吻，其他女孩迟早会发现我跟劳伦是男女朋友。）"
 
 # game/v5/v5.rpy:734
 translate chineses continuez_98b5930c:
 
     # u "Complaints? I love kissing you. I can't wait till we say goodbye and I can kiss you again. *Laughs*"
-    u ""
+    u "抱怨？我热爱同你接吻。我等不及要跟你说再见，这样便能又可以吻你了。*大笑*"
 
 # game/v5/v5.rpy:739
 translate chineses continuez_e0d74a98:
 
     # la "*Tsk* I feel like you saying you can't wait for us to finish hanging out isn't as romantic as you may think."
-    la ""
+    la "*咂*我觉得你说你等不及要结束我们这次的见面并没有你想象中的那么浪漫。"
 
 # game/v5/v5.rpy:744
 translate chineses continuez_39a9a9b0:
 
     # u "Hahaha, oops."
-    u ""
+    u "哈哈哈，糟糕。"
 
 # game/v5/v5.rpy:749
 translate chineses continuez_9eb9ba4e:
 
     # u "Uhm, actually do you mind if we don't do that in public?"
-    u ""
+    u "嗯，实际上你介意我们不要在大庭广众下那么做吗？"
 
 # game/v5/v5.rpy:754
 translate chineses continuez_e57fe7b8:
 
     # la "Oh.... yeah, of course, I'm sorry, I didn't-"
-    la ""
+    la "哦...是啊，当然，抱歉啦，我没有-"
 
 # game/v5/v5.rpy:759
 translate chineses continuez_07f0645f:
 
     # u "It's not that I don't like kissing you, it's just..."
-    u ""
+    u "不是我不喜欢亲你，只是..."
 
 # game/v5/v5.rpy:761
 translate chineses continuez_c9c1b2f5:
 
     # u "I'm not really into public displays of affection."
-    u ""
+    u "我不太喜欢当众示爱。"
 
 # game/v5/v5.rpy:763
 translate chineses continuez_bc0e3463:
 
     # u "It's uhm... how I was raised."
-    u ""
+    u "这是嗯...受家教的影响。"
 
 # game/v5/v5.rpy:768
 translate chineses continuez_055387df:
 
     # la "Oh, and a little kiss like that is already too much?"
-    la ""
+    la "哦，稍微亲一下就这么不得了啦？"
 
 # game/v5/v5.rpy:770
 translate chineses continuez_9d4d6ec5:
 
     # la "I wasn't talking about a full on make out session, haha."
-    la ""
+    la "我又不是说要来个火力全开的热吻，哈哈。"
 
 # game/v5/v5.rpy:772
 translate chineses continuez_add5a249:
 
     # la "Also, it's not like anyone will see us here."
-    la ""
+    la "而且，又没有人会在这里看到我们。"
 
 # game/v5/v5.rpy:777
 translate chineses continuez_71159b61:
 
     # u "(Shit, she's pushing back. But if I want to avoid other girls finding out about us, I can't just kiss her in public.)"
-    u ""
+    u "（糟，她不太好说服。但如果我想避免别的女孩发现我们的话，我可不能当众吻她。）"
 
 # game/v5/v5.rpy:787
 translate chineses continuez_4b71f0f5:
 
     # u "Sorry, but can we just make sure we're alone before we do stuff like that. I just feel uncomfortable even just kissing in public."
-    u ""
+    u "不好意思，但我们能确认周围没有别人后再那样做吗？我只是觉得当众接吻不太合适。"
 
 # game/v5/v5.rpy:792
 translate chineses continuez_a3390623:
 
     # la "Okay, yeah. No public display of affection, I get it..."
-    la ""
+    la "好，可以。不能有当众示爱，我明白了..."
 
 # game/v5/v5.rpy:800
 translate chineses continuez_60785ac8:
 
     # u "Actually, you're right, sorry. A kiss is fine."
-    u ""
+    u "事实上，你是对的，抱歉。亲嘴没问题。"
 
 # game/v5/v5.rpy:802
 translate chineses continuez_5ad03eed:
 
     # u "Let's just not go overboard, haha."
-    u ""
+    u "只要我们做得不太过火就行，哈哈。"
 
 # game/v5/v5.rpy:807
 translate chineses continuez_f190eaf9:
 
     # la "Yeah, of course."
-    la ""
+    la "是啊，当然。"
 
 # game/v5/v5.rpy:812
 translate chineses continuez_7498febe:
 
     # la "At least not in public."
-    la ""
+    la "至少不会在大庭广众之下。"
 
 # game/v5/v5.rpy:821
 translate chineses continuez_542a7c37:
