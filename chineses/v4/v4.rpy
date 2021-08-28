@@ -2836,7 +2836,7 @@ translate chineses es_bd_b2db8899:
 translate chineses es_bd_0080dfa0:
 
     # u "*Drunk* Hey uh, actually... can we- can we talk outside first? I- I just wanna clear something up."
-    u "*醉了*嘿呃，事实上...我们能-我们能现在外面谈谈吗?我想先把一些事搞清楚。"
+    u "*醉了*嘿呃，事实上...我们可以-可以先在外面谈谈吗？我-我只是想先弄清楚一些事。"
 
 # game/v4/v4.rpy:2855
 translate chineses es_bd_779bc2cc:
