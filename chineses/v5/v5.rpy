@@ -796,787 +796,787 @@ translate chineses continuez_7498febe:
 translate chineses continuez_542a7c37:
 
     # u "So, why exactly are we doing this in a classroom?"
-    u ""
+    u "那，我们到底是为什么要在教室里做这个？"
 
 # game/v5/v5.rpy:825
 translate chineses continuez_7a16bc12:
 
     # u "Anyways, why exactly are we doing this in a classroom?"
-    u ""
+    u "话说回来，我们到底是为什么要在教室里做这个？"
 
 # game/v5/v5.rpy:833
 translate chineses continueag_b5e4dde2:
 
     # la "Well, my psychology teacher Mrs. Anderson said that she'd leave this room open over the weekend so that we can do the tests on neutral ground."
-    la ""
+    la "那个，我的心理学老师安德森女士说她在周末会把这间教室空出来，以便提供一个中性的地点来做测试。"
 
 # game/v5/v5.rpy:838
 translate chineses continueag_7c5a55ca:
 
     # u "Uhh... neutral ground?"
-    u ""
+    u "呃...中性地点？"
 
 # game/v5/v5.rpy:843
 translate chineses continueag_664cf29f:
 
     # la "You know, your answers can be affected by the environment you're in and an empty classroom should minimize the impact of that."
-    la ""
+    la "你知道，你的答案会受到你所在的环境的影响，而空旷的教室应该基本消除那些影响。"
 
 # game/v5/v5.rpy:848
 translate chineses continueag_1fe62b9e:
 
     # u "Uhm, sure."
-    u ""
+    u "嗯，当然。"
 
 # game/v5/v5.rpy:854
 translate chineses gotest_a17c9ba8:
 
     # la "Alright, let's get started, shall we?"
-    la ""
+    la "好吧，让我们开始吧？"
 
 # game/v5/v5.rpy:865
 translate chineses gokissb_a72f7f6d:
 
     # la "So I'll tell you a series of statements and you just tell me if you agree or disagree, okay?"
-    la ""
+    la "那我会告诉你一连串的声明，而你只是告诉我你同意或是不同意，好吧？"
 
 # game/v5/v5.rpy:870
 translate chineses gokissb_2e8c8088:
 
     # u "Yeah, sounds good."
-    u ""
+    u "好，听上去不错。"
 
 # game/v5/v5.rpy:875
 translate chineses gokissb_86166407:
 
     # la "Remember, there is no right or wrong, so just answer honestly."
-    la ""
+    la "记住，这里没有对或错，只需要老实回答。"
 
 # game/v5/v5.rpy:880
 translate chineses gokissb_bbdb12d1:
 
     # la "Statement one: I struggle making difficult decisions."
-    la ""
+    la "声明一：我在大事上犹豫不决。"
 
 # game/v5/v5.rpy:890
 translate chineses gokissb_f9c09402:
 
     # u "Agree."
-    u ""
+    u "同意。"
 
 # game/v5/v5.rpy:899
 translate chineses gokissb_faa31c13:
 
     # u "Disagree."
-    u ""
+    u "不同意。"
 
 # game/v5/v5.rpy:904
 translate chineses gokissb_fcc6126a:
 
     # la "Two: I consider myself an animal lover."
-    la ""
+    la "二：我认为我自己是动物爱好者。"
 
 # game/v5/v5.rpy:915
 translate chineses gokissb_3f8fbff4:
 
     # u "Uhm... agree I guess."
-    u ""
+    u "嗯...大概同意吧。"
 
 # game/v5/v5.rpy:924
 translate chineses gokissb_d8c759ea:
 
     # u "Hmm... disagree I guess."
-    u ""
+    u "嗯...大概不同意吧。"
 
 # game/v5/v5.rpy:929
 translate chineses gokissb_2d481ab0:
 
     # la "Huh."
-    la ""
+    la "呵。"
 
 # game/v5/v5.rpy:934
 translate chineses gokissb_cce18ef1:
 
     # la "Three: I consider myself a relationship person."
-    la ""
+    la "三：我认为我是个用情专一的人。"
 
 # game/v5/v5.rpy:944
 translate chineses gokissb_21ff373e:
 
     # u "I definitely do."
-    u ""
+    u "我一定是的。"
 
 # game/v5/v5.rpy:950
 translate chineses gokissb_e4412bdc:
 
     # la "Right answer."
-    la ""
+    la "回答正确。"
 
 # game/v5/v5.rpy:955
 translate chineses gokissb_859652e3:
 
     # u "Woah, I thought there was no right answer."
-    u ""
+    u "哇，我以为这里没有正确答案。"
 
 # game/v5/v5.rpy:960
 translate chineses gokissb_594e13dd:
 
     # la "Well, I may have lied about that."
-    la ""
+    la "那个，我可能在那一点上有说谎。"
 
 # game/v5/v5.rpy:965
 translate chineses gokissb_a15b70f3:
 
     # u "*Chuckles* I feel like this personality test is just a pretext so you can vet me."
-    u ""
+    u "*抿嘴笑*我感觉这个性格测试只是你用来仔细调查我的一个借口。"
 
 # game/v5/v5.rpy:970
 translate chineses gokissb_34525a0a:
 
     # la "That is certainly a possibility."
-    la ""
+    la "那也是有可能的。"
 
 # game/v5/v5.rpy:975
 translate chineses gokissb_2df543be:
 
     # u "Am I passing?"
-    u ""
+    u "那我通过了吗？"
 
 # game/v5/v5.rpy:980
 translate chineses gokissb_12e6a60f:
 
     # la "So far..."
-    la ""
+    la "目前来说..."
 
 # game/v5/v5.rpy:986
 translate chineses gokissb_5812dc4c:
 
     # la "Haha, I thought you were gonna say no."
-    la ""
+    la "哈哈，我还以为你会说不同意。"
 
 # game/v5/v5.rpy:991
 translate chineses gokissb_7d16bb34:
 
     # u "Really? Why?"
-    u ""
+    u "真的？为什么？"
 
 # game/v5/v5.rpy:996
 translate chineses gokissb_942e4020:
 
     # la "I don't know, you hang out with a lot of different girls, right?"
-    la ""
+    la "我不知道，你跟很多不同的女孩子都在玩，对吧？"
 
 # game/v5/v5.rpy:1001
 translate chineses gokissb_f69f1c5b:
 
     # u "Yeah, but that doesn't mean that I don't just have eyes for one of them."
-    u ""
+    u "是啊，但那并不表示我没有对她们中的一位情有独钟。"
 
 # game/v5/v5.rpy:1015
 translate chineses gokissb_91bf48e2:
 
     # u "Not really, sooo... disagree."
-    u ""
+    u "不全是，那...不同意。"
 
 # game/v5/v5.rpy:1023
 translate chineses gokissb_cb5ed241:
 
     # la "Well that's good to know."
-    la ""
+    la "喔那是不可不知的。"
 
 # game/v5/v5.rpy:1028
 translate chineses gokissb_6c37984e:
 
     # u "Lauren, it's not like-"
-    u ""
+    u "劳伦，不是那样-"
 
 # game/v5/v5.rpy:1033
 translate chineses gokissb_339fe58a:
 
     # la "Let's just move on."
-    la ""
+    la "我们还是继续吧。"
 
 # game/v5/v5.rpy:1039
 translate chineses gokissb_0414ffc0:
 
     # la "That's what I thought, haha."
-    la ""
+    la "那跟我想的一样，哈哈。"
 
 # game/v5/v5.rpy:1044
 translate chineses gokissb_7d16bb34_1:
 
     # u "Really? Why?"
-    u ""
+    u "真的？为什么？"
 
 # game/v5/v5.rpy:1049
 translate chineses gokissb_942e4020_1:
 
     # la "I don't know, you hang out with a lot of different girls, right?"
-    la ""
+    la "我不知道，你跟很多不同的女孩子都在玩，对吧？"
 
 # game/v5/v5.rpy:1054
 translate chineses gokissb_da98d599:
 
     # u "Yeah, I guess that's true."
-    u ""
+    u "是啊，我想那是真的。"
 
 # game/v5/v5.rpy:1064
 translate chineses gokissb_fb97281e:
 
     # la "So, these were the calibration questions and now we move on to some ethical dilemmas to test your character."
-    la ""
+    la "那，这些是校准问题，而我们现在会进入一些道德困境中来测试你的品格。"
 
 # game/v5/v5.rpy:1069
 translate chineses gokissb_fdbf6092:
 
     # u "What do you mean, test my character?"
-    u ""
+    u "你是什么意思，测试我的品格？"
 
 # game/v5/v5.rpy:1074
 translate chineses gokissb_814bed1c:
 
     # la "Well we're supposed to cross-reference your answers to these questions with your behavior in difficult situations."
-    la ""
+    la "喔我们应该是用你在困难处境下的行为来作为回答这些问题的参照。"
 
 # game/v5/v5.rpy:1076
 translate chineses gokissb_1a12ffaa:
 
     # la "Have you heard of the trolley problem?"
-    la ""
+    la "你有听说过有轨电车难题吗？"
 
 # game/v5/v5.rpy:1083
 translate chineses gokissb_bf3a16af:
 
     # u "Yeah, it's about choosing who the train runs over right?"
-    u ""
+    u "是啊，你关于选择谁会被电车碾死对吧？"
 
 # game/v5/v5.rpy:1088
 translate chineses gokissb_b9fe08b2:
 
     # la "Uhm yeah, that's broadly it."
-    la ""
+    la "嗯是啊，大致就是那样。"
 
 # game/v5/v5.rpy:1094
 translate chineses gokissb_f68b3c3f:
 
     # u "Uhm, no I don't think so."
-    u ""
+    u "嗯，不我想我没有。"
 
 # game/v5/v5.rpy:1099
 translate chineses gokissb_e9e4a51b:
 
     # la "Hmm, maybe it's best if you just experience it."
-    la ""
+    la "嗯，也许你直接体验它是最好的。"
 
 # game/v5/v5.rpy:1102
 translate chineses fa_ad_e5133ff6:
 
     # la "Okay, I want you to rest your head on the table and close your eyes."
-    la ""
+    la "好了，我要你把你的头躺在桌上休息并且闭上你的眼睛。"
 
 # game/v5/v5.rpy:1107
 translate chineses fa_ad_040c4976:
 
     # u "What? Right now?"
-    u ""
+    u "什么？现在？"
 
 # game/v5/v5.rpy:1112
 translate chineses fa_ad_a67df8d1:
 
     # la "Yeah. Come on, the personality test is only accurate if you participate."
-    la ""
+    la "是啊。来吧，这个性格测试只有在你参与的情况下才会准确。"
 
 # game/v5/v5.rpy:1117
 translate chineses fa_ad_b8911521:
 
     # u "Alright."
-    u ""
+    u "好吧。"
 
 # game/v5/v5.rpy:1122
 translate chineses fa_ad_252141bd:
 
     # u "So, now what?"
-    u ""
+    u "那，现在干嘛？"
 
 # game/v5/v5.rpy:1124
 translate chineses fa_ad_e23d4f94:
 
     # la "Now, imagine we're on a fast moving train."
-    la ""
+    la "现在，想像我们正处在一节快速行驶的列车里。"
 
 # game/v5/v5.rpy:1135
 translate chineses continuetrolley_d5f3f034:
 
     # u "Done."
-    u ""
+    u "成了。"
 
 # game/v5/v5.rpy:1140
 translate chineses continuetrolley_d2aab557:
 
     # la "Turn to the front, imagine there's a big red lever."
-    la ""
+    la "换到前方，相像那里有一个大型的红杆。"
 
 # game/v5/v5.rpy:1145
 translate chineses continuetrolley_6c920b56:
 
     # u "Okay, yeah."
-    u ""
+    u "好，是啊。"
 
 # game/v5/v5.rpy:1148
 translate chineses continuetrolley_176d311c:
 
     # la "You said that you struggle making difficult decisions, let's see how that impacts your behavior in the following situation."
-    la ""
+    la "你说过你对大事会犹豫不决，让我们来看看那会怎杨影响你在下面的状况中所做的决定。"
 
 # game/v5/v5.rpy:1151
 translate chineses continuetrolley_8b0ef562:
 
     # la "You said that you don't struggle making difficult decisions, let's see how if that's still true in the following situation."
-    la ""
+    la "你说过你不会对大事犹豫不决，让我们来看看那个回答在下面的状况中是否会产生变化。"
 
 # game/v5/v5.rpy:1153
 translate chineses continuetrolley_4620f874:
 
     # la "As the train's moving forward you come closer to an intersection."
-    la ""
+    la "随着列车向前行驶，你快来到了一个交叉口。"
 
 # game/v5/v5.rpy:1158
 translate chineses continuetrolley_5db69547:
 
     # la "The train's heading to the right side of the intersection, where five people are scared for their lives."
-    la ""
+    la "列车正朝着交叉口右边行驶，那里有五人正担心着他们的生命。"
 
 # game/v5/v5.rpy:1163
 translate chineses continuetrolley_a7c0fc3e:
 
     # la "Now, you could flick the lever in order for the train to switch to the left track. However, there's also a person scared for their life on that track."
-    la ""
+    la "现在，你可以启动红杆让列车换到左边的轨道上。不过，那里也有一个人在轨道上为他的生命而害怕。"
 
 # game/v5/v5.rpy:1168
 translate chineses continuetrolley_c5ad21f9:
 
     # la "Now it's up to you, will you actively decide to kill someone to save five people or will you stand by and see five times as many people die as needed?"
-    la ""
+    la "现在由你决定，你会为了救五人而主动杀掉一人，还是会袖手旁观的看着五个人失去生命？"
 
 # game/v5/v5.rpy:1173
 translate chineses continuetrolley_6b879436:
 
     # la "You can decide to switch the lever, but remember, you're on a timer. If you don't switch the lever within a few seconds, the train will keep its current course."
-    la ""
+    la "你可以决定启动红杆，但记住，你的时间有限。如果你没有在几秒钟之内启动红杆，列车就会继续朝着它原来的方向行驶。"
 
 # game/v5/v5.rpy:1193
 translate chineses trolleyaa_c441c6f8:
 
     # u "Holy fuck..."
-    u ""
+    u "我他妈操..."
 
 # game/v5/v5.rpy:1212
 translate chineses trolleyab_c441c6f8:
 
     # u "Holy fuck..."
-    u ""
+    u "我他妈操..."
 
 # game/v5/v5.rpy:1220
 translate chineses continueam_0aa37b28:
 
     # u "Jesus, that got pretty intense..."
-    u ""
+    u "天哪，一下子变得很紧张..."
 
 # game/v5/v5.rpy:1225
 translate chineses continueam_32671ba6:
 
     # la "I know these questions can be difficult..."
-    la ""
+    la "我知道这些问题可能会很困难..."
 
 # game/v5/v5.rpy:1227
 translate chineses continueam_71365da0:
 
     # la "Are you okay with doing another one?"
-    la ""
+    la "你可以再做一个吗？"
 
 # game/v5/v5.rpy:1234
 translate chineses continueam_671a2e88:
 
     # u "Yeah, let's do it."
-    u ""
+    u "是啊，我们开始吧。"
 
 # game/v5/v5.rpy:1239
 translate chineses continueam_2f4e8041:
 
     # la "Alright, imagine yourself back on the train, moving as fast as before."
-    la ""
+    la "好吧，相像你坐在列车后面，跟之前行驶的速度一样快。"
 
 # game/v5/v5.rpy:1246
 translate chineses continueam_72c4e8dc:
 
     # u "Okay, done."
-    u ""
+    u "好，成了。"
 
 # game/v5/v5.rpy:1251
 translate chineses continueam_432f6b54:
 
     # la "Look out the front again."
-    la ""
+    la "再次向前看。"
 
 # game/v5/v5.rpy:1256
 translate chineses continueam_b8911521:
 
     # u "Alright."
-    u ""
+    u "好吧。"
 
 # game/v5/v5.rpy:1259
 translate chineses continueam_34549fd7:
 
     # la "You said that you consider yourself an animal lover. Let's test how much you really love animals."
-    la ""
+    la "你说过你认为你自己是名动物爱好者。让我们来测试你到底有多爱动物。"
 
 # game/v5/v5.rpy:1262
 translate chineses continueam_e7c5613f:
 
     # la "You said that you wouldn't consider yourself an animal lover. Hopefully that'll make the next scenario easier."
-    la ""
+    la "你说过你不认为你自己是名动物爱好者。希望那样会让下一段剧情简单些。"
 
 # game/v5/v5.rpy:1264
 translate chineses continueam_57468466:
 
     # la "As the train's moving forward you come closer to another intersection."
-    la ""
+    la "随着列车向前行驶，你快来到了一个交叉口。"
 
 # game/v5/v5.rpy:1269
 translate chineses continueam_4f3d7069:
 
     # la "The train's heading to the right side of the intersection, where this time only one person's scared for their life."
-    la ""
+    la "列车正朝着交叉口右边行驶，而这次那里只有一人担心着他的生命。"
 
 # game/v5/v5.rpy:1274
 translate chineses continueam_e0e80fa6:
 
     # la "Just as last time, you can flick the lever in order for the train to switch to the left track. However, this time there's a dog sitting on the other track."
-    la ""
+    la "同上次一样，你可以启动红杆让列车换到左边的轨道上。不过，这次那里有一条狗坐在轨道上。"
 
 # game/v5/v5.rpy:1279
 translate chineses continueam_39320b34:
 
     # la "Now it's up to you, will you actively decide to kill the dog to save a human life or will you idly stand by and let her die?"
-    la ""
+    la "现在由你决定，你会为了救人而主动杀掉那只狗呢，还是会袖手旁观的看着她丧命？"
 
 # game/v5/v5.rpy:1284
 translate chineses continueam_6b879436:
 
     # la "You can decide to switch the lever, but remember, you're on a timer. If you don't switch the lever within a few seconds, the train will keep its current course."
-    la ""
+    la "你可以决定启动红杆，但记住，你的时间有限。如果你没有在几秒钟之内启动红杆，列车就会继续朝着它原来的方向行驶。"
 
 # game/v5/v5.rpy:1305
 translate chineses trolleyba_4e02250a:
 
     # u "Ahh fuck!"
-    u ""
+    u "啊操！"
 
 # game/v5/v5.rpy:1328
 translate chineses trolleybb_4e02250a:
 
     # u "Ahh fuck!"
-    u ""
+    u "啊操！"
 
 # game/v5/v5.rpy:1336
 translate chineses continuean_0f71c6ca:
 
     # u "Fucking hell, what is this personality test??"
-    u ""
+    u "他妈的，这是哪门子的性格测试？？"
 
 # game/v5/v5.rpy:1341
 translate chineses continuean_233d41a2:
 
     # la "Sorry, I know it's a lot but there's only one more to go."
-    la ""
+    la "对不起，我知道这些很棘手，但还剩下最后一个。"
 
 # game/v5/v5.rpy:1342
 translate chineses continuean_ba5d5eca:
 
     # la "Are you okay with doing the last one?"
-    la ""
+    la "你可以做最后一个吗？"
 
 # game/v5/v5.rpy:1349
 translate chineses continuean_25d8298b:
 
     # u "Yeah, okay."
-    u ""
+    u "是啊，好的。"
 
 # game/v5/v5.rpy:1354
 translate chineses continuean_392c0d34:
 
     # la "Alright, imagine yourself back on the train for one last time, moving as fast as before."
-    la ""
+    la "好吧，相像你最后一次回到了列车上，跟之前行驶的速度一样快。"
 
 # game/v5/v5.rpy:1360
 translate chineses continuean_944eb5f0:
 
     # u "Okay, I'm on the train."
-    u ""
+    u "好的，我在列车上了。"
 
 # game/v5/v5.rpy:1365
 translate chineses continuean_432f6b54:
 
     # la "Look out the front again."
-    la ""
+    la "再次向前看。"
 
 # game/v5/v5.rpy:1370
 translate chineses continuean_3c8517fb:
 
     # u "Sure thing."
-    u ""
+    u "当然。"
 
 # game/v5/v5.rpy:1373
 translate chineses continuean_a80040a0:
 
     # la "You said that you consider yourself a relationship person, let's put that to the test."
-    la ""
+    la "你说过你认为你自己是个用情专一的人，那我们就来试试吧。"
 
 # game/v5/v5.rpy:1376
 translate chineses continuean_b5778d35:
 
     # la "You said that you wouldn't consider yourself a relationship person, let's put that to the test."
-    la ""
+    la "你说过你不认为你自己是个用情专一的人，那我们就来试试吧。"
 
 # game/v5/v5.rpy:1378
 translate chineses continuean_57468466:
 
     # la "As the train's moving forward you come closer to another intersection."
-    la ""
+    la "随着列车向前行驶，你快来到了一个交叉口。"
 
 # game/v5/v5.rpy:1383
 translate chineses continuean_63bd70e2:
 
     # la "The train's heading to the right side of the intersection, where this time there's five people again, scared for their lives."
-    la ""
+    la "列车正朝着交叉口右边行驶，而这次那里又有五人，正担心着他们的生命。"
 
 # game/v5/v5.rpy:1388
 translate chineses continuean_1f143709:
 
     # la "As always, you can flick the lever in order for the train to switch to the left track. However, this time on the other track it's your ex-girlfriend Emily."
-    la ""
+    la "同之前一样，你可以启动红杆让列车换到左边的轨道上。不过，这次那边轨道上是你的前女友艾米丽。"
 
 # game/v5/v5.rpy:1390
 translate chineses continuean_253af055:
 
     # u "Lauren, what the fuck?! How do you even know about Emily?"
-    u ""
+    u "劳伦，他妈的怎么回事？！你怎么居然知道艾米丽？"
 
 # game/v5/v5.rpy:1395
 translate chineses continuean_fc4109de:
 
     # la "There's no time for this right now. Will you actively decide to kill Emily to save five human lives or will you let the train run it's course, keeping her alive but killing five people in the process?"
-    la ""
+    la "现在没时间说这个。你会为了救五人而主动杀掉艾米丽呢，还是会袖手旁观的让她生还，而在那过程中杀掉五个人？"
 
 # game/v5/v5.rpy:1400
 translate chineses continuean_6b879436:
 
     # la "You can decide to switch the lever, but remember, you're on a timer. If you don't switch the lever within a few seconds, the train will keep its current course."
-    la ""
+    la "你可以决定启动红杆，但记住，你的时间有限。如果你没有在几秒钟之内启动红杆，列车就会继续朝着它原来的方向行驶。"
 
 # game/v5/v5.rpy:1425
 translate chineses trolleyca_d16202fb:
 
     # u "Oh my god!"
-    u ""
+    u "哦我的天哪！"
 
 # game/v5/v5.rpy:1444
 translate chineses trolleycb_d16202fb:
 
     # u "Oh my god!"
-    u ""
+    u "哦我的天哪！"
 
 # game/v5/v5.rpy:1452
 translate chineses continueao_a6828a76:
 
     # u "Lauren, what the fuck?? Emily??"
-    u ""
+    u "劳伦，他妈的怎么回事？！艾米丽？？"
 
 # game/v5/v5.rpy:1458
 translate chineses continueao_3c937b18:
 
     # la "Sorry, I had to ask around in order to find a weak spot. My psych professor said this was essential for the last problem to work."
-    la ""
+    la "对不起，我为了寻找一处弱点不得不问了问。我的心理学教授说过这是让最后一个难题成立的必要前提。"
 
 # game/v5/v5.rpy:1468
 translate chineses continueao_7831761a:
 
     # u "*Sigh* It's okay, at least we're done now."
-    u ""
+    u "*叹气*没什么，至少我们现在做完了。"
 
 # game/v5/v5.rpy:1473
 translate chineses continueao_f9ecf14f:
 
     # la "Exactly, I'll let you know once I have analyzed the results."
-    la ""
+    la "正解，等我分析了这些结果后就会通知你的。"
 
 # game/v5/v5.rpy:1478
 translate chineses continueao_26825b3e:
 
     # la "In the meantime, I could use a coffee, wanna come with me?"
-    la ""
+    la "与此同时，我想喝杯咖啡，要跟我一起吗？"
 
 # game/v5/v5.rpy:1483
 translate chineses continueao_7cc710c6:
 
     # u "Sorry, Lauren. As much as I'd like to, I gotta pick up Imre from the hospital."
-    u ""
+    u "抱歉，劳伦。虽然我很愿意，但我得去医院接伊姆雷。"
 
 # game/v5/v5.rpy:1488
 translate chineses continueao_579f3000:
 
     # la "Oh, alright."
-    la ""
+    la "哦，好吧。"
 
 # game/v5/v5.rpy:1493
 translate chineses continueao_eb1e8286:
 
     # u "I'll see you later, okay?"
-    u ""
+    u "我们待会儿见，好吗？"
 
 # game/v5/v5.rpy:1498
 translate chineses continueao_88d040a5:
 
     # la "Yeah."
-    la ""
+    la "好啊。"
 
 # game/v5/v5.rpy:1501
 translate chineses continueao_3a40ec94:
 
     # la "Are we still gonna kiss goodbye?"
-    la ""
+    la "我们还要吻别吗？"
 
 # game/v5/v5.rpy:1506
 translate chineses continueao_198eec9c:
 
     # u "Oh yeah, of course."
-    u ""
+    u "哦是啊，当然。"
 
 # game/v5/v5.rpy:1524
 translate chineses continueao_daa843ad:
 
     # u "Alright, bye."
-    u ""
+    u "好吧，再见。"
 
 # game/v5/v5.rpy:1529
 translate chineses continueao_853e4089:
 
     # la "Bye."
-    la ""
+    la "再见。"
 
 # game/v5/v5.rpy:1540
 translate chineses continueao_b0b652ff:
 
     # u "Lauren, that was too fucking far. What are you, some mad scientist?"
-    u ""
+    u "劳伦，那他妈走得太远了。你是什么啊，疯狂科学家吗？"
 
 # game/v5/v5.rpy:1545
 translate chineses continueao_bbe88f90:
 
     # la "[name], I'm sorry, please."
-    la ""
+    la "[名字]，请接受我的道歉。"
 
 # game/v5/v5.rpy:1547
 translate chineses continueao_34bb646e:
 
     # la "How about we get a coffee and talk about it?"
-    la ""
+    la "要不我们去喝杯咖啡然后谈谈这些题？"
 
 # game/v5/v5.rpy:1552
 translate chineses continueao_c3a92748:
 
     # u "Uhm, I gotta pick up Imre from the hospital now."
-    u ""
+    u "嗯，我现在得去医院接伊姆雷了。"
 
 # game/v5/v5.rpy:1557
 translate chineses continueao_caaf72fc:
 
     # la "Oh, okay, yeah."
-    la ""
+    la "哦，好的，是啊。"
 
 # game/v5/v5.rpy:1562
 translate chineses continueao_eb1e8286_1:
 
     # u "I'll see you later, okay?"
-    u ""
+    u "我们待会儿见，好吧？"
 
 # game/v5/v5.rpy:1567
 translate chineses continueao_88d040a5_1:
 
     # la "Yeah."
-    la ""
+    la "好啊。"
 
 # game/v5/v5.rpy:1584
 translate chineses fb_b_f8d58710:
 
     # u "I'd rather not, can we just move on?"
-    u ""
+    u "我宁愿不要，我们跳过吗？"
 
 # game/v5/v5.rpy:1589
 translate chineses fb_b_b1544f13:
 
     # la "Yeah of course."
-    la ""
+    la "当然可以。"
 
 # game/v5/v5.rpy:1595
 translate chineses skiptrolleya_182b5ce1:
 
     # la "That'd be all. I'll let you know once I have analyzed the results."
-    la ""
+    la "那就算完了。等我分析了这些结果后就会通知你的。"
 
 # game/v5/v5.rpy:1600
 translate chineses skiptrolleya_26825b3e:
 
     # la "In the meantime, I could use a coffee, wanna come with me?"
-    la ""
+    la "与此同时，我想喝杯咖啡，要跟我一起吗？"
 
 # game/v5/v5.rpy:1605
 translate chineses skiptrolleya_7cc710c6:
 
     # u "Sorry, Lauren. As much as I'd like to, I gotta pick up Imre from the hospital."
-    u ""
+    u "抱歉，劳伦。虽然我很愿意，但我得去医院接伊姆雷。"
 
 # game/v5/v5.rpy:1610
 translate chineses skiptrolleya_579f3000:
 
     # la "Oh, alright."
-    la ""
+    la "哦，好吧。"
 
 # game/v5/v5.rpy:1615
 translate chineses skiptrolleya_eb1e8286:
 
     # u "I'll see you later, okay?"
-    u ""
+    u "我们待会儿见，好吗？"
 
 # game/v5/v5.rpy:1620
 translate chineses skiptrolleya_88d040a5:
 
     # la "Yeah."
-    la ""
+    la "好啊。"
 
 # game/v5/v5.rpy:1623
 translate chineses skiptrolleya_3a40ec94:
 
     # la "Are we still gonna kiss goodbye?"
-    la ""
+    la "我们还要吻别吗？"
 
 # game/v5/v5.rpy:1628
 translate chineses skiptrolleya_198eec9c:
 
     # u "Oh yeah, of course."
-    u ""
+    u "哦是啊，当然。"
 
 # game/v5/v5.rpy:1646
 translate chineses skiptrolleya_daa843ad:
 
     # u "Alright, bye."
-    u ""
+    u "好吧，再见。"
 
 # game/v5/v5.rpy:1651
 translate chineses skiptrolleya_853e4089:
 
     # la "Bye."
-    la ""
+    la "再见。"
 
 # game/v5/v5.rpy:1658
 translate chineses continueaf_64c5a1d5:
