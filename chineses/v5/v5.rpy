@@ -1762,745 +1762,745 @@ translate chineses apo_a5a44cd7:
 translate chineses apo_0fb46afe:
 
     # la "When you continued pushing your hand up my thigh after I told you I didn't want it, you... you made me feel disgusting."
-    la ""
+    la "在我告诉了你我不想要之后，你依然坚持用你的手在我的大腿上游走。你...你让我感到很恶心。"
 
 # game/v5/v5.rpy:1792
 translate chineses apo_fbde4541:
 
     # la "But I know that you're really sorry and I don't wanna be mad at you."
-    la ""
+    la "但我知道你真心道歉，而我也不想对你发怒。"
 
 # game/v5/v5.rpy:1794
 translate chineses apo_24b53218:
 
     # la "That's if you're okay with just being friends again for now?"
-    la ""
+    la "要是你不介意，我们现在还是做朋友好吗？"
 
 # game/v5/v5.rpy:1799
 translate chineses apo_2be5d203:
 
     # u "Yeah, of course."
-    u ""
+    u "是啊，当然。"
 
 # game/v5/v5.rpy:1804
 translate chineses apo_712a38ff:
 
     # la "Good."
-    la ""
+    la "好。"
 
 # game/v5/v5.rpy:1809
 translate chineses apo_a9d4953b:
 
     # u "What are you doing here anyways?"
-    u ""
+    u "话说回来，你在这里做什么？"
 
 # game/v5/v5.rpy:1814
 translate chineses apo_bd8378df:
 
     # la "For my psychology class I need someone to do a personality test with me which I can then analyze, but my friend just cancelled on me."
-    la ""
+    la "为了我的心理学课，我需要有人来做一个性格测试，之后我好做分析。但我的朋友刚爽约了。"
 
 # game/v5/v5.rpy:1819
 translate chineses apo_a4d576e1:
 
     # u "I can do it."
-    u ""
+    u "我可以做这个。"
 
 # game/v5/v5.rpy:1824
 translate chineses apo_0a0dccb2:
 
     # la "Really? That'd be amazing."
-    la ""
+    la "真的吗？那太棒了。"
 
 # game/v5/v5.rpy:1829
 translate chineses apo_9064cdac:
 
     # u "Yeah, sure."
-    u ""
+    u "是啊，当然。"
 
 # game/v5/v5.rpy:1834
 translate chineses apo_0fb46afe_1:
 
     # la "When you continued pushing your hand up my thigh after I told you I didn't want it, you... you made me feel disgusting."
-    la ""
+    la "在我告诉了你我不想要之后，你依然坚持用你的手在我的大腿上游走。你...你让我感到很恶心。"
 
 # game/v5/v5.rpy:1836
 translate chineses apo_92824800:
 
     # la "I trusted you and you? You didn't seem to care one bit."
-    la ""
+    la "我信任你而你？你一点都不在乎。"
 
 # game/v5/v5.rpy:1841
 translate chineses apo_69129072:
 
     # u "Lauren, I-"
-    u ""
+    u "劳伦，我-"
 
 # game/v5/v5.rpy:1846
 translate chineses apo_923d8e02:
 
     # la "Please just give me some time. I really don't wanna see you right now."
-    la ""
+    la "请再给我一些时间。我现在真的不想见你。"
 
 # game/v5/v5.rpy:1851
 translate chineses apo_a3b359ee:
 
     # u "Yeah, of course, sorry."
-    u ""
+    u "是啊，当然，对不起。"
 
 # game/v5/v5.rpy:1853
 translate chineses apo_1f9fd117:
 
     # u "(Fuck... but it's probably time to go pick up Imre with Riley anyways.)"
-    u ""
+    u "（操...但无论如何，是时候跟莱利一起去接伊姆雷了。"
 
 # game/v5/v5.rpy:1860
 translate chineses apo_6439e089_1:
 
     # la "[name], what are you doing here?"
-    la ""
+    la "[名字]，你来这里做什么？"
 
 # game/v5/v5.rpy:1865
 translate chineses apo_449c6579_1:
 
     # u "Listen, I wanted to apologize, I went too far and I'm sorry."
-    u ""
+    u "听着，我想道歉，对不起我做得太过分了。"
 
 # game/v5/v5.rpy:1867
 translate chineses apo_a5a44cd7_1:
 
     # u "I- I just got carried away."
-    u ""
+    u "我-我只是被冲昏了头脑。"
 
 # game/v5/v5.rpy:1872
 translate chineses apo_0fb46afe_2:
 
     # la "When you continued pushing your hand up my thigh after I told you I didn't want it, you... you made me feel disgusting."
-    la ""
+    la "在我告诉了你我不想要之后，你依然坚持用你的手在我的大腿上游走。你...你让我感到很恶心。"
 
 # game/v5/v5.rpy:1874
 translate chineses apo_0c3b9dbd:
 
     # la "But my sister helped me understand that you just made a mistake and I really don't wanna be mad you."
-    la ""
+    la "但我姐让我明白了你只是做了件错事，而我也不想继续恼你了。"
 
 # game/v5/v5.rpy:1876
 translate chineses apo_24b53218_1:
 
     # la "That's if you're okay with just being friends again for now?"
-    la ""
+    la "要是你不介意，我们现在还是做普通朋友好吗？"
 
 # game/v5/v5.rpy:1881
 translate chineses apo_2be5d203_1:
 
     # u "Yeah, of course."
-    u ""
+    u "是啊，当然。"
 
 # game/v5/v5.rpy:1886
 translate chineses apo_712a38ff_1:
 
     # la "Good."
-    la ""
+    la "好。"
 
 # game/v5/v5.rpy:1891
 translate chineses apo_a9d4953b_1:
 
     # u "What are you doing here anyways?"
-    u ""
+    u "话说回来，你在这里做什么？"
 
 # game/v5/v5.rpy:1896
 translate chineses apo_bd8378df_1:
 
     # la "For my psychology class I need someone to do a personality test with me which I can then analyze, but my friend just cancelled on me."
-    la ""
+    la "为了我的心理学课，我需要有人来做一个性格测试，之后我好做分析。但我的朋友刚爽约了。"
 
 # game/v5/v5.rpy:1901
 translate chineses apo_a4d576e1_1:
 
     # u "I can do it."
-    u ""
+    u "我可以做这个。"
 
 # game/v5/v5.rpy:1906
 translate chineses apo_0a0dccb2_1:
 
     # la "Really? That'd be amazing."
-    la ""
+    la "真的吗？那太棒了。"
 
 # game/v5/v5.rpy:1911
 translate chineses apo_9064cdac_1:
 
     # u "Yeah, sure."
-    u ""
+    u "是啊，当然。"
 
 # game/v5/v5.rpy:1916
 translate chineses apo_6439e089_2:
 
     # la "[name], what are you doing here?"
-    la ""
+    la "[名字]，你来这里做什么？"
 
 # game/v5/v5.rpy:1921
 translate chineses apo_d8e5cc2a:
 
     # u "Listen, I wanted to apologize, I was being insensitive and I'm sorry."
-    u ""
+    u "听着，我想道歉，对不起我感觉太迟钝了。"
 
 # game/v5/v5.rpy:1923
 translate chineses apo_2d7ff3b9:
 
     # u "I- I just wanted to be honest with you."
-    u ""
+    u "我-我只是想诚实对你。"
 
 # game/v5/v5.rpy:1933
 translate chineses apo_19a37158:
 
     # la "Thinking of you with another girl made me feel really weird."
-    la ""
+    la "一想到你跟别的女孩一起就让我感到很不愉快。"
 
 # game/v5/v5.rpy:1935
 translate chineses apo_1dbb08ca:
 
     # la "But I know that I shouldn't be mad because we weren't technically dating or anything."
-    la ""
+    la "但我知道我不应该恼火，因为我们实际上还不是男女朋友。"
 
 # game/v5/v5.rpy:1940
 translate chineses apo_a48a00f4:
 
     # la "So, how about we just continue where we left off?"
-    la ""
+    la "那，要不我们接着从上次暂停的地方开始？"
 
 # game/v5/v5.rpy:1945
 translate chineses apo_999eec7d:
 
     # u "Yeah, I'd love that."
-    u ""
+    u "好啊，我很乐意。"
 
 # game/v5/v5.rpy:1947
 translate chineses apo_c6415055:
 
     # u "And don't worry, now that I know how important this is to you, I'll count it as us dating from now on."
-    u ""
+    u "还有别担心，现在我知道这对你有多么重要之后，我会从现在开始当我们是男女朋友了。"
 
 # game/v5/v5.rpy:1952
 translate chineses apo_712a38ff_2:
 
     # la "Good."
-    la ""
+    la "好。"
 
 # game/v5/v5.rpy:1957
 translate chineses apo_a9d4953b_2:
 
     # u "What are you doing here anyways?"
-    u ""
+    u "话说回来，你在这里做什么？"
 
 # game/v5/v5.rpy:1962
 translate chineses apo_bd8378df_2:
 
     # la "For my psychology class I need someone to do a personality test with me which I can then analyze, but my friend just cancelled on me."
-    la ""
+    la "为了我的心理学课，我需要有人来做一个性格测试，之后我好做分析。但我的朋友刚爽约了。"
 
 # game/v5/v5.rpy:1967
 translate chineses apo_a4d576e1_2:
 
     # u "I can do it."
-    u ""
+    u "我可以做这个。"
 
 # game/v5/v5.rpy:1972
 translate chineses apo_0a0dccb2_2:
 
     # la "Really? That'd be amazing."
-    la ""
+    la "真的吗？那太棒了。"
 
 # game/v5/v5.rpy:1977
 translate chineses apo_9064cdac_2:
 
     # u "Yeah, sure."
-    u ""
+    u "是啊，当然。"
 
 # game/v5/v5.rpy:1990
 translate chineses apo_19a37158_1:
 
     # la "Thinking of you with another girl made me feel really weird."
-    la ""
+    la "一想到你跟别的女孩一起就让我感到很不愉快。"
 
 # game/v5/v5.rpy:1992
 translate chineses apo_f71146c2:
 
     # la "I don't wanna be mad at you, but can we just put a pause on the whole dating thing for now and go back to just being friends again?"
-    la ""
+    la "我不想继续恼着你，但我们能不能现在暂时把整个男女朋友的事放一边，先回到重新做普通朋友上？"
 
 # game/v5/v5.rpy:1997
 translate chineses apo_4f9201bc:
 
     # u "Uhm... yeah, of course."
-    u ""
+    u "嗯...是啊，当然。"
 
 # game/v5/v5.rpy:2002
 translate chineses apo_712a38ff_3:
 
     # la "Good."
-    la ""
+    la "好。"
 
 # game/v5/v5.rpy:2007
 translate chineses apo_a9d4953b_3:
 
     # u "What are you doing here anyways?"
-    u ""
+    u "话说回来，你在这里做什么？"
 
 # game/v5/v5.rpy:2012
 translate chineses apo_bd8378df_3:
 
     # la "For my psychology class I need someone to do a personality test with me which I can then analyze, but my friend just cancelled on me."
-    la ""
+    la "为了我的心理学课，我需要有人来做一个性格测试，之后我好做分析。但我的朋友刚爽约了。"
 
 # game/v5/v5.rpy:2017
 translate chineses apo_a4d576e1_3:
 
     # u "I can do it."
-    u ""
+    u "我可以做这个。"
 
 # game/v5/v5.rpy:2022
 translate chineses apo_0a0dccb2_3:
 
     # la "Really? That'd be amazing."
-    la ""
+    la "真的吗？那太棒了。"
 
 # game/v5/v5.rpy:2027
 translate chineses apo_9064cdac_3:
 
     # u "Yeah, sure."
-    u ""
+    u "是啊，当然。"
 
 # game/v5/v5.rpy:2037
 translate chineses apo_19a37158_2:
 
     # la "Thinking of you with another girl made me feel really weird."
-    la ""
+    la "一想到你跟别的女孩一起就让我感到很不愉快。"
 
 # game/v5/v5.rpy:2039
 translate chineses apo_35de95e2:
 
     # la "But my sister really helped me understand that I shouldn't be mad at you for it."
-    la ""
+    la "但我姐真的让我明白了我不该继续恼你了。"
 
 # game/v5/v5.rpy:2044
 translate chineses apo_a48a00f4_1:
 
     # la "So, how about we just continue where we left off?"
-    la ""
+    la "那，要不我们接着从上次暂停的地方开始？"
 
 # game/v5/v5.rpy:2049
 translate chineses apo_999eec7d_1:
 
     # u "Yeah, I'd love that."
-    u ""
+    u "好啊，我很乐意。"
 
 # game/v5/v5.rpy:2051
 translate chineses apo_c6415055_1:
 
     # u "And don't worry, now that I know how important this is to you, I'll count it as us dating from now on."
-    u ""
+    u "还有别担心，现在我知道这对你有多么重要之后，我会从现在开始当我们是男女朋友了。"
 
 # game/v5/v5.rpy:2056
 translate chineses apo_712a38ff_4:
 
     # la "Good."
-    la ""
+    la "好。"
 
 # game/v5/v5.rpy:2061
 translate chineses apo_a9d4953b_4:
 
     # u "What are you doing here anyways?"
-    u ""
+    u "话说回来，你在这里做什么？"
 
 # game/v5/v5.rpy:2066
 translate chineses apo_bd8378df_4:
 
     # la "For my psychology class I need someone to do a personality test with me which I can then analyze, but my friend just cancelled on me."
-    la ""
+    la "为了我的心理学课，我需要有人来做一个性格测试，之后我好做分析。但我的朋友刚爽约了。"
 
 # game/v5/v5.rpy:2071
 translate chineses apo_a4d576e1_4:
 
     # u "I can do it."
-    u ""
+    u "我可以做这个。"
 
 # game/v5/v5.rpy:2076
 translate chineses apo_0a0dccb2_4:
 
     # la "Really? That'd be amazing."
-    la ""
+    la "真的吗？那太棒了。"
 
 # game/v5/v5.rpy:2081
 translate chineses apo_9064cdac_4:
 
     # u "Yeah, sure."
-    u ""
+    u "是啊，当然。"
 
 # game/v5/v5.rpy:2094
 translate chineses gokiss_b00ceeb6:
 
     # u "*Chuckles* What was that for?"
-    u ""
+    u "*抿嘴笑*那是做什么啊？"
 
 # game/v5/v5.rpy:2099
 translate chineses gokiss_87dbc735:
 
     # la "I mean we are kinda dating again and I felt like kissing you, so if you don't have any complaints..."
-    la ""
+    la "我的意思是我们又是男女朋友了，而感觉想要亲你，所以如果你没什么要抱怨的话..."
 
 # game/v5/v5.rpy:2104
 translate chineses gokiss_80148402:
 
     # u "(If we kiss in public, other girls are bound to find out that I'm dating Lauren.)"
-    u ""
+    u "（如果我们在大庭广众下接吻，其他女孩迟早会发现我跟劳伦是男女朋友。）"
 
 # game/v5/v5.rpy:2111
 translate chineses gokiss_6a30a294:
 
     # u "Complaints? Kissing you rules."
-    u ""
+    u "抱怨？能亲你很好。"
 
 # game/v5/v5.rpy:2116
 translate chineses gokiss_92f5a1ab:
 
     # la "That's what I wanted to hear."
-    la ""
+    la "那才是我想听的。"
 
 # game/v5/v5.rpy:2118
 translate chineses gokiss_5fb6fc6c:
 
     # la "Alright, let's get started with the test, shall we?"
-    la ""
+    la "好吧，让我开始这个测试吧？"
 
 # game/v5/v5.rpy:2126
 translate chineses gokiss_9eb9ba4e:
 
     # u "Uhm, actually do you mind if we don't do that in public?"
-    u ""
+    u "嗯，实际上你介意我们不要在大庭广众下那么做吗？"
 
 # game/v5/v5.rpy:2131
 translate chineses gokiss_e57fe7b8:
 
     # la "Oh.... yeah, of course, I'm sorry, I didn't-"
-    la ""
+    la "哦...是啊，当然，抱歉啦，我没有-"
 
 # game/v5/v5.rpy:2136
 translate chineses gokiss_07f0645f:
 
     # u "It's not that I don't like kissing you, it's just..."
-    u ""
+    u "不是我不喜欢亲你，只是..."
 
 # game/v5/v5.rpy:2138
 translate chineses gokiss_c9c1b2f5:
 
     # u "I'm not really into public displays of affection."
-    u ""
+    u "我不太喜欢当众示爱。"
 
 # game/v5/v5.rpy:2140
 translate chineses gokiss_bc0e3463:
 
     # u "It's uhm... how I was raised."
-    u ""
+    u "这是嗯...受家教的影响。"
 
 # game/v5/v5.rpy:2145
 translate chineses gokiss_055387df:
 
     # la "Oh, and a little kiss like that is already too much?"
-    la ""
+    la "哦，稍微亲一下就这么不得了啦？"
 
 # game/v5/v5.rpy:2147
 translate chineses gokiss_9d4d6ec5:
 
     # la "I wasn't talking about a full on make out session, haha."
-    la ""
+    la "我又不是说要来个火力全开的热吻，哈哈。"
 
 # game/v5/v5.rpy:2149
 translate chineses gokiss_add5a249:
 
     # la "Also, it's not like anyone will see us here."
-    la ""
+    la "而且，又没有人会在这里看到我们。"
 
 # game/v5/v5.rpy:2154
 translate chineses gokiss_71159b61:
 
     # u "(Shit, she's pushing back. But if I want to avoid other girls finding out about us, I can't just kiss her in public.)"
-    u ""
+    u "（糟，她不太好说服。但如果我想避免别的女孩发现我们的话，我可不能当众吻她。）"
 
 # game/v5/v5.rpy:2164
 translate chineses gokiss_4b71f0f5:
 
     # u "Sorry, but can we just make sure we're alone before we do stuff like that. I just feel uncomfortable even just kissing in public."
-    u ""
+    u "不好意思，但我们能确认周围没有别人后再那样做吗？我只是觉得当众接吻不太合适。"
 
 # game/v5/v5.rpy:2169
 translate chineses gokiss_a3390623:
 
     # la "Okay, yeah. No public display of affection, I get it..."
-    la ""
+    la "好，可以。不能有当众示爱，我明白了..."
 
 # game/v5/v5.rpy:2171
 translate chineses gokiss_a56b8eea:
 
     # la "Let's just get started with the test."
-    la ""
+    la "让我们开始这个测试吧。"
 
 # game/v5/v5.rpy:2178
 translate chineses gokiss_60785ac8:
 
     # u "Actually, you're right, sorry. A kiss is fine."
-    u ""
+    u "事实上，你是对的，抱歉。亲嘴没问题。"
 
 # game/v5/v5.rpy:2180
 translate chineses gokiss_5ad03eed:
 
     # u "Let's just not go overboard, haha."
-    u ""
+    u "只要我们做得不太过火就行，哈哈。"
 
 # game/v5/v5.rpy:2185
 translate chineses gokiss_f190eaf9:
 
     # la "Yeah, of course."
-    la ""
+    la "是啊，当然。"
 
 # game/v5/v5.rpy:2190
 translate chineses gokiss_7498febe:
 
     # la "At least not in public."
-    la ""
+    la "至少不会在大庭广众之下。"
 
 # game/v5/v5.rpy:2195
 translate chineses gokiss_7bfb88ba:
 
     # u "Hahaha."
-    u ""
+    u "哈哈哈。"
 
 # game/v5/v5.rpy:2200
 translate chineses gokiss_e0c3caf6:
 
     # la "Let's get started with the test, shall we?"
-    la ""
+    la "让我们开始这个测试，好吧？"
 
 # game/v5/v5.rpy:2218
 translate chineses hospitala_9b84edb9:
 
     # u "So you think Imre will be alright?"
-    u ""
+    u "那你认为伊姆雷会没事吗？"
 
 # game/v5/v5.rpy:2223
 translate chineses hospitala_af49317d:
 
     # ri "You know Imre, he'll be fine. I'm sure once he's fully recovered he'll be twice as strong as before."
-    ri ""
+    ri "你知道伊姆雷，他会没事的。我肯定他一旦完全恢复之后，他会是过去两倍的强壮。"
 
 # game/v5/v5.rpy:2228
 translate chineses hospitala_f7249ba9:
 
     # ri "*Giggles*"
-    ri ""
+    ri "*痴笑*"
 
 # game/v5/v5.rpy:2230
 translate chineses hospitala_84334422:
 
     # u "*Laughingly* Yeah, you're right. He's relentless. You should see how he trains me."
-    u ""
+    u "*大笑*是啊，你是对的。他就是坚韧不饶。你该看看他是怎么训练我的。"
 
 # game/v5/v5.rpy:2235
 translate chineses hospitala_caedb6e2:
 
     # ri "I bet that's a show."
-    ri ""
+    ri "我想一定很精彩。"
 
 # game/v5/v5.rpy:2240
 translate chineses hospitala_2316e144:
 
     # u "Yeah... he's got one tough head on his shoulder."
-    u ""
+    u "是啊...他就是那样的猛男。"
 
 # game/v5/v5.rpy:2245
 translate chineses hospitala_d60de8a6:
 
     # ri "Yes, yes he does..."
-    ri ""
+    ri "是的，他就是..."
 
 # game/v5/v5.rpy:2250
 translate chineses hospitala_f6df7b46:
 
     # u " Mhmmm..."
-    u ""
+    u "嗯..."
 
 # game/v5/v5.rpy:2257
 translate chineses hospitala_2285978a:
 
     # "*Bus stops*"
-    ""
+    "*公车停车*"
 
 # game/v5/v5.rpy:2269
 translate chineses hospitala_e8154167:
 
     # u "Aye! Imre."
-    u ""
+    u "哎！伊姆雷。"
 
 # game/v5/v5.rpy:2274
 translate chineses hospitala_b56e3c55:
 
     # imre "What's up bro? Hey Riley. Thanks for coming guys."
-    imre ""
+    imre "怎样啦兄弟？嘿莱利。谢谢你们能来。"
 
 # game/v5/v5.rpy:2279
 translate chineses hospitala_390b10ff:
 
     # ri "Yeah, of course."
-    ri ""
+    ri "是啊，当然。"
 
 # game/v5/v5.rpy:2290
 translate chineses hospitala_f959f467:
 
     # imre "*Winces in pain*"
-    imre ""
+    imre "*因疼痛畏缩*"
 
 # game/v5/v5.rpy:2295
 translate chineses hospitala_2ff9262d:
 
     # imre "Ah, yeah, shit. Still tryin' to recover."
-    imre ""
+    imre "啊，是啊，糟。还在恢复阶段。"
 
 # game/v5/v5.rpy:2300
 translate chineses hospitala_acb99ae3:
 
     # u "My bad."
-    u ""
+    u "是我不好。"
 
 # game/v5/v5.rpy:2305
 translate chineses hospitala_048400eb:
 
     # imre "It's cool, just a couple of broken ribs."
-    imre ""
+    imre "没什么，只不过断了几根肋骨。"
 
 # game/v5/v5.rpy:2310
 translate chineses hospitala_88a0b29c:
 
     # u "Glad you're feeling a bit better."
-    u ""
+    u "很高兴你感觉好些了。"
 
 # game/v5/v5.rpy:2315
 translate chineses hospitala_aaff17b7:
 
     # imre "Yeah, me too."
-    imre ""
+    imre "是啊，我也是。"
 
 # game/v5/v5.rpy:2320
 translate chineses hospitala_ff82a13e:
 
     # ri "Alright, I know you two love birds have a lot to catch up on, but I really don't wanna miss the next bus."
-    ri ""
+    ri "好吧，我知道你们两位情人有很多话要谈，但我真的不想错过下一班公车。"
 
 # game/v5/v5.rpy:2325
 translate chineses hospitala_93ff3184:
 
     # imre "*Laughs*"
-    imre ""
+    imre "*大笑*"
 
 # game/v5/v5.rpy:2327
 translate chineses hospitala_7b9b9fcb:
 
     # u "*Laughingly* Yeah, alright."
-    u ""
+    u "*大笑*是啊，好吧。"
 
 # game/v5/v5.rpy:2351
 translate chineses hospitala_65e8719f:
 
     # u "(Is that Emily?)"
-    u ""
+    u "（那是艾米丽？）"
 
 # game/v5/v5.rpy:2365
 translate chineses hospitala_f8f8b173:
 
     # em "You got some ice cream on your nose?"
-    em ""
+    em "你的鼻子上沾了些冰淇凌？"
 
 # game/v5/v5.rpy:2370
 translate chineses hospitala_adbb2758:
 
     # u "*Laughs* Hey!"
-    u ""
+    u "*大笑*嘿！"
 
 # game/v5/v5.rpy:2399
 translate chineses hospitala_ef2f1671:
 
     # u "What?"
-    u ""
+    u "什么？"
 
 # game/v5/v5.rpy:2404
 translate chineses hospitala_7c1faae7:
 
     # em "Nothing."
-    em ""
+    em "没什么。"
 
 # game/v5/v5.rpy:2409
 translate chineses hospitala_ae0ff28c:
 
     # u "Why are you looking at me like that?"
-    u ""
+    u "你为什么那样看我？"
 
 # game/v5/v5.rpy:2414
 translate chineses hospitala_87c45683:
 
     # em "I just love you."
-    em ""
+    em "我只是喜爱你。"
 
 # game/v5/v5.rpy:2419
 translate chineses hospitala_384301b8:
 
     # u "I love you too."
-    u ""
+    u "我也爱你。"
 
 # game/v5/v5.rpy:2433
 translate chineses hospitala_50422939:
 
     # u "*Takes a deep breath*"
-    u ""
+    u "*深吸气*"
 
 # game/v5/v5.rpy:2438
 translate chineses hospitala_06896949:
 
     # u "I'll be right back guys."
-    u ""
+    u "伙计们我马上就回来。"
 
 # game/v5/v5.rpy:2448
 translate chineses hospitala_2e4a8818:
 
     # u "Emily?"
-    u ""
+    u "艾米丽？"
 
 # game/v5/v5.rpy:2453
 translate chineses hospitala_6fc18859:
 
     # unknown "Huh?"
-    unknown ""
+    unknown "呵？"
 
 # game/v5/v5.rpy:2458
 translate chineses hospitala_93f869b7:
 
     # u "Oh, sorry, I thought you were someone else."
-    u ""
+    u "哦，抱歉，我以为你是别人。"
 
 # game/v5/v5.rpy:2469
 translate chineses hospitala_d3621754:
 
     # ri "I'll see you guys later."
-    ri ""
+    ri "我们待会儿见。"
 
 # game/v5/v5.rpy:2474
 translate chineses hospitala_2e8c8088:
 
     # u "Yeah, sounds good."
-    u ""
+    u "是啊，听上去不错。"
 
 # game/v5/v5.rpy:2479
 translate chineses hospitala_fb1f07b5:
 
     # imre "Bye, Riley."
-    imre ""
+    imre "再见，莱利。"
 
 # game/v5/v5.rpy:2486
 translate chineses hospitala_6f7ba568:
