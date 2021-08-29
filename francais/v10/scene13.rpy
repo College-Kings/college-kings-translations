@@ -1,201 +1,209 @@
-# SCENE 13: MC at wolves house/redecorate
-# Locations: Wolves house/MC Wolves Room/MC New Wolves Room
-# Characters: MC (Outfit 1), Chris (Outfit 1), Perry (Outfit 1)
-# Time: Sunday Morning
-# If you need paint and brush use industrial clutter 2: https://mega.nz/file/4YgihJxL#CC_JVYehPM-krceVG1d7x-0K8MNhwfIAfwtLVDjrQ3I
+# TODO: Translation updated at 2021-07-11 20:37
 
-label v10_wolves_redec:
-    if v10s10_hangWLinds:
-        scene v10swhr1 # TPP. Show MC walking through the front door of the Wolves house.
-        with Fade(1, 0, 1)
+# game/v10/scene13.rpy:23
+translate empty v10_wolves_redec_4df48b01:
 
-        play sound "sounds/dooropen.mp3"
+    # u "Hey Chris, I really appreciate the room and all, but I haven't had a chance to make it scream [name] yet. It cool if I jazz it up a bit?"
+    u "Salut Chris, j'apprécie vraiment la chambre et tout le reste, mais je n'ai pas encore eu l'occasion de la personaliser [name]. C'est cool si je l'améliore un peu ?"
 
-    else:
-        scene v10swhr8 # TPP. Show MC walking down the stairs of the Wolves house.
-        with Fade(1, 0, 1)
+# game/v10/scene13.rpy:28
+translate empty v10_wolves_redec_330c5ce3:
 
-    pause 0.75
+    # ch "I was wondering when you'd get tired of blank walls. There's some supplies in the closet in your room. We're actually getting ready to decorate the whole house."
+    ch "Je me demandais quand tu en aurais marre des murs blancs. Il y a des fournitures dans le placard de ta chambre. Nous nous préparons actuellement à décorer toute la maison.
 
-    play music "music/v10/Scene 13/Track Scene 13.mp3" fadein 3
+# game/v10/scene13.rpy:33
+translate empty v10_wolves_redec_db45c5a6:
 
-    scene v10swhr2 # FPP. Show Chris stood in the Wolves hallway this angle must make sense for both whr1 & whr8, Chris neutral, mouth closed.
-    with dissolve
+    # u "Really!? Good timing haha. Got a theme in mind?"
+    u "Vraiment !? Bon timing haha. Vous avez un thème en tête ?"
 
-    u "Hé Chris, j'apprécie vraiment la chambre et tout le reste, mais je n'ai pas encore eu l'occasion de la faire crier [name]. C'est cool si je l'améliore un peu ?"
+# game/v10/scene13.rpy:38
+translate empty v10_wolves_redec_1f934751:
 
-    scene v10swhr2a # FPP. Same as whr2, Chris neutral, mouth open.
-    with dissolve
+    # ch "Yeah man! Make it scream 'Wolves', you know?"
+    ch "Oui mon gars! Je veux que ça hurle « Wolves », tu sais ?"
 
-    ch "Je me demandais quand tu en aurais assez des murs blancs. Il y a des fournitures dans le placard de ta chambre. En fait, on se prépare à décorer toute la maison."
+# game/v10/scene13.rpy:43
+translate empty v10_wolves_redec_b7b4eb93:
 
-    scene v10swhr2
-    with dissolve
+    # u "Yeah that sounds great!"
+    u "Ouais ça sonne bien ! "
 
-    u "Vraiment ! ? Bon timing haha. Vous avez un thème en tête ?"
+# game/v10/scene13.rpy:48
+translate empty v10_wolves_redec_65d1abb6:
 
-    scene v10swhr2a
-    with dissolve
+    # ch "Go for it, man! Have fun."
+    ch "Vas-y, mec ! Amuse-toi."
 
-    ch "Ouais, mec ! Fais en sorte que ça crie \"Wolves\", tu vois ?"
+# game/v10/scene13.rpy:58
+translate empty v10_wolves_redec_afe5b98b:
 
-    scene v10swhr2
-    with dissolve
+    # guyd "Hey man..."
+    guyd "Salut mec..."
 
-    u "Oui, ça a l'air génial !"
+# game/v10/scene13.rpy:63
+translate empty v10_wolves_redec_57d8d8ca:
 
-    scene v10swhr2a
-    with dissolve
+    # u "Hey, feels like you've kinda been hiding since the fight."
+    u "Salut, j'ai l'impression que tu te caches depuis le combat."
 
-    ch "Vas-y, mec ! Amuse-toi bien."
+# game/v10/scene13.rpy:68
+translate empty v10_wolves_redec_b5435dd1:
 
-    scene v10swhr3 # TPP. Show MC looking for supplies in his closet in his room, in the closet there should be some tins of paint and brushes.
-    with fade
+    # guyd "Yeah a little bit. What are you doing in the closet?"
+    guyd "Oui, un petit peu. Qu'est-ce que tu fais dans le placard ?"
 
-    pause 0.75
-    
-    scene v10swhr4 # FPP. Show Perry stood at the door of MC's room, Perry neutral, mouth open.
-    with dissolve
+# game/v10/scene13.rpy:73
+translate empty v10_wolves_redec_0c35028a:
 
-    guyd "Hé mec..."
+    # u "I'm getting ready to decorate my room."
+    u "Je me prépare à décorer ma chambre."
 
-    scene v10swhr4a # FPP. Same as whr4, Perry neutral, mouth closed.
-    with dissolve
+# game/v10/scene13.rpy:78
+translate empty v10_wolves_redec_f962524a:
 
-    u "Hé, on dirait que tu te caches depuis le combat.."
+    # guyd "Oh wow, you wants some help?"
+    guyd "Oh wouah, tu veux de l'aide ?"
 
-    scene v10swhr4
-    with dissolve
+# game/v10/scene13.rpy:89
+translate empty v10_wolves_redec_af42423d:
 
-    guyd "Oui, un peu. Qu'est-ce que tu fais dans le placard ?"
+    # u "Yeah I'd love some help. Will go much faster haha."
+    u "Oui, j'aimerais de l'aide. Ça ira beaucoup plus vite haha."
 
-    scene v10swhr4a
-    with dissolve
+# game/v10/scene13.rpy:99
+translate empty v10_wolves_redec_70d4e0c1:
 
-    u "Je me prépare à décorer ma chambre.."
+    # u "Hey man, hope you don't mind me asking, but what made you back out at the brawl?"
+    u "Salut mec, j'espère que ça ne te dérange pas que je demande, mais qu'est-ce qui t'a fait reculer à la bagarre ?"
 
-    scene v10swhr4b # FPP. Same as whr4, Perry smile, mouth open.
-    with dissolve
+# game/v10/scene13.rpy:104
+translate empty v10_wolves_redec_1f678b80:
 
-    guyd "Oh wow, tu veux de l'aide ?"
+    # guyd "I was waiting for you to bring that up. It's kind of embarassing, man."
+    guyd "J'attendais que tu en parlie. C'est un peu embarrassant, mec."
 
-    scene v10swhr4c # FPP. Same as whr4, Perry smile, mouth closed.
-    with dissolve
+# game/v10/scene13.rpy:109
+translate empty v10_wolves_redec_cbb67e80:
 
-    menu:
-        "Accepter l'aide":
-            $ addPoint("bro", 1)
+    # u "Embarassing? What's up?"
+    u "Gênant ? Comment ça ?"
 
-            $ v10_perry_help_room = True
+# game/v10/scene13.rpy:114
+translate empty v10_wolves_redec_83b04292:
 
-            u "Oui, j'aimerais avoir de l'aide. Ça ira beaucoup plus vite, haha."
+    # guyd "Well, the reason I ran and chose not to fight isn't because I didn't want to, it's because I couldn't."
+    guyd "Eh bien, la raison pour laquelle j'ai couru et choisi de ne pas me battre n'est pas parce que je ne le voulais pas, c'est parce que je ne pouvais pas."
 
-            scene v10swhr5 # TPP. Show Perry and MC stood near a wall both looking around thinking about where to start, paint brushes in hand and tins of white paint next to them on the floor.
-            with fade
+# game/v10/scene13.rpy:119
+translate empty v10_wolves_redec_3f445921:
 
-            pause 0.75
+    # u "What do you mean you couldn't?"
+    u "Comment ça, tu ne pouvais pas ?"
 
-            scene v10swhr6 # FPP. Show Perry, neutral expression, mouth closed.
-            with dissolve
+# game/v10/scene13.rpy:124
+translate empty v10_wolves_redec_04467af6:
 
-            u "Hé mec, j'espère que ça ne te dérange pas que je demande, mais qu'est-ce qui t'a fait reculer à la bagarre ?"
+    # guyd "Man, I got sick..."
+    guyd "Mec, je suis tombé malade..."
 
-            scene v10swhr6a # FPP. Same as whr6, slight embarrassed expression, mouth open.
-            with dissolve
+# game/v10/scene13.rpy:129
+translate empty v10_wolves_redec_1899c846:
 
-            guyd "J'attendais que tu en parles. C'est un peu embarrassant, mec."
+    # u "Sick from what?"
+    u "Malade de quoi ?"
 
-            scene v10swhr6b # FPP. Same as whr6, slight embarrassed expression, mouth closed.
-            with dissolve
+# game/v10/scene13.rpy:134
+translate empty v10_wolves_redec_76d2366f:
 
-            u "Embarrassant ? Qu'est-ce qu'il y a ?"
+    # guyd "You know that sushi we had in the fridge for a while?"
+    guyd "Tu sais ces sushis qu'on avait au frigo depuis un moment ?"
 
-            scene v10swhr6a
-            with dissolve
+# game/v10/scene13.rpy:139
+translate empty v10_wolves_redec_505a3f68:
 
-            guyd "Si j'ai fui et choisi de ne pas me battre, ce n'est pas parce que je ne voulais pas, c'est parce que je ne pouvais pas."
+    # u "Yeah."
+    u "Ouai."
 
-            scene v10swhr6b
-            with dissolve
+# game/v10/scene13.rpy:144
+translate empty v10_wolves_redec_bf5b4103:
 
-            u "Comment ça, tu ne pourrais pas ?"
+    # guyd "Well, I ate it right before the fight because I was hungry and well I've never had sushi before. Turns out, I'm allergic."
+    guyd "Eh bien, je l'ai mangé juste avant le combat parce que j'avais faim et bien je n'avais jamais mangé de sushi auparavant. Il s'avère que je suis allergique."
 
-            scene v10swhr6a
-            with dissolve
+# game/v10/scene13.rpy:149
+translate empty v10_wolves_redec_b0adf0ee:
 
-            guyd "Mec, je suis malade..."
+    # u "Are you serious!?"
+    u "T'es sérieux !?"
 
-            scene v10swhr6b
-            with dissolve
+# game/v10/scene13.rpy:154
+translate empty v10_wolves_redec_c69982bc:
 
-            u "Malade de quoi ?"
+    # guyd "Sadly, yes. Regardless of me sick or not though the guys still weren't happy."
+    guyd "Malheureusement, oui. Peu importe que je sois malade ou pas, même si les gars n'étaient pas contents."
 
-            scene v10swhr6a
-            with dissolve
+# game/v10/scene13.rpy:159
+translate empty v10_wolves_redec_13180a3d:
 
-            guyd "Tu sais, les sushis qu'on avait dans le frigo depuis un moment ?"
+    # u "At least you had a good reason."
+    u "Au moins tu avais une bonne raison."
 
-            scene v10swhr6b
-            with dissolve
+# game/v10/scene13.rpy:164
+translate empty v10_wolves_redec_f3035874:
 
-            u "Ouai."
+    # guyd "Yeah, next time though I'm going in like a beast."
+    guyd "Ouais, la prochaine fois, j'y vais comme une bête."
 
-            scene v10swhr6a
-            with dissolve
+# game/v10/scene13.rpy:169
+translate empty v10_wolves_redec_0a32df86:
 
-            guyd "Je l'ai mangé juste avant le combat parce que j'avais faim et que je n'avais jamais mangé de sushi avant. Il s'avère que je suis allergique."
+    # u "Glad to hear it."
+    u "Heureux de l'entendre."
 
-            scene v10swhr6b
-            with dissolve
+# game/v10/scene13.rpy:174
+translate empty v10_wolves_redec_318f0c65:
 
-            u "Tu es sérieux !?"
+    # guyd "Well the room looks pretty nice."
+    guyd "Eh bien, la pièce a l'air plutôt sympa."
 
-            scene v10swhr6a
-            with dissolve
+# game/v10/scene13.rpy:176
+translate empty v10_wolves_redec_8f945033:
 
-            guyd "Malheureusement, oui. Que je sois malade ou non, les gars n'étaient toujours pas contents."
+    # u "Yeah, this is way better, the carpet and curtains really finish it off. Thanks man!"
+    u "Ouais, c'est bien mieux, la moquette et les rideaux le font vraiment. Merci mec!"
 
-            scene v10swhr6b
-            with dissolve
+# game/v10/scene13.rpy:178
+translate empty v10_wolves_redec_2308ae9f:
 
-            u "Au moins, tu avais une bonne raison."
+    # guyd "Anytime."
+    guyd "N'importe quand."
 
-            scene v10swhr6c # FPP. Same as whr6, smile, mouth open.
-            with dissolve
+# game/v10/scene13.rpy:181
+translate empty v10_wolves_redec_f04441de:
 
-            guyd "Ouais, la prochaine fois, j'y vais comme une bête."
+    # u "I appreciate it man, but I'm all good. This is gonna require all my focus."
+    u "J'apprécie mec, mais je vais bien. Cela va nécessiter toute ma concentration."
 
-            scene v10swhr6d # FPP. Same as whr6, smile, mouth closed.
-            with dissolve
+# game/v10/scene13.rpy:186
+translate empty v10_wolves_redec_24b470b0:
 
-            u "Heureux de l'entendre."
+    # guyd "Alright man."
+    guyd "D'accord mec."
 
-            scene v10swhr7 # TPP. Show wide shot of MC's new wolves room.
-            with Fade(1, 0, 1)
+# game/v10/scene13.rpy:196
+translate empty v10_wolves_redec_2bd3e439:
 
-            guyd "La chambre a l'air plutôt bien."
+    # u "(Now that's what I'm talking about!)"
+    u "(Ça c'est de la piaule !)"
 
-            u "Oui, c'est beaucoup mieux, la moquette et les rideaux finissent vraiment le travail. Merci, mec !"
+translate empty strings:
 
-            guyd "Quand tu veux."
+    # game/v10/scene13.rpy:83
+    old "Accept help"
+    new "Accepter l'aide"
 
-        "Refusez l'aide":
-            u "J'apprécie, mais ça va. Cela va demander toute ma concentration."
-
-            scene v10swhr4b
-            with dissolve
-
-            guyd "Très bien, mec."
-
-            scene v10swhr3
-            with dissolve
-
-            pause 0.75
-
-            scene v10swhr7 # TPP. Show wide shot of MC's new wolves room.
-            with Fade(1, 0, 1)             
-
-            u "(Voilà ce que je veux dire !)"          
-    stop music fadeout 3  
-
-    jump v10_call_with_lauren1
+    # game/v10/scene13.rpy:83
+    old "Decline help"
+    new "Refusez l'aide"
