@@ -1582,181 +1582,181 @@ translate chineses skiptrolleya_853e4089:
 translate chineses continueaf_64c5a1d5:
 
     # u "(Damn, it wasn't from Lauren... I wonder if she's still mad at me.)"
-    u ""
+    u "(可恶，不是劳伦发的...不知道她是否还对我恼火。）"
 
 # game/v5/v5.rpy:1664
 translate chineses continueaf_ef97aa94:
 
     # u "(I should go apologize.)"
-    u ""
+    u "（我该去道歉。）"
 
 # game/v5/v5.rpy:1667
 translate chineses continueaf_6bb77164:
 
     # u "(Hopefully Autumn has already put in a good word for me.)"
-    u ""
+    u "（希望欧特已经帮我说了点好话。）"
 
 # game/v5/v5.rpy:1672
 translate chineses continueaf_dfe131fe:
 
     # u "(Alright, this is Lauren's dorm.)"
-    u ""
+    u "（好吧，这里是劳伦的寝室。）"
 
 # game/v5/v5.rpy:1678
 translate chineses continueaf_4f1997c1:
 
     # "*Knock knock knock*"
-    ""
+    "*敲 敲 敲*"
 
 # game/v5/v5.rpy:1683
 translate chineses continueaf_6283d808:
 
     # unknown "Who is it?"
-    unknown ""
+    unknown "谁啊？"
 
 # game/v5/v5.rpy:1685
 translate chineses continueaf_0f6cf220:
 
     # u "It's [name], is Lauren there?"
-    u ""
+    u "我是[名字]，劳伦在吗？"
 
 # game/v5/v5.rpy:1688
 translate chineses continueaf_1d52e490:
 
     # unknown "Oh, you're the fucker that tried to molest her, right?"
-    unknown ""
+    unknown "哦，你就是那个对她动手动脚的混帐，对吧？"
 
 # game/v5/v5.rpy:1694
 translate chineses continueaf_baeded33:
 
     # u "What? No, I'm just a friend looking for her, where is she?"
-    u ""
+    u "什么？不，我只是一位来找她的朋友，她在哪儿？"
 
 # game/v5/v5.rpy:1699
 translate chineses continueaf_a86abcb6:
 
     # unknown "Uhm, alright, she's at some classroom for her personality test thing."
-    unknown ""
+    unknown "嗯，好吧，她在一间教室里做她的性格测试。"
 
 # game/v5/v5.rpy:1701
 translate chineses continueaf_4d373ad7:
 
     # u "Thanks"
-    u ""
+    u "谢了。"
 
 # game/v5/v5.rpy:1704
 translate chineses continueaf_2c88a005:
 
     # unknown "Yeah, right. Fuck off."
-    unknown ""
+    unknown "是啊，对。滚一边去。"
 
 # game/v5/v5.rpy:1708
 translate chineses continueaf_b7eacca2:
 
     # u "(Shit, I don't have time to search her all around campus... I guess I'll have to apologize to her another time.)"
-    u ""
+    u "（糟，我没时间在校园里四处搜寻她...我想我得改时间再向她道歉了。）"
 
 # game/v5/v5.rpy:1710
 translate chineses continueaf_f1d94258:
 
     # u "(I should probably pick up Riley so that we can go and get Imre)"
-    u ""
+    u "（我大概应该去找莱利，然后一起去接伊姆雷。）"
 
 # game/v5/v5.rpy:1717
 translate chineses continueaf_d49c0157:
 
     # u "I didn't mean to... it was a misunderstanding!"
-    u ""
+    u "我不是故意的...那是个误会啊！"
 
 # game/v5/v5.rpy:1719
 translate chineses continueaf_2c88a005_1:
 
     # unknown "Yeah, right. Fuck off."
-    unknown ""
+    unknown "是啊，对。滚一边去。"
 
 # game/v5/v5.rpy:1722
 translate chineses continueaf_b7eacca2_1:
 
     # u "(Shit, I don't have time to search her all around campus... I guess I'll have to apologize to her another time.)"
-    u ""
+    u "（糟，我没时间在校园里四处搜寻她...我想我得改时间再向她道歉了。）"
 
 # game/v5/v5.rpy:1724
 translate chineses continueaf_f1d94258_1:
 
     # u "(I should probably pick up Riley so that we can go and get Imre)"
-    u ""
+    u "（我大概应该去找莱利，然后一起去接伊姆雷。）"
 
 # game/v5/v5.rpy:1729
 translate chineses continueaf_520b64da:
 
     # unknown "Oh, you're the guy she cried about, right?"
-    unknown ""
+    unknown "哦，你就是那个把她弄哭的人，对吧？"
 
 # game/v5/v5.rpy:1731
 translate chineses continueaf_4232cff6:
 
     # unknown "She's not here, I think she's in some classroom for her personality test thing."
-    unknown ""
+    unknown "她不在这里，我想她在一间教室里做她的性格测试。"
 
 # game/v5/v5.rpy:1736
 translate chineses continueaf_f8a6f944:
 
     # u "(Maybe I should give her a bit more time.)"
-    u ""
+    u "（也许我应该再给她一点时间。）"
 
 # game/v5/v5.rpy:1740
 translate chineses continueaf_746deadc:
 
     # u "(Afterall, Autumn said she'd talk to her.)"
-    u ""
+    u "（毕竟，欧特说过她会跟她谈的。）"
 
 # game/v5/v5.rpy:1742
 translate chineses continueaf_a5618dc4:
 
     # u "(It's probably time to go pick up Imre with Riley anyways.)"
-    u ""
+    u "（不论如何，是时候跟莱利一起去接伊姆雷了。）"
 
 # game/v5/v5.rpy:1752
 translate chineses apo_c216004a:
 
     # "This door's locked."
-    ""
+    "这门是锁着的。"
 
 # game/v5/v5.rpy:1759
 translate chineses apo_c243fefa:
 
     # "Locked..."
-    ""
+    "上了锁..."
 
 # game/v5/v5.rpy:1764
 translate chineses apo_cac680ea:
 
     # u "(Huh, this one's open...)"
-    u ""
+    u "（呵，这扇是开着的...）"
 
 # game/v5/v5.rpy:1769
 translate chineses apo_85daf1c0:
 
     # u "Lauren?"
-    u ""
+    u "劳伦？"
 
 # game/v5/v5.rpy:1775
 translate chineses apo_6439e089:
 
     # la "[name], what are you doing here?"
-    la ""
+    la "[名字]，你来这里做什么？"
 
 # game/v5/v5.rpy:1780
 translate chineses apo_449c6579:
 
     # u "Listen, I wanted to apologize, I went too far and I'm sorry."
-    u ""
+    u "听着，我想道歉，对不起我做得太过分了。"
 
 # game/v5/v5.rpy:1782
 translate chineses apo_a5a44cd7:
 
     # u "I- I just got carried away."
-    u ""
+    u "我-我只是被冲昏了头脑。"
 
 # game/v5/v5.rpy:1790
 translate chineses apo_0fb46afe:
