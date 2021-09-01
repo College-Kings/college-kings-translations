@@ -70,13 +70,13 @@ translate empty v10_apes_samantha_ac2ba772:
 translate empty v10_apes_samantha_1d728101:
 
     # sa "Well, I guess I really just wanna know why. It's kinda weird, don't you think? You don't really fit in with everyone else here."
-    sa ""
+    sa "Eh bien, je suppose que je veux vraiment savoir pourquoi. C'est un peu bizarre, tu ne trouves pas ? Tu ne t'entend pas vraiment avec tout le monde ici."
 
 # game/v10/scene14.rpy:88
 translate empty v10_apes_samantha_7fdcd055:
 
     # u "I can be a hot head at least when I need to be, *chuckles* sometimes when I wanna be."
-    u "Eh bien, je suppose que je veux vraiment savoir pourquoi. C'est un peu bizarre, tu ne trouves pas ? Tu ne t'entend pas vraiment avec tout le monde ici."
+    u "Je peux être une tête-brûlée au moins quand j'en ai besoin, *rires* parfois quand je veux l'être."
 
 # game/v10/scene14.rpy:93
 translate empty v10_apes_samantha_e01c2374:

@@ -64,7 +64,7 @@ translate francais strings:
 
     # game/v8/Scene16.rpy:45
     old "Booba"
-    new "Gros seins"
+    new "Nénés"
 
     # game/v8/Scene16.rpy:46
     old "I'm glad you guys had fun"
