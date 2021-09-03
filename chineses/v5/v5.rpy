@@ -3382,43 +3382,43 @@ translate chineses findimre_866fa656:
 translate chineses findimre_94427e73:
 
     # imre "Well turns out you were right about one of those. Go join the fucking Apes!"
-    imre ""
+    imre "结果你在它们之间有一个是对的。去加入他妈的人猿会！"
 
 # game/v5/v5.rpy:4076
 translate chineses findimre_1cd2fc7c:
 
     # u "Imre!"
-    u ""
+    u "伊姆雷！"
 
 # game/v5/v5.rpy:4081
 translate chineses findimre_f617ca71:
 
     # u "Fuck!"
-    u ""
+    u "操！"
 
 # game/v5/v5.rpy:4084
 translate chineses findimre_100b0d2f_1:
 
     # u "Actually, I uhm... I found Adam."
-    u ""
+    u "事实上，我嗯...我找到了亚当。"
 
 # game/v5/v5.rpy:4089
 translate chineses findimre_c1b21072_1:
 
     # imre "Where? Where is he?"
-    imre ""
+    imre "哪儿？他在哪儿？"
 
 # game/v5/v5.rpy:4094
 translate chineses findimre_d4852c6a:
 
     # u "He lives in the dorm opposite to us. I confronted him when I found out, but it got out of control and he beat me up."
-    u ""
+    u "他住在我们对面的寝室。我要到他的住处后就前去跟他对质，但当时情形失控，而且他把我揍了一顿。"
 
 # game/v5/v5.rpy:4096
 translate chineses findimre_fe65c7fa:
 
     # u "Luckily Chris stepped in, otherwise he would've sent me to the hospital as well."
-    u ""
+    u "幸好有克里斯介入，不然他也很可能会送我进医院。"
 
 # game/v5/v5.rpy:4101
 translate chineses findimre_50e0f118:
