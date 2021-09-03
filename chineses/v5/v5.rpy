@@ -3424,115 +3424,115 @@ translate chineses findimre_fe65c7fa:
 translate chineses findimre_50e0f118:
 
     # imre "Well that was fucking stupid of you, wasn't it?"
-    imre ""
+    imre "那你他妈的傻啦，不是吗？"
 
 # game/v5/v5.rpy:4103
 translate chineses findimre_5ca50fa3:
 
     # imre "I told you, I don't need your help, I got this."
-    imre ""
+    imre "我告诉过你，我不需要你帮忙，我自己就够了。"
 
 # game/v5/v5.rpy:4108
 translate chineses findimre_954f4219:
 
     # u "Yeah sorry, it's just... I don't wanna pick you up from the hospital again."
-    u ""
+    u "是啊抱歉，只是...我不想再去医院接你了。"
 
 # game/v5/v5.rpy:4113
 translate chineses findimre_b7b76de0:
 
     # imre "I'll get a cab next time."
-    imre ""
+    imre "我下次叫出租。"
 
 # game/v5/v5.rpy:4118
 translate chineses findimre_327df7fb:
 
     # u "You know that's not what I meant."
-    u ""
+    u "你知道我不是那个意思。"
 
 # game/v5/v5.rpy:4123
 translate chineses findimre_c6103c1c:
 
     # imre "Look, I really appreciate that you're trying to help, but I know what I'm doing, okay?"
-    imre ""
+    imre "听着，我很感谢你想试着帮我，但我知道我在做什么，好吧？"
 
 # game/v5/v5.rpy:4128
 translate chineses findimre_b9c4fde3:
 
     # u "Okay."
-    u ""
+    u "好的。"
 
 # game/v5/v5.rpy:4130
 translate chineses findimre_312624f2:
 
     # u "Are you gonna try and fight him now?"
-    u ""
+    u "你现在要去跟他打吗？"
 
 # game/v5/v5.rpy:4135
 translate chineses findimre_f34a6855:
 
     # imre "I have to do this."
-    imre ""
+    imre "我必须做这事。"
 
 # game/v5/v5.rpy:4140
 translate chineses findimre_27ada699:
 
     # u "Can I at least-"
-    u ""
+    u "我可以至少-"
 
 # game/v5/v5.rpy:4145
 translate chineses findimre_d366a356:
 
     # imre "[name], please. Go take a walk. Let me handle this myself."
-    imre ""
+    imre "[名字]，别。去散步走走。让我自己来搞定这事。"
 
 # game/v5/v5.rpy:4150
 translate chineses findimre_0ed196a0:
 
     # u "Alright. Good luck, man."
-    u ""
+    u "好吧。祝你好运，哥们儿。"
 
 # game/v5/v5.rpy:4154
 translate chineses findimre_100b0d2f_2:
 
     # u "Actually, I uhm... I found Adam."
-    u ""
+    u "事实上，我嗯...我找到了亚当。"
 
 # game/v5/v5.rpy:4159
 translate chineses findimre_c1b21072_2:
 
     # imre "Where? Where is he?"
-    imre ""
+    imre "哪儿？他在哪儿？"
 
 # game/v5/v5.rpy:4164
 translate chineses findimre_bc47b8ad:
 
     # u "He lives in the dorm opposite to us. But there's something else I need to tell you."
-    u ""
+    u "他住在我们对面的寝室。但有件事我得先告诉你。"
 
 # game/v5/v5.rpy:4166
 translate chineses findimre_6e981df1:
 
     # u "I told the school about what happened. They're gonna take care of it."
-    u ""
+    u "我把发生的事通知了学校。他们会处理的。"
 
 # game/v5/v5.rpy:4171
 translate chineses findimre_b54a0b35_1:
 
     # imre "You did what?! What the fuck is wrong with you?!"
-    imre ""
+    imre "你做了什么？！你他妈的脑子进水了？！"
 
 # game/v5/v5.rpy:4176
 translate chineses findimre_fc06e59c:
 
     # u "Look, I know that's not what you wanted, but-"
-    u ""
+    u "听着，我知道那不是你想要的，但是-"
 
 # game/v5/v5.rpy:4181
 translate chineses findimre_b9a51817:
 
     # imre "I told you to stay out of it! Now if I touch him the school will kick both of us out!"
-    imre ""
+    imre "我告诉过你别过多管闲事！现在如果我碰了他，学校就会把我们两个都踢出去!"
 
 # game/v5/v5.rpy:4186
 translate chineses findimre_1dc58521_1:
