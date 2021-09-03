@@ -4,223 +4,223 @@
 translate polish v4start_b4021613:
 
     # u "Imre? How you holding up buddy?"
-    u ""
+    u "Imre? Stary, jak się czujesz?"
 
 # game/v4/v4.rpy:40
 translate polish v4start_c5ddf28e:
 
     # imre "Hey, I'm fine. *winces in pain*"
-    imre ""
+    imre "Hej, nic mi nie jest. *krzywi się z bólu*"
 
 # game/v4/v4.rpy:45
 translate polish v4start_340bf5a0:
 
     # u "The nurse said you had 3 broken ribs! What the hell happened?"
-    u ""
+    u "Pielęgniarka powiedziała, że masz 3 złamane żebra! Co się do cholery stało?"
 
 # game/v4/v4.rpy:50
 translate polish v4start_bf4e1bad:
 
     # imre "Well I was hitting on this girl but she wasn't really into talking so I just started grinding on her a bit."
-    imre ""
+    imre "Cóż, przystawiałem się do takiej jednej dziewczyny, ale nie była zainteresowana rozmową, więc po prostu zacząłem się o nią trochę ocierać."
 
 # game/v4/v4.rpy:52
 translate polish v4start_dffee429:
 
     # imre "Then all of the sudden... *winces in pain* this dude shows up super mad and starts pushing me around."
-    imre ""
+    imre "Potem nagle... *krzywi się z bólu* zjawia się jakiś koleś, strasznie wkurwiony i zaczyna mnie szturchać."
 
 # game/v4/v4.rpy:56
 translate polish v4start_df176aa7:
 
     # imre "Turns out that it was Adam and I was grinding on his sister."
-    imre ""
+    imre "Okazało się, że to był Adam, a ja ocierałem się o jego siostrę."
 
 # game/v4/v4.rpy:61
 translate polish v4start_9729603a:
 
     # u "Who's Adam?"
-    u ""
+    u "Kim jest Adam?"
 
 # game/v4/v4.rpy:66
 translate polish v4start_de621888:
 
     # imre "My brother asked some of his friends in the Wolves... *winces in pain*"
-    imre ""
+    imre "Mój brat zapytał kilku swoich kolegów z Wilków... *krzywi się z bólu*"
 
 # game/v4/v4.rpy:68
 translate polish v4start_0162cafc:
 
     # imre "And apparently Adam used to be an Ape, but last year one of his opponents wouldn't give up so he flipped and gouged his opponent's eyes."
-    imre ""
+    imre "I najwyraźniej Adam był kiedyś Małpą, ale w zeszłym roku jeden z jego przeciwników nie poddawał się, więc odwrócił się i wydłubał mu oczy."
 
 # game/v4/v4.rpy:70
 translate polish v4start_fdf80e7c:
 
     # imre "*winces in pain* He was immediately disqualified and kicked out of the Apes."
-    imre ""
+    imre "*krzywi się z bólu* Natychmiast został zdyskwalifikowany i wyrzucony z Małp."
 
 # game/v4/v4.rpy:72
 translate polish v4start_c76b9e3d:
 
     # imre "Anyways, I obviously pushed him back and told to fuck off and then we got into a bit of a fight."
-    imre ""
+    imre "W każdym razie, też go popchnąłem i kazałem mu się odpierdolić, a potem trochę się pokłóciliśmy."
 
 # game/v4/v4.rpy:77
 translate polish v4start_8c180bbe:
 
     # u "A bit of a fight? You have three broken ribs..."
-    u ""
+    u "Trochę się pokłóciliście? Masz trzy złamane żebra..."
 
 # game/v4/v4.rpy:81
 translate polish v4start_bc819d28:
 
     # imre "Yeah whatever... *winces in pain* he caught me by surprise, it wasn't a fair fight."
-    imre ""
+    imre "To bez znaczenia... *krzywi się z bólu* wziął mnie z zaskoczenia, to nie była uczciwa walka."
 
 # game/v4/v4.rpy:90
 translate polish v4start_3c649ef4:
 
     # u "Imre, you need to be more careful, man!"
-    u ""
+    u "Imre, musisz być bardziej ostrożny!"
 
 # game/v4/v4.rpy:92
 translate polish v4start_15e1a023:
 
     # u "You can't just try and fight everyone, what if he had a knife?"
-    u ""
+    u "Nie możesz po prostu próbować walczyć ze wszystkimi, co by było, gdyby miał nóż?"
 
 # game/v4/v4.rpy:97
 translate polish v4start_eab36fd9:
 
     # imre "I told you, it wasn't a fair fight! I'll fuck him up when I get out."
-    imre ""
+    imre "Mówiłem ci, to nie była uczciwa walka! Rozpierdolę go, jak tylko stąd wyjdę."
 
 # game/v4/v4.rpy:107
 translate polish v4start_05f159fd:
 
     # u "At least let me help you."
-    u ""
+    u "Przynajmniej pozwól, że ci pomogę."
 
 # game/v4/v4.rpy:112
 translate polish v4start_4b864680:
 
     # imre "Nah, this is my fight *winces in pain*."
-    imre ""
+    imre "Nie, to moja walka *krzywi się z bólu*."
 
 # game/v4/v4.rpy:114
 translate polish v4start_ab9aa661:
 
     # imre "If you wanna help, pick me up when I get out of here."
-    imre ""
+    imre "Jeśli chcesz pomóc, przyjdź po mnie, kiedy mnie wypiszą."
 
 # game/v4/v4.rpy:119
 translate polish v4start_dd1f40cd:
 
     # u "The nurse said you need to stay in here for two more days so I'll pick you up on Sunday, alright?"
-    u ""
+    u "Pielęgniarka powiedziała, że musisz tu zostać jeszcze przez dwa dni, więc odbiorę cię w niedzielę, pasuje?"
 
 # game/v4/v4.rpy:124
 translate polish v4start_e66b65b5:
 
     # imre "Alright, player. *winces in pain*"
-    imre ""
+    imre "Niech będzie, kochasiu. *krzywi się z bólu*"
 
 # game/v4/v4.rpy:129
 translate polish v4start_8ba31839:
 
     # u "I'll see you then, get better soon."
-    u ""
+    u "Niedługo się zobaczymy, wracaj do zdrowia."
 
 # game/v4/v4.rpy:137
 translate polish v4start_f42f951a:
 
     # u "Dude, that's a dumb idea. He sounds dangerous, just go to the cops!"
-    u ""
+    u "Stary, to głupi pomysł. Koleś jest niebezpieczny, po prostu idź z tym na policję!"
 
 # game/v4/v4.rpy:142
 translate polish v4start_bed1b982:
 
     # imre "I'll fuck him up myself! *winces in pain* Or do I look like a bitch to you?"
-    imre ""
+    imre "Sam go rozpierdolę! *krzywi się z bólu* A może według ciebie jestem pizdą?"
 
 # game/v4/v4.rpy:147
 translate polish v4start_d646d5e5:
 
     # u "No, just think about it, okay?"
-    u ""
+    u "Nie, po prostu to przemyśl, ok?"
 
 # game/v4/v4.rpy:149
 translate polish v4start_1b518344:
 
     # u "The nurse said you'd be in here for two more days. I'll pick you up on Sunday alright?"
-    u ""
+    u "Pielęgniarka powiedziała, że musisz tu zostać jeszcze przez dwa dni, więc odbiorę cię w niedzielę, pasuje?"
 
 # game/v4/v4.rpy:154
 translate polish v4start_e66b65b5_1:
 
     # imre "Alright, player. *winces in pain*"
-    imre ""
+    imre "Niech będzie, kochasiu. *krzywi się z bólu*"
 
 # game/v4/v4.rpy:159
 translate polish v4start_8ba31839_1:
 
     # u "I'll see you then, get better soon."
-    u ""
+    u "Niedługo się zobaczymy, wracaj do zdrowia."
 
 # game/v4/v4.rpy:169
 translate polish v4start_a98353e8:
 
     # u "Fuck that guy, let's fuck him up!"
-    u ""
+    u "A to kawał chuja, rozpierdolmy go!"
 
 # game/v4/v4.rpy:174
 translate polish v4start_4b864680_1:
 
     # imre "Nah, this is my fight *winces in pain*."
-    imre ""
+    imre "Nie, to moja walka *krzywi się z bólu*."
 
 # game/v4/v4.rpy:176
 translate polish v4start_151acc9a:
 
     # imre "I'll be okay... but could you pick me up when I get out?"
-    imre ""
+    imre "Nic mi nie będzie... ale czy możesz mnie odebrać, kiedy mnie wypiszą?"
 
 # game/v4/v4.rpy:181
 translate polish v4start_f581f45f:
 
     # u "Yeah of course, the nurse said you need to stay in here for two more days so I'll come back on Sunday, alright?"
-    u ""
+    u "Pewnie, pielęgniarka powiedziała, że musisz tu zostać jeszcze przez dwa dni, więc odbiorę cię w niedzielę, pasuje?"
 
 # game/v4/v4.rpy:186
 translate polish v4start_e66b65b5_2:
 
     # imre "Alright, player. *winces in pain*"
-    imre ""
+    imre "Niech będzie, kochasiu. *krzywi się z bólu*"
 
 # game/v4/v4.rpy:191
 translate polish v4start_8ba31839_2:
 
     # u "I'll see you then, get better soon."
-    u ""
+    u "Niedługo się zobaczymy, wracaj do zdrowia."
 
 # game/v4/v4.rpy:208
 translate polish dp_ad_c67246ba:
 
     # u "(Holy fuck... I'm just glad he's okay. I need to talk to someone about this.)"
-    u ""
+    u "(Ja pierdolę... Cieszę się, że nic mu nie jest. Muszę z kimś o tym porozmawiać.)"
 
 # game/v4/v4.rpy:210
 translate polish dp_ad_c7da4826:
 
     # u "(Riley's quite close with Imre, I'll call her.)"
-    u ""
+    u "(Riley jest dosyć blisko z Imre, zadzwonię do niej.)"
 
 # game/v4/v4.rpy:217
 translate polish dp_ad_5b8aada9:
 
     # "*Phone calling*"
-    ""
+    "*Dzwoni*"
 
 # game/v4/v4.rpy:224
 translate polish dp_ad_6f1017a1:
@@ -3010,39 +3010,39 @@ translate polish strings:
 
     # game/v4/v4.rpy:5
     old "Dope"
-    new ""
+    new "Gitówa"
 
     # game/v4/v4.rpy:6
     old "Come by 995 Sereno Drive at 8, it's my friends house."
-    new ""
+    new "Przyjdź na Seren Drive 995 o 20, to dom mojej znajomej."
 
     # game/v4/v4.rpy:9
     old "Aww, come on. You'll be back by 11."
-    new ""
+    new "Och, daj spokój. Wrócisz przed 23."
 
     # game/v4/v4.rpy:11
     old "I told my friend Amber about you and she really wants to meet you."
-    new ""
+    new "Powiedziałem o tobie mojej znajomej Amber i naprawdę chce cię poznać."
 
     # game/v4/v4.rpy:12
     old "Alright, I'll come."
-    new ""
+    new "Dobra, przyjdę."
 
     # game/v4/v4.rpy:13
     old "Josh, I don't know, man. I don't wanna be late."
-    new ""
+    new "Josh, sam nie wiem, stary. Nie chcę się spóźnić."
 
     # game/v4/v4.rpy:16
     old "Remember how you told me in high school that you felt like you always missed out on all the crazy stories?"
-    new ""
+    new "Pamiętasz, jak w liceum zawsze mówiłeś, że czujesz się tak, jakbyś zawsze przegapiał wszystkie najlepsze imprezy?"
 
     # game/v4/v4.rpy:17
     old "Don't miss out now."
-    new ""
+    new "Tej nie możesz przegapić."
 
     # game/v4/v4.rpy:18
     old "Fine, I'll come. But I need to go before 11."
-    new ""
+    new "Zgoda, przyjdę. Ale muszę wyjść przed 23."
 
     # game/v4/v4.rpy:27
     old "This guy"
@@ -3066,23 +3066,23 @@ translate polish strings:
 
     # game/v4/v4.rpy:317
     old "Take responsibility"
-    new ""
+    new "Weź odpowiedzialność"
 
     # game/v4/v4.rpy:317
     old "Blame Ryan"
-    new ""
+    new "Obwiniaj Ryana"
 
     # game/v4/v4.rpy:436
     old "Ask her to sleep here"
-    new ""
+    new "Poproś, żeby została na noc"
 
     # game/v4/v4.rpy:576
     old "Someone punched me."
-    new ""
+    new "Ktoś mnie uderzył."
 
     # game/v4/v4.rpy:576
     old "It was an accident."
-    new ""
+    new "To był wypadek."
 
     # game/v4/v4.rpy:951
     old "Buy it"
@@ -3094,19 +3094,19 @@ translate polish strings:
 
     # game/v4/v4.rpy:1053
     old "Hey Chloe, any chance you can meet up in a bit?"
-    new ""
+    new "Cześć Chloe, możemy się niedługo spotkać?"
 
     # game/v4/v4.rpy:1054
     old "I'm really busy today, but I could do tonight after 11 or so."
-    new ""
+    new "Jestem dziś bardzo zajęta, ale możemy się spotkać wieczorem po 23."
 
     # game/v4/v4.rpy:1055
     old "Alright, cool. I'll be at yours for 11"
-    new ""
+    new "Ok, super. Będę u ciebie o 23"
 
     # game/v4/v4.rpy:1056
     old "Sounds good :)"
-    new ""
+    new "Spoko :)"
 
     # game/v4/v4.rpy:1115
     old "Sit somewhere else"
@@ -3114,11 +3114,11 @@ translate polish strings:
 
     # game/v4/v4.rpy:1482
     old "Talk to him"
-    new ""
+    new "Porozmawiaj z nim"
 
     # game/v4/v4.rpy:1482
     old "Ignore him"
-    new ""
+    new "Zignoruj go"
 
     # game/v4/v4.rpy:1641
     old "Magic Powers."
@@ -3130,11 +3130,11 @@ translate polish strings:
 
     # game/v4/v4.rpy:1692
     old "Buy Penelope a muffin"
-    new ""
+    new "Kup babeczkę dla Penelope"
 
     # game/v4/v4.rpy:1692
     old "Buy Penelope a coffee"
-    new ""
+    new "Kup kawę dla Penelope"
 
     # game/v4/v4.rpy:1778
     old "Grab her hand"
@@ -3158,67 +3158,67 @@ translate polish strings:
 
     # game/v4/v4.rpy:2171
     old "Hey man, you wanna hang out with me and some friends tonight?"
-    new ""
+    new "Siemka stary, chcesz wpaść dziś wieczorem i posiedzieć trochę ze mną i paroma znajomymi?"
 
     # game/v4/v4.rpy:2172
     old "Uhh, sure."
-    new ""
+    new "No jasne."
 
     # game/v4/v4.rpy:2173
     old "I'm meeting a friend at 11, so I can't really."
-    new ""
+    new "Jestem umówiony na 23, więc nie dam rady."
 
     # game/v4/v4.rpy:2285
     old "I can move."
-    new ""
+    new "Mogę się przesunąć."
 
     # game/v4/v4.rpy:2285
     old "It's my spot now."
-    new ""
+    new "Teraz ja tu siedzę."
 
     # game/v4/v4.rpy:2347
     old "I'll join the Wolves."
-    new ""
+    new "Dołączę do Wilków."
 
     # game/v4/v4.rpy:2347
     old "I don't know yet."
-    new ""
+    new "Jeszcze nie wiem."
 
     # game/v4/v4.rpy:2406
     old "Sounds good."
-    new ""
+    new "Brzmi spoko."
 
     # game/v4/v4.rpy:2406
     old "I should stop here."
-    new ""
+    new "Powinienem już się zbierać."
 
     # game/v4/v4.rpy:2428
     old "Alright, just for a bit."
-    new ""
+    new "Dobra, ale tylko na chwilę."
 
     # game/v4/v4.rpy:2428
     old "Sorry, I really can't."
-    new ""
+    new "Sorki, naprawdę nie mogę."
 
     # game/v4/v4.rpy:2474
     old "Do a handstand"
-    new ""
+    new "Stań na rękach"
 
     # game/v4/v4.rpy:2474
     old "Drink three sips"
-    new ""
+    new "Weź trzy łyki"
 
     # game/v4/v4.rpy:2664
     old "Amber"
-    new ""
+    new "Amber"
 
     # game/v4/v4.rpy:2664
     old "Kim"
-    new ""
+    new "Kim"
 
     # game/v4/v4.rpy:2891
     old "Accuse her of lying"
-    new ""
+    new "Oskarż ją o kłamstwo"
 
     # game/v4/v4.rpy:2891
     old "Ask about the punch"
