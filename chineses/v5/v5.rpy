@@ -3100,283 +3100,283 @@ translate chineses youfinishadam_2d28747d_1:
 translate chineses adamfinish_b62a7bc2:
 
     # u "*winces in pain*"
-    u ""
+    u "*因疼痛畏缩*"
 
 # game/v5/v5.rpy:3839
 translate chineses adamfinish_50d583a2:
 
     # ad "*Spits*"
-    ad ""
+    ad "*吐唾沫*"
 
 # game/v5/v5.rpy:3844
 translate chineses adamfinish_de51ea0d:
 
     # ad "You really thought you could beat me up, huh?"
-    ad ""
+    ad "你真以为你能打倒我，呵？"
 
 # game/v5/v5.rpy:3849
 translate chineses adamfinish_b6e13d10:
 
     # u "*winces in pain* Ahhh!"
-    u ""
+    u "*因疼痛畏缩*啊！"
 
 # game/v5/v5.rpy:3854
 translate chineses adamfinish_ddef8385:
 
     # ad "Let's see how many ribs you're gonna break today."
-    ad ""
+    ad "让我们看看你今天会断几根肋骨。"
 
 # game/v5/v5.rpy:3859
 translate chineses adamfinish_3d0c0a9a:
 
     # unknown "Leave him alone, Adam!"
-    unknown ""
+    unknown "放开他，亚当！"
 
 # game/v5/v5.rpy:3864
 translate chineses adamfinish_8f73a00b:
 
     # ch "Or I'll beat you up myself."
-    ch ""
+    ch "不然我自己会打倒你。"
 
 # game/v5/v5.rpy:3869
 translate chineses adamfinish_20fe7500:
 
     # ad "You think I'm scared of you, Chris?"
-    ad ""
+    ad "你以为我怕你，克里斯？"
 
 # game/v5/v5.rpy:3879
 translate chineses adamfinish_a9ceab6e:
 
     # ch "Step. Away."
-    ch ""
+    ch "撤步。离开。"
 
 # game/v5/v5.rpy:3894
 translate chineses adamfinish_93762eb0:
 
     # ch "You okay?"
-    ch ""
+    ch "你没事吧？"
 
 # game/v5/v5.rpy:3899
 translate chineses adamfinish_2c66ecf0:
 
     # u "Yeah, thanks."
-    u ""
+    u "是啊，谢了。"
 
 # game/v5/v5.rpy:3904
 translate chineses adamfinish_7322bc88:
 
     # u "You're Chris, president of the Wolves, right?"
-    u ""
+    u "你是克里斯，饿狼会的会长，对吧？"
 
 # game/v5/v5.rpy:3909
 translate chineses adamfinish_dcba2ca7:
 
     # ch "Yeah, that's me."
-    ch ""
+    ch "是啊，就是我。"
 
 # game/v5/v5.rpy:3911
 translate chineses adamfinish_f8ab21ae:
 
     # ch "So, why did Adam wanna beat you up? Did you look at him the wrong way?"
-    ch ""
+    ch "那，亚当为什么会打你？你是不是惹到他什么了?"
 
 # game/v5/v5.rpy:3916
 translate chineses adamfinish_1e6d7891:
 
     # u "He beat up my friend. And when I confronted him, I just kinda lost it and punched him."
-    u ""
+    u "他打了我的朋友。而当我找他对质的时候，我有点失控揍了他。"
 
 # game/v5/v5.rpy:3921
 translate chineses adamfinish_fe9c641f:
 
     # ch "Fair enough. Do you fight a lot?"
-    ch ""
+    ch "了解了。你经常斗殴？"
 
 # game/v5/v5.rpy:3926
 translate chineses adamfinish_b754cbe0:
 
     # u "Not really. That's probably why I was the one on the ground and not him."
-    u ""
+    u "没有。那大概就是为什么躺在地上的是我而不是他。"
 
 # game/v5/v5.rpy:3931
 translate chineses adamfinish_9d2af3bb:
 
     # ch "Trust me, not a single freshman last year could have beaten up Adam. He's not an easy opponent."
-    ch ""
+    ch "相信我，去年的新生没有一个打得过亚当。他不是位简单的对手。"
 
 # game/v5/v5.rpy:3936
 translate chineses adamfinish_6e3d920f:
 
     # u "Yeah..."
-    u ""
+    u "是啊..."
 
 # game/v5/v5.rpy:3941
 translate chineses adamfinish_d91d3c87:
 
     # ch "Look, people like Adam... they don't stop. At some point he'll find you by yourself and he'll try to fuck you up even more."
-    ch ""
+    ch "听着，亚当那种人...他们不会停的。他迟早会在你独自一人的时候找上你，并且他会试着让你更加吃不消。"
 
 # game/v5/v5.rpy:3943
 translate chineses adamfinish_39689522:
 
     # ch "You should come to our rush party on Tuesday. As a Wolf, you'll learn how to defend yourself."
-    ch ""
+    ch "你星期二应该来我们的抢先派对。作为饿狼会的一员，你会学到怎样保护自己。"
 
 # game/v5/v5.rpy:3948
 translate chineses adamfinish_2a0fbecd:
 
     # u "Really? You see me get beaten up and you still want me to join the Wolves, who's only requirement for joining is being good at fighting?"
-    u ""
+    u "真的？你看见我被打而你还想我加入饿狼会。加入饿狼会的唯一条件不是要擅长斗殴吗？"
 
 # game/v5/v5.rpy:3953
 translate chineses adamfinish_699d1d5a:
 
     # ch "Well, you gave him a nosebleed, so you must have landed at least one good punch."
-    ch ""
+    ch "这个嘛，你打到他流鼻血，那你的那次挥拳至少还算不错。"
 
 # game/v5/v5.rpy:3955
 translate chineses adamfinish_2b38ea14:
 
     # ch "Also, fighting can be learned. We care about loyalty. And you trying to avenge your friend like that, without much fighting experience, that's honorable."
-    ch ""
+    ch "而且，打斗可以学习。我们重视忠诚。而你在没有太多打斗经验下，依然那样卖力的为你朋友报仇，这是很高尚的。"
 
 # game/v5/v5.rpy:3957
 translate chineses adamfinish_4de1b9ea:
 
     # ch "So, Tuesday?"
-    ch ""
+    ch "那，星期二？"
 
 # game/v5/v5.rpy:3962
 translate chineses adamfinish_f954a308:
 
     # u "Alright, I'll be there."
-    u ""
+    u "好吧，我会去的。"
 
 # game/v5/v5.rpy:3967
 translate chineses adamfinish_f458aad1:
 
     # ch "Good, I'll see you then. Come talk to me when you're there."
-    ch ""
+    ch "很好。那我们再见了，到那里之后记得来找我。"
 
 # game/v5/v5.rpy:3972
 translate chineses adamfinish_6e9652b9:
 
     # u "Yeah, will do."
-    u ""
+    u "是啊，我会的。"
 
 # game/v5/v5.rpy:3977
 translate chineses adamfinish_2d28747d:
 
     # u "(Actually, I should probably go find Imre and tell him about what happened.)"
-    u ""
+    u "（实际上，我大概应该去找伊姆雷告诉他发生了什么。）"
 
 # game/v5/v5.rpy:3981
 translate chineses adamfinish_5754cadc:
 
     # u "(But first, I gotta wash the blood of my face.)"
-    u ""
+    u "（但首先，我该把我脸上的血给洗洗。）"
 
 # game/v5/v5.rpy:3991
 translate chineses findimre_97f93bda:
 
     # u "Imre?"
-    u ""
+    u "伊姆雷？"
 
 # game/v5/v5.rpy:3996
 translate chineses findimre_4e0355dd:
 
     # u "Have you seen Imre?"
-    u ""
+    u "你见到伊姆雷了吗？"
 
 # game/v5/v5.rpy:4001
 translate chineses findimre_a6a1bb36:
 
     # u "Imreee? Are you here?"
-    u ""
+    u "伊姆雷？你在那儿吗？"
 
 # game/v5/v5.rpy:4006
 translate chineses findimre_2c874bf2:
 
     # u "Mr. Lee, any chance you've seen Imre?"
-    u ""
+    u "李先生，你有看到伊姆雷吗？"
 
 # game/v5/v5.rpy:4011
 translate chineses findimre_1771c387:
 
     # u "Imre, there you are!"
-    u ""
+    u "伊姆雷，原来你在这儿！"
 
 # game/v5/v5.rpy:4016
 translate chineses findimre_0482bc78:
 
     # imre "I can't fucking find him. He must be hiding or some shit. No one seems to know where he lives either."
-    imre ""
+    imre "我他妈找不到他。他肯定是藏起来了或是什么的。而且没人知道他住哪里。"
 
 # game/v5/v5.rpy:4017
 translate chineses findimre_e731e46c:
 
     # imre "Fucking bullshit, they're all just scared of him!"
-    imre ""
+    imre "真他妈的荒唐，他们都只是害怕他！"
 
 # game/v5/v5.rpy:4024
 translate chineses findimre_100b0d2f:
 
     # u "Actually, I uhm... I found Adam."
-    u ""
+    u "实际上，我嗯...我找到亚当了。"
 
 # game/v5/v5.rpy:4029
 translate chineses findimre_c1b21072:
 
     # imre "Where? Where is he?"
-    imre ""
+    imre "哪里？他在哪里？"
 
 # game/v5/v5.rpy:4034
 translate chineses findimre_1d0f4d73:
 
     # u "He lives in the dorm opposite to us. But I already paid him a visit."
-    u ""
+    u "他住在我们寝室对面。但我已经造访过他了。"
 
 # game/v5/v5.rpy:4039
 translate chineses findimre_767793e7:
 
     # imre "Fuck you mean you paid him a visit?"
-    imre ""
+    imre "造访过他了是你他妈什么意思？"
 
 # game/v5/v5.rpy:4044
 translate chineses findimre_890f004a:
 
     # u "I beat him up. Knocked him out. Told him to leave you alone."
-    u ""
+    u "我打了他。把他打晕了。叫他别碰你。"
 
 # game/v5/v5.rpy:4049
 translate chineses findimre_b54a0b35:
 
     # imre "You did what?! What the fuck is wrong with you?!"
-    imre ""
+    imre "你做了什么？！你他妈的脑子进水了？！"
 
 # game/v5/v5.rpy:4054
 translate chineses findimre_5c35f2be:
 
     # u "What?? That's what you wanted, right? He got beaten up."
-    u ""
+    u "什么？？那不是你想要的，对吧？他被揍扁了。"
 
 # game/v5/v5.rpy:4059
 translate chineses findimre_b061062d:
 
     # imre "I wanted to beat him up! He was mine! You knew he was mine!"
-    imre ""
+    imre "我想把他揍扁！他是我的！你知道他是我的！"
 
 # game/v5/v5.rpy:4064
 translate chineses findimre_1dc58521:
 
     # u "Imre, I-"
-    u ""
+    u "伊姆雷，我-"
 
 # game/v5/v5.rpy:4069
 translate chineses findimre_866fa656:
 
     # imre "You pretend like you're not a fighter, like you're not a Wolf..."
-    imre ""
+    imre "你假装不是个斗士，就像不是个饿狼会的一样..."
 
 # game/v5/v5.rpy:4071
 translate chineses findimre_94427e73:
