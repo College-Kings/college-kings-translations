@@ -4,301 +4,301 @@
 translate chineses imrecona_05b8b552:
 
     # u "(I need to find Imre and apologize. He's probably in our dorm room.)"
-    u ""
+    u "（我得再去找他谈谈。他大概在我们的寝室。）"
 
 # game/v6/v6.rpy:133
 translate chineses imrecona_76592c06:
 
     # u "Imre, look-"
-    u ""
+    u "伊姆雷，听着-"
 
 # game/v6/v6.rpy:135
 translate chineses imrecona_b36deda7:
 
     # u "Wait, what are you doing???"
-    u ""
+    u "等等，你在做什么？？？"
 
 # game/v6/v6.rpy:140
 translate chineses imrecona_a563d57d:
 
     # imre "I'm moving out."
-    imre ""
+    imre "我要搬出去。"
 
 # game/v6/v6.rpy:145
 translate chineses imrecona_6de3add4:
 
     # u "What?! Dude, we had one little argument."
-    u ""
+    u "什么？！哥们儿，我们只不过有点小争论。"
 
 # game/v6/v6.rpy:149
 translate chineses imrecona_aea07de2:
 
     # imre "You decided what was right for me, without even asking. You got no type of loyalty at all!"
-    imre ""
+    imre "你在没有问我之前就决定了什么是对我好的。你一点都不了解忠诚！"
 
 # game/v6/v6.rpy:158
 translate chineses imrecona_c028d023:
 
     # u "Look, you're injured and I don't want you to bleed internally. I did what I had to!"
-    u ""
+    u "听着，你受了伤而我又不想你内出血。我做了我该做的！"
 
 # game/v6/v6.rpy:160
 translate chineses imrecona_c6abdd28:
 
     # u "You know our friendship comes first, but sometimes loyalty means protecting each other even if we don't wanna be protected."
-    u ""
+    u "你知道我们的友谊最重要，但有时忠诚就是要互相保护，即使我们不想要被保护。"
 
 # game/v6/v6.rpy:170
 translate chineses imrecona_1fefd0cf:
 
     # imre "Even if you're right, that was my fight..."
-    imre ""
+    imre "就算你是对的，那也是我的斗争..."
 
 # game/v6/v6.rpy:175
 translate chineses imrecona_9245ee4e:
 
     # u "I'm sorry, you'll get your revenge someday... but not while you're injured."
-    u ""
+    u "我很抱歉，你有一天会报到你的仇的...但那是在你伤好以后。"
 
 # game/v6/v6.rpy:180
 translate chineses imrecona_29273a9f:
 
     # imre "Yeah, I guess..."
-    imre ""
+    imre "是啊，我想也是..."
 
 # game/v6/v6.rpy:187
 translate chineses imrecona_9918a7f5:
 
     # u "Does that mean you're staying?"
-    u ""
+    u "那就是说你不会走了？"
 
 # game/v6/v6.rpy:192
 translate chineses imrecona_2de85348:
 
     # imre "Alright."
-    imre ""
+    imre "好吧。"
 
 # game/v6/v6.rpy:197
 translate chineses imrecona_71dcf4c1:
 
     # u "Brothers?"
-    u ""
+    u "兄弟？"
 
 # game/v6/v6.rpy:202
 translate chineses imrecona_be583e7e:
 
     # imre "Brothers."
-    imre ""
+    imre "兄弟。"
 
 # game/v6/v6.rpy:204
 translate chineses imrecona_b7322b81:
 
     # imre "I need some time to think. I'll see you later."
-    imre ""
+    imre "我需要点时间考虑。我们待会儿见。"
 
 # game/v6/v6.rpy:209
 translate chineses imrecona_3f3be3cb:
 
     # u "Alright, let me know if there's anything else I can do."
-    u ""
+    u "好吧，如果我能帮到什么的话就告诉我。"
 
 # game/v6/v6.rpy:228
 translate chineses imrecona_3ca6fa7c:
 
     # imre "Fuck do you know about loyalty?! You just wanna be in control!"
-    imre ""
+    imre "操你懂得忠诚吗？！你只是想控制别人！"
 
 # game/v6/v6.rpy:237
 translate chineses imrecona_c4ee4496:
 
     # u "I'm sorry. I shouldn't have done what I did."
-    u ""
+    u "我很抱歉。我不应该那样做的。"
 
 # game/v6/v6.rpy:239
 translate chineses imrecona_7987fc4b:
 
     # u "I'm really sorry."
-    u ""
+    u "我真的很抱歉。"
 
 # game/v6/v6.rpy:244
 translate chineses imrecona_3e161c5b:
 
     # imre "Fuck you! Your shitty apologies mean nothing!"
-    imre ""
+    imre "操你妈的！你的狗屁道歉毫无意义！"
 
 # game/v6/v6.rpy:246
 translate chineses imrecona_a29e80eb:
 
     # imre "I'm fucking done with you! I'm staying with a friend 'till they find me a new dorm."
-    imre ""
+    imre "我他妈跟你恩断义绝！我去一个朋友家住，直到他们给我找到一间新的寝室。"
 
 # game/v6/v6.rpy:251
 translate chineses imrecona_99c4a6b6:
 
     # u "Come on Imre, you're overreacting!"
-    u ""
+    u "算了伊姆雷，你的反应太大了！"
 
 # game/v6/v6.rpy:258
 translate chineses imrecona_0a9079a2:
 
     # u "FUCK!"
-    u ""
+    u "操！"
 
 # game/v6/v6.rpy:267
 translate chineses imreconb_0eb52a41:
 
     # u "(I need to help Imre, Adam will destroy him in his current condition.)"
-    u ""
+    u "（我需要帮伊姆雷，亚当会把当前的他打得体无完肤。）"
 
 # game/v6/v6.rpy:272
 translate chineses imreconb_6bf3e75e:
 
     # imre "Come out you piece of shit!"
-    imre ""
+    imre "出来你这个废物！"
 
 # game/v6/v6.rpy:274
 translate chineses imreconb_3fbd7e50:
 
     # imre "You can't fucking hide from me forever!"
-    imre ""
+    imre "你他妈不可能一辈子躲着我！"
 
 # game/v6/v6.rpy:279
 translate chineses imreconb_66bfa7ca:
 
     # u "Shit, is Adam hiding from you in his room?"
-    u ""
+    u "糟，亚当在他的寝室里躲着你？"
 
 # game/v6/v6.rpy:284
 translate chineses imreconb_d640fcb6:
 
     # imre "I mean, I didn't see him go in there..."
-    imre ""
+    imre "我的意思是，我没有看见他进那儿..."
 
 # game/v6/v6.rpy:289
 translate chineses imreconb_62bf2a88:
 
     # u "Oh, so he's probably not in the dorm...?"
-    u ""
+    u "哦，那他大概不在寝室...？"
 
 # game/v6/v6.rpy:294
 translate chineses imreconb_839c2821:
 
     # imre "Or he's hiding."
-    imre ""
+    imre "或者他在躲避。"
 
 # game/v6/v6.rpy:299
 translate chineses imreconb_b467603b:
 
     # u "Can we just sit down in our dorm room and talk?"
-    u ""
+    u "我们可以先回我们的寝室谈谈吗？"
 
 # game/v6/v6.rpy:301
 translate chineses imreconb_8b6bbb07:
 
     # u "He's clearly not here anyways."
-    u ""
+    u "无论如何，他很明显不在这里。"
 
 # game/v6/v6.rpy:306
 translate chineses imreconb_169816de:
 
     # imre "Fine..."
-    imre ""
+    imre "行..."
 
 # game/v6/v6.rpy:311
 translate chineses imreconb_ed58fa91:
 
     # imre "You know, it's just... my brother would never let someone do that to him."
-    imre ""
+    imre "你知道，只是...我哥永远不会让别人那样对他。"
 
 # game/v6/v6.rpy:316
 translate chineses imreconb_c27405c2:
 
     # u "Yeah but that doesn't mean your brother would just risk his life fighting with broken ribs."
-    u ""
+    u "是啊，但那代表你哥会在肋骨折断的情况下还跟别人拼命。"
 
 # game/v6/v6.rpy:321
 translate chineses imreconb_e0c3f57b:
 
     # imre "You're right, he would have beaten Adam up the first time and would've never gotten injured."
-    imre ""
+    imre "你是对的，他第一次就会把亚当打趴下，自己根本不会被打伤的。"
 
 # game/v6/v6.rpy:326
 translate chineses imreconb_2f0a74cf:
 
     # u "Look, there's a time to get revenge, but it's not now."
-    u ""
+    u "听着，君子报仇十年不晚，报仇不是现在。"
 
 # game/v6/v6.rpy:331
 translate chineses imreconb_fb96cd56:
 
     # imre "Mhm..."
-    imre ""
+    imre "嗯..."
 
 # game/v6/v6.rpy:333
 translate chineses imreconb_b7322b81:
 
     # imre "I need some time to think. I'll see you later."
-    imre ""
+    imre "我需要点时间考虑。我们待会儿见。"
 
 # game/v6/v6.rpy:338
 translate chineses imreconb_3f3be3cb:
 
     # u "Alright, let me know if there's anything else I can do."
-    u ""
+    u "好吧，如果我能帮到什么的话就告诉我。"
 
 # game/v6/v6.rpy:353
 translate chineses imreconc_fc392e5a:
 
     # u "(Fuck it, Imre can wait.)"
-    u ""
+    u "（操，伊姆雷的事可以等等。）"
 
 # game/v6/v6.rpy:355
 translate chineses imreconc_c99eb55b:
 
     # u "(I know a spot where I'm completely alone...)"
-    u ""
+    u "（我知道个地方可以完全没有别人...)"
 
 # game/v6/v6.rpy:369
 translate chineses phonead_8786d02f:
 
     # u "(Time to text Amber.)"
-    u ""
+    u "（该给安波发短信了。）"
 
 # game/v6/v6.rpy:372
 translate chineses phonead_77a2c777:
 
     # u "(Amber is so fucking hot, I hope she sends more pictures like that in the future.)"
-    u ""
+    u "（安波真他妈的辣，我希望她今后多送些那样的图片来。）"
 
 # game/v6/v6.rpy:374
 translate chineses phonead_6c075c02:
 
     # u "(Although I feel like I could've just received this in the park.)"
-    u ""
+    u "（虽然我觉得我在公园也可以接收这些图片。）"
 
 # game/v6/v6.rpy:376
 translate chineses phonead_5aa288ad:
 
     # u "(I should probably go back to my dorm and check on Imre now.)"
-    u ""
+    u "（我大概应该回我的寝室看看伊姆雷现在的情况了。）"
 
 # game/v6/v6.rpy:381
 translate chineses imrecond_743e89f6:
 
     # u "(Fuck it, Chloe's more important.)"
-    u ""
+    u "（操，克洛伊更重要。）"
 
 # game/v6/v6.rpy:392
 translate chineses phoneac_e4edb176:
 
     # u "(I should reply to Chloe.)"
-    u ""
+    u "（我该回复克洛伊。）"
 
 # game/v6/v6.rpy:397
 translate chineses phoneac_4fe7b5ae:
 
     # u "(Time to go swimming with the hottest girl in school...)"
-    u ""
+    u "（是时候去跟校花一起游泳了...）"
 
 # game/v6/v6.rpy:407
 translate chineses phoneac_6c012194:
