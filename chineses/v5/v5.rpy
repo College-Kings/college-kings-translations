@@ -3430,7 +3430,7 @@ translate chineses findimre_50e0f118:
 translate chineses findimre_5ca50fa3:
 
     # imre "I told you, I don't need your help, I got this."
-    imre "我告诉过你，我不需要你帮忙，我自己就够了。"
+    imre "我告诉过你，我不需要你帮忙，我一个就够了。"
 
 # game/v5/v5.rpy:4108
 translate chineses findimre_954f4219:
@@ -3466,7 +3466,7 @@ translate chineses findimre_b9c4fde3:
 translate chineses findimre_312624f2:
 
     # u "Are you gonna try and fight him now?"
-    u "你现在要去跟他打吗？"
+    u "你要现在去跟他打吗？"
 
 # game/v5/v5.rpy:4135
 translate chineses findimre_f34a6855:
@@ -3538,459 +3538,459 @@ translate chineses findimre_b9a51817:
 translate chineses findimre_1dc58521_1:
 
     # u "Imre, I-"
-    u ""
+    u "伊姆雷，我-"
 
 # game/v5/v5.rpy:4191
 translate chineses findimre_f2cbde9f:
 
     # imre "I knew you weren't a fucking fighter, but I didn't know you were such a snitch!"
-    imre ""
+    imre "我知道你他妈不是个都是，但我没想到你是个裱子！"
 
 # game/v5/v5.rpy:4193
 translate chineses findimre_2d7c7972:
 
     # imre "Stay the fuck out of my life!"
-    imre ""
+    imre "我他妈跟你恩断义绝！"
 
 # game/v5/v5.rpy:4198
 translate chineses findimre_1cd2fc7c_1:
 
     # u "Imre!"
-    u ""
+    u "伊姆雷！"
 
 # game/v5/v5.rpy:4203
 translate chineses findimre_f617ca71_1:
 
     # u "Fuck!"
-    u ""
+    u "操！"
 
 # game/v5/v5.rpy:4206
 translate chineses findimre_100b0d2f_3:
 
     # u "Actually, I uhm... I found Adam."
-    u ""
+    u "事实上，我嗯...我找到了亚当。"
 
 # game/v5/v5.rpy:4211
 translate chineses findimre_c1b21072_3:
 
     # imre "Where? Where is he?"
-    imre ""
+    imre "哪儿？他在哪儿？"
 
 # game/v5/v5.rpy:4216
 translate chineses findimre_7b8a0c27:
 
     # u "You really wanna know? He lives in the dorm opposite to us."
-    u ""
+    u "你真的想知道？他住在我们对面的寝室。"
 
 # game/v5/v5.rpy:4218
 translate chineses findimre_4e762005:
 
     # u "But you can't do this, man! At least not by yourself, let me come with you and we'll take him on together."
-    u ""
+    u "但你不能这么做，哥们儿!至少不能由你一个人，让我同你去，我们一起来打倒他。"
 
 # game/v5/v5.rpy:4223
 translate chineses findimre_5ca50fa3_1:
 
     # imre "I told you, I don't need your help, I got this."
-    imre ""
+    imre "我告诉过你，我不需要你帮忙，我一个就够了。"
 
 # game/v5/v5.rpy:4228
 translate chineses findimre_9579efe1:
 
     # u "I get that, but... I don't wanna pick you up from the hospital again."
-    u ""
+    u "我明白，只是...我不想再去医院接你了"
 
 # game/v5/v5.rpy:4233
 translate chineses findimre_b7b76de0_1:
 
     # imre "I'll get a cab next time."
-    imre ""
+    imre "我下次叫出租。"
 
 # game/v5/v5.rpy:4238
 translate chineses findimre_327df7fb_1:
 
     # u "You know that's not what I meant."
-    u ""
+    u "你知道我不是那个意思。"
 
 # game/v5/v5.rpy:4243
 translate chineses findimre_c6103c1c_1:
 
     # imre "Look, I really appreciate that you're trying to help, but I know what I'm doing, okay?"
-    imre ""
+    imre "听着，我很感谢你想试着帮我，但我知道我在做什么，好吧？"
 
 # game/v5/v5.rpy:4248
 translate chineses findimre_b9c4fde3_1:
 
     # u "Okay."
-    u ""
+    u "好的。"
 
 # game/v5/v5.rpy:4250
 translate chineses findimre_312624f2_1:
 
     # u "Are you gonna try and fight him now?"
-    u ""
+    u "你要现在去跟他打吗？"
 
 # game/v5/v5.rpy:4255
 translate chineses findimre_f34a6855_1:
 
     # imre "I have to do this."
-    imre ""
+    imre "我必须做这事。"
 
 # game/v5/v5.rpy:4260
 translate chineses findimre_27ada699_1:
 
     # u "Can I at least-"
-    u ""
+    u "我能不能至少-"
 
 # game/v5/v5.rpy:4265
 translate chineses findimre_ecf38ec3:
 
     # imre "[name], please. Go take a walk, distract yourself. Let me handle this myself."
-    imre ""
+    imre "[名字]，别。你去走一下散散心。让我自己来搞定这事。"
 
 # game/v5/v5.rpy:4270
 translate chineses findimre_0ed196a0_1:
 
     # u "Alright. Good luck, man."
-    u ""
+    u "好吧。祝你好运，哥们儿。"
 
 # game/v5/v5.rpy:4282
 translate chineses continueba_9399425c:
 
     # u "(How the fuck did everything go so wrong??)"
-    u ""
+    u "（一切怎么变得如此糟糕了？？）"
 
 # game/v5/v5.rpy:4283
 translate chineses continueba_af6f658d:
 
     # u "(A couple hours ago Imre was so happy to see me and now he probably hates me...)"
-    u ""
+    u "（几个小时前伊姆雷还很高兴见到我，而他现在大概很恨我吧...）"
 
 # game/v5/v5.rpy:4285
 translate chineses continueba_4ee172ff:
 
     # u "(I need to go and talk to him again. He's probably in our dorm.)"
-    u ""
+    u "（我得再去找他谈谈。他大概在我们的寝室。）"
 
 # game/v5/v5.rpy:4288
 translate chineses continueba_0a2a60e5:
 
     # u "(What am I doing? Adam could be beating Imre senseless at our dorms right now.)"
-    u ""
+    u "（我在做什么？亚当现在可能已经在我们寝室把伊姆雷打得毫无知觉了。）"
 
 # game/v5/v5.rpy:4290
 translate chineses continueba_d88dab7e:
 
     # u "(I know Imre said he didn't want me to help him, but I can't just do nothing.)"
-    u ""
+    u "（我知道伊姆雷说了他不想要我帮他，但我实在不能见死不救。）"
 
 # game/v5/v5.rpy:4299
 translate chineses continueba_7acac9c4:
 
     # u "(Maybe that's Imre...)"
-    u ""
+    u "（也许那就是伊姆雷...）"
 
 # game/v5/v5.rpy:4311
 translate chineses continueba_846a36e8:
 
     # u "(Fuck, I don't have time for Amber right now, but I really wanna find out what surprise she has.)"
-    u ""
+    u "（操，我现在没时间管安波了，但我真的很想知道她说的惊喜是什么。）"
 
 # game/v5/v5.rpy:4314
 translate chineses continueba_593d13cf:
 
     # u "(I gotta make a decision. Should I find Imre, or keep talking to Amber?)"
-    u ""
+    u "（我得做个决定。应该是去找伊姆雷呢，还是继续跟安波聊天？）"
 
 # game/v5/v5.rpy:4316
 translate chineses continueba_09958f46:
 
     # u "(I gotta make a decision. Should I help Imre, or keep talking to Amber?)"
-    u ""
+    u "（我得做个决定。应该是帮助伊姆雷呢，还是继续跟安波聊天？）"
 
 # game/v5/v5.rpy:4328
 translate chineses continueba_56d845ec:
 
     # u "(Fuck, I don't have time for this right now, but going swimming with Chloe sounds like the best possible way to get closer to her.)"
-    u ""
+    u "（操，我现在没时间管这个了，但跟克洛伊去游泳听起来像是接近她的最佳办法。）"
 
 # game/v5/v5.rpy:4331
 translate chineses continueba_8d30836f:
 
     # u "(I gotta make a decision. Should I find Imre, or meet Chloe?)"
-    u ""
+    u "（我得做个决定。应该是去找伊姆雷呢，还是去见克洛伊？）"
 
 # game/v5/v5.rpy:4333
 translate chineses continueba_e8cda8a6:
 
     # u "(I gotta make a decision. Should I help Imre, or meet Chloe?)"
-    u ""
+    u "我得做个决定。应该是帮助伊姆雷呢，还是去见克洛伊？"
 
 # game/v5/v5.rpy:4338
 translate chineses continueba_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 translate chineses strings:
 
     # game/v5/v5.rpy:5
     old "Oh really? How are you gonna do that?"
-    new ""
+    new "哦真的？你打算要怎么做呢？"
 
     # game/v5/v5.rpy:6
     old "I give some world-class massages"
-    new ""
+    new "我的按摩技术世界一流"
 
     # game/v5/v5.rpy:7
     old "I'll stay longer next time"
-    new ""
+    new "我下次会待长一点"
 
     # game/v5/v5.rpy:11
     old "That does sound enticing ;)"
-    new ""
+    new "那听上去很诱人 ;)"
 
     # game/v5/v5.rpy:14
     old "Deal xx"
-    new ""
+    new "成交 xx"
 
     # game/v5/v5.rpy:17
     old "Oh okay, hope everything's okay xx"
-    new ""
+    new "哦好的，希望一切都还好 xx"
 
     # game/v5/v5.rpy:18
     old "Yeah, it's all good."
-    new ""
+    new "是啊，一切都好。"
 
     # game/v5/v5.rpy:23
     old "Oh wow, I was just checking. :P"
-    new ""
+    new "哦哇，我只是关心一下啦 :P"
 
     # game/v5/v5.rpy:24
     old "Don't worry, you'll see me soon."
-    new ""
+    new "别担心，你很快就会见到我的。"
 
     # game/v5/v5.rpy:25
     old "Haha, I'm fine."
-    new ""
+    new "哈哈，我很好。"
 
     # game/v5/v5.rpy:29
     old "Was hoping xx"
-    new ""
+    new "我正希望是 xx"
 
     # game/v5/v5.rpy:32
     old "That's good xx"
-    new ""
+    new "那很好 xx"
 
     # game/v5/v5.rpy:35
     old "Oh okay, hope you're good xx"
-    new ""
+    new "哦好的，希望你还好 xx"
 
     # game/v5/v5.rpy:36
     old "Yeah, no worries"
-    new ""
+    new "是啊，别担心"
 
     # game/v5/v5.rpy:41
     old "Oh shut up, I was just checking in"
-    new ""
+    new "哦闭嘴吧，我只是关心一下啦"
 
     # game/v5/v5.rpy:42
     old "Don't worry, you'll see me again"
-    new ""
+    new "别担心，你会再见到我的"
 
     # game/v5/v5.rpy:43
     old "Haha, I'm fine"
-    new ""
+    new "哈哈，我很好"
 
     # game/v5/v5.rpy:65
     old "It's Chloe."
-    new ""
+    new "是克洛伊。"
 
     # game/v5/v5.rpy:65
     old "It's nothing."
-    new ""
+    new "没事。"
 
     # game/v5/v5.rpy:95
     old "Tell her"
-    new ""
+    new "告诉她"
 
     # game/v5/v5.rpy:95
     old "Say you gotta go"
-    new ""
+    new "说你得走了"
 
     # game/v5/v5.rpy:289
     old "I believe you."
-    new ""
+    new "我信你。"
 
     # game/v5/v5.rpy:289
     old "You're lying."
-    new ""
+    new "你在撒谎。"
 
     # game/v5/v5.rpy:637
     old "Hey, it's Amber"
-    new ""
+    new "嘿，我是安波"
 
     # game/v5/v5.rpy:638
     old "Josh gave me your number"
-    new ""
+    new "乔希给了我你的号码"
 
     # game/v5/v5.rpy:639
     old "You know, you never came back, I thought we were having a good time xx"
-    new ""
+    new "你知道，你一直没有回来，我还以为我们一起玩得很愉快呢 xx"
 
     # game/v5/v5.rpy:640
     old "We did, I'll make it up to you."
-    new ""
+    new "我们是玩得愉快，我会补偿你的。"
 
     # game/v5/v5.rpy:641
     old "Sorry, something came up."
-    new ""
+    new "抱歉，我有点事要做。"
 
     # game/v5/v5.rpy:646
     old "How come you didn't show up yesterday? Everything okay? xx"
-    new ""
+    new "你昨天怎么没来？一切都好吗？ xx"
 
     # game/v5/v5.rpy:647
     old "Wow, you really wanted to see me, huh?"
-    new ""
+    new "哇，你真的想见我，呵？"
 
     # game/v5/v5.rpy:653
     old "You know, you never came back, everything okay?"
-    new ""
+    new "你知道，你一直没回来，一切都好吗？"
 
     # game/v5/v5.rpy:654
     old "Wow, you really missed me that much, huh?"
-    new ""
+    new "哇，你真的这么想我，呵？"
 
     # game/v5/v5.rpy:660
     old "Hey"
-    new ""
+    new "嘿"
 
     # game/v5/v5.rpy:661
     old "Wanna do the personality tests today at noon?"
-    new ""
+    new "想在中午做性格测试吗？"
 
     # game/v5/v5.rpy:663
     old "Great :) Meet me at our economics' classroom."
-    new ""
+    new "太好了 :) 我们在经济课教室见。"
 
     # game/v5/v5.rpy:729
     old "Complaints? I love it."
-    new ""
+    new "抱怨？我很喜爱。"
 
     # game/v5/v5.rpy:729
     old "I don't like kissing in public."
-    new ""
+    new "我不喜欢当众接吻。"
 
     # game/v5/v5.rpy:779
     old "Sorry, not in public."
-    new ""
+    new "抱歉，不要在公共场合。"
 
     # game/v5/v5.rpy:779
     old "Actually, a kiss is fine."
-    new ""
+    new "实际上，亲吻是没问题的。"
 
     # game/v5/v5.rpy:1078
     old "Yes."
-    new ""
+    new "是的。"
 
     # game/v5/v5.rpy:1078
     old "No."
-    new ""
+    new "不是。"
 
     # game/v5/v5.rpy:1229
     old "Yeah, let's do it."
-    new ""
+    new "是啊，我们开始吧。"
 
     # game/v5/v5.rpy:1229
     old "I'd rather not."
-    new ""
+    new "我情愿不做。"
 
     # game/v5/v5.rpy:1344
     old "Yeah, okay."
-    new ""
+    new "是啊，好的。"
 
     # game/v5/v5.rpy:1460
     old "At least we're done now."
-    new ""
+    new "至少我们现在做完了。"
 
     # game/v5/v5.rpy:1460
     old "That was too far."
-    new ""
+    new "那太出格了。"
 
     # game/v5/v5.rpy:1660
     old "I should go apologize"
-    new ""
+    new "我该去道歉"
 
     # game/v5/v5.rpy:1660
     old "I'll give her time"
-    new ""
+    new "我会给她些时间"
 
     # game/v5/v5.rpy:1690
     old "I'm someone else"
-    new ""
+    new "我是另外的人"
 
     # game/v5/v5.rpy:1690
     old "I didn't mean to"
-    new ""
+    new "我不是故意的"
 
     # game/v5/v5.rpy:2722
     old "Confront Adam"
-    new ""
+    new "找亚当对质"
 
     # game/v5/v5.rpy:2741
     old "Punch him"
-    new ""
+    new "揍他"
 
     # game/v5/v5.rpy:2766
     old "Threaten to tell school"
-    new ""
+    new "威胁会通知学校"
 
     # game/v5/v5.rpy:2797
     old "Tell the school"
-    new ""
+    new "通知学校"
 
     # game/v5/v5.rpy:2797
     old "Keep it to yourself"
-    new ""
+    new "保密"
 
     # game/v5/v5.rpy:3751
     old "Yeah, I'm interested."
-    new ""
+    new "是啊，我有兴趣。"
 
     # game/v5/v5.rpy:3751
     old "Not really."
-    new ""
+    new "没有。"
 
     # game/v5/v5.rpy:4302
     old "Hey, you alone? xx"
-    new ""
+    new "嘿，你一个人吗？ xx"
 
     # game/v5/v5.rpy:4303
     old "I'm at the park, but I'm by myself."
-    new ""
+    new "我在公园里，但我是一个人。"
 
     # game/v5/v5.rpy:4304
     old "Go somewhere where you're completely alone xx"
-    new ""
+    new "去一个完全没有别人的地方 xx"
 
     # game/v5/v5.rpy:4305
     old "I got a surprise for you ;)"
-    new ""
+    new "我有个惊喜给你 ;)"
 
     # game/v5/v5.rpy:4319
     old "I got some free time right now :)"
-    new ""
+    new "我现在有空 :)"
 
     # game/v5/v5.rpy:4320
     old "Wanna go swimming?"
-    new ""
+    new "想去游泳吗？"
 
     # game/v5/v5.rpy:4321
     old "Any chance we could do it later? Or tomorrow?"
-    new ""
+    new "我们可以待会儿去吗？或者明天去？"
 
     # game/v5/v5.rpy:4322
     old "I'm busy later tonight and I'm pretty much booked for the entire week :/"
-    new ""
+    new "我今晚会很忙，而我这个星期基本都安排完了 :/"
 
