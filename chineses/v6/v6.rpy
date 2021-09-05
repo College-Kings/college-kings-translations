@@ -1990,445 +1990,445 @@ translate chineses fw_a_4f1997c1:
 translate chineses fw_a_2e4a8818:
 
     # u "Emily?"
-    u ""
+    u "艾米丽？"
 
 # game/v6/v6.rpy:2290
 translate chineses fw_a_932ecead:
 
     # em "*Sniff* Door's open..."
-    em ""
+    em "*鼻塞吸气*门是开的..."
 
 # game/v6/v6.rpy:2295
 translate chineses fw_a_e695d403:
 
     # u "So?"
-    u ""
+    u "那？"
 
 # game/v6/v6.rpy:2297
 translate chineses fw_a_bf0f879c:
 
     # em "*Sniff*"
-    em ""
+    em "*鼻塞吸气*"
 
 # game/v6/v6.rpy:2299
 translate chineses fw_a_a3495ac7:
 
     # u "Are you going to tell me what's wrong or not?!"
-    u ""
+    u "你到底要不要告诉我是怎么回事？！"
 
 # game/v6/v6.rpy:2304
 translate chineses fw_a_1e735209:
 
     # em "It's Hazel.."
-    em ""
+    em "是黑姿尔..."
 
 # game/v6/v6.rpy:2309
 translate chineses fw_a_178098b2:
 
     # u "As in your best friend from high school Hazel?"
-    u ""
+    u "就是你高中最好的朋友黑姿尔？"
 
 # game/v6/v6.rpy:2314
 translate chineses fw_a_cc77529c:
 
     # em "Yes."
-    em ""
+    em "是的。"
 
 # game/v6/v6.rpy:2319
 translate chineses fw_a_23d8e0c1:
 
     # u "What'd she do?"
-    u ""
+    u "她做了什么？"
 
 # game/v6/v6.rpy:2324
 translate chineses fw_a_c67f5e04:
 
     # u "She posted a picture?"
-    u ""
+    u "她贴了一张图片？"
 
 # game/v6/v6.rpy:2329
 translate chineses fw_a_783256d6:
 
     # em "Look!"
-    em ""
+    em "看！"
 
 # game/v6/v6.rpy:2334
 translate chineses fw_a_356fe308:
 
     # em "She cut me out!"
-    em ""
+    em "她把我给删掉了！"
 
 # game/v6/v6.rpy:2354
 translate chineses fw_a_1c2cf3f4:
 
     # u "No."
-    u ""
+    u "不。"
 
 # game/v6/v6.rpy:2361
 translate chineses fw_a_c2bdea7e_1:
 
     # "*You hang up*"
-    ""
+    "*你挂电话*"
 
 # game/v6/v6.rpy:2363
 translate chineses fw_a_57ae9944_1:
 
     # u "*Sighs*"
-    u ""
+    u "*叹气*"
 
 # game/v6/v6.rpy:2373
 translate chineses fw_a_a1030b81:
 
     # u "Hey Emily, what's up?"
-    u ""
+    u "嘿艾米丽，有事吗？"
 
 # game/v6/v6.rpy:2378
 translate chineses fw_a_cf9cf369_1:
 
     # em "(Sobbing) Can you please come over? I need you."
-    em ""
+    em "（哭泣）你能过来一下吗？我需要你。"
 
 # game/v6/v6.rpy:2383
 translate chineses fw_a_279e2b34:
 
     # u "Uhm, yeah of course, what's wrong?"
-    u ""
+    u "嗯，当然可以，有什么事吗？"
 
 # game/v6/v6.rpy:2388
 translate chineses fw_a_dbd1cf0c:
 
     # em "*Sniff* I just really need someone to talk to. I'm in Dorm 17, Block A."
-    em ""
+    em "*鼻塞吸气*我只是真的需要找人谈谈。我在A区17号寝室。"
 
 # game/v6/v6.rpy:2393
 translate chineses fw_a_8a1e45cc:
 
     # u "Okay, I'm on my way."
-    u ""
+    u "好的，我就来。"
 
 # game/v6/v6.rpy:2400
 translate chineses fw_a_c2bdea7e_2:
 
     # "*You hang up*"
-    ""
+    "*你挂电话*"
 
 # game/v6/v6.rpy:2407
 translate chineses fw_a_4f1997c1_1:
 
     # "*Knock knock knock*"
-    ""
+    "*敲 敲 敲*"
 
 # game/v6/v6.rpy:2409
 translate chineses fw_a_2e4a8818_1:
 
     # u "Emily?"
-    u ""
+    u "艾米丽？"
 
 # game/v6/v6.rpy:2414
 translate chineses fw_a_932ecead_1:
 
     # em "*Sniff* Door's open..."
-    em ""
+    em "*鼻塞吸气*门是开的..."
 
 # game/v6/v6.rpy:2419
 translate chineses fw_a_31eb7790:
 
     # u "Hey, what's wrong?"
-    u ""
+    u "嘿，发生了事？"
 
 # game/v6/v6.rpy:2424
 translate chineses fw_a_3f245d79:
 
     # em "*Sniff* It's Hazel.."
-    em ""
+    em "*鼻塞吸气*是黑姿尔..."
 
 # game/v6/v6.rpy:2429
 translate chineses fw_a_8817339b:
 
     # u "As in your best friend from college Hazel?"
-    u ""
+    u "就是你高中最好的朋友黑姿尔？"
 
 # game/v6/v6.rpy:2434
 translate chineses fw_a_cc77529c_1:
 
     # em "Yes."
-    em ""
+    em "是的。"
 
 # game/v6/v6.rpy:2439
 translate chineses fw_a_23d8e0c1_1:
 
     # u "What'd she do?"
-    u ""
+    u "她做了什么？"
 
 # game/v6/v6.rpy:2444
 translate chineses fw_a_c67f5e04_1:
 
     # u "She posted a picture?"
-    u ""
+    u "她贴了一张图片？"
 
 # game/v6/v6.rpy:2449
 translate chineses fw_a_783256d6_1:
 
     # em "Look!"
-    em ""
+    em "看！"
 
 # game/v6/v6.rpy:2454
 translate chineses fw_a_356fe308_1:
 
     # em "She cut me out!"
-    em ""
+    em "她把我给删掉了！"
 
 # game/v6/v6.rpy:2489
 translate chineses fz_a_d66f90c9:
 
     # u "Hey, it's okay."
-    u ""
+    u "嘿，没事的。"
 
 # game/v6/v6.rpy:2494
 translate chineses fz_a_3bd65c28:
 
     # em "No it's not! I just don't understand why she would do that! She didn't even ask me..."
-    em ""
+    em "不，有事的！我只是不明白她为什么要那么做！她连问都没有问我..."
 
 # game/v6/v6.rpy:2499
 translate chineses fz_a_9c98e318:
 
     # u "Have you asked her?"
-    u ""
+    u "你问过她吗？"
 
 # game/v6/v6.rpy:2504
 translate chineses fz_a_7e824ad8:
 
     # em "No, of course not. I don't wanna talk to her after what she did."
-    em ""
+    em "不，当然没有。我在她做了这些之后就不想跟她说话了。"
 
 # game/v6/v6.rpy:2509
 translate chineses fz_a_f6ff5156:
 
     # u "You ever think maybe it wasn't a very good picture of you? So she wouldn't want to post it, if you didn't look good in it."
-    u ""
+    u "你有想过也许那张照片把你照得不好？所以她不想把一张你照得不好的照片贴上去。"
 
 # game/v6/v6.rpy:2514
 translate chineses fz_a_38949b61:
 
     # em "What, you're saying I'm ugly?"
-    em ""
+    em "什么，你说我丑？"
 
 # game/v6/v6.rpy:2519
 translate chineses fz_a_0e65ac36:
 
     # u "*Chuckles* I guess I walked right into that one."
-    u ""
+    u "*抿嘴笑*我想我是径直走入了那个套话。"
 
 # game/v6/v6.rpy:2521
 translate chineses fz_a_b2de5f51:
 
     # u "Even though you're cute crying, I still prefer when you're smiling."
-    u ""
+    u "虽然你哭起来很可爱，我还是更喜欢你笑。"
 
 # game/v6/v6.rpy:2526
 translate chineses fz_a_7a1db2f5:
 
     # em "*Chuckles* Me too."
-    em ""
+    em "*抿嘴笑*我也是。"
 
 # game/v6/v6.rpy:2531
 translate chineses fz_a_2b1c9282:
 
     # em "Remember when we snuck into the movies 'cause you forgot your ID?"
-    em ""
+    em "还记得我们偷偷溜进电影院因为你忘了你的身份证？"
 
 # game/v6/v6.rpy:2536
 translate chineses fz_a_30f93b47:
 
     # u "Yeah and we got caught 'cause you couldn't keep your cool."
-    u ""
+    u "是啊，而且我们之后被逮到因为你不能保持冷静。"
 
 # game/v6/v6.rpy:2541
 translate chineses fz_a_73fe48d6:
 
     # em "*Laughs* That's still my favorite date to this day."
-    em ""
+    em "*大笑*那天至今都还是我最喜欢的一次约会。"
 
 # game/v6/v6.rpy:2546
 translate chineses fz_a_0a9c28ad:
 
     # u "Yeah... it was uhm... good."
-    u ""
+    u "是啊...那是嗯...很好"
 
 # game/v6/v6.rpy:2570
 translate chineses fz_a_3b7a3d46:
 
     # u "Emily! What are you doing?!"
-    u ""
+    u "艾米丽！你在做什么？！"
 
 # game/v6/v6.rpy:2575
 translate chineses fz_a_87cc5356:
 
     # em "I'm sorry, it's just..."
-    em ""
+    em "抱歉，只是..."
 
 # game/v6/v6.rpy:2577
 translate chineses fz_a_b544d06f:
 
     # em "When I see you, I- I just wanna kiss you."
-    em ""
+    em "当我见到你，我-我就想亲你。"
 
 # game/v6/v6.rpy:2582
 translate chineses fz_a_4ecfc0ea:
 
     # u "Maybe we shouldn't see each other then."
-    u ""
+    u "那也许我们不该再相见。"
 
 # game/v6/v6.rpy:2587
 translate chineses fz_a_349ad7ed:
 
     # em "[name], please..."
-    em ""
+    em "[名字]，别..."
 
 # game/v6/v6.rpy:2592
 translate chineses fz_a_9fb64eb4:
 
     # u "I gotta go. I'll see you around."
-    u ""
+    u "我得走了。我们再见了。"
 
 # game/v6/v6.rpy:2594
 translate chineses fz_a_1b03ac11:
 
     # u "Or... not."
-    u ""
+    u "或...不见。"
 
 # game/v6/v6.rpy:2602
 translate chineses fz_b_19101482:
 
     # u "Are you fucking kidding me?! This is why you're calling me??? Over something stupid like this?"
-    u ""
+    u "你他妈的在跟我开玩笑？！这就是你为什么给我打电话？？？为了像这么无聊的事？"
 
 # game/v6/v6.rpy:2607
 translate chineses fz_b_13dba02e:
 
     # em "God, you have no empathy at all, do you?!"
-    em ""
+    em "天哪，你还有没有一点同情心啊？！"
 
 # game/v6/v6.rpy:2612
 translate chineses fz_b_978741a9:
 
     # em "You never fucking cared! All my problems are ridiculous to you, like my feelings don't matter!"
-    em ""
+    em "你从来都他妈不关心！我的所有问题对你来说都是无稽之谈，就像我的感情一样一点都不重要！"
 
 # game/v6/v6.rpy:2617
 translate chineses fz_b_cbc70cad:
 
     # u "No fucking wonder, you get upset over stupid shit like this!"
-    u ""
+    u "他妈的难怪，你会为了这点屁事而生气！"
 
 # game/v6/v6.rpy:2619
 translate chineses fz_b_8106dfd3:
 
     # u "You make every little thing about yourself, 'cause that's all you care about! Grow the fuck up. No one gives a shit."
-    u ""
+    u "你把每一丁点小事都跟你自己联系起来，因为那才是你所关心的！他妈的成熟点。没人对屁事关心。"
 
 # game/v6/v6.rpy:2624
 translate chineses fz_b_5e09f045:
 
     # em "How can you even say that? After everything I did for you?!"
-    em ""
+    em "你怎么能那样说？在我为你做了那么多之后？！"
 
 # game/v6/v6.rpy:2625
 translate chineses fz_b_d0a6fdcd:
 
     # em "Every day I was there for you. I listened. I was the one who found your therapist. I did everything for you."
-    em ""
+    em "我每天都在关心呵护着你。我倾听你。我是那个帮你找到治疗师的。我为你做了一切。"
 
 # game/v6/v6.rpy:2626
 translate chineses fz_b_8cf6daaa:
 
     # em "So don't you dare tell me I only care about myself!"
-    em ""
+    em "所以别对我说我只在乎我自己！"
 
 # game/v6/v6.rpy:2631
 translate chineses fz_b_1fb26ab4:
 
     # u "You cheated on me!"
-    u ""
+    u "你把我给绿了！"
 
 # game/v6/v6.rpy:2636
 translate chineses fz_b_a0f24165:
 
     # em "I slipped up, okay?!"
-    em ""
+    em "我是不小心的，好吧？！"
 
 # game/v6/v6.rpy:2638
 translate chineses fz_b_848adced:
 
     # em "And I'm really sorry. But you have to admit it wasn't going well."
-    em ""
+    em "而且我真的很抱歉。但你得承认当时我们之间不是很融洽。"
 
 # game/v6/v6.rpy:2643
 translate chineses fz_b_2f87499f:
 
     # em "I mean, did you even love me anymore?"
-    em ""
+    em "我的意思是，你当时还爱我吗？"
 
 # game/v6/v6.rpy:2648
 translate chineses fz_b_adc1e2f4:
 
     # u "Of course I did."
-    u ""
+    u "我当然有。"
 
 # game/v6/v6.rpy:2653
 translate chineses fz_b_d55a56e4:
 
     # u "I..."
-    u ""
+    u "我..."
 
 # game/v6/v6.rpy:2676
 translate chineses fz_b_3b7a3d46:
 
     # u "Emily! What are you doing?!"
-    u ""
+    u "艾米丽！你在做什么？！"
 
 # game/v6/v6.rpy:2681
 translate chineses fz_b_87cc5356:
 
     # em "I'm sorry, it's just..."
-    em ""
+    em "抱歉，只是..."
 
 # game/v6/v6.rpy:2683
 translate chineses fz_b_b544d06f:
 
     # em "When I see you, I- I just wanna kiss you."
-    em ""
+    em "当我见到你，我-我就想亲你。"
 
 # game/v6/v6.rpy:2688
 translate chineses fz_b_4ecfc0ea:
 
     # u "Maybe we shouldn't see each other then."
-    u ""
+    u "那也许我们不该再相见。"
 
 # game/v6/v6.rpy:2693
 translate chineses fz_b_349ad7ed:
 
     # em "[name], please..."
-    em ""
+    em "[名字]，别..."
 
 # game/v6/v6.rpy:2698
 translate chineses fz_b_9fb64eb4:
 
     # u "I gotta go. I'll see you around."
-    u ""
+    u "我得走了。我们再见了。"
 
 # game/v6/v6.rpy:2700
 translate chineses fz_b_1b03ac11:
 
     # u "Or... not."
-    u ""
+    u "或...不见。"
 
 # game/v6/v6.rpy:2715
 translate chineses emsex_c_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v6/v6.rpy:2720
 translate chineses emsex_c_0529a669:
