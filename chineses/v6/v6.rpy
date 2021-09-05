@@ -2788,475 +2788,475 @@ translate chineses v6_nsfwSkipLabel1_1d3ccfe2:
 translate chineses afteremily_fd979a6f:
 
     # u "(What just happened...?)"
-    u ""
+    u "（刚刚发生了什么...？）"
 
 # game/v6/v6.rpy:3052
 translate chineses fy_bd_895b4b0f:
 
     # u "(I really hope Imre comes back at some point.)"
-    u ""
+    u "（我真希望伊姆雷什么时候能再回来。）"
 
 # game/v6/v6.rpy:3065
 translate chineses fy_bd_649ad9c0:
 
     # u "Hey, what's up?"
-    u ""
+    u "嘿，怎样啦？"
 
 # game/v6/v6.rpy:3070
 translate chineses fy_bd_31b3d31e:
 
     # imre "Not much, just back from class. What are you up to?"
-    imre ""
+    imre "没什么，刚上完课回来。你打算做什么吗？"
 
 # game/v6/v6.rpy:3075
 translate chineses fy_bd_34cc6799:
 
     # u "Some boring-ass Econ assignment."
-    u ""
+    u "一些无聊至极的经济学作业。"
 
 # game/v6/v6.rpy:3080
 translate chineses fy_bd_87f070f2:
 
     # imre "*Laughs* Yeah, assignments are the worst."
-    imre ""
+    imre "*大笑*是啊，作业是最糟糕的。"
 
 # game/v6/v6.rpy:3085
 translate chineses fy_bd_3706af4d:
 
     # imre "You up for another training session tomorrow morning?"
-    imre ""
+    imre "你明早要再去训练一次吗？"
 
 # game/v6/v6.rpy:3090
 translate chineses fy_bd_f959f467:
 
     # imre "*Winces in pain*"
-    imre ""
+    imre "*因疼痛畏缩*"
 
 # game/v6/v6.rpy:3095
 translate chineses fy_bd_5f2ebfec:
 
     # u "You're not allowed to train yet."
-    u ""
+    u "你暂时还不能进行训练。"
 
 # game/v6/v6.rpy:3100
 translate chineses fy_bd_49041954:
 
     # imre "Come on I'll just do some light stuff, it'll do me good. Plus I can teach you some new moves."
-    imre ""
+    imre "得了吧，我就只做些轻松的，对我会有帮助。况且我还能教你些新的打法。"
 
 # game/v6/v6.rpy:3102
 translate chineses fy_bd_0d7a9cd9:
 
     # imre "Pledging period is starting soon, so you wanna at least know the basics."
-    imre ""
+    imre "宣誓入会的时期马上就要开始了，你至少想要知道些基本功。"
 
 # game/v6/v6.rpy:3107
 translate chineses fy_bd_17980f31:
 
     # u "Alright fine, let's go to the gym tomorrow then."
-    u ""
+    u "好吧，那我们明天去健身房。"
 
 # game/v6/v6.rpy:3112
 translate chineses fy_bd_f8f59d4f:
 
     # imre "And then tomorrow night it's the Wolves' rush party, I can't fucking wait."
-    imre ""
+    imre "而明晚就是饿狼会的抢先派对，我他妈都等不及了。"
 
 # game/v6/v6.rpy:3117
 translate chineses fy_bd_79b183c4:
 
     # u "Yeah, it's exciting."
-    u ""
+    u "是啊，真令人期待。"
 
 # game/v6/v6.rpy:3122
 translate chineses fy_bd_0fcc3371:
 
     # imre "Alright, I'm gonna head out. Gotta buy more Ibuprofen for my ribs."
-    imre ""
+    imre "好吧，我要出去了。还要给我的肋骨多买些止痛药。"
 
 # game/v6/v6.rpy:3127
 translate chineses fy_bd_30ca988d:
 
     # u "Jesus... Enjoy."
-    u ""
+    u "天哪...请便。"
 
 # game/v6/v6.rpy:3138
 translate chineses continuebg_b4fe6db7:
 
     # u "(Hmmm...?)"
-    u ""
+    u "（嗯...？）"
 
 # game/v6/v6.rpy:3153
 translate chineses continuebg_ee51f0f5:
 
     # u "(Shit, it's almost eight. I gotta get ready for my date.)"
-    u ""
+    u "（糟，都快八点了。我还得为我的约会准备一下。）"
 
 # game/v6/v6.rpy:3163
 translate chineses continuebg_d3ad72ea:
 
     # u "(There she is.)"
-    u ""
+    u "（她在那儿。）"
 
 # game/v6/v6.rpy:3165
 translate chineses continuebg_ee1627bc:
 
     # u "Evelyn, hey!"
-    u ""
+    u "伊芙琳，嘿！"
 
 # game/v6/v6.rpy:3170
 translate chineses continuebg_170cb77f:
 
     # ev "Hello, [name]."
-    ev ""
+    ev "你好，[名字]。"
 
 # game/v6/v6.rpy:3175
 translate chineses continuebg_ebb05709:
 
     # u "Wow, you look-"
-    u ""
+    u "哇，你看上去-"
 
 # game/v6/v6.rpy:3180
 translate chineses continuebg_ec06c268:
 
     # ev "Let me guess, beautiful?"
-    ev ""
+    ev "让我猜猜，很美丽？"
 
 # game/v6/v6.rpy:3189
 translate chineses continuebg_cfbbb718:
 
     # u "Actually, I was gonna say hot."
-    u ""
+    u "实际上，我是想说很辣。"
 
 # game/v6/v6.rpy:3194
 translate chineses continuebg_97e6f57e:
 
     # ev "*Smirks* Of course you were."
-    ev ""
+    ev "*假笑*你当然是了。"
 
 # game/v6/v6.rpy:3202
 translate chineses continuebg_b1ab654c:
 
     # u "Actually, I was gonna say stunning."
-    u ""
+    u "实际上，我是想说很惊人。"
 
 # game/v6/v6.rpy:3207
 translate chineses continuebg_f06f0976:
 
     # ev "Oh, well thank you."
-    ev ""
+    ev "哦，那谢谢你。"
 
 # game/v6/v6.rpy:3213
 translate chineses gc_ad_aa4f29a7:
 
     # ev "Shall we go inside?"
-    ev ""
+    ev "我们进去好吧？"
 
 # game/v6/v6.rpy:3218
 translate chineses gc_ad_7cd3e74f:
 
     # u "After you, m'lady."
-    u ""
+    u "你先请，夫人。"
 
 # game/v6/v6.rpy:3223
 translate chineses gc_ad_7e6ec529:
 
     # waiter "Can I start you two off with something to drink?"
-    waiter ""
+    waiter "你们两位要先点一些饮料吗？"
 
 # game/v6/v6.rpy:3228
 translate chineses gc_ad_2cdff11e:
 
     # u "Uh, yeah, can I just get a beer?"
-    u ""
+    u "呃，是啊，我能来杯啤酒吗？"
 
 # game/v6/v6.rpy:3238
 translate chineses gc_ad_5db48f0d:
 
     # ev "A beer?"
-    ev ""
+    ev "啤酒？"
 
 # game/v6/v6.rpy:3243
 translate chineses gc_ad_e7ed71f1:
 
     # u "Yeah, why not?"
-    u ""
+    u "是啊，有什么不妥？"
 
 # game/v6/v6.rpy:3248
 translate chineses gc_ad_ff38fcf0:
 
     # ev "Could we get a bottle of red wine instead?"
-    ev ""
+    ev "我们可以点一瓶红酒吗？"
 
 # game/v6/v6.rpy:3253
 translate chineses gc_ad_3c31b17f:
 
     # u "Oh yeah, red wine. That works."
-    u ""
+    u "哦好啊，红酒也不错。"
 
 # game/v6/v6.rpy:3258
 translate chineses gc_ad_a179e7aa:
 
     # waiter "Yes ma'am, a bottle of red wine. Excellent choice."
-    waiter ""
+    waiter "好的女士，一瓶红酒。非常好的选择。"
 
 # game/v6/v6.rpy:3268
 translate chineses gc_ad_9efc2cb6:
 
     # ev "You know if you're going to wine and dine a lady, I suggest you really WINE and dine her."
-    ev ""
+    ev "你知道如果你打算邀约一位女士参加高级晚宴，我建议你确实的拿出实际行动。"
 
 # game/v6/v6.rpy:3273
 translate chineses gc_ad_e40d34c2:
 
     # u "Sorry, I didn't know you liked wine."
-    u ""
+    u "抱歉，我不知道你喜欢红酒。"
 
 # game/v6/v6.rpy:3283
 translate chineses gc_ad_ef7ae04f:
 
     # u "Soo... anything else new lately?"
-    u ""
+    u "那...最近有什么新鲜事？"
 
 # game/v6/v6.rpy:3288
 translate chineses gc_ad_be4ab9b3:
 
     # ev "Not really."
-    ev ""
+    ev "没什么。"
 
 # game/v6/v6.rpy:3293
 translate chineses gc_ad_e41603d5:
 
     # u "Been partying a lot?"
-    u ""
+    u "经常参加派对？"
 
 # game/v6/v6.rpy:3298
 translate chineses gc_ad_01f8b435:
 
     # ev "No, I'm actually quite busy with doing normal adult things."
-    ev ""
+    ev "不，我实际上都在忙着做成人的事。"
 
 # game/v6/v6.rpy:3303
 translate chineses gc_ad_92739275:
 
     # u "Oh, right."
-    u ""
+    u "哦，对。"
 
 # game/v6/v6.rpy:3308
 translate chineses gc_ad_ac1d9481:
 
     # waiter "There you go, a bottle of La Grupa Malbec Syrah from the 2018 harvest. It's from Tupungato in Mendoza. Delicate spices, ripe plums and cherries are balanced by refreshing acidity."
-    waiter ""
+    waiter "请看，一瓶2018年的拉格鲁帕马尔贝克西拉。产自门多萨的图彭加托。鲜美的香料，熟透的梅子和樱桃由清新凉爽的酸度完美的平衡着。"
 
 # game/v6/v6.rpy:3313
 translate chineses gc_ad_0c6aadf3:
 
     # ev "Thank you."
-    ev ""
+    ev "谢谢你。"
 
 # game/v6/v6.rpy:3318
 translate chineses gc_ad_ee01f9b9:
 
     # u "Thanks."
-    u ""
+    u "谢了。"
 
 # game/v6/v6.rpy:3323
 translate chineses gc_ad_9aa35903:
 
     # waiter "Are you both ready to order?"
-    waiter ""
+    waiter "你们两位都准备好点菜了吗？"
 
 # game/v6/v6.rpy:3328
 translate chineses gc_ad_87469685:
 
     # u "Yeah, I'll get the New York steak, medium rare."
-    u ""
+    u "是啊，我要一份纽约牛排，中等熟。"
 
 # game/v6/v6.rpy:3333
 translate chineses gc_ad_197e6765:
 
     # ev "And I'll have the eggplant parmesan."
-    ev ""
+    ev "而我要一份茄子加巴马干酪。"
 
 # game/v6/v6.rpy:3338
 translate chineses gc_ad_b7cbd6c5:
 
     # waiter "Very well."
-    waiter ""
+    waiter "很好。"
 
 # game/v6/v6.rpy:3352
 translate chineses gc_ad_2466aa8c:
 
     # u "So uhm, is this the only eggplant you're looking to eat tonight?"
-    u ""
+    u "那嗯，这是你今晚唯一想要吃的茄子吗？"
 
 # game/v6/v6.rpy:3359
 translate chineses gc_ad_4294c1b1:
 
     # u "Wow, tough crowd.."
-    u ""
+    u "哇，这群众..."
 
 # game/v6/v6.rpy:3369
 translate chineses gc_ad_ae725141:
 
     # u "So did you hear about the new discoveries they made on Mars recently?"
-    u ""
+    u "那你有听过他们最近在火星上的新发现吗？"
 
 # game/v6/v6.rpy:3374
 translate chineses gc_ad_b516c62e:
 
     # ev "No, I haven't. What was it they discovered?"
-    ev ""
+    ev "不，我还没有。他们发现了什么？"
 
 # game/v6/v6.rpy:3379
 translate chineses gc_ad_300f9c96:
 
     # u "Oh.. uh.. I'm not sure."
-    u ""
+    u "哦..呃..我不太清楚。"
 
 # game/v6/v6.rpy:3384
 translate chineses gc_ad_6d19fefa:
 
     # u "Water maybe? Just thought it would be a cool topic to discuss."
-    u ""
+    u "也许是水？我只是觉得这会是个很酷的话题。"
 
 # game/v6/v6.rpy:3389
 translate chineses gc_ad_1f8aea01:
 
     # ev "Right."
-    ev ""
+    ev "对。"
 
 # game/v6/v6.rpy:3395
 translate chineses gd_ad_57f7c3ba:
 
     # ev "Will you excuse me for a second?"
-    ev ""
+    ev "我能失陪一会儿吗？"
 
 # game/v6/v6.rpy:3400
 translate chineses gd_ad_2be5d203:
 
     # u "Yeah, of course."
-    u ""
+    u "是啊，当然。"
 
 # game/v6/v6.rpy:3405
 translate chineses gd_ad_b5702555:
 
     # u "(Shit this isn't going well. It's super awkward and we're not clicking at all.)"
-    u ""
+    u "（糟，这约会进展不顺。我们之间很别扭，完全没有一点默契。）"
 
 # game/v6/v6.rpy:3407
 translate chineses gd_ad_11ccda3f:
 
     # u "(I gotta connect with her, but how?)"
-    u ""
+    u "（我得跟她达成默契，但要怎么做呢？）"
 
 # game/v6/v6.rpy:3412
 translate chineses gd_ad_647c082e:
 
     # waiter "Eggplant parmesan for the lady."
-    waiter ""
+    waiter "女士点的茄子加巴马干酪。"
 
 # game/v6/v6.rpy:3417
 translate chineses gd_ad_dcfd0e56:
 
     # waiter "And the New York steak, medium rare, for the gentleman."
-    waiter ""
+    waiter "还有先生点的纽约牛排，中等熟。"
 
 # game/v6/v6.rpy:3422
 translate chineses gd_ad_ccd53b23:
 
     # u "Thank you."
-    u ""
+    u "谢谢你。"
 
 # game/v6/v6.rpy:3427
 translate chineses gd_ad_88f11dce:
 
     # waiter "You're most welcome."
-    waiter ""
+    waiter "完全不用客气。"
 
 # game/v6/v6.rpy:3437
 translate chineses gd_ad_33a93a19:
 
     # ev "This certainly looks delicious."
-    ev ""
+    ev "这的确看上去很好吃。"
 
 # game/v6/v6.rpy:3442
 translate chineses gd_ad_7d6e262e:
 
     # ev "Bon appetit."
-    ev ""
+    ev "祝你好胃口。"
 
 # game/v6/v6.rpy:3447
 translate chineses gd_ad_12f3b74d:
 
     # u "Uhm, yeah same."
-    u ""
+    u "嗯，也祝你好胃口。"
 
 # game/v6/v6.rpy:3452
 translate chineses gd_ad_5ffd156f:
 
     # u "(Time to turn this date around. I just gotta find a way to connect with her.)"
-    u ""
+    u "（是时候逆转这次约会了。我只是需要找到跟她达成默契的办法。）"
 
 # game/v6/v6.rpy:3465
 translate chineses gd_ad_8741596e:
 
     # u "So, how's life as a store clerk?"
-    u ""
+    u "那，作为一名商店职员的生活怎样？"
 
 # game/v6/v6.rpy:3470
 translate chineses gd_ad_372acc9f:
 
     # ev "You know that I'm more than a store clerk, right?"
-    ev ""
+    ev "你知道我不止是一名商店职员，对吧？"
 
 # game/v6/v6.rpy:3475
 translate chineses gd_ad_49a9e742:
 
     # u "Uhm..."
-    u ""
+    u "嗯..."
 
 # game/v6/v6.rpy:3480
 translate chineses gd_ad_cba38bed:
 
     # ev "I'm also assistant regional manager of the branch."
-    ev ""
+    ev "我也是分店的地区助理经理。"
 
 # game/v6/v6.rpy:3482
 translate chineses gd_ad_bb23e89e:
 
     # ev "Well, assistant to the regional manager, but it's basically the same thing."
-    ev ""
+    ev "这个，地区经理的助理，但基本上是一样的。"
 
 # game/v6/v6.rpy:3487
 translate chineses gd_ad_0edc6fd3:
 
     # u "Yeah, sounds uhm... important."
-    u ""
+    u "是啊，听上去嗯...挺重要的。"
 
 # game/v6/v6.rpy:3492
 translate chineses gd_ad_86123b87:
 
     # u "(This date really isn't getting better.)"
-    u ""
+    u "（这约会完全没有起色。）"
 
 # game/v6/v6.rpy:3501
 translate chineses gd_ad_6373b1b0:
 
     # u "So, what's your dream job? Say you could do anything."
-    u ""
+    u "那，你梦寐以求的工作是什么？如果你可以做任何事的话。"
 
 # game/v6/v6.rpy:3506
 translate chineses gd_ad_a137e37f:
 
     # ev "Dream job? That's not how life works, [name]."
-    ev ""
+    ev "梦寐以求的工作？现实生活不是那样的，[名字]。"
 
 # game/v6/v6.rpy:3508
 translate chineses gd_ad_1785b004:
 
     # ev "Working at the store pays well and it will offer great career opportunities in the future."
-    ev ""
+    ev "在店里工作工资不错，而且将来还有很好的升职潜力。"
 
 # game/v6/v6.rpy:3513
 translate chineses gd_ad_9411ad19:
