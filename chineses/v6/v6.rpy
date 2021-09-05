@@ -2434,355 +2434,355 @@ translate chineses emsex_c_9ea2f78c:
 translate chineses emsex_c_0529a669:
 
     # u "Wow..."
-    u ""
+    u "哇..."
 
 # game/v6/v6.rpy:2725
 translate chineses emsex_c_8b355b19:
 
     # em "Come here."
-    em ""
+    em "来这里。"
 
 # game/v6/v6.rpy:2730
 translate chineses emsex_c_fc8b2973:
 
     # em "*Chuckles*"
-    em ""
+    em "*抿嘴笑*"
 
 # game/v6/v6.rpy:2748
 translate chineses emsex_a_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v6/v6.rpy:2761
 translate chineses emsex_a_9b013366:
 
     # em "Fuck... get down there."
-    em ""
+    em "操...往下面去。"
 
 # game/v6/v6.rpy:2766
 translate chineses emsex_a_507e0dfa:
 
     # em "I haven't been eaten out in so long..."
-    em ""
+    em "我已经很久没被舔过了..."
 
 # game/v6/v6.rpy:2771
 translate chineses emsex_a_9c0c9c2f:
 
     # em "*Quiet moan* Mhhh..."
-    em ""
+    em "*低声呻吟*嗯..."
 
 # game/v6/v6.rpy:2781
 translate chineses emhead_7925d4c5:
 
     # em "*Moans* Ahhh...."
-    em ""
+    em "*呻吟*啊..."
 
 # game/v6/v6.rpy:2783
 translate chineses emhead_14b30358:
 
     # em "*Moans louder* Oh baby..."
-    em ""
+    em "*大声呻吟*噢~宝贝儿..."
 
 # game/v6/v6.rpy:2785
 translate chineses emhead_818ee437:
 
     # em "*Moans even louder* Fuuuuck."
-    em ""
+    em "更大声的呻吟*操~"
 
 # game/v6/v6.rpy:2787
 translate chineses emhead_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v6/v6.rpy:2789
 translate chineses emhead_1a8211a6:
 
     # em "Oh my god, I'm gonna cum."
-    em ""
+    em "噢我的天哪，我要高潮了。"
 
 # game/v6/v6.rpy:2791
 translate chineses emhead_f31627d2:
 
     # em "You're so fucking good at this..."
-    em ""
+    em "你真他妈太厉害了..."
 
 # game/v6/v6.rpy:2796
 translate chineses emhead_7b90eebd:
 
     # u "Nah, first it's my turn."
-    u ""
+    u "没有啊，首先轮到我了。"
 
 # game/v6/v6.rpy:2801
 translate chineses emhead_06d89a39:
 
     # em "Mhhh..."
-    em ""
+    em "嗯..."
 
 # game/v6/v6.rpy:2806
 translate chineses emhead_5c0a562f:
 
     # em "You look so good."
-    em ""
+    em "你看上去真棒。"
 
 # game/v6/v6.rpy:2811
 translate chineses emhead_564d9e32:
 
     # u "Take your shirt off."
-    u ""
+    u "把你的上衣脱了。"
 
 # game/v6/v6.rpy:2821
 translate chineses emhead_3da381ca:
 
     # u "You're gonna suck some dick now."
-    u ""
+    u "你现在要舔肉棒了。"
 
 # game/v6/v6.rpy:2826
 translate chineses emhead_00eb4eed:
 
     # em "Yesss... treat me like your dirty little slut."
-    em ""
+    em "好咧...把我当作你的小骚货。"
 
 # game/v6/v6.rpy:2833
 translate chineses emfacefuck_50e4e445:
 
     # u "Take this fucking dick."
-    u ""
+    u "含着他妈的这根肉棒。"
 
 # game/v6/v6.rpy:2835
 translate chineses emfacefuck_8f2ba603:
 
     # em "*Gag sounds*"
-    em ""
+    em "*作呕声*"
 
 # game/v6/v6.rpy:2837
 translate chineses emfacefuck_e9c40f23:
 
     # u "Fuck..."
-    u ""
+    u "操..."
 
 # game/v6/v6.rpy:2839
 translate chineses emfacefuck_8f2ba603_1:
 
     # em "*Gag sounds*"
-    em ""
+    em "*作呕声*"
 
 # game/v6/v6.rpy:2841
 translate chineses emfacefuck_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v6/v6.rpy:2846
 translate chineses emfacefuck_ac06ae34:
 
     # em "*Breathing heavily* Just fuck me, please!"
-    em ""
+    em "*深呼吸*快操我吧，求你了！"
 
 # game/v6/v6.rpy:2851
 translate chineses emfacefuck_c6fea742:
 
     # u "You wanna be fucked you little slut?"
-    u ""
+    u "你想被操吗，你个小骚货？"
 
 # game/v6/v6.rpy:2856
 translate chineses emfacefuck_3696aa12:
 
     # em "I'm so fucking wet."
-    em ""
+    em "我他妈湿透了。"
 
 # game/v6/v6.rpy:2858
 translate chineses emfacefuck_82968715:
 
     # em "Fuck me, [name]!"
-    em ""
+    em "操我，[名字]！"
 
 # game/v6/v6.rpy:2868
 translate chineses emfacefuck_4dc25266:
 
     # em "*Moans* Ahhh..."
-    em ""
+    em "*呻吟*啊..."
 
 # game/v6/v6.rpy:2875
 translate chineses embehind_50ff6872:
 
     # em "*Moans* Oh my god!"
-    em ""
+    em "*呻吟*噢~我的天哪！"
 
 # game/v6/v6.rpy:2877
 translate chineses embehind_bc3b597f:
 
     # em "*Moans louder* Yes! Fuck me!"
-    em ""
+    em "*大声呻吟*对！操我！"
 
 # game/v6/v6.rpy:2879
 translate chineses embehind_1153b30d:
 
     # em "*Moans* Yes! [name]!"
-    em ""
+    em "*呻吟*对！[名字]！"
 
 # game/v6/v6.rpy:2881
 translate chineses embehind_9327614b:
 
     # em "*Moans* Ahhh! Don't stop!"
-    em ""
+    em "*呻吟*啊！别停！"
 
 # game/v6/v6.rpy:2883
 translate chineses embehind_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v6/v6.rpy:2888
 translate chineses embehind_94f30d9b:
 
     # u "Fucking turn around."
-    u ""
+    u "他妈的转过去。"
 
 # game/v6/v6.rpy:2893
 translate chineses embehind_b6992f20:
 
     # em "*Breathing heavily* Mhhh..."
-    em ""
+    em "*深呼吸*嗯..."
 
 # game/v6/v6.rpy:2900
 translate chineses embutterfly_33104b16:
 
     # em "*Moans* Baby... yes!"
-    em ""
+    em "*呻吟*宝贝儿...对！"
 
 # game/v6/v6.rpy:2902
 translate chineses embutterfly_f4daee08:
 
     # em "*Moans louder* Ahhh!"
-    em ""
+    em "*大声呻吟*啊！"
 
 # game/v6/v6.rpy:2904
 translate chineses embutterfly_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v6/v6.rpy:2908
 translate chineses embutterfly_ccac5aee:
 
     # em "*Moans even louder* Oh my god! I'm gonna cum!"
-    em ""
+    em "*更大声呻吟*噢~我的天哪！我要高潮了！"
 
 # game/v6/v6.rpy:2910
 translate chineses embutterfly_9ea2f78c_1:
 
     # " "
-    ""
+    " "
 
 # game/v6/v6.rpy:2912
 translate chineses embutterfly_ba50b607:
 
     # u "Fuuuck!"
-    u ""
+    u "操！"
 
 # game/v6/v6.rpy:2914
 translate chineses embutterfly_44fc3dbd:
 
     # em "Cum inside me! Please! Fill me up!"
-    em ""
+    em "射在我里面！求你了！把我射满满的！"
 
 # game/v6/v6.rpy:2923
 translate chineses emclimax_c87fb5fe:
 
     # em "*Really loud moan* Ahhhhh!"
-    em ""
+    em "*很大声呻吟*啊！"
 
 # game/v6/v6.rpy:2934
 translate chineses emclimax_79e32b24:
 
     # u "That was so good."
-    u ""
+    u "好快活啊。"
 
 # game/v6/v6.rpy:2939
 translate chineses emclimax_567b5ff2:
 
     # em "Just like the old times."
-    em ""
+    em "就像过去一样。"
 
 # game/v6/v6.rpy:2944
 translate chineses emclimax_cfd5ae1b:
 
     # u "You are on the pill right?"
-    u ""
+    u "你在吃避孕药对吧？"
 
 # game/v6/v6.rpy:2949
 translate chineses emclimax_a15a0920:
 
     # em "*Laughs* Yeah, don't worry."
-    em ""
+    em "*大笑*是啊，别担心。"
 
 # game/v6/v6.rpy:2954
 translate chineses emclimax_e79bb6d7:
 
     # u "Phew..."
-    u ""
+    u "唷..."
 
 # game/v6/v6.rpy:2956
 translate chineses emclimax_267c210d:
 
     # u "I still need to finish some of my assignments, so I kinda gotta go now."
-    u ""
+    u "我还有一些作业要做，所以我现在得走了。"
 
 # game/v6/v6.rpy:2962
 translate chineses v6_nsfwSkipLabel1_9b9a52c4:
 
     # em "Already?"
-    em ""
+    em "现在就？"
 
 # game/v6/v6.rpy:2967
 translate chineses v6_nsfwSkipLabel1_e07ea09e:
 
     # u "Sorry, Emily. I don't wanna fall behind this early into the semester."
-    u ""
+    u "抱歉了，艾米丽。我不想在这学期这么早就掉队了。"
 
 # game/v6/v6.rpy:2972
 translate chineses v6_nsfwSkipLabel1_f270561c:
 
     # em "Are you at least gonna be at the party later?"
-    em ""
+    em "你至少待会儿会去派对吗？"
 
 # game/v6/v6.rpy:2977
 translate chineses v6_nsfwSkipLabel1_dcafa4ac:
 
     # u "You're going to the Wolves' rush party too?"
-    u ""
+    u "你也会去饿狼会的抢先派对？"
 
 # game/v6/v6.rpy:2982
 translate chineses v6_nsfwSkipLabel1_7f9524fe:
 
     # em "Yeah, Nora invited me."
-    em ""
+    em "是啊，诺拉邀请了我。"
 
 # game/v6/v6.rpy:2987
 translate chineses v6_nsfwSkipLabel1_a61fdaa7:
 
     # u "Oh, awesome. I'll see you tonight then."
-    u ""
+    u "哦，太棒了。那我们今晚见。"
 
 # game/v6/v6.rpy:2992
 translate chineses v6_nsfwSkipLabel1_2265f685:
 
     # em "Still would've rather you stayed now..."
-    em ""
+    em "不过还是希望你现在能留下..."
 
 # game/v6/v6.rpy:2997
 translate chineses v6_nsfwSkipLabel1_4592c69f:
 
     # u "Emily, you know I can't. I'll see you later."
-    u ""
+    u "艾米丽，你知道我不能。我们待会儿见。"
 
 # game/v6/v6.rpy:3002
 translate chineses v6_nsfwSkipLabel1_1d3ccfe2:
 
     # em "Okay..."
-    em ""
+    em "好的..."
 
 # game/v6/v6.rpy:3012
 translate chineses afteremily_fd979a6f:
