@@ -4228,319 +4228,319 @@ translate chineses afteraubrey_9ea2f78c:
 translate chineses afteraubrey_dc07930a:
 
     # u "(Oh shit, it's almost midnight.)"
-    u ""
+    u "（哦糟，就快午夜了。）"
 
 # game/v6/v6.rpy:4472
 translate chineses afteraubrey_250ab959:
 
     # u "(Grayson said I should meet him, but how can I trust him after everything that happened?)"
-    u ""
+    u "（格雷森说我该去见他，但我怎么可能在发生这么多的事之后还相信他？）"
 
 # game/v6/v6.rpy:4483
 translate chineses meetgrayson_d944c127:
 
     # u "(I wanna hear what he has to say.)"
-    u ""
+    u "（我想听听他有什么好说的。）"
 
 # game/v6/v6.rpy:4497
 translate chineses meetgrayson_a7e67782:
 
     # u "(Great, he's not even here.)"
-    u ""
+    u "（好了，他根本不在这儿。）"
 
 # game/v6/v6.rpy:4507
 translate chineses meetgrayson_5cdaa71d:
 
     # gr "Get in."
-    gr ""
+    gr "进来。"
 
 # game/v6/v6.rpy:4512
 translate chineses meetgrayson_1bd7393f:
 
     # u "Where are we-"
-    u ""
+    u "我们要去-"
 
 # game/v6/v6.rpy:4517
 translate chineses meetgrayson_2da6d711:
 
     # gr "Just get in. Come on."
-    gr ""
+    gr "进来先。快点。"
 
 # game/v6/v6.rpy:4522
 translate chineses meetgrayson_3bb7e37d:
 
     # u "*Sighs* Alright."
-    u ""
+    u "*叹气*好吧。"
 
 # game/v6/v6.rpy:4538
 translate chineses meetgrayson_3412dfb0:
 
     # u "So, really, where are we going?"
-    u ""
+    u "说真的，我们现要去哪儿？"
 
 # game/v6/v6.rpy:4544
 translate chineses meetgrayson_58e45bd2:
 
     # gr "*Laughs*"
-    gr ""
+    gr "*大笑*"
 
 # game/v6/v6.rpy:4550
 translate chineses meetgrayson_7f4f42ff:
 
     # gr "Anyone ever tell you to relax a little."
-    gr ""
+    gr "没人告诉你要放松一下吗？"
 
 # game/v6/v6.rpy:4556
 translate chineses meetgrayson_9add08bc:
 
     # gr "Trust the process!"
-    gr ""
+    gr "相信这个过程！"
 
 # game/v6/v6.rpy:4562
 translate chineses meetgrayson_156fa6bb:
 
     # u "Great... if I knew you were gonna kidnap me I wouldn't have shown up."
-    u ""
+    u "好了...要是我知道你会绑架我的话，我就不会来了。"
 
 # game/v6/v6.rpy:4568
 translate chineses meetgrayson_1e41b363:
 
     # gr "Just chill, okay? I'm not kidnapping you, Jesus."
-    gr ""
+    gr "冷静点，好吗？我没有绑架你，天哪。"
 
 # game/v6/v6.rpy:4580
 translate chineses meetgrayson_8817db4f:
 
     # gr "Like I said before, sorry about that night at the party. I have a tendency to drink too much sometimes."
-    gr ""
+    gr "向我之前说的一样，我对派对那晚发生的事表示遗憾。我有时不时喝太多的倾向。"
 
 # game/v6/v6.rpy:4581
 translate chineses meetgrayson_cc4bd5bd:
 
     # gr "Guess we all have shit that we need to deal with."
-    gr ""
+    gr "我想我们各自都有问题要处理。"
 
 # game/v6/v6.rpy:4587
 translate chineses meetgrayson_8b940739:
 
     # u "Right..."
-    u ""
+    u "对..."
 
 # game/v6/v6.rpy:4593
 translate chineses meetgrayson_ba0e81c6:
 
     # gr "You know, growing up. Things weren't always easy."
-    gr ""
+    gr "你知道，从小到大，事情不总是一帆风顺。"
 
 # game/v6/v6.rpy:4599
 translate chineses meetgrayson_47188771:
 
     # u "Yeah, I can relate to that."
-    u ""
+    u "是啊，我也感同身受。"
 
 # game/v6/v6.rpy:4605
 translate chineses meetgrayson_eedf7c7d:
 
     # gr "Sometimes I just snap. I guess it all comes back to how we grew up."
-    gr ""
+    gr "有时我突然发彪。我想这都跟我们怎么长大的有关系。"
 
 # game/v6/v6.rpy:4611
 translate chineses meetgrayson_0432d423:
 
     # u "If you don't mind me asking, how did you grow up?"
-    u ""
+    u "如果你不介意我问的话，你是怎样长大的？"
 
 # game/v6/v6.rpy:4617
 translate chineses meetgrayson_28dd0e60:
 
     # gr "When I was very young, my mom passed away, so for most of my life it was just me and my dad."
-    gr ""
+    gr "在我很小的时候，我妈死了，所以我的大多数生活中就只有我和我爸。"
 
 # game/v6/v6.rpy:4623
 translate chineses meetgrayson_2056e805:
 
     # u "I'm sorry."
-    u ""
+    u "我很抱歉。"
 
 # game/v6/v6.rpy:4629
 translate chineses meetgrayson_7e7154d6:
 
     # gr "It wasn't that bad for a while. Sure I was sad, but I had a great life before. My dad was caring and we had a lot of money so that was never an issue."
-    gr ""
+    gr "刚开始还可以。我当然很悲痛，但我之前过得很好。我爸对我很关心，而且我们有很多钱，所以一直没什么麻烦。"
 
 # game/v6/v6.rpy:4635
 translate chineses meetgrayson_0ec302d6:
 
     # u "So what happened?"
-    u ""
+    u "那之后发生了什么？"
 
 # game/v6/v6.rpy:4641
 translate chineses meetgrayson_16a4ec71:
 
     # gr "Well not too long after, my dad remarried. And at first it was fine, like at least my dad was happy."
-    gr ""
+    gr "没过多久，我爸接了二婚。刚开始还不错，至少我爸还很高兴。"
 
 # game/v6/v6.rpy:4642
 translate chineses meetgrayson_c97dc706:
 
     # gr "I didn't really get along with my two new stepbrothers, but they weren't terrible people."
-    gr ""
+    gr "我跟两个继母生的兄弟搞不好，但他们也不是穷凶极恶的人。"
 
 # game/v6/v6.rpy:4643
 translate chineses meetgrayson_89657c79:
 
     # gr "It wasn't until my dad became sick... I mean, it all happened so quickly and all of the sudden... he was gone."
-    gr ""
+    gr "直到我爸生了病...我的意思是，一切都发生的太快而突然之间...他就走了。"
 
 # game/v6/v6.rpy:4649
 translate chineses meetgrayson_b466a1d7:
 
     # gr "After that step mom just went crazy."
-    gr ""
+    gr "在那之后，继母就变得疯狂起来。"
 
 # game/v6/v6.rpy:4655
 translate chineses meetgrayson_b10f67eb:
 
     # gr "It's like she waited for this to push me out of the family. She'd force me to sleep in the attic and I had to do all the chores. I was treated like a maid."
-    gr ""
+    gr "就像是她一直等着爸死后好把我从家里踢出来。她强迫我睡房顶间而且我还要做所有的家务。我就像个仆人似的。"
 
 # game/v6/v6.rpy:4656
 translate chineses meetgrayson_a32f21f6:
 
     # gr "And my step brothers taunted and bullied me. The once amazing house I lived in had fallen apart because my evil stepmother began spending all of my dad's money."
-    gr ""
+    gr "而继母生的兄弟又嘲弄和欺负我。那曾经很美好的房子也逐渐年久失修，因为那邪恶的继母开始挥霍我爸的所有遗产。"
 
 # game/v6/v6.rpy:4657
 translate chineses meetgrayson_23a48cec:
 
     # gr "It was really terrible. I was never allowed to make friends or have fun. I lived just to serve them."
-    gr ""
+    gr "一切变得很可怕。我一直都不允许交朋友或着玩耍。我的生活就是为了服务他们。"
 
 # game/v6/v6.rpy:4667
 translate chineses meetgrayson_31b816c5:
 
     # u "Man, I'm sorry. That's really terrible. I didn't know you had it so rough."
-    u ""
+    u "哥们儿，我很抱歉。那太可怕了。我不知道你过得这么难受。"
 
 # game/v6/v6.rpy:4673
 translate chineses meetgrayson_c0c562f0:
 
     # gr "Yeah, sometimes stuff like that just leads to anger management issues."
-    gr ""
+    gr "是啊，有时像这样的事会造成脾气上的管控问题。"
 
 # game/v6/v6.rpy:4679
 translate chineses meetgrayson_3e49d661:
 
     # u "I get it. We're cool."
-    u ""
+    u "我明白。我们之间没事。"
 
 # game/v6/v6.rpy:4685
 translate chineses meetgrayson_2145baea:
 
     # gr "Good. We're here by the way."
-    gr ""
+    gr "好。顺便说下，我们到了。"
 
 # game/v6/v6.rpy:4690
 translate chineses meetgrayson_797010c1:
 
     # u "That story sure sounds an awful lot like Cinderella."
-    u ""
+    u "这故事听上去像极了灰姑娘。"
 
 # game/v6/v6.rpy:4696
 translate chineses meetgrayson_2002ab68:
 
     # gr "*Laughs* You got me."
-    gr ""
+    gr "*大笑*你逮到我了。"
 
 # game/v6/v6.rpy:4702
 translate chineses meetgrayson_ef2f1671:
 
     # u "What?"
-    u ""
+    u "什么？"
 
 # game/v6/v6.rpy:4708
 translate chineses meetgrayson_3847538c:
 
     # gr "It was a test."
-    gr ""
+    gr "那是个测试。"
 
 # game/v6/v6.rpy:4714
 translate chineses meetgrayson_c08124eb:
 
     # u "A test?"
-    u ""
+    u "测试？"
 
 # game/v6/v6.rpy:4720
 translate chineses meetgrayson_e4aed42c:
 
     # gr "Yeah, just to see how naive you were. To be an Ape you gotta be sharp. We need top guys."
-    gr ""
+    gr "是啊，只是要看看你有多天真。要做一名人猿会的你必须很机灵。我们只需要最强的人。"
 
 # game/v6/v6.rpy:4721
 translate chineses meetgrayson_01dbe0fb:
 
     # gr "Not a lot of people would've caught that."
-    gr ""
+    gr "没几个人能看穿那故事。"
 
 # game/v6/v6.rpy:4727
 translate chineses meetgrayson_8b940739_1:
 
     # u "Right..."
-    u ""
+    u "对..."
 
 # game/v6/v6.rpy:4733
 translate chineses meetgrayson_4489cc69:
 
     # gr "We're here."
-    gr ""
+    gr "我们到了。"
 
 # game/v6/v6.rpy:4741
 translate chineses wehere_5b92abc2:
 
     # gr "What does it mean to be a winner?"
-    gr ""
+    gr "赢家代表什么？"
 
 # game/v6/v6.rpy:4751
 translate chineses wehere_c13a46d4:
 
     # gr "A winner is relentless. Some would even say ruthless. A tough guy. A guy who will stick it out until the end to make sure, that he's the one coming out on top."
-    gr ""
+    gr "赢家不屈不饶。有人甚至说是毫不留情。一名硬汉。一个能为了他今后的成功而忍耐到底的男人。"
 
 # game/v6/v6.rpy:4752
 translate chineses wehere_5dbc255b:
 
     # gr "A winner doesn't let anyone surpass him. He won't tolerate anyone who gets in his way. He does whatever it takes to win."
-    gr ""
+    gr "赢家不会让任何人超过他。他不会容忍任何人的阻挠。他会做任何事来获取胜利。"
 
 # game/v6/v6.rpy:4757
 translate chineses wehere_87767ff4:
 
     # gr "So in other words, a winner is an Ape. An Ape doesn't let any fucker step on him. An Ape isn't a pussy."
-    gr ""
+    gr "用另外的话说，赢家是人猿会。人猿会的不会让任何傻瓜踩到头上去。人猿会的不是脓包。"
 
 # game/v6/v6.rpy:4762
 translate chineses wehere_3fcc46a3:
 
     # gr "He stands up for himself and his guys and fights it out. We're some of the strongest and smartest guys around."
-    gr ""
+    gr "他为了他自己和他的伙伴而战。我们是这里最强的又是最聪明的。"
 
 # game/v6/v6.rpy:4767
 translate chineses wehere_faf5e393:
 
     # gr "[name], I look at you and I see the potential."
-    gr ""
+    gr "[名字]，我从你的身上看到了潜力。"
 
 # game/v6/v6.rpy:4768
 translate chineses wehere_dce8ec1c:
 
     # gr "The potential to become the next great Ape. To become a winner. To become a leader."
-    gr ""
+    gr "成长为下一个伟大人猿会一员的潜力。成为赢家。成为王者。"
 
 # game/v6/v6.rpy:4769
 translate chineses wehere_8134e4bb:
 
     # gr "Join the Apes. Join me. Together, we'll destroy the Wolves. We'll destroy anyone who gets in our way."
-    gr ""
+    gr "加入人猿会。加入我。一起，我们会摆平饿狼会。我们会摆平任何挡在我们面前的人。"
 
 # game/v6/v6.rpy:4774
 translate chineses wehere_4a72fcf0:
