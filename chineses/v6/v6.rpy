@@ -4540,553 +4540,552 @@ translate chineses wehere_dce8ec1c:
 translate chineses wehere_8134e4bb:
 
     # gr "Join the Apes. Join me. Together, we'll destroy the Wolves. We'll destroy anyone who gets in our way."
-    gr "加入人猿会。加入我。一起，我们会摆平饿狼会。我们会摆平任何挡在我们面前的人。"
+    gr "加入人猿会。加入我。一起，我们会消灭饿狼会。我们会消灭任何挡在我们面前的人。"
 
 # game/v6/v6.rpy:4774
 translate chineses wehere_4a72fcf0:
 
     # gr "And the best part, all the girls come flocking. I know you have your eye on Chloe. She won't be able to resist you."
-    gr ""
+    gr "而且最棒的是，所有的美女都会群集来。我知道你看上了克洛伊。她抵挡不住你的吸引。"
 
 # game/v6/v6.rpy:4781
 translate chineses wehere_41e5043e:
 
     # u "How do you see potential, when you don't even know me?"
-    u ""
+    u "你连我都还不认识的情况下，是怎么看到潜力的？"
 
 # game/v6/v6.rpy:4784
 translate chineses wehere_cfe8d72f:
 
     # u "I haven't even fought anyone!"
-    u ""
+    u "我还没跟任何人打过！"
 
 # game/v6/v6.rpy:4789
 translate chineses wehere_9a810d24:
 
     # gr "You can teach someone how to fight, but you can't teach them how to think."
-    gr ""
+    gr "你可以教别人打斗，但你没法教他们怎么思考。"
 
 # game/v6/v6.rpy:4792
 translate chineses wehere_0dd25d76:
 
     # u "I fought like one guy in my entire life!"
-    u ""
+    u "我这辈子似乎就跟一个人打过！"
 
 # game/v6/v6.rpy:4797
 translate chineses wehere_9a810d24_1:
 
     # gr "You can teach someone how to fight, but you can't teach them how to think."
-    gr ""
+    gr "你可以教别人打斗，但你没法教他们怎么思考。"
 
 # game/v6/v6.rpy:4800
 translate chineses wehere_acbc962b:
 
     # u "I fought like two people in my entire life!"
-    u ""
+    u "我这辈子似乎就跟两个人打过！"
 
 # game/v6/v6.rpy:4805
 translate chineses wehere_ddfdf0b9:
 
     # gr "You can teach someone how to fight, you can't teach them how to think."
-    gr ""
+    gr "你可以教别人打斗，但你没法教他们怎么思考。"
 
 # game/v6/v6.rpy:4807
 translate chineses wehere_c512aa3b:
 
     # gr "You may not be a big fighter yet, but we can change that in no time with our facilities."
-    gr ""
+    gr "你也许还不是名优秀的斗士，但我们可以通过训练设施很快把你培养成为一名。"
 
 # game/v6/v6.rpy:4808
 translate chineses wehere_34f5fe90:
 
     # gr "What I see in front of me is much more than a fighter, I see a leader."
-    gr ""
+    gr "我眼前所看到的不单单只是个斗士，而是个王者。"
 
 # game/v6/v6.rpy:4809
 translate chineses wehere_e6f058f0:
 
     # gr "People are drawn to you. Don't let that go to waste with a frat that doesn't see your true potential."
-    gr ""
+    gr "人们被你所吸引。别把它浪费在一个看不见你真实潜力的兄弟会上。"
 
 # game/v6/v6.rpy:4810
 translate chineses wehere_8fbaa728:
 
     # gr "Join the Apes and I promise you, everyone at San Vallejo will know who you are within weeks."
-    gr ""
+    gr "加入人猿会后我保证，你的大名在几周之内就会响彻圣瓦列霍。"
 
 # game/v6/v6.rpy:4815
 translate chineses wehere_3de68741:
 
     # gr "So what do you say?"
-    gr ""
+    gr "那你说怎样？"
 
 # game/v6/v6.rpy:4820
 translate chineses wehere_49a9e742:
 
     # u "Uhm..."
-    u ""
+    u "嗯..."
 
 # game/v6/v6.rpy:4827
 translate chineses wehere_b331919a:
 
     # imre "Exactly, which is also why I'm joining the Wolves."
-    imre ""
+    imre "正解，那也是为什么我要加入饿狼会。"
 
 # game/v6/v6.rpy:4832
 translate chineses wehere_a2226aec:
 
     # u "The Wolves? I thought the Apes were the best frat to get girls?"
-    u ""
+    u "饿狼会？我以为人猿会才是最适合泡妞的兄弟会。"
 
 # game/v6/v6.rpy:4837
 translate chineses wehere_b001c4ba:
 
     # imre "Who told you that?! That's bullshit."
-    imre ""
+    imre "谁告诉你的？简直是胡说八道。"
 
 # game/v6/v6.rpy:4838
 translate chineses wehere_20d8a0c5:
 
     # imre "The Apes are disloyal pieces of shit. The Wolves are real brothers and they get mad pussy."
-    imre ""
+    imre "人猿会的全是一群不忠不义的混混。饿狼会的才是真正的兄弟而且他们对泡妞也很在行。"
 
 # game/v6/v6.rpy:4843
 translate chineses wehere_d8ab5241:
 
     # u "Didn't you say it's your first day? How do you know the frats so well?"
-    u ""
+    u "你刚不是说你是第一天来这儿吗？你怎么对兄弟会的情况这么了解？"
 
 # game/v6/v6.rpy:4848
 translate chineses wehere_b938dede:
 
     # imre "It is, but my brother used to be a Wolf and he told me about all the shady shit that the Apes would do."
-    imre ""
+    imre "我是刚来，但我老哥以前是饿狼会的，而且他把所有那些人猿会做的肮脏事都告诉我了。"
 
 # game/v6/v6.rpy:4860
 translate chineses wehere_41f7fb45:
 
     # u "Okay, I'm in."
-    u ""
+    u "好的，我加入。"
 
 # game/v6/v6.rpy:4870
 translate chineses wehere_db2ed90b:
 
     # gr "That's what I'm talking about!"
-    gr ""
+    gr "这才没浪费我的口舌！"
 
 # game/v6/v6.rpy:4880
 translate chineses wehere_8712550d:
 
     # gr "You made the right call."
-    gr ""
+    gr "你做了正确选择。"
 
 # game/v6/v6.rpy:4885
 translate chineses wehere_474f0d7f:
 
     # u "Yeah, I sure hope so."
-    u ""
+    u "是啊，我当然希望是。"
 
 # game/v6/v6.rpy:4890
 translate chineses wehere_dd4ba356:
 
     # gr "Trust me."
-    gr ""
+    gr "相信我。"
 
 # game/v6/v6.rpy:4891
 translate chineses wehere_351a4e55:
 
     # gr "Just remember, once an Ape, always an Ape. Otherwise we're gonna have to kill you."
-    gr ""
+    gr "只是记住，一旦成为人猿会一员，那你永远都是。否则我们就得解决掉你。"
 
 # game/v6/v6.rpy:4896
 translate chineses wehere_106f7a82:
 
     # u "What???"
-    u ""
+    u "什么？？？"
 
 # game/v6/v6.rpy:4901
 translate chineses wehere_5035cacb:
 
     # gr "*Laughs* I'm just messing with you. Come on, let's go."
-    gr ""
+    gr "*大笑*我只是跟你开玩笑。来吧，我们走。"
 
 # game/v6/v6.rpy:4911
 translate chineses wehere_b52f166f:
 
     # u "I told people I was gonna go to the Wolves' rush party, but I probably shouldn't go now, right?"
-    u ""
+    u "我告诉过别人我会去参加饿狼会的抢先派对，但我现在似乎不该去了，对吧？"
 
 # game/v6/v6.rpy:4917
 translate chineses wehere_92d563ab:
 
     # gr "Nah, you should go."
-    gr ""
+    gr "不，你该去。"
 
 # game/v6/v6.rpy:4923
 translate chineses wehere_01fb1865:
 
     # gr "Sometimes I like to hang out with less talented people too... just to see how the other side lives."
-    gr ""
+    gr "有时我也喜欢跟缺乏天赋的人交流...只是想看看另一面的生活是怎么样的。"
 
 # game/v6/v6.rpy:4929
 translate chineses wehere_0129843b:
 
     # u "*Chuckles* Alright, I'll go."
-    u ""
+    u "*抿嘴笑*好吧，我会去。"
 
 # game/v6/v6.rpy:4935
 translate chineses wehere_9779f5d9:
 
     # gr "The official pledging period starts on Wednesday, so I expect you at the Ape's house at 6 pm that day."
-    gr ""
+    gr "正式宣誓入会从星期三开始，所以我预计你会在当天下午6点到人猿会的房子来。"
 
 # game/v6/v6.rpy:4941
 translate chineses wehere_9ce3194b:
 
     # u "I'll be there."
-    u ""
+    u "我会去那的。"
 
 # game/v6/v6.rpy:4947
 translate chineses wehere_20d6e415:
 
     # gr "Good. Trust me, this will change everything."
-    gr ""
+    gr "好。相信我，这会改变一切。"
 
 # game/v6/v6.rpy:4954
 translate chineses wehere_e3ac30cf:
 
     # u "Sorry, Grayson. But I don't wanna be an Ape."
-    u ""
+    u "抱歉，格雷森。但我不想加入人猿会。"
 
 # game/v6/v6.rpy:4959
 translate chineses wehere_d97e760b:
 
     # gr "What? What do you mean you don't wanna be an Ape?!"
-    gr ""
+    gr "什么？你不想加入人猿会是什么意思？！"
 
 # game/v6/v6.rpy:4964
 translate chineses wehere_cc6a7e76:
 
     # u "I'm not like you, I care about my friends."
-    u ""
+    u "我跟你不同，我关心我的朋友们。"
 
 # game/v6/v6.rpy:4965
 translate chineses wehere_95680a44:
 
     # u "I'm not gonna betray Imre and I'm not gonna join you after everything that's happened."
-    u ""
+    u "我不会背叛伊姆雷，而且在发生了这么多事之后我是不会加入你们的。"
 
 # game/v6/v6.rpy:4970
 translate chineses wehere_82fe40f1:
 
     # gr "You're a nobody without the Apes. You're making the biggest mistake of your life."
-    gr ""
+    gr "你不加入人猿会就只能是个无名小卒。你在犯你这辈子最大的错误。"
 
 # game/v6/v6.rpy:4975
 translate chineses wehere_536bc073:
-
     # u "That may be the case, but at least I'm not being a disloyal piece of shit."
-    u ""
+    u "也许会是，但我至少不是个不忠不义的混混。"
 
 # game/v6/v6.rpy:4980
 translate chineses wehere_78de11c8:
 
     # gr "I guess you don't have what it takes to be a winner. What a shame."
-    gr ""
+    gr "我想你没有需要成为赢家的前提。真遗憾啊。"
 
 # game/v6/v6.rpy:4991
 translate chineses wehere_8a3cd010:
 
     # u "Hey! Where are you going?"
-    u ""
+    u "嘿！你去哪儿？"
 
 # game/v6/v6.rpy:4997
 translate chineses wehere_1d7a62ff:
 
     # u "Grayson, what the fuck?! You're my ride!"
-    u ""
+    u "格雷森，你他妈搞什么？！我是在搭你的车！"
 
 # game/v6/v6.rpy:5002
 translate chineses wehere_f617ca71:
 
     # u "Fuck!"
-    u ""
+    u "操！"
 
 # game/v6/v6.rpy:5003
 translate chineses wehere_290c0a3a:
 
     # u "(Guess I'm calling an Uber.)"
-    u ""
+    u "（我想我得叫优步。）"
 
 # game/v6/v6.rpy:5017
 translate chineses wehere_e7240c19:
 
     # u "(Fuck Grayson, I'm not meeting him.)"
-    u ""
+    u "（他妈的格雷森，我不会再见他了。）"
 
 # game/v6/v6.rpy:5025
 translate chineses aftergrayson_697eb4ad:
 
     # u "(This day was wild. I don't even know what to think anymore...)"
-    u ""
+    u "（这一天真狂野。我都不知道该怎么思考了...）"
 
 # game/v6/v6.rpy:5027
 translate chineses aftergrayson_2b225959:
 
     # u "(Time to get some rest.)"
-    u ""
+    u "（是时候休息一下了。）"
 
 # game/v6/v6.rpy:5039
 translate chineses aftergrayson_73c92353:
 
     # ri "He's coming!"
-    ri ""
+    ri "他来了！"
 
 # game/v6/v6.rpy:5044
 translate chineses aftergrayson_16c9bc68:
 
     # la "I can't run any faster!"
-    la ""
+    la "我已经跑不快了！"
 
 # game/v6/v6.rpy:5049
 translate chineses aftergrayson_81c29d39:
 
     # u "Fuck guys! We can't go any further, there's a cliff!"
-    u ""
+    u "操他妈的！我们跑不了了，那里是悬崖！"
 
 # game/v6/v6.rpy:5054
 translate chineses aftergrayson_575f57c4:
 
     # u "Guys?"
-    u ""
+    u "伙伴们？"
 
 # game/v6/v6.rpy:5064
 translate chineses aftergrayson_a476c297:
 
     # unknown "I guess it's time for you two to die."
-    unknown ""
+    unknown "我想是时候杀掉你们两了。"
 
 # game/v6/v6.rpy:5065
 translate chineses aftergrayson_d38b8b4d:
 
     # unknown "3..."
-    unknown ""
+    unknown "3..."
 
 # game/v6/v6.rpy:5066
 translate chineses aftergrayson_7641b7e1:
 
     # unknown "2..."
-    unknown ""
+    unknown "2..."
 
 # game/v6/v6.rpy:5079
 translate chineses aftergrayson_51ffc16a:
 
     # unknown "1..."
-    unknown ""
+    unknown "1..."
 
 # game/v6/v6.rpy:5091
 translate chineses aftergrayson_d8913c1b:
 
     # u "Nooo!"
-    u ""
+    u "不要！"
 
 # game/v6/v6.rpy:5103
 translate chineses aftergrayson_51ffc16a_1:
 
     # unknown "1..."
-    unknown ""
+    unknown "1..."
 
 # game/v6/v6.rpy:5115
 translate chineses aftergrayson_d8913c1b_1:
 
     # u "Nooo!"
-    u ""
+    u "不要！"
 
 # game/v6/v6.rpy:5125
 translate chineses timera_51ffc16a:
 
     # unknown "1..."
-    unknown ""
+    unknown "1..."
 
 # game/v6/v6.rpy:5131
 translate chineses timera_d8913c1b:
 
     # u "Nooo!"
-    u ""
+    u "不要！"
 
 # game/v6/v6.rpy:5141
 translate chineses wakeupa_58d6edb4:
 
     # u "*Breathing heavily* (Holy shit... thank god that was just a dream.)"
-    u ""
+    u "*深呼吸*（天哪...谢天谢地那只是个梦。）"
 
 # game/v6/v6.rpy:5150
 translate chineses wakeupa_10cebeab:
 
     # imre "Wake up, man."
-    imre ""
+    imre "快醒来，哥们儿。"
 
 # game/v6/v6.rpy:5151
 translate chineses wakeupa_86ec8130:
 
     # imre "Time to go to the gym!"
-    imre ""
+    imre "该去健身房的时候了！"
 
 # game/v6/v6.rpy:5156
 translate chineses wakeupa_f9a05ea1:
 
     # u "Mhmm alright. Give me ten minutes."
-    u ""
+    u "嗯好吧。给我十分钟。"
 
 # game/v6/v6.rpy:5161
 translate chineses wakeupa_20178c07:
 
     # u "But you gotta promise to keep it light today."
-    u ""
+    u "但你要保证你今天不会太勉强。"
 
 # game/v6/v6.rpy:5166
 translate chineses wakeupa_0ffad696:
 
     # imre "Sure, bud. I'm gonna teach you a slick move today."
-    imre ""
+    imre "当然，老兄。我要教你一套行云流水的招数。"
 
 # game/v6/v6.rpy:5171
 translate chineses wakeupa_17aa8f59:
 
     # u "I feel like at some point all these moves become too much to focus on, haha."
-    u ""
+    u "我觉得这些招式迟早会变得很难专心运用，哈哈。"
 
 # game/v6/v6.rpy:5176
 translate chineses wakeupa_9bbccaaf:
 
     # imre "I used to feel that way too, but my brother taught me a good technique to deal with that."
-    imre ""
+    imre "我过去也是这么觉得，但我老哥教了我一个很好的技巧来解决这个问题。"
 
 # game/v6/v6.rpy:5177
 translate chineses wakeupa_0bfcd917:
 
     # imre "Before every fight I like to think about what moves might be best against each opponent and then I just focus on these."
-    imre ""
+    imre "每一次打斗之前我会去考虑什么样的招式最适合对付什么样的对手，然后我就只专注这些招式。"
 
 # game/v6/v6.rpy:5182
 translate chineses wakeupa_2960e019:
 
     # u "Huh, so what's the point of learning new moves if you only use a few at a time anyways?"
-    u ""
+    u "呵，如果你一次只使用几种招式，那还学新招式干嘛？"
 
 # game/v6/v6.rpy:5187
 translate chineses wakeupa_0267d3d2:
 
     # imre "Different sized opponents require different techniques. Also, what about impressing the ladies that watch you fight? The cooler the moves, the hotter the girls."
-    imre ""
+    imre "不同形态的对手需要不同的技巧。还有，为什么不用华丽的招式来征服看你比赛的美女？招式越酷，妹子越辣。"
 
 # game/v6/v6.rpy:5192
 translate chineses wakeupa_66c635b8:
 
     # u "*Laughs* You really know your priorities."
-    u ""
+    u "*大笑*你真把重点搞得很清楚啊。"
 
 # game/v6/v6.rpy:5197
 translate chineses wakeupa_91342791:
 
     # imre "Alright, I'm gonna show you how to throw an uppercut."
-    imre ""
+    imre "好吧，我现在给你展示怎么甩上勾拳。"
 
 # game/v6/v6.rpy:5207
 translate chineses wakeupa_c3a74fec:
 
     # imre "*Winces in pain* Ahh fuck."
-    imre ""
+    imre "*因疼痛畏缩*"
 
 # game/v6/v6.rpy:5212
 translate chineses wakeupa_f9ac4eb4:
 
     # u "Shit. Imre, be careful."
-    u ""
+    u "糟。伊姆雷，小心。"
 
 # game/v6/v6.rpy:5217
 translate chineses wakeupa_17c236f2:
 
     # imre "Okay, turns out I can't really show you the full power of it right now."
-    imre ""
+    imre "好吧，看来我现在还不能像你展示全力一击。"
 
 # game/v6/v6.rpy:5219
 translate chineses wakeupa_dc52df4c:
 
     # imre "Just go like this."
-    imre ""
+    imre "就像这样的。"
 
 # game/v6/v6.rpy:5244
 translate chineses wakeupa_ce3568cd:
 
     # imre "Just remember, you want your fist to be a vertical line to your opponent's chin when you hit it."
-    imre ""
+    imre "只是记住，你的拳头在击中对手的一刹那要跟他的下把成一条直线。"
 
 # game/v6/v6.rpy:5259
 translate chineses wakeupa_859d3c00:
 
     # imre "Nice! Try again."
-    imre ""
+    imre "不错！再来。"
 
 # game/v6/v6.rpy:5282
 translate chineses wakeupa_827fd5c0:
 
     # imre "Great job! Now let's move on to some strength and conditioning training."
-    imre ""
+    imre "做得太好了！现在我们来做些力量上和调理上的训练。"
 
 # game/v6/v6.rpy:5347
 translate chineses wakeupa_09131575:
 
     # u "*Breathing heavily* (Fuck, that was so much harder than last time.)"
-    u ""
+    u "*深呼吸*（操，这比上次要难太多了。）"
 
 # game/v6/v6.rpy:5352
 translate chineses wakeupa_1908f62b:
 
     # u "(At least I'm starting to gain some muscles.)"
-    u ""
+    u "（至少我开始有点肌肉了。）"
 
 # game/v6/v6.rpy:5357
 translate chineses wakeupa_c85b8be3:
 
     # imre "Great job today man, you're really learning fast. The Wolves are gonna love you."
-    imre ""
+    imre "今天做得太好了哥们儿，你学得真快。饿狼会的人会非常喜爱你的。"
 
 # game/v6/v6.rpy:5358
 translate chineses wakeupa_0596a09d:
 
     # imre "I gotta go meet up with some friends now. I'm just gonna shower here then head out."
-    imre ""
+    imre "我现在得去见一些朋友。我在这里冲了澡后就去。"
 
 # game/v6/v6.rpy:5359
 translate chineses wakeupa_162610b9:
 
     # imre "I'll see you later."
-    imre ""
+    imre "我们待会儿见。"
 
 # game/v6/v6.rpy:5365
 translate chineses wakeupa_288e53e1:
 
     # u "(I should go to the gym today, even if Imre's no longer gonna train me."
-    u ""
+    u "（即使伊姆雷不会再训练我了，我今天还是该去健身房。"
 
 # game/v6/v6.rpy:5433
 translate chineses wakeupa_222e762b:
 
     # u "*Breathing heavily* (Fuck, that was so exhausting)."
-    u ""
+    u "*深呼吸*(操，这还真累人啊）。"
 
 # game/v6/v6.rpy:5438
 translate chineses wakeupa_1908f62b_1:
 
     # u "(At least I'm starting to gain some muscles.)"
-    u ""
+    u "（至少我开始有点肌肉了。）"
 
 # game/v6/v6.rpy:5440
 translate chineses wakeupa_70729c52:
 
     # u "(Well. Time to go home.)"
-    u ""
+    u "（好了。是时候回家了。）"
 
 # game/v6/v6.rpy:5461
 translate chineses wakeupa_8d02643d:
