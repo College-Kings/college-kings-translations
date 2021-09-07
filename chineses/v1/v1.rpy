@@ -1432,7 +1432,7 @@ translate chineses efra_f1c2feb9:
 translate chineses efra_b331919a:
 
     # imre "Exactly, which is also why I'm joining the Wolves."
-    imre "正是，这也是我为什么会加入饿狼会的原因。"
+    imre "正解，这也是我为什么会加入饿狼会的原因。"
 
 # game/v1/v1.rpy:1279
 translate chineses efra_a2226aec:
@@ -1450,19 +1450,19 @@ translate chineses efra_b001c4ba:
 translate chineses efra_20d8a0c5:
 
     # imre "The Apes are disloyal pieces of shit. The Wolves are real brothers and they get mad pussy."
-    imre "人猿会的全是一群不忠不义的家伙。饿狼会的才是真正的兄弟而且他们对泡妞也很在行。"
+    imre "人猿会的全是一群不忠不义的混混。饿狼会的才是真正的兄弟而且他们对泡妞也很在行。"
 
 # game/v1/v1.rpy:1291
 translate chineses efra_d8ab5241:
 
     # u "Didn't you say it's your first day? How do you know the frats so well?"
-    u "你刚不是说这是你第一天吗？你怎么对兄弟会的情况这么了解？"
+    u "你刚不是说你是第一天来这儿吗？你怎么对兄弟会的情况这么了解？"
 
 # game/v1/v1.rpy:1296
 translate chineses efra_b938dede:
 
     # imre "It is, but my brother used to be a Wolf and he told me about all the shady shit that the Apes would do."
-    imre "我是刚来，但我哥以前是饿狼会的，而且他把所有那些人猿会做的肮脏事都告诉我了。"
+    imre "我是刚来，但我老哥以前是饿狼会的，而且他把所有那些人猿会做的肮脏事都告诉我了。"
 
 # game/v1/v1.rpy:1301
 translate chineses efra_6f59e463:
