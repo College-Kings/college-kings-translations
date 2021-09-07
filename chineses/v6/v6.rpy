@@ -5091,271 +5091,271 @@ translate chineses wakeupa_70729c52:
 translate chineses wakeupa_8d02643d:
 
     # u "(I should ask Penelope whether she wants to do bowling this afternoon.)"
-    u ""
+    u "（我该问问佩内洛普今天下午是否想打保龄球。）"
 
 # game/v6/v6.rpy:5468
 translate chineses phoneak_1c9e14f6:
 
     # u "(I should really text Penelope.)"
-    u ""
+    u "（我真的应该发短信给佩内洛普。）"
 
 # game/v6/v6.rpy:5474
 translate chineses phoneak_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v6/v6.rpy:5487
 translate chineses phoneak_d974d116:
 
     # "*Phone rings*"
-    ""
+    "*手机铃响*"
 
 # game/v6/v6.rpy:5500
 translate chineses phoneak_fcfea652:
 
     # u "Hello?"
-    u ""
+    u "喂？"
 
 # game/v6/v6.rpy:5505
 translate chineses phoneak_53a8b72d:
 
     # ri "Hey, I know this is really last minute, but I was wondering if you wanted to go to a poetry slam with me right now?"
-    ri ""
+    ri "嘿，我知道这有点太突然了，但我在想你现在是否愿意跟我去参加诗歌大满贯？"
 
 # game/v6/v6.rpy:5506
 translate chineses phoneak_af19f7a0:
 
     # ri "I know it's short notice, but one of my friends bailed on me and now I have an extra ticket."
-    ri ""
+    ri "我知道这有点唐突，但我的一位好友临时变卦，我现在手上有一张多余的门票。"
 
 # game/v6/v6.rpy:5511
 translate chineses phoneak_895e7e99:
 
     # u "Uhh sure, I'll go with you."
-    u ""
+    u "呃当然，我跟你去。"
 
 # game/v6/v6.rpy:5516
 translate chineses phoneak_8eb59800:
 
     # ri "Really? Great! Meet me at the theater room in 10 minutes."
-    ri ""
+    ri "真的？太好了！10分钟后到戏剧室见我。"
 
 # game/v6/v6.rpy:5521
 translate chineses phoneak_bd6be078:
 
     # u "Cool, will do."
-    u ""
+    u "好咧，没问题。"
 
 # game/v6/v6.rpy:5531
 translate chineses phoneak_8686e81c:
 
     # u "Hey."
-    u ""
+    u "嘿。"
 
 # game/v6/v6.rpy:5536
 translate chineses phoneak_cd0cab36:
 
     # ri "Hi, thanks for coming. I know it's last minute, but I think it's gonna be really cool."
-    ri ""
+    ri "嗨，谢谢你前来。我知道事出突然，但我认为这诗歌大满贯会很酷的。"
 
 # game/v6/v6.rpy:5544
 translate chineses phoneak_23998ed2:
 
     # ri "Oh, it's starting!"
-    ri ""
+    ri "哦，开始了！"
 
 # game/v6/v6.rpy:5549
 translate chineses phoneak_90ecd6d0:
 
     # host "Welcome everyone, familiar faces and new faces."
-    host ""
+    host "欢迎各位，老面孔和新面孔。"
 
 # game/v6/v6.rpy:5550
 translate chineses phoneak_d4218446:
 
     # host "Thank you for joining us for the annual poetry slam. Today we are here to make noise, make our voices heard, make our opinions known and make a difference!"
-    host ""
+    host "谢谢你们来参加一年一度的诗歌大满贯。今天我们在这里要发出我们的声音，让我们的声音被听到，让我们的意见被知道，让我们改变未来！"
 
 # game/v6/v6.rpy:5555
 translate chineses phoneak_06289722:
 
     # "*Crowd applauds*"
-    ""
+    "*全场鼓掌*"
 
 # game/v6/v6.rpy:5560
 translate chineses phoneak_87a5797b:
 
     # host "Today, we will hear from many talented and amazing people. So without further ado, let's bring out our first poet, Lisa."
-    host ""
+    host "今天，我们会听到许多很有天赋的优秀选手。那么无需再费周折，有请我们的第一位诗人，丽莎。"
 
 # game/v6/v6.rpy:5565
 translate chineses phoneak_06289722_1:
 
     # "*Crowd applauds*"
-    ""
+    "*全场鼓掌*"
 
 # game/v6/v6.rpy:5570
 translate chineses phoneak_40cb2de7:
 
     # poet1 "It's been one year since I've recovered from my eating disorder,"
-    poet1 ""
+    poet1 "我从饮食失调中恢复已经有一年了，"
 
 # game/v6/v6.rpy:5571
 translate chineses phoneak_b01fcbb2:
 
     # poet1 "One year of not counting the calories, crying as the food slithered down my throat."
-    poet1 ""
+    poet1 "那是不用计算热量数字的一年，食物由我的喉咙滑下，我不禁哭了。"
 
 # game/v6/v6.rpy:5572
 translate chineses phoneak_f99774b1:
 
     # poet1 "One year without the fainting spells and wasted meals down the toilet."
-    poet1 ""
+    poet1 "那是没有发生时常晕倒的一年，餐饭也没有再被浪费，倒厕所里了。"
 
 # game/v6/v6.rpy:5573
 translate chineses phoneak_aea62cbf:
 
     # poet1 "One year without being afraid of dinner invitations and hiding in cold sweats under sheets."
-    poet1 ""
+    poet1 "那是没有害怕晚餐邀请的一年，我再也不用躲进被子，冒着冷汗了。"
 
 # game/v6/v6.rpy:5578
 translate chineses phoneak_6819469f:
 
     # poet1 "It's the first year I don't find peace in the stomach pains."
-    poet1 ""
+    poet1 "这是我第一年不用在腹痛中寻求平静。"
 
 # game/v6/v6.rpy:5579
 translate chineses phoneak_a4764be1:
 
     # poet1 "It's the first year where I don't wake up to step on the scale."
-    poet1 ""
+    poet1 "这是我第一年不用在磅秤上睁开双眼。"
 
 # game/v6/v6.rpy:5580
 translate chineses phoneak_303b7da3:
 
     # poet1 "It's the first year I don't find happiness in the emptiness."
-    poet1 ""
+    poet1 "这是我第一年不用在空虚中找到快乐。"
 
 # game/v6/v6.rpy:5581
 translate chineses phoneak_c195c6c2:
 
     # poet1 "It's the first year I can eat a meal knowing it's not going to come back up."
-    poet1 ""
+    poet1 "这是我第一年用餐时知道进去的东西不会被吐出来。"
 
 # game/v6/v6.rpy:5586
 translate chineses phoneak_f9371384:
 
     # poet1 "It's really hard to not feel like this eating disorder isn't who I've become when it feels like my only accomplishment."
-    poet1 ""
+    poet1 "着实很难想象这饮食失调之症并不是我，因为它感觉像是我一身中唯一的成就。"
 
 # game/v6/v6.rpy:5587
 translate chineses phoneak_79b56814:
 
     # poet1 "When I dropped 30 pounds in a month my friends told me I looked incredible."
-    poet1 ""
+    poet1 "在我一个月之内减掉30磅之后，我的朋友说我看起来不可思议。"
 
 # game/v6/v6.rpy:5588
 translate chineses phoneak_f8358c91:
 
     # poet1 "My father said: Honey, I'm so proud of you."
-    poet1 ""
+    poet1 "我的父亲说到：亲爱的，我真为你感到骄傲。"
 
 # game/v6/v6.rpy:5589
 translate chineses phoneak_835382fc:
 
     # poet1 "My mother said: I've never been so happy for you."
-    poet1 ""
+    poet1 "我的母亲说到：亲爱的，我从没像这样为你感到高兴。"
 
 # game/v6/v6.rpy:5594
 translate chineses phoneak_6a3bf4ab:
 
     # poet1 "It's kind of hard to feel that this eating disorder isn't me when people only praised me for my illness."
-    poet1 ""
+    poet1 "着实很难想象这饮食失调之症并不是我，因为人们都只是在赞扬我的病态美。"
 
 # game/v6/v6.rpy:5595
 translate chineses phoneak_6bea0f06:
 
     # poet1 "And it's those same people who blindly support me in this journey to find myself, but ignored all the times I spent too long in the bathroom."
-    poet1 ""
+    poet1 "而同样也是这些人在盲目的支持着我寻找自我的旅程，但却至始至终无视我待在厕所里的那么多时间。"
 
 # game/v6/v6.rpy:5596
 translate chineses phoneak_68c04f9d:
 
     # poet1 "The infinite times I brushed my teeth, the sobs over the toilet seat."
-    poet1 ""
+    poet1 "无数次我刷着牙，独坐马桶上哭泣。"
 
 # game/v6/v6.rpy:5597
 translate chineses phoneak_a0b826fa:
 
     # poet1 "It's kind of hard not to fall back into this black hole of starvation when it feels like it's the only thing that made me feel important."
-    poet1 ""
+    poet1 "着实很难想象我不会再落入饥饿的黑洞，因为那是唯一让我感到我自己还很重要的事。"
 
 # game/v6/v6.rpy:5598
 translate chineses phoneak_66a9c641:
 
     # poet1 "But hey, at least I can step in front of the mirror and look at myself and say: Well, at least I'm not dying."
-    poet1 ""
+    poet1 "但是，嘿，至少我可以站到镜子前面看着自己说：好了，至少我没有渐渐的死去。"
 
 # game/v6/v6.rpy:5603
 translate chineses phoneak_06289722_2:
 
     # "*Crowd applauds*"
-    ""
+    "*全场鼓掌*"
 
 # game/v6/v6.rpy:5612
 translate chineses phoneak_64ba75d9:
 
     # u "That was incredible."
-    u ""
+    u "太厉害了。"
 
 # game/v6/v6.rpy:5617
 translate chineses phoneak_fef57761:
 
     # ri "I know it's so amazing what stories people have to tell."
-    ri ""
+    ri "我知道大家讲的故事都好棒啊。"
 
 # game/v6/v6.rpy:5622
 translate chineses phoneak_d9a045ef:
 
     # u "Yeah, absolutely."
-    u ""
+    u "是啊，确实很棒。"
 
 # game/v6/v6.rpy:5627
 translate chineses phoneak_bfbac3fa:
 
     # ri "Honestly, she's so brave. My heart goes out to her."
-    ri ""
+    ri "说实话，她很勇敢。她让我的心感到非常震撼。"
 
 # game/v6/v6.rpy:5636
 translate chineses phoneak_2569ef60:
 
     # u "God can she talk about something else than puking, she's not the first person to struggle with a diet."
-    u ""
+    u "天哪，她除了呕吐还能讲点别的吗？她又不是第一个饮食有问题的人。"
 
 # game/v6/v6.rpy:5641
 translate chineses phoneak_7f3a61f4:
 
     # ri "What the hell, [name]???"
-    ri ""
+    ri "搞什么鬼，[名字]？？？"
 
 # game/v6/v6.rpy:5643
 translate chineses phoneak_ad76f4ea:
 
     # ri "She's so brave for putting herself out there. I can't believe you'd say something like that."
-    ri ""
+    ri "她那么勇敢的自己站出来。我无法相信你尽然说出那样的话。"
 
 # game/v6/v6.rpy:5648
 translate chineses phoneak_8b940739:
 
     # u "Right..."
-    u ""
+    u "对..."
 
 # game/v6/v6.rpy:5654
 translate chineses gn_ad_5e1642e7:
 
     # host "Thank you so much for that wonderful performance, Lisa."
-    host ""
+    host "非常感谢你精彩的表演，丽莎。"
 
 # game/v6/v6.rpy:5656
 translate chineses gn_ad_434e2c2f:
