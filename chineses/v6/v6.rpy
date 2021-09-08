@@ -4450,7 +4450,7 @@ translate chineses meetgrayson_797010c1:
 translate chineses meetgrayson_2002ab68:
 
     # gr "*Laughs* You got me."
-    gr "*大笑*你逮到我了。"
+    gr "*大笑*被识破了。"
 
 # game/v6/v6.rpy:4702
 translate chineses meetgrayson_ef2f1671:
@@ -6069,505 +6069,505 @@ translate chineses afterpsb_bb47ee0e:
 translate chineses afterpsb_e3e33d1a:
 
     # u "Hey, Penelope! How are you doing?"
-    u ""
+    u "嘿，佩内洛普！你过得怎样?"
 
 # game/v6/v6.rpy:6217
 translate chineses afterpsb_09c0c12c:
 
     # pe "Hey! I'm good, how are you?"
-    pe ""
+    pe "嘿！我还好，你呢？"
 
 # game/v6/v6.rpy:6222
 translate chineses afterpsb_60cab83d:
 
     # u "Excited to destroy you in bowling."
-    u ""
+    u "因为要在保龄球上打败你而激动。"
 
 # game/v6/v6.rpy:6227
 translate chineses afterpsb_bec1a225:
 
     # pe "I used to go bowling all the time with my dad, so you better watch out."
-    pe ""
+    pe "我过去经常跟我爸去打保龄球，所以你最好当心了。"
 
 # game/v6/v6.rpy:6232
 translate chineses afterpsb_1dd0f80b:
 
     # pe "What do you want your name to be?"
-    pe ""
+    pe "你想取什么名字？"
 
 # game/v6/v6.rpy:6239
 translate chineses afterpsb_5209a8a9:
 
     # u "Make it [bname]."
-    u ""
+    u "就叫[b名字]。"
 
 # game/v6/v6.rpy:6245
 translate chineses afterpsb_27b39788:
 
     # pe "Wow, how creative..."
-    pe ""
+    pe "哇，好有创意啊..."
 
 # game/v6/v6.rpy:6248
 translate chineses afterpsb_a9cdf9cc:
 
     # pe "What a name..."
-    pe ""
+    pe "好个名字啊..."
 
 # game/v6/v6.rpy:6253
 translate chineses afterpsb_1d6514d1:
 
     # u "What's your name gonna be?"
-    u ""
+    u "你的名字会是什么呢？"
 
 # game/v6/v6.rpy:6258
 translate chineses afterpsb_7305f909:
 
     # pe "Hmmm..."
-    pe ""
+    pe "嗯..."
 
 # game/v6/v6.rpy:6263
 translate chineses afterpsb_bd773146:
 
     # pe "Kim Possible."
-    pe ""
+    pe "麻辣女孩卡姆"
 
 # game/v6/v6.rpy:6268
 translate chineses afterpsb_ea31108d:
 
     # u "Kim Possible? Like from the TV show?"
-    u ""
+    u "麻辣女孩卡姆？是电视剧里的那个？"
 
 # game/v6/v6.rpy:6273
 translate chineses afterpsb_5022f770:
 
     # pe "She was my hero when I was younger, I always wanted to be like her."
-    pe ""
+    pe "她是我小时候的英雄，我一直都想成为她。"
 
 # game/v6/v6.rpy:6278
 translate chineses afterpsb_3cb4af98:
 
     # pe "Saving the world, all these incredible technical gadgets and she was always so cool about it."
-    pe ""
+    pe "拯救世界，那些不可思议的专业仪器，还有她总是很酷的个性。"
 
 # game/v6/v6.rpy:6283
 translate chineses afterpsb_e21068ca:
 
     # u "Wasn't she the one with the naked mole-rat?"
-    u ""
+    u "她不是那个跟光溜溜的鼢鼠一起的？"
 
 # game/v6/v6.rpy:6288
 translate chineses afterpsb_e69b1533:
 
     # pe "You mean Rufus? He was so cute."
-    pe ""
+    pe "你是说鲁弗斯？他好可爱哟。"
 
 # game/v6/v6.rpy:6290
 translate chineses afterpsb_4a520fd8:
 
     # pe "And surprisingly helpful in most of their missions."
-    pe ""
+    pe "而且在他们大多数任务中还惊人的有用。"
 
 # game/v6/v6.rpy:6295
 translate chineses afterpsb_e5a0009d:
 
     # u "Have you ever seen a naked mole-rat in real life? I don't think you'd think they're cute anymore."
-    u ""
+    u "你在现实生活中见到过光溜溜的鼢鼠吗？我不认为你还会觉得他们可爱了。"
 
 # game/v6/v6.rpy:6300
 translate chineses afterpsb_acbdb18d:
 
     # pe "Yeah, but that doesn't mean they can't be cute in the show."
-    pe ""
+    pe "是啊，但那不代表他们不能在电视剧里可爱啊。"
 
 # game/v6/v6.rpy:6317
 translate chineses afterpsb_845b4a3a:
 
     # u "*Laughs* Oh god, I thought you used to go bowling all the time?"
-    u ""
+    u "*大笑*哦天哪，我以为你过去常打保龄球？"
 
 # game/v6/v6.rpy:6322
 translate chineses afterpsb_80ed2b77:
 
     # pe "I'm just a bit rusty."
-    pe ""
+    pe "我只是很久没练了。"
 
 # game/v6/v6.rpy:6327
 translate chineses afterpsb_9b700d30:
 
     # u "Let me show you how it's done."
-    u ""
+    u "让我教你应该怎样打。"
 
 # game/v6/v6.rpy:6337
 translate chineses afterpsb_79da2596:
 
     # u "That was just a warm up throw."
-    u ""
+    u "那只是个热身而已。"
 
 # game/v6/v6.rpy:6381
 translate chineses afterpsb_87b4e96a:
 
     # u "Okay, something doesn't add up."
-    u ""
+    u "好了，这事有些蹊跷。"
 
 # game/v6/v6.rpy:6386
 translate chineses afterpsb_ddfa5209:
 
     # u "You said you used to go bowling all the time with your dad..."
-    u ""
+    u "你说你过去常跟你爸去打保龄球..."
 
 # game/v6/v6.rpy:6388
 translate chineses afterpsb_c9fa2e2c:
 
     # u "But I just don't think it's possible to unlearn something this much."
-    u ""
+    u "但我只是觉得你不可能把学过的东西忘得这么彻底。"
 
 # game/v6/v6.rpy:6390
 translate chineses afterpsb_20b8f207:
 
     # u "You have barely hit any pins the entire game."
-    u ""
+    u "你整场比赛几乎没有打到一个球瓶。"
 
 # game/v6/v6.rpy:6395
 translate chineses afterpsb_6be324f6:
 
     # pe "When I was in 8th grade, I met this boy, James."
-    pe ""
+    pe "我在8年级的时候遇上了一个男孩，他叫詹姆士。"
 
 # game/v6/v6.rpy:6397
 translate chineses afterpsb_e52a84b3:
 
     # pe "He was super nice and he wouldn't pick on me like some of the others."
-    pe ""
+    pe "他对我超级的好，不像其他人那样欺负我。"
 
 # game/v6/v6.rpy:6402
 translate chineses afterpsb_32ef153c:
 
     # pe "At some point he invited me to play foosball with him at his house."
-    pe ""
+    pe "有一次他邀请我到他家去玩桌上足球。"
 
 # game/v6/v6.rpy:6404
 translate chineses afterpsb_14d3377b:
 
     # pe "So I went with him and we played, game after game."
-    pe ""
+    pe "所以我去了他那儿，我们玩了一局又一局。"
 
 # game/v6/v6.rpy:6406
 translate chineses afterpsb_f9fd483c:
 
     # pe "Turns out, I was a natural at foosball and I beat him. Everytime."
-    pe ""
+    pe "结果呢，我是桌上足球的天才。我每局都把他打败了。"
 
 # game/v6/v6.rpy:6411
 translate chineses afterpsb_ef74cd56:
 
     # u "*Laughs* So what happened?"
-    u ""
+    u "*大笑*然后呢？"
 
 # game/v6/v6.rpy:6416
 translate chineses afterpsb_ee0d6c1f:
 
     # pe "At some point he started accusing me of cheating and he kicked me out."
-    pe ""
+    pe "然后他开始指责我作弊，还把我撵了出去。"
 
 # game/v6/v6.rpy:6418
 translate chineses afterpsb_beb7e86a:
 
     # pe "He never wanted anything to do with me after that."
-    pe ""
+    pe "之后他在有没有跟我说话了。"
 
 # game/v6/v6.rpy:6420
 translate chineses afterpsb_4915f6f6:
 
     # pe "So now, I make sure that when I'm on a date, the guy wins every game."
-    pe ""
+    pe "所以现在，只要是约会，我都尽量让我的对象赢。"
 
 # game/v6/v6.rpy:6425
 translate chineses afterpsb_7e772c6e:
 
     # u "Okay, that's a nice story, but I don't buy it."
-    u ""
+    u "好吧，那是个不错的故事，但我不信。"
 
 # game/v6/v6.rpy:6427
 translate chineses afterpsb_a745c1b0:
 
     # u "You're telling me if you tried to win you'd just beat me easily? No way."
-    u ""
+    u "你说如果你想赢，你就能轻松的打败我？没门。"
 
 # game/v6/v6.rpy:6437
 translate chineses afterpsb_8abcc8a8:
 
     # pe "Are you sure?"
-    pe ""
+    pe "你确定？"
 
 # game/v6/v6.rpy:6459
 translate chineses afterpsb_8b831e6a:
 
     # u "Holy shit."
-    u ""
+    u "天哪。"
 
 # game/v6/v6.rpy:6464
 translate chineses afterpsb_a1000fee:
 
     # pe "Heehee. I guess I was telling the truth."
-    pe ""
+    pe "嘿嘿。我想我是在说实话。"
 
 # game/v6/v6.rpy:6469
 translate chineses afterpsb_1e5bd9c2:
 
     # u "You're full of surprises, you know?"
-    u ""
+    u "你这人充满了惊喜，你知道吗？"
 
 # game/v6/v6.rpy:6476
 translate chineses afterpsb_3404d69d:
 
     # u "Talking about surprises, are you ever gonna tell me what you got kicked out of your old college for?"
-    u ""
+    u "说到惊喜，你什么时候打算告诉我你是为什么被你的旧学院开出的？"
 
 # game/v6/v6.rpy:6486
 translate chineses afterpsb_b174a144:
 
     # pe "Okay. But you can't tell anyone."
-    pe ""
+    pe "好吧。但你不能告诉别人。"
 
 # game/v6/v6.rpy:6491
 translate chineses afterpsb_1b28a406:
 
     # u "Of course."
-    u ""
+    u "当然了。"
 
 # game/v6/v6.rpy:6496
 translate chineses afterpsb_50157d8c:
 
     # pe "Uhm.. okay so I... I hacked into the school's system and changed some of the grades."
-    pe ""
+    pe "嗯...好。那个我...我侵入了学校的电脑系统并修改了一些成绩。"
 
 # game/v6/v6.rpy:6501
 translate chineses afterpsb_ae2150c9:
 
     # u "Wait you hacked into your school to improve your grades? Come on that's hilarious."
-    u ""
+    u "等等，你侵入学校系统来提升你的成绩？得了吧，太搞笑了。"
 
 # game/v6/v6.rpy:6506
 translate chineses afterpsb_7cdbe8b8:
 
     # pe "Not my grades. My best friend Jenny's."
-    pe ""
+    pe "不是我的成绩。是我好友珍妮的。"
 
 # game/v6/v6.rpy:6508
 translate chineses afterpsb_f4d0cf5c:
 
     # pe "She was going through a rough time, dealing with some substance abuse, and therefore, didn't hand in some of her assignments on time..."
-    pe ""
+    pe "她有一段时间坠入了人生低谷，染上了一些很难戒掉的瘾，而因此没有按时交某些作业..."
 
 # game/v6/v6.rpy:6510
 translate chineses afterpsb_15f29d63:
 
     # pe "Her teacher was gonna fail her."
-    pe ""
+    pe "她的老师正要给她个不及格。"
 
 # game/v6/v6.rpy:6512
 translate chineses afterpsb_977b5077:
 
     # pe "So she begged me to help her and I... I changed her grade so she'd pass."
-    pe ""
+    pe "所以她求我帮她，而我...我就改了她的成绩好让她及格。"
 
 # game/v6/v6.rpy:6517
 translate chineses afterpsb_bc79a438:
 
     # u "Why didn't you just tell me? That's honestly so awesome that you did that for your friend."
-    u ""
+    u "你为什么不直接告诉我？说实话你能为你的朋友做那些事真是太棒了。"
 
 # game/v6/v6.rpy:6522
 translate chineses afterpsb_4ad9cc4e:
 
     # pe "Because that's not what I got kicked out for."
-    pe ""
+    pe "因为那不是我被开除的原因。"
 
 # game/v6/v6.rpy:6524
 translate chineses afterpsb_39d502ac:
 
     # pe "When they found out what happened, Jenny came forward and said she did it all by herself."
-    pe ""
+    pe "当他们发现这事后，珍妮站出来说一切都是她自己干的。"
 
 # game/v6/v6.rpy:6525
 translate chineses afterpsb_d6837971:
 
     # pe "She told me I shouldn't pay the price for her mistakes."
-    pe ""
+    pe "她说我不该因为她的错误而付代价。"
 
 # game/v6/v6.rpy:6530
 translate chineses afterpsb_374ffa45:
 
     # pe "But then, after she got kicked out, the principal started making her the face of the college's anti substance abuse campaign."
-    pe ""
+    pe "但后来，在她被开除后，校长开始使用珍妮的脸在学院内大搞反恶瘾宣传。"
 
 # game/v6/v6.rpy:6532
 translate chineses afterpsb_c141532c:
 
     # pe "Without even asking her... how could they do that?"
-    pe ""
+    pe "完全没有经过珍妮同意...他们怎么能这样做？"
 
 # game/v6/v6.rpy:6534
 translate chineses afterpsb_5c2f0b5d:
 
     # pe "So... I decided the hack into the college's website and photoshopped the principal's face onto all of the substance abuse pictures they used."
-    pe ""
+    pe "因此...我决定再次侵入学院的网站，并把所有他们使用的恶瘾图片上的脸都换成了校长。"
 
 # game/v6/v6.rpy:6539
 translate chineses afterpsb_f8b678d0:
 
     # pe "*Takes a deep breath*"
-    pe ""
+    pe "*深吸了一口气*"
 
 # game/v6/v6.rpy:6544
 translate chineses afterpsb_c821d38e:
 
     # pe "Turns out the principal had nothing to do with Jenny's pictures being used... it was her parents' idea."
-    pe ""
+    pe "结果校长跟使用珍妮的图片完全无关...那是珍妮父母的主意。"
 
 # game/v6/v6.rpy:6546
 translate chineses afterpsb_bfc576d0:
 
     # pe "They didn't want what happened to her to happen to anyone else."
-    pe ""
+    pe "他们不想让发生在她身上的事也同样发生到别人身上。"
 
 # game/v6/v6.rpy:6548
 translate chineses afterpsb_467c3f1f:
 
     # pe "So I came forward and got expelled."
-    pe ""
+    pe "所以我站了出来，被学校开除了。"
 
 # game/v6/v6.rpy:6553
 translate chineses afterpsb_21460949:
 
     # u "Oh god, Penelope... I had no idea..."
-    u ""
+    u "哦天哪，佩内洛普...我完全不知道..."
 
 # game/v6/v6.rpy:6558
 translate chineses afterpsb_fe088f5c:
 
     # pe "Can we please just stop talking about it?"
-    pe ""
+    pe "我们可不可以不要再谈它了？"
 
 # game/v6/v6.rpy:6563
 translate chineses afterpsb_6a7d4630:
 
     # u "Uhm yeah, of course."
-    u ""
+    u "嗯好的，当然可以。"
 
 # game/v6/v6.rpy:6573
 translate chineses afterpsb_abbfd485:
 
     # u "I had a great time today. We should do this again sometime."
-    u ""
+    u "我今天玩得很愉快。我们什么时候该再约一次。"
 
 # game/v6/v6.rpy:6578
 translate chineses afterpsb_6608cfc1:
 
     # pe "Yeah, but next time you're the one sharing all of your past."
-    pe ""
+    pe "好啊，但下次该你分享你的过去了。"
 
 # game/v6/v6.rpy:6583
 translate chineses afterpsb_08d47801:
 
     # u "*Chuckles* If you insist."
-    u ""
+    u "*抿嘴笑*如果你坚持的话。"
 
 # game/v6/v6.rpy:6618
 translate chineses afterpsb_95db5da4:
 
     # pe "*Giggles*"
-    pe ""
+    pe "*痴笑*"
 
 # game/v6/v6.rpy:6620
 translate chineses afterpsb_a1fb4df0:
 
     # u "That was nice..."
-    u ""
+    u "过得真愉快..."
 
 # game/v6/v6.rpy:6625
 translate chineses afterpsb_235011c5:
 
     # pe "Yes it was..."
-    pe ""
+    pe "的确是..."
 
 # game/v6/v6.rpy:6635
 translate chineses afterpsb_833aff83:
 
     # u "I gotta go now and get ready for the Wolves' party, but I'll see you soon, okay?"
-    u ""
+    u "我得走了，还要为饿狼会的抢先派对做准备，我们以后再见，好吗？"
 
 # game/v6/v6.rpy:6640
 translate chineses afterpsb_e5212d71:
 
     # pe "Yeah, no worries. See you soon."
-    pe ""
+    pe "好啊，没问题。以后见。"
 
 # game/v6/v6.rpy:6656
 translate chineses readywolf_3e65768f:
 
     # u "(Alright, I'm ready for the party.)"
-    u ""
+    u "（好的，我准备好参加派对了。）"
 
 # game/v6/v6.rpy:6657
 translate chineses readywolf_2a9a88ed:
 
     # u "(Wonder how it's gonna be seeing Imre there...)"
-    u ""
+    u "（我在想要是在那儿见到伊姆雷会怎样...）"
 
 # game/v6/v6.rpy:6669
 translate chineses readywolf_8fbaa728:
 
     # gr "Join the Apes and I promise you, everyone at San Vallejo will know who you are within weeks."
-    gr ""
+    gr "加入人猿会后我保证，你的大名在几周之内就会响彻圣瓦列霍。"
 
 # game/v6/v6.rpy:6674
 translate chineses readywolf_3de68741:
 
     # gr "So what do you say?"
-    gr ""
+    gr "那你说怎样？"
 
 # game/v6/v6.rpy:6679
 translate chineses readywolf_41f7fb45:
 
     # u "Okay, I'm in."
-    u ""
+    u "好的，我加入。"
 
 # game/v6/v6.rpy:6685
 translate chineses readywolf_db2ed90b:
 
     # gr "That's what I'm talking about!"
-    gr ""
+    gr "这才没浪费我的口舌！"
 
 # game/v6/v6.rpy:6692
 translate chineses readywolf_8fbaa728_1:
 
     # gr "Join the Apes and I promise you, everyone at San Vallejo will know who you are within weeks."
-    gr ""
+    gr "加入人猿会后我保证，你的大名在几周之内就会响彻圣瓦列霍。"
 
 # game/v6/v6.rpy:6697
 translate chineses readywolf_3de68741_1:
 
     # gr "So what do you say?"
-    gr ""
+    gr "那你说怎样？"
 
 # game/v6/v6.rpy:6702
 translate chineses readywolf_e3ac30cf:
 
     # u "Sorry, Grayson. But I don't wanna be an Ape."
-    u ""
+    u "抱歉，格雷森。但我不想加入人猿会。"
 
 # game/v6/v6.rpy:6707
 translate chineses readywolf_d97e760b:
 
     # gr "What? What do you mean you don't wanna be an Ape?!"
-    gr ""
+    gr "什么？你不想加入人猿会是什么意思？！"
 
 # game/v6/v6.rpy:6716
 translate chineses readywolf_c0856720:
 
     # u "(Hopefully that was the right decision...)"
-    u ""
+    u "（希望那是个正确决定...）"
 
 # game/v6/v6.rpy:6727
 translate chineses readywolf_04e45397:
