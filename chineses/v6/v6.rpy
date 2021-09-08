@@ -4618,7 +4618,7 @@ translate chineses wehere_8fbaa728:
 translate chineses wehere_3de68741:
 
     # gr "So what do you say?"
-    gr "那你说怎样？"
+    gr "你说怎样？"
 
 # game/v6/v6.rpy:4820
 translate chineses wehere_49a9e742:
@@ -6525,7 +6525,7 @@ translate chineses readywolf_8fbaa728:
 translate chineses readywolf_3de68741:
 
     # gr "So what do you say?"
-    gr "那你说怎样？"
+    gr "你说怎样？"
 
 # game/v6/v6.rpy:6679
 translate chineses readywolf_41f7fb45:
@@ -6549,7 +6549,7 @@ translate chineses readywolf_8fbaa728_1:
 translate chineses readywolf_3de68741_1:
 
     # gr "So what do you say?"
-    gr "那你说怎样？"
+    gr "你说怎样？"
 
 # game/v6/v6.rpy:6702
 translate chineses readywolf_e3ac30cf:
@@ -6573,355 +6573,355 @@ translate chineses readywolf_c0856720:
 translate chineses readywolf_04e45397:
 
     # imre "This is gonna be the best night of the year, I'm telling you."
-    imre ""
+    imre "我告诉你，这会是今年最棒的一晚。"
 
 # game/v6/v6.rpy:6732
 translate chineses readywolf_56113c9d:
 
     # u "You sure about that?"
-    u ""
+    u "你确定？"
 
 # game/v6/v6.rpy:6737
 translate chineses readywolf_ad4a7ac3:
 
     # imre "Yeah, this is the frat you wanna be a part of. This party is gonna be insane."
-    imre ""
+    imre "是啊，这便是你想加入的兄弟会。这派对会很疯狂。"
 
 # game/v6/v6.rpy:6742
 translate chineses readywolf_f7c42df7:
 
     # u "I bet."
-    u ""
+    u "也是。"
 
 # game/v6/v6.rpy:6747
 translate chineses readywolf_24105a51:
 
     # imre "Not only are we gonna meet all the Wolves, but there are gonna be some feisty mamacitas."
-    imre ""
+    imre "我们不仅会遇见所有饿狼会的成员，还会碰上不少精力充沛的辣妹。"
 
 # game/v6/v6.rpy:6752
 translate chineses readywolf_111a3252:
 
     # u "*Laughs* Feisty mamacitas? Seriously?"
-    u ""
+    u "*大笑*精力充沛的辣妹？你是认真的？"
 
 # game/v6/v6.rpy:6757
 translate chineses readywolf_dcd22625:
 
     # imre "Excuse me for being a man of culture."
-    imre ""
+    imre "请原谅我是个有文化的男人。"
 
 # game/v6/v6.rpy:6759
 translate chineses readywolf_5908d5f0:
 
     # imre "You ready to go?"
-    imre ""
+    imre "你准备好了？"
 
 # game/v6/v6.rpy:6764
 translate chineses readywolf_b9563d83:
 
     # u "Yeah, let's go."
-    u ""
+    u "是啊，我们走。"
 
 # game/v6/v6.rpy:6776
 translate chineses readywolf_8fbaa728_2:
 
     # gr "Join the Apes and I promise you, everyone at San Vallejo will know who you are within weeks."
-    gr ""
+    gr "加入人猿会后我保证，你的大名在几周之内就会响彻圣瓦列霍。"
 
 # game/v6/v6.rpy:6781
 translate chineses readywolf_3de68741_2:
 
     # gr "So what do you say?"
-    gr ""
+    gr "你说怎样？"
 
 # game/v6/v6.rpy:6786
 translate chineses readywolf_41f7fb45_1:
 
     # u "Okay, I'm in."
-    u ""
+    u "好的，我加入。"
 
 # game/v6/v6.rpy:6792
 translate chineses readywolf_db2ed90b_1:
 
     # gr "That's what I'm talking about!"
-    gr ""
+    gr "这才没浪费我的口舌！"
 
 # game/v6/v6.rpy:6799
 translate chineses readywolf_8fbaa728_3:
 
     # gr "Join the Apes and I promise you, everyone at San Vallejo will know who you are within weeks."
-    gr ""
+    gr "加入人猿会后我保证，你的大名在几周之内就会响彻圣瓦列霍。"
 
 # game/v6/v6.rpy:6804
 translate chineses readywolf_3de68741_3:
 
     # gr "So what do you say?"
-    gr ""
+    gr "你说怎样？"
 
 # game/v6/v6.rpy:6809
 translate chineses readywolf_e3ac30cf_1:
 
     # u "Sorry, Grayson. But I don't wanna be an Ape."
-    u ""
+    u "抱歉，格雷森。但我不想加入人猿会。"
 
 # game/v6/v6.rpy:6814
 translate chineses readywolf_d97e760b_1:
 
     # gr "What? What do you mean you don't wanna be an Ape?!"
-    gr ""
+    gr "抱歉，格雷森。但我不想加入人猿会。"
 
 # game/v6/v6.rpy:6821
 translate chineses readywolf_be910af9:
 
     # gr "So forget the Wolves, join the Apes."
-    gr ""
+    gr "忘了饿狼会，加入人猿会。"
 
 # game/v6/v6.rpy:6826
 translate chineses readywolf_437f98b7:
 
     # gr "Have a think about it and then meet me at midnight on the front stairs."
-    gr ""
+    gr "先考虑考虑，今晚午夜来前门楼梯见我。"
 
 # game/v6/v6.rpy:6831
 translate chineses readywolf_250ab959:
 
     # u "(Grayson said I should meet him, but how can I trust him after everything that happened?)"
-    u ""
+    u "（格雷森说我该去见他，但在这一切发生后我还怎么相信他呢？）"
 
 # game/v6/v6.rpy:6835
 translate chineses readywolf_e7240c19:
 
     # u "(Fuck Grayson, I'm not meeting him.)"
-    u ""
+    u "（操他妈的格雷森，我不去见他。）"
 
 # game/v6/v6.rpy:6841
 translate chineses readywolf_c0856720_1:
 
     # u "(Hopefully that was the right decision...)"
-    u ""
+    u "（希望那是个正确决定...）"
 
 # game/v6/v6.rpy:6846
 translate chineses readywolf_1e6fec8f:
 
     # u "Imre, do you know the president of the Apes?"
-    u ""
+    u "伊姆雷，你认识人猿会的会长吗？"
 
 # game/v6/v6.rpy:6851
 translate chineses readywolf_0dca3c06:
 
     # imre "Who? Grayson?"
-    imre ""
+    imre "谁？格雷森？"
 
 # game/v6/v6.rpy:6856
 translate chineses readywolf_46d1769c:
 
     # u "Yeah, I think that's his name."
-    u ""
+    u "是啊，我想那就是他的名字。"
 
 # game/v6/v6.rpy:6861
 translate chineses readywolf_29f7d1c3:
 
     # imre "You mean the guy that punched you in the face? He's an asshole. Why?"
-    imre ""
+    imre "你是指一拳打中你脸的那家伙？他是个混蛋。为什么问这个？"
 
 # game/v6/v6.rpy:6863
 translate chineses readywolf_1d4df49e:
 
     # imre "You thinking about joining the Apes?"
-    imre ""
+    imre "你想加入人猿会？"
 
 # game/v6/v6.rpy:6868
 translate chineses readywolf_650345b4:
 
     # u "What? No!"
-    u ""
+    u "什么？不！"
 
 # game/v6/v6.rpy:6873
 translate chineses readywolf_98c83a2c:
 
     # imre "*Laughs* Calm down, I'm just kidding man."
-    imre ""
+    imre "*大笑*冷静点，我只是在开玩笑，哥们儿。"
 
 # game/v6/v6.rpy:6875
 translate chineses readywolf_52fe6023:
 
     # imre "I know you'd never join the Apes."
-    imre ""
+    imre "我知道你一定不会加入人猿会的。"
 
 # game/v6/v6.rpy:6879
 translate chineses readywolf_e0890818:
 
     # imre "You know why? Cause you're not a fucking asshole."
-    imre ""
+    imre "你知道为什么吗？因为你不是个他妈的混蛋。"
 
 # game/v6/v6.rpy:6881
 translate chineses readywolf_da2f45a1:
 
     # imre "You have honor and loyalty and you're a good friend."
-    imre ""
+    imre "你讲道义重诚信，你还是位好朋友。"
 
 # game/v6/v6.rpy:6883
 translate chineses readywolf_a9c07d26:
 
     # imre "Apes don't have any of that shit."
-    imre ""
+    imre "人猿会的不会管那些。"
 
 # game/v6/v6.rpy:6889
 translate chineses readywolf_47d43f2b:
 
     # u "Right... "
-    u ""
+    u "对..."
 
 # game/v6/v6.rpy:6892
 translate chineses readywolf_87096675:
 
     # u "Thanks man."
-    u ""
+    u "谢了哥们儿。"
 
 # game/v6/v6.rpy:6894
 translate chineses readywolf_a7f007a0:
 
     # u "I was just uhm... wondering."
-    u ""
+    u "我只是嗯...在想。"
 
 # game/v6/v6.rpy:6899
 translate chineses readywolf_53ba7abc:
 
     # u "Holy shit..."
-    u ""
+    u "天哪..."
 
 # game/v6/v6.rpy:6901
 translate chineses readywolf_c86c8763:
 
     # imre "This is where dreams come true."
-    imre ""
+    imre "这里就是梦想成真的地方。"
 
 # game/v6/v6.rpy:6911
 translate chineses readywolf_59133e5c:
 
     # aa "Hey bro, what's up?"
-    aa ""
+    aa "嘿兄弟，怎样啦？"
 
 # game/v6/v6.rpy:6916
 translate chineses readywolf_a894d7a7:
 
     # imre "Sup man? You already working something?"
-    imre ""
+    imre "怎样哥们儿？你是工作了还是什么的？"
 
 # game/v6/v6.rpy:6921
 translate chineses readywolf_8c4a7356:
 
     # aa "*Chuckles* Trying to."
-    aa ""
+    aa "*抿嘴笑*还在努力。"
 
 # game/v6/v6.rpy:6926
 translate chineses readywolf_be7eeb17:
 
     # imre "I see there's two... big plans or are you saving one for me?"
-    imre ""
+    imre "我看到有两个...你是准备独享呢还是给我留了一个？"
 
 # game/v6/v6.rpy:6931
 translate chineses readywolf_899a27f4:
 
     # aa "Dude, I got you. You even get to choose."
-    aa ""
+    aa "哥们儿，给你留着呢。还任由你选。"
 
 # game/v6/v6.rpy:6936
 translate chineses readywolf_155bed87:
 
     # imre "Hahaha, this man knows how to be a bro!"
-    imre ""
+    imre "哈哈哈，这才是好兄弟！"
 
 # game/v6/v6.rpy:6941
 translate chineses readywolf_2befab5d:
 
     # aa "Oh sorry, didn't introduce myself. I'm Aaron. Vice President of the Wolves. Nice to meet you."
-    aa ""
+    aa "哦抱歉，没有自我介绍。我是亚伦。饿狼会的副会长。很高兴认识你。"
 
 # game/v6/v6.rpy:6946
 translate chineses readywolf_7e475da4:
 
     # u "I'm [name], Imre's roommate. Nice to meet you too."
-    u ""
+    u "我是[名字]，伊姆雷的室友。我也很高兴认识你。"
 
 # game/v6/v6.rpy:6948
 translate chineses readywolf_0edf4fe1:
 
     # u "You guys know each other long?"
-    u ""
+    u "你们两认识很久了？"
 
 # game/v6/v6.rpy:6953
 translate chineses readywolf_6c59fca3:
 
     # imre "Funny story actually. You remember that girls' volleyball game where I kinda hid in the girls' lockerroom afterwards?"
-    imre ""
+    imre "实际上那是个很搞笑的故事。你记得我那次去看女子排球后藏进了女生更衣室的事?"
 
 # game/v6/v6.rpy:6955
 translate chineses readywolf_4130b404:
 
     # imre "Aaron was seated next to me at the game."
-    imre ""
+    imre "亚伦在比赛时就坐我旁边。"
 
 # game/v6/v6.rpy:6960
 translate chineses readywolf_75189fd4:
 
     # u "Oh, so you like volleyball, Aaron?"
-    u ""
+    u "哦，那你喜欢排球咯，亚伦？"
 
 # game/v6/v6.rpy:6965
 translate chineses readywolf_7b3af07f:
 
     # aa "What? Hell no. I was there for the tushies."
-    aa ""
+    aa "什么？当然不是。我只是去看屁股。"
 
 # game/v6/v6.rpy:6970
 translate chineses readywolf_cc8fb76f:
 
     # u "Wow, you guys really are a match made in heaven then."
-    u ""
+    u "哇，那你们俩真是天造地设的一对。"
 
 # game/v6/v6.rpy:6975
 translate chineses readywolf_23cc0550:
 
     # aa "So Imre, you want me to introduce you to my two new friends?"
-    aa ""
+    aa "那伊姆雷，你想要我给你介绍我的两个新朋友吗？"
 
 # game/v6/v6.rpy:6980
 translate chineses readywolf_ad097bc6:
 
     # imre "Hell yeah."
-    imre ""
+    imre "当然好啊。"
 
 # game/v6/v6.rpy:6985
 translate chineses readywolf_61c7442f:
 
     # imre "[name], you don't mind if I go, do you?"
-    imre ""
+    imre "[名字]，你不介意我先离开，是吧？"
 
 # game/v6/v6.rpy:6990
 translate chineses readywolf_daeb2714:
 
     # u "No, not at all. Enjoy."
-    u ""
+    u "不，完全不介意。玩得愉快。"
 
 # game/v6/v6.rpy:6995
 translate chineses readywolf_74483de5:
 
     # imre "Alriiight! Lead the way, Aaron."
-    imre ""
+    imre "好耶！带路，亚伦。"
 
 # game/v6/v6.rpy:7000
 translate chineses readywolf_bd0f033a:
 
     # u "(Okay, I guess I'm on my own.)"
-    u ""
+    u "（好，看来我要独自一人了。）"
 
 # game/v6/v6.rpy:7008
 translate chineses wolvesfr_57a3ab58:
 
     # u "(Time to check out this party.)"
-    u ""
+    u "(是时候进去看看这派对了。）"
 
 # game/v6/v6.rpy:7028
 translate chineses v6_fr3josh1_9bd7d51c:
