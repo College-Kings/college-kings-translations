@@ -5361,709 +5361,709 @@ translate chineses gn_ad_5e1642e7:
 translate chineses gn_ad_434e2c2f:
 
     # host "Now comes our next poet, Martin!"
-    host ""
+    host "现在有请我们下一位诗人，马丁！"
 
 # game/v6/v6.rpy:5661
 translate chineses gn_ad_06289722:
 
     # "*Crowd applauds*"
-    ""
+    "*全场鼓掌*"
 
 # game/v6/v6.rpy:5666
 translate chineses gn_ad_44898a12:
 
     # poet2 "Rain... It falls from the sky."
-    poet2 ""
+    poet2 "雨...从天而落。"
 
 # game/v6/v6.rpy:5673
 translate chineses gn_ad_931a9e68:
 
     # poet2 "Pitter patter. Pitter patter... Rain falling down the windows."
-    poet2 ""
+    poet2 "啪嗒啪嗒。啪嗒啪嗒...雨从窗户滑落。"
 
 # game/v6/v6.rpy:5675
 translate chineses gn_ad_9778961d:
 
     # poet2 "It drips... Pitter patter... Pitter patter..."
-    poet2 ""
+    poet2 "它滴落着...啪嗒啪嗒...啪嗒啪嗒..."
 
 # game/v6/v6.rpy:5680
 translate chineses gn_ad_419e5531:
 
     # ri "*Whispers* What is happening?"
-    ri ""
+    ri "*低声说*什么状况？"
 
 # game/v6/v6.rpy:5685
 translate chineses gn_ad_49f3a80b:
 
     # poet2 "-... Rain. It falls. Pitter patter. Pitter patter."
-    poet2 ""
+    poet2 "-...雨。继续落着。啪嗒啪嗒。啪嗒啪嗒。"
 
 # game/v6/v6.rpy:5690
 translate chineses gn_ad_b9b24171:
 
     # "*One person applauds*"
-    ""
+    "*一人鼓掌*"
 
 # game/v6/v6.rpy:5699
 translate chineses gn_ad_3c3c9b55:
 
     # u "Honestly, that was kinda profound."
-    u ""
+    u "说实话，有点意味深长啊。"
 
 # game/v6/v6.rpy:5704
 translate chineses gn_ad_fe81161f:
 
     # ri "*Chuckles* Oh shut up, it was not profound."
-    ri ""
+    ri "*抿嘴笑*哦闭嘴吧，什么意味深长。"
 
 # game/v6/v6.rpy:5709
 translate chineses gn_ad_2232945f:
 
     # u "No seriously, I thought that was really good."
-    u ""
+    u "不，我是认真的，我认为那相当不错。"
 
 # game/v6/v6.rpy:5714
 translate chineses gn_ad_58da0f55:
 
     # ri "Pff, you're ridiculous."
-    ri ""
+    ri "噗，你太搞笑了。"
 
 # game/v6/v6.rpy:5720
 translate chineses gn_ad_dc832f76:
 
     # u "Okay, that was bad. He might as well perform whale sounds."
-    u ""
+    u "好了，那是不好。他表演鲸鱼的叫声可能效果会跟好些。"
 
 # game/v6/v6.rpy:5725
 translate chineses gn_ad_9e8e8dd7:
 
     # ri "*Chuckles* Oh god, that's so mean."
-    ri ""
+    ri "*抿嘴笑*哦天哪，那也太坏了吧。"
 
 # game/v6/v6.rpy:5729
 translate chineses gn_ad_dc6ae495:
 
     # u "You can say about art what you want, but this was like objectively bad. *Laughs*"
-    u ""
+    u "你有你自己对艺术的欣赏，但这好像是客观上的不好吧。*大笑*"
 
 # game/v6/v6.rpy:5735
 translate chineses go_ad_e69b7932:
 
     # host "Wow Martin, thank you for... something."
-    host ""
+    host "哇马丁，感谢你的...模糊。"
 
 # game/v6/v6.rpy:5737
 translate chineses go_ad_c689ca20:
 
     # host "Next up is our last scheduled poet before the free for all, please welcome Samantha!"
-    host ""
+    host "下面是我们在自由模式前排定的最后一位诗人，请欢迎萨曼莎！"
 
 # game/v6/v6.rpy:5742
 translate chineses go_ad_62196087:
 
     # "*Crowd applauds extra loud, some guys whistle*"
-    ""
+    "*全场热烈鼓掌，有人吹口哨*"
 
 # game/v6/v6.rpy:5746
 translate chineses go_ad_e8806997:
 
     # u "Oh yeah, she looks like she'll be good."
-    u ""
+    u "哦是啊，她看上去会很不错的。"
 
 # game/v6/v6.rpy:5748
 translate chineses go_ad_4aa2e124:
 
     # ri "Shh."
-    ri ""
+    ri "嘘。"
 
 # game/v6/v6.rpy:5753
 translate chineses go_ad_56e215b9:
 
     # poet3 "When I was a little girl,"
-    poet3 ""
+    poet3 "当我还是个小女孩，"
 
 # game/v6/v6.rpy:5755
 translate chineses go_ad_5c7a1455:
 
     # poet3 "All I wanted to be was a super star."
-    poet3 ""
+    poet3 "我一心想成为一名超级明星。"
 
 # game/v6/v6.rpy:5757
 translate chineses go_ad_00b392e6:
 
     # poet3 "In my room I'd twirl,"
-    poet3 ""
+    poet3 "在房间里我旋转着，"
 
 # game/v6/v6.rpy:5759
 translate chineses go_ad_ea93e082:
 
     # poet3 "Dreaming of the day I could go far."
-    poet3 ""
+    poet3 "梦想着我可以腾飞的那天。"
 
 # game/v6/v6.rpy:5764
 translate chineses go_ad_2fa315bd:
 
     # poet3 "Now that I am older,"
-    poet3 ""
+    poet3 "现在我长大了些，"
 
 # game/v6/v6.rpy:5766
 translate chineses go_ad_c723fc9d:
 
     # poet3 "I know that I'm a star."
-    poet3 ""
+    poet3 "我知道我是位明星。"
 
 # game/v6/v6.rpy:5768
 translate chineses go_ad_cdb5e93c:
 
     # poet3 "I am the beholder,"
-    poet3 ""
+    poet3 "我是位观众，"
 
 # game/v6/v6.rpy:5770
 translate chineses go_ad_3854cff2:
 
     # poet3 "You'll never be at par."
-    poet3 ""
+    poet3 "你们永远都不等同于面值。"
 
 # game/v6/v6.rpy:5775
 translate chineses go_ad_ef624ca5:
 
     # poet3 "I know you all want to be me,"
-    poet3 ""
+    poet3 "我知道你们都想成为我，"
 
 # game/v6/v6.rpy:5777
 translate chineses go_ad_2b456d2b:
 
     # poet3 "But no one will ever compare."
-    poet3 ""
+    poet3 "但没人可以跟我相比。"
 
 # game/v6/v6.rpy:5779
 translate chineses go_ad_46d05530:
 
     # poet3 "So why not take a knee,"
-    poet3 ""
+    poet3 "所以为何不跪下来，"
 
 # game/v6/v6.rpy:5781
 translate chineses go_ad_0489f303:
 
     # poet3 "And maybe I'll let you breathe my air."
-    poet3 ""
+    poet3 "也许我会让你呼吸我的空气。"
 
 # game/v6/v6.rpy:5786
 translate chineses go_ad_6937c367:
 
     # "*Crowd applauds slowly*"
-    ""
+    "*全场缓慢鼓掌*"
 
 # game/v6/v6.rpy:5796
 translate chineses go_ad_67bc29f9:
 
     # u "She was good."
-    u ""
+    u "她不错啊。"
 
 # game/v6/v6.rpy:5801
 translate chineses go_ad_0412476f:
 
     # ri "Are you serious?"
-    ri ""
+    ri "你是认真的？"
 
 # game/v6/v6.rpy:5806
 translate chineses go_ad_37663d88:
 
     # u "Uhm... you don't think so?"
-    u ""
+    u "嗯...你不这么认为吗？"
 
 # game/v6/v6.rpy:5811
 translate chineses go_ad_0dfe8879:
 
     # ri "You can't say she was good just 'cause you find her hot, you know."
-    ri ""
+    ri "你不能只因为你觉得她性感就说她不错。"
 
 # game/v6/v6.rpy:5816
 translate chineses go_ad_0ff87fe8:
 
     # u "That's not-, I mean she had... talent."
-    u ""
+    u "那不是-，我是指她有...天赋。"
 
 # game/v6/v6.rpy:5821
 translate chineses go_ad_17551163:
 
     # ri "Yeah, right."
-    ri ""
+    ri "是啊，太对了。"
 
 # game/v6/v6.rpy:5826
 translate chineses go_ad_b55416b6:
 
     # u "Man, that girl was into herself. You think she runs her own fan club?"
-    u ""
+    u "哇，那位女生是位自恋狂。你想她会自导自演她的粉圈吗？"
 
 # game/v6/v6.rpy:5830
 translate chineses go_ad_91dc8042:
 
     # ri "*Laughs* Probably."
-    ri ""
+    ri "*大笑*大概吧。"
 
 # game/v6/v6.rpy:5836
 translate chineses gp_ad_14ab757f:
 
     # host "Thank you Samantha, that was really ho-"
-    host ""
+    host "谢谢你萨曼莎，那真是-"
 
 # game/v6/v6.rpy:5841
 translate chineses gp_ad_2ce6b69e:
 
     # host "Hospitalizingly well written."
-    host ""
+    host "是要把人送进医院般的优秀文采。"
 
 # game/v6/v6.rpy:5846
 translate chineses gp_ad_c817687c:
 
     # host "Anyway, it's time for the final part of the poetry slam, our audience free for all."
-    host ""
+    host "无论如何，现在到了诗歌大满贯的最后部分，观众朋友们的自由模式。"
 
 # game/v6/v6.rpy:5848
 translate chineses gp_ad_7ad7bb7c:
 
     # host "Anyone who just felt inspired, may raise their hand now and gets to perform themselves."
-    host ""
+    host "有哪位刚受到了启发，现在可以举手上台即兴发挥。"
 
 # game/v6/v6.rpy:5850
 translate chineses gp_ad_e6b50040:
 
     # host "Be it what you've scribbled on your notebook or what you've collected on your phone's notes app."
-    host ""
+    host "不管是你在记事本上胡乱写的，又或是你从手机软件里整理出的。"
 
 # game/v6/v6.rpy:5852
 translate chineses gp_ad_858c116e:
 
     # host "There is no judgement here. Is anyone brave enough to share?"
-    host ""
+    host "我们不论好坏。有哪位勇敢的站出来分享一下？"
 
 # game/v6/v6.rpy:5857
 translate chineses gp_ad_e8a4a203:
 
     # ri "I dare you to go up."
-    ri ""
+    ri "我挑战你上台去。"
 
 # game/v6/v6.rpy:5862
 translate chineses gp_ad_0a47987c:
 
     # u "*Laughs* What? Are you crazy?"
-    u ""
+    u "*大笑*什么？你疯了吗？"
 
 # game/v6/v6.rpy:5864
 translate chineses gp_ad_cbf5c911:
 
     # u "I don't have anything to perform."
-    u ""
+    u "我没什么可以表演的。"
 
 # game/v6/v6.rpy:5869
 translate chineses gp_ad_11ca5657:
 
     # ri "You know how dares work, you gotta do it."
-    ri ""
+    ri "你知道挑战是怎么回事，你就得做。"
 
 # game/v6/v6.rpy:5879
 translate chineses gp_ad_331088e5:
 
     # u "Okay, I'll do it."
-    u ""
+    u "好了，我做就是。"
 
 # game/v6/v6.rpy:5884
 translate chineses gp_ad_a80f74c9:
 
     # ri "Yayyy!"
-    ri ""
+    ri "好咧！"
 
 # game/v6/v6.rpy:5889
 translate chineses gp_ad_31d2d024:
 
     # host "Great! We have a volunteer."
-    host ""
+    host "太好了！我们有位自愿者。"
 
 # game/v6/v6.rpy:5894
 translate chineses gp_ad_06289722:
 
     # "*Crowd applauds*"
-    ""
+    "*全场鼓掌*"
 
 # game/v6/v6.rpy:5896
 translate chineses gp_ad_add1e391:
 
     # "*Riley applauds extra loud*"
-    ""
+    "*莱利鼓掌特别响*"
 
 # game/v6/v6.rpy:5901
 translate chineses gp_ad_2b577489:
 
     # "*Clears throat*"
-    ""
+    "*清喉咙*"
 
 # game/v6/v6.rpy:5917
 translate chineses gp_ad_39928d4a:
 
     # u "Twinkle, twinkle little star..."
-    u ""
+    u "一闪一闪小星星..."
 
 # game/v6/v6.rpy:5919
 translate chineses gp_ad_1d5b579c:
 
     # u "How I wonder what you are."
-    u ""
+    u "我想弄清你是啥。"
 
 # game/v6/v6.rpy:5924
 translate chineses gp_ad_35edee6d:
 
     # u "Up above the world so high..."
-    u ""
+    u "悬在夜空高又远..."
 
 # game/v6/v6.rpy:5926
 translate chineses gp_ad_76dd09ef:
 
     # u "Like a diamond in the sky."
-    u ""
+    u "好似钻石挂天空。"
 
 # game/v6/v6.rpy:5931
 translate chineses gp_ad_39928d4a_1:
 
     # u "Twinkle, twinkle little star..."
-    u ""
+    u "一闪一闪小星星..."
 
 # game/v6/v6.rpy:5933
 translate chineses gp_ad_1d5b579c_1:
 
     # u "How I wonder what you are."
-    u ""
+    u "我想弄清你是啥。"
 
 # game/v6/v6.rpy:5938
 translate chineses gp_ad_ccd53b23:
 
     # u "Thank you."
-    u ""
+    u "谢谢。"
 
 # game/v6/v6.rpy:5943
 translate chineses gp_ad_8587ed4f:
 
     # "*Crowd applauds loudly*"
-    ""
+    "*全场热烈鼓掌*"
 
 # game/v6/v6.rpy:5949
 translate chineses gp_ad_39928d4a_2:
 
     # u "Twinkle, twinkle little star..."
-    u ""
+    u "一闪一闪小星星..."
 
 # game/v6/v6.rpy:5951
 translate chineses gp_ad_00fe2911:
 
     # u "How I uh, wonder what you are."
-    u ""
+    u "我想呃，想弄清你是啥。"
 
 # game/v6/v6.rpy:5956
 translate chineses gp_ad_11d3b6d1:
 
     # u "Up above the world so uhm- so high..."
-    u ""
+    u "悬在夜空高嗯-高又远..."
 
 # game/v6/v6.rpy:5958
 translate chineses gp_ad_56637566:
 
     # u "Like a- Like a diamond in the sky."
-    u ""
+    u "好似-好似钻石挂天空。"
 
 # game/v6/v6.rpy:5963
 translate chineses gp_ad_39928d4a_3:
 
     # u "Twinkle, twinkle little star..."
-    u ""
+    u "一闪一闪小星星..."
 
 # game/v6/v6.rpy:5965
 translate chineses gp_ad_b32bbc74:
 
     # u "How I wonder what uhm... you are."
-    u ""
+    u "我想弄清你嗯...是啥。"
 
 # game/v6/v6.rpy:5970
 translate chineses gp_ad_ccd53b23_1:
 
     # u "Thank you."
-    u ""
+    u "谢谢。"
 
 # game/v6/v6.rpy:5975
 translate chineses gp_ad_f50c7d93:
 
     # "*Crowd applauds"
-    ""
+    "*全场鼓掌*"
 
 # game/v6/v6.rpy:5983
 translate chineses gp_ad_5800ccb1:
 
     # u "The stars are on uhh...fire."
-    u ""
+    u "星星都着了呃...火。"
 
 # game/v6/v6.rpy:5985
 translate chineses gp_ad_35caaf60:
 
     # u "And you are on..."
-    u ""
+    u "而你也着了..."
 
 # game/v6/v6.rpy:5990
 translate chineses gp_ad_dd04dfac:
 
     # u "fire."
-    u ""
+    u "火。"
 
 # game/v6/v6.rpy:5992
 translate chineses gp_ad_b3c9fa7e:
 
     # u "I just hope you don't burn out because..."
-    u ""
+    u "我只希望你不被烧光，因为..."
 
 # game/v6/v6.rpy:5997
 translate chineses gp_ad_4be39d31:
 
     # u "That would uhm..."
-    u ""
+    u "那会嗯..."
 
 # game/v6/v6.rpy:5999
 translate chineses gp_ad_fbf6b90d:
 
     # u "Hurt. Thank you."
-    u ""
+    u "很疼。谢谢。"
 
 # game/v6/v6.rpy:6004
 translate chineses gp_ad_f50c7d93_1:
 
     # "*Crowd applauds"
-    ""
+    "*全场鼓掌*"
 
 # game/v6/v6.rpy:6010
 translate chineses gp_ad_8d9b7081:
 
     # u "No. No way. I'm not going up there."
-    u ""
+    u "不。绝不。我不会到台上去的。"
 
 # game/v6/v6.rpy:6015
 translate chineses gp_ad_a5ec6c5e:
 
     # ri "C'mon don't be like that. Go up!"
-    ri ""
+    ri "来嘛，别那样。上去啦！"
 
 # game/v6/v6.rpy:6020
 translate chineses gp_ad_7845b6a0:
 
     # u "You're crazy. I can't do poetry."
-    u ""
+    u "你疯了。我做不了诗。"
 
 # game/v6/v6.rpy:6025
 translate chineses gp_ad_faa3fbd3:
 
     # ri "Ugh, fine..."
-    ri ""
+    ri "呃，好吧..."
 
 # game/v6/v6.rpy:6030
 translate chineses gp_ad_da691ad4:
 
     # host "Well, since no one's volunteering, I guess we'll call it a night."
-    host ""
+    host "这个，既然没人资源上来，我想我们今晚也就告一段落。"
 
 # game/v6/v6.rpy:6032
 translate chineses gp_ad_cf9303f5:
 
     # host "Thank you for coming everyone! And have a good night!"
-    host ""
+    host "谢谢各位的捧场！祝大家晚安！"
 
 # game/v6/v6.rpy:6037
 translate chineses gp_ad_06289722_1:
 
     # "*Crowd applauds*"
-    ""
+    "*全场鼓掌*"
 
 # game/v6/v6.rpy:6049
 translate chineses afterps_338e0694:
 
     # ri "How did you pull that off? You just performed a lullaby and everyone was clapping at the end."
-    ri ""
+    ri "你刚才是怎么做到的？你只是表演了一首摇篮曲，而所有人在结束时都拍手叫好。"
 
 # game/v6/v6.rpy:6054
 translate chineses afterps_cce55e6e:
 
     # u "You just gotta be confident, haha."
-    u ""
+    u "你只需要有自信，哈哈。"
 
 # game/v6/v6.rpy:6059
 translate chineses afterps_db5dca3d:
 
     # ri "Incredible..."
-    ri ""
+    ri "不可思议..."
 
 # game/v6/v6.rpy:6064
 translate chineses afterps_f2782c85:
 
     # ri "So what did you think of the poetry slam as a whole?"
-    ri ""
+    ri "那你认为诗歌大满贯总体来说怎么样？"
 
 # game/v6/v6.rpy:6070
 translate chineses afterps_bf6ee459:
 
     # u "Oh god, I was awful."
-    u ""
+    u "哦天哪，我太差劲了。"
 
 # game/v6/v6.rpy:6075
 translate chineses afterps_28d016f4:
 
     # ri "At least you went up there, I think it was brave."
-    ri ""
+    ri "至少你上台去了，我认为你很勇敢。"
 
 # game/v6/v6.rpy:6080
 translate chineses afterps_f2782c85_1:
 
     # ri "So what did you think of the poetry slam as a whole?"
-    ri ""
+    ri "那你认为诗歌大满贯总体来说怎么样？"
 
 # game/v6/v6.rpy:6086
 translate chineses afterps_ae53299e:
 
     # ri "So what did you think?"
-    ri ""
+    ri "那你觉得怎么样？"
 
 # game/v6/v6.rpy:6090
 translate chineses afterps_c60b4a0e:
 
     # u "Definitely enjoyed it a lot more than I thought I would."
-    u ""
+    u "肯定比我想象中的要有趣得多。"
 
 # game/v6/v6.rpy:6095
 translate chineses afterps_47c8c047:
 
     # ri "Told you. Pretty incredible what people can come up with."
-    ri ""
+    ri "我就说嘛。大家的表演都太不可思议了。"
 
 # game/v6/v6.rpy:6101
 translate chineses afterps_6d2780f6:
 
     # u "True. We can definitely do this again at some point."
-    u ""
+    u "的确。我们什么时候一定要再来参加。"
 
 # game/v6/v6.rpy:6106
 translate chineses afterps_28892c8c:
 
     # ri "Yeah."
-    ri ""
+    ri "好啊。"
 
 # game/v6/v6.rpy:6112
 translate chineses afterps_4cb1c90c:
 
     # u "Yeah, but next time you're the one going up on stage, haha."
-    u ""
+    u "不过下次到台上去的是你，哈哈。"
 
 # game/v6/v6.rpy:6117
 translate chineses afterps_6c8bc409:
 
     # ri "*Chuckles* Maybe."
-    ri ""
+    ri "*抿嘴笑*也许吧。"
 
 # game/v6/v6.rpy:6122
 translate chineses afterps_3e173c21:
 
     # u "Alright, I gotta get back."
-    u ""
+    u "好了，我要回去了。"
 
 # game/v6/v6.rpy:6127
 translate chineses afterpsb_16a3d632:
 
     # u "I'm going bowling with Penelope in a bit."
-    u ""
+    u "我待会儿还要去跟佩内洛普打保龄球。"
 
 # game/v6/v6.rpy:6132
 translate chineses afterpsb_529f1435:
 
     # ri "Uhh, who's Penelope?"
-    ri ""
+    ri "呃，谁是佩内洛普？"
 
 # game/v6/v6.rpy:6135
 translate chineses afterpsb_5a9a11c9:
 
     # ri "Does Lauren know?"
-    ri ""
+    ri "劳伦知道吗？"
 
 # game/v6/v6.rpy:6137
 translate chineses afterpsb_b1475d86:
 
     # u "We're just friends, it's not a big deal."
-    u ""
+    u "我们只是朋友，没什么大不了的。"
 
 # game/v6/v6.rpy:6142
 translate chineses afterpsb_5ce5ae2f:
 
     # ri "Alright, whatever you say."
-    ri ""
+    ri "好吧，就随你了。"
 
 # game/v6/v6.rpy:6147
 translate chineses afterpsb_17f03d84:
 
     # u "I'll see you later."
-    u ""
+    u "我们再见了。"
 
 # game/v6/v6.rpy:6152
 translate chineses afterpsb_77b9e93b:
 
     # ri "Haha, yeah. Enjoy your date."
-    ri ""
+    ri "哈哈，好的。祝你约会愉快。"
 
 # game/v6/v6.rpy:6157
 translate chineses afterpsb_2a1502c5:
 
     # u "Ugh, it's not a date..."
-    u ""
+    u "呃，说了不是约会..."
 
 # game/v6/v6.rpy:6162
 translate chineses afterpsb_2dc2a3a9:
 
     # ri "*Chuckles* Okay, [name]. Byyye."
-    ri ""
+    ri "*抿嘴笑*好吧，[名字]。拜。"
 
 # game/v6/v6.rpy:6167
 translate chineses afterpsb_adba58a0:
 
     # u "Bye, Riley."
-    u ""
+    u "拜，莱利。"
 
 # game/v6/v6.rpy:6173
 translate chineses afterpsb_9cc9acbc:
 
     # u "She's in my history class."
-    u ""
+    u "她跟我一起上历史课。"
 
 # game/v6/v6.rpy:6178
 translate chineses afterpsb_50e57556:
 
     # ri "Well enjoy your date."
-    ri ""
+    ri "那祝你约会愉快。"
 
 # game/v6/v6.rpy:6183
 translate chineses afterpsb_45cceb70:
 
     # u "I'm not even sure it's a date, but thanks. See ya."
-    u ""
+    u "我都还不清楚是不是个约会，不过谢了。再见。"
 
 # game/v6/v6.rpy:6186
 translate chineses afterpsb_2d90a7b3:
 
     # u "I still haven't completed our economics assignment."
-    u ""
+    u "我还没有做完我们经济学的作业。"
 
 # game/v6/v6.rpy:6191
 translate chineses afterpsb_53fa4ac3:
 
     # ri "Oof, well good luck then. I'll see you later."
-    ri ""
+    ri "啼，那就祝你好运了。我们再见了。"
 
 # game/v6/v6.rpy:6196
 translate chineses afterpsb_bb47ee0e:
 
     # u "Thanks, see ya."
-    u ""
+    u "谢了，再见。"
 
 # game/v6/v6.rpy:6212
 translate chineses afterpsb_e3e33d1a:
