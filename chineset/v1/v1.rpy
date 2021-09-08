@@ -838,247 +838,247 @@ translate chineset af_db_5cc482d2:
 translate chineset af_db_87434f45:
 
     # la "You did? I hope she didn't weird you out. She can be a bit much."
-    la ""
+    la "真的? 我希望她沒有讓你感到尷尬。 她有時候是很奇怪。"
 
 # game/v1/v1.rpy:761
 translate chineset af_db_ce8bea27:
 
     # u "Really? She was super nice to me."
-    u ""
+    u "真的? 我剛才對我很友善。"
 
 # game/v1/v1.rpy:765
 translate chineset af_db_8eb725f2:
 
     # la "Well... she's really passionate about political stuff and that can be a bit annoying haha."
-    la ""
+    la "好吧... 她真的很熱衷於關於政治的東西，這可能有點煩人哈哈。"
 
 # game/v1/v1.rpy:772
 translate chineset af_db_daac62bb:
 
     # u "Yeah, I get that."
-    u ""
+    u "是的，我明白了。"
 
 # game/v1/v1.rpy:777
 translate chineset af_db_6f4ca145:
 
     # la "I bet you think she's cute, don't you?"
-    la ""
+    la "我打賭你覺得她很可愛，不是嗎？"
 
 # game/v1/v1.rpy:785
 translate chineset af_db_1b97be3d:
 
     # u "I think that's pretty cool."
-    u ""
+    u "我覺得這挺帥。"
 
 # game/v1/v1.rpy:790
 translate chineset af_db_ad6531f5:
 
     # la "Ohhh... so you think she's cute?"
-    la ""
+    la "哦……所以你覺得她很可愛？"
 
 # game/v1/v1.rpy:797
 translate chineset af_db_222f9225:
 
     # u "I think you're cuter."
-    u ""
+    u "我覺得你更可愛。"
 
 # game/v1/v1.rpy:801
 translate chineset af_db_ce23670f:
 
     # la "Haha, prince charming huh?"
-    la ""
+    la "哈哈，白馬王子吧？"
 
 # game/v1/v1.rpy:806
 translate chineset af_db_7e0e7a51:
 
     # u "Only for the right girl."
-    u ""
+    u "只為那個對的女孩。"
 
 # game/v1/v1.rpy:813
 translate chineset af_db_128eaf78:
 
     # u "Yeah, she's kinda cute."
-    u ""
+    u "是的，她是有點可愛。"
 
 # game/v1/v1.rpy:818
 translate chineset af_db_61980c5c:
 
     # la "She's always been the pretty one."
-    la ""
+    la "她永遠都是漂亮的那個。"
 
 # game/v1/v1.rpy:821
 translate chineset af_db_011ad96a:
 
     # u "Oh cmon, you're just as pretty."
-    u ""
+    u "哦，別這樣，你也一樣漂亮。"
 
 # game/v1/v1.rpy:826
 translate chineset af_db_3071f7e9:
 
     # la "Smooth, haha."
-    la ""
+    la "說得真好，哈哈。"
 
 # game/v1/v1.rpy:832
 translate chineset aj_db_5be28c1b:
 
     # u "We should hang out sometime, what's your number?"
-    u ""
+    u "我們應該一起出去玩，你的電話號碼是多少？"
 
 # game/v1/v1.rpy:837
 translate chineset aj_db_173c5e8d:
 
     # la "Wow, you don't even know my name and you're gonna ask for my number?"
-    la ""
+    la "哇，你甚至不知道我的名字，還想要我的電話號碼？"
 
 # game/v1/v1.rpy:842
 translate chineset aj_db_00fbe766:
 
     # u "Uhhhh..."
-    u ""
+    u "呃..."
 
 # game/v1/v1.rpy:847
 translate chineset aj_db_1ff7b514:
 
     # la "I'm just kidding, I'm Lauren. I'll put my number into your phone."
-    la ""
+    la "我只是在開玩笑，我是勞倫。 我會把我的號碼存到你的手機裡。"
 
 # game/v1/v1.rpy:851
 translate chineset aj_db_0801b8ee:
 
     # u "Haha phew... I'm [name] by the way."
-    u ""
+    u "哈哈唷……順便說一下，我是[name]。"
 
 # game/v1/v1.rpy:853
 translate chineset aj_db_c6a4fd2a:
 
     # u "I'll text you later then, Lauren."
-    u ""
+    u "稍後我會給你發短信的，勞倫。"
 
 # game/v1/v1.rpy:858
 translate chineset aj_db_cc686ec9:
 
     # la "Sounds good. I'll see you later."
-    la ""
+    la "聽起來不錯。 一會見。"
 
 # game/v1/v1.rpy:866
 translate chineset aj_db_030708fe:
 
     # u "(I should probably go to my new dorm, but I might as well explore for a bit beforehand.)"
-    u ""
+    u "（我應該先去我的新宿舍，但我不如先探索一下這裡。）"
 
 # game/v1/v1.rpy:891
 translate chineset v1_freeRoam1_riley_4417530d:
 
     # u "Hey, you were the girl sitting next to Elijah!"
-    u ""
+    u "嘿，你就是坐在以利亞旁邊的女孩！"
 
 # game/v1/v1.rpy:896
 translate chineset v1_freeRoam1_riley_5a5729bf:
 
     # ri "Haha, you caught me. That's what I'm known for."
-    ri ""
+    ri "哈哈，你抓到我了。 這就是我出名的原因。"
 
 # game/v1/v1.rpy:901
 translate chineset v1_freeRoam1_riley_8af8bf58:
 
     # u "I'm [name]."
-    u ""
+    u "我是[name]。"
 
 # game/v1/v1.rpy:906
 translate chineset v1_freeRoam1_riley_cde3dd4b:
 
     # ri "I'm Riley."
-    ri ""
+    ri "我是萊利。"
 
 # game/v1/v1.rpy:911
 translate chineset v1_freeRoam1_riley_e733c6bc:
 
     # ri "So what did you think of Ms. Rose?"
-    ri ""
+    ri "那麼你覺得羅斯小姐怎麼樣？"
 
 # game/v1/v1.rpy:920
 translate chineset v1_freeRoam1_riley_108f89e7:
 
     # u "Oh, she's super hot."
-    u ""
+    u "哦，她超級迷人。"
 
 # game/v1/v1.rpy:925
 translate chineset v1_freeRoam1_riley_5538d1bc:
 
     # ri "Haha, I meant her teaching style."
-    ri ""
+    ri "哈哈，我是說她的教學風格。"
 
 # game/v1/v1.rpy:930
 translate chineset v1_freeRoam1_riley_924d7214:
 
     # u "Ooops... I mean, yeah me too."
-    u ""
+    u "哎呀...我的意思是，是的，我也是想。"
 
 # game/v1/v1.rpy:935
 translate chineset v1_freeRoam1_riley_1d6bb509:
 
     # ri "You didn't pay much attention did you?"
-    ri ""
+    ri "你沒太注意上課吧？"
 
 # game/v1/v1.rpy:940
 translate chineset v1_freeRoam1_riley_452bcad3:
 
     # u "To be fair, the induction talk was reeeally boring."
-    u ""
+    u "說句公道話，課前演講實在是太無聊了。"
 
 # game/v1/v1.rpy:945
 translate chineset v1_freeRoam1_riley_0a10c3a6:
 
     # ri "Trueee, I wish I had sat further back. I had to look like I was engaged the entire time, or I would have left a bad first impression."
-    ri ""
+    ri "是的，我希望我坐得更靠後一點。我必須看起來一直都在專心，否則會給我留下不好的第一印象。"
 
 # game/v1/v1.rpy:949
 translate chineset v1_freeRoam1_riley_9ed721a3:
 
     # u "Next time, just sit with me. Sitting in the last row is where it's at."
-    u ""
+    u "下一次坐在我身邊就好, 我就在最後一排的位置。"
 
 # game/v1/v1.rpy:954
 translate chineset v1_freeRoam1_riley_5dd66e4c:
 
     # ri "Hmmm.. I'll think about it."
-    ri ""
+    ri "嗯。。我會考慮的。"
 
 # game/v1/v1.rpy:960
 translate chineset v1_freeRoam1_riley_9f41e0c7:
 
     # u "I guess she seems pretty nice. I didn't really pay much attention haha."
-    u ""
+    u "我猜她看起來很漂亮。 我真的沒太注意哈哈。"
 
 # game/v1/v1.rpy:965
 translate chineset v1_freeRoam1_riley_c7612a61:
 
     # ri "Yeah, I wish I had sat further back. I had to look like I was engaged the entire time, or I would have left a bad first impression."
-    ri ""
+    ri "是的，我希望我坐得更靠後一點。我必須看起來一直都在專心，否則會給我留下不好的第一印象。"
 
 # game/v1/v1.rpy:970
 translate chineset v1_freeRoam1_riley_9ed721a3_1:
 
     # u "Next time, just sit with me. Sitting in the last row is where it's at."
-    u ""
+    u "下一次坐在我身邊就好, 我就在最後一排的位置。"
 
 # game/v1/v1.rpy:975
 translate chineset v1_freeRoam1_riley_5dd66e4c_1:
 
     # ri "Hmmm.. I'll think about it."
-    ri ""
+    ri "嗯。。我會考慮的。"
 
 # game/v1/v1.rpy:984
 translate chineset v1_freeRoam1_riley2_93a57ebd:
 
     # u "You should really consider sitting in the last row."
-    u ""
+    u "你真的應該考慮坐在最後一排。"
 
 # game/v1/v1.rpy:989
 translate chineset v1_freeRoam1_riley2_84eb9a9f:
 
     # ri "Yeah.. you're probably right haha."
-    ri ""
+    ri "是的..你可能是對的哈哈。"
 
 # game/v1/v1.rpy:995
 translate chineset v1_freeRoam1_elijah_30638a3b:
