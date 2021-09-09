@@ -7851,7 +7851,7 @@ translate chineses v6_fr3dsbathroom_805bb12a:
 translate chineses v6_fr3matt1_d7ad3a0a:
 
     # u "Excuse me?"
-    u "抱歉打搅了？"
+    u "抱歉打扰了？"
 
 # game/v6/v6.rpy:7861
 translate chineses v6_fr3matt1_ab7fa0ff:
@@ -8007,7 +8007,7 @@ translate chineses v6_fr3chris1_a999289a:
 translate chineses v6_fr3chris1_a1be1d42:
 
     # ch "The one key difference is loyalty. The Apes will do anything to win, even if that means stepping on each other."
-    ch "很重要的区别是忠诚。人猿会的能为了胜利做任何事，即使那会造成自相残杀。"
+    ch "关键的区别在于忠诚。人猿会的能为了胜利做任何事，即使那会造成自相残杀。"
 
 # game/v6/v6.rpy:7993
 translate chineses v6_fr3chris1_e3386e41:
@@ -8043,7 +8043,7 @@ translate chineses v6_fr3chris1_8ad26c37:
 translate chineses v6_fr3chris1_a388a0af:
 
     # ch "You see that guy right there?"
-    ch "你有看到那边的那个人吗？"
+    ch "你有看到那边的那人吗？"
 
 # game/v6/v6.rpy:8019
 translate chineses v6_fr3chris1_6bcd435f:
@@ -8127,193 +8127,193 @@ translate chineses v6_fr3chris1_60b57d58:
 translate chineses v6_fr3chris1_6c22e60e_1:
 
     # guyc "You serious man? I should've been there."
-    guyc ""
+    guyc "你是认真的哥们儿？我该在那儿的。"
 
 # game/v6/v6.rpy:8083
 translate chineses v6_fr3chris1_7f2f58b5_1:
 
     # ch "Yeah bro! I'm telling you, it was crazy. Really crazy."
-    ch ""
+    ch "是啊兄弟！告诉你吧，太疯狂了。真的疯狂。"
 
 # game/v6/v6.rpy:8085
 translate chineses v6_fr3chris1_d7ad3a0a:
 
     # u "Excuse me?"
-    u ""
+    u "抱歉打扰了？"
 
 # game/v6/v6.rpy:8090
 translate chineses v6_fr3chris1_684e3fd8:
 
     # guyc "Looks like a fresher needs your attention. I'll catch up with you later."
-    guyc ""
+    guyc "看来你有位新生需要你的帮助。我们待会儿再聊。"
 
 # game/v6/v6.rpy:8095
 translate chineses v6_fr3chris1_c22bd342_1:
 
     # ch "Yeah for sure."
-    ch ""
+    ch "好啊，一定的。"
 
 # game/v6/v6.rpy:8100
 translate chineses v6_fr3chris1_fd6d164f:
 
     # ch "Hey, what's up, man?"
-    ch ""
+    ch "嘿，有事吗，哥们儿？"
 
 # game/v6/v6.rpy:8105
 translate chineses v6_fr3chris1_a5d51e96:
 
     # u "Hey, I'm [name]. You're Chris, right? The Wolves' President?"
-    u ""
+    u "嘿，我是【名字】。你是克里斯，对吧？饿狼会的会长？"
 
 # game/v6/v6.rpy:8110
 translate chineses v6_fr3chris1_35ed20ec:
 
     # ch "Yeah, that's me. You thinking of joining us?"
-    ch ""
+    ch "是啊，就是我。你想加入我们吗？"
 
 # game/v6/v6.rpy:8116
 translate chineses v6_fr3chris1_2573f720:
 
     # u "Uhm... I don't know."
-    u ""
+    u "嗯...我不知道。"
 
 # game/v6/v6.rpy:8122
 translate chineses v6_fr3chris1_bc0c813b:
 
     # u "Maybe, I'm thinking about it."
-    u ""
+    u "也许，我还在考虑。"
 
 # game/v6/v6.rpy:8127
 translate chineses v6_fr3chris1_e43942f3:
 
     # ch "I assume you're still unsure about whether you're a better fit for the Wolves or the Apes, I get that."
-    ch ""
+    ch "我估计你还不太确定你会更适合饿狼会还是人猿会，我懂。"
 
 # game/v6/v6.rpy:8129
 translate chineses v6_fr3chris1_acd5b858:
 
     # ch "At first glance, both the Wolves and the Apes seem to have a lot of similarities."
-    ch ""
+    ch "乍看之下，饿狼会跟人猿会有很多相似处。"
 
 # game/v6/v6.rpy:8134
 translate chineses v6_fr3chris1_a999289a_1:
 
     # u "I guess."
-    u ""
+    u "差不多。"
 
 # game/v6/v6.rpy:8139
 translate chineses v6_fr3chris1_a1be1d42_1:
 
     # ch "The one key difference is loyalty. The Apes will do anything to win, even if that means stepping on each other."
-    ch ""
+    ch "关键的区别在于忠诚。人猿会的能为了胜利做任何事，即使那会造成自相残杀。"
 
 # game/v6/v6.rpy:8141
 translate chineses v6_fr3chris1_e3386e41_1:
 
     # ch "They don't have any honor. They don't have a code."
-    ch ""
+    ch "他们不讲任何道义。他们不讲规则。"
 
 # game/v6/v6.rpy:8143
 translate chineses v6_fr3chris1_ce333bdd_1:
 
     # ch "In the Wolves, loyalty and the brotherhood always comes first."
-    ch ""
+    ch "在饿狼会里，忠诚和义气始终是最优先的。"
 
 # game/v6/v6.rpy:8145
 translate chineses v6_fr3chris1_909240b4_1:
 
     # ch "It's up to you which one you'd rather be a part of."
-    ch ""
+    ch "你自己决定你更愿意成为哪个会的一员。"
 
 # game/v6/v6.rpy:8151
 translate chineses v6_fr3chris1_49a9e742:
 
     # u "Uhm..."
-    u ""
+    u "嗯..."
 
 # game/v6/v6.rpy:8157
 translate chineses v6_fr3chris1_8ad26c37_1:
 
     # u "Loyalty and brotherhood definitely sounds better to me."
-    u ""
+    u "对我来说忠诚和义气听上去要好得多。"
 
 # game/v6/v6.rpy:8162
 translate chineses v6_fr3chris1_a388a0af_1:
 
     # ch "You see that guy right there?"
-    ch ""
+    ch "你有看到那边的那人吗？"
 
 # game/v6/v6.rpy:8167
 translate chineses v6_fr3chris1_6bcd435f_1:
 
     # u "Yeah?"
-    u ""
+    u "有啊？"
 
 # game/v6/v6.rpy:8169
 translate chineses v6_fr3chris1_e1a5e1c5_1:
 
     # ch "That's Finn. Used to be super shy, wouldn't talk to anyone. Hell, he never even had a girlfriend."
-    ch ""
+    ch "那是芬恩。过去超级腼腆，不会跟任何人交谈。见鬼，他从来都没有过女朋友。"
 
 # game/v6/v6.rpy:8171
 translate chineses v6_fr3chris1_54dd223c_1:
 
     # ch "Look at him now, he chats up girls with ease. Knowing your brothers have your back no matter what really does wonders to your confidence."
-    ch ""
+    ch "看他现在，轻松的跟女孩子们聊天。知道你的兄弟们时时刻刻都支持着你对你的自信心有相当大的帮助。"
 
 # game/v6/v6.rpy:8176
 translate chineses v6_fr3chris1_05940b7a_1:
 
     # ch "And you see that guy there? That's Peter. "
-    ch ""
+    ch "另外你有看到那边的那人？那是彼得。"
 
 # game/v6/v6.rpy:8181
 translate chineses v6_fr3chris1_34d33b9c:
 
     # ch "Peter was a whole 300 pounds when he joined. He's 180 now and one of the best fights we got!"
-    ch ""
+    ch "彼得在他刚加入的时候有300磅重。他现在180磅，而且是我们中最好的斗士之一。"
 
 # game/v6/v6.rpy:8186
 translate chineses v6_fr3chris1_020a2e02_1:
 
     # ch "There's a whole lot of us. Harry, he got jumped, was traumatized from it. We got his back. Sebastian, Aaron, Marcus. The list goes on."
-    ch ""
+    ch "我们的会里有很多人。哈利，他被攻击后，在心里留下了阴影。我们依然支持着他。塞巴斯蒂安，亚伦，马库斯等。还有很多很多。"
 
 # game/v6/v6.rpy:8192
 translate chineses v6_fr3chris1_b112b07e_1:
 
     # u "Uhm... okay."
-    u ""
+    u "嗯...好。"
 
 # game/v6/v6.rpy:8198
 translate chineses v6_fr3chris1_0fde419e_1:
 
     # u "That's really cool."
-    u ""
+    u "真的挺好的。"
 
 # game/v6/v6.rpy:8203
 translate chineses v6_fr3chris1_085137e6_1:
 
     # ch "My point is, that every single of these guys has a much better life since joining the Wolves."
-    ch ""
+    ch "我想说的是，他们中的每个人都在加入饿狼会后得到了更美好的生活。"
 
 # game/v6/v6.rpy:8208
 translate chineses v6_fr3chris1_5fbe7379_1:
 
     # u "Yeah, it does seem like it."
-    u ""
+    u "是啊，好像是这么回事。"
 
 # game/v6/v6.rpy:8213
 translate chineses v6_fr3chris1_5dfae744:
 
     # ch "Just ask them yourself. And once you've had a look around, let me know."
-    ch ""
+    ch "你自己去问他们。等你到处都逛完了就告诉我。"
 
 # game/v6/v6.rpy:8215
 translate chineses v6_fr3chris1_05211f04:
 
     # ch "There's something else I wanna show you."
-    ch ""
+    ch "我还有别的东西想要让你看。"
 
 # game/v6/v6.rpy:8225
 translate chineses v6_fr3riley1_2a60fa46:
