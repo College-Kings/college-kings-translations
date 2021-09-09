@@ -6921,1207 +6921,1207 @@ translate chineses readywolf_bd0f033a:
 translate chineses wolvesfr_57a3ab58:
 
     # u "(Time to check out this party.)"
-    u "(是时候进去看看这派对了。）"
+    u "(是时候逛逛这派对了。）"
 
 # game/v6/v6.rpy:7028
 translate chineses v6_fr3josh1_9bd7d51c:
 
     # jo "I could go for another right now."
-    jo ""
+    jo "我现在还能再来一次。"
 
 # game/v6/v6.rpy:7033
 translate chineses v6_fr3josh1_64db04c2:
 
     # ki "I don't mind another."
-    ki ""
+    ki "我也不介意再来。"
 
 # game/v6/v6.rpy:7038
 translate chineses v6_fr3josh1_b3bed3d5:
 
     # u "Hey what's up guys?"
-    u ""
+    u "嘿各位怎样啦？"
 
 # game/v6/v6.rpy:7045
 translate chineses v6_fr3josh1_0e747376:
 
     # u "Damn, you guys are pretty high huh?"
-    u ""
+    u "哇噻，你们几个很嗨呵？"
 
 # game/v6/v6.rpy:7050
 translate chineses v6_fr3josh1_d81bb48d:
 
     # jo "Maybe."
-    jo ""
+    jo "也许吧。"
 
 # game/v6/v6.rpy:7055
 translate chineses v6_fr3josh1_9b8ae663:
 
     # ki "Wanna hit?"
-    ki ""
+    ki "要来点？"
 
 # game/v6/v6.rpy:7060
 translate chineses v6_fr3josh1_4ac34a25:
 
     # u "Nah, I'm good."
-    u ""
+    u "不，不用了。"
 
 # game/v6/v6.rpy:7065
 translate chineses v6_fr3josh1_2b06903e:
 
     # jo "Then at least have a shot with us."
-    jo ""
+    jo "那至少跟我们干一杯。"
 
 # game/v6/v6.rpy:7075
 translate chineses v6_fr3josh1_a0e55258:
 
     # u "Fuck it. Why not."
-    u ""
+    u "操他的。来就来。"
 
 # game/v6/v6.rpy:7085
 translate chineses v6_fr3josh1_b4b78336:
 
     # ki "Attaboy."
-    ki ""
+    ki "痛快。"
 
 # game/v6/v6.rpy:7090
 translate chineses v6_fr3josh1_72d46456:
 
     # jo "Yes, G!"
-    jo ""
+    jo "是啊，老弟！"
 
 # game/v6/v6.rpy:7099
 translate chineses v6_fr3josh1_4ac34a25_1:
 
     # u "Nah, I'm good."
-    u ""
+    u "不，不用了。"
 
 # game/v6/v6.rpy:7109
 translate chineses v6_fr3josh1_242ac9bb:
 
     # jo "You're weak."
-    jo ""
+    jo "你真软弱。"
 
 # game/v6/v6.rpy:7114
 translate chineses v6_fr3josh1_5b236ca0:
 
     # u "Sorry, gonna start off easy with a beer or something."
-    u ""
+    u "抱歉，我打算先来杯啤酒什么轻一点的。"
 
 # game/v6/v6.rpy:7119
 translate chineses v6_fr3josh1_75928358:
 
     # jo "Alright."
-    jo ""
+    jo "好吧。"
 
 # game/v6/v6.rpy:7124
 translate chineses v6_fr3josh1_05b4694e:
 
     # u "So, what are you guys doing here?"
-    u ""
+    u "那，你们来这儿做什么？"
 
 # game/v6/v6.rpy:7129
 translate chineses v6_fr3josh1_3f201145:
 
     # jo "Checking out the Wolves. Just wanna see what the fuzz is all about, you know."
-    jo ""
+    jo "来看这饿狼会。只是想知道这传说中的兄弟张什么样的。"
 
 # game/v6/v6.rpy:7131
 translate chineses v6_fr3josh1_23a47b8f:
 
     # jo "Maybe join if they're cool."
-    jo ""
+    jo "如果够酷，也许还会加入他们。"
 
 # game/v6/v6.rpy:7136
 translate chineses v6_fr3josh1_7587e6d2:
 
     # u "Right."
-    u ""
+    u "对。"
 
 # game/v6/v6.rpy:7141
 translate chineses v6_fr3josh1_fd1ffefa:
 
     # ki "I'm only here 'cuz Amber convinced me."
-    ki ""
+    ki "我来这儿只是因为安波说服了我。"
 
 # game/v6/v6.rpy:7146
 translate chineses v6_fr3josh1_bfc8c409:
 
     # u "Amber's here too? How'd she convince you?"
-    u ""
+    u "安波也在这儿？她怎么说服你的？"
 
 # game/v6/v6.rpy:7151
 translate chineses v6_fr3josh1_77d72859:
 
     # ki "She said there'd be a lot of hot guys here, but right now all I see is you."
-    ki ""
+    ki "她说这里会有很多帅哥，但现在我能看到的只有你。"
 
 # game/v6/v6.rpy:7156
 translate chineses v6_fr3josh1_c9ef3914:
 
     # jo "*Laughs*"
-    jo ""
+    jo "*大笑*"
 
 # game/v6/v6.rpy:7161
 translate chineses v6_fr3josh1_618cacc1:
 
     # u "*Deep breath* Okay, ouch. That felt a little unnecessary, not gonna lie."
-    u ""
+    u "*深吸气*好了，哎哟。说实话，那一句感觉有点没必要吧。"
 
 # game/v6/v6.rpy:7166
 translate chineses v6_fr3josh1_9c86526c:
 
     # jo "Aww, don't get offended, bro. You know she means well."
-    jo ""
+    jo "啊，别生气，兄弟。你知道她不是那个意思。"
 
 # game/v6/v6.rpy:7171
 translate chineses v6_fr3josh1_7908b75d:
 
     # u "How could that possibly be meant well?"
-    u ""
+    u "她怎么不是那个意思？"
 
 # game/v6/v6.rpy:7173
 translate chineses v6_fr3josh1_6b234b82:
 
     # u "Anyway, you guys know where Amber is?"
-    u ""
+    u "话说回来，你们知道安波在哪儿？"
 
 # game/v6/v6.rpy:7178
 translate chineses v6_fr3josh1_028164bb:
 
     # ki "Off somewhere inside."
-    ki ""
+    ki "去了里面什么地方。"
 
 # game/v6/v6.rpy:7183
 translate chineses v6_fr3josh1_6f68e6d3:
 
     # u "Alright, I'll probably go inside too. See you guys later."
-    u ""
+    u "好吧，我也该进去了。待会儿见。"
 
 # game/v6/v6.rpy:7188
 translate chineses v6_fr3josh1_9ca8174b:
 
     # jo "Bye G."
-    jo ""
+    jo "拜老弟。"
 
 # game/v6/v6.rpy:7196
 translate chineses v6_fr3josh2_f5890c4c:
 
     # u "(I already talked to them, not sure I'm down for more Kim right now.)"
-    u ""
+    u "（我已经跟他们谈过了，我不太确定我现在还想继续跟金聊天。）"
 
 # game/v6/v6.rpy:7209
 translate chineses v6_fr3guy1_04aa3d88:
 
     # guya "Kourtney is way more beautiful than Kylie."
-    guya ""
+    guya "考特尼比凯莉漂亮多了。"
 
 # game/v6/v6.rpy:7214
 translate chineses v6_fr3guy1_aef53e37:
 
     # guyb "How could you say that? Kylie is definitely the hottest of them all."
-    guyb ""
+    guyb "你怎么能那样说？凯莉肯定是她们之中最性感的。"
 
 # game/v6/v6.rpy:7219
 translate chineses v6_fr3guy1_6e071574:
 
     # guya "You're crazy."
-    guya ""
+    guya "你疯了。"
 
 # game/v6/v6.rpy:7224
 translate chineses v6_fr3guy1_65796ef7:
 
     # guyb "Ask this guy. He'll know."
-    guyb ""
+    guyb "问这人。他知道。"
 
 # game/v6/v6.rpy:7229
 translate chineses v6_fr3guy1_ef2f1671:
 
     # u "What?"
-    u ""
+    u "什么？"
 
 # game/v6/v6.rpy:7234
 translate chineses v6_fr3guy1_18aa5774:
 
     # guya "Who's hotter, Kourtney or Kylie?"
-    guya ""
+    guya "谁更性感，考特尼还是凯莉？"
 
 # game/v6/v6.rpy:7239
 translate chineses v6_fr3guy1_8d101fc4:
 
     # u "Like the Kardashians?"
-    u ""
+    u "是说卡戴珊家的吗？"
 
 # game/v6/v6.rpy:7244
 translate chineses v6_fr3guy1_ad3b8004:
 
     # guya "Yeah, duh."
-    guya ""
+    guya "是啊，明显的。"
 
 # game/v6/v6.rpy:7249
 translate chineses v6_fr3guy1_26767fb9:
 
     # guyb "Definitely Kylie."
-    guyb ""
+    guyb "一定是凯莉。"
 
 # game/v6/v6.rpy:7259
 translate chineses v6_fr3guy1_72732272:
 
     # u "Yeah I agree, Kylie's way hotter."
-    u ""
+    u "是啊我同意，凯莉性感得多。"
 
 # game/v6/v6.rpy:7264
 translate chineses v6_fr3guy1_59d94461:
 
     # guyb "Exactly!"
-    guyb ""
+    guyb "正解！"
 
 # game/v6/v6.rpy:7269
 translate chineses v6_fr3guy1_4c24ada3:
 
     # guya "What? Why?"
-    guya ""
+    guya "什么？为什么？"
 
 # game/v6/v6.rpy:7274
 translate chineses v6_fr3guy1_6734e85f:
 
     # u "Kylie has a body. And her face is way better."
-    u ""
+    u "凯莉身材好。而且她的脸要好看得多。"
 
 # game/v6/v6.rpy:7279
 translate chineses v6_fr3guy1_9a6bf9d7:
 
     # guya "Yeah, because all the work done."
-    guya ""
+    guya "是啊，因为做了很多整容。"
 
 # game/v6/v6.rpy:7284
 translate chineses v6_fr3guy1_b97a9c8b:
 
     # u "Work done or not, she's hotter."
-    u ""
+    u "有没有整容，她都更性感。"
 
 # game/v6/v6.rpy:7289
 translate chineses v6_fr3guy1_b6830402:
 
     # guyb "That's what I've been saying!"
-    guyb ""
+    guyb "我一直都是这么讲的！"
 
 # game/v6/v6.rpy:7294
 translate chineses v6_fr3guy1_b8e635df:
 
     # guya "Man, you guys are crazy. Kourtney's the only natural one."
-    guya ""
+    guya "哥们儿们，你们疯了。考特尼才是唯一的自然美。"
 
 # game/v6/v6.rpy:7299
 translate chineses v6_fr3guy1_1efe2674:
 
     # guyb "Keeping up with the Kardashians, season 18, episode 3."
-    guyb ""
+    guyb "《与卡戴珊姐妹同行》，第18季，第3集。"
 
 # game/v6/v6.rpy:7301
 translate chineses v6_fr3guy1_533aff4a:
 
     # guyb "Tell me Kourtney looks anywhere near as hot as Kylie there."
-    guyb ""
+    guyb "跟我讲讲里面的考特尼哪里接近凯莉的性感程度了？"
 
 # game/v6/v6.rpy:7306
 translate chineses v6_fr3guy1_f5d23264:
 
     # u "Alright, I'ma leave you guys to it."
-    u ""
+    u "好吧，我就不打搅你们了。"
 
 # game/v6/v6.rpy:7312
 translate chineses v6_fr3guy1_6e98178e:
 
     # u "Definitely Kourtney."
-    u ""
+    u "一定是考特尼。"
 
 # game/v6/v6.rpy:7317
 translate chineses v6_fr3guy1_ce7bbd1d:
 
     # guya "See! Told you!"
-    guya ""
+    guya "看！我跟你说了！"
 
 # game/v6/v6.rpy:7322
 translate chineses v6_fr3guy1_94e1be19:
 
     # guyb "Hell nah."
-    guyb ""
+    guyb "绝对不是。"
 
 # game/v6/v6.rpy:7327
 translate chineses v6_fr3guy1_480e82c4:
 
     # u "Kourtney's the natural one. I prefer natural beauty all day."
-    u ""
+    u "考特尼是天生的。我任何时候都更喜欢自然美。"
 
 # game/v6/v6.rpy:7332
 translate chineses v6_fr3guy1_7372b877:
 
     # guya "My point exactly."
-    guya ""
+    guya "英雄所见略同。"
 
 # game/v6/v6.rpy:7337
 translate chineses v6_fr3guy1_c259c9d9:
 
     # guyb "Man, who cares about natural beauty when that body is banging. Don't matter in bed."
-    guyb ""
+    guyb "哥们，身体做活塞运动的时候谁还管什么自然美。那在床上是没用。"
 
 # game/v6/v6.rpy:7342
 translate chineses v6_fr3guy1_5f222853:
 
     # u "Haha, I feel like natural also looks better naked."
-    u ""
+    u "哈哈，没穿衣服时我还是觉得天然的看上去好些。"
 
 # game/v6/v6.rpy:7347
 translate chineses v6_fr3guy1_69bebd9e:
 
     # guya "Yeah bud, just accept that Kourtney's hotter."
-    guya ""
+    guya "是啊弟兄，就承认考特尼更性感吧。"
 
 # game/v6/v6.rpy:7352
 translate chineses v6_fr3guy1_90456ee8:
 
     # guyb "Keeping up with the Kardashians, season two, episode 3."
-    guyb ""
+    guyb "《与卡戴珊姐妹同行》，第二季，第3集。"
 
 # game/v6/v6.rpy:7354
 translate chineses v6_fr3guy1_533aff4a_1:
 
     # guyb "Tell me Kourtney looks anywhere near as hot as Kylie there."
-    guyb ""
+    guyb "跟我讲讲里面的考特尼哪里接近凯莉的性感程度了？"
 
 # game/v6/v6.rpy:7359
 translate chineses v6_fr3guy1_f5d23264_1:
 
     # u "Alright, I'ma leave you guys to it."
-    u ""
+    u "好吧，我就不打搅你们了。"
 
 # game/v6/v6.rpy:7367
 translate chineses v6_fr3guy2_b5187620:
 
     # u "(No way I'm getting dragged back into that argument.)"
-    u ""
+    u "（我才不想再被卷入那场争论。）"
 
 # game/v6/v6.rpy:7379
 translate chineses v6_fr3aubrey1_8c1ef366:
 
     # au "Really?"
-    au ""
+    au "真的？"
 
 # game/v6/v6.rpy:7384
 translate chineses v6_fr3aubrey1_9d29d92c:
 
     # em "Yeah."
-    em ""
+    em "是呀。"
 
 # game/v6/v6.rpy:7389
 translate chineses v6_fr3aubrey1_8686e81c:
 
     # u "Hey."
-    u ""
+    u "嘿。"
 
 # game/v6/v6.rpy:7399
 translate chineses v6_fr3aubrey1_38a3dbeb:
 
     # em "Uhm... hey."
-    em ""
+    em "嗯...嘿。"
 
 # game/v6/v6.rpy:7404
 translate chineses v6_fr3aubrey1_501a02e8:
 
     # u "So uhm..."
-    u ""
+    u "那个嗯..."
 
 # game/v6/v6.rpy:7411
 translate chineses v6_fr3aubrey1_65fc7545:
 
     # au "Well, this feels awkward. I can leave if you guys wanna talk."
-    au ""
+    au "哎呀，感觉很别扭啊。如果你们想谈的话我可以离开。"
 
 # game/v6/v6.rpy:7416
 translate chineses v6_fr3aubrey1_611ab529:
 
     # u "No, stay. I was just stopping by to say hi."
-    u ""
+    u "不用，别走。我只是过来打声招呼。"
 
 # game/v6/v6.rpy:7421
 translate chineses v6_fr3aubrey1_df10c864:
 
     # au "Oh, okay."
-    au ""
+    au "哦，好的。"
 
 # game/v6/v6.rpy:7426
 translate chineses v6_fr3aubrey1_4bc97342:
 
     # u "Alright, I'ma go talk to some of the other people here. Bye..."
-    u ""
+    u "好吧，我还要去跟这里其他的人谈谈。拜..."
 
 # game/v6/v6.rpy:7431
 translate chineses v6_fr3aubrey1_3f21304e:
 
     # au "Okay, bye."
-    au ""
+    au "好的，拜。"
 
 # game/v6/v6.rpy:7434
 translate chineses v6_fr3aubrey1_8c1ef366_1:
 
     # au "Really?"
-    au ""
+    au "真的？"
 
 # game/v6/v6.rpy:7439
 translate chineses v6_fr3aubrey1_9d29d92c_1:
 
     # em "Yeah."
-    em ""
+    em "是呀。"
 
 # game/v6/v6.rpy:7444
 translate chineses v6_fr3aubrey1_5b240244:
 
     # au "Oh hey."
-    au ""
+    au "哦嘿。"
 
 # game/v6/v6.rpy:7449
 translate chineses v6_fr3aubrey1_e961481b:
 
     # u "Hey Aubrey. Uhm... hey Emily."
-    u ""
+    u "嘿奥布里。嗯...嘿艾米丽。"
 
 # game/v6/v6.rpy:7454
 translate chineses v6_fr3aubrey1_4bbc2845:
 
     # em "Did you need something?"
-    em ""
+    em "你有什么事吗？"
 
 # game/v6/v6.rpy:7459
 translate chineses v6_fr3aubrey1_22b005c1:
 
     # u "Just wanted to say hi to Aubrey."
-    u ""
+    u "只是想跟奥布里打声招呼。"
 
 # game/v6/v6.rpy:7464
 translate chineses v6_fr3aubrey1_353aa221:
 
     # em "We were kind of in the middle of talking."
-    em ""
+    em "我们正忙着说话呢。"
 
 # game/v6/v6.rpy:7469
 translate chineses v6_fr3aubrey1_0df97a62:
 
     # u "Uhm... okay?"
-    u ""
+    u "嗯...好的？"
 
 # game/v6/v6.rpy:7474
 translate chineses v6_fr3aubrey1_18db84ee:
 
     # au "Do you guys need to talk alone for a minute orrr-?"
-    au ""
+    au "你们是不是需要一分钟单独谈谈还是-？"
 
 # game/v6/v6.rpy:7479
 translate chineses v6_fr3aubrey1_c736197e:
 
     # u "Nah, it's cool. Just saying hi, I'll go talk to some of the other people here."
-    u ""
+    u "不用了，没事。只是打声招呼，我还要去跟这里其他的人谈谈。"
 
 # game/v6/v6.rpy:7482
 translate chineses v6_fr3aubrey1_8c1ef366_2:
 
     # au "Really?"
-    au ""
+    au "真的？"
 
 # game/v6/v6.rpy:7487
 translate chineses v6_fr3aubrey1_9d29d92c_2:
 
     # em "Yeah."
-    em ""
+    em "是呀。"
 
 # game/v6/v6.rpy:7492
 translate chineses v6_fr3aubrey1_8686e81c_1:
 
     # u "Hey."
-    u ""
+    u "嘿。"
 
 # game/v6/v6.rpy:7497
 translate chineses v6_fr3aubrey1_437e9148:
 
     # em "Hi."
-    em ""
+    em "嗨。"
 
 # game/v6/v6.rpy:7502
 translate chineses v6_fr3aubrey1_66eeae3d:
 
     # u "You look good."
-    u ""
+    u "你看上去不错。"
 
 # game/v6/v6.rpy:7507
 translate chineses v6_fr3aubrey1_7f986cd0:
 
     # em "Could say the same about you."
-    em ""
+    em "我也可以对你说同样的话。"
 
 # game/v6/v6.rpy:7512
 translate chineses v6_fr3aubrey1_2344e08d:
 
     # au "Uhh, hi?"
-    au ""
+    au "呃，嗨？"
 
 # game/v6/v6.rpy:7517
 translate chineses v6_fr3aubrey1_6c0e06bd:
 
     # u "Oh, hey Aubrey."
-    u ""
+    u "哦，嘿奥布里。"
 
 # game/v6/v6.rpy:7522
 translate chineses v6_fr3aubrey1_a2d231ef:
 
     # au "Sooo, Emily was just telling me you guys used to date."
-    au ""
+    au "那个，艾米丽才跟我说了你们过去是男女朋友。"
 
 # game/v6/v6.rpy:7527
 translate chineses v6_fr3aubrey1_fb7ad77b:
 
     # u "Yup. High school sweethearts."
-    u ""
+    u "是的。高中时候的情人。"
 
 # game/v6/v6.rpy:7532
 translate chineses v6_fr3aubrey1_22493b30:
 
     # em "I was just telling Aubrey the story of how you asked me to senior prom."
-    em ""
+    em "我正在跟奥布里讲你是怎么邀请我去参加高年级的舞会。"
 
 # game/v6/v6.rpy:7537
 translate chineses v6_fr3aubrey1_19058afb:
 
     # u "*Chuckles* Oh no, not that story."
-    u ""
+    u "*抿嘴笑*哦不好，别讲那故事。"
 
 # game/v6/v6.rpy:7542
 translate chineses v6_fr3aubrey1_07d0d820:
 
     # em "Why don't you like that story? It was so sweet."
-    em ""
+    em "你为什么不喜欢那个故事？那是很甜蜜的。"
 
 # game/v6/v6.rpy:7547
 translate chineses v6_fr3aubrey1_bef22ccd:
 
     # au "Yeah, I really didn't take you as the romantic type. But a whole banner in the entrance of the school?"
-    au ""
+    au "是啊，我还真没想到你会是个浪漫型的。不过你把一整块横幅贴到了校门口？"
 
 # game/v6/v6.rpy:7548
 translate chineses v6_fr3aubrey1_5814c83b:
 
     # au "I don't think anyone has ever given me such a grand gesture."
-    au ""
+    au "我不记得曾经有人用这么豪华的姿态请我。"
 
 # game/v6/v6.rpy:7553
 translate chineses v6_fr3aubrey1_89bba34b:
 
     # u "What can I say? I was a hopeless romantic. *Laughs*"
-    u ""
+    u "我能说什么呢？我是位极端浪漫主义者。*大笑*"
 
 # game/v6/v6.rpy:7558
 translate chineses v6_fr3aubrey1_6fcb5661:
 
     # em "When I saw it, I just started crying. It was the most amazing thing anyone's ever done for me."
-    em ""
+    em "当我看到横幅时，我就开始哭了。那是我这辈子以来别人为我做的最棒的事。"
 
 # game/v6/v6.rpy:7563
 translate chineses v6_fr3aubrey1_10436562:
 
     # au "I mean it's definitely a lot, haha."
-    au ""
+    au "的确是非常棒的，哈哈。"
 
 # game/v6/v6.rpy:7573
 translate chineses v6_fr3aubrey1_67db44e0:
 
     # u "Anything for a girl like that..."
-    u ""
+    u "一切为了那样的一个女孩..."
 
 # game/v6/v6.rpy:7578
 translate chineses v6_fr3aubrey1_a5904ca3:
 
     # em "You're too sweet."
-    em ""
+    em "你太可爱了。"
 
 # game/v6/v6.rpy:7583
 translate chineses v6_fr3aubrey1_7d97da4f:
 
     # au "Oh god, think I'm gonna puke."
-    au ""
+    au "哦天哪，我想我要吐了。"
 
 # game/v6/v6.rpy:7588
 translate chineses v6_fr3aubrey1_5f3ef176:
 
     # u "*Laughs* Couldn't help myself. I was young and in love."
-    u ""
+    u "*大笑*我没法自控。年轻的我正坠入爱河。"
 
 # game/v6/v6.rpy:7593
 translate chineses v6_fr3aubrey1_c4eb7b86:
 
     # au "Sure sounds like it."
-    au ""
+    au "听起来确实是的。"
 
 # game/v6/v6.rpy:7598
 translate chineses v6_fr3aubrey1_a4d86504:
 
     # u "Anyways, I'ma check out the rest of this party."
-    u ""
+    u "不多说了，我还要去逛逛这余下的派对。"
 
 # game/v6/v6.rpy:7603
 translate chineses v6_fr3aubrey1_ebf31ff6:
 
     # em "I hope we get to catch up some more later."
-    em ""
+    em "我希望我们待会儿能再聊聊。"
 
 # game/v6/v6.rpy:7608
 translate chineses v6_fr3aubrey1_9e52db9b:
 
     # u "*Chuckles* I'm sure we will."
-    u ""
+    u "*抿嘴笑*我很肯定我们会的。"
 
 # game/v6/v6.rpy:7615
 translate chineses v6_fr3aubrey1_8beb1c42:
 
     # u "What people do for pussy, am I right?"
-    u ""
+    u "为了操妞而努力，我讲的对吗？"
 
 # game/v6/v6.rpy:7620
 translate chineses v6_fr3aubrey1_b9b9c170:
 
     # em "What?!"
-    em ""
+    em "什么？！"
 
 # game/v6/v6.rpy:7625
 translate chineses v6_fr3aubrey1_4d155599:
 
     # au "*Laughs* It seems to have worked."
-    au ""
+    au "*大笑*好像有作用。"
 
 # game/v6/v6.rpy:7630
 translate chineses v6_fr3aubrey1_c866df4c:
 
     # em "Aubrey!"
-    em ""
+    em "奥布里！"
 
 # game/v6/v6.rpy:7635
 translate chineses v6_fr3aubrey1_da08299a:
 
     # u "I was just kidding, calm down Emily."
-    u ""
+    u "我只是开玩笑的，别认真艾米丽。"
 
 # game/v6/v6.rpy:7640
 translate chineses v6_fr3aubrey1_8cedd093:
 
     # em "You better have been."
-    em ""
+    em "你最好是在开玩笑。"
 
 # game/v6/v6.rpy:7647
 translate chineses v6_fr3aubrey1_23195ec4:
 
     # u "Uhm... anyway, I'ma check out the rest of this party. See you guys later."
-    u ""
+    u "嗯...我还要去逛逛这余下的派对。我们待会儿见。"
 
 # game/v6/v6.rpy:7651
 translate chineses v6_fr3aubrey1_8c1ef366_3:
 
     # au "Really?"
-    au ""
+    au "真的？"
 
 # game/v6/v6.rpy:7656
 translate chineses v6_fr3aubrey1_9d29d92c_3:
 
     # em "Yeah."
-    em ""
+    em "是呀。"
 
 # game/v6/v6.rpy:7661
 translate chineses v6_fr3aubrey1_5b240244_1:
 
     # au "Oh hey."
-    au ""
+    au "哦嘿。"
 
 # game/v6/v6.rpy:7664
 translate chineses v6_fr3aubrey1_e90e3e31:
 
     # u "Hey. Looking good, girls."
-    u ""
+    u "嘿。看上去不错啊，美女们。"
 
 # game/v6/v6.rpy:7669
 translate chineses v6_fr3aubrey1_de19ee5d:
 
     # au "Thank you."
-    au ""
+    au "谢谢你。"
 
 # game/v6/v6.rpy:7674
 translate chineses v6_fr3aubrey1_b7329563:
 
     # em "You too."
-    em ""
+    em "你也是。"
 
 # game/v6/v6.rpy:7679
 translate chineses v6_fr3aubrey1_a3138af2:
 
     # au "Emily was just telling me some stories about you two from high school."
-    au ""
+    au "艾米丽正在跟我说些你们两在高中的故事。"
 
 # game/v6/v6.rpy:7684
 translate chineses v6_fr3aubrey1_d98c3dc2:
 
     # u "Oh god. Which ones?"
-    u ""
+    u "哦天哪。是哪个？"
 
 # game/v6/v6.rpy:7689
 translate chineses v6_fr3aubrey1_642604b6:
 
     # au "The one where you asked her to senior prom."
-    au ""
+    au "是你邀请她去高年级舞会的那个。"
 
 # game/v6/v6.rpy:7694
 translate chineses v6_fr3aubrey1_2c5932e4:
 
     # u "*Chuckles* Oh no."
-    u ""
+    u "*抿嘴笑*哦不好。"
 
 # game/v6/v6.rpy:7699
 translate chineses v6_fr3aubrey1_22df2404:
 
     # au "A whole banner in the entrance of the school? What a grand gesture."
-    au ""
+    au "一整块横幅贴到了校门口？姿态够豪华的。"
 
 # game/v6/v6.rpy:7704
 translate chineses v6_fr3aubrey1_0efb29a5:
 
     # u "It was nothing really."
-    u ""
+    u "那真的没什么啦。"
 
 # game/v6/v6.rpy:7709
 translate chineses v6_fr3aubrey1_6fcb5661_1:
 
     # em "When I saw it, I just started crying. It was the most amazing thing anyone's ever done for me."
-    em ""
+    em "当我看到横幅时，我就开始哭了。那是我这辈子以来别人为我做的最棒的事。"
 
 # game/v6/v6.rpy:7714
 translate chineses v6_fr3aubrey1_10436562_1:
 
     # au "I mean it's definitely a lot, haha."
-    au ""
+    au "的确是非常棒的，哈哈。"
 
 # game/v6/v6.rpy:7724
 translate chineses v6_fr3aubrey1_4f5c2ffa:
 
     # u "What can I say? I was young and in love."
-    u ""
+    u "我能说什么呢？年轻的我正坠入爱河。"
 
 # game/v6/v6.rpy:7729
 translate chineses v6_fr3aubrey1_fe0fc4f0:
 
     # em "*Chuckles* We both were."
-    em ""
+    em "*抿嘴笑*我们俩都是。"
 
 # game/v6/v6.rpy:7734
 translate chineses v6_fr3aubrey1_6e7b83b9:
 
     # au "Mhm."
-    au ""
+    au "嗯。"
 
 # game/v6/v6.rpy:7739
 translate chineses v6_fr3aubrey1_6b407d38:
 
     # em "Those were good times."
-    em ""
+    em "那都是些美好的时光啊。"
 
 # game/v6/v6.rpy:7744
 translate chineses v6_fr3aubrey1_c053df64:
 
     # u "Uh, yeah, yeah they were."
-    u ""
+    u "呃，是啊，的确是。"
 
 # game/v6/v6.rpy:7749
 translate chineses v6_fr3aubrey1_4dc016c6:
 
     # em "So you here to check out the Wolves?"
-    em ""
+    em "那你是来看看饿狼会的？"
 
 # game/v6/v6.rpy:7754
 translate chineses v6_fr3aubrey1_744a6b9b:
 
     # u "Yeah, just seeing what they're like. Plus a lot of my friends are here."
-    u ""
+    u "是的，就是来看看他们是什么样的。况且我有好多朋友也在这儿。"
 
 # game/v6/v6.rpy:7756
 translate chineses v6_fr3aubrey1_a4d86504_1:
 
     # u "Anyways, I'ma check out the rest of this party."
-    u ""
+    u "不多说了，我还要去逛逛这余下的派对。"
 
 # game/v6/v6.rpy:7761
 translate chineses v6_fr3aubrey1_ebf31ff6_1:
 
     # em "I hope we get to catch up some more later."
-    em ""
+    em "我希望我们待会儿能再聊聊。"
 
 # game/v6/v6.rpy:7766
 translate chineses v6_fr3aubrey1_0eca355e:
 
     # u "I'm sure we will."
-    u ""
+    u "我很肯定我们会的。"
 
 # game/v6/v6.rpy:7771
 translate chineses v6_fr3aubrey1_9d5ad3ff:
 
     # au "Byeee."
-    au ""
+    au "拜。"
 
 # game/v6/v6.rpy:7778
 translate chineses v6_fr3aubrey1_01cd9943:
 
     # u "Really, it was nothing. Was so long ago."
-    u ""
+    u "真的，那没什么。那是很久以前了。"
 
 # game/v6/v6.rpy:7783
 translate chineses v6_fr3aubrey1_c583cc22:
 
     # em "Was still really sweet."
-    em ""
+    em "还是很甜蜜的。"
 
 # game/v6/v6.rpy:7788
 translate chineses v6_fr3aubrey1_2d38d605:
 
     # u "Yeah, yeah. I know."
-    u ""
+    u "是啦，是啦。我知道。"
 
 # game/v6/v6.rpy:7793
 translate chineses v6_fr3aubrey1_a646aadd:
 
     # au "Sooo, you here to check out the Wolves or the ladies tonight?"
-    au ""
+    au "那，你今晚来这儿是看饿狼会呢还是看美女啊？"
 
 # game/v6/v6.rpy:7798
 translate chineses v6_fr3aubrey1_735eba10:
 
     # u "*Laughs* Maybe a bit of both."
-    u ""
+    u "*大笑*可能都要看一下。"
 
 # game/v6/v6.rpy:7803
 translate chineses v6_fr3aubrey1_f1c99fac:
 
     # em "Wow."
-    em ""
+    em "哇。"
 
 # game/v6/v6.rpy:7808
 translate chineses v6_fr3aubrey1_3d5a1afc:
 
     # u "I'm kidding. Just tryin' to see what's up."
-    u ""
+    u "我开玩笑的。只是来看看你们在干嘛。"
 
 # game/v6/v6.rpy:7813
 translate chineses v6_fr3aubrey1_c7c26833:
 
     # au "Sure."
-    au ""
+    au "当然了。"
 
 # game/v6/v6.rpy:7818
 translate chineses v6_fr3aubrey1_a4d86504_2:
 
     # u "Anyways, I'ma check out the rest of this party."
-    u ""
+    u "不多说了，我还要去逛逛这余下的派对。"
 
 # game/v6/v6.rpy:7823
 translate chineses v6_fr3aubrey1_074c1fb7:
 
     # au "I'm sure we'll get to catch up some more later."
-    au ""
+    au 我很肯定我们待会儿会再聊的。""
 
 # game/v6/v6.rpy:7828
 translate chineses v6_fr3aubrey1_515b4cf7:
 
     # u "*Chuckles* I'd hope so."
-    u ""
+    u "*抿嘴笑*希望是这样。"
 
 # game/v6/v6.rpy:7836
 translate chineses v6_fr3aubrey2_ebf251f6:
 
     # u "(I should check out other parts of the party as well.)"
-    u ""
+    u "（我也该去见见派对中别的人。）"
 
 # game/v6/v6.rpy:7845
 translate chineses v6_fr3dsbathroom_805bb12a:
 
     # u "(Hmm... locked)"
-    u ""
+    u "（嗯...上了锁）"
 
 # game/v6/v6.rpy:7856
 translate chineses v6_fr3matt1_d7ad3a0a:
 
     # u "Excuse me?"
-    u ""
+    u "抱歉打搅了？"
 
 # game/v6/v6.rpy:7861
 translate chineses v6_fr3matt1_ab7fa0ff:
 
     # matt "Hehehe."
-    matt ""
+    matt "嘿嘿嘿。"
 
 # game/v6/v6.rpy:7866
 translate chineses v6_fr3matt1_d6f2bad2:
 
     # u "Uhm, what?"
-    u ""
+    u "嗯，什么？"
 
 # game/v6/v6.rpy:7871
 translate chineses v6_fr3matt1_ab7fa0ff_1:
 
     # matt "Hehehe."
-    matt ""
+    matt "嘿嘿嘿。"
 
 # game/v6/v6.rpy:7876
 translate chineses v6_fr3matt1_24c1ede3:
 
     # u "You know what? Nevermind."
-    u ""
+    u "你知道吗？不用在意我。"
 
 # game/v6/v6.rpy:7884
 translate chineses v6_fr3matt2_be4c6e02:
 
     # u "(I'm not going over there again.)"
-    u ""
+    u "（我不会再去那儿了。）"
 
 # game/v6/v6.rpy:7895
 translate chineses v6_fr3chris1_6c22e60e:
 
     # guyc "You serious man? I should've been there."
-    guyc ""
+    guyc "你是认真的哥们儿？我该在那儿的。"
 
 # game/v6/v6.rpy:7900
 translate chineses v6_fr3chris1_7f2f58b5:
 
     # ch "Yeah bro! I'm telling you, it was crazy. Really crazy."
-    ch ""
+    ch "是啊兄弟！告诉你吧，太疯狂了。真的疯狂。"
 
 # game/v6/v6.rpy:7902
 translate chineses v6_fr3chris1_8672bf74:
 
     # u "Chris?"
-    u ""
+    u "克里斯？"
 
 # game/v6/v6.rpy:7907
 translate chineses v6_fr3chris1_0a62565a:
 
     # guyc "Looks like you got a fan waiting for you. I'll catch up with you later."
-    guyc ""
+    guyc "看来你有位粉丝在等你。我们待会儿再聊。"
 
 # game/v6/v6.rpy:7912
 translate chineses v6_fr3chris1_c22bd342:
 
     # ch "Yeah for sure."
-    ch ""
+    ch "好啊，一定的。"
 
 # game/v6/v6.rpy:7917
 translate chineses v6_fr3chris1_8b0511b6:
 
     # ch "Hey, man. What's up?"
-    ch ""
+    ch "嘿，哥们儿。有事吗？"
 
 # game/v6/v6.rpy:7922
 translate chineses v6_fr3chris1_ccee1a9c:
 
     # u "I don't know if you remember, but you told me to come see you at this party. You know, after I fought with Adam."
-    u ""
+    u "我不知道你还记不记得，但你叫我到这个派对来见你。你知道，就在我跟亚当打斗之后。"
 
 # game/v6/v6.rpy:7927
 translate chineses v6_fr3chris1_a28afe39:
 
     # ch "Of course I remember. I'm glad you could make it, I really think you'd make a great Wolf."
-    ch ""
+    ch "我当然记得。我很高兴你能来，我真的认为你会成为一名优秀的饿狼会成员。"
 
 # game/v6/v6.rpy:7933
 translate chineses v6_fr3chris1_032545f0:
 
     # u "You do remember that he beat me up, right?"
-    u ""
+    u "你有记得他把我打倒了，是吧？"
 
 # game/v6/v6.rpy:7938
 translate chineses v6_fr3chris1_c3f8afc2:
 
     # ch "What I remember is you standing up for your friend."
-    ch ""
+    ch "我所记得的是你敢于为你朋友出头。"
 
 # game/v6/v6.rpy:7943
 translate chineses v6_fr3chris1_ee01f9b9:
 
     # u "Thanks."
-    u ""
+    u "谢了。"
 
 # game/v6/v6.rpy:7952
 translate chineses v6_fr3chris1_ee01f9b9_1:
 
     # u "Thanks."
-    u ""
+    u "谢了。"
 
 # game/v6/v6.rpy:7957
 translate chineses v6_fr3chris1_740051ba:
 
     # ch "Beating up Adam like that, it's mad."
-    ch ""
+    ch "像那样把亚当打到，真是凶猛啊。"
 
 # game/v6/v6.rpy:7962
 translate chineses v6_fr3chris1_61394ae9:
 
     # u "Yeah, but it was really a one time thing. I don't really know much about fighting."
-    u ""
+    u "是啊，但那只是运气好而已。我真的不太了解打斗。"
 
 # game/v6/v6.rpy:7967
 translate chineses v6_fr3chris1_e77b423f:
 
     # ch "That just proves even more how much talent you have."
-    ch ""
+    ch "那就证明你是多么的有天赋。"
 
 # game/v6/v6.rpy:7969
 translate chineses v6_fr3chris1_d99cbde4:
 
     # ch "Look, I'm sure you got the same speech by Grayson."
-    ch ""
+    ch "听着，我很肯定格雷森也对你说过同样的话。"
 
 # game/v6/v6.rpy:7971
 translate chineses v6_fr3chris1_28f324b4:
 
     # ch "Truth is, we're both looking for freshmen that show potential."
-    ch ""
+    ch "事实上，我们都在寻找有潜力的新人。"
 
 # game/v6/v6.rpy:7976
 translate chineses v6_fr3chris1_daac62bb:
 
     # u "Yeah, I get that."
-    u ""
+    u "是的，我明白。"
 
 # game/v6/v6.rpy:7981
 translate chineses v6_fr3chris1_6747a40a:
 
     # ch "And if I was in your shoes, I'd think to myself that both the Wolves and the Apes seem to have a lot of similarities."
-    ch ""
+    ch "而从你的角度出发，你会认为饿狼会跟人猿会有很多相似处。"
 
 # game/v6/v6.rpy:7986
 translate chineses v6_fr3chris1_a999289a:
 
     # u "I guess."
-    u ""
+    u "差不多。"
 
 # game/v6/v6.rpy:7991
 translate chineses v6_fr3chris1_a1be1d42:
 
     # ch "The one key difference is loyalty. The Apes will do anything to win, even if that means stepping on each other."
-    ch ""
+    ch "很重要的区别是忠诚。人猿会的能为了胜利做任何事，即使那会造成自相残杀。"
 
 # game/v6/v6.rpy:7993
 translate chineses v6_fr3chris1_e3386e41:
 
     # ch "They don't have any honor. They don't have a code."
-    ch ""
+    ch "他们不讲任何道义。他们不讲规则。"
 
 # game/v6/v6.rpy:7995
 translate chineses v6_fr3chris1_ce333bdd:
 
     # ch "In the Wolves, loyalty and the brotherhood always comes first."
-    ch ""
+    ch "在饿狼会里，忠诚和义气始终是最优先的。"
 
 # game/v6/v6.rpy:7997
 translate chineses v6_fr3chris1_909240b4:
 
     # ch "It's up to you which one you'd rather be a part of."
-    ch ""
+    ch "你自己决定你更愿意成为哪个会的一员。"
 
 # game/v6/v6.rpy:8003
 translate chineses v6_fr3chris1_3d3c5fce:
 
     # u "I don't know Chris... I'm not sure the Wolves are for me."
-    u ""
+    u "我不知道克里斯...我不太确定饿狼会适合我。"
 
 # game/v6/v6.rpy:8009
 translate chineses v6_fr3chris1_8ad26c37:
 
     # u "Loyalty and brotherhood definitely sounds better to me."
-    u ""
+    u "对我来说忠诚和义气听上去要好得多。"
 
 # game/v6/v6.rpy:8014
 translate chineses v6_fr3chris1_a388a0af:
 
     # ch "You see that guy right there?"
-    ch ""
+    ch "你有看到那边的那个人吗？"
 
 # game/v6/v6.rpy:8019
 translate chineses v6_fr3chris1_6bcd435f:
 
     # u "Yeah?"
-    u ""
+    u "有啊？"
 
 # game/v6/v6.rpy:8021
 translate chineses v6_fr3chris1_e1a5e1c5:
 
     # ch "That's Finn. Used to be super shy, wouldn't talk to anyone. Hell, he never even had a girlfriend."
-    ch ""
+    ch "那是芬恩。过去超级腼腆，不会跟任何人交谈。见鬼，他从来都没有过女朋友。"
 
 # game/v6/v6.rpy:8023
 translate chineses v6_fr3chris1_54dd223c:
 
     # ch "Look at him now, he chats up girls with ease. Knowing your brothers have your back no matter what really does wonders to your confidence."
-    ch ""
+    ch "看他现在，轻松的跟女孩子们聊天。知道你的兄弟们时时刻刻都支持着你对你的自信心有相当大的帮助。"
 
 # game/v6/v6.rpy:8028
 translate chineses v6_fr3chris1_05940b7a:
 
     # ch "And you see that guy there? That's Peter. "
-    ch ""
+    ch "另外你有看到那边的那人？那是彼得。"
 
 # game/v6/v6.rpy:8033
 translate chineses v6_fr3chris1_049ee770:
 
     # ch "Peter was a whole 300 pounds when he joined. He's 180 now and one of the best fighters we got!"
-    ch ""
+    ch "彼得在他刚加入的时候有300磅重。他现在180磅，而且是我们中最好的斗士之一。"
 
 # game/v6/v6.rpy:8038
 translate chineses v6_fr3chris1_020a2e02:
 
     # ch "There's a whole lot of us. Harry, he got jumped, was traumatized from it. We got his back. Sebastian, Aaron, Marcus. The list goes on."
-    ch ""
+    ch "我们的会里有很多人。哈利，他被攻击后，在心里留下了阴影。我们依然支持着他。塞巴斯蒂安，亚伦，马库斯等。还有很多很多。"
 
 # game/v6/v6.rpy:8044
 translate chineses v6_fr3chris1_b112b07e:
 
     # u "Uhm... okay."
-    u ""
+    u "嗯...好。"
 
 # game/v6/v6.rpy:8050
 translate chineses v6_fr3chris1_0fde419e:
 
     # u "That's really cool."
-    u ""
+    u "真的挺好的。"
 
 # game/v6/v6.rpy:8055
 translate chineses v6_fr3chris1_085137e6:
 
     # ch "My point is, that every single of these guys has a much better life since joining the Wolves."
-    ch ""
+    ch "我想说的是，他们中的每个人都在加入饿狼会后得到了更美好的生活。"
 
 # game/v6/v6.rpy:8060
 translate chineses v6_fr3chris1_5fbe7379:
 
     # u "Yeah, it does seem like it."
-    u ""
+    u "是啊，好像是这么回事。"
 
 # game/v6/v6.rpy:8065
 translate chineses v6_fr3chris1_4596ee32:
 
     # ch "I've got something else I wanna show you, once you've met everyone."
-    ch ""
+    ch "你跟所有的人都打了招呼之后，我还有别的东西想要让你看。"
 
 # game/v6/v6.rpy:8067
 translate chineses v6_fr3chris1_87c8113b:
 
     # ch "So have a look around and come talk to me once you're ready."
-    ch ""
+    ch "再去逛一逛，等你准备好了就来找我。"
 
 # game/v6/v6.rpy:8072
 translate chineses v6_fr3chris1_60b57d58:
 
     # u "Okay, will do."
-    u ""
+    u "好的，我会的。"
 
 # game/v6/v6.rpy:8078
 translate chineses v6_fr3chris1_6c22e60e_1:
