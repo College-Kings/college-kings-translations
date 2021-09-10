@@ -9291,385 +9291,385 @@ translate chineses v6_fr3nora2_4c478388:
 translate chineses v6_fr3chloe1_d55fe0eb:
 
     # "*Crying noises*"
-    ""
+    "*哭泣声*"
 
 # game/v6/v6.rpy:9118
 translate chineses v6_fr3chloe1_dd256407:
 
     # "*Sniff*"
-    ""
+    "*擤鼻涕*"
 
 # game/v6/v6.rpy:9125
 translate chineses v6_fr3chloe1_4f1997c1:
 
     # "*Knock knock knock*"
-    ""
+    "*敲 敲 敲*"
 
 # game/v6/v6.rpy:9127
 translate chineses v6_fr3chloe1_795c4cb3:
 
     # u "Hello? Are you okay?"
-    u ""
+    u "喂？你没事吧？"
 
 # game/v6/v6.rpy:9132
 translate chineses v6_fr3chloe1_398b97c7:
 
     # cl "*Sniff* Who is it?"
-    cl ""
+    cl "*擤鼻涕*谁啊？"
 
 # game/v6/v6.rpy:9134
 translate chineses v6_fr3chloe1_c141f72a:
 
     # u "Chloe? It's me, [name]."
-    u ""
+    u "克洛伊？是我，[名字]。"
 
 # game/v6/v6.rpy:9137
 translate chineses v6_fr3chloe1_225b635c:
 
     # cl "*Sniff* Leave me alone."
-    cl ""
+    cl "*擤鼻涕*别管我啦。"
 
 # game/v6/v6.rpy:9139
 translate chineses v6_fr3chloe1_ccaac1f2:
 
     # u "No, you're crying. I'm not just going to walk away. What happened?"
-    u ""
+    u "不，你还在哭。我不会不管的。发生了什么？"
 
 # game/v6/v6.rpy:9141
 translate chineses v6_fr3chloe1_8d241006:
 
     # cl "I said leave me alone. I don't want to talk to you."
-    cl ""
+    cl "我说了别管我。我不想跟你说话。"
 
 # game/v6/v6.rpy:9143
 translate chineses v6_fr3chloe1_775518f1:
 
     # u "Chloe, just let me in. You can talk to me."
-    u ""
+    u "克洛伊，让我先进去。你可以跟我说的。"
 
 # game/v6/v6.rpy:9145
 translate chineses v6_fr3chloe1_29536725:
 
     # cl "*Sniff* I don't want to talk to you."
-    cl ""
+    cl "*擤鼻涕*我不想跟你说话。"
 
 # game/v6/v6.rpy:9147
 translate chineses v6_fr3chloe1_54cba69c:
 
     # u "C'mon Chloe. You can trust me."
-    u ""
+    u "好啦克洛伊。你可以相信我。"
 
 # game/v6/v6.rpy:9149
 translate chineses v6_fr3chloe1_61118779:
 
     # cl "But you don't trust me."
-    cl ""
+    cl "但你不相信我。"
 
 # game/v6/v6.rpy:9151
 translate chineses v6_fr3chloe1_4c62310a:
 
     # u "Chloe. Stop. Just let me help."
-    u ""
+    u "克洛伊。别说了。让我来帮你。"
 
 # game/v6/v6.rpy:9156
 translate chineses v6_fr3chloe1_2bd0b405:
 
     # cl "*Sniff* Okay..."
-    cl ""
+    cl "*擤鼻涕*好..."
 
 # game/v6/v6.rpy:9161
 translate chineses v6_fr3chloe1_e0ce4a63:
 
     # cl "Please, just leave me alone, [name]."
-    cl ""
+    cl "请你不要管我啦，[名字]。"
 
 # game/v6/v6.rpy:9163
 translate chineses v6_fr3chloe1_22809803:
 
     # u "Fine..."
-    u ""
+    u "行..."
 
 # game/v6/v6.rpy:9168
 translate chineses v6_fr3chloe1_79ad69e5:
 
     # cl "Not right now, please."
-    cl ""
+    cl "现在不行。"
 
 # game/v6/v6.rpy:9170
 translate chineses v6_fr3chloe1_e094596c:
 
     # u "Chloe, I hear you crying. Just let me in."
-    u ""
+    u "克洛伊，我听到你在哭。让我进去。"
 
 # game/v6/v6.rpy:9172
 translate chineses v6_fr3chloe1_ebc7bc0d:
 
     # cl "*Sniff* I'm fine. Please. I need a minute."
-    cl ""
+    cl "*擤鼻涕*我没事。请给我一分钟。"
 
 # game/v6/v6.rpy:9174
 translate chineses v6_fr3chloe1_3e160fa0:
 
     # u "Chloe, I can hear that you're not fine. Just let me in. We can talk about whatever's bothering you."
-    u ""
+    u "克洛伊，我能听见你有事。快让我进去。我们可以谈谈是什么让你这么伤心。"
 
 # game/v6/v6.rpy:9176
 translate chineses v6_fr3chloe1_5d45dae9:
 
     # cl "Really, I'm okay!"
-    cl ""
+    cl "真的，我没事！"
 
 # game/v6/v6.rpy:9178
 translate chineses v6_fr3chloe1_badd95da:
 
     # u "Chloe. Please."
-    u ""
+    u "克洛伊。快点。"
 
 # game/v6/v6.rpy:9180
 translate chineses v6_fr3chloe1_2bd0b405_1:
 
     # cl "*Sniff* Okay..."
-    cl ""
+    cl "*擤鼻涕*好..."
 
 # game/v6/v6.rpy:9186
 translate chineses v6_fr3chloe1_9a2e6fc5:
 
     # "*Door unlocks*"
-    ""
+    "*门开了*"
 
 # game/v6/v6.rpy:9193
 translate chineses v6_fr3chloe1_8dd069ff:
 
     # cl "Hey..."
-    cl ""
+    cl "嘿..."
 
 # game/v6/v6.rpy:9198
 translate chineses v6_fr3chloe1_0ec302d6:
 
     # u "So what happened?"
-    u ""
+    u "发生了什么？"
 
 # game/v6/v6.rpy:9203
 translate chineses v6_fr3chloe1_aabfa9a1:
 
     # cl "Nothing, it's stupid."
-    cl ""
+    cl "没什么，没什么要紧的。"
 
 # game/v6/v6.rpy:9208
 translate chineses v6_fr3chloe1_ee7e7231:
 
     # u "Come on, please. Talk to me. I hate seeing you like this."
-    u ""
+    u "好啦。跟我说吧。我讨厌看见你这样。"
 
 # game/v6/v6.rpy:9213
 translate chineses v6_fr3chloe1_5028b393:
 
     # cl "It's just... It's just... All the Chicks met today to discuss some stuff, like new recruits and budget, et cetera."
-    cl ""
+    cl "只是...只是...所有的小鸡会成员今天开会讨论一些事，像招募新会员和预算等等。"
 
 # game/v6/v6.rpy:9215
 translate chineses v6_fr3chloe1_41238137:
 
     # cl "*Sniff* Then all of the sudden, Nora stands up and says that I'm not doing my job well and she wants me to step down as president."
-    cl ""
+    cl "*擤鼻涕*然后突然之间，诺拉站起来说我没有做好我的工作，她还想要我辞去会长的职位。"
 
 # game/v6/v6.rpy:9217
 translate chineses v6_fr3chloe1_2eeb406d:
 
     # cl "I mean, I knew Nora didn't like me, but... she could have just told me in private, you know?"
-    cl ""
+    cl "我的意思是，我知道诺拉不喜欢我，但...她可以在私下跟我谈这事，你懂吗？"
 
 # game/v6/v6.rpy:9222
 translate chineses v6_fr3chloe1_c00522a3:
 
     # cl "*Crying* Oh god, I'm trying so hard to make everyone happy and people just keep attacking me."
-    cl ""
+    cl "*哭泣*哦天哪，我非常努力的试着让每个人都开心，结果大家只是一再的攻击我。"
 
 # game/v6/v6.rpy:9224
 translate chineses v6_fr3chloe1_fe882eaf:
 
     # cl "*Crying* First Grayson, now Nora..."
-    cl ""
+    cl "*哭泣*先是格雷森，现在又是诺拉..."
 
 # game/v6/v6.rpy:9231
 translate chineses v6_fr3chloe1_8e5b8650:
 
     # u "You ever think, maybe you should step down?"
-    u ""
+    u "你有没有想过，也许你该辞职？"
 
 # game/v6/v6.rpy:9236
 translate chineses v6_fr3chloe1_34a03f20:
 
     # cl "What???"
-    cl ""
+    cl "什么？？？"
 
 # game/v6/v6.rpy:9241
 translate chineses v6_fr3chloe1_ff00b32a:
 
     # u "You know maybe it's just a bit too stressful and you could always let someone else give it a shot."
-    u ""
+    u "你知道也许只是压力有点太大，而且你始终可以让别人试试看。"
 
 # game/v6/v6.rpy:9243
 translate chineses v6_fr3chloe1_ad26bfcd:
 
     # u "It'll definitely put less of a target on your back."
-    u ""
+    u "那一定可以减少你背上的包袱。"
 
 # game/v6/v6.rpy:9248
 translate chineses v6_fr3chloe1_c9fed8ef:
 
     # cl "Are you kidding me?"
-    cl ""
+    cl "你在跟我开玩笑？"
 
 # game/v6/v6.rpy:9250
 translate chineses v6_fr3chloe1_efdb22a2:
 
     # cl "That's your solution? Me losing everything I've worked for over the past 3 years?!"
-    cl ""
+    cl "这就是你的解决办法？我失去我过去3年的所有付出？！"
 
 # game/v6/v6.rpy:9255
 translate chineses v6_fr3chloe1_c2f4912f:
 
     # u "I'm just trying to help and the pressure's obviously getting to you."
-    u ""
+    u "我只是想帮忙，而你所承受的压力很明显太大了。"
 
 # game/v6/v6.rpy:9260
 translate chineses v6_fr3chloe1_1a351c1c:
 
     # cl "The pressure's not getting to me. All the people trying to drag me down are."
-    cl ""
+    cl "这压力对我没什么。是所有的想把我拉下去的人。"
 
 # game/v6/v6.rpy:9262
 translate chineses v6_fr3chloe1_298e1b81:
 
     # cl "And apparently you're one of those people."
-    cl ""
+    cl "而且你显然也是他们其中之一。"
 
 # game/v6/v6.rpy:9267
 translate chineses v6_fr3chloe1_f4e25d18:
 
     # u "Chloe, I-"
-    u ""
+    u "克洛伊，我-"
 
 # game/v6/v6.rpy:9272
 translate chineses v6_fr3chloe1_25af965f:
 
     # cl "Just get out."
-    cl ""
+    cl "快出去。"
 
 # game/v6/v6.rpy:9277
 translate chineses v6_fr3chloe1_b96ae845:
 
     # u "I'm just trying to help."
-    u ""
+    u "我只是想帮你。"
 
 # game/v6/v6.rpy:9282
 translate chineses v6_fr3chloe1_61e2196d:
 
     # cl "I said get out! Leave me alone."
-    cl ""
+    cl "我说了出去！别管我。"
 
 # game/v6/v6.rpy:9287
 translate chineses v6_fr3chloe1_22809803_1:
 
     # u "Fine..."
-    u ""
+    u "行..."
 
 # game/v6/v6.rpy:9293
 translate chineses v6_fr3chloe1_86051670:
 
     # u "Nora's being stupid. You're a great president. You're smart, you're driven and you care so much..."
-    u ""
+    u "诺拉糊涂了。你是位很好的会长。你聪明，你目标明确，并且你很关心他人..."
 
 # game/v6/v6.rpy:9295
 translate chineses v6_fr3chloe1_a155b5a3:
 
     # u "She's probably just jealous."
-    u ""
+    u "他多半只是嫉妒你。"
 
 # game/v6/v6.rpy:9300
 translate chineses v6_fr3chloe1_964edbe9:
 
     # cl "You think so?"
-    cl ""
+    cl "你是这么想的？"
 
 # game/v6/v6.rpy:9305
 translate chineses v6_fr3chloe1_6d70cdcb:
 
     # u "I know so. And just because one girl doesn't like you, doesn't mean you have to give it all up for her."
-    u ""
+    u "是的。而且只是一位女生不喜欢你，并不代表你就应该为了她放弃一切。"
 
 # game/v6/v6.rpy:9307
 translate chineses v6_fr3chloe1_8ac5ffbd:
 
     # u "I mean what does she know?"
-    u ""
+    u "我是指她懂什么？"
 
 # game/v6/v6.rpy:9312
 translate chineses v6_fr3chloe1_c2a55d86:
 
     # cl "But what about the other girls? What if she starts getting them to agree with her?"
-    cl ""
+    cl "但其他的女孩呢？要是她开始拉拢其他女孩怎么办？"
 
 # game/v6/v6.rpy:9317
 translate chineses v6_fr3chloe1_b8eb71bd:
 
     # u "They won't agree with her. Chloe you're an amazing person and leader. And all of the girls can see that."
-    u ""
+    u "她们不会被拉拢的。克洛伊你是位优秀的领导者。所有的女孩子都能看到的。"
 
 # game/v6/v6.rpy:9322
 translate chineses v6_fr3chloe1_0fb260a4:
 
     # cl "Thank you. I needed to hear that."
-    cl ""
+    cl "谢谢你。我需要听这些话。"
 
 # game/v6/v6.rpy:9344
 translate chineses v6_fr3chloe1_dde803c1:
 
     # u "*Grins* What was that for?"
-    u ""
+    u "*冷笑*那是做什么用？"
 
 # game/v6/v6.rpy:9349
 translate chineses v6_fr3chloe1_14c5f29e:
 
     # cl "Just a little token of my gratitude."
-    cl ""
+    cl "只是我的一点心意。"
 
 # game/v6/v6.rpy:9354
 translate chineses v6_fr3chloe1_8569c4fa:
 
     # u "*Chuckles*"
-    u ""
+    u "*抿嘴笑*"
 
 # game/v6/v6.rpy:9359
 translate chineses v6_fr3chloe1_0cda1f14:
 
     # cl "I'm gonna clean up before I go back out."
-    cl ""
+    cl "在出去前我要先整理一下。"
 
 # game/v6/v6.rpy:9364
 translate chineses v6_fr3chloe1_c37f37d1:
 
     # u "Of course. I'll give you some space. Let me know if you need some more words of encouragement later."
-    u ""
+    u "当然。我会给你些距离。如果你待会儿还需要听更多鼓励的话就来找我。"
 
 # game/v6/v6.rpy:9369
 translate chineses v6_fr3chloe1_aac0bbae:
 
     # cl "Thank you."
-    cl ""
+    cl "谢谢你。"
 
 # game/v6/v6.rpy:9374
 translate chineses v6_fr3chloe1_1b28a406:
 
     # u "Of course."
-    u ""
+    u "当然。"
 
 # game/v6/v6.rpy:9383
 translate chineses v6_fr3chloe2_4d9ff6b5:
 
     # u "(I should give her some space.)"
-    u ""
+    u "（我该给她些距离。）"
 
 # game/v6/v6.rpy:9394
 translate chineses v6_fr3office_8c466545:
