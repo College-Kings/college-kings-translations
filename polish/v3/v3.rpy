@@ -2134,7 +2134,7 @@ translate polish abj_dd51a358:
 translate polish abj_b4c007f1:
 
     # au "Lost your balance?"
-    au "Straciłeś równowagę?
+    au "Straciłeś równowagę?"
 
 # game/v3/v3.rpy:2289
 translate polish abj_a8a4308f:

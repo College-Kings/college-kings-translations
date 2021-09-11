@@ -64,7 +64,7 @@ translate chineset strings:
 
     # renpy/common/00accessibility.rpy:140
     old "Opendyslexic"
-    new "Opendyslexic字型""
+    new "Opendyslexic字型"
 
     # renpy/common/00accessibility.rpy:146
     old "Text Size Scaling"
