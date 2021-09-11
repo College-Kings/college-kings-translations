@@ -10,7 +10,7 @@ translate empty v10_wolves_redec_4df48b01:
 translate empty v10_wolves_redec_330c5ce3:
 
     # ch "I was wondering when you'd get tired of blank walls. There's some supplies in the closet in your room. We're actually getting ready to decorate the whole house."
-    ch "Je me demandais quand tu en aurais marre des murs blancs. Il y a des fournitures dans le placard de ta chambre. Nous nous préparons actuellement à décorer toute la maison.
+    ch "Je me demandais quand tu en aurais marre des murs blancs. Il y a des fournitures dans le placard de ta chambre. Nous nous préparons actuellement à décorer toute la maison."
 
 # game/v10/scene13.rpy:33
 translate empty v10_wolves_redec_db45c5a6:

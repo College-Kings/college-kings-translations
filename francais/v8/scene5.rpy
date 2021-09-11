@@ -40,7 +40,7 @@ translate francais hoco_amb_night_0a73bda9:
 translate francais hoco_amb_night_4e02250a:
 
     # u "Ahh fuck!"
-	u "Ahh putain !"
+    u "Ahh putain !"
 
 # game/v8/scene5.rpy:89
 translate francais hoco_amb_night_2087707f:

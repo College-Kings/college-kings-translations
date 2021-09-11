@@ -442,7 +442,7 @@ translate francais apes_faceoff_task_37aa62dc:
 translate francais apes_faceoff_task_63391035:
 
     # ca "For your face-off challenge, you must do something ridiculous on campus without alerting security."
-    ca "Pour votre défi face à face, vous devez faire quelque chose de ridicule sur le campus sans alerter la sécurité.""
+    ca "Pour votre défi face à face, vous devez faire quelque chose de ridicule sur le campus sans alerter la sécurité."
 
 # game/v8/scene12.rpy:286
 translate francais apes_faceoff_task_e7193872:
