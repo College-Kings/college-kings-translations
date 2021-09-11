@@ -43,14 +43,14 @@
 ### chineses (Simplified Chinese)
 Progress | ?/all | Who is working on it? | Proofreading | Who is proofreading?
 -------- | -------- | --------- | --------- | ---------
-non script files | 3/6 | Mycelle | [ ] | -
-v01.rpy | 5225/5225 | Mycelle | [ ] | -
-v02.rpy | 4221/4221 | Mycelle | [ ] | -
-v03.rpy | 3636/3636 | Mycelle | [ ] | -
-v04.rpy | 3227/3227 | Mycelle | [ ] | -
-v05.rpy | 2503/3498 | Mycelle | [ ] | -
-v06.rpy | 0/11645 | - | [ ] | -
-v07.rpy | 0/18403 | - | [ ] | -
+non script files | 3/6 | Mycelle | [ ] | Mycelle
+v01.rpy | 5225/5225 | Mycelle | [ ] | Mycelle
+v02.rpy | 4221/4221 | Mycelle | [ ] | Mycelle
+v03.rpy | 3636/3636 | Mycelle | [ ] | Mycelle
+v04.rpy | 3227/3227 | Mycelle | [ ] | Mycelle
+v05.rpy | 3997/3997 | Mycelle | [ ] | Mycelle
+v06.rpy | 9288/11645 | Mycelle | [ ] | Mycelle
+v07.rpy | 0/18403 | SEaring | [ ] | -
 v08 files | 0/45 | - | [ ] | -
 v09 files | 0/42 | - | [ ] | -
 v10 files | 0/41 | - | [ ] | -
@@ -216,8 +216,8 @@ Progress | ?/all | Who is working on it? | Proofreading | Who is proofreading?
 non script files | 6/6 | Klamos | [ ] | -
 v01.rpy | 5225/5225 | Klamos | [ ] | -
 v02.rpy | 4221/4221 | Klamos | [ ] | -
-v03.rpy | 410/3636 | Klamos | [ ] | -
-v04.rpy | 0/3227 | - | [ ] | -
+v03.rpy | 3636/3636 | Klamos | [ ] | -
+v04.rpy | 0/3227 | Klamos | [ ] | -
 v05.rpy | 0/3498 | - | [ ] | -
 v06.rpy | 0/11645 | - | [ ] | -
 v07.rpy | 0/18403 | - | [ ] | -

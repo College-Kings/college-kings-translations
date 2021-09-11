@@ -1432,7 +1432,7 @@ translate chineses efra_f1c2feb9:
 translate chineses efra_b331919a:
 
     # imre "Exactly, which is also why I'm joining the Wolves."
-    imre "正是，这也是我为什么会加入饿狼会的原因。"
+    imre "正解，这也是我为什么会加入饿狼会的原因。"
 
 # game/v1/v1.rpy:1279
 translate chineses efra_a2226aec:
@@ -1450,19 +1450,19 @@ translate chineses efra_b001c4ba:
 translate chineses efra_20d8a0c5:
 
     # imre "The Apes are disloyal pieces of shit. The Wolves are real brothers and they get mad pussy."
-    imre "人猿会的全是一群不忠不义的家伙。饿狼会的才是真正的兄弟而且他们对泡妞也很在行。"
+    imre "人猿会的全是一群不忠不义的混混。饿狼会的才是真正的兄弟而且他们对泡妞也很在行。"
 
 # game/v1/v1.rpy:1291
 translate chineses efra_d8ab5241:
 
     # u "Didn't you say it's your first day? How do you know the frats so well?"
-    u "你刚不是说这是你第一天吗？你怎么对兄弟会的情况这么了解？"
+    u "你刚不是说你是第一天来这儿吗？你怎么对兄弟会的情况这么了解？"
 
 # game/v1/v1.rpy:1296
 translate chineses efra_b938dede:
 
     # imre "It is, but my brother used to be a Wolf and he told me about all the shady shit that the Apes would do."
-    imre "我是刚来，但我哥以前是饿狼会的，而且他把所有那些人猿会做的肮脏事都告诉我了。"
+    imre "我是刚来，但我老哥以前是饿狼会的，而且他把所有那些人猿会做的肮脏事都告诉我了。"
 
 # game/v1/v1.rpy:1301
 translate chineses efra_6f59e463:
@@ -3772,7 +3772,7 @@ translate chineses v1_freeRoam2_courtney2_8b940739:
 translate chineses v1_freeRoam2_josh_e7b879a0:
 
     # jo "[name]! I didn't know you're also going to San Vallejo. *sniff*"
-    jo "[名字]！我不知道你也来到圣瓦列霍了。*鼻吸气*"
+    jo "[名字]！我不知道你也来到圣瓦列霍了。*鼻塞吸气*"
 
 # game/v1/v1.rpy:3186
 translate chineses v1_freeRoam2_josh_474ab22f:
@@ -3832,7 +3832,7 @@ translate chineses v1_freeRoam2_josh_2a3e6a2d:
 translate chineses v1_freeRoam2_josh_578d479b:
 
     # jo "You know, me and [name] go way back. *sniff*"
-    jo "你知道吗，我和[名字]是老相识了。*鼻吸气*"
+    jo "你知道吗，我和[名字]是老相识了。*鼻塞吸气*"
 
 # game/v1/v1.rpy:3226
 translate chineses v1_freeRoam2_josh_d00a355f:
@@ -3844,7 +3844,7 @@ translate chineses v1_freeRoam2_josh_d00a355f:
 translate chineses v1_freeRoam2_josh_aae492c1:
 
     # jo "I mean, we drifted apart in high school, but... *sniff*"
-    jo "我的意思是，高中之后我们就分道扬镳了，但是...*鼻吸气*"
+    jo "我的意思是，高中之后我们就分道扬镳了，但是...*鼻塞吸气*"
 
 # game/v1/v1.rpy:3230
 translate chineses v1_freeRoam2_josh_4f489621:
@@ -3862,7 +3862,7 @@ translate chineses v1_freeRoam2_josh_cbd9cbb7:
 translate chineses v1_freeRoam2_josh_9e578f7d:
 
     # jo "Yeah. *sniff* Yeah, I'm - I'm fine."
-    jo "是呀。*鼻吸气* 是呀，我 - 我很好。"
+    jo "是呀。*鼻塞吸气* 是呀，我 - 我很好。"
 
 # game/v1/v1.rpy:3242
 translate chineses v1_freeRoam2_josh_beb405f8:
