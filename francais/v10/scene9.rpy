@@ -130,7 +130,7 @@ translate empty v10_leave_fight_6bcd435f_1:
 translate empty v10_leave_fight_512de434:
 
     # gr "Great job tonight [name], I fucking knew you were gonna destroy him."
-    gr "Super boulot ce soir [name], je savais que tu allais le détruire.""
+    gr "Super boulot ce soir [name], je savais que tu allais le détruire."
 
 # game/v10/scene9.rpy:190
 translate empty v10_leave_fight_8824c385:

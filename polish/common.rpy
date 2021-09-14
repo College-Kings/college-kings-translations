@@ -84,7 +84,7 @@ translate polish strings:
 
     # renpy/common/00accessibility.rpy:175
     old "Off"
-    new "Wyłączony
+    new "Wyłączony"
 
     # renpy/common/00accessibility.rpy:179
     old "Text-to-speech"

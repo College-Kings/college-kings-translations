@@ -7288,7 +7288,7 @@ translate vietnamese v6_fr3guy1_90456ee8:
 translate vietnamese v6_fr3guy1_533aff4a_1:
 
     # guyb "Tell me Kourtney looks anywhere near as hot as Kylie there."
-    guyb "Nói cho tôi biết Kourtney trông có hot bằng Kylie lúc đấy không nhé.""
+    guyb "Nói cho tôi biết Kourtney trông có hot bằng Kylie lúc đấy không nhé."
 
 # game/v6/v6.rpy:7359
 translate vietnamese v6_fr3guy1_f5d23264_1:

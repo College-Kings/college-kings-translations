@@ -490,7 +490,7 @@ translate chineses meet_lauren2_e214d6bc:
 translate chineses meet_lauren2_ad5741e1:
 
     # u "(And also I just beat a guy up on the way here...)"
-    u "（"还有在我来的路上我又揍了另一个家伙...）
+    u "（还有在我来的路上我又揍了另一个家伙...）"
 
 # game/v2/v2.rpy:1158
 translate chineses meet_lauren2_7fca1bb1:
