@@ -3268,7 +3268,7 @@ translate polish dk_bb_b7e79880:
 translate polish dl_b_b55fed01:
 
     # la "[name], I don't think I want to do this."
-    la "[imię], chyba nie chcę tego robić."
+    la "[name], chyba nie chcę tego robić."
 
 # game/v3/v3.rpy:3380
 translate polish dl_b_2497b947:
