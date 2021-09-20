@@ -10149,7 +10149,7 @@ translate chineses upstairsaubrey_21e7ed64:
 translate chineses upstairsaubrey_73ee0af5:
 
     # au "We're not hooking up if that's what you're asking. "
-    au "我们没有在乱搞，如果那是你想问的话。"
+    au "我们没有在约炮，如果那是你想要问的话。"
 
 # game/v6/v6.rpy:9867
 translate chineses upstairsaubrey_77d8ada7:
@@ -10227,1417 +10227,1417 @@ translate chineses upstairsaubrey_02565d1d:
 translate chineses upstairsaubrey_d4637555:
 
     # au "So you were thinking about it."
-    au ""
+    au "那你就是有在想咯。"
 
 # game/v6/v6.rpy:9928
 translate chineses upstairsaubrey_73ea6526:
 
     # au "Maybe next time. I'll see you back downstairs."
-    au ""
+    au "也许下次吧。我们在楼下见。"
 
 # game/v6/v6.rpy:9933
 translate chineses upstairsaubrey_a4acbf5c:
 
     # u "(Damn...)"
-    u ""
+    u "（可恶...）"
 
 # game/v6/v6.rpy:9935
 translate chineses upstairsaubrey_3c026204:
 
     # u "(I should probably talk to Chris soon.)"
-    u ""
+    u "（我差不多该去跟克里斯谈话了。）"
 
 # game/v6/v6.rpy:9940
 translate chineses upstairsaubrey_616a8530:
 
     # u "It was nice talking though."
-    u ""
+    u "不过我们交谈的还挺愉快的。"
 
 # game/v6/v6.rpy:9945
 translate chineses upstairsaubrey_236fba21:
 
     # au "Yeah, it was. I'll see you back downstairs."
-    au ""
+    au "是啊，是挺愉快。我们在楼下见吧。"
 
 # game/v6/v6.rpy:9950
 translate chineses upstairsaubrey_3c026204_1:
 
     # u "(I should probably talk to Chris soon.)"
-    u ""
+    u "（我差不多该去跟克里斯谈话了。）"
 
 # game/v6/v6.rpy:9956
 translate chineses upstairsaubrey_0a2d725b:
 
     # au "So why'd you really bring me in here?"
-    au ""
+    au "那你到底是为什么带我来这儿？"
 
 # game/v6/v6.rpy:9961
 translate chineses upstairsaubrey_a7eb1f75:
 
     # u "I told you, just wanted to go somewhere quiet. "
-    u ""
+    u 我告诉过你，只是想去个安静的地方。""
 
 # game/v6/v6.rpy:9966
 translate chineses upstairsaubrey_3733623f:
 
     # au "Okaaay. You sure? Because I don't think I've ever had sex in an office."
-    au ""
+    au "好吧。你确定吗？因为我记得我还没有在办公室里跟人干过。"
 
 # game/v6/v6.rpy:9971
 translate chineses upstairsaubrey_99ccde26:
 
     # u "Haha, I don't think I have either."
-    u ""
+    u "哈哈，我也还没有。"
 
 # game/v6/v6.rpy:9976
 translate chineses upstairsaubrey_78724e13:
 
     # au "Here's a question, where is the craziest place you had sex?"
-    au ""
+    au "那问题来了，哪里是你干过的最疯狂的地方？"
 
 # game/v6/v6.rpy:9981
 translate chineses upstairsaubrey_29bfabed:
 
     # u "I don't know, a car?"
-    u ""
+    u "我不知道，车里？"
 
 # game/v6/v6.rpy:9986
 translate chineses upstairsaubrey_19c48684:
 
     # au "*Laughs* A car? That's it?"
-    au ""
+    au "*大笑*车里？就那样啊？"
 
 # game/v6/v6.rpy:9991
 translate chineses upstairsaubrey_6059bc4d:
 
     # u "Well, it's something. What about you then? I bet it's not that crazy either."
-    u ""
+    u "那个，算是不错了。那你呢？我打赌你也不会超过那种疯狂程度。"
 
 # game/v6/v6.rpy:9996
 translate chineses upstairsaubrey_82d59873:
 
     # au "The center of my high school football field."
-    au ""
+    au "我的高中橄榄球场正中心。"
 
 # game/v6/v6.rpy:10001
 translate chineses upstairsaubrey_e0b7ea49:
 
     # u "Okay I take it back, that is pretty crazy."
-    u ""
+    u "好我收回我说的，你的更疯狂."
 
 # game/v6/v6.rpy:10006
 translate chineses upstairsaubrey_05f6ad97:
 
     # au "*Laughs* Don't judge me."
-    au ""
+    au "*大笑*别打趣我了。"
 
 # game/v6/v6.rpy:10011
 translate chineses upstairsaubrey_407d4756:
 
     # u "I'm not. It's kinda cool. I like adventurous girls."
-    u ""
+    u "我没有。真的挺酷的。我喜欢爱冒险的美女。"
 
 # game/v6/v6.rpy:10016
 translate chineses upstairsaubrey_723fe052:
 
     # au "Good. Cause that's what you're getting with me."
-    au ""
+    au "很好。因为我就是个爱冒险的美女。"
 
 # game/v6/v6.rpy:10021
 translate chineses upstairsaubrey_8a6d7cd7:
 
     # u "So who did you do that with? Someone on the football team?"
-    u ""
+    u "那你当时是跟谁做的？是橄榄球队的队员？"
 
 # game/v6/v6.rpy:10026
 translate chineses upstairsaubrey_350dd939:
 
     # au "Haha. Actually no. My ex. He was a baseball player."
-    au ""
+    au "哈哈。其实没有。我的前男友。他是棒球队的。"
 
 # game/v6/v6.rpy:10031
 translate chineses upstairsaubrey_b6a555a0:
 
     # u "So what happened to him?"
-    u ""
+    u "那他发生了什么事了？"
 
 # game/v6/v6.rpy:10036
 translate chineses upstairsaubrey_6e5b99c5:
 
     # au "*Laughs* What do you mean what happened to him?"
-    au ""
+    au "*大笑*你问他发生什么事是什么意思？"
 
 # game/v6/v6.rpy:10041
 translate chineses upstairsaubrey_4da3ba34:
 
     # u "Like, why did you guys stop dating?"
-    u ""
+    u "就是，你们为什么分手的？"
 
 # game/v6/v6.rpy:10046
 translate chineses upstairsaubrey_a92504e3:
 
     # au "He was boring. I don't think he could handle how wild I was all the time."
-    au ""
+    au "他太没趣了。我不认为他能够处理好我时刻充满野性的一面。"
 
 # game/v6/v6.rpy:10048
 translate chineses upstairsaubrey_3bbc6eab:
 
     # au "I mean he tried to keep up, but I think I was just too much for him. "
-    au ""
+    au "我的意思是他曾尝试过，但我觉得我对于他来说太野了些。"
 
 # game/v6/v6.rpy:10053
 translate chineses upstairsaubrey_cbb1ac60:
 
     # u "*Laughs* What do you mean?"
-    u ""
+    u "*大笑*你那是什么意思？"
 
 # game/v6/v6.rpy:10058
 translate chineses upstairsaubrey_7ec38816:
 
     # au "There was this one time for his birthday, where I had blindfolded him and tied him to the bed for his present."
-    au ""
+    au "有次他的生日那天，我把他的眼睛蒙了，又把他绑到床上来给他礼物。"
 
 # game/v6/v6.rpy:10060
 translate chineses upstairsaubrey_deb777c1:
 
     # au "When I removed the blindfold, my best friend, was right in front of him, completely naked. And she was fucking hot."
-    au ""
+    au "当我把蒙布拿掉后，我最好的朋友就在他的面前，完全一丝不挂。而且她是真他妈的性感。"
 
 # game/v6/v6.rpy:10062
 translate chineses upstairsaubrey_2afab2e8:
 
     # au "I wanted to give him a dream threesome and he just got mad and called it inappropriate and that he didn't wanna share me with another girl."
-    au ""
+    au "我想送他一次梦寐以求的一龙二凤，结果他恼了，还说这样做不妥，他不想跟别的女孩一起享受我。"
 
 # game/v6/v6.rpy:10071
 translate chineses upstairsaubrey_e59b9912:
 
     # u "He turned down a threesome?! That's mad."
-    u ""
+    u "他叫停了一龙二凤？！太夸张了。"
 
 # game/v6/v6.rpy:10072
 translate chineses upstairsaubrey_72766459:
 
     # u "Two girls... man that's the dream."
-    u ""
+    u "两位美女...那是多么美的梦啊。"
 
 # game/v6/v6.rpy:10077
 translate chineses upstairsaubrey_e85f5d23:
 
     # au "*Chuckles* I know! That's why I tried to give it to him."
-    au ""
+    au "*抿嘴笑*是呀！那就是我为什么要送给他。"
 
 # game/v6/v6.rpy:10082
 translate chineses upstairsaubrey_d1568d93:
 
     # u "So, if you don't mind me asking... are you, like, bisexual?"
-    u ""
+    u "那，如果你不介意我问你...你是，像是，对男女都有兴趣？"
 
 # game/v6/v6.rpy:10087
 translate chineses upstairsaubrey_38231bf8:
 
     # au "Uhm, I guess. I like to have fun. I'm just attracted to anyone I like, be it boy or girl."
-    au ""
+    au "嗯，我猜是吧。我喜欢快乐。我只是被我喜欢的人所吸引，不管是男的还是女的。"
 
 # game/v6/v6.rpy:10092
 translate chineses upstairsaubrey_b41515f9:
 
     # u "See, I'm really attracted to one specific girl right now."
-    u ""
+    u "看，我现在完全被某位美女所吸引。"
 
 # game/v6/v6.rpy:10097
 translate chineses upstairsaubrey_05f8d945:
 
     # au "And who might that be?"
-    au ""
+    au "那人是谁？"
 
 # game/v6/v6.rpy:10113
 translate chineses upstairsaubrey_b36132db:
 
     # au "We can't do this right now."
-    au ""
+    au "我们现在不能在这儿做。"
 
 # game/v6/v6.rpy:10118
 translate chineses upstairsaubrey_54512cba:
 
     # u "What? Why?"
-    u ""
+    u "什么？为什么？"
 
 # game/v6/v6.rpy:10123
 translate chineses upstairsaubrey_d7710fd6:
 
     # au "I've just ditched Emily and she might come looking for us. I'd rather avoid the drama of her seeing me with her ex."
-    au ""
+    au "我刚甩开艾米丽，她很有可能会来找我们。我情愿不要让她见到我跟她的前男友在一起。"
 
 # game/v6/v6.rpy:10128
 translate chineses upstairsaubrey_45e7e44d:
 
     # u "Damn... that's actually a good reason."
-    u ""
+    u "可恶...那还真是有道理。"
 
 # game/v6/v6.rpy:10135
 translate chineses upstairsaubrey_02565d1d_1:
 
     # u "But we could also lock the door and be quiet..."
-    u ""
+    u "但我们也可以锁了门后保持安静..."
 
 # game/v6/v6.rpy:10140
 translate chineses upstairsaubrey_73ea6526_1:
 
     # au "Maybe next time. I'll see you back downstairs."
-    au ""
+    au "也许下次吧。我们到楼下见。"
 
 # game/v6/v6.rpy:10145
 translate chineses upstairsaubrey_a4acbf5c_1:
 
     # u "(Damn...)"
-    u ""
+    u "（可恶...）"
 
 # game/v6/v6.rpy:10147
 translate chineses upstairsaubrey_3c026204_2:
 
     # u "(I should probably talk to Chris soon.)"
-    u ""
+    u "（我差不多该去跟克里斯谈话了。）"
 
 # game/v6/v6.rpy:10152
 translate chineses upstairsaubrey_53457f7c:
 
     # u "At least we got to talk a bit, haha."
-    u ""
+    u "至少我们聊了一会儿，哈哈。"
 
 # game/v6/v6.rpy:10157
 translate chineses upstairsaubrey_fd5200d5:
 
     # au "Yeah, it was nice. I'll see you back downstairs."
-    au ""
+    au "是啊，挺不错的。我们在楼下见吧。"
 
 # game/v6/v6.rpy:10162
 translate chineses upstairsaubrey_3c026204_3:
 
     # u "(I should probably talk to Chris soon.)"
-    u ""
+    u "（我差不多该去跟克里斯谈话了。）"
 
 # game/v6/v6.rpy:10172
 translate chineses upstairsaubrey_b17b9166:
 
     # u "I mean, I kinda get what he means... I wouldn't wanna share my girlfriend with anyone else."
-    u ""
+    u "我是指，我大概能理解他的意思...我不会想跟任何人一起共享我的女友。"
 
 # game/v6/v6.rpy:10177
 translate chineses upstairsaubrey_7c1902e5:
 
     # u "Even if it's a girl."
-    u ""
+    u "就算是女人也不行。"
 
 # game/v6/v6.rpy:10182
 translate chineses upstairsaubrey_1304d905:
 
     # au "Really? I thought you'd be a little more open to this kinda stuff..."
-    au ""
+    au "真的？我还以为你会在这些事上更开放一些..."
 
 # game/v6/v6.rpy:10187
 translate chineses upstairsaubrey_20772f5b:
 
     # u "I don't know. I'm just saying I see where he's coming from."
-    u ""
+    u "我不知道。我只是在解释他这么说的原因。"
 
 # game/v6/v6.rpy:10192
 translate chineses upstairsaubrey_a808de94:
 
     # au "Right..."
-    au ""
+    au "对..."
 
 # game/v6/v6.rpy:10194
 translate chineses upstairsaubrey_5add534b:
 
     # au "Anyways, I should probably go downstairs again. Emily's probably missing me."
-    au ""
+    au "不说了，我该下楼去了。艾米丽可能在想我啦。"
 
 # game/v6/v6.rpy:10199
 translate chineses upstairsaubrey_f78452e2:
 
     # u "Oh, already?"
-    u ""
+    u "哦，是吗？"
 
 # game/v6/v6.rpy:10204
 translate chineses upstairsaubrey_5b808863:
 
     # au "Yeah... I'll see you later."
-    au ""
+    au "是啊...我们待会儿。"
 
 # game/v6/v6.rpy:10209
 translate chineses upstairsaubrey_4866ebb4:
 
     # u "(I feel like I said something wrong there...)"
-    u ""
+    u "（我感觉我好像刚才说错话了...）"
 
 # game/v6/v6.rpy:10211
 translate chineses upstairsaubrey_c0f8c49b:
 
     # u "(I should probably talk to Chris soon anyway.)"
-    u ""
+    u "（我差不多该去跟克里斯谈话了。）"
 
 # game/v6/v6.rpy:10220
 translate chineses upstairsemily_9234bcaa:
 
     # em "So why'd you choose this office?"
-    em ""
+    em "那你为什么选这间办公室？"
 
 # game/v6/v6.rpy:10225
 translate chineses upstairsemily_d68a50df:
 
     # u "*Chuckles* What do you mean?"
-    u ""
+    u "*抿嘴笑*你什么意思？"
 
 # game/v6/v6.rpy:10230
 translate chineses upstairsemily_c5327244:
 
     # em "It's not the most comfortable place to-"
-    em ""
+    em "这地方不是特别舒适来-"
 
 # game/v6/v6.rpy:10235
 translate chineses upstairsemily_33106ee9:
 
     # u "*Laughs* Woah, slow down. I just wanted to hang out with you a bit."
-    u ""
+    u "*大笑*哇，慢点。我只是想跟你聊一会儿。"
 
 # game/v6/v6.rpy:10240
 translate chineses upstairsemily_c3b4b6b7:
 
     # em "Just missed you is all."
-    em ""
+    em "只是很想念你而已。"
 
 # game/v6/v6.rpy:10242
 translate chineses upstairsemily_0f8f5738:
 
     # em "Soo, I was thinking the next we..."
-    em ""
+    em "那，我在想下次我们..."
 
 # game/v6/v6.rpy:10244
 translate chineses upstairsemily_454642ef:
 
     # em "You know..."
-    em ""
+    em "你知道..."
 
 # game/v6/v6.rpy:10249
 translate chineses upstairsemily_9cb65bf9:
 
     # em "I wanna try anal."
-    em ""
+    em "我想试试肛交。"
 
 # game/v6/v6.rpy:10254
 translate chineses upstairsemily_7f9fe18c:
 
     # u "*Laughs* What? Anal? Seriously?"
-    u ""
+    u "*大笑*什么？肛交？认真的？"
 
 # game/v6/v6.rpy:10256
 translate chineses upstairsemily_dc4a3467:
 
     # u "I swear you told me you never ever wanted to do it in your entire life back when we were dating."
-    u ""
+    u "我可以发誓你在我们一起的时候说过你这一辈子都不想做那个。"
 
 # game/v6/v6.rpy:10261
 translate chineses upstairsemily_1d19236a:
 
     # em "Well that's what I thought at the time..."
-    em ""
+    em "那是我当时的想法..."
 
 # game/v6/v6.rpy:10263
 translate chineses upstairsemily_a8191202:
 
     # em "But when we broke up, I got lonely... and horny."
-    em ""
+    em "但我们分手后，我变得很寂寞...很骚。"
 
 # game/v6/v6.rpy:10265
 translate chineses upstairsemily_71bb5b91:
 
     # em "So I started looking up porn, you know, just once or twice..."
-    em ""
+    em "所以我开始看色情片，你知道，只是一两次..."
 
 # game/v6/v6.rpy:10267
 translate chineses upstairsemily_8690b33d:
 
     # em "And anal kinda really turned me on."
-    em ""
+    em "而肛交真有点的让我感兴趣。"
 
 # game/v6/v6.rpy:10272
 translate chineses upstairsemily_8a09c8d2:
 
     # u "I mean yeah, let's do it. Hahaha."
-    u ""
+    u "我是说好啊，我们可以做的。哈哈哈。"
 
 # game/v6/v6.rpy:10274
 translate chineses upstairsemily_16e0fbb7:
 
     # u "I'm not gonna say no to that."
-    u ""
+    u "我是不会对那说不的。"
 
 # game/v6/v6.rpy:10279
 translate chineses upstairsemily_be360d04:
 
     # em "Good. But we have to start slow. Maybe just a finger or two at first. And a lot of lube."
-    em ""
+    em "很好。不过我们要慢慢的来。也许先用一两根手指。还有很多的润滑油。"
 
 # game/v6/v6.rpy:10284
 translate chineses upstairsemily_9ce644c2:
 
     # u "Yeah, of course. We'll make sure you're comfortable and it doesn't hurt at all."
-    u ""
+    u "是啊，当然了。我们要保证你舒服而且一点都不疼。"
 
 # game/v6/v6.rpy:10289
 translate chineses upstairsemily_be4437d7:
 
     # em "Thank you."
-    em ""
+    em "谢谢你。"
 
 # game/v6/v6.rpy:10291
 translate chineses upstairsemily_8fed06a8:
 
     # em "I should probably go back downstairs now."
-    em ""
+    em "我现在该下楼去了。"
 
 # game/v6/v6.rpy:10296
 translate chineses upstairsemily_69ab7b71:
 
     # u "*Chuckles* Really? You're gonna put this image in my head and then just leave me like this."
-    u ""
+    u "*抿嘴笑*真的？你打算把这个片段放入我的脑海里之后就一走了之。"
 
 # game/v6/v6.rpy:10301
 translate chineses upstairsemily_c218844a:
 
     # em "Sorry, but Aubrey is probably waiting for me and I'm not looking to take penalty shots for leaving her... I'm tipsy enough as it is."
-    em ""
+    em "抱歉，不过奥布里大概还在等我，而且我也不准备因为离开她被罚喝酒...我已经够醉的了。"
 
 # game/v6/v6.rpy:10306
 translate chineses upstairsemily_194f4de3:
 
     # u "Alright, I get it. I should probably talk to Chris anyways."
-    u ""
+    u "好吧，我明白。我也该去跟克里斯谈了。"
 
 # game/v6/v6.rpy:10311
 translate chineses upstairsemily_df62db15:
 
     # em "Good luck with that."
-    em ""
+    em "祝你好运。"
 
 # game/v6/v6.rpy:10323
 translate chineses upstairsemily_bf32046c:
 
     # em "I'll see you later."
-    em ""
+    em "我们待会儿见。"
 
 # game/v6/v6.rpy:10332
 translate chineses upstairsamber_e00fb967:
 
     # am "So you pull me away from all shirtless guys working out to bring me in here?"
-    am ""
+    am "你把我从一堆赤身露体锻炼身体的帅哥中拖到这里？"
 
 # game/v6/v6.rpy:10337
 translate chineses upstairsamber_7d581a82:
 
     # u "Yup. Welcome to the most interesting part of the party, the office."
-    u ""
+    u "没错。欢迎来到这派对中最有意思的部分，办公室。"
 
 # game/v6/v6.rpy:10342
 translate chineses upstairsamber_062451b5:
 
     # am "I can barely hold my excitement in."
-    am ""
+    am "我差点控制不住我的兴奋。"
 
 # game/v6/v6.rpy:10347
 translate chineses upstairsamber_c5463390:
 
     # u "*Chuckles* And yet you manage."
-    u ""
+    u "*抿嘴笑*而你还是控制住了。"
 
 # game/v6/v6.rpy:10349
 translate chineses upstairsamber_a689efb4:
 
     # u "Just thought it would be nice to be somewhere a bit more quiet for a bit."
-    u ""
+    u "只是想在一个稍微安静一点的地方待一会儿也是挺不错的。"
 
 # game/v6/v6.rpy:10354
 translate chineses upstairsamber_35c7cd6f:
 
     # am "Uhm... sure."
-    am ""
+    am "嗯...好吧。"
 
 # game/v6/v6.rpy:10359
 translate chineses upstairsamber_4383871c:
 
     # u "Did you ever hook up with Josh?"
-    u ""
+    u "你跟乔希做过吗？"
 
 # game/v6/v6.rpy:10364
 translate chineses upstairsamber_9ea74d50:
 
     # am "*Laughs* Wow, that's out of the blue. No, I have not. I mean he used to hit on me quite a bit, but he's not my type. And now he's moved on to Kim."
-    am ""
+    am "*大笑*哇，那问得没头没尾的。不，我没有。我是指他曾经不停的撩我，但他不是我的类型的。而他现在是撩金。"
 
 # game/v6/v6.rpy:10369
 translate chineses upstairsamber_828091c1:
 
     # u "Sorry, I was just curious."
-    u ""
+    u "抱歉，我只是好奇。"
 
 # game/v6/v6.rpy:10374
 translate chineses upstairsamber_371bc47d:
 
     # am "Here's a tip, if you're trying to get into someone's pants, don't talk to her about whether she's hooking up with other guys."
-    am ""
+    am "给你个建议，如果你想干哪个人，别问她有没有跟别的男人搞过。"
 
 # game/v6/v6.rpy:10379
 translate chineses upstairsamber_fa4f9fca:
 
     # u "Who say's I'm trying to get into your pants?"
-    u ""
+    u "谁说了我想干你的？"
 
 # game/v6/v6.rpy:10384
 translate chineses upstairsamber_f1f2656b:
 
     # am "Isn't it obvious? Dark, lonely office. Just me and you."
-    am ""
+    am "不是很明显吗？昏暗，幽静的办公室。就你和我。"
 
 # game/v6/v6.rpy:10386
 translate chineses upstairsamber_5cab7447:
 
     # am "There's even a couch here."
-    am ""
+    am "这儿还有个沙发。"
 
 # game/v6/v6.rpy:10391
 translate chineses upstairsamber_8038d7d2:
 
     # u "Haha. Maybe. But maybe I just wanted to talk to you."
-    u ""
+    u "哈哈。也许吧。不过我也许只是想跟你聊聊。"
 
 # game/v6/v6.rpy:10396
 translate chineses upstairsamber_de85fbd9:
 
     # am "And what's there to talk about?"
-    am ""
+    am "那要聊什么呢？"
 
 # game/v6/v6.rpy:10401
 translate chineses upstairsamber_03a4a5cb:
 
     # u "For example, why weren't you hanging out with Josh and Kim tonight? Why stay alone all night?"
-    u ""
+    u "比如，你今晚为什么不跟乔希和金一起呢？为什么整晚独自一人呢？"
 
 # game/v6/v6.rpy:10406
 translate chineses upstairsamber_1787c0ee:
 
     # am "I found something more interesting, haha. I'm not that deep. They were just getting high all night and I wasn't feeling the vibe."
-    am ""
+    am "我找到了更有趣的事，哈哈。我没那么深奥。他们整晚都在爽而我却感觉不到那种氛围。"
 
 # game/v6/v6.rpy:10411
 translate chineses upstairsamber_803a5def:
 
     # u "Are you feeling this vibe?"
-    u ""
+    u "你感觉到这种氛围了吗？"
 
 # game/v6/v6.rpy:10416
 translate chineses upstairsamber_1a38103b:
 
     # am "Maybe."
-    am ""
+    am "也许吧。"
 
 # game/v6/v6.rpy:10423
 translate chineses upstairsamber_98699435:
 
     # "*Amber's phone rings*"
-    ""
+    "*安波手机铃响*"
 
 # game/v6/v6.rpy:10428
 translate chineses upstairsamber_3d21fdfb:
 
     # am "Hold up."
-    am ""
+    am "等一下。"
 
 # game/v6/v6.rpy:10435
 translate chineses upstairsamber_3b8dfe30:
 
     # am "Hello?"
-    am ""
+    am "喂？"
 
 # game/v6/v6.rpy:10445
 translate chineses upstairsamber_bb91a7df:
 
     # am "Oh no, really? Okay I'll come down."
-    am ""
+    am "哦不好，真的？好吧，我就下去。"
 
 # game/v6/v6.rpy:10450
 translate chineses upstairsamber_b33920a3:
 
     # am "Sorry, Kim's throwing up, I gotta go hold her hair."
-    am ""
+    am "抱歉，金吐了，我要去帮她抓她的头发。"
 
 # game/v6/v6.rpy:10455
 translate chineses upstairsamber_8cdd3120:
 
     # u "Oh shit. Uhm... I'll see you later then."
-    u ""
+    u "哦糟。嗯...那我们待会儿见吧。"
 
 # game/v6/v6.rpy:10460
 translate chineses upstairsamber_c4cc8676:
 
     # am "Okay, yeah. See you."
-    am ""
+    am "好的，好啊。再见。"
 
 # game/v6/v6.rpy:10471
 translate chineses upstairsriley_d68fc77a:
 
     # ri "This was a good idea."
-    ri ""
+    ri "这是个好主意。"
 
 # game/v6/v6.rpy:10476
 translate chineses upstairsriley_0b6a4ea5:
 
     # u "Coming up here?"
-    u ""
+    u "上这里来？"
 
 # game/v6/v6.rpy:10481
 translate chineses upstairsriley_df57843e:
 
     # ri "Yeah, it's nice to be somewhere a bit more quiet after being right next to really loud speakers the entire night."
-    ri ""
+    ri "是啊，在很响的扩音器旁坐了一整晚后，在稍微安静一点的地方待一会儿挺不错的。"
 
 # game/v6/v6.rpy:10486
 translate chineses upstairsriley_7b6f33f1:
 
     # u "Yeah, I guess my ideas are pretty brilliant, aren't they?"
-    u ""
+    u "是啊，我想我的主意还挺英明的，是吧？"
 
 # game/v6/v6.rpy:10491
 translate chineses upstairsriley_1f4010b1:
 
     # ri "*Chuckles* Don't get ahead of yourself, buddy."
-    ri ""
+    ri "*抿嘴笑*别太自大了，好朋友。"
 
 # game/v6/v6.rpy:10496
 translate chineses upstairsriley_11e00b49:
 
     # u "It's hard when you're this dazzling."
-    u ""
+    u "你这样光辉照人的让我很难控制啊。"
 
 # game/v6/v6.rpy:10501
 translate chineses upstairsriley_16468adc:
 
     # ri "*Laughs* So have you decided if you're going to join the Wolves or not?"
-    ri ""
+    ri "*大笑*那你决定了是否加入饿狼会吗？"
 
 # game/v6/v6.rpy:10507
 translate chineses upstairsriley_96a94254:
 
     # u "Actually, I'm probably gonna join the Apes."
-    u ""
+    u "事实上，我多半会加入人猿会。"
 
 # game/v6/v6.rpy:10512
 translate chineses upstairsriley_d7c5ca95:
 
     # ri "The Apes?! Didn't Grayson punch you?"
-    ri ""
+    ri "人猿会？！格雷森不是揍过你吗？"
 
 # game/v6/v6.rpy:10517
 translate chineses upstairsriley_09760ad6:
 
     # u "Yeah, but he apologized and he really sees my potential, you know."
-    u ""
+    u "是啊，但他已经道过歉了，而且他真的看到了我的潜力。"
 
 # game/v6/v6.rpy:10522
 translate chineses upstairsriley_f06bdd8d:
 
     # ri "Your potential?"
-    ri ""
+    ri "你的潜力？"
 
 # game/v6/v6.rpy:10527
 translate chineses upstairsriley_5267d27a:
 
     # u "Yeah, he says I could be one of the greats, leading the Apes."
-    u ""
+    u "是啊，他说我会成为一名优秀的斗士，领导人猿会。"
 
 # game/v6/v6.rpy:10532
 translate chineses upstairsriley_7c128d03:
 
     # ri "[name], are you sure about this? Didn't you say you don't like fighting?"
-    ri ""
+    ri "[名字]，你确定吗？你不是说过你不喜欢打斗吗？"
 
 # game/v6/v6.rpy:10534
 translate chineses upstairsriley_125978fe:
 
     # ri "Also, I don't wanna be mean, but... you're not really a proven quality, don't you find it weird that he puts so much faith in you."
-    ri ""
+    ri "还有，我想太直白，但...你还没有完全证明你的能力，你难道不觉得奇怪格雷森会对你这么有信心吗。"
 
 # game/v6/v6.rpy:10539
 translate chineses upstairsriley_a8cb4846:
 
     # u "What are you trying to say?"
-    u ""
+    u "你想说什么？"
 
 # game/v6/v6.rpy:10544
 translate chineses upstairsriley_45ceef98:
 
     # ri "I don't know... maybe he's manipulating you."
-    ri ""
+    ri "我不知道...也许他是在耍你。"
 
 # game/v6/v6.rpy:10549
 translate chineses upstairsriley_861c80f6:
 
     # u "He's not, okay? You weren't there. He sees in me what no one else seems to see."
-    u ""
+    u "他没有，好吧？你当时不在。他见到了其他人所不见的。"
 
 # game/v6/v6.rpy:10554
 translate chineses upstairsriley_6ecf6b47:
 
     # ri "I see stuff in you. [name], you're not like anyone I've ever met."
-    ri ""
+    ri "我也有见到。[名字]，我还从没有遇到过有像你的。"
 
 # game/v6/v6.rpy:10556
 translate chineses upstairsriley_bf781286:
 
     # ri "But that doesn't mean that Grayson isn't taking advantage of you."
-    ri ""
+    ri "但那并不代表格雷森没有在利用你。"
 
 # game/v6/v6.rpy:10561
 translate chineses upstairsriley_b9844c10:
 
     # u "I don't really wanna talk about it anymore."
-    u ""
+    u "我不想在说那个了。"
 
 # game/v6/v6.rpy:10566
 translate chineses upstairsriley_31411ab0:
 
     # ri "Okay... I'll go back downstairs then. I'll see you later."
-    ri ""
+    ri "好吧...那我下楼去了。我们待会儿见。"
 
 # game/v6/v6.rpy:10571
 translate chineses upstairsriley_b8911521:
 
     # u "Alright."
-    u ""
+    u "好吧。"
 
 # game/v6/v6.rpy:10574
 translate chineses upstairsriley_69f26898:
 
     # u "I'm not sure yet, but I'm leaning towards joining them."
-    u ""
+    u "我还没拿定主意，不过我倾向于加入他们。"
 
 # game/v6/v6.rpy:10579
 translate chineses upstairsriley_cbab25eb:
 
     # ri "I think you'd make a great Wolf."
-    ri ""
+    ri "我想你会成为一名优秀的饿狼会一员。"
 
 # game/v6/v6.rpy:10584
 translate chineses upstairsriley_ee01f9b9:
 
     # u "Thanks."
-    u ""
+    u "谢了。"
 
 # game/v6/v6.rpy:10586
 translate chineses upstairsriley_662b39ac:
 
     # u "You talk to Ryan lately?"
-    u ""
+    u "你最近有跟瑞安谈过吗？"
 
 # game/v6/v6.rpy:10591
 translate chineses upstairsriley_53bd8a31:
 
     # ri "Ryan? Honestly, he kind of annoys me sometimes. I know he has no ill intentions, but he can be bit of a horn dog."
-    ri ""
+    ri "瑞安？说实在的，他有时很烦人。我知道他没有恶意，但他有时就像个色狼似的。"
 
 # game/v6/v6.rpy:10596
 translate chineses upstairsriley_8e383e5b:
 
     # u "*Laughs* What'd he do?"
-    u ""
+    u "*大笑*他做了什么？"
 
 # game/v6/v6.rpy:10601
 translate chineses upstairsriley_edda7c10:
 
     # ri "Nothing really."
-    ri ""
+    ri "没什么。"
 
 # game/v6/v6.rpy:10603
 translate chineses upstairsriley_df526987:
 
     # ri "Actually you can't tell anyone but last night, Ryan booty called me. He seemed very drunk... I don't know why."
-    ri ""
+    ri "事实上你别跟别人讲，但昨晚，瑞安打电话找我约炮。他好像很醉了...我不知道为什么。"
 
 # game/v6/v6.rpy:10608
 translate chineses upstairsriley_07327e2a:
 
     # u "*Laughs* So what'd you do?"
-    u ""
+    u "*大笑*那你做了什么？"
 
 # game/v6/v6.rpy:10613
 translate chineses upstairsriley_acda9b06:
 
     # ri "*Chuckles* What do you mean what'd I do? I told him no and that he should drink water and get some rest."
-    ri ""
+    ri "*抿嘴笑*你什么意思我做了什么？我对他说不，还有他应该多喝水和多休息一下。"
 
 # game/v6/v6.rpy:10618
 translate chineses upstairsriley_af302b33:
 
     # u "Ouch."
-    u ""
+    u "哎唷。"
 
 # game/v6/v6.rpy:10623
 translate chineses upstairsriley_e3cb891d:
 
     # ri "I feel kinda bad for him, maybe he was just lonely."
-    ri ""
+    ri "我觉得我有点对不住他，也许他只是寂寞了。"
 
 # game/v6/v6.rpy:10628
 translate chineses upstairsriley_d943192f:
 
     # u "I think he'll be fine. He was just a horny guy thinking you're an easy lay."
-    u ""
+    u "我想他会没事的。他只是个色狼认为你很容易上。"
 
 # game/v6/v6.rpy:10633
 translate chineses upstairsriley_0e76864e:
 
     # ri "Well I'm not."
-    ri ""
+    ri "我不是的。"
 
 # game/v6/v6.rpy:10638
 translate chineses upstairsriley_4b9ed441:
 
     # u "*Chuckles* Apparently."
-    u ""
+    u "*抿嘴笑*很明显。"
 
 # game/v6/v6.rpy:10643
 translate chineses upstairsriley_cc07ac18:
 
     # ri "I should probably go back downstairs before Finn also booty calls me."
-    ri ""
+    ri "我应该在芬恩找我约炮之前先下楼去。"
 
 # game/v6/v6.rpy:10648
 translate chineses upstairsriley_5c51ccf7:
 
     # u "*Laughs* Oh god. I should probably talk to Chris soon anyway."
-    u ""
+    u "*大笑*哦天哪。我也该找克里斯谈了。"
 
 # game/v6/v6.rpy:10653
 translate chineses upstairsriley_7cda5cd3:
 
     # ri "Good luck. I'll see you later."
-    ri ""
+    ri "祝你好运。我们待会儿见。"
 
 # game/v6/v6.rpy:10661
 translate chineses v6_fr3chris3_4902cea4:
 
     # ch "You ready?"
-    ch ""
+    ch "你准备好了？"
 
 # game/v6/v6.rpy:10666
 translate chineses v6_fr3chris3_c4c7239f:
 
     # u "Yeah. So what did you wanna show me?"
-    u ""
+    u "是啊。那你想要给我看什么？"
 
 # game/v6/v6.rpy:10671
 translate chineses v6_fr3chris3_efcf4581:
 
     # ch "Follow me."
-    ch ""
+    ch "跟我来。"
 
 # game/v6/v6.rpy:10681
 translate chineses v6_fr3chris3_087f0d60:
 
     # ch "I don't usually show this to outsiders, but I have a good feeling about you."
-    ch ""
+    ch "我通常不对外人展示这个，但我对你的感觉不错。"
 
 # game/v6/v6.rpy:10695
 translate chineses v6_fr3chris3_8b831e6a:
 
     # u "Holy shit."
-    u ""
+    u "天哪。"
 
 # game/v6/v6.rpy:10701
 translate chineses v6_fr3chris3_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 translate chineses strings:
 
     # game/v6/v6.rpy:4
     old "I'm playing drink or dare and got dared to send an underwear pic to a guy."
-    new ""
+    new "我在玩喝或做，还被人挑战送一张内衣照给一位男生。"
 
     # game/v6/v6.rpy:5
     old "And you chose me, huh?"
-    new ""
+    new "而你选了我，呵？"
 
     # game/v6/v6.rpy:6
     old "Feel free to do so anytime :)"
-    new ""
+    new "随时欢饮这么做 :)"
 
     # game/v6/v6.rpy:10
     old "Maybe I picked someone at random ;)"
-    new ""
+    new "也许我随便选的 ;)"
 
     # game/v6/v6.rpy:14
     old "Maybe if you're lucky xx"
-    new ""
+    new "如果你运气好的话 xx"
 
     # game/v6/v6.rpy:18
     old "I'm glad you like it xx"
-    new ""
+    new "很高兴你喜欢 xx"
 
     # game/v6/v6.rpy:19
     old "I hope there's more of that in the future :P"
-    new ""
+    new "希望今后能见到更多的 :P"
 
     # game/v6/v6.rpy:25
     old "Moment's passed..."
-    new ""
+    new "一会儿过去了..."
 
     # game/v6/v6.rpy:29
     old "You better xx"
-    new ""
+    new "你最好 xx"
 
     # game/v6/v6.rpy:37
     old "Oh, okay"
-    new ""
+    new "哦，好的"
 
     # game/v6/v6.rpy:41
     old "Yeah maybe we should xx"
-    new ""
+    new "是啊也许我们该 xx"
 
     # game/v6/v6.rpy:48
     old "I'm alone now, if the surprise is still on ;)"
-    new ""
+    new "我周围没人了，如果惊喜还在的话 ;)"
 
     # game/v6/v6.rpy:49
     old "I'll make it up to you tho"
-    new ""
+    new "不过我会补偿你的。"
 
     # game/v6/v6.rpy:57
     old "Find Imre"
-    new ""
+    new "找到伊姆雷"
 
     # game/v6/v6.rpy:57
     old "Keep talking to Amber"
-    new ""
+    new "继续跟安波聊"
 
     # game/v6/v6.rpy:73
     old "Meet Chloe"
-    new ""
+    new "去见克洛伊"
 
     # game/v6/v6.rpy:90
     old "Help Imre"
-    new ""
+    new "帮助伊姆雷"
 
     # game/v6/v6.rpy:151
     old "Explain yourself"
-    new ""
+    new "自己解释一下"
 
     # game/v6/v6.rpy:360
     old "I'm all by myself now."
-    new ""
+    new "我现在独自一人了。"
 
     # game/v6/v6.rpy:362
     old "Woah, what was that for?"
-    new ""
+    new "哇，那是干什么？"
 
     # game/v6/v6.rpy:363
     old "Oh wow, you're so fucking hot"
-    new ""
+    new "哦哇，你真他妈的性感"
 
     # game/v6/v6.rpy:383
     old "I'll make time for you :)"
-    new ""
+    new "我会为你找时间的 :)"
 
     # game/v6/v6.rpy:384
     old "That's what I like to hear :*"
-    new ""
+    new "这才是我想听的 :*"
 
     # game/v6/v6.rpy:385
     old "Meet me at the school's swimming pool"
-    new ""
+    new "到学校的游泳池来见我"
 
     # game/v6/v6.rpy:386
     old "Cool, see you there"
-    new ""
+    new "好，在那儿见"
 
     # game/v6/v6.rpy:555
     old "Just let it ring."
-    new ""
+    new "让它继续响。"
 
     # game/v6/v6.rpy:555
     old "You should get that."
-    new ""
+    new "你该接那个。"
 
     # game/v6/v6.rpy:644
     old "Ask about the call"
-    new ""
+    new "询问电话的事"
 
     # game/v6/v6.rpy:712
     old "Follow her"
-    new ""
+    new "跟踪她"
 
     # game/v6/v6.rpy:712
     old "Trust her"
-    new ""
+    new "相信她"
 
     # game/v6/v6.rpy:743
     old "Stay and listen"
-    new ""
+    new "留下来偷听"
 
     # game/v6/v6.rpy:995
     old "I guess you didn't want my surprise :/"
-    new ""
+    new "我猜你想要我的惊喜 :/"
 
     # game/v6/v6.rpy:996
     old "Sorry something important came up and I didn't have time."
-    new ""
+    new "抱歉，发生了更重要的事，我现在没时间。"
 
     # game/v6/v6.rpy:1011
     old "I guess we'll do it another time..."
-    new ""
+    new "我想我们还是下次再说吧..."
 
     # game/v6/v6.rpy:1012
     old "Sorry, something really important came up. Definitely another time"
-    new ""
+    new "对不起，有很重要的事发生了。下次一定"
 
     # game/v6/v6.rpy:1021
     old "Yeah, I'm in my dorm, why?"
-    new ""
+    new "是啊，我在我的寝室，为什么？"
 
     # game/v6/v6.rpy:1336
     old "Call after her"
-    new ""
+    new "叫住她"
 
     # game/v6/v6.rpy:1336
     old "Leave her be"
-    new ""
+    new "别管她"
 
     # game/v6/v6.rpy:1605
     old "What do you want?"
-    new ""
+    new "你想要什么？"
 
     # game/v6/v6.rpy:1605
     old "I guess we are."
-    new ""
+    new "我想我们是。"
 
     # game/v6/v6.rpy:1679
     old "Don't disturb"
-    new ""
+    new "别打扰"
 
     # game/v6/v6.rpy:1836
     old "Run after her"
-    new ""
+    new "跟着她跑"
 
     # game/v6/v6.rpy:1836
     old "Stay on your route"
-    new ""
+    new "继续你的路线"
 
     # game/v6/v6.rpy:2005
     old "It'll be an adventure."
-    new ""
+    new "会是次冒险。"
 
     # game/v6/v6.rpy:2005
     old "It'll be a nice dinner."
-    new ""
+    new "会是次美好的晚餐。"
 
     # game/v6/v6.rpy:2208
     old "Accept call"
-    new ""
+    new "接电话"
 
     # game/v6/v6.rpy:2208
     old "Reject call"
-    new ""
+    new "不接电话"
 
     # game/v6/v6.rpy:2256
     old "Fine, I'll come."
-    new ""
+    new "行，我就来。"
 
     # game/v6/v6.rpy:2256
     old "No. (Hang up)"
-    new ""
+    new "不。（挂电话）"
 
     # game/v6/v6.rpy:2336
     old "Be understanding"
-    new ""
+    new "通情达理"
 
     # game/v6/v6.rpy:2336
     old "Be baffled"
-    new ""
+    new "迷惑不解"
 
     # game/v6/v6.rpy:2556
     old "Kiss her back"
-    new ""
+    new "回吻她"
 
     # game/v6/v6.rpy:2556
     old "Push her away"
-    new ""
+    new "把她推开"
 
     # game/v6/v6.rpy:3182
     old "Stunning"
-    new ""
+    new "太漂亮了"
 
     # game/v6/v6.rpy:3348
     old "Say something smart"
-    new ""
+    new "说点聪明的"
 
     # game/v6/v6.rpy:3457
     old "Ask about her job"
-    new ""
+    new "问她的工作"
 
     # game/v6/v6.rpy:3457
     old "Ask about her dreams"
-    new ""
+    new "问她的梦想"
 
     # game/v6/v6.rpy:3690
     old "Hey, I know it's late... but wanna come over?"
-    new ""
+    new "嘿，我知道有点晚了...但想过来吗？"
 
     # game/v6/v6.rpy:3692
     old "Sorry, I can't tonight."
-    new ""
+    new "对不起，我今晚不行。"
 
     # game/v6/v6.rpy:3852
     old "A few different girls."
-    new ""
+    new "几位不同的女孩。"
 
     # game/v6/v6.rpy:3852
     old "No one, really."
-    new ""
+    new "没人，真的。"
 
     # game/v6/v6.rpy:3881
     old "I think you know."
-    new ""
+    new "我想你知道。"
 
     # game/v6/v6.rpy:3881
     old "We're just friends."
-    new ""
+    new "我们只是朋友。"
 
     # game/v6/v6.rpy:3947
     old "You got me."
-    new ""
+    new "你抓到我了。"
 
     # game/v6/v6.rpy:3947
     old "I'm not seducing you."
-    new ""
+    new "我没在勾引你。"
 
     # game/v6/v6.rpy:4455
     old "Still shaking from earlier"
-    new ""
+    new "还因为刚才而颤抖"
 
     # game/v6/v6.rpy:4456
     old "Hahaha, we should definitely do this more ;)"
-    new ""
+    new "哈哈哈，我们一定要经常做这个 ;)"
 
     # game/v6/v6.rpy:4459
     old "You missed out today"
-    new ""
+    new "你今天错过了"
 
     # game/v6/v6.rpy:4460
     old "Daaaamn, I'll be there next time"
-    new ""
+    new "该死，我下次会去"
 
     # game/v6/v6.rpy:4477
     old "Meet Grayson"
-    new ""
+    new "见格雷森"
 
     # game/v6/v6.rpy:4477
     old "Stay home"
-    new ""
+    new "待在家里"
 
     # game/v6/v6.rpy:4663
     old "Question"
-    new ""
+    new "质问"
 
     # game/v6/v6.rpy:4855
     old "I'm in."
-    new ""
+    new "我加入。"
 
     # game/v6/v6.rpy:4855
     old "I'm not in."
-    new ""
+    new "我不加入。"
 
     # game/v6/v6.rpy:5070
     old "Save Lauren"
-    new ""
+    new "救劳伦"
 
     # game/v6/v6.rpy:5070
     old "Save Riley"
-    new ""
+    new "救莱利"
 
     # game/v6/v6.rpy:5445
     old "Heyy, what are you up to? xx"
-    new ""
+    new "嘿，你现在打算做什么？xx"
 
     # game/v6/v6.rpy:5446
     old "Just walking back from the gym wbu?"
-    new ""
+    new "正从健身房回来，你呢？"
 
     # game/v6/v6.rpy:5447
     old "Going to my next lecture x_x"
-    new ""
+    new "正去我下一节课上 x_x"
 
     # game/v6/v6.rpy:5448
     old "Which gym do you go to? Maybe we can go together at some point"
-    new ""
+    new "你去的是哪个健身房？也许我们什么时候可以一起去"
 
     # game/v6/v6.rpy:5449
     old "Sports X and you?"
-    new ""
+    new "运动极限，你呢？"
 
     # game/v6/v6.rpy:5450
     old "Awww I'm SV Fitness :("
-    new ""
+    new "啊，我是圣瓦健身 :("
 
     # game/v6/v6.rpy:5451
     old "Maybe we should do a home workout together sometime ;)"
-    new ""
+    new "也许我们什么时候该一起做一个房内的健身 ;)"
 
     # game/v6/v6.rpy:5452
     old "Yeah, that's too bad :/"
-    new ""
+    new "是啊，太遗憾了 :/"
 
     # game/v6/v6.rpy:5455
     old "Hey, you wanna go bowling today? I'm free this afternoon"
-    new ""
+    new "嘿，你今天想去打保龄球吗？我今天下午有空"
 
     # game/v6/v6.rpy:5456
     old "Yeah, sounds good :)"
-    new ""
+    new "是啊，听上去不错 :)"
 
     # game/v6/v6.rpy:5457
     old "I have a lecture at 2:30 but I can go straight to the bowling alley afterwards"
-    new ""
+    new "我下午2点半有节课，不过我可以下课后直接去保龄球馆"
 
     # game/v6/v6.rpy:5458
     old "Meet there at 4?"
-    new ""
+    new "4点在那儿见？"
 
     # game/v6/v6.rpy:5459
     old "Yesss, see you there"
-    new ""
+    new "好的，在那儿见"
 
     # game/v6/v6.rpy:5608
     old "Praise her"
-    new ""
+    new "称赞她"
 
     # game/v6/v6.rpy:5608
     old "Mock her"
-    new ""
+    new "挖苦她"
 
     # game/v6/v6.rpy:5695
     old "Praise him"
-    new ""
+    new "称赞他"
 
     # game/v6/v6.rpy:5695
     old "Mock him"
-    new ""
+    new "挖苦他"
 
     # game/v6/v6.rpy:5874
     old "Okay, I'll do it."
-    new ""
+    new "好的，我会做的。"
 
     # game/v6/v6.rpy:5874
     old "No way I'm doing that."
-    new ""
+    new "我绝对不会做的。"
 
     # game/v6/v6.rpy:5906
     old "Act out a lullaby."
-    new ""
+    new "演出一只摇篮曲。"
 
     # game/v6/v6.rpy:5906
     old "Make something up."
-    new ""
+    new "随便编些什么。"
 
     # game/v6/v6.rpy:6585
     old "Say Goodbye"
-    new ""
+    new "说再见"
 
     # game/v6/v6.rpy:7070
     old "Take the shot"
-    new ""
+    new "干了"
 
     # game/v6/v6.rpy:7070
     old "Decline"
-    new ""
+    new "拒绝"
 
     # game/v6/v6.rpy:7254
     old "Kylie"
-    new ""
+    new "凯莉"
 
     # game/v6/v6.rpy:7254
     old "Kourtney"
-    new ""
+    new "考特尼"
 
     # game/v6/v6.rpy:7568
     old "Anything for a girl like that."
-    new ""
+    new "一切为了像那样的女孩。"
 
     # game/v6/v6.rpy:7568
     old "What people do for pussy..."
-    new ""
+    new "大家为了操妞而做的事..."
 
     # game/v6/v6.rpy:7719
     old "I was in love."
-    new ""
+    new "我坠入了爱河。"
 
     # game/v6/v6.rpy:7719
     old "It was nothing."
-    new ""
+    new "那没什么。"
 
     # game/v6/v6.rpy:8335
     old "Ask Riley something"
-    new ""
+    new "问莱利什么"
 
     # game/v6/v6.rpy:8335
     old "Ask Finn something"
-    new ""
+    new "问芬恩什么"
 
     # game/v6/v6.rpy:8631
     old "You're such a tease."
-    new ""
+    new "你还真会捉弄人。"
 
     # game/v6/v6.rpy:8631
     old "Not gonna happen."
-    new ""
+    new "不可能发生。"
 
     # game/v6/v6.rpy:8972
     old "Don't defend Chloe"
-    new ""
+    new "不帮克洛伊说话"
 
     # game/v6/v6.rpy:9226
     old "Maybe you should step down."
-    new ""
+    new "你也许应当卸任。"
 
     # game/v6/v6.rpy:9226
     old "Nora's being stupid."
-    new ""
+    new "诺拉在犯傻。"
 
     # game/v6/v6.rpy:9496
     old "Ask Aubrey"
-    new ""
+    new "问奥布里"
 
     # game/v6/v6.rpy:9496
     old "Ask Emily"
-    new ""
+    new "问艾米丽"
 
     # game/v6/v6.rpy:9916
     old "We could lock the door."
-    new ""
+    new "我们可以锁门。"
 
     # game/v6/v6.rpy:9916
     old "It was nice talking."
-    new ""
+    new "我们聊的不错。"
 
     # game/v6/v6.rpy:10064
     old "He turned down a threesome?!"
-    new ""
+    new "他拒绝了三人游戏？！"
 
     # game/v6/v6.rpy:10064
     old "I kinda get what he means."
-    new ""
+    new "我大概明白他的意思。"
 
     # game/v6/v6.rpy:10130
     old "At least we got to talk."
-    new ""
+    new "至少我们聊了会儿。"
 
