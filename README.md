@@ -44,7 +44,7 @@
 Progress | ?/all | Who is working on it? | Proofreading | Who is proofreading?
 -------- | -------- | --------- | --------- | ---------
 non script files | 3/6 | Mycelle | [ ] | Mycelle
-v01.rpy | 5225/5225 | Mycelle | [ ] | Mycelle
+v01.rpy | 5225/5225 | Mycelle | [x] | Mycelle
 v02.rpy | 4221/4221 | Mycelle | [ ] | Mycelle
 v03.rpy | 3636/3636 | Mycelle | [ ] | Mycelle
 v04.rpy | 3227/3227 | Mycelle | [ ] | Mycelle
