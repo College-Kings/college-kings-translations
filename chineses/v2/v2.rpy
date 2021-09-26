@@ -4,7 +4,7 @@
 translate chineses v2start_1bba6b51:
 
     # cl "*Muffled* Why did you do that?! We were just talking!"
-    cl "*听不清* 你为什么要那样做？我们只是聊天而已！"
+    cl "*听不清* 你在干什么？我们只是聊天而已！"
 
 # game/v2/v2.rpy:89
 translate chineses v2start_c3b1a1ef:
@@ -22,7 +22,7 @@ translate chineses v2start_cb54d010:
 translate chineses v2start_20bec76e:
 
     # u "What? How did I get here?"
-    u "什么？我怎么到这儿来了？"
+    u "什么？我怎么在这儿？"
 
 # game/v2/v2.rpy:109
 translate chineses v2start_b94dac9c:
@@ -46,7 +46,7 @@ translate chineses v2start_1c5c1a81:
 translate chineses v2start_1adeb7b0:
 
     # imre "Here, I took a picture last night when you came home."
-    imre "这里，我在你昨晚会来的时候照了张。"
+    imre "这儿，我在你昨晚回来的时候照了张。"
 
 # game/v2/v2.rpy:125
 translate chineses v2start_9ea2f78c:
@@ -58,19 +58,19 @@ translate chineses v2start_9ea2f78c:
 translate chineses v2start_272f5aa4:
 
     # u "Man, Grayson is such an asshole. I didn't even do anything."
-    u "哥们儿，格雷森真是个大混蛋。我还什么都没做。"
+    u "哥们儿，格雷森真是个大混蛋。我根本什么都没做。"
 
 # game/v2/v2.rpy:135
 translate chineses v2start_48095016:
 
     # imre "What did you expect? I told you the Apes are dogshit."
-    imre "我告诉过你人猿会的都是狗屎。我还期望什么？"
+    imre "我告诉过你人猿会的都是垃圾。我还指望什么？"
 
 # game/v2/v2.rpy:137
 translate chineses v2start_22ca126f:
 
     # imre "If you knew how to fight, maybe he wouldn't fuck with you."
-    imre "如果你知道怎么决斗，也许他就不会找你麻烦。"
+    imre "如果你知道怎么打斗，他也许就不会找你麻烦。"
 
 # game/v2/v2.rpy:145
 translate chineses v2start_327c6541:
@@ -88,7 +88,7 @@ translate chineses v2start_c08fe457:
 translate chineses v2start_f558cfe4:
 
     # u "I'm not fighting. I'll just stay away from them."
-    u "我不会去斗殴的。我以后躲着他们就是了。"
+    u "我不想斗殴。我以后躲着他们就是了。"
 
 # game/v2/v2.rpy:161
 translate chineses v2start_e8ead580:
@@ -100,13 +100,13 @@ translate chineses v2start_e8ead580:
 translate chineses v2start_1e49a1b9:
 
     # imre "If he sees you looking at him wrong from now on, you'll end up in the hospital."
-    imre "如果他以后看你不顺眼，你就会被送进医院的。"
+    imre "如果他以后看你不顺眼，他就会送你进医院的。"
 
 # game/v2/v2.rpy:171
 translate chineses v2start_acb5bdce:
 
     # u "Look, I'll think about it. But don't get your hopes up."
-    u "好，我会考虑的。但你不要期望太高了。"
+    u "好，我会考虑的。但你不要期望太高。"
 
 # game/v2/v2.rpy:175
 translate chineses v2start_7098dbf0:
@@ -118,13 +118,13 @@ translate chineses v2start_7098dbf0:
 translate chineses v2start_0b7c44c3:
 
     # u "I'm not fighting. That's final."
-    u "我不会去斗殴的。这是我最后决定。"
+    u "我不想斗殴。这是我的最后决定。"
 
 # game/v2/v2.rpy:187
 translate chineses v2start_a27d90a3:
 
     # imre "You're being stupid, man. Whatever, suit yourself."
-    imre "你太傻了，哥们儿。不管了，随你便。"
+    imre "你太傻了，哥们儿。我不管了，随你便。"
 
 # game/v2/v2.rpy:214
 translate chineses bjj_bd_9ea2f78c:
@@ -136,25 +136,25 @@ translate chineses bjj_bd_9ea2f78c:
 translate chineses repeatb_b672f3b0:
 
     # u "(Damn, my phone's blowing up. I should probably check my messages.)"
-    u "（可恶，我的手机要炸掉了。我大概应该查看我的短信。）"
+    u "（可恶，我的手机要炸掉了。我该查看我的短信。）"
 
 # game/v2/v2.rpy:227
 translate chineses repeatb_82b726ed:
 
     # u "(Well, time to head to the cafe to meet Lauren.)"
-    u "（好吧，是时候去咖啡店见劳伦了。）"
+    u "（那个，是时候去咖啡厅见劳伦了。）"
 
 # game/v2/v2.rpy:230
 translate chineses repeatb_b7c5def3:
 
     # u "(There's too much on my mind to be dealing with Lauren right now.)"
-    u "（我现在没什么心情去跟劳伦见面。）"
+    u "（我现在没心情去见劳伦。）"
 
 # game/v2/v2.rpy:232
 translate chineses repeatb_1ee1e1aa:
 
     # u "(Maybe taking a walk will relax me.)"
-    u "（也许我该出去散步放松一下。）"
+    u "（也许我该去散步放松一下。）"
 
 # game/v2/v2.rpy:239
 translate chineses walk1_5d38ae25:
@@ -172,13 +172,13 @@ translate chineses walk1_138f9c3b:
 translate chineses walk1_3263fe5c:
 
     # u "(Is she dating Grayson? I really thought she was flirting with me.)"
-    u "（她跟格雷森有关系？我真的以为她是在跟我打情骂俏。）"
+    u "（她跟格雷森有男女关系？我还真的以为她是在跟我送秋波。）"
 
 # game/v2/v2.rpy:250
 translate chineses walk1_d91c9beb:
 
     # u "(But why would Grayson punch me otherwise?)"
-    u "（不过格雷森又为何要揍我呢？）"
+    u "（不过格雷森又为什么要揍我呢？）"
 
 # game/v2/v2.rpy:252
 translate chineses walk1_ae5cc9c0:
@@ -196,7 +196,7 @@ translate chineses walk1_4b258b6b:
 translate chineses walk1_50708946:
 
     # tom "That's what you get for being such a little bitch."
-    tom "这就是狗娘养的所应得的。"
+    tom "这就是你这狗娘养的所应得的。"
 
 # game/v2/v2.rpy:269
 translate chineses walk1_f9b61707:
@@ -220,7 +220,7 @@ translate chineses v1_tomShoutBack_d1389188:
 translate chineses v1_tomShoutBack_d84467b5:
 
     # u "Dude, she wanted to talk to me. She was happy that you left. You bored her."
-    u "哥们儿，你想跟我聊。你走后她很高兴。你让她感到无聊。"
+    u "哥们儿，她是想跟我聊天。其实你走后她很高兴。你让她很无聊。"
 
 # game/v2/v2.rpy:306
 translate chineses v1_tomShoutBack_8fff8082:
@@ -238,7 +238,7 @@ translate chineses gb_9ea2f78c:
 translate chineses tomtut1kick_4a328666:
 
     # tut "Great job! You've hit Tom and hurt him. He's now more likely to get tired, give up or even get knocked out."
-    tut "做得好！你击中并打伤了汤姆。他现在更容易变得疲劳，投降，甚至被打晕。"
+    tut "做得好！你击中并打伤了汤姆。他现在更容易疲劳，放弃，甚至被打晕。"
 
 # game/v2/v2.rpy:335
 translate chineses tomtut1kick_100eaacc:
@@ -262,13 +262,13 @@ translate chineses tomtut1kick_d4a34b79:
 translate chineses tomtut1kick_663a9d66:
 
     # tut "In order to protect yourself from attacks flying straight at your face, such as jabs, press {b}W{/b}."
-    tut "为了防止你的脸被戳击这样的攻击正面击中，按{b}W{/b}。"
+    tut "为了防止你的脸被戳击这样的攻击正面击中，按下{b}W{/b}。"
 
 # game/v2/v2.rpy:350
 translate chineses tomtut1kick_d9713580:
 
     # tut "Lastly, you can protect your legs, from low kicks for example, by pressing {b}R{/b}."
-    tut "最后，按下{b}R{/b}可以保护你的腿被下段踢击这样的攻击踢到。"
+    tut "最后，按下{b}R{/b}可以保护你的腿被下段踢这样的攻击踢到。"
 
 # game/v2/v2.rpy:352
 translate chineses tomtut1kick_88ee0afc:
@@ -280,7 +280,7 @@ translate chineses tomtut1kick_88ee0afc:
 translate chineses tomtut1hook_f76b89d4:
 
     # tut "Yeah, why follow what the tutorial says?? It's not like it's trying to help you or anything."
-    tut "是啊，为什么要按照教学说的来呢？？这教学内容又不像是能帮到你什么。"
+    tut "是啊，为什么要按照教学说的来呢？？这教学内容又不能帮到你什么。"
 
 # game/v2/v2.rpy:367
 translate chineses tomtut1hook_e1d6e4d3:
@@ -292,7 +292,7 @@ translate chineses tomtut1hook_e1d6e4d3:
 translate chineses tomtut1hook_13b808cb:
 
     # tut "He can now counter attack."
-    tut "他现在可以反攻了。"
+    tut "他现在可以反击了。"
 
 # game/v2/v2.rpy:378
 translate chineses tomtut1hook_d4a34b79:
@@ -304,13 +304,13 @@ translate chineses tomtut1hook_d4a34b79:
 translate chineses tomtut1hook_663a9d66:
 
     # tut "In order to protect yourself from attacks flying straight at your face, such as jabs, press {b}W{/b}."
-    tut "为了防止你的脸被戳击这样的攻击正面击中，按{b}W{/b}。"
+    tut "为了防止你的脸被戳击这样的攻击正面击中，按下{b}W{/b}。"
 
 # game/v2/v2.rpy:382
 translate chineses tomtut1hook_d9713580:
 
     # tut "Lastly, you can protect your legs, from low kicks for example, by pressing {b}R{/b}."
-    tut "最后，按下{b}R{/b}可以保护你的腿被下段踢击这样的攻击踢到。"
+    tut "最后，按下{b}R{/b}可以保护你的腿被下段踢这样的攻击踢到。"
 
 # game/v2/v2.rpy:384
 translate chineses tomtut1hook_edc85e50:
@@ -322,7 +322,7 @@ translate chineses tomtut1hook_edc85e50:
 translate chineses tomtut1jab_f76b89d4:
 
     # tut "Yeah, why follow what the tutorial says?? It's not like it's trying to help you or anything."
-    tut "是啊，为什么要按照教学说的来呢？？这教学内容又不像是能帮到你什么。"
+    tut "是啊，为什么要按照教学说的来呢？？这教学内容又不能帮到你什么。"
 
 # game/v2/v2.rpy:399
 translate chineses tomtut1jab_e1d6e4d3:
@@ -334,7 +334,7 @@ translate chineses tomtut1jab_e1d6e4d3:
 translate chineses tomtut1jab_13b808cb:
 
     # tut "He can now counter attack."
-    tut "他现在可以反攻了。"
+    tut "他现在可以反击了。"
 
 # game/v2/v2.rpy:410
 translate chineses tomtut1jab_1e5dc8ea:
@@ -352,7 +352,7 @@ translate chineses tomtut1jab_d4a34b79:
 translate chineses tomtut1jab_663a9d66:
 
     # tut "In order to protect yourself from attacks flying straight at your face, such as jabs, press {b}W{/b}."
-    tut "为了防止你的脸被戳击这样的攻击正面击中，按{b}W{/b}。"
+    tut "为了防止你的脸被戳击这样的攻击正面击中，按下{b}W{/b}。"
 
 # game/v2/v2.rpy:417
 translate chineses tomtut1jab_d9713580:
@@ -376,7 +376,7 @@ translate chineses tuthookblock_5883b2bf:
 translate chineses tuthookblock_cd62240e:
 
     # tut "This ends the tutorial. The real fight will test your reaction times."
-    tut "教学在这里结束。真正的对战会检验你的反应时间。"
+    tut "教学在这里结束。真正的打斗会测试你的反应时间。"
 
 # game/v2/v2.rpy:444
 translate chineses tuthookhit_5d47b961:
@@ -388,7 +388,7 @@ translate chineses tuthookhit_5d47b961:
 translate chineses tuthookhit_cd62240e:
 
     # tut "This ends the tutorial. The real fight will test your reaction times."
-    tut "教学在这里结束。真正的对战会检验你的反应时间。"
+    tut "教学在这里结束。真正的打斗会测试你的反应时间。"
 
 # game/v2/v2.rpy:1056
 translate chineses tomfinish6_9ea2f78c:
@@ -484,25 +484,25 @@ translate chineses meet_lauren2_df593ecf:
 translate chineses meet_lauren2_e214d6bc:
 
     # u "(And also I just got beaten up by another guy on the way here...)"
-    u "（还有在我来的路上我又被另一个家伙揍了一顿...）"
+    u "（还有在我来的路上，我又被另一个家伙打了一顿...）"
 
 # game/v2/v2.rpy:1153
 translate chineses meet_lauren2_ad5741e1:
 
     # u "(And also I just beat a guy up on the way here...)"
-    u "（还有在我来的路上我又揍了另一个家伙...）"
+    u "（还有在我来的路上，我又揍了一个家伙...）"
 
 # game/v2/v2.rpy:1158
 translate chineses meet_lauren2_7fca1bb1:
 
     # la "[name], fighting is so stupid. Please don't get sucked up into it. You're way too smart for that."
-    la "[名字]，斗殴是很愚蠢的。请不要被卷入其中了。聪明的你应该能知道的。"
+    la "[名字]，斗殴是很愚蠢的。请不要被卷入其中了。聪明如你应该能明白的。"
 
 # game/v2/v2.rpy:1163
 translate chineses meet_lauren2_ee09bd0b:
 
     # u "No but... I didn't even do anything."
-    u "不，但是...我还什么都没做。"
+    u "不，但...我根本什么都没做。"
 
 # game/v2/v2.rpy:1168
 translate chineses meet_lauren2_688b87bc:
@@ -520,7 +520,7 @@ translate chineses meet_lauren2_3448fcd8:
 translate chineses meet_lauren2_11273ae0:
 
     # u "I know you stopped kissing me after about a second..."
-    u "我知道你吻了我一秒之后就停了..."
+    u "我知道你吻了我，但下一秒后就停了..."
 
 # game/v2/v2.rpy:1186
 translate chineses meet_lauren2_7a806511:
@@ -544,7 +544,7 @@ translate chineses meet_lauren2_6db93694:
 translate chineses meet_lauren2_844ce18f:
 
     # u "Maybe you were scared..."
-    u "也许你还怕了..."
+    u "也许你怕..."
 
 # game/v2/v2.rpy:1198
 translate chineses meet_lauren2_c44a599c:
@@ -556,7 +556,7 @@ translate chineses meet_lauren2_c44a599c:
 translate chineses meet_lauren2_ebe7bf78:
 
     # u "We had this moment where I wanted to kiss you, but I didn't..."
-    u "在那片刻我想吻你，但我却没有做..."
+    u "在那片刻我想吻你，但我却没有..."
 
 # game/v2/v2.rpy:1206
 translate chineses meet_lauren2_b95d0f31:
@@ -598,19 +598,19 @@ translate chineses meet_lauren2_511d9712:
 translate chineses meet_lauren2_d09702c4:
 
     # u "I'm really sorry, I'm late for class, but I'll see you tomorrow."
-    u "我非常抱歉，我上课要迟到了，但我们明天见吧。"
+    u "我非常抱歉，我上课要迟到了，但我们可以明天见。"
 
 # game/v2/v2.rpy:1248
 translate chineses meet_lauren2_2f27993f:
 
     # la "Alright, see you tomorrow."
-    la "好的，明天见。"
+    la "好吧，明天见。"
 
 # game/v2/v2.rpy:1254
 translate chineses meet_lauren2_2b7cfd0c:
 
     # u "(I should probably wash the blood off my face in the restroom before I go to class.)"
-    u "（我大概应该在上课之前先去厕所把我脸上的血给洗洗。）"
+    u "（我该在上课前先去厕所把我脸上的血给洗洗。）"
 
 # game/v2/v2.rpy:1260
 translate chineses meet_lauren2_552d7a75:
@@ -652,7 +652,7 @@ translate chineses meet_lauren2_79a78785:
 translate chineses meet_lauren2_2b674013:
 
     # u "Okay..."
-    u "好吧..."
+    u "好的..."
 
 # game/v2/v2.rpy:1290
 translate chineses meet_lauren2_beb44c26:
@@ -664,7 +664,7 @@ translate chineses meet_lauren2_beb44c26:
 translate chineses meet_lauren2_37371914:
 
     # u "(I should probably wash the blood off my face before I go.)"
-    u "（我大概应该先去厕所把我脸上的血给洗洗。）"
+    u "（我该先去厕所把我脸上的血给洗洗。）"
 
 # game/v2/v2.rpy:1300
 translate chineses meet_lauren2_43c3a3a3:
@@ -676,19 +676,19 @@ translate chineses meet_lauren2_43c3a3a3:
 translate chineses meet_lauren2_b046b9b4:
 
     # u "I'm late for class, but I'll see you later, okay?"
-    u "我上课要迟到了，但我们待会儿见，行吧？"
+    u "我上课要迟到了，但我们可以待会儿见，好吗？"
 
 # game/v2/v2.rpy:1309
 translate chineses meet_lauren2_4ffa044c:
 
     # la "Yeah, okay."
-    la "好啊，行。"
+    la "好啊，可以。"
 
 # game/v2/v2.rpy:1315
 translate chineses meet_lauren2_2b7cfd0c_1:
 
     # u "(I should probably wash the blood off my face in the restroom before I go to class.)"
-    u "（我大概应该在上课之前先去厕所把我脸上的血给洗洗。）"
+    u "（我该在上课前先去厕所把我脸上的血给洗洗。）"
 
 # game/v2/v2.rpy:1325
 translate chineses meet_lauren2_fee0ddc2:
@@ -700,13 +700,13 @@ translate chineses meet_lauren2_fee0ddc2:
 translate chineses meet_lauren2_9fe27ce9:
 
     # u "Let's just forget that ever happened."
-    u "我们就把它当作没有发生过。"
+    u "我们就当什么也没发生过。"
 
 # game/v2/v2.rpy:1330
 translate chineses meet_lauren2_849f7aad:
 
     # u "I mean nothing happened... Maybe it was awkward, but let's just forget about it."
-    u "我的意思是什么都没有发生...也许会有点尴尬，但我们还是忘了它吧。"
+    u "我的意思是什么都没发生...也许会有点尴尬，但我们还是忘了它吧。"
 
 # game/v2/v2.rpy:1332
 translate chineses meet_lauren2_37309bcc:
@@ -724,7 +724,7 @@ translate chineses meet_lauren2_9ea2f78c_1:
 translate chineses meet_lauren2_08180b4e:
 
     # la "I'm really glad to have you as a friend, [name]."
-    la "我很高兴你能是我的朋友，[名字]。"
+    la "我很高兴你能成为我的朋友，[名字]。"
 
 # game/v2/v2.rpy:1347
 translate chineses meet_lauren2_61cc3320:
@@ -736,19 +736,19 @@ translate chineses meet_lauren2_61cc3320:
 translate chineses meet_lauren2_cc44b100:
 
     # u "I have class right now, but I'll see you later, okay?"
-    u "我上课要迟到了，但我们待会儿见，行吧？"
+    u "我上课要迟到了，但我们可以待会儿见，好吗？"
 
 # game/v2/v2.rpy:1354
 translate chineses meet_lauren2_f3ad4c25:
 
     # la "Yeah, sounds great."
-    la "好的，待会儿见。"
+    la "好啊，听上去不错。"
 
 # game/v2/v2.rpy:1360
 translate chineses meet_lauren2_e6b07d44:
 
     # u "(I should probably wash the blood off my face in the restroom before I go.)"
-    u "（我大概应该先去厕所把我脸上的血给洗洗。）"
+    u "（我该先去厕所把我脸上的血给洗洗。）"
 
 # game/v2/v2.rpy:1382
 translate chineses history2_0306743c:
@@ -766,7 +766,7 @@ translate chineses history2_4329feeb:
 translate chineses history2_3ebb916e:
 
     # u "Imre, I just beat someone up."
-    u "伊姆雷，我刚把人揍了一顿。"
+    u "伊姆雷，我刚把人打了一顿。"
 
 # game/v2/v2.rpy:1399
 translate chineses history2_090822b7:
@@ -790,19 +790,19 @@ translate chineses history2_3fb49481:
 translate chineses history2_84b92164:
 
     # u "I don't know, he walked by me on my way to meet with Lauren and just started to insult me."
-    u "我不知道，我当时正在去见劳伦的路上，他一见到我就开始污辱我。"
+    u "我不太清楚，我当时正在去见劳伦的路上，他一见到我就开始污辱我。"
 
 # game/v2/v2.rpy:1419
 translate chineses history2_a0e2f480:
 
     # u "I don't know, he walked by me on my walk and just started to insult me."
-    u "我不知道，我当时正在散心，他一见到我就开始污辱我。"
+    u "我不太清楚，我当时正在散心，他一见到我就开始污辱我。"
 
 # game/v2/v2.rpy:1423
 translate chineses history2_4a842a59:
 
     # imre "So you just knocked him out?!"
-    imre "那你就直接把他打晕了？！"
+    imre "那你就把他打晕了？！"
 
 # game/v2/v2.rpy:1428
 translate chineses history2_49d2f115:
@@ -814,7 +814,7 @@ translate chineses history2_49d2f115:
 translate chineses history2_2782062a:
 
     # u "And then I just landed a couple good punches and suddenly he was laying on the floor bleeding."
-    u "而在那之后我只是打中了他几拳，他就立马躺在地上流血了。"
+    u "然后我只是打中了他几拳，他就立马躺在地上流血了。"
 
 # game/v2/v2.rpy:1435
 translate chineses history2_6db697b3:
@@ -826,7 +826,7 @@ translate chineses history2_6db697b3:
 translate chineses history2_04dfb653:
 
     # imre "Train with me. Just once. Just to see if you like it. Please."
-    imre "跟我练。就一次。只是让你看看你是否喜欢。拜托了。"
+    imre "跟我一起练。就一次。看你到底喜不喜欢。拜托了。"
 
 # game/v2/v2.rpy:1445
 translate chineses history2_221d8633:
@@ -880,25 +880,25 @@ translate chineses history2_a9ab2f05:
 translate chineses history2_87177349:
 
     # imre "Shit, man..."
-    imre "糟糕，哥们儿..."
+    imre "糟，哥们儿..."
 
 # game/v2/v2.rpy:1488
 translate chineses history2_67fdbb98:
 
     # u "Honestly, maybe you're right and I do need to learn to defend myself."
-    u "老实说，也许你说得对。我确实需要学习自卫。"
+    u "老实讲，也许你说得对。我确实需要学习如何自卫。"
 
 # game/v2/v2.rpy:1493
 translate chineses history2_35f3617a:
 
     # imre "Look, I'm gonna train tomorrow. Why don't you train with me?"
-    imre "我明天回去训练。你要不跟我一起练？"
+    imre "我明天会去训练。你要不跟我一起练？"
 
 # game/v2/v2.rpy:1498
 translate chineses history2_f51c0fc6:
 
     # u "Yeah, okay. Thanks Imre."
-    u "是啊，好。谢了伊姆雷。"
+    u "是啊，好的。谢了伊姆雷。"
 
 # game/v2/v2.rpy:1504
 translate chineses history2_bb82ae35:
@@ -910,7 +910,7 @@ translate chineses history2_bb82ae35:
 translate chineses history2_1edee191:
 
     # imre "Oh shit, what happened? Another Ape?"
-    imre "哦糟糕，发生了什么？又是人猿会的？"
+    imre "哦糟，发生了什么？又是人猿会的？"
 
 # game/v2/v2.rpy:1514
 translate chineses history2_7e658a18:
@@ -928,49 +928,49 @@ translate chineses history2_ae668939:
 translate chineses history2_41b06290_1:
 
     # imre "What did you do?"
-    imre "我做了什么？"
+    imre "你做了什么？"
 
 # game/v2/v2.rpy:1527
 translate chineses history2_5bbb8bca:
 
     # u "Well I didn't wanna get beaten up again, so I just walked away."
-    u "我不想又被挨打，所以我就走开了。"
+    u "我不想又挨打，所以我走开了。"
 
 # game/v2/v2.rpy:1532
 translate chineses history2_240a40fe:
 
     # imre "Dude, if you keep this up, you're gonna get treated like crap."
-    imre "哥们儿，如果你继续这样，你就会被人当成垃圾处理。"
+    imre "哥们儿，如果你继续这样，你会被人当成废物处理。"
 
 # game/v2/v2.rpy:1534
 translate chineses history2_35f3617a_1:
 
     # imre "Look, I'm gonna train tomorrow. Why don't you train with me?"
-    imre "我明天回去训练。你要不跟我一起练？"
+    imre "我明天会去训练。你要不跟我一起练？"
 
 # game/v2/v2.rpy:1539
 translate chineses history2_67dc0c9c:
 
     # u "Okay... I guess I'll try it."
-    u "好吧...我可以试一试。"
+    u "好的...我可以试试。"
 
 # game/v2/v2.rpy:1545
 translate chineses nextsceneo_e025761d:
 
     # lee "Welcome to History 101, I'm Mr. Lee."
-    lee "欢迎来上历史101课，我是李先生。"
+    lee "欢迎来上历史101，我是李先生。"
 
 # game/v2/v2.rpy:1547
 translate chineses nextsceneo_58eff7c4:
 
     # lee "I know that some of you have put this class off for multiple years, while others of you are taking it in their first year."
-    lee "我知道你们之中有的同学连续几年都没有选这么课，而也有同学第一年就选了。"
+    lee "我知道你们之中有的同学连续几年都没有选这门课，而也有同学第一年就选了。"
 
 # game/v2/v2.rpy:1551
 translate chineses nextsceneo_aaf1e329:
 
     # lee "Even though it is unfathomable to me how you could actively try to avoid the most exciting subject in the world..."
-    lee "虽然说我很难理解为什么有人会故意的去尝试避免这个世界上最令人兴奋的科目。"
+    lee "虽然说我很难理解为什么有人会故意逃避世界上最令人兴奋的科目。"
 
 # game/v2/v2.rpy:1553
 translate chineses nextsceneo_cba6747b:
@@ -1000,7 +1000,7 @@ translate chineses nextsceneo_dd2e8650:
 translate chineses nextsceneo_cc2072c5:
 
     # lee "History is looking to the future... but backwards."
-    lee "历史是向前看的...不是向后。"
+    lee "历史是用来向前看的...不是向后。"
 
 # game/v2/v2.rpy:1575
 translate chineses nextsceneo_afc5bc9d:
@@ -1018,13 +1018,13 @@ translate chineses nextsceneo_9c2212ed:
 translate chineses nextsceneo_6d78d111:
 
     # lee "Over the course of this year, you're not just going to learn about history."
-    lee "通过今年的课程，你不仅能够学习到历史。"
+    lee "在这一学年里，你不仅能够学习到历史。"
 
 # game/v2/v2.rpy:1587
 translate chineses nextsceneo_c503f017:
 
     # lee "You're going to live history, immerse yourself within it and understand what life was truly like in the past."
-    lee "你将会进入历史里，完全沉浸其中，深刻理解到生活在过去是怎样的情形。"
+    lee "你还会进入历史里，完全沉浸其中，深刻理解到生活在过去是怎样的情形。"
 
 # game/v2/v2.rpy:1592
 translate chineses nextsceneo_e22c93f3:
@@ -1054,13 +1054,13 @@ translate chineses nextsceneo_95d19fd6:
 translate chineses nextsceneo_f2ba7212:
 
     # lee "Mr. Cameron, if clothing is what gets you to pay attention in this class, then I suggest you dress up as a historical character for our next lesson."
-    lee "卡梅伦先生，如果这堂课能让你感兴趣的是衣服的话，那我建议你在下节课上穿着成一位历史人物。"
+    lee "卡梅伦先生，如果这门课能让你感兴趣的是衣服的话，那我建议你在下节课上穿着成一位历史人物。"
 
 # game/v2/v2.rpy:1613
 translate chineses nextsceneo_4b455ace:
 
     # lee "As a matter of fact, I insist you do."
-    lee "事实上，我坚决要求你照做。"
+    lee "事实上，我强烈要求你照做。"
 
 # game/v2/v2.rpy:1618
 translate chineses nextsceneo_53dd7c6c:
@@ -1084,7 +1084,7 @@ translate chineses nextsceneo_6b696c54:
 translate chineses nextsceneo_0cd07133:
 
     # lee "Come without costume and you've earned your first fail."
-    lee "没有穿戏服来的就会不及格。"
+    lee "没有穿戏服来的就不及格。"
 
 # game/v2/v2.rpy:1629
 translate chineses nextsceneo_99016d7b:
@@ -1126,7 +1126,7 @@ translate chineses nextsceneo_518e3ddb:
 translate chineses nextsceneo_9f78718a:
 
     # imre "Oh, I'm not."
-    imre "哦我没有。"
+    imre "哦，我没有。"
 
 # game/v2/v2.rpy:1689
 translate chineses nextsceneo_bd395da8:
@@ -1144,7 +1144,7 @@ translate chineses nextsceneo_fdbce207:
 translate chineses nextsceneo_b5efee6a:
 
     # imre "Hot girls in shorts getting sweaty? What more could I ask for?"
-    imre "穿着短裤的辣妹流着汗？我还能要求什么吗？"
+    imre "看穿着短裤的美女流着汗？我还能要求什么吗？"
 
 # game/v2/v2.rpy:1701
 translate chineses nextsceneo_b71da505:
