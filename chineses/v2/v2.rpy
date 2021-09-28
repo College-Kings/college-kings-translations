@@ -1180,7 +1180,7 @@ translate chineses nextsceneo_a6ce608d:
 translate chineses nextsceneo_31a4b2c1:
 
     # no "Looks like he got beaten up."
-    no "看起来他被揍了。"
+    no "看来他挨打了。"
 
 # game/v2/v2.rpy:1732
 translate chineses nextsceneo_ee9e9ff5:
@@ -1198,25 +1198,25 @@ translate chineses nextsceneo_b63527db:
 translate chineses nextsceneo_99bd1ed9:
 
     # em "Charming."
-    em "迷人啊。"
+    em "有意思。"
 
 # game/v2/v2.rpy:1746
 translate chineses nextsceneo_28849dd3:
 
     # u "First of all, I was just telling you that you're cute."
-    u "首先，我只是在告诉你你长得可爱。"
+    u "首先，我只是说你长得可爱。"
 
 # game/v2/v2.rpy:1748
 translate chineses nextsceneo_e5214ea4:
 
     # u "Secondly, the guy who punched me came out of nowhere, it wasn't a fair fight."
-    u "其次，那人打了我一个措手不及，那不是场公平的对决。"
+    u "其次，我被人打了个措手不及，那不是场公平的对决。"
 
 # game/v2/v2.rpy:1754
 translate chineses nextsceneo_6682385f:
 
     # u "I- I didn't get beaten up, okay? A guy just punched me out of nowhere, it wasn't a fair fight."
-    u "我-我没有被揍，好吧？那人打了我一个措手不及，那不是场公平的对决。"
+    u "我-我没有挨打，好吗？我被人打了个措手不及，那不是场公平的对决。"
 
 # game/v2/v2.rpy:1759
 translate chineses nextsceneo_eb29b934:
@@ -1246,7 +1246,7 @@ translate chineses nextsceneo_0038c3f0:
 translate chineses nextsceneo_79913920:
 
     # no "Look, I'm sensing some weird energy between you two, so I'ma leave."
-    no "我感到你们俩之间好像有什么奇怪的能量，那我先走了。"
+    no "我感到你们俩之间好像有什么奇怪的能量，所以我先走了。"
 
 # game/v2/v2.rpy:1781
 translate chineses nextsceneo_0fa411c5:
@@ -1258,13 +1258,13 @@ translate chineses nextsceneo_0fa411c5:
 translate chineses nextsceneo_377de940:
 
     # no "Bye weirdo."
-    no "拜，古怪人。"
+    no "拜，怪人。"
 
 # game/v2/v2.rpy:1791
 translate chineses nextsceneo_d1f7d7f9:
 
     # u "What? I didn't even-"
-    u "什么？我还没有-"
+    u "什么？我根本没有-"
 
 # game/v2/v2.rpy:1793
 translate chineses nextsceneo_62b194d4:
@@ -1282,31 +1282,31 @@ translate chineses nextsceneo_bba611ad:
 translate chineses nextsceneo_24ff09d8:
 
     # u "Emily, we're not friends. You cheated on me."
-    u "艾米丽，我们不是朋友了。你把我绿了。"
+    u "艾米丽，我们已经不是朋友了。你欺骗了我。"
 
 # game/v2/v2.rpy:1808
 translate chineses nextsceneo_fd20340e:
 
     # em "[name], I know I fucked up. I'm really sorry, okay?"
-    em "[名字]，我知道我搞砸了。我真的很抱歉，好吧？"
+    em "[名字]，我知道我搞砸了。我真的很抱歉，好吗？"
 
 # game/v2/v2.rpy:1810
 translate chineses nextsceneo_575b7098:
 
     # em "We hit a rough patch and I was drunk and..."
-    em "我们正处于低落时候而我当时又喝醉了..."
+    em "我们当时正处在低迷期，而我那晚又喝醉了..."
 
 # game/v2/v2.rpy:1812
 translate chineses nextsceneo_a0ba8469:
 
     # em "I just miss us. Even if it's just as friends."
-    em "我只是想念我们一起的时光。就算我们现在是朋友了。"
+    em "我很怀念我们一起的日子。就算我们现在只是朋友而已。"
 
 # game/v2/v2.rpy:1814
 translate chineses nextsceneo_8607b0a7:
 
     # em "Can we please just hang out?"
-    em "我们还能够一起玩吗，拜托了？"
+    em "我们还能在一起玩吗，拜托了？"
 
 # game/v2/v2.rpy:1824
 translate chineses nextsceneo_662a2cea:
@@ -1342,7 +1342,7 @@ translate chineses nextsceneo_b100c2df:
 translate chineses nextsceneo_de194e89:
 
     # u "I can't just forgive you like that. You don't know what you put me through."
-    u "我还不能就这样宽恕你。你不知道你对我的伤害有多深。"
+    u "我还不能就这样宽恕你。你不知道你对我的伤有多深。"
 
 # game/v2/v2.rpy:1861
 translate chineses nextsceneo_512d53f3:
@@ -1366,25 +1366,25 @@ translate chineses nextsceneo_83e9361f:
 translate chineses bo_ad_867d6873:
 
     # em "Sooo... did you text your new girlfriend that you're hanging out with your ex?"
-    em "那...你有没有发短信给你的新女友告诉她你现在跟你的前女友在一起？"
+    em "那...你有发短信给你的新女友告诉她你现在跟你的前女友在一起吗？"
 
 # game/v2/v2.rpy:1897
 translate chineses bo_ad_912bf9be:
 
     # u "Yeah, of course I did. I tell her everything."
-    u "是的，我当然有。我告诉他我的一切。"
+    u "是呀，我当然有。我每件事都向她汇报。"
 
 # game/v2/v2.rpy:1903
 translate chineses bo_ad_821b0bf4:
 
     # em "Oh... okay. That's- that's good. You should tell her stuff like this."
-    em "哦...好。那是-那是正确的。你应该告诉她这些事。"
+    em "哦...好。那-那挺好的。你该这么做。"
 
 # game/v2/v2.rpy:1909
 translate chineses bo_ad_cc8c914a:
 
     # u "*Laughs* Emily, I'm kidding. I'm still single, I mean we only broke up a couple months ago."
-    u "*嘲笑*艾米丽，我开玩笑的。我还是单身，我的意思是我们才分开了几个月。"
+    u "*嘲笑*艾米丽，我开玩笑的。我还是单身，我是指我们才分开了几个月。"
 
 # game/v2/v2.rpy:1915
 translate chineses bo_ad_0650d652:
@@ -1396,7 +1396,7 @@ translate chineses bo_ad_0650d652:
 translate chineses bo_ad_5bba2ef7:
 
     # u "Oh come on, don't act like you didn't miss this."
-    u "哦得了吧，别做得好象你没有想念这些。"
+    u "哦得了吧，别说你不喜欢我过去这么逗你。"
 
 # game/v2/v2.rpy:1927
 translate chineses bo_ad_120a757f:
@@ -1408,19 +1408,19 @@ translate chineses bo_ad_120a757f:
 translate chineses bo_ad_b9fed6b2:
 
     # u "Believe it or not, I'm still single."
-    u "信或不信，我还是单身。"
+    u "信还是不信，我还是单身。"
 
 # game/v2/v2.rpy:1942
 translate chineses bo_ad_799fe8d0:
 
     # u "I mean we only broke up a couple months ago."
-    u "我的意思是我们才分开了几个月。"
+    u "我是指我们才分开了几个月。"
 
 # game/v2/v2.rpy:1948
 translate chineses bo_ad_4d82ac42:
 
     # em "I guess you're right. I was just... you know, curious."
-    em "我想你是对的。我只是...你知道的，好奇。"
+    em "我想你说得对。我只是...你知道的，好奇。"
 
 # game/v2/v2.rpy:1956
 translate chineses bp_bd_486ea320:
@@ -1432,13 +1432,13 @@ translate chineses bp_bd_486ea320:
 translate chineses bp_bd_10706cd3:
 
     # em "Are you ever gonna stop bringing that up?"
-    em "你什么时候才会停止提那事儿啊？"
+    em "你要到什么时候才不会提那事儿啊？"
 
 # game/v2/v2.rpy:1973
 translate chineses bp_bd_57723b9c:
 
     # u "No way, you looked so adorable."
-    u "没可能，你看上去太可爱了。"
+    u "那是不可能的，你看上去太可爱了。"
 
 # game/v2/v2.rpy:1978
 translate chineses bp_bd_9f281ce2:
@@ -1450,19 +1450,19 @@ translate chineses bp_bd_9f281ce2:
 translate chineses bp_bd_fa12b88a:
 
     # em "It was so thoughtful."
-    em "你考虑得真周到。"
+    em "你考虑得好周到哦。"
 
 # game/v2/v2.rpy:1989
 translate chineses bp_bd_b6576c73:
 
     # u "It was sooo funny though."
-    u "但那好搞笑啊。"
+    u "但你的模样好搞笑。"
 
 # game/v2/v2.rpy:1995
 translate chineses bp_bd_78255f88:
 
     # em "You're the one to talk, your face is literally swollen up right now."
-    em "你还说呢，你的脸现在就是肿起来了。"
+    em "你还说呢，你的脸现在就肿得厉害呢。"
 
 # game/v2/v2.rpy:2001
 translate chineses bp_bd_4fc8d054:
@@ -1474,13 +1474,13 @@ translate chineses bp_bd_4fc8d054:
 translate chineses bp_bd_8745972f:
 
     # u "Plus, it looks badass."
-    u "而且，这样看上去坏坏的"
+    u "而且，我看上去像坏蛋。"
 
 # game/v2/v2.rpy:2009
 translate chineses bp_bd_5c5b73f9:
 
     # em "Haha, I'm not sure who told you that."
-    em "哈哈，我不清楚谁告诉你的。"
+    em "哈哈，我不知道那是谁告诉你的。"
 
 # game/v2/v2.rpy:2020
 translate chineses bq_bd_b2bcac73:
@@ -1492,7 +1492,7 @@ translate chineses bq_bd_b2bcac73:
 translate chineses bq_bd_77d533cc:
 
     # u "Hey there, you accept walk-ins right?"
-    u "嘿，你们接受未预约门诊吗？"
+    u "嘿大哥，你们接受未预约门诊，是吗？"
 
 # game/v2/v2.rpy:2031
 translate chineses bq_bd_7e133080:
@@ -1504,13 +1504,13 @@ translate chineses bq_bd_7e133080:
 translate chineses bq_bd_eb6699a4:
 
     # ben "Yeah, sure thing. Fill out these forms and then take a seat in the waiting room and I'll let you know when Dr. Ehrmantraut can slot you in."
-    ben "是的，当然。把这些表格填了之后找个座位在候诊室等。埃曼特劳特医生可以见你的时候我会通知你的。"
+    ben "是啊，当然可以。把这些表填了之后找个座位在候诊室等着。埃曼特劳特医生要见你的时候我会叫你的。"
 
 # game/v2/v2.rpy:2041
 translate chineses bq_bd_b822ede1:
 
     # em "Hey, I've seen you before, you went to school with my sister."
-    em "嘿，我以前见过你，你跟我的姐姐上一所学校。"
+    em "嘿，我以前见过你，你跟我姐上一所学校。"
 
 # game/v2/v2.rpy:2043
 translate chineses bq_bd_65f217b4:
@@ -1522,7 +1522,7 @@ translate chineses bq_bd_65f217b4:
 translate chineses bq_bd_1ce47e7b:
 
     # ben "Oh, I remember. You're Hannah's sister."
-    ben "哦，我想起了，你是汉娜的妹妹。"
+    ben "哦，我想起来了，你是汉娜的妹妹。"
 
 # game/v2/v2.rpy:2053
 translate chineses bq_bd_43ceef73:
@@ -1534,31 +1534,31 @@ translate chineses bq_bd_43ceef73:
 translate chineses bq_bd_6a1ac90c:
 
     # ben "I mean yeah, but technically - I didn't get into law school."
-    ben "我想说是，不过事实上说- 我没有考进法律学院。"
+    ben "是呀，不过说实话- 我没有考进法学院。"
 
 # game/v2/v2.rpy:2063
 translate chineses bq_bd_56bfd909:
 
     # ben "But this is actually a really good job, you know."
-    ben "你知道吗，但这其实是一个很不错的工作。"
+    ben "你知道吗，这工作其实是很不错的。"
 
 # game/v2/v2.rpy:2065
 translate chineses bq_bd_5c90378d:
 
     # ben "It pays well. And I get benefits. Dental benefits."
-    ben "工资高，还有福利，牙科福利哟。"
+    ben "工资高，有福利，还是牙科福利哟。"
 
 # game/v2/v2.rpy:2067
 translate chineses bq_bd_4e2c3912:
 
     # ben "So really, dream job."
-    ben "真正的梦寐以求的工作。"
+    ben "真的是梦寐以求的工作。"
 
 # game/v2/v2.rpy:2072
 translate chineses bq_bd_77cd096f:
 
     # em "Well, I'm glad you found something you like."
-    em "我很高兴你找到了你喜欢的。"
+    em "我很高兴你找到了你喜欢的工作。"
 
 # game/v2/v2.rpy:2077
 translate chineses bq_bd_6239ec8d:
@@ -1570,31 +1570,31 @@ translate chineses bq_bd_6239ec8d:
 translate chineses bq_bd_c5a76bd8:
 
     # u "Cool, I'll be done in a second."
-    u "行，我很快就好。"
+    u "好，我很快就搞定。"
 
 # game/v2/v2.rpy:2089
 translate chineses bq_bd_942ae5fc:
 
     # ben "So uhhh, are you hitting that, or can a bro make a move?"
-    ben "那个呃，你是在泡她，又或者兄弟我也能去泡？"
+    ben "那个呃，你是在泡她吗？又或者兄弟我也能泡？"
 
 # game/v2/v2.rpy:2094
 translate chineses bq_bd_983a6c7c:
 
     # ben "You know, even if you are hitting that... I'm totally fine with like a dual type of arrangement."
-    ben "你知道，就算你在泡她...我也完全可以接受一种三人的安排。"
+    ben "你知道吗，就算你有泡她...我也完全可以接受一种三人的安排。"
 
 # game/v2/v2.rpy:2099
 translate chineses bq_bd_be666bc9:
 
     # u "Dude... aren't you like 30 or something?"
-    u "哥们儿...你不是都奔30了吧？"
+    u "哥们儿...你不是都快奔30了吧？"
 
 # game/v2/v2.rpy:2104
 translate chineses bq_bd_0a03aa80:
 
     # ben "What? I'm 24."
-    ben "什么？我才24。"
+    ben "什么？我24。"
 
 # game/v2/v2.rpy:2118
 translate chineses bq_bd_d2c46c7b:
@@ -1618,13 +1618,13 @@ translate chineses bq_bd_7a9562a5:
 translate chineses bq_bd_1051b39e:
 
     # u "Just - just stay away from her, okay?"
-    u "请 - 请离她远点，了解了吗？"
+    u "请 - 请离她远点，好吗？"
 
 # game/v2/v2.rpy:2142
 translate chineses bq_bd_3afbede2:
 
     # ben "Fine, bro. Sorry for asking."
-    ben "行，兄弟。抱歉我问了这些。"
+    ben "行，兄弟。抱歉问你这些。"
 
 # game/v2/v2.rpy:2148
 translate chineses br_bd_69668e67:
@@ -1642,7 +1642,7 @@ translate chineses br_bd_e38ea10b:
 translate chineses br_bd_a130a4a9:
 
     # em "Oh really, are you my guardian now?"
-    em "哦真的，你是我的监护人啦？"
+    em "哦真的，你现在是我的监护人啦？"
 
 # game/v2/v2.rpy:2167
 translate chineses br_bd_2e2b8da5:
@@ -1654,13 +1654,13 @@ translate chineses br_bd_2e2b8da5:
 translate chineses br_bd_0b8e19de:
 
     # u "Uhm... I told him off."
-    u "嗯...我没让他追你。"
+    u "嗯...我叫他别。"
 
 # game/v2/v2.rpy:2175
 translate chineses br_bd_ca4e838e:
 
     # u "You know, just to protect you from having to deal with a creep."
-    u "你知道，只是为了保护你不被一个变态骚扰。"
+    u "你知道的，只是为了保护你不被一个变态骚扰。"
 
 # game/v2/v2.rpy:2180
 translate chineses br_bd_63edfa8d:
@@ -1672,7 +1672,7 @@ translate chineses br_bd_63edfa8d:
 translate chineses br_bd_42156a9b:
 
     # u "Oh shut up, if you wanna give him your phone number and have the worst date of your life, you're free to do so."
-    u "哦闭嘴吧，如果你想要度过你这辈子最糟糕的一天的话，你可以随时把你的电话号给他。"
+    u "哦闭嘴吧，如果你想要度过你这辈子最糟糕的一天的话，你可以随时把电话号给他。"
 
 # game/v2/v2.rpy:2190
 translate chineses br_bd_7f95afe6:
@@ -1684,13 +1684,13 @@ translate chineses br_bd_7f95afe6:
 translate chineses br_bd_27459841:
 
     # u "I told him he should."
-    u "我告诉他可以试试。"
+    u "我叫他试试。"
 
 # game/v2/v2.rpy:2198
 translate chineses br_bd_bc513adc:
 
     # u "I mean there's no way you'd go for him anyways."
-    u "我的意思是你不可能会对他有感觉的。"
+    u "我想你是不可能对他有兴趣的。"
 
 # game/v2/v2.rpy:2202
 translate chineses br_bd_fb7ee5e1:
@@ -1732,7 +1732,7 @@ translate chineses br_bd_6140f90b:
 translate chineses br_bd_7e05f0f5:
 
     # u "You know, as a guy."
-    u "你知道，作为一个男的。"
+    u "做为一个男人来说。"
 
 # game/v2/v2.rpy:2234
 translate chineses br_bd_ee2db0a2:
@@ -1750,25 +1750,25 @@ translate chineses br_bd_084ab882:
 translate chineses br_bd_6fddef7b:
 
     # u "Just wondering."
-    u "只是好奇。"
+    u "只是好奇罢了。"
 
 # game/v2/v2.rpy:2251
 translate chineses bs_bd_ea172d77:
 
     # ben "Dr. Ehrmantraut is now ready for you."
-    ben "埃曼特劳特医生现在可以见你了。"
+    ben "埃曼特劳特医生现在要见你了。"
 
 # game/v2/v2.rpy:2256
 translate chineses bs_bd_ef1dadc4:
 
     # em "I'll wait here, I saw a bunch of Vogues I wanna dig into."
-    em "我在这里等你，我想读读这里的《时尚》杂志。"
+    em "我在这儿等你，我想读这里的《时尚》杂志。"
 
 # game/v2/v2.rpy:2261
 translate chineses bs_bd_745f4da9:
 
     # ehr "Okay, looking at you I'm gonna assume you're here because of your black eye?"
-    ehr "好，看你这样子我猜你是为了你青肿的眼眶来的？"
+    ehr "好的，看这样子我猜你是为了你青肿的眼眶来的？"
 
 # game/v2/v2.rpy:2266
 translate chineses bs_bd_42487ce7:
@@ -1780,13 +1780,13 @@ translate chineses bs_bd_42487ce7:
 translate chineses bs_bd_16d3800d:
 
     # u "Uhh... yeah, my friend dragged me here in order to get it looked at."
-    u "呃...是啊，我朋友拽我过来就是要检查一下它。"
+    u "呃...是啊，我朋友拽我过来就是要检查一下。"
 
 # game/v2/v2.rpy:2275
 translate chineses bs_bd_2977c7af:
 
     # ehr "Alright, let me have a closer look and see if there's anything unusual about it."
-    ehr "行，让我仔细看看有什么异样。"
+    ehr "好吧，让我仔细看看有什么问题。"
 
 # game/v2/v2.rpy:2280
 translate chineses bs_bd_99ef3bd4:
@@ -1822,7 +1822,7 @@ translate chineses bs_bd_b46706a3:
 translate chineses bs_bd_976e8c37:
 
     # u "(Why can't life be more like porn...? Sex with her would take any pain away.)"
-    u "（生活为什么不能像色情片那样...?跟她性交能除去任何的疼痛。"
+    u "（生活为什么不能像色情片那样...？跟她做一次可以消去任何的疼痛。）"
 
 # game/v2/v2.rpy:2304
 translate chineses bs_bd_635445a7:
@@ -1834,7 +1834,7 @@ translate chineses bs_bd_635445a7:
 translate chineses bs_bd_d075d62f:
 
     # ehr "Well then, your face should be back to normal in a week. If it doesn't get better, please come see me again."
-    ehr "这样啊，你的脸一个星期之后就能恢复正常。如若不然，请再来见我。"
+    ehr "这样啊，你的脸一个星期之后就能恢复正常。如果到时美好，请再来见我。"
 
 # game/v2/v2.rpy:2314
 translate chineses bs_bd_8024e817:
@@ -1846,7 +1846,7 @@ translate chineses bs_bd_8024e817:
 translate chineses bs_bd_44abc50c:
 
     # u "(Now I really hope it doesn't get better...)"
-    u "（现在我真希望我不会变好...）"
+    u "（现在我真希望我的眼睛不会变好...）"
 
 # game/v2/v2.rpy:2321
 translate chineses bs_bd_44918a53:
@@ -1864,19 +1864,19 @@ translate chineses bs_bd_b0d1ce85:
 translate chineses bo_bd_dc5051d5:
 
     # u "(Even though that just cost me almost a hundred dollars, it was kinda nice to spend time with Emily.)"
-    u "（尽管刚才花了我接近一百元，花时间跟艾米丽在一起也不错。"
+    u "（虽然我刚才损失了近一百元，但花时间跟艾米丽在一起也不错。）"
 
 # game/v2/v2.rpy:2337
 translate chineses bo_bd_18cf3231:
 
     # u "(Still... I don't know if I can ever fully forgive her for what she did.)"
-    u "（不过...我不知道我还能不能够原谅她所做的。）"
+    u "（不过...我不知道我还能不能原谅她所做的事。）"
 
 # game/v2/v2.rpy:2347
 translate chineses bo_bd_c975e35e:
 
     # u "(Oh, I just got a message.)"
-    u "（哦，我刚收到了短信。）"
+    u "（哦，我刚收到了封短信。）"
 
 # game/v2/v2.rpy:2353
 translate chineses repeatc_d647e9cd:
