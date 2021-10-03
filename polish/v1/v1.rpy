@@ -1834,7 +1834,7 @@ translate polish talktorib_40942682:
 translate polish talktorib_b0dc7976:
 
     # imre "You guys know drink or dare?"
-    imre "Znacie „picie czy wyzwanie?”"
+    imre "Znacie „picie czy wyzwanie”?"
 
 # game/v1/v1.rpy:1612
 translate polish talktorib_133e1c1d:
