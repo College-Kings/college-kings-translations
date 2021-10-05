@@ -3712,7 +3712,7 @@ translate chineses eve1_4251955d:
 translate chineses eve1_c7a9cc52:
 
     # u "Give me one date to change your mind."
-    u "给我一次约会来改变你的想法。"
+    u "跟我约会一次，我会改变你的想法。"
 
 # game/v2/v2.rpy:4114
 translate chineses eve1_76b147b2:
@@ -3790,7 +3790,7 @@ translate chineses eve1_a13f14ef:
 translate chineses eve1_f557a3ac:
 
     # u "How about I'll wear the costume I bought yesterday for our entire date?"
-    u "我会穿着我昨天买的戏服去赴约，怎样？"
+    u "我会穿着我买的戏服去赴约，怎样？"
 
 # game/v2/v2.rpy:4171
 translate chineses eve1_ca334630:
