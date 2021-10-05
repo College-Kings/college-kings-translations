@@ -52,19 +52,19 @@ translate chineses v3start_0c12dca7:
 translate chineses v3start_924b5680:
 
     # cl "Me and Grayson had a thing, a looong time ago."
-    cl "我跟格雷森有在一起过，那是很久之前了。"
+    cl "我跟格雷森是有一段历史，但那是很久以前了。"
 
 # game/v3/v3.rpy:57
 translate chineses v3start_68d063d6:
 
     # cl "But after a while, he started to lie and do shady shit and... you know, be the person he is. So I broke it off."
-    cl "但过了一段时日，他开始撒谎并且还做了一些胡作非为的事...还有你知道的，成了他现在那样的人。所以我跟他分开了。"
+    cl "但过了一段时日，他开始对我撒谎，并且胡作非为...还有你知道的，成了他现在那样的人。所以我跟他分手了。"
 
 # game/v3/v3.rpy:59
 translate chineses v3start_3f4cd669:
 
     # cl "And ever since, he's just been... I guess trying to get back at me?"
-    cl "而从那之后，他就...我想是试着报复我？"
+    cl "而从那之后，他就时刻想着...报复我吧？"
 
 # game/v3/v3.rpy:64
 translate chineses v3start_a3326c2c:
@@ -88,19 +88,19 @@ translate chineses v3start_87f53c76:
 translate chineses v3start_3fc28f4c:
 
     # cl "Girls join the Chicks 'cause they wanna party and have fun."
-    cl "女孩子们加入辣妹会因为她们想参加派对并且玩得开心。"
+    cl "女孩子们加入小鸡会是因为她们想参加派对并且玩得开心。"
 
 # game/v3/v3.rpy:78
 translate chineses v3start_2d0a2d26:
 
     # cl "If I don't show up to Ape parties as the Chicks' president, I risk losing the relationships I've built and being voted out."
-    cl "如果我不以辣妹会会长的身份参加人猿会的派对，我就有可能失去我所建立的友谊而在表决后失去我的会长一职。"
+    cl "如果我不以小鸡会会长的身份参加人猿会的派对，我就有可能失去我所建立的友谊，并且在表决后失去会长一职。"
 
 # game/v3/v3.rpy:83
 translate chineses v3start_e60663e2:
 
     # u "It's just... we were having such a great night and then this kinda ruined it."
-    u "只是...我们当时过得非常愉快而这事把那氛围给搞砸了。"
+    u "只是...我们当时聊得非常愉快，出了这件事把那氛围给毁了。"
 
 # game/v3/v3.rpy:88
 translate chineses v3start_83907c29:
@@ -118,13 +118,13 @@ translate chineses v3start_cbfdbaad:
 translate chineses v3start_e5b7dbdd:
 
     # u "What if I can't find you? Shouldn't you at least give me your number?"
-    u "要是我找不到你怎么办？你不该至少把你的号码给我吗？"
+    u "要是我找不到你怎么办？你至少该把你的号码给我吗？"
 
 # game/v3/v3.rpy:103
 translate chineses v3start_ed3c843a:
 
     # cl "Haha, I guess I'll have to... for safety reasons."
-    cl "哈哈，我想我不得不...出于安全考量。"
+    cl "哈哈，我想我是不能不给了...出于安全考量。"
 
 # game/v3/v3.rpy:114
 translate chineses v3start_912c9d4a:
@@ -136,7 +136,7 @@ translate chineses v3start_912c9d4a:
 translate chineses v3start_d9894fe0:
 
     # u "Imre, where have you been? There's no way the volleyball game went on for this long, did it?"
-    u "伊姆雷，你去哪儿了？排球赛不可能有这么长， 是吧？"
+    u "伊姆雷，你上哪儿去了？排球赛不可能有这么长， 是吧？"
 
 # game/v3/v3.rpy:135
 translate chineses v3start_0a37f264:
@@ -148,7 +148,7 @@ translate chineses v3start_0a37f264:
 translate chineses v3start_f5c3c13a:
 
     # u "Wait, you were with a girl?"
-    u "等等，你跟一个女生在一起？"
+    u "等等，你跟一位女孩子在一起？"
 
 # game/v3/v3.rpy:145
 translate chineses v3start_7e591237:
@@ -166,31 +166,31 @@ translate chineses v3start_058cc530:
 translate chineses v3start_1508a5ef:
 
     # u "Dude, that's not cool. You're invading their privacy."
-    u "哥们儿，那样可不好。你在侵犯她们的隐私。"
+    u "哥们儿，那样可不好。你侵犯了她们的隐私。"
 
 # game/v3/v3.rpy:169
 translate chineses cm_bd_5fb83b2e:
 
     # imre "Yeah, turns out it wasn't a good idea at all. One of the girls had a mental breakdown and they consoled her for hours."
-    imre "是啊，结果那的确不是个好主意。其中的一位女生发生了精神崩溃，而她的队友花了几个小时来安慰她。"
+    imre "是啊，那的确不是个好主意。其中的一位女孩子发生了精神崩溃，她的队友花了几个小时来安慰她。"
 
 # game/v3/v3.rpy:171
 translate chineses cm_bd_8f3a69b5:
 
     # imre "At one point they called in two different guidance counselors and then those two didn't get along as well..."
-    imre "她们一度请来了两位不同的辅导员，而那两人又合不来..."
+    imre "她们还请来了两位不同的辅导员，而那两人又合不来..."
 
 # game/v3/v3.rpy:173
 translate chineses cm_bd_392470e3:
 
     # imre "It was just an insane mess and I was stuck hiding in a pile of old jerseys."
-    imre "当时的场面相当混乱，而我又被困在了一堆臭气熏熏的运动服中。"
+    imre "当时的场面相当混乱，我又被困在了一堆臭气熏熏的运动服中。"
 
 # game/v3/v3.rpy:178
 translate chineses cm_bd_691b6f87:
 
     # u "Well, I hope you learned your lesson."
-    u "好了，我希望汲取教训。"
+    u "这个，我希望你能汲取教训。"
 
 # game/v3/v3.rpy:183
 translate chineses cm_bd_5de4b440:
@@ -220,25 +220,25 @@ translate chineses cm_bd_3c209707:
 translate chineses cm_bd_6de04fd1:
 
     # u "Well, I met this really nice girl called Penelope. And apparently, she's in our history class."
-    u "这个，我见到了一位挺好的女生叫佩内洛普。而且她看来也在我们的历史课上。"
+    u "这个，我见到了一位很好的女生叫佩内洛普。而且她也在我们的历史课上。"
 
 # game/v3/v3.rpy:205
 translate chineses cm_bd_3d04ec9b:
 
     # imre "Oh shit, is she hot?"
-    imre "哦天哪，她很辣吗？"
+    imre "哦天哪，她性感吗？"
 
 # game/v3/v3.rpy:214
 translate chineses cm_bd_4385b13c:
 
     # u "Oh, hell yeah! She's super hot."
-    u "哦，那自然！她超级火辣。"
+    u "哦，那自然！她超级性感。"
 
 # game/v3/v3.rpy:219
 translate chineses cm_bd_10343fa0:
 
     # imre "Well that's what I like to hear, go on."
-    imre "很好，我听到了我喜欢的，继续。"
+    imre "那是我我喜欢的听的，继续。"
 
 # game/v3/v3.rpy:225
 translate chineses cm_bd_bc716318:
@@ -250,19 +250,19 @@ translate chineses cm_bd_bc716318:
 translate chineses cm_bd_fdf9fb83:
 
     # imre "Well that usually means she's better in bed 'cause she tries harder, go on."
-    imre "哎呀，那通常表示她床上功夫更好，因为她会更努力去满足你，继续。"
+    imre "哎呀，那通常表示她床上功夫比较好，因为她会更努力去满足你，继续。"
 
 # game/v3/v3.rpy:237
 translate chineses cp_bd_87b58fc4:
 
     # u "Anyways, then I went costume shopping for Mr. Lee's class with Aubrey."
-    u "总之，我之后跟奥布里去买了李先生的课上要用的戏服。"
+    u "话说回来，我之后跟奥布里去买了李先生课上要用的戏服。"
 
 # game/v3/v3.rpy:242
 translate chineses cp_bd_96691d7e:
 
     # u "And before you ask, yes, she's hot."
-    u "在你问我之前，是的，她很辣。"
+    u "在你问我之前，是的，她很性感。"
 
 # game/v3/v3.rpy:248
 translate chineses cp_bd_8d8a0dbf:
@@ -280,7 +280,7 @@ translate chineses cp_bd_ea7785ad:
 translate chineses cp_bd_f45734b5:
 
     # imre "The key is not to get caught, son."
-    imre "这关键是不要被发现，年轻人。"
+    imre "关键是不要被发现，年轻人。"
 
 # game/v3/v3.rpy:269
 translate chineses cp_bd_7191ae26:
@@ -304,7 +304,7 @@ translate chineses cp_bd_b101656c:
 translate chineses cp_bd_85a0b042:
 
     # u "Anyways, then I went costume shopping for Mr. Lee's class with her."
-    u "总之，我之后跟她去买了李先生的课上要用的戏服。"
+    u "话说回来，我之后跟她去买了李先生课上要用的戏服。"
 
 # game/v3/v3.rpy:291
 translate chineses cp_bd_18db3b1d:
@@ -328,7 +328,7 @@ translate chineses cp_bd_ea7785ad_1:
 translate chineses cp_bd_f45734b5_1:
 
     # imre "The key is not to get caught, son."
-    imre "这关键是不要被发现，年轻人。"
+    imre "关键是不要被发现，年轻人。"
 
 # game/v3/v3.rpy:317
 translate chineses cp_bd_7191ae26_1:
@@ -358,7 +358,7 @@ translate chineses cp_bd_663655b8:
 translate chineses cp_bd_790e2e2e:
 
     # u "But that's not even the best part..."
-    u "但那都还不是最高潮的部分..."
+    u "但那都还不是最好的部分..."
 
 # game/v3/v3.rpy:340
 translate chineses conl_c25cb717:
@@ -370,19 +370,19 @@ translate chineses conl_c25cb717:
 translate chineses conl_77f1b168:
 
     # u "And 30 minutes ago, she knocked on our door, told me to come meet her at midnight behind the gym and kissed me on the cheek before she left."
-    u "而就在30分钟之前，她敲了我们的门，告诉我半夜在体育室后面见面，而且她还在走之前亲了我的脸。"
+    u "而就在30分钟之前，她敲了我们的门，叫我半夜在体育室后面见面，而且她还在走之前亲了我的脸。"
 
 # game/v3/v3.rpy:347
 translate chineses conl_200fd70a:
 
     # imre "OH MY GOD! My boy is getting laid tonight! Behind the gym! That's amazing, man!"
-    imre "哦我的天哪！我的孩子今晚会同女生上床！在体育室后面！那太棒了，哥们儿！"
+    imre "哦我的天哪！我的小弟今晚要啪啪了！在体育室后面！那太棒了，哥们儿！"
 
 # game/v3/v3.rpy:352
 translate chineses conl_4d0c5768:
 
     # u "Dude, calm down. I don't think she's like that, haha."
-    u "哥们儿，冷静点。我不认为她会那样的，哈哈。"
+    u "哥们儿，冷静点。我不认为她是那样的，哈哈。"
 
 # game/v3/v3.rpy:357
 translate chineses conl_66c7877e:
@@ -394,13 +394,13 @@ translate chineses conl_66c7877e:
 translate chineses conl_a38f0071:
 
     # imre "My man's getting laid."
-    imre "我的哥们儿要上床了！"
+    imre "我的哥们儿要啪啪了！"
 
 # game/v3/v3.rpy:377
 translate chineses conl_a38f0071_1:
 
     # imre "My man's getting laid."
-    imre "我的哥们儿要上床了！"
+    imre "我的哥们儿要啪啪了！"
 
 # game/v3/v3.rpy:382
 translate chineses conl_fcc18885:
@@ -430,7 +430,7 @@ translate chineses conl_2cb5af63:
 translate chineses conl_91e28cc0:
 
     # u "(Oh, there she is)"
-    u "（哦，她来了）"
+    u "（哦，她在那儿）"
 
 # game/v3/v3.rpy:426
 translate chineses conl_445fa9ea:
@@ -460,7 +460,7 @@ translate chineses conl_3b6706e7:
 translate chineses conl_4ec2e3c0:
 
     # cl "Well, guess why I asked you to come to the gym."
-    cl "好啦，猜猜我为什么叫你到体育室来."
+    cl "那个，猜猜我为什么叫你到体育室来."
 
 # game/v3/v3.rpy:451
 translate chineses conl_04dd98a2:
@@ -478,25 +478,25 @@ translate chineses conl_25baca34:
 translate chineses conl_d57a272c:
 
     # cl "Wanna break into the gym with me?"
-    cl "想跟我闯闯体育室吗？"
+    cl "想跟我进去吗？"
 
 # game/v3/v3.rpy:463
 translate chineses conl_0c018ac5:
 
     # u "I am so down."
-    u "我完全同意。"
+    u "求之不得。"
 
 # game/v3/v3.rpy:477
 translate chineses conl_b2561454:
 
     # u "Woah, this is huge. But won't security see that the lights are on from outside?"
-    u "哇，好大一间。但保安不会注意到这里的灯亮了吗？"
+    u "哇，好大一间。但保安不会注意到这里的灯光吗？"
 
 # game/v3/v3.rpy:479
 translate chineses conl_a066df0b:
 
     # cl "I mean possibly, but where's the fun without the chance of getting caught?"
-    cl "我的意思是有可能，不过有机会被抓到不是更有趣吗？"
+    cl "有这个可能，不过有机会被抓到不是更有趣吗？"
 
 # game/v3/v3.rpy:481
 translate chineses conl_5e38262e:
@@ -508,25 +508,25 @@ translate chineses conl_5e38262e:
 translate chineses conl_cc7fbe03:
 
     # u "So... is this where you take every guy you meet?"
-    u "那...你每次都把你见过的男生带来这里吗？"
+    u "那...你每次都把认识的男生带到这儿来吗？"
 
 # game/v3/v3.rpy:491
 translate chineses conl_2bf91de3:
 
     # cl "Believe it or not, this is actually the first time I've done this."
-    cl "信不信由你，这事实上是我第一次这么做。"
+    cl "信不信由你，这实际上是我第一次这么做。"
 
 # game/v3/v3.rpy:496
 translate chineses conl_8539ae13:
 
     # u "Well now I feel honored."
-    u "哎呀，我现在倍感荣幸。"
+    u "哎呀，我真是倍感荣幸啊。"
 
 # game/v3/v3.rpy:501
 translate chineses conl_c239255d:
 
     # cl "As you should."
-    cl "你是应该的。"
+    cl "你是很幸运。"
 
 # game/v3/v3.rpy:505
 translate chineses conl_29b4bec9:
@@ -538,7 +538,7 @@ translate chineses conl_29b4bec9:
 translate chineses cq_a_550b0429:
 
     # u "So, is this the surprise? Breaking into the gym?"
-    u "那，这就是那个惊喜了？闯入体育室？"
+    u "那，这就是那个惊喜了？闯体育室？"
 
 # game/v3/v3.rpy:520
 translate chineses cq_a_3c052600:
@@ -550,13 +550,13 @@ translate chineses cq_a_3c052600:
 translate chineses cq_a_0717de8c:
 
     # u "No, I do. It's just... I never thought of breaking into the gym."
-    u "不，我喜欢。只是...我还从来没有想过要闯入体育室。"
+    u "不，我喜欢。只是...我还从来没有想过要闯体育室。"
 
 # game/v3/v3.rpy:530
 translate chineses cq_a_5d26808e:
 
     # cl "Really? You never wanted to have the whole gym to yourself? To do whatever you want?"
-    cl "真的？你从没想过独自享用整间体育室？来做任何你想要做的？"
+    cl "真的？你从没想过一个人使用整间体育室？来做你想要做的事？"
 
 # game/v3/v3.rpy:535
 translate chineses cq_a_b25ee3be:
@@ -574,7 +574,7 @@ translate chineses cq_a_a7dd3f3b:
 translate chineses cq_b_86792eeb:
 
     # cl "You know, I used to play volleyball in high school, you up for a challenge?"
-    cl "你知道吗，我曾在高中打过排球，你想来一次挑战吗？"
+    cl "你知道吗，我曾在高中打排球，你想来一次挑战吗？"
 
 # game/v3/v3.rpy:554
 translate chineses cq_b_213a59e4:
@@ -592,7 +592,7 @@ translate chineses cq_b_ccb52080:
 translate chineses cq_b_c8286472:
 
     # u "I'm sure you'll get me next time."
-    u "我肯定你下次会打败我的。"
+    u "我肯定你下次会赢的。"
 
 # game/v3/v3.rpy:650
 translate chineses cq_b_c47518cf:
@@ -604,19 +604,19 @@ translate chineses cq_b_c47518cf:
 translate chineses cq_b_2abd3fc6:
 
     # u "Oh I'll get you next time."
-    u "哦，我下次会打败你的。"
+    u "哦，我下次会赢的。"
 
 # game/v3/v3.rpy:666
 translate chineses cr_bd_f7a51d54:
 
     # cl "So there'll be a next time, huh?"
-    cl "那就是会有下次，呵？"
+    cl "那就是还会有下次，呵？"
 
 # game/v3/v3.rpy:681
 translate chineses cr_bd_e212e38e:
 
     # u "I certainly hope so."
-    u "我当然希望是啦。"
+    u "我当然希望是有。"
 
 # game/v3/v3.rpy:692
 translate chineses cr_bd_777d1d2b:
@@ -634,7 +634,7 @@ translate chineses cr_bd_5308a73f:
 translate chineses cr_bd_e21707ef:
 
     # cl "Shit! We need to hide, we're not allowed to be here."
-    cl "可恶！我们需要藏起来，我们是不允许来这里的。"
+    cl "可恶！快藏起来，我们是不允许来这里的。"
 
 # game/v3/v3.rpy:711
 translate chineses cr_bd_e416f008:
@@ -658,7 +658,7 @@ translate chineses cr_bd_53e843eb:
 translate chineses cr_bd_09d06ab8:
 
     # "*Click*"
-    "*卡嗒*"
+    "*咔嗒*"
 
 # game/v3/v3.rpy:733
 translate chineses cr_bd_46f3ea6c:
@@ -670,25 +670,25 @@ translate chineses cr_bd_46f3ea6c:
 translate chineses cr_bd_300d327b:
 
     # cl "Yeah, we should probably get out of here."
-    cl "是啊，我们大概应该逃出去了。"
+    cl "是啊，我们先出去再说。"
 
 # game/v3/v3.rpy:747
 translate chineses cr_bd_fc93144e:
 
     # cl "So, are we even now?"
-    cl "那，现在我们扯平了？"
+    cl "那，我们现在扯平了？"
 
 # game/v3/v3.rpy:752
 translate chineses cr_bd_f00b573d:
 
     # u "Yeah, we definitely are. We should do this again sometime."
-    u "是啊，我们一定算扯平了。我们有机会应该再来。"
+    u "是啊，我们绝对算扯平了。我们有时间应该再来一次。"
 
 # game/v3/v3.rpy:754
 translate chineses cr_bd_2520a71c:
 
     # u "Well, maybe not exactly this."
-    u "这个，也许不完全是这样。"
+    u "那个，也许不完全是跟今天一样。"
 
 # game/v3/v3.rpy:759
 translate chineses cr_bd_69597b38:
@@ -706,7 +706,7 @@ translate chineses cr_bd_3c2c7442:
 translate chineses cr_bd_3ed7e322:
 
     # cl "Bye, [name]."
-    cl "再见，[名字]。"
+    cl "拜，[名字]。"
 
 # game/v3/v3.rpy:768
 translate chineses cr_bd_6b69ffb3:
@@ -724,25 +724,25 @@ translate chineses cr_bd_5172a633:
 translate chineses cr_bd_66f675f1:
 
     # em "You're gonna have to go and get it."
-    em "你得从我这里抢去才行。"
+    em "你要就得从我这儿抢。"
 
 # game/v3/v3.rpy:793
 translate chineses cr_bd_a8ec3b98:
 
     # u "Oh, I'll get it."
-    u "哦，我会拿到的。"
+    u "哦，我会抢到的。"
 
 # game/v3/v3.rpy:808
 translate chineses cr_bd_547b0820:
 
     # em "Uhm, I don't think that's what you wanted to grab."
-    em "嗯，我不认为你想要抓那里。"
+    em "嗯，我不认为你想抓那里。"
 
 # game/v3/v3.rpy:813
 translate chineses cr_bd_be1a657f:
 
     # u "Oh, I think it is."
-    u "哦，我是想抓那儿。"
+    u "哦，我是想抓那里。"
 
 # game/v3/v3.rpy:834
 translate chineses cr_bd_e209a35e:
@@ -760,7 +760,7 @@ translate chineses cr_bd_921a112c:
 translate chineses cr_bd_148d796e:
 
     # em "[name], I did something bad."
-    em "[名字]，我做了些坏事。"
+    em "[名字]，我做了些不好的事。"
 
 # game/v3/v3.rpy:869
 translate chineses cr_bd_0dc0fc89:
@@ -784,7 +784,7 @@ translate chineses cr_bd_a70c6f6d:
 translate chineses cr_bd_ba03aa18:
 
     # u "NO! This is wrong. Just get out! Leave me alone!"
-    u "不！这是错的。你走！离我远点！"
+    u "不！这是错的。走开！离我远点！"
 
 # game/v3/v3.rpy:900
 translate chineses cr_bd_3fd3d76d:
@@ -796,7 +796,7 @@ translate chineses cr_bd_3fd3d76d:
 translate chineses cr_bd_7eeccac5:
 
     # imre "Wake up! It's time for training."
-    imre "快醒来！是时候去训练了。"
+    imre "该醒了！是时候去训练了。"
 
 # game/v3/v3.rpy:919
 translate chineses cr_bd_8b258704:
@@ -808,7 +808,7 @@ translate chineses cr_bd_8b258704:
 translate chineses cr_bd_e90ad591:
 
     # imre "You said you were gonna train with me."
-    imre "你说过你要跟我训练的。"
+    imre "你说过要跟我训练的。"
 
 # game/v3/v3.rpy:926
 translate chineses cr_bd_acf34453:
@@ -832,7 +832,7 @@ translate chineses cr_bd_2f52e5ce:
 translate chineses cr_bd_086919fc:
 
     # imre "Sports X, it's the cheapest gym in the area and it has basic fighting equipment."
-    imre "极限运动，这是这儿附近最便宜的健身房，而且它还有基本的拳击器械。"
+    imre "极限运动，这儿是附近最便宜的健身房，而且它还有基本的拳击器械。"
 
 # game/v3/v3.rpy:946
 translate chineses cr_bd_a4ef4c6e:
@@ -856,7 +856,7 @@ translate chineses cr_bd_3e5ce331:
 translate chineses cr_bd_6a03dbfb:
 
     # imre "You have to be a Wolf to train there. That's one of the reasons I can't wait to pledge, man."
-    imre "你得是一名饿狼才能在那儿训练。这就是我为什么等不及要入会的原因之一，哥们儿。"
+    imre "你得是会员才能在那儿训练。这就是我为什么等不及要入会的原因之一，哥们儿。"
 
 # game/v3/v3.rpy:966
 translate chineses cr_bd_22be2ff0:
@@ -868,7 +868,7 @@ translate chineses cr_bd_22be2ff0:
 translate chineses cr_bd_14d4cf42:
 
     # u "Come on, that's like 10 more days."
-    u "得了，那不过就10几天。"
+    u "得了吧，不过就还有10天而已。"
 
 # game/v3/v3.rpy:976
 translate chineses cr_bd_29273a9f:
@@ -880,25 +880,25 @@ translate chineses cr_bd_29273a9f:
 translate chineses cr_bd_9fc74789:
 
     # imre "Hey there, my friend would like a trial pass."
-    imre "嘿，我的朋友想要一张体验同行证。"
+    imre "嘿，我的朋友想要一张体验通行证。"
 
 # game/v3/v3.rpy:986
 translate chineses cr_bd_8440e24f:
 
     # li "Yeah, that's no problem. I just need an ID."
-    li "好啊，那没问题。我只是需要你的证件。"
+    li "好啊，没问题。我只需要你的证件。"
 
 # game/v3/v3.rpy:991
 translate chineses cr_bd_b2269c4f:
 
     # imre "So uh... girl, you single?"
-    imre "那呃...美女，你是单身吗？"
+    imre "那呃...美女，你单身吗？"
 
 # game/v3/v3.rpy:996
 translate chineses cr_bd_ae8ad83e:
 
     # u "Smooth..."
-    u "撩妹高手..."
+    u "高手..."
 
 # game/v3/v3.rpy:1001
 translate chineses cr_bd_838a2e5b:
@@ -910,25 +910,25 @@ translate chineses cr_bd_838a2e5b:
 translate chineses cr_bd_3db94bd4:
 
     # imre "Do you wanna maybe... you know, hang out sometime?"
-    imre "你想不想也许...你知道，什么时候一起去玩玩？"
+    imre "你想不想也许...你知道的，什么时候一起去玩？"
 
 # game/v3/v3.rpy:1011
 translate chineses cr_bd_498da520:
 
     # li "Hmmm... Do I wanna hang out with you?"
-    li "嗯...我想不想跟你一起玩玩呢？"
+    li "嗯...我想不想跟你一起玩？"
 
 # game/v3/v3.rpy:1013
 translate chineses cr_bd_b1e887f4:
 
     # li "On one hand..."
-    li "一方面来说..."
+    li "从一方面来说..."
 
 # game/v3/v3.rpy:1014
 translate chineses cr_bd_4f793aa2:
 
     # li "You seem like a barely-legal-age wannabe jock that hits on any and every girl he sees, regardless of how appropriate or welcome it is."
-    li "你看来像个还未成年，一心想成为见一个爱一个的猛男，即使那样做是不合适或不受欢迎的。"
+    li "你看起来像个还未成年，一心想成为见一个爱一个的渣男，即使那样做很不合适，也很不受欢迎。"
 
 # game/v3/v3.rpy:1016
 translate chineses cr_bd_a72db001:
@@ -940,7 +940,7 @@ translate chineses cr_bd_a72db001:
 translate chineses cr_bd_549cbcb0:
 
     # li "No, actually that's it."
-    li "不对，没有另一面了。"
+    li "不，没有另一面了。"
 
 # game/v3/v3.rpy:1023
 translate chineses cr_bd_6a54ad46:
@@ -964,7 +964,7 @@ translate chineses cr_bd_55cb65d0:
 translate chineses cr_bd_5b5e6497:
 
     # u "It's interesting how you always find new ways to make women uncomfortable."
-    u "你始终能够找到新办法来让女孩子感到不舒服，这还真有趣。"
+    u "你始终能找到新法子来让女孩子感到不舒服，这还真有趣。"
 
 # game/v3/v3.rpy:1043
 translate chineses cr_bd_dd7e7412:
@@ -976,7 +976,7 @@ translate chineses cr_bd_dd7e7412:
 translate chineses cr_bd_9c25b5e4:
 
     # imre "Think about how many girls you could have had if you didn't pussy out everytime."
-    imre "想想要是你不每次都怂了的话，那你能得到多少女孩子的芳心啊。"
+    imre "想想看要不是你每次都怂了的话，那你能得到多少女孩子的芳心啊。"
 
 # game/v3/v3.rpy:1050
 translate chineses cr_bd_76046c5e:
@@ -988,7 +988,7 @@ translate chineses cr_bd_76046c5e:
 translate chineses cr_bd_6aaac884:
 
     # imre "You know what? Never mind, player."
-    imre "你知道什么？算了，花花公子。"
+    imre "好了好了。算了，玩家。"
 
 # game/v3/v3.rpy:1059
 translate chineses cr_bd_88f06d34:
@@ -1000,49 +1000,49 @@ translate chineses cr_bd_88f06d34:
 translate chineses cw_a_189777f9:
 
     # imre "*Laughs* Great first move, flawless execution."
-    imre "*大笑*先手很好，完美施展。"
+    imre "*大笑*出招很好，完美施展。"
 
 # game/v3/v3.rpy:1095
 translate chineses cw_a_3586bb88:
 
     # imre "How about we start with the basics? Do you know how to throw a hook, jab and kick?"
-    imre "我们从基础开始怎样？你知道怎样打出勾拳，直拳和踢腿吗？"
+    imre "我们从基础开始怎样？你知道怎么打出勾拳，直拳和踢腿吗？"
 
 # game/v3/v3.rpy:1100
 translate chineses cw_a_0c0a6182:
 
     # u "Uhm yeah, sure."
-    u "嗯是的，当然。"
+    u "嗯是啊，当然知道。"
 
 # game/v3/v3.rpy:1145
 translate chineses cw_b_0e2a9c39:
 
     # imre "Alriiight. It wasn't exactly perfect form, but it's pretty good for a beginner."
-    imre "好的。形式还不完美，不过对于初学者来说已经很不错了。"
+    imre "好吧。架式还不完美，不过对于初学者来说已经很不错了。"
 
 # game/v3/v3.rpy:1147
 translate chineses cw_b_934009a2:
 
     # imre "Let me just go take a piss and we can get to work when I'm back."
-    imre "让我去撒泡尿，我回来之后就可以开始训练了。"
+    imre "让我去撒泡尿，我回来之后再开始。"
 
 # game/v3/v3.rpy:1152
 translate chineses cw_b_6ef4da5d:
 
     # u "Okay, sounds good."
-    u "好，听起来不错。"
+    u "好的，听起来不错。"
 
 # game/v3/v3.rpy:1157
 translate chineses cw_b_c9d82dab:
 
     # u "(Why do people come here so early in the morning just to work out?)"
-    u "（为什么有人在早晨这么早就来这里健身？）"
+    u "（为什么有人一大早就来这儿健身？）"
 
 # game/v3/v3.rpy:1164
 translate chineses cw_b_aaeba228:
 
     # u "(Isn't that the cute store clerk from the costume shop?)"
-    u "（那不是在戏服店的那个可爱的商店店员吗？）"
+    u "（那不是在戏服店工作的那位可爱的店员吗？）"
 
 # game/v3/v3.rpy:1174
 translate chineses cx_a_6405b247:
@@ -1054,31 +1054,31 @@ translate chineses cx_a_6405b247:
 translate chineses cx_a_8370dc32:
 
     # ev "Yeah, and you're the kid that still calls it a costume shop even though I thoroughly explained that it's just a regular clothing shop now."
-    ev "是啊，而你就是那个任然把那商店叫做戏服店的小子，虽然我已经很全面的解释过了那只是普通的服装店。"
+    ev "是啊，而你就是那个任然把那家店铺叫戏服店的小子，虽然我已经很完整的解释过了那只是间普通的服装店。"
 
 # game/v3/v3.rpy:1184
 translate chineses cx_a_f1c513ec:
 
     # u "Look, I think you're quite cute and my friend thinks I chicken out when it comes to girls..."
-    u "听着，我觉得你很可爱而我的朋友老是说我在美女面前就怂了..."
+    u "听着，我觉得你很可爱而我的朋友老是说我在美女面很怂..."
 
 # game/v3/v3.rpy:1186
 translate chineses cx_a_9b88e00e:
 
     # u "Is there any chance I could get your number?"
-    u "我有机会能拿到你的手机号吗？"
+    u "我有机会能要到你的手机号吗？"
 
 # game/v3/v3.rpy:1191
 translate chineses cx_a_4251955d:
 
     # ev "I'm very flattered, but I'm 25 and you seem a bit too young for me."
-    ev "我感到很荣幸，但我已经25了而你看上去好像有点太年轻了。"
+    ev "我感到很荣幸，但我已经25了而你看上去好像有点太嫩了些。"
 
 # game/v3/v3.rpy:1196
 translate chineses cx_a_c7a9cc52:
 
     # u "Give me one date to change your mind."
-    u "给我一次约会来改变你的心。"
+    u "跟我约会一次，我会改变你的想法。"
 
 # game/v3/v3.rpy:1198
 translate chineses cx_a_76b147b2:
@@ -1156,7 +1156,7 @@ translate chineses cx_a_a13f14ef:
 translate chineses cx_a_f557a3ac:
 
     # u "How about I'll wear the costume I bought yesterday for our entire date?"
-    u "我会穿着我昨天买的戏服去赴约，怎样？"
+    u "我会穿着我买的戏服去赴约，怎样？"
 
 # game/v3/v3.rpy:1258
 translate chineses cx_a_ca334630:
@@ -1216,19 +1216,19 @@ translate chineses cx_ad_c2eb341d:
 translate chineses cx_ad_ccfdd94e:
 
     # u "Enough human decency so fighting becomes an unnecessary relic of the past?"
-    u "足够的人类礼仪让打斗成为了古代的多余遗物。"
+    u "过多的人类礼教让打斗成为了没用的古代遗物。"
 
 # game/v3/v3.rpy:1303
 translate chineses cx_ad_14275025:
 
     # imre "No, body shots. "
-    imre "不，身体攻击。"
+    imre "不，上身攻击。"
 
 # game/v3/v3.rpy:1305
 translate chineses cx_ad_8b5c7e8a:
 
     # imre "Hitting your opponent's body will leave them out of breath and in pain."
-    imre "击中你对手的身体会让他们上气不接下气和疼痛。"
+    imre "击中你对手的上身会让他们痛得上气不接下气。"
 
 # game/v3/v3.rpy:1307
 translate chineses cx_ad_2030526a:
@@ -1240,7 +1240,7 @@ translate chineses cx_ad_2030526a:
 translate chineses cx_ad_bfbe325a:
 
     # u "Alright. Show me how."
-    u "好的。展示给我看。"
+    u "好吧。给我演示下。"
 
 # game/v3/v3.rpy:1317
 translate chineses cx_ad_824e72d3:
@@ -1264,7 +1264,7 @@ translate chineses cx_ad_37fe551f:
 translate chineses cx_ad_94fbb147:
 
     # imre "Great job! Try it again."
-    imre "做得好！再试。"
+    imre "做得好！再试一次。"
 
 # game/v3/v3.rpy:1365
 translate chineses cx_ad_d3003fe6:
@@ -1276,7 +1276,7 @@ translate chineses cx_ad_d3003fe6:
 translate chineses cx_ad_37246246:
 
     # imre "Yeah, no worries. Let me know if you wanna come with me next time as well."
-    imre "是啊，没问题。告诉我如果你下次也想跟我一起来。"
+    imre "是啊，不用谢。叫上我如果你下次还想一起训练的话。"
 
 # game/v3/v3.rpy:1375
 translate chineses cx_ad_e613cabf:
@@ -1288,7 +1288,7 @@ translate chineses cx_ad_e613cabf:
 translate chineses repeatk_58d01580:
 
     # u "(I should probably check my phone.)"
-    u "（我大概应该查我的手机。）"
+    u "（我该查看我的手机。）"
 
 # game/v3/v3.rpy:1403
 translate chineses repeatk_54591f14:
@@ -1300,13 +1300,13 @@ translate chineses repeatk_54591f14:
 translate chineses repeatk_7efdfdd7:
 
     # imre "A booty call this early in the day? Respect, my man."
-    imre "这么早就被约炮？尊敬啊，我的哥们儿。"
+    imre "这么早就被约炮？致敬，我的哥们儿。"
 
 # game/v3/v3.rpy:1413
 translate chineses repeatk_8321eaa9:
 
     # u "Imre, not everything is about sex, haha. I'll see you later."
-    u "伊姆雷，不是每件事都是性交，哈哈。我们待会儿见。"
+    u "伊姆雷，不是每件事都跟啪啪有关，哈哈。我们待会儿见。"
 
 # game/v3/v3.rpy:1418
 translate chineses repeatk_ecfbdaa5:
