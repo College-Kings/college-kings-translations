@@ -988,7 +988,7 @@ translate chineses cr_bd_76046c5e:
 translate chineses cr_bd_6aaac884:
 
     # imre "You know what? Never mind, player."
-    imre "好了好了。算了，玩家。"
+    imre "好了好了。算了，大玩家。"
 
 # game/v3/v3.rpy:1059
 translate chineses cr_bd_88f06d34:
