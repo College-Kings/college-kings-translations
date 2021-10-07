@@ -838,1483 +838,1483 @@ translate polish jucon1_66f145da:
 translate polish jucon2_e72adabb:
 
     # ju "You know, I haven't been shopping in quite some time, this is gonna be fun."
-    ju ""
+    ju "Wiesz, nie robiłem zakupów od dłuższego czasu, będzie fajnie."
 
 # game/v4/v4.rpy:805
 translate polish jucon2_58c1231e:
 
     # ju "If you find something you like, just let me know, I'll pay for it. I know how tight money can be as a student."
-    ju ""
+    ju "Jeśli znajdziesz coś, co ci się podoba, daj mi znać, zapłacę za to. Wiem, jak to jest z pieniędzmi na studiach."
 
 # game/v4/v4.rpy:810
 translate polish jucon2_50ea96b7:
 
     # u "You don't have to do that..."
-    u ""
+    u "Nie musisz tego robić..."
 
 # game/v4/v4.rpy:815
 translate polish jucon2_d4594983:
 
     # ju "It's fine, honey. You wouldn't believe all the things I did for money when I was a student."
-    ju ""
+    ju "Nie martw się, kochanie. Nie uwierzyłbyś jakie rzeczy ja robiłam dla pieniędzy, kiedy byłam studentką."
 
 # game/v4/v4.rpy:817
 translate polish jucon2_c7058b1e:
 
     # ju "Let's go find you some nice clothes."
-    ju ""
+    ju "Chodźmy poszukać ci jakichś ładnych ubrań."
 
 # game/v4/v4.rpy:822
 translate polish jucon2_578d788b:
 
     # ju "What do you think of this one, honey?"
-    ju ""
+    ju "A co powiesz na tę, skarbie?"
 
 # game/v4/v4.rpy:829
 translate polish jucon2_e2f5cedf:
 
     # u "Yeah, I like it."
-    u ""
+    u "Podoba mi się."
 
 # game/v4/v4.rpy:834
 translate polish jucon2_4fa5e83c:
 
     # ju "How about you try it on and if I find anything else nice I'll bring it to you?"
-    ju ""
+    ju "Może ją przymierzysz, a jeśli znajdę jeszcze coś fajnego, to ci to przyniosę?"
 
 # game/v4/v4.rpy:839
 translate polish jucon2_887286e2:
 
     # u "Okay, sure."
-    u ""
+    u "W porządku."
 
 # game/v4/v4.rpy:848
 translate polish jucon2_4f1997c1:
 
     # "*Knock knock knock*"
-    ""
+    "*Puk puk puk*"
 
 # game/v4/v4.rpy:853
 translate polish jucon2_d8cd3e8c:
 
     # ju "Honey, you in there?"
-    ju ""
+    ju "Kochanie, jesteś tam?"
 
 # game/v4/v4.rpy:858
 translate polish jucon2_4be38f15:
 
     # u "Yeah, just wai-"
-    u ""
+    u "Tak, zaraz wyjdę, zacze-"
 
 # game/v4/v4.rpy:863
 translate polish jucon2_1c4fa12e:
 
     # ju "I found you a nice sweater that you might like."
-    ju ""
+    ju "Znalazłam ładny sweter, który może ci się spodobać."
 
 # game/v4/v4.rpy:868
 translate polish jucon2_3d50e221:
 
     # u "Uhm.. thanks."
-    u ""
+    u "Uhm.. dzięki."
 
 # game/v4/v4.rpy:873
 translate polish jucon2_c189262a:
 
     # u "You didn't even leave me time to try this one on though."
-    u ""
+    u "Ale nawet nie dałaś mi czasu na przymierzenie tego."
 
 # game/v4/v4.rpy:878
 translate polish jucon2_6c59b8bc:
 
     # ju "Well do it now, I wanna see what it looks like on you."
-    ju ""
+    ju "Więc przymierz ją teraz, chcę zobaczyć, jak na tobie leży."
 
 # game/v4/v4.rpy:883
 translate polish jucon2_5aae6f78:
 
     # ju "You've put on a bit of muscle, honey."
-    ju ""
+    ju "Trochę przypakowałeś, skarbie."
 
 # game/v4/v4.rpy:888
 translate polish jucon2_16f5775e:
 
     # u "Uhm... thanks."
-    u ""
+    u "Uhm... dzięki."
 
 # game/v4/v4.rpy:893
 translate polish jucon2_0f93c712:
 
     # ju "Wow, it looks great! What do you think, honey?"
-    ju ""
+    ju "Wow, wygląda świetnie! A ty co myślisz, kochanie?"
 
 # game/v4/v4.rpy:898
 translate polish jucon2_ce7ddc93:
 
     # u "Yeah, it looks good. It's just a bit tight around the neck."
-    u ""
+    u "Tak, wygląda dobrze, ale trochę uciska mnie w szyję."
 
 # game/v4/v4.rpy:903
 translate polish jucon2_af1d815f:
 
     # ju "That's because you didn't adjust the collar correctly."
-    ju ""
+    ju "To dlatego, że musisz wyregulować sobie kołnierz."
 
 # game/v4/v4.rpy:908
 translate polish jucon2_c245e5cf:
 
     # ju "Here, let me help you."
-    ju ""
+    ju "Daj, pomogę ci."
 
 # game/v4/v4.rpy:913
 translate polish jucon2_052fe8ee:
 
     # ju "How's that?"
-    ju ""
+    ju "A teraz?"
 
 # game/v4/v4.rpy:918
 translate polish jucon2_552b00d2:
 
     # u "Yeah, that's better. Thanks."
-    u ""
+    u "Tak jest lepiej. Dziękuję."
 
 # game/v4/v4.rpy:923
 translate polish jucon2_77ef8948:
 
     # ju "Okay, I'm gonna look around some more. Let me know when you're ready to buy something."
-    ju ""
+    ju "Dobra, jeszcze trochę się rozejrzę. Daj mi znać, kiedy zdecydujesz, co chcesz kupić."
 
 # game/v4/v4.rpy:928
 translate polish jucon2_b8911521:
 
     # u "Alright."
-    u ""
+    u "W porządku."
 
 # game/v4/v4.rpy:933
 translate polish jucon2_cdce257a:
 
     # u "Julia, you ready to go?"
-    u ""
+    u "Julia, jesteś gotowa?"
 
 # game/v4/v4.rpy:944
 translate polish jucon2_9bc8e04b:
 
     # ju "Honey, didn't you say you played volleyball with uhh... Chloe, was it?"
-    ju ""
+    ju "Kochanie, czy nie mówiłeś, że grałeś w siatkówkę z uchh... Chloe, tak?"
 
 # game/v4/v4.rpy:949
 translate polish jucon2_c9849583:
 
     # ju "Wouldn't that make a great gift for her?"
-    ju ""
+    ju "Czy to nie byłby wspaniały prezent dla niej?"
 
 # game/v4/v4.rpy:958
 translate polish jucon2_dd3b9566:
 
     # u "Yeah, you're right. Maybe I could give it to her when we talk about what Ryan said."
-    u ""
+    u "Tak, masz rację. Może mógłbym jej to dać, kiedy będziemy rozmawiać o tym, co powiedział Ryan."
 
 # game/v4/v4.rpy:960
 translate polish jucon2_96515001:
 
     # ju "That's a great idea, honey."
-    ju ""
+    ju "To świetny pomysł, kochanie."
 
 # game/v4/v4.rpy:964
 translate polish jucon2_86d15637:
 
     # u "Uhm... I don't know. I wanna talk to her about what Ryan said first."
-    u ""
+    u "Uhm... sam nie wiem. Chcę z nią najpierw porozmawiać o tym, co powiedział Ryan."
 
 # game/v4/v4.rpy:966
 translate polish jucon2_c468fbd4:
 
     # ju "Alright, honey. It was just an idea."
-    ju ""
+    ju "W porządku, kochanie. To była tylko sugestia."
 
 # game/v4/v4.rpy:974
 translate polish jucon2_873da541:
 
     # u "(Chloe would probably love this volleyball.)"
-    u ""
+    u "(Chloe pewnie spodobałaby się ta piłka.)"
 
 # game/v4/v4.rpy:983
 translate polish jucon2_fa9a4ce8:
 
     # u "Hold up, Julia. I wanna buy this volleyball as gift for... a friend."
-    u ""
+    u "Julia, zaczekaj. Chcę kupić tę piłkę jako prezent dla... przyjaciółki."
 
 # game/v4/v4.rpy:985
 translate polish jucon2_a858ee3d:
 
     # ju "Alright, honey."
-    ju ""
+    ju "W porządku, kochanie."
 
 # game/v4/v4.rpy:990
 translate polish jucon2_056e1a90:
 
     # u "(I should probably talk to her about what Ryan said first and clear things up.)"
-    u ""
+    u "(Chyba powinienem najpierw porozmawiać z nią o tym, co powiedział Ryan i wyjaśnić sprawę.)"
 
 # game/v4/v4.rpy:998
 translate polish dv_cd_fe0c7159:
 
     # clerk "Hey there, would you like a bag with that?"
-    clerk ""
+    clerk "Dzień dobry, czy doliczyć do tego reklamówkę?"
 
 # game/v4/v4.rpy:1003
 translate polish dv_cd_155cd35b:
 
     # u "No, it's fine, thanks. Can I pay by card, please."
-    u ""
+    u "Nie, dziękuję. Czy mogę zapłacić kartą?"
 
 # game/v4/v4.rpy:1007
 translate polish dv_cd_562f7968:
 
     # clerk "That's $10.90, please."
-    clerk ""
+    clerk "To będzie $10,90."
 
 # game/v4/v4.rpy:1017
 translate polish dv_cd_5c54fb34:
 
     # clerk "Thank you. Have a nice day."
-    clerk ""
+    clerk "Dziękuję. Życzę miłego dnia."
 
 # game/v4/v4.rpy:1028
 translate polish dv_dd_abd1a67a:
 
     # ju "Thanks for coming along, honey. It was really nice to see you."
-    ju ""
+    ju "Dzięki za spotkanie, kochanie. Miło było cię zobaczyć."
 
 # game/v4/v4.rpy:1033
 translate polish dv_dd_54ce5dbe:
 
     # u "Yeah Julia, it was fun. I'll see you again soon."
-    u ""
+    u "Tak Julio, było fajnie. Do zobaczenia wkrótce."
 
 # game/v4/v4.rpy:1039
 translate polish dv_dd_43eb36e2:
 
     # u "(Damn, I still need to finish my essay on transition slides...)"
-    u ""
+    u "(Cholera, wciąż muszę dokończyć swój esej...)"
 
 # game/v4/v4.rpy:1044
 translate polish dv_dd_a62428b2:
 
     # u "(Alright, all finished.)"
-    u ""
+    u "(Dobra, skończyłem.)"
 
 # game/v4/v4.rpy:1051
 translate polish dv_dd_598c9d7c:
 
     # u "(I should text Chloe and see if she wants to meet up... I need to find out if there's any truth in what Ryan said.)"
-    u ""
+    u "(Powinienem napisać do Chloe i zobaczyć, czy chce się spotkać... Muszę się dowiedzieć, czy w tym, co powiedział Ryan, jest jakaś prawda.)"
 
 # game/v4/v4.rpy:1064
 translate polish phonev_af61a800:
 
     # u "(I should message Chloe about meeting up later.)"
-    u ""
+    u "(Powinienem napisać do Chloe, że musimy się później spotkać.)"
 
 # game/v4/v4.rpy:1070
 translate polish phonev_8bd166bb:
 
     # u "(Shit, I just remembered that I still need a book for Ms. Rose's class...)"
-    u ""
+    u "(Ja pierdolę, właśnie sobie przypomniałem, że wciąż potrzebuję książkę na zajęcia z panią Rose...)"
 
 # game/v4/v4.rpy:1072
 translate polish phonev_d72cab90:
 
     # u "(The library should have it.)"
-    u ""
+    u "(Powinna być w bibliotece.)"
 
 # game/v4/v4.rpy:1086
 translate polish phonev_99651266:
 
     # u "(\"Economics Now\"... where are you?)"
-    u ""
+    u "(\"Ekonomia Współczesna\"... gdzie jesteś?)"
 
 # game/v4/v4.rpy:1088
 translate polish phonev_9823f80c:
 
     # u "(There it is. I guess I'll sit down and get start on it.)"
-    u ""
+    u "(Tutaj jest. Chyba usiądę i zacznę czytać.)"
 
 # game/v4/v4.rpy:1093
 translate polish phonev_49a45306:
 
     # u "(Oh that's Lauren's sister Autumn...)"
-    u ""
+    u "(Och, to siostra Lauren, Autumn...)"
 
 # game/v4/v4.rpy:1098
 translate polish phonev_505428d0:
 
     # u "(Hopefully Lauren didn't tell her about what happened...)"
-    u ""
+    u "(Mam nadzieję, że Lauren nie powiedziała jej o tym, co się stało...)
 
 # game/v4/v4.rpy:1103
 translate polish phonev_42ce5b24:
 
     # u "Uhm... hey Autumn."
-    u ""
+    u "Uhm... hej Autumn."
 
 # game/v4/v4.rpy:1113
 translate polish phonev_73d4bab3:
 
     # aut "Please leave me alone..."
-    aut ""
+    aut "Proszę, zostaw mnie w spokoju..."
 
 # game/v4/v4.rpy:1120
 translate polish phonev_a9677e88:
 
     # u "I'm sorry and I can see why Lauren would be upset."
-    u ""
+    u "Przepraszam i rozumiem dlaczego Lauren jest zła."
 
 # game/v4/v4.rpy:1122
 translate polish phonev_59daf5a4:
 
     # u "But... I can't change what happened, I was just trying to be honest."
-    u ""
+    u "Ale... nie mogę zmienić tego, co się stało, po prostu starałem się być szczery."
 
 # game/v4/v4.rpy:1124
 translate polish phonev_8bc25f99:
 
     # u "You have to believe me. I care about Lauren, I'd never do anything to hurt her."
-    u ""
+    u "Musisz mi uwierzyć. Zależy mi na Lauren, nigdy nie zrobiłbym czegoś, co by ją skrzywdziło."
 
 # game/v4/v4.rpy:1132
 translate polish phonev_3c911d4c:
 
     # aut "Hm... I know you guys weren't serious or anything yet."
-    aut ""
+    aut "Hm... wiem, że to jeszcze nie był poważny związek."
 
 # game/v4/v4.rpy:1134
 translate polish phonev_93e43444:
 
     # aut "But... you really hurt Lauren."
-    aut ""
+    aut "Ale... naprawdę skrzywdziłeś Lauren."
 
 # game/v4/v4.rpy:1139
 translate polish phonev_a7167818:
 
     # u "I know and I'm really sorry. It won't happen again, I promise."
-    u ""
+    u "Wiem i naprawdę przepraszam. To się więcej nie powtórzy, obiecuję."
 
 # game/v4/v4.rpy:1144
 translate polish phonev_7aae18fa:
 
     # aut "I believe you. At least you were honest about it and I don't think many guys would be."
-    aut ""
+    aut "Wierzę ci. Przynajmniej byłeś szczery, a nie sądzę, żeby byłu wielu takich facetów."
 
 # game/v4/v4.rpy:1146
 translate polish phonev_a3e3618e:
 
     # aut "I'll talk to Lauren about it."
-    aut ""
+    aut "Porozmawiam o tym z Lauren."
 
 # game/v4/v4.rpy:1151
 translate polish phonev_d11ab6e4:
 
     # u "Thank you. Does that mean I can keep sitting here?"
-    u ""
+    u "Dziękuję. Czy to oznacza, że mogę tu siedzieć?"
 
 # game/v4/v4.rpy:1156
 translate polish phonev_337ce757:
 
     # aut "Yeah, I guess."
-    aut ""
+    aut "Chyba tak."
 
 # game/v4/v4.rpy:1165
 translate polish phonev_e865d20c:
 
     # au "Right. Well actions speak louder than words, [name]."
-    au ""
+    au "Cóż, liczą się czyny, nie słowa, [name]."
 
 # game/v4/v4.rpy:1167
 translate polish phonev_fd78a9c5:
 
     # au "Now please leave me alone."
-    au ""
+    au "A teraz, proszę zostaw mnie w spokoju."
 
 # game/v4/v4.rpy:1172
 translate polish phonev_3a538381:
 
     # u "Fine. I'll sit somewhere else."
-    u ""
+    u "W porządku. Usiądę gdzie indziej."
 
 # game/v4/v4.rpy:1185
 translate polish phonev_505428d0_1:
 
     # u "(Hopefully Lauren didn't tell her about what happened...)"
-    u ""
+    u "(Mam nadzieję, że Lauren nie powiedziała jej o tym, co się stało...)"
 
 # game/v4/v4.rpy:1190
 translate polish phonev_42ce5b24_1:
 
     # u "Uhm... hey Autumn."
-    u ""
+    u "Uhm... hej Autumn."
 
 # game/v4/v4.rpy:1199
 translate polish phonev_a33f90ea:
 
     # aut "Go away, creep."
-    aut ""
+    aut "Odejdź, zboczeńcu."
 
 # game/v4/v4.rpy:1206
 translate polish phonev_42928bfa:
 
     # u "I'm sorry and I understand why Lauren is upset."
-    u ""
+    u "Przepraszam i rozumiem dlaczego Lauren jest zła."
 
 # game/v4/v4.rpy:1208
 translate polish phonev_82ef0373:
 
     # u "I just got carried away in the moment... I never meant to make her uncomfortable."
-    u ""
+    u "Po prostu dałem się ponieść chwili... Nigdy nie chciałem, żeby poczuła się niezręcznie."
 
 # game/v4/v4.rpy:1210
 translate polish phonev_8bc25f99_1:
 
     # u "You have to believe me. I care about Lauren, I'd never do anything to hurt her."
-    u ""
+    u "Musisz mi uwierzyć. Zależy mi na Lauren, nigdy nie zrobiłbym czegoś, co by ją skrzywdziło."
 
 # game/v4/v4.rpy:1219
 translate polish phonev_3e6b49b9:
 
     # aut "[name]... I don't know."
-    aut ""
+    aut "[name]... Sama nie wiem."
 
 # game/v4/v4.rpy:1221
 translate polish phonev_683cd2be:
 
     # aut "What you did was really messed up... you should have stopped when she told you to."
-    aut ""
+    aut "To, co zrobiłeś, było naprawdę popieprzone... powinieneś był przestać, kiedy ci kazała."
 
 # game/v4/v4.rpy:1226
 translate polish phonev_0c87bd9b:
 
     # u "I know and I'm really sorry. I'll never do anything like that again, I promise."
-    u ""
+    u "Wiem i naprawdę przepraszam. Nigdy więcej nie zrobię czegoś takiego, obiecuję."
 
 # game/v4/v4.rpy:1231
 translate polish phonev_e0e1e82f:
 
     # aut "Hmmm... I mean I can understand that stuff like this can happen. It's just..."
-    aut ""
+    aut "Hmmm... Mam na myśli, że rozumiem, że takie rzeczy mogą się zdarzyć. Po prostu..."
 
 # game/v4/v4.rpy:1233
 translate polish phonev_d4c69cbb:
 
     # aut "You know what? I'll talk to Lauren about it."
-    aut ""
+    aut "Wiesz co? Porozmawiam o tym z Lauren."
 
 # game/v4/v4.rpy:1238
 translate polish phonev_d11ab6e4_1:
 
     # u "Thank you. Does that mean I can keep sitting here?"
-    u ""
+    u "Dziękuję. Czy to oznacza, że mogę tu siedzieć?"
 
 # game/v4/v4.rpy:1243
 translate polish phonev_2ca338bb:
 
     # aut "Yeah, alright."
-    aut ""
+    aut "W porządku."
 
 # game/v4/v4.rpy:1253
 translate polish phonev_2dae989f:
 
     # aut "Right. Well actions speak louder than words, [name]."
-    aut ""
+    aut "Cóż, liczą się czyny, nie słowa, [name]."
 
 # game/v4/v4.rpy:1255
 translate polish phonev_ca1a06a6:
 
     # aut "Now please leave me alone."
-    aut ""
+    aut "A teraz, proszę zostaw mnie w spokoju."
 
 # game/v4/v4.rpy:1260
 translate polish phonev_3a538381_1:
 
     # u "Fine. I'll sit somewhere else."
-    u ""
+    u "W porządku. Usiądę gdzie indziej."
 
 # game/v4/v4.rpy:1275
 translate polish phonev_42ce5b24_2:
 
     # u "Uhm... hey Autumn."
-    u ""
+    u "Uhm... hej Autumn."
 
 # game/v4/v4.rpy:1285
 translate polish phonev_833ebfe4:
 
     # aut "Hey, [name]. Haven't seen you in a while."
-    aut ""
+    aut "Hej, [name]. Dawno się nie widzieliśmy."
 
 # game/v4/v4.rpy:1290
 translate polish phonev_c0366a58:
 
     # u "You mean since you rescued me from Cameron?"
-    u ""
+    u "Masz na myśli odkąd uratowałaś mnie przed Cameronem?"
 
 # game/v4/v4.rpy:1295
 translate polish phonev_991b0d48:
 
     # aut "Well, I wasn't gonna put it like that."
-    aut ""
+    aut "Cóż, nie zamierzałam tego tak ujmować."
 
 # game/v4/v4.rpy:1300
 translate polish phonev_56eac2c1:
 
     # u "Haha it's okay, I'm still grateful. Do you mind if I sit down?"
-    u ""
+    u "Haha w porządku, nadal jestem ci wdzięczny. Nie masz nic przeciwko, jeśli tu usiądę?"
 
 # game/v4/v4.rpy:1305
 translate polish phonev_69f80e4d:
 
     # aut "Not at all."
-    aut ""
+    aut "Ani trochę."
 
 # game/v4/v4.rpy:1314
 translate polish phonev_42ce5b24_3:
 
     # u "Uhm... hey Autumn."
-    u ""
+    u "Uhm... hej Autumn."
 
 # game/v4/v4.rpy:1324
 translate polish phonev_7d3309ee:
 
     # aut "Hey, [name]. I heard you went on a date with my sister last night."
-    aut ""
+    aut "Hej, [name]. Słyszałam, że wczoraj wieczorem poszedłeś na randkę z moją siostrą."
 
 # game/v4/v4.rpy:1326
 translate polish phonev_9f497fcc:
 
     # aut "How was it?"
-    aut ""
+    aut "I jak było?"
 
 # game/v4/v4.rpy:1331
 translate polish phonev_93fbfeff:
 
     # u "Yeah, it was good. We had a lot of fun."
-    u ""
+    u "To prawda, było dobrze. Świetnie się bawiliśmy."
 
 # game/v4/v4.rpy:1333
 translate polish phonev_92b0d7cb:
 
     # u "Do you mind if I sit down?"
-    u ""
+    u "Nie masz nic przeciwko, jeśli tu usiądę?"
 
 # game/v4/v4.rpy:1338
 translate polish phonev_69f80e4d_1:
 
     # aut "Not at all."
-    aut ""
+    aut "Ani trochę.
 
 # game/v4/v4.rpy:1347
 translate polish ea_b_3a538381:
 
     # u "Fine. I'll sit somewhere else."
-    u ""
+    u "W porządku. Usiądę gdzie indziej."
 
 # game/v4/v4.rpy:1358
 translate polish autumnsita_30dd3439:
 
     # aut "So uhm... what happened to your eye?"
-    aut ""
+    aut "Więc uhm... co się stało z twoim okiem?"
 
 # game/v4/v4.rpy:1363
 translate polish autumnsita_5b5af44b:
 
     # u "Oh, you know Grayson? He punched me at the Ape's rush party."
-    u ""
+    u "Och, znasz Graysona? Uderzył mnie na imprezie u Małp."
 
 # game/v4/v4.rpy:1368
 translate polish autumnsita_83745215:
 
     # aut "Oh god, I'm so sorry."
-    aut ""
+    aut "O Boże, tak mi przykro."
 
 # game/v4/v4.rpy:1373
 translate polish autumnsita_46fbbddb:
 
     # u "Yeah, it's okay."
-    u ""
+    u "Nic się nie stało."
 
 # game/v4/v4.rpy:1375
 translate polish autumnsita_de379c05:
 
     # u "What are you uhm, studying for?"
-    u ""
+    u "Do czego się uczysz?"
 
 # game/v4/v4.rpy:1380
 translate polish autumnsita_a6156a17:
 
     # aut "Well, I'm doing political science and I volunteered to write an essay on the government's contradictive stance on the feminist movement for extra credit."
-    aut ""
+    aut "Cóż, zajmuję się politologią i zgłosiłam się na ochotnika do napisania eseju na temat sprzecznego stanowiska rządu w sprawie ruchu feministycznego za dodatkową ocenę."
 
 # game/v4/v4.rpy:1385
 translate polish autumnsita_88f635f4:
 
     # u "Ahhh... go women, right?"
-    u ""
+    u "Achhh... kobiety górą, tak?"
 
 # game/v4/v4.rpy:1390
 translate polish autumnsita_d23d679f:
 
     # aut "Haha, yeah. Go women, well put."
-    aut ""
+    aut "Haha, tak. Kobiety górą, dobrze powiedziane."
 
 # game/v4/v4.rpy:1395
 translate polish autumnsita_5d959a82:
 
     # u "So what do you do when you're not in the library?"
-    u ""
+    u "A co robisz, kiedy nie ma cię w bibliotece?"
 
 # game/v4/v4.rpy:1400
 translate polish autumnsita_dbfb84cd:
 
     # aut "Well... I play lacrosse, I volunteer at the local dog shelter and I smoke weed."
-    aut ""
+    aut "No cóż... gram w lacrosse, jestem wolontariuszką w miejscowym schronisku dla psów i palę trawkę."
 
 # game/v4/v4.rpy:1405
 translate polish autumnsita_d0c490a2:
 
     # u "Ohhh, that's uh cool??"
-    u ""
+    u "Oooo, to jest ee spoko??"
 
 # game/v4/v4.rpy:1410
 translate polish autumnsita_a5e0d5ac:
 
     # aut "Haha I'm kidding... thought I'd throw you off a bit."
-    aut ""
+    aut "Haha żartuję... pomyślałam, że cię nabiorę."
 
 # game/v4/v4.rpy:1415
 translate polish autumnsita_e28abd1e:
 
     # u "Haha, damn. You got me."
-    u ""
+    u "Haha, kurde. Masz mnie."
 
 # game/v4/v4.rpy:1417
 translate polish autumnsita_5d702393:
 
     # u "So you work at the local dog shelter? That's awesome, I love dogs, but my parents would never let me get one."
-    u ""
+    u "Więc pracujesz w miejscowym schronisku dla psów? To niesamowite, kocham psy, ale moi rodzice nigdy nie pozwolili mi żadnego przygarnąć."
 
 # game/v4/v4.rpy:1422
 translate polish autumnsita_de5a708d:
 
     # aut "You should come by when I'm working and then you can play with some of them if you want. They're really friendly."
-    aut ""
+    aut "Powinieneś przyjść, kiedy pracuję, będziesz mógł pobawić się z niektórymi z nich, jeśli chcesz. Są naprawdę przyjazne."
 
 # game/v4/v4.rpy:1427
 translate polish autumnsita_7386b273:
 
     # u "Oh my god, really? I'd love that, thank you so much."
-    u ""
+    u "O mój Boże, naprawdę? Z miłą chęcią, bardzo dziękuję."
 
 # game/v4/v4.rpy:1432
 translate polish autumnsita_ba201126:
 
     # aut "Yeah, no worries. I'm there Monday to Thursday so just swing by."
-    aut ""
+    aut "Żaden problem. Jestem tam od poniedziałku do czwartku, więc po prostu wpadnij."
 
 # game/v4/v4.rpy:1437
 translate polish autumnsita_1c84fe15:
 
     # u "Alright cool, I definitely will."
-    u ""
+    u "W porządku, na pewno wpadnę."
 
 # game/v4/v4.rpy:1439
 translate polish autumnsita_276728c9:
 
     # u "I should probably start reading now, I have a lot to get through."
-    u ""
+    u "Chyba powinienem chyba zacząć czytać, mam dużo do przeczytania."
 
 # game/v4/v4.rpy:1444
 translate polish autumnsita_f86d900a:
 
     # aut "Yeah, I should get back to my research as well."
-    aut ""
+    aut "Tak, ja też powinnam wrócić do moich badań."
 
 # game/v4/v4.rpy:1453
 translate polish readmontagea_a8f37fc4:
 
     # u "(Alright... time to dig in.)"
-    u ""
+    u "(Dobra... czas się zagłębić.)"
 
 # game/v4/v4.rpy:1468
 translate polish readmontagea_57b5975e:
 
     # u "(Okay, that's enough for now.)"
-    u ""
+    u "(Ok, na razie wystarczy.)"
 
 # game/v4/v4.rpy:1480
 translate polish readmontagea_95dda80b:
 
     # u "(Oh shit, there's Ryan.)"
-    u ""
+    u "(O cholera, jest Ryan.)"
 
 # game/v4/v4.rpy:1489
 translate polish readmontagea_55d5cf9e:
 
     # u "(Time to talk it out.)"
-    u ""
+    u "(Czas o tym porozmawiać.)"
 
 # game/v4/v4.rpy:1494
 translate polish readmontagea_54d14436:
 
     # ry "[name]?"
-    ry ""
+    ry "[name]?"
 
 # game/v4/v4.rpy:1501
 translate polish readmontagea_9f7b2c3a:
 
     # u "Ryan, can we talk about yesterday?"
-    u ""
+    u "Ryan, możemy porozmawiać o wczoraj?"
 
 # game/v4/v4.rpy:1506
 translate polish readmontagea_12176e95:
 
     # ry "Yeah, man. I messed up, I'm sorry."
-    ry ""
+    ry "Jasne stary. Nawaliłem, przepraszam."
 
 # game/v4/v4.rpy:1514
 translate polish readmontagea_a7558262:
 
     # u "(I'll just walk straight past him.)"
-    u ""
+    u "(Po prostu przejdę obok niego.)"
 
 # game/v4/v4.rpy:1519
 translate polish readmontagea_54d14436_1:
 
     # ry "[name]?"
-    ry ""
+    ry "[name]?"
 
 # game/v4/v4.rpy:1526
 translate polish readmontagea_d444bc23:
 
     # ry "Hey, can we talk?"
-    ry ""
+    ry "Hej, możemy porozmawiać?"
 
 # game/v4/v4.rpy:1531
 translate polish readmontagea_3353b912:
 
     # u "Ok, let's talk."
-    u ""
+    u "Dobra, porozmawiajmy."
 
 # game/v4/v4.rpy:1536
 translate polish readmontagea_7b7cc938:
 
     # ry "Look, man. I messed up, I'm sorry."
-    ry ""
+    ry "Słuchaj stary. Nawaliłem, przepraszam."
 
 # game/v4/v4.rpy:1539
 translate polish ec_bd_d0609648:
 
     # ry "I didn't mean to attack you like that. I just wanted to let you know about the things that I've heard. "
-    ry ""
+    ry "Nie miałem zamiaru cię urazić. Chciałem tylko poinformować cię o rzeczach, które słyszałem."
 
 # game/v4/v4.rpy:1541
 translate polish ec_bd_0c716ca8:
 
     # ry "You know, so she doesn't play you."
-    ry ""
+    ry "No wiesz, że się tobą bawi."
 
 # game/v4/v4.rpy:1546
 translate polish ec_bd_d1b41516:
 
     # u "Dude, Chloe is no-"
-    u ""
+    u "Koleś, Chloe nie jest-"
 
 # game/v4/v4.rpy:1551
 translate polish ec_bd_b8d264ac:
 
     # ry "I know, she's not that kind of person."
-    ry ""
+    ry "Wiem, ona nie jest taką osobą."
 
 # game/v4/v4.rpy:1553
 translate polish ec_bd_d08abeb0:
 
     # ry "And maybe she's not..."
-    ry ""
+    ry "I może to prawda..."
 
 # game/v4/v4.rpy:1555
 translate polish ec_bd_5a26e1e8:
 
     # ry "But I'm just looking out for you, homie. Making sure, you see the bigger picture, you know what I mean?"
-    ry ""
+    ry "Ale ja się tylko o ciebie martwię, ziomek. Upewniam się, że widzisz szerszy obraz, wiesz o co mi chodzi?"
 
 # game/v4/v4.rpy:1560
 translate polish ec_bd_a574f55c:
 
     # u "Yeah, I get what you mean."
-    u ""
+    u "Tak, wiem co masz na myśli."
 
 # game/v4/v4.rpy:1565
 translate polish ec_bd_f50c265e:
 
     # ry "So we're cool?"
-    ry ""
+    ry "Więc, między nami spoko?"
 
 # game/v4/v4.rpy:1570
 translate polish ec_bd_bd7292e7:
 
     # u "Yeah, we're cool."
-    u ""
+    u "Tak, między nami spoko."
 
 # game/v4/v4.rpy:1575
 translate polish ec_bd_9469b5f9:
 
     # ry "Awesome, man. I gotta go, I'll see you later."
-    ry ""
+    ry "Zajebiście. Muszę iść, do zobaczenia później."
 
 # game/v4/v4.rpy:1580
 translate polish ec_bd_ea48acb1:
 
     # u "Yeah, see you later."
-    u ""
+    u "Jasne, do zobaczenia później."
 
 # game/v4/v4.rpy:1587
 translate polish ec_bd_17079010:
 
     # u "*Yawn*"
-    u ""
+    u "*Ziewanie*"
 
 # game/v4/v4.rpy:1589
 translate polish ec_bd_09e54a59:
 
     # u "(Why do I keep waking up in the middle of the night? It really fucks with my sleep.)"
-    u ""
+    u "(Dlaczego wciąż budzę się w środku nocy? To naprawdę chujowo wpływa na mój sen.)"
 
 # game/v4/v4.rpy:1591
 translate polish ec_bd_c812e1b1:
 
     # u "(I'll get a coffee, otherwise I'll be tired for the rest of the day.)"
-    u ""
+    u "(Pójdę po kawę, bo inaczej będę zmęczony przez resztę dnia.)"
 
 # game/v4/v4.rpy:1608
 translate polish continueaa_40fb7627:
 
     # u "(Oh, Penelope's here, I should probably say hi.)"
-    u ""
+    u "(Och, jest tu Penelope, chyba powinienem się przywitać.)"
 
 # game/v4/v4.rpy:1613
 translate polish continueaa_1d6a0cc7:
 
     # u "Penelope?"
-    u ""
+    u "Penelope?"
 
 # game/v4/v4.rpy:1623
 translate polish continueaa_f8d4c8bd:
 
     # pe "[name]!!!"
-    pe ""
+    pe "[name]!!!"
 
 # game/v4/v4.rpy:1635
 translate polish continueaa_10d00e75:
 
     # pe "Heyyy!"
-    pe ""
+    pe "Heeej!"
 
 # game/v4/v4.rpy:1639
 translate polish continueaa_fefb8a1c:
 
     # pe "How did you know I was gonna be here?"
-    pe ""
+    pe "Skąd wiedziałeś, że tu będę?"
 
 # game/v4/v4.rpy:1648
 translate polish continueaa_8b7dfbe5:
 
     # u "Magic powers, of course."
-    u ""
+    u "Przecież to oczywiste, mam magiczne moce."
 
 # game/v4/v4.rpy:1653
 translate polish continueaa_869d0574:
 
     # pe "Haha, you're stupid."
-    pe ""
-
+    pe "Haha, głupek z ciebie."
+     się, że przyszedłem akurat teraz.
 # game/v4/v4.rpy:1658
 translate polish continueaa_bfe01d1d:
 
     # pe "You wanna sit down?"
-    pe ""
+    pe "Chcesz usiąść?"
 
 # game/v4/v4.rpy:1663
 translate polish continueaa_9064cdac:
 
     # u "Yeah, sure."
-    u ""
+    u "Jasne."
 
 # game/v4/v4.rpy:1671
 translate polish continueaa_b7962dc0:
 
     # u "I didn't, but I'm glad I came now."
-    u ""
+    u "Nie wiedziałem, ale cieszę się, że przyszedłem akurat teraz."
 
 # game/v4/v4.rpy:1676
 translate polish continueaa_fcf6fc2c:
 
     # pe "Well, me too! Wanna sit down?"
-    pe ""
+    pe "Cóż, ja też! Chcesz usiąść?"
 
 # game/v4/v4.rpy:1681
 translate polish continueaa_9064cdac_1:
 
     # u "Yeah, sure."
-    u ""
+    u "Jasne"
 
 # game/v4/v4.rpy:1684
 translate polish continueaa_6ff50e9a:
 
     # u "(Shit, Penelope's here. I wonder if she's still mad at me...)"
-    u ""
+    u "(Kurwa, Penelope jest tutaj. Zastanawiam się, czy nadal jest na mnie zła...)"
 
 # game/v4/v4.rpy:1686
 translate polish continueaa_8fed4328:
 
     # u "(Maybe I should buy her something and apologize for peeking on her.)"
-    u ""
+    u "(Może powinienem jej coś kupić i przeprosić za podglądanie.)"
 
 # game/v4/v4.rpy:1690
 translate polish continueaa_f2173858:
 
     # clerk "Hello sir, what I can do for you?"
-    clerk ""
+    clerk "Witam pana, co mogę dla pana zrobić?"
 
 # game/v4/v4.rpy:1705
 translate polish continueaa_db4134d4:
 
     # u "Can I get a muffin and a coffee please?"
-    u ""
+    u "Czy mogę prosić o babeczkę i kawę?"
 
 # game/v4/v4.rpy:1710
 translate polish continueaa_e21af801:
 
     # clerk "Coming right up, sir."
-    clerk ""
+    clerk "Już podaję."
 
 # game/v4/v4.rpy:1716
 translate polish continueaa_6a44669d:
 
     # u "Two coffees please."
-    u ""
+    u "Poproszę dwie kawy."
 
 # game/v4/v4.rpy:1721
 translate polish continueaa_e21af801_1:
 
     # clerk "Coming right up, sir."
-    clerk ""
+    clerk "Już podaję."
 
 # game/v4/v4.rpy:1727
 translate polish ed_bd_1d6a0cc7:
 
     # u "Penelope?"
-    u ""
+    u "Penelope?"
 
 # game/v4/v4.rpy:1737
 translate polish ed_bd_6f7907ef:
 
     # pe "Wha- what are you doing here, [name]?"
-    pe ""
+    pe "Co- co ty tu robisz, [name]?"
 
 # game/v4/v4.rpy:1742
 translate polish ed_bd_8184b887:
 
     # u "Look I'm sorry for what happened."
-    u ""
+    u "Słuchaj, przepraszam za to, co się stało."
 
 # game/v4/v4.rpy:1747
 translate polish ed_bd_cd574ba8:
 
     # pe "Just- just go please. I don't feel comfortable around you anymore."
-    pe ""
+    pe "P-proszę, po prostu idź stąd. Nie czuję się już przy tobie komfortowo."
 
 # game/v4/v4.rpy:1753
 translate polish ed_bd_fdff1dbf:
 
     # u "Penelope, please... I brought you this muffin, I mean I saw you already had a coffee."
-    u ""
+    u "Penelope, proszę... Kupiłem ci tę babeczkę, to znaczy widziałem, że już wypiłaś kawę."
 
 # game/v4/v4.rpy:1755
 translate polish ed_bd_bdbd741f:
 
     # u "I'm really sorry. Please can we just forget about it?"
-    u ""
+    u "Bardzo przepraszam. Proszę, czy możemy po prostu o tym zapomnieć?"
 
 # game/v4/v4.rpy:1760
 translate polish ed_bd_0740df4a:
 
     # pe "Oh, that's really nice... I mean no, I mean I don't know. You broke my trust..."
-    pe ""
+    pe "Och, to naprawdę miłe... To znaczy nie, to znaczy nie wiem. Złamałeś moje zaufanie..."
 
 # game/v4/v4.rpy:1762
 translate polish ed_bd_aa1856b5:
 
     # pe "I thought you were my friend."
-    pe ""
+    pe "Myślałem że jesteś moim przyjacielem."
 
 # game/v4/v4.rpy:1767
 translate polish ed_bd_52d9dcf6:
 
     # u "I am your friend... come on."
-    u ""
+    u "Jestem twoim przyjacielem... daj spokój."
 
 # game/v4/v4.rpy:1772
 translate polish ed_bd_70a5099f:
 
     # pe "Okay uhm... you can sit down if you want."
-    pe ""
+    pe "Dobra uhm... możesz usiąść, jeśli chcesz."
 
 # game/v4/v4.rpy:1776
 translate polish ed_bd_a7041bd8:
 
     # u "Again, I'm really sorry."
-    u ""
+    u "Jeszcze raz, bardzo przepraszam."
 
 # game/v4/v4.rpy:1790
 translate polish ed_bd_1adae1c1:
 
     # pe "It's okay."
-    pe ""
+    pe "W porządku."
 
 # game/v4/v4.rpy:1803
 translate polish ed_bd_5850a261:
 
     # pe "[name], what are you doing??"
-    pe ""
+    pe "[name], co robisz?"
 
 # game/v4/v4.rpy:1808
 translate polish ed_bd_a7e115cd:
 
     # u "Uhh... I uhm-"
-    u ""
+    u "Eee... ja yyy-"
 
 # game/v4/v4.rpy:1813
 translate polish ed_bd_7d635033:
 
     # pe "Just 'cause I forgive you doesn't mean we have something."
-    pe ""
+    pe "Tylko dlatego, że ci wybaczam, nie oznacza, że coś nas łączy."
 
 # game/v4/v4.rpy:1818
 translate polish ed_bd_2f9e054b:
 
     # u "Uhm, I should probably get going. Good to see you."
-    u ""
+    u "Uhm, chyba powinienem już iść. Miło było cię zobaczyć."
 
 # game/v4/v4.rpy:1829
 translate polish ed_bd_1adae1c1_1:
 
     # pe "It's okay."
-    pe ""
+    pe "W porządku."
 
 # game/v4/v4.rpy:1835
 translate polish eg_b_8d1cdc14:
 
     # u "Anyways, are you excited for history next week?"
-    u ""
+    u "W każdym razie, jesteś gotowa na zajęcia historii w przyszłym tygodniu?"
 
 # game/v4/v4.rpy:1840
 translate polish eg_b_e58b1ea2:
 
     # u "Penelope, please... I got you a coffee."
-    u ""
+    u "Penelope, proszę... Przyniosłem ci kawę."
 
 # game/v4/v4.rpy:1842
 translate polish eg_b_bdbd741f:
 
     # u "I'm really sorry. Please can we just forget about it?"
-    u ""
+    u "Bardzo przepraszam. Proszę, czy możemy po prostu o tym zapomnieć?"
 
 # game/v4/v4.rpy:1847
 translate polish eg_b_f4815bc8:
 
     # pe "I already have a coffee. I don't need another one."
-    pe ""
+    pe "Mam już kawę. Nie potrzebuję kolejnej."
 
 # game/v4/v4.rpy:1849
 translate polish eg_b_44b8e0ce:
 
     # pe "I- I thought you were my friend and then you broke my trust."
-    pe ""
+    pe "Ja- Myślałam, że jesteś moim przyjacielem, a potem zawiodłeś moje zaufanie."
 
 # game/v4/v4.rpy:1854
 translate polish eg_b_1163e371:
 
     # u "Penelope, I never-"
-    u ""
+    u "Penelope, ja nigdy-"
 
 # game/v4/v4.rpy:1859
 translate polish eg_b_4a2b5236:
 
     # pe "Stop! Just leave please. I don't wanna be friends with someone I can't trust."
-    pe ""
+    pe "Przestań! Po prostu wyjdź, proszę. Nie chcę przyjaźnić się z kimś, komu nie mogę ufać."
 
 # game/v4/v4.rpy:1864
 translate polish eg_b_1dca0bec:
 
     # u "Alright... sorry."
-    u ""
+    u "Dobrze... przepraszam."
 
 # game/v4/v4.rpy:1869
 translate polish eg_b_40fb7627:
 
     # u "(Oh, Penelope's here, I should probably say hi.)"
-    u ""
+    u "(Och, jest tu Penelope, chyba powinienem się przywitać.)"
 
 # game/v4/v4.rpy:1874
 translate polish eg_b_1d6a0cc7:
 
     # u "Penelope?"
-    u ""
+    u "Penelope?"
 
 # game/v4/v4.rpy:1884
 translate polish eg_b_9bfeb216:
 
     # pe "[name]! Heyyy."
-    pe ""
+    pe "[name]! Heeej."
 
 # game/v4/v4.rpy:1887
 translate polish eg_b_fefb8a1c:
 
     # pe "How did you know I was gonna be here?"
-    pe ""
+    pe "Skąd wiedziałeś, że tu będę?"
 
 # game/v4/v4.rpy:1896
 translate polish eg_b_8b7dfbe5:
 
     # u "Magic powers, of course."
-    u ""
+    u "Przecież to oczywiste, mam magiczne moce."
 
 # game/v4/v4.rpy:1901
 translate polish eg_b_869d0574:
 
     # pe "Haha, you're stupid."
-    pe ""
+    pe "Haha, głupek z ciebie."
 
 # game/v4/v4.rpy:1903
 translate polish eg_b_bfe01d1d:
 
     # pe "You wanna sit down?"
-    pe ""
+    pe "Chcesz usiąść?"
 
 # game/v4/v4.rpy:1908
 translate polish eg_b_9064cdac:
 
     # u "Yeah, sure."
-    u ""
+    u "Jasne."
 
 # game/v4/v4.rpy:1916
 translate polish eg_b_b7962dc0:
 
     # u "I didn't, but I'm glad I came now."
-    u ""
+    u "Nie wiedziałem, ale cieszę się, że przyszedłem akurat teraz."
 
 # game/v4/v4.rpy:1921
 translate polish eg_b_fcf6fc2c:
 
     # pe "Well, me too! Wanna sit down?"
-    pe ""
+    pe "Cóż, ja też! Chcesz usiąść?"
 
 # game/v4/v4.rpy:1926
 translate polish eg_b_9064cdac_1:
 
     # u "Yeah, sure."
-    u ""
+    u "Jasne."
 
 # game/v4/v4.rpy:1932
 translate polish ej_bd_64a0bd74:
 
     # u "Soo... are you excited for the history costume party next week?"
-    u ""
+    u "Więc... jesteś podekscytowana historycznym balem kostiumowym w przyszłym tygodniu?"
 
 # game/v4/v4.rpy:1938
 translate polish ef_bd_7a672509:
 
     # pe "I am! I love costumes, I hope someone comes as in a giant full-body animal one."
-    pe ""
+    pe "Bardzo! Uwielbiam kostiumy, mam nadzieję, że ktoś przyjdzie w gigantycznym zwierzęcym kostiumie."
 
 # game/v4/v4.rpy:1943
 translate polish ef_bd_584286ad:
 
     # u "Penelope, you are aware that Mr. Lee said historically accurate, right?"
-    u ""
+    u "Penelope, zdajesz sobie sprawę, że pan Lee powiedział, że kostiumy mają być związane z historią, prawda?"
 
 # game/v4/v4.rpy:1948
 translate polish ef_bd_ad41ff7f:
 
     # pe "Aww, I forgot about that... why did he have to take all the fun out of it?"
-    pe ""
+    pe "Ooo, zapomniałam o tym... dlaczego musiał zepsuć całą zabawę?"
 
 # game/v4/v4.rpy:1953
 translate polish ef_bd_d6eca572:
 
     # u "I know, it's a shame."
-    u ""
+    u "Wiem co czujesz, wielka szkoda."
 
 # game/v4/v4.rpy:1955
 translate polish ef_bd_9b357ad5:
 
     # u "What are you working on?"
-    u ""
+    u "Nad czym pracujesz?"
 
 # game/v4/v4.rpy:1960
 translate polish ef_bd_39ca1438:
 
     # pe "Uhm... nothing. Uni work. Homework. School stuff."
-    pe ""
+    pe "Yyy... nad niczym. Praca na zajęcia. Zadanie domowe. Szkolne sprawy."
 
 # game/v4/v4.rpy:1962
 translate polish ef_bd_c6c6cfe6:
 
     # pe "You know, nothing I shouldn't be doing."
-    pe ""
+    pe "No wiesz, nic czego nie nie powinnam tu robić."
 
 # game/v4/v4.rpy:1967
 translate polish ef_bd_9852faf3:
 
     # u "Haha, Penelope, that's not very convincing... Are you ok? You're acting weird."
-    u ""
+    u "Haha, Penelope, to nie jest zbyt przekonujące... Wszystko w porządku? Zachowujesz się dziwnie."
 
 # game/v4/v4.rpy:1972
 translate polish ef_bd_c937a32a:
 
     # pe "No, I'm not. You're acting weird!"
-    pe ""
+    pe "Wcale, że nie. To ty dziwnie się zachowujesz!"
 
 # game/v4/v4.rpy:1974
 translate polish ef_bd_3550c3f9:
 
     # pe "What are you working on? Huh?"
-    pe ""
+    pe "A nad czym ty pracujesz? Co?"
 
 # game/v4/v4.rpy:1979
 translate polish ef_bd_431e01ab:
 
     # u "Uhm... nothing I just got here."
-    u ""
+    u "Eee... nad niczym, dopiero tu przyszedłem."
 
 # game/v4/v4.rpy:1984
 translate polish ef_bd_670189a2:
 
     # pe "Exactly."
-    pe ""
+    pe "Dokładnie."
 
 # game/v4/v4.rpy:1989
 translate polish ef_bd_6ac11fe2:
 
     # u "Penelope, come on. You can tell me. I am the world champion of keeping secrets."
-    u ""
+    u "Penelope, daj spokój. Możesz mi powiedzieć. Jestem mistrzem świata w dotrzymywaniu tajemnic."
 
 # game/v4/v4.rpy:1991
 translate polish ef_bd_6a0d8739:
 
     # u "Literally had to go through a whole international tournament."
-    u ""
+    u "Dosłownie, musiałem przejść przez cały międzynarodowy turniej."
 
 # game/v4/v4.rpy:1996
 translate polish ef_bd_dc2091ea:
 
     # pe "*Chuckles* Why do you have to turn everything into a joke..."
-    pe ""
+    pe "*Chichocze* Dlaczego musisz wszystko zamieniać w żart..."
 
 # game/v4/v4.rpy:2001
 translate polish ef_bd_4b18075a:
 
     # u "Okay, you don't have to tell me. But if I were you, I'd be more careful watching hardcore porn in a cafe."
-    u ""
+    u "Dobra, nie musisz mi mówić. Ale na twoim miejscu byłbym bardziej ostrożny, oglądając hardkorowe porno w kawiarni."
 
 # game/v4/v4.rpy:2003
 translate polish ef_bd_816a08d7:
 
     # u "You don't wanna accidentally turn the speakers on, I mean we've all been there."
-    u ""
+    u "Nie chcesz przypadkowo włączyć głośników, no wiesz, jest tu tyle ludzi."
 
 # game/v4/v4.rpy:2008
 translate polish ef_bd_e9224c22:
 
     # pe "It's not porn!"
-    pe ""
+    pe "To nie porno!"
 
 # game/v4/v4.rpy:2013
 translate polish ef_bd_5722d9bd:
 
     # pe "I don't- I don't watch porn."
-    pe ""
+    pe "Nie oglądam- nie oglądam porno."
 
 # game/v4/v4.rpy:2017
 translate polish ef_bd_90cca9a4:
 
     # u "Now we're getting into an interesting topic."
-    u ""
+    u "Wchodzimy w bardzo ciekawy temat."
 
 # game/v4/v4.rpy:2023
 translate polish ef_bd_ecf336c6:
 
     # u "You know, we should watch some together sometime."
-    u ""
+    u "Wiesz, powinniśmy kiedyś obejrzeć jakieś razem."
 
 # game/v4/v4.rpy:2028
 translate polish ef_bd_9e557984:
 
     # pe "*Laughs* Ewww... I don't think we should."
-    pe ""
+    pe "*Śmieje się* Fuj... Myślę, że nie powinniśmy."
 
 # game/v4/v4.rpy:2033
 translate polish ef_bd_d38f7af4:
 
     # u "The offer still stands, if you change your mind."
-    u ""
+    u "Oferta będzie wciąż aktualna, jeśli zmienisz zdanie."
 
 # game/v4/v4.rpy:2038
 translate polish ef_bd_a08e4f34:
 
     # pe "Right, thank you."
-    pe ""
+    pe "Dobrze, dziękuję."
 
 # game/v4/v4.rpy:2043
 translate polish ef_bd_5e3e36c3:
 
     # u "You know, you should try it sometime."
-    u ""
+    u "Wiesz, powinnaś kiedyś spróbować."
 
 # game/v4/v4.rpy:2048
 translate polish ef_bd_3ebee093:
 
     # pe "*Laughs* I don't know, I don't think I'd like it."
-    pe ""
+    pe "*Śmieje się* Nie wiem, chyba by mi się to nie podobało."
 
 # game/v4/v4.rpy:2054
 translate polish ek_ad_52c3bf4c:
 
     # u "Haha, I think you'd be surprised."
-    u ""
+    u "Haha, myślę, że byłabyś zaskoczona."
 
 # game/v4/v4.rpy:2059
 translate polish ek_ad_38bda28d:
 
     # pe "I have to go now and meet my friend. It uhm, it was nice to see you though."
-    pe ""
+    pe "Muszę już iść i spotkać się z moją koleżanką. Uhm, miło było cię widzieć."
 
 # game/v4/v4.rpy:2066
 translate polish ek_ad_c66c1660:
 
     # u "It was nice to see you too."
-    u ""
+    u "Ciebie też miło było widzieć."
 
 # game/v4/v4.rpy:2068
 translate polish ek_ad_c4e27a4e:
 
     # u "Hey, you wanna go bowling with me sometime next week?"
-    u ""
+    u "Hej, chcesz iść ze mną na kręgle w przyszłym tygodniu?"
 
 # game/v4/v4.rpy:2073
 translate polish ek_ad_6b5f01a9:
 
     # pe "I don't know, I have sooo much studying to do..."
-    pe ""
+    pe "No nie wiem, mam baaardzo dużo nauki..."
 
 # game/v4/v4.rpy:2083
 translate polish ek_ad_aa789e2a:
 
     # u "Come on, having some fun won't ruin your grades, I promise."
-    u ""
+    u "No chodź, dobra zabawa nie zrujnuje twoich ocen, obiecuję."
 
 # game/v4/v4.rpy:2088
 translate polish ek_ad_a980505d:
 
     # pe "Hmmm... alright. Let's go bowling next week."
-    pe ""
+    pe "Hmmm... dobra. Chodźmy na kręgle w przyszłym tygodniu."
 
 # game/v4/v4.rpy:2093
 translate polish ek_ad_7c58b1bd:
 
     # u "Cool, I'll see you."
-    u ""
+    u "Super, do zobaczenia."
 
 # game/v4/v4.rpy:2098
 translate polish ek_ad_81df4822:
 
     # pe "Yeah, uhm, see you soon."
-    pe ""
+    pe "Tak, uhm, do zobaczenia wkrótce."
 
 # game/v4/v4.rpy:2109
 translate polish ek_ad_b92b0fd7:
 
     # u "What, scared you can't beat me?"
-    u ""
+    u "Co, boisz się, że mnie nie pokonasz?"
 
 # game/v4/v4.rpy:2114
 translate polish ek_ad_8f85037b:
 
     # pe "Sorry, I- I really can't. I need to study."
-    pe ""
+    pe "Przepraszam, ja- naprawdę nie mogę. Muszę się uczyć."
 
 # game/v4/v4.rpy:2119
 translate polish ek_ad_ce5911bb:
 
     # u "Alright... no worries. I'll see you."
-    u ""
+    u "W porządku... nie martw się. Do zobaczenia."
 
 # game/v4/v4.rpy:2124
 translate polish ek_ad_81df4822_1:
 
     # pe "Yeah, uhm, see you soon."
-    pe ""
+    pe "Tak, uhm, do zobaczenia wkrótce."
 
 # game/v4/v4.rpy:2134
 translate polish ek_ad_20df7a57:
 
     # u "Yeah, it was nice to see you too."
-    u ""
+    u "Ciebie też miło było widzieć."
 
 # game/v4/v4.rpy:2139
 translate polish ek_ad_5e7d41e0:
 
     # pe "Bye bye, I'll see you later."
-    pe ""
+    pe "Pa pa, do zobaczenia później."
 
 # game/v4/v4.rpy:2144
 translate polish ek_ad_ea48acb1:
 
     # u "Yeah, see you later."
-    u ""
+    u "Do zobaczenia później."
 
 # game/v4/v4.rpy:2154
 translate polish continueac_7c9768ce:
 
     # u "(Shit, that didn't go as planned...)"
-    u ""
+    u "(Kurwa, to nie poszło zgodnie z planem...)"
 
 # game/v4/v4.rpy:2162
 translate polish el_ad_441977bc:
 
     # u "(I wonder what Penelope was doing on that laptop...)"
-    u ""
+    u "(Ciekawe, co Penelope robiła na tym laptopie...)"
 
 # game/v4/v4.rpy:2179
 translate polish phonew_e80c8a11:
 
     # u "(I should probably reply to my messages.)"
-    u ""
+    u "(Chyba powinienem odpowiedzieć na wiadomości.)"
 
 # game/v4/v4.rpy:2183
 translate polish phonew_e11dc486:
 
     # u "(Fucking hell, I forgot how persistent Josh could be...)"
-    u ""
+    u "(Ja pierdolę, zapomniałem, jaki natrętny potrafi być Josh...)"
 
 # game/v4/v4.rpy:2187
 translate polish phonew_fc1c9a82:
 
     # u "(Okay, I need to make sure that I don't forget about meeting Chloe.)"
-    u ""
+    u "(Dobra, muszę się upewnić, że nie zapomnę o spotkaniu z Chloe.)"
 
 # game/v4/v4.rpy:2212
 translate polish jorepa_173454a6:
 
     # jo "What's up, bro?"
-    jo ""
+    jo "Co tam u ciebie, ziom?"
 
 # game/v4/v4.rpy:2215
 translate polish jorepa_650ed459:
@@ -3046,7 +3046,7 @@ translate polish strings:
 
     # game/v4/v4.rpy:27
     old "This guy"
-    new ""
+    new "Twoja strata"
 
     # game/v4/v4.rpy:83
     old "You should be more careful."
@@ -3110,7 +3110,7 @@ translate polish strings:
 
     # game/v4/v4.rpy:1115
     old "Sit somewhere else"
-    new ""
+    new "Usiądź gdzie indziej"
 
     # game/v4/v4.rpy:1482
     old "Talk to him"
@@ -3122,11 +3122,11 @@ translate polish strings:
 
     # game/v4/v4.rpy:1641
     old "Magic Powers."
-    new ""
+    new "Magiczne Moce."
 
     # game/v4/v4.rpy:1641
     old "I didn't."
-    new ""
+    new "Nie wiedziałem."
 
     # game/v4/v4.rpy:1692
     old "Buy Penelope a muffin"
@@ -3138,23 +3138,23 @@ translate polish strings:
 
     # game/v4/v4.rpy:1778
     old "Grab her hand"
-    new ""
+    new "Złap ją za rękę"
 
     # game/v4/v4.rpy:2019
     old "We should watch some."
-    new ""
+    new "Powinniśmy kiedyś obejrzeć."
 
     # game/v4/v4.rpy:2019
     old "You should try it."
-    new ""
+    new "Powinnaś kiedyś spróbować."
 
     # game/v4/v4.rpy:2061
     old "You wanna go bowling?"
-    new ""
+    new "Chcesz iść na kręgle?"
 
     # game/v4/v4.rpy:2061
     old "Yeah, it was nice."
-    new ""
+    new "Było miło."
 
     # game/v4/v4.rpy:2171
     old "Hey man, you wanna hang out with me and some friends tonight?"
@@ -3222,5 +3222,5 @@ translate polish strings:
 
     # game/v4/v4.rpy:2891
     old "Ask about the punch"
-    new ""
+    new "Zapytaj o uderzenie"
 
