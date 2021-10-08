@@ -47,7 +47,7 @@ non script files | 3/6 | Mycelle | [ ] | Mycelle
 v01.rpy | 5225/5225 | Mycelle | [x] | Mycelle
 v02.rpy | 4221/4221 | Mycelle | [x] | Mycelle
 v03.rpy | 3636/3636 | Mycelle | [x] | Mycelle
-v04.rpy | 3227/3227 | Mycelle | [ ] | Mycelle
+v04.rpy | 3227/3227 | Mycelle | [x] | Mycelle
 v05.rpy | 3997/3997 | Mycelle | [ ] | Mycelle
 v06.rpy | 11645/11645 | Mycelle | [ ] | Mycelle
 v07.rpy | 0/18403 | SEaring | [ ] | -
