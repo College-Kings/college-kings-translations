@@ -217,7 +217,7 @@ non script files | 6/6 | Klamos | [ ] | Klamos
 v01.rpy | 5225/5225 | Klamos | [ ] | Klamos
 v02.rpy | 4221/4221 | Klamos | [ ] | Klamos
 v03.rpy | 3636/3636 | Klamos | [ ] | Klamos
-v04.rpy | 2567/3227 | Klamos | [ ] | Klamos
+v04.rpy | 3227/3227 | Klamos | [ ] | Klamos
 v05.rpy | 0/3498 | Klamos | [ ] | Klamos
 v06.rpy | 0/11645 | - | [ ] | -
 v07.rpy | 0/18403 | - | [ ] | -
