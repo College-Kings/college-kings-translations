@@ -202,7 +202,7 @@ translate polish starta_159d4a13:
 translate polish aa_db_befaf879:
 
     # ju "Fraternities can be dangerous, honey."
-    ju "Bractwa mogą być niebezbieczne, kochanie."
+    ju "Bractwa mogą być niebezpieczne, kochanie."
 
 # game/v1/v1.rpy:235
 translate polish aa_db_df08ccc0:
@@ -220,7 +220,7 @@ translate polish aa_db_8569c4fa:
 translate polish aa_db_c87a6833:
 
     # ju "Believe me, it's not as fun as it sounds."
-    ju "Uwierz mi,to nie jest takie zabawne, jak się wydaje."
+    ju "Uwierz mi, to nie jest takie zabawne, jak się wydaje."
 
 # game/v1/v1.rpy:253
 translate polish aa_db_6e9b7094:
@@ -376,7 +376,7 @@ translate polish aa_db_9ea2f78c_2:
 translate polish aa_db_0f21bb45:
 
     # ca "Yo, watch where you're fucking walking, bitch!"
-    ca "Ej, patrz gdzie kurwa idziesz, cwelu!"
+    ca "Ej, patrz, gdzie kurwa idziesz, cwelu!"
 
 # game/v1/v1.rpy:383
 translate polish aa_db_885cc755:
@@ -532,7 +532,7 @@ translate polish ad_db_e2737b85:
 translate polish ad_db_675e7bcc:
 
     # ro "We won't be starting 'til I can fix this damn laptop."
-    ro "Nie zaczniemy dopóki nie naprawię tego cholernego laptopa."
+    ro "Nie zaczniemy, dopóki nie naprawię tego cholernego laptopa."
 
 # game/v1/v1.rpy:505
 translate polish ad_db_0608c281:
@@ -586,7 +586,7 @@ translate polish ad_db_cf152294:
 translate polish ad_db_bb4a72ce:
 
     # ry "And...their president is the current Fight King."
-    ry "A...ich lider jest obecnym Królem Walk."
+    ry "A... ich lider jest obecnym Królem Walk."
 
 # game/v1/v1.rpy:544
 translate polish ad_db_a79483bf:
@@ -862,7 +862,7 @@ translate polish af_db_daac62bb:
 translate polish af_db_6f4ca145:
 
     # la "I bet you think she's cute, don't you?"
-    la "Założę sie, że ci się spodobała, prawda?"
+    la "Założę się, że ci się spodobała, prawda?"
 
 # game/v1/v1.rpy:785
 translate polish af_db_1b97be3d:
@@ -886,7 +886,7 @@ translate polish af_db_222f9225:
 translate polish af_db_ce23670f:
 
     # la "Haha, prince charming huh?"
-    la "Haha, książe z bajki, co?"
+    la "Haha, książę z bajki, co?"
 
 # game/v1/v1.rpy:806
 translate polish af_db_7e0e7a51:
@@ -970,7 +970,7 @@ translate polish aj_db_030708fe:
 translate polish v1_freeRoam1_riley_4417530d:
 
     # u "Hey, you were the girl sitting next to Elijah!"
-    u "Hej, jesteś tą dziewczyną, która sidziała obok Elijah!"
+    u "Hej, jesteś tą dziewczyną, która siedziała obok Elijah!"
 
 # game/v1/v1.rpy:896
 translate polish v1_freeRoam1_riley_5a5729bf:
@@ -1042,7 +1042,7 @@ translate polish v1_freeRoam1_riley_9ed721a3:
 translate polish v1_freeRoam1_riley_5dd66e4c:
 
     # ri "Hmmm.. I'll think about it."
-    ri "Hmmm.. Pomyślę o tym."
+    ri "Hmmm... Pomyślę o tym."
 
 # game/v1/v1.rpy:960
 translate polish v1_freeRoam1_riley_9f41e0c7:
@@ -1078,7 +1078,7 @@ translate polish v1_freeRoam1_riley2_93a57ebd:
 translate polish v1_freeRoam1_riley2_84eb9a9f:
 
     # ri "Yeah.. you're probably right haha."
-    ri "Tak.. chyba masz rację haha."
+    ri "Tak... chyba masz rację haha."
 
 # game/v1/v1.rpy:995
 translate polish v1_freeRoam1_elijah_30638a3b:
