@@ -2320,691 +2320,691 @@ translate polish jorepa_173454a6:
 translate polish jorepa_650ed459:
 
     # jo "Picture of Amber did it, eh?"
-    jo ""
+    jo "Zdjęcie Amber zadziałało, co?"
 
 # game/v4/v4.rpy:2220
 translate polish jorepa_074869b7:
 
     # u "Oh, shut up."
-    u ""
+    u "Och, zamknij się."
 
 # game/v4/v4.rpy:2225
 translate polish jorepa_c154e617:
 
     # jo "Hahaha."
-    jo ""
+    jo "Hahaha."
 
 # game/v4/v4.rpy:2228
 translate polish jorepa_d644615c:
 
     # jo "Come in."
-    jo ""
+    jo "Wejdź."
 
 # game/v4/v4.rpy:2234
 translate polish continueae_eed4217d:
 
     # jo "Amber, Kim, this is [name]."
-    jo ""
+    jo "Amber, Kim, to jest [name]."
 
 # game/v4/v4.rpy:2239
 translate polish continueae_f934acde:
 
     # am "Heyy! Nice black eye!"
-    am ""
+    am "Hej! Ładne limo!"
 
 # game/v4/v4.rpy:2244
 translate polish continueae_2d200ac3:
 
     # ki "Hi."
-    ki ""
+    ki "Cześć."
 
 # game/v4/v4.rpy:2249
 translate polish continueae_b81316f3:
 
     # jo "So, what's your drink of choice?"
-    jo ""
+    jo "Co chcesz do picia?"
 
 # game/v4/v4.rpy:2254
 translate polish continueae_79b43121:
 
     # u "I guess I'll take a beer."
-    u ""
+    u "Chyba poproszę piwo.
 
 # game/v4/v4.rpy:2259
 translate polish continueae_a69d87fd:
 
     # jo "Alright, champ. Coming up."
-    jo ""
+    jo "W porządku, mistrzu. Już przynoszę."
 
 # game/v4/v4.rpy:2264
 translate polish continueae_27c51c79:
 
     # am "Are you gonna sit down with us? We won't bite."
-    am ""
+    am "Usiądziesz z nami? Nie ugryziemy cię."
 
 # game/v4/v4.rpy:2269
 translate polish continueae_922809cb:
 
     # u "Damn I was really hoping you would though."
-    u ""
+    u "Kurde, miałem nadzieję, że jednak to zrobicie."
 
 # game/v4/v4.rpy:2274
 translate polish continueae_e897e1f7:
 
     # am "Well then you'll have to get me a bit more drunk first."
-    am ""
+    am "W takim razie najpierw będziesz musiał mnie trochę bardziej upić."
 
 # game/v4/v4.rpy:2279
 translate polish continueae_0110b4c3:
 
     # jo "Here you go, man."
-    jo ""
+    jo "To dla ciebie, stary."
 
 # game/v4/v4.rpy:2283
 translate polish continueae_d7a669ab:
 
     # jo "I see you've taken my spot."
-    jo ""
+    jo "Widzę, że zająłeś moje miejsce."
 
 # game/v4/v4.rpy:2293
 translate polish continueae_7b869730:
 
     # u "Oh, I can move if you want."
-    u ""
+    u "Och, mogę się przesunąć, jeśli chcesz."
 
 # game/v4/v4.rpy:2298
 translate polish continueae_98bf79bc:
 
     # jo "Hahaha, buddy I'm just kidding, stay put."
-    jo ""
+    jo "Hahaha, ziomek, tylko żartuję, siedź sobie."
 
 # game/v4/v4.rpy:2306
 translate polish continueae_4d5c180d:
 
     # u "Yeah, I guess it's my spot now."
-    u ""
+    u "Tak, teraz to moje miejsce."
 
 # game/v4/v4.rpy:2311
 translate polish continueae_9de3145e:
 
     # jo "Damn, alright. Hahaha."
-    jo ""
+    jo "Niech ci będzie. Hahaha."
 
 # game/v4/v4.rpy:2317
 translate polish en_ad_72c04019:
 
     # am "So, [name], have you thought about which fraternity you're gonna join, yet?"
-    am ""
+    am "Więc, [name], myślałeś już o tym, do którego bractwa dołączysz?"
 
 # game/v4/v4.rpy:2322
 translate polish en_ad_605738d3:
 
     # u "Uhm, I-"
-    u ""
+    u "Eee, ja-"
 
 # game/v4/v4.rpy:2327
 translate polish en_ad_93306785:
 
     # ki "Oh come on, this guy's obviously a Frog, look at him."
-    ki ""
+    ki "Och, daj spokój, ten gość to perfidna Żaba, spójrz na niego."
 
 # game/v4/v4.rpy:2332
 translate polish en_ad_2163d5ea:
 
     # jo "My man [name]?? No way, he's a natural born fighter."
-    jo ""
+    jo "Mój ziomek [name]?? Nie ma mowy, to urodzony wojownik."
 
 # game/v4/v4.rpy:2337
 translate polish en_ad_49a9e742:
 
     # u "Uhm..."
-    u ""
+    u "Uhm..."
 
 # game/v4/v4.rpy:2342
 translate polish en_ad_d55a56e4:
 
     # u "I..."
-    u ""
+    u "Ja..."
 
 # game/v4/v4.rpy:2351
 translate polish en_ad_691f9f4f:
 
     # u "I'll join the Wolves."
-    u ""
+    u "Dołączę do Wilków."
 
 # game/v4/v4.rpy:2356
 translate polish en_ad_85c6a2d8:
 
     # jo "See? I knew he was a fighter."
-    jo ""
+    jo "Widzicie? Mówiłem, że jest wojownikiem."
 
 # game/v4/v4.rpy:2361
 translate polish en_ad_016e2b64:
 
     # u "I don't know yet."
-    u ""
+    u "Jeszcze nie wiem."
 
 # game/v4/v4.rpy:2366
 translate polish en_ad_7f7f2ba3:
 
     # ki "Ha! Classic Frog."
-    ki ""
+    ki "Ha! Klasyczna żaba."
 
 # game/v4/v4.rpy:2372
 translate polish eo_bd_d15e8c98:
 
     # am "I think you'd make a good fighter."
-    am ""
+    am "Myślę, że byłby z ciebie świetny wojownik."
 
 # game/v4/v4.rpy:2374
 translate polish eo_bd_44322343:
 
     # am "You already have the look."
-    am ""
+    am "Wygląd już masz."
 
 # game/v4/v4.rpy:2379
 translate polish eo_bd_5d8a50ac:
 
     # u "Haha, thanks."
-    u ""
+    u "Haha, dzięki."
 
 # game/v4/v4.rpy:2384
 translate polish eo_bd_0294aa7e:
 
     # jo "Alright, let's play some bangolo."
-    jo ""
+    jo "Dobra, zagrajmy w bangolo."
 
 # game/v4/v4.rpy:2389
 translate polish eo_bd_1f6b7fe0:
 
     # u "What's bangolo?"
-    u ""
+    u "Co to jest bangolo?"
 
 # game/v4/v4.rpy:2394
 translate polish eo_bd_25bdbb57:
 
     # am "It's this knock-off drinking game app that Josh has 'cause he doesn't wanna pay for the original."
-    am ""
+    am "To ta podróba gry do picia, którą Josh pobrał, bo nie chce płacić za oryginał."
 
 # game/v4/v4.rpy:2399
 translate polish eo_bd_06f67ce8:
 
     # jo "Hey, I just actually think it's better than the original, alright?"
-    jo ""
+    jo "Hej, po prostu uważam, że jest lepsza niż oryginał, dobra?"
 
 # game/v4/v4.rpy:2404
 translate polish eo_bd_c0d8158f:
 
     # jo "The rules are simple. The phone gives us tasks and how many sips to drink if we lose or are selected in some way or another."
-    jo ""
+    jo "Zasady są proste. Apka przydziela nam zadania i ile łyków wypić, jeśli przegramy lub zostaniemy wybrani w taki czy inny sposób."
 
 # game/v4/v4.rpy:2413
 translate polish eo_bd_fce7648c:
 
     # u "Cool, sounds good."
-    u ""
+    u "Spoko, brzmi ciekawie."
 
 # game/v4/v4.rpy:2421
 translate polish eo_bd_c0baa699:
 
     # u "Uhm, actually... I should stop here. I really have to go see my friend soon and I don't wanna be too drunk."
-    u ""
+    u "Uhm, w sumie to... Powinienem już się zbierać. Naprawdę muszę iść na spotkanie z przyjaciółką i nie chcę być zbyt pijany."
 
 # game/v4/v4.rpy:2426
 translate polish eo_bd_9852be81:
 
     # am "Oh come on, just stay a bit longer. You never know what you might miss out on."
-    am ""
+    am "Och, no weź, zostań jeszcze trocę. Nigdy nie wiesz, co może cię ominąć."
 
 # game/v4/v4.rpy:2433
 translate polish eo_bd_61f4cac3:
 
     # u "Alright, I'll stay a bit longer, let's play."
-    u ""
+    u "No dobrze, zostanę jeszcze trochę, zagrajmy."
 
 # game/v4/v4.rpy:2438
 translate polish eo_bd_e7cdd086:
 
     # am "Good choice."
-    am ""
+    am "Dobry wybór."
 
 # game/v4/v4.rpy:2444
 translate polish eo_bd_ea361c5e:
 
     # u "Sorry, I really gotta go. But maybe I'll uhm... come back later."
-    u ""
+    u "Przepraszam, naprawdę muszę iść. Ale może yyy... wrócę później."
 
 # game/v4/v4.rpy:2452
 translate polish jonewe_e659dfbc:
 
     # jo "I just gotta put in our names."
-    jo ""
+    jo "Muszę tylko wpisać nasze imiona."
 
 # game/v4/v4.rpy:2467
 translate polish jonewe_f21d3d0a:
 
     # jo "[name], do a handstand or drink three sips."
-    jo ""
+    jo "[name], stań na rękach albo weź trzy łyki."
 
 # game/v4/v4.rpy:2472
 translate polish jonewe_9ec4c9cb:
 
     # u "Uhhh..."
-    u ""
+    u "Uchhh..."
 
 # game/v4/v4.rpy:2481
 translate polish jonewe_bbaab250:
 
     # u "I'll drink."
-    u ""
+    u "Wypiję."
 
 # game/v4/v4.rpy:2491
 translate polish jonewe_af9acf21:
 
     # am "Oh come on, I wanna see you do a handstand."
-    am ""
+    am "Och, no dalej, chcę zobaczyć, jak stoisz na rękach."
 
 # game/v4/v4.rpy:2497
 translate polish ep_a_f65dd734:
 
     # u "You know what, I'll do it."
-    u ""
+    u "Dobra, zrobię to."
 
 # game/v4/v4.rpy:2519
 translate polish ep_a_f07e883d:
 
     # am "Hahahaha!"
-    am ""
+    am "Hahahaha!"
 
 # game/v4/v4.rpy:2529
 translate polish ep_a_cdc88908:
 
     # jo "Kim, kiss one of the other players or finish your drink."
-    jo ""
+    jo "Kim, pocałuj jednego z pozostałych graczy lub dokończ drinka."
 
 # game/v4/v4.rpy:2534
 translate polish ep_a_94afe85c:
 
     # ki "Come on Amber, let's give these boys something to watch."
-    ki ""
+    ki "Chodź Amber, niech chłopcy sobie popatrzą."
 
 # game/v4/v4.rpy:2556
 translate polish ep_a_d836c40a:
 
     # jo "Hell yeah!"
-    jo ""
+    jo "No i zajebiście!"
 
 # game/v4/v4.rpy:2566
 translate polish ep_a_e1da5c53:
 
     # jo "Amber, who's the most attractive guy in the room?"
-    jo ""
+    jo "Amber, kto jest najbardziej atrakcyjnym facetem w pokoju?"
 
 # game/v4/v4.rpy:2571
 translate polish ep_a_ae033f4e:
 
     # jo "Sorry about that, [name]. I don't want you to feel bad. I'm sure you're a close second."
-    jo ""
+    jo "Wybacz, [name]. Nie chcę, żebyś się poczuł gorszy czy coś. Jestem pewien, że zajmujesz drugie miejsce."
 
 # game/v4/v4.rpy:2576
 translate polish ep_a_e79d3cc9:
 
     # am "Actually, I prefer fresh meat over here."
-    am ""
+    am "Właściwie to wolę świeże mięso."
 
 # game/v4/v4.rpy:2581
 translate polish ep_a_585ad7c3:
 
     # jo "What?"
-    jo ""
+    jo "Co?"
 
 # game/v4/v4.rpy:2586
 translate polish ep_a_4309e613:
 
     # am "Not gonna lie, I'm kinda digging the black eye."
-    am ""
+    am "Nie będę kłamać, kręci mnie jego limo."
 
 # game/v4/v4.rpy:2591
 translate polish ep_a_0d2fa712:
 
     # u "Thanks, I'm digging your regular eye too."
-    u ""
+    u "Dzięki, mnie też kręcą twoje oczy."
 
 # game/v4/v4.rpy:2596
 translate polish ep_a_d66e9176:
 
     # am "Hahaha."
-    am ""
+    am "Hahaha."
 
 # game/v4/v4.rpy:2637
 translate polish ep_a_7906f94c:
 
     # jo "*Drunk* Okayy... last one."
-    jo ""
+    jo "*Pijany* Dobra... ostatnie."
 
 # game/v4/v4.rpy:2639
 translate polish ep_a_6f04970a:
 
     # jo "*Drunk* [name], choose another player and do a tequila shot off of them."
-    jo ""
+    jo "*Pijany* [name], wybierz innego gracza i wypij z niego tequilę."
 
 # game/v4/v4.rpy:2644
 translate polish ep_a_7f817680:
 
     # jo "*Drunken Laugh* Nice one, mate."
-    jo ""
+    jo "*Pijany śmiech* Nieźle, ziom."
 
 # game/v4/v4.rpy:2646
 translate polish ep_a_f23f8ceb:
 
     # jo "*Drunk* So that means that you lick salt off their collarbone, then drink a shot of tequila out of their belly button and then bite into a lime that they're holding with their mouth."
-    jo ""
+    jo "*Pijany* To oznacza, że zlizujesz sól z obojczyka tej osoby, potem walisz shota tequili z jej pępka, a na koniec zagryzasz limonką, którą trzyma w ustach."
 
 # game/v4/v4.rpy:2648
 translate polish ep_a_be5f51b5:
 
     # jo "*Drunk* I assume you won't pick me, so who's it gonna be?"
-    jo ""
+    jo "*Pijany* Zakładam, że mnie nie wybierzesz, więc kto to będzie?"
 
 # game/v4/v4.rpy:2653
 translate polish ep_a_30745333:
 
     # jo "Amber?"
-    jo ""
+    jo "Amber?"
 
 # game/v4/v4.rpy:2658
 translate polish ep_a_9338284c:
 
     # jo "Or Kim?"
-    jo ""
+    jo "Czy Kim?"
 
 # game/v4/v4.rpy:2662
 translate polish ep_a_7aa5ee22:
 
     # u "*Drunk* Uhh..."
-    u ""
+    u "*Pijany* Uhh..."
 
 # game/v4/v4.rpy:2671
 translate polish ep_a_4edf4b8d:
 
     # jo "*Drunk* Alright [name], lick the salt off her collarbone, drink the shot out of her belly button and bite the lime out of her mouth."
-    jo ""
+    jo "*Pijany* Dobra [name], zlizujesz sól z jej obojczyka, walisz shota tequili z jej pępka i zagryzasz limonką, którą trzyma w ustach."
 
 # game/v4/v4.rpy:2701
 translate polish ep_a_2e9d9883:
 
     # u "*Spits*"
-    u ""
+    u "*Wypluwa*"
 
 # game/v4/v4.rpy:2710
 translate polish ep_a_5f5680c8:
 
     # "*Phone alarm goes off*"
-    ""
+    "*Włącza się alarm telefonu*"
 
 # game/v4/v4.rpy:2726
 translate polish ep_a_2e9d9883_1:
 
     # u "*Spits*"
-    u ""
+    u "*Wypluwa*"
 
 # game/v4/v4.rpy:2733
 translate polish ep_a_f99b5c3c:
 
     # "*Phone alarm ringing*"
-    ""
+    "*Dzwoni alarm telefonu*"
 
 # game/v4/v4.rpy:2741
 translate polish ep_a_4edf4b8d_1:
 
     # jo "*Drunk* Alright [name], lick the salt off her collarbone, drink the shot out of her belly button and bite the lime out of her mouth."
-    jo ""
+    jo "*Pijany* Dobra [name], zlizujesz sól z jej obojczyka, walisz shota tequili z jej pępka i zagryzasz limonką, którą trzyma w ustach."
 
 # game/v4/v4.rpy:2771
 translate polish ep_a_a7999c7a:
 
     # u "*Spit sound*"
-    u ""
+    u "*Dźwięk wypluwania*"
 
 # game/v4/v4.rpy:2776
 translate polish ep_a_133d1a3f:
 
     # ki "Mhhh... no."
-    ki ""
+    ki "Mhhh... nie."
 
 # game/v4/v4.rpy:2783
 translate polish ep_a_5f5680c8_1:
 
     # "*Phone alarm goes off*"
-    ""
+    "*Włącza się alarm telefonu*"
 
 # game/v4/v4.rpy:2799
 translate polish ep_a_2e9d9883_2:
 
     # u "*Spits*"
-    u ""
+    u "*Wypluwa*"
 
 # game/v4/v4.rpy:2806
 translate polish ep_a_f99b5c3c_1:
 
     # "*Phone alarm ringing*"
-    ""
+    "*Dzwoni alarm telefonu*"
 
 # game/v4/v4.rpy:2812
 translate polish es_bd_4bc21722:
 
     # u "(Shit, I gotta go meet Chloe!)"
-    u ""
+    u "(Kurwa, muszę iść na spotkanie z Chloe!)"
 
 # game/v4/v4.rpy:2816
 translate polish es_bd_b03cce99:
 
     # u "*Drunk* Guys, I really gotta go."
-    u ""
+    u "*Pijany* Ludziska, naprawdę muszę już iść."
 
 # game/v4/v4.rpy:2818
 translate polish es_bd_09610840:
 
     # u "*Drunk* Maybe I- I'll come back later."
-    u ""
+    u "*Pijany* Może jesz- jeszcze poźniej wpadnę."
 
 # game/v4/v4.rpy:2825
 translate polish es_bd_16030c75:
 
     # u "(*Drunk* Okay, I- I just gotta ask her straight up.)"
-    u ""
+    u "(*Pijany* Dobra, muszę ją zapytać prosto z mostu.)"
 
 # game/v4/v4.rpy:2827
 translate polish es_bd_b3822d0f:
 
     # u "(*Drunk* Does she- does she like me or is she just- just using me to get back at Grayson?)"
-    u ""
+    u "(*Pijany* Czy ona- czy ona mnie lubi, czy po prostu- wykorzystuje mnie, żeby zemścić się na Graysonie?)"
 
 # game/v4/v4.rpy:2836
 translate polish es_bd_4f1997c1:
 
     # "*Knock knock knock*"
-    ""
+    "*Puk puk puk*"
 
 # game/v4/v4.rpy:2845
 translate polish es_bd_b2db8899:
 
     # cl "Hey. You wanna come in?"
-    cl ""
+    cl "Hej. Chcesz wejść?"
 
 # game/v4/v4.rpy:2850
 translate polish es_bd_0080dfa0:
 
     # u "*Drunk* Hey uh, actually... can we- can we talk outside first? I- I just wanna clear something up."
-    u ""
+    u "*Pijany* Hej uh, właściwie... możemy-... możemy najpierw porozmawiać na zewnątrz? Chcę tylko coś wyjaśnić."
 
 # game/v4/v4.rpy:2855
 translate polish es_bd_779bc2cc:
 
     # cl "[name], are you drunk?"
-    cl ""
+    cl "[name], jesteś pijany?"
 
 # game/v4/v4.rpy:2860
 translate polish es_bd_72d4dead:
 
     # u "*Drunk* Nah, I just had a drink with some friends."
-    u ""
+    u "*Pijany* Nie, po prostu wypiłem drinka z paroma znajomymi."
 
 # game/v4/v4.rpy:2865
 translate polish es_bd_e182e941:
 
     # cl "Right... Let me just put on a sweater..."
-    cl ""
+    cl "Tia... Daj mi tylko założyć sweter..."
 
 # game/v4/v4.rpy:2870
 translate polish es_bd_9b634cd2:
 
     # cl "So, what did you wanna talk to me about?"
-    cl ""
+    cl "Więc o czym chciałeś ze mną porozmawiać?"
 
 # game/v4/v4.rpy:2875
 translate polish es_bd_7925b371:
 
     # u "*Drunk* Well, Ryan... *deep breath* Ryan said you were playing me and just using me to get back at Grayson."
-    u ""
+    u "*Pijany* Więc ten no, Ryan... *głęboki oddech* Ryan powiedział, że bawisz się mną i wykorzystujesz mnie, żeby zemścić się na Graysonie."
 
 # game/v4/v4.rpy:2880
 translate polish es_bd_d4db55dd:
 
     # cl "What?? [name], that's bullshit."
-    cl ""
+    cl "Co?? [name], przecież to bzdury."
 
 # game/v4/v4.rpy:2885
 translate polish es_bd_4704181f:
 
     # u "*Drunk* He said Grayson, he- he told him about a lot of shady shit that you did in the past."
-    u ""
+    u "*Pijany* Rozmawiał z Graysonem, on mu po- powiedział o wszystkich akcjach, które odjebałaś w przeszłości."
 
 # game/v4/v4.rpy:2889
 translate polish es_bd_e4c40602:
 
     # cl "Well there you have it! Grayson put him up to this, just to fuck with me! I didn't do anything shady!"
-    cl ""
+    cl "Czy ty tego nie widzisz! Grayson go do tego namówił, żeby mógł się ze mną pieprzyć! Nigdy nie grałam nieczysto!"
 
 # game/v4/v4.rpy:2898
 translate polish es_bd_3c06ac2d:
 
     # u "*Drunk* You're lying! Yeah sure, the hottest girl in school wants me, the freshman who got beaten up at his first college party."
-    u ""
+    u "*Pijany* Kłamiesz! Jasne, najgorętsza dziewczyna na kampusie chce mnie, pierwszoroczniaka, który został pobity na swojej pierwszej studenckiej imprezie."
 
 # game/v4/v4.rpy:2900
 translate polish es_bd_630e0c6c:
 
     # u "*Drunk* Pretty realistic, isn't it?!"
-    u ""
+    u "*Pijany* Brzmi bardzo prawdopodobnie, prawda?!"
 
 # game/v4/v4.rpy:2905
 translate polish es_bd_17de23f6:
 
     # cl "[name], I don't care about the fighting, or any of that shit. What Grayson did to you was pathetic. I like you 'cause you were funny and kind and ... and you cared."
-    cl ""
+    cl "[name], nie obchodzi mnie walka ani inne gówno. To, co Grayson ci zrobił, było żałosne. Lubię cię, bo byłeś zabawny, miły i... i troszczyłeś się."
 
 # game/v4/v4.rpy:2915
 translate polish eu_b_d5b3da76:
 
     # u "*Drunk* Really?? Then why did you go after Grayson instead of helping me up when he knocked me out??"
-    u ""
+    u "*Pijany* Naprawdę?? Więc dlaczego poszłaś za Graysonem zamiast pomóc mi wstać, kiedy mnie znokautował??"
 
 # game/v4/v4.rpy:2920
 translate polish eu_b_1e16adae:
 
     # cl "I- I..."
-    cl ""
+    cl "Ja- ja..."
 
 # game/v4/v4.rpy:2922
 translate polish eu_b_a5093b42:
 
     # cl "I told him to stop, okay?? I didn't know if he was gonna hurt you even more."
-    cl ""
+    cl "Powiedziałam mu, żeby przestał, dobra?? Nie wiedziałam, czy jeszcze bardziej cię skrzywdzi."
 
 # game/v4/v4.rpy:2927
 translate polish eu_b_2f9ba4ed:
 
     # u "*Drunk* Ryan said that you just saw his punch as a personal attack and didn't give one fuck about me being hurt. And you know what? Maybe he's right!"
-    u ""
+    u "*Pijany* Ryan powiedział, że odczułaś, że to chodzi o ciebie i chuj cię obchodziło to, że zostałem zraniony. I wiesz co? Może ma rację!"
 
 # game/v4/v4.rpy:2932
 translate polish eu_b_fd7e91c0:
 
     # cl "What have I ever done for you not to fucking trust me one bit?!"
-    cl ""
+    cl "Co ja ci takiego kurwa zrobiłam, że ani trochę mi nie ufasz?!"
 
 # game/v4/v4.rpy:2937
 translate polish eu_b_32c157af:
 
     # u "*Drunk* Apparently a bunch of shady shit in the past!"
-    u ""
+    u "*Pijany* Podobno w przeszłości sporo odjebałaś!"
 
 # game/v4/v4.rpy:2942
 translate polish eu_b_6a8d31a8:
 
     # cl "*Gasp*"
-    cl ""
+    cl "*Sapanie*"
 
 # game/v4/v4.rpy:2944
 translate polish eu_b_07eb5d33:
 
     # cl "You know how you can be sure I wasn't just using you?"
-    cl ""
+    cl "Wiesz, dzięki czemu możesz być pewien, że cię nie wykorzystywałam?"
 
 # game/v4/v4.rpy:2946
 translate polish eu_b_59dbc30c:
 
     # cl "Because if I was using you, I would probably try to seduce you back into trusting me right now."
-    cl ""
+    cl "Gdybym cię wykorzystywała, prawdopodobnie próbowałabym cię teraz uwieść, żebyś mi zaufał."
 
 # game/v4/v4.rpy:2948
 translate polish eu_b_1619571b:
 
     # cl "But don't worry, I don't want that. We're done."
-    cl ""
+    cl "Ale nie martw się, nie zrobię tego. Z nami koniec."
 
 # game/v4/v4.rpy:2953
 translate polish eu_b_a8756a7b:
 
     # u "*Drunk* Chloe!"
-    u ""
+    u "*Pijany* Chloe!"
 
 # game/v4/v4.rpy:2960
 translate polish eu_b_c7c1b3e8:
 
     # "*Door slam*"
-    ""
+    "*Zatrzaśnięcie drzwi*"
 
 # game/v4/v4.rpy:2965
 translate polish eu_b_fae10745:
 
     # u "HNGGGG!"
-    u ""
+    u "AAAAAA!"
 
 # game/v4/v4.rpy:2977
 translate polish eu_b_ac6b696f:
 
     # u "Ah, fuck!"
-    u ""
+    u "Nosz kurwa!"
 
 # game/v4/v4.rpy:2979
 translate polish eu_b_05148e1b:
 
     # unknown "[name], is that you??"
-    unknown ""
+    unknown "[name], czy to ty??"
 
 # game/v4/v4.rpy:2986
 translate polish eu_b_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v4/v4.rpy:2988
 translate polish eu_b_8d1e43e3:
 
     # u "Oh shit..."
-    u ""
+    u "O kurwa..."
 
 translate polish strings:
 
