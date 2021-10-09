@@ -2938,7 +2938,7 @@ translate chineses eu_b_fd7e91c0:
 translate chineses eu_b_32c157af:
 
     # u "*Drunk* Apparently a bunch of shady shit in the past!"
-    u "*醉了*明显有一堆过去见不得人的事！"
+    u "*醉了*明显有一堆见不得人的往事！"
 
 # game/v4/v4.rpy:2942
 translate chineses eu_b_6a8d31a8:
@@ -2962,7 +2962,7 @@ translate chineses eu_b_59dbc30c:
 translate chineses eu_b_1619571b:
 
     # cl "But don't worry, I don't want that. We're done."
-    cl "不过不用担心，我不想那样做。我们之间结束了。"
+    cl "不过不用担心，我并不想那样做。我们之间结束了。"
 
 # game/v4/v4.rpy:2953
 translate chineses eu_b_a8756a7b:
