@@ -4,7 +4,7 @@
 translate polish fight_tutorialLabel_0aadd307:
 
     # tut "In every fight, you'll have positions from which you can attack and positions from which you'll need to defend."
-    tut "W każdej walce będziesz musiał wybrać pozycję w której będziesz atakował oraz pozycję w której będziesz się bronił."
+    tut "W każdej walce będziesz musiał wybrać pozycję, w której będziesz atakował oraz pozycję, w której będziesz się bronił."
 
 # game/fights/fight_labels.rpy:8
 translate polish fight_tutorialLabel_ae7d5522:
@@ -16,7 +16,7 @@ translate polish fight_tutorialLabel_ae7d5522:
 translate polish fight_tutorialLabel_0c9e457e:
 
     # tut "Since you're new to fighting, you only have 3 simple attacks:"
-    tut "Jako, że jesteś niedoświadczony w walce, znasz tylko 3 proste ataki:"
+    tut "Jako że jesteś niedoświadczony w walce, znasz tylko 3 proste ataki:"
 
 # game/fights/fight_labels.rpy:13
 translate polish fight_tutorialLabel_96c8a50f:

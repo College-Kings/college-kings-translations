@@ -104,7 +104,7 @@ translate polish strings:
 
     # renpy/common/00accessibility.rpy:202
     old "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was."
-    new "Opcje tegu menu mają na celu poprawę dostępności. Mogą nie działać we wszystkich grach, a niektóre kombinacje opcji mogą uniemożliwić grę. To nie jest problem gry ani silnika. Aby uzyskać najlepsze efekty podczas zmiany czcionek, staraj się zachować taki sam rozmiar tekstu, jak pierwotnie."
+    new "Opcje tego menu mają na celu poprawę dostępności. Mogą nie działać we wszystkich grach, a niektóre kombinacje opcji mogą uniemożliwić grę. To nie jest problem gry ani silnika. Aby uzyskać najlepsze efekty podczas zmiany czcionek, staraj się zachować taki sam rozmiar tekstu, jak pierwotnie."
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Monday"
@@ -624,7 +624,7 @@ translate polish strings:
 
     # renpy/common/00preferences.rpy:571
     old "Clipboard voicing enabled. Press 'shift+C' to disable."
-    new "Dźwięki ze schowka właczone. Naciśnij 'shift+C', aby wyłączyć."
+    new "Dźwięki ze schowka włączone. Naciśnij 'shift+C', aby wyłączyć."
 
     # renpy/common/00preferences.rpy:573
     old "Self-voicing would say \"[renpy.display.tts.last]\". Press 'alt+shift+V' to disable."
@@ -844,11 +844,11 @@ translate polish strings:
 
     # renpy/common/00gltest.rpy:259
     old "The {a=edit:1:log.txt}log.txt{/a} file may contain information to help you determine what is wrong with your computer."
-    new "Plik {a=edit:1:log.txt}log.txt{/a} może zawierać informacje, które pomogą ci określić, co jest nie tak z twoim komputerem.."
+    new "Plik {a=edit:1:log.txt}log.txt{/a} może zawierać informacje, które pomogą ci określić, co jest nie tak z twoim komputerem."
 
     # renpy/common/00gltest.rpy:264
     old "More details on how to fix this can be found in the {a=[url]}documentation{/a}."
-    new "Więcej informacji na temat rozwiązania tego problemu można znaleźć w {a=[url]}documentation{/a}."
+    new "Więcej informacji na temat rozwiązania tego problemu można znaleźć w {a=[url]}dokumentacji{/a}."
 
     # renpy/common/00gltest.rpy:269
     old "Continue, Show this warning again"
@@ -928,11 +928,11 @@ translate polish strings:
 
     # renpy/common/_errorhandling.rpym:613
     old "Ignores the exception, allowing you to continue."
-    new "Ignoruje wyjątek, pozwalajac ci kontynuować."
+    new "Ignoruje wyjątek, pozwalając ci kontynuować."
 
     # renpy/common/_errorhandling.rpym:615
     old "Ignores the exception, allowing you to continue. This often leads to additional errors."
-    new "Ignoruje wyjątek, pozwalajac ci kontynuować. Prowadzo to często do dodatkowych błędów."
+    new "Ignoruje wyjątek, pozwalając ci kontynuować. Prowadzi to często do dodatkowych błędów."
 
     # renpy/common/_errorhandling.rpym:619
     old "Reload"
