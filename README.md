@@ -213,17 +213,17 @@ v10 files | 0/41 | - | [ ] | -
 ### polish
 Progress | ?/all | Who is working on it? | Proofreading | Who is proofreading?
 -------- | -------- | --------- | --------- | ---------
-non script files | 6/6 | Klamos | [ ] | Klamos
-v01.rpy | 5225/5225 | Klamos | [ ] | Klamos
-v02.rpy | 4221/4221 | Klamos | [ ] | Klamos
-v03.rpy | 3636/3636 | Klamos | [ ] | Klamos
+non script files | 6/6 | Klamos | [x] | Klamos
+v01.rpy | 5225/5225 | Klamos | [x] | Klamos
+v02.rpy | 4221/4221 | Klamos | [x] | Klamos
+v03.rpy | 3636/3636 | Klamos | [x] | Klamos
 v04.rpy | 3227/3227 | Klamos | [ ] | Klamos
 v05.rpy | 0/3498 | Klamos | [ ] | Klamos
-v06.rpy | 0/11645 | - | [ ] | -
-v07.rpy | 0/18403 | - | [ ] | -
-v08 files | 0/45 | - | [ ] | -
-v09 files | 0/42 | - | [ ] | -
-v10 files | 0/41 | - | [ ] | -
+v06.rpy | 0/11645 | Klamos | [ ] | Klamos
+v07.rpy | 0/18403 | Klamos | [ ] | Klamos
+v08 files | 0/45 | Klamos | [ ] | Klamos
+v09 files | 0/42 | Klamos | [ ] | Klamos
+v10 files | 0/41 | Klamos | [ ] | Klamos
 
 
 
