@@ -52,7 +52,7 @@ translate polish v3start_0c12dca7:
 translate polish v3start_924b5680:
 
     # cl "Me and Grayson had a thing, a looong time ago."
-    cl "Ja i Grayson byliśy razem, daaaaaawno temu."
+    cl "Ja i Grayson byliśmy razem, daaaaaawno temu."
 
 # game/v3/v3.rpy:57
 translate polish v3start_68d063d6:
@@ -220,7 +220,7 @@ translate polish cm_bd_3c209707:
 translate polish cm_bd_6de04fd1:
 
     # u "Well, I met this really nice girl called Penelope. And apparently, she's in our history class."
-    u "Cóż, poznałem naprawdę miłą dziewczynę o imieniu Penelope. I tak sięskłada, że chodzi z nami na zajęcia z historii."
+    u "Cóż, poznałem naprawdę miłą dziewczynę o imieniu Penelope. I tak się składa, że chodzi z nami na zajęcia z historii."
 
 # game/v3/v3.rpy:205
 translate polish cm_bd_3d04ec9b:
@@ -496,7 +496,7 @@ translate polish conl_b2561454:
 translate polish conl_a066df0b:
 
     # cl "I mean possibly, but where's the fun without the chance of getting caught?"
-    cl "Być może, ale nie ma zabawy bez ryzyka zostania złapanym, co nie?"
+    cl "Być może, ale nie ma zabawy bez ryzyka bycia złapanym, co nie?"
 
 # game/v3/v3.rpy:481
 translate polish conl_5e38262e:
@@ -688,7 +688,7 @@ translate polish cr_bd_f00b573d:
 translate polish cr_bd_2520a71c:
 
     # u "Well, maybe not exactly this."
-    u "No może nie dokładnie to."
+    u "No może niedokładnie to."
 
 # game/v3/v3.rpy:759
 translate polish cr_bd_69597b38:
@@ -754,7 +754,7 @@ translate polish cr_bd_e209a35e:
 translate polish cr_bd_921a112c:
 
     # u "Emily? It's 2 am, what are you doing here? I thought you were at your friend's birthday party?"
-    u "Emily? Jest 2 w nocy, co ty tu robisz? Myślałem, że miałaś być na urddzinach swojego znajomego?"
+    u "Emily? Jest 2 w nocy, co ty tu robisz? Myślałem, że miałaś być na urodzinach swojego znajomego?"
 
 # game/v3/v3.rpy:855
 translate polish cr_bd_148d796e:
@@ -856,7 +856,7 @@ translate polish cr_bd_3e5ce331:
 translate polish cr_bd_6a03dbfb:
 
     # imre "You have to be a Wolf to train there. That's one of the reasons I can't wait to pledge, man."
-    imre "Żeby tam trenować, trzeba być Wilkiem. Stary, to jeden z powodów, dla których nie mogę się doczekać aż do nich dołaczę."
+    imre "Żeby tam trenować, trzeba być Wilkiem. Stary, to jeden z powodów, dla których nie mogę się doczekać aż do nich dołączę."
 
 # game/v3/v3.rpy:966
 translate polish cr_bd_22be2ff0:
@@ -1006,7 +1006,7 @@ translate polish cw_a_189777f9:
 translate polish cw_a_3586bb88:
 
     # imre "How about we start with the basics? Do you know how to throw a hook, jab and kick?"
-    imre "Może zaczniemy od podstaw? Wiesz jak wyprowadzić haki, proste i kopnięcia?"
+    imre "Może zaczniemy od podstaw? Wiesz, jak wyprowadzić haki, proste i kopnięcia?"
 
 # game/v3/v3.rpy:1100
 translate polish cw_a_0c0a6182:
@@ -1018,7 +1018,7 @@ translate polish cw_a_0c0a6182:
 translate polish cw_b_0e2a9c39:
 
     # imre "Alriiight. It wasn't exactly perfect form, but it's pretty good for a beginner."
-    imre "Dooobra. Nie było idealnie, ale jest całkiem nieżle, jak na początkującego."
+    imre "Dooobra. Nie było idealnie, ale jest całkiem nieźle, jak na początkującego."
 
 # game/v3/v3.rpy:1147
 translate polish cw_b_934009a2:
@@ -1060,7 +1060,7 @@ translate polish cx_a_8370dc32:
 translate polish cx_a_f1c513ec:
 
     # u "Look, I think you're quite cute and my friend thinks I chicken out when it comes to girls..."
-    u "Słuchaj, myślę, że jesteś całkiem ładna, a mój kumpel myśli, że nie mam odawgi zagadać do dziewczyny..."
+    u "Słuchaj, myślę, że jesteś całkiem ładna, a mój kumpel myśli, że nie mam odwagi zagadać do dziewczyny..."
 
 # game/v3/v3.rpy:1186
 translate polish cx_a_9b88e00e:
@@ -1120,7 +1120,7 @@ translate polish cx_a_6c6f5a99:
 translate polish cx_a_ecad669a:
 
     # ev "Damn, that was convincing. Okay, I'm in."
-    ev "Kurcze, to było przekonujące. Dobra, wchodzę w to."
+    ev "Kurde, to było przekonujące. Dobra, wchodzę w to."
 
 # game/v3/v3.rpy:1225
 translate polish cx_a_c9c5027b:
@@ -1192,7 +1192,7 @@ translate polish cx_ad_c5cbcb80:
 translate polish cx_ad_4ec90385:
 
     # imre "Low-kicks target the legs and weaken the opponent's stance."
-    imre "Nieskie kopnięcia w nogi, żeby osłabić postawę przeciwnika."
+    imre "Niskie kopnięcia w nogi, żeby osłabić postawę przeciwnika."
 
 # game/v3/v3.rpy:1286
 translate polish cx_ad_cfd6282e:
@@ -1264,7 +1264,7 @@ translate polish cx_ad_37fe551f:
 translate polish cx_ad_94fbb147:
 
     # imre "Great job! Try it again."
-    imre "Dobra robota! Spóbuj jeszcze raz."
+    imre "Dobra robota! Spróbuj jeszcze raz."
 
 # game/v3/v3.rpy:1365
 translate polish cx_ad_d3003fe6:
@@ -1642,7 +1642,7 @@ translate polish repeatl_aec10110:
 translate polish repeatl_10a29175:
 
     # u "Touch both your elbows in front of your chest."
-    u "---"
+    u "Złącz łokcie, nie odrywając rąk od ciała."
 
 # game/v3/v3.rpy:1764
 translate polish repeatl_fcca8881:
@@ -1876,7 +1876,7 @@ translate polish repeatm_aec10110:
 translate polish repeatm_10a29175:
 
     # u "Touch both your elbows in front of your chest."
-    u "---"
+    u "Złącz łokcie, nie odrywając rąk od ciała."
 
 # game/v3/v3.rpy:2006
 translate polish repeatm_fcca8881:
@@ -2092,7 +2092,7 @@ translate polish continuem_a86a48d3:
 translate polish continuem_30fc9a25:
 
     # u "(I just don't know if it would be a good idea if we were to hook up. What if she tells Chloe? Would Chloe be okay with it?)"
-    u "(Po prostu nie wiem, czy bzykanie się to dobry pomysł. A co jeśli powie Chloe? Czy Chloe nie będzie miała nic przeciwko?)"
+    u "(Po prostu nie wiem, czy bzykanie się to dobry pomysł. A co, jeśli powie Chloe? Czy Chloe nie będzie miała nic przeciwko?)"
 
 # game/v3/v3.rpy:2233
 translate polish continuem_5ba9599e:
@@ -2176,7 +2176,7 @@ translate polish amiss_9ea2f78c:
 translate polish amiss_2ef60271:
 
     # au "*moans*"
-    au "*jęczy*"
+    au "*Jęczy*"
 
 # game/v3/v3.rpy:2329
 translate polish amiss_9ea2f78c_1:
@@ -2470,7 +2470,7 @@ translate polish dc_bd_0eaa1e86:
 translate polish dc_bd_d9edb83d:
 
     # u "Alright, just send me a text."
-    u "W porządku, po prostu do mnie napisz kiedy."
+    u "W porządku, po prostu do mnie napisz."
 
 # game/v3/v3.rpy:2615
 translate polish continueq_26b31879:
@@ -2500,7 +2500,7 @@ translate polish continueq_8ea462a7:
 translate polish continueq_6775f4bb:
 
     # ju "I was wondering if you would like to go shopping with me tomorrow morning?"
-    ju "Zastanwiałam się, czy jutro rano chciałbyś pójść ze mną na zakupy?"
+    ju "Zastanawiałam się, czy jutro rano chciałbyś pójść ze mną na zakupy?"
 
 # game/v3/v3.rpy:2643
 translate polish continueq_90c13a46:
@@ -2668,7 +2668,7 @@ translate polish de_bd_d1879211:
 translate polish de_bd_c8678876:
 
     # ri "Of course that's what made you wanna go. Why do I even spend time with you guys?"
-    ri "I oczywiście akurat to  cię przekonało, żeby z nami wyjść. Dlaczego ja się w ogóle z wami zadaję?"
+    ri "I oczywiście akurat to cię przekonało, żeby z nami wyjść. Dlaczego ja się w ogóle z wami zadaję?"
 
 # game/v3/v3.rpy:2804
 translate polish de_bd_cdae9e74:
@@ -3184,7 +3184,7 @@ translate polish dj_bd_b0b382da:
 translate polish dj_bd_608e2d7d:
 
     # la "Be real with someone else then."
-    la "W takim razie bądź sobę z kimś innym."
+    la "W takim razie bądź sobie z kimś innym."
 
 # game/v3/v3.rpy:3264
 translate polish dj_bd_90dd3450:
@@ -3214,7 +3214,7 @@ translate polish dk_bb_2ba1a056:
 translate polish dk_bb_4bc6e39b:
 
     # u "I'll make sure this date won't disappoint then."
-    u "Zrobię wszystko, żebyś nie zawiodłą się tą randką."
+    u "Zrobię wszystko, żebyś nie zawiodła się tą randką."
 
 # game/v3/v3.rpy:3301
 translate polish dk_bb_b91d7543:
@@ -3526,7 +3526,7 @@ translate polish strings:
 
     # game/v3/v3.rpy:1585
     old "Yeah, I'll be right there.."
-    new "Dobra, zaraz tam będę.."
+    new "Dobra, zaraz tam będę..."
 
     # game/v3/v3.rpy:1586
     old "My room has a window facing the backyard. Can you climb in through there instead of using the front door?"

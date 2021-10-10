@@ -178,7 +178,7 @@ translate polish starta_ed7737e5:
 translate polish starta_ee490b9d:
 
     # u "Mhm...."
-    u "Mhm...."
+    u "Mhm..."
 
 # game/v1/v1.rpy:200
 translate polish starta_c90fe374:
@@ -1030,7 +1030,7 @@ translate polish v1_freeRoam1_riley_452bcad3:
 translate polish v1_freeRoam1_riley_0a10c3a6:
 
     # ri "Trueee, I wish I had sat further back. I had to look like I was engaged the entire time, or I would have left a bad first impression."
-    ri "Praaawda, żałuję, że nie usiadłam dalej. Cały czas musiałam udawać, że mnie to interesuje, inaczej zostawiłabym złe pierwsze wrażenie."
+    ri "To prawda, żałuję, że nie usiadłam dalej. Cały czas musiałam udawać, że mnie to interesuje, inaczej zostawiłabym złe pierwsze wrażenie."
 
 # game/v1/v1.rpy:949
 translate polish v1_freeRoam1_riley_9ed721a3:
@@ -1066,7 +1066,7 @@ translate polish v1_freeRoam1_riley_9ed721a3_1:
 translate polish v1_freeRoam1_riley_5dd66e4c_1:
 
     # ri "Hmmm.. I'll think about it."
-    ri "Hmmm.. Pomyślę o tym."
+    ri "Hmmm... Pomyślę o tym."
 
 # game/v1/v1.rpy:984
 translate polish v1_freeRoam1_riley2_93a57ebd:
@@ -1324,7 +1324,7 @@ translate polish v1_freeRoam1_nora2_fd24539d:
 translate polish v1_freeRoam1_aubrey_db8e9080:
 
     # au "Ohhh shit, that feels good!"
-    au "Ooooo kurwa, tak mi dorze!"
+    au "Ooooo kurwa, tak mi dobrze!"
 
 # game/v1/v1.rpy:1198
 translate polish v1_freeRoam1_aubrey_3eb283e4:
@@ -1480,7 +1480,7 @@ translate polish efra_7b87d77e:
 translate polish efra_e5629812:
 
     # u "Soo.. they're equally good?"
-    u "Więc.. są równie dobrzy?"
+    u "Więc... są równie dobrzy?"
 
 # game/v1/v1.rpy:1320
 translate polish efra_6ec07095:
@@ -1498,13 +1498,13 @@ translate polish efra_c7393401:
 translate polish efra_db44cc06:
 
     # u " Honestly, after listening to you, the Wolves sound sick!"
-    u "Szczerze mówiąc, po wysłuchaniu ciebie, Wilki brzmią zajebiście!"
+    u "Szczerze mówiąc, po wysłuchaniu ciebie, Wilki wydają się być kozakami!"
 
 # game/v1/v1.rpy:1340
 translate polish efra_590aac41:
 
     # imre "Yeahhhh! They fucking are man. That's what I've been trying to tell you."
-    imre "Zgaaaaadza się! Bo kurwa są, ziomek. To właśnie próbowałem ci powiedzieć."
+    imre "Zgadza się! Bo kurwa nimi są, ziomek. To właśnie próbowałem ci powiedzieć."
 
 # game/v1/v1.rpy:1343
 translate polish an_bd_4ec46fa2:
@@ -1558,7 +1558,7 @@ translate polish an_bd_106453ce:
 translate polish an_bd_4d5428ef:
 
     # imre "By the way, I met a hot fresher today and she's coming over later to hang out with me and my friends."
-    imre "A przy okazji, poznałem dziś gorącą pierwszoklasitkę i wpadnie później, żeby spotkać się ze mną i moimi znajomymi."
+    imre "A przy okazji, poznałem dziś gorącą pierwszoklasistkę i wpadnie później, żeby spotkać się ze mną i moimi znajomymi."
 
 # game/v1/v1.rpy:1384
 translate polish an_bd_4011124e:
@@ -1582,7 +1582,7 @@ translate polish an_bd_72ce765f:
 translate polish an_bd_6e60c90b:
 
     # u "But... you didn't even know me at the time. What if I was a huge dick to you? Or-"
-    u "Ale... nawet mnie wtedy nie znałeś. Co jeśli okazałbym się kutasem? Albo-"
+    u "Ale... nawet mnie wtedy nie znałeś. Co, jeśli okazałbym się kutasem? Albo-"
 
 # game/v1/v1.rpy:1400
 translate polish an_bd_dff18ae1:
@@ -1600,7 +1600,7 @@ translate polish an_bd_56e6340a:
 translate polish an_bd_af41006b:
 
     # imre "Oh come on. There's gotta be some girl that you've talked to today?"
-    imre "Oc, no weź. Musi być jakaś dziewczyna, z którą dziś rozmawiałeś?"
+    imre "Och, no weź. Musi być jakaś dziewczyna, z którą dziś rozmawiałeś?"
 
 # game/v1/v1.rpy:1415
 translate polish an_bd_0dcbbae4:
@@ -1768,7 +1768,7 @@ translate polish talktorib_30f6b0d2:
 translate polish talktorib_7a8bd173:
 
     # u "This is my roommate Imre and his friend Riley."
-    u "To mój wspołlokator Imre i jego znajoma Riley."
+    u "To mój współlokator Imre i jego znajoma Riley."
 
 # game/v1/v1.rpy:1558
 translate polish talktorib_f23ab317:
@@ -2362,7 +2362,7 @@ translate polish sexdream1_9ea2f78c_1:
 translate polish sexdream1_5f82c229:
 
     # u "(Okay, this is definitely a dream, but I do like where this is going.)"
-    u "(Ok, to zdecydowanie sen, ale podoba mi się dokąd to zmierza.)"
+    u "(Ok, to zdecydowanie sen, ale podoba mi się, dokąd to zmierza.)"
 
 # game/v1/v1.rpy:2056
 translate polish sexdream1_b8e1d0bc:
@@ -2536,7 +2536,7 @@ translate polish sexdream1_a60d082c:
 translate polish sexdream1_d2fd3327:
 
     # ri "Yes! I love it when you dominate me."
-    ri "Tak! Uwielbiam kiedy dominujesz."
+    ri "Tak! Uwielbiam, kiedy dominujesz."
 
 # game/v1/v1.rpy:2176
 translate polish sexdream1_49087095:
@@ -3010,7 +3010,7 @@ translate polish au_bd_e0d89f5a:
 translate polish au_bd_0281779e:
 
     # u "I'm gonna assume that there's no jealous boyfriend or ex that'll beat me up after this?"
-    u "Zakładam, że nie ma żadnego zazdrosnego czhłopaka ani byłego, który by mnie za to pobił?"
+    u "Zakładam, że nie ma żadnego zazdrosnego chłopaka ani byłego, który by mnie za to pobił?"
 
 # game/v1/v1.rpy:2556
 translate polish au_bd_6fef738c:
@@ -3118,7 +3118,7 @@ translate polish av_ad_b9462e97:
 translate polish av_ad_070435d0:
 
     # u "Then Josh texted me, asking where I was."
-    u "Potem Josh napisał do mnie, pytając gdzie jestem."
+    u "Potem Josh napisał do mnie pytając, gdzie jestem."
 
 # game/v1/v1.rpy:2631
 translate polish av_ad_46a4f6f3:
@@ -3166,7 +3166,7 @@ translate polish av_ad_3e5a9f5c:
 translate polish av_ad_f1e66ef4:
 
     # u "I'm glad you're amused, because now it's time for your secret."
-    u "Cieszę się, że cię rozbawiłem bo przyszedł czas na twój sekret."
+    u "Cieszę się, że cię rozbawiłem, bo przyszedł czas na twój sekret."
 
 # game/v1/v1.rpy:2665
 translate polish aw_bd_509f9300:
@@ -3244,7 +3244,7 @@ translate polish aw_bd_ba6817cd:
 translate polish aw_bd_dba7d64f:
 
     # u "Haha, just enough to show my surprise."
-    u "Haha, wystarczająco żeby pokazać moje zdziwienie."
+    u "Haha, wystarczająco, żeby pokazać moje zdziwienie."
 
 # game/v1/v1.rpy:2727
 translate polish aw_bd_01e1731c:
@@ -3346,7 +3346,7 @@ translate polish ay_bd_782461ef:
 translate polish ay_bd_d0e4c8d5:
 
     # u "(Fuck... why did I try to kiss her?! That just made everything weird.)"
-    u "(Kurwa... dlaczego próbowałem ją pocałować?! Przez to wyszło wyszło niezręcznie.)"
+    u "(Kurwa... dlaczego próbowałem ją pocałować?! Przez to wyszło niezręcznie.)"
 
 # game/v1/v1.rpy:2819
 translate polish ay_bd_d70eb943:
@@ -3448,7 +3448,7 @@ translate polish next_scenea_109b736a_2:
 translate polish next_scenea_36792172:
 
     # u "Everything was going great, until there was this moment."
-    u "Wszystko szło świetnie dopóki nie nadszedł ten moment."
+    u "Wszystko szło świetnie, dopóki nie nadszedł ten moment."
 
 # game/v1/v1.rpy:2890
 translate polish next_scenea_a05079a6:
@@ -3562,7 +3562,7 @@ translate polish nextscenef_2a9430b2:
 translate polish nextscenef_0529f46b:
 
     # u "Yeah, but you know how you said there's gonna be so many hot chicks here?"
-    u "Tak, ale pamiętasz jak mówiłeś, że będzie tu mnóstwo gorących lasek?"
+    u "Tak, ale pamiętasz, jak mówiłeś, że będzie tu mnóstwo gorących lasek?"
 
 # game/v1/v1.rpy:2994
 translate polish nextscenef_00b07dd4:
@@ -3634,7 +3634,7 @@ translate polish v1_freeRoam2_sam_782c66f7:
 translate polish v1_freeRoam2_sam_4c9d54f9:
 
     # sam "What are you, the jacket police? It's warm outside, I'm not gonna wear a jacket, jeez."
-    sam "A ty co, kurtkowa policja? Na zewnątrz jest gorąco, nie będę zakładał kurtki, jezu."
+    sam "A ty co, kurtkowa policja? Na zewnątrz jest gorąco, nie będę zakładał kurtki, Jezu."
 
 # game/v1/v1.rpy:3055
 translate polish v1_freeRoam2_sam_8442a986:
@@ -4138,7 +4138,7 @@ translate polish v1_freeRoam2_mason_d42d1353:
 translate polish v1_freeRoam2_mason_3ece339e:
 
     # u "(Yeah [name], that seems like a brilliant thing to say about a hyper-aggressive idiot that prides himself in his fighting skills.)"
-    u "(Tak, [name], genialnie dobrane słowa o hiperagresywnym idiocie, który szczyci się swoimi umiejętnościami walki.)"
+    u "(Tak, [name], genialnie dobrane słowa o agresywnym idiocie, który szczyci się swoimi umiejętnościami walki.)"
 
 # game/v1/v1.rpy:3491
 translate polish v1_freeRoam2_mason_91513681:
@@ -4162,7 +4162,7 @@ translate polish v1_freeRoam2_mason_22dce75b:
 translate polish v1_freeRoam2_mason_6e94c23d:
 
     # ma "Bullshit, he's a freshman and he can handle it! And if he wants to be an Ape, he's gonna have to fight Cameron anyways at some point."
-    ma "Gówno prawda, jest na pierwszym roku i da sobie radę! A jeśli chce być Małpą, i tak będzie musiał kiedyś walczyć z Cameronem."
+    ma "Gówno prawda, jest na pierwszym roku i da sobie radę! A jeśli chce być Małpą i tak będzie musiał kiedyś walczyć z Cameronem."
 
 # game/v1/v1.rpy:3511
 translate polish v1_freeRoam2_mason_5d22c863:
@@ -4216,7 +4216,7 @@ translate polish v1_freeRoam2_mason_dbb221ad:
 translate polish v1_freeRoam2_mason_580e2e2e:
 
     # u "(Fuck, why did I just say that?! I can't even fucking fight and that guy is a hyper-aggressive idiot that prides himself in his fighting skills.)"
-    u "(O chuj, dlaczego to powiedziałem?! Nawet nie umiem kurwa walczyć, a ten gość jest hiperagresywnym idiotią, który szczyci się swoimi umiejętnościami walki."
+    u "(O chuj, dlaczego to powiedziałem?! Nawet nie umiem kurwa walczyć, a ten gość jest agresywnym idiotą, który szczyci się swoimi umiejętnościami walki."
 
 # game/v1/v1.rpy:3553
 translate polish v1_freeRoam2_mason_91513681_1:
@@ -4546,7 +4546,7 @@ translate polish fr2end_91a4ef1b:
 translate polish fr2end_88a9c7f1:
 
     # ry "I'm sure it's fine."
-    ry "Jestem przekonany, że nia będzie miała nic przeciwko."
+    ry "Jestem przekonany, że nie będzie miała nic przeciwko."
 
 # game/v1/v1.rpy:3834
 translate polish fr2end_e1000191:
@@ -4600,7 +4600,7 @@ translate polish bd_bd_b54d3e2d:
 translate polish bd_bd_c6ad9afc:
 
     # tom "So you should probably... you know, leave."
-    tom "Więc powinienieś raczej... no wiesz, pójść sobie."
+    tom "Więc powinieneś raczej... no wiesz, pójść sobie."
 
 # game/v1/v1.rpy:3876
 translate polish bd_bd_4962b2e6:
@@ -4816,7 +4816,7 @@ translate polish bf_bd_5bf6b182:
 translate polish bf_bd_50d28ae9:
 
     # u "Yeah, I've known him since middle school and let's just say he's always been very eager to get with girls."
-    u "Tak, znam go od gimnzajum i powiedzmy, że zawsze bardzo chętnie spotyka się z dziewczynami."
+    u "Tak, znam go od gimnazjum i powiedzmy, że zawsze bardzo chętnie spotyka się z dziewczynami."
 
 # game/v1/v1.rpy:4059
 translate polish bf_bd_b1a9dc18:
@@ -5194,7 +5194,7 @@ translate polish strings:
 
     # game/v1/v1.rpy:3264
     old "Ask if she likes fighters"
-    new "Zapytaj czy lubi wojowników"
+    new "Zapytaj, czy lubi wojowników"
 
     # game/v1/v1.rpy:3278
     old "Say you're a fighter"

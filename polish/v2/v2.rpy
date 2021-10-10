@@ -190,7 +190,7 @@ translate polish walk1_ae5cc9c0:
 translate polish walk1_4b258b6b:
 
     # tom "Eyy, Mr. steal-your-girl got beaten up. *laughs*"
-    tom "Ejj, Pan ukradłem-ci-laskę został pobity. *śmiech*"
+    tom "Ejj, pan ukradłem-ci-laskę został pobity. *śmiech*"
 
 # game/v2/v2.rpy:259
 translate polish walk1_50708946:
@@ -238,7 +238,7 @@ translate polish gb_9ea2f78c:
 translate polish tomtut1kick_4a328666:
 
     # tut "Great job! You've hit Tom and hurt him. He's now more likely to get tired, give up or even get knocked out."
-    tut "Dobra tobota! Uderzyłeś Toma i zraniłeś go. Jest teraz bardziej podatny na zmęczenie, poddanie się, a nawet znokautowanie."
+    tut "Dobra robota! Uderzyłeś Toma i zraniłeś go. Jest teraz bardziej podatny na zmęczenie, poddanie się, a nawet znokautowanie."
 
 # game/v2/v2.rpy:335
 translate polish tomtut1kick_100eaacc:
@@ -382,7 +382,7 @@ translate polish tuthookblock_cd62240e:
 translate polish tuthookhit_5d47b961:
 
     # tut "You did not block your head by pressing {b}Q{/b} and got hit. Next time, try to block the correct part of your body."
-    tut "Nie osłoniłeś głowe poprzez naciśnięcie {b}Q{/b} i oberwałeś. Następnym razem spróbuj zablokować odpowiednią część ciała."
+    tut "Nie osłoniłeś głowy poprzez naciśnięcie {b}Q{/b} i oberwałeś. Następnym razem spróbuj zablokować odpowiednią część ciała."
 
 # game/v2/v2.rpy:448
 translate polish tuthookhit_cd62240e:
@@ -502,7 +502,7 @@ translate polish meet_lauren2_7fca1bb1:
 translate polish meet_lauren2_ee09bd0b:
 
     # u "No but... I didn't even do anything."
-    u "Wiem, ale... nawet nie nie zrobiłem."
+    u "Wiem, ale... nawet nic nie zrobiłem."
 
 # game/v2/v2.rpy:1168
 translate polish meet_lauren2_688b87bc:
@@ -813,7 +813,7 @@ translate polish history2_49d2f115:
 translate polish history2_2782062a:
 
     # u "And then I just landed a couple good punches and suddenly he was laying on the floor bleeding."
-    u "A potem zadałem kilka dobrych ciosów i nagle leżał na ziemii, krwawiąc."
+    u "A potem zadałem kilka dobrych ciosów i nagle leżał na ziemi, krwawiąc."
 
 # game/v2/v2.rpy:1435
 translate polish history2_6db697b3:
@@ -843,7 +843,7 @@ translate polish history2_481db6df:
 translate polish history2_9461de7c:
 
     # imre "Was it another ape??? Tell me who, I'll fuck them up!"
-    imre "To byłka kolejna Małpa??? Powiedz komu mam wpierdolić!"
+    imre "To była kolejna Małpa??? Powiedz komu mam wpierdolić!"
 
 # game/v2/v2.rpy:1461
 translate polish history2_0b224f7b:
@@ -873,7 +873,7 @@ translate polish history2_4a3906a5:
 translate polish history2_a9ab2f05:
 
     # u "And then he just landed a couple good punches and suddenly I was laying on the floor bleeding."
-    u "A potem zadał kilka dobrych ciosów i nagle leżałem na ziemii, krwawiąc."
+    u "A potem zadał kilka dobrych ciosów i nagle leżałem na ziemi, krwawiąc."
 
 # game/v2/v2.rpy:1483
 translate polish history2_87177349:
@@ -951,7 +951,7 @@ translate polish history2_35f3617a_1:
 translate polish history2_67dc0c9c:
 
     # u "Okay... I guess I'll try it."
-    u "Dobra... Chyba mogę spóbować."
+    u "Dobra... Chyba mogę spróbować."
 
 # game/v2/v2.rpy:1545
 translate polish nextsceneo_e025761d:
@@ -969,7 +969,7 @@ translate polish nextsceneo_58eff7c4:
 translate polish nextsceneo_aaf1e329:
 
     # lee "Even though it is unfathomable to me how you could actively try to avoid the most exciting subject in the world..."
-    lee "Mimo, że jest to dla mnie niezrozumiałe, jak można próbować uniknięci anajbardziej ekscytującego przedmiotu na świecie..."
+    lee "Mimo, że jest to dla mnie niezrozumiałe, jak można próbować uniknięcia najbardziej ekscytującego przedmiotu na świecie..."
 
 # game/v2/v2.rpy:1553
 translate polish nextsceneo_cba6747b:
@@ -1065,7 +1065,7 @@ translate polish nextsceneo_4b455ace:
 translate polish nextsceneo_53dd7c6c:
 
     # ca "Sure, but I'll steal the show."
-    ca "Dobra, ale ściągne na siebie całą uwagę."
+    ca "Dobra, ale ściągnę na siebie całą uwagę."
 
 # game/v2/v2.rpy:1623
 translate polish nextsceneo_d9fba3f7:
@@ -1383,7 +1383,7 @@ translate polish bo_ad_821b0bf4:
 translate polish bo_ad_cc8c914a:
 
     # u "*Laughs* Emily, I'm kidding. I'm still single, I mean we only broke up a couple months ago."
-    u "*Śmieje się* Emily, żaruję. Nadal jestem singlem, to zaczy, zerwaliśmy zaledwie kilka miesięcy temu."
+    u "*Śmieje się* Emily, żartuję. Nadal jestem singlem, to znaczy, zerwaliśmy zaledwie kilka miesięcy temu."
 
 # game/v2/v2.rpy:1915
 translate polish bo_ad_0650d652:
@@ -1413,7 +1413,7 @@ translate polish bo_ad_b9fed6b2:
 translate polish bo_ad_799fe8d0:
 
     # u "I mean we only broke up a couple months ago."
-    u "To zaczy, zerwaliśmy zaledwie kilka miesięcy temu."
+    u "To znaczy, zerwaliśmy zaledwie kilka miesięcy temu."
 
 # game/v2/v2.rpy:1948
 translate polish bo_ad_4d82ac42:
@@ -1785,7 +1785,7 @@ translate polish bs_bd_16d3800d:
 translate polish bs_bd_2977c7af:
 
     # ehr "Alright, let me have a closer look and see if there's anything unusual about it."
-    ehr "Dobrze, pozwól, że przyjrzę się bliżej i sprawdzę, czy znajdę coś niepokojącego."
+    ehr "Dobrze, pozwól, że przyjrzę się bliżej i sprawdzę czy znajdę coś niepokojącego."
 
 # game/v2/v2.rpy:2280
 translate polish bs_bd_99ef3bd4:
@@ -1833,7 +1833,7 @@ translate polish bs_bd_635445a7:
 translate polish bs_bd_d075d62f:
 
     # ehr "Well then, your face should be back to normal in a week. If it doesn't get better, please come see me again."
-    ehr "W takim razie, twoja twarz powinna wrócić do normy w ciągu tygodnia. Jeśli się nie polepszy, przyjdźdo mnie ponownie."
+    ehr "W takim razie, twoja twarz powinna wrócić do normy w ciągu tygodnia. Jeśli się nie polepszy, przyjdź do mnie ponownie."
 
 # game/v2/v2.rpy:2314
 translate polish bs_bd_8024e817:
@@ -1947,7 +1947,7 @@ translate polish repeatc_8046f99c:
 translate polish repeatc_8b6bda4f:
 
     # pe "And then I thought \"But what if I'm disturbing him?\" So I decided not to say anything."
-    pe "A potem pomyślałam \"A co jeśli mu przeszkadzam??\" Więc postanowiłam nic nie mówić."
+    pe "A potem pomyślałam \"A co, jeśli mu przeszkadzam??\" Więc postanowiłam nic nie mówić."
 
 # game/v2/v2.rpy:2408
 translate polish repeatc_c40fb6f1:
@@ -2103,7 +2103,7 @@ translate polish repeatg_234dd80d:
 translate polish repeatg_c2bcf1de:
 
     # u "Penelope, I'm really sorry, but I have to go and meet my friend. It was nice seeing you."
-    u "Penelope, bardzo mi przkyro, ale muszę już iść na spotkanie ze znajomą. Fajnie się z tobą rozmawiało."
+    u "Penelope, bardzo mi przykro, ale muszę już iść na spotkanie ze znajomą. Fajnie się z tobą rozmawiało."
 
 # game/v2/v2.rpy:2531
 translate polish repeatg_febb5ee0:
@@ -2271,7 +2271,7 @@ translate polish csaub_7d01aa02:
 translate polish csaub_1944561c:
 
     # ev "So in this box are all the remaining costumes we have, I hope that's enough."
-    ev "W tym pudełku są wszyskie kostiumy, które nam zostały, mam nadzieję, że to wystarczy."
+    ev "W tym pudełku są wszystkie kostiumy, które nam zostały, mam nadzieję, że to wystarczy."
 
 # game/v2/v2.rpy:2685
 translate polish csaub_dd6b5362:
@@ -2403,7 +2403,7 @@ translate polish v2_nsfwSkipLabel1_f56eb18c:
 translate polish v2_nsfwSkipLabel1_c1c9b559:
 
     # u "I'm not sure if you should replace your everyday clothes with it though."
-    u "Ale nie jestem pewny, czy powinnać zastąpić nim swoje codzienne ubrania."
+    u "Ale nie jestem pewny, czy powinnaś zastąpić nim swoje codzienne ubrania."
 
 # game/v2/v2.rpy:2834
 translate polish v2_nsfwSkipLabel1_8671c31a:
@@ -2781,7 +2781,7 @@ translate polish cspe_9f3beb31:
 translate polish cspe_1944561c:
 
     # ev "So in this box are all the remaining costumes we have, I hope that's enough."
-    ev "W tym pudełku są wszyskie kostiumy, które nam zostały, mam nadzieję, że to wystarczy."
+    ev "W tym pudełku są wszystkie kostiumy, które nam zostały, mam nadzieję, że to wystarczy."
 
 # game/v2/v2.rpy:3230
 translate polish cspe_dd6b5362:
@@ -2901,7 +2901,7 @@ translate polish v2_nsfwSkipLabel4_94e659fd:
 translate polish v2_nsfwSkipLabel4_9427cc31:
 
     # u "You look beautiful. Do you like it?"
-    u "Wygląsz cudownie. Podoba ci się?"
+    u "Wyglądasz cudownie. Podoba ci się?"
 
 # game/v2/v2.rpy:3361
 translate polish v2_nsfwSkipLabel4_b030db80:
@@ -3633,7 +3633,7 @@ translate polish v1_buyContinuePenelope_8a573f4f:
 translate polish v1_buyContinuePenelope_6e568b1d:
 
     # pe "If you give me your number, I can let you know as soon as I have the money to pay you back."
-    pe "Jeśli podasz mi swój numer, dam ci znać, gdy tylko będę miała pieniądzę, żeby ci je oddać."
+    pe "Jeśli podasz mi swój numer, dam ci znać, gdy tylko będę miała pieniądze, żeby ci je oddać."
 
 # game/v2/v2.rpy:4053
 translate polish v1_buyContinuePenelope_7293f7e9:
@@ -3753,7 +3753,7 @@ translate polish eve1_6c6f5a99:
 translate polish eve1_ecad669a:
 
     # ev "Damn, that was convincing. Okay, I'm in."
-    ev "Kurcze, to było przekonujące. Dobra, wchodzę w to."
+    ev "Kurde, to było przekonujące. Dobra, wchodzę w to."
 
 # game/v2/v2.rpy:4141
 translate polish eve1_c9c5027b:
@@ -4079,7 +4079,7 @@ translate polish strings:
 
     # game/v2/v2.rpy:1816
     old "No, sorry."
-    new "Wybacz ale nie."
+    new "Wybacz, ale nie."
 
     # game/v2/v2.rpy:1889
     old "Yeah, of course. (joke)"
