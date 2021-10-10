@@ -4,163 +4,163 @@
 translate polish v5start_b1183ab6:
 
     # no "What are you doing here? And why did you just punch the wall?"
-    no ""
+    no "Co ty tutaj robisz? I dlaczego właśnie uderzyłeś w ścianę?"
 
 # game/v5/v5.rpy:70
 translate polish v5start_d59430b9:
 
     # u "*Drunk* It's Chloe... I just- I just wanted to talk to her..."
-    u ""
+    u "*Pijany* Chodzi o Chloe... Ja tylko- chciałem z nią porozmawiać..."
 
 # game/v5/v5.rpy:72
 translate polish v5start_e305aab5:
 
     # u "*Drunk* And now she's all mad and I don't even know what happened."
-    u ""
+    u "*Pijany* A teraz jest wściekła i nawet nie wiem, co się stało."
 
 # game/v5/v5.rpy:76
 translate polish v5start_f42e30d3:
 
     # no "Hmmm..."
-    no ""
+    no "Hmmm..."
 
 # game/v5/v5.rpy:81
 translate polish v5start_8f75944f:
 
     # no "Chloe can be a bit overdramatic sometimes, you know."
-    no ""
+    no "Wiesz, Chloe często dramatyzuje."
 
 # game/v5/v5.rpy:83
 translate polish v5start_e0724b74:
 
     # no "Maybe she'll calm down by tomorrow."
-    no ""
+    no "Może do jutra się uspokoi."
 
 # game/v5/v5.rpy:88
 translate polish v5start_c319e66f:
 
     # u "*Drunk* Right..."
-    u ""
+    u "*Pijany* Może masz rację..."
 
 # game/v5/v5.rpy:93
 translate polish v5start_30adda01:
 
     # no "Hey, it's none of my business, but... what did you guys talk about that made you wanna punch a wall after?"
-    no ""
+    no "Hej, to nie moja sprawa, ale... o czym rozmawialiście, że aż chciałeś uderzyć w ścianę?"
 
 # game/v5/v5.rpy:100
 translate polish v5start_7ff172e2:
 
     # u "*Drunk* My uhm, my friend, he- he said that Chloe did some shady shit in the past and I just had to find out the truth!"
-    u ""
+    u "*Pijany* Mój uhm, mój znajomy, powiedział, że Chloe w przeszłości odjebała kilka akcji i po prostu musiałem poznać prawdę!"
 
 # game/v5/v5.rpy:105
 translate polish v5start_203a8419:
 
     # no "And what did you find out?"
-    no ""
+    no "I czego się dowiedziałeś?"
 
 # game/v5/v5.rpy:110
 translate polish v5start_ba31489a:
 
     # u "*Drunk* Nothing! I think all I did was ruin our relationship..."
-    u ""
+    u "*Pijany* Nic! Myślę, że jedyne, co zrobiłem, to zrujnowałem naszą znajomość..."
 
 # game/v5/v5.rpy:115
 translate polish v5start_4dc2dc97:
 
     # no "Yeah, that sounds about right."
-    no ""
+    no "Tak, to brzmi dobrze."
 
 # game/v5/v5.rpy:120
 translate polish v5start_ce9d80ae:
 
     # u "*Drunk* What- What do you mean?"
-    u ""
+    u "*Pijany* Co- Co masz na myśli?"
 
 # game/v5/v5.rpy:125
 translate polish v5start_676fbf64:
 
     # no "Dude, you're drunk, upset and don't even know the whole story. What did you think was gonna happen when you talk to her?"
-    no ""
+    no "Koleś, jesteś pijany, zdenerwowany i nawet nie znasz całej historii. Myślałeś, że co się stanie, kiedy z nią porozmawiasz?"
 
 # game/v5/v5.rpy:130
 translate polish v5start_b37bcb68:
 
     # u "*Drunk* I don't know..."
-    u ""
+    u "*Pijany* Nie wiem..."
 
 # game/v5/v5.rpy:132
 translate polish v5start_3e1869e8:
 
     # u "*Drunk* What do you mean the whole story?"
-    u ""
+    u "*Pijany* Co masz na myśli przez całą historię?"
 
 # game/v5/v5.rpy:137
 translate polish v5start_f53fb841:
 
     # no "It's late, I really don't wanna get into it. But hey, let me know how your little love story ends."
-    no ""
+    no "Jest już późno, naprawdę nie chcę się w to teraz zagłębiać. Ale hej, daj mi znać, jak się skończy wasza romantyczna historia."
 
 # game/v5/v5.rpy:139
 translate polish v5start_cdb2d7d3:
 
     # no "Night, [name]."
-    no ""
+    no "Branoc, [name]."
 
 # game/v5/v5.rpy:144
 translate polish v5start_52e838e0:
 
     # u "*Drunk* Night..."
-    u ""
+    u "*Pijany* Branoc..."
 
 # game/v5/v5.rpy:150
 translate polish v5start_52c2a370:
 
     # u "*Drunk* Uhhh... nothing. It's not important."
-    u ""
+    u "*Pijany* Uhhh... nic. To nic takiego."
 
 # game/v5/v5.rpy:152
 translate polish v5start_c9a8b304:
 
     # u "*Drunk* I should uhm... probably go home now, it's late."
-    u ""
+    u "*Pijany* Powinienem eee... już chyba iść do domu, jest późno."
 
 # game/v5/v5.rpy:157
 translate polish v5start_a132ad83:
 
     # no "Alright, well let me know how your little love story ends."
-    no ""
+    no "W porządku, daj mi znać, jak się skończy wasza romantyczna historia."
 
 # game/v5/v5.rpy:159
 translate polish v5start_cdb2d7d3_1:
 
     # no "Night, [name]."
-    no ""
+    no "Branoc, [name]."
 
 # game/v5/v5.rpy:164
 translate polish v5start_52e838e0_1:
 
     # u "*Drunk* Night..."
-    u ""
+    u "*Pijany* Branoc..."
 
 # game/v5/v5.rpy:170
 translate polish v5start_04b2a395:
 
     # u "*Drunk* It's- it's nothing. I gotta go, I'll see you around, Nora."
-    u ""
+    u "*Pijany* To- to nic takiego. Muszę już iść, do zobaczenia, Nora."
 
 # game/v5/v5.rpy:175
 translate polish v5start_cc6f375e:
 
     # no "Alright, well let's hope you and our house don't get into another fight in the future."
-    no ""
+    no "W porządku, miejmy nadzieję, że ty i nasz dom już więcej się nie pokłócicie."
 
 # game/v5/v5.rpy:180
 translate polish v5start_0fba9dcb:
 
     # u "*Drunk* Yeah, right..."
-    u ""
+    u "*Pijany* Tak, racja..."
 
 # game/v5/v5.rpy:186
 translate polish ev_bd_f725ce66:
@@ -3744,7 +3744,7 @@ translate polish strings:
 
     # game/v5/v5.rpy:7
     old "I'll stay longer next time"
-    new ""
+    new "Następnym razem zostanę na dłużej"
 
     # game/v5/v5.rpy:11
     old "That does sound enticing ;)"
@@ -3772,15 +3772,15 @@ translate polish strings:
 
     # game/v5/v5.rpy:25
     old "Haha, I'm fine."
-    new ""
+    new "Haha, wszystko w porządku."
 
     # game/v5/v5.rpy:29
     old "Was hoping xx"
-    new ""
+    new "Taką miałam nadzieję xx"
 
     # game/v5/v5.rpy:32
     old "That's good xx"
-    new ""
+    new "To dobrze xx"
 
     # game/v5/v5.rpy:35
     old "Oh okay, hope you're good xx"
@@ -3792,51 +3792,51 @@ translate polish strings:
 
     # game/v5/v5.rpy:41
     old "Oh shut up, I was just checking in"
-    new ""
+    new "Och zamknij się, tylko się upewniałam"
 
     # game/v5/v5.rpy:42
     old "Don't worry, you'll see me again"
-    new ""
+    new "Nie martw się, jeszcze się zobaczymy"
 
     # game/v5/v5.rpy:43
     old "Haha, I'm fine"
-    new ""
+    new "Haha, wszystko w porządku"
 
     # game/v5/v5.rpy:65
     old "It's Chloe."
-    new ""
+    new "Chodzi o Chloe."
 
     # game/v5/v5.rpy:65
     old "It's nothing."
-    new ""
+    new "To nic takiego."
 
     # game/v5/v5.rpy:95
     old "Tell her"
-    new ""
+    new "Powiedz jej"
 
     # game/v5/v5.rpy:95
     old "Say you gotta go"
-    new ""
+    new "Powiedz, że musisz iść"
 
     # game/v5/v5.rpy:289
     old "I believe you."
-    new ""
+    new "Wierzę ci."
 
     # game/v5/v5.rpy:289
     old "You're lying."
-    new ""
+    new "Kłamiesz."
 
     # game/v5/v5.rpy:637
     old "Hey, it's Amber"
-    new ""
+    new "Hej, tu Amber"
 
     # game/v5/v5.rpy:638
     old "Josh gave me your number"
-    new ""
+    new "Josh dał mi twój numer"
 
     # game/v5/v5.rpy:639
     old "You know, you never came back, I thought we were having a good time xx"
-    new ""
+    new "Wiesz, nie wróciłeś do nas, a myślałam, że świetnie się bawimy xx"
 
     # game/v5/v5.rpy:640
     old "We did, I'll make it up to you."
@@ -3844,7 +3844,7 @@ translate polish strings:
 
     # game/v5/v5.rpy:641
     old "Sorry, something came up."
-    new ""
+    new "Sorki, coś mi wypadło."
 
     # game/v5/v5.rpy:646
     old "How come you didn't show up yesterday? Everything okay? xx"
@@ -3864,15 +3864,15 @@ translate polish strings:
 
     # game/v5/v5.rpy:660
     old "Hey"
-    new ""
+    new "Cześć"
 
     # game/v5/v5.rpy:661
     old "Wanna do the personality tests today at noon?"
-    new ""
+    new "Chcesz zrobić testy osobowości dzisiaj po południu?"
 
     # game/v5/v5.rpy:663
     old "Great :) Meet me at our economics' classroom."
-    new ""
+    new "Świetnie :) Spotkajmy się w klasie do ekonomii."
 
     # game/v5/v5.rpy:729
     old "Complaints? I love it."
@@ -3880,11 +3880,11 @@ translate polish strings:
 
     # game/v5/v5.rpy:729
     old "I don't like kissing in public."
-    new ""
+    new "Nie lubię całować się publicznie."
 
     # game/v5/v5.rpy:779
     old "Sorry, not in public."
-    new ""
+    new "Wybacz, ale nie publicznie."
 
     # game/v5/v5.rpy:779
     old "Actually, a kiss is fine."
@@ -3892,19 +3892,19 @@ translate polish strings:
 
     # game/v5/v5.rpy:1078
     old "Yes."
-    new ""
+    new "Tak."
 
     # game/v5/v5.rpy:1078
     old "No."
-    new ""
+    new "Nie."
 
     # game/v5/v5.rpy:1229
     old "Yeah, let's do it."
-    new ""
+    new "Pewnie, zróbmy to."
 
     # game/v5/v5.rpy:1229
     old "I'd rather not."
-    new ""
+    new "Wolałbym nie."
 
     # game/v5/v5.rpy:1344
     old "Yeah, okay."
@@ -3940,19 +3940,19 @@ translate polish strings:
 
     # game/v5/v5.rpy:2741
     old "Punch him"
-    new ""
+    new "Uderz go"
 
     # game/v5/v5.rpy:2766
     old "Threaten to tell school"
-    new ""
+    new "Zagróź, że powiesz szkole"
 
     # game/v5/v5.rpy:2797
     old "Tell the school"
-    new ""
+    new "Powiedz szkole"
 
     # game/v5/v5.rpy:2797
     old "Keep it to yourself"
-    new ""
+    new "Zachowaj to dla siebie"
 
     # game/v5/v5.rpy:3751
     old "Yeah, I'm interested."
@@ -3964,19 +3964,19 @@ translate polish strings:
 
     # game/v5/v5.rpy:4302
     old "Hey, you alone? xx"
-    new ""
+    new "Hej, jesteś sam? xx"
 
     # game/v5/v5.rpy:4303
     old "I'm at the park, but I'm by myself."
-    new ""
+    new "Jestem w parku, ale tak, jestem sam."
 
     # game/v5/v5.rpy:4304
     old "Go somewhere where you're completely alone xx"
-    new ""
+    new "Idź gdzieś, gdzie będziesz zupełnie sam xx"
 
     # game/v5/v5.rpy:4305
     old "I got a surprise for you ;)"
-    new ""
+    new "Mam dla ciebie niespodziankę ;)"
 
     # game/v5/v5.rpy:4319
     old "I got some free time right now :)"
@@ -3984,7 +3984,7 @@ translate polish strings:
 
     # game/v5/v5.rpy:4320
     old "Wanna go swimming?"
-    new ""
+    new "Chcesz iść popływać?"
 
     # game/v5/v5.rpy:4321
     old "Any chance we could do it later? Or tomorrow?"
