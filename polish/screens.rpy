@@ -2,7 +2,7 @@
 
 translate polish strings:
 
-    # game/screens.rpy:348+
+    # game/screens.rpy:348
     old "Page {}"
     new "Strona {}"
 

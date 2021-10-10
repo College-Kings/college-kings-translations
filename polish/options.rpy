@@ -2,7 +2,7 @@
 
 translate polish strings:
 
-    # game/options.rpy:14+
+    # game/options.rpy:14
     old "College Kings"
     new "College Kings"
 
