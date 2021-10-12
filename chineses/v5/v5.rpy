@@ -3586,7 +3586,7 @@ translate chineses findimre_7b8a0c27:
 translate chineses findimre_4e762005:
 
     # u "But you can't do this, man! At least not by yourself, let me come with you and we'll take him on together."
-    u "但你不能这么做，哥们儿!至少不能由你一个人，让我同你去，我们一起去搞定他。"
+    u "但你不能这么做，哥们儿！至少不能让你一个人去，让我同你去，我们一起去搞定他。"
 
 # game/v5/v5.rpy:4223
 translate chineses findimre_5ca50fa3_1:
