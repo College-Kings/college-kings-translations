@@ -1,3 +1,9 @@
+# This project is currently on hold. We will continue to officially support translations when the game is completed.
+
+Feel free to read a more detailed explanation here: https://gist.github.com/Janybanny/2e05b2f6d5cebe501bd63e5f9c91a892
+
+--------------------------------
+
 # College Kings Translation Files
 
 ## Tutorials
