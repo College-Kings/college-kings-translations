@@ -4,4 +4,4 @@
 translate francais end_credits_9ea2f78c:
 
     # " "
-    "Traduction française Thomas NAROZNIAK (poussin1er)"
+    "Traduction française: poussin1er"
