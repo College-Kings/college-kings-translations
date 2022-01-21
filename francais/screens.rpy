@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-06-05 20:30
+﻿# TODO: Translation updated at 2021-11-30 22:38
 
 translate francais strings:
 
@@ -83,8 +83,8 @@ translate francais strings:
     new "Savegarde rapide"
 
     # game/screens.rpy:595
-    old "Chargement rapide"
-    new ""
+    old "Quick load"
+    new "Chargement rapide"
 
     # game/screens.rpy:596
     old "Prefs"
@@ -160,7 +160,7 @@ translate francais strings:
 
     # game/screens.rpy:1471
     old "Enter"
-    new "Entrée"
+    new "Entrer"
 
     # game/screens.rpy:1472
     old "Advances dialogue and activates the interface."
@@ -172,7 +172,7 @@ translate francais strings:
 
     # game/screens.rpy:1476
     old "Advances dialogue without selecting choices."
-    new ""
+    new "Avance le dialogue sans sélectionner de choix."
 
     # game/screens.rpy:1479
     old "Arrow Keys"
@@ -232,7 +232,7 @@ translate francais strings:
 
     # game/screens.rpy:1512
     old "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
-    new "Bascule l'assistance {a=https://www.renpy.org/l/voicing}auto-voix{/a}."
+    new "Bascule l'assistance {a=https://www.renpy.org/l/voicing}voix-auto{/a}."
 
     # game/screens.rpy:1518
     old "Left Click"
@@ -248,7 +248,7 @@ translate francais strings:
 
     # game/screens.rpy:1530
     old "Mouse Wheel Up\nClick Rollback Side"
-    new "Molette de la souris vers le haut\nCliquez sur le côté de la restauration"
+    new "Molette de la souris vers le haut\nCliquez sur le côté retour"
 
     # game/screens.rpy:1534
     old "Mouse Wheel Down"
@@ -268,11 +268,11 @@ translate francais strings:
 
     # game/screens.rpy:1554
     old "D-Pad, Sticks"
-    new "D-Pad, Bâtons"
+    new "D-Pad, Contrôleurs"
 
     # game/screens.rpy:1558
     old "Start, Guide"
-    new "Démarrer, Guider"
+    new "Démarrer, Guide"
 
     # game/screens.rpy:1562
     old "Y/Top Button"
@@ -302,3 +302,37 @@ translate francais strings:
     old "Q.Load"
     new "Chargement rapide"
 
+# TODO: Translation updated at 2021-11-19 17:55
+
+translate francais strings:
+
+    # game/screens.rpy:375
+    old "Start"
+    new "Démarrer"
+
+    # game/screens.rpy:385
+    old "Preferences"
+    new "Préférences"
+
+    # game/screens.rpy:688
+    old "save"
+    new "sauvegarder"
+
+    # game/screens.rpy:985
+    old "Change Language"
+    new "Modifier la langue"
+# TODO: Translation updated at 2022-01-18 10:42
+
+translate francais strings:
+
+    # game/screens.rpy:570
+    old "PAGE {}"
+    new "PAGE {}"
+
+    # game/screens.rpy:570
+    old "AUTOMATIC SAVES"
+    new "SAUVEGARDES AUTOMATIQUES"
+
+    # game/screens.rpy:570
+    old "QUICK SAVES"
+    new "SAUVEGARDES RAPIDES"
