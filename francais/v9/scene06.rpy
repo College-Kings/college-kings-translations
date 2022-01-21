@@ -430,7 +430,7 @@ translate francais dtl_cont1_71f466e7:
 translate francais dtl_cont1_f92ab4c9:
 
     # ri "99%% no, 100%% hell no."
-    ri "99% non, 100% pas du tout."
+    ri "99%% non, 100%% pas du tout."
 
 # game/v9/scene06.rpy:386
 translate francais dtl_cont1_43b696e6:
@@ -526,13 +526,13 @@ translate francais dtl_cont1_45b8bfec:
 translate francais dtl_cont1_ba1e4ce8:
 
     # au "Stupid or not, it worked like a time passing charm... because we're almost there."
-    au "Stupide ou pas, ça a fonctionné comme un charme à remonter le temps... car nous y sommes presque."
+    au "Stupide ou pas, ce jeu a fonctionné comme un sort qui nous fait avancer dans le temps... car nous y sommes presque."
 
 # game/v9/scene06.rpy:471
 translate francais dtl_cont1_afdb10cb:
 
     # ri "Yay! We're here!"
-    ri "Yeah ! On arrive !"
+    ri "Yeah ! On est arrivé !"
 
 # game/v9/scene06.rpy:476
 translate francais dtl_cont1_f168fe1f:
@@ -544,7 +544,7 @@ translate francais dtl_cont1_f168fe1f:
 translate francais dtl_cont1_0eaad41c:
 
     # au "When I was here for the first time, I felt so relaxed... and today's just the best day for relaxation."
-    au "Quand je suis venue ici pour la première fois, je me suis sentie si détendue... et aujourd'hui est tout simplement le meilleur jour pour se détendre."
+    au "Quand je suis venue ici pour la première fois, je me suis sentie si détendue... et aujourd'hui est pour moi, le meilleur jour pour se détendre."
 
 # game/v9/scene06.rpy:486
 translate francais dtl_cont1_582a0844:
@@ -586,7 +586,7 @@ translate francais dtl_cont1_c14e6a5a:
 translate francais dtl_cont1_04fbf5ce:
 
     # ri "I just wanna relax a bit."
-    ri "Je veux juste me détendre un peu."
+    ri "Moi, je veux juste me détendre un peu."
 
 # game/v9/scene06.rpy:521
 translate francais dtl_cont1_495b4dd3:
@@ -612,7 +612,7 @@ translate francais drive_to_lake_4d317b68:
 translate francais drive_to_lake_90fbab89:
 
     # ri "Is it the \"big fat liar\" Ryan?"
-    ri "C'est le \"gros menteur\" Ryan ?"
+    ri "C'est le \"Beauf\" Ryan ?"
 
 # game/v9/scene06.rpy:308
 translate francais dtl_f_de811f79:

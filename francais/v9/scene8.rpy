@@ -16,7 +16,7 @@ translate francais v9_driving_home_lake_21efdd1c:
 translate francais v9_driving_home_lake_9497fa07:
 
     # ry "Eight, but that's not the point!"
-    ry "Huit, mais c'est pas la question !"
+    ry "Huit, mais là n'est pas question !"
 
 # game/v9/scene8.rpy:28
 translate francais v9_driving_home_lake_d2467061:

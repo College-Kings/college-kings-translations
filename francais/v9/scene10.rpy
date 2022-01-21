@@ -112,13 +112,13 @@ translate francais v9_hc_penelope_a7605df2:
 translate francais v9_hc_penelope_e64e156c:
 
     # ca "Now THAT would have been awesome!"
-    ca "Ouais, ÇA aurait été génial !"
+    ca "Ouais, ÇA ça aurait été cool !"
 
 # game/v9/scene10.rpy:158
 translate francais v9_hc_penelope_6aa1f14d:
 
     # pe "Ugh, boys."
-    pe "Argh, les gars."
+    pe "Pfff, les garçon..."
 
 # game/v9/scene10.rpy:166
 translate francais v9_hc_cont3_7a601a88:
@@ -136,7 +136,7 @@ translate francais v9_hc_cont3_2a07000a:
 translate francais v9_hc_cont3_0bf8e4b3:
 
     # u "You don't want to do your work anyway. And besides, you look cute."
-    u "Tu ne veux pas faire ton travail de toute façon. Et en plus, tu es mignonne."
+    u "Tu ne veux pas faire ton travail de toute façon. Et en plus, tu es très mignonne."
 
 # game/v9/scene10.rpy:201
 translate francais v9_hc_cont3_219e4b82:
@@ -148,7 +148,7 @@ translate francais v9_hc_cont3_219e4b82:
 translate francais v9_hc_cont3_9bafa117:
 
     # pe "I'm so proud to call you my wife."
-    pe "Je suis si fière de t'appeler ma femme."
+    pe "Je suis si fière de pouvoir t'appeler \"ma femme\"."
 
 # game/v9/scene10.rpy:211
 translate francais v9_hc_cont3_b83ff9f1:

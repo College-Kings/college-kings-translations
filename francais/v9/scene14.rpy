@@ -76,7 +76,7 @@ translate francais v9_thur_w_punch_5b34cf08:
 translate francais v9_thur_w_punch_8b825a1d:
 
     # se "It's fucking awesome, dude."
-    se "C'est putain de génial, mec."
+    se "T'est trop fort, mec."
 
 # game/v9/scene14.rpy:101
 translate francais v9_thur_w_punch_5c5818ab:
@@ -154,7 +154,7 @@ translate francais v9_thur_w_punch_874da560:
 translate francais v9_thur_w_punch_f4067ade:
 
     # u "Well would you look at that. When one feels no need to brag, they just throw pictures of him around, haha."
-    u "Eh bien, regardez-moi ça. Quand il ne ressent pas le besoin de se vanter, on jette des photos de lui partout, haha."
+    u "Eh bien, regardez-moi ça. Quand je ne ressent pas le besoin de me vanter, on balance des photos de moi partout, haha."
 
 # game/v9/scene14.rpy:177
 translate francais v9_thur_w_punch_4b5d06bc:

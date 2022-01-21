@@ -4,7 +4,7 @@
 translate francais v9_dream_fd4bfdf4:
 
     # u "Hello? Anyone here?"
-    u "Salut ? Il y a quelqu'un ici ?"
+    u "Allo ? Il y a quelqu'un ici ?"
 
 # game/v9/scene04.rpy:28
 translate francais v9_dream_bbc0e946:

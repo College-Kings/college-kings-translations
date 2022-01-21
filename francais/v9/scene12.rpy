@@ -52,7 +52,7 @@ translate francais v9_hall_calm_d66fe900:
 translate francais v9_hall_calm_c47ba31b:
 
     # u "I guess we should watch where we're going. No hard feelings, are we cool?"
-    u "Je crois qu'on derait regarder où on va. Sans rancune, on est cool ?"
+    u "Je crois qu'on devrait regarder où on va. Sans rancune, on est cool ?"
 
 # game/v9/scene12.rpy:84
 translate francais v9_hall_calm_a2bb3be2:

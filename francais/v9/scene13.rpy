@@ -28,7 +28,7 @@ translate francais thurs_aft_room_0af68560:
 translate francais thurs_aft_room_720cd3db:
 
     # u "(Yet it seems like it's getting harder and harder, with less and less time to do it.)"
-    u "(Il semble pourtant que ça devienne de plus en plus difficile, et avec de moins en moins de temps pour le faire.)"
+    u "(J'ai l'impression que ça devient de plus en plus difficile, et avec de moins en moins de temps pour le faire.)"
 
 # game/v9/scene13.rpy:35
 translate francais thurs_aft_room_b789f02c:

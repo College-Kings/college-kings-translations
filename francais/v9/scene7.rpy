@@ -10,13 +10,13 @@ translate francais fr5ryan1_3b09e5fa:
 translate francais fr5ryan1_dec8d92e:
 
     # ry "That obvious, huh?"
-    ry "C'est si évident que ça ?"
+    ry "Ça a l'air si évident que ça ?"
 
 # game/v9/scene7.rpy:144
 translate francais fr5ryan1_a2337515:
 
     # u "It's that grin that gives it away, hah."
-    u "C'est ce sourire qui le trahit, hah."
+    u "C'est ce sourire qui te trahit, hah."
 
 # game/v9/scene7.rpy:149
 translate francais fr5ryan1_cc77f57d:
@@ -34,13 +34,13 @@ translate francais fr5ryan1_b2dc1556:
 translate francais fr5ryan1_4811f63d:
 
     # ry "Ever since it started, it's been kinda hard to grasp it all, but how could one not?"
-    ry "Depuis le début, il est assez difficile de tout saisir, mais comment ne pas le faire ?"
+    ry "Depuis le début, il est difficile de tout saisir, mais comment faire autrement ?"
 
 # game/v9/scene7.rpy:160
 translate francais fr5ryan1_5141110b:
 
     # ry "Throw all the pussy you can my way, and I'll handle it no problem, haha."
-    ry "Balancez toutes les chattes que vous pouvez sur mon chemin, et je m'en occuperai sans problème, haha."
+    ry "Par contre, balancez toutes les chattes que vous pouvez sur mon chemin, et je m'en occuperai sans problème, haha."
 
 # game/v9/scene7.rpy:161
 translate francais fr5ryan1_a89a262e:
@@ -58,7 +58,7 @@ translate francais fr5ryan1_a2a93119:
 translate francais fr5ryan1_b7a5bce3:
 
     # ry "Oh, here we go, boy. Apes are the way to go, and never look back."
-    ry "Oh, nous y voilà, mon gars. Les Apes sont la voie à suivre, et ne jamais regarder en arrière."
+    ry "Oh, nous y voilà. Les Apes sont la voie à suivre et ne jamais regarder en arrière."
 
 # game/v9/scene7.rpy:179
 translate francais fr5ryan1_89ecfb68:
@@ -94,13 +94,13 @@ translate francais fr5ryan1_dd6510e9:
 translate francais fr5ryan1_e2212c7d:
 
     # ry "Still, a poor choice by you, I can tell you that, ha."
-    ry "C'est quand même un mauvais choix de ta part, je peux te le dire, ha."
+    ry "C'est quand même un mauvais choix de ta part, ça je peux te le dire."
 
 # game/v9/scene7.rpy:206
 translate francais fr5ryan1_5839eb58:
 
     # u "I don't really see you dripping in pussy, haha."
-    u "Je ne te vois pas vraiment dégoulinant de chatte, haha."
+    u "Poutant, Je ne te vois pas vraiment te baigner dans plein de chattes, haha."
 
 # game/v9/scene7.rpy:211
 translate francais fr5ryan1_783a4905:
@@ -112,7 +112,7 @@ translate francais fr5ryan1_783a4905:
 translate francais fr5ryan1_9d598f22:
 
     # u "Frat or not, it all comes down to the looks. And one could not deny your boy's handsome as fuck, haha."
-    u "Frat ou pas, tout se résume à l'apparence. Et on ne peut pas nier que ce mec est un putain de beau gosse, haha."
+    u "Frat ou pas, tout se résume à l'apparence. Et on ne peut pas nier que je suis un putain de beau gosse, haha."
 
 # game/v9/scene7.rpy:219
 translate francais fr5ryan1_25dd620f:
@@ -220,7 +220,7 @@ translate francais fr5ryan1_55984293:
 translate francais fr5ryan1_49722f9e:
 
     # u "Oh, haha dude, I think you got it all wrong."
-    u "Oh, haha mec, je crois que tu as tout faux."
+    u "Oh, haha mec, t'as tout faux."
 
 # game/v9/scene7.rpy:310
 translate francais fr5ryan1_e7b991f8:
@@ -1018,13 +1018,13 @@ translate francais v9s7_nsfwSkipLabel1_22a23130:
 translate francais v9s7_nsfwSkipLabel1_b8a5652a:
 
     # au "Oh, so you care about me?"
-    au "Oh, donc tu te tiens à moi ?"
+    au "Oh, donc tu tiens à moi ?"
 
 # game/v9/scene7.rpy:1054
 translate francais v9s7_nsfwSkipLabel1_f39b9ab0:
 
     # u "Oh, so I figured you out?"
-    u "Oh, donc je t'ai compris ?"
+    u "Oh, je t'ai donc compris ?"
 
 # game/v9/scene7.rpy:1059
 translate francais v9s7_nsfwSkipLabel1_719c02f1:
