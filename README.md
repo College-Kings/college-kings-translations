@@ -108,9 +108,9 @@ v04.rpy          | 3227/3227   | Patrick PIGNOL        | [ ] | -
 v05.rpy          | 3498/3498   | Patrick PIGNOL        | [ ] | -
 v06.rpy          | 11645/11645 | Patrick PIGNOL        | [ ] | -
 v07.rpy          | 18403/18403 | Patrick PIGNOL        | [ ] | -
-v08 files        | 14/45       | Patrick PIGNOL        | [ ] | -
+v08 files        | 17/45       | Patrick PIGNOL        | [ ] | -
 v09 files        | 0/42        | -                     | [ ] | -
-v10 files        | 14/41        | Patrick PIGNOL        | [ ] | -
+v10 files        | 14/41       | Patrick PIGNOL        | [ ] | -
 
 
 
