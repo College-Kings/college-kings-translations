@@ -18259,7 +18259,7 @@ translate francais strings:
 
     # game/v7/v7.rpy:5492
     old "One of us!"
-    new "Un de nous !"
+    new "Le meilleur d'entre nous !"
 
     # game/v7/v7.rpy:5493
     old "Losers"

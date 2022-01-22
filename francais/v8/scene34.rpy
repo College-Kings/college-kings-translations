@@ -34,7 +34,7 @@ translate francais phn_chloe13_8861c6b3:
 translate francais phn_chloe13_da3ee415:
 
     # u "(Guess I'm meeting Chloe.)"
-    u "(Je pense que je vais voir Chloé.)"
+    u "(Je vais allez rejoindre Chloé.)"
 
 # game/v8/scene34.rpy:109
 translate francais phn_chloe13_29659097:
@@ -82,7 +82,7 @@ translate francais strings:
 
     # game/v8/scene34.rpy:27
     old "Can't say it's all done, but I sure am!"
-    new "Je ne peux pas dire que tout est fait, mais moi, oui !"
+    new "Je ne peux pas dire que tout est fait, mais oui !"
 
     # game/v8/scene34.rpy:29
     old "So when can I see you again?"
@@ -126,7 +126,7 @@ translate francais strings:
 
     # game/v8/scene34.rpy:50
     old "Ok, yeah. I'm actually starving!"
-    new "Ok, ouais. En fait, je suis affamé !"
+    new "Ok, ouais. En fait, je suis affamée !"
 
     # game/v8/scene34.rpy:54
     old "It was nice talking to you"

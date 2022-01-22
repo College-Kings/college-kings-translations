@@ -46,7 +46,7 @@ translate francais walk_home_hosp_e38da6d8:
 translate francais walk_home_hosp_ce555087:
 
     # se "And you were worried about descending... a free fall would be slower than the way you've climbed down!"
-    se "Et tu t'inquiétais de la descente... une chute libre serait plus lente que la façon dont tu es descendu !"
+    se "Et toi qui t'inquiétais de la descente... une chute libre serait encore plus lente que la façon dont tu es descendu !"
 
 # game/v8/scene41.rpy:54
 translate francais walk_home_hosp_8bc3eb21:
@@ -100,13 +100,13 @@ translate francais walk_home_hosp_33c9f61b:
 translate francais walk_home_hosp_fee399e3:
 
     # u "Joining the Wolves... I was not so sure at first. But it turns out it was a great thing to do."
-    u "Rejoindre les loups... Je n'étais pas si sûr au début. Mais finalement, c'était une bonne chose à faire."
+    u "Rejoindre les Wolves... Je n'étais pas si sûr au début. Mais finalement, c'était une bonne chose à faire."
 
 # game/v8/scene41.rpy:100
 translate francais walk_home_hosp_28e377dc:
 
     # se "You can say that again, bro."
-    se "Tu peux le répéter, mon frère."
+    se "Ça tu peux le dire, mon frère."
 
 # game/v8/scene41.rpy:105
 translate francais walk_home_hosp_e7369f55:

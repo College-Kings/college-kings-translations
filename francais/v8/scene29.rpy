@@ -136,7 +136,7 @@ translate francais after_drugs_308b0e56:
 translate francais after_drugs_57b9082d:
 
     # u "I am. I'm at Josh's house. He did a uhh, drug deal and got beaten up pretty bad. I'm here keeping an eye on him."
-    u "Je le suis. Je suis chez Josh. Il a fait un euh, un deal de drogue et s'est fait méchamment tabasser. Je suis ici pour garder un oeil sur lui."
+    u "Je le suis. Je suis chez Josh. Il a fait un euh, deal de drogue et s'est fait sévèrement tabasser. Je suis ici pour garder un oeil sur lui."
 
 # game/v8/scene29.rpy:144
 translate francais after_drugs_4e16e40e:
@@ -196,7 +196,7 @@ translate francais after_drugs_07097634:
 translate francais after_drugs_73476671:
 
     # am "And he thought he could do this alone? Idiot!"
-    am "Et il pensait qu'il pouvait faire ça tout seul ? Imbécile !"
+    am "Et il pensait qu'il pouvait faire ça tout seul ? L'imbécile !"
 
 # game/v8/scene29.rpy:199
 translate francais after_drugs_6ffce389:
@@ -208,13 +208,13 @@ translate francais after_drugs_6ffce389:
 translate francais after_drugs_5ec474f4:
 
     # am "You did? How did you let this happen?"
-    am "Tu l'as fait ? Comment as-tu laissé ça se produire ?"
+    am "T'étais là ? Comment as-tu laissé ça se produire ?"
 
 # game/v8/scene29.rpy:208
 translate francais after_drugs_fa8da13a:
 
     # u "I tried to stop it. There were two of them and one had a pipe."
-    u "J'ai essayé de l'arrêter. Ils étaient deux et l'un d'eux avait une barre à mine."
+    u "J'ai essayé d'arrêter ça. Ils étaient deux et l'un d'eux avait une barre à mine."
 
 # game/v8/scene29.rpy:209
 translate francais after_drugs_557f2094:
@@ -274,7 +274,7 @@ translate francais after_drugs_155a73b7:
 translate francais after_drugs_a27f2c73:
 
     # am "Do you still have the shit?"
-    am "Tu as toujours le shit ?"
+    am "Tu as toujours la came ?"
 
 # game/v8/scene29.rpy:246
 translate francais after_drugs_42b00264:
@@ -286,7 +286,7 @@ translate francais after_drugs_42b00264:
 translate francais after_drugs_2de230fa:
 
     # am "Give it to me."
-    am "Donne-le moi."
+    am "Donne-la moi."
 
 # game/v8/scene29.rpy:254
 translate francais after_drugs_48c99239:
@@ -298,13 +298,13 @@ translate francais after_drugs_48c99239:
 translate francais after_drugs_4333e122:
 
     # am "Just give it to me. Trust me."
-    am "Donne-le moi. Fais-moi confiance."
+    am "Donne-la moi. Fais-moi confiance."
 
 # game/v8/scene29.rpy:262
 translate francais after_drugs_12cef257:
 
     # u "Alright. Let me get it."
-    u "Très bien. Laisse-moi le chercher."
+    u "Très bien. Laisse-moi la chercher."
 
 # game/v8/scene29.rpy:270
 translate francais after_drugs_18de98cd:

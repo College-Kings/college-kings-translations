@@ -4,7 +4,7 @@
 translate francais caf_w_aub_63b4436b:
 
     # u "Can I join you?"
-    u "Je peux me venir ?"
+    u "Je peux me joindre à toi ?"
 
 # game/v8/scene7.rpy:22
 translate francais caf_w_aub_8daf4870:

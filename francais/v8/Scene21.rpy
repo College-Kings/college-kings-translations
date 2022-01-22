@@ -76,7 +76,7 @@ translate francais walk_to_dean_de6dd52e:
 translate francais walk_to_dean_b30b9eb5:
 
     # de "I see. Does this friend have a name?"
-    de "Je vois. Cet amie a un nom ?"
+    de "Je vois. Cette amie a un nom ?"
 
 # game/v8/Scene21.rpy:101
 translate francais walk_to_dean_fa11ffa5:

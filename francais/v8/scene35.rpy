@@ -406,13 +406,13 @@ translate francais steak_w_chloe_cont_2_c5034cfe:
 translate francais steak_w_chloe_cont_2_e36213b3:
 
     # u "It's not so easy for guys. People aren't storming castles to get at us."
-    u "Ce n'est pas si facile pour les hommes. Les gens ne prennent pas d'assaut les châteaux pour nous atteindre."
+    u "Ce n'est pas si facile pour les hommes. Les filles ne prennent pas d'assaut les châteaux fort pour nous atteindre."
 
 # game/v8/scene35.rpy:412
 translate francais steak_w_chloe_cont_2_10371bca:
 
     # cl "Castles? *giggles*"
-    cl "Des châteaux ? *rire*"
+    cl "Les châteaux fort ? *rire*"
 
 # game/v8/scene35.rpy:417
 translate francais steak_w_chloe_cont_2_17624bdb:
@@ -598,7 +598,7 @@ translate francais steak_w_chloe_cont_3_c0ad831f:
 translate francais steak_w_chloe_cont_3_6015dc54:
 
     # u "Please do."
-    u "Aves plaisir."
+    u "Avec plaisir."
 
 # game/v8/scene35.rpy:598
 translate francais steak_w_chloe_cont_3_81d34723:

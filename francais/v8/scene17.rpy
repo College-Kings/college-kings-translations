@@ -502,15 +502,15 @@ translate francais strings:
 
     # game/v8/scene17.rpy:11
     old "Hey, how you holding up?"
-    new "Hé, ça va, vous tenez le coup ?"
+    new "Hé, ça va, tu tiens le coup ?"
 
     # game/v8/scene17.rpy:12
     old "Better, thanks to you"
-    new "Oui, grâce à vous"
+    new "Oui, grâce à toi."
 
     # game/v8/scene17.rpy:13
     old "No problem. I'm here for you. Let me know if you need anything else."
-    new "Pas de problème. Je suis là pour vous. Faites-moi savoir si vous avez besoin d'autre chose."
+    new "Pas de problème. Je suis là pour toi. Fais-moi savoir si tu as besoin d'autre chose."
 
     # game/v8/scene17.rpy:14
     old "Thank you! :)"

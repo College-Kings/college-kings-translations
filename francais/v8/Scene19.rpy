@@ -128,7 +128,7 @@ translate francais strings:
 
     # game/v8/Scene19.rpy:55
     old "Please do"
-    new "S'il te plaît, fais-le."
+    new "Fais que ce jour vienne vite."
 
     # game/v8/Scene19.rpy:56
     old "I guess I better get back to studying. I keep getting distracted"
@@ -152,7 +152,7 @@ translate francais strings:
 
     # game/v8/Scene19.rpy:65
     old "No, not at all. Just beat. I'd love to go some other time"
-    new "Non, pas du tout. Juste crevée. J'aimerais y aller une autre fois"
+    new "Non, pas du tout. Juste crevé. J'aimerais y aller une autre fois"
 
     # game/v8/Scene19.rpy:66
     old "Okay talk to you soon"

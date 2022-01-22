@@ -4,7 +4,7 @@
 translate francais hosp_climb_seb_4b0bf10d:
 
     # se "What's up man? Getting cold feet?"
-    se "Ça va, mec ? Tu as la frousse ?"
+    se "Ça va, mec ? Pas trop la frousse ?"
 
 # game/v8/scene39.rpy:26
 translate francais hosp_climb_seb_54999126:
@@ -52,7 +52,7 @@ translate francais hosp_climb_seb_d1423a0c:
 translate francais climb_the_hos_1836e06c:
 
     # u "Fuck it, man. Let's do this thing."
-    u "Putain, mec. Faisons ce truc."
+    u "Putain, mec. Faisons le, ce truc."
 
 # game/v8/scene39.rpy:77
 translate francais climb_the_hos_65a09f92:
@@ -100,31 +100,31 @@ translate francais climb_the_hos_1f869581:
 translate francais climb_the_hos_0049a3f5:
 
     # u "Yeah, it's just this..."
-    u "Ouais, c'est juste ça..."
+    u "Ouais, c'est juste assez chaud..."
 
 # game/v8/scene39.rpy:147
 translate francais climb_the_hos_10ec0e99:
 
     # u "Holy fuck, I felt pretty dead back there... but now I feel more alive than ever!"
-    u "Putain, je me sentais plutôt mort là-bas... mais maintenant je me sens plus vivant que jamais !"
+    u "Putain, j'ai failli crever, là... mais maintenant je me sens plus vivant que jamais !"
 
 # game/v8/scene39.rpy:152
 translate francais climb_the_hos_a667d83c:
 
     # se "I feel you, bro! Now you know why this is not my first time here."
-    se "Je te comprends, mon frère ! Maintenant tu sais pourquoi ce n'est pas ma première fois ici."
+    se "Je te comprends, mon frère ! Maintenant tu sais pourquoi ce n'est pas la première que je fais ça."
 
 # game/v8/scene39.rpy:172
 translate francais climb_the_hos_8113b8c7:
 
     # se "And they arise!"
-    se "Et ils s'élèvent !"
+    se "Et ils s'élevèrent jusqu'aux cieux !"
 
 # game/v8/scene39.rpy:177
 translate francais climb_the_hos_942fae98:
 
     # u "That they do. How to descend is another question."
-    u "C'est ce qu'ils font. Comment descendre est une autre question."
+    u "C'est ce qu'on a fait. Maintenant, savoir comment redescendre est une autre question."
 
 # game/v8/scene39.rpy:182
 translate francais climb_the_hos_0544cc86:
@@ -142,7 +142,7 @@ translate francais climb_the_hos_acc49f95:
 translate francais climb_the_hos_e6b9b6b5:
 
     # se "If this was my hundredth time to reach this spot, I'd still love doing it."
-    se "Même si c'était la centième fois que je devais atteindre cet endroit, j'aimerais toujours autant le faire."
+    se "Même si c'était la centième fois que je devais atteindre cet endroit, j'aimerais toujours autant."
 
 # game/v8/scene39.rpy:212
 translate francais climb_the_hos_bef6cc24:

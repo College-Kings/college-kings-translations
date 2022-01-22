@@ -52,7 +52,7 @@ translate francais s26_8b9dee31:
 translate francais s26_ab5f9958:
 
     # au "Are you getting a naughty librarian vibe?"
-    au "Tu as l'impression d'être une bibliothécaire coquine ?"
+    au "J'ai l'impression d'être une bibliothécaire coquine ?"
 
 # game/v8/Scene26.rpy:61
 translate francais s26_8eaa20a6:
@@ -406,7 +406,7 @@ translate francais opti_end_9927e9a2:
 translate francais opti_end_199fd772:
 
     # au "Yeah, you're a good guy, [name]."
-    au "Ouais, tu es un bon gars, [name]."
+    au "Ouais, tes un mec super, [name]."
 
 # game/v8/Scene26.rpy:392
 translate francais opti_end_9455b319:

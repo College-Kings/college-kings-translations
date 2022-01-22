@@ -58,7 +58,7 @@ translate francais strings:
 
     # game/v8/scene25.rpy:41
     old "At least you can read! I just found out I need glasses!"
-    new "Au moins, tu sais lire ! Je viens de découvrir que j'ai besoin de lunettes !"
+    new "Au moins, tu peux lire ! Je viens de découvrir que j'ai besoin de lunettes !"
 
     # game/v8/scene25.rpy:42
     old "I think you'd look cute in glasses."
