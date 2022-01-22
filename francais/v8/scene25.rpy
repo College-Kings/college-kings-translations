@@ -1,100 +1,82 @@
-﻿# TODO: Translation updated at 2021-11-25 12:58
+﻿# TODO: Translation updated at 2021-06-05 20:30
 
 # game/v8/scene25.rpy:11
 translate francais v8_scene24_wolves_ed0eaced:
 
     # u "(I gotta get out of here. Wonder what everyone's up to.)"
-    u "(Je dois sortir d'ici. Je me demande ce que tout le monde fait.)"
+    u ""
 
 # game/v8/scene25.rpy:19
 translate francais v8_scene24_wolves_9de96fd6:
 
     # u "*Sigh*"
-    u "*Soupir*"
+    u ""
 
 # game/v8/scene25.rpy:27
 translate francais v8_scene24_apes_ed0eaced:
 
     # u "(I gotta get out of here. Wonder what everyone's up to.)"
-    u "(Je dois sortir d'ici. Je me demande ce que tout le monde fait.)"
+    u ""
 
 # game/v8/scene25.rpy:35
 translate francais v8_scene24_apes_9de96fd6:
 
     # u "*Sigh*"
-    u "*Soupir*"
+    u ""
 
 # game/v8/scene25.rpy:52
 translate francais phn_riley11_11900a1d:
 
     # u "(I should talk to Riley.)"
-    u "(Je devrais parler à Riley.)"
+    u ""
 
 # game/v8/scene25.rpy:56
 translate francais phn_riley11_1ace9f3a:
 
     # u "(Guess I'm not gonna be bored to death after all.)"
-    u "(Je crois que je ne vais pas m'ennuyer à mourir après tout.)"
+    u ""
 
 # game/v8/scene25.rpy:61
 translate francais phn_riley11_1ace9f3a_1:
 
     # u "(Guess I'm not gonna be bored to death after all.)"
-    u "(Je crois que je ne vais pas m'ennuyer à mourir après tout.)"
+    u ""
 
 translate francais strings:
 
     # game/v8/scene25.rpy:14
     old "Ugh someone save me pls"
-    new "Argh, que quelqu'un me sauve, svp."
+    new ""
 
     # game/v8/scene25.rpy:39
     old "Bad day?"
-    new "Mauvaise journée ?"
+    new ""
 
     # game/v8/scene25.rpy:40
     old "I've read the same page four times :/"
-    new "J'ai lu la même page quatre fois :/)"
+    new ""
 
     # game/v8/scene25.rpy:41
     old "At least you can read! I just found out I need glasses!"
+<<<<<<< HEAD
     new "Au moins, tu sais lire ! Je viens de découvrir que j'ai besoin de lunettes !"
+=======
+    new ""
+>>>>>>> parent of 2633b3a (Final French translation (continued))
 
     # game/v8/scene25.rpy:42
     old "I think you'd look cute in glasses."
-    new "Je pense que tu serais mignonne avec des lunettes."
+    new ""
 
     # game/v8/scene25.rpy:43
     old "I don't know. Why don't you come with me and Aubrey to try some on?"
-    new "Je ne sais pas. Pourquoi ne viendrais-tu pas avec moi et Aubrey pour en essayer ?"
+    new ""
 
     # game/v8/scene25.rpy:44
     old "Sure! Meet you there?"
-    new "Bien sûr ! On se retrouve là-bas ?"
+    new ""
 
     # game/v8/scene25.rpy:45
     old "Great!"
-    new "Super !"
+    new ""
 
-# TODO: Translation updated at 2021-11-19 17:55
-
-translate francais strings:
-
-    # game/v8/scene25.rpy:44
-    old "sure I will come but where is the store ?"
-    new "Je viendrai, mais où se trouve le magasin ?"
-
-    # game/v8/scene25.rpy:45
-    old "Just down the road from the gym on the right hand side of the road"
-    new "Juste en bas de la route du gymnase, sur le côté droit de la route."
-
-    # game/v8/scene25.rpy:46
-    old "Cool will meet you both there"
-    new "Cool, je vous y retrouverai toutes les deux"
-# TODO: Translation updated at 2022-01-18 10:42
-
-translate francais strings:
-
-    # game/v8/scene25.rpy:44
-    old "Sure, I will come. But where is the store?"
-    new "Je viendrai, mais où se trouve le magasin ?"
