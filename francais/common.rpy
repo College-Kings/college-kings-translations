@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-11-30 22:37
+﻿# TODO: Translation updated at 2021-06-05 20:30
 
 translate francais strings:
 
@@ -8,7 +8,7 @@ translate francais strings:
 
     # renpy/common/00accessibility.rpy:29
     old "Clipboard voicing enabled. "
-    new "Assistant vocal activée. "
+    new "Voix du presse-papier activée. "
 
     # renpy/common/00accessibility.rpy:30
     old "Self-voicing enabled. "
@@ -51,24 +51,24 @@ translate francais strings:
     new "diminuer"
 
     # renpy/common/00accessibility.rpy:128
-    old "Font replacement"
-    new "Remplacement des polices"
+    old "Remplacement de la police de caractères"
+    new ""
 
     # renpy/common/00accessibility.rpy:132
     old "Default"
     new "Défaut"
 
     # renpy/common/00accessibility.rpy:136
-    old "DejaVu Without"
+    old "DejaVu Sans"
     new "DejaVu Sans"
 
     # renpy/common/00accessibility.rpy:140
     old "Opendyslexic"
-    new "Ouvrir dyslexique"
+    new "Opendyslexic"
 
     # renpy/common/00accessibility.rpy:146
     old "Text Size Scaling"
-    new "Échelle de la taille du texte"
+    new "Mise à l'échelle de la taille du texte"
 
     # renpy/common/00accessibility.rpy:152
     old "Reset"
@@ -88,11 +88,11 @@ translate francais strings:
 
     # renpy/common/00accessibility.rpy:179
     old "Text-to-speech"
-    new "Synthèse vocale"
+    new "Lecture de texte"
 
     # renpy/common/00accessibility.rpy:183
     old "Clipboard"
-    new "Assistant vocal"
+    new "Presse-papiers"
 
     # renpy/common/00accessibility.rpy:187
     old "Debug"
@@ -260,7 +260,7 @@ translate francais strings:
 
     # renpy/common/00action_file.rpy:240
     old "%b %d, %H:%M"
-    new "%b %d, %H:%M"
+    new "%d %b, %H:%M"
 
     # renpy/common/00action_file.rpy:353
     old "Save slot %s: [text]"
@@ -276,7 +276,7 @@ translate francais strings:
 
     # renpy/common/00action_file.rpy:566
     old "File page auto"
-    new "Fichier page auto"
+    new "Fichier page automatique"
 
     # renpy/common/00action_file.rpy:568
     old "File page quick"
@@ -312,7 +312,7 @@ translate francais strings:
 
     # renpy/common/00director.rpy:708
     old "The interactive director is not enabled here."
-    new "L'aide interactive n'est pas activée ici."
+    new "Le directeur interactif n'est pas activé ici."
 
     # renpy/common/00director.rpy:1481
     old "⬆"
@@ -348,11 +348,11 @@ translate francais strings:
 
     # renpy/common/00director.rpy:1601
     old "(channel)"
-    new "(canal)"
+    new ""
 
     # renpy/common/00director.rpy:1602
     old "(filename)"
-    new "(nom du fichier)"
+    new "(canal)"
 
     # renpy/common/00director.rpy:1631
     old "Change"
@@ -496,11 +496,11 @@ translate francais strings:
 
     # renpy/common/00preferences.rpy:299
     old "skip unseen [text]"
-    new "passer [text] non vu"
+    new "passer [text] non vù"
 
     # renpy/common/00preferences.rpy:304
     old "skip unseen text"
-    new "passer le texte non vu"
+    new "passer le texte non vù"
 
     # renpy/common/00preferences.rpy:306
     old "begin skipping"
@@ -508,7 +508,7 @@ translate francais strings:
 
     # renpy/common/00preferences.rpy:310
     old "after choices"
-    new "après les choix"
+    new "après choix"
 
     # renpy/common/00preferences.rpy:317
     old "skip after choices"
@@ -548,23 +548,23 @@ translate francais strings:
 
     # renpy/common/00preferences.rpy:388
     old "self voicing volume drop"
-    new "baisse du volume de la voix-auto"
+    new "chute de volume de la voix-auto"
 
     # renpy/common/00preferences.rpy:396
     old "clipboard voicing"
-    new "Voix de l'assistant vocal"
+    new "Voix du presse-papiers"
 
     # renpy/common/00preferences.rpy:405
     old "debug voicing"
-    new "déboguer la vocalisation"
+    new "Voix debug"
 
     # renpy/common/00preferences.rpy:414
     old "emphasize audio"
-    new "accentuer le son"
+    new "mettre l'accent sur le son"
 
     # renpy/common/00preferences.rpy:423
     old "rollback side"
-    new "coté retour en arrière"
+    new "coté retrour"
 
     # renpy/common/00preferences.rpy:433
     old "gl powersave"
@@ -580,15 +580,15 @@ translate francais strings:
 
     # renpy/common/00preferences.rpy:445
     old "font transform"
-    new "transformation de police"
+    new "transformation de police de caractères"
 
     # renpy/common/00preferences.rpy:448
     old "font size"
-    new "taille de police"
+    new "taille de police de caractères"
 
     # renpy/common/00preferences.rpy:456
     old "font line spacing"
-    new "interligne de la police"
+    new "espacement des lignes de police de caractères"
 
     # renpy/common/00preferences.rpy:464
     old "system cursor"
@@ -624,7 +624,7 @@ translate francais strings:
 
     # renpy/common/00preferences.rpy:571
     old "Clipboard voicing enabled. Press 'shift+C' to disable."
-    new "Voix de l'assistant vocal activée. Appuyez sur 'shift+C' pour désactiver."
+    new "Voix du presse-papiers activé. Appuyez sur 'shift+C' pour désactiver."
 
     # renpy/common/00preferences.rpy:573
     old "Self-voicing would say \"[renpy.display.tts.last]\". Press 'alt+shift+V' to disable."
@@ -656,7 +656,7 @@ translate francais strings:
 
     # renpy/common/00updater.rpy:697
     old "This account does not have permission to write the update log."
-    new "Ce compte n'a pas l'autorisation d'écrire le journal des mises à jour."
+    new "Ce compte n'a pas l'autorisation d'écrire le journal de mise à jour."
 
     # renpy/common/00updater.rpy:724
     old "Could not verify update signature."
@@ -668,7 +668,7 @@ translate francais strings:
 
     # renpy/common/00updater.rpy:1013
     old "The update file does not have the correct digest - it may have been corrupted."
-    new "Le fichier de mise à jour n'a pas le bon condensé - il a peut-être été corrompu."
+    new "Le fichier de mise à jour n'a pas le condensé correct - il a peut-être été corrompu."
 
     # renpy/common/00updater.rpy:1067
     old "While unpacking {}, unknown type {}."
@@ -708,7 +708,7 @@ translate francais strings:
 
     # renpy/common/00updater.rpy:1454
     old "Finishing up."
-    new "Je termine."
+    new "En finir."
 
     # renpy/common/00updater.rpy:1456
     old "The updates have been installed. The program will restart."
@@ -920,7 +920,7 @@ translate francais strings:
 
     # renpy/common/_errorhandling.rpym:606
     old "Attempts a roll back to a prior time, allowing you to save or choose a different choice."
-    new "Tente de revenir à un moment antérieur, vous permettant de sauvegarder ou de choisir un autre choix."
+    new "Tente de revenir à une date antérieure, vous permettant d'enregistrer ou de choisir un autre choix."
 
     # renpy/common/_errorhandling.rpym:609
     old "Ignore"
@@ -970,7 +970,7 @@ translate francais strings:
     old "Copies the errors.txt file to the clipboard as Markdown for Discord."
     new "Copie le fichier error.txt dans le presse-papiers en tant que Markdown pour Discord."
 
-# : Translation updated at 2021-06-16 12:58
+# TODO: Translation updated at 2021-06-16 12:58
 
 translate francais strings:
 
@@ -978,29 +978,3 @@ translate francais strings:
     old "Font Override"
     new "Remplacement de la police de caractères"
 
-# : Translation updated at 2021-11-19 17:55
-
-translate francais strings:
-
-    # renpy/common/00accessibility.rpy:180
-    old "High Contrast Text"
-    new "Texte à contraste élevé"
-
-    # renpy/common/00preferences.rpy:487
-    old "renderer menu"
-    new "menu du moteur de rendu"
-
-    # renpy/common/00preferences.rpy:490
-    old "accessibility menu"
-    new "menu d'accessibilité"
-
-    # renpy/common/00preferences.rpy:493
-    old "high contrast text"
-    new "texte à contraste élevé"
-# : Translation updated at 2022-01-17 17:41
-
-translate francais strings:
-
-    # renpy/common/00accessibility.rpy:146
-    old "DejaVu Sans"
-    new "DejaVu Sans"

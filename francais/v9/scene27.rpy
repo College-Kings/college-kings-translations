@@ -1,489 +1,490 @@
-﻿# TODO: Translation updated at 2021-11-29 16:39
+﻿# TODO: Translation updated at 2021-06-05 20:30
 
 # game/v9/scene27.rpy:24
 translate francais v9_train_w_apes_77a54587:
 
     # ca "Let's go!"
-    ca "Allons-y !"
+    ca ""
 
 # game/v9/scene27.rpy:29
 translate francais v9_train_w_apes_5fc0997f:
 
     # u "What's up? Is something wrong?"
-    u "Qu'est-ce qu'il y a ? Quelque chose ne va pas ?"
+    u ""
 
 # game/v9/scene27.rpy:35
 translate francais v9_train_w_apes_fad68cff:
 
     # ca "Not for you, Rocky!"
-    ca "Pas pour toi, Rocky !"
+    ca ""
 
 # game/v9/scene27.rpy:40
 translate francais v9_train_w_apes_2439ae81:
 
     # u "(Whew!)"
-    u "(Ouf !)"
+    u ""
 
 # game/v9/scene27.rpy:45
 translate francais v9_train_w_apes_35233de3:
 
     # ca "I'm just whipping you punks into shape for tomorrow."
-    ca "Je suis juste là pour vous mettre en forme pour demain."
+    ca ""
 
 # game/v9/scene27.rpy:51
 translate francais v9_train_w_apes_0ba03659:
 
     # ca "What's wrong is how a punk ass bitch got into my frat."
-    ca "Ce qui ne va pas, c'est comment une salope a pu entrer dans ma fraternité."
+    ca ""
 
 # game/v9/scene27.rpy:56
 translate francais v9_train_w_apes_53c0db1c:
 
     # u "Who?"
-    u "Qui ?"
+    u ""
 
 # game/v9/scene27.rpy:61
 translate francais v9_train_w_apes_ed3a7f51:
 
     # ca "You're joking, right?"
-    ca "Tu te fous de moi, hein ?"
+    ca ""
 
 # game/v9/scene27.rpy:63
 translate francais v9_train_w_apes_e31dd512:
 
     # ca "Get in! I'm gonna whip your punk ass into shape if it kills you!"
-    ca "Montes ! Je vais fouetter ton cul de punk en forme même si ça te tue !"
+    ca ""
 
 # game/v9/scene27.rpy:78
 translate francais v9_train_w_apes_99ffa962:
 
     # ca "Maggots!"
-    ca "Les asticots !"
+    ca ""
 
 # game/v9/scene27.rpy:83
 translate francais v9_train_w_apes_cc4693e6:
 
     # u "(What the fuck?)"
-    u "(C'est quoi ce bordel ?)"
+    u ""
 
 # game/v9/scene27.rpy:88
 translate francais v9_train_w_apes_5431d25d:
 
     # ca "Today is my lucky day. I get to turn you boys into men!"
-    ca "Aujourd'hui, c'est mon jour de chance. Je vais vous transformer en hommes !"
+    ca ""
 
 # game/v9/scene27.rpy:94
 translate francais v9_train_w_apes_a935c7a1:
 
     # u "Hey, man, I think you're nice and all but you're not my type."
-    u "Hé, mec, je pense aussi que tu es gentil et tout mais tu n'es vraiment pas mon type."
+    u ""
 
 # game/v9/scene27.rpy:99
 translate francais v9_train_w_apes_37f29506:
 
     # ca "Don't get too cocky yet, Rocky."
-    ca "Ne sois pas encore trop arrogant, Rocky."
+    ca ""
 
 # game/v9/scene27.rpy:105
 translate francais v9_train_w_apes_f519cd32:
 
     # u "(Haha. I wonder if he even knows what he just said.)"
-    u "(Haha. Je me demande s'il sait au moins ce qu'il vient de dire.)"
+    u ""
 
 # game/v9/scene27.rpy:110
 translate francais v9_train_w_apes_9f0e6521:
 
     # ca "You maggots think that was funny?"
-    ca "Vous, les asticots, vous trouvez ça drôle ?"
+    ca ""
 
 # game/v9/scene27.rpy:112
 translate francais v9_train_w_apes_f79b4567:
 
     # ca "If you assholes think you're making a fool out of this house tomorrow, you got another thing coming."
-    ca "Si vous pensez que vous allez ridiculiser cette maison demain, vous vous trompez."
+    ca ""
 
 # game/v9/scene27.rpy:115
 translate francais v9_train_w_apes_4c1ed076:
 
     # ca "This guy here! He's the only one of you shit stains I trust to wear our name. He's gonna pull a big crowd for the Brawl and they'll all be chanting his name. [name]! [name]!"
-    ca "Ce gars-là ! C'est le seul de vous, bande de merdes, à qui je fais confiance pour porter notre nom. Il va attirer une grande foule pour le Brawl et ils vont tous scander son nom. [name] ! [name] !"
+    ca ""
 
 # game/v9/scene27.rpy:120
 translate francais v9_train_w_apes_acd9cc76:
 
     # ca "The rest of you, I don't trust for shit."
-    ca "Vous autres, je ne vous fais pas confiance."
+    ca ""
 
 # game/v9/scene27.rpy:126
 translate francais v9_train_w_apes_781dd3fd:
 
     # ca "And you! How the fuck do you call yourself an Ape? Do you know how many people have seen you get your ass kicked? Right before the big fight? Could you be more stupid?"
-    ca "Et toi ! Comment peux-tu t'appeler un Ape, putain ? Sais-tu combien de personnes t'ont vu te faire botter le cul ? Juste avant le grand combat ? Tu pourrais être encore plus stupide ?"
+    ca ""
 
 # game/v9/scene27.rpy:131
 translate francais v9_train_w_apes_c6e8a3b3:
 
     # u "(Not falling for that.)"
-    u "(Je ne tombe pas dans le panneau.)"
+    u ""
 
 # game/v9/scene27.rpy:136
 translate francais v9_train_w_apes_bb6c5f14:
 
     # ca "But that's all about to change."
-    ca "Mais tout ça est sur le point de changer."
+    ca ""
 
 # game/v9/scene27.rpy:141
 translate francais v9_train_w_apes_8edded3f:
 
     # ca "You. Weight bench. Don't stop til you puke!"
-    ca "Toi. Banc de musculation. N'arrête pas jusqu'à ce que tu vomisses !"
+    ca ""
 
 # game/v9/scene27.rpy:146
 translate francais v9_train_w_apes_988526b3:
 
     # ca "And you, go punch something."
-    ca "Et toi, va frapper un truc."
+    ca ""
 
 # game/v9/scene27.rpy:152
 translate francais v9_train_w_apes_667562ba:
 
     # ca "And Rocky. I'm sure you don't need my help. You're already famous."
-    ca "Et Rocky. Je suis sûr que tu n'as pas besoin de mon aide. Tu es déjà célèbre."
+    ca ""
 
 # game/v9/scene27.rpy:161
 translate francais v9_train_w_apes_b6c55d53:
 
     # u "Yeah, I dropped that guy!"
-    u "Ouais, j'ai laissé tomber ce type !"
+    u ""
 
 # game/v9/scene27.rpy:166
 translate francais v9_train_w_apes_98c0e1b1:
 
     # ca "Not so fast. There's more to being a champion than one lucky punch."
-    ca "Pas si vite. Il faut plus qu'un coup de poing pour être un champion."
+    ca ""
 
 # game/v9/scene27.rpy:171
 translate francais v9_train_w_apes_96c5b347:
 
     # ca "When I get done with you, no punk will even THINK about starting shit again. You hear me?"
-    ca "Quand j'en aurai fini avec toi, aucun voyou ne pensera même à recommencer ses conneries. Tu m'entends ?"
+    ca ""
 
 # game/v9/scene27.rpy:179
 translate francais v9_train_w_apes_f95a5b53:
 
     # u "Aww, I don't know. It wasn't that big a deal."
-    u "Aww, je ne sais pas. Ce n'était pas si important."
+    u ""
 
 # game/v9/scene27.rpy:184
 translate francais v9_train_w_apes_6589919d:
 
     # ca "Nonsense!"
-    ca "N'importe quoi !"
+    ca ""
 
 # game/v9/scene27.rpy:186
 translate francais v9_train_w_apes_4ce9f9da:
 
     # ca "You're our main event! That's why we gotta make extra sure you're ready."
-    ca "Tu es notre évènement principal ! C'est pourquoi on doit s'assurer que tu es prêt."
+    ca ""
 
 # game/v9/scene27.rpy:191
 translate francais v9_train_w_apes_969aa057:
 
     # u "I feel alright."
-    u "Je me sens bien."
+    u ""
 
 # game/v9/scene27.rpy:196
 translate francais v9_train_w_apes_4be08fd5:
 
     # ca "Alright? Alright's not good enough! Let's go!"
-    ca "Bien ? Bien, ce n'est pas assez bien ! Allons-y !"
+    ca ""
 
 # game/v9/scene27.rpy:201
 translate francais v9_train_w_apes_1c9d3127:
 
     # ca "You got an arm. That's clear. What you need is options."
-    ca "Tu as un bras. C'est clair. Ce dont tu as besoin, c'est d'options."
+    ca ""
 
 # game/v9/scene27.rpy:206
 translate francais v9_train_w_apes_6e511561:
 
     # u "Options?"
-    u "Options ?"
+    u ""
 
 # game/v9/scene27.rpy:211
 translate francais v9_train_w_apes_6fce52cf:
 
     # ca "Chris is no dumbass. He's seen your punch a thousand times by now and he's training those Wolf cubs to strike first. They're gonna be worried about that punch, so we're not gonna give it to 'em."
-    ca "Chris n'est pas un imbécile. Il a vu ton coup de poing des milliers de fois maintenant et il entraîne ces louveteaux à frapper les premiers. Ils vont s'inquiéter de ce coup de poing, donc on ne va pas le leur donner."
+    ca ""
 
 # game/v9/scene27.rpy:216
 translate francais v9_train_w_apes_ee7ad2c0:
 
     # u "Um."
-    u "Hum."
+    u ""
 
 # game/v9/scene27.rpy:221
 translate francais v9_train_w_apes_1f1d929c:
 
     # ca "At least not right away."
-    ca "Du moins pas tout de suite."
+    ca ""
 
 # game/v9/scene27.rpy:226
 translate francais v9_train_w_apes_76d47545:
 
     # ca "Footwork. That's where it's at. You have the power behind that fist. They're expecting it. You gotta hit 'em WHERE they're not expecting."
-    ca "Le jeu de jambes. C'est là que ça se passe. Tu as la puissance derrière ce poing. Ils s'y attendent. Tu dois les frapper là où ils ne s'y attendent pas."
+    ca ""
 
 # game/v9/scene27.rpy:231
 translate francais v9_train_w_apes_b6911cac:
 
     # ca "BAM! See that?"
-    ca "BAM ! Tu vois ça ?"
+    ca ""
 
 # game/v9/scene27.rpy:233
 translate francais v9_train_w_apes_215f6516:
 
     # ca "Those are baby Wolf nuts on the floor!"
-    ca "Ce sont des noix de bébé loup sur le sol !"
+    ca ""
 
 # game/v9/scene27.rpy:238
 translate francais v9_train_w_apes_9df498ac:
 
     # ca "Now your turn. Imagine him standing right in front of you and get as many sneak shots in as possible. Balls, kidneys, throat, I don't care. Go for the kill!"
-    ca "Maintenant, à toi. Imagines le debout juste en face de toi et fais autant de tirs furtifs que possible. Les couilles, les reins, la gorge, je m'en fiche. Vas-y pour le tuer !"
+    ca ""
 
 # game/v9/scene27.rpy:247
 translate francais v9_train_w_apes_e7dacb23:
 
     # u "Yeah!"
-    u "Ouais !"
+    u ""
 
 # game/v9/scene27.rpy:249
 translate francais v9_train_w_apes_ee3c7c07:
 
     # u "Balls! Kidneys! Throat!"
-    u "Les boules ! Les reins ! La gorge !"
+    u ""
 
 # game/v9/scene27.rpy:251
 translate francais v9_train_w_apes_fbfedc5f:
 
     # ca "Now you got it! I'm gonna go check on these punks. Make me proud!"
-    ca "Maintenant tu l'as ! Je vais aller voir ces punks. Rends-moi fier !"
+    ca ""
 
 # game/v9/scene27.rpy:257
 translate francais v9_train_w_apes_9bf261e4:
 
     # u "(I'm not trying to send someone to the fucking hospital here.)"
-    u "(Je ne cherche pas à envoyer quelqu'un à ce putain d'hôpital, moi.)"
+    u ""
 
 # game/v9/scene27.rpy:262
 translate francais v9_train_w_apes_520929c1:
 
     # ca "Come on, man. We fight to win in this house. Are you an Ape or not?"
-    ca "Allez, mec. On se bat pour gagner dans cette maison. T'es un Ape ou pas ?"
+    ca ""
 
 # game/v9/scene27.rpy:267
 translate francais v9_train_w_apes_6d2019f8:
 
     # u "Of course!"
-    u "Bien sûr !"
+    u ""
 
 # game/v9/scene27.rpy:271
 translate francais v9_train_w_apes_99f67875:
 
     # ca "Then show me!"
-    ca "Alors montre-moi !"
+    ca ""
 
 # game/v9/scene27.rpy:276
 translate francais v9_train_w_apes_4541d05a:
 
     # ca "Good! I'll be back after I whip these pussies into something resembling a man."
-    ca "Bien ! Je reviendrai après avoir transformé ces lopettes en quelque chose qui ressemble à un homme."
+    ca ""
 
 # game/v9/scene27.rpy:282
 translate francais v9_train_w_apes_08fbf1be:
 
     # ca "Well, well, well."
-    ca "Bien, bien, bien."
+    ca ""
 
 # game/v9/scene27.rpy:284
 translate francais v9_train_w_apes_b4953937:
 
     # ca "What am I to do with you?"
-    ca "Que dois-je faire de toi ?"
+    ca ""
 
 # game/v9/scene27.rpy:291
 translate francais v9_train_w_apes_553c74d1:
 
     # u "You can show me some moves so I don't embarrass the fuck out of myself. And this house."
-    u "Tu peux me montrer quelques mouvements pour que je ne me ridiculise pas. Et que tu ne ridiculises pas cette maison."
+    u ""
 
 # game/v9/scene27.rpy:296
 translate francais v9_train_w_apes_6abd8fff:
 
     # ca "Smart man. I'd hate to have to knock your ass out so soon after your last beating."
-    ca "Un homme intelligent. Je n'aimerais pas avoir à t'assommer si tôt après ta dernière raclée."
+    ca ""
 
 # game/v9/scene27.rpy:301
 translate francais v9_train_w_apes_67a73fda:
 
     # u "*Grumbling* Thank you."
-    u "*Grommelle* Merci."
+    u ""
 
 # game/v9/scene27.rpy:306
 translate francais v9_train_w_apes_c8407da0:
 
     # ca "Great! Over here!"
-    ca "Bien ! Par ici !"
+    ca ""
 
 # game/v9/scene27.rpy:314
 translate francais v9_train_w_apes_beb7ec18:
 
     # u "(Great. If he's gonna make Caleb puke on the weight bench, I can't wait to see what he has in store for me.)"
-    u "(Super. S'il va faire vomir Caleb sur le banc de muscu, j'ai hâte de voir ce qu'il me réserve)."
+    u ""
 
 # game/v9/scene27.rpy:319
 translate francais v9_train_w_apes_6468dd5e:
 
     # ca "Well? What should I do with you?"
-    ca "Alors ? Que devrais-je faire de toi ?"
+    ca ""
 
 # game/v9/scene27.rpy:321
 translate francais v9_train_w_apes_3fdcff80:
 
     # ca "Can't even stand up for yourself against one of us. How do you expect to represent the house in the Brawl?"
-    ca "Tu ne peux même pas te défendre contre l'un d'entre nous. Comment comptes-tu représenter la maison au Brawl ?"
+    ca ""
 
 # game/v9/scene27.rpy:326
 translate francais v9_train_w_apes_16bf1016:
 
     # u "(Not like I was asked if I wanted to fight in the first place.)"
-    u "(Ce n'est pas comme si on m'avait demandé si je voulais me battre, en premier lieu.)"
+    u ""
 
 # game/v9/scene27.rpy:328
 translate francais v9_train_w_apes_dd03a9e3:
 
     # u "Look. I was just trying not to fight in the middle of school. You want me to get expelled or something? Geez."
-    u "Ecoute. J'essayais juste de ne pas me battre en plein milieu de l'école. Tu veux que je sois expulsé ou quelque chose comme ça ? Bon sang."
+    u ""
 
 # game/v9/scene27.rpy:333
 translate francais v9_train_w_apes_83694a48:
 
     # ca "Come here."
-    ca "Viens ici."
+    ca ""
 
 # game/v9/scene27.rpy:338
 translate francais v9_train_w_apes_1fdba394:
 
     # ca "If you were a Wolf and you knew your opponent was a pussy who got his ass knocked out, what would you be thinking?"
-    ca "Si tu étais un Wolf et que tu savais que ton adversaire était une mauviette qui s'est fait botter le cul, à quoi penserais-tu ?"
+    ca ""
 
 # game/v9/scene27.rpy:343
 translate francais v9_train_w_apes_cbfa1a34:
 
     # u "(No, tell me how you REALLY feel.)"
-    u "(Non, dis-moi ce que TU ressens VRAIMENT.)"
+    u ""
 
 # game/v9/scene27.rpy:345
 translate francais v9_train_w_apes_07769749:
 
     # u "I'd be thinking he had something to prove."
-    u "Je penserais qu'il a quelque chose à prouver."
+    u ""
 
 # game/v9/scene27.rpy:350
 translate francais v9_train_w_apes_47d35e0d:
 
     # ca "And what would you do with that?"
-    ca "Et que ferais-tu avec ça ?"
+    ca ""
 
 # game/v9/scene27.rpy:355
 translate francais v9_train_w_apes_b97c154d:
 
     # u "Charge him."
-    u "Je le charge."
+    u ""
 
 # game/v9/scene27.rpy:360
 translate francais v9_train_w_apes_a0e42609:
 
     # ca "Yes! Not useless after all."
-    ca "Oui ! Pas inutile après tout."
+    ca ""
 
 # game/v9/scene27.rpy:362
 translate francais v9_train_w_apes_5566f872:
 
     # ca "Your guy's gonna come off that bell like a cheetah and you have to be ready."
-    ca "Ton gars va sortir de cette cloche comme un guépard et tu dois être prêt."
+    ca ""
 
 # game/v9/scene27.rpy:392
 translate francais v9_train_w_apes_2e926852:
 
     # u "Hey! What the fuck?"
-    u "Hey ! C'est quoi ce bordel ?"
+    u ""
 
 # game/v9/scene27.rpy:397
 translate francais v9_train_w_apes_1ce9f99c:
 
     # ca "Did you see that coming?"
-    ca "Tu l'as vu venir ?"
+    ca ""
 
 # game/v9/scene27.rpy:402
 translate francais v9_train_w_apes_b5515944:
 
     # u "Fuck no!"
-    u "Putain, non !"
+    u ""
 
 # game/v9/scene27.rpy:407
 translate francais v9_train_w_apes_79e7d75a:
 
     # ca "Neither will he!"
-    ca "Il ne le verra pas non plus !"
+    ca ""
 
 # game/v9/scene27.rpy:412
 translate francais v9_train_w_apes_310c19c1:
 
     # ca "Now, give me a hundred of those. I want you sweeping legs in your sleep tonight!"
-    ca "Maintenant, donne-moi une centaine de ceux-là. Je veux que tu balayes des jambes dans ton sommeil ce soir !"
+    ca ""
 
 # game/v9/scene27.rpy:417
 translate francais v9_train_w_apes_f9e2528e:
 
     # ca "When I get done with those guys, we'll talk about sneak shots. Balls, kidneys, throat. Sweep him to the ground and strike fast!"
-    ca "Quand j'en aurai fini avec ces types, on parlera de coups bas. Boules, reins, gorge. Mets-le au sol et frappe vite !"
+    ca ""
 
 # game/v9/scene27.rpy:419
 translate francais v9_train_w_apes_58e43061:
 
     # ca "One hundred. I'll be counting!"
-    ca "Cent. Je vais compter !"
+    ca ""
 
 # game/v9/scene27.rpy:421
 translate francais v9_train_w_apes_74dca20b:
 
     # "*Crash*"
-    "*Crash*"
+    ""
 
 # game/v9/scene27.rpy:426
 translate francais v9_train_w_apes_fe5d9856:
 
     # ca "Alright maggots! That's your cue. Great workout!"
-    ca "D'accord, les asticots ! C'est votre signal. Bon entraînement !"
+    ca ""
 
 # game/v9/scene27.rpy:431
 translate francais v9_train_w_apes_0da2bbca:
 
     # ca "Took you long enough. Good job. I thought you'd drop a long time ago. Puke or pass out. That's how you know you're done!"
-    ca "Tu as mis le temps. Bon travail. J'ai cru que tu tomberais il y a longtemps. Vomir ou perdre connaissance. C'est comme ça que tu sais que tu as fini !"
+    ca ""
 
 translate francais strings:
 
     # game/v9/scene27.rpy:154
     old "Be confident"
-    new "Sois confiant"
+    new ""
 
     # game/v9/scene27.rpy:240
     old "Be pumped"
-    new "Sois gonflé"
+    new ""
 
     # game/v9/scene27.rpy:240
     old "Be concerned"
-    new "Être inquiet"
+    new ""
+
