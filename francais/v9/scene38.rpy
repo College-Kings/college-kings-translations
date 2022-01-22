@@ -4,7 +4,7 @@
 translate francais v9_walk_li_txt_1d8a7ae7:
 
     # u "(Ugh, this is such a mess. How did I get stuck in the middle of those two?)"
-    u "( Argh, c'est un tel merdier. Comment ai-je pu me retrouver coincé au milieu de ces deux-là ?)"
+    u "(Argh, c'est un tel merdier. Comment ai-je pu me retrouver coincé au milieu de ces deux-là ?)"
 
 # game/v9/scene38.rpy:23
 translate francais v9_walk_li_txt_ed398106:

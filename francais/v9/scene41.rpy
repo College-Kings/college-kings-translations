@@ -34,7 +34,7 @@ translate francais v9_apes_pre_fight_ada0b2b3:
 translate francais v9_apes_pre_fight_6f80ed38:
 
     # ca "Bout damn time!"
-    ca "Il était temps !"
+    ca "Pas trop tôt !"
 
 # game/v9/scene41.rpy:71
 translate francais v9_apes_pre_fight_a0d04d43:
@@ -46,4 +46,4 @@ translate francais v9_apes_pre_fight_a0d04d43:
 translate francais v9_apes_pre_fight_774371a5:
 
     # ca "Let's go."
-    ca "Allons-y."
+    ca "Allez, GO !"

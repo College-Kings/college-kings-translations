@@ -88,4 +88,4 @@ translate francais v9_wolves_pre_fight_7d381fc2:
 translate francais v9_wolves_pre_fight_0a6077fc:
 
     # se "Let's go!"
-    se "Allons-y !"
+    se "C'est partit !"

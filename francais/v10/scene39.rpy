@@ -16,7 +16,7 @@ translate francais v10_riley_walk_5fab8452:
 translate francais v10_riley_walk_663bfed4:
 
     # ri "I was shocked, but as far as enjoying it, I don't know. Maybe. *Chuckles*"
-    ri "J'étais choqué, mais pour ce qui est d'apprécier, je ne sais pas. Peut-être. *Rire*"
+    ri "J'étais choquée, mais pour ce qui est d'apprécier, je ne sais pas. Peut-être. *Rire*"
 
 # game/v10/scene39.rpy:30
 translate francais v10_riley_walk_e8e083d6:
@@ -94,13 +94,13 @@ translate francais v10_riley_walk_40632fb1:
 translate francais v10_riley_walk_91586fd7:
 
     # ri "Now Aubrey on the other hand, she knows how to dance so I can only imagine. You know?"
-    ri "Aubrey, elle, sait très bien danser, alors je ne peux qu'imaginer. Tu comprends ?"
+    ri "Aubrey, elle, sait très bien danser, alors je ne peux qu'imaginer... Tu comprends ?"
 
 # game/v10/scene39.rpy:100
 translate francais v10_riley_walk_2c4a7f80:
 
     # u "Oh I can imagine."
-    u "Oh, je peux moi aussi l'imaginer."
+    u "Oh moi aussi, je peux l'imaginer."
 
 # game/v10/scene39.rpy:106
 translate francais v10_riley_walk_ed4c76fc:
@@ -124,31 +124,31 @@ translate francais v10_riley_walk_4fdd3754:
 translate francais v10_riley_walk_c98aeae0:
 
     # u "I don't doubt it."
-    u "Je n'en doute pas."
+    u "J'en doute pas."
 
 # game/v10/scene39.rpy:126
 translate francais v10_riley_walk_b16e29e9:
 
     # ri "Oh oh, you're gonna think this is hilarious. I was walking by the win a date booth right, and I saw Mr. Lee and Ms. Rose talking all excited so I listened for a little bit."
-    ri "Oh oh, tu vas penser que c'est hilarant. Je passais devant le stand \"Gagnez un rencard\", et j'ai vu M. Lee et Mme Rose parler tout excités, alors j'ai écouté un peu."
+    ri "Oh oh, tu vas penser que c'est hilarant. Je passais devant le stand \"Gagnez un rencard\", et j'ai vu Mr Lee et Mme Rose parler tout excités, alors j'ai écouté un peu."
 
 # game/v10/scene39.rpy:128
 translate francais v10_riley_walk_48e23f9e:
 
     # ri "Did you know Mr. Lee ran for Mayor a few years ago?"
-    ri "Tu savais que M. Lee s'est présenté comme maire il y a quelques années ?"
+    ri "Tu savais que Mr Lee s'est présenté comme maire il y a quelques années ?"
 
 # game/v10/scene39.rpy:133
 translate francais v10_riley_walk_49134216:
 
     # u "*Chuckles* You serious?"
-    u "*Rire* Tu es sérieuse ?"
+    u "*Rire* T'es sérieuse ?"
 
 # game/v10/scene39.rpy:138
 translate francais v10_riley_walk_eade55ef:
 
     # ri "His slogan was \"Let's Make History\". It's so ironic, it's hilarious."
-    ri "Son slogan était \"Faisons l'histoire\". C'est tellement ironique que c'en est hilarant."
+    ri "Son slogan était \"Faisons l'histoire ensemble\". C'est tellement ironique que c'en est hilarant."
 
 # game/v10/scene39.rpy:143
 translate francais v10_riley_walk_2c4b2214:
@@ -166,7 +166,7 @@ translate francais v10_riley_walk_5b748f60:
 translate francais v10_riley_walk_5f5d5425:
 
     # u "As much as Cameron teases him, Mr. Lee could use a friend. *Chuckles*"
-    u "Même si Cameron le taquine, M. Lee a besoin d'un ami. *rire*"
+    u "Même si Cameron le taquine, Mr Lee a besoin d'un ami. *rire*"
 
 # game/v10/scene39.rpy:158
 translate francais v10_riley_walk_2057c186:
@@ -190,7 +190,7 @@ translate francais v10_riley_walk_145180e5:
 translate francais v10_riley_walk_888b87da:
 
     # ri "No for real for real. I get along with other girls, but as far as guys go there aren't many that I really feel that close with. But I do feel pretty close with you."
-    ri "Non, pour de vrai, pour de vrai. Je m'entends bien avec les autres filles, mais pour ce qui est des garçons, il n'y en a pas beaucoup dont je me sens vraiment proche. Mais je me sens vraiment proche de toi."
+    ri "Non, pour de vrai, pour de vrai. Je m'entends bien avec les autres filles, mais pour ce qui est des garçons, il n'y en a pas beaucoup dont je me sente vraiment proche. Mais vraiment, je me sens proche de toi."
 
 # game/v10/scene39.rpy:179
 translate francais v10_riley_walk_57ead927:
@@ -292,7 +292,7 @@ translate francais v10_riley_walk_51dcebd5:
 translate francais v10_riley_walk_94f2aee3:
 
     # ri "Wait what?"
-    ri "Attends quoi ?"
+    ri "Quoi ?"
 
 # game/v10/scene39.rpy:266
 translate francais v10_riley_walk_2d052be1:

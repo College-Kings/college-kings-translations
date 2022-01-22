@@ -70,7 +70,7 @@ translate francais v10s19_PhoneContinue1_4f274887:
 translate francais v10s19_PhoneContinue1_794ca2ce:
 
     # lee "Of course we do, son. We also have bedtimes and mine is coming up soon."
-    lee "Bien sûr que oui, mon fils. Nous avons aussi des heures pour aller au lit et la mienne arrive bientôt."
+    lee "Bien sûr que oui, mon garçon. Nous avons aussi des heures pour aller au lit et la mienne arrive bientôt."
 
 # game/v10/scene19.rpy:109
 translate francais v10s19_PhoneContinue1_c091fe4b:

@@ -40,7 +40,7 @@ translate empty v10_avoid_fight_22d91d61:
 translate empty v10_avoid_fight_286f293d:
 
     # ch "And even now, here I am focusing on the guy that ran while everyone else, including Imre who did a spectacular job, is inside."
-    ch "Et même maintenant, je me concentre sur le gars qui a couru alors que tous les autres, y compris Imre qui a fait un travail spectaculaire, sont à l'intérieur."
+    ch "Et même maintenant, me voilà en train de me concentrer sur le gars qui a fui alors que tous les autres, y compris Imre qui a fait un travail spectaculaire, sont restés sur le ring."
 
 # game/v10/scene8a.rpy:52
 translate empty v10_avoid_fight_b51052a2:
@@ -318,7 +318,7 @@ translate francais v10_avoid_fight_22d91d61:
 translate francais v10_avoid_fight_286f293d:
 
     # ch "And even now, here I am focusing on the guy that ran while everyone else, including Imre who did a spectacular job, is inside."
-    ch "Et même maintenant, je me concentre sur le gars qui a couru alors que tous les autres, y compris Imre qui a fait un travail spectaculaire, sont à l'intérieur."
+    ch "Et même maintenant, me voilà en train de me concentrer sur le gars qui a fui alors que tous les autres, y compris Imre qui a fait un travail spectaculaire, sont restés sur le ring."
 
 # game/v10/scene8a.rpy:53
 translate francais v10_avoid_fight_b51052a2:

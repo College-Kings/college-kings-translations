@@ -28,7 +28,7 @@ translate empty v10start_4e6aae5f:
 translate empty v10start_1a8da92c:
 
     # imre "I’ll bash your fucking head in right now."
-    imre "Je vais t'éclater la tête tout de suite."
+    imre "J'vais t'éclater la tête tout de suite."
 
 # game/v10/scene1.rpy:45
 translate empty v10start_10bb488c:
@@ -46,13 +46,13 @@ translate empty v10start_9ac6850d:
 translate empty v10start_8f23467c:
 
     # ca "Why the fuck would you wrestle him?! Go for a fucking punch if you mean it!"
-    ca "Pourquoi le combattrais-tu, putain ?! Viens prendre un putain de coup de poing si tu le penses vraiment !"
+    ca "Pourquoi le combattais-tu, putain ?! Je vais te mettre une putain de branlée, si tu continues comme ça !"
 
 # game/v10/scene1.rpy:63
 translate empty v10start_878530ff:
 
     # se "Why the fuck would you wrestle him?! Go for a fucking punch if you mean it!” "
-    se "Pourquoi le combattrais-tu, putain ?! Viens prendre un putain de coup de poing si tu le penses vraiment !"
+    se "Pourquoi le combattais-tu, putain ?! Je vais te mettre une putain de branlée, si tu continues comme ça !"
 
 # game/v10/scene1.rpy:70
 translate empty v10start_84845ca2:
@@ -72,7 +72,7 @@ translate empty v10start_a1e599de:
 translate francais v10start_47067c3f:
 
     # u "What are you guys doing!?"
-    u "What are you guys doing!?"
+    u "Qu'est-ce que vous faites, les mecs ?"
 
 # game/v10/scene1.rpy:23
 translate francais v10start_2b69d19e:
@@ -96,7 +96,7 @@ translate francais v10start_4e6aae5f:
 translate francais v10start_2f0eed6e:
 
     # imre "I'll bash your fucking head in right now."
-    imre "Je vais t'éclater la tête tout de suite."
+    imre "J'vais t'éclater la tête tout de suite."
 
 # game/v10/scene1.rpy:45
 translate francais v10start_a640ce6b:
@@ -114,13 +114,13 @@ translate francais v10start_9ac6850d:
 translate francais v10start_8f23467c:
 
     # ca "Why the fuck would you wrestle him?! Go for a fucking punch if you mean it!"
-    ca "Pourquoi le combattrais-tu, putain ?! Viens prendre un putain de coup de poing si tu le penses vraiment !"
+    ca "Pourquoi le combattais-tu, putain ?! Je vais te mettre une putain de branlée, si tu continues comme ça !"
 
 # game/v10/scene1.rpy:63
 translate francais v10start_ba2f2598:
 
     # se "Why the fuck would you wrestle him?! Go for a fucking punch if you mean it!"
-    se "Pourquoi le combattrais-tu, putain ?! Viens prendre un putain de coup de poing si tu le penses vraiment !"
+    se "Pourquoi le combattais-tu, putain ?! Je vais te mettre une putain de branlée, si tu continues comme ça !"
 
 # game/v10/scene1.rpy:70
 translate francais v10start_84845ca2:

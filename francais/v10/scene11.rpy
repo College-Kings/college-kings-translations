@@ -16,25 +16,25 @@ translate empty v10_linds_room_6866a39f:
 translate empty v10_linds_room_64c04ad1:
 
     # li "It really means a lot to me... I just needed someone to talk to."
-    li "Cela signifie vraiment beaucoup pour moi... J'avais juste besoin de quelqu'un à qui parler."
+    li "Ça signifie vraiment beaucoup pour moi... J'avais juste besoin de quelqu'un à qui parler."
 
 # game/v10/scene11.rpy:38
 translate empty v10_linds_room_cb05967d:
 
     # u "We all do sometimes."
-    u "On le fait tous parfois, non?"
+    u "Nous en avons tous tous besoin parfois."
 
 # game/v10/scene11.rpy:43
 translate empty v10_linds_room_c44d66ff:
 
     # li "Do you ever feel like life just never slows down? Like as soon as things start to mellow out here comes that next big thing?"
-    li "As-tu déjà eu l'impression que la vie ne ralentit jamais ? Comme si dès que les choses commençaient à se calmer, la prochaine chose importante arrivait ?"
+    li "As-tu déjà eu l'impression que la vie ne ralentit jamais ? Comme si dès que les choses commençaient à se calmer, une chose très importante se passait ?"
 
 # game/v10/scene11.rpy:48
 translate empty v10_linds_room_f29edfb8:
 
     # u "Yeah, especially since college started. Even though it can be exciting it's still just a lot sometimes."
-    u "Oui, surtout depuis que l'université a commencé. Même si ça peut être excitant, c'est toujours beaucoup parfois."
+    u "Oui, surtout depuis que l'université a commencé. Même si ça peut être excitant, c'est beaucoup parfois."
 
 # game/v10/scene11.rpy:53
 translate empty v10_linds_room_7281b627:

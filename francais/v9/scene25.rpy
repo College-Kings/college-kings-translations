@@ -40,7 +40,7 @@ translate francais s25_ContinueW_477524e5:
 translate francais s25_ContinueW_303d2d04:
 
     # u "(I wonder how much Mr. Lee expects us to remember from everyone else's Viking scenes. I was too busy looking at the costumes to pay attention.)"
-    u "(Je me demande à combien Mr Lee s'attend, à ce que nous nous souvenions des scènes de Vikings des autres. J'étais trop occupé à regarder les costumes pour y prêter attention.)"
+    u "(Je me demande combien Mr Lee s'attend à ce que nous nous souvenions des scènes de Vikings de tous les autres. J'étais trop occupé à regarder les costumes pour y prêter attention.)"
 
 # game/v9/scene25.rpy:63
 translate francais s25_ContinueW_5ef4f2a2:
@@ -80,7 +80,7 @@ translate francais strings:
 
     # game/v9/scene25.rpy:28
     old "Of course. I'm glad you talked me into it."
-    new "Bien sûr. Je suis contente que tu m'aies convaincue."
+    new "Bien sûr. Je suis contente que tu m'aies convaincu."
 
     # game/v9/scene25.rpy:29
     old "Me too. I don't think anyone's tried something like this before. You'll be the talk of the school!"
@@ -88,11 +88,11 @@ translate francais strings:
 
     # game/v9/scene25.rpy:30
     old "No, WE will. I couldn't have done it without your help."
-    new "Non, NOUS le ferons. Je n'aurais pas pu le faire sans ton aide."
+    new "Non, NOUS le serons. Je n'aurais pas pu le faire sans ton aide."
 
     # game/v9/scene25.rpy:31
     old "Don't mention it, talk soon?"
-    new "Ne dis rien de tel, on en parle bientôt ?"
+    new "Ne dis pas ça, on en parle bientôt ?"
 
     # game/v9/scene25.rpy:32
     old "Sure!"

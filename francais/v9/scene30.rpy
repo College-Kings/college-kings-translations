@@ -10,7 +10,7 @@ translate francais v9_satmorn_gfb_walk_56a4ff13:
 translate francais v9_satmorn_gfb_walk_7034d01f:
 
     # u "*Laugh* You're sorry? I'm the one that was staring into the sun. Are you okay?"
-    u "*Rire* Tu es désolée ? C'est moi qui regardais le soleil. Tu vas bien ?"
+    u "*Rire* Tu es désolée ? C'est moi qui avais le soleil dans les yeux. Tu vas bien ?"
 
 # game/v9/scene30.rpy:24
 translate francais v9_satmorn_gfb_walk_4082d784:

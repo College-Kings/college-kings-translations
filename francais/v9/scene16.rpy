@@ -40,13 +40,13 @@ translate francais s16_PhoneContinueA_a0b93d3e:
 translate francais v9_emily_dorm_48a7bfd9:
 
     # u "Bedtime?"
-    u "L'heure du coucher ?"
+    u "C'est pas l'heure de dormir ?"
 
 # game/v9/scene16.rpy:144
 translate francais v9_emily_dorm_99c42580:
 
     # em "I couldn't sleep."
-    em "Je n'arrivais pas à dormir."
+    em "Si mais, je n'arrivais pas."
 
 # game/v9/scene16.rpy:149
 translate francais v9_emily_dorm_77066c85:
@@ -58,7 +58,7 @@ translate francais v9_emily_dorm_77066c85:
 translate francais v9_emily_dorm_cef84ed8:
 
     # em "Boxer's high?"
-    em "La défonce du boxeur ?"
+    em "Le Boxer est défoncé ?"
 
 # game/v9/scene16.rpy:170
 translate francais v9_emily_dorm_5e15ed41:
@@ -76,13 +76,13 @@ translate francais v9_emily_dorm_0c8dbe46:
 translate francais v9_emily_dorm_8b29a428:
 
     # u "(Aw, great. Pity.)"
-    u "(Ah, super. Dommage.)"
+    u "(Oh, super. De la pitié.)"
 
 # game/v9/scene16.rpy:183
 translate francais v9_emily_dorm_d1cd40be:
 
     # u "I'm alright. Just more attention than I'd like."
-    u "Je vais bien. J'ai juste eu plus de considération que je ne l'aurais souhaité."
+    u "Je vais bien. On me prête juste plus d'attention que je ne le souhaiterais."
 
 # game/v9/scene16.rpy:188
 translate francais v9_emily_dorm_e93c3e12:
@@ -94,7 +94,7 @@ translate francais v9_emily_dorm_e93c3e12:
 translate francais v9_emily_dorm_b6e102b1:
 
     # u "That's what I said. I sure hope we're right."
-    u "C'est ce que j'ai dit. J'espère que nous avons raison."
+    u "C'est ce que j'avais dit. J'espère vraiment que nous avons raison."
 
 # game/v9/scene16.rpy:196
 translate francais v9_emily_dorm_ded4d26a:
@@ -136,7 +136,7 @@ translate francais v9_emily_dorm_5e7b09a1:
 translate francais v9_emily_dorm_9a58f0c4:
 
     # u "Oral."
-    u "Oral."
+    u "Cuni."
 
 # game/v9/scene16.rpy:236
 translate francais v9_emily_dorm_15fa99f2:
@@ -148,19 +148,19 @@ translate francais v9_emily_dorm_15fa99f2:
 translate francais v9_emily_dorm_057b0d0b:
 
     # u "That's oral."
-    u "C'est oral."
+    u "C'est cuni."
 
 # game/v9/scene16.rpy:246
 translate francais v9_emily_dorm_df7a09eb:
 
     # em "You always were a slick one, [name]."
-    em "Tu as toujours été un malin, [name]."
+    em "T'as toujours été un malin, [name]."
 
 # game/v9/scene16.rpy:251
 translate francais v9_emily_dorm_592d1912:
 
     # u "I was one second away from the holy grail."
-    u "J'étais à une seconde du Saint Graal."
+    u "Ah, j'étais à une seconde du Saint Graal."
 
 # game/v9/scene16.rpy:256
 translate francais v9_emily_dorm_3067603b:
@@ -172,7 +172,7 @@ translate francais v9_emily_dorm_3067603b:
 translate francais v9_emily_dorm_9a58f0c4_1:
 
     # u "Oral."
-    u "Oral."
+    u "Cuni."
 
 # game/v9/scene16.rpy:266
 translate francais v9_emily_dorm_25355db3:
@@ -190,13 +190,13 @@ translate francais v9_emily_dorm_9e8628ec:
 translate francais v9_emily_dorm_1f254e0b:
 
     # em "Why do you think I texted you?"
-    em "Pourquoi crois-tu que je t'ai envoyé un texto ?"
+    em "Et pourquoi crois-tu que je t'ai envoyé un texto ?"
 
 # game/v9/scene16.rpy:281
 translate francais v9_emily_dorm_fe0f5ed6:
 
     # u "My oral skills."
-    u "Mes capacités orales."
+    u "Pour mes capacités linguales."
 
 # game/v9/scene16.rpy:286
 translate francais v9_emily_dorm_7b9a19ae:
@@ -238,7 +238,7 @@ translate francais v9_emily_dorm_1daa7a41:
 translate francais v9_emily_dorm_3d7f8274:
 
     # u "Anyways, i should probably head home."
-    u "Quoi qu'il en soit, je devrais probablement rentrer à la maison."
+    u "Quoi qu'il en soit, je devrais rentrer à la maison."
 
 # game/v9/scene16.rpy:337
 translate francais v9_emily_dorm_0cb1bc55:
@@ -286,7 +286,7 @@ translate francais v9_emily_dorm_c381fc01:
 translate francais v9_emily_dorm_55ec44ab:
 
     # em "Then I suppose the clock's ticking on your prize."
-    em "Alors je pense que l'horloge tourne pour ton prix."
+    em "Alors je pense que l'horloge tourne, pour ton prix."
 
 # game/v9/scene16.rpy:377
 translate francais v9_emily_dorm_3369ee80:
@@ -316,7 +316,7 @@ translate francais v9_emily_dorm_b087b9e9:
 translate francais v9_emily_dorm_659341c2:
 
     # u "Great job."
-    u "Excellent travail."
+    u "Un excellent travail."
 
 # game/v9/scene16.rpy:403
 translate francais v9_emily_dorm_6e8d7211:
@@ -346,7 +346,7 @@ translate francais v9_emily_dorm_1daa7a41_1:
 translate francais v9_emily_dorm_3d7f8274_1:
 
     # u "Anyways, i should probably head home."
-    u "Quoi qu'il en soit, je devrais probablement rentrer à la maison."
+    u "Quoi qu'il en soit, je devrais rentrer à la maison."
 
 # game/v9/scene16.rpy:437
 translate francais v9_emily_dorm_3c9d25dc:
@@ -370,7 +370,7 @@ translate francais v9_emily_dorm_fe20225e:
 translate francais v9_emily_dorm_91571d97:
 
     # em "Fine, then I won't be gentle."
-    em "Bien, alors je ne serai pas gentille."
+    em "Bien, dans ce cas, je ne serai pas gentille."
 
 # game/v9/scene16.rpy:455
 translate francais v9_emily_dorm_38831c29:
@@ -418,7 +418,7 @@ translate francais v9_emily_dorm_6b7337c2:
 translate francais v9_emily_dorm_b87c2079:
 
     # u "Oh God. I've missed this."
-    u "Oh, mon Dieu. J'ai raté ça."
+    u "Oh mon Dieu. Ça m'a manqué."
 
 # game/v9/scene16.rpy:502
 translate francais v9_emily_dorm_0d02ac7c:
@@ -466,7 +466,7 @@ translate francais v9_emily_dorm_643fb271:
 translate francais v9_emily_dorm_84c913f8:
 
     # em "Aww, I was enjoying that."
-    em "Aww, j'ai apprécié ça."
+    em "Aww, J'ai aimé ça."
 
 # game/v9/scene16.rpy:558
 translate francais v9_emily_dorm_a259e7dd:
@@ -526,7 +526,7 @@ translate francais v9_emily_dorm_5bf6ee4f:
 translate francais v9_emily_dorm_ab26321c:
 
     # em "*Moans Louder* Oh god [name] you're so fucking goooood!!"
-    em "*Gémis plus fort* Oh merde [name] tu es tellement bon !!!"
+    em "*Gémis plus fort* Oh merde [name] tu es tellement bonnnnn !!!"
 
 # game/v9/scene16.rpy:618
 translate francais v9_emily_dorm_47c91c6a:
@@ -580,7 +580,7 @@ translate francais v9_emily_dorm_45620519:
 translate francais v9_emily_dorm_41af3b50:
 
     # em "Can I cum now? Please? God, it's so good."
-    em "Je peux jouir maintenant ? S'il te plaît ? Merde, c'est si bon."
+    em "Je peux jouir maintenant ? S'il te plaît ! Putain, c'est si bon."
 
 # game/v9/scene16.rpy:663
 translate francais v9_emily_dorm_224813f1:
@@ -670,7 +670,7 @@ translate francais v9_emily_dorm_7fb6b205:
 translate francais v9_emily_dorm_41bb5fff:
 
     # em "You've learned a few tricks, college boy."
-    em "Tu as appris quelques trucs, Mr l'étudiant."
+    em "Tu as appris quelques bons trucs, Mr l'étudiant."
 
 # game/v9/scene16.rpy:747
 translate francais v9_emily_dorm_9206a76f:
@@ -688,7 +688,7 @@ translate francais v9_emily_dorm_465f3c68:
 translate francais v9_emily_dorm_43d10a56:
 
     # u "Please do. Are you okay? I didn't hurt you, did I?"
-    u "S'il te plaît, fais-le. Est-ce que tu vas bien ? Je ne t'ai pas fait de mal, n'est-ce pas ?"
+    u "S'il te plaît, fais-le. Est-ce que tu vas bien ? Je ne t'ai pas fait mal, hein ?"
 
 # game/v9/scene16.rpy:764
 translate francais v9_emily_dorm_1e4ccc6d:
@@ -926,7 +926,7 @@ translate francais strings:
 
     # game/v9/scene16.rpy:317
     old "Make A Move On Emily"
-    new "Fais un pas vers Emily"
+    new "Va plus loin avec Emily"
 
     # game/v9/scene16.rpy:317
     old "Head home"
@@ -966,13 +966,13 @@ translate francais strings:
 translate francais v9_emily_dorm_1f4cb310:
 
     # u "Anyways, I should probably head home."
-    u "Quoi qu'il en soit, je devrais probablement rentrer à la maison."
+    u "Quoi qu'il en soit, je devrais rentrer à la maison."
 
 # game/v9/scene16.rpy:435
 translate francais v9_emily_dorm_1f4cb310_1:
 
     # u "Anyways, I should probably head home."
-    u "Quoi qu'il en soit, je devrais probablement rentrer à la maison."
+    u "Quoi qu'il en soit, je devrais rentrer à la maison."
 
 # game/v9/scene16.rpy:537
 translate francais v9s16_emilyBlowjob_a1139689:
@@ -1128,7 +1128,7 @@ translate francais v9s16_emilyCowgirl_45620519:
 translate francais v9s16_emilyCowgirl_41af3b50:
 
     # em "Can I cum now? Please? God, it's so good."
-    em "Je peux jouir maintenant ? S'il te plaît ? Merde, c'est si bon."
+    em "Je peux jouir maintenant ? S'il te plaît ! Putain, c'est si bon."
 
 # game/v9/scene16.rpy:679
 translate francais v9s16_emilyCowgirl_224813f1:
@@ -1218,7 +1218,7 @@ translate francais v9s16_emilyDoggy_7fb6b205:
 translate francais v9s16_emilyDoggy_41bb5fff:
 
     # em "You've learned a few tricks, college boy."
-    em "Tu as appris quelques trucs, Mr l'étudiant."
+    em "Tu as appris quelques bons trucs, Mr l'étudiant."
 
 # game/v9/scene16.rpy:766
 translate francais v9s16_emilyDoggy_9206a76f:
@@ -1236,7 +1236,7 @@ translate francais v9s16_emilyDoggy_465f3c68:
 translate francais v9s16_emilyDoggy_43d10a56:
 
     # u "Please do. Are you okay? I didn't hurt you, did I?"
-    u "S'il te plaît, fais-le. Est-ce que tu vas bien ? Je ne t'ai pas fait de mal, n'est-ce pas ?"
+    u "S'il te plaît, fais-le. Est-ce que tu vas bien ? Je ne t'ai pas fait de mal, hein ?"
 
 # game/v9/scene16.rpy:783
 translate francais v9s16_emilyDoggy_1e4ccc6d:
@@ -1266,7 +1266,7 @@ translate francais strings:
 
     # game/v9/scene16.rpy:323
     old "Make a move on Emily"
-    new "Faites un pas vers Emily"
+    new "Allez plus loin avec Emily"
 # TODO: Translation updated at 2022-01-18 10:42
 
 translate francais strings:

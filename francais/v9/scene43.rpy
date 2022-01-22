@@ -112,7 +112,7 @@ translate francais v9_warehouse_josh_fcc18885:
 translate francais v9_warehouse_josh_e7c02fce:
 
     # jo "*WWE announcer Voice* Lovely, lovely ladies...and dudes, I'm your beloved announcer Josh AKA Mr. Have-A-Good-Time."
-    jo "*Voix de l'annonceur de la WWE* Charmantes, charmantes dames... et les gars, je suis votre bien-aimé annonceur Josh alias Mr. Passez-un-Bon-Moment."
+    jo "*Voix de l'annonceur de la WWE* Charmantes, charmantes dames... et les gars, je suis votre présentateur préféré, Josh alias : Mr Passez-un-Bon-Moment."
 
 # game/v9/scene43.rpy:115
 translate francais v9_warehouse_josh_85fe8c96:
@@ -136,13 +136,13 @@ translate francais v9_warehouse_josh_ee18bbe4:
 translate francais v9_warehouse_josh_98aa1a46:
 
     # am "See ya!"
-    am "A plus !"
+    am "À plus !"
 
 # game/v9/scene43.rpy:135
 translate francais v9_warehouse_josh_e28aeeb6:
 
     # ki "Later!"
-    ki "A plus tard !"
+    ki "À plus tard !"
 
 # TODO: Translation updated at 2021-11-19 17:55
 
@@ -150,4 +150,4 @@ translate francais v9_warehouse_josh_e28aeeb6:
 translate francais v9_warehouse_josh_eb947913:
 
     # jo "*WWE announcer Voice* Lovely, lovely ladies... and dudes, I'm your beloved announcer Josh AKA Mr. Have-A-Good-Time."
-    jo "*Voix de l'annonceur de la WWE* Charmantes, charmantes dames... et les gars, je suis votre bien-aimé annonceur Josh alias Mr. ayez-du-bon-temps."
+    jo "*Voix de l'annonceur de la WWE* Charmantes, charmantes dames... et les gars, je suis votre présentateur préféré, Josh alias : Mr Passez-un-Bon-Moment."

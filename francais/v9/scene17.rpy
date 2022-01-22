@@ -4,7 +4,7 @@
 translate francais v9_room_fri_morn_eef583a3:
 
     # ch "Wake up [name], Wolves aren't nocturnal. Go be productive. And someone sent you some mail Mr. Popular."
-    ch "Réveille-toi [name], les Wolves ne sont pas nocturnes. Sois productif. Et quelqu'un t'a envoyé du courrier, Mr Populaire."
+    ch "Réveille-toi [name], les Wolves ne sont pas nocturnes. Sois productif. Quelqu'un t'a envoyé du courrier, Mr Populaire."
 
 # game/v9/scene17.rpy:16
 translate francais v9_room_fri_morn_8da0ae81:
@@ -28,7 +28,7 @@ translate francais v9_room_fri_morn_db7a4e2e:
 translate francais v9_room_fri_morn_f92a2101:
 
     # u "(Ms. Rose, did she get a divorce? And what does she mean return the favor? Guess I'll find out soon.)"
-    u "(Mme Rose, a-t-elle divorcé ? Et que veut-elle dire par rendre la pareille ? Je crois que je vais le découvrir bientôt)."
+    u "(Mme Rose, a-t-elle divorcé ? Et que veut-elle dire par rendre la pareille ? Je pense que je vais le découvrir bientôt)."
 
 # game/v9/scene17.rpy:55
 translate francais s17_PhoneContinueW_0f06666e:
@@ -46,7 +46,7 @@ translate francais s17_PhoneContinueW_23ba1da1:
 translate francais s17_PhoneContinueW_5cdddfcb:
 
     # gr "Wake up, [name], Apes aren't lazy assholes. Get up. Go be productive. Oh, and I'd avoid the toilet. Cameron backed it up again."
-    gr "Réveille-toi, [name], les Apes ne sont pas des trous du cul paresseux. Lève-toi. Sois productif. Oh, et j'éviterais les toilettes. Cameron les a encore contaminées."
+    gr "Réveille-toi, [name], les Apes ne sont pas des trous du cul paresseux. Lève-toi. Sois productif. Oh, et j'éviterais les toilettes, à ta place. Cameron les a encore contaminées."
 
 # game/v9/scene17.rpy:71
 translate francais s17_PhoneContinueW_19541c97:

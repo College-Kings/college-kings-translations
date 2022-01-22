@@ -46,7 +46,7 @@ translate francais v9_at_warehouse_6865f65f:
 translate francais v9_at_warehouse_809c58da:
 
     # imre "Yeah, I wasn't expecting all this."
-    imre "Oui, je ne m'attendais pas à tout ça."
+    imre "Putain, j'm'attendais pas à tout ça."
 
 # game/v9/scene42.rpy:62
 translate francais v9_at_warehouse_e003491e:
@@ -112,7 +112,7 @@ translate francais v9_at_warehouse_33bfef3f:
 translate francais v9_at_warehouse_9d291376:
 
     # se "I WAS WINNING!"
-    se "JE GAGNAIS !"
+    se "JE GAGNERAI !"
 
 # game/v9/scene42.rpy:114
 translate francais v9_at_warehouse_4ffc3155:
@@ -130,7 +130,7 @@ translate francais v9_at_warehouse_2d02c5d4:
 translate francais v9_at_warehouse_55f235b8:
 
     # imre "Fuck no! I want you to hand him over."
-    imre "Putain, non ! Je veux que me le laisse."
+    imre "Putain, non ! J'veux que tu m'le laisse."
 
 # game/v9/scene42.rpy:131
 translate francais v9_at_warehouse_6b2f0979:
@@ -328,7 +328,7 @@ translate francais v9_at_warehouse_833b402c:
 translate francais v9_at_warehouse_120e7f58:
 
     # u "(He's sure amped up, but what's Sebastian got to do with it?)"
-    u "(C'est vrai qu'il est gonflé à bloc, mais quel est le rapport avec Sébastien ?)"
+    u "(C'est vrai qu'il est gonflé à bloc, mais quel est le rapport avec Sébastian ?)"
 
 # game/v9/scene42.rpy:362
 translate francais v9_at_warehouse_af53b222:
@@ -340,13 +340,13 @@ translate francais v9_at_warehouse_af53b222:
 translate francais v9_at_warehouse_639fb2ad:
 
     # ca "Hello again, maggots."
-    ca "Rebonjour, les asticots."
+    ca "Yo, les asticots."
 
 # game/v9/scene42.rpy:372
 translate francais v9_at_warehouse_cb532e47:
 
     # ca "Where were we?"
-    ca "Où en étions-nous ?"
+    ca "On en étais où ?"
 
 # game/v9/scene42.rpy:377
 translate francais v9_at_warehouse_2fd93952:
@@ -358,7 +358,7 @@ translate francais v9_at_warehouse_2fd93952:
 translate francais v9_at_warehouse_38612e47:
 
     # ca "Yeah... forget that shit. Listen, you gotta pound those pups into the ground. You hear me?"
-    ca "Ouais... oublie cette merde. Écoute, tu dois mettre ces petits sous terre. Tu m'entends ?"
+    ca "Ouais... oubliez cette merde. Écoute, vous devez mettre ces petites merdes sous terre. Vous m'entendez ?"
 
 # game/v9/scene42.rpy:387
 translate francais v9_at_warehouse_05a7aabd:
@@ -436,7 +436,7 @@ translate francais v9_at_warehouse_9acb7c8a:
 translate francais v9_at_warehouse_8e539eac:
 
     # ca "Am I clear?!"
-    ca "Suis-je clair ?!"
+    ca "Je suis clair ?!"
 
 # game/v9/scene42.rpy:451
 translate francais v9_at_warehouse_ee020e28:
@@ -460,7 +460,7 @@ translate francais v9_at_warehouse_5f28ec67:
 translate francais v9_at_warehouse_9b57b25e:
 
     # ca "I'm gonna go finish my business. Get out of my face!"
-    ca "Je vais aller finir mon travail. Dégagez de ma vue !"
+    ca "Je vais aller finir mon boulot. Dégagez de ma vue !"
 
 translate francais strings:
 

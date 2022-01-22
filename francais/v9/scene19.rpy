@@ -22,7 +22,7 @@ translate francais v9_lau_dorm_66efac86:
 translate francais v9_lau_dorm_32955d78:
 
     # la "Uh-uh, we're here to work."
-    la "Uh-uh, nous sommes ici pour travailler."
+    la "Hin-hin, nous sommes ici pour travailler."
 
 # game/v9/scene19.rpy:43
 translate francais v9_lau_dorm_9e34d553:
@@ -190,7 +190,7 @@ translate francais v9_lau_dorm_51520a5e:
 translate francais v9_lau_dorm_064d59e6:
 
     # u "Of course you will. You always have great ideas."
-    u "Bien sûr que tu le feras. Tu as toujours de bonnes idées."
+    u "Bien sûr que tu y arriveras. Tu as toujours de bonnes idées."
 
 # game/v9/scene19.rpy:206
 translate francais v9_lau_dorm_9bda258e:
@@ -292,13 +292,13 @@ translate francais v9_lau_dorm_0a68fef9:
 translate francais v9_lau_dorm_1bf547b6:
 
     # u "On a college campus full of dudes? I think you'd raise the most money."
-    u "Sur un campus universitaire avec plein de mecs ? Je pense que tu récolterais le plus d'argent."
+    u "Sur un campus universitaire avec plein de mecs ? Je pense que c'est là, que tu récolterais le plus d'argent."
 
 # game/v9/scene19.rpy:292
 translate francais v9_lau_dorm_5a1c2584:
 
     # la "Let's put that one on the back burner."
-    la "Mettons celle-là en veilleuse."
+    la "Mettons celle-là en réserve."
 
 # game/v9/scene19.rpy:297
 translate francais v9_lau_dorm_438cdf47:
@@ -400,7 +400,7 @@ translate francais v9_lau_dorm_3100de87:
 translate francais v9_lau_dorm_8dc7caaa:
 
     # u "I definitely would do the statue. Can you imagine?"
-    u "Je ferais certainement la statue. Tu imagines ?"
+    u "Je prendrais certainement la statue. Tu imagines ?"
 
 # game/v9/scene19.rpy:381
 translate francais v9_lau_dorm_4b59fb7a:
@@ -508,7 +508,7 @@ translate francais v9_lau_dorm_bcd56699:
 translate francais v9_lau_dorm_8931f6be:
 
     # u "Man, my eyes are starting to cross. I gotta move around a bit."
-    u "Mes yeux commencent à se croiser. Je dois me déplacer un peu."
+    u "Mes yeux commencent à se croiser. Il faut que je bouge un peu."
 
 # game/v9/scene19.rpy:485
 translate francais v9_lau_dorm_ff0decb3:
@@ -532,7 +532,7 @@ translate francais v9_lau_dorm_6cc954c5:
 translate francais v9_lau_dorm_d4e57d5c:
 
     # u "One might say, your hero?"
-    u "On pourrait dire, ton héros ?"
+    u "On pourrait dire que je suis, ton héros ?"
 
 # game/v9/scene19.rpy:521
 translate francais v9_lau_dorm_ce3c9dd1:
@@ -550,7 +550,7 @@ translate francais v9_lau_dorm_637d80fe:
 translate francais v9_lau_dorm_24ec5a08:
 
     # la "I do."
-    la "C'est vrai."
+    la "Je le sais."
 
 # game/v9/scene19.rpy:536
 translate francais v9_lau_dorm_b3e57a62:
@@ -598,7 +598,7 @@ translate francais v9_lau_dorm_fe2c8fa0:
 translate francais v9_lau_dorm_6ca876a2:
 
     # u "It's gonna be a great event. Those Deer will be begging you to host every event from now on."
-    u "Ca va être un grand évènement. Ces Deers vont te supplier d'accueillir tous les événements à partir de maintenant."
+    u "Ça va être un grand évènement. Ces Deers vont te supplier d'accueillir tous les autres événements, à partir de maintenant."
 
 # game/v9/scene19.rpy:598
 translate francais v9_lau_dorm_c2f13ed3:
@@ -628,7 +628,7 @@ translate francais v9_lau_dorm_b685d4da:
 translate francais v9_lau_dorm_1834ca88:
 
     # u "Maybe one day we'll start a party planning business together!"
-    u "Peut-être qu'un jour nous monterons une entreprise d'organisation de fêtes ensemble !"
+    u "Peut-être qu'un jour, ensemble nous monterons une entreprise d'organisation de fêtes !"
 
 # game/v9/scene19.rpy:621
 translate francais v9_lau_dorm_b864fb06:

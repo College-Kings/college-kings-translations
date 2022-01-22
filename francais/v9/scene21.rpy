@@ -46,13 +46,13 @@ translate francais v9_room_w_chris_f333c62b:
 translate francais v9_room_w_chris_fe91253a:
 
     # ch "Now, kinda. I'm rounding up the other guys."
-    ch "Maintenant, en quelque sorte. Je rassemble les autres."
+    ch "Maintenant, en fait. Je rassemble les autres."
 
 # game/v9/scene21.rpy:64
 translate francais v9_room_w_chris_e767ed0b:
 
     # u "Great. I'll meet you outside and we can go together."
-    u "Super. Je te retrouve dehors et on peut y aller ensemble."
+    u "Super. Je te retrouve dehors et on ira ensemble."
 
 # game/v9/scene21.rpy:69
 translate francais v9_room_w_chris_0372831d:

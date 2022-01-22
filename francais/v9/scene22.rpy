@@ -82,7 +82,7 @@ translate francais v9_room_w_sam_d517fdcd:
 translate francais v9_room_w_sam_8aefe0ce:
 
     # u "I bet!"
-    u "J'en suis sûr !"
+    u "Je l'aurai parié !"
 
 # game/v9/scene22.rpy:98
 translate francais v9_room_w_sam_2a57e47b:
@@ -118,7 +118,7 @@ translate francais v9_room_w_sam_fee824cd:
 translate francais v9_room_w_sam_d9b88ad4:
 
     # u "Yeah, I heard some of what you went through. Cam and I talked earlier."
-    u "Oui, j'ai entendu une partie de ce que tu as traversé. Cam et moi avons parlé plus tôt."
+    u "Oui, j'ai entendu une partie de ce que tu as traversé. Cam et moi en avons déjà parlé."
 
 # game/v9/scene22.rpy:130
 translate francais v9_room_w_sam_c9c0ae1d:
@@ -130,7 +130,7 @@ translate francais v9_room_w_sam_c9c0ae1d:
 translate francais v9_room_w_sam_2c3ba812:
 
     # u "I totally understand though. He's your big brother."
-    u "Mais je comprends parfaitement. C'est ton grand frère."
+    u "Mais je le comprends parfaitement. C'est ton grand frère."
 
 # game/v9/scene22.rpy:140
 translate francais v9_room_w_sam_16727a00:
@@ -244,7 +244,7 @@ translate francais v9_room_w_sam_8aea6a47:
 translate francais v9_room_w_sam_85fe47c9:
 
     # u "You're definitely in the right place!"
-    u "Tu es définitivement au bon endroit !"
+    u "Alors, tu es clairement au bon endroit, pour le faire !"
 
 # game/v9/scene22.rpy:240
 translate francais v9_room_w_sam_ecb9a328:

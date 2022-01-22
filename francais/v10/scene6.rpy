@@ -4,7 +4,7 @@
 translate empty v10_mc_vs_ryan_fight_c1876d69:
 
     # imre "Holy shit man, did you see that shit!? I was planning on doing that one-two thing Sebastian showed me but I guess the one was enough!"
-    imre "Putain de merde, tu as vu cette tuerie !? J'avais prévu de faire le une-deux que Sebastian m'a montré mais je pense que le \"une\" a suffit !"
+    imre "Putain de merde, t'as vu cette tuerie !? J'avais prévu de faire le une-deux que Sebastian m'a montré mais apparemment, le \"une\" a suffit !"
 
 # game/v10/scene6.rpy:16
 translate empty v10_mc_vs_ryan_fight_14505d8e:
@@ -16,7 +16,7 @@ translate empty v10_mc_vs_ryan_fight_14505d8e:
 translate empty v10_mc_vs_ryan_fight_8ddb6893:
 
     # imre "*Sings* I'm getting me some pussy after that! I'm getting me some pussy! I'm getting me some pussy!"
-    imre "*Chante* Je vais me faire de la chatte après ça ! Je vais me faire de la chatte ! Je vais me faire de la chatte !"
+    imre "*Chante* J'vais m'faire de la chatte après ça ! J'vais m'faire de la chatte ! J'vais m'faire de la chatte !"
 
 # game/v10/scene6.rpy:26
 translate empty v10_mc_vs_ryan_fight_3b3db138:
@@ -34,19 +34,19 @@ translate empty v10_mc_vs_ryan_fight_4be91cd1:
 translate empty v10_mc_vs_ryan_fight_b8606b9d:
 
     # ch "We're ready Josh! *Laughs*"
-    ch "Nous sommes prêts Josh ! *rires*"
+    ch "Nous sommes prêts Josh ! *rire*"
 
 # game/v10/scene6.rpy:41
 translate empty v10_mc_vs_ryan_fight_09b6ceab:
 
     # imre "Go take him apart!"
-    imre "Va le démonter !"
+    imre "Va l'démonter !"
 
 # game/v10/scene6.rpy:46
 translate empty v10_mc_vs_ryan_fight_3eeb3d50:
 
     # u "You got it man."
-    u "Si tu le dis, mec."
+    u "Tu as tout compris mec."
 
 # game/v10/scene6.rpy:55
 translate empty v10_mc_vs_ryan_fight_a8519fbf:
@@ -82,7 +82,7 @@ translate empty ryan_fightEnd_d9990e5b:
 translate empty ryan_fightEnd_707e55b8:
 
     # imre "Dude, you better not quit right now!"
-    imre "Mec, tu ferais mieux de ne pas abandonner maintenant !"
+    imre "Mec, tu ferais mieux de pas abandonner maintenant !"
 
 # game/v10/scene6.rpy:438
 translate empty ryan_fightEnd_7ea7fb9c:
@@ -94,7 +94,7 @@ translate empty ryan_fightEnd_7ea7fb9c:
 translate empty ryan_fightEnd_8039e85f:
 
     # ry "Man, what are you doing?! We have to do this."
-    ry "Mec, qu'est-ce que tu fais ? ! On doit le faire."
+    ry "Mec, qu'est-ce que tu fais ?! On doit le faire."
 
 # game/v10/scene6.rpy:448
 translate empty ryan_fightEnd_a5764f9c:
@@ -118,7 +118,7 @@ translate empty strings:
 translate francais v10_mc_vs_ryan_fight_c1876d69:
 
     # imre "Holy shit man, did you see that shit!? I was planning on doing that one-two thing Sebastian showed me but I guess the one was enough!"
-    imre "Putain de merde, tu as vu cette tuerie !? J'avais prévu de faire le une-deux que Sebastian m'a montré mais je pense que le \"une\" a suffit !"
+    imre "Putain de merde, t'as vu cette tuerie !? J'avais prévu de faire le une-deux que Sebastian m'a montré mais apparemment, le \"une\" a suffit !"
 
 # game/v10/scene6.rpy:16
 translate francais v10_mc_vs_ryan_fight_14505d8e:
@@ -130,7 +130,7 @@ translate francais v10_mc_vs_ryan_fight_14505d8e:
 translate francais v10_mc_vs_ryan_fight_8ddb6893:
 
     # imre "*Sings* I'm getting me some pussy after that! I'm getting me some pussy! I'm getting me some pussy!"
-    imre "*Chante* Je vais me faire de la chatte après ça ! Je vais me faire de la chatte ! Je vais me faire de la chatte !"
+    imre "*Chante* J'vais m'faire de la chatte après ça ! J'vais m'faire de la chatte ! J'vais m'faire de la chatte !"
 
 # game/v10/scene6.rpy:26
 translate francais v10_mc_vs_ryan_fight_3b3db138:
@@ -160,7 +160,7 @@ translate francais v10_mc_vs_ryan_fight_09b6ceab:
 translate francais v10_mc_vs_ryan_fight_3eeb3d50:
 
     # u "You got it man."
-    u "Si tu le dis, mec."
+    u "Tu as tout compris mec."
 
 # game/v10/scene6.rpy:55
 translate francais v10_mc_vs_ryan_fight_a8519fbf:

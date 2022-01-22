@@ -88,13 +88,13 @@ translate francais v9_fri_training_w_wolves_786dd4e5:
 translate francais v9_fri_training_w_wolves_568b21ab:
 
     # ch "But you have to be careful. There's a fine line between getting in the zone and hitting the wall."
-    ch "Mais vous devez être prudent. Il y a une ligne très fine entre : entrer dans la zone et frapper le mur."
+    ch "Mais vous devez être prudent. Il y a une ligne très fine entre : entrer dans la zone et heurter le mur."
 
 # game/v9/scene26.rpy:111
 translate francais v9_fri_training_w_wolves_0b1f506b:
 
     # u "I think punching an Ape's thick skull is gonna be like hitting a wall."
-    u "Je pense que frapper le crâne épais d'un Ape sera comme frapper un mur."
+    u "Je pense que frapper le crâne épais d'un Ape sera comme heurter un mur."
 
 # game/v9/scene26.rpy:116
 translate francais v9_fri_training_w_wolves_0938aa62:
@@ -130,7 +130,7 @@ translate francais v9_fri_training_w_wolves_974b060b:
 translate francais v9_fri_training_w_wolves_26a30497:
 
     # ch "I wanna win this thing just as bad as the Apes wanna win, maybe more since Grayson's already got the title on his side."
-    ch "Je veux gagner ce truc autant que les singes veulent gagner, peut-être plus puisque Grayson a déjà le titre de son côté."
+    ch "Je veux gagner ce truc autant que les Apes veulent le gagner de leur côté, peut-être encore plus car Grayson a déjà le titre de son côté."
 
 # game/v9/scene26.rpy:147
 translate francais v9_fri_training_w_wolves_f5398ff2:
@@ -142,7 +142,7 @@ translate francais v9_fri_training_w_wolves_f5398ff2:
 translate francais v9_fri_training_w_wolves_9d122be3:
 
     # ch "Not if you have anything to say about it, huh?"
-    ch "Si tu as quelque chose à leur démontrer à ce sujet, en effet. Hein ?"
+    ch "Pas si tu as quelque chose à dire à ce sujet, hein ?"
 
 # game/v9/scene26.rpy:157
 translate francais v9_fri_training_w_wolves_7694dcbe:
@@ -160,7 +160,7 @@ translate francais v9_fri_training_w_wolves_1d674af8:
 translate francais v9_fri_training_w_wolves_c5b8a219:
 
     # ch "But... now we have our champ here. I know for a fact those Apes are shitting their pants after that knockout."
-    ch "Mais... maintenant nous avons notre champion ici. Je sais pertinemment que ces Apes chient dans leur pantalon après ce KO."
+    ch "Mais... maintenant nous avons notre champion ici. Je sais pertinemment que ces Apes se chient dessus, après avoir vu ce KO."
 
 # game/v9/scene26.rpy:169
 translate francais v9_fri_training_w_wolves_4c8977f8:
@@ -418,7 +418,7 @@ translate francais v9_fri_training_w_wolves_7533837a:
 translate francais v9_fri_training_w_wolves_b7f75093:
 
     # u "Run!"
-    u "Cours !"
+    u "Fuir !"
 
 # game/v9/scene26.rpy:387
 translate francais v9_fri_training_w_wolves_4d1826ae:
@@ -472,7 +472,7 @@ translate francais v9_fri_training_w_wolves_c332942c:
 translate francais v9_fri_training_w_wolves_f4cb1225:
 
     # ch "Whoa is right. All his weight will be on that front leg. He'll practically punch himself with your fist!"
-    ch "Whoa a raison. Tout son poids sera sur cette jambe avant. Il va pratiquement se frapper lui-même avec ton poing !"
+    ch "Whoa t'as raison. Tout son poids sera sur cette jambe avant. Il va pratiquement se frapper lui-même avec ton poing !"
 
 # game/v9/scene26.rpy:423
 translate francais v9_fri_training_w_wolves_af19c022:
@@ -490,7 +490,7 @@ translate francais v9_fri_training_w_wolves_b0bdd914:
 translate francais v9_fri_training_w_wolves_499c71d6:
 
     # ch "I know you're probably replaying what happened over and over, but we're gonna get you out of your head."
-    ch "Je sais que tu es probablement en train de te repasser en boucle ce qui s'est passé, mais on va te la faire sortir de la tête."
+    ch "Je sais que tu es probablement en train de te repasser en boucle ce qui s'est passé, mais on va te faire sortir ça de la tête."
 
 # game/v9/scene26.rpy:439
 translate francais v9_fri_training_w_wolves_9081414b:
@@ -526,7 +526,7 @@ translate francais v9_fri_training_w_wolves_10337516:
 translate francais v9_fri_training_w_wolves_0eaf7936:
 
     # u "I'm not much of a fighter if I can't defend myself against one random asshole."
-    u "Je ne suis pas un grand combattant si je ne peux pas me défendre contre un trou du cul au hasard."
+    u "Je ne suis pas un grand combattant si je ne peux pas me défendre contre un trou du cul."
 
 # game/v9/scene26.rpy:473
 translate francais v9_fri_training_w_wolves_fbd2b4ee:
@@ -610,7 +610,7 @@ translate francais v9_fri_training_w_wolves_6584add7:
 translate francais v9_fri_training_w_wolves_d804aca5:
 
     # ch "So we use that to our advantage."
-    ch "Nous utilisons donc cela à notre avantage."
+    ch "Nous utiliserons donc ça, à notre avantage."
 
 # game/v9/scene26.rpy:544
 translate francais v9_fri_training_w_wolves_bada9b78:
@@ -622,13 +622,13 @@ translate francais v9_fri_training_w_wolves_bada9b78:
 translate francais v9_fri_training_w_wolves_50489e91:
 
     # ch "You're only as big as your last match, and that one didn't go your way."
-    ch "Tu es seulement aussi grand que ton dernier match, mais celui-ci ne s'est pas déroulé comme tu le voulais."
+    ch "Tu es seulement aussi courageux que lors de ton dernier combat, même si celui-ci ne s'est pas déroulé comme tu le souhaitais."
 
 # game/v9/scene26.rpy:551
 translate francais v9_fri_training_w_wolves_950245ac:
 
     # ch "But THIS is your trick up your sleeve."
-    ch "Mais C'EST le tour que tu as dans ta manche."
+    ch "Et C'EST le tour que tu as dans ta manche."
 
 # game/v9/scene26.rpy:556
 translate francais v9_fri_training_w_wolves_3063c3de:
@@ -670,13 +670,13 @@ translate francais v9_fri_training_w_wolves_488b3eed:
 translate francais v9_fri_training_w_wolves_834c71d3:
 
     # ch "Good. Good. Keep going. Timing is everything. I want you to hear the bell ring and BAM! Bloody knuckles!"
-    ch "Bien. Bien. Continuez. Le timing est tout. Je veux que vous entendiez la cloche sonner et BAM ! Poignets en sang !"
+    ch "Bien. Bien. Continues. Tout est dans le timing. Je veux que dès que tu entends la cloche sonner, BAM ! Poignets en sang !"
 
 # game/v9/scene26.rpy:591
 translate francais v9_fri_training_w_wolves_8eb2c196:
 
     # ch "Awesome. I'm gonna check on the other guys. You keep at it."
-    ch "Génial. Je vais aller voir les autres gars. Tu continues."
+    ch "Génial. Je vais aller voir les autres. Continues comme ça."
 
 # game/v9/scene26.rpy:596
 translate francais v9_fri_training_w_wolves_a53dee0b:
@@ -688,7 +688,7 @@ translate francais v9_fri_training_w_wolves_a53dee0b:
 translate francais v9_fri_training_w_wolves_5dc7d6a1:
 
     # ch "I gotta say I'm impressed. You all did way better than I expected tonight. You've got that fighting Wolf pack spirit in you!"
-    ch "Je dois dire que je suis impressionné. Vous avez tous fait bien mieux que ce à quoi je m'attendais ce soir. Vous avez cet esprit de combat Wolf pack en vous !"
+    ch "Je dois dire que je suis impressionné. Vous avez tous fait bien mieux que ce à quoi je m'attendais ce soir. Vous avez cet esprit de combat, le \"Wolf pack\" en vous !"
 
 # game/v9/scene26.rpy:608
 translate francais v9_fri_training_w_wolves_927bec36:
@@ -706,31 +706,31 @@ translate francais v9_fri_training_w_wolves_558cba25:
 translate francais v9_fri_training_w_wolves_2c42446b:
 
     # u "(Please don't say no girls.)"
-    u "(S'il te plaît, ne dis pas \"non aux filles\".)"
+    u "(S'il te plaît, ne dis pas \"pas de meufs\".)"
 
 # game/v9/scene26.rpy:620
 translate francais v9_fri_training_w_wolves_a66440a5:
 
     # ch "Don't worry. I'm not gonna say 'no women.'"
-    ch "Ne vous inquiétez pas. Je ne vais pas dire \"pas de femmes\"."
+    ch "Ne vous inquiétez pas. Je ne vais pas dire \"pas de meufs\"."
 
 # game/v9/scene26.rpy:622
 translate francais v9_fri_training_w_wolves_515b7bf9:
 
     # ch "Let's consider all forms of... stress relief... as rest, shall we?"
-    ch "Considérons toutes les formes de... déstressage... comme du repos, d'accord ?"
+    ch "Considérons toutes les formes de... soulagement du stress... comme du repos, d'accord ?"
 
 # game/v9/scene26.rpy:627
 translate francais v9_fri_training_w_wolves_477c4e8a:
 
     # imre "We shall!"
-    imre "Nous allons le faire !"
+    imre "On va le faire !"
 
 # game/v9/scene26.rpy:632
 translate francais v9_fri_training_w_wolves_96d2fdcf:
 
     # ch "Alright, let's get out of here."
-    ch "Très bien, partons d'ici."
+    ch "Très bien, sortons d'ici."
 
 translate francais strings:
 
@@ -752,11 +752,11 @@ translate francais strings:
 
     # game/v9/scene26.rpy:358
     old "Run"
-    new "Cours"
+    new "Fuir"
 
     # game/v9/scene26.rpy:441
     old "Act cool"
-    new "Sois cool"
+    new "Reste cool"
 
     # game/v9/scene26.rpy:441
     old "Ask for help"
@@ -768,4 +768,4 @@ translate francais strings:
 translate francais v9_fri_training_w_wolves_0ff05f61:
 
     # ch "Don't worry. I'm not gonna say \"no women\"."
-    ch "Ne vous inquiétez pas. Je ne vais pas dire \"pas de femmes\"."
+    ch "Ne vous inquiétez pas. Je ne vais pas dire \"pas de meufs\"."

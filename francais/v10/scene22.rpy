@@ -856,7 +856,7 @@ translate francais v10_cafe_w_jenny_767da9af:
 translate francais v10_cafe_w_jenny_ab46d968:
 
     # u "I'm not too sure how the whole thing works, but Jenny you might be useful as a character witness. You know Penelope better than most people."
-    u "Je ne suis pas trop sûr de comment tout cela fonctionne, mais Jenny tu pourrais être utile comme témoin de caractère. Tu connais Penelope mieux que la plupart d'entre nous."
+    u "Je ne suis pas trop sûr de comment tout cela fonctionne, mais Jenny tu pourrais être utile comme témoin de caractère. Tu connais Pénélope mieux que la plupart d'entre nous."
 
 # game/v10/scene22.rpy:680
 translate francais v10_cafe_w_jenny_f38bad68_1:
@@ -1024,7 +1024,7 @@ translate francais v10_cafe_w_jenny_baf86865:
 translate francais v10_cafe_w_jenny_7d03d712:
 
     # u "Well, Penelope told me a while ago that a friend of hers had some trouble and she wanted to do whatever she could to help her out."
-    u "Eh bien, Penelope m'a dit il y a un moment qu'une de ses amies avait des problèmes et qu'elle voulait faire tout ce qu'elle pouvait pour l'aider."
+    u "Eh bien, Pénélope m'a dit il y a un moment qu'une de ses amies avait des problèmes et qu'elle voulait faire tout ce qu'elle pouvait pour l'aider."
 
 # game/v10/scene22.rpy:154
 translate francais v10_cafe_w_jenny_57feefbe:
@@ -1042,7 +1042,7 @@ translate francais v10_cafe_w_jenny_2dc57061:
 translate francais v10_cafe_w_jenny_7399db26:
 
     # u "I'm not too sure how the whole thing works, but if it's anything like the hearings on TV. You might be useful as a character witness. You know Penelope better than most people."
-    u "Je ne sais pas trop comment ça marche, mais si c'est comme les audiences à la télé. Tu pourrais être utile comme témoin de moralité. Tu connais Penelope mieux que la plupart d'entre nous."
+    u "Je ne sais pas trop comment ça marche, mais si c'est comme les audiences à la télé. Tu pourrais être utile comme témoin de moralité. Tu connais Pénélope mieux que la plupart d'entre nous."
 
 # game/v10/scene22.rpy:467
 translate francais v10_cafe_w_jenny_4cd836c0:
@@ -1072,7 +1072,7 @@ translate francais v10_cafe_w_jenny_d755d7f0:
 translate francais v10_cafe_w_jenny_c3d54079:
 
     # u "I'm not too sure how the whole thing works. But Jenny, you might be useful as a character witness. You know Penelope better than most people."
-    u "Je ne sais pas trop comment ça marche. Mais Jenny, tu pourrais être utile comme témoin de moralité. Tu connais Penelope mieux que la plupart d'entre nous."
+    u "Je ne sais pas trop comment ça marche. Mais Jenny, tu pourrais être utile comme témoin de moralité. Tu connais Pénélope mieux que la plupart d'entre nous."
 
 # game/v10/scene22.rpy:698
 translate francais v10_cafe_w_jenny_c3a26038:

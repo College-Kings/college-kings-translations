@@ -196,7 +196,7 @@ translate francais v9_thur_room_w_seb_cont1_6cf183ae:
 translate francais v9_thur_room_w_seb_cont1_afe80349:
 
     # guyc "I'll let that slide, Mr. Showoff."
-    guyc "Je vais laisser passer ça, Mr Frimeur."
+    guyc "Je vais laisser passer ça, Mr Le Frimeur."
 
 # game/v9/scene14.rpy:215
 translate francais v9_thur_room_w_seb_cont1_5a41a27b:
