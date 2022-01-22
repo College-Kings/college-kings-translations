@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-06-05 20:30
+﻿# : Translation updated at 2021-11-20 01:35
 # WTF Copy of previous ??? Dupplication of code ??? Can't you use enums to index sentences in a table ?
 # C like code :
 # char* vSentencesTable[][] = {{ "Sentence0", "Sentence1", "Sentence2" }, { "Phrase0", "Phrase1", "Phrase2" }/*, {...}*/;};
@@ -13,7 +13,7 @@
 translate francais v2start_1bba6b51:
 
     # cl "*Muffled* Why did you do that?! We were just talking!"
-    cl "*Etouffé* Pourquoi as-tu fait ça ?! On faisais que parler !"
+    cl "*Etouffé* Pourquoi as-tu fait ça ?! On faisait que parler !"
 
 # game/v2/v2.rpy:89
 translate francais v2start_c3b1a1ef:
@@ -25,7 +25,7 @@ translate francais v2start_c3b1a1ef:
 translate francais v2start_cb54d010:
 
     # imre "Hey man, did you have a good night?"
-    imre "Hé mec, tu as passé une bonne nuit ?"
+    imre "Hé mec, t'as passé une bonne nuit ?"
 
 # game/v2/v2.rpy:104
 translate francais v2start_20bec76e:
@@ -37,19 +37,19 @@ translate francais v2start_20bec76e:
 translate francais v2start_b94dac9c:
 
     # imre "Some Ryan guy dropped you off, after you got yourself beaten up."
-    imre "Un gars de Ryan t'a déposé, après que tu t'es fait tabasser."
+    imre "Un gars nommé Ryan t'a déposé, après que tu te sois fait tabasser."
 
 # game/v2/v2.rpy:114
 translate francais v2start_7207f97e:
 
     # u "Shit... my head hurts so much."
-    u "Merde... j'ai tellement mal à la tête."
+    u "Merde... j'ai tellement mal au crâne."
 
 # game/v2/v2.rpy:119
 translate francais v2start_1c5c1a81:
 
     # imre "I mean, have you seen your face?"
-    imre "Je veux dire, tu as vu ta tête ?"
+    imre "Normal, tu as vu ta tête ?"
 
 # game/v2/v2.rpy:121
 translate francais v2start_1adeb7b0:
@@ -67,7 +67,7 @@ translate francais v2start_9ea2f78c:
 translate francais v2start_272f5aa4:
 
     # u "Man, Grayson is such an asshole. I didn't even do anything."
-    u "Mec, Grayson est un sale trou du cul. Je n'ai rien pu faire, il m'a pris en traitre."
+    u "Mec, ce Grayson est un sale trou du cul. Je n'ai rien pu faire, il m'a pris en traitre."
 
 # game/v2/v2.rpy:135
 translate francais v2start_48095016:
@@ -91,7 +91,7 @@ translate francais v2start_327c6541:
 translate francais v2start_c08fe457:
 
     # imre "Just think about it, okay? I'll see you later."
-    imre "Juste, pense y, d'accord ? On se voit plus tard."
+    imre "Juste, penses - y, d'accord ? On se voit plus tard."
 
 # game/v2/v2.rpy:156
 translate francais v2start_f558cfe4:
@@ -109,13 +109,13 @@ translate francais v2start_e8ead580:
 translate francais v2start_1e49a1b9:
 
     # imre "If he sees you looking at him wrong from now on, you'll end up in the hospital."
-    imre "S'il voit que tu le regarde mal à partir de maintenant, tu finiras à l'hôpital."
+    imre "S'il voit que tu le regardes mal à partir de maintenant, tu finiras à l'hôpital."
 
 # game/v2/v2.rpy:171
 translate francais v2start_acb5bdce:
 
     # u "Look, I'll think about it. But don't get your hopes up."
-    u "Écoute, je vais y réfléchir. Mais n'attend rien de plus."
+    u "Écoute, je vais y réfléchir. Mais n'attends rien de plus."
 
 # game/v2/v2.rpy:175
 translate francais v2start_7098dbf0:
@@ -133,7 +133,7 @@ translate francais v2start_0b7c44c3:
 translate francais v2start_a27d90a3:
 
     # imre "You're being stupid, man. Whatever, suit yourself."
-    imre "T'est con, mec. Quoi qu'il en soit, fait comme tu le sent."
+    imre "T'es con, mec. Quoi qu'il en soit, fait comme tu le sens."
 
 # game/v2/v2.rpy:214
 translate francais bjj_bd_9ea2f78c:
@@ -175,7 +175,7 @@ translate francais walk1_5d38ae25:
 translate francais walk1_138f9c3b:
 
     # u "(Especially in front of Chloe, that's so humiliating.)"
-    u "(Surtout devant Chloe, c'est tellement humiliant.)"
+    u "(Surtout devant Chloé, c'est tellement humiliant.)"
 
 # game/v2/v2.rpy:248
 translate francais walk1_3263fe5c:
@@ -193,13 +193,13 @@ translate francais walk1_d91c9beb:
 translate francais walk1_ae5cc9c0:
 
     # u "(Just thinking about all this shit makes me so mad.)"
-    u "(Le simple fait de penser à toute cette merde me rend completement dingue.)"
+    u "(Le simple fait de penser à toute cette merde me rend complètement dingue.)"
 
 # game/v2/v2.rpy:257
 translate francais walk1_4b258b6b:
 
     # tom "Eyy, Mr. steal-your-girl got beaten up. *laughs*"
-    tom "Saluut, \"M. Je-vole-ta-copine\" s'est fait tabasser. *rires*"
+    tom "Saluuut, \"M. Je-vole-ta-copine-qui-s'est-fait-tabasser\". *rire*"
 
 # game/v2/v2.rpy:259
 translate francais walk1_50708946:
@@ -223,13 +223,13 @@ translate francais v1_tomShoutBack_a3367190:
 translate francais v1_tomShoutBack_d1389188:
 
     # tom "You heard me. You're a fucking bitch that tried to cockblock me."
-    tom "Tu m'a bien entendu. Tu es une putain de salope qui a essayé de me casser mon coup."
+    tom "Tu m'as bien entendu. Tu es une putain de salope qui a essayé de me casser mon coup."
 
 # game/v2/v2.rpy:297
 translate francais v1_tomShoutBack_d84467b5:
 
     # u "Dude, she wanted to talk to me. She was happy that you left. You bored her."
-    u "Mec, elle voulait me parler. Elle était contente que tu sois parti. Tu l'emerdais avec tes histoires de cailloux."
+    u "Mec, elle voulait me parler. Elle était contente que tu sois parti. Tu l'emmerdais avec tes histoires de cailloux."
 
 # game/v2/v2.rpy:306
 translate francais v1_tomShoutBack_8fff8082:
@@ -247,7 +247,7 @@ translate francais gb_9ea2f78c:
 translate francais tomtut1kick_4a328666:
 
     # tut "Great job! You've hit Tom and hurt him. He's now more likely to get tired, give up or even get knocked out."
-    tut "Bon travail! tu as frappé Tom et l'a blessé. Il est maintenant plus susceptible de se fatiguer, d'abandonner ou même d'être mis KO."
+    tut "Bon travail ! tu as frappé Tom et l'a blessé. Il est maintenant plus susceptible de se fatiguer, d'abandonner ou même d'être mis KO."
 
 # game/v2/v2.rpy:335
 translate francais tomtut1kick_100eaacc:
@@ -265,13 +265,13 @@ translate francais tomtut1kick_1e5dc8ea:
 translate francais tomtut1kick_d4a34b79:
 
     # tut "{b}Q{/b} lets you block your head from heavy attacks such as hooks, which come from a slight angle."
-    tut "{b}Q{/b} te permet de protéger ta tête contre les attaques lourdes telles que les crochets, qui viennent d'un léger angle."
+    tut "{b}Q{/b} te permet de protéger ta tête contre les attaques lourdes telles que les crochets, qui viennent d'un angle léger."
 
 # game/v2/v2.rpy:348
 translate francais tomtut1kick_663a9d66:
 
     # tut "In order to protect yourself from attacks flying straight at your face, such as jabs, press {b}W{/b}."
-    tut "Afin de te protéger des attaques qui te frappent directement au visage, telles que les dirrects, appuie sur {b}W{/b}."
+    tut "Afin de te protéger des attaques qui te frappent directement au visage, telles que les directs, appuie sur {b}W{/b}."
 
 # game/v2/v2.rpy:350
 translate francais tomtut1kick_d9713580:
@@ -283,7 +283,7 @@ translate francais tomtut1kick_d9713580:
 translate francais tomtut1kick_88ee0afc:
 
     # tut "As of right now, there's a hook flying at your head, press {b}Q{/b} in the upcoming screen in order to block it."
-    tut "Pour le moment, il y a un crochet qui vole à vers ta tête, appuie sur {b}Q{/b} dans l'écran à venir afin de le bloquer."
+    tut "Pour le moment, il y a un crochet qui vole vers ta tête, appuie sur {b}Q{/b} dans l'écran à venir afin de le bloquer."
 
 # game/v2/v2.rpy:365
 translate francais tomtut1hook_f76b89d4:
@@ -307,7 +307,7 @@ translate francais tomtut1hook_13b808cb:
 translate francais tomtut1hook_d4a34b79:
 
     # tut "{b}Q{/b} lets you block your head from heavy attacks such as hooks, which come from a slight angle."
-    tut "{b}Q{/b} te permet de protéger ta tête contre les attaques lourdes telles que les crochets, qui viennent d'un léger angle."
+    tut "{b}Q{/b} te permet de protéger ta tête contre les attaques lourdes telles que les crochets, qui viennent d'un angle léger."
 
 # game/v2/v2.rpy:380
 translate francais tomtut1hook_663a9d66:
@@ -325,7 +325,7 @@ translate francais tomtut1hook_d9713580:
 translate francais tomtut1hook_edc85e50:
 
     # tut "As of right now, there's a jab flying at your face, press {b}W{/b} in the upcoming screen in order to block it."
-    tut "Pour le moment, un dirrect t'arrive droit au visage, appuie sur {b}W{/b} dans l'écran à venir afin de le bloquer."
+    tut "Pour le moment, un direct t'arrive droit au visage, appuie sur {b}W{/b} dans l'écran à venir afin de le bloquer."
 
 # game/v2/v2.rpy:397
 translate francais tomtut1jab_f76b89d4:
@@ -355,13 +355,13 @@ translate francais tomtut1jab_1e5dc8ea:
 translate francais tomtut1jab_d4a34b79:
 
     # tut "{b}Q{/b} lets you block your head from heavy attacks such as hooks, which come from a slight angle."
-    tut "{b}Q{/b} Te permet de proteger ta tête contre les attaques lourdes telles que les crochets, qui viennent d'un léger angle."
+    tut "{b}Q{/b} Te permet de proteger ta tête contre les attaques lourdes telles que les crochets, qui viennent d'un angle léger."
 
 # game/v2/v2.rpy:415
 translate francais tomtut1jab_663a9d66:
 
     # tut "In order to protect yourself from attacks flying straight at your face, such as jabs, press {b}W{/b}."
-    tut "Afin de te protéger des attaques qui te frappent directement au visage, telles que les dirrects, appuie sur {b}W{/b}."
+    tut "Afin de te protéger des attaques qui te frappent directement au visage, telles que les directs, appuie sur {b}W{/b}."
 
 # game/v2/v2.rpy:417
 translate francais tomtut1jab_d9713580:
@@ -373,7 +373,7 @@ translate francais tomtut1jab_d9713580:
 translate francais tomtut1jab_edc85e50:
 
     # tut "As of right now, there's a jab flying at your face, press {b}W{/b} in the upcoming screen in order to block it."
-    tut "Pour le moment, il y a un dirrect qui t'arrive droit au visage, appuie sur {b}W{/b} dans l'écran à venir afin de le bloquer."
+    tut "Pour le moment, il y a un direct qui t'arrive droit au visage, appuie sur {b}W{/b} dans l'écran à venir afin de le bloquer."
 
 # game/v2/v2.rpy:430
 translate francais tuthookblock_5883b2bf:
@@ -391,13 +391,13 @@ translate francais tuthookblock_cd62240e:
 translate francais tuthookhit_5d47b961:
 
     # tut "You did not block your head by pressing {b}Q{/b} and got hit. Next time, try to block the correct part of your body."
-    tut "Tu n'as pas protégé ta tête en appuyant sur {b}Q{/b} et vous avez été touché. La prochaine fois, essayez de bloquer la bonne partie de votre corps."
+    tut "Tu n'as pas protégé ta tête en appuyant sur {b}Q{/b} et tu as été touché. La prochaine fois, essaie de bloquer la bonne partie de ton corps."
 
 # game/v2/v2.rpy:448
 translate francais tuthookhit_cd62240e:
 
     # tut "This ends the tutorial. The real fight will test your reaction times."
-    tut "Ceci termine le tutoriel. Le vrai combat testera vos temps de réaction."
+    tut "Ceci termine le tutoriel. Le vrai combat testera ton temps de réaction."
 
 # game/v2/v2.rpy:1056
 translate francais tomfinish6_9ea2f78c:
@@ -433,7 +433,7 @@ translate francais v1_tomWalkAway_2b65b4ac:
 translate francais v1_tomWalkAway_3782e809:
 
     # u "(Also, what am I gonna do about Lauren? I can't avoid her forever.)"
-    u "(De plus, que vais-je faire pour Lauren ? Je ne peux pas l'éviter indéfiniment.)"
+    u "(En plus, que vais-je faire pour Lauren ? Je ne peux pas l'éviter indéfiniment.)"
 
 # game/v2/v2.rpy:1116
 translate francais meet_lauren2_44158285:
@@ -445,7 +445,7 @@ translate francais meet_lauren2_44158285:
 translate francais meet_lauren2_d4b73dc2:
 
     # u "(Hopefully Lauren doesn't make a big deal out of my bruises.)"
-    u "(J'espère que Lauren ne fera pas grand cas de mes bleus.)"
+    u "(J'espère que Lauren ne fera pas toute une affaire de mes bleus.)"
 
 # game/v2/v2.rpy:1123
 translate francais meet_lauren2_39872a73:
@@ -457,7 +457,7 @@ translate francais meet_lauren2_39872a73:
 translate francais meet_lauren2_d4b73dc2_1:
 
     # u "(Hopefully Lauren doesn't make a big deal out of my bruises.)"
-    u "(J'espère que Lauren ne fera pas grand cas de mes bleus.)"
+    u "(J'espère que Lauren ne fera pas toute une affaire de mes bleus.)"
 
 # game/v2/v2.rpy:1130
 translate francais meet_lauren2_2b65b4ac:
@@ -469,7 +469,7 @@ translate francais meet_lauren2_2b65b4ac:
 translate francais meet_lauren2_d4b73dc2_2:
 
     # u "(Hopefully Lauren doesn't make a big deal out of my bruises.)"
-    u "(J'espère que Lauren ne fera pas grand cas de mes bleus.)"
+    u "(J'espère que Lauren ne fera pas toute une affaire de mes bleus.)"
 
 # game/v2/v2.rpy:1137
 translate francais meet_lauren2_e6b1bdd2:
@@ -481,13 +481,13 @@ translate francais meet_lauren2_e6b1bdd2:
 translate francais meet_lauren2_379acf5e:
 
     # la "Oh my god! What happened to your face?!"
-    la "Oh mon Dieu ! Qu'est ce qui est arrivé à ton visage ?!"
+    la "Oh mon dieu ! Qu'est ce qui est arrivé à ton visage ?!"
 
 # game/v2/v2.rpy:1147
 translate francais meet_lauren2_df593ecf:
 
     # u "Some asshole punched me in the face at the Apes' rush party last night."
-    u "Un trou du cul m'a frappé au visage à la fête des nouveaux des Apes hier soir."
+    u "Un trou du cul m'a frappé au visage à la fête des nouveaux chez les Apes hier soir."
 
 # game/v2/v2.rpy:1150
 translate francais meet_lauren2_e214d6bc:
@@ -523,7 +523,7 @@ translate francais meet_lauren2_688b87bc:
 translate francais meet_lauren2_3448fcd8:
 
     # la "About yesterday in the park..."
-    la "A propos de hier dans le park..."
+    la "A propos de hier dans le parc..."
 
 # game/v2/v2.rpy:1184
 translate francais meet_lauren2_11273ae0:
@@ -547,7 +547,7 @@ translate francais meet_lauren2_5730065e:
 translate francais meet_lauren2_6db93694:
 
     # u "I don't know why you pulled away when I tried to kiss you..."
-    u "Je ne sais pas pourquoi tu t'es éloigné quand j'ai essayé de t'embrasser..."
+    u "Je ne sais pas pourquoi tu t'es éloignée quand j'ai essayé de t'embrasser..."
 
 # game/v2/v2.rpy:1196
 translate francais meet_lauren2_844ce18f:
@@ -613,7 +613,7 @@ translate francais meet_lauren2_d09702c4:
 translate francais meet_lauren2_2f27993f:
 
     # la "Alright, see you tomorrow."
-    la "Bon, je te vois demain."
+    la "Ok, on se voit demain."
 
 # game/v2/v2.rpy:1254
 translate francais meet_lauren2_2b7cfd0c:
@@ -631,7 +631,7 @@ translate francais meet_lauren2_552d7a75:
 translate francais meet_lauren2_33db1fc8:
 
     # la "... but I think we're just better as friends."
-    la "... mais je pense que nous sommes juste meilleurs en tant qu'amis."
+    la "... mais je pense que nous sommes meilleurs en tant qu'amis."
 
 # game/v2/v2.rpy:1264
 translate francais meet_lauren2_616ab277:
@@ -649,25 +649,25 @@ translate francais meet_lauren2_577bd505:
 translate francais meet_lauren2_c73b9d6b:
 
     # la "[name], I'm sorry. I just don't think we're right for each other."
-    la "[name], je suis désolé. Je pense juste que nous ne sommes pas faits l'un pour l'autre."
+    la "[name], je suis désolée. Je pense juste que nous ne sommes pas faits l'un pour l'autre."
 
 # game/v2/v2.rpy:1280
 translate francais meet_lauren2_79a78785:
 
     # la "Look, I gotta go to class. I'm really sorry."
-    la "Écoute, je dois aller en classe. Je suis vraiment désolé."
+    la "Écoute, je dois aller en classe. Je suis vraiment désolée."
 
 # game/v2/v2.rpy:1285
 translate francais meet_lauren2_2b674013:
 
     # u "Okay..."
-    u "D'accord..."
+    u "Ok..."
 
 # game/v2/v2.rpy:1290
 translate francais meet_lauren2_beb44c26:
 
     # u "(Shit, I forgot I have class right now.)"
-    u "(Merde, j'ai oublié que j'ai cours en ce moment.)"
+    u "(Merde, j'ai oublié que j'ai cours très bientôt.)"
 
 # game/v2/v2.rpy:1292
 translate francais meet_lauren2_37371914:
@@ -721,7 +721,7 @@ translate francais meet_lauren2_849f7aad:
 translate francais meet_lauren2_37309bcc:
 
     # u "We just spent some nice time in the park together... as friends."
-    u "Nous avons passés du bon temps dans le parc ensemble... en tant qu'amis."
+    u "Nous avons passé du bon temps dans le parc ensemble... en tant qu'amis."
 
 # game/v2/v2.rpy:1337
 translate francais meet_lauren2_9ea2f78c_1:
@@ -745,7 +745,7 @@ translate francais meet_lauren2_61cc3320:
 translate francais meet_lauren2_cc44b100:
 
     # u "I have class right now, but I'll see you later, okay?"
-    u "J'ai cours en ce moment, mais je te verrai plus tard, d'accord ?"
+    u "J'ai cours là, mais je te verrai plus tard, d'accord ?"
 
 # game/v2/v2.rpy:1354
 translate francais meet_lauren2_f3ad4c25:
@@ -775,7 +775,7 @@ translate francais history2_4329feeb:
 translate francais history2_3ebb916e:
 
     # u "Imre, I just beat someone up."
-    u "Imre, je viens de battre quelqu'un."
+    u "Imre, je viens de me battre avec quelqu'un."
 
 # game/v2/v2.rpy:1399
 translate francais history2_090822b7:
@@ -799,43 +799,43 @@ translate francais history2_3fb49481:
 translate francais history2_84b92164:
 
     # u "I don't know, he walked by me on my way to meet with Lauren and just started to insult me."
-    u "Je ne sais pas, il est passé à côté de moi sur quand j'allais voir Lauren et a juste commencé à m'insulter."
+    u "Je ne sais pas, il est passé à côté de moi quand j'allais voir Lauren et il a commencé à m'insulter."
 
 # game/v2/v2.rpy:1419
 translate francais history2_a0e2f480:
 
     # u "I don't know, he walked by me on my walk and just started to insult me."
-    u "Je ne sais pas, il est passé à côté de moi sur quand j'allais voir Lauren et a juste commencé à m'insulter."
+    u "Je ne sais pas, il est passé à côté de moi pendant que je me baladais et il a commencé à m'insulter."
 
 # game/v2/v2.rpy:1423
 translate francais history2_4a842a59:
 
     # imre "So you just knocked him out?!"
-    imre "Alors tu l'a juste assommé ?!"
+    imre "Alors tu lui as cassé la gueule ?!"
 
 # game/v2/v2.rpy:1428
 translate francais history2_49d2f115:
 
     # u "I mean no, I just confronted him about it, he pushed me and next thing I know, we're fighting."
-    u "Je veux dire non, je l'ai juste interpelé à ce sujet, il m'a poussé et la derniere chose que je me rappelle, c'est que nous nous battions."
+    u "Non, je lui ai répondu, il m'a poussé et la derniere chose dont je me rappelle, c'est que nous nous battions."
 
 # game/v2/v2.rpy:1430
 translate francais history2_2782062a:
 
     # u "And then I just landed a couple good punches and suddenly he was laying on the floor bleeding."
-    u "Et puis j'ai juste décroché quelques bons coups de poing et tout à coup, il était allongé sur le sol en sang."
+    u "Et puis j'ai juste décroché quelques bons coups et tout à coup, il était allongé sur le sol en sang."
 
 # game/v2/v2.rpy:1435
 translate francais history2_6db697b3:
 
     # imre "Holy shit, you're a natural, dude."
-    imre "Putain de merde, tu es un vrai mec, mon gars."
+    imre "Putain de merde, t'es un vrai boss, mon pote !"
 
 # game/v2/v2.rpy:1440
 translate francais history2_04dfb653:
 
     # imre "Train with me. Just once. Just to see if you like it. Please."
-    imre "Entraîne-toi avec moi. Juste une fois. Juste pour voir si tu aime ça. S'il te plaît."
+    imre "Entraîne-toi avec moi. Juste une fois. Juste pour voir si t'aimes ça. S'te plaît."
 
 # game/v2/v2.rpy:1445
 translate francais history2_221d8633:
@@ -853,37 +853,37 @@ translate francais history2_481db6df:
 translate francais history2_9461de7c:
 
     # imre "Was it another ape??? Tell me who, I'll fuck them up!"
-    imre "Était-ce un autre des Apes ??? Dis-moi qui, je vais les défoncer !"
+    imre "C'était un autre Apes ??? Dis-moi qui, je vais les défoncer !"
 
 # game/v2/v2.rpy:1461
 translate francais history2_0b224f7b:
 
     # u "Thanks.... and I don't know if he was an Ape, but he was also at the party and he started insulting me on my way to meet with Lauren."
-    u "Merci... et je ne sais pas s'il était un des Apes, mais il était aussi à la fête et il a commencé à m'insulter quand j'allait voir Lauren."
+    u "Merci... et je ne sais pas s'il est un Ape, mais il était aussi à la fête et il a commencé à m'insulter quand j'allais voir Lauren."
 
 # game/v2/v2.rpy:1465
 translate francais history2_a1446831:
 
     # u "Thanks... and I don't know if he was an Ape, but he was also at the party and he started insulting me on my walk."
-    u "Merci... et je ne sais pas s'il était un des Apes, mais il était aussi à la fête et il a commencé à m'insulter sur la route."
+    u "Merci... et je ne sais pas s'il est un Ape, mais il était aussi à la fête et il a commencé à m'insulter quand je marchais sur le trottoir."
 
 # game/v2/v2.rpy:1469
 translate francais history2_41b06290:
 
     # imre "What did you do?"
-    imre "Qu'est-ce que tu as fait ?"
+    imre "Qu'est-ce que t'as fait ?"
 
 # game/v2/v2.rpy:1474
 translate francais history2_4a3906a5:
 
     # u "I confronted him, then he pushed me and then we started fighting."
-    u "Je l'ai confronté, puis il m'a poussé et puis nous avons commencé à nous battre."
+    u "Je lui ai répondu, puis il m'a poussé et puis nous avons commencé à nous battre."
 
 # game/v2/v2.rpy:1479
 translate francais history2_a9ab2f05:
 
     # u "And then he just landed a couple good punches and suddenly I was laying on the floor bleeding."
-    u "Et puis il a juste décoché quelques bons coups de poing et tout à coup j'étais allongé sur le sol en sang."
+    u "Et puis il a juste décoché quelques bons coups et tout à coup j'étais allongé sur le sol en sang."
 
 # game/v2/v2.rpy:1483
 translate francais history2_87177349:
@@ -895,13 +895,13 @@ translate francais history2_87177349:
 translate francais history2_67fdbb98:
 
     # u "Honestly, maybe you're right and I do need to learn to defend myself."
-    u "Honnêtement, tu as peut-être raison et j'ai besoin d'apprendre à me défendre."
+    u "Franchement, tu as peut-être raison et j'ai besoin d'apprendre à me défendre."
 
 # game/v2/v2.rpy:1493
 translate francais history2_35f3617a:
 
     # imre "Look, I'm gonna train tomorrow. Why don't you train with me?"
-    imre "Écoute, je vais m'entraîner demain. Pourquoi ne t'entraînes-tu pas avec moi ?"
+    imre "Écoute, je vais m'entraîner demain. Pourquoi ne tu viens pas t'entraîner avec moi ?"
 
 # game/v2/v2.rpy:1498
 translate francais history2_f51c0fc6:
@@ -913,61 +913,61 @@ translate francais history2_f51c0fc6:
 translate francais history2_bb82ae35:
 
     # u "Imre, another guy tried to fight me today."
-    u "Imre, un autre gars a essayé de me combattre aujourd'hui."
+    u "Imre, un autre gars a essayé de me frapper aujourd'hui."
 
 # game/v2/v2.rpy:1509
 translate francais history2_1edee191:
 
     # imre "Oh shit, what happened? Another Ape?"
-    imre "Oh merde, qu'est-ce qui s'est passé ? Un autre des Apes ?"
+    imre "Oh merde, qu'est-ce qui s'est passé ? Un autre Ape ?"
 
 # game/v2/v2.rpy:1514
 translate francais history2_7e658a18:
 
     # u "I don't know if he was an Ape, but he was also at the party and he started insulting me on my way to meet with Lauren."
-    u "Je ne sais pas s'il était des Apes, mais il était aussi à la fête et il a commencé à m'insulter en allant rencontrer Lauren."
+    u "Je ne sais pas s'il est un Ape, mais il était aussi à la fête et il a commencé à m'insulter quand j'allais voir Lauren."
 
 # game/v2/v2.rpy:1519
 translate francais history2_ae668939:
 
     # u "I don't know if he was an Ape, but he was also at the party and he started insulting me on my walk."
-    u "Je ne sais pas si c'était un des Apes, mais il était aussi à la fête et il a commencé à m'insulter sur ma route."
+    u "Je ne sais pas s'il est un Ape, mais il était aussi à la fête et il a commencé à m'insulter sur le trottoir."
 
 # game/v2/v2.rpy:1523
 translate francais history2_41b06290_1:
 
     # imre "What did you do?"
-    imre "Qu'est-ce que tu as fait?"
+    imre "Qu'est-ce que t'as fait ?"
 
 # game/v2/v2.rpy:1527
 translate francais history2_5bbb8bca:
 
     # u "Well I didn't wanna get beaten up again, so I just walked away."
-    u "Well I didn't wanna get beaten up again, so I just walked away."
+    u "Je ne voulais pas me faire frapper à nouveau, alors je suis parti."
 
 # game/v2/v2.rpy:1532
 translate francais history2_240a40fe:
 
     # imre "Dude, if you keep this up, you're gonna get treated like crap."
-    imre "Eh bien, je ne voulais pas me faire tabasser à nouveau, alors je suis juste parti."
+    imre "Putain, si tu continues comme ça, tu vas être traité comme de la merde."
 
 # game/v2/v2.rpy:1534
 translate francais history2_35f3617a_1:
 
     # imre "Look, I'm gonna train tomorrow. Why don't you train with me?"
-    imre "Écoute, je vais m'entraîner demain. Pourquoi ne t'entraînes-tu pas avec moi ?"
+    imre "Écoute, je vais m'entraîner demain. Pourquoi ne tu viens pas t'entraîner avec moi ?"
 
 # game/v2/v2.rpy:1539
 translate francais history2_67dc0c9c:
 
     # u "Okay... I guess I'll try it."
-    u "D'accord... Je pense que je vais essayer."
+    u "D'accord... Je pense que... je vais essayer."
 
 # game/v2/v2.rpy:1545
 translate francais nextsceneo_e025761d:
 
     # lee "Welcome to History 101, I'm Mr. Lee."
-    lee "Bienvenue dans la classe d'Histoire 101, je suis M. Lee."
+    lee "Bienvenue dans la classe d'Histoire 101, je suis Mr Lee."
 
 # game/v2/v2.rpy:1547
 translate francais nextsceneo_58eff7c4:
@@ -979,13 +979,13 @@ translate francais nextsceneo_58eff7c4:
 translate francais nextsceneo_aaf1e329:
 
     # lee "Even though it is unfathomable to me how you could actively try to avoid the most exciting subject in the world..."
-    lee "Même s'il m'est incompréhensible comment vous pourriez essayer activement d'éviter le sujet le plus passionnant du monde..."
+    lee "Même si je ne comprends pas comment vous pouvez essayer d'éviter le sujet le plus excitant du monde..."
 
 # game/v2/v2.rpy:1553
 translate francais nextsceneo_cba6747b:
 
     # lee "I guess there is something to be said about saving the best for last."
-    lee "Je suppose qu'il y a quelque chose à dire sur le fait de garder le meilleur pour la fin."
+    lee "Après tout, autant garder le meilleur pour la fin."
 
 # game/v2/v2.rpy:1558
 translate francais nextsceneo_d818341c:
@@ -1015,31 +1015,31 @@ translate francais nextsceneo_cc2072c5:
 translate francais nextsceneo_afc5bc9d:
 
     # imre "*Whispers* What is he talking about??"
-    imre "*chuchote* De quoi parle-t-il ??"
+    imre "*chuchote* De quoi il parle ??"
 
 # game/v2/v2.rpy:1580
 translate francais nextsceneo_9c2212ed:
 
     # u "*Whispers* I don't know."
-    u "*chuchote* je ne sais pas."
+    u "*chuchote* je sais pas."
 
 # game/v2/v2.rpy:1585
 translate francais nextsceneo_6d78d111:
 
     # lee "Over the course of this year, you're not just going to learn about history."
-    lee "Au cours de cette année, vous n'allez pas seulement en apprendre davantage sur l'histoire."
+    lee "Au cours de cette année, vous n'allez pas seulement en apprendre d'avantage sur l'histoire."
 
 # game/v2/v2.rpy:1587
 translate francais nextsceneo_c503f017:
 
     # lee "You're going to live history, immerse yourself within it and understand what life was truly like in the past."
-    lee "Vous allez vivre l'histoire, vous y immerger et comprendre à quoi ressemblait vraiment la vie dans le passé."
+    lee "Vous allez VIVRE l'histoire, vous y immerger et comprendre à quoi ressemblait vraiment la vie autrefois."
 
 # game/v2/v2.rpy:1592
 translate francais nextsceneo_e22c93f3:
 
     # ca "Yo teach, we get that you love the past, but don't you think the museum wants its shoes back?"
-    ca "Yo proffesseur, nous comprenons que vous aimez le passé, mais ne pensez-vous pas que le musée veut récupérer ses chaussures ?"
+    ca "Yo prof, on comprend que vous aimez le passé, mais le musée veut récupérer ses chaussures !"
 
 # game/v2/v2.rpy:1597
 translate francais nextsceneo_16ff9ca7:
@@ -1051,19 +1051,19 @@ translate francais nextsceneo_16ff9ca7:
 translate francais nextsceneo_62f46205:
 
     # lee "What's your name, young man?"
-    lee "Comment t'appelles-tu, jeune homme ?"
+    lee "Comment vous appellez-vous, jeune homme ?"
 
 # game/v2/v2.rpy:1607
 translate francais nextsceneo_95d19fd6:
 
     # ca "It's Cameron, teach."
-    ca "C'est Cameron, m'sieur."
+    ca "Cameron, m'sieur."
 
 # game/v2/v2.rpy:1612
 translate francais nextsceneo_f2ba7212:
 
     # lee "Mr. Cameron, if clothing is what gets you to pay attention in this class, then I suggest you dress up as a historical character for our next lesson."
-    lee "M. Cameron, si les vêtements vous attirent dans ce cours, alors je vous suggère de vous déguiser en personnage historique pour notre prochaine leçon."
+    lee "Mr Cameron, si les vêtements vous intéressent, alors je vous suggère de vous déguiser en personnage historique pour notre prochaine leçon."
 
 # game/v2/v2.rpy:1613
 translate francais nextsceneo_4b455ace:
@@ -1075,7 +1075,7 @@ translate francais nextsceneo_4b455ace:
 translate francais nextsceneo_53dd7c6c:
 
     # ca "Sure, but I'll steal the show."
-    ca "Bien sûr, mais je vous volerai la vedette."
+    ca "Sûr, mais j'vais vous voler la vedette."
 
 # game/v2/v2.rpy:1623
 translate francais nextsceneo_d9fba3f7:
@@ -1087,7 +1087,7 @@ translate francais nextsceneo_d9fba3f7:
 translate francais nextsceneo_6b696c54:
 
     # "*Class confused*"
-    "* Classe confuse *"
+    "*Classe confuse*"
 
 # game/v2/v2.rpy:1627
 translate francais nextsceneo_0cd07133:
@@ -1099,31 +1099,31 @@ translate francais nextsceneo_0cd07133:
 translate francais nextsceneo_99016d7b:
 
     # lee "You've got Mr. Cameron to thank for that."
-    lee "Vous pourrez remercier M. Cameron pour cela."
+    lee "Et vous pourrez remercier Mr Cameron pour ça."
 
 # game/v2/v2.rpy:1662
 translate francais nextsceneo_c79f1d1b:
 
     # imre "I can't believe he's making us come in costume."
-    imre "Je n'arrive pas à croire qu'il nous fasse venir déguisés."
+    imre "Putain, J'arrive pas à croire qu'il nous fasse venir déguisés."
 
 # game/v2/v2.rpy:1667
 translate francais nextsceneo_0c080a35:
 
     # u "Yeah, I don't even have anything I could wear. That's so annoying."
-    u "Ouais, je n'ai même rien que je puisse porter. C'est tellement ennuyeux."
+    u "Ouais, j'ai rien à me mettre, en plus. C'est chiant."
 
 # game/v2/v2.rpy:1669
 translate francais nextsceneo_f030f2ec:
 
     # u "Can we go to the mall later?"
-    u "Pouvons-nous aller au centre commercial plus tard?"
+    u "Tu veux aller au centre commercial plus tard?"
 
 # game/v2/v2.rpy:1674
 translate francais nextsceneo_414d72ea:
 
     # imre "Sorry man, I heard the girls' volleyball team is playing and I'm not gonna miss that."
-    imre "Désolé mec, j'ai entendu dire que l'équipe de volley-ball des filles jouait et je ne vais pas manquer ça."
+    imre "Désolé mec, j'ai entendu dire que l'équipe de volley des filles jouait et je ne vais pas manquer ça."
 
 # game/v2/v2.rpy:1679
 translate francais nextsceneo_518e3ddb:
@@ -1135,7 +1135,7 @@ translate francais nextsceneo_518e3ddb:
 translate francais nextsceneo_9f78718a:
 
     # imre "Oh, I'm not."
-    imre "Oh, je n'aime pas."
+    imre "Oh, j'aime pas."
 
 # game/v2/v2.rpy:1689
 translate francais nextsceneo_bd395da8:
@@ -1159,19 +1159,19 @@ translate francais nextsceneo_b5efee6a:
 translate francais nextsceneo_b71da505:
 
     # u "Haha, you're impossible."
-    u "Haha, tu es impossible."
+    u "Haha, t'es pas croyable."
 
 # game/v2/v2.rpy:1706
 translate francais nextsceneo_e8b5efc6:
 
     # imre "I got another class now, I'll see you later."
-    imre "J'ai un autre cours maintenant, je te verrai plus tard."
+    imre "J'ai un autre cours maintenant, j'te verrai plus tard."
 
 # game/v2/v2.rpy:1711
 translate francais nextsceneo_ab5d9ca9:
 
     # u "(Great... I guess it was only a matter of time 'til I saw Emily.)"
-    u "(Super... Je suppose que ce n'était qu'une question de temps avant que je croise Emily.)"
+    u "(Super... J'imagine que c'était qu'une question de temps avant que je croise Emily.)"
 
 # game/v2/v2.rpy:1716
 translate francais nextsceneo_785e8da7:
@@ -1183,7 +1183,7 @@ translate francais nextsceneo_785e8da7:
 translate francais nextsceneo_a6ce608d:
 
     # em "Oh my god, what happened to you?"
-    em "Oh mon dieu, que t'est-il arrivé ?"
+    em "Oh merde, que t'est-il arrivé ?"
 
 # game/v2/v2.rpy:1726
 translate francais nextsceneo_31a4b2c1:
@@ -1219,19 +1219,19 @@ translate francais nextsceneo_28849dd3:
 translate francais nextsceneo_e5214ea4:
 
     # u "Secondly, the guy who punched me came out of nowhere, it wasn't a fair fight."
-    u "Secondo, le gars qui m'a frappé m'a attaqué par derrière, ce n'était pas un combat loyal."
+    u "Secondo, le gars qui m'a frappé, m'a attaqué par derrière. Ce n'était pas un combat loyal."
 
 # game/v2/v2.rpy:1754
 translate francais nextsceneo_6682385f:
 
     # u "I- I didn't get beaten up, okay? A guy just punched me out of nowhere, it wasn't a fair fight."
-    u "Je- je ne me suis pas fait tabasser, d'accord ? Un gars vient me frapper de nulle part, ce n'était pas un combat loyal."
+    u "Je- je ne me suis pas fait tabasser, d'accord ? Un gars m'a frappé par derrière. Ce n'était pas un combat loyal."
 
 # game/v2/v2.rpy:1759
 translate francais nextsceneo_eb29b934:
 
     # em "You know, your eye looks pretty swollen. You really need to get that checked out."
-    em "Tu sais, ton œil a l'air assez gonflé. Il faut vraiment que tu vérifies ça."
+    em "Tu sais, ton œil a l'air assez gonflé. Il faut vraiment que tu fasses vérifier ça."
 
 # game/v2/v2.rpy:1764
 translate francais nextsceneo_6fab6ecc:
@@ -1243,7 +1243,7 @@ translate francais nextsceneo_6fab6ecc:
 translate francais nextsceneo_38842db1:
 
     # em "I'll come with you if you want."
-    em "Je viendrai avec toi si tu veux."
+    em "Je viendrais avec toi si tu veux."
 
 # game/v2/v2.rpy:1774
 translate francais nextsceneo_0038c3f0:
@@ -1255,7 +1255,7 @@ translate francais nextsceneo_0038c3f0:
 translate francais nextsceneo_79913920:
 
     # no "Look, I'm sensing some weird energy between you two, so I'ma leave."
-    no "Écoute, je sens une étrange énergie entre vous deux, alors je m'en vais."
+    no "Écoutez, je sens une étrange énergie entre vous deux, alors je m'en vais."
 
 # game/v2/v2.rpy:1781
 translate francais nextsceneo_0fa411c5:
@@ -1267,7 +1267,7 @@ translate francais nextsceneo_0fa411c5:
 translate francais nextsceneo_377de940:
 
     # no "Bye weirdo."
-    no "Au revoir le bizarre."
+    no "Au revoir le... bizarre."
 
 # game/v2/v2.rpy:1791
 translate francais nextsceneo_d1f7d7f9:
@@ -1297,19 +1297,19 @@ translate francais nextsceneo_24ff09d8:
 translate francais nextsceneo_fd20340e:
 
     # em "[name], I know I fucked up. I'm really sorry, okay?"
-    em "[name], je sais que j'ai merdé. Je suis vraiment désolé, d'accord ?"
+    em "[name], je sais que j'ai merdé. Je suis vraiment désolée, d'accord ?"
 
 # game/v2/v2.rpy:1810
 translate francais nextsceneo_575b7098:
 
     # em "We hit a rough patch and I was drunk and..."
-    em "Nous avons traversé une période difficile et j'étais ivre et..."
+    em "Nous avons traversé une période difficile, j'étais ivre et..."
 
 # game/v2/v2.rpy:1812
 translate francais nextsceneo_a0ba8469:
 
     # em "I just miss us. Even if it's just as friends."
-    em "Tu me manque. Même si on doit juste rester amis."
+    em "Tu me manques. Même si on doit juste rester amis."
 
 # game/v2/v2.rpy:1814
 translate francais nextsceneo_8607b0a7:
@@ -1333,7 +1333,7 @@ translate francais nextsceneo_baed0d4e:
 translate francais nextsceneo_19d7ccb8:
 
     # u "I thought we're going to the doctor's office? Or are you gonna tell me that your concern was merely an attempt to hang out with me?"
-    u "Je pensais qu'on allait chez le docteur ? Ou vas-tu me dire que ton souci était simplement une tentative de sortir avec moi ?"
+    u "Je pensais qu'on irait chez le docteur ? Ou vas-tu me dire que ton souci était simplement une tentative pour sortir avec moi ?"
 
 # game/v2/v2.rpy:1839
 translate francais nextsceneo_03d5e79a:
@@ -1393,7 +1393,7 @@ translate francais bo_ad_821b0bf4:
 translate francais bo_ad_cc8c914a:
 
     # u "*Laughs* Emily, I'm kidding. I'm still single, I mean we only broke up a couple months ago."
-    u "*Rires* Emily, je plaisante. Je suis toujours célibataire, je veux dire que nous avons rompu il y a seulement quelques mois."
+    u "*Rire* Emily, je plaisante. Je suis toujours célibataire, je veux dire que nous avons rompu il y a seulement quelques mois."
 
 # game/v2/v2.rpy:1915
 translate francais bo_ad_0650d652:
@@ -1405,7 +1405,7 @@ translate francais bo_ad_0650d652:
 translate francais bo_ad_5bba2ef7:
 
     # u "Oh come on, don't act like you didn't miss this."
-    u "Oh allez, ne fais pas comme si ça ne te manquai pas."
+    u "Oh allez, ne fais pas comme si ça ne te manquait pas."
 
 # game/v2/v2.rpy:1927
 translate francais bo_ad_120a757f:
@@ -1465,7 +1465,7 @@ translate francais bp_bd_fa12b88a:
 translate francais bp_bd_b6576c73:
 
     # u "It was sooo funny though."
-    u "C'était tellement drôle pourtant."
+    u "C'était tellement drôle aussi."
 
 # game/v2/v2.rpy:1995
 translate francais bp_bd_78255f88:
@@ -1483,7 +1483,7 @@ translate francais bp_bd_4fc8d054:
 translate francais bp_bd_8745972f:
 
     # u "Plus, it looks badass."
-    u "De plus, ça te donne l'air dur à cuire."
+    u "De plus, ça me donne l'air badass."
 
 # game/v2/v2.rpy:2009
 translate francais bp_bd_5c5b73f9:
@@ -1501,7 +1501,7 @@ translate francais bq_bd_b2bcac73:
 translate francais bq_bd_77d533cc:
 
     # u "Hey there, you accept walk-ins right?"
-    u "Salut, vous acceptez les gents sans rendez-vous non?"
+    u "Bonjour, vous acceptez les patients sans rendez-vous ?"
 
 # game/v2/v2.rpy:2031
 translate francais bq_bd_7e133080:
@@ -1513,7 +1513,7 @@ translate francais bq_bd_7e133080:
 translate francais bq_bd_eb6699a4:
 
     # ben "Yeah, sure thing. Fill out these forms and then take a seat in the waiting room and I'll let you know when Dr. Ehrmantraut can slot you in."
-    ben "Ouais, bien sûr. Remplissez ces formulaires, puis asseyez-vous dans la salle d'attente et je vous ferai savoir quand le Dr. Ehrmantraut pourra vous accueillir."
+    ben "Oui, bien sûr. Remplissez ces formulaires, puis asseyez-vous dans la salle d'attente et je vous ferai savoir quand le Dr Ehrmantraut pourra vous accueillir."
 
 # game/v2/v2.rpy:2041
 translate francais bq_bd_b822ede1:
@@ -1549,13 +1549,13 @@ translate francais bq_bd_6a1ac90c:
 translate francais bq_bd_56bfd909:
 
     # ben "But this is actually a really good job, you know."
-    ben "Mais c'est en fait un très bon travail, tu sais."
+    ben "Mais c'est un très bon travail, en fait, tu sais."
 
 # game/v2/v2.rpy:2065
 translate francais bq_bd_5c90378d:
 
     # ben "It pays well. And I get benefits. Dental benefits."
-    ben "Ça paie bien. Et je reçois des avantages. Prestations dentaires."
+    ben "Ça paie bien. Et j'ai des avantages. Prestations dentaires."
 
 # game/v2/v2.rpy:2067
 translate francais bq_bd_4e2c3912:
@@ -1567,7 +1567,7 @@ translate francais bq_bd_4e2c3912:
 translate francais bq_bd_77cd096f:
 
     # em "Well, I'm glad you found something you like."
-    em "Eh bien, je suis contente que tu ai trouvé quelque chose que tu aime."
+    em "Eh bien, je suis contente que tu aies trouvé quelque chose que tu aimes."
 
 # game/v2/v2.rpy:2077
 translate francais bq_bd_6239ec8d:
@@ -1585,13 +1585,13 @@ translate francais bq_bd_c5a76bd8:
 translate francais bq_bd_942ae5fc:
 
     # ben "So uhhh, are you hitting that, or can a bro make a move?"
-    ben "Alors euhhh, tu te la tape, ou un frère peut faire une avance ?"
+    ben "Alors euhhh, tu te la tapes, ou un frère peut faire une avance ?"
 
 # game/v2/v2.rpy:2094
 translate francais bq_bd_983a6c7c:
 
     # ben "You know, even if you are hitting that... I'm totally fine with like a dual type of arrangement."
-    ben "Tu sais, même si tu te la tape... Je suis tout à fait d'accord avec un arrangement à deux."
+    ben "Tu sais, même si tu te la tapes... Je suis tout à fait d'accord avec un arrangement à deux."
 
 # game/v2/v2.rpy:2099
 translate francais bq_bd_be666bc9:
@@ -1609,7 +1609,7 @@ translate francais bq_bd_0a03aa80:
 translate francais bq_bd_d2c46c7b:
 
     # u "Sure, knock yourself out, man. We're not an item."
-    u "Bien sûr, tape toi là, mec. Nous ne sommes pas ensemble."
+    u "Bien sûr, tu peux te la faire, mec. Nous ne sommes pas ensemble."
 
 # game/v2/v2.rpy:2123
 translate francais bq_bd_e5de44d4:
@@ -1621,13 +1621,13 @@ translate francais bq_bd_e5de44d4:
 translate francais bq_bd_7a9562a5:
 
     # u "Please don't..."
-    u "Non par pitiée... Ne pense pas à moi..."
+    u "Non par pitié... Ne pense pas à moi..."
 
 # game/v2/v2.rpy:2137
 translate francais bq_bd_1051b39e:
 
     # u "Just - just stay away from her, okay?"
-    u "Ne - Ne t'approche pas d'elle, d'accord ?"
+    u "Ne-Ne t'approche pas d'elle, d'accord ?"
 
 # game/v2/v2.rpy:2142
 translate francais bq_bd_3afbede2:
@@ -1657,7 +1657,7 @@ translate francais br_bd_a130a4a9:
 translate francais br_bd_2e2b8da5:
 
     # em "What did you say?"
-    em "Qu'est-ce que tu lui a dit?"
+    em "Qu'est-ce que tu lui as dit?"
 
 # game/v2/v2.rpy:2173
 translate francais br_bd_0b8e19de:
@@ -1669,13 +1669,13 @@ translate francais br_bd_0b8e19de:
 translate francais br_bd_ca4e838e:
 
     # u "You know, just to protect you from having to deal with a creep."
-    u "Tu sais, juste pour vous protéger d'avoir à faire face à un harcelleur."
+    u "Tu sais, juste pour te protéger de ne pas avoir à faire face à un harceleur."
 
 # game/v2/v2.rpy:2180
 translate francais br_bd_63edfa8d:
 
     # em "Oh, so you're \"protecting\" me now, huh?"
-    em "Oh, alors tu me \"protège\" maintenant, hein ?"
+    em "Oh, alors tu me \"protèges\" maintenant, hein ?"
 
 # game/v2/v2.rpy:2185
 translate francais br_bd_42156a9b:
@@ -1693,13 +1693,13 @@ translate francais br_bd_7f95afe6:
 translate francais br_bd_27459841:
 
     # u "I told him he should."
-    u "Je lui ai dit qu'il devrait."
+    u "Je lui ai dit qu'il pouvait."
 
 # game/v2/v2.rpy:2198
 translate francais br_bd_bc513adc:
 
     # u "I mean there's no way you'd go for him anyways."
-    u "Je veux dire qu'il n'y a aucune chance que tu ai un faible pour lui de toute façon."
+    u "Je veux dire qu'il n'y a aucune chance pour que tu aies un faible pour lui de toute façon."
 
 # game/v2/v2.rpy:2202
 translate francais br_bd_fb7ee5e1:
@@ -1723,7 +1723,7 @@ translate francais br_bd_82a93bfc:
 translate francais br_bd_67e44856:
 
     # u "Yeah, I did. I guess now we gotta wait."
-    u "Ouais, je l'ai fait. Je suppose que maintenant nous devons attendre."
+    u "Ouais, je l'ai fait. Je crois que maintenant nous devons attendre."
 
 # game/v2/v2.rpy:2219
 translate francais br_bd_7599e584:
@@ -1741,7 +1741,7 @@ translate francais br_bd_6140f90b:
 translate francais br_bd_7e05f0f5:
 
     # u "You know, as a guy."
-    u "Tu sais, en tant que gars."
+    u "Tu sais, en tant que mec."
 
 # game/v2/v2.rpy:2234
 translate francais br_bd_ee2db0a2:
@@ -1759,7 +1759,7 @@ translate francais br_bd_084ab882:
 translate francais br_bd_6fddef7b:
 
     # u "Just wondering."
-    u "Je me demandais juste."
+    u "Je me demandais."
 
 # game/v2/v2.rpy:2251
 translate francais bs_bd_ea172d77:
@@ -1771,13 +1771,13 @@ translate francais bs_bd_ea172d77:
 translate francais bs_bd_ef1dadc4:
 
     # em "I'll wait here, I saw a bunch of Vogues I wanna dig into."
-    em "Je vais attendre ici, j'ai vu un tas de Vogues que je veux creuser."
+    em "Je vais attendre ici, j'ai vu un tas de Vogue que je veux lire."
 
 # game/v2/v2.rpy:2261
 translate francais bs_bd_745f4da9:
 
     # ehr "Okay, looking at you I'm gonna assume you're here because of your black eye?"
-    ehr "OK, en te regardant, je suppose que tu es ici à cause de ton œil au beurre noir ?"
+    ehr "OK, en vous regardant, je suppose que vous êtes ici à cause de votre œil au beurre noir ?"
 
 # game/v2/v2.rpy:2266
 translate francais bs_bd_42487ce7:
@@ -1789,7 +1789,7 @@ translate francais bs_bd_42487ce7:
 translate francais bs_bd_16d3800d:
 
     # u "Uhh... yeah, my friend dragged me here in order to get it looked at."
-    u "Euh... ouais, mon ami m'a traîné ici pour qu'on l'examine."
+    u "Euh... ouais, mon amie m'a traîné ici pour qu'on l'examine."
 
 # game/v2/v2.rpy:2275
 translate francais bs_bd_2977c7af:
@@ -1825,7 +1825,7 @@ translate francais bs_bd_4d469330:
 translate francais bs_bd_b46706a3:
 
     # ehr "Does it hurt a lot? I could prescribe you a week's worth of painkillers."
-    ehr "Est-ce que ça fait mal ? Je peux te prescrire une semaine entière d'antalgiques."
+    ehr "Est-ce que ça fait mal ? Je peux vous prescrire une semaine entière d'antalgiques."
 
 # game/v2/v2.rpy:2302
 translate francais bs_bd_976e8c37:
@@ -1843,13 +1843,13 @@ translate francais bs_bd_635445a7:
 translate francais bs_bd_d075d62f:
 
     # ehr "Well then, your face should be back to normal in a week. If it doesn't get better, please come see me again."
-    ehr "Eh bien, votre visage devrait redevenir normal dans une semaine. Si ça ne va pas mieux, s'il vous plaît revenez me voir."
+    ehr "Eh bien, votre visage devrait redevenir normal dans une semaine. Si ça ne va pas mieux, s'il vous plaît, revenez me voir."
 
 # game/v2/v2.rpy:2314
 translate francais bs_bd_8024e817:
 
     # u "Thanks, will do."
-    u "Merci, ça fera l'affaire."
+    u "Merci, je le ferai."
 
 # game/v2/v2.rpy:2316
 translate francais bs_bd_44abc50c:
@@ -1861,7 +1861,7 @@ translate francais bs_bd_44abc50c:
 translate francais bs_bd_44918a53:
 
     # u "Are you ready to go?"
-    u "Est-tu prête à y aller ?"
+    u "Es-tu prête à y aller ?"
 
 # game/v2/v2.rpy:2326
 translate francais bs_bd_b0d1ce85:
@@ -1879,7 +1879,7 @@ translate francais bo_bd_dc5051d5:
 translate francais bo_bd_18cf3231:
 
     # u "(Still... I don't know if I can ever fully forgive her for what she did.)"
-    u "(Pourtant... je ne sais pas si je pourrai jamais lui pardonner complètement ce qu'elle a fait.)"
+    u "(Pourtant... je ne sais pas si je pourrais lui pardonner ce qu'elle a fait.)"
 
 # game/v2/v2.rpy:2347
 translate francais bo_bd_c975e35e:
@@ -1903,13 +1903,13 @@ translate francais repeatc_dfbd0821:
 translate francais repeatc_029469d6:
 
     # pe "I- I know you-"
-    pe "Je- je te connais-"
+    pe "Je-je te connais-"
 
 # game/v2/v2.rpy:2367
 translate francais repeatc_3c4681a3:
 
     # u "Let me guess, you saw me get punched in the face at a party."
-    u "Laissez-moi deviner, tu m'as vu recevoir un coup de poing au visage lors d'une fête."
+    u "Laisse-moi deviner, tu m'as vu recevoir un coup de poing au visage lors d'une fête."
 
 # game/v2/v2.rpy:2372
 translate francais repeatc_d9f61a43:
@@ -1927,7 +1927,7 @@ translate francais repeatc_ebff5a89:
 translate francais repeatc_9e6d33de:
 
     # u "With Mr. Lee?"
-    u "Avec M. Lee ?"
+    u "Avec Mr Lee ?"
 
 # game/v2/v2.rpy:2384
 translate francais repeatc_3afc33fc:
@@ -1969,7 +1969,7 @@ translate francais repeatc_c40fb6f1:
 translate francais repeatc_19c16b65:
 
     # pe "But then I was like \"Penelope, you need to start talking to people at some point\" and then I approached you."
-    pe "Mais ensuite je me suis dis \"Penelope, tu dois commencer à parler aux gens à un moment donné\" et puis je t'ai abordé."
+    pe "Mais ensuite je me suis dis \"Pénélope, tu dois commencer à parler aux gens à un moment donné\" et puis je t'ai abordé."
 
 # game/v2/v2.rpy:2418
 translate francais repeatc_0fb938bb:
@@ -1982,7 +1982,7 @@ translate francais repeatc_0fb938bb:
 translate francais repeatc_b60f3409:
 
     # pe "Oh god, is it weird? Did I make it weird?"
-    pe "Oh mon Dieu, c'est bizarre ? Est-ce que j'ai fait ça de manières bizarre ?"
+    pe "Oh mon Dieu, c'est bizarre ? Est-ce que j'ai fait ça de manière bizarre ?"
 
 # game/v2/v2.rpy:2425
 translate francais repeatc_6483ea79:
@@ -1994,19 +1994,19 @@ translate francais repeatc_6483ea79:
 translate francais repeatc_7a104825:
 
     # u "Wait."
-    u "Attend."
+    u "Attend !"
 
 # game/v2/v2.rpy:2440
 translate francais repeatc_2ebbb426:
 
     # u "There's no need to be nervous."
-    u "Il n'y a pas de raisons d'être nerveuse."
+    u "Il n'y a pas de raison d'être nerveuse."
 
 # game/v2/v2.rpy:2442
 translate francais repeatc_9721d31c:
 
     # u "So your name is Penelope right?"
-    u "Alors tu t'appelles Pénélope, non ?"
+    u "Alors tu t'appelles Pénélope ?"
 
 # game/v2/v2.rpy:2447
 translate francais repeatc_0e8d6143:
@@ -2018,7 +2018,7 @@ translate francais repeatc_0e8d6143:
 translate francais repeatc_1b522938:
 
     # u "So, what did you mean by \"you need to start talking to people at some point\"? Are you a freshman?"
-    u "Alors, qu'entend-tu par \"tu dois commencer à parler aux gens à un moment donné\" ? Es-tu un étudiante de première année ?"
+    u "Alors, qu'entends-tu par \"tu dois commencer à parler aux gens à un moment donné\" ? Es-tu une étudiante de première année ?"
 
 # game/v2/v2.rpy:2457
 translate francais repeatc_1b0771d1:
@@ -2030,7 +2030,7 @@ translate francais repeatc_1b0771d1:
 translate francais repeatc_022d738f:
 
     # pe "And my dad paid a lot of money so I could go to my old college and now he's super mad and he said I'll have to get a job 'cause he's gonna cut my money off."
-    pe "Et mon père a payé beaucoup d'argent pour que je puisse revenir dans mon université précédente et maintenant il est super énervé et il a dit que je devrais trouver un travail parce qu'il va me couper les vivres."
+    pe "Et mon père a donné beaucoup d'argent pour que je puisse revenir dans mon université précédente et maintenant il est très énervé et il a dit que je devrais trouver un travail parce qu'il va me couper les vivres."
 
 # game/v2/v2.rpy:2461
 translate francais repeatc_5f653432:
@@ -2048,13 +2048,13 @@ translate francais repeatc_8e02afde:
 translate francais repeatc_2bec789e:
 
     # u "Okay, calm down. You-"
-    u "Bon, calme-toi. Toi-"
+    u "Ok, calme-toi. Tu-"
 
 # game/v2/v2.rpy:2473
 translate francais repeatc_f726c180:
 
     # pe "Oh god, am I oversharing again? I am, aren't I?"
-    pe "Oh mon Dieu, est-ce que je partage encore trop ? Je le fais, n'est-ce pas ?"
+    pe "Oh mon Dieu, est-ce que j'en dis encore trop ? Je le fais, n'est-ce pas ?"
 
 # game/v2/v2.rpy:2478
 translate francais repeatc_2725f76b:
@@ -2072,13 +2072,13 @@ translate francais repeatc_f708ba5e:
 translate francais repeatc_76217dd0:
 
     # u "Really? That's where you draw the line of not sharing?"
-    u "Ah bon ? C'est là que tu trace la ligne de non-partage ?"
+    u "Ah bon ? C'est là que tu traces la ligne de non-partage ?"
 
 # game/v2/v2.rpy:2493
 translate francais repeatc_fa4f4ffe:
 
     # pe "Sorry but... it's bad, really bad."
-    pe "Désolé mais... c'est mal, vraiment mal."
+    pe "Désolée mais... c'est mal, vraiment mal."
 
 # game/v2/v2.rpy:2498
 translate francais repeatc_5d206a5d:
@@ -2090,7 +2090,7 @@ translate francais repeatc_5d206a5d:
 translate francais repeatc_d1679705:
 
     # pe "I'm really sorry, but I can't tell you. Please stop pressing me about it."
-    pe "Je suis vraiment désolé, mais je ne peux pas te le dire. S'il te plaît arrête de me mettre la pression à ce sujet."
+    pe "Je suis vraiment désolée, mais je ne peux pas te le dire. S'il te plaît arrête de me mettre la pression à ce sujet."
 
 # game/v2/v2.rpy:2508
 translate francais repeatc_ae3c79d1:
@@ -2114,13 +2114,13 @@ translate francais repeatg_234dd80d:
 translate francais repeatg_c2bcf1de:
 
     # u "Penelope, I'm really sorry, but I have to go and meet my friend. It was nice seeing you."
-    u "Penelope, je suis vraiment désolée, mais je dois aller voir une amie. C' était agréable de te voir."
+    u "Pénélope, je suis vraiment désolé, mais je dois aller voir une amie. C'était agréable de te voir."
 
 # game/v2/v2.rpy:2531
 translate francais repeatg_febb5ee0:
 
     # pe "Oh, I understand. I guess I'll see you around."
-    pe "Oh je comprends. Je suppose qu'on se revera plus tard."
+    pe "Oh je comprends. On se reverra plus tard."
 
 # game/v2/v2.rpy:2536
 translate francais repeatg_6b7e7881:
@@ -2138,19 +2138,19 @@ translate francais repeatg_0f9922ed:
 translate francais repeatg_5738152c:
 
     # u "Hey, do you also need a costume for Mr. Lee's class?"
-    u "Hé, tu as aussi besoin d'un costume pour le cours de M. Lee ?"
+    u "Hé, tu as aussi besoin d'un costume pour le cours de Mr Lee ?"
 
 # game/v2/v2.rpy:2550
 translate francais repeatg_5810be51:
 
     # pe "Yeah, I was just on my way to buy one."
-    pe "Ouais, j'étais juste sur le point d'en acheter un."
+    pe "Oui, j'étais juste sur le point d'en acheter un."
 
 # game/v2/v2.rpy:2555
 translate francais repeatg_b546e27b:
 
     # u "Wanna go together? I need one as well."
-    u "Tu veux qu'on y aille ensemble ? J'en ai besoin d'un aussi."
+    u "Tu veux qu'on y aille ensemble ? J'en ai besoin aussi."
 
 # game/v2/v2.rpy:2560
 translate francais repeatg_e6e8c76c:
@@ -2186,13 +2186,13 @@ translate francais csaub_4251a370:
 translate francais csaub_79798c39:
 
     # no "You're welcome."
-    no "Mais de rien. Entre."
+    no "Mais de rien. Entre !"
 
 # game/v2/v2.rpy:2606
 translate francais csaub_65b0c8d1:
 
     # au "Hey."
-    au "Salut."
+    au "Salut !"
 
 # game/v2/v2.rpy:2611
 translate francais csaub_4e0688f6:
@@ -2210,13 +2210,13 @@ translate francais csaub_ef39b636:
 translate francais csaub_ce5a0228:
 
     # au "Plus there's a bunch of girls in their underwear in here right now. You wouldn't wanna see that."
-    au "En plus, il y a un tas de filles en sous-vêtements ici en ce moment. Tu ne voudrais pas voir ça."
+    au "En plus, il y a un tas de filles en sous-vêtements ici, en ce moment. Tu ne voudrais pas voir ça."
 
 # game/v2/v2.rpy:2623
 translate francais csaub_a650f473:
 
     # u "Yeah, that does sound horrible."
-    u "Ouais, ça a l'air horrible."
+    u "Oh ouais, ça a l'air horrible."
 
 # game/v2/v2.rpy:2628
 translate francais csaub_6adf6270:
@@ -2228,13 +2228,13 @@ translate francais csaub_6adf6270:
 translate francais csaub_7905f04a:
 
     # u "Didn't you say this was a costume shop?"
-    u "N'as-tu pas dit que c'était un magasin de costumes ?"
+    u "T'avais pas dit que c'était un magasin de costumes ?"
 
 # game/v2/v2.rpy:2641
 translate francais csaub_4f3c7d9b:
 
     # au "It was! At least the last time I was here."
-    au "C'en était un ! Au moins la dernière fois que j'étais ici."
+    au "C'en était un ! Au moins la dernière fois que je suis venue."
 
 # game/v2/v2.rpy:2646
 translate francais csaub_fb1245f5:
@@ -2252,25 +2252,25 @@ translate francais csaub_18865407:
 translate francais csaub_d3e029a0:
 
     # ev "So the owners had this crazy idea of Halloween in January, but the surprising increase of in-store injuries and following lawsuits quickly made it go bust."
-    ev "Les propriétaires ont donc eu cette idée folle d'Halloween en janvier, mais l'augmentation surprenante des blessures en magasin et les poursuites judiciaires ont rapidement provoqué la faillite."
+    ev "Les propriétaires ont donc eu cette idée folle d'Halloween en janvier, mais l'augmentation surprenante des blessures en magasin et les procès qui ont suivi, ont rapidement fait capoter l'opération."
 
 # game/v2/v2.rpy:2655
 translate francais csaub_8926613f:
 
     # ev "We had to put in a new floor and change the branding, so now we just sell regular clothing in all months of the year."
-    ev "Nous avons dû installer un nouveau sol et changer de marque, alors maintenant, nous ne vendons que des vêtements ordinaires tous les mois de l'année."
+    ev "Nous avons dû refaire le sol et changer l'image de marque, si bien que nous ne vendons plus que des vêtements ordinaires pendant toute l'année."
 
 # game/v2/v2.rpy:2660
 translate francais csaub_3e2f50e5:
 
     # au "Damn, this was the only costume store nearby..."
-    au "Bon sang, c'était le seul magasin de costumes à proximité..."
+    au "Merde ! C'était le seul magasin de costumes à proximité..."
 
 # game/v2/v2.rpy:2665
 translate francais csaub_3af28705:
 
     # ev "I can check if we still have some costumes in the back, but it'll be a limited selection."
-    ev "Je peux vérifier si nous avons encore des costumes dans l'arrière boutique, mais ce sera une sélection limitée."
+    ev "Je peux vérifier si nous avons encore des costumes dans l'arrière-boutique, mais il y aura un choix très limité."
 
 # game/v2/v2.rpy:2670
 translate francais csaub_7d01aa02:
@@ -2300,7 +2300,7 @@ translate francais csaub_ccd53b23:
 translate francais csaub_cc9854e2:
 
     # u "Okay, let's have a look at some of these."
-    u "D'accord, jetons un coup d'œil à certains d'entre eux."
+    u "D'accord, jetons un coup d'œil à ce qu'ils ont."
 
 # game/v2/v2.rpy:2697
 translate francais csaub_7f4be50c:
@@ -2312,7 +2312,7 @@ translate francais csaub_7f4be50c:
 translate francais try1done_189b727a:
 
     # "(Yeah- still look the same as a viking as I did before.)"
-    "(Ouais, ressemble toujours à un viking comme avant.)"
+    "(Oui, j'ai toujours l'air d'un viking comme avant.)"
 
 # game/v2/v2.rpy:2718
 translate francais try1done_679ca8e6:
@@ -2324,13 +2324,13 @@ translate francais try1done_679ca8e6:
 translate francais try1new_f4c99d29:
 
     # u "(Alright, rocking the Viking look.)"
-    u "(Très bien, je porte le look Viking.)"
+    u "(Très bien, je prend le look Viking.)"
 
 # game/v2/v2.rpy:2731
 translate francais try1new_18a1ecbe:
 
     # u "(I wonder what Aubrey is changing into.)"
-    u "(Je me demande en quoi Aubrey se transforme.)"
+    u "(Je me demande en quoi Aubrey se déguise.)"
 
 # game/v2/v2.rpy:2740
 translate francais try1new_dc177c1d:
@@ -2348,7 +2348,7 @@ translate francais try1new_1c1a21bf:
 translate francais try1new_1999eee5:
 
     # u "(I should stop peeking now, or I'll get caught.)"
-    u "(Je devrais arrêter de jeter un coup d'œil maintenant, ou je vais me faire prendre.)"
+    u "(Je devrais arrêter de jeter un coup d'œil maintenant, ou je vais me faire choper.)"
 
 # game/v2/v2.rpy:2770
 translate francais v2_nsfwSkipLabel1_cfdd20f8:
@@ -2366,25 +2366,25 @@ translate francais v2_nsfwSkipLabel1_53cc9e72:
 translate francais v2_nsfwSkipLabel1_3f475574:
 
     # u "Really? Adorable? How about hot?"
-    u "Ah bon ? Adorable ? Et que pense tu de \"canon\" ?"
+    u "Ah bon ? Adorable ? Et que penses-tu de \"canon\" ?"
 
 # game/v2/v2.rpy:2790
 translate francais v2_nsfwSkipLabel1_e6f4acca:
 
     # au "Haha, what do you think of my outfit?"
-    au "Haha, que penses-tu de ma tenue ?"
+    au "Haha, et toi ? Que penses-tu de ma tenue ?"
 
 # game/v2/v2.rpy:2799
 translate francais v2_nsfwSkipLabel1_7d80e924:
 
     # u "I'm not gonna lie, it's kinda hot."
-    u "Je ne vais pas mentir, c'est canon."
+    u "Je ne vais pas mentir, C'est plutôt chaud."
 
 # game/v2/v2.rpy:2801
 translate francais v2_nsfwSkipLabel1_9d031eba:
 
     # u "You could be like my Viking queen."
-    u "Tu pourrais être comme ma reine viking."
+    u "Tu pourrais être ma reine viking."
 
 # game/v2/v2.rpy:2806
 translate francais v2_nsfwSkipLabel1_86a517e6:
@@ -2402,43 +2402,43 @@ translate francais v2_nsfwSkipLabel1_519c302b:
 translate francais v2_nsfwSkipLabel1_dc103a0a:
 
     # au "Have you decided which one to buy yet?"
-    au "As-tu déjà décidé lequel acheter?"
+    au "As-tu déjà décidé lequel acheter ?"
 
 # game/v2/v2.rpy:2826
 translate francais v2_nsfwSkipLabel1_f56eb18c:
 
     # u "I mean, it's definitely something."
-    u "Je veux dire, c'est définitivement quelque chose."
+    u "Ça, c'est vraiment quelque chose."
 
 # game/v2/v2.rpy:2828
 translate francais v2_nsfwSkipLabel1_c1c9b559:
 
     # u "I'm not sure if you should replace your everyday clothes with it though."
-    u "Je ne sais pas si tu devrait pas remplacer tes vêtements de tous les jours par cela."
+    u "Je ne suis pas sûr que tu devrais remplacer tes vêtements de tous les jours par ceux là."
 
 # game/v2/v2.rpy:2834
 translate francais v2_nsfwSkipLabel1_8671c31a:
 
     # au "I'll guess I'll have to try some of the other outfits then."
-    au "Je suppose que je vais devoir essayer d'autres tenues alors."
+    au "Je pense que je vais devoir essayer d'autres tenues alors."
 
 # game/v2/v2.rpy:2837
 translate francais v2_nsfwSkipLabel1_dc103a0a_1:
 
     # au "Have you decided which one to buy yet?"
-    au "Avez-vous déjà décidé lequel acheter?"
+    au "As-tu déjà décidé lequel acheter?"
 
 # game/v2/v2.rpy:2854
 translate francais try2done_96bac669:
 
     # "(I mean looking at the Knight costume now, I notice that...)"
-    "(Je veux dire en regardant le costume de chevalier maintenant, je remarque que...)"
+    "(En regardant le costume de chevalier maintenant, je remarque que...)"
 
 # game/v2/v2.rpy:2856
 translate francais try2done_7fa8b529:
 
     # "(... it looks exactly the same as before.)"
-    "(... ça ressemble exactement à la même chose qu'avant.)"
+    "(... ça ressemble vraiment une armure d'autrefois.)"
 
 # game/v2/v2.rpy:2868
 translate francais try2new_b364b155:
@@ -2468,7 +2468,7 @@ translate francais try2new_a8b4395e:
 translate francais try2new_a7012ffd:
 
     # u "(I should stop peeking now, or I risk getting caught.)"
-    u "(Je devrais arrêter de jeter un œil maintenant, ou je risque de me faire prendre.)"
+    u "(Je devrais arrêter de jeter un œil maintenant, ou je risque de me faire voir.)"
 
 # game/v2/v2.rpy:2909
 translate francais v2_nsfwSkipLabel2_5d028643:
@@ -2480,7 +2480,7 @@ translate francais v2_nsfwSkipLabel2_5d028643:
 translate francais v2_nsfwSkipLabel2_1a5b144f:
 
     # au "Damn, I like your outfit."
-    au "Putain, j'aime ta tenue."
+    au "Putain, j'aime ton costume."
 
 # game/v2/v2.rpy:2924
 translate francais v2_nsfwSkipLabel2_ffa24c4f:
@@ -2504,7 +2504,7 @@ translate francais v2_nsfwSkipLabel2_32a69f7e:
 translate francais v2_nsfwSkipLabel2_da553dc5:
 
     # au "Is it weird that you talking like that kinda turns me on?"
-    au "C'est bizarre que tu parles comme ça m'excite un peu ?"
+    au "C'est bizarre que tu parles comme ça. Ça m'excite un peu..."
 
 # game/v2/v2.rpy:2942
 translate francais v2_nsfwSkipLabel2_5c1ba02f:
@@ -2528,19 +2528,19 @@ translate francais v2_nsfwSkipLabel2_224046bf:
 translate francais v2_nsfwSkipLabel2_45b9ed1d:
 
     # au "Are you gonna buy this one?"
-    au "vas-tu acheter celui-ci ?"
+    au "Vas-tu acheter celui-ci ?"
 
 # game/v2/v2.rpy:2959
 translate francais v2_nsfwSkipLabel2_c9a2f903:
 
     # u "... certainly practical."
-    u "... certainement pratique."
+    u "... très pratique."
 
 # game/v2/v2.rpy:2964
 translate francais v2_nsfwSkipLabel2_12d26b71:
 
     # au "That is the single greatest compliment I think I've ever received."
-    au "Je pense que c'est le plus grand compliment que j'ai jamais reçu."
+    au "Je pense que c'est le meilleur compliment que j'ai jamais reçu."
 
 # game/v2/v2.rpy:2969
 translate francais v2_nsfwSkipLabel2_d3e94b55:
@@ -2558,7 +2558,7 @@ translate francais v2_nsfwSkipLabel2_66970db9:
 translate francais v2_nsfwSkipLabel2_9bfbf47c:
 
     # u "Wow, low blow."
-    u "Aoutch, touché."
+    u "Ouch, touché."
 
 # game/v2/v2.rpy:2984
 translate francais v2_nsfwSkipLabel2_224046bf_1:
@@ -2582,7 +2582,7 @@ translate francais try3done_e45e2fd1:
 translate francais try3new_284d5548:
 
     # u "(Yeehaw!)"
-    u "(Yeehaaa ! )"
+    u "(Yeehaaa !)"
 
 # game/v2/v2.rpy:3021
 translate francais try3new_6e79c38e:
@@ -2612,13 +2612,13 @@ translate francais try3new_26a091a9:
 translate francais v2_nsfwSkipLabel3_9f6f578e:
 
     # u "Man she's gonna love this costume."
-    u "Mec, elle va adorer ce costume."
+    u "Yo, elle va adorer ce costume."
 
 # game/v2/v2.rpy:3064
 translate francais v2_nsfwSkipLabel3_e57a573c:
 
     # u "Aubrey? Are you coming out?"
-    u "Aubrey ? Tu sort ?"
+    u "Aubrey ? Tu sors ?"
 
 # game/v2/v2.rpy:3066
 translate francais v2_nsfwSkipLabel3_ce41a1d2:
@@ -2642,25 +2642,25 @@ translate francais v2_nsfwSkipLabel3_36465395:
 translate francais v2_nsfwSkipLabel3_209d958e:
 
     # au "Sorry but... I'm gonna get dressed again."
-    au "Désolé mais... je vais me rhabiller."
+    au "Désolée mais... je vais me rhabiller."
 
 # game/v2/v2.rpy:3084
 translate francais v2_nsfwSkipLabel3_ebb31da5:
 
     # u "Alright, fine."
-    u "D'accord, bien"
+    u "Bon, d'accord ! "
 
 # game/v2/v2.rpy:3088
 translate francais v2_nsfwSkipLabel3_fb1ad710:
 
     # au "Okay, fine. Just for you."
-    au "D'accord, bien. Juste pour toi."
+    au "D'accord. Juste pour toi."
 
 # game/v2/v2.rpy:3098
 translate francais v2_nsfwSkipLabel3_2189828c:
 
     # u "Holy shit, you weren't exaggerating. That is revealing."
-    u "Putain de merde, tu n'exagérais pas. C'est révélateur."
+    u "Putain de merde ! Tu n'exagérais pas, c'est révélateur."
 
 # game/v2/v2.rpy:3103
 translate francais v2_nsfwSkipLabel3_bd372840:
@@ -2672,7 +2672,7 @@ translate francais v2_nsfwSkipLabel3_bd372840:
 translate francais v2_nsfwSkipLabel3_26b9cb57:
 
     # u "You sure you don't wanna keep this on for the rest of the day?"
-    u "Tu es sûr que tu ne veux pas garder ça pour le reste de la journée ?"
+    u "Tu es sûre que tu ne veux pas garder ça pour le reste de la journée ?"
 
 # game/v2/v2.rpy:3113
 translate francais v2_nsfwSkipLabel3_72b71966:
@@ -2684,7 +2684,7 @@ translate francais v2_nsfwSkipLabel3_72b71966:
 translate francais v2_nsfwSkipLabel3_97818984:
 
     # au "Also, this cowboy outfit is probably the worst thing I've ever seen anyone wear."
-    au "De plus, cette tenue de cow-boy est probablement la pire chose que j'aie jamais vue quelqu'un porter."
+    au "De plus, cette tenue de cow-boy est probablement la pire chose que j'ai jamais vu."
 
 # game/v2/v2.rpy:3117
 translate francais v2_nsfwSkipLabel3_21bc3cf3:
@@ -2696,7 +2696,7 @@ translate francais v2_nsfwSkipLabel3_21bc3cf3:
 translate francais v2_nsfwSkipLabel3_ebb31da5_1:
 
     # u "Alright, fine."
-    u "D'accord, bien."
+    u "Bon, d'accord."
 
 # game/v2/v2.rpy:3127
 translate francais v2_nsfwSkipLabel3_d76759c0:
@@ -2714,7 +2714,7 @@ translate francais v2_nsfwSkipLabel3_d8940fd5:
 translate francais by_bd_289003d8:
 
     # au "Oh god, that looks so bad on you."
-    au "Oh mon Dieu, ça te va tellement mal."
+    au "Oh mon Dieu, ça te va tellement pas"
 
 # game/v2/v2.rpy:3145
 translate francais by_bd_89e51cb4:
@@ -2726,13 +2726,13 @@ translate francais by_bd_89e51cb4:
 translate francais by_bd_702693e1:
 
     # au "Oh no. Just whatever you do, do not buy this costume."
-    au "Oh non. Quoi que tu fasse, n'achete pas ce costume."
+    au "Oh non. Quoi que tu fasses, n'achête pas ce costume."
 
 # game/v2/v2.rpy:3152
 translate francais by_bd_5ebbd48f:
 
     # au "I think you should get out of that as quickly as you can."
-    au "Je pense que tu devrais en sortir le plus vite possible."
+    au "Je pense que tu devrais l'enlever le plus vite possible."
 
 # game/v2/v2.rpy:3180
 translate francais cspe_452a4b0e:
@@ -2762,12 +2762,12 @@ translate francais cspe_18865407:
 translate francais cspe_d3e029a0:
 
     # ev "So the owners had this crazy idea of Halloween in January, but the surprising increase of in-store injuries and following lawsuits quickly made it go bust."
-    ev "Les propriétaires ont donc eu cette idée folle d'Halloween en janvier, mais l'augmentation surprenante des blessures en magasin et les poursuites judiciaires ont rapidement provoqué la faillite."
+    ev "Les propriétaires ont donc eu cette idée folle d'Halloween en janvier, mais l'augmentation surprenante des blessures en magasin et les procès qui ont suivi ont rapidement fait capoter l'opération."
 
 # game/v2/v2.rpy:3200
 translate francais cspe_8926613f:
 
-    # ev "We had to put in a new floor and change the branding, so now we just sell regular clothing in all months of the year."
+    # ev "Nous avons dû refaire le sol et changer l'image de marque, si bien que nous ne vendons plus que des vêtements ordinaires pendant toute l'année."
     ev "Nous avons dû installer un nouveau sol et changer l'image de marque, alors maintenant, nous ne vendons que des vêtements ordinaires tous les mois de l'année."
 
 # game/v2/v2.rpy:3205
@@ -2780,7 +2780,7 @@ translate francais cspe_329a48ab:
 translate francais cspe_da1de338:
 
     # ev "If you want, I can check if we still have some in the back, but it'll be a limited selection."
-    ev "Si vous voulez, je peux vérifier si nous en avons encore à l'arrière, mais ce sera une sélection limitée."
+    ev "Si vous voulez, je peux vérifier si nous en avons encore à l'arrière, mais ce sera une sélection très limitée."
 
 # game/v2/v2.rpy:3215
 translate francais cspe_9f3beb31:
@@ -2792,7 +2792,7 @@ translate francais cspe_9f3beb31:
 translate francais cspe_1944561c:
 
     # ev "So in this box are all the remaining costumes we have, I hope that's enough."
-    ev "Donc, dans cette boîte se trouvent tous les costumes restants que nous avons, j'espère que cela suffira."
+    ev "Voilà, dans cette boîte se trouvent tous les costumes restants que nous avons, j'espère que cela suffira."
 
 # game/v2/v2.rpy:3230
 translate francais cspe_dd6b5362:
@@ -2810,13 +2810,13 @@ translate francais cspe_ccd53b23:
 translate francais cspe_cc9854e2:
 
     # u "Okay, let's have a look at some of these."
-    u "D'accord, jetons un coup d'œil à certains d'entre eux."
+    u "D'accord, jetons un coup d'œil à ce qu'ils ont."
 
 # game/v2/v2.rpy:3242
 translate francais cspe_c648d714:
 
     # pe "I'm actually really excited to buy a costume."
-    pe "Je suis vraiment très excitée d'acheter un costume."
+    pe "Je suis tellement contente d'acheter un costume."
 
 # game/v2/v2.rpy:3243
 translate francais cspe_bfdc89dd:
@@ -2828,7 +2828,7 @@ translate francais cspe_bfdc89dd:
 translate francais try4done_07bec283:
 
     # "(Yeah- still look the same as a Viking as I did before.)"
-    "(Ouais, j'ai toujours l'air d'un Viking comme avant.)"
+    "(Oui, j'ai toujours la même tête de Viking qu'avant.)"
 
 # game/v2/v2.rpy:3264
 translate francais try4done_679ca8e6:
@@ -2840,13 +2840,13 @@ translate francais try4done_679ca8e6:
 translate francais try4new_f4c99d29:
 
     # u "(Alright, rocking the Viking look.)"
-    u "(Très bien, je porte le look Viking.)"
+    u "(Très bien, je prend le look Viking.)"
 
 # game/v2/v2.rpy:3277
 translate francais try4new_d69fd5d5:
 
     # u "(I wonder what Penelope is changing in to.)"
-    u "(Je me demande en quoi Penelope est en train de changer.)"
+    u "(Je me demande en quoi Pénélope est en train de changer.)"
 
 # game/v2/v2.rpy:3286
 translate francais try4new_5e7d2f55:
@@ -2864,25 +2864,25 @@ translate francais try4new_6fe76176:
 translate francais try4new_1999eee5:
 
     # u "(I should stop peeking now, or I'll get caught.)"
-    u "(Je devrais arrêter de jeter un œil maintenant, ou je vais me faire prendre.)"
+    u "(Je devrais arrêter de jeter un œil maintenant, ou je vais me faire choper.)"
 
 # game/v2/v2.rpy:3316
 translate francais v2_nsfwSkipLabel4_c9690363:
 
     # u "(Let's see what Penelope thinks of this costume.)"
-    u "(Voyons ce que Penelope pense de ce costume.)"
+    u "(Voyons ce que Pénélope pense de ce costume.)"
 
 # game/v2/v2.rpy:3326
 translate francais v2_nsfwSkipLabel4_d5b92c88:
 
     # pe "Oh I don't think you should get that costume."
-    pe "Oh, je ne pense pas que tu devrais avoir ce costume."
+    pe "Oh, je ne pense pas que tu devrais prendre ce costume."
 
 # game/v2/v2.rpy:3331
 translate francais v2_nsfwSkipLabel4_1891caa4:
 
     # u "Why? Do I look too dashing?"
-    u "Pourquoi? Ai-je l'air trop fringant?"
+    u "Pourquoi? j'ai l'air trop fringant?"
 
 # game/v2/v2.rpy:3336
 translate francais v2_nsfwSkipLabel4_4445f003:
@@ -2894,13 +2894,13 @@ translate francais v2_nsfwSkipLabel4_4445f003:
 translate francais v2_nsfwSkipLabel4_42a8d686:
 
     # pe "And Mr. Lee said that the costumes should be historically accurate."
-    pe "Et M. Lee a dit que les costumes devraient être historiquement exacts."
+    pe "Et Mr Lee a dit que les costumes devraient être historiquement exacts."
 
 # game/v2/v2.rpy:3343
 translate francais v2_nsfwSkipLabel4_74466041:
 
     # u "Oh, right. Totally."
-    u "Ah, c'est vrai. Totalement."
+    u "Ah, c'est vrai."
 
 # game/v2/v2.rpy:3347
 translate francais v2_nsfwSkipLabel4_94e659fd:
@@ -2912,13 +2912,13 @@ translate francais v2_nsfwSkipLabel4_94e659fd:
 translate francais v2_nsfwSkipLabel4_9427cc31:
 
     # u "You look beautiful. Do you like it?"
-    u "Tu es magnifique. Aime-tu ?"
+    u "Tu es magnifique. Tu l'aimes ?"
 
 # game/v2/v2.rpy:3361
 translate francais v2_nsfwSkipLabel4_b030db80:
 
     # pe "Awww, thank you."
-    pe "Oh, merci."
+    pe "Oooh, merci."
 
 # game/v2/v2.rpy:3363
 translate francais v2_nsfwSkipLabel4_d07ac90d:
@@ -2936,7 +2936,7 @@ translate francais v2_nsfwSkipLabel4_784f0486:
 translate francais v2_nsfwSkipLabel4_8928515d:
 
     # pe "Are you ready to buy an outfit?"
-    pe "Êtes-tu prêt à acheter une tenue?"
+    pe "Es-tu prêt à acheter une tenue?"
 
 # game/v2/v2.rpy:3377
 translate francais v2_nsfwSkipLabel4_fdf7c84b:
@@ -2948,7 +2948,7 @@ translate francais v2_nsfwSkipLabel4_fdf7c84b:
 translate francais v2_nsfwSkipLabel4_ebc2e279:
 
     # pe "I like it, but I'm not sure."
-    pe "J'aime ça, mais je ne suis pas sûr."
+    pe "J'aime ça, mais je ne suis pas sûre."
 
 # game/v2/v2.rpy:3385
 translate francais v2_nsfwSkipLabel4_784f0486_1:
@@ -2960,19 +2960,19 @@ translate francais v2_nsfwSkipLabel4_784f0486_1:
 translate francais v2_nsfwSkipLabel4_8928515d_1:
 
     # pe "Are you ready to buy an outfit?"
-    pe "Êtes-vous prêt à acheter une tenue?"
+    pe "Es-tu prêt à acheter une tenue?"
 
 # game/v2/v2.rpy:3408
 translate francais try5done_96bac669:
 
     # "(I mean looking at the Knight costume now, I notice that...)"
-    "(Je veux dire en regardant le costume de chevalier maintenant, je remarque que...)"
+    "(En regardant le costume de chevalier maintenant, je remarque que...)"
 
 # game/v2/v2.rpy:3410
 translate francais try5done_7fa8b529:
 
     # "(... it looks exactly the same as before.)"
-    "(... ça ressemble exactement à la même chose qu'avant.)"
+    "(... ça ressemble exactement à une armure d'autrefois.)"
 
 # game/v2/v2.rpy:3421
 translate francais try5new_b364b155:
@@ -2984,7 +2984,7 @@ translate francais try5new_b364b155:
 translate francais try5new_0814e0e0:
 
     # u "(Penelope is changing right next to me...)"
-    u "(Penelope se change juste à côté de moi...)"
+    u "(Pénélope se change juste à côté de moi...)"
 
 # game/v2/v2.rpy:3432
 translate francais try5new_adec1f00:
@@ -3002,13 +3002,13 @@ translate francais try5new_a8b4395e:
 translate francais try5new_a7012ffd:
 
     # u "(I should stop peeking now, or I risk getting caught.)"
-    u "(Je devrais arrêter de jeter un œil maintenant, ou je risque de me faire prendre.)"
+    u "(Je devrais arrêter de jeter un œil maintenant, ou je risque de me faire voir.)"
 
 # game/v2/v2.rpy:3461
 translate francais v2_nsfwSkipLabel5_7617b006:
 
     # u "(Time to show this to Penelope)"
-    u "(Il est temps de montrer ça à Penelope)"
+    u "(Il est temps de montrer ça à Pénélope)"
 
 # game/v2/v2.rpy:3471
 translate francais v2_nsfwSkipLabel5_be95785c:
@@ -3026,7 +3026,7 @@ translate francais v2_nsfwSkipLabel5_22e59b26:
 translate francais v2_nsfwSkipLabel5_5e850613:
 
     # pe "Sir, your perception skills are outstanding."
-    pe "Monsieur, vos capacités de perception sont exceptionnelles."
+    pe "Monsieur, vos capacités de déduction sont exceptionnelles."
 
 # game/v2/v2.rpy:3486
 translate francais v2_nsfwSkipLabel5_ffa24c4f:
@@ -3038,7 +3038,7 @@ translate francais v2_nsfwSkipLabel5_ffa24c4f:
 translate francais v2_nsfwSkipLabel5_e4bda834:
 
     # pe "You know, our costumes fit quite well together."
-    pe "Vous savez, nos costumes vont assez bien ensemble."
+    pe "Tu sais, nos costumes vont assez bien ensemble."
 
 # game/v2/v2.rpy:3497
 translate francais v2_nsfwSkipLabel5_4d80c854:
@@ -3062,13 +3062,13 @@ translate francais v2_nsfwSkipLabel5_b5ad0502:
 translate francais v2_nsfwSkipLabel5_8928515d:
 
     # pe "Are you ready to buy an outfit?"
-    pe "Est-tu prêt à acheter une tenue?"
+    pe "Es-tu prêt à acheter une tenue?"
 
 # game/v2/v2.rpy:3513
 translate francais v2_nsfwSkipLabel5_2f9da969:
 
     # u "Yeah, it would be a cool partner costume."
-    u "Ouais, ce serait un costume de partenaire cool."
+    u "Ouais, ce serait un costume de partenaire sympa."
 
 # game/v2/v2.rpy:3518
 translate francais v2_nsfwSkipLabel5_5c182744:
@@ -3086,7 +3086,7 @@ translate francais v2_nsfwSkipLabel5_507a43ec:
 translate francais v2_nsfwSkipLabel5_bc9f16f8:
 
     # pe "Would you be ready to buy an outfit?"
-    pe "Est-tu prêt à acheter une tenue?"
+    pe "Es-tu prêt à acheter une tenue?"
 
 # game/v2/v2.rpy:3547
 translate francais try6done_e45e2fd1:
@@ -3104,7 +3104,7 @@ translate francais try6new_284d5548:
 translate francais try6new_1aba16da:
 
     # u "(I can hear Penelope sliding her clothes off...)"
-    u "(Je peux entendre Penelope enlever ses vêtements...)"
+    u "(Je peux entendre Pénélope enlever ses vêtements...)"
 
 # game/v2/v2.rpy:3568
 translate francais try6new_b270ad9e:
@@ -3134,13 +3134,13 @@ translate francais v2_nsfwSkipLabel6_9f6f578e:
 translate francais v2_nsfwSkipLabel6_63079810:
 
     # u "Penelope? Are you coming out?"
-    u "Pénélope ? tu sort ?"
+    u "Pénélope ? tu sors ?"
 
 # game/v2/v2.rpy:3604
 translate francais v2_nsfwSkipLabel6_15298cba:
 
     # pe "Well I was trying on a costume, but after seeing I realize that it shows way too much skin to wear it to class."
-    pe "Eh bien, j'essayais un costume, mais après avoir vu, je me rends compte qu'il montre beaucoup trop de peau pour le porter en classe."
+    pe "Eh bien, j'essayais un costume, mais après l'avoir vu, je me rends compte qu'il montre beaucoup trop de peau pour le porter en classe."
 
 # game/v2/v2.rpy:3606
 translate francais v2_nsfwSkipLabel6_cfb6e0db:
@@ -3152,7 +3152,7 @@ translate francais v2_nsfwSkipLabel6_cfb6e0db:
 translate francais v2_nsfwSkipLabel6_38062494:
 
     # pe "No, haha. Sorry."
-    pe "Non, haha. Désolé."
+    pe "Non, haha. Désolée."
 
 # game/v2/v2.rpy:3615
 translate francais v2_nsfwSkipLabel6_8d333e1a:
@@ -3164,19 +3164,19 @@ translate francais v2_nsfwSkipLabel6_8d333e1a:
 translate francais v2_nsfwSkipLabel6_6749b01c:
 
     # pe "Sorry but... I'm gonna get dressed again."
-    pe "Désolé mais... je vais me rhabiller."
+    pe "Désolée mais... je vais me rhabiller."
 
 # game/v2/v2.rpy:3621
 translate francais v2_nsfwSkipLabel6_ebb31da5:
 
     # u "Alright, fine."
-    u "D'accord, bien."
+    u "Bon, d'accord."
 
 # game/v2/v2.rpy:3626
 translate francais v2_nsfwSkipLabel6_1283716f:
 
     # u "Okay, fine."
-    u "D'accord, bien."
+    u "Bon, d'accord."
 
 # game/v2/v2.rpy:3628
 translate francais v2_nsfwSkipLabel6_d76759c0:
@@ -3194,13 +3194,13 @@ translate francais v2_nsfwSkipLabel6_557d2bda:
 translate francais v2_nsfwSkipLabel6_22984668:
 
     # pe "Wow, I'm not sure how I feel about the cowboy look."
-    pe "Wow, je ne suis pas sûr de ce que je pense du look de cow-boy."
+    pe "Wow, je ne sais pas trop ce que je pense du look cowboy."
 
 # game/v2/v2.rpy:3645
 translate francais v2_nsfwSkipLabel6_89e51cb4:
 
     # u "What?? I considered cowboy to be a serious career path for me after I saw myself in this outfit."
-    u "Quoi?? Je considérais le cow-boy comme un cheminement de carrière sérieux pour moi après m'être vu dans cette tenue."
+    u "Quoi ??? Je considérais le cow-boy comme un cheminement de carrière sérieux pour moi après m'être vu dans cette tenue."
 
 # game/v2/v2.rpy:3650
 translate francais v2_nsfwSkipLabel6_e93cf270:
@@ -3218,19 +3218,19 @@ translate francais v2_nsfwSkipLabel6_a296406c:
 translate francais v2_nsfwSkipLabel6_8928515d:
 
     # pe "Are you ready to buy an outfit?"
-    pe "Are you ready to buy an outfit?"
+    pe "Es-tu prêt à acheter une tenue ?"
 
 # game/v2/v2.rpy:3669
 translate francais caughta_1c1a21bf:
 
     # u "(Oh my god, her ass is perfect.)"
-    u "Est-tu prêt à acheter une tenue ?"
+    u "Oh mon dieu, son cul est parfait."
 
 # game/v2/v2.rpy:3671
 translate francais caughta_1999eee5:
 
     # u "(I should stop peeking now, or I'll get caught.)"
-    u "(Je devrais arrêter de jeter un œil maintenant, ou je vais me faire prendre.)"
+    u "(Je devrais arrêter de jeter un œil maintenant, ou je vais me faire avoir.)"
 
 # game/v2/v2.rpy:3682
 translate francais caughtb_a8b4395e:
@@ -3290,7 +3290,7 @@ translate francais v1_caughtContinue_df0a5b58:
 translate francais v1_caughtContinue_4a923d62:
 
     # au "How about we just buy a costume and get going?"
-    au "Que dirait-tu d'acheter un costume et de partir ?"
+    au "Que dirais-tu d'acheter un costume et de partir ?"
 
 # game/v2/v2.rpy:3737
 translate francais v1_caughtContinue_5f43075d:
@@ -3326,13 +3326,13 @@ translate francais v1_caughtContinue_8ce08bd4:
 translate francais v1_caughtContinue_59523f30:
 
     # au "Honestly, I didn't even mind, but why would you lie about it, that's messed up."
-    au "Honnêtement, ça ne me dérangeait même pas, mais pourquoi mentirais-tu à ce sujet, c'est merdique."
+    au "Honnêtement, ça ne me dérangeait même pas, mais pourquoi mentir à ce sujet, c'est merdique."
 
 # game/v2/v2.rpy:3764
 translate francais v1_caughtContinue_fccb15df:
 
     # au "I'm gonna leave, I guess I'll see you around."
-    au "Je vais partir, je suppose que je te verrai dans le coin."
+    au "J'y vais, je pense que je te verrai dans le coin."
 
 # game/v2/v2.rpy:3769
 translate francais v1_caughtContinue_6684c9a9:
@@ -3350,13 +3350,13 @@ translate francais v1_caughtContinue_1f305862:
 translate francais caughtd_6fe76176:
 
     # u "(Oh my god, her ass is so nice.)"
-    u "(Oh mon dieu, son cul est si beau.)"
+    u "(Oh putain, son cul est si beau.)"
 
 # game/v2/v2.rpy:3782
 translate francais caughtd_1999eee5:
 
     # u "(I should stop peeking now, or I'll get caught.)"
-    u "(I should stop peeking now, or I'll get caught.)"
+    u "(Je devrais arrêter de regarder maintenant, ou je vais me faire avoir.)"
 
 # game/v2/v2.rpy:3794
 translate francais caughte_a8b4395e:
@@ -3398,7 +3398,7 @@ translate francais v1_caughtContinue_pen_58f6b650:
 translate francais v1_caughtContinue_pen_bd2dee3b:
 
     # pe "[name]! What were you thinking?!"
-    pe "[name]! Mais qu'est-ce que tu avais en tête?!"
+    pe "[name] ! Mais qu'est-ce que tu avais en tête?!"
 
 # game/v2/v2.rpy:3835
 translate francais v1_caughtContinue_pen_31934a9a:
@@ -3422,7 +3422,7 @@ translate francais v1_caughtContinue_pen_828c026e:
 translate francais v1_caughtContinue_pen_34c28773:
 
     # pe "I'm gonna leave, goodbye."
-    pe "Je part, au revoir."
+    pe "Je pars, au revoir."
 
 # game/v2/v2.rpy:3849
 translate francais v1_caughtContinue_pen_948c682f:
@@ -3440,7 +3440,7 @@ translate francais v1_caughtContinue_pen_1f305862:
 translate francais v1_caughtContinue_pen_5f43075d:
 
     # u "What are you talking about? You probably just saw my foot."
-    u "Qu'est-ce que tu racontes? Vous tu viens probablement de voir mon pied."
+    u "Qu'est-ce que tu racontes? Tu viens probablement de voir mon pied."
 
 # game/v2/v2.rpy:3870
 translate francais v1_caughtContinue_pen_9c9b0acb:
@@ -3452,7 +3452,7 @@ translate francais v1_caughtContinue_pen_9c9b0acb:
 translate francais v1_caughtContinue_pen_7fb91ed5:
 
     # pe "I'm so sorry, I just... I just thought-"
-    pe "Je suis tellement désolé, j'ai juste... je pensais juste-"
+    pe "Je suis tellement désolée, j'ai juste... je pensais juste-"
 
 # game/v2/v2.rpy:3874
 translate francais v1_caughtContinue_pen_db62e527:
@@ -3482,7 +3482,7 @@ translate francais v1_caughtContinue_pen_94a64fa7:
 translate francais v1_caughtContinue_pen_183d89ad:
 
     # pe "I don't know how to deal with this right now. Goodbye."
-    pe "I don't know how to deal with this right now. Goodbye."
+    pe "Je ne sais pas comment le prendre. Au revoir."
 
 # game/v2/v2.rpy:3894
 translate francais v1_caughtContinue_pen_948c682f_1:
@@ -3524,13 +3524,13 @@ translate francais buyCont_88654011:
 translate francais buyCont_b891b253:
 
     # ev "Yeah, it's no worry."
-    ev "Ouais, ce n'est pas un souci. "
+    ev "Oui, je vous en prie. "
 
 # game/v2/v2.rpy:3945
 translate francais buyCont_a6568aaa:
 
     # ev "Alright, here you go."
-    ev "Bon, voilà."
+    ev "Et voilà."
 
 # game/v2/v2.rpy:3950
 translate francais buyCont_9d654c2d:
@@ -3542,7 +3542,7 @@ translate francais buyCont_9d654c2d:
 translate francais buyCont_6e31d732:
 
     # ev "You too."
-    ev "A vous aussi."
+    ev "À vous aussi."
 
 # game/v2/v2.rpy:3960
 translate francais buyCont_01e623c3:
@@ -3554,7 +3554,7 @@ translate francais buyCont_01e623c3:
 translate francais buyCont_fa4d288f:
 
     # au "But I wouldn't mind doing something different than costume shopping next time."
-    au "Mais cela ne me dérangerait pas de faire quelque chose de différent que d'acheter des costumes la prochaine fois."
+    au "Mais ça ne me dérangerait pas de faire quelque chose de différent, la prochaine fois."
 
 # game/v2/v2.rpy:3970
 translate francais buyCont_c7296519:
@@ -3584,7 +3584,7 @@ translate francais v1_buyContinuePenelope_2f6dcc2a:
 translate francais v1_buyContinuePenelope_f53e85c0:
 
     # u "Oh shit. Yeah, of course."
-    u "Oh shit. Yeah, of course."
+    u "Oh merde. Oui, bien sûr."
 
 # game/v2/v2.rpy:4006
 translate francais v1_buyContinuePenelope_076106e2:
@@ -3602,7 +3602,7 @@ translate francais v1_buyContinuePenelope_d8c9d619:
 translate francais v1_buyContinuePenelope_c70c3763:
 
     # ev "Well I'm glad you guys found something."
-    ev "Eh bien, je suis content que vous ayez trouvé quelque chose."
+    ev "Je suis contente que vous ayez trouvé quelque chose."
 
 # game/v2/v2.rpy:4018
 translate francais v1_buyContinuePenelope_88654011:
@@ -3614,13 +3614,13 @@ translate francais v1_buyContinuePenelope_88654011:
 translate francais v1_buyContinuePenelope_b891b253:
 
     # ev "Yeah, it's no worry."
-    ev "Ouais, ce n'est pas un souci."
+    ev "Avec plaisir."
 
 # game/v2/v2.rpy:4028
 translate francais v1_buyContinuePenelope_a6568aaa:
 
     # ev "Alright, here you go."
-    ev "Bon, voilà."
+    ev "Et voilà."
 
 # game/v2/v2.rpy:4033
 translate francais v1_buyContinuePenelope_9d654c2d:
@@ -3632,7 +3632,7 @@ translate francais v1_buyContinuePenelope_9d654c2d:
 translate francais v1_buyContinuePenelope_6e31d732:
 
     # ev "You too."
-    ev "Toi aussi."
+    ev "À vous aussi."
 
 # game/v2/v2.rpy:4043
 translate francais v1_buyContinuePenelope_8a573f4f:
@@ -3644,25 +3644,25 @@ translate francais v1_buyContinuePenelope_8a573f4f:
 translate francais v1_buyContinuePenelope_6e568b1d:
 
     # pe "If you give me your number, I can let you know as soon as I have the money to pay you back."
-    pe "Si tu me donne ton numéro, je pourrai te faire savoir dès que j'aurai l'argent pour te rembourser."
+    pe "Si tu me donnes ton numéro, je pourrai te faire savoir dès que j'aurai l'argent pour te rembourser."
 
 # game/v2/v2.rpy:4053
 translate francais v1_buyContinuePenelope_7293f7e9:
 
     # u "Yeah sounds, good."
-    u "Yeah sounds, good."
+    u "Oui, pas de souci."
 
 # game/v2/v2.rpy:4055
 translate francais v1_buyContinuePenelope_c886ea6f:
 
     # u "I gotta go right here, so I'll see you later, okay?"
-    u "Je dois y aller, alors je te verrai plus tard, d'accord ?"
+    u "Je dois y aller, je te verrai plus tard, d'accord ?"
 
 # game/v2/v2.rpy:4060
 translate francais v1_buyContinuePenelope_fbd6f2bc:
 
     # pe "Okay, bye [name]."
-    pe "D'accord, au revoir [name]."
+    pe "Ok, au revoir [name]."
 
 # game/v2/v2.rpy:4068
 translate francais eve1_4746fd3b:
@@ -3698,37 +3698,37 @@ translate francais eve1_442380a5:
 translate francais eve1_a6568aaa:
 
     # ev "Alright, here you go."
-    ev "D'accord, tiens."
+    ev "Et voilà."
 
 # game/v2/v2.rpy:4100
 translate francais eve1_ee01f9b9:
 
     # u "Thanks."
-    u "Bon, voilà."
+    u "Merci"
 
 # game/v2/v2.rpy:4102
 translate francais eve1_dccecc65:
 
     # u "Hey, is there any chance I could get your number?"
-    u "Salut, y a-t-il une chance que je puisse obtenir ton numéro?"
+    u "Hé, y a-t-il une chance que tu me donnes ton numéro ?"
 
 # game/v2/v2.rpy:4107
 translate francais eve1_4251955d:
 
     # ev "I'm very flattered, but I'm 25 and you seem a bit too young for me."
-    ev "Je suis très flatté, mais j'ai 25 ans et tu sembles un peu trop jeune pour moi."
+    ev "Je suis très flattée, mais j'ai 25 ans et tu sembles un peu trop jeune pour moi."
 
 # game/v2/v2.rpy:4112
 translate francais eve1_c7a9cc52:
 
     # u "Give me one date to change your mind."
-    u "Donne-moi un rendez-vous pour changer d'avis."
+    u "Sortons un soir que je te fasse changer d'avis."
 
 # game/v2/v2.rpy:4114
 translate francais eve1_76b147b2:
 
     # u "Come on, it'll be fun."
-    u "Allez, ça va être amusant."
+    u "Pourquoi pas ? Ça va être amusant."
 
 # game/v2/v2.rpy:4116
 translate francais eve1_b70f8686:
@@ -3740,19 +3740,19 @@ translate francais eve1_b70f8686:
 translate francais eve1_ab03e551:
 
     # u "Look, I don't know and you don't know me. I'm [name] and I'm just looking for someone to have a good time with."
-    u "Écoutez, je ne te connait pas et te ne me connais pas. Je me présente [name] et je cherche juste quelqu'un avec qui passer un bon moment."
+    u "Écoute, je ne te connais pas et te ne me connais pas. Je me présente [name] et je cherche juste quelqu'un avec qui passer une bonne soirée."
 
 # game/v2/v2.rpy:4130
 translate francais eve1_89d9b46a:
 
     # u "It's not gonna be the most exciting night of your life, and it's not gonna be a boring night at home playing jenga with the girls."
-    u "Ça ne va pas être la nuit la plus excitante de ta vie, et ça ne va pas être une nuit ennuyeuse à la maison à jouer au jenga avec les copines."
+    u "Ce ne sera pas forcément la soirée la plus excitante de ta vie, ni une soirée ennuyeuse à la maison à jouer au jenga avec tes copines."
 
 # game/v2/v2.rpy:4132
 translate francais eve1_3fcd6793:
 
     # u "What this night will do, is serve as a benchmark for future dates with me."
-    u "Ce que cette nuit va faire, c'est servir de référence pour les futur rendez-vous avec moi."
+    u "Ce que cette nuit va faire, c'est servir de référence pour les futurs rendez-vous avec moi."
 
 # game/v2/v2.rpy:4134
 translate francais eve1_6c6f5a99:
@@ -3764,13 +3764,13 @@ translate francais eve1_6c6f5a99:
 translate francais eve1_ecad669a:
 
     # ev "Damn, that was convincing. Okay, I'm in."
-    ev "Ok, c'était convaincant. D'accord, je suis partante."
+    ev "Ok, c'était convaincant. Je suis partante."
 
 # game/v2/v2.rpy:4141
 translate francais eve1_c9c5027b:
 
     # ev "I'll give you my number, but you better bring your A-game."
-    ev "Je te donnerai mon numéro, mais tu ferais mieux de sortir le grand jeu."
+    ev "Je vais te donner mon numéro, mais tu ferais mieux de sortir le grand jeu."
 
 # game/v2/v2.rpy:4146
 translate francais eve1_d39593f1:
@@ -3782,7 +3782,7 @@ translate francais eve1_d39593f1:
 translate francais eve1_a5a91d71:
 
     # ev "Well, I'm looking forward to it."
-    ev "Eh bien, j'attend de voir ça."
+    ev "Eh bien, j'attends de voir ça."
 
 # game/v2/v2.rpy:4156
 translate francais eve1_93dfeeeb:
@@ -3794,7 +3794,7 @@ translate francais eve1_93dfeeeb:
 translate francais eve1_a13f14ef:
 
     # u "(I'm getting really good at this flirting thing...)"
-    u "(Je deviens vraiment bon dans ce truc de flirt...)"
+    u "(Je deviens vraiment bon dans ce jeu de séduction...)"
 
 # game/v2/v2.rpy:4166
 translate francais eve1_f557a3ac:
@@ -3806,7 +3806,7 @@ translate francais eve1_f557a3ac:
 translate francais eve1_ca334630:
 
     # ev "Look, it's very cute that you'd do that for me, but I just don't think we'd be a great fit."
-    ev "Écoute, c'est très mignon que tu fasses ça pour moi, mais je ne pense pas qu'on conviendrait parfaitement."
+    ev "Écoute, c'est très mignon que tu fasses ça pour moi, mais je ne pense pas qu'on se conviendrait."
 
 # game/v2/v2.rpy:4173
 translate francais eve1_291f9cbd:
@@ -3818,7 +3818,7 @@ translate francais eve1_291f9cbd:
 translate francais eve1_9f0efd63:
 
     # u "Oh okay... I guess I'll see you around."
-    u "Oh d'accord... Je suppose qu'on se vera plus tard."
+    u "Oh ok... Je suppose qu'on se reverra."
 
 # game/v2/v2.rpy:4180
 translate francais eve1_5c75aca5:
@@ -3854,13 +3854,13 @@ translate francais v1_endShop_a063467e:
 translate francais v1_endShop_75de082c:
 
     # u "Really? Is that what I'm gonna be known for from now on?"
-    u "Ah bon ? C'est à ce titre que je vais être connu à partir de maintenant ?"
+    u "Sérieux ? C'est pour ça que je vais être connu à partir de maintenant ?"
 
 # game/v2/v2.rpy:4217
 translate francais v1_endShop_69a2e875:
 
     # ch "It doesn't have to be."
-    ch "Cela ne devrait pas être ainsi."
+    ch "Ce n'est pas obligé d'être le cas."
 
 # game/v2/v2.rpy:4219
 translate francais v1_endShop_98f1162f:
@@ -3872,7 +3872,7 @@ translate francais v1_endShop_98f1162f:
 translate francais v1_endShop_af56f0be:
 
     # ch "If you're the right fit, you'll become one of us and trust me, next year a Wolf is gonna beat the shit out of Grayson and take the fucking crown."
-    ch "Si tu est la bonne personne, tu deviendra l'un des nôtres et crois-moi, l'année prochaine, un des Wolves va battre Grayson et prendre sa putain de couronne."
+    ch "Si tu es la bonne personne, tu deviendras l'un des nôtres et crois-moi, l'année prochaine, un des Wolves va battre Grayson et prendre sa putain de couronne."
 
 # game/v2/v2.rpy:4226
 translate francais v1_endShop_49a9e742:
@@ -3890,7 +3890,7 @@ translate francais v1_endShop_f229e5b4:
 translate francais v1_endShop_a2c87577:
 
     # u "(Hmmm...)"
-    u "(Mmmh...)"
+    u "(Hummm...)"
 
 # game/v2/v2.rpy:4241
 translate francais v1_endShop_24b804e1:
@@ -3902,11 +3902,11 @@ translate francais strings:
 
     # game/v2/v2.rpy:6
     old "Look, I know what Grayson did was a dick move, but he was just being overprotective of Chloe"
-    new "Écoute, je sais que ce que Grayson a fait était un coup de pute, mais il est juste surprotecteur envers Chloe"
+    new "Écoute, je sais que ce que Grayson a fait était un coup de pute, mais il est juste surprotecteur envers Chloé"
 
     # game/v2/v2.rpy:7
     old "Whatever"
-    new "Quand bien même"
+    new "Quoi qu'il en soit"
 
     # game/v2/v2.rpy:8
     old "Don't you dare defend that guy"
@@ -3922,7 +3922,7 @@ translate francais strings:
 
     # game/v2/v2.rpy:36
     old "It's fine, you go get her."
-    new "C'est bon, tu l'aura."
+    new "C'est bon, tu l'auras."
 
     # game/v2/v2.rpy:40
     old "Nah, you don't want a bitch like her."
@@ -3950,11 +3950,11 @@ translate francais strings:
 
     # game/v2/v2.rpy:59
     old "Yeah, I mean they had a thing a while ago but she broke it off 'cause he lied about some shit."
-    new "Ouais, je veux dire qu'ils ont eu un truc il y a quelque temps mais elle a rompu parce qu'il a menti à propos d'une connerie."
+    new "Oui, il y a eu un truc entre eux il y a un moment mais elle a rompu parce qu'il a menti sur des trucs."
 
     # game/v2/v2.rpy:60
     old "So... tomorrow?"
-    new "Alors... demain?"
+    new "Alors... demain ?"
 
     # game/v2/v2.rpy:61
     old "My day tomorrow is quite full, but how about today?\n\nI need to buy a costume."
@@ -3966,11 +3966,11 @@ translate francais strings:
 
     # game/v2/v2.rpy:66
     old "I'm not talking tonight, I can pick you up right now."
-    new "Je ne parle pas ce soir, je peux venir te chercher tout de suite."
+    new "Je ne parle pas de ce soir, je peux venir te chercher tout de suite."
 
     # game/v2/v2.rpy:67
     old "Oh wow, that's spontaneous, I like it haha.\n\nI guess come to the Chicks' house whenever you're ready and then we can go costume shopping."
-    new "Oh waou, c'est spontané, j'aime ça haha.\n\nJe suppose que tu viendra chez les filles quand tu sera prêt et ensuite nous pourrons aller acheter nos costumes."
+    new "Oh wahou, c'est spontané, j'aime ça haha.\n\nViens chez les Chicks dès que tu es prêt et on ira acheter des costumes."
 
     # game/v2/v2.rpy:68
     old "Cool, I'll be 20 mins."
@@ -3982,11 +3982,11 @@ translate francais strings:
 
     # game/v2/v2.rpy:78
     old "Oh, okay. Guess we'll have to postpone the costume buying."
-    new "Oh d'accord. Je suppose que nous devrons reporter l'achat des costumes."
+    new "Oh d'accord. Je crois que nous devrons reporter l'achat des costumes."
 
     # game/v2/v2.rpy:139
     old "Hmm... maybe."
-    new "Hmm peut-être."
+    new "Hmm... peut-être."
 
     # game/v2/v2.rpy:139
     old "I'm not fighting."
@@ -4010,7 +4010,7 @@ translate francais strings:
 
     # game/v2/v2.rpy:198
     old "No, wtf was that?! Fuck Grayson and fuck the Apes"
-    new "Non, c'était quoi ce bordel ?! Grayson peut aller se faire foutre et ses Apes avec"
+    new "Non, c'était quoi ce bordel ?! Grayson peut aller se faire foutre et ses Apes avec lui"
 
     # game/v2/v2.rpy:201
     old "Is everything okay?"
@@ -4018,11 +4018,7 @@ translate francais strings:
 
     # game/v2/v2.rpy:202
     old "Yeah, I'm fine."
-    new "Ouai, je vais bien"
-
-    # game/v2/v2.rpy:203
-    old "Okay..."
-    new "Ok..."
+    new "Ouais, je vais bien"
 
     # game/v2/v2.rpy:206
     old "Hello?? Can we please talk today?"
@@ -4050,7 +4046,7 @@ translate francais strings:
 
     # game/v2/v2.rpy:1069
     old "Kick him"
-    new "Lui mettre un coup de pied"
+    new "Frappe-le"
 
     # game/v2/v2.rpy:1177
     old "There was something there."
@@ -4058,11 +4054,11 @@ translate francais strings:
 
     # game/v2/v2.rpy:1177
     old "Let's forget about it."
-    new "Oublions çà."
+    new "Oublions tout ça.."
 
     # game/v2/v2.rpy:1266
     old "Give me a chance."
-    new "Donnes moi une chance."
+    new "Donne moi une chance."
 
     # game/v2/v2.rpy:1373
     old "Dude, I talked to this Aubrey chick the entire night and guess who's number she wanted..."
@@ -4070,7 +4066,7 @@ translate francais strings:
 
     # game/v2/v2.rpy:1374
     old "YOURS"
-    new "LE TIENS"
+    new "LE TIEN"
 
     # game/v2/v2.rpy:1375
     old "What a bitch..."
@@ -4090,7 +4086,7 @@ translate francais strings:
 
     # game/v2/v2.rpy:1816
     old "No, sorry."
-    new "Non désolé."
+    new "Non, désolé."
 
     # game/v2/v2.rpy:1889
     old "Yeah, of course. (joke)"
@@ -4110,7 +4106,7 @@ translate francais strings:
 
     # game/v2/v2.rpy:2106
     old "Sure, knock yourself out."
-    new "Bien sûr, tape toi là."
+    new "Bien sûr, fais-toi plaisir."
 
     # game/v2/v2.rpy:2106
     old "Stay away from her."
@@ -4118,7 +4114,7 @@ translate francais strings:
 
     # game/v2/v2.rpy:2150
     old "Tell Emily about Benjamin"
-    new "Parlez à Emily de Benjamin"
+    new "Parle à Emily de Benjamin"
 
     # game/v2/v2.rpy:2150
     old "Don't tell Emily"
@@ -4130,7 +4126,7 @@ translate francais strings:
 
     # game/v2/v2.rpy:2343
     old "He's not even dating Chloe and you guys didn't even do anything so I don't know what he was thinking.\n\nAnyway, do you wanna like... hang out tomorrow?"
-    new "Il ne sort même pas avec Chloe et vous n'avez rien fait de mal, donc je ne sais pas à quoi il pensait.\n\nQuoi qu'il en soit, veux-tu... comme qui dirait sortir demain ?"
+    new "Il ne sort même pas avec Chloé et vous n'avez rien fait de mal, donc je ne sais pas à quoi il pensait.\n\nBref, tu veux... qu'on se voie demain ?"
 
     # game/v2/v2.rpy:2344
     old "Wait they're not dating?"
@@ -4146,19 +4142,19 @@ translate francais strings:
 
     # game/v2/v2.rpy:2514
     old "Sorry, something came up and I can't make it."
-    new "Désolé, quelque chose est arrivé et je ne peux pas le faire."
+    new "Désolé, j'ai eu un empêchement et je ne peux pas venir."
 
     # game/v2/v2.rpy:2742
     old "Risk it"
-    new "Tenter le coups"
+    new "Tenter le coup"
 
     # game/v2/v2.rpy:2742
     old "Stop peeking"
-    new "Arrêter"
+    new "Arrêter de regarder."
 
     # game/v2/v2.rpy:2792
     old "It's kinda hot."
-    new "C'est un peu chaud."
+    new "C'est plutôt chaud."
 
     # game/v2/v2.rpy:2792
     old "It's definitely something."
@@ -4182,11 +4178,11 @@ translate francais strings:
 
     # game/v2/v2.rpy:3349
     old "You look beautiful."
-    new "Tu est belle."
+    new "Tu es belle."
 
     # game/v2/v2.rpy:3349
     old "I guess it's nice"
-    new "Je suppose que c'est sympa"
+    new "Je pense que c'est sympa"
 
     # game/v2/v2.rpy:3712
     old "Deny it"
@@ -4194,13 +4190,195 @@ translate francais strings:
 
     # game/v2/v2.rpy:4092
     old "Make a move."
-    new "Être entreprenant"
+    new "Tenter le coup"
 
     # game/v2/v2.rpy:4121
     old "Be smart"
-    new "Être intelligent"
+    new "Être malin"
 
     # game/v2/v2.rpy:4121
     old "Be funny"
     new "Être amusant"
 
+# : Translation updated at 2021-11-19 17:55
+
+# game/v2/v2.rpy:1165
+translate francais meet_lauren2_53160b56:
+
+    # la "Ugh okay... I hope that's true. Anyway..."
+    la "Ugh okay... J'espère que c'est vrai. En tout cas..."
+
+# game/v2/v2.rpy:1455
+translate francais history2_75e4dd00:
+
+    # u "Thanks... and I don't know if he was an Ape, but he was also at the party and he started insulting me on my way to meet with Lauren."
+    u "Merci... et je ne sais pas si c'était un Ape, mais il était aussi à la fête et il a commencé à m'insulter sur le chemin quand j'allais voir Lauren."
+
+# game/v2/v2.rpy:2725
+translate francais try1new_5e7d2f55:
+
+    # u "(Holy shit, if I could just stick my head through a bit further, I could get a way better view.)"
+    u "(Putain de merde, si je pouvais passer ma tête un peu plus loin, j'aurais une bien meilleure vue.)"
+
+# game/v2/v2.rpy:2864
+translate francais try2new_25f84bf7:
+
+    # u "(Wow... if I could just stick my head through a bit further, I could get a way better view.)"
+    u "(Wow... si je pouvais passer ma tête un peu plus loin, je pourrais avoir une bien meilleure vue)."
+
+# game/v2/v2.rpy:3015
+translate francais try3new_935d041b:
+
+    # u "(Fuck... if I could just stick my head through a bit further, I could get a way better view.)"
+    u "(Putain... si je pouvais passer ma tête un peu plus loin, je pourrais avoir une bien meilleure vue)."
+
+# game/v2/v2.rpy:3398
+translate francais try5new_25f84bf7:
+
+    # u "(Wow... if I could just stick my head through a bit further, I could get a way better view.)"
+    u "(Wow... si je pouvais passer ma tête un peu plus loin, je pourrais avoir une bien meilleure vue)."
+
+# game/v2/v2.rpy:3534
+translate francais try6new_935d041b:
+
+    # u "(Fuck... if I could just stick my head through a bit further, I could get a way better view.)"
+    u "(Putain... si je pouvais passer ma tête un peu plus loin, je pourrais avoir une bien meilleure vue)."
+# TODO: Translation updated at 2022-01-18 10:42
+
+# game/v2/v2.rpy:2700
+translate francais try1done_99e8b499:
+
+    # u "(Yeah- still look the same as a viking as I did before.)"
+    u "(Oui, j'ai toujours l'air d'un viking comme avant.)"
+
+# game/v2/v2.rpy:2702
+translate francais try1done_5fa5fedc:
+
+    # u "(I should really just choose a costume to buy.)"
+    u "(Je devrais vraiment juste me choisir un costume.)"
+
+# game/v2/v2.rpy:2839
+translate francais try2done_f4682677:
+
+    # u "(I mean looking at the Knight costume now, I notice that...)"
+    u "(Maintenant, en regardant le costume de Chevalier, je remarque que...)"
+
+# game/v2/v2.rpy:2841
+translate francais try2done_99bbfeb1:
+
+    # u "(... it looks exactly the same as before.)"
+    u "(... il ressemble exactement à ceux d'autrefois.)"
+
+# game/v2/v2.rpy:2994
+translate francais try3done_7329024c:
+
+    # u "(The more I wear this, the more I feel like I would make a great cowboy.)"
+    u "(Plus je porte ça, plus j'ai l'impression que je ferais un super cow-boy.)"
+
+# game/v2/v2.rpy:3234
+translate francais try4done_0d76acd2:
+
+    # u "(Yeah- still look the same as a Viking as I did before.)"
+    u "(Oui, j'ai le même look de Viking qu'avant.)"
+
+# game/v2/v2.rpy:3236
+translate francais try4done_5fa5fedc:
+
+    # u "(I should really just choose a costume to buy.)"
+    u "(Je devrais vraiment juste me choisir un costume.)"
+
+# game/v2/v2.rpy:3379
+translate francais try5done_f4682677:
+
+    # u "(I mean looking at the Knight costume now, I notice that...)"
+    u "(Maintenant, en regardant le costume de Chevalier, je remarque que...)"
+
+# game/v2/v2.rpy:3381
+translate francais try5done_99bbfeb1:
+
+    # u "(... it looks exactly the same as before.)"
+    u "(... il ressemble exactement à ceux d'autrefois.)"
+
+# game/v2/v2.rpy:3518
+translate francais try6done_7329024c:
+
+    # u "(The more I wear this, the more I feel like I would make a great cowboy.)"
+    u "(Plus je porte ça, plus j'ai l'impression que je ferais un super cow-boy.)"
+
+translate francais strings:
+
+    # game/v2/v2.rpy:140
+    old "Hmm... maybe"
+    new "Hmm... peut-être"
+
+    # game/v2/v2.rpy:140
+    old "I'm not fighting"
+    new "Je ne me bats pas"
+
+    # game/v2/v2.rpy:166
+    old "I won't fight"
+    new "Je ne veux pas me battre"
+
+    # game/v2/v2.rpy:1173
+    old "There was something there"
+    new "Il y avait quelque chose là"
+
+    # game/v2/v2.rpy:1173
+    old "Let's forget about it"
+    new "Oublions tout ça"
+
+    # game/v2/v2.rpy:1262
+    old "Give me a chance"
+    new "Donne-moi une chance"
+
+    # game/v2/v2.rpy:1808
+    old "Okay, I guess"
+    new "Ok, je pense"
+
+    # game/v2/v2.rpy:1808
+    old "No, sorry"
+    new "Non, désolé"
+
+    # game/v2/v2.rpy:1881
+    old "I'm still single"
+    new "Je suis toujours célibataire"
+
+    # game/v2/v2.rpy:1956
+    old "It was adorable"
+    new "C'était adorable"
+
+    # game/v2/v2.rpy:1956
+    old "It was so funny"
+    new "C'était tellement drôle"
+
+    # game/v2/v2.rpy:2098
+    old "Sure, knock yourself out"
+    new "Bien sûr, fais-toi plaisir"
+
+    # game/v2/v2.rpy:2098
+    old "Stay away from her"
+    new "reste loin d'elle"
+
+    # game/v2/v2.rpy:2776
+    old "It's kinda hot"
+    new "C'est plutôt chaud"
+
+    # game/v2/v2.rpy:2776
+    old "It's definitely something"
+    new "C'est vraiment quelque chose"
+
+    # game/v2/v2.rpy:2912
+    old "looking mighty fine"
+    new "il a l'air très bien"
+
+    # game/v2/v2.rpy:2912
+    old "certainly practical"
+    new "certainement pratique"
+
+    # game/v2/v2.rpy:3062
+    old "Oh come on"
+    new "Oh, allez"
+
+    # game/v2/v2.rpy:3320
+    old "You look beautiful"
+    new "Tu es magnifique"

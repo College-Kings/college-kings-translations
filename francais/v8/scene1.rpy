@@ -1,22 +1,22 @@
-﻿# TODO: Translation updated at 2021-06-05 20:30
+﻿# TODO: Translation updated at 2021-11-24 09:15
 
 # game/v8/scene1.rpy:22
 translate francais v8_la_start_d4dac734:
 
     # u "I like the sound of that."
-    u "J'aime bien cette idée."
+    u "Cette nuit me plait."
 
 # game/v8/scene1.rpy:40
 translate francais v8_la_start_0972f814:
 
     # u "God, you're beautiful."
-    u "Dieu que tu es belle."
+    u "Whaou, tu es magnifique."
 
 # game/v8/scene1.rpy:54
 translate francais v8_la_start_8e9a48fa:
 
     # la "You're a great kisser, you know that?"
-    la "Tu embrasses bien, tu le sais ça ?"
+    la "Tu embrasses bien, tu sais ça ?"
 
 # game/v8/scene1.rpy:58
 translate francais v8_la_start_cd9a1f92:
@@ -28,7 +28,7 @@ translate francais v8_la_start_cd9a1f92:
 translate francais v8_la_start_ffe6a51b:
 
     # la "Oh, reeaaally?"
-    la "Oh, vraiment ?"
+    la "Oh, vraiiiiment ?"
 
 # game/v8/scene1.rpy:86
 translate francais v8_la_start_339b1fe2:
@@ -46,7 +46,7 @@ translate francais v8_la_start_756a91b6:
 translate francais v8_la_start_a1e848d2:
 
     # la "*Chuckles*"
-    la "*Rires*"
+    la "*Rire*"
 
 # game/v8/scene1.rpy:99
 translate francais v8_la_start_2e515dd6:
@@ -58,19 +58,19 @@ translate francais v8_la_start_2e515dd6:
 translate francais v8_la_start_f27f4094:
 
     # u "Yeah, yeah me too."
-    u "ouai, ouai moi aussi."
+    u "ouais, ouais moi aussi."
 
 # game/v8/scene1.rpy:107
 translate francais v8_la_start_7b44a356:
 
     # la "And maybe even something mo- *yaaawn*"
-    la "Et peut-être même quelque chose de *baillements*"
+    la "Et peut-être même quelque chose de plus- *baille*"
 
 # game/v8/scene1.rpy:111
 translate francais v8_la_start_2b1170f7:
 
     # u "You tired?"
-    u "Tu est crevée ?"
+    u "Tu es fatiguée ?"
 
 # game/v8/scene1.rpy:115
 translate francais v8_la_start_5ce36c46:
@@ -184,13 +184,13 @@ translate francais v8_la_start_50e94f3d:
 translate francais v8_la_start_5edcd870:
 
     # la "Thanks babe... Ugh. I need to start getting ready."
-    la "Merci bébé... Euh. Je dois commencer à me préparer."
+    la "Merci bébé... Euh... Je dois commencer à me préparer."
 
 # game/v8/scene1.rpy:223
 translate francais v8_la_start_f0a21e59:
 
     # la "Although... on the other hand, laying here with you all day would be nice. Hah-"
-    la "Bien que... d'un autre côté, rester ici avec toi toute la journée serait bien. Hah-"
+    la "Bien que... d'un autre côté, j'aimerais rester ici avec toi toute la journée."
 
 # game/v8/scene1.rpy:227
 translate francais v8_la_start_8e745126:
@@ -215,4 +215,3 @@ translate francais v8_la_start_e1040739:
 
     # la "Okay babe. Byeee."
     la "Ok bébé. Au revoir."
-
