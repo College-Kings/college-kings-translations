@@ -64,13 +64,13 @@ translate francais v10_mc_pen_call_d32187da:
 translate francais v10_mc_pen_call_4df4e90d:
 
     # pe "*Sighs* Do you practice these speeches?"
-    pe "*Soupirs* Est-ce que tu répètes tout ces discours de soutien ?"
+    pe "*Soupirs* Est-ce que tu répètes ces discours ?"
 
 # game/v10/scene41.rpy:65
 translate francais v10_mc_pen_call_3ad3758a:
 
     # u "Maybe. For real though, you're an amazing student and the college benefits from you being here."
-    u "Peut-être. Mais en réalité, tu es une étudiante formidable et l'université a besoin de ta présence ici."
+    u "Peut-être. Mais en réalité, tu es une étudiante formidable et l'université profite de ta présence ici."
 
 # game/v10/scene41.rpy:66
 translate francais v10_mc_pen_call_667c120f:
@@ -100,7 +100,7 @@ translate francais v10_mc_pen_call_2bc291b0:
 translate francais v10_mc_pen_call_dd92d4b5:
 
     # pe "Thank you [name]. I'm glad I called you, I feel a bit more relaxed now. Enough to get some sleep. I probably won't get much though,"
-    pe "Merci [name]. Je suis contente de t'avoir appelé, je me sens un peu plus détendue maintenant. Assez pour dormir un peu. Mais il est probable que je ne dormirai pas beaucoup."
+    pe "Merci [name]. Je suis contente de t'avoir appelé, je me sens un peu plus détendue maintenant. Assez pour dormir un peu. Mais il est probable que je ne dormirai pas beaucoup,"
 
 # game/v10/scene41.rpy:87
 translate francais v10_mc_pen_call_8d7e0a44:

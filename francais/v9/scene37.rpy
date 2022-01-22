@@ -64,7 +64,7 @@ translate francais v9_run_w_ryan_892195fa:
 translate francais v9_run_w_ryan_c27e54f0:
 
     # imre "Not in the mood for distractions today, especially from traitors."
-    imre "J' suis pas d'humeur à me laisser distraire aujourd'hui, surtout par des traîtres."
+    imre "Je ne suis pas d'humeur à me laisser distraire aujourd'hui, surtout par des traîtres."
 
 # game/v9/scene37.rpy:82
 translate francais v9_run_w_ryan_a4aa93f4:
@@ -76,13 +76,13 @@ translate francais v9_run_w_ryan_a4aa93f4:
 translate francais v9_run_w_ryan_387289b7:
 
     # imre "Watch your fucking mouth! I don't need a reason to whoop your ass. I'm not in the mood!"
-    imre "Surveille ta putain de gueule ! J'ai pas besoin d'une raison pour te botter le cul. J'suis pas d'humeur !"
+    imre "Surveille ta putain de bouche ! Je n'ai pas besoin d'une raison pour te botter le cul. Je ne suis pas d'humeur !"
 
 # game/v9/scene37.rpy:92
 translate francais v9_run_w_ryan_6988c1b3:
 
     # imre "Well, you better get in the mood cause the minute I get a chance to put my hands on you it's gonna be lights out."
-    imre "Eh bien, tu f'rais mieux de te mettre dans l'ambiance parce que dès qu'j'aurai l'occasion de poser mes mains sur toi, ce sera : extinction des feux."
+    imre "Eh bien, tu ferais mieux de te mettre dans l'ambiance parce que dès que j'aurai l'occasion de poser mes mains sur toi, ce sera : extinction des feux."
 
 # game/v9/scene37.rpy:97
 translate francais v9_run_w_ryan_653423c5:

@@ -52,7 +52,7 @@ translate francais v10_autumn_announcement_88005043:
 translate francais v10_autumn_announcement_4e8039a8:
 
     # aut "Someone's excited! *Laughs*"
-    aut "Ah, quelqu'un est excité ! *Rire*"
+    aut "Quelqu'un est excité ! *Rire*"
 
 # game/v10/scene34.rpy:57
 translate francais v10_autumn_announcement_af2309d6:
@@ -172,7 +172,7 @@ translate francais v10_autumn_announcement_cd4fb112:
 translate francais v10_autumn_announcement_3ec3ca6e:
 
     # imre "Boo! No rules!"
-    imre "BOUUUUH ! PAS DE RÈGLES !"
+    imre "Bouuuuh ! Pas de règles !"
 
 # game/v10/scene34.rpy:211
 translate francais v10_autumn_announcement_02b2bfc5:
@@ -196,7 +196,7 @@ translate francais v10_autumn_announcement_f4df23d7:
 translate francais v10_autumn_announcement_49fe2c27:
 
     # imre "Bro are you gay? What are these rules?"
-    imre "Mon frère, t'es gay ? C'est quoi ces règles ?"
+    imre "Mon frère, tu es gay ? C'est quoi ces règles ?"
 
 # game/v10/scene34.rpy:228
 translate francais v10_autumn_announcement_ae52cd45:

@@ -106,7 +106,7 @@ translate francais v9_dinner_w_rose_a4bb6d19:
 translate francais v9_dinner_w_rose_ed55e7e3:
 
     # imre "You're always starving! You should get checked for a tapeworm!"
-    imre "T'es toujours affamé ! Tu devrais te faire examiner pour le ver solitaire !"
+    imre "Tu es toujours affamé ! Tu devrais te faire examiner pour le ver solitaire !"
 
 # game/v9/scene23.rpy:125
 translate francais v9_dinner_w_rose_a29c7a90:
@@ -142,7 +142,7 @@ translate francais v9_dinner_w_rose_6a8b117b:
 translate francais v9_dinner_w_rose_e5c077cf:
 
     # imre "You getting nervous about... Saturday?"
-    imre "T'es nerveux pour... samedi ?"
+    imre "Tu deviens nerveux pour... samedi ?"
 
 # game/v9/scene23.rpy:167
 translate francais v9_dinner_w_rose_1e99b15b:
@@ -154,13 +154,13 @@ translate francais v9_dinner_w_rose_1e99b15b:
 translate francais v9_dinner_w_rose_5d91646b:
 
     # imre "Yeah, I'm nervous too. If I get my ass beat, I'll never get laid again!"
-    imre "Ouais, j'suis nerveux aussi. Si je me fais battre, je ne pourrai plus jamais baiser de ma vie !"
+    imre "Ouais, je suis nerveux aussi. Si je me fais battre, je ne pourrai plus jamais baiser !"
 
 # game/v9/scene23.rpy:177
 translate francais v9_dinner_w_rose_c4faca50:
 
     # u "*Laughs* I'm sure some desperate virgin will have pity on you."
-    u "*Rire* Je suis sûr qu'une vierge désespérée aura tout de même pitié de toi."
+    u "*Rire* Je suis sûr qu'une vierge désespérée aura pitié de toi."
 
 # game/v9/scene23.rpy:183
 translate francais v9_dinner_w_rose_2bbe5faf:
@@ -172,19 +172,19 @@ translate francais v9_dinner_w_rose_2bbe5faf:
 translate francais v9_dinner_w_rose_d01ef9fb:
 
     # imre "I thought it was fun. A great change from his usual classes."
-    imre "J'ai trouvé ça marrantt. C'était un grand changement par rapport à ses cours habituels."
+    imre "J'ai trouvé ça amusant. Un grand changement par rapport à ses cours habituels."
 
 # game/v9/scene23.rpy:193
 translate francais v9_dinner_w_rose_a9902111:
 
     # u "Yeah, I had a blast coming up with the scene, but having to get up in front of everyone. And those accents!"
-    u "Ouais, j'ai eu un plaisir fou à inventer la scène, mais devoir la jouer devant tout le monde... Et ces accents !"
+    u "Ouais, j'ai eu un plaisir fou à inventer la scène, mais à devoir me lever devant tout le monde... Et ces accents !"
 
 # game/v9/scene23.rpy:198
 translate francais v9_dinner_w_rose_ffddec28:
 
     # imre "We all sounded horrible. But I'm glad I didn't get stuck with Cameron."
-    imre "On avait tous l'air horrible. Mais j'suis content de ne pas avoir dû le faire avec Cameron."
+    imre "On avait tous l'air horrible. Mais je suis content de ne pas avoir dû le faire avec Cameron."
 
 # game/v9/scene23.rpy:203
 translate francais v9_dinner_w_rose_f5901b09:
@@ -196,13 +196,13 @@ translate francais v9_dinner_w_rose_f5901b09:
 translate francais v9_dinner_w_rose_8445dcfc:
 
     # imre "*Laughs* I don't think Cam has to try that hard to fail."
-    imre "*Rire* J'pense pas que Cam doive vraiment faire des efforts pour échouer."
+    imre "*Rires* Je ne pense pas que Cam ait besoin d'essayer si fort pour échouer."
 
 # game/v9/scene23.rpy:213
 translate francais v9_dinner_w_rose_44576609:
 
     # finn "It smells so good!"
-    finn "Ça sent trop bon !"
+    finn "Ça sent tellement bon !"
 
 # game/v9/scene23.rpy:218
 translate francais v9_dinner_w_rose_0e14f2d7:
@@ -232,7 +232,7 @@ translate francais v9_dinner_w_rose_886bf3fe:
 translate francais v9_dinner_w_rose_cd217aef:
 
     # u "You can always open a restaurant if you get tired of dealing with college kids, Ms. Rose."
-    u "Mme Rose, vous pourrez toujours ouvrir un restaurant, si vous en avez assez des étudiants."
+    u "Vous pouvez toujours ouvrir un restaurant si vous en avez assez des étudiants, Mme Rose."
 
 # game/v9/scene23.rpy:243
 translate francais v9_dinner_w_rose_24900a4d:
@@ -286,13 +286,13 @@ translate francais v9_dinner_w_rose_3074c699:
 translate francais v9_dinner_w_rose_88c5135e:
 
     # ch "Me too. I can't move."
-    ch "Moi aussi. Je ne peux plus bouger."
+    ch "Moi aussi. Je ne peux pas bouger."
 
 # game/v9/scene23.rpy:288
 translate francais v9_dinner_w_rose_3d56ad80:
 
     # ro "Don't give up now. I haven't served dessert."
-    ro "N'abandonnez pas maintenant. Je n'ai pas encore servi le dessert."
+    ro "N'abandonnez pas maintenant. Je n'ai pas servi le dessert."
 
 # game/v9/scene23.rpy:293
 translate francais v9_dinner_w_rose_caafb493:
@@ -304,7 +304,7 @@ translate francais v9_dinner_w_rose_caafb493:
 translate francais v9_dinner_w_rose_8aad783f:
 
     # imre "Still, Finn? How?"
-    imre "T'as encore faim, Finn ? Mais sérieux, comment tu fais ?"
+    imre "Encore, Finn ? Comment tu fais ?"
 
 # game/v9/scene23.rpy:303
 translate francais v9_dinner_w_rose_2dbe61c7:
@@ -340,7 +340,7 @@ translate francais v9_dinner_w_rose_15405f71:
 translate francais v9_dinner_w_rose_689508a3:
 
     # u "Wow, you did all this while unpacking? I would have burned the house down."
-    u "Wow, vous avez fait tout ça en déballant les cartons ? J'aurais mis le feu à la maison, moi."
+    u "Wow, vous avez fait tout ça en déballant les cartons ? J'aurais mis le feu à la maison."
 
 # game/v9/scene23.rpy:332
 translate francais v9_dinner_w_rose_ef4235f2:
@@ -352,7 +352,7 @@ translate francais v9_dinner_w_rose_ef4235f2:
 translate francais v9_dinner_w_rose_f230a3f7:
 
     # u "You certainly overdid yourself, Ms. Rose."
-    u "Vous vous êtes vraiment surpassée, Mme Rose."
+    u "Vous vous êtes certainement surpassée, Mme Rose."
 
 # game/v9/scene23.rpy:340
 translate francais v9_dinner_w_rose_ee86a75f:
@@ -370,19 +370,19 @@ translate francais v9_dinner_w_rose_c342059b:
 translate francais v9_dinner_w_rose_913310f8:
 
     # imre "It feels strange sitting here and not helping."
-    imre "Ça fait bizarre de rester assis ici et de ne pas l'aider."
+    imre "C'est étrange d'être assis ici et de ne pas aider."
 
 # game/v9/scene23.rpy:358
 translate francais v9_dinner_w_rose_9ec1522d:
 
     # u "That's what I was just thinking!"
-    u "C'est justement ce que je pensais !"
+    u "C'est ce que je pensais justement !"
 
 # game/v9/scene23.rpy:362
 translate francais v9_dinner_w_rose_5823b966:
 
     # finn "Did she look sad for a second when we were talking earlier?"
-    finn "A-t-elle eu l'air triste pendant une seconde quand nous parlions, tout à l'heure ?"
+    finn "A-t-elle eu l'air triste pendant une seconde quand nous parlions tout à l'heure ?"
 
 # game/v9/scene23.rpy:366
 translate francais v9_dinner_w_rose_a6235dc6:
@@ -412,7 +412,7 @@ translate francais v9_dinner_w_rose_9f1ebea2:
 translate francais v9_dinner_w_rose_741eba50:
 
     # imre "I'd be the size of a sumo wrestler if I grew up with Grandma Ruth!"
-    imre "J'aurais la taille d'un lutteur de sumo, si j'avais grandi avec mamie Ruth !"
+    imre "J'aurais la taille d'un lutteur de sumo si j'avais grandi avec mamie Ruth !"
 
 # game/v9/scene23.rpy:391
 translate francais v9_dinner_w_rose_c1beece0:
@@ -424,7 +424,7 @@ translate francais v9_dinner_w_rose_c1beece0:
 translate francais v9_dinner_w_rose_409d6bbb:
 
     # ch "Whoa! You actually filled Finn up, Ms. Rose! I don't think that's ever happened!"
-    ch "Whoa ! Il me semble que vous avez gavé Finn, Mme Rose ! Je ne pense pas que ça soit déjà arrivé !"
+    ch "Whoa ! Vous avez vraiment rempli Finn, Mme Rose ! Je ne pense pas que ça soit déjà arrivé !"
 
 # game/v9/scene23.rpy:401
 translate francais v9_dinner_w_rose_4ed93385:
@@ -454,7 +454,7 @@ translate francais v9_dinner_w_rose_980f9e07:
 translate francais v9_dinner_w_rose_243b2e31:
 
     # ro "How about a quick tour before the evening ends?"
-    ro "Que diriez-vous d'une visite rapide de la maison, avant la fin de la soirée ?"
+    ro "Que diriez-vous d'une visite rapide avant la fin de la soirée ?"
 
 # game/v9/scene23.rpy:438
 translate francais v9_dinner_w_rose_0bbb7a67:
@@ -490,7 +490,7 @@ translate francais v9_dinner_w_rose_a31b4951:
 translate francais v9_dinner_w_rose_06f11a54:
 
     # ch "Oh, no! Well, at least you got an upgrade out of the deal. I wish we'd have stayed to help you setup, though."
-    ch "Oh, non ! Eh bien, au moins vous avez obtenu une modernisation de l'affaire. J'aurais tout de même aimé qu'on reste pour vous aider à vous installer."
+    ch "Oh, non ! Eh bien, au moins vous avez obtenu une modernisation de l'affaire. J'aurais aimé qu'on reste pour vous aider à vous installer, cependant."
 
 # game/v9/scene23.rpy:468
 translate francais v9_dinner_w_rose_34b84b47:
@@ -502,7 +502,7 @@ translate francais v9_dinner_w_rose_34b84b47:
 translate francais v9_dinner_w_rose_e0984128:
 
     # imre "Thanks for the dinner. I don't think I'll be able to eat for a whole day."
-    imre "Merci pour le dîner. Maintenant, je pense que je ne pourrai pas réussir à manger pendant toute la journée de demain."
+    imre "Merci pour le dîner. Je pense que je ne pourrai pas manger pendant toute la journée de demain, maintenant."
 
 # game/v9/scene23.rpy:478
 translate francais v9_dinner_w_rose_87a2fb67:
@@ -538,7 +538,7 @@ translate francais v9_dinner_w_rose_ddaa6212:
 translate francais v9_dinner_w_rose_710b7d5c:
 
     # ro "You've helped me a lot, even more than the rest of the boys. When you took the time to really talk to me while we were moving, it meant a lot."
-    ro "Vous m'avez beaucoup aidé, encore plus que les autres garçons. Quand vous avez pris le temps de me parler pendant que nous déménagions, Ça m'a fait beaucoup de bien."
+    ro "Vous m'avez beaucoup aidé, encore plus que les autres garçons. Quand vous avez pris le temps de me parler pendant que nous déménagions, cela signifiait beaucoup."
 
 # game/v9/scene23.rpy:514
 translate francais v9_dinner_w_rose_4e520c3f:

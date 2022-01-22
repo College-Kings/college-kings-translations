@@ -58,7 +58,7 @@ translate empty v10_mc_vs_imre_fight_a8519fbf:
 translate empty v10_mc_vs_imre_fight_451b7f0d:
 
     # imre "Ready to get your ass kicked?"
-    imre "Prêt à t'faire défoncer la gueule ?"
+    imre "Prêt à te faire défoncer le cul ?"
 
 # game/v10/scene7.rpy:59
 translate empty v10_mc_vs_imre_fight_443ecaf0:
@@ -168,7 +168,7 @@ translate francais v10_mc_vs_imre_fight_a8519fbf:
 translate francais v10_mc_vs_imre_fight_451b7f0d:
 
     # imre "Ready to get your ass kicked?"
-    imre "Prêt à t'faire défoncer la gueule ?"
+    imre "Prêt à te faire défoncer le cul ?"
 
 # game/v10/scene7.rpy:59
 translate francais v10_mc_vs_imre_fight_443ecaf0:

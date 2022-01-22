@@ -22,13 +22,13 @@ translate francais v9_sat_cafe_w_nora_ac079442:
 translate francais v9_sat_cafe_w_nora_1264b6df:
 
     # no "And I know I shouldn't be jealous, but in a way I am. Like, if you have all this passion, love and attention to give, can some come my way?"
-    no "Et je sais que je ne devrais pas être jalouse, mais d'une certaine manière je le suis. Imagines, si tu avais toute cette passion, cet amour et cette attention à donner à ta fraternité, pourrais-tu en partager un peu avec moi ?"
+    no "Et je sais que je ne devrais pas être jalouse, mais d'une certaine manière je le suis. Comme, si tu avais toute cette passion, cet amour et cette attention à donner, pourrais-tu en partager avec moi ?"
 
 # game/v9/scene31.rpy:38
 translate francais v9_sat_cafe_w_nora_f7ecc16b:
 
     # u "I think you're right to see it the way you do. Your partner should come first regardless, and even though all of this seems important now, it's all temporary."
-    u "Je pense que tu as raison de voir les choses comme ça. Ton partenaire doit passer avant tout, et même si tout ça te semble important maintenant, ce n'est que temporaire."
+    u "Je pense que tu as raison de voir les choses comme tu le fais. Ton partenaire doit passer avant tout, et même si tout ça te semble important maintenant, ce n'est que temporaire."
 
 # game/v9/scene31.rpy:43
 translate francais v9_sat_cafe_w_nora_dd3f3a9e:
@@ -46,7 +46,7 @@ translate francais v9_sat_cafe_w_nora_c8e4e4ad:
 translate francais v9_sat_cafe_w_nora_1ab526a2:
 
     # waiter "Good morning, what can I get for the couple?"
-    waiter "Bonjour, est-ce que je peux prendre la commande des amoureux ?"
+    waiter "Bonjour, qu'est-ce que je peux commander pour le couple ?"
 
 # game/v9/scene31.rpy:62
 translate francais v9_sat_cafe_w_nora_44c25675:
@@ -64,25 +64,25 @@ translate francais v9_sat_cafe_w_nora_3c8f81cb:
 translate francais v9_sat_cafe_w_nora_2027a26c:
 
     # u "Any good news about Europe?"
-    u "Tu as de bonnes nouvelles de l'Europe ?"
+    u "De bonnes nouvelles de l'Europe ?"
 
 # game/v9/scene31.rpy:78
 translate francais v9_sat_cafe_w_nora_3bfd1c84:
 
     # no "It's going great! We almost have everything we need. I'm thinking about seeing if we can get a bit more involvement from the houses. I mentioned it to Chris, but he only said \"we'll get to that later\". It means a lot to me that you've taken an interest."
-    no "Ça se passe très bien ! Nous avons presque tout ce dont nous avons besoin. Je pense à voir si nous pouvons obtenir un peu plus d'implication de la part des fraternités. J'en ai parlé à Chris, mais il s'est contenté de dire \"on verra plus tard\". Ça signifie beaucoup pour moi que tu t'y intéresses."
+    no "Ça se passe très bien ! Nous avons presque tout ce dont nous avons besoin. Je pense à voir si nous pouvons obtenir un peu plus d'implication de la part des fraternités. J'en ai parlé à Chris, mais il s'est contenté de dire \"on verra plus tard\". Cela signifie beaucoup pour moi que tu t'y intéresses."
 
 # game/v9/scene31.rpy:81
 translate francais v9_sat_cafe_w_nora_6208327c:
 
     # no "It's going pretty good. Checking something off the list everyday."
-    no "Ça se passe plutôt bien. Tout les jours, je raye des choses de la liste de préparation."
+    no "Ça se passe plutôt bien. Je raye quelque chose de la liste tous les jours."
 
 # game/v9/scene31.rpy:86
 translate francais v9_sat_cafe_w_nora_97e99bbf:
 
     # u "Well I'm glad to hear it's all coming together."
-    u "Je suis heureux de savoir que tout se met en place."
+    u "Je suis heureux d'entendre que tout se met en place."
 
 # game/v9/scene31.rpy:91
 translate francais v9_sat_cafe_w_nora_20c7b874:
@@ -130,19 +130,19 @@ translate francais v9_sat_cafe_w_nora_76bba1c4:
 translate francais v9_sat_cafe_w_nora_3576a6fd:
 
     # no "I mentioned it to Chris, but he only said \"we'll get to that later\". It means a lot to me that you've taken an interest."
-    no "J'en ai parlé à Chris, mais il s'est contenté de dire \"on verra plus tard\". Ça signifie beaucoup pour moi que tu t'y intéresses."
+    no "J'en ai parlé à Chris, mais il s'est contenté de dire \"on verra plus tard\". Cela signifie beaucoup pour moi que tu t'y intéresses."
 
 # game/v9/scene31.rpy:137
 translate francais v9_sat_cafe_w_nora_6208327c_1:
 
     # no "It's going pretty good. Checking something off the list everyday."
-    no "Ça se passe plutôt bien. Tout les jours, je raye des choses de la liste de préparation"
+    no "Ça se passe plutôt bien. Je raye quelque chose de la liste tous les jours."
 
 # game/v9/scene31.rpy:142
 translate francais v9_sat_cafe_w_nora_97e99bbf_1:
 
     # u "Well I'm glad to hear it's all coming together."
-    u "Je suis heureux de savoir que tout se met en place."
+    u "Je suis heureux d'entendre que tout se met en place."
 
 # game/v9/scene31.rpy:147
 translate francais v9_sat_cafe_w_nora_20c7b874_1:
@@ -190,7 +190,7 @@ translate francais v9_sat_cafe_c68fb736:
 translate francais v9_sat_cafe_68ef14fe:
 
     # unknown "Hey, sorry but you're the guy that punched that other guy on Kiwii right?"
-    unknown "Hé, désolée de te déranger, mais tu es le type qui a frappé l'autre type, non ? J'ai vu la vidéo sur Kiwii."
+    unknown "Hé, désolée de te déranger, mais tu es le type qui a frappé l'autre type sur Kiwii, non ?"
 
 # game/v9/scene31.rpy:202
 translate francais v9_sat_cafe_7720a2b5:
@@ -226,7 +226,7 @@ translate francais v9_sat_cafe_d653b00c:
 translate francais v9_sat_cafe_8b513a1b:
 
     # unknown "You're the guy that got his ass kicked on Kiwii right?"
-    unknown "Tu es le gars qui s'est fait botter le cul, non ? J'ai vu la vidéo sur Kiwii."
+    unknown "Tu es le gars qui s'est fait botter le cul sur Kiwii, non ?"
 
 # game/v9/scene31.rpy:233
 translate francais v9_sat_cafe_9678d4dc:
@@ -256,11 +256,11 @@ translate francais strings:
 
     # game/v9/scene31.rpy:58
     old "Correct Waiter"
-    new "Corriger la serveuse"
+    new "Corriger le serveur"
 
     # game/v9/scene31.rpy:58
     old "Don't correct Waiter"
-    new "Ne pas corriger la serveuse"
+    new "Ne pas corriger le serveur"
 
 # TODO: Translation updated at 2021-11-19 17:55
 
@@ -268,20 +268,20 @@ translate francais strings:
 translate francais v9_sat_cafe_w_nora_92966436:
 
     # no "Do you really have to ask? We spent a lot of time together when we first started dating, but now it's like I'm second to the Wolves. And I know I shouldn't be jealous, but in a way I am. Like, if you have all this passion, love and attention to give, can some come my way?"
-    no "Tu veux vraiment en parler? On a passé beaucoup de temps ensemble quand on a commencé à sortir ensemble, mais maintenant c'est comme si je passais après les Wolves. Et je sais que je ne devrais pas être jalouse, mais d'une certaine manière je le suis. Si tu avais toute cette passion, cet amour et cette attention à donner, est-ce que tu pourrais en partager avec moi ?"
+    no "Tu veux vraiment en parler? On a passé beaucoup de temps ensemble quand on a commencé à sortir ensemble, mais maintenant c'est comme si je passais après les Wolves. Et je sais que je ne devrais pas être jalouse, mais d'une certaine manière je le suis. Si tu as toute cette passion, cet amour et cette attention à donner, est-ce que tu peux en partager avec moi ?"
 
 # game/v9/scene31.rpy:132
 translate francais v9_sat_cafe_w_nora_3bfd1c84_1:
 
     # no "It's going great! We almost have everything we need. I'm thinking about seeing if we can get a bit more involvement from the houses. I mentioned it to Chris, but he only said \"we'll get to that later\". It means a lot to me that you've taken an interest."
-    no "Ça se passe très bien ! Nous avons presque tout ce dont nous avons besoin. Je pense à voir si nous pouvons obtenir un peu plus d'implication de la part des fraternités. J'en ai parlé à Chris, mais il s'est contenté de dire \"on verra ça plus tard \". Ça signifie beaucoup pour moi que tu t'y intéresses."
+    no "Ça se passe très bien ! Nous avons presque tout ce dont nous avons besoin. Je pense à voir si nous pouvons obtenir un peu plus d'implication de la part des fraternités. J'en ai parlé à Chris, mais il s'est contenté de dire \"on verra ça plus tard \". Cela signifie beaucoup pour moi que tu t'y intéresses."
 
 translate francais strings:
 
     # game/v9/scene31.rpy:57
     old "Correct waiter"
-    new "Corriger la serveuse"
+    new "Corriger le serveur"
 
     # game/v9/scene31.rpy:57
     old "Don't correct waiter"
-    new "Ne pas corriger la serveuse"
+    new "Ne pas corriger le serveur"

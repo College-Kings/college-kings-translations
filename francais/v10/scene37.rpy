@@ -34,7 +34,7 @@ translate francais v10_riley_vs_amber_f40230b2:
 translate francais v10_riley_vs_amber_8a835070:
 
     # ri "Not so strong now though."
-    ri "Mais elle n'est plus aussi forte maintenant."
+    ri "Pas si forte maintenant."
 
 # game/v10/scene37.rpy:28
 translate francais v10_riley_vs_amber_f5f0487a:
@@ -58,7 +58,7 @@ translate francais v10_riley_vs_amber_19dfed92:
 translate francais v10_riley_vs_amber_66e4963f:
 
     # am "That was kinda hot?"
-    am "C'était un peu chaud, non ?"
+    am "C'était plutôt chaud ?"
 
 # game/v10/scene37.rpy:45
 translate francais v10_riley_vs_amber_724522dd:
@@ -76,7 +76,7 @@ translate francais v10_riley_vs_amber_67ac494a:
 translate francais v10_riley_vs_amber_ae083842:
 
     # u "(That's definitely something she'd do.)"
-    u "(C'est vraiment un truc qui lui ressemble.)"
+    u "(C'est définitivement quelque chose qu'elle ferait.)"
 
 # game/v10/scene37.rpy:57
 translate francais v10_riley_vs_amber_a710f1d7:
@@ -136,7 +136,7 @@ translate francais v10_riley_vs_amber_f533868f:
 translate francais v10_riley_vs_amber_547a01ca:
 
     # am "It wasn't against the rules, plus I was in the mood for a kiss."
-    am "Ce n'était pas contre les règles, et... J'avais juste envie de l'embrasser."
+    am "Ce n'était pas contre les règles, et j'avais juste envie d'un baiser."
 
 # game/v10/scene37.rpy:107
 translate francais v10_riley_vs_amber_65c43f73:
@@ -148,7 +148,7 @@ translate francais v10_riley_vs_amber_65c43f73:
 translate francais v10_riley_vs_amber_55c6197a:
 
     # am "*Chuckles* Maybe we will."
-    am "*Rire* Peut-être que nous le ferons... Un jour."
+    am "*Rire* Peut-être que nous le ferons."
 
 # game/v10/scene37.rpy:117
 translate francais v10_riley_vs_amber_05ba4240:
@@ -160,7 +160,7 @@ translate francais v10_riley_vs_amber_05ba4240:
 translate francais v10_riley_vs_amber_6a89bdc1:
 
     # aut "That was definitely exciting! I can tell my friend here enjoyed himself."
-    aut "C'était vraiment excitant ! Je peux dire que mon ami s'est bien amusé."
+    aut "C'était vraiment excitant ! Je peux dire que mon ami s'est amusé."
 
 # game/v10/scene37.rpy:127
 translate francais v10_riley_vs_amber_307feb21:
@@ -184,10 +184,10 @@ translate francais v10_riley_vs_amber_d02cb279:
 translate francais v10_riley_vs_amber_85b8b78e:
 
     # aut "That concludes this year's main event, though some of the stations will remain open a bit longer."
-    aut "Ceci conclut l'événement principal de cette année, même si certains stands resteront ouverts un peu plus longtemps."
+    aut "Cela conclut l'événement principal de cette année, même si certains stands resteront ouverts un peu plus longtemps."
 
 # game/v10/scene37.rpy:138
 translate francais v10_riley_vs_amber_c19ab11b:
 
     # aut "I want to thank everyone again for coming and for the donations."
-    aut "Je tiens à tous vous remercier une nouvelle fois, pour votre présence et vos dons."
+    aut "Je tiens à vous remercier une nouvelle fois pour votre présence et vos dons."

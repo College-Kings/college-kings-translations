@@ -124,7 +124,7 @@ translate francais v9_warehouse_lindsey_df7e2987:
 translate francais v9_warehouse_lindsey_029cb7e7:
 
     # u "(Am I nuts or was that a cold shoulder? Damn. I really want to fix it but I have to get ready.)"
-    u "(Je suis fou ou c'était une douche froide ? Merde. J'ai vraiment envie d'être fixé mais je dois me préparer.)"
+    u "(Je suis fou ou c'était une douche froide ? Mince. J'ai vraiment envie de réparer ça mais je dois me préparer)."
 
 # game/v9/scene44.rpy:135
 translate francais v9_warehouse_lindsey_a7fe1be1:

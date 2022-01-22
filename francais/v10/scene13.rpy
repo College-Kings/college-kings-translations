@@ -16,7 +16,7 @@ translate empty v10_wolves_redec_330c5ce3:
 translate empty v10_wolves_redec_db45c5a6:
 
     # u "Really!? Good timing haha. Got a theme in mind?"
-    u "Vraiment ? Bon timing haha. Tu as un thème en tête ?"
+    u "Vraiment ! ? Bon timing haha. Vous avez un thème en tête ?"
 
 # game/v10/scene13.rpy:38
 translate empty v10_wolves_redec_1f934751:
@@ -225,7 +225,7 @@ translate francais v10_wolves_redec_330c5ce3:
 translate francais v10_wolves_redec_db45c5a6:
 
     # u "Really!? Good timing haha. Got a theme in mind?"
-    u "Vraiment ? Bon timing haha. Tu as un thème en tête ?"
+    u "Vraiment ! ? Bon timing haha. Vous avez un thème en tête ?"
 
 # game/v10/scene13.rpy:40
 translate francais v10_wolves_redec_ba652299:

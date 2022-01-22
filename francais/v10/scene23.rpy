@@ -64,7 +64,7 @@ translate francais v10_aft_walk_home_c5eb8ee5:
 translate francais v10_aft_walk_home_fa623b6b:
 
     # jo "Look man, do we really have to talk about this?"
-    jo "Écoute mec, est-ce qu'on doit vraiment parler de ça ?"
+    jo "Ecoute mec, est-ce qu'on doit vraiment parler de ça ?"
 
 # game/v10/scene23.rpy:87
 translate francais v10_aft_walk_home_5c51c7d1:
@@ -160,7 +160,7 @@ translate francais v10_aft_walk_home_6c3909b1:
 translate francais v10_aft_walk_home_ee8ccbd6:
 
     # u "That'd be awesome. Shit, what's his name, maybe he can get me one too. *Chuckles*"
-    u "Ce serait génial. Merde, c'est quoi son nom, peut-être qu'il peut m'en avoir une aussi. *Rire*"
+    u "Ce serait génial. Merde, c'est quoi son nom, peut-être qu'il peut m'en avoir un aussi. *Rire*"
 
 # game/v10/scene23.rpy:155
 translate francais v10_aft_walk_home_53ab06a9:
@@ -172,7 +172,7 @@ translate francais v10_aft_walk_home_53ab06a9:
 translate francais v10_aft_walk_home_613e5cf3:
 
     # jo "Kinda reminds me of my dad, but more flexible."
-    jo "Il me rappelle un peu mon père, mais en plus souple."
+    jo "Ça me rappelle un peu mon père, mais en plus souple."
 
 # game/v10/scene23.rpy:162
 translate francais v10_aft_walk_home_ac1c8e41:
@@ -268,7 +268,7 @@ translate francais v10_aft_walk_home_cd8ca90a:
 translate francais v10_aft_walk_home_38548f95:
 
     # u "Sick, I'll let the organizers know."
-    u "T'es un malade... Je le ferai savoir aux organisateurs."
+    u "T'es malade, je le ferai savoir aux organisateurs."
 
 # game/v10/scene23.rpy:252
 translate francais v10_aft_walk_home_495be9a8:

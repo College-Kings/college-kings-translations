@@ -154,7 +154,7 @@ translate francais v9_call_w_lindsey_5788969f:
 translate francais v9_call_w_lindsey_9443a35c:
 
     # u "(Was she hinting at something? \"I could be even sweeter\", what does that mean? Oh well, time to get some rest. I got a big day tomorrow.)"
-    u "(A-t-elle fait allusion à quelque chose ? \"Je pourrais être encore plus gentille\", qu'est-ce que ça veut dire ? Oh bien, il est temps de se reposer. J'ai une grosse journée demain.)"
+    u "(A-t-elle fait allusion à quelque chose ? \"Je pourrais être encore plus douce\", qu'est-ce que ça veut dire ? Oh bien, il est temps de se reposer. J'ai une grosse journée demain.)"
 
 # game/v9/scene28.rpy:143
 translate francais v9_call_w_lindsey_71fbada3_1:
@@ -298,7 +298,7 @@ translate francais v9_call_w_lindsey_5788969f_1:
 translate francais v9_call_w_lindsey_9443a35c_1:
 
     # u "(Was she hinting at something? \"I could be even sweeter\", what does that mean? Oh well, time to get some rest. I got a big day tomorrow.)"
-    u "(A-t-elle fait allusion à quelque chose ? \"Je pourrais être encore plus gentille\", qu'est-ce que ça veut dire ? Oh bien, il est temps de se reposer. J'ai une grosse journée demain.)"
+    u "(A-t-elle fait allusion à quelque chose ? \"Je pourrais être encore plus douce\", qu'est-ce que ça veut dire ? Oh bien, il est temps de se reposer. J'ai une grosse journée demain.)"
 # TODO: Translation updated at 2022-01-18 10:42
 
 # game/v9/scene28.rpy:56

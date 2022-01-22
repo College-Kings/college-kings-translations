@@ -4,7 +4,7 @@
 translate francais v9_thur_room_w_cam_punch_df6e013f:
 
     # ca "[name], You're fucking famous!"
-    ca "[name], T'es célèbre, putain !"
+    ca "[name], Tu es célèbre, putain !"
 
 # game/v9/scene15.rpy:37
 translate francais v9_thur_room_w_cam_punch_8b258704:
@@ -22,7 +22,7 @@ translate francais v9_thur_room_w_cam_punch_1e28937f:
 translate francais v9_thur_room_w_cam_punch_08353e8d:
 
     # ca "No time for modesty now. You're hot shit right now!"
-    ca "Pas de temps pour la modestie, là. T'es chaud comme la braise en ce moment !"
+    ca "Pas de temps pour la modestie maintenant. Tu es chaud comme la braise en ce moment !"
 
 # game/v9/scene15.rpy:49
 translate francais v9_thur_room_w_cam_punch_23b24a74:
@@ -58,7 +58,7 @@ translate francais v9_thur_room_w_cam_brag_50a3a8d1:
 translate francais v9_thur_room_w_cam_brag_e2a1512e:
 
     # ca "What the hell happened?"
-    ca "Qu'est-ce qui s'est passé ?"
+    ca "Que s'est-il passé ?"
 
 # game/v9/scene15.rpy:84
 translate francais v9_thur_room_w_cam_brag_9d9b7a2c:
@@ -76,7 +76,7 @@ translate francais v9_thur_room_w_cam_brag_5dc5fb1a:
 translate francais v9_thur_room_w_cam_brag_6e21c6cd:
 
     # u "You saw, man. He ran his mouth and I taught him a lesson!"
-    u "Il a trop ouvert sa bouche, tu vois et je l'ai corrigé !"
+    u "T'as vu, mec. Il a trop ouvert sa bouche et je lui ai donné une leçon !"
 
 # game/v9/scene15.rpy:98
 translate francais v9_thur_room_w_cam_brag_6213bb73:
@@ -94,7 +94,7 @@ translate francais v9_thur_room_w_cam_humble_fd76e99c:
 translate francais v9_thur_room_w_cam_humble_7eb8ac15:
 
     # ca "You can say you'll do that again Saturday!"
-    ca "Tu peux dire que tu referas ça samedi ?!"
+    ca "Tu peux dire que tu le referas samedi ?!"
 
 # game/v9/scene15.rpy:114
 translate francais v9_thur_room_w_cam_humble_05dd5001:
@@ -112,13 +112,13 @@ translate francais v9_thur_room_w_cam_humble_af7c9971:
 translate francais v9_thur_room_w_cam_humble_adbad840:
 
     # u "Honestly, I don't know what happened. It all went so fast."
-    u "Franchement, je sais pas ce qui s'est passé. Tout est allé si vite."
+    u "Honnêtement, je ne sais pas ce qui s'est passé. Tout est allé si vite."
 
 # game/v9/scene15.rpy:126
 translate francais v9_thur_room_w_cam_humble_13756649:
 
     # ca "You hulked out!"
-    ca "Tu t'es déchaîné !"
+    ca "Tu t'es mis en avant !"
 
 # game/v9/scene15.rpy:130
 translate francais v9_thur_room_w_cam_humble_74406210:
@@ -130,7 +130,7 @@ translate francais v9_thur_room_w_cam_humble_74406210:
 translate francais v9_thur_room_w_cam_cont1_fbf23b68:
 
     # ca "I know where to put my money in the Freshman Brawl!"
-    ca "Maint'nant, j'sais où mettre mon argent dans le Freshman Brawl !"
+    ca "Je sais où mettre mon argent dans le Freshman Brawl !"
 
 # game/v9/scene15.rpy:143
 translate francais v9_thur_room_w_cam_cont1_fc66f20d:
@@ -142,13 +142,13 @@ translate francais v9_thur_room_w_cam_cont1_fc66f20d:
 translate francais v9_thur_room_w_cam_cont1_6345c97d:
 
     # u "I didn't do it on purpose. It just happened, but yeah, won't hurt."
-    u "Je ne l'ai pas fait exprès. C'est arrivé comme ça. Mais ouais, j'ai plutôt bien géré."
+    u "Je ne l'ai pas fait exprès. C'est juste arrivé, mais oui, ça ne fera pas de mal."
 
 # game/v9/scene15.rpy:151
 translate francais v9_thur_room_w_cam_cont1_32464462:
 
     # ca "We need to celebrate! Thirsty? I think this deserves a toast."
-    ca "On doit faire la fête ! T'as soif ? J'crois que ça mérite un toast."
+    ca "On a besoin de faire la fête ! T'as soif ? Je crois que ça mérite un toast."
 
 # game/v9/scene15.rpy:164
 translate francais v9_thur_room_w_cam_drink_e88b7368:
@@ -214,13 +214,13 @@ translate francais v9_thur_room_w_cam_cont2_79c2d87b:
 translate francais v9_thur_room_w_cam_cont2_91039168:
 
     # ca "Who told you about that? Grayson? That dick!"
-    ca "Qui t'a parlé de ça ? Grayson ? Quel connard !"
+    ca "Qui t'a parlé de ça ? Grayson ? Ce connard !"
 
 # game/v9/scene15.rpy:217
 translate francais v9_thur_room_w_cam_cont2_c98033bf:
 
     # u "I was just joking! Seemed like something you'd do, though."
-    u "Oh, je rigolais ! Mais apparemment, c'est quelque chose que tu ferais."
+    u "Je ne faisais que plaisanter ! Mais c'est apparemment quelque chose que tu ferais."
 
 # game/v9/scene15.rpy:224
 translate francais v9_thur_room_w_cam_no_punch_f624c5c1:
@@ -244,7 +244,7 @@ translate francais v9_thur_room_w_cam_no_punch_ef2f1671:
 translate francais v9_thur_room_w_cam_no_punch_7f0fd49c:
 
     # ca "It's all over school. You're a laughing stock! You've been an Ape for how long? Already embarrassing the house!"
-    ca "C'est partout dans l'école. T'es la risée de tous ! T'es un Ape depuis combien de temps, hein ? Tu fous déjà la honte à toute la maison !"
+    ca "C'est partout dans l'école. Tu es la risée de tous ! Tu es un Ape depuis combien de temps ? Tu fais déjà honte à la maison !"
 
 # game/v9/scene15.rpy:240
 translate francais v9_thur_room_w_cam_no_punch_1e28937f:
@@ -262,7 +262,7 @@ translate francais v9_thur_room_w_cam_no_punch_f04006e3:
 translate francais v9_thur_room_w_cam_no_punch_f12204bf:
 
     # u "No. I was just chilling, until King Kong over here barged in."
-    u "Nan. J'me détendais, jusqu'à ce que King Kong fasse irruption."
+    u "Non. Je me détendais, jusqu'à ce que King Kong fasse irruption."
 
 # game/v9/scene15.rpy:252
 translate francais v9_thur_room_w_cam_no_punch_9fb3b7e7:
@@ -286,7 +286,7 @@ translate francais v9_thur_room_w_cam_shrugg_off_e4a045a6:
 translate francais v9_thur_room_w_cam_shrugg_off_869af477:
 
     # ca "Not that bad? The whole fucking school saw you get knocked out!"
-    ca "PAS SI GRAVE ? TU TE FOUS DE MA GUEULE ? Toute l'école t'a vu te faire défoncer !"
+    ca "PAS SI GRAVE ? Toute l'école t'a vu te faire tabasser !"
 
 # game/v9/scene15.rpy:283
 translate francais v9_thur_room_w_cam_shrugg_off_f55cbbc6:
@@ -304,7 +304,7 @@ translate francais v9_thur_room_w_cam_shrugg_off_713713cd:
 translate francais v9_thur_room_w_cam_shrugg_off_98ac892b:
 
     # ca "You better fucking hope so!"
-    ca "T'as intérêt à espérer ça !"
+    ca "Tu ferais mieux d'espérer !"
 
 # game/v9/scene15.rpy:298
 translate francais v9_thur_room_w_cam_defensive_102f50d0:
@@ -316,7 +316,7 @@ translate francais v9_thur_room_w_cam_defensive_102f50d0:
 translate francais v9_thur_room_w_cam_defensive_def7b30b:
 
     # ca "You were supposed to knock his ass out like a real Ape!"
-    ca "Tu pouvais lui défoncer la gueule comme un vrai Ape !"
+    ca "Tu pouvais lui botter le cul comme un vrai Ape !"
 
 # game/v9/scene15.rpy:307
 translate francais v9_thur_room_w_cam_defensive_44243cbf:
@@ -358,7 +358,7 @@ translate francais v9_thur_room_w_cam_protest_d7472fd7:
 translate francais v9_thur_room_w_cam_protest_c15cba37:
 
     # sa "I won't shut up until I know for sure. You helped me when I needed it. Let me return the favor."
-    sa "Je ne me tairai pas tant que je ne serai pas sûre. Tu m'as aidé quand j'en avais besoin. Laisse-moi te rendre la pareille."
+    sa "Je ne me tairai pas avant d'en être sûre. Tu m'as aidé quand j'en avais besoin. Laisse-moi te rendre la pareille."
 
 # game/v9/scene15.rpy:352
 translate francais v9_thur_room_w_cam_follow_ef2f3261:
@@ -376,7 +376,7 @@ translate francais v9_thur_room_w_cam_follow_6a00171d:
 translate francais v9_thur_room_w_cam_follow_a20fbc4a:
 
     # sa "It will. You took care of me and now I want to take care of you."
-    sa "Ça sera le cas. Tu as pris soin de moi et maintenant c'est à mon tour de le faire."
+    sa "Ça sera le cas. Tu as pris soin de moi et maintenant je veux prendre soin de toi."
 
 # game/v9/scene15.rpy:364
 translate francais v9_thur_room_w_cam_follow_686c31fe:
@@ -412,7 +412,7 @@ translate francais v9_thur_room_w_cam_cont4_e4a3e1e4:
 translate francais v9_thur_room_w_cam_cont4_c31bde94:
 
     # u "Good, I've had more than enough of you. Why don't you leave so me and your sister can get better acquainted?"
-    u "Bon, j'en ai plus qu'assez de toi. Pourquoi tu ne pars pas pour que ta sœur et moi puissions mieux nous connaître ?"
+    u "Bien, j'en ai plus qu'assez de toi. Pourquoi ne pas partir pour que moi et ta soeur puissions mieux nous connaître ?"
 
 # game/v9/scene15.rpy:394
 translate francais v9_thur_room_w_cam_cont4_ea3806c4:
@@ -436,7 +436,7 @@ translate francais v9_thur_room_w_cam_cont5_61e267bb:
 translate francais v9_thur_room_w_cam_cont5_76956542:
 
     # ca "I bet I know what he was doing, alright."
-    ca "J'parie que je sais c'qu'il faisait, mais d'accord."
+    ca "Je parie que je sais ce qu'il faisait, mais d'accord."
 
 # game/v9/scene15.rpy:412
 translate francais v9_thur_room_w_cam_cont5_bd5663e2:

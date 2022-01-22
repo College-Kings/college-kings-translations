@@ -136,7 +136,7 @@ translate francais v9_ri_sex_26d1d309:
 translate francais v9_ri_sex_b7c3cb8f:
 
     # ri "By all means."
-    ri "Tout à fait."
+    ri "À tout prix"
 
 # game/v9/scene34.rpy:153
 translate francais v9_ri_sex_a265e9e9:
@@ -202,7 +202,7 @@ translate francais v9_ri_sex_957424b2:
 translate francais v9_ri_sex_1bfe8df3:
 
     # ri "I was about to cum all over you."
-    ri "J'étais sur le point de jouir partout sur toi."
+    ri "J'allais jouir sur toi."
 
 # game/v9/scene34.rpy:194
 translate francais v9_ri_sex_1eabb3a5:
@@ -424,7 +424,7 @@ translate francais v9_ri_sex_272535a5:
 translate francais v9_ri_sex_b679a075:
 
     # ri "This is my place, remember?"
-    ri "On est chez moi, tu te souviens ?"
+    ri "C'est chez moi, tu te souviens ?"
 
 # game/v9/scene34.rpy:359
 translate francais v9_ri_sex_16b8d66d:
@@ -612,7 +612,7 @@ translate francais v9s34_rileyLicking_957424b2:
 translate francais v9s34_rileyLicking_1bfe8df3:
 
     # ri "I was about to cum all over you."
-    ri "J'étais sur le point de jouir partout sur toi."
+    ri "J'allais jouir sur toi."
 
 # game/v9/scene34.rpy:197
 translate francais v9s34_rileyLicking_1eabb3a5:
@@ -834,7 +834,7 @@ translate francais v9s34_rileyCowgirl_272535a5:
 translate francais v9s34_rileyCowgirl_b679a075:
 
     # ri "This is my place, remember?"
-    ri "On est chez moi, tu te souviens ?"
+    ri "C'est chez moi, tu te souviens ?"
 
 # game/v9/scene34.rpy:367
 translate francais v9s34_rileyCowgirl_16b8d66d:

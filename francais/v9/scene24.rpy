@@ -142,13 +142,13 @@ translate francais v9_walk_w_sam_grayson_0ac8d6dd:
 translate francais v9_walk_w_sam_grayson_eb595ffe:
 
     # sa "I don't want to come out here alone, though."
-    sa "Mais je ne veux pas sortir d'ici toute seule."
+    sa "Je ne veux pas venir ici toute seule, par contre."
 
 # game/v9/scene24.rpy:124
 translate francais v9_walk_w_sam_grayson_9cbdfaf3:
 
     # u "No, probably not."
-    u "Non, il ne vaut mieux pas."
+    u "Non, probablement pas."
 
 # game/v9/scene24.rpy:128
 translate francais v9_walk_w_sam_grayson_407324b4:
@@ -166,7 +166,7 @@ translate francais v9_walk_w_sam_grayson_0c0e4078:
 translate francais v9_walk_w_sam_grayson_17291ef5:
 
     # u "Oh! Uh, I'd love to keep you company. Just say when."
-    u "Oh ! Euh, j'adorerais te tenir compagnie. Dis moi juste quand tu le souhaites."
+    u "Oh ! Euh, j'adorerais te tenir compagnie. Dis juste quand."
 
 # game/v9/scene24.rpy:137
 translate francais v9_walk_w_sam_grayson_f7ef5f02:
@@ -226,13 +226,13 @@ translate francais v9_walk_w_sam_cameron_66686979:
 translate francais v9_walk_w_sam_cameron_bf84fb41:
 
     # sa "It's nice to have that. Cam and I had it rough growing up. It felt like we only had each other."
-    sa "C'est bien d'avoir ça. Cam et moi avons eu la vie dure en grandissant. On avait l'impression qu'on ne pouvait compter que sur l'autre."
+    sa "C'est bien d'avoir ça. Cam et moi avons eu la vie dure en grandissant. On avait l'impression de n'avoir que l'autre sur lequel compter."
 
 # game/v9/scene24.rpy:179
 translate francais v9_walk_w_sam_cameron_13226a43:
 
     # u "And now you have all of us. The whole house is here for you."
-    u "Et maintenant tu nous as tous. Toute la maison est là pour toi."
+    u "Et maintenant vous nous avez tous. Toute la maison est là pour toi."
 
 # game/v9/scene24.rpy:183
 translate francais v9_walk_w_sam_cameron_e2b98ae5:
@@ -292,7 +292,7 @@ translate francais v9_walk_w_sam_cont2_d88615ae:
 translate francais v9_walk_w_sam_cont2_15767986:
 
     # sa "You read that off an accountant's business card or something?"
-    sa "Tu as lu ça sur la carte de visite d'un comptable ou quoi ?"
+    sa "Tu as lu ça sur la carte de visite d'un comptable ou autre ?"
 
 # game/v9/scene24.rpy:223
 translate francais v9_walk_w_sam_cont2_de16c73e:
@@ -304,13 +304,13 @@ translate francais v9_walk_w_sam_cont2_de16c73e:
 translate francais v9_walk_w_sam_cont2_bf00262c:
 
     # sa "Must be nice. Only saying I remember from my dad is, 'Jesus, Sam, not again!' "
-    sa "Ça doit être bien. La seule phrase de mon père dont je me souviens, c'est : \"Putain, Sam, pas encore !\". "
+    sa "Ça doit être bien. La seule phrase de mon père dont je me souviens, c'est : \"Bon sang, Sam, pas encore !\". "
 
 # game/v9/scene24.rpy:231
 translate francais v9_walk_w_sam_cont2_d7098175:
 
     # u "I got a few of those, too. Haha."
-    u "J'en ai eu quelques-unes comme ça, aussi. Haha."
+    u "J'en ai eu quelques-uns aussi. Haha."
 
 # game/v9/scene24.rpy:235
 translate francais v9_walk_w_sam_cont2_049c99f6:
@@ -322,7 +322,7 @@ translate francais v9_walk_w_sam_cont2_049c99f6:
 translate francais v9_walk_w_sam_cont2_f9ace53a:
 
     # sa "Yeah, I hate to go back inside but I told Cam I was just going out for a smoothie. I should head back."
-    sa "Ouais, j'ai pas envie de rentrer, mais j'ai dit à Cam que je sortais juste pour un smoothie. Je devrais donc y retourner."
+    sa "Ouais, je ne veux pas retourner à l'intérieur mais j'ai dit à Cam que je sortais juste pour un smoothie. Je devrais donc y retourner."
 
 # game/v9/scene24.rpy:250
 translate francais v9_walk_w_sam_walk_again_4e94aa2f:
@@ -334,7 +334,7 @@ translate francais v9_walk_w_sam_walk_again_4e94aa2f:
 translate francais v9_walk_w_sam_walk_again_8a04762e:
 
     # sa "Hey, I sorta asked."
-    sa "Hey, j'ai en quelque sorte, demandé."
+    sa "Hey, j'ai en quelque sorte demandé."
 
 # game/v9/scene24.rpy:258
 translate francais v9_walk_w_sam_walk_again_8fb4066d:
@@ -346,7 +346,7 @@ translate francais v9_walk_w_sam_walk_again_8fb4066d:
 translate francais v9_walk_w_sam_walk_again_fbc67742:
 
     # u "I'd love to go on another trip around the pond with you, next time you're up for it."
-    u "La prochaine fois, si tu es partante, j'adorerais faire un autre petit tour de l'étang avec toi."
+    u "J'adorerais faire un autre voyage autour de l'étang avec toi, la prochaine fois, si tu es partante."
 
 # game/v9/scene24.rpy:263
 translate francais v9_walk_w_sam_walk_again_aa31a19e:
@@ -358,7 +358,7 @@ translate francais v9_walk_w_sam_walk_again_aa31a19e:
 translate francais v9_walk_w_sam_walk_again_84dc5a51:
 
     # u "Just let me know when you're headed out and I'll meet you."
-    u "Fais-moi juste savoir quand tu voudras sortir et je te rejoindrai."
+    u "Fais-moi juste savoir quand tu seras en route et je te rejoindrai."
 
 # game/v9/scene24.rpy:273
 translate francais v9_walk_w_sam_walk_goodbye_be4aae95:
@@ -418,7 +418,7 @@ translate francais v9_walk_w_sam_cont3_e7743dcf:
 translate francais v9_walk_w_sam_cont3_c6bf738d:
 
     # sa "See ya."
-    sa "À plus."
+    sa "A plus."
 
 # game/v9/scene24.rpy:319
 translate francais v9_walk_w_sam_cont3_4b7fb947:
@@ -442,4 +442,4 @@ translate francais strings:
 translate francais v9_walk_w_sam_cont2_2416c388:
 
     # sa "Must be nice. Only saying I remember from my dad is, \"Jesus, Sam, not again!\""
-    sa "Ça doit être bien. La seule phrase de mon père dont je me souvienne est : \"Putain, Sam, pas encore !\""
+    sa "Ca doit être bien. La seule phrase de mon père dont je me souvienne est : \"Merde, Sam, pas encore!\""

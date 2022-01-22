@@ -46,7 +46,7 @@ translate francais v10s33_autumn1_9772c9e0:
 translate francais v10s33_autumn1_b16f766f:
 
     # aut "Not if I want to keep it that way. Best if I just push through and relax when it's all over."
-    aut "Pas si je veux que ça reste comme ça. C'est préférable si je vais jusqu'au bout et que je me détende quand tout sera fini."
+    aut "Pas si je veux que ça reste comme ça. C'est préférable si je vais jusqu'au bout et que je me détends quand tout est fini."
 
 # game/v10/scene33.rpy:65
 translate francais v10s33_autumn1_7a38161b:
@@ -304,7 +304,7 @@ translate francais v10s33_deergirl11_c8098228:
 translate francais v10s33_deergirl11_8728ff1d:
 
     # dg1 "Look at you!"
-    dg1 "Bien joué !"
+    dg1 "On te regarde !"
 
 # game/v10/scene33.rpy:340
 translate francais v10s33_deergirl11_c8d858fd:
@@ -1294,19 +1294,19 @@ translate francais v10s33_deergirl21_fe1da588:
 translate francais v10s33_deergirl21_867a44c7:
 
     # dg2 "I'll put you in the category of those who did... not so well."
-    dg2 "Je vais te mettre dans la catégorie de ceux qui ont fait... rien du tout."
+    dg2 "Je vais te mettre dans la catégorie de ceux qui ont fait... moins bien."
 
 # game/v10/scene33.rpy:1407
 translate francais v10s33_deergirl21_fd5b35e5:
 
     # u "Yep, and that's my cue to leave. Thanks."
-    u "Oui, et... Ça, c'est le signal qui me dit de partir. Merci."
+    u "Oui, et c'est mon signal pour partir. Merci."
 
 # game/v10/scene33.rpy:1419
 translate francais v10s33_deergirl31_6a5e8b0a:
 
     # u "You know I didn't expect to see one of these at the event. What made you want to do one of these?"
-    u "Tu sais, je ne m'attendais pas à voir un stand comme ça, dans cet événement. Qu'est-ce qui t'a donné envie d'en faire un ?"
+    u "Tu sais, je ne m'attendais pas à en voir un à l'événement. Qu'est-ce qui t'a donné envie d'en faire un ?"
 
 # game/v10/scene33.rpy:1424
 translate francais v10s33_deergirl31_adca8249:
@@ -1324,13 +1324,13 @@ translate francais v10s33_deergirl31_501229d4:
 translate francais v10s33_deergirl31_b067ff47:
 
     # dg3 "I don't think you understand, I'm really lonely. No guys ever talk to me."
-    dg3 "Je ne croispas que tu as compris, je me sens vraiment seule. Aucun mec ne me parle jamais."
+    dg3 "Je ne pense pas que tu comprennes, je me sens vraiment seule. Aucun mec ne me parle jamais."
 
 # game/v10/scene33.rpy:1436
 translate francais v10s33_deergirl31_ca37a50b:
 
     # dg3 "With this, one guy will be forced to go out with me and I'll never be lonely again."
-    dg3 "Avec ça, un mec sera obligé de sortir avec moi et je ne serai plus jamais seule."
+    dg3 "Avec ça, un gars sera obligé de sortir avec moi et je ne serai plus jamais seule."
 
 # game/v10/scene33.rpy:1441
 translate francais v10s33_deergirl31_f48d199c:
@@ -2632,7 +2632,7 @@ translate francais v10s33_riley2_e79f5c74:
 translate francais v10s33_riley2_a5fd30e3:
 
     # au "Almost falling on a slippery road but managing to catch yourself isn't dancing. *Chuckles*"
-    au "Presque. Déraper sur une route glissante, mais réussir à se rattraper n'est pas de la danse. *Rire*"
+    au "Presque tomber sur une route glissante mais réussir à se rattraper n'est pas de la danse. *Rire*"
 
 # game/v10/scene33.rpy:2626
 translate francais v10s33_riley2_851f668b:
@@ -2710,13 +2710,13 @@ translate francais v10s33_riley2_016be1d6:
 translate francais v10s33_riley2_8ea85ca1:
 
     # au "What's wrong redhead? *Chuckles* Scared?"
-    au "Qu'est-ce qui ne va pas la rouquine ? *Rire* Tu as peur ?"
+    au "Qu'est-ce qui ne va pas, la rouquine ? *Rire* Tu as peur ?"
 
 # game/v10/scene33.rpy:2692
 translate francais v10s33_riley2_448df40e:
 
     # ri "Never, let's do it. But we need more judges."
-    ri "Pas du tout, on va le faire. Mais nous avons besoin de plus de juges."
+    ri "Pas du tout, faisons-le. Mais nous avons besoin de plus de juges."
 
 # game/v10/scene33.rpy:2701
 translate francais v10s33_riley2_956d7f56:
@@ -2728,7 +2728,7 @@ translate francais v10s33_riley2_956d7f56:
 translate francais v10s33_riley2_c0721904:
 
     # u "Hey! You two come here real quick."
-    u "Hé ! Vous deux ! Venez voir par là, s'il vous plait."
+    u "Hé ! Vous deux, venez vite ici."
 
 # game/v10/scene33.rpy:2711
 translate francais v10s33_riley2_0a7f46e4:
@@ -2740,7 +2740,7 @@ translate francais v10s33_riley2_0a7f46e4:
 translate francais v10s33_riley2_c0721904_1:
 
     # u "Hey! You two come here real quick."
-    u "Hé ! Vous deux ! Venez voir par là, s'il vous plait."
+    u "Hé ! Vous deux, venez vite ici."
 
 # game/v10/scene33.rpy:2722
 translate francais v10s33_riley2_cf22efdf:
@@ -2764,13 +2764,13 @@ translate francais v10s33_riley2_319cadc9:
 translate francais v10s33_riley2_75fdad63:
 
     # dg1 "This'll be good to dance to!"
-    dg1 "Ça, ça va être bon pour danser !"
+    dg1 "Ça va être bon pour danser !"
 
 # game/v10/scene33.rpy:2742
 translate francais v10s33_riley2_ae146556:
 
     # guyd "A little seductive for a dance battle though. Shouldn't it be a more upbeat song?"
-    guyd "Un peu trop de charme pour une bataille de danse, je trouve. Une chanson plus rythmée ne serait-elle pas plus adaptée ?"
+    guyd "A little seductive for a dance battle though. Shouldn't it be a more upbeat song?"
 
 # game/v10/scene33.rpy:2747
 translate francais v10s33_riley2_e5a5000e:
@@ -2782,7 +2782,7 @@ translate francais v10s33_riley2_e5a5000e:
 translate francais v10s33_riley2_7718aa8c:
 
     # au "Alright then, have a seat judges."
-    au "Très bien. Asseyez-vous, juges."
+    au "Très bien, alors, asseyez-vous juges."
 
 # game/v10/scene33.rpy:2762
 translate francais v10s33_riley2_e645188e:
@@ -2854,7 +2854,7 @@ translate francais v10s33_riley2_2fcbe4b2_1:
 translate francais v10s33_riley2_35cba97e:
 
     # dg1 "Good job to both of you, but it's pretty obvious who won."
-    dg1 "Bon travail à toutes les deux, mais c'est assez évident de savoir qui a gagné."
+    dg1 "Bon travail à tous les deux, mais c'est assez évident de savoir qui a gagné."
 
 # game/v10/scene33.rpy:2926
 translate francais v10s33_riley2_cf130de7:
@@ -2878,25 +2878,25 @@ translate francais v10s33_riley2_4af10c1b:
 translate francais v10s33_riley2_3b38569e:
 
     # au "*Laughs* Guess that makes you the tie breaker [name] so who won?"
-    au "*Rire* J'imagine que ça fait de toi celui qui va nous départager, [name]. Alors qui a gagné ?"
+    au "*Rire* J'imagine que ça fait de toi le départageur [name] alors qui a gagné ?"
 
 # game/v10/scene33.rpy:2949
 translate francais v10s33_riley2_4b71d360:
 
     # u "I gotta give it to Riley."
-    u "Je dois accorder la victoire à Riley."
+    u "Je dois l'accorder à Riley."
 
 # game/v10/scene33.rpy:2954
 translate francais v10s33_riley2_65a22050:
 
     # guyd "Guess a man knows what he likes."
-    guyd "Un homme sait ce qu'il aime."
+    guyd "Je pense qu'un homme sait ce qu'il aime."
 
 # game/v10/scene33.rpy:2959
 translate francais v10s33_riley2_296276f1:
 
     # dg1 "I think you both did good."
-    dg1 "Vous vous en êtes bien sortis toutes les deux."
+    dg1 "Je pense que vous vous en êtes bien sortis toutes les deux."
 
 # game/v10/scene33.rpy:2964
 translate francais v10s33_riley2_d9dd49a6:
@@ -2950,19 +2950,19 @@ translate francais v10s33_riley2_3445c592:
 translate francais v10s33_riley2_717cbd87:
 
     # u "I gotta give it to Aubrey."
-    u "Je dois accorder la victoire à Aubrey."
+    u "Je dois l'accorder à Aubrey."
 
 # game/v10/scene33.rpy:3012
 translate francais v10s33_riley2_65a22050_1:
 
     # guyd "Guess a man knows what he likes."
-    guyd "Un homme sait ce qu'il aime."
+    guyd "Je crois qu'un homme sait ce qu'il aime."
 
 # game/v10/scene33.rpy:3017
 translate francais v10s33_riley2_296276f1_1:
 
     # dg1 "I think you both did good."
-    dg1 "Vous vous en êtes bien sortis toutes les deux."
+    dg1 "Je pense que vous vous en êtes bien sortis toutes les deux."
 
 # game/v10/scene33.rpy:3022
 translate francais v10s33_riley2_fb50cedb:
@@ -3202,7 +3202,7 @@ translate francais v10s33_chris1_3bd841f0:
 translate francais v10s33_chris1_9600d087:
 
     # aa "Hand over the crown Chris. *Laugh*"
-    aa "Et je prend la couronne de Chris. *Rire*"
+    aa "Rend la couronne à Chris. *Rire*"
 
 # game/v10/scene33.rpy:3314
 translate francais v10s33_chris1_fecdd0f1:
@@ -3364,13 +3364,13 @@ translate francais v10s33_nora1_09332657:
 translate francais v10s33_nora1_f25c7a38:
 
     # no "Chloe's just doing more of what Chloe does."
-    no "Chloé fait juste de plus en plus de \"Chloé\"."
+    no "Chloé fait juste plus de ce que Chloé fait."
 
 # game/v10/scene33.rpy:3477
 translate francais v10s33_nora1_15ed0b3a:
 
     # u "And what is that?"
-    u "C'est à dire ?"
+    u "Et c'est quoi ?"
 
 # game/v10/scene33.rpy:3482
 translate francais v10s33_nora1_d05dd9df:
@@ -3394,19 +3394,19 @@ translate francais v10s33_nora1_a9a2ed93:
 translate francais v10s33_nora1_ad60be62:
 
     # no "Just yesterday I heard her making a fuss in the hallway because Aubrey called her \"cute\". Like, are you kidding me?"
-    no "Hier encore, je l'ai entendue s'agiter dans le couloir parce qu'Aubrey avait dit qu'elle était \"mignonne\". Et elle lui a répondu : \"tu te moques de moi\" ?"
+    no "Hier encore, je l'ai entendue s'agiter dans le couloir parce qu'Aubrey avait dit qu'elle était \"mignonne\". Comme, \"tu te moques de moi\" ?"
 
 # game/v10/scene33.rpy:3503
 translate francais v10s33_nora1_9ba46eaf:
 
     # u "She can be a little... extra sometimes."
-    u "Elle peut être un peu... \"too much\" parfois."
+    u "Elle peut être un peu... \"extra\" parfois."
 
 # game/v10/scene33.rpy:3508
 translate francais v10s33_nora1_0a0c75e1:
 
     # u "Well, she might be acting that way because of all the pressure she's under. Conversations behind her back probably aren't helping with that."
-    u "Elle agit peut-être ainsi à cause de la pression qu'elle subit. Les conversations derrière son dos n'aident certainement pas à ça."
+    u "Elle agit peut-être ainsi à cause de la pression qu'elle subit. Les conversations derrière son dos n'aident probablement pas à ça."
 
 # game/v10/scene33.rpy:3513
 translate francais v10s33_nora1_7e41f105:
@@ -3418,7 +3418,7 @@ translate francais v10s33_nora1_7e41f105:
 translate francais v10s33_nora1_7587e6d2:
 
     # u "Right."
-    u "C'est pas faux."
+    u "C'est vrai."
 
 # game/v10/scene33.rpy:3520
 translate francais v10s33_nora1_eb99e5d6:
@@ -3442,13 +3442,13 @@ translate francais v10s33_ryan1_1ea30f07:
 translate francais v10s33_ryan1_ef981ce2:
 
     # ry "Big time."
-    ry "Là, c'est justement le moment de s'amuser."
+    ry "C'est le moment."
 
 # game/v10/scene33.rpy:3544
 translate francais v10s33_ryan1_457fe17e:
 
     # u "What have you been doing?"
-    u "Comment ça ?"
+    u "Qu'est-ce que tu as fait ?"
 
 # game/v10/scene33.rpy:3549
 translate francais v10s33_ryan1_d9a89883:
@@ -3826,7 +3826,7 @@ translate francais v10s33_evelyn1_6c76bc82:
 translate francais v10s33_evelyn1_23dce7eb:
 
     # u "Out of everyone here, I'm most surprised to see you."
-    u "De toutes les personnes présentes ici, je suis le plus surpris de te voir, toi."
+    u "De toutes les personnes présentes ici, je suis le plus surpris de vous voir, vous."
 
 # game/v10/scene33.rpy:3890
 translate francais v10s33_evelyn1_885b6d4e:
@@ -4201,7 +4201,7 @@ translate francais v10s33_laurenstatue1_e350ebdf:
 translate francais v10s33_amber1_c2832b0c:
 
     # am "I'm looking forward to a good little catfight. It would be even better though if it was the guys doing the wrestling."
-    am "J'aurai aimé voir un bon petit combat de coqs. Ça aurait quand même été mieux si c'était les mecs qui luttaient."
+    am "J'ai hâte de voir un bon petit combat de coqs. Ce serait quand même mieux si c'était les gars qui luttaient."
 
 # game/v10/scene33.rpy:3086
 translate francais v10s33_chris1_21b3e913:
