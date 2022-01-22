@@ -137,7 +137,11 @@ translate francais after_drugs_57b9082d:
 
     # u "I am. I'm at Josh's house. He did a uhh, drug deal and got beaten up pretty bad. I'm here keeping an eye on him."
 <<<<<<< HEAD
+<<<<<<< HEAD
     u "Je le suis. Je suis chez Josh. Il a fait un euh, un deal de drogue et s'est fait méchamment tabasser. Je suis ici pour garder un oeil sur lui."
+=======
+    u ""
+>>>>>>> parent of 2633b3a (Final French translation (continued))
 =======
     u ""
 >>>>>>> parent of 2633b3a (Final French translation (continued))
@@ -201,7 +205,11 @@ translate francais after_drugs_73476671:
 
     # am "And he thought he could do this alone? Idiot!"
 <<<<<<< HEAD
+<<<<<<< HEAD
     am "Et il pensait qu'il pouvait faire ça tout seul ? Imbécile !"
+=======
+    am ""
+>>>>>>> parent of 2633b3a (Final French translation (continued))
 =======
     am ""
 >>>>>>> parent of 2633b3a (Final French translation (continued))
@@ -217,7 +225,11 @@ translate francais after_drugs_5ec474f4:
 
     # am "You did? How did you let this happen?"
 <<<<<<< HEAD
+<<<<<<< HEAD
     am "Tu l'as fait ? Comment as-tu laissé ça se produire ?"
+=======
+    am ""
+>>>>>>> parent of 2633b3a (Final French translation (continued))
 =======
     am ""
 >>>>>>> parent of 2633b3a (Final French translation (continued))
@@ -227,7 +239,11 @@ translate francais after_drugs_fa8da13a:
 
     # u "I tried to stop it. There were two of them and one had a pipe."
 <<<<<<< HEAD
+<<<<<<< HEAD
     u "J'ai essayé de l'arrêter. Ils étaient deux et l'un d'eux avait une barre à mine."
+=======
+    u ""
+>>>>>>> parent of 2633b3a (Final French translation (continued))
 =======
     u ""
 >>>>>>> parent of 2633b3a (Final French translation (continued))
@@ -291,7 +307,11 @@ translate francais after_drugs_a27f2c73:
 
     # am "Do you still have the shit?"
 <<<<<<< HEAD
+<<<<<<< HEAD
     am "Tu as toujours le shit ?"
+=======
+    am ""
+>>>>>>> parent of 2633b3a (Final French translation (continued))
 =======
     am ""
 >>>>>>> parent of 2633b3a (Final French translation (continued))
@@ -307,7 +327,11 @@ translate francais after_drugs_2de230fa:
 
     # am "Give it to me."
 <<<<<<< HEAD
+<<<<<<< HEAD
     am "Donne-le moi."
+=======
+    am ""
+>>>>>>> parent of 2633b3a (Final French translation (continued))
 =======
     am ""
 >>>>>>> parent of 2633b3a (Final French translation (continued))
@@ -323,7 +347,11 @@ translate francais after_drugs_4333e122:
 
     # am "Just give it to me. Trust me."
 <<<<<<< HEAD
+<<<<<<< HEAD
     am "Donne-le moi. Fais-moi confiance."
+=======
+    am ""
+>>>>>>> parent of 2633b3a (Final French translation (continued))
 =======
     am ""
 >>>>>>> parent of 2633b3a (Final French translation (continued))
@@ -333,7 +361,11 @@ translate francais after_drugs_12cef257:
 
     # u "Alright. Let me get it."
 <<<<<<< HEAD
+<<<<<<< HEAD
     u "Très bien. Laisse-moi le chercher."
+=======
+    u ""
+>>>>>>> parent of 2633b3a (Final French translation (continued))
 =======
     u ""
 >>>>>>> parent of 2633b3a (Final French translation (continued))

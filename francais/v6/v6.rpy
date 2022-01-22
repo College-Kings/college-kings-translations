@@ -8080,7 +8080,11 @@ translate francais v6_fr3chris1_020a2e02:
 
     # ch "There's a whole lot of us. Harry, he got jumped, was traumatized from it. We got his back. Sebastian, Aaron, Marcus. The list goes on."
 <<<<<<< HEAD
+<<<<<<< HEAD
     ch "Nous sommes nombreux. Harry, s'est fait attaquer et en a été traumatisé. Nous l'avons soutenu. Sébastien, Aaron, Marcus. Et la liste est longue..."
+=======
+    ch "Nous sommes nombreux. Harry, il s'est fait attaquer et en a été traumatisé. Nous l'avons soutenus. Sébastien, Aaron, Marcus. La liste continue."
+>>>>>>> parent of 2633b3a (Final French translation (continued))
 =======
     ch "Nous sommes nombreux. Harry, il s'est fait attaquer et en a été traumatisé. Nous l'avons soutenus. Sébastien, Aaron, Marcus. La liste continue."
 >>>>>>> parent of 2633b3a (Final French translation (continued))
@@ -8282,7 +8286,11 @@ translate francais v6_fr3chris1_020a2e02_1:
 
     # ch "There's a whole lot of us. Harry, he got jumped, was traumatized from it. We got his back. Sebastian, Aaron, Marcus. The list goes on."
 <<<<<<< HEAD
+<<<<<<< HEAD
     ch "Nous sommes nombreux. Harry, s'est fait attaquer et en a été traumatisé. Nous l'avons soutenu. Sébastien, Aaron, Marcus. Et la liste est longue..."
+=======
+    ch "Nous sommes nombreux. Harry, il s'est fait attaquer et en a été traumatisé. Nous l'avons soutenus. Sébastien, Aaron, Marcus. La liste continue."
+>>>>>>> parent of 2633b3a (Final French translation (continued))
 =======
     ch "Nous sommes nombreux. Harry, il s'est fait attaquer et en a été traumatisé. Nous l'avons soutenus. Sébastien, Aaron, Marcus. La liste continue."
 >>>>>>> parent of 2633b3a (Final French translation (continued))

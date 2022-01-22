@@ -129,7 +129,11 @@ translate francais strings:
     # game/v8/Scene19.rpy:55
     old "Please do"
 <<<<<<< HEAD
+<<<<<<< HEAD
     new "S'il te plaît, fais-le."
+=======
+    new ""
+>>>>>>> parent of 2633b3a (Final French translation (continued))
 =======
     new ""
 >>>>>>> parent of 2633b3a (Final French translation (continued))
@@ -157,7 +161,11 @@ translate francais strings:
     # game/v8/Scene19.rpy:65
     old "No, not at all. Just beat. I'd love to go some other time"
 <<<<<<< HEAD
+<<<<<<< HEAD
     new "Non, pas du tout. Juste crevée. J'aimerais y aller une autre fois"
+=======
+    new ""
+>>>>>>> parent of 2633b3a (Final French translation (continued))
 =======
     new ""
 >>>>>>> parent of 2633b3a (Final French translation (continued))

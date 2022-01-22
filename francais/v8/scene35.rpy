@@ -407,7 +407,11 @@ translate francais steak_w_chloe_cont_2_e36213b3:
 
     # u "It's not so easy for guys. People aren't storming castles to get at us."
 <<<<<<< HEAD
+<<<<<<< HEAD
     u "Ce n'est pas si facile pour les hommes. Les gens ne prennent pas d'assaut les châteaux pour nous atteindre."
+=======
+    u ""
+>>>>>>> parent of 2633b3a (Final French translation (continued))
 =======
     u ""
 >>>>>>> parent of 2633b3a (Final French translation (continued))
@@ -417,7 +421,11 @@ translate francais steak_w_chloe_cont_2_10371bca:
 
     # cl "Castles? *giggles*"
 <<<<<<< HEAD
+<<<<<<< HEAD
     cl "Des châteaux ? *rire*"
+=======
+    cl ""
+>>>>>>> parent of 2633b3a (Final French translation (continued))
 =======
     cl ""
 >>>>>>> parent of 2633b3a (Final French translation (continued))
@@ -607,7 +615,11 @@ translate francais steak_w_chloe_cont_3_6015dc54:
 
     # u "Please do."
 <<<<<<< HEAD
+<<<<<<< HEAD
     u "Aves plaisir."
+=======
+    u ""
+>>>>>>> parent of 2633b3a (Final French translation (continued))
 =======
     u ""
 >>>>>>> parent of 2633b3a (Final French translation (continued))

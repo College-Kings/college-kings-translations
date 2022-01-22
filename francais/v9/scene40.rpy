@@ -53,7 +53,11 @@ translate francais v9_wolves_pre_fight_4211c23e:
 
     # ch "A lot of people are going to be paying close attention tonight. Girls, frat brothers, enemies, friends and foes, everyone."
 <<<<<<< HEAD
+<<<<<<< HEAD
     ch "Beaucoup de gens vont être très attentifs ce soir. Filles, frères de fraternité, ennemis, amis et adversaires, tout le monde."
+=======
+    ch ""
+>>>>>>> parent of 2633b3a (Final French translation (continued))
 =======
     ch ""
 >>>>>>> parent of 2633b3a (Final French translation (continued))

@@ -35,7 +35,11 @@ translate francais phn_chloe13_da3ee415:
 
     # u "(Guess I'm meeting Chloe.)"
 <<<<<<< HEAD
+<<<<<<< HEAD
     u "(Je pense que je vais voir Chloé.)"
+=======
+    u ""
+>>>>>>> parent of 2633b3a (Final French translation (continued))
 =======
     u ""
 >>>>>>> parent of 2633b3a (Final French translation (continued))
@@ -87,7 +91,11 @@ translate francais strings:
     # game/v8/scene34.rpy:27
     old "Can't say it's all done, but I sure am!"
 <<<<<<< HEAD
+<<<<<<< HEAD
     new "Je ne peux pas dire que tout est fait, mais moi, oui !"
+=======
+    new ""
+>>>>>>> parent of 2633b3a (Final French translation (continued))
 =======
     new ""
 >>>>>>> parent of 2633b3a (Final French translation (continued))
@@ -135,7 +143,11 @@ translate francais strings:
     # game/v8/scene34.rpy:50
     old "Ok, yeah. I'm actually starving!"
 <<<<<<< HEAD
+<<<<<<< HEAD
     new "Ok, ouais. En fait, je suis affamé !"
+=======
+    new ""
+>>>>>>> parent of 2633b3a (Final French translation (continued))
 =======
     new ""
 >>>>>>> parent of 2633b3a (Final French translation (continued))

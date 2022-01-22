@@ -209,7 +209,11 @@ translate francais prot_w_au_leg_0709ae20:
 
     # aut "And that's why we're here right? To tell them that our bodies are our choice. We can't keep letting men think they have the say over everything."
 <<<<<<< HEAD
+<<<<<<< HEAD
     aut "Et c'est pourquoi nous sommes ici, n'est-ce pas ? Pour leur dire que \"notre corps est notre choix\". Nous ne pouvons pas continuer à laisser les hommes penser qu'ils ont le mot à dire sur tout."
+=======
+    aut "Et c'est pourquoi nous sommes ici, n'est-ce pas ? Pour leur dire que notre corps est notre choix. Nous ne pouvons pas continuer à laisser les hommes penser qu'ils ont le mot à dire sur tout."
+>>>>>>> parent of 2633b3a (Final French translation (continued))
 =======
     aut "Et c'est pourquoi nous sommes ici, n'est-ce pas ? Pour leur dire que notre corps est notre choix. Nous ne pouvons pas continuer à laisser les hommes penser qu'ils ont le mot à dire sur tout."
 >>>>>>> parent of 2633b3a (Final French translation (continued))

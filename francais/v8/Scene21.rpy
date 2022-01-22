@@ -77,7 +77,11 @@ translate francais walk_to_dean_b30b9eb5:
 
     # de "I see. Does this friend have a name?"
 <<<<<<< HEAD
+<<<<<<< HEAD
     de "Je vois. Cet amie a un nom ?"
+=======
+    de ""
+>>>>>>> parent of 2633b3a (Final French translation (continued))
 =======
     de ""
 >>>>>>> parent of 2633b3a (Final French translation (continued))

@@ -59,7 +59,11 @@ translate francais strings:
     # game/v8/scene25.rpy:41
     old "At least you can read! I just found out I need glasses!"
 <<<<<<< HEAD
+<<<<<<< HEAD
     new "Au moins, tu sais lire ! Je viens de découvrir que j'ai besoin de lunettes !"
+=======
+    new ""
+>>>>>>> parent of 2633b3a (Final French translation (continued))
 =======
     new ""
 >>>>>>> parent of 2633b3a (Final French translation (continued))

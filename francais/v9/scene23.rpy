@@ -173,7 +173,11 @@ translate francais v9_dinner_w_rose_d01ef9fb:
 
     # imre "I thought it was fun. A great change from his usual classes."
 <<<<<<< HEAD
+<<<<<<< HEAD
     imre "J'ai trouvé ça marrantt. C'était un grand changement par rapport à ses cours habituels."
+=======
+    imre ""
+>>>>>>> parent of 2633b3a (Final French translation (continued))
 =======
     imre ""
 >>>>>>> parent of 2633b3a (Final French translation (continued))
@@ -417,7 +421,11 @@ translate francais v9_dinner_w_rose_741eba50:
 
     # imre "I'd be the size of a sumo wrestler if I grew up with Grandma Ruth!"
 <<<<<<< HEAD
+<<<<<<< HEAD
     imre "J'aurais la taille d'un lutteur de sumo, si j'avais grandi avec mamie Ruth !"
+=======
+    imre ""
+>>>>>>> parent of 2633b3a (Final French translation (continued))
 =======
     imre ""
 >>>>>>> parent of 2633b3a (Final French translation (continued))

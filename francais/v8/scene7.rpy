@@ -5,7 +5,11 @@ translate francais caf_w_aub_63b4436b:
 
     # u "Can I join you?"
 <<<<<<< HEAD
+<<<<<<< HEAD
     u "Je peux me venir ?"
+=======
+    u "Je peux m'asseoir ?"
+>>>>>>> parent of 2633b3a (Final French translation (continued))
 =======
     u "Je peux m'asseoir ?"
 >>>>>>> parent of 2633b3a (Final French translation (continued))

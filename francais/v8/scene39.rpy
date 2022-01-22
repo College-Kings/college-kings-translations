@@ -5,7 +5,11 @@ translate francais hosp_climb_seb_4b0bf10d:
 
     # se "What's up man? Getting cold feet?"
 <<<<<<< HEAD
+<<<<<<< HEAD
     se "Ça va, mec ? Tu as la frousse ?"
+=======
+    se ""
+>>>>>>> parent of 2633b3a (Final French translation (continued))
 =======
     se ""
 >>>>>>> parent of 2633b3a (Final French translation (continued))
@@ -57,7 +61,11 @@ translate francais climb_the_hos_1836e06c:
 
     # u "Fuck it, man. Let's do this thing."
 <<<<<<< HEAD
+<<<<<<< HEAD
     u "Putain, mec. Faisons ce truc."
+=======
+    u ""
+>>>>>>> parent of 2633b3a (Final French translation (continued))
 =======
     u ""
 >>>>>>> parent of 2633b3a (Final French translation (continued))
@@ -109,7 +117,11 @@ translate francais climb_the_hos_0049a3f5:
 
     # u "Yeah, it's just this..."
 <<<<<<< HEAD
+<<<<<<< HEAD
     u "Ouais, c'est juste ça..."
+=======
+    u ""
+>>>>>>> parent of 2633b3a (Final French translation (continued))
 =======
     u ""
 >>>>>>> parent of 2633b3a (Final French translation (continued))
@@ -119,7 +131,11 @@ translate francais climb_the_hos_10ec0e99:
 
     # u "Holy fuck, I felt pretty dead back there... but now I feel more alive than ever!"
 <<<<<<< HEAD
+<<<<<<< HEAD
     u "Putain, je me sentais plutôt mort là-bas... mais maintenant je me sens plus vivant que jamais !"
+=======
+    u ""
+>>>>>>> parent of 2633b3a (Final French translation (continued))
 =======
     u ""
 >>>>>>> parent of 2633b3a (Final French translation (continued))
@@ -129,7 +145,11 @@ translate francais climb_the_hos_a667d83c:
 
     # se "I feel you, bro! Now you know why this is not my first time here."
 <<<<<<< HEAD
+<<<<<<< HEAD
     se "Je te comprends, mon frère ! Maintenant tu sais pourquoi ce n'est pas ma première fois ici."
+=======
+    se ""
+>>>>>>> parent of 2633b3a (Final French translation (continued))
 =======
     se ""
 >>>>>>> parent of 2633b3a (Final French translation (continued))
@@ -139,7 +159,11 @@ translate francais climb_the_hos_8113b8c7:
 
     # se "And they arise!"
 <<<<<<< HEAD
+<<<<<<< HEAD
     se "Et ils s'élèvent !"
+=======
+    se ""
+>>>>>>> parent of 2633b3a (Final French translation (continued))
 =======
     se ""
 >>>>>>> parent of 2633b3a (Final French translation (continued))
@@ -149,7 +173,11 @@ translate francais climb_the_hos_942fae98:
 
     # u "That they do. How to descend is another question."
 <<<<<<< HEAD
+<<<<<<< HEAD
     u "C'est ce qu'ils font. Comment descendre est une autre question."
+=======
+    u ""
+>>>>>>> parent of 2633b3a (Final French translation (continued))
 =======
     u ""
 >>>>>>> parent of 2633b3a (Final French translation (continued))
@@ -171,7 +199,11 @@ translate francais climb_the_hos_e6b9b6b5:
 
     # se "If this was my hundredth time to reach this spot, I'd still love doing it."
 <<<<<<< HEAD
+<<<<<<< HEAD
     se "Même si c'était la centième fois que je devais atteindre cet endroit, j'aimerais toujours autant le faire."
+=======
+    se ""
+>>>>>>> parent of 2633b3a (Final French translation (continued))
 =======
     se ""
 >>>>>>> parent of 2633b3a (Final French translation (continued))

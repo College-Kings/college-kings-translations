@@ -47,7 +47,11 @@ translate francais walk_home_hosp_ce555087:
 
     # se "And you were worried about descending... a free fall would be slower than the way you've climbed down!"
 <<<<<<< HEAD
+<<<<<<< HEAD
     se "Et tu t'inquiétais de la descente... une chute libre serait plus lente que la façon dont tu es descendu !"
+=======
+    se ""
+>>>>>>> parent of 2633b3a (Final French translation (continued))
 =======
     se ""
 >>>>>>> parent of 2633b3a (Final French translation (continued))
@@ -105,7 +109,11 @@ translate francais walk_home_hosp_fee399e3:
 
     # u "Joining the Wolves... I was not so sure at first. But it turns out it was a great thing to do."
 <<<<<<< HEAD
+<<<<<<< HEAD
     u "Rejoindre les loups... Je n'étais pas si sûr au début. Mais finalement, c'était une bonne chose à faire."
+=======
+    u ""
+>>>>>>> parent of 2633b3a (Final French translation (continued))
 =======
     u ""
 >>>>>>> parent of 2633b3a (Final French translation (continued))
@@ -115,7 +123,11 @@ translate francais walk_home_hosp_28e377dc:
 
     # se "You can say that again, bro."
 <<<<<<< HEAD
+<<<<<<< HEAD
     se "Tu peux le répéter, mon frère."
+=======
+    se ""
+>>>>>>> parent of 2633b3a (Final French translation (continued))
 =======
     se ""
 >>>>>>> parent of 2633b3a (Final French translation (continued))

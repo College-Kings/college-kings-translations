@@ -53,7 +53,11 @@ translate francais s26_ab5f9958:
 
     # au "Are you getting a naughty librarian vibe?"
 <<<<<<< HEAD
+<<<<<<< HEAD
     au "Tu as l'impression d'être une bibliothécaire coquine ?"
+=======
+    au ""
+>>>>>>> parent of 2633b3a (Final French translation (continued))
 =======
     au ""
 >>>>>>> parent of 2633b3a (Final French translation (continued))
@@ -411,7 +415,11 @@ translate francais opti_end_199fd772:
 
     # au "Yeah, you're a good guy, [name]."
 <<<<<<< HEAD
+<<<<<<< HEAD
     au "Ouais, tu es un bon gars, [name]."
+=======
+    au ""
+>>>>>>> parent of 2633b3a (Final French translation (continued))
 =======
     au ""
 >>>>>>> parent of 2633b3a (Final French translation (continued))

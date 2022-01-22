@@ -503,6 +503,7 @@ translate francais strings:
     # game/v8/scene17.rpy:11
     old "Hey, how you holding up?"
 <<<<<<< HEAD
+<<<<<<< HEAD
     new "Hé, ça va, vous tenez le coup ?"
 
     # game/v8/scene17.rpy:12
@@ -512,6 +513,17 @@ translate francais strings:
     # game/v8/scene17.rpy:13
     old "No problem. I'm here for you. Let me know if you need anything else."
     new "Pas de problème. Je suis là pour vous. Faites-moi savoir si vous avez besoin d'autre chose."
+=======
+    new "Hé, comment vous tenez le coup ?"
+
+    # game/v8/scene17.rpy:12
+    old "Better, thanks to you"
+    new "Mieux, grâce à vous"
+
+    # game/v8/scene17.rpy:13
+    old "No problem. I'm here for you. Let me know if you need anything else."
+    new "Aucun problème. Je suis là pour vous. Faites moi savoir si vous avez besoin de quoique ce soit d'autre."
+>>>>>>> parent of 2633b3a (Final French translation (continued))
 =======
     new "Hé, comment vous tenez le coup ?"
 

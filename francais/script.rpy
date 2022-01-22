@@ -5,7 +5,12 @@ translate francais end_credits_9ea2f78c:
 
     # " "
 <<<<<<< HEAD
+<<<<<<< HEAD
     "Traduction française: poussin1er"
+=======
+    "Traduction française Patrick PIGNOL"
+
+>>>>>>> parent of 2633b3a (Final French translation (continued))
 =======
     "Traduction française Patrick PIGNOL"
 

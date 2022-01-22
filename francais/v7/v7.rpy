@@ -18261,7 +18261,11 @@ translate francais strings:
     # game/v7/v7.rpy:5492
     old "One of us!"
 <<<<<<< HEAD
+<<<<<<< HEAD
     new "Un de nous !"
+=======
+    new "Un de nous!"
+>>>>>>> parent of 2633b3a (Final French translation (continued))
 =======
     new "Un de nous!"
 >>>>>>> parent of 2633b3a (Final French translation (continued))
