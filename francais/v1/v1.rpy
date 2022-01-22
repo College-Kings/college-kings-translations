@@ -1361,7 +1361,7 @@ translate francais efra_4f1997c1:
 translate francais efra_0a89cebe:
 
     # imre "Yooo, what's up my man?"
-    imre "Yooo, quoi de neuf mon gars ?"
+    imre "Yooo, quoi d'neuf mon gars ?"
 
 # game/v1/v1.rpy:1229
 translate francais efra_0b7398ae:
