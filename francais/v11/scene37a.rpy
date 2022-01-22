@@ -418,7 +418,7 @@ translate francais v11_imre_and_ryan_b4a5c1f5:
 translate francais v11_imre_and_ryan_5e8c252f:
 
     # imre "Why don't you take responsibility? This is your fault."
-    imre "Pourquoi tu ne prends pas tes responsabilités ? C'est ta faute."
+    imre "Pourquoi tu prends pas tes responsabilités ? C'est ta faute."
 
 # game/v11/scene37a.rpy:337
 translate francais v11_imre_and_ryan_089aaa9f:
@@ -430,7 +430,7 @@ translate francais v11_imre_and_ryan_089aaa9f:
 translate francais v11_imre_and_ryan_62a094da:
 
     # imre "Like I said before, if you didn't talk shit about me, we wouldn't have any issues outside of the fact that you're an Ape."
-    imre "Comme je l'ai déjà dit, si tu ne disais pas de conneries sur moi, on n'aurait pas de problèmes en dehors du fait que tu es un Ape."
+    imre "Comme j'l'ai déjà dit, si tu disais pas de conneries sur moi, on n'aurait pas d'problèmes en dehors du fait que t'es un Ape."
 
 # game/v11/scene37a.rpy:348
 translate francais v11_imre_and_ryan_ca492e2f:
@@ -454,7 +454,7 @@ translate francais v11_imre_and_ryan_92007a48:
 translate francais v11_imre_and_ryan_20d58588:
 
     # imre "I don't need to know what he said, I know he was talking about me and you thought the shit was funny, end of story."
-    imre "Je n'ai pas besoin de savoir ce qu'il a dit, je sais que cette merde parlait de moi et que tu l'as trouvée drôle, fin de l'histoire."
+    imre "J'ai pas besoin de savoir c'qu'il a dit, je sais que cette merde parlait de moi et qu'tu l'as trouvé drôle, fin de l'histoire."
 
 # game/v11/scene37a.rpy:368
 translate francais v11_imre_and_ryan_dc90c713:
@@ -478,7 +478,7 @@ translate francais v11_imre_and_ryan_bf2b8e17:
 translate francais v11_imre_and_ryan_6fcdcaa3:
 
     # imre "If it wasn't anything bad and I'm acting crazy then tell me what he said."
-    imre "Si ce n'était rien de grave et que j'agis comme un dingue, alors dis-moi ce qu'il a dit."
+    imre "Si c'n'était rien de grave et qu'j'agis comme un dingue, alors dis-moi c'qu'il a dit."
 
 # game/v11/scene37a.rpy:389
 translate francais v11_imre_and_ryan_b5f95b28:
@@ -490,7 +490,7 @@ translate francais v11_imre_and_ryan_b5f95b28:
 translate francais v11_imre_and_ryan_61920305:
 
     # imre "No, you really do. If he didn't say anything bad about me and you weren't a part of the joke or whatever it was, I'll apologize and this will all be over."
-    imre "Non, tu le dois vraiment. S'il n'a rien dit de mal sur moi et que tu ne faisais pas partie de la blague ou autre, je m'excuserai et tout sera fini."
+    imre "Non, tu l'dois vraiment. S'il n'a rien dit de mal sur moi et qu'tu faisais pas partie de la blague ou autre, je m'excuserai et tout s'ra fini."
 
 # game/v11/scene37a.rpy:399
 translate francais v11_imre_and_ryan_12ade722:
@@ -514,7 +514,7 @@ translate francais v11_imre_and_ryan_6566c322:
 translate francais v11_imre_and_ryan_d6929f78:
 
     # imre "What? You can't start believing his bullshit too. What did Grayson say, Ryan?"
-    imre "Quoi ? Tu ne peux pas commencer à croire à ses conneries toi aussi. Qu'a dit Grayson, Ryan ?"
+    imre "Quoi ? Tu peux pas commencer à croire à ses conneries toi aussi. Qu'a dit Grayson, Ryan ?"
 
 # game/v11/scene37a.rpy:425
 translate francais v11_imre_and_ryan_0b5d8ee4:
@@ -544,7 +544,7 @@ translate francais v11_imre_and_ryan_6410301e:
 translate francais v11_imre_and_ryan_ed82b317:
 
     # imre "Well you should have, I knew you guys were talking about my brother and that's what really pissed me off. You should've said something to Grayson or at least not laughed."
-    imre "Tu aurais dû, je savais que vous parliez de mon frère et c'est ce qui m'a vraiment énervé. Tu aurais dû dire quelque chose à Grayson ou au moins ne pas rire."
+    imre "T'aurais dû, j'savais que vous parliez d'mon frère et c'est c'qui m'a vraiment énervé. T'aurais dû dire quelque chose à Grayson ou au moins pas rire."
 
 # game/v11/scene37a.rpy:446
 translate francais v11_imre_and_ryan_46832b4f:
@@ -556,7 +556,7 @@ translate francais v11_imre_and_ryan_46832b4f:
 translate francais v11_imre_and_ryan_b3bd22a3:
 
     # imre "You shouldn't have laughed at all. You should've either said something about him talking shit or stayed quiet."
-    imre "Tu n'aurais pas dû rire du tout. Tu aurais dû dire quelque chose à propos de ses conneries ou rester silencieux."
+    imre "T'aurais pas dû rire du tout. T'aurais dû dire quelque chose à propos d'ses conneries ou rester silencieux."
 
 # game/v11/scene37a.rpy:456
 translate francais v11_imre_and_ryan_d2e9d857:
@@ -586,7 +586,7 @@ translate francais v11_imre_and_ryan_1c161f25:
 translate francais v11_imre_and_ryan_6bae1c91:
 
     # imre "I want you to apologize."
-    imre "Je veux que tu t'excuses."
+    imre "J'veux qu'tu t'excuses."
 
 # game/v11/scene37a.rpy:481
 translate francais v11_imre_and_ryan_1d40c6b6:
@@ -598,7 +598,7 @@ translate francais v11_imre_and_ryan_1d40c6b6:
 translate francais v11_imre_and_ryan_26b513f4:
 
     # imre "Then we still have a problem."
-    imre "Alors nous avons toujours un problème."
+    imre "Alors on a toujours un problème."
 
 # game/v11/scene37a.rpy:491
 translate francais v11_imre_and_ryan_653b7b6d:
@@ -610,7 +610,7 @@ translate francais v11_imre_and_ryan_653b7b6d:
 translate francais v11_imre_and_ryan_1c48624c:
 
     # imre "Just say when, I'm always ready."
-    imre "Tu n'as qu'à dire quand, je suis toujours prêt."
+    imre "T'as qu'à dire quand, j'suis toujours prêt."
 
 # game/v11/scene37a.rpy:501
 translate francais v11_imre_and_ryan_4c941e4f:
@@ -622,7 +622,7 @@ translate francais v11_imre_and_ryan_4c941e4f:
 translate francais v11_imre_and_ryan_6ec34049:
 
     # imre "You'll find out, motherfu-"
-    imre "Tu le sauras très vite, fils de pu-"
+    imre "Tu l'sauras très vite, fils de pu-"
 
 # game/v11/scene37a.rpy:511
 translate francais v11_imre_and_ryan_7cf92a7f:
@@ -652,13 +652,13 @@ translate francais v11_imre_and_ryan_c22dd398:
 translate francais v11_imre_and_ryan_17347e04:
 
     # imre "No, it has to do with them all talking shit about my brother and Ryan not being able to own up to it."
-    imre "Non, ça a à voir avec le fait qu'ils disent tous de la merde sur mon frère et que Ryan n'est pas capable de l'assumer."
+    imre "Non, ça a à voir avec l'fait qu'ils disent tous d'la merde sur mon frère et que Ryan est pas capable de l'assumer."
 
 # game/v11/scene37a.rpy:533
 translate francais v11_imre_and_ryan_ea49c324:
 
     # imre "He was doing a whole lot of talking at the warehouse to have only laughed at that one part. He's a liar."
-    imre "Il parlait beaucoup à l'entrepôt pour n'avoir ri que de cette partie. C'est un menteur."
+    imre "Il parlait beaucoup à l'entrepôt pour n'avoir ri que d'cette partie. C'est un menteur."
 
 # game/v11/scene37a.rpy:538
 translate francais v11_imre_and_ryan_428f3902:
@@ -670,7 +670,7 @@ translate francais v11_imre_and_ryan_428f3902:
 translate francais v11_imre_and_ryan_b01463de:
 
     # imre "I'm not letting anything go."
-    imre "Je ne laisse rien tomber."
+    imre "Je laisse rien tomber."
 
 # game/v11/scene37a.rpy:548
 translate francais v11_imre_and_ryan_04c65e5f:

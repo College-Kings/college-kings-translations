@@ -64,7 +64,7 @@ translate francais v13_walk_garden_82131369:
 translate francais v13_walk_garden_52b84a05:
 
     # imre "You know I don't."
-    imre "Tu sais bien que non."
+    imre "Tu sais bien qu'non."
 
 # game/v13/scene36.rpy:81
 translate francais v13_walk_garden_3bdd6834:

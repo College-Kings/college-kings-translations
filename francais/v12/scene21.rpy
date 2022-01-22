@@ -430,13 +430,13 @@ translate francais v12_nora_exploring_bdb9b491:
 translate francais v12_nora_exploring_9ede6bbd:
 
     # imre "*Drunk* I do rememberrr!"
-    imre "*ivre* Je m'en souviennnnns !"
+    imre "*ivre* J'm'en souviennnnns !"
 
 # game/v12/scene21.rpy:464
 translate francais v12_nora_exploring_52636210:
 
     # imre "*Loud drunk whisper* She has such pretty feet..."
-    imre "*Chuchote d'ivrogne bruyant* Elle a de si jolis pieds..."
+    imre "*Chuchote d'ivrogne bruyant* Elle a d'si jolis pieds..."
 
 # game/v12/scene21.rpy:469
 translate francais v12_nora_exploring_960de289:

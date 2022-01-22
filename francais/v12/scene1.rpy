@@ -64,7 +64,7 @@ translate francais v12_nora_robbed_fca10fac:
 translate francais v12_nora_robbed_8dd125c6:
 
     # imre "I'll get your bag back as soon as I find that fucker."
-    imre "Je récupérerai ton sac dès que j'aurai trouvé cet enfoiré."
+    imre "J'récupérerai ton sac dès que j'aurai trouvé cet enfoiré."
 
 # game/v12/scene1.rpy:91
 translate francais v12_nora_robbed_68962583:
@@ -76,7 +76,7 @@ translate francais v12_nora_robbed_68962583:
 translate francais v12_nora_robbed_1d5d7450:
 
     # imre "You don't think I can handle myself?"
-    imre "Vous ne pensez pas que je peux me débrouiller tout seul ?"
+    imre "Vous pensez pas qu'j'peux m'débrouiller tout seul ?"
 
 # game/v12/scene1.rpy:101
 translate francais v12_nora_robbed_f813d369:
@@ -94,7 +94,7 @@ translate francais v12_nora_robbed_fcb01bac:
 translate francais v12_nora_robbed_25fef2ad:
 
     # imre "There's no \"chance\" when it comes to me, Ms. Rose. I'd never lose a fight to some scummy, French, son of-"
-    imre "Il n'y a pas de \"risque\" quand il s'agit de moi, Mme Rose. Je ne perdrai jamais un combat contre une ordure d'anglais, fils de..."
+    imre "Il y a pas de \"risque\" quand il s'agit de moi, Mme Rose. Je perdrai jamais un combat contre une ordure d'anglais, fils de..."
 
 # game/v12/scene1.rpy:117
 translate francais v12_nora_robbed_a30f2aea:
@@ -166,7 +166,7 @@ translate francais v12_nora_robbed_c261a2be:
 translate francais v12_nora_robbed_31486fa1:
 
     # imre "Holy shit... Someone actually grew some balls. I thought he'd never bite back."
-    imre "Putain de merde... Quelqu'un s'est vraiment fait pousser des couilles. Je pensais qu'il ne répliquerait jamais."
+    imre "Putain d'merde... Quelqu'un s'est vraiment fait pousser des couilles. J'pensais qu'il répliquerait jamais."
 
 # game/v12/scene1.rpy:189
 translate francais v12_nora_robbed_d5420a74:
@@ -178,7 +178,7 @@ translate francais v12_nora_robbed_d5420a74:
 translate francais v12_nora_robbed_9c8d7b58:
 
     # imre "Well, he won't be getting into anything tonight. *Chuckles* Not after that."
-    imre "Eh bien, il ne fera rien ce soir. *Rire* Pas après ça."
+    imre "Eh bien, il fera rien ce soir. *Rire* Pas après ça."
 
 # game/v12/scene1.rpy:204
 translate francais v12_nora_robbed_1f6ede31:
@@ -196,7 +196,7 @@ translate francais v12_nora_robbed_fb59b871:
 translate francais v12_nora_robbed_871d9642:
 
     # imre "Fuck off, Charli."
-    imre "Va te faire foutre, Charli."
+    imre "Va t'faire foutre, Charli."
 
 # game/v12/scene1.rpy:215
 translate francais v12_nora_robbed_bcfcf0e2:
@@ -232,7 +232,7 @@ translate francais v12_nora_robbed_f1a445d5:
 translate francais v12_nora_robbed_61ebcd72:
 
     # imre "If you got to fight that asshole I'm gonna be pissed."
-    imre "Si tu t'es battue avec ce connard, ça va me faire chier."
+    imre "Si tu t'es battue avec c'connard, ça va m'faire chier."
 
 # game/v12/scene1.rpy:250
 translate francais v12_nora_robbed_47185e93:
@@ -244,7 +244,7 @@ translate francais v12_nora_robbed_47185e93:
 translate francais v12_nora_robbed_5b51d9ee:
 
     # imre "Oh my god, stop. I can feel the pain every time you say it. Luckily for Charli he doesn't have that problem, considering his balls still haven't dropped."
-    imre "Oh merde, arrête. Je peux sentir la douleur à chaque fois que tu le dis. Heureusement pour Charli, il n'a pas ce problème, vu que ses couilles ne sont toujours pas tombées."
+    imre "Oh merde, arrête. J'peux sentir la douleur à chaque fois qu'tu l'dis. Heureusement pour Charli, il a pas c'problème, vu qu'ses couilles sont toujours pas tombées."
 
 # game/v12/scene1.rpy:260
 translate francais v12_nora_robbed_dd62a7a1:

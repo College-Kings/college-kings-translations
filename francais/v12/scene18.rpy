@@ -136,7 +136,7 @@ translate francais v12_slumber_party_5956ea77:
 translate francais v12_slumber_party_952b08ec:
 
     # imre "Right behind me, but I rushed up here to get a good seat."
-    imre "Juste derrière moi, mais je me suis précipité ici pour avoir une bonne place."
+    imre "Juste derrière moi, mais j'me suis précipité ici pour avoir une bonne place."
 
 # game/v12/scene18.rpy:191
 translate francais v12_slumber_party_424484de:
@@ -172,7 +172,7 @@ translate francais v12_slumber_party_748377d4:
 translate francais v12_slumber_party_54c01af9:
 
     # imre "Ahh yeah, plenty of room over here ladies!"
-    imre "Ahh ouais, y'a plein de place par ici les filles !"
+    imre "Ahh ouais, y'a plein d'place par ici les filles !"
 
 # game/v12/scene18.rpy:226
 translate francais v12_slumber_party_3dd7796e:
@@ -184,7 +184,7 @@ translate francais v12_slumber_party_3dd7796e:
 translate francais v12_slumber_party_dfadf186:
 
     # imre "I thought girls loved puppies?"
-    imre "Je croyais que les filles aimaient les chiots ?"
+    imre "J'croyais qu'les filles aimaient les chiots ?"
 
 # game/v12/scene18.rpy:236
 translate francais v12_slumber_party_f020100c:
@@ -238,7 +238,7 @@ translate francais v12_slumber_party_b74c9f91:
 translate francais v12_slumber_party_4116201c:
 
     # imre "Fuck ye- I mean... Yes Mom, Ma'am! I meant, um... Ma'am. Yes, ma'am."
-    imre "Putain ou... je veux dire... Oui m'dame, maman ! Je voulais dire, hum... M'dame. Oui, m'dame."
+    imre "Putain ou... j'veux dire... Oui m'dame, maman ! Je voulais dire, hum... M'dame. Oui, m'dame."
 
 # game/v12/scene18.rpy:286
 translate francais v12_slumber_party_7d7175f5:
@@ -280,7 +280,7 @@ translate francais v12_slumber_party_c6555420:
 translate francais v12_slumber_party_db0d9bc8:
 
     # imre "Hey, an opportunity to see girls in their jam-jams is an opportunity I couldn't miss."
-    imre "Hé, une occasion de voir des filles dans leurs pyj' est une occasion que je ne pouvais franchement pas manquer."
+    imre "Hé, une occasion d'voir des filles dans leurs pyj' est une occasion que j'pouvais franchement pas manquer."
 
 # game/v12/scene18.rpy:326
 translate francais v12_slumber_party_a94cf2be:
@@ -340,7 +340,7 @@ translate francais v12s18_bottlespin_9158ec8f:
 translate francais v12s18_bottlespin_37cb0d32:
 
     # imre "And I didn't get an invite? Wow..."
-    imre "Et je n'ai pas eu d'invitation ? Wow..."
+    imre "Et j'ai pas eu d'invitation ? Wow..."
 
 # game/v12/scene18.rpy:396
 translate francais v12s18_bottlespin_e9b291c1:
@@ -370,7 +370,7 @@ translate francais v12s18_bottlespin_6017e85e:
 translate francais v12s18_bottlespin_e2d79e70:
 
     # imre "I'm not kissing a dude."
-    imre "Je n'embrasse pas de mec."
+    imre "J'embrasse pas d'mec."
 
 # game/v12/scene18.rpy:421
 translate francais v12s18_bottlespin_1651347a:
@@ -382,7 +382,7 @@ translate francais v12s18_bottlespin_1651347a:
 translate francais v12s18_bottlespin_6c900ef6:
 
     # imre "Well... That's hot, and kissing a dude is not. Do I look like Charli to you?"
-    imre "Et bien... C'est excitant, mais embrasser un mec ne l'est pas. Est-ce que je ressemble à Charli pour toi ?"
+    imre "Et bien... C'est excitant, mais embrasser un mec ça l'est pas. Est-ce que j'ressemble à Charli pour toi ?"
 
 # game/v12/scene18.rpy:431
 translate francais v12s18_bottlespin_641f4a36:
@@ -580,7 +580,7 @@ translate francais v12s18_bottlespin_da439162:
 translate francais v12s18_bottlespin_ac19a5d7:
 
     # imre "If it keeps going like this I might play this game more often. *Laughs*"
-    imre "Si ça continue comme ça, je vais peut-être jouer à ce jeu plus souvent. *Rire*"
+    imre "Si ça continue comme ça, j'vais peut-être jouer à ce jeu plus souvent. *Rire*"
 
 # game/v12/scene18.rpy:647
 translate francais v12s18_bottlespin_35bcef7a:
@@ -634,7 +634,7 @@ translate francais v12s18_bottlespin_e394a78d:
 translate francais v12s18_bottlespin_0b7d779b:
 
     # imre "Hey, uh... Glad you guys are getting along and everything, but no kisses unless it has to do with the game."
-    imre "Hé, euh... Content que vous vous entendiez bien et tout, mais pas de baisers sauf si c'est en rapport avec le jeu."
+    imre "Hé, euh... Content qu'vous vous entendiez bien et tout, mais pas d'baisers sauf si c'est en rapport avec le jeu."
 
 # game/v12/scene18.rpy:714
 translate francais v12s18_bottlespin_93930b59:
@@ -772,7 +772,7 @@ translate francais v12s18_bottlespin_0fc34f16:
 translate francais v12s18_bottlespin_e5156e61:
 
     # imre "Okay, you're right, you're right... C'mon on bottle gods!"
-    imre "Ok, tu as raison, tu as raison... Allez, les dieux de la bouteille, soyez avec moi !"
+    imre "Ok, t'as raison, t'as raison... Allez, les dieux d'la bouteille, soyez avec moi !"
 
 # game/v12/scene18.rpy:906
 translate francais v12s18_bottlespin_271f550d:
@@ -790,7 +790,7 @@ translate francais v12s18_bottlespin_b2ea673d:
 translate francais v12s18_bottlespin_791c6445:
 
     # imre "What the fuck is going on? No! I'm not kissing a god damn dude. Especially this ugly motherfuc-"
-    imre "Qu'est-ce qui se passe, bordel ? Non ! Je ne vais pas embrasser un putain de mec. Surtout cet affreux fils de pu-"
+    imre "Qu'est-ce qui s'passe, bordel ? Non ! J'vais pas embrasser un putain d'mec. Surtout cet affreux fils de pu-"
 
 # game/v12/scene18.rpy:930
 translate francais v12s18_bottlespin_852175cf:
@@ -814,7 +814,7 @@ translate francais v12s18_bottlespin_228a21f0:
 translate francais v12s18_bottlespin_8f62ec01:
 
     # imre "*Scoffs* Keep thinking that."
-    imre "*Pfff* Tu peux le croire."
+    imre "*Pfff* Tu peux l'croire."
 
 # game/v12/scene18.rpy:955
 translate francais v12s18_bottlespin_15213618:
@@ -838,7 +838,7 @@ translate francais v12s18_bottlespin_641ef7df:
 translate francais v12s18_bottlespin_a534c02b:
 
     # imre "Hell yesss... This is exactly what I came for. *Chuckles*"
-    imre "Putain oui... C'est exactement ce que je suis venu chercher. *Rire*"
+    imre "Putain oui... C'est exactement c'que j'suis venu chercher. *Rire*"
 
 # game/v12/scene18.rpy:995
 translate francais v12s18_bottlespin_f7112d2b:
@@ -994,7 +994,7 @@ translate francais v12s18_fmk_7a457ba9:
 translate francais v12s18_fmk_3e47d835:
 
     # imre "Sorry bro, but you know I gotta kill you."
-    imre "Désolé mon frère, mais tu sais que je dois te tuer."
+    imre "Désolé mon frère, mais tu sais que j'dois te tuer."
 
 # game/v12/scene18.rpy:1173
 translate francais v12s18_fmk_55da92c7:
@@ -1012,7 +1012,7 @@ translate francais v12s18_fmk_f88d41c6:
 translate francais v12s18_fmk_72cdc330:
 
     # imre "I think I'll marry Amber and fuck Nora. Can't marry Chris' girl, you know?"
-    imre "Je pense que je vais épouser Amber et baiser Nora. Je ne peux pas épouser la meuf de Chris, vous voyez ?"
+    imre "Je pense que j'vais épouser Amber et baiser Nora. J'peux pas épouser la meuf de Chris, vous voyez ?"
 
 # game/v12/scene18.rpy:1188
 translate francais v12s18_fmk_91c096b5:
@@ -1024,7 +1024,7 @@ translate francais v12s18_fmk_91c096b5:
 translate francais v12s18_fmk_6d5d6add:
 
     # imre "In honor of the game, of course. And just one time... If I had to."
-    imre "Pour l'honneur du jeu, bien sûr. Et juste une fois... Si je le devais."
+    imre "Pour l'honneur du jeu, bien sûr. Et juste une fois... Si j'le devais."
 
 # game/v12/scene18.rpy:1203
 translate francais v12s18_fmk_17801d42:
@@ -1114,7 +1114,7 @@ translate francais v12s18_fmk_b89d4057:
 translate francais v12s18_fmk_5fd07fc7:
 
     # imre "I'll make it easy for you bro and just kill myself."
-    imre "Je vais te faciliter la tâche et me suicider."
+    imre "J'vais t'faciliter la tâche et me suicider."
 
 # game/v12/scene18.rpy:1278
 translate francais v12s18_fmk_e0e480fc:
@@ -1210,7 +1210,7 @@ translate francais v12s18_fmk_4af0bf21:
 translate francais v12s18_fmk_d4d3bb1b:
 
     # imre "Why does everyone wanna kill me?"
-    imre "Pourquoi tout le monde veut me tuer ?"
+    imre "Pourquoi tout le monde veut m'tuer ?"
 
 # game/v12/scene18.rpy:1363
 translate francais v12s18_fmk_d82c463b:
@@ -1246,7 +1246,7 @@ translate francais v12s18_fmk_3b022160:
 translate francais v12s18_fmk_d4d3bb1b_1:
 
     # imre "Why does everyone wanna kill me?"
-    imre "Pourquoi tout le monde veut me tuer ?"
+    imre "Pourquoi tout le monde veut m'tuer ?"
 
 # game/v12/scene18.rpy:1399
 translate francais v12s18_fmk_d82c463b_1:
@@ -1510,7 +1510,7 @@ translate francais v12s18_bet_fb635d3a:
 translate francais v12s18_bet_5bd1f527:
 
     # imre "*Drunk* Bored on my phone... Everyone out here is going to sleep... Also, I'm pretty fucking drunk right now... *Chuckles*"
-    imre "*Ivre* Je m'ennuie sur mon téléphone... Tout le monde ici va se coucher... En plus, je suis complètement bourré là... *Rire*"
+    imre "*Ivre* J'm'ennuie sur mon téléphone... Tout le monde ici va s'coucher... En plus, j'suis complètement bourré là... *Rire*"
 
 # game/v12/scene18.rpy:1699
 translate francais v12s18_bet_0407927f:
@@ -1522,7 +1522,7 @@ translate francais v12s18_bet_0407927f:
 translate francais v12s18_bet_909d5397:
 
     # imre "*Drunk* I'm just scrolling through my Kiwii and-"
-    imre "*Ivre* Je suis juste en train de faire défiler mon Kiwii et..."
+    imre "*Ivre* J'suis juste en train d'faire défiler mon Kiwii et..."
 
 # game/v12/scene18.rpy:1715
 translate francais v12s18_bet_8df010cf:
@@ -1606,7 +1606,7 @@ translate francais v12s18_bet_fc085fd0:
 translate francais v12s18_bet_db56474c:
 
     # imre "*Drunk* You're so pretty."
-    imre "*Ivre* Tu est tellement jolie."
+    imre "*Ivre* T'est tellement jolie."
 
 # game/v12/scene18.rpy:1805
 translate francais v12s18_bet_abeff5e1:

@@ -424,7 +424,7 @@ translate francais v12_amber_bus_36385b0d:
 translate francais v12_amber_bus_c62821ba:
 
     # imre "She said \"sound it out\" like you were in elementary school."
-    imre "Elle a dit \"écoutez-le\" comme si tu étais à l'école primaire."
+    imre "Elle a dit \"écoutez-le\" comme si t'étais à l'école primaire."
 
 # game/v12/scene10.rpy:388
 translate francais v12_amber_bus_4bee62f1:

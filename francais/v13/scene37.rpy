@@ -46,7 +46,7 @@ translate francais v13s37_ce7ed246:
 translate francais v13s37_2f0b729c:
 
     # imre "I could see myself building a house on some land with this as my backyard."
-    imre "Je me verrais bien construire une maison sur un terrain avec ça en arrière-cour."
+    imre "Je m'verrais bien construire une maison sur un terrain avec ça en arrière-cour."
 
 # game/v13/scene37.rpy:57
 translate francais v13s37_f8388e93:
@@ -82,7 +82,7 @@ translate francais v13s37_604c5cb0:
 translate francais v13s37_ed8cfdef:
 
     # imre "[name], when I have this at my crib we're gonna have to host fights in the yard and shit."
-    imre "[name], quand j'aurai ça chez moi, on pourra organiser des combats dans le jardin et tout."
+    imre "[name], quand j'aurai ça chez moi, on pourra organiser des combats dans l'jardin et tout."
 
 # game/v13/scene37.rpy:85
 translate francais v13s37_0c1eab3f:
@@ -394,7 +394,7 @@ translate francais v13s37_nora_fc058cfc:
 translate francais v13s37_nora_30288a84:
 
     # imre "Don't even try gaslighting me into not believing what the fuck I just saw."
-    imre "N'essaie même pas de m'empêcher de croire ce que je viens de voir."
+    imre "N'essaie même pas de m'empêcher de croire ce que j'viens de voir."
 
 # game/v13/scene37.rpy:414
 translate francais v13s37_nora_2c18dcc7:
@@ -424,7 +424,7 @@ translate francais v13s37_nora_f81cc2ef:
 translate francais v13s37_nora_2a7fe411:
 
     # imre "So, you want me to act like this just didn't happen? I can't do that shit."
-    imre "Donc, tu veux que je fasse comme si rien ne s'était passé ? Je ne peux pas faire ce genre de conneries."
+    imre "Donc, tu veux que j'fasse comme si rien ne s'était passé ? J'peux pas faire ce genre de conneries."
 
 # game/v13/scene37.rpy:439
 translate francais v13s37_nora_18b8f340:
@@ -436,13 +436,13 @@ translate francais v13s37_nora_18b8f340:
 translate francais v13s37_nora_956c49bc:
 
     # imre "Don't \"bro\" me right now!"
-    imre "Ne me fais pas le coup du \"mon frère\" là !"
+    imre "Ne m'fais pas le coup du \"mon frère\", là !"
 
 # game/v13/scene37.rpy:449
 translate francais v13s37_nora_6eec7298:
 
     # imre "You obviously don't even understand the meaning of the fucking word."
-    imre "Apparemment, tu ne comprends même pas la signification de ce putain de mot."
+    imre "Apparemment, tu comprends même pas la signification de c'putain de mot."
 
 # game/v13/scene37.rpy:454
 translate francais v13s37_nora_b51b4182:
@@ -484,25 +484,25 @@ translate francais v13s37_nora_402687a9:
 translate francais v13s37_nora_dc883b77:
 
     # imre "You know what? I'm gonna be quiet. But not because of you. Or you, for that matter."
-    imre "Tu sais quoi ? Je vais me taire. Mais pas à cause de toi. Ou de toi, non plus."
+    imre "Tu sais quoi ? J'vais m'taire. Mais pas à cause de toi. Ou de toi, non plus."
 
 # game/v13/scene37.rpy:489
 translate francais v13s37_nora_333b050b:
 
     # imre "I'm doing it for Chris. And I already was, but I'll be even more determined to convince him to leave your cheating ass."
-    imre "Je le fais pour Chris. Je l'étais déjà, mais je serai encore plus déterminé à le convaincre de quitter ton sale cul infidèle."
+    imre "J'le fais pour Chris. Je l'étais déjà, mais je serai encore plus déterminé à le convaincre de quitter ton sale cul infidèle."
 
 # game/v13/scene37.rpy:494
 translate francais v13s37_nora_b30711d1:
 
     # imre "And normally [name], I'd be giving you props, but you messed with the homie's girl, and you know that crosses a line."
-    imre "Et normalement [name], je t'aurais félicité, mais tu t'es tapé la meuf de ton pote et tu sais que ça, ça dépasse les bornes."
+    imre "Et normalement [name], je t'aurais félicité, mais tu t'es tapé la meuf de ton pote et tu sais qu'ça, ça dépasse les bornes."
 
 # game/v13/scene37.rpy:499
 translate francais v13s37_nora_3f94ef9f:
 
     # imre "So right now you're on my shit list."
-    imre "Alors maintenant, tu es sur ma liste des merdeux."
+    imre "Alors maintenant, t'es sur ma liste des merdeux."
 
 # game/v13/scene37.rpy:504
 translate francais v13s37_nora_726f9f59:

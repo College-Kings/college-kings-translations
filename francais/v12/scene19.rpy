@@ -4,7 +4,7 @@
 translate francais v12_party_wake_up_fcaabf02:
 
     # imre "What the fuck is on my face!?"
-    imre "C'est quoi ce merdier sur mon visage ?"
+    imre "C'est quoi c'merdier sur mon visage ?"
 
 # game/v12/scene19.rpy:27
 translate francais v12_party_wake_up_b5efda5b:
@@ -22,7 +22,7 @@ translate francais v12_party_wake_up_73ee47e0:
 translate francais v12_party_wake_up_5c80ab2e:
 
     # imre "What do you mean what's wrong?! I look like a damn raccoon! Who did this to me, [name]?"
-    imre "Comment ça, qu'est-ce qu'il y a ? ! Je ressemble à un putain de raton laveur ! Qui m'a fait ça, [name] ?"
+    imre "Comment ça, qu'est-ce qu'il y a ? ! J'ressemble à un putain d'raton laveur ! Qui m'a fait ça, [name] ?"
 
 # game/v12/scene19.rpy:48
 translate francais v12_party_wake_up_ac7e9726:
@@ -34,7 +34,7 @@ translate francais v12_party_wake_up_ac7e9726:
 translate francais v12_party_wake_up_692aa310:
 
     # imre "I remember being drunk and talking to Amber."
-    imre "Je me souviens avoir été bourré et avoir parlé à Amber."
+    imre "J'me souviens avoir été bourré et avoir parlé à Amber."
 
 # game/v12/scene19.rpy:58
 translate francais v12_party_wake_up_b6fd93dd:
@@ -160,7 +160,7 @@ translate francais v12_party_wake_up_e7d9ac6f:
 translate francais v12_party_wake_up_dda602c3:
 
     # imre "Hmm... I guess I can get revenge on Amber later."
-    imre "Hmm... Je peux me venger d'Amber plus tard."
+    imre "Hmm... J'peux m'venger d'Amber plus tard."
 
 # game/v12/scene19.rpy:183
 translate francais v12_party_wake_up_d58b0b7e:

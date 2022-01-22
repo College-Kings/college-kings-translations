@@ -4,7 +4,7 @@
 translate francais v13_walk_imre_bf480442:
 
     # imre "I never expected you to be like that."
-    imre "Je ne m'attendais pas à ce que tu sois comme ça."
+    imre "J'm'attendais pas à ce que tu sois comme ça."
 
 # game/v13/scene38.rpy:21
 translate francais v13_walk_imre_ca830689:
@@ -16,7 +16,7 @@ translate francais v13_walk_imre_ca830689:
 translate francais v13_walk_imre_5d768374:
 
     # imre "How can you say that? Especially when I just saw you swapping spit with the homie's girl?"
-    imre "Comment peux-tu dire ça ? Surtout quand je viens de te voir échanger ta salive avec la meuf de ton pote ?"
+    imre "Comment peux-tu dire ça ? Surtout quand j'viens de t'voir échanger ta salive avec la meuf de ton pote ?"
 
 # game/v13/scene38.rpy:31
 translate francais v13_walk_imre_f3ac72a8:
@@ -46,19 +46,19 @@ translate francais v13_walk_imre_71346b61:
 translate francais v13_walk_imre_3cca55e6:
 
     # imre "Because I'm gonna make it happen if it's the last thing I do. She obviously isn't good for him."
-    imre "Parce que je vais faire en sorte que ça arrive même si c'est la dernière chose que je fais. Elle n'est clairement pas bonne pour lui."
+    imre "Parce que j'vais faire en sorte qu'ça arrive même si c'est la dernière chose que j'fais. Elle n'est clairement pas bonne pour lui."
 
 # game/v13/scene38.rpy:53
 translate francais v13_walk_imre_146f0af1:
 
     # imre "You may have broken bro code, but she actually cheated. So, she's gotta go."
-    imre "Tu as peut-être brisé le code des frères, mais elle, elle a été infidèle. Donc, elle doit partir."
+    imre "T'as peut-être brisé le code des frères, mais elle, elle a été infidèle. Donc, elle doit partir."
 
 # game/v13/scene38.rpy:59
 translate francais v13_walk_imre_4ae1a986:
 
     # imre "I'm not liking this vibe she's giving off."
-    imre "Je n'aime pas les ondes qu'elle dégage."
+    imre "J'aime pas les ondes qu'elle dégage."
 
 # game/v13/scene38.rpy:64
 translate francais v13_walk_imre_53c0db1c:
@@ -70,13 +70,13 @@ translate francais v13_walk_imre_53c0db1c:
 translate francais v13_walk_imre_84577d1b:
 
     # imre "Nora, duh. You don't see all the hand moving and fake smiling she's doing?"
-    imre "Nora, bien sûr. Tu ne vois pas tous les gestes et les faux sourires qu'elle fait ?"
+    imre "Nora, bien sûr. Tu vois pas tous les gestes et les faux sourires qu'elle fait ?"
 
 # game/v13/scene38.rpy:74
 translate francais v13_walk_imre_bcd2e615:
 
     # imre "Chris is out here actually trying and she's not doing a damn thing to help the situation."
-    imre "Chris est là en train d'essayer et elle ne fait rien pour améliorer la situation."
+    imre "Chris est là en train d'essayer et elle fait rien pour améliorer la situation."
 
 # game/v13/scene38.rpy:79
 translate francais v13_walk_imre_8ffec062:
@@ -100,7 +100,7 @@ translate francais v13_walk_imre_d127df34:
 translate francais v13_walk_imre_4fea82f1:
 
     # imre "*Sighs* You know how my brother was a Wolf?"
-    imre "*Soupirs* Tu sais que mon frère était un Wolf ?"
+    imre "*Soupirs* Tu sais qu'mon frère était un Wolf ?"
 
 # game/v13/scene38.rpy:99
 translate francais v13_walk_imre_505a3f68:
@@ -118,7 +118,7 @@ translate francais v13_walk_imre_508d4c27:
 translate francais v13_walk_imre_cd8f1bfd:
 
     # imre "I respected it a lot, and when I joined the Wolves I expected to see a strong bond between the two of them."
-    imre "Je le respectais beaucoup, et quand j'ai rejoint les Wolves, je m'attendais à voir un lien très fort entre eux deux."
+    imre "J'le respectais beaucoup, et quand j'ai rejoint les Wolves, j'm'attendais à voir un lien très fort entre eux deux."
 
 # game/v13/scene38.rpy:111
 translate francais v13_walk_imre_e40f1457:
@@ -130,7 +130,7 @@ translate francais v13_walk_imre_e40f1457:
 translate francais v13_walk_imre_3db34aa0:
 
     # imre "Very much so. If Chris was such a good guy that she rejected my brother, then why all of the sudden is he not good enough for her to reject you? Chris hasn't changed."
-    imre "Tout à fait. Si Chris était un si bon mec pour qu'elle rejette mon frère, alors pourquoi tout d'un coup n'est-il pas assez bon pour qu'elle te rejette ? Chris n'a pas changé."
+    imre "Tout à fait. Si Chris était un si bon mec pour qu'elle rejette mon frère, alors pourquoi tout d'un coup n'est-il pas assez bon pour qu'elle t'rejette ? Chris n'a pas changé."
 
 # game/v13/scene38.rpy:121
 translate francais v13_walk_imre_66ef4081:
@@ -148,13 +148,13 @@ translate francais v13_walk_imre_e4db8f63:
 translate francais v13_walk_imre_7261ec76:
 
     # imre "I just don't believe it. He's a loyal and dependable guy."
-    imre "Je n'y crois pas. C'est un gars loyal et fiable."
+    imre "J'y crois pas. C'est un gars loyal et fiable."
 
 # game/v13/scene38.rpy:133
 translate francais v13_walk_imre_d1c02405:
 
     # imre "It didn't bother me when she rejected my brother because hell... if I'm being honest, she rejected him for a better man."
-    imre "Ça ne m'a pas dérangé quand elle a rejeté mon frère parce que merde... pour être honnête, elle l'a rejeté pour un meilleur."
+    imre "Ça m'a pas dérangé quand elle a rejeté mon frère parce que merde... pour être honnête, elle l'a rejeté pour un meilleur."
 
 # game/v13/scene38.rpy:138
 translate francais v13_walk_imre_aabac07b:
@@ -166,7 +166,7 @@ translate francais v13_walk_imre_aabac07b:
 translate francais v13_walk_imre_c8b03be2:
 
     # imre "You must not know the Chris that I know, and that's not me throwing shade... It's just a factual statement."
-    imre "Tu ne dois pas connaître le Chris que je connais, et ce n'est pas moi qui te fais de l'ombre... C'est juste un constat des faits."
+    imre "Tu dois pas connaître le Chris que j'connais, et c'est pas moi qui te fais de l'ombre... C'est juste un constat des faits."
 
 # game/v13/scene38.rpy:148
 translate francais v13_walk_imre_8203a028:

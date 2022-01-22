@@ -400,7 +400,7 @@ translate francais v11_dinner_with_lauren_81592ef3:
 translate francais v11_dinner_with_lauren_640c1509:
 
     # imre "Haha, you will, I would tell you myself but I'd rather her not send Amber after me. *Chuckles* Later man."
-    imre "Haha, tu le feras, je te le dirais bien moi-même mais je préfère qu'elle n'envoie pas Amber après moi. *Rire* A plus tard mec."
+    imre "Haha, tu l'feras, j'te l'dirais bien moi-même mais j'préfère qu'elle envoie pas Amber après moi. *Rire* À plus tard mec."
 
 # game/v11/scene46.rpy:345
 translate francais v11_dinner_with_lauren_a0b3b901:
@@ -454,7 +454,7 @@ translate francais v11_dinner_with_lauren_7ef1bc0c:
 translate francais v11_dinner_with_lauren_2787fde4:
 
     # imre "*Whisper* Have a nice dinner with Blue Ball Lauren? *Laughs*"
-    imre "*Chuchote* tu as eu un bon dîner avec Chauffe quéquette Lauren ? *Rire*"
+    imre "*Chuchote* t'as eu un bon dîner avec Chauffe quéquette Lauren ? *Rire*"
 
 # game/v11/scene46.rpy:410
 translate francais v11_dinner_with_lauren_8d402e41:

@@ -16,7 +16,7 @@ translate francais v13s23_b21bbc29:
 translate francais v13s23_3428cc24:
 
     # imre "I don't want you to come, but two people isn't enough and Chris didn't wanna go out. So, here we are. It was either Chris or Mr. Lee, and he's a little occupied right now."
-    imre "Je ne veux pas que tu viennes, mais deux personnes, ce n'est pas assez et Chris ne voulait pas sortir. Donc, nous y voilà. C'était soit Chris, soit Mr Lee, et ce dernier est un peu occupé en ce moment."
+    imre "J'veux pas qu'tu viennes, mais deux personnes, c'est pas assez et Chris voulait pas sortir. Donc, nous y voilà. C'était soit Chris, soit Mr Lee, et c'dernier est un peu occupé en c'moment."
 
 # game/v13/scene23.rpy:40
 translate francais v13s23_42b2727e:
@@ -28,7 +28,7 @@ translate francais v13s23_42b2727e:
 translate francais v13s23_ef13a2ef:
 
     # imre "*Laughs* When I got there, Mr. Lee had Charli pinned to the ground..."
-    imre "*Rire* Quand je suis arrivé, Mr Lee avait plaqué Charli au sol..."
+    imre "*Rire* Quand j'suis arrivé, Mr Lee avait plaqué Charli au sol..."
 
 # game/v13/scene23.rpy:51
 translate francais v13s23_609a801d:
@@ -46,7 +46,7 @@ translate francais v13s23_7a3882e4:
 translate francais v13s23_0de3b809:
 
     # imre "Shit, dude... You really got rid of that rat?"
-    imre "Putain, mec... Tu t'es vraiment débarrassé de ce rat ?"
+    imre "Putain, mec... Tu t'es vraiment débarrassé d'ce rat ?"
 
 # game/v13/scene23.rpy:69
 translate francais v13s23_749e576b:

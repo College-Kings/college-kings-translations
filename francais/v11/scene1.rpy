@@ -28,13 +28,13 @@ translate francais v11_start_a1f03760:
 translate francais v11_start_ad57c078:
 
     # u "I'm sorry. Honestly, I woke up late, but I'm here now and ready to defend you."
-    u "Je suis désolé. Honnêtement, je me suis réveillé tard, mais je suis là maintenant et prêt à te défendre."
+    u "Je suis désolé. Pour te dire franchement, je me suis réveillé tard, mais je suis là maintenant et prêt à te défendre."
 
 # game/v11/scene1.rpy:66
 translate francais v11_start_49f1e1fd:
 
     # jen "It's about time. So what's the plan?"
-    jen "Il est grand temps. Alors, quel est le plan ?"
+    jen "Il était temps. Alors, quel est le plan ?"
 
 # game/v11/scene1.rpy:71
 translate francais v11_start_4b9201c9:
@@ -94,13 +94,13 @@ translate francais v11_start_71c7d1a1:
 translate francais v11_start_f28eba93:
 
     # de "Miss Cross is being charged with interference in the application process in an effort to get her friend admitted into San Vallejo College."
-    de "Mlle Cross est accusée d'ingérence dans le processus de candidature dans le but de faire admettre son ami au Collège San Vallejo."
+    de "Mlle Cross est accusée de s'être immiscée dans le processus de candidature, dans le but de faire admettre son amie à l'université de San Vallejo."
 
 # game/v11/scene1.rpy:130
 translate francais v11_start_89e0dc01:
 
     # de "This was done by hacking into admissions and making necessary adjustments without any permission or legal access. Is this accurate, Miss Cross?"
-    de "Cela a été fait en piratant les admissions et en faisant les ajustements nécessaires sans aucune permission ou accès légal. Est-ce exact, Mlle Cross ?"
+    de "Ceci a été fait en piratant les admissions et en faisant les ajustements nécessaires sans aucune permission ou accès légal. Est-ce exact, Mlle Cross ?"
 
 # game/v11/scene1.rpy:135
 translate francais v11_start_e9d350e8_1:
@@ -112,7 +112,7 @@ translate francais v11_start_e9d350e8_1:
 translate francais v11_start_ae1b436f:
 
     # de "Good, so with all that said, the position of the school is to establish a fine of $15,000 that is to be paid prior to the start of the next semester."
-    de "Bien, donc avec tout cela dit, la position de l'école est d'établir une amende de 15 000 $ qui doit être payée avant le début du prochain semestre."
+    de "Bien, donc ceci étant dit, la position de l'école est d'établir une amende de 15 000 $ qui doit être payée avant le début du prochain semestre."
 
 # game/v11/scene1.rpy:142
 translate francais v11_start_57bccec3:
@@ -184,7 +184,7 @@ translate francais v11_start_32234afe:
 translate francais v11_start_92927cc6:
 
     # u "Growing up I watched a lot of court shows so I already know what you guys are trying to do. I've seen this type of setup thousands of times."
-    u "En grandissant, j'ai regardé beaucoup d'émissions judiciaires, donc je sais déjà ce que vous essayez de faire. J'ai vu ce type de montage des milliers de fois."
+    u "En grandissant, j'ai regardé beaucoup d'émissions judiciaires, donc je sais déjà ce que vous essayez de faire. J'ai vu ce type de configuration des milliers de fois."
 
 # game/v11/scene1.rpy:211
 translate francais v11_start_b1e49ef3:
@@ -220,13 +220,13 @@ translate francais v11_start_fa9ff11f:
 translate francais v11_start_921c47a3:
 
     # de "San Vallejo College prides itself on our students' passion for helping each other. However that help has to be inside the boundaries of legality."
-    de "Le Collège San Vallejo est fier de la passion de ses étudiants pour l'entraide. Cependant, cette aide doit rester dans les limites de la légalité."
+    de "Le Collège San Vallejo est fier de la passion qui anime ses étudiants à s'entraider. Cependant, cette aide doit se faire dans les limites de la légalité."
 
 # game/v11/scene1.rpy:238
 translate francais v11_start_2f5c9071:
 
     # de "Your friend disregarded those boundaries and ended up breaking the law which is unacceptable no matter the circumstances. Should we not punish those that commit crimes?"
-    de "Votre amie n'a pas respecté ces limites et a fini par enfreindre la loi, ce qui est inacceptable, quelles que soient les circonstances. Ne devrions-nous pas punir ceux qui commettent des crimes ?"
+    de "Votre amie n'a pas respecté ces limites et a fini par enfreindre la loi, ce qui est inacceptable. Quelles qu'en soient les circonstances. Ne devrions-nous pas punir ceux qui commettent des crimes ?"
 
 # game/v11/scene1.rpy:248
 translate francais v11_start_ed203484:
@@ -256,7 +256,7 @@ translate francais v11_start_62e1102c:
 translate francais v11_start_d6066831:
 
     # de "Serious crimes result in serious punishment."
-    de "Les crimes graves entraînent des sanctions graves."
+    de "Les crimes graves entraînent de graves sanctions."
 
 # game/v11/scene1.rpy:272
 translate francais v11_start_d0442a1a:
@@ -268,7 +268,7 @@ translate francais v11_start_d0442a1a:
 translate francais v11_start_4d83084e:
 
     # u "The intention, to help a fellow student, was pure and clearly without seeking any personal reward or benefit."
-    u "L'intention, d'aider une camarade de classe, était pure et claire, sans recherche de récompense ou de bénéfice personnel."
+    u "L'intention, d'aider une camarade de classe, était pure et manifestement sans chercher une récompense ou un avantage personnel."
 
 # game/v11/scene1.rpy:276
 translate francais v11_start_3bfad6e4:
@@ -292,7 +292,7 @@ translate francais v11_start_e60659c7:
 translate francais v11_start_1656ec81:
 
     # u "Instead, using positive reinforcement by allowing Penelope's abilities, selflessness, and intelligence to flourish in an environment beneficial to the school would be more appropriate."
-    u "Il serait plus approprié d'utiliser le renforcement positif en permettant aux capacités, à l'altruisme et à l'intelligence de Pénélope de s'épanouir dans un environnement bénéfique pour l'école."
+    u "Au contraire, il serait plus approprié d'utiliser le renforcement positif en permettant aux capacités, à l'altruisme et à l'intelligence de Pénélope de s'épanouir dans un environnement bénéfique pour l'école."
 
 # game/v11/scene1.rpy:287
 translate francais v11_start_937d7a3c:
@@ -364,7 +364,7 @@ translate francais v11_start_4b882aaa:
 translate francais v11_start_9578c13e:
 
     # de "And you feel these few times are enough to fully understand her character?"
-    de "Et vous pensez que ces quelques moments sont suffisants pour comprendre pleinement son caractère ?"
+    de "Et vous pensez que ces \"quelques moments\" sont suffisants pour comprendre pleinement son caractère ?"
 
 # game/v11/scene1.rpy:352
 translate francais v11_start_758ac4b5:
@@ -400,7 +400,7 @@ translate francais v11_start_cbe6f1fc:
 translate francais v11_start_a551b18a:
 
     # u "She volunteers all the time and even the one blemish she has is just more proof of her care for others. So if on paper is what matters most, you should be agreeing with me."
-    u "Elle fait du bénévolat tout le temps et même l'imperfection qu'elle a n'est qu'une preuve de plus de l'attention qu'elle porte aux autres. Donc si c'est son dossier qui compte le plus, vous devriez être d'accord avec moi."
+    u "Elle fait régulièrement du bénévolat et la seule ombre au tableau qu'elle a n'est qu'une preuve supplémentaire de l'attention qu'elle porte aux autres. Donc si sur le papier c'est ce qui compte le plus, vous devriez être d'accord avec moi."
 
 # game/v11/scene1.rpy:380
 translate francais v11_start_313bd9d8:
@@ -424,7 +424,7 @@ translate francais v11_start_4cba5b9e:
 translate francais v11_start_aa46c1ac:
 
     # u "I don't, there's so much stuff about people that is never shown on paper."
-    u "Je ne vous le fais pas dire, il y a tellement de choses sur les gens qui ne sont jamais montrées dans leur dossier scolaire."
+    u "Je ne vous le fais pas dire, il y a tellement de choses sur les individus qui ne sont jamais exposées, même dans un dossier scolaire."
 
 # game/v11/scene1.rpy:401
 translate francais v11_start_740e7b21:
@@ -490,19 +490,19 @@ translate francais v11_start_8d9dea31:
 translate francais v11_start_7a2d8dc6:
 
     # jen "Penelope is sweet, a book whiz, and she's pretty. She could have the world if she wanted, but she never thinks about herself."
-    jen "Pénélope est gentille, elle est douée pour les livres et elle est jolie. Elle pourrait avoir le monde entier si elle le voulait, mais elle ne pense jamais à elle."
+    jen "Pénélope est douce, elle est douée pour les livres et elle est très jolie. Elle pourrait avoir le monde à ses pieds si elle le voulait, mais elle ne pense jamais à elle-même. Elle reste concentrée sur le bien être des autres."
 
 # game/v11/scene1.rpy:450
 translate francais v11_start_a386d5d0:
 
     # jen "It's always \"I hope they're okay\" or \"I wanna help so and so with their studies''. I wish I was as good of a person as she is."
-    jen "C'est toujours : \"J'espère qu'ils vont bien\" ou \"Je veux aider untel ou unetelle dans ses études\". J'aimerais être une aussi gentille personne qu'elle."
+    jen "C'est toujours : \"J'espère qu'ils vont bien\" ou \"Je veux aider untel ou unetelle dans ses études\". J'aimerais vraiment être une personne aussi gentille qu'elle."
 
 # game/v11/scene1.rpy:452
 translate francais v11_start_05cdfadb:
 
     # jen "What makes it worse is that she did all of this because of me."
-    jen "Ce qui est pire, c'est qu'elle a fait tout ça à cause de moi."
+    jen "Ce qui est pire, c'est qu'elle est ici, face à vous, à cause de moi."
 
 # game/v11/scene1.rpy:457
 translate francais v11_start_fb465c1d:
@@ -514,13 +514,13 @@ translate francais v11_start_fb465c1d:
 translate francais v11_start_02eec5fe:
 
     # jen "I'm the one that wasn't smart enough to get into SVC on my own merit, so being the good person she is she tried getting me in."
-    jen "C'est moi qui n'étais pas assez intelligente pour entrer au SVC par mon propre mérite, alors comme elle est une bonne personne, c'est elle qui a essayé de me faire entrer."
+    jen "Je suis celle qui n'était pas assez intelligente pour entrer au SVC par mon propre mérite, alors étant la gentille personne qu'elle a toujours été, elle a voulu me faire entrer ici."
 
 # game/v11/scene1.rpy:464
 translate francais v11_start_a4d768c8:
 
     # jen "She even kept it from me until recently, because she wanted me to think I did it on my own."
-    jen "Elle me l'a même caché jusqu'à récemment, parce qu'elle voulait que je pense que j'avais réussi par moi-même."
+    jen "Elle me l'a même caché jusqu'à très récemment, car elle voulait que je pense que j'avais réussi par moi-même."
 
 # game/v11/scene1.rpy:469
 translate francais v11_start_7a104825:
@@ -532,7 +532,7 @@ translate francais v11_start_7a104825:
 translate francais v11_start_85efff4c:
 
     # u "Dean, I assume since you've been so involved in this case you know all there is to know about it."
-    u "Doyenne, je suppose que puisque vous avez été si impliquée dans cette affaire, vous savez tout ce qu'il y a à savoir."
+    u "Doyenne, je suppose que, puisque vous avez été si impliqué dans cette affaire, vous savez tout ce qu'il y a à savoir à son sujet."
 
 # game/v11/scene1.rpy:486
 translate francais v11_start_7c8c0873:
@@ -550,7 +550,7 @@ translate francais v11_start_21b2bc5f:
 translate francais v11_start_4529f272:
 
     # de "Well... a computer. Obviously."
-    de "Eh bien... un ordinateur. Évidemment."
+    de "Eh bien... un ordinateur. Manifestement."
 
 # game/v11/scene1.rpy:501
 translate francais v11_start_5f20cecd:
@@ -586,7 +586,7 @@ translate francais v11_start_0e3a390a:
 translate francais v11_start_29c2b3e9:
 
     # de "It would make a difference yes, she would be accused of encouraging misconduct which is far less of an accusation than where we currently stand."
-    de "Cela ferait une différence, oui, elle serait accusée d'avoir encouragé une mauvaise conduite, ce qui est une accusation bien moins grave que la situation actuelle."
+    de "Ça ferait une différence, oui, elle serait accusée d'avoir encouragé une mauvaise conduite, ce qui est une accusation bien moins grave que la situation actuelle."
 
 # game/v11/scene1.rpy:530
 translate francais v11_start_67d020f4:
@@ -622,7 +622,7 @@ translate francais v11_start_cdcff078:
 translate francais v11_start_aa2ab76b:
 
     # de "You understand that by choosing not to tell us we have no choice but to assume you did this on your own? Which makes you fully responsible."
-    de "Vous comprenez qu'en choisissant de ne pas nous le dire, nous n'avons pas d'autre choix que de supposer que vous avez fait ça vous-même ? Ce qui vous rend entièrement responsable."
+    de "Vous comprenez qu'en choisissant de ne pas nous le dire, nous n'avons pas d'autre choix que de considérer que vous avez fait ça seule ? Ce qui vous rendrait pleinement responsable."
 
 # game/v11/scene1.rpy:565
 translate francais v11_start_1f56cc61:
@@ -700,7 +700,7 @@ translate francais v11_start_924ce306:
 translate francais v11_start_8c9dc01e:
 
     # lee "We can look further into our own staff here at SVC if need be on another occasion."
-    lee "Nous pourrons examiner plus en détail notre propre personnel de l'SVC, si nécessaire, à une autre occasion."
+    lee "Nous pourrons examiner plus en détail notre propre personnel du SVC, si nécessaire, à une autre occasion."
 
 # game/v11/scene1.rpy:626
 translate francais v11_start_2c8491b1:
@@ -760,7 +760,7 @@ translate francais v11_start_4e81de3f:
 translate francais v11_start_8b10f88b:
 
     # u "It's pretty obvious we won so yeah, go deliberate."
-    u "C'est évident qu'on a gagné, alors oui, allez-y délibérément."
+    u "Il est assez évident que nous avons gagné, alors oui, allez délibérer."
 
 # game/v11/scene1.rpy:684
 translate francais v11_start_888c4889:
@@ -778,7 +778,7 @@ translate francais v11_start_f2e3f7fb:
 translate francais v11_start_3c67141d:
 
     # u "I'm not sure, but I think we did good."
-    u "Je ne suis pas sûr, mais je pense que nous avons bien fait les choses."
+    u "Je ne suis pas sûr, mais je pense qu'on a bien fait les choses."
 
 # game/v11/scene1.rpy:713
 translate francais v11_start_621c3aae:
@@ -790,7 +790,7 @@ translate francais v11_start_621c3aae:
 translate francais v11_start_99ea67ce:
 
     # jen "I'm gonna go check on her."
-    jen "Je vais aller voir comment elle va."
+    jen "Je vais voir comment elle va."
 
 # game/v11/scene1.rpy:754
 translate francais v11s1_riley_d375cca3:
@@ -838,13 +838,13 @@ translate francais v11s1_riley_4b103dd5:
 translate francais v11s1_riley_9d25bfef:
 
     # ri "I'm sorry... Do your best to stay positive, Penelope needs all the support she can get at the moment."
-    ri "Je suis désolée... Fais de ton mieux pour rester positif, Pénélope a besoin de tout le soutien qu'elle peut avoir en ce moment."
+    ri "Je suis désolée... Fais de ton mieux pour rester positif, Pénélope a besoin de tout le soutien qui peut lui être apporté pour le moment."
 
 # game/v11/scene1.rpy:799
 translate francais v11s1_riley_ded1db42:
 
     # ri "It's really sweet of you to be so supportive of your friends."
-    ri "C'est vraiment gentil de ta part de soutenir tes amis."
+    ri "C'est vraiment gentil de ta part de soutenir tes amies."
 
 # game/v11/scene1.rpy:804
 translate francais v11s1_riley_7b668255:
@@ -874,7 +874,7 @@ translate francais v11s1_riley_bfb8f7f6:
 translate francais v11s1_riley_d405d525:
 
     # ri "I really wish there was something more I could do for her. It's a really bad situation, after all she only did this to help a friend in need."
-    ri "J'aimerais vraiment pouvoir faire quelque chose de plus pour elle. C'est vraiment une mauvaise situation, après tout, elle n'a fait ça que pour aider une amie dans le besoin."
+    ri "J'aimerais vraiment pouvoir faire quelque chose de plus pour elle. C'est une très mauvaise affaire, après tout, elle n'a fait ça que pour aider une amie dans le besoin."
 
 # game/v11/scene1.rpy:829
 translate francais v11s1_riley_4a060ae8:
@@ -886,7 +886,7 @@ translate francais v11s1_riley_4a060ae8:
 translate francais v11s1_riley_fdd1aeb2:
 
     # ri "Well, you know I'm here for you both regardless. I'm gonna go check on Penelope and see if there's anything I can do to help settle her nerves."
-    ri "Eh bien, vous savez que je suis là pour vous deux de toute façon. Je vais aller voir Pénélope et voir s'il y a quelque chose que je peux faire pour l'aider à se calmer."
+    ri "Eh bien, vous savez que je suis là pour vous deux de toute façon. Je vais aller voir Pénélope et voir s'il y a quelque chose que je puisse faire pour l'aider à se détendre."
 
 # game/v11/scene1.rpy:841
 translate francais v11s1_riley_01365ea1:
@@ -904,7 +904,7 @@ translate francais v11s1_riley_45918ba4:
 translate francais v11s1_mrrose_82851f55:
 
     # u "Mr. Rose? What are you doing here?"
-    u "M. Rose ? Qu'est-ce que vous faites ici ?"
+    u "Mr Rose ? Qu'est-ce que vous faites ici ?"
 
 # game/v11/scene1.rpy:870
 translate francais v11s1_mrrose_3fef47e7:
@@ -940,7 +940,7 @@ translate francais v11s1_mrrose_bceef75c:
 translate francais v11s1_mrrose_36fec6f9:
 
     # mrr "Because I have connections champ. It's always better to have someone like me on your side."
-    mrr "Parce que j'ai des relations, champion. C'est toujours mieux d'avoir quelqu'un comme moi de ton côté."
+    mrr "Parce que j'ai des relations, champion. C'est toujours mieux d'avoir quelqu'un comme moi de son côté."
 
 # game/v11/scene1.rpy:896
 translate francais v11s1_mrrose_86eed1bb:
@@ -952,7 +952,7 @@ translate francais v11s1_mrrose_86eed1bb:
 translate francais v11s1_mrrose_118ce03f:
 
     # mrr "If you really believe you can help her from in there, you're a fool. The real game is played out here."
-    mrr "Si tu crois vraiment que tu peux l'aider là-dedans, tu es un idiot. La vraie partie se joue ici."
+    mrr "Si tu crois vraiment que tu peux l'aider là-dedans, t'es un idiot. La vraie partie se joue ici."
 
 # game/v11/scene1.rpy:906
 translate francais v11s1_mrrose_6c6be737:
@@ -1006,7 +1006,7 @@ translate francais v11s1_jenny_6245aff3:
 translate francais v11s1_jenny_35cd4560:
 
     # u "I do too, that damn dean wouldn't let up. It stopped feeling like a hearing and more like a personal attack about half way through."
-    u "Moi aussi, cette saleté de doyenne ne voulait rien lâcher. Ça a cessé d'être une audience et ressemblait plus à une attaque personnelle à la moitié du parcours."
+    u "Moi aussi, cette saleté de doyenne ne voulait rien lâcher. À partir de la moitié du parcours, ça a cessé d'être une audience et ressemblait plus à une attaque personnelle."
 
 # game/v11/scene1.rpy:961
 translate francais v11s1_jenny_2ebe2575:
@@ -1018,7 +1018,7 @@ translate francais v11s1_jenny_2ebe2575:
 translate francais v11s1_jenny_539517bf:
 
     # u "Mr. Lee was being very fair and understanding though."
-    u "M. Lee s'est montré très juste et compréhensif."
+    u "Mr Lee s'est montré très juste et compréhensif."
 
 # game/v11/scene1.rpy:971
 translate francais v11s1_jenny_b0c92eb1:
@@ -1090,19 +1090,19 @@ translate francais v11s1_delib_190be94d:
 translate francais v11s1_delib_f131d6a6:
 
     # lee "You... you are the issue here Clayton. I do my best to keep a cool tone, but you're aggravating me."
-    lee "Tu... tu es le problème ici Clayton. Je fais de mon mieux pour garder mon calme, mais tu m'exaspères."
+    lee "Tu... c'est TOI le problème ici Clayton. Je fais de mon mieux pour garder mon calme, mais tu m'exaspères."
 
 # game/v11/scene1.rpy:1036
 translate francais v11s1_delib_d5451529:
 
     # de "Calm down Bruce, it's nearly time to wrap this up. Clayton, let the kids know we've made a decision."
-    de "Calme-toi Bruce, c'est presque l'heure de conclure. Clayton, dis aux enfants que nous avons pris une décision."
+    de "Calme-toi Bruce, il est presque temps de clore cette affaire. Clayton, fais savoir aux enfants que notre décision est prise."
 
 # game/v11/scene1.rpy:1041
 translate francais v11s1_delib_e746dcc6:
 
     # art "I'M NOT A SLAVE, I'M-"
-    art "JE NE SUIS PAS UN ESCLAVE, JE SUIS-"
+    art "OH ! JE NE SUIS PAS UN ESCLAVE, JE SUIS-"
 
 # game/v11/scene1.rpy:1046
 translate francais v11s1_delib_0b0ba5e7:
@@ -1156,7 +1156,7 @@ translate francais v11_case_verdict_0f445de0:
 translate francais v11_case_verdict_d50b276e:
 
     # lee "Alongside that, you will be volunteering with a university research company that is in great need of computer inclined individuals such as yourself for the remainder of your time here at the college. Do you agree?"
-    lee "En outre, vous travaillerez bénévolement pour une entreprise de recherche universitaire qui a grand besoin de personnes douées en informatique, comme vous, pendant le reste de votre séjour à l'université. Vous êtes d'accord ?"
+    lee "En outre, vous travaillerez bénévolement pour une entreprise de recherche universitaire qui a grand besoin de personnes douées en informatique, comme vous, pendant le reste de votre période universitaire. Êtes-vous d'accord ?"
 
 # game/v11/scene1.rpy:1103
 translate francais v11_case_verdict_506c7310:
@@ -1174,13 +1174,13 @@ translate francais v11_case_verdict_e3b3f959:
 translate francais v11_case_verdict_6d0a13b6:
 
     # u "Thank you Mr. Lee."
-    u "Merci Mr. Lee."
+    u "Merci Mr Lee."
 
 # game/v11/scene1.rpy:1119
 translate francais v11_case_verdict_e9055a70:
 
     # de "Since Mr. Lee is a primary chaperone on this trip he will oversee everything from here."
-    de "Puisque M. Lee est le chaperon principal de ce voyage, il supervisera tout d'ici."
+    de "Puisque Mr Lee est le chaperon principal de ce voyage, il supervisera tout d'ici."
 
 # game/v11/scene1.rpy:1121
 translate francais v11_case_verdict_b65c5b5f:
@@ -1234,7 +1234,7 @@ translate francais v11_case_verdict_bd1e47b8:
 translate francais v11_case_verdict_b8034cea:
 
     # pe "No I mean it, thank you. You have no idea how much this means to me. When I got that letter from the school I thought my life was ruined. I don't know what I would have done without you."
-    pe "Non, je le pense, merci. Tu n'as pas idée de ce que ça représente pour moi. Quand j'ai reçu cette lettre de l'école, j'ai cru que ma vie était ruinée. Je ne sais pas ce que j'aurais fait sans toi."
+    pe "Non, je le pense, merci. Tu n'as pas idée de ce que ça représente pour moi. Quand j'ai reçu cette lettre de l'école, j'ai cru que ma vie était ruinée. Je ne sais pas ce que j'aurais pu faire sans toi."
 
 # game/v11/scene1.rpy:1173
 translate francais v11_case_verdict_3116bf9f:
@@ -1294,7 +1294,7 @@ translate francais v11_case_verdict_f1444e7a:
 translate francais v11_case_verdict_13d75d44:
 
     # pe "Really [name], I can't thank you enough for all you've done."
-    pe "Vraiment [name], je ne peux pas assez te remercier pour tout ce que tu as fait."
+    pe "Vraiment [name], je ne pourrais jamais assez te remercier pour tout ce que tu as fait."
 
 # game/v11/scene1.rpy:1231
 translate francais v11_case_verdict_29910a44:
@@ -1354,7 +1354,7 @@ translate francais v11_case_verdict_ca46ec29:
 translate francais v11_case_verdict_eeec42ee:
 
     # u "(Wow, what a way to start my day. *Phew* Let's see who's going to Europe.)"
-    u "(Wow, quelle façon de commencer ma journée. *Ouf* Voyons qui va en Europe.)"
+    u "(Wow, quelle façon de commencer ma journée. *Pfff* Voyons qui va en Europe.)"
 
 translate francais strings:
 

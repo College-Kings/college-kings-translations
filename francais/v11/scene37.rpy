@@ -10,7 +10,7 @@ translate francais v11_walk_park_ada83429:
 translate francais v11_walk_park_c870fef1:
 
     # imre "Nope."
-    imre "Non."
+    imre "Nan."
 
 # game/v11/scene37.rpy:30
 translate francais v11_walk_park_44463136:
@@ -154,7 +154,7 @@ translate francais v11_walk_park_229ff206:
 translate francais v11_walk_park_ea27a9f9:
 
     # imre "If you laughed you must've thought it was funny, so we have a problem."
-    imre "Si tu as ri, c'est que tu as dû trouver ça drôle, donc le problème est là."
+    imre "Si t'as ri, c'est que t'as dû trouver ça drôle, donc le problème est là."
 
 # game/v11/scene37.rpy:157
 translate francais v11_walk_park_ee116fa8:
@@ -178,7 +178,7 @@ translate francais v11_walk_park_5286905b:
 translate francais v11_walk_park_9edc52a2:
 
     # imre "I'm not gonna chill. He thinks I'm scared so I'll show him I'm not."
-    imre "Je ne vais pas me calmer. Il pense que j'ai peur, alors je vais lui montrer que non."
+    imre "J'vais pas me calmer. Il pense que j'ai peur, alors j'vais lui montrer qu'non."
 
 # game/v11/scene37.rpy:177
 translate francais v11_walk_park_447272cf:

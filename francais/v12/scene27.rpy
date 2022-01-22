@@ -4,7 +4,7 @@
 translate francais v12s27_4f800f36:
 
     # imre "Bro, did you hear what went down with Chris and Nora?! I swear she's starting to really do too much..."
-    imre "Mec, tu as entendu ce qui s'est passé avec Chris et Nora ?! Je jure qu'elle commence vraiment à abuser..."
+    imre "Mec, t'as entendu c'qui s'est passé avec Chris et Nora ?! Je jure qu'elle commence vraiment à abuser..."
 
 # game/v12/scene27.rpy:18
 translate francais v12s27_591aec14:
@@ -16,7 +16,7 @@ translate francais v12s27_591aec14:
 translate francais v12s27_cce84ce0:
 
     # imre "Alright... Fair enough. What are you doing right now?"
-    imre "Ok... C'est bon. Qu'est-ce que tu fais en ce moment ?"
+    imre "Ok... C'est bon. Qu'est-ce que tu fais en c'moment ?"
 
 # game/v12/scene27.rpy:28
 translate francais v12s27_517eb38e:
@@ -28,7 +28,7 @@ translate francais v12s27_517eb38e:
 translate francais v12s27_dcd69a6f:
 
     # imre "Haha, same! I kinda wanna do something exciting..."
-    imre "Haha, pareil ! J'ai envie de faire quelque chose d'amusant..."
+    imre "Haha, pareil ! J'ai envie d'faire quelque chose d'amusant..."
 
 # game/v12/scene27.rpy:38
 translate francais v12s27_196b73b6:
@@ -40,7 +40,7 @@ translate francais v12s27_196b73b6:
 translate francais v12s27_2c30c382:
 
     # imre "Hmm, I want it to be something memorable."
-    imre "Hmm, je veux que ce soit quelque chose de mémorable."
+    imre "Hmm, j'veux qu'ce soit quelque chose de mémorable."
 
 # game/v12/scene27.rpy:48
 translate francais v12s27_26c4cfcd:
@@ -58,7 +58,7 @@ translate francais v12s27_00a2b4e2:
 translate francais v12s27_e4c71c19:
 
     # imre "No for real! It'd be so cool and it's something we can do to remember our time in Paris."
-    imre "Non, sérieux ! Ça serait trop cool et c'est quelque chose qu'on peut faire pour se souvenir de notre séjour à Paris."
+    imre "Non, sérieux ! Ça serait trop cool et c'est quelque chose qu'on peut faire pour se souvenir d'notre séjour à Paris."
 
 # game/v12/scene27.rpy:63
 translate francais v12s27_de9caaf4:
@@ -118,7 +118,7 @@ translate francais v12s27_c34e09f7:
 translate francais v12s27_d1703716:
 
     # imre "I have no idea... You?"
-    imre "Je n'en ai aucune idée... Et toi ?"
+    imre "J'en ai aucune idée... Et toi ?"
 
 # game/v12/scene27.rpy:116
 translate francais v12s27_cb5d9944:
@@ -142,7 +142,7 @@ translate francais v12s27_807ffe33:
 translate francais v12s27_6e27dd50:
 
     # imre "Aww shit, I forgot they don't speak English! Definitely not getting a tattoo from someone that can't speak English... What if they tattoo the wrong thing on me?"
-    imre "Oh merde, j'avais oublié qu'ils ne parlaient pas anglais ! Je ne vais certainement pas me faire tatouer par quelqu'un qui ne parle pas anglais... Et s'ils me tatouaient le mauvais truc ?"
+    imre "Oh merde, j'avais oublié qu'ils parlaient pas anglais ! J'vais certainement pas me faire tatouer par quelqu'un qui ne parle pas anglais... Et s'ils me tatouaient le mauvais truc ?"
 
 # game/v12/scene27.rpy:144
 translate francais v12s27_1fce0d34:
@@ -190,7 +190,7 @@ translate francais v12s27_7214cf23:
 translate francais v12s27_f8a4ee31:
 
     # imre "To remember our time in Paris, of course."
-    imre "Pour se souvenir de notre séjour à Paris, bien sûr."
+    imre "Pour se souvenir d'notre séjour à Paris, bien sûr."
 
 # game/v12/scene27.rpy:184
 translate francais v12s27_2f35744d:
@@ -226,7 +226,7 @@ translate francais v12s27_102ddaf3:
 translate francais v12s27_797b0b13:
 
     # imre "Sounds cool to me! We'll do that."
-    imre "Je trouve ça cool ! On va faire comme ça."
+    imre "J'trouve ça cool ! On va faire comme ça."
 
 # game/v12/scene27.rpy:210
 translate francais v12s27_69ba9f04:
@@ -238,7 +238,7 @@ translate francais v12s27_69ba9f04:
 translate francais v12s27_90a3404c:
 
     # imre "Nope, don't be a pussy."
-    imre "Ne fais pas ta chochotte."
+    imre "Fais pas ta chochotte."
 
 # game/v12/scene27.rpy:220
 translate francais v12s27_99cd03f8:
@@ -274,7 +274,7 @@ translate francais v12s27_2d2fb097:
 translate francais v12s27_af85f330:
 
     # imre "C'mon bro! Tell him something good, like how I'm a ladies man."
-    imre "Allez frère ! Dis-lui quelque chose de bien, comme le fait que je suis un homme à femmes."
+    imre "Allez frère ! Dis-lui quelque chose de bien, comme le fait que j'suis un homme à femmes."
 
 # game/v12/scene27.rpy:250
 translate francais v12s27_f130ce76:
@@ -292,19 +292,19 @@ translate francais v12s27_b53004bd:
 translate francais v12s27_aab5e256:
 
     # imre "But if you wanna know something about [name], know that he's a big time teacher's pet."
-    imre "Mais si tu veux savoir quelque chose à propos de [name], sache qu'il est le chouchou des professeurs."
+    imre "Mais si tu veux savoir quelque chose à propos d'[name], sache qu'il est le chouchou des professeurs."
 
 # game/v12/scene27.rpy:262
 translate francais v12s27_7e3fa54c:
 
     # imre "I always see this crazy teacher we have, named Mr. Lee, pulling him aside."
-    imre "Je vois toujours ce professeur taré qu'on a, Mr Lee, le prendre à part."
+    imre "Je vois toujours c'professeur taré qu'on a, Mr Lee, le prendre à part."
 
 # game/v12/scene27.rpy:264
 translate francais v12s27_059c037b:
 
     # imre "Not only that, we played a \"murder mystery\" game or whatever, and he chose [name] here to be the murderer, but made me play some other dude's wife."
-    imre "En plus de ça, on a joué à un jeu de \"meurtre mystérieux\" ou quelque chose comme ça, et il a choisi [name] ici pour être le tueur, et il m'a fait jouer la femme d'un autre gars."
+    imre "En plus de ça, on a joué à un jeu d'\"meurtre mystérieux\" ou quelque chose comme ça, et il a choisi [name] ici pour être l'tueur, et il m'a fait jouer la femme d'un autre gars."
 
 # game/v12/scene27.rpy:269
 translate francais v12s27_66d0c4a9:
@@ -400,7 +400,7 @@ translate francais v12s27_495317c0:
 translate francais v12s27_83bdcb3f:
 
     # imre "What the fuck!?"
-    imre "C'est quoi ce bordel !?"
+    imre "C'est quoi c'bordel !?"
 
 # game/v12/scene27.rpy:353
 translate francais v12s27_b275e4e3:
@@ -436,13 +436,13 @@ translate francais v12s27_e0dff22b:
 translate francais v12s27_69b11293:
 
     # imre "Keep laughing, you're up next."
-    imre "Arrête de rire, tu es le prochain."
+    imre "Arrête de rire, t'es le prochain."
 
 # game/v12/scene27.rpy:383
 translate francais v12s27_d342b254:
 
     # imre "Go ahead and make his just as humiliating as mine."
-    imre "Vas-y et fait en sorte que le sien soit aussi humiliant que le mien."
+    imre "Vas-y et fait en sorte que l'sien soit aussi humiliant que l'mien."
 
 # game/v12/scene27.rpy:388
 translate francais v12s27_2ad1c3d9:
@@ -466,7 +466,7 @@ translate francais v12s27_7c661817:
 translate francais v12s27_f09a32ce:
 
     # imre "You gotta be fucking kidding me!"
-    imre "Tu te moques de moi !"
+    imre "Tu t'moques de moi !"
 
 # game/v12/scene27.rpy:408
 translate francais v12s27_50ff18f4:
@@ -484,13 +484,13 @@ translate francais v12s27_bc995837:
 translate francais v12s27_a4edb813:
 
     # imre "I'm not paying for this shit!"
-    imre "Je ne vais pas payer pour cette merde !"
+    imre "J'vais pas payer pour cette merde !"
 
 # game/v12/scene27.rpy:426
 translate francais v12s27_edfc09dd:
 
     # imre "What kind of tattoo artist runs out of ink?! Now I gotta walk around with this shitty ass tattoo and you get off scotch free."
-    imre "Quel genre de tatoueur est à court d'encre ?! Maintenant je dois me promener avec ce tatouage de merde et toi tu t'en sors sans aucune trace d'encre."
+    imre "Quel genre de tatoueur est à court d'encre ?! Maintenant j'dois me promener avec c'tatouage de merde et toi tu t'en sors sans aucune trace d'encre."
 
 # game/v12/scene27.rpy:435
 translate francais v12s27_2b590fe7:
@@ -502,7 +502,7 @@ translate francais v12s27_2b590fe7:
 translate francais v12s27_2648f38f:
 
     # imre "You're just saying that so I'm not all pissed."
-    imre "Tu dis juste ça pour que je ne sois pas trop furieux."
+    imre "Tu dis juste ça pour que j'sois pas trop furieux."
 
 # game/v12/scene27.rpy:445
 translate francais v12s27_bc03432e:
@@ -538,7 +538,7 @@ translate francais v12s27_ef2f1671:
 translate francais v12s27_2802d483:
 
     # imre "Now I feel bad for not paying..."
-    imre "Maintenant je me sens mal de ne pas avoir payé..."
+    imre "Maintenant j'me sens mal de pas avoir payé..."
 
 # game/v12/scene27.rpy:475
 translate francais v12s27_40340e43:
@@ -580,7 +580,7 @@ translate francais v12s27_00425ad0:
 translate francais v12s27_a2b57b46:
 
     # imre "It'll be a long time before I laugh at this, and of all places I got this shit on my chest..."
-    imre "Ce n'est pas demain que je rirai de ça, et c'est surtout à cause de ça que j'ai cette merde sur la poitrine..."
+    imre "Ce n'est pas demain que j'rirai de ça, et c'est surtout à cause de ça que j'ai cette merde sur la poitrine..."
 
 # game/v12/scene27.rpy:508
 translate francais v12s27_816c1afe:
@@ -592,13 +592,13 @@ translate francais v12s27_816c1afe:
 translate francais v12s27_63245ff7:
 
     # imre "*Sighs* Whatever, dude. Fuck off. *Laughs*"
-    imre "*Soupirs* Laisse tomber, mec. Va te faire foutre. *Rire*"
+    imre "*Soupirs* Laisse tomber, mec. Va t'faire foutre. *Rire*"
 
 # game/v12/scene27.rpy:521
 translate francais v12s27_738916ef:
 
     # imre "Alright man, I'ma go try and peel my skin off in my room. *Chuckles*"
-    imre "D'accord mec, je vais essayer de m'arracher la peau dans ma chambre. *Rire*"
+    imre "D'accord mec, j'vais essayer de m'arracher la peau dans ma chambre. *Rire*"
 
 # game/v12/scene27.rpy:526
 translate francais v12s27_965dc36d:

@@ -238,7 +238,7 @@ translate francais v12_nursing_aubrey_459ee61d:
 translate francais v12_nursing_aubrey_5ca5f1ec:
 
     # imre "We're back, bitches!"
-    imre "On est de retour, les salopes !"
+    imre "On est d'retour, les salopes !"
 
 # game/v12/scene21a.rpy:248
 translate francais v12_nursing_aubrey_f06b1af7:
@@ -262,7 +262,7 @@ translate francais v12_nursing_aubrey_25b5c46e:
 translate francais v12_nursing_aubrey_ebd3bfc4:
 
     # imre "Huh?! What's wrong with me?"
-    imre "Hein ? ! Qu'est-ce qui ne va pas chez moi ?"
+    imre "Hein ? ! Qu'est-ce qui va pas chez moi ?"
 
 # game/v12/scene21a.rpy:268
 translate francais v12_nursing_aubrey_1f2ba661:
@@ -292,7 +292,7 @@ translate francais v12_nursing_aubrey_606bf365:
 translate francais v12_nursing_aubrey_dbc725ed:
 
     # imre "I fail to see the lie... I'm an honest entrepreneur."
-    imre "Je ne vois pas où est le mensonge... Je suis un entrepreneur honnête."
+    imre "J'vois pas où est l'mensonge... J'suis un entrepreneur honnête."
 
 # game/v12/scene21a.rpy:293
 translate francais v12_nursing_aubrey_fcc18885:
@@ -328,7 +328,7 @@ translate francais v12_nursing_aubrey_d318fc07:
 translate francais v12_nursing_aubrey_38bbe564:
 
     # imre "I just got an idea! How about we sell tickets to massage \"a beautiful foreigner's feet\"? Genius, dude!"
-    imre "Je viens d'avoir une idée ! Et si on vendait des tickets pour masser \"les pieds d'une belle étrangère\" ? Génial, non ?"
+    imre "J'viens d'avoir une idée ! Et si on vendait des tickets pour masser \"les pieds d'une belle étrangère\" ? Génial, non ?"
 
 # game/v12/scene21a.rpy:323
 translate francais v12_nursing_aubrey_0aef897c:

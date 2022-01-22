@@ -52,13 +52,13 @@ translate francais v11_samantha_packing_79c03dd3:
 translate francais v11_samantha_packing_f7c1ae25:
 
     # u "A while, we're going to three different places."
-    u "Un moment, nous allons à trois endroits différents."
+    u "Très bientôt, nous allons à trois endroits différents."
 
 # game/v11/scene3.rpy:72
 translate francais v11_samantha_packing_205b4e6a:
 
     # sa "I assume I'm just gonna be here all by myself then. I'm sure Cameron and the whole monkey gang are going."
-    sa "Je suppose que je vais rester ici toute seule alors. Je suis sûr que Cameron et toute la bande des Apes y vont."
+    sa "J'imagine que je vais rester ici toute seule alors. Je suis sûr que Cameron et toute la bande des Apes y vont."
 
 # game/v11/scene3.rpy:77
 translate francais v11_samantha_packing_d527fcfb:
@@ -178,7 +178,7 @@ translate francais v11_samantha_packing_00e89fe0:
 translate francais v11_samantha_packing_dd3cb392:
 
     # sa "You don't know everyone I know. *Chuckles* C'mon who else is going?"
-    sa "Tu ne connais pas tout le monde que je connais. *Rire* Allez, qui d'autre y va ?"
+    sa "Tu ne connais pas toutes les personnes que je connais. *Rire* Allez, qui d'autre y va ?"
 
 # game/v11/scene3.rpy:182
 translate francais v11_samantha_packing_2fad8a52:
@@ -196,19 +196,19 @@ translate francais v11_samantha_packing_9b527be7:
 translate francais v11_samantha_packing_e3bd8405:
 
     # u "That's her."
-    u "C'est bien elle."
+    u "Oui c'est elle."
 
 # game/v11/scene3.rpy:197
 translate francais v11_samantha_packing_fb10ef56:
 
     # sa "Okay then yeah, I know her too. She actually came to one of my impromptu things."
-    sa "Ok alors oui, je la connais aussi. Elle est venue à un de mes trucs improvisés."
+    sa "Ok alors oui, je la connais aussi. Elle est venue à un de mes slam improvisés."
 
 # game/v11/scene3.rpy:199
 translate francais v11_samantha_packing_7634547c:
 
     # sa "She tried giving me advice and I got a little bitchy with her cause I thought she was being rude, but in hindsight she probably just wanted to help..."
-    sa "Elle a essayé de me donner des conseils et je suis devenue un peu méchante avec elle parce que je pensais qu'elle était impolie, mais avec le recul, elle voulait probablement juste aider..."
+    sa "Elle a essayé de me donner des conseils et je suis devenue un peu méchante avec elle parce que je pensais qu'elle était impolie, mais avec le recul, je pense qu'elle voulait juste m'aider..."
 
 # game/v11/scene3.rpy:204
 translate francais v11_samantha_packing_b3cbcea9:
@@ -226,7 +226,7 @@ translate francais v11_samantha_packing_1824974d:
 translate francais v11_samantha_packing_068c2028:
 
     # u "Am I that boring?"
-    u "Je suis si ennuyeux que ça ?"
+    u "Je suis si chiant que ça ?"
 
 # game/v11/scene3.rpy:219
 translate francais v11_samantha_packing_f4f34481:
@@ -256,7 +256,7 @@ translate francais v11_samantha_packing_d0763037:
 translate francais v11_samantha_packing_46c0a495:
 
     # u "(One more on the list.)"
-    u "(Une de plus sur la liste.)"
+    u "(Et une de plus sur la liste.)"
 
 # game/v11/scene3.rpy:257
 translate francais v11_samantha_packing_70bdf712:

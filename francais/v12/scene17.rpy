@@ -10,7 +10,7 @@ translate francais v12_escape_room_a031d0a1:
 translate francais v12_escape_room_44f7cea6:
 
     # imre "Sorry, we were enjoying Mr. Lee getting bullied by the bishop."
-    imre "Désolée, on profitait du fait que Mr Lee se fasse malmener par l'évêque."
+    imre "Désolée, on profitait du fait que Mr Lee s'fasse malmener par l'évêque."
 
 # game/v12/scene17.rpy:23
 translate francais v12_escape_room_59c2dc0b:
@@ -100,7 +100,7 @@ translate francais v12_escape_room_03f47ed8:
 translate francais v12_escape_room_2d3d1338:
 
     # imre "Oh, nice! Nice... Now I gotta ask though, how much is this gonna cost? Because I don't have much."
-    imre "Oh, super ! Bien... Maintenant je dois demander, combien ça va coûter ? Parce que je n'ai pas beaucoup."
+    imre "Oh, super ! Bien... Maintenant je dois demander, combien ça va coûter ? Parce que j'ai pas beaucoup."
 
 # game/v12/scene17.rpy:98
 translate francais v12_escape_room_716cd386:
@@ -112,7 +112,7 @@ translate francais v12_escape_room_716cd386:
 translate francais v12_escape_room_09facf3e:
 
     # imre "Dammit dude, everytime I want to hate that guy he does something nice."
-    imre "Putain ce mec, à chaque fois que je veux le détester, il fait quelque chose de bien."
+    imre "Putain ce mec, à chaque fois que j'veux le détester, il fait quelque chose de bien."
 
 # game/v12/scene17.rpy:108
 translate francais v12_escape_room_fcc18885:
@@ -232,7 +232,7 @@ translate francais v12_escape_room_cbe58060:
 translate francais v12_escape_room_7ddea605:
 
     # imre "Alright, back to not liking him again."
-    imre "D'accord, je recommence à ne pas l'aimer."
+    imre "D'accord, j'recommence à pas l'aimer."
 
 # game/v12/scene17.rpy:216
 translate francais v12_escape_room_fcc18885_1:
@@ -352,7 +352,7 @@ translate francais v12_escape_room_f804ddeb:
 translate francais v12_escape_room_72cffdbb:
 
     # imre "Her standards aren't that low... At least she doesn't talk to guys that look as bad as you do."
-    imre "Ses attentes ne sont pas si basses... Au moins, elle ne parle pas aux gars qui ont l'air aussi mauvais que toi."
+    imre "Ses attentes sont pas si basses... Au moins, elle parle pas aux gars qui ont l'air aussi mauvais qu'toi."
 
 # game/v12/scene17.rpy:334
 translate francais v12_escape_room_e9eb672b:
@@ -430,7 +430,7 @@ translate francais v12_escape_room_2ddb84e9:
 translate francais v12_escape_room_c0a7c3bd:
 
     # imre "It's all voice activated, I think. There's a first message to begin, but after that it just sends the next message or does the next thing based on what we say and when we say it."
-    imre "C'est activé par la voix, je crois. Il y a un premier message pour commencer, mais ensuite, il envoie le message suivant ou fait la chose suivante en fonction de ce que nous disons et du moment où nous le disons."
+    imre "C'est activé par la voix, j'crois. Y a un premier message pour commencer, mais ensuite, il envoie l'message suivant ou fait la chose suivante en fonction de c'qu'on dit et du moment où on le dit."
 
 # game/v12/scene17.rpy:402
 translate francais v12_escape_room_0773498c:
@@ -514,7 +514,7 @@ translate francais v12_escape_room_62ef32be:
 translate francais v12_escape_room_c55ac842:
 
     # imre "I don't know, but move out the way!"
-    imre "Je ne sais pas, mais dégagez le passage !"
+    imre "J'sais pas, mais dégagez l'passage !"
 
 # game/v12/scene17.rpy:474
 translate francais v12_escape_room_92d7e7ae:
@@ -574,7 +574,7 @@ translate francais v12_escape_room_f6e320ae:
 translate francais v12_escape_room_12779de2:
 
     # imre "Goofball? I am not a-"
-    imre "Crétin ? Je ne suis pas un-"
+    imre "Crétin ? J'suis pas un-"
 
 # game/v12/scene17.rpy:523
 translate francais v12_escape_room_16ee73ae:
@@ -640,7 +640,7 @@ translate francais v12_escape_room_1b49e512:
 translate francais v12_escape_room_af394c44:
 
     # imre "How are we supposed to know what to do if we can't be around you? I bet those doors are gonna lock when we go in there."
-    imre "Comment sommes-nous censés savoir que faire si nous ne pouvons pas être près de toi ? Je parie que ces portes vont se verrouiller quand on y entrera."
+    imre "Comment sommes-nous censés savoir que faire si on peut pas être près de toi ? J'parie qu'ces portes vont s'verrouiller quand on y entrera."
 
 # game/v12/scene17.rpy:589
 translate francais v12_escape_room_9f117de3:
@@ -814,7 +814,7 @@ translate francais v12_escape_room_f583d454:
 translate francais v12_escape_room_5a4cb100:
 
     # imre "Are you fucking crazy?! You're not going anywhere you stupid s-"
-    imre "T'es malade ou quoi ? ! Tu ne vas nulle part, espèce de sale..."
+    imre "T'es malade ou quoi ? ! Tu vas nulle part, espèce de sale..."
 
 # game/v12/scene17.rpy:750
 translate francais v12_escape_room_8135285d:
@@ -838,7 +838,7 @@ translate francais v12_escape_room_2caadd3a:
 translate francais v12_escape_room_9597e8a0:
 
     # imre "I don't care if his fucking non-existent balls freeze off, I'm not touchin- *inaudible*."
-    imre "Je m'en fous si ses putains de couilles inexistantes gèlent, je ne toucherai pas... *inaudible*."
+    imre "J'm'en fous si ses putains de couilles inexistantes gèlent, j'toucherai pas... *inaudible*."
 
 # game/v12/scene17.rpy:772
 translate francais v12_escape_room_d0e522df:
@@ -1312,7 +1312,7 @@ translate francais v12_after_sex_5a5bece5:
 translate francais v12_after_sex_c732e78e:
 
     # imre "I don't like you, for a lot of reasons."
-    imre "Je ne t'aime pas, pour de nombreuses raisons."
+    imre "J't'aime pas, pour de nombreuses raisons."
 
 # game/v12/scene17.rpy:1388
 translate francais v12_after_sex_ccc2c735:
@@ -1336,7 +1336,7 @@ translate francais v12_after_sex_5e0509bf:
 translate francais v12_after_sex_7a15308c:
 
     # imre "It says get closer smartass... We already knew you were gay. Tell us something else."
-    imre "Ça dit de se rapprocher, petit malin... On savait déjà que tu étais gay. Dis-nous autre chose."
+    imre "Ça dit de s'rapprocher, petit malin... On savait déjà que t'étais gay. Dis-nous autre chose."
 
 # game/v12/scene17.rpy:1408
 translate francais v12_after_sex_24c5d708:
@@ -1348,7 +1348,7 @@ translate francais v12_after_sex_24c5d708:
 translate francais v12_after_sex_bce04a8f:
 
     # imre "C'mon dude! I'm freezing my balls off here."
-    imre "Allez, mec ! Je me gèle les couilles ici."
+    imre "Allez, mec ! J'me gèle les couilles ici."
 
 # game/v12/scene17.rpy:1418
 translate francais v12_after_sex_9683af53:
@@ -1402,7 +1402,7 @@ translate francais v12_after_sex_58f7663b:
 translate francais v12_after_sex_7512ecd2:
 
     # imre "You ever bring that shit up and I'll kill you."
-    imre "Si tu remets cette connerie sur le tapis, je te tue."
+    imre "Si tu remets cette connerie sur le tapis, j'te tue."
 
 # game/v12/scene17.rpy:1471
 translate francais v12_after_sex_fcc18885:

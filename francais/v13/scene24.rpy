@@ -160,7 +160,7 @@ translate francais v13s24_a04e28fe:
 translate francais v13s24_3870fa11:
 
     # imre "I'm just saying, with the way I play... It's game over for you boys."
-    imre "Je dis juste, qu'avec la façon dont je joue... C'est game over pour vous les gars."
+    imre "J'dis juste, qu'avec la façon dont je joue... C'est game over pour vous les gars."
 
 # game/v13/scene24.rpy:191
 translate francais v13s24_8821924b:
@@ -172,7 +172,7 @@ translate francais v13s24_8821924b:
 translate francais v13s24_c1c9f666:
 
     # imre "Hey! That was one time, and it was definitely not my fault."
-    imre "Hey ! C'était une seule fois, et ce n'était absolument pas ma faute."
+    imre "Hey ! C'était une seule fois, et c'était absolument pas ma faute."
 
 # game/v13/scene24.rpy:201
 translate francais v13s24_7b1eda8d:
@@ -214,7 +214,7 @@ translate francais v13s24_aa959be9:
 translate francais v13s24_3da94aee:
 
     # imre "*Laughs* Either way, I'm dicking someone down after this, boys."
-    imre "*Rire* De toute façon, je baise quelqu'un après ça, les gars."
+    imre "*Rire* De toute façon, j'baise quelqu'un après ça, les gars."
 
 # game/v13/scene24.rpy:236
 translate francais v13s24_7a00164e:
@@ -328,7 +328,7 @@ translate francais v13s24_bb96da1c:
 translate francais v13s24_408b4c9c:
 
     # imre "Man, fuck them kids! *Laughs* I'm not trying to get you pregnant."
-    imre "J'emmerde les enfants ! *Rire* Je ne cherche pas à te mettre enceinte."
+    imre "J'emmerde les enfants ! *Rire* Je cherche pas à t'mettre enceinte."
 
 # game/v13/scene24.rpy:368
 translate francais v13s24_ea7ef44b:
@@ -412,7 +412,7 @@ translate francais v13s24_b89ce054:
 translate francais v13s24_67e9bffa:
 
     # imre "You sure?"
-    imre "Tu es sûre ?"
+    imre "T'es sûre ?"
 
 # game/v13/scene24.rpy:452
 translate francais v13s24_1f75e0d9:
@@ -508,7 +508,7 @@ translate francais v13s24_45b84f7b:
 translate francais v13s24_9dc2512c:
 
     # imre "Sorry babe, that's not for me. *Laughs*"
-    imre "Désolé bébé, ce n'est pas pour moi. *Rire*"
+    imre "Désolé bébé, c'est pas pour moi. *Rire*"
 
 # game/v13/scene24.rpy:555
 translate francais v13s24_ddf1de4c:
@@ -580,7 +580,7 @@ translate francais v13s24_d938af94:
 translate francais v13s24_9cde89e0:
 
     # imre "*Shocked* I was just... They brought up the- Nevermind. *Sighs*"
-    imre "*Surpris* J'étais juste... Ils ont évoqué le... Jamais de la vie. *Soupirs*"
+    imre "*Surpris* J'étais juste... Ils ont évoqué le... Jamais d'la vie. *Soupirs*"
 
 # game/v13/scene24.rpy:658
 translate francais v13s24_ddfda04c:
@@ -688,7 +688,7 @@ translate francais v13s24_c3fa8ad4:
 translate francais v13s24_03a152a3:
 
     # imre "I'm all yours baby!"
-    imre "Je suis tout à vous, bébés !"
+    imre "J'suis tout à vous, bébés !"
 
 # game/v13/scene24.rpy:845
 translate francais v13s24_df301529:
@@ -718,7 +718,7 @@ translate francais v13s24_39921aea:
 translate francais v13s24_f455689b:
 
     # imre "Sorry man... We will though."
-    imre "Désolé mec... Mais nous va s'amuser."
+    imre "Désolé mec... Mais nous on va s'amuser."
 
 # game/v13/scene24.rpy:875
 translate francais v13s24_f9be71db:

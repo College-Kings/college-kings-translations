@@ -4,7 +4,7 @@
 translate francais v12_paris_hotel_beee7dc7:
 
     # imre "How do we travel for hours and end up right back at the same hotel?"
-    imre "Comment peut-on voyager pendant des heures et se retrouver au même hôtel ?"
+    imre "Comment on peut voyager pendant des heures et s'retrouver au même hôtel ?"
 
 # game/v12/scene11.rpy:22
 translate francais v12_paris_hotel_1732a8f4:
@@ -28,7 +28,7 @@ translate francais v12_paris_hotel_6c60edc6:
 translate francais v12_paris_hotel_cce61b74:
 
     # imre "I blame it on being a good fighter, can't focus on much else."
-    imre "C'est parce que je suis un bon combattant, je ne peux pas me concentrer sur autre chose."
+    imre "C'est parce que j'suis un bon combattant, j'peux pas m'concentrer sur autre chose."
 
 # game/v12/scene11.rpy:42
 translate francais v12_paris_hotel_2e8d14ae:

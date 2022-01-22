@@ -118,13 +118,13 @@ translate francais v12_valentine_32430448:
 translate francais v12_valentine_f1e6538b:
 
     # imre "Ha, right. No promises."
-    imre "Ha, c'est vrai. Pas de promesses."
+    imre "Ha, c'est vrai. Pas d'promesses."
 
 # game/v12/scene16.rpy:148
 translate francais v12_valentine_f3532f3c:
 
     # imre "I'm just kidding... Sheesh."
-    imre "Je plaisante... Putain."
+    imre "J'plaisante... Putain."
 
 # game/v12/scene16.rpy:161
 translate francais v12_valentine_1b4dc306:
@@ -184,19 +184,19 @@ translate francais v12_valentine_ad35984f:
 translate francais v12_valentine_5e4d268b:
 
     # imre "That's the flying baby with the bow and arrow that shoots people, right?"
-    imre "C'est le bébé volant avec l'arc et la flèche qui tire sur les gens, non ?"
+    imre "C'est l'bébé volant avec l'arc et la flèche qui tire sur les gens, non ?"
 
 # game/v12/scene16.rpy:208
 translate francais v12_valentine_e612e93e:
 
     # lee "Imre, behave yourself. This is no time for jokes."
-    lee "Imre, tiens-toi bien. C'est pas le moment de plaisanter."
+    lee "Imre, tiens-toi bien. C'est pas l'moment d'plaisanter."
 
 # game/v12/scene16.rpy:213
 translate francais v12_valentine_9163eec0:
 
     # imre "I wasn't trying to be funny..."
-    imre "Je n'essayais pas d'être drôle..."
+    imre "J'essayais pas d'être drôle..."
 
 # game/v12/scene16.rpy:218
 translate francais v12_valentine_3bb72112:
@@ -328,7 +328,7 @@ translate francais v12_valentine_97c9a42f:
 translate francais v12_valentine_9d77f0cf:
 
     # imre "I meant the Empire doesn't exist."
-    imre "Je voulais dire que \"l'Empire romain\" n'existe plus."
+    imre "J'voulais dire que \"l'Empire romain\" n'existe plus."
 
 # game/v12/scene16.rpy:328
 translate francais v12_valentine_34ec8c3e:
@@ -340,7 +340,7 @@ translate francais v12_valentine_34ec8c3e:
 translate francais v12_valentine_c0735ef3:
 
     # imre "Jeez guys, I'm not stupid."
-    imre "Putain les gars, je ne suis pas stupide."
+    imre "Putain les gars, j'suis pas stupide."
 
 # game/v12/scene16.rpy:338
 translate francais v12_valentine_441ba8b1:
@@ -514,7 +514,7 @@ translate francais v12_valentine_a2541ebc:
 translate francais v12_valentine_8b61c4cb:
 
     # imre "Mr. Lee, \"if you want to behave like a child I'll treat you like one... remember, this is a church.\""
-    imre "Mr Lee, \"si vous voulez vous comporter comme un enfant, je vous traiterai comme tel... N'oubliez pas, c'est une église.\""
+    imre "Mr Lee, \"si vous voulez vous comporter comme un enfant, j'vous traiterai comme tel... N'oubliez pas, c'est une église.\""
 
 # game/v12/scene16.rpy:459
 translate francais v12_valentine_fcc18885:
@@ -622,7 +622,7 @@ translate francais v12_valentine_d0949533:
 translate francais v12_valentine_8c3839cd:
 
     # imre "My buddy [name] will do it."
-    imre "Mon pote [name] va le faire."
+    imre "Mon pote [name] va l'faire."
 
 # game/v12/scene16.rpy:568
 translate francais v12_valentine_ed8a3f83:

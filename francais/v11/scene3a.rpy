@@ -100,7 +100,7 @@ translate francais v11_wolves_packing_chris_7c0050ed:
 translate francais v11_wolves_packing_chris_1d89bf42:
 
     # ch "Right now, I have no idea."
-    ch "Pour l'instant, je n'en ai aucune idée."
+    ch "Pour ma part, là, je ne sais plus du tout."
 
 # game/v11/scene3a.rpy:110
 translate francais v11_wolves_packing_chris_2bd0c892:
@@ -118,7 +118,7 @@ translate francais v11_wolves_packing_chris_ee065306:
 translate francais v11_wolves_packing_chris_66f53efe:
 
     # ch "It's a whole mess really. I love Nora, more than anything. She's been there for me in ways I can't even explain."
-    ch "C'est un énorme bordel, vraiment. J'aime Nora, plus que tout. Elle a été là pour moi d'une manière que je ne peux même pas expliquer."
+    ch "C'est un énorme bordel, vraiment. J'aime Nora, plus que tout. Elle a toujours été présente pour moi d'une manière que je ne peux même pas expliquer."
 
 # game/v11/scene3a.rpy:122
 translate francais v11_wolves_packing_chris_77e627aa:
@@ -196,7 +196,7 @@ translate francais v11_wolves_packing_chris_5a1df7ab:
 translate francais v11_wolves_packing_chris_5c61a192:
 
     # u "Maybe on the trip you'll have the chance to get that spark back."
-    u "Peut-être qu'en voyage, tu auras la chance de retrouver cette étincelle."
+    u "Peut-être que pendant le voyage, tu auras la chance de retrouver cette étincelle."
 
 # game/v11/scene3a.rpy:182
 translate francais v11_wolves_packing_chris_42e653a1:
@@ -256,7 +256,7 @@ translate francais v11_wolves_packing_chris_3029505b:
 translate francais v11_wolves_packing_chris_14155e54:
 
     # ch "Does she not understand how much I love her?"
-    ch "Ne comprend-elle pas à quel point je l'aime ?"
+    ch "Je l'aime, pourquoi elle n'arrive pas à le comprendre ?"
 
 # game/v11/scene3a.rpy:225
 translate francais v11_wolves_packing_chris_fb9abbe9:
@@ -280,7 +280,7 @@ translate francais v11_wolves_packing_chris_e5223451:
 translate francais v11_wolves_packing_chris_1148935a:
 
     # ch "I can't... I'm not abandoning her or the frat. Both need me. I just wish the frat needed me a little less. You know, sometimes I wish I wasn't even President."
-    ch "Je ne peux pas... Je ne vais pas l'abandonner, elle ou la fraternité. Les deux ont besoin de moi. J'aimerais juste que la fraternité ait un peu moins besoin de moi. Tu sais, parfois j'aimerais ne pas être président."
+    ch "Je ne peux pas... Je ne vais pas les abandonner, elle ou la fraternité. Les deux ont besoin de moi. J'aimerais juste que la fraternité ait un peu moins besoin de moi. Tu sais, parfois j'aimerais ne pas en être président."
 
 # game/v11/scene3a.rpy:247
 translate francais v11_wolves_packing_chris_71a4bafc:
@@ -446,7 +446,7 @@ translate francais strings:
 
     # game/v11/scene3a.rpy:140
     old "Talk to her"
-    new "Parler avec elle"
+    new "Parle avec elle"
 
     # game/v11/scene3a.rpy:140
     old "Her or the frat"

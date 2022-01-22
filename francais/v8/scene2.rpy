@@ -1,16 +1,16 @@
-﻿# TODO: Translation updated at 2021-06-05 20:30
+﻿# TODO: Translation updated at 2021-11-24 09:43
 
 # game/v8/scene2.rpy:12
 translate francais v8_cl_start_38908185:
 
     # u "Holy fuck."
-    u "Putain, c'est bon."
+    u "Putain de merde."
 
 # game/v8/scene2.rpy:20
 translate francais v8_cl_start_94b8b18f:
 
     # cl "You want me?"
-    cl "Tu veux me prendre ?"
+    cl "Tu me veux ?"
 
 # game/v8/scene2.rpy:24
 translate francais v8_cl_start_5882058e:
@@ -40,7 +40,7 @@ translate francais v8_cl_start_b0b2c45c:
 translate francais v8_cl_start_ffe78772:
 
     # cl "Let's get rid of these. I want to taste your cum."
-    cl "Débarrassons-nous de tout ça. Je veux goûter ton sperme."
+    cl "Débarrassons-nous de ça. Je veux goûter ton sperme."
 
 # game/v8/scene2.rpy:73
 translate francais v8_cl_start_c3f87c70:
@@ -52,13 +52,13 @@ translate francais v8_cl_start_c3f87c70:
 translate francais v8_cl_start_d7aff9c4:
 
     # u "God damn. You're so hot."
-    u "Bon sang. Tu es tellement belle."
+    u "Bon sang. Tu es si chaude."
 
 # game/v8/scene2.rpy:100
 translate francais v8_cl_start_7bb909be:
 
     # cl "I want your cum in the back of my throat, understand?"
-    cl "Je veux ton sperme au fond de ma gorge, tu me suis ?"
+    cl "Je veux ton sperme dans le fond de ma gorge, compris ?"
 
 # game/v8/scene2.rpy:104
 translate francais v8_cl_start_4744c253:
@@ -94,7 +94,7 @@ translate francais v8_cl_start_e1f35df2:
 translate francais v8_cl_start_68e7fc7f:
 
     # u "Ahh... yeah! That's the spot."
-    u "Ahh... ouais ! Comme ça continue."
+    u "Ahh... ouais ! C'est çaaaa."
 
 # game/v8/scene2.rpy:138
 translate francais v8_cl_start_56c8424f:
@@ -106,7 +106,7 @@ translate francais v8_cl_start_56c8424f:
 translate francais v8_cl_start_82d13faf:
 
     # u "Fuck. Don't stop now."
-    u "Merde. Ne t'arrête pas, continue."
+    u "Putain. Ne t'arrête pas maintenant."
 
 # game/v8/scene2.rpy:150
 translate francais v8_cl_start_b73d0d14:
@@ -142,7 +142,7 @@ translate francais v8_cl_start_ae7b57d4:
 translate francais v8_cl_start_10de7d06:
 
     # cl "Mmmm, that's a huge load."
-    cl "Mmmm, c'est une grosse jiclée."
+    cl "Mmmm, c'est une charge énorme."
 
 # game/v8/scene2.rpy:169
 translate francais v8_cl_start_6ef1f39d:
@@ -154,13 +154,13 @@ translate francais v8_cl_start_6ef1f39d:
 translate francais v8_cl_start_af3b5a48:
 
     # u "I think you sucked out my soul!"
-    u "Je pense que tu as sucée mon âme avec !"
+    u "Je crois que tu as aspiré mon âme !"
 
 # game/v8/scene2.rpy:174
 translate francais v8_cl_start_108b353e:
 
     # cl "*Chuckles*"
-    cl "*Rires*"
+    cl "*Rire*"
 
 # game/v8/scene2.rpy:175
 translate francais v8_cl_start_39cedaa9:
@@ -172,7 +172,7 @@ translate francais v8_cl_start_39cedaa9:
 translate francais v8_cl_start_ee8aef07:
 
     # cl "Let me get in the bed first."
-    cl "Laisse-moi d'abord m'allonger."
+    cl "Laisse-moi aller dans le lit d'abord."
 
 # game/v8/scene2.rpy:184
 translate francais v8_cl_start_242645cd:
@@ -190,13 +190,13 @@ translate francais v8_cl_start_02c1f738:
 translate francais v8_cl_start_f428807e:
 
     # cl "Stop teasing already!"
-    cl "Passe aux choses sérieuses !"
+    cl "Arrête de me taquiner !"
 
 # game/v8/scene2.rpy:202
 translate francais v8_cl_start_47b5f7bb:
 
     # li "Chloe?"
-    li "Chloe ?"
+    li "Chloé ?"
 
 # game/v8/scene2.rpy:203
 translate francais v8_cl_start_72253b7d:
@@ -226,19 +226,19 @@ translate francais v8_cl_start_09d354db:
 translate francais v8_cl_start_2587bfec:
 
     # li "Chlooeee? Open up! It's Lindsey!{w} Pleeaasee!"
-    li "Chloée ? Ouvre ! C'est Lindsey ! {w} S'il te plaît !"
+    li "Chloéééé ? Ouvre ! C'est Lindsey{w} ! S'il te plaîîîît !"
 
 # game/v8/scene2.rpy:211
 translate francais v8_cl_start_6fcb783d:
 
     # cl "Coming, Lindsey!"
-    cl "Entre Lindsey, Lindsey !"
+    cl "J'arrive, Lindsey !"
 
 # game/v8/scene2.rpy:221
 translate francais v8_cl_start_dcbd85db:
 
     # cl "Oh my God, Lindsey, what happened?"
-    cl "Oh mon Dieu, Lindsey, que s'est-il passé ?"
+    cl "Oh merde, Lindsey, que s'est-il passé ?"
 
 # game/v8/scene2.rpy:225
 translate francais v8_cl_start_4cd06879:
@@ -250,19 +250,19 @@ translate francais v8_cl_start_4cd06879:
 translate francais v8_cl_start_a31a247e:
 
     # li "Sh-she was in a car accident! She...{w=0.4} she's dead! *sobs*"
-    li "Elle a eu un accident de voiture ! Elle...{w=0.4} elle est morte ! *sanglots*"
+    li "Elle-Elle a eu un accident de voiture ! Elle...{w=0.4} elle est morte ! *sanglots*"
 
 # game/v8/scene2.rpy:230
 translate francais v8_cl_start_34a03f20:
 
     # cl "What???"
-    cl "Quoi???"
+    cl "Quoi ???"
 
 # game/v8/scene2.rpy:236
 translate francais v8s2_nsfwSkipLabel1_1d9f9dfc:
 
     # cl "I'm so sorry, Lindsey."
-    cl "Je suis vraiment désolé, Lindsey."
+    cl "Je suis vraiment désolée, Lindsey."
 
 # game/v8/scene2.rpy:237
 translate francais v8s2_nsfwSkipLabel1_72119969:
@@ -280,7 +280,7 @@ translate francais v8s2_nsfwSkipLabel1_c6918bb1:
 translate francais v8s2_nsfwSkipLabel1_6680ff12:
 
     # u "(Damn, that came out of nowhere.)"
-    u "(Merde, ça sort de nulle part.)"
+    u "(Merde, ça vient de nulle part.)"
 
 # game/v8/scene2.rpy:266
 translate francais v8s2_nsfwSkipLabel1_ae64e706:
@@ -312,3 +312,10 @@ translate francais v8s2_nsfwSkipLabel1_82fa3603:
     # cl "Sorry, [name]. See you another time."
     cl "Désolé, [name]. On se verra une autre fois."
 
+# TODO: Translation updated at 2021-11-19 17:55
+
+# game/v8/scene2.rpy:187
+translate francais v8_cl_start_f23544f2:
+
+    # li "Chlooeee? Open up! It's Lindsey! Pleeaasee!"
+    li "Chlooééé ? Ouvre ! C'est Lindsey ! S'il te plaît !"

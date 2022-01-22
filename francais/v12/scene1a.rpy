@@ -88,7 +88,7 @@ translate francais v12s1a_failed_timer_2da57c3f:
 translate francais v12s1a_failed_timer_3cf631da:
 
     # imre "You look exactly how you looked when Grayson got done with you, minus the black eye. *Laughs*"
-    imre "Tu es exactement comme tu étais quand Grayson t'a tabassé, sans l'oeil au beurre noir. *Rire*"
+    imre "T'es exactement comme t'étais quand Grayson t'a tabassé, sans l'oeil au beurre noir. *Rire*"
 
 # game/v12/scene1a.rpy:148
 translate francais v12s1a_failed_timer_e482bf90:
@@ -100,7 +100,7 @@ translate francais v12s1a_failed_timer_e482bf90:
 translate francais v12s1a_failed_timer_83bf5570:
 
     # imre "*Chuckles* I got you."
-    imre "*Rire* Je te tiens."
+    imre "*Rire* J'te tiens."
 
 # game/v12/scene1a.rpy:163
 translate francais v12s1a_failed_timer_def99c38:
@@ -166,7 +166,7 @@ translate francais v12s1a_failed_timer_a8d171d9:
 translate francais v12s1a_failed_timer_c0454360:
 
     # imre "I can't stand that guy."
-    imre "Je ne supporte pas ce mec."
+    imre "Je supporte pas ce mec."
 
 # game/v12/scene1a.rpy:228
 translate francais v12s1a_failed_timer_d3a4dd44:
@@ -178,7 +178,7 @@ translate francais v12s1a_failed_timer_d3a4dd44:
 translate francais v12s1a_failed_timer_f60d1f19:
 
     # imre "Don't worry... I'll catch him off guard one of these days and we'll see how tough he really is."
-    imre "Ne t'inquiète pas... Je vais le prendre au dépourvu un de ces jours et nous verrons à quel point il est fort."
+    imre "T'inquiète pas... J'vais le prendre au dépourvu un d'ces jours et nous verrons à quel point il est fort."
 
 # game/v12/scene1a.rpy:238
 translate francais v12s1a_failed_timer_48d98591:
@@ -190,7 +190,7 @@ translate francais v12s1a_failed_timer_48d98591:
 translate francais v12s1a_failed_timer_8a3ce7f1:
 
     # imre "Haha, I'll consider it. Are you good to get up to your room by yourself?"
-    imre "Haha, je vais y réfléchir. Tu peux monter dans ta chambre tout seul ?"
+    imre "Haha, j'vais y réfléchir. Tu peux monter dans ta chambre tout seul ?"
 
 # game/v12/scene1a.rpy:248
 translate francais v12s1a_failed_timer_9d9b3d8b:
@@ -202,7 +202,7 @@ translate francais v12s1a_failed_timer_9d9b3d8b:
 translate francais v12s1a_failed_timer_8ec4364c:
 
     # imre "I didn't even stop to turn and see. I saw you run and just started running too. You guys just got away from me there for a bit."
-    imre "Je ne me suis même pas arrêté pour me retourner et vérifier. Je t'ai vu courir et j'ai commencé à courir aussi. Je t'ai juste perdu de vue pendant un moment."
+    imre "J'me suis même pas arrêté pour me retourner et vérifier. J't'ai vu courir et j'ai commencé à courir aussi. J't'ai juste perdu de vue pendant un moment."
 
 # game/v12/scene1a.rpy:258
 translate francais v12s1a_failed_timer_621bc555:
@@ -214,7 +214,7 @@ translate francais v12s1a_failed_timer_621bc555:
 translate francais v12s1a_failed_timer_ac6d3935:
 
     # imre "Maybe. *Chuckles* But it wasn't hard to find you. That big ass forehead is impossible to miss."
-    imre "Peut-être. *Rire* Mais ce n'était pas difficile de te retrouver. Cette énorme tête de cul est impossible à manquer."
+    imre "Peut-être. *Rire* Mais c'était pas difficile de t'retrouver. Cette énorme tête de cul est impossible à manquer."
 
 # game/v12/scene1a.rpy:268
 translate francais v12s1a_failed_timer_3a150f43:
@@ -262,7 +262,7 @@ translate francais v12s1a_failed_timer_2ebb4c72:
 translate francais v12s1a_failed_timer_5cf071a8:
 
     # imre "*Heavy breathing* You got the purse, good."
-    imre "*Respiration lourde* Tu as le sac, bien."
+    imre "*Respiration lourde* T'as le sac, bien."
 
 # game/v12/scene1a.rpy:328
 translate francais v12s1a_failed_timer_b138070c:
@@ -274,7 +274,7 @@ translate francais v12s1a_failed_timer_b138070c:
 translate francais v12s1a_failed_timer_a06b3a1f:
 
     # imre "Nah, I knew I had no reason to worry. I was just coming to back you up."
-    imre "Nan, je savais que je n'avais aucune raison de m'inquiéter. J'étais juste venu pour te soutenir."
+    imre "Nan, j'savais que j'avais aucune raison de m'inquiéter. J'étais juste venu pour t'soutenir."
 
 # game/v12/scene1a.rpy:338
 translate francais v12s1a_failed_timer_af0e8afa:
@@ -286,7 +286,7 @@ translate francais v12s1a_failed_timer_af0e8afa:
 translate francais v12s1a_failed_timer_ead0bb4a:
 
     # imre "Most of them went back to the hotel. They tried staying with Nora but she told them to go."
-    imre "La plupart d'entre eux sont retournés à l'hôtel. Ils ont essayé de rester avec Nora mais elle leur a dit de partir."
+    imre "La plupart d'entre eux sont retournés à l'hôtel. Ils ont essayé d'rester avec Nora mais elle leur a dit d'partir."
 
 # game/v12/scene1a.rpy:348
 translate francais v12s1a_failed_timer_a9550053:
@@ -298,7 +298,7 @@ translate francais v12s1a_failed_timer_a9550053:
 translate francais v12s1a_failed_timer_bd57b6e5:
 
     # imre "I'm sure you can guess who. His name rhymes with bitch boy."
-    imre "Je suis sûr que tu peux deviner qui. Son nom rime avec chienlit."
+    imre "J'suis sûr qu'tu peux deviner qui. Son nom rime avec chienlit."
 
 # game/v12/scene1a.rpy:358
 translate francais v12s1a_failed_timer_055f2b18:
@@ -328,7 +328,7 @@ translate francais v12s1a_failed_timer_e5b839ef:
 translate francais v12s1a_failed_timer_31b99011:
 
     # imre "He sure did. He also taught that guy a lesson with a little Ali treatment."
-    imre "Bien sûr qu'il l'a fait. Il a aussi donné une leçon à ce type avec une méthode spéciale à la Ali."
+    imre "Bien sûr qu'il l'a fait. Il a aussi donné une leçon à c'type avec une méthode spéciale à la Ali."
 
 # game/v12/scene1a.rpy:388
 translate francais v12s1a_failed_timer_a915f958:
@@ -364,7 +364,7 @@ translate francais v12s1a_failed_timer_88a2a2c9:
 translate francais v12s1a_failed_timer_52d7d917:
 
     # imre "You know, I don't mind taking rainbow unicorn boy back to the hotel if you two wanna hang back and talk about my boy's heroic moment a bit longer. *Laughs*"
-    imre "Tu sais, ça ne me dérange pas de ramener le gamin licorne arc-en-ciel à l'hôtel, si vous voulez rester et parler du moment héroïque de mon poulain un peu plus longtemps. *Rire*"
+    imre "T'sais, ça m'dérange pas d'ramener le gamin licorne arc-en-ciel à l'hôtel, si vous voulez rester et parler du moment héroïque d'mon poulain un peu plus longtemps. *Rire*"
 
 # game/v12/scene1a.rpy:418
 translate francais v12s1a_failed_timer_c1525ed9:
@@ -388,7 +388,7 @@ translate francais v12s1a_failed_timer_5bcdf210:
 translate francais v12s1a_failed_timer_2a27bfd4:
 
     # imre "I may just have to put you in the top tier fighters on campus after that. He was a pretty big dude."
-    imre "Je vais peut-être devoir te mettre dans le top des combattants du campus après ça. C'était un gars plutôt costaud."
+    imre "J'vais peut-être devoir t'mettre dans le top des combattants du campus après ça. C'était un gars plutôt costaud."
 
 # game/v12/scene1a.rpy:451
 translate francais v12s1a_failed_timer_a3c6f9c2:
@@ -400,7 +400,7 @@ translate francais v12s1a_failed_timer_a3c6f9c2:
 translate francais v12s1a_failed_timer_25cb55bd:
 
     # imre "I don't think so, but maybe now. I'll have to speak with the best fighters commission."
-    imre "Je ne pense pas, mais peut-être qu'à partir de maintenant. Je vais devoir parler avec la commission des meilleurs combattants."
+    imre "J'pense pas, mais peut-être qu'à partir de maintenant. J'vais devoir parler avec la commission des meilleurs combattants."
 
 # game/v12/scene1a.rpy:461
 translate francais v12s1a_failed_timer_3d97d177:

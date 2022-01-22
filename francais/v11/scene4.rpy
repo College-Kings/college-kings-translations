@@ -52,7 +52,7 @@ translate francais v11s4_PhoneContinueEmily1_71adde92:
 translate francais v11s4_PhoneContinueEmily1_a287c01e:
 
     # em "I feel like the best thing to do is just come out and say it. We can't see each other anymore."
-    em "Je pense que la meilleure chose à faire est de sortir et de le dire. On ne peut plus se voir."
+    em "J'ai l'impression que la meilleure chose à faire est de le dire ouvertement. On ne doit plus se voir."
 
 # game/v11/scene4.rpy:110
 translate francais v11s4_PhoneContinueEmily1_458c0fef:
@@ -88,19 +88,19 @@ translate francais v11s4_PhoneContinueEmily1_72f518ab:
 translate francais v11s4_PhoneContinueEmily1_01b9cc4e:
 
     # u "That's fine."
-    u "C'est bon."
+    u "Parfait."
 
 # game/v11/scene4.rpy:144
 translate francais v11s4_PhoneContinueEmily1_336e7f27:
 
     # em "What do you mean \"that's fine\"?"
-    em "Que veux-tu dire par \"c'est bon\" ?"
+    em "Que veux-tu dire par \"parfait.\" ?"
 
 # game/v11/scene4.rpy:149
 translate francais v11s4_PhoneContinueEmily1_f9b69592:
 
     # u "I mean that's fine. If you don't wanna see each other anymore, that's your choice."
-    u "Je veux dire que c'est bon. Si tu ne veux plus me voir, c'est ton choix."
+    u "Je veux dire que c'est parfait.. Si tu ne veux plus me voir, c'est ton choix."
 
 # game/v11/scene4.rpy:154
 translate francais v11s4_PhoneContinueEmily1_0f993ef4:
@@ -124,7 +124,7 @@ translate francais v11s4_PhoneContinueEmily1_034de290:
 translate francais v11s4_PhoneContinueEmily1_ad6845f3:
 
     # em "No we can't, to me we've never been just friends. We've been in a relationship or wanting to be since the moment we've met."
-    em "Non, on ne peut pas. Pour moi, on n'a jamais été juste amis. Nous sommes dans une relation, ou nous le voulons, depuis le moment où nous nous sommes rencontrés."
+    em "Non, on ne peut pas. Pour moi, on n'a jamais été \"juste amis\". Nous sommes dans une relation, ou nous le voulons, depuis le moment où nous nous sommes rencontrés."
 
 # game/v11/scene4.rpy:173
 translate francais v11s4_PhoneContinueEmily1_d124b944:
@@ -178,7 +178,7 @@ translate francais strings:
 
     # game/v11/scene4.rpy:134
     old "That's fine"
-    new "C'est bon"
+    new "Parfait"
 
     # game/v11/scene4.rpy:134
     old "Be friends"

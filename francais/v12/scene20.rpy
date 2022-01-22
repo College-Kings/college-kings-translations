@@ -40,7 +40,7 @@ translate francais v12_urban_exploring_16120765:
 translate francais v12_urban_exploring_6f5a037c:
 
     # imre "Oh man... I was the coolest kid at recess."
-    imre "Oh je me souviens... J'étais l'enfant le plus cool à la récréation."
+    imre "Oh j'me souviens... J'étais l'enfant l'plus cool à la récréation."
 
 # game/v12/scene20.rpy:50
 translate francais v12_urban_exploring_0ee913ba:
@@ -52,7 +52,7 @@ translate francais v12_urban_exploring_0ee913ba:
 translate francais v12_urban_exploring_0eb43631:
 
     # imre "And you were probably the kid during hide and seek that no one ever cared to find."
-    imre "Et toi, tu étais probablement la gamine pendant le jeu de cache-cache que personne ne cherchait jamais."
+    imre "Et toi, t'étais probablement la gamine pendant le jeu d'cache-cache que personne cherchait jamais."
 
 # game/v12/scene20.rpy:60
 translate francais v12_urban_exploring_e51d8799:
@@ -106,7 +106,7 @@ translate francais v12_urban_exploring_cb2eb4ac:
 translate francais v12_urban_exploring_42da43cb:
 
     # imre "Umm, hello? Still here, and I bet I can do stunts way better than you girls."
-    imre "Hum, allo ? Je suis toujours là, et je parie que je peux faire des cascades bien mieux que vous les filles."
+    imre "Hum, allo ? J'suis toujours là, et j'parie que j'peux faire des cascades bien mieux que vous les filles."
 
 # game/v12/scene20.rpy:105
 translate francais v12_urban_exploring_27eb9cd3:
@@ -118,7 +118,7 @@ translate francais v12_urban_exploring_27eb9cd3:
 translate francais v12_urban_exploring_87133637:
 
     # imre "Hell yeah, I used to do stunts with my mom all the time."
-    imre "Bien sûr, j'avais tout le temps l'habitude de faire des cascades avec ma mère."
+    imre "Bien sûr, j'avais tout l'temps l'habitude de faire des cascades avec ma mère."
 
 # game/v12/scene20.rpy:115
 translate francais v12_urban_exploring_6c53edd3:
@@ -142,7 +142,7 @@ translate francais v12_urban_exploring_ade3a425:
 translate francais v12_urban_exploring_5811726d:
 
     # imre "Why would I lie? Besides, that was just a little warm up!"
-    imre "Pourquoi je mentirais ? Et puis, c'était juste un petit échauffement !"
+    imre "Pourquoi j'mentirais ? Et puis, c'était juste un petit échauffement !"
 
 # game/v12/scene20.rpy:145
 translate francais v12_urban_exploring_b2827ebf:
@@ -244,7 +244,7 @@ translate francais v12_urban_exploring_08a5f439:
 translate francais v12_urban_exploring_71b133e8:
 
     # imre "Wait, was that not just a normal back flip?"
-    imre "Attends, ce n'était pas juste un back flip normal ?"
+    imre "Attends, c'était pas juste un back flip normal ?"
 
 # game/v12/scene20.rpy:263
 translate francais v12_urban_exploring_3a752b46:
@@ -370,7 +370,7 @@ translate francais v12s20_faillabel_f85ddfaf:
 translate francais v12s20_faillabel_17e6c2b2:
 
     # imre "I can do a round off!"
-    imre "Je peux faire une rondade !"
+    imre "J'peux faire une rondade !"
 
 # game/v12/scene20.rpy:402
 translate francais v12s20_faillabel_baa1182e:
@@ -448,7 +448,7 @@ translate francais v12s20_faillabel_c1b001ae:
 translate francais v12s20_faillabel_3611c5d8:
 
     # imre "Sorry Aubrey, but between the sunlight and the free drinks, this sounds like too good of a time to pass up."
-    imre "Désolé Aubrey, mais boire des boissons gratuites au soleil, c'est un moment à ne pas laisser passer."
+    imre "Désolé Aubrey, mais boire des boissons gratuites au soleil, c'est un moment à pas laisser passer."
 
 # game/v12/scene20.rpy:486
 translate francais v12s20_faillabel_48bc559d:
@@ -472,7 +472,7 @@ translate francais v12s20_faillabel_f2660f4f:
 translate francais v12s20_faillabel_ca2e2210:
 
     # imre "And it's not like walking you back sounds fun, but I got drinks in my room. C'mon."
-    imre "Et ce n'est pas comme si te raccompagner était amusant, mais bon... j'ai des boissons dans ma chambre. Allez, viens."
+    imre "Et c'est pas comme si t'raccompagner était amusant, mais bon... j'ai des boissons dans ma chambre. Allez, viens."
 
 translate francais strings:
 

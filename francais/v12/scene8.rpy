@@ -52,7 +52,7 @@ translate francais v12_murder_mystery_reveal_60bc9c19:
 translate francais v12_murder_mystery_reveal_50f7a2e4:
 
     # imre "Don't worry, soon I'm gonna do something for you that I find amusing."
-    imre "Ne vous inquiétez pas, bientôt je vais faire quelque chose pour vous que je trouve amusant."
+    imre "Vous inquiétez pas, bientôt j'vais faire quelque chose pour vous que j'trouve amusant."
 
 # game/v12/scene8.rpy:64
 translate francais v12_murder_mystery_reveal_2f627b84:
@@ -136,7 +136,7 @@ translate francais v12_murder_mystery_reveal_144738e7:
 translate francais v12_murder_mystery_reveal_3d064b40:
 
     # imre "WAIT WAIT WAIT BRO! I just processed this, you let me walk around like that, you could've shut the game down from the jump."
-    imre "ATTENDS, ATTENDS, ATTENDS, MON FRÈRE ! Je viens de comprendre un truc : tu me laisses me balader comme ça, alors tu aurais pu arrêter le jeu dès le début."
+    imre "ATTENDS, ATTENDS, ATTENDS, MON FRÈRE ! J'viens d'comprendre un truc : tu m'laisses me balader comme ça, alors t'aurais pu arrêter le jeu dès l'début."
 
 # game/v12/scene8.rpy:143
 translate francais v12_murder_mystery_reveal_e7412e9b:
@@ -148,7 +148,7 @@ translate francais v12_murder_mystery_reveal_e7412e9b:
 translate francais v12_murder_mystery_reveal_7179f35a:
 
     # imre "Well the game's over now so we're not worried about that."
-    imre "Eh bien, le jeu est terminé maintenant, donc nous ne sommes plus inquiets à ce sujet."
+    imre "Eh bien, le jeu est terminé maintenant, donc on est plus inquiets à ce sujet."
 
 # game/v12/scene8.rpy:153
 translate francais v12_murder_mystery_reveal_fd8f6620:
@@ -160,7 +160,7 @@ translate francais v12_murder_mystery_reveal_fd8f6620:
 translate francais v12_murder_mystery_reveal_ce098357:
 
     # imre "I'll be quiet."
-    imre "Ok, je me tais."
+    imre "Ok, j'me tais."
 
 # game/v12/scene8.rpy:163
 translate francais v12_murder_mystery_reveal_a460d356:

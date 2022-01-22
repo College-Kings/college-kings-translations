@@ -1,17 +1,7 @@
-﻿# TODO: Translation updated at 2021-06-05 20:30
+﻿# TODO: Translation updated at 2021-11-30 22:38
 
 # game/script.rpy:61
 translate francais end_credits_9ea2f78c:
 
     # " "
-<<<<<<< HEAD
-<<<<<<< HEAD
-    "Traduction française: poussin1er"
-=======
-    "Traduction française Patrick PIGNOL"
-
->>>>>>> parent of 2633b3a (Final French translation (continued))
-=======
-    "Traduction française Patrick PIGNOL"
-
->>>>>>> parent of 2633b3a (Final French translation (continued))
+    "Traduction française : poussin1er"

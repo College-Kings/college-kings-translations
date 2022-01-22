@@ -4,7 +4,7 @@
 translate francais v13_hotel_imre_bcc20088:
 
     # imre "I'm gonna go take a hot shower. Really not in the mood for people right now."
-    imre "Je vais aller prendre une douche chaude. Je ne suis vraiment pas d'humeur à voir du monde là."
+    imre "J'vais aller prendre une douche chaude. J'suis vraiment pas d'humeur à voir du monde là."
 
 # game/v13/scene39.rpy:17
 translate francais v13_hotel_imre_c8af3034:
@@ -16,7 +16,7 @@ translate francais v13_hotel_imre_c8af3034:
 translate francais v13_hotel_imre_fe53d91f:
 
     # imre "Now I really have to go."
-    imre "Je dois vraiment y aller."
+    imre "J'dois vraiment y aller."
 
 # game/v13/scene39.rpy:32
 translate francais v13_hotel_imre_a1218134:

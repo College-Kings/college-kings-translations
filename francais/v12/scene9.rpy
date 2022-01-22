@@ -4,7 +4,7 @@
 translate francais v12_dock_arrival_27f36e96:
 
     # imre "I'M IN PARIS BABYYYYYYYYY!!"
-    imre "JE SUIS À PARIS BABYYYYYYYYY ! !!"
+    imre "J'SUIS À PARIS BABYYYYYYYYY ! !!"
 
 # game/v12/scene9.rpy:28
 translate francais v12_dock_arrival_fcc18885:

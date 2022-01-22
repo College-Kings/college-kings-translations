@@ -4,7 +4,7 @@
 translate francais v11_wolves_seb_prank_e80671e3:
 
     # imre "*Laughs* He's a pretty deep sleeper so I'm sure we'll get away with it."
-    imre "*Rire* Il a le sommeil assez profond, donc je suis sûr qu'on va réussir."
+    imre "*Rire* Il a le sommeil assez profond, donc j'suis sûr qu'on va réussir."
 
 # game/v11/scene9a.rpy:20
 translate francais v11_wolves_seb_prank_fe4efade:
@@ -70,7 +70,7 @@ translate francais v11_wolves_seb_prank_dc021bf6:
 translate francais v11_wolves_seb_prank_6c8dbb33:
 
     # imre "Once he's asleep we're gonna drag him across campus in his sleeping bag. We'll leave him right in the middle of the college."
-    imre "Une fois qu'il sera endormi, on le traînera à travers le campus dans son sac de couchage. Et on le laissera en plein milieu de l'université."
+    imre "Dès qu'il s'ra endormi, on le traînera à travers le campus dans son sac de couchage. Et on le laissera en plein milieu de l'université."
 
 # game/v11/scene9a.rpy:80
 translate francais v11_wolves_seb_prank_668b1242:
@@ -82,7 +82,7 @@ translate francais v11_wolves_seb_prank_668b1242:
 translate francais v11_wolves_seb_prank_d1e1e7d3:
 
     # imre "See, that's why this prank is so perfect. Sebastian likes falling asleep to this weird fucking country-folk yee-haw shit music, but it doesn't bother him while he sleeps because he's such a deep sleeper."
-    imre "Tu vois, c'est pourquoi cette farce est si parfaite. Sebastian aime s'endormir sur cette putain de musique de merde country-folk yee-haw, mais ça ne le dérange pas pendant qu'il dort parce qu'il a le sommeil profond."
+    imre "Tu vois, c'est pourquoi cette farce est si parfaite. Sebastian aime s'endormir sur cette putain de musique de merde country-folk yee-haw, mais ça l'dérange pas pendant qu'il dort parce qu'il a le sommeil profond."
 
 # game/v11/scene9a.rpy:87
 translate francais v11_wolves_seb_prank_e3d6128e:
@@ -100,7 +100,7 @@ translate francais v11_wolves_seb_prank_9bf5b5c8:
 translate francais v11_wolves_seb_prank_de30e5ac:
 
     # imre "It's a revenge plan over the fact that I can't sleep because he's playing that damn music!"
-    imre "C'est un plan de vengeance sur le fait que je ne peux pas dormir parce qu'il joue cette putain de musique !"
+    imre "C'est un plan de vengeance sur le fait que j'peux pas dormir parce qu'il y a cette putain de musique !"
 
 # game/v11/scene9a.rpy:102
 translate francais v11_wolves_seb_prank_1a2a8522:
@@ -178,7 +178,7 @@ translate francais v11s9a_kiwiiPost1_continue_f7470a56:
 translate francais v11s9a_kiwiiPost1_continue_a45093cc:
 
     # imre "*Laughs* No, he must sleep naked."
-    imre "*Rire* Non, il doit dormir nu."
+    imre "*Rire* Non, il doit dormir à poil."
 
 # game/v11/scene9a.rpy:226
 translate francais v11s9a_kiwiiPost1_continue_c3f8f1e9:
@@ -196,7 +196,7 @@ translate francais v11s9a_kiwiiPost1_continue_b5e75679:
 translate francais v11s9a_kiwiiPost1_continue_141bef9d:
 
     # imre "Nice... wake me up when it's time?"
-    imre "Bien... tu me réveilles quand c'est l'heure ?"
+    imre "Bien... tu m'réveilles quand c'est l'heure ?"
 
 # game/v11/scene9a.rpy:245
 translate francais v11s9a_kiwiiPost1_continue_718954cb:
@@ -232,7 +232,7 @@ translate francais v11s9a_kiwiiPost1_continue_cef9f757:
 translate francais v11s9a_kiwiiPost1_continue_31adea95:
 
     # imre "*Whisper* Alright, let's go."
-    imre "*Chuchote* Très bien, allons-y."
+    imre "*Chuchote* Très bien, go go go."
 
 # game/v11/scene9a.rpy:300
 translate francais v11s9a_kiwiiPost1_continue_885bff6d:
@@ -244,7 +244,7 @@ translate francais v11s9a_kiwiiPost1_continue_885bff6d:
 translate francais v11s9a_kiwiiPost1_continue_673fbe72:
 
     # imre "Told you he was a deep sleeper. See? We don't even have to whisper."
-    imre "Je t'avais dit qu'il avait le sommeil profond. Tu vois ? On n'a même pas besoin de chuchoter."
+    imre "J't'avais dit qu'il avait le sommeil profond. Tu vois ? On n'a même pas besoin d'chuchoter."
 
 # game/v11/scene9a.rpy:310
 translate francais v11s9a_kiwiiPost1_continue_1a4f8b09:
@@ -268,7 +268,7 @@ translate francais v11s9a_kiwiiPost1_continue_c1a88f60:
 translate francais v11s9a_kiwiiPost1_continue_31ce3bba:
 
     # imre "I don't see a-"
-    imre "Je ne vois aucun-"
+    imre "J'vois aucun-"
 
 # game/v11/scene9a.rpy:330
 translate francais v11s9a_kiwiiPost1_continue_62ccd0cf:
@@ -310,7 +310,7 @@ translate francais v11s9a_kiwiiPost1_continue_53dc50c7:
 translate francais v11s9a_kiwiiPost1_continue_84afc3e6:
 
     # imre "I think we're good."
-    imre "Je crois qu'on est bons."
+    imre "J'crois qu'on est bons."
 
 # game/v11/scene9a.rpy:365
 translate francais v11s9a_kiwiiPost1_continue_b05547a5:
@@ -376,7 +376,7 @@ translate francais v11s9a_kiwiiPost1_continue_4b5d30d4:
 translate francais v11s9a_kiwiiPost1_continue_9a754fb9:
 
     # imre "And now it's time for some peace and quiet."
-    imre "Et maintenant, il est temps d'avoir un peu de paix et de tranquillité."
+    imre "Et maintenant, un peu de paix et de tranquillité."
 
 # game/v11/scene9a.rpy:445
 translate francais v11s9a_kiwiiPost1_continue_e215f5fb:
@@ -424,7 +424,7 @@ translate francais v11s9a_kiwiiPost2_continue_915ceca1:
 translate francais v11s9a_kiwiiPost2_continue_904cd5b3:
 
     # imre "*Laughs* He must sleep naked."
-    imre "*Rire* Il doit dormir nu."
+    imre "*Rire* Il doit dormir à poil."
 
 # game/v11/scene9a.rpy:520
 translate francais v11s9a_kiwiiPost2_continue_c3f8f1e9:
@@ -532,7 +532,7 @@ translate francais v11s9a_kiwiiPost2_continue_33a814b8:
 translate francais v11s9a_kiwiiPost2_continue_44deb6c5:
 
     # imre "Speaking of Europe... We should get going."
-    imre "En parlant de l'Europe... Nous devrions y aller."
+    imre "En parlant de l'Europe... On dois y aller."
 
 # game/v11/scene9a.rpy:625
 translate francais v11s9a_kiwiiPost2_continue_2552b235:

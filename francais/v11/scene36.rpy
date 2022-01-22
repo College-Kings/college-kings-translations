@@ -34,7 +34,7 @@ translate francais v11_imre_ryan_grapple_702fb1d8:
 translate francais v11_imre_ryan_grapple_5a35e30c:
 
     # imre "I meant what I said, bro."
-    imre "Je pensais ce que j'ai dit, frère."
+    imre "J'pensais ce que j'ai dit, frère."
 
 # game/v11/scene36.rpy:90
 translate francais v11_imre_ryan_grapple_17c26900:
@@ -82,7 +82,7 @@ translate francais v11_imre_ryan_grapple_2e4d9141:
 translate francais v11_imre_ryan_grapple_62652cd2:
 
     # imre "You say it like you actually landed a hit."
-    imre "Tu le dis comme si tu avais réussi à toucher le gros lot."
+    imre "Tu l'dis comme si t'avais réussi à toucher le gros lot."
 
 # game/v11/scene36.rpy:134
 translate francais v11_imre_ryan_grapple_417a23cd:
@@ -136,7 +136,7 @@ translate francais v11_imre_ryan_grapple_809141c8:
 translate francais v11_imre_ryan_grapple_e991c805:
 
     # imre "You got dragged into this when you decided to start being friends with that asshole."
-    imre "Tu as été impliqué dans tout ça quand tu as décidé d'être ami avec ce connard."
+    imre "T'as été impliqué dans tout ça quand t'as décidé d'être ami avec ce connard."
 
 # game/v11/scene36.rpy:189
 translate francais v11_imre_ryan_grapple_f19b4970:
@@ -172,7 +172,7 @@ translate francais v11_imre_ryan_grapple_4f229baa:
 translate francais v11_imre_ryan_grapple_0c2d99e3:
 
     # imre "That'd be nice, I'd rather go eat."
-    imre "Ce serait cool, je préférerais aller manger."
+    imre "Ce s'rait cool, j'préférerais aller manger."
 
 # game/v11/scene36.rpy:219
 translate francais v11_imre_ryan_grapple_7baa47d9:

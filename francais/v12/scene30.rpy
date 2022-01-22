@@ -16,4 +16,4 @@ translate francais v12_room_sneak_420d0d43:
 translate francais v12_room_sneak_9be6d6c1:
 
     # u "(Surprised she doesn't have company.)"
-    u "(Surpris qu'elle n'ait pas de compagnie.)"
+    u "(Je suis surpris qu'elle n'ait pas de compagnie.)"

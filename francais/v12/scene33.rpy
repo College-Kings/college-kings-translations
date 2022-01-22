@@ -262,7 +262,7 @@ translate francais v12s33_aa828c82:
 translate francais v12s33_cbaa848b:
 
     # imre "I don't know about you, but I'd rather have a woman's hands on me than a man's."
-    imre "Je ne sais pas pour vous, mais je préfère avoir les mains d'une femme sur moi que celles d'un mec."
+    imre "J'sais pas pour vous, mais j'préfère avoir les mains d'une femme sur moi qu'celles d'un mec."
 
 # game/v12/scene33.rpy:256
 translate francais v12s33_c996389f:
@@ -286,7 +286,7 @@ translate francais v12s33_0a0f72e8:
 translate francais v12s33_fd82c224:
 
     # imre "In the spirit of relaxing, let's not bring it up or talk about any of it right now, if that's okay?"
-    imre "Dans un esprit de détente, n'en parlons pas pour l'instant, vous êtes d'accord ?"
+    imre "Dans un esprit de détente, on en parle pas pour l'instant, vous êtes d'accord ?"
 
 # game/v12/scene33.rpy:276
 translate francais v12s33_7fe9486a:
@@ -304,7 +304,7 @@ translate francais v12s33_84a92869:
 translate francais v12s33_9bc0e37d:
 
     # imre "Oh yeah! You with the sexy voice, you can do my massage."
-    imre "Oh oui ! Vous, avec votre voix sexy, vous pouvez me faire un massage."
+    imre "Oh oui ! Vous, avec votre voix sexy, vous pouvez m'faire un massage."
 
 # game/v12/scene33.rpy:291
 translate francais v12s33_8854ebe5:
@@ -322,7 +322,7 @@ translate francais v12s33_f1bdd86e:
 translate francais v12s33_fca8dc97:
 
     # imre "Nah, I wanna know you're here."
-    imre "Non, je veux être sûr que vous êtes là."
+    imre "Non, j'veux être sûr qu'vous êtes là."
 
 # game/v12/scene33.rpy:305
 translate francais v12s33_a4c4eb2c:
@@ -334,7 +334,7 @@ translate francais v12s33_a4c4eb2c:
 translate francais v12s33_b4d3b086:
 
     # imre "Damn girl, you got some strong ass hands... Ohhhh yeahhhh..."
-    imre "Bordel de merde, t'as de sacrées mains baladeuses... Ohhhh ouaiiiiis..."
+    imre "Bordel de merde, t'as d'sacrées mains baladeuses... Ohhhh ouaiiiiis..."
 
 # game/v12/scene33.rpy:314
 translate francais v12s33_b5ffc49a:
@@ -346,7 +346,7 @@ translate francais v12s33_b5ffc49a:
 translate francais v12s33_f2bcea62:
 
     # imre "I wonder what's going on in the sauna right now."
-    imre "Je me demande ce qui se passe dans le sauna en ce moment."
+    imre "Je m'demande c'qui s'passe dans l'sauna en ce moment."
 
 # game/v12/scene33.rpy:324
 translate francais v12s33_68fde7d3:
@@ -370,7 +370,7 @@ translate francais v12s33_91c22356:
 translate francais v12s33_8d0c10ba:
 
     # imre "Shit, that sounds kinda nice... I bet the girls are all sweaty in there. I may have to stop by... *Chuckles*"
-    imre "Merde, ça a l'air plutôt cool... Je parie que les filles sont toutes en sueur là-dedans. Je vais peut-être devoir aller les voir... *rire*"
+    imre "Merde, ça a l'air plutôt cool... J'parie qu'les filles sont toutes en sueur là-dedans. J'vais peut-être devoir aller les voir... *rire*"
 
 # game/v12/scene33.rpy:344
 translate francais v12s33_f1cbfacf:
@@ -406,7 +406,7 @@ translate francais v12s33_af4e5c6b:
 translate francais v12s33_07c7b99f:
 
     # imre "Oh shit, you're an ugly girl!"
-    imre "Oh merde, tu es une fille très laide !"
+    imre "Oh merde, t'es une fille très laide !"
 
 # game/v12/scene33.rpy:372
 translate francais v12s33_fcc18885:
@@ -436,7 +436,7 @@ translate francais v12s33_c2cfc876:
 translate francais v12s33_f39ff2a7:
 
     # imre "Hell no, you are not a woman! Sorry man, ladies only over here. Move on to someone else, pal."
-    imre "Putain non, tu n'es pas une femme ! Désolé mec, c'est réservé aux femmes ici. Passez à quelqu'un d'autre, vieux."
+    imre "Putain non, t'es pas une femme ! Désolé mec, c'est réservé aux femmes ici. Passez à quelqu'un d'autre, vieux."
 
 # game/v12/scene33.rpy:397
 translate francais v12s33_3f529807:
@@ -448,7 +448,7 @@ translate francais v12s33_3f529807:
 translate francais v12s33_53844155:
 
     # imre "Unbelievable. Next time I feel some hands on me they better be female..."
-    imre "Incroyable. La prochaine fois que je sentirai des mains sur moi, il vaudrait mieux que ce soit celles d'une femme..."
+    imre "Incroyable. La prochaine fois que j'sentirai des mains sur moi, il vaudrait mieux qu'ce soit celles d'une femme..."
 
 # game/v12/scene33.rpy:404
 translate francais v12s33_8529a77a:
@@ -460,7 +460,7 @@ translate francais v12s33_8529a77a:
 translate francais v12s33_186dd63b:
 
     # imre "What's wrong, Mr. Lee? Can't handle it?"
-    imre "Qu'est-ce qui ne va pas, Mr Lee ? Vous ne pouvez pas le supporter ?"
+    imre "Qu'est-ce qui va pas, Mr Lee ? Vous pouvez pas l'supporter ?"
 
 # game/v12/scene33.rpy:414
 translate francais v12s33_ae252ebb:
@@ -550,7 +550,7 @@ translate francais v12s33_a82378e4:
 translate francais v12s33_bda7ff4f:
 
     # imre "You don't look it... *Laughs*"
-    imre "Vous n'en avez pas l'air... *Rire*"
+    imre "Vous en avez pas l'air... *Rire*"
 
 # game/v12/scene33.rpy:471
 translate francais v12s33_c043254e:
@@ -562,7 +562,7 @@ translate francais v12s33_c043254e:
 translate francais v12s33_5b1bf896:
 
     # imre "I'll be waiting."
-    imre "Je vais attendre."
+    imre "J'vais attendre."
 
 # game/v12/scene33.rpy:481
 translate francais v12s33_f80442e6:
@@ -592,7 +592,7 @@ translate francais v12s33_aaf9b05b:
 translate francais v12s33_a5a792a5:
 
     # imre "I can make it even more exciting if you come over here."
-    imre "Je peux rendre ça encore plus amusant si vous venez par ici."
+    imre "J'peux rendre ça encore plus amusant si vous venez par ici."
 
 # game/v12/scene33.rpy:506
 translate francais v12s33_e2f95e62:
@@ -604,7 +604,7 @@ translate francais v12s33_e2f95e62:
 translate francais v12s33_357d3fe3:
 
     # imre "Damn, so you'll finish him off, but won't even start with me? That's harsh, baby."
-    imre "Merde, donc vous allez le finir, mais vous ne voulez même pas démarrer avec moi ? C'est dur, bébé."
+    imre "Merde, donc vous allez l'finir, mais vous voulez même pas démarrer avec moi ? C'est dur, bébé."
 
 # game/v12/scene33.rpy:516
 translate francais v12s33_2529b281:
@@ -676,7 +676,7 @@ translate francais v12s33_sneak_off1_9a480a1c:
 translate francais v12s33_sneak_off1_8dc58587:
 
     # imre "*Laughs* Gross dude! You don't need to announce it."
-    imre "*Rire* Dégueu, mec ! Tu n'as pas besoin de l'annoncer."
+    imre "*Rire* Dégueu, mec ! T'as pas besoin de l'annoncer."
 
 # game/v12/scene33.rpy:592
 translate francais v12s33_sneak_off1_636a0944:
@@ -1126,7 +1126,7 @@ translate francais v12s33_three_doors_back_fecdd0f1:
 translate francais v12s33_three_doors_back_4d0230c9:
 
     # imre "Next time [name], but thank you. I got a nice massage from the hotshot while you were gone, and let me just say... Those hands are silky smooth."
-    imre "La prochaine fois [name], mais merci. J'ai eu un bon massage par la bombe pendant que tu étais parti, et laisse moi te dire... Ces mains sont douces comme de la soie."
+    imre "La prochaine fois [name], mais merci. J'ai eu un bon massage par la bombe pendant que t'étais parti, et laisse moi te dire... Ces mains sont douces comme d'la soie."
 
 # game/v12/scene33.rpy:1049
 translate francais v12s33_three_doors_back_287f0e2a:
@@ -1180,7 +1180,7 @@ translate francais v12s33_sauna_54d5640a:
 translate francais v12s33_sauna_94dfecc0:
 
     # imre "I already am. *Chuckles*"
-    imre "Je m'y suis déjà habitué. *Rire*"
+    imre "J'm'y suis déjà habitué. *Rire*"
 
 # game/v12/scene33.rpy:1106
 translate francais v12s33_sauna_1955f674:
@@ -1204,7 +1204,7 @@ translate francais v12s33_sauna_5ce27ad1:
 translate francais v12s33_sauna_4d62cf9f:
 
     # imre "Yeah, you wouldn't be that bad of a dad."
-    imre "Ouais, vous ne seriez pas un si mauvais père."
+    imre "Ouais, vous seriez pas un si mauvais père."
 
 # game/v12/scene33.rpy:1126
 translate francais v12s33_sauna_f5cb9ec3:
@@ -1306,7 +1306,7 @@ translate francais v12s33_sneak_off2_466f3cb7:
 translate francais v12s33_sneak_off2_0b9541a5:
 
     # imre "Bro, there's no way... Unless you're sick?"
-    imre "Mec, y a pas moyen... À moins que tu ne sois malade ?"
+    imre "Mec, y a pas moyen... À moins qu'tu sois malade ?"
 
 # game/v12/scene33.rpy:1250
 translate francais v12s33_sneak_off2_a20c934b:
@@ -1360,7 +1360,7 @@ translate francais v12s33_sneak_off2_6f9728ab:
 translate francais v12s33_sneak_off2_408e5e08:
 
     # imre "Okay then, I'll come with you."
-    imre "Ok alors, je viens avec toi."
+    imre "Ok alors, j'viens avec toi."
 
 # game/v12/scene33.rpy:1291
 translate francais v12s33_sneak_off2_f150bf3a:
@@ -1372,7 +1372,7 @@ translate francais v12s33_sneak_off2_f150bf3a:
 translate francais v12s33_sneak_off2_aee9f677:
 
     # imre "Woah, I wasn't saying... *Sighs* Nevermind."
-    imre "Woah, je ne disais pas... *Soupirs* Oubliez ça."
+    imre "Woah, j'disais pas... *Soupirs* Oubliez ça."
 
 # game/v12/scene33.rpy:1301
 translate francais v12s33_sneak_off2_4c3fd6d6:

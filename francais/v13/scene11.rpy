@@ -76,13 +76,13 @@ translate francais v13s11_96cdb0cf:
 translate francais v13s11_2603991a:
 
     # imre "Ryan? What are you- Wait, [name]? What the fuck is going on?!"
-    imre "Ryan ? Qu'est-ce que tu... Attends, [name] ? Qu'est-ce qui se passe, bordel ?"
+    imre "Ryan ? Qu'est-ce que tu... Attends, [name] ? Qu'est-ce qui s'passe, bordel ?"
 
 # game/v13/scene11.rpy:112
 translate francais v13s11_aed8f22b:
 
     # imre "Are you... Tying his shoes? What the hell..."
-    imre "Est-ce que tu... en train de lacer ses chaussures ? C'est quoi ce bordel..."
+    imre "Est-ce que tu... en train de lacer ses chaussures ? C'est quoi c'bordel..."
 
 # game/v13/scene11.rpy:117
 translate francais v13s11_bc26f1ae:
@@ -94,7 +94,7 @@ translate francais v13s11_bc26f1ae:
 translate francais v13s11_267bd1bc:
 
     # imre "He what? What the hell is happening? Were you two following me?!"
-    imre "Il quoi ? Qu'est-ce qui se passe, bordel ? Est-ce que vous me suiviez tous les deux ?!"
+    imre "Il quoi ? Qu'est-ce qui s'passe, bordel ? Est-ce que vous me suiviez tous les deux ?!"
 
 # game/v13/scene11.rpy:140
 translate francais v13_push_ryan_7032a2b7:
@@ -130,7 +130,7 @@ translate francais v13_push_ryan_977e2c7c:
 translate francais v13_push_ryan_1b7b9a8d:
 
     # imre "I'm going on a date... Why are you hiding behind the wall?"
-    imre "Je vais à un rendez-vous... Pourquoi te caches-tu derrière le mur ?"
+    imre "J'vais à un rendez-vous... Pourquoi te caches-tu derrière le mur ?"
 
 # game/v13/scene11.rpy:175
 translate francais v13_push_ryan_eefb38ff:
@@ -148,7 +148,7 @@ translate francais v13_push_ryan_d761f0e3:
 translate francais v13_push_ryan_a9e179f3:
 
     # imre "He what? You're following me?! What the hell is going on?"
-    imre "Il quoi ? Vous me suiviez ?! Qu'est-ce qui se passe, bordel ?"
+    imre "Il quoi ? Vous me suiviez ?! Qu'est-ce qui s'passe, bordel ?"
 
 # game/v13/scene11.rpy:191
 translate francais v13_imre_continue_ccae6eb5:
@@ -160,7 +160,7 @@ translate francais v13_imre_continue_ccae6eb5:
 translate francais v13_imre_continue_e4ddf531:
 
     # imre "What? Why? I don't understand how I could take this in a \"not weird\" way."
-    imre "Quoi ? Pourquoi ? Je ne vois pas comment je pourrais prendre ça d'une autre manière que \"mal\"."
+    imre "Quoi ? Pourquoi ? J'vois pas comment je pourrais prendre ça d'une autre manière que \"mal\"."
 
 # game/v13/scene11.rpy:201
 translate francais v13_imre_continue_53c737c6:
@@ -172,7 +172,7 @@ translate francais v13_imre_continue_53c737c6:
 translate francais v13_imre_continue_c1e67656:
 
     # imre "Ahh, I get it... So you two are jealous and wanna ruin my date?"
-    imre "Ahh, je comprends... Donc vous êtes tous les deux jaloux et voulez gâcher mon rencard ?"
+    imre "Ahh, j'comprends... Donc vous êtes tous les deux jaloux et voulez gâcher mon rencard ?"
 
 # game/v13/scene11.rpy:211
 translate francais v13_imre_continue_22f39854:
@@ -196,7 +196,7 @@ translate francais v13_imre_continue_ffccee83:
 translate francais v13_imre_continue_2c801063:
 
     # imre "You know what? You guys can follow me from a distance like the creeps you are, and when I walk in and you see the baddie I've been talking to, you guys can bounce your ugly asses out the door. Deal?"
-    imre "Vous savez quoi ? Vous pouvez me suivre à distance comme les sales types que vous êtes, et quand j'entrerai et que vous verrez le \"vilain monsieur\" à qui j'ai parlé, vous pourrez mettre vos sales culs à la porte. Marché conclu ?"
+    imre "Vous savez quoi ? Vous pouvez m'suivre à distance comme les sales types que vous êtes, et quand j'entrerai et qu'vous verrez le \"vilain monsieur\" à qui j'ai parlé, vous pourrez mettre vos sales culs à la porte. Marché conclu ?"
 
 # game/v13/scene11.rpy:231
 translate francais v13_imre_continue_fdbbded2:
@@ -304,7 +304,7 @@ translate francais v13_imre_continue_5ecb7276:
 translate francais v13_imre_continue_f55fe1b9:
 
     # imre "Bro, why are you touching me?"
-    imre "Mec, pourquoi tu me touches ?"
+    imre "Mec, pourquoi tu m'touches ?"
 
 # game/v13/scene11.rpy:359
 translate francais v13_imre_continue_23ec0e05:
@@ -316,7 +316,7 @@ translate francais v13_imre_continue_23ec0e05:
 translate francais v13_imre_continue_39b6b00f:
 
     # imre "I have no idea who you are or what the hell you're talking about."
-    imre "Je n'ai aucune idée de qui t'es ou de ce dont tu parles."
+    imre "J'ai aucune idée d'qui t'es ou de ce dont tu parles."
 
 # game/v13/scene11.rpy:369
 translate francais v13_imre_continue_40d76e99:
@@ -328,7 +328,7 @@ translate francais v13_imre_continue_40d76e99:
 translate francais v13_imre_continue_13958bdc:
 
     # imre "Don't play with me right now, where's the real Ashton?!"
-    imre "Te fous pas de ma gueule là, où est la vraie Ashton ? !"
+    imre "T'fous pas de ma gueule là, où est la vraie Ashton ? !"
 
 # game/v13/scene11.rpy:379
 translate francais v13_imre_continue_530569bf:
@@ -340,7 +340,7 @@ translate francais v13_imre_continue_530569bf:
 translate francais v13_imre_continue_8b263ff8:
 
     # imre "You also have a fucking dick! You actually are a god damn catfish!"
-    imre "T'as aussi une putain de bite ! T'es un putain de catfish, en fait !"
+    imre "T'as aussi une putain d'bite ! T'es un putain d'catfish, en fait !"
 
 # game/v13/scene11.rpy:389
 translate francais v13_imre_continue_2600aad4:
@@ -376,7 +376,7 @@ translate francais v13_imre_continue_8aa8fa61:
 translate francais v13_imre_continue_a7107f5d:
 
     # imre "I'm only gonna say this one time... It's best you leave because right now, you got me beyond pissed off."
-    imre "Je ne vais le dire qu'une fois... Il vaudrait mieux que tu partes parce que là, je suis vraiment énervé."
+    imre "J'vais l'dire qu'une fois... Il vaudrait mieux qu'tu partes parce que là, j'suis vraiment énervé."
 
 # game/v13/scene11.rpy:419
 translate francais v13_imre_continue_ca857bcf:
@@ -388,7 +388,7 @@ translate francais v13_imre_continue_ca857bcf:
 translate francais v13_imre_continue_fc61f0f4:
 
     # imre "I SAID I WAS ONLY GONNA SAY IT ONCE! GET. OUT."
-    imre "J'AI DIT QUE JE NE LE DIRAIS QU'UNE SEULE FOIS ! VA T'EN. DÉGAGE !!!"
+    imre "J'AI DIT QUE J'LE DIRAIS QU'UNE SEULE FOIS ! VA T'EN. DÉGAGE !!!"
 
 # game/v13/scene11.rpy:434
 translate francais v13_imre_continue_40f2b442:
@@ -406,7 +406,7 @@ translate francais v13_imre_continue_636a0944:
 translate francais v13_imre_continue_6bdbd1ad:
 
     # imre "Shut the fuck up, Ryan! Before I rock your shit too."
-    imre "Ferme ta gueule, Ryan ! Avant que je te démolisse aussi."
+    imre "Ferme ta gueule, Ryan ! Avant que j'te démolisse aussi."
 
 # game/v13/scene11.rpy:459
 translate francais v13_imre_continue_9e8a0f02:
@@ -466,7 +466,7 @@ translate francais v13_imre_continue_1e235d49:
 translate francais v13_imre_continue_7c0edb89:
 
     # imre "Man, fuck this... I'm out of here."
-    imre "Putain mec... Je me casse d'ici."
+    imre "Putain mec... J'me casse d'ici."
 
 # game/v13/scene11.rpy:522
 translate francais v13_imre_continue_46410b92:
@@ -580,7 +580,7 @@ translate francais v13_imre_continue_7aefacc6:
 translate francais v13_imre_continue_69b7f921:
 
     # imre "I don't exactly wanna talk about it, but... I'm sure Ryan is gonna have a field day with this."
-    imre "Je n'ai pas vraiment envie d'en parler, mais... Je suis sûr que Ryan va s'en donner à coeur joie avec ça."
+    imre "J'ai pas vraiment envie d'en parler, mais... J'suis sûr que Ryan va s'en donner à coeur joie avec ça."
 
 # game/v13/scene11.rpy:649
 translate francais v13_imre_continue_dee69f24:

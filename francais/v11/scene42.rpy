@@ -148,7 +148,7 @@ translate francais v11_hotel_lobby_rose_b225dddb:
 translate francais v11_hotel_lobby_rose_37013baa:
 
     # imre "Alright... In that case, sorry Miss Econ, but I'm headed back to bed."
-    imre "D'accord... Dans ce cas, désolé Mlle Econ, mais je retourne au lit."
+    imre "D'accord... Dans c'cas, désolé Mlle Econ, mais j'retourne au lit."
 
 # game/v11/scene42.rpy:185
 translate francais v11_hotel_lobby_rose_079cbcf2:

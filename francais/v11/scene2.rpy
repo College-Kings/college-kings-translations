@@ -28,7 +28,7 @@ translate francais v11_nora_chloe_hallway_ae8ed2dd:
 translate francais v11_nora_chloe_hallway_9f7aba1d:
 
     # no "Well, Chris and I have been having... moments. So that could cause unneeded stress. Then there's Chloe."
-    no "Eh bien, Chris et moi avons eu des... moments. Donc ça pourrait causer un stress inutile. Et puis il y a Chloé."
+    no "Eh bien, Chris et moi avons eu des... différents. Donc ça pourrait causer un stress inutile. Et puis il y a Chloé."
 
 # game/v11/scene2.rpy:44
 translate francais v11_nora_chloe_hallway_55351329:
@@ -40,7 +40,7 @@ translate francais v11_nora_chloe_hallway_55351329:
 translate francais v11_nora_chloe_hallway_dd5dae7c:
 
     # no "Well, I asked Mr. Lee and Ms. Rose to put out a sign up sheet because I was afraid I wasn't going to get enough people."
-    no "J'ai demandé à M. Lee et à Mme Rose de mettre en place une feuille d'inscription parce que j'avais peur de ne pas avoir assez de monde."
+    no "J'ai demandé à Mr Lee et à Mme Rose de mettre en place une feuille d'inscription parce que j'avais peur de ne pas avoir assez de monde."
 
 # game/v11/scene2.rpy:51
 translate francais v11_nora_chloe_hallway_b29dbedb:
@@ -64,13 +64,13 @@ translate francais v11_nora_chloe_hallway_109022f6:
 translate francais v11_nora_chloe_hallway_b165d970:
 
     # u "Well I'll be there, I hope that's something good. *Chuckles*"
-    u "Eh bien, je serai là, j'espère que c'est quelque chose de bien. *Rire*"
+    u "Eh bien je serai là, j'espère que ça sera un événement marquant. *Rire*"
 
 # game/v11/scene2.rpy:80
 translate francais v11_nora_chloe_hallway_d68658e3:
 
     # no "*Chuckles* It's definitely something."
-    no "*Rire* C'est vraiment quelque chose."
+    no "*Rire* Oui, absolument, ça sera sans doute quelque chose de particulier."
 
 # game/v11/scene2.rpy:85
 translate francais v11_nora_chloe_hallway_d6f28d06:
@@ -88,13 +88,13 @@ translate francais v11_nora_chloe_hallway_3606c7a0:
 translate francais v11_nora_chloe_hallway_79b29d16:
 
     # no "Thanks for trying, but I think it's clear where his priorities are."
-    no "Merci d'avoir essayé, mais je pense qu'il est clair qu'il sache où sont ses priorités."
+    no "Merci d'essayer, mais je pense qu'on voit clairement où sont ses priorités."
 
 # game/v11/scene2.rpy:104
 translate francais v11_nora_chloe_hallway_208ff044:
 
     # no "Yeah. Right."
-    no "Ouais. Bien."
+    no "Ouais. Je vois..."
 
 # game/v11/scene2.rpy:109
 translate francais v11_nora_chloe_hallway_fe01b239:
@@ -106,7 +106,7 @@ translate francais v11_nora_chloe_hallway_fe01b239:
 translate francais v11_nora_chloe_hallway_e7c50e09:
 
     # no "I don't think being in another country is gonna make a difference."
-    no "Je ne pense pas que le fait d'être dans un autre pays va faire une différence."
+    no "Je ne pense pas que le fait d'être dans un autre pays fasse une différence."
 
 # game/v11/scene2.rpy:127
 translate francais v11_nora_chloe_hallway_41cc61fa:
@@ -148,7 +148,7 @@ translate francais v11_nora_chloe_hallway_9b9ac36b:
 translate francais v11_nora_chloe_hallway_70f33159:
 
     # charli "Hey there."
-    charli "Hé là."
+    charli "Salut à vous."
 
 # game/v11/scene2.rpy:165
 translate francais v11_nora_chloe_hallway_a24774b0:
@@ -166,7 +166,7 @@ translate francais v11_nora_chloe_hallway_a6cd06ac:
 translate francais v11_nora_chloe_hallway_5bc86ff9:
 
     # no "Well, while you guys do that, I'm gonna run."
-    no "Eh bien, pendant que vous faites connaissance, je vais aller courir."
+    no "Eh bien, pendant que vous faites connaissance, je vais aller courir un peu."
 
 # game/v11/scene2.rpy:180
 translate francais v11_nora_chloe_hallway_bee6b96a:
@@ -190,7 +190,7 @@ translate francais v11_nora_chloe_hallway_9eefc16b:
 translate francais v11_nora_chloe_hallway_e693042c:
 
     # charli "Yeah, an exchange student. I've been here since the start of the year, but I'm living off campus so I don't know that many students."
-    charli "Oui, un étudiant participant à un programme d'échange. Je suis ici depuis le début de l'année, mais je vis en dehors du campus, donc je ne connais pas beaucoup d'étudiants."
+    charli "Oui, un étudiant participant à un programme d'échange. Je suis ici depuis le début de l'année, mais je vis en dehors du campus, donc je ne connais pas beaucoup de monde."
 
 # game/v11/scene2.rpy:196
 translate francais v11_nora_chloe_hallway_097e9baf:
@@ -232,19 +232,19 @@ translate francais v11_nora_chloe_hallway_53fccf40:
 translate francais v11_nora_chloe_hallway_b61dc49a:
 
     # u "Yeah, a few people. I'm closer with some more than others though."
-    u "Oui, quelques personnes. Je suis cependant plus proche de certaines que d'autres."
+    u "Oui, quelques personnes. Je suis tout de même plus proche de certaines que d'autres."
 
 # game/v11/scene2.rpy:233
 translate francais v11_nora_chloe_hallway_2a8c72ea:
 
     # charli "*Chuckles* You said you're closer with some more than others? I can tell you're close with Nora, but who else?"
-    charli "*Rire* Tu as dit que tu étais plus proche de certaines personnes que d'autres ? Je peux dire que tu es proche de Nora, mais avec qui d'autre ?"
+    charli "*Rire* Tu as dit que tu étais plus proche de certaines personnes que d'autres ? Je peux voir que tu es proche de Nora, mais avec qui d'autre ?"
 
 # game/v11/scene2.rpy:234
 translate francais v11_nora_chloe_hallway_5ba335a7:
 
     # charli "Anyone you'd recommend for me to start getting to know? Or even avoid?"
-    charli "Quelqu'un que tu me recommanderais de commencer à connaître ? Ou même d'éviter ?"
+    charli "Quelqu'un que tu me recommanderais d'apprendre à connaître ? Ou même d'éviter ?"
 
 # game/v11/scene2.rpy:239
 translate francais v11_nora_chloe_hallway_cba00f62:
@@ -298,7 +298,7 @@ translate francais v11_nora_chloe_hallway_ebe90f5e:
 translate francais v11_nora_chloe_hallway_c1b3d7b3:
 
     # u "Well, we'll be in another country surrounded by beautiful women... I'm sure you can imagine what I plan on doing. *Chuckles* Really though, I just wanna have fun no matter what."
-    u "Eh bien, nous serons dans un autre pays, entourés de belles femmes... Je suis sûr que tu peux imaginer ce que je prévois de faire. *Rire* Vraiment, je veux juste m'amuser, quoi qu'il arrive."
+    u "Eh bien, nous serons dans un autre pays, entourés de belles femmes... Je suis sûr que tu peux imaginer ce que je prévois de faire. *Rire* Dans tout les cas, je veux juste m'amuser, quoi qu'il arrive."
 
 # game/v11/scene2.rpy:281
 translate francais v11_nora_chloe_hallway_4dcc0870:
@@ -400,13 +400,13 @@ translate francais v11_nora_chloe_hallway_5b97337a:
 translate francais v11_nora_chloe_hallway_b6061d29:
 
     # u "You were definitely doing a good job, I thought you were still pissed."
-    u "Tu fais du bon travail, je pensais que tu étais toujours en colère."
+    u "C'était vraiment convainquant, je pensais que tu étais toujours en colère."
 
 # game/v11/scene2.rpy:391
 translate francais v11_nora_chloe_hallway_41e031bf:
 
     # cl "Yeah no, I'm sorry. You know, I have a few minutes before my next class. Wanna go outside and talk for a few minutes?"
-    cl "Oui, non, je suis désolée. Tu sais, j'ai quelques minutes avant mon prochain cours. Tu veux aller dehors et parler un peu ?"
+    cl "Ouais non, je suis désolée. Tu sais, j'ai quelques minutes avant mon prochain cours. Tu veux aller dehors et parler un peu ?"
 
 # game/v11/scene2.rpy:404
 translate francais v11_nora_chloe_hallway_37fe551f:
@@ -472,7 +472,7 @@ translate francais v11_nora_chloe_hallway_7d966cb0:
 translate francais v11_nora_chloe_hallway_6dbb700d:
 
     # cl "Yeah, it was pretty bad at the time. I guess we'll see what people will talk about after Europe..."
-    cl "Ouais, c'était plutôt mauvais à l'époque. Je pense que nous verrons de quoi les gens parleront après l'Europe..."
+    cl "Ouais, c'était plutôt mauvais à l'époque. Je pense que nous verrons de quoi les gens parleront après le voyage..."
 
 # game/v11/scene2.rpy:461
 translate francais v11_nora_chloe_hallway_bc7666e9:
@@ -514,7 +514,7 @@ translate francais v11_nora_chloe_hallway_6cfa56a5:
 translate francais v11_nora_chloe_hallway_cd253cc4:
 
     # u "My lady. *Laughs*"
-    u "Ma Dame. *Rire*"
+    u "Ma chère. *Rire*"
 
 # game/v11/scene2.rpy:496
 translate francais v11_nora_chloe_hallway_698ece09:
@@ -556,25 +556,25 @@ translate francais v11_nora_chloe_hallway_466f2f4d:
 translate francais v11_nora_chloe_hallway_f8758378:
 
     # cl "You make good company... well, sometimes."
-    cl "Tu es de bonne compagnie... enfin, parfois."
+    cl "Tu es une bonne compagnie... enfin, parfois."
 
 # game/v11/scene2.rpy:531
 translate francais v11_nora_chloe_hallway_99a56b58:
 
     # u "Haha, well I won't be good company if I'm not there so I'm gonna go get packing."
-    u "Haha, je ne serai pas de bonne compagnie si je ne suis pas là, donc je vais aller faire mes bagages."
+    u "Haha, je ne serai pas une bonne compagnie si je ne suis pas là, donc je vais aller faire mes bagages."
 
 # game/v11/scene2.rpy:536
 translate francais v11_nora_chloe_hallway_155f5be0:
 
     # cl "Alright, it was good talking to you."
-    cl "D'accord, c'était bien de parler avec toi."
+    cl "Très bien, c'était sympa de parler avec toi."
 
 # game/v11/scene2.rpy:541
 translate francais v11_nora_chloe_hallway_9fb611a7:
 
     # u "You too."
-    u "Toi aussi."
+    u "Avec toi aussi."
 
 # game/v11/scene2.rpy:552
 translate francais v11_nora_chloe_hallway_a7e11e98:
@@ -640,7 +640,7 @@ translate francais v11_nora_chloe_hallway_6c022094:
 translate francais v11_nora_chloe_hallway_3f4e960e:
 
     # u "More than I expected. I hope everyone gets along. But I doubt it."
-    u "Plus que ce que j'attendais. J'espère que tout le monde s'entendra. Mais j'en doute."
+    u "Plus que ce à quoi je m'attendais. J'espère que tout le monde s'entendra. Mais j'en doute."
 
 # game/v11/scene2.rpy:621
 translate francais v11_nora_chloe_hallway_84eea86d:
@@ -712,7 +712,7 @@ translate francais v11_nora_chloe_hallway_7d966cb0_1:
 translate francais v11_nora_chloe_hallway_6dbb700d_1:
 
     # cl "Yeah, it was pretty bad at the time. I guess we'll see what people will talk about after Europe..."
-    cl "Ouais, c'était plutôt mauvais à l'époque. Je pense que nous verrons de quoi les gens parleront après l'Europe..."
+    cl "Ouais, c'était plutôt mauvais à l'époque. Je pense que nous verrons de quoi les gens parleront après le voyage..."
 
 # game/v11/scene2.rpy:688
 translate francais v11_nora_chloe_hallway_bc7666e9_1:
@@ -754,7 +754,7 @@ translate francais v11_nora_chloe_hallway_6cfa56a5_1:
 translate francais v11_nora_chloe_hallway_cd253cc4_1:
 
     # u "My lady. *Laughs*"
-    u "Ma Dame. *Rire*"
+    u "Ma chère. *Rire*"
 
 # game/v11/scene2.rpy:723
 translate francais v11_nora_chloe_hallway_698ece09_1:
@@ -796,13 +796,13 @@ translate francais v11_nora_chloe_hallway_466f2f4d_1:
 translate francais v11_nora_chloe_hallway_73888434:
 
     # cl "You make good company... well sometimes."
-    cl "Tu es de bonne compagnie... enfin, parfois."
+    cl "Tu es une bonne compagnie... enfin, parfois."
 
 # game/v11/scene2.rpy:758
 translate francais v11_nora_chloe_hallway_99a56b58_1:
 
     # u "Haha, well I won't be good company if I'm not there so I'm gonna go get packing."
-    u "Haha, je ne serai pas de bonne compagnie si je ne suis pas là, donc je vais aller faire mes bagages."
+    u "Haha, je ne serai pas une bonne compagnie si je ne suis pas là, donc je vais aller faire mes bagages."
 
 # game/v11/scene2.rpy:764
 translate francais v11_nora_chloe_hallway_451391af:
@@ -874,4 +874,4 @@ translate francais strings:
 
     # game/v11/scene2.rpy:358
     old "Give up"
-    new "Abandonner"
+    new "Laisse tomber"

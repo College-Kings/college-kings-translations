@@ -88,7 +88,7 @@ translate francais v12s7fr_4686d0f1:
 translate francais v12s7fr_856b12e5:
 
     # imre "Can we please just choose our characters instead?"
-    imre "Est-ce qu'on peut choisir nos personnages à la place de ceux distribués ?"
+    imre "Est-ce qu'on peut choisir nos personnages à la place d'ceux distribués ?"
 
 # game/v12/scene7.rpy:106
 translate francais v12s7fr_3d14843e:
@@ -130,7 +130,7 @@ translate francais v12s7fr_fe8b62d2:
 translate francais v12s7fr_26a92914:
 
     # imre "Because, I'll just find out who the murderer is and force them to fess up and then boom, game over and I can sleep the rest of the boat ride. *Laughs*"
-    imre "Parce que, je vais juste trouver qui est le meurtrier et le forcer à avouer et ensuite pan, le jeu est terminé et je pourrai dormir le reste du voyage. *Rire*"
+    imre "Parce que, j'vais juste trouver qui est l'meurtrier et l'forcer à avouer et ensuite pan, l'jeu est terminé et j'pourrai dormir le reste du voyage. *Rire*"
 
 # game/v12/scene7.rpy:137
 translate francais v12s7fr_84688c90:
@@ -142,7 +142,7 @@ translate francais v12s7fr_84688c90:
 translate francais v12s7fr_01013027:
 
     # imre "How is it not? It doesn't break any rules."
-    imre "Comment ça ne pourrait pas l'être ? Ça n'enfreint aucune règle."
+    imre "Comment ça pourrait pas l'être ? Ça enfreint aucune règle."
 
 # game/v12/scene7.rpy:147
 translate francais v12s7fr_a5e83c73:
@@ -154,7 +154,7 @@ translate francais v12s7fr_a5e83c73:
 translate francais v12s7fr_326cede8:
 
     # imre "And what happens if we do?"
-    imre "Et que se passe-t-il si nous le faisons ?"
+    imre "Et qu'est-ce qu'il s'passe si on l'fait ?"
 
 # game/v12/scene7.rpy:157
 translate francais v12s7fr_75c9eb73:
@@ -184,7 +184,7 @@ translate francais v12s7fr_93ff3184:
 translate francais v12s7fr_65760518:
 
     # imre "Oh, you're not joking."
-    imre "Oh, vous ne plaisantiez pas."
+    imre "Oh, vous plaisantiez pas."
 
 # game/v12/scene7.rpy:182
 translate francais v12s7fr_aa201a5d:
@@ -274,7 +274,7 @@ translate francais v12s7fr_fcddbb1b:
 translate francais v12s7fr_2f0ff11a:
 
     # imre "BRO WHAT?! YOU MADE ME SOMEONE'S WIFE?!?!"
-    imre "QUOI ?! VOUS AVEZ FAIT DE MOI LA FEMME DE QUELQU'UN D'AUTRE ?!?!"
+    imre "QUOI ?! VOUS AVEZ FAIT D'MOI LA FEMME DE QUELQU'UN D'AUTRE ?!?!"
 
 # game/v12/scene7.rpy:245
 translate francais v12s7fr_30910191:
@@ -310,7 +310,7 @@ translate francais v12s7fr_acc49ca1:
 translate francais v12s7fr_ae3df182:
 
     # imre "I don't care if I have to act like a girl or not, I'll still beat your ass Charli."
-    imre "Je m'en fous si je dois agir comme une fille ou pas, je vais quand même vous tabasser Charli."
+    imre "J'm'en fous si j'dois agir comme une fille ou pas, j'vais quand même te tabasser Charli."
 
 # game/v12/scene7.rpy:275
 translate francais v12s7fr_eeb14895:
@@ -406,7 +406,7 @@ translate francais v12s7fr_e8905f97:
 translate francais v12s7fr_75bbf242:
 
     # imre "*Chuckles* You can't actually throw us overboard."
-    imre "*Rire* Vous ne pouvez pas vraiment nous jeter par-dessus bord."
+    imre "*Rire* Vous pouvez pas vraiment nous jeter par-dessus bord."
 
 # game/v12/scene7.rpy:351
 translate francais v12s7fr_b41a0021:
@@ -418,7 +418,7 @@ translate francais v12s7fr_b41a0021:
 translate francais v12s7fr_f2a7d0fd:
 
     # imre "Okay, fine. I won't mess up your stupid game."
-    imre "Ok, très bien. Je ne vais pas gâcher votre stupide jeu."
+    imre "Ok, très bien. J'vais pas gâcher votre stupide jeu."
 
 # game/v12/scene7.rpy:361
 translate francais v12s7fr_a4a9a024:
@@ -430,7 +430,7 @@ translate francais v12s7fr_a4a9a024:
 translate francais v12s7fr_ced09284:
 
     # imre "Umm, is it okay if I just don't play at all?"
-    imre "Hmm, c'est bon si je ne joue pas du tout ?"
+    imre "Hmm, c'est bon si je joue pas du tout ?"
 
 # game/v12/scene7.rpy:371
 translate francais v12s7fr_f2405098:
@@ -2146,7 +2146,7 @@ translate francais v12s7_ryan_imre1_73b00f3f:
 translate francais v12s7_ryan_imre1_8cbbcb95:
 
     # imre "Told you not to call me your wife."
-    imre "Je t'ai dit de ne pas m'appeler ta femme."
+    imre "J't'ai dit de pas m'appeler ta femme."
 
 # game/v12/scene7.rpy:2085
 translate francais v12s7_ryan_imre1_c547f565:
@@ -2170,7 +2170,7 @@ translate francais v12s7_ryan_imre1_d09fb4a9:
 translate francais v12s7_ryan_imre1_6a9e18ed:
 
     # imre "It's not supposed to be funny. I'm just doing this 'cause I think the teach may just really throw me overboard."
-    imre "Ce n'est pas censé être drôle. Je fais juste ça parce que je pense que le prof pourrait me jeter par-dessus bord."
+    imre "C'est pas censé être drôle. J'fais juste ça parce que j'pense que l'prof pourrait me jeter par-dessus bord."
 
 # game/v12/scene7.rpy:2110
 translate francais v12s7_ryan_imre1_7624addf:
@@ -2194,7 +2194,7 @@ translate francais v12s7_ryan_imre1_48bc9d26:
 translate francais v12s7_ryan_imre1_4b40d8b2:
 
     # imre "He's being given the silent treatment."
-    imre "Il n'a le droit qu'à un silence glacial."
+    imre "Il a le droit qu'à un silence glacial."
 
 # game/v12/scene7.rpy:2130
 translate francais v12s7_ryan_imre1_dde33d14:
@@ -2236,7 +2236,7 @@ translate francais v12s7_ryan_imre1_43a874af:
 translate francais v12s7_ryan_imre1_19c111f1:
 
     # imre "We won't be going."
-    imre "On n'ira pas."
+    imre "On ira pas."
 
 # game/v12/scene7.rpy:2168
 translate francais v12s7_ryan_imre1_85a4157e:
@@ -2266,7 +2266,7 @@ translate francais v12s7_ryan_imre1_ef2f1671:
 translate francais v12s7_ryan_imre1_85989468:
 
     # imre "Watch what you say! At least follow it with \"no homo\" or something!"
-    imre "Faites attention à ce que tu dis ! Rappelle toi qu'on est pas homo !"
+    imre "Fais attention à c'que tu dis ! Rappelle toi qu'on est pas homo !"
 
 # game/v12/scene7.rpy:2196
 translate francais v12s7_ryan_imre1_76582d73:
@@ -2278,7 +2278,7 @@ translate francais v12s7_ryan_imre1_76582d73:
 translate francais v12s7_ryan_imre1_a9e5ae83:
 
     # imre "Yeah, we won't be going."
-    imre "Ouais, on n'ira pas."
+    imre "Ouais, on ira pas."
 
 # game/v12/scene7.rpy:2206
 translate francais v12s7_ryan_imre1_85a4157e_1:
@@ -2296,7 +2296,7 @@ translate francais v12s7_ryan_imre1_f62f5e40:
 translate francais v12s7_ryan_imre1_63e894d1:
 
     # imre "We can't go because this man here is a lazy dumbass that quit his job. Now he's broke and living with me until he gets his life together. That's literally what our cards said."
-    imre "On ne peut pas y aller parce que ce mec est un fainéant qui a quitté son boulot. Maintenant il est fauché et vit avec moi jusqu'à ce qu'il reprenne sa vie en main. C'est littéralement ce que les cartes de nos rôles disaient."
+    imre "On peut pas y aller parce que c'mec est un fainéant qui a quitté son boulot. Maintenant il est fauché et vit avec moi jusqu'à c'qu'il reprenne sa vie en main. C'est littéralement c'que les cartes de nos rôles disaient."
 
 # game/v12/scene7.rpy:2221
 translate francais v12s7_ryan_imre1_14964ec3:
@@ -2314,7 +2314,7 @@ translate francais v12s7_ryan_imre1_0954a8f5:
 translate francais v12s7_ryan_imre1_905e573e:
 
     # imre "Bro I'm not playing with you."
-    imre "Frère, je ne joue pas avec toi."
+    imre "Frère, je joue pas avec toi."
 
 # game/v12/scene7.rpy:2236
 translate francais v12s7_ryan_imre1_7eb168c8:
@@ -2602,7 +2602,7 @@ translate francais v12s7_imre2_e43754f7:
 translate francais v12s7_imre2_f12b8d87:
 
     # imre "It's not bothering me anymore than it would bother anyone else. You guys are acting like I'm actually gay or something."
-    imre "Ça ne me dérange pas plus que ça ne dérangerait n'importe qui d'autre. Vous agissez tous comme si j'étais réellement gay ou quelque chose comme ça."
+    imre "Ça m'dérange pas plus que ça dérangerait n'importe qui d'autre. Vous agissez tous comme si j'étais réellement gay ou quelque chose comme ça."
 
 # game/v12/scene7.rpy:2528
 translate francais v12s7_imre2_ca21c5f3:
@@ -2614,7 +2614,7 @@ translate francais v12s7_imre2_ca21c5f3:
 translate francais v12s7_imre2_015f9bb4:
 
     # imre "Yeah you are, and we both know that's far from true. Always have and always will be a man of the ladies."
-    imre "Mouais, mais nous savons tous les deux que c'est loin d'être vrai. J'ai toujours été et je serai toujours un homme à femmes."
+    imre "Mouais, mais nous savons tous les deux qu'c'est loin d'être vrai. J'ai toujours été et j'serai toujours un homme à femmes."
 
 # game/v12/scene7.rpy:2538
 translate francais v12s7_imre2_228ec0aa:
@@ -2626,7 +2626,7 @@ translate francais v12s7_imre2_228ec0aa:
 translate francais v12s7_imre2_321684f4:
 
     # imre "No it doesn't, it needs to be known I don't rock like that. You, Charli and Ryan may think it's all fun and games, but I don't."
-    imre "Non, il faut que tu saches que je ne fais pas de vagues comme ça. Toi, Charli et Ryan pensez peut-être que c'est une partie de plaisir, mais pas moi."
+    imre "Non, il faut qu'tu saches que j'ais pas d'vagues comme ça. Toi, Charli et Ryan pensez peut-être qu'c'est une partie d'plaisir, mais pas moi."
 
 # game/v12/scene7.rpy:2548
 translate francais v12s7_imre2_2ee22002:
@@ -2650,13 +2650,13 @@ translate francais v12s7_imre2_56113c9d:
 translate francais v12s7_imre2_d4a58972:
 
     # imre "Ugh duh. He gave me the worst character, he's following me around, and threating to throw me in the fucking water. Yeah, he's just doing this to be a dick."
-    imre "Hum... Il m'a donné le pire personnage, il me suit partout, et menace de me jeter dans l'eau. Ouais, il fait ça juste pour être un con."
+    imre "Hum... Il m'a donné le pire personnage, il m'suit partout, et menace de m'jeter dans l'eau. Ouais, il fait ça juste pour être un con."
 
 # game/v12/scene7.rpy:2564
 translate francais v12s7_imre2_1db02e63:
 
     # imre "If I wasn't here you guys would be kicking back enjoying the breeze. If the fucking murderer would do his job or hurry up and get caught this would finally be over with."
-    imre "Si je n'étais pas là, vous seriez en train de profiter de la brise. Si ce putain de meurtrier faisait son travail ou se dépêchait de se faire attraper, tout serait enfin terminé."
+    imre "Si j'étais pas là, vous seriez en train de profiter d'la brise. Si c'putain d'meurtrier faisait son travail ou s'dépêchait de s'faire attraper, tout serait enfin terminé."
 
 # game/v12/scene7.rpy:2569
 translate francais v12s7_imre2_01c02c6f:
@@ -2668,7 +2668,7 @@ translate francais v12s7_imre2_01c02c6f:
 translate francais v12s7_imre2_f5a4f08e:
 
     # imre "I would've shut this shit down a long time ago if I was the killer."
-    imre "J'aurais arrêté cette merde il y a longtemps si j'étais le tueur."
+    imre "J'aurais arrêté cette merde il y a longtemps si j'étais l'tueur."
 
 # game/v12/scene7.rpy:2579
 translate francais v12s7_imre2_26840762:
@@ -2680,13 +2680,13 @@ translate francais v12s7_imre2_26840762:
 translate francais v12s7_imre2_8209c6af:
 
     # imre "I haven't been able to do anything, because Mr. Lee won't let me breathe. He got distracted and it gave me a chance to get over here. He hasn't found me yet."
-    imre "Je n'ai rien pu faire, car Mr Lee ne me laisse pas respirer. Il a été distrait et ça m'a donné une chance de venir ici. Il ne m'a pas encore trouvé."
+    imre "J'ai rien pu faire, car Mr Lee m'laisse pas respirer. Il a été distrait et ça m'a donné une chance d'venir ici. Il m'a pas encore trouvé."
 
 # game/v12/scene7.rpy:2585
 translate francais v12s7_imre2_31e1da3a:
 
     # imre "If the killer would just kill me so I can be done with this that'd be great. Then Ryan can be a dumbass widow with no job on a cruise by himself walking around like an idiot."
-    imre "Si le tueur voulait bien me tuer pour que j'en finisse avec ça, ce serait génial. Alors Ryan pourra être un veuf stupide sans travail, seul sur une croisière, marchant comme un idiot."
+    imre "Si l'tueur voulait bien m'tuer pour qu'j'en finisse avec ça, ce serait génial. Alors Ryan pourra être un veuf stupide sans travail, seul sur une croisière, marchant comme un idiot."
 
 # game/v12/scene7.rpy:2590
 translate francais v12s7_imre2_586cd461:
@@ -2710,7 +2710,7 @@ translate francais v12s7_imre2_40ad2361:
 translate francais v12s7_imre2_bb60348b:
 
     # imre "This is the first time I've said \"kill me now\" and actually meant it. *Laughs*"
-    imre "C'est la première fois que je dis \"tue-moi maintenant\" et que je le pense vraiment. *Rire*"
+    imre "C'est la première fois que j'dis \"tue moi maintenant\" et que j'le pense vraiment. *Rire*"
 
 # game/v12/scene7.rpy:2610
 translate francais v12s7_imre2_fcc18885:
@@ -2728,7 +2728,7 @@ translate francais v12s7_imre_kill_fda23e9a:
 translate francais v12s7_imre_kill_a9430214:
 
     # imre "Please tell me you're not joking with me right now?"
-    imre "S'il te plaît, dis-moi que tu ne plaisantes pas avec moi là ?"
+    imre "S'te plaît, dis-moi qu'tu plaisantes pas avec moi là ?"
 
 # game/v12/scene7.rpy:2639
 translate francais v12s7_imre_kill_976a075c:
@@ -2752,7 +2752,7 @@ translate francais v12s7_imre_kill_eefed9e7:
 translate francais v12s7_imre_kill_323444b0:
 
     # imre "Sorry man, I just feel so good right now. It feels good to be dead. Thanks man."
-    imre "Désolé mec, je me sens si bien en ce moment. Ça fait du bien d'être mort. Merci mon frère."
+    imre "Désolé mec, je m'sens si bien en c'moment. Ça fait du bien d'être mort. Merci mon frère."
 
 # game/v12/scene7.rpy:2660
 translate francais v12s7_imre_kill_54b7523c:

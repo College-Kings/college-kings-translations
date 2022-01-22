@@ -232,7 +232,7 @@ translate francais v13s22_dfd1aab3:
 translate francais v13s22_9267928a:
 
     # imre "What's up ladies? And Aubrey. *Chuckles*"
-    imre "Quoi de neuf, mesdames ? Et Aubrey. *Rire*"
+    imre "Quoi d'neuf, mesdames ? Et Aubrey. *Rire*"
 
 # game/v13/scene22.rpy:209
 translate francais v13s22_bd33760a:
@@ -244,7 +244,7 @@ translate francais v13s22_bd33760a:
 translate francais v13s22_f366a2b2:
 
     # imre "Haha, alright, don't chew me out just yet... We're kidnapping [name]."
-    imre "Haha, d'accord, mais ne me grondez pas trop vite... On va kidnapper [name]."
+    imre "Haha, d'accord, mais me grondez pas trop vite... On va kidnapper [name]."
 
 # game/v13/scene22.rpy:219
 translate francais v13s22_d88c225f:

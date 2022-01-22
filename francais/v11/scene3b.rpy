@@ -208,7 +208,7 @@ translate francais v11_cafe_with_riley_a03e22ac:
 translate francais v11_cafe_with_riley_62ac0c70:
 
     # ri "Okay, I guess that doesn't seem so bad."
-    ri "Ok, je suppose que ça ne semble pas si terrible."
+    ri "Ok, ça n'a pas l'air si terrible."
 
 # game/v11/scene3b.rpy:189
 translate francais v11_cafe_with_riley_b4ad2879:
@@ -280,7 +280,7 @@ translate francais v11_cafe_with_riley_35e3b2f4:
 translate francais v11_cafe_with_riley_736c6c0f:
 
     # ri "Oh, right! I saw a commercial about that, I did think it kinda looked fun."
-    ri "Oh, c'est vrai ! J'ai vu une publicité à ce sujet, j'ai pensé que ça avait l'air amusant."
+    ri "Oh, c'est vrai ! J'ai vu une publicité à ce sujet, j'ai trouvé que ça avait l'air amusant."
 
 # game/v11/scene3b.rpy:249
 translate francais v11_cafe_with_riley_6400f3c1:
@@ -316,7 +316,7 @@ translate francais v11_cafe_with_riley_15ce87e8:
 translate francais v11_cafe_with_riley_b222b29c:
 
     # u "Haha, maybe not yet, I mean we just met this morning..."
-    u "Haha, peut-être pas encore, je veux dire que nous nous sommes rencontrés ce matin..."
+    u "Haha, peut-être pas encore, je veux dire que nous nous sommes juste rencontrés ce matin..."
 
 # game/v11/scene3b.rpy:288
 translate francais v11_cafe_with_riley_a77065ae:
@@ -340,25 +340,25 @@ translate francais v11_cafe_with_riley_61d92fd9:
 translate francais v11_cafe_with_riley_22824727:
 
     # ri "Haha, yes. Here I am. *Chuckles*"
-    ri "Haha, oui. Je suis là.  *Rire*"
+    ri "Haha, oui. Je suis là. *Rire*"
 
 # game/v11/scene3b.rpy:308
 translate francais v11_cafe_with_riley_b59b263a:
 
     # u "Charli here is actually going on the Europe trip with us."
-    u "Charli va en fait faire le voyage en Europe avec nous."
+    u "Charli va faire le voyage en Europe avec nous."
 
 # game/v11/scene3b.rpy:313
 translate francais v11_cafe_with_riley_a22e33b5:
 
     # ri "Oh yayyy! Now I won't be stuck with just [name]. *Chuckles*"
-    ri "Oh yayyy ! Maintenant je ne serai pas coincée avec juste [name]. *Rires*"
+    ri "Oh yayyy ! Maintenant je ne serai pas coincée avec juste [name]. *Rire*"
 
 # game/v11/scene3b.rpy:318
 translate francais v11_cafe_with_riley_cb51324b:
 
     # u "Wowww... *Chuckles*"
-    u "Wowww... *Rires*"
+    u "Wowww... *Rire*"
 
 # game/v11/scene3b.rpy:323
 translate francais v11_cafe_with_riley_477fb607:
@@ -370,13 +370,13 @@ translate francais v11_cafe_with_riley_477fb607:
 translate francais v11_cafe_with_riley_4cc21c21:
 
     # ri "\"Amazing\"? Definitely not. *Chuckles*"
-    ri "\"Incroyable\" ? Certainement pas. *Rire*"
+    ri "\"Incroyables\" ? Certainement pas. *Rire*"
 
 # game/v11/scene3b.rpy:333
 translate francais v11_cafe_with_riley_ce575d5b:
 
     # u "(\"Amazing\"...)"
-    u "(\"Incroyable\"...)"
+    u "(\"Incroyables\"...)"
 
 # game/v11/scene3b.rpy:338
 translate francais v11_cafe_with_riley_6639c906:
@@ -483,8 +483,8 @@ translate francais v11_cafe_with_riley_bde6a20f:
 # game/v11/scene3b.rpy:423
 translate francais v11_cafe_with_riley_7ee312d1:
 
-    # u "(I'm not jealous, I just... I don't know. )"
-    u "(Je ne suis pas jaloux, c'est juste que... je ne sais pas. )"
+    # u "(I'm not jealous, I just... I don't know.)"
+    u "(Je ne suis pas jaloux, je suis juste... Je ne sais pas.)"
 
 translate francais strings:
 
