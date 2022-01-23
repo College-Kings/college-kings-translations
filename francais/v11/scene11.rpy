@@ -184,7 +184,7 @@ translate francais v11_Amber_Penelope_2d682a87:
 translate francais v11_Amber_Penelope_d19ef2d2:
 
     # u "I'm just glad this is as bad as it gets."
-    u "Je suis juste heureux que ce soit aussi difficile que possible."
+    u "Je suis juste heureux que ce ne soit pas aussi difficile que ça."
 
 # game/v11/scene11.rpy:208
 translate francais v11_Amber_Penelope_7bb825bf:

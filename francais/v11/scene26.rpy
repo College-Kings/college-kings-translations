@@ -124,7 +124,7 @@ translate francais v11_hotel_bar_wolves_68f72a30:
 translate francais v11_hotel_bar_wolves_2395f5f8:
 
     # ro "*Whisper* Speaking of what happens in London stays in London... Room 404, 10 minutes. Don't be late."
-    ro "*Chuchote* En parlant du fait que ce qui se passe à Londres reste à Londres... Chambre 404, dans 10 minutes. Ne sois pas en retard."
+    ro "*Chuchote* En parlant du fait que \"ce qui se passe à Londres reste à Londres\"... Chambre 404, dans 10 minutes. Ne sois pas en retard."
 
 # game/v11/scene26.rpy:128
 translate francais v11_hotel_bar_wolves_cca6550f:
@@ -358,7 +358,7 @@ translate francais v11_hotel_bar_apes_ef5b9a8a:
 translate francais v11_hotel_bar_apes_449fdabf:
 
     # u "What did you come down here for?"
-    u "Pourquoi es-tu venu, alors ?"
+    u "Pourquoi es-tu venue, alors ?"
 
 # game/v11/scene26.rpy:346
 translate francais v11_hotel_bar_apes_fafd5b19:
@@ -436,7 +436,7 @@ translate francais v11_hotel_bar_apes_3bb1b004:
 translate francais v11_hotel_bar_apes_d10d4959:
 
     # u "Okay klepto, now what?"
-    u "Ok klepto, maintenant quoi ?"
+    u "Ok la klepto, maintenant quoi ?"
 
 # game/v11/scene26.rpy:429
 translate francais v11_hotel_bar_apes_fa5dd3bc:

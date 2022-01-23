@@ -202,7 +202,7 @@ translate francais v11s23_mrlee1_d3e27fb4:
 translate francais v11s23_mrlee1_759cce98:
 
     # u "Uh... Mr. Lee, I'm gonna go check out some other stuff."
-    u "Euh... M. Lee, je vais aller voir d'autres trucs."
+    u "Euh... Mr Lee, je vais aller voir d'autres trucs."
 
 # game/v11/scene23.rpy:205
 translate francais v11s23_mrlee1_1b366e91:
@@ -340,7 +340,7 @@ translate francais v11s23_mrlee1_09045d1c:
 translate francais v11s23_riley1_48a7a3a8:
 
     # u "*Whisper* Riley, you can't touch it!"
-    u "*Chuchote* Riley, tu ne peux pas le toucher !"
+    u "*Chuchote* Riley, on a pas le droit de toucher à ça !"
 
 # game/v11/scene23.rpy:320
 translate francais v11s23_riley1_5c06c9d7:
@@ -400,7 +400,7 @@ translate francais v11s23_riley1_82974273:
 translate francais v11s23_riley1_ae075c80:
 
     # u "Stand still while I go get Duncan's gun, then you can enjoy yourself."
-    u "Reste tranquille pendant que je vais chercher l'arme de Duncan, puis tu pourras t'amuser."
+    u "Reste tranquille pendant que je vais chercher l'arme de Duncan, là tu pourras t'amuser."
 
 # game/v11/scene23.rpy:371
 translate francais v11s23_riley1_dffa39bd:
@@ -1054,7 +1054,7 @@ translate francais v11s23_penelope1_e47aa3cd:
 translate francais v11s23_penelope1_8d765900:
 
     # pe "Don't be offended, okay?"
-    pe "Ne soyez pas offensé, d'accord ?"
+    pe "Ne sois pas offensé, d'accord ?"
 
 # game/v11/scene23.rpy:987
 translate francais v11s23_penelope1_c1c71bc4:
@@ -1150,7 +1150,7 @@ translate francais v11s23_freeroamend_f016bab9:
 translate francais v11s23_freeroamend_013edef6:
 
     # u "I want you to enjoy the trip you spent weeks planning."
-    u "Je veux que tu profites du voyage dont tu as passé des semaines à organiser."
+    u "Je veux que tu profites du voyage que tu as passé des semaines à organiser."
 
 # game/v11/scene23.rpy:1083
 translate francais v11s23_freeroamend_c7dc61ea:
@@ -1162,7 +1162,7 @@ translate francais v11s23_freeroamend_c7dc61ea:
 translate francais v11s23_freeroamend_afd895ff:
 
     # u "I can tell this isn't how you thought the trip would go."
-    u "Je peux dire que ce n'est pas comme ça que tu pensais que le voyage se passerait."
+    u "Je pense que ce n'est pas comme ça que tu pensais que le voyage se passerait."
 
 # game/v11/scene23.rpy:1093
 translate francais v11s23_freeroamend_cbcbbb24:
@@ -1180,7 +1180,7 @@ translate francais v11s23_freeroamend_1b528e75:
 translate francais v11s23_freeroamend_f3c76b38:
 
     # no "A lot. I was headed to see the Big Ben but Mr. Lee made us come here."
-    no "Beaucoup. Je voulais voir Big Ben mais Mr Lee nous a fait venir ici."
+    no "Plein de trucs. Je voulais voir Big Ben mais Mr Lee nous a fait venir ici."
 
 # game/v11/scene23.rpy:1110
 translate francais v11s23_freeroamend_bae6df78:
@@ -1216,7 +1216,7 @@ translate francais v11s23_freeroamend_0fda079e:
 translate francais v11s23_freeroamend_383c2453:
 
     # u "Let's go see it then."
-    u "Allons le voir alors."
+    u "Allons-y alors."
 
 # game/v11/scene23.rpy:1160
 translate francais v11s23_freeroamend_f7f6f0d5:
@@ -1240,7 +1240,7 @@ translate francais v11s23_freeroamend_d3d7efd3:
 translate francais v11s23_freeroamend_74e504bc:
 
     # u "Hey, this is our trip. If we aren't enjoying ourselves then why stay?"
-    u "Hé, c'est notre voyage. Si on ne s'amuse pas, pourquoi rester ?"
+    u "Hé, c'est NOTRE voyage. Si on ne s'amuse pas, pourquoi rester ?"
 
 # game/v11/scene23.rpy:1190
 translate francais v11s23_freeroamend_2733a2eb:
@@ -1325,7 +1325,7 @@ translate francais strings:
 translate francais v11s23_riley1_fe3921c0:
 
     # u "Shooting off a random guy's gun isn't enough excitement? *Chuckles*"
-    u "Tirer sur l'arme d'un inconnu n'est pas assez excitant ? *Rire*"
+    u "Tirer avec l'arme d'un inconnu n'est pas assez excitant ? *Rire*"
 
 # game/v11/scene23.rpy:364
 translate francais v11s23_riley1_e7a524b7:

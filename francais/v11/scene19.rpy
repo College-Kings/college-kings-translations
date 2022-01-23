@@ -742,7 +742,7 @@ translate francais strings:
 
     # game/v11/scene19.rpy:200
     old "My Europe roommate!"
-    new "Ma colocataire en Europe !"
+    new "Mon colocataire en Europe !"
 
     # game/v11/scene19.rpy:201
     old "Look at you two!"

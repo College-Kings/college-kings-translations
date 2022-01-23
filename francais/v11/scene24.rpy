@@ -4,13 +4,13 @@
 translate francais v11_big_ben_8375115c:
 
     # u "So, I know pretty much nothing about London..."
-    u "Sinon, je ne sais presque rien de Londres..."
+    u "Au fait, je ne connait presque rien de Londres..."
 
 # game/v11/scene24.rpy:23
 translate francais v11_big_ben_639f167f:
 
     # no "When people say they know nothing that either means they truly know nothing or know hardly anything. Which one is it for you?"
-    no "Lorsque les gens disent qu'ils ne savent rien, cela signifie soit qu'ils ne savent vraiment rien, soit qu'ils ne savent presque rien. Lequel des deux est valable pour toi ?"
+    no "Lorsque les gens disent qu'ils ne connaissent rien, cela signifie soit qu'ils ne connaissent vraiment rien, soit qu'ils ne connaissent presque rien. Lequel des deux est valable pour toi ?"
 
 # game/v11/scene24.rpy:28
 translate francais v11_big_ben_0d3844d8:
@@ -40,7 +40,7 @@ translate francais v11_big_ben_31b2e40a:
 translate francais v11_big_ben_adb5c4d5:
 
     # u "Well, I know that."
-    u "Eh bien ça, je le sais."
+    u "Eh ben ça, je le savais."
 
 # game/v11/scene24.rpy:53
 translate francais v11_big_ben_58cb37e5:
@@ -112,13 +112,13 @@ translate francais v11_big_ben_72075deb:
 translate francais v11_big_ben_f4771d53:
 
     # no "Black cabs, not black drivers."
-    no "Des taxis noirs, pas des chauffeurs noirs."
+    no "Des TAXIS noirs, pas des chauffeurs noirs."
 
 # game/v11/scene24.rpy:109
 translate francais v11_big_ben_d713fad3:
 
     # u "Glad you explained that cause I was a little confused. *Chuckles*"
-    u "Je suis content que tu aies expliqué ça parce que j'étais un peu confus. *Rire*"
+    u "Je suis content que tu aies expliqué ça parce que là, j'étais un peu confus. *Rire*"
 
 # game/v11/scene24.rpy:114
 translate francais v11_big_ben_5e01fd9e:
@@ -214,7 +214,7 @@ translate francais v11_big_ben_b219a792:
 translate francais v11_big_ben_347ee9d4:
 
     # u "Nothing."
-    u "Rien."
+    u "Riennnnn."
 
 # game/v11/scene24.rpy:209
 translate francais v11_big_ben_e1222428:
@@ -370,7 +370,7 @@ translate francais v11_big_ben_3598fcaa:
 translate francais v11_big_ben_83517040:
 
     # no "I just wish Chris was more like you is all."
-    no "J'aimerais juste que Chris soit plus comme toi, c'est tout."
+    no "J'aimerais juste que Chris soit plus comme... toi. C'est tout."
 
 # game/v11/scene24.rpy:340
 translate francais v11_big_ben_09332657:
