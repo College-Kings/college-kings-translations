@@ -10,7 +10,7 @@ translate francais v11_emily_sidewalk_90a13b04:
 translate francais v11_emily_sidewalk_92814b2d:
 
     # em "That's the point. Do you not remember our talk?"
-    em "C'est ça le problème. Tu ne te souviens pas de notre conversation ?"
+    em "Et ? Tu ne te souviens pas de notre conversation ?"
 
 # game/v11/scene32.rpy:20
 translate francais v11_emily_sidewalk_9e2e4cd5:

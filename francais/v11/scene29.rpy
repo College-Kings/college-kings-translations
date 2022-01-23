@@ -106,7 +106,7 @@ translate francais v11wakeupa_c102d605:
 translate francais v11wakeupa_27fb5e9a:
 
     # u "Probably because you brought a house's worth of stuff. Here, let me help you."
-    u "Probablement parce que tu as apporté une tonne de vêtementset affaires de toilette. Laisse-moi t'aider."
+    u "Probablement parce que tu as apporté une tonne de vêtements et affaires de toilette. Laisse-moi t'aider."
 
 # game/v11/scene29.rpy:147
 translate francais v11wakeupa_7173d5ab:

@@ -352,7 +352,7 @@ translate francais v11_lauren_store_3c961560:
 translate francais v11_lauren_store_fe0e0034:
 
     # jer "I'm a vet!"
-    jer "Je suis vétérinaire !"
+    jer "Je suis vétéran !"
 
 # game/v11/scene30.rpy:400
 translate francais v11_lauren_store_fbef064b:
@@ -376,7 +376,7 @@ translate francais v11_lauren_store_0e512e62:
 translate francais v11_lauren_store_7fc70748:
 
     # jer "You will."
-    jer "Vous pourrez gagner."
+    jer "Tu voudrais bien..."
 
 # game/v11/scene30.rpy:417
 translate francais v11_lauren_store_ac7b633e:
@@ -430,7 +430,7 @@ translate francais v11_lauren_store_3de2160d:
 translate francais v11_lauren_store_eef030ad:
 
     # la "*Whisper* Good god, he's almost as annoying as Charli."
-    la "*Chuchote* Putain, il est presque aussi agaçant que Charli."
+    la "*Chuchote* Mon dieu, il est presque aussi agaçant que Charli."
 
 # game/v11/scene30.rpy:462
 translate francais v11_lauren_store_b54e4039:
@@ -496,7 +496,7 @@ translate francais v11_quiz_q2_10105b5c:
 translate francais v11_quiz_q2_24d791a7:
 
     # sus "Ready!"
-    sus "Prêt !"
+    sus "Prêts !"
 
 # game/v11/scene30.rpy:534
 translate francais v11_quiz_q2_c2650bb5:
@@ -604,7 +604,7 @@ translate francais v11_quiz_q3_9bdf9bfa:
 translate francais v11_quiz_q3_31e8882d:
 
     # jud "Any other comments like that and I will have you disqualified."
-    jud "Tout autre commentaire de ce genre et je vous ferai disqualifier."
+    jud "Encore un commentaire de ce genre et je vous ferai disqualifier."
 
 # game/v11/scene30.rpy:663
 translate francais v11_quiz_q3_9b0c6337:

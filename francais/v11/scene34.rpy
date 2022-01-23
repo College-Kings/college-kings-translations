@@ -4,7 +4,7 @@
 translate francais v11_cardealership_078a28c5:
 
     # csa "Hello there, how may I help you?"
-    csa ""
+    csa "Bonjour, comment puis-je vous aider ?"
 
 # game/v11/scene34.rpy:25
 translate francais v11_cardealership_310baa65:

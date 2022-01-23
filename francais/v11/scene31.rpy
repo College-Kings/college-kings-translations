@@ -82,7 +82,7 @@ translate francais v11_lindsey_park_0b51306e:
 translate francais v11_lindsey_park_57258cce:
 
     # u "What's that?"
-    u "Qu'est-ce que c'est ?"
+    u "Ah, laquelle ?"
 
 # game/v11/scene31.rpy:90
 translate francais v11_lindsey_park_f08c45e4:
@@ -214,7 +214,7 @@ translate francais v11_lindsey_park_658d836b:
 translate francais v11_lindsey_park_fcb5342e:
 
     # li "Who they choose or endorse rather is always approved by everyone else."
-    li "Les personnes qu'elles choisissent ou plutôt qu'elles soutiennent sont toujours approuvées par tous les autres."
+    li "Les personnes qu'elles choisissent ou plutôt qu'elles soutiennent sont toujours approuvées par toutes les autres."
 
 # game/v11/scene31.rpy:216
 translate francais v11_lindsey_park_c33ffa22:
@@ -448,13 +448,13 @@ translate francais v11_lindsey_park_45918ba4:
 translate francais v11_lindsey_park_4d44f44c:
 
     # li "You kinda got a bit more excited about all of this now with your little slogan. *Chuckles*"
-    li "Tu as l'air un peu plus excité par tout ça maintenant, avec ton petit slogan. *Rire*"
+    li "Maintenant, tu as l'air un peu plus excité par tout ça, avec ton petit slogan. *Rire*"
 
 # game/v11/scene31.rpy:422
 translate francais v11_lindsey_park_becee0eb:
 
     # u "My genius abilities cannot be taken lightly. *Laughs*"
-    u "Mes talents de génie ne doivent pas être pris à la légère. *Rire*"
+    u "Mes dons de génie ne doivent pas être pris à la légère. *Rire*"
 
 # game/v11/scene31.rpy:427
 translate francais v11_lindsey_park_78e5ee3d:
@@ -484,7 +484,7 @@ translate francais v11_lindsey_park_4026079d:
 translate francais v11_lindsey_park_079bd311:
 
     # u "(This day just gets better and better.)"
-    u "(Cette journée est de mieux en mieux.)"
+    u "((Cette journée se déroule de mieux en mieux.)"
 
 translate francais strings:
 

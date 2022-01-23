@@ -136,7 +136,7 @@ translate francais v11_bartender_hotel_chat_b54e4039_1:
 translate francais v11_bartender_hotel_chat_5c170ea5:
 
     # bartender "I've seen a lot of cute girls with you on the trip, I'm sure you think they're really pretty too. So, what about me?"
-    bartender "J'ai vu beaucoup de jolies filles avec toi pendant le voyage, je suis sûr que tu les trouves très jolies aussi. Alors, et moi tu me trouves jolie ?"
+    bartender "J'ai vu beaucoup de jolies filles avec toi pendant le voyage, je suis sûr que tu les trouves très jolies aussi. Alors, et moi tu me trouves comment ?"
 
 # game/v11/scene27.rpy:148
 translate francais v11_bartender_hotel_chat_4334d653:
@@ -160,7 +160,7 @@ translate francais v11_bartender_hotel_chat_f593d227:
 translate francais v11_bartender_hotel_chat_0cab74ab:
 
     # bartender "Look at that, a loyal one."
-    bartender "Regardez moi ça, un homme fidèle."
+    bartender "Regardez-moi ça, un homme fidèle."
 
 # game/v11/scene27.rpy:170
 translate francais v11_bartender_hotel_chat_fdc6ad7b:

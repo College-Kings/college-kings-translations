@@ -28,7 +28,7 @@ translate francais v11_bar_chloe_and_aubrey_b5487278:
 translate francais v11_bar_chloe_and_aubrey_cfee9ff3:
 
     # u "Day drinking, huh?"
-    u "Boire la journée, hein ?"
+    u "Tu bois en pleine journée, hein ?"
 
 # game/v11/scene33.rpy:46
 translate francais v11_bar_chloe_and_aubrey_2a47846d:
@@ -58,7 +58,7 @@ translate francais v11_bar_chloe_and_aubrey_724df3f3:
 translate francais v11_bar_chloe_and_aubrey_3c141840:
 
     # bartender "What are you having today, love?"
-    bartender "Qu'est-ce que tu prends aujourd'hui, chéri ?"
+    bartender "Que prendrez-vous aujourd'hui, monsieur ?"
 
 # game/v11/scene33.rpy:85
 translate francais v11_bar_chloe_and_aubrey_3882d8eb:
@@ -94,7 +94,7 @@ translate francais v11_bar_chloe_and_aubrey_7101cfcf:
 translate francais v11_bar_chloe_and_aubrey_0ef8e940:
 
     # bartender "Coming up."
-    bartender "Ça vient."
+    bartender "Je vous prépare ça tout de suite."
 
 # game/v11/scene33.rpy:116
 translate francais v11_bar_chloe_and_aubrey_3e43cfbc:
@@ -106,7 +106,7 @@ translate francais v11_bar_chloe_and_aubrey_3e43cfbc:
 translate francais v11_bar_chloe_and_aubrey_0a9f7501:
 
     # au "Mr. Lee being a total history nerd."
-    au "Mr Lee étant un vrai nerd d'histoire."
+    au "De Mr Lee qui est un vrai nerd d'histoire."
 
 # game/v11/scene33.rpy:126
 translate francais v11_bar_chloe_and_aubrey_89865ee4:
@@ -358,7 +358,7 @@ translate francais v11_bar_chloe_and_aubrey_8569c4fa:
 translate francais v11_bar_chloe_and_aubrey_b572fdc3:
 
     # bartender "Simping over the blonde... you and everyone else."
-    bartender "En train de rêvasser sur la blonde... toi comme tous les autres."
+    bartender "En train de rêvasser sur la blonde... Vous comme tous les autres."
 
 # game/v11/scene33.rpy:366
 translate francais v11_bar_chloe_and_aubrey_355fafbb:
@@ -370,7 +370,7 @@ translate francais v11_bar_chloe_and_aubrey_355fafbb:
 translate francais v11_bar_chloe_and_aubrey_68ed7eff:
 
     # bartender "Sure she is... A little advice? If you want a girl like her to stay, you might want to put a ring on it. That or give her a baby."
-    bartender "Bien sûr qu'elle l'est... Un petit conseil ? Si tu veux qu'une fille comme elle reste, tu devrais lui passer la bague au doigt. Ça ou lui faire un bébé."
+    bartender "Bien sûr qu'elle l'est... Un petit conseil ? Si vous voulez qu'une fille comme elle reste, vous devriez lui passer la bague au doigt. Ça ou lui faire un bébé."
 
 # game/v11/scene33.rpy:376
 translate francais v11_bar_chloe_and_aubrey_2edef5a1:
