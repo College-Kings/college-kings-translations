@@ -340,7 +340,7 @@ translate francais v12_chloe_cafe_5b106e35:
 translate francais v12_chloe_cafe_6c9dbea7:
 
     # cl "None, but it bothers me because Lindsey hasn't said anything to me about whatever it is that she's planning."
-    cl "Aucuns, mais ça m'ennuie parce que Lindsey ne m'a jamais rien dit à ce propos."
+    cl "Aucun, mais ça m'ennuie parce que Lindsey ne m'a jamais rien dit à ce propos."
 
 # game/v12/scene14.rpy:356
 translate francais v12_chloe_cafe_f3012fa2:

@@ -118,7 +118,7 @@ translate francais v12_valentine_32430448:
 translate francais v12_valentine_f1e6538b:
 
     # imre "Ha, right. No promises."
-    imre "Ha, c'est vrai. Pas d'promesses."
+    imre "J'fais pas d'promesses."
 
 # game/v12/scene16.rpy:148
 translate francais v12_valentine_f3532f3c:
@@ -160,7 +160,7 @@ translate francais v12_valentine_8bb0be8a:
 translate francais v12_valentine_4dd7f8a2:
 
     # no "I'm familiar with the holiday. *Chuckles*"
-    no "Je suis familière avec les vacances. *Rire*"
+    no "Je suis familière avec la fête. *Rire*"
 
 # game/v12/scene16.rpy:192
 translate francais v12_valentine_0660ab18:
@@ -190,7 +190,7 @@ translate francais v12_valentine_5e4d268b:
 translate francais v12_valentine_e612e93e:
 
     # lee "Imre, behave yourself. This is no time for jokes."
-    lee "Imre, tiens-toi bien. C'est pas l'moment d'plaisanter."
+    lee "Imre, tenez-vous bien. Ce n'est pas le moment de plaisanter."
 
 # game/v12/scene16.rpy:213
 translate francais v12_valentine_9163eec0:
@@ -232,7 +232,7 @@ translate francais v12_valentine_54622c97:
 translate francais v12_valentine_5862b772:
 
     # bishop "Another common mistake. Cupid is the Roman God of Love and within Greek mythology, he is the son of Aphrodite who is the God of Love in Greek mythology."
-    bishop "Une autre erreur courante. Cupidon est le dieu romain de l'amour et dans la mythologie grecque, il est le fils d'Aphrodite qui est le déesse de l'amour dans la mythologie grecque."
+    bishop "Une autre erreur courante. Cupidon est le dieu romain de l'amour et dans la mythologie grecque, il est le fils d'Aphrodite qui est la déesse de l'amour dans la mythologie grecque."
 
 # game/v12/scene16.rpy:248
 translate francais v12_valentine_c03cad3d:
@@ -460,7 +460,7 @@ translate francais v12_valentine_025ea3b9:
 translate francais v12_valentine_4c46d298:
 
     # bishop "Valentine's beloved received the letter and before the execution she pleaded with her father, the jailer, to help Valentine escape."
-    bishop "La bien-aimée de Valentin a reçu la lettre et, avant l'exécution, elle a supplié son père, le geôlier, de l'aider à s'échapper."
+    bishop "La bien-aimée de Valentin a reçu la lettre et avant l'exécution, elle a supplié son père, le geôlier, de l'aider à s'échapper."
 
 # game/v12/scene16.rpy:418
 translate francais v12_valentine_564dc7c3:
@@ -1012,7 +1012,7 @@ translate francais v12_valentine_ebacaf7f:
 translate francais v12_valentine_839de85e:
 
     # u "(Fucking weirdo.)"
-    u "(Putain de taré.)"
+    u "(Ferme ta gueule, connard.)"
 
 # game/v12/scene16.rpy:987
 translate francais v12_valentine_689409da_1:
@@ -1048,7 +1048,7 @@ translate francais v12_valentine_f4701e9e:
 translate francais v12_valentine_302bf5cb:
 
     # u "(Fucking dickhead.)"
-    u "(Putain de connard.)"
+    u "(Me parle même pas, connard.)"
 
 translate francais strings:
 

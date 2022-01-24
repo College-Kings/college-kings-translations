@@ -316,7 +316,7 @@ translate francais v12_amber_bus_05ce79e8:
 translate francais v12_amber_bus_ce4d34b1:
 
     # am "Maybe not, but I'll be a bit more vigilant from now on."
-    am "Peut-être pas, mais je serai un peu plus vigilante à partir de maintenant."
+    am "Peut-être pas, mais je serai un peu plus vigilande à partir de maintenant."
 
 # game/v12/scene10.rpy:298
 translate francais v12_amber_bus_d641ecec:
@@ -328,7 +328,7 @@ translate francais v12_amber_bus_d641ecec:
 translate francais v12_amber_bus_f7565f4b:
 
     # am "Vigilant is not a big word, you just have a fifth grade education."
-    am "Vigilante n'est pas un grand mot, tu as juste une éducation de CM2."
+    am "Vigilande n'est pas un grand mot, tu as juste une éducation de CM2."
 
 # game/v12/scene10.rpy:308
 translate francais v12_amber_bus_4d6d2f21:
@@ -364,7 +364,7 @@ translate francais v12_amber_bus_30aad37a:
 translate francais v12_amber_bus_24d14ebf:
 
     # am "Fine, it's V-I-G-I-L-I-N-T, vigilant."
-    am "Bien, c'est V-I-G-I-L-A-N-D-E, vigilante."
+    am "Bien, c'est V-I-G-I-L-A-N-D-E, vigilande."
 
 # game/v12/scene10.rpy:338
 translate francais v12_amber_bus_fcc18885_1:

@@ -214,7 +214,7 @@ translate francais v12_riddle_riley_1e8a12f4:
 translate francais v12_riddle_riley_62bb2ea4:
 
     # ri "You're not suspicious or anything?"
-    ri "Tu n'as pas de soupçons ou autre ?"
+    ri "Tu n'as pas de soupçon ou autre ?"
 
 # game/v12/scene15.rpy:258
 translate francais v12_riddle_riley_747de4d3:
@@ -400,7 +400,7 @@ translate francais v12_riddle_riley_1fabb2fe:
 translate francais v12_riddle_riley_482ec63d:
 
     # u "No worries. This okay?"
-    u "Pas de soucis. C'est bon ?"
+    u "Pas de souci. C'est bon ?"
 
 # game/v12/scene15.rpy:500
 translate francais v12_riddle_riley_f8d84dc2:
@@ -424,7 +424,7 @@ translate francais v12_riddle_riley_c24e4810:
 translate francais v12_riddle_riley_c111357e:
 
     # ri "I'm definitely into the more hot and sexy vibes, but this was probably the most romantic thing I've ever experienced."
-    ri "Je suis clairement dans des vibrations chaudes et sexy, mais c'était sans doute le truc le plus romantique que j'ai jamais vécu."
+    ri "Je ressent des vibrations chaudes et sexy, mais c'était sans doute le truc le plus romantique que j'ai jamais vécu."
 
 # game/v12/scene15.rpy:540
 translate francais v12_riddle_riley_6c65d9f8:

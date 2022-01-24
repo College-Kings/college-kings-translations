@@ -268,7 +268,7 @@ translate francais v12_riley_cafe_eb43f91b:
 translate francais v12_riley_cafe_d1a78d77:
 
     # u "I think I'd be able to tell."
-    u "J'imagine que je serais capable de trouver la supercherie."
+    u "Je pense que je serais capable de reconnaitre la supercherie."
 
 # game/v12/scene14a.rpy:270
 translate francais v12_riley_cafe_78794933:
@@ -328,7 +328,7 @@ translate francais v12_riley_cafe_8b258704:
 translate francais v12_riley_cafe_6ffd983e:
 
     # ri "We're going to complete \"treasure hunt: part two\" today. As a matter of fact, we can get it out of the way right after we finish eating."
-    ri "Nous allons terminer la \"chasse au trésor : deuxième partie\" aujourd'hui. En fait, on pourra aller la faire juste après avoir fini de manger."
+    ri "Nous allons terminer la \"chasse au trésor : deuxième partie\" aujourd'hui. On pourra même aller la faire juste après avoir fini de manger."
 
 # game/v12/scene14a.rpy:324
 translate francais v12_riley_cafe_8a8ba43f:
@@ -448,7 +448,7 @@ translate francais v12_riley_cafe_1e28e083:
 translate francais v12_riley_cafe_1e45bca8:
 
     # fwait "*Laughs* Now who's making the jokes? *Chuckles* Your accent was very convincing."
-    fwait "*Rire* Et maintenant, qui fait des blagues, hein ? *Rire* Votre accent était vraiment crédible."
+    fwait "*Rire* Et maintenant, qui fait des blagues, hein ? *Rire* Votre accent était vraiment parfait et crédible."
 
 # game/v12/scene14a.rpy:429
 translate francais v12_riley_cafe_fcc18885_1:
