@@ -106,7 +106,7 @@ translate francais v11_chloe_bathroom_05cccd4b:
 translate francais v11_chloe_bathroom_3bbd05a5:
 
     # u "That just means in some way, all of this will soon be resolved."
-    u "Cela signifie simplement que d'une certaine manière, tout ceci sera bientôt résolu."
+    u "Ça signifie simplement que d'une certaine manière, tout ça sera bientôt résolu."
 
 # game/v11/scene41.rpy:172
 translate francais v11_chloe_bathroom_f8d55ddd:
@@ -118,7 +118,7 @@ translate francais v11_chloe_bathroom_f8d55ddd:
 translate francais v11_chloe_bathroom_1bfd0956:
 
     # cl "Sometimes it's still hard to believe that you're the same guy that had a black eye during our first week of school, all because of me. *Chuckles*"
-    cl "Parfois, c'est encore difficile de croire que tu es le même gars qui a eu un oeil au beurre noir pendant notre première semaine d'école, tout ça à cause de moi. *Rire*"
+    cl "Parfois, c'est encore difficile de croire que tu es le même mec qui a eu un oeil au beurre noir pendant notre première semaine d'école, tout ça à cause de moi. *Rire*"
 
 # game/v11/scene41.rpy:179
 translate francais v11_chloe_bathroom_8210f89b:

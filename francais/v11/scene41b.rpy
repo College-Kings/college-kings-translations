@@ -94,7 +94,7 @@ translate francais v11_chloe_sex_scene_e282b024:
 translate francais v11_chloe_sex_scene_3a9d8c42:
 
     # cl "Do it, all over them. Finish for me, [name]."
-    cl "Jouis dessus. Termine pour moi, [name]."
+    cl "Vas-y, jouis sur eux. Fais-le pour moi, [name]."
 
 # game/v11/scene41b.rpy:174
 translate francais v11_chloe_sex_scene_e7f3f96f:
@@ -136,7 +136,7 @@ translate francais v11_chloe_sex_scene_60cc1e4f:
 translate francais v11_chloe_sex_scene_99262799:
 
     # u "Mind? I'm looking forward to it."
-    u "Si ça me dérange ? J'ai hâte d'y être."
+    u "Si ça me dérange ? J'ai hâte."
 
 # game/v11/scene41b.rpy:232
 translate francais v11s41b_nsfwSkipLabel1_37e87c42:

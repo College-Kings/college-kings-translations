@@ -112,7 +112,7 @@ translate francais v11_hotel_lobby_rose_7eb79c26:
 translate francais v11_hotel_lobby_rose_a0fea2b7:
 
     # ri "I don't know? Time to get up, loser. We're on vacation! *Chuckles*"
-    ri "Je ne sais pas ? C'est l'heure de se lever, loser. On est en vacances ! *Rire*"
+    ri "Je ne sais pas. C'est l'heure de se lever, loser. On est en vacances ! *Rire*"
 
 # game/v11/scene42.rpy:129
 translate francais v11_hotel_lobby_rose_42c2c45e:
@@ -130,7 +130,7 @@ translate francais v11_hotel_lobby_rose_3f3ca45b:
 translate francais v11_hotel_lobby_rose_4bd73ffd:
 
     # ro "I know this is not common field trip in the States and it isn't here either, but in the spirit of education... Here we are. Any questions?"
-    ro "Je sais que ce n'est pas un voyage d'étude courant aux États-Unis et que ce n'est pas non plus le cas ici, mais dans l'esprit de la culture... Nous y sommes. Des questions ?"
+    ro "Je sais que ce n'est pas un voyage d'étude courant aux États-Unis et que ce n'est pas non plus le cas ici, mais dans l'esprit de la culture... Nous ferons ceci.. Des questions ?"
 
 # game/v11/scene42.rpy:170
 translate francais v11_hotel_lobby_rose_7054e427:
@@ -148,7 +148,7 @@ translate francais v11_hotel_lobby_rose_b225dddb:
 translate francais v11_hotel_lobby_rose_37013baa:
 
     # imre "Alright... In that case, sorry Miss Econ, but I'm headed back to bed."
-    imre "D'accord... Dans c'cas, désolé Mlle Econ, mais j'retourne au lit."
+    imre "D'accord... Dans c'cas, désolé Mme Rose, mais j'retourne au lit."
 
 # game/v11/scene42.rpy:185
 translate francais v11_hotel_lobby_rose_079cbcf2:

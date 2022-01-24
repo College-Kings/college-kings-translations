@@ -16,7 +16,7 @@ translate francais v11_carriage_ride_7d5fe7d9:
 translate francais v11_carriage_ride_00cb75b0:
 
     # lee "Tonight students, we're going on carriage rides."
-    lee "Ce soir, étudiants, nous allons faire une promenade en calèche."
+    lee "Ce soir, étudiants, nous allons faire une promenade en carrosse."
 
 # game/v11/scene40.rpy:30
 translate francais v11_carriage_ride_5502c99a:
@@ -76,7 +76,7 @@ translate francais v11_carriage_ride_5506cb6c:
 translate francais v11_carriage_ride_1d2388c3:
 
     # u "Haha, yeah, I'm fine. There may be some bad blood, but I'm not getting hung up over it right now. We have carriages to ride, remember? *Chuckles*"
-    u "Haha, ouais, je vais bien. Il y a peut-être un peu d'animosité, mais je ne m'en préoccupe pas pour l'instant. Nous avons des calèches à conduire, tu te souviens ?  *Rire*"
+    u "Haha, ouais, je vais bien. Il y a peut-être un peu d'animosité, mais je ne m'en préoccupe pas pour l'instant. Nous avons des carrosses à conduire, tu te souviens ?  *Rire*"
 
 # game/v11/scene40.rpy:92
 translate francais v11_carriage_ride_8f3cb627:
@@ -88,7 +88,7 @@ translate francais v11_carriage_ride_8f3cb627:
 translate francais v11_carriage_ride_b684bf40:
 
     # li "*Chuckles* I'm pretty sure all I said to him was that I want a horse and carriage at my wedding. I don't know how he remembered that."
-    li "*Rire* Je suis presque sûre que tout ce que je lui ai dit, c'est que je voulais un cheval et une voiture à mon mariage. Je ne sais pas comment il s'en est souvenu."
+    li "*Rire* Je suis presque sûre que tout ce que je lui ai dit, c'est que mon rêve serait d'avoir un cheval et un carrosse à mon mariage. Je ne sais pas comment il s'en est souvenu."
 
 # game/v11/scene40.rpy:99
 translate francais v11_carriage_ride_bc726b0b:
@@ -286,7 +286,7 @@ translate francais v11_carriage_ride_e1b5bcdc:
 translate francais v11_carriage_ride_9c675a53:
 
     # no "I can't stand any kind of ride like this. Horse, carriage, wagon, boat, I don't know what it is but it always makes me sick."
-    no "Je ne supporte pas ce genre de manège. Cheval, calèche, chariot, bateau, je ne sais pas ce que c'est mais ça me rend toujours malade."
+    no "Je ne supporte pas ce genre de manège. Cheval, carrosse, chariot, bateau, je ne sais pas ce que c'est mais ça me rend toujours malade."
 
 # game/v11/scene40.rpy:293
 translate francais v11_carriage_ride_2f8a993b:
@@ -304,7 +304,7 @@ translate francais v11_carriage_ride_302997bc:
 translate francais v11_carriage_ride_bb59931b:
 
     # u "So... I'm pretty sure I've seen all of you during the trip so far, but outside of that, have you guys done anything interesting?"
-    u "Alors... je suis presque sûr de vous avoir tous vus pendant le séjour à Londres, mais à part ça, avez-vous fait quelque chose d'intéressant ?"
+    u "Alors... je suis presque sûr de vous avoir toutes vues pendant le séjour à Londres, mais à part ça, avez-vous fait quelque chose d'intéressant ?"
 
 # game/v11/scene40.rpy:308
 translate francais v11_carriage_ride_5e77c0c0:

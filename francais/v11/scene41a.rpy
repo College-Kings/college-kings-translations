@@ -154,7 +154,7 @@ translate francais v11_riley_amber_smoking_06ba53a5:
 translate francais v11_riley_amber_smoking_1da877c6:
 
     # u "No, you don't. *Chuckles* I ended up eating all of Josh's food and his Mom made me leave early... and pay her back for all the food."
-    u "Non, il ne vallait mieux pas. *Rire* J'ai fini par manger toute la nourriture de Josh et sa mère m'a fait partir plus tôt... et j'ai dû la rembourser pour toute la nourriture."
+    u "Non, il ne valait mieux pas. *Rire* J'ai fini par manger toute la nourriture de Josh et sa mère m'a fait partir plus tôt... et j'ai dû la rembourser pour toute la nourriture."
 
 # game/v11/scene41a.rpy:167
 translate francais v11_riley_amber_smoking_c778ea2e:
@@ -178,7 +178,7 @@ translate francais v11_riley_amber_smoking_f645366a:
 translate francais v11_riley_amber_smoking_717b2ced:
 
     # u "It was the best feeling of my life besides the fact that my stomach felt like a bottomless pit, haha. I was constantly starving."
-    u "C'était la meilleure sensation de ma vie, à part le fait que mon estomac ressemblait à un puits sans fond, haha. J'étais constamment affamée."
+    u "C'était la meilleure sensation de ma vie, à part le fait que mon estomac ressemblait à un puits sans fond, haha. J'étais affamée."
 
 # game/v11/scene41a.rpy:187
 translate francais v11_riley_amber_smoking_900b9602:
@@ -268,7 +268,7 @@ translate francais v11_riley_amber_smoking_006ee165:
 translate francais v11_riley_amber_smoking_71bf8bb7:
 
     # am "*Chuckles* Are you having trouble breathing? Do you need mouth to mouth?"
-    am "*Rire* Tu as du mal à respirer ? As-tu besoin d'un bouche à bouche ?"
+    am "*Rire* Tu as du mal à respirer ? T'as besoin d'un bouche à bouche ?"
 
 # game/v11/scene41a.rpy:280
 translate francais v11_riley_amber_smoking_90df189b:
@@ -364,7 +364,7 @@ translate francais v11_riley_amber_smoking_b25120b8:
 translate francais v11_riley_amber_smoking_38d5ae10:
 
     # am "*Sighs* Just when I was starting to think you weren't lame."
-    am "*Soupirs* Juste quand je commençais à penser que tu n'étais pas nul."
+    am "*Soupirs* Juste quand je commençais à penser que tu n'étais pas un nul."
 
 # game/v11/scene41a.rpy:386
 translate francais v11_riley_amber_smoking_a418f010:
@@ -414,7 +414,7 @@ translate francais strings:
 
     # game/v11/scene41a.rpy:140
     old "High School"
-    new "Lycée"
+    new "Au lycée"
 
     # game/v11/scene41a.rpy:140
     old "Never smoked before"
