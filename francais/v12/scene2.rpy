@@ -256,7 +256,7 @@ translate francais v12_nora_checks_mc_3b0d6663:
 translate francais v12_nora_checks_mc_092e3b24:
 
     # no "*Sighs* It's fine. At least you didn't mean to. Chris is all Charli wants to talk about. He thinks talking about it will make me feel better."
-    no "*Soupirs* C'est bon. Tu ne l'as pas fait exprès. Charli ne me veut parler que de Chris. Il pense que ça me fera me sentir mieux."
+    no "*Soupirs* C'est bon. Tu ne l'as pas fait exprès. Charli ne veut me parler que de Chris. Il pense que ça me fera me sentir mieux."
 
 # game/v12/scene2.rpy:255
 translate francais v12_nora_checks_mc_7003c231:

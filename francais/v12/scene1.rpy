@@ -52,7 +52,7 @@ translate francais v12_nora_robbed_4e42f73e:
 translate francais v12_nora_robbed_95231243:
 
     # no "Mo-Ms. Rose, please. I'm fine... Really."
-    no "Ma-Mme Rose, s'il vous plaît. Je vais bien... Vraiment."
+    no "Mam-Mme Rose, s'il vous plaît. Je vais bien... Vraiment."
 
 # game/v12/scene1.rpy:81
 translate francais v12_nora_robbed_fca10fac:
