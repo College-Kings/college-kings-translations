@@ -274,7 +274,7 @@ translate francais v11_at_the_bank_3d4d6aa9:
 translate francais v11_at_the_bank_dc703301:
 
     # ri "*Whisper* AMBER!"
-    ri "*Chuchote* AMBRE !"
+    ri "*Chuchote* AMBER !"
 
 # game/v11/scene43.rpy:245
 translate francais v11_at_the_bank_d896d1a6:
