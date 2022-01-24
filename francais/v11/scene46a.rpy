@@ -22,7 +22,7 @@ translate francais v11_dinner_with_aubrey_b99b7a0a:
 translate francais v11_dinner_with_aubrey_fae54d95:
 
     # au "We're gonna have to show some love to our Pimp Daddy Mr. Lee for spoiling all of us little sugar babies."
-    au "On va devoir montrer de l'amour à notre proxénète, Mr Lee, pour nous avoir gâtés, nous ses petits bébés en sucre."
+    au "On va devoir montrer de l'amour à notre proxénète, Mr Lee, pour nous avoir gâtés, nous ses \"petits bébés en sucre\"."
 
 # game/v11/scene46a.rpy:29
 translate francais v11_dinner_with_aubrey_5d56e4b2:
@@ -130,7 +130,7 @@ translate francais v11_dinner_with_aubrey_6c49e1a8:
 translate francais v11_dinner_with_aubrey_e21fdd73:
 
     # u "Wait... More blunt than you? That can't be possible. *Laughs*"
-    u "Attendez... Plus franche que toi ? Ce n'est pas possible. *Rire*"
+    u "Attend... Plus franche que toi ? C'est pas possible. *Rire*"
 
 # game/v11/scene46a.rpy:107
 translate francais v11_dinner_with_aubrey_bf5b7de0:
@@ -178,7 +178,7 @@ translate francais v11_dinner_with_aubrey_09332657:
 translate francais v11_dinner_with_aubrey_10ff62df:
 
     # au "Well, you aren't jumping to have sex with every girl you see. *Chuckles* You actually care about who you sleep with."
-    au "Eh bien, tu ne sautes pas sur l'occasion pour coucher avec toutes les filles que tu vois. *Rire* Tu te préoccupes vraiment de savoir avec qui tu couches."
+    au "Eh bien, tu ne sautes pas sur l'occasion pour coucher avec toutes les filles que tu vois. *Rire* Tu te soucies vraiment de la personne avec qui tu couches."
 
 # game/v11/scene46a.rpy:150
 translate francais v11_dinner_with_aubrey_6a52f6ba:
@@ -262,7 +262,7 @@ translate francais v11_dinner_with_aubrey_5780a348:
 translate francais v11_dinner_with_aubrey_a6824267:
 
     # au "I've decided then, you're officially a good guy. *Chuckles* I might have gone with lame if you had said no to me."
-    au "J'ai donc décidé que tu es officiellement un bon gars. *Rire* J'aurais pu partir avec le pauvre type si tu m'avais dit non."
+    au "J'ai donc décidé que tu es officiellement \"un bon gars\". *Rire* J'aurais pu aller avec le pauvre type, si tu m'avais dit non."
 
 # game/v11/scene46a.rpy:222
 translate francais v11_dinner_with_aubrey_fcc18885:
@@ -304,7 +304,7 @@ translate francais v11_dinner_with_aubrey_81504548:
 translate francais v11_dinner_with_aubrey_b563b658:
 
     # au "*Chuckles* Because you two are like Chloe and Nora 2.0."
-    au "*Rire* Parce que vous êtes comme Chloé et Nora 2.0."
+    au "*Rire* Parce que tous les deux êtes comme Chloé et Nora 2.0."
 
 # game/v11/scene46a.rpy:258
 translate francais v11_dinner_with_aubrey_680bc715:
@@ -328,7 +328,7 @@ translate francais v11_dinner_with_aubrey_17cd96f4:
 translate francais v11_dinner_with_aubrey_ea73b697:
 
     # u "That's actually something I've been wanting to talk to you about."
-    u "C'est en fait quelque chose dont je voulais te parler."
+    u "C'est en fait un peu de ça, dont je voulais te parler."
 
 # game/v11/scene46a.rpy:280
 translate francais v11_dinner_with_aubrey_1cfa81ac:
@@ -382,7 +382,7 @@ translate francais v11_dinner_with_aubrey_0b7ae946:
 translate francais v11_dinner_with_aubrey_a447f959:
 
     # au "Oh shit, you're actually being serious. Well, like I said, I'm not interested in being tied down right now. I enjoy being a free bird, [name]."
-    au "Oh merde, tu es vraiment sérieux. Eh bien, comme je l'ai dit, je ne veux pas être enchaîné pour le moment. J'aime être un oiseau libre, [name]."
+    au "Oh merde, tu es vraiment sérieux. Eh bien, comme je l'ai dit, je ne veux pas être enchaînée pour le moment. J'aime être un oiseau libre, [name]."
 
 # game/v11/scene46a.rpy:323
 translate francais v11_dinner_with_aubrey_3ba9d021:
@@ -418,13 +418,13 @@ translate francais v11_dinner_with_aubrey_2a56754a:
 translate francais v11_dinner_with_aubrey_9862c574:
 
     # u "Well, I wouldn't want that."
-    u "Je ne le souhaite pas."
+    u "C'est pas ce que je souhaite."
 
 # game/v11/scene46a.rpy:354
 translate francais v11_dinner_with_aubrey_ad374f91:
 
     # au "I wouldn't either 'cause then I'd have to go push up on Pimp Daddy Mr. Lee."
-    au "Je ne le ferais pas non plus parce qu'alors je mettrais la pression au père maquerelle, Mr Lee."
+    au "Je ne le ferais pas non plus parce qu'alors, je mettrais la pression au père maquerelle, Mr Lee."
 
 # game/v11/scene46a.rpy:359
 translate francais v11_dinner_with_aubrey_8b88f4fc:

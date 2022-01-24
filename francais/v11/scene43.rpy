@@ -10,7 +10,7 @@ translate francais v11_at_the_bank_4ed4a87d:
 translate francais v11_at_the_bank_7cdb5218:
 
     # ri "*Southern Accent* Well, it's mighty nice to meet you, too. I'm surprised you never came across any of us."
-    ri "*Accent du Sud* Eh bien, c'est un plaisir de vous rencontrer, aussi. Je suis surprise que vous n'ayez jamais rencontré la moindre personne de notre beau pays."
+    ri "*Accent du Sud* Eh bien, c'est également un plaisir de vous rencontrer. Je suis surprise que vous n'ayez jamais rencontré la moindre personne de notre beauuu pays."
 
 # game/v11/scene43.rpy:25
 translate francais v11_at_the_bank_0c14b141:
@@ -22,7 +22,7 @@ translate francais v11_at_the_bank_0c14b141:
 translate francais v11_at_the_bank_8d13c959:
 
     # ri "*Southern Accent* So I've been told. Even thought about being an actress, honestly."
-    ri "*Accent du Sud* C'est ce qu'on m'a dit. J'ai même pensé à devenir actrice, honnêtement."
+    ri "*Accent du Sud* C'est ce qu'on m'a dit. Honnêtement, J'ai même pensé à devenir actrice."
 
 # game/v11/scene43.rpy:35
 translate francais v11_at_the_bank_8346d810:
@@ -52,7 +52,7 @@ translate francais v11_at_the_bank_951a4e31:
 translate francais v11_at_the_bank_f74c49e9:
 
     # ri "What exactly will we be touring? I kinda just assume your banks are very different from ours."
-    ri "Qu'est-ce qu'on va visiter exactement ? Je suppose que vos banques sont très différentes des nôtres."
+    ri "Qu'est-ce qu'on va visiter exactement ? Je pense que vos banques sont très différentes des nôtres."
 
 # game/v11/scene43.rpy:60
 translate francais v11_at_the_bank_5a3c76f6:
@@ -160,7 +160,7 @@ translate francais v11_at_the_bank_1154faf5:
 translate francais v11_at_the_bank_c04fa738:
 
     # u "A little... I'm just not interested in all this kind of stuff I guess."
-    u "Un peu... Je ne suis juste pas intéressé par ce genre de choses, j'ai l'impression."
+    u "Un peu... Je crois que, Je ne suis juste pas intéressé par ce genre de choses."
 
 # game/v11/scene43.rpy:149
 translate francais v11_at_the_bank_298c8f9c:
@@ -184,13 +184,13 @@ translate francais v11_at_the_bank_c75ec0dd:
 translate francais v11_at_the_bank_59c0d5a0:
 
     # ry "Make room for us! The top one percent."
-    ry "Faites-nous de la place ! Le top 1 %."
+    ry "Faites-nous de la place ! Le \"top 1%%\"."
 
 # game/v11/scene43.rpy:170
 translate francais v11_at_the_bank_e49ccfd3:
 
     # bank "Haha, usually we save that term for the wealthy."
-    bank "Haha, d'habitude on garde ce terme pour les riches."
+    bank "Haha, d'habitude on garde ce terme pour les personnes riches."
 
 # game/v11/scene43.rpy:175
 translate francais v11_at_the_bank_d5a695d1:
@@ -208,7 +208,7 @@ translate francais v11_at_the_bank_9aadaf76:
 translate francais v11_at_the_bank_a8797fd1:
 
     # ry "Nevermind, just forget I asked."
-    ry "Laisse tomber, oubliez juste que j'ai dit ça."
+    ry "Laissez tomber, oubliez que j'ai dit ça."
 
 # game/v11/scene43.rpy:190
 translate francais v11_at_the_bank_b9ed5b41:
@@ -226,7 +226,7 @@ translate francais v11_at_the_bank_1a8b6c61:
 translate francais v11_at_the_bank_458b98ae:
 
     # bank "Ahh, the most common American answer. Due to you being on European trip and Euro sounding so close in name, many Americans assume we use the Euro, when in actuality, we use the Pound."
-    bank "Ahh, la réponse américaine la plus courante. Comme vous êtes en voyage en Europe et que le nom de l'euro est si proche, de nombreux Américains pensent que nous utilisons l'euro, alors qu'en réalité, nous utilisons la livre."
+    bank "Ahh, la réponse américaine la plus courante. Comme vous êtes en voyage en Europe et que le nom de l'euro est si proche, de nombreux Américains pensent que nous utilisons l'euro, alors qu'en réalité, nous utilisons la Livre."
 
 # game/v11/scene43.rpy:205
 translate francais v11_at_the_bank_0fc1df83:
@@ -238,19 +238,19 @@ translate francais v11_at_the_bank_0fc1df83:
 translate francais v11_at_the_bank_635588b5:
 
     # bank "Let me ask another, do you know which is worth more? The US Dollar or the Pound?"
-    bank "Permettez-moi d'en poser une autre, savez-vous ce qui vaut le plus ? Le dollar américain ou la livre sterling ?"
+    bank "Permettez-moi d'en poser une autre, savez-vous ce qui vaut le plus ? Le Dollar américain ou la Livre Sterling ?"
 
 # game/v11/scene43.rpy:215
 translate francais v11_at_the_bank_3c4b7c49:
 
     # no "Well, right now the pound is."
-    no "Eh bien, en ce moment c'est la livre."
+    no "Eh bien, en ce moment c'est la Livre."
 
 # game/v11/scene43.rpy:220
 translate francais v11_at_the_bank_815e5ac2:
 
     # bank "Correct, and I like that you say right now. As I'm sure you all know, currency values can fluctuate."
-    bank "Correct, et je préfère que vous le dites maintenant. Comme je suis sûre que vous le savez tous, la valeur des devises peut fluctuer."
+    bank "Correct, et il est bien que vous dites \"en ce moment\". Car je suis sûre que vous le savez tous, la valeur des devises peut fluctuer."
 
 # game/v11/scene43.rpy:225
 translate francais v11_at_the_bank_538010f0:
@@ -328,7 +328,7 @@ translate francais v11_at_the_bank_5c2d6177:
 translate francais v11_at_the_bank_c55a7592:
 
     # am "\"We're?\" So you're in on it, too?"
-    am "\"Que NOUS planifions ?\" Alors tu es dans le coup, toi aussi ?"
+    am "Que \"NOUS\" planifions ? Alors tu es dans le coup, toi aussi ?"
 
 # game/v11/scene43.rpy:291
 translate francais v11_at_the_bank_f4b0ada9:
@@ -358,7 +358,7 @@ translate francais v11_at_the_bank_f6ab8d9a:
 translate francais v11_at_the_bank_a675b590:
 
     # u "What do you mean, entertain? Are you gonna perform a skit in your southern accent? *Chuckles*"
-    u "Qu'est-ce que tu veux dire, distraire ? Tu vas faire un sketch avec ton accent du sud ? *Rire*"
+    u "Comment ça, distraire ? Tu vas faire un sketch avec ton accent du sud ? *Rire*"
 
 # game/v11/scene43.rpy:316
 translate francais v11_at_the_bank_45b25cb9:
@@ -370,7 +370,7 @@ translate francais v11_at_the_bank_45b25cb9:
 translate francais v11_at_the_bank_4bb571f6:
 
     # ri "Excuse me, hi! I was just wondering... Someone said the pound was worth more than our dollars? So if I moved to London would I become rich? What if I get lonely in a new country, all by myself?"
-    ri "Excusez-moi, bonjour ! Je me demandais juste... Quelqu'un a dit que la livre valait plus que nos dollars ? Donc si je déménageais à Londres, je deviendrais riche ? Et si je me sentais seule dans un nouveau pays, toute seule ?"
+    ri "Excusez-moi, bonjour ! Je me demandais juste... Quelqu'un a dit que la Livre valait plus que nos Dollars ? Donc si je déménageais à Londres, je deviendrais riche ? Et si je me sentais seule dans un nouveau pays, toute seule ?"
 
 # game/v11/scene43.rpy:326
 translate francais v11_at_the_bank_1c8acf17:
@@ -442,13 +442,13 @@ translate francais v11_at_the_bank_6aaa6d58:
 translate francais v11_at_the_bank_83c2c15a:
 
     # am "Probably because we're not paying attention to the tour. *Chuckles*"
-    am "Probablement parce que nous ne faisons pas attention à la visite. *Rire*"
+    am "Sûrement parce qu'on ne fait pas attention à la visite. *Rire*"
 
 # game/v11/scene43.rpy:386
 translate francais v11_at_the_bank_e5339abb:
 
     # u "Haha, you're probably right."
-    u "Haha, tu as probablement raison."
+    u "Haha, je pense que tu as raison."
 
 # game/v11/scene43.rpy:391
 translate francais v11_at_the_bank_895e2cc1:
@@ -502,13 +502,13 @@ translate francais v11_at_the_bank_09f0f6f1:
 translate francais v11_at_the_bank_dc703301_1:
 
     # ri "*Whisper* AMBER!"
-    ri "*Chuchote* AMBRE !"
+    ri "*Chuchote* AMBER !"
 
 # game/v11/scene43.rpy:439
 translate francais v11_at_the_bank_44d02129:
 
     # am "Excuse me miss, earlier you said that pounds are worth more than the dollar. Does that mean that if I moved here and converted my currency I'd be a rich woman?"
-    am "Excusez-moi mademoiselle, tout à l'heure vous avez dit que la livre valait plus que le dollar. Cela veut-il dire que si je déménageais ici et convertissais ma monnaie, je serais une femme riche ?"
+    am "Excusez-moi mademoiselle, tout à l'heure vous avez dit que la Livre valait plus que le Dollar. Cela veut-il dire que si je déménageais ici et convertissais ma monnaie, je serais une femme riche ?"
 
 # game/v11/scene43.rpy:444
 translate francais v11_at_the_bank_cb9125ef:
@@ -520,7 +520,7 @@ translate francais v11_at_the_bank_cb9125ef:
 translate francais v11_at_the_bank_08c4374a:
 
     # bank "*Gasps* I can't believe it."
-    bank "*Gasps* Je ne peux pas le croire."
+    bank "*Gasps* Je ne peux pas y croire."
 
 # game/v11/scene43.rpy:454
 translate francais v11_at_the_bank_b7032b8d:
@@ -580,7 +580,7 @@ translate francais v11_at_the_bank_1c0afcfb:
 translate francais v11_at_the_bank_0e711b8e:
 
     # am "So you caught us, now what?"
-    am "Vous nous avez attrapés, et maintenant ?"
+    am "Vous nous avez choppés, et maintenant ?"
 
 # game/v11/scene43.rpy:509
 translate francais v11_at_the_bank_9847c493:
@@ -610,7 +610,7 @@ translate francais v11_at_the_bank_382d41ab:
 translate francais v11_at_the_bank_dd607fa9:
 
     # u "I guess so, and to think I had such a bright future. Fuck..."
-    u "Je pense... Et dire que j'avais un avenir si brillant... Putain..."
+    u "Je crois aussi... Et dire que j'avais un avenir si brillant... Putain..."
 
 # game/v11/scene43.rpy:537
 translate francais v11_at_the_bank_a2ec0fd2:
@@ -622,7 +622,7 @@ translate francais v11_at_the_bank_a2ec0fd2:
 translate francais v11_at_the_bank_6a319f6b:
 
     # ri "Yeah, you'll probably have a whole gang or something. *Chuckles*"
-    ri "Ouais, tu auras probablement un gang entier ou quelque chose comme ça à tes ordres. *Rire*"
+    ri "Ouais, je pense que tu auras un gang entier ou quelque chose comme ça à tes ordres. *Rire*"
 
 # game/v11/scene43.rpy:547
 translate francais v11_at_the_bank_0ab268e8:
@@ -634,7 +634,7 @@ translate francais v11_at_the_bank_0ab268e8:
 translate francais v11_at_the_bank_491d39c7:
 
     # bank "Do the three of you not understand the severity of this situation? This is a serious crime."
-    bank "Vous ne comprenez pas tous les trois la gravité de la situation ? C'est un crime grave."
+    bank "Tous les trois, vous ne comprenez pas la gravité de la situation ? C'est un crime grave."
 
 # game/v11/scene43.rpy:553
 translate francais v11_at_the_bank_768b02ff:
@@ -652,7 +652,7 @@ translate francais v11_at_the_bank_5a3c5abd:
 translate francais v11_at_the_bank_c0ac6f5a:
 
     # am "*Laughs* We were just bored of your little vault tour and started joking around. You took it way too seriously, ma'am."
-    am "*Rire* On s'ennuyait juste de votre petite visite de la chambre forte et on a commencé à plaisanter. Vous l'avez pris trop au sérieux, m'dame, faut savoir déconner, parfois."
+    am "*Rire* On s'ennuyait juste de votre petite visite de la chambre forte et on a commencé à plaisanter. Vous l'avez pris trop au sérieux, m'dame, faut savoir déconner, dans la vie."
 
 # game/v11/scene43.rpy:564
 translate francais v11_at_the_bank_f128364f:
@@ -664,7 +664,7 @@ translate francais v11_at_the_bank_f128364f:
 translate francais v11_at_the_bank_5b927436:
 
     # ri "I apologize, but you must realize this isn't at all what we've been looking forward to doing while on vacation in Europe. There's so much more we could be experiencing."
-    ri "Je m'excuse, mais vous devez réaliser que ce n'est pas du tout ce que nous attendions de faire pendant nos vacances en Europe. Il y a tellement plus de choses que nous pourrions expérimenter."
+    ri "Je m'excuse, mais vous devez réaliser que ce n'est pas du tout ce que nous avions envie de faire pendant nos vacances en Europe. Il y a tellement plus de choses que nous pourrions expérimenter."
 
 # game/v11/scene43.rpy:574
 translate francais v11_at_the_bank_28ee73b4:
@@ -688,13 +688,13 @@ translate francais v11_at_the_bank_b9922a0b:
 translate francais v11_at_the_bank_550b4251:
 
     # u "Alright, as fun as this has been, I think it's starting to get pretty out of hand. I never thought I'd be explaining that I had no real intentions of robbing a bank in London."
-    u "Bon, aussi amusant que cela ait été, je pense que ça commence à devenir incontrôlable. Je n'aurais jamais pensé devoir expliquer un jour, que je n'avais pas l'intention de braquer une banque à Londres."
+    u "Bon, aussi amusant que ça ait été, je pense que ça commence à devenir incontrôlable. Je n'aurais jamais pensé devoir expliquer un jour, que je n'avais pas l'intention de braquer une banque à Londres."
 
 # game/v11/scene43.rpy:592
 translate francais v11_at_the_bank_550b4251_1:
 
     # u "Alright, as fun as this has been, I think it's starting to get pretty out of hand. I never thought I'd be explaining that I had no real intentions of robbing a bank in London."
-    u "Bon, aussi amusant que cela ait été, je pense que ça commence à devenir incontrôlable. Je n'aurais jamais pensé devoir expliquer un jour, que je n'avais pas l'intention de braquer une banque à Londres."
+    u "Bon, aussi amusant que ça ait été, je pense que ça commence à devenir incontrôlable. Je n'aurais jamais pensé devoir expliquer un jour, que je n'avais pas l'intention de braquer une banque à Londres."
 
 # game/v11/scene43.rpy:597
 translate francais v11_at_the_bank_e322d5be:
@@ -712,13 +712,13 @@ translate francais v11_at_the_bank_f1fa4139:
 translate francais v11_at_the_bank_d1f60184:
 
     # ri "See? All fun and games."
-    ri "Tu vois ? Tout le plaisir est dans les jeux."
+    ri "Vous voyez ? Tout le plaisir est dans les jeux."
 
 # game/v11/scene43.rpy:612
 translate francais v11_at_the_bank_62bd3a08:
 
     # bank "*Sighs* I wish I had the fun and youthful spirit you all have. Although, no more jokes about robbing banks, okay?"
-    bank "*Soupirs* J'aimerais avoir l'esprit amusant et jeune que vous avez tous. Mais plus de blagues sur les braquages de banques, d'accord ?"
+    bank "*Soupirs* J'aimerais avoir cet esprit jeune et joueur que vous avez tous. Mais plus de blagues sur les braquages de banques, d'accord ?"
 
 # game/v11/scene43.rpy:617
 translate francais v11_at_the_bank_a8ed94bf:
@@ -796,19 +796,19 @@ translate francais v11_at_the_bank_80a35e6c:
 translate francais v11_at_the_bank_8fd4f91c:
 
     # lee "*Sighs* I could almost laugh. My students want to walk, how do you plan to get back? Either way we'll make it just in time for the event tonight."
-    lee "*Soupirs* Je pourrais presque en rire. Mes élèves veulent marcher, comment comptez-vous rentrer ? De toute façon, nous arriverons juste à temps pour l'événement de ce soir."
+    lee "*Soupirs* Je pourrais presque en rire. Mes élèves veulent rentrer à pieds, comment comptez-vous rentrer ? De toute façon, nous arriverons juste à temps pour l'événement de ce soir."
 
 # game/v11/scene43.rpy:711
 translate francais v11_at_the_bank_8ae46df2:
 
     # ro "I think we'll take the underground, I personally want to."
-    ro "Je pense que nous prendrons le métro, j'en ai personnellement envie."
+    ro "Je pense que nous prendrons le métro. Personnellement, j'en ai envie."
 
 # game/v11/scene43.rpy:716
 translate francais v11_at_the_bank_766d9e54:
 
     # lee "And I personally wanted to stretch my legs. *Chuckles*"
-    lee "Et j'avais personnellement envie de me dégourdir les jambes. *Rire*"
+    lee "Et j'avais \"personnellement\" envie de me dégourdir les jambes. *Rire*"
 
 # game/v11/scene43.rpy:721
 translate francais v11_at_the_bank_5ec6202f:

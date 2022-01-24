@@ -4,7 +4,7 @@
 translate francais v11_nora_lingerie_1f778075:
 
     # u "Enjoy the bank?"
-    u "Vous a aimé la banque ?"
+    u "T'as aimé la banque ?"
 
 # game/v11/scene44.rpy:19
 translate francais v11_nora_lingerie_7ce2c6d5:
@@ -22,7 +22,7 @@ translate francais v11_nora_lingerie_05166ac0:
 translate francais v11_nora_lingerie_ea7c245c:
 
     # no "The way Amber got dragged out of there... You totally could've fooled us."
-    no "La façon dont Amber a été traînée hors de là... On aurait pu se méprendre."
+    no "À voir la façon dont Amber a été traîné hors de là... On aurait pu se méprendre."
 
 # game/v11/scene44.rpy:34
 translate francais v11_nora_lingerie_cb344fc0:
@@ -58,7 +58,7 @@ translate francais v11_nora_lingerie_e612bb08:
 translate francais v11_nora_lingerie_ca94292e:
 
     # no "I could tell something was up."
-    no "Je pouvais dire que quelque chose se passait."
+    no "Je pouvais sentir qu'il se passait quelque chose."
 
 # game/v11/scene44.rpy:65
 translate francais v11_nora_lingerie_d3a51748:
@@ -94,7 +94,7 @@ translate francais v11_nora_lingerie_cf1c777a:
 translate francais v11_nora_lingerie_b24c058e:
 
     # u "Well, I want to. I want this trip to be something for us to remember. I'm just doing my best to make sure most of the memories are good ones. *Laughs*"
-    u "Eh bien, je le veux. Je veux que ce voyage soit quelque chose dont on se souviendra. Je fais juste de mon mieux pour m'assurer que la plupart de nos souvenirs soient bons. *Rire*"
+    u "Eh bien, moi je le veux. Je veux que ce voyage soit quelque chose dont on se souviendra. Je fais juste de mon mieux pour m'assurer que la plupart de nos souvenirs soient bons. *Rire*"
 
 # game/v11/scene44.rpy:96
 translate francais v11_nora_lingerie_13e1f270:
@@ -124,13 +124,13 @@ translate francais v11_nora_lingerie_15e7f496:
 translate francais v11_nora_lingerie_a03761c9:
 
     # no "You've done enough, [name]. You can't be there for me all the time."
-    no "Tu en as fait assez, [name]. Tu ne peux pas être là pour moi tout le temps."
+    no "Tu en as fait assez, [name]. Tu ne peux pas toujours être là pour moi."
 
 # game/v11/scene44.rpy:121
 translate francais v11_nora_lingerie_26155ed4:
 
     # u "Haha, guess that's true."
-    u "Haha, je pense que c'est vrai."
+    u "Haha, tu dois avoir raison."
 
 # game/v11/scene44.rpy:136
 translate francais v11_nora_lingerie_34e19058:
@@ -154,19 +154,19 @@ translate francais v11_nora_lingerie_6e446eb9:
 translate francais v11_nora_lingerie_55c9b264:
 
     # u "Nora. *Chuckles* You obviously wanted to come in here."
-    u "Nora. *Rire* Tu voulais manifestement venir ici."
+    u "Nora. *Rire* Tu voulais apparemment venir ici."
 
 # game/v11/scene44.rpy:161
 translate francais v11_nora_lingerie_d0f1cda6:
 
     # no "You have to come with me?"
-    no "Tu veux venir avec moi ?"
+    no "Tu veux y aller avec moi ?"
 
 # game/v11/scene44.rpy:166
 translate francais v11_nora_lingerie_8dd768f4:
 
     # u "I'm not gonna let you go shopping by yourself. Besides, you're not walking back by yourself so I'm waiting for you either way. *Chuckles*"
-    u "Je ne vais pas te laisser aller faire du shopping toute seule. D'ailleurs, tu ne rentres pas toute seule, donc je t'attends de toute façon. *Rire*"
+    u "Je ne vais pas te laisser faire du shopping toute seule. D'ailleurs, tu ne rentres pas toute seule, donc je t'attends de toute façon. *Rire*"
 
 # game/v11/scene44.rpy:181
 translate francais v11_nora_lingerie_8e36476e:
@@ -202,7 +202,7 @@ translate francais v11_nora_lingerie_8ccabc29:
 translate francais v11_nora_lingerie_e01bf498:
 
     # u "So... about the Chicks stuff the other night-"
-    u "So... about the Chicks stuff the other night-"
+    u "Alors... à propos du truc des Chicks l'autre soir..."
 
 # game/v11/scene44.rpy:221
 translate francais v11_nora_lingerie_e481cfd2:
@@ -238,7 +238,7 @@ translate francais v11_nora_lingerie_68322694:
 translate francais v11_nora_lingerie_a5723653:
 
     # u "Right, so... *Whispers* We're bra shopping?"
-    u "Bon, alors... *Chuchote* On va acheter un soutien-gorge ?"
+    u "Ah, d'accord... *Chuchote* On va acheter un soutien-gorge ?"
 
 # game/v11/scene44.rpy:251
 translate francais v11_nora_lingerie_6cdb3873:
@@ -274,7 +274,7 @@ translate francais v11_nora_lingerie_e8861ceb:
 translate francais v11_nora_lingerie_58243550:
 
     # no "If you're about to make some joke about \"having to see it on me first\", I may hit you. Fair warning."
-    no "Si tu t'apprêtes à faire une blague sur le fait que tu dois \"d'abord le voir sur moi\", je peux te frapper. Je te préviens."
+    no "Si tu t'apprêtes à faire une blague sur le fait que tu dois \"d'abord le voir sur moi\", je peux te frapper. Tu es prévenu."
 
 # game/v11/scene44.rpy:281
 translate francais v11_nora_lingerie_75deab01:
@@ -304,7 +304,7 @@ translate francais v11_nora_lingerie_cead3bbc:
 translate francais v11_nora_lingerie_6184fece:
 
     # no "That's what I'll get then. I'm gonna hurry up and check out before we get left behind. *Chuckles*"
-    no "C'est ce que je vais prendre alors. Je vais me dépêcher et quitter le magasin avant que nous ne soyons oubliés. *Rire*"
+    no "C'est ce que je vais prendre alors. Je vais me dépêcher et quitter le magasin avant que les autres ne nous sèment. *Rire*"
 
 # game/v11/scene44.rpy:309
 translate francais v11_nora_lingerie_e3d4a95a:
@@ -346,7 +346,7 @@ translate francais v11_nora_lingerie_8943c1d0:
 translate francais v11_nora_lingerie_09fc4246:
 
     # no "Oh it's Lindsey, shit! They're already back at the hotel."
-    no "Oh c'est Lindsey, merde ! Elles sont déjà à l'hôtel."
+    no "Oh c'est Lindsey. Merde ! Ils sont déjà tous à l'hôtel."
 
 # game/v11/scene44.rpy:354
 translate francais v11_nora_lingerie_0fc53264:
@@ -358,13 +358,13 @@ translate francais v11_nora_lingerie_0fc53264:
 translate francais v11_nora_lingerie_f759017e:
 
     # u "Oh shit, yeah. *Chuckles* Guess we better run."
-    u "Oh merde, ouais. *Rire* Je pense qu'on ferait mieux de courir."
+    u "Oh merde, ouais. *Rire* Je crois qu'on ferait mieux de courir."
 
 # game/v11/scene44.rpy:364
 translate francais v11_nora_lingerie_049cc3f0:
 
     # no "*Sighs* I don't wanna run..."
-    no "*Soupirs* Je ne veux pas courir..."
+    no "*Soupirs* J'ai pas envie de courir..."
 
 # game/v11/scene44.rpy:369
 translate francais v11_nora_lingerie_b0a6ae65:

@@ -52,7 +52,7 @@ translate francais v11_dinner_with_lauren_3b34f9f9:
 translate francais v11_dinner_with_lauren_bad20935:
 
     # la "Us girls can't just go around telling all of our secrets, [name]. *Chuckles*"
-    la "Nous, les filles, ne pouvons pas nous balader en racontant tous nos secrets, [name].  *Rire*"
+    la "Nous, les filles, ne nous baladons pas en nous racontant tous nos secrets, [name].  *Rire*"
 
 # game/v11/scene46.rpy:51
 translate francais v11_dinner_with_lauren_2ab6af89:
@@ -70,7 +70,7 @@ translate francais v11_dinner_with_lauren_bfd8bb24:
 translate francais v11_dinner_with_lauren_d0e48a5f:
 
     # u "Everything. *Chuckles* I could honestly eat anything right now."
-    u "Tout. *Rire* Je pourrais honnêtement manger n'importe quoi en ce moment."
+    u "Tout. *Rire* Franchement, je pourrais manger n'importe quoi, là."
 
 # game/v11/scene46.rpy:66
 translate francais v11_dinner_with_lauren_30eeb8a2:
@@ -130,7 +130,7 @@ translate francais v11_dinner_with_lauren_8f5fa463:
 translate francais v11_dinner_with_lauren_a9c38c4b:
 
     # la "Well, Charli tried to talk to me earlier."
-    la "Eh bien, Charli a essayé de me parler plus tôt."
+    la "Eh bien, Charli a essayé de me parler, tout à l'heure."
 
 # game/v11/scene46.rpy:112
 translate francais v11_dinner_with_lauren_473b3820:
@@ -178,7 +178,7 @@ translate francais v11_dinner_with_lauren_ef11c567:
 translate francais v11_dinner_with_lauren_bcc8d87d:
 
     # la "Well, I'm just not a big fan of people who can't mind their own business."
-    la "Je ne suis pas un grand fan des gens qui ne peuvent pas ne s'occuper que de leurs affaires."
+    la "Je ne suis pas une grande fan des gens qui se mêlent des affaires des autres."
 
 # game/v11/scene46.rpy:150
 translate francais v11_dinner_with_lauren_47228d44:
@@ -202,13 +202,13 @@ translate francais v11_dinner_with_lauren_fe130ddc:
 translate francais v11_dinner_with_lauren_d92ee685:
 
     # la "I am too. Sometimes I sit back and think about what it'd be like if we never met and how different college would be... But it's honestly too hard to imagine that."
-    la "Je le suis aussi. Parfois, je m'assieds et je pense à ce que ça serait si on ne s'était jamais rencontrés et à quel point l'université serait différente... Mais c'est honnêtement trop dur d'imaginer ça."
+    la "Je le suis aussi. Parfois, je m'assieds et je pense à ce que ça serait si on ne s'était jamais rencontrés et à quel point l'université serait différente... Mais c'est vraiment trop dur d'imaginer ça."
 
 # game/v11/scene46.rpy:171
 translate francais v11_dinner_with_lauren_4e27b5ce:
 
     # u "I could say the same about you. You were one of the first people I met, haha."
-    u "Je pourrais dire la même chose de toi. Tu es l'une des premières personnes que j'ai rencontrées, haha."
+    u "Je pourrais dire la même chose de toi. Tu es l'une des premières personnes que j'ai rencontré, haha."
 
 # game/v11/scene46.rpy:176
 translate francais v11_dinner_with_lauren_7ee5b4bc:
@@ -334,13 +334,13 @@ translate francais v11_dinner_with_lauren_7219be6f:
 translate francais v11_dinner_with_lauren_e0386564:
 
     # la "Nothing, [name]. Seriously, don't worry about it."
-    la "Rien, [name]. Sérieusement, ne t'inquiète pas pour ça."
+    la "Oublie, [name]. Sérieusement, ne t'inquiète pas pour ça."
 
 # game/v11/scene46.rpy:286
 translate francais v11_dinner_with_lauren_47139336:
 
     # u "If it's nothing then why can't you just tell me? *Laughs*"
-    u "Si ce n'est rien, pourquoi tu ne me le dis pas ? *Rire*"
+    u "Si ce n'y a pas à s'inquiéter, pourquoi tu ne me le dis pas ? *Rire*"
 
 # game/v11/scene46.rpy:291
 translate francais v11_dinner_with_lauren_3c670bc2:
@@ -388,19 +388,19 @@ translate francais v11_dinner_with_lauren_9e44027f:
 translate francais v11_dinner_with_lauren_eb384335:
 
     # imre "Oh, really?"
-    imre "Oh, vraiment ?"
+    imre "Ah ouais ?"
 
 # game/v11/scene46.rpy:330
 translate francais v11_dinner_with_lauren_81592ef3:
 
     # u "Yeah, Lauren was saying something about a nickname you gave her, but she won't tell me because she thinks I'm gonna laugh."
-    u "Oui, Lauren a dit quelque chose à propos d'un surnom que tu lui as donné, mais elle ne veut pas me le dire parce qu'elle pense que je vais rire."
+    u "Oui, Lauren a dit quelque chose à propos d'un surnom que tu lui as donné, mais elle ne veut pas me le dire parce qu'elle crois que je vais rire."
 
 # game/v11/scene46.rpy:335
 translate francais v11_dinner_with_lauren_640c1509:
 
     # imre "Haha, you will, I would tell you myself but I'd rather her not send Amber after me. *Chuckles* Later man."
-    imre "Haha, tu l'feras, j'te l'dirais bien moi-même mais j'préfère qu'elle envoie pas Amber après moi. *Rire* À plus tard mec."
+    imre "Haha, tu l'feras, c'est sûr ! J'te l'dirais bien moi-même mais j'préfère qu'elle envoie pas Amber après moi. *Rire* À plus tard mec."
 
 # game/v11/scene46.rpy:345
 translate francais v11_dinner_with_lauren_a0b3b901:
@@ -466,13 +466,13 @@ translate francais v11_dinner_with_lauren_8d402e41:
 translate francais v11_dinner_with_lauren_d3ddb66d:
 
     # imre "Later bro, I've said way too much."
-    imre "Plus tard, mon frère, j'en ai trop dit."
+    imre "À plus tard, mon frère, j'en ai trop dit."
 
 # game/v11/scene46.rpy:421
 translate francais v11_dinner_with_lauren_c770f35a:
 
     # u "*Laughs* (What the hell is he on about?)"
-    u "*Rire* (Mais de quoi parle-t-il ?)"
+    u "*Rire* (Mais qu'est-ce qu'il raconte ?)"
 
 # game/v11/scene46.rpy:426
 translate francais v11_dinner_with_lauren_b54ff8c1:
@@ -484,4 +484,4 @@ translate francais v11_dinner_with_lauren_b54ff8c1:
 translate francais v11_dinner_with_lauren_56d31ff1:
 
     # u "(A nice dinner and a relaxing walk... Not a bad night, Mr. Lee.)"
-    u "(Un bon dîner et une promenade relaxante... Pas une mauvaise nuit, Mr Lee.)"
+    u "(Un bon dîner et une promenade relaxante... C'est pas une mauvaise soirée, Mr Lee.)"

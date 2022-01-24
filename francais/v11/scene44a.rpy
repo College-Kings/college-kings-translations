@@ -22,7 +22,7 @@ translate francais v11_rose_underground_f2301243:
 translate francais v11_rose_underground_0a18a0e6:
 
     # u "And I'm still in class."
-    u "Et je suis toujours en cours."
+    u "Et moi, je suis toujours en cours."
 
 # game/v11/scene44a.rpy:34
 translate francais v11_rose_underground_6d27a458:
@@ -184,19 +184,19 @@ translate francais v11_rose_underground_0af35966:
 translate francais v11_rose_underground_2d7e0918:
 
     # u "Pretty sure we stopped moving."
-    u "Je suis presque sûre qu'on a arrêté de bouger."
+    u "Je suis presque sûr qu'on a arrêté de bouger."
 
 # game/v11/scene44a.rpy:160
 translate francais v11_rose_underground_e096a4ff:
 
     # ro "*Sighs* It never ends. I'll text Mr. Lee and let him know we're having a little trouble."
-    ro "*Soupirs* Ça ne finira jamais. Je vais envoyer un message à Mr Lee pour lui dire qu'on a un petit problème."
+    ro "*Soupirs* Ça n'en finira jamais. Je vais envoyer un message à Mr Lee pour lui dire qu'on a un petit problème."
 
 # game/v11/scene44a.rpy:165
 translate francais v11_rose_underground_6a74ec1b:
 
     # ro "*Sighs* Of course, there's no service down here. We'll just have to wait it out. Sometimes it really just feels like the universe is out to get me."
-    ro "*Soupirs* Bien sûr, il n'y a pas de réseau ici. On va devoir attendre. Parfois, j'ai vraiment l'impression que l'univers est là pour me mettre des bâtons dans les roues."
+    ro "*Soupirs* Et bien sûr, il n'y a pas de réseau ici ! On va devoir attendre. Parfois, j'ai vraiment l'impression que le monde entier cherche à me nuire."
 
 # game/v11/scene44a.rpy:172
 translate francais v11_rose_underground_ae8c2835:
@@ -214,7 +214,7 @@ translate francais v11_rose_underground_f22a0ec9:
 translate francais v11_rose_underground_f4d5468f:
 
     # u "It's not. Like you said, enjoy the quiet moments. I'm not sure how long we'll be stuck here, but at least you can relax."
-    u "Ce n'est pas le cas. Comme tu l'as dit, profite des moments de calme. Je ne sais pas combien de temps on va rester coincés ici, mais au moins tu peux te détendre."
+    u "C'est pas faux. Mais comme tu l'as dit, \"profite des moments de calme\". Je ne sais pas combien de temps on va rester coincés ici, mais au moins tu peux te détendre."
 
 # game/v11/scene44a.rpy:183
 translate francais v11_rose_underground_4b5c11c5:
@@ -256,4 +256,4 @@ translate francais v11_rose_underground_784ad714:
 translate francais v11_rose_underground_23a1a064:
 
     # ro "And... we're finally moving! Just another few minutes now, students."
-    ro "Et... on bouge enfin ! Encore quelques minutes maintenant, les jeunes."
+    ro "Et... c'est reparti ! Encore quelques minutes et on y est."

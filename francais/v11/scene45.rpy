@@ -16,19 +16,19 @@ translate francais v11_lobby_mrlee_99d86c6b:
 translate francais v11_lobby_mrlee_18d8ebc0:
 
     # lee "To the sights of, what would be underage students drinking at the bar..."
-    lee "Jusqu'aux vues de, voir des étudiants mineurs buvant au bar..."
+    lee "Jusqu'à voir des étudiants mineurs qui boivent au bar..."
 
 # game/v11/scene45.rpy:25
 translate francais v11_lobby_mrlee_1f467d75:
 
     # lee "The nostalgia while being at the museum and the deep dive into a dinosaur debate..."
-    lee "La nostalgie en étant au musée et la plongée profonde dans un débat sur les dinosaures..."
+    lee "La nostalgie ressentie en étant au musée et la plongée profonde dans un débat sur les dinosaures..."
 
 # game/v11/scene45.rpy:30
 translate francais v11_lobby_mrlee_1f467d75_1:
 
     # lee "The nostalgia while being at the museum and the deep dive into a dinosaur debate..."
-    lee "La nostalgie en étant au musée et la plongée profonde dans un débat sur les dinosaures..."
+    lee "La nostalgie ressentie en étant au musée et la plongée profonde dans un débat sur les dinosaures..."
 
 # game/v11/scene45.rpy:35
 translate francais v11_lobby_mrlee_30239010:
@@ -58,13 +58,13 @@ translate francais v11_lobby_mrlee_5b804b82_1:
 translate francais v11_lobby_mrlee_cd12922b:
 
     # lee "I know many of you were really looking forward to this trip, and I hope that so far it has reached your expectations, but if not... There are many more opportunities ahead."
-    lee "Je sais que beaucoup d'entre vous attendaient ce voyage avec impatience, et j'espère que jusqu'à présent, il a répondu à vos attentes, mais sinon... Il y a beaucoup d'autres expériences à venir."
+    lee "Je sais que beaucoup d'entre vous attendaient ce voyage avec impatience, et j'espère que jusqu'à présent, il a répondu à vos attentes. Si ce n'est pas le cas... Il y a beaucoup d'autres expériences à venir."
 
 # game/v11/scene45.rpy:60
 translate francais v11_lobby_mrlee_cd12922b_1:
 
     # lee "I know many of you were really looking forward to this trip, and I hope that so far it has reached your expectations, but if not... There are many more opportunities ahead."
-    lee "Je sais que beaucoup d'entre vous attendaient ce voyage avec impatience, et j'espère que jusqu'à présent, il a répondu à vos attentes, mais sinon... Il y a beaucoup d'autres expériences à venir."
+    lee "Je sais que beaucoup d'entre vous attendaient ce voyage avec impatience, et j'espère que jusqu'à présent, il a répondu à vos attentes. Si ce n'est pas le cas... Il y a beaucoup d'autres expériences à venir."
 
 # game/v11/scene45.rpy:66
 translate francais v11_lobby_mrlee_260d97f8:
@@ -82,7 +82,7 @@ translate francais v11_lobby_mrlee_260d97f8_1:
 translate francais v11_lobby_mrlee_c1219243:
 
     # imre "LET'S GOOOOO!"
-    imre "ALLONS-YYYYYY !"
+    imre "À TAAAAAABLE !"
 
 # game/v11/scene45.rpy:81
 translate francais v11_lobby_mrlee_37a5d34c:
@@ -94,7 +94,7 @@ translate francais v11_lobby_mrlee_37a5d34c:
 translate francais v11_lobby_mrlee_7033ab24:
 
     # lee "Tonight, we celebrate the experiences we've had so far and the fact that you're all legally allowed to drink here. *Chuckles* Please drink responsibly."
-    lee "Ce soir, nous célébrons les expériences que nous avons vécues jusqu'à présent et le fait que vous êtes tous légalement autorisés à boire ici. *Rire* S'il vous plaît, buvez de façon responsable."
+    lee "Ce soir, nous célébrons les expériences que nous avons vécues jusqu'à présent et le fait que vous êtes tous légalement autorisés à boire ici. *Rire* S'il vous plaît, buvez tout de même de façon responsable."
 
 # game/v11/scene45.rpy:83
 translate francais v11_lobby_mrlee_5790a066:
@@ -112,7 +112,7 @@ translate francais v11_lobby_mrlee_17a47d7a:
 translate francais v11_lobby_mrlee_68f2316e:
 
     # lee "Please everyone, sit wherever you'd like. They only allow two to a table so, choose enjoyable company. *Chuckles* I'll be sitting with anyone except for Ms. Rose..."
-    lee "S'il vous plaît tout le monde, asseyez-vous où vous voulez. Ils n'autorisent que deux personnes par table, alors choisissez une compagnie agréable. *Rire* Je m'assiérai avec n'importe qui sauf avec Mme Rose..."
+    lee "S'il vous plaît tout le monde, asseyez-vous où vous voulez. Ils n'autorisent que deux personnes par table, alors choisissez une compagnie agréable. *Rire* Je vais m'asseoir avec n'importe qui sauf avec Mme Rose..."
 
 # game/v11/scene45.rpy:112
 translate francais v11_lobby_mrlee_65b878ed:
@@ -215,4 +215,4 @@ translate francais strings:
 translate francais v11_lobby_mrlee_400a2f64_1:
 
     # lee "The feeling of fantasy as we rode in the carriages..."
-    lee "Cette sensation de fantastique alors que nous roulions dans les calèches..."
+    lee "Cette sensation fantastique alors que nous roulions dans les carrosses..."

@@ -154,7 +154,7 @@ translate francais v11_hotel_lobby_rose_37013baa:
 translate francais v11_hotel_lobby_rose_079cbcf2:
 
     # lee "You will be attending today, Imre."
-    lee "Tu seras présent aujourd'hui, Imre."
+    lee "Vous serez présent aujourd'hui, Imre."
 
 # game/v11/scene42.rpy:190
 translate francais v11_hotel_lobby_rose_4de5f804:
