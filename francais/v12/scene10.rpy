@@ -1,492 +1,529 @@
-# SCENE 10: Talk with Amber on the Bus
-# Locations: Bus
-# Characters: AMBER (Outfit: 1), MC (Outfit: 1), MS. ROSE (Outfit: 1), IMRE (Outfit: 2)
-# Time: Evening (Night when specified)
-# Phone Images: None
+﻿# TODO: Translation updated at 2021-12-22 16:14
 
-label v12_amber_bus:
-    scene v12amb1 # TPP. Show MC and Amber boarding the bus, both slight smiles, mouths closed
-    with dissolve
+# game/v12/scene10.rpy:28
+translate francais v12_amber_bus_b2581951:
 
-    pause 0.75
+    # am "So, earlier I ugh... nah, nevermind."
+    am "Donc, tout à l'heure, j'ai... nan, laisse tomber."
 
-    play music "music/v12/Track Scene 10.mp3" fadein 2
+# game/v12/scene10.rpy:33
+translate francais v12_amber_bus_9034dc1b:
 
-    scene v12amb2 # TPP. Show Amber taking a seat (she's on the window seat), MC still standing next to his seat (he will sit next to her), both slight smiles, mouths closed (Ms. Rose sitting on the other aisle with Imre, they're not in shot)
-    with dissolve
+    # u "Well, you can't just not tell me now. I know you wanted to talk about something and now I'm assuming it's important. What's up?"
+    u "Eh bien, tu ne peux pas simplement ne rien oser dire. Je sais que tu voulais parler de quelque chose et maintenant je devine que c'est important. Qu'est-ce qu'il y a ?"
 
-    pause 0.75
+# game/v12/scene10.rpy:38
+translate francais v12_amber_bus_093f58f8:
 
-    scene v12amb2a # TPP. Same as v12amb2, Amber sitting down, MC sitting down too, mouths closed, both slightly smiling
-    with dissolve
+    # am "I'll just keep it to myself."
+    am "Je vais juste garder ça pour moi."
 
-    pause 0.75
+# game/v12/scene10.rpy:50
+translate francais v12_amber_bus_75ef67a8:
 
-    scene v12amb3 # FPP. MC and Amber sitting down, looking at each other, Amber slightly worried, mouth open
-    with dissolve
+    # u "Hmmm, what could I do that would irritate you so much that you caved in and just told me what's going on?"
+    u "Hmmm, qu'est-ce que je pourrais faire pour te taquiner au point que tu cèdes et me dises ce qui se passe ?"
 
-    am "So, earlier I ugh... nah, nevermind."
+# game/v12/scene10.rpy:55
+translate francais v12_amber_bus_e6eca2be:
 
-    scene v12amb3a # FPP. Same as v12amb3, Amber mouth closed, slightly worried
-    with dissolve
+    # am "Whatever you did it probably wouldn't get me to say anything, but get you beat up instead. *Chuckles*"
+    am "Quoi que tu fasses, je ne dirais probablement rien, et à la place, tu te feras tabasser. *Rire*"
 
-    u "Well, you can't just not tell me now. I know you wanted to talk about something and now I'm assuming it's important. What's up?"
+# game/v12/scene10.rpy:60
+translate francais v12_amber_bus_053202c9:
 
-    scene v12amb3
-    with dissolve
+    # u "I may be willing to take that risk."
+    u "Je suis peut-être prêt à prendre ce risque."
 
-    am "I'll just keep it to myself."
+# game/v12/scene10.rpy:67
+translate francais v12_amber_bus_9afee920:
 
-    scene v12amb3a
-    with dissolve
+    # u "Maybe it's worth just getting it off your chest. Unless you'd rather go back and talk to one of your skateboards instead."
+    u "Peut-être que ça vaut la peine de faire sortir ça de ta tête. A moins que tu ne préfères retourner parler à l'un de tes skateurs à la place."
 
-    menu:
-        "Tease her":
-            $ v11_tease_amber += 1
-            $ add_point(KCT.TROUBLEMAKER)
-            scene v12amb3b # FPP. Same as v12amb3, Amber slight smile, mouth closed, different pose
-            with dissolve
+# game/v12/scene10.rpy:72
+translate francais v12_amber_bus_77e104d8:
 
-            u "Hmmm, what could I do that would irritate you so much that you caved in and just told me what's going on?"
+    # am "There's not much of a difference between you and the board. *Chuckles*"
+    am "Il n'y a pas beaucoup de différence entre toi et un jury. *Rire*"
 
-            scene v12amb3c # FPP. Same as v12amb3b, Amber slight smile, mouth open
-            with dissolve
+# game/v12/scene10.rpy:77
+translate francais v12_amber_bus_45363e1d:
 
-            am "Whatever you did it probably wouldn't get me to say anything, but get you beat up instead. *Chuckles*"
+    # u "How's that?"
+    u "Comment ça ?"
 
-            scene v12amb3b
-            with dissolve
+# game/v12/scene10.rpy:82
+translate francais v12_amber_bus_f03c46c3:
 
-            u "I may be willing to take that risk."
+    # am "You figure that one out."
+    am "Démerde-toi avec ça."
 
-        "Convince her":
-            $ add_point(KCT.BOYFRIEND)
-            scene v12amb3b
-            with dissolve
+# game/v12/scene10.rpy:87
+translate francais v12_amber_bus_321cbf41:
 
-            u "Maybe it's worth just getting it off your chest. Unless you'd rather go back and talk to one of your skateboards instead."
+    # u "I'm so confused. *Chuckles*"
+    u "Je suis perdu. *Rire*"
 
-            scene v12amb3c
-            with dissolve
+# game/v12/scene10.rpy:92
+translate francais v12_amber_bus_c1bc0cd0:
 
-            am "There's not much of a difference between you and the board. *Chuckles*"
+    # am "And the board would be too."
+    am "Et le jury le serait aussi."
 
-            scene v12amb3b
-            with dissolve
+# game/v12/scene10.rpy:97
+translate francais v12_amber_bus_fcc18885:
 
-            u "How's that?"
+    # u "*Laughs*"
+    u "*Rire*"
 
-            scene v12amb3c
-            with dissolve
+# game/v12/scene10.rpy:102
+translate francais v12_amber_bus_d2dffef4:
 
-            am "You figure that one out."
+    # am "Since you want to know so bad I guess I'll tell you. I do feel like I need to get it off my chest and I guess you're not the worst person to talk to. *Chuckles*"
+    am "Puisque tu veux tellement savoir, je vais te le dire. J'ai l'impression que j'ai besoin de me défouler et je pense que tu n'es pas la pire personne à qui parler. *Rire*"
 
-            scene v12amb3d # FPP. Same as v12amb3b, different pose
-            with dissolve
+# game/v12/scene10.rpy:107
+translate francais v12_amber_bus_6ffadd55:
 
-            u "I'm so confused. *Chuckles*"
+    # u "Thanks. *Chuckles*"
+    u "Merci. *Rire*"
 
-            scene v12amb3e # FPP. Same as v12amb3d, Amber mouth open, slight smile
-            with dissolve
+# game/v12/scene10.rpy:112
+translate francais v12_amber_bus_90694f1d:
 
-            am "And the board would be too."
+    # am "So ugh, I'm sure you've noticed Riley and I hanging out a lot."
+    am "Donc euh, je suis sûr que tu as remarqué que Riley et moi traînons beaucoup ensemble."
 
-            scene v12amb3d
-            with dissolve
+# game/v12/scene10.rpy:117
+translate francais v12_amber_bus_93452fcf:
 
-            u "*Laughs*"
+    # u "Yeah, like a lot a lot."
+    u "Ouais, genre beaucoup beaucoup."
 
-    scene v12amb3e
-    with dissolve
+# game/v12/scene10.rpy:122
+translate francais v12_amber_bus_f9f951ca:
 
-    am "Since you want to know so bad I guess I'll tell you. I do feel like I need to get it off my chest and I guess you're not the worst person to talk to. *Chuckles*"
+    # am "Yeah, it's been nice hanging out and getting to know her better. She's amazing."
+    am "Ouais, c'était sympa de traîner et d'apprendre à mieux la connaître. Elle est incroyable."
 
-    scene v12amb3d
-    with dissolve
+# game/v12/scene10.rpy:127
+translate francais v12_amber_bus_363b2ca7:
 
-    u "Thanks. *Chuckles*"
+    # u "Yep, I'm not seeing the problem yet."
+    u "Yep, je ne vois toujours pas où est le problème."
 
-    scene v12amb3
-    with dissolve
+# game/v12/scene10.rpy:132
+translate francais v12_amber_bus_b264eb87:
 
-    am "So ugh, I'm sure you've noticed Riley and I hanging out a lot."
+    # am "Well, she thinks I'm amazing too."
+    am "Eh bien, elle pense que je suis incroyable aussi."
 
-    scene v12amb3b
-    with dissolve
+# game/v12/scene10.rpy:137
+translate francais v12_amber_bus_c7c95b20:
 
-    u "Yeah, like a lot a lot."
+    # u "*Cough* Suck up."
+    u "*Toux* Lèche-bottes."
 
-    scene v12amb3c
-    with dissolve
+# game/v12/scene10.rpy:142
+translate francais v12_amber_bus_181d0df7:
 
-    am "Yeah, it's been nice hanging out and getting to know her better. She's amazing."
+    # am "*Chuckles* But it's not just that, we were hanging out there the other day and she said she wanted to like try stuff with me."
+    am "*Rire* Mais ce n'est pas seulement ça, on traînait ensemble l'autre jour et elle a dit qu'elle voulait essayer des trucs avec moi."
 
-    scene v12amb3b
-    with dissolve
+# game/v12/scene10.rpy:147
+translate francais v12_amber_bus_ee72ac89:
 
-    u "Yep, I'm not seeing the problem yet."
+    # u "Sounds like you'd be into that, no?"
+    u "On dirait que ça te plairait, non ?"
 
-    scene v12amb3e
-    with dissolve
+# game/v12/scene10.rpy:152
+translate francais v12_amber_bus_6e64694f:
 
-    am "Well, she thinks I'm amazing too."
+    # am "Normally I would be, but I think she's looking for a lot more lovey dovey exploration and a lot less fun messing around kind of stuff."
+    am "Normalement, je le ferais, mais je pense qu'elle cherche beaucoup plus d'exploration amoureuse et beaucoup moins de trucs amusants."
 
-    scene v12amb3d
-    with dissolve
+# game/v12/scene10.rpy:157
+translate francais v12_amber_bus_5ac0a375:
 
-    u "*Cough* Suck up."
+    # u "Oh, now I'm getting it. You don't wanna be her teacher."
+    u "Oh, maintenant je comprends. Tu ne veux pas être son professeur."
 
-    scene v12amb3c
-    with dissolve
+# game/v12/scene10.rpy:162
+translate francais v12_amber_bus_e684942f:
 
-    am "*Chuckles* But it's not just that, we were hanging out there the other day and she said she wanted to like try stuff with me."
+    # am "It's not just that, I just feel like this is really serious for her and she wants to experiment with other girls and she's all fragile and shit."
+    am "Ce n'est pas seulement ça, j'ai juste l'impression que c'est vraiment sérieux pour elle, qu'elle veut expérimenter avec d'autres filles, mais qu'elle est toute fragile, tout ça."
 
-    scene v12amb3f # FPP. Same as v12amb3a, different pose
-    with dissolve
+# game/v12/scene10.rpy:164
+translate francais v12_amber_bus_9b8ac141:
 
-    u "Sounds like you'd be into that, no?"
+    # am "I just wanna have fun. I just don't think we're a good match, you know? On the ferry we talked about it a little bit, but got interrupted by Mr. Lee."
+    am "Je veux juste m'amuser. Je ne pense pas que nous soyons compatibles, tu vois ? Sur le ferry, on en a parlé un peu, mais on a été interrompu par Mr Lee."
 
-    scene v12amb3g # FPP. Same as v12amb3f, Amber slightly worried, mouth open
-    with dissolve
+# game/v12/scene10.rpy:165
+translate francais v12_amber_bus_be71f740:
 
-    am "Normally I would be, but I think she's looking for a lot more lovey dovey exploration and a lot less fun messing around kind of stuff."
+    # am "So I didn't really get to fully explain and I think she may be upset."
+    am "Je n'ai pas vraiment pu lui expliquer et je crains qu'elle ne soit contrariée."
 
-    scene v12amb3f
-    with dissolve
+# game/v12/scene10.rpy:170
+translate francais v12_amber_bus_6b65062a:
 
-    u "Oh, now I'm getting it. You don't wanna be her teacher."
+    # u "Riley's not really the hold a grudge and hate you forever type."
+    u "Riley n'est pas vraiment du genre à garder rancune et à te détester indéfiniment."
 
-    scene v12amb3g
-    with dissolve
+# game/v12/scene10.rpy:175
+translate francais v12_amber_bus_d4fdf8b9:
 
-    am "It's not just that, I just feel like this is really serious for her and she wants to experiment with other girls and she's all fragile and shit."
-    
-    am "I just wanna have fun. I just don't think we're a good match, you know? On the ferry we talked about it a little bit, but got interrupted by Mr. Lee."
-    am "So I didn't really get to fully explain and I think she may be upset."
+    # am "I'm hoping so, cause I'd still like to be cool with her, but just as friends foolin' around like we have been, none of that serious stuff."
+    am "Je l'espère, parce que j'aimerais toujours être proche d'elle, mais juste en tant qu'amies qui prennent du bon temps comme nous l'avons fait, sans rien de sérieux."
 
-    scene v12amb3a
-    with dissolve
+# game/v12/scene10.rpy:180
+translate francais v12_amber_bus_925714fd:
 
-    u "Riley's not really the hold a grudge and hate you forever type."
+    # u "When are you planning to sit and explain things to her?"
+    u "Quand as-tu l'intention d'aller la voir et de lui expliquer les choses ?"
 
-    scene v12amb3
-    with dissolve
+# game/v12/scene10.rpy:185
+translate francais v12_amber_bus_f4e31c1e:
 
-    am "I'm hoping so, cause I'd still like to be cool with her, but just as friends foolin' around like we have been, none of that serious stuff."
+    # am "I don't know if I am, I may just leave it as it is."
+    am "Je ne sais pas si je suis prête, je vais peut-être laisser la situation telle quelle."
 
-    scene v12amb3a
-    with dissolve
+# game/v12/scene10.rpy:192
+translate francais v12_amber_bus_7b06b9be:
 
-    u "When are you planning to sit and explain things to her?"
+    # u "It's all your decision, I don't wanna sway you either way. It's gotta be your choice."
+    u "C'est ta décision, je ne veux pas te faire pencher d'un côté ou de l'autre. C'est à toi de choisir."
 
-    scene v12amb3g
-    with dissolve
+# game/v12/scene10.rpy:197
+translate francais v12_amber_bus_dd2d4234:
 
-    am "I don't know if I am, I may just leave it as it is."
+    # am "*Sighs* I appreciate that, but I think part of me was hoping to be pushed one way or the other."
+    am "*Soupirs* J'apprécie, mais je pense qu'une partie de moi espérait être poussée à prendre une décision."
 
-    scene v12amb3f
-    with dissolve
+# game/v12/scene10.rpy:202
+translate francais v12_amber_bus_b72971f2:
 
-    menu:
-        "Stay out of it":
-            u "It's all your decision, I don't wanna sway you either way. It's gotta be your choice."
+    # u "At the end of the day you're gonna do what you want though no matter what I say right?"
+    u "À la fin de la journée, tu feras ce que tu veux, peu importe ce que je dis, non ?"
 
-            scene v12amb3g
-            with dissolve
+# game/v12/scene10.rpy:207
+translate francais v12_amber_bus_a5d63c97:
 
-            am "*Sighs* I appreciate that, but I think part of me was hoping to be pushed one way or the other."
+    # am "*Chuckles* Yeah that's true."
+    am "*Rire* Oui, c'est vrai."
 
-            scene v12amb3b
-            with dissolve
+# game/v12/scene10.rpy:212
+translate francais v12_amber_bus_46698d44:
 
-            u "At the end of the day you're gonna do what you want though no matter what I say right?"
+    # u "Exactly."
+    u "Voilà."
 
-            scene v12amb3c
-            with dissolve
+# game/v12/scene10.rpy:218
+translate francais v12_amber_bus_105aaf96:
 
-            am "*Chuckles* Yeah that's true."
+    # u "You should just get it over with and tell her what's up."
+    u "Tu devrais juste en finir avec ça et lui dire ce qui se passe."
 
-            scene v12amb3b
-            with dissolve
+# game/v12/scene10.rpy:223
+translate francais v12_amber_bus_7a88d94e:
 
-            u "Exactly."
+    # am "And if she doesn't respond well or I hurt her feelings?"
+    am "Et si elle ne répond pas correctement ou si je la blesse ?"
 
-        "Say something":
-            $ add_point(KCT.BRO)
+# game/v12/scene10.rpy:228
+translate francais v12_amber_bus_a56fb8dc:
 
-            u "You should just get it over with and tell her what's up."
+    # u "Then at least you were honest with her, and with yourself."
+    u "Alors au moins tu auras été honnête avec elle, et avec toi-même."
 
-            scene v12amb3g
-            with dissolve
+# game/v12/scene10.rpy:233
+translate francais v12_amber_bus_1c8acf17:
 
-            am "And if she doesn't respond well or I hurt her feelings?"
+    # am "..."
+    am "..."
 
-            scene v12amb3a
-            with dissolve
+# game/v12/scene10.rpy:238
+translate francais v12_amber_bus_8d402e41:
 
-            u "Then at least you were honest with her, and with yourself."
+    # u "What? *Chuckles*"
+    u "Quoi ? *Rire*"
 
-            scene v12amb3
-            with dissolve
+# game/v12/scene10.rpy:243
+translate francais v12_amber_bus_38dcf04e:
 
-            am "..."
+    # am "You think you know me pretty well huh?"
+    am "Tu penses que tu me connais assez bien, hein ?"
 
-            scene v12amb3b
-            with dissolve
+# game/v12/scene10.rpy:248
+translate francais v12_amber_bus_beeb9bbf:
 
-            u "What? *Chuckles*"
+    # u "Yeah, your personality is written on your forehead. *Chuckles*"
+    u "Oui, on peut lire en toi comme dans un livre ouvert. *Rire*"
 
-    scene v12amb3c
-    with dissolve
+# game/v12/scene10.rpy:253
+translate francais v12_amber_bus_c3856155:
 
-    am "You think you know me pretty well huh?"
+    # am "If that was the case, how would you know anything about me? You can't read."
+    am "Si c'était le cas, comment saurais-tu quoi que ce soit sur moi ? Tu ne sais pas lire."
 
-    scene v12amb3d
-    with dissolve
+# game/v12/scene10.rpy:258
+translate francais v12_amber_bus_ea56f5b2:
 
-    u "Yeah, your personality is written on your forehead. *Chuckles*"
+    # u "See, my point exactly. *Laughs* You always show your true self."
+    u "Tu vois, c'est exactement ce que je veux dire. *Rire* Tu montres toujours ton vrai visage."
 
-    scene v12amb3e
-    with dissolve
+# game/v12/scene10.rpy:263
+translate francais v12_amber_bus_707dcbae:
 
-    am "If that was the case, how would you know anything about me? You can't read."
+    # am "Never a reason not to."
+    am "Aucune raison de ne pas le faire."
 
-    scene v12amb3d
-    with dissolve
+# game/v12/scene10.rpy:268
+translate francais v12_amber_bus_73d483ce:
 
-    u "See, my point exactly. *Laughs* You always show your true self."
+    # u "This is kinda weird, I gotta be honest."
+    u "Honnêtement, c'est un peu bizarre."
 
-    scene v12amb3c
-    with dissolve
+# game/v12/scene10.rpy:273
+translate francais v12_amber_bus_780537f7:
 
-    am "Never a reason not to."
+    # am "What?"
+    am "Quoi ?"
 
-    scene v12amb3b
-    with dissolve
+# game/v12/scene10.rpy:278
+translate francais v12_amber_bus_cc7e7897:
 
-    u "This is kinda weird, I gotta be honest."
+    # u "Having a heart to heart conversation with you, I just never would've expected that."
+    u "Avoir une conversation à cœur ouvert avec toi, je ne m'y attendais vraiment pas."
 
-    scene v12amb3c
-    with dissolve
+# game/v12/scene10.rpy:283
+translate francais v12_amber_bus_6aef9a90:
 
-    am "What?"
+    # am "Don't get used to it, this was a special occasion."
+    am "Ne t'y habitue pas, c'était une occasion spéciale."
 
-    scene v12amb3h # FPP. Same as v12amb3d, different pose
-    with dissolve
+# game/v12/scene10.rpy:288
+translate francais v12_amber_bus_05ce79e8:
 
-    u "Having a heart to heart conversation with you, I just never would've expected that."
+    # u "And you think you're safe from any more special occasions?"
+    u "Et tu penses que tu es à l'abri de toute autre occasion spéciale ?"
 
-    scene v12amb3i # FPP. Same as v12amb3h, Amber mouth open, slight smile
-    with dissolve
+# game/v12/scene10.rpy:293
+translate francais v12_amber_bus_ce4d34b1:
 
-    am "Don't get used to it, this was a special occasion."
+    # am "Maybe not, but I'll be a bit more vigilant from now on."
+    am "Peut-être pas, mais je serai un peu plus vigilande à partir de maintenant."
 
-    scene v12amb3h
-    with dissolve
+# game/v12/scene10.rpy:298
+translate francais v12_amber_bus_d641ecec:
 
-    u "And you think you're safe from any more special occasions?"
+    # u "Woah, big words. Was that your word of the day or something? *Chuckles*"
+    u "Woah, de grands mots. C'était ton mot du jour ou quoi ? *Rire*"
 
-    scene v12amb3i
-    with dissolve
+# game/v12/scene10.rpy:303
+translate francais v12_amber_bus_f7565f4b:
 
-    am "Maybe not, but I'll be a bit more vigilant from now on."
+    # am "Vigilant is not a big word, you just have a fifth grade education."
+    am "Vigilande n'est pas un grand mot, tu as juste une éducation de CM2."
 
-    scene v12amb3d
-    with dissolve
+# game/v12/scene10.rpy:308
+translate francais v12_amber_bus_4d6d2f21:
 
-    u "Woah, big words. Was that your word of the day or something? *Chuckles*"
+    # u "Spell it, smartass."
+    u "Épelle-le, petite maline."
 
-    scene v12amb3e
-    with dissolve
+# game/v12/scene10.rpy:313
+translate francais v12_amber_bus_8f6ba836:
 
-    am "Vigilant is not a big word, you just have a fifth grade education."
+    # am "Why? I obviously know the word and know how to use it, so why do I need to spell it?"
+    am "Pourquoi ? Je connais le mot et je sais comment l'utiliser, alors pourquoi dois-je l'épeler ?"
 
-    scene v12amb3h
-    with dissolve
+# game/v12/scene10.rpy:318
+translate francais v12_amber_bus_31c69529:
 
-    u "Spell it, smartass."
+    # u "Since you wanna talk shit go ahead and spell the word."
+    u "Puisque tu veux dire des conneries, vas-y, épelle le mot."
 
-    scene v12amb3c
-    with dissolve
+# game/v12/scene10.rpy:323
+translate francais v12_amber_bus_ebdd18bc:
 
-    am "Why? I obviously know the word and know how to use it, so why do I need to spell it?"
+    # am "What makes you think I can't?"
+    am "Qu'est-ce qui te fait penser que je ne peux pas ?"
 
-    scene v12amb3b
-    with dissolve
+# game/v12/scene10.rpy:328
+translate francais v12_amber_bus_30aad37a:
 
-    u "Since you wanna talk shit go ahead and spell the word."
+    # u "Cause you pronounce it funny as hell."
+    u "Parce que tu le prononces bizarrement."
 
-    scene v12amb3i
-    with dissolve
+# game/v12/scene10.rpy:333
+translate francais v12_amber_bus_24d14ebf:
 
-    am "What makes you think I can't?"
+    # am "Fine, it's V-I-G-I-L-I-N-T, vigilant."
+    am "Bien, c'est V-I-G-I-L-A-N-D-E, vigilande."
 
-    scene v12amb3h
-    with dissolve
+# game/v12/scene10.rpy:338
+translate francais v12_amber_bus_fcc18885_1:
 
-    u "Cause you pronounce it funny as hell."
+    # u "*Laughs*"
+    u "*Rire*"
 
-    scene v12amb3i
-    with dissolve
+# game/v12/scene10.rpy:343
+translate francais v12_amber_bus_cb9d3fee:
 
-    am "Fine, it's V-I-G-I-L-I-N-T, vigilant."
+    # am "What's so funny? I spelt it right."
+    am "Qu'est-ce qui est si drôle ? Je l'ai bien épelé."
 
-    scene v12amb3d
-    with dissolve
+# game/v12/scene10.rpy:348
+translate francais v12_amber_bus_508965fb:
 
-    u "*Laughs*"
+    # u "No you didn't. *Laughs* It's \"lant\" not \"lint\". You kept saying lint so I knew you'd spell it wrong. *Laughs*"
+    u "Non, tu ne l'as pas bien fait. *Rire* C'est \"lante\" et non \"lande\". Tu n'arrêtais pas de dire \"lande\" alors je savais que tu l'épellerais mal. *Rire*"
 
-    scene v12amb3e
-    with dissolve
+# game/v12/scene10.rpy:353
+translate francais v12_amber_bus_21fcae7c:
 
-    am "What's so funny? I spelt it right."
+    # am "There's no way!"
+    am "C'est impossible !"
 
-    scene v12amb3d
-    with dissolve
+# game/v12/scene10.rpy:358
+translate francais v12_amber_bus_9a4f5cbc:
 
-    u "No you didn't. *Laughs* It's \"lant\" not \"lint\". You kept saying lint so I knew you'd spell it wrong. *Laughs*"
+    # u "So what, superheroes are \"vigilinties\"? *Laughs*"
+    u "Alors quoi, les super-héros sont les \"Vigilandes\" ? *Rire*"
 
-    scene v12amb3i
-    with dissolve
+# game/v12/scene10.rpy:363
+translate francais v12_amber_bus_7ad5083f:
 
-    am "There's no way!"
+    # am "How do you spell vigilant?"
+    am "Alors, comment épelles-tu \"vigilante\" ?"
 
-    scene v12amb3h
-    with dissolve
+# game/v12/scene10.rpy:368
+translate francais v12_amber_bus_bde3b716:
 
-    u "So what, superheroes are \"vigilinties\"? *Laughs*"
+    # ro "Sound it out."
+    ro "Écoutez-le."
 
-    scene v12amb3j # FPP. Same as v12amb3, Amber leaning forwards, looking across the aisle to Ms. Rose, Amber neutral expression, mouth open
-    with dissolve
+# game/v12/scene10.rpy:373
+translate francais v12_amber_bus_93ff3184:
 
-    am "How do you spell vigilant?"
+    # imre "*Laughs*"
+    imre "*Rire*"
 
-    scene v12amb4 # FPP. MC looking at Ms. Rose, Ms. Rose sitting on across from MC, show Imre leaning forward, both of them smiling, Ms. Rose mouth open, Imre mouth closed, both of them looking at Amber's direction
-    with dissolve
+# game/v12/scene10.rpy:378
+translate francais v12_amber_bus_36385b0d:
 
-    ro "Sound it out."
+    # am "Shut up."
+    am "Taisez-vous."
 
-    scene v12amb4a # FPP. Same as v12amb4, Ms. Rose mouth closed, Imre mouth open, both smiling
-    with dissolve
+# game/v12/scene10.rpy:383
+translate francais v12_amber_bus_c62821ba:
 
-    imre "*Laughs*"
+    # imre "She said \"sound it out\" like you were in elementary school."
+    imre "Elle a dit \"écoutez-le\" comme si t'étais à l'école primaire."
 
-    scene v12amb3k # FPP. Same as v12amb3j, Amber looking at Imre's direction, Amber slightly annoyed, mouth open
-    with dissolve
+# game/v12/scene10.rpy:388
+translate francais v12_amber_bus_4bee62f1:
 
-    am "Shut up."
+    # am "Okay fine, maybe I am wrong, it's not my fault people around me don't know how to talk."
+    am "Bon, d'accord, peut-être que j'ai tort, ce n'est pas ma faute si les gens autour de moi ne savent pas parler."
 
-    scene v12amb4a
-    with dissolve
+# game/v12/scene10.rpy:393
+translate francais v12_amber_bus_e396879c:
 
-    imre "She said \"sound it out\" like you were in elementary school."
+    # u "Don't pass the blame, cause \"you have a fifth grade education\"."
+    u "Ne rejette pas la faute sur les autres, car \"tu as une éducation de CM2\"."
 
-    scene v12amb3k
-    with dissolve
+# game/v12/scene10.rpy:399
+translate francais v12_amber_bus_feeda707:
 
-    am "Okay fine, maybe I am wrong, it's not my fault people around me don't know how to talk."
+    # u "Ow!"
+    u "Aïe !"
 
-    scene v12amb3l # FPP. Same as v12amb3k, Amber looking at MC, Amber slightly annoyed, mouth closed
-    with dissolve
+# game/v12/scene10.rpy:404
+translate francais v12_amber_bus_ff9337b9:
 
-    u "Don't pass the blame, cause \"you have a fifth grade education\"."
+    # am "Anymore jokes and I'll hit you harder than Grayson did."
+    am "Encore une blague et je te frappe plus fort que Grayson."
 
-    play sound "sounds/facepunch1.mp3"
-    scene v12amb3m # FPP. Same as v12amb3i, Amber slightly annoyed, mouth closed, punching MC in the arm
-    with vpunch
+# game/v12/scene10.rpy:409
+translate francais v12_amber_bus_93ff3184_1:
 
-    u "Ow!"
+    # imre "*Laughs*"
+    imre "*Rire*"
 
-    scene v12amb3n # FPP. Same as v12amb3m, Amber not punching MC anymore, Amber slightly annoyed, mouth open
-    with dissolve
+# game/v12/scene10.rpy:414
+translate francais v12_amber_bus_59821d01:
 
-    am "Anymore jokes and I'll hit you harder than Grayson did."
+    # u "Not cool."
+    u "C'est pas cool."
 
-    scene v12amb4a
-    with dissolve
+# game/v12/scene10.rpy:419
+translate francais v12_amber_bus_6d14a65d:
 
-    imre "*Laughs*"
+    # am "Yeah, not so funny anymore huh? *Chuckles*"
+    am "Ouais, c'est plus si drôle, hein ? *Rire*"
 
-    scene v12amb3h
-    with dissolve
+# game/v12/scene10.rpy:424
+translate francais v12_amber_bus_c55d3d0b:
 
-    u "Not cool."
+    # u "Yeah, whatever."
+    u "Ouais, peu importe."
 
-    scene v12amb3i
-    with dissolve
+# game/v12/scene10.rpy:439
+translate francais v12_amber_bus_799471c8:
 
-    am "Yeah, not so funny anymore huh? *Chuckles*"
+    # am "Thanks for being a good friend, [name]."
+    am "Merci d'être un si bon ami, [name]."
 
-    scene v12amb3d
-    with dissolve
+# game/v12/scene10.rpy:444
+translate francais v12_amber_bus_9fb611a7:
 
-    u "Yeah, whatever."
+    # u "You too."
+    u "Toi aussi."
 
-    scene v12amb2b # TPP. Same as v12amb2a, Show MC and Amber sitting in their seats, Amber looking out the window, MC looking forward, both neutral expressions, mouths closed
-    with dissolve
+# game/v12/scene10.rpy:449
+translate francais v12_amber_bus_7785016a:
 
-    pause 0.75
+    # am "I think I'm gonna talk to her and just be straight up about it."
+    am "Je pense que je vais lui parler et être franche avec elle."
 
-    scene v12amb2c # TPP. Same as v12amb2b, Show Amber looking at her phone, MC looking out the window, both neutral expressions, mouths closed
-    with fade
+# game/v12/scene10.rpy:454
+translate francais v12_amber_bus_f16af893:
 
-    pause 0.75
+    # u "That's probably best."
+    u "C'est sûrement mieux."
 
-    scene v12amb3i
-    with fade
+# game/v12/scene10.rpy:459
+translate francais v12_amber_bus_5ce1ab64:
 
-    am "Thanks for being a good friend, [name]."
+    # am "Hopefully her and I are still cool."
+    am "Espérons qu'elle et moi serons toujours cool."
 
-    scene v12amb3h
-    with dissolve
+# game/v12/scene10.rpy:464
+translate francais v12_amber_bus_edff4934:
 
-    u "You too."
+    # u "I'm sure it'll be fine."
+    u "Je suis sûr que ça ira."
 
-    scene v12amb3
-    with dissolve
+# game/v12/scene10.rpy:469
+translate francais v12_amber_bus_a45ac736:
 
-    am "I think I'm gonna talk to her and just be straight up about it."
+    # u "*Chuckles* Worse than a toddler."
+    u "*Rire* Sale gosse."
 
-    scene v12amb3a
-    with dissolve
+# game/v12/scene10.rpy:474
+translate francais v12_amber_bus_d406d8fd:
 
-    u "That's probably best."
+    # am "Hush and be a good pillow."
+    am "Tais-toi et sois un bon oreiller."
 
-    scene v12amb3
-    with dissolve
+translate francais strings:
 
-    am "Hopefully her and I are still cool."
-
-    scene v12amb3a
-    with dissolve
-
-    u "I'm sure it'll be fine."
-
-    scene v12amb3o # FPP. Same as v12amb3, MC and Amber sitting down in the bus, Amber laying her head on MC's shoulder, looking slightly at MC, Amber mouth closed, slight smile
-    with dissolve
-
-    u "*Chuckles* Worse than a toddler."
-
-    scene v12amb3p # FPP. Same as v12amb30, Amber mouth open, slight smile
-    with dissolve
-
-    am "Hush and be a good pillow."
-
-    scene v12amb2d # TPP. Same as v12amb2c, Amber laying her head on MC's shoulder sleeping, MC sleeping too, both mouths closed (Night time here)
-    with dissolve
-
-    pause 1.25
-
-    scene v12amb2e # TPP. Same as v12amb2d, Show MC and Amber yawning as they wake up (Night time here)
-    with fade
-
-    pause 1
-
-    scene v12amb2f # TPP. Show MC and Amber getting off the bus (Camera inside bus, MC and Amber have their backs to the camera, night time here)
-    with fade
-
-    pause 1
-
-    stop music fadeout 3
-
-    jump v12_paris_hotel #scene 11
+    # game/v12/scene10.rpy:190
+    old "Stay out of it"
+    new "Restez en dehors de ça"

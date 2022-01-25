@@ -1,534 +1,497 @@
-# SCENE 20: Urban Exploring at the Baguette Factory
-# Locations: Baguette Factory
-# Characters: AUBREY (Outfit: x), NORA (Outfit: x), IMRE (Outfit: x), MC (Outfit: x)
-# Time: Saturday
-# Phone Images: 
+﻿# TODO: Translation updated at 2021-12-28 15:56
 
-label v12_urban_exploring:
-    scene v12uex1 # TPP Show Imre, Aubrey, Nora, and MC walking and along sidewalk in Paris
-    with fade
+# game/v12/scene20.rpy:18
+translate francais v12_urban_exploring_2e5ee5b4:
 
-    pause 0.75
+    # au "What... is this?"
+    au "Qu'est-ce que... c'est ?"
 
-    play music "music/v12/Track Scene 20.mp3" fadein 2
+# game/v12/scene20.rpy:20
+translate francais v12_urban_exploring_a8e297d8:
 
-    scene v12uex2 # FPP Show outside of abandoned commercial bakery
-    with dissolve
+    # no "Uhh, it's the factory...? I think..."
+    no "Euhh, c'est l'usine... ? Je crois..."
 
-    au "What... is this?"
+# game/v12/scene20.rpy:25
+translate francais v12_urban_exploring_5160f7a2:
 
-    no "Uhh, it's the factory...? I think..."
+    # au "Not what I was expecting."
+    au "C'est pas ce à quoi je m'attendais."
 
-    scene v12uex3 # FPP Show Aubrey, outside factory, neutral expression and mouth open
-    with dissolve
+# game/v12/scene20.rpy:30
+translate francais v12_urban_exploring_ae377102:
 
-    au "Not what I was expecting."
+    # no "Me either. *Chuckles* I thought it was a working factory."
+    no "Moi non plus. *Rire* Je pensais que l'usine fonctionnait toujours."
 
-    scene v12uex4 # FPP Show Nora, outside factory, smiling with mouth open
-    with dissolve
+# game/v12/scene20.rpy:35
+translate francais v12_urban_exploring_5ade2ac8:
 
-    no "Me either. *Chuckles* I thought it was a working factory."
+    # imre "Working for the rats. *Chuckles*"
+    imre "Elle fonctionne pour les rats. *Rire*"
 
-    scene v12uex2
-    with dissolve
+# game/v12/scene20.rpy:40
+translate francais v12_urban_exploring_16120765:
 
-    imre "Working for the rats. *Chuckles*"
+    # no "This kinda reminds me of my old school yard where we had recess."
+    no "Ça me rappelle la cour de mon ancienne école dans laquelle on faisait la récréation."
 
-    scene v12uex4
-    with dissolve
+# game/v12/scene20.rpy:45
+translate francais v12_urban_exploring_6f5a037c:
 
-    no "This kinda reminds me of my old school yard where we had recess."
+    # imre "Oh man... I was the coolest kid at recess."
+    imre "Oh j'me souviens... J'étais l'enfant l'plus cool à la récréation."
 
-    scene v12uex5 # FPP Show Imre, outside factory, smiling with mouth open
-    with dissolve
+# game/v12/scene20.rpy:50
+translate francais v12_urban_exploring_0ee913ba:
 
-    imre "Oh man... I was the coolest kid at recess."
+    # au "You were probably the kid during freeze tag that got frozen right away and no one wanted to untag. *Laughs"
+    au "Tu étais probablement l'enfant qui a été congelé tout de suite et que personne ne voulait détacher pendant le jeu du chat gelé. *Rire*"
 
-    scene v12uex3a # FPP Same angle as v12uex3, Aubrey smiling with mouth open
-    with dissolve
+# game/v12/scene20.rpy:55
+translate francais v12_urban_exploring_0eb43631:
 
-    au "You were probably the kid during freeze tag that got frozen right away and no one wanted to untag. *Laughs"
+    # imre "And you were probably the kid during hide and seek that no one ever cared to find."
+    imre "Et toi, t'étais probablement la gamine pendant le jeu d'cache-cache que personne cherchait jamais."
 
-    scene v12uex5
-    with dissolve
+# game/v12/scene20.rpy:60
+translate francais v12_urban_exploring_e51d8799:
 
-    imre "And you were probably the kid during hide and seek that no one ever cared to find."
+    # au "*Laughs* Nice comeback, Imre. You're improving a lot. I'm proud."
+    au "*Rire* Bonne répartie, Imre. Tu t'améliores beaucoup. Je suis fière de toi."
 
-    scene v12uex3a
-    with dissolve
+# game/v12/scene20.rpy:65
+translate francais v12_urban_exploring_4f6d363c:
 
-    au "*Laughs* Nice comeback, Imre. You're improving a lot. I'm proud."
+    # no "Aubrey, weren't you a cheerleader?"
+    no "Aubrey, tu n'étais pas une pom-pom girl ?"
 
-    scene v12uex4
-    with dissolve
+# game/v12/scene20.rpy:70
+translate francais v12_urban_exploring_132d5586:
 
-    no "Aubrey, weren't you a cheerleader?"
+    # au "Yeah, I was."
+    au "Si, j'en étais une."
 
-    scene v12uex3a
-    with dissolve
+# game/v12/scene20.rpy:75
+translate francais v12_urban_exploring_deafd27c:
 
-    au "Yeah, I was."
+    # no "I did gymnastics as a kid, do you remember any of your tumbling?"
+    no "Je faisais de la Gym quand j'étais enfant, tu te souviens de tes acrobaties ?"
 
-    scene v12uex4
-    with dissolve
+# game/v12/scene20.rpy:80
+translate francais v12_urban_exploring_18c29d86:
 
-    no "I did gymnastics as a kid, do you remember any of your tumbling?"
+    # au "I'm probably not as good as I used to be, but yeah. I'm sure I could pull off a few tricks."
+    au "Je ne suis sûrement pas aussi douée que je l'étais avant, mais oui. Je suis sûre que je pourrais faire quelques figures."
 
-    scene v12uex3a
-    with dissolve
+# game/v12/scene20.rpy:85
+translate francais v12_urban_exploring_1c87599e:
 
-    au "I'm probably not as good as I used to be, but yeah. I'm sure I could pull off a few tricks."
+    # u "Am I sensing a contest?"
+    u "Est-ce que je sens un concours ?"
 
-    scene v12uex6 # FPP Show Aubrey and Nora standing next to each other, looking at each other, smiling with mouths closed
-    with dissolve
+# game/v12/scene20.rpy:90
+translate francais v12_urban_exploring_388cf653:
 
-    u "Am I sensing a contest?"
+    # no "*Chuckles* What do you say Aubrey?"
+    no "*Rire* Qu'est-ce que tu en dis, Aubrey ?"
 
-    scene v12uex4
-    with dissolve
+# game/v12/scene20.rpy:95
+translate francais v12_urban_exploring_cb2eb4ac:
 
-    no "*Chuckles* What do you say Aubrey?"
+    # au "I never say no to a challenge, babe."
+    au "Je ne dis jamais non à un challenge, bébé."
 
-    scene v12uex3a
-    with dissolve
+# game/v12/scene20.rpy:100
+translate francais v12_urban_exploring_42da43cb:
 
-    au "I never say no to a challenge, babe."
+    # imre "Umm, hello? Still here, and I bet I can do stunts way better than you girls."
+    imre "Hum, allo ? J'suis toujours là, et j'parie que j'peux faire des cascades bien mieux que vous les filles."
 
-    scene v12uex5
-    with dissolve
+# game/v12/scene20.rpy:105
+translate francais v12_urban_exploring_27eb9cd3:
 
-    imre "Umm, hello? Still here, and I bet I can do stunts way better than you girls."
+    # no "Ha! Really?"
+    no "Ha ! Tu crois ?"
 
-    scene v12uex4
-    with dissolve
+# game/v12/scene20.rpy:110
+translate francais v12_urban_exploring_87133637:
 
-    no "Ha! Really?"
+    # imre "Hell yeah, I used to do stunts with my mom all the time."
+    imre "Bien sûr, j'avais tout l'temps l'habitude de faire des cascades avec ma mère."
 
-    scene v12uex5
-    with dissolve
+# game/v12/scene20.rpy:115
+translate francais v12_urban_exploring_6c53edd3:
 
-    imre "Hell yeah, I used to do stunts with my mom all the time."
+    # no "Okay then, show us something."
+    no "Ok, alors montre nous quelque chose."
 
-    scene v12uex4
-    with dissolve
+# game/v12/scene20.rpy:120
+translate francais v12_urban_exploring_a789bc61:
 
-    no "Okay then, show us something."
+    # imre "Bet."
+    imre "Pari tenu."
 
-    scene v12uex5
-    with dissolve
+# game/v12/scene20.rpy:135
+translate francais v12_urban_exploring_ade3a425:
 
-    imre "Bet."
+    # au "Oh shit Imre! You weren't lying, haha..."
+    au "Oh putain Imre ! Tu ne mentais pas, haha..."
 
-    scene v12uex7 # FPP Show Imre climbing up onto one of the concrete blocks
-    with dissolve
+# game/v12/scene20.rpy:140
+translate francais v12_urban_exploring_5811726d:
 
-    pause 0.5
+    # imre "Why would I lie? Besides, that was just a little warm up!"
+    imre "Pourquoi j'mentirais ? Et puis, c'était juste un petit échauffement !"
 
-    scene v12uex7a # FPP Same angle as v12uex7, Imre doing a backflip off of the concrete block
-    with dissolve
+# game/v12/scene20.rpy:145
+translate francais v12_urban_exploring_b2827ebf:
 
-    pause 0.5
+    # no "Oh, you got more?"
+    no "Oh, tu en as d'autres ?"
 
-    scene v12uex3a
-    with dissolve
+# game/v12/scene20.rpy:150
+translate francais v12_urban_exploring_93ff3184:
 
-    au "Oh shit Imre! You weren't lying, haha..."
+    # imre "*Laughs*"
+    imre "*Rire*"
 
-    scene v12uex5
-    with dissolve
+# game/v12/scene20.rpy:165
+translate francais v12_urban_exploring_fe8d52ad:
 
-    imre "Why would I lie? Besides, that was just a little warm up!"
+    # au "Impressive... But are flips the only thing you can do? *Chuckles*"
+    au "Impressionnant... Mais est-ce que tu ne sais faire que des flips ? *Rire*"
 
-    scene v12uex4
-    with dissolve
+# game/v12/scene20.rpy:170
+translate francais v12_urban_exploring_7334d382:
 
-    no "Oh, you got more?"
+    # imre "Yeah, pretty much. *Chuckles*"
+    imre "Ouais, en gros. *Rire*"
 
-    scene v12uex5a # FPP Same angle as v12uex5, Imre laughing and looking arrogant
-    with dissolve
+# game/v12/scene20.rpy:175
+translate francais v12_urban_exploring_7b106781:
 
-    imre "*Laughs*"
+    # no "Haha... [name], can you do anything?"
+    no "Haha... [name], tu sais faire quelque chose ?"
 
-    scene v12uex8 # FPP Show Imre running to a wall and placing his foot against it, like he's about to run up it
-    with dissolve
+# game/v12/scene20.rpy:184
+translate francais v12_urban_exploring_d33c59b6:
 
-    pause 0.5
+    # u "*Chuckles* Of course I can."
+    u "*Rire* Bien sûr que oui."
 
-    scene v12uex8a # FPP Same angle as v12uex8, Imre kicking off of the wall and doing and back flip
-    with dissolve
+# game/v12/scene20.rpy:189
+translate francais v12_urban_exploring_4c8f5417:
 
-    pause 0.5
+    # no "Come on then! Show us something."
+    no "Allez ! Montre-nous quelque chose."
 
-    scene v12uex3a
-    with dissolve
+# game/v12/scene20.rpy:209
+translate francais v12_urban_exploring_7b5806f3:
 
-    au "Impressive... But are flips the only thing you can do? *Chuckles*"
+    # no "Oooo! The double flip... Very impressive, [name]. *Laughs*"
+    no "Ouaaaah ! Un double flip... Très impressionnant, [name]. *Rire*"
 
-    scene v12uex5
-    with dissolve
+# game/v12/scene20.rpy:214
+translate francais v12_urban_exploring_84a29d35:
 
-    imre "Yeah, pretty much. *Chuckles*"
+    # imre "Showoff. *Chuckles*"
+    imre "Frimeur. *Rire*"
 
-    scene v12uex4
-    with dissolve
+# game/v12/scene20.rpy:219
+translate francais v12_urban_exploring_fcc18885:
 
-    no "Haha... [name], can you do anything?"
+    # u "*Laughs*"
+    u "*Rire*"
 
-    scene v12uex4a # FPP Same angle as v12uex4, Nora smiling with mouth closed
-    with dissolve
+# game/v12/scene20.rpy:222
+translate francais v12_urban_exploring_4db41c24:
 
-    menu:
-        "Of course":
-            $ add_point(KCT.TROUBLEMAKER)
+    # u "I'm just here to watch, actually... I was more of a monkey bars and seesaw kind of kid. *Laughs*"
+    u "Je suis juste là pour regarder, en fait... J'étais plus un enfant du genre cage à poules et balançoire. *Rire*"
 
-            u "*Chuckles* Of course I can."
+# game/v12/scene20.rpy:227
+translate francais v12_urban_exploring_6ff43724:
 
-            scene v12uex4
-            with dissolve
+    # no "Hey, no shame in being the monkey bar kid. Those kids were strong... *Chuckles*"
+    no "Hey, il n'y a pas de honte à être un enfant de la cage à poules. Ces enfants étaient forts... *Rire*"
 
-            no "Come on then! Show us something."
+# game/v12/scene20.rpy:232
+translate francais v12_urban_exploring_09645ba0:
 
-            scene v12uex9 # TPP Show MC doing a front flip
-            with dissolve
+    # au "Alright you wannabes... Make some room for the professional, would ya?"
+    au "D'accord, les débutants... Faites de la place pour une professionnelle, s'il vous plaît."
 
-            pause 0.5
+# game/v12/scene20.rpy:237
+translate francais v12_urban_exploring_b2ecec1a:
 
-            scene v12uex9a # TPP Same angle as v12uex9, MC lands after front flip
-            with dissolve
+    # no "Uh, oh. *Chuckles*"
+    no "Oh, oh. *Rire*"
 
-            pause 0.5
+# game/v12/scene20.rpy:248
+translate francais v12_urban_exploring_f5a8703f:
 
-            scene v12uex9b # TPP Same angle as v12uex9, MC doing a back flip
-            with dissolve
+    # u "Oh, shit... Aubrey, how the hell..."
+    u "Oh, merde... Aubrey, comment est-ce que..."
 
-            pause 0.5
+# game/v12/scene20.rpy:253
+translate francais v12_urban_exploring_08a5f439:
 
-            scene v12uex4
-            with dissolve
+    # au "Whew! That felt so good! *Laughs*"
+    au "Pfiou ! C'était si bon ! *Rire*"
 
-            no "Oooo! The double flip... Very impressive, [name]. *Laughs*"
+# game/v12/scene20.rpy:258
+translate francais v12_urban_exploring_71b133e8:
 
-            scene v12uex5
-            with dissolve
+    # imre "Wait, was that not just a normal back flip?"
+    imre "Attends, c'était pas juste un back flip normal ?"
 
-            imre "Showoff. *Chuckles*"
+# game/v12/scene20.rpy:263
+translate francais v12_urban_exploring_3a752b46:
 
-            scene v12uex5b # FPP Same angle as v12uex5, Imre smiling with mouth closed
-            with dissolve
+    # au "Back tuck, big difference. Let's go Nora, let me see that booty work. *Chuckles*"
+    au "Back tuck, grande différence. Allons-y Nora, laisse-moi voir ce travail sur les fessiers. *Rire*"
 
-            u "*Laughs*"
-        
-        "Just watch":
-            u "I'm just here to watch, actually... I was more of a monkey bars and seesaw kind of kid. *Laughs*"
+# game/v12/scene20.rpy:268
+translate francais v12_urban_exploring_13034144:
 
-            scene v12uex4
-            with dissolve
+    # no "C'mon now, Aubs... I don't wanna embarrass you. *Chuckles*"
+    no "Voyons, Aubs... Je ne veux pas t'embarrasser. *Rire*"
 
-            no "Hey, no shame in being the monkey bar kid. Those kids were strong... *Chuckles*"
+# game/v12/scene20.rpy:273
+translate francais v12_urban_exploring_00b1c48d:
 
-    scene v12uex3a
-    with dissolve
+    # au "You can try all you want, but you're not backing out now. *Chuckles*"
+    au "Tu peux essayer autant que tu veux, mais tu n'abandonneras pas maintenant. *Rire*"
 
-    au "Alright you wannabes... Make some room for the professional, would ya?"
+# game/v12/scene20.rpy:278
+translate francais v12_urban_exploring_fa03bf74:
 
-    scene v12uex4
-    with dissolve
+    # u "I don't think she's backing out, I think she's giving you a warning. *Chuckles*"
+    u "Je ne pense pas qu'elle veuille abandonner, je pense qu'elle te donne juste un avertissement. *Rire*"
 
-    no "Uh, oh. *Chuckles*"
+# game/v12/scene20.rpy:283
+translate francais v12_urban_exploring_b685c7b5:
 
-    # REVIEWER NOTE: I'M NOT SURE WHAT THE WRITERS INTENDED TO DISTINGUISH A BACK TUCK FROM A BACKFLIP - I CAN'T FIGURE OUT A DIFFERENCE. MIGHT NEED TO CLARIFY BEFORE RENDERING
-    scene v12uex10 # FPP Show Aubrey doing a back tuck
-    with dissolve
+    # au "Haha, okay then. Warning received, let's see it."
+    au "Haha, ok alors. Avertissement reçu, voyons ça."
 
-    pause 0.5
+# game/v12/scene20.rpy:288
+translate francais v12_urban_exploring_3d23b168:
 
-    scene v12uex10a # FPP Same angle as v12uex10, Aubrey landed after back tuck, arms in the air, with a big smile
-    with dissolve
+    # no "Okayyyy, but I did warn you."
+    no "D'accord, mais je t'ai prévenu."
 
-    u "Oh, shit... Aubrey, how the hell..."
+# game/v12/scene20.rpy:303
+translate francais v12_urban_exploring_f2fb140c:
 
-    scene v12uex3a
-    with dissolve
+    # u "Let's gooooo!"
+    u "C'est partiiiiii !"
 
-    au "Whew! That felt so good! *Laughs*"
+# game/v12/scene20.rpy:308
+translate francais v12_urban_exploring_e3824497:
 
-    scene v12uex5
-    with dissolve
+    # au "Damn, I didn't know you were actually that good, haha."
+    au "Merde, je ne savais pas que tu étais aussi douée, haha."
 
-    imre "Wait, was that not just a normal back flip?"
+# game/v12/scene20.rpy:313
+translate francais v12_urban_exploring_2e5d9e1e:
 
-    scene v12uex3a
-    with dissolve
+    # no "I told you!"
+    no "Je te l'avais dit !"
 
-    au "Back tuck, big difference. Let's go Nora, let me see that booty work. *Chuckles*"
+# game/v12/scene20.rpy:318
+translate francais v12_urban_exploring_4fa7fd44:
 
-    scene v12uex6a # FPP Same angle as v12uex6, Nora smiling with mouth open, Aubrey smiling with mouth closed
-    with dissolve
+    # au "Don't get all cocky just yet, hot stuff. you may be able to do some big stuff, but how are your basics? Can you do a perfect round off?"
+    au "Tu es peut-être capable de faire de grandes choses, mais comment sont tes bases ? Tu peux faire une rondade parfaite ?"
 
-    no "C'mon now, Aubs... I don't wanna embarrass you. *Chuckles*"
+# game/v12/scene20.rpy:323
+translate francais v12_urban_exploring_f2f3f5b3:
 
-    scene v12uex6b # FPP Same angle as v12uex6, Aubrey smiling with mouth open, Nora smiling with mouth closed
-    with dissolve
+    # no "*Laughs* Yes, that's easy."
+    no "*Rire* Oui, c'est facile."
 
-    au "You can try all you want, but you're not backing out now. *Chuckles*"
+# game/v12/scene20.rpy:328
+translate francais v12_urban_exploring_aa7e978b:
 
-    scene v12uex6
-    with dissolve
+    # au "Prove it."
+    au "Prouve-le."
 
-    u "I don't think she's backing out, I think she's giving you a warning. *Chuckles*"
+# game/v12/scene20.rpy:333
+translate francais v12_urban_exploring_72e77746:
 
-    scene v12uex6b
-    with dissolve
+    # no "Haha, okay..."
+    no "Haha, ok..."
 
-    au "Haha, okay then. Warning received, let's see it."
+# game/v12/scene20.rpy:353
+translate francais v12_urban_exploring_fada28fe:
 
-    scene v12uex6a
-    with dissolve
+    # u "You good? *Chuckles*"
+    u "Tu vas bien ? *Rire*"
 
-    no "Okayyyy, but I did warn you."
+# game/v12/scene20.rpy:358
+translate francais v12_urban_exploring_438d2875:
 
-    scene v12uex11 # FPP Show Nora performing a front hand spring
-    with dissolve
+    # no "Haha, yeah. Sorry I- Guess it went a little faster than I thought. Thanks for catching me, that probably would've hurt pretty bad."
+    no "Haha, ouais. Désolée, je crois que je suis allée un peu plus vite que je ne pensais. Merci de m'avoir rattrapé, je me serais sûrement fait très mal."
 
-    pause 0.5
+# game/v12/scene20.rpy:363
+translate francais v12_urban_exploring_10d322e9:
 
-    scene v12uex11a # FPP Same angle as v12uex11, Nora moving from front hand spring to a front tuck
-    with dissolve
+    # u "Ha, don't worry about it."
+    u "Ha, ne t'en fais pas."
 
-    pause 0.5
+# game/v12/scene20.rpy:377
+translate francais v12s20_faillabel_47bccb43:
 
-    scene v12uex11b # FPP Same angle as v12uex11, Nora landed after front tuck like an olympic gymnast
-    with dissolve
+    # no "Ow! Fuck... I went way too fast. Sorry [name], almost took you with me. *Chuckles*"
+    no "Aïe ! Putain... Je suis allée trop vite. Désolé [name], j'ai failli t'emporter avec moi. *Rire*"
 
-    u "Let's gooooo!"
+# game/v12/scene20.rpy:382
+translate francais v12s20_faillabel_e486957b:
 
-    scene v12uex3a
-    with dissolve
+    # u "Haha, I made it out in time. You did come in pretty hot... *Laughs*"
+    u "Haha, je me suis écarté à temps. Tu es arrivée vraiment vite... *Rire*"
 
-    au "Damn, I didn't know you were actually that good, haha."
+# game/v12/scene20.rpy:387
+translate francais v12s20_faillabel_f7487e5c:
 
-    scene v12uex4
-    with dissolve
+    # au "Mhmm... Looking a little rusty, Nora. I thought you were once a pro?"
+    au "Mhmm... Tu as l'air un peu rouillée, Nora. Je croyais que tu étais une pro ?"
 
-    no "I told you!"
+# game/v12/scene20.rpy:392
+translate francais v12s20_faillabel_f85ddfaf:
 
-    scene v12uex3a
-    with dissolve
+    # no "Okay... Maybe I have some warming up to do. *Chuckles*"
+    no "Ok... Peut-être que je devais m'échauffer un peu. *Rire*"
 
-    au "Don't get all cocky just yet, hot stuff. you may be able to do some big stuff, but how are your basics? Can you do a perfect round off?"
+# game/v12/scene20.rpy:397
+translate francais v12s20_faillabel_17e6c2b2:
 
-    scene v12uex4
-    with dissolve
+    # imre "I can do a round off!"
+    imre "J'peux faire une rondade !"
 
-    no "*Laughs* Yes, that's easy."
+# game/v12/scene20.rpy:402
+translate francais v12s20_faillabel_baa1182e:
 
-    scene v12uex3a
-    with dissolve
+    # au "Wait your turn little guy, gotta show off mine first."
+    au "Attends ton tour p'tit mec, je dois faire la mienne d'abord."
 
-    au "Prove it."
+# game/v12/scene20.rpy:417
+translate francais v12s20_faillabel_6ac41e4d:
 
-    scene v12uex4
-    with dissolve
+    # au "OH- FUCK... Oww! Ow, ow, ow..."
+    au "OH-PUTAIN... Ouille ! Aïe, aïe, aïe..."
 
-    no "Haha, okay..."
+# game/v12/scene20.rpy:427
+translate francais v12s20_faillabel_6ccd5900:
 
-    scene v12uex12 # TPP Show Nora performing a round off toward MC
-    with dissolve
+    # u "Shit Aubrey, you alright?"
+    u "Merde ! Aubrey, tu vas bien ?"
 
-    pause 0.5
+# game/v12/scene20.rpy:432
+translate francais v12s20_faillabel_4dac14b1:
 
-    scene v12uex13 # FPP Show Nora coming toward MC, about to crash into him
-    with dissolve
+    # au "Fuck... No, I'm not. Landed right on my damn ankle."
+    au "Putain... Non, je ne vais pas bien. J'ai atterri directement sur ma foutue cheville."
 
-    menu (fail_label="v12s20_faillabel"):
-        "Catch her":
-            scene v12uex12a # TPP Same angle as v12uex12, show MC catching Nora from behind
-            with dissolve
+# game/v12/scene20.rpy:437
+translate francais v12s20_faillabel_b8f0f259:
 
-            pause 0.75
+    # u "I swear, you and Riley with these weak ass ankles."
+    u "Je vous jure... Toi et Riley avec vos chevilles molles."
 
-            scene v12uex4a
-            with dissolve
+# game/v12/scene20.rpy:442
+translate francais v12s20_faillabel_92a3fcfb:
 
-            u "You good? *Chuckles*"
+    # au "That's my bestie, two weak ankle chicks. *Chuckles*"
+    au "C'est ma meilleure amie, deux nanas aux chevilles fragiles. *Rire*"
 
-            scene v12uex4
-            with dissolve
+# game/v12/scene20.rpy:447
+translate francais v12s20_faillabel_e157799f:
 
-            no "Haha, yeah. Sorry I- Guess it went a little faster than I thought. Thanks for catching me, that probably would've hurt pretty bad."
+    # au "I can tell it's just sprained, this has happened before believe it or not, haha. It'll be better by morning, but it hurts like fucking hell right now."
+    au "Je peux dire que c'est juste une entorse, c'est déjà arrivé avant, croyez-le ou non, haha. Ça ira mieux demain matin, mais ça fait un mal de chien là."
 
-            scene v12uex4a
-            with dissolve
+# game/v12/scene20.rpy:452
+translate francais v12s20_faillabel_903b4a8f:
 
-            u "Ha, don't worry about it."
+    # no "We definitely gotta get you back, the quicker you ice it the better. Which seriously sucks 'cause I brought drinks for us all."
+    no "On doit absolument te faire rentrer et le plus vite sera le mieux. Ce qui craint vraiment parce que j'ai apporté des boissons pour nous tous."
 
-        "Move":
-            label v12s20_faillabel:
-                $ add_point(KCT.TROUBLEMAKER)
+# game/v12/scene20.rpy:457
+translate francais v12s20_faillabel_98f768b9:
 
-                scene v12uex12b # TPP Same angle as v12uex12, show MC dodging out of the way of Nora
-                with dissolve
+    # au "You don't have to leave because of me, Nora. I haven't seen you smile like this in a long time, so you're staying. One of the guys can stay with you and one can take me back...?"
+    au "Tu n'as pas à partir à cause de moi, Nora. Je ne t'ai pas vu sourire comme ça depuis longtemps, alors tu reste. Un des deux mecs peut rester avec toi et un autre me ramènera... ?"
 
-                pause 0.75
+# game/v12/scene20.rpy:466
+translate francais v12s20_faillabel_d3b52fb2:
 
-                scene v12uex14 # FPP Show Nora sitting on the pavement with her hands on the ground behind her, as if she just landed hard, hurt expression, mouth open
-                with dissolve
+    # u "Of course, c'mon Aubrey. I'll walk you back."
+    u "Bien sûr. Allez Aubrey, je te raccompagne."
 
-                no "Ow! Fuck... I went way too fast. Sorry [name], almost took you with me. *Chuckles*"
+# game/v12/scene20.rpy:471
+translate francais v12s20_faillabel_a6b4497f:
 
-                scene v12uex14a # FPP Same angle as v12uex14, Nora with embarrassed expression, mouth closed
-                with dissolve
+    # imre "Yessss!"
+    imre "Ouiiiii !"
 
-                u "Haha, I made it out in time. You did come in pretty hot... *Laughs*"
+# game/v12/scene20.rpy:476
+translate francais v12s20_faillabel_c1b001ae:
 
-    scene v12uex3a
-    with dissolve
+    # au "Way to make me feel loved, Imre."
+    au "Je me sens vraiment aimée, Imre."
 
-    au "Mhmm... Looking a little rusty, Nora. I thought you were once a pro?"
+# game/v12/scene20.rpy:481
+translate francais v12s20_faillabel_3611c5d8:
 
-    scene v12uex14b # FPP Same angle as v12uex14, Nora getting up off the ground, embarrassed expression, mouth open
-    with dissolve
+    # imre "Sorry Aubrey, but between the sunlight and the free drinks, this sounds like too good of a time to pass up."
+    imre "Désolé Aubrey, mais boire des boissons gratuites au soleil, c'est un moment à pas laisser passer."
 
-    no "Okay... Maybe I have some warming up to do. *Chuckles*"
+# game/v12/scene20.rpy:486
+translate francais v12s20_faillabel_48bc559d:
 
-    scene v12uex5
-    with dissolve
+    # u "*Chuckles* Enjoy yourselves, c'mon Aubrey."
+    u "*Rire* Amusez-vous bien. Allez viens Aubrey."
 
-    imre "I can do a round off!"
+# game/v12/scene20.rpy:510
+translate francais v12s20_faillabel_f5f16c44:
 
-    scene v12uex3a
-    with dissolve
+    # u "Gotta be honest, cold drinks in the sun sounds pretty fucking nice. Imre, you're gonna have to walk Aubrey back."
+    u "Je dois être honnête, boire des boissons fraîches au soleil, ça a l'air plutôt sympa. Imre, tu vas devoir raccompagner Aubrey."
 
-    au "Wait your turn little guy, gotta show off mine first."
+# game/v12/scene20.rpy:515
+translate francais v12s20_faillabel_f2660f4f:
 
-    scene v12uex15 # FPP Show Aubrey beginning to do a roundoff
-    with dissolve
+    # au "Damn, \"have to?\" You make it sound like a chore. It's not like I chose to mess up my ankle."
+    au "Merde, \"tu vas devoir\" ? Tu dis ça comme si c'était une corvée. C'est pas comme si j'avais choisi de me bousiller la cheville."
 
-    pause 0.5
+# game/v12/scene20.rpy:520
+translate francais v12s20_faillabel_ca2e2210:
 
-    scene v12uex15a # FPP Show Aubrey falling while doing the roundoff
-    with dissolve
+    # imre "And it's not like walking you back sounds fun, but I got drinks in my room. C'mon."
+    imre "Et c'est pas comme si t'raccompagner était amusant, mais bon... j'ai des boissons dans ma chambre. Allez, viens."
 
-    pause 0.5
+translate francais strings:
 
-    scene v12uex16 # FPP Show Aubrey on the ground, clutching her ankle, pained expression with mouth open
-    with dissolve
+    # game/v12/scene20.rpy:180
+    old "Just watch"
+    new "Regardez seulement"
 
-    au "OH- FUCK... Oww! Ow, ow, ow..."
+    # game/v12/scene20.rpy:343
+    old "Catch her"
+    new "Rattrapez-la"
 
-    scene v12uex17 # TPP Show MC, Imre, and Nora running toward Aubrey, who is on the ground, holding her ankle, in pain
-    with dissolve
+    # game/v12/scene20.rpy:343
+    old "Move"
+    new "Déplacez-vous"
 
-    pause 0.75
+    # game/v12/scene20.rpy:462
+    old "Walk Aubrey back to hotel"
+    new "Raccompagnez Aubrey à l'hôtel"
 
-    scene v12uex18 # FPP Show Aubrey, closer now, still on the ground, in pain, mouth closed
-    with dissolve
-
-    u "Shit Aubrey, you alright?"
-
-    scene v12uex18a # FPP Same angle as v12uex18, Aubrey in pain with mouth open
-    with dissolve
-
-    au "Fuck... No, I'm not. Landed right on my damn ankle."
-
-    scene v12uex18
-    with dissolve
-
-    u "I swear, you and Riley with these weak ass ankles."
-
-    scene v12uex18b # FPP Same angle as v12uex18, Aubrey still in pain but with a small smile, mouth open
-    with dissolve
-
-    au "That's my bestie, two weak ankle chicks. *Chuckles*"
-
-    scene v12uex18c # FPP Same angle as v12uex18, Aubrey with neutral expression, looking down at her ankle, mouth open
-    with dissolve
-
-    au "I can tell it's just sprained, this has happened before believe it or not, haha. It'll be better by morning, but it hurts like fucking hell right now."
-
-    scene v12uex4b # FPP Same angle as v12uex4, Nora with neutral expression, mouth open
-    with dissolve
-
-    no "We definitely gotta get you back, the quicker you ice it the better. Which seriously sucks 'cause I brought drinks for us all."
-
-    scene v12uex18b
-    with dissolve
-
-    au "You don't have to leave because of me, Nora. I haven't seen you smile like this in a long time, so you're staying. One of the guys can stay with you and one can take me back...?"
-
-    scene v12uex18
-    with dissolve
-
-    menu:
-        "Walk Aubrey back to hotel":
-            $ add_point(KCT.BOYFRIEND)
-
-            u "Of course, c'mon Aubrey. I'll walk you back."
-
-            scene v12uex5
-            with dissolve
-
-            imre "Yessss!"
-
-            scene v12uex18b
-            with dissolve
-
-            au "Way to make me feel loved, Imre."
-
-            scene v12uex5
-            with dissolve
-
-            imre "Sorry Aubrey, but between the sunlight and the free drinks, this sounds like too good of a time to pass up."
-
-            scene v12uex18
-            with dissolve
-
-            u "*Chuckles* Enjoy yourselves, c'mon Aubrey."
-
-            scene v12uex19 # TPP Show MC helping Aubrey up from the ground
-            with dissolve
-
-            pause 0.75
-
-            scene v12uex20 # TPP Show MC and Aubrey walking along sidewalk, Aubrey's arm over MC's shoulder for support
-            with dissolve
-
-            pause 0.75
-
-            scene v12uex21 # TPP Show MC helping Aubrey to sit down on her hotel room bed
-            with dissolve
-
-            pause 0.75
-
-            stop music fadeout 3
-            
-            jump v12_nursing_aubrey #scene 21a
-
-        "Share a drink with Nora":
-            $ add_point(KCT.TROUBLEMAKER)
-
-            u "Gotta be honest, cold drinks in the sun sounds pretty fucking nice. Imre, you're gonna have to walk Aubrey back."
-
-            scene v12uex18b
-            with dissolve
-
-            au "Damn, \"have to?\" You make it sound like a chore. It's not like I chose to mess up my ankle."
-
-            scene v12uex5c # FPP Same angle as v12uex5, Imre with neutral expression, mouth open
-            with dissolve
-
-            imre "And it's not like walking you back sounds fun, but I got drinks in my room. C'mon."
-
-            scene v12uex19a # FPP Same angle as v12uex19, Imre helping Aubrey up from the ground
-            with dissolve
-
-            pause 0.75
-
-            scene v12uex22 # FPP Show Imre and Aubrey walking away, Aubrey's arm over Imre's shoulder for support
-            with dissolve
-
-            pause 0.75
-        
-            stop music fadeout 3
-
-            jump v12_nora_exploring #scene 21
+    # game/v12/scene20.rpy:462
+    old "Share a drink with Nora"
+    new "Restez prendre un verre avec Nora"

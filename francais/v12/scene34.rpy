@@ -1,287 +1,153 @@
-# SCENE 34: Amber talk after spa
-# Locations: Spa, Sauna, Hotel Lobby
-# Characters: MC (Outfit: Naked in towel/2), AMBER (Outfit: Naked in towel), IMRE (Outfit: Naked in towel), AUBREY (Outfit: Naked in towel)
-# Time: Evening
-# Phone Images: None
+﻿# TODO: Translation updated at 2022-01-01 15:01
 
-label v12_amber_after_spa:
-    scene v12ams1 # TPP. Show MC, Amber, Aubrey and Imre hanging out outside the sauna in their towels, all smiling mouths closed
-    with dissolve
+# game/v12/scene34.rpy:26
+translate francais v12_amber_after_spa_8ff2a4ae:
 
-    pause 1.25
+    # u "Damn Amber, is that employee merch? *Chuckles*"
+    u "Merde Amber, c'est de la marchandise pour les employés ? *Rire*"
 
-    play music "music/v12/Track Scene 34_1.mp3" fadein 2
+# game/v12/scene34.rpy:32
+translate francais v12_amber_after_spa_fd5d70c3:
 
-    scene v12ams2 # FPP. MC, Amber, Aubrey and Imre talking to each other, MC looking at Amber, Amber looking at MC, smiling, mouth closed (make sure Lew's logo on towel is visible)
-    with dissolve
+    # u "Wow Amber, that's a really nice towel."
+    u "Waouh Amber, c'est une très belle serviette."
 
-    menu:
-        "Tease Amber":
-            $ add_point(KCT.TROUBLEMAKER)
-            $ v11_tease_amber += 1
+# game/v12/scene34.rpy:40
+translate francais v12_amber_after_spa_bb4d39de:
 
-            scene v12ams2a # FPP. Same as v12ams2, Amber slightly annoyed, mouth closed
-            with dissolve
+    # am "Haha thanks."
+    am "Haha merci."
 
-            u "Damn Amber, is that employee merch? *Chuckles*"
+# game/v12/scene34.rpy:73
+translate francais v12_amber_after_spa_78821685:
 
-        "Nice towel":
-            scene v12ams2b # FPP. Same as v12ams2, Amber neutral expression, mouth closed
-            with dissolve
+    # am "You know what?"
+    am "Tu sais quoi ?"
 
-            u "Wow Amber, that's a really nice towel."
+# game/v12/scene34.rpy:81
+translate francais v12_amber_after_spa_a0b3bab8:
 
-            stop music fadeout 3
-            play music "music/v12/Track Scene 34_2.mp3" fadein 2
+    # am "You sure do like teasing me, don't you?"
+    am "Tu aimes vraiment me taquiner, n'est-ce pas ?"
 
-            scene v12ams2
-            with dissolve
+# game/v12/scene34.rpy:86
+translate francais v12_amber_after_spa_55b333c6:
 
-            am "Haha thanks."
- 
-            scene v12ams6 # TPP. Show MC leaving the sauna, slight smile, mouth closed
-            with dissolve
+    # u "*Chuckles* Come on... Just having a little fun, Amber."
+    u "*Rire* Allez... Je m'amuse juste un peu, Amber."
 
-            pause 1
+# game/v12/scene34.rpy:91
+translate francais v12_amber_after_spa_538bc683:
 
-            scene v12ams7 # TPP. Show MC getting dressed, slight smile, mouth closed
-            with dissolve
+    # am "Then how about I have some fun, huh?"
+    am "Et si je m'amusais un peu moi aussi, hein ?"
 
-            pause 1
+# game/v12/scene34.rpy:102
+translate francais v12_amber_after_spa_b9513828:
 
-            scene v12ams8 # TPP. Show MC walking out of spa, slight smile, mouth closed, fully dressed
-            with dissolve
+    # u "Woah, what are you doing?"
+    u "Woah, qu'est-ce que tu fais ?"
 
-            pause 1
+# game/v12/scene34.rpy:107
+translate francais v12_amber_after_spa_b576b839:
 
-            scene v12ams9 # TPP. Show MC walking in hotel lobby, fully dressed, mouth closed, slight smile
-            with dissolve
+    # am "Well, I was just gonna tease you... Until you killed the fun."
+    am "Eh bien, j'allais juste te taquiner... Jusqu'à ce que tu gâches le plaisir."
 
-            pause 1
+# game/v12/scene34.rpy:112
+translate francais v12_amber_after_spa_4dac23d5:
 
-            stop music fadeout 3
+    # u "Haha, my bad. Just got a little surprised."
+    u "Haha, c'est ma faute. J'ai juste été un peu surpris."
 
-            jump v12_chris_nora_room
-                
-    if v11_tease_amber <= 2 or kct == "popular":
-        $ v11_amber_sauna_convo = True
-        if not (v11_tease_amber <= 2):
-            call screen kct_popup
+# game/v12/scene34.rpy:117
+translate francais v12_amber_after_spa_4acb3884:
 
-        scene v12ams2a
-        with dissolve
+    # am "Oh well, let's go."
+    am "Oh, bon, allons-y."
 
-        am "You know what?"
+# game/v12/scene34.rpy:157
+translate francais v12_amber_after_spa_d7c01c47:
 
-        stop music fadeout 3
-        play music "music/v12/Track Scene 34_2.mp3" fadein 2
+    # am "Teasing sucks, doesn't it?"
+    am "La taquinerie, ça craint, n'est-ce pas ?"
 
-        scene v12ams3 # FPP. MC looking as Amber pullsd him into the sauna, Amber mouth open, neutral expression
-        with dissolve
+# game/v12/scene34.rpy:162
+translate francais v12_amber_after_spa_38370e54:
 
-        am "You sure do like teasing me, don't you?"
+    # u "(Oh she's good.)"
+    u "(Oh, elle est bien.)"
 
-        scene v12ams4 # FPP. MC and Amber inside sauna looking at each other, Amber slight smile, mouth closed
-        with dissolve
+# game/v12/scene34.rpy:201
+translate francais v12_amber_after_spa_a68bc13c:
 
-        u "*Chuckles* Come on... Just having a little fun, Amber."
+    # am "You just can't mind your own fucking business?"
+    am "Tu ne peux pas t'occuper de tes propres affaires ?"
 
-        scene v12ams4a # FPP. Same as v12ams4, Amber slight smile, mouth open
-        with dissolve
+# game/v12/scene34.rpy:217
+translate francais v12_amber_after_spa_be730509:
 
-        am "Then how about I have some fun, huh?"
+    # am "I told you to leave my job shit alone, and yet you keep going on and on about it. Maybe now you'll know what I mean when I say knock it the fuck off."
+    am "Je t'ai dit de laisser mon travail en dehors de tout ça, et pourtant tu n'arrêtes pas d'en parler. Peut-être que maintenant tu sauras ce que je veux dire quand je te dis d'aller te faire foutre."
 
-        scene v12ams5 # TPP. Show Amber kissing MC
-        with dissolve
+# game/v12/scene34.rpy:227
+translate francais v12_amber_after_spa_4b12320c:
 
-        menu:
-            "Pull away":
-                $ add_point(KCT.BRO)
-                scene v12ams4
-                with dissolve
+    # imre "Damn bro, she just rocked your shit! *Laughs*"
+    imre "Putain mec, elle t'a mis une raclée ! *Rire*"
 
-                u "Woah, what are you doing?"
+# game/v12/scene34.rpy:232
+translate francais v12_amber_after_spa_5c3d0028:
 
-                scene v12ams4a
-                with dissolve
+    # u "Imre, shut the fuck up."
+    u "Imre, ferme ta gueule."
 
-                am "Well, I was just gonna tease you... Until you killed the fun."
+# game/v12/scene34.rpy:237
+translate francais v12_amber_after_spa_5177e724:
 
-                scene v12ams4
-                with dissolve
+    # au "Good thing I didn't keep teasing her. *Chuckles* It's better that you get fucked up than me."
+    au "Heureusement que je n'ai pas continué à la taquiner. *Rire* Il vaut mieux que ce soit toi qui te fasses avoir que moi."
 
-                u "Haha, my bad. Just got a little surprised."
+# game/v12/scene34.rpy:242
+translate francais v12_amber_after_spa_79b592fc:
 
-                scene v12ams4a
-                with dissolve
+    # u "Shit, she hit me harder than any of the guys ever have..."
+    u "Merde, elle m'a frappé plus fort que n'importe lequel des mecs..."
 
-                am "Oh well, let's go."
+# game/v12/scene34.rpy:247
+translate francais v12_amber_after_spa_3b68fc68:
 
-                scene v12ams6 # TPP. Show MC leaving the sauna, slight smile, mouth closed
-                with dissolve
+    # imre "Yeah, we saw. *Laughs*"
+    imre "Oui, on a vu. *Rire*"
 
-                pause 0.75
+# game/v12/scene34.rpy:252
+translate francais v12_amber_after_spa_319258b5:
 
-                scene v12ams7 # TPP. Show MC getting dressed, slight smile, mouth closed
-                with dissolve
+    # u "Fuck... I'm gonna head up to my room."
+    u "Putain... Je vais monter dans ma chambre."
 
-                pause 0.75
+# game/v12/scene34.rpy:257
+translate francais v12_amber_after_spa_e83bf290:
 
-                scene v12ams8 # TPP. Show MC walking out of spa, slight smile, mouth closed, fully dressed
-                with dissolve
+    # au "Probably a good idea. *Chuckles* Get some rest, soy boy!"
+    au "C'est une bonne idée. *Rire* Repose-toi, petit garçon de soie !"
 
-                pause 0.75
+# game/v12/scene34.rpy:262
+translate francais v12_amber_after_spa_31e33bad:
 
-                scene v12ams9 # TPP. Show MC walking in hotel lobby, fully dressed, mouth closed, slight smile
-                with dissolve
+    # u "(Shit!)"
+    u "(Merde !)"
 
-                pause 0.75
+translate francais strings:
 
-                stop music fadeout 3
+    # game/v12/scene34.rpy:18
+    old "Tease Amber"
+    new "Taquiner Amber"
 
-                jump v12_chris_nora_room
+    # game/v12/scene34.rpy:18
+    old "Nice towel"
+    new "Belle serviette"
 
-            "Don't pull away":
-                scene v12ams5a # TPP. Same as v12ams5, MC placing his hand on Amber's butt
-                with dissolve
-
-                pause 1
-
-                scene v12ams5b # TPP. Same as v12ams5, Amber pulling away from the kiss, MC slightly surprised, Amber slight smile, both mouths closed
-                with dissolve
-
-                pause 0.75
-
-                scene v12ams4a
-                with dissolve
-
-                am "Teasing sucks, doesn't it?"
-
-                scene v12ams4
-                with dissolve
-
-                u "(Oh she's good.)"
-
-                scene v12ams4b # FPP. Same as v12ams4, Amber walking away from MC
-                with dissolve
-
-                pause 1.25
-
-                scene v12ams6
-                with fade
-
-                pause 0.75
-
-                scene v12ams7
-                with dissolve
-
-                pause 0.75
-
-                scene v12ams8
-                with dissolve
-
-                pause 0.75
-
-                scene v12ams9
-                with dissolve
-
-                pause 0.75
-
-                stop music fadeout 3
-                jump v12_chris_nora_room
-
-    else:
-        $ ambermad = True
-
-        scene v12ams2c # FPP. Same as v12ams2, Amber very angry, mouth open
-        with dissolve
-
-        stop music fadeout 3
-        play music "music/v12/Track Scene 34_2.mp3" fadein 2
-
-        am "You just can't mind your own fucking business?"
-
-        scene v12ams10 # TPP. Same positioning as v12ams2, Show Amber smacking MC on the side of the head, Amber very angry, MC startled, both mouths closed
-        with vpunch
-        play sound "sounds/slap.mp3"
-
-        pause 1.25
-
-        scene v12ams11 # TPP. Same positioning as v12ams2, Show Imre and Aubrey looking shocked at MC's direction, only Imre and Aubrey in shot, mouths closed
-        with dissolve
-
-        pause 0.75
-
-        scene v12ams2c
-        with dissolve
-
-        am "I told you to leave my job shit alone, and yet you keep going on and on about it. Maybe now you'll know what I mean when I say knock it the fuck off."
-
-        scene v12ams2d # FPP. Same as v12ams2c, show Amber storming off, very angry, mouth closed
-        with dissolve
-
-        pause 0.75
-
-        scene v12ams12 # FPP. Same positioning as v12ams2, Amber no longer in conversation, MC looking at Imre, Imre looking at MC, Imre smiling, mouth open
-        with dissolve
-
-        imre "Damn bro, she just rocked your shit! *Laughs*"
-
-        scene v12ams12a # FPP. Same as v12ams12, Imre smiling, mouth closed
-        with dissolve
-
-        u "Imre, shut the fuck up."
-
-        scene v12ams13 # FPP. Same positioning as v12ams12, MC looking at Aubrey, Aubrey looking at MC, Aubrey smiling, mouth open
-        with dissolve
-
-        au "Good thing I didn't keep teasing her. *Chuckles* It's better that you get fucked up than me."
-
-        scene v12ams13a # FPP. Same as v12ams13, Aubrey smiling, mouth closed
-        with dissolve
-
-        u "Shit, she hit me harder than any of the guys ever have..."
-
-        scene v12ams12
-        with dissolve
-
-        imre "Yeah, we saw. *Laughs*"
-
-        scene v12ams12a
-        with dissolve
-
-        u "Fuck... I'm gonna head up to my room."
-
-        scene v12ams13
-        with dissolve
-
-        au "Probably a good idea. *Chuckles* Get some rest, soy boy!"
-
-        scene v12ams13a
-        with dissolve
-
-        u "(Shit!)"
-
-        scene v12ams6a # TPP. Same as v12ams6, MC slightly annoyed, mouth closed
-        with dissolve
-
-        pause 0.75
-
-        scene v12ams7a # TPP. Same as v12ams7, MC slightly annoyed, mouth closed
-        with dissolve
-
-        pause 0.75
-
-        scene v12ams8a # TPP. Same as v12ams8, MC slightly annoyed, mouth closed
-        with dissolve
-
-        pause 0.75
-
-        scene v12ams9a # TPP. Same as v12ams9, MC slightly annoyed, mouth closed
-        with dissolve
-
-        pause 0.75
-
-        stop music fadeout 3
-
-        jump v12_chris_nora_room
+    # game/v12/scene34.rpy:96
+    old "Don't pull away"
+    new "Ne vous éloignez pas."

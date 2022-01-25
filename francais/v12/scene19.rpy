@@ -1,354 +1,323 @@
-# SCENE 19: MC wakes up to Chloe / Lindsey argument or Imre's scream
-# Locations: Hotel Room, Hotel Room Bathroom, Hotel Room Corridor, Hotel Lobby
-# Characters: IMRE (Outfit: 5/2), MC (Outfit: 11/9), NORA (Outfit: 3/1), AUBREY (Outfit: 5/1), CHLOE (Outfit: 2), LINDSEY (Outfit: 1), RILEY (Outfit: 5)
-# Time: Morning
-# Phone Images: YES
-# POST 1 - imre_raccoon.webp - Picture of Imre sleeping on the toilet with the raccoon drawn on his face (check with whoever did scene 18 for the exact drawing). 
-# NOTE: v12pwu13a and all other renders after that use the second outfit provided for the character (if there are 2 outfits given)
+﻿# TODO: Translation updated at 2021-12-28 15:09
 
-init python:
-    def v12s19_kiwiiReply1():
-        v12s19_kiwiiPost1.newComment(amber, _("Hahahaha"), numberLikes=renpy.random.randint(250,350), force_send=True)
-        v12s19_kiwiiPost1.newComment(imre, _("Karma's a bitch..."), numberLikes=renpy.random.randint(250,350), force_send=True)
+# game/v12/scene19.rpy:25
+translate francais v12_party_wake_up_fcaabf02:
 
-label v12_party_wake_up:
-    scene v12pwu1 # TPP. Show MC sleeping, it's morning now, alone in the bed
-    with fade
+    # imre "What the fuck is on my face!?"
+    imre "C'est quoi c'merdier sur mon visage ?"
 
-    pause 0.75
+# game/v12/scene19.rpy:27
+translate francais v12_party_wake_up_b5efda5b:
 
-    play music "music/v12/Track Scene 19.mp3" fadein 2
+    # u "Sounds like someone's awake. *Chuckles*"
+    u "On dirait que quelqu'un est réveillé. *Rire*"
 
-    scene v12pwu2 # FPP. MC lying in the bed, looking at the bedroom door
-    with vpunch
+# game/v12/scene19.rpy:38
+translate francais v12_party_wake_up_73ee47e0:
 
-    imre "What the fuck is on my face!?"
+    # u "What's wrong, man?"
+    u "Qu'est-ce qu'il y a, mec ?"
 
-    u "Sounds like someone's awake. *Chuckles*"
+# game/v12/scene19.rpy:43
+translate francais v12_party_wake_up_5c80ab2e:
 
-    scene v12pwu3 # TPP. Show MC opening the bathroom door and walking in, smiling, mouth closed
-    with dissolve
-    play sound "sounds/dooropen.mp3"
+    # imre "What do you mean what's wrong?! I look like a damn raccoon! Who did this to me, [name]?"
+    imre "Comment ça, qu'est-ce qu'il y a ?! J'ressemble à un putain d'raton laveur ! Qui m'a fait ça, [name] ?"
 
-    pause 0.75
+# game/v12/scene19.rpy:48
+translate francais v12_party_wake_up_ac7e9726:
 
-    scene v12pwu4 # FPP. MC in the bathroom, looking at Imre, Imre in front of the mirror, looking at MC, Imre angry, mouth closed, Imre has the raccoon drawing on his face (check with whoever rendered scene 18)
-    with dissolve
+    # u "*Chuckles* You don't remember?"
+    u "*Rire* Tu ne te souviens pas ?"
 
-    u "What's wrong, man?"
+# game/v12/scene19.rpy:53
+translate francais v12_party_wake_up_692aa310:
 
-    scene v12pwu4a # FPP. Same as v12pwu4, Imre mouth open, angry
-    with dissolve
+    # imre "I remember being drunk and talking to Amber."
+    imre "J'me souviens avoir été bourré et avoir parlé à Amber."
 
-    imre "What do you mean what's wrong?! I look like a damn raccoon! Who did this to me, [name]?"
+# game/v12/scene19.rpy:58
+translate francais v12_party_wake_up_b6fd93dd:
 
-    scene v12pwu4
-    with dissolve
+    # u "You don't remem-"
+    u "Tu ne te souv-"
 
-    u "*Chuckles* You don't remember?"
+# game/v12/scene19.rpy:63
+translate francais v12_party_wake_up_02f1df0a:
 
-    scene v12pwu4a
-    with dissolve
+    # imre "AMBER! SHE DID THIS!"
+    imre "AMBER ! C'EST ELLE QUI A FAIT ÇA !"
 
-    imre "I remember being drunk and talking to Amber."
+# game/v12/scene19.rpy:78
+translate francais v12_party_wake_up_9311e8fd:
 
-    scene v12pwu4
-    with dissolve
+    # imre "Where's Amber?!"
+    imre "Où est Amber ?!"
 
-    u "You don't remem-"
+# game/v12/scene19.rpy:83
+translate francais v12_party_wake_up_29d49bbe:
 
-    scene v12pwu4a
-    with dissolve
+    # u "Haha, I think she's already gone."
+    u "Haha, je crois qu'elle est déjà partie."
 
-    imre "AMBER! SHE DID THIS!"
+# game/v12/scene19.rpy:88
+translate francais v12_party_wake_up_712a541a:
 
-    scene v12pwu5 # TPP. Show Imre walking out of the bathroom, very angry, mouth closed
-    with dissolve
+    # no "Aww! Imre, you look like a weird raccoon... Come here, little guy..."
+    no "Oooh ! Imre, tu ressembles à un raton laveur bizarre... Viens ici, mon petit..."
 
-    pause 0.75
+# game/v12/scene19.rpy:103
+translate francais v12_party_wake_up_ebca7aff:
 
-    scene v12pwu5a # TPP. Same camera as v12pwu5, MC walking out of the bathroom, smiling, mouth closed
-    with dissolve
+    # au "*Yawn*"
+    au "*Baille*"
 
-    pause 0.75
+# game/v12/scene19.rpy:108
+translate francais v12_party_wake_up_ce0df527:
 
-    scene v12pwu6 # FPP. MC and Imre in the room, MC looking at Imre, Imre looking at MC, Imre angry, mouth open
-    with dissolve
+    # au "Someone's being extra nice this morning."
+    au "Quelqu'un est très bien ce matin."
 
-    imre "Where's Amber?!"
+# game/v12/scene19.rpy:113
+translate francais v12_party_wake_up_0eef854d:
 
-    scene v12pwu6a # FPP. Same as v12pwu6, Imre angry, mouth closed
-    with dissolve
+    # no "Last night put me in a good mood. It was nice being with just the girls after the guys left."
+    no "La nuit dernière m'a mise de bonne humeur. C'était bien d'être avec vous, les filles, après le départ des autres."
 
-    u "Haha, I think she's already gone."
+# game/v12/scene19.rpy:118
+translate francais v12_party_wake_up_640afd9c:
 
-    scene v12pwu7 # FPP. Same positioning as v12pwu6, Nora standing next to Imre, MC looking at Nora, slight smile, mouth open, Nora looking at Imre's direction
-    with dissolve
+    # imre "I was here...? So was [name]."
+    imre "J'étais ici... ? Tout comme [name]."
 
-    no "Aww! Imre, you look like a weird raccoon... Come here, little guy..."
+# game/v12/scene19.rpy:123
+translate francais v12_party_wake_up_3aee665e:
 
-    scene v12pwu8 # TPP. Same positioning as v12pwu7, Nora looking at Imre, Imre looking at Nora, Nora licking her thumb, Imre angry, mouth closed
-    with dissolve
+    # no "Yeah, but you guys didn't cause any issues."
+    no "Oui, mais vous n'avez pas causé de problèmes."
 
-    pause 0.75
+# game/v12/scene19.rpy:128
+translate francais v12_party_wake_up_a62af7b9:
 
-    scene v12pwu8a # TPP. Same as v12pwu8, Show Nora wiping off the drawing on Imre's face, Imre less annoyed, mouth closed, Nora mouth closed, slight smile
-    with dissolve
+    # u "Thanks?"
+    u "Heu merci..."
 
-    pause 1.25
+# game/v12/scene19.rpy:133
+translate francais v12_party_wake_up_c5fc922d:
 
-    scene v12pwu9 # FPP. Same positioning as v12pwu8, Aubrey lying on the bed with Riley, Aubrey yawning, she's waking up, Riley still sleeping
-    with dissolve
+    # no "Haha, that was a compliment. You're welcome. What time is it?"
+    no "Haha, c'était un compliment. C'est un plaisir. Quelle heure est-il ?"
 
-    au "*Yawn*"
+# game/v12/scene19.rpy:138
+translate francais v12_party_wake_up_2f9d3ea1:
 
-    scene v12pwu9a # FPP. Same as v12pwu9, Aubrey looking at Nora's direction, Aubrey slight smile, mouth open
-    with dissolve
+    # au "Early. *Chuckles*"
+    au "Tôt. *Rire*"
 
-    au "Someone's being extra nice this morning."
+# game/v12/scene19.rpy:143
+translate francais v12_party_wake_up_eb3fd509:
 
-    scene v12pwu7a # FPP. Same as v12pwu7, Nora looking at Aubrey's direction, Nora slight smile, mouth open
-    with dissolve
+    # no "Well, I wanted to go to the French baguette factory today."
+    no "Eh bien, je voulais aller à l'usine de la baguette française aujourd'hui."
 
-    no "Last night put me in a good mood. It was nice being with just the girls after the guys left."
+# game/v12/scene19.rpy:148
+translate francais v12_party_wake_up_ef196f44:
 
-    scene v12pwu6b # FPP. Same as v12pwu6, Imre looking at Nora's direction, Imre slight smile, mouth open
-    with dissolve
+    # au "Ugh... Why? That sounds so boring."
+    au "Euh... Pourquoi ? Ça a l'air tellement barbant."
 
-    imre "I was here...? So was [name]."
+# game/v12/scene19.rpy:153
+translate francais v12_party_wake_up_f5a03045:
 
-    scene v12pwu7
-    with dissolve
+    # no "Do you have anything else planned for today?"
+    no "Tu as prévu quelque chose d'autre pour aujourd'hui ?"
 
-    no "Yeah, but you guys didn't cause any issues."
+# game/v12/scene19.rpy:158
+translate francais v12_party_wake_up_603d27f2:
 
-    scene v12pwu7b # FPP. Same as v12pwu7, Nora looking at MC, Nora slight smile, mouth closed
-    with dissolve
+    # au "*Scoffs* No."
+    au "*Pfff* Non."
 
-    u "Thanks?"
+# game/v12/scene19.rpy:163
+translate francais v12_party_wake_up_997df18d:
 
-    scene v12pwu7c # FPP. Same as v12pwu7b, Nora slight smile, mouth open
-    with dissolve
+    # no "Then you can come along."
+    no "Alors tu peux venir."
 
-    no "Haha, that was a compliment. You're welcome. What time is it?"
+# game/v12/scene19.rpy:168
+translate francais v12_party_wake_up_5b4eed56:
 
-    scene v12pwu9a
-    with dissolve
+    # no "Imre, you and [name] can come too. If you want?"
+    no "Imre, toi et [name] êtes les bienvenus aussi. Vous voulez bien ?"
 
-    au "Early. *Chuckles*"
+# game/v12/scene19.rpy:173
+translate francais v12_party_wake_up_e7d9ac6f:
 
-    scene v12pwu7a
-    with dissolve
+    # u "I have nothing better to do."
+    u "J'ai rien de mieux à faire."
 
-    no "Well, I wanted to go to the French baguette factory today."
+# game/v12/scene19.rpy:178
+translate francais v12_party_wake_up_dda602c3:
 
-    scene v12pwu9b # FPP. Same as v12pwu9a, Aubrey slightly annoyed, mouth open
-    with dissolve
+    # imre "Hmm... I guess I can get revenge on Amber later."
+    imre "Hmm... J'peux m'venger d'Amber plus tard."
 
-    au "Ugh... Why? That sounds so boring."
+# game/v12/scene19.rpy:183
+translate francais v12_party_wake_up_d58b0b7e:
 
-    scene v12pwu7a
-    with dissolve
+    # no "Alright, let's get changed and go then. Meet you guys in the lobby!"
+    no "Très bien, on se change et on y va alors. On se retrouve dans le hall !"
 
-    no "Do you have anything else planned for today?"
+# game/v12/scene19.rpy:239
+translate francais v12_party_wake_up_d57b0c07:
 
-    scene v12pwu9b
-    with dissolve
+    # cl "HOW IS THAT GOOD?! YOU COULD'VE COME TO ME!"
+    cl "COMMENT ÇA \"C'EST BON\" ?! TU AURAIS PU VENIR ME VOIR !"
 
-    au "*Scoffs* No."
+# game/v12/scene19.rpy:244
+translate francais v12_party_wake_up_b2d3a4dc:
 
-    scene v12pwu7a
-    with dissolve
+    # li "How Chloe?! What would you have done differently? I've given you ideas and talked to you about all of this in the past, all you've done is blow me off. And you don't listen to any of the other girls either."
+    li "Comment Chloé ?! Qu'est-ce que tu aurais fait de plus ? Je t'ai donné des idées et je t'ai parlé de tout ça dans le passé, tout ce que tu as fait c'est m'envoyer balader. Et tu n'écoutes même pas les autres filles."
 
-    no "Then you can come along."
+# game/v12/scene19.rpy:249
+translate francais v12_party_wake_up_cee82729:
 
-    scene v12pwu7
-    with dissolve
-    
-    no "Imre, you and [name] can come too. If you want?"
+    # cl "We can't just change on the drop of a coin. Things take time!"
+    cl "On ne peut pas changer en un clin d'œil. Les choses prennent du temps !"
 
-    scene v12pwu7b
-    with dissolve
+# game/v12/scene19.rpy:254
+translate francais v12_party_wake_up_275671a7:
 
-    u "I have nothing better to do."
+    # li "That's your problem, Chloe. You know exactly what to do, and how to do it, we've told you. Numerous times. Yet you don't do a damn thing..."
+    li "C'est ton problème, Chloé. Tu sais exactement ce qu'il faut faire, et comment le faire, nous te l'avons dit. Et ce de nommmbreuses fois. Mais tu ne fais RIEN..."
 
-    scene v12pwu6b
-    with dissolve
+# game/v12/scene19.rpy:259
+translate francais v12_party_wake_up_2aa52f23:
 
-    imre "Hmm... I guess I can get revenge on Amber later."
+    # cl "Ha! You don't think I'm trying?!"
+    cl "Ha ! Vous pensez que je n'essaie pas ?!"
 
-    scene v12pwu7c
-    with dissolve
+# game/v12/scene19.rpy:264
+translate francais v12_party_wake_up_f9701b1c:
 
-    no "Alright, let's get changed and go then. Meet you guys in the lobby!"
+    # li "Sorry Chloe... But no. We have the ability to save this sorority and since you won't, I will!"
+    li "Désolée Chloé... Mais non. Nous avons la capacité de sauver cette fraternité et puisque tu refuse de le faire, JE le ferai !"
 
-    if not v11_riley_roomate:
+# game/v12/scene19.rpy:269
+translate francais v12_party_wake_up_fe5299f0:
 
-        scene v12pwu10 # TPP. Show MC leaving the hotel room, neutral expression, mouth closed
-        with dissolve
+    # cl "This is not going to help, Lindsey. If anything it's just going to divide the sorority."
+    cl "Cela ne va pas aider, Lindsey. Au contraire, ça va juste diviser la fraternité."
 
-        pause 0.75
-        
-        scene v12pwu11 # TPP. Show MC walking in the hallway, neutral expression, mouth closed
-        with dissolve
+# game/v12/scene19.rpy:274
+translate francais v12_party_wake_up_e15bd30d:
 
-        pause 0.75
+    # li "You're so blind to the fact that you're the problem and you don't wanna admit it."
+    li "Tu es tellement aveugle au fait que TU es le problème des Chicks, mais tu ne veux pas l'admettre."
 
-        scene v12pwu12 # TPP. Show MC entering his hotel rooom, neutral expression, mouth closed
-        with dissolve
+# game/v12/scene19.rpy:279
+translate francais v12_party_wake_up_bf2c275c:
 
-        pause 0.75
-    
-    $ v12s19_kiwiiPost1 = KiwiiPost(amber, "v12/imre_raccoon.webp", _("Happy Birthday, Lindsey!"), numberLikes=419) # Picture of Imre with the raccoon drawing from scene 18 on his face
-    $ v12s19_kiwiiPost1.newComment(chris, _("Oh no... What did you guys do to him?"), mentions=[amber], numberLikes=renpy.random.randint(250,350), force_send=True)
-    $ v12s19_kiwiiPost1.newComment(amber, _("\"We\" taught him why we shouldn't get too drunk at slumber parties... Hehe"), mentions=[chris], numberLikes=renpy.random.randint(150,300), force_send=True)
-    $ v12s19_kiwiiPost1.newComment(imre, _("\"We\"??? Who is we?!?!"), mentions=[amber], numberLikes=renpy.random.randint(250,400), force_send=True)
-    $ v12s19_kiwiiPost1.addReply(_("Not cool, Amber... Not cool... ;)"), v12s19_kiwiiReply1, mentions=[amber], numberLikes=renpy.random.randint(250, 330))
-    $ v12s19_kiwiiPost1.addReply(_("It's just a prank bro!"), v12s19_kiwiiReply1, mentions=[imre], numberLikes=renpy.random.randint(250, 330))
-    
-    scene v12pwu13 # TPP. Show MC removing his pajama shirt, pajama pants still on, neutral expression, mouth closed
-    with dissolve
+    # cl "I thought we were friends, Lindsey."
+    cl "Je croyais qu'on était amies, Lindsey."
 
-    pause 1
+# game/v12/scene19.rpy:284
+translate francais v12_party_wake_up_9674e2d9:
 
-    scene v12pwu13a # TPP. Same as v12pwu13, Show MC putting on his regular shirt, regular pants already on, mouth closed, neutral expression
-    with fade
+    # li "We are, but this is a whole other matter. I never wanted this to mess up our friendship."
+    li "Nous le sommes, mais c'est une toute autre affaire. Je n'ai jamais voulu que ça gâche notre amitié."
 
-    pause 1
+# game/v12/scene19.rpy:289
+translate francais v12_party_wake_up_06b50048:
 
-    if not v12_told_chloe and not v11_told_aubrey:
-        scene v12pwu10a # TPP. Same as v12pwu10, MC wearing regular clothes, neutral expression, mouth closed
-        with dissolve
+    # cl "Yet you're talking and planning things behind my back..."
+    cl "Pourtant, tu parles et planifies des choses dans mon dos..."
 
-        pause 0.75
+# game/v12/scene19.rpy:294
+translate francais v12_party_wake_up_827ceb9b:
 
-        scene v12pwu11a # TPP. Same as v12pwu11, MC wearing regular clothes, neutral expression, mouth closed
-        with dissolve
+    # li "I've come to you so many times over the past few weeks, Chloe. Opening up to you and all of your decisions in hopes that you'd be even a tiny bit open to what us girls want."
+    li "Je suis venue vers toi tellement de fois ces dernières semaines, Chloé. Je me suis ouverte à toi et après chacune de tes décisions dans l'espoir que tu sois un tant soit peu plus ouverte à ce que nous souhaitons, nous les filles."
 
-        pause 0.75
+# game/v12/scene19.rpy:295
+translate francais v12_party_wake_up_3240a31a:
 
-        scene v12pwu14 # TPP. Show MC walking in the hotel lobby, show Nora, Imre and Aubrey waiting for him, all slight smiles, mouths closed, Nora has a bag with her
-        with dissolve
+    # li "And you just refuse to hear any advice."
+    li "Et tu refuses d'écouter tout les conseils qui peuvent t'être donnés."
 
-        pause 0.75
-    
-    else:
-        scene v12pwu15 # FPP. MC in the room, looking at the door to the hallway
-        with vpunch
+# game/v12/scene19.rpy:300
+translate francais v12_party_wake_up_585ad0ca:
 
-        cl "HOW IS THAT GOOD?! YOU COULD'VE COME TO ME!"
+    # cl "We're in Europe right now, what am I supposed to do from here?"
+    cl "On est en Europe en ce moment, qu'est-ce que je suis censé faire d'ici ?"
 
-        scene v12pwu16 # TPP. Lindsey and Chloe in the hallway, looking at each other. Show only Lindsey, Lindsey looking at Chloe, Lindsey angry, mouth open, they are having a heated argument
-        with dissolve
+# game/v12/scene19.rpy:305
+translate francais v12_party_wake_up_f8ad63be:
 
-        li "How Chloe?! What would you have done differently? I've given you ideas and talked to you about all of this in the past, all you've done is blow me off. And you don't listen to any of the other girls either."
+    # li "Please don't make any excuses... I know you weren't planning on taking any of my advice. Any time I've ever had a suggestion you've come up with some reason to object to it."
+    li "S'il te plaît, ne cherche pas d'excuses... Je sais que tu ne comptais pas suivre un seul de mes conseils. Chaque fois que je t'ai fait une suggestion, tu as trouvé une raison pour t'y opposer."
 
-        scene v12pwu17 # TPP. Same as v12pwu16, show only Chloe, Chloe looking at Lindsey, Chloe angry, mouth open
-        with dissolve
+# game/v12/scene19.rpy:310
+translate francais v12_party_wake_up_6141847b:
 
-        cl "We can't just change on the drop of a coin. Things take time!"
+    # cl "Wow, you really don't get it... When everything blows up, just know you started this!"
+    cl "Waouh, tu ne comprends vraiment pas... Quand tout explosera, dis-toi juste que c'est toi qui as commencé !"
 
-        scene v12pwu16
-        with dissolve
+# game/v12/scene19.rpy:315
+translate francais v12_party_wake_up_21892a82:
 
-        li "That's your problem, Chloe. You know exactly what to do, and how to do it, we've told you. Numerous times. Yet you don't do a damn thing..."
+    # li "*Sighs* CHLOE!"
+    li "*Soupirs* CHLOÉ !"
 
-        scene v12pwu17
-        with dissolve
+# game/v12/scene19.rpy:320
+translate francais v12_party_wake_up_2d074143:
 
-        cl "Ha! You don't think I'm trying?!"
+    # u "(Getting back to campus just got a lot more exciting...)"
+    u "(Le retour sur le campus vient de devenir beaucoup plus excitant...)"
 
-        scene v12pwu16a # TPP. Same as v12pwu16, different pose
-        with dissolve
+# game/v12/scene19.rpy:340
+translate francais v12_party_wake_up_0cbf6fa4:
 
-        li "Sorry Chloe... But no. We have the ability to save this sorority and since you won't, I will!"
+    # no "Ready to go?"
+    no "On y va, tu es prêt ?"
 
-        scene v12pwu17a # TPP. Same as v12pwu17, different pose
-        with dissolve
+# game/v12/scene19.rpy:345
+translate francais v12_party_wake_up_b9563d83:
 
-        cl "This is not going to help, Lindsey. If anything it's just going to divide the sorority."
+    # u "Yeah, let's go."
+    u "Oui, c'est parti."
 
-        scene v12pwu16a
-        with dissolve
+translate francais strings:
 
-        li "You're so blind to the fact that you're the problem and you don't wanna admit it."
+    # game/v12/scene19.rpy:11
+    old "Hahahaha"
+    new "Hahahaha"
 
-        scene v12pwu17a
-        with dissolve
+    # game/v12/scene19.rpy:12
+    old "Karma's a bitch..."
+    new "Le karma est une salope..."
 
-        cl "I thought we were friends, Lindsey."
+    # game/v12/scene19.rpy:202
+    old "Happy Birthday, Lindsey!"
+    new "Joyeux anniversaire, Lindsey !"
 
-        scene v12pwu16
-        with dissolve
+    # game/v12/scene19.rpy:203
+    old "Oh no... What did you guys do to him?"
+    new "Oh non... Qu'est-ce que vous lui avez fait ?"
 
-        li "We are, but this is a whole other matter. I never wanted this to mess up our friendship."
+    # game/v12/scene19.rpy:204
+    old "\"We\" taught him why we shouldn't get too drunk at slumber parties... Hehe"
+    new "\"Nous\" lui avons appris pourquoi on ne devrait pas trop se saouler lors des soirées pyjama... Héhé"
 
-        scene v12pwu17a
-        with dissolve
+    # game/v12/scene19.rpy:205
+    old "\"We\"??? Who is we?!?!"
+    new "\"Nous\" ??? Qui est \"nous\" ?!?"
 
-        cl "Yet you're talking and planning things behind my back..."
+    # game/v12/scene19.rpy:206
+    old "Not cool, Amber... Not cool... ;)"
+    new "Pas cool, Amber... Pas cool... ;)"
 
-        scene v12pwu16
-        with dissolve
-
-        li "I've come to you so many times over the past few weeks, Chloe. Opening up to you and all of your decisions in hopes that you'd be even a tiny bit open to what us girls want."
-        li "And you just refuse to hear any advice."
-
-        scene v12pwu17
-        with dissolve
-
-        cl "We're in Europe right now, what am I supposed to do from here?"
-
-        scene v12pwu16a
-        with dissolve
-
-        li "Please don't make any excuses... I know you weren't planning on taking any of my advice. Any time I've ever had a suggestion you've come up with some reason to object to it."
-
-        scene v12pwu17
-        with dissolve
-
-        cl "Wow, you really don't get it... When everything blows up, just know you started this!"
-
-        scene v12pwu18 # TPP. Show Chloe walking away from Lindsey in the hallway, Chloe angry, mouth closed, Lindsey worried, mouth open
-        with dissolve
-
-        li "*Sighs* CHLOE!"
-
-        scene v12pwu18a # TPP. Same as v12pwu18, Chloe no longer in shot, show Lindsey running towards where Chloe was walking to, Lindsey worried, mouth closed
-        with dissolve
-
-        u "(Getting back to campus just got a lot more exciting...)"
-
-        scene v12pwu10a # TPP. Same as v12pwu10, MC wearing regular clothes, neutral expression, mouth closed
-        with dissolve
-
-        pause 0.75
-
-        scene v12pwu11a # TPP. Same as v12pwu11, MC wearing regular clothes, neutral expression, mouth closed
-        with dissolve
-
-        pause 0.75
-
-        scene v12pwu14 # TPP. Show MC walking in the hotel lobby, show Nora, Imre and Aubrey waiting for him, all slight smiles, mouths closed, Nora has a bag with her
-        with dissolve
-
-        pause 1
-
-        scene v12pwu19 # FPP. MC looking at Nora in the lobby, Nora looking at MC, Nora slight smile, mouth open
-        with dissolve
-
-        no "Ready to go?"
-
-        scene v12pwu19a # FPP. Same as v12pwu19, Nora slight smile, mouth closed
-        with dissolve
-
-        u "Yeah, let's go."
-
-        scene v12pwu20 # TPP. Show MC and Nora leaving the hotel lobby, both slightly smiling, mouths closed
-        with dissolve
-
-        pause 1
-
-    stop music fadeout 3
-
-    jump v12_urban_exploring #scene 20
+    # game/v12/scene19.rpy:207
+    old "It's just a prank bro!"
+    new "C'est juste une blague, mon frère !"

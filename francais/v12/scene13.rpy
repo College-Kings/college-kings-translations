@@ -1,229 +1,163 @@
-# SCENE 13: At the room MC suggest they go to the cafe
-# Locations: Hotel room, Hotel corridor, hotel lobby, sidewalk and in front of coffe shop
-# Characters: CHLOE (Outfit: 5), MC (Outfit: 5), RILEY (Outfit: 2)
-# Time: Morning
+﻿# TODO: Translation updated at 2021-12-22 20:32
 
-label v12_cafe:
-    if not v11_riley_roomate:
-        scene v12caf1 # TPP. MC sits up in his bed, rubbing his eyes
-        with fade
+# game/v12/scene13.rpy:18
+translate francais v12_cafe_eb4655cd:
 
-        pause 0.75
+    # cl "Morning."
+    cl "Bonjour."
 
-        play music "music/v12/Track Scene 13.mp3" fadein 2
+# game/v12/scene13.rpy:23
+translate francais v12_cafe_6b7d6898:
 
-        scene v12caf2 # FPP. MC sees chloe sitting on her bed going through her phone, mouth opened
-        with dissolve
+    # u "Hey, I thought you were gonna wake me up..."
+    u "Hé, je pensais que tu allais me réveiller..."
 
-        cl "Morning."
+# game/v12/scene13.rpy:28
+translate francais v12_cafe_2736ec51:
 
-        scene v12caf2a # FPP. Chloe now looking at mc, mouth closed
-        with dissolve
+    # cl "I was, but it's still pretty early. I thought I'd let you sleep a little longer."
+    cl "Je voulais, mais il est encore tôt. Je me suis dit que j'allais te laisser dormir un peu plus longtemps."
 
-        u "Hey, I thought you were gonna wake me up..."
+# game/v12/scene13.rpy:33
+translate francais v12_cafe_0bf2d36e:
 
-        scene v12caf2b # FPP. Same as 2a, mouth opened
-        with dissolve
+    # u "I wish I could sleep, but..."
+    u "J'aimerais pouvoir dormir, mais..."
 
-        cl "I was, but it's still pretty early. I thought I'd let you sleep a little longer."
+# game/v12/scene13.rpy:43
+translate francais v12_cafe_e900c110:
 
-        scene v12caf2a 
-        with dissolve
+    # u "*Laughs* I'm fucking starving. I honestly have no idea why I'm so hungry."
+    u "*Rire* Je meurs de faim. Franchement, je ne sais pas pourquoi j'ai si faim."
 
-        u "I wish I could sleep, but..."
+# game/v12/scene13.rpy:48
+translate francais v12_cafe_08bb2a8c:
 
-        scene v12caf3 # TPP. MC puts his hand on his stomach
-        with dissolve
+    # cl "Haha, well. Let's see... Did you eat yesterday morning before we hopped on the ferry?"
+    cl "Haha, eh bien. Voyons voir... As-tu mangé hier matin avant de prendre le ferry ?"
 
-        pause 0.75
+# game/v12/scene13.rpy:53
+translate francais v12_cafe_fd6d2fab:
 
-        scene v12caf2a
-        with dissolve
+    # u "Mmm... Nope."
+    u "Mmm... Non."
 
-        u "*Laughs* I'm fucking starving. I honestly have no idea why I'm so hungry."
+# game/v12/scene13.rpy:58
+translate francais v12_cafe_34aeca26:
 
-        scene v12caf2c # FPP. Chloe smiling, mouth opened
-        with dissolve
+    # cl "What about on the ferry?"
+    cl "Et à bord du ferry ?"
 
-        cl "Haha, well. Let's see... Did you eat yesterday morning before we hopped on the ferry?"
+# game/v12/scene13.rpy:63
+translate francais v12_cafe_5a182ea8:
 
-        scene v12caf2a
-        with dissolve
+    # u "I don't remember... I think I was too busy killing people. *Chuckles*"
+    u "Je ne me souviens pas... Je pense que j'étais trop occupé à tuer du monde. *Rire*"
 
-        u "Mmm... Nope."
+# game/v12/scene13.rpy:68
+translate francais v12_cafe_f4ed2056:
 
-        scene v12caf2b
-        with dissolve
+    # cl "Well, there you go. You're \"sooooo\" hungry because you've gone an entire day without eating. *Chuckles*"
+    cl "Eh bien, voilà. Tu as \"teeeeellement\" faim parce que tu as passé une journée entière sans manger. *Rire*"
 
-        cl "What about on the ferry?"
+# game/v12/scene13.rpy:73
+translate francais v12_cafe_f3f93e4a:
 
-        scene v12caf2a
-        with dissolve
+    # u "That's one of those, \"no shit, Sherlock\" type of moments, huh?"
+    u "C'est un de ces moments du genre \"sans blague, Sherlock\", hein ?"
 
-        u "I don't remember... I think I was too busy killing people. *Chuckles*"
+# game/v12/scene13.rpy:78
+translate francais v12_cafe_db2f7980:
 
-        scene v12caf2c
-        with dissolve
+    # cl "You said it, not me. What do you have an appetite for, a croissant? *Chuckles*"
+    cl "C'est toi qui l'as dit, pas moi. Tu as de l'appétit pour quoi, un croissant ? *Rire*"
 
-        cl "Well, there you go. You're \"sooooo\" hungry because you've gone an entire day without eating. *Chuckles*"
+# game/v12/scene13.rpy:83
+translate francais v12_cafe_046283b7:
 
-        scene v12caf2a
-        with dissolve
+    # u "*Chuckles* That actually sounds good, yeah."
+    u "*Rire* Pourquoi pas."
 
-        u "That's one of those, \"no shit, Sherlock\" type of moments, huh?"
+# game/v12/scene13.rpy:88
+translate francais v12_cafe_df5867d2:
 
-        scene v12caf2c
-        with dissolve
+    # cl "Alright, let's go somewhere then."
+    cl "Très bien, sortons un peu, alors."
 
-        cl "You said it, not me. What do you have an appetite for, a croissant? *Chuckles*"
+# game/v12/scene13.rpy:93
+translate francais v12_cafe_f967dac4:
 
-        scene v12caf2a
-        with dissolve
+    # u "Pretty sure I saw a cafe on the ride here."
+    u "Je suis presque sûr d'avoir vu un café en venant ici."
 
-        u "*Chuckles* That actually sounds good, yeah."
+# game/v12/scene13.rpy:98
+translate francais v12_cafe_ef6ffbff:
 
-        scene v12caf2d # FPP. Chloe stands up, mouth opened
-        with dissolve
+    # cl "Perfect, get up and lead the way."
+    cl "Parfait, lève-toi et ouvre la voie."
 
-        cl "Alright, let's go somewhere then."
+# game/v12/scene13.rpy:103
+translate francais v12_cafe_57ae9944:
 
-        scene v12caf2e # FPP. Same as 2d, mouth closed
-        with dissolve
+    # u "*Sighs*"
+    u "*Soupirs*"
 
-        u "Pretty sure I saw a cafe on the ride here."
+# game/v12/scene13.rpy:145
+translate francais v12_cafe_22e0fa53:
 
-        scene v12caf2f # FPP. Same as 2d, chloe smiling, mouth opened
-        with dissolve
+    # ri "*Humming* *Humming* *Humming*"
+    ri "*Hummmm* *Hummmm* *Hummmm*"
 
-        cl "Perfect, get up and lead the way."
+# game/v12/scene13.rpy:150
+translate francais v12_cafe_55d8a1ef:
 
-        scene v12caf2e
-        with dissolve
+    # u "Can you please be quiet."
+    u "Tu peux te taire, s'il te plaît ?"
 
-        u "*Sighs*"
+# game/v12/scene13.rpy:155
+translate francais v12_cafe_29edd37d:
 
-        scene v12caf4 # TPP. MC gets up
-        with dissolve
+    # ri "*Laughs* If you don't like my singing you can always leave."
+    ri "*Rire* Si tu n'aimes pas mon chant, tu peux toujours partir."
 
-        pause 0.75
+# game/v12/scene13.rpy:170
+translate francais v12_cafe_79cad9b1:
 
-        scene v12caf5 # TPP. MC and chloe leaving the room
-        with dissolve
+    # u "Leaving sounds like a good idea."
+    u "Partir est une bonne idée."
 
-        pause 1
+# game/v12/scene13.rpy:175
+translate francais v12_cafe_24291194:
 
-        scene v12caf6 # TPP. MC and chloe in the hotel lobby
-        with dissolve
+    # ri "Did my singing bother you that much?"
+    ri "Est-ce que ma chanson te dérangeait tant que ça ?"
 
-        pause 1
+# game/v12/scene13.rpy:180
+translate francais v12_cafe_a6ab6370:
 
-        scene v12caf7 # TPP. MC and chloe in the sidewalk
-        with dissolve
+    # u "*Chuckles* No, I'm starving."
+    u "*Rire* Non, je meurs de faim."
 
-        pause 1
+# game/v12/scene13.rpy:185
+translate francais v12_cafe_24b56615:
 
-        scene v12caf8 # TPP. MC and chloe in front of the cafe
-        with dissolve
-        
-        pause 1
+    # ri "Oh, I was about to say I'm hungry too, so where are we going?"
+    ri "Oh, j'étais sur le point de dire la même chose, j'ai faim aussi, alors on va où ?"
 
-        stop music fadeout 3
+# game/v12/scene13.rpy:190
+translate francais v12_cafe_096e7e65:
 
-        jump v12_chloe_cafe #scene 14
+    # u "I'm gonna go to that cafe we saw yesterday on the bus ride here."
+    u "On va aller dans ce café qu'on a vu hier dans le bus, pour venir à l'hôtel."
 
-    else:
-        scene v12caf1
-        with dissolve
+# game/v12/scene13.rpy:195
+translate francais v12_cafe_f00cc3b1:
 
-        pause 1.25
+    # ri "Then, I guess I am too!"
+    ri "Ok, je te suis !"
 
-        play music "music/v12/Track Scene 13.mp3" fadein 2
+# game/v12/scene13.rpy:200
+translate francais v12_cafe_d3d143f7:
 
-        scene v12caf9 # FPP. Riley humming on her bed
-        with dissolve
-
-        ri "*Humming* *Humming* *Humming*"
-
-        scene v12caf9a # FPP. MC looking at riley, mouth closed
-        with dissolve
-
-        u "Can you please be quiet."
-
-        scene v12caf9b # FPP. Same as 9a, riley smiling, mouth opened
-        with dissolve
-
-        ri "*Laughs* If you don't like my singing you can always leave."
-
-        scene v12caf10 # TPP. MC starts grabbing clothes
-        with dissolve
-
-        pause 0.75
-
-        scene v12caf11 # TPP. MC throws clothes on riley, 
-        with dissolve
-
-        pause 1
-
-        scene v12caf9a
-        with dissolve
-
-        u "Leaving sounds like a good idea."
-
-        scene v12caf9c # FPP. same as 9a, mouth closed
-        with dissolve
-
-        ri "Did my singing bother you that much?"
-
-        scene v12caf9a
-        with dissolve
-
-        u "*Chuckles* No, I'm starving."
-
-        scene v12caf9c
-        with dissolve
-
-        ri "Oh, I was about to say I'm hungry too, so where are we going?"
-
-        scene v12caf9a
-        with dissolve
-
-        u "I'm gonna go to that cafe we saw yesterday on the bus ride here."
-
-        scene v12caf9b
-        with dissolve
-
-        ri "Then, I guess I am too!"
-
-        scene v12caf9a
-        with dissolve
-
-        u "*Sighs* C'mon then. *Chuckles*"
-
-        scene v12caf12 # TPP. MC gets up
-        with dissolve
-
-        pause 0.75
-
-        scene v12caf13 # TPP. MC and riley leaving the room
-        with dissolve
-
-        pause 1
-
-        scene v12caf14 # TPP. MC and riley in the hotel lobby
-        with dissolve
-
-        pause 1
-
-        scene v12caf15 # TPP. MC and riley in the sidewalk
-        with dissolve
-
-        pause 1
-
-        scene v12caf16 # TPP. MC and riley in front of the cafe
-        with dissolve
-
-        pause 1
-
-        stop music fadeout 3
-
-        jump v12_riley_cafe #scene 14a
+    # u "*Sighs* C'mon then. *Chuckles*"
+    u "*Soupirs* Allons-y alors. *Rire*"

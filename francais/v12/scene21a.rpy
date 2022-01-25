@@ -1,355 +1,365 @@
-# SCENE 21a: Walking back and nursing Aubrey 
-# Locations: Hotel Room
-# Characters: AUBREY (Outfit: 1), MC (Outfit: 9), IMRE (Outfit: 2), NORA (Outfit: 1)
-# Time: Evening
-# Phone Images: None 
+﻿# TODO: Translation updated at 2021-12-28 23:28
 
-label v12_nursing_aubrey:
-    scene v12aun1 # TPP. Show MC and Aubrey going into the hotel room, MC helping Aubrey walk, Aubrey hurt her ankle, MC worried, mouth closed, Aubrey in pain, mouth closed
-    with dissolve
+# game/v12/scene21a.rpy:28
+translate francais v12_nursing_aubrey_e84de89a:
 
-    pause 1
+    # au "Ahhh... Fuck. It's super sensitive right now."
+    au "Ahhh... Putain. C'est vraiment sensible là."
 
-    play music "music/v12/Track Scene 21a.mp3" fadein 2
+# game/v12/scene21a.rpy:33
+translate francais v12_nursing_aubrey_fba83064:
 
-    scene v12aun2 # TPP. Show MC helping Aubrey sit down on the bed, Aubrey in pain, MC worried, both mouths closed
-    with dissolve
+    # u "Maybe you should try moving it around a bit."
+    u "Tu devrais peut-être essayer de le bouger un peu."
 
-    pause 1
+# game/v12/scene21a.rpy:43
+translate francais v12_nursing_aubrey_136b80d1:
 
-    scene v12aun3 # TPP. Show MC sitting down on the bed, Aubrey laying down on the bed with her feet on MC's lap. MC worried, Aubrey in pain, both of them looking at each other, mouths closed
-    with dissolve
+    # u "This is how you know you're getting too old for child games... *Chuckles*"
+    u "C'est comme ça que tu sais que tu deviens trop vieille pour les jeux d'enfants... *Rire*"
 
-    pause 1
+# game/v12/scene21a.rpy:48
+translate francais v12_nursing_aubrey_1bf5867e:
 
-    scene v12aun4 # FPP. Same positioning as v12aun4, MC looking at Aubrey, Aubrey looking at MC, Aubrey in pain, mouth open
-    with dissolve
+    # au "Ugh! I am not old! And I can do that stuff... I just should've stretched first."
+    au "Argh ! Je ne suis pas vieille ! Et je peux faire ces trucs... J'aurais juste dû m'étirer d'abord."
 
-    au "Ahhh... Fuck. It's super sensitive right now."
+# game/v12/scene21a.rpy:53
+translate francais v12_nursing_aubrey_b2e13796:
 
-    scene v12aun4a # FPP. Same as v12aun4, Aubrey in pain, mouth closed
-    with dissolve
+    # u "*Laughs* Oh, that's what it was?"
+    u "*Rire* Oh, c'était donc juste ça ?"
 
-    u "Maybe you should try moving it around a bit."
+# game/v12/scene21a.rpy:58
+translate francais v12_nursing_aubrey_0d03f6dc:
 
-    scene v12aun5 # FPP. Same positioning as v12aun3, MC looking at Aubrey's feet in his lap
-    with dissolve
+    # au "That's exactly what it was. *Chuckles*"
+    au "C'était juste ça, oui. *Rire*"
 
-    pause 0.75
+# game/v12/scene21a.rpy:63
+translate francais v12_nursing_aubrey_943d4dc2:
 
-    scene v12aun5a # FPP. Same as v12aun5, foot rotated slightly
-    with dissolve
+    # u "Okay, got it. I was wondering what excuse you were gonna come up with. *Chuckles*"
+    u "Ok, je comprends. Je me demandais quelle excuse tu allais trouver. *Rire*"
 
-    u "This is how you know you're getting too old for child games... *Chuckles*"
+# game/v12/scene21a.rpy:68
+translate francais v12_nursing_aubrey_0cb06ad6:
 
-    scene v12aun4
-    with dissolve
+    # au "UGH!"
+    au "OUH LÀ LÀ !"
 
-    au "Ugh! I am not old! And I can do that stuff... I just should've stretched first."
+# game/v12/scene21a.rpy:78
+translate francais v12_nursing_aubrey_59f65133:
 
-    scene v12aun4a
-    with dissolve
+    # au "Oww, oww, oww! I shouldn't have moved like that! Fuck off, [name]... *Chuckles*"
+    au "Aïe, aïe, aïe ! Je n'aurais pas dû bouger comme ça ! Va te faire foutre, [name]... *Rire*"
 
-    u "*Laughs* Oh, that's what it was?"
+# game/v12/scene21a.rpy:83
+translate francais v12_nursing_aubrey_0949f8b4:
 
-    scene v12aun4b # FPP. Same as v12aun4, Aubrey slight smile, mouth open
-    with dissolve
+    # u "*Laughs* Instant karma... For real though, does it hurt pretty bad?"
+    u "*Rire* Karma instantané... Mais sérieusement, ça ne fait pas mal ?"
 
-    au "That's exactly what it was. *Chuckles*"
+# game/v12/scene21a.rpy:88
+translate francais v12_nursing_aubrey_25231dad:
 
-    scene v12aun4c # FPP. Same as v12aun4b, Aubrey slightly angry, mouth closed
-    with dissolve
+    # au "Yeah. Actually..."
+    au "Ouais. En réalité..."
 
-    u "Okay, got it. I was wondering what excuse you were gonna come up with. *Chuckles*"
+# game/v12/scene21a.rpy:93
+translate francais v12_nursing_aubrey_b42c552c:
 
-    scene v12aun4d # FPP. Same as v12aun4c, Aubrey slightly angry, mouth closed
-    with dissolve
+    # u "*Sighs* C'mere."
+    u "*Soupirs* Viens ici."
 
-    au "UGH!"
+# game/v12/scene21a.rpy:98
+translate francais v12_nursing_aubrey_870f8cae:
 
-    scene v12aun4e # FPP. Same as v12aun4, show Aubrey sitting up and punching MC in the arm, Aubrey slightly angry, mouth closed
-    with dissolve
+    # au "Ahh! Mmm... That hurts a little bit."
+    au "Ahh ! Mmm... Ça fait un peu mal."
 
-    pause 0.75
+# game/v12/scene21a.rpy:103
+translate francais v12_nursing_aubrey_dcccf269:
 
-    scene v12aun4
-    with dissolve
+    # u "Just relax. Or try to at least..."
+    u "Détends-toi. Ou essaie au moins..."
 
-    au "Oww, oww, oww! I shouldn't have moved like that! Fuck off, [name]... *Chuckles*"
+# game/v12/scene21a.rpy:108
+translate francais v12_nursing_aubrey_dd26ac6f:
 
-    scene v12aun4a
-    with dissolve
+    # u "What? Why are you looking at me like that? *Chuckles*"
+    u "Quoi ? Pourquoi tu me regardes comme ça ? *Rire*"
 
-    u "*Laughs* Instant karma... For real though, does it hurt pretty bad?"
+# game/v12/scene21a.rpy:113
+translate francais v12_nursing_aubrey_9e86a80d:
 
-    scene v12aun4
-    with dissolve
+    # au "I'm just thinking..."
+    au "Je pensais juste..."
 
-    au "Yeah. Actually..."
+# game/v12/scene21a.rpy:118
+translate francais v12_nursing_aubrey_95df4da2:
 
-    scene v12aun4a
-    with dissolve
+    # u "About?"
+    u "À quoi ?"
 
-    u "*Sighs* C'mere."
+# game/v12/scene21a.rpy:123
+translate francais v12_nursing_aubrey_d1bed76b:
 
-    scene v12aun5b # FPP. Same as v12aun5, MC massaging Aubrey's feet
-    with dissolve
+    # au "You."
+    au "Toi."
 
-    au "Ahh! Mmm... That hurts a little bit."
+# game/v12/scene21a.rpy:128
+translate francais v12_nursing_aubrey_c5fbd5bb:
 
-    scene v12aun5c # FPP. Same as v12aun5b, still massaging feet, but position MC's hand a bit differently
-    with dissolve
+    # u "*Chuckles* What about me?"
+    u "*Rire* Quoi moi ?"
 
-    u "Just relax. Or try to at least..."
+# game/v12/scene21a.rpy:133
+translate francais v12_nursing_aubrey_18422fbc:
 
-    scene v12aun4f # FPP. Same as v12aun4, Aubrey head slightly tilted sideways, looking at MC, slight smile, mouth closed
-    with dissolve
+    # au "How come you decided to walk all the way back with me instead of having drinks with Nora? We both know she's a full fucking snack... *Laughs*"
+    au "Comment se fait-il que tu aies décidé de rentrer avec moi au lieu de rester boire un verre avec Nora ? Nous savons tous les deux qu'elle est un putain de casse-croûte complet... *Rire*"
 
-    u "What? Why are you looking at me like that? *Chuckles*"
+# game/v12/scene21a.rpy:138
+translate francais v12_nursing_aubrey_e8d40900:
 
-    scene v12aun4g # FPP. Same as v12aun4f, Aubrey slight smile, mouth open
-    with dissolve
+    # u "Ha... What does that have to do with it?"
+    u "Ha... Qu'est-ce que ça a à voir avec ça ?"
 
-    au "I'm just thinking..."
+# game/v12/scene21a.rpy:143
+translate francais v12_nursing_aubrey_f7b18183:
 
-    scene v12aun4f
-    with dissolve
+    # au "I just thought you normally chase after the prettiest girl, haha."
+    au "Je pensais juste que normalement tu aurais couru après la plus jolie fille, haha."
 
-    u "About?"
+# game/v12/scene21a.rpy:148
+translate francais v12_nursing_aubrey_d65fbcc9:
 
-    scene v12aun4g
-    with dissolve
+    # u "Maybe I do, but in this situation that'd make you the prettiest girl."
+    u "Peut-être que oui, mais dans ce cas, ça ferait de toi la plus jolie fille."
 
-    au "You."
+# game/v12/scene21a.rpy:153
+translate francais v12_nursing_aubrey_cc93d494:
 
-    scene v12aun4f
-    with dissolve
+    # au "You only came back with me 'cause you were hoping you'd get some. You don't have to lie."
+    au "Tu es revenu avec moi seulement parce que tu espérais avoir quelque chose. Tu n'as pas à mentir."
 
-    u "*Chuckles* What about me?"
+# game/v12/scene21a.rpy:158
+translate francais v12_nursing_aubrey_2378111f:
 
-    scene v12aun4h # FPP. Same as v12aun4f, Aubrey head not tilted, slight smile, mouth open
-    with dissolve
+    # u "Yeah, I was hoping to get some from the girl with the messed up leg. Yep... That's me."
+    u "Ouais, j'espérais en tirer un peu de la fille à la jambe abîmée. Ouaip... C'est bien moi ça."
 
-    au "How come you decided to walk all the way back with me instead of having drinks with Nora? We both know she's a full fucking snack... *Laughs*"
+# game/v12/scene21a.rpy:163
+translate francais v12_nursing_aubrey_ee8e39a0:
 
-    scene v12aun4i # FPP. Same as v12aun4h, Aubrey slight smile, mouth closed
-    with dissolve
+    # au "*Chuckles*"
+    au "*Rire*"
 
-    u "Ha... What does that have to do with it?"
+# game/v12/scene21a.rpy:168
+translate francais v12_nursing_aubrey_054b9fd4:
 
-    scene v12aun4h
-    with dissolve
+    # u "Why is it so hard to believe that I'm just a good guy trying to make sure you're okay?"
+    u "Pourquoi est-ce si difficile de croire que je suis juste un type bien qui essaie de s'assurer que tu vas bien ?"
 
-    au "I just thought you normally chase after the prettiest girl, haha."
+# game/v12/scene21a.rpy:173
+translate francais v12_nursing_aubrey_a2668c7a:
 
-    scene v12aun4i
-    with dissolve
+    # au "Because guys don't do that, and girls don't either really. People always want something in return and sex is usually nice for both sides."
+    au "Parce que les mecs ne font pas ça, et les filles non plus d'ailleurs. Les gens veulent toujours quelque chose en retour et le sexe est généralement bienvenu pour les deux parties."
 
-    u "Maybe I do, but in this situation that'd make you the prettiest girl."
+# game/v12/scene21a.rpy:178
+translate francais v12_nursing_aubrey_4f29cc78:
 
-    scene v12aun4g
-    with dissolve
+    # u "Not everything is about sex, sometimes you just help people."
+    u "Tout ne tourne pas autour du sexe, parfois tu aides juste les gens sans rien attendre en retour."
 
-    au "You only came back with me 'cause you were hoping you'd get some. You don't have to lie."
+# game/v12/scene21a.rpy:183
+translate francais v12_nursing_aubrey_335426ce:
 
-    scene v12aun4f
-    with dissolve
+    # au "Well, thanks for helping. This foot massage is definitely helping..."
+    au "Eh bien, merci de m'aider. Ce massage des pieds me fait vraiment du bien..."
 
-    u "Yeah, I was hoping to get some from the girl with the messed up leg. Yep... That's me."
+# game/v12/scene21a.rpy:196
+translate francais v12_nursing_aubrey_862d572e:
 
-    scene v12aun4h
-    with dissolve
+    # u "Well, if I was your boyfriend... You could get these all the time."
+    u "Eh bien, si j'étais ton petit ami... Tu pourrais avoir ça tout le temps."
 
-    au "*Chuckles*"
+# game/v12/scene21a.rpy:201
+translate francais v12_nursing_aubrey_dc464348:
 
-    scene v12aun4f
-    with dissolve
+    # au "Are you trying to tell me you wanna be my boyfriend? *Chuckles*"
+    au "Tu essaies de me dire que tu veux être mon petit ami ? *Rire*"
 
-    u "Why is it so hard to believe that I'm just a good guy trying to make sure you're okay?"
+# game/v12/scene21a.rpy:206
+translate francais v12_nursing_aubrey_46f731be:
 
-    scene v12aun4g
-    with dissolve
+    # u "Maybe..."
+    u "Peut-être..."
 
-    au "Because guys don't do that, and girls don't either really. People always want something in return and sex is usually nice for both sides."
+# game/v12/scene21a.rpy:211
+translate francais v12_nursing_aubrey_c3dcba99:
 
-    scene v12aun4f
-    with dissolve
+    # au "Well, \"maybe\" I'll think about it."
+    au "Eh bien, je vais \"peut-être\" y réfléchir."
 
-    u "Not everything is about sex, sometimes you just help people."
+# game/v12/scene21a.rpy:216
+translate francais v12_nursing_aubrey_8569c4fa:
 
-    scene v12aun4h
-    with dissolve
+    # u "*Chuckles*"
+    u "*Rire*"
 
-    au "Well, thanks for helping. This foot massage is definitely helping..."
+# game/v12/scene21a.rpy:222
+translate francais v12_nursing_aubrey_ea15117e:
 
-    scene v12aun4i
-    with dissolve
+    # u "That's what friends are for."
+    u "Les amis sont là pour ça."
 
-    menu:
-        "If I was your boyfriend...":
-            $ add_point(KCT.BOYFRIEND)
-            $ v12_aubrey_gf = True
+# game/v12/scene21a.rpy:227
+translate francais v12_nursing_aubrey_fd4218e7:
 
-            scene v12aun4f
-            with dissolve
+    # au "Hmm... I don't think all friends would be willing to massage someone's feet."
+    au "Hmm... Je ne pense pas que tous les amis seraient prêts à masser les pieds de quelqu'un."
 
-            u "Well, if I was your boyfriend... You could get these all the time."
+# game/v12/scene21a.rpy:232
+translate francais v12_nursing_aubrey_23ca0c37:
 
-            scene v12aun4g
-            with dissolve
+    # u "Well, then I'm the foot massaging kind of friend. *Chuckles*"
+    u "Eh bien, alors je suis le genre d'ami qui masse les pieds. *Rire*"
 
-            au "Are you trying to tell me you wanna be my boyfriend? *Chuckles*"
+# game/v12/scene21a.rpy:237
+translate francais v12_nursing_aubrey_459ee61d:
 
-            scene v12aun4f
-            with dissolve
+    # au "*Chuckles* Fucking weirdo..."
+    au "*Rire* Putain de taré..."
 
-            u "Maybe..."
+# game/v12/scene21a.rpy:243
+translate francais v12_nursing_aubrey_5ca5f1ec:
 
-            scene v12aun4h
-            with dissolve
+    # imre "We're back, bitches!"
+    imre "On est d'retour, les salopes !"
 
-            au "Well, \"maybe\" I'll think about it."
+# game/v12/scene21a.rpy:248
+translate francais v12_nursing_aubrey_f06b1af7:
 
-            scene v12aun4i
-            with dissolve
+    # no "Oh my god... Shut up. PUH-LEASE, shut up."
+    no "Oh putain... Tais-toi. S'IL-TE-PLAIT, tais-toi !"
 
-            u "*Chuckles*"
+# game/v12/scene21a.rpy:253
+translate francais v12_nursing_aubrey_834569d7:
 
-        "That's what friends are for":
-            scene v12aun4f
-            with dissolve
+    # u "Haha, that was fast."
+    u "Haha, ça a été rapide."
 
-            u "That's what friends are for."
+# game/v12/scene21a.rpy:258
+translate francais v12_nursing_aubrey_25b5c46e:
 
-            scene v12aun4g
-            with dissolve
+    # no "I couldn't fucking stand him anymore."
+    no "Je ne pouvais plus le supporter, putain."
 
-            au "Hmm... I don't think all friends would be willing to massage someone's feet."
+# game/v12/scene21a.rpy:263
+translate francais v12_nursing_aubrey_ebd3bfc4:
 
-            scene v12aun4i
-            with dissolve
+    # imre "Huh?! What's wrong with me?"
+    imre "Hein ? ! Qu'est-ce qui va pas chez moi ?"
 
-            u "Well, then I'm the foot massaging kind of friend. *Chuckles*"
+# game/v12/scene21a.rpy:268
+translate francais v12_nursing_aubrey_1f2ba661:
 
-            scene v12aun4h
-            with dissolve
+    # u "He looks like he drank a little too much, but that's nothing new..."
+    u "On dirait qu'il a un peu trop bu, mais ce n'est pas nouveau..."
 
-            au "*Chuckles* Fucking weirdo..."
+# game/v12/scene21a.rpy:273
+translate francais v12_nursing_aubrey_e0c7c8b3:
 
-    play sound "sounds/doorclose.mp3"
-    scene v12aun6 # FPP. MC looking at the hotel room door to the corridor, door is open, Imre is in front of it, looking at MC, he is smiling, mouth open, very excited
-    with vpunch
+    # no "Him being drunk isn't the problem, it's what he did while drunk."
+    no "Le fait qu'il soit ivre n'est pas le problème, c'est ce qu'il a fait pendant qu'il était ivre qui en est un."
 
-    imre "We're back, bitches!"
+# game/v12/scene21a.rpy:278
+translate francais v12_nursing_aubrey_d431df34:
 
-    scene v12aun6a # FPP. Same as v12aun6, Imre already in the room, not in shot, Nora at the door, annoyed, mouth open looking at Imre's direction
-    with dissolve
+    # u "Yikes, Imre... What'd you do this time? *Chuckles*"
+    u "Aïe, Imre... Qu'est-ce que tu as encore fait, cette fois ? *Rire*"
 
-    no "Oh my god... Shut up. PUH-LEASE, shut up."
+# game/v12/scene21a.rpy:283
+translate francais v12_nursing_aubrey_606bf365:
 
-    scene v12aun7 # FPP. Nora and Imre now standing in front of MC (MC and Aubrey same positioning as v12aun3), MC looking at Nora, Nora looking at MC, Nora slightly annoyed, mouth closed (Only Nora in shot)
-    with dissolve
+    # no "I took my shirt off to sunbathe for a bit in my bra and he started inviting people over, selling tickets to watch me... Claiming they were paying to see a \"beautiful foreign girl sunbathe\"."
+    no "J'ai enlevé ma chemise pour bronzer un peu en soutien-gorge et il a commencé à inviter des gens, à vendre des tickets pour me regarder... Prétendant qu'ils payaient pour voir une \"belle fille étrangère prendre un bain de soleil\"."
 
-    u "Haha, that was fast."
+# game/v12/scene21a.rpy:288
+translate francais v12_nursing_aubrey_dbc725ed:
 
-    scene v12aun7a # FPP. Same as v12aun7, Nora slightly annoyed, mouth open
-    with dissolve
+    # imre "I fail to see the lie... I'm an honest entrepreneur."
+    imre "J'vois pas où est l'mensonge... J'suis un entrepreneur honnête."
 
-    no "I couldn't fucking stand him anymore."
+# game/v12/scene21a.rpy:293
+translate francais v12_nursing_aubrey_fcc18885:
 
-    scene v12aun8 # FPP. Same positioning as v12aun7, MC looking at Imre, Imre looking at Nora, Imre slightly annoyed, mouth open (Only Imre in shot)
-    with dissolve
+    # u "*Laughs*"
+    u "*Rire*"
 
-    imre "Huh?! What's wrong with me?"
+# game/v12/scene21a.rpy:298
+translate francais v12_nursing_aubrey_20577f77:
 
-    scene v12aun7
-    with dissolve
+    # no "Yeah, you see my point?"
+    no "Ouais, vous voyez où je veux en venir ?"
 
-    u "He looks like he drank a little too much, but that's nothing new..."
+# game/v12/scene21a.rpy:303
+translate francais v12_nursing_aubrey_8d7e6ba7:
 
-    scene v12aun7a
-    with dissolve
+    # no "*Chuckles* What about you guys? How's your foot, Aubrey?"
+    no "*Rire* Et vous les amis ? Comment va ton pied, Aubrey ?"
 
-    no "Him being drunk isn't the problem, it's what he did while drunk."
+# game/v12/scene21a.rpy:308
+translate francais v12_nursing_aubrey_54856801:
 
-    scene v12aun8a # FPP. Same as v12aun8, Imre looking at MC, Imre slight smile, mouth closed
-    with dissolve
+    # au "A lot better. [name] massaged out the pain for a while actually."
+    au "Beaucoup mieux. [name] a massé la douleur pendant un bon moment."
 
-    u "Yikes, Imre... What'd you do this time? *Chuckles*"
+# game/v12/scene21a.rpy:313
+translate francais v12_nursing_aubrey_d318fc07:
 
-    scene v12aun7a
-    with dissolve
+    # no "Ooo, a foot massage sounds sooooo nice. Maybe I should fall and get hurt too. *Chuckles*"
+    no "Ooh, un massage des pieds a l'air tellement agréable. Peut-être que je devrais tomber et me blesser aussi. *Rire*"
 
-    no "I took my shirt off to sunbathe for a bit in my bra and he started inviting people over, selling tickets to watch me... Claiming they were paying to see a \"beautiful foreign girl sunbathe\"."
+# game/v12/scene21a.rpy:318
+translate francais v12_nursing_aubrey_38bbe564:
 
-    scene v12aun8b # FPP. Same as v12aun8, Imre slight smile, mouth open
-    with dissolve
+    # imre "I just got an idea! How about we sell tickets to massage \"a beautiful foreigner's feet\"? Genius, dude!"
+    imre "J'viens d'avoir une idée ! Et si on vendait des tickets pour masser \"les pieds d'une belle étrangère\" ? Génial, non ?"
 
-    imre "I fail to see the lie... I'm an honest entrepreneur."
+# game/v12/scene21a.rpy:323
+translate francais v12_nursing_aubrey_0aef897c:
 
-    scene v12aun8a
-    with dissolve
+    # u "And on that note, I'll see you guys later. Take care of yourself, Aubrey."
+    u "Et sur cette note, je vous verrai bientôt. Prends soin de toi, Aubrey."
 
-    u "*Laughs*"
+# game/v12/scene21a.rpy:328
+translate francais v12_nursing_aubrey_5fbd9ecb:
 
-    scene v12aun7a
-    with dissolve
+    # u "And Nora, please don't kill him."
+    u "Et Nora, s'il te plaît, ne le tue pas... \"encore\"."
 
-    no "Yeah, you see my point?"
+# game/v12/scene21a.rpy:333
+translate francais v12_nursing_aubrey_48a828e5:
 
-    scene v12aun7b # FPP. Same as v12aun7, Nora looking at Aubrey's direction, Nora slight smile, mouth open
-    with dissolve
+    # no "*Sighs* I'll try not to."
+    no "*Soupirs* J'essaierai de ne pas le faire."
 
-    no "*Chuckles* What about you guys? How's your foot, Aubrey?"
+# game/v12/scene21a.rpy:348
+translate francais v12_nursing_aubrey_75ea28e7:
 
-    scene v12aun4j # FPP. Same as v12aun4, Aubrey looking at Nora, Aubrey slight smile, mouth open
-    with dissolve
+    # u "Later guys."
+    u "À plus tard."
 
-    au "A lot better. [name] massaged out the pain for a while actually."
+translate francais strings:
 
-    scene v12aun7b
-    with dissolve
+    # game/v12/scene21a.rpy:188
+    old "If I was your boyfriend..."
+    new "Si j'étais ton petit-ami..."
 
-    no "Ooo, a foot massage sounds sooooo nice. Maybe I should fall and get hurt too. *Chuckles*"
-
-    scene v12aun8c # FPP. Same as v12aun8a, Imre slight smile, mouth open
-    with dissolve
-
-    imre "I just got an idea! How about we sell tickets to massage \"a beautiful foreigner's feet\"? Genius, dude!"
-
-    scene v12aun8a
-    with dissolve
-
-    u "And on that note, I'll see you guys later. Take care of yourself, Aubrey."
-
-    scene v12aun7
-    with dissolve
-
-    u "And Nora, please don't kill him."
-
-    scene v12aun7a
-    with dissolve
-
-    no "*Sighs* I'll try not to."
-
-    scene v12aun9 # TPP. Show MC getting up from the bed, slight smile, mouth closed
-    with dissolve
-
-    pause 0.75
-
-    scene v12aun10 # TPP. Show MC walking towards the hotel room door, slight smile, mouth closed
-    with dissolve
-
-    pause 0.75
-
-    scene v12aun11 # FPP. MC standing in front of the door, Aubrey, Imre and Nora same positioning as v12aun7, all looking at MC, all slight smiles, mouths closed
-    with dissolve
-
-    u "Later guys."
-
-    scene v12aun12 # TPP. Show MC leaving the hotel room and going to the hallway, slight smile, mouth closed
-    with dissolve
-
-    pause 0.75
-
-    jump v12_riley_room #scene 22
+    # game/v12/scene21a.rpy:188
+    old "That's what friends are for"
+    new "C'est à ça que servent les amis."

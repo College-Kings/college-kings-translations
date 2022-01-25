@@ -1,661 +1,637 @@
-# SCENE 14: At the Cafe with Chloe
-# Locations: Cafe
-# Characters: CHLOE (Outfit: 5), MC (Outfit: 5), FRENCH WAITRESS (Outfit: 1), RILEY (Outfit: 2)
-# Time: Morning
-# Phone Images: rileycatacomb.webp - Riley selfie at the catacomb entrance with a street sign behind her with "CATACOMBS" written on it, Riley smiling, mouth closed
+﻿# TODO: Translation updated at 2021-12-23 22:37
 
-label v12_chloe_cafe:
-    scene v12chc1 # TPP. Show MC and Chloe going into the cafe, both smiling, mouths closed
-    with dissolve
+# game/v12/scene14.rpy:40
+translate francais v12_chloe_cafe_fb898b9c:
 
-    pause 0.75
+    # cl "This is such a nice place! I feel like I'm underdressed... *Laughs*"
+    cl "C'est un endroit tellement agréable ! J'ai l'impression d'être trop mal habillée pour être ici... *Rire*"
 
-    play music "music/v12/Track Scene 14.mp3" fadein 2
+# game/v12/scene14.rpy:46
+translate francais v12_chloe_cafe_4ec58afd:
 
-    scene v12chc2 # TPP. Show MC and Chloe approaching their table, both smiling, mouths closed
-    with dissolve
+    # u "Are you kidding? You look perfect. Like always."
+    u "Tu rigoles ? Tu es parfaite. Comme toujours."
 
-    pause 0.75
+# game/v12/scene14.rpy:51
+translate francais v12_chloe_cafe_e6726207:
 
-    if chloe.relationship >= Relationship.FWB:
-        scene v12chc3 # TPP. Show MC pulling Chloe's chair out so she can sit down, both smiling, mouths closed
-        with dissolve
+    # cl "Thank you, Mr. Charming... *Chuckles*"
+    cl "Merci, Mr Le Charmeur... *Rire*"
 
-        pause 0.75
+# game/v12/scene14.rpy:56
+translate francais v12_chloe_cafe_844727fa:
 
-        scene v12chc4 # TPP. Show MC midway through sitting down on his chair, Chloe looking at MC, she is sitting down in her chair, both smiling, mouths closed
-        with dissolve
+    # cl "But really... I mean look at this place."
+    cl "Mais vraiment... Regardes cet endroit."
 
-        pause 0.75
+# game/v12/scene14.rpy:61
+translate francais v12_chloe_cafe_cda78fcf:
 
-    else:
-        scene v12chc4a # TPP. Show MC and Chloe midway through sitting down, both smiling, mouths closed
-        with dissolve
+    # u "Haha, I know what you mean... It is fancy here. A very \"French movie\" type of place."
+    u "Haha, je vois ce que tu veux dire... C'est chic ici. Un endroit très \"cinéma français\"."
 
-        pause 0.75
-    
-    scene v12chc5 # FPP. MC and Chloe sitting down in the cafe, both of them looking at each other, Chloe smiling, mouth open
-    with dissolve
+# game/v12/scene14.rpy:66
+translate francais v12_chloe_cafe_d845c796:
 
-    cl "This is such a nice place! I feel like I'm underdressed... *Laughs*"
+    # cl "*Chuckles* What does that even mean?"
+    cl "*Rire* Qu'est-ce que ça veut dire ?"
 
-    if chloe.relationship >= Relationship.FWB:
-        scene v12chc5a # FPP. Same as v12chc5, Chloe blushing, smiling, mouth closed, avoiding eye contact
-        with dissolve
+# game/v12/scene14.rpy:71
+translate francais v12_chloe_cafe_ca804798:
 
-        u "Are you kidding? You look perfect. Like always."
+    # u "I have no idea. *Chuckles*"
+    u "Je n'en ai aucune idée. *Rire*"
 
-        scene v12chc5b # FPP. Same as v12chc5a, Chloe smiling, mouth open, blushing, avoiding eye contact
-        with dissolve
+# game/v12/scene14.rpy:76
+translate francais v12_chloe_cafe_0bbaa8c4:
 
-        cl "Thank you, Mr. Charming... *Chuckles*"
+    # cl "Haha... Hmm, Do you know what you want to eat?"
+    cl "Haha... Hmm, tu sais ce que tu veux manger ?"
 
-        scene v12chc5
-        with dissolve
+# game/v12/scene14.rpy:81
+translate francais v12_chloe_cafe_0a9ea506:
 
-        cl "But really... I mean look at this place."
+    # u "I'm in another country and have no idea what I'm reading half the time. Probably best to just tell them to surprise us. *Laughs*"
+    u "Je suis dans un autre pays et je n'ai aucune idée de ce que je lis la plupart du temps. C'est probablement mieux de leur demander de nous surprendre. *Rire*"
 
-    scene v12chc5c # FPP. Same as v12chc5, Chloe mouth closed, smiling
-    with dissolve
+# game/v12/scene14.rpy:86
+translate francais v12_chloe_cafe_1eba4b42:
 
-    u "Haha, I know what you mean... It is fancy here. A very \"French movie\" type of place."
+    # cl "I'm sure they can speak English, this is a tourist spot, right?"
+    cl "Je suis sûre qu'ils parleront anglais, c'est un lieu touristique, non ?"
 
-    scene v12chc5
-    with dissolve
+# game/v12/scene14.rpy:91
+translate francais v12_chloe_cafe_f0576b40:
 
-    cl "*Chuckles* What does that even mean?"
+    # u "Guess we'll find out because here comes the waiter."
+    u "Je pense qu'on va le savoir, la serveuse arrive."
 
-    scene v12chc5c
-    with dissolve
+# game/v12/scene14.rpy:101
+translate francais v12_chloe_cafe_cf0fbdf4:
 
-    u "I have no idea. *Chuckles*"
+    # fwait "Bonjour, comment allez-vous?"
+    fwait "*En français* Bonjour, comment allez-vous ?"
 
-    scene v12chc5
-    with dissolve
+# game/v12/scene14.rpy:106
+translate francais v12_chloe_cafe_9ec4c9cb:
 
-    cl "Haha... Hmm, Do you know what you want to eat?"
-
-    scene v12chc5c
-    with dissolve
-
-    u "I'm in another country and have no idea what I'm reading half the time. Probably best to just tell them to surprise us. *Laughs*"
-
-    scene v12chc5d # FPP. Same as v12chc5, different pose
-    with dissolve
-
-    cl "I'm sure they can speak English, this is a tourist spot, right?"
-
-    scene v12chc5e # FPP. Same as v12chc5d, Chloe smiling, mouth closed
-    with dissolve
-
-    u "Guess we'll find out because here comes the waiter."
-
-    scene v12chc6 # TPP. Show the waitress walking over to MC and Chloe's table, everyone smiling, mouths closed
-    with dissolve
-
-    pause 0.75
-
-    scene v12chc7 # FPP. MC looking at the waitress, waitress looking at MC, waitress mouth open, slight smile, waitress standing next to their table
-    with dissolve
-
-    fwait "Bonjour, comment allez-vous?"
-
-    scene v12chc7a # FPP. Same as v12chc7, waitress mouth closed, slight smile
-    with dissolve
-
+    # u "Uhhh..."
     u "Uhhh..."
 
-    scene v12chc5f # FPP. Same as v12chc5, Chloe looking at the waitress' direction, Chloe slight smile, mouth open
-    with dissolve
+# game/v12/scene14.rpy:111
+translate francais v12_chloe_cafe_3cf961a1:
 
-    cl "V-Very good. We um-"
+    # cl "V-Very good. We um-"
+    cl "T-Très bien. Nous hum..."
 
-    scene v12chc7b # FPP. Same as v12chc7, waitress lookign at Chloe's direction, waitress slight smile, mouth open
-    with dissolve
+# game/v12/scene14.rpy:116
+translate francais v12_chloe_cafe_4f925068:
 
-    fwait "Parles-tu français?"
+    # fwait "Parles-tu français?"
+    fwait "*En français* Parlez-vous français ?"
 
-    scene v12chc5f
-    with dissolve
+# game/v12/scene14.rpy:121
+translate francais v12_chloe_cafe_3e21e351:
 
-    cl "Un peu."
+    # cl "Un peu."
+    cl "*En français* Un peu."
 
-    scene v12chc7b
-    with dissolve
+# game/v12/scene14.rpy:126
+translate francais v12_chloe_cafe_93512f79:
 
-    fwait "Oooo, très bien."
+    # fwait "Oooo, très bien."
+    fwait "*En français* Oooo, très bien."
 
-    scene v12chc5e
-    with dissolve
+# game/v12/scene14.rpy:131
+translate francais v12_chloe_cafe_a4016fc0:
 
-    u "The fu- You never told me you spoke French..."
+    # u "The fu- You never told me you spoke French..."
+    u "Put... Tu ne m'as jamais dit que tu parlais français..."
 
-    scene v12chc5d
-    with dissolve
+# game/v12/scene14.rpy:136
+translate francais v12_chloe_cafe_9240e5e6:
 
-    cl "I don't speak French... I just remember a few things from my language class."
+    # cl "I don't speak French... I just remember a few things from my language class."
+    cl "Je ne parle pas français... Je me souviens juste de quelques trucs de ce que j'ai \"appris\" à l'école."
 
-    scene v12chc7b
-    with dissolve
+# game/v12/scene14.rpy:141
+translate francais v12_chloe_cafe_0446e6ff:
 
-    fwait "Que puis-je faire pour vous?"
+    # fwait "Que puis-je faire pour vous?"
+    fwait "*En français* Que puis-je faire pour vous ?"
 
-    scene v12chc5f
-    with dissolve
+# game/v12/scene14.rpy:146
+translate francais v12_chloe_cafe_7a6ac15d:
 
+    # cl "Umm..."
     cl "Umm..."
 
-    scene v12chc5e
-    with dissolve
+# game/v12/scene14.rpy:151
+translate francais v12_chloe_cafe_d5d07445:
 
-    u "And... We found the extent of your French skills. *Laughs*"
+    # u "And... We found the extent of your French skills. *Laughs*"
+    u "Et... Nous avons atteint les limites de tes compétences en français. *Rire*"
 
-    scene v12chc5f
-    with dissolve
+# game/v12/scene14.rpy:156
+translate francais v12_chloe_cafe_b554b390:
 
-    cl "I'm sorry, but do you have a waiter that speaks English?"
+    # cl "I'm sorry, but do you have a waiter that speaks English?"
+    cl "Je suis désolée, mais avez-vous un serveur qui parle anglais ?"
 
-    scene v12chc7b
-    with dissolve
+# game/v12/scene14.rpy:161
+translate francais v12_chloe_cafe_ee99f703:
 
-    fwait "I can go try to find one."
+    # fwait "I can go try to find one."
+    fwait "Je peux essayer de trouver quelqu'un."
 
-    scene v12chc5g # FPP. Same as v12chc5f, Chloe surprised, mouth closed
-    with dissolve
+# game/v12/scene14.rpy:176
+translate francais v12_chloe_cafe_56603eeb:
 
-    pause 0.75
+    # fwait "*Laughs* Anytime I spot tourists, I like to see just how much I can mess with them."
+    fwait "*Rire* Chaque fois que je vois des touristes, j'aime voir jusqu'à quel point je peux les embêter."
 
-    scene v12chc5h # FPP. Same as v12chc5f, Chloe slight smile, mouth closed
-    with dissolve
+# game/v12/scene14.rpy:181
+translate francais v12_chloe_cafe_5fb8aa2d:
 
-    pause 0.75
+    # cl "*Chuckles* Well it was very convincing, I'm so sorry for assuming."
+    cl "*Rire* C'était très crédible, je suis désolée d'avoir cru que vous ne parliez pas anglais."
 
-    scene v12chc7b
-    with dissolve
+# game/v12/scene14.rpy:186
+translate francais v12_chloe_cafe_509f2f8b:
 
-    fwait "*Laughs* Anytime I spot tourists, I like to see just how much I can mess with them."
+    # fwait "Haha, no it's fine. I'd assume you only spoke English."
+    fwait "Haha, non c'est bon. J'ai cru également que vous ne parliez qu'anglais."
 
-    scene v12chc5f
-    with dissolve
+# game/v12/scene14.rpy:191
+translate francais v12_chloe_cafe_33c2c8c6:
 
-    cl "*Chuckles* Well it was very convincing, I'm so sorry for assuming."
+    # cl "And you'd be right. *Chuckles*"
+    cl "Et vous aviez raison. *Rire*"
 
-    scene v12chc7b
-    with dissolve
+# game/v12/scene14.rpy:196
+translate francais v12_chloe_cafe_5423ff0c:
 
-    fwait "Haha, no it's fine. I'd assume you only spoke English."
+    # fwait "So, what can I get for the gorgeous couple?"
+    fwait "Alors, qu'est-ce que je peux proposer à ce couple magnifique ?"
 
-    scene v12chc5f
-    with dissolve
+# game/v12/scene14.rpy:202
+translate francais v12_chloe_cafe_fa8bacce:
 
-    cl "And you'd be right. *Chuckles*"
+    # cl "Haha, he wishes we were a couple."
+    cl "Haha, il aimerait que nous soyons en couple."
 
-    scene v12chc7b
-    with dissolve
+# game/v12/scene14.rpy:213
+translate francais v12_chloe_cafe_a7f0cfb4:
 
-    fwait "So, what can I get for the gorgeous couple?"
+    # u "Mmm, yeah... It'd be nice. *Chuckles*"
+    u "Mmm, ouais... Ce serait bien. *Rire*"
 
-    if chloe.relationship >= Relationship.GIRLFRIEND:
-        scene v12chc5i # FPP. Same as v12chc5, Show Chloe blushing, slight smile, avoiding eye contact, putting her hair behind her ear, mouth closed
-        with dissolve
+# game/v12/scene14.rpy:220
+translate francais v12_chloe_cafe_7bbc5353:
 
-        u "Haha, why are you smiling?"
+    # u "I'd rather date a fishing pole."
+    u "Je préfère sortir avec une canne à pêche."
 
-        scene v12chc7b
-        with dissolve
+# game/v12/scene14.rpy:225
+translate francais v12_chloe_cafe_add8610a:
 
-        fwait "Was it something I said?"
+    # cl "A fishing pole? What on earth made you say that? *Chuckles*"
+    cl "Une canne à pêche ? Qu'est-ce qui t'a fait dire ça ? *Rire*"
 
-        scene v12chc5j # FPP. Same as v12chc5f, Chloe still blushing, mouth open, slight smile, 
-        with dissolve
+# game/v12/scene14.rpy:230
+translate francais v12_chloe_cafe_e60b2bc5:
 
-        cl "It was actually, but not in a bad way. My handsome boyfriend here actually asked me out pretty recently and well... This is our first time out as an official couple. *Chuckles*"
+    # u "It was the first thing that came to mind. *Chuckles*"
+    u "C'est la première chose qui m'est venue à l'esprit.  *Rire*"
 
-        scene v12chc7b
-        with dissolve
+# game/v12/scene14.rpy:235
+translate francais v12_chloe_cafe_8ec6fc24:
 
-        fwait "Oh wow! Congrats... That's exciting stuff."
+    # u "But, since my friend's French is so bad-"
+    u "Mais, puisque le français de mon amie est si mauvais-"
 
-        scene v12chc5c
-        with dissolve
+# game/v12/scene14.rpy:241
+translate francais v12_chloe_cafe_4fa8c52c:
 
-        u "\"Handsome boyfriend\". Hmm... I like the sound of that."
+    # u "Haha, why are you smiling?"
+    u "Haha, pourquoi tu souris ?"
 
-        scene v12chc5
-        with dissolve
+# game/v12/scene14.rpy:246
+translate francais v12_chloe_cafe_9268d816:
 
-        cl "*Chuckles*"
+    # fwait "Was it something I said?"
+    fwait "J'ai dit quelque chose de mal ?"
 
-        scene v12chc7a
-        with dissolve
+# game/v12/scene14.rpy:251
+translate francais v12_chloe_cafe_732dddbb:
 
-        u "Alright, now... Since my amazing girlfriend's French is so bad-"
+    # cl "It was actually, but not in a bad way. My handsome boyfriend here actually asked me out pretty recently and well... This is our first time out as an official couple. *Chuckles*"
+    cl "En fait, oui, mais pas dans le mauvais sens. Mon charmant petit ami m'a demandé de sortir avec lui assez récemment et... C'est notre première sortie en tant que \"couple officiel\". *Rire*"
 
-    else:
-        scene v12chc5f
-        with dissolve
+# game/v12/scene14.rpy:256
+translate francais v12_chloe_cafe_45ce2aef:
 
-        cl "Haha, he wishes we were a couple."
+    # fwait "Oh wow! Congrats... That's exciting stuff."
+    fwait "Oh wow ! Félicitations... C'est très excitant."
 
-        scene v12chc5e
-        with dissolve
+# game/v12/scene14.rpy:261
+translate francais v12_chloe_cafe_2b9128b2:
 
-        menu:
-            "It'd be nice":
-                $ add_point(KCT.BOYFRIEND)
-                scene v12chc5c
-                with dissolve
+    # u "\"Handsome boyfriend\". Hmm... I like the sound of that."
+    u "\"charmant petit ami\". Hmm... J'aime entendre ça."
 
-                u "Mmm, yeah... It'd be nice. *Chuckles*"
+# game/v12/scene14.rpy:266
+translate francais v12_chloe_cafe_108b353e:
 
-            "Not really":
-                $ add_point(KCT.BRO)
-                scene v12chc5c
-                with dissolve
+    # cl "*Chuckles*"
+    cl "*Rire*"
 
-                u "I'd rather date a fishing pole."
+# game/v12/scene14.rpy:271
+translate francais v12_chloe_cafe_34d668b1:
 
-                scene v12chc5
-                with dissolve
+    # u "Alright, now... Since my amazing girlfriend's French is so bad-"
+    u "Bon, maintenant... Puisque le français de mon incroyable petite amie est si mauvais-"
 
-                cl "A fishing pole? What on earth made you say that? *Chuckles*"
+# game/v12/scene14.rpy:276
+translate francais v12_chloe_cafe_2bb60d86:
 
-                scene v12chc5c
-                with dissolve
+    # cl "Hey! *Chuckles*"
+    cl "Hey ! *Rire*"
 
-                u "It was the first thing that came to mind. *Chuckles*"
-        
-        scene v12chc7a
-        with dissolve
+# game/v12/scene14.rpy:281
+translate francais v12_chloe_cafe_b5340dd5:
 
-        u "But, since my friend's French is so bad-"
+    # u "We had planned to just have you surprise us with whatever you thought we'd enjoy. As hungry as I am, I'm not very picky at the moment."
+    u "On avait prévu que vous nous surprendriez avec quelque chose qui pourrait nous plaire. Aussi affamé que je sois, Je ne vais pas faire le difficile."
 
-    scene v12chc5d
-    with dissolve
+# game/v12/scene14.rpy:286
+translate francais v12_chloe_cafe_0704f72d:
 
-    cl "Hey! *Chuckles*"
+    # fwait "I think I know exactly what to get for you two. If you're sure there's nothing specific you'd like, I can get it going for you guys."
+    fwait "Je pense que je sais exactement ce qu'il faut pour vous deux. Si vous êtes sûr qu'il n'y a rien de spécifique que vous aimeriez, alors je peux choisir pour vous."
 
-    scene v12chc7a
-    with dissolve
+# game/v12/scene14.rpy:291
+translate francais v12_chloe_cafe_db654624:
 
-    u "We had planned to just have you surprise us with whatever you thought we'd enjoy. As hungry as I am, I'm not very picky at the moment."
+    # cl "Nope, that'd be great. Thank you."
+    cl "Ce serait parfait. Merci."
 
-    scene v12chc7
-    with dissolve
+# game/v12/scene14.rpy:301
+translate francais v12_chloe_cafe_5f176595:
 
-    fwait "I think I know exactly what to get for you two. If you're sure there's nothing specific you'd like, I can get it going for you guys."
+    # cl "She was really sweet."
+    cl "Elle est vraiment gentille."
 
-    scene v12chc5f
-    with dissolve
+# game/v12/scene14.rpy:306
+translate francais v12_chloe_cafe_ba4913eb:
 
-    cl "Nope, that'd be great. Thank you."
+    # u "Yeah, she was cool."
+    u "Oui, elle est sympa."
 
-    scene v12chc6a # TPP. Same as v12chc6, waitress walking away, everyone smiling, mouths closed
-    with dissolve
+# game/v12/scene14.rpy:311
+translate francais v12_chloe_cafe_44055d8c:
 
-    pause 0.75
+    # cl "*Sighs* One more stop before we get back."
+    cl "*Soupirs* Encore une étape avant de rentrer."
 
-    scene v12chc5
-    with dissolve
+# game/v12/scene14.rpy:316
+translate francais v12_chloe_cafe_cf7d6a1d:
 
-    cl "She was really sweet."
+    # u "What's making you think about going back all of a sudden?"
+    u "Qu'est-ce qui te fait penser au retour, tout d'un coup ?"
 
-    scene v12chc5c
-    with dissolve
+# game/v12/scene14.rpy:321
+translate francais v12_chloe_cafe_ac99b565:
 
-    u "Yeah, she was cool."
+    # cl "Well, after the stuff that went down on the carriage rides there's been something on my mind."
+    cl "Après ce qui s'est passé pendant la promenade en calèche, j'ai quelque chose en tête."
 
-    scene v12chc5k # FPP. Same as v12chc5, Chloe looking at MC, she is slightly worried, mouth open, different pose
-    with dissolve
+# game/v12/scene14.rpy:326
+translate francais v12_chloe_cafe_6a8b5460:
 
-    cl "*Sighs* One more stop before we get back."
+    # u "And what's that?"
+    u "Et c'est quoi ?"
 
-    scene v12chc5l # FPP. Same as v12chc5k, Chloe slightly worried, mouth closed
-    with dissolve
+# game/v12/scene14.rpy:331
+translate francais v12_chloe_cafe_896927df:
 
-    u "What's making you think about going back all of a sudden?"
+    # cl "I... I think Lindsey's planning something. I'm not sure what, but I know it's something."
+    cl "Je... Je pense que Lindsey prépare quelque chose. Je ne suis pas sûre de ce que c'est, mais je sais que ça va être compliqué."
 
-    scene v12chc5k
-    with dissolve
+# game/v12/scene14.rpy:336
+translate francais v12_chloe_cafe_30fff49b:
 
-    cl "Well, after the stuff that went down on the carriage rides there's been something on my mind."
+    # cl "One of the girls video called me the other day and said that Lindsey had been in contact with nearly everyone about something important, but she wouldn't say what."
+    cl "Une des filles m'a appelé en vidéo l'autre jour et m'a dit que Lindsey avait été en contact avec presque tout le monde à propos de quelque chose d'important, mais elle n'a pas voulu me dire quoi."
 
-    scene v12chc5l
-    with dissolve
+# game/v12/scene14.rpy:341
+translate francais v12_chloe_cafe_ce8c870c:
 
-    u "And what's that?"
+    # cl "I know it can't be the names thing she brought up because I asked if that's what it was, and she said no."
+    cl "Je sais que ça ne peut pas être le truc qu'elle a évoqué, parce que j'ai demandé si c'était réellement ça et elle a dit non."
 
-    scene v12chc5k
-    with dissolve
+# game/v12/scene14.rpy:346
+translate francais v12_chloe_cafe_5b106e35:
 
-    cl "I... I think Lindsey's planning something. I'm not sure what, but I know it's something."
+    # u "Hmm... Did she give you any clues at all?"
+    u "Hmm... Est-ce qu'elle t'a donné des indices ?"
 
-    scene v12chc5m # FPP. Same as v12chc5k, different pose
-    with dissolve
-    
-    cl "One of the girls video called me the other day and said that Lindsey had been in contact with nearly everyone about something important, but she wouldn't say what."
-    
-    scene v12chc5k
-    with dissolve
-    
-    cl "I know it can't be the names thing she brought up because I asked if that's what it was, and she said no."
+# game/v12/scene14.rpy:351
+translate francais v12_chloe_cafe_6c9dbea7:
 
-    scene v12chc5l
-    with dissolve
+    # cl "None, but it bothers me because Lindsey hasn't said anything to me about whatever it is that she's planning."
+    cl "Aucun, mais ça m'ennuie parce que Lindsey ne m'a jamais rien dit à ce propos."
 
-    u "Hmm... Did she give you any clues at all?"
+# game/v12/scene14.rpy:356
+translate francais v12_chloe_cafe_f3012fa2:
 
-    scene v12chc5m
-    with dissolve
+    # cl "Lindsey is a sweet girl, so I don't want to assume it's anything bad, but if it wasn't bad, I don't see why she wouldn't tell me."
+    cl "Lindsey est une fille bien, donc je ne veux pas croire que c'est quelque chose de mauvais, mais si ça ne l'était pas, je ne vois pas pourquoi elle ne m'aurait rien dit."
 
-    cl "None, but it bothers me because Lindsey hasn't said anything to me about whatever it is that she's planning."
+# game/v12/scene14.rpy:361
+translate francais v12_chloe_cafe_17214426:
 
-    scene v12chc5k
-    with dissolve
-    
-    cl "Lindsey is a sweet girl, so I don't want to assume it's anything bad, but if it wasn't bad, I don't see why she wouldn't tell me."
+    # u "What bad things could Lindsey do?"
+    u "Comment Lindsey pourrait-elle faire quelque chose de mal ?"
 
-    scene v12chc5l
-    with dissolve
+# game/v12/scene14.rpy:366
+translate francais v12_chloe_cafe_e8f40672:
 
-    u "What bad things could Lindsey do?"
+    # cl "Well, that's what I've been thinking about. The worst thing she could be doing is getting girls to leave the sorority, and the least worst thing she could be doing is setting up some dumb prank."
+    cl "C'est ce à quoi j'ai pensé. La pire chose qu'elle puisse faire est de pousser les filles à quitter la fraternité, et la moins mauvaise serait d'organiser une farce idiote."
 
-    scene v12chc5k
-    with dissolve
+# game/v12/scene14.rpy:371
+translate francais v12_chloe_cafe_fb5d5a75:
 
-    cl "Well, that's what I've been thinking about. The worst thing she could be doing is getting girls to leave the sorority, and the least worst thing she could be doing is setting up some dumb prank."
-    
-    scene v12chc5m
-    with dissolve
+    # cl "There's a lot of things that she could be doing that range in between those two things."
+    cl "Et il y a beaucoup de choses qu'elle pourrait faire qui se trouvent entre ces deux pôles."
 
-    cl "There's a lot of things that she could be doing that range in between those two things."
+# game/v12/scene14.rpy:381
+translate francais v12_chloe_cafe_4f137c11:
 
-    scene v12chc5l
-    with dissolve
+    # u "(I can't keep this from her.) *Sighs* There's something I need to tell you."
+    u "(Je ne peux pas lui cacher ça.) *Soupirs* Je dois te dire quelque chose."
 
-    menu:
-        "Tell her about Lindsey":
-            $ add_point(KCT.TROUBLEMAKER)
-            $ v12_told_chloe = True
+# game/v12/scene14.rpy:386
+translate francais v12_chloe_cafe_e537814b:
 
-            u "(I can't keep this from her.) *Sighs* There's something I need to tell you."
+    # cl "What?"
+    cl "Quoi ?"
 
-            scene v12chc5m
-            with dissolve
+# game/v12/scene14.rpy:391
+translate francais v12_chloe_cafe_9c7ca95c:
 
-            cl "What?"
+    # u "Don't quote me, please. And I don't want you doing anything rash. Can you promise me you won't freak out?"
+    u "Ne dis pas que ça vient de moi, s'il te plaît. Et je ne veux pas que tu fasses quelque chose de stupide. Tu peux me promettre que tu ne vas pas flipper ?"
 
-            scene v12chc5n
-            with dissolve
+# game/v12/scene14.rpy:396
+translate francais v12_chloe_cafe_8faf8701:
 
-            u "Don't quote me, please. And I don't want you doing anything rash. Can you promise me you won't freak out?"
+    # cl "You're making me nervous, [name]."
+    cl "Tu me rends nerveuse, [name]."
 
-            scene v12chc5k
-            with dissolve
+# game/v12/scene14.rpy:401
+translate francais v12_chloe_cafe_3173a598:
 
-            cl "You're making me nervous, [name]."
+    # u "Just promise me you won't freak out."
+    u "Promets-moi juste que tu ne vas pas t'énerver."
 
-            scene v12chc5l
-            with dissolve
+# game/v12/scene14.rpy:406
+translate francais v12_chloe_cafe_2140a032:
 
-            u "Just promise me you won't freak out."
+    # cl "For fucks sake... *Sighs* Fine, I won't freak out. Happy?"
+    cl "Putain de merde... *Soupirs* Bien, je ne vais pas m'énerver. Content ?"
 
-            scene v12chc5
-            with dissolve
+# game/v12/scene14.rpy:417
+translate francais v12_chloe_cafe_e43d0588:
 
-            cl "For fucks sake... *Sighs* Fine, I won't freak out. Happy?"
+    # u "Good. Now, again, don't quote me. I'm not sure of all the details and I'm not even positive if this is truly her plan, but I heard that Lindsey's been considering running for President of the Chicks, against you."
+    u "Bien. Encore une fois, ne dis pas que c'est moi qui te l'ai dit. Je ne suis pas sûr de tous les détails et je ne suis même pas certain que ce soit vraiment son plan, mais j'ai entendu dire que Lindsey envisageait de se présenter à la présidence des Chicks, contre toi."
 
-            scene v12chc5o # FPP. Same as v12chc5, Chloe angry, mouth closed
-            with dissolve
-            
-            if v11_lindsey_run and v11_told_aubrey:
-                $ grant_achievement("thrown_to_the_lions")
-            
-            u "Good. Now, again, don't quote me. I'm not sure of all the details and I'm not even positive if this is truly her plan, but I heard that Lindsey's been considering running for President of the Chicks, against you."
-           
-            scene v12chc5p # FPP. Same as v12chc5o, Chloe angry, mouth open
-            with dissolve
+# game/v12/scene14.rpy:422
+translate francais v12_chloe_cafe_80f8da7e:
 
-            cl "WHY THE FUCK WOULD SHE DO THAT!?"
+    # cl "WHY THE FUCK WOULD SHE DO THAT!?"
+    cl "POURQUOI FERAIT-ELLE ÇA, PUTAIN !?"
 
-            scene v12chc5o
-            with dissolve
+# game/v12/scene14.rpy:427
+translate francais v12_chloe_cafe_9ae6b828:
 
-            u "Calm down, please... You said you wouldn't freak out."
+    # u "Calm down, please... You said you wouldn't freak out."
+    u "Calme-toi, s'il te plaît... Tu as dit que tu ne t'énerverais pas."
 
-            scene v12chc5p
-            with dissolve
+# game/v12/scene14.rpy:432
+translate francais v12_chloe_cafe_e216da2e:
 
-            cl "*Deep breath* Why, the fuck, would she do that?"
+    # cl "*Deep breath* Why, the fuck, would she do that?"
+    cl "*Souffle profond* Putain, pourquoi ferait-elle ça ?"
 
-            scene v12chc5o
-            with dissolve
+# game/v12/scene14.rpy:437
+translate francais v12_chloe_cafe_56a4105b:
 
-            u "Something about the Chicks needing major changes in order to save the sorority from it's downhill spiral... And again, don't quote me."
+    # u "Something about the Chicks needing major changes in order to save the sorority from it's downhill spiral... And again, don't quote me."
+    u "Quelque chose à propos des Chicks qui ont besoin de changements majeurs afin de sauver la fraternité de sa spirale descendante... Et encore une fois, ne dis pas que c'est moi qui te l'ai dit."
 
-            scene v12chc5p
-            with dissolve
+# game/v12/scene14.rpy:442
+translate francais v12_chloe_cafe_7cfa3e42:
 
-            cl "Wow... I really can't believe she'd actually do that."
-            cl "You know what, I'm not gonna jump to any conclusions. If she really did plan on doing something like that she'd have to be a lunatic."
+    # cl "Wow... I really can't believe she'd actually do that."
+    cl "Wow... Je ne peux vraiment pas croire qu'elle veuille faire ça."
 
-            scene v12chc5o
-            with dissolve
+# game/v12/scene14.rpy:443
+translate francais v12_chloe_cafe_01b9e075:
 
-            scene v12chc5p
-            with dissolve
+    # cl "You know what, I'm not gonna jump to any conclusions. If she really did plan on doing something like that she'd have to be a lunatic."
+    cl "Tu sais quoi, je ne vais pas faire de conclusions hâtives. Si elle a vraiment prévu de faire quelque chose comme ça, elle doit être tarée."
 
-            cl "Rather than seeing how she can help she'd rather just take over? No way. This can't be real."
+# game/v12/scene14.rpy:451
+translate francais v12_chloe_cafe_28eec2e1:
 
-        "Don't tell her about Lindsey":
-            u "(No way I'm telling her. She's not hearing that news from me.)"
+    # cl "Rather than seeing how she can help she'd rather just take over? No way. This can't be real."
+    cl "Plutôt que de voir comment elle peut aider, elle préfère prendre le contrôle ? Pas possible. Ça ne peut pas être sérieux."
 
-            scene v12chc5n # FPP. Same as v12chc5m, Chloe slightly worried, mouth closed
-            with dissolve
+# game/v12/scene14.rpy:454
+translate francais v12_chloe_cafe_afdc6188:
 
-            u "I don't want to start making assumptions about what it could or couldn't be, so just try to think positive. Maybe she is doing some prank, haha..."
+    # u "(No way I'm telling her. She's not hearing that news from me.)"
+    u "(Pas question que je lui dise. Elle ne doit pas entendre cette nouvelle de moi.)"
 
-            scene v12chc5m
-            with dissolve
+# game/v12/scene14.rpy:459
+translate francais v12_chloe_cafe_826aa06b:
 
-            cl "Well, if I don't figure it out soon I'm gonna end up going crazy. I'll talk to Aubrey first and see if she's heard anything, and I guess if she hasn't then I'll just go to Lindsey myself."
+    # u "I don't want to start making assumptions about what it could or couldn't be, so just try to think positive. Maybe she is doing some prank, haha..."
+    u "Je ne veux pas commencer à faire des suppositions sur ce que ça pourrait être ou non, alors essaie juste de penser positivement. Peut-être qu'elle fait une farce, haha..."
 
-    scene v12chc5o
-    with dissolve
+# game/v12/scene14.rpy:464
+translate francais v12_chloe_cafe_2f50a440:
 
-    u "(Okay, this is not going well.)"
+    # cl "Well, if I don't figure it out soon I'm gonna end up going crazy. I'll talk to Aubrey first and see if she's heard anything, and I guess if she hasn't then I'll just go to Lindsey myself."
+    cl "Si je ne trouve pas rapidement une solution, je vais finir par devenir folle. Je vais d'abord parler à Aubrey pour voir si elle a entendu quelque chose, et je pense que si elle ne sait rien, j'irai voir Lindsey moi-même."
 
-    u "Why not just enjoy Europe like we discussed before?"
+# game/v12/scene14.rpy:469
+translate francais v12_chloe_cafe_de968124:
 
-    scene v12chc5p
-    with dissolve
+    # u "(Okay, this is not going well.)"
+    u "(Ok, ça ne va pas bien se passer.)"
 
-    cl "It's kinda hard to relax with something like this lingering over my head."
+# game/v12/scene14.rpy:471
+translate francais v12_chloe_cafe_dce1ef96:
 
-    scene v12chc5c
-    with dissolve
+    # u "Why not just enjoy Europe like we discussed before?"
+    u "Pourquoi ne pas profiter de Paris, comme nous le voulions ?"
 
-    u "Yeah I know, but look at what's right in front of you. A handsome man treating you to breakfast... Is that not a good enough distraction? *Chuckles*"
+# game/v12/scene14.rpy:476
+translate francais v12_chloe_cafe_e9b2d351:
 
-    scene v12chc5q # FPP. Same as v12chc5, Chloe rolling her eyes, mouth closed, slight smile
-    with dissolve
+    # cl "It's kinda hard to relax with something like this lingering over my head."
+    cl "C'est assez difficile de se détendre avec un truc comme ça qui me trotte dans la tête."
 
-    pause 0.75
-    
-    scene v12chc5
-    with dissolve
+# game/v12/scene14.rpy:481
+translate francais v12_chloe_cafe_77f71603:
 
-    cl "For now."
+    # u "Yeah I know, but look at what's right in front of you. A handsome man treating you to breakfast... Is that not a good enough distraction? *Chuckles*"
+    u "Oui, je sais, mais regarde ce qui est juste en face de toi. Un beau mec qui t'invite à déjeuner... Ce n'est pas une assez bonne distraction ? *Rire*"
 
-    scene v12chc5c
-    with dissolve
+# game/v12/scene14.rpy:491
+translate francais v12_chloe_cafe_c57c2001:
 
-    u "If I'm not good enough, the food can be plan B. Here it comes now."
+    # cl "For now."
+    cl "Pour l'instant."
 
-    scene v12chc6b # TPP. Same as v12chc6, waitress with food in her hand
-    with dissolve
+# game/v12/scene14.rpy:496
+translate francais v12_chloe_cafe_3fb609b6:
 
-    pause 0.75
+    # u "If I'm not good enough, the food can be plan B. Here it comes now."
+    u "Si je ne suis pas assez bon, la nourriture peut être le plan B. La voilà qui arrive d'ailleurs."
 
-    scene v12chc7c # FPP. Same as v12chc7b, waitress holding food
-    with dissolve
+# game/v12/scene14.rpy:506
+translate francais v12_chloe_cafe_85ce160a:
 
-    fwait "Alrighty, you two. Here you guys go. I hope you enjoy."
+    # fwait "Alrighty, you two. Here you guys go. I hope you enjoy."
+    fwait "Et voilà pour vous deux. J'espère que vous apprécierez."
 
-    scene v12chc5f
-    with dissolve
+# game/v12/scene14.rpy:511
+translate francais v12_chloe_cafe_aac0bbae:
 
-    cl "Thank you."
+    # cl "Thank you."
+    cl "Merci."
 
-    scene v12chc5r # FPP. MC watches as Chloe is eating
-    with dissolve
+# game/v12/scene14.rpy:536
+translate francais v12_chloe_cafe_3fbe5cc4:
 
-    pause 1
+    # u "Finished stuffing your face? *Chuckles*"
+    u "Tu as fini de te goinfrer ? *Rire*"
 
-    scene v12chc8 # TPP. Show MC and Chloe both eating their dishes
-    with dissolve
+# game/v12/scene14.rpy:541
+translate francais v12_chloe_cafe_785520e6:
 
-    pause 1
+    # cl "Haha, I am. Are you? Seems like you enjoyed yourself."
+    cl "Haha, oui. Et toi ? On dirait que tu t'es fait plaisir."
 
-    scene v12chc6
-    with dissolve
+# game/v12/scene14.rpy:546
+translate francais v12_chloe_cafe_5b8a7bf0:
 
-    pause 1
+    # u "I could've enjoyed anything considering how hungry I was. *Chuckles*"
+    u "J'aurais pu apprécier n'importe quoi vu la faim que j'avais. *Rire*"
 
-    scene v12chc9 # TPP. Show the waitress grabbing MC and Chloes' empty dishes, all smiling, mouths closed
-    with dissolve
+# game/v12/scene14.rpy:551
+translate francais v12_chloe_cafe_298f7516:
 
-    pause 1
+    # cl "*Laughs* Alright... Ready to go?"
+    cl "*Rire* Parfait... Prêt à partir ?"
 
-    scene v12chc5e
-    with dissolve
+# game/v12/scene14.rpy:556
+translate francais v12_chloe_cafe_b9563d83:
 
-    u "Finished stuffing your face? *Chuckles*"
+    # u "Yeah, let's go."
+    u "Ouais, on y va."
 
-    scene v12chc5d
-    with dissolve
+# game/v12/scene14.rpy:561
+translate francais v12_chloe_cafe_940e672a:
 
-    cl "Haha, I am. Are you? Seems like you enjoyed yourself."
+    # cl "Okay."
+    cl "Ok."
 
-    scene v12chc5e
-    with dissolve
+# game/v12/scene14.rpy:566
+translate francais v12_chloe_cafe_b0c07d6c:
 
-    u "I could've enjoyed anything considering how hungry I was. *Chuckles*"
+    # u "And hey, don't let any of that Lindsey stuff get to you."
+    u "Et hey, ne laisse pas ce truc de Lindsey te prendre la tête."
 
-    scene v12chc5
-    with dissolve
+# game/v12/scene14.rpy:571
+translate francais v12_chloe_cafe_dbc54b68:
 
-    cl "*Laughs* Alright... Ready to go?"
+    # cl "I know I shouldn't. I promise I won't go back and explode or anything. I'm gonna take some time to figure out what's going on."
+    cl "Je sais que je ne devrais pas. Je te promets que je ne vais pas rentrer et exploser ou autre. Je vais prendre du temps pour comprendre ce qui se passe."
 
-    scene v12chc5c
-    with dissolve
+# game/v12/scene14.rpy:576
+translate francais v12_chloe_cafe_bb98924d:
 
-    u "Yeah, let's go."
+    # u "That's a good idea."
+    u "C'est une excellente idée."
 
-    scene v12chc5d
-    with dissolve
+# game/v12/scene14.rpy:583
+translate francais v12_chloe_cafe_12fa791e:
 
-    cl "Okay."
+    # u "Sorry, let me check this real quick."
+    u "Désolé, laisse-moi regarder ça rapidement."
 
-    scene v12chc5e
-    with dissolve
+# game/v12/scene14.rpy:599
+translate francais v12s14_PhoneContinueRiley_88d710ce:
 
-    u "And hey, don't let any of that Lindsey stuff get to you."
+    # u "(I should check my phone.)"
+    u "(Je devrais vérifier mon téléphone.)"
 
-    scene v12chc5d
-    with dissolve
+# game/v12/scene14.rpy:605
+translate francais v12s14_PhoneContinueRiley_dd8163f7:
 
-    cl "I know I shouldn't. I promise I won't go back and explode or anything. I'm gonna take some time to figure out what's going on."
+    # u "(This isn't that far.)"
+    u "(C'est pas si loin.)"
 
-    scene v12chc5e
-    with dissolve
+# game/v12/scene14.rpy:610
+translate francais v12s14_PhoneContinueRiley_c8c111d2:
 
-    u "That's a good idea."
+    # u "Well, looks like I'm meeting Riley for our Mr. Lee hunt."
+    u "Bon, on dirait que je vais devoir rejoindre Riley pour notre chasse au trésor de Mr Lee."
 
-    scene v12chc5c 
-    with dissolve
+# game/v12/scene14.rpy:615
+translate francais v12s14_PhoneContinueRiley_14ebeeb5:
 
-    play sound "sounds/vibrate.mp3"
+    # cl "A Mr. Lee... hunt? What is that?"
+    cl "De Mr Lee... chasse au trésor ? Qu'est-ce que c'est ?"
 
-    u "Sorry, let me check this real quick."
+# game/v12/scene14.rpy:620
+translate francais v12s14_PhoneContinueRiley_2cb03bb3:
 
-    scene v12chc10 # TPP. Show MC sitting down, looking down at his phone, neutral expression, mouth closed
-    with dissolve
+    # u "Some little treasure hunt he has us doing for him while we're in Europe."
+    u "Une petite chasse au trésor qu'il nous fait faire pour lui pendant qu'on est en Europe."
 
-    $ riley.messenger.newMessage("TREASURE HUNT TIME!", force_send=True)
-    $ riley.messenger.addReply("Really... now?")
-    $ riley.messenger.newMessage("Yep, and I'm already at the spot of the next clue... I think.")
-    $ riley.messenger.newImgMessage("images/v12/Scene 14/rileycatacomb.webp") # Riley selfie at the catacomb entrance with a street sign behind her with the address of where she is at, Riley smiling, mouth closed
-    $ riley.messenger.newMessage("Meet me here :)")
-    $ riley.messenger.addReply("Okay, I'll be there soon.")
+# game/v12/scene14.rpy:625
+translate francais v12s14_PhoneContinueRiley_80c64b26:
 
-    label v12s14_PhoneContinueRiley:
-        if riley.messenger.replies:
-            call screen phone
-        if riley.messenger.replies:
-            u "(I should check my phone.)"
-            jump v12s14_PhoneContinueRiley
+    # cl "*Laughs*"
+    cl "*Rire*"
 
-    scene v12chc10
-    with dissolve
+# game/v12/scene14.rpy:630
+translate francais v12s14_PhoneContinueRiley_ef2f1671:
 
-    u "(This isn't that far.)"
+    # u "What?"
+    u "Quoi ?"
 
-    scene v12chc5c
-    with dissolve
+# game/v12/scene14.rpy:635
+translate francais v12s14_PhoneContinueRiley_30f2a16b:
 
-    u "Well, looks like I'm meeting Riley for our Mr. Lee hunt."
+    # cl "Nothing, nothing... Enjoy. I'll catch you later."
+    cl "Rien, rien... Profitez-en. Je te verrai plus tard."
 
-    scene v12chc5
-    with dissolve
+# game/v12/scene14.rpy:640
+translate francais v12s14_PhoneContinueRiley_b302c71a:
 
-    cl "A Mr. Lee... hunt? What is that?"
+    # u "Alright, catch you later."
+    u "D'accord, on se voit plus tard."
 
-    scene v12chc5e
-    with dissolve
+translate francais strings:
 
-    u "Some little treasure hunt he has us doing for him while we're in Europe."
-
-    scene v12chc5d
-    with dissolve
-
-    cl "*Laughs*"
-
-    scene v12chc5e
-    with dissolve
-
-    u "What?"
-
-    scene v12chc5
-    with dissolve
-
-    cl "Nothing, nothing... Enjoy. I'll catch you later."
-
-    scene v12chc5c
-    with dissolve
-
-    u "Alright, catch you later."
-
-    scene v12chc11 # TPP. Show Chloe walking away, MC still sitting down, watching as she leaves, both smiling, mouths closed
-    with dissolve
-
-    pause 0.75
-
-    scene v12chc12 # TPP. Show MC getting up from his chairm, slight smile, mouth closed
-    with dissolve
-
-    pause 0.75
-
-    scene v12chc13 # TPP. Show MC leaving the cafe, slight smile, mouth closed
-    with dissolve
-
-    pause 0.75
-
-    scene v12chc14 # TPP. Show MC walking down the streets, slight smile, mouth closed
-    with fade
-
-    pause 0.75
-
-    stop music fadeout 3
-
-    jump v12_riddle_riley #scene 15
+    # game/v12/scene14.rpy:207
+    old "It'd be nice"
+    new "Ça serait bien"

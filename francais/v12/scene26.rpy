@@ -1,215 +1,181 @@
-# SCENE 26: At the hotel lobby 
-# Locations: Hotel lobby
-# Characters: RYAN (Outfit: 1), MC (Outfit: 3), NORA (Outfit: 1), CHRIS (Outfit: 1), CHLOE (Outfit: 1), AUBREY (Outfit: 2)
-# Time: Morning
-# Phone Images: NONE
+﻿# TODO: Translation updated at 2021-12-29 18:50
 
-label v12_nora_chris_fight:
-    scene v12ncf1 # TPP. Show MC walking towards Ryan in the lobby, Ryan waving at MC, slight smile, mouth closed, MC slight smile, mouth closed
-    with fade
+# game/v12/scene26.rpy:18
+translate francais v12_nora_chris_fight_19588a61:
 
-    pause 0.75
+    # ry "What's up, [name]?"
+    ry "Qu'est-ce que tu fais, [name] ?"
 
-    play music "music/v12/Track Scene 26.mp3" fadein 2
+# game/v12/scene26.rpy:23
+translate francais v12_nora_chris_fight_80229153:
 
-    scene v12ncf2 # FPP. MC and Ryan standing in front of each other in the lobby, Ryan slight smile, mouth open
-    with dissolve
+    # u "Not much man, just starting the-"
+    u "Pas grand chose, je commence juste le..."
 
-    ry "What's up, [name]?"
+# game/v12/scene26.rpy:28
+translate francais v12_nora_chris_fight_e4f8cb35:
 
-    scene v12ncf2a # FPP. Same as v12ncf2, Ryan slight smile, mouth closed
-    with dissolve
+    # no "SO YOU LIED TO ME!"
+    no "ALORS TU M'AS MENTI !"
 
-    u "Not much man, just starting the-"
+# game/v12/scene26.rpy:33
+translate francais v12_nora_chris_fight_852175cf:
 
-    scene v12ncf3 # TPP. Nora and Chris fighting in the hotel lobby. Show Nora looking at Chris, Nora very angry, mouth open (only Nora in shot, make sure they are near a wall)
-    with vpunch
+    # u "(Oh shit!)"
+    u "(Oh merde !)"
 
-    no "SO YOU LIED TO ME!"
+# game/v12/scene26.rpy:38
+translate francais v12_nora_chris_fight_1d30d756:
 
-    scene v12ncf4 # TPP. Same positioning as v12ncf3, Show both Nora and Chris looking very angry at each other, both mouths closed, they are having a heated argument
-    with dissolve
+    # ch "I didn't lie, Nora. I was busy, and now I'm not. So, I planned a night with the guys. I don't see what's so bad about that."
+    ch "Je n'ai pas menti, Nora. J'étais occupé, et maintenant je ne le suis plus. Alors, j'ai prévu une soirée avec les mecs. Je ne vois pas ce qu'il y a de mal à ça."
 
-    u "(Oh shit!)"
+# game/v12/scene26.rpy:43
+translate francais v12_nora_chris_fight_ca533a8f:
 
-    scene v12ncf5 # TPP. Same positioning as v12ncf3, Show Chris looking at Nora, Chris very angry, mouth open (only Chris in shot)
-    with dissolve
+    # no "You don't- ARE YOU A FUCKING IDIOT?!"
+    no "Tu ne vois pas... T'ES UN PUTAIN D'IDIOT ? !"
 
-    ch "I didn't lie, Nora. I was busy, and now I'm not. So, I planned a night with the guys. I don't see what's so bad about that."
+# game/v12/scene26.rpy:48
+translate francais v12_nora_chris_fight_0c8c933e:
 
-    scene v12ncf3
-    with dissolve
+    # no "I asked you to hang out tonight, and you told me you were busy. Now you realize you're free, and instead of making plans with me YOU CALL THE FUCKING GUYS!?"
+    no "Je t'ai demandé de sortir ce soir, et tu m'as dit que tu étais occupé. Maintenant, tu réalises que tu es libre, et au lieu de faire des plans avec moi, T'APPELLES TES PUTAINS DE POTES !?"
 
-    no "You don't- ARE YOU A FUCKING IDIOT?!"
+# game/v12/scene26.rpy:53
+translate francais v12_nora_chris_fight_669434ff:
 
-    scene v12ncf3a # TPP. Same as v12ncf3, different pose
-    with dissolve
+    # no "WHO YOU JUST WENT OUT WITH! THE OTHER FUCKING NIGHT!"
+    no "CEUX AVEC LESQUELS TU VIENS DE SORTIR ! L'AUTRE NUIT, PUTAIN !"
 
-    no "I asked you to hang out tonight, and you told me you were busy. Now you realize you're free, and instead of making plans with me YOU CALL THE FUCKING GUYS!?"
+# game/v12/scene26.rpy:58
+translate francais v12_nora_chris_fight_108e5202:
 
-    scene v12ncf3
-    with dissolve
+    # ch "Honestly, Nora... How could I want to hang out with you when you're acting like this?"
+    ch "Honnêtement, Nora... Comment je peux avoir envie de sortir avec toi quand tu te comportes comme ça ?"
 
-    no "WHO YOU JUST WENT OUT WITH! THE OTHER FUCKING NIGHT!"
+# game/v12/scene26.rpy:63
+translate francais v12_nora_chris_fight_23e76809:
 
-    scene v12ncf5
-    with dissolve
+    # no "ARE YOU FUCKING SERIOUS RIGHT NOW!?"
+    no "T'ES SÉRIEUX, LÀ, PUTAIN ! ?"
 
-    ch "Honestly, Nora... How could I want to hang out with you when you're acting like this?"
+# game/v12/scene26.rpy:68
+translate francais v12_nora_chris_fight_7f079070:
 
-    scene v12ncf3
-    with dissolve
+    # no "WHO WOULD WANNA HANG OUT WITH ME?!"
+    no "QUI VOUDRAIT SORTIR AVEC MOI ?!"
 
-    no "ARE YOU FUCKING SERIOUS RIGHT NOW!?"
+# game/v12/scene26.rpy:73
+translate francais v12_nora_chris_fight_28084e40:
 
-    scene v12ncf4a # TPP. Same as v12ncf4, Nora pushing Chris' chest, Nora very angry, mouth open, Chris startled, mouth closed
-    with dissolve
+    # no "MAYBE MY FUCKING BOYFRIEND!"
+    no "PEUT-ÊTRE MON PUTAIN DE MEC !"
 
-    no "WHO WOULD WANNA HANG OUT WITH ME?!"
+# game/v12/scene26.rpy:78
+translate francais v12_nora_chris_fight_5cd623b9:
 
-    scene v12ncf4b # TPP. Same as v12ncf4a, Nora pushing Chris again, Nora very angry, mouth open, Chris angry, mouth closed
-    with dissolve
+    # u "(This is getting pretty bad.)"
+    u "(Ça devient plutôt mauvais.)"
 
-    no "MAYBE MY FUCKING BOYFRIEND!"
+# game/v12/scene26.rpy:83
+translate francais v12_nora_chris_fight_44ef413e:
 
-    scene v12ncf4
-    with dissolve
+    # ch "*Stern* Don't put your hands on me."
+    ch "*Pffff* Ne mets pas tes mains sur moi."
 
-    u "(This is getting pretty bad.)"
+# game/v12/scene26.rpy:88
+translate francais v12_nora_chris_fight_89b2c8d2:
 
-    scene v12ncf5
-    with dissolve
+    # no "I'LL DO WHATEVER THE FUCK I WANT, SINCE YOU DO WHATEVER YOU WANT!"
+    no "JE FAIS CE QUE JE VEUX, PUISQUE TU FAIS CE QUE TU VEUX !"
 
-    ch "*Stern* Don't put your hands on me."
+# game/v12/scene26.rpy:98
+translate francais v12_nora_chris_fight_22997be2:
 
-    scene v12ncf4c # TPP. Same as v12ncf4b, Nora pushing Chris' shoulder, Nora very angry, mouth open, Chris angry, mouth closed
-    with dissolve
+    # ch "*Very stern* I'm not gonna say it again, Nora. Don't put your hands on me."
+    ch "*Très sévère* Je ne vais pas le répéter, Nora. Ne pose pas tes mains sur moi."
 
-    no "I'LL DO WHATEVER THE FUCK I WANT, SINCE YOU DO WHATEVER YOU WANT!"
+# game/v12/scene26.rpy:103
+translate francais v12_nora_chris_fight_f4b70c66:
 
-    scene v12ncf6 # TPP. Show Chloe and Aubrey watching the fight from a distance, both worried, mouths closed
-    with dissolve
+    # no "Maybe if you weren't so focused on chasing after the man your daddy was, you'd be your own-"
+    no "Peut-être que si tu n'étais pas si concentrée à chercher à ressembler au type de mec que ton père était, tu serais ton propre..."
 
-    pause 1.25
+# game/v12/scene26.rpy:115
+translate francais v12_nora_chris_fight_1a24a75c:
 
-    scene v12ncf5a # TPP. Same as v12ncf5, Chris very angry, mouth open, pointing his finger at Nora
-    with dissolve
+    # no "*Crying* Ahh!"
+    no "*Crie* Ahh !"
 
-    ch "*Very stern* I'm not gonna say it again, Nora. Don't put your hands on me."
+# game/v12/scene26.rpy:130
+translate francais v12_nora_chris_fight_8f0a53e8:
 
-    scene v12ncf4d # TPP. Same as v12ncf4c, Nora grabbing Chris' jacket, Chris very angry, mouth closed, Nora very angry, mouth open
-    with dissolve
+    # cl "What the fuck is wrong with you?!"
+    cl "Qu'est-ce qui ne va pas chez toi ?"
 
-    no "Maybe if you weren't so focused on chasing after the man your daddy was, you'd be your own-"
+# game/v12/scene26.rpy:135
+translate francais v12_nora_chris_fight_ef77e6e0:
 
-    play sound "sounds/hs.mp3"
-    scene v12ncf4e # TPP. Same as v12ncf4, Chris pushing Nora, Chris very angry, mouth closed, Nora losing her balance, mouth closed, scared
-    with hpunch
+    # ch "You didn't say shit when she was hitting me! I swear nobody gives a fuck when a man's getting hit, but the minute a man defends himself against a woman it's game fucking over."
+    ch "Tu n'as rien dit quand elle me frappait ! Je te jure, tout le monde s'en fout quand un mec se fait frapper, mais dès qu'un mec se défend contre une femme, c'est la panique."
 
-    pause 1.25
+# game/v12/scene26.rpy:140
+translate francais v12_nora_chris_fight_5ae77895:
 
-    play sound "sounds/fall.mp3"
-    scene v12ncf7 # TPP. Nora on the ground, mouth open, curled up on the ground, crying, Chris looking down at her, Chris very angry, mouth closed
-    with vpunch
+    # cl "Because she wasn't hurting you and you pushed her hard! Are you fucking stupid?!"
+    cl "Parce qu'elle ne te faisait pas mal et que tu l'as poussée violemment ! T'es vraiment débile ?!"
 
-    no "*Crying* Ahh!"
+# game/v12/scene26.rpy:145
+translate francais v12_nora_chris_fight_8e47aaa3:
 
-    scene v12ncf8 # TPP. Show MC very worried walking towards Nora, Ryan holding him back, Ryan worried, both mouths closed
-    with dissolve
+    # ch "I... I didn't mean to push her that hard. I told her to stop putting her hands on me. Twice."
+    ch "Je... Je ne voulais pas la pousser si fort. Je lui ai dit d'arrêter de mettre ses mains sur moi. Deux fois."
 
-    pause 1
+# game/v12/scene26.rpy:150
+translate francais v12_nora_chris_fight_304e3093:
 
-    scene v12ncf6a # TPP. Show Aubrey and Chloe running over to Nora, both of them very worried, mouths closed
-    with dissolve
+    # cl "SO!? THAT DOESN'T GIVE YOU THE RIGHT TO SHOVE HER LIKE THAT! YOU'RE A GROWN ASS MAN!"
+    cl "ET ALORS ? ÇA NE TE DONNE PAS LE DROIT DE LA POUSSER COMME ÇA ! TU ES GROS CONNARD !"
 
-    pause 1
+# game/v12/scene26.rpy:155
+translate francais v12_nora_chris_fight_eb6b58a1:
 
-    scene v12ncf9 # TPP. Show Chloe in front of Chris, Chloe very angry, mouth open (Only Chris in shot)
-    with dissolve
+    # au "Are you okay?!"
+    au "Tu vas bien ?!"
 
-    cl "What the fuck is wrong with you?!"
+# game/v12/scene26.rpy:160
+translate francais v12_nora_chris_fight_34002666:
 
-    scene v12ncf10 # TPP. Same positioning as v12ncf9, Chris angry, mouth open, looking at Chloe (Only Chris in shot)
-    with dissolve
+    # no "*Crying* I'm fine."
+    no "*Pleurant* Je vais bien."
 
-    ch "You didn't say shit when she was hitting me! I swear nobody gives a fuck when a man's getting hit, but the minute a man defends himself against a woman it's game fucking over."
+# game/v12/scene26.rpy:170
+translate francais v12_nora_chris_fight_4f3c6066:
 
-    scene v12ncf9
-    with dissolve
+    # ch "Nora, I... I didn't mean to push you that hard. I'm sorry."
+    ch "Nora, je... Je ne voulais pas te pousser si fort. Je suis désolé."
 
-    cl "Because she wasn't hurting you and you pushed her hard! Are you fucking stupid?!"
+# game/v12/scene26.rpy:175
+translate francais v12_nora_chris_fight_a0d5a291:
 
-    scene v12ncf10
-    with dissolve
+    # no "*Sobbing* Leave me alone."
+    no "*Renifle* Laisse-moi tranquille."
 
-    ch "I... I didn't mean to push her that hard. I told her to stop putting her hands on me. Twice."
+# game/v12/scene26.rpy:180
+translate francais v12_nora_chris_fight_adb5bd98:
 
-    scene v12ncf9
-    with dissolve
+    # ch "FUCK! FUCK! FUCK!"
+    ch "PUTAIN ! PUTAIN ! PUTAIN !"
 
-    cl "SO!? THAT DOESN'T GIVE YOU THE RIGHT TO SHOVE HER LIKE THAT! YOU'RE A GROWN ASS MAN!"
+# game/v12/scene26.rpy:195
+translate francais v12_nora_chris_fight_e8e61922:
 
-    scene v12ncf11 # TPP. Show Aubrey kneeling down next to Nora, Nora crying, mouth closed, Aubrey worried, mouth open, both of them looking at each other
-    with dissolve
+    # ch "Bro, fuck all this shit!"
+    ch "Frère, j'emmerde tout ça !"
 
-    au "Are you okay?!"
+translate francais strings:
 
-    scene v12ncf11a # TPP. Same as v12ncf11, Aubrey worried, mouth closed, Nora crying, mouth open
-    with dissolve
-
-    no "*Crying* I'm fine."
-
-    scene v12ncf11b # TPP. Same as v12ncf11, Show Aubrey helping Nora up, Nora crying, mouth closed, Aubrey worried, mouth closed
-    with dissolve
-
-    pause 0.75
-
-    scene v12ncf5b # TPP. Same as v12ncf5, Chris worried, mouth open, he is apologizing
-    with dissolve
-
-    ch "Nora, I... I didn't mean to push you that hard. I'm sorry."
-
-    scene v12ncf12 # TPP. Show Nora walking away from Chris, Nora crying, mouth open, Chris very worried, mouth closed
-    with dissolve
-
-    no "*Sobbing* Leave me alone."
-
-    scene v12ncf13 # TPP. Show Chris pacing in front of the wall (going to the left), very worried, mouth closed
-    with dissolve
-
-    ch "FUCK! FUCK! FUCK!"
-
-    scene v12ncf13a # TPP. Same as v12ncf13, Chris pacing to the right, very worried, mouth closed
-    with dissolve
-
-    pause 0.75
-
-    scene v12ncf13b # TPP. Same as v12ncf13a, Chris punching the wall very hard, Chris very worried, mouth closed
-    with vpunch
-
-    pause 0.75
-
-    scene v12ncf13c # TPP. Same as v12ncg13, Chris holding his wrist, looking down at it, Chris angry, mouth open
-    with dissolve
-
-    ch "Bro, fuck all this shit!"
-
-    scene v12ncf14 # TPP. Show Chris going to walk out of the hotel, mouth closed, angry, holding his wrist, Nora walking towards the hotel rooms, Nora crying, mouth closed
-    with dissolve
-
-    pause 0.75
-
-    menu:
-        "Go to Nora":
-            $ add_point(KCT.BOYFRIEND)
-            $ v12_followed_nora = True
-
-            stop music fadeout 3
-            jump v12_chase_nora #scene 26b
-
-        "Go to Chris":
-            $ v12_help_chris += 1
-            $ add_point(KCT.BRO)
-
-            stop music fadeout 3
-            jump v12_follow_chris #scene 26a
+    # game/v12/scene26.rpy:202
+    old "Go to Chris"
+    new "Aller voir Chris"

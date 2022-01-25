@@ -1,179 +1,169 @@
-# SCENE 6: At the docks
-# Location: Docks
-# Characters: MC (Outfit 1), Riley (Outfit 3), Mr. Lee (Outfit 1)
-# Time: Morning
+﻿# TODO: Translation updated at 2021-12-14 13:29
 
-label v12_docks:
-    scene v12dock1 # TPP. Show the shuttle parking at the dock
-    with dissolve
+# game/v12/scene6.rpy:27
+translate francais v12_docks_d6bceaa2:
 
-    pause 1
+    # lee "Riley, [name], may I speak with you?"
+    lee "Riley, [name], puis-je vous parler ?"
 
-    play music "music/v12/Track Scene 6.mp3" fadein 2
+# game/v12/scene6.rpy:37
+translate francais v12_docks_f67c7736:
 
-    scene v12dock2 # TPP. Show MC walking out of the shuttle, slight smile, mouth closed
-    with dissolve
+    # ri "Yes?"
+    ri "Oui ?"
 
-    pause 0.75
+# game/v12/scene6.rpy:42
+translate francais v12_docks_d937aabc:
 
-    scene v12dock3 # TPP. Show MC walking in the docks with Riley, slight smiles, mouths closed
-    with dissolve
+    # lee "Well, how's it going? I know you can't move on to the next part without completing the first, so how did it go?"
+    lee "Alors, comment ça se passe ? Je sais que vous ne pouvez pas passer à la partie suivante sans avoir terminé la première, alors comment ça s'est passé ?"
 
-    pause 1.25
+# game/v12/scene6.rpy:47
+translate francais v12_docks_8fcae1f8:
 
-    scene v12dock4 # FPP. Show Mr Lee waving at MC and Riley, slight smile, mouth open (Mr Lee pretty far away)
-    with dissolve
+    # ri "It was fun, I have to admit."
+    ri "C'était amusant, je dois l'admettre."
 
-    lee "Riley, [name], may I speak with you?"
+# game/v12/scene6.rpy:52
+translate francais v12_docks_6fee75da:
 
-    scene v12dock5 # FPP. Same positioning as v12dock4, MC now closer to Mr Lee, Mr Lee smiling, mouth closed, not waving anymore
-    with dissolve
+    # u "As long as there's extra credit at the end, I won't be too mad."
+    u "Tant qu'il y a des points supplémentaires à la fin, je ne serai pas trop mécontent."
 
-    pause 0.75
+# game/v12/scene6.rpy:57
+translate francais v12_docks_6c8060e6:
 
-    scene v12dock6 # FPP. Same positioning as v12dock5, MC and Riley now talking distance to Mr Lee, MC looking at Riley, Riley looking at Mr Lee's direction, Riley smiling, mouth open (Riley standing next to MC, Mr Lee in front of both of them)
-    with dissolve
+    # lee "*Laughs* Just keep going with it. I only wanted to make sure the venture didn't end in London."
+    lee "*Rire* Continuez comme ça. Je voulais juste m'assurer que l'aventure ne se terminait pas à Londres."
 
-    ri "Yes?"
+# game/v12/scene6.rpy:62
+translate francais v12_docks_08ad32a1:
 
-    scene v12dock7 # FPP. Same positioning as v12dock6, MC looking at Mr Lee, Mr Lee looking at Riley's direction, Mr Lee smiling, mouth open
-    with dissolve
+    # ri "Nope, we're ready to tackle Paris."
+    ri "Non, nous sommes prêts à nous attaquer à Paris."
 
-    lee "Well, how's it going? I know you can't move on to the next part without completing the first, so how did it go?"
+# game/v12/scene6.rpy:67
+translate francais v12_docks_0f48a3f4:
 
-    scene v12dock6
-    with dissolve
+    # lee "Good to hear."
+    lee "C'est bon à savoir."
 
-    ri "It was fun, I have to admit."
+# game/v12/scene6.rpy:77
+translate francais v12_docks_5f3b4b56:
 
-    scene v12dock7a # FPP. Same as v12dock7, Mr Lee looking at MC, Mr Lee smiling, mouth closed
-    with dissolve
+    # ri "He's so giggly about this little treasure hunt."
+    ri "Il est si exité à propos de cette petite chasse au trésor."
 
-    u "As long as there's extra credit at the end, I won't be too mad."
+# game/v12/scene6.rpy:82
+translate francais v12_docks_cd6dedba:
 
-    scene v12dock7
-    with dissolve
+    # u "Suspiciously giggly if you ask me."
+    u "C'est une exitation suspecte si tu veux mon avis."
 
-    lee "*Laughs* Just keep going with it. I only wanted to make sure the venture didn't end in London."
+# game/v12/scene6.rpy:87
+translate francais v12_docks_1881ad1a:
 
-    scene v12dock6
-    with dissolve
+    # ri "Speaking of asking you things, and please just keep this between me and you, but I saw you walking with Amber. Did she say anything about me?"
+    ri "En parlant de te demander des choses, et s'il te plaît garde ça entre toi et moi, mais je t'ai vu marcher avec Amber. A-t-elle dit quelque chose sur moi ?"
 
-    ri "Nope, we're ready to tackle Paris."
+# game/v12/scene6.rpy:98
+translate francais v12_docks_f8ca0db8:
 
-    scene v12dock7
-    with dissolve
+    # u "Not much, we didn't really talk. What's going on?"
+    u "Pas grand-chose, on n'a pas vraiment parlé. Qu'est-ce qu'il y a ?"
 
-    lee "Good to hear."
+# game/v12/scene6.rpy:105
+translate francais v12_docks_a90a728f:
 
-    scene v12dock7b # FPP. Show Mr Lee walking away, smiling, mouth closed
-    with dissolve
+    # u "No, what's going on?"
+    u "Non, qu'est-ce qu'il y a ?"
 
-    pause 0.75
+# game/v12/scene6.rpy:110
+translate francais v12_docks_d5f34c65:
 
-    scene v12dock6a # FPP. Same as v12dock6, Riley looking at MC, slight smile, mouth open
-    with dissolve
+    # ri "Well, I said something and I don't know how she took it."
+    ri "Eh bien, j'ai dit quelque chose et je ne sais pas comment elle l'a pris."
 
-    ri "He's so giggly about this little treasure hunt."
+# game/v12/scene6.rpy:115
+translate francais v12_docks_40af8f52:
 
-    scene v12dock6b # FPP. Same as v12dock6a, Riley slight smile, mouth closed
-    with dissolve
+    # u "What'd you say?"
+    u "Qu'est-ce que tu as dit ?"
 
-    u "Suspiciously giggly if you ask me."
+# game/v12/scene6.rpy:120
+translate francais v12_docks_f3b2da55:
 
-    scene v12dock6c # FPP. Same as v12dock6a, Riley slightly worried, avoiding eye contact, mouth open
-    with dissolve
+    # ri "I kinda told her I liked her, liked her."
+    ri "Je lui ai un peu dit que je l'aimais... bien. Oui, que je l'aimais bien..."
 
-    ri "Speaking of asking you things, and please just keep this between me and you, but I saw you walking with Amber. Did she say anything about me?"
+# game/v12/scene6.rpy:125
+translate francais v12_docks_40394d37:
 
-    scene v12dock6d # FPP. Same as v12dock6c, Riley avoiding eye contact, slightly worried, mouth closed
-    with dissolve
+    # u "Oh. And she said...?"
+    u "Oh. Et a-t-elle dit... ?"
 
-    menu:
-        "Not much":
-            $ add_point(KCT.TROUBLEMAKER)
-            scene v12dock6e # FPP. Same as v12dock6d, Riley looking at MC, slightly worried, mouth closed, different pose
-            with dissolve
+# game/v12/scene6.rpy:130
+translate francais v12_docks_ec5e488d:
 
-            u "Not much, we didn't really talk. What's going on?"
+    # ri "Well, that's the thing. She didn't say anything. She kinda just brushed it off and left real fast."
+    ri "Eh bien, c'est le problème. Elle n'a rien dit. Elle a juste balayé ça d'un revers de main et est partie très vite."
 
-        "No":
-            $ add_point(KCT.BOYFRIEND)
-            scene v12dock6e
-            with dissolve
+# game/v12/scene6.rpy:135
+translate francais v12_docks_fdbce207:
 
-            u "No, what's going on?"
-
-    scene v12dock6f # FPP. Same as v12dock6d, Riley slightly worried, mouth open
-    with dissolve
-
-    ri "Well, I said something and I don't know how she took it."
-
-    scene v12dock6e
-    with dissolve
-
-    u "What'd you say?"
-
-    scene v12dock6f
-    with dissolve
-
-    ri "I kinda told her I liked her, liked her."
-
-    scene v12dock6d
-    with dissolve
-
-    u "Oh. And she said...?"
-
-    scene v12dock6c
-    with dissolve
-
-    ri "Well, that's the thing. She didn't say anything. She kinda just brushed it off and left real fast."
-
-    scene v12dock6e
-    with dissolve
-
+    # u "Oh..."
     u "Oh..."
 
-    scene v12dock6f
-    with dissolve
+# game/v12/scene6.rpy:140
+translate francais v12_docks_26a4d4d0:
 
-    ri "I just wanted to know if she said anything, I'm not gonna let it bother me though."
+    # ri "I just wanted to know if she said anything, I'm not gonna let it bother me though."
+    ri "Je voulais juste savoir si elle avait dit quelque chose, mais je ne vais pas laisser ça me déranger."
 
-    scene v12dock6a
-    with dissolve
-    
-    ri "Aubrey and I talked about this little slumber party idea I had and she's been keeping me company."
+# game/v12/scene6.rpy:145
+translate francais v12_docks_f74a8644:
 
-    scene v12dock6b
-    with dissolve
+    # ri "Aubrey and I talked about this little slumber party idea I had and she's been keeping me company."
+    ri "Aubrey et moi avons parlé de cette petite idée de soirée pyjama que j'ai eue et elle m'a tenu compagnie."
 
-    u "Well, that's good. You and Aubrey were already really close I thought."
+# game/v12/scene6.rpy:150
+translate francais v12_docks_59556379:
 
-    scene v12dock6a
-    with dissolve
+    # u "Well, that's good. You and Aubrey were already really close I thought."
+    u "Eh bien, c'est bien. Je pensais que toi et Aubrey étiez déjà très proches."
 
-    ri "We are, I'd just been spending a lot of time with Amber and blowing off pretty much everyone else."
+# game/v12/scene6.rpy:155
+translate francais v12_docks_d812ab51:
 
-    scene v12dock6b
-    with dissolve
+    # ri "We are, I'd just been spending a lot of time with Amber and blowing off pretty much everyone else."
+    ri "On l'est, j'ai juste passé beaucoup de temps avec Amber et j'ai laissé tomber tous les autres."
 
+# game/v12/scene6.rpy:160
+translate francais v12_docks_430bbf0d:
+
+    # u "Ohh, haha."
     u "Ohh, haha."
 
-    scene v12dock6a
-    with dissolve
+# game/v12/scene6.rpy:165
+translate francais v12_docks_686a74bd:
 
-    ri "Well, thanks. And don't pretend like you don't enjoy doing the treasure hunt... You know you like spending time with me."
+    # ri "Well, thanks. And don't pretend like you don't enjoy doing the treasure hunt... You know you like spending time with me."
+    ri "Eh bien, merci. Et ne fais pas comme si tu n'aimais pas faire la chasse au trésor... Tu sais que tu aimes passer du temps avec moi."
 
-    scene v12dock6b
-    with dissolve
+# game/v12/scene6.rpy:170
+translate francais v12_docks_006e880d:
 
-    u "Haha. Yeah, you're right. I do."
+    # u "Haha. Yeah, you're right. I do."
+    u "Haha. Oui, tu as raison. j'aime ça."
 
-    scene v12dock6g # FPP. Same as v12dock6, show Riley walking away
-    with dissolve
+# game/v12/scene6.rpy:175
+translate francais v12_docks_f2f0d67a:
 
-    u "(Hmmm, this must be what Amber was saying she wanted to talk about. I knew them two were getting close, but not like this.)"
+    # u "(Hmmm, this must be what Amber was saying she wanted to talk about. I knew them two were getting close, but not like this.)"
+    u "(Hmmm, ça doit être de ça qu'Amber disait vouloir parler. Je savais que ces deux-là se rapprochaient, mais pas comme ça)."
 
-    stop music fadeout 3
+translate francais strings:
 
-    jump v12s7fr #scene 7
+    # game/v12/scene6.rpy:92
+    old "Not much"
+    new "Pas beaucoup."

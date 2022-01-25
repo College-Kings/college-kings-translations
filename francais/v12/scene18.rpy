@@ -1,1951 +1,1781 @@
-# SCENE 18: Slumber party
-# Locations: Hotel room, hotel lobby, hotel room bathroom, hotel room corridor
-# Characters: AUBREY (Outfit: 2/5), IMRE (Outfit: 1/5), LINDSEY (Outfit: 1/2), MC (Outfit: 5/11), RILEY (Outfit: 5), CHLOE (Outfit: 6), CHRIS (Outfit: 2), NORA (Outfit: 3), CHARLI (Outfit: 2), RYAN (Outfit: 3), AMBER (Outfit: 4)
-# Time: Night
-# Phone Images: YES
-# Post 1: lindsey_aubrey_pjs.webp - Lindsey and Aubrey selfie in their pajamas
-# Post 2: amber_bet.webp - Amber nude pic, check v12slpbet8 for pose, pic taken from MC perspective
-# Post 3: mc_bet.webp - MC nude bet pic, check v12slpbet5b for pose, pic taken from Amber perspective
+﻿# TODO: Translation updated at 2021-12-28 13:34
 
-label v12_slumber_party:
-    scene v12slp1 # TPP. Show MC, Imre and Aubrey walking into the hotel lobby, all slight smiles, mouths closed
-    with fade
+# game/v12/scene18.rpy:21
+translate francais v12_slumber_party_4643fce2:
 
-    pause 0.75
+    # au "Okay, guys. Everyone go to your room and get changed into your pajamas then off to Riley's room."
+    au "Ok, les amis. Tout le monde va dans sa chambre, met son pyjama puis on va tous dans la chambre de Riley."
 
-    play music "music/v12/Track Scene 18_1.mp3" fadein 2
+# game/v12/scene18.rpy:26
+translate francais v12_slumber_party_a639e265:
 
-    scene v12slp2 # FPP. Aubrey, Imre, Aubrey and Lindsey in a circle talking to each other. MC looking at Aubrey, Aubrey looking at MC, Aubrey slight smile, mouth open (Only Aubrey in shot)
-    with dissolve
+    # imre "If you want to sleep together Aubrey, just say it."
+    imre "Si tu veux coucher avec Aubrey, dis-le."
 
-    au "Okay, guys. Everyone go to your room and get changed into your pajamas then off to Riley's room."
+# game/v12/scene18.rpy:31
+translate francais v12_slumber_party_95da721f:
 
-    scene v12slp3 # FPP. Same positioning as v12slp2, MC looking at Imre, Imre looking at Aubrey's direction, Imre smirking, mouth open (Only Imre in shot)
-    with dissolve
+    # au "Haha, just hurry up."
+    au "Haha, dépêche-toi."
 
-    imre "If you want to sleep together Aubrey, just say it."
+# game/v12/scene18.rpy:36
+translate francais v12_slumber_party_34fe12c5:
 
-    scene v12slp2a # FPP. Same as v12slp2, Aubrey slight smile, mouth open, looking at Imre's direction
-    with dissolve
+    # li "Umm... What are you guys planning?"
+    li "Humm... Qu'est-ce que vous avez prévu ?"
 
-    au "Haha, just hurry up."
+# game/v12/scene18.rpy:41
+translate francais v12_slumber_party_3897b1d7:
 
-    scene v12slp4 # FPP. Same positioning as v12slp3, MC looking at Lindsey, Lindsey looking at Aubrey's direction, Lindsey confused, mouth open (Only Lindsey in shot)
-    with dissolve
+    # au "You'll see. Just go get changed."
+    au "Tu vas voir. Va te changer."
 
-    li "Umm... What are you guys planning?"
+# game/v12/scene18.rpy:46
+translate francais v12_slumber_party_8ccabc29:
 
-    scene v12slp2b # FPP. Same as v12slp2, Aubrey slight smile, mouth open, looking at Lindsey's direction
-    with dissolve
+    # u "*Chuckles* Okay."
+    u "*Rire* Ok."
 
-    au "You'll see. Just go get changed."
+# game/v12/scene18.rpy:62
+translate francais v12_slumber_party_190e1233:
 
-    scene v12slp2c # FPP. Same as v12slp2, Aubrey mouth closed, slight smile
-    with dissolve
+    # u "Are you gonna tell me what's going on?"
+    u "Tu vas enfin me dire ce qui se passe ?"
 
-    u "*Chuckles* Okay."
+# game/v12/scene18.rpy:67
+translate francais v12_slumber_party_6eca614d:
 
-    scene v12slp5 # TPP. Show MC walking through the hotel room corridor, slight smile, mouth closed
-    with fade
+    # ri "We're throwing a slumber party for Lindsey and the teachers can't know, so keep it on the hush hush."
+    ri "On organise une soirée pyjama pour Lindsey et les profs ne doivent pas le savoir, alors garde le secret."
 
-    pause 0.75
+# game/v12/scene18.rpy:72
+translate francais v12_slumber_party_1563a959:
 
-    scene v12slp6 # TPP. Show MC walking in to his room, mouth closed, slight smile
-    with dissolve
+    # u "What if I was tired and didn't wanna deal with a thousand people in my room while I slept?"
+    u "Et si j'étais fatigué et que je ne voulais pas avoir à gérer un millier de personnes dans ma chambre pendant que je dors ?"
 
-    pause 0.75
+# game/v12/scene18.rpy:77
+translate francais v12_slumber_party_db1b0014:
 
-    if v11_riley_roomate:
-        scene v12slp7 # FPP. MC inside the room, looking at Riley, Riley in her pajamas, Riley slight smile, mouth closed
-        with dissolve
+    # ri "Then you can sleep in the lobby."
+    ri "Alors tu pourrais dormir dans le couloir."
 
-        u "Are you gonna tell me what's going on?"
+# game/v12/scene18.rpy:82
+translate francais v12_slumber_party_e5e71f9b:
 
-        scene v12slp7a # FPP. Same as v12slp7, Riley mouth open, slight smile
-        with dissolve
+    # u "How kind...?"
+    u "Comment ça...?"
 
-        ri "We're throwing a slumber party for Lindsey and the teachers can't know, so keep it on the hush hush."
+# game/v12/scene18.rpy:87
+translate francais v12_slumber_party_64bbe977:
 
-        scene v12slp7
-        with dissolve
+    # ri "*Chuckles* Sorry, this was a last minute thing. Aubrey and I were talking about doing a slumber party, but she acted like it had to be tonight for Lindsey."
+    ri "*Rire* Désolée, c'était un truc de dernière minute. Aubrey et moi voulions faire une soirée pyjama, mais elle a décidé que ça devait être ce soir pour Lindsey."
 
-        u "What if I was tired and didn't wanna deal with a thousand people in my room while I slept?"
+# game/v12/scene18.rpy:92
+translate francais v12_slumber_party_333afaa8:
 
-        scene v12slp7a
-        with dissolve
+    # u "It's all good, I'm sure it'll be fun."
+    u "T'inquiète pas, je suis sûr que ça va être amusant."
 
-        ri "Then you can sleep in the lobby."
+# game/v12/scene18.rpy:128
+translate francais v12_slumber_party_5086a4ea:
 
-        scene v12slp7
-        with dissolve
+    # u "Oh shoot, I'm sorry."
+    u "Oh mince, je suis désolé."
 
-        u "How kind...?"
+# game/v12/scene18.rpy:133
+translate francais v12_slumber_party_d9f77fea:
 
-        scene v12slp7a
-        with dissolve
+    # ri "Oh you're fine, come in."
+    ri "Oh, ça va, entre."
 
-        ri "*Chuckles* Sorry, this was a last minute thing. Aubrey and I were talking about doing a slumber party, but she acted like it had to be tonight for Lindsey."
+# game/v12/scene18.rpy:143
+translate francais v12_slumber_party_1cdbaf9b:
 
-        scene v12slp7
-        with dissolve
+    # u "So, what are we doing exactly?"
+    u "Alors, qu'allons-nous faire exactement ?"
 
-        u "It's all good, I'm sure it'll be fun."
+# game/v12/scene18.rpy:148
+translate francais v12_slumber_party_0f571eaa:
 
-        scene v12slp8 # TPP. Show MC putting his pajama pants on, shirtless, slight smile, mouth closed
-        with dissolve
+    # ri "It's a slumber party."
+    ri "Une soirée pyjama."
 
-        pause 0.75
+# game/v12/scene18.rpy:153
+translate francais v12_slumber_party_d11d9e72:
 
-        scene v12slp8a # TPP. Show MC putting his pajama shirt on, pajama pants on, slight smile, mouth open
-        with dissolve
+    # u "*Sarcasm* Oh, yay! Are we doing our nails too?!"
+    u "*Sarcasme* Oh, génial ! On va se faire les ongles aussi ? !"
 
-        pause 0.75
+# game/v12/scene18.rpy:158
+translate francais v12_slumber_party_26e91ddd:
 
-    else: # If Chloe is roommate
-        scene v12slp8
-        with dissolve
+    # ri "*Chuckles* Just keep it on the hush hush, the teachers can't know about this."
+    ri "*Rire* Reste discret, les professeurs ne doivent pas être au courant."
 
-        pause 0.75
+# game/v12/scene18.rpy:163
+translate francais v12_slumber_party_462711f5:
 
-        scene v12slp8a
-        with dissolve
+    # u "My lips are sealed."
+    u "Mes lèvres resteront closes."
 
-        pause 0.75
+# game/v12/scene18.rpy:168
+translate francais v12_slumber_party_73a7d37a:
 
-        scene v12slp5a # TPP. Same as v12slp5, MC now in his pajamas
-        with fade
+    # imre "Time to party!"
+    imre "C'est l'heure de faire la fête !"
 
-        pause 0.75
+# game/v12/scene18.rpy:176
+translate francais v12_slumber_party_5956ea77:
 
-        scene v12slp6a # TPP. Same as v12slp6, MC now in his pajamas
-        with dissolve
+    # u "Where's everyone else?"
+    u "Où sont tous les autres ?"
 
-        pause 0.75
+# game/v12/scene18.rpy:181
+translate francais v12_slumber_party_952b08ec:
 
-        scene v12slp7b # FPP. Same as v12slp7, Riley slight smile, in her bra, pajama pants, mouth closed (pajama top on the bed)
-        with dissolve
+    # imre "Right behind me, but I rushed up here to get a good seat."
+    imre "Juste derrière moi, mais j'me suis précipité ici pour avoir une bonne place."
 
-        u "Oh shoot, I'm sorry."
+# game/v12/scene18.rpy:191
+translate francais v12_slumber_party_424484de:
 
-        scene v12slp7c # FPP. Same as v12slp7b, Riley slight smile, mouth open
-        with dissolve
+    # ri "Those feet of yours better be clean."
+    ri "Tes pieds ont intérêt à être propres."
 
-        ri "Oh you're fine, come in."
+# game/v12/scene18.rpy:196
+translate francais v12_slumber_party_1c47832f:
 
-        scene v12slp7d # FPP. Same as v12slp7b, Riley putting on her pajama top, slight smile, mouth closed
-        with dissolve
+    # imre "Like a baby's bottom."
+    imre "Ils sont comme des fesses de bébé."
 
-        pause 0.75
+# game/v12/scene18.rpy:201
+translate francais v12_slumber_party_edfe1afb:
 
-        scene v12slp7
-        with dissolve
+    # ri "A baby's bottom isn't always clean."
+    ri "Les fesses de bébé ne sont pas toujours propres."
 
-        u "So, what are we doing exactly?"
+# game/v12/scene18.rpy:206
+translate francais v12_slumber_party_88d1c333:
 
-        scene v12slp7a
-        with dissolve
+    # imre "Okay then... Like a clean baby's bottom."
+    imre "Ok alors... Comme les fesses d'un bébé propre."
 
-        ri "It's a slumber party."
+# game/v12/scene18.rpy:211
+translate francais v12_slumber_party_748377d4:
 
-        scene v12slp7
-        with dissolve
+    # ri "*Chuckles* That's better."
+    ri "*Rire* C'est mieux."
 
-        u "*Sarcasm* Oh, yay! Are we doing our nails too?!"
+# game/v12/scene18.rpy:221
+translate francais v12_slumber_party_54c01af9:
 
-        scene v12slp7a
-        with dissolve
+    # imre "Ahh yeah, plenty of room over here ladies!"
+    imre "Ahh ouais, j'ai plein d'place ici les filles !"
 
-        ri "*Chuckles* Just keep it on the hush hush, the teachers can't know about this."
+# game/v12/scene18.rpy:226
+translate francais v12_slumber_party_3dd7796e:
 
-        scene v12slp7
-        with dissolve
+    # cl "We'll find somewhere to sit that isn't... dog infested. *Chuckles*"
+    cl "On trouvera un endroit où s'asseoir qui ne... pue pas le chien. *Rire*"
 
-        u "My lips are sealed."
+# game/v12/scene18.rpy:231
+translate francais v12_slumber_party_dfadf186:
 
-    scene v12slp9 # FPP. MC in the room, looking at the door, door open, Imre standing in the doorway, in his boxers, arms raised, smiling, mouth open (he's hyped)
-    with dissolve
+    # imre "I thought girls loved puppies?"
+    imre "J'croyais qu'les filles aimaient les chiots ?"
 
-    imre "Time to party!"
+# game/v12/scene18.rpy:236
+translate francais v12_slumber_party_f020100c:
 
-    stop music fadeout 3
-    play music "music/v12/Track Scene 18_2.mp3" fadein 2
+    # li "You're a little more than a puppy. *Laughs*"
+    li "T'es un peu plus qu'un \"chiot\". *Rire*"
 
-    scene v12slp9a # FPP. Same as v12slp9, Imre normal pose, smiling, mouth closed
-    with dissolve
+# game/v12/scene18.rpy:246
+translate francais v12_slumber_party_6c40a9f1:
 
-    u "Where's everyone else?"
+    # ch "Hey guys."
+    ch "Salut à tous."
 
-    scene v12slp9b # FPP. Same as v12slp9a, Imre smiling, mouth open
-    with dissolve
+# game/v12/scene18.rpy:251
+translate francais v12_slumber_party_5ff23b20:
 
-    imre "Right behind me, but I rushed up here to get a good seat."
+    # au "Hey, hey! No cell phones tonight, ok Chris?"
+    au "Hey, hey ! PAS de téléphones ce soir, ok Chris ?"
 
-    scene v12slp10 # TPP. Show Imre plopping down on the bed, smiling, mouth closed
-    with dissolve
+# game/v12/scene18.rpy:256
+translate francais v12_slumber_party_710521e9:
 
-    pause 1
+    # ch "Yeah, of course. I'll try."
+    ch "Oui, bien sûr. ...Je vais essayer."
 
-    scene v12slp11 # FPP. MC standing near the beds, Riley standing next to MC, MC looking at Riley, Riley looking at Imre on the bed, Riley slightly annoyed, mouth open (Only Riley in shot)
-    with dissolve
+# game/v12/scene18.rpy:261
+translate francais v12_slumber_party_dfb28d35:
 
-    ri "Those feet of yours better be clean."
+    # no "Try hard."
+    no "Essaie vraiment."
 
-    scene v12slp12 # FPP. Same positioning as v12slp11, MC looking at Imre lying on the bed, looking at Riley's direction, Imre smirking, mouth open
-    with dissolve
+# game/v12/scene18.rpy:266
+translate francais v12_slumber_party_44e08934:
 
-    imre "Like a baby's bottom."
+    # au "*Chuckles* Alright, so for those of you that still don't know, today is Lindsey's birthday."
+    au "*Rire* Bon, pour ceux qui ne le savent pas encore, c'est l'anniversaire de Lindsey aujourd'hui."
 
-    scene v12slp11
-    with dissolve
+# game/v12/scene18.rpy:271
+translate francais v12_slumber_party_397ff786:
 
-    ri "A baby's bottom isn't always clean."
+    # imre "WOOHOOOO! HAPPY BIRTHD-"
+    imre "WOOHOOOO ! JOYEUX ANNIVER-"
 
-    scene v12slp12
-    with dissolve
+# game/v12/scene18.rpy:276
+translate francais v12_slumber_party_b74c9f91:
 
-    imre "Okay then... Like a clean baby's bottom."
+    # no "IMRE! *Whispers* This better be the last time tonight that I have to tell you to shut the fuck up and quiet down... Got it?"
+    no "IMRE ! *Chuchote* J'espère que c'est la dernière fois ce soir, que je dois te dire de fermer ta gueule et de te taire... Compris ?"
 
-    scene v12slp11a # FPP. Same as v12slp11, Riley slight smile, mouth open
-    with dissolve
+# game/v12/scene18.rpy:281
+translate francais v12_slumber_party_4116201c:
 
-    ri "*Chuckles* That's better."
+    # imre "Fuck ye- I mean... Yes Mom, Ma'am! I meant, um... Ma'am. Yes, ma'am."
+    imre "Putain ou... j'veux dire... Oui m'dame, maman ! Je voulais dire, heu... M'dame. Oui, m'dame."
 
-    scene v12slp9c # FPP. Same as v12slp9, Aubrey, Lindsey, Amber, Chloe and Nora walking through the door, all smiling, mouths closed
-    with dissolve
+# game/v12/scene18.rpy:286
+translate francais v12_slumber_party_7d7175f5:
 
-    pause 1.5
+    # u "(Did he just say... mom?) *Chuckles*"
+    u "(Est-ce qu'il vient de dire... maman ?) *Rire*"
 
-    scene v12slp12a # FPP. Same as v12slp12, Imre looking towards the door, smiling, mouth open
-    with dissolve
+# game/v12/scene18.rpy:291
+translate francais v12_slumber_party_ae8b49bb:
 
-    imre "Ahh yeah, plenty of room over here ladies!"
+    # no "*Whispers* \"Mom?!\""
+    no "*Chuchote* \"Maman ?!\""
 
-    scene v12slp13 # FPP. Same positioning as v12slp11, Chloe, Aubrey, Amber, Nora and Lindsey now standing next to MC and Riley, MC looking at Chloe, Chloe looking at Imre on the bed, Chloe mouth open, slight smile (Only Chloe in shot)
-    with dissolve
+# game/v12/scene18.rpy:296
+translate francais v12_slumber_party_de5b01aa:
 
-    cl "We'll find somewhere to sit that isn't... dog infested. *Chuckles*"
+    # u "Haha, Shhhh..."
+    u "Haha, Chuuuut..."
 
-    scene v12slp12b # FPP. Same as v12slp12a, Imre looking at Chloe (check v12slp13), Imre smiling, mouth open
-    with dissolve
+# game/v12/scene18.rpy:301
+translate francais v12_slumber_party_21217e26:
 
-    imre "I thought girls loved puppies?"
+    # au "So tonight, we're celebrating with a little slumber party! We may not all get along, but tonight, for the sake of Lindsey, let's put aside our differences and just enjoy the night."
+    au "Alors ce soir, on va fêter ça avec une petite soirée pyjama ! On ne s'entend peut-être pas tous, mais ce soir, pour le bien de Lindsey, mettons de côté nos problèmes et profitons de la soirée."
 
-    scene v12slp14 # FPP. Same positioning as v12slp13, MC looking at Lindsey, Lindsey looking at Imre on the bed, Lindsey smiling, mouth open (Only Lindsey in shot)
-    with dissolve
+# game/v12/scene18.rpy:306
+translate francais v12_slumber_party_ea5db2eb:
 
-    li "You're a little more than a puppy. *Laughs*"
+    # li "Aww!"
+    li "Ohhh !"
 
-    scene v12slp9d # FPP. Same as v12slp9c, but Chris, Ryan and Charli are walking in, all smiling, mouths closed
-    with dissolve
+# game/v12/scene18.rpy:316
+translate francais v12_slumber_party_c6555420:
 
-    pause 1.25
+    # li "Thank you so much guys. This is really sweet and honestly such a perfect surprise."
+    li "Merci beaucoup les amis. C'est vraiment gentil et franchement, c'est une surprise parfaite."
 
-    scene v12slp15 # FPP. Chris, Ryan and Charli standing next to each other near the door, MC looking at Chris, Chris waving, looking at MC, smiling, mouth open (Only Chris in shot, the other characters same positioning as v12slp13)
-    with dissolve
+# game/v12/scene18.rpy:321
+translate francais v12_slumber_party_db0d9bc8:
 
-    ch "Hey guys."
+    # imre "Hey, an opportunity to see girls in their jam-jams is an opportunity I couldn't miss."
+    imre "Hé, une occasion d'voir des filles dans leurs pyj' est une occasion que j'pouvais franchement pas manquer."
 
-    scene v12slp16 # FPP. Same positioning as v12slp15, MC looking at Aubrey, Aubrey looking at Chris' direction, Aubrey slight smile, mouth open (Only Aubrey in shot)
-    with dissolve
+# game/v12/scene18.rpy:326
+translate francais v12_slumber_party_a94cf2be:
 
-    au "Hey, hey! No cell phones tonight, ok Chris?"
+    # imre "Oof!"
+    imre "Ouff !"
 
-    scene v12slp15a # FPP. Same as v12slp15, Chris looking at Aubrey's direction, slight smile, mouth open
-    with dissolve
+# game/v12/scene18.rpy:331
+translate francais v12_slumber_party_a40da749:
 
-    ch "Yeah, of course. I'll try."
+    # au "*Laughs* Let's have fun, guys."
+    au "*Rire* Allez, on va s'amuser, les amis."
 
-    scene v12slp17 # FPP. Same positioning as v12slp15, MC looking at Nora, Nora looking at Chris' direction, Nora slightly annoyed, mouth open (Only Nora in shot)
-    with dissolve
+# game/v12/scene18.rpy:351
+translate francais v12s18_bottlespin_2cfb2e83:
 
-    no "Try hard."
+    # au "Hey [name], come over here and play with us?"
+    au "Hey [name], tu viens ici pour jouer avec nous ?"
 
-    scene v12slp16a # FPP. Same as v12slp16, Aubrey looking at MC, smiling, mouth open
-    with dissolve
+# game/v12/scene18.rpy:356
+translate francais v12s18_bottlespin_c0fa9095:
 
-    au "*Chuckles* Alright, so for those of you that still don't know, today is Lindsey's birthday."
+    # u "Depends... What are we playing?"
+    u "Ça dépend... A quoi on joue ?"
 
-    scene v12slp12c # FPP. Same as v12slp12, Imre sitting on the bed, Imre's arms raised to the sky (He's hyped), mouth open (He's screaming), smiling
-    with dissolve
+# game/v12/scene18.rpy:361
+translate francais v12s18_bottlespin_4dd010ff:
 
-    imre "WOOHOOOO! HAPPY BIRTHD-"
+    # au "Spin the bottle... You know you wannaaaaaaa... *Chuckles*"
+    au "Fais tourner la bouteille... Tu sais que tu veuuuuuux... *Rire*"
 
-    scene v12slp17a # FPP. Same as v12slp17, Nora looking at Imre's direction, Nora slightly annoyed, mouth open
-    with dissolve
+# game/v12/scene18.rpy:366
+translate francais v12s18_bottlespin_a9c78fd2:
 
-    no "IMRE! *Whispers* This better be the last time tonight that I have to tell you to shut the fuck up and quiet down... Got it?"
+    # u "Haha, alright, alright."
+    u "Haha, bien, très bien."
 
-    scene v12slp12d # FPP. Same as v12slp12c, Imre slightly worried, mouth open, looking at Nora's direction (No longer hyped)
-    with dissolve
+# game/v12/scene18.rpy:371
+translate francais v12s18_bottlespin_aeac3026:
 
-    imre "Fuck ye- I mean... Yes Mom, Ma'am! I meant, um... Ma'am. Yes, ma'am."
+    # au "Imre, Ryan, get over here and play with us. Chris, you too!"
+    au "Imre, Ryan, venez ici et jouez avec nous. Chris, toi aussi !"
 
-    scene v12slp17b # FPP. Same as v12slp17a, Nora confused, mouth closed, looking at MC
-    with dissolve
+# game/v12/scene18.rpy:381
+translate francais v12s18_bottlespin_87809a98:
 
-    u "(Did he just say... mom?) *Chuckles*"
+    # imre "Aww yeah, we're playing spin the bottle?!"
+    imre "Ooh ouais, on joue à la bouteille ?!"
 
-    scene v12slp17c # FPP. Same as v12slp17b, Nora looking at MC, Nora confused, mouth open
-    with dissolve
+# game/v12/scene18.rpy:386
+translate francais v12s18_bottlespin_9158ec8f:
 
-    no "*Whispers* \"Mom?!\""
+    # au "Sure are! Lindsey and I actually played this with the girls on our first night of this semester."
+    au "Bien sûr ! Lindsey et moi avons joué à ça avec les autres filles lors de notre première soirée du semestre."
 
-    scene v12slp17b
-    with dissolve
+# game/v12/scene18.rpy:391
+translate francais v12s18_bottlespin_37cb0d32:
 
-    u "Haha, Shhhh..."
+    # imre "And I didn't get an invite? Wow..."
+    imre "Et j'ai pas eu d'invitation ? Wow..."
 
-    scene v12slp16a
-    with dissolve
+# game/v12/scene18.rpy:396
+translate francais v12s18_bottlespin_e9b291c1:
 
-    au "So tonight, we're celebrating with a little slumber party! We may not all get along, but tonight, for the sake of Lindsey, let's put aside our differences and just enjoy the night."
+    # li "*Laughs*"
+    li "*Rire*"
 
-    scene v12slp14a # FPP. Same as v12slp14, Lindsey looking at Aubrey's direction, Lindsey smiling, mouth open
-    with dissolve
+# game/v12/scene18.rpy:401
+translate francais v12s18_bottlespin_2e34745d:
 
-    li "Aww!"
+    # u "Alright... Any rules?"
+    u "D'accord... Des règles particulières ?"
 
-    scene v12slp18 # TPP. Show Lindsey and Aubrey hugging, both smiling, mouths closed
-    with dissolve
+# game/v12/scene18.rpy:406
+translate francais v12s18_bottlespin_9124e864:
 
-    pause 1
+    # au "Yeah, kiss who it lands on when you spin it. *Chuckles*"
+    au "Ouais, embrasse la personne sur laquelle il atterrit quand tu le fais tourner. *Rire*"
 
-    scene v12slp14b # FPP. Same as v12slp14a, Lindsey looking at MC, Lindsey smiling, mouth open
-    with dissolve
+# game/v12/scene18.rpy:411
+translate francais v12s18_bottlespin_6017e85e:
 
-    li "Thank you so much guys. This is really sweet and honestly such a perfect surprise."
+    # u "That's a lot of rules, but I'll try to remember. *Chuckles*"
+    u "Ça fait beaucoup de règles ! Mais je vais essayer de m'en souvenir. *Rire*"
 
-    scene v12slp12e # FPP. Same as v12slp12d, Imre looking at Lindsey's direction, Imre smirking, mouth open
-    with dissolve
+# game/v12/scene18.rpy:416
+translate francais v12s18_bottlespin_e2d79e70:
 
-    imre "Hey, an opportunity to see girls in their jam-jams is an opportunity I couldn't miss."
+    # imre "I'm not kissing a dude."
+    imre "J'embrasse pas d'mec."
 
-    scene v12slp19 # TPP. Show Riley throwing a pillow at Imre, Riley smiling, mouth closed, Imre slightly startled, mouth slightly open
-    with dissolve
+# game/v12/scene18.rpy:421
+translate francais v12s18_bottlespin_1651347a:
 
-    imre "Oof!"
+    # au "Why not? I'll kiss any one of these beautiful ladies..."
+    au "Pourquoi pas ? J'embrasserais n'importe laquelle de ces belles dames..."
 
-    scene v12slp16a
-    with dissolve
+# game/v12/scene18.rpy:426
+translate francais v12s18_bottlespin_6c900ef6:
 
-    au "*Laughs* Let's have fun, guys."
+    # imre "Well... That's hot, and kissing a dude is not. Do I look like Charli to you?"
+    imre "Et bien... C'est excitant, mais embrasser un mec ça l'est pas. Est-ce que j'ressemble à Charli pour toi ?"
 
-    $ v12s18_kiwiiPost1 = KiwiiPost(lindsey, "v12/lindsey_aubrey_pjs.webp", _("Couldn't have asked for a better night... <3"), numberLikes=571) # Lindsey Selfie with Aubrey in pajamas
-    $ v12s18_kiwiiPost1.newComment(aubrey, _("You're so welcome boo... Girls night again ASAP!"), mentions=[lindsey], numberLikes=renpy.random.randint(250,350), force_send=True)
-    $ v12s18_kiwiiPost1.newComment(imre, _("Even more beautiful in person, ladies..."), mentions=[lindsey], numberLikes=renpy.random.randint(150,300), force_send=True)
-    $ v12s18_kiwiiPost1.newComment(chloe, _("Yesss! We have to do this again."), mentions=[aubrey], numberLikes=renpy.random.randint(250,400), force_send=True)
-    $ v12s18_kiwiiPost1.addReply(_("Just say when and where! Had a lot of fun :)"), mentions=[aubrey], numberLikes=renpy.random.randint(250, 330))
-    $ v12s18_kiwiiPost1.addReply(_("You deserve the best! Glad you enjoyed it ;)"), mentions=[lindsey], numberLikes=renpy.random.randint(250, 330))
-    $ v12s18_kiwiiPost1.newComment(lindsey, _("Haha, thank you guys <3"), numberLikes=renpy.random.randint(150,300))
-    call screen v12s18_room1
+# game/v12/scene18.rpy:431
+translate francais v12s18_bottlespin_641f4a36:
 
-# -Start of free roam-
-label v12s18_bottlespin:
-    $ v12_slumberparty.add("bottle")
-    
-    scene v12slpbs1 # FPP. Aubrey, Nora, Chloe and Lindsey sitting down in a circle on the floor, MC standing up, MC and Aubrey looking at each other, Aubrey slight smile, mouth open (Only Aubrey in shot)
-    #with dissolve
+    # charli "Somebody call me?"
+    charli "Quelqu'un m'appelle ?"
 
-    au "Hey [name], come over here and play with us?"
+# game/v12/scene18.rpy:436
+translate francais v12s18_bottlespin_bd810a8a:
 
-    scene v12slpbs1a # FPP. Same as v12slpbs1, Aubrey slight smile, mouth closed
-    with dissolve
+    # imre "Definitely not!"
+    imre "Certainement pas !"
 
-    u "Depends... What are we playing?"
+# game/v12/scene18.rpy:441
+translate francais v12s18_bottlespin_bdcc7403:
 
-    scene v12slpbs1
-    with dissolve
+    # au "*Chuckles* Okay fine, if it lands on someone and you refuse to kiss them, then they get to slap you."
+    au "*Rire* Ok, si ça tombe sur quelqu'un et que tu refuses de l'embrasser, alors il pourra te gifler."
 
-    au "Spin the bottle... You know you wannaaaaaaa... *Chuckles*"
+# game/v12/scene18.rpy:446
+translate francais v12s18_bottlespin_005eede8:
 
-    scene v12slpbs1a
-    with dissolve
+    # ry "What if the person doesn't let us kiss them?"
+    ry "Et si la personne ne nous laisse pas l'embrasser ?"
 
-    u "Haha, alright, alright."
+# game/v12/scene18.rpy:451
+translate francais v12s18_bottlespin_ac147d81:
 
-    scene v12slpbs1b # FPP. Same as v12slpbs1, Aubrey looking at Imre's direction (He's out of shot, behind MC)
-    with dissolve
+    # au "Then you get to slap them."
+    au "Alors tu devras la gifler."
 
-    au "Imre, Ryan, get over here and play with us. Chris, you too!"
+# game/v12/scene18.rpy:456
+translate francais v12s18_bottlespin_da746360:
 
-    scene v12slpbs2 # TPP. Show MC midway through sitting down next to Lindsey, both smiling mouths closed, Lindsey looking at MC
-    with dissolve
+    # li "This just became the most interesting spin the bottle game I've ever played. *Chuckles*"
+    li "C'est devenu le jeu de la bouteille le plus intéressant auquel j'ai jamais joué. *Rire*"
 
-    pause 0.75
+# game/v12/scene18.rpy:461
+translate francais v12s18_bottlespin_fa2ce463:
 
-    scene v12slpbs3 # FPP. Everyone now sitting down on the floor (Check with wiebley for .duf of positioning), MC looking at Imre, Imre looking at Aubrey's direction, Imre smiling, mouth open
-    with dissolve
+    # au "*Chuckles* Good! Go ahead and start us off, birthday girl."
+    au "*Rire* Bien ! Vas-y et commence, mademoiselle la star du jour."
 
-    imre "Aww yeah, we're playing spin the bottle?!"
+# game/v12/scene18.rpy:466
+translate francais v12s18_bottlespin_4b41f9ca:
 
-    scene v12slpbs4 # FPP. Same positioning as v12slpbs3, MC looking at Aubrey, Aubrey looking at Imre's direction, Aubrey smiling, mouth open
-    with dissolve
+    # li "Alrighty!"
+    li "Très bien !"
 
-    au "Sure are! Lindsey and I actually played this with the girls on our first night of this semester."
+# game/v12/scene18.rpy:486
+translate francais v12s18_bottlespin_cc5147cc:
 
-    scene v12slpbs3
-    with dissolve
+    # li "I can't tell who it landed on. *Chuckles* Should I spin again?"
+    li "Je ne saurais dire sur qui il a atterri. *Rire* Je dois tourner à nouveau ?"
 
-    imre "And I didn't get an invite? Wow..."
+# game/v12/scene18.rpy:491
+translate francais v12s18_bottlespin_984adb7f:
 
-    scene v12slpbs5 # FPP. Same poisitioning as v12slpbs3, MC looking at Lindsey, Lindsey looking at Imre's direction
-    with dissolve
+    # imre "No need for all that, pucker up."
+    imre "Pas besoin de tout ça, fais-toi plaisir."
 
-    li "*Laughs*"
+# game/v12/scene18.rpy:508
+translate francais v12s18_bottlespin_1695983c:
 
-    scene v12slpbs4a # FPP. Same as v12slpbs4, Aubrey looking at MC, Aubrey smiling, mouth closed
-    with dissolve
+    # li "We like men that take charge, don't we ladies?"
+    li "Nous aimons les hommes qui prennent les choses en main, n'est-ce pas mesdames ?"
 
-    u "Alright... Any rules?"
+# game/v12/scene18.rpy:513
+translate francais v12s18_bottlespin_62e68f8d:
 
-    scene v12slpbs4b # FPP. Same as v12slpbs4a, Aubrey smiling, mouth open
-    with dissolve
+    # au "*Chuckles* Ohh yes..."
+    au "*Rire* Ohh oui..."
 
-    au "Yeah, kiss who it lands on when you spin it. *Chuckles*"
+# game/v12/scene18.rpy:518
+translate francais v12s18_bottlespin_a941f86d:
 
-    scene v12slpbs4a
-    with dissolve
+    # ry "*Whisper* Damn."
+    ry "*Chuchote* Merde."
 
-    u "That's a lot of rules, but I'll try to remember. *Chuckles*"
+# game/v12/scene18.rpy:523
+translate francais v12s18_bottlespin_660fbd1a:
 
-    scene v12slpbs3a # FPP. Same as v12slpbs3, Imre slightly annoyed, mouth open
-    with dissolve
+    # li "Snooze you lose, Ryan."
+    li "Tu perds, Ryan."
 
-    imre "I'm not kissing a dude."
+# game/v12/scene18.rpy:528
+translate francais v12s18_bottlespin_da77acb7:
 
-    scene v12slpbs4
-    with dissolve
+    # au "Don't worry, Ryan. It's your turn."
+    au "Ne t'inquiète pas, Ryan. C'est ton tour."
 
-    au "Why not? I'll kiss any one of these beautiful ladies..."
+# game/v12/scene18.rpy:533
+translate francais v12s18_bottlespin_23522da8:
 
-    scene v12slpbs3a
-    with dissolve
+    # ry "Give me something good, bottle!"
+    ry "Donne-moi quelque chose de bon, petite bouteille !"
 
-    imre "Well... That's hot, and kissing a dude is not. Do I look like Charli to you?"
+# game/v12/scene18.rpy:543
+translate francais v12s18_bottlespin_34578c7d:
 
-    scene v12slpbs6 # FPP. MC still sitting down, Charli is on his phone, sitting on the table, slight smile, mouth open, looking at Imre's direction
-    with dissolve
+    # ry "DAMMMNN! Sorry bro..."
+    ry "MEEEEERDE ! Désolé mon frère..."
 
-    charli "Somebody call me?"
+# game/v12/scene18.rpy:548
+translate francais v12s18_bottlespin_2b180349:
 
-    scene v12slpbs3b # FPP. Same as v12slpbs3, Imre looking at Charli's direction (check v12slpbs6), Imre smiling, mouth open
-    with dissolve
+    # u "(Of fucking course.)"
+    u "(Bien sûr, putain.)"
 
-    imre "Definitely not!"
+# game/v12/scene18.rpy:554
+translate francais v12s18_bottlespin_65f2fba9:
 
-    scene v12slpbs4b
-    with dissolve
+    # u "Fuck. Well, I'm not in the mood to get slapped, so let's get this over with."
+    u "Fais chier. Je ne suis pas d'humeur à me faire gifler, alors finissons-en."
 
-    au "*Chuckles* Okay fine, if it lands on someone and you refuse to kiss them, then they get to slap you."
+# game/v12/scene18.rpy:559
+translate francais v12s18_bottlespin_ea8c8b6a:
 
-    scene v12slpbs7 # FPP. Same positioning as v12slpbs3, MC looking at Ryan, Ryan looking at Aubrey's direction, neutral expression, mouth open
-    with dissolve
+    # no "So eager. *Chuckles*"
+    no "Il est si impatient. *Rire*"
 
-    ry "What if the person doesn't let us kiss them?"
+# game/v12/scene18.rpy:564
+translate francais v12s18_bottlespin_bbea7d5c:
 
-    scene v12slpbs4c # FPP. Same as v12slpbs4, Aubrey looking at Ryan's direction, Aubrey smiling, mouth open
-    with dissolve
+    # u "Don't even start."
+    u "Ne commence pas."
 
-    au "Then you get to slap them."
+# game/v12/scene18.rpy:569
+translate francais v12s18_bottlespin_ccd64181:
 
-    scene v12slpbs5a # FPP. Same as v12slpbs5, Lindsey looking at Aubrey's direction, Lindsey smiling, mouth open
-    with dissolve
+    # ry "Yeah, bro... I can't do that."
+    ry "Ouais, frère... Je ne peux vraiment pas faire ça."
 
-    li "This just became the most interesting spin the bottle game I've ever played. *Chuckles*"
+# game/v12/scene18.rpy:574
+translate francais v12s18_bottlespin_913fd853:
 
-    scene v12slpbs4d # FPP. Same as v12slpbs4, Aubrey looking at Lindsey's direction, Aubrey smiling, mouth open
-    with dissolve
+    # u "Good, I was hoping you'd say that."
+    u "Bon, j'espérais que tu dirais ça."
 
-    au "*Chuckles* Good! Go ahead and start us off, birthday girl."
+# game/v12/scene18.rpy:586
+translate francais v12s18_bottlespin_1365cc68:
 
-    scene v12slpbs5a
-    with dissolve
+    # ry "What the fuck! Why'd you hit me so hard?"
+    ry "C'est quoi ce bordel ? Pourquoi tu m'as frappé si fort ?"
 
-    li "Alrighty!"
+# game/v12/scene18.rpy:591
+translate francais v12s18_bottlespin_8fa355bf:
 
-    scene v12slpbs8 # TPP. Show the bottle on the floor, Lindsey's hand on it
-    with dissolve
+    # u "Shouldn't have rejected me. *Laughs*"
+    u "Tu n'aurais pas dû me rejeter. *Rire*"
 
-    pause 0.75
+# game/v12/scene18.rpy:596
+translate francais v12s18_bottlespin_93ff3184:
 
-    scene v12slpbs8a # TPP. Same as v12slpbs8, Show the bottle pointing different to v12slpbs8 (it's in movement), no hands on bottle
-    with dissolve
+    # imre "*Laughs*"
+    imre "*Rire*"
 
-    pause 0.75
+# game/v12/scene18.rpy:602
+translate francais v12s18_bottlespin_4db0a0fd:
 
-    scene v12slpbs8b # TPP. Same as v12slpbs8, Show the bottle pointing in between Ryan and Imre, no hands on bottle
-    with dissolve
+    # ch "That's the Wolves blood in him."
+    ch "C'est le sang des Wolves qui coule en lui."
 
-    pause 0.75
+# game/v12/scene18.rpy:608
+translate francais v12s18_bottlespin_8486ade3:
 
-    scene v12slpbs5
-    with dissolve
+    # ch "Wish you were a Wolf, hitting like that."
+    ch "Si seulement tu étais un Wolf et que tu frappais comme ça."
 
-    li "I can't tell who it landed on. *Chuckles* Should I spin again?"
+# game/v12/scene18.rpy:615
+translate francais v12s18_bottlespin_af515299:
 
-    scene v12slpbs3c # FPP. Same as v12slpbs3, Imre looking at Lindsey's direction, smirking, mouth open
-    with dissolve
+    # u "Go ahead and slap me dude, I'm not kissing you."
+    u "Vas-y, frappe-moi mec, je ne t'embrasse pas."
 
-    imre "No need for all that, pucker up."
+# game/v12/scene18.rpy:627
+translate francais v12s18_bottlespin_b340e7c1:
 
-    scene v12slpbs3d # FPP. Show Imre leaning in for a kiss, mouth puckered, closed
-    with dissolve
+    # u "Shit! You didn't even hesitate."
+    u "Merde ! Tu n'as même pas hésité."
 
-    pause 0.75
+# game/v12/scene18.rpy:632
+translate francais v12s18_bottlespin_cf9c3093:
 
-    scene v12slpbs9 # TPP. Show Imre and Lindsey having a peck on the lips
-    with dissolve
+    # ry "Better to get it over with right?"
+    ry "C'est mieux d'en finir rapidement, non ?"
 
-    play sound "sounds/kiss.mp3"
+# game/v12/scene18.rpy:637
+translate francais v12s18_bottlespin_da439162:
 
-    pause 1.5
+    # u "Fuck... I guess."
+    u "Putain... On va dire."
 
-    scene v12slpbs5
-    with dissolve
+# game/v12/scene18.rpy:642
+translate francais v12s18_bottlespin_ac19a5d7:
 
-    li "We like men that take charge, don't we ladies?"
+    # imre "If it keeps going like this I might play this game more often. *Laughs*"
+    imre "Si ça continue comme ça, j'vais peut-être jouer à ce jeu plus souvent. *Rire*"
 
-    scene v12slpbs4d
-    with dissolve
+# game/v12/scene18.rpy:647
+translate francais v12s18_bottlespin_35bcef7a:
 
-    au "*Chuckles* Ohh yes..."
+    # au "*Chuckles* Next up?"
+    au "*Rire* Au suivant ?"
 
-    scene v12slpbs7a # FPP. Same as v12slpbs7, Ryan looking down, dissappointed, mouth slightly open
-    with dissolve
+# game/v12/scene18.rpy:652
+translate francais v12s18_bottlespin_11799dd8:
 
-    ry "*Whisper* Damn."
+    # ch "Alright, I'll have a go."
+    ch "Bon, je vais essayer."
 
-    scene v12slpbs5b # FPP. Same as v12slpbs5, Lindsey looking at Ryan's direction, Lindsey slight smile, mouth open
-    with dissolve
+# game/v12/scene18.rpy:662
+translate francais v12s18_bottlespin_ded321d2:
 
-    li "Snooze you lose, Ryan."
+    # ch "*Whisper* Oh, shit..."
+    ch "*Chuchote* Oh, merde..."
 
-    scene v12slpbs4c
-    with dissolve
+# game/v12/scene18.rpy:672
+translate francais v12s18_bottlespin_1108a238:
 
-    au "Don't worry, Ryan. It's your turn."
+    # no "Don't make it weird, just play the game."
+    no "Ne rend pas ça ridicule, contente-toi de jouer le jeu."
 
-    scene v12slpbs8d # TPP. Same as v12slpbs8, Ryan's hand on the bottle
-    with dissolve
+# game/v12/scene18.rpy:683
+translate francais v12s18_bottlespin_be0c4f39:
 
-    ry "Give me something good, bottle!"
+    # no "Damn, I didn't say shove your tongue down her throat..."
+    no "Putain, je n'ai pas dit de fourrer ta langue dans sa gorge..."
 
-    scene v12slpbs8a
-    with dissolve
+# game/v12/scene18.rpy:688
+translate francais v12s18_bottlespin_3822f71f:
 
-    pause 0.75
+    # ch "I wasn't trying to... I-"
+    ch "Je n'essayais pas de... Je-"
 
-    scene v12slpbs8e # TPP. Same as v12slpbs8b, bottle pointing at MC
-    with dissolve
+# game/v12/scene18.rpy:693
+translate francais v12s18_bottlespin_640fe1e9:
 
-    ry "DAMMMNN! Sorry bro..."
+    # no "*Chuckles* I'm just teasing you. I'm really just happy you're actually spending time with me."
+    no "*Rire* Je te taquine. Je suis vraiment heureuse que tu passes du temps avec moi."
 
-    scene v12slpbs7b # FPP. Same as v12slpbs7, Ryan looking at MC, Ryan slightly worried, mouth closed
-    with dissolve
+# game/v12/scene18.rpy:698
+translate francais v12s18_bottlespin_e394a78d:
 
-    u "(Of fucking course.)"
+    # ch "Ha, I am too."
+    ch "Ha, moi aussi."
 
-    menu:
-        "Kiss him":
-            $ add_point(KCT.TROUBLEMAKER)
+# game/v12/scene18.rpy:709
+translate francais v12s18_bottlespin_0b7d779b:
 
-            u "Fuck. Well, I'm not in the mood to get slapped, so let's get this over with."
+    # imre "Hey, uh... Glad you guys are getting along and everything, but no kisses unless it has to do with the game."
+    imre "Hé, euh... Content qu'vous vous entendiez bien et tout, mais pas d'baisers ! Sauf si c'est en rapport avec le jeu."
 
-            scene v12slpbs10 # FPP. Same positioning as v12slpbs3, MC looking at Nora, Nora looking at MC, Nora smiling, mouth open
-            with dissolve
+# game/v12/scene18.rpy:714
+translate francais v12s18_bottlespin_93930b59:
 
-            no "So eager. *Chuckles*"
+    # li "Aww, you wishing you got more kisses, Imre?"
+    li "Aww, tu aimerais avoir plus de baisers, Imre ?"
 
-            scene v12slpbs10a # FPP. Same as v12slpbs10, Nora smiling, mouth closed
-            with dissolve
+# game/v12/scene18.rpy:719
+translate francais v12s18_bottlespin_000e3031:
 
-            u "Don't even start."
+    # imre "Yeah, actually. That'd be nice."
+    imre "Oui, vraiment. Ça serait cool."
 
-            scene v12slpbs7c # FPP. Same as v12slpbs7b, Ryan slightly worried, mouth open
-            with dissolve
+# game/v12/scene18.rpy:729
+translate francais v12s18_bottlespin_f52520fb:
 
-            ry "Yeah, bro... I can't do that."
+    # li "Pray to the bottle gods for good luck. *Chuckles*"
+    li "Alors, prie les dieux de la bouteille pour avoir de la chance. *Rire*"
 
-            scene v12slpbs7b
-            with dissolve
+# game/v12/scene18.rpy:734
+translate francais v12s18_bottlespin_a7161e46:
 
-            u "Good, I was hoping you'd say that."
+    # imre "That was cruel."
+    imre "C'était cruel."
 
-            play sound "sounds/slap.mp3"
+# game/v12/scene18.rpy:751
+translate francais v12s18_bottlespin_b26c8919:
 
-            scene v12slpbs11 # TPP. Show MC slapping Ryan on the face, MC smiling, mouth closed, Ryan in pain, mouth closed
-            with vpunch
+    # no "Don't."
+    no "Oh non !"
 
-            pause 0.75
+# game/v12/scene18.rpy:756
+translate francais v12s18_bottlespin_9764f165:
 
-            scene v12slpbs7d # FPP. Same as v12slpbs7c, Ryan angry, mouth open
-            with dissolve
+    # ch "I have to."
+    ch "Il le faut."
 
-            ry "What the fuck! Why'd you hit me so hard?"
+# game/v12/scene18.rpy:761
+translate francais v12s18_bottlespin_a932f502:
 
-            scene v12slpbs7e # FPP. Same as v12slpbs7d, Ryan angry, mouth closed
-            with dissolve
+    # no "You don't have to, you're choosing to. You promised me you'd leave it alone for tonight, just one night. You promised me that."
+    no "Tu ne DOIS pas le faire, tu CHOISIS de le faire. Tu m'as promis que tu laisserais tomber pour ce soir, juste un soir. Tu me l'as promis."
 
-            u "Shouldn't have rejected me. *Laughs*"
+# game/v12/scene18.rpy:766
+translate francais v12s18_bottlespin_58d67e54:
 
-            scene v12slpbs3e # FPP. Same as v12slpbs3, Imre looking at Ryan's direction, Imre mouth open, smiling
-            with dissolve
+    # ch "Baby, this could be a very, very important call."
+    ch "Bébé, ça pourrait être un appel très, très important."
 
-            imre "*Laughs*"
+# game/v12/scene18.rpy:771
+translate francais v12s18_bottlespin_daf33c41:
 
-            if joinwolves:
-                scene v12slpbs12 # FPP. Same positioning as v12slpbs3, MC and Chris looking at each other, Chris slight smile, mouth open
-                with dissolve
+    # no "Fuck it, Chris..."
+    no "Va te faire foutre, Chris..."
 
-                ch "That's the Wolves blood in him."
+# game/v12/scene18.rpy:772
+translate francais v12s18_bottlespin_5ad69ebf:
 
-            else:
-                scene v12slpbs12
-                with dissolve
+    # no "Go. Go answer your phone."
+    no "Vas-y. Réponds à ton putain de téléphone."
 
-                ch "Wish you were a Wolf, hitting like that."
+# game/v12/scene18.rpy:777
+translate francais v12s18_bottlespin_f81471e2:
 
-        "Get slapped":
-            $ add_point(KCT.BRO)
-            scene v12slpbs7f # FPP. Same as v12slpbs7b, Ryan slight smile, mouth closed
-            with dissolve
+    # ch "Relax, I don't have to leave. I'll just take it right here."
+    ch "Tranquille, je n'ai pas besoin de partir. Je vais juste répondre ici."
 
-            u "Go ahead and slap me dude, I'm not kissing you."
+# game/v12/scene18.rpy:787
+translate francais v12s18_bottlespin_a031aef9:
 
-            play sound "sounds/slap.mp3"
+    # ch "Hello?"
+    ch "Allo ?"
 
-            scene v12slpbs13 # TPP. Show Ryan slapping MC on the face, MC in pain, mouth closed, Ryan smiling, mouth closed
-            with vpunch
+# game/v12/scene18.rpy:797
+translate francais v12s18_bottlespin_a10918f8:
 
-            pause 0.75
-            
-            scene v12slpbs7f
-            with dissolve
+    # ch "Champ of Champs, that's what we call him."
+    ch "Le champion des champions, c'est comme ça qu'on l'appelle."
 
-            u "Shit! You didn't even hesitate."
+# game/v12/scene18.rpy:807
+translate francais v12s18_bottlespin_5e5d1436:
 
-            scene v12slpbs7g # FPP. Same as v12slpbs7f, Ryan slight smile, mouth open
-            with dissolve
+    # ch "Yeah."
+    ch "Ouais."
 
-            ry "Better to get it over with right?"
+# game/v12/scene18.rpy:817
+translate francais v12s18_bottlespin_b4edd274:
 
-            scene v12slpbs7f
-            with dissolve
+    # ch "Alright, bye."
+    ch "D'accord, bye."
 
-            u "Fuck... I guess."
+# game/v12/scene18.rpy:822
+translate francais v12s18_bottlespin_5afa5279:
 
-    scene v12slpbs3f # FPP. Same as v12slpbs3, Imre looking at MC, Imre smiling, mouth open
-    with dissolve
+    # ch "See? Over and done with."
+    ch "Tu vois ? C'est fini."
 
-    imre "If it keeps going like this I might play this game more often. *Laughs*"
+# game/v12/scene18.rpy:827
+translate francais v12s18_bottlespin_57f678cf:
 
-    scene v12slpbs4
-    with dissolve
+    # no "I don't care. You said you would shut it off and you didn't, so that's the situation. Shouldn't have made me a promise that you couldn't keep."
+    no "Je m'en fiche. Tu as dit que tu l'éteindrais et tu ne l'as pas fait, alors voilà où on en est. Tu n'aurais pas dû me faire une promesse que tu ne pouvais pas tenir."
 
-    au "*Chuckles* Next up?"
+# game/v12/scene18.rpy:832
+translate francais v12s18_bottlespin_07aa6fd4:
 
-    scene v12slpbs8f # TPP. Same as v12slpbs8, Chris' hand on the bottle
-    with dissolve
-
-    ch "Alright, I'll have a go."
-
-    scene v12slpbs8a
-    with dissolve
-
-    pause 0.75
-
-    scene v12slpbs8g # TPP. Same as v12slpbs8e, bottle pointing at Chloe
-    with dissolve
-
-    ch "*Whisper* Oh, shit..."
-
-    scene v12slpbs12a # FPP. Same as v12slpbs12, Chris worried, mouth closed, looking at Nora
-    with dissolve
-
-    pause 1.25
-
-    scene v12slpbs10b # FPP. Same as v12slpbs10, Nora looking at Chris, Nora slightly annoyed, mouth open
-    with dissolve
-
-    no "Don't make it weird, just play the game."
-
-    scene v12slpbs14 # TPP. Show Chris and Chloe kissing (try and make it look a bit passionate)
-    with dissolve
-    play sound "sounds/kiss.mp3"
-
-    pause 1.5
-
-    scene v12slpbs10b
-    with dissolve
-
-    no "Damn, I didn't say shove your tongue down her throat..."
-
-    scene v12slpbs12b # FPP. Same as v12slpbs12a, Chris worried, mouth open
-    with dissolve
-
-    ch "I wasn't trying to... I-"
-
-    scene v12slpbs10c # FPP. Same as v12slpbs10b, Nora smiling, mouth open
-    with dissolve
-
-    no "*Chuckles* I'm just teasing you. I'm really just happy you're actually spending time with me."
-
-    scene v12slpbs12c # FPP. Same as v12slpb12b, Chris slight smile, mouth open
-    with dissolve
-
-    ch "Ha, I am too."
-
-    scene v12slpbs15 # TPP. Show Chris and Nora kissing
-    with dissolve
-    play sound "sounds/kiss.mp3"
-
-    pause 1.5
-
-    scene v12slpbs3g # FPP. Same as v12slpbs3, Imre looking at Nora, Imre slightly annoyed, mouth open
-    with dissolve
-
-    imre "Hey, uh... Glad you guys are getting along and everything, but no kisses unless it has to do with the game."
-
-    scene v12slpbs5
-    with dissolve
-
-    li "Aww, you wishing you got more kisses, Imre?"
-
-    scene v12slpbs3c
-    with dissolve
-
-    imre "Yeah, actually. That'd be nice."
-
-    scene v12slpbs9a # TPP. Same as v12slpbs9, Lindsey and Imre's faces close, not kissing, Imre eyes closed, smiling, Lindsey smirking, eyes open, both mouths closed
-    with dissolve
-
-    pause 0.75
-
-    scene v12slpbs9b # TPP. Same as v12slpbs9a, Lindsey's finger on Imre's mouth, Lindsey smiling, mouth open, Imre confused, mouth closed
-    with dissolve
-
-    li "Pray to the bottle gods for good luck. *Chuckles*"
-
-    scene v12slpbs3c
-    with dissolve
-
-    imre "That was cruel."
-
-    play sound "sounds/call.mp3"
-
-    scene v12slpbs12d # FPP. Same as v12slpbs12b, Chris looking down at his pocket, worried, mouth closed
-    with dissolve
-
-    pause 0.75
-
-    scene v12slpbs12a
-    with dissolve
-
-    pause 0.75
-
-    scene v12slpbs10b
-    with dissolve
-
-    no "Don't."
-
-    scene v12slpbs12b
-    with dissolve
-
-    ch "I have to."
-
-    scene v12slpbs10b
-    with dissolve
-
-    no "You don't have to, you're choosing to. You promised me you'd leave it alone for tonight, just one night. You promised me that."
-
-    scene v12slpbs12b
-    with dissolve
-
-    ch "Baby, this could be a very, very important call."
-
-    scene v12slpbs10b
-    with dissolve
-
-    no "Fuck it, Chris..."
-    no "Go. Go answer your phone."
-
-    scene v12slpbs12b
-    with dissolve
-
-    ch "Relax, I don't have to leave. I'll just take it right here."
-
-    stop sound
-
-    play sound "sounds/answercall.mp3"
-    scene v12slpbs12e # FPP. Same as v12slpbs12b, Chris talking on his phone, worried, mouth open
-    with dissolve
-
-    stop sound
-
-    ch "Hello?"
-
-    scene v12slpbs12f # FPP. Same as v12slpbs12e, Chris worried, mouth closed
-    with dissolve
-
-    pause 0.75
-
-    scene v12slpbs12e
-    with dissolve
-
-    ch "Champ of Champs, that's what we call him."
-
-    scene v12slpbs12f
-    with dissolve
-
-    pause 0.75
-
-    scene v12slpbs12e
-    with dissolve
-
-    ch "Yeah."
-
-    scene v12slpbs12f
-    with dissolve
-
-    pause 0.75
-
-    scene v12slpbs12e
-    with dissolve
-
-    ch "Alright, bye."
-
-    scene v12slpbs12b
-    with dissolve
-
-    ch "See? Over and done with."
-
-    scene v12slpbs10b
-    with dissolve
-
-    no "I don't care. You said you would shut it off and you didn't, so that's the situation. Shouldn't have made me a promise that you couldn't keep."
-
-    scene v12slpbs12b
-    with dissolve
-
+    # ch "Nora-"
     ch "Nora-"
 
-    scene v12slpbs8h # TPP. Same as v12slpbs8, Nora's hand on the bottle
-    with dissolve
+# game/v12/scene18.rpy:837
+translate francais v12s18_bottlespin_0cd14e5b:
 
-    no "Alright! My turn."
+    # no "Alright! My turn."
+    no "Bon ! À mon tour."
 
-    scene v12slpbs8a
-    with dissolve
+# game/v12/scene18.rpy:852
+translate francais v12s18_bottlespin_3f429969:
 
-    pause 0.75
+    # u "Oh, uhh-"
+    u "Oh, heuuu..."
 
-    scene v12slpbs8i # TPP. Same as v12slpbs8g, bottle pointing at MC
-    with dissolve
+# game/v12/scene18.rpy:871
+translate francais v12s18_bottlespin_77fd83a3:
 
-    pause 0.75
+    # no "Alright, your turn Imre."
+    no "Bon, c'est ton tour Imre."
 
-    scene v12slpbs10a
-    with dissolve
+# game/v12/scene18.rpy:881
+translate francais v12s18_bottlespin_0fc34f16:
 
-    u "Oh, uhh-"
+    # no "Why are you hesitating? *Chuckles* We don't have all night."
+    no "Pourquoi tu hésites ? *Rire* On n'a pas toute la nuit."
 
-    if nora.relationship >= Relationship.LIKES:
-        scene v12slpbs16 # TPP. Show Nora grabbing MC's face and kissing him (try and make this a bit passionate)
-        with dissolve
-        play sound "sounds/kiss.mp3"
+# game/v12/scene18.rpy:886
+translate francais v12s18_bottlespin_e5156e61:
 
-        pause 2.25
-    
-    else:
-        scene v12slpbs16a # TPP. Same as v12slpbs16, less passionate of a kiss 
-        with dissolve
-        play sound "sounds/kiss.mp3"
+    # imre "Okay, you're right, you're right... C'mon on bottle gods!"
+    imre "Ok, t'as raison, t'as raison... Allez ! Dieux d'la bouteille, soyez avec moi !"
 
-        pause 1
+# game/v12/scene18.rpy:906
+translate francais v12s18_bottlespin_271f550d:
 
-    scene v12slpbs10d # FPP. Same as v12slpbs10, Nora looking at Imre, Nora smiling, mouth open
-    with dissolve
+    # au "Oh yay! This is just what you two need. Kiss and make up, boys. *Chuckles*"
+    au "Oh yeah ! C'est juste ce dont vous avez besoin tous les deux. Embrassez-vous et réconciliez-vous, les gars. *Rire*"
 
-    no "Alright, your turn Imre."
+# game/v12/scene18.rpy:911
+translate francais v12s18_bottlespin_b2ea673d:
 
-    scene v12slpbs3h # FPP. Same as v12slpbs3g, Imre uncomfortable expression, mouth closed, looking at Nora
-    with dissolve
+    # charli "Who's kissing?"
+    charli "Qui embrasse qui ?"
 
-    pause 0.75
+# game/v12/scene18.rpy:916
+translate francais v12s18_bottlespin_791c6445:
 
-    scene v12slpbs10d
-    with dissolve
+    # imre "What the fuck is going on? No! I'm not kissing a god damn dude. Especially this ugly motherfuc-"
+    imre "Qu'est-ce qui s'passe, bordel ? Non ! J'vais pas embrasser un putain d'mec. Surtout cet affreux fils de pu-"
 
-    no "Why are you hesitating? *Chuckles* We don't have all night."
+# game/v12/scene18.rpy:930
+translate francais v12s18_bottlespin_852175cf:
 
-    scene v12slpbs3i # FPP. Same as v12slpbs3h, Imre slight smile, mouth open, looking at Nora
-    with dissolve
+    # u "(Oh shit!)"
+    u "(Oh merde !)"
 
-    imre "Okay, you're right, you're right... C'mon on bottle gods!"
+# game/v12/scene18.rpy:935
+translate francais v12s18_bottlespin_841ac409:
 
-    scene v12slpbs8j # FPP. Same as v12slpbs8, Imre's hand on the bottle
-    with dissolve
+    # ch "Settle down! You both got a hit in and we all know neither of you would've kissed each other, so that's it. It's done."
+    ch "Calmez-vous ! Vous avez tous les deux eu un coup et nous savons tous qu'aucun de vous ne se serait embrassé, alors c'est tout. C'est fait."
 
-    pause 0.75
+# game/v12/scene18.rpy:945
+translate francais v12s18_bottlespin_228a21f0:
 
-    scene v12slpbs8a
-    with dissolve
+    # ry "You got lucky."
+    ry "Tu as de la chance."
 
-    pause 0.75
+# game/v12/scene18.rpy:950
+translate francais v12s18_bottlespin_8f62ec01:
 
-    scene v12slpbs8ry
-    with dissolve
+    # imre "*Scoffs* Keep thinking that."
+    imre "*Pfff* Continue à croire ça."
 
-    pause 0.75
+# game/v12/scene18.rpy:955
+translate francais v12s18_bottlespin_15213618:
 
-    scene v12slpbs4
-    with dissolve
+    # au "Okay, that was kinda exciting. *Laughs*"
+    au "Ok, c'était un peu excitant. *Rire*"
 
-    au "Oh yay! This is just what you two need. Kiss and make up, boys. *Chuckles*"
+# game/v12/scene18.rpy:960
+translate francais v12s18_bottlespin_eef44184:
 
-    scene v12slpbs6
-    with dissolve
+    # au "I'm going next, I'm ready for some action... *Chuckles*"
+    au "Je suis la prochaine, je suis prête pour un peu d'action... *Rire*"
 
-    charli "Who's kissing?"
+# game/v12/scene18.rpy:980
+translate francais v12s18_bottlespin_641ef7df:
 
-    scene v12slpbs3a
-    with dissolve
+    # au "Come here, sexy."
+    au "Viens là, ma belle."
 
-    imre "What the fuck is going on? No! I'm not kissing a god damn dude. Especially this ugly motherfuc-"
+# game/v12/scene18.rpy:990
+translate francais v12s18_bottlespin_a534c02b:
 
-    play sound "sounds/slap.mp3"
+    # imre "Hell yesss... This is exactly what I came for. *Chuckles*"
+    imre "Putain oui... C'est exactement c'que j'suis venu chercher. *Rire*"
 
-    scene v12slpbs17 # TPP. Show Ryan slapping Imre, Ryan slightly angry, Imre startled and in pain, both mouths closed
-    with dissolve
+# game/v12/scene18.rpy:995
+translate francais v12s18_bottlespin_f7112d2b:
 
-    pause 0.75
+    # cl "Oh, hush. My turn?"
+    cl "Oh, tais-toi. C'est mon tour ?"
 
-    play sound "sounds/slap.mp3"
+# game/v12/scene18.rpy:1000
+translate francais v12s18_bottlespin_e868c649:
 
-    scene v12slpbs17a # TPP. Same as v12slpbs17, Imre slapping Ryan, Ryan in pain, Imre angry, both mouths closed
-    with dissolve
+    # au "Yup, you got it!"
+    au "Oui, à toi !"
 
-    u "(Oh shit!)"
+# game/v12/scene18.rpy:1025
+translate francais v12s18_bottlespin_dab336b0:
 
-    scene v12slpbs18 # TPP. Show MC holding Ryan back, Chris holding Imre back (they're standing) now, Imre and Ryan angry, ready to fight each other, MC and Chris worried, Chris mouth open, rest mouths closed
-    with dissolve
+    # cl "We don't have to kiss if you-"
+    cl "On n'est pas obligées de s'embrasser si tu..."
 
-    ch "Settle down! You both got a hit in and we all know neither of you would've kissed each other, so that's it. It's done."
+# game/v12/scene18.rpy:1030
+translate francais v12s18_bottlespin_572340e1:
 
-    scene v12slpbs19 # TPP. Show MC, Ryan and Imre midway through sitting down, they're both angry, mouths closed
-    with dissolve
+    # no "*Sighs*"
+    no "*Soupirs*"
 
-    pause 0.75
+# game/v12/scene18.rpy:1042
+translate francais v12s18_bottlespin_404d871e:
 
-    scene v12slpbs7h # FPP. Same as v12slpbs7, Ryan looking at Imre's direction, Ryan angry, mouth open
-    with dissolve
+    # no "Done. Alright, now that we've both kissed her, I'm gonna go hang in the phone-free section."
+    no "Voilà. Bon, maintenant qu'on l'a tous les deux embrassé, je vais aller dans la section sans téléphone."
 
-    ry "You got lucky."
+# game/v12/scene18.rpy:1052
+translate francais v12s18_bottlespin_3a87fa72:
 
-    scene v12slpbs3j # FPP. Same as v12slpbs3e, Imre angry, mouth open
-    with dissolve
+    # ch "*Sighs* Here we go..."
+    ch "*Soupirs* On y va..."
 
-    imre "*Scoffs* Keep thinking that."
+# game/v12/scene18.rpy:1062
+translate francais v12s18_bottlespin_ea620b3d:
 
-    scene v12slpbs4
-    with dissolve
+    # li "Well, that probably could have ended worse. *Chuckles*"
+    li "Eh Ben, ça aurait peut-être pu finir plus mal. *Rire*"
 
-    au "Okay, that was kinda exciting. *Laughs*"
+# game/v12/scene18.rpy:1067
+translate francais v12s18_bottlespin_73fba9ff:
 
-    scene v12slpbs4b
-    with dissolve
+    # u "*Chuckles* I think you might be right, we got a bit lucky."
+    u "*Rire* Je crois que tu as raison, on a eu un peu de chance."
 
-    au "I'm going next, I'm ready for some action... *Chuckles*"
+# game/v12/scene18.rpy:1073
+translate francais v12s18_bottlespin_04c6d80c:
 
-    scene v12slpbs8k # TPP. Same as v12slpb8, Aubrey's had on the bottle
-    with dissolve
+    # li "Luck really is on our side today... *Chuckles*"
+    li "Oui, la chance est vraiment de notre côté aujourd'hui... *Rire*"
 
-    pause 0.75
+# game/v12/scene18.rpy:1078
+translate francais v12s18_bottlespin_2b53851a:
 
-    scene v12slpbs8a
-    with dissolve
+    # au "Alright, let's do something else I guess. *Laughs*"
+    au "Très bien, faisons autre chose. *Rire*"
 
-    pause 0.75
+# game/v12/scene18.rpy:1088
+translate francais v12s18_fmk_677cb333:
 
-    scene v12slpbs8l # TPP. Same as v12slpbs8j, bottle pointing at Chloe
-    with dissolve
+    # am "There you are! Come play Fuck, Marry, Kill."
+    am "Te voilà ! Viens jouer à Baiser, se marier, tuer."
 
-    pause 0.75
+# game/v12/scene18.rpy:1093
+translate francais v12s18_fmk_f190e387:
 
-    scene v12slpbs4e # FPP. Same as v12slpbs4, Aubrey looking at Chloe, Aubrey smiling, mouth open
-    with dissolve
+    # u "Who's playing?"
+    u "Qui joue ?"
 
-    au "Come here, sexy."
+# game/v12/scene18.rpy:1098
+translate francais v12s18_fmk_4715ea08:
 
+    # am "Let's see... Imre, Nora, Chris! Come here and play this game with us."
+    am "Voyons voir... Imre, Nora, Chris ! Venez ici et jouez à ce jeu avec nous."
 
-    scene v12slpbs20 # TPP. Show Aubrey and Chloe kissing (Try and make it look hot)
-    with dissolve
+# game/v12/scene18.rpy:1108
+translate francais v12s18_fmk_7728e5af:
 
-    play sound "sounds/kiss.mp3"
+    # ch "What game is this?"
+    ch "C'est quoi ce jeu ?"
 
-    pause 1.75
+# game/v12/scene18.rpy:1113
+translate francais v12s18_fmk_db47fc4d:
 
-    imre "Hell yesss... This is exactly what I came for. *Chuckles*"
+    # am "Fuck, Marry, Kill."
+    am "Baiser, se marier, tuer."
 
-    scene v12slpbs21 # FPP. Same positioning as v12slpbs3, MC looking at Chloe, Chloe looking at Imre's direction, Chloe slight smile, mouth open
-    with dissolve
+# game/v12/scene18.rpy:1118
+translate francais v12s18_fmk_7e50f1e2:
 
-    cl "Oh, hush. My turn?"
+    # ch "*Laughs* Yeah, that's not happening."
+    ch "*Rire* Ouais, pas moyen que je joue à ça."
 
-    scene v12slpbs4e
-    with dissolve
+# game/v12/scene18.rpy:1123
+translate francais v12s18_fmk_9b3875e7:
 
-    au "Yup, you got it!"
+    # am "Why not? It's just a game."
+    am "Pourquoi pas ? C'est juste un jeu."
 
-    scene v12slpbs8m # TPP. Same as v12slpbs8, but Chloe's hand on the bottle
-    with dissolve
+# game/v12/scene18.rpy:1128
+translate francais v12s18_fmk_e9608587:
 
-    pause 0.75
+    # no "Yeah, Chris. What's wrong with playing? The choices should be pretty easy for you. *Chuckles*"
+    no "Oui, Chris. Qu'est-ce qu'il y a de mal à jouer ? Les choix devraient être assez faciles pour toi. *Rire*"
 
-    scene v12slpbs8a
-    with dissolve
+# game/v12/scene18.rpy:1133
+translate francais v12s18_fmk_e36d18e8:
 
-    pause 0.75
-    
-    scene v12slpbs8l
-    with dissolve
+    # ch "Ha, sorry guys. Not my type of game."
+    ch "Ha, désolé. C'est pas mon type de jeu."
 
-    pause 0.75
+# game/v12/scene18.rpy:1138
+translate francais v12s18_fmk_7e1fbb11:
 
-    scene v12slpbs8n # TPP. Same as v12slpbs8l, bottle pointing at Nora
-    with dissolve
+    # no "*Sighs* Fine, don't play."
+    no "*Soupirs* Très bien, ne joue pas."
 
-    pause 0.75
+# game/v12/scene18.rpy:1143
+translate francais v12s18_fmk_6c86d47d:
 
-    scene v12slpbs21a # FPP. Same as v12slpbs21, Chloe looking at Nora, Chloe worried, mouth open
-    with dissolve
+    # am "Alright, guess it's just us."
+    am "Bon, je pense qu'il n'y a que nous, alors."
 
-    cl "We don't have to kiss if you-"
+# game/v12/scene18.rpy:1148
+translate francais v12s18_fmk_7d9e0814:
 
-    scene v12slpbs10e # FPP. Same as v12slpbs10, Nora looking at Chloe, Nora mouth slightly open, slightly annoyed
-    with dissolve
+    # u "All good?"
+    u "Tout va bien ?"
 
-    no "*Sighs*"
+# game/v12/scene18.rpy:1153
+translate francais v12s18_fmk_9481f709:
 
-    scene v12slpbs22 # TPP. Show Nora and Chloe sharing a quick peck on the lips
-    with dissolve
+    # no "Yeah, I'm fine. Let's play."
+    no "Oui, je vais bien. Allez, on joue."
 
-    play sound "sounds/kiss.mp3"
+# game/v12/scene18.rpy:1158
+translate francais v12s18_fmk_b555a20c:
 
-    pause 1.25
-    
-    scene v12slpbs10b
-    with dissolve
+    # am "Imre, you go first."
+    am "Imre, vas-y ! Tu commences."
 
-    no "Done. Alright, now that we've both kissed her, I'm gonna go hang in the phone-free section."
+# game/v12/scene18.rpy:1163
+translate francais v12s18_fmk_7a457ba9:
 
-    scene v12slpbs10f # FPP. Same as v12slpbs10, Nora getting up, annoyed, mouth closed
-    with dissolve
+    # imre "Sounds good to me. Let's see..."
+    imre "Cool ! Aloooors..."
 
-    pause 0.75
+# game/v12/scene18.rpy:1168
+translate francais v12s18_fmk_3e47d835:
 
-    scene v12slpbs12b
-    with dissolve
+    # imre "Sorry bro, but you know I gotta kill you."
+    imre "Désolé mon frère, mais tu sais que j'dois te tuer."
 
-    ch "*Sighs* Here we go..."
+# game/v12/scene18.rpy:1173
+translate francais v12s18_fmk_55da92c7:
 
-    scene v12slpbs12g # FPP. Same as v12slpb12, Chris getting up, worried, mouth closed
-    with dissolve
+    # u "*Chuckles* As expected."
+    u "*Rire* Comme prévu."
 
-    pause 0.75
+# game/v12/scene18.rpy:1178
+translate francais v12s18_fmk_f88d41c6:
 
-    scene v12slpbs5c # FPP. Same as v12slpbs5, Lindsey looking at MC, smiling, mouth open
-    with dissolve
+    # imre "But who's gonna be my wife? Hmm..."
+    imre "Par contre, qui sera ma femme ? Hmm..."
 
-    li "Well, that probably could have ended worse. *Chuckles*"
+# game/v12/scene18.rpy:1183
+translate francais v12s18_fmk_72cdc330:
 
-    scene v12slpbs5d # FPP. Same as v12slpbs5c, Lindsey smiling, mouth closed
-    with dissolve
+    # imre "I think I'll marry Amber and fuck Nora. Can't marry Chris' girl, you know?"
+    imre "Je pense que j'vais épouser Amber et baiser Nora. J'peux pas épouser la meuf de Chris, vous voyez ?"
 
-    u "*Chuckles* I think you might be right, we got a bit lucky."
+# game/v12/scene18.rpy:1188
+translate francais v12s18_fmk_91c096b5:
 
-    if "v12_lindsey" in sceneList:
-        scene v12slpbs5e # FPP. Same as v12slpbs5c, Lindsey flirty smile, mouth open, closer to MC
-        with dissolve
+    # am "*Laughs* But you'll have sex with her?"
+    am "*Rire* Mais tu vas baiser avec elle ?"
 
-        li "Luck really is on our side today... *Chuckles*"
+# game/v12/scene18.rpy:1193
+translate francais v12s18_fmk_6d5d6add:
 
-    scene v12slpbs4b
-    with dissolve
+    # imre "In honor of the game, of course. And just one time... If I had to."
+    imre "Pour l'honneur du jeu, bien sûr. Et juste une fois... Si j'le devais."
 
-    au "Alright, let's do something else I guess. *Laughs*"
+# game/v12/scene18.rpy:1203
+translate francais v12s18_fmk_17801d42:
 
-    call screen v12s18_room1
+    # am "Nice, Imre. Way to play that off."
+    am "Bien joué, Imre. Bonne méthode de jeu."
 
-label v12s18_fmk:
-    $ v12_slumberparty.add("fmk")
+# game/v12/scene18.rpy:1208
+translate francais v12s18_fmk_f2f7028f:
 
-    scene v12slpfmk1 # FPP. Amber lying on the bed, MC standing in front of the bed, Amber looking at MC, Amber smiling, mouth open
-    #with dissolve
+    # am "My turn!"
+    am "À moi !"
 
-    am "There you are! Come play Fuck, Marry, Kill."
+# game/v12/scene18.rpy:1213
+translate francais v12s18_fmk_fa217ae4:
 
-    scene v12slpfmk1a # FPP. Same as v12slpfmk1, Amber smiling, mouth closed
-    with dissolve
+    # imre "This oughta be good... *Laughs*"
+    imre "Ça devrait être intéressant... *Rire*"
 
-    u "Who's playing?"
+# game/v12/scene18.rpy:1218
+translate francais v12s18_fmk_c71316b5:
 
-    scene v12slpfmk1b # FPP. Same as v12slpfmk1, Amber looking towards Imre's direction (check v12slpbs1b for Imre positioning), Amber smiling, mouth open
-    with dissolve
+    # am "Oh, right. So to start, I'd kill Imre."
+    am "Oh, oui. Alors pour commencer, je tuerais Imre."
 
-    am "Let's see... Imre, Nora, Chris! Come here and play this game with us."
+# game/v12/scene18.rpy:1223
+translate francais v12s18_fmk_19845023:
 
-    scene v12slpfmk2 # TPP. Show MC sitting next to Imre (Imre midway through sitting down, MC already sitting down) on the bed, both smiling, mouths closed, looking at each other, Nora and Amber sitting next to each other on the other bed, Chris standing in front of the bed (Only MC and Imre in shot)
-    with fade
+    # imre "What?"
+    imre "Quoi ?"
 
-    pause 0.75
+# game/v12/scene18.rpy:1228
+translate francais v12s18_fmk_3b91a537:
 
-    scene v12slpfmk3 # FPP. Same positioning as v12slpfmk2, MC looking at Chris, Chris looking at Amber's direction, Chris smiling, mouth open
-    with dissolve
+    # am "My turn, my choice. *Laughs*"
+    am "Mon tour, mon choix. *Rire*"
 
-    ch "What game is this?"
+# game/v12/scene18.rpy:1233
+translate francais v12s18_fmk_e68513f4:
 
-    scene v12slpfmk4 # FPP. Same positioning as v12slpfmk2, MC looking at Amber, Amber looking at Chris' direction, Amber smiling, mouth open
-    with dissolve
+    # am "Then I'm gonna marry Nora and... fuck [name]."
+    am "Ensuite je vais épouser Nora et... baiser [name]."
 
-    am "Fuck, Marry, Kill."
+# game/v12/scene18.rpy:1238
+translate francais v12s18_fmk_b34324d1:
 
-    scene v12slpfmk3
-    with dissolve
+    # no "Aww, think I'd make a good wife?"
+    no "Ooh, tu penses que je ferais une bonne épouse ?"
 
-    ch "*Laughs* Yeah, that's not happening."
+# game/v12/scene18.rpy:1243
+translate francais v12s18_fmk_736b629b:
 
-    scene v12slpfmk4
-    with dissolve
+    # am "Of course you would. *Chuckles*"
+    am "J'en suis certaine. *Rire*"
 
-    am "Why not? It's just a game."
+# game/v12/scene18.rpy:1248
+translate francais v12s18_fmk_8946170b:
 
-    scene v12slpfmk5 # FPP. Same positioning as v12slpfmk2, MC looking at Nora, Nora looking at Chris' direction, Nora slight smile, mouth open
-    with dissolve
+    # imre "You must either think or know that [name] is good in bed... Which one is it? *Chuckles*"
+    imre "Tu dois penser ou savoir que [name] est un bon coup... Laquelle des deux options est la bonne ? *Rire*"
 
-    no "Yeah, Chris. What's wrong with playing? The choices should be pretty easy for you. *Chuckles*"
+# game/v12/scene18.rpy:1253
+translate francais v12s18_fmk_e0c4330e:
 
-    scene v12slpfmk3a # FPP. Same as v12slpfmk3, Chris looking an Nora's direction, Chris slight smile, mouth open
-    with dissolve
+    # am "I've heard rumors..."
+    am "J'ai entendu des rumeurs..."
 
-    ch "Ha, sorry guys. Not my type of game."
+# game/v12/scene18.rpy:1258
+translate francais v12s18_fmk_0238517d:
 
-    scene v12slpfmk5a # FPP. Same as v12slpfmk5, Nora slightly annoyed, mouth open
-    with dissolve
+    # u "I-"
+    u "Je-"
 
-    no "*Sighs* Fine, don't play."
+# game/v12/scene18.rpy:1263
+translate francais v12s18_fmk_47c0d787:
 
-    scene v12slpfmk4a # FPP. Same as v12slpfmk4, Amber looking at MC, Amber smiling, mouth open
-    with dissolve
+    # no "*Chuckles* Next?"
+    no "*Rire* Suivant ?"
 
-    am "Alright, guess it's just us."
+# game/v12/scene18.rpy:1268
+translate francais v12s18_fmk_b89d4057:
 
-    scene v12slpfmk5b # FPP. Same as v12slpfmk5, Nora looking at MC, Nora slightly sad, mouth closed
-    with dissolve
+    # am "Your turn, [name]."
+    am "À toi, [name]."
 
-    u "All good?"
+# game/v12/scene18.rpy:1273
+translate francais v12s18_fmk_5fd07fc7:
 
-    scene v12slpfmk5c # FPP. Same as v12slpfmk5b, Nora slightly sad, mouth open
-    with dissolve
+    # imre "I'll make it easy for you bro and just kill myself."
+    imre "J'vais t'faciliter la tâche et me suicider."
 
-    no "Yeah, I'm fine. Let's play."
+# game/v12/scene18.rpy:1278
+translate francais v12s18_fmk_e0e480fc:
 
-    scene v12slpfmk4b # FPP. Same as v12slpfmk4, Amber looking at Imre's direction, Amber smiling, mouth open
-    with dissolve
+    # u "Haha, thanks man."
+    u "Haha, merci mec."
 
-    am "Imre, you go first."
+# game/v12/scene18.rpy:1283
+translate francais v12s18_fmk_557c118e:
 
-    scene v12slpfmk6 # FPP. Same positioning as v12slpfmk2, MC looking at Imre, Imre looking at Amber, Imre mouth open, slight smile
-    with dissolve
+    # u "(Hmm, who to marry?)"
+    u "(Hmm, qui épouser ?)"
 
-    imre "Sounds good to me. Let's see..."
+# game/v12/scene18.rpy:1291
+translate francais v12s18_fmk_4002b6ee:
 
-    scene v12slpfmk6a # FPP. Same as v12slpfmk6, Imre looking at MC, Imre slight smile, mouth open
-    with dissolve
+    # u "In that case, I'd have to go with... fuck Nora and marry Amber."
+    u "Dans ce cas, je vais dire... baiser Nora et épouser Amber."
 
-    imre "Sorry bro, but you know I gotta kill you."
+# game/v12/scene18.rpy:1296
+translate francais v12s18_fmk_88b5a5aa:
 
-    scene v12slpfmk6b # FPP. Same as v12slpfmk6a, Imre slight smile, mouth closed
-    with dissolve
+    # am "We wouldn't be married for long. *Chuckles*"
+    am "Nous ne serons pas mariés longtemps. *Rire*"
 
-    u "*Chuckles* As expected."
+# game/v12/scene18.rpy:1301
+translate francais v12s18_fmk_82f3a918:
 
-    scene v12slpfmk6c # FPP. Same as v12slpfmk6, Imre looking at Nora's direction, Imre slight smile, mouth open
-    with dissolve
+    # u "*Chuckles* Why not?"
+    u "*Rire* Pourquoi pas ?"
 
-    imre "But who's gonna be my wife? Hmm..."
+# game/v12/scene18.rpy:1306
+translate francais v12s18_fmk_b514c5a2:
 
-    scene v12slpfmk6
-    with dissolve
+    # am "Because this horse can't be tamed, baby."
+    am "Parce que cette jument ne peut pas être apprivoisée, bébé."
 
-    imre "I think I'll marry Amber and fuck Nora. Can't marry Chris' girl, you know?"
+# game/v12/scene18.rpy:1312
+translate francais v12s18_fmk_6aff78ea:
 
-    scene v12slpfmk4b
-    with dissolve
+    # u "In that case, I'd have to go with... fuck Amber and marry Nora."
+    u "Dans ce cas, je devrais dire... baiser Amber et épouser Nora."
 
-    am "*Laughs* But you'll have sex with her?"
+# game/v12/scene18.rpy:1317
+translate francais v12s18_fmk_6be5c005:
 
-    scene v12slpfmk6
-    with dissolve
+    # no "*Chuckles* Why would you wanna marry me?"
+    no "*Rire* Pourquoi veux-tu m'épouser ?"
 
-    imre "In honor of the game, of course. And just one time... If I had to."
+# game/v12/scene18.rpy:1322
+translate francais v12s18_fmk_a51ca232:
 
-    scene v12slpfmk5d # FPP. Same as v12slpfmk5, Nora looking at Imre's direction, Nora slight smile, rolling her eyes
-    with dissolve
+    # imre "C'mon dude, she's already taken."
+    imre "Vas-y mec, elle est déjà prise."
 
-    pause 0.75
+# game/v12/scene18.rpy:1327
+translate francais v12s18_fmk_16c94a05:
 
-    scene v12slpfmk4b
-    with dissolve
+    # u "That's how you know she'd make a good wife. The best ones are always taken."
+    u "C'est comme ça que tu sais qu'elle fera une bonne épouse. Les meilleures sont toujours prises."
 
-    am "Nice, Imre. Way to play that off."
+# game/v12/scene18.rpy:1332
+translate francais v12s18_fmk_0b7a47ed:
 
-    scene v12slpfmk4a
-    with dissolve
+    # am "Oooh, I peep your sly game, [name]. That was good..."
+    am "Oooh, je perçois ton petit jeu rusé, [name]. Bien joué..."
 
-    am "My turn!"
+# game/v12/scene18.rpy:1337
+translate francais v12s18_fmk_546deed0:
 
-    scene v12slpfmk6
-    with dissolve
+    # no "Earth to Amber, I'm right here. *Chuckles*"
+    no "La Terre à Amber ! Je suis juste là. *Rire*"
 
-    imre "This oughta be good... *Laughs*"
+# game/v12/scene18.rpy:1342
+translate francais v12s18_fmk_dd62a7a1:
 
-    scene v12slpfmk4b
-    with dissolve
+    # am "*Laughs*"
+    am "*Rire*"
 
-    am "Oh, right. So to start, I'd kill Imre."
+# game/v12/scene18.rpy:1347
+translate francais v12s18_fmk_cc9ffa03:
 
-    scene v12slpfmk6d # FPP. Same as v12slpfmk6, Imre slightly annoyed, mouth open
-    with dissolve
+    # u "*Laughs* Alright Nora, your turn."
+    u "*Rire* OK Nora, c'est ton tour."
 
-    imre "What?"
+# game/v12/scene18.rpy:1353
+translate francais v12s18_fmk_4af0bf21:
 
-    scene v12slpfmk4b
-    with dissolve
+    # no "Kill Imre, fuck Amber, marry [name]."
+    no "Tuer Imre, baiser Amber, épouser [name]."
 
-    am "My turn, my choice. *Laughs*"
+# game/v12/scene18.rpy:1358
+translate francais v12s18_fmk_d4d3bb1b:
 
-    scene v12slpfmk4c # FPP. Same as v12slpfmk4, Amber looking at Nora's direction, Amber slight smile, mouth open
-    with dissolve
+    # imre "Why does everyone wanna kill me?"
+    imre "Pourquoi tout le monde veut m'tuer ?"
 
-    am "Then I'm gonna marry Nora and... fuck [name]."
+# game/v12/scene18.rpy:1363
+translate francais v12s18_fmk_d82c463b:
 
-    scene v12slpfmk5e # FPP. Same as v12slpfmk5, Nora looking at Amber's direction, Nora slight smile, mouth open
-    with dissolve
+    # u "Guess you're just... kill-able. *Laughs*"
+    u "Je pense que tu n'es qu'un mec... tuable. *Rire*"
 
-    no "Aww, think I'd make a good wife?"
+# game/v12/scene18.rpy:1368
+translate francais v12s18_fmk_d4908d7c:
 
-    scene v12slpfmk4c
-    with dissolve
+    # am "You're gonna spend the rest of your life with [name] over me? I'm pretty cool, you know?"
+    am "Tu vas passer le reste de ta vie avec [name] plutôt qu'avec moi ? Je suis plutôt cool, tu sais ?"
 
-    am "Of course you would. *Chuckles*"
+# game/v12/scene18.rpy:1373
+translate francais v12s18_fmk_ffa57185:
 
-    scene v12slpfmk6
-    with dissolve
+    # no "Haha... I know, I know, He's pretty cool too, though."
+    no "Haha... Je sais, je sais, mais lui aussi est plutôt \"cool\", non ?"
 
-    imre "You must either think or know that [name] is good in bed... Which one is it? *Chuckles*"
+# game/v12/scene18.rpy:1378
+translate francais v12s18_fmk_aae7f30f:
 
-    scene v12slpfmk4a
-    with dissolve
+    # u "*Chuckles* (Thanks, Nora.)"
+    u "*Rire* (Merci, Nora.)"
 
-    am "I've heard rumors..."
+# game/v12/scene18.rpy:1389
+translate francais v12s18_fmk_3b022160:
 
-    scene v12slpfmk4d # FPP. Same as v12slpfmk4a, Amber mouth closed, slight smile
-    with dissolve
+    # no "Kill Imre, fuck [name], and marry Amber."
+    no "Tuer Imre, baiser [name], et épouser Amber."
 
-    u "I-"
+# game/v12/scene18.rpy:1394
+translate francais v12s18_fmk_d4d3bb1b_1:
 
-    scene v12slpfmk5
-    with dissolve
+    # imre "Why does everyone wanna kill me?"
+    imre "Pourquoi tout le monde veut m'tuer ?"
 
-    no "*Chuckles* Next?"
+# game/v12/scene18.rpy:1399
+translate francais v12s18_fmk_d82c463b_1:
 
-    scene v12slpfmk4a
-    with dissolve
+    # u "Guess you're just... kill-able. *Laughs*"
+    u "Je pense que tu n'es qu'un mec... tuable. *Rire*"
 
-    am "Your turn, [name]."
+# game/v12/scene18.rpy:1404
+translate francais v12s18_fmk_8ca58441:
 
-    scene v12slpfmk6a
-    with dissolve
+    # am "If I one day just run off to travel the world, don't be surprised."
+    am "Si un jour je m'enfuis pour parcourir le monde, ne soyez pas surpris."
 
-    imre "I'll make it easy for you bro and just kill myself."
+# game/v12/scene18.rpy:1409
+translate francais v12s18_fmk_72fe501f:
 
-    scene v12slpfmk6b
-    with dissolve
+    # no "*Chuckles* Got it. Thanks for the heads up."
+    no "*Rire* Compris. Merci de m'avoir averti."
 
-    u "Haha, thanks man."
+# game/v12/scene18.rpy:1414
+translate francais v12s18_fmk_ca4e6a66:
 
-    scene v12slpfmk7 # FPP. Same positioning as v12slpfmk2, MC looking at Amber and Nora, both smiling, mouths closed, looking back at MC
-    with dissolve
+    # am "Well shit... *Chuckles*"
+    am "Bah merde... *Rire*"
 
-    u "(Hmm, who to marry?)"
+# game/v12/scene18.rpy:1419
+translate francais v12s18_fmk_ef2f1671:
 
-    menu:
-        "Marry Amber":
-            $ add_point(KCT.BRO)
-            scene v12slpfmk4d
-            with dissolve
+    # u "What?"
+    u "Quoi ?"
 
-            u "In that case, I'd have to go with... fuck Nora and marry Amber."
+# game/v12/scene18.rpy:1424
+translate francais v12s18_fmk_bd56a766:
 
-            scene v12slpfmk4a
-            with dissolve
+    # am "I guess that's game over... I was hoping to play with a few others, I really wanna know their answers. *Laughs*"
+    am "Je crois que c'est la fin du jeu... J'espérais pouvoir jouer avec quelques autres participants, J'aurais vraiment eu envie de connaître leurs réponses. *Rire*"
 
-            am "We wouldn't be married for long. *Chuckles*"
+# game/v12/scene18.rpy:1429
+translate francais v12s18_fmk_2ae353e7:
 
-            scene v12slpfmk4d
-            with dissolve
+    # u "Want me to invite them over?"
+    u "Tu veux que j'en invite à participer ?"
 
-            u "*Chuckles* Why not?"
+# game/v12/scene18.rpy:1434
+translate francais v12s18_fmk_cabbfae3:
 
-            scene v12slpfmk4a
-            with dissolve
+    # am "Maybe another time, I have something else to get ready for. Don't I, [name]?"
+    am "Peut-être une autre fois, j'ai autre chose à préparer. N'est-ce pas, [name] ?"
 
-            am "Because this horse can't be tamed, baby."
+# game/v12/scene18.rpy:1439
+translate francais v12s18_fmk_4cc755cd:
 
-        "Marry Nora":
-            scene v12slpfmk5f # FPP. Same as v12slpfmk5c, Nora slight smile, mouth closed
-            with dissolve
+    # u "I don't know what you're talking about...?"
+    u "Je ne vois pas de quoi tu parles... ?"
 
-            u "In that case, I'd have to go with... fuck Amber and marry Nora."
+# game/v12/scene18.rpy:1444
+translate francais v12s18_fmk_1623c597:
 
-            scene v12slpfmk5g # FPP. Same as v12slfmk5f, Nora slight smile, mouth open
-            with dissolve
+    # am "*Chuckles* You will soon."
+    am "*Rire* Tu le sauras bientôt."
 
-            no "*Chuckles* Why would you wanna marry me?"
+# game/v12/scene18.rpy:1449
+translate francais v12s18_fmk_140c5099:
 
-            scene v12slpfmk6e # FPP. Same as v12slpfmk6a, Imre slightly annoyed, mouth open
-            with dissolve
+    # u "(Oh boy...)"
+    u "(Oh merde...)"
 
-            imre "C'mon dude, she's already taken."
+# game/v12/scene18.rpy:1459
+translate francais v12s18_bet_d7c274fe:
 
-            scene v12slpfmk6b
-            with dissolve
+    # am "Come with me to the bathroom?"
+    am "Tu viens avec moi aux toilettes ?"
 
-            u "That's how you know she'd make a good wife. The best ones are always taken."
+# game/v12/scene18.rpy:1464
+translate francais v12s18_bet_e1fd62de:
 
-            scene v12slpfmk4a
-            with dissolve
+    # u "For...?"
+    u "Pour...?"
 
-            am "Oooh, I peep your sly game, [name]. That was good..."
+# game/v12/scene18.rpy:1469
+translate francais v12s18_bet_1807fbdb:
 
-            scene v12slpfmk5e
-            with dissolve
+    # am "You'll find out when we get there. *Chuckles* C'mon!"
+    am "Tu le sauras quand on y sera. *Rire* Allez viens !"
 
-            no "Earth to Amber, I'm right here. *Chuckles*"
+# game/v12/scene18.rpy:1483
+translate francais v12s18_bet_82042dcc:
 
-            scene v12slpfmk4c
-            with dissolve
+    # am "Alright mister, strip down."
+    am "Très bien, monsieur, déshabillez-vous."
 
-            am "*Laughs*"
+# game/v12/scene18.rpy:1488
+translate francais v12s18_bet_ec72e505:
 
-    scene v12slpfmk5f
-    with dissolve
+    # u "Wait, what?"
+    u "Attends, quoi ?"
 
-    u "*Laughs* Alright Nora, your turn."
+# game/v12/scene18.rpy:1493
+translate francais v12s18_bet_bc0b8040:
 
-    if nora.relationship >= Relationship.LIKES:
-        scene v12slpfmk5g
-        with dissolve
+    # am "You know what this is... It's time for your picture. *Chuckles*"
+    am "Tu le sais bien... C'est l'heure de ta photo. *Rire*"
 
-        no "Kill Imre, fuck Amber, marry [name]."
+# game/v12/scene18.rpy:1498
+translate francais v12s18_bet_48076676:
 
-        scene v12slpfmk6f # FPP. Same as v12slpfmk6c, Imre slightly annoyed, mouth open
-        with dissolve
+    # u "Wait... NOW!?"
+    u "Quoi... MAINTENANT ! ?"
 
-        imre "Why does everyone wanna kill me?"
+# game/v12/scene18.rpy:1503
+translate francais v12s18_bet_72ef8cf1:
 
-        scene v12slpfmk6g # FPP. Same as v12slpfmk6e, Imre slightly annoyed, mouth closed
-        with dissolve
+    # am "No better time than this, hot shot."
+    am "Il n'y a pas de meilleur moment que celui-là, chaud lapin."
 
-        u "Guess you're just... kill-able. *Laughs*"
+# game/v12/scene18.rpy:1508
+translate francais v12s18_bet_65b3e38f:
 
-        scene v12slpfmk4c
-        with dissolve
+    # u "I really don't-"
+    u "Je n'ai vraiment pas..."
 
-        am "You're gonna spend the rest of your life with [name] over me? I'm pretty cool, you know?"
+# game/v12/scene18.rpy:1513
+translate francais v12s18_bet_dc5ff76c:
 
-        scene v12slpfmk5e
-        with dissolve
+    # am "[name]... You have to."
+    am "[name]... Tu dois le faire."
 
-        no "Haha... I know, I know, He's pretty cool too, though."
+# game/v12/scene18.rpy:1518
+translate francais v12s18_bet_f617ca71:
 
-        scene v12slpfmk5f
-        with dissolve
+    # u "Fuck!"
+    u "Putain !"
 
-        u "*Chuckles* (Thanks, Nora.)"
+# game/v12/scene18.rpy:1523
+translate francais v12s18_bet_2547de88:
 
-        scene v12slpfmk5h # FPP. Same as v12slpfmk5f, Nora blushing, slight smile, mouth closed
-        with dissolve
+    # am "Give me your phone."
+    am "Passe-moi ton téléphone."
 
-        pause 0.75
+# game/v12/scene18.rpy:1538
+translate francais v12s18_bet_adebfc92:
 
-    else:
-        scene v12slpfmk5e
-        with dissolve
+    # am "Not bad, not bad."
+    am "Pas mal, pas mal."
 
-        no "Kill Imre, fuck [name], and marry Amber."
+# game/v12/scene18.rpy:1543
+translate francais v12s18_bet_7b506d92:
 
-        scene v12slpfmk6f
-        with dissolve
+    # am "Now, pose... We at least want to make sure you look good."
+    am "Maintenant, prends la pose... Il faut qu'on soit sûrs que tu es bien."
 
-        imre "Why does everyone wanna kill me?"
+# game/v12/scene18.rpy:1564
+translate francais v12s18_bet_be292fce:
 
-        scene v12slpfmk6g
-        with dissolve
+    # am "Ha! Damn... These are all good."
+    am "Ha ! Merde... Elles sont toutes bonnes."
 
-        u "Guess you're just... kill-able. *Laughs*"
+# game/v12/scene18.rpy:1569
+translate francais v12s18_bet_f6130f73:
 
-        scene v12slpfmk4c
-        with dissolve
+    # am "Now... Which one should I post?"
+    am "Maintenant... Laquelle dois-je poster ?"
 
-        am "If I one day just run off to travel the world, don't be surprised."
+# game/v12/scene18.rpy:1574
+translate francais v12s18_bet_c07b7072:
 
-        scene v12slpfmk5e
-        with dissolve
+    # u "YOU'RE POSTING IT NOW!?"
+    u "TU VAS LA POSTER MAINTENANT !?"
 
-        no "*Chuckles* Got it. Thanks for the heads up."
+# game/v12/scene18.rpy:1586
+translate francais v12s18_bet_baac5e4b:
 
-    scene v12slpfmk4a
-    with dissolve
+    # imre "*Drunk* Heyyyy, what are you guys doing in there?"
+    imre "*Ivre* Heyyyy, qu'est-ce que vous faites là-dedans ?"
 
-    am "Well shit... *Chuckles*"
+# game/v12/scene18.rpy:1591
+translate francais v12s18_bet_0649c2a5:
 
-    scene v12slpfmk4d
-    with dissolve
+    # u "Torture! What are you doing out there?"
+    u "De la torture ! Que fais-tu là ?"
 
-    u "What?"
+# game/v12/scene18.rpy:1597
+translate francais v12s18_bet_c42f9648:
 
-    scene v12slpfmk4a
-    with dissolve
+    # u "For real, what's up?"
+    u "Pour de vrai, qu'est-ce qu'il y a ?"
 
-    am "I guess that's game over... I was hoping to play with a few others, I really wanna know their answers. *Laughs*"
+# game/v12/scene18.rpy:1607
+translate francais v12s18_bet_e0056f98:
 
-    scene v12slpfmk4d
-    with dissolve
+    # u "Oh... okay, umm. What are you doing?"
+    u "Oh... ok, humm. Qu'est-ce que tu fais ?"
 
-    u "Want me to invite them over?"
+# game/v12/scene18.rpy:1612
+translate francais v12s18_bet_f75d3e50:
 
-    scene v12slpfmk4a
-    with dissolve
+    # am "Getting our little bet over with."
+    am "On finit notre petit pari."
 
-    am "Maybe another time, I have something else to get ready for. Don't I, [name]?"
+# game/v12/scene18.rpy:1617
+translate francais v12s18_bet_8dc5a7c9:
 
-    scene v12slpfmk4d
-    with dissolve
+    # u "What bet?"
+    u "Quel pari ?"
 
-    u "I don't know what you're talking about...?"
+# game/v12/scene18.rpy:1622
+translate francais v12s18_bet_16e94d8a:
 
-    scene v12slpfmk4a
-    with dissolve
+    # am "You don't even remember? I lost our little go kart bet... So, I wanna go ahead and take my picture."
+    am "Tu ne te souviens même pas ? J'ai perdu notre petit pari au karting... Donc, je veux en finir et prendre ma photo."
 
-    am "*Chuckles* You will soon."
+# game/v12/scene18.rpy:1627
+translate francais v12s18_bet_53e7a5ef:
 
-    scene v12slpfmk4d
-    with dissolve
+    # u "Why now?"
+    u "Pourquoi maintenant ?"
 
-    u "(Oh boy...)"
+# game/v12/scene18.rpy:1632
+translate francais v12s18_bet_959ddbeb:
 
-    call screen v12s18_room2
+    # am "Well, to be honest with you I want the feedback and there's a pretty big audience out there. *Chuckles*"
+    am "Eh bien, pour être honnête avec toi, je veux avoir des retours et il y a un public assez large là-bas. *Rire*"
 
-label v12s18_bet: # END OF FREE ROAM
-    scene v12slpbet1 # FPP. Amber lying on the bed, looking at MC, Amber slight smile, mouth open, MC standing in front of the bed
-    #with dissolve
+# game/v12/scene18.rpy:1637
+translate francais v12s18_bet_d3f06d31:
 
-    am "Come with me to the bathroom?"
+    # u "You're crazy, you know that?"
+    u "Tu es folle, tu le sais ?"
 
-    scene v12slpbet1a # FPP. Same as v12slpbet1, Amber mouth closed, slight smile
-    with dissolve
+# game/v12/scene18.rpy:1642
+translate francais v12s18_bet_41d3412f:
 
-    u "For...?"
+    # am "Haha... Make sure I look good."
+    am "Haha... Assure-toi que je sois bien."
 
-    scene v12slpbet1
-    with dissolve
+# game/v12/scene18.rpy:1662
+translate francais v12s18_bet_3462d206:
 
-    am "You'll find out when we get there. *Chuckles* C'mon!"
+    # am "Alright, let me see."
+    am "Bon, voyons voir."
 
-    scene v12slpbet2 # TPP. Show MC and Amber getting inside the bathroom, MC slightly worried, mouth closed, Amber smiling, mouth closed
-    with dissolve
+# game/v12/scene18.rpy:1672
+translate francais v12s18_bet_eacbe3e5:
 
-    pause 0.75
+    # am "Oooo, these are good! Damn..."
+    am "Oooooh, elles sont bonnes ! Merde..."
 
-    stop music fadeout 3
-    play music "music/v12/Track Scene 18_3.mp3" fadein 2
+# game/v12/scene18.rpy:1684
+translate francais v12s18_bet_baac5e4b_1:
 
-    if v11_overtake_points < 2: # MC lost the race
-        scene v12slpbet3 # FPP. MC and Amber now in the bathroom, looking at each other, Amber smiling, mouth open
-        with dissolve
+    # imre "*Drunk* Heyyyy, what are you guys doing in there?"
+    imre "*Ivre* Heyyyy, qu'est-ce que vous faites là-dedans."
 
-        am "Alright mister, strip down."
+# game/v12/scene18.rpy:1689
+translate francais v12s18_bet_fb635d3a:
 
-        scene v12slpbet3a # FPP. Same as v12slpbet3, Amber smiling, mouth closed
-        with dissolve
+    # u "Plotting, what are you doing out there?"
+    u "En train de faire des plans, qu'est-ce que tu fais dehors ?"
 
-        u "Wait, what?"
+# game/v12/scene18.rpy:1694
+translate francais v12s18_bet_5bd1f527:
 
-        scene v12slpbet3
-        with dissolve
+    # imre "*Drunk* Bored on my phone... Everyone out here is going to sleep... Also, I'm pretty fucking drunk right now... *Chuckles*"
+    imre "*Ivre* J'm'ennuie sur mon téléphone... Tout le monde ici va s'coucher... En plus, j'suis complètement bourré là... *Rire*"
 
-        am "You know what this is... It's time for your picture. *Chuckles*"
+# game/v12/scene18.rpy:1699
+translate francais v12s18_bet_0407927f:
 
-        scene v12slpbet3a
-        with dissolve
+    # u "What are you doing on your phone?"
+    u "Tu fais quoi sur ton téléphone ?"
 
-        u "Wait... NOW!?"
+# game/v12/scene18.rpy:1704
+translate francais v12s18_bet_909d5397:
 
-        scene v12slpbet3b # FPP. Same as v12slpbet3, different pose
-        with dissolve
+    # imre "*Drunk* I'm just scrolling through my Kiwii and-"
+    imre "*Ivre* J'suis juste en train d'faire défiler mon Kiwii et..."
 
-        am "No better time than this, hot shot."
+# game/v12/scene18.rpy:1715
+translate francais v12s18_bet_8df010cf:
 
-        scene v12slpbet3c # FPP. Same as v12slpbet3b, Amber mouth closed, smiling
-        with dissolve
+    # imre "OH SHITTT!"
+    imre "OH MEEEEERDE !"
 
-        u "I really don't-"
+# game/v12/scene18.rpy:1720
+translate francais v12s18_bet_ed40d4ef:
 
-        scene v12slpbet3b
-        with dissolve
+    # am "Somebody just got a nice surprise."
+    am "Ah, quelqu'un vient d'avoir une belle surprise."
 
-        am "[name]... You have to."
+# game/v12/scene18.rpy:1725
+translate francais v12s18_bet_4c05f1fb:
 
-        scene v12slpbet3c
-        with dissolve
+    # u "Oh my god... *Chuckles*"
+    u "Oh putain... *Rire*"
 
-        u "Fuck!"
+# game/v12/scene18.rpy:1732
+translate francais v12s18_bet_78488e36:
 
-        scene v12slpbet3
-        with dissolve
+    # am "*Whisper* Hey, let's prank him."
+    am "*Chuchote* Hé, on va lui faire une farce."
 
-        am "Give me your phone."
+# game/v12/scene18.rpy:1737
+translate francais v12s18_bet_907e332d:
 
-        scene v12slpbet4 # TPP. Show MC giving Amber his phone, MC neutral expression, mouth closed, Amber smiling, mouth closed
-        with dissolve
+    # u "How?"
+    u "Comment ?"
 
-        pause 0.75
+# game/v12/scene18.rpy:1742
+translate francais v12s18_bet_ebfdc2d4:
 
-        scene v12slpbet5 # TPP. Show MC removing his shirt, slightly annoyed, mouth closed (make it look like he could be removing/putting it on if possible)
-        with dissolve
+    # am "*Whisper* Let's draw on his face. *Chuckles*"
+    am "*Chuchote* Dessinons sur son visage. *Rire*"
 
-        pause 0.75
+# game/v12/scene18.rpy:1747
+translate francais v12s18_bet_11f0e9f9:
 
-        scene v12slpbet3b
-        with dissolve
+    # u "He's wide awake..."
+    u "Il est encore bien éveillé..."
 
-        am "Not bad, not bad."
+# game/v12/scene18.rpy:1752
+translate francais v12s18_bet_4e9039c3:
 
-        scene v12slpbet3
-        with dissolve
+    # am "*Whisper* And drunk."
+    am "*Chuchote* Mais bourré."
 
-        am "Now, pose... We at least want to make sure you look good."
+# game/v12/scene18.rpy:1770
+translate francais v12s18_bet_d43ec00a:
 
-        scene v12slpbet5a # TPP. Same as v12slpbet5, MC posing for a pic, he's completely nude, smiling, mouth closed
-        with flash
+    # u "Where are all the guys?"
+    u "Où sont passés tout les autres ?"
 
-        pause 1.25
+# game/v12/scene18.rpy:1775
+translate francais v12s18_bet_0ad771c3:
 
-        scene v12slpbet5b # TPP. Same as v12slpbet5a, different pose
-        with flash
+    # imre "*Drunk* They left for a guy's date or something."
+    imre "*Ivre* Ils sont partis à un rencard entre eux ou quelque chose comme ça."
 
-        $ grant_achievement("a_bet_is_a_bet")
-        pause
+# game/v12/scene18.rpy:1780
+translate francais v12s18_bet_015340d4:
 
-        scene v12slpbet5 
-        with dissolve
+    # u "Why didn't you go with them?"
+    u "Pourquoi t'es pas allé avec eux ?"
 
-        pause 1.25
+# game/v12/scene18.rpy:1785
+translate francais v12s18_bet_a5b52207:
 
-        scene v12slpbet3
-        with dissolve
+    # imre "*Drunk* Someone had to stay with the ladies! Haha..."
+    imre "*Ivre* Quelqu'un devait rester avec les dames ! Haha..."
 
-        am "Ha! Damn... These are all good."
+# game/v12/scene18.rpy:1790
+translate francais v12s18_bet_fc085fd0:
 
-        scene v12slpbet3b
-        with dissolve
+    # am "Oh my God, Imre... You don't look so good. C'mon, come sit down."
+    am "Oh merde, Imre... t'as pas l'air bien. Allez, viens t'asseoir."
 
-        am "Now... Which one should I post?"
+# game/v12/scene18.rpy:1800
+translate francais v12s18_bet_db56474c:
 
-        scene v12slpbet3c
-        with dissolve
+    # imre "*Drunk* You're so pretty."
+    imre "*Ivre* T'est tellement jolie."
 
-        u "YOU'RE POSTING IT NOW!?"
+# game/v12/scene18.rpy:1805
+translate francais v12s18_bet_abeff5e1:
 
-        play sound "sounds/knock.mp3"
+    # am "Haha, thanks. Now, just lay back and close your eyes. Let me massage your face."
+    am "Haha, merci. Maintenant, étend-toi et ferme les yeux. Laisse-moi te masser le visage."
 
-        scene v12slpbet6 # FPP. MC looking at the door
-        with dissolve
+# game/v12/scene18.rpy:1810
+translate francais v12s18_bet_8f612043:
 
-        pause 0.75
+    # imre "*Drunk* Mmm, so nice."
+    imre "*Ivre* Mmm, c'est si agréable."
 
-        scene v12slpbet7 # TPP. Show Imre on the bathroom door, mouth open, smiling, he's drunk, looking at his phone
-        with dissolve
+# game/v12/scene18.rpy:1815
+translate francais v12s18_bet_2dc61761:
 
-        imre "*Drunk* Heyyyy, what are you guys doing in there?"
+    # u "*Whisper* What the fuck is that? *Chuckles*"
+    u "*Chuchote* C'est quoi ce bordel ? *Rire*"
 
-        scene v12slpbet7a # TPP. Same as v12slpbet7, Imre mouth closed, smiling
-        with dissolve
+# game/v12/scene18.rpy:1820
+translate francais v12s18_bet_ece9ed26:
 
-        u "Torture! What are you doing out there?"
+    # u "He's asleep?!"
+    u "Il dort ?!"
 
-    else: # MC won the race.
-        scene v12slpbet3a
-        with dissolve
+# game/v12/scene18.rpy:1825
+translate francais v12s18_bet_71a64f82:
 
-        u "For real, what's up?"
+    # am "Yep, my little raccoon fell right to sleep. *Chuckles*"
+    am "Oui, mon petit raton laveur s'est endormi. *Rire*"
 
-        scene v12slpbet3d # FPP. Same as v12slpbet3, show Amber removing her top, smiling, mouth closed (Try to make it look like she could be removing or putting it on if possible)
-        with dissolve
+# game/v12/scene18.rpy:1830
+translate francais v12s18_bet_a4917aa9:
 
-        pause 0.75
+    # u "We might as well get to bed too, right?"
+    u "On pourrait aller se coucher nous aussi, non ?"
 
-        scene v12slpbet3e # FPP. Same as v12slpbet3, Amber nude, smiling, mouth closed
-        with dissolve
+# game/v12/scene18.rpy:1835
+translate francais v12s18_bet_09ba0654:
 
-        u "Oh... okay, umm. What are you doing?"
+    # am "Yeah. It's pretty late."
+    am "Oui. Il est assez tard."
 
-        scene v12slpbet3f # FPP. Same as v12slpbet3e, Amber smiling, mouth open
-        with dissolve
+# game/v12/scene18.rpy:1845
+translate francais v12s18_bet_8f62fe72:
 
-        am "Getting our little bet over with."
+    # u "We're just gonna leave him there?"
+    u "On va le laisser là ?"
 
-        scene v12slpbet3e
-        with dissolve
+# game/v12/scene18.rpy:1850
+translate francais v12s18_bet_5c43ca2e:
 
-        u "What bet?"
+    # am "Yeah? *Laughs* He's cozy."
+    am "Ouais ? *Rire* Il est bien installé."
 
-        scene v12slpbet3f
-        with dissolve
+# game/v12/scene18.rpy:1855
+translate francais v12s18_bet_8569c4fa:
 
-        am "You don't even remember? I lost our little go kart bet... So, I wanna go ahead and take my picture."
+    # u "*Chuckles*"
+    u "*Rire*"
 
-        scene v12slpbet3e
-        with dissolve
+# game/v12/scene18.rpy:1860
+translate francais v12s18_bet_c056f68b:
 
-        u "Why now?"
+    # am "C'mon, we can share."
+    am "Allez viens, on peut partager le lit."
 
-        scene v12slpbet3f
-        with dissolve
+# game/v12/scene18.rpy:1865
+translate francais v12s18_bet_b9c4fde3:
 
-        am "Well, to be honest with you I want the feedback and there's a pretty big audience out there. *Chuckles*"
-
-        scene v12slpbet3e
-        with dissolve
-
-        u "You're crazy, you know that?"
-
-        scene v12slpbet3f
-        with dissolve
-
-        am "Haha... Make sure I look good."
-
-        scene v12slpbet8 # TPP. Show Amber posing for her naked pic, she's smiling, mouth closed
-        with flash
-
-        pause 1.25
-
-        scene v12slpbet8a # TPP. Same as v12slpbet8, different pose
-        with flash
-
-        pause
-
-        scene v12slpbet3d
-        with dissolve
-
-        pause 1.25
-
-        scene v12slpbet3b
-        with dissolve
-
-        am "Alright, let me see."
-
-        scene v12slpbet4
-        with dissolve
-        
-        pause 0.75
-
-        scene v12slpbet3g # FPP. Same as v12slpbet3, Amber looking down at her phone, mouth open, smiling
-        with dissolve
-
-        am "Oooo, these are good! Damn..."
-
-        play sound "sounds/knock.mp3"
-
-        scene v12slpbet6
-        with dissolve
-
-        pause 0.75
-
-        scene v12slpbet7
-        with dissolve
-
-        imre "*Drunk* Heyyyy, what are you guys doing in there?"
-
-        scene v12slpbet7a
-        with dissolve
-
-        u "Plotting, what are you doing out there?"
-
-    scene v12slpbet7
-    with dissolve
-
-    imre "*Drunk* Bored on my phone... Everyone out here is going to sleep... Also, I'm pretty fucking drunk right now... *Chuckles*"
-
-    scene v12slpbet7a
-    with dissolve
-
-    u "What are you doing on your phone?"
-
-    scene v12slpbet7
-    with dissolve
-
-    imre "*Drunk* I'm just scrolling through my Kiwii and-"
-
-    if v11_overtake_points >= 2: # MC wins the race
-        $ v12s18_kiwiiPost2 = KiwiiPost(amber, "v12/amber_bet.webp", _("A bet is a bet..."), numberLikes=5) # Amber nude pic
-
-    else: # MC loses the race
-        $ v12s18_kiwiiPost3 = KiwiiPost(amber, "v12/mc_bet.webp", _("A bet is a bet..."), numberLikes=5) # MC nude pic
-    
-    scene v12slpbet7b # TPP. Same as v12slpbet7, Imre surprised, mouth open
-    with dissolve
-
-    imre "OH SHITTT!"
-
-    scene v12slpbet3
-    with dissolve
-
-    am "Somebody just got a nice surprise."
-
-    scene v12slpbet3a
-    with dissolve
-
-    u "Oh my god... *Chuckles*"
-
-    call screen phone
-
-    scene v12slpbet3b
-    with dissolve
-
-    am "*Whisper* Hey, let's prank him."
-
-    scene v12slpbet3c
-    with dissolve
-
-    u "How?"
-
-    scene v12slpbet3b
-    with dissolve
-
-    am "*Whisper* Let's draw on his face. *Chuckles*"
-
-    scene v12slpbet3c
-    with dissolve
-
-    u "He's wide awake..."
-
-    scene v12slpbet3b
-    with dissolve
-
-    am "*Whisper* And drunk."
-
-    scene v12slpbet9 # TPP. Show Amber and MC leaving the bathroom, mouths closed, smiling
-    with dissolve
-
-    pause 0.75
-
-    stop music fadeout 3
-    play music "music/v12/Track Scene 18_4.mp3" fadein 2
-
-    scene v12slpbet10 # TPP. Show Aubrey and Riley sleeping on Riley's bed
-    with dissolve
-
-    pause 0.75
-
-    scene v12slpbet11 # FPP. MC and Amber standing next to each other, Imre in front of them. MC looking at Imre, Imre slight smile, mouth closed, drunk
-    with dissolve
-
-    u "Where are all the guys?"
-
-    scene v12slpbet11a # FPP. Same as v12slpbet11, Imre mouth closed, slight smile, drunk
-    with dissolve
-
-    imre "*Drunk* They left for a guy's date or something."
-
-    scene v12slpbet11
-    with dissolve
-
-    u "Why didn't you go with them?"
-
-    scene v12slpbet11a
-    with dissolve
-
-    imre "*Drunk* Someone had to stay with the ladies! Haha..."
-
-    scene v12slpbet12 # FPP. Same positioning as v12slpbet11, MC looking at Amber, Amber looking at Imre's direction, Amber slightly worried, mouth open
-    with dissolve
-
-    am "Oh my God, Imre... You don't look so good. C'mon, come sit down."
-
-    scene v12slpbet2a # TPP. Same camera as v12slpbet2, show Amber supporting Imre as they walk in the bathroom, Imre drunk, slight smile, Amber slight smile, both mouths closed
-    with dissolve
-
-    pause 0.75
-
-    scene v12slpbet13 # FPP. Imre sitting on the toilet, Amber standing in front of him, MC next to Amber. MC looking at Imre, Imre looking at Amber's direction, Imre slight smile, drunk, mouth open
-    with dissolve
-
-    imre "*Drunk* You're so pretty."
-
-    scene v12slpbet14 # FPP. Same positioning as v12slpbet12, MC looking at Amber, Amber looking at Imre's direction, Amber slight smile, mouth open
-    with dissolve
-
-    am "Haha, thanks. Now, just lay back and close your eyes. Let me massage your face."
-
-    scene v12slpbet15 # TPP. Show Amber drawing a circle around Imre's right eye, Amber smiling, mouth closed, looking at Imre, Imre eyes closed, mouth open, smiling, same positioning as v12slpbet13
-    with dissolve
-
-    imre "*Drunk* Mmm, so nice."
-
-    scene v12slpbet15a # TPP. Same as v12slpbet15, Amber drawing the circle on his left eye, Amber smiling, mouth closed, looking at Imre, Imre eyes closed, mouth closed, smiling
-    with dissolve
-
-    u "*Whisper* What the fuck is that? *Chuckles*"
-
-    scene v12slpbet15b # TPP. Same as v12slpbet15a, Amber drawing the dot on his nose, Amber smiling, mouth closed, Imre eyes closed, mouth closed, sleeping
-    with dissolve
-
-    u "He's asleep?!"
-
-    scene v12slpbet14a # FPP. Same as v12slpbet14, Amber looking at MC, smiling, mouth open
-    with dissolve
-
-    am "Yep, my little raccoon fell right to sleep. *Chuckles*"
-
-    scene v12slpbet14b # FPP. Same as v12slpbet14a, Amber smiling, mouth closed
-    with dissolve
-
-    u "We might as well get to bed too, right?"
-
-    scene v12slpbet14a
-    with dissolve
-
-    am "Yeah. It's pretty late."
-
-    scene v12slpbet9
-    with dissolve
-
-    pause 0.75
-
-    scene v12slpbet12a # FPP. Same as v12slpbet12, Amber looking at MC, Amber smiling, mouth closed
-    with dissolve
-
-    u "We're just gonna leave him there?"
-
-    scene v12slpbet12b # FPP. Same as v12slpbet12a, Amber smiling, mouth open
-    with dissolve
-
-    am "Yeah? *Laughs* He's cozy."
-
-    scene v12slpbet12a
-    with dissolve
-
-    u "*Chuckles*"
-
-    scene v12slpbet12b
-    with dissolve
-
-    am "C'mon, we can share."
-
-    scene v12slpbet12a
-    with dissolve
-
+    # u "Okay."
     u "Okay."
 
-    scene v12slpbet16 # TPP. Show Amber and MC getting in bed, both smiling, mouths closed
-    with dissolve
+# game/v12/scene18.rpy:1892
+translate francais v12s18_bet_53618ad3:
 
-    pause 0.75
+    # am "Cold?"
+    am "Froid ?"
 
-    if v11_overtake_points >= 2: # MC wins the race
-        $ v12s18_kiwiiPost2.remove_post()
+# game/v12/scene18.rpy:1897
+translate francais v12s18_bet_74406210:
 
-    else: # MC loses the race
-        $ v12s18_kiwiiPost3.remove_post()
+    # u "Something like that."
+    u "Un truc comme ça."
 
-    scene v12slpbet16a # TPP. Same camera as v12slpbet16, MC and Amber now lying on the bed, away from each other, both smiling, mouths closed
-    with dissolve
+# game/v12/scene18.rpy:1906
+translate francais v12s18_bet_852da9c2:
 
-    menu:
-        "Cuddle":
-            $ add_point(KCT.BOYFRIEND)
-            scene v12slpbet16b # TPP. Show MC cuddling with Amber, both smiling, mouths closed
-            with dissolve
+    # am "*Chuckles* You can stay, but be sure to back up before morning. Don't want to upset any of your girlfriends... *Chuckles*"
+    am "*Rire* Tu peux rester, mais assure-toi de faire marche arrière avant le matin. Je ne veux pas contrarier tes petites amies... *Rire*"
 
-            pause 0.75
+# game/v12/scene18.rpy:1911
+translate francais v12s18_bet_1ac14da2:
 
-            scene v12slpbet17 # FPP. MC lying in bed, cuddling with Amber, Amber looking at MC, slight smile, mouth open
-            with dissolve
+    # u "Ha, roger that."
+    u "Ha, bien reçu."
 
-            am "Cold?"
+# game/v12/scene18.rpy:1922
+translate francais v12s18_bet_3291ebd2:
 
-            scene v12slpbet17a # FPP. Same as v12slpbet17, Amber slight smile, mouth closed
-            with dissolve
+    # am "Well, snuggle a pillow or something."
+    am "Eh bien, blottit toi contre un oreiller ou quelque chose comme ça."
 
-            u "Something like that."
+# game/v12/scene18.rpy:1927
+translate francais v12s18_bet_bba80a90:
 
-            if amber.relationship >= Relationship.FWB or kct == "popular":
-                if amber.relationship < Relationship.FWB:
-                    call screen kct_popup
-                
-                scene v12slpbet17
-                with dissolve
+    # u "Yes, ma'am..."
+    u "Oui, m'dame..."
 
-                am "*Chuckles* You can stay, but be sure to back up before morning. Don't want to upset any of your girlfriends... *Chuckles*"
+# game/v12/scene18.rpy:1944
+translate francais v12s18_bet_4ed75bb6:
 
-                scene v12slpbet17a
-                with dissolve
+    # u "(Not with all these girls in here. *Chuckles*)"
+    u "(Pas avec toutes ces filles présentes ici. *Rire*)"
 
-                u "Ha, roger that."
+translate francais strings:
 
-                scene v12slpbet16c # TPP. Same as v12slpbet16b, MC and Amber sleeping cuddled up
-                with dissolve
+    # game/v12/scene18.rpy:333
+    old "Couldn't have asked for a better night... <3"
+    new "Je n'aurais pas pu demander une meilleure soirée... <3"
 
-                pause 1.75
+    # game/v12/scene18.rpy:334
+    old "You're so welcome boo... Girls night again ASAP!"
+    new "De rien, boo... Soirée filles à nouveau dès que possible !"
 
-            else:
-                call screen kct_popup(required_kct="popular")
-            
-                scene v12slpbet17
-                with dissolve
+    # game/v12/scene18.rpy:335
+    old "Even more beautiful in person, ladies..."
+    new "Encore plus beau en personne, mesdames..."
 
-                am "Well, snuggle a pillow or something."
+    # game/v12/scene18.rpy:336
+    old "Yesss! We have to do this again."
+    new "Ouiiiiii ! On doit refaire ça."
 
-                scene v12slpbet17a
-                with dissolve
+    # game/v12/scene18.rpy:337
+    old "Just say when and where! Had a lot of fun :)"
+    new "Il suffit de dire quand et où ! Je me suis beaucoup amusé :)"
 
-                u "Yes, ma'am..."
+    # game/v12/scene18.rpy:338
+    old "You deserve the best! Glad you enjoyed it ;)"
+    new "Tu mérites le meilleur ! Content que ça t'ait plu ;)"
 
-                scene v12slpbet16a
-                with dissolve
+    # game/v12/scene18.rpy:339
+    old "Haha, thank you guys <3"
+    new "Haha, merci les amis <3"
 
-                pause 0.75
+    # game/v12/scene18.rpy:550
+    old "Kiss him"
+    new "Embrassez-le."
 
-                scene v12slpbet16d # TPP. Same as v12slpbet16a, MC and Amber sleeping away from each other
-                with dissolve
+    # game/v12/scene18.rpy:550
+    old "Get slapped"
+    new "Se faire gifler"
 
-                pause 0.75
+    # game/v12/scene18.rpy:1285
+    old "Marry Amber"
+    new "Épouser Amber"
 
-        "Stay away":
-            $ add_point(KCT.BRO)
-            scene v12slpbet18 # FPP. MC and Amber lying in bed, not cuddled up (check v12slpbet16a), MC looking at Amber, Amber's back turned to MC
-            with dissolve
+    # game/v12/scene18.rpy:1285
+    old "Marry Nora"
+    new "Épouser Nora"
 
-            u "(Not with all these girls in here. *Chuckles*)"
+    # game/v12/scene18.rpy:1707
+    old "A bet is a bet..."
+    new "Un pari est un pari..."
 
-            scene v12slpbet16d
-            with dissolve
+    # game/v12/scene18.rpy:1881
+    old "Cuddle"
+    new "Câlinez"
 
-            pause 0.75
-    
-    stop music fadeout 3
-
-    jump v12_party_wake_up #scene 19
+    # game/v12/scene18.rpy:1881
+    old "Stay away"
+    new "Restez à l'écart"

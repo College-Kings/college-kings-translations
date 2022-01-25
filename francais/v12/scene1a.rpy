@@ -1,563 +1,473 @@
-# SCENE 1a: MC Chases After Robber
-# Location: 
-# Characters: MC (Outfit X), Nora (Outfit X)
-# Time: Nighttime
+﻿# TODO: Translation updated at 2021-12-16 10:03
 
-label v12_chase_robber:
-    $ v12_chase_robber = True
-    scene v12car1 # TPP Show MC shoving Charli out of the way to take off after robber
-    with dissolve
+# game/v12/scene1a.rpy:23
+translate francais v12_chase_robber_a5c95981:
 
-    pause 0.75
+    # u "(What the fuck? He's too fast... Where'd he go?)"
+    u "(C'est quoi ce bordel ? Il est trop rapide... Où est-il passé ?)"
 
-    play music "music/v12/Track Scene 1_1.mp3" fadein 2
+# game/v12/scene1a.rpy:30
+translate francais v12_chase_robber_6852c676:
 
-    scene v12car2 # TPP Show MC turning into an alley at a full run
-    with dissolve
+    # u "(This way!)"
+    u "(Par là !)"
 
-    pause 0.75
+# game/v12/scene1a.rpy:35
+translate francais v12_chase_robber_7191b9bb:
 
-    scene v12car3 # FPP Alley splits in two directions - MC has to choose which way to go
-    with dissolve
+    # u "(Where is he?)"
+    u "(Où est-il ?)"
 
-    u "(What the fuck? He's too fast... Where'd he go?)"
+# game/v12/scene1a.rpy:45
+translate francais v12_chase_robber_9b9366fa:
 
-    menu:
-        "Left":
-            scene v12car4 # FPP MC looking down dark alley to the left
-            with dissolve
-            
-            u "(This way!)"
+    # robber "Eat asphalt, bitch!"
+    robber "Bouffe l'asphalte, salope !"
 
-            scene v12car5 # FPP View of an alley that ends in a dead end
-            with dissolve
+# game/v12/scene1a.rpy:50
+translate francais v12_chase_robber_7adaf1c0:
 
-            u "(Where is he?)"
+    # u "Ahh, shit! You've really fucked up now."
+    u "Ahh, merde ! Tu as complètement déconné maintenant."
 
-            scene v12car6 # TPP Show MC getting hit on the back of the head
-            with dissolve
-            play sound "sounds/facepunch1.mp3"
+# game/v12/scene1a.rpy:61
+translate francais v12_chase_robber_d51bf734:
 
-            pause 0.3
-            scene v12car7 # TPP Show MC laying on the ground in the alley, face down, trying to catch himself
-            with hpunch
+    # u "Got your ass now!"
+    u "Je te tiens, maintenant !"
 
-            robber "Eat asphalt, bitch!"
+# game/v12/scene1a.rpy:66
+translate francais v12_chase_robber_75d31138:
 
-            scene v12car8 # FPP MC looking up at robber from a position laying on the ground
-            with dissolve
+    # robber "Wait! Look man, please. I just needed some money for food. I don't want any trouble."
+    robber "Attends ! Ecoute mec, s'il te plaît. J'avais juste besoin d'argent pour manger. Je ne veux pas d'ennuis."
 
-            u "Ahh, shit! You've really fucked up now."
+# game/v12/scene1a.rpy:71
+translate francais v12_chase_robber_b520b490:
 
-            scene v12car9 # TPP Show MC hopping up from the ground and moving to fight
-            with dissolve
+    # u "There are plenty of other ways to get help, dude. Hand over the bag."
+    u "Il y a plein d'autres moyens d'obtenir de l'aide, mec. Donne-moi le sac."
 
-            pause 0.75
+# game/v12/scene1a.rpy:113
+translate francais v12s1a_failed_timer_6a5872aa:
 
-        "Right":
-            scene v12car10 # FPP Show robber in right alley, digging through Nora's bag
-            with dissolve
+    # robber "Ha, you sure are one sorry ass fighter. Now your girl lost her bag and you got your ass kicked. Bet you won't be getting any tonight. *Laughs*"
+    robber "Ha, tu es vraiment un combattant minable. Maintenant ta meuf a perdu son sac et tu t'es fait défoncer. Je parie que tu ne vas pas pouvoir niquer. *Rire*"
 
-            u "Got your ass now!"
+# game/v12/scene1a.rpy:121
+translate francais v12s1a_failed_timer_2c7b5311:
 
-            scene v12car10a # FPP Same angle as v12car10, robber holding Nora's bag, looking at MC, holding his hand out and looking nervous, mouth open
-            with dissolve
+    # u "Motherfucker... Ahh, shit."
+    u "Fils de pute... Ahh, merde."
 
-            robber "Wait! Look man, please. I just needed some money for food. I don't want any trouble."
+# game/v12/scene1a.rpy:126
+translate francais v12s1a_failed_timer_72920833:
 
-            scene v12car11 # FPP Show robber, MC has moved closer, robber holding Nora's bag, mouth closed, MCs arm extended to grab bag
-            with dissolve
+    # imre "[name]! [name]! Are you out here?"
+    imre "[name] ! [name] ! T'es là ?"
 
-            u "There are plenty of other ways to get help, dude. Hand over the bag."
+# game/v12/scene1a.rpy:128
+translate francais v12s1a_failed_timer_70ac3595:
 
-            scene v12car11a # FPP Same angle as v12car11, robber looking angry and taking a swing at MC
-            with dissolve
+    # u "I'm... I'm over here."
+    u "Je suis... Je suis là."
 
-            menu (fail_label="v12s1a_failed_timer"):
-                "Dodge":
-                    $ add_point(KCT.TROUBLEMAKER)
-                    $ v12_fight_win = True
-                    scene v12car12 # TPP Show MC dodging robber's punch
-                    with dissolve
+# game/v12/scene1a.rpy:133
+translate francais v12s1a_failed_timer_78439db6:
 
-                    pause 0.75
-                    
-                    play sound "sounds/facepunch1.mp3"
-                    scene v12car0
-                    with hpunch
-                    
-                    pause 0.5
-                    
-                    play sound "sounds/facepunch1.mp3"
-                    scene v12car00
-                    with vpunch
-                    
-                    pause 0.5
-                    
-                    
-                "Huh":
-                    label v12s1a_failed_timer:
-                        scene v12car12a # TPP Same angle as v12car12, show MC getting punched in the mouth by the robber
-                        with hpunch
+    # imre "Damn, are you alright?"
+    imre "Merde, tu vas bien ?"
 
-                        play sound "sounds/facepunch1.mp3"
+# game/v12/scene1a.rpy:138
+translate francais v12s1a_failed_timer_2da57c3f:
 
-                        pause 0.75
+    # u "Do I look alright?"
+    u "J'ai l'air bien ?"
 
-    # MANUAL FIGHT
+# game/v12/scene1a.rpy:143
+translate francais v12s1a_failed_timer_3cf631da:
 
-    if not v12_fight_win:
-        scene v12car13 # TPP Show MC laying on the ground, writhing in pain
-        with vpunch
+    # imre "You look exactly how you looked when Grayson got done with you, minus the black eye. *Laughs*"
+    imre "T'es exactement comme t'étais quand Grayson t'a tabassé, sans l'oeil au beurre noir. *Rire*"
 
-        robber "Ha, you sure are one sorry ass fighter. Now your girl lost her bag and you got your ass kicked. Bet you won't be getting any tonight. *Laughs*"
+# game/v12/scene1a.rpy:148
+translate francais v12s1a_failed_timer_e482bf90:
 
-        stop music fadeout 3
-        play music "music/v12/Track Scene 1a_2.mp3" fadein 2
+    # u "You gonna keep laughing or help me up?"
+    u "Tu vas continuer à rire ou m'aider à me relever ?"
 
-        scene v12car14 # FPP View of MC laying on the ground, show robber running out of the alley and into the night
-        with dissolve
+# game/v12/scene1a.rpy:153
+translate francais v12s1a_failed_timer_83bf5570:
 
-        u "Motherfucker... Ahh, shit."
+    # imre "*Chuckles* I got you."
+    imre "*Rire* J'te tiens."
 
-        scene v12car14a # FPP Same angle as v12car14, show exit of the alley, nobody visible
-        with dissolve
+# game/v12/scene1a.rpy:163
+translate francais v12s1a_failed_timer_def99c38:
 
-        imre "[name]! [name]! Are you out here?"
+    # imre "Could've at least gotten the purse..."
+    imre "On aurait pu au moins avoir le sac à main..."
 
-        u "I'm... I'm over here."
+# game/v12/scene1a.rpy:168
+translate francais v12s1a_failed_timer_d92148cc:
 
-        scene v12car15 # FPP Show Imre standing over MC, Imre looks worried, mouth open
-        with dissolve
+    # u "Oh I'm sorry, should I have kindly asked for the bag before or after I got my ass kicked?"
+    u "Oh, je suis désolé, j'aurais dû demander gentiment le sac avant ou après m'être fait défoncer  ?"
 
-        imre "Damn, are you alright?"
+# game/v12/scene1a.rpy:173
+translate francais v12s1a_failed_timer_93ff3184:
 
-        scene v12car15a # FPP Same angle as v12car15, Imre looking worried with mouth closed
-        with dissolve
+    # imre "*Laughs*"
+    imre "*Rire*"
 
-        u "Do I look alright?"
+# game/v12/scene1a.rpy:178
+translate francais v12s1a_failed_timer_d887866c:
 
-        scene v12car15b # FPP Same angle as v12car15, Imre smiling with mouth open
-        with dissolve
+    # charli "There you are. Where's the mugger?"
+    charli "Ah, tu es là. Où est l'agresseur ?"
 
-        imre "You look exactly how you looked when Grayson got done with you, minus the black eye. *Laughs*"
+# game/v12/scene1a.rpy:183
+translate francais v12s1a_failed_timer_8235f0d0:
 
-        scene v12car15c # FPP Same angle as v12car15, Imre smiling with mouth closed
-        with dissolve
+    # u "Gone."
+    u "Parti."
 
-        u "You gonna keep laughing or help me up?"
+# game/v12/scene1a.rpy:188
+translate francais v12s1a_failed_timer_e335fdb7:
 
-        scene v12car15b
-        with dissolve
+    # charli "You let him get away? Where's Nora's bag?"
+    charli "Tu l'as laissé s'échapper ? Où est le sac de Nora ?"
 
-        imre "*Chuckles* I got you."
+# game/v12/scene1a.rpy:193
+translate francais v12s1a_failed_timer_9693bb92:
 
-        scene v12car16 # TPP Show Imre helping MC to his feet
-        with dissolve
+    # u "Do you really think I would just \"let him?\""
+    u "Tu crois vraiment que j'ai voulu le \"laisser s'échapper\" ?"
 
-        pause 0.75
+# game/v12/scene1a.rpy:198
+translate francais v12s1a_failed_timer_151b211c:
 
-        scene v12car17 # TPP Imre throwing MC's arm over his shoulder to support him, Imre with neutral expression, mouth open
-        with dissolve
+    # imre "If you wanna try your luck, he's that way."
+    imre "Si tu veux tenter ta chance, il est par là."
 
-        imre "Could've at least gotten the purse..."
+# game/v12/scene1a.rpy:203
+translate francais v12s1a_failed_timer_0fe33278:
 
-        scene v12car18 # FPP Show Imre, close to MC as he supports him as they walk out of the alley, Imre smiling with mouth closed
-        with dissolve
+    # charli "I'm sure I'd have a much better chance at beating him than either of you, but he's definitely long gone by now."
+    charli "Je suis sûr que j'aurais plus de chances de le battre que n'importe lequel d'entre vous, mais il est certainement parti depuis longtemps maintenant."
 
-        u "Oh I'm sorry, should I have kindly asked for the bag before or after I got my ass kicked?"
+# game/v12/scene1a.rpy:208
+translate francais v12s1a_failed_timer_a8d171d9:
 
-        scene v12car18a # FPP Same angle as v12car18, Imre laughing with mouth open
-        with dissolve
+    # imre "Ha, pussy."
+    imre "Ha, tapette."
 
-        imre "*Laughs*"
+# game/v12/scene1a.rpy:226
+translate francais v12s1a_failed_timer_c0454360:
 
-        scene v12car19 # FPP Back out on the street, show Charli, neutral expression, mouth open
-        with dissolve
+    # imre "I can't stand that guy."
+    imre "Je supporte pas ce mec."
 
-        charli "There you are. Where's the mugger?"
+# game/v12/scene1a.rpy:228
+translate francais v12s1a_failed_timer_d3a4dd44:
 
-        scene v12car19a # FPP Same angle as v12car19, Charli's mouth closed
-        with dissolve
+    # u "And he can't stand us."
+    u "Et il ne nous supporte pas non plus."
 
-        u "Gone."
+# game/v12/scene1a.rpy:233
+translate francais v12s1a_failed_timer_f60d1f19:
 
-        scene v12car19
-        with dissolve
+    # imre "Don't worry... I'll catch him off guard one of these days and we'll see how tough he really is."
+    imre "T'inquiète pas... J'vais le prendre au dépourvu un d'ces jours et nous verrons à quel point il est fort."
 
-        charli "You let him get away? Where's Nora's bag?"
+# game/v12/scene1a.rpy:238
+translate francais v12s1a_failed_timer_48d98591:
 
-        scene v12car19a
-        with dissolve
+    # u "Shit man, are you selling tickets? I wanna be in the front row for that. *Chuckles*"
+    u "Merde mec, tu vends des billets ? Je veux être au premier rang pour ça. *Rire*"
 
-        u "Do you really think I would just \"let him?\""
+# game/v12/scene1a.rpy:243
+translate francais v12s1a_failed_timer_8a3ce7f1:
 
-        scene v12car20 # FPP Imre stops supporting MC, his hand on Charli's shoulder, pointing back toward the alley, mouth open
-        with dissolve
+    # imre "Haha, I'll consider it. Are you good to get up to your room by yourself?"
+    imre "Haha, j'vais y réfléchir. Tu peux monter dans ta chambre tout seul ?"
 
-        imre "If you wanna try your luck, he's that way."
+# game/v12/scene1a.rpy:248
+translate francais v12s1a_failed_timer_9d9b3d8b:
 
-        scene v12car20a # FPP Same angle as v12car20, Imre smiling with mouth closed, Charli with mouth open
-        with dissolve
+    # u "Yeah man, I'm feeling a lot better. I think he just knocked the wind out of me. Thanks for coming to find me, though. I guess Ryan and Chris were busy, huh?"
+    u "Ouais mec, je me sens beaucoup mieux. Je crois qu'il m'a juste un peu assommé. Merci d'être venu me chercher, en tout cas. Je pense que Ryan et Chris étaient occupés, hein ?"
 
-        charli "I'm sure I'd have a much better chance at beating him than either of you, but he's definitely long gone by now."
+# game/v12/scene1a.rpy:253
+translate francais v12s1a_failed_timer_8ec4364c:
 
-        scene v12car20
-        with dissolve
+    # imre "I didn't even stop to turn and see. I saw you run and just started running too. You guys just got away from me there for a bit."
+    imre "J'me suis même pas arrêté pour me retourner et vérifier. J't'ai vu courir et j'ai commencé à courir aussi. J't'ai juste perdu de vue pendant un moment."
 
-        imre "Ha, pussy."
+# game/v12/scene1a.rpy:258
+translate francais v12s1a_failed_timer_621bc555:
 
-        scene v12car21 # TPP Show MC and Imre walking back along the sidewalk, Charli behind them
-        with dissolve
+    # u "Because you're slow. Don't worry, I get it dude. It's the thought that counts. *Chuckles*"
+    u "Parce que tu es lent. Ne t'inquiète pas, j'ai compris, mec. C'est l'intention qui compte. *Rire*"
 
-        pause 0.75
+# game/v12/scene1a.rpy:263
+translate francais v12s1a_failed_timer_ac6d3935:
 
-        stop music fadeout 3
-        play music "music/v12/Track Scene 1a_3.mp3" fadein 2
+    # imre "Maybe. *Chuckles* But it wasn't hard to find you. That big ass forehead is impossible to miss."
+    imre "Peut-être. *Rire* Mais c'était pas difficile de t'retrouver. Cette énorme tête de cul est impossible à manquer."
 
-        scene v12car100
-        with fade
+# game/v12/scene1a.rpy:268
+translate francais v12s1a_failed_timer_3a150f43:
 
-        pause 0.75
+    # u "*Laughs* Hey, man... At least I have a full head of hair to cover it up a bit. What's your excuse?"
+    u "*Rire* Hé, mec... Au moins j'ai tous mes cheveux pour la cacher un peu. C'est quoi ton excuse ?"
 
-        scene v12car22 # FPP Show Charli walking away from the hotel lobby down the hallway
-        with dissolve
+# game/v12/scene1a.rpy:273
+translate francais v12s1a_failed_timer_9c869877:
 
-        imre "I can't stand that guy."
+    # imre "*Chuckles* Too far, man. Too fucking far..."
+    imre "*Rire* Tu vas trop loin, mec. Bien trop loin, putain..."
 
-        u "And he can't stand us."
+# game/v12/scene1a.rpy:278
+translate francais v12s1a_failed_timer_055aae7d:
 
-        scene v12car23 # FPP Show Imre, standing in hotel lobby, smiling with mouth open
-        with dissolve
+    # u "*Laughs* See ya, dude."
+    u "*Rire* À plus, mon pote."
 
-        imre "Don't worry... I'll catch him off guard one of these days and we'll see how tough he really is."
+# game/v12/scene1a.rpy:283
+translate francais v12s1a_failed_timer_b7fb24bb:
 
-        scene v12car23a # FPP Same angle as v12car23, Imre smiling with mouth closed
-        with dissolve
+    # imre "Haha, later."
+    imre "Haha, à plus."
 
-        u "Shit man, are you selling tickets? I wanna be in the front row for that. *Chuckles*"
+# game/v12/scene1a.rpy:294
+translate francais v12s1a_failed_timer_1760bc8d:
 
-        scene v12car23
-        with dissolve
+    # u "Fucking asshole!"
+    u "Putain de connard !"
 
-        imre "Haha, I'll consider it. Are you good to get up to your room by yourself?"
+# game/v12/scene1a.rpy:315
+translate francais v12s1a_failed_timer_ccf6f62f:
 
-        scene v12car23a
-        with dissolve
+    # u "Bitch!"
+    u "Salope !"
 
-        u "Yeah man, I'm feeling a lot better. I think he just knocked the wind out of me. Thanks for coming to find me, though. I guess Ryan and Chris were busy, huh?"
+# game/v12/scene1a.rpy:318
+translate francais v12s1a_failed_timer_2ebb4c72:
 
-        scene v12car23
-        with dissolve
+    # u "(He's had enough.)"
+    u "(Il en a eu assez.)"
 
-        imre "I didn't even stop to turn and see. I saw you run and just started running too. You guys just got away from me there for a bit."
+# game/v12/scene1a.rpy:323
+translate francais v12s1a_failed_timer_5cf071a8:
 
-        scene v12car23a
-        with dissolve
+    # imre "*Heavy breathing* You got the purse, good."
+    imre "*Respiration lourde* T'as le sac, bien."
 
-        u "Because you're slow. Don't worry, I get it dude. It's the thought that counts. *Chuckles*"
+# game/v12/scene1a.rpy:328
+translate francais v12s1a_failed_timer_b138070c:
 
-        scene v12car23
-        with dissolve
+    # u "Did you doubt me? *Chuckles*"
+    u "Tu as douté de moi ? *Rire*"
 
-        imre "Maybe. *Chuckles* But it wasn't hard to find you. That big ass forehead is impossible to miss."
+# game/v12/scene1a.rpy:333
+translate francais v12s1a_failed_timer_a06b3a1f:
 
-        scene v12car23a
-        with dissolve
+    # imre "Nah, I knew I had no reason to worry. I was just coming to back you up."
+    imre "Nan, j'savais que j'avais aucune raison de m'inquiéter. J'étais juste venu pour t'soutenir."
 
-        u "*Laughs* Hey, man... At least I have a full head of hair to cover it up a bit. What's your excuse?"
+# game/v12/scene1a.rpy:338
+translate francais v12s1a_failed_timer_af0e8afa:
 
-        scene v12car23
-        with dissolve
+    # u "Haha, I appreciate that. Where's everyone else?"
+    u "Haha, merci. Où sont les autres ?"
 
-        imre "*Chuckles* Too far, man. Too fucking far..."
+# game/v12/scene1a.rpy:343
+translate francais v12s1a_failed_timer_ead0bb4a:
 
-        scene v12car23a
-        with dissolve
+    # imre "Most of them went back to the hotel. They tried staying with Nora but she told them to go."
+    imre "La plupart d'entre eux sont retournés à l'hôtel. Ils ont essayé d'rester avec Nora mais elle leur a dit d'partir."
 
-        u "*Laughs* See ya, dude."
+# game/v12/scene1a.rpy:348
+translate francais v12s1a_failed_timer_a9550053:
 
-        scene v12car22a # FPP Same angle as v12car22, Imre walking away down the hallway, turning and waving at MC, Imre smiling with mouth open
-        with dissolve
+    # u "\"Most?\" Who stayed with her?"
+    u "\"La plupart\" ? Qui est resté avec elle ?"
 
-        imre "Haha, later."
+# game/v12/scene1a.rpy:353
+translate francais v12s1a_failed_timer_bd57b6e5:
 
-        scene v12car24 # TPP Show MC walking down the hallway to his room
-        with dissolve
+    # imre "I'm sure you can guess who. His name rhymes with bitch boy."
+    imre "J'suis sûr qu'tu peux deviner qui. Son nom rime avec chienlit."
 
-        pause 0.75
+# game/v12/scene1a.rpy:358
+translate francais v12s1a_failed_timer_055f2b18:
 
-    else:
-        scene v12car13a # FPP Same angle as v12car13, show robber laying on the ground next to Nora's bag, writhing in pain
-        with dissolve
+    # u "(Rhymes with \"bitch boy?\" Oh...) *Laughs* Charli?"
+    u "(rime avec \"chienlit\" ?) Oh... *Rire* Charli ?"
 
-        u "Fucking asshole!"
+# game/v12/scene1a.rpy:363
+translate francais v12s1a_failed_timer_cd02b8b6:
 
-        stop music fadeout 3
-        play music "music/v12/Track Scene 1a_2.mp3" fadein 2
+    # imre "Bingo! *Laughs*"
+    imre "Bingo ! *Rire*"
 
-        scene v12car16a # TPP Same angle as v12car16, show MC reaching down to robber on the ground and grabbing Nora's bag
-        with dissolve
+# game/v12/scene1a.rpy:373
+translate francais v12s1a_failed_timer_a4b9b526:
 
-        pause 0.75
+    # imre "Your hero has arrived!"
+    imre "Ton héros est arrivé !"
 
-        scene v12car13b # FPP Same angle as v12car13, robber laying on the ground in pain, Nora's bag is gone
-        with dissolve
+# game/v12/scene1a.rpy:378
+translate francais v12s1a_failed_timer_e5b839ef:
 
-        menu:
-            "Kick him":
-                $ add_point(KCT.TROUBLEMAKER)
-                scene v12car16b # TPP Same angle as v12car16, show MC kicking robber
-                with dissolve
-                play sound "sounds/facepunch1.mp3"
+    # no "Oh my God, you actually got my bag!"
+    no "Oh merde, tu as vraiment récupéré mon sac !"
 
+# game/v12/scene1a.rpy:383
+translate francais v12s1a_failed_timer_31b99011:
 
-                u "Bitch!"
+    # imre "He sure did. He also taught that guy a lesson with a little Ali treatment."
+    imre "Bien sûr qu'il l'a fait. Il a aussi donné une leçon à c'type avec une méthode spéciale à la Ali."
 
-            "Walk off":
-                u "(He's had enough.)"
+# game/v12/scene1a.rpy:388
+translate francais v12s1a_failed_timer_a915f958:
 
-        scene v12car25 # FPP Show Imre, in alley, Imre looks winded, mouth open
-        with dissolve
+    # no "*Chuckles*"
+    no "*Rire*"
 
-        imre "*Heavy breathing* You got the purse, good."
+# game/v12/scene1a.rpy:393
+translate francais v12s1a_failed_timer_83de5a6a:
 
-        scene v12car25a # FPP Same angle as v12car25, Imre smiling with mouth closed
-        with dissolve
+    # u "Here you go."
+    u "Voilà."
 
-        u "Did you doubt me? *Chuckles*"
+# game/v12/scene1a.rpy:398
+translate francais v12s1a_failed_timer_1d59cae3:
 
-        scene v12car25b # FPP Same angle as v12car25, Imre smiling with mouth open
-        with dissolve
+    # no "Th-Thank you [name]. That was really sweet of you. This means a lot."
+    no "Mer-Merci [name]. C'était vraiment gentil de ta part. Ça représente beaucoup pour moi."
 
-        imre "Nah, I knew I had no reason to worry. I was just coming to back you up."
+# game/v12/scene1a.rpy:403
+translate francais v12s1a_failed_timer_53e81398:
 
-        scene v12car25a
-        with dissolve
+    # u "No need to thank me, but you're very welcome. I don't normally see you with a bag so I assumed since you had one you must've been carrying something important with you."
+    u "Pas besoin de me remercier, mais je t'en prie. Je n'ai pas l'habitude de te voir avec un sac, alors j'ai pensé que puisque tu en avais un, tu devais transporter quelque chose d'important avec toi."
 
-        u "Haha, I appreciate that. Where's everyone else?"
+# game/v12/scene1a.rpy:408
+translate francais v12s1a_failed_timer_88a2a2c9:
 
-        scene v12car25b
-        with dissolve
+    # no "Well... Your assumption isn't wrong."
+    no "Eh bien... Ta supposition n'est pas fausse."
 
-        imre "Most of them went back to the hotel. They tried staying with Nora but she told them to go."
+# game/v12/scene1a.rpy:413
+translate francais v12s1a_failed_timer_52d7d917:
 
-        scene v12car25a
-        with dissolve
+    # imre "You know, I don't mind taking rainbow unicorn boy back to the hotel if you two wanna hang back and talk about my boy's heroic moment a bit longer. *Laughs*"
+    imre "T'sais, ça m'dérange pas d'ramener le gamin licorne arc-en-ciel à l'hôtel, si vous voulez rester et parler du moment héroïque d'mon poulain un peu plus longtemps. *Rire*"
 
-        u "\"Most?\" Who stayed with her?"
+# game/v12/scene1a.rpy:418
+translate francais v12s1a_failed_timer_c1525ed9:
 
-        scene v12car25b
-        with dissolve
+    # charli "After what just occurred, splitting up doesn't seem like the wisest decision."
+    charli "Après ce qui vient de se passer, se séparer ne semble pas être la décision la plus sage."
 
-        imre "I'm sure you can guess who. His name rhymes with bitch boy."
+# game/v12/scene1a.rpy:423
+translate francais v12s1a_failed_timer_3f6dcc18:
 
-        scene v12car25a
-        with dissolve
+    # no "If we did split up it's obvious [name] can handle himself, but for your sake Charli, we'll all walk back together."
+    no "Si nous nous séparons, il est évident que [name] peut se débrouiller tout seul, mais pour ton bien Charli, nous allons tous rentrer ensemble."
 
-        u "(Rhymes with \"bitch boy?\" Oh...) *Laughs* Charli?"
+# game/v12/scene1a.rpy:428
+translate francais v12s1a_failed_timer_5bcdf210:
 
-        scene v12car25c # FPP Same angle as v12car25, Imre laughing with mouth open
-        with dissolve
+    # u "(Damn... roasted!)"
+    u "(Et bam... dans ta face !)"
 
-        imre "Bingo! *Laughs*"
+# game/v12/scene1a.rpy:446
+translate francais v12s1a_failed_timer_2a27bfd4:
 
-        scene v12car26 # TPP Show MC and Imre walking up to Nora and Charli, Charli has his hand on Nora's shoulder
-        with dissolve
+    # imre "I may just have to put you in the top tier fighters on campus after that. He was a pretty big dude."
+    imre "J'vais peut-être devoir t'mettre dans le top des combattants du campus après ça. C'était un gars plutôt costaud."
 
-        pause 0.75
+# game/v12/scene1a.rpy:451
+translate francais v12s1a_failed_timer_a3c6f9c2:
 
-        scene v12car27 # FPP Back out on the street, show Imre, looking over toward Nora and Charli, Imre smiling with mouth open
-        with dissolve
+    # u "Was I not top tier already? *Chuckles*"
+    u "J'étais pas déjà au top niveau ? *Rire*"
 
-        imre "Your hero has arrived!"
+# game/v12/scene1a.rpy:456
+translate francais v12s1a_failed_timer_25cb55bd:
 
-        scene v12car28 # FPP Show Nora looking at MC and Imre, smiling with mouth open
-        with dissolve
+    # imre "I don't think so, but maybe now. I'll have to speak with the best fighters commission."
+    imre "J'pense pas, mais peut-être qu'à partir de maintenant. J'vais devoir parler avec la commission des meilleurs combattants."
 
-        no "Oh my God, you actually got my bag!"
+# game/v12/scene1a.rpy:461
+translate francais v12s1a_failed_timer_3d97d177:
 
-        scene v12car27
-        with dissolve
+    # u "Who's on the commission?"
+    u "Qui fait partie de la commission ?"
 
-        imre "He sure did. He also taught that guy a lesson with a little Ali treatment."
+# game/v12/scene1a.rpy:466
+translate francais v12s1a_failed_timer_f19c8b85:
 
-        scene v12car28a # FPP Same angle as v12car28, Nora closer to MC and away from Charli, Nora smiling with mouth closed, MC is holding her bag out to her
-        with dissolve
+    # imre "Only the best fighters on campus. Imre, Imre and Imre. *Laughs*"
+    imre "Seulement les meilleurs combattants du campus. Imre, Imre et Imre. *Rire*"
 
-        no "*Chuckles*"
+# game/v12/scene1a.rpy:471
+translate francais v12s1a_failed_timer_c5bc4b6f:
 
-        u "Here you go."
+    # u "*Laughs* Goodnight man."
+    u "*Rire* Bonne nuit mon pote."
 
-        scene v12car28b # FPP Same angle as v12car28, Nora standing close to MC, smiling with mouth open
-        with dissolve
+# game/v12/scene1a.rpy:476
+translate francais v12s1a_failed_timer_63855147:
 
-        no "Th-Thank you [name]. That was really sweet of you. This means a lot."
+    # imre "Haha, you too."
+    imre "Haha, toi aussi."
 
-        scene v12car28c # FPP Same angle as v12car28, Nora standing close to MC, smiling with mouth closed
-        with dissolve
+# game/v12/scene1a.rpy:494
+translate francais v12s1a_failed_timer_61b6b94b:
 
-        u "No need to thank me, but you're very welcome. I don't normally see you with a bag so I assumed since you had one you must've been carrying something important with you."
+    # u "(*Sighs* I wonder where the roomie went.)"
+    u "(*Soupirs* Je me demande où est passée ma colocataire.)"
 
-        scene v12car28b
-        with dissolve
+# game/v12/scene1a.rpy:504
+translate francais v12s1a_failed_timer_d786b6e3:
 
-        no "Well... Your assumption isn't wrong."
+    # u "(Why would some random dude try and steal a bag from someone who's obviously in a group? That just stupid... Then there's Charli... I swear he can't just be a normal person... Definitely a weird ass dude.)"
+    u "(Pourquoi un mec seul essaierait-il de voler le sac de quelqu'un qui est manifestement dans un groupe ? C'est juste stupide... Et puis il y a Charli... Je jure qu'il ne peut pas être une bonne personne... C'est vraiment un mec chelou)."
 
-        scene v12car27
-        with dissolve
+# game/v12/scene1a.rpy:514
+translate francais v12s1a_failed_timer_9d6c7bea:
 
-        imre "You know, I don't mind taking rainbow unicorn boy back to the hotel if you two wanna hang back and talk about my boy's heroic moment a bit longer. *Laughs*"
+    # u "You chased a robber, my guy! A robber! You could've died! *Chuckles*"
+    u "Tu as poursuivi un voleur, mon gars ! Un voleur ! Tu aurais pu mourir ! *Rire*"
 
-        scene v12car29 # FPP Show Charli out on the street, Charli with annoyed expression, mouth open
-        with dissolve
+# game/v12/scene1a.rpy:515
+translate francais v12s1a_failed_timer_f205468e:
 
-        charli "After what just occurred, splitting up doesn't seem like the wisest decision."
+    # u "(Haha, little self pep talk.)"
+    u "(Haha, petit discours pour s'encourager soi-même.)"
 
-        scene v12car28d # FPP Same angle as v12car28, Nora standing close to MC but looking back at Charli, Nora's mouth open
-        with dissolve
+translate francais strings:
 
-        no "If we did split up it's obvious [name] can handle himself, but for your sake Charli, we'll all walk back together."
+    # game/v12/scene1a.rpy:76
+    old "Huh"
+    new "Hein"
 
-        scene v12car29a # FPP Same angle as v12car29, Charli looks annoyed with mouth closed
-        with dissolve
+    # game/v12/scene1a.rpy:307
+    old "Walk off"
+    new "Partir"
 
-        u "(Damn... roasted!)"
+    # game/v12/scene1a.rpy:528
+    old "Would your man chase a robber down in the middle of the night? If not, you don't have a real man..."
+    new "Et votre mec poursuivrait-il un voleur au milieu de la nuit ? Si non, vous n'avez pas un vrai mec..."
 
-        scene v12car21a # TPP Same angle as v12car21, show MC and Nora walking back toward the hotel, Imre and Charli behind them, Imre grinning and Charli looking annoyed
-        with dissolve
+    # game/v12/scene1a.rpy:529
+    old "If you want a man Imre I can take you to a few bars... All you had to do was ask."
+    new "Si tu veux un mec Imre, je peux t'emmener dans quelques bars... Il suffisait de demander."
 
-        pause 0.75
-
-        scene v12car22b # FPP Same angle as v12car22, Nora and Charli walking away from the hotel lobby down the hallway
-        with dissolve
-
-        pause 0.75
-
-        stop music fadeout 3
-        play music "music/v12/Track Scene 1a_3.mp3" fadein 2
-
-        scene v12car23
-        with dissolve
-
-        imre "I may just have to put you in the top tier fighters on campus after that. He was a pretty big dude."
-
-        scene v12car23a
-        with dissolve
-
-        u "Was I not top tier already? *Chuckles*"
-
-        scene v12car23
-        with dissolve
-
-        imre "I don't think so, but maybe now. I'll have to speak with the best fighters commission."
-
-        scene v12car23a
-        with dissolve
-
-        u "Who's on the commission?"
-
-        scene v12car23
-        with dissolve
-
-        imre "Only the best fighters on campus. Imre, Imre and Imre. *Laughs*"
-
-        scene v12car23a
-        with dissolve
-
-        u "*Laughs* Goodnight man."
-
-        scene v12car22a
-        with dissolve
-
-        imre "Haha, you too."
-
-        scene v12car24
-        with dissolve
-
-        pause 0.75
-
-    stop music fadeout 3
-    play music "music/v11/Track Scene 6.mp3" fadein 2
-
-    scene v12car30 # TPP Show MC sitting on his bed in the hotel room
-    with dissolve
-
-    pause 0.75
-
-    scene v12car31 # FPP Show MC's view of the inside of closed hotel room door
-    with dissolve
-
-    u "(*Sighs* I wonder where the roomie went.)"
-
-    scene v12car32 # TPP Show MC laying back on hotel room bed
-    with dissolve
-
-    pause 0.75
-
-    scene v12car33 # FPP Show MC's view up at the hotel room ceiling from laying on his bed
-    with dissolve
-
-    u "(Why would some random dude try and steal a bag from someone who's obviously in a group? That just stupid... Then there's Charli... I swear he can't just be a normal person... Definitely a weird ass dude.)"
-
-    scene v12car34 # TPP Show MC looking at himself in the hotel room mirror
-    with dissolve
-
-    pause 0.75
-
-    scene v12car65 # FPP MC looking down at his fists, his knuckles are bruised and bloody from the fight
-    with dissolve
-    
-    u "You chased a robber, my guy! A robber! You could've died! *Chuckles*"
-    u "(Haha, little self pep talk.)"
-
-    scene v12car30
-    with dissolve
-
-    play sound "sounds/vibrate.mp3"
-    pause 1.25
-
-    scene v12car30a # TPP Same angle as v12car30, MC sitting on the hotel room bed and checking his phone
-    with dissolve
-
-    pause 0.75
-
-    $ v12s1a_kiwiiPost1 = KiwiiPost(imre, "v12/impost1.webp", _("Would your man chase a robber down in the middle of the night? If not, you don't have a real man..."), numberLikes=216)
-    $ v12s1a_kiwiiPost1.newComment(charli, _("If you want a man Imre I can take you to a few bars... All you had to do was ask."), numberLikes=14, force_send=True)
-    $ v12s1a_kiwiiPost1.newComment(ryan, _("LMAO"), numberLikes=1, mentions=[imre], force_send=True)
-
-    $ imre.messenger.newMessage("Check Kiwii... you're welcome. :)", force_send=True)
-    $ imre.messenger.addReply("Haha okay", func=None)
-
-    call screen phone
-
-    # MC checks Kiwii and there's a picture of MC running after the robber posted by Imre 
-    # caption "Would your man chase a robber down in the middle of the night? If not, you don't have a real man..."
-    # There's a comment from Charli that says "If you want a man Imre I can take you to a few bars, all you had to do was ask."
-    
-    # MC replies back to Imre-
-    $ imre.messenger.addReply("Boosting me huh?", func=None)
-    $ imre.messenger.newMessage("You deserved it")
-    $ imre.messenger.addReply("You see Charli's comment?", func=None)
-    $ imre.messenger.newMessage("No, one sec")
-    $ imre.messenger.newMessage("I'm gonna beat his ass")
-    $ imre.messenger.addReply("Haha", func=None)
-
-    scene v12car30a
-    with dissolve
-    pause 0.75
-    call screen phone
-    
-    scene v12car30b # TPP Same angle as v12car30, MC sitting on bed, putting his phone away in his pocket
-    with dissolve
-
-    pause 0.75
-
-    # -MC hears a knock on his door-
-
-    play sound "sounds/knock.mp3"
-    pause 0.75
-
-    stop music fadeout 3
-
-    jump v12_nora_checks_mc # jump scene 2
+    # game/v12/scene1a.rpy:530
+    old "LMAO"
+    new "MDR"

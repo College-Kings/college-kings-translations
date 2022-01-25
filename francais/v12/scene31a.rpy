@@ -1,127 +1,127 @@
-# SCENE 31a: MC woken up by Aubrey (Riley)
-# Locations: Hotel Room
-# Characters: AUBREY (Outfit: 3), MC (Outfit: 2), RILEY (Outfit: 4)
-# Time: Morning
-# Phone Images: None
+﻿# TODO: Translation updated at 2021-12-31 15:48
 
-label v12_aubrey_wake_up_ri:
-    scene black
-    with vpunch
+# game/v12/scene31a.rpy:11
+translate francais v12_aubrey_wake_up_ri_7b10314c:
 
-    au "Hey, wake up!"
+    # au "Hey, wake up!"
+    au "Hé, réveille-toi !"
 
-    play music "music/v12/Track Scene 31.mp3" fadein 2
+# game/v12/scene31a.rpy:18
+translate francais v12_aubrey_wake_up_ri_2a460796:
 
-    scene v12auwr1 # FPP. MC lying in his bed, Aubrey standing next to him, MC and Aubrey looking at each other, Aubrey slight smile, mouth closed
-    with dissolve
+    # u "Aubr- What? How'd you get in here?"
+    u "Aubr- Quoi ? Comment t'es entré là ?"
 
-    u "Aubr- What? How'd you get in here?"
+# game/v12/scene31a.rpy:23
+translate francais v12_aubrey_wake_up_ri_c490d0da:
 
-    scene v12auwr1a # FPP. Same as v12auwr1, Aubrey slight smile, mouth open
-    with dissolve
+    # au "Riley let me in. *Chuckles*"
+    au "Riley m'a laissé entrer. *Rire*"
 
-    au "Riley let me in. *Chuckles*"
+# game/v12/scene31a.rpy:28
+translate francais v12_aubrey_wake_up_ri_25ac1e8b:
 
-    scene v12auwr1a
-    with dissolve
+    # au "I know I forgot to tell you, but I need you to hurry up and get dressed. My sister's shoot is in thirty minutes."
+    au "Je sais que j'ai oublié de te prévenir, mais j'ai besoin que tu te dépêches de t'habiller. Le photoshoot de ma soeur est dans 30 minutes."
 
-    au "I know I forgot to tell you, but I need you to hurry up and get dressed. My sister's shoot is in thirty minutes."
+# game/v12/scene31a.rpy:33
+translate francais v12_aubrey_wake_up_ri_7bd38a42:
 
-    scene v12auwr1
-    with dissolve
+    # u "Wait... What shoot?"
+    u "Attends... Quel photoshoot ?"
 
-    u "Wait... What shoot?"
+# game/v12/scene31a.rpy:38
+translate francais v12_aubrey_wake_up_ri_f574c453:
 
-    scene v12auwr1a
-    with dissolve
+    # au "The photoshoot at Lew's that I told you about? Now hurry up!"
+    au "Le photoshoot chez Lew dont je t'ai parlé ! Maintenant, dépêche-toi !"
 
-    au "The photoshoot at Lew's that I told you about? Now hurry up!"
+# game/v12/scene31a.rpy:43
+translate francais v12_aubrey_wake_up_ri_57ae9944:
 
-    scene v12auwr2 # TPP. Show MC getting out of his bed, slightly annoyed, mouth closed
-    with dissolve
+    # u "*Sighs*"
+    u "*Soupirs*"
 
-    u "*Sighs*"
+# game/v12/scene31a.rpy:53
+translate francais v12_aubrey_wake_up_ri_31e2f95b:
 
-    scene v12auwr3 # TPP. Show MC walking over to the dresser, MC slightly annoyed, mouth closed
-    with dissolve
+    # ri "He's been too busy stealing other people's shit to remember anything else."
+    ri "Il a été trop occupé à voler les merdes des autres pour se souvenir d'autre chose."
 
-    pause 0.75
+# game/v12/scene31a.rpy:58
+translate francais v12_aubrey_wake_up_ri_3954b6f7:
 
-    scene v12auwr4 # FPP. MC in front of the dresser, Aubrey and Riley sitting on Riley's bed. MC looking at Riley, Riley looking at Aubrey, Riley angry, mouth open (Only Riley in shot)
-    with dissolve
+    # au "Huh?"
+    au "Hein ?"
 
-    ri "He's been too busy stealing other people's shit to remember anything else."
+# game/v12/scene31a.rpy:63
+translate francais v12_aubrey_wake_up_ri_3b124a85:
 
-    scene v12auwr5 # FPP. Same positioning as v12auwr4, MC looking at Aubrey, Aubrey looking at Riley, Aubrey confused, mouth open (Only Aubrey in shot)
-    with dissolve
+    # u "Ignore her. She's convinced that I'm the one who stole and hung her picture up in the lobby."
+    u "Ignore-la. Elle est persuadée que c'est moi qui ai volé et accroché sa photo dans le hall."
 
-    au "Huh?"
+# game/v12/scene31a.rpy:68
+translate francais v12_aubrey_wake_up_ri_c960024f:
 
-    scene v12auwr5a # FPP. Same as v12auwr5, Aubrey looking at MC, Aubrey slightly confused, mouth closed
-    with dissolve
+    # u "When she realizes it wasn't me, she'll be all sorry and shit... So, I'm just ignoring the attitude for now."
+    u "Quand elle réalisera enfin que ce n'était pas moi, elle sera désolée et tout... Donc, je vais juste ignorer son attitude pour le moment."
 
-    u "Ignore her. She's convinced that I'm the one who stole and hung her picture up in the lobby."
+# game/v12/scene31a.rpy:73
+translate francais v12_aubrey_wake_up_ri_68149dad:
 
-    scene v12auwr4a # FPP. Same as v12auwr4, Riley looking at MC, Riley angry, mouth closed
-    with dissolve
+    # ri "He's the only one that knew about it."
+    ri "C'est le seul qui était au courant."
 
-    u "When she realizes it wasn't me, she'll be all sorry and shit... So, I'm just ignoring the attitude for now."
+# game/v12/scene31a.rpy:78
+translate francais v12_aubrey_wake_up_ri_460c4506:
 
-    scene v12auwr4
-    with dissolve
+    # u "I also wasn't here at the hotel when it happened."
+    u "Je n'étais pas non plus à l'hôtel quand c'est arrivé."
 
-    ri "He's the only one that knew about it."
+# game/v12/scene31a.rpy:83
+translate francais v12_aubrey_wake_up_ri_1bc7b16e:
 
-    scene v12auwr4a
-    with dissolve
+    # ri "I don't know how you did it, but you did."
+    ri "Je ne sais pas comment tu as fait, mais tu l'as fait."
 
-    u "I also wasn't here at the hotel when it happened."
+# game/v12/scene31a.rpy:88
+translate francais v12_aubrey_wake_up_ri_369a983f:
 
-    scene v12auwr4b # FPP. Same as v12auwr4a, Riley angry, mouth open
-    with dissolve
+    # u "On that note, let's go. We're in a rush right?"
+    u "Sur cette remarque, allons-y. On est pressé, non ?"
 
-    ri "I don't know how you did it, but you did."
+# game/v12/scene31a.rpy:93
+translate francais v12_aubrey_wake_up_ri_58a7f273:
 
-    scene v12auwr5a
-    with dissolve
+    # au "Umm, yeah."
+    au "Hum, ouais."
 
-    u "On that note, let's go. We're in a rush right?"
+# game/v12/scene31a.rpy:98
+translate francais v12_aubrey_wake_up_ri_d5ffdc7b:
 
-    scene v12auwr5b # FPP. Same as v12auwr5a, Aubrey slightly confused, mouth open
-    with dissolve
+    # au "*Whisper* Hey Riley, maybe try and do a little investigating before jumping to conclusions, yeah? Let's not point fingers at the guy who's been good to both of us, without all the evidence."
+    au "*Chuchote* Hey Riley, essaie peut-être de faire une petite enquête avant de sauter aux conclusions, ok ? Ne pointons pas du doigt le mec qui a toujours été bon pour nous deux, sans avoir toutes les preuves."
 
-    au "Umm, yeah."
+# game/v12/scene31a.rpy:103
+translate francais v12_aubrey_wake_up_ri_7a452fdc:
 
-    scene v12auwr5
-    with dissolve
+    # ri "Yeah, yeah. I'll think about it."
+    ri "Ouais, ouais. Je vais y penser."
 
-    au "*Whisper* Hey Riley, maybe try and do a little investigating before jumping to conclusions, yeah? Let's not point fingers at the guy who's been good to both of us, without all the evidence."
+# game/v12/scene31a.rpy:108
+translate francais v12_aubrey_wake_up_ri_74191c61:
 
-    scene v12auwr4
-    with dissolve
+    # u "You coming?"
+    u "Tu viens ?"
 
-    ri "Yeah, yeah. I'll think about it."
+# game/v12/scene31a.rpy:113
+translate francais v12_aubrey_wake_up_ri_5c503d1c:
 
-    scene v12auwr5c # FPP. Same as v12auwr5a, Aubrey slight smile, mouth closed
-    with dissolve
+    # au "Yeah!"
+    au "Ouais !"
 
-    u "You coming?"
+# game/v12/scene31a.rpy:118
+translate francais v12_aubrey_wake_up_ri_fe0f2882:
 
-    scene v12auwr5d # FPP. Same as v12auwr5c, Aubrey slight smile, mouth open
-    with dissolve
-
-    au "Yeah!"
-
-    scene v12auwr5e # FPP. Same as v12auwr5, Aubrey slight smile, mouth open
-    with dissolve
-
-    au "See you later, babes!"
-
-    scene v12auwr6 # TPP. Show Aubrey and MC leaving the hotel room, both slight smiles, mouths closed
-    with dissolve
-
-    pause 0.75
-
-    stop music fadeout 3
-
-    jump v12s32 #scene 32
+    # au "See you later, babes!"
+    au "À plus tard, ma chérie !"

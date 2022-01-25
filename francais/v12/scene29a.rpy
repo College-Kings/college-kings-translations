@@ -1,952 +1,785 @@
-# SCENE 29a: Late Night Workout in the Gym with Lindsey
-# Locations: Hotel, gym
-# Characters: LINDSEY (Outfit: 1), MC (Outfit: 3)
-# Time: Night
-# Phone Images: 
+﻿# TODO: Translation updated at 2021-12-31 15:27
 
-label v12_late_night_workout:
-    scene v12lnw1 # TPP Show MC in hotel lobby, sitting by himself, Lindsey walking up to him and waving, Lindsey with mouth open
-    with dissolve
+# game/v12/scene29a.rpy:11
+translate francais v12_late_night_workout_9da083c5:
 
-    li "What are you doing down here all by yourself?"
+    # li "What are you doing down here all by yourself?"
+    li "Que fais-tu ici tout seul ?"
 
-    play music "music/v12/Track Scene 29_1.mp3" fadein 2
+# game/v12/scene29a.rpy:19
+translate francais v12_late_night_workout_4be42829:
 
-    if joinwolves:
-        scene v12lnw2 # FPP Show Lindsey, looking at MC, neutral expression with mouth closed
-        with dissolve
+    # u "I just got back from hanging out with Imre."
+    u "Je viens de rentrer après avoir traîné avec Imre."
 
-        u "I just got back from hanging out with Imre."
+# game/v12/scene29a.rpy:25
+translate francais v12_late_night_workout_a35fa398:
 
-    else:
-        scene v12lnw2
-        with dissolve
+    # u "I just got back from hanging out with Ryan."
+    u "Je viens de rentrer après avoir traîné avec Ryan."
 
-        u "I just got back from hanging out with Ryan."
+# game/v12/scene29a.rpy:30
+translate francais v12_late_night_workout_e408b722:
 
-    scene v12lnw2a # FPP Same angle as v12lnw2, Lindsey with mouth open
-    with dissolve
+    # li "Gotcha, gotcha. Are you getting ready to go to bed?"
+    li "Je vois, je vois. Tu te prépares à aller au lit ?"
 
-    li "Gotcha, gotcha. Are you getting ready to go to bed?"
+# game/v12/scene29a.rpy:35
+translate francais v12_late_night_workout_3ce714e4:
 
-    scene v12lnw2
-    with dissolve
+    # u "I'm not sure what I'm doing. Today's been pretty impactful, but I'm honestly not even tired."
+    u "Je ne suis pas sûr de ce que je vais faire. La journée a été assez mouvementée, mais honnêtement, je ne suis pas du tout fatigué."
 
-    u "I'm not sure what I'm doing. Today's been pretty impactful, but I'm honestly not even tired."
+# game/v12/scene29a.rpy:40
+translate francais v12_late_night_workout_71326526:
 
-    scene v12lnw2a
-    with dissolve
+    # li "Want to go to the gym with me?"
+    li "Tu veux aller à la gym avec moi ?"
 
-    li "Want to go to the gym with me?"
+# game/v12/scene29a.rpy:45
+translate francais v12_late_night_workout_106a3c0a:
 
-    scene v12lnw2
-    with dissolve
+    # u "Are the gyms even open? It's super late. Plus, I'm not in gym clothes."
+    u "Les salles de gym sont-elles au moins ouvertes ? Il est super tard. En plus, je ne suis pas en tenue de sport."
 
-    u "Are the gyms even open? It's super late. Plus, I'm not in gym clothes."
+# game/v12/scene29a.rpy:50
+translate francais v12_late_night_workout_55bdf364:
 
-    scene v12lnw2a
-    with dissolve
+    # li "They're twenty-four hours, I checked. I wanna go blow off some steam, but I'd rather not go out this late by myself. And you're dressed fine."
+    li "Elles sont ouvertes 24 heures sur 24, j'ai vérifié. Je veux aller me défouler, mais je préfère ne pas sortir toute seule à cette heure-ci. Et tu es bien habillé."
 
-    li "They're twenty-four hours, I checked. I wanna go blow off some steam, but I'd rather not go out this late by myself. And you're dressed fine."
+# game/v12/scene29a.rpy:55
+translate francais v12_late_night_workout_3ba2ef65:
 
-    scene v12lnw2
-    with dissolve
+    # u "So you want big and strong [name] to accompany you so you don't have to go by yourself?"
+    u "Tu veux donc que le grand et fort [name] t'accompagne pour que tu n'aies pas à y aller toute seule ?"
 
-    u "So you want big and strong [name] to accompany you so you don't have to go by yourself?"
+# game/v12/scene29a.rpy:60
+translate francais v12_late_night_workout_bcf775f2:
 
-    scene v12lnw2b # FPP Same angle as v12lnw2, Linsdsey smiling with mouth open
-    with dissolve
+    # li "*Chuckles* It'd be nice if you would."
+    li "*Rire* Ce serait bien si tu voulais."
 
-    li "*Chuckles* It'd be nice if you would."
+# game/v12/scene29a.rpy:70
+translate francais v12_late_night_workout_1db6bd29:
 
-    scene v12lnw1a # TPP Same angle as v12lnw1, MC getting to his feet and looking at Lindsey, who is standing nearby with her mouth closed
-    with dissolve
+    # u "*Sighs* C'mon then."
+    u "*Soupirs* Alors allons-y."
 
-    pause 0.75
+# game/v12/scene29a.rpy:75
+translate francais v12_late_night_workout_bb2788d0:
 
-    scene v12lnw3 # FPP Show Lindsey, looking at MC who is now standing, Lindsey smiling with mouth closed
-    with dissolve
+    # li "You'll really go with me?"
+    li "Tu vas vraiment y aller avec moi ?"
 
-    u "*Sighs* C'mon then."
+# game/v12/scene29a.rpy:80
+translate francais v12_late_night_workout_505a3f68:
 
-    scene v12lnw3a # FPP Same angle as v12lnw3, Lindsey smiling with mouth open
-    with dissolve
+    # u "Yeah."
+    u "Ouais."
 
-    li "You'll really go with me?"
+# game/v12/scene29a.rpy:85
+translate francais v12_late_night_workout_2ceaf98f:
 
-    scene v12lnw3
-    with dissolve
+    # li "Oh my gosh, thanks. I just knew you were gonna say no."
+    li "Oh là là, merci. Je pensais que tu allais refuser."
 
-    u "Yeah."
+# game/v12/scene29a.rpy:90
+translate francais v12_late_night_workout_8e0dec03:
 
-    scene v12lnw3a
-    with dissolve
+    # u "Why would I say no?"
+    u "Pourquoi j'aurais dit non ?"
 
-    li "Oh my gosh, thanks. I just knew you were gonna say no."
+# game/v12/scene29a.rpy:95
+translate francais v12_late_night_workout_8aafafbf:
 
-    scene v12lnw3
-    with dissolve
+    # li "Well, like you said, it's really late."
+    li "Eh bien, comme tu l'as dit, il est vraiment tard."
 
-    u "Why would I say no?"
+# game/v12/scene29a.rpy:100
+translate francais v12_late_night_workout_582abc31:
 
-    scene v12lnw3a
-    with dissolve
+    # u "Lucky you, I'm not tired."
+    u "Tu as de la chance, je ne suis pas fatigué."
 
-    li "Well, like you said, it's really late."
+# game/v12/scene29a.rpy:105
+translate francais v12_late_night_workout_d7f8a3e5:
 
-    scene v12lnw3
-    with dissolve
+    # li "Haha, lucky me."
+    li "Haha, oui, j'ai de la chance."
 
-    u "Lucky you, I'm not tired."
+# game/v12/scene29a.rpy:123
+translate francais v12_late_night_workout_464ea082:
 
-    scene v12lnw3a
-    with dissolve
+    # li "Oh wow, this is so nice. This is nothing like what I expected."
+    li "Oh wow, c'est vraiment sympa. Ça ne ressemble en rien de ce à quoi je m'attendais."
 
-    li "Haha, lucky me."
+# game/v12/scene29a.rpy:128
+translate francais v12_late_night_workout_b486b60a:
 
-    scene v12lnw4 # TPP Show MC and Lindsey walking out of hotel lobby into the night
-    with dissolve
+    # u "*Chuckles* You look like a kid at a chocolate factory. This is no different than any other gym really."
+    u "*Rire* Tu as l'air d'un enfant dans une chocolaterie. Ce n'est pas différent de n'importe quelle autre salle de gym, vraiment."
 
-    pause 0.75
+# game/v12/scene29a.rpy:133
+translate francais v12_late_night_workout_589e384b:
 
-    scene v12lnw5 # TPP Show MC and Lindsey arriving at gym, which has lights on inside
-    with dissolve
+    # li "I wouldn't know."
+    li "Je ne sais pas."
 
-    pause 0.75
+# game/v12/scene29a.rpy:138
+translate francais v12_late_night_workout_9af9c6aa:
 
-    stop music fadeout 3
-    play music "music/v12/Track Scene 29a_1.mp3" fadein 2
+    # u "What do you mean you wouldn't know?"
+    u "Comment ça, tu ne le sais pas ?"
 
-    scene v12lnw6 # TPP Show MC and Lindsey, now inside gym looking around, Lindsey looks amazed and has mouth open
-    with dissolve
+# game/v12/scene29a.rpy:143
+translate francais v12_late_night_workout_e202f0e7:
 
-    li "Oh wow, this is so nice. This is nothing like what I expected."
+    # li "I haven't actually worked out at a real gym before."
+    li "Je n'ai jamais vraiment fait de gym dans une vraie salle avant."
 
-    scene v12lnw7 # FPP Show Lindsey, who is still looking around the gym, smiling with mouth closed
-    with dissolve
+# game/v12/scene29a.rpy:148
+translate francais v12_late_night_workout_89ca8af5:
 
-    u "*Chuckles* You look like a kid at a chocolate factory. This is no different than any other gym really."
+    # u "You don't work out at all?"
+    u "Tu ne fais pas de sport du tout ?"
 
-    scene v12lnw7a # FPP Same angle as v12lnw7, Lindsey still looking away, smiling with mouth open
-    with dissolve
+# game/v12/scene29a.rpy:153
+translate francais v12_late_night_workout_124b3395:
 
-    li "I wouldn't know."
+    # li "Yeah, but I usually just do at-home stuff. I don't have any of my stuff with me here and I thought it'd be fun to actually go to a gym for once."
+    li "Si, mais d'habitude je fais juste des trucs chez moi. Je n'ai aucune de mes affaires avec moi ici et j'ai pensé que ce serait amusant d'aller à la salle pour une fois."
 
-    scene v12lnw7
-    with dissolve
+# game/v12/scene29a.rpy:158
+translate francais v12_late_night_workout_68f34be2:
 
-    u "What do you mean you wouldn't know?"
+    # u "Have you ever used any of this stuff, like the punching bag or bench press?"
+    u "Tu as déjà utilisé un de ces trucs, comme le sac de frappe ou le banc de musculation ?"
 
-    scene v12lnw7b # FPP Same angle as v12lnw7, Lindsey looking at MC, smiling with mouth open
-    with dissolve
+# game/v12/scene29a.rpy:163
+translate francais v12_late_night_workout_fc5a1a54:
 
-    li "I haven't actually worked out at a real gym before."
+    # li "Nope, I'm more of a yoga ball and dumbbell kind of girl."
+    li "Non, je suis plus du genre ballon de yoga et haltères."
 
-    scene v12lnw7c # FPP Same angle as v12lnw7, Lindsey looking at MC, smiling with mouth closed
-    with dissolve
+# game/v12/scene29a.rpy:168
+translate francais v12_late_night_workout_77e6afac:
 
-    u "You don't work out at all?"
+    # u "Haha, okay. Well, we're gonna change that today. What do you wanna try first?"
+    u "Haha, ok. Eh bien, nous allons changer ça aujourd'hui. Qu'est-ce que tu veux essayer en premier ?"
 
-    scene v12lnw7b
-    with dissolve
+# game/v12/scene29a.rpy:173
+translate francais v12_late_night_workout_b5965432:
 
-    li "Yeah, but I usually just do at-home stuff. I don't have any of my stuff with me here and I thought it'd be fun to actually go to a gym for once."
+    # li "Hmm, can we try the bench press?"
+    li "Hmm, on peut essayer le développé-couché ?"
 
-    scene v12lnw7c
-    with dissolve
+# game/v12/scene29a.rpy:178
+translate francais v12_late_night_workout_b3126139:
 
-    u "Have you ever used any of this stuff, like the punching bag or bench press?"
+    # u "We sure can."
+    u "On peut faire ça, oui."
 
-    scene v12lnw7b
-    with dissolve
+# game/v12/scene29a.rpy:188
+translate francais v12_late_night_workout_03622278:
 
-    li "Nope, I'm more of a yoga ball and dumbbell kind of girl."
+    # u "Okay, do know how to use it?"
+    u "Ok, tu sais comment l'utiliser ?"
 
-    scene v12lnw7c
-    with dissolve
+# game/v12/scene29a.rpy:193
+translate francais v12_late_night_workout_8974ddc3:
 
-    u "Haha, okay. Well, we're gonna change that today. What do you wanna try first?"
+    # li "Yeah, it seems pretty simple, but can you go first?"
+    li "Oui, ça a l'air assez simple, mais tu peux y aller en premier ?"
 
-    scene v12lnw7a
-    with dissolve
+# game/v12/scene29a.rpy:198
+translate francais v12_late_night_workout_2cc5c356:
 
-    li "Hmm, can we try the bench press?"
+    # u "Haha, sure, but now that I think about it we should probably stretch first."
+    u "Haha, pas de soucis, mais maintenant que j'y pense, on devrait sûrement s'étirer, d'abord."
 
-    scene v12lnw7
-    with dissolve
+# game/v12/scene29a.rpy:203
+translate francais v12_late_night_workout_450f7667:
 
-    u "We sure can."
+    # li "Good idea."
+    li "Bonne idée."
 
-    scene v12lnw8 # TPP Show MC and Lindsey walking over to the bench press
-    with dissolve
+# game/v12/scene29a.rpy:218
+translate francais v12_late_night_workout_f8f5b565:
 
-    pause 0.75
+    # li "Do you mind holding my leg down?"
+    li "Tu peux tenir ma jambe ?"
 
-    scene v12lnw9 # FPP Show Lindsey looking down at bench press, neutral expression, mouth closed
-    with dissolve
+# game/v12/scene29a.rpy:223
+translate francais v12_late_night_workout_ca1d65ab:
 
-    u "Okay, do know how to use it?"
+    # u "Yeah, I got you."
+    u "Oui, je te tiens."
 
-    scene v12lnw9a # FPP Same angle as v12lnw9, Lindsey looking at MC, mouth open
-    with dissolve
+# game/v12/scene29a.rpy:228
+translate francais v12_late_night_workout_99e90d63:
 
-    li "Yeah, it seems pretty simple, but can you go first?"
+    # li "Thanks, can we do the other one now?"
+    li "Merci, on peut faire l'autre maintenant ?"
 
-    scene v12lnw9b # FPP Same angle as v12lnw9, Lindsey looking at MC, mouth closed
-    with dissolve
+# game/v12/scene29a.rpy:233
+translate francais v12_late_night_workout_505a3f68_1:
 
-    u "Haha, sure, but now that I think about it we should probably stretch first."
+    # u "Yeah."
+    u "Ouais."
 
-    scene v12lnw9a
-    with dissolve
+# game/v12/scene29a.rpy:248
+translate francais v12_late_night_workout_da01a772:
 
-    li "Good idea."
+    # li "Alright, I feel good. How about you?"
+    li "D'accord, maintenant je me sens bien. Et toi ?"
 
-    scene v12lnw10 # TPP MC and Lindsey moving to a space in front of large, floor-to-ceiling mirrors
-    with dissolve
+# game/v12/scene29a.rpy:253
+translate francais v12_late_night_workout_afd47654:
 
-    pause 1.25
+    # u "I'm good."
+    u "C'est bon."
 
-    scene v12lnw10a # TPP Same angle as v12lnw10, MC attempting to touch his toes but can't reach, Lindsey, getting into position on the floor
-    with dissolve
+# game/v12/scene29a.rpy:258
+translate francais v12_late_night_workout_cf5befe4:
 
-    pause 1.25
+    # li "Nahhh, I don't think so."
+    li "Nannn, je ne crois pas."
 
-    scene v12lnw11 # FPP Lindsey laying on her back on the ground, pulling one knee to her chest, her other leg lifting slightly off the ground
-    with dissolve
+# game/v12/scene29a.rpy:263
+translate francais v12_late_night_workout_2bbc24b5:
 
-    li "Do you mind holding my leg down?"
+    # u "Haha, what makes you say that?"
+    u "Haha, qu'est-ce qui te fait dire ça ?"
 
-    scene v12lnw11a # FPP Same angle as v12lnw11, Lindsey's mouth closed
-    with dissolve
+# game/v12/scene29a.rpy:268
+translate francais v12_late_night_workout_daa8cacc:
 
-    u "Yeah, I got you."
+    # li "I saw you trying to stretch your calves and so forth by touching your toes, but you couldn't and gave up pretty fast."
+    li "Je t'ai vu essayer d'étirer tes mollets et ainsi de suite en touchant tes orteils, mais tu n'y arrivais pas et tu abandonnais assez vite."
 
-    scene v12lnw12 # FPP View of MC as he holds down Lindsey's leg while she holds her other knee to her chest, Lindsey's mouth open
-    with dissolve
+# game/v12/scene29a.rpy:273
+translate francais v12_late_night_workout_4bff80da:
 
-    li "Thanks, can we do the other one now?"
+    # u "Well I'm not gonna break my back to touch my toes. *Chuckles*"
+    u "Je ne vais pas me casser le dos pour toucher mes orteils. *Rire*"
 
-    scene v12lnw12a # FPP Same angle as v12lnw12, Lindsey's mouth closed
-    with dissolve
+# game/v12/scene29a.rpy:278
+translate francais v12_late_night_workout_ab4dbcd1:
 
-    u "Yeah."
+    # li "*Sighs* Boys are so silly when it comes to stretching. C'mere."
+    li "*Soupirs* Les garçons sont si stupides quand il s'agit de s'étirer. Viens ici."
 
-    scene v12lnw12b # FPP Same angle as v12lnw12, Lindsey's switched which leg she is stretching, mouth closed
-    with dissolve
+# game/v12/scene29a.rpy:288
+translate francais v12_late_night_workout_98ce10f2:
 
-    pause 1.25
+    # li "Okay, put your butt against the wall and make sure your heels are all the way back."
+    li "Ok, mets tes fesses contre le mur et assure-toi que tes talons soient complètement en arrière."
 
-    scene v12lnw13 # TPP MC getting to his feet and holding a hand down to help Lindsey up
-    with dissolve
+# game/v12/scene29a.rpy:298
+translate francais v12_late_night_workout_2d2a5902:
 
-    pause 1.25
+    # u "Alright, now what?"
+    u "D'accord, et maintenant ?"
 
-    scene v12lnw14 # FPP Show Lindsey, standing near mirror, looking at MC, smiling with mouth open
-    with dissolve
+# game/v12/scene29a.rpy:303
+translate francais v12_late_night_workout_49254a42:
 
-    li "Alright, I feel good. How about you?"
+    # li "Listen carefully or else we'll be here all day. You need to breathe, stretch down and hold. The wall will keep you from bending your legs and I'll support your back as you lean."
+    li "Écoute attentivement, sinon on va rester ici toute la journée. Tu dois respirer, t'étirer et te maintenir. Le mur t'empêchera de plier les jambes et je soutiendrai ton dos lorsque tu te pencheras."
 
-    scene v12lnw14a # FPP Same angle as v12lnw14, Lindsey smiling with mouth closed
-    with dissolve
+# game/v12/scene29a.rpy:308
+translate francais v12_late_night_workout_33eb037d:
 
-    u "I'm good."
+    # u "You making this sound frightening. *Chuckles*"
+    u "Tu rends ça effrayant. *Rire*"
 
-    scene v12lnw14
-    with dissolve
+# game/v12/scene29a.rpy:313
+translate francais v12_late_night_workout_30d67e06:
 
-    li "Nahhh, I don't think so."
+    # li "You'll be fine. c'mon."
+    li "Tout ira bien. Allez."
 
-    scene v12lnw14a
-    with dissolve
+# game/v12/scene29a.rpy:331
+translate francais v12s29a_faillabel1_0ed6b7a0:
 
-    u "Haha, what makes you say that?"
+    # li "Start over."
+    li "Recommence."
 
-    scene v12lnw14
-    with dissolve
+# game/v12/scene29a.rpy:339
+translate francais v12s29a_faillabel1_1e1437c3:
 
-    li "I saw you trying to stretch your calves and so forth by touching your toes, but you couldn't and gave up pretty fast."
+    # u "*Deep breath*"
+    u "*Respiration profonde*"
 
-    scene v12lnw14a
-    with dissolve
+# game/v12/scene29a.rpy:344
+translate francais v12s29a_faillabel1_8e6c79bc:
 
-    u "Well I'm not gonna break my back to touch my toes. *Chuckles*"
+    # li "Good."
+    li "Bien."
 
-    scene v12lnw14
-    with dissolve
+# game/v12/scene29a.rpy:356
+translate francais v12s29a_faillabel1_455f70da:
 
-    li "*Sighs* Boys are so silly when it comes to stretching. C'mere."
+    # li "Perfect."
+    li "Parfait."
 
-    scene v12lnw10b # TPP Same angle as v12lnw10, Lindsey leading MC to the mirror wall
-    with dissolve
+# game/v12/scene29a.rpy:363
+translate francais v12s29a_faillabel2_069d08ae:
 
-    pause 0.75
+    # li "Start over"
+    li "Recommence."
 
-    scene v12lnw15 # FPP Lindsey looking at MC, neutral expression, mouth open
-    with dissolve
+# game/v12/scene29a.rpy:372
+translate francais v12s29a_faillabel2_b172f8c6:
 
-    li "Okay, put your butt against the wall and make sure your heels are all the way back."
+    # li "That's it, you did it."
+    li "C'est ça, tu as réussi."
 
-    scene v12lnw10c # TPP Same angle as v12lnw10, MC with his back and heels up against the wall
-    with dissolve
+# game/v12/scene29a.rpy:377
+translate francais v12s29a_faillabel2_944318f8:
 
-    pause 1.25
+    # u "Finally. *Chuckles*"
+    u "Enfin. *Rire*"
 
-    scene v12lnw15a # FPP Same angle as v12lnw15, Lindsey with neutral expression, mouth closed
-    with dissolve
+# game/v12/scene29a.rpy:384
+translate francais v12s29a_faillabel3_0ed6b7a0:
 
-    u "Alright, now what?"
+    # li "Start over."
+    li "Recommence"
 
-    scene v12lnw15
-    with dissolve
+# game/v12/scene29a.rpy:391
+translate francais v12s29a_faillabel3_2de918a8:
 
-    li "Listen carefully or else we'll be here all day. You need to breathe, stretch down and hold. The wall will keep you from bending your legs and I'll support your back as you lean."
+    # li "Now you're ready to go. Bench press?"
+    li "Maintenant tu es prêt à y aller. Un développé couché ?"
 
-    scene v12lnw15a
-    with dissolve
+# game/v12/scene29a.rpy:396
+translate francais v12s29a_faillabel3_6f226cc1:
 
-    u "You making this sound frightening. *Chuckles*"
+    # u "Bench press."
+    u "Un développé couché."
 
-    scene v12lnw15b # FPP Same angle as v12lnw15, Lindsey smiling with mouth open
-    with dissolve
+# game/v12/scene29a.rpy:410
+translate francais v12s29a_faillabel3_2e0ce57e:
 
-    li "You'll be fine. c'mon."
+    # u "Now I'm a professional so I'll go ahead start with some weight, but it's best you just use the bar. There's fifty pounds on here so that feel like a good start."
+    u "Maintenant, je suis un pro, donc je vais commencer avec des poids, mais il est préférable d'utiliser la barre uniquement, au début. Il y a déjà des poids de 20 kilos ici, donc c'est un bon départ."
 
-    scene v12lnw10c
-    with dissolve
+# game/v12/scene29a.rpy:415
+translate francais v12s29a_faillabel3_ea40069b:
 
-    # -MC needs to make the choices in the correct order, breath, stretch, hold...if he messes up the order then Lindsey tells him "start over". This continues until he does it right, each choice is timed
-    label v12_gym_stretch:
-        menu (fail_label="v12s29a_faillabel1"):
-            "Stretch":
-                label v12s29a_faillabel1:
-                    scene v12lnw10d # TPP Same angle as v12lnw10, MC against wall, stretching down to touch his toes, not reaching, leaning forward, Lindsey standing by
-                    with dissolve
+    # li "Okay Bulk Bogan! *Chuckles*"
+    li "Okay Bulk Bogan ! *Rire*"
 
-                    pause 1
+# game/v12/scene29a.rpy:464
+translate francais v12s29a_faillabel3_02bd85a7:
 
-                    scene v12lnw15
-                    with dissolve
+    # u "Too easy, Go ahead and add the twenty fives from that bench over there."
+    u "Trop facile, vas-y et ajoute les vingt-cinq de ce banc là-bas."
 
-                    li "Start over."
+# game/v12/scene29a.rpy:469
+translate francais v12s29a_faillabel3_f8e8d3a2:
 
-                    jump v12_gym_stretch
+    # li "You sure?"
+    li "Tu es sûr ?"
 
-            "Breathe":
-                scene v12lnw15a
-                with dissolve
+# game/v12/scene29a.rpy:474
+translate francais v12s29a_faillabel3_93c1a572:
 
-                u "*Deep breath*"
+    # u "Positive!"
+    u "Affirmatif !"
 
-                scene v12lnw15b
-                with dissolve
+# game/v12/scene29a.rpy:484
+translate francais v12s29a_faillabel3_ddd659e1:
 
-                li "Good."
+    # u "Watch and learn."
+    u "Regarde et apprends."
 
-        menu (fail_label="v12s29a_faillabel2"):
-            "Stretch":
-                scene v12lnw10e # TPP Same angle as v12lnw10, MC against wall, stretching down to touch his toes, not reaching yet, Lindsey's hand on his back
-                with dissolve
+# game/v12/scene29a.rpy:499
+translate francais v12s29a_faillabel3_f227c550:
 
-                pause 1
+    # u "SPOT! SPOT! SPOT!"
+    u "ASSURE ! ASSURE ! ASSURE !"
 
-                scene v12lnw10f # TPP Same angle as v12lnw10, MC against wall, reaching down and just touching his toes, Lindsey's hand on his back
-                with dissolve
-                
-                li "Perfect."
+# game/v12/scene29a.rpy:504
+translate francais v12s29a_faillabel3_bd882c47:
 
-            "Lean":
-                label v12s29a_faillabel2:
-                    scene v12lnw10d
-                    with dissolve
+    # li "Help me get it up!"
+    li "Aide-moi à le remonter !"
 
-                    li "Start over"
+# game/v12/scene29a.rpy:519
+translate francais v12s29a_faillabel3_a59acbe3:
 
-                    jump v12_gym_stretch
+    # u "(Never had a spot like this. *Chuckles*)"
+    u "(Je n'ai jamais eu d'assureuse comme celle-ci. *Rire*)"
 
-        menu (fail_label="v12s29a_faillabel3"):
-            "Hold":
-                scene v12lnw10f
-                with dissolve
+# game/v12/scene29a.rpy:524
+translate francais v12s29a_faillabel3_1c7e7f5d:
 
-                li "That's it, you did it."
+    # li "Are you okay?"
+    li "Tu vas bien ?"
 
-                scene v12lnw15c # FPP Same angle as v12lnw15, Lindsey smiling with mouth closed
-                with dissolve
+# game/v12/scene29a.rpy:529
+translate francais v12s29a_faillabel3_4503d9b6:
 
-                u "Finally. *Chuckles*"
+    # u "Yeah yeah, I'm good. Should've worked my way up to that."
+    u "Ouais ouais, je vais bien. J'aurais du travailler plus dur pour ça."
 
-            "Breathe":
-                label v12s29a_faillabel3:
-                    scene v12lnw15
-                    with dissolve
+# game/v12/scene29a.rpy:539
+translate francais v12s29a_faillabel3_a57829eb:
 
-                    li "Start over."
+    # u "You've never seen someone spot before have you? *Chuckles*"
+    u "Tu n'as jamais vu quelqu'un se faire assurer avant, n'est-ce pas ? *Rire*"
 
-                    jump v12_gym_stretch
+# game/v12/scene29a.rpy:544
+translate francais v12s29a_faillabel3_d324f89b:
 
-    scene v12lnw15b
-    with dissolve
+    # li "I didn't even know what that meant."
+    li "Je ne savais même pas ce que ça voulait dire."
 
-    li "Now you're ready to go. Bench press?"
+# game/v12/scene29a.rpy:554
+translate francais v12s29a_faillabel3_229bc6de:
 
-    scene v12lnw15c
-    with dissolve
+    # u "This is spotting."
+    u "C'est assurer l'autre."
 
-    u "Bench press."
+# game/v12/scene29a.rpy:559
+translate francais v12s29a_faillabel3_025bf398:
 
-    scene v12lnw8
-    with dissolve
+    # li "Oh, I wasn't supposed to climb on top of you like that was I?"
+    li "Oh, je n'étais pas censé grimper sur toi comme ça, n'est-ce pas ?"
 
-    pause 0.75
+# game/v12/scene29a.rpy:564
+translate francais v12s29a_faillabel3_5e6d5844:
 
-    menu:
-        "Show off":
-            $ add_point(KCT.TROUBLEMAKER)
+    # u "Haha, no not really."
+    u "Haha, pas vraiment, non."
 
-            scene v12lnw9b
-            with dissolve
+# game/v12/scene29a.rpy:569
+translate francais v12s29a_faillabel3_150403e0:
 
-            u "Now I'm a professional so I'll go ahead start with some weight, but it's best you just use the bar. There's fifty pounds on here so that feel like a good start."
+    # li "My bad."
+    li "C'est ma faute."
 
-            scene v12lnw9c # FPP Same angle as v12lnw9, Lindsey smiling with mouth open
-            with dissolve
+# game/v12/scene29a.rpy:576
+translate francais v12s29a_faillabel3_be94f8e5:
 
-            li "Okay Bulk Bogan! *Chuckles*"
+    # u "You're fine, it was funny."
+    u "Pas de problèmes, c'était drôle."
 
-            scene v12lnw16 # TPP Show MC laying down on bench press, ends of bar with plates out of frame
-            with dissolve
+# game/v12/scene29a.rpy:581
+translate francais v12s29a_faillabel3_4a530135:
 
-            pause 0.75
-            
-            # MIGHT NEED TO PLAY WITH TIMING OF THESE BENCH PRESS SCENES SO IT DOESN'T FEEL TOO LONG
-            scene v12lnw16a # TPP Same angle as v12lnw16, MC laying on bench press, hands gripping bar which is on the rests
-            with dissolve
+    # li "*Chuckles*"
+    li "*Rire*"
 
-            pause 0.5
+# game/v12/scene29a.rpy:586
+translate francais v12s29a_faillabel3_28329560:
 
-            scene v12lnw16b # TPP Same angle as v12lnw16, MC laying on bench press holding bar, bar lowered to his chest
-            with dissolve
+    # u "Don't apologize, that was the best spot I ever had."
+    u "Ne t'excuse pas, tu est la plus belle assureuse que j'ai eue."
 
-            pause 0.5
+# game/v12/scene29a.rpy:591
+translate francais v12s29a_faillabel3_0610ad1b:
 
-            # up rep 1
-            scene v12lnw16c # TPP Same angle as v12lnw16, MC laying on bench press holding bar, arms extended up
-            with dissolve
+    # li "*Chuckles* I'm sure it was."
+    li "*Rire* Je suis sûr que c'était le cas."
 
-            pause 0.5
+# game/v12/scene29a.rpy:602
+translate francais v12s29a_faillabel3_7f3e8ae3:
 
-            scene v12lnw16b
-            with dissolve
+    # u "I wanna just show you the basics so let's take these weights off."
+    u "Je veux juste te montrer les bases, alors enlève ces poids."
 
-            pause 0.5
+# game/v12/scene29a.rpy:607
+translate francais v12s29a_faillabel3_5adde770:
 
-            # up rep 2
-            scene v12lnw16c
-            with dissolve
+    # li "Okay."
+    li "Okay."
 
-            pause 0.5
+# game/v12/scene29a.rpy:622
+translate francais v12s29a_faillabel3_4f5ec639:
 
-            scene v12lnw16b
-            with dissolve
+    # u "You always wanna spot the person just in case they can't carry the weight. So watch carefully, I won't struggle with just the bar, but just for practice be sure to pay attention."
+    u "Il faut toujours assurer la personne au cas où elle ne pourrait pas porter le poids. Alors regarde bien, je ne vais pas faire des efforts avec la barre, mais juste pour m'entraîner, fais bien attention."
 
-            pause 0.5
+# game/v12/scene29a.rpy:627
+translate francais v12s29a_faillabel3_5adde770_1:
 
-            # up final rep
-            scene v12lnw16a
-            with dissolve
+    # li "Okay."
+    li "Okay."
 
-            pause 0.75
+# game/v12/scene29a.rpy:671
+translate francais v12s29a_faillabel3_d88fc064:
 
-            scene v12lnw17 # FPP MC laying on bench press, looking up at Lindsey, who is smiling with mouth closed
-            with dissolve
+    # u "Easy."
+    u "Facile."
 
-            u "Too easy, Go ahead and add the twenty fives from that bench over there."
+# game/v12/scene29a.rpy:682
+translate francais v12s29a_faillabel3_c193986e:
 
-            scene v12lnw17a # FPP Same angle as v12lnw17, Lindsey smiling with mouth open
-            with dissolve
+    # li "How much does the bar weigh?"
+    li "Combien pèse la barre ?"
 
-            li "You sure?"
+# game/v12/scene29a.rpy:687
+translate francais v12s29a_faillabel3_c0c33693:
 
-            scene v12lnw17
-            with dissolve
+    # u "The bar is forty-five pounds."
+    u "La barre pèse vingt kilos."
 
-            u "Positive!"
+# game/v12/scene29a.rpy:692
+translate francais v12s29a_faillabel3_81baec02:
 
-            scene v12lnw18 # TPP Show Lindsey placing a 25 pound plate on one end of the bench press bar, 25 pound plate is already on the other side
-            with dissolve
+    # li "Okay yeah, I can only do the bar. When I use dumbbells my max is twenty pounds in each hand."
+    li "Ok ouais, je ne peux supporter que la barre. Quand j'utilise des haltères, mon maximum est de 10 kg dans chaque main."
 
-            pause 0.75
+# game/v12/scene29a.rpy:697
+translate francais v12s29a_faillabel3_4a60eedc:
 
-            scene v12lnw17
-            with dissolve
+    # u "Haha, alright then."
+    u "Haha, d'accord."
 
-            u "Watch and learn."
+# game/v12/scene29a.rpy:702
+translate francais v12s29a_faillabel3_2ebafd73:
 
-            scene v12lnw16a
-            with dissolve
+    # u "Ready?"
+    u "Prête ?"
 
-            pause 0.5
+# game/v12/scene29a.rpy:707
+translate francais v12s29a_faillabel3_02541587:
 
-            scene v12lnw16d # TPP Same angle as v12lnw16, MC visibly struggling to lift the heavier bar, which is laying on his chest
-            with dissolve
+    # li "I hope so."
+    li "J'espère."
 
-            pause 0.75
+# game/v12/scene29a.rpy:712
+translate francais v12s29a_faillabel3_2e307e34:
 
-            scene v12lnw17b # FPP Same angle as v12lnw17, Lindsey looking worried with mouth closed
-            with dissolve
+    # u "Alright, let's do it. I got you."
+    u "Très bien, on y va. Je te tiens."
 
-            u "SPOT! SPOT! SPOT!"
+# game/v12/scene29a.rpy:732
+translate francais v12s29a_faillabel3_651ffe75:
 
-            scene v12lnw17c # FPP Same angle as v12lnw17, Lindsey looking worried with mouth open
-            with dissolve
+    # li "Oh god!"
+    li "Oh merde !"
 
-            li "Help me get it up!"
+# game/v12/scene29a.rpy:742
+translate francais v12s29a_faillabel3_eea9f122:
 
-            scene v12lnw19 # TPP Show Lindsey straddling MC over the bench, Lindsey's face close to MC's, Lindsey grabbing bar and trying to lift it
-            with dissolve
+    # li "That is not forty-five pounds!"
+    li "C'est pas Vingt Kilos !"
 
-            pause 0.75
+# game/v12/scene29a.rpy:747
+translate francais v12s29a_faillabel3_355be2bc:
 
-            scene v12lnw19a # TPP Same angle as v12lnw19, Lindsey still straddling MC, but they have managed to get the bar back on the rests
-            with dissolve
+    # u "*Laughs* I promise it is."
+    u "*Rire* Je te promets que si."
 
-            pause 0.75
+# game/v12/scene29a.rpy:752
+translate francais v12s29a_faillabel3_e15ef889:
 
-            scene v12lnw20 # FPP MC looking up at Lindsey, who is still straddling him, looking down at him, worried with her mouth closed.
-            with dissolve
+    # li "Well, I won't be messing with the bench anytime soon. That made me tired."
+    li "Eh bien, je ne vais pas recommencer avec le banc de sitôt. Ça m'a fatigué."
 
-            u "(Never had a spot like this. *Chuckles*)"
+# game/v12/scene29a.rpy:757
+translate francais v12s29a_faillabel3_1379845e:
 
-            scene v12lnw20a # FPP Same angle as v12lnw20, Lindsey looking worried with mouth open
-            with dissolve
+    # u "Haha, do you wanna do anything else or are you ready to go?"
+    u "Haha, tu veux faire autre chose ou tu veux y aller ?"
 
-            li "Are you okay?"
+# game/v12/scene29a.rpy:762
+translate francais v12s29a_faillabel3_2a82869b:
 
-            scene v12lnw20
-            with dissolve
+    # li "Can we try the kicking bag?"
+    li "On peut essayer le sac de frappe ?"
 
-            u "Yeah yeah, I'm good. Should've worked my way up to that."
+# game/v12/scene29a.rpy:767
+translate francais v12s29a_faillabel3_ecdbc203:
 
-            scene v12lnw19b # FPP Same angle as v12lnw19, Lindsey getting off of MC, MC sitting up on the bench
-            with dissolve
+    # u "You mean the punching bag? *Chuckles*"
+    u "Tu veux dire le punching-ball ? *Rire*"
 
-            pause 0.75
+# game/v12/scene29a.rpy:772
+translate francais v12s29a_faillabel3_5a29691a:
 
-            scene v12lnw21 # FPP MC sitting on bench looking at Lindsey. Lindsey with neutral expression, mouth closed
-            with dissolve
+    # li "What, no. I mean the kicking bag, why would it be called a punching bag if people kick it?"
+    li "Quoi, non. Je veux dire le sac de frappe, pourquoi l'appeler sac de frappe si les personnes le frappent aussi avec leurs pieds ?"
 
-            u "You've never seen someone spot before have you? *Chuckles*"
+# game/v12/scene29a.rpy:777
+translate francais v12s29a_faillabel3_0304d189:
 
-            scene v12lnw21a # FPP Same angle as v12lnw21, Lindsey with mouth open
-            with dissolve
+    # u "The question should be, why isn't it just called a bag since people punch and kick it. *Chuckles*"
+    u "La question devrait être, pourquoi ne l'appelle-t-on pas simplement un sac puisque les gens le frappent et le bottent. *Rire*"
 
-            li "I didn't even know what that meant."
+# game/v12/scene29a.rpy:782
+translate francais v12s29a_faillabel3_715e7430:
 
-            scene v12lnw19c # TPP Same angle as v12lnw19, MC sitting on bench, entering text into his phone
-            with dissolve
+    # li "Well I wanna kick it, try out this karate kick I saw in a movie."
+    li "Je veux essayer ce coup de pied de karaté que j'ai vu dans un film."
 
-            pause 1.25
+# game/v12/scene29a.rpy:787
+translate francais v12s29a_faillabel3_25e24d4e:
 
-            scene v12lnw21b # FPP Same angle as v12lnw21, MC holding his phone out to show Lindsey, Lindsey's mouth closed
-            with dissolve
+    # u "I gotta see this."
+    u "Il faut que je voie ça."
 
-            u "This is spotting."
+# game/v12/scene29a.rpy:797
+translate francais v12s29a_faillabel3_d27ce893:
 
-            scene v12lnw21c # FPP Same angle as v12lnw21, Lindsey with an embarrassed smile, mouth open
-            with dissolve
+    # li "Okay, so I'm sure he looked away from the person and then kicked back. Like this."
+    li "Ok, donc je crois qu'il a détourné son regard de l'adversaire et qu'il l'a frappé avec son pied. Comme ça."
 
-            li "Oh, I wasn't supposed to climb on top of you like that was I?"
+# game/v12/scene29a.rpy:813
+translate francais v12s29a_faillabel3_395c9331:
 
-            scene v12lnw21d # FPP Same angle as v12lnw21, Lindsey with embarrassed smile, mouth closed
-            with dissolve
+    # u "What was that, a donkey kick?"
+    u "C'était quoi ça, un donkey kick ?"
 
-            u "Haha, no not really."
+# game/v12/scene29a.rpy:818
+translate francais v12s29a_faillabel3_3b1e4213:
 
-            scene v12lnw21c
-            with dissolve
+    # li "I actually think it's called steed kick, you know, like speed kick but steed."
+    li "En fait, je crois que ça s'appelle le steed kick, tu sais, comme le speed kick mais en plus steed."
 
-            li "My bad."
+# game/v12/scene29a.rpy:823
+translate francais v12s29a_faillabel3_e94fb2cd:
 
-            scene v12lnw21d
-            with dissolve
+    # u "Haha, yeah I get it."
+    u "Haha, ouais je vois."
 
-            menu:
-                "It's fine":
-                    u "You're fine, it was funny."
+# game/v12/scene29a.rpy:828
+translate francais v12s29a_faillabel3_03f0cdfd:
 
-                    scene v12lnw21e # FPP Same angle as v12lnw21, Lindsey with big, genuine smile, mouth open
-                    with dissolve
+    # li "Try it."
+    li "Essaie."
 
-                    li "*Chuckles*"
-                
-                "Best spot ever":
-                    $ add_point(KCT.TROUBLEMAKER)
+# game/v12/scene29a.rpy:833
+translate francais v12s29a_faillabel3_b9c4fde3:
 
-                    scene v12lnw21d
-                    #with dissolve
-
-                    u "Don't apologize, that was the best spot I ever had."
-
-                    scene v12lnw21e
-                    with dissolve
-
-                    li "*Chuckles* I'm sure it was."
-
-            scene v12lnw19d # TPP Same angle as v12lnw19, MC standing up from bench press
-            with dissolve
-
-            pause 0.75
-
-        "Basics":
-            scene v12lnw9b
-            with dissolve
-
-            u "I wanna just show you the basics so let's take these weights off."
-
-            scene v12lnw9a
-            with dissolve
-
-            li "Okay."
-
-            scene v12lnw18a # TPP Same angle as v12lnw18, MC and Lindsey each removing a weight from the bench press bar
-            with dissolve
-
-            pause 0.75
-
-            scene v12lnw16
-            with dissolve
-
-            pause 0.75
-
-            scene v12lnw17
-            with dissolve
-
-            u "You always wanna spot the person just in case they can't carry the weight. So watch carefully, I won't struggle with just the bar, but just for practice be sure to pay attention."
-
-            scene v12lnw17a
-            with dissolve
-
-            li "Okay."
-
-            # SAME AS ABOVE, MIGHT WANT TO PLAY WITH THESE TIMINGS SO THIS BIT DOESN'T FEEL TOO LONG
-            scene v12lnw16a
-            with dissolve
-
-            pause 0.5
-
-            scene v12lnw16b
-            with dissolve
-
-            pause 0.5
-
-            # up rep 1
-            scene v12lnw16c
-            with dissolve
-
-            pause 0.5
-
-            scene v12lnw16b
-            with dissolve
-
-            pause 0.5
-
-            # up rep 2
-            scene v12lnw16c
-            with dissolve
-
-            pause 0.5
-
-            scene v12lnw16b
-            with dissolve
-
-            pause 0.5
-
-            # up final rep
-            scene v12lnw16a
-            with dissolve
-
-            pause 0.5
-
-            scene v12lnw17
-            with dissolve
-
-            u "Easy."
-
-            scene v12lnw19d
-            with dissolve
-
-            pause 0.75
-
-# -Continued regardless of choice
-    scene v12lnw9a
-    with dissolve
-
-    li "How much does the bar weigh?"
-
-    scene v12lnw9
-    with dissolve
-
-    u "The bar is forty-five pounds."
-
-    scene v12lnw9c
-    with dissolve
-
-    li "Okay yeah, I can only do the bar. When I use dumbbells my max is twenty pounds in each hand."
-
-    scene v12lnw9b
-    with dissolve
-
-    u "Haha, alright then."
-
-    scene v12lnw22 # FPP View of MC behind bench to spot. Show Lindsey laying down on the bench press and gripping the bar, still on its rests, Lindsey's mouth closed
-    with dissolve
-
-    u "Ready?"
-
-    scene v12lnw22a # FPP Same angle as v12lnw22, Lindsey's mouth open
-    with dissolve
-
-    li "I hope so."
-
-    scene v12lnw22
-    with dissolve
-
-    u "Alright, let's do it. I got you."
-
-    scene v12lnw22b # FPP Same angle as v12lnw22, Lindsey has lowered the bar to her chest
-    with dissolve
-
-    pause 0.5
-
-    scene v12lnw22c # FPP Same angle as v12lnw22, Lindsey has pushed the bar up until her arms are straight
-    with dissolve
-
-    pause 0.5
-
-    scene v12lnw22b
-    with dissolve
-
-    pause 0.5
-
-    scene v12lnw22d # FPP Same angle as v12lnw22, Lindsey struggling to lift the bar, Lindsey looking strained with mouth open
-    with dissolve
-
-    li "Oh god!"
-
-    scene v12lnw22e # FPP Same angle as v12lnw22, MC has grabbed the bar to help Lindsey, bar is now on its rests, both holding it
-    with dissolve
-
-    pause 0.75
-
-    scene v12lnw22f # FPP Same angle as v12lnw22, Lindsey has released the bar and let her arms flop to her sides, she is smiling with her mouth open
-    with dissolve
-
-    li "That is not forty-five pounds!"
-
-    scene v12lnw22g # FPP Same angle as v12lnw22, Lindsey with her arms flopped to her sides, exhausted, smiling with mouth closed
-    with dissolve
-
-    u "*Laughs* I promise it is."
-
-    scene v12lnw22f
-    with dissolve
-
-    li "Well, I won't be messing with the bench anytime soon. That made me tired."
-
-    scene v12lnw22g
-    with dissolve
-
-    u "Haha, do you wanna do anything else or are you ready to go?"
-
-    scene v12lnw19e # TPP Same angle as v12lnw19, Lindsey standing up from bench press, her mouth open, MC coming around from behind bench
-    with dissolve
-
-    li "Can we try the kicking bag?"
-
-    scene v12lnw9b
-    with dissolve
-
-    u "You mean the punching bag? *Chuckles*"
-
-    scene v12lnw9c
-    with dissolve
-
-    li "What, no. I mean the kicking bag, why would it be called a punching bag if people kick it?"
-
-    scene v12lnw9d # FPP Same angle as v12lnw9, Lindsey smiling with mouth closed
-    with dissolve
-
-    u "The question should be, why isn't it just called a bag since people punch and kick it. *Chuckles*"
-
-    scene v12lnw9c
-    with dissolve
-
-    li "Well I wanna kick it, try out this karate kick I saw in a movie."
-
-    scene v12lnw9d
-    with dissolve
-
-    u "I gotta see this."
-
-    scene v12lnw23 # TPP Show MC and Lindsey walking to the punching bag
-    with dissolve
-
-    pause 0.75
-
-    scene v12lnw24 # FPP Show Lindsey looking at punching bag, mouth open
-    with dissolve
-
-    li "Okay, so I'm sure he looked away from the person and then kicked back. Like this."
-
-    scene v12lnw25 # FPP Show Lindsey turning her back on the punching bag
-    with dissolve
-
-    pause 0.5
-
-    play sound "sounds/facepunch1.mp3"
-    scene v12lnw25a # FPP Same angle as v12lnw25, Lindsey kicking backward at the punching bag while looking away
-    with dissolve
-
-    pause 1.25
-
-    scene v12lnw24a # FPP Same angle as v12lnw24, Lindsey looking at MC, mouth closed
-    with dissolve
-
-    u "What was that, a donkey kick?"
-
-    scene v12lnw24
-    with dissolve
-
-    li "I actually think it's called steed kick, you know, like speed kick but steed."
-
-    scene v12lnw24a
-    with dissolve
-
-    u "Haha, yeah I get it."
-
-    scene v12lnw24
-    with dissolve
-
-    li "Try it."
-
-    scene v12lnw24a
-    with dissolve
-
+    # u "Okay."
     u "Okay."
 
-    scene v12lnw25b # TPP Same angle as v12lnw25, MC turning his back on the punching bag like Lindsey did
-    with dissolve
+# game/v12/scene29a.rpy:850
+translate francais v12s29a_faillabel3_99b6ddf6:
 
-    menu:
-        "Hard":
-            $ add_point(KCT.TROUBLEMAKER)
-            play sound "sounds/ks.mp3"
-            scene v12lnw25c # TPP Same angle as v12lnw25, MC kicking back at the punching bag, missing, and losing his balance
-            with dissolve
+    # u "That was embarrassing."
+    u "C'était embarrassant."
 
-            pause 1.25
+# game/v12/scene29a.rpy:855
+translate francais v12s29a_faillabel3_5c7b63cd:
 
-            scene v12lnw24b # FPP Same angle as v12lnw24, Lindsey smiling with mouth closed
-            with dissolve
+    # li "Just a little. *Chuckles*"
+    li "Juste un peu. *Rire*"
 
-            u "That was embarrassing."
+# game/v12/scene29a.rpy:867
+translate francais v12s29a_faillabel3_0192e1df:
 
-            scene v12lnw24c # FPP Same angle as v12lnw24, Lindsey smiling with mouth open
-            with dissolve
+    # u "Hell yeah!"
+    u "Putain, oui !"
 
-            li "Just a little. *Chuckles*"
-            
-        "Steady":
-            play sound "sounds/facepunch1.mp3"
-            scene v12lnw25d # TPP Same angle as v12lnw25, MC kicking back at the punching bag, the kick landing squarly and knocking the bag back
-            with dissolve
+# game/v12/scene29a.rpy:872
+translate francais v12s29a_faillabel3_056821e3:
 
-            pause 1.25
+    # li "Your kick just made mine look bad."
+    li "Ton coup de pied a fait passer le mien pour mauvais."
 
-            scene v12lnw24b
-            with dissolve
+# game/v12/scene29a.rpy:877
+translate francais v12s29a_faillabel3_83778a8d:
 
-            u "Hell yeah!"
+    # u "What can I say? I'm a kung fu master. *Chuckles*"
+    u "Qu'est-ce que je peux dire ? Je suis un maître du kung-fu. *Rire*"
 
-            scene v12lnw24c
-            with dissolve
+# game/v12/scene29a.rpy:882
+translate francais v12s29a_faillabel3_d7782545:
 
-            li "Your kick just made mine look bad."
+    # li "Let's get out of here."
+    li "Allons-nous-en."
 
-            scene v12lnw24b
-            with dissolve
+# game/v12/scene29a.rpy:887
+translate francais v12s29a_faillabel3_f181a898:
 
-            u "What can I say? I'm a kung fu master. *Chuckles*"
+    # u "Haha, alright."
+    u "Haha, d'accord."
 
-    scene v12lnw24d # FPP Same angle as v12lnw24, Lindsey looking away, smiling with mouth open
-    with dissolve
+# game/v12/scene29a.rpy:905
+translate francais v12s29a_faillabel3_137bbc32:
 
-    li "Let's get out of here."
+    # u "So, did you have fun?"
+    u "Alors, tu t'es amusée ?"
 
-    scene v12lnw24b
-    with dissolve
+# game/v12/scene29a.rpy:910
+translate francais v12s29a_faillabel3_42505fac:
 
-    u "Haha, alright."
+    # li "I did, definitely gonna be going to an actual gym a lot more. Thanks for going with me."
+    li "Oui beaucoup, je vais clairement fréquenter une vraie salle de sport bien plus souvent. Merci d'être venu avec moi."
 
-    scene v12lnw26 # TPP Show Lindsey and MC exiting the gym into the dark night
-    with dissolve
+# game/v12/scene29a.rpy:915
+translate francais v12s29a_faillabel3_173f2156:
 
-    pause 0.75
+    # u "Anytime."
+    u "Je t'en prie."
 
-    scene v12lnw27 # TPP Show Lindsey and MC entering the hotel front entrance into the lobby
-    with dissolve
+# game/v12/scene29a.rpy:920
+translate francais v12s29a_faillabel3_01adc748:
 
-    pause 0.75
+    # li "Have a good night."
+    li "Passe une bonne nuit."
 
-    stop music fadeout 3
-    play music "music/v12/Track Scene 29_6.mp3" fadein 2
+# game/v12/scene29a.rpy:925
+translate francais v12s29a_faillabel3_ddf94eca:
 
-    scene v12lnw28 # FPP Show Lindsey, back at hotel lobby, Lindsey smiling with mouth closed
-    with dissolve
+    # u "You too, Linds."
+    u "Toi aussi, Linds."
 
-    u "So, did you have fun?"
+# game/v12/scene29a.rpy:930
+translate francais v12s29a_faillabel3_4085c33f:
 
-    scene v12lnw28a # FPP Same angle as v12lnw28, Lindsey smiling with mouth open
-    with dissolve
+    # li "Woah, been a while since you called me that."
+    li "Woah, ça fait un moment que tu ne m'as pas appelé comme ça."
 
-    li "I did, definitely gonna be going to an actual gym a lot more. Thanks for going with me."
+# game/v12/scene29a.rpy:935
+translate francais v12s29a_faillabel3_f4d518b6:
 
-    scene v12lnw28
-    with dissolve
+    # u "*Chuckles* Thought I'd bring it back."
+    u "*Rire* J'ai pensé que je devais le ressortir."
 
-    u "Anytime."
+# game/v12/scene29a.rpy:940
+translate francais v12s29a_faillabel3_ae8227a6:
 
-    scene v12lnw28a
-    with dissolve
-
-    li "Have a good night."
-
-    scene v12lnw28
-    with dissolve
-
-    u "You too, Linds."
-
-    scene v12lnw28b # FPP Same angle as v12lnw28, Lindsey with her eyebrow raised and a curious smile, mouth open
-    with dissolve
-
-    li "Woah, been a while since you called me that."
-
-    scene v12lnw28
-    with dissolve
-
-    u "*Chuckles* Thought I'd bring it back."
-
-    scene v12lnw28a
-    with dissolve
-
+    # li "Haha, okay."
     li "Haha, okay."
 
-    scene v12lnw29 # FPP Show Lindsey walking away toward her hotel room
-    with dissolve
+translate francais strings:
 
-    pause 0.75
+    # game/v12/scene29a.rpy:320
+    old "Stretch"
+    new "Étirement"
 
-    stop music fadeout 3
+    # game/v12/scene29a.rpy:320
+    old "Breathe"
+    new "Respirer"
 
-    jump v12_room_sneak #scene 30
+    # game/v12/scene29a.rpy:346
+    old "Lean"
+    new "Léger"
+
+    # game/v12/scene29a.rpy:367
+    old "Hold"
+    new "Maintenir"
+
+    # game/v12/scene29a.rpy:403
+    old "Basics"
+    new "Les bases"
+
+    # game/v12/scene29a.rpy:574
+    old "It's fine"
+    new "C'est bon"
+
+    # game/v12/scene29a.rpy:574
+    old "Best spot ever"
+    new "La meilleure assureuse au monde"
+
+    # game/v12/scene29a.rpy:838
+    old "Hard"
+    new "Difficile"

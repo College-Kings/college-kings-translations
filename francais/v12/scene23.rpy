@@ -1,597 +1,506 @@
-# SCENE 23: Ms Rose Sex Scene
-# Locations: Hotel Corridor, Hotel Lobby, Street, Paris Living Room, Hotel Room
-# Characters: MS. ROSE (Outfit: 1), MC (Outfit: 9), CHLOE (Outfit: 2), RILEY (Outfit: 4)
-# Time: Night
-# Phone Images: None
+﻿# TODO: Translation updated at 2021-12-29 12:24
 
-label v12_ms_rose_sex: #can only get here if joinwolves
-    scene v12msr1 # TPP. Show MC walking out of Riley's room into the hallway, slight smile, mouth closed
-    with dissolve
+# game/v12/scene23.rpy:18
+translate francais v12_ms_rose_sex_626a22c1:
 
-    pause 0.75
+    # ro "Hey, [name]. Haven't seen you in a while."
+    ro "Hey, [name]. Je ne t'ai pas vu depuis un moment."
 
-    play music "music/v12/Track Scene 23_1.mp3" fadein 2
+# game/v12/scene23.rpy:23
+translate francais v12_ms_rose_sex_30787409:
 
-    scene v12msr2 # FPP. MC and Ms. Rose in the hallway, MC and Ms. Rose looking at each other, Ms. Rose slight smile, mouth open
-    with dissolve
+    # u "I've been around..."
+    u "J'étais dans le coin..."
 
-    ro "Hey, [name]. Haven't seen you in a while."
+# game/v12/scene23.rpy:29
+translate francais v12_ms_rose_sex_fc247ad9:
 
-    scene v12msr2a # FPP. Same as v12msr2, Ms. Rose slight smile, mouth closed
-    with dissolve
+    # ro "Hmm, are you busy?"
+    ro "Hmm, tu es occupé ?"
 
-    u "I've been around..."
+# game/v12/scene23.rpy:34
+translate francais v12_ms_rose_sex_5fc3c52f:
 
-    if ms_rose.relationship >= Relationship.FWB:
-        scene v12msr2d # FPP. Same as v12msr2, Ms. Rose, slight smile, mouth open, caressing MC's cheek
-        with dissolve
+    # u "No, not really."
+    u "Non, pas vraiment."
 
-        ro "Well you haven't been around me..."
+# game/v12/scene23.rpy:39
+translate francais v12_ms_rose_sex_14ddb920:
 
-        scene v12msr2
-        with dissolve
+    # ro "How come? I'm sure there's plenty of things you and your friends could be doing."
+    ro "Comment ça ? Je suis sûr qu'il y a plein de choses que toi et tes amis pourriez faire."
 
-        ro "I did my nightly walk around and everyone else is asleep or at least in their rooms."
+# game/v12/scene23.rpy:44
+translate francais v12_ms_rose_sex_bbe9bd15:
 
-        scene v12msr2c
-        with dissolve
+    # u "There's just not much going on today I guess. I came out here to see what was up."
+    u "Il n'y a pas grand-chose à faire aujourd'hui, il me semble. Je suis venu ici pour voir ce qui se passait."
 
-        u "It does feel like I haven't seen you in awhile."
+# game/v12/scene23.rpy:49
+translate francais v12_ms_rose_sex_c1e7d382:
 
-        scene v12msr2b
-        with dissolve
+    # ro "Well, sorry to disappoint you. But, it's already late and I've just finished walking my rounds around the hotel. Everyone is either asleep or at least in their rooms."
+    ro "Eh bien, désolée de te décevoir. Mais, il est déjà tard et je viens de finir ma tournée de l'hôtel. Tout le monde est endormi ou au moins dans sa chambre."
 
-        if v11_underground_rose:
-            ro "As I said before, I have something special planned for us here in Paris. Want me to show you?"
-        else:
-            ro "I have something special planned for us here in Paris. Want me to show you?"
+# game/v12/scene23.rpy:54
+translate francais v12_ms_rose_sex_ff407fcb:
 
-        scene v12msr2a
-        with dissolve
+    # u "Oh. Well I guess I might as well just go back to my room too. *Chuckles*"
+    u "Oh. Eh bien, je crois que je devrais aussi retourner dans ma chambre. *Rire*"
 
-        menu:
-            "Not tonight":
-                scene v12msr2c
-                with dissolve
+# game/v12/scene23.rpy:59
+translate francais v12_ms_rose_sex_3530230e:
 
-                u "Sorry, but... Not tonight. I'm just gonna stay in and get some extra sleep. I'll try to have a more fun-filled day tomorrow, haha."
+    # ro "*Chuckles* Alright, then. Be sure to make tomorrow a more fun-filled day."
+    ro "*Rire* Très bien, alors. Essaie de faire de demain une journée plus amusante."
 
-                scene v12msr2b
-                with dissolve
+# game/v12/scene23.rpy:64
+translate francais v12_ms_rose_sex_5d02055e:
 
-                ro "Oh... That's too bad, but no worries. See you around."
+    # u "Will do."
+    u "Ça ira."
 
-                scene v12msr3
-                with dissolve
+# game/v12/scene23.rpy:69
+translate francais v12_ms_rose_sex_f89416b9:
 
-                pause 0.75
+    # ro "Have a good night, [name]."
+    ro "Passe une bonne nuit, [name]."
 
-                scene v12msr4
-                with dissolve
+# game/v12/scene23.rpy:74
+translate francais v12_ms_rose_sex_9fb611a7:
 
-                u "(I know what she had in mind.)"
+    # u "You too."
+    u "Toi aussi."
 
-                scene v12msr33
-                with dissolve
+# game/v12/scene23.rpy:84
+translate francais v12_ms_rose_sex_897de684:
 
-                pause 0.75
+    # u "(And right back to my room.)"
+    u "(Et je retourne dans ma chambre.)"
 
-                scene v12msr34
-                with dissolve
+# game/v12/scene23.rpy:100
+translate francais v12_ms_rose_sex_2477e0a8:
 
-                pause 0.75
+    # ro "Well you haven't been around me..."
+    ro "Eh bien, tu n'as pas été proche de moi..."
 
-            "Let's go":
-                $ add_point(KCT.TROUBLEMAKER)
-                
-                $ sceneList.add("v12_rose")
-                $ ms_rose.relationship = Relationship.FWB
+# game/v12/scene23.rpy:105
+translate francais v12_ms_rose_sex_b092f94c:
 
-                label v12_ms_rose_sex_sg:
+    # ro "I did my nightly walk around and everyone else is asleep or at least in their rooms."
+    ro "J'ai fait ma ronde de nuit et tout le monde est endormi ou du moins dans sa chambre."
 
-                scene v12msr2c
-                with dissolve
+# game/v12/scene23.rpy:110
+translate francais v12_ms_rose_sex_5e736337:
 
-                u "Let's go."
+    # u "It does feel like I haven't seen you in awhile."
+    u "J'ai l'impression de ne pas t'avoir vu depuis un moment."
 
-                scene v12msr2
-                with dissolve
+# game/v12/scene23.rpy:116
+translate francais v12_ms_rose_sex_e56f0c7c:
 
-                ro "*Chuckles* Follow me to the car."
+    # ro "As I said before, I have something special planned for us here in Paris. Want me to show you?"
+    ro "Comme je te l'ai dit, j'ai prévu quelque chose de spécial pour nous ici à Paris. Tu veux que je te montre ?"
 
-                scene v12msr5 # TPP. Show MC and Ms. Rose walking in the hotel lobby, both smiling, mouths closed
-                with dissolve
+# game/v12/scene23.rpy:118
+translate francais v12_ms_rose_sex_40760abb:
 
-                pause 0.75
+    # ro "I have something special planned for us here in Paris. Want me to show you?"
+    ro "J'ai prévu quelque chose de spécial pour nous ici à Paris. Tu veux que je te montre ?"
 
-                scene v12msr6 # TPP. Show MC and Ms. Rose getting into the car (Ms. Rose driving), both smiling, mouths closed
-                with dissolve
+# game/v12/scene23.rpy:128
+translate francais v12_ms_rose_sex_84ce0bb6:
 
-                pause 0.75
+    # u "Sorry, but... Not tonight. I'm just gonna stay in and get some extra sleep. I'll try to have a more fun-filled day tomorrow, haha."
+    u "Désolé, mais... Pas ce soir. Je vais juste rester dans ma chambre et dormir un peu plus. Je vais essayer d'avoir une journée plus amusante demain, haha."
 
-                scene v12msr7 # TPP. Car on road
-                with dissolve
+# game/v12/scene23.rpy:133
+translate francais v12_ms_rose_sex_6da73ef3:
 
-                pause 0.75
+    # ro "Oh... That's too bad, but no worries. See you around."
+    ro "Oh... C'est dommage, mais ne t'inquiète pas. On se verra plus tard."
 
-                scene v12msr8 # TPP. MC and Ms. Rose getting out of the car in front of the Paris Living Room asset, both smiling, mouths closed
-                with fade
+# game/v12/scene23.rpy:143
+translate francais v12_ms_rose_sex_a4aa42c5:
 
-                pause 0.75
+    # u "(I know what she had in mind.)"
+    u "(Je sais ce qu'elle avait en tête.)"
 
-                scene v12msr9 # TPP. Show MC and Ms. Rose walking into the living room, both smiling, mouths closed
-                with dissolve
+# game/v12/scene23.rpy:166
+translate francais v12_ms_rose_sex_sg_fabe1535:
 
-                pause 0.75
+    # u "Let's go."
+    u "Allons-y."
 
-                stop music fadeout 3
-                play music "music/v12/Track Scene 23_2.mp3" fadein 2
+# game/v12/scene23.rpy:171
+translate francais v12_ms_rose_sex_sg_cd729d28:
 
-                scene v12msr10 # FPP. MC and Ms. Rose in living room, looking at each other, Ms. Rose slight smile, mouth closed
-                with dissolve
+    # ro "*Chuckles* Follow me to the car."
+    ro "*Rire* Suis-moi jusqu'à la voiture."
 
-                u "This is a beautiful place, Lorraine... How'd you get it?"
+# game/v12/scene23.rpy:204
+translate francais v12_ms_rose_sex_sg_02e7b43b:
 
-                scene v12msr10a # FPP. Same as v12msr10, Ms. Rose slight smile, mouth open
-                with dissolve
+    # u "This is a beautiful place, Lorraine... How'd you get it?"
+    u "C'est un endroit magnifique, Lorraine... Comment tu l'as eu ?"
 
-                ro "I rented it, just for us. I wanted to have a nice little escape of my own while we're here in Paris. Tonight though, there's something else I want all to myself."
+# game/v12/scene23.rpy:209
+translate francais v12_ms_rose_sex_sg_9c9d1ee6:
 
-                scene v12msr11 # TPP. Show Ms. Rose walking towards the black mantle that has a bottle of wine and 2 glasses, Ms. Rose smiling, mouth closed
-                with dissolve
+    # ro "I rented it, just for us. I wanted to have a nice little escape of my own while we're here in Paris. Tonight though, there's something else I want all to myself."
+    ro "Je l'ai loué, juste pour nous. Je voulais m'échapper un peu pendant qu'on est à Paris. Mais ce soir, il y a autre chose que je veux pour moi toute seule."
 
-                pause 0.75
+# game/v12/scene23.rpy:224
+translate francais v12_ms_rose_sex_sg_1e29f122:
 
-                scene v12msr12 # TPP. Show Ms. Rose pouring a glass of wine, Ms. Rose slight smile, mouth closed
-                with dissolve
+    # ro "Here, try this wine."
+    ro "Tiens, goûte ce vin."
 
-                pause 0.75
+# game/v12/scene23.rpy:234
+translate francais v12_ms_rose_sex_sg_169c570c:
 
-                scene v12msr10b # FPP. Same as v12msr10, Ms. Rose handing MC a glass of wine, Ms. Rose slight smile, mouth open, she has her glass in the other hand
-                with dissolve
+    # u "Mmm... This is the richest wine I've ever tasted. *Chuckles*"
+    u "Mmm... C'est le vin le plus fruité que j'ai jamais goûté. *Rire*"
 
-                ro "Here, try this wine."
+# game/v12/scene23.rpy:239
+translate francais v12_ms_rose_sex_sg_0f1064a0:
 
-                scene v12msr13 # TPP. Show MC taking a sip of his wine
-                with dissolve
+    # ro "The best that Paris has to offer... It cost me a pretty penny."
+    ro "Le meilleur de ce que Paris a à offrir... Ça m'a coûté un bon paquet."
 
-                pause 0.75
+# game/v12/scene23.rpy:244
+translate francais v12_ms_rose_sex_sg_09226116:
 
-                scene v12msr10c # FPP. Same as v12msr10b, Ms. Rose drinking her wine
-                with dissolve
+    # u "And you decided to share?"
+    u "Et tu as décidé de le partager ?"
 
-                u "Mmm... This is the richest wine I've ever tasted. *Chuckles*"
+# game/v12/scene23.rpy:249
+translate francais v12_ms_rose_sex_sg_dec7ab73:
 
-                scene v12msr10d # FPP. Same as v12msr10c, Ms. Rose holding her glass, Ms. Rose slight smile, mouth open
-                with dissolve
+    # ro "Felt like the perfect time to open it. Now hurry up and drink it. *Chuckles*"
+    ro "C'était le moment idéal pour l'ouvrir. Maintenant vas-y, bois-le. *Rire*"
 
-                ro "The best that Paris has to offer... It cost me a pretty penny."
+# game/v12/scene23.rpy:264
+translate francais v12_ms_rose_sex_sg_b0c2e027:
 
-                scene v12msr10e # FPP. Same as v12msr10d, Ms. Rose slight smile, mouth closed
-                with dissolve
+    # u "Good... Fucking... God."
+    u "C'est bon... Putain de... Merde."
 
-                u "And you decided to share?"
+# game/v12/scene23.rpy:272
+translate francais v12_ms_rose_sex_sg_7e98b472:
 
-                scene v12msr10d
-                with dissolve
+    # ro "Hmm? *Chuckles* Like what you see?"
+    ro "Hmm ? *Rire* Tu aimes ce que tu vois ?"
 
-                ro "Felt like the perfect time to open it. Now hurry up and drink it. *Chuckles*"
+# game/v12/scene23.rpy:277
+translate francais v12_ms_rose_sex_sg_deb0bb8f:
 
-                scene v12msr10c
-                with dissolve
+    # u "Like it? I lov-"
+    u "Si j'aime ça ? J'ado-"
 
-                pause 0.75
+# game/v12/scene23.rpy:282
+translate francais v12_ms_rose_sex_sg_5651885a:
 
-                scene v12msr14 # TPP. Show Ms. Rose walking over to the mirror, MC following her, both smiling, mouths closed
-                with dissolve
+    # ro "Then show me..."
+    ro "Alors montre-moi..."
 
-                pause 0.75
+# game/v12/scene23.rpy:303
+translate francais v12_ms_rose_sex_sg_e47df692:
 
-                scene v12msr15 # FPP. MC standing in front of Ms. Rose, she's in front of the mirror, MC watching as Ms. Rose removes her top, Ms. Rose seductive look, mouth closed
-                with dissolve
+    # ro "That's a good fucking student. Yesss..."
+    ro "Voilà un putain de bon étudiant. Oui, ouiiiii..."
 
-                u "Good... Fucking... God."
+# game/v12/scene23.rpy:309
+translate francais v12_ms_rose_sex_sg_900029d1:
 
-                if config_censored:
-                    call screen censoredPopup("v12s23_nsfwSkipLabel1")
+    # ro "Ahhh... Haha, definitely getting an A for this. Mmm..."
+    ro "Ahhh... Haha, on obtient assurément un A pour ça. Mmm..."
 
-                scene v12msr15a # FPP. Same as v12msr15, Ms. Rose topless, seductive look, mouth open
-                with dissolve
+# game/v12/scene23.rpy:314
+translate francais v12_ms_rose_sex_sg_ebef5277:
 
-                ro "Hmm? *Chuckles* Like what you see?"
+    # ro "*Moans*"
+    ro "*Gémis*"
 
-                scene v12msr15b # FPP. Same as v12msr15a, Ms. Rose removing her skirt, seductive look, mouth closed
-                with dissolve
+# game/v12/scene23.rpy:319
+translate francais v12_ms_rose_sex_sg_619381cc:
 
-                u "Like it? I lov-"
+    # ro "Fuck!"
+    ro "Putain !"
 
-                scene v12msr15c # FPP. Same as v12msr15b, Ms. Rose pants off, seductive look, mouth open
-                with dissolve
+# game/v12/scene23.rpy:340
+translate francais v12_ms_rose_sex_sg_ba535680:
 
-                ro "Then show me..."
+    # ro "Someone's eager..."
+    ro "Quelqu'un a envie..."
 
-                scene v12msr16 # TPP. Show Ms. Rose grabbing MC's head and pushing him down to his knees so he gives her oral, both smiling, mouths closed
-                with dissolve
+# game/v12/scene23.rpy:346
+translate francais v12_ms_rose_sex_sg_62ec3343:
 
-                pause
+    # u "Damn right I am, look at you..."
+    u "Bien sûr que oui, regarde-toi..."
 
-                scene v12msr17 # TPP. Show Ms. Rose still holding MC's head, MC ready to give her oral, both smiling, mouths closed
-                with dissolve
+# game/v12/scene23.rpy:352
+translate francais v12_ms_rose_sex_sg_955e5735:
 
-                pause
+    # ro "Fuck, [name]. I needed you so badly... You have no idea- Ah!"
+    ro "Putain, [name]. J'avais tellement envie de toi... Tu n'as pas idée... Ah !"
 
-                image v12rosso = Movie(play="images/v12/Scene 23/v12rosso.webm", loop=True, image="images/v12/Scene 23/v12rossoStart.webp", start_image="images/v12/Scene 23/v12rossoStart.webp") # Rose standing oral
-                image v12rossof = Movie(play="images/v12/Scene 23/v12rossof.webm", loop=True, image="images/v12/Scene 23/v12rossoStart.webp", start_image="images/v12/Scene 23/v12rossoStart.webp") # Rose standing oral spedup
-                image v12rosso2 = Movie(play="images/v12/Scene 23/v12rosso2.webm", loop=True, image="images/v12/Scene 23/v12rosso2Start.webp", start_image="images/v12/Scene 23/v12rosso2Start.webp") # Rose standing oral TPP 2
-                image v12rosso2f = Movie(play="images/v12/Scene 23/v12rosso2f.webm", loop=True, image="images/v12/Scene 23/v12rosso2Start.webp", start_image="images/v12/Scene 23/v12rosso2Start.webp") # Rose standing oral TPP 2 spedup
+# game/v12/scene23.rpy:358
+translate francais v12_ms_rose_sex_sg_f31d55e7:
 
-                scene v12rosso # Ignore as animation
-                with dissolve
-                pause
+    # u "*Grunts*"
+    u "*Grogne*"
 
-                ro "That's a good fucking student. Yesss..."
+# game/v12/scene23.rpy:380
+translate francais v12_ms_rose_sex_sg_7f599598:
 
-                scene v12rossof # Ignore as animation
-                with dissolve
-                pause
+    # ro "Ooo, yes baby... I love this!"
+    ro "Ouuuh, oui bébé... J'adore ça !"
 
-                ro "Ahhh... Haha, definitely getting an A for this. Mmm..."
+# game/v12/scene23.rpy:386
+translate francais v12_ms_rose_sex_sg_804b3a75:
 
-                scene v12rosso2 # Ignore as animation
-                with dissolve
+    # ro "F-f-fuckkkkk..."
+    ro "P-p-putaiiiiin..."
 
-                ro "*Moans*"
+# game/v12/scene23.rpy:392
+translate francais v12_ms_rose_sex_sg_f1a8a066:
 
-                scene v12rosso2f # Ignore as animation
-                with dissolve
+    # u "Ah ah ah... We're not anywhere near being finished."
+    u "Ah ah ah... On est loin d'avoir fini."
 
-                ro "Fuck!"
+# game/v12/scene23.rpy:398
+translate francais v12_ms_rose_sex_sg_caef7e8c:
 
-                scene v12msr18 # TPP. Show MC removing his shirt, standing up now, both smiling, mouths closed
-                with dissolve
+    # ro "*Moans* What are yo-"
+    ro "*Gémis* Qu'est-ce que tu..."
 
-                pause
-                
-                scene v12msr19 # TPP. Show MC getting ready to fuck Ms. Rose in standing missionary, kissing her neck
-                with dissolve
+# game/v12/scene23.rpy:414
+translate francais v12_ms_rose_sex_sg_3e3c2016:
 
-                pause
+    # u "Fuck yes..."
+    u "Putain oui..."
 
-                image v12rossm = Movie(play="images/v12/Scene 23/v12rossm.webm", loop=True, image="images/v12/Scene 23/v12rossmStart.webp", start_image="images/v12/Scene 23/v12rossmStart.webp") # Rose standing missionary
-                image v12rossmf = Movie(play="images/v12/Scene 23/v12rossmf.webm", loop=True, image="images/v12/Scene 23/v12rossmStart.webp", start_image="images/v12/Scene 23/v12rossmStart.webp") # Rose standing missionary spedup
-                image v12rossm2 = Movie(play="images/v12/Scene 23/v12rossm2.webm", loop=True, image="images/v12/Scene 23/v12rossm2Start.webp", start_image="images/v12/Scene 23/v12rossm2Start.webp") # Rose standing missionary TPP 2
-                image v12rossm2f = Movie(play="images/v12/Scene 23/v12rossm2f.webm", loop=True, image="images/v12/Scene 23/v12rossm2Start.webp", start_image="images/v12/Scene 23/v12rossm2Start.webp") # Rose standing missionary TPP 2 spedup
+# game/v12/scene23.rpy:416
+translate francais v12_ms_rose_sex_sg_e71fd4f3:
 
-                scene v12rossm # Ignore as animation
-                with dissolve
-                pause
+    # ro "I'm loving this... New side of you... [name]... Yes... Please! F-fuck..."
+    ro "J'adore ça... une nouvelle facette de toi... [name]... Oui... S'il te plaît ! P-putain..."
 
-                ro "Someone's eager..."
+# game/v12/scene23.rpy:422
+translate francais v12_ms_rose_sex_sg_d6f87311:
 
-                scene v12rossmf # Ignore as animation
-                with dissolve
-                pause
+    # u "You're... such... a fucking... slut!"
+    u "Tu es... une telle... putain... de salope !"
 
-                u "Damn right I am, look at you..."
+# game/v12/scene23.rpy:424
+translate francais v12_ms_rose_sex_sg_0d7a103e:
 
-                scene v12rossm2 # Ignore as animation
-                with dissolve
-                pause
+    # ro "I... I-I am..."
+    ro "Je... Je-je suis..."
 
-                ro "Fuck, [name]. I needed you so badly... You have no idea- Ah!"
+# game/v12/scene23.rpy:430
+translate francais v12_ms_rose_sex_sg_1156dad8:
 
-                scene v12rossm2f # Ignore as animation
-                with dissolve
-                pause
+    # ro "Fuck me, [name]... Fast... I'm going to c-"
+    ro "Baise-moi, [name]... vite... Je vais jo-"
 
-                u "*Grunts*"
+# game/v12/scene23.rpy:432
+translate francais v12_ms_rose_sex_sg_ff2c13d2:
 
-                scene v12msr20 # TPP. Show MC moving Ms. Rose to the back of the white sofa
-                with dissolve
+    # ro "*Moans* Mmmnnhh... FUCK! *Gasps*"
+    ro "*Gémis* Mmmnnhh... PUTAIN ! *Halète*"
 
-                pause
+# game/v12/scene23.rpy:438
+translate francais v12_ms_rose_sex_sg_cb02b0c3:
 
-                scene v12msr21 # TPP. Show MC bending Ms. Rose over the back of the white sofa, ready to fuck her doggystyle
-                with dissolve
+    # u "I'm... almost there! You're so... FUCKING... HOT!"
+    u "Je y suis... presque là ! Tu es si... PUTAIN DE... CHAUDE !"
 
-                pause
+# game/v12/scene23.rpy:440
+translate francais v12_ms_rose_sex_sg_33727808:
 
-                image v12rossd = Movie(play="images/v12/Scene 23/v12rossd.webm", loop=True, image="images/v12/Scene 23/v12rossdStart.webp", start_image="images/v12/Scene 23/v12rossdStart.webp") # Rose doggystyle
-                image v12rossdf = Movie(play="images/v12/Scene 23/v12rossdf.webm", loop=True, image="images/v12/Scene 23/v12rossdStart.webp", start_image="images/v12/Scene 23/v12rossdStart.webp") # Rose doggystyle spedup
-                image v12rossd2 = Movie(play="images/v12/Scene 23/v12rossd2.webm", loop=True, image="images/v12/Scene 23/v12rossd2Start.webp", start_image="images/v12/Scene 23/v12rossd2Start.webp") # Rose doggystyle FPP
-                image v12rossd2f = Movie(play="images/v12/Scene 23/v12rossd2f.webm", loop=True, image="images/v12/Scene 23/v12rossd2Start.webp", start_image="images/v12/Scene 23/v12rossd2Start.webp") # Rose doggystyle FPP spedup
+    # ro "Do it inside, [name]! Fill me up... Please... I..."
+    ro "Jouis à l'intérieur, [name] ! Remplis-moi... S'il te plaît... Je..."
 
+# game/v12/scene23.rpy:466
+translate francais v12_ms_rose_sex_sg_9a93e99a:
 
-                scene v12rossd # Ignore as animation
-                with dissolve
-                pause
+    # u "(Ho... ly... shit)"
+    u "(Pu... de... merde) "
 
-                ro "Ooo, yes baby... I love this!"
+# game/v12/scene23.rpy:468
+translate francais v12_ms_rose_sex_sg_acd8b049:
 
-                scene v12rossdf # Ignore as animation
-                with dissolve
-                pause
+    # u "I don't know where all that energy came from..."
+    u "Je ne sais pas d'où te vient toute cette énergie..."
 
-                ro "F-f-fuckkkkk..."
+# game/v12/scene23.rpy:473
+translate francais v12_ms_rose_sex_sg_1ea75f67:
 
-                scene v12rossd2 # Ignore as animation
-                with dissolve
-                pause
+    # ro "*Chuckles* I told you tonight would be special."
+    ro "*Rire* Je t'avais dit que cette soirée serait spéciale."
 
-                u "Ah ah ah... We're not anywhere near being finished."
+# game/v12/scene23.rpy:485
+translate francais v12_ms_rose_sex_sg_5a05a2a5:
 
-                scene v12rossd2f # Ignore as animation
-                with dissolve
-                pause
+    # u "Did you give me something?"
+    u "Tu m'as donné quelque chose ?"
 
-                ro "*Moans* What are yo-"
+# game/v12/scene23.rpy:490
+translate francais v12_ms_rose_sex_sg_9e273e81:
 
-                scene v12msr22 # TPP. Show MC grabbing Ms Rose's hands and holding them behind her back
-                with dissolve
+    # ro "Just a little boost..."
+    ro "Juste un petit coup de pouce..."
 
-                pause
+# game/v12/scene23.rpy:495
+translate francais v12_ms_rose_sex_sg_8c968b1d:
 
-                image v12roshh = Movie(play="images/v12/Scene 23/v12roshh.webm", loop=True, image="images/v12/Scene 23/v12roshhStart.webp", start_image="images/v12/Scene 23/v12roshhStart.webp") # Rose hand doggy
-                image v12roshhf = Movie(play="images/v12/Scene 23/v12roshhf.webm", loop=True, image="images/v12/Scene 23/v12roshhStart.webp", start_image="images/v12/Scene 23/v12roshhStart.webp") # Rose hand doggy spedup
-                image v12roshh2 = Movie(play="images/v12/Scene 23/v12roshh2.webm", loop=True, image="images/v12/Scene 23/v12roshh2Start.webp", start_image="images/v12/Scene 23/v12roshh2Start.webp") # Rose hand doggy FPP
-                image v12roshh2f = Movie(play="images/v12/Scene 23/v12roshh2f.webm", loop=True, image="images/v12/Scene 23/v12roshh2Start.webp", start_image="images/v12/Scene 23/v12roshh2Start.webp") # Rose hand doggy FPP spedup
+    # u "That was more than a little. I felt like a damn bullet!"
+    u "C'était plus qu'un peu. Je me sentais comme une putain de balle de fusil !"
 
-                scene v12roshh # Ignore as animation
-                with dissolve
-                pause
+# game/v12/scene23.rpy:500
+translate francais v12_ms_rose_sex_sg_67c4c38e:
 
-                u "Fuck yes..."
+    # ro "*Chuckles* You should be calming down any minute now..."
+    ro "*Rire* Tu devrais te calmer d'une minute à l'autre..."
 
-                ro "I'm loving this... New side of you... [name]... Yes... Please! F-fuck..."
+# game/v12/scene23.rpy:505
+translate francais v12_ms_rose_sex_sg_4ccc2f2b:
 
-                scene v12roshhf # Ignore as animation 
-                with dissolve
-                pause
+    # u "*Drowsy* I am starting to feel a little... Slower..."
+    u "*Somnole* Je commence... à me sentir un peu... Plus... lent..."
 
-                u "You're... such... a fucking... slut!"
+# game/v12/scene23.rpy:510
+translate francais v12_ms_rose_sex_sg_3203116b:
 
-                ro "I... I-I am..."
+    # ro "Just relax, baby... I've got you."
+    ro "Détends-toi, bébé... Je suis avec toi."
 
-                scene v12roshh2 # Ignore as animation
-                with dissolve
-                pause
+# game/v12/scene23.rpy:515
+translate francais v12_ms_rose_sex_sg_98c478d9:
 
-                ro "Fuck me, [name]... Fast... I'm going to c-"
+    # u "I'm feeling... really..."
+    u "Je me sens... vraiment..."
 
-                ro "*Moans* Mmmnnhh... FUCK! *Gasps*"
+# game/v12/scene23.rpy:542
+translate francais v12s23_nsfwSkipLabel1_21c816a4:
 
-                scene v12roshh2f # Ignore as animation
-                with dissolve
-                pause
+    # cl "Oh my g- Is he okay?!"
+    cl "Oh mer-... Il va bien ? !"
 
-                u "I'm... almost there! You're so... FUCKING... HOT!"
+# game/v12/scene23.rpy:547
+translate francais v12s23_nsfwSkipLabel1_b610614e:
 
-                ro "Do it inside, [name]! Fill me up... Please... I..."
+    # ro "Yes, honey... He was just drunk downstairs. *Chuckles*"
+    ro "Oui, trésor... Il était juste ivre en bas. *Rire*"
 
-                scene v12msr23 # TPP. Show MC cumming in Ms. Rose
-                with vpunch
+# game/v12/scene23.rpy:552
+translate francais v12s23_nsfwSkipLabel1_1106a139:
 
-                pause
+    # cl "Oh... Not surprised. I got him. *Chuckles* Thank you, Ms. Rose."
+    cl "Oh... Pas vraiment surprise. Je le tiens. *Rire* Merci, Mme Rose."
 
-                scene v12msr24 # TPP. Closeup of Ms. Rose's pussy filled with cum
-                with dissolve
+# game/v12/scene23.rpy:557
+translate francais v12s23_nsfwSkipLabel1_f2daf587:
 
-                pause
+    # ro "Of course."
+    ro "Je vous en prie."
 
+# game/v12/scene23.rpy:568
+translate francais v12s23_nsfwSkipLabel1_dc8350e9:
 
-                scene v12msr25 # TPP. Ms. Rose turns around, looking at MC, kissing him
-                with dissolve
+    # ri "Oh my god, [name]! Is he hurt?!"
+    ri "Oh merde, [name] ! Est-il blessé ? !"
 
-                pause
-                
-                scene v12msr26 # TPP. Show MC going to sit down on the couch, smiling, mouth closed
-                with dissolve
+# game/v12/scene23.rpy:573
+translate francais v12s23_nsfwSkipLabel1_bd4b7184:
 
-                pause 0.75
+    # ro "No honey, just a little tipsy. *Chuckles*"
+    ro "Non, chérie, juste un peu pompette. *Rire*"
 
-                scene v12msr27 # FPP. MC sitting down on the couch, Ms. Rose standing in front of him, still naked, Ms. Rose smiling, mouth closed
-                with dissolve
+# game/v12/scene23.rpy:578
+translate francais v12s23_nsfwSkipLabel1_258f1eac:
 
-                u "(Ho... ly... shit)"
+    # ri "Wow, okay... I got him. Thank you so much, I'm sorry."
+    ri "Waouh, ok... Je le prends. Merci beaucoup, je suis désolée."
 
-                u "I don't know where all that energy came from..."
+# game/v12/scene23.rpy:583
+translate francais v12s23_nsfwSkipLabel1_e6faabe4:
 
-                scene v12msr27a # FPP. Same as v12msr27, Ms. Rose smiling, mouth open
-                with dissolve
+    # ro "No problem, really. You are on vacation after all... *Chuckles*"
+    ro "Il n'y a pas de problème, vraiment. Vous êtes en vacances après tout... *Rire*"
 
-                ro "*Chuckles* I told you tonight would be special."
+translate francais strings:
 
-                $ renpy.end_replay()
+    # game/v12/scene23.rpy:123
+    old "Let's go"
+    new "On y va"
+# TODO: Translation updated at 2022-01-18 10:42
 
-                scene v12msr28 # FPP. MC looks at the bottle of wine on the black mantle
-                with dissolve
+# game/v12/scene23.rpy:523
+translate francais v12s23_nsfwSkipLabel1_fc247ad9:
 
-                pause 0.75
+    # ro "Hmm, are you busy?"
+    ro "Hmm, tu es occupé ?"
 
-                scene v12msr27
-                with dissolve
+# game/v12/scene23.rpy:528
+translate francais v12s23_nsfwSkipLabel1_5fc3c52f:
 
-                u "Did you give me something?"
+    # u "No, not really."
+    u "Non, pas vraiment."
 
-                scene v12msr27a
-                with dissolve
+# game/v12/scene23.rpy:533
+translate francais v12s23_nsfwSkipLabel1_14ddb920:
 
-                ro "Just a little boost..."
+    # ro "How come? I'm sure there's plenty of things you and your friends could be doing."
+    ro "Comment ça ? Je suis sûre qu'il y a plein de choses que toi et tes amis pouvez faire."
 
-                scene v12msr27
-                with dissolve
+# game/v12/scene23.rpy:538
+translate francais v12s23_nsfwSkipLabel1_bbe9bd15:
 
-                u "That was more than a little. I felt like a damn bullet!"
+    # u "There's just not much going on today I guess. I came out here to see what was up."
+    u "Je crois qu'il n'y a pas grand-chose à faire aujourd'hui. Je suis venu ici pour voir ce qui se passait."
 
-                scene v12msr27a
-                with dissolve
+# game/v12/scene23.rpy:543
+translate francais v12s23_nsfwSkipLabel1_c1e7d382:
 
-                ro "*Chuckles* You should be calming down any minute now..."
+    # ro "Well, sorry to disappoint you. But, it's already late and I've just finished walking my rounds around the hotel. Everyone is either asleep or at least in their rooms."
+    ro "Eh bien, désolé de te décevoir. Mais, il est déjà tard et je viens de finir ma tournée des chambres. Tout le monde est endormi ou au moins est dans sa chambre."
 
-                scene v12msr27
-                with dissolve
+# game/v12/scene23.rpy:548
+translate francais v12s23_nsfwSkipLabel1_ff407fcb:
 
-                u "*Drowsy* I am starting to feel a little... Slower..."
+    # u "Oh. Well I guess I might as well just go back to my room too. *Chuckles*"
+    u "Oh. Eh bien, je crois que je pourrais aussi bien retourner dans ma chambre, moi aussi. *Rire*"
 
-                scene v12msr27a
-                with dissolve
+# game/v12/scene23.rpy:553
+translate francais v12s23_nsfwSkipLabel1_3530230e:
 
-                ro "Just relax, baby... I've got you."
+    # ro "*Chuckles* Alright, then. Be sure to make tomorrow a more fun-filled day."
+    ro "*Rire* Bon, très bien. Assure-toi de faire de demain une journée plus amusante."
 
-                scene v12msr27b # FPP. Same as v12msr27, screen blurry
-                with dissolve
+# game/v12/scene23.rpy:558
+translate francais v12s23_nsfwSkipLabel1_5d02055e:
 
-                u "I'm feeling... really..."
+    # u "Will do."
+    u "Ça ira."
 
-                stop music fadeout 3
-                play music "music/v12/Track Scene 23_3.mp3" fadein 2
+# game/v12/scene23.rpy:563
+translate francais v12s23_nsfwSkipLabel1_f89416b9:
 
-                label v12s23_nsfwSkipLabel1:
+    # ro "Have a good night, [name]."
+    ro "Passe une bonne nuit, [name]."
 
-                scene black
-                with dissolve
+# game/v12/scene23.rpy:568
+translate francais v12s23_nsfwSkipLabel1_9fb611a7:
 
-                play sound "sounds/dooropen.mp3"
+    # u "You too."
+    u "Toi aussi."
 
-                pause
+# game/v12/scene23.rpy:578
+translate francais v12s23_nsfwSkipLabel1_897de684:
 
-                scene black
-                with dissolve
-
-                play music "sounds/driving1.mp3" fadein 2
-
-                pause
-
-                stop music fadeout 3
-
-                if not v11_riley_roomate:
-                    scene v12msr29 # TPP. Chloe in front of MC and Ms. Rose, MC very drunk, Ms. Rose helping him stand up. Show Chloe looking at them, Chloe worried, mouth open (Only Chloe in shot)
-                    with dissolve
-
-                    cl "Oh my g- Is he okay?!"
-
-                    scene v12msr30 # TPP. Same positioning as v12msr29, show Ms. Rose supporting MC, Ms. Rose slight smile, mouth open, looking at Chloe
-                    with dissolve
-
-                    ro "Yes, honey... He was just drunk downstairs. *Chuckles*"
-
-                    scene v12msr29a # TPP. Same as v12msr29, Chloe slight smile, mouth open
-                    with dissolve
-
-                    cl "Oh... Not surprised. I got him. *Chuckles* Thank you, Ms. Rose."
-
-                    scene v12msr30
-                    with dissolve
-
-                    ro "Of course."
-
-                    scene v12msr31 # TPP. Show Chloe getting MC into bed, MC in his boxers
-                    with dissolve
-
-                    pause 0.75
-
-                else:
-                    scene v12msr29b # TPP. Same as v12msr29, instead of Chloe it's Riley, Riley worried, mouth open
-                    with dissolve
-
-                    ri "Oh my god, [name]! Is he hurt?!"
-
-                    scene v12msr30
-                    with dissolve
-
-                    ro "No honey, just a little tipsy. *Chuckles*"
-
-                    scene v12msr29c # TPP. Same as v12msr29b, Chloe slight smile, mouth open
-                    with dissolve
-
-                    ri "Wow, okay... I got him. Thank you so much, I'm sorry."
-
-                    scene v12msr30
-                    with dissolve
-
-                    ro "No problem, really. You are on vacation after all... *Chuckles*"
-
-                    scene v12msr31a # TPP. Same as v12msr31, Riley instead of Chloe
-                    with dissolve
-
-                    pause 0.75
-
-    else:
-        scene v12msr2
-        with dissolve
-
-        ro "Hmm, are you busy?"
-
-        scene v12msr2a
-        with dissolve
-
-        u "No, not really."
-
-        scene v12msr2
-        with dissolve
-
-        ro "How come? I'm sure there's plenty of things you and your friends could be doing."
-
-        scene v12msr2a
-        with dissolve
-
-        u "There's just not much going on today I guess. I came out here to see what was up."
-
-        scene v12msr2b # FPP. Same as v12msr2, different pose
-        with dissolve
-
-        ro "Well, sorry to disappoint you. But, it's already late and I've just finished walking my rounds around the hotel. Everyone is either asleep or at least in their rooms."
-
-        scene v12msr2c # FPP. Same as v12msr2b, Ms. Rose slight smile, mouth closed
-        with dissolve
-
-        u "Oh. Well I guess I might as well just go back to my room too. *Chuckles*"
-
-        scene v12msr2b
-        with dissolve
-
-        ro "*Chuckles* Alright, then. Be sure to make tomorrow a more fun-filled day."
-
-        scene v12msr2c
-        with dissolve
-
-        u "Will do."
-
-        scene v12msr2
-        with dissolve
-
-        ro "Have a good night, [name]."
-
-        scene v12msr2a
-        with dissolve
-
-        u "You too."
-
-        scene v12msr3 # TPP. Show Ms. Rose walking away from MC, Ms. Rose slight smile, mouth closed
-        with dissolve
-
-        pause 0.75
-
-        scene v12msr4 # TPP. Show MC walking into his room, slight smile, mouth closed
-        with dissolve
-
-        u "(And right back to my room.)"
-
-        scene v12msr33 # TPP. Show MC removing his shirt in the room, MC slight smile, mouth closed
-        with dissolve
-
-        pause 0.75
-
-        scene v12msr34 # TPP. Show MC getting in bed, slight smile, mouth closed, in his boxers
-        with dissolve
-
-        pause 0.75
-
-    scene v12msr32 # TPP. Show MC sleeping on his bed, in his boxers
-    with dissolve
-
-    pause 0.75
-
-    stop music fadeout 3
-
-    jump v12_simplr_convo #scene 24
+    # u "(And right back to my room.)"
+    u "(Et retour direct dans ma chambre.)"

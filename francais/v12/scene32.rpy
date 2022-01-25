@@ -1,893 +1,965 @@
-# SCENE 32:
-# Locations: Sidewalk, Photoshoot with 2 sets and flower bouquet stand
-# Characters: MC (Outfit: 3), AUBREY (Outfit: 2), NAOMI (Outfit: 1), PHOTOGRAPHER (Outfit: 1)
-# Time: Morning
-# Phone Images: YES
-# v12aumcsexy (MC and Aubrey sexy pose)
-# v12aunaselfie (Aubrey and Naomi selfie wearing bras, both smiling, mouths closed)
-# v12aucar (Aubrey sexy pic on car)
+﻿# TODO: Translation updated at 2021-12-31 19:06
 
-init python:
-    def v12s32kiwiiPost1_Reply1():
-        v12s32kiwiiPost1.newComment(naomi, _("Hehe, you too! Hope to see you soon...;)"), numberLikes=renpy.random.randint(583, 912), force_send=True)
-        v12s32kiwiiPost1.newComment(chloe, _("OMG!?!?!?!"), numberLikes=renpy.random.randint(124,354), force_send=True)
-        v12s32kiwiiPost1.newComment(imre, _("Bro... Is that you?!"), mentions=[mc], numberLikes=renpy.random.randint(53,93), force_send=True)
-    
-    def v12s32kiwiiPost1_Reply2():
-        v12s32kiwiiPost1.newComment(aubrey, _("You're so welcome... Today was amazing. <3"), numberLikes=renpy.random.randint(253, 462), force_send=True)
-        v12s32kiwiiPost1.newComment(chloe, _("OMG!?!?!?!"), numberLikes=renpy.random.randint(124,354), force_send=True)
-        v12s32kiwiiPost1.newComment(imre, _("Bro... Is that you?!"), mentions=[mc], numberLikes=renpy.random.randint(53,93), force_send=True)
+# game/v12/scene32.rpy:27
+translate francais v12s32_d3faecab:
 
-label v12s32:
-# -MC and Aubrey are walking along the sidewalk-
+    # u "So, where exactly are they doing the shoot?"
+    u "Alors, où est-ce qu'ils font le photoshoot exactement ?"
 
-    scene v12s32_1 # TPP show mc and aubrey walking along the side walk, make sure Aubrey is on the side of the wall, not the street for easier backgrounds in FPP. Mc looking at aubrey, mc mouth open, curious
-    with fade
+# game/v12/scene32.rpy:34
+translate francais v12s32_8efb972a:
 
-    u "So, where exactly are they doing the shoot?"
+    # au "It's at a Lew's store."
+    au "Dans un magasin Lew's."
 
-    play music "music/v12/Track Scene 32_1.mp3" fadein 2
+# game/v12/scene32.rpy:39
+translate francais v12s32_750713bd:
 
-    scene v12s32_2 # FPP, close up AUbrey looking at mc, but walking forwards. Aubrey slightly nervous not smiling, mouth open
-    with dissolve
+    # u "*Laughs* Tell me why I thought it was just at a random photography studio..."
+    u "*Rire* Dis-moi pourquoi je croyais que c'était juste dans un studio photos quelconque..."
 
-    au "It's at a Lew's store."
+# game/v12/scene32.rpy:44
+translate francais v12s32_ad6079f7:
 
-    scene v12s32_2a # same as 2, mouth closed
-    with dissolve
+    # au "Ha, that's what I thought at first too..."
+    au "Ha, j'ai pensé à la même chose au début..."
 
-    u "*Laughs* Tell me why I thought it was just at a random photography studio..."
+# game/v12/scene32.rpy:49
+translate francais v12s32_671edbe4:
 
-    scene v12s32_2
-    with dissolve
+    # u "You seem a little off, everything okay?"
+    u "Tu as l'air un peu ailleurs, tout va bien ?"
 
-    au "Ha, that's what I thought at first too..."
+# game/v12/scene32.rpy:54
+translate francais v12s32_a2f68c84:
 
-    scene v12s32_2a
-    with dissolve
+    # au "Yeah, everything's great. It's just..."
+    au "Oui, tout va bien. C'est juste que..."
 
-    u "You seem a little off, everything okay?"
+# game/v12/scene32.rpy:56
+translate francais v12s32_58e7ce6d:
 
-    scene v12s32_2
-    with dissolve
+    # au "I haven't seen my sister in a really long time and... Well, you'll see how she acts."
+    au "Je n'ai pas vu ma soeur depuis très longtemps et... Eh bien, tu verras comment elle se comporte."
 
-    au "Yeah, everything's great. It's just..."
+# game/v12/scene32.rpy:61
+translate francais v12s32_85636f28:
 
-    au "I haven't seen my sister in a really long time and... Well, you'll see how she acts."
+    # u "What does that mean? Should I be preparing for something?"
+    u "Qu'est-ce que ça veut dire ? Devrais-je me préparer à quelque chose ?"
 
-    scene v12s32_2a
-    with dissolve
+# game/v12/scene32.rpy:66
+translate francais v12s32_d2ef197a:
 
-    u "What does that mean? Should I be preparing for something?"
+    # au "You have nothing to worry about, I'm the one that has to get ready. *Chuckles*"
+    au "Tu n'as pas à t'inquiéter, c'est moi qui dois me préparer. *Rire*"
 
-    scene v12s32_2b # same as 2, aubrey slight smile, mouth open
-    with dissolve
+# game/v12/scene32.rpy:71
+translate francais v12s32_c69baa7b:
 
-    au "You have nothing to worry about, I'm the one that has to get ready. *Chuckles*"
+    # u "You're starting to actually scare me... *Chuckles*"
+    u "Tu commences vraiment à me faire peur... *Rire*"
 
-    scene v12s32_2c # same as 2b, mouth closed
-    with dissolve
+# game/v12/scene32.rpy:84
+translate francais v12s32_5c6db047:
 
-    u "You're starting to actually scare me... *Chuckles*"
+    # au "Leave it to my sister to get started early..."
+    au "Je laisse à ma soeur le soin de préparer le terrain..."
 
-    scene v12s32_3 # tpp Aubrey and mc enter the photoshoot place
-    with fade
+# game/v12/scene32.rpy:89
+translate francais v12s32_095f9e0e:
 
-    pause 0.7
+    # au "NAOMI!"
+    au "NAOMI !"
 
-    stop music fadeout 3
-    play music "music/v12/Track Scene 32_2.mp3" fadein 2
+# game/v12/scene32.rpy:99
+translate francais v12s32_e7c369ea:
 
-    scene v12s32_4 # FPP shows photographer taking pictures of Naomi (Aubrey's sister)
-    with dissolve
+    # na "Sister sister, with a mister mister! Oooooh..."
+    na "Ma soeur, ma soeur, avec un jeune homme ! Oooooh..."
 
-    au "Leave it to my sister to get started early..."
+# game/v12/scene32.rpy:104
+translate francais v12s32_1da28961:
 
-    scene v12s32_5 # FPP close up aubrey looking at naomi, shouting, mouth open
-    with dissolve
+    # na "Who's your boyfriend?"
+    na "Qui est ton petit ami ?"
 
-    au "NAOMI!"
+# game/v12/scene32.rpy:109
+translate francais v12s32_60ad9274:
 
-    scene v12s32_4a # same as 4, naomi looks to aubrey with a smile
-    with dissolve
+    # au "He's just my friend, Naomi."
+    au "C'est juste mon ami, Naomi."
 
-    pause 0.7
+# game/v12/scene32.rpy:114
+translate francais v12s32_6f4194ea:
 
-    scene v12s32_6 # FPP show naomi walking towards AUbrey and mc, big smile, mouth open, looking at Aubrey
-    with dissolve
+    # na "*Chuckles* Good to know!"
+    na "*Rire* C'est bon à savoir !"
 
-    na "Sister sister, with a mister mister! Oooooh..."
+# game/v12/scene32.rpy:116
+translate francais v12s32_274cf9be:
 
-    scene v12s32_7 #FPP show naomi close up standing, looking at mc (camera), mouth open, cheeky smile
-    with dissolve
+    # na "So what's your name \"just a friend\"?"
+    na "Alors, quel est ton nom ? \"Juste mon ami\" ?"
 
-    na "Who's your boyfriend?"
+# game/v12/scene32.rpy:121
+translate francais v12s32_b7c5ad6e:
 
-    scene v12s32_5b # same as 5, aubrey a little annoyed, mouth open
-    with dissolve
+    # u "My name's [name]. Nice to meet you."
+    u "Mon nom est [name]. Ravi de te rencontrer."
 
-    au "He's just my friend, Naomi."
+# game/v12/scene32.rpy:126
+translate francais v12s32_b44ef055:
 
-    scene v12s32_7
-    with dissolve
+    # na "Well, it's very nice to meet you too!"
+    na "Eh bien, c'est très agréable de te rencontrer également !"
 
-    na "*Chuckles* Good to know!"
+# game/v12/scene32.rpy:131
+translate francais v12s32_e9f8568a:
 
-    na "So what's your name \"just a friend\"?"
+    # na "You guys are teensy bit late, though."
+    na "Vous avez un tout petit peu de retard, tout de même."
 
-    scene v12s32_7a # same as 7, mouth closed
-    with dissolve
+# game/v12/scene32.rpy:136
+translate francais v12s32_7b1cc905:
 
-    u "My name's [name]. Nice to meet you."
+    # au "No we aren't, we still have two minutes 'til start..."
+    au "Non, nous avons encore deux minutes avant le début..."
 
-    scene v12s32_7
-    with dissolve
+# game/v12/scene32.rpy:141
+translate francais v12s32_27d5d409:
 
-    na "Well, it's very nice to meet you too!"
+    # na "Early is on time, sister! I already shot most of my needed pics. You guys get to have a good time now."
+    na "Trop tôt, c'est déjà trop tard, ma soeur ! J'ai déjà pris la plupart des photos dont j'avais besoin. Vous allez pouvoir passer un bon moment maintenant."
 
-    scene v12s32_7b # same as 7, naomi looking at aubrey, confident expression, mouth open
-    with dissolve
-    
-    na "You guys are teensy bit late, though."
+# game/v12/scene32.rpy:146
+translate francais v12s32_bdbdc04e:
 
-    scene v12s32_5b
-    with dissolve
+    # u "Wait, we're taking pictures?"
+    u "Attends, on prend des photos ?"
 
-    au "No we aren't, we still have two minutes 'til start..."
+# game/v12/scene32.rpy:151
+translate francais v12s32_0509cbb7:
 
-    scene v12s32_7b
-    with dissolve
+    # na "Of course you are, cutie... As much as I'd love for you to sit and watch me, today's shoot is for everybody."
+    na "Bien sûr que oui, mon mignon... Même si j'aimerais que tu t'assoies pour me regarder, la séance d'aujourd'hui est pour tout le monde."
 
-    na "Early is on time, sister! I already shot most of my needed pics. You guys get to have a good time now."
+# game/v12/scene32.rpy:156
+translate francais v12s32_3afa5638:
 
-    scene v12s32_7c # same as 7b, mouth closed
-    with dissolve
+    # u "Uhm... Aubrey???"
+    u "Euh... Aubrey ???"
 
-    u "Wait, we're taking pictures?"
+# game/v12/scene32.rpy:161
+translate francais v12s32_80e506c5:
 
-    scene v12s32_7
-    with dissolve
+    # au "I felt like you'd try skipping out if I told you we were taking pictures too."
+    au "J'avais l'impression que tu essaierais de t'enfuir si je te disais qu'on allait aussi faire des photos."
 
-    na "Of course you are, cutie... As much as I'd love for you to sit and watch me, today's shoot is for everybody."
+# game/v12/scene32.rpy:166
+translate francais v12s32_94fe5986:
 
-    scene v12s32_5c # same as 5b, mouth closed
-    with dissolve
+    # u "Maybe I would've... Nevertheless, I'm here now, aren't I?"
+    u "Peut-être que je l'aurais fait... Pourtant, je suis là maintenant, n'est-ce pas ?"
 
-    u "Uhm... Aubrey???"
+# game/v12/scene32.rpy:171
+translate francais v12s32_eb795ac7:
 
-    scene v12s32_5d # same as 5b, aubrey embarassed smile, mouth open, looking at mc
-    with dissolve
+    # na "Yes, you are! Captive by the camera. *Laughs*"
+    na "Oui, vous y êtes ! Prisonnier de l'appareil photo. *Rire*"
 
-    au "I felt like you'd try skipping out if I told you we were taking pictures too."
+# game/v12/scene32.rpy:176
+translate francais v12s32_0c7c75ab:
 
-    scene v12s32_5e # same as 5d, mouth closed
-    with dissolve
+    # u "So, is there a quick walkthrough or are we just jumping into it?"
+    u "Alors, il y a une marche à suivre rapide ou on s'y met tout de suite ?"
 
-    u "Maybe I would've... Nevertheless, I'm here now, aren't I?"
+# game/v12/scene32.rpy:181
+translate francais v12s32_49a9a2ca:
 
-    scene v12s32_7
-    with dissolve
+    # pg "Have you ever done modeling before?"
+    pg "Avez-vous déjà été mannequin avant ?"
 
-    na "Yes, you are! Captive by the camera. *Laughs*"
+# game/v12/scene32.rpy:186
+translate francais v12s32_37436619:
 
-    scene v12s32_7a
-    with dissolve
+    # au "I have!"
+    au "Oui, en effet !"
 
-    u "So, is there a quick walkthrough or are we just jumping into it?"
+# game/v12/scene32.rpy:191
+translate francais v12s32_5ef96b73:
 
-    scene v12s32_8 #FPP close up of photographer, neutral expression, mouth open, looking at mc
-    with dissolve
+    # na "Even if she hadn't, she's my sister. It's in her blood."
+    na "Même si elle ne l'avait jamais été, c'est ma soeur. C'est dans son sang."
 
-    pg "Have you ever done modeling before?"
+# game/v12/scene32.rpy:196
+translate francais v12s32_d98c26c0:
 
-    scene v12s32_5f # same as 5d, aubrey looking at photographer (off-screen), excited smile, mouth open
-    with dissolve
+    # u "I haven't done anything this serious before."
+    u "Je n'ai jamais fait quelque chose d'aussi sérieux avant."
 
-    au "I have!"
+# game/v12/scene32.rpy:201
+translate francais v12s32_62fea9ab:
 
-    scene v12s32_7d # same as 7b, naomi looking at photographer (off-screen) confident smile, mouth open
-    with dissolve
+    # na "Well, today's the day!"
+    na "Eh bien, c'est aujourd'hui le grand jour !"
 
-    na "Even if she hadn't, she's my sister. It's in her blood."
+# game/v12/scene32.rpy:211
+translate francais v12s32_98e3d4e9:
 
-    scene v12s32_8a # same as 8, mouth closed
-    with dissolve
+    # au "Are we doing candid or posing?"
+    au "On fait du spontané ou de la pose ?"
 
-    u "I haven't done anything this serious before."
+# game/v12/scene32.rpy:216
+translate francais v12s32_dcdf6f5e:
 
-    scene v12s32_7
-    with dissolve
+    # na "Posing of course! I wanna see the skills. *Chuckles*"
+    na "Des poses, bien sûr ! Je veux voir tes compétences. *Rire*"
 
-    na "Well, today's the day!"
+# game/v12/scene32.rpy:221
+translate francais v12s32_ae7991cb:
 
-    scene v12s32_10 # TPP naomi dragging mc towards the white backdrop setup
-    with dissolve
+    # pg "Alright, alright! Listen up..."
+    pg "Bien, très bien ! Ecoutez bien..."
 
-    pause 0.7
+# game/v12/scene32.rpy:223
+translate francais v12s32_7a2a31cf:
 
-    scene v12s32_11 # TPP show mc and aubrey in front of the white backdrop, mc confudsed, aubrey curious smile,mouth open
-    with dissolve
+    # pg "We're gonna take a few pics here based on my instructions. Then we're gonna move over to the car and pose with that. Questions?"
+    pg "On va prendre quelques photos ici en suivant mes instructions. Ensuite, nous allons nous déplacer vers la voiture et poser avec elle. Des questions ?"
 
-    au "Are we doing candid or posing?"
+# game/v12/scene32.rpy:228
+translate francais v12s32_d7c3ea57:
 
-    scene v12s32_12 # FPP close up naomi, looking at aubrey (off-screen), cheeky smile, mouth open
-    with dissolve
+    # u "Nope."
+    u "Nan."
 
-    na "Posing of course! I wanna see the skills. *Chuckles*"
+# game/v12/scene32.rpy:233
+translate francais v12s32_bc8f0a4c:
 
-    scene v12s32_13 # FPP close up photographer, camera in hands not looking into his camera tho, looking at aubrey, serious face, mouth open, explaining
-    with dissolve
+    # au "*Whisper* You're cool with all this right? I'm sorry if you feel kind of thrown into this, I just really wanted to do this shoot and I was too shy to come by myself."
+    au "*Chuchote* Tu es d'accord avec tout ça, hein ? Je suis désolée si tu te sens un peu perdu, je voulais vraiment faire ce shooting et j'étais trop timide pour venir toute seule."
 
-    pg "Alright, alright! Listen up..."
+# game/v12/scene32.rpy:238
+translate francais v12s32_072c359a:
 
-    pg "We're gonna take a few pics here based on my instructions. Then we're gonna move over to the car and pose with that. Questions?"
+    # u "*Whisper* But your sister's here?"
+    u "*Chuchote* Mais ta soeur est ici ?"
 
-    scene v12s32_13a # same as 13, mouth closed
-    with dissolve
+# game/v12/scene32.rpy:243
+translate francais v12s32_7faa747e:
 
-    u "Nope."
+    # au "*Whisper* That's the person I didn't want to be by myself with."
+    au "*Chuchote* C'est la personne avec laquelle je ne voulais pas être seule."
 
-    scene v12s32_14 # FPP close up Aubrey, (who's standing next to mc) looking at mc, slightly concerned for mc, whispering, mouth open
-    with dissolve
+# game/v12/scene32.rpy:248
+translate francais v12s32_b6ad43c4:
 
-    au "*Whisper* You're cool with all this right? I'm sorry if you feel kind of thrown into this, I just really wanted to do this shoot and I was too shy to come by myself."
+    # u "*Whisper* Why don't you-"
+    u "*Chuchote* Pourquoi tu ne..."
 
-    scene v12s32_14a # same as 14, mouth closed
-    with dissolve
+# game/v12/scene32.rpy:253
+translate francais v12s32_93033221:
 
-    u "*Whisper* But your sister's here?"
+    # pg "You said no questions yet you're yapping away! Let's get posing people!"
+    pg "Vous avez dit pas de questions et pourtant vous jacassez ! Allez, on pose !"
 
-    scene v12s32_14
-    with dissolve
+# game/v12/scene32.rpy:258
+translate francais v12s32_40fde312:
 
-    au "*Whisper* That's the person I didn't want to be by myself with."
+    # au "We'll talk later."
+    au "On en parlera plus tard."
 
-    scene v12s32_14a
-    with dissolve
+# game/v12/scene32.rpy:263
+translate francais v12s32_dedb0670:
 
-    u "*Whisper* Why don't you-"
+    # pg "I want you posing together, get sexy!"
+    pg "Je veux que vous posiez ensemble, soyez sexy !"
 
-    scene v12s32_13
-    with dissolve
+# game/v12/scene32.rpy:271
+translate francais v12s32_2c9fedd9:
 
-    pg "You said no questions yet you're yapping away! Let's get posing people!"
+    # u "Oh umm..."
+    u "Oh, hum..."
 
-    scene v12s32_14
-    with dissolve
+# game/v12/scene32.rpy:279
+translate francais v12s32_df10c864:
 
-    au "We'll talk later."
+    # au "Oh, okay."
+    au "Oh, okay."
 
-    scene v12s32_13b # same as 13, photographer now looking into his camera, ready to take pictures, mouth open, neutral expression
-    with dissolve
+# game/v12/scene32.rpy:294
+translate francais v12s32_f2cc5106:
 
-    pg "I want you posing together, get sexy!"
+    # pg "I wouldn't call that sexy but, alright..."
+    pg "Je ne qualifierais pas ça de sexy mais, bon..."
 
-    stop music fadeout 3
-    play music "music/v12/Track Scene 32_3.mp3" fadein 2
+# game/v12/scene32.rpy:301
+translate francais v12s32_bdf7709d:
 
-    scene v12s32_15 # TPP show Aubrey and mc, Aubrey looking at the camera, mc confused looking at aubrey, mouth open
-    with dissolve
+    # na "Oooh! I'm liking what I see!"
+    na "Oooh ! J'aime ce que je vois !"
 
-    u "Oh umm..."
+# game/v12/scene32.rpy:311
+translate francais v12s32_0c1259d9:
 
-    menu:
-        "Turn your back to Aubrey":
-            $ add_point(KCT.BRO)
-            scene v12s32_15a #same 15, MC crosses his arms and puts his back to Aubrey, aubrey a bit dissapointed, mouth upen
-            with dissolve
+    # pg "This is what you call perfection!"
+    pg "C'est ce qu'on appelle la perfection !"
 
-            au "Oh, okay."
+# game/v12/scene32.rpy:316
+translate francais v12s32_1bd8dec0:
 
-            scene v12s32_15b # -Aubrey crosses her arms and poses with her back to MC-
-            with dissolve
+    # au "I think they like us. *Chuckles*"
+    au "Je pense qu'ils aiment ce qu'on fait. *Rire*"
 
-            pause 0.7
+# game/v12/scene32.rpy:321
+translate francais v12s32_ada93264:
 
-            scene v12s32_15b # -Aubrey crosses her arms and poses with her back to MC-
-            with flash
+    # u "And so do I."
+    u "Et moi aussi."
 
-            pause 0.7
+# game/v12/scene32.rpy:336
+translate francais v12s32_80722004:
 
-            scene v12s32_13b
-            with dissolve
+    # pg "Let's do one more!"
+    pg "On en fait encore une !"
 
-            pg "I wouldn't call that sexy but, alright..."
+# game/v12/scene32.rpy:351
+translate francais v12s32_afa5acee:
 
-        "Put your arms around Aubrey":
-            $ add_point(KCT.BOYFRIEND)
-            scene v12s32_15c #same 15, Aubrey has her back to MC and he wraps his arms around her, squeezing her in tight, Aubrey smiles at him, mouth closed
-            with dissolve
+    # pg "Alright, these are very good shots and I guarantee they'll help the brand a lot. I can't wait to get these on our store Kiwii. You two have Kiwii's, right?"
+    pg "Très bien, ce sont de très bons clichés et je garantis qu'ils vont beaucoup aider la marque. Je suis impatient de les mettre sur notre boutique Kiwii. Vous avez tous les deux Kiwii, non ?"
 
-            na "Oooh! I'm liking what I see!"
+# game/v12/scene32.rpy:356
+translate francais v12s32_8e393453:
 
-            scene v12s32_15c 
-            with flash
+    # au "We do! I didn't know we were gonna get to be on the store page!"
+    au "En effet ! Je ne savais pas qu'on allait être sur la page de la boutique !"
 
-            pause 0.7
+# game/v12/scene32.rpy:361
+translate francais v12s32_1682d72e:
 
-            scene v12s32_13b
-            with dissolve
+    # pg "Of course you are!"
+    pg "Bien sûr que si !"
 
-            pg "This is what you call perfection!"
+# game/v12/scene32.rpy:366
+translate francais v12s32_a39cd53d:
 
-            scene v12s32_15d # same 15c, aubrey mouth open
-            with dissolve
+    # au "Oh my god, [name]... This is so fucking sick!"
+    au "Oh merde, [name]... C'est complètement dingue !"
 
-            au "I think they like us. *Chuckles*"
+# game/v12/scene32.rpy:371
+translate francais v12s32_c3d1c65b:
 
-            scene v12s32_15e # same 15d, aubrey mouth closed, mc mouth open smiling
-            with dissolve
+    # na "Following in your sister's footsteps... This is how it starts Aubby!"
+    na "En suivant les traces de sa sœur... C'est comme ça que ça commence, Aubby !"
 
-            u "And so do I."
+# game/v12/scene32.rpy:376
+translate francais v12s32_a27c36d0:
 
-    scene v12s32_15f #same 15, aubrey and mc do a different photo-pose (choose one from a pose pack or do one yourself). 
-    with dissolve
+    # u "*Chuckles* \"Aubby\"?"
+    u "*Rire* \"Aubby\" ?"
 
-    pause 0.7
+# game/v12/scene32.rpy:381
+translate francais v12s32_0d347132:
 
-    scene v12s32_15f
-    with flash
+    # au "It's just something she does, please don't read into it..."
+    au "C'est juste comme ça qu'elle m'appelait, s'il te plaît, ne cherche pas à comprendre..."
 
-    pause 0.7
+# game/v12/scene32.rpy:386
+translate francais v12s32_0dc9f58c:
 
-    scene v12s32_13b
-    with dissolve
+    # pg "Off to the next set people!"
+    pg "C'est parti pour la prochaine série !"
 
-    pg "Let's do one more!"
+# game/v12/scene32.rpy:396
+translate francais v12s32_3817e56d:
 
-    scene v12s32_15g #same 15f, aubrey and mc do another different photo-pose (choose one from a pose pack or do one yourself). 
-    with dissolve
+    # u "(This is the same car Chloe and I rode in.)"
+    u "(C'est la même voiture dans laquelle Chloé et moi avons roulé.)"
 
-    pause 0.7
+# game/v12/scene32.rpy:401
+translate francais v12s32_607e271a:
 
-    scene v12s32_15g
-    with flash
+    # pg "We want to get a few spicy photos for this setup. Don't worry, we're photoshopping your clothes."
+    pg "Nous voulons avoir quelques photos croustillantes pour cette séance. Ne vous inquiétez pas, nous allons photoshopper vos vêtements."
 
-    pause 0.7
+# game/v12/scene32.rpy:406
+translate francais v12s32_2d71cd5f:
 
-    scene v12s32_13
-    with dissolve
+    # na "I'll show you how this is done. *Chuckles*"
+    na "Je vais te montrer comment on fait. *Rire*"
 
-    pg "Alright, these are very good shots and I guarantee they'll help the brand a lot. I can't wait to get these on our store Kiwii. You two have Kiwii's, right?"
+# game/v12/scene32.rpy:411
+translate francais v12s32_29f04a71:
 
-    scene v12s32_14b # same 14, aubrey looking at photographer (off-screen), excited, mouth open
-    with dissolve
+    # pg "Ahh, my goddess..."
+    pg "Ahh, ma déesse..."
 
-    au "We do! I didn't know we were gonna get to be on the store page!"
+# game/v12/scene32.rpy:416
+translate francais v12s32_5c51e6b2:
 
-    scene v12s32_13
-    with dissolve
+    # u "She's confident!"
+    u "Elle est sûre d'elle !"
 
-    pg "Of course you are!"
+# game/v12/scene32.rpy:421
+translate francais v12s32_58c87d64:
 
-    scene v12s32_14d # same 14, aubrey looking at mc super excited, mouth open
-    with dissolve
+    # au "Sometimes too confident..."
+    au "Parfois trop sûre d'elle, oui..."
 
-    au "Oh my god, [name]... This is so fucking sick!"
+# game/v12/scene32.rpy:431
+translate francais v12s32_896732a8:
 
-    scene v12s32_12
-    with dissolve
+    # u "(Damn!)"
+    u "(Merde !)"
 
-    na "Following in your sister's footsteps... This is how it starts Aubby!"
+# game/v12/scene32.rpy:446
+translate francais v12s32_726bf88a:
 
-    scene v12s32_14c # same 14b, mouth closed
-    with dissolve
+    # pg "YES, MA'AM!! Give it to us..."
+    pg "OUI, M'DAME ! !! Donnez-nous tout ce que vous..."
 
-    u "*Chuckles* \"Aubby\"?"
+# game/v12/scene32.rpy:461
+translate francais v12s32_a8a78ccd:
 
-    scene v12s32_14
-    with dissolve
+    # pg "Yes, girl!"
+    pg "Oui, jeune fille !"
 
-    au "It's just something she does, please don't read into it..."
+# game/v12/scene32.rpy:466
+translate francais v12s32_a52c502f:
 
-    scene v12s32_13
-    with dissolve
+    # au "*Whisper to self* I'll never be that fucking good..."
+    au "*Chuchote à elle-même* Je ne serai jamais aussi douée..."
 
-    pg "Off to the next set people!"
+# game/v12/scene32.rpy:471
+translate francais v12s32_8b258704:
 
-    scene v12s32_16 # TPP show mc and aubrey walking towards the next set, the car chloe and mc rode in in front of a backdrop, both smiling
-    with dissolve
+    # u "Huh?"
+    u "Hein ?"
 
-    pause 0.7
+# game/v12/scene32.rpy:476
+translate francais v12s32_a70730cf:
 
-    scene v12s32_17 #FPP close up of the set with no people on it
-    with dissolve
+    # au "What? Oh, nothing. She's really good."
+    au "Quoi ? Oh, rien. Elle est vraiment douée."
 
-    u "(This is the same car Chloe and I rode in.)"
+# game/v12/scene32.rpy:481
+translate francais v12s32_4e40ec5e:
 
-    scene v12s32_18 # FPP photographer looking at mc (who's not standing on the set, but before it), mouth open, holding camera but not looking into it
-    with dissolve
+    # u "(I think she's jealous of her sister or something, maybe I should boost her up.)"
+    u "(Je pense qu'elle est jalouse de sa soeur ou un truc comme ça, je devrais peut-être la stimuler)."
 
-    pg "We want to get a few spicy photos for this setup. Don't worry, we're photoshopping your clothes."
+# game/v12/scene32.rpy:491
+translate francais v12s32_2ab91731:
 
-    scene v12s32_19 # FPP naomi walks onto the set, confident smile, mouth open
-    with dissolve
+    # u "You thought that was good? Aubrey can do that, and better... Get up there Aubrey!"
+    u "Vous pensiez que c'était bon ? Aubrey peut faire ça, et bien mieux... Monte là-haut Aubrey !"
 
-    na "I'll show you how this is done. *Chuckles*"
+# game/v12/scene32.rpy:495
+translate francais v12s32_6a4b526e:
 
-    scene v12s32_18a #same 18 FPP photographer looking at naomi (off-screen, she's at the car now), mouth open, smiling
-    with dissolve
+    # au "*Whisper* [name]!"
+    au "*Chuchote* [name] !"
 
-    pg "Ahh, my goddess..."
+# game/v12/scene32.rpy:500
+translate francais v12s32_4b2e8b24:
 
-    scene v12s32_20a # FPP close up Aubrey, who's standing next to you,looking at naomi (off-screne), mouth close, slightly concerned expression
-    with dissolve
+    # na "Ooohh! Someone sure has a lot of faith in you to think you can out do me. *Chuckles* Get up here little sis, let's see it!"
+    na "Ooohh ! Quelqu'un doit avoir beaucoup de foi en toi pour penser que tu peux me surpasser. *Rire* Viens ici petite soeur, voyons ça !"
 
-    u "She's confident!"
+# game/v12/scene32.rpy:505
+translate francais v12s32_fbbd575c:
 
-    scene v12s32_20b # same as 20a, aubrey now looking at mc, mouth open, slightly concerned expression
-    with dissolve
+    # u "*Whisper* You got this, just be yourself."
+    u "*Chuchote* Tu vas y arriver, sois juste toi-même."
 
-    au "Sometimes too confident..."
+# game/v12/scene32.rpy:512
+translate francais v12s32_1356a550:
 
-    scene v12s32_21 #FPP closeup  naomi, in front of the car, starts taking off her top (has bra beneath)
-    with dissolve
+    # u "(She's already pressured by her sister, I shouldn't add to it.)"
+    u "(Elle est déjà mise sous pression par sa sœur, je ne devrais pas en rajouter)."
 
-    pause 0.7
+# game/v12/scene32.rpy:517
+translate francais v12s32_83d1fb32:
 
-    scene v12s32_21a #same as 21 naomi, now just in bra, smiling at mc
-    with dissolve
+    # na "Hey Aubby, hope you were paying close attention 'cause it's your turn."
+    na "Hé Aubby, j'espère que tu as bien écouté parce que c'est ton tour."
 
-    u "(Damn!)"
+# game/v12/scene32.rpy:522
+translate francais v12s32_f5718e36:
 
-    scene v12s32_21b # same 21, naomi poses seductively in front of the car in just her bra
-    with dissolve
+    # au "*Whisper to self* Let's get this over with."
+    au "*Chuchote à elle-même* Finissons-en avec ça."
 
-    pause 0.7
+# game/v12/scene32.rpy:528
+translate francais v12s32_988faab4:
 
-    scene v12s32_21b
-    with flash
+    # au "*Sighs* Fine..."
+    au "*Soupirs* Bien..."
 
-    pause 0.7
+# game/v12/scene32.rpy:534
+translate francais v12s32_8c989ccf:
 
-    scene v12s32_18b # same 18a, close up photographer now taking pictures of naomi (off screen), mouth open, excited
-    with dissolve
+    # au "Wish me luck?"
+    au "Souhaite-moi bonne chance..."
 
-    pg "YES, MA'AM!! Give it to us..."
+# game/v12/scene32.rpy:539
+translate francais v12s32_3e5d7760:
 
-    scene v12s32_21c # same 21, naomi poses seductively, in a different pose in front of the car in just her bra
-    with dissolve
+    # u "You don't need luck... Look at you."
+    u "Tu n'as pas besoin de chance... Regarde-toi."
 
-    pause 0.7
+# game/v12/scene32.rpy:544
+translate francais v12s32_ee8e39a0:
 
-    scene v12s32_21c
-    with flash
+    # au "*Chuckles*"
+    au "*Rire*"
 
-    pause 0.7
+# game/v12/scene32.rpy:559
+translate francais v12s32_43f3aa50:
 
-    scene v12s32_18b
-    with dissolve
+    # u "(Damn, she really is good!)"
+    u "( Merde, elle est vraiment douée !)"
 
-    pg "Yes, girl!"
+# game/v12/scene32.rpy:569
+translate francais v12s32_b20f36da:
 
-    scene v12s32_20 # same 2a, mouth open
-    with dissolve
+    # pg "You're a natural! Naomi, you may have some competition..."
+    pg "Vous êtes vraiment naturelle ! Naomi, vous avez peut-être de la concurrence..."
 
-    au "*Whisper to self* I'll never be that fucking good..."
+# game/v12/scene32.rpy:571
+translate francais v12s32_70e682cb:
 
-    scene v12s32_20a
-    with dissolve
+    # pg "I bet out of all the photos we take today, these are gonna be the ones they want."
+    pg "Je parie que parmi toutes les photos qu'on a prises aujourd'hui, celles-ci seront celles qu'ils voudront."
 
-    u "Huh?"
+# game/v12/scene32.rpy:576
+translate francais v12s32_7fa4455d:
 
-    scene v12s32_20b
-    with dissolve
+    # na "Maybe I showed her a little too much of my talent... *Chuckles*"
+    na "Peut-être que je lui ai un peu trop montré mon savoir-faire... *Rire*"
 
-    au "What? Oh, nothing. She's really good."
+# game/v12/scene32.rpy:581
+translate francais v12s32_baa3f95d:
 
-    scene v12s32_20c # same 20b, mouth closed
-    with dissolve
+    # pg "I don't know! This all seems all nat-u-ral!"
+    pg "Je ne sais pas ! Tout ça a l'air vraiment na-tu-rel !"
 
-    u "(I think she's jealous of her sister or something, maybe I should boost her up.)"
+# game/v12/scene32.rpy:586
+translate francais v12s32_d872fb82:
 
-    menu:
-        "Boost Aubrey":
-            $ add_point(KCT.TROUBLEMAKER)
-            $ v12s32_Aubrey_Boost = True
-            $ aubrey.points += 1
+    # au "*Chuckles* Can I see the pictures?"
+    au "*Rire* Je peux voir les photos ?"
 
-            scene v12s32_21c 
-            with dissolve
-            u "You thought that was good? Aubrey can do that, and better... Get up there Aubrey!"
+# game/v12/scene32.rpy:591
+translate francais v12s32_9331e32b:
 
-            scene v12s32_20b
-            with dissolve
-            au "*Whisper* [name]!"
+    # pg "Of course! I'm going to send all of them to you."
+    pg "Bien sûr ! Je vais toutes vous les envoyer."
 
-            scene v12s32_21d # same 21c, naomi looking at Aubrey (off-screen), mouth open, excited, with one eyebrow raised
-            with dissolve
+# game/v12/scene32.rpy:596
+translate francais v12s32_05661870:
 
-            na "Ooohh! Someone sure has a lot of faith in you to think you can out do me. *Chuckles* Get up here little sis, let's see it!"
+    # au "Thank you so much!"
+    au "Merci beaucoup !"
 
-            scene v12s32_20a
-            with dissolve
+# game/v12/scene32.rpy:610
+translate francais v12s32_5a89ac9a:
 
-            u "*Whisper* You got this, just be yourself."
+    # au "Thanks for the support, that was definitely the boost of confidence I needed."
+    au "Merci pour le soutien, c'était vraiment le stimulant dont j'avais besoin."
 
-        "Leave it alone":
-            $ add_point(KCT.BRO)
-            scene v12s32_21c 
-            with dissolve
+# game/v12/scene32.rpy:615
+translate francais v12s32_3f915095:
 
-            u "(She's already pressured by her sister, I shouldn't add to it.)"
+    # u "Of course. I'll always be there for you."
+    u "Évidemment. Je serai toujours là pour toi."
 
-            scene v12s32_21d
-            with dissolve
+# game/v12/scene32.rpy:620
+translate francais v12s32_02b5819c:
 
-            na "Hey Aubby, hope you were paying close attention 'cause it's your turn."
+    # pg "Have you thought about going into modeling? I think you'd make an amazing Kiwii model... And if you're worried about looking like you're riding your sister's road to fame, don't."
+    pg "Avez-vous pensé à vous lancer dans le mannequinat ? Je pense que vous feriez un super modèle Kiwii... Et si vous avez peur d'avoir l'air de suivre le même chemin que votre soeur jusqu'à la gloire, il ne faut pas."
 
-            scene v12s32_20
-            with dissolve
+# game/v12/scene32.rpy:622
+translate francais v12s32_eb3f32ef:
 
-            au "*Whisper to self* Let's get this over with."
+    # pg "With pictures like this... You'll make it all on your own."
+    pg "Avec des photos comme ça... Vous y arriverez toute seule."
 
-    if aubrey.points == 0:
-        scene v12s32_20
-        with dissolve
+# game/v12/scene32.rpy:627
+translate francais v12s32_18ea8fa8:
 
-        au "*Sighs* Fine..."
+    # au "I've always thought about it, even before my sister started modeling I wanted to, but when she started and blew up I never thought I could match her speed. I mean, look at her."
+    au "J'y ai toujours pensé, même avant que ma sœur ne commence à faire du mannequinat, je voulais le faire, mais quand elle a commencé et qu'elle a fait fureur, je n'ai jamais pensé que je pourrais atteindre son niveau. Je veux dire, regardez-la."
 
-    if aubrey.points > 0:
-        scene v12s32_20d # same as 20b, aubrey cute smile at mc, mouth open
-        with dissolve
+# game/v12/scene32.rpy:632
+translate francais v12s32_39c558e8:
 
-        au "Wish me luck?"
+    # pg "Your sister is great in her own ways, but you yourself have a serious natural talent."
+    pg "Votre sœur est formidable à sa façon, mais vous avez vous-même un grand talent naturel."
 
-        scene v12s32_20e # same as 20d, mouth closed
-        with dissolve
+# game/v12/scene32.rpy:633
+translate francais v12s32_8589fb6b:
 
-        u "You don't need luck... Look at you."
+    # pg "Your sister and I have worked together for a long while and I know you're from the States, but if you'd be willing to work with me I'd be able to make you famous."
+    pg "Votre sœur et moi avons travaillé ensemble pendant longtemps et je sais que vous venez des États-Unis, mais si vous acceptez de travailler avec moi, je pourrais vous rendre célèbre."
 
-        scene v12s32_20d
-        with dissolve
+# game/v12/scene32.rpy:638
+translate francais v12s32_a1f8c8d0:
 
-        au "*Chuckles*"
+    # au "I... I really want to, but-"
+    au "Je... Je veux vraiment le faire, mais..."
 
-        scene v12s32_22 #TPP aubrey kisses mc on the cheek
-        with dissolve
+# game/v12/scene32.rpy:643
+translate francais v12s32_4563d883:
 
-        pause 0.7
+    # na "She'll do it."
+    na "Elle va le faire."
 
-    scene v12s32_23 # FPP closeup aubrey walking towards the car, starts taking her top off (bra underneath)
-    with dissolve
+# game/v12/scene32.rpy:648
+translate francais v12s32_b70a7090:
 
-    pause 0.7
+    # au "NAOMI!?"
+    au "NAOMI !?"
 
-    scene v12s32_24 # FPP closeup Aubrey makes a pose towards the camera in front of the car in her bra
-    with dissolve
+# game/v12/scene32.rpy:653
+translate francais v12s32_e656387b:
 
-    u "(Damn, she really is good!)"
+    # u "Aubrey, you looked good doing that. Really fucking good!"
+    u "Aubrey, tu étais belle en faisant ça. Vraiment très belle putain !"
 
-    scene v12s32_24
-    with flash
+# game/v12/scene32.rpy:658
+translate francais v12s32_3ee6e7ea:
 
-    pause 0.7
+    # au "Do you... You actually mean that?"
+    au "Est-ce que tu... Tu le penses vraiment ?"
 
-    scene v12s32_18b
-    with dissolve
+# game/v12/scene32.rpy:663
+translate francais v12s32_55924e5d:
 
-    pg "You're a natural! Naomi, you may have some competition..."
+    # u "I do. It's the happiest you've looked in a long time."
+    u "Je le pense vraiment, oui. Tu avais pas eu l'air aussi heureuse depuis longtemps."
 
-    pg "I bet out of all the photos we take today, these are gonna be the ones they want."
+# game/v12/scene32.rpy:668
+translate francais v12s32_5149396e:
 
-    scene v12s32_25 # FPP Closeup Naomi looking at Aubrey (Off-screen), cheeky smile, mouth open
-    with dissolve
+    # au "*Chuckles* Okay."
+    au "*Rire* Ok."
 
-    na "Maybe I showed her a little too much of my talent... *Chuckles*"
+# game/v12/scene32.rpy:673
+translate francais v12s32_0c66bf28:
 
-    scene v12s32_18b
-    with dissolve
+    # au "If [name] thinks I'd be good, then I'll give it a try."
+    au "Si [name] pense que je suis douée, alors je vais essayer."
 
-    pg "I don't know! This all seems all nat-u-ral!"
+# game/v12/scene32.rpy:678
+translate francais v12s32_919cb308:
 
-    scene v12s32_24a # same 24, aubrey looking at the camera (off-screen), mouth open, smiling
-    with dissolve
+    # pg "Perfect! Naomi, would you mind taking your sister over there to get her info set up?"
+    pg "Parfait ! Naomi, ça vous ennuierait d'emmener votre soeur là-bas pour qu'elle puisse mettre ses coordonnées ?"
 
-    au "*Chuckles* Can I see the pictures?"
+# game/v12/scene32.rpy:683
+translate francais v12s32_4f756abc:
 
-    scene v12s32_18a
-    with dissolve
+    # na "*Sighs* Yeah, guess we're on that \"out with the old and in with the new\" type of vibe... C'mon Aubrey."
+    na "*Soupirs* Ouais, je vois qu'on est sur ce genre de truc : \"on arrête avec la vieille et on commence avec la nouvelle\"... Allez, Aubrey."
 
-    pg "Of course! I'm going to send all of them to you."
+# game/v12/scene32.rpy:693
+translate francais v12s32_fc7a1cb8:
 
-    scene v12s32_24a
-    with dissolve
+    # pg "You're a lucky guy, my friend."
+    pg "Vous êtes un homme chanceux, mon ami."
 
-    au "Thank you so much!"
+# game/v12/scene32.rpy:698
+translate francais v12s32_ebd602d4:
 
-    scene v12s32_26 # FPP Aubrey walking towards you smiling, still in bra
-    with dissolve
+    # u "Why do you say that?"
+    u "Pourquoi dites-vous ça ?"
 
-    pause 0.7
+# game/v12/scene32.rpy:703
+translate francais v12s32_cd8820bb:
 
-    stop music fadeout 3
-    play music "music/v12/Track Scene 32_4.mp3" fadein 2
+    # pg "I've been trying to get with Naomi for years..."
+    pg "J'ai essayé de sortir avec Naomi pendant des années..."
 
-    if v12s32_Aubrey_Boost:
-        scene v12s32_27 # TPP show aubrey hugging mc, aubrey mouth open, cute smile
-        with dissolve
+# game/v12/scene32.rpy:705
+translate francais v12s32_1d873176:
 
-        au "Thanks for the support, that was definitely the boost of confidence I needed."
+    # pg "You walk in and not only does she like you but, it's clear you've also got a shot with her sister. Honestly, her sister is badder than she is. *Chuckles*"
+    pg "Vous débarquez et non seulement vous lui plaisez, mais il est clair que vous avez aussi une chance avec sa soeur. Et franchement, sa soeur est plus terrible qu'elle. *Rire*"
 
-        scene v12s32_27a # same 27, aubrey mouth closed, mc mouth open smiling
-        with dissolve
+# game/v12/scene32.rpy:710
+translate francais v12s32_581054aa:
 
-        u "Of course. I'll always be there for you."
+    # u "Aubrey isn't the relationship type."
+    u "Aubrey n'est pas du genre à avoir des relations sérieuses."
 
-    scene v12s32_28 # FPP close up photographer looking at Aubrey (off-camera, standing near mc), mouth open,thinking smile
-    with dissolve
+# game/v12/scene32.rpy:715
+translate francais v12s32_03418382:
 
-    pg "Have you thought about going into modeling? I think you'd make an amazing Kiwii model... And if you're worried about looking like you're riding your sister's road to fame, don't."
+    # pg "*Laughs* Don't ever believe that BS... Everyone is the relationship type. You just have to tame the beast."
+    pg "*Rire* Ne crois jamais à ces conneries... Tout le monde est du genre à avoir des relations. Vous devez juste apprendre à maîtriser la bête."
 
-    pg "With pictures like this... You'll make it all on your own."
+# game/v12/scene32.rpy:720
+translate francais v12s32_49fa90f2:
 
-    scene v12s32_29 # FPP close up Aubrey, mouth open, smile, looking at photographer (off-camera)
-    with dissolve
+    # u "I'll keep that in mind..."
+    u "Je vais garder ça en tête..."
 
-    au "I've always thought about it, even before my sister started modeling I wanted to, but when she started and blew up I never thought I could match her speed. I mean, look at her."
+# game/v12/scene32.rpy:725
+translate francais v12s32_89c62664:
 
-    scene v12s32_28
-    with dissolve
+    # pg "Don't just keep it in mind, act on it. Get her something. Make her see you. There's some flowers right there, feel free to grab a bouquet."
+    pg "Ne vous contentez pas de le garder en tête, agissez. Apportez-lui un cadeau. Faites en sorte qu'elle vous voie. Il y a des fleurs juste là, n'hésitez pas à prendre un bouquet."
 
-    pg "Your sister is great in her own ways, but you yourself have a serious natural talent."
-    pg "Your sister and I have worked together for a long while and I know you're from the States, but if you'd be willing to work with me I'd be able to make you famous."
+# game/v12/scene32.rpy:726
+translate francais v12s32_b8c74dd7:
 
-    scene v12s32_29
-    with dissolve
+    # pg "Hell, if I can't get her, I'd rather you than no one. Make me proud!"
+    pg "Bon sang, si je ne peux pas l'avoir, je préfère que ce soit vous plutôt que personne. Rendez-moi fier !"
 
-    au "I... I really want to, but-"
+# game/v12/scene32.rpy:736
+translate francais v12s32_a2c87577:
 
-    scene v12s32_30 # FPP close up naomi, looking at photographer (off-camera), mouth open, cheeky smile
-    with dissolve
-
-    na "She'll do it."
-
-    scene v12s32_29b #same 29, aubrey surprised, mouth open, looking at naomi (off-camera)
-    with dissolve
-
-    au "NAOMI!?"
-
-    scene v12s32_29c # same 29b, mouth closed
-    with dissolve
-
-    u "Aubrey, you looked good doing that. Really fucking good!"
-
-    scene v12s32_29d # same 29b, looking at mc (into the camera), cute smile,mouth open
-    with dissolve
-
-    au "Do you... You actually mean that?"
-
-    scene v12s32_29e # same 29d, mouth closed
-    with dissolve
-
-    u "I do. It's the happiest you've looked in a long time."
-
-    scene v12s32_29d
-    with dissolve
-
-    au "*Chuckles* Okay."
-
-    scene v12s32_29
-    with dissolve
-
-    au "If [name] thinks I'd be good, then I'll give it a try."
-
-    scene v12s32_28
-    with dissolve
-
-    pg "Perfect! Naomi, would you mind taking your sister over there to get her info set up?"
-
-    scene v12s32_30
-    with dissolve
-
-    na "*Sighs* Yeah, guess we're on that \"out with the old and in with the new\" type of vibe... C'mon Aubrey."
-
-    scene v12s32_31 #FPP Aubrey and Naomi walk off with each other
-    with dissolve
-
-    pause 0.7
-
-    scene v12s32_28b #FPP same as 28, photographer looking at mc (at the camera), jealous smile, mouth open
-    with dissolve
-
-    pg "You're a lucky guy, my friend."
-
-    scene v12s32_28c # same 28b, mouth closed
-    with dissolve
-
-    u "Why do you say that?"
-
-    scene v12s32_28b
-    with dissolve
-
-    pg "I've been trying to get with Naomi for years..."
-
-    pg "You walk in and not only does she like you but, it's clear you've also got a shot with her sister. Honestly, her sister is badder than she is. *Chuckles*"
-
-    scene v12s32_28c
-    with dissolve
-
-    u "Aubrey isn't the relationship type."
-
-    scene v12s32_28b
-    with dissolve
-
-    pg "*Laughs* Don't ever believe that BS... Everyone is the relationship type. You just have to tame the beast."
-
-    scene v12s32_28c
-    with dissolve
-
-    u "I'll keep that in mind..."
-
-    scene v12s32_28b
-    with dissolve
-
-    pg "Don't just keep it in mind, act on it. Get her something. Make her see you. There's some flowers right there, feel free to grab a bouquet."
-    pg "Hell, if I can't get her, I'd rather you than no one. Make me proud!"
-
-    scene v12s32_28d # same 28b, photographer walks off
-    with dissolve
-
-    pause 0.7
-
-    scene v12s32_32 # TPP mc walks over to the flower stand
-    with dissolve
-
+    # u "(Hmmm...)"
     u "(Hmmm...)"
 
-    scene v12s32_33 # FPP, close up Aubrey standing in fron mc, looking at mc, slight smile, mouth open
-    with dissolve
+# game/v12/scene32.rpy:741
+translate francais v12s32_5211a463:
 
-    au "They got me all set up! I think my sister is a little salty because she's just packed up and left... She said she had somewhere to be and that we'll talk later. *Sighs*"
+    # au "They got me all set up! I think my sister is a little salty because she's just packed up and left... She said she had somewhere to be and that we'll talk later. *Sighs*"
+    au "Ils m'ont tout préparé ! Je pense que ma soeur est un peu irritée parce qu'elle vient de faire ses bagages et de partir... Elle a dit qu'elle devait aller quelque part et qu'on se parlerait plus tard. *Soupirs*"
 
-    scene v12s32_33a # same 33, mouth closed
-    with dissolve
+# game/v12/scene32.rpy:746
+translate francais v12s32_d046a4c1:
 
-    u "Guess it bothered her how great you were."
+    # u "Guess it bothered her how great you were."
+    u "Je crois que ça l'a contrariée de voir à quel point tu étais géniale."
 
-    scene v12s32_33
-    with dissolve
+# game/v12/scene32.rpy:751
+translate francais v12s32_e72da085:
 
-    au "I did alright I guess."
+    # au "I did alright I guess."
+    au "Je me suis bien débrouillé, je pense."
 
-    scene v12s32_33a
-    with dissolve
+# game/v12/scene32.rpy:756
+translate francais v12s32_146f5d78:
 
-    u "I've never seen you flustered or even bothered, yet with this you've been acting unlike yourself. As if you're worried about impressing your sister or something."
+    # u "I've never seen you flustered or even bothered, yet with this you've been acting unlike yourself. As if you're worried about impressing your sister or something."
+    u "Je ne t'ai jamais vu agitée ou même ennuyée, mais là, tu n'es pas comme toi-même. Comme si tu étais inquiète d'impressionner ta soeur ou quelque chose comme ça."
 
-    scene v12s32_33
-    with dissolve
+# game/v12/scene32.rpy:761
+translate francais v12s32_9b042bdd:
 
-    au "Or something, yeah."
+    # au "Or something, yeah."
+    au "Ou quelque chose comme ça, oui."
 
-    au "I really like modeling and I think becoming a Kiwii model would be great, but I don't want to look like I'm doing it just because of her."
-    au "I also don't want any success if it feels like I only got it because of her."
+# game/v12/scene32.rpy:763
+translate francais v12s32_547b61ad:
 
-    au "I get she's older and everything, but this was my dream first... She wanted to be a vet. *Chuckles*"
+    # au "I really like modeling and I think becoming a Kiwii model would be great, but I don't want to look like I'm doing it just because of her."
+    au "J'aime vraiment le mannequinat et je pense que devenir mannequin pour Kiwii serait génial, mais je ne veux pas avoir l'air de le faire juste parce qu'elle le fait."
 
-    scene v12s32_33a
-    with dissolve
+# game/v12/scene32.rpy:764
+translate francais v12s32_f98eb7f3:
 
-    u "Then don't worry about her and live out your dream."
+    # au "I also don't want any success if it feels like I only got it because of her."
+    au "Je ne veux pas non plus avoir de succès si j'ai l'impression de ne l'avoir obtenu que grâce à elle."
 
-    scene v12s32_33
-    with dissolve
+# game/v12/scene32.rpy:766
+translate francais v12s32_5a477939:
 
-    au "Thanks, I'm feeling a lot better about doing just that... The staff gave me the pictures and they really do look amazing."
+    # au "I get she's older and everything, but this was my dream first... She wanted to be a vet. *Chuckles*"
+    au "Je sais qu'elle est plus âgée et tout, mais c'était mon rêve, à la base... Elle, elle voulait être vétérinaire. *Rire*"
 
-    au "I wanna get back as soon as possible and show these to everyone. I posted a few on Kiwii and my sister did too. Let's hurry back."
+# game/v12/scene32.rpy:771
+translate francais v12s32_6c9ecdfb:
 
-    python:
-        v12s32kiwiiPost1 = KiwiiPost(lews_official, "v12/v12s32_15g.webp", _("New faces in our new pieces! Check out the new Lavish Line on our website ;)"), numberLikes=3889)
-        v12s32kiwiiPost1.newComment(naomi, _("That's my baby sis! <3"), numberLikes=renpy.random.randint(952, 1512), force_send=True)
-        v12s32kiwiiPost1.newComment(aubrey, _("Thank you so much for having us! Can't wait for the future..."), numberLikes=renpy.random.randint(367, 526), force_send=True)
-        v12s32kiwiiPost1.newComment(chloe, _("OMG!?!?!?!"), numberLikes=renpy.random.randint(124,354), force_send=True)
-        v12s32kiwiiPost1.newComment(imre, _("Bro... Is that you?!"), mentions=[mc], numberLikes=renpy.random.randint(53,93), force_send=True)
+    # u "Then don't worry about her and live out your dream."
+    u "Alors ne t'inquiète pas pour elle et réalise TON rêve."
 
-        v12s32kiwiiPost2 = KiwiiPost(naomi, "v12/v12s32_24.webp", _("When little sis visits you at work and leaves with your JOB! #ProudBigSis"), numberLikes=2107)
-        v12s32kiwiiPost2.newComment(aubrey, _("Haha! I love you boo... Thank you for today :)"), mentions=[naomi], numberLikes=renpy.random.randint(278, 363), force_send=True)
-        v12s32kiwiiPost2.newComment(naomi, _("You're sooo welcome sissy. #ItRunsInTheFamily"), mentions=[aubrey], numberLikes=renpy.random.randint(747, 973), force_send=True) 
-        v12s32kiwiiPost2.newComment(nora, _("Hotties!! Hope you had an amazing time... Can't wait to see all the pics!"), numberLikes=renpy.random.randint(253, 462), force_send=True)
-        v12s32kiwiiPost2.newComment(chloe, _("JOB?!?!?!"), numberLikes=renpy.random.randint(245, 587), force_send=True)
-        v12s32kiwiiPost2.newComment(naomi, _("Thank you... <3"), numberLikes=renpy.random.randint(346, 579), force_send=True)
-        v12s32kiwiiPost2.newComment(aubrey, _("Thanks guys... I'll tell you all about it Chlo! Lol"), numberLikes=renpy.random.randint(253, 462), force_send=True)
+# game/v12/scene32.rpy:776
+translate francais v12s32_709fa761:
 
-        v12s32kiwiiPost3 = KiwiiPost(aubrey, "v12/v12s32_33.webp", _("You're looking at the newest Lew's model! #BestDayEver"), numberLikes=934)
-        v12s32kiwiiPost3.newComment(naomi, _("Watch out world, there's two of us... ;)"), numberLikes=renpy.random.randint(532, 737), force_send=True)
-        v12s32kiwiiPost3.newComment(chloe, _("Holy shit, Aubs! Fucking HOTTTT!!!"), numberLikes=renpy.random.randint(320, 479), force_send=True)
-        v12s32kiwiiPost3.newComment(aubrey, _("Haha, thank you babes <3"), numberLikes=renpy.random.randint(253, 462), force_send=True)
-        v12s32kiwiiPost3.addReply(_("Absolutely deserved."), numberLikes=renpy.random.randint(126, 367))
-        v12s32kiwiiPost3.newComment(ryan, _("Holy..."), numberLikes=renpy.random.randint(78, 153))
-        v12s32kiwiiPost3.newComment(imre, _("Pick up your jaw idiot! LOL"), mentions=[ryan], numberLikes=renpy.random.randint(69, 178))
+    # au "Thanks, I'm feeling a lot better about doing just that... The staff gave me the pictures and they really do look amazing."
+    au "Merci, je me sens beaucoup mieux à l'idée de faire ça... Le personnel m'a donné les photos et elles sont vraiment superbes."
 
+# game/v12/scene32.rpy:778
+translate francais v12s32_8ea0e269:
 
-#    python:
-#        v12s32kiwiiPost1 = KiwiiPost(lews_official, "v12/v12aumcsexy.webp", _("New faces in our new pieces! Check out the new Lavish Line on our website ;)"), numberLikes=3889)
-#        v12s32kiwiiPost1.newComment(naomi, _("That's my baby sis! <3"), numberLikes=renpy.random.randint(952, 1512), force_send=True)
-#        v12s32kiwiiPost1.newComment(aubrey, _("Thank you so much for having us! Can't wait for the future..."), numberLikes=renpy.random.randint(367, 526), force_send=True)
-#        v12s32kiwiiPost1.addReply(_("Thanks for the invite! It was really nice to meet you..."), v12s32kiwiiPost1_Reply1, mentions=[naomi], numberLikes=renpy.random.randint(278,421))
-#        v12s32kiwiiPost1.addReply(_("Had an amazing time today... Thank you, gorgeous!"), v12s32kiwiiPost1_Reply2, mentions=[aubrey])
-#
-#        v12s32kiwiiPost2 = KiwiiPost(naomi, "v12/v12aunaselfie.webp", _("When little sis visits you at work and leaves with your JOB! #ProudBigSis"), numberLikes=2107)
-#        v12s32kiwiiPost2.newComment(aubrey, _("Haha! I love you boo... Thank you for today :)"), mentions=[naomi], numberLikes=renpy.random.randint(278, 363), force_send=True)
-#        v12s32kiwiiPost2.newComment(naomi, _("You're sooo welcome sissy. #ItRunsInTheFamily"), mentions=[aubrey], numberLikes=renpy.random.randint(747, 973), force_send=True) 
-#        v12s32kiwiiPost2.addReply(_("Even more beautiful in person..."), numberLikes=renpy.random.randint(562, 789))
-#        v12s32kiwiiPost2.addReply(_("Aww, love this pic of you guys!"), numberLikes=renpy.random.randint(578, 865))
-#        v12s32kiwiiPost2.newComment(nora, _("Hotties!! Hope you had an amazing time... Can't wait to see all the pics!"), numberLikes=renpy.random.randint(253, 462))
-#        v12s32kiwiiPost2.newComment(chloe, _("JOB?!?!?!"), numberLikes=renpy.random.randint(245, 587))
-#        v12s32kiwiiPost2.newComment(naomi, _("Thank you... <3"), numberLikes=renpy.random.randint(346, 579))
-#        v12s32kiwiiPost2.newComment(aubrey, _("Thanks guys... I'll tell you all about it Chlo! Lol"), numberLikes=renpy.random.randint(253, 462))
-#
-#        v12s32kiwiiPost3 = KiwiiPost(aubrey, "v12/v12aucar.webp", _("You're looking at the newest Lew's model! #BestDayEver"), numberLikes=934)
-#        v12s32kiwiiPost3.newComment(naomi, _("Watch out world, there's two of us... ;)"), numberLikes=renpy.random.randint(532, 737))
-#        v12s32kiwiiPost3.newComment(chloe, _("Holy shit, Aubs! Fucking HOTTTT!!!"), numberLikes=renpy.random.randint(320, 479))
-#        v12s32kiwiiPost3.newComment(aubrey, _("Haha, thank you babes <3"), numberLikes=renpy.random.randint(253, 462))
-#        v12s32kiwiiPost3.addReply(_("Absolutely deserved."), numberLikes=renpy.random.randint(126, 367))
-#        v12s32kiwiiPost3.newComment(aubrey, _(":) Thanks to you..."), numberLikes=renpy.random.randint(167, 241))
-#        v12s32kiwiiPost3.newComment(ryan, _("Holy..."), numberLikes=renpy.random.randint(78, 153))
-#        v12s32kiwiiPost3.newComment(imre, _("Pick up your jaw idiot! LOL"), mentions=[ryan], numberLikes=renpy.random.randint(69, 178))
+    # au "I wanna get back as soon as possible and show these to everyone. I posted a few on Kiwii and my sister did too. Let's hurry back."
+    au "Je veux rentrer dès que possible et les montrer à tout le monde. J'en ai posté quelques-unes sur Kiwii et ma soeur l'a fait aussi. Dépêchons-nous de rentrer."
 
-    scene v12s32_33b # same 33, -Aubrey starts walking away-
-    with dissolve
+# game/v12/scene32.rpy:837
+translate francais v12s32_890ae7e6:
 
-    menu: 
-        "Get Aubrey flowers":
-            $ s12v32_get_aubrey_flowers = True
-            $ add_point(KCT.BOYFRIEND)
-            u "Wait a minute, Aubrey."
+    # u "Wait a minute, Aubrey."
+    u "Attends une minute, Aubrey."
 
-            scene v12s32_33d # aubrey turns around, looks at mc, curious, mouth open
-            with dissolve
+# game/v12/scene32.rpy:842
+translate francais v12s32_5b3016dd:
 
-            au "Yeah?"
+    # au "Yeah?"
+    au "Ouais ?"
 
-            scene v12s32_34 # TPP, Mc grabs some flowers
-            with dissolve
+# game/v12/scene32.rpy:852
+translate francais v12s32_5d9a61d5:
 
-            pause 0.75
+    # u "Your first gift as a future Kiwii modeling star!"
+    u "Ton premier cadeau en tant que future star du mannequinat Kiwii !"
 
-            scene v12s32_35 # FPP, mc extends Aubrey flowers (she doesn't take them yet) (show her face like a normal close up, looking at mc) (just show the flowers handed in first person), AUbrey surprised smiled
-            with dissolve
+# game/v12/scene32.rpy:857
+translate francais v12s32_4e4004cf:
 
-            u "Your first gift as a future Kiwii modeling star!"
+    # au "Haha, what!? You didn't have to get me these..."
+    au "Haha, quoi !? Tu n'avais pas besoin de m'offrir ça..."
 
-            scene v12s32_35b # same as 35 looks at mc (into the camera), mouth open, surprised smile
-            with dissolve
+# game/v12/scene32.rpy:862
+translate francais v12s32_6ee5b2ad:
 
-            au "Haha, what!? You didn't have to get me these..."
+    # u "There's only one girl like you in this world and before all the Kiwii simps start lining up, I wanna be here at the beginning. *Chuckles*"
+    u "Il n'y a qu'une seule fille comme toi dans ce monde et avant que tous les membres de Kiwii ne commencent à se rassembler et à faire la queue, je veux être présent pour toi dès le début. *Rire*"
 
-            scene v12s32_35c # same as 35b, mouth closed
-            with dissolve
+# game/v12/scene32.rpy:867
+translate francais v12s32_20e5d2a9:
 
-            u "There's only one girl like you in this world and before all the Kiwii simps start lining up, I wanna be here at the beginning. *Chuckles*"
+    # au "For once [name], I'll try not to be an asshole. *Chuckles*"
+    au "Pour une fois [name], je vais essayer de ne pas être une connasse.  *Rire*"
 
-            scene v12s32_35b
-            with dissolve
+# game/v12/scene32.rpy:872
+translate francais v12s32_de19ee5d:
 
-            au "For once [name], I'll try not to be an asshole. *Chuckles*"
+    # au "Thank you."
+    au "Merci."
 
-            scene v12s32_35d # same as 35, aubrey takes the flowers, mouth open, genuine smle
-            with dissolve
+# game/v12/scene32.rpy:877
+translate francais v12s32_7ccc0fdc:
 
-            au "Thank you."
+    # u "You're very welcome."
+    u "Ça vient du coeur."
 
-            scene v12s32_35e # same 35d, mouth closed
-            with dissolve
+# game/v12/scene32.rpy:882
+translate francais v12s32_3aa8d4da:
 
-            u "You're very welcome."
+    # au "Now c'mon, let's hurry back so I can get these into some water."
+    au "Allez, dépêchons-nous de rentrer pour que je puisse les mettre dans l'eau."
 
-            scene v12s32_35d
-            with dissolve
+# game/v12/scene32.rpy:888
+translate francais v12s32_25c78cf4:
 
-            au "Now c'mon, let's hurry back so I can get these into some water."
+    # u "(That'd be doing too much... We're just friends.)"
+    u "(Ce serait en faire trop... Nous sommes juste des amis.)"
 
-            scene v12s32_35e
-            with dissolve
+# game/v12/scene32.rpy:890
+translate francais v12s32_79ded312:
 
-        "Don't get her flowers":
-            u "(That'd be doing too much... We're just friends.)"
+    # u "Right, let's go."
+    u "D'accord, on y va."
 
-    u "Right, let's go."
+translate francais strings:
 
-    stop music fadeout 3
-    jump v12s33 #scene 33
+    # game/v12/scene32.rpy:12
+    old "Hehe, you too! Hope to see you soon...;)"
+    new "Hehe, toi aussi ! J'espère te voir bientôt... ;)"
+
+    # game/v12/scene32.rpy:13
+    old "OMG!?!?!?!"
+    new "OMG !?!?!?!"
+
+    # game/v12/scene32.rpy:14
+    old "Bro... Is that you?!"
+    new "Frère... C'est toi ? !"
+
+    # game/v12/scene32.rpy:17
+    old "You're so welcome... Today was amazing. <3"
+    new "Tu es vraiment le bienvenu... Cette journée était incroyable. <3"
+
+    # game/v12/scene32.rpy:273
+    old "Turn your back to Aubrey"
+    new "Tournez le dos à Aubrey"
+
+    # game/v12/scene32.rpy:273
+    old "Put your arms around Aubrey"
+    new "Mettez vos bras autour d'Aubrey"
+
+    # game/v12/scene32.rpy:483
+    old "Boost Aubrey"
+    new "Stimulez Aubrey"
+
+    # game/v12/scene32.rpy:781
+    old "New faces in our new pieces! Check out the new Lavish Line on our website ;)"
+    new "De nouveaux visages dans nos nouvelles pièces ! Découvrez la nouvelle collection Lavish sur notre site web ;)"
+
+    # game/v12/scene32.rpy:782
+    old "That's my baby sis! <3"
+    new "C'est ma petite sœur ! <3"
+
+    # game/v12/scene32.rpy:783
+    old "Thank you so much for having us! Can't wait for the future..."
+    new "Merci beaucoup de nous avoir reçu ! Je suis impatiente pour le futur..."
+
+    # game/v12/scene32.rpy:787
+    old "When little sis visits you at work and leaves with your JOB! #ProudBigSis"
+    new "Quand la petite sœur te rend visite au travail et repart avec TON TRAVAIL ! #GrandeSœurfière"
+
+    # game/v12/scene32.rpy:788
+    old "Haha! I love you boo... Thank you for today :)"
+    new "Haha ! Je t'aime ma chérie... Merci pour cette journée :)"
+
+    # game/v12/scene32.rpy:789
+    old "You're sooo welcome sissy. #ItRunsInTheFamily"
+    new "Je t'en prie, soeurette. #ÇaRouleDansLaFamille"
+
+    # game/v12/scene32.rpy:790
+    old "Hotties!! Hope you had an amazing time... Can't wait to see all the pics!"
+    new "Chaudasses ! J'espère que vous avez eu un moment incroyable ... J'ai hâte de voir toutes les photos !"
+
+    # game/v12/scene32.rpy:791
+    old "JOB?!?!?!"
+    new "TRAVAIL ?!?!?!"
+
+    # game/v12/scene32.rpy:792
+    old "Thank you... <3"
+    new "Merci... <3"
+
+    # game/v12/scene32.rpy:793
+    old "Thanks guys... I'll tell you all about it Chlo! Lol"
+    new "Merci les amis... Je te raconterai tout ça Chlo ! Lol"
+
+    # game/v12/scene32.rpy:795
+    old "You're looking at the newest Lew's model! #BestDayEver"
+    new "Vous avez devant vous le tout nouveau modèle Lew's ! #MeilleurJour"
+
+    # game/v12/scene32.rpy:796
+    old "Watch out world, there's two of us... ;)"
+    new "Attention au monde entier, nous sommes deux... ;)"
+
+    # game/v12/scene32.rpy:797
+    old "Holy shit, Aubs! Fucking HOTTTT!!!"
+    new "Putain de merde, Aubs ! Putain de CHAUUUUDE ! !!"
+
+    # game/v12/scene32.rpy:798
+    old "Haha, thank you babes <3"
+    new "Haha, merci les filles <3"
+
+    # game/v12/scene32.rpy:799
+    old "Absolutely deserved."
+    new "C'est tout à fait mérité."
+
+    # game/v12/scene32.rpy:800
+    old "Holy..."
+    new "Sainte..."
+
+    # game/v12/scene32.rpy:801
+    old "Pick up your jaw idiot! LOL"
+    new "Ramasse ta mâchoire, idiot ! LOL"
+
+    # game/v12/scene32.rpy:833
+    old "Get Aubrey flowers"
+    new "Offrir des fleurs à Aubrey"
+
+    # game/v12/scene32.rpy:833
+    old "Don't get her flowers"
+    new "Ne pas lui offrir de fleurs"

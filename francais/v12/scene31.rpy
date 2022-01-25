@@ -1,134 +1,133 @@
-# SCENE 31: Mc woken up by Aubrey
-# Locations: Hotel Room
-# Characters: AUBREY (Outfit: 3), MC (Outfit: 2), CHLOE (Outfit: 5)
-# Time: Morning
-# Phone Images: NONE
+﻿# TODO: Translation updated at 2021-12-31 15:41
 
-label v12_aubrey_wake_up:
-    scene black
-    with vpunch
+# game/v12/scene31.rpy:11
+translate francais v12_aubrey_wake_up_7b10314c:
 
-    au "Hey, wake up!"
+    # au "Hey, wake up!"
+    au "Hé, réveille-toi !"
 
-    play music "music/v12/Track Scene 31.mp3" fadein 2
+# game/v12/scene31.rpy:18
+translate francais v12_aubrey_wake_up_54ddc3be:
 
-    scene v12auw1 # FPP. MC lying in his bed, Aubrey standing next to him, MC and Aubrey looking at each other, Aubrey slight smile, mouth closed
-    with dissolve
+    # u "Huh? Wait... What? How'd you get in here?"
+    u "Huh ? Attends... Quoi ? Comment t'es entrée là ?"
 
-    u "Huh? Wait... What? How'd you get in here?"
+# game/v12/scene31.rpy:23
+translate francais v12_aubrey_wake_up_2b1a74ab:
 
-    scene v12auw1a # FPP. Same as v12auw1, Aubrey slight smile, mouth open
-    with dissolve
+    # au "Chloe let me in. I know I forgot to tell you, but I need you to hurry up and come on! My sister's shoot is in thirty minutes."
+    au "Chloé m'a laissé entrer. Je sais que j'ai oublié de te prévenir, mais j'ai besoin que tu te dépêches et que tu viennes avec moi ! Le photoshoot de ma soeur est dans 30 minutes."
 
-    au "Chloe let me in. I know I forgot to tell you, but I need you to hurry up and come on! My sister's shoot is in thirty minutes."
+# game/v12/scene31.rpy:28
+translate francais v12_aubrey_wake_up_16cc4b2c:
 
-    scene v12auw1
-    with dissolve
+    # u "What shoot?!"
+    u "Quel photoshoot ?!"
 
-    u "What shoot?!"
+# game/v12/scene31.rpy:33
+translate francais v12_aubrey_wake_up_15fe01e4:
 
-    scene v12auw1a
-    with dissolve
+    # au "The shoot at Lew's I told you about, now hurry up."
+    au "Le photoshoot chez Lew dont je t'ai parlé, maintenant dépêche-toi."
 
-    au "The shoot at Lew's I told you about, now hurry up."
+# game/v12/scene31.rpy:38
+translate francais v12_aubrey_wake_up_57ae9944:
 
-    scene v12auw2 # TPP. Show MC getting out of his bed, slightly annoyed, mouth closed
-    with dissolve
+    # u "*Sighs*"
+    u "*Soupirs*"
 
-    u "*Sighs*"
+# game/v12/scene31.rpy:48
+translate francais v12_aubrey_wake_up_a9a0d4be:
 
-    scene v12auw3 # TPP. Show MC walking over to the dresser, MC slightly annoyed, mouth closed
-    with dissolve
+    # cl "Sorry, he's a little slow."
+    cl "Désolée, il est un peu lent."
 
-    pause 0.75
+# game/v12/scene31.rpy:53
+translate francais v12_aubrey_wake_up_15efb6dc:
 
-    scene v12auw4 # FPP. MC in front of the dresser, Aubrey and Chloe sitting on Chloe's bed. MC looking at Chloe, Chloe looking at Aubrey, Chloe slight smile, mouth open (Only Chloe in shot)
-    with dissolve
+    # au "Don't worry, I've noticed. *Chuckles*"
+    au "Ne t'inquiète pas, j'avais remarqué. *Rire*"
 
-    cl "Sorry, he's a little slow."
+# game/v12/scene31.rpy:58
+translate francais v12_aubrey_wake_up_47341ccc:
 
-    scene v12auw5 # FPP. Same positioning as v12auw4, MC looking at Aubrey, Aubrey looking at Chloe, Aubrey slight smile, mouth open (Only Aubrey in shot)
-    with dissolve
+    # u "Is it \"gang up on [name]\" day?"
+    u "C'est le jour du \"gang contre [name]\" ?"
 
-    au "Don't worry, I've noticed. *Chuckles*"
+# game/v12/scene31.rpy:65
+translate francais v12_aubrey_wake_up_32bdeacb:
 
-    scene v12auw4a # FPP. Same as v12auw4, Chloe looking at MC, Chloe slight smile, mouth closed
-    with dissolve
+    # cl "You know I'm just messing around, I wouldn't make fun of my boyfriend. Even if he is slow... *Chuckles*"
+    cl "Tu sais, je déconne, je ne me moquerais pas de mon petit ami. Même s'il est lent... *Rire*"
 
-    u "Is it \"gang up on [name]\" day?"
+# game/v12/scene31.rpy:70
+translate francais v12_aubrey_wake_up_bed32e24:
 
-    scene v12auw4b # FPP. Same as v12auw4a, Chloe slight smile, mouth open
-    with dissolve
+    # u "*Chuckles* Good to know."
+    u "*Rire* Bon à savoir."
 
-    if chloe.relationship >= Relationship.GIRLFRIEND:
-        cl "You know I'm just messing around, I wouldn't make fun of my boyfriend. Even if he is slow... *Chuckles*"
+# game/v12/scene31.rpy:75
+translate francais v12_aubrey_wake_up_c8a1fb61:
 
-        scene v12auw4a
-        with dissolve
+    # au "\"Boyfriend\"?"
+    au "\"Petit ami\" ?"
 
-        u "*Chuckles* Good to know."
+# game/v12/scene31.rpy:80
+translate francais v12_aubrey_wake_up_3ac3b9a4:
 
-        scene v12auw5a # FPP. Same as v12auw5, Aubrey confused, mouth open
-        with dissolve
+    # cl "Oh yeah, we're dating."
+    cl "Ah oui, on sort ensemble."
 
-        au "\"Boyfriend\"?"
+# game/v12/scene31.rpy:85
+translate francais v12_aubrey_wake_up_7544f916:
 
-        scene v12auw4
-        with dissolve
+    # u "Surprise!"
+    u "Surprise !"
 
-        cl "Oh yeah, we're dating."
+# game/v12/scene31.rpy:90
+translate francais v12_aubrey_wake_up_33856329:
 
-        scene v12auw5b # FPP. Same as v12auw5, Aubrey looking at MC, Aubrey confused, mouth closed
-        with dissolve
+    # au "Since when? Why hadn't either of you told me?"
+    au "Depuis quand ? Pourquoi aucun de vous deux ne me l`a dit ?"
 
-        u "Surprise!"
+# game/v12/scene31.rpy:95
+translate francais v12_aubrey_wake_up_563b7253:
 
-        scene v12auw5a
-        with dissolve
+    # cl "Since London! I honestly hadn't thought to go around telling everyone."
+    cl "Depuis Londres ! Honnêtement, je n'ais pas pensé à le dire à tout le monde."
 
-        au "Since when? Why hadn't either of you told me?"
+# game/v12/scene31.rpy:100
+translate francais v12_aubrey_wake_up_0de50a4f:
 
-        scene v12auw4
-        with dissolve
+    # u "We'll have time for all the stories later, gotta hurry, remember? C'mon."
+    u "On aura le temps pour toutes les histoires plus tard, il faut se dépêcher, tu te souviens ? Allez, viens."
 
-        cl "Since London! I honestly hadn't thought to go around telling everyone."
+# game/v12/scene31.rpy:104
+translate francais v12_aubrey_wake_up_d2e210d6:
 
-        scene v12auw5b
-        with dissolve
+    # cl "Chicks always ride together."
+    cl "Les Chicks sont toujours ensemble."
 
-        u "We'll have time for all the stories later, gotta hurry, remember? C'mon."
+# game/v12/scene31.rpy:109
+translate francais v12_aubrey_wake_up_5210d834:
 
-    else:
-        scene v12auw4b
-        #with dissolve
-        
-        cl "Chicks always ride together."
+    # au "Sorry, it's the truth."
+    au "Désolée, mais c'est la vérité."
 
-        scene v12auw5c # FPP. Same as v12auw5b, Aubrey slight smile, mouth open
-        with dissolve
+# game/v12/scene31.rpy:114
+translate francais v12_aubrey_wake_up_ad466493:
 
-        au "Sorry, it's the truth."
+    # u "*Sighs* C'mon, we're in a hurry, right?"
+    u "*Soupirs* Allez, on est pressés, non ?"
 
-        scene v12auw5d # FPP. Same as v12auw5c, Aubrey slight smile, mouth closed
-        with dissolve
+# game/v12/scene31.rpy:119
+translate francais v12_aubrey_wake_up_04fede3d:
 
-        u "*Sighs* C'mon, we're in a hurry, right?"
+    # au "Bye Chloe."
+    au "Ciao Chloé."
 
-    scene v12auw5
-    with dissolve
+# game/v12/scene31.rpy:124
+translate francais v12_aubrey_wake_up_7c70d888:
 
-    au "Bye Chloe."
-
-    scene v12auw4
-    with dissolve
-
-    cl "Bye guys, have fun."
-
-    scene v12auw6 # TPP. Show Aubrey and MC leaving the hotel room, both slight smiles, mouths closed
-    with dissolve
-
-    pause 0.75
-
-    stop music fadeout 3
-
-    jump v12s32 #scene 32
+    # cl "Bye guys, have fun."
+    cl "Ciao les amis, amusez-vous bien."

@@ -1,640 +1,641 @@
-# SCENE 35b: Game with roommate 
-# Locations: Hotel Room 
-# Characters: CHLOE (Outfit: 5), MC (Outfit: 2), RILEY (Outfit: 4)
-# Time: Night
-# Phone Images: None
+﻿# TODO: Translation updated at 2022-01-01 22:48
 
-label v12_game_roommate:
-    if not v11_riley_roomate:
-        scene v12grm1 # FPP. MC lying on his bed, looking as Chloe walks out of the bathroom, Chloe slight smile, mouth closed
-        with dissolve
+# game/v12/scene35b.rpy:19
+translate francais v12_game_roommate_ef8f5bd0:
 
-        pause 1.25
+    # cl "Hey!"
+    cl "Hey !"
 
-        play music "music/v12/Track Scene 35b_1.mp3" fadein 2
+# game/v12/scene35b.rpy:24
+translate francais v12_game_roommate_090db2cd:
 
-        scene v12grm2 # FPP. MC lying on his bed, looking at Chloe, Chloe sitting on her bed, looking at MC, slight smile, mouth open
-        with dissolve
+    # u "Hey, hey."
+    u "Hey, hey."
 
-        cl "Hey!"
+# game/v12/scene35b.rpy:29
+translate francais v12_game_roommate_98b807bb:
 
-        scene v12grm2a # FPP. Same as v12grm2, Chloe slight smile, mouth closed
-        with dissolve
+    # cl "Am I crazy or did I hear yelling?"
+    cl "Je suis folle ou j'ai entendu des cris ?"
 
-        u "Hey, hey."
+# game/v12/scene35b.rpy:34
+translate francais v12_game_roommate_f06942c5:
 
-        scene v12grm2
-        with dissolve
+    # u "You're not crazy, Nora and Chris are going at it."
+    u "Tu n'es pas folle, Nora et Chris sont en train de se disputer."
 
-        cl "Am I crazy or did I hear yelling?"
+# game/v12/scene35b.rpy:39
+translate francais v12_game_roommate_ace3104d:
 
-        scene v12grm2a
-        with dissolve
+    # cl "*Sighs* Her and I may not get along all the time, but no one should have to deal with all that bullshit."
+    cl "*Soupirs* Elle et moi ne nous entendons peut-être pas tout le temps, mais personne ne devrait avoir à gérer toutes ces conneries."
 
-        u "You're not crazy, Nora and Chris are going at it."
+# game/v12/scene35b.rpy:44
+translate francais v12_game_roommate_6b938e7f:
 
-        scene v12grm2b # FPP. Same as v12grm2, Chloe slightly worried, mouth open
-        with dissolve
+    # u "Definitely does not look fun... I'll say that."
+    u "En tout cas, ça n'a vraiment pas l'air amusant..."
 
-        cl "*Sighs* Her and I may not get along all the time, but no one should have to deal with all that bullshit."
+# game/v12/scene35b.rpy:50
+translate francais v12_game_roommate_0fef1245:
 
-        scene v12grm2c # FPP. Same as v12grm2b, Chloe slightly worried, mouth closed
-        with dissolve
+    # cl "Luckily, my boyfriend would never put me through something like that, would he? *Chuckles*"
+    cl "Heureusement, mon petit ami ne me ferait jamais subir de telles choses, n'est-ce pas ? *Rire*"
 
-        u "Definitely does not look fun... I'll say that."
+# game/v12/scene35b.rpy:55
+translate francais v12_game_roommate_f7cd50b1:
 
-        if chloe.relationship >= Relationship.GIRLFRIEND:
-            scene v12grm2
-            with dissolve
+    # u "I wouldn't imagine it. *Chuckles*"
+    u "Je ne peux pas l'imaginer.  *Rire*"
 
-            cl "Luckily, my boyfriend would never put me through something like that, would he? *Chuckles*"
+# game/v12/scene35b.rpy:60
+translate francais v12_game_roommate_0b3c4bbb:
 
-            scene v12grm2a
-            with dissolve
+    # u "\"You got games on your phone?\""
+    u "\"Tu as des jeux sur ton téléphone ?\""
 
-            u "I wouldn't imagine it. *Chuckles*"
+# game/v12/scene35b.rpy:65
+translate francais v12_game_roommate_9f18db56:
 
-        scene v12grm2d # FPP. Same as v12grm2, Chloe holding her phone in landscape orientation, Chloe looking at phone, slight smile, mouth closed
-        with dissolve
+    # cl "Oh my god... You're not funny. *Chuckles*"
+    cl "Oh merde... T'es pas drôle. *Rire*"
 
-        u "\"You got games on your phone?\""
+# game/v12/scene35b.rpy:70
+translate francais v12_game_roommate_9cae0dbe:
 
-        scene v12grm2e # FPP. Same as v12grm2d, Chloe looking at MC, Chloe slight smile, mouth open
-        with dissolve
+    # u "Haha, I had to do it."
+    u "Haha, je devais la faire."
 
-        cl "Oh my god... You're not funny. *Chuckles*"
+# game/v12/scene35b.rpy:75
+translate francais v12_game_roommate_afb3fa91:
 
-        scene v12grm2f # FPP. Same as v12grm2e, Chloe slight smile, mouth closed
-        with dissolve
+    # cl "Since you did ask though, yes. I just recently started playing this new life simulation game."
+    cl "Mais puisque tu le demandes, oui. J'ai récemment commencé à jouer à ce nouveau jeu de simulation de vie."
 
-        u "Haha, I had to do it."
+# game/v12/scene35b.rpy:80
+translate francais v12_game_roommate_854aa792:
 
-        scene v12grm2g # FPP. Same as v12grm2d, Chloe slight smile, mouth open
-        with dissolve
+    # u "How do you play?"
+    u "Comment on joues ?"
 
-        cl "Since you did ask though, yes. I just recently started playing this new life simulation game."
+# game/v12/scene35b.rpy:85
+translate francais v12_game_roommate_d9a8a25e:
 
-        scene v12grm2d
-        with dissolve
+    # cl "Basically, you create a character and just play with their life, but you have to complete milestones like get married, have kids, etc."
+    cl "En gros, tu crées un personnage et tu joues avec sa vie, mais tu dois franchir des étapes importantes comme te marier, avoir des enfants, etc."
 
-        u "How do you play?"
+# game/v12/scene35b.rpy:90
+translate francais v12_game_roommate_06c4d344:
 
-        scene v12grm2g
-        with dissolve
+    # u "That does not look like you... *Chuckles* Since when do you wear pigtails?"
+    u "Ça ne te ressemble pas... *Rire* Depuis quand tu portes des nattes ?"
 
-        cl "Basically, you create a character and just play with their life, but you have to complete milestones like get married, have kids, etc."
+# game/v12/scene35b.rpy:95
+translate francais v12_game_roommate_dae835db:
 
-        scene v12grm3 # TPP. Show MC standing over Chloe, looking at her phone, both smiling, Chloe mouth closed, MC mouth open (Hide the phone screen)
-        with dissolve
+    # cl "Stop it, [name]! I didn't have many options. *Chuckles*"
+    cl "Arrête, [name] ! Je n'avais pas beaucoup d'options. *Rire*"
 
-        u "That does not look like you... *Chuckles* Since when do you wear pigtails?"
+# game/v12/scene35b.rpy:100
+translate francais v12_game_roommate_c13709b6:
 
-        scene v12grm3a # TPP. Same as v12grm3, Chloe mouth open, smiling, MC mouth closed, smiling
-        with dissolve
+    # u "Is that your house?"
+    u "C'est ta maison ?"
 
-        cl "Stop it, [name]! I didn't have many options. *Chuckles*"
+# game/v12/scene35b.rpy:105
+translate francais v12_game_roommate_9aac7a66:
 
-        scene v12grm3
-        with dissolve
+    # cl "Yep, and that one right next to me just went for sale so when you download it in a second, that's the one you'll buy. *Chuckles*"
+    cl "Oui, et celle qui est juste à côté de moi vient d'être mise en vente, donc quand tu la téléchargeras dans quelques secondes, c'est celle-là que tu achèteras. *Rire*"
 
-        u "Is that your house?"
+# game/v12/scene35b.rpy:110
+translate francais v12_game_roommate_20d22a43:
 
-        scene v12grm3a
-        with dissolve
+    # u "Who said I was downloading it? *Chuckles*"
+    u "Qui a dit que je le téléchargerais ?  *Rire*"
 
-        cl "Yep, and that one right next to me just went for sale so when you download it in a second, that's the one you'll buy. *Chuckles*"
+# game/v12/scene35b.rpy:115
+translate francais v12_game_roommate_1abcc468:
 
-        scene v12grm3
-        with dissolve
+    # cl "I did, just now. *Laughs* Don't worry, I'll help you out."
+    cl "Je l'ai fait, à l'instant. *Rire* Ne t'inquiète pas, je vais t'aider."
 
-        u "Who said I was downloading it? *Chuckles*"
+# game/v12/scene35b.rpy:120
+translate francais v12_game_roommate_e2023475:
 
-        scene v12grm3a
-        with dissolve
+    # u "Who made this game? It's pretty deep..."
+    u "Qui a fait ce jeu ? C'est assez approfondi..."
 
-        cl "I did, just now. *Laughs* Don't worry, I'll help you out."
+# game/v12/scene35b.rpy:125
+translate francais v12_game_roommate_3ba118fe:
 
-        scene v12grm2d
-        with dissolve
+    # cl "Some guy named, Undergrad Steve?"
+    cl "Un type qui s'appelle, Cyclun Steve."
 
-        u "Who made this game? It's pretty deep..."
+# game/v12/scene35b.rpy:130
+translate francais v12_game_roommate_5b1160d0:
 
-        scene v12grm2e
-        with dissolve
+    # u "Is he an undergrad? *Laughs*"
+    u "Est-il un étudiant de premier cycle ? *Rire*"
 
-        cl "Some guy named, Undergrad Steve?"
+# game/v12/scene35b.rpy:135
+translate francais v12_game_roommate_03d965f2:
 
-        scene v12grm2f
-        with dissolve
+    # cl "Oh my gosh, I knew you were gonna say that... *Laughs*"
+    cl "Oh mmerde, j'étais sûre que tu allais dire ça... *Rire*"
 
-        u "Is he an undergrad? *Laughs*"
+# game/v12/scene35b.rpy:140
+translate francais v12_game_roommate_cf1edadc:
 
-        scene v12grm2e
-        with dissolve
+    # u "Just wanna make sure I have a good idea of the game, you know?"
+    u "Je veux juste m'assurer que j'ai une bonne idée du jeu, tu comprends ?"
 
-        cl "Oh my gosh, I knew you were gonna say that... *Laughs*"
+# game/v12/scene35b.rpy:145
+translate francais v12_game_roommate_43b67be5:
 
-        scene v12grm2f
-        with dissolve
+    # cl "Mhmm. Okay, this game is based on your contacts so you'll be able to see the location of everyone in your phone if they're online. Can you see me?"
+    cl "Mhmm. Ok, ce jeu est basé sur tes contacts donc tu pourras voir l'emplacement de tout le monde dans ton téléphone s'ils sont en ligne. Tu peux me voir ?"
 
-        u "Just wanna make sure I have a good idea of the game, you know?"
+# game/v12/scene35b.rpy:150
+translate francais v12_game_roommate_2c6cf3d1:
 
-        scene v12grm2g
-        with dissolve
+    # u "Yeah, I see you."
+    u "Ouais, je te vois."
 
-        cl "Mhmm. Okay, this game is based on your contacts so you'll be able to see the location of everyone in your phone if they're online. Can you see me?"
+# game/v12/scene35b.rpy:155
+translate francais v12_game_roommate_9139e924:
 
-        scene v12grm2d
-        with dissolve
+    # cl "Good, you should have some startup money so go ahead and buy this house next to me."
+    cl "Bien, tu devrais avoir un peu d'argent pour démarrer alors vas-y et achète cette maison à côté de la mienne."
 
-        u "Yeah, I see you."
+# game/v12/scene35b.rpy:160
+translate francais v12_game_roommate_741da010:
 
-        scene v12grm2g
-        with dissolve
+    # u "When did you start liking games?"
+    u "Quand as-tu commencé à aimer les jeux vidéos ?"
 
-        cl "Good, you should have some startup money so go ahead and buy this house next to me."
+# game/v12/scene35b.rpy:165
+translate francais v12_game_roommate_a8c2f154:
 
-        scene v12grm2f
-        with dissolve
+    # cl "I don't, but I do like this one. *Chuckles*"
+    cl "Je ne les aime pas trop, mais j'aime bien celui-là. *Rire*"
 
-        u "When did you start liking games?"
+# game/v12/scene35b.rpy:170
+translate francais v12_game_roommate_be85ba62:
 
-        scene v12grm2e
-        with dissolve
+    # u "*Chuckles* Alright, I got the house. Now what?"
+    u "*Rire* D'accord, j'ai la maison. Et maintenant ?"
 
-        cl "I don't, but I do like this one. *Chuckles*"
+# game/v12/scene35b.rpy:175
+translate francais v12_game_roommate_fa74b915:
 
-        scene v12grm2f
-        with dissolve
+    # cl "Now we build our characters' relationships until they can get married."
+    cl "Maintenant, on établit les relations de nos personnages jusqu'à ce qu'ils puissent se marier."
 
-        u "*Chuckles* Alright, I got the house. Now what?"
+# game/v12/scene35b.rpy:180
+translate francais v12_game_roommate_dafbea70:
 
-        scene v12grm2g
-        with dissolve
+    # u "Married!?"
+    u "Se marier !?"
 
-        cl "Now we build our characters' relationships until they can get married."
+# game/v12/scene35b.rpy:186
+translate francais v12_game_roommate_6f39982e:
 
-        scene v12grm2d
-        with dissolve
+    # cl "What, you don't wanna marry me?"
+    cl "Quoi, tu ne veux pas m'épouser ?"
 
-        u "Married!?"
+# game/v12/scene35b.rpy:191
+translate francais v12_game_roommate_c0e60ae6:
 
-        if chloe.relationship >= Relationship.GIRLFRIEND:
-            scene v12grm2e
-            with dissolve
+    # u "Haha, I'd rather do that in real life."
+    u "Haha, je préfère faire ça dans la vraie vie."
 
-            cl "What, you don't wanna marry me?"
+# game/v12/scene35b.rpy:196
+translate francais v12_game_roommate_3827540c:
 
-            scene v12grm2f
-            with dissolve
+    # cl "Wow... Good answer. Let's use this as a practice run though, I need the milestone. *Chuckles*"
+    cl "Wow... Bonne réponse. Utilisons ça comme un entraînement, il me faut cette étape. *Rire*"
 
-            u "Haha, I'd rather do that in real life."
+# game/v12/scene35b.rpy:202
+translate francais v12_game_roommate_0df56e30:
 
-            scene v12grm2e
-            with dissolve
+    # cl "I need the milestone and you can only marry people from your contacts that you build a relationship with in game. Both people have to do it."
+    cl "J'ai besoin de cette étape et tu ne peux te marier qu'avec des personnes de tes contacts avec qui tu as construit une relation dans le jeu. Les deux personnes doivent le faire."
 
-            cl "Wow... Good answer. Let's use this as a practice run though, I need the milestone. *Chuckles*"
-        
-        else:
-            scene v12grm2h # FPP. Same as v12grm2e, Chloe different pose
-            with dissolve
+# game/v12/scene35b.rpy:207
+translate francais v12_game_roommate_970401bb:
 
-            cl "I need the milestone and you can only marry people from your contacts that you build a relationship with in game. Both people have to do it."
+    # u "This game is pretty serious."
+    u "Ce jeu est plutôt sérieux."
 
-            scene v12grm2i # FPP. Same as v12grm2h, Chloe slight smile, mouth closed
-            with dissolve
+# game/v12/scene35b.rpy:212
+translate francais v12_game_roommate_eae92942:
 
-            u "This game is pretty serious."
+    # cl "I know. Imre and Ryan play, but I wasn't about to sit there and play with them. *Laughs* Or marry them, not even in a game..."
+    cl "Je sais. Imre et Ryan jouent aussi, mais je n'allais pas m'asseoir et jouer avec eux. *Rire* Ou les épouser, même pas dans un jeu..."
 
-            scene v12grm2h
-            with dissolve
+# game/v12/scene35b.rpy:217
+translate francais v12_game_roommate_fcc18885:
 
-            cl "I know. Imre and Ryan play, but I wasn't about to sit there and play with them. *Laughs* Or marry them, not even in a game..."
+    # u "*Laughs*"
+    u "*Rire*"
 
-            scene v12grm2i
-            with dissolve
+# game/v12/scene35b.rpy:222
+translate francais v12_game_roommate_db7e57ed:
 
-            u "*Laughs*"
+    # cl "You talked about my character, yet yours look nothing like you! *Chuckles*"
+    cl "Tu as parlé de mon personnage, mais le tien ne te ressemble pas du tout ! *Rire*"
 
-        scene v12grm2h
-        with dissolve
+# game/v12/scene35b.rpy:227
+translate francais v12_game_roommate_535e4b0b:
 
-        cl "You talked about my character, yet yours look nothing like you! *Chuckles*"
+    # u "That's probably 'cause I just hit randomize."
+    u "C'est sûrement parce que je viens d'appuyer sur \"aléatoire\"."
 
-        scene v12grm2i
-        with dissolve
+# game/v12/scene35b.rpy:232
+translate francais v12_game_roommate_b08b4387:
 
-        u "That's probably 'cause I just hit randomize."
+    # cl "Oh, come on! No creativity?"
+    cl "Oh, allez ! Aucune créativité ?"
 
-        scene v12grm2g
-        with dissolve
+# game/v12/scene35b.rpy:237
+translate francais v12_game_roommate_18823a3a:
 
-        cl "Oh, come on! No creativity?"
+    # u "I'll customize later, haha."
+    u "Je le personnaliserai plus tard, haha."
 
-        scene v12grm2d
-        with dissolve
+# game/v12/scene35b.rpy:242
+translate francais v12_game_roommate_c04ce9d3:
 
-        u "I'll customize later, haha."
+    # cl "Let's hurry up and get married so I can go to sleep. That sauna has really worn me out."
+    cl "Dépêchons-nous de nous marier pour que je puisse aller dormir. Ce sauna m'a vraiment épuisé."
 
-        scene v12grm2e
-        with dissolve
+# game/v12/scene35b.rpy:262
+translate francais v12_game_roommate_3b4fa11b:
 
-        cl "Let's hurry up and get married so I can go to sleep. That sauna has really worn me out."
+    # cl "Alright, they're ready to get married! Let's see..."
+    cl "Bon, ils sont prêts à se marier ! Voyons voir..."
 
-        scene v12grm4 # TPP. Same positioning as v12grm2h, show Chloe and MC playing on their phones, both smiling, mouths closed
-        with dissolve
+# game/v12/scene35b.rpy:267
+translate francais v12_game_roommate_cf246335:
 
-        pause 1.25
-        
-        scene v12grm4a # TPP. Same as v12grm4, different pose, show them laughing
-        with dissolve
+    # cl "Ohhh, there's different types of weddings and depending on which one you choose, determines the wedding quality and what medal you get. We have to go with the big one!"
+    cl "Ohhh, il y a différents types de mariages et selon celui qu'on choisit, ça détermine la qualité du mariage et la médaille que tu auras. On doit choisir le plus grand !"
 
-        pause 1.25
+# game/v12/scene35b.rpy:272
+translate francais v12_game_roommate_1751052c:
 
-        scene v12grm4b # TPP. Same as v12grm4a, different pose, show them nudging each other, laughing
-        with dissolve
+    # u "That's way too expensive!"
+    u "C'est beaucoup trop cher !"
 
-        pause 1.25
+# game/v12/scene35b.rpy:277
+translate francais v12_game_roommate_a029f8f3:
 
-        scene v12grm2e
-        with dissolve
+    # cl "So you just want your fiancée to be unhappy, huh?"
+    cl "Donc tu veux juste que ta fiancée soit malheureuse, hein ?"
 
-        cl "Alright, they're ready to get married! Let's see..."
+# game/v12/scene35b.rpy:282
+translate francais v12_game_roommate_645842e0:
 
-        scene v12grm2g
-        with dissolve
+    # u "Hmmm, I think I have an idea..."
+    u "Hmmm, je crois que j'ai une idée..."
 
-        cl "Ohhh, there's different types of weddings and depending on which one you choose, determines the wedding quality and what medal you get. We have to go with the big one!"
+# game/v12/scene35b.rpy:287
+translate francais v12_game_roommate_7ce1e4ed:
 
-        scene v12grm2d
-        with dissolve
+    # cl "What are you gonna do?"
+    cl "Qu'est-ce que tu vas faire ?"
 
-        u "That's way too expensive!"
+# game/v12/scene35b.rpy:292
+translate francais v12_game_roommate_a727772a:
 
-        scene v12grm2e
-        with dissolve
+    # u "Oh, you'll see."
+    u "Oh, tu vas voir."
 
-        cl "So you just want your fiancée to be unhappy, huh?"
+# game/v12/scene35b.rpy:303
+translate francais v12_game_roommate_84d4355b:
 
-        scene v12grm2f
-        with dissolve
+    # u "How do you do the stealth thing?"
+    u "Comment tu fais le truc furtif ?"
 
-        u "Hmmm, I think I have an idea..."
+# game/v12/scene35b.rpy:308
+translate francais v12_game_roommate_c5ecf541:
 
-        scene v12grm2e
-        with dissolve
+    # cl "Why do you need that?"
+    cl "Pourquoi t'as besoin de ça ?"
 
-        cl "What are you gonna do?"
+# game/v12/scene35b.rpy:313
+translate francais v12_game_roommate_bdf1c3d2:
 
-        scene v12grm2f
-        with dissolve
+    # u "Nevermind. I figured it out."
+    u "Tant pis. J'ai trouvé la solution."
 
-        u "Oh, you'll see."
+# game/v12/scene35b.rpy:318
+translate francais v12_game_roommate_af73ad32:
 
-        scene v12grm2d
-        with dissolve
+    # cl "Wait, why did you need to- OH MY GOD! YOU KILLED YOUR PARENTS!?"
+    cl "Attends, pourquoi as-tu eu besoin de- OH PUTAIN ! TU AS TUÉ TES PARENTS !?"
 
-        menu:
-            "Kill parents for insurance":
-                $ add_point(KCT.TROUBLEMAKER)
-                scene v12grm2f
-                with dissolve
+# game/v12/scene35b.rpy:323
+translate francais v12_game_roommate_a8fa64ca:
 
-                u "How do you do the stealth thing?"
+    # u "I prefer the phrase, \"got twelve million dollars\". Killed your parents sounds so harsh. *Chuckles*"
+    u "Je préfère l'expression \"j'ai douze millions de dollars\". Tuer ses parents a l'air si cruel. *Rire*"
 
-                scene v12grm2e
-                with dissolve
+# game/v12/scene35b.rpy:328
+translate francais v12_game_roommate_a6482b2c:
 
-                cl "Why do you need that?"
+    # cl "I don't get how you got the money though..."
+    cl "Je ne comprends pas comment tu as eu l'argent..."
 
-                scene v12grm2f
-                with dissolve
+# game/v12/scene35b.rpy:333
+translate francais v12_game_roommate_b31567f0:
 
-                u "Nevermind. I figured it out."
+    # u "My character background said my parents were rich, so I killed them and I got money in the will."
+    u "Mon personnage disait que ses parents étaient riches, alors je les ai tués et j'ai eu de l'argent en héritage."
 
-                scene v12grm2j # FPP. Same as v12grm2g, Chloe mouth open, startled
-                with dissolve
+# game/v12/scene35b.rpy:338
+translate francais v12_game_roommate_1bc8bfdd:
 
-                cl "Wait, why did you need to- OH MY GOD! YOU KILLED YOUR PARENTS!?"
+    # cl "This game allows that? Holy shit... *Chuckles*"
+    cl "Ce jeu permet ça ? Putain de merde... *Rire*"
 
-                scene v12grm2k # FPP. Same as v12grm2f, Chloe slightly worried, mouth closed
-                with dissolve
+# game/v12/scene35b.rpy:343
+translate francais v12_game_roommate_433980bc:
 
-                u "I prefer the phrase, \"got twelve million dollars\". Killed your parents sounds so harsh. *Chuckles*"
+    # u "I guess so. *Laughs*"
+    u "On dirait bien. *Rire*"
 
-                scene v12grm2l # FPP. Same as v12grm2k, Chloe slightly worried, mouth open
-                with dissolve
+# game/v12/scene35b.rpy:350
+translate francais v12_game_roommate_9b699c6d:
 
-                cl "I don't get how you got the money though..."
+    # u "Let's see, what's the best offer I can get?"
+    u "Voyons voir, quelle est la meilleure offre que je peux obtenir ?"
 
-                scene v12grm2f
-                with dissolve
+# game/v12/scene35b.rpy:355
+translate francais v12_game_roommate_ac6e3e93:
 
-                u "My character background said my parents were rich, so I killed them and I got money in the will."
+    # cl "Offers for what?"
+    cl "Des offres pour quoi ?"
 
-                scene v12grm2e
-                with dissolve
+# game/v12/scene35b.rpy:360
+translate francais v12_game_roommate_0afa6e84:
 
-                cl "This game allows that? Holy shit... *Chuckles*"
+    # u "You'll see."
+    u "Tu vas voir."
 
-                scene v12grm2f
-                with dissolve
+# game/v12/scene35b.rpy:365
+translate francais v12_game_roommate_05ad8da7:
 
-                u "I guess so. *Laughs*"
+    # cl "\"Meet your new neighbors\"? You sold your house!? It says you're homeless!"
+    cl "\"Rencontrez vos nouveaux voisins\" ? Tu as vendu ta maison ! ? Ça dit que tu es sans abri !"
 
-            "Sell your house":
-                $ add_point(KCT.BOYFRIEND)
-                scene v12grm2d
-                with dissolve
+# game/v12/scene35b.rpy:370
+translate francais v12_game_roommate_1b3f9d5c:
 
-                u "Let's see, what's the best offer I can get?"
+    # u "It should say I'm homeless and rich... Got ten times more than what I bought it for."
+    u "Ça devrait dire que je suis sans abri et riche... J'ai obtenu dix fois plus que ce que j'avais payé pour l'acheter."
 
-                scene v12grm2e
-                with dissolve
+# game/v12/scene35b.rpy:375
+translate francais v12_game_roommate_df4abfe1:
 
-                cl "Offers for what?"
+    # cl "But you're homeless now, you did that for me?"
+    cl "Mais tu es SDF maintenant, tu as fait ça pour moi ?"
 
-                scene v12grm2f
-                with dissolve
+# game/v12/scene35b.rpy:380
+translate francais v12_game_roommate_ac65e087:
 
-                u "You'll see."
+    # u "I'm playing the game for you. *Laughs*"
+    u "Je joue au jeu pour toi. *Rire*"
 
-                scene v12grm2j
-                with dissolve
+# game/v12/scene35b.rpy:385
+translate francais v12_game_roommate_55f5b0cb:
 
-                cl "\"Meet your new neighbors\"? You sold your house!? It says you're homeless!"
+    # u "Now... Let's get to this wedding."
+    u "Maintenant... Allons nous occuper de ce mariage."
 
-                scene v12grm2k
-                with dissolve
+# game/v12/scene35b.rpy:390
+translate francais v12_game_roommate_271281fc:
 
-                u "It should say I'm homeless and rich... Got ten times more than what I bought it for."
+    # u "Alright, let's see... And... boom! Now, we're married."
+    u "D'accord, voyons voir... Et... boum ! Voilà, on est mariés."
 
-                scene v12grm2l
-                with dissolve
+# game/v12/scene35b.rpy:395
+translate francais v12_game_roommate_fe150c73:
 
-                cl "But you're homeless now, you did that for me?"
+    # cl "Yayyy! I got the milestone."
+    cl "Ouaiiiis ! J'ai franchi le cap."
 
-                scene v12grm2f
-                with dissolve
+# game/v12/scene35b.rpy:400
+translate francais v12_game_roommate_feb44c11:
 
-                u "I'm playing the game for you. *Laughs*"
+    # u "Oh cool! I got a millionaire milestone."
+    u "Oh cool ! J'ai eu un succès \"millionnaire\"."
 
-        scene v12grm2f
-        with dissolve
+# game/v12/scene35b.rpy:405
+translate francais v12_game_roommate_34f81ae4:
 
-        u "Now... Let's get to this wedding."
+    # cl "We make a good team, but..."
+    cl "Nous formons une bonne équipe, mais..."
 
-        scene v12grm2d
-        with dissolve
+# game/v12/scene35b.rpy:410
+translate francais v12_game_roommate_0ec7e076:
 
-        u "Alright, let's see... And... boom! Now, we're married."
+    # cl "...I'm going to bed now."
+    cl "...je vais me coucher maintenant."
 
-        scene v12grm2e
-        with dissolve
+# game/v12/scene35b.rpy:415
+translate francais v12_game_roommate_723cd448:
 
-        cl "Yayyy! I got the milestone."
+    # u "Awww! Just a little longer? I was starting to enjoy it... *Chuckles*"
+    u "Ooooh ! Encore un peu plus longtemps ? Je commençais à l'apprécier... *Rire*"
 
-        scene v12grm2f
-        with dissolve
+# game/v12/scene35b.rpy:420
+translate francais v12_game_roommate_e1990993:
 
-        u "Oh cool! I got a millionaire milestone."
+    # cl "No more for tonight."
+    cl "C'est terminé pour ce soir."
 
-        scene v12grm2e
-        with dissolve
+# game/v12/scene35b.rpy:425
+translate francais v12_game_roommate_92b43ce2:
 
-        cl "We make a good team, but..."
+    # u "Well, ain't that something... You risk everything to give a girl the wedding of her dreams and in the end she gives you the cold shoulder."
+    u "Eh ben, c'est pas normal... Tu risques tout pour offrir à une fille le mariage de ses rêves et à la fin elle t'ignore."
 
-        scene v12grm2
-        with dissolve
+# game/v12/scene35b.rpy:430
+translate francais v12_game_roommate_51d33483:
 
-        cl "...I'm going to bed now."
+    # cl "When I want the kids achievement, I'll call you."
+    cl "Quand je voudrai le succès des \"enfants\", je t'appellerai."
 
-        scene v12grm2a
-        with dissolve
+# game/v12/scene35b.rpy:435
+translate francais v12_game_roommate_7d96efaa:
 
-        u "Awww! Just a little longer? I was starting to enjoy it... *Chuckles*"
+    # u "Just want me when you need me... That's crazy..."
+    u "Tu veux de moi juste quand tu en as besoin... C'est dingue..."
 
-        scene v12grm2
-        with dissolve
+# game/v12/scene35b.rpy:440
+translate francais v12_game_roommate_3059d9c5:
 
-        cl "No more for tonight."
+    # cl "Welcome to the real world. *Chuckles*"
+    cl "\"Bienvenue dans le monde réel.\" *Rire*"
 
-        scene v12grm2a
-        with dissolve
+# game/v12/scene35b.rpy:445
+translate francais v12_game_roommate_667524dc:
 
-        u "Well, ain't that something... You risk everything to give a girl the wedding of her dreams and in the end she gives you the cold shoulder."
+    # u "Actually, in the real world I can annoy you as much as I want."
+    u "Dans le monde réel, en tout cas, je peux t'embêter autant que je veux."
 
-        scene v12grm2
-        with dissolve
+# game/v12/scene35b.rpy:450
+translate francais v12_game_roommate_34ab6a14:
 
-        cl "When I want the kids achievement, I'll call you."
+    # cl "OH MY GOD! *Chuckles* STOP IT! [name]! PLEASE... PLEASE STOP! *Laughs*"
+    cl "OH MERDE ! *glousse* ARRÊTE ! [name] ! S'IL TE PLAÎT... S'IL TE PLAÎT, ARRÊTE ! *Rire*"
 
-        scene v12grm2a
-        with dissolve
+# game/v12/scene35b.rpy:457
+translate francais v12_game_roommate_fcc18885_1:
 
-        u "Just want me when you need me... That's crazy..."
+    # u "*Laughs*"
+    u "*Rire*"
 
-        scene v12grm2
-        with dissolve
+# game/v12/scene35b.rpy:463
+translate francais v12_game_roommate_3d9fb0a2:
 
-        cl "Welcome to the real world. *Chuckles*"
+    # cl "Just for that, you can sleep by yourself tonight."
+    cl "Juste à cause de ça, tu vas dormir tout seul ce soir."
 
-        scene v12grm2a
-        with dissolve
+# game/v12/scene35b.rpy:468
+translate francais v12_game_roommate_0994b4ab:
 
-        u "Actually, in the real world I can annoy you as much as I want."
+    # u "*Whisper* You sure you don't want my company?"
+    u "*Chuchote* Tu es sûre que tu ne veux pas de ma compagnie ?"
 
-        scene v12grm5 # TPP. Show MC tickling Chloe, Chloe laughing mouth open, MC smiling, mouth closed
-        with dissolve
+# game/v12/scene35b.rpy:473
+translate francais v12_game_roommate_0f6c1a9b:
 
-        cl "OH MY GOD! *Chuckles* STOP IT! [name]! PLEASE... PLEASE STOP! *Laughs*"
+    # cl "Don't tease me, I'm tired! But, I guess you can stay and hold me... If you have to."
+    cl "Ne me taquine pas, je suis fatiguée ! Mais, je crois finalement, que tu peux rester et me câliner... Si tu le veux."
 
-        if chloe.relationship >= Relationship.FWB:
-            #scene v12grm2a
-            scene v12grm5
-            with dissolve
+# game/v12/scene35b.rpy:478
+translate francais v12_game_roommate_dfdb6735:
 
-            u "*Laughs*"
+    # u "Is that your way of asking? *Chuckles*"
+    u "C'est ta façon de demander ? *Rire*"
 
-            #scene v12grm2
-            scene v12grm7a
-            with dissolve
+# game/v12/scene35b.rpy:483
+translate francais v12_game_roommate_d38aa789:
 
-            cl "Just for that, you can sleep by yourself tonight."
+    # cl "Please?"
+    cl "S'il te plaît ?"
 
-            scene v12grm6 # TPP. Show MC sitting next to Chloe, Chloe slight smile, looking away from MC, MC close to her ear, mouth open, whispering, slight smile
-            with dissolve
+# game/v12/scene35b.rpy:488
+translate francais v12_game_roommate_a38e5664:
 
-            u "*Whisper* You sure you don't want my company?"
+    # u "Haha, as you wish. Let's head over to my bed."
+    u "Haha, comme tu veux. Allons dans mon lit."
 
-            scene v12grm7 # FPP. MC and Chloe sitting next to each other on her bed, Chloe looking at MC, slight smile, mouth open
-            with dissolve
+# game/v12/scene35b.rpy:519
+translate francais v12_game_roommate_cd650154:
 
-            cl "Don't tease me, I'm tired! But, I guess you can stay and hold me... If you have to."
+    # cl "Oh my god, are you okay?! *Chuckles*"
+    cl "Oh mon dieu, tu veux bien ?! *Rire*"
 
-            scene v12grm7a # FPP. Same as v12grm7, Chloe slight smile, mouth closed
-            with dissolve
+# game/v12/scene35b.rpy:524
+translate francais v12_game_roommate_2d2a4704:
 
-            u "Is that your way of asking? *Chuckles*"
+    # u "Damn, you're pretty strong..."
+    u "Merde, tu es vraiment forte..."
 
-            scene v12grm7
-            with dissolve
+# game/v12/scene35b.rpy:529
+translate francais v12_game_roommate_4004cc32:
 
-            cl "Please?"
+    # cl "Sorry, my reflexes kicked in. *Chuckles*"
+    cl "Désolée, mes réflexes se sont emballés. *Rire*"
 
-            scene v12grm7a
-            with dissolve
+# game/v12/scene35b.rpy:539
+translate francais v12_game_roommate_1a6bc0ed:
 
-            u "Haha, as you wish. Let's head over to my bed."
+    # u "Now I'm the tired one... Damn near knocked me out!"
+    u "Maintenant c'est moi qui suis fatigué... Ça m'a presque assommé !"
 
-            scene v12grm8 # TPP. Show MC and Chloe getting into MC's bed
-            with dissolve
+# game/v12/scene35b.rpy:544
+translate francais v12_game_roommate_198e221f:
 
-            pause 1.25
+    # cl "*Laughs* You're exaggerating."
+    cl "*Rire* Tu exagères."
 
-            scene v12grm9 # TPP. Show MC and Chloe sleeping together
-            with dissolve
+# game/v12/scene35b.rpy:549
+translate francais v12_game_roommate_97ec3273:
 
-            pause 1.25
+    # u "No I'm not! *Chuckles*"
+    u "Non, pas du tout ! *Rire*"
 
-            scene v12grm9a # TPP. Same as v12grm9, different position
-            with dissolve
+# game/v12/scene35b.rpy:559
+translate francais v12_game_roommate_37e87c42:
 
-            pause 1.25
+    # cl "Goodnight, [name]."
+    cl "Bonne nuit, [name]."
 
-            stop music fadeout 3
+# game/v12/scene35b.rpy:564
+translate francais v12_game_roommate_53927a97:
 
-            jump v12_lindsey_lobby
+    # u "Goodnight, Chloe."
+    u "Bonne nuit, Chloé."
 
-        else:
-            scene v12grm10 # TPP. MC was tickling Chloe, she pushes him off to the floor, MC startled, mouth closed, Chloe slightly worried mouth closed
-            with dissolve
+# game/v12/scene35b.rpy:584
+translate francais v12_game_roommate_adee50f4:
 
-            pause 0.75
+    # ri "Steal anything else of mine while I was in the shower?"
+    ri "Tu as volé autre chose pendant que j'étais sous la douche ?"
 
-            scene v12grm11 # FPP. MC on the floor, looking up at Chloe who is sitting on her bed, Chloe slight smile, mouth open
-            with vpunch
-            play sound "sounds/fall.mp3"
+# game/v12/scene35b.rpy:591
+translate francais v12_game_roommate_fb0d5ea1:
 
-            cl "Oh my god, are you okay?! *Chuckles?*"
+    # u "Riley, I'm not doing this with you right now."
+    u "Riley, je ne fais rien de tout ça, tu le sais très bien."
 
-            scene v12grm11a # FPP. Same as v12grm11, Chloe slight smile, mouth closed
-            with dissolve
+# game/v12/scene35b.rpy:596
+translate francais v12_game_roommate_2cf33c62:
 
-            u "Damn, you're pretty strong..."
+    # ri "If you didn't want me to be upset, you shouldn't have taken it. Even if you thought it was a joke or something, it's still not cool."
+    ri "Si tu ne voulais pas que je sois en colère, tu n'aurais pas dû la prendre. Même si tu croyais faire une blague ou autre, c'est quand même pas cool."
 
-            scene v12grm11
-            with dissolve
+# game/v12/scene35b.rpy:601
+translate francais v12_game_roommate_7f07f945:
 
-            cl "Sorry, my reflexes kicked in. *Chuckles*"
+    # ri "Honestly... What's bothering me even more is that you keep lying."
+    ri "Honnêtement... Ce qui me dérange encore plus, c'est que tu continues à me mentir."
 
-            scene v12grm12 # TPP. Show MC getting up from the floor, slight smile, mouth closed
-            with dissolve
+# game/v12/scene35b.rpy:606
+translate francais v12_game_roommate_57ae9944:
 
-            pause 0.75
+    # u "*Sighs*"
+    u "*Soupirs*"
 
-            scene v12grm2a
-            with dissolve
+# game/v12/scene35b.rpy:611
+translate francais v12_game_roommate_24f7f46a:
 
-            u "Now I'm the tired one... Damn near knocked me out!"
+    # ri "So you're just gonna ignore me?"
+    ri "Alors tu vas m'ignorer, tout simplement ?"
 
-            scene v12grm2
-            with dissolve
+# game/v12/scene35b.rpy:616
+translate francais v12_game_roommate_e55d4443:
 
-            cl "*Laughs* You're exaggerating."
+    # u "I already told you I didn't take it. Obviously no matter what I say, you're not gonna believe me."
+    u "Je t'ai déjà dit que je ne l'ai pas prise. De toute évidence, peu importe ce que je dis, tu ne me croiras pas."
 
-            scene v12grm2a
-            with dissolve
+# game/v12/scene35b.rpy:621
+translate francais v12_game_roommate_4edff507:
 
-            u "No I'm not! *Chuckles*"
+    # ri "*Scoffs*"
+    ri "*Pffff*"
 
-            scene v12grm13 # TPP. Show Chloe turning off the lights
-            with dissolve
+translate francais strings:
 
-            pause 0.75
+    # game/v12/scene35b.rpy:297
+    old "Kill parents for insurance"
+    new "Tuer ses parents pour l'héritage"
 
-            scene v12grm14 # FPP. MC lying down on his bed, Chloe lying down on her bed, MC looking at Chloe, Chloe looking at MC, Chloe slight smile, mouth open
-            with dissolve
-
-            cl "Goodnight, [name]."
-
-            scene v12grm14a # FPP. Same as v12grm14, Chloe slight smile, mouth closed
-            with dissolve
-
-            u "Goodnight, Chloe."
-
-            scene v12grm15 # TPP. Show MC sleeping alone in his bed
-            with dissolve
-
-            pause 0.75
-
-            scene v12grm15a # TPP. Same as v12grm15, different position
-            with dissolve
-
-            pause 0.75
-
-            stop music fadeout 3
-
-            jump v12_lindsey_lobby
-
-    else:
-        scene v12grm1a # FPP. Same as v12grm1, Riley instead of Chloe, Riley mouth open, angry
-        with dissolve
-
-        ri "Steal anything else of mine while I was in the shower?"
-
-        play music "music/v12/Track Scene 35b_2.mp3" fadein 2
-
-        scene v12grm16 # FPP. Riley standing in front of MC's bed, Riley angry, mouth closed
-        with dissolve
-
-        u "Riley, I'm not doing this with you right now."
-
-        scene v12grm16a # FPP. Same as v12grm16, Riley angry, mouth open
-        with dissolve
-
-        ri "If you didn't want me to be upset, you shouldn't have taken it. Even if you thought it was a joke or something, it's still not cool."
-
-        scene v12grm16b # FPP. Same as v12grm16a, different pose
-        with dissolve
-
-        ri "Honestly... What's bothering me even more is that you keep lying."
-
-        scene v12grm16
-        with dissolve
-
-        u "*Sighs*"
-
-        scene v12grm16a
-        with dissolve
-
-        ri "So you're just gonna ignore me?"
-
-        scene v12grm16
-        with dissolve
-
-        u "I already told you I didn't take it. Obviously no matter what I say, you're not gonna believe me."
-
-        scene v12grm16c # FPP. Same as v12grm16, Riley walking away to her bed, scoffing, angry
-        with dissolve
-
-        ri "*Scoffs*"
-
-        scene v12grm13a # TPP. Same as v12grm13, Riley turning off the lights instead of Chloe
-        with dissolve
-
-        pause 0.75
-
-        scene v12grm15
-        with dissolve
-
-        pause 0.75
-
-        scene v12grm15a
-        with dissolve
-
-        pause 0.75
-
-        stop music fadeout 3
-
-        jump v12_lindsey_lobby #scene 36 
+    # game/v12/scene35b.rpy:297
+    old "Sell your house"
+    new "Vendre sa maison"

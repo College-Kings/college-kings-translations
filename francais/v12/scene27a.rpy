@@ -1,503 +1,585 @@
-# SCENE 27a: 
-# Locations: hotel lobby, barbershop
-# Characters: RYAN (Outfit: 1), MC (Outfit: 3), BARBER (Outfit: 1)
-# Time: Afternoon
-# Phone Images: ?
+﻿# TODO: Translation updated at 2021-12-30 15:29
 
-label v12s27a:
-    scene v12s27a_1 #FPP, showing Ryan coming up to mc, mouth open, surprised smile
-    with dissolve
-    ry "That was some mess, wasn't it?"
+# game/v12/scene27a.rpy:10
+translate francais v12s27a_984adea6:
 
-    play music "music/v12/Track Scene 27a_1.mp3" fadein 2
+    # ry "That was some mess, wasn't it?"
+    ry "C'était un sacré bordel, hein ?"
 
-    scene v12s27a_2a #FPP, Ryan now close up in front of mc, mouth closed, surprised smile
-    with dissolve
+# game/v12/scene27a.rpy:17
+translate francais v12s27a_ec4642d5:
 
-    u "More than I wanted to deal with, that's for sure."
+    # u "More than I wanted to deal with, that's for sure."
+    u "Plus que ce que je voulais voir, c'est sûr."
 
-    scene v12s27a_2 #same as 2a, mouth open
-    with dissolve
+# game/v12/scene27a.rpy:22
+translate francais v12s27a_58d60dad:
 
-    ry "I always took Chris for the calm type, and really didn't expect him to snap like that."
+    # ry "I always took Chris for the calm type, and really didn't expect him to snap like that."
+    ry "J'ai toujours pensé que Chris était du genre calme, et je ne m'attendais pas à ce qu'il craque comme ça."
 
-    scene v12s27a_2a
-    with dissolve
+# game/v12/scene27a.rpy:27
+translate francais v12s27a_8362763c:
 
-    u "I don't think anyone did."
+    # u "I don't think anyone did."
+    u "Je crois qu'il a surpris tout le monde."
 
-    scene v12s27a_2
-    with dissolve
+# game/v12/scene27a.rpy:32
+translate francais v12s27a_16d3816b:
 
-    ry "You almost snapped."
+    # ry "You almost snapped."
+    ry "Tu as failli craquer."
 
-    scene v12s27a_2a
-    with dissolve
+# game/v12/scene27a.rpy:37
+translate francais v12s27a_868405f8:
 
-    u "I just didn't want them escalating the situation."
+    # u "I just didn't want them escalating the situation."
+    u "Je ne voulais pas qu'ils aggravent la situation."
 
-    scene v12s27a_2b # same as 2, laughing smile, mouth open
-    with dissolve
+# game/v12/scene27a.rpy:42
+translate francais v12s27a_35732251:
 
-    ry "Bro, he just shoved her like she was a damn pinata."
+    # ry "Bro, he just shoved her like she was a damn pinata."
+    ry "Mec, il l'a juste bousculée comme si elle était une foutue pinata."
 
-    scene v12s27a_2c #same as 2b, mouth closed
-    with dissolve
+# game/v12/scene27a.rpy:47
+translate francais v12s27a_22684365:
 
-    u "Bro, that's not even funny."
+    # u "Bro, that's not even funny."
+    u "Frère, c'est pas drôle du tout."
 
-    scene v12s27a_2d # same as 2b, ryan hand behind head, a bit embarrased / humbled, mouth open
-    with dissolve
+# game/v12/scene27a.rpy:52
+translate francais v12s27a_d972d6cc:
 
-    ry "You're right, sorry."
+    # ry "You're right, sorry."
+    ry "T'as raison, désolé."
 
-    ry "So... what have you got planned tonight?"
+# game/v12/scene27a.rpy:54
+translate francais v12s27a_9ee669cc:
 
-    scene v12s27a_2f #same as 2c, Ryan neutral face, mouth closed
-    with dissolve
+    # ry "So... what have you got planned tonight?"
+    ry "Alors... tu as prévu quoi pour ce soir ?"
 
-    u "Nothing, you?"
+# game/v12/scene27a.rpy:59
+translate francais v12s27a_6ed2288a:
 
-    scene v12s27a_2e #same as 2f, mouth open
-    with dissolve
+    # u "Nothing, you?"
+    u "Rien, et toi ?"
 
-    ry "Whatever, really... I'm bored."
+# game/v12/scene27a.rpy:64
+translate francais v12s27a_2e36770d:
 
-    scene v12s27a_2f
-    with dissolve
+    # ry "Whatever, really... I'm bored."
+    ry "Rien de spécial, vraiment... Je m'ennuie."
 
-    u "Well, you're gonna have to come up with something. *Chuckles*"
+# game/v12/scene27a.rpy:69
+translate francais v12s27a_5d049f4a:
 
-    scene v12s27a_2c
-    with dissolve
+    # u "Well, you're gonna have to come up with something. *Chuckles*"
+    u "Eh bien, tu vas devoir trouver quelque chose. *Rire*"
 
-    u "Oh no... What's that face for?"
+# game/v12/scene27a.rpy:74
+translate francais v12s27a_204944dc:
 
-    scene v12s27a_2b
-    with dissolve
+    # u "Oh no... What's that face for?"
+    u "Oh non... C'est quoi cette tête ?"
 
-    ry "*Chuckles*I know what we can do."
+# game/v12/scene27a.rpy:79
+translate francais v12s27a_904e1af1:
 
-    scene v12s27a_2c
-    with dissolve
+    # ry "*Chuckles*I know what we can do."
+    ry "*Rire* Je sais ce qu'on peut faire."
 
-    u "What?"
+# game/v12/scene27a.rpy:84
+translate francais v12s27a_ef2f1671:
 
-    scene v12s27a_2b
-    with dissolve
+    # u "What?"
+    u "Quoi ?"
 
-    ry "You're not gonna like this..."
+# game/v12/scene27a.rpy:89
+translate francais v12s27a_a7b72891:
 
-    scene v12s27a_2c
-    with dissolve
+    # ry "You're not gonna like this..."
+    ry "Tu ne vas pas aimer ça..."
 
-    u "*Sighs* What is it..."
+# game/v12/scene27a.rpy:94
+translate francais v12s27a_8d69bfe3:
 
-    scene v12s27a_2b
-    with dissolve
+    # u "*Sighs* What is it..."
+    u "*Soupirs* Qu'est-ce que c'est..."
 
-    ry "It's a little something I wanna do to the next pledges."
+# game/v12/scene27a.rpy:99
+translate francais v12s27a_6b21c8cb:
 
-    scene v12s27a_2c
-    with dissolve
+    # ry "It's a little something I wanna do to the next pledges."
+    ry "C'est un petit quelque chose que je veux faire pour les prochains candidats."
 
-    u "Okay... And? What is it?"
+# game/v12/scene27a.rpy:104
+translate francais v12s27a_d691ef1c:
 
-    scene v12s27a_2
-    with dissolve
+    # u "Okay... And? What is it?"
+    u "Ok... Et ? Qu'est-ce que c'est ?"
 
-    ry "I want to play a betting game and whoever loses has to dye their hair pitch black."
+# game/v12/scene27a.rpy:109
+translate francais v12s27a_3f8215db:
 
-    scene v12s27a_2a
-    with dissolve
+    # ry "I want to play a betting game and whoever loses has to dye their hair pitch black."
+    ry "Je veux faire un pari et celui qui perd doit se teindre les cheveux en noir."
 
-    u "What made you come up with this? Like... Why black hair? *Chuckles*"
+# game/v12/scene27a.rpy:114
+translate francais v12s27a_0d3405b7:
 
-    scene v12s27a_2b
-    with dissolve
+    # u "What made you come up with this? Like... Why black hair? *Chuckles*"
+    u "Qu'est-ce qui t'a fait penser à ça ? Comme... Pourquoi des cheveux noirs ? *Rire*"
 
-    ry "I wanna call everyone that gets black hair, Roasted Apes. *Chuckles*"
+# game/v12/scene27a.rpy:119
+translate francais v12s27a_a58a1a5f:
 
-    scene v12s27a_2c
-    with dissolve
+    # ry "I wanna call everyone that gets black hair, Roasted Apes. *Chuckles*"
+    ry "Je voudrais appeler tous ceux qui ont des cheveux noirs, des Apess grillés. *Rire*"
 
-    u "*Chuckles* You come up with some crazy ass ideas, Ryan."
+# game/v12/scene27a.rpy:124
+translate francais v12s27a_9c53da93:
 
-    scene v12s27a_2b
-    with dissolve
+    # u "*Chuckles* You come up with some crazy ass ideas, Ryan."
+    u "*Rire* Tu as des idées complètement chelou, Ryan."
 
-    ry "It's not weird, it's hilarious! You'll find that out when everyone's laughing at your black hair. *Chuckles*"
+# game/v12/scene27a.rpy:129
+translate francais v12s27a_83cb7b5c:
 
-    scene v12s27a_2c
-    with dissolve
+    # ry "It's not weird, it's hilarious! You'll find that out when everyone's laughing at your black hair. *Chuckles*"
+    ry "Ce n'est pas chelou, c'est hilarant ! Tu t'en rendras compte quand tout le monde se moquera de tes cheveux noirs. *Rire*"
 
-    u "That just depends on the bet... So, What is the bet?"
+# game/v12/scene27a.rpy:134
+translate francais v12s27a_85ed3abd:
 
-    scene v12s27a_2g # same as 2, Ryan confident smile, pointing finger in front of his face like he has an idea, mouth open
-    with dissolve
+    # u "That just depends on the bet... So, What is the bet?"
+    u "Ça dépend juste du pari... Donc, quel est le défi ?"
 
-    ry "Amber! Amber's the bet."
+# game/v12/scene27a.rpy:139
+translate francais v12s27a_74839e68:
 
-    ry "We'll bet on whether or not she's had sex with a girl."
+    # ry "Amber! Amber's the bet."
+    ry "Amber ! Amber est le pari."
 
-    scene v12s27a_2c
-    with dissolve
+# game/v12/scene27a.rpy:141
+translate francais v12s27a_55614a48:
 
-    u "She has..."
+    # ry "We'll bet on whether or not she's had sex with a girl."
+    ry "On va parier sur le fait qu'elle ait ou non fait l'amour avec une fille."
 
-    scene v12s27a_2b
-    with dissolve
+# game/v12/scene27a.rpy:146
+translate francais v12s27a_1f088339:
 
-    ry "Ha, I know she hasn't."
+    # u "She has..."
+    u "Elle l'a..."
 
-    scene v12s27a_2c
-    with dissolve
+# game/v12/scene27a.rpy:151
+translate francais v12s27a_ac9e9b66:
 
-    u "But... She has."
+    # ry "Ha, I know she hasn't."
+    ry "Ha, je sais qu'elle ne l'a pas fait."
 
-    scene v12s27a_2
-    with dissolve
+# game/v12/scene27a.rpy:156
+translate francais v12s27a_998d703e:
 
-    ry "We'll find out, okay? Whoever is wrong has to dye their hair, tonight. Deal?"
+    # u "But... She has."
+    u "Mais... Elle l'a fait."
 
-    scene v12s27a_2a
-    with dissolve
+# game/v12/scene27a.rpy:161
+translate francais v12s27a_8af50aff:
 
-    u "Ryan, are you sure you wanna do this?"
+    # ry "We'll find out, okay? Whoever is wrong has to dye their hair, tonight. Deal?"
+    ry "On va le découvrir, d'accord ? Celui qui a tort doit se teindre les cheveux, ce soir. Marché conclu ?"
 
-    scene v12s27a_2j # same as 2, Ryan looking at his phone, smiling, mouth open
-    with dissolve
+# game/v12/scene27a.rpy:166
+translate francais v12s27a_ae660463:
 
-    ry "I'll take that as a yes... Haha!"
+    # u "Ryan, are you sure you wanna do this?"
+    u "Ryan, tu es sûr de vouloir faire ça ?"
 
-    scene v12s27a_2l # same as 2j, Ryan talking to phone on speaker so holding it in front of his mouth, confident smile, mouth open
-    with dissolve
+# game/v12/scene27a.rpy:171
+translate francais v12s27a_16945def:
 
-    ry "Hold up, I'll put her on speaker."
-    ry "Hello?"
+    # ry "I'll take that as a yes... Haha!"
+    ry "Je vais prendre ça pour un oui... Haha !"
 
-    scene v12s27a_2m #same as 2l, mouth closed
-    with dissolve
+# game/v12/scene27a.rpy:176
+translate francais v12s27a_a18a1fd5:
 
-    am "What do you want, jackass?"
+    # ry "Hold up, I'll put her on speaker."
+    ry "Attends, je la mets sur haut-parleur."
 
-    scene v12s27a_2l
-    with dissolve
+# game/v12/scene27a.rpy:177
+translate francais v12s27a_b9b441bb:
 
-    ry "Oh, umm... I have a question for you. We need your help resolving a bet between me and [name]."
+    # ry "Hello?"
+    ry "Allo ?"
 
-    scene v12s27a_2m
-    with dissolve
+# game/v12/scene27a.rpy:182
+translate francais v12s27a_473bb0e4:
 
-    am "Uh, okay... What's the bet?"
+    # am "What do you want, jackass?"
+    am "Qu'est-ce que tu veux, crétin ?"
 
-    scene v12s27a_2l
-    with dissolve
+# game/v12/scene27a.rpy:187
+translate francais v12s27a_fb427bc8:
 
-    ry "Depending on your answer to this question, one of us has to dye our hair black."
+    # ry "Oh, umm... I have a question for you. We need your help resolving a bet between me and [name]."
+    ry "Oh, humm... J'ai une question pour toi. Nous avons besoin de ton aide pour un pari entre [name] et moi."
 
-    scene v12s27a_2m
-    with dissolve
+# game/v12/scene27a.rpy:192
+translate francais v12s27a_50be3fbd:
 
-    am "What's the question?"
+    # am "Uh, okay... What's the bet?"
+    am "Euh, ok... Quelle est la mise ?"
 
-    scene v12s27a_2l
-    with dissolve
+# game/v12/scene27a.rpy:197
+translate francais v12s27a_70ab239b:
 
-    ry "[name] and I wanna know if you've ever slept with a girl."
+    # ry "Depending on your answer to this question, one of us has to dye our hair black."
+    ry "Selon ta réponse à cette question, l'un de nous doit se teindre les cheveux en noir."
 
-    scene v12s27a_2m
-    with dissolve
+# game/v12/scene27a.rpy:202
+translate francais v12s27a_fa46a6e0:
 
-    am "That's a stupid question. [name] already knows the answer."
-    
-    scene v12s27a_2o # same as 2m, Ryan upset face, mouth closed
-    with dissolve
+    # am "What's the question?"
+    am "Quelle est la question ?"
 
-    u "I tried to tell him that but he got cocky, so I let him make his little bet. *Chuckles*"
+# game/v12/scene27a.rpy:207
+translate francais v12s27a_987ee909:
 
-    am "*Laughs* I don't even need to guess what [name]'s answer was... Yes, I've been with a girl. So, enjoy your black hair dumbass! Take pictures, [name]!"
+    # ry "[name] and I wanna know if you've ever slept with a girl."
+    ry "[name] et moi voulons savoir si tu as déjà couché avec une fille."
 
-    am "*Hangs up*"
+# game/v12/scene27a.rpy:212
+translate francais v12s27a_998512fb:
 
-    scene v12s27a_2n # same as 2o, mouth open
-    with dissolve
+    # am "That's a stupid question. [name] already knows the answer."
+    am "C'est une question stupide. [name] connaît déjà la réponse."
 
-    ry "Hello? Amber?!"
+# game/v12/scene27a.rpy:217
+translate francais v12s27a_2a83186a:
 
-    scene v12s27a_2p # same as 2n, mouth open, ryan now looking at mc, still holding phone in front of his mouth
-    with dissolve
-    
-    ry "Bro, she hung up on me!"
+    # u "I tried to tell him that but he got cocky, so I let him make his little bet. *Chuckles*"
+    u "J'ai essayé de le lui dire mais il est devenu arrogant, alors je l'ai laissé faire son petit pari. *Rire*"
 
-    scene v12s27a_2q # same as 2p, mouth closed
-    with dissolve
+# game/v12/scene27a.rpy:219
+translate francais v12s27a_b4d781e6:
 
-    u "Doesn't matter man, let's go get that hair done. I'm ready to see what you look like as a Roasted Ape. *Laughs*"
+    # am "*Laughs* I don't even need to guess what [name]'s answer was... Yes, I've been with a girl. So, enjoy your black hair dumbass! Take pictures, [name]!"
+    am "*Rire* Je n'ai même pas besoin de deviner quelle a été la réponse de [name]... Oui, j'ai déjà couché avec une fille. Alors, profite de tes cheveux noirs, crétin ! Prends des photos, [name] !"
 
-    scene v12s27a_2e
-    with dissolve
+# game/v12/scene27a.rpy:221
+translate francais v12s27a_c16ac08e:
 
-    ry "Haha, man... You know I was just joking, right? We don't have to do this bet."
+    # am "*Hangs up*"
+    am "*Raccroche*"
 
-    #scene v12s27a_2g
-    scene v12s27a_2f
-    with dissolve
+# game/v12/scene27a.rpy:226
+translate francais v12s27a_a0cc0a20:
 
-    u "What do you mean we don't have to do it? We already did and you lost. *Laughs* So let's go."
+    # ry "Hello? Amber?!"
+    ry "Allo ? Amber ?!"
 
-    scene v12s27a_2e
-    with dissolve
+# game/v12/scene27a.rpy:231
+translate francais v12s27a_e9da7466:
 
-    ry "Please, [name]... I really don't think it's gonna look good."
+    # ry "Bro, she hung up on me!"
+    ry "Mec, elle m'a raccroché au nez !"
 
-    #scene v12s27a_2g
-    scene v12s27a_2f
-    with dissolve
+# game/v12/scene27a.rpy:236
+translate francais v12s27a_7f784730:
 
-    u "Should've thought about that before you made the bet, bud. Live on the edge, die falling off. *Chuckles*"
+    # u "Doesn't matter man, let's go get that hair done. I'm ready to see what you look like as a Roasted Ape. *Laughs*"
+    u "C'est pas grave mec, allons chez le coiffeur. Je suis impatient de voir à quoi tu ressembles en Ape rôti. *Rire*"
 
-    scene v12s27a_2e
-    with dissolve
+# game/v12/scene27a.rpy:241
+translate francais v12s27a_1a14fa84:
 
-    ry "*Sighs*"
+    # ry "Haha, man... You know I was just joking, right? We don't have to do this bet."
+    ry "Haha, mec... Tu sais que je ne faisais que plaisanter, n'est-ce pas ? On n'est pas obligé de faire ce pari."
 
-    #scene v12s27a_2g
-    scene v12s27a_2f
-    with dissolve
+# game/v12/scene27a.rpy:247
+translate francais v12s27a_ed29e943:
 
-    u "Lead the way!"
+    # u "What do you mean we don't have to do it? We already did and you lost. *Laughs* So let's go."
+    u "Comment ça, on n'a pas à le faire ? On l'a déjà fait et tu as perdu. *Rire* Alors allons-y."
 
-    scene v12s27a_2e
-    with dissolve
+# game/v12/scene27a.rpy:252
+translate francais v12s27a_4b84314b:
 
-    ry "*Sighs* Okay..."
+    # ry "Please, [name]... I really don't think it's gonna look good."
+    ry "S'il te plaît, [name]... Je pense vraiment que ça ne va pas être beau."
 
-    scene v12s27a_3 #TPP, shows Ryan and mc walk towards the barber shop
-    with fade
+# game/v12/scene27a.rpy:258
+translate francais v12s27a_29461bbe:
 
-    pause 0.7
+    # u "Should've thought about that before you made the bet, bud. Live on the edge, die falling off. *Chuckles*"
+    u "Tu aurais dû y penser avant de faire le pari, mon pote. Tu vis sur le bord de la falaise, tu meurs en tombant. *Rire*"
 
-    scene v12s27a_4 #FPP showing Ryan in front of mc entering the barber shop
-    with dissolve
+# game/v12/scene27a.rpy:263
+translate francais v12s27a_9a8f0774:
 
-    pause 0.7
+    # ry "*Sighs*"
+    ry "*Soupirs*"
 
-    scene v12s27a_5 # FPP shows barber, friendly smile, mouth open, looking at mc
-    with dissolve
+# game/v12/scene27a.rpy:269
+translate francais v12s27a_3bd40238:
 
-    barber "Bonjour!"
+    # u "Lead the way!"
+    u "Ouvre la voie !"
 
-    stop music fadeout 3
-    play music "music/v12/Track Scene 27_3.mp3" fadein 2
+# game/v12/scene27a.rpy:274
+translate francais v12s27a_29113754:
 
-    scene v12s27a_5a # same as 5, mouth closed
-    with dissolve
+    # ry "*Sighs* Okay..."
+    ry "*Soupirs* Ok..."
 
-    u "Hello, hello!"
+# game/v12/scene27a.rpy:289
+translate francais v12s27a_ccaee09c:
 
-    scene v12s27a_5
-    with dissolve
+    # barber "Bonjour!"
+    barber "*En français* Bonjour !"
 
-    barber "Ah, English... What can I do for you?"
+# game/v12/scene27a.rpy:297
+translate francais v12s27a_83047bfc:
 
-    scene v12s27a_6 #FPP shows Ryan, looking at barber (barber is off-screen), nervous, mouth open
-    with dissolve
+    # u "Hello, hello!"
+    u "Salut, salut !"
 
-    ry "I uhh... I want to dye my hair black."
+# game/v12/scene27a.rpy:302
+translate francais v12s27a_25a11f00:
 
-    scene v12s27a_5b # same as 5, barber looking at Ryan (Ryan off-screen), curious, mouth open
-    with dissolve
+    # barber "Ah, English... What can I do for you?"
+    barber "Ah, en anglais... Que puis-je faire pour vous ?"
 
-    barber "Oh boy... I sense your hesitation, my friend. Who is forcing you to do this?"
+# game/v12/scene27a.rpy:307
+translate francais v12s27a_1b9188be:
 
-    scene v12s27a_5c # same 5b, mouth closed
-    with dissolve
+    # ry "I uhh... I want to dye my hair black."
+    ry "Je, euh... je veux me teindre les cheveux en noir."
 
-    u "He chose this path on his own. *Chuckles*"
+# game/v12/scene27a.rpy:312
+translate francais v12s27a_c55ef6d5:
 
-    scene v12s27a_6
-    with dissolve
+    # barber "Oh boy... I sense your hesitation, my friend. Who is forcing you to do this?"
+    barber "Oh là là... Je sens votre hésitation, jeune homme. Qui vous force à faire ça ?"
 
-    ry "I kinda backed myself into a corner and... Well, here I am."
+# game/v12/scene27a.rpy:317
+translate francais v12s27a_b1eeb88c:
 
-    scene v12s27a_5b
-    with dissolve
+    # u "He chose this path on his own. *Chuckles*"
+    u "Il a choisi cette voie tout seul. *Rire*"
 
-    barber "I've seen this many times before, you know? The tourist buddies are interested in making their time in Paris a memory they'll never forget."
-    
-    barber "So, they do something drastic. Let me guess, you made a bet?"
+# game/v12/scene27a.rpy:322
+translate francais v12s27a_0e323478:
 
-    scene v12s27a_6
-    with dissolve
+    # ry "I kinda backed myself into a corner and... Well, here I am."
+    ry "Je me suis un peu mis dos au mur et... Eh bien, je suis là."
 
-    ry "Yeah... How'd you know?"
+# game/v12/scene27a.rpy:327
+translate francais v12s27a_85bcb99b:
 
-    scene v12s27a_5b
-    with dissolve
+    # barber "I've seen this many times before, you know? The tourist buddies are interested in making their time in Paris a memory they'll never forget."
+    barber "J'ai déjà vu ça plusieurs fois, vous savez ? Les potes touristes veulent faire de leur séjour à Paris un souvenir qu'ils n'oublieront jamais."
 
-    barber "As I said, my boy, I've seen this before. I assume you won't be backing out?"
+# game/v12/scene27a.rpy:329
+translate francais v12s27a_545088b5:
 
-    scene v12s27a_6b # same as 6, ryan determined expression, mouth open
-    with dissolve
+    # barber "So, they do something drastic. Let me guess, you made a bet?"
+    barber "Donc, ils font quelque chose de spécial. Laissez-moi deviner, vous avez fait un pari ?"
 
-    ry "An Ape doesn't back down."
+# game/v12/scene27a.rpy:334
+translate francais v12s27a_19648bbb:
 
-    scene v12s27a_5b
-    with dissolve
+    # ry "Yeah... How'd you know?"
+    ry "Oui... Comment le savez-vous ?"
 
-    barber "I... I don't know why you're bringing up apes, but... Please, sit down while I work wonders."
+# game/v12/scene27a.rpy:339
+translate francais v12s27a_175e3710:
 
-    scene v12s27a_7 #shows clock on barber wall: 4 pm
-    with fade
+    # barber "As I said, my boy, I've seen this before. I assume you won't be backing out?"
+    barber "Comme je l'ai dit, mon garçon, j'ai déjà vu ça avant. Je présume que vous ne reculerez pas ?"
 
-    ry "WOAH! Hey man, not a cut! Just the dye, bro!"
+# game/v12/scene27a.rpy:344
+translate francais v12s27a_533e748e:
 
-    barber "You have long hair, man friend. I need clear separation. Let me grab the dye real quick."
+    # ry "An Ape doesn't back down."
+    ry "Un Ape ne recule pas."
 
-    scene v12s27a_7a #shows clock on barber wall: 4:15 pm
-    with dissolve
+# game/v12/scene27a.rpy:349
+translate francais v12s27a_7eb5eae6:
 
-    ry "Oh god, what is happening???"
+    # barber "I... I don't know why you're bringing up apes, but... Please, sit down while I work wonders."
+    barber "Je... Je ne sais pas pourquoi vous parlez de singes, mais... S'il vous plaît, asseyez-vous pendant que je fais des merveilles."
 
-    scene v12s27a_7b #shows clock on barber wall: 4:30 pm
-    with dissolve
-    
-    barber "The color is really setting in now!"
+# game/v12/scene27a.rpy:354
+translate francais v12s27a_7cb9041d:
 
-    scene v12s27a_7c #shows clock on barber wall: 4:45 pm
-    with dissolve
+    # ry "WOAH! Hey man, not a cut! Just the dye, bro!"
+    ry "WOAH ! Hey mec, pas de coupe ! Juste la teinture, mon frère !"
 
-    barber "Aaaand... done!"
+# game/v12/scene27a.rpy:356
+translate francais v12s27a_49a1ddc5:
 
-    scene v12s27a_8a #FPP, shows Ryan, now with black hair and new haircut, sitting in barber chair, looking at mc, unhappy, questioning expression, mouth closed
-    with fade
+    # barber "You have long hair, man friend. I need clear separation. Let me grab the dye real quick."
+    barber "Vous avez les cheveux longs, jeune homme. J'ai besoin d'une séparation nette. Afin que la teinture puisse prendre rapidement."
 
-    pause 0.7
+# game/v12/scene27a.rpy:361
+translate francais v12s27a_8b5fe19e:
 
-    u "Wowww!!! It's... Different. *Chuckles*"
+    # ry "Oh god, what is happening???"
+    ry "Oh merde, qu'est-ce qui se passe ?"
 
-    u "Let me just take some pictures for Kiwii..."
+# game/v12/scene27a.rpy:366
+translate francais v12s27a_0a1f029a:
 
-    $ v12s27a_kiwiiPost1 = KiwiiPost(mc, "v12/roastedape.webp", _("#RoastedApe"), numberLikes=469)
-    $ v12s27a_kiwiiPost1.newComment(imre, "Holy shit... You make it way too easy, Ryan!", mentions=[ryan], numberLikes=renpy.random.randint(250,350), force_send=True)
-    $ v12s27a_kiwiiPost1.newComment(amber, "Haha, yes! That's what you get, moron...", mentions=[ryan], numberLikes=renpy.random.randint(250,400), force_send=True)
-   
-### ERROR: KiwiiPost(mc, "Ryan sitting in chair at salon not facing the mirror with black hair", "#RoastedApe", numberLikes=469)
-### ERROR: kiwiiPost.newComment(imre, "Holy shit... You make it way to easy, Ryan!", mentions=[ryan])
-### ERROR: kiwiiPost.newComment(amber, "Haha, yes! That's what you get, moron...”, mentions=[ryan])
-### ERROR: kiwiiPost.addReply("Haha, an Ape doesn't back down!")### ERROR: kiwiiPost.addReply("Aw, come on guys! It doesn't look... that bad... Lmao")
-  
-    scene v12s27a_8b # same as 8a, ryan mouth open, outraged, hiding his face behind his hands
-    with dissolve
+    # barber "The color is really setting in now!"
+    barber "La couleur est maintenant bien établie !"
 
-    ry "Bro, don't take pictures! I don't even know if I like it yet."
+# game/v12/scene27a.rpy:371
+translate francais v12s27a_bd17a259:
 
-    scene v12s27a_8c # same as 8b, ryan mouth closed
-    with dissolve
+    # barber "Aaaand... done!"
+    barber "Eeeeet... c'est fait !"
 
-    u "Haha, this is going on Kiwii regardless, my dude."
+# game/v12/scene27a.rpy:378
+translate francais v12s27a_38734d17:
 
-    scene v12s27a_8 # same as 8a, mouth open
-    with dissolve
+    # u "Wowww!!! It's... Different. *Chuckles*"
+    u "Wowww ! !! C'est... Différent. *Rire*"
 
-    ry "Does my hair look good man? Be honest."
+# game/v12/scene27a.rpy:380
+translate francais v12s27a_8fcf7d06:
 
-    scene v12s27a_8a
-    with dissolve
+    # u "Let me just take some pictures for Kiwii..."
+    u "Laisse-moi juste prendre quelques photos pour Kiwii..."
 
-    menu:
-        "It's not a bad look":
-            $ add_point(KCT.BRO)
-            u "Honestly Ryan, it's not a bad look. It's actually pretty cool."
+# game/v12/scene27a.rpy:394
+translate francais v12s27a_e84553eb:
 
-            scene v12s27a_8
-            with dissolve
+    # ry "Bro, don't take pictures! I don't even know if I like it yet."
+    ry "Mec, ne prends pas de photos ! Je ne sais même pas si je l'aime encore."
 
-            ry "*Sighs* I hope you're not just saying that..."
+# game/v12/scene27a.rpy:399
+translate francais v12s27a_5c7eded5:
 
-        "It's not your best look":
-            $ add_point(KCT.TROUBLEMAKER)
+    # u "Haha, this is going on Kiwii regardless, my dude."
+    u "Haha, ça va sur Kiwii de toute façon, mon pote."
 
-            scene v12s27a_8a
-            #with dissolve
+# game/v12/scene27a.rpy:404
+translate francais v12s27a_6431fb4d:
 
-            u "Well, honestly... It's not your best look, in my opinion."
+    # ry "Does my hair look good man? Be honest."
+    ry "Mes cheveux sont bien ? Sois honnête."
 
-            scene v12s27a_8
-            with dissolve
+# game/v12/scene27a.rpy:412
+translate francais v12s27a_07ff5e69:
 
-            ry "*Sighs* Wow, thanks for the moral support, [name]. I feel great about it now..."
+    # u "Honestly Ryan, it's not a bad look. It's actually pretty cool."
+    u "Franchement Ryan, ce n'est pas un mauvais look. C'est même plutôt cool."
 
-    scene v12s27a_9 #fpp, showing close up barber talking to Ryan (ryan is off-screen still in the barber chair), polite smile, mouth open
-    with dissolve
+# game/v12/scene27a.rpy:417
+translate francais v12s27a_8144c4e1:
 
-    barber "If I may, just know that I've done plenty of styles under these circumstances."
+    # ry "*Sighs* I hope you're not just saying that..."
+    ry "*Soupirs* J'espère que tu n'es pas en train de dire ça..."
 
-    barber "Many, many times and mostly it's never done well. However... I feel this suits you."
+# game/v12/scene27a.rpy:422
+translate francais v12s27a_d27e5dd4:
 
-    scene v12s27a_8d # same as 8, Ryan looking at barber (barber off-screen), mouth open, neutral expression 
-    with dissolve
+    # u "Well, honestly... It's not your best look, in my opinion."
+    u "Eh bien, franchement... Ce n'est pas ton meilleur look, à mon avis."
 
-    ry "*Sighs* Everyone's gonna have a different opinion... Guess I'm just gonna have to get used to it."
+# game/v12/scene27a.rpy:427
+translate francais v12s27a_d34245b5:
 
-    ry "How much do I owe you?"
+    # ry "*Sighs* Wow, thanks for the moral support, [name]. I feel great about it now..."
+    ry "*Soupirs* Wow, merci pour le soutien moral, [name]. Je me sens tellement bien maintenant..."
 
-    scene v12s27a_9
-    with dissolve
+# game/v12/scene27a.rpy:432
+translate francais v12s27a_8f2ddc90:
 
-    barber "A man should never pay for a cut he didn't desire, this one is on the house."
+    # barber "If I may, just know that I've done plenty of styles under these circumstances."
+    barber "Si je peux me permettre, sachez que j'ai fait beaucoup de coiffures de ce genre."
 
-    scene v12s27a_9a # same as 9, mouth closed
-    with dissolve
+# game/v12/scene27a.rpy:434
+translate francais v12s27a_407f9807:
 
-    u "Look at that! Good karma for being a good sport..."
+    # barber "Many, many times and mostly it's never done well. However... I feel this suits you."
+    barber "De très nombreuses fois et la plupart du temps, ce n'est jamais bien fait. Toutefois... Je trouve que ça vous va bien."
 
-    scene v12s27a_8d
-    with dissolve
+# game/v12/scene27a.rpy:439
+translate francais v12s27a_2ab52935:
 
-    ry "Thank you, sir."
+    # ry "*Sighs* Everyone's gonna have a different opinion... Guess I'm just gonna have to get used to it."
+    ry "*Soupirs* Tout le monde aura un avis différent... Je pense que je vais devoir m'y habituer."
 
-    scene v12s27a_8f # same as 8d, Ryan looking at mc, neutral expression, mouth open
-    with dissolve
+# game/v12/scene27a.rpy:441
+translate francais v12s27a_351264f7:
 
-    ry "Let's get back, [name]."
+    # ry "How much do I owe you?"
+    ry "Combien je vous dois ?"
 
-    scene v12s27a_10 #TPP, show mc and ryan leaving the barber shop, mc smiling,ryan neutral
-    with dissolve
+# game/v12/scene27a.rpy:446
+translate francais v12s27a_660bc645:
 
-    pause 0.7
+    # barber "A man should never pay for a cut he didn't desire, this one is on the house."
+    barber "Un homme ne devrait jamais payer pour une coupe qu'il n'a pas désirée, celle-ci est offerte par la maison."
 
-    scene v12s27a_11 # TPP show mc and ryan walking back to the hotel lobby
-    with fade
+# game/v12/scene27a.rpy:451
+translate francais v12s27a_03e770de:
 
-    pause 0.7
+    # u "Look at that! Good karma for being a good sport..."
+    u "regarde ça ! Bon karma pour avoir été un bon perdant..."
 
-    # -Kiwii comments can NOW be added to the Ryan post. They need to be added now instead of earlier, for realism please. “#RoastedApe” comment from Chris, Nora, wolves members
+# game/v12/scene27a.rpy:456
+translate francais v12s27a_bc1ee255:
 
-    scene v12s27a_11a # TPP show mc and ryan in the hotel lobby, ryan looking at his phone annoyed
-    with fade
+    # ry "Thank you, sir."
+    ry "Merci beaucoup, monsieur."
 
-    ry "Oh man, everyone on Kiwii keeps commenting \"#RoastedApe\"."
+# game/v12/scene27a.rpy:461
+translate francais v12s27a_bef123e7:
 
-    stop music fadeout 3
-    play music "music/v12/Track Scene 27a_3.mp3" fadein 2
+    # ry "Let's get back, [name]."
+    ry "Rentrons, [name]."
 
-    scene v12s27a_12a # FPP show Ryan looking at mc, annoyed, mouth closed
-    with dissolve
+# game/v12/scene27a.rpy:478
+translate francais v12s27a_4c5cd5bc:
 
-    u "Hey, you kinda did this to yourself. *Laughs*"
+    # ry "Oh man, everyone on Kiwii keeps commenting \"#RoastedApe\"."
+    ry "Oh mec, il y a tellement de monde sur Kiwii qui commente \"#RoastedApe\"."
 
-    scene v12s27a_12 # FPP same as 12a, mouth open
-    with dissolve
+# game/v12/scene27a.rpy:486
+translate francais v12s27a_64d86779:
 
-    ry "Yeah... Doesn't feel like it. Later, man."
+    # u "Hey, you kinda did this to yourself. *Laughs*"
+    u "Hé, tu t'es un peu infligé ça tout seul. *Rire*"
 
-    scene v12s27a_12a
-    with dissolve
+# game/v12/scene27a.rpy:491
+translate francais v12s27a_e7846ae1:
 
-    u "Haha, later."
+    # ry "Yeah... Doesn't feel like it. Later, man."
+    ry "Ouais... On dirait bien. A plus tard, mec."
 
-    stop music fadeout 3
+# game/v12/scene27a.rpy:496
+translate francais v12s27a_d0aa355a:
 
-    jump v12_riley_lobby #scene 28
+    # u "Haha, later."
+    u "Haha, à plus tard."
+
+translate francais strings:
+
+    # game/v12/scene27a.rpy:382
+    old "#RoastedApe"
+    new "#ApeRôti"
+
+    # game/v12/scene27a.rpy:409
+    old "It's not a bad look"
+    new "Ce n'est pas un mauvais look"
+
+    # game/v12/scene27a.rpy:409
+    old "It's not your best look"
+    new "Ce n'est pas ton meilleur look"

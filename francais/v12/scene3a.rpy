@@ -1,231 +1,215 @@
-# SCENE 3a: Penelope calls MC
-# Location: Hotel room
-# Characters: MC (Outfit 3), Penelope (Outfit 1)
-# Time: Night
+﻿# TODO: Translation updated at 2021-12-16 20:35
 
-label v12_penelope_call:
-    scene v12pec1 # TPP. Show MC sitting on the foot of his bed, slight smile, mouth closed
-    with fade
+# game/v12/scene3a.rpy:24
+translate francais v12_penelope_call_8ac7517f:
 
-    pause 0.75
+    # u "(It's Penelope.)"
+    u "(C'est Pénélope.)"
 
-    play music "music/v12/Track Scene 3a.mp3" fadein 2
-    
-    play sound "sounds/call.mp3"
+# game/v12/scene3a.rpy:41
+translate francais v12_penelope_call_fcfea652:
 
-    scene v12pec1a # TPP. Same as v11pec1, MC slightly startled, mouth closed
-    with dissolve
+    # u "Hello?"
+    u "Allo ?"
 
-    pause 0.75
+# game/v12/scene3a.rpy:46
+translate francais v12_penelope_call_ceb28167:
 
-    scene v12pec2 # FPP. Same position as v12pec1, MC looking down at his phone (Penelope caller ID)
-    with dissolve
+    # pe "Hey, hey! I didn't wake you, did I?"
+    pe "Hey, hey ! Je ne t'ai pas réveillé, n'est-ce pas ?"
 
-    u "(It's Penelope.)"
+# game/v12/scene3a.rpy:51
+translate francais v12_penelope_call_9bc3e595:
 
-    menu:
-        "Answer":
-            $ add_point(KCT.BOYFRIEND)
+    # u "Nope. I'm wide awake, what's up?"
+    u "Non. Je suis bien réveillé, qu'est-ce qui se passe ?"
 
-            scene v12pec2b # FPP. Same as v11pec2, show MC clicking to accept the call
-            with dissolve
+# game/v12/scene3a.rpy:56
+translate francais v12_penelope_call_10484c3b:
 
-            stop sound
-            play sound "sounds/answercall.mp3"
+    # pe "Oh, nothing really. I won't go into details, but all the money I owe the school is being handled. I met a good guy that's really helping me out."
+    pe "Oh, rien en fait. Je n'entrerai pas dans les détails, mais on gère l'argent que je dois à l'école. J'ai eu un bon contact qui m'aide vraiment."
 
-            pause 0.75
+# game/v12/scene3a.rpy:61
+translate francais v12_penelope_call_b28c587b:
 
-            scene v12pec1b # TPP. Same as v12pec1, show MC talking on the phone, mouth open, slight smile
-            with dissolve
+    # u "A \"good guy\" is helping out... Interesting."
+    u "Un \"bon contact\" te donne un coup de main... Intéressant."
 
-            u "Hello?"
+# game/v12/scene3a.rpy:66
+translate francais v12_penelope_call_7fc65c7f:
 
-            scene v12pec3 # TPP. Show Penelope talking on a phone in the campus, slightly worried, mouth open
-            with dissolve
+    # pe "*Laughs* From an actual loan place, [name]. I met him through Lindsey, actually."
+    pe "*Rire* D'un vrai organisme de prêt, [name]. Je l'ai rencontré par Lindsey, en fait."
 
-            pe "Hey, hey! I didn't wake you, did I?"
+# game/v12/scene3a.rpy:71
+translate francais v12_penelope_call_211c77f7:
 
-            scene v12pec3a # TPP. Same as v12pec3, Penelope slight smile, mouth closed
-            with dissolve
+    # u "*Chuckles* Wow, that's really great to hear. I'm really happy that it's all finally over, for both of us."
+    u "*Rires* Wow, c'est vraiment génial à entendre. Je suis vraiment heureux que tout soit enfin terminé."
 
-            u "Nope. I'm wide awake, what's up?"
+# game/v12/scene3a.rpy:76
+translate francais v12_penelope_call_9ab769be:
 
-            scene v12pec3b # TPP. Same as v12pec3a, Penelope slight smile, mouth open
-            with dissolve
+    # pe "Me too. So what's up with you? How's Europe, anything exciting?"
+    pe "Moi aussi. Alors, quoi de neuf pour toi ? Comment va ton séjour, quelque chose d'excitant ?"
 
-            pe "Oh, nothing really. I won't go into details, but all the money I owe the school is being handled. I met a good guy that's really helping me out."
+# game/v12/scene3a.rpy:81
+translate francais v12_penelope_call_564d0b49:
 
-            scene v12pec3a
-            with dissolve
+    # u "Is watching someone get robbed considered exciting?"
+    u "Est-ce que regarder quelqu'un se faire voler est considéré comme excitant ?"
 
-            u "A \"good guy\" is helping out... Interesting."
+# game/v12/scene3a.rpy:86
+translate francais v12_penelope_call_e6464689:
 
-            scene v12pec3b
-            with dissolve
+    # pe "WHAT!? Who got robbed? It wasn't one of you guys was it?"
+    pe "QUOI ! ? Qui a été volé ? Ce n'était pas un de vous, n'est-ce pas ?"
 
-            pe "*Laughs* From an actual loan place, [name]. I met him through Lindsey, actually."
+# game/v12/scene3a.rpy:91
+translate francais v12_penelope_call_cb9e8853:
 
-            scene v12pec3c # TPP. Same as v12pec3a, different pose
-            with dissolve
+    # u "It was actually Nora, and it happened in front of everyone."
+    u "C'était en fait Nora, et c'est arrivé devant tout le monde."
 
-            u "*Chuckles* Wow, that's really great to hear. I'm really happy that it's all finally over, for both of us."
+# game/v12/scene3a.rpy:102
+translate francais v12_penelope_call_db227efd:
 
-            scene v12pec3d # TPP. Same as v12pec3c, Penelope slight smile, mouth open
-            with dissolve
+    # u "I had a little scuffle with the guy, but everyone is doing fine."
+    u "J'ai eu une petite bagarre avec le mec, mais tout le monde va bien."
 
-            pe "Me too. So what's up with you? How's Europe, anything exciting?"
+# game/v12/scene3a.rpy:107
+translate francais v12_penelope_call_0951aa80:
 
-            scene v12pec3e # TPP. Same as v12pec3, Penelope very worried, mouth closed
-            with dissolve
+    # pe "YOU WHAT?!"
+    pe "TU QUOI ?!"
 
-            u "Is watching someone get robbed considered exciting?"
+# game/v12/scene3a.rpy:112
+translate francais v12_penelope_call_7eefa9d3:
 
-            scene v12pec3f # TPP. Same as v12pec3e, Penelope very worried, mouth open
-            with dissolve
+    # u "*Chuckles* Trust me, it's not bad at all. I'm perfectly fine and just laying here relaxing in my room. It feels good knowing you care so much though."
+    u "*Rire* Crois-moi, c'est pas grave du tout. Je vais parfaitement bien et je me détends dans ma chambre. Ça fait du bien de savoir que tu te soucies autant de moi."
 
-            pe "WHAT!? Who got robbed? It wasn't one of you guys was it?"
+# game/v12/scene3a.rpy:118
+translate francais v12_penelope_call_8bade814:
 
-            scene v12pec3e
-            with dissolve
+    # u "He got what he deserved though, Amber didn't respond too well to what he did."
+    u "Il a eu ce qu'il méritait, Amber n'a pas très bien supporté ce qu'il a fait."
 
-            u "It was actually Nora, and it happened in front of everyone."
+# game/v12/scene3a.rpy:123
+translate francais v12_penelope_call_5a24d6b2:
 
-            scene v12pec3f
-            with dissolve
+    # pe "Is she okay?"
+    pe "Elle va bien ?"
 
-            pause 0.75
+# game/v12/scene3a.rpy:128
+translate francais v12_penelope_call_272487e0:
 
-            if v12_chase_robber:
-                scene v12pec3e
-                with dissolve
+    # u "It's Amber... Do you really have to ask? *Chuckles* We're all fine, even Nora. It feels good knowing you care so much though."
+    u "C'est Amber... Tu as vraiment besoin de demander ? *Rire* On va tous bien, même Nora. Ça fait du bien de savoir que tu te soucies autant d'elle."
 
-                u "I had a little scuffle with the guy, but everyone is doing fine."
+# game/v12/scene3a.rpy:133
+translate francais v12_penelope_call_d72d9216:
 
-                scene v12pec3f
-                with dissolve
+    # pe "Of course I care, it almost makes me wish I was there to look out for you guys."
+    pe "Bien sûr que ça m'intéresse, ça me fait presque souhaiter d'être là pour veiller sur vous tous."
 
-                pe "YOU WHAT?!"
+# game/v12/scene3a.rpy:138
+translate francais v12_penelope_call_8e9a53ce:
 
-                scene v12pec3e
-                with dissolve
+    # u "Last time you were looking out for people it got you in trouble."
+    u "La dernière fois que tu t'es occupée des autres, tu as eu des problèmes."
 
-                u "*Chuckles* Trust me, it's not bad at all. I'm perfectly fine and just laying here relaxing in my room. It feels good knowing you care so much though."
+# game/v12/scene3a.rpy:143
+translate francais v12_penelope_call_8423ea58:
 
-            else:
-                scene v12pec3e
-                with dissolve
+    # pe "And? I'd do it again."
+    pe "Et ? Je le referais sans hésiter."
 
-                u "He got what he deserved though, Amber didn't respond too well to what he did."
+# game/v12/scene3a.rpy:148
+translate francais v12_penelope_call_4e622ff8:
 
-                scene v12pec3f
-                with dissolve
+    # u "How noble? *Chuckles*"
+    u "Quelle noblesse d'âme ! *Rire*"
 
-                pe "Is she okay?"
+# game/v12/scene3a.rpy:153
+translate francais v12_penelope_call_b114733d:
 
-                scene v12pec3e
-                with dissolve
+    # unknown "Young lady, international calls are not allowed on campus phones."
+    unknown "Jeune fille, les appels internationaux ne sont pas autorisés sur les téléphones du campus."
 
-                u "It's Amber... Do you really have to ask? *Chuckles* We're all fine, even Nora. It feels good knowing you care so much though."
+# game/v12/scene3a.rpy:158
+translate francais v12_penelope_call_d290346d:
 
-            scene v12pec3g # TPP. Same as v12pec3, Penelope slightly sad, mouth open, different pose
-            with dissolve
+    # u "*Laughs* Who's that?"
+    u "*Rire* Qui c'est ?"
 
-            pe "Of course I care, it almost makes me wish I was there to look out for you guys."
+# game/v12/scene3a.rpy:163
+translate francais v12_penelope_call_20dceb05:
 
-            scene v12pec3h # TPP. Same as v12pec3g, Penelope slightly sad, mouth closed
-            with dissolve
+    # pe "Umm, sorry [name]. I gotta go. It was really nice to hear from you."
+    pe "Hum, désolée [name]. Je dois y aller. C'était vraiment agréable d'avoir de tes nouvelles."
 
-            u "Last time you were looking out for people it got you in trouble."
+# game/v12/scene3a.rpy:168
+translate francais v12_penelope_call_66fbfd5b:
 
-            scene v12pec3g
-            with dissolve
+    # u "Hey, wait!"
+    u "Hé, attends !"
 
-            pe "And? I'd do it again."
+# game/v12/scene3a.rpy:173
+translate francais v12_penelope_call_1e63163a:
 
-            scene v12pec3h
-            with dissolve
+    # pe "Yeah?"
+    pe "Ouais ?"
 
-            u "How noble? *Chuckles*"
+# game/v12/scene3a.rpy:181
+translate francais v12_penelope_call_7beaed05:
 
-            scene v12pec3i # TPP. Same as v12pec3, Penelope slightly sad, looking towards the end of the corridor, mouth closed
-            with dissolve
+    # u "Oh uhm, never mind... Sorry. Talk to you later."
+    u "Oh euh, ça ne fait rien... Désolé. On se parle plus tard."
 
-            unknown "Young lady, international calls are not allowed on campus phones."
+# game/v12/scene3a.rpy:186
+translate francais v12_penelope_call_44aeeaec:
 
-            scene v12pec3h
-            with dissolve
+    # pe "*Chuckles* Alrighty, bye."
+    pe "*Rire* Très bien, au revoir."
 
-            u "*Laughs* Who's that?"
+# game/v12/scene3a.rpy:195
+translate francais v12_penelope_call_1ab85b71:
 
-            scene v12pec3g
-            with dissolve
+    # u "I just wanted to say I really miss you. It's weird being all the way across the world and not being able to see you, or even talk to you every day."
+    u "Je voulais juste te dire que tu me manques vraiment. C'est bizarre d'être à l'autre bout du monde et de ne pas pouvoir te voir, ou même te parler tous les jours."
 
-            pe "Umm, sorry [name]. I gotta go. It was really nice to hear from you."
+# game/v12/scene3a.rpy:200
+translate francais v12_penelope_call_4a015b36:
 
-            scene v12pec3h
-            with dissolve
+        # pe "Aww... That was way too sweet, [name]. *Chuckles* I miss you too. Hurry back, okay?"
+    pe "Aww... Tu es bien trop gentil, [name]. *Rire* Tu me manques aussi. Reviens vite, ok ?"
 
-            u "Hey, wait!"
+# game/v12/scene3a.rpy:205
+translate francais v12_penelope_call_b261385f:
 
-            scene v12pec3g
-            with dissolve
+    # u "Haha, I will. Bye."
+    u "Haha, je le ferai. Au revoir."
 
-            pe "Yeah?"
+# game/v12/scene3a.rpy:210
+translate francais v12_penelope_call_25a27f21:
 
-            menu:
-                "Never mind":
-                    $ add_point(KCT.BRO)
-                    scene v12pec3c
-                    with dissolve
+    # pe "Bye."
+    pe "Au revoir."
 
-                    u "Oh uhm, never mind... Sorry. Talk to you later."
+# game/v12/scene3a.rpy:229
+translate francais v12_penelope_call_c83ffcc1:
 
-                    scene v12pec3d
-                    with dissolve
+    # u "(If it's serious she'll call again or leave a message.)"
+    u "(Si c'est sérieux, elle rappellera ou laissera un message)."
 
-                    pe "*Chuckles* Alrighty, bye."
+translate francais strings:
 
-                "I miss you":
-                    $ add_point(KCT.BOYFRIEND)
-                    $ penelope.points += 1
+    # game/v12/scene3a.rpy:175
+    old "Never mind"
+    new "Ne t'en fais pas"
 
-                    scene v12pec3c
-                    with dissolve
-
-                    u "I just wanted to say I really miss you. It's weird being all the way across the world and not being able to see you, or even talk to you every day."
-
-                    scene v12pec3d
-                    with dissolve
-
-                    pe "Aww... That was way too sweet, [name]. *Chuckles* I miss you too. Hurry back, okay?"
-
-                    scene v12pec3a
-                    with dissolve
-
-                    u "Haha, I will. Bye."
-
-                    scene v12pec3b
-                    with dissolve
-
-                    pe "Bye."
-
-            scene v12pec2c # FPP. Same as v12pec2a, show MC clicking to end the call
-            with dissolve
-
-            play sound "sounds/rejectcall.mp3"
-            pause 0.75
-            stop music fadeout 3
-
-            jump v12_roomate_talk #scene 4
-            
-        "Don't answer":
-            $ add_point(KCT.BRO)
-            scene v12pec2a # FPP. Same as v12pec2, show MC clicking to reject the call
-            with dissolve
-
-            stop sound
-            play sound "sounds/rejectcall.mp3"
-
-            u "(If it's serious she'll call again or leave a message.)"
-
-            jump v12_roomate_talk
+    # game/v12/scene3a.rpy:175
+    old "I miss you"
+    new "Tu me manques"

@@ -1,332 +1,299 @@
-# SCENE 1: Nora getting robbed (if he goes to nora)
-# Location: Sidewalk from scene 47 (v11)
-# Characters: MC (Outfit 3), Nora (Outfit 2), Chris (Outfit 1), Amber (Outfit 2), Lindsey (Outfit 1), Ms. Rose (Outfit 1), Imre (Outfit 1), Ryan (Outfit 1), Penelope (Outfit 1), Charli (Outfit 1), 
-# Time: Night
+﻿# TODO: Translation updated at 2021-12-16 03:22
 
-label v12_start:
+# game/v12/scene1.rpy:31
+translate francais v12_nora_robbed_4db69537:
 
-label v12_nora_robbed:
-    scene v12nrb1 # FPP. MC is looking at nora who is in shock as a robber snags her bag
-    with fade
+    # u "Nora! Are you hurt? What just happened?!"
+    u "Nora ! Es-tu blessée ? Qu'est-ce qu'il vient de se passer ?!"
 
-    pause 1
+# game/v12/scene1.rpy:36
+translate francais v12_nora_robbed_34d67a72:
 
-    play music "music/v12/Track Scene 1_1.mp3" fadein 2
+    # no "My bag! They have my bag! It has all of my-"
+    no "Mon sac ! Il a mon sac ! Il contient tout ce que je..."
 
-    scene v12nrb1a # FPP. The robber is now running away, nora is on the floor
-    with dissolve
-    
-    menu:
-        "Go to Nora":
-            $ add_point(KCT.BOYFRIEND)
-            
-            scene v12nrb2 # TPP. MC runs to nora, Nora shocked, MC worries, mouths closed
-            with dissolve
-            
-            pause 0.75
+# game/v12/scene1.rpy:41
+translate francais v12_nora_robbed_baf209ef:
 
-            scene v12nrb3 # FPP. MC helps Nora up, Nora shocked, mouth closed
-            with dissolve
+    # ch "Nora, baby... Are you good? Did they hurt you?"
+    ch "Nora, bébé... Tu vas bien ? Il t'a fait du mal ?"
 
-            u "Nora! Are you hurt? What just happened?!"
+# game/v12/scene1.rpy:46
+translate francais v12_nora_robbed_25b16816:
 
-            scene v12nrb3a # FPP. Nora in shock, mouth opened
-            with dissolve
+    # no "I'm fine, Chris. Did Sebastian give you permission to check on me or something?"
+    no "Je vais bien, Chris. Est-ce que Sebastian t'a donné la permission de me voir ou quoi que ce soit ?"
 
-            no "My bag! They have my bag! It has all of my-"
+# game/v12/scene1.rpy:51
+translate francais v12_nora_robbed_af864424:
 
-            scene v12nrb72 # FPP. Same positioning as v12nrb3, Chris arrives with his phone on his hand, looking at Nora, Chris worried, mouth open, Nora mad, mouth closed, looking at Chris
-            with dissolve
+    # ch "Nora, please..."
+    ch "Nora, s'il te plaît..."
 
-            ch "Nora, baby... Are you good? Did they hurt you?"
+# game/v12/scene1.rpy:56
+translate francais v12_nora_robbed_af76003c:
 
-            scene v12nrb3b # FPP. Same as v12nrb3b, Nora looks mad, mouth opened, Chris mouth closed, worried
-            with dissolve
+    # li "Oh my gosh, Nora! Please tell me you're alright... He didn't hurt you, did he?"
+    li "Oh mon Dieu, Nora ! S'il te plaît, dis-moi que tu vas bien... Il ne t'a pas fait de mal, n'est-ce pas ?"
 
-            no "I'm fine, Chris. Did Sebastian give you permission to check on me or something?"
+# game/v12/scene1.rpy:61
+translate francais v12_nora_robbed_3e0eb45e:
 
-            scene v12nrb72
-            with dissolve
+    # no "No guys, I'm fine... Really. I just had something important in my bag and I can't believe it's just gone..."
+    no "Non, je vais bien... Vraiment. J'avais juste quelque chose d'important dans mon sac et je n'arrive pas à croire que ça ait disparu..."
 
-            ch "Nora, please..."
+# game/v12/scene1.rpy:71
+translate francais v12_nora_robbed_4e42f73e:
 
-            scene v12nrb73 # FPP. Same positioning as v12nrb3b, but Chloe, Aubrey, and Lindsey now surround Nora (Nora out of shot), looking at Nora's direction, all looking worried, lindsey's mouth opened, the rest mouths closed
-            with dissolve
+    # ro "Oh my gosh, you scared the life out of me."
+    ro "Oh là là, tu m'as fait mourir de peur."
 
-            li "Oh my gosh, Nora! Please tell me you're alright... He didn't hurt you, did he?"
+# game/v12/scene1.rpy:76
+translate francais v12_nora_robbed_95231243:
 
-            scene v12nrb3c # FPP. Same as v12nrbd3, Nora looking at Lindsey (same positioning as v12nrb73), Nora annoyed, mouth open
-            with dissolve
+    # no "Mo-Ms. Rose, please. I'm fine... Really."
+    no "Mam-Mme Rose, s'il vous plaît. Je vais bien... Vraiment."
 
-            no "No guys, I'm fine... Really. I just had something important in my bag and I can't believe it's just gone..."
+# game/v12/scene1.rpy:81
+translate francais v12_nora_robbed_fca10fac:
 
-            scene v12nrb74 # FPP. Same positioning as v12nrb73, Ms. Rose moving Lindsey and Aubrey apart to make room, Lindsey and Aubrey worried, mouths closed, Ms. Rose very worried, mouth closed
-            with dissolve
+    # u "(Did she almost say 'Mom'?)"
+    u "(A-t-elle presque dit \"maman\" ?)"
 
-            pause 0.75
+# game/v12/scene1.rpy:86
+translate francais v12_nora_robbed_8dd125c6:
 
-            scene v12nrb3d # FPP. Ms Rose hugs nora tight, Ms. Rose back to the camera, Nora worried, mouth closed
-            with dissolve
+    # imre "I'll get your bag back as soon as I find that fucker."
+    imre "J'récupérerai ton sac dès que j'aurai trouvé cet enfoiré."
 
-            ro "Oh my gosh, you scared the life out of me."
+# game/v12/scene1.rpy:91
+translate francais v12_nora_robbed_68962583:
 
-            scene v12nrb3e # FPP. Same as v12nrb3d, Nora worried, mouth open
-            with dissolve
+    # ro "No, Imre. You won't be doing that. Losing a bag is bad enough, I won't be losing a student."
+    ro "Non, Imre. Ne faites pas ça. Perdre un sac est déjà assez grave, je ne veux pas perdre un étudiant."
 
-            no "Mo-Ms. Rose, please. I'm fine... Really."
+# game/v12/scene1.rpy:96
+translate francais v12_nora_robbed_1d5d7450:
 
-            scene v12nrb3d
-            with dissolve
+    # imre "You don't think I can handle myself?"
+    imre "Vous pensez pas qu'j'peux m'débrouiller tout seul ?"
 
-            u "(Did she almost say 'Mom'?)"
+# game/v12/scene1.rpy:101
+translate francais v12_nora_robbed_f813d369:
 
-            scene v12nrb75 # FPP. Same positioning as v12nrb74, Imre arrives and has a annoyed face, mouth opened, looking at Nora
-            with dissolve
+    # ro "I won't be taking that chance."
+    ro "Je ne prendrai pas ce risque."
 
-            imre "I'll get your bag back as soon as I find that fucker."
+# game/v12/scene1.rpy:106
+translate francais v12_nora_robbed_fcb01bac:
 
-            scene v12nrb3f # FPP. Same as v12nrb3d, Ms. Rose and Nora not hugging anymore, both of them looking at Imre's direction, Ms. Rose and Nora worried, Ms. Rose mouth open, Nora mouth closed
-            with dissolve
+    # ry "*Laughs* Get fucked, dude."
+    ry "*Rire* Baise-toi, mec."
 
-            ro "No, Imre. You won't be doing that. Losing a bag is bad enough, I won't be losing a student."
+# game/v12/scene1.rpy:111
+translate francais v12_nora_robbed_25fef2ad:
 
-            scene v12nrb75a # FPP. Same as v12nrb74, Imre angry, mouth open 
-            with dissolve
+    # imre "There's no \"chance\" when it comes to me, Ms. Rose. I'd never lose a fight to some scummy, French, son of-"
+    imre "Il y a pas de \"risque\" quand il s'agit de moi, Mme Rose. Je perdrai jamais un combat contre une ordure d'anglais, fils de..."
 
-            imre "You don't think I can handle myself?"
+# game/v12/scene1.rpy:117
+translate francais v12_nora_robbed_a30f2aea:
 
-            scene v12nrb3f
-            with dissolve
+    # ro "IMRE! That is enough! You will be finishing the group's laundry tonight before bed, so that I can get some rest after having to deal with your naive behavior. Understood?"
+    ro "IMRE ! Ça suffit ! Vous finirez la lessive du groupe ce soir avant de vous coucher, pour que je puisse me reposer après avoir dû faire face à votre comportement naïf. C'est compris ?"
 
-            ro "I won't be taking that chance."
+# game/v12/scene1.rpy:123
+translate francais v12_nora_robbed_c4171a8d:
 
-            scene v12nrb76 # FPP. Same positioning as v12nrb75, Ryan smiling, mouth open, looking at Imre's direction
-            with dissolve
+    # ro "IMRE! That is enough! You will be helping Penelope with the group's laundry tonight before bed, so that I can get some rest after having to deal with your naive behavior. Understood?"
+    ro "IMRE ! Ça suffit ! Vous aiderez Pénélope à faire la lessive du groupe ce soir avant de vous coucher, afin que je puisse me reposer après avoir dû faire face à votre comportement naïf. C'est compris ?"
 
-            ry "*Laughs* Get fucked, dude."
+# game/v12/scene1.rpy:128
+translate francais v12_nora_robbed_60d92e69:
 
-            scene v12nrb75a
-            with dissolve
+    # pe "Wait, but..."
+    pe "Attendez, mais..."
 
-            imre "There's no \"chance\" when it comes to me, Ms. Rose. I'd never lose a fight to some scummy, French, son of-"
+# game/v12/scene1.rpy:133
+translate francais v12_nora_robbed_d0a61035:
 
-            if not v11_pen_goes_europe:
-                scene v12nrb3g # FPP. Same as v12nrb3f, Ms. Rose angry, mouth open, Nora worried, mouth closed
-                with dissolve
+    # imre "*Sighs* Fine."
+    imre "*Soupirs* Bien."
 
-                ro "IMRE! That is enough! You will be finishing the group's laundry tonight before bed, so that I can get some rest after having to deal with your naive behavior. Understood?"
+# game/v12/scene1.rpy:138
+translate francais v12_nora_robbed_89a64c85:
 
-            else:
-                scene v12nrb3g 
-                with dissolve
+    # ro "Now, let's get back to the hotel."
+    ro "Maintenant, retournons à l'hôtel."
 
-                ro "IMRE! That is enough! You will be helping Penelope with the group's laundry tonight before bed, so that I can get some rest after having to deal with your naive behavior. Understood?"
+# game/v12/scene1.rpy:156
+translate francais v12_nora_robbed_f3372b2d:
 
-                scene v12nrb77 # FPP. Penelope has her hand up and has a worried look, mouth opened, looking at Ms. Rose's direction (same positioning as v12nrb3g)
-                with dissolve
+    # ch "What's wrong with trying to see if you were alright, Nora? How could you possibly be upset with me for doing that?"
+    ch "Qu'y a-t-il de mal à essayer de voir si tu vas bien, Nora ? Comment pourrais-tu être en colère contre moi pour avoir fait ça ?"
 
-                pe "Wait, but..."
-            
-            scene v12nrb75a
-            with dissolve
+# game/v12/scene1.rpy:161
+translate francais v12_nora_robbed_58ab3ded:
 
-            imre "*Sighs* Fine."
+    # no "You can't just pick and choose certain moments to be concerned about me. Either you're willing to commit one hundred percent like I do, or none at all. Pick one."
+    no "Tu ne peux pas juste choisir certains moments pour t'inquiéter de moi. Soit tu es prêt à t'engager à cent pour cent comme moi, soit tu ne le fais pas du tout. Choisis."
 
-            scene v12nrb3h # FPP. Same as v12nrb3g, Ms. Rose looking at MC, mouth open, slightly worried, Nora looking at Ms. Rose, Nora slightly sad, mouth closed
-            with dissolve
+# game/v12/scene1.rpy:166
+translate francais v12_nora_robbed_6ff44bd8:
 
-            ro "Now, let's get back to the hotel."
+    # ch "I'm trying to be sympathetic in the current situation, but I won't stand here and be disrespected in the process."
+    ch "J'essaie d'être compréhensif dans la situation actuelle, mais je ne vais pas rester là et me faire manquer de respect."
 
-            stop music fadeout 3
-            play music "music/v12/Track Scene 1_2.mp3" fadein 2
+# game/v12/scene1.rpy:167
+translate francais v12_nora_robbed_f56801e4:
 
-            scene v12nrb4 # TPP. MC is walking back, Chris and Nora stay behind, MC worried, looking straight ahead, Chris and Nora looking at each other, angry, mouths closed
-            with dissolve
+    # ch "You not understanding that people need a balance between all aspects of life, isn't something I can control. You take being someone's \"everything\" way too literally."
+    ch "Le fait que tu ne comprennes pas que les gens ont besoin d'un équilibre entre tous les aspects de la vie, n'est pas quelque chose que je peux contrôler. Tu prends le fait d'être le \"tout\" de quelqu'un beaucoup trop littéralement."
 
-            pause 0.75
+# game/v12/scene1.rpy:168
+translate francais v12_nora_robbed_243dfc17:
 
-            scene v12nrb4a # TPP. Same as v12nrb4, MC looking back at Chris and Nora now
-            with dissolve
+    # ch "Sadly Nora, if you had interests in life outside of just me, then maybe you wouldn't be so stuck up on this."
+    ch "Malheureusement Nora, si tu avais des intérêts dans la vie en dehors de moi, alors peut-être que tu ne serais pas si coincée là-dessus."
 
-            pause 0.75
+# game/v12/scene1.rpy:169
+translate francais v12_nora_robbed_c261a2be:
 
-            scene v12nrb5 # FPP. MC is now looking at Chris and Nora talking to each other (at a distance, check v12nrb4), Chris mouth open, annoyed, Nora angry, mouth closed
-            with dissolve
+    # ch "I'll be in the room, you can talk to me when you're ready."
+    ch "Je serai dans la chambre, tu pourras me parler quand tu seras prête."
 
-            ch "What's wrong with trying to see if you were alright, Nora? How could you possibly be upset with me for doing that?"
+# game/v12/scene1.rpy:184
+translate francais v12_nora_robbed_31486fa1:
 
-            scene v12nrb5a # FPP. Same as v12nrb5, Chris mouth closed, annoyed, Nora mouth open, angry
-            with dissolve
+    # imre "Holy shit... Someone actually grew some balls. I thought he'd never bite back."
+    imre "Putain d'merde... Quelqu'un s'est vraiment fait pousser des couilles. J'pensais qu'il répliquerait jamais."
 
-            no "You can't just pick and choose certain moments to be concerned about me. Either you're willing to commit one hundred percent like I do, or none at all. Pick one."
+# game/v12/scene1.rpy:189
+translate francais v12_nora_robbed_d5420a74:
 
-            scene v12nrb5
-            with dissolve
+    # u "He is pretty quiet whenever they get into it..."
+    u "Il est plutôt silencieux quand ils le font..."
 
-            ch "I'm trying to be sympathetic in the current situation, but I won't stand here and be disrespected in the process."
-            ch "You not understanding that people need a balance between all aspects of life, isn't something I can control. You take being someone's \"everything\" way too literally."
-            ch "Sadly Nora, if you had interests in life outside of just me, then maybe you wouldn't be so stuck up on this."
-            ch "I'll be in the room, you can talk to me when you're ready."
+# game/v12/scene1.rpy:194
+translate francais v12_nora_robbed_9c8d7b58:
 
-            scene v12nrb5c # FPP. Chris walks away ahead of Nora, Chris annoyed, mouth closed, Nora angry, mouth closed
-            with dissolve
+    # imre "Well, he won't be getting into anything tonight. *Chuckles* Not after that."
+    imre "Eh bien, il fera rien ce soir. *Rire* Pas après ça."
 
-            pause 1.5
+# game/v12/scene1.rpy:204
+translate francais v12_nora_robbed_1f6ede31:
 
-            scene v12nrb6 # TPP. MC continues walking next to Imre, Imre and MC surprised, mouths closed
-            with fade
+    # charli "Mocking other people's relationships behind their back and then trying to act like you actually care when looking them eye to eye..."
+    charli "Se moquer des relations des autres dans leur dos et ensuite essayer d'agir comme si vous vous souciez d'eux en les regardant dans les yeux..."
 
-            pause 1.25
+# game/v12/scene1.rpy:205
+translate francais v12_nora_robbed_fb59b871:
 
-            scene v12nrb7 # FPP. Imre leans over to mc while their walking, mouth opened and surprised look (background change)
-            with dissolve
+    # charli "I don't even have to try to make you look like a piece of shit, I just need to speak the truth."
+    charli "Je n'ai même pas besoin d'essayer de te faire passer pour une merde, je dois juste dire la vérité."
 
-            imre "Holy shit... Someone actually grew some balls. I thought he'd never bite back."
+# game/v12/scene1.rpy:210
+translate francais v12_nora_robbed_871d9642:
 
-            scene v12nrb7a # FPP. same as 7, Imre mouth closed
-            with dissolve
+    # imre "Fuck off, Charli."
+    imre "Va t'faire foutre, Charli."
 
-            u "He is pretty quiet whenever they get into it..."
+# game/v12/scene1.rpy:215
+translate francais v12_nora_robbed_bcfcf0e2:
 
-            scene v12nrb7
-            with dissolve
+    # u "There's no point in even trying to talk to him."
+    u "Il n'y a aucune raison d'essayer de lui parler."
 
-            imre "Well, he won't be getting into anything tonight. *Chuckles* Not after that."
+# game/v12/scene1.rpy:225
+translate francais v12_nora_robbed_58d103b0:
 
-            scene v12nrb78 # TPP. Show Charli approaching MC and Imre from behind, MC and Imre mouths closed, looking at each other, surprised, Charli slight smirk, mouth closed
-            with dissolve
+    # am "You guys really weren't going to wait on me? Rude."
+    am "Vous n'alliez vraiment pas m'attendre ? C'est grossier."
 
-            pause 0.75
+# game/v12/scene1.rpy:230
+translate francais v12_nora_robbed_47949aaf:
 
-            scene v12nrb79 # FPP. MC looking at Charli, Charli mouth open, smirking, looking at Imre
-            with dissolve
+    # u "Wait, where'd you go?"
+    u "Attends, t'es partie où ?"
 
-            charli "Mocking other people's relationships behind their back and then trying to act like you actually care when looking them eye to eye..."
-            charli "I don't even have to try to make you look like a piece of shit, I just need to speak the truth."
-            
-            scene v12nrb7b # FPP. Imre annoyed, mouth open, looking at Charli's direction
-            with dissolve
+# game/v12/scene1.rpy:235
+translate francais v12_nora_robbed_fe890e7a:
 
-            imre "Fuck off, Charli."
+    # am "Obviously, I went and got Nora's bag."
+    am "De toute évidence, je suis allée chercher le sac de Nora."
 
-            scene v12nrb7a
-            with dissolve
+# game/v12/scene1.rpy:240
+translate francais v12_nora_robbed_f1a445d5:
 
-            u "There's no point in even trying to talk to him."
+    # u "But... How?"
+    u "Mais... Comment ?"
 
-            scene v12nrb8 # TPP. MC, Charli and Imre look surprised
-            with dissolve
+# game/v12/scene1.rpy:245
+translate francais v12_nora_robbed_61ebcd72:
 
-            pause 0.75
+    # imre "If you got to fight that asshole I'm gonna be pissed."
+    imre "Si tu t'es battue avec c'connard, ça va m'faire chier."
 
-            scene v12nrb9 # FPP. MC turns arround and faces amber holding nora's bag, pretty far away, mouth opened, annoyed
-            with dissolve
+# game/v12/scene1.rpy:250
+translate francais v12_nora_robbed_47185e93:
 
-            am "You guys really weren't going to wait on me? Rude."
+    # am "Okay, calm down little guy... *Chuckles* I didn't want to mess up my nails so I just took the easy route and made sure he wouldn't be able to... well, reproduce in the near future. *Chuckles*"
+    am "Ok, calme-toi petit gars... *Rire* Je ne voulais pas abîmer mes ongles alors j'ai pris la voie la plus facile et je me suis assurée qu'il ne pourrait pas... se reproduire dans un futur proche. *Rire*"
 
-            scene v12nrb9a # FPP. same as 9, Amber now closer, mouth closed, annoyed
-            with dissolve
+# game/v12/scene1.rpy:255
+translate francais v12_nora_robbed_5b51d9ee:
 
-            u "Wait, where'd you go?"
+    # imre "Oh my god, stop. I can feel the pain every time you say it. Luckily for Charli he doesn't have that problem, considering his balls still haven't dropped."
+    imre "Oh merde, arrête. J'peux sentir la douleur à chaque fois qu'tu l'dis. Heureusement pour Charli, il a pas c'problème, vu qu'ses couilles sont toujours pas tombées."
 
-            scene v12nrb9b # FPP. Same as v12nrb9a, Amber in conversation distance, mouth open, annoyed
-            with dissolve
+# game/v12/scene1.rpy:260
+translate francais v12_nora_robbed_dd62a7a1:
 
-            am "Obviously, I went and got Nora's bag."
+    # am "*Laughs*"
+    am "*Rire*"
 
-            scene v12nrb9c # FPP. Same as v12nrb9b, Amber mouth closed, annoyed
-            with dissolve
+# game/v12/scene1.rpy:265
+translate francais v12_nora_robbed_a2ac6a6a:
 
-            u "But... How?"
+    # charli "I'm not the biggest fan of your jokes, Imre."
+    charli "Je ne suis pas vraiment fan de tes blagues, Imre."
 
-            scene v12nrb7c # FPP. Same as v12nrb7, Imre looking at Amber's direction (Check v12nrb9b), Imre annoyed, mouth open
-            with dissolve
+# game/v12/scene1.rpy:270
+translate francais v12_nora_robbed_c9653121:
 
-            imre "If you got to fight that asshole I'm gonna be pissed."
+    # imre "What jokes? *Chuckles*"
+    imre "Quelles blagues ? *Rire*"
 
-            scene v12nrb9d # FPP. Same as v12nrb9b, Amber looking at Imre's direction, Amber mouth open, smiling
-            with dissolve
+# game/v12/scene1.rpy:275
+translate francais v12_nora_robbed_fcc18885:
 
-            am "Okay, calm down little guy... *Chuckles* I didn't want to mess up my nails so I just took the easy route and made sure he wouldn't be able to... well, reproduce in the near future. *Chuckles*"
+    # u "*Laughs*"
+    u "*Rire*"
 
-            scene v12nrb7d # FPP. Same as v12nrb7c, Imre holding his crotch, mouth open, smiling
-            with dissolve
+# game/v12/scene1.rpy:293
+translate francais v12_nora_robbed_e1d7f558:
 
-            imre "Oh my god, stop. I can feel the pain every time you say it. Luckily for Charli he doesn't have that problem, considering his balls still haven't dropped."
+    # am "You guys have a good night. I'm gonna go give Nora her bag."
+    am "Passez une bonne nuit. Je vais aller donner son sac à Nora."
 
-            scene v12nrb9d
-            with dissolve
+# game/v12/scene1.rpy:298
+translate francais v12_nora_robbed_85596393:
 
-            am "*Laughs*"
+    # u "Alright. Later guys."
+    u "Très bien. A plus tard."
 
-            scene v12nrb79a # FPP. Charli annoyed, mouth opened
-            with dissolve
+# game/v12/scene1.rpy:321
+translate francais v12_nora_robbed_c525654e:
 
-            charli "I'm not the biggest fan of your jokes, Imre."
-            
-            scene v12nrb7e # FPP. Same as v12nrb7b, Imre smiling, mouth open
-            with dissolve
+    # u "(Amber's tough as nails. Definitely don't wanna be on her bad side. Maybe if I would've gone after the robber I could've been the hero.)"
+    u "(Amber est dure comme la pierre. Je ne veux définitivement pas être de son mauvais côté. Peut-être que si j'avais poursuivi le voleur j'aurais pu être le héros.)"
 
-            imre "What jokes? *Chuckles*"
+translate francais strings:
 
-            scene v12nrb7a 
-            with dissolve
+    # game/v12/scene1.rpy:19
+    old "Go to Nora"
+    new "Aller voir Nora"
 
-            u "*Laughs*"
-
-            scene v12nrb80 # TPP. Show MC, Imre and Amber walking on the sidewalks, all smiling, mouths closed
-            with dissolve
-
-            pause 0.75
-
-            scene v12nrb10 # TPP. MC, Imre, Charli and Amber all arrive in the hotel lobby
-            with fade
-
-            pause 0.75
-
-            stop music fadeout 3
-            play music "music/v12/Track Scene 1_3.mp3" fadein 2
-
-            scene v12nrb11 # FPP. Looking at amber, mouth opened, smiling, in hotel lobby
-            with dissolve
-
-            am "You guys have a good night. I'm gonna go give Nora her bag."
-
-            scene v12nrb81 # FPP. MC looking at Imre and Charli in the hotel lobby, Imre smiling, Charli annoyed, both mouths closed
-            with dissolve
-
-            u "Alright. Later guys."
-
-            scene v12nrb12 # TPP. Images of MC leaving imre and charli at the lobby
-            with dissolve
-
-            pause 0.75
-
-            scene v12nrb13 # TPP. Images of MC in the hotel corridor
-            with dissolve
-
-            pause 0.75
-
-            scene v12nrb14 # TPP. Images of MC opening his rooms door
-            with dissolve
-
-            pause 0.75
-
-            stop music fadeout 3
-            play music "music/v11/Track Scene 6.mp3" fadein 2
-
-            scene v12nrb15 # TPP. MC in his room
-            with dissolve
-
-            u "(Amber's tough as nails. Definitely don't wanna be on her bad side. Maybe if I would've gone after the robber I could've been the hero.)"
-
-            play sound "sounds/knock.mp3"
-            stop music fadeout 3
-
-            jump v12_nora_checks_mc #scene 2
-
-        "Chase after robber":
-            $ add_point(KCT.TROUBLEMAKER)
-            stop music fadeout 3
-
-            jump v12_chase_robber #scene 1a
+    # game/v12/scene1.rpy:19
+    old "Chase after robber"
+    new "Poursuivre le voleur"

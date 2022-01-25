@@ -1,95 +1,91 @@
-# SCENE 28: Riley storms up to MC in the lobby
-# Locations: Hotel Lobby 
-# Characters: RILEY (Outfit: 3), MC (Outfit: 3)
-# Time: Evening
-# Phone Images: None
+﻿# TODO: Translation updated at 2021-12-30 15:47
 
-label v12_riley_lobby:
-    scene v12ril1 # FPP. MC standing in the hotel lobby, Riley is pretty far away from MC. MC looking at Riley, Riley very angry, mouth closed, walking over to MC
-    with dissolve
+# game/v12/scene28.rpy:17
+translate francais v12_riley_lobby_c5b26616:
 
-    pause 0.75
-    play music "music/v12/Track Scene 28.mp3" fadein 2
+    # ri "[name]! HOW COULD YOU DO SOMETHING LIKE THAT TO ME?!"
+    ri "[name] ! COMMENT TU AS PU ME FAIRE UNE CHOSE PAREILLE ?!"
 
-    scene v12ril1a # FPP. Same as v12ril1, Riley now in talking distance to MC, Riley very angry, mouth open
-    with dissolve
+# game/v12/scene28.rpy:22
+translate francais v12_riley_lobby_c2c2be8d:
 
-    ri "[name]! HOW COULD YOU DO SOMETHING LIKE THAT TO ME?!"
+    # u "What are you talking about, Riley? What's going on?!"
+    u "De quoi tu parles, Riley ? Qu'est-ce qui se passe ? !"
 
-    scene v12ril1b # FPP. Same as v12ril1a, Riley very angry, mouth closed
-    with dissolve
+# game/v12/scene28.rpy:27
+translate francais v12_riley_lobby_8e006355:
 
-    u "What are you talking about, Riley? What's going on?!"
+    # ri "*Crying* Don't \"what are you talking about\" me! You hung my picture up for everyone to see!"
+    ri "*Crie* Ne me dis pas \"de quoi tu parles\" ! Tu as exposé ma photo aux yeux de tous !"
 
-    scene v12ril1c # FPP. Same as v12ril1a, Riley crying and angry, mouth open
-    with dissolve
+# game/v12/scene28.rpy:32
+translate francais v12_riley_lobby_e5e94be2:
 
-    ri "*Crying* Don't \"what are you talking about\" me! You hung my picture up for everyone to see!"
+    # u "What?! No, no, no! I didn't, I haven't even been here. I just got back from getting a ta-"
+    u "Quoi ? ! Non, non, non ! Je n'ai pas, je je n'étais même pas dans le coin. Je reviens juste de faire un ta-"
 
-    scene v12ril1d # FPP. Same as v12ril1c, Riley crying and angry, mouth closed
-    with dissolve
+# game/v12/scene28.rpy:37
+translate francais v12_riley_lobby_efa0cbca:
 
-    u "What?! No, no, no! I didn't, I haven't even been here. I just got back from getting a ta-"
+    # ri "So I go my entire time in college without a problem and then coincidentally after I tell you about my picture, it's hanging up in the lobby? Sounds like bullshit!"
+    ri "Donc je passe toute ma période à la fac sans problème et ensuite, comme par hasard, après que je t'ai parlé de ma photo, elle est exposée dans le hall ? Quelle connerie !"
 
-    scene v12ril1c
-    with dissolve
+# game/v12/scene28.rpy:42
+translate francais v12_riley_lobby_acabee0f:
 
-    ri "So I go my entire time in college without a problem and then coincidentally after I tell you about my picture, it's hanging up in the lobby? Sounds like bullshit!"
+    # u "I don't know what happened, or who did it, but it wasn't me."
+    u "Je ne sais pas ce qui s'est passé, ni qui l'a fait, mais ce n'était pas moi."
 
-    scene v12ril1d
-    with dissolve
+# game/v12/scene28.rpy:47
+translate francais v12_riley_lobby_21bf17ad:
 
-    u "I don't know what happened, or who did it, but it wasn't me."
+    # u "You should probably consider how you're talking to me right now 'cause whenever you find out what actually happened, you're gonna feel horrible for the way you're treating me."
+    u "Tu devrais probablement réfléchir à la façon dont tu me parles pour le moment, car quand tu sauras ce qui s'est réellement passé, tu te sentiras horriblement mal pour la manière dont tu m'auras traité."
 
-    scene v12ril1e # FPP. Same as v12ril1d, Riley different pose
-    with dissolve
+# game/v12/scene28.rpy:52
+translate francais v12_riley_lobby_21bca63d:
 
-    u "You should probably consider how you're talking to me right now 'cause whenever you find out what actually happened, you're gonna feel horrible for the way you're treating me."
+    # ri "No I'm not, because I already know who did it, it was you. I'm not fucking stupid, [name]."
+    ri "Non, je ne le ferai pas, parce que je sais déjà qui l'a fait, c'est TOI. Je ne suis pas stupide, [name]."
 
-    scene v12ril1f # FPP. Same as v12ril1e, Riley very angry and crying, mouth open
-    with dissolve
+# game/v12/scene28.rpy:57
+translate francais v12_riley_lobby_b1245867:
 
-    ri "No I'm not, because I already know who did it, it was you. I'm not fucking stupid, [name]."
+    # ri "It's common sense that you took it considering you're the only person who knows about it besides myself. I don't know why you would do this to me after I told you how I felt."
+    ri "C'est normal que ce soit toi qui l'ai prise, étant donné que tu es la seule personne à la connaître, à part moi. Je ne sais pas pourquoi tu me fais ça, après tout ce que je t'ai dit."
 
-    scene v12ril1c
-    with dissolve
+# game/v12/scene28.rpy:62
+translate francais v12_riley_lobby_af9f9ded:
 
-    ri "It's common sense that you took it considering you're the only person who knows about it besides myself. I don't know why you would do this to me after I told you how I felt."
+    # ri "I literally told you I'd hate you if you ever showed it to anyone and you showed it to everyone, so just consider yourself hated."
+    ri "Je t'ai littéralement dit que je te détesterais si tu la montrais à quelqu'un et tu l'as pourtant exposée à tout le monde, alors dis-toi bien que je te déteste, maintenant."
 
-    scene v12ril1f
-    with dissolve
+# game/v12/scene28.rpy:67
+translate francais v12_riley_lobby_1fcca647:
 
-    ri "I literally told you I'd hate you if you ever showed it to anyone and you showed it to everyone, so just consider yourself hated."
+    # u "RILEY!"
+    u "RILEY !"
 
-    scene v12ril1g # FPP. Same as v12ril1, Riley walking away, back turned to MC
-    with dissolve
+# game/v12/scene28.rpy:72
+translate francais v12_riley_lobby_42ee7328:
 
-    u "RILEY!"
+    # u "(What the fuck?!)"
+    u "(C'est quoi ce bordel ?!)"
 
-    scene v12ril2 # TPP. Show MC looking at Riley walking away, MC confused, mouth closed, Riley's back to the camera
-    with dissolve
+# game/v12/scene28.rpy:77
+translate francais v12_riley_lobby_e86134e9:
 
-    u "(What the fuck?!)"
+    # u "(I get why she'd blame me, but I didn't do that shit. Who the fuck could've known about it?)"
+    u "(Je comprends pourquoi elle m'en veut, mais je n'ai rien fait. Qui d'autre aurait pu le savoir ?)"
 
-    scene v12ril3 # TPP. Show MC walking over to the couch in the hotel lobby, angry, mouth closed
-    with dissolve
+# game/v12/scene28.rpy:78
+translate francais v12_riley_lobby_82d8373b:
 
-    u "(I get why she'd blame me, but I didn't do that shit. Who the fuck could've known about it?)"
-    u "(The door was open, so really... Anyone could've been listening, but the only person I know that was around was...)"
+    # u "(The door was open, so really... Anyone could've been listening, but the only person I know that was around was...)"
+    u "(La porte était ouverte, donc... N'importe qui aurait pu écouter, et la seule personne que je connais qui était dans les parages était...)"
 
-    scene v12ril4 # TPP. Show MC sitting on the couch, he's angry, mouth closed
-    with dissolve
+# game/v12/scene28.rpy:88
+translate francais v12_riley_lobby_fe56a30b:
 
-    pause 1.25
-
-    scene v12ril4a # TPP. Same as v12ril4, MC different pose
-    with dissolve
-
-    u "(Charli. That motherfucker. I wouldn't be surprised if it was him, but at the same time I'd be absolutely amazed.)"
-
-    stop music fadeout 3
-    
-    if lauren.relationship >= Relationship.KISS and not "v11_aubrey" in sceneList:
-        jump v12_lauren_sex #scene 29
-    else:
-        jump v12_late_night_workout #scene 29a
+    # u "(Charli. That motherfucker. I wouldn't be surprised if it was him, but at the same time I'd be absolutely amazed.)"
+    u "(Charli. L'enfoiré. Je ne serais pas surpris si c'était lui qui avait fait ça, mais d'un autre côté, je serais vraiment sidéré.)"

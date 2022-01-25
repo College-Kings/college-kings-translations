@@ -1,320 +1,287 @@
-# SCENE 8: Murder Mystery reveal
-# Locations: Ferry
-# Characters: MR. LEE (Outfit: 1) LINDSEY (Outfit: 1) CHARLI (Outfit: 1) RILEY (Outfit: 3) IMRE (Outfit: 2) MS. ROSE (Outfit: 1) MC (Outfit: 1) NORA (Outfit: 1) CHRIS (Outfit: 2)
-# Time: Evening
-# Phone Images: None
+﻿# TODO: Translation updated at 2021-12-22 14:27
 
-label v12_murder_mystery_reveal:
-    hide screen murder_button_overlay
+# game/v12/scene8.rpy:17
+translate francais v12_murder_mystery_reveal_63917b3e:
 
-    scene v12mmr1 # FPP. Mr. Lee and Ms. Rose standing in front of the students, addressing them, only Mr. Lee in shot. Mr. Lee smiling, mouth open, looking at MC
-    with dissolve
+    # lee "Wow, that turned out a lot better than expected. I hope you all enjoyed yourselves. Was anyone surprised to learn [name] was my chosen murderer?"
+    lee "Wow, ça s'est avéré beaucoup plus intéressant que prévu. J'espère que vous vous êtes tous amusés. Quelqu'un a-t-il été surpris d'apprendre que [name] était le meurtrier que j'avais choisi ?"
 
-    if (joinwolves and len(v12s7_killList) == 15) or len(v12s7_killList) == 16:
-        $ grant_achievement("mass_casualties")
+# game/v12/scene8.rpy:24
+translate francais v12_murder_mystery_reveal_86efcdab:
 
-    lee "Wow, that turned out a lot better than expected. I hope you all enjoyed yourselves. Was anyone surprised to learn [name] was my chosen murderer?"
+    # li "I was pretty surprised."
+    li "J'ai été assez surprise, oui."
 
-    play music "music/v12/Track Scene 8.mp3" fadein 2
+# game/v12/scene8.rpy:29
+translate francais v12_murder_mystery_reveal_6a448d89:
 
-    scene v12mmr2 # FPP. Same positioning as v12mmr1, MC looking at Lindsey, Lindsey looking at Mr. Lee's direction, Lindsey smiling, mouth open
-    with dissolve
+    # charli "I wasn't surprised at all."
+    charli "Je n'ai pas du tout été surpris."
 
-    li "I was pretty surprised."
+# game/v12/scene8.rpy:34
+translate francais v12_murder_mystery_reveal_be2b8c2d:
 
-    scene v12mmr3 # FPP. Same positioning as v12mmr1, MC looking at Charli, Charli looking at Mr. Lee's direction, Charli slightly annoyed, mouth open
-    with dissolve
+    # lee "You may have noticed that the roles I chose for you all fit each of you in a significant way."
+    lee "Vous avez peut-être remarqué que les rôles que j'ai choisis pour vous correspondaient tous à chacun d'entre vous de manière significative."
 
-    charli "I wasn't surprised at all."
+# game/v12/scene8.rpy:39
+translate francais v12_murder_mystery_reveal_e1149152:
 
-    scene v12mmr1
-    with dissolve
+    # ri "You made me a rich woman. *Chuckles* How was that significant?"
+    ri "Vous avez fait de moi une femme riche. *Rire* En quoi est-ce significatif ?"
 
-    lee "You may have noticed that the roles I chose for you all fit each of you in a significant way."
+# game/v12/scene8.rpy:44
+translate francais v12_murder_mystery_reveal_3b67f854:
 
-    scene v12mmr4 # FPP. Same positioning as v12mm1, MC looking at Riley, Riley looking at Mr. Lee's direction, Riley slight smile, mouth open
-    with dissolve
+    # lee "How did it feel being a snotty rich woman?"
+    lee "Qu'est-ce que ça fait d'être une femme riche et prétentieuse ?"
 
-    ri "You made me a rich woman. *Chuckles* How was that significant?"
+# game/v12/scene8.rpy:49
+translate francais v12_murder_mystery_reveal_c9c38f2c:
 
-    scene v12mmr1a # FPP. Same as v12mmr1, Mr. Lee looking at Riley's direction, Mr. Lee slight smile, mouth open
-    with dissolve
+    # ri "Uncomfortable, different, I don't know."
+    ri "J'étais mal à l'aise, différente, je ne sais pas."
 
-    lee "How did it feel being a snotty rich woman?"
+# game/v12/scene8.rpy:54
+translate francais v12_murder_mystery_reveal_60bc9c19:
 
-    scene v12mmr4a # FPP. Same as v12mmr4, Riley slightly sad, mouth open
-    with dissolve
+    # lee "Spot on! Some of you got to experience being out of your comfort zone, others got to dig deep into how they normally behave, and then I threw in complete curveballs that I personally found quite amusing."
+    lee "Bien vu ! Certains d'entre vous ont fait l'expérience de sortir de leur zone de confort, d'autres ont approfondi leur comportement habituel, et j'ai ajouté des surprises que j'ai personnellement trouvées très amusantes."
 
-    ri "Uncomfortable, different, I don't know."
+# game/v12/scene8.rpy:59
+translate francais v12_murder_mystery_reveal_50f7a2e4:
 
-    scene v12mmr1a
-    with dissolve
+    # imre "Don't worry, soon I'm gonna do something for you that I find amusing."
+    imre "Vous inquiétez pas, bientôt j'vais faire quelque chose pour vous que j'trouve amusant."
 
-    lee "Spot on! Some of you got to experience being out of your comfort zone, others got to dig deep into how they normally behave, and then I threw in complete curveballs that I personally found quite amusing."
+# game/v12/scene8.rpy:64
+translate francais v12_murder_mystery_reveal_2f627b84:
 
-    scene v12mmr5 # FPP. Same positioning as v12mmr1, MC looking at Imre, Imre looking at Mr. Lee's direction, Imre slightly annoyed, mouth open
-    with dissolve
+    # lee "Good luck surprising me."
+    lee "Bonne chance pour me surprendre."
 
-    imre "Don't worry, soon I'm gonna do something for you that I find amusing."
+# game/v12/scene8.rpy:69
+translate francais v12_murder_mystery_reveal_9a3f2729:
 
-    scene v12mmr1b # FPP. Same as v12mmr1, Mr. Lee looking at Imre's direction, Mr. Lee slight smirk, mouth open
-    with dissolve
+    # imre "Challenge accepted."
+    imre "Défi accepté."
 
-    lee "Good luck surprising me."
+# game/v12/scene8.rpy:79
+translate francais v12_murder_mystery_reveal_eb34a822:
 
-    scene v12mmr5
-    with dissolve
+    # lee "A total of [v12_murder_count] people were killed, so let's give our murderer a round of applause."
+    lee "Un total de [v12_murder_count] personnes ont été tuées, alors applaudissons notre meurtrier."
 
-    imre "Challenge accepted."
+# game/v12/scene8.rpy:89
+translate francais v12_murder_mystery_reveal_77f04522:
 
-    scene v12mmr1
-    with dissolve
+    # ro "That's the only time we'll ever condone killing. *Chuckles*"
+    ro "C'est la seule fois où nous tolérons le meurtre. *Rire*"
 
-    $ v12_murder_count = len(v12s7_killList)
-    if len(v12s7_killList) >= 5:
-    
-        $ grant_achievement("killing_spree")
+# game/v12/scene8.rpy:94
+translate francais v12_murder_mystery_reveal_8569c4fa:
 
-        lee "A total of [v12_murder_count] people were killed, so let's give our murderer a round of applause."
+    # u "*Chuckles*"
+    u " *Rire*"
 
-        scene v12mmr99 # TPP. Same positioning as v12mmr1, Show Riley, Lindsey and Imre applauding MC, all smiling, mouths closed
-        with dissolve
+# game/v12/scene8.rpy:99
+translate francais v12_murder_mystery_reveal_38972a95:
 
-        pause 0.75
+    # lee "You were very stealthy out there and it was interesting to watch."
+    lee "Vous étiez très furtif là-bas et c'était intéressant à regarder."
 
-        scene v12mmr6 # FPP. Same positioning as v12mmr1, MC looking at Ms. Rose, Ms. Rose looking at MC, Ms. Rose smiling, mouth open
-        with dissolve
+# game/v12/scene8.rpy:104
+translate francais v12_murder_mystery_reveal_f1a19af3:
 
-        ro "That's the only time we'll ever condone killing. *Chuckles*"
+    # u "I'm a mastermind."
+    u "Je suis un maître incontesté."
 
-        scene v12mmr6a # FPP. Same as v12mmr6, Ms. Rose mouth closed, smiling
-        with dissolve
+# game/v12/scene8.rpy:109
+translate francais v12_murder_mystery_reveal_c32f9f74:
 
-        u "*Chuckles*"
+    # charli "Never would've guessed you were so good at manipulation."
+    charli "Je n'aurais jamais pensé que tu étais si bon en manipulation."
 
-        scene v12mmr1
-        with dissolve
+# game/v12/scene8.rpy:114
+translate francais v12_murder_mystery_reveal_cd8151d0:
 
-        lee "You were very stealthy out there and it was interesting to watch."
+    # lee "You don't have to be good at manipulation if your target is naive or biased."
+    lee "Vous n'avez pas besoin d'être bon en manipulation si votre cible est naïve ou partiale."
 
-        scene v12mmr1c # FPP. Same as v12mmr1, Mr. Lee mouth closed, smiling
-        with dissolve
+# game/v12/scene8.rpy:118
+translate francais v12_murder_mystery_reveal_db3ddf50:
 
-        u "I'm a mastermind."
+    # lee "Well, our murderer got caught pretty fast. I was surprised how easily you got found out. The singling out strategy would've worked perfectly."
+    lee "Eh bien, notre meurtrier a été attrapé assez rapidement. J'ai été surpris de la facilité avec laquelle vous avez été découvert. La stratégie de la singularisation aurait parfaitement fonctionné."
 
-        scene v12mmr3a # FPP. Same as v12mmr3, Charli looking at MC, Charli annoyed, mouth open
-        with dissolve
+# game/v12/scene8.rpy:123
+translate francais v12_murder_mystery_reveal_29d35b9c:
 
-        charli "Never would've guessed you were so good at manipulation."
+    # u "My bad, I'm not a skilled killer."
+    u "C'est ma faute, je ne suis pas un tueur qualifié."
 
-        scene v12mmr1d # FPP. Same as v12mmr1, Mr. Lee looking at Charli's direction, Mr. Lee smiling, mouth open
-        with dissolve
+# game/v12/scene8.rpy:128
+translate francais v12_murder_mystery_reveal_38afb680:
 
-        lee "You don't have to be good at manipulation if your target is naive or biased."
+    # lee "Haha, if you were, I'd be worried."
+    lee "Haha, si vous l'étiez, je serais inquiet."
 
-    else: # Killed less than 5 students
+# game/v12/scene8.rpy:133
+translate francais v12_murder_mystery_reveal_144738e7:
 
-        lee "Well, our murderer got caught pretty fast. I was surprised how easily you got found out. The singling out strategy would've worked perfectly."
+    # charli "Can't be skilled at every bad guy thing."
+    charli "On ne peut pas être doué pour tous les trucs de méchants."
 
-        scene v12mmr1c
-        with dissolve
+# game/v12/scene8.rpy:138
+translate francais v12_murder_mystery_reveal_3d064b40:
 
-        u "My bad, I'm not a skilled killer."
+    # imre "WAIT WAIT WAIT BRO! I just processed this, you let me walk around like that, you could've shut the game down from the jump."
+    imre "ATTENDS, ATTENDS, ATTENDS, MON FRÈRE ! J'viens d'comprendre un truc : tu m'laisses me balader comme ça, alors t'aurais pu arrêter le jeu dès l'début."
 
-        scene v12mmr1
-        with dissolve
+# game/v12/scene8.rpy:143
+translate francais v12_murder_mystery_reveal_e7412e9b:
 
-        lee "Haha, if you were, I'd be worried."
+    # lee "Not intentionally, or else he would've been swimming."
+    lee "Il ne pouvais pas le faire intentionnellement, sinon il serait en train de nager."
 
-        scene v12mmr3a
-        with dissolve
+# game/v12/scene8.rpy:148
+translate francais v12_murder_mystery_reveal_7179f35a:
 
-        charli "Can't be skilled at every bad guy thing."
+    # imre "Well the game's over now so we're not worried about that."
+    imre "Eh bien, le jeu est terminé maintenant, donc on est plus inquiets à ce sujet."
 
-    scene v12mmr5a # FPP. Same as v12mmr5, Imre looking at MC, Imre mouth open, neutral expression
-    with dissolve
+# game/v12/scene8.rpy:153
+translate francais v12_murder_mystery_reveal_fd8f6620:
 
-    imre "WAIT WAIT WAIT BRO! I just processed this, you let me walk around like that, you could've shut the game down from the jump."
+    # lee "There's still quite some time before we arrive, and I've tested the life jackets... they're working just fine."
+    lee "Il reste encore pas mal de temps avant notre arrivée, et j'ai vérifié les gilets de sauvetage... ils fonctionnent très bien."
 
-    scene v12mmr1b
-    with dissolve
+# game/v12/scene8.rpy:158
+translate francais v12_murder_mystery_reveal_ce098357:
 
-    lee "Not intentionally, or else he would've been swimming."
+    # imre "I'll be quiet."
+    imre "Ok, j'me tais."
 
-    scene v12mmr5
-    with dissolve
+# game/v12/scene8.rpy:163
+translate francais v12_murder_mystery_reveal_a460d356:
 
-    imre "Well the game's over now so we're not worried about that."
+    # lee "*Chuckles* Again, I hope everyone enjoyed themselves. Please try and relax before-"
+    lee "*Rire* Encore une fois, j'espère que tout le monde s'est amusé. Essayez de vous détendre avant-"
 
-    scene v12mmr1b
-    with dissolve
+# game/v12/scene8.rpy:168
+translate francais v12_murder_mystery_reveal_0add4d6e:
 
-    lee "There's still quite some time before we arrive, and I've tested the life jackets... they're working just fine."
+    # no "Oh no."
+    no "Oh non."
 
-    scene v12mmr5
-    with dissolve
+# game/v12/scene8.rpy:173
+translate francais v12_murder_mystery_reveal_3598fcaa:
 
-    imre "I'll be quiet."
+    # u "What's wrong?"
+    u "Qu'est-ce qu'il y a ?"
 
-    scene v12mmr1
-    with dissolve
+# game/v12/scene8.rpy:178
+translate francais v12_murder_mystery_reveal_3e6e7919:
 
-    lee "*Chuckles* Again, I hope everyone enjoyed themselves. Please try and relax before-"
+    # no "Oof, my stomach is feeling really weird and I'm getting dizzy."
+    no "Oof, mon estomac se sent vraiment bizarre et j'ai des vertiges."
 
-    scene v12mmr7 # FPP. Same positioning as v12mmr1, MC looking at Nora, Nora looking at MC, her hand is on her stomach, she's about to vomit, mouth open (Nora is kind of far away)
-    with dissolve
+# game/v12/scene8.rpy:188
+translate francais v12_murder_mystery_reveal_c2acf88b:
 
-    no "Oh no."
+    # u "(It's his girl, he's got her.)"
+    u "(C'est sa copine, il s'occupe d'elle.)"
 
-    scene v12mmr7a # FPP. Same as v12mmr7, Nora mouth closed, same pose
-    with dissolve
+# game/v12/scene8.rpy:193
+translate francais v12_murder_mystery_reveal_2da7c714:
 
-    u "What's wrong?"
+    # ch "You need some water or something?"
+    ch "Tu veux de l'eau ou autre chose ?"
 
-    scene v12mmr7
-    with dissolve
+# game/v12/scene8.rpy:198
+translate francais v12_murder_mystery_reveal_ad5e0e24:
 
-    no "Oof, my stomach is feeling really weird and I'm getting dizzy."
+    # no "Yes please, thank you."
+    no "Oui, s'il te plaît, merci."
 
-    scene v12mmr8 # FPP. Same positioning as v12mmr1, MC looking at Chris walking over to Nora, Chris worried, mouth closed
-    with dissolve
+# game/v12/scene8.rpy:203
+translate francais v12_murder_mystery_reveal_c97e5f6e:
 
-    menu:
-        "Let Chris help her":
-            $ v12_help_chris += 1
-            $ add_point(KCT.BRO)
+    # ch "No problem baby, I'll be right back."
+    ch "Pas de problème bébé, je reviens tout de suite."
 
-            u "(It's his girl, he's got her.)"
+# game/v12/scene8.rpy:222
+translate francais v12_murder_mystery_reveal_18962905:
 
-            scene v12mmr7b # FPP. Same cam as v12mmr7, Chris and Nora looking at each other, Nora feeling sick, mouth closed, Chris worried, mouth open
-            with dissolve
+    # u "You okay? Need some water or something?"
+    u "Tu vas bien ? Tu as besoin d'un peu d'eau ou autre chose ?"
 
-            ch "You need some water or something?"
+# game/v12/scene8.rpy:227
+translate francais v12_murder_mystery_reveal_e7cf245a:
 
-            scene v12mmr7c # FPP. Same as v12mmr7b, Chris mouth closed, worried, Nora feeling sick, mouth open
-            with dissolve
+    # no "I don't know, I feel weird all of a sudden. If you weren't holding me I don't know if I could stand."
+    no "Je ne sais pas, je me sens bizarre tout d'un coup. Si tu ne me tenais pas, je ne sais pas si je pourrais tenir debout."
 
-            no "Yes please, thank you."
+# game/v12/scene8.rpy:232
+translate francais v12_murder_mystery_reveal_f08de96d:
 
-            scene v12mmr7b
-            with dissolve
+    # u "Well don't worry I got you."
+    u "Ne t'inquiète pas, je reste avec toi."
 
-            ch "No problem baby, I'll be right back."
+# game/v12/scene8.rpy:239
+translate francais v12_murder_mystery_reveal_8454db15:
 
-            scene v12mmr8a # FPP. Same as v12mmr8, but show Chris walking the other direction, mouth closed, worried
-            with dissolve
+    # no "*Burp* Oh goodness."
+    no "*Burp* Oh merde."
 
-            pause 0.75
+# game/v12/scene8.rpy:249
+translate francais v12_murder_mystery_reveal_34fd4860:
 
-        "Hurry to help her":
-            $ add_point(KCT.BOYFRIEND)
-            $ nora.relationship = Relationship.LIKES
-            
-            scene v12mmr9 # TPP. Show MC rushing to Nora, MC worried, mouth closed, Nora feeling sick, mouth closed
-            with dissolve
-            
-            pause 0.75
+    # u "(Oh fuck.)"
+    u "(Oh putain.)"
 
-            scene v12mmr10 # FPP. MC and Nora standing next to each other, Nora feeling sick, mouth closed, show MC holding Nora up
-            with dissolve
+# game/v12/scene8.rpy:254
+translate francais v12_murder_mystery_reveal_d04700ff:
 
-            u "You okay? Need some water or something?"
+    # lee "Casual sea sickness, the pleasures of the ferry. Enjoy the trip, students."
+    lee "Mal de mer occasionnel, les plaisirs du ferry. Bon voyage, chers élèves."
 
-            scene v12mmr10a # FPP. Same as v12mmr10, Nora mouth open, feeling sick
-            with dissolve
+# game/v12/scene8.rpy:264
+translate francais v12_murder_mystery_reveal_08c20958:
 
-            no "I don't know, I feel weird all of a sudden. If you weren't holding me I don't know if I could stand."
+    # u "Are you okay?"
+    u "Tu vas bien ?"
 
-            scene v12mmr10
-            with dissolve
+# game/v12/scene8.rpy:269
+translate francais v12_murder_mystery_reveal_603f2d6d:
 
-            u "Well don't worry I got you."
+    # no "Honestly, I feel a lot better now. I'm gonna go sit down."
+    no "Honnêtement, je me sens beaucoup mieux maintenant. Je vais aller m'asseoir."
 
-            pause 0.75
+# game/v12/scene8.rpy:274
+translate francais v12_murder_mystery_reveal_f16af893:
 
-    scene v12mmr7
-    with dissolve
+    # u "That's probably best."
+    u "C'est sûrement mieux."
 
-    no "*Burp* Oh goodness."
+# game/v12/scene8.rpy:279
+translate francais v12_murder_mystery_reveal_a2454a3a:
 
-    scene v12mmr7d # FPP. Show Nora running to the side of the ship, hand over her mouth
-    with dissolve
+    # u "(Let's wait out this long ass ride.)"
+    u "(On va attendre la fin de ce long trajet.)"
 
-    pause 0.75
+# game/v12/scene8.rpy:302
+translate francais v12_murder_mystery_reveal_54755ab3:
 
-    scene v12mmr11 # FPP. MC looks as Nora is throwing up over the edge of the ship
-    with dissolve
+    # u "(Woah... we must be here.)"
+    u "(Woah... on doit être ici.)"
 
-    u "(Oh fuck.)"
+translate francais strings:
 
-    scene v12mmr1
-    with dissolve
+    # game/v12/scene8.rpy:183
+    old "Let Chris help her"
+    new "Laissez Chris l'aider"
 
-    lee "Casual sea sickness, the pleasures of the ferry. Enjoy the trip, students."
-
-    scene v12mmr9b # FPP. Show MC running over to the edge of the ship where Nora is in v12mmr11, MC worried, mouth closed
-    with dissolve
-
-    pause 0.75
-
-    scene v12mmr12 # FPP. MC and Nora standing next to each other at the edge of the ship (check v12mmr11), MC and Nora looking at each other, Nora holding her stomach, slightly sad expression, mouth closed
-    with dissolve
-
-    u "Are you okay?"
-
-    scene v12mmr12a # FPP. Same as v12mmr12, Nora mouth closed, slightly sad
-    with dissolve
-
-    no "Honestly, I feel a lot better now. I'm gonna go sit down."
-
-    scene v12mmr12
-    with dissolve
-
-    u "That's probably best."
-
-    scene v12mmr12b # FPP. Same cam as v12mmr12, MC watches as Nora is walking out of frame, Nora still holding her stomach, mouth closed
-    with dissolve
-
-    u "(Let's wait out this long ass ride.)"
-
-    scene v12mmr13 # TPP. Show MC walking towards a seat, mouth closed, bored expression
-    with dissolve
-
-    pause 0.75
-
-    image ferry_arrival = Movie(play="images/v12/Scene 7/animations/Ferry B - To France.webm", loop=False)
-    
-    scene ferry_arrival
-    with fade
-    play sound "images/v12/Scene 7/animations/Track Scene - Ferry Ride (5 sec).mp3"
-
-    pause 3.5
-
-    scene v12mmr15 # TPP. Show MC sitting down, sleeping, mouth closed
-    with fade
-
-    pause 0.75
-
-    scene v12mmr15a # TPP. Same as v12mmr15, Show MC waking up startled while sitting down, mouth closed
-    with vpunch
-
-    u "(Woah... we must be here.)"
-
-    scene v12mmr14
-    with dissolve
-
-    pause 0.75
-
-    scene v12mmr16 # TPP. Show MC walking towards the exit of the boat, neutral expression, mouth closed
-    with dissolve
-
-    pause 0.75
-
-    scene v12mmr17 # TPP. Show MC going through the boat's exit, mouth closed, neutral expression
-    with dissolve
-
-    pause 0.75
-
-    stop music fadeout 3
-
-    jump v12_dock_arrival #scene 9
+    # game/v12/scene8.rpy:183
+    old "Hurry to help her"
+    new "Dépêchez-vous de l'aider"
