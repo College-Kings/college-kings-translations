@@ -1,907 +1,894 @@
-﻿# TODO: Translation updated at 2021-12-29 17:27
+# SCENE 23a: MC chilling in his room
+# Locations: 
+# Characters: MC (Outfit: 9), SAMANTHA (Outfit: 1), CAMERON (Outfit: 3)
+# Time: Night
 
-# game/v12/scene23a.rpy:50
-translate francais v12_mc_chilling_c01866a4:
+label v12_mc_chilling:
+    if not v11_riley_roomate:
+        scene v12mor1 # TPP. MC leaving riley's room
+        with fade 
+        play sound "sounds/doorclose.mp3"
 
-    # u "(I feel like I haven't had any time to just lay back and chill. There's always so-)"
-    u "(J'ai l'impression que je n'ai pas eu le temps de m'allonger et de me détendre. Il y a toujours si...)"
+        pause 0.75
 
-# game/v12/scene23a.rpy:56
-translate francais v12_mc_chilling_27121c3a:
+        play music "music/v12/Track Scene 23a.mp3" fadein 2
 
-    # sa "*Drunk* No one wants to hang out with me! Why is everyone ignoring me?!"
-    sa "*Ivre* Personne ne veut traîner avec moi ! Pourquoi tout le monde m'ignore ?!"
+        scene v12mor2 # TPP. MC on the hotel hallway
+        with dissolve
 
-# game/v12/scene23a.rpy:66
-translate francais v12_mc_chilling_55e52bac:
+        pause 0.75
 
-    # u "Sam... Are you drunk right now? I thought you weren't drinking?"
-    u "Sam... Tu es complètement bourrée ? Je croyais que tu ne buvais pas ?"
+        scene v12mor3 # TPP. MC arriving on his room
+        with dissolve
+        play sound "sounds/dooropen.mp3"
 
-# game/v12/scene23a.rpy:71
-translate francais v12_mc_chilling_b5561abc:
+        pause 1
 
-    # sa "*Drunk* This is only my first drink."
-    sa "*Ivre* Ce n'est que mon premier verre."
+        scene v12mor4 # TPP. MC going to his bed
+        with dissolve
 
-# game/v12/scene23a.rpy:76
-translate francais v12_mc_chilling_9dc438bd:
+        pause 1
 
-    # u "*Chuckles* That might be your first drink, but that's a big ass bottle."
-    u "*Rire* C'est peut-être ton premier verre, mais c'est une grosse bouteille."
+        scene v12mor5 # TPP. MC Laying on his bed
+        with dissolve
 
-# game/v12/scene23a.rpy:81
-translate francais v12_mc_chilling_f98d210d:
+    else:
+        scene v12mor4
+        with dissolve
 
-    # sa "*Drunk* I'm good... Promise!"
-    sa "*Ivre* Je vais bien... Promis !"
+        pause 0.75
 
-# game/v12/scene23a.rpy:86
-translate francais v12_mc_chilling_54aed12c:
+        play music "music/v12/Track Scene 23a.mp3" fadein 2
 
-    # u "What do you mean people are ignoring you?"
-    u "Comment ça, les autres t'ignorent ?"
+        scene v12mor5
+        with dissolve
 
-# game/v12/scene23a.rpy:91
-translate francais v12_mc_chilling_5a65a143:
+    pause 0.75
+    scene v12mor6 # TPP. MC laying in bed, hands behind his back, mouth closed
+    with dissolve
 
-    # sa "*Drunk* I went to everyone's door, but none of them were open... Yours was unlocked, though!"
-    sa "*Ivre* Je suis allée frapper à toutes les portes, mais aucune n'était ouverte... La tienne était ouverte, par contre."
+    u "(I feel like I haven't had any time to just lay back and chill. There's always so-)"
 
-# game/v12/scene23a.rpy:96
-translate francais v12_mc_chilling_ac2c5107:
+    if v11_invite_sam_europe:
+        scene v12mor7 # FPP. Samantha bursts into MC's room holding a bottle of alcohol, looking drunk, mouth opened
+        with dissolve
 
-    # u "(My luck.)"
-    u "(une chance pour moi.)"
+        sa "*Drunk* No one wants to hang out with me! Why is everyone ignoring me?!"
 
-# game/v12/scene23a.rpy:101
-translate francais v12_mc_chilling_f129c7b2:
+        scene v12mor8 # FPP. Samantha comes in mc's direction, smiling and drunk, mouth closed
+        with dissolve
+        
+        pause 1
 
-    # u "So, you were just trying to walk into random people's rooms? You know we aren't the only guests in the hotel right? *Chuckles*"
-    u "Donc, tu essayais juste d'entrer dans les chambres de quelqu'un au hasard ? Tu sais que nous ne sommes pas les seuls clients de l'hôtel, n'est-ce pas ? *Rire*"
+        scene v12mor9 # FPP. Samantha plops on mc's bed still looking drunk, mouth closed
+        with dissolve
 
-# game/v12/scene23a.rpy:106
-translate francais v12_mc_chilling_df75e2fb:
+        u "Sam... Are you drunk right now? I thought you weren't drinking?"
 
-    # sa "*Drunk* Wait, we're not?"
-    sa "*Ivre* Attends... On est pas seuls ?"
+        scene v12mor9a # FPP. Same as 9 smiling, mouth opened
+        with dissolve
 
-# game/v12/scene23a.rpy:111
-translate francais v12_mc_chilling_1924254e:
+        sa "*Drunk* This is only my first drink."
 
-    # u "Haha, no."
-    u "Haha, non."
+        scene v12mor9 
+        with dissolve
 
-# game/v12/scene23a.rpy:116
-translate francais v12_mc_chilling_53066e7c:
+        u "*Chuckles* That might be your first drink, but that's a big ass bottle."
 
-    # sa "*Drunk* Ohhhhh, that must be why that guy was yelling at me to leave him alone. I thought it was Ryan... *Chuckles*"
-    sa "*Ivre* Ohhhhh, ça doit être pour ça que ce type me criait de le laisser tranquille. Je pensais que c'était Ryan... *Rire*"
+        scene v12mor9a
+        with dissolve
 
-# game/v12/scene23a.rpy:121
-translate francais v12_mc_chilling_feb167d6:
+        sa "*Drunk* I'm good... Promise!"
 
-    # u "Oh my god. *Laughs* Where's your brother?"
-    u "Oh merde. *Rire* Où est ton frère ?"
+        scene v12mor9
+        with dissolve
 
-# game/v12/scene23a.rpy:126
-translate francais v12_mc_chilling_67aaf10b:
+        u "What do you mean people are ignoring you?"
 
-    # sa "*Drunk* Why do you care where my stupid brother is? Why can't you just spend time with me?"
-    sa "*Ivre* Pourquoi tu te soucies d'où est mon stupide frère ? Pourquoi ne peux-tu pas simplement passer du temps avec moi ?"
+        scene v12mor9a
+        with dissolve
 
-# game/v12/scene23a.rpy:131
-translate francais v12_mc_chilling_1cbbc10b:
+        sa "*Drunk* I went to everyone's door, but none of them were open... Yours was unlocked, though!"
 
-    # u "I can, I just worry he'll run in here and try to fight me 'cause you're drunk."
-    u "Je peux, mais j'ai peur qu'il vienne ici et essaie de me frapper parce que tu es bourrée."
+        scene v12mor9
+        with dissolve
 
-# game/v12/scene23a.rpy:136
-translate francais v12_mc_chilling_c60f1f8b:
+        u "(My luck.)"
 
-    # sa "*Drunk* He's sleeping, okay? Happy now?"
-    sa "*Ivre* Il dort, d'accord ? Tu es content maintenant ?"
+        scene v12mor9
+        with dissolve
 
-# game/v12/scene23a.rpy:141
-translate francais v12_mc_chilling_12aa7976:
+        u "So, you were just trying to walk into random people's rooms? You know we aren't the only guests in the hotel right? *Chuckles*"
 
-    # u "I am, yeah."
-    u "Oui, je le suis."
+        scene v12mor9b # FPP. Same as 9, sam looking confused, mouth opened
+        with dissolve
 
-# game/v12/scene23a.rpy:146
-translate francais v12_mc_chilling_99fa0d65:
+        sa "*Drunk* Wait, we're not?"
 
-    # sa "*Drunk* Do you think I'm pretty?"
-    sa "*Ivre* Tu me trouves jolie ?"
+        scene v12mor9
+        with dissolve
 
-# game/v12/scene23a.rpy:154
-translate francais v12_mc_chilling_d515fdf9:
+        u "Haha, no."
 
-    # u "What? That's a really random question."
-    u "Quoi ? C'est une question chelou."
+        scene v12mor9a
+        with dissolve
 
-# game/v12/scene23a.rpy:159
-translate francais v12_mc_chilling_2e40bbfd:
+        sa "*Drunk* Ohhhhh, that must be why that guy was yelling at me to leave him alone. I thought it was Ryan... *Chuckles*"
 
-    # sa "*Drunk* Which shouldn't take this long to answer... I get it..."
-    sa "*Ivre* Qui ne devrait pas prendre autant de temps à répondre... J'ai compris..."
+        scene v12mor9
+        with dissolve
 
-# game/v12/scene23a.rpy:164
-translate francais v12_mc_chilling_b88e5acd:
+        u "Oh my god. *Laughs* Where's your brother?"
 
-    # u "No, Sam. I mean, yeah. Of course you're pretty. I just wasn't expecting that question I guess."
-    u "Non, Sam. Je veux dire, oui. Bien sûr que tu es jolie. Je ne m'attendais pas à cette question, c'est tout."
+        scene v12mor9c # FPP. Same as 9, sam looking mad, mouth opened
+        with dissolve
 
-# game/v12/scene23a.rpy:171
-translate francais v12_mc_chilling_3f54e48a:
+        sa "*Drunk* Why do you care where my stupid brother is? Why can't you just spend time with me?"
 
-    # u "Of course I do."
-    u "Bien sûr que oui."
+        scene v12mor9
+        with dissolve
 
-# game/v12/scene23a.rpy:176
-translate francais v12_mc_chilling_6c620e8d:
+        u "I can, I just worry he'll run in here and try to fight me 'cause you're drunk."
 
-    # sa "*Drunk* Do you really think so? Like, do you think I'm really pretty?"
-    sa "*Ivre* Tu le penses vraiment ? Comme, tu penses que je suis vraiment jolie ?"
+        scene v12mor9c
+        with dissolve
 
-# game/v12/scene23a.rpy:181
-translate francais v12_mc_chilling_a5ea0d94:
+        sa "*Drunk* He's sleeping, okay? Happy now?"
 
-    # u "Yes, Sam. I think you're very pretty. *Chuckles*"
-    u "Oui, Sam. Je te trouve très jolie. *Rire*"
+        scene v12mor9
+        with dissolve
 
-# game/v12/scene23a.rpy:186
-translate francais v12_mc_chilling_97a73ab2:
+        u "I am, yeah."
 
-    # sa "*Drunk* No you don't."
-    sa "*Ivre* Non, pas du tout."
+        scene v12mor9a
+        with dissolve
 
-# game/v12/scene23a.rpy:191
-translate francais v12_mc_chilling_bd83d731:
+        sa "*Drunk* Do you think I'm pretty?"
 
-    # u "Why'd you even ask me if you aren't gonna believe my answer?"
-    u "Pourquoi tu m'as demandé ça si tu ne me crois pas ?"
+        menu:
+            "What?":
+                $ add_point(KCT.TROUBLEMAKER)
+                scene v12mor9
+                with dissolve
 
-# game/v12/scene23a.rpy:196
-translate francais v12_mc_chilling_6797330e:
+                u "What? That's a really random question."
 
-    # sa "*Drunk* Just wanted to see what you'd say... But, I know you don't think I'm \"that\" pretty."
-    sa "*Ivre* Je voulais juste savoir ce que tu dirais... Mais, je sais que tu ne penses pas que je suis si jolie que ça."
+                scene v12mor9d # FPP. Same as 9, sam looking sad, mouth opened
+                with dissolve
 
-# game/v12/scene23a.rpy:201
-translate francais v12_mc_chilling_db56ac90:
+                sa "*Drunk* Which shouldn't take this long to answer... I get it..."
 
-    # u "Ha, what? How do you know that?"
-    u "Hein, quoi ? Comment tu sais ça ?"
+                scene v12mor9 
+                with dissolve
 
-# game/v12/scene23a.rpy:211
-translate francais v12_mc_chilling_f87a099b:
+                u "No, Sam. I mean, yeah. Of course you're pretty. I just wasn't expecting that question I guess."
 
-    # sa "*Drunk* If you think I'm pretty... Then why haven't we done anything yet, huh? Why haven't you kissed me? Don't you wanna kiss me?"
-    sa "*Ivre* Si tu penses que je suis jolie... Alors pourquoi n'avons-nous encore rien fait, hein ? Pourquoi tu ne m'as pas encore embrassée ? Tu n'as pas envie de le faire ?"
+            "Yes":
+                $ add_point(KCT.BOYFRIEND)
+                scene v12mor9
+                with dissolve
 
-# game/v12/scene23a.rpy:216
-translate francais v12_mc_chilling_dd61558e:
+                u "Of course I do."
 
-    # u "Sam... Uh, my roommate could walk in here at any minute."
-    u "Sam... Euh, ma colocataire pourrait entrer ici d'une minute à l'autre."
+                scene v12mor9a
+                with dissolve
 
-# game/v12/scene23a.rpy:221
-translate francais v12_mc_chilling_448dc203:
+                sa "*Drunk* Do you really think so? Like, do you think I'm really pretty?"
 
-    # sa "*Drunk* What? I'm not sexy enough to show off? See, I knew you didn't like me..."
-    sa "*Ivre* Quoi ? Je ne suis pas assez sexy pour m'exhiber ? Tu vois, je savais que tu ne m'aimais pas..."
+                scene v12mor9
+                with dissolve
 
-# game/v12/scene23a.rpy:231
-translate francais v12_mc_chilling_13837e21:
+                u "Yes, Sam. I think you're very pretty. *Chuckles*"
+   
+        scene v12mor9c
+        with dissolve
 
-    # sa "*Drunk* I just want someone to really like me. Someone that's strong and can protect me... Oh, and he has to be able to beat up my brother!"
-    sa "*Ivre* Je veux juste quelqu'un qui m'aime vraiment. Quelqu'un qui soit fort et qui puisse me protéger... Oh, et il doit être capable de battre mon frère !"
+        sa "*Drunk* No you don't."
 
-# game/v12/scene23a.rpy:236
-translate francais v12_mc_chilling_4ad42dbb:
+        scene v12mor9
+        with dissolve
 
-    # u "*Chuckles* What if he can't beat up your brother?"
-    u "*Rire* Et s'il ne peut pas battre ton frère ?"
+        u "Why'd you even ask me if you aren't gonna believe my answer?"
 
-# game/v12/scene23a.rpy:241
-translate francais v12_mc_chilling_2deb08c7:
+        scene v12mor9d
+        with dissolve
 
-    # sa "*Drunk* Then he's not the right guy..."
-    sa "*Ivre* Alors ce n'est pas le bon gars..."
+        sa "*Drunk* Just wanted to see what you'd say... But, I know you don't think I'm \"that\" pretty."
 
-# game/v12/scene23a.rpy:246
-translate francais v12_mc_chilling_c71a4f44:
+        scene v12mor9
+        with dissolve
 
-    # sa "You know something I really want?"
-    sa "*Ivre* Tu sais ce que je veux vraiment ?"
+        u "Ha, what? How do you know that?"
 
-# game/v12/scene23a.rpy:251
-translate francais v12_mc_chilling_ef2f1671:
+        scene v12mor10 # TPP. Samantha climbs on top of mc
+        with dissolve
 
-    # u "What?"
-    u "Quoi ?"
+        pause 0.75
 
-# game/v12/scene23a.rpy:256
-translate francais v12_mc_chilling_565249cf:
+        scene v12mor11 # FPP. Samantha on top of mc, making a seductive face, mouth opened
+        with dissolve
 
-    # sa "*Drunk* I wanna have sex in a pool."
-    sa "*Ivre* Je veux faire l'amour dans une piscine."
+        sa "*Drunk* If you think I'm pretty... Then why haven't we done anything yet, huh? Why haven't you kissed me? Don't you wanna kiss me?"
 
-# game/v12/scene23a.rpy:261
-translate francais v12_mc_chilling_c124d245:
+        scene v12mor11a # FPP, Same as 11, mouth closed
+        with dissolve
 
-    # sa "That's what I wanna do while I'm in college... Get a strong boyfriend that fucks me in the pool every, single, night."
-    sa "*Ivre* C'est ce que je veux faire pendant que je suis à l'université... Avoir un petit ami fort qui me baise dans la piscine chaque nuit."
+        u "Sam... Uh, my roommate could walk in here at any minute."
 
-# game/v12/scene23a.rpy:266
-translate francais v12_mc_chilling_25834d22:
+        scene v12mor11b # FPP. Sam still on top of mc, looking mad and drunk, mouth opened
+        with dissolve
 
-    # u "Sam... Where is all this coming from?"
-    u "Sam... D'où te vient cette idée ?"
+        sa "*Drunk* What? I'm not sexy enough to show off? See, I knew you didn't like me..."
 
-# game/v12/scene23a.rpy:271
-translate francais v12_mc_chilling_e84c3849:
+        scene v12mor12 # TPP. Sam rolls of mc drunk, laying on his bed next to him
+        with dissolve
 
-    # sa "*Drunk* Do you know if there's a pool on campus?"
-    sa "*Ivre* Sais-tu s'il y a une piscine dans le campus ?"
+        pause 0.75
 
-# game/v12/scene23a.rpy:276
-translate francais v12_mc_chilling_34814001:
+        scene v12mor13 # FPP. sam looking drunk, next to mc on his bed, mouth opened
+        with dissolve
 
-    # u "There is, actually. I got invited to go swimming there once."
-    u "Il y en a une, en effet. J'ai été invité à aller nager là-bas une fois."
+        sa "*Drunk* I just want someone to really like me. Someone that's strong and can protect me... Oh, and he has to be able to beat up my brother!"
 
-# game/v12/scene23a.rpy:281
-translate francais v12_mc_chilling_12f2e20a:
+        scene v12mor13a # FPP. Same as 13, mouth closed
+        with dissolve
 
-    # sa "*Drunk* Did you have sex in the pool?!"
-    sa "*ivre* Tu as fait l'amour dans la piscine ? !"
+        u "*Chuckles* What if he can't beat up your brother?"
 
-# game/v12/scene23a.rpy:286
-translate francais v12_mc_chilling_f1555f93:
+        scene v12mor13
+        with dissolve
 
-    # u "*Chuckles* No. I didn't."
-    u "*Rire* Non. Je ne l'ai pas fait."
+        sa "*Drunk* Then he's not the right guy..."
 
-# game/v12/scene23a.rpy:291
-translate francais v12_mc_chilling_85504b58:
+        scene v12mor13b # FPP. same as 13, sam smiling and still drunk, mouth opened
+        with dissolve
 
-    # sa "*Drunk* Would you want to?"
-    sa "*Ivre* Tu le voudrais ?"
+        sa "You know something I really want?"
 
-# game/v12/scene23a.rpy:299
-translate francais v12_mc_chilling_ef8aef9a:
+        scene v12mor13a
+        with dissolve
 
-    # u "Does sound kinda refreshing. *Laughs*"
-    u "Ça a l'air plutôt sympa. *Rire*"
+        u "What?"
 
-# game/v12/scene23a.rpy:304
-translate francais v12_mc_chilling_ec604462:
+        scene v12mor13b
+        with dissolve
 
-    # sa "*Drunk* Good... Right answer."
-    sa "*Ivre* Bien... Bonne réponse."
+        sa "*Drunk* I wanna have sex in a pool."
 
-# game/v12/scene23a.rpy:311
-translate francais v12_mc_chilling_0e787380:
+        scene v12mor13b
+        with dissolve
 
-    # u "No, I don't think so."
-    u "Non, je ne crois pas."
+        sa "That's what I wanna do while I'm in college... Get a strong boyfriend that fucks me in the pool every, single, night."
 
-# game/v12/scene23a.rpy:316
-translate francais v12_mc_chilling_0289b587:
+        scene v12mor13a
+        with dissolve
 
-    # sa "*Drunk* Booooo... Wrong answer."
-    sa "*Ivre* Booooouuu... Mauvaise réponse."
+        u "Sam... Where is all this coming from?"
 
-# game/v12/scene23a.rpy:321
-translate francais v12_mc_chilling_0a019a63:
+        scene v12mor13c # FPP.same as 13, Sam thinking looking away from MC at the ceiling, mouth opened
+        with dissolve
 
-    # u "Haha, I didn't know there was a right and wrong answer."
-    u "Haha, je ne savais pas qu'il y avait une bonne et une mauvaise réponse."
+        sa "*Drunk* Do you know if there's a pool on campus?"
 
-# game/v12/scene23a.rpy:326
-translate francais v12_mc_chilling_02bf4d3a:
+        scene v12mor13a
+        with dissolve
 
-    # sa "*Drunk* Every choice is important... Now, can you beat up my brother?"
-    sa "*Ivre* Chaque choix est important... Maintenant, tu peux frapper mon frère ?"
+        u "There is, actually. I got invited to go swimming there once."
 
-# game/v12/scene23a.rpy:331
-translate francais v12_mc_chilling_31c06cea:
+        scene v12mor13d # FPP. same as 13, Sam looking really excited, mouth opened
+        with dissolve
 
-    # u "Cameron?"
-    u "Cameron ?"
+        sa "*Drunk* Did you have sex in the pool?!"
 
-# game/v12/scene23a.rpy:336
-translate francais v12_mc_chilling_e8c98c13:
+        scene v12mor13a
+        with dissolve
 
-    # sa "*Drunk* No, Chris... *Chuckles* What other brother is there?"
-    sa "*Ivre* Non, Chris... *Rire* Quel autre frère j'ai ?"
+        u "*Chuckles* No. I didn't."
 
-# game/v12/scene23a.rpy:346
-translate francais v12_mc_chilling_c9aa2bf5:
+        scene v12mor13b
+        with dissolve
 
-    # u "Yeah. Of course I can take him. He may be a lunatic, but I can handle that."
-    u "Ouais. Bien sûr que je peux le battre. Il est peut-être cinglé, mais je peux faire face."
+        sa "*Drunk* Would you want to?"
 
-# game/v12/scene23a.rpy:353
-translate francais v12_mc_chilling_60f76380:
+        menu:
+            "Yes":
+                $ v12s23a_sam += 1
+                scene v12mor13a 
+                with dissolve
+                
+                u "Does sound kinda refreshing. *Laughs*"
 
-    # u "Nope, not wasting any time on that fight. Your brother's a psychopath. Sorry."
-    u "Non, je ne veux pas perdre de temps dans ce combat. Ton frère est un psychopathe. Désolé."
+                scene v12mor13b
+                with dissolve
 
-# game/v12/scene23a.rpy:358
-translate francais v12_mc_chilling_f40d0ca8:
+                sa "*Drunk* Good... Right answer."
 
-    # sa "*Drunk* Ughhh, such a pussy. *Chuckles*"
-    sa "*Ivre* Arghhhh, quelle mauviette. *Rire*"
+            "No":
+                $ add_point(KCT.TROUBLEMAKER)
+                scene v12mor13a
+                with dissolve
 
-# game/v12/scene23a.rpy:364
-translate francais v12_mc_chilling_50c51911:
+                u "No, I don't think so."
 
-    # sa "*Drunk* Perfect! You can be my boyfriend then."
-    sa "*Ivre* Parfait ! Tu peux être mon petit ami alors."
+                scene v12mor13e # FPP. Same as 13, sam booing, mouth opened
+                with dissolve
 
-# game/v12/scene23a.rpy:369
-translate francais v12_mc_chilling_b8e91c8e:
+                sa "*Drunk* Booooo... Wrong answer."
 
-    # u "*Laughs* What?"
-    u "*Rire* Quoi ?"
+        scene v12mor13a
+        with dissolve
 
-# game/v12/scene23a.rpy:374
-translate francais v12_mc_chilling_d27695b9:
+        u "Haha, I didn't know there was a right and wrong answer."
 
-    # sa "*Drunk* Yeah! You can kick Cameron's ass when he's bothering me and also fuck me in the pool every day."
-    sa "*Ivre* Ouais ! Tu pourras botter le cul de Cameron quand il m'embêtera et aussi me baiser dans la piscine tous les jours."
+        scene v12mor13f # FPP. same as 13, Sam trying to look serious, mouth opened
+        with dissolve
 
-# game/v12/scene23a.rpy:379
-translate francais v12_mc_chilling_4b126695:
+        sa "*Drunk* Every choice is important... Now, can you beat up my brother?"
 
-    # sa "That's all I want, and you can do it... So, you can be my boyfriend!"
-    sa "*Ivre* C'est tout ce que je voulais, et tu peux le faire... Donc, tu peux être mon petit ami !"
+        scene v12mor13a
+        with dissolve
 
-# game/v12/scene23a.rpy:384
-translate francais v12_mc_chilling_a94371cd:
+        u "Cameron?"
 
-    # u "Sam, I think you're really-"
-    u "Sam, je pense que tu es vraiment..."
+        scene v12mor13b
+        with dissolve
 
-# game/v12/scene23a.rpy:394
-translate francais v12_mc_chilling_f0890315:
+        sa "*Drunk* No, Chris... *Chuckles* What other brother is there?"
 
-    # sa "*Drunk* Take your clothes off, boyfriend."
-    sa "*Ivre* Enlève tes vêtements, mon petit ami."
+        menu:
+            "I can beat Cameron":
+                $ v12s23a_sam += 1
+                $ add_point(KCT.TROUBLEMAKER)
+                
+                scene v12mor13a
+                with dissolve
+            
+                u "Yeah. Of course I can take him. He may be a lunatic, but I can handle that."
 
-# game/v12/scene23a.rpy:399
-translate francais v12_mc_chilling_1ae420f0:
+            "Not fighting your brother":
+                $ add_point(KCT.BRO)
+                scene v12mor13a 
+                with dissolve
+                
+                u "Nope, not wasting any time on that fight. Your brother's a psychopath. Sorry."
 
-    # u "Sam, you're completely wasted right now."
-    u "Sam, tu es complètement déchirée en ce moment."
+                scene v12mor13b 
+                with dissolve
 
-# game/v12/scene23a.rpy:404
-translate francais v12_mc_chilling_559ef4f6:
+                sa "*Drunk* Ughhh, such a pussy. *Chuckles*"
 
-    # sa "*Drunk* And?"
-    sa "*Ivre* Et ?"
+        if v12s23a_sam == 2:
+            scene v12mor13d
+            with dissolve
+            
+            sa "*Drunk* Perfect! You can be my boyfriend then."
 
-# game/v12/scene23a.rpy:409
-translate francais v12_mc_chilling_e289ce14:
+            scene v12mor13a
+            with dissolve
 
-    # u "And... So maybe we should relax, and like I said, my roommate could come in anytime."
-    u "Et... On devrait peut-être se détendre, et comme je l'ai dit, ma colocataire peut venir à tout moment."
+            u "*Laughs* What?"
 
-# game/v12/scene23a.rpy:415
-translate francais v12_mc_chilling_fb571e45:
+            scene v12mor13b
+            with dissolve
 
-    # sa "*Drunk* Well, whatever... No matter what, you can't be my boyfriend 'cause you don't meet my standards."
-    sa "*Ivre* Eh bien, peu importe... Quoi qu'il en soit, tu ne peux pas être mon petit ami parce que tu ne réponds pas à mes critères."
+            sa "*Drunk* Yeah! You can kick Cameron's ass when he's bothering me and also fuck me in the pool every day."
 
-# game/v12/scene23a.rpy:420
-translate francais v12_mc_chilling_314adb71:
+            scene v12mor13b
+            with dissolve
 
-    # u "Your standards are beating up your brother and fucking you in a pool everyday?"
-    u "Tes critères sont de battre ton frère et de te baiser dans une piscine tous les jours ?"
+            sa "That's all I want, and you can do it... So, you can be my boyfriend!"
 
-# game/v12/scene23a.rpy:425
-translate francais v12_mc_chilling_e4c94688:
+            scene v12mor13a
+            with dissolve
 
-    # sa "*Drunk* Yeah, what's wrong with that?"
-    sa "*Ivre* Ouais, c'est quoi le problème avec ça ?"
+            u "Sam, I think you're really-"
 
-# game/v12/scene23a.rpy:430
-translate francais v12_mc_chilling_7c8433ba:
+            scene v12mor14 # TPP. Sam climbs on top of mc and kisses him
+            with dissolve
 
-    # u "Those aren't real standards. *Chuckles*"
-    u "Ce ne sont pas de vrais critères. *Rire*"
+            pause 0.75
 
-# game/v12/scene23a.rpy:440
-translate francais v12_mc_chilling_6bd57e02:
+            scene v12mor15 # FPP. Sam making a seductive face, still drunk, mouth opened
+            with dissolve
 
-    # sa "*Drunk* Ughhh, whatever!"
-    sa "*Ivre* Ouhhh, peu importe !"
+            sa "*Drunk* Take your clothes off, boyfriend."
 
-# game/v12/scene23a.rpy:445
-translate francais v12_mc_chilling_571349c2:
+            scene v12mor15a # FPP. Same as 15, mouth closed
+            with dissolve
 
-    # u "Sam?"
-    u "Sam ?"
+            u "Sam, you're completely wasted right now."
 
-# game/v12/scene23a.rpy:450
-translate francais v12_mc_chilling_24ef0e7b:
+            scene v12mor15
+            with dissolve
 
-    # sa "*Drunk* Leave me alone."
-    sa "*Ivre* Laisse-moi tranquille."
+            sa "*Drunk* And?"
 
-# game/v12/scene23a.rpy:455
-translate francais v12_mc_chilling_b3dcaec4:
+            scene v12mor15a
+            with dissolve
 
-    # u "Sam, c'mon."
-    u "Sam, allez"
+            u "And... So maybe we should relax, and like I said, my roommate could come in anytime."
 
-# game/v12/scene23a.rpy:460
-translate francais v12_mc_chilling_07cd6b38:
+        else:
+            scene v12mor13f
+            with dissolve
 
-    # sa "..."
-    sa "..."
+            sa "*Drunk* Well, whatever... No matter what, you can't be my boyfriend 'cause you don't meet my standards."
 
-# game/v12/scene23a.rpy:465
-translate francais v12_mc_chilling_571349c2_1:
+            scene v12mor13a
+            with dissolve
 
-    # u "Sam?"
-    u "Sam ?"
+            u "Your standards are beating up your brother and fucking you in a pool everyday?"
 
-# game/v12/scene23a.rpy:475
-translate francais v12_mc_chilling_89383e6e:
+            scene v12mor13f
+            with dissolve
 
-    # u "Haha, I've seen this before."
-    u "Haha, j'ai déjà vu ça."
+            sa "*Drunk* Yeah, what's wrong with that?"
 
-# game/v12/scene23a.rpy:491
-translate francais v12_mc_chilling_dec575f8:
+            scene v12mor13a
+            with dissolve
 
-    # u "(*Sighs* He should at least know she's drunk.)"
-    u "(*Soupirs* Il devrait au moins savoir qu'elle est bourrée.)"
+            u "Those aren't real standards. *Chuckles*"
 
-# game/v12/scene23a.rpy:502
-translate francais v12_mc_chilling_b1b4e24f:
+        scene v12mor16 # TPP. Samantha getting up from MC's bed
+        with dissolve
 
-    # ca "Huh? [name]? What do you want?"
-    ca "Hein ? [name] ? Qu'est-ce que tu veux ?"
+        pause 0.75
 
-# game/v12/scene23a.rpy:507
-translate francais v12_mc_chilling_4f7d9746:
+        scene v12mor17 # FPP. MC looking at sam heading to his roomate's bed, back to the camera
+        with dissolve
 
-    # u "Hey man, I was just calling you to let you know that your sister got wasted tonight."
-    u "Mec, je t'appelais juste pour te dire que ta soeur s'est déchirée avec de l'alcool, ce soir."
+        sa "*Drunk* Ughhh, whatever!"
 
-# game/v12/scene23a.rpy:512
-translate francais v12_mc_chilling_460dc093:
+        scene v12mor18 # FPP. Sam laying in MC's roomate's bed, back turned to MC as if ignoring him
+        with dissolve
 
-    # ca "YOU'RE WITH MY SISTER?!"
-    ca "T'ES AVEC MA SOEUR ?!"
+        u "Sam?"
 
-# game/v12/scene23a.rpy:517
-translate francais v12_mc_chilling_3f561b6b:
+        sa "*Drunk* Leave me alone."
 
-    # u "(Fuck...) No, no, she's with the girls. They're taking care of her, but I just wanted to let you know that I guess she's drinking again."
-    u "(Putain...) Non, non, elle est avec les autres filles. Elles s'occupent d'elle, mais je voulais juste que tu saches que je crois qu'elle a recommencé à boire."
+        u "Sam, c'mon."
 
-# game/v12/scene23a.rpy:522
-translate francais v12_mc_chilling_11a2ff3e:
+        sa "..."
 
-    # ca "What room is she in?"
-    ca "Elle est dans quelle chambre ?"
+        u "Sam?"
 
-# game/v12/scene23a.rpy:527
-translate francais v12_mc_chilling_0eb27adc:
+        scene v12mor19 # TPP. MC getting out of his bed
+        with dissolve
 
-    # u "I'm not sure, but I'm positive she'll be fine, man. The girls got her. I just wanted you to know."
-    u "Je ne suis pas sûr, mais je suis certain qu'elle ira bien, mec. Les filles l'ont emmenées. Je voulais juste que tu le saches."
+        pause 1
 
-# game/v12/scene23a.rpy:532
-translate francais v12_mc_chilling_2ea0ac2f:
+        scene v12mor20 # FPP. MC Checking on sam sleeping
+        with dissolve
 
-    # ca "*Sighs* Okay, later."
-    ca "*Soupirs* Ok, à plus tard."
+        u "Haha, I've seen this before."
 
-# game/v12/scene23a.rpy:537
-translate francais v12_mc_chilling_59b2f8e8:
+        scene v12mor21 # TPP. MC tucks samantha into the bed
+        with dissolve
 
-    # u "Later man."
-    u "À plus tard, mec."
+        pause 0.75
 
-# game/v12/scene23a.rpy:542
-translate francais v12_mc_chilling_8ee122b6:
+        scene v12mor22 # TPP. MC laying back down on his bed
+        with dissolve
 
-    # ca "Hey, [name]! Wait..."
-    ca "Hé, [name] ! Attends..."
+        menu:
+            "Call Cameron":
+                $ add_point(KCT.BRO)
 
-# game/v12/scene23a.rpy:547
-translate francais v12_mc_chilling_6bcd435f:
+                scene v12mor23 # TPP. MC holding his phone, mouth closed
+                with dissolve
+                u "(*Sighs* He should at least know she's drunk.)"
 
-    # u "Yeah?"
-    u "Ouais ?"
+                scene v12mor24 # TPP. MC with the phone to his ear, mouth closed
+                with dissolve
+                play sound "sounds/answercall.mp3"
 
-# game/v12/scene23a.rpy:552
-translate francais v12_mc_chilling_27f73e2e:
+                pause 0.75
 
-    # ca "It was cool of you to call me. You didn't have to do that, but you did anyway. You're a real Ape, I won't forget this."
-    ca "C'était cool de ta part de m'appeler. Tu n'avais pas à le faire, mais tu l'as fait quand même. Tu es un vrai Ape, je ne l'oublierai pas."
+                scene v12mor25 # TPP. Cameron picks up laying in his bed, mouth opened
+                with dissolve
 
-# game/v12/scene23a.rpy:557
-translate francais v12_mc_chilling_7edc3114:
+                ca "Huh? [name]? What do you want?"
 
-    # u "No worries, Cam. I'd want someone to call me, it's no big deal."
-    u "Ne t'inquiète pas, Cam. Moi aussi, j'aurais voulu qu'on m'appelle, si j'étais dans ta situation."
+                scene v12mor24a # TPP. Same as 24, mouth opened
+                with dissolve
 
-# game/v12/scene23a.rpy:562
-translate francais v12_mc_chilling_970a5ab4:
+                u "Hey man, I was just calling you to let you know that your sister got wasted tonight."
 
-    # ca "No man, it is. Thanks."
-    ca "Non mec, vraiment. Merci."
+                scene v12mor25a # TPP. Same as 25, cameron looking mad, mouth opened
+                with dissolve
 
-# game/v12/scene23a.rpy:567
-translate francais v12_mc_chilling_fd0fbba0:
+                ca "YOU'RE WITH MY SISTER?!"
 
-    # u "You're welcome. Goodnight, bro."
-    u "Je t'en prie. Bonne nuit, frère."
+                scene v12mor24b # TPP. same as 24, MC looking worried, mouth opened
+                with dissolve
 
-# game/v12/scene23a.rpy:572
-translate francais v12_mc_chilling_18ef6597:
+                u "(Fuck...) No, no, she's with the girls. They're taking care of her, but I just wanted to let you know that I guess she's drinking again."
 
-    # ca "Night."
-    ca "'Nuit."
+                scene v12mor25
+                with dissolve
 
-# game/v12/scene23a.rpy:585
-translate francais v12_mc_chilling_2f8b37b4:
+                ca "What room is she in?"
 
-    # u "(Not even gonna attempt to open up that door.)"
-    u "(Je ne vais même pas essayer d'ouvrir cette porte.)"
+                scene v12mor24a
+                with dissolve
 
-# game/v12/scene23a.rpy:591
-translate francais v12_mc_chilling_5b253a9d:
+                u "I'm not sure, but I'm positive she'll be fine, man. The girls got her. I just wanted you to know."
 
-    # u "(Don't know where Riley went, but she's gonna have to deal with Sam from here on out. I'm going to sleep.)"
-    u "(Je ne sais pas où est allée Riley, mais elle va devoir s'occuper de Sam à partir de maintenant. Je vais dormir.)"
+                scene v12mor25
+                with dissolve
 
-# game/v12/scene23a.rpy:593
-translate francais v12_mc_chilling_dc5fc17a:
+                ca "*Sighs* Okay, later."
 
-    # u "(Don't know where Chloe went, but she's gonna have to deal with Sam from here on out. I'm going to sleep.)"
-    u "(Je ne sais pas où Chloé est allée, mais elle va devoir s'occuper de Sam à partir de maintenant. Je vais dormir.)"
+                scene v12mor24a
+                with dissolve
 
-# game/v12/scene23a.rpy:615
-translate francais v12_mc_chilling_fcfea652:
+                u "Later man."
 
-    # u "Hello?"
-    u "Allo ?"
+                scene v12mor25b # TPP. same as 25, Cameron looking grateful, mouth opened
+                with dissolve
 
-# game/v12/scene23a.rpy:620
-translate francais v12_mc_chilling_c8f0086b:
+                ca "Hey, [name]! Wait..."
 
-    # sa "*Drunk* HELLO? CAN YOU HEAR ME?!"
-    sa "*Ivre* ALLO ? TU ENTENDS ?!"
+                scene v12mor24a
+                with dissolve
 
-# game/v12/scene23a.rpy:625
-translate francais v12_mc_chilling_c0174dea:
+                u "Yeah?"
 
-    # u "Sam, are you drunk right now? I thought you weren't drinking?"
-    u "Sam, tu es ivre en ce moment ? Je croyais que tu ne buvais pas ?"
+                scene v12mor25b
+                with dissolve
 
-# game/v12/scene23a.rpy:630
-translate francais v12_mc_chilling_b5561abc_1:
+                ca "It was cool of you to call me. You didn't have to do that, but you did anyway. You're a real Ape, I won't forget this."
 
-    # sa "*Drunk* This is only my first drink."
-    sa "*Ivre* Ce n'est que mon premier verre."
+                scene v12mor24c # TPP. same as 24, MC smiling, mouth opened 
+                with dissolve
 
-# game/v12/scene23a.rpy:635
-translate francais v12_mc_chilling_c05ff2db:
+                u "No worries, Cam. I'd want someone to call me, it's no big deal."
 
-    # u "Fine, I won't push you. Remember you're lightweight though, yeah?"
-    u "Bien, je ne ferai pas pression sur toi. Mais n'oublie pas que tu es une poids plume, hein ?"
+                scene v12mor25b
+                with dissolve
 
-# game/v12/scene23a.rpy:640
-translate francais v12_mc_chilling_d32bea82:
+                ca "No man, it is. Thanks."
 
-    # sa "*Drunk* I'm fine... What are you doing?"
-    sa "*Ivre* Je vais bien... Qu'est-ce que tu fais ?"
+                scene v12mor24c
+                with dissolve
 
-# game/v12/scene23a.rpy:645
-translate francais v12_mc_chilling_78cd7054:
+                u "You're welcome. Goodnight, bro."
 
-    # u "I'm just laying in bed, getting ready to go to sleep."
-    u "Je suis allongé dans mon lit, prêt à m'endormir."
+                scene v12mor25b
+                with dissolve
 
-# game/v12/scene23a.rpy:650
-translate francais v12_mc_chilling_e2c8eb12:
+                ca "Night."
 
-    # sa "*Drunk* Do you miss me?"
-    sa "*Ivre* Je te manque ?"
+                scene v12mor24e # TPP. MC puts his phone away, slight smile
+                with dissolve
+                play sound "sounds/rejectcall.mp3"
 
-# game/v12/scene23a.rpy:657
-translate francais v12_mc_chilling_b06c7866:
+                pause 0.75
 
-    # u "Honestly, yeah. It'd be really nice to have you here right now."
-    u "Franchement, oui. Ce serait très agréable de t'avoir avec moi, là."
+            "Don't call Cameron":
+                $ add_point(KCT.BOYFRIEND)
+                scene v12mor22
+                with dissolve
 
-# game/v12/scene23a.rpy:662
-translate francais v12_mc_chilling_7eac6bdf:
+                u "(Not even gonna attempt to open up that door.)" 
 
-    # sa "*Drunk* Awww, I wish I was there too."
-    sa "*Ivre* Ohhh, j'aimerais être là aussi."
+        scene v12mor22
+        with dissolve
 
-# game/v12/scene23a.rpy:670
-translate francais v12_mc_chilling_dc98431d:
+        if v11_riley_roomate:
+            u "(Don't know where Riley went, but she's gonna have to deal with Sam from here on out. I'm going to sleep.)"
+        else:
+            u "(Don't know where Chloe went, but she's gonna have to deal with Sam from here on out. I'm going to sleep.)"
 
-    # u "Nope, I'm actually super happy that you're not here."
-    u "Non, je suis en fait très content que tu ne sois pas là."
+        scene v12mor27 # TPP. MC shuts down the lights
+        with dissolve
 
-# game/v12/scene23a.rpy:675
-translate francais v12_mc_chilling_45949a66:
+        pause 0.75
 
-    # sa "*Drunk* WHAT!? That's so mean!"
-    sa "*Ivre* QUOI !? C'est si méchant !"
+    else: 
+        play sound "sounds/call.mp3"
 
-# game/v12/scene23a.rpy:680
-translate francais v12_mc_chilling_8e97f976:
+        pause 1.25
 
-    # u "Haha, I'm just messing with you."
-    u "Haha, je me fous de toi."
+        scene v12mor23
+        with dissolve
 
-# game/v12/scene23a.rpy:685
-translate francais v12_mc_chilling_dcd8c01c:
+        pause 1
 
-    # sa "*Drunk* Don't play around like that with me! You scared me... Jerk. *Chuckles*"
-    sa "*Ivre* Ne joue pas à ça avec moi ! Tu m'as fait peur... Enfoiré. *Rire*"
+        scene v12mor24a
+        with dissolve
+        stop sound
+        play sound "sounds/answercall.mp3"
 
-# game/v12/scene23a.rpy:690
-translate francais v12_mc_chilling_43bd6fe7:
+        u "Hello?"
 
-    # u "*Chuckles* My bad."
-    u "*Rire* C'est ma faute."
+        scene v12mor28 # TPP. Samantha drunk holding her phone, screaming, mouth opened
+        with dissolve
 
-# game/v12/scene23a.rpy:695
-translate francais v12_mc_chilling_0d064b04:
+        sa "*Drunk* HELLO? CAN YOU HEAR ME?!"
 
-    # sa "*Drunk* What would you do to me if I was there?"
-    sa "*Ivre* Que me ferais-tu si j'étais là ?"
+        scene v12mor24b
+        with dissolve
 
-# game/v12/scene23a.rpy:700
-translate francais v12_mc_chilling_cdd873e8:
+        u "Sam, are you drunk right now? I thought you weren't drinking?"
 
-    # u "Sam, where are these questions coming from? Where are you right now?"
-    u "Sam, c'est quoi ces questions ? T'es où là ?"
+        scene v12mor28a # TPP. Samantha slight smiling, mouth opened
+        with dissolve
 
-# game/v12/scene23a.rpy:705
-translate francais v12_mc_chilling_6a7b96cf:
+        sa "*Drunk* This is only my first drink."
 
-    # sa "*Drunk* Umm, I don't know..."
-    sa "*ivre* Euh, je ne sais pas..."
+        scene v12mor24b
+        with dissolve
 
-# game/v12/scene23a.rpy:710
-translate francais v12_mc_chilling_8fba2b74:
+        u "Fine, I won't push you. Remember you're lightweight though, yeah?"
 
-    # u "What do you mean you \"don't know\"?"
-    u "Qu'est-ce que tu veux dire par \"je ne sais pas\" ?"
+        scene v12mor28a
+        with dissolve
 
-# game/v12/scene23a.rpy:715
-translate francais v12_mc_chilling_9ac4224b:
+        sa "*Drunk* I'm fine... What are you doing?"
 
-    # sa "*Drunk* What do you mean, what do I mean? How'd you make it into college?!"
-    sa "*Ivre* Qu'est-ce que tu veux dire, qu'est-ce que je veux dire ? Comment t'as réussi à entrer à l'université ?!"
+        scene v12mor24a
+        with dissolve
 
-# game/v12/scene23a.rpy:720
-translate francais v12_mc_chilling_10db1ed0:
+        u "I'm just laying in bed, getting ready to go to sleep."
 
-    # sa "*Drunk* You're so silly... *Laughs*"
-    sa "*Ivre* Tu es si stupide... *Rire*"
+        scene v12mor28a
+        with dissolve
 
-# game/v12/scene23a.rpy:725
-translate francais v12_mc_chilling_a677bde1:
+        sa "*Drunk* Do you miss me?"
 
-    # u "Sam, where's your brother?"
-    u "Sam, où est ton frère ?"
+        menu:
+            "Yes, I miss you":
+                scene v12mor24c 
+                with dissolve
 
-# game/v12/scene23a.rpy:730
-translate francais v12_mc_chilling_5a894b88:
+                u "Honestly, yeah. It'd be really nice to have you here right now."
 
-    # sa "*Drunk* Why does it matter? I don't need him to babysit me."
-    sa "*Ivre* On s'en fout. Je n'ai pas besoin qu'il fasse du baby-sitting."
+                scene v12mor28a
+                with dissolve
 
-# game/v12/scene23a.rpy:735
-translate francais v12_mc_chilling_135d3584:
+                sa "*Drunk* Awww, I wish I was there too."
 
-    # u "I just wanna make sure everything's okay. You have me a little worried. You're calling super late, you don't know where you are, and you're drunk."
-    u "Je veux juste m'assurer que tout va bien. Tu m'inquiètes un peu. Tu appelles super tard, tu ne sais pas où tu es et tu es bourrée."
 
-# game/v12/scene23a.rpy:740
-translate francais v12_mc_chilling_0fd210d6:
+            "No, I don't miss you (Joke)":
+                $ add_point(KCT.TROUBLEMAKER)
+                scene v12mor24a
+                with dissolve
 
-    # sa "*Drunk* Awww, you're worried about me? *Chuckles* You just wanna get into my pants like all the other guys..."
-    sa "*Ivre* Oooh, tu t'inquiètes pour moi ? *Rire* Tu veux juste visiter mon pantalon comme tous les autres gars..."
+                u "Nope, I'm actually super happy that you're not here."
 
-# game/v12/scene23a.rpy:745
-translate francais v12_mc_chilling_8fcbd74f:
+                scene v12mor28
+                with dissolve
 
-    # u "Sam, I'm trying to be serious with you!"
-    u "Sam, j'essaie d'être sérieux avec toi !"
+                sa "*Drunk* WHAT!? That's so mean!"
 
-# game/v12/scene23a.rpy:750
-translate francais v12_mc_chilling_5e46fb6e:
+                scene v12mor24c
+                with dissolve
 
-    # sa "*Drunk* And I actually thought you were a nice guy, but you're just like all the rest..."
-    sa "*Ivre* Et moi qui pensais que tu étais un mec sympa, mais en fait t'es juste comme tous les autres..."
+                u "Haha, I'm just messing with you."
 
-# game/v12/scene23a.rpy:755
-translate francais v12_mc_chilling_5c7a2004:
+                scene v12mor28a
+                with dissolve
 
-    # u "Sam, what the fuck are you talking about? I'm trying to make sure you're okay. Where is y-"
-    u "Sam, de quoi tu parles, bordel ? J'essaie de m'assurer que tu vas bien. Où es-tu..."
+                sa "*Drunk* Don't play around like that with me! You scared me... Jerk. *Chuckles*"
 
-# game/v12/scene23a.rpy:760
-translate francais v12_mc_chilling_a00a1f81:
+                scene v12mor24c
+                with dissolve
 
-    # sa "*Drunk* Forget my number, you stupid fuckboy!"
-    sa "*Ivre* Oublie mon numéro, espèce de connard stupide !"
+                u "*Chuckles* My bad."
 
-# game/v12/scene23a.rpy:767
-translate francais v12_mc_chilling_9c1834ed:
+        scene v12mor28b # TPP. Samantha making a seducing face, mouth opened
+        with dissolve
 
-    # u "Sam? Hello? Hello?!"
-    u "Sam ? Allo ? Allo ?!"
+        sa "*Drunk* What would you do to me if I was there?"
 
-# game/v12/scene23a.rpy:772
-translate francais v12_mc_chilling_7e2f558f:
+        scene v12mor24b
+        with dissolve
 
-    # u "(She hung up on me. Guess I'll call her back.)"
-    u "(Elle m'a raccroché au nez. Je crois que je devrais la rappeler.)"
+        u "Sam, where are these questions coming from? Where are you right now?"
 
-# game/v12/scene23a.rpy:777
-translate francais v12_mc_chilling_77c85861:
+        scene v12mor28a
+        with dissolve
 
-    # u "(Fucking voicemail.)"
-    u "(Putain de répondeur.)"
+        sa "*Drunk* Umm, I don't know..."
 
-# game/v12/scene23a.rpy:789
-translate francais v12_mc_chilling_8d83566c:
+        scene v12mor24b
+        with dissolve
 
-    # u "(*Sighs* He should know that she's drunk.)"
-    u "(*Soupirs* Il devrait savoir qu'elle est bourrée.)"
+        u "What do you mean you \"don't know\"?"
 
-# game/v12/scene23a.rpy:797
-translate francais v12_mc_chilling_b1b4e24f_1:
+        scene v12mor28c # TPP. Sam smiling, mouth opened
+        with dissolve
 
-    # ca "Huh? [name]? What do you want?"
-    ca "Hein ? [name] ? Qu'est-ce que tu veux ?"
+        sa "*Drunk* What do you mean, what do I mean?  How'd you make it into college?!"
 
-# game/v12/scene23a.rpy:802
-translate francais v12_mc_chilling_5dc70826:
+        scene v12mor28c
+        with dissolve
 
-    # u "Hey man, I was just calling you to let you know that your sister's drunk."
-    u "Hé mec, je t'appelais juste pour te dire que ta soeur est bourrée."
+        sa "*Drunk* You're so silly... *Laughs*"
 
-# game/v12/scene23a.rpy:807
-translate francais v12_mc_chilling_7d2637db:
+        scene v12mor24b
+        with dissolve
 
-    # ca "What? How would you know?"
-    ca "Quoi ? Comment tu sais ?"
+        u "Sam, where's your brother?"
 
-# game/v12/scene23a.rpy:812
-translate francais v12_mc_chilling_5a531eea:
+        scene v12mor28d # TPP. Sam looking confused, mouth opened
+        with dissolve
 
-    # u "She just called saying a bunch of crazy shit. She couldn't even tell me where she is right now."
-    u "Elle vient de m'appeler en disant un tas de conneries. Elle ne pouvait même pas me dire où elle était en ce moment."
+        sa "*Drunk* Why does it matter? I don't need him to babysit me."
 
-# game/v12/scene23a.rpy:817
-translate francais v12_mc_chilling_f2b3b5a7:
+        scene v12mor24b
+        with dissolve
 
-    # ca "What did she say?"
-    ca "Qu'est-ce qu'elle a dit ?"
+        u "I just wanna make sure everything's okay. You have me a little worried. You're calling super late, you don't know where you are, and you're drunk."
 
-# game/v12/scene23a.rpy:822
-translate francais v12_mc_chilling_839028bf:
+        scene v12mor28c
+        with dissolve
 
-    # u "None of it made any sense. When I tried figuring out where she was, she hung up and then wouldn't answer when I called back."
-    u "Ça n'avait aucun sens. Quand j'ai essayé de savoir où elle était, elle s'est énervée, a raccroché et n'a pas voulu répondre quand j'ai rappelé."
+        sa "*Drunk* Awww, you're worried about me? *Chuckles* You just wanna get into my pants like all the other guys..."
 
-# game/v12/scene23a.rpy:827
-translate francais v12_mc_chilling_e2dec8ba:
+        scene v12mor24b
+        with dissolve
 
-    # ca "*Sighs* Okay, man."
-    ca "*Soupirs* Ok, mec."
+        u "Sam, I'm trying to be serious with you!"
 
-# game/v12/scene23a.rpy:832
-translate francais v12_mc_chilling_e1f12248:
+        scene v12mor28e # TPP. Sam looking disapointed, mouth opened
+        with dissolve
 
-    # u "Try and figure it out, good luck. Later."
-    u "Essaie de trouver une solution, bonne chance. À plus tard."
+        sa "*Drunk* And I actually thought you were a nice guy, but you're just like all the rest..."
 
-# game/v12/scene23a.rpy:837
-translate francais v12_mc_chilling_ac3f042d:
+        scene v12mor24b
+        with dissolve
 
-    # ca "Hey [name]! Wait..."
-    ca "Hey [name] ! Attends..."
+        u "Sam, what the fuck are you talking about? I'm trying to make sure you're okay. Where is y-"
 
-# game/v12/scene23a.rpy:842
-translate francais v12_mc_chilling_6bcd435f_1:
+        scene v12mor28e
+        with dissolve
 
-    # u "Yeah?"
-    u "Ouais ?"
+        sa "*Drunk* Forget my number, you stupid fuckboy!"
 
-# game/v12/scene23a.rpy:847
-translate francais v12_mc_chilling_27f73e2e_1:
+        play sound "sounds/rejectcall.mp3"
 
-    # ca "It was cool of you to call me. You didn't have to do that, but you did anyway. You're a real Ape, I won't forget this."
-    ca "C'était cool de ta part de m'appeler. Tu n'avais pas à le faire, mais tu l'as fait quand même. Tu es un vrai Ape, je ne l'oublierai pas."
+        scene v12mor24b
+        with dissolve
 
-# game/v12/scene23a.rpy:852
-translate francais v12_mc_chilling_2dbdcd14:
+        u "Sam? Hello? Hello?!"
 
-    # u "I'd want someone to call me too. It's no big deal."
-    u "Je voudrais que quelqu'un m'appelle aussi, si j'étais dans la même situation."
+        scene v12mor24d # TPP. MC looking at his phone, worried face, mouth closed
+        with dissolve
 
-# game/v12/scene23a.rpy:857
-translate francais v12_mc_chilling_970a5ab4_1:
+        u "(She hung up on me. Guess I'll call her back.)"
 
-    # ca "No man, it is. Thanks."
-    ca "Non mec, vraiment. Merci."
+        scene v12mor24
+        with dissolve
 
-# game/v12/scene23a.rpy:862
-translate francais v12_mc_chilling_1916e059:
+        u "(Fucking voicemail.)"
 
-    # u "You're welcome, goodnight bro."
-    u "Je t'en prie. Bonne nuit, frère."
+        scene v12mor24e
+        with dissolve
 
-# game/v12/scene23a.rpy:867
-translate francais v12_mc_chilling_18ef6597_1:
+        menu:
+            "Call Cameron":
+                $ add_point(KCT.BRO)
 
-    # ca "Night."
-    ca "'Nuit."
+                scene v12mor24d
+                with dissolve
 
-# game/v12/scene23a.rpy:879
-translate francais v12_mc_chilling_2f8b37b4_1:
+                u "(*Sighs* He should know that she's drunk.)"
 
-    # u "(Not even gonna attempt to open up that door.)"
-    u "(Je ne vais même pas essayer d'ouvrir cette porte.)"
+                play sound "sounds/answercall.mp3"
 
-# game/v12/scene23a.rpy:885
-translate francais v12_mc_chilling_eb0002bb:
+                pause 0.75
+                scene v12mor25
+                with dissolve
 
-    # u "(Don't know where Riley went, but I'm going to sleep now.)"
-    u "(Je ne sais pas où Riley est allée, mais je vais me coucher, là.)"
+                ca "Huh? [name]? What do you want?"
 
-# game/v12/scene23a.rpy:887
-translate francais v12_mc_chilling_4a726a31:
+                scene v12mor24a
+                with dissolve
 
-    # u "(Don't know where Chloe went, but I'm going to sleep now.)"
-    u "(Je ne sais pas où Chloé est allée, mais je vais me coucher, là.)"
+                u "Hey man, I was just calling you to let you know that your sister's drunk."
 
-translate francais strings:
+                scene v12mor25
+                with dissolve
 
-    # game/v12/scene23a.rpy:148
-    old "What?"
-    new "Quoi ?"
+                ca "What? How would you know?"
 
-    # game/v12/scene23a.rpy:338
-    old "I can beat Cameron"
-    new "Je peux battre Cameron"
+                scene v12mor24a
+                with dissolve
 
-    # game/v12/scene23a.rpy:338
-    old "Not fighting your brother"
-    new "Ne pas se battre contre son frère"
+                u "She just called saying a bunch of crazy shit. She couldn't even tell me where she is right now."
 
-    # game/v12/scene23a.rpy:485
-    old "Call Cameron"
-    new "Appeler Cameron"
+                scene v12mor25
+                with dissolve
 
-    # game/v12/scene23a.rpy:485
-    old "Don't call Cameron"
-    new "Ne pas appeler Cameron"
+                ca "What did she say?"
 
-    # game/v12/scene23a.rpy:652
-    old "Yes, I miss you"
-    new "Oui, tu me manques"
+                scene v12mor24a
+                with dissolve
 
-    # game/v12/scene23a.rpy:652
-    old "No, I don't miss you (Joke)"
-    new "Non, tu ne me manques pas (Blague)"
+                u "None of it made any sense. When I tried figuring out where she was, she hung up and then wouldn't answer when I called back."
+
+                scene v12mor25
+                with dissolve
+
+                ca "*Sighs* Okay, man."
+
+                scene v12mor24a
+                with dissolve
+
+                u "Try and figure it out, good luck. Later."
+
+                scene v12mor25
+                with dissolve
+
+                ca "Hey [name]! Wait..."
+
+                scene v12mor24a
+                with dissolve
+
+                u "Yeah?"
+
+                scene v12mor25b
+                with dissolve
+
+                ca "It was cool of you to call me. You didn't have to do that, but you did anyway. You're a real Ape, I won't forget this."
+
+                scene v12mor24a
+                with dissolve
+
+                u "I'd want someone to call me too. It's no big deal."
+
+                scene v12mor25b
+                with dissolve
+
+                ca "No man, it is. Thanks."
+
+                scene v12mor24a
+                with dissolve
+
+                u "You're welcome, goodnight bro."
+
+                scene v12mor25b
+                with dissolve
+
+                ca "Night."
+
+                scene v12mor24e
+                with dissolve
+
+                pause 0.75
+
+            "Don't call Cameron":
+                $ add_point(KCT.BOYFRIEND)
+                scene v12mor22
+                with dissolve
+
+                u "(Not even gonna attempt to open up that door.)"
+
+        scene v12mor22
+        with dissolve
+
+        if v11_riley_roomate:
+            u "(Don't know where Riley went, but I'm going to sleep now.)"
+        else:
+            u "(Don't know where Chloe went, but I'm going to sleep now.)"
+
+        scene v12mor27
+        with dissolve
+
+        pause 0.75
+        
+    scene v12mor29 # TPP. Same as 22, different position
+    with dissolve
+
+    pause 0.75
+
+    scene black
+    with fade
+    
+    pause 2.25
+
+    stop music fadeout 3
+
+    jump v12_simplr_convo #scene 24

@@ -1,295 +1,331 @@
-﻿# TODO: Translation updated at 2022-01-01 23:58
+# SCENE 36: Lobby with Lindsey 
+# Locations: Hotel Bar, Hotel Room, Hotel Corridor, Hotel Lobby
+# Characters: LINDSEY (Outfit: 1), MC (Outfit: x), BARTENDER (Outfit: 1)
+# Time: Morning
+# Phone Images: None
 
-# game/v12/scene36.rpy:41
-translate francais v12_lindsey_lobby_bc5f4353:
+label v12_lindsey_lobby:
+    scene v12lil1 # TPP. Show MC lying down on his bed, sleeping, in his boxers
+    with fade
 
-    # li "Did I wake you up?"
-    li "Je t'ai réveillé ?"
+    pause 0.75
 
-# game/v12/scene36.rpy:46
-translate francais v12_lindsey_lobby_0a6c8c3d:
+    play music "music/v12/Track Scene 36_1.mp3" fadein 2
 
-    # u "You don't see all the sleep still on my face?"
-    u "Tu ne vois pas le fait que je dors encore sur mon visage ?"
+    play sound "sounds/knock.mp3"
 
-# game/v12/scene36.rpy:51
-translate francais v12_lindsey_lobby_c9a47040:
+    scene v12lil1a # TPP. Same as v12lil1, MC slightly startled, mouth closed, awake
+    with dissolve
 
-    # li "*Chuckles* I need you to come be a good friend and try the hotel breakfast with me."
-    li "*Rire* J'ai besoin que tu sois un bon ami et que tu viennes prendre le petit-déjeuner de l'hôtel avec moi."
+    pause 0.75
 
-# game/v12/scene36.rpy:56
-translate francais v12_lindsey_lobby_69cfaf16:
+    scene v12lil2 # TPP. Show MC putting on his shirt, pants on, neutral expression, mouth closed
+    with dissolve
 
-    # u "Okay... You forgot how to eat? *Chuckles*"
-    u "Ok... Tu ne sais plus comment manger ? *Rire*"
+    pause 0.75
 
-# game/v12/scene36.rpy:61
-translate francais v12_lindsey_lobby_202b72ba:
+    scene v12lil3 # TPP. MC fully dressed, walking towards the hotel room door, mouth closed, neutral expression
+    with dissolve
 
-    # li "No, haha... I just don't wanna go by myself."
-    li "Non, haha... Je ne veux pas y aller toute seule."
+    pause 0.75
 
-# game/v12/scene36.rpy:66
-translate francais v12_lindsey_lobby_6d31e19e:
+    play sound "sounds/dooropen.mp3"
+    scene v12lil4 # FPP. MC looking at the door, hand on handle, going to open the door
+    with dissolve
 
-    # u "*Sighs* Alright, let's go."
-    u "*Soupirs* D'accord, allons-y."
+    pause 0.75
 
-# game/v12/scene36.rpy:81
-translate francais v12_lindsey_lobby_8eae845f:
+    scene v12lil4a # FPP. Same as v12lil4, door open, Lindsey worried, mouth open, looking at MC
+    with dissolve
 
-    # li "Oh! You won't believe what I saw..."
-    li "Oh ! Tu ne vas pas croire ce que j'ai vu..."
+    li "Did I wake you up?"
 
-# game/v12/scene36.rpy:86
-translate francais v12_lindsey_lobby_ef2f1671:
+    scene v12lil4b # FPP. Same as v12lil4a, Lindsey slight smile, mouth closed
+    with dissolve
 
-    # u "What?"
-    u "Quoi ?"
+    u "You don't see all the sleep still on my face?"
 
-# game/v12/scene36.rpy:91
-translate francais v12_lindsey_lobby_3aba6a45:
+    scene v12lil4c # FPP. Same as v12lil4b, Lindsey slight smile, mouth open
+    with dissolve
 
-    # li "Well, I won't say what I saw... but, what I think I saw."
-    li "En fait, je ne dirai pas ce que j'ai vu... mais, ce que je pense avoir vu."
+    li "*Chuckles* I need you to come be a good friend and try the hotel breakfast with me."
 
-# game/v12/scene36.rpy:96
-translate francais v12_lindsey_lobby_ca73a73f:
+    scene v12lil4b
+    with dissolve
 
-    # u "What do you think you saw?"
-    u "Que crois-tu avoir vu ?"
+    u "Okay... You forgot how to eat? *Chuckles*"
 
-# game/v12/scene36.rpy:101
-translate francais v12_lindsey_lobby_9f3e8541:
+    scene v12lil4c
+    with dissolve
 
-    # li "I'm pretty sure I saw Charli with Riley's wallet..."
-    li "Je suis presque sûr d'avoir vu Charli avec le portefeuille de Riley..."
+    li "No, haha... I just don't wanna go by myself."
 
-# game/v12/scene36.rpy:106
-translate francais v12_lindsey_lobby_076e137b:
+    scene v12lil4b
+    with dissolve
 
-    # u "How do you know it was hers?"
-    u "Comment tu sais que c'était le sien ?"
+    u "*Sighs* Alright, let's go."
 
-# game/v12/scene36.rpy:111
-translate francais v12_lindsey_lobby_c4a5a5db:
+    scene v12lil5 # TPP. MC and Lindsey walking in the corridor, both slightly smiling, mouths closed
+    with dissolve
 
-    # li "Well... We went for coffee a long time ago and she paid. So I know it was the same kind of wallet, but I don't wanna assume he stole it."
-    li "Eh bien... Nous sommes allés prendre un café il y a un moment et elle a payé. Donc je sais que c'était le même genre de portefeuille, mais je ne veux pas conclure qu'il l'a volé."
+    pause 0.75
 
-# game/v12/scene36.rpy:116
-translate francais v12_lindsey_lobby_5d997d61:
+    scene v12lil6 # TPP. MC and Lindsey walking in the hotel lobby, both slightly smiling, mouths closed, Riley watching them, she's in the corner, slightly annoyed, mouth closed
+    with dissolve
 
-    # li "Even though it was the exact same wallet she has, I mean... With Charli being you know, gay, I thought it might be possible that he just has the same one."
-    li "Même si c'était exactement le même portefeuille qu'elle, je voulais dire... Charli étant, tu sais, gay, j'ai pensé qu'il était possible qu'il ait le même."
+    pause 0.75
 
-# game/v12/scene36.rpy:121
-translate francais v12_lindsey_lobby_c1b40249:
+    scene v12lil7 # FPP. MC and Lindsey in the lobby, looking at each other, Lindsey slight smile, mouth open
+    with dissolve
 
-    # u "She has her wallet now, but... Something is missing from it and she's been blaming me for taking it, even though I told her a thousand times it wasn't me."
-    u "Elle a récupéré son portefeuille maintenant, mais... Il manque quelque chose et elle me reproche de l'avoir pris, même si je lui ai dit mille fois que ce n'était pas moi."
+    li "Oh! You won't believe what I saw..."
 
-# game/v12/scene36.rpy:126
-translate francais v12_lindsey_lobby_48700b28:
+    scene v12lil7a # FPP. Same as v12lil7, Lindsey slight smile, mouth closed
+    with dissolve
 
-    # li "Oh, well... Maybe Charli took it? That'd be so horrible if he did... I don't think I could look at him the same."
-    li "Oh, eh bien... Peut-être que Charli l'a pris ? Ce serait si horrible s'il avait fait ça... Je ne pense pas que je pourrais le regarder de la même façon."
+    u "What?"
 
-# game/v12/scene36.rpy:131
-translate francais v12_lindsey_lobby_a5e83433:
+    scene v12lil7
+    with dissolve
 
-    # u "You'd look at him exactly how I look at him now."
-    u "Tu le regarderais exactement comme je le regarde maintenant."
+    li "Well, I won't say what I saw... but, what I think I saw."
 
-# game/v12/scene36.rpy:136
-translate francais v12_lindsey_lobby_5e55939c:
+    scene v12lil7a
+    with dissolve
 
-    # li "*Chuckles* You're so mean."
-    li "*Rire* Tu es si méchant."
+    u "What do you think you saw?"
 
-# game/v12/scene36.rpy:141
-translate francais v12_lindsey_lobby_ec061c79:
+    scene v12lil7b # FPP. Same as v12lil7, Lindsey slightly worried, mouth open, different pose
+    with dissolve
 
-    # u "I'm so honest."
-    u "Je suis si honnête."
+    li "I'm pretty sure I saw Charli with Riley's wallet..."
 
-# game/v12/scene36.rpy:151
-translate francais v12_lindsey_lobby_f11e72f1:
+    scene v12lil7c # FPP. Same as v12lil7b, Lindsey slightly worried, mouth closed
+    with dissolve
 
-    # li "Excuse me, but where is the breakfast served?"
-    li "Excusez-moi, mais où est servi le petit-déjeuner ?"
+    u "How do you know it was hers?"
 
-# game/v12/scene36.rpy:156
-translate francais v12_lindsey_lobby_e6face5e:
+    scene v12lil7b
+    with dissolve
 
-    # bartender "I'm sorry Madam, but breakfast is closed."
-    bartender "Je suis désolée Madame, mais le service de petit déjeuner est fermé."
+    li "Well... We went for coffee a long time ago and she paid. So I know it was the same kind of wallet, but I don't wanna assume he stole it."
 
-# game/v12/scene36.rpy:161
-translate francais v12_lindsey_lobby_9279872f:
+    scene v12lil7d # FPP. Same as v12lil7b, different pose
+    with dissolve
 
-    # li "*Sighs* Really? Dang, I really thought this would be the time for it to be open."
-    li "*Soupirs* Vraiment ? Mince, je pensais vraiment que ce serait encore ouvert."
+    li "Even though it was the exact same wallet she has, I mean... With Charli being you know, gay, I thought it might be possible that he just has the same one."
 
-# game/v12/scene36.rpy:166
-translate francais v12_lindsey_lobby_affcf120:
+    scene v12lil7e # FPP. Same as v12lil7b, Lindsey slightly worried, mouth closed
+    with dissolve
 
-    # bartender "Haha, I just like to start the day with a bit of laughter..."
-    bartender "Haha, j'aime juste commencer la journée en riant un peu..."
+    u "She has her wallet now, but... Something is missing from it and she's been blaming me for taking it, even though I told her a thousand times it wasn't me."
 
-# game/v12/scene36.rpy:171
-translate francais v12_lindsey_lobby_f7506b62:
+    scene v12lil7d
+    with dissolve
 
-    # bartender "Breakfast will be served right over there, just take a seat and I'll bring you two some plates."
-    bartender "Le petit-déjeuner sera servi juste là, asseyez-vous et je vous apporte des assiettes."
+    li "Oh, well... Maybe Charli took it? That'd be so horrible if he did... I don't think I could look at him the same."
 
-# game/v12/scene36.rpy:176
-translate francais v12_lindsey_lobby_3c3e8b03:
+    scene v12lil7e
+    with dissolve
 
-    # li "Oh. Haha, thank you so much."
-    li "Oh. Haha, merci beaucoup."
+    u "You'd look at him exactly how I look at him now."
 
-# game/v12/scene36.rpy:189
-translate francais v12_lindsey_lobby_40146bc7:
+    scene v12lil7
+    with dissolve
 
-    # li "*Sighs* One more stop and then we're headed back home."
-    li "*Soupirs* Une dernière étape et ensuite on rentre à la maison."
+    li "*Chuckles* You're so mean."
 
-# game/v12/scene36.rpy:194
-translate francais v12_lindsey_lobby_90b7b465:
+    scene v12lil7a
+    with dissolve
 
-    # u "You seem excited to go back."
-    u "Tu as l'air d'avoir hâte de rentrer."
+    u "I'm so honest."
 
-# game/v12/scene36.rpy:199
-translate francais v12_lindsey_lobby_220e48c6:
+    scene v12lil8 # TPP. Show Lindsey and MC approaching the bartender, all of them slightly smiling, mouths closed (bartender behind the bar)
+    with dissolve
 
-    # li "Honestly, I am. I was really nervous about dealing with Chloe, but the other girls have made me feel very comfortable about my decision."
-    li "Franchement, je le suis. J'étais vraiment nerveuse à l'idée de devoir faire face à Chloé, mais les autres filles m'ont permis de me sentir très à l'aise avec ma décision."
+    pause 0.75
 
-# game/v12/scene36.rpy:204
-translate francais v12_lindsey_lobby_f1c6d628:
+    scene v12lil9 # FPP. Lindsey and MC next to each other, bartender in front of them. MC looking at Lindsey, Lindsey looking at bartender, Lindsey slight smile, mouth open (Only Lindsey in shot)
+    with dissolve
 
-    # u "How so?"
-    u "Comment ça ?"
+    li "Excuse me, but where is the breakfast served?"
 
-# game/v12/scene36.rpy:209
-translate francais v12_lindsey_lobby_e79ebefc:
+    scene v12lil10 # FPP. Same positioning as v12lil9, MC looking at bartender, bartender looking at Lindsey, bartender slight smile, mouth open (Only Bartender in shot)
+    with dissolve
 
-    # li "They have the same complaints I have. Most of us girls seem to be on the same page that Chloe is the problem."
-    li "Elles ont les mêmes reproches à faire que moi. La plupart d'entre nous, les filles, semblent être d'accord pour dire que c'est Chloé le problème."
+    bartender "I'm sorry Madam, but breakfast is closed."
 
-# game/v12/scene36.rpy:214
-translate francais v12_lindsey_lobby_51cbab07:
+    scene v12lil9a # FPP. Same as v12lil9, Lindsey slightly sad, mouth open
+    with dissolve
 
-    # u "Well, you know I don't get in the middle of all that, but I'm glad the sorority is starting to have a single vision."
-    u "Tu sais que je ne me mêle pas de tout ça, mais je suis bien content de voir que la fraternité commence à avoir une même vision."
+    li "*Sighs* Really? Dang, I really thought this would be the time for it to be open."
 
-# game/v12/scene36.rpy:219
-translate francais v12_lindsey_lobby_9401dfe1:
+    scene v12lil10
+    with dissolve
 
-    # u "I'll be happy to see the result of all this. Good or bad, it'll be entertaining. *Chuckles*"
-    u "Je serai heureux de voir le résultat de tout ça. Bon ou mauvais, ce sera divertissant. *Rire*"
+    bartender "Haha, I just like to start the day with a bit of laughter..."
 
-# game/v12/scene36.rpy:224
-translate francais v12_lindsey_lobby_45a5a17e:
+    scene v12lil10a # FPP. Same as v12lil10, bartender pointing at the table, bartender slight smile, mouth open
+    with dissolve
 
-    # li "You and Amber both say a lot of the same stuff... *Chuckles*"
-    li "Toi et Amber dites beaucoup de choses similaires...  *Rire*"
+    bartender "Breakfast will be served right over there, just take a seat and I'll bring you two some plates."
 
-# game/v12/scene36.rpy:229
-translate francais v12_lindsey_lobby_f6c1bdde:
+    scene v12lil9
+    with dissolve
 
-    # u "Ha, really? What do you mean?"
-    u "Ha, vraiment ? Qu'est-ce que tu veux dire ?"
+    li "Oh. Haha, thank you so much."
 
-# game/v12/scene36.rpy:234
-translate francais v12_lindsey_lobby_482ffcaf:
+    scene v12lil11 # TPP. Show MC and Lindsey midway through sitting down on the chairs in the table, both slightly smiling, mouths closed
+    with dissolve
 
-    # li "You guys just say some similar stuff sometimes, haha."
-    li "Vous dites parfois les mêmes choses, haha."
+    pause 0.75
 
-# game/v12/scene36.rpy:239
-translate francais v12_lindsey_lobby_42260fc3:
+    stop music fadeout 3
+    play music "music/v12/Track Scene 36_2.mp3" fadein 2
 
-    # u "Nah, she just says stuff like me. I'm the original. *Chuckles*"
-    u "Nah, c'est juste elle qui dit des trucs comme moi. C'est moi l'original. *Rire*"
+    scene v12lil12 # FPP. MC and Lindsey sitting down, looking at each other, Lindsey slightly worried, mouth open
+    with dissolve
 
-# game/v12/scene36.rpy:244
-translate francais v12_lindsey_lobby_5ba300cb:
+    li "*Sighs* One more stop and then we're headed back home."
 
-    # li "Oh, yes. Of course, my bad. *Chuckles*"
-    li "Oh, oui. Bien sûr, suis-je bête.  *Rire*"
+    scene v12lil12a # FPP. Same as v12lil12, Lindsey slightly worried, mouth closed
+    with dissolve
 
-# game/v12/scene36.rpy:249
-translate francais v12_lindsey_lobby_065a05b4:
+    u "You seem excited to go back."
 
-    # bartender "Please, enjoy."
-    bartender "Je vous souhaite un bon appétit."
+    scene v12lil12
+    with dissolve
 
-# game/v12/scene36.rpy:254
-translate francais v12_lindsey_lobby_e7ae3a38:
+    li "Honestly, I am. I was really nervous about dealing with Chloe, but the other girls have made me feel very comfortable about my decision."
 
-    # li "Thank you!"
-    li "Merci."
+    scene v12lil12a
+    with dissolve
 
-# game/v12/scene36.rpy:259
-translate francais v12_lindsey_lobby_ccd53b23:
+    u "How so?"
 
-    # u "Thank you."
-    u "Merci."
+    scene v12lil12
+    with dissolve
 
-# game/v12/scene36.rpy:264
-translate francais v12_lindsey_lobby_e069ba7e:
+    li "They have the same complaints I have. Most of us girls seem to be on the same page that Chloe is the problem."
 
-    # bartender "My pleasure."
-    bartender "Je vous en prie."
+    scene v12lil12a
+    with dissolve
 
-# game/v12/scene36.rpy:269
-translate francais v12_lindsey_lobby_e66012a8:
+    u "Well, you know I don't get in the middle of all that, but I'm glad the sorority is starting to have a single vision."
 
-    # li "Dig in, [name]."
-    li "Vas-y [name], attaque."
+    scene v12lil12b # FPP. Same as v12lil12a, Lindsey slight smile, mouth closed, different pose
+    with dissolve
 
-# game/v12/scene36.rpy:274
-translate francais v12_lindsey_lobby_094d7f63:
+    u "I'll be happy to see the result of all this. Good or bad, it'll be entertaining. *Chuckles*"
 
-    # u "No problem with that..."
-    u "Aucun problème..."
+    scene v12lil12c # FPP. Same as v12lil12b, Lindsey slight smile, mouth open
+    with dissolve
 
-# game/v12/scene36.rpy:289
-translate francais v12_lindsey_lobby_9a070eb3:
+    li "You and Amber both say a lot of the same stuff... *Chuckles*"
 
-    # li "Yummy! Wayyy better than American hotel food. *Chuckles* I knew it was worth trying out."
-    li "Délicieux ! Biennnn meilleure que la nourriture des hôtels américains. *Rire* Je savais que ça valait le coup d'essayer."
+    scene v12lil12b
+    with dissolve
 
-# game/v12/scene36.rpy:294
-translate francais v12_lindsey_lobby_4a4237d1:
+    u "Ha, really? What do you mean?"
 
-    # u "It was preee-tttty good."
-    u "C'était teeeeellement bon !"
+    scene v12lil12c
+    with dissolve
 
-# game/v12/scene36.rpy:299
-translate francais v12_lindsey_lobby_c59a8542:
+    li "You guys just say some similar stuff sometimes, haha."
 
-    # li "Alright, I'm gonna go get Nora up. She has to try this food before they close. Thanks for eating with me."
-    li "Bon, je vais aller chercher Nora. Elle doit absolument goûter à cette nourriture avant qu'ils ne ferment. Merci d'avoir mangé avec moi."
+    scene v12lil12b
+    with dissolve
 
-# game/v12/scene36.rpy:304
-translate francais v12_lindsey_lobby_e2675108:
+    u "Nah, she just says stuff like me. I'm the original. *Chuckles*"
 
-    # u "Of course, thanks for getting me up."
-    u "Pas de problème, merci à toi de m'avoir réveillé."
+    scene v12lil12c
+    with dissolve
 
-# game/v12/scene36.rpy:309
-translate francais v12_lindsey_lobby_305d3cb0:
+    li "Oh, yes. Of course, my bad. *Chuckles*"
 
-    # li "Haha, no problem."
-    li "Haha, pas de problème."
+    scene v12lil13 # FPP. Same positioning as v12lil12, bartender standing next to table, holding plate with food, MC looking at bartender, bartender looking at MC, bartender slight smile (Only bartender in shot)
+    with dissolve
 
-# game/v12/scene36.rpy:326
-translate francais v12s36_riley_text_3faef724:
+    bartender "Please, enjoy."
 
-    # u "(I should probably reply.)"
-    u "(Je devrais probablement répondre.)"
+    scene v12lil12d # FPP. Same as v12lil12, Lindsey looking at bartender, Lindsey slight smile, mouth open
+    with dissolve
+
+    li "Thank you!"
+
+    scene v12lil13a # FPP. Same as v12lil13, bartender mouth closed, slight smile
+    with dissolve
+
+    u "Thank you."
+
+    scene v12lil13
+    with dissolve
+
+    bartender "My pleasure."
+
+    scene v12lil12e # FPP. Same as v12lil12c, Lindsey slight smile, mouth open, food on table
+    with dissolve
+
+    li "Dig in, [name]."
+
+    scene v12lil12f # FPP. Same as v12lil12e, Lindsey slight smile, mouth closed
+    with dissolve
+
+    u "No problem with that..."
+
+    scene v12lil12g # FPP. Same as v12lil12f, Lindsey eating (less food on plate)
+    with dissolve
+
+    pause 0.75
+
+    scene v12lil12h # FPP. Same as v12lil12g, even less food on plate, Lindsey eating, different pose
+    with dissolve
+
+    pause 0.75
+
+    scene v12lil12i # FPP. Same as v12lil12e, empty plate, Lindsey slight smile, mouth open
+    with dissolve
+
+    li "Yummy! Wayyy better than American hotel food. *Chuckles* I knew it was worth trying out."
+
+    scene v12lil12j # FPP. Same as v12lil12i, Lindsey slight smile, mouth closed
+    with dissolve
+
+    u "It was preee-tttty good."
+
+    scene v12lil12i
+    with dissolve
+
+    li "Alright, I'm gonna go get Nora up. She has to try this food before they close. Thanks for eating with me."
+
+    scene v12lil12j
+    with dissolve
+
+    u "Of course, thanks for getting me up."
+
+    scene v12lil12i
+    with dissolve
+
+    li "Haha, no problem."
+
+    scene v12lil12k # FPP. Same as v12lil12, Lindsey no longer sitting in front of MC, empty chair
+    with dissolve
+
+    pause 0.75
+    play sound "sounds/vibrate.mp3"
+
+    pause 2
+
+    $ riley.messenger.newMessage("Hey, I saw you were having breakfast with Lindsey, can you come to the cafe down the road when you're done? I have something to talk to you about in private.", force_send=True)
+    $ riley.messenger.addReply("Sure, on my way", func=None)
+
+    label v12s36_riley_text:
+        if riley.messenger.replies:
+            call screen phone
+        if riley.messenger.replies:
+            u "(I should probably reply.)"
+            jump v12s36_riley_text
+
+    stop music fadeout 3
+
+    jump v12_riley_ending #scene 37

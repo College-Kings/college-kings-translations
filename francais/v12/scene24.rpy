@@ -1,62 +1,81 @@
-﻿# TODO: Translation updated at 2021-12-29 17:39
+# SCENE 24: Mc goes to bed
+# Locations: Hotel Room
+# Characters: MC (Outfit: 11)
+# Time: Night
+# Phone Images: None
 
-# game/v12/scene24.rpy:19
-translate francais v12_simplr_convo_c0497226:
+label v12_simplr_convo:
+    scene v12sic1 # TPP. Show MC waking up in the middle of the night slightly confused, mouth closed, looking at the ceiling
+    with dissolve
 
-    # u "(Oh shit, how the fuck did I get back here? Damn, that was crazy!)"
-    u "(Oh merde, comment je suis revenu ici ? Putain, c'était dingue !)"
+    pause 0.75
 
-# game/v12/scene24.rpy:24
-translate francais v12_simplr_convo_0fa55aff:
+    play music "music/v12/Track Scene 24.mp3" fadein 2
 
-    # u "(I need to sleep this off, but I'm kind of wide awake right now. I'll just check out my phone.)"
-    u "(J'ai besoin de dormir pour oublier ça, mais je suis plutôt bien réveillé en ce moment. Je vais juste regarder mon téléphone)."
+    if "v12_rose" in sceneList:
+        scene v12sic1a # TPP. Same as v12sic1, MC awake, looking at the ceiling, slight smile, mouth closed
+        with dissolve
 
-# game/v12/scene24.rpy:30
-translate francais v12_simplr_convo_aeeb154a:
+        u "(Oh shit, how the fuck did I get back here? Damn, that was crazy!)"
 
-    # u "(Randomly waking up in the middle of the night, with nothing to do except stare at the wall, yayyy.)"
-    u "(Se réveiller subitement au milieu de la nuit, et ne rien faire à part regarder le mur, ouaiiiis)."
+        scene v12sic1b # TPP. Same as v12sic1a, MC in a different pose
+        with dissolve
 
-# game/v12/scene24.rpy:35
-translate francais v12_simplr_convo_9d27cce1:
+        u "(I need to sleep this off, but I'm kind of wide awake right now. I'll just check out my phone.)"
 
-    # u "(Guess I can check out my phone.)"
-    u "(Je pense que je peux regarder sur mon téléphone.)"
+    else:
+        scene v12sic1c # TPP. Same as v12sic1, MC awake, looking at the ceiling, neutral expression, mouth closed
+        with dissolve
 
-# game/v12/scene24.rpy:40
-translate francais v12_simplr_convo_2e66f1eb:
+        u "(Randomly waking up in the middle of the night, with nothing to do except stare at the wall, yayyy.)"
 
-    # u "(Haven't checked out Simplr in a while.)"
-    u "(Je n'ai pas consulté Simplr depuis un moment.)"
+        scene v12sic1d # TPP. Same as v12sic1c, MC different pose
+        with dissolve
 
-# game/v12/scene24.rpy:62
-translate francais v12_simplr_convo_c0f47f91:
+        u "(Guess I can check out my phone.)"
 
-    # u "(Very interesting... *Chuckles* Now, I need to sleep.)"
-    u "(Très intéressant... *Rire* Maintenant, j'ai besoin de dormir.)"
+    scene v12sic1e # TPP. Same as v12sic1, MC on his phone, looking at it, neutral expression, mouth closed
+    with dissolve
 
-# game/v12/scene24.rpy:68
-translate francais v12_simplr_convo_89080957:
+    u "(Haven't checked out Simplr in a while.)"
 
-    # u "(Well, no matches, I'm just gonna take my sorry ass to sleep.)"
-    u "(Eh bien, pas de matchs, je vais aller dormir sur la béquille.)"
-# TODO: Translation updated at 2022-01-18 10:42
+    if emmy.simplr in simplr_contacts:
+        $ v12s24_emmymatch = True
 
-# game/v12/scene24.rpy:60
-translate francais v12s24_PhoneContinueEmmy_581b2cbc:
+        $ emmy.simplr.newMessage("Hey handsome, I was hoping I'd match with you. Where are you from?", force_send=True)
+        $ emmy.simplr.addReply("I'm actually in Paris right now, but I'm from California. Wbu?")
+        $ emmy.simplr.newMessage("Wow, my distance settings are way off. I'm from Amsterdam.")
+        $ emmy.simplr.addReply("Haha, call it a coincidence, but I'm actually headed to Amsterdam here soon.")
+        $ emmy.simplr.newMessage("Wowww, guess I got a headstart on all the other Amsterdam chicks huh?")
+        $ emmy.simplr.addReply("Ha, I'm thinking I'm the lucky one.")
+        $ emmy.simplr.newMessage("There's actually a Simplr event they do regularly here, you should stop by when you come and maybe we'll run into each other.")
+        $ emmy.simplr.addReply("I'll definitely look into that.")
+        $ emmy.simplr.newMessage("Good, I know it's late so goodnight handsome ;)")
+        $ emmy.simplr.addReply("Goodnight ;)")
 
-    # u "(I should check Simplr.)"
-    u "(Je devrais consulter Simplr.)"
+        label v12s24_PhoneContinueEmmy:
+            if emmy.simplr.replies:
+                call screen phone
+            if emmy.simplr.replies:
+                u "(I should check Simplr.)"
+                jump v12s24_PhoneContinueEmmy
 
-# game/v12/scene24.rpy:66
-translate francais v12s24_PhoneContinueEmmy_c0f47f91:
+        scene v12sic1a
+        with dissolve
 
-    # u "(Very interesting... *Chuckles* Now, I need to sleep.)"
-    u "(Très intéressant... *Rire* Maintenant, il faut que je dorme.)"
+        u "(Very interesting... *Chuckles* Now, I need to sleep.)"
+    
+    else:
+        scene v12sic1c
+        with dissolve
 
-# game/v12/scene24.rpy:72
-translate francais v12s24_PhoneContinueEmmy_89080957:
+        u "(Well, no matches, I'm just gonna take my sorry ass to sleep.)"
 
-    # u "(Well, no matches, I'm just gonna take my sorry ass to sleep.)"
-    u "(Eh bien, pas de rencontres, je vais devoir dormir sur la béquille.)"
+    scene v12sic1f # TPP. Show MC sleeping again
+    with dissolve
+
+    pause 0.75
+
+    stop music fadeout 3
+
+    jump v12_julia_call #scene 25

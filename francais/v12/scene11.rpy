@@ -1,437 +1,420 @@
-﻿# TODO: Translation updated at 2021-12-22 17:42
+# SCENE 11: At the hotel in Paris
+# Locations: Hotel lobby, lobby private area, hotel corridor and in front of room
+# Characters: IMRE (Outfit: 2), MS. ROSE (Outfit: 1), CHRIS (Outfit: 2), AMBER (Outfit: 1), LAUREN (Outfit: 3), MC (Outfit: 1), NORA (Outfit: 1)
+# Time: Night
 
-# game/v12/scene11.rpy:17
-translate francais v12_paris_hotel_beee7dc7:
+label v12_paris_hotel:
+    scene v12pht1 # TPP. All students are gathered in the lobby
+    with fade
+    
+    pause 0.75
 
-    # imre "How do we travel for hours and end up right back at the same hotel?"
-    imre "Comment on peut voyager pendant des heures et s'retrouver au même hôtel ?"
+    play music "music/v12/Track Scene 11.mp3" fadein 2
 
-# game/v12/scene11.rpy:22
-translate francais v12_paris_hotel_1732a8f4:
+    scene v12pht2 # FPP. Looking at imre, mouth opened
+    with dissolve
 
-    # ro "It's a chain hotel. Peace Hotels isn't just one hotel, there's hundreds of them all over the world."
-    ro "C'est une chaîne d'hôtels. Peace Hotels n'est pas qu'un seul hôtel, il y en a des centaines dans le monde entier."
+    imre "How do we travel for hours and end up right back at the same hotel?"
 
-# game/v12/scene11.rpy:27
-translate francais v12_paris_hotel_6e304614:
+    scene v12pht2a # FPP. Looking at ms rose, mouth opened
+    with dissolve
 
-    # imre "Ohhhh."
+    ro "It's a chain hotel. Peace Hotels isn't just one hotel, there's hundreds of them all over the world."
+
+    scene v12pht2
+    with dissolve
+
     imre "Ohhhh."
 
-# game/v12/scene11.rpy:32
-translate francais v12_paris_hotel_6c60edc6:
+    scene v12pht2b # FPP. Now looking at chris, mouth opened
+    with dissolve
 
-    # ch "You know I love ya man, but you lose your marbles sometimes."
-    ch "Tu sais que je t'aime mec, mais t'es vraiment con, parfois."
+    ch "You know I love ya man, but you lose your marbles sometimes."
 
-# game/v12/scene11.rpy:37
-translate francais v12_paris_hotel_cce61b74:
+    scene v12pht2
+    with dissolve
 
-    # imre "I blame it on being a good fighter, can't focus on much else."
-    imre "C'est parce que j'suis un bon combattant, j'peux pas m'concentrer sur autre chose."
+    imre "I blame it on being a good fighter, can't focus on much else."
 
-# game/v12/scene11.rpy:42
-translate francais v12_paris_hotel_2e8d14ae:
+    scene v12pht2c # FPP. Same as 2b, chris smiling
+    with dissolve
 
-    # ch "Haha, good shit."
-    ch "Haha, c'est de la bonne came."
+    ch "Haha, good shit."
 
-# game/v12/scene11.rpy:54
-translate francais v12_paris_hotel_efb39dba:
+    scene v12pht3 # FPP. Chris and Imre high five
+    with dissolve
 
-    # ro "Alright, well. It's very late and regardless of whether or not you slept on the way here, I imagine you're all very tired."
-    ro "Bon, eh bien. Il est très tard et que vous ayez dormi ou non en venant ici, j'imagine que vous êtes tous très fatigués."
+    play sound "sounds/ks.mp3"
 
-# game/v12/scene11.rpy:55
-translate francais v12_paris_hotel_d2566df3:
+    pause 0.75
 
-    # ro "So let me get through this as smoothly as possible. Your sleeping arrangements will be the same as last time."
-    ro "Alors laissez-moi faire ça le plus simplement possible. Vous dormirez dans les mêmes conditions que la dernière fois."
+    scene v12pht2a
+    with dissolve
 
-# game/v12/scene11.rpy:60
-translate francais v12_paris_hotel_f88a45a3:
+    ro "Alright, well. It's very late and regardless of whether or not you slept on the way here, I imagine you're all very tired."
+    ro "So let me get through this as smoothly as possible. Your sleeping arrangements will be the same as last time."
 
-    # am "Wait, I have to be with Lauren again?"
-    am "Attendez, je dois encore être avec Lauren ?"
+    scene v12pht2d # FPP. Amber looking worried, mouth opened
+    with dissolve
 
-# game/v12/scene11.rpy:65
-translate francais v12_paris_hotel_1332c800:
+    am "Wait, I have to be with Lauren again?"
 
-    # la "*Shocked* Was I that bad?"
-    la "*Choquée* J'étais si mauvaise que ça ?"
+    scene v12pht2e # FPP. Lauren looking shocked, mouth opened
+    with dissolve
 
-# game/v12/scene11.rpy:70
-translate francais v12_paris_hotel_3cf6c797:
+    la "*Shocked* Was I that bad?"
 
-    # am "Haha, no I'm just teasing."
-    am "Haha, non, je te taquine."
+    scene v12pht2f # FPP. Same as 2d, amber smiling
+    with dissolve
 
-# game/v12/scene11.rpy:75
-translate francais v12_paris_hotel_b4e00689:
+    am "Haha, no I'm just teasing."
 
-    # la "Don't say things like that! I started getting self-conscious..."
-    la "Ne dis pas des choses pareilles ! Je commençais à être gênée..."
+    scene v12pht2e
+    with dissolve
 
-# game/v12/scene11.rpy:80
-translate francais v12_paris_hotel_33c58ca1:
+    la "Don't say things like that! I started getting self-conscious..."
 
-    # ro "Please grab your keys from the counter and get checked in."
-    ro "Veuillez prendre vos clés au comptoir et vous enregistrer."
+    scene v12pht2a
+    with dissolve
 
-# game/v12/scene11.rpy:86
-translate francais v12_paris_hotel_310fb929:
+    ro "Please grab your keys from the counter and get checked in."
 
-    # u "(Me and Chloe again.)"
-    u "(Encore Chloé et moi.)"
+    if not v11_riley_roomate:
+        scene v12pht4 # TPP. MC grabs the key from the counter
+        with dissolve
 
-# game/v12/scene11.rpy:92
-translate francais v12_paris_hotel_a0e4f25f:
+        u "(Me and Chloe again.)"
 
-    # u "(Me and Riley again.)"
-    u "(Encore Riley et moi.)"
+    else:
+        scene v12pht4 
+        with dissolve
 
-# game/v12/scene11.rpy:107
-translate francais v12_paris_hotel_6bcd435f:
+        u "(Me and Riley again.)"
 
-    # u "Yeah?"
-    u "Ouais ?"
+    scene v12pht5 # TPP. MC at the counter, nora taps him on the shoulder
+    with dissolve
 
-# game/v12/scene11.rpy:112
-translate francais v12_paris_hotel_68e3641b:
+    pause 0.75
 
-    # no "I know it's not a secret that Chris and I aren't in the best place, but it's not cool for you to be talking about it to other people."
-    no "Je sais que ce n'est pas un secret que Chris et moi ne sommes pas au mieux, mais ce n'est pas cool que tu en parles à d'autres personnes."
+    scene v12pht6 # TPP. MC turns arround and looks at nora
+    with dissolve
 
-# game/v12/scene11.rpy:117
-translate francais v12_paris_hotel_1e28937f:
+    pause 1.25
 
-    # u "What are you talking about?"
-    u "Qu'est-ce que tu racontes ?"
+    scene v12pht7 # FPP. Looking at nora, mouth closed
+    with dissolve
 
-# game/v12/scene11.rpy:122
-translate francais v12_paris_hotel_8498b284:
+    u "Yeah?"
 
-    # no "Charli told me you've been telling him stuff about me and Chris."
-    no "Charli m'a dit que tu lui as dit des choses sur Chris et moi."
+    scene v12pht7a # FPP. Same as 7, nora looking uneasy, mouth opened
+    with dissolve
 
-# game/v12/scene11.rpy:127
-translate francais v12_paris_hotel_fcc18885:
+    no "I know it's not a secret that Chris and I aren't in the best place, but it's not cool for you to be talking about it to other people."
 
-    # u "*Laughs*"
-    u "*Rire*"
+    scene v12pht7
+    with dissolve
 
-# game/v12/scene11.rpy:132
-translate francais v12_paris_hotel_3e88dae9:
+    u "What are you talking about?"
 
-    # no "I don't see what's so funny."
-    no "Je ne vois pas ce qu'il y a de drôle."
+    scene v12pht7a
+    with dissolve
 
-# game/v12/scene11.rpy:137
-translate francais v12_paris_hotel_afbb0d9e:
+    no "Charli told me you've been telling him stuff about me and Chris."
 
-    # u "I don't even fuck with Charli enough to say hi to him. What makes you think I'd bother to have a full on conversation with him about one of my friends?"
-    u "Je ne parle même pas assez à Charli pour lui dire bonjour. Qu'est-ce qui te fait penser que je prendrais la peine d'avoir une conversation avec lui, à propos d'une de mes amies ?"
+    scene v12pht7
+    with dissolve
 
-# game/v12/scene11.rpy:143
-translate francais v12_paris_hotel_abac9aa7:
+    u "*Laughs*"
 
-    # no "Mhmm, you sure you're just a friend? We don't try to kiss our friends, remember?"
-    no "Mhmm, tu es sûr que tu es juste un ami ? On n'essaie pas d'embrasser ses amis, tu te souviens ?"
+    scene v12pht7b # FPP. Same as 7a, nora looking mad, mouth opened
+    with dissolve
 
-# game/v12/scene11.rpy:148
-translate francais v12_paris_hotel_67c1ac2f:
+    no "I don't see what's so funny."
 
-    # u "*Sighs* I really thought we were past that, Nora. I wasn't trying to disrespect you."
-    u "*Soupirs* Je pensais vraiment qu'on avait dépassé ça, Nora. Je n'essayais pas de te manquer de respect."
+    scene v12pht7 
+    with dissolve
 
-# game/v12/scene11.rpy:153
-translate francais v12_paris_hotel_ac150208:
+    u "I don't even fuck with Charli enough to say hi to him. What makes you think I'd bother to have a full on conversation with him about one of my friends?"
 
-    # no "*Chuckles* If you say so..."
-    no "*Rire* Si tu le dis..."
+    if v11_kiss_nora:
+        scene v12pht7b
+        with dissolve
 
-# game/v12/scene11.rpy:158
-translate francais v12_paris_hotel_fbde4177:
+        no "Mhmm, you sure you're just a friend? We don't try to kiss our friends, remember?"
 
-    # no "Hmm... I will admit, it did seem odd to me that you would be talking to Charli."
-    no "Hmm... Je dois admettre que ça m'a paru bizarre que tu parles à Charli."
+        scene v12pht7
+        with dissolve
 
-# game/v12/scene11.rpy:163
-translate francais v12_paris_hotel_1a458fc8:
+        u "*Sighs* I really thought we were past that, Nora. I wasn't trying to disrespect you."
 
-    # u "Yeah, very odd. Thanks for introducing me to that guy, by the way."
-    u "Ouais, très bizarre. Merci de m'avoir présenté ce type, au fait."
+        scene v12pht7c # FPP. Nora slight smile, mouth opened
+        with dissolve
 
-# game/v12/scene11.rpy:168
-translate francais v12_paris_hotel_ea0a6525:
+        no "*Chuckles* If you say so..."
 
-    # no "Haha, you're welcome."
-    no "Haha, de rien."
+    scene v12pht7a
+    with dissolve
 
-# game/v12/scene11.rpy:173
-translate francais v12_paris_hotel_8569c4fa:
+    no "Hmm... I will admit, it did seem odd to me that you would be talking to Charli."
 
-    # u "*Chuckles*"
-    u "*Rire*"
+    scene v12pht7
+    with dissolve
 
-# game/v12/scene11.rpy:178
-translate francais v12_paris_hotel_30e8b747:
+    u "Yeah, very odd. Thanks for introducing me to that guy, by the way."
 
-    # no "Sorry for jumping to conclusions. My mind hasn't been all there lately. Charli was just trying to stir shit up I guess."
-    no "Désolée d'avoir tiré des conclusions hâtives. Je n'avais pas toute ma tête ces derniers temps. Charli cherchait juste à remuer la merde pour m'éloigner de toi, je pense."
+    scene v12pht7c
+    with dissolve
 
-# game/v12/scene11.rpy:183
-translate francais v12_paris_hotel_32192906:
+    no "Haha, you're welcome."
 
-    # u "Or trying to cause more issues between you and Chris."
-    u "Ou de causer plus de problèmes entre toi et Chris."
+    scene v12pht7
+    with dissolve
 
-# game/v12/scene11.rpy:188
-translate francais v12_paris_hotel_c7ad3007:
+    u "*Chuckles*"
 
-    # no "There aren't many more issues we could have."
-    no "Je pense que c'est difficile d'avoir plus de problèmes."
+    scene v12pht7a
+    with dissolve
 
-# game/v12/scene11.rpy:193
-translate francais v12_paris_hotel_09332657:
+    no "Sorry for jumping to conclusions. My mind hasn't been all there lately. Charli was just trying to stir shit up I guess."
 
-    # u "What do you mean?"
-    u "Comment ça ?"
+    scene v12pht7
+    with dissolve
 
-# game/v12/scene11.rpy:203
-translate francais v12_paris_hotel_cd87c198:
+    u "Or trying to cause more issues between you and Chris."
 
-    # no "C'mon."
-    no "Viens."
+    scene v12pht7a
+    with dissolve
 
-# game/v12/scene11.rpy:213
-translate francais v12_paris_hotel_90c09ed5:
+    no "There aren't many more issues we could have."
 
-    # no "I don't know how to say it, so... I'm just gonna do it."
-    no "Je ne sais pas comment le dire, alors... Je vais juste le faire."
+    scene v12pht7 
+    with dissolve
 
-# game/v12/scene11.rpy:218
-translate francais v12_paris_hotel_a237f4e1:
+    u "What do you mean?"
 
-    # no "Chris and I have been dating for years now, right? It feels like we've always just been together, to the point that neither of us lived our own lives."
-    no "Tu sais que Chris et moi sortons ensemble depuis des années maintenant ? C'est comme si nous avions toujours été ensemble, au point qu'aucun de nous ne menait sa propre vie."
+    scene v12pht7d # FPP. Nora looks arround
+    with dissolve
 
-# game/v12/scene11.rpy:219
-translate francais v12_paris_hotel_52ad94fd:
+    pause 0.75
 
-    # no "And I'm not saying I want to break up with Chris or anything like that..."
-    no "Et je ne dis pas que je veux rompre avec Chris ou quelque chose comme ça..."
+    scene v12pht7e # FPP. Nora signals for MC to follow her, mouth opened
+    with dissolve
 
-# game/v12/scene11.rpy:227
-translate francais v12_paris_hotel_88ff208d:
+    no "C'mon."
 
-    # no "I'm just sort of losing confidence in our relationship as it is. I feel we could've done better by getting to know ourselves before we got together."
-    no "Je perds juste un peu confiance dans notre relation actuelle. Je pense qu'on aurait dû se connaitre davantage avant de se mettre ensemble."
+    scene v12pht8 # TPP. MC and nora go to a private area in the lobby
+    with dissolve
 
-# game/v12/scene11.rpy:228
-translate francais v12_paris_hotel_654e3c5d:
+    pause 0.75
 
-    # no "That way we actually knew the person we were getting with instead of figuring that out along the way."
-    no "De cette façon, nous connaîtrions vraiment la personne avec laquelle nous sommes au lieu de se découvrir en cours de route."
+    scene v12pht9 # FPP. Nora looking uneasy, mouth opened
+    with dissolve
 
-# game/v12/scene11.rpy:233
-translate francais v12_paris_hotel_7bdc6672:
+    no "I don't know how to say it, so... I'm just gonna do it."
 
-    # u "Is Chris really not the same person he was when you guys first got together?"
-    u "Chris est-il devenu si différent de ce qu'il était au début de votre relation ?"
+    scene v12pht9
+    with dissolve
 
-# game/v12/scene11.rpy:238
-translate francais v12_paris_hotel_5fbd7f4b:
+    no "Chris and I have been dating for years now, right? It feels like we've always just been together, to the point that neither of us lived our own lives."
+    no "And I'm not saying I want to break up with Chris or anything like that..."
 
-    # no "God no, he's changed a lot. He's way more confident, for one. There's been a lot of positive changes, but there's also been... other changes too."
-    no "Oh oui, il a beaucoup changé. Il est beaucoup plus confiant, pour commencer. Il y a eu beaucoup de choses positives, mais il y a aussi eu... d'autres changements."
+    scene v12pht9a
+    with dissolve
 
-# game/v12/scene11.rpy:243
-translate francais v12_paris_hotel_de72585c:
+    scene v12pht9
+    with dissolve
 
-    # u "Bad changes?"
-    u "De mauvaises choses ?"
+    no "I'm just sort of losing confidence in our relationship as it is. I feel we could've done better by getting to know ourselves before we got together."
+    no "That way we actually knew the person we were getting with instead of figuring that out along the way."
 
-# game/v12/scene11.rpy:248
-translate francais v12_paris_hotel_036658ed:
+    scene v12pht9a # FPP. Same as 9, mouth closed
+    with dissolve
 
-    # no "See, I wouldn't say they're bad, but just not good for me. People can call me what they want, but I like spending a lot of time with my partner, and Chris and I used to spend time together all the time."
-    no "Tu vois, je ne dirais pas que ce sont de mauvaises choses, mais juste qu'elles ne sont pas bonnes pour moi. Les gens peuvent dire ce qu'ils veulent, mais j'aime passer beaucoup de temps avec mon partenaire. Et Chris et moi passions beaucoup de temps ensemble."
+    u "Is Chris really not the same person he was when you guys first got together?"
 
-# game/v12/scene11.rpy:249
-translate francais v12_paris_hotel_62309e88:
+    scene v12pht9
+    with dissolve
 
-    # no "So it's not like I'm expecting anything new."
-    no "Donc ce n'est pas comme si j'attendais quelque chose de nouveau."
+    no "God no, he's changed a lot. He's way more confident, for one. There's been a lot of positive changes, but there's also been... other changes too."
 
-# game/v12/scene11.rpy:257
-translate francais v12_paris_hotel_d679b51a:
+    scene v12pht9a
+    with dissolve
 
-    # no "He basically just stopped giving me the amount of attention that he used to give me. If he acted the way he does now, back then, I'm not saying we wouldn't have dated..."
-    no "Il a tout simplement arrêté d'être aussi attentionné qu'avant. S'il avait agi comme il le fait maintenant, à l'époque, il est clair que nous ne serions pas sortis ensemble..."
+    u "Bad changes?"
 
-# game/v12/scene11.rpy:258
-translate francais v12_paris_hotel_9d066fef:
+    scene v12pht9
+    with dissolve
 
-    # no "But I wouldn't be expecting as much as I am from him. I just wish he wouldn't have changed."
-    no "Mais je n'attendrais pas autant de lui qu'avant. J'aimerais juste qu'il n'ait pas autant changé."
+    no "See, I wouldn't say they're bad, but just not good for me. People can call me what they want, but I like spending a lot of time with my partner, and Chris and I used to spend time together all the time."
+    no "So it's not like I'm expecting anything new."
 
-# game/v12/scene11.rpy:263
-translate francais v12_paris_hotel_a924d051:
+    scene v12pht9a
+    with dissolve
 
-    # u "Feel kinda swindled?"
-    u "Tu te sens un peu flouée ?"
+    scene v12pht9
+    with dissolve
 
-# game/v12/scene11.rpy:268
-translate francais v12_paris_hotel_60bdac76:
+    no "He basically just stopped giving me the amount of attention that he used to give me. If he acted the way he does now, back then, I'm not saying we wouldn't have dated..."
+    no "But I wouldn't be expecting as much as I am from him. I just wish he wouldn't have changed."
 
-    # no "Something like that? But, I'm not just gonna back out you know, I do love him. I've spent most of my life with that man and I have a lot of good memories with him."
-    no "Quelque chose comme ça... Mais, je ne vais pas faire marche arrière, tu sais, je l'aime vraiment. J'ai passé une bonne partie de ma vie avec lui et nous avons beaucoup de bons souvenirs ensemble."
+    scene v12pht9a
+    with dissolve
 
-# game/v12/scene11.rpy:273
-translate francais v12_paris_hotel_aad22e55:
+    u "Feel kinda swindled?"
 
-    # u "That's very loyal of you. I can only imagine how much you've been through together."
-    u "C'est très respectable de ta part. Je ne peux qu'imaginer tout ce que vous avez traversé ensemble."
+    scene v12pht9
+    with dissolve
 
-# game/v12/scene11.rpy:278
-translate francais v12_paris_hotel_182822cf:
+    no "Something like that? But, I'm not just gonna back out you know, I do love him. I've spent most of my life with that man and I have a lot of good memories with him."
 
-    # no "Haha, Chris used to be so corny."
-    no "Haha, Chris avait l'habitude d'être si cucul."
+    scene v12pht9a
+    with dissolve
 
-# game/v12/scene11.rpy:283
-translate francais v12_paris_hotel_c75499d4:
+    u "That's very loyal of you. I can only imagine how much you've been through together."
 
-    # u "Ha, really? That's hard to imagine."
-    u "Ha, vraiment ? C'est difficile à imaginer."
+    scene v12pht9b # FPP. Nora slight smile, mouth opened
+    with dissolve
 
-# game/v12/scene11.rpy:288
-translate francais v12_paris_hotel_7fa71476:
+    no "Haha, Chris used to be so corny."
 
-    # no "Believe it. I'm telling you, he's changed a lot as we've gotten older. He just..."
-    no "Crois-le. Je te le dis, il a beaucoup changé avec le temps. Il a juste..."
+    scene v12pht9a
+    with dissolve
 
-# game/v12/scene11.rpy:298
-translate francais v12_paris_hotel_8b4aabeb:
+    u "Ha, really? That's hard to imagine."
 
-    # u "You okay?"
-    u "Tu vas bien ?"
+    scene v12pht9
+    with dissolve
 
-# game/v12/scene11.rpy:303
-translate francais v12_paris_hotel_49460ea8:
+    no "Believe it. I'm telling you, he's changed a lot as we've gotten older. He just..."
 
-    # no "Yeah, it's just a lot, you know? Never thought I'd be in a situation like this."
-    no "Ouais, c'est juste un peu trop, tu sais ? Je n'ai jamais pensé que je serais dans une telle situation."
+    scene v12pht9c # FPP. Nora puts her head down and wipes her eyes as if tearing up
+    with dissolve
 
-# game/v12/scene11.rpy:311
-translate francais v12_paris_hotel_5c38fef0:
+    pause 1.25
 
-    # u "I'm not going to pick sides or try to sway you one way or the other, I don't feel like that's my place."
-    u "Je ne vais pas prendre parti ou essayer de t'influencer dans un sens ou dans l'autre, ce n'est pas mon rôle."
+    scene v12pht9d # FPP. nora looking at mc, tear in her eyes, mouth closed
+    with dissolve
 
-# game/v12/scene11.rpy:312
-translate francais v12_paris_hotel_3a261279:
+    u "You okay?"
 
-    # u "I'm friends with both of you so, as your friend, I'm going to support any decision you make. No matter what it is."
-    u "Je suis votre ami à tous les deux, donc, en tant qu'ami, je vous soutiendrai dans vos décisions. Peu importe ce que c'est."
+    scene v12pht9e # FPP. Same as 9d, mouth opened
+    with dissolve
 
-# game/v12/scene11.rpy:317
-translate francais v12_paris_hotel_b9d7650e:
+    no "Yeah, it's just a lot, you know? Never thought I'd be in a situation like this."
 
-    # no "I really appreciate that. Like for real. Thanks, [name]!"
-    no "J'apprécie vraiment ça. Pour de vrai. Merci, [name] !"
+    menu:
+        "Support her choice":
+            $ add_point(KCT.BOYFRIEND)
+            scene v12pht9d
+            with dissolve
 
-# game/v12/scene11.rpy:322
-translate francais v12_paris_hotel_d950ac57:
+            u "I'm not going to pick sides or try to sway you one way or the other, I don't feel like that's my place."
+            u "I'm friends with both of you so, as your friend, I'm going to support any decision you make. No matter what it is."
 
-    # u "That's what FRIENDS are for. *Chuckles*"
-    u "C'est à ça que servent les AMIS. *Rire*"
+            scene v12pht9e
+            with dissolve
 
-# game/v12/scene11.rpy:330
-translate francais v12_paris_hotel_359de266:
+            no "I really appreciate that. Like for real. Thanks, [name]!"
 
-    # u "You know, I'm sure deep down Chris is still the exact same person you fell in love with. He's just in situations now that divide his time up in a way that they didn't before."
-    u "Tu sais, je suis sûr qu'au fond, Chris est toujours le même que celui dont tu es tombée amoureuse. Il est juste dans des situations qui lui prennent beaucoup plus de temps qu'avant."
+            scene v12pht9d
+            with dissolve
 
-# game/v12/scene11.rpy:331
-translate francais v12_paris_hotel_a9b5c396:
+            u "That's what FRIENDS are for. *Chuckles*"
 
-    # u "I bet if all the other distractions weren't a factor, you'd be the only thing on his mind."
-    u "Je parie que si il n'y avait pas toutes les autres distractions, tu serais la seule chose à laquelle il penserait."
+        "Help Chris":
+            $ v12_help_chris += 1
+            $ add_point(KCT.BRO)
+            scene v12pht9d
+            with dissolve
 
-# game/v12/scene11.rpy:336
-translate francais v12_paris_hotel_319183db:
+            u "You know, I'm sure deep down Chris is still the exact same person you fell in love with. He's just in situations now that divide his time up in a way that they didn't before."
+            u "I bet if all the other distractions weren't a factor, you'd be the only thing on his mind."
 
-    # no "I'd like to believe that is true."
-    no "J'aimerais bien le croire."
+            scene v12pht9f # FPP. Same as 9e, still crying, slight smile, mouth opened
+            with dissolve
 
-# game/v12/scene11.rpy:341
-translate francais v12_paris_hotel_91a0c13b:
+            no "I'd like to believe that is true."
 
-    # u "I'm really sure it is."
-    u "Je suis vraiment sûr que c'est le cas."
+            scene v12pht9d
+            with dissolve
 
-# game/v12/scene11.rpy:351
-translate francais v12_paris_hotel_f4ca360f:
+            u "I'm really sure it is."
 
-    # no "Charli chose the wrong person to try and make me mad at, huh?"
-    no "Charli a choisi la mauvaise cible après qui me mettre en colère, hein ?"
+    scene v12pht9g # FPP. Nora wiping the tear off her face
+    with dissolve
 
-# game/v12/scene11.rpy:356
-translate francais v12_paris_hotel_28fc7c99:
+    pause 0.75
 
-    # u "Definitely."
-    u "Carrément."
+    scene v12pht9b 
+    with dissolve
 
-# game/v12/scene11.rpy:361
-translate francais v12_paris_hotel_c49a6a8b:
+    no "Charli chose the wrong person to try and make me mad at, huh?"
 
-    # no "Should I turn the tables and have a little \"mind your own business\" talk with him?"
-    no "Tu crois que je devrais retourner la situation et avoir une petite discussion \"mêle-toi de tes affaires\" avec lui ?"
+    scene v12pht9h # FPP. Same as 9b, mouth closed
+    with dissolve
 
-# game/v12/scene11.rpy:369
-translate francais v12_paris_hotel_8d84c8b7:
+    u "Definitely."
 
-    # u "You know I'd love to see that."
-    u "J'adorerais voir ça."
+    scene v12pht9b 
+    with dissolve
 
-# game/v12/scene11.rpy:374
-translate francais v12_paris_hotel_cade2afe:
+    no "Should I turn the tables and have a little \"mind your own business\" talk with him?"
 
-    # no "Haha, I'll think about it."
-    no "Haha, j'y penserai."
+    menu:
+        "Yes":
+            $ add_point(KCT.TROUBLEMAKER)
+            scene v12pht9h
+            with dissolve
 
-# game/v12/scene11.rpy:381
-translate francais v12_paris_hotel_52c18e31:
+            u "You know I'd love to see that."
 
-    # u "Haha, no. Let's just leave it alone. He technically isn't hurting anyone but himself."
-    u "Haha, non. Laissons-le tranquille. En fait, il ne fait de mal à personne d'autre qu'à lui-même."
+            scene v12pht9b
+            with dissolve
 
-# game/v12/scene11.rpy:386
-translate francais v12_paris_hotel_7ac38324:
+            no "Haha, I'll think about it."
 
-    # no "True, very true."
-    no "C'est vrai, complètement vrai."
+        "No":
+            $ add_point(KCT.BOYFRIEND)
+            scene v12pht9h 
+            with dissolve
 
-# game/v12/scene11.rpy:391
-translate francais v12_paris_hotel_4db34376:
+            u "Haha, no. Let's just leave it alone. He technically isn't hurting anyone but himself."
 
-    # no "Well, thanks for talking to me. I'll let you get to your room, don't want your roommate freaking out."
-    no "Merci beaucoup de m'avoir parlé. Je te laisse aller dans ta chambre, je ne veux pas que ta colocataire panique."
+            scene v12pht9b 
+            with dissolve
 
-# game/v12/scene11.rpy:396
-translate francais v12_paris_hotel_c68ba4b5:
+            no "True, very true."
 
-    # u "Haha, sounds good. You know where to find me if you need me."
-    u "Haha, ça marche. Tu sais où me trouver si tu as besoin de moi."
+    scene v12pht9b
+    with dissolve
 
-translate francais strings:
+    no "Well, thanks for talking to me. I'll let you get to your room, don't want your roommate freaking out."
 
-    # game/v12/scene11.rpy:305
-    old "Support her choice"
-    new "Soutenir son choix"
+    scene v12pht9h
+    with dissolve
 
-    # game/v12/scene11.rpy:305
-    old "Help Chris"
-    new "Aider Chris"
+    u "Haha, sounds good. You know where to find me if you need me."
+
+    scene v12pht9i # FPP. Nora leaving back turned to the camera
+    with dissolve
+
+    pause 0.75
+
+    scene v12pht10 # TPP. MC walking off the lobby
+    with dissolve
+
+    pause 0.75
+
+    scene v12crm1 # TPP. MC in the hotel corridor heading to his room
+    with dissolve
+
+    pause 0.75
+
+    scene v12pht12 # TPP. MC at his hotel door
+    with dissolve
+    play sound "sounds/dooropen.mp3"
+
+    pause 0.75
+    stop music fadeout 3
+
+    jump v12_room_chloe_riley #scene 12

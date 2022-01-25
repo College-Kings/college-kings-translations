@@ -1,349 +1,379 @@
-﻿# TODO: Translation updated at 2021-12-22 19:28
+# SCENE 12: At the room with chloe or riley
+# Locations: Hotel room
+# Characters: MC (Outfit: 1), CHLOE (Outfit: 3), RILEY (Outfit: 3)
+# Time: Night
 
-# game/v12/scene12.rpy:11
-translate francais v12_room_chloe_riley_77642ce4:
+label v12_room_chloe_riley:
+    if not v11_riley_roomate:
+        scene v12crm2 # FPP. MC looking at chloe laying down on her bed, mouth closed
+        with dissolve
 
-    # u "Hey, hey. Thanks for checking us in."
-    u "Hey, hey. Merci de nous avoir enregistrés."
+        u "Hey, hey. Thanks for checking us in."
 
-# game/v12/scene12.rpy:18
-translate francais v12_room_chloe_riley_7c1862f4:
+        play music "music/v12/Track Scene 12_1.mp3" fadein 2
 
-    # cl "No worries, I was too excited to finally get in here and lay down. I'm so fucking tired right now, ha."
-    cl "Pas de soucis, j'étais trop excitée d'arriver enfin ici et de m'allonger. Je suis tellement fatiguée là."
+        scene v12crm2a # FPP. same as 2, smiling and mouth opened
+        with dissolve
 
-# game/v12/scene12.rpy:23
-translate francais v12_room_chloe_riley_306b8985:
+        cl "No worries, I was too excited to finally get in here and lay down. I'm so fucking tired right now, ha."
 
-    # u "You didn't sleep on the ferry?"
-    u "Tu n'as pas dormi sur le ferry ?"
+        scene v12crm2
+        with dissolve
 
-# game/v12/scene12.rpy:28
-translate francais v12_room_chloe_riley_1e845caa:
+        u "You didn't sleep on the ferry?"
 
-    # cl "Barely, I was so uncomfortable. Not only that, but I spent the first two hours walking around playing a poor girl... Not very fun by the way if you were wondering. *Chuckles*"
-    cl "A peine, j'étais tellement mal à l'aise. Non seulement ça, mais j'ai également passé les deux premières heures à marcher en jouant une fille pauvre... Pas très amusant d'ailleurs si tu te posais la question. *Rire*"
+        scene v12crm2a
+        with dissolve
 
-# game/v12/scene12.rpy:33
-translate francais v12_room_chloe_riley_c33647aa:
+        cl "Barely, I was so uncomfortable. Not only that, but I spent the first two hours walking around playing a poor girl... Not very fun by the way if you were wondering. *Chuckles*"
 
-    # u "Oh, I thought you'd enjoy being poor. *Chuckles* I was actually the one that suggested it to Mr. Lee."
-    u "Oh, je pensais que tu aimerais être pauvre. *Rire* En fait, c'est moi qui l'ai suggéré à Mr Lee."
+        scene v12crm2
+        with dissolve
 
-# game/v12/scene12.rpy:38
-translate francais v12_room_chloe_riley_eea0ca00:
+        u "Oh, I thought you'd enjoy being poor. *Chuckles* I was actually the one that suggested it to Mr. Lee."
 
-    # cl "YOU WHAT?! No you didn't [name], I swear I'll fight you right now. You better be joking!"
-    cl "TU QUOI ? ! Non, tu n'as pas fait ça [name], je te jure que je vais te frapper là. Tu as intérêt à plaisanter !"
+        scene v12crm2b # FPP. Chloe looking mad, mouth opened
+        with dissolve
 
-# game/v12/scene12.rpy:43
-translate francais v12_room_chloe_riley_2909bfc7:
+        cl "YOU WHAT?! No you didn't [name], I swear I'll fight you right now. You better be joking!"
 
-    # u "Goodness, you really didn't like acting poor. *Chuckles*"
-    u "Oh putain, tu n'as vraiment pas aimé jouer les pauvres. *Rire*"
+        scene v12crm2
+        with dissolve
 
-# game/v12/scene12.rpy:51
-translate francais v12_room_chloe_riley_2cb92cb1:
+        u "Goodness, you really didn't like acting poor. *Chuckles*"
 
-    # u "Honestly, I had nothing to do with his choices."
-    u "Sans déconner, je n'ai rien à voir avec ses choix."
+        menu:
+            "Truth":
+                $ add_point(KCT.BOYFRIEND)
+                scene v12crm2
+                with dissolve
 
-# game/v12/scene12.rpy:56
-translate francais v12_room_chloe_riley_d63ce988:
+                u "Honestly, I had nothing to do with his choices."
 
-    # cl "Mhmm, sure. I'll be keeping my eyes on you."
-    cl "Mhmm, bien sûr. Je vais garder un oeil sur toi."
+                scene v12crm2c # FPP. Same as 2a, slight smile
+                with dissolve
 
-# game/v12/scene12.rpy:63
-translate francais v12_room_chloe_riley_c7059226:
+                cl "Mhmm, sure. I'll be keeping my eyes on you."
 
-    # u "I knew you wouldn't. Mr. Lee said he didn't think it was a good idea but I insisted."
-    u "Je savais que tu ne voulais pas ça. Mr Lee a dit qu'il ne pensait pas que c'était une bonne idée mais j'ai insisté."
+            "Lie":
+                $ add_point(KCT.TROUBLEMAKER)
+                scene v12crm2 
+                with dissolve
 
-# game/v12/scene12.rpy:78
-translate francais v12_room_chloe_riley_c359b3c7:
+                u "I knew you wouldn't. Mr. Lee said he didn't think it was a good idea but I insisted."
 
-    # cl "Jerk. *Chuckles* People have been making fun of me all day after that."
-    cl "Crétin. *Rire* Les autres se sont moqués de moi toute la journée après ça."
+                scene v12crm2d # FPP. Chloe grabs a pillow, looking mad
+                with dissolve
 
-# game/v12/scene12.rpy:83
-translate francais v12_room_chloe_riley_78ca42c6:
+                pause 0.75
 
-    # u "*Laughs* You didn't find it funny?"
-    u "*Rire* T'as pas trouvé ça drôle ?"
+                scene v12crm3 # TPP. Chloe throws the pillow at MC still looking mad
+                with dissolve
 
-# game/v12/scene12.rpy:88
-translate francais v12_room_chloe_riley_4ebab2eb:
+                pause 0.6
 
-    # cl "No, I didn't."
-    cl "Non, pas du tout."
+                scene v12crm2c
+                with dissolve
 
-# game/v12/scene12.rpy:93
-translate francais v12_room_chloe_riley_0acb2f70:
+                cl "Jerk. *Chuckles* People have been making fun of me all day after that."
 
-    # u "Haha, fine. This year I'll come by the shelter and donate some soup to you. Would you like a coat too, for the winter?"
-    u "Haha, bon. Cette année, je passerai au refuge et je te donnerai de la soupe. Voudras-tu aussi un manteau, pour l'hiver ?"
+                scene v12crm2
+                with dissolve
 
-# game/v12/scene12.rpy:98
-translate francais v12_room_chloe_riley_f388b65d:
+                u "*Laughs* You didn't find it funny?"
 
-    # cl "I'm going to actually kill you."
-    cl "Je vais vraiment te tuer."
+                scene v12crm2c
+                with dissolve
 
-# game/v12/scene12.rpy:103
-translate francais v12_room_chloe_riley_f039ddae:
+                cl "No, I didn't."
 
-    # u "Haha! You know I'm just joking right? I had nothing to do with his choices."
-    u "Haha ! J'espère que tu sais que je plaisante, n'est-ce pas ? Je n'ai rien à voir avec ses choix."
+                scene v12crm2
+                with dissolve
 
-# game/v12/scene12.rpy:108
-translate francais v12_room_chloe_riley_d63ce988_1:
+                u "Haha, fine. This year I'll come by the shelter and donate some soup to you. Would you like a coat too, for the winter?"
 
-    # cl "Mhmm, sure. I'll be keeping my eyes on you."
-    cl "Mhmm, bien sûr. Je vais garder un oeil sur toi."
+                scene v12crm2b
+                with dissolve
 
-# game/v12/scene12.rpy:113
-translate francais v12_room_chloe_riley_296836e5:
+                cl "I'm going to actually kill you."
 
-    # u "Haha, you do that."
-    u "Haha, je pense bien que tu le feras."
+                scene v12crm2
+                with dissolve
 
-# game/v12/scene12.rpy:129
-translate francais v12_room_chloe_riley_f680d8d5:
+                u "Haha! You know I'm just joking right? I had nothing to do with his choices."
 
-    # cl "Want me to wake you up in the morning?"
-    cl "Tu veux que je te réveille le matin ?"
+                scene v12crm2c
+                with dissolve
 
-# game/v12/scene12.rpy:134
-translate francais v12_room_chloe_riley_594821b9:
+                cl "Mhmm, sure. I'll be keeping my eyes on you."
 
-    # u "That'd be nice."
-    u "Ça serait sympa."
+        scene v12crm2
+        with dissolve
 
-# game/v12/scene12.rpy:139
-translate francais v12_room_chloe_riley_ee887e4a:
+        u "Haha, you do that."
 
-    # cl "Okay, goodnight jerk."
-    cl "Ok, bonne nuit, crétin."
+        scene v12crm4 # TPP. MC turns off the lights
+        with dissolve
 
-# game/v12/scene12.rpy:144
-translate francais v12_room_chloe_riley_36cba503:
+        pause 0.75
 
-    # u "Goodnight you poor, poor girl. *Chuckles*"
-    u "Bonne nuit, pauvre, pauvre fille. *Rire*"
+        scene v12crm5 # TPP. MC lays on his bed with his hands behind his head
+        with dissolve
 
-# game/v12/scene12.rpy:170
-translate francais v12_room_chloe_riley_21073d39:
+        pause 0.75
 
-    # u "Oh, would you look at that. The poor girl must be seeking warmth."
-    u "Oh, regardez-moi ça. La pauvre fille doit chercher à se réchauffer."
+        if chloe.relationship < Relationship.FWB:
+            scene v12crm6 # FPP. MC now laying on his bed, lights off, looking at chloe on her bed, mouth opened
+            with dissolve
 
-# game/v12/scene12.rpy:175
-translate francais v12_room_chloe_riley_6493a9f3:
+            cl "Want me to wake you up in the morning?"
 
-    # cl "Oh, hush."
-    cl "Oh, chut !"
+            scene v12crm6a # FPP. Same as 6, mouth closed
+            with dissolve
 
-# game/v12/scene12.rpy:180
-translate francais v12_room_chloe_riley_8569c4fa:
+            u "That'd be nice."
 
-    # u "*Chuckles*"
-    u "*Rire*"
+            scene v12crm6b # FPP. Same as 6, smiling
+            with dissolve
 
-# game/v12/scene12.rpy:185
-translate francais v12_room_chloe_riley_f680d8d5_1:
+            cl "Okay, goodnight jerk."
 
-    # cl "Want me to wake you up in the morning?"
-    cl "Tu veux que je te réveille le matin ?"
+            scene v12crm6a
+            with dissolve
 
-# game/v12/scene12.rpy:190
-translate francais v12_room_chloe_riley_5c7f5a31:
+            u "Goodnight you poor, poor girl. *Chuckles*"
 
-    # u "Yeah, that'd be nice."
-    u "Ça serait sympa."
+            scene v12crm7 # TPP. Image of MC sleeping
+            with dissolve
 
-# game/v12/scene12.rpy:195
-translate francais v12_room_chloe_riley_720f3546:
+            pause 1
 
-    # cl "Okay, night."
-    cl "Ok, bonne nuit."
+            scene black
+            with dissolve
+            
+            pause 2
 
-# game/v12/scene12.rpy:200
-translate francais v12_room_chloe_riley_eed73f59:
+        else:
+            scene v12crm8 # TPP. Chloe gets up out of her bed, lights off
+            with dissolve
 
-    # u "Night babe."
-    u "Bonne nuit, bébé."
+            pause 1.25
 
-# game/v12/scene12.rpy:217
-translate francais v12_room_chloe_riley_f8ca7fa8:
+            scene v12crm9 # TPP. Chloe lays on MCs chest, lights off
+            with dissolve
 
-    # ri "About time! What were you doing, plotting your next murder?"
-    ri "Pas trop tôt ! Qu'est-ce que tu faisais, tu complotais ton prochain meurtre ?"
+            pause 1.25
 
-# game/v12/scene12.rpy:224
-translate francais v12_room_chloe_riley_1924254e:
+            scene v12crm10 # FPP. Chloe now laying on MCs chest, mouth closed, lights off
+            with dissolve
 
-    # u "Haha, no."
-    u "Haha, non."
+            u "Oh, would you look at that. The poor girl must be seeking warmth."
 
-# game/v12/scene12.rpy:229
-translate francais v12_room_chloe_riley_eae8c357:
+            scene v12crm10a # FPP. Same as 10, mouth opened
+            with dissolve
 
-    # ri "It bothers me that it was you the whole time. You're really good at deceiving people, and I don't know if that's a good thing or not."
-    ri "Ça m'ennuie que ce soit toi tout le temps. Tu es vraiment doué pour tromper les gens, et je ne sais pas si c'est une bonne chose ou pas."
+            cl "Oh, hush."
 
-# game/v12/scene12.rpy:234
-translate francais v12_room_chloe_riley_451709f0:
+            scene v12crm10 
+            with dissolve
 
-    # u "Neither do I, but I'm leaning towards good. *Chuckles*"
-    u "Moi non plus je ne sais pas, mais je pencherais plutôt pour le bien. *Rire*"
+            u "*Chuckles*"
 
-# game/v12/scene12.rpy:239
-translate francais v12_room_chloe_riley_e6ce9835:
+            scene v12crm10a
+            with dissolve
 
-    # ri "Okay, but like... HOW? There were times where I was like \"okay maybe it's him\", but then I felt like I was just being biased."
-    ri "Ok, mais genre... COMMENT ? À certains moments, je me disais : \"OK, c'est peut-être lui\", mais ensuite, j'avais l'impression d'être partiale."
+            cl "Want me to wake you up in the morning?"
 
-# game/v12/scene12.rpy:244
-translate francais v12_room_chloe_riley_dd1306ad:
+            scene v12crm10
+            with dissolve
 
-    # u "Biased? So you wanted me to be the killer?"
-    u "Partiale ? Donc tu voulais que je sois le tueur ?"
+            u "Yeah, that'd be nice."
 
-# game/v12/scene12.rpy:249
-translate francais v12_room_chloe_riley_c27ab3f6:
+            scene v12crm10a
+            with dissolve
 
-    # ri "Yeah, of course. You were doing a bunch of suspicious shit but, everyone was being a little sus. Some people were even acting like the killer just to throw people off the trail..."
-    ri "Oui, bien sûr. Tu as fait un tas de trucs suspects, mais tout le monde était un peu suspect. Certaines personnes agissaient même comme le tueur juste pour brouiller les pistes..."
+            cl "Okay, night."
 
-# game/v12/scene12.rpy:250
-translate francais v12_room_chloe_riley_f8006aac:
+            scene v12crm10
+            with dissolve
 
-    # ri "Damn imposters. Should've just trusted my gut and kept a better eye on you."
-    ri "Satanés imposteurs. J'aurais dû faire confiance à mon instinct et garder davantage un oeil sur toi."
+            u "Night babe."
 
-# game/v12/scene12.rpy:255
-translate francais v12_room_chloe_riley_ebd169f1:
+            scene v12crm11 # TPP. Chloe and MC sleeping
+            with dissolve
 
-    # u "Shoulda, woulda, coulda. It's over now. *Chuckles*"
-    u "Shoulda, woulda, coulda. C'est fini maintenant. *Rire*"
+            pause 1.75
 
-# game/v12/scene12.rpy:260
-translate francais v12_room_chloe_riley_f8e847a7:
+            scene black
+            with dissolve
+            
+            pause 2
 
-    # ri "You're a lot slicker than I thought... Maybe I just lowkey realized something about you that I didn't see before."
-    ri "Tu es beaucoup plus rusé que je ne le pensais... Peut-être que j'ai juste découvert quelque chose sur toi que je n'avais pas vu avant."
+    else: 
 
-# game/v12/scene12.rpy:265
-translate francais v12_room_chloe_riley_1b528e75:
+        scene v12crm12 # FPP. Now in the room, riley on her bed, slight smile, mouth opened
+        with dissolve
 
-    # u "Like what?"
-    u "Comme quoi ?"
+        ri "About time! What were you doing, plotting your next murder?"
 
-# game/v12/scene12.rpy:270
-translate francais v12_room_chloe_riley_17935d73:
+        play music "music/v12/Track Scene 12_2.mp3" fadein 2
 
-    # ri "I don't know, maybe some of the stuff Charli says is right."
-    ri "Je ne sais pas, peut-être que certaines des choses que Charli dit sont exactes."
+        scene v12crm12a # FPP. looking at riley, mouth closed
+        with dissolve
 
-# game/v12/scene12.rpy:275
-translate francais v12_room_chloe_riley_c55e299f:
+        u "Haha, no."
 
-    # u "Oh no, please. Don't let that shit get into your head."
-    u "Oh non, s'il te plaît. Ne laisse pas cette pourriture entrer dans ta tête."
+        scene v12crm12
+        with dissolve
 
-# game/v12/scene12.rpy:280
-translate francais v12_room_chloe_riley_3a464622:
+        ri "It bothers me that it was you the whole time. You're really good at deceiving people, and I don't know if that's a good thing or not."
 
-    # ri "Haha, I knew that'd hit a nerve. Did you get any sleep on the ferry?"
-    ri "Haha, je savais que ça allait toucher une corde sensible. Tu as pu dormir sur le ferry ?"
+        scene v12crm12a
+        with dissolve
 
-# game/v12/scene12.rpy:285
-translate francais v12_room_chloe_riley_756ee6f7:
+        u "Neither do I, but I'm leaning towards good. *Chuckles*"
 
-    # u "Barely."
-    u "À peine."
+        scene v12crm12b # FPP. Riley looking surpised, mouth opened
+        with dissolve
 
-# game/v12/scene12.rpy:290
-translate francais v12_room_chloe_riley_384232ff:
+        ri "Okay, but like... HOW? There were times where I was like \"okay maybe it's him\", but then I felt like I was just being biased."
 
-    # ri "Well, I didn't sleep at all. So now, I've officially been awake for over 24 hours now and I'm beat."
-    ri "Eh bien moi, je n'ai pas dormi du tout. Donc maintenant, je suis officiellement réveillée depuis plus de 24 heures et je suis crevée."
+        scene v12crm12a
+        with dissolve
 
-# game/v12/scene12.rpy:295
-translate francais v12_room_chloe_riley_fbd14c36:
+        u "Biased? So you wanted me to be the killer?"
 
-    # u "Thank fucking god... When you're asleep I don't have to hear you talk. *Chuckles* Over there sounding like a running faucet sometimes."
-    u "Merci, bordel de merde... Quand tu dors au moins, j'ai pas à t'entendre parler. *Rire* J'ai l'impression d'avoir une perruche dans ma chambre."
+        scene v12crm12b
+        with dissolve
 
-# game/v12/scene12.rpy:300
-translate francais v12_room_chloe_riley_fd8d8ff3:
+        ri "Yeah, of course. You were doing a bunch of suspicious shit but, everyone was being a little sus. Some people were even acting like the killer just to throw people off the trail..."
+        ri "Damn imposters. Should've just trusted my gut and kept a better eye on you."
 
-    # ri "I do not talk a lot...?"
-    ri "Je ne parle pas tant que ça... !"
+        scene v12crm12a
+        with dissolve
 
-# game/v12/scene12.rpy:305
-translate francais v12_room_chloe_riley_7b1c1392:
+        u "Shoulda, woulda, coulda. It's over now. *Chuckles*"
 
-    # u "..."
-    u "..."
+        scene v12crm12b
+        with dissolve
 
-# game/v12/scene12.rpy:310
-translate francais v12_room_chloe_riley_1235e06d:
+        ri "You're a lot slicker than I thought... Maybe I just lowkey realized something about you that I didn't see before."
 
-    # ri "I DON'T! [name], seriously!"
-    ri "C'EST FAUX ! [name], sérieusement !"
+        scene v12crm12a 
+        with dissolve
 
-# game/v12/scene12.rpy:315
-translate francais v12_room_chloe_riley_7b1c1392_1:
+        u "Like what?"
 
-    # u "..."
-    u "..."
+        scene v12crm12b
+        with dissolve
 
-# game/v12/scene12.rpy:320
-translate francais v12_room_chloe_riley_1e975455:
+        ri "I don't know, maybe some of the stuff Charli says is right."
 
-    # ri "Okay... Maybe a little but not that much, really. You're overreacting"
-    ri "Ok... Peut-être un peu mais pas tant que ça, sérieux. Tu exagères."
+        scene v12crm12a 
+        with dissolve
 
-# game/v12/scene12.rpy:325
-translate francais v12_room_chloe_riley_7b1c1392_2:
+        u "Oh no, please. Don't let that shit get into your head."
 
-    # u "..."
-    u "..."
+        scene v12crm12
+        with dissolve
 
-# game/v12/scene12.rpy:330
-translate francais v12_room_chloe_riley_9b647c69:
+        ri "Haha, I knew that'd hit a nerve. Did you get any sleep on the ferry?"
 
-    # ri "Okay fine! Maybe I do."
-    ri "Bon, d'accord ! Peut-être que oui."
+        scene v12crm12a
+        with dissolve
 
-# game/v12/scene12.rpy:335
-translate francais v12_room_chloe_riley_734702f0:
+        u "Barely."
 
-    # u "*Laughs* I'm just messing with you. Thought I'd try to hit a nerve..."
-    u "*Rire* Je plaisante juste avec toi. Je voulais essayer de toucher un point sensible..."
+        scene v12crm12
+        with dissolve
 
-# game/v12/scene12.rpy:340
-translate francais v12_room_chloe_riley_310c19e6:
+        ri "Well, I didn't sleep at all. So now, I've officially been awake for over 24 hours now and I'm beat."
 
-    # ri "Ha. Funny. Prick."
-    ri "HA-HA. Très drôle. Connard."
+        scene v12crm12a
+        with dissolve
 
-# game/v12/scene12.rpy:355
-translate francais v12_room_chloe_riley_5788969f:
+        u "Thank fucking god... When you're asleep I don't have to hear you talk. *Chuckles* Over there sounding like a running faucet sometimes."
 
-    # u "Goodnight."
-    u "Bonne nuit."
+        scene v12crm12c # FPP. Riley looking annoyed, mouth opened
+        with dissolve
 
-# game/v12/scene12.rpy:360
-translate francais v12_room_chloe_riley_880dde76:
+        ri "I do not talk a lot...?"
 
-    # ri "Yeah whatever, goodnight."
-    ri "Ouais, peu importe, bonne nuit."
+        scene v12crm12a
+        with dissolve
 
-# game/v12/scene12.rpy:365
-translate francais v12_room_chloe_riley_8569c4fa_1:
+        u "..."
 
-    # u "*Chuckles*"
-    u "*Rire*"
+        scene v12crm12c
+        with dissolve
+
+        ri "I DON'T! [name], seriously!"
+
+        scene v12crm12a
+        with dissolve
+
+        u "..."
+
+        scene v12crm12c
+        with dissolve
+
+        ri "Okay... Maybe a little but not that much, really. You're overreacting"
+
+        scene v12crm12a
+        with dissolve
+
+        u "..."
+
+        scene v12crm12c
+        with dissolve
+
+        ri "Okay fine! Maybe I do."
+
+        scene v12crm12a
+        with dissolve
+
+        u "*Laughs* I'm just messing with you. Thought I'd try to hit a nerve..."
+
+        scene v12crm12
+        with dissolve
+
+        ri "Ha. Funny. Prick."
+
+        scene v12crm4 
+        with dissolve
+
+        pause 0.75
+
+        scene v12crm5 
+        with dissolve
+
+        pause 0.75
+
+        scene v12crm13 # FPP. MC laying down on his bed, lights off, looking at riley, mouth closed
+        with dissolve
+
+        u "Goodnight."
+
+        scene v12crm13a # FPP. Same as 13, mouth opened
+        with dissolve
+
+        ri "Yeah whatever, goodnight."
+
+        scene v12crm13 
+        with dissolve
+
+        u "*Chuckles*"
+
+        scene v12crm7 
+        with dissolve
+
+        pause 1.25
+
+        scene black
+        with dissolve
+            
+        pause 2
+
+    stop music fadeout 3
+
+    jump v12_cafe #scene 13

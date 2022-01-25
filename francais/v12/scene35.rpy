@@ -1,103 +1,165 @@
-﻿# TODO: Translation updated at 2022-01-01 15:14
+# SCENE 35: MC back at his room
+# Locations: Hotel Room, Hotel Room Corridor
+# Characters: MC (Outfit: 2), NORA (Outfit: 1), CHRIS (Outfit: 1)
+# Time: Night
+# Phone Images: None
 
-# game/v12/scene35.rpy:23
-translate francais v12_chris_nora_room_29d73290:
+label v12_chris_nora_room:
+    scene v12cnr1 # TPP. Show MC walking in the hotel corridor, neutral expression, mouth closed
+    with dissolve
 
-    # u "(Locked, she must be in the shower.)"
-    u "( Fermé, elle doit être sous la douche. )"
+    pause 0.75
 
-# game/v12/scene35.rpy:33
-translate francais v12_chris_nora_room_57ae9944:
+    play music "music/v12/Track Scene 35.mp3" fadein 2
 
-    # u "*Sighs*"
-    u "*Soupirs*"
+    scene v12cnr2 # TPP. Show MC walking into his room, mouth closed, neutral expression
+    with dissolve
 
-# game/v12/scene35.rpy:38
-translate francais v12_chris_nora_room_8e3039b2:
+    pause 0.75
 
-    # no "*Inaudible*"
+    scene v12cnr3 # TPP. Show MC trying to open the bathroom door, neutral expression, mouth closed (door is locked)
+    with dissolve
+
+    u "(Locked, she must be in the shower.)"
+
+    scene v12cnr4 # TPP. Show MC walking towards his bed, neutral expression, mouth closed
+    with dissolve
+
+    pause 0.75
+
+    scene v12cnr5 # TPP. Show MC lying on his bed, looking at the ceiling, mouth closed, neutral expression
+    with dissolve
+
+    u "*Sighs*"
+
+    scene v12cnr5a # TPP. Same as v12cnr5, Show MC looking at the wall, confused, mouth closed
+    with dissolve
+
     no "*Inaudible*"
 
-# game/v12/scene35.rpy:43
-translate francais v12_chris_nora_room_6de8f3c2:
+    scene v12cnr6 # TPP. Show MC walking towards the wall, confused, mouth closed
+    with dissolve
 
-    # ch "*Inaudible*"
     ch "*Inaudible*"
 
-# game/v12/scene35.rpy:48
-translate francais v12_chris_nora_room_d0b91878:
+    scene v12cnr7 # TPP. Show MC putting his ear to the wall, mouth closed, confused
+    with dissolve
 
-    # u "(Are they fighting again?)"
-    u "(Ils se disputent encore ?)"
+    u "(Are they fighting again?)"
 
-# game/v12/scene35.rpy:53
-translate francais v12_chris_nora_room_1abef72a:
+    scene v12cnr8 # TPP. Chris and Nora in another room arguing. Show Nora looking at Chris, Nora pointing at the door to the hallway, Nora very angry, mouth open (Only Nora in shot)
+    with dissolve
 
-    # no "Just get the fuck out! If you don't wanna be around me, don't be around me."
-    no "Fous le camp ! Si tu ne veux pas être à mes côtés, ne le sois pas."
+    no "Just get the fuck out! If you don't wanna be around me, don't be around me."
 
-# game/v12/scene35.rpy:58
-translate francais v12_chris_nora_room_9a0a5644:
+    scene v12cnr9 # TPP. Same positioning as v12cnr8, Show Chris looking at Nora, Chris very angry, mouth open (Only Chris in shot)
+    with dissolve
 
-    # ch "I'm not gonna keep feeling bad all the time like all this shit is my fault. Enjoy your fucking night. I'll go sleep somewhere else!"
-    ch "Je ne vais pas continuer à me morfondre tout le temps comme si toute cette merde était de ma faute. Profite de ta putain de nuit. Je vais aller dormir ailleurs !"
+    ch "I'm not gonna keep feeling bad all the time like all this shit is my fault. Enjoy your fucking night. I'll go sleep somewhere else!"
 
-# game/v12/scene35.rpy:65
-translate francais v12_chris_nora_room_852175cf:
+    play sound "sounds/slam.mp3"
 
-    # u "(Oh shit!)"
-    u "(Oh merde !)"
+    scene v12cnr7a # TPP. Same as v12cnr7, MC startled, mouth closed
+    with dissolve
 
-# game/v12/scene35.rpy:70
-translate francais v12_chris_nora_room_48d6ddc1:
+    u "(Oh shit!)"
 
-    # u "(It really seems like those two are coming to a crossroads. I'm sure she's pretty heated right now, I wonder if I should go talk to her.)"
-    u "(On dirait vraiment que ces deux-là arrivent à un croisement. Je pense qu'elle est assez énervée en ce moment, je me demande si je devrais aller lui parler)."
+    scene v12cnr4
+    with dissolve
 
-# game/v12/scene35.rpy:78
-translate francais v12_chris_nora_room_6ae26ec2:
+    u "(It really seems like those two are coming to a crossroads. I'm sure she's pretty heated right now, I wonder if I should go talk to her.)"
 
-    # u "(I'm going.)"
-    u "(J'y vais.)"
+    menu:
+        "Go to Nora":
+            $ add_point(KCT.BOYFRIEND)
+            scene v12cnr10 # TPP. Show MC walking towards his hotel room door to the hallway, neutral expression, mouth closed
+            with dissolve
 
-# game/v12/scene35.rpy:89
-translate francais v12_chris_nora_room_10cb1d0d:
+            u "(I'm going.)"
 
-    # u "Nora, I... Are you alright?"
-    u "Nora, je... Est-ce que tu vas bien ?"
+            scene v12cnr11 # TPP. Show MC walking towards Nora's room (he is in the hallway), MC slightly worried expression, mouth closed
+            with dissolve
 
-# game/v12/scene35.rpy:94
-translate francais v12_chris_nora_room_db7c6834:
+            pause 0.75
 
-    # no "I just wanna be alone right now, [name]."
-    no "Je veux être seule pour le moment, [name]."
+            scene v12cnr12 # TPP. Show MC knocking on Nora's door, MC slightly worried, mouth open
+            with dissolve
+            play sound "sounds/knock.mp3"
 
-# game/v12/scene35.rpy:99
-translate francais v12_chris_nora_room_ed83a6a4:
+            u "Nora, I... Are you alright?"
 
-    # u "Nora..."
-    u "Nora..."
+            scene v12cnr13 # TPP. Show Nora sitting on her bed, Nora is crying, mouth open, looking at the hotel room door
+            with dissolve
 
-# game/v12/scene35.rpy:105
-translate francais v12_chris_nora_room_5f8c802a:
+            no "I just wanna be alone right now, [name]."
 
-    # no "Please, just... Leave me alone."
-    no "S'il te plaît, ... laisse-moi seule."
+            scene v12cnr13a # TPP. Same as v12cnr13, Nora crying, mouth closed
+            with dissolve
 
-# game/v12/scene35.rpy:110
-translate francais v12_chris_nora_room_3bb7e37d:
+            u "Nora..."
 
-    # u "*Sighs* Alright."
-    u "*Soupirs* Bon."
+            if nora.relationship < Relationship.LIKES or v11_kiss_nora: # if Nora likes she lets him in after a bit. If not Nora likes he has to convince her and can fail. If mc made a move on Nora before, she is not letting him in.
+                scene v12cnr13
+                with dissolve
 
-# game/v12/scene35.rpy:131
-translate francais v12_chris_nora_room_5c4d09e6:
+                no "Please, just... Leave me alone."
 
-    # u "(Guess I should've just left her alone.)"
-    u "(Je pense que j'aurais dû la laisser tranquille.)"
+                scene v12cnr13a
+                with dissolve
 
-# game/v12/scene35.rpy:161
-translate francais v12_chris_nora_room_8703fe36:
+                u "*Sighs* Alright."
 
-    # u "(It's not my place to get involved.)"
-    u "(Ce n'est pas à moi de m'en mêler)."
+                scene v12cnr11a # TPP. Same as v12cnr11, MC walking back to his room, slightly worried, mouth closed
+                with dissolve
+
+                pause 0.75
+
+                scene v12cnr2
+                with dissolve
+
+                pause 0.75
+
+                play sound "sounds/doorclose.mp3"
+                scene v12cnr4
+                with dissolve
+
+                pause 0.75
+
+                scene v12cnr5
+                with dissolve
+
+                u "(Guess I should've just left her alone.)"
+
+                jump v12_game_roommate
+
+            else:
+                play sound "sounds/dooropen.mp3"
+                scene v12cnr12a # TPP. Same as v12cnr12, Door open, Nora inside the room, looking at MC who is outside, Nora crying, mouth closed, MC worried, mouth closed
+                with dissolve
+
+                pause 1.25
+
+                scene v12cnr14 # TPP. Show Nora walking towards her bed, MC slightly behind her, Nora crying, mouth closed, MC worried, mouth closed
+                with dissolve
+
+                pause 1
+
+                scene v12cnr15 # TPP. Show Nora and MC sitting next to each other on the bed, Nora crying, mouth closed, MC worried, mouth open, Nora looking down, MC looking at Nora
+                with dissolve
+
+                pause 0.75
+
+                stop music fadeout 3
+
+                jump v12_nora_room #scene 35a
+
+        "Leave her alone":
+            $ add_point(KCT.BRO)
+            scene v12cnr5
+            with dissolve
+
+            u "(It's not my place to get involved.)"
+
+            stop music fadeout 3
+
+            jump v12_game_roommate #scene 35b

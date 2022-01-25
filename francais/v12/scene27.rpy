@@ -1,617 +1,530 @@
-﻿# TODO: Translation updated at 2021-12-30 14:18
+# SCENE 27: 
+# Locations: hotel lobby, tattoo parlor
+# Characters: IMRE (Outfit: 1), MC (Outfit: 3), TATTOO ARTIST (Outfit: 1)
+# Time: Afternoon
+# Phone Images: 
 
-# game/v12/scene27.rpy:11
-translate francais v12s27_4f800f36:
+label v12s27:
+    scene v12s27_1 #FPP, Imre walking towards mc, slightly outraged, mouth open
+    with dissolve
 
-    # imre "Bro, did you hear what went down with Chris and Nora?! I swear she's starting to really do too much..."
-    imre "Mec, t'as entendu c'qui s'est passé avec Chris et Nora ?! Je jure qu'elle commence vraiment à abuser..."
+    imre "Bro, did you hear what went down with Chris and Nora?! I swear she's starting to really do too much..."
 
-# game/v12/scene27.rpy:18
-translate francais v12s27_591aec14:
+    play music "music/v12/Track Scene 27_1.mp3" fadein 2
 
-    # u "Look man, everyone has their own opinion about the situation. We don't need to discuss it."
-    u "Ecoute mec, tout le monde a sa propre opinion sur la situation. On n'a pas besoin d'en discuter."
+    scene v12s27_2 # FPP, Imre standing in front of mc close up, slightly outraged
+    with dissolve
 
-# game/v12/scene27.rpy:23
-translate francais v12s27_cce84ce0:
+    u "Look man, everyone has their own opinion about the situation. We don't need to discuss it."
 
-    # imre "Alright... Fair enough. What are you doing right now?"
-    imre "Ok... C'est bon. Qu'est-ce que tu fais en c'moment ?"
+    scene v12s27_2b # same as 2, imre neutral expression, mouth open
+    with dissolve
 
-# game/v12/scene27.rpy:28
-translate francais v12s27_517eb38e:
+    imre "Alright... Fair enough. What are you doing right now?"
 
-    # u "Nothing really, I came down here to see if anything was going on."
-    u "Rien de spécial, je suis venu ici pour voir s'il se passait quelque chose."
+    scene v12s27_2c # same as 2b, mouth closed
+    with dissolve
 
-# game/v12/scene27.rpy:33
-translate francais v12s27_dcd69a6f:
+    u "Nothing really, I came down here to see if anything was going on."
 
-    # imre "Haha, same! I kinda wanna do something exciting..."
-    imre "Haha, pareil ! J'ai envie d'faire quelque chose d'amusant..."
+    scene v12s27_2d # same as 2b, imre smile, mouth open
+    with dissolve
 
-# game/v12/scene27.rpy:38
-translate francais v12s27_196b73b6:
+    imre "Haha, same! I kinda wanna do something exciting..."
 
-    # u "*Laughs* Like what?"
-    u "*Rire* Comme quoi ?"
+    scene v12s27_2e # same as 2d, mouth closed
+    with dissolve
 
-# game/v12/scene27.rpy:43
-translate francais v12s27_2c30c382:
+    u "*Laughs* Like what?"
 
-    # imre "Hmm, I want it to be something memorable."
-    imre "Hmm, j'veux qu'ce soit quelque chose de mémorable."
+    scene v12s27_2f #same as 2d, imre contemplating (not lookign at mc), mouth open
+    with dissolve
 
-# game/v12/scene27.rpy:48
-translate francais v12s27_26c4cfcd:
+    imre "Hmm, I want it to be something memorable."
 
-    # imre "LET'S GET TATTOOS!"
-    imre "ALLONS NOUS FAIRE TATOUER !"
+    scene v12s27_2h #same as 2d, imre excited (like he just had the best idea ever), looking at mc, mouth open
+    with dissolve
 
-# game/v12/scene27.rpy:53
-translate francais v12s27_00a2b4e2:
+    imre "LET'S GET TATTOOS!"
 
-    # u "Why would you wanna do that? *Chuckles*"
-    u "Pourquoi tu veux faire ça ? *Rire*"
+    scene v12s27_2j # same as 2h, mouth closed
+    with dissolve
 
-# game/v12/scene27.rpy:58
-translate francais v12s27_e4c71c19:
+    u "Why would you wanna do that? *Chuckles*"
 
-    # imre "No for real! It'd be so cool and it's something we can do to remember our time in Paris."
-    imre "Non, sérieux ! Ça serait trop cool et c'est quelque chose qu'on peut faire pour se souvenir d'notre séjour à Paris."
+    scene v12s27_2d
+    with dissolve
 
-# game/v12/scene27.rpy:63
-translate francais v12s27_de9caaf4:
+    imre "No for real! It'd be so cool and it's something we can do to remember our time in Paris."
 
-    # u "Are you sure you're not drunk? *Chuckles* I think they make sure you aren't drunk before they start buzzin'."
-    u "Tu es sûr que tu n'es pas \"encore\" bourré ? *Rire* Je pense qu'ils vérifient que tu n'es pas ivre avant de commencer à te tatouer."
+    scene v12s27_2e
+    with dissolve
 
-# game/v12/scene27.rpy:68
-translate francais v12s27_c9689651:
+    u "Are you sure you're not drunk? *Chuckles* I think they make sure you aren't drunk before they start buzzin'."
 
-    # imre "This is a one-hundred percent sober decision."
-    imre "C'est une décision 100% sobre."
+    scene v12s27_2d
+    with dissolve
 
-# game/v12/scene27.rpy:73
-translate francais v12s27_13acd59b:
+    imre "This is a one-hundred percent sober decision."
 
-    # u "Alrighty, if you're sober then... Sure, fuck it. Let's do it!"
-    u "Bon, si tu es sobre, alors... Bien sûr, on s'en fout. On le fait !"
+    scene v12s27_2e
+    with dissolve
 
-# game/v12/scene27.rpy:78
-translate francais v12s27_0c4ae768:
+    u "Alrighty, if you're sober then... Sure, fuck it. Let's do it!"
 
-    # imre "For real?!"
-    imre "Pour de vrai ?!"
+    scene v12s27_2h
+    with dissolve
 
-# game/v12/scene27.rpy:83
-translate francais v12s27_d7dbe971:
+    imre "For real?!"
 
-    # u "*Chuckles* Yeah, dude."
-    u "*Rire* Ouais, mec."
+    scene v12s27_2j
+    with dissolve
 
-# game/v12/scene27.rpy:88
-translate francais v12s27_a0dcb0b0:
+    u "*Chuckles* Yeah, dude."
 
-    # imre "Oh fuck yeah! Let's go!"
-    imre "Oh yeah ! Allons-y !"
+    scene v12s27_2h
+    with dissolve
 
-# game/v12/scene27.rpy:93
-translate francais v12s27_01dae9ff:
+    imre "Oh fuck yeah! Let's go!"
 
-    # u "You know where the place is?"
-    u "Tu sais où c'est ?"
+    scene v12s27_3 #TPP Imre and Mc walk to the tattoo parlor, mc talking to imre, both smiling, mc mouth open
+    with fade
 
-# game/v12/scene27.rpy:101
-translate francais v12s27_dd58249e:
+    u "You know where the place is?"
 
-    # imre "Yeah, I saw it yesterday. That's the only reason I thought of it. *Chuckles*"
-    imre "Oui, j'ai vu ça hier. C'est la seule raison pour laquelle j'y ai pensé. *Rire*"
+    stop music fadeout 3
+    play music "music/v12/Track Scene 27_2.mp3" fadein 2
 
-# game/v12/scene27.rpy:106
-translate francais v12s27_c34e09f7:
+    scene v12s27_4 #FPP Imre close up looking at mc whilst walking, (so body is forwards and head is rotated towards mc, background doesn't need to move, so don't actually make him walk forwards each shot), laughing smile, mouth open
+    with dissolve
 
-    # u "You know what you're gonna get?"
-    u "Tu sais ce que tu veux te faire ?"
+    imre "Yeah, I saw it yesterday. That's the only reason I thought of it. *Chuckles*"
 
-# game/v12/scene27.rpy:111
-translate francais v12s27_d1703716:
+    scene v12s27_4a # same as 4, mouth closed
+    with dissolve
 
-    # imre "I have no idea... You?"
-    imre "J'en ai aucune idée... Et toi ?"
+    u "You know what you're gonna get?"
 
-# game/v12/scene27.rpy:116
-translate francais v12s27_cb5d9944:
+    scene v12s27_4
+    with dissolve
 
-    # u "*Laughs* Nope. Guess we'll find out when we get there."
-    u "*Rire* Non. Je pense qu'on verra ça quand on y sera."
+    imre "I have no idea... You?"
 
-# game/v12/scene27.rpy:121
-translate francais v12s27_a8ba76a7:
+    scene v12s27_4a
+    with dissolve
 
-    # imre "*Chuckles* Guess so!"
-    imre "*Rire* Sûrement, oui !"
+    u "*Laughs* Nope. Guess we'll find out when we get there."
 
-# game/v12/scene27.rpy:134
-translate francais v12s27_807ffe33:
+    scene v12s27_4
+    with dissolve
 
-    # tattoo "Bonjour!"
-    tattoo "*En français* Bonjour !"
+    imre "*Chuckles* Guess so!"
 
-# game/v12/scene27.rpy:139
-translate francais v12s27_6e27dd50:
+    scene v12s27_5 # TPP Imre and mc walking into the tattoo parlor
+    with dissolve
 
-    # imre "Aww shit, I forgot they don't speak English! Definitely not getting a tattoo from someone that can't speak English... What if they tattoo the wrong thing on me?"
-    imre "Oh merde, j'avais oublié qu'ils parlaient pas anglais ! J'vais certainement pas me faire tatouer par quelqu'un qui ne parle pas anglais... Et s'ils me tatouaient le mauvais truc ?"
+    pause 0.7
 
-# game/v12/scene27.rpy:144
-translate francais v12s27_1fce0d34:
+    stop music fadeout 3
+    play music "music/v12/Track Scene 27_3.mp3" fadein 2
 
-    # tattoo "Haha, I speak English just fine. If it wasn't for you tourists, I wouldn't get any business."
-    tattoo "Haha, je parle très bien anglais. Si ce n'était pas pour vous, les touristes, je ne ferais pas de business."
+    scene v12s27_6 # FPP shows closeup tattoo parlor looking at you, smiling, mouth open
+    with dissolve
 
-# game/v12/scene27.rpy:149
-translate francais v12s27_5d14dd48:
+    tattoo "Bonjour!"
 
-    # u "French people don't get a lot of tattoos?"
-    u "Les Français ne se font pas faire beaucoup de tatouages ?"
+    scene v12s27_7 # FPP shows Imre close up, body towards tatoo parlor (who's off-screen), looking at mc, neutral expression, mouth open
+    with dissolve
 
-# game/v12/scene27.rpy:154
-translate francais v12s27_3049868e:
+    imre "Aww shit, I forgot they don't speak English! Definitely not getting a tattoo from someone that can't speak English... What if they tattoo the wrong thing on me?"
 
-    # tattoo "Not many, you'd be surprised."
-    tattoo "Pas tant que ça, vous seriez surpris."
+    scene v12s27_6b # same as 6, looking at Imre (who's off screen), confident smile, mouth open
+    with dissolve
 
-# game/v12/scene27.rpy:159
-translate francais v12s27_381e373f:
+    tattoo "Haha, I speak English just fine. If it wasn't for you tourists, I wouldn't get any business."
 
-    # u "Hmm, interesting..."
-    u "Hmm, curieux..."
+    scene v12s27_6c # same as 6b, mouth closed
+    with dissolve
 
-# game/v12/scene27.rpy:164
-translate francais v12s27_2105cf8e:
+    u "French people don't get a lot of tattoos?"
 
-    # tattoo "So, did you boys come in for anything specific?"
-    tattoo "Alors, les garçons, vous êtes venus pour quelque chose de spécifique ?"
+    scene v12s27_6
+    with dissolve
 
-# game/v12/scene27.rpy:169
-translate francais v12s27_143544d3:
+    tattoo "Not many, you'd be surprised."
 
-    # u "We actually have no idea what we want. *Laughs*"
-    u "En fait, on n'a aucune idée de ce qu'on veut. *Rire*"
+    scene v12s27_6a # same as 6, mouth closed
+    with dissolve
 
-# game/v12/scene27.rpy:174
-translate francais v12s27_7214cf23:
+    u "Hmm, interesting..."
 
-    # tattoo "*Chuckles* I see, well, let's start with why you want a tattoo."
-    tattoo "*Rire* Je vois. Bon, tout d'abord, pourquoi voulez-vous un tatouage ?"
+    scene v12s27_6
+    with dissolve
 
-# game/v12/scene27.rpy:179
-translate francais v12s27_f8a4ee31:
+    tattoo "So, did you boys come in for anything specific?"
 
-    # imre "To remember our time in Paris, of course."
-    imre "Pour se souvenir d'notre séjour à Paris, bien sûr."
+    scene v12s27_6a
+    with dissolve
 
-# game/v12/scene27.rpy:184
-translate francais v12s27_2f35744d:
+    u "We actually have no idea what we want. *Laughs*"
 
-    # u "This was his idea."
-    u "C'est son idée."
+    scene v12s27_6
+    with dissolve
 
-# game/v12/scene27.rpy:189
-translate francais v12s27_86f50f36:
+    tattoo "*Chuckles* I see, well, let's start with why you want a tattoo."
 
-    # tattoo "Haha, you can always tell who's idea it was by who's the most eager to share. I have a suggestion if you're willing to hear me out?"
-    tattoo "Haha, vous pouvez toujours savoir qui a eu l'idée en observant qui est le plus désireux de partager. J'ai une suggestion si vous êtes prêt à m'écouter ?"
+    scene v12s27_7b # same as 7, imre smiling, looking at tattoo parlor, mouth open
+    with dissolve
 
-# game/v12/scene27.rpy:194
-translate francais v12s27_1b28a406:
+    imre "To remember our time in Paris, of course."
 
-    # u "Of course."
-    u "Bien sûr."
+    scene v12s27_6a
+    with dissolve
 
-# game/v12/scene27.rpy:199
-translate francais v12s27_b0acc480:
+    u "This was his idea."
 
-    # tattoo "I've done this for many tourists and all have walked away with a smile."
-    tattoo "Je l'ai fait pour de nombreux touristes et tous sont repartis avec le sourire."
+    scene v12s27_6
+    with dissolve
 
-# game/v12/scene27.rpy:200
-translate francais v12s27_102ddaf3:
+    tattoo "Haha, you can always tell who's idea it was by who's the most eager to share. I have a suggestion if you're willing to hear me out?"
 
-    # tattoo "If you guys want, what we can do is have you two tell me something about yourselves that's very meaningful, and from that I'll come up with something for your tattoo."
-    tattoo "Si vous voulez, je peux vous demander de me dire quelque chose sur vous qui soit très significatif, et à partir de là, je trouverai quelque chose pour votre tatouage."
+    scene v12s27_6a
+    with dissolve
 
-# game/v12/scene27.rpy:205
-translate francais v12s27_797b0b13:
+    u "Of course."
 
-    # imre "Sounds cool to me! We'll do that."
-    imre "J'trouve ça cool ! On va faire comme ça."
+    scene v12s27_6b
+    with dissolve
 
-# game/v12/scene27.rpy:210
-translate francais v12s27_69ba9f04:
+    tattoo "I've done this for many tourists and all have walked away with a smile."
+    tattoo "If you guys want, what we can do is have you two tell me something about yourselves that's very meaningful, and from that I'll come up with something for your tattoo."
 
-    # u "What the fuck, I don't even get a choice? *Chuckles*"
-    u "C'est quoi ce bordel, je n'ai même pas le choix ? *Rire*"
+    scene v12s27_7b
+    with dissolve
 
-# game/v12/scene27.rpy:215
-translate francais v12s27_90a3404c:
+    imre "Sounds cool to me! We'll do that."
 
-    # imre "Nope, don't be a pussy."
-    imre "Fais pas ta chochotte."
+    scene v12s27_7c # same as 7b, mouth closed
+    with dissolve
 
-# game/v12/scene27.rpy:220
-translate francais v12s27_99cd03f8:
+    u "What the fuck, I don't even get a choice? *Chuckles*"
 
-    # u "Alright then, guess that's what we'll do. *Chuckles*"
-    u "Bon, alors, je crois que c'est ce qu'on va faire. *Rire*"
+    scene v12s27_7
+    with dissolve
 
-# game/v12/scene27.rpy:225
-translate francais v12s27_e3536f95:
+    imre "Nope, don't be a pussy."
 
-    # tattoo "Perfect, so what are your names?"
-    tattoo "Parfait, alors quels sont vos noms ?"
+    scene v12s27_6a
+    with dissolve
 
-# game/v12/scene27.rpy:230
-translate francais v12s27_f8d3f379:
+    u "Alright then, guess that's what we'll do. *Chuckles*"
 
-    # u "I'm [name] and he's Imre."
-    u "Je m'appelle [name] et lui c'est Imre."
+    scene v12s27_6
+    with dissolve
 
-# game/v12/scene27.rpy:235
-translate francais v12s27_974c5ea8:
+    tattoo "Perfect, so what are your names?"
 
-    # tattoo "Got it. Now, [name], tell me something about Imre."
-    tattoo "C'est noté. Maintenant, [name], dis-moi quelque chose sur Imre."
+    scene v12s27_6a
+    with dissolve
 
-# game/v12/scene27.rpy:240
-translate francais v12s27_2d2fb097:
+    u "I'm [name] and he's Imre."
 
-    # u "He drinks a lot. *Chuckles*"
-    u "Il boit beaucoup. *Rire*"
+    scene v12s27_6
+    with dissolve
 
-# game/v12/scene27.rpy:245
-translate francais v12s27_af85f330:
+    tattoo "Got it. Now, [name], tell me something about Imre."
 
-    # imre "C'mon bro! Tell him something good, like how I'm a ladies man."
-    imre "Allez frère ! Dis-lui quelque chose de bien, comme le fait que j'suis un homme à femmes."
+    scene v12s27_6a
+    with dissolve
 
-# game/v12/scene27.rpy:250
-translate francais v12s27_f130ce76:
+    u "He drinks a lot. *Chuckles*"
 
-    # tattoo "A ladies man?"
-    tattoo "Un homme à femmes ?"
+    scene v12s27_7
+    with dissolve
 
-# game/v12/scene27.rpy:255
-translate francais v12s27_b53004bd:
+    imre "C'mon bro! Tell him something good, like how I'm a ladies man."
 
-    # imre "Big time! The ladies love me and I love the ladies."
-    imre "À fond ! Les femmes m'aiment et j'aime les femmes."
+    scene v12s27_6b
+    with dissolve
 
-# game/v12/scene27.rpy:260
-translate francais v12s27_aab5e256:
+    tattoo "A ladies man?"
 
-    # imre "But if you wanna know something about [name], know that he's a big time teacher's pet."
-    imre "Mais si tu veux savoir quelque chose à propos d'[name], sache qu'il est le chouchou des professeurs."
+    scene v12s27_7b
+    with dissolve
 
-# game/v12/scene27.rpy:262
-translate francais v12s27_7e3fa54c:
+    imre "Big time! The ladies love me and I love the ladies."
 
-    # imre "I always see this crazy teacher we have, named Mr. Lee, pulling him aside."
-    imre "Je vois toujours c'professeur taré qu'on a, Mr Lee, le prendre à part."
+    scene v12s27_7d # same as 7b, Imre thinking, finger pointing up in front of his body, looking at tattoo parlor, mouth open, 
+    with dissolve
+    
+    imre "But if you wanna know something about [name], know that he's a big time teacher's pet."
 
-# game/v12/scene27.rpy:264
-translate francais v12s27_059c037b:
+    imre "I always see this crazy teacher we have, named Mr. Lee, pulling him aside."
+    
+    imre "Not only that, we played a \"murder mystery\" game or whatever, and he chose [name] here to be the murderer, but made me play some other dude's wife."
 
-    # imre "Not only that, we played a \"murder mystery\" game or whatever, and he chose [name] here to be the murderer, but made me play some other dude's wife."
-    imre "En plus de ça, on a joué à un jeu d'\"meurtre mystérieux\" ou quelque chose comme ça, et il a choisi [name] ici pour être l'tueur, et il m'a fait jouer la femme d'un autre gars."
+    scene v12s27_7e # same as 7d, mouth closed
+    with dissolve
 
-# game/v12/scene27.rpy:269
-translate francais v12s27_66d0c4a9:
+    u "*Laughs* Don't be mad at me just because I'm Mr. Lee's favorite and you're not."
 
-    # u "*Laughs* Don't be mad at me just because I'm Mr. Lee's favorite and you're not."
-    u "*Rire* Ne m'en veux pas juste parce que je suis le préféré de Mr Lee et pas toi."
+    scene v12s27_6
+    with dissolve
 
-# game/v12/scene27.rpy:274
-translate francais v12s27_c74423ac:
+    tattoo "You two are a hoot... So, we have a ladies man and a teacher's pet."
 
-    # tattoo "You two are a hoot... So, we have a ladies man and a teacher's pet."
-    tattoo "Vous êtes drôles tous les deux... Donc, nous avons un homme à femmes et un chouchou des profs."
+    scene v12s27_6a
+    with dissolve
 
-# game/v12/scene27.rpy:279
-translate francais v12s27_ff73d477:
+    u "I wouldn't go with teacher's-"
 
-    # u "I wouldn't go with teacher's-"
-    u "Je ne choisirais pas les profs..."
+    scene v12s27_7b
+    with dissolve
 
-# game/v12/scene27.rpy:284
-translate francais v12s27_b387eefa:
+    imre "Exactly, a ladies man and a teacher's pet."
 
-    # imre "Exactly, a ladies man and a teacher's pet."
-    imre "Exactement, un homme à femmes et un chouchou des profs."
+    scene v12s27_6b
+    with dissolve
 
-# game/v12/scene27.rpy:289
-translate francais v12s27_eb69c6e1:
+    tattoo "Alright, I think I know exactly what to whip up for you guys. Who's going first?"
 
-    # tattoo "Alright, I think I know exactly what to whip up for you guys. Who's going first?"
-    tattoo "Très bien, je vois exactement ce que je vais vous préparer. Qui passe en premier ?"
+    scene v12s27_7b
+    with dissolve
 
-# game/v12/scene27.rpy:294
-translate francais v12s27_1834c434:
+    imre "Poke me!"
 
-    # imre "Poke me!"
-    imre "C'est moi !"
+    scene v12s27_6b
+    with dissolve
 
-# game/v12/scene27.rpy:299
-translate francais v12s27_2a947c8d:
+    tattoo "I like the positive attitude! Where do you want it?"
 
-    # tattoo "I like the positive attitude! Where do you want it?"
-    tattoo "J'aime cette attitude positive ! Où le veux-tu ?"
+    scene v12s27_7b
+    with dissolve
 
-# game/v12/scene27.rpy:304
-translate francais v12s27_7b784bd1:
+    imre "My chest!"
 
-    # imre "My chest!"
-    imre "Mon torse !"
+    scene v12s27_6b
+    with dissolve
 
-# game/v12/scene27.rpy:309
-translate francais v12s27_66edc062:
+    tattoo "Sounds good, go ahead and lie down."
 
-    # tattoo "Sounds good, go ahead and lie down."
-    tattoo "Ça me parait parfait, vas-y, allonge-toi."
+    scene v12s27_8 # FPP Imre on the tattoo chair, stiff face, in pain, tattoo artist starting tattoo on his chest. - tattoo is gonna be a cupcake with the words "ladies man" under it-
+    with fade
 
-# game/v12/scene27.rpy:324
-translate francais v12s27_d1f46504:
+    pause 0.7
 
-    # tattoo "All done!"
-    tattoo "C'est bon !"
+    scene v12s27_8a # same as 8,Imre looks somewhere else, tattoo artist moves forward, tattoo now halfway there (this is 15 mins later)
+    with dissolve
 
-# game/v12/scene27.rpy:329
-translate francais v12s27_9aca2fb9:
+    pause 0.7
 
-    # imre "Let's gooooo!"
-    imre "C'est parti !"
+    scene v12s27_8b # same as 8a,Imre eyes closed, tattoo artist moves forward, tattoo artist mouth open, tattoo now done (this is 15 mins later)
+    with dissolve
 
-# game/v12/scene27.rpy:334
-translate francais v12s27_656e5829:
+    tattoo "All done!"
 
-    # u "Let me see, man!"
-    u "Fais voir, mec !"
+    scene v12s27_8c # same as 8b, tattoo aritst mouth closed, Imre euphoric, mouth open, arms up, still eyes closed
+    with dissolve
 
-# game/v12/scene27.rpy:339
-translate francais v12s27_fcc18885:
+    imre "Let's gooooo!"
 
-    # u "*Laughs*"
-    u "*Rire*"
+    scene v12s27_8d # same as 8c, Imre mouth closed
+    with dissolve
 
-# game/v12/scene27.rpy:341
-translate francais v12s27_48e3ef23:
+    u "Let me see, man!"
 
-    # imre "What's so funny?"
-    imre "Qu'est-ce qu'il y a de drôle ?"
+    scene v12s27_9 # shows close up of tattoo
+    with dissolve
 
-# game/v12/scene27.rpy:343
-translate francais v12s27_495317c0:
+    u "*Laughs*"
 
-    # u "You asked for something memorable, and I promise you won't forget that."
-    u "Tu as demandé quelque chose de mémorable, et je te promets que tu ne l'oublieras pas."
+    imre "What's so funny?"
 
-# game/v12/scene27.rpy:348
-translate francais v12s27_83bdcb3f:
+    u "You asked for something memorable, and I promise you won't forget that."
 
-    # imre "What the fuck!?"
-    imre "C'est quoi c'bordel !?"
+    scene v12s27_10 #FPP shows Imre, stood up looking either down at his chest or ideally into a mirror if there is one. Mouth open, upset
+    with dissolve
 
-# game/v12/scene27.rpy:353
-translate francais v12s27_b275e4e3:
+    imre "What the fuck!?"
 
-    # imre "Yo, what is this shit?"
-    imre "Yo, c'est quoi cette merde ?"
+    scene v12s27_10b # same as 10, Imre turns around to look at the tattoo aritst (who's off-screen) angry, mouth open
+    with dissolve
 
-# game/v12/scene27.rpy:358
-translate francais v12s27_7f0aa880:
+    imre "Yo, what is this shit?"
 
-    # tattoo "It's your \"ladies man\" tattoo."
-    tattoo "C'est ton tatouage \"homme à femmes\"."
+    scene v12s27_11 #FPP show's tattoo artist looking at imre (who's off-screen), laughing smile, mouth open
+    with dissolve
 
-# game/v12/scene27.rpy:363
-translate francais v12s27_ebae6524:
+    tattoo "It's your \"ladies man\" tattoo."
 
-    # imre "Huh?! What is all this cupcake shit?"
-    imre "Hein ?! C'est quoi toute cette merde de cupcake ?"
+    scene v12s27_10b
+    with dissolve
 
-# game/v12/scene27.rpy:368
-translate francais v12s27_a9214980:
+    imre "Huh?! What is all this cupcake shit?"
 
-    # tattoo "Design."
-    tattoo "Le design."
+    scene v12s27_11
+    with dissolve
 
-# game/v12/scene27.rpy:373
-translate francais v12s27_e0dff22b:
+    tattoo "Design."
 
-    # u "*Laughs* Real nice design."
-    u "*Rire* Très beau design."
+    scene v12s27_11a # same as 11, mouth closed
+    with dissolve
 
-# game/v12/scene27.rpy:378
-translate francais v12s27_69b11293:
+    u "*Laughs* Real nice design."
 
-    # imre "Keep laughing, you're up next."
-    imre "Arrête de rire, t'es le prochain."
+    scene v12s27_10d # same as 10b, imre looking at mc, upset, mouth open
+    with dissolve
 
-# game/v12/scene27.rpy:383
-translate francais v12s27_d342b254:
+    imre "Keep laughing, you're up next."
 
-    # imre "Go ahead and make his just as humiliating as mine."
-    imre "Vas-y et fait en sorte que l'sien soit aussi humiliant que l'mien."
+    scene v12s27_10b
+    with dissolve
 
-# game/v12/scene27.rpy:388
-translate francais v12s27_2ad1c3d9:
+    imre "Go ahead and make his just as humiliating as mine."
 
-    # tattoo "I actually have run into a bit of a hurdle..."
-    tattoo "Je viens d'avoir un petit problème..."
+    scene v12s27_11b # same as 11, tattoo artist apologenic / embarrassed, mouth open, looking at imre
+    with dissolve
 
-# game/v12/scene27.rpy:393
-translate francais v12s27_3598fcaa:
+    tattoo "I actually have run into a bit of a hurdle..."
 
-    # u "What's wrong?"
-    u "Qu'est-ce qui ne va pas ?"
+    scene v12s27_11c # same as 11b, mouth closed
+    with dissolve
 
-# game/v12/scene27.rpy:398
-translate francais v12s27_7c661817:
+    u "What's wrong?"
 
-    # tattoo "I've run out of ink, and sadly I'm not gonna be able to do your tattoo."
-    tattoo "Je suis à court d'encre, et je ne vais malheureusement pas pouvoir faire ton tatouage."
+    scene v12s27_11d # same as 11b, tatoo artist looking at mc, mouth open
+    with dissolve
 
-# game/v12/scene27.rpy:403
-translate francais v12s27_f09a32ce:
+    tattoo "I've run out of ink, and sadly I'm not gonna be able to do your tattoo."
 
-    # imre "You gotta be fucking kidding me!"
-    imre "Tu t'moques de moi !"
+    scene v12s27_10b
+    with dissolve
 
-# game/v12/scene27.rpy:408
-translate francais v12s27_50ff18f4:
+    imre "You gotta be fucking kidding me!"
 
-    # u "Imre, wait!"
-    u "Imre, attends !"
+    scene v12s27_12 #FPP Imre storming out of the shop
+    with dissolve
 
-# game/v12/scene27.rpy:413
-translate francais v12s27_bc995837:
+    u "Imre, wait!"
 
-    # tattoo "Hey! One of you needs to pay!"
-    tattoo "Hé ! L'un de vous doit payer !"
+    scene v12s27_13 #TPP showing mc going after Imre
+    with dissolve
 
-# game/v12/scene27.rpy:418
-translate francais v12s27_a4edb813:
+    tattoo "Hey! One of you needs to pay!"
 
-    # imre "I'm not paying for this shit!"
-    imre "J'vais pas payer pour cette merde !"
+    scene v12s27_14 # TPP close up of Imre, from the side, looking back at the tattooo parlor building, angry, mouth open
+    with dissolve
 
-# game/v12/scene27.rpy:426
-translate francais v12s27_edfc09dd:
+    imre "I'm not paying for this shit!"
 
-    # imre "What kind of tattoo artist runs out of ink?! Now I gotta walk around with this shitty ass tattoo and you get off scotch free."
-    imre "Quel genre de tatoueur est à court d'encre ?! Maintenant j'dois me promener avec c'tatouage de merde et toi tu t'en sors sans aucune trace d'encre."
+    stop music fadeout 3
+    play music "music/v12/Track Scene 27_4.mp3" fadein 2
 
-# game/v12/scene27.rpy:435
-translate francais v12s27_2b590fe7:
+    scene v12s27_15 # TPP Imre and mc walking back to the hotel, Imre mouth open angry, looking at mc, mc neutral expression
+    with fade
 
-    # u "Honestly man, you're freaking out way too much. Your tat isn't even really that bad. It's actually pretty sick if you ask me."
-    u "Honnêtement mec, tu paniques beaucoup trop. Ton tatouage n'est pas si mal. Il est même plutôt délirant si tu veux mon avis."
+    imre "What kind of tattoo artist runs out of ink?! Now I gotta walk around with this shitty ass tattoo and you get off scotch free."
 
-# game/v12/scene27.rpy:440
-translate francais v12s27_2648f38f:
+    scene v12s27_16a # FPP showing Imre looking at you, whilst walking forward (same as on the way to the tattoo shop), mouth closed, upset
+    with dissolve
 
-    # imre "You're just saying that so I'm not all pissed."
-    imre "Tu dis juste ça pour que j'sois pas trop furieux."
+    menu:
+        "It's not that bad":
+            $ add_point(KCT.BRO)
+            
+            u "Honestly man, you're freaking out way too much. Your tat isn't even really that bad. It's actually pretty sick if you ask me."
 
-# game/v12/scene27.rpy:445
-translate francais v12s27_bc03432e:
+            scene v12s27_16 # same as 16a, mouth open
+            with dissolve
 
-    # u "Nah man, I'm serious. It looks kinda good."
-    u "Non mec, je suis sérieux. Il est plutôt bon."
+            imre "You're just saying that so I'm not all pissed."
 
-# game/v12/scene27.rpy:450
-translate francais v12s27_9b0ad2cf:
+            scene v12s27_16a
+            with dissolve
 
-    # imre "For real?"
-    imre "Sérieux ?"
+            u "Nah man, I'm serious. It looks kinda good."
 
-# game/v12/scene27.rpy:455
-translate francais v12s27_f802e1ac:
+            scene v12s27_16b # same as 16, mouth open, imre neutral expression
+            with dissolve
 
-    # u "Yeah. Plus, it comes with an awesome story. *Chuckles*"
-    u "Ouais. En plus, il est accompagné d'une histoire géniale. *Rire*"
+            imre "For real?"
 
-# game/v12/scene27.rpy:460
-translate francais v12s27_4ba6546c:
+            scene v12s27_16c # same as 16b, mouth closed
+            with dissolve
 
-    # imre "Well, fuck!"
-    imre "Eh bien, merde !"
+            u "Yeah. Plus, it comes with an awesome story. *Chuckles*"
 
-# game/v12/scene27.rpy:465
-translate francais v12s27_ef2f1671:
+            scene v12s27_16d # same as 16b, imre slight smile mouth open
+            with dissolve
 
-    # u "What?"
-    u "Quoi ?"
+            imre "Well, fuck!"
 
-# game/v12/scene27.rpy:470
-translate francais v12s27_2802d483:
+            scene v12s27_16e # same as 16d, mouth closed
+            with dissolve
 
-    # imre "Now I feel bad for not paying..."
-    imre "Maintenant j'me sens mal de pas avoir payé..."
+            u "What?"
 
-# game/v12/scene27.rpy:475
-translate francais v12s27_40340e43:
+            scene v12s27_16d
+            with dissolve
 
-    # u "You can always go back and pay..."
-    u "Tu peux toujours revenir en arrière et payer..."
+            imre "Now I feel bad for not paying..."
 
-# game/v12/scene27.rpy:480
-translate francais v12s27_999344ac:
+            scene v12s27_16e
+            with dissolve
 
-    # imre "Let's not look towards the past, [name]."
-    imre "Ne nous tournons pas vers le passé, [name]."
+            u "You can always go back and pay..."
 
-# game/v12/scene27.rpy:485
-translate francais v12s27_8ccabc29:
+            scene v12s27_16d
+            with dissolve
 
-    # u "*Chuckles* Okay."
-    u "*Rire* Ok."
+            imre "Let's not look towards the past, [name]."
 
-# game/v12/scene27.rpy:488
-translate francais v12s27_5c1614e5:
+            scene v12s27_16e
+            with dissolve
 
-    # u "I'm sorry man, I know you don't like it but, at least you have a story to tell."
-    u "Je suis désolé mec, je sais que tu n'aimes pas ça mais, au moins, tu as une histoire à raconter."
+            u "*Chuckles* Okay."
 
-# game/v12/scene27.rpy:493
-translate francais v12s27_c4d27d6c:
+        "Sorry, man":
+            u "I'm sorry man, I know you don't like it but, at least you have a story to tell."
 
-    # imre "This isn't a cool story..."
-    imre "C'est pas une histoire cool..."
+            scene v12s27_16
+            with dissolve
 
-# game/v12/scene27.rpy:498
-translate francais v12s27_00425ad0:
+            imre "This isn't a cool story..."
 
-    # u "This is one of those stories you hate in the moment, but look back on and laugh."
-    u "C'est l'une de ces histoires que tu détestes sur le moment, mais que quand tu y repenses, tu en ris."
+            scene v12s27_16a
+            with dissolve
 
-# game/v12/scene27.rpy:503
-translate francais v12s27_a2b57b46:
+            u "This is one of those stories you hate in the moment, but look back on and laugh."
 
-    # imre "It'll be a long time before I laugh at this, and of all places I got this shit on my chest..."
-    imre "Ce n'est pas demain que j'rirai de ça, et c'est surtout à cause de ça que j'ai cette merde sur la poitrine..."
+            scene v12s27_16b
+            with dissolve
 
-# game/v12/scene27.rpy:508
-translate francais v12s27_816c1afe:
+            imre "It'll be a long time before I laugh at this, and of all places I got this shit on my chest..."
 
-    # u "Just give it time man, give it time. *Chuckles*"
-    u "Donne-toi du temps mec, donne-toi du temps. *Rire*"
+            scene v12s27_16c
+            with dissolve
 
-# game/v12/scene27.rpy:513
-translate francais v12s27_63245ff7:
+            u "Just give it time man, give it time. *Chuckles*"
 
-    # imre "*Sighs* Whatever, dude. Fuck off. *Laughs*"
-    imre "*Soupirs* Laisse tomber, mec. Va t'faire foutre. *Rire*"
+            scene v12s27_16d
+            with dissolve
 
-# game/v12/scene27.rpy:521
-translate francais v12s27_738916ef:
+            imre "*Sighs* Whatever, dude. Fuck off. *Laughs*"
 
-    # imre "Alright man, I'ma go try and peel my skin off in my room. *Chuckles*"
-    imre "D'accord mec, j'vais essayer de m'arracher la peau dans ma chambre. *Rire*"
+# -Regardless of choice scene continued
 
-# game/v12/scene27.rpy:526
-translate francais v12s27_965dc36d:
+# -Non dialog images of Mc and Imre walking to and arriving in the hotel lobby-
+    scene v12s27_17 #TPP show mc and Imre in lobby, both slight smile, looking at each other, Imre mouth open
+    with fade
 
-    # u "Haha, alright man."
-    u "Haha, bien sûr mec."
+    imre "Alright man, I'ma go try and peel my skin off in my room. *Chuckles*"
 
-translate francais strings:
+    scene v12s27_17a # same as 17, imre mouth closed, mc mouth open
+    with dissolve
 
-    # game/v12/scene27.rpy:431
-    old "It's not that bad"
-    new "C'est pas si mal."
+    u "Haha, alright man."
 
-    # game/v12/scene27.rpy:431
-    old "Sorry, man"
-    new "Désolé, mec."
+    stop music fadeout 3
+
+    jump v12_riley_lobby #scene 28

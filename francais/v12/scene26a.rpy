@@ -1,377 +1,392 @@
-﻿# TODO: Translation updated at 2021-12-29 23:41
+# SCENE 26a: MC gets a rideshare with Chris
+# Locations: Hotel Exterior, Road, Hospital
+# Characters: CHRIS (Outfit: 1), MC (Outfit: 3), DRIVER (Outfit: 1)
+# Time: Morning
+# Phone Images: None
 
-# game/v12/scene26a.rpy:11
-translate francais v12_follow_chris_4d8c5d2f:
+label v12_follow_chris:
+    scene v12chf1 # TPP. Show Chris leaving the hotel, MC going after him, MC worried, mouth closed, Chris angry, mouth open, holding the wrist of the hand he used to punch
+    with dissolve
 
-    # ch "Shit! Fuck!"
-    ch "Merde ! Putain !"
+    ch "Shit! Fuck!"
 
-# game/v12/scene26a.rpy:18
-translate francais v12_follow_chris_2a47515b:
+    play music "music/v12/Track Scene 26a_1.mp3" fadein 2
 
-    # ch "I'm such a fucking idiot!"
-    ch "Je suis un putain d'idiot !"
+    scene v12chf2 # FPP. MC and Chris now outside the hotel, Chris looking at MC, Chris angry, holding his wrist, mouth open
+    with dissolve
 
-# game/v12/scene26a.rpy:23
-translate francais v12_follow_chris_0ca7912d:
+    ch "I'm such a fucking idiot!"
 
-    # u "Chris, what the hell is going on with you right now?"
-    u "Chris, qu'est-ce qui se passe avec toi en ce moment ?"
+    scene v12chf2a # FPP. Same as v12chf2, Chris mouth closed, angry
+    with dissolve
 
-# game/v12/scene26a.rpy:28
-translate francais v12_follow_chris_3bfc2273:
+    u "Chris, what the hell is going on with you right now?"
 
-    # ch "What do you mean what's going on?! Did you not just see what I fucking did?! I just pulled the last straw with that one. She's not forgiving me after something like that."
-    ch "Comment ça, qu'est-ce qui se passe ?! Tu n'as pas vu ce que j'ai fait, putain ?! J'ai juste dépassé les bornes avec celle-là. Elle ne va pas me pardonner après un truc pareil."
+    scene v12chf2
+    with dissolve
 
-# game/v12/scene26a.rpy:33
-translate francais v12_follow_chris_21362616:
+    ch "What do you mean what's going on?! Did you not just see what I fucking did?! I just pulled the last straw with that one. She's not forgiving me after something like that."
 
-    # ch "And I fucked up my wrist! MY FUCKING LIFE! It's so fucking stupid!"
-    ch "Et j'ai foutu en l'air mon poignet ! MA PUTAIN DE VIE ! C'est tellement con, putain !"
+    scene v12chf2b # FPP. Same as v12chf2, Chris pacing to the right, mouth open, angry, not looking at MC
+    with dissolve
 
-# game/v12/scene26a.rpy:38
-translate francais v12_follow_chris_ef0e0917:
+    ch "And I fucked up my wrist! MY FUCKING LIFE! It's so fucking stupid!"
 
-    # u "Calm the fuck down, would you?"
-    u "Calme-toi, tu veux ?"
+    scene v12chf2a
+    with dissolve
 
-# game/v12/scene26a.rpy:43
-translate francais v12_follow_chris_2b93ea74:
+    u "Calm the fuck down, would you?"
 
-    # u "You guys caused a big enough scene already. Let's get you to the hospital to get your wrist checked out."
-    u "Tu as déjà fait assez de dégâts. On va t'emmener à l'hôpital pour vérifier ton poignet."
+    scene v12chf2c # FPP. Same as v12chf2, Chris pacing to the left, mouth closed, angry, not looking at MC
+    with dissolve
 
-# game/v12/scene26a.rpy:48
-translate francais v12_follow_chris_33c50012:
+    u "You guys caused a big enough scene already. Let's get you to the hospital to get your wrist checked out."
 
-    # ch "*Sighs* I already called a rideshare. There it is right there."
-    ch "*Soupirs* J'ai déjà appelé un service de covoiturage. Il arrive, là."
+    scene v12chf2d # FPP. Same as v12chf2, Chris worried, mouth open
+    with dissolve
 
-# game/v12/scene26a.rpy:53
-translate francais v12_follow_chris_e2c17a88:
+    ch "*Sighs* I already called a rideshare. There it is right there."
 
-    # u "Good, I'm coming with you."
-    u "Bien, je viens avec toi."
+    scene v12chf2e # FPP. Same as v12chf2d, Chris worried, mouth closed
+    with dissolve
 
-# game/v12/scene26a.rpy:63
-translate francais v12_follow_chris_e6019275:
+    u "Good, I'm coming with you."
 
-    # ch "This is it man, I really messed it up this time. I shouldn't have let it escalate that far..."
-    ch "C'est ça frère, j'ai vraiment tout fait foirer cette fois. Je n'aurais pas dû laisser les choses aller si loin..."
+    scene v12chf3 # TPP. Show MC and Chris getting into the back of the car, both worried, mouths closed
+    with dissolve
 
-# game/v12/scene26a.rpy:68
-translate francais v12_follow_chris_6c28b820:
+    pause 1.25
 
-    # u "Not gonna lie man, that was a really bad look. I almost felt the need to step in."
-    u "Je vais pas mentir mec, c'était très moche. J'ai presque ressenti le besoin d'intervenir."
+    scene v12chf4 # FPP. MC and Chris sitting in the back of the car, MC looking at Chris, Chris looking out the window, very worried, mouth open
+    with dissolve
 
-# game/v12/scene26a.rpy:73
-translate francais v12_follow_chris_5346266b:
+    ch "This is it man, I really messed it up this time. I shouldn't have let it escalate that far..."
 
-    # ch "She just... *Sighs*"
-    ch "Elle a juste... *Soupirs*"
+    scene v12chf4a # FPP. Same as v12chf4, Chris looking at MC, Chris very worried, mouth closed
+    with dissolve
 
-# game/v12/scene26a.rpy:78
-translate francais v12_follow_chris_4a538237:
+    u "Not gonna lie man, that was a really bad look. I almost felt the need to step in."
 
-    # u "What caused you to explode like that? You fucking pushed her, Chris..."
-    u "Qu'est-ce qui t'a fait exploser comme ça ? Tu l'as carrément malmenée, Chris..."
+    scene v12chf4b # FPP. Same as v12chf4a, Chris very worried, mouth open
+    with dissolve
 
-# game/v12/scene26a.rpy:83
-translate francais v12_follow_chris_7a9e9ef6:
+    ch "She just... *Sighs*"
 
-    # ch "It's... *Sighs*"
-    ch "C'est... *Soupirs*"
+    scene v12chf4a
+    with dissolve
 
-# game/v12/scene26a.rpy:88
-translate francais v12_follow_chris_a93db0e1:
+    u "What caused you to explode like that? You fucking pushed her, Chris..."
 
-    # ch "It's what she said..."
-    ch "C'est ce qu'elle a dit..."
+    scene v12chf4b
+    with dissolve
 
-# game/v12/scene26a.rpy:93
-translate francais v12_follow_chris_f1de363c:
+    ch "It's... *Sighs*"
 
-    # u "I mean, she said a lot. What exactly did she say that got to you?"
-    u "J'ai entendu, elle a dit beaucoup de choses. Mais qu'est-ce qu'elle a dit exactement qui t'a fait réagir comme ça ?"
+    scene v12chf4
+    with dissolve
 
-# game/v12/scene26a.rpy:98
-translate francais v12_follow_chris_bd5110bc:
+    ch "It's what she said..."
 
-    # ch "She brought up my dad, man."
-    ch "Elle a parlé de mon père, mec."
+    scene v12chf4a
+    with dissolve
 
-# game/v12/scene26a.rpy:103
-translate francais v12_follow_chris_e87c44bd:
+    u "I mean, she said a lot. What exactly did she say that got to you?"
 
-    # u "What about it bothered you so much?"
-    u "Qu'est-ce qui t'a tant dérangé ?"
+    scene v12chf4c # FPP. Same as v12chf4b, Chris tears in his eyes, very worried, mouth open
+    with dissolve
 
-# game/v12/scene26a.rpy:108
-translate francais v12_follow_chris_584b9eb7:
+    ch "She brought up my dad, man."
 
-    # ch "It's personal, [name], but she knows."
-    ch "C'est personnel, [name], mais elle, elle sait."
+    scene v12chf4d # FPP. Same as v12chf4c, Chris very worried, mouth closed
+    with dissolve
 
-# game/v12/scene26a.rpy:113
-translate francais v12_follow_chris_60dbd3cb:
+    u "What about it bothered you so much?"
 
-    # ch "And she was willing to put that out in the air knowing how It'd make me feel. She obviously doesn't give a fuck about how I feel, or at least she didn't five minutes ago."
-    ch "Et elle était prête à le dire en sachant ce que je ressentirais. Elle n'en a manifestement rien à foutre de ce que je ressens, ou du moins elle ne semblait pas en avoir quelque chose à foutre il y a cinq minutes."
+    scene v12chf4c
+    with dissolve
 
-# game/v12/scene26a.rpy:118
-translate francais v12_follow_chris_8bc36da8:
+    ch "It's personal, [name], but she knows."
 
-    # u "Sounds to me like she was treating you, how she felt you were treating her. As a matter of fact, I'm pretty sure that's exactly what's happening."
-    u "J'ai le sentiment qu'elle te traitait comme elle sentait que tu la traitais continuellement. En fait, je suis presque sûr que c'est exactement ce qui se passe."
+    scene v12chf4
+    with dissolve
 
-# game/v12/scene26a.rpy:123
-translate francais v12_follow_chris_fac809e7:
+    ch "And she was willing to put that out in the air knowing how It'd make me feel. She obviously doesn't give a fuck about how I feel, or at least she didn't five minutes ago."
 
-    # ch "*Sighs* And? I feel like that all the time, but you don't see me overreacting the way she does, do you?"
-    ch "*Soupirs* Et ? Je suis tout le temps comme ça, mais tu ne me vois pas réagir de façon excessive comme elle le fait, n'est-ce pas ?"
+    scene v12chf4a
+    with dissolve
 
-# game/v12/scene26a.rpy:137
-translate francais v12_follow_chris_0f3e9485:
+    u "Sounds to me like she was treating you, how she felt you were treating her. As a matter of fact, I'm pretty sure that's exactly what's happening."
 
-    # u "I don't think that was an overreaction, man..."
-    u "Je ne pense pas que c'était une réaction excessive, mec..."
+    scene v12chf4b
+    with dissolve
 
-# game/v12/scene26a.rpy:142
-translate francais v12_follow_chris_77daaa53:
+    ch "*Sighs* And? I feel like that all the time, but you don't see me overreacting the way she does, do you?"
 
-    # ch "What's that supposed to mean?"
-    ch "Qu'est-ce que ça veut dire ?"
+    scene v12chf4a
+    with dissolve
 
-# game/v12/scene26a.rpy:147
-translate francais v12_follow_chris_329bcc25:
+    menu:
+        "She wasn't overreacting":
+            $ add_point(KCT.BOYFRIEND)
+            $ add_point(KCT.TROUBLEMAKER)
+            $ chris.relationship = Relationship.MAD
 
-    # u "Nora had a really good point. Everyone on this trip knows that she's been begging you to spend some time with her."
-    u "Nora avait de très bonnes raisons. Tout le monde sait qu'elle te supplie depuis le début de passer du temps avec elle."
+            scene v12chf4a
+            with dissolve
 
-# game/v12/scene26a.rpy:152
-translate francais v12_follow_chris_d2a29f19:
+            u "I don't think that was an overreaction, man..."
 
-    # u "Sounds like you finally had some free time and chose the guys over her. Seems pretty fucked up considering that you've been so busy lately, which has caused you to miss out on a lot."
-    u "Et là, apparemment, tu as enfin eu du temps libre et tu as choisi de le passer avec des gars plutôt qu'avec elle. Ça a l'air complètement débile vu que tu as été très occupé ces derniers temps et donc, que tu as raté beaucoup de choses."
+            scene v12chf4b
+            with dissolve
 
-# game/v12/scene26a.rpy:157
-translate francais v12_follow_chris_f7334dcd:
+            ch "What's that supposed to mean?"
 
-    # u "I mean, genuinely, Chris? You literally left her at the altar the other day. *Chuckles*"
-    u "Sans blague, Chris ! Tu l'as littéralement laissée devant l'autel l'autre jour. *Rire*"
+            scene v12chf4e # FPP. Same as v12chf4a, Chris slightly annoyed, mouth closed
+            with dissolve
 
-# game/v12/scene26a.rpy:162
-translate francais v12_follow_chris_187cf93d:
+            u "Nora had a really good point. Everyone on this trip knows that she's been begging you to spend some time with her."
 
-    # u "It may not have been real, but still... I think everyone felt a little awkward about what you did."
-    u "Ce n'était peut-être pas réel, mais quand même... Je pense que tout le monde s'est senti un peu gêné par ce que tu as fait."
+            scene v12chf4f # FPP. Same as v12chf4e, different pose
+            with dissolve
 
-# game/v12/scene26a.rpy:167
-translate francais v12_follow_chris_bac8af35:
+            u "Sounds like you finally had some free time and chose the guys over her. Seems pretty fucked up considering that you've been so busy lately, which has caused you to miss out on a lot."
 
-    # ch "So because I'm doing everything I can to give us an amazing future, I'm the bad guy? You gotta be kidding me..."
-    ch "Donc parce que je fais tout ce que je peux pour nous donner un futur incroyable, je suis le méchant ? Tu dois te moquer de moi..."
+            scene v12chf4e
+            with dissolve
 
-# game/v12/scene26a.rpy:172
-translate francais v12_follow_chris_fa07a66c:
+            u "I mean, genuinely, Chris? You literally left her at the altar the other day. *Chuckles*"
 
-    # ch "Are we almost there?"
-    ch "On est presque arrivé ?"
+            scene v12chf4f
+            with dissolve
 
-# game/v12/scene26a.rpy:177
-translate francais v12_follow_chris_cd2f35c9:
+            u "It may not have been real, but still... I think everyone felt a little awkward about what you did."
 
-    # driver "Pulling up now, sir."
-    driver "Je suis en train de me garer, monsieur."
+            scene v12chf4g # FPP. Same as v12chf4f, Chris slightly annoyed, mouth open
+            with dissolve
 
-# game/v12/scene26a.rpy:182
-translate francais v12_follow_chris_b4bbc1dc:
+            ch "So because I'm doing everything I can to give us an amazing future, I'm the bad guy? You gotta be kidding me..."
 
-    # ch "Good."
-    ch "Bien."
+            scene v12chf4h # FPP. Same as v12chf4, Chris leaning forward, looking at the driver, Chris slightly annoyed, mouth open
+            with dissolve
 
-# game/v12/scene26a.rpy:187
-translate francais v12_follow_chris_c6d69e9f:
+            ch "Are we almost there?"
 
-    # u "Chris, I know you want everyone to see it from your perspective, but maybe for a second you need to try to see it from hers."
-    u "Chris, je sais que tu veux que tout le monde voit ça de ton point de vue, mais peut-être que pour une seconde tu devrais essayer de le voir du sien."
+            scene v12chf4i # FPP. Same as v12chf4h, Chris slightly annoyed, mouth closed
+            with dissolve
 
-# game/v12/scene26a.rpy:192
-translate francais v12_follow_chris_bb74bdfc:
+            driver "Pulling up now, sir."
 
-    # ch "Bro, I'm seriously done talking about this. You're just pissing me off even more."
-    ch "Mec, je ne veux plus parler de ça. Arrête toi, tu ne fais que m'énerver encore plus."
+            scene v12chf4h
+            with dissolve
 
-# game/v12/scene26a.rpy:202
-translate francais v12_follow_chris_8073384a:
+            ch "Good."
 
-    # ch "You don't need to follow me. I insist."
-    ch "Tu n'as pas besoin de me suivre. J'insiste."
+            scene v12chf4e
+            with dissolve
 
-# game/v12/scene26a.rpy:207
-translate francais v12_follow_chris_57ae9944:
+            u "Chris, I know you want everyone to see it from your perspective, but maybe for a second you need to try to see it from hers."
 
-    # u "*Sighs*"
-    u "*Soupirs*"
+            scene v12chf4g
+            with dissolve
 
-# game/v12/scene26a.rpy:212
-translate francais v12_follow_chris_2d32c103:
+            ch "Bro, I'm seriously done talking about this. You're just pissing me off even more."
 
-    # driver "Don't worry, I can take you back."
-    driver "Ne vous inquiétez pas, je peux vous ramener."
+            scene v12chf5 # TPP. Show the car pulling up at the hospital
+            with dissolve
 
-# game/v12/scene26a.rpy:226
-translate francais v12_follow_chris_46b6c062:
+            pause 0.75
 
-    # u "You're right, Chris. She took it too far but... I don't know what you can do to get her or anyone else to understand."
-    u "Tu as raison, Chris. Elle est allée trop loin, mais... Je ne sais pas ce que tu peux faire pour qu'elle ou les autres comprennent."
+            scene v12chf4j # FPP. Same as v12chf4g, car pulled up at the hospital, Chris slightly annoyed, mouth closed
+            with dissolve
 
-# game/v12/scene26a.rpy:231
-translate francais v12_follow_chris_e7d767c1:
+            ch "You don't need to follow me. I insist."
 
-    # u "I wouldn't just give up on the situation yet, though. If I were you, I mean..."
-    u "Je n'abandonnerais pas la partie pour l'instant, par contre. Si j'étais toi, je veux dire..."
+            scene v12chf4k # FPP. Show Chris leaving the car
+            with dissolve
 
-# game/v12/scene26a.rpy:236
-translate francais v12_follow_chris_2a5fe815:
+            u "*Sighs*"
 
-    # u "Sure, you just gave yourself a pretty serious setback. That doesn't mean it's completely over. There's always more you can do."
-    u "Bien sûr, tu viens de t'infliger un sérieux coup dur. Cela ne veut pas dire que c'est complètement terminé. Il y a toujours quelque chose que tu peux faire."
+            scene v12chf6 # TPP. Show the driver, driver looking at the rearview, neutral expression, mouth open (Chris not in the car, only MC), MC worried, mouth closed
+            with dissolve
 
-# game/v12/scene26a.rpy:241
-translate francais v12_follow_chris_ba96d113:
+            driver "Don't worry, I can take you back."
 
-    # ch "I'm glad I have you man, I feel like I've been alone with this whole situation. That's why I wanted to go out with the guys..."
-    ch "Je suis content de t'avoir, mec, j'ai vraiment l'impression d'avoir été seul dans cette histoire. C'est pour ça que je voulais sortir avec les gars..."
+        "You're right":
+            $ v12_help_chris += 1
+            if v12_help_chris >= 4:
+                if joinwolves:
+                    $ grant_achievement("brotherhood_of_men")
+                else:
+                    $ grant_achievement("best_frenemies")
+            
+            $ add_point(KCT.BRO)
+            scene v12chf4l # FPP. Same as v12chf4a, different pose
+            with dissolve
 
-# game/v12/scene26a.rpy:242
-translate francais v12_follow_chris_8cee4a26:
+            u "You're right, Chris. She took it too far but... I don't know what you can do to get her or anyone else to understand."
 
-    # ch "I was hoping I could get some advice with the whole Nora situation, but obviously it doesn't even matter anymore."
-    ch "J'espérais pouvoir obtenir des conseils sur la situation concernant Nora, mais apparemment ça n'a plus d'importance."
+            scene v12chf4a
+            with dissolve
 
-# game/v12/scene26a.rpy:247
-translate francais v12_follow_chris_ddfacc36:
+            u "I wouldn't just give up on the situation yet, though. If I were you, I mean..."
 
-    # u "How'd she find out you were going out with guys?"
-    u "Comment a-t-elle découvert que tu allais sortir avec les autres mecs ?"
+            scene v12chf4l
+            with dissolve
 
-# game/v12/scene26a.rpy:252
-translate francais v12_follow_chris_139c19ff:
+            u "Sure, you just gave yourself a pretty serious setback. That doesn't mean it's completely over. There's always more you can do."
 
-    # ch "Well, I told her."
-    ch "Je lui ai dit."
+            scene v12chf4b
+            with dissolve
 
-# game/v12/scene26a.rpy:257
-translate francais v12_follow_chris_67916a54:
+            ch "I'm glad I have you man, I feel like I've been alone with this whole situation. That's why I wanted to go out with the guys..."
+            ch "I was hoping I could get some advice with the whole Nora situation, but obviously it doesn't even matter anymore."
 
-    # driver "*Whisper* Idiot."
-    driver "*Chuchote* Idiot."
+            scene v12chf4a
+            with dissolve
 
-# game/v12/scene26a.rpy:262
-translate francais v12_follow_chris_6b61cd39:
+            u "How'd she find out you were going out with guys?"
 
-    # ch "Did he just...?"
-    ch "Est-ce qu'il vient de...?"
+            scene v12chf4b
+            with dissolve
 
-# game/v12/scene26a.rpy:267
-translate francais v12_follow_chris_045a003e:
+            ch "Well, I told her."
 
-    # u "Not gonna lie, you should've known she'd get mad at you for hanging with someone other than her. Especially when she's been asking to hang out since the beginning."
-    u "Je ne vais pas mentir, tu aurais dû savoir qu'elle serait furieuse que tu traînes avec quelqu'un d'autre qu'elle. Surtout quand elle te demandait de sortir avec elle depuis le début."
+            scene v12chf4l
+            with dissolve
 
-# game/v12/scene26a.rpy:272
-translate francais v12_follow_chris_80b37da8:
+            driver "*Whisper* Idiot."
 
-    # ch "Yeah, I know. I honestly didn't think about it. Since I was planning to do something for us it just didn't cross my mind."
-    ch "Oui, je sais. Franchement, je n'y ai pas pensé. Comme j'avais prévu de faire quelque chose pour nous, ça ne m'a pas traversé l'esprit."
+            scene v12chf4b
+            with dissolve
 
-# game/v12/scene26a.rpy:277
-translate francais v12_follow_chris_3b27a35f:
+            ch "Did he just...?"
 
-    # u "Yeah man, I get it."
-    u "Ouais mec, je comprends."
+            scene v12chf4a
+            with dissolve
 
-# game/v12/scene26a.rpy:287
-translate francais v12_follow_chris_86a35b99:
+            u "Not gonna lie, you should've known she'd get mad at you for hanging with someone other than her. Especially when she's been asking to hang out since the beginning."
 
-    # driver "We are here."
-    driver "Nous y sommes."
+            scene v12chf4
+            with dissolve
 
-# game/v12/scene26a.rpy:292
-translate francais v12_follow_chris_746bcc02:
+            ch "Yeah, I know. I honestly didn't think about it. Since I was planning to do something for us it just didn't cross my mind."
 
-    # u "Thank you. Hey, mind waiting for me?"
-    u "Merci. Hé, vous pouvez m'attendre ?"
+            scene v12chf4l
+            with dissolve
 
-# game/v12/scene26a.rpy:297
-translate francais v12_follow_chris_d58902f7:
+            u "Yeah man, I get it."
 
-    # driver "Don't be long."
-    driver "Ne soyez pas trop long."
+            scene v12chf5
+            with dissolve
 
-# game/v12/scene26a.rpy:320
-translate francais v12_follow_chris_af9bedb2:
+            pause 0.75
 
-    # ch "*Sighs*"
-    ch "*Soupirs*"
+            scene v12chf6a # TPP. Same as v12chf6, Chris in the car, Chris and MC worried, mouths closed, Driver neutral expression, mouth open
+            with dissolve
 
-# game/v12/scene26a.rpy:325
-translate francais v12_follow_chris_6e60cc93:
+            driver "We are here."
 
-    # u "How's it feeling?"
-    u "Comment ça va ?"
+            scene v12chf6b # TPP. Same as v12chf6a, MC mouth open, worried, Chris worried, mouth closed, driver neutral expression, mouth closed
+            with dissolve
 
-# game/v12/scene26a.rpy:330
-translate francais v12_follow_chris_44dc720d:
+            u "Thank you. Hey, mind waiting for me?"
 
-    # ch "Hurts pretty fucking bad... I'm sure it's just a sprain, been in enough fights to know what a sprained wrist feels like. *Chuckles*"
-    ch "Ça fait sacrément mal... Je suis sûr que c'est juste une entorse, j'ai participé à assez de combats pour savoir ce que ça fait d'avoir une entorse au poignet. *Rire*"
+            scene v12chf6a
+            with dissolve
 
-# game/v12/scene26a.rpy:335
-translate francais v12_follow_chris_9305b7b4:
+            driver "Don't be long."
 
-    # u "*Chuckles* I'm sure you have. I don't think I've ever seen you that mad before. Think I may have seen a flash of Grayson in you for a minute."
-    u "*Rire Je suis sûr que oui. Je ne pense pas t'avoir déjà vu aussi en colère avant. Je pense que j'ai pu voir un peu de Grayson en toi pendant une minute."
+            scene v12chf7 # TPP. Show Chris and MC leaving the car in front of the hotel, both worried, mouths closed
+            with dissolve
 
-# game/v12/scene26a.rpy:340
-translate francais v12_follow_chris_4b99aa71:
+            pause 1.25
 
-    # ch "I don't like getting mad like that, but I'd be lying if I said I didn't have my moments."
-    ch "Je n'aime pas m'énerver comme ça, mais je mentirais si je disais que je n'ai pas eu certaines périodes."
+            scene v12chf8 # TPP. Show Chris and MC walking into the hotel, both worried, mouths closed
+            with dissolve
 
-# game/v12/scene26a.rpy:345
-translate francais v12_follow_chris_4a16997a:
+            pause 1.25
 
-    # u "We all have our downfalls, no one's perfect."
-    u "Nous avons tous nos défauts, personne n'est parfait."
+            scene v12chf9 # TPP. Show Chris filling in a form, MC sitting down, both worried, mouths closed
+            with dissolve
 
-# game/v12/scene26a.rpy:350
-translate francais v12_follow_chris_47bf0f21:
+            pause 1.25
 
-    # nurse "Chris?"
-    nurse "Chris ?"
+            stop music fadeout 3
+            play music "music/v12/Track Scene 26a_2.mp3" fadein 2
 
-# game/v12/scene26a.rpy:355
-translate francais v12_follow_chris_2f95c352:
+            scene v12chf10 # FPP. Chris and MC now sitting in the waiting room, Chris worried, mouth open, looking at MC, MC looking at Chris
+            with dissolve
 
-    # ch "Hey man, thanks for the support. I'll see you back at the hotel."
-    ch "Hé mec, merci pour le soutien. Je te verrai à l'hôtel."
+            ch "*Sighs*"
 
-# game/v12/scene26a.rpy:360
-translate francais v12_follow_chris_ada3c2e2:
+            scene v12chf10a # FPP. Same as v12chf10, Chris worried, mouth closed
+            with dissolve
 
-    # u "Alright, sounds good. Call if you need me."
-    u "D'accord, ça marche. Appelle si tu as besoin de moi."
+            u "How's it feeling?"
 
-translate francais strings:
+            scene v12chf10b # FPP. Same as v12chf10, Chris slight smile, mouth open
+            with dissolve
 
-    # game/v12/scene26a.rpy:128
-    old "She wasn't overreacting"
-    new "Elle ne réagissait pas de façon excessive"
+            ch "Hurts pretty fucking bad... I'm sure it's just a sprain, been in enough fights to know what a sprained wrist feels like. *Chuckles*"
 
-    # game/v12/scene26a.rpy:128
-    old "You're right"
-    new "Tu as raison."
+            scene v12chf10c # FPP. Same as v12chf10b, Chris slight smile, mouth closed
+            with dissolve
+
+            u "*Chuckles* I'm sure you have. I don't think I've ever seen you that mad before. Think I may have seen a flash of Grayson in you for a minute."
+
+            scene v12chf10
+            with dissolve
+
+            ch "I don't like getting mad like that, but I'd be lying if I said I didn't have my moments."
+
+            scene v12chf10a
+            with dissolve
+
+            u "We all have our downfalls, no one's perfect."
+
+            scene v12chf10d # FPP. Same as v12chf10, Chris looking towards the door, slight smile, mouth closed
+            with dissolve
+
+            nurse "Chris?"
+
+            scene v12chf10b
+            with dissolve
+
+            ch "Hey man, thanks for the support. I'll see you back at the hotel."
+
+            scene v12chf10c
+            with dissolve
+
+            u "Alright, sounds good. Call if you need me."
+
+            scene v12chf11 # TPP. Show Chris walking towards the doctor's office, slight smile, mouth closed, MC walking towards the door, worried, mouth closed
+            with dissolve
+
+            pause 0.75
+
+            scene v12chf7a # TPP. Same as v12chf7, only MC, MC getting into the car
+            with dissolve
+
+            pause 0.75
+
+    scene v12chf12 # TPP. Show the car on the road
+    with dissolve
+
+    pause 0.75
+
+    scene v12chf13 # TPP. Show MC leaving the car, car in front of the hotel lobby, MC worried, mouth closed
+    with dissolve
+
+    pause 0.75
+
+    scene v12chf14 # TPP. Show MC walking towards the hotel entrance, mouth closed, worried
+    with dissolve
+
+    pause 0.75
+
+    stop music fadeout 3
+
+    if joinwolves:
+        jump v12s27 #scene 27
+    else:
+        jump v12s27a #scene 27a

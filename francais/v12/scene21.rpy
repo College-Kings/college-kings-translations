@@ -1,505 +1,512 @@
-﻿# TODO: Translation updated at 2021-12-28 17:35
+# SCENE 21: Exploring with Nora
+# Locations: Factory, Sidewalk, Hotel Lobby, Hotel Room Corridor, Hotel Room
+# Characters: MC (Outfit: 9), NORA (Outfit: 1), CRAZY LADY (Outfit: 1), AUBREY (Outfit: 1), IMRE (Outfit: 2)
+# Time: Evening
+# Phone Images: None
 
-# game/v12/scene21.rpy:18
-translate francais v12_nora_exploring_65f1aecc:
+label v12_nora_exploring:
+    scene v12noe1 # TPP. Show MC midway through sitting down on the concrete block, Nora midway through sitting on the ground, both slight smiles, mouths closed
+    with dissolve
 
-    # u "So, what'd you bring?"
-    u "Alors, qu'as-tu apporté ?"
+    pause 0.75
 
-# game/v12/scene21.rpy:23
-translate francais v12_nora_exploring_4e655f26:
+    play music "music/v12/Track Scene 21_1.mp3" fadein 2
 
-    # no "Nothing too fancy."
-    no "Rien d'extraordinaire."
+    scene v12noe2 # FPP. MC sitting on the concrete block, Nora sitting on the ground. Both of them looking at each other, Nora slight smile, mouth closed
+    with dissolve
 
-# game/v12/scene21.rpy:38
-translate francais v12_nora_exploring_def17e47:
+    u "So, what'd you bring?"
 
-    # no "Ahh... The sun feels so nice on my face..."
-    no "Ahh... Le soleil est si agréable sur mon visage..."
+    scene v12noe2a # FPP. Same as v12noe2, Nora slight smile, mouth open
+    with dissolve
 
-# game/v12/scene21.rpy:48
-translate francais v12_nora_exploring_b2f76836:
+    no "Nothing too fancy."
 
-    # no "Oh shit, you don't mind me taking my top off do you? Sorry..."
-    no "Oh merde, ça ne te dérange pas que j'enlève mon haut, si ? Désolée..."
+    scene v12noe2b # FPP. Same as v12noe2, Nora grabbing a drink from her bag, slight smile, mouth closed
+    with dissolve
 
-# game/v12/scene21.rpy:59
-translate francais v12_nora_exploring_12b978c3:
+    pause 0.75
 
-    # u "No, not at all. *Chuckles* You're good."
-    u "Non, pas du tout. *Rire* Tu as bien raison."
+    scene v12noe2c # FPP. Same as v12noe2b, Nora handing the drink to MC, Nora slight smile, mouth closed
+    with dissolve
 
-# game/v12/scene21.rpy:66
-translate francais v12_nora_exploring_3ba99895:
+    pause 0.75
 
-    # u "I mean no, not really. But you did surprise me a little bit..."
-    u "Je veux dire non, pas vraiment. Mais tu me surprends un peu..."
+    scene v12noe2d # FPP. Same as v12noe2, Nora holding the drink, slight smile, mouth open
+    with dissolve
 
-# game/v12/scene21.rpy:71
-translate francais v12_nora_exploring_fe6e028b:
+    no "Ahh... The sun feels so nice on my face..."
 
-    # no "Just imagine I'm in a bikini, yeah?"
-    no "Imagine simplement que je suis en bikini, d'accord ?"
+    scene v12noe2e # FPP. Same as v12noe2, Nora's drink on the ground next to her as she is removing her top, she has a bra on, slight smile, mouth closed
+    with dissolve
 
-# game/v12/scene21.rpy:76
-translate francais v12_nora_exploring_4285115a:
+    pause 0.75
 
-    # u "Haha, right. Okay. *Chuckles*"
-    u "Haha, c'est vrai. Ok. *Rire*"
+    scene v12noe2f # FPP. Same as v12noe2e, Nora in her bra, Nora leaning back, slightly worried, mouth open
+    with dissolve
 
-# game/v12/scene21.rpy:81
-translate francais v12_nora_exploring_d4d0264b:
+    no "Oh shit, you don't mind me taking my top off do you? Sorry..."
 
-    # u "*Deep breath* Is Europe turning out to be everything you dreamed it would?"
-    u "*Expiration profonde* Est ce que ce séjour à Paris ressemble à tout ce dont tu as rêvé ?"
+    scene v12noe2g # FPP. Same as v12noe2f, Nora slightly worried, mouth closed
+    with dissolve
 
-# game/v12/scene21.rpy:86
-translate francais v12_nora_exploring_f05f1c5f:
+    menu:
+        "Not at all":
+            $ add_point(KCT.TROUBLEMAKER)
+            scene v12noe2h # FPP. Same as v12noe2f, Nora taking a sip of her drink
+            with dissolve
 
-    # no "Yes and no..."
-    no "Oui et non..."
+            u "No, not at all. *Chuckles* You're good."
 
-# game/v12/scene21.rpy:91
-translate francais v12_nora_exploring_a6c033d6:
+        "A little surprising...":
+            $ add_point(KCT.BRO)
+            scene v12noe2i # FPP. Same as v12noe2f, Nora slight smile, mouth closed
+            with dissolve
 
-    # no "I think I might just do a poor job of realizing that we aren't in a fairytale land."
-    no "Je pense que je n'arrive pas à réaliser que nous ne sommes pas dans un pays de conte de fées."
+            u "I mean no, not really. But you did surprise me a little bit..."
 
-# game/v12/scene21.rpy:96
-translate francais v12_nora_exploring_2bc0ee81:
+            scene v12noe2j # FPP. Same as v12noe2j, Nora slight smile, mouth open
+            with dissolve
 
-    # u "Hey, I mean... It's definitely nice to believe that the grass is greener on the other side."
-    u "Hé oui, c'est vraiment bien de penser que l'herbe est plus verte ailleurs."
+            no "Just imagine I'm in a bikini, yeah?"
 
-# game/v12/scene21.rpy:101
-translate francais v12_nora_exploring_92887b86:
+            scene v12noe2h
+            with dissolve
 
-    # no "Yet it usually never is."
-    no "Pourtant, elle ne l'est jamais vraiment."
+            u "Haha, right. Okay. *Chuckles*"
 
-# game/v12/scene21.rpy:106
-translate francais v12_nora_exploring_ea3d1777:
+    scene v12noe2g
+    with dissolve
 
-    # u "Right... But just because your problems followed you, doesn't mean the place itself isn't amazing."
-    u "Exact... Mais ce n'est pas parce que tes problèmes sont venus avec toi, que cet endroit n'est pas merveilleux."
+    u "*Deep breath* Is Europe turning out to be everything you dreamed it would?"
 
-# game/v12/scene21.rpy:111
-translate francais v12_nora_exploring_192916cc:
+    scene v12noe2f
+    with dissolve
 
-    # no "I mean, Europe's been great, I'm not gonna lie. There's been a lot I wanted to see that I got to see and I got a little of a vacation."
-    no "Je veux dire, ce séjour en Europe a été génial, je ne vais pas mentir. Il y a beaucoup de choses que je voulais visiter et que j'ai pu faire, sans oublier que je me suis pris un peu de vacances."
+    no "Yes and no..."
 
-# game/v12/scene21.rpy:112
-translate francais v12_nora_exploring_a7bab218:
+    scene v12noe2k # FPP. Same as v12noe2f, different pose
+    with dissolve
 
-    # no "I just didn't get to escape every problem like I expected to, but maybe it was immature to think I could."
-    no "Je n'ai pas réussi à échapper à tous les problèmes comme je m'y attendais, mais c'était peut-être immature de penser que ça serait possible."
+    no "I think I might just do a poor job of realizing that we aren't in a fairytale land."
 
-# game/v12/scene21.rpy:117
-translate francais v12_nora_exploring_d4b84d7d:
+    scene v12noe2l # FPP. Same as v12noe2k, Nora slightly worried, mouth closed
+    with dissolve
 
-    # u "It's not immature, just impossible. This wasn't just you on vacation by yourself. Chris and Chloe came so, your problems with him and your problems with the Chicks followed you."
-    u "Ce n'est pas immature, c'était juste impossible. Tu n'étais pas en vacances toute seule non plus. Chris et Chloé sont venus, tes problèmes avec lui et ceux que tu as avec les Chicks t'ont suivis."
+    u "Hey, I mean... It's definitely nice to believe that the grass is greener on the other side."
 
-# game/v12/scene21.rpy:122
-translate francais v12_nora_exploring_944f3b21:
+    scene v12noe2k
+    with dissolve
 
-    # no "Yeah, you're right. And seriously sucks that this factory is all messed up. The Mahoo article said nothing about it being closed... *Sighs*"
-    no "Oui, tu as raison. Et ça craint vraiment que cette usine soit dans un sale état. Dans son article, Mahoo ne disait pas qu'elle était fermée... *Soupirs*"
+    no "Yet it usually never is."
 
-# game/v12/scene21.rpy:127
-translate francais v12_nora_exploring_4ad6c244:
+    scene v12noe2l
+    with dissolve
 
-    # u "Mahoo?! *Laughs* Who even uses that anymore. That's a dead search engine."
-    u "Mahoo ? ! *Rire* Qui utilise encore ça ? C'est un moteur de recherche complètement mort."
+    u "Right... But just because your problems followed you, doesn't mean the place itself isn't amazing."
 
-# game/v12/scene21.rpy:132
-translate francais v12_nora_exploring_b6ca6922:
+    scene v12noe2k
+    with dissolve
 
-    # no "Yeah, it must be. 'Cause this place is a whole fuckin' mess. *Chuckles*"
-    no "Ouais, il faut bien le croire. Cet endroit est un vrai carnage. *Rire*"
+    no "I mean, Europe's been great, I'm not gonna lie. There's been a lot I wanted to see that I got to see and I got a little of a vacation."
+    no "I just didn't get to escape every problem like I expected to, but maybe it was immature to think I could."
 
-# game/v12/scene21.rpy:137
-translate francais v12_nora_exploring_fa8d493d:
+    scene v12noe2h
+    with dissolve
 
-    # u "Well, just because it's a mess doesn't mean we can't check it out..."
-    u "C'est pas parce que c'est un carnage qu'on ne peut pas y jeter un coup d'oeil..."
+    u "It's not immature, just impossible. This wasn't just you on vacation by yourself. Chris and Chloe came so, your problems with him and your problems with the Chicks followed you."
 
-# game/v12/scene21.rpy:147
-translate francais v12_nora_exploring_83ce8dbf:
+    scene v12noe2f
+    with dissolve
 
-    # u "Okay, nevermind. There's nothing in there worth checking out."
-    u "Ok, laisse tomber. Il n'y a rien là-dedans qui vaille la peine d'être regardé."
+    no "Yeah, you're right. And seriously sucks that this factory is all messed up. The Mahoo article said nothing about it being closed... *Sighs*"
 
-# game/v12/scene21.rpy:157
-translate francais v12_nora_exploring_4b3d32ce:
+    scene v12noe2i
+    with dissolve
 
-    # u "WHAT THE FUCK?!"
-    u "PUTAIN DE MERDE ?!"
+    u "Mahoo?! *Laughs* Who even uses that anymore. That's a dead search engine."
 
-# game/v12/scene21.rpy:162
-translate francais v12_nora_exploring_9959f4fc:
+    scene v12noe2j
+    with dissolve
 
-    # clady "GET OUT OF MY HOUSE! Va t'en! Va t'en!"
-    clady "*En français* SORTEZ DE CHEZ MOI ! Dégagez ! Dégagez !"
+    no "Yeah, it must be. 'Cause this place is a whole fuckin' mess. *Chuckles*"
 
-# game/v12/scene21.rpy:167
-translate francais v12_nora_exploring_59d6a0cc:
+    scene v12noe2i
+    with dissolve
 
-    # u "Whoa- Chill! CHILL! Please lady, chill... What the fuck is wrong with you?"
-    u "Whoa- Tranquille ! TRANQUILLE ! S'il vous plaît madame, calmez-vous... Putain, qu'est-ce qui ne va pas chez vous ?"
+    u "Well, just because it's a mess doesn't mean we can't check it out..."
 
-# game/v12/scene21.rpy:172
-translate francais v12_nora_exploring_4bf80e12:
+    scene v12noe1a # TPP. Same as v12noe1, Show MC getting up, looking into the factory, Nora sitting on the ground, both slight smiles, mouths closed
+    with dissolve
 
-    # no "What is wrong with you?!"
-    no "Qu'est-ce qui ne va pas chez vous ?!"
+    pause 0.75
 
-# game/v12/scene21.rpy:177
-translate francais v12_nora_exploring_d9f4ddf2:
+    scene v12noe3 # FPP. Show MC looking into the factory
+    with dissolve
 
-    # no "Are you okay?!"
-    no "Tu vas bien ?!"
+    u "Okay, nevermind. There's nothing in there worth checking out."
 
-# game/v12/scene21.rpy:182
-translate francais v12_nora_exploring_3d8c6edf:
+    scene v12noe4 # TPP. Show the crazy lady charging MC, MC startled, mouth closed, lady angry, mouth closed
+    with dissolve
 
-    # u "Yeah I'm fine... Thanks."
-    u "Oui, je vais bien... Merci."
+    pause 0.75
 
-# game/v12/scene21.rpy:187
-translate francais v12_nora_exploring_711f8561:
+    scene v12noe5 # FPP. Crazy lady standing in front of MC, both of them looking at each other, lady angry, mouth closed
+    with dissolve
 
-    # no "Why did you just attack him?"
-    no "Pourquoi l'avez-vous attaqué ?"
+    u "WHAT THE FUCK?!"
 
-# game/v12/scene21.rpy:192
-translate francais v12_nora_exploring_25c19795:
+    scene v12noe5a # FPP. Same as v12noe5, lady angry, mouth open
+    with dissolve
 
-    # clady "Because you kids are messing around in my damn house!"
-    clady "Parce que vous faites des cochonneries dans ma foutue maison !"
+    clady "GET OUT OF MY HOUSE! Va t'en! Va t'en!"
 
-# game/v12/scene21.rpy:197
-translate francais v12_nora_exploring_4aa3a163:
+    scene v12noe4a # TPP. Same as v12noe4, lady hitting MC as he tries to block. MC and lady both angry, lady mouth closed, MC mouth open
+    with dissolve
 
-    # no "This is an abandoned factory, how could this possibly be your home?"
-    no "C'est une usine abandonnée, comment ça pourrait être votre maison ?"
+    u "Whoa- Chill! CHILL! Please lady, chill... What the fuck is wrong with you?"
 
-# game/v12/scene21.rpy:202
-translate francais v12_nora_exploring_6cc54d1a:
+    scene v12noe4b # TPP. Same as v12noe4a, Nora pushing the lady away from MC, MC angry, mouth closed, Nora mouth open, angry, lady angry, mouth closed
+    with dissolve
 
-    # clady "I claimed this land... Now be gone! Before I call upon my troops to destroy you..."
-    clady "J'ai revendiqué cette terre... Maintenant, partez ! Avant que j'appelle mes troupes pour vous détruire..."
+    no "What is wrong with you?!"
 
-# game/v12/scene21.rpy:207
-translate francais v12_nora_exploring_fe1c2e87:
+    scene v12noe6 # FPP. Same positioning as v12noe5, Nora standing next to MC, Nora looking at MC, worried, mouth open, she has her hands on his face
+    with dissolve
 
-    # u "*Whisper* Okay, this bitch is officially crazy."
-    u "*Chuchote* Ok, cette pute est officiellement folle."
+    no "Are you okay?!"
 
-# game/v12/scene21.rpy:212
-translate francais v12_nora_exploring_92bece4f:
+    scene v12noe6a # FPP. Same as v12noe6, Nora worried, mouth closed
+    with dissolve
 
-    # no "*Whisper* You didn't think that when she attacked you?"
-    no "*Chuchote* Tu n'y as pas pensé quand elle t'a attaqué ?"
+    u "Yeah I'm fine... Thanks."
 
-# game/v12/scene21.rpy:217
-translate francais v12_nora_exploring_b71246ed:
+    scene v12noe6b # FPP. Same as v12noe6, Nora looking at the crazy lady, Nora angry, mouth open, Nora no longer with her hands on MC
+    with dissolve
 
-    # u "*Whisper* Now I know for sure."
-    u "*Chuchote* Maintenant j'en suis sûr."
+    no "Why did you just attack him?"
 
-# game/v12/scene21.rpy:222
-translate francais v12_nora_exploring_63d5cb6e:
+    scene v12noe5b # FPP. Same as v12noe5, lady angry, mouth open, looking at Nora
+    with dissolve
 
-    # clady "Va t'en!"
-    clady "*En français* Va t'en !"
+    clady "Because you kids are messing around in my damn house!"
 
-# game/v12/scene21.rpy:227
-translate francais v12_nora_exploring_b4fcdee9:
+    scene v12noe6b
+    with dissolve
 
-    # no "We don't speak French!"
-    no "On ne parle pas français !"
+    no "This is an abandoned factory, how could this possibly be your home?"
 
-# game/v12/scene21.rpy:232
-translate francais v12_nora_exploring_e864ba7e:
+    scene v12noe5b
+    with dissolve
 
-    # clady "LEAVEEEEEEE!!!"
-    clady "DÉGAGEEEEEZ !!!"
+    clady "I claimed this land... Now be gone! Before I call upon my troops to destroy you..."
 
-# game/v12/scene21.rpy:243
-translate francais v12_nora_exploring_1d5ab7a9:
+    scene v12noe6c # FPP. Same as v12noe6, Nora no longer with her hands on MC, Nora slight smile, mouth closed
+    with dissolve
 
-    # u "*Whisper* You should try speaking her language?"
-    u "*Chuchote* Tu devrais essayer de parler son langage !"
+    u "*Whisper* Okay, this bitch is officially crazy."
 
-# game/v12/scene21.rpy:248
-translate francais v12_nora_exploring_f37eecdb:
+    scene v12noe6d # FPP. Same as v12noe6c, Nora slight smile, mouth open
+    with dissolve
 
-    # no "*Whisper* French?"
-    no "*Chuchote* En français ?"
+    no "*Whisper* You didn't think that when she attacked you?"
 
-# game/v12/scene21.rpy:253
-translate francais v12_nora_exploring_dcca2c91:
+    scene v12noe6c
+    with dissolve
 
-    # u "*Whisper* No, crazy."
-    u "*Chuchote* Non, en cinglée."
+    u "*Whisper* Now I know for sure."
 
-# game/v12/scene21.rpy:258
-translate francais v12_nora_exploring_dc6007cd:
+    scene v12noe5a
+    with dissolve
 
-    # no "*Whisper* You just wanna see me look stupid."
-    no "*Chuchote* Tu veux juste me voir avoir l'air stupide."
+    clady "Va t'en!"
 
-# game/v12/scene21.rpy:263
-translate francais v12_nora_exploring_7cc84a18:
+    scene v12noe6b
+    with dissolve
 
-    # u "*Whisper* Maybe. *Chuckles*"
-    u "*Chuchote* Peut-être. *Rire*"
+    no "We don't speak French!"
 
-# game/v12/scene21.rpy:268
-translate francais v12_nora_exploring_75a41720:
+    scene v12noe5b
+    with dissolve
 
-    # no "Ugh! This fucking trip..."
-    no "Argh ! Putain de visite..."
+    clady "LEAVEEEEEEE!!!"
 
-# game/v12/scene21.rpy:273
-translate francais v12_nora_exploring_132a3f80:
+    scene v12noe5
+    with dissolve
 
-    # no "Look lady, your home has been chosen for inspection by King [name]."
-    no "Ecoutez madame, votre maison a été choisie pour être inspectée par le Roi [name]."
+    menu:
+        "Speak her language":
+            $ add_point(KCT.TROUBLEMAKER)
+            scene v12noe6c
+            with dissolve
 
-# game/v12/scene21.rpy:279
-translate francais v12_nora_exploring_215367cc:
+            u "*Whisper* You should try speaking her language?"
 
-    # no "I am his wife, Queen Nora."
-    no "Je suis sa femme, la reine Nora."
+            scene v12noe6d
+            with dissolve
 
-# game/v12/scene21.rpy:284
-translate francais v12_nora_exploring_42ce4e93:
+            no "*Whisper* French?"
 
-    # u "The King has finished his inspection and we will be leaving now."
-    u "Le Roi a terminé son inspection et nous allons partir maintenant."
+            scene v12noe6c
+            with dissolve
 
-# game/v12/scene21.rpy:289
-translate francais v12_nora_exploring_28685ffc:
+            u "*Whisper* No, crazy."
 
-    # clady "*British accent* Wait, your majesty. Might you stay for a cup of tea?"
-    clady "*Accent britannique* Attendez, votre majesté. Pourriez-vous rester pour une tasse de thé ?"
+            scene v12noe6d
+            with dissolve
 
-# game/v12/scene21.rpy:294
-translate francais v12_nora_exploring_2b580825:
+            no "*Whisper* You just wanna see me look stupid."
 
-    # u "*Whisper* Did she just get a British accent? *Chuckles*"
-    u "*Chuchote* Elle vient de prendre l'accent britannique ? *Rire*"
+            scene v12noe6c
+            with dissolve
 
-# game/v12/scene21.rpy:299
-translate francais v12_nora_exploring_973bd3a8:
+            u "*Whisper* Maybe. *Chuckles*"
 
-    # no "I'm sorry but, we can't stay. We have other homes to inspect... And the king forbids you from attacking anyone else, understand?"
-    no "Je suis désolée mais, nous ne pouvons pas rester. Nous avons d'autres maisons à inspecter... Et le roi vous interdit d'attaquer qui que ce soit d'autre, compris ?"
+            scene v12noe6e # FPP. Same as v12noe6d, Nora slightly annoyed, mouth open
+            with dissolve
 
-# game/v12/scene21.rpy:304
-translate francais v12_nora_exploring_5d393d6e:
+            no "Ugh! This fucking trip..."
 
-    # clady "Yes... So sorry my lady, I'll punish myself appropriately..."
-    clady "Oui... Désolée, Milady, je vais me punir comme il se doit..."
+            scene v12noe6b
+            with dissolve
 
-# game/v12/scene21.rpy:309
-translate francais v12_nora_exploring_a69b8ecb:
+            no "Look lady, your home has been chosen for inspection by King [name]."
 
-    # no "Oh- no! Th-That won't be necessary. *Chuckles*"
-    no "Oh- non ! Ce ne sera pas nécessaire. *Rire*"
+            if nora.relationship >= Relationship.LIKES:
+                scene v12noe6b
+                with dissolve
 
-# game/v12/scene21.rpy:314
-translate francais v12_nora_exploring_6c76e2d6:
+                no "I am his wife, Queen Nora."
 
-    # clady "You're... so kind! Thank you! Thank you..."
-    clady "Vous êtes... si gentille ! Merci. Merci à vous..."
+            scene v12noe5c # FPP. Same as v12noe5, lady worried, mouth closed
+            with dissolve
 
-# game/v12/scene21.rpy:321
-translate francais v12_nora_exploring_9e671536:
+            u "The King has finished his inspection and we will be leaving now."
 
-    # u "*Whisper* Oooo, I think you made her angry. You just gonna let her talk to you like that?"
-    u "*Chuchote* Ooooh, je pense que tu l'as mise en colère. Tu vas la laisser te parler comme ça ?"
+            scene v12noe5d # FPP. Same as v12noe5c, lady worried, mouth open
+            with dissolve
 
-# game/v12/scene21.rpy:326
-translate francais v12_nora_exploring_4bf45e0c:
+            clady "*British accent* Wait, your majesty. Might you stay for a cup of tea?"
 
-    # no "*Scoffs* Look lady, it's obvious that you're homeless and probably just need some help."
-    no "*Pffff* Ecoutez madame, il est évident que vous êtes sans abri et que vous avez probablement juste besoin d'aide."
+            scene v12noe6c
+            with dissolve
 
-# game/v12/scene21.rpy:331
-translate francais v12_nora_exploring_f2754e90:
+            u "*Whisper* Did she just get a British accent? *Chuckles*"
 
-    # clady "I'm not homeless, you're on my lawn right now! Take your wife and leave this instant."
-    clady "Je ne suis pas une SDF, vous êtes sur ma pelouse en ce moment même ! Prenez votre femme et partez tout de suite."
+            scene v12noe6b
+            with dissolve
 
-# game/v12/scene21.rpy:337
-translate francais v12_nora_exploring_8c226ea0:
+            no "I'm sorry but, we can't stay. We have other homes to inspect... And the king forbids you from attacking anyone else, understand?"
 
-    # no "His wife..."
-    no "Sa femme..."
+            scene v12noe5e # FPP. Same as v12noe5b, lady worried, mouth open
+            with dissolve
 
-# game/v12/scene21.rpy:342
-translate francais v12_nora_exploring_f5802af7:
+            clady "Yes... So sorry my lady, I'll punish myself appropriately..."
 
-    # no "Will leave when she wants."
-    no "Elle partira quand elle le voudra."
+            scene v12noe6f # FPP. Same as v12noe6b, Nora slightly smiling, mouth open
+            with dissolve
 
-# game/v12/scene21.rpy:348
-translate francais v12_nora_exploring_05feedfe:
+            no "Oh- no! Th-That won't be necessary. *Chuckles*"
 
-    # no "I'm not his wife and I'm not your daughter, so don't think you can just order me around."
-    no "Je ne suis pas sa femme et je ne suis pas votre fille, alors ne pensez pas que vous pouvez me donner des ordres."
+            scene v12noe5f # FPP. Same as v12noe5e, lady slightly smiling, mouth open
+            with dissolve
 
-# game/v12/scene21.rpy:353
-translate francais v12_nora_exploring_945e1e17:
+            clady "You're... so kind! Thank you! Thank you..."
 
-    # clady "Don't make me call the army! My husband is the commander."
-    clady "Ne me faites pas appeler l'armée ! Mon mari en est le commandant."
+        "Tell her off":
+            $ add_point(KCT.BRO)
+            scene v12noe6g # FPP. Same as v12noe6e, Nora slightly annoyed, mouth closed
+            with dissolve
 
-# game/v12/scene21.rpy:358
-translate francais v12_nora_exploring_face8eca:
+            u "*Whisper* Oooo, I think you made her angry. You just gonna let her talk to you like that?"
 
-    # no "Okay... Let's go, [name]. Quickly... *Chuckles*"
-    no "Ok... Allons-y, [name]. Vite... *Rire*"
+            scene v12noe6b
+            with dissolve
 
-# game/v12/scene21.rpy:380
-translate francais v12_nora_exploring_0d6e27b6:
+            no "*Scoffs* Look lady, it's obvious that you're homeless and probably just need some help."
 
-    # u "So... You're my wife now? *Chuckles*"
-    u "Alors... Tu es ma femme maintenant ?  *Rire*"
+            scene v12noe5b
+            with dissolve
 
-# game/v12/scene21.rpy:385
-translate francais v12_nora_exploring_629d411b:
+            clady "I'm not homeless, you're on my lawn right now! Take your wife and leave this instant."
 
-    # no "*Chuckles* I said a lot of things to that crazy lady, don't read to far into it."
-    no "*Rire* J'ai dit beaucoup de choses à cette folle, ne va pas trop loin."
+            if nora.relationship >= Relationship.LIKES:
+                scene v12noe6d
+                with dissolve
 
-# game/v12/scene21.rpy:390
-translate francais v12_nora_exploring_a0b76974:
+                no "His wife..."
 
-    # u "Alright..."
-    u "Bon..."
+                scene v12noe6b
+                with dissolve
+                
+                no "Will leave when she wants."
 
-# game/v12/scene21.rpy:396
-translate francais v12_nora_exploring_db774833:
+            else:
+                scene v12noe6b
+                with dissolve
 
-    # u "You were so brave, I don't know what I would've done if you weren't there... My hero!"
-    u "Tu as été si courageuse, je ne sais pas ce que j'aurais fait si tu n'avais pas été là... Mon héroine !"
+                no "I'm not his wife and I'm not your daughter, so don't think you can just order me around."
 
-# game/v12/scene21.rpy:401
-translate francais v12_nora_exploring_b7fb4df7:
+            scene v12noe5b
+            with dissolve
 
-    # no "Very funny but honestly, you gotta start being careful. I won't always be there to save you. *Chuckles*"
-    no "Très drôle mais sérieusement, tu devrais commencer à faire un peu plus attention. Je ne serai pas toujours là pour te sauver. *Rire*"
+            clady "Don't make me call the army! My husband is the commander."
 
-# game/v12/scene21.rpy:406
-translate francais v12_nora_exploring_f2444512:
+    scene v12noe6d
+    with dissolve
 
-    # u "*Laughs* Okay, got it."
-    u "*Rire* Ok, compris."
+    no "Okay... Let's go, [name]. Quickly... *Chuckles*"
 
-# game/v12/scene21.rpy:439
-translate francais v12_nora_exploring_1cc67eab:
+    scene v12noe7 # TPP. Show Nora putting her shirt back on, slight smile, mouth closed
+    with dissolve
 
-    # u "Hey, hey. We made it back."
-    u "Hey, hey. Nous sommes revenus."
+    pause 0.75
 
-# game/v12/scene21.rpy:444
-translate francais v12_nora_exploring_48d8622b:
+    scene v12noe8 # TPP. Show Nora grabbing her bag and pulling MC by the arm as they walk away from the crazy lady, both slightly smiling, mouths closed, lady angry, gesticulating at them in the background, mouth closed
+    with dissolve
 
-    # no "Barely..."
-    no "Tout juste..."
+    pause 0.75
 
-# game/v12/scene21.rpy:449
-translate francais v12_nora_exploring_0c9b8f40:
+    scene v12noe9 # TPP. Show MC and Nora walking through the streets, both slightly smiling, mouths closed
+    with fade
 
-    # u "*Laughs* How are you feeling, Aubrey?"
-    u "*Rire* Comment te sens-tu, Aubrey ?"
+    pause 0.75
 
-# game/v12/scene21.rpy:454
-translate francais v12_nora_exploring_bdb9b491:
+    if nora.relationship >= Relationship.LIKES:
+        scene v12noe10 # FPP. Nora and MC stop walking, they're on the sidewalk, looking at each other, Nora slight smile, avoiding eye contact, blushing, mouth closed
+        with dissolve
 
-    # au "A lot better. Imre massaged my ankle for me, but he's been drinking so much I doubt he remembers. *Chuckles*"
-    au "Beaucoup mieux. Imre m'a massé la cheville, mais il a tellement bu que je doute qu'il s'en souvienne. *Rire*"
+        u "So... You're my wife now? *Chuckles*"
 
-# game/v12/scene21.rpy:459
-translate francais v12_nora_exploring_9ede6bbd:
+        scene v12noe10a # FPP. Same as v12noe10, Nora looking at MC, Nora slight smile, mouth open
+        with dissolve
 
-    # imre "*Drunk* I do rememberrr!"
-    imre "*ivre* J'm'en souviennnnns !"
+        no "*Chuckles* I said a lot of things to that crazy lady, don't read to far into it."
 
-# game/v12/scene21.rpy:464
-translate francais v12_nora_exploring_52636210:
+        scene v12noe10b # FPP. Same as v12noe10a, Nora slight smile, mouth closed
+        with dissolve
 
-    # imre "*Loud drunk whisper* She has such pretty feet..."
-    imre "*Chuchote d'ivrogne bruyant* Elle a d'si jolis pieds..."
+        u "Alright..."
 
-# game/v12/scene21.rpy:469
-translate francais v12_nora_exploring_960de289:
+    else:
+        scene v12noe10b
+        with dissolve
 
-    # no "*Laughs* Wow..."
-    no "*Rire* Ouah..."
+        u "You were so brave, I don't know what I would've done if you weren't there... My hero!"
 
-# game/v12/scene21.rpy:474
-translate francais v12_nora_exploring_1b606e54:
+        scene v12noe10a
+        with dissolve
 
-    # u "Well, alright then. *Chuckles* Just wanted to make sure you were doing good."
-    u "Bon, très bien alors. *Rire* Je voulais juste m'assurer que tu allais bien."
+        no "Very funny but honestly, you gotta start being careful. I won't always be there to save you. *Chuckles*"
 
-# game/v12/scene21.rpy:479
-translate francais v12_nora_exploring_43eebcbd:
+        scene v12noe10b
+        with dissolve
 
-    # au "*Laughs* Yeah, thank you. Did you guys have fun?"
-    au "*Rire* Oui, merci. Vous vous êtes amusés ?"
+        u "*Laughs* Okay, got it."
 
-# game/v12/scene21.rpy:484
-translate francais v12_nora_exploring_f77b7d67:
+    scene v12noe11 # TPP. Show MC and Nora walking close to the hotel, both slightly smiling, mouths closed
+    with fade
 
-    # u "I did, I don't know about Nora though. *Chuckles*"
-    u "Oui, mais je ne sais pas pour Nora. *Rire*"
+    pause 0.75
 
-# game/v12/scene21.rpy:489
-translate francais v12_nora_exploring_739a82fc:
+    scene v12noe12 # TPP. Show MC and Nora walking into the hotel lobby, both slightly smiling, mouths closed
+    with dissolve
 
-    # au "*Chuckles* Oh no... What happened?"
-    au "*Rire* Oh non... Que s'est-il passé ?"
+    pause 0.75
 
-# game/v12/scene21.rpy:494
-translate francais v12_nora_exploring_37ab3787:
+    scene v12noe13 # TPP. Show MC and Nora walking through the hotel lobby, towards the rooms, both slightly smiling, mouths closed
+    with dissolve
 
-    # u "I'll let her tell you all about it. Later guys."
-    u "Je vais la laisser te raconter tout ça. A plus tard."
+    pause 0.75
 
-# game/v12/scene21.rpy:499
-translate francais v12_nora_exploring_c806e5f6:
+    scene v12noe14 # TPP. Show MC and Nora walking through the hotel room corridor, both slightly smiling, mouths closed
+    with dissolve
 
-    # no "Bye [name], thanks for hanging with me."
-    no "À plus tard [name], merci d'être resté avec moi."
+    pause 0.75
 
-# game/v12/scene21.rpy:504
-translate francais v12_nora_exploring_173f2156:
+    scene v12noe15 # TPP. Show MC and Nora entering Aubrey's hotel room, both slightl smiling, mouths closed
+    with dissolve
 
-    # u "Anytime."
-    u "Je t'en prie."
+    pause 0.75
 
-translate francais strings:
+    stop music fadeout 3
+    play music "music/v12/Track Scene 21_2.mp3" fadein 2
 
-    # game/v12/scene21.rpy:53
-    old "Not at all"
-    new "Pas du tout"
+    scene v12noe16 # FPP. MC and Nora standing next to each other in the room, Aubrey lying on her bed, with her phone, Imre drunk sitting on the floor, MC looking at Aubrey, Aubrey looking at MC, Aubrey slight smile, mouth open (Only Aubrey in shot)
+    with dissolve
 
-    # game/v12/scene21.rpy:53
-    old "A little surprising..."
-    new "Un peu surpris..."
+    u "Hey, hey. We made it back."
 
-    # game/v12/scene21.rpy:237
-    old "Speak her language"
-    new "Parle son langage"
+    scene v12noe17 # FPP. Same positioning as v12noe17, MC looking at Nora, Nora looking at MC, Nora slight smile, mouth open
+    with dissolve
 
-    # game/v12/scene21.rpy:237
-    old "Tell her off"
-    new "Dis-lui merde"
+    no "Barely..."
+
+    scene v12noe16
+    with dissolve
+
+    u "*Laughs* How are you feeling, Aubrey?"
+
+    scene v12noe16a # FPP. Same as v12noe16, Aubrey slight smile, mouth open
+    with dissolve
+
+    au "A lot better. Imre massaged my ankle for me, but he's been drinking so much I doubt he remembers. *Chuckles*"
+
+    scene v12noe18 # FPP. Same positioning as v12noe16, MC looking at Imre, Imre looking at Aubrey, Imre drunk, smiling, mouth open
+    with dissolve
+
+    imre "*Drunk* I do rememberrr!"
+
+    scene v12noe18a # FPP. Same as v12noe18, Imre looking as MC, Imre drunk, smiling, mouth open
+    with dissolve
+
+    imre "*Loud drunk whisper* She has such pretty feet..."
+
+    scene v12noe17a # FPP. Same as v12noe17, Nora looking at Imre, Nora smiling, mouth open
+    with dissolve
+
+    no "*Laughs* Wow..."
+
+    scene v12noe16
+    with dissolve
+
+    u "Well, alright then. *Chuckles* Just wanted to make sure you were doing good."
+
+    scene v12noe16a
+    with dissolve
+
+    au "*Laughs* Yeah, thank you. Did you guys have fun?"
+
+    scene v12noe16
+    with dissolve
+
+    u "I did, I don't know about Nora though. *Chuckles*"
+
+    scene v12noe16a
+    with dissolve
+
+    au "*Chuckles* Oh no... What happened?"
+
+    scene v12noe16
+    with dissolve
+
+    u "I'll let her tell you all about it. Later guys."
+
+    scene v12noe17
+    with dissolve
+
+    no "Bye [name], thanks for hanging with me."
+
+    scene v12noe17b # FPP. Same as v12noe17, Nora slight smile, mouth closed
+    with dissolve
+
+    u "Anytime."
+
+    scene v12noe19 # TPP. Show MC leaving the hotel room and going to the hallway, slight smile, mouth closed
+    with dissolve
+
+    pause 0.75
+
+    stop music fadeout 3
+
+    jump v12_riley_room #scene 22

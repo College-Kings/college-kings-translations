@@ -1,1004 +1,1238 @@
-﻿# TODO: Translation updated at 2021-12-30 17:56
+# SCENE X:Big Night with Lauren
+# Locations:hotel lobby, hotel room, hotel roof, street, restaurant, park
+# Characters: MC (Outfit: 6), LAUREN (Outfit: Candy dress with black textura), GREETER (Outfit: 1)
+# Time:Night
+# Phone Images: None
 
-# game/v12/scene29.rpy:24
-translate francais v12_lauren_sex_da0c033f:
+label v12_lauren_sex:
+    scene v12las1 # FPP. MC sitting on the couch in the hotel lobby, watching as Lauren walks towards him, Lauren slight smile, mouth closed
+    with dissolve
 
-    # u "Hey, you."
-    u "Salut, toi."
+    pause 0.75
 
-# game/v12/scene29.rpy:29
-translate francais v12_lauren_sex_9b153b75:
+    play music "music/v12/Track Scene 29_1.mp3" fadein 2
 
-    # la "If I had to guess, I'd say you aren't doing anything at the moment?"
-    la "Si je devais me prononcer, je dirais que tu ne fais rien en ce moment ?"
+    if lauren.relationship >= Relationship.GIRLFRIEND:
+        scene v12las2 # TPP. Show Lauren kissing MC, MC still sitting down
+        with dissolve
 
-# game/v12/scene29.rpy:34
-translate francais v12_lauren_sex_e6922037:
+        pause 1.75
 
-    # u "You'd be right. *Chuckles* Feel like I haven't seen you in a while... Been busy?"
-    u "Et tu aurais raison. *Rire* J'ai l'impression de ne pas t'avoir vu depuis un moment... Tu étais occupée ?"
+    scene v12las1a # FPP. Same as v12las1, Lauren in talking distance now, Lauren slight smile, mouth closed
+    with dissolve
 
-# game/v12/scene29.rpy:39
-translate francais v12_lauren_sex_bbc15eb1:
+    u "Hey, you."
 
-    # la "I've been talking with my sister a lot, actually. Also hanging out with Amber."
-    la "J'ai beaucoup parlé avec ma soeur, en fait. Je passe aussi du temps avec Amber."
+    scene v12las1b # FPP. Same as v12las1a, Lauren slight smile, mouth open
+    with dissolve
 
-# game/v12/scene29.rpy:44
-translate francais v12_lauren_sex_6887e69c:
+    la "If I had to guess, I'd say you aren't doing anything at the moment?"
 
-    # u "If you've been hanging out with Amber, why didn't you come to the little slumber party? I thought I'd see you there."
-    u "Si tu traînais avec Amber, pourquoi n'es-tu pas venue à la petite soirée pyjama ? Je croyais que je t'y verrais."
+    scene v12las1a
+    with dissolve
 
-# game/v12/scene29.rpy:49
-translate francais v12_lauren_sex_92dc5f01:
+    u "You'd be right. *Chuckles* Feel like I haven't seen you in a while... Been busy?"
 
-    # la "I wasn't there because outside of hanging with Amber... I've been getting something prepared for us. *Chuckles*"
-    la "Je n'étais pas là parce qu'à part traîner avec Amber... J'ai préparé quelque chose pour nous. *Rire*"
+    scene v12las1b
+    with dissolve
 
-# game/v12/scene29.rpy:54
-translate francais v12_lauren_sex_87478ca8:
+    la "I've been talking with my sister a lot, actually. Also hanging out with Amber."
 
-    # u "Ooo, what's that?"
-    u "Ooo, et qu'est-ce que c'est ?"
+    scene v12las1a
+    with dissolve
 
-# game/v12/scene29.rpy:59
-translate francais v12_lauren_sex_c81193af:
+    u "If you've been hanging out with Amber, why didn't you come to the little slumber party? I thought I'd see you there."
 
-    # la "It's a surprise, but just know, tonight's gonna be a very special night..."
-    la "C'est une surprise, mais il faut que tu saches que ce soir sera une soirée très spéciale..."
+    scene v12las1b
+    with dissolve
 
-# game/v12/scene29.rpy:64
-translate francais v12_lauren_sex_5b7c7598:
+    la "I wasn't there because outside of hanging with Amber... I've been getting something prepared for us. *Chuckles*"
 
-    # u "Anything special I should know or something I should wear?"
-    u "Y a-t-il quelque chose de spécial que je devrais savoir ou que je devrais porter ?"
+    scene v12las1c # FPP. Same as v12las1a, different pose
+    with dissolve
 
-# game/v12/scene29.rpy:69
-translate francais v12_lauren_sex_f46712be:
+    u "Ooo, what's that?"
 
-    # la "Actually... Yeah, if you could wear something nice I'd appreciate that."
-    la "En fait... Oui, si tu pouvais porter quelque chose de beau, j'apprécierais."
+    scene v12las1d # FPP. Same as v12las1c, Lauren slight smile, mouth open
+    with dissolve
 
-# game/v12/scene29.rpy:74
-translate francais v12_lauren_sex_bbf78abf:
+    la "It's a surprise, but just know, tonight's gonna be a very special night..."
 
-    # u "Like a suit?"
-    u "Comme un costume ?"
+    scene v12las1c
+    with dissolve
 
-# game/v12/scene29.rpy:79
-translate francais v12_lauren_sex_340e6d89:
+    u "Anything special I should know or something I should wear?"
 
-    # la "*Chuckles* Yes, [name], Like a suit."
-    la "*Rire* Oui, [name], comme un costume."
+    scene v12las1d
+    with dissolve
 
-# game/v12/scene29.rpy:84
-translate francais v12_lauren_sex_8ad5b74c:
+    la "Actually... Yeah, if you could wear something nice I'd appreciate that."
 
-    # u "Haha, okay. Should we meet back here?"
-    u "Haha, ok. On se retrouve ici ?"
+    scene v12las1c
+    with dissolve
 
-# game/v12/scene29.rpy:89
-translate francais v12_lauren_sex_a0ef52e7:
+    u "Like a suit?"
 
-    # la "Yes! I'm gonna get changed also. I'll try not to take too long. *Chuckles*"
-    la "Oui ! Je vais me changer aussi. Je vais tout de même essayer de ne pas prendre trop de temps. *Rire*"
+    scene v12las1b
+    with dissolve
 
-# game/v12/scene29.rpy:94
-translate francais v12_lauren_sex_f2b6160f:
+    la "*Chuckles* Yes, [name], Like a suit."
 
-    # u "Alright, then. See you soon..."
-    u "Bon, dans ce cas. A bientôt..."
+    scene v12las1a
+    with dissolve
 
-# game/v12/scene29.rpy:132
-translate francais v12_lauren_sex_83ca8e02:
+    u "Haha, okay. Should we meet back here?"
 
-    # u "(Hell yeah... Looking nice.)"
-    u "(Putain ouais... C'est beau.)"
+    scene v12las1d
+    with dissolve
 
-# game/v12/scene29.rpy:142
-translate francais v12_lauren_sex_0ffc2516:
+    la "Yes! I'm gonna get changed also. I'll try not to take too long. *Chuckles*"
 
-    # u "(Guess she hasn't made it down here yet.)"
-    u "(Je pense qu'elle n'est pas encore descendue.)"
+    scene v12las1c
+    with dissolve
 
-# game/v12/scene29.rpy:170
-translate francais v12_lauren_sex_3ce59ee6:
+    u "Alright, then. See you soon..."
 
-    # u "Holy... Lauren, oh my god!"
-    u "Put... Lauren, oh lààà !"
+    scene v12las3 # TPP. Show MC kissing Lauren on the cheek, he is now standing up
+    with dissolve
 
-# game/v12/scene29.rpy:175
-translate francais v12_lauren_sex_651c3648:
+    pause 0.75
 
-    # la "W-what? Is something wrong wi-"
-    la "Qu-Quoi ? Quelque chose ne va pas avec..."
+    scene v12las4 # TPP. Show Lauren smiling, mouth closed as she walks away from MC
+    with dissolve
 
-# game/v12/scene29.rpy:180
-translate francais v12_lauren_sex_500a3bbf:
+    pause 0.75
 
-    # u "No, nothing is wrong... You just look amazing!"
-    u "Non, tout va bien... Tu es juste magnifique !"
+    scene v12las5 # TPP. Show MC walking in the hotel lobby towards the rooms, slight smile, mouth closed
+    with dissolve
 
-# game/v12/scene29.rpy:185
-translate francais v12_lauren_sex_51fe3e3e:
+    pause 0.75
 
-    # la "Oh, haha... Thank you, you look very handsome as well. Sorry I took so long..."
-    la "Oh, haha... Merci, tu es très beau toi aussi. Désolée d'avoir été si longue..."
+    scene v12las6 # TPP. Show MC walking in the hotel corridor, slight smile, mouth closed
+    with dissolve
 
-# game/v12/scene29.rpy:190
-translate francais v12_lauren_sex_cf86edca:
+    pause 0.75
 
-    # u "Don't worry about that, you're always worth the wait."
-    u "Ne t'inquiète pas pour ça, tu vaux toujours la peine d'attendre."
+    scene v12las7 # TPP. Show MC walking into his room, slight smile, mouth closed
+    with dissolve
 
-# game/v12/scene29.rpy:195
-translate francais v12_lauren_sex_cd1f190d:
+    pause 0.75
 
-    # la "*Chuckles* Okay... Are you ready to go?"
-    la "*Rire* Ok... Tu es prêt à partir ?"
+    scene v12las8 # TPP. Show MC putting on the suit, slight smile, mouth closed
+    with dissolve
 
-# game/v12/scene29.rpy:200
-translate francais v12_lauren_sex_f10f2a27:
+    pause 0.75
 
-    # u "Born ready."
-    u "Né pour être prêt."
+    stop music fadeout 3
+    play music "music/v12/Track Scene 29_2.mp3" fadein 2
 
-# game/v12/scene29.rpy:205
-translate francais v12_lauren_sex_73922977:
+    scene v12las9 # TPP. Show MC wearing his suit, looking at the mirror, smiling, posing seductively, mouth closed
+    with dissolve
 
-    # la "Haha, our ride is right outside."
-    la "Haha, notre voiture est juste dehors."
+    u "(Hell yeah... Looking nice.)"
 
-# game/v12/scene29.rpy:210
-translate francais v12_lauren_sex_bd183b17:
+    scene v12las10 # TPP. Show MC walking out of the room, smiling, in his suit, mouth closed
+    with dissolve
 
-    # u "I'm really curious about what you have planned..."
-    u "Je suis vraiment curieux de savoir ce que tu as prévu..."
+    pause 0.75
 
-# game/v12/scene29.rpy:215
-translate francais v12_lauren_sex_403d7082:
+    scene v12las11 # TPP. Show MC walking in the hotel lobby, in his suit, smiling, mouth closed
+    with dissolve
 
-    # la "A verrrrrry special night. As long as everything goes perfect, you're in for a treat..."
-    la "Une nuit trèèèèès spéciale. Si tout se passe bien, tu vas te régaler..."
+    u "(Guess she hasn't made it down here yet.)"
 
-# game/v12/scene29.rpy:217
-translate francais v12_lauren_sex_163595b9:
+    scene v12las12 # TPP. Show MC pacing in the hotel lobby, smiling, mouth closed
+    with dissolve
 
-    # u "(I like treats...)"
-    u "(J'aime les gâteries...)"
+    pause 0.75
 
-# game/v12/scene29.rpy:242
-translate francais v12_lauren_sex_6ab680cf:
+    scene v12las12a # TPP. Same as v12las12, MC pacing in another direction
+    with dissolve
 
-    # la "Finally... We're here."
-    la "Enfin... Nous sommes arrivés."
+    pause 0.75
 
-# game/v12/scene29.rpy:247
-translate francais v12_lauren_sex_89b722df:
+    scene v12las12b # TPP. Same as v12las12a, MC pacing in yet another direction
+    with dissolve
 
-    # u "Damn, this is a nice place! Treating me to dinner?"
-    u "Wouah, c'est un endroit sympa ! Tu m'invites à dîner ?"
+    pause 0.75
 
-# game/v12/scene29.rpy:252
-translate francais v12_lauren_sex_c02c4436:
+    scene v12las13 # TPP. Show Lauren walking towards MC in the lobby in her dress, Lauren embarassed, mouth closed, MC looking at her, surprised, mouth closed
+    with dissolve
 
-    # la "For our first stop, I wanted to make sure you had a full stomach. *Chuckles*"
-    la "Pour notre première étape, je voulais m'assurer que tu avais l'estomac plein. *Rire*"
+    pause 0.75
 
-# game/v12/scene29.rpy:257
-translate francais v12_lauren_sex_997736a3:
+    stop music fadeout 3
+    play music "music/v12/Track Scene 29_3.mp3" fadein 2
 
-    # u "Hmm... So I'm going to need some energy for the next bit..."
-    u "Hmm... Je vais avoir besoin d'un peu d'énergie pour la suite..."
+    scene v12las14 # FPP. MC and Lauren in lobby, MC and Lauren looking at each other, Lauren embarassed, mouth closed, looking at the ground, blushing
+    with dissolve
 
-# game/v12/scene29.rpy:262
-translate francais v12_lauren_sex_6a25a065:
+    u "Holy... Lauren, oh my god!"
 
-    # la "Less guessing, more kissing!"
-    la "Moins de devinettes, plus de baisers !"
+    scene v12las14a # FPP. Same as v12las14, Lauren embarassed, mouth open
+    with dissolve
 
-# game/v12/scene29.rpy:267
-translate francais v12_lauren_sex_fcc18885:
+    la "W-what? Is something wrong wi-"
 
-    # u "*Laughs*"
-    u "*Rire*"
+    scene v12las14
+    with dissolve
 
-# game/v12/scene29.rpy:285
-translate francais v12_lauren_sex_df1b2807:
+    u "No, nothing is wrong... You just look amazing!"
 
-    # greeter "Bonjour!"
-    greeter "*En français* Bonjour !"
+    scene v12las14b # FPP. Same as v12las14, Lauren looking at MC, Lauren slight smile, mouth open
+    with dissolve
 
-# game/v12/scene29.rpy:290
-translate francais v12_lauren_sex_0ff8798d:
+    la "Oh, haha... Thank you, you look very handsome as well. Sorry I took so long..."
 
-    # la "Hello! We have a reservation for Lauren."
-    la "Bonjour ! Nous avons une réservation au nom de Lauren."
+    scene v12las14c # FPP. Same as v12las14b, Lauren slight smile, mouth closed
+    with dissolve
 
-# game/v12/scene29.rpy:295
-translate francais v12_lauren_sex_b789bdff:
+    u "Don't worry about that, you're always worth the wait."
 
-    # u "(Wow, she made reservations? Impressive... She really put a lot of thought into this.)"
-    u "(Wow, elle a fait une réservation ? Impressionnant... Elle a vraiment bien préparé les choses."
+    scene v12las14b
+    with dissolve
 
-# game/v12/scene29.rpy:300
-translate francais v12_lauren_sex_e3093b8a:
+    la "*Chuckles* Okay... Are you ready to go?"
 
-    # greeter "Ah! English, okay... Let me see... Hmm..."
-    greeter "Ah ! En anglais, d'accord... Laissez-moi voir... Hmm..."
+    scene v12las14c
+    with dissolve
 
-# game/v12/scene29.rpy:305
-translate francais v12_lauren_sex_7849e693:
+    u "Born ready."
 
-    # greeter "Lauren, Lauren, Lauren... Umm..."
-    greeter "Lauren, Lauren, Lauren... Humm..."
+    scene v12las14b
+    with dissolve
 
-# game/v12/scene29.rpy:310
-translate francais v12_lauren_sex_93ddf3ac:
+    la "Haha, our ride is right outside."
 
-    # greeter "Ah, I see. I do apologize Ma'am, but we have a bit of a situation."
-    greeter "Ah, je vois. Je m'excuse Madame, mais nous avons un petit problème."
+    scene v12las14c
+    with dissolve
 
-# game/v12/scene29.rpy:315
-translate francais v12_lauren_sex_dfc51a4a:
+    u "I'm really curious about what you have planned..."
 
-    # la "Oh no, what's wrong?"
-    la "Oh non, qu'est-ce qui ne va pas ?"
+    scene v12las14b
+    with dissolve
 
-# game/v12/scene29.rpy:320
-translate francais v12_lauren_sex_828eb2ae:
+    la "A verrrrrry special night. As long as everything goes perfect, you're in for a treat..."
 
-    # greeter "Your reservation was scheduled for hours ago."
-    greeter "Votre réservation a été planifiée il y a des heures."
+    u "(I like treats...)"
 
-# game/v12/scene29.rpy:325
-translate francais v12_lauren_sex_d91d3bf2:
+    scene v12las15 # TPP. Show MC and Lauren leaving the hotel lobby, both smiling, mouths closed
+    with dissolve
 
-    # la "What? How is that possible?! What time does it say I scheduled it for?"
-    la "Quoi ? Comment c'est possible ? ! À quelle heure est-ce que ça dit que je l'ai planifiée ?"
+    pause 0.75
 
-# game/v12/scene29.rpy:330
-translate francais v12_lauren_sex_3cb2c133:
+    scene v12las16 # TPP. Show MC and Lauren getting into their rideshare
+    with dissolve
 
-    # greeter "Six hours ago."
-    greeter "Elle était prévue il y a six heures."
+    pause 0.75
 
-# game/v12/scene29.rpy:335
-translate francais v12_lauren_sex_9805e941:
+    scene v12las17 # TPP. Show car on road
+    with dissolve
 
-    # la "But, how? I know I scheduled it for tonight! *Sighs* This plan's already being ruined and we haven't even sat down for dinner yet."
-    la "Mais, comment ? Je sais que je l'ai réservée pour ce soir ! *Soupirs* Ce programme est déjà en train d'être ruiné et on ne s'est même pas encore assis pour dîner."
+    pause 0.75
 
-# game/v12/scene29.rpy:346
-translate francais v12_lauren_sex_008e0b7d:
+    scene v12las18 # TPP. Show MC and Lauren getting out of the car, in front of restaurant
+    with fade
 
-    # la "*Sighs* These stupid time zones! I scheduled this on the website from London. I guess somehow I messed the time up."
-    la "*Soupirs* Ces stupides fuseaux horaires ! J'ai programmé ça sur le site web depuis Londres. Je pense que j'ai dû me tromper dans l'heure."
+    pause 0.75
 
-# game/v12/scene29.rpy:351
-translate francais v12_lauren_sex_ce45a571:
+    scene v12las19 # FPP. MC and Lauren standing in front of the restaurant, looking at each other, Lauren slight smile, mouth open
+    with dissolve
 
-    # greeter "My apologies, Madame. If we had an empty table I'd be happy to accommodate you, but unfortunately we are fully booked for tonight."
-    greeter "Mes excuses, Madame. Si nous avions une table libre, nous serions heureux de vous accueillir, mais malheureusement nous sommes complets pour ce soir."
+    la "Finally... We're here."
 
-# game/v12/scene29.rpy:356
-translate francais v12_lauren_sex_45d4c8a1:
+    scene v12las19a # FPP. Same as v12las19, Lauren slight smile, mouth closed
+    with dissolve
 
-    # u "It's not a problem madam. Thank you."
-    u "Ce n'est pas grave, madame. Merci."
+    u "Damn, this is a nice place! Treating me to dinner?"
 
-# game/v12/scene29.rpy:362
-translate francais v12_lauren_sex_c08bcb62:
+    scene v12las19
+    with dissolve
 
-    # u "Lauren, relax. *Chuckles* I appreciate that you planned on doing this, and no matter how it happened, it's not a big deal. Don't stress."
-    u "Détends-toi, Lauren. *Rire* J'apprécie que tu aies prévu de faire ça, et peu importe ce qui s'est passé, ce n'est pas grave. Ne stresse pas."
+    la "For our first stop, I wanted to make sure you had a full stomach. *Chuckles*"
 
-# game/v12/scene29.rpy:370
-translate francais v12_lauren_sex_ac661599:
+    scene v12las19a
+    with dissolve
 
-    # u "Thank you for everything, Madam."
-    u "Merci pour tout, Madame."
+    u "Hmm... So I'm going to need some energy for the next bit..."
 
-# game/v12/scene29.rpy:375
-translate francais v12_lauren_sex_cb7cb860:
+    scene v12las19
+    with dissolve
 
-    # la "I'm sorry for the inconvenience..."
-    la "Je suis désolée pour le dérangement..."
+    la "Less guessing, more kissing!"
 
-# game/v12/scene29.rpy:380
-translate francais v12_lauren_sex_5e350608:
+    scene v12las19a
+    with dissolve
 
-    # greeter "If you don't mind me asking, it is clear you are tourists, so where did you schedule the reservation?"
-    greeter "Si vous me permettez de poser la question, je vois bien que vous êtes des touristes, alors où avez-vous fait la réservation ?"
+    u "*Laughs*"
 
-# game/v12/scene29.rpy:385
-translate francais v12_lauren_sex_cacfb477:
+    scene v12las20 # TPP. Show MC and Lauren kissing
+    with dissolve
 
-    # la "I did it through the website while we were in London."
-    la "Je l'ai fait via le site web pendant que nous étions à Londres."
+    pause
 
-# game/v12/scene29.rpy:390
-translate francais v12_lauren_sex_98e9467d:
+    scene v12las21 # TPP. Show MC and Lauren walking into the restaurant
+    with dissolve
 
-    # greeter "As expected, I'm sure the difference in time zones caused the error."
-    greeter "Je m'en doutais, je suis sûre que la différence de fuseaux horaires et de type d'heure \"AM, PM\"est la cause de cette erreur."
+    pause 0.75
 
-# game/v12/scene29.rpy:395
-translate francais v12_lauren_sex_d79b160d:
+    stop music fadeout 3
+    play music "music/v12/Track Scene 29_4.mp3" fadein 2
 
-    # la "*Chuckles* Wow, of course. That's probably exactly what happened."
-    la "*Rire* Wow, bien sûr. C'est sûrement ce qui s'est passé."
+    scene v12las22 # FPP. MC and Lauren inside the restaurant, standing next to each other, greeter in front of them MC looking at the greeter, greeter looking at Lauren, greeter slight smile, mouth open
+    with dissolve
 
-# game/v12/scene29.rpy:400
-translate francais v12_lauren_sex_9197eac4:
+    greeter "Bonjour!"
 
-    # u "Haha, no worries. We'll have fun tonight regardless, have a good evening Madam."
-    u "Haha, ne vous inquiétez pas. Nous allons tout de même nous amuser ce soir, passez une bonne soirée Madame."
+    scene v12las23 # FPP. Same positioning as v12las22, MC looking at Lauren, Lauren looking at greeter, Lauren slight smile, mouth open
+    with dissolve
 
-# game/v12/scene29.rpy:405
-translate francais v12_lauren_sex_3c39fd63:
+    la "Hello! We have a reservation for Lauren."
 
-    # greeter "You too!"
-    greeter "Vous aussi !"
+    scene v12las23a # FPP. Same as v12las23, Lauren looking at MC, Lauren slight smile, mouth closed
+    with dissolve
 
-# game/v12/scene29.rpy:415
-translate francais v12_lauren_sex_0ac16f67:
+    u "(Wow, she made reservations? Impressive... She really put a lot of thought into this.)"
 
-    # la "Mission one, failed."
-    la "Mission une, échouée."
+    scene v12las22
+    with dissolve
 
-# game/v12/scene29.rpy:420
-translate francais v12_lauren_sex_15be7b8c:
+    greeter "Ah! English, okay... Let me see... Hmm..."
 
-    # u "*Chuckles* C'mon... There's a whole night ahead of us, what's next?"
-    u "*Rire* Allez... Il y a toute la nuit devant nous, qu'est-ce qu'il y a après ?"
+    scene v12las22a # FPP. Same as v12las22, greeter looking down at the reservation list, slight smile, mouth open
+    with dissolve
 
-# game/v12/scene29.rpy:425
-translate francais v12_lauren_sex_129bf918:
+    greeter "Lauren, Lauren, Lauren... Umm..."
 
-    # la "Well, I have two more stops planned."
-    la "Eh bien, j'ai deux autres étapes prévues."
+    scene v12las22b # FPP. Same as v12las22, greeter slightly worried, mouth open
+    with dissolve
 
-# game/v12/scene29.rpy:430
-translate francais v12_lauren_sex_e7a41f39:
+    greeter "Ah, I see. I do apologize Ma'am, but we have a bit of a situation."
 
-    # u "Lead the way."
-    u "Je te suis."
+    scene v12las23b # FPP. Same as v12las23, Lauren worried, mouth closed
+    with dissolve
 
-# game/v12/scene29.rpy:448
-translate francais v12_lauren_sex_565d0c76:
+    la "Oh no, what's wrong?"
 
-    # la "What is going on tonight?! Why is everything falling apart?"
-    la "Qu'est-ce qui se passe ce soir ?! Pourquoi tout s'écroule ?"
+    scene v12las22b
+    with dissolve
 
-# game/v12/scene29.rpy:453
-translate francais v12_lauren_sex_dee9e061:
+    greeter "Your reservation was scheduled for hours ago."
 
-    # la "It feels like the universe is working against me today... I just wanted tonight to be special."
-    la "J'ai l'impression que l'univers est contre moi ce soir... Je voulais juste que cette soirée soit spéciale."
+    scene v12las23b
+    with dissolve
 
-# game/v12/scene29.rpy:468
-translate francais v12_lauren_sex_ece6c3fa:
+    la "What? How is that possible?! What time does it say I scheduled it for?"
 
-    # la "I'm sure you're thinking this is the worst \"special day\" ever."
-    la "Je suis sûre que tu penses que c'est le pire \"jour spécial\" de tous les temps."
+    scene v12las22b
+    with dissolve
 
-# game/v12/scene29.rpy:477
-translate francais v12_lauren_sex_30a663e1:
+    greeter "Six hours ago."
 
-    # u "I'm not. What actually matters to me is the amount of effort you've put into the night, not the way it's going. What's the saying? \"It's the thought that counts\"? *Chuckles*"
-    u "Je ne pense pas ça. Ce qui m'importe, c'est l'effort que tu as fourni pendant la soirée, pas la façon dont elle se déroule. Quel est le dicton ? \"C'est l'intention qui compte\" ? *Rire*"
+    scene v12las23b
+    with dissolve
 
-# game/v12/scene29.rpy:482
-translate francais v12_lauren_sex_f0dc3f3d:
+    la "But, how? I know I scheduled it for tonight! *Sighs* This plan's already being ruined and we haven't even sat down for dinner yet."
 
-    # la "Are you sure you're not upset? This has been pointless so far..."
-    la "Tu es sûr que tu n'es pas contrarié ? C'était sans intérêt jusqu'à présent..."
+    scene v12las23c # FPP. Same as v12las23a, Lauren worried, mouth closed
+    with dissolve
 
-# game/v12/scene29.rpy:487
-translate francais v12_lauren_sex_6eef3ead:
+    menu:
+        "Let her vent":
+            $ add_point(KCT.BRO)
+            scene v12las23b
+            with dissolve
 
-    # u "How could I be? None of this is your fault."
-    u "Comment je pourrais l'être ? Rien de tout ça n'est de ta faute."
+            la "*Sighs* These stupid time zones! I scheduled this on the website from London. I guess somehow I messed the time up."
 
-# game/v12/scene29.rpy:492
-translate francais v12_lauren_sex_6db67d1a:
+            scene v12las22b
+            with dissolve
 
-    # la "That means a lot... Thank you, [name]."
-    la "Ça me touche beaucoup... Merci, [name]."
+            greeter "My apologies, Madame. If we had an empty table I'd be happy to accommodate you, but unfortunately we are fully booked for tonight."
 
-# game/v12/scene29.rpy:501
-translate francais v12_lauren_sex_1f46c651:
+            scene v12las22c # FPP. Same as v12las22, greeter looking at MC, greeter slight smile, mouth closed
+            with dissolve
 
-    # u "I'm not. What matters to me the most is the amount of effort you've put into the night, not the way it's going. What's the saying? \"It's the thought that counts\"?"
-    u "Je ne pense pas ça. Ce qui m'importe le plus, c'est l'effort que tu as fourni pendant la soirée, pas la façon dont elle se déroule. Quel est le dicton ? \"C'est l'intention qui compte\" ?"
+            u "It's not a problem madam. Thank you."
 
-# game/v12/scene29.rpy:506
-translate francais v12_lauren_sex_42f76455:
+        "Comfort her":
+            $ add_point(KCT.BOYFRIEND)
+            $ v12_lauren_points += 1
 
-    # la "Are you sure you're not upset? I wanted to treat you..."
-    la "Tu es sûr que tu n'es pas contrarié ? Je voulais te faire plaisir..."
+            u "Lauren, relax. *Chuckles* I appreciate that you planned on doing this, and no matter how it happened, it's not a big deal. Don't stress."
 
-# game/v12/scene29.rpy:511
-translate francais v12_lauren_sex_bb5aa257:
+            scene v12las24 # TPP. Show MC pulling Lauren in for a hug
+            with dissolve
 
-    # u "How could I be? Seeing the way you smile in that dress is a treat in itself. *Chuckles*"
-    u "Comment pourrais-je l'être ? Voir ton sourire dans cette robe est un plaisir en soi. *Rire*"
+            scene v12las22c
+            with dissolve
 
-# game/v12/scene29.rpy:516
-translate francais v12_lauren_sex_c28fdd86:
+            u "Thank you for everything, Madam."
 
-    # la "*Sighs* Thank you."
-    la "*Soupirs* Merci."
+            scene v12las23b
+            with dissolve
 
-# game/v12/scene29.rpy:521
-translate francais v12_lauren_sex_6963ba79:
+            la "I'm sorry for the inconvenience..."
 
-    # u "So, what's our last stop?"
-    u "Alors, quel est notre dernière étape ?"
+            scene v12las22
+            with dissolve
 
-# game/v12/scene29.rpy:526
-translate francais v12_lauren_sex_500a7a25:
+            greeter "If you don't mind me asking, it is clear you are tourists, so where did you schedule the reservation?"
 
-    # la "I was hoping we could go stargazing on the roof of the hotel...?"
-    la "J'espérais qu'on pourrait aller observer les étoiles sur le toit de l'hôtel... ?"
+            scene v12las23
+            with dissolve
 
-# game/v12/scene29.rpy:531
-translate francais v12_lauren_sex_e08e0377:
+            la "I did it through the website while we were in London."
 
-    # u "That sounds perfect. There's no way that could get messed up. *Laughs*"
-    u "Ça semble parfait. Il n'y a aucune chance que ça soit raté, là. *Rire*"
+            scene v12las22
+            with dissolve
 
-# game/v12/scene29.rpy:536
-translate francais v12_lauren_sex_7aa75fc2:
+            greeter "As expected, I'm sure the difference in time zones caused the error."
 
-    # la "We'll see won't we? *Chuckles*"
-    la "Nous verrons bien, n'est-ce pas ? *Rire*"
+            scene v12las23
+            with dissolve
 
-# game/v12/scene29.rpy:541
-translate francais v12_lauren_sex_516885a4:
+            la "*Chuckles* Wow, of course. That's probably exactly what happened."
 
-    # u "No matter what, I've enjoyed my night so far. Spending more time with you is all I need."
-    u "Quoi qu'il en soit, j'ai apprécié ma soirée jusqu'à présent. Passer plus de temps avec toi est tout ce dont j'ai besoin."
+            scene v12las23a
+            with dissolve
 
-# game/v12/scene29.rpy:551
-translate francais v12_lauren_sex_39a4611b:
+            u "Haha, no worries. We'll have fun tonight regardless, have a good evening Madam."
 
-    # la "Thank you."
-    la "Merci."
+            scene v12las22c
+            with dissolve
 
-# game/v12/scene29.rpy:561
-translate francais v12_lauren_sex_dea9a771:
+            greeter "You too!"
 
-    # u "Let's walk back? We're close enough, I think."
-    u "On rentre à pied ? Nous sommes assez proches, je crois."
+    scene v12las25 # TPP. Show MC and Lauren leaving the restaurant, Lauren slightly sad, mouth closed, MC slightly smiling, mouth closed
+    with dissolve
 
-# game/v12/scene29.rpy:566
-translate francais v12_lauren_sex_e3e1652e:
+    pause 0.75
 
-    # la "Yeah... Alright."
-    la "Ouais... C'est parfait."
+    scene v12las19b # FPP. Same as v12las19, Lauren slightly sad, mouth open
+    with dissolve
 
-# game/v12/scene29.rpy:584
-translate francais v12_lauren_sex_8a1fa194:
+    la "Mission one, failed."
 
-    # la "We gotta go through this hallway to get there."
-    la "On doit passer par cette allée pour y aller."
+    scene v12las19a
+    with dissolve
 
-# game/v12/scene29.rpy:599
-translate francais v12_lauren_sex_3f7c07a4:
+    u "*Chuckles* C'mon... There's a whole night ahead of us, what's next?"
 
-    # la "Okay, I officially give up. It's obvious that this isn't the night I was hoping for."
-    la "Ok, j'abandonne définitivement. C'est clair que ce n'est pas du tout la soirée que j'espérais."
+    scene v12las19
+    with dissolve
 
-# game/v12/scene29.rpy:608
-translate francais v12_lauren_sex_07aaf351:
+    la "Well, I have two more stops planned."
 
-    # u "Lauren, you tried your best to make tonight special and I respect and love you for that. Just the fact that you did all of this proves how much you care about me and our relationship."
-    u "Lauren, tu as fait de ton mieux pour rendre cette soirée spéciale et je te respecte et t'aime pour ça. Le simple fait que tu aies fait tout ça prouve à quel point tu tiens à moi et à notre relation."
+    scene v12las19a
+    with dissolve
 
-# game/v12/scene29.rpy:613
-translate francais v12_lauren_sex_fad687cc:
+    u "Lead the way."
 
-    # la "Thank you, I love you so much... I know tonight didn't go as planned, but maybe we can try again soon?"
-    la "Merci, je t'aime tellement... Je sais que cette soirée ne s'est pas déroulée comme prévu, mais on peut peut-être réessayer bientôt ?"
+    scene v12las26 # TPP. Show MC and Lauren walking on the sidewalk, both smiling, mouths closed, holding hands
+    with dissolve
 
-# game/v12/scene29.rpy:618
-translate francais v12_lauren_sex_8fadc442:
+    pause 0.75
 
-    # u "Of course. I'd like that."
-    u "Bien sûr. J'aimerais bien."
+    scene v12las27 # TPP. Show MC and Lauren arriving at the park, gate is closed, with a sign saying "CLOSED"
+    with dissolve
 
-# game/v12/scene29.rpy:623
-translate francais v12_lauren_sex_779e2681:
+    pause 0.75
 
-    # la "I guess this is goodnight, then..."
-    la "Je pense que c'est une bonne soirée, finalement..."
+    stop music fadeout 3
+    play music "music/v12/Track Scene 29_5.mp3" fadein 2
 
-# game/v12/scene29.rpy:633
-translate francais v12_lauren_sex_3178c597:
+    scene v12las28 # FPP. MC and Lauren standing in front of the game, Lauren looking at MC, MC looking at Lauren, Lauren slightly sad, mouth open
+    with dissolve
 
-    # la "Goodnight [name]."
-    la "Bonne nuit [name]."
+    la "What is going on tonight?! Why is everything falling apart?"
 
-# game/v12/scene29.rpy:638
-translate francais v12_lauren_sex_9df1dbe9:
+    scene v12las28a # FPP. Same as v12las28, Lauren slightly angry and sad, mouth open
+    with dissolve
 
-    # u "Goodnight Lauren."
-    u "Bonne nuit Lauren."
+    la "It feels like the universe is working against me today... I just wanted tonight to be special."
 
-# game/v12/scene29.rpy:654
-translate francais v12_lauren_sex_57caba8c:
+    scene v12las29 # FPP. Lauren sitting down on the ground, MC looking at her, she is sad, mouth closed
+    with dissolve
 
-    # u "You know Lauren, sometimes in life you just have to give things a little... extra..."
-    u "Tu sais Lauren, parfois dans la vie tu dois juste donner aux choses un petit... peu plus..."
+    pause 0.75
 
-# game/v12/scene29.rpy:659
-translate francais v12_lauren_sex_90874ca8:
+    scene v12las30 # TPP. Show MC sitting down on the ground next to Lauren, she is sad, mouth closed
+    with dissolve
 
-    # u "...EFFORT!"
-    u "...D'EFFORT !"
+    pause 0.75
 
-# game/v12/scene29.rpy:672
-translate francais v12_lauren_sex_e91c1274:
+    scene v12las31 # FPP. MC and Lauren sitting next to each other, looking at each other, Lauren sad, mouth open
+    with dissolve
 
-    # la "Ahh, finally! Something goes right! *Laughs* Look how beautiful it is up here..."
-    la "Ahh, enfin ! Quelque chose tourne bien ! *Rire* regarde comme la vue est belle d'ici..."
+    la "I'm sure you're thinking this is the worst \"special day\" ever."
 
-# game/v12/scene29.rpy:677
-translate francais v12_lauren_sex_ba08aa0f:
+    scene v12las31a # FPP. Same as v12las31, Lauren sad, mouth closed
+    with dissolve
 
-    # u "Not as beautiful as you, of course."
-    u "Pas aussi belle que toi, bien sûr."
+    menu:
+        "Talk to her":
+            $ add_point(KCT.BRO)
 
-# game/v12/scene29.rpy:682
-translate francais v12_lauren_sex_7f3f56ee:
+            u "I'm not. What actually matters to me is the amount of effort you've put into the night, not the way it's going. What's the saying? \"It's the thought that counts\"? *Chuckles*"
 
-    # la "*Chuckles* Saw that one coming as soon as the words left my mouth..."
-    la "*Rire* Je l'ai sentie venir dès que les mots sont sortis de ma bouche..."
+            scene v12las31
+            with dissolve
 
-# game/v12/scene29.rpy:697
-translate francais v12_lauren_sex_4d0c77e0:
+            la "Are you sure you're not upset? This has been pointless so far..."
 
-    # la "[name]... Can I be blunt?"
-    la "[name]... Je peux être franche ?"
+            scene v12las31a
+            with dissolve
 
-# game/v12/scene29.rpy:702
-translate francais v12_lauren_sex_1f317d4b:
+            u "How could I be? None of this is your fault."
 
-    # u "*Chuckles* Of course."
-    u "*Rire* Bien sûr."
+            scene v12las31
+            with dissolve
 
-# game/v12/scene29.rpy:707
-translate francais v12_lauren_sex_9967c93a:
+            la "That means a lot... Thank you, [name]."
 
-    # la "I was hoping tonight..."
-    la "J'espérais que ce soir..."
+        "Hold her":
+            $ add_point(KCT.BOYFRIEND)
+            $ v12_lauren_points += 1
 
-# game/v12/scene29.rpy:712
-translate francais v12_lauren_sex_2eff4efe:
+            scene v12las31b # FPP. Same as v12las31a, one of MC's around lauren, other hand holding lauren's hand, lauren sad, mouth closed
+            with dissolve
 
-    # la "I was hoping tonight would be the night. The night we'd finally, you know..."
-    la "J'espérais que ce soir serait LE soir. La soirée où nous aurions enfin, tu sais..."
+            u "I'm not. What matters to me the most is the amount of effort you've put into the night, not the way it's going. What's the saying? \"It's the thought that counts\"?"
 
-# game/v12/scene29.rpy:717
-translate francais v12_lauren_sex_ef389fcc:
+            scene v12las31c # FPP. Same as v12las31b, Lauren sad, mouth open
+            with dissolve
 
-    # la "I wanted everything to go perfectly and to make you feel special."
-    la "Je voulais que tout se passe parfaitement et que tu te sentes exceptionnel."
+            la "Are you sure you're not upset? I wanted to treat you..."
 
-# game/v12/scene29.rpy:722
-translate francais v12_lauren_sex_3f95b888:
+            scene v12las31b
+            with dissolve
 
-    # u "Lauren, I do feel special."
-    u "Lauren, je me sens exceptionnel."
+            u "How could I be? Seeing the way you smile in that dress is a treat in itself. *Chuckles*"
 
-# game/v12/scene29.rpy:727
-translate francais v12_lauren_sex_0e6bab49:
+            scene v12las31c
+            with dissolve
 
-    # u "I just watched the woman I love take me all over Paris trying to make tonight as perfect as it could be. And though you may think the night wasn't special, you were the most special part of the night."
-    u "Je viens de voir la femme que j'aime, m'emmener dans tout Paris pour essayer de rendre cette soirée aussi parfaite que possible. Et même si tu penses que la soirée n'était pas spéciale, tu étais la partie la plus exceptionnelle de celle-ci."
+            la "*Sighs* Thank you."
 
-# game/v12/scene29.rpy:732
-translate francais v12_lauren_sex_6b40a61a:
+    scene v12las31a
+    with dissolve
 
-    # la "...Really?"
-    la "...Vraiment ?"
+    u "So, what's our last stop?"
 
-# game/v12/scene29.rpy:737
-translate francais v12_lauren_sex_ae6f3499:
+    scene v12las31
+    with dissolve
 
-    # u "Yes. *Chuckles* Yes, Lauren."
-    u "Oui. *Rire* Oui, Lauren."
+    la "I was hoping we could go stargazing on the roof of the hotel...?"
 
-# game/v12/scene29.rpy:743
-translate francais v12_lauren_sex_ba25568d:
+    scene v12las31d # FPP. Same as v12las31a, Lauren slight smile, mouth closed
+    with dissolve
 
-    # la "I love you, [name]."
-    la "Je t'aime, [name]."
+    u "That sounds perfect. There's no way that could get messed up. *Laughs*"
 
-# game/v12/scene29.rpy:753
-translate francais v12_lauren_sex_a0206b13:
+    scene v12las31e # FPP. Same as v12las31d, Lauren slight smile, mouth open
+    with dissolve
 
-    # la "Let's not rush this, okay? When all is said and done, I want our first time to be all that I've dreamed of."
-    la "Ne nous précipitons pas, d'accord ? Quand tout sera dit et fait, je veux que notre première fois soit tout ce dont j'ai toujours rêvé."
+    la "We'll see won't we? *Chuckles*"
 
-# game/v12/scene29.rpy:758
-translate francais v12_lauren_sex_59187764:
+    scene v12las31d
+    with dissolve
 
-    # u "When the time comes, it will be."
-    u "Quand le moment sera venu, ça le sera."
+    u "No matter what, I've enjoyed my night so far. Spending more time with you is all I need."
 
-# game/v12/scene29.rpy:768
-translate francais v12_lauren_sex_8eec5065:
+    scene v12las32 # TPP. Show Lauren giving MC a kiss
+    with dissolve
 
-    # u "Let's get in bed before a gust of wind knocks us off the roof. *Chuckles*"
-    u "Allons dans la chambre, avant qu'une rafale de vent ne nous fasse tomber du toit. *Rire*"
+    pause
 
-# game/v12/scene29.rpy:773
-translate francais v12_lauren_sex_fc820035:
+    scene v12las31e
+    with dissolve
 
-    # la "*Chuckles* Yeah, let's do that."
-    la "*Rire* Oui, allons-y."
+    la "Thank you."
 
-# game/v12/scene29.rpy:783
-translate francais v12_lauren_sex_353b7882:
+    scene v12las33 # TPP. Show MC standing up, helping Lauren get up, both slight smiles, mouths closed
+    with dissolve
 
-    # la "Have a good night, [name]."
-    la "Passe une bonne nuit, [name]."
+    pause 0.75
 
-# game/v12/scene29.rpy:788
-translate francais v12_lauren_sex_b6d03d82:
+    scene v12las28b # FPP. Same as v12las28, Lauren slight smile, mouth closed
+    with dissolve
 
-    # u "You too, Lauren."
-    u "Toi aussi, Lauren."
+    u "Let's walk back? We're close enough, I think."
 
-# game/v12/scene29.rpy:810
-translate francais v12_lauren_sex_sg_e39f5a6e:
+    scene v12las28c # FPP. Same as v12las28b, Lauren slight smile, mouth open
+    with dissolve
 
-    # la "I love you so much [name], and after hearing you say that... I honestly couldn't have imagined a better evening."
-    la "Je t'aime tellement [name], et après t'avoir entendu dire ça... Je n'aurais honnêtement pas pu imaginer une meilleure soirée."
+    la "Yeah... Alright."
 
-# game/v12/scene29.rpy:821
-translate francais v12_lauren_sex_sg_42d986e4:
+    scene v12las34 # TPP. Show MC and Lauren holding hands, Lauren resting her head on MC's shoulder, they are walking on the sidewalk, both smiling, mouths closed
+    with dissolve
 
-    # la "I guess everything going wrong was meant to happen in order for everything to go right..."
-    la "Je crois que tout ce qui va mal est censé arriver pour que tout aille bien..."
+    pause 0.75
 
-# game/v12/scene29.rpy:823
-translate francais v12_lauren_sex_sg_5d89cc9b:
+    scene v12las35 # TPP. Show MC and Lauren walking into the hotel lobby, both smiling, mouths closed
+    with dissolve
 
-    # la "So... How about we go back to my room?"
-    la "Alors... Et si on retournait dans ma chambre ?"
+    pause 0.75
 
-# game/v12/scene29.rpy:828
-translate francais v12_lauren_sex_sg_b3357dfa:
+    stop music fadeout 3
+    play music "music/v12/Track Scene 29_6.mp3" fadein 2
 
-    # u "Your roommate isn't there? *Chuckles*"
-    u "Ta colocataire n'est pas là ? *Rire*"
+    scene v12las36 # FPP. MC and Lauren in hotel lobby, looking at each other, Lauren slight smile, mouth open
+    with dissolve
 
-# game/v12/scene29.rpy:833
-translate francais v12_lauren_sex_sg_17873763:
+    la "We gotta go through this hallway to get there."
 
-    # la "Nope..."
-    la "Nan..."
+    scene v12las37 # TPP. MC and Lauren walking in hotel corridor, smiling, mouths closed
+    with dissolve
 
-# game/v12/scene29.rpy:843
-translate francais v12_lauren_sex_sg_395840d8:
+    pause 0.75
 
-    # u "Off we go."
-    u "C'est parti."
+    scene v12las38 # TPP. Show Lauren trying to open the door to the roof, Lauren frustrated, mouth closed, door not opening
+    with dissolve
 
-# game/v12/scene29.rpy:868
-translate francais v12_lauren_sex_sg_6ae3cdde:
+    pause 0.75
 
-    # la "Well... it looks like everything ended up perfectly. *Chuckles*"
-    la "Eh bien... on dirait que tout s'est terminé parfaitement. *Rire*"
+    scene v12las39 # FPP. MC and Lauren standing in front of door to roof, looking at each other, Lauren sad, mouth open
+    with dissolve
 
-# game/v12/scene29.rpy:873
-translate francais v12_lauren_sex_sg_bf2a6f92:
+    la "Okay, I officially give up. It's obvious that this isn't the night I was hoping for."
 
-    # u "Somebody's agreeing with you."
-    u "Quelqu'un est d'accord avec toi."
+    scene v12las39a # FPP. Same as v12las29, Lauren sad, mouth closed
+    with dissolve
 
-# game/v12/scene29.rpy:878
-translate francais v12_lauren_sex_sg_a3634a5f:
+    menu:
+        "We'll do this another day":
+            $ add_point(KCT.BRO)
 
-    # la "*Chuckles* I'm sure he is."
-    la "*Rire* Je suis sûr qu'il l'est."
+            u "Lauren, you tried your best to make tonight special and I respect and love you for that. Just the fact that you did all of this proves how much you care about me and our relationship."
 
-# game/v12/scene29.rpy:896
-translate francais v12_lauren_sex_sg_18bf60bf:
+            scene v12las39
+            with dissolve
 
-    # la "No, wait! Let me."
-    la "Non, attends ! Laisse-moi faire."
+            la "Thank you, I love you so much... I know tonight didn't go as planned, but maybe we can try again soon?"
 
-# game/v12/scene29.rpy:939
-translate francais v12s29_lauren_fingering_17e44010:
+            scene v12las39a
+            with dissolve
 
-    # la "Ahh, oh god... Please... be gentle."
-    la "Ahh, oh là là... S'il te plaît... sois doux."
+            u "Of course. I'd like that."
 
-# game/v12/scene29.rpy:945
-translate francais v12s29_lauren_fingering_9a189e36:
+            scene v12las39
+            with dissolve
 
-    # u "Yes, baby... Of course."
-    u "Oui, bébé... Bien sûr."
+            la "I guess this is goodnight, then..."
 
-# game/v12/scene29.rpy:951
-translate francais v12s29_lauren_fingering_34f5436f:
+            scene v12las40 # TPP. Show Lauren kissing MC
+            with dissolve
 
-    # la "Mmm, fuck... That feels good."
-    la "Mmm, putain... Ça fait du bien."
+            pause 0.75
 
-# game/v12/scene29.rpy:957
-translate francais v12s29_lauren_fingering_f3bd4290:
+            scene v12las39
+            with dissolve
 
-    # la "*Moans* Let me please you."
-    la "*Gémis* Laisse-moi te faire plaisir."
+            la "Goodnight [name]."
 
-# game/v12/scene29.rpy:979
-translate francais v12s29_lauren_blowjob_091e026c:
+            scene v12las39a
+            with dissolve
 
-    # u "L-Lauren... Fuck!"
-    u "L-Lauren... Putain !"
+            u "Goodnight Lauren."
 
-# game/v12/scene29.rpy:985
-translate francais v12s29_lauren_blowjob_816eaf11:
+            scene v12las41 # TPP. Show MC and Lauren walking in opposite directions, boths slightly sad, mouths closed
+            with dissolve
 
-    # u "Damn... you're so fucking good at this, Lauren..."
-    u "Putain... tu es tellement douée pour ça, Lauren..."
+            pause 0.75
 
-# game/v12/scene29.rpy:991
-translate francais v12s29_lauren_blowjob_2f2a2356:
+            jump v12_room_sneak
 
-    # u "This is the best fucking bl- Oh, god!"
-    u "C'est la meilleure putain de pi- Oh, merde !"
+        "A little extra effort...":
+            $ add_point(KCT.BOYFRIEND)
+            $ v12_lauren_points += 1
 
-# game/v12/scene29.rpy:997
-translate francais v12s29_lauren_blowjob_d4fbf119:
+            scene v12las42 # TPP. Show MC trying to budge the door open, struggling, mouth open
+            with dissolve
 
-    # u "Lauren, w-wait!"
-    u "Lauren, a-attends !"
+            u "You know Lauren, sometimes in life you just have to give things a little... extra..."
 
-# game/v12/scene29.rpy:1002
-translate francais v12s29_lauren_blowjob_e8a4ae64:
+            scene v12las42a # TPP. Same as v12las42, MC managing to budge the door open, slight smile, mouth open
+            with dissolve
 
-    # la "What's wrong? Did I do okay?"
-    la "Qu'est-ce qui ne va pas ? J'ai bien fait ?"
+            u "...EFFORT!"
 
-# game/v12/scene29.rpy:1007
-translate francais v12s29_lauren_blowjob_1a9e1451:
+            scene v12las43 # TPP. Show MC handing out his hand to Lauren, she's grabbing his hand, they're going through the door, both smiling, mouths closed
+            with dissolve
 
-    # u "You did amazing."
-    u "Tu as été incroyable."
+            pause 0.75
 
-# game/v12/scene29.rpy:1023
-translate francais v12s29_lauren_blowjob_879757c2:
+            stop music fadeout 3
+            play music "music/v12/Track Scene 29_7.mp3" fadein 2
 
-    # la "I'm ready... Please just, be slow."
-    la "Je suis prête... S'il te plaît, vas-y doucement."
+            scene v12las44 # FPP. MC and Lauren on the roof, looking at each other, Lauren smiling, mouth open
+            with dissolve
 
-# game/v12/scene29.rpy:1028
-translate francais v12s29_lauren_blowjob_d6224755:
+            la "Ahh, finally! Something goes right! *Laughs* Look how beautiful it is up here..."
 
-    # u "I will."
-    u "J'y vais doucement, oui."
+            scene v12las44a # FPP. Same as v12las44, Lauren smiling, mouth closed
+            with dissolve
 
-# game/v12/scene29.rpy:1040
-translate francais v12s29_lauren_legs_up_9b579aa7:
+            u "Not as beautiful as you, of course."
 
-    # la "*Gasps* Ah! Oh... ah, fuck..."
-    la "*gémis* Ah ! Oh... ah, putain..."
+            scene v12las44
+            with dissolve
 
-# game/v12/scene29.rpy:1046
-translate francais v12s29_lauren_legs_up_4f69ec1f:
+            la "*Chuckles* Saw that one coming as soon as the words left my mouth..."
 
-    # la "*Heavy breathing* Ow... Haa... Fuck!"
-    la "*Respiration lourde* Oh... Haa... Putain !"
+            scene v12las45 # TPP. Show MC and Lauren midway through lying down on the floor
+            with dissolve
 
-# game/v12/scene29.rpy:1052
-translate francais v12s29_lauren_legs_up_d55324a1:
+            pause 0.75
 
-    # u "Are you okay? Do you like it?"
-    u "Est-ce que ça va ? Est-ce que ça te plaît ?"
+            scene v12las45a # TPP. MC and Lauren lying down next to each other, looking at the sky, smiling, mouths closed
+            with dissolve
 
-# game/v12/scene29.rpy:1054
-translate francais v12s29_lauren_legs_up_62b036fc:
+            pause 0.75
 
-    # la "Mhmm! Yes... Please, keep going!"
-    la "Mhmm ! Oui... S'il te plaît, continue !"
+            scene v12las46 # FPP. MC and Lauren lying down next to each other, MC looking at Lauren, Lauren looking at the sky, Lauren slightly worried, mouth open
+            with dissolve
 
-# game/v12/scene29.rpy:1060
-translate francais v12s29_lauren_legs_up_49a2ed61:
+            la "[name]... Can I be blunt?"
 
-    # la "*Moans*"
-    la "*Gémis*"
+            scene v12las46a # FPP. Same as v12las46, Lauren slightly worried, mouth closed
+            with dissolve
 
-# game/v12/scene29.rpy:1082
-translate francais v12s29_lauren_cowgirl_0dc3bfb1:
+            u "*Chuckles* Of course."
 
-    # u "This day..."
-    u "Ce jour..."
+            scene v12las46
+            with dissolve
 
-# game/v12/scene29.rpy:1084
-translate francais v12s29_lauren_cowgirl_7dd00f4d:
+            la "I was hoping tonight..."
 
-    # u "Could not have been..."
-    u "N'aurait pas pu être..."
+            scene v12las46b # FPP. Same as v12las46, lauren looking at MC, slightly embarassed, mouth open
+            with dissolve
 
-# game/v12/scene29.rpy:1090
-translate francais v12s29_lauren_cowgirl_d3a18713:
+            la "I was hoping tonight would be the night. The night we'd finally, you know..."
 
-    # u "Any fucking better..."
-    u "Putain de mieux..."
+            scene v12las46c # FPP. Same as v12las36b, lauren slightly sad, mouth open
+            with dissolve
 
-# game/v12/scene29.rpy:1092
-translate francais v12s29_lauren_cowgirl_14ed6671:
+            la "I wanted everything to go perfectly and to make you feel special."
 
-    # la "*Moans* Mhmm! I'll never forget it... Mmm, fuck..."
-    la "*Gémis* Mhmm ! Je ne l'oublierai jamais... Mmm, putain..."
+            scene v12las46a
+            with dissolve
 
-# game/v12/scene29.rpy:1098
-translate francais v12s29_lauren_cowgirl_fa54eb6f:
+            u "Lauren, I do feel special."
 
-    # la "Yes... Yes, [name]! I'm... I'm cu- *Gasps*"
-    la "Oui... Oui, [name] ! Je vais... Je vais jou- *gémis*"
+            scene v12las46d # FPP. Same as v12las46c, Lauren slightly smiling, tearing up with joy, mouth closed
+            with dissolve
 
-# game/v12/scene29.rpy:1100
-translate francais v12s29_lauren_cowgirl_c22b2874:
+            u "I just watched the woman I love take me all over Paris trying to make tonight as perfect as it could be. And though you may think the night wasn't special, you were the most special part of the night."
 
-    # u "Damn it Lauren, you're so fucking tight..."
-    u "Putain Lauren, tu es si serrée..."
+            scene v12las46e # FPP. Same as v12las46d, Lauren slight smile, tearing up with joy, mouth open
+            with dissolve
 
-# game/v12/scene29.rpy:1106
-translate francais v12s29_lauren_cowgirl_d8a1fe6d:
+            la "...Really?"
 
-    # u "And so fucking... Wet! I'm gonna cum..."
-    u "Et si putain... mouillée ! Je vais jouir..."
+            scene v12las46d
+            with dissolve
 
-# game/v12/scene29.rpy:1108
-translate francais v12s29_lauren_cowgirl_528ba085:
+            u "Yes. *Chuckles* Yes, Lauren."
 
-    # la "Mmm, yes! Don't pull out... Please... It's safe."
-    la "Mmm, oui ! Ne la retire pas... S'il te plaît... C'est sans danger."
+            if v12_lauren_points >= 3 or kct == "loyal":
+                $ sceneList.add("v12_lauren")
 
-# game/v12/scene29.rpy:1135
-translate francais v12s29_lauren_cowgirl_5929c6ef:
+                if v12_lauren_points < 3:
+                    call screen kct_popup
 
-    # la "Phew! Haha... That was absolutely perfect."
-    la "Ouf ! Haha... C'était vraiment parfait."
+                label v12_lauren_sex_sg:
+                
+                scene v12las46e
+                with dissolve
 
-# game/v12/scene29.rpy:1140
-translate francais v12s29_lauren_cowgirl_69f6751d:
+                la "I love you so much [name], and after hearing you say that... I honestly couldn't have imagined a better evening."
 
-    # u "*Chuckles* It really was."
-    u "*Rire* Oui, c'est vrai."
+                scene v12las47
+                with dissolve
+                play sound "sounds/kiss.mp3"
 
-# game/v12/scene29.rpy:1145
-translate francais v12s29_lauren_cowgirl_85195af7:
+                pause
 
-    # la "I'm so happy I waited for you, you have no idea."
-    la "Je suis si heureuse de t'avoir attendu, tu n'as pas idée."
+                scene v12las46e
+                with dissolve
 
-# game/v12/scene29.rpy:1150
-translate francais v12s29_lauren_cowgirl_b5894090:
+                la "I guess everything going wrong was meant to happen in order for everything to go right..."
 
-    # u "I am too. *Chuckles* (You have no idea...)"
-    u "Moi aussi. *Rire* (Tu n'as pas idée...)"
+                la "So... How about we go back to my room?"
 
-# game/v12/scene29.rpy:1155
-translate francais v12s29_lauren_cowgirl_be055d45:
+                scene v12las46d
+                with dissolve
 
-    # la "I don't think I'm gonna be able to sleep tonight, haha! I hate that we can't sleep together... Ugh!"
-    la "Je ne pense pas que je vais pouvoir dormir ce soir, haha ! Je déteste le fait qu'on ne puisse pas dormir ensemble... Argh !"
+                u "Your roommate isn't there? *Chuckles*"
 
-# game/v12/scene29.rpy:1160
-translate francais v12s29_lauren_cowgirl_f012b960:
+                scene v12las46e
+                with dissolve
 
-    # u "I wish we could too... Things can always change once we get back, though."
-    u "J'aimerais qu'on puisse aussi... Les choses pourront toujours changer une fois qu'on sera rentrés, de toute façon."
+                la "Nope..."
 
-# game/v12/scene29.rpy:1165
-translate francais v12s29_lauren_cowgirl_46b95941:
+                scene v12las48
+                with dissolve
 
-    # la "*Chuckles* Of course."
-    la "*Rire* Bien sûr."
+                pause 0.75
 
-# game/v12/scene29.rpy:1195
-translate francais v12s29_nsfwSkipLabel1_a800404a:
+                scene v12las44a
+                with dissolve
 
-    # la "That was crazy! *Laughs*"
-    la "C'était de la folie ! *Rire*"
+                u "Off we go."
 
-# game/v12/scene29.rpy:1200
-translate francais v12s29_nsfwSkipLabel1_e4a4f692:
+                scene v12las49
+                with dissolve
 
-    # u "Glad we didn't get caught! *Chuckles*"
-    u "Heureusement qu'on ne s'est pas fait prendre ! *Rire*"
+                pause 0.75
 
-# game/v12/scene29.rpy:1214
-translate francais v12s29_nsfwSkipLabel1_ac4b6892:
+                scene v12las41b # TPP. Same as v12las41a, MC and Lauren going in same direction, both smiling, mouths closed, holding hands
+                with dissolve
 
-    # la "I had so much fun tonight, but now I'm going to bed... or else I'm gonna end up asking you to stay all night. Roommate or not... *Chuckles*"
-    la "Je me suis tellement amusée ce soir, mais maintenant je vais devoir me coucher... sinon je vais finir par te demander de rester toute la nuit. Colocataire ou pas... *Rire*"
+                pause 0.75
 
-# game/v12/scene29.rpy:1216
-translate francais v12s29_nsfwSkipLabel1_4d5337ce:
+                scene v12las50 # TPP. Show Lauren and MC getting into her room, both smiling, mouths closed
+                with dissolve
 
-    # la "Goodnight baby, I love you."
-    la "Bonne nuit bébé, je t'aime."
+                pause 0.75
 
-# game/v12/scene29.rpy:1221
-translate francais v12s29_nsfwSkipLabel1_3f06a8cf:
+                scene v12las51 # TPP. Show MC lying down in her bed, Lauren on top of him
+                with dissolve
 
-    # u "Love you too, goodnight."
-    u "Je t'aime aussi, bonne nuit."
+                pause 1.25
 
-# game/v12/scene29.rpy:1226
-translate francais v12s29_nsfwSkipLabel1_435b774f:
+                scene v12las52 # FPP. MC looking at Lauren as she is on top of him, Lauren smiling, mouth open
+                with dissolve
 
-    # u "(Wow, Lauren and I actually fucking did it.)"
-    u "( Waouh, Lauren et moi l'avons vraiment fait putain.)"
+                la "Well... it looks like everything ended up perfectly. *Chuckles*"
 
-translate francais strings:
+                scene v12las52a # FPP. Same as v12las52, Lauren smiling, mouth closed
+                with dissolve
 
-    # game/v12/scene29.rpy:340
-    old "Let her vent"
-    new "Laissez-la se libérer"
+                u "Somebody's agreeing with you."
 
-    # game/v12/scene29.rpy:473
-    old "Hold her"
-    new "Retenez-la"
+                scene v12las52
+                with dissolve
 
-    # game/v12/scene29.rpy:604
-    old "We'll do this another day"
-    new "Nous ferons ça un autre jour"
+                la "*Chuckles* I'm sure he is."
 
-    # game/v12/scene29.rpy:604
-    old "A little extra effort..."
-    new "Un petit effort supplémentaire..."
-# TODO: Translation updated at 2022-01-18 10:42
+                stop music fadeout 3
+                play music "music/v12/Track Scene 29_8.mp3" fadein 2
 
-# game/v12/scene29.rpy:1184
-translate francais v12s29_nsfwSkipLabel1_ba25568d:
+                scene v12las53 # TPP. Show Lauren removing her dress, MC starting to remove his shirt, both smiling, mouths closed
+                with dissolve
 
-    # la "I love you, [name]."
-    la "Je t'aime, [name]."
+                pause
 
-# game/v12/scene29.rpy:1196
-translate francais v12s29_nsfwSkipLabel1_a0206b13:
+                if config_censored:
+                    call screen censoredPopup("v12s29_nsfwSkipLabel1")
 
-    # la "Let's not rush this, okay? When all is said and done, I want our first time to be all that I've dreamed of."
-    la "Ne nous précipitons pas, d'accord ? Quand tout sera dit et fait, je veux que notre première fois soit comme j'en ai toujours rêvé."
+                show screen v12s29_lauren_sex_overlay
 
-# game/v12/scene29.rpy:1201
-translate francais v12s29_nsfwSkipLabel1_59187764:
+                scene v12las53a # TPP. Same as v12las53, Show Lauren in her panties, stopping MC from removing his shirt, Lauren smiling, mouth open, MC smiling, mouth closed
+                with dissolve
 
-    # u "When the time comes, it will be."
-    u "Quand le moment sera venu, ça le sera."
+                la "No, wait! Let me."
 
-# game/v12/scene29.rpy:1211
-translate francais v12s29_nsfwSkipLabel1_8eec5065:
+                scene v12las53b # TPP. Same as v12las53a, Lauren in her panties, removing MC's shirt, both smiling, mouths closed
+                with dissolve
 
-    # u "Let's get in bed before a gust of wind knocks us off the roof. *Chuckles*"
-    u "Allons au lit avant qu'une rafale de vent ne nous fasse tomber du toit. *Rire*"
+                pause
 
-# game/v12/scene29.rpy:1216
-translate francais v12s29_nsfwSkipLabel1_fc820035:
+                scene v12las53c # TPP. Same as v12las53b, MC shirtless, Lauren removing his pants and boxers, MC kissing Lauren's body, both smiling, mouths closed
+                with dissolve
 
-    # la "*Chuckles* Yeah, let's do that."
-    la "*Rire* Oui, allons-y."
+                pause
 
-# game/v12/scene29.rpy:1226
-translate francais v12s29_nsfwSkipLabel1_353b7882:
+                scene v12las54 # TPP. Show MC rolling Lauren over with her back on the bed, he's on top, removing her panties, MC naked, both smiling, mouths closed
+                with dissolve
 
-    # la "Have a good night, [name]."
-    la "Passe une bonne nuit, [name]."
+                pause
 
-# game/v12/scene29.rpy:1231
-translate francais v12s29_nsfwSkipLabel1_b6d03d82:
+                scene v12las54a # TPP. Same as v12las54, Show MC kissing Lauren's stomach, Lauren no panties, both smiling, mouths closed
+                with dissolve
 
-    # u "You too, Lauren."
-    u "Toi aussi, Lauren."
+                pause
+
+                scene v12las54b # TPP. Same as v12las54a, Show MC kissing Lauren's breasts, both smiling, mouths closed
+                with dissolve
+
+                pause
+
+                label v12s29_lauren_fingering: 
+                    scene v12las54c # TPP. Same as v12las54b, MC kissing Lauren's lips, hand over her pussy
+                    with dissolve
+                    play sound "sounds/kiss.mp3"
+
+                    pause
+
+                    image v12laufi = Movie(play="images/v12/Scene 29/v12laufi.webm", loop=True, image="images/v12/Scene 29/v12laufiStart.webp", start_image="images/v12/Scene 29/v12laufiStart.webp") # Lauren fingering
+                    image v12laufif = Movie(play="images/v12/Scene 29/v12laufif.webm", loop=True, image="images/v12/Scene 29/v12laufiStart.webp", start_image="images/v12/Scene 29/v12laufiStart.webp") # Lauren fingering spedup
+                    image v12laufi2 = Movie(play="images/v12/Scene 29/v12laufi2.webm", loop=True, image="images/v12/Scene 29/v12laufi2Start.webp", start_image="images/v12/Scene 29/v12laufi2Start.webp") # Lauren fingering TPP 2
+                    image v12laufi2f = Movie(play="images/v12/Scene 29/v12laufi2f.webm", loop=True, image="images/v12/Scene 29/v12laufi2Start.webp", start_image="images/v12/Scene 29/v12laufi2Start.webp") # Lauren fingering TPP 2 spedup
+
+                    scene v12laufi # Ignore as animation
+                    with dissolve
+                    pause
+
+                    la "Ahh, oh god... Please... be gentle."
+
+                    scene v12laufif # Ignore as animation
+                    with dissolve
+                    pause
+
+                    u "Yes, baby... Of course."
+
+                    scene v12laufi2 # Ignore as animation
+                    with dissolve
+                    pause
+
+                    la "Mmm, fuck... That feels good."
+
+                    scene v12laufi2f # Ignore as animation
+                    with dissolve
+                    pause
+
+                    la "*Moans* Let me please you."
+
+                    scene v12las55 # TPP. Show MC laying on his back, Lauren moving down to suck him off, both smiling, mouths closed
+                    with dissolve
+
+                    pause
+
+                    scene v12las56 # TPP. Show MC laying on his back, lauren with his dick in her hands, ready to suck him off, both smiling, mouths closed
+                    with dissolve
+
+                    pause
+
+                label v12s29_lauren_blowjob:
+                    image v12laubj = Movie(play="images/v12/Scene 29/v12laubj.webm", loop=True, image="images/v12/Scene 29/v12laubjStart.webp", start_image="images/v12/Scene 29/v12laubjStart.webp") # Lauren blowjob
+                    image v12laubjf = Movie(play="images/v12/Scene 29/v12laubjf.webm", loop=True, image="images/v12/Scene 29/v12laubjStart.webp", start_image="images/v12/Scene 29/v12laubjStart.webp") # Lauren blowjob spedup
+                    image v12laubj2 = Movie(play="images/v12/Scene 29/v12laubj2.webm", loop=True, image="images/v12/Scene 29/v12laubj2Start.webp", start_image="images/v12/Scene 29/v12laubj2Start.webp") # Lauren blowjob TPP 2
+                    image v12laubj2f = Movie(play="images/v12/Scene 29/v12laubj2f.webm", loop=True, image="images/v12/Scene 29/v12laubj2Start.webp", start_image="images/v12/Scene 29/v12laubj2Start.webp") # Lauren blowjob TPP 2 spedup
+
+                    scene v12laubj # Ignore as animation
+                    with dissolve
+                    pause
+
+                    u "L-Lauren... Fuck!"
+
+                    scene v12laubjf # Ignore as animation
+                    with dissolve
+                    pause
+
+                    u "Damn... you're so fucking good at this, Lauren..."
+
+                    scene v12laubj2 # Ignore as animation
+                    with dissolve
+                    pause
+
+                    u "This is the best fucking bl- Oh, god!"
+
+                    scene v12laubj2f # Ignore as animation
+                    with dissolve
+                    pause
+
+                    u "Lauren, w-wait!"
+
+                    scene v12las57 # FPP. MC looking at Lauren, she is worried, mouth open (she just finished sucking him off, check v12laubj for positioning)
+                    with dissolve
+
+                    la "What's wrong? Did I do okay?"
+
+                    scene v12las57a # FPP. Same as v12las57, lauren slight smile, mouth closed
+                    with dissolve
+
+                    u "You did amazing."
+
+                    scene v12las58 # TPP. Show MC kissing Lauren
+                    with dissolve
+                    play sound "sounds/kiss.mp3"
+
+                    pause
+
+                    scene v12las59 # TPP. Show Lauren turning to lay on her back, MC turning to go on top of her, both smiling, mouths closed
+                    with dissolve
+
+                    pause
+                    
+                    scene v12las60 # FPP. MC and Lauren in missionary position, MC looking at Lauren, Lauren slight smile, mouth open
+                    with dissolve
+
+                    la "I'm ready... Please just, be slow."
+
+                    scene v12las60a # FPP. Same as v12las60, lauren slight smile, mouth closed
+                    with dissolve
+
+                    u "I will."
+
+                label v12s29_lauren_legs_up:
+                    image v12laumi = Movie(play="images/v12/Scene 29/v12laumi.webm", loop=True, image="images/v12/Scene 29/v12laumiStart.webp", start_image="images/v12/Scene 29/v12laumiStart.webp") # Lauren missionary
+                    image v12laumif = Movie(play="images/v12/Scene 29/v12laumif.webm", loop=True, image="images/v12/Scene 29/v12laumiStart.webp", start_image="images/v12/Scene 29/v12laumiStart.webp") # Lauren missionary spedup
+                    image v12laumi2 = Movie(play="images/v12/Scene 29/v12laumi2.webm", loop=True, image="images/v12/Scene 29/v12laumi2Start.webp", start_image="images/v12/Scene 29/v12laumi2Start.webp") # Lauren missionary TPP 2
+                    image v12laumi2f = Movie(play="images/v12/Scene 29/v12laumi2f.webm", loop=True, image="images/v12/Scene 29/v12laumi2Start.webp", start_image="images/v12/Scene 29/v12laumi2Start.webp") # Lauren missionary TPP 2 spedup
+
+                    scene v12laumi # Ignore as animation
+                    with dissolve
+                    pause
+
+                    la "*Gasps* Ah! Oh... ah, fuck..."
+
+                    scene v12laumif # Ignore as animation
+                    with dissolve
+                    pause
+
+                    la "*Heavy breathing* Ow... Haa... Fuck!"
+
+                    scene v12laumi2 # Ignore as animation
+                    with dissolve
+                    pause
+
+                    u "Are you okay? Do you like it?"
+
+                    la "Mhmm! Yes... Please, keep going!"
+
+                    scene v12laumi2f # Ignore as animation
+                    with dissolve
+                    pause
+
+                    la "*Moans*"
+
+                    scene v12las61 # TPP. Show Lauren and MC midway through switching places (Lauren will go on top and MC on bottom), both smiling, mouths closed
+                    with dissolve
+
+                    pause
+
+                    scene v12las62 # TPP. Show Lauren on top of MC, ready to ride him, both smiling, mouths closed
+                    with dissolve
+                    
+                    pause
+
+                label v12s29_lauren_cowgirl:
+                    image v12laucg = Movie(play="images/v12/Scene 29/v12laucg.webm", loop=True, image="images/v12/Scene 29/v12laucgStart.webp", start_image="images/v12/Scene 29/v12laucgStart.webp") # Lauren cowgirl
+                    image v12laucgf = Movie(play="images/v12/Scene 29/v12laucgf.webm", loop=True, image="images/v12/Scene 29/v12laucgStart.webp", start_image="images/v12/Scene 29/v12laucgStart.webp") # Lauren cowgirl spedup
+                    image v12laucg2 = Movie(play="images/v12/Scene 29/v12laucg2.webm", loop=True, image="images/v12/Scene 29/v12laucg2Start.webp", start_image="images/v12/Scene 29/v12laucg2Start.webp") # Lauren cowgirl FPP
+                    image v12laucg2f = Movie(play="images/v12/Scene 29/v12laucg2f.webm", loop=True, image="images/v12/Scene 29/v12laucg2Start.webp", start_image="images/v12/Scene 29/v12laucg2Start.webp") # Lauren cowgirl FPP spedup
+
+                    scene v12laucg # Ignore as animation
+                    with dissolve
+                    pause
+
+                    u "This day..."
+
+                    u "Could not have been..."
+
+                    scene v12laucgf # Ignore as animation
+                    with dissolve
+                    pause
+
+                    u "Any fucking better..."
+
+                    la "*Moans* Mhmm! I'll never forget it... Mmm, fuck..."
+
+                    scene v12laucg2 # Ignore as animation
+                    with dissolve
+                    pause
+
+                    la "Yes... Yes, [name]! I'm... I'm cu- *Gasps*"
+                    
+                    u "Damn it Lauren, you're so fucking tight..."
+
+                    scene v12laucg2f # Ignore as animation
+                    with dissolve
+                    pause
+
+                    u "And so fucking... Wet! I'm gonna cum..."
+
+                    la "Mmm, yes! Don't pull out... Please... It's safe."
+
+                    scene v12las63 # TPP. Show MC cumming in Lauren as she rides him
+                    with vpunch
+
+                    pause
+
+                    scene v12las64 # TPP. Closeup of Lauren's pussy filled with cum
+                    with dissolve
+
+                    pause
+
+                scene v12las65 # TPP. Show Lauren rolling over to lay down next to MC
+                with dissolve
+
+                hide screen v12s29_lauren_sex_overlay
+
+                pause
+
+                scene v12las66 # FPP. MC and Lauren lieing down next to each other, looking at each other, Lauren smiling, mouth open, make her body a bit sweaty if possible
+                with dissolve
+
+                if lauren.relationship >= Relationship.GIRLFRIEND and (amber.relationship < Relationship.FWB) and (aubrey.relationship < Relationship.FWB) and (candy.relationship < Relationship.FWB) and (chloe.relationship < Relationship.FWB) and (emily.relationship < Relationship.FWB) and (evelyn.relationship < Relationship.LIKES) and (lindsey.relationship < Relationship.KISS) and (ms_rose.relationship < Relationship.FWB) and (penelope.relationship < Relationship.LIKES) and (riley.relationship < Relationship.FWB) and (samantha.relationship < Relationship.MOVE):
+                    $ grant_achievement("worth_the_wait")
+
+                $ lauren.relationship = Relationship.GIRLFRIEND
+
+                la "Phew! Haha... That was absolutely perfect."
+
+                scene v12las66a # FPP. Same as v12las66, lauren smiling, mouth closed
+                with dissolve
+
+                u "*Chuckles* It really was."
+
+                scene v12las66
+                with dissolve
+
+                la "I'm so happy I waited for you, you have no idea."
+
+                scene v12las66a
+                with dissolve
+
+                u "I am too. *Chuckles* (You have no idea...)"
+
+                scene v12las66
+                with dissolve
+
+                la "I don't think I'm gonna be able to sleep tonight, haha! I hate that we can't sleep together... Ugh!"
+
+                scene v12las66a
+                with dissolve
+
+                u "I wish we could too... Things can always change once we get back, though."
+
+                scene v12las66
+                with dissolve
+
+                la "*Chuckles* Of course."
+
+                scene v12las67 # TPP. Show Lauren and MC getting out of the bed, both smiling, mouths closed
+                with dissolve
+
+                pause
+
+                scene v12las68 # TPP. Show MC and Lauren getting dressed, both smiling, mouths closed
+                with dissolve
+
+                pause
+                
+                label v12s29_nsfwSkipLabel1:
+
+                scene v12las69 # TPP. Show Lauren and MC walking towards the door of the hotel room, both smiling, mouths closed
+                with dissolve
+
+                pause 1
+
+                scene v12las70 # TPP. Show MC getting out of the room, Lauren still inside, in front of the door, door open, both smiling, mouths closed
+                with dissolve
+
+                pause 0.75
+
+                stop music fadeout 3
+                play music "music/v12/Track Scene 29_9.mp3" fadein 2
+
+                scene v12las71 # FPP. MC outside the room, Lauren inside, both in front of door, looking at each other, Lauren smiling, mouth open
+                with dissolve
+
+                la "That was crazy! *Laughs*"
+
+                scene v12las71a # FPP. Same as v12las71, Lauren smiling, mouth closed
+                with dissolve
+
+                u "Glad we didn't get caught! *Chuckles*"
+
+                scene v12las72 # TPP. Show Lauren kissing MC
+                with dissolve
+                play sound "sounds/kiss.mp3"
+
+                pause
+
+                stop music fadeout 3
+                play music "music/v12/Track Scene 29_6.mp3" fadein 2
+
+                scene v12las71
+                with dissolve
+
+                la "I had so much fun tonight, but now I'm going to bed... or else I'm gonna end up asking you to stay all night. Roommate or not... *Chuckles*"
+
+                la "Goodnight baby, I love you."
+
+                scene v12las71a
+                with dissolve
+
+                u "Love you too, goodnight."
+
+                scene v12las71b # FPP. Show only door closed now
+                with dissolve
+
+                u "(Wow, Lauren and I actually fucking did it.)"
+
+                $ renpy.end_replay()
+
+                scene v12las73 # TPP. Show MC walking in hallway, smiling, mouth closed
+                with dissolve
+
+                pause 0.75
+
+                stop music fadeout 3
+
+                jump v12_room_sneak
+                
+            else:
+            
+                scene v12las46e
+                with dissolve
+
+                la "I love you, [name]."
+
+                scene v12las47 # TPP. Show Lauren kissing MC while they lay on the ground
+                with dissolve
+
+                pause
+
+                scene v12las46e
+                with dissolve
+                
+                call screen kct_popup(required_kct="loyal")
+
+                la "Let's not rush this, okay? When all is said and done, I want our first time to be all that I've dreamed of."
+
+                scene v12las46d
+                with dissolve
+
+                u "When the time comes, it will be."
+
+                scene v12las48 # TPP. Show MC standing up and helping Lauren get up
+                with dissolve
+
+                pause 0.75
+
+                scene v12las44a
+                with dissolve
+
+                u "Let's get in bed before a gust of wind knocks us off the roof. *Chuckles*"
+
+                scene v12las44
+                with dissolve
+
+                la "*Chuckles* Yeah, let's do that."
+
+                scene v12las49 # TPP. Show MC and Lauren walking into the hallway from the roof, both smiling, mouths closed
+                with dissolve
+
+                pause 0.75
+
+                scene v12las39b # FPP. Same as v12las39a, Lauren slight smile, mouth open
+                with dissolve
+
+                la "Have a good night, [name]."
+
+                scene v12las39c # FPP. Same as v12las39b, Lauren slight smile, mouth closed
+                with dissolve
+
+                u "You too, Lauren."
+
+                scene v12las41a # TPP. Same as v12las41, both slightly smiling, mouths closed
+                with dissolve
+
+                pause 0.75
+
+                jump v12_room_sneak

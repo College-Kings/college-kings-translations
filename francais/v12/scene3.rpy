@@ -1,453 +1,497 @@
-﻿# TODO: Translation updated at 2021-12-16 19:03
+# SCENE 3: Penelope Meeting on the Roof
+# Location: Roof
+# Characters: MC (Outfit X), Penelope (Outfit X)
+# Time: 
 
-# game/v12/scene3.rpy:18
-translate francais v12_penelope_roof_8ac7517f:
+label v12_penelope_roof:
+    scene v12penr1 # TPP Show MC sitting on his bed looking down at his phone, in his hand
+    with fade
 
-    # u "(It's Penelope.)"
-    u "(C'est Pénélope.)"
+    play sound "sounds/vibrate.mp3"
+    pause 1
 
-# game/v12/scene3.rpy:33
-translate francais v12_penelope_roof_text_3faef724:
+    play music "music/v12/Track Scene 3_1.mp3" fadein 2
 
-    # u "(I should probably reply.)"
-    u "(Je devrais probablement répondre.)"
+    $ penelope.messenger.newMessage("Hey, are you up still?", force_send=True)
+    $ penelope.messenger.newMessage("If you are, can you meet me in the hallway?", force_send=True)
 
-# game/v12/scene3.rpy:47
-translate francais v12_penelope_roof_text_0336fa14:
+    u "(It's Penelope.)"
 
-    # u "What's up?"
-    u "Qu'est-ce qu'il y a ?"
+    call screen phone
 
-# game/v12/scene3.rpy:52
-translate francais v12_penelope_roof_text_58e663ab:
+    menu:
+        "Reply":
+            if penelope.relationship >= Relationship.LIKES:
+                $ add_point(KCT.BOYFRIEND)
 
-    # pe "I... Okay. Don't make fun of me, but I'm kinda nervous to be by myself."
-    pe "Je... Ok. Ne te moque pas de moi, mais je suis un peu nerveuse d'être toute seule."
+            $ penelope.messenger.addReply("Yeah, one sec", func=None)
 
-# game/v12/scene3.rpy:57
-translate francais v12_penelope_roof_text_aa953a2c:
+            label v12_penelope_roof_text:
+                if penelope.messenger.replies:
+                    call screen phone
+                if penelope.messenger.replies:
+                    u "(I should probably reply.)"
+                    jump v12_penelope_roof_text
 
-    # u "Because of the mugger and everything?"
-    u "À cause de l'agresseur et tout le reste ?"
+            scene v12penr2 # TPP Show MC leaving his hotel room
+            with dissolve
 
-# game/v12/scene3.rpy:62
-translate francais v12_penelope_roof_text_e56e807a:
+            pause 1
 
-    # pe "Yes. And I know it's not like he's gonna run into the hotel and snatch me or something. I'm not that paranoid, but I'd still rather not be by myself."
-    pe "Oui. Et je sais que ce n'est pas comme s'il allait entrer dans l'hôtel et m'enlever ou autre. Je ne suis pas si paranoïaque, mais je préfère quand même ne pas être seule."
+            stop music fadeout 3
+            play music "music/v12/Track Scene 3_2.mp3" fadein 2
 
-# game/v12/scene3.rpy:67
-translate francais v12_penelope_roof_text_1502d406:
+            scene v12penr3 # FPP Show Penelope in hotel room hallway, embarrassed expression, mouth closed
+            with dissolve
 
-    # u "I gotcha. So you called your one and only hero to protect you, right?"
-    u "Je comprends. Donc tu as appelé ton seul et unique héros pour te protéger, pas vrai ?"
+            u "What's up?"
 
-# game/v12/scene3.rpy:72
-translate francais v12_penelope_roof_text_80065605:
+            scene v12penr3a # FPP Same angle as v12penr3, Penelope with embarrased expression, mouth open
+            with dissolve
 
-    # pe "Haha, don't start getting too big of a head. I can always call someone else."
-    pe "Haha, ne commence pas à prendre la grosse tête. Je peux toujours appeler quelqu'un d'autre."
+            pe "I... Okay. Don't make fun of me, but I'm kinda nervous to be by myself."
 
-# game/v12/scene3.rpy:77
-translate francais v12_penelope_roof_text_083f2e98:
+            scene v12penr3
+            with dissolve
 
-    # u "No need for all that. *Chuckles* What are you wanting to do?"
-    u "Pas la peine. *Rire* Que veux-tu faire ?"
+            u "Because of the mugger and everything?"
 
-# game/v12/scene3.rpy:82
-translate francais v12_penelope_roof_text_d7b696cb:
+            scene v12penr3a
+            with dissolve
 
-    # pe "I don't know, just something that gets my mind off of all this."
-    pe "Je ne sais pas, juste quelque chose qui me change les idées."
+            pe "Yes. And I know it's not like he's gonna run into the hotel and snatch me or something. I'm not that paranoid, but I'd still rather not be by myself."
 
-# game/v12/scene3.rpy:87
-translate francais v12_penelope_roof_text_23d8698d:
+            scene v12penr3
+            with dissolve
 
-    # u "Hmm, wanna go to the roof?"
-    u "Hmm, tu veux aller sur le toit ?"
+            u "I gotcha. So you called your one and only hero to protect you, right?"
 
-# game/v12/scene3.rpy:92
-translate francais v12_penelope_roof_text_5623663c:
+            scene v12penr3b # FPP Same angle as v12penr3, Penelope smiling with mouth open
+            with dissolve
 
-    # pe "Is that even allowed?"
-    pe "Est-ce que c'est autorisé ?"
+            pe "Haha, don't start getting too big of a head. I can always call someone else."
 
-# game/v12/scene3.rpy:97
-translate francais v12_penelope_roof_text_4d18c26f:
+            scene v12penr3c # FPP Same angle as v12penr3, Penelope smiling with mouth closed
+            with dissolve
 
-    # u "We're allowed to explore, right? Since it's so late and nothing is open, our only option is the hotel. So let's explore walking up to the roof. *Chuckles*"
-    u "On a le droit d'explorer, non ? Comme il est tard et que rien n'est ouvert, notre seule option est l'hôtel. Alors allons explorer le toit. *Rire*"
+            u "No need for all that. *Chuckles* What are you wanting to do?"
 
-# game/v12/scene3.rpy:102
-translate francais v12_penelope_roof_text_c95fd348:
+            scene v12penr3b
+            with dissolve
 
-    # pe "I'm here because I got into trouble and you want me to do something silly like this."
-    pe "Je suis ici parce que j'ai eu des problèmes et tu veux que je fasse quelque chose de stupide comme ça."
+            pe "I don't know, just something that gets my mind off of all this."
 
-# game/v12/scene3.rpy:107
-translate francais v12_penelope_roof_text_d5b0bfcd:
+            scene v12penr3c
+            with dissolve
 
-    # u "Well, we could always just go our separate ways and get some sleep."
-    u "On peut toujours prendre des chemins différents et dormir un peu."
+            u "Hmm, wanna go to the roof?"
 
-# game/v12/scene3.rpy:112
-translate francais v12_penelope_roof_text_6581ce28:
+            scene v12penr3d # FPP Same angle as v12penr3, Penelope looking worried with mouth open
+            with dissolve
 
-    # pe "Nope, roof it is."
-    pe "Non, ce sera le toit."
+            pe "Is that even allowed?"
 
-# game/v12/scene3.rpy:117
-translate francais v12_penelope_roof_text_fcc18885:
+            scene v12penr3e # FPP Same angle as v12penr3, Penelope with neutral expression, mouth closed
+            with dissolve
 
-    # u "*Laughs*"
-    u "*Rire*"
+            u "We're allowed to explore, right? Since it's so late and nothing is open, our only option is the hotel. So let's explore walking up to the roof. *Chuckles*"
 
-# game/v12/scene3.rpy:132
-translate francais v12_penelope_roof_text_e26ffbd5:
+            scene v12penr3b
+            with dissolve
 
-    # pe "It won't open."
-    pe "Ça ne s'ouvre pas."
+            pe "I'm here because I got into trouble and you want me to do something silly like this."
 
-# game/v12/scene3.rpy:137
-translate francais v12_penelope_roof_text_f31d55e7:
+            scene v12penr3c
+            with dissolve
 
-    # u "*Grunts*"
-    u "*Grogne*"
+            u "Well, we could always just go our separate ways and get some sleep."
 
-# game/v12/scene3.rpy:142
-translate francais v12_penelope_roof_text_d6f982bb:
+            scene v12penr3b
+            with dissolve
 
-    # u "Well, would you look at that..."
-    u "Eh bien, regardes ça..."
+            pe "Nope, roof it is."
 
-# game/v12/scene3.rpy:147
-translate francais v12_penelope_roof_text_e7c31802:
+            scene v12penr3c
+            with dissolve
 
-    # pe "Okay, Hulk."
-    pe "Okay, Hulk."
+            u "*Laughs*"
 
-# game/v12/scene3.rpy:165
-translate francais v12_penelope_roof_text_366d0df2:
+            scene v12penr4 # TPP Show MC and Penelope walking down hotel hallway
+            with dissolve
 
-    # pe "This is... beautiful."
-    pe "C'est... magnifique."
+            pause 0.75
 
-# game/v12/scene3.rpy:176
-translate francais v12_penelope_roof_text_c6e9033c:
+            scene v12penr5 # TPP Show MC and Penelope arriving at door to the roof
+            with dissolve
 
-    # u "It really is."
-    u "C'est vrai."
+            pause 0.75
 
-# game/v12/scene3.rpy:180
-translate francais v12_penelope_roof_text_36ac9fa4:
+            scene v12penr5a # TPP Same angle as v12penr5, Penelope pulling on the door to the roof, Penelope's mouth open
+            with dissolve
 
-    # u "Yes, you are."
-    u "Tu l'es."
+            pe "It won't open."
 
-# game/v12/scene3.rpy:185
-translate francais v12_penelope_roof_text_59dbbf76:
+            scene v12penr6 # FPP MC up next to Penelope, hand out pulling on door to roof, Penelope watching with mouth closed
+            with dissolve
 
-    # pe "Huh?"
-    pe "Hein ?"
+            u "*Grunts*"
 
-# game/v12/scene3.rpy:190
-translate francais v12_penelope_roof_text_01f25d46:
+            scene v12penr6a # FPP Same angle as v12penr6, door to roof opening
+            with dissolve
 
-    # u "Oh, nothing. *Chuckles*"
-    u "Oh, rien. *Rire*"
+            u "Well, would you look at that..."
 
-# game/v12/scene3.rpy:195
-translate francais v12_penelope_roof_text_4796ee8c:
+            scene v12penr6b # FPP Same angle as v12penr6, door to roof is open, Penelope smiling with mouth open
+            with dissolve
 
-    # pe "Haha, I heard you, goofball. I just wanted to see if you'd repeat yourself, handsome."
-    pe "Haha, je t'ai entendu, idiot. Je voulais juste voir si tu allais te répéter, mon mignon."
+            pe "Okay, Hulk."
 
-# game/v12/scene3.rpy:200
-translate francais v12_penelope_roof_text_f43fc282:
+            scene v12penr7 # TPP Show MC and Penelope exiting door onto the hotel roof
+            with dissolve
 
-    # pe "I have to be honest, I can't stand how the world is today."
-    pe "Je dois être honnête, je ne supporte pas le monde d'aujourd'hui."
+            pause 1
 
-# game/v12/scene3.rpy:205
-translate francais v12_penelope_roof_text_09332657:
+            stop music fadeout 3
+            play music "music/v12/Track Scene 3_3.mp3" fadein 2
 
-    # u "What do you mean?"
-    u "Qu'est-ce que tu veux dire ?"
+            scene v12penr8 # TPP Show MC and Penelope out on hotel roof in the process of sitting down
+            with dissolve
 
-# game/v12/scene3.rpy:210
-translate francais v12_penelope_roof_text_5d69c430:
+            pause 1
 
-    # pe "There's just so many bad people out there."
-    pe "Il y a juste tellement de mauvaises personnes dehors."
+            scene v12penr9 # TPP Show MC and Penelope laying on hotel roof, view is from above, both looking up, Penelope's mouth open
+            with dissolve
 
-# game/v12/scene3.rpy:215
-translate francais v12_penelope_roof_text_c88e45f6:
+            pe "This is... beautiful."
 
-    # u "Hasn't the world always been like that?"
-    u "Le monde n'a-t-il pas toujours été comme ça ?"
+            scene v12penr10 # FPP View of MC, who is laying on his back, looking over at Penelope. She is laying down and looking up, her mouth closed
+            with dissolve
 
-# game/v12/scene3.rpy:220
-translate francais v12_penelope_roof_text_414abb92:
+            menu:
+                "Sure is":
+                    $ add_point(KCT.BRO)
+                    scene v12penr11 # FPP View of MC, who is laying on his back looking up at the stars
+                    with dissolve
 
-    # pe "Maybe, you're right. Either way though, I can't stand it. It's like people don't take their victims into consideration."
-    pe "Peut-être, tu as raison. Quoi qu'il en soit, je ne le supporte pas. C'est comme si les gens ne prenaient pas leurs victimes en considération."
+                    u "It really is."
 
-# game/v12/scene3.rpy:225
-translate francais v12_penelope_roof_text_943672cd:
+                "You sure are":
+                    $ add_point(KCT.BOYFRIEND)
+                    u "Yes, you are."
 
-    # pe "Sure, I may have done some bad things before, but I could never do something bad that resulted in someone being a victim."
-    pe "Bien sûr, j'ai peut-être fait de mauvaises choses auparavant, mais je n'ai jamais volontairement fait du mal à quelqu'un."
+                    scene v12penr10a # FPP Same angle as v12penr10, Penelope looking back at MC, neutral expression, mouth open
+                    with dissolve
 
-# game/v12/scene3.rpy:230
-translate francais v12_penelope_roof_text_c9c2317e:
+                    pe "Huh?"
 
-    # u "There's only one way to get away from all the bad stuff in the world."
-    u "Il n'y a qu'un seul moyen de s'éloigner de toutes les mauvaises choses du monde."
+                    scene v12penr10b # FPP Same angle as v12penr10, Penelope looking back at MC, neutral expression, mouth closed
+                    with dissolve
 
-# game/v12/scene3.rpy:235
-translate francais v12_penelope_roof_text_1dc9463e:
+                    u "Oh, nothing. *Chuckles*"
 
-    # pe "And what's that?"
-    pe "Et qu'est-ce que c'est ?"
+                    scene v12penr10c # FPP Same angle as v12penr10, Penelope looking back at MC, smiling with mouth open
+                    with dissolve
 
-# game/v12/scene3.rpy:240
-translate francais v12_penelope_roof_text_e2b2e327:
+                    pe "Haha, I heard you, goofball. I just wanted to see if you'd repeat yourself, handsome."
 
-    # u "Don't be in it."
-    u "N'y participe pas."
+            scene v12penr10d # FPP Same angle as v12penr10, Penelope looking up at stars, neutral expression, mouth open
+            with dissolve
 
-# game/v12/scene3.rpy:245
-translate francais v12_penelope_roof_text_5e87408a:
+            pe "I have to be honest, I can't stand how the world is today."
 
-    # pe "Well, that's not an option. I'm just trying to enjoy my life."
-    pe "Eh bien, ce n'est pas une option. J'essaie juste de profiter de ma vie."
+            scene v12penr10
+            with dissolve
 
-# game/v12/scene3.rpy:250
-translate francais v12_penelope_roof_text_5ecc5ec7:
+            u "What do you mean?"
 
-    # u "Exactly, it's not an option. So rather than focusing on the bad people we just have to do our best to be a good person, and like you said, try to enjoy our lives."
-    u "Exactement, ce n'est pas une option. Alors plutôt que de se concentrer sur les mauvaises personnes, nous devons simplement faire de notre mieux pour être quelqu'un de bien, et comme tu l'as dit, essayer de profiter de nos vies."
+            scene v12penr10d
+            with dissolve
 
-# game/v12/scene3.rpy:255
-translate francais v12_penelope_roof_text_970c1436:
+            pe "There's just so many bad people out there."
 
-    # pe "Mr. Lee tell you that?"
-    pe "Mr Lee t'a dit ça ?"
+            scene v12penr10
+            with dissolve
 
-# game/v12/scene3.rpy:260
-translate francais v12_penelope_roof_text_4bbac3ad:
+            u "Hasn't the world always been like that?"
 
-    # u "*Chuckles* What? No, what makes you say that?"
-    u "*Rire* Quoi ? Non, qu'est-ce qui te fait dire ça ?"
+            scene v12penr10d
+            with dissolve
 
-# game/v12/scene3.rpy:265
-translate francais v12_penelope_roof_text_5baebef1:
+            pe "Maybe, you're right. Either way though, I can't stand it. It's like people don't take their victims into consideration."
 
-    # pe "Along with all the chores he gives me, he makes sure he has time to dive into deep philosophical conversations. *Laughs*"
-    pe "En plus de toutes les tâches qu'il me confie, il fait en sorte d'avoir le temps de se plonger dans des conversations philosophiques profondes avec moi. *Rire*"
+            scene v12penr10a
+            with dissolve
 
-# game/v12/scene3.rpy:270
-translate francais v12_penelope_roof_text_bd919c9c:
+            pe "Sure, I may have done some bad things before, but I could never do something bad that resulted in someone being a victim."
 
-    # u "*Mocking tone* \"The past is in the past, so leave it there. But right now is a gift, that's why it's called the present.\" How was that? *Chuckles*"
-    u "*Ton moqueur* \"Le passé est dans le passé, alors laisse-le là. Mais le moment présent est un cadeau, c'est pourquoi on l'appelle le présent.\" Comment c'était ? *Rire*"
+            scene v12penr10b
+            with dissolve
 
-# game/v12/scene3.rpy:275
-translate francais v12_penelope_roof_text_88d737a6:
+            u "There's only one way to get away from all the bad stuff in the world."
 
-    # pe "*Laughs* That may just be an exact quote from him."
-    pe "*Rire* C'est peut-être une citation exacte de lui."
+            scene v12penr10a
+            with dissolve
 
-# game/v12/scene3.rpy:280
-translate francais v12_penelope_roof_text_261e2746:
+            pe "And what's that?"
 
-    # u "Haha. Mr. Lee has his moments, but he really is a good guy."
-    u "Haha. Mr Lee a ses moments, mais c'est vraiment quelqu'un de bien."
+            scene v12penr10b
+            with dissolve
 
-# game/v12/scene3.rpy:285
-translate francais v12_penelope_roof_text_9e101682:
+            u "Don't be in it."
 
-    # pe "Yeah, not many of those in our generation."
-    pe "Oui, il n'y en a pas beaucoup dans notre génération."
+            scene v12penr10d
+            with dissolve
 
-# game/v12/scene3.rpy:290
-translate francais v12_penelope_roof_text_a8921641:
+            pe "Well, that's not an option. I'm just trying to enjoy my life."
 
-    # u "Do you think I'm a good guy?"
-    u "Tu penses que je suis un mec bien ?"
+            scene v12penr10
+            with dissolve
 
-# game/v12/scene3.rpy:297
-translate francais v12_penelope_roof_text_93424824:
+            u "Exactly, it's not an option. So rather than focusing on the bad people we just have to do our best to be a good person, and like you said, try to enjoy our lives."
 
-    # pe "I think you struggle with right and wrong just like everyone does, but that doesn't mean you're good or bad. It means you're human."
-    pe "Je pense que tu te débats avec le bien et le mal comme tout le monde, mais ça ne veut pas dire que tu es bon ou mauvais. Cela signifie que tu es humain."
+            scene v12penr10c
+            with dissolve
 
-# game/v12/scene3.rpy:303
-translate francais v12_penelope_roof_text_c733c8e3:
+            pe "Mr. Lee tell you that?"
 
-    # pe "With you, it's like watching someone try to pick up everyone's fallen pieces and helping them solve their own puzzles. Selfless, caring, and loyal... To me, you're a good guy."
-    pe "C'est comme si on te voyait essayer de ramasser les fragments de tout le monde et de les aider à résoudre leurs propres difficultés. Désintéressé, attentionné, et loyal... Pour moi oui, tu es un mec bien."
+            scene v12penr10e # FPP Same angle as v12penr10, Penelope looking back at MC, smiling with mouth closed
+            with dissolve
 
-# game/v12/scene3.rpy:308
-translate francais v12_penelope_roof_text_166be7a9:
+            u "*Chuckles* What? No, what makes you say that?"
 
-    # u "Thanks Penelope, that means a lot to me."
-    u "Merci Pénélope, ça me touche beaucoup."
+            scene v12penr10c
+            with dissolve
 
-# game/v12/scene3.rpy:313
-translate francais v12_penelope_roof_text_5919815d:
+            pe "Along with all the chores he gives me, he makes sure he has time to dive into deep philosophical conversations. *Laughs*"
 
-    # pe "Always."
-    pe "Je le pense réellement."
+            scene v12penr10e
+            with dissolve
 
-# game/v12/scene3.rpy:316
-translate francais v12_penelope_roof_text_5888201c:
+            u "*Mocking tone* \"The past is in the past, so leave it there. But right now is a gift, that's why it's called the present.\" How was that? *Chuckles*"
 
-    # pe "I kinda hope I end up marrying a guy like you."
-    pe "J'espère vraiment épouser un gars comme toi."
+            scene v12penr10f # FPP Same angle as v12penr10, Penelope looking back at MC, laughing with mouth open
+            with dissolve
 
-# game/v12/scene3.rpy:325
-translate francais v12_penelope_roof_text_c5b30f7f:
+            pe "*Laughs* That may just be an exact quote from him."
 
-    # u "*Gulp*"
-    u "*Gloup*"
+            scene v12penr10e
+            with dissolve
 
-# game/v12/scene3.rpy:330
-translate francais v12_penelope_roof_text_8b621f1e:
+            u "Haha. Mr. Lee has his moments, but he really is a good guy."
 
-    # pe "Oh, I wasn't trying to imply anything. *Chuckles* I just think you'd be a really good guy to spend a lifetime with."
-    pe "Oh, je n'essayais pas d'insinuer quoi que ce soit. *Rire* Je pense juste que tu serais un bon partenaire pour toute une vie."
+            scene v12penr10d
+            with dissolve
 
-# game/v12/scene3.rpy:335
-translate francais v12_penelope_roof_text_5ff3bc04:
+            pe "Yeah, not many of those in our generation."
 
-    # u "Ha, thanks. I can't even begin to think about marriage... I don't even know the Bill of Rights. *Chuckles*"
-    u "Ha, merci. Je ne veux même pas commencer à penser au mariage... Je ne connais même pas la Déclaration des droits. *Rires*"
+            scene v12penr10
+            with dissolve
 
-# game/v12/scene3.rpy:340
-translate francais v12_penelope_roof_text_78101a7e:
+            u "Do you think I'm a good guy?"
 
-    # pe "*Laughs* Yeah, you've got a few other things to figure out before you start thinking about tying the knot."
-    pe "*Rires* Oui, tu as d'autres choses à régler avant de penser à te marier."
+            if (v11_lauren_caught_aubrey) or (v7_emily_bowling) or (not costumeaubrey and v2_caughtpeeking):
+                scene v12penr10a
+                with dissolve
 
-# game/v12/scene3.rpy:346
-translate francais v12_penelope_roof_text_2fb7551a:
+                $ grant_achievement("good_vs_evil")
+                pe "I think you struggle with right and wrong just like everyone does, but that doesn't mean you're good or bad. It means you're human."
 
-    # u "I'm a guy like me."
-    u "Je suis un gars comme moi."
+            else:
+                scene v12penr10c
+                with dissolve
 
-# game/v12/scene3.rpy:363
-translate francais v12_penelope_roof_text_2f2f9a24:
+                pe "With you, it's like watching someone try to pick up everyone's fallen pieces and helping them solve their own puzzles. Selfless, caring, and loyal... To me, you're a good guy."
 
-    # pe "I guess you are, huh?"
-    pe "Je crois bien que tu l'es."
+            scene v12penr10e
+            with dissolve
 
-# game/v12/scene3.rpy:368
-translate francais v12_penelope_roof_text_15641bec:
+            u "Thanks Penelope, that means a lot to me."
 
-    # u "Yes ma'am. To a T."
-    u "Oui, m'dame. À fond."
+            scene v12penr10c
+            with dissolve
 
-# game/v12/scene3.rpy:373
-translate francais v12_penelope_roof_text_d5b4820a:
+            pe "Always."
 
-    # pe "*Chuckles* I'll try and remember that."
-    pe "*Rire* Je vais essayer de m'en souvenir."
+            if penelope.relationship >= Relationship.LIKES:
+                pe "I kinda hope I end up marrying a guy like you."
 
-# game/v12/scene3.rpy:383
-translate francais v12_penelope_roof_text_08de13f9:
+                scene v12penr10e
+                with dissolve
 
-    # u "I don't know about you, but this wind is making me a little chilly."
-    u "Je ne sais pas pour toi, mais ce vent me donne un peu froid dans le dos."
+                menu:
+                    "Be shocked":
+                        $ add_point(KCT.BRO)
 
-# game/v12/scene3.rpy:388
-translate francais v12_penelope_roof_text_ebe51ccc:
+                        u "*Gulp*"
 
-    # pe "It is pretty chilly up here, it's not just you. *Chuckles*"
-    pe "Il fait plutôt froid ici, il n'y a pas que toi. *Rire*"
+                        scene v12penr10c
+                        with dissolve
 
-# game/v12/scene3.rpy:393
-translate francais v12_penelope_roof_text_be71f9b8:
+                        pe "Oh, I wasn't trying to imply anything. *Chuckles* I just think you'd be a really good guy to spend a lifetime with."
 
-    # u "Feel good enough to go back?"
-    u "Tu te sens assez bien pour y retourner ?"
+                        scene v12penr10e
+                        with dissolve
 
-# game/v12/scene3.rpy:398
-translate francais v12_penelope_roof_text_425394f0:
+                        u "Ha, thanks. I can't even begin to think about marriage... I don't even know the Bill of Rights. *Chuckles*"
 
-    # pe "Yeah, I'm good."
-    pe "Oui, ça va."
+                        scene v12penr10f
+                        with dissolve
 
-# game/v12/scene3.rpy:428
-translate francais v12_penelope_roof_text_4a2c69ab:
+                        pe "*Laughs* Yeah, you've got a few other things to figure out before you start thinking about tying the knot."
 
-    # pe "Thanks for helping me relax my nerves."
-    pe "Merci de m'avoir aidé à me détendre."
+                    "Be bold":
+                        $ add_point(KCT.BOYFRIEND)
+                        $ grant_achievement("a_person_like_me")
 
-# game/v12/scene3.rpy:433
-translate francais v12_penelope_roof_text_1b28a406:
+                        scene v12penr10e
+                        #with dissolve
 
-    # u "Of course."
-    u "Aucun problèmes."
+                        u "I'm a guy like me."
 
-# game/v12/scene3.rpy:438
-translate francais v12_penelope_roof_text_24db047a:
+                        scene v12penr12 # TPP Show Penelope rolling over on top of MC
+                        with dissolve
 
-    # pe "I better get to bed, Mr. Lee wants me up early to help with our departure."
-    pe "Je ferais mieux d'aller me coucher, Mr Lee veut que je me lève tôt pour aider à notre départ."
+                        pause 1.5
 
-# game/v12/scene3.rpy:451
-translate francais v12_penelope_roof_text_8608e56f:
+                        scene v12penr13 # TPP Show close-up of Penelope giving MC a kiss
+                        with dissolve
 
-    # pe "Goodnight."
-    pe "Bonne nuit."
+                        play sound "sounds/kiss.mp3"
 
-# game/v12/scene3.rpy:454
-translate francais v12_penelope_roof_text_8608e56f_1:
+                        pause 1.5
 
-    # pe "Goodnight."
-    pe "Bonne nuit."
+                        scene v12penr14 # FPP Show Penelope, who is laying on top of MC with her face close to his, smiling with mouth open
+                        with dissolve
 
-# game/v12/scene3.rpy:459
-translate francais v12_penelope_roof_text_5788969f:
+                        pe "I guess you are, huh?"
 
-    # u "Goodnight."
-    u "Bonne nuit."
+                        scene v12penr14a # Same angle as v12penr14, Penelope smiling with mouth closed
+                        with dissolve
 
-# game/v12/scene3.rpy:483
-translate francais v12_penelope_roof_text_25c37916:
+                        u "Yes ma'am. To a T."
 
-    # u "(Don't wanna take the chance that she may be needing help with the laundry or something... Haha.)"
-    u "(Je ne veux pas prendre le risque qu'elle ait besoin d'aide pour la lessive ou autre.... Haha.)"
+                        scene v12penr14
+                        with dissolve
 
-# game/v12/scene3.rpy:485
-translate francais v12_penelope_roof_text_67560170:
+                        pe "*Chuckles* I'll try and remember that."
 
-    # u "(Don't wanna take the chance that she may be needing help with one of her little Mr. Lee chores.)"
-    u "(Je ne veux pas prendre le risque qu'elle ait besoin d'aide pour une de ses petites tâches que Mr Lee lui confie)."
+                        scene v12penr12a # TPP Same angle as v12penr12, Penelope rolling back off of MC to where she was before
+                        with dissolve
 
-translate francais strings:
+                        pause 1.25
 
-    # game/v12/scene3.rpy:22
-    old "Reply"
-    new "Répondre"
+            scene v12penr10e
+            with dissolve
 
-    # game/v12/scene3.rpy:22
-    old "Don't reply"
-    new "Ne pas répondre"
+            u "I don't know about you, but this wind is making me a little chilly."
 
-    # game/v12/scene3.rpy:170
-    old "Sure is"
-    new "Bien sûr"
+            scene v12penr10c
+            with dissolve
 
-    # game/v12/scene3.rpy:170
-    old "You sure are"
-    new "Tu l'es vraiment"
+            pe "It is pretty chilly up here, it's not just you. *Chuckles*"
 
-    # game/v12/scene3.rpy:321
-    old "Be shocked"
-    new "Être choqué"
+            scene v12penr10e
+            with dissolve
 
-    # game/v12/scene3.rpy:321
-    old "Be bold"
-    new "Être courageux"
+            u "Feel good enough to go back?"
+
+            scene v12penr10c
+            with dissolve
+
+            pe "Yeah, I'm good."
+
+            scene v12penr8a # TPP Same angle as v12penr8, MC getting to his feet and helping Penelope up from the roof
+            with dissolve
+
+            pause 1.25
+
+            scene v12penr7a # TPP Same angle as v12penr7, MC and Penelope going back inside from the roof
+            with dissolve
+
+            pause 1.25
+
+            stop music fadeout 3
+            play music "music/v12/Track Scene 3_4.mp3" fadein 2
+
+            if penelope.relationship >= Relationship.LIKES:
+                scene v12penr4a # TPP Same angle as v12penr4, MC and Penelope walking down hotel hallway holding hands
+                with dissolve
+
+                pause 0.75
+
+            else:
+                scene v12penr4
+                with dissolve
+
+                pause 0.75
+
+            scene v12penr15 # FPP Show Penelope, standing outside of her hotel room, smiling with mouth open
+            with dissolve
+
+            pe "Thanks for helping me relax my nerves."
+
+            scene v12penr15a # FPP Same angle as v12penr15, Penelope smiling with mouth closed
+            with dissolve
+
+            u "Of course."
+
+            scene v12penr15
+            with dissolve
+
+            pe "I better get to bed, Mr. Lee wants me up early to help with our departure."
+
+            if penelope.relationship >= Relationship.LIKES:
+                scene v12penr16 # TPP Outside of Penelope's hotel room, show Penelope kissing MC
+                with dissolve
+
+                play sound "sounds/kiss.mp3"
+
+                pause 1.5
+
+                scene v12penr15
+                with dissolve
+
+                pe "Goodnight."
+
+            else:
+                pe "Goodnight."
+
+            scene v12penr15a
+            with dissolve
+
+            u "Goodnight."
+
+            scene v12penr17 # FPP Show Penelope going into her hotel room
+            with dissolve
+
+            pause 0.75
+
+            scene v12penr18 # TPP Show MC walking back to his hotel room
+            with dissolve
+
+            pause 0.75
+
+            scene v12penr1a # TPP Same angle as v12penr1, MC sitting down on his bed
+            with dissolve
+
+            pause 0.75
+
+        "Don't reply":
+            $ add_point(KCT.BRO)
+
+            scene v12penr19 # FPP MC's view sitting on his bed, looking down at his phone, which he just turned off
+            with dissolve
+
+            if not v12_chase_robber:
+                u "(Don't wanna take the chance that she may be needing help with the laundry or something... Haha.)"            
+            else:
+                u "(Don't wanna take the chance that she may be needing help with one of her little Mr. Lee chores.)"
+
+            scene v12penr1b # TPP Same angle as v12penr1, MC putting his phone away
+            with dissolve
+
+            pause 0.75
+    
+    stop music fadeout 3
+
+    jump v12_roomate_talk # Scene 4

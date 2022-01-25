@@ -1,529 +1,518 @@
-﻿# TODO: Translation updated at 2021-12-24 11:46
+# SCENE 14a: 
+# Locations: Cafe, Street
+# Characters: RILEY (Outfit: 2), MC (Outfit: 5), FRENCH WAITRESS (Outfit: 1)
+# Time: Morning
+# Phone Images: None
 
-# game/v12/scene14a.rpy:28
-translate francais v12_riley_cafe_3fb10983:
+label v12_riley_cafe:
+    scene v12ric1 # TPP. Show MC and Riley going into the cafe, both smiling, mouths closed
+    with dissolve
 
-    # ri "This is not what I was expecting..."
-    ri "Je ne m'attendais pas à ça..."
+    pause 0.75
 
-# game/v12/scene14a.rpy:33
-translate francais v12_riley_cafe_08517d39:
+    play music "music/v12/Track Scene 14.mp3" fadein 2
 
-    # u "What were you expecting? *Chuckles* Mimes?"
-    u "Tu t'attendais à quoi ? *Rire* À des mimes ?"
+    scene v12ric2 # TPP. Show MC and Riley approaching their table, both smiling, mouths closed
+    with dissolve
 
-# game/v12/scene14a.rpy:38
-translate francais v12_riley_cafe_ae32a702:
+    pause 0.75
 
-    # ri "No. *Chuckles* You don't get excited about much and it seemed like you really wanted to come here, so I thought it was gonna be something major."
-    ri "Non. *Rire* Tu ne t'excites pas pour grand chose et tu avais vraiment l'air de vouloir venir ici, alors j'ai pensé que ça allait être quelque chose de plus important."
+    scene v12ric3 # TPP. Show MC and Riley midway through sitting down, both smiling, mouths closed
+    with dissolve
 
-# game/v12/scene14a.rpy:43
-translate francais v12_riley_cafe_6157f408:
+    pause 0.75
+    
+    scene v12ric4 # FPP. MC and Riley sitting down in the cafe, both of them looking at each other, Riley smiling, mouth open
+    with dissolve
 
-    # u "I was just excited to get some food. *Chuckles*"
-    u "J'étais juste impatient de pouvoir manger. *Rire*"
+    ri "This is not what I was expecting..."
 
-# game/v12/scene14a.rpy:48
-translate francais v12_riley_cafe_7a3f2d3f:
+    scene v12ric4a # FPP. Same as v12ric4, Riley smiling, mouth closed
+    with dissolve
 
-    # ri "You're not that hungry..."
-    ri "Tu n'as pas si faim que ça..."
+    u "What were you expecting? *Chuckles* Mimes?"
 
-# game/v12/scene14a.rpy:53
-translate francais v12_riley_cafe_4c446b50:
+    scene v12ric4
+    with dissolve
 
-    # u "Since when did you gain the superpower to feel people's hunger levels?"
-    u "Depuis quand as-tu le super pouvoir de sentir le niveau de faim des gens ?"
+    ri "No. *Chuckles* You don't get excited about much and it seemed like you really wanted to come here, so I thought it was gonna be something major."
 
-# game/v12/scene14a.rpy:58
-translate francais v12_riley_cafe_cc82b5fd:
+    scene v12ric4a
+    with dissolve
 
-    # ri "Always, I was born with this power. *Chuckles*"
-    ri "Toujours, je suis née avec ce pouvoir. *Rire*"
+    u "I was just excited to get some food. *Chuckles*"
 
-# game/v12/scene14a.rpy:63
-translate francais v12_riley_cafe_a9ee72ad:
+    scene v12ric4
+    with dissolve
 
-    # u "Woah, watch out world! There's a new superhero on the streets. She can't fly and doesn't have super strength, but she can tell you if you're hungry. You'll never starve again!"
-    u "Woah, Que le monde fasse attention ! Il y a un nouveau super-héros dans les rues. Elle ne peut pas voler et n'a pas de super force, mais elle peut te dire si tu as faim. Vous ne mourrez plus jamais de faim !"
+    ri "You're not that hungry..."
 
-# game/v12/scene14a.rpy:68
-translate francais v12_riley_cafe_2bd3cca1:
+    scene v12ric4a
+    with dissolve
 
-    # ri "Always quick with the comebacks, huh?"
-    ri "Toujours aussi rapide avec tes réparties, hein ?"
+    u "Since when did you gain the superpower to feel people's hunger levels?"
 
-# game/v12/scene14a.rpy:73
-translate francais v12_riley_cafe_fa112401:
+    scene v12ric4b # FPP. Same as v12ric4, different pose
+    with dissolve
 
-    # u "Yeah, that's my power. Mr. Comeback King."
-    u "Oui, c'est mon pouvoir. Je suis le Roi de la Répartie."
+    ri "Always, I was born with this power. *Chuckles*"
 
-# game/v12/scene14a.rpy:78
-translate francais v12_riley_cafe_cc310b01:
+    scene v12ric4c # FPP. Same as v12ric4b, Riley smiling, mouth closed
+    with dissolve
 
-    # ri "Haha, whatever loser. What are you wanting to eat?"
-    ri "Haha, peu importe le loser. Qu'est-ce que tu veux manger ?"
+    u "Woah, watch out world! There's a new superhero on the streets. She can't fly and doesn't have super strength, but she can tell you if you're hungry. You'll never starve again!"
 
-# game/v12/scene14a.rpy:83
-translate francais v12_riley_cafe_178f2659:
+    scene v12ric4b
+    with dissolve
 
-    # u "Whatever tastes good and can be made fast."
-    u "Tout ce qui a bon goût et qui peut être servi rapidement."
+    ri "Always quick with the comebacks, huh?"
 
-# game/v12/scene14a.rpy:88
-translate francais v12_riley_cafe_90b4a4bc:
+    scene v12ric4c
+    with dissolve
 
-    # ri "Wow, maybe you are starving."
-    ri "Wow, tu es peut-être affamé, en fait."
+    u "Yeah, that's my power. Mr. Comeback King."
 
-# game/v12/scene14a.rpy:93
-translate francais v12_riley_cafe_e56bcc26:
+    scene v12ric4
+    with dissolve
 
-    # u "Oh, really? You think so?"
-    u "Oh, sérieux ? Tu le penses vraiment ?"
+    ri "Haha, whatever loser. What are you wanting to eat?"
 
-# game/v12/scene14a.rpy:98
-translate francais v12_riley_cafe_8d142ed5:
+    scene v12ric4a
+    with dissolve
 
-    # ri "Haha, well... I'm getting a croissant."
-    ri "Haha, et bien... Je vais prendre un croissant."
+    u "Whatever tastes good and can be made fast."
 
-# game/v12/scene14a.rpy:103
-translate francais v12_riley_cafe_7467abbe:
+    scene v12ric4b
+    with dissolve
 
-    # u "You can get that anywhere, why are you so set on a croissant?"
-    u "Tu peux avoir ça n'importe où, pourquoi tu tiens tant à un croissant ?"
+    ri "Wow, maybe you are starving."
 
-# game/v12/scene14a.rpy:108
-translate francais v12_riley_cafe_6d48d0ad:
+    scene v12ric4a
+    with dissolve
 
-    # ri "Getting one in Paris has to be different. A fresh, Paris croissant, that sounds so good right now."
-    ri "En avoir un à Paris doit être différent. Un croissant frais français, ça a l'air tellement bon."
+    u "Oh, really? You think so?"
 
-# game/v12/scene14a.rpy:113
-translate francais v12_riley_cafe_6e289293:
+    scene v12ric4b
+    with dissolve
 
-    # u "I guess... But I really doubt it's any different than back home."
-    u "Je pense... Mais je doute vraiment qu'ils soient différents de ceux de chez nous."
+    ri "Haha, well... I'm getting a croissant."
 
-# game/v12/scene14a.rpy:118
-translate francais v12_riley_cafe_51cc540f:
+    scene v12ric4c
+    with dissolve
 
-    # ri "I've never been to New York, but I've had New York style pizza. I bet New York pizza in New York is so much better. That's the difference between a copy and the original."
-    ri "Je ne suis jamais allé à New York, mais j'ai mangé des pizzas à la mode de New York. Je parie que la pizza de New York à New York même est bien meilleure. C'est la différence entre une copie et l'originale."
+    u "You can get that anywhere, why are you so set on a croissant?"
 
-# game/v12/scene14a.rpy:123
-translate francais v12_riley_cafe_0eddcef9:
+    scene v12ric4
+    with dissolve
 
-    # u "When did you become a food guru?"
-    u "Quand êtes-vous devenu une spécialiste de la gastronomie, madame ?"
+    ri "Getting one in Paris has to be different. A fresh, Paris croissant, that sounds so good right now."
 
-# game/v12/scene14a.rpy:128
-translate francais v12_riley_cafe_6606f89b:
+    scene v12ric4a
+    with dissolve
 
-    # ri "I don't know, always. *Chuckles* I like all types of art and cooking is definitely an art. So let's see how good their art is."
-    ri "Je ne sais pas, je l'ai toujours été. *Rire* J'aime tous les types d'art et la cuisine en est assurément un. Alors voyons à quel point ils sont doués dans leur art."
+    u "I guess... But I really doubt it's any different than back home."
 
-# game/v12/scene14a.rpy:138
-translate francais v12_riley_cafe_cf0fbdf4:
+    scene v12ric4
+    with dissolve
 
-    # fwait "Bonjour, comment allez-vous?"
-    fwait "*En français* Bonjour, comment allez-vous ?"
+    ri "I've never been to New York, but I've had New York style pizza. I bet New York pizza in New York is so much better. That's the difference between a copy and the original."
 
-# game/v12/scene14a.rpy:143
-translate francais v12_riley_cafe_9ec4c9cb:
+    scene v12ric4a
+    with dissolve
 
-    # u "Uhhh..."
+    u "When did you become a food guru?"
+
+    scene v12ric4b
+    with dissolve
+
+    ri "I don't know, always. *Chuckles* I like all types of art and cooking is definitely an art. So let's see how good their art is."
+
+    scene v12ric5 # TPP. Show the waitress walking over to MC and Riley's table, everyone smiling, mouths closed
+    with dissolve
+
+    pause 0.75
+
+    scene v12ric6 # FPP. MC looking at the waitress, waitress looking at MC, waitress mouth open, slight smile, waitress standing next to their table
+    with dissolve
+
+    fwait "Bonjour, comment allez-vous?"
+
+    scene v12ric6a # FPP. Same as v12ric6, waitress mouth closed, slight smile
+    with dissolve
+
     u "Uhhh..."
 
-# game/v12/scene14a.rpy:153
-translate francais v12_riley_cafe_2474b13b:
+    scene v12ric4d # FPP. Same as v12ric4, Riley winking at MC, Riley slight smirk, mouth closed
+    with dissolve
 
-    # ri "*Southern accent* Pardon me, but do you happen to speak English?"
-    ri "*Accent du Sud* Excusez-moi, mais parlez-vous anglais, par hasard ?"
+    pause 0.75
 
-# game/v12/scene14a.rpy:158
-translate francais v12_riley_cafe_09b6d74a:
+    scene v12ric4e # FPP. Same as v12ric4, Riley looking at the waitress' direction, Riley smiling, mouth open
+    with dissolve
 
-    # u "(Here we fucking go...)"
-    u "(Putain, c'est reparti...)"
+    ri "*Southern accent* Pardon me, but do you happen to speak English?"
 
-# game/v12/scene14a.rpy:163
-translate francais v12_riley_cafe_b1729be7:
+    scene v12ric4f # FPP. Same as v12ric4d, Riley smiling, mouth closed
+    with dissolve
 
-    # fwait "I do, you must be tourists."
-    fwait "Oui bien sûr, vous devez être des touristes."
+    u "(Here we fucking go...)"
 
-# game/v12/scene14a.rpy:168
-translate francais v12_riley_cafe_98a918e3:
+    scene v12ric6b # FPP. Same as v12ric6, waitress looking at Riley's direction, waitress smiling, mouth open
+    with dissolve
 
-    # ri "*Southern accent* That'd be right."
-    ri "*Accent du Sud* C'est exact."
+    fwait "I do, you must be tourists."
 
-# game/v12/scene14a.rpy:173
-translate francais v12_riley_cafe_3f70838a:
+    scene v12ric4f
+    with dissolve
 
-    # fwait "Wonderful, welcome to Paris. What can I get for you?"
-    fwait "Merveilleux, bienvenue à Paris. Que puis-je vous proposer ?"
+    ri "*Southern accent* That'd be right."
 
-# game/v12/scene14a.rpy:178
-translate francais v12_riley_cafe_d08c8207:
+    scene v12ric6b
+    with dissolve
 
-    # ri "*Southern accent* Go ahead and rack me up a croissant, and you're having the same thing, right?"
-    ri "*Accent du Sud* Servez-moi un croissant s'il vous plaît, et tu prendras la même chose, non ?"
+    fwait "Wonderful, welcome to Paris. What can I get for you?"
 
-# game/v12/scene14a.rpy:183
-translate francais v12_riley_cafe_477a4162:
+    scene v12ric4f
+    with dissolve
 
-    # u "*Chuckles* Yeah, that's fine."
-    u "*Rire* Oui, je veux bien."
+    ri "*Southern accent* Go ahead and rack me up a croissant, and you're having the same thing, right?"
 
-# game/v12/scene14a.rpy:188
-translate francais v12_riley_cafe_2cda64b1:
+    scene v12ric6a
+    with dissolve
 
-    # fwait "Would you like it as a meal?"
-    fwait "Je peux vous proposer le menu ?"
+    u "*Chuckles* Yeah, that's fine."
 
-# game/v12/scene14a.rpy:193
-translate francais v12_riley_cafe_4d81a5fc:
+    scene v12ric6
+    with dissolve
 
-    # u "Yes, please."
-    u "Oui, s'il vous plaît."
+    fwait "Would you like it as a meal?"
 
-# game/v12/scene14a.rpy:198
-translate francais v12_riley_cafe_a7925ab0:
+    scene v12ric6a
+    with dissolve
 
-    # fwait "Okay, it'll be out in just a moment."
-    fwait "Très bien, je reviens dans un instant."
+    u "Yes, please."
 
-# game/v12/scene14a.rpy:203
-translate francais v12_riley_cafe_ccd53b23:
+    scene v12ric6
+    with dissolve
 
-    # u "Thank you."
-    u "Merci."
+    fwait "Okay, it'll be out in just a moment."
 
-# game/v12/scene14a.rpy:213
-translate francais v12_riley_cafe_71443bbc:
+    scene v12ric6a
+    with dissolve
 
-    # u "Why do you do that?"
-    u "Pourquoi t'as fais ça ?"
+    u "Thank you."
 
-# game/v12/scene14a.rpy:218
-translate francais v12_riley_cafe_7949f754:
+    scene v12ric5a # TPP. Same as v12ric5, waitress walking away, everyone smiling, mouths closed
+    with dissolve
 
-    # ri "What?"
-    ri "Quoi ?"
+    pause 0.75
 
-# game/v12/scene14a.rpy:223
-translate francais v12_riley_cafe_b71d00c9:
+    scene v12ric4a
+    with dissolve
 
-    # u "That voice? *Chuckles* You do it a lot."
-    u "Cette voix ? *Rire* Tu la fais souvent."
+    u "Why do you do that?"
 
-# game/v12/scene14a.rpy:228
-translate francais v12_riley_cafe_2d79524e:
+    scene v12ric4
+    with dissolve
 
-    # ri "*Southern accent* Oh, you mean my southern accent? Well, growing up in Texas I was surrounded by cowboys. Everyone rode horses to school, work, everywhere."
-    ri "*Accent du Sud* Oh, tu veux dire mon accent du Sud ? Eh bien, en grandissant au Texas, j'étais entouré de cow-boys. Tout le monde montait à cheval pour aller à l'école, au travail, partout."
+    ri "What?"
 
-# game/v12/scene14a.rpy:233
-translate francais v12_riley_cafe_de81bc76:
+    scene v12ric4c
+    with dissolve
 
-    # u "*Laughs* That's not even funny, it is not like that."
-    u "*Rire* c'est même pas drôle, c'est pas comme ça en vrai."
+    u "That voice? *Chuckles* You do it a lot."
 
-# game/v12/scene14a.rpy:238
-translate francais v12_riley_cafe_18b7e1cb:
+    scene v12ric4b
+    with dissolve
 
-    # ri "*Laughs* Believe it or not, it's from a movie. One of my favorite actors who, now that I think about it, is actually from France."
-    ri "*Rire* Crois-le ou non, ça vient d'un film. Un de mes acteurs préférés qui, maintenant que j'y pense, est français."
+    ri "*Southern accent* Oh, you mean my southern accent? Well, growing up in Texas I was surrounded by cowboys. Everyone rode horses to school, work, everywhere."
 
-# game/v12/scene14a.rpy:239
-translate francais v12_riley_cafe_03a0a402:
+    scene v12ric4c
+    with dissolve
 
-    # ri "He traveled to America in the movie for an undercover mission and had never been to America before that."
-    ri "Il s'est rendu en Amérique dans le film pour une mission d'infiltration et n'y avait jamais mis les pieds avant."
+    u "*Laughs* That's not even funny, it is not like that."
 
-# game/v12/scene14a.rpy:244
-translate francais v12_riley_cafe_457bdf91:
+    scene v12ric4b
+    with dissolve
 
-    # ri "He'd only watched old cowboy movies and thought all Americans talked like that. I was super young when I watched it and since then, I always mock that voice for fun."
-    ri "Il n'avait regardé que des vieux films de cow-boys et pensait que tous les Américains parlaient comme ça. J'étais très jeune quand je l'ai regardé et depuis, j'imite toujours cette voix pour m'amuser."
+    ri "*Laughs* Believe it or not, it's from a movie. One of my favorite actors who, now that I think about it, is actually from France."
+    ri "He traveled to America in the movie for an undercover mission and had never been to America before that."
 
-# game/v12/scene14a.rpy:249
-translate francais v12_riley_cafe_e71f8ff6:
+    scene v12ric4
+    with dissolve
 
-    # u "Well, you've got it down pretty damn well. I'm not surprised that so many people believe it's your real voice."
-    u "Eh bien, tu la maîtrises plutôt bien. Je ne suis pas surpris que tant de personnes croient que c'est ta vraie voix."
+    ri "He'd only watched old cowboy movies and thought all Americans talked like that. I was super young when I watched it and since then, I always mock that voice for fun."
 
-# game/v12/scene14a.rpy:254
-translate francais v12_riley_cafe_eb43f91b:
+    scene v12ric4a
+    with dissolve
 
-    # ri "Would you, if you didn't know?"
-    ri "Le croirais-tu aussi, si tu ne le savais pas ?"
+    u "Well, you've got it down pretty damn well. I'm not surprised that so many people believe it's your real voice."
 
-# game/v12/scene14a.rpy:265
-translate francais v12_riley_cafe_d1a78d77:
+    scene v12ric4b
+    with dissolve
 
-    # u "I think I'd be able to tell."
-    u "Je pense que je serais capable de reconnaitre la supercherie."
+    ri "Would you, if you didn't know?"
 
-# game/v12/scene14a.rpy:270
-translate francais v12_riley_cafe_78794933:
+    scene v12ric4c
+    with dissolve
 
-    # ri "Then I guess I need to find more victims to practice on..."
-    ri "Alors je pense que je dois trouver d'autres victimes pour m'entraîner..."
+    menu:
+        "I'd be able to tell":
+            $ add_point(KCT.TROUBLEMAKER)
+            scene v12ric4a
+            with dissolve
 
-# game/v12/scene14a.rpy:275
-translate francais v12_riley_cafe_bdd6d55d:
+            u "I think I'd be able to tell."
 
-    # u "*Laughs* You're a fucking creep."
-    u "*Rire* Tu es une putain de saleté."
+            scene v12ric4
+            with dissolve
 
-# game/v12/scene14a.rpy:280
-translate francais v12_riley_cafe_dd6658e6:
+            ri "Then I guess I need to find more victims to practice on..."
 
-    # ri "Hehe..."
-    ri "Héhé..."
+            scene v12ric4a
+            with dissolve
 
-# game/v12/scene14a.rpy:286
-translate francais v12_riley_cafe_a9594d2f:
+            u "*Laughs* You're a fucking creep."
 
-    # u "I don't think I'd be able to tell, actually."
-    u "Je ne pense pas que je serais capable de le deviner, en fait."
+            scene v12ric4
+            with dissolve
 
-# game/v12/scene14a.rpy:291
-translate francais v12_riley_cafe_f1610adc:
+            ri "Hehe..."
 
-    # ri "Then I must have perfected my work."
-    ri "Alors je dois avoir maîtrisé mon œuvre."
+        "I don't think I'd be able to tell":
+            scene v12ric4a
+            with dissolve
 
-# game/v12/scene14a.rpy:296
-translate francais v12_riley_cafe_fcc18885:
+            u "I don't think I'd be able to tell, actually."
 
-    # u "*Laughs*"
-    u "*Rire*"
+            scene v12ric4g # FPP. Same as v12ric4b, different pose
+            with dissolve
 
-# game/v12/scene14a.rpy:301
-translate francais v12_riley_cafe_ed29ae5c:
+            ri "Then I must have perfected my work."
 
-    # u "So... What do you have planned for today?"
-    u "Alors... qu'as-tu prévu pour aujourd'hui ?"
+            scene v12ric4h # FPP. Same as v12ric4g, Riley smiling, mouth closed
+            with dissolve
 
-# game/v12/scene14a.rpy:306
-translate francais v12_riley_cafe_d3628402:
+            u "*Laughs*"
 
-    # ri "You mean what do we have planned today?"
-    ri "Tu veux dire \"qu'est-ce qu'ON a prévu aujourd'hui\" ?"
+    scene v12ric4c
+    with dissolve
 
-# game/v12/scene14a.rpy:311
-translate francais v12_riley_cafe_8b258704:
+    u "So... What do you have planned for today?"
 
-    # u "Huh?"
-    u "Hein ?"
+    scene v12ric4b
+    with dissolve
 
-# game/v12/scene14a.rpy:316
-translate francais v12_riley_cafe_6ffd983e:
+    ri "You mean what do we have planned today?"
 
-    # ri "We're going to complete \"treasure hunt: part two\" today. As a matter of fact, we can get it out of the way right after we finish eating."
-    ri "Nous allons terminer la \"chasse au trésor : deuxième partie\" aujourd'hui. On pourra même aller la faire juste après avoir fini de manger."
+    scene v12ric4c
+    with dissolve
 
-# game/v12/scene14a.rpy:324
-translate francais v12_riley_cafe_8a8ba43f:
+    u "Huh?"
 
-    # u "Almost forgot about that... Yeah, that's definitely the move."
-    u "J'ai presque oublié qu'il y avait ça... Ouais, il faut faire ce truc."
+    scene v12ric4g
+    with dissolve
 
-# game/v12/scene14a.rpy:329
-translate francais v12_riley_cafe_330d4286:
+    ri "We're going to complete \"treasure hunt: part two\" today. As a matter of fact, we can get it out of the way right after we finish eating."
 
-    # u "Oh yayyy, another boring treasure hunt."
-    u "Oh ouaiiiis, une autre chasse au trésor ennuyeuse."
+    scene v12ric4h
+    with dissolve
 
-# game/v12/scene14a.rpy:334
-translate francais v12_riley_cafe_0d6ffd39:
+    menu:
+        "Oh yeah, good idea":
+            $ add_point(KCT.BOYFRIEND)
+            u "Almost forgot about that... Yeah, that's definitely the move."
 
-    # u "Ha... Ah, man. So, where's this one anyway?"
-    u "Ha... Alors, où se trouve l'indice, ici ?"
+        "Ugh, do we have to?":
+            $ add_point(KCT.BRO)
+            $ add_point(KCT.TROUBLEMAKER)
+            u "Oh yayyy, another boring treasure hunt."
 
-# game/v12/scene14a.rpy:339
-translate francais v12_riley_cafe_557996ef:
+    scene v12ric4a
+    with dissolve
 
-    # ri "I'll tell you when we get there."
-    ri "Je te le dirai quand on y sera."
+    u "Ha... Ah, man. So, where's this one anyway?"
 
-# game/v12/scene14a.rpy:344
-translate francais v12_riley_cafe_ecbe9197:
+    scene v12ric4g
+    with dissolve
 
-    # u "Riley... At least tell me what the clue was."
-    u "Riley... Au moins, dis-moi quel était l'indice."
+    ri "I'll tell you when we get there."
 
-# game/v12/scene14a.rpy:349
-translate francais v12_riley_cafe_4cb60ee1:
+    scene v12ric4h
+    with dissolve
 
-    # ri "Nope. I wanna see if my guess is right. *Chuckles*"
-    ri "Non. Je veux voir si mon intuition est bonne. *Rire*"
+    u "Riley... At least tell me what the clue was."
 
-# game/v12/scene14a.rpy:354
-translate francais v12_riley_cafe_5b647d59:
+    scene v12ric4g
+    with dissolve
 
-    # u "*Sighs* Alright, well... As easy as the first one was, I'm expecting this one to be close by?"
-    u "*Soupirs* Bon, eh bien... Vu que le premier était facile, je m'attends à ce que celui-là ne soit pas loin..."
+    ri "Nope. I wanna see if my guess is right. *Chuckles*"
 
-# game/v12/scene14a.rpy:359
-translate francais v12_riley_cafe_304a39d3:
+    scene v12ric4h
+    with dissolve
 
-    # ri "Guess we'll find out when we get there... *Chuckles*"
-    ri "Je crois que nous le saurons quand nous y serons... *Rire*"
+    u "*Sighs* Alright, well... As easy as the first one was, I'm expecting this one to be close by?"
 
-# game/v12/scene14a.rpy:369
-translate francais v12_riley_cafe_58bd1c3f:
+    scene v12ric4g
+    with dissolve
 
-    # fwait "Okay, here you go."
-    fwait "Et voilà pour vous."
+    ri "Guess we'll find out when we get there... *Chuckles*"
 
-# game/v12/scene14a.rpy:374
-translate francais v12_riley_cafe_2e27d283:
+    scene v12ric5b # TPP. Same as v12ric5, waitress with food in her hand
+    with dissolve
 
-    # ri "That was fast!"
-    ri "C'était rapide !"
+    pause 0.75
 
-# game/v12/scene14a.rpy:379
-translate francais v12_riley_cafe_0564368c:
+    scene v12ric6c # FPP. Same as v12ric6b, waitress holding food, smiling, mouth open
+    with dissolve
 
-    # fwait "Mademoiselle, your accent?"
-    fwait "Mademoiselle, votre accent ?"
+    fwait "Okay, here you go."
 
-# game/v12/scene14a.rpy:384
-translate francais v12_riley_cafe_efb27d36:
+    scene v12ric4f
+    with dissolve
 
-    # u "Cover officially blown. *Laughs*"
-    u "Couverture est officiellement tombée. *Rire*"
+    ri "That was fast!"
 
-# game/v12/scene14a.rpy:389
-translate francais v12_riley_cafe_08795ece:
+    scene v12ric6c
+    with dissolve
 
-    # ri "Haha, I'm sorry, I was just playing around before."
-    ri "Haha, je suis désolée, je m'amusais tout à l'heure."
+    fwait "Mademoiselle, your accent?"
 
-# game/v12/scene14a.rpy:394
-translate francais v12_riley_cafe_5bd6d242:
+    scene v12ric4a
+    with dissolve
 
-    # fwait "Oh, I see, it wasn't very funny..."
-    fwait "Oh, je vois, ce n'était pas très drôle..."
+    u "Cover officially blown. *Laughs*"
 
-# game/v12/scene14a.rpy:399
-translate francais v12_riley_cafe_1e6db622:
+    scene v12ric4f
+    with dissolve
 
-    # ri "Huh!?"
-    ri "Hein !?"
+    ri "Haha, I'm sorry, I was just playing around before."
 
-# game/v12/scene14a.rpy:404
-translate francais v12_riley_cafe_3fbab108:
+    scene v12ric6d # FPP. Same as v12ric6c, waitress slightly annoyed, mouth open
+    with dissolve
 
-    # fwait "Your accent. It wasn't very funny, and you meant it as a joke, right?"
-    fwait "Votre accent. Ce n'était pas très amusant, et vous vouliez plaisanter, n'est-ce pas ?"
+    fwait "Oh, I see, it wasn't very funny..."
 
-# game/v12/scene14a.rpy:409
-translate francais v12_riley_cafe_145900dc:
+    scene v12ric4i # FPP. Same as v12ric4f, Riley worried, mouth open
+    with dissolve
 
-    # ri "Well yes, but I was going for you being convinced that I actually spoke like that. *Chuckles*"
-    ri "Oui, je voulais que vous soyez convaincue que je parle réellement comme ça. *Rire*"
+    ri "Huh!?"
 
-# game/v12/scene14a.rpy:414
-translate francais v12_riley_cafe_ff908bcf:
+    scene v12ric6d
+    with dissolve
 
-    # fwait "Oh, well... I'd like to keep you from embarrassing yourself even more while you're here in Paris. It wasn't good at all. Also, if I may say... It was pretty rude as well."
-    fwait "Oh, eh bien... J'aimerais vous empêcher de vous embarrasser encore plus pendant que vous êtes ici à Paris. Ce n'était pas bon du tout. De plus, si je peux me permettre... C'était assez grossier aussi."
+    fwait "Your accent. It wasn't very funny, and you meant it as a joke, right?"
 
-# game/v12/scene14a.rpy:419
-translate francais v12_riley_cafe_1e28e083:
+    scene v12ric4i
+    with dissolve
 
-    # ri "I... I'm so s-"
-    ri "Je... Je suis tellement déso-"
+    ri "Well yes, but I was going for you being convinced that I actually spoke like that. *Chuckles*"
 
-# game/v12/scene14a.rpy:424
-translate francais v12_riley_cafe_1e45bca8:
+    scene v12ric6d
+    with dissolve
 
-    # fwait "*Laughs* Now who's making the jokes? *Chuckles* Your accent was very convincing."
-    fwait "*Rire* Et maintenant, qui fait des blagues, hein ? *Rire* Votre accent était vraiment parfait et crédible."
+    fwait "Oh, well... I'd like to keep you from embarrassing yourself even more while you're here in Paris. It wasn't good at all. Also, if I may say... It was pretty rude as well."
 
-# game/v12/scene14a.rpy:429
-translate francais v12_riley_cafe_fcc18885_1:
+    scene v12ric4i
+    with dissolve
 
-    # u "*Laughs*"
-    u "*Rire*"
+    ri "I... I'm so s-"
 
-# game/v12/scene14a.rpy:434
-translate francais v12_riley_cafe_012b4e98:
+    scene v12ric6b
+    with dissolve
 
-    # ri "Oh my gosh! *Chuckles* I seriously just panicked for a second. I thought you were actually pissed and that people had just been lying to me all this time. *Laughs* Holy shit..."
-    ri "Oh merde ! *Rire* J'ai vraiment paniqué pendant une seconde. J'ai cru que vous étiez vraiment en colère et qu'on m'avait menti à chaque fois que je faisais mon accent. *Rire* Putain de merde..."
+    fwait "*Laughs* Now who's making the jokes? *Chuckles* Your accent was very convincing."
 
-# game/v12/scene14a.rpy:439
-translate francais v12_riley_cafe_4683c6d3:
+    scene v12ric4h
+    with dissolve
 
-    # u "That was fucking hilarious."
-    u "C'était vraiment hilarant."
+    u "*Laughs*"
 
-# game/v12/scene14a.rpy:444
-translate francais v12_riley_cafe_7ed58126:
+    scene v12ric4f
+    with dissolve
 
-    # fwait "Haha, you two enjoy your food."
-    fwait "Haha, bon appétit à vous deux."
+    ri "Oh my gosh! *Chuckles* I seriously just panicked for a second. I thought you were actually pissed and that people had just been lying to me all this time. *Laughs* Holy shit..."
 
-# game/v12/scene14a.rpy:454
-translate francais v12_riley_cafe_0ab328e1:
+    scene v12ric6a
+    with dissolve
 
-    # u "Damn... She got you good. *Chuckles*"
-    u "Merde... Elle t'a bien eu. *Rire*"
+    u "That was fucking hilarious."
 
-# game/v12/scene14a.rpy:459
-translate francais v12_riley_cafe_c01be45d:
+    scene v12ric6
+    with dissolve
 
-    # ri "Not gonna lie, she really did. *Laughs*"
-    ri "Je ne vais pas mentir, elle m'a bien eu, j'avoue. *Rire*"
+    fwait "Haha, you two enjoy your food."
 
-# game/v12/scene14a.rpy:484
-translate francais v12_riley_cafe_1b47ef9a:
+    scene v12ric5a
+    with dissolve
 
-    # ri "Feel better?"
-    ri "Tu vas mieux ?"
+    pause 0.75
 
-# game/v12/scene14a.rpy:489
-translate francais v12_riley_cafe_29d7eae7:
+    scene v12ric4h
+    with dissolve
 
-    # u "A lot better!"
-    u "Beaucoup mieux !"
+    u "Damn... She got you good. *Chuckles*"
 
-# game/v12/scene14a.rpy:494
-translate francais v12_riley_cafe_ce0fbc71:
+    scene v12ric4g
+    with dissolve
 
-    # ri "Let's hurry up and get on the hunt."
-    ri "Dépêchons-nous de nous lancer dans la chasse au trésor."
+    ri "Not gonna lie, she really did. *Laughs*"
 
-# game/v12/scene14a.rpy:499
-translate francais v12_riley_cafe_e7a41f39:
+    scene v12ric4j # FPP. Same as v12ric4, MC watches as Riley is eating
+    with dissolve
 
-    # u "Lead the way."
-    u "Je te suis."
+    pause 0.75
 
-translate francais strings:
+    scene v12ric7 # TPP. Show MC and Riley both eating their dishes
+    with dissolve
 
-    # game/v12/scene14a.rpy:259
-    old "I'd be able to tell"
-    new "Je pourrais dire"
+    pause 0.75
 
-    # game/v12/scene14a.rpy:259
-    old "I don't think I'd be able to tell"
-    new "Je ne pense pas que je serais capable de le dire."
+    scene v12ric5
+    with dissolve
 
-    # game/v12/scene14a.rpy:321
-    old "Oh yeah, good idea"
-    new "Oh oui, bonne idée"
+    pause 0.75
 
-    # game/v12/scene14a.rpy:321
-    old "Ugh, do we have to?"
-    new "Argh, on est obligé ?"
+    scene v12ric8 # TPP. Show the waitress grabbing MC and Riley's empty dishes, all smiling, mouths closed
+    with dissolve
+
+    pause 0.75
+
+    scene v12ric4g
+    with dissolve
+
+    ri "Feel better?"
+
+    scene v12ric4h
+    with dissolve
+
+    u "A lot better!"
+
+    scene v12ric4
+    with dissolve
+
+    ri "Let's hurry up and get on the hunt."
+
+    scene v12ric4a
+    with dissolve
+
+    u "Lead the way."
+
+    scene v12ric9 # TPP. Show MC and Riley getting up from their chairs, slight smiles, mouths closed
+    with dissolve
+
+    pause 0.75
+
+    scene v12ric10 # TPP. Show MC and Riley leaving the cafe, slight smiles, mouths closed
+    with dissolve
+
+    pause 0.75
+
+    scene v12ric11 # TPP. Show MC and Riley walking down the streets, slight smiles, mouths closed
+    with fade
+
+    pause 0.75
+
+    stop music fadeout 3
+
+    jump v12_riddle_riley #scene 15

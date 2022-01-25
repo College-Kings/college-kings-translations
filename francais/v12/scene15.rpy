@@ -1,497 +1,624 @@
-﻿# TODO: Translation updated at 2021-12-24 14:01
+# SCENE 15: 2nd riddle with Riley
+# Locations: Catacomb entrance, inside the catacomb, sidewalk, in front of hotel, hotel lobby 
+# Characters: MC (Outfit: 5), RILEY (Outfit: 2)
+# Time: afternoon
 
-# game/v12/scene15.rpy:17
-translate francais v12_riddle_riley_3435cfe5:
+label v12_riddle_riley:
+    scene v12rrl1 # TPP. MC and riley standing outside the catacombs
+    with fade
 
-    # u "Where the fuck are we?"
-    u "Où sommes-nous, bordel ?"
+    pause 1.25
 
-# game/v12/scene15.rpy:22
-translate francais v12_riddle_riley_80674681:
+    play music "music/v12/Track Scene 15_1.mp3" fadein 2
 
-    # ri "The catacombs. *Chuckles* This is the spot of the next clue."
-    ri "Les catacombes. *Rire* C'est l'endroit où se trouve le prochain indice."
+    scene v12rrl2 # FPP. MC looking at riley, mouth closed
+    with dissolve
 
-# game/v12/scene15.rpy:27
-translate francais v12_riddle_riley_bf7b92d3:
+    u "Where the fuck are we?"
 
-    # u "I really doubt that, but... Then again, I don't know the riddle."
-    u "J'en doute vraiment, mais... Mais encore une fois, je ne connais pas l'énigme."
+    scene v12rrl2a # FPP. Riley smiling slightly, mouth opened
+    with dissolve
 
-# game/v12/scene15.rpy:32
-translate francais v12_riddle_riley_0bc325f7:
+    ri "The catacombs. *Chuckles* This is the spot of the next clue."
 
-    # ri "Don't doubt my skills, [name]. But if you must know, listen. \"In the city of love, where sleeping hearts lie, not down in the river but where the ancestors lie.\""
-    ri "Ne doutes pas de mes compétences, [name]. Mais si tu veux savoir, écoute. \"Dans la ville de l'amour, là où reposent les coeurs endormis, pas dans la rivière mais là où reposent les ancêtres.\""
+    scene v12rrl2
+    with dissolve
 
-# game/v12/scene15.rpy:37
-translate francais v12_riddle_riley_f299b2c1:
+    u "I really doubt that, but... Then again, I don't know the riddle."
 
-    # u "So, why here? \"Where ancestors lie\" could be any cemetery. Hell, it could be a pyramid or a museum."
-    u "Alors, pourquoi ici ? \"Là où reposent les ancêtres\" pourrait être n'importe quel cimetière. Putain, ça pourrait être une pyramide ou un musée."
+    scene v12rrl2b # FPP. Same as 2, mouth opened
+    with dissolve
 
-# game/v12/scene15.rpy:42
-translate francais v12_riddle_riley_1c0b4ca5:
+    ri "Don't doubt my skills, [name]. But if you must know, listen. \"In the city of love, where sleeping hearts lie, not down in the river but where the ancestors lie.\""
 
-    # ri "First of all, there are no pyramids in Paris. Second, I saw a picture of the catacombs at Duncan's. And third, there's nothing special about a regular cemetery."
-    ri "Tout d'abord, il n'y a pas de pyramides à Paris, à part celle du Louvre qui n'est pas une tombe. Deuxièmement, j'ai vu une photo des catacombes chez Duncan. Et troisièmement, il n'y a rien de spécial dans un cimetière ordinaire."
+    scene v12rrl2
+    with dissolve
 
-# game/v12/scene15.rpy:47
-translate francais v12_riddle_riley_3f93b678:
+    u "So, why here? \"Where ancestors lie\" could be any cemetery. Hell, it could be a pyramid or a museum."
 
-    # u "Riley! Don't say things like that, especially about a burial ground. *Chuckles*"
-    u "Riley ! Ne dis pas des choses comme ça, surtout à propos d'un cimetière. *Rire*"
+    scene v12rrl2b
+    with dissolve
 
-# game/v12/scene15.rpy:52
-translate francais v12_riddle_riley_e3145d74:
+    ri "First of all, there are no pyramids in Paris. Second, I saw a picture of the catacombs at Duncan's. And third, there's nothing special about a regular cemetery."
 
-    # ri "What? I didn't mean it in a bad way... I'm just saying in regard to the treasure hunt, it's more likely to be here."
-    ri "Quoi ? Je ne voulais pas le dire dans le mauvais sens... Je dis juste qu'en ce qui concerne la chasse au trésor, il est plus probable que ce soit ici."
+    scene v12rrl2
+    with dissolve
 
-# game/v12/scene15.rpy:57
-translate francais v12_riddle_riley_ba6ee298:
+    u "Riley! Don't say things like that, especially about a burial ground. *Chuckles*"
 
-    # u "Hating on the dead is never a good thing. When the zombies, ghosts or whatever comes, I won't be there to help you. But at least you'll have your super power and you can tell them if they're hungry. *Laughs*"
-    u "Haïr les morts n'est jamais une bonne chose. Quand les zombies, fantômes ou autres arriveront, je ne serai pas là pour t'aider. Mais au moins tu auras ton super pouvoir et tu pourras leur dire s'ils ont faim. *Rire*"
+    scene v12rrl2b
+    with dissolve
 
-# game/v12/scene15.rpy:62
-translate francais v12_riddle_riley_87a5867b:
+    ri "What? I didn't mean it in a bad way... I'm just saying in regard to the treasure hunt, it's more likely to be here."
 
-    # ri "Oh my gosh, c'mon already."
-    ri "Oh merde... Allez, vas-y !"
+    scene v12rrl2
+    with dissolve
 
-# game/v12/scene15.rpy:75
-translate francais v12_riddle_riley_0ab2dec4:
+    u "Hating on the dead is never a good thing. When the zombies, ghosts or whatever comes, I won't be there to help you. But at least you'll have your super power and you can tell them if they're hungry. *Laughs*"
 
-    # u "This is confusing, how are we supposed to know where to go or what to do?"
-    u "C'est déroutant, comment sommes-nous censés savoir où aller ou quoi faire ?"
+    scene v12rrl2a
+    with dissolve
 
-# game/v12/scene15.rpy:80
-translate francais v12_riddle_riley_dea5ef22:
+    ri "Oh my gosh, c'mon already."
 
-    # ri "Don't be a party pooper, just follow me."
-    ri "Ne sois pas rabat-joie, suis-moi."
+    scene v12rrl3 # TPP. MC and riley enter the catacombs, back to the camera
+    with dissolve
 
-# game/v12/scene15.rpy:95
-translate francais v12_riddle_riley_08cc1b17:
+    pause 0.75
 
-    # ri "I'm pretty sure this is where the bodies are put."
-    ri "Je suis presque sûre que c'est là qu'on met les corps."
+    stop music fadeout 3
+    play music "music/v12/Track Scene 15_2.mp3" fadein 2
 
-# game/v12/scene15.rpy:100
-translate francais v12_riddle_riley_f70aa024:
+    scene v12rrl4 # FPP. MC looking at riley, mouth closed
+    with dissolve
 
-    # u "I feel like we're not supposed to be down here."
-    u "J'ai l'impression qu'on a pas le droit d'être ici."
+    u "This is confusing, how are we supposed to know where to go or what to do?"
 
-# game/v12/scene15.rpy:105
-translate francais v12_riddle_riley_fe8721fd:
+    scene v12rrl4a # FPP. Same as 4, mouth opened
+    with dissolve
 
-    # ri "Maybe we are, maybe we aren't. Start looking around for the next clue... I'm positive it's here somewhere."
-    ri "Peut-être qu'on la, peut-être qu'on ne l'a pas. Commence à chercher le prochain indice... Je suis sûre qu'il est ici quelque part."
+    ri "Don't be a party pooper, just follow me."
 
-# game/v12/scene15.rpy:121
-translate francais v12_riddle_riley_5a6e5b0e:
+    scene v12rrl5 # TPP. Riley leading MC arround the catacombs
+    with dissolve
 
-    # u "Did you find anything?"
-    u "Tu as trouvé quelque chose ?"
+    pause 0.75
 
-# game/v12/scene15.rpy:126
-translate francais v12_riddle_riley_8e14523e:
+    scene v12rrl6 # TPP. Riley leading MC arround the catacombs
+    with dissolve
 
-    # ri "Not yet, you?"
-    ri "Pas encore, et toi ?"
+    pause 0.75
 
-# game/v12/scene15.rpy:131
-translate francais v12_riddle_riley_131d39a7:
+    scene v12rrl7 # FPP. MC looking at riley, mouth opened
+    with dissolve
 
-    # u "Nope, still looking. I'm telling you Riley, there's nothing down h-"
-    u "Non, je cherche toujours. Je te le dis Riley, il n'y a rien ici-"
+    ri "I'm pretty sure this is where the bodies are put."
 
-# game/v12/scene15.rpy:143
-translate francais v12_riddle_riley_57ae9944:
+    scene v12rrl7a # FPP. Same as 7, mouth closed
+    with dissolve
 
-    # u "*Sighs*"
-    u "*Soupirs*"
+    u "I feel like we're not supposed to be down here."
 
-# game/v12/scene15.rpy:148
-translate francais v12_riddle_riley_7ffe103c:
+    scene v12rrl7
+    with dissolve
 
-    # ri "Why are you sitting?"
-    ri "Pourquoi tu t'assieds ?"
+    ri "Maybe we are, maybe we aren't. Start looking around for the next clue... I'm positive it's here somewhere."
 
-# game/v12/scene15.rpy:153
-translate francais v12_riddle_riley_1a07e571:
+    scene v12rrl8 # TPP. MC and riley looking arround trying to find the clue
+    with dissolve
 
-    # u "I give up, I can't find it. I'm telling you there's nothing down here."
-    u "J'abandonne, je ne trouve pas. Je te dis qu'il n'y a rien ici."
+    pause 0.6
+    
+    scene v12rrl9 # TPP. MC and riley looking arround trying to find the clue
+    with dissolve
 
-# game/v12/scene15.rpy:158
-translate francais v12_riddle_riley_7b6333da:
+    menu:
+        "Keep looking":
+            $ add_point(KCT.BOYFRIEND)
+            scene v12rrl10 # FPP. MC still searching looking at riley who is also still searching, mouth closed
+            with dissolve
 
-    # ri "C'mon, please? I can't find it myself."
-    ri "Allez, s'il te plaît ! Je ne peux pas le trouver toute seule."
+            u "Did you find anything?"
 
-# game/v12/scene15.rpy:163
-translate francais v12_riddle_riley_edef53e6:
+            scene v12rrl10a # FPP. Same as 10, mouth opened
+            with dissolve
 
-    # u "Oh, I'm sure you can."
-    u "Oh, je suis sûr que tu le peux, si."
+            ri "Not yet, you?"
 
-# game/v12/scene15.rpy:168
-translate francais v12_riddle_riley_0954abe9:
+            scene v12rrl10 
+            with dissolve
 
-    # ri "[name]..."
-    ri "[name]..."
+            u "Nope, still looking. I'm telling you Riley, there's nothing down h-"
 
-# game/v12/scene15.rpy:178
-translate francais v12_riddle_riley_c2fdeef5:
+        "Give up":
+            $ add_point(KCT.BRO)
+            scene v12rrl11 # TPP. MC sits down
+            with dissolve
 
-    # ri "Oh, wait! I just found something."
-    ri "Oh, attends ! Je viens de voir quelque chose."
+            pause 0.75
 
-# game/v12/scene15.rpy:188
-translate francais v12_riddle_riley_9a9c20f2:
+            scene v12rrl12 # FPP. MC sitting down, looking at riley, mouth closed
+            with dissolve
+            
+            u "*Sighs*"
 
-    # u "I stand corrected... *Chuckles* What is it?"
-    u "J'avais raison... *Rire* Qu'est-ce qu'il y a ?"
+            scene v12rrl12a # FPP. Same as 12, Riley looking confused, mouth opened
+            with dissolve
 
-# game/v12/scene15.rpy:198
-translate francais v12_riddle_riley_bc83ef33:
+            ri "Why are you sitting?"
 
-    # ri "This has to be the clue."
-    ri "Ça doit être l'indice."
+            scene v12rrl12
+            with dissolve
 
-# game/v12/scene15.rpy:203
-translate francais v12_riddle_riley_f9c5a9d6:
+            u "I give up, I can't find it. I'm telling you there's nothing down here."
 
-    # u "Pull it out."
-    u "Retire-le."
+            scene v12rrl12b # FPP. Riley with her hands in her hand as if she is asking for help
+            with dissolve
 
-# game/v12/scene15.rpy:208
-translate francais v12_riddle_riley_ab6ddc47:
+            ri "C'mon, please? I can't find it myself."
 
-    # ri "..."
+            scene v12rrl12
+            with dissolve
+
+            u "Oh, I'm sure you can."
+
+            scene v12rrl12c # FPP. Riley searching, looking back at MC, mouth opened
+            with dissolve
+
+            ri "[name]..."
+
+            scene v12rrl13 # TPP. MC stands up
+            with dissolve
+
+            pause 0.75
+
+    scene v12rrl69420 # FPP. MC standing a little away from riley, mouth opened
+    with dissolve
+
+    ri "Oh, wait! I just found something."
+
+    scene v12rrl14 # TPP. MC walks over to riley
+    with dissolve
+
+    pause 1.25
+
+    scene v12rrl15 # FPP. MC looking at riley, mouth closed
+    with dissolve
+
+    u "I stand corrected... *Chuckles* What is it?"
+
+    scene v12rrl16 # TPP. MC and riley looking at a piece of paper in the wall
+    with dissolve
+
+    pause 1.25
+
+    scene v12rrl15a # FPP. Same as 15, mouth opened
+    with dissolve
+
+    ri "This has to be the clue."
+
+    scene v12rrl15
+    with dissolve
+
+    u "Pull it out."
+
+    scene v12rrl15
+    with dissolve
+
     ri "..."
 
-# game/v12/scene15.rpy:213
-translate francais v12_riddle_riley_ef2f1671:
+    scene v12rrl15
+    with dissolve
 
-    # u "What?"
-    u "Quoi ?"
+    u "What?"
 
-# game/v12/scene15.rpy:218
-translate francais v12_riddle_riley_128ad64b:
+    scene v12rrl15b # FPP. Riley looking uneasy, mouth opened
+    with dissolve
 
-    # ri "I'm kind of nervous."
-    ri "Je suis assez nerveuse."
+    ri "I'm kind of nervous."
 
-# game/v12/scene15.rpy:223
-translate francais v12_riddle_riley_520dc18d:
+    scene v12rrl15
+    with dissolve
 
-    # u "Why? It's just a piece of paper. *Chuckles*"
-    u "Pourquoi ? C'est juste un bout de papier. *Rire*"
+    u "Why? It's just a piece of paper. *Chuckles*"
 
-# game/v12/scene15.rpy:228
-translate francais v12_riddle_riley_dffc0a65:
+    scene v12rrl15b
+    with dissolve
 
-    # ri "All we had to do was look around for it... This almost feels too easy."
-    ri "Tout ce que nous avions à faire était de regarder autour de nous pour le trouver... Ça semble presque trop facile."
+    ri "All we had to do was look around for it... This almost feels too easy."
 
-# game/v12/scene15.rpy:233
-translate francais v12_riddle_riley_47381314:
+    scene v12rrl15
+    with dissolve
 
-    # u "*Sighs* Fine. I'll do it."
-    u "*Soupirs* Bon. Je vais le faire."
+    u "*Sighs* Fine. I'll do it."
 
-# game/v12/scene15.rpy:243
-translate francais v12_riddle_riley_1e8a12f4:
+    scene v12rrl17 # TPP. MC pulls the piece of paper out of the wall
+    with dissolve
 
-    # u "See, nothing went wrong."
-    u "Tu vois, tout s'est bien passé."
+    pause 0.75
 
-# game/v12/scene15.rpy:253
-translate francais v12_riddle_riley_62bb2ea4:
+    scene v12rrl15c # FPP. MC now holding the piece of paper looking at riley, mouth closed
+    with dissolve
 
-    # ri "You're not suspicious or anything?"
-    ri "Tu n'as pas de soupçon ou autre ?"
+    u "See, nothing went wrong."
 
-# game/v12/scene15.rpy:258
-translate francais v12_riddle_riley_747de4d3:
+    scene v12rrl15d # FPP. MC hands riley the piece of paper 
+    with dissolve
 
-    # u "Why? Should I be?"
-    u "Pourquoi ? Je devrais en avoir ?"
+    pause 0.6
 
-# game/v12/scene15.rpy:263
-translate francais v12_riddle_riley_cdac905d:
+    scene v12rrl15e # FPP. Riley now holding the peace of paper, still looking ueasy, mouth opened
+    with dissolve
 
-    # ri "Well, you know-"
-    ri "Eh bien, tu sais-"
+    ri "You're not suspicious or anything?"
 
-# game/v12/scene15.rpy:268
-translate francais v12_riddle_riley_93b929f3:
+    scene v12rrl15f # FPP. Same as 15e, mouth closed
+    with dissolve
 
-    # u "What the fuck?"
-    u "C'est quoi ce bordel ?"
+    u "Why? Should I be?"
 
-# game/v12/scene15.rpy:273
-translate francais v12_riddle_riley_211a92f2:
+    scene v12rrl15e
+    with dissolve
 
-    # ri "And... Now we're in the dark."
-    ri "Et... Maintenant on est dans le noir."
+    ri "Well, you know-"
 
-# game/v12/scene15.rpy:278
-translate francais v12_riddle_riley_8e07fad3:
+    scene v12rrl15g # FPP. The lights go out, looking at riley, mouth closed
+    with dissolve
 
-    # u "*Sighs* I'm starting to really hate these shitty riddles."
-    u "*Soupirs* Je commence à vraiment détester ces énigmes de merde."
+    u "What the fuck?"
 
-# game/v12/scene15.rpy:283
-translate francais v12_riddle_riley_2057c186:
+    scene v12rrl15h # FPP. Riley looking back, mouth opened
+    with dissolve
 
-    # ri "*Chuckles*"
-    ri "*Rire*"
+    ri "And... Now we're in the dark."
 
-# game/v12/scene15.rpy:288
-translate francais v12_riddle_riley_830e231b:
+    scene v12rrl15g
+    with dissolve
 
-    # ri "Oh nice, we're good I guess. Let's get back and..."
-    ri "Oh cool, j'imagine que c'est bon. Rentrons et..."
+    u "*Sighs* I'm starting to really hate these shitty riddles."
 
-# game/v12/scene15.rpy:293
-translate francais v12_riddle_riley_af2d87b2:
+    scene v12rrl15i # FPP. Riley smling
+    with dissolve
 
-    # u "And... what?"
-    u "Et... Quoi ?"
+    ri "*Chuckles*"
 
-# game/v12/scene15.rpy:298
-translate francais v12_riddle_riley_b59b03ab:
+    scene v12rrl15e
+    with dissolve
 
-    # ri "I actually don't know how to get back, do you?"
-    ri "En fait, je ne sais pas comment ressortir, et toi ?"
+    ri "Oh nice, we're good I guess. Let's get back and..."
 
-# game/v12/scene15.rpy:303
-translate francais v12_riddle_riley_9d4a54f6:
+    scene v12rrl15f
+    with dissolve
 
-    # u "I was just following you."
-    u "Je ne faisais que te suivre."
+    u "And... what?"
 
-# game/v12/scene15.rpy:308
-translate francais v12_riddle_riley_749dc388:
+    scene v12rrl15e
+    with dissolve
 
-    # ri "Okay, what is going on?"
-    ri "Ok, qu'est-ce qu'il se passe ?"
+    ri "I actually don't know how to get back, do you?"
 
-# game/v12/scene15.rpy:313
-translate francais v12_riddle_riley_ee7ea283:
+    scene v12rrl15f
+    with dissolve
 
-    # u "I have no fucking clue..."
-    u "J'en ai aucune idée..."
+    u "I was just following you."
 
-# game/v12/scene15.rpy:328
-translate francais v12_riddle_riley_f7edf692:
+    scene v12rrl15h
+    with dissolve
 
-    # ri "Let's get the fuck out of here, now. Please hold my hand so we don't get lost."
-    ri "Fichons le camp d'ici, maintenant. S'il te plaît, prends ma main pour qu'on ne se perde pas."
+    ri "Okay, what is going on?"
 
-# game/v12/scene15.rpy:333
-translate francais v12_riddle_riley_61bf0970:
+    scene v12rrl15g
+    with dissolve
 
-    # ri "You pick! Which way should we go?"
-    ri "Tu choisis ! Dans quelle direction allons-nous ?"
+    u "I have no fucking clue..."
 
-# game/v12/scene15.rpy:340
-translate francais v12_riddle_riley_69831fa0:
+    scene v12rrl18 # TPP. Lights flickering on as time passes
+    with dissolve
 
-    # u "Pretty sure it's this way."
-    u "Je suis presque sûr que c'est par là."
+    pause 0.75
 
-# game/v12/scene15.rpy:351
-translate francais v12_riddle_riley_287395e3:
+    scene v12rrl19 # TPP. Lights flickering off as time passes
+    with dissolve
 
-    # u "Let's try this way."
-    u "Essayons par là."
+    pause 0.75
 
-# game/v12/scene15.rpy:376
-translate francais v12_riddle_riley_b2c665ef:
+    scene v12rrl20 # FPP. Lights flickering on, riley looking spooked, mouth opened
+    with dissolve
 
-    # u "Look, that's the exit! C'mon."
-    u "Regarde, c'est la sortie ! Allez, viens."
+    ri "Let's get the fuck out of here, now. Please hold my hand so we don't get lost."
 
-# game/v12/scene15.rpy:381
-translate francais v12_riddle_riley_4ec16f71:
+    scene v12rrl20
+    with dissolve
 
-    # ri "Finally..."
-    ri "Enfin..."
+    ri "You pick! Which way should we go?"
 
-# game/v12/scene15.rpy:400
-translate francais v12_riddle_riley_80b42b77:
+    menu:
+        "Left":
+            scene v12rrl21 # FPP. Looking at a tunnel that has a left and right exit
+            with dissolve
 
-    # ri "OW OW OW OW OW! Fuck!"
-    ri "AÏE, AÏE, AÏE, AÏE ! Putain !"
+            u "Pretty sure it's this way."
 
-# game/v12/scene15.rpy:405
-translate francais v12_riddle_riley_61ff1ffd:
+            scene v12rrl22 # TPP. MC and riley going left
+            with dissolve
 
-    # u "Oh shit, are you okay?"
-    u "Oh merde, tu vas bien ?"
+            pause 0.75
 
-# game/v12/scene15.rpy:410
-translate francais v12_riddle_riley_0a344163:
+        "Right":
+            scene v12rrl21
+            with dissolve
+            
+            u "Let's try this way."
 
-    # ri "Not exactly. I think I fucked up my ankle..."
-    ri "Pas exactement. Je crois que je me suis bousillée la cheville..."
+            scene v12rrl23 # TPP. MC and riley going right
+            with dissolve
 
-# game/v12/scene15.rpy:415
-translate francais v12_riddle_riley_47602cd5:
+            pause 0.75
+    
+    scene v12rrl24 # TPP. Time passing montage #1
+    with dissolve
 
-    # u "Can you walk?"
-    u "Tu peux marcher ?"
+    pause 1
 
-# game/v12/scene15.rpy:420
-translate francais v12_riddle_riley_55ddc3a2:
+    scene v12rrl25 # TPP. Time passing montage #2
+    with dissolve
 
-    # ri "Not comfortably... I'm sorry."
-    ri "Pas bien... Je suis désolée."
+    pause 1
 
-# game/v12/scene15.rpy:438
-translate francais v12_riddle_riley_265e5e75:
+    scene v12rrl26 # TPP. Time passing montage #3
+    with dissolve
 
-    # u "It's fine, c'mon."
-    u "C'est bon, allons-y."
+    pause 1
 
-# game/v12/scene15.rpy:443
-translate francais v12_riddle_riley_0aacf53a:
+    scene v12rrl27 # FPP. pointing at the exit
+    with dissolve
 
-    # ri "Thanks. It's probably not that bad. *Chuckles* It'll likely be fine in a few minutes, it surprised me more than it hurt."
-    ri "Merci. Ça ne doit pas être si grave. *Rire* Ça ira probablement mieux dans quelques minutes, ça m'a plus surpris que fait mal."
+    u "Look, that's the exit! C'mon."
 
-# game/v12/scene15.rpy:448
-translate francais v12_riddle_riley_baa4d711:
+    scene v12rrl28 # FPP. Looking at riley, slight smile, mouth opened
+    with dissolve
 
-    # u "Don't worry, I got you. But, everything that's happened so far has just given me more of a reason to not like this stupid hunt."
-    u "Ne t'inquiète pas, je te tiens. Mais, tout ce qui s'est passé jusqu'à présent m'a juste donné une raison de plus de ne pas aimer cette stupide chasse."
+    ri "Finally..."
 
-# game/v12/scene15.rpy:453
-translate francais v12_riddle_riley_c039f50a:
+    scene v12rrl29 # TPP. MC and riley walking out
+    with dissolve
 
-    # ri "We are running into every problem possible aren't we? *Chuckles*"
-    ri "Nous nous heurtons à tous les problèmes possibles, n'est-ce pas ? *Rire*"
+    pause 0.75
 
-# game/v12/scene15.rpy:458
-translate francais v12_riddle_riley_0061f725:
+    scene v12rrl30 # TPP. Riley trips
+    with dissolve
 
-    # u "*Laughs* Let's get you back..."
-    u "*Rire* Rentrons..."
+    pause 0.6
 
-# game/v12/scene15.rpy:463
-translate francais v12_riddle_riley_b126a3df:
+    stop music fadeout 3
+    play music "music/v12/Track Scene 15_3.mp3" fadein 2
 
-    # ri "Oh yeah, Mr. Lee has an event planned for when we get back."
-    ri "Oh oui, Mr Lee a prévu un événement à notre retour."
+    play sound "sounds/hs.mp3"
+    scene v12rrl31 # FPP. Riley on the ground, looking hurt, hand on her leg, mouth opened
+    with dissolve
 
-# game/v12/scene15.rpy:468
-translate francais v12_riddle_riley_1fabb2fe:
+    ri "OW OW OW OW OW! Fuck!"
 
-    # u "*Sighs* Yay... More Mr. Lee stuff."
-    u "*Soupirs* Ouais... Encore des trucs de Mr Lee."
+    scene v12rrl31a # FPP. Same as 31, mouth closed
+    with dissolve
 
-# game/v12/scene15.rpy:495
-translate francais v12_riddle_riley_482ec63d:
+    u "Oh shit, are you okay?"
 
-    # u "No worries. This okay?"
-    u "Pas de souci. C'est bon ?"
+    scene v12rrl31 
+    with dissolve
 
-# game/v12/scene15.rpy:500
-translate francais v12_riddle_riley_f8d84dc2:
+    ri "Not exactly. I think I fucked up my ankle..."
 
-    # ri "Woah, haha! This feels like a scene in a movie and I'm the princess."
-    ri "Woah, haha ! C'est comme une scène dans un film et je suis la princesse."
+    scene v12rrl31a
+    with dissolve
 
-# game/v12/scene15.rpy:505
-translate francais v12_riddle_riley_a8e7c36f:
+    u "Can you walk?"
 
-    # u "Guess that makes me a prince."
-    u "Je suis donc un prince, c'est ça ?"
+    scene v12rrl31 
+    with dissolve
 
-# game/v12/scene15.rpy:515
-translate francais v12_riddle_riley_c24e4810:
+    ri "Not comfortably... I'm sorry."
 
-    # ri "I guess it does."
-    ri "Je crois que oui."
+    menu:
+        "Help her walk":
+            $ add_point(KCT.BRO)
+            scene v12rrl32 # TPP. MC helps riley stand up
+            with dissolve
 
-# game/v12/scene15.rpy:532
-translate francais v12_riddle_riley_c111357e:
+            pause 0.75
 
-    # ri "I'm definitely into the more hot and sexy vibes, but this was probably the most romantic thing I've ever experienced."
-    ri "Je ressent des vibrations chaudes et sexy, mais c'était sans doute le truc le plus romantique que j'ai jamais vécu."
+            scene v12rrl33 # TPP. Riley arround mc's shoulder as they walk together
+            with dissolve
 
-# game/v12/scene15.rpy:540
-translate francais v12_riddle_riley_6c65d9f8:
+            pause 0.75
 
-    # ri "*Chuckles* You're so sweet, [name]."
-    ri "*Rire* Tu es si gentil, [name]."
+            scene v12rrl34 # FPP. Riley arround MC's shoulder, looking at riley, mouth closed
+            with dissolve
 
-# game/v12/scene15.rpy:545
-translate francais v12_riddle_riley_612accac:
+            u "It's fine, c'mon."
 
-    # u "Thanks... You give me many reasons to be. Now, let's get you back."
-    u "Merci... Tu me donnes de nombreuses raisons de l'être. Maintenant, je vais te ramener."
+            scene v12rrl34a # FPP. Same as 34, mouth opened
+            with dissolve
 
-# game/v12/scene15.rpy:550
-translate francais v12_riddle_riley_36d4de9b:
+            ri "Thanks. It's probably not that bad. *Chuckles* It'll likely be fine in a few minutes, it surprised me more than it hurt."
 
-    # ri "Actually, I think I'm feeling fine enough to walk."
-    ri "En fait, je crois que je me sens assez bien pour marcher, maintenant."
+            scene v12rrl34
+            with dissolve
 
-# game/v12/scene15.rpy:555
-translate francais v12_riddle_riley_f15cadce:
+            u "Don't worry, I got you. But, everything that's happened so far has just given me more of a reason to not like this stupid hunt."
 
-    # u "You sure?"
-    u "Tu es sûre ?"
+            scene v12rrl34a
+            with dissolve
 
-# game/v12/scene15.rpy:560
-translate francais v12_riddle_riley_34b42ff0:
+            ri "We are running into every problem possible aren't we? *Chuckles*"
 
-    # ri "Yeah, I'm sure."
-    ri "Oui, je le suis."
+            scene v12rrl34
+            with dissolve
 
-# game/v12/scene15.rpy:575
-translate francais v12_riddle_riley_50b65115:
+            u "*Laughs* Let's get you back..."
 
-    # ri "Also, I'm pretty sure Mr. Lee has something planned for us once we get back."
-    ri "De plus, je suis presque sûre que Mr Lee a prévu quelque chose pour nous à notre retour."
+            scene v12rrl34a
+            with dissolve
 
-# game/v12/scene15.rpy:580
-translate francais v12_riddle_riley_368aafc0:
+            ri "Oh yeah, Mr. Lee has an event planned for when we get back."
 
-    # u "*Sighs* Yayyyyyy."
-    u "*Soupirs* Ouaiiiiiis."
+            scene v12rrl34
+            with dissolve
 
-# game/v12/scene15.rpy:585
-translate francais v12_riddle_riley_2057c186_1:
+            u "*Sighs* Yay... More Mr. Lee stuff."
 
-    # ri "*Chuckles*"
-    ri "*Rire*"
+            scene v12rrl35 # TPP. MC and Riley heading on the sidewalk in front of the catacombs, riley still arround MC's shoulder
+            with dissolve
 
-translate francais strings:
+            pause 1
 
-    # game/v12/scene15.rpy:115
-    old "Keep looking"
-    new "Continuez à chercher"
+            scene v12rrl36 # TPP. MC and riley in front of the hotel, riley still arround MC's shoulder
+            with dissolve
 
-    # game/v12/scene15.rpy:422
-    old "Help her walk"
-    new "L'aider à marcher"
+            pause 1
 
-    # game/v12/scene15.rpy:422
-    old "Carry her"
-    new "Portez-la"
+            scene v12rrl37 # TPP. MC and Riley going into the lobby, riley still arround MC's shoulder
+            with dissolve
 
-    # game/v12/scene15.rpy:590
-    old "Hold her hand"
-    new "Tenir sa main"
+            pause 1
 
-    # game/v12/scene15.rpy:590
-    old "Scratch your face"
-    new "Grattez votre visage"
+        "Carry her":
+            $ add_point(KCT.BOYFRIEND)
+            scene v12rrl38 # TPP. MC Picks up riley
+            with dissolve
+
+            pause 1.25
+
+            scene v12rrl39 # FPP. Riley on MC's arm, smiling, mouth closed
+            with dissolve
+
+            u "No worries. This okay?"
+
+            scene v12rrl39a # FPP. Same as 39, mouth opened
+            with dissolve
+
+            ri "Woah, haha! This feels like a scene in a movie and I'm the princess."
+
+            scene v12rrl39 
+            with dissolve
+
+            u "Guess that makes me a prince."
+
+            scene v12rrl40 # TPP. Riley carreses MC's cheek
+            with dissolve
+
+            pause 0.75
+
+            scene v12rrl39b # FPP. Riley making a seducing face, mouth opened
+            with dissolve
+
+            ri "I guess it does."
+
+            menu:
+                "Kiss her":
+                    $ add_point(KCT.BOYFRIEND)
+
+                    scene v12rrl41 # TPP MC kisses Riley
+                    with dissolve
+
+                    play sound "sounds/kiss.mp3"
+
+                    pause 1
+
+                    scene v12rrl39b
+                    with dissolve
+
+                    ri "I'm definitely into the more hot and sexy vibes, but this was probably the most romantic thing I've ever experienced."
+
+                "Don't kiss her":
+                    pass 
+    
+            scene v12rrl39a 
+            with dissolve
+
+            ri "*Chuckles* You're so sweet, [name]."
+
+            scene v12rrl39
+            with dissolve
+
+            u "Thanks... You give me many reasons to be. Now, let's get you back."
+
+            scene v12rrl39a
+            with dissolve
+
+            ri "Actually, I think I'm feeling fine enough to walk."
+
+            scene v12rrl39
+            with dissolve
+
+            u "You sure?"
+
+            scene v12rrl39a
+            with dissolve
+
+            ri "Yeah, I'm sure."
+
+            scene v12rrl42 # TPP. MC places riley down 
+            with dissolve
+
+            pause 0.75
+
+            scene v12rrl43 # TPP. MC and riley start walking, in front of the catacombs
+            with dissolve
+
+            pause 0.75
+
+            scene v12rrl44 # FPP. Now walking with riley, mouth opened
+            with dissolve
+
+            ri "Also, I'm pretty sure Mr. Lee has something planned for us once we get back."
+
+            scene v12rrl44a # FPP. Same as 44, mouth closed
+            with dissolve
+
+            u "*Sighs* Yayyyyyy."
+
+            scene v12rrl44b # FPP. Riley smiling, mouth opened
+            with dissolve
+
+            ri "*Chuckles*"
+
+            scene v12rrl44c # FPP. Riley reaches for mc's hand
+            with dissolve
+
+            menu:
+                "Hold her hand":
+                    $ add_point(KCT.BOYFRIEND)
+                    scene v12rrl45 # TPP. MC and riley hold hands 
+                    with dissolve
+
+                    pause 0.75
+
+                    scene v12rrl46 # TPP. MC and riley and MC holding hands in front of the hotel
+                    with dissolve
+
+                    pause 0.75
+
+                    scene v12rrl47 # TPP. MC and Riley in the hotel lobby still holding hands
+                    with dissolve
+
+                "Scratch your face":
+                    $ add_point(KCT.BRO)
+                    scene v12rrl48 # TPP. MC scratches his face
+                    with dissolve
+
+                    pause 1
+
+                    scene v12rrl49 # TPP. MC and riley walking back, in front of the hotel
+                    with dissolve
+
+                    pause 1
+
+                    scene v12rrl50 # TPP. MC and riley in the hotel lobby
+                    with dissolve
+
+                    pause 1
+    
+    stop music fadeout 3
+
+    jump v12_valentine #scene 16

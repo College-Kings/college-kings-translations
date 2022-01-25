@@ -1,43 +1,72 @@
-﻿# TODO: Translation updated at 2021-12-22 14:39
+# SCENE 9: Arrival to France
+# Locations: Dock
+# Characters: IMRE (Outfit: 2), MC (Outfit: 1), MR. LEE (Outfit: 1), RYAN (Outfit: 1), AMBER (Outfit: 1), RILEY (OUTFIT: 3)
+# Time: Evening
+# Phone Images: None
 
-# game/v12/scene9.rpy:23
-translate francais v12_dock_arrival_27f36e96:
+label v12_dock_arrival:
+    scene v12doa1 # TPP. Show MC walking on the dock, neutral expression, mouth closed
+    with dissolve
 
-    # imre "I'M IN PARIS BABYYYYYYYYY!!"
-    imre "J'SUIS À PARIS BABYYYYYYYYY ! !!"
+    pause 1
 
-# game/v12/scene9.rpy:28
-translate francais v12_dock_arrival_fcc18885:
+    play music "music/v12/Track Scene 9.mp3" fadein 2
 
-    # u "*Laughs*"
-    u "*Rire*"
+    scene v12doa2 # TPP. Show Imre running past MC, MC slightly surprised, mouth closed, Imre happy, mouth closed
+    with dissolve
 
-# game/v12/scene9.rpy:33
-translate francais v12_dock_arrival_77cbed30:
+    pause 1
 
-    # lee "We only crossed the border, we're not in Paris yet."
-    lee "On vient seulement d'arriver en France, on n'est pas encore à Paris."
+    scene v12doa3 # FPP. Imre ahead of MC, Imre smiling, looking at the sky, mouth open as he is screaming, Imre's arms are raised, pointing to the sky
+    with dissolve
 
-# game/v12/scene9.rpy:38
-translate francais v12_dock_arrival_a491cbd0:
+    imre "I'M IN PARIS BABYYYYYYYYY!!"
 
-    # lee "Students, grab your luggage and get on the bus so we can get to the hotel."
-    lee "Les jeunes, prenez vos bagages et montez dans le bus pour qu'on puisse aller à l'hôtel."
+    scene v12doa3a # FPP. Same as v12doa3, Imre mouth closed, same pose as v12doa3
+    with dissolve
 
-# game/v12/scene9.rpy:48
-translate francais v12_dock_arrival_506c8632:
+    u "*Laughs*"
 
-    # ry "Hey ho, I'll take ya to the hotel if ya hoes don't tell."
-    ry "Hé ho, je vais à l'hôtel si cette pute ne dit plus rien."
+    scene v12doa4 # FPP. Mr. Lee standing next to MC, Mr. Lee looking at Imre's direction (same positioning as v12doa3), Mr. Lee slightly annoyed, mouth open
+    with dissolve
 
-# game/v12/scene9.rpy:53
-translate francais v12_dock_arrival_88502e7a:
+    lee "We only crossed the border, we're not in Paris yet."
 
-    # lee "Ryan, you know, they have open fields here in France as well."
-    lee "Ryan, tu sais, ils ont des campings en France aussi. De plus, on est encore très loin de Paris."
+    scene v12doa4a # FPP. Same as v12doa4, Mr. Lee looking at MC, Mr. Lee neutral expression, mouth open
+    with dissolve
+    
+    lee "Students, grab your luggage and get on the bus so we can get to the hotel."
 
-# game/v12/scene9.rpy:58
-translate francais v12_dock_arrival_0f19616f:
+    scene v12doa5 # TPP. Show Ryan walking up to Imre (Same positioning as v12doa3, Imre not in shot), Ryan slight smirk, mouth closed
+    with dissolve
 
-    # ry "Sorry."
-    ry "Désolé."
+    pause 0.75
+
+    scene v12doa3b # FPP. Same as v12doa3, Ryan standing next to Imre, Imre and Ryan looking at each other, Imre slightly annoyed, mouth closed, Ryan slight smirk, mouth open (Imre no longer doing the pose)
+    with dissolve
+
+    ry "Hey ho, I'll take ya to the hotel if ya hoes don't tell."
+
+    scene v12doa4b # FPP. Same as v12doa4, Mr. Lee looking at Ryan's direction (same positioning as v12doa3b), Mr. Lee slightly annoyed, mouth open
+    with dissolve
+
+    lee "Ryan, you know, they have open fields here in France as well."
+
+    scene v12doa3c # FPP. Same as v12doa3b, Ryan looking at Mr. Lee, Imre looking at Ryan, Ryan slightly sad, mouth open, Imre slight grin, mouth closed
+    with dissolve
+
+    ry "Sorry."
+
+    scene v12doa6 # TPP. Show MC and Amber walking towards the bus, mouths closed, slight smile
+    with dissolve
+
+    pause 0.75
+
+    scene v12doa7 # FPP. MC is outside the bus, he watches as Riley board the bus (her back is to the camera)
+    with dissolve
+
+    pause 0.75
+
+    stop music fadeout 3
+
+    jump v12_amber_bus #scene 10

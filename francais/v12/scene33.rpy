@@ -1,1515 +1,1425 @@
-﻿# TODO: Translation updated at 2022-01-01 14:46
+# SCENE 33: 
+# Locations: Hotel Lobby, Spa, Sauna, 3 door hallway
+# Characters: AUBREY (Outfit: 3), MC (Outfit: 2), Everyone else in towels
+# Time: Afternoon
 
-# game/v12/scene33.rpy:20
-translate francais v12s33_dd2e4cb0:
+label v12s33:
+# -MC and Aubrey arrive in the hotel lobby-
+# -Lindsey is already in a towel-
+    scene v12s33_1 #TPP show mc and Aubrey walking into hotel lobby, but already inside, slight smile expressions, make sure to not show the lobby in full as there's a bunch of people in it
+    with dissolve
 
-    # li "There you two are! You told me the shoot was only an hour..."
-    li "Vous êtes là tous les deux ! Tu m'as dit que le photoshoot ne durait qu'une heure..."
+    pause 0.75
 
-# game/v12/scene33.rpy:25
-translate francais v12s33_0831a0b2:
+    play music "music/v12/Track Scene 33_1.mp3" fadein 2
 
-    # au "We got carried away, is something going on?"
-    au "On s'est laissé emporter, il se passe quelque chose ?"
+    scene v12s33_2 #FPP Lindsey in a towel walking towards you, slightly surprised mouth open (again don't show the empty hotel lobby in the background)
+    with dissolve
 
-# game/v12/scene33.rpy:30
-translate francais v12s33_2d3fc1ed:
+    li "There you two are! You told me the shoot was only an hour..."
 
-    # li "I would've texted you, but I was expecting you to already be back."
-    li "Je t'aurais bien envoyé un message, mais je m'attendais à ce que tu sois déjà de retour."
+    scene v12s33_3 # FPP Aubrey looking at lindsey (lindsey off-screen), mouth open, questioning, 
+    with dissolve
 
-# game/v12/scene33.rpy:31
-translate francais v12s33_e1f9525f:
+    au "We got carried away, is something going on?"
 
-    # li "Mr. Lee and Ms. Rose booked a special with the hotel or whatever and because of that they gave us an all-included free spa session."
-    li "Mr Lee et Mme Rose ont fait une réservation spéciale auprès de l'hôtel ou je ne sais quoi et grâce à ça, ils nous ont donné une séance de spa gratuite tout compris."
+    scene v12s33_4 # FPP Lindsey close up, neutral expression, mouth open
+    with dissolve
 
-# game/v12/scene33.rpy:36
-translate francais v12s33_8f0ff4e6:
+    li "I would've texted you, but I was expecting you to already be back."
+    li "Mr. Lee and Ms. Rose booked a special with the hotel or whatever and because of that they gave us an all-included free spa session."
 
-    # au "What?? You're joking..."
-    au "Quoi ?? Tu plaisantes..."
+    scene v12s33_3
+    with dissolve
 
-# game/v12/scene33.rpy:41
-translate francais v12s33_3af73e6f:
+    au "What?? You're joking..."
 
-    # li "That's what I said when Nora told me, haha! We all have to go at the same time though, so they've been waiting on you guys."
-    li "C'est ce que j'ai dit quand Nora me l'a dit, haha ! Nous devons tous y aller en même temps, alors ils vous ont attendus."
+    scene v12s33_4
+    with dissolve
 
-# game/v12/scene33.rpy:46
-translate francais v12s33_fe96d076:
+    li "That's what I said when Nora told me, haha! We all have to go at the same time though, so they've been waiting on you guys."
 
-    # u "No one thought to text or call us? *Chuckles*"
-    u "Personne n'a pensé à nous envoyer un message ou à nous appeler ? *Rire*"
+    scene v12s33_4a # same as 4, mouth closed
+    with dissolve
 
-# game/v12/scene33.rpy:51
-translate francais v12s33_f3b6b886:
+    u "No one thought to text or call us? *Chuckles*"
 
-    # li "I said not to 'cause I thought what you guys were doing was important. Plus, I know Aubrey doesn't see her sister often. I didn't wanna disturb that, but you guys came just in time."
-    li "J'ai dit non parce que je pensais que ce que vous faisiez était très important. En plus, je sais qu'Aubrey ne voit pas souvent sa soeur. Je ne voulais pas déranger tout ça, mais vous êtes arrivés juste à temps."
+    scene v12s33_4b # same as 4, lindsey looking at mc (into the camera), slight smile, mouth open
+    with dissolve
 
-# game/v12/scene33.rpy:52
-translate francais v12s33_31f77d75:
+    li "I said not to 'cause I thought what you guys were doing was important. Plus, I know Aubrey doesn't see her sister often. I didn't wanna disturb that, but you guys came just in time."
+    li "I don't know how long I could've held them off. *Chuckles*"
 
-    # li "I don't know how long I could've held them off. *Chuckles*"
-    li "Je ne sais pas combien de temps j'aurais pu encore les retenir. *Rire*"
+    scene v12s33_3b # same as 3, smiling, mouth open
+    with dissolve
 
-# game/v12/scene33.rpy:57
-translate francais v12s33_49b47b74:
+    au "Thanks Lindsey."
 
-    # au "Thanks Lindsey."
-    au "Merci Lindsey."
+    scene v12s33_4d # same as 4, lindsey looking at aubrey, smiling,mouth open
+    with dissolve
 
-# game/v12/scene33.rpy:62
-translate francais v12s33_25524bd2:
+    li "Of course."
 
-    # li "Of course."
-    li "Pas de problème."
+    scene v12s33_5 # FPP, shows Mr Lee, mouth open, neutral expression talking to mc (again don't show the full lobby being empty)
+    with dissolve
 
-# game/v12/scene33.rpy:67
-translate francais v12s33_561572e5:
+    lee "Alright, it looks like Lindsey caught the two of you up. Everyone else has already been given instructions, so allow me to fill you in."
 
-    # lee "Alright, it looks like Lindsey caught the two of you up. Everyone else has already been given instructions, so allow me to fill you in."
-    lee "Très bien, on dirait que Lindsey vous a trouvés tous les deux. Tout le monde a déjà reçu des instructions, alors permettez-moi de vous mettre au courant."
+    lee "As Lindsey said, we have a personal spa session, the boys and girls will be separated, and before you make any annoying comments, I've heard enough from Imre and I'm at my limit."
 
-# game/v12/scene33.rpy:69
-translate francais v12s33_8d50f241:
+    scene v12s33_5a # same as 5, mouth closed
+    with dissolve
 
-    # lee "As Lindsey said, we have a personal spa session, the boys and girls will be separated, and before you make any annoying comments, I've heard enough from Imre and I'm at my limit."
-    lee "Comme Lindsey l'a dit, nous avons une séance de spa personnelle, les garçons et les filles seront séparés, et avant que vous ne fassiez des commentaires ennuyeux, j'ai assez entendu d'Imre et je suis à bout."
+    u "Sorry you had to experience that. *Chuckles*"
 
-# game/v12/scene33.rpy:74
-translate francais v12s33_e104fdbc:
+    scene v12s33_5
+    with dissolve
 
-    # u "Sorry you had to experience that. *Chuckles*"
-    u "Désolé que vous ayez dû vivre ça. *Rire*"
+    lee "Yes, thank you... Anyways... Once inside, you'll change into what makes you feel comfortable and wrap yourself in a towel."
+    lee "Some insisted on being nude underneath their towel and though I heavily advised against it, Ms. Rose has approved, so take that as you will."
 
-# game/v12/scene33.rpy:79
-translate francais v12s33_7969dbd8:
+    scene v12s33_3d # same as 3, aubrey looking at Mr lee (off screen) smiling, mouth open
+    with dissolve
 
-    # lee "Yes, thank you... Anyways... Once inside, you'll change into what makes you feel comfortable and wrap yourself in a towel."
-    lee "Oui, merci... Enfin... Une fois à l'intérieur, vous vous mettrez à l'aise et vous vous envelopperez dans une serviette."
+    au "There's a sauna, right?"
 
-# game/v12/scene33.rpy:80
-translate francais v12s33_aa28b286:
+    scene v12s33_5b # same as 5, mr lee looking at aubrey, neutral expression,mouth open
+    with dissolve
 
-    # lee "Some insisted on being nude underneath their towel and though I heavily advised against it, Ms. Rose has approved, so take that as you will."
-    lee "Certains ont insisté pour être nus sous leur serviette et bien que je l'aie fortement déconseillé, Mme Rose l'a approuvé, alors faites comme vous voulez."
+    lee "Yes, a sauna and a one hour massage."
 
-# game/v12/scene33.rpy:85
-translate francais v12s33_eb834571:
+    scene v12s33_3d
+    with dissolve
 
-    # au "There's a sauna, right?"
-    au "Il y a un sauna, non ?"
+    au "Definitely going nude... *Laughs*"
 
-# game/v12/scene33.rpy:90
-translate francais v12s33_2262fd39:
+    scene v12s33_5b
+    with dissolve
 
-    # lee "Yes, a sauna and a one hour massage."
-    lee "Oui, un sauna et un massage d'une heure."
+    lee "Please, use your best judgement. The boys will start with massages and girls in the sauna, afterwards we'll switch. Any questions?"
 
-# game/v12/scene33.rpy:95
-translate francais v12s33_b36e9333:
+    scene v12s33_5c # same as 5b, mouth close
+    with dissolve
 
-    # au "Definitely going nude... *Laughs*"
-    au "Je vais sans aucun doute me mettre nue... *Rire*"
+    u "Nope, sounds simple enough. Oh, are there towels in the spa room?"
 
-# game/v12/scene33.rpy:100
-translate francais v12s33_697a7e69:
+    scene v12s33_5
+    with dissolve
 
-    # lee "Please, use your best judgement. The boys will start with massages and girls in the sauna, afterwards we'll switch. Any questions?"
-    lee "S'il vous plaît, faites votre propre jugement. Les garçons commenceront par des massages et les filles par le sauna, ensuite nous échangerons. Des questions ?"
+    lee "Yes, there are towels in there."
 
-# game/v12/scene33.rpy:105
-translate francais v12s33_4d1ee075:
+    scene v12s33_5a
+    with dissolve
 
-    # u "Nope, sounds simple enough. Oh, are there towels in the spa room?"
-    u "Non, ça a l'air assez simple. Oh, il y a des serviettes dans le spa ?"
+    u "All good."
 
-# game/v12/scene33.rpy:110
-translate francais v12s33_46c2466a:
+    scene v12s33_5d # same as 5, Mr lee walks off
+    with dissolve
 
-    # lee "Yes, there are towels in there."
-    lee "Oui, des serviettes sont à disposition."
+    pause 0.75
 
-# game/v12/scene33.rpy:115
-translate francais v12s33_7b2df1a5:
+    u "I don't think he's excited about this..."
 
-    # u "All good."
-    u "Alors c'est bon."
+    scene v12s33_4b
+    with dissolve
 
-# game/v12/scene33.rpy:122
-translate francais v12s33_d4dbc28a:
+    li "He's starting to get a little irritated, but I think it's because he's getting homesick. He's starting to miss his wife, I heard him say it to Ms. Rose."
+    li "I think the church thing kinda hit home for him."
 
-    # u "I don't think he's excited about this..."
-    u "Je n'ai pas l'impression qu'il soit emballé par tout ça..."
+    scene v12s33_4c # same as 4b, mouth closed
+    with dissolve
 
-# game/v12/scene33.rpy:127
-translate francais v12s33_499541a8:
+    u "I always forget he's married, but yeah... I could see why he'd be on edge."
 
-    # li "He's starting to get a little irritated, but I think it's because he's getting homesick. He's starting to miss his wife, I heard him say it to Ms. Rose."
-    li "Il commence à être un peu nerveux, mais je pense que c'est parce qu'il a le mal du pays. Sa femme commence à lui manquer, je l'ai entendu le dire à Mme Rose."
+    scene v12s33_3b
+    with dissolve
 
-# game/v12/scene33.rpy:128
-translate francais v12s33_7af6747a:
+    au "Alright, c'mon guys. I want to relax!"
 
-    # li "I think the church thing kinda hit home for him."
-    li "Je pense que le truc de l'église l'a un peu interpellé."
+    scene v12s33_6 # TPP, Aubrey, Lindsey and mc walk towards the spa entrance
+    with dissolve
 
-# game/v12/scene33.rpy:133
-translate francais v12s33_9388d5f0:
+    pause 0.75
 
-    # u "I always forget he's married, but yeah... I could see why he'd be on edge."
-    u "J'oublie toujours qu'il est marié, mais oui... je peux comprendre pourquoi il est sur les nerfs."
+    scene v12s33_7 # FPP Aubrey standing at the spa entra (inside the spa) in front of a towel stand and starts taking her clothes off
+    with dissolve
 
-# game/v12/scene33.rpy:138
-translate francais v12s33_c6a6bba1:
+    pause 1.25
 
-    # au "Alright, c'mon guys. I want to relax!"
-    au "Allons-y, les amis. Je veux me détendre !"
+    stop music fadeout 3
+    play music "music/v12/Track Scene 33_2.mp3" fadein 2
 
-# game/v12/scene33.rpy:156
-translate francais v12s33_28c33980:
+    scene v12s33_7a # same as 7, AUbrey now without top (no bra), starting to take her pants off
+    with dissolve
 
-    # li "AUBREY! What if one of the teachers saw you?! And [name] is standing right here."
-    li "AUBREY ! Et si un des professeurs te voyait ? ! Et [name] est juste là."
+    li "AUBREY! What if one of the teachers saw you?! And [name] is standing right here."
 
-# game/v12/scene33.rpy:161
-translate francais v12s33_dd870fb5:
+    scene v12s33_7b # aubrey now fully nude, grabbing a towel, mouth open, laughing smile
+    with dissolve
 
-    # au "If anyone saw me then... All I did was give them a reason to smile today. *Chuckles*"
-    au "Si quelqu'un me voyait, alors... Je ne ferai que leur donner une raison de sourire aujourd'hui. *Rire*"
+    au "If anyone saw me then... All I did was give them a reason to smile today. *Chuckles*"
 
-# game/v12/scene33.rpy:166
-translate francais v12s33_8569c4fa:
+    scene v12s33_7c # aubrey starting to put the towel on, mouth closed, smiling
+    with dissolve
 
-    # u "*Chuckles*"
-    u " *Rire*"
+    u "*Chuckles*"
 
-# game/v12/scene33.rpy:171
-translate francais v12s33_9436db2d:
+    scene v12s33_8 # FPP, closeup, Aubrey now has a towel on, smiling, mouth open, looking at Lindsey (off-screen)
+    with dissolve
 
-    # au "See, it's already working. *Laughs*"
-    au "Tu vois ? Ça marche déjà. *Rire*"
+    au "See, it's already working. *Laughs*"
 
-# game/v12/scene33.rpy:176
-translate francais v12s33_cb47791a:
+    scene v12s33_9 # FPP, Lindsey looking at Aubrey (off-screen), laughing smile, mouth open
+    with dissolve
 
-    # li "Oh my gosh. *Chuckles*"
-    li "Oh merde. *Rire*"
+    li "Oh my gosh. *Chuckles*"
 
-# game/v12/scene33.rpy:181
-translate francais v12s33_806296da:
+    scene v12s33_8b # same as 8, aubrey looking at mc (the camera), mouth open flirty smile
+    with dissolve
 
-    # au "You're gonna get naked too, right? You can't use the sauna with clothes on, that's weird."
-    au "Tu vas te mettre à poil aussi, non ? Tu ne vas pas au sauna avec des vêtements, c'est bizarre."
+    au "You're gonna get naked too, right? You can't use the sauna with clothes on, that's weird."
 
-# game/v12/scene33.rpy:186
-translate francais v12s33_507b2d24:
+    scene v12s33_9b # same as 9, Lindsey looking at mc, mouth open flirty smile
+    with dissolve
 
-    # li "*Chuckles* That, I agree with."
-    li "*Rire* Ça, je suis d'accord."
+    li "*Chuckles* That, I agree with."
 
-# game/v12/scene33.rpy:191
-translate francais v12s33_523cd52c:
+    scene v12s33_9c # same as 9b, mouth closed
+    with dissolve
 
-    # u "Oh yeah, guess you're right. Umm..."
-    u "Oh ouais, je crois que tu as raison. Hmm..."
+    u "Oh yeah, guess you're right. Umm..."
 
-# game/v12/scene33.rpy:196
-translate francais v12s33_1cfa81ac:
+    scene v12s33_8b
+    with dissolve
 
-    # au "What?"
-    au "Quoi ?"
+    au "What?"
 
-# game/v12/scene33.rpy:201
-translate francais v12s33_cd262f54:
+    scene v12s33_9
+    with dissolve
 
-    # li "Oh my god, Aubrey! Give him some privacy."
-    li "Oh merde, Aubrey ! Donne-lui un peu d'intimité."
+    li "Oh my god, Aubrey! Give him some privacy."
 
-# game/v12/scene33.rpy:219
-translate francais v12s33_b6cde84e:
+    scene v12s33_10 # FPP Lindsey drags Aubrey away into the spa
+    with dissolve
 
-    # ry "There he is, took you long enough! Get on a table."
-    ry "Le voilà, t'en as mis du temps ! Prends une table."
+    pause 0.75
 
-# game/v12/scene33.rpy:224
-translate francais v12s33_f181a898:
+    scene v12s33_11 # mc, now in towel, walks into the massage area of the spa (don't show the massage tables as all the guys would already be on there)
+    with fade
 
-    # u "Haha, alright."
-    u "Haha, très bien."
+    pause 0.75
 
-# game/v12/scene33.rpy:234
-translate francais v12s33_d214b552:
+    stop music fadeout 3
+    play music "music/v12/Track Scene 33_3.mp3" fadein 2
 
-    # u "(I could always sneak off and see what the girls are doing if this gets too boring...)"
-    u "(Je pourrais toujours m'éclipser et voir ce que font les filles si ça devient trop ennuyeux...)"
+    scene v12s33_12 #FPP showing close up of Ryan laying a massage table with his head looking at mc, mouth open, smiling, Ryan should have black hair here
+    with dissolve
 
-# game/v12/scene33.rpy:241
-translate francais v12s33_a7d433c2:
+    ry "There he is, took you long enough! Get on a table."
 
-    # imre "Where's the masseuse? I hope I get a lady! *Laughs*"
-    imre "Où est la masseuse ? J'espère que j'aurai une femme ! *Rire*"
+    scene v12s33_12a # same as 12, mouth closed
+    with dissolve
 
-# game/v12/scene33.rpy:246
-translate francais v12s33_aa828c82:
+    u "Haha, alright."
 
-    # lee "Why does the gender of the masseuse matter to you, Imre?"
-    lee "En quoi le sexe de la masseuse vous importe-t-il, Imre ?"
+# -MC hops on a table-
+# -Chris (with a bandaged hand), Imre, Ryan and Mr. Lee are laying on a table with their faces down-
+# -Josh and Cameron if present are sitting alone on a sofa-
+# -There's a sneak off button throughout the entire scene-
 
-# game/v12/scene33.rpy:251
-translate francais v12s33_cbaa848b:
+    scene v12s33_16 # shows mc on a massage table, with his face down, same angle as 13
+    with fade
 
-    # imre "I don't know about you, but I'd rather have a woman's hands on me than a man's."
-    imre "J'sais pas pour vous, mais j'préfère avoir les mains d'une femme sur moi qu'celles d'un mec."
+    u "(I could always sneak off and see what the girls are doing if this gets too boring...)"
 
-# game/v12/scene33.rpy:256
-translate francais v12s33_c996389f:
+    show screen v12s33_sneak_off_overlay("v12s33_sneak_off1")
 
-    # lee "The only woman's hands I care for are my wife's."
-    lee "Les seules mains de femme dont je me préoccupe sont celles de ma femme."
+    scene v12s33_13 #TPP close up angled top view of Imre laying on a massage table with face down (you shouldn't be able to see his face or other massage tables next to him), it needs to be so close that it only shows Imre's heads and shoulders, but not his lower back, so that the picture works with or with masseuse there
+    with dissolve
 
-# game/v12/scene33.rpy:261
-translate francais v12s33_61e3a11a:
+    imre "Where's the masseuse? I hope I get a lady! *Laughs*"
 
-    # ch "Commendable, Mr. Lee."
-    ch "C'est louable, Mr Lee."
+    scene v12s33_14 #TPP same view as for Imre in 13, just with Mr Lee, on a different massage table of course
+    with dissolve
 
-# game/v12/scene33.rpy:266
-translate francais v12s33_0a0f72e8:
+    lee "Why does the gender of the masseuse matter to you, Imre?"
+ 
+    scene v12s33_13
+    with dissolve
 
-    # lee "Your flattery won't win you any points with me, Chris... We will still be discussing the other day's incident."
-    lee "Votre flatterie ne vous fera pas gagner de points avec moi, Chris... Nous allons encore discuter de l'incident de l'autre jour."
+    imre "I don't know about you, but I'd rather have a woman's hands on me than a man's."
 
-# game/v12/scene33.rpy:271
-translate francais v12s33_fd82c224:
+    scene v12s33_14
+    with dissolve
 
-    # imre "In the spirit of relaxing, let's not bring it up or talk about any of it right now, if that's okay?"
-    imre "Dans un esprit de détente, on en parle pas pour l'instant, vous êtes d'accord ?"
+    lee "The only woman's hands I care for are my wife's."
 
-# game/v12/scene33.rpy:276
-translate francais v12s33_7fe9486a:
+    scene v12s33_15 # TPP same view as for Imre and Mr Lee, but for Chris 
+    with dissolve
 
-    # lee "I agree."
-    lee "Je suis d'accord."
+    ch "Commendable, Mr. Lee."
 
-# game/v12/scene33.rpy:281
-translate francais v12s33_84a92869:
+    scene v12s33_14
+    with dissolve
 
-    # lmass "Afternoon gentleman, hope you're all relaxing well and ready for your massages?"
-    lmass "Bonjour messieurs, j'espère que vous êtes tous bien détendus et prêts pour vos massages ?"
+    lee "Your flattery won't win you any points with me, Chris... We will still be discussing the other day's incident."
 
-# game/v12/scene33.rpy:286
-translate francais v12s33_9bc0e37d:
+    scene v12s33_13
+    with dissolve
 
-    # imre "Oh yeah! You with the sexy voice, you can do my massage."
-    imre "Oh oui ! Vous, avec votre voix sexy, vous pouvez m'faire un massage."
+    imre "In the spirit of relaxing, let's not bring it up or talk about any of it right now, if that's okay?"
 
-# game/v12/scene33.rpy:291
-translate francais v12s33_8854ebe5:
+    scene v12s33_14
+    with dissolve
 
-    # lee "*Sighs* So embarrassing."
-    lee "*Soupirs* Tellement embarrassant."
+    lee "I agree."
 
-# game/v12/scene33.rpy:296
-translate francais v12s33_f1bdd86e:
+    scene v12s33_17 # TPP show two masseuses walk in, one a beautiful woman and the other a man, female masseuse mouth open, smiling
+    with dissolve
 
-    # lmass "Haha. Massages last one hour hour. We ask that you relax and attempt to behave as if we aren't even here."
-    lmass "Haha. Les massages durent une heure. Nous vous demandons de vous détendre et d'essayer de vous comporter comme si nous n'étions pas là."
+    lmass "Afternoon gentleman, hope you're all relaxing well and ready for your massages?"
 
-# game/v12/scene33.rpy:301
-translate francais v12s33_fca8dc97:
+    scene v12s33_13
+    with dissolve
 
-    # imre "Nah, I wanna know you're here."
-    imre "Non, j'veux être sûr qu'vous êtes là."
+    imre "Oh yeah! You with the sexy voice, you can do my massage."
 
-# game/v12/scene33.rpy:305
-translate francais v12s33_a4c4eb2c:
+    scene v12s33_14
+    with dissolve
 
-    # lmass "You can have him."
-    lmass "Vous pouvez le prendre."
+    lee "*Sighs* So embarrassing."
 
-# game/v12/scene33.rpy:309
-translate francais v12s33_b4d3b086:
+    scene v12s33_18 # TPP close up of female masseuse, mouth open, neutral expression
+    with dissolve
 
-    # imre "Damn girl, you got some strong ass hands... Ohhhh yeahhhh..."
-    imre "Bordel de merde, t'as d'sacrées mains baladeuses... Ohhhh ouaiiiiis..."
+    lmass "Haha. Massages last one hour hour. We ask that you relax and attempt to behave as if we aren't even here."
 
-# game/v12/scene33.rpy:314
-translate francais v12s33_b5ffc49a:
+    scene v12s33_13
+    with dissolve
 
-    # lee "*Laughs* I needed that today."
-    lee "*Rire* J'avais besoin de ça aujourd'hui."
+    imre "Nah, I wanna know you're here."
 
-# game/v12/scene33.rpy:319
-translate francais v12s33_f2bcea62:
+    scene v12s33_18a # same as 18, female masseus looking at male masseuse (off-screen), cheeky smile, pointing at Imre (off-screen) mouth open
+    with dissolve
+    lmass "You can have him."
 
-    # imre "I wonder what's going on in the sauna right now."
-    imre "Je m'demande c'qui s'passe dans l'sauna en ce moment."
+    scene v12s33_19 # shows Male masseuse, massaging Imre's lower back
+    with dissolve
+    imre "Damn girl, you got some strong ass hands... Ohhhh yeahhhh..."
 
-# game/v12/scene33.rpy:324
-translate francais v12s33_68fde7d3:
 
-    # u "Probably a lot of sweating. *Chuckles*"
-    u "Probablement beaucoup de transpiration. *Rire*"
+    scene v12s33_14a # same as 14, but mr Lee's head looking at Imre (off screen), laughing mouth open
+    with dissolve
+    lee "*Laughs* I needed that today."
 
-# game/v12/scene33.rpy:329
-translate francais v12s33_e6eda243:
+    scene v12s33_13
+    with dissolve
 
-    # imre "How hot does it get in there?"
-    imre "Il fait chaud là-dedans ?"
+    imre "I wonder what's going on in the sauna right now."
 
-# game/v12/scene33.rpy:334
-translate francais v12s33_91c22356:
+    scene v12s33_16
+    with dissolve
 
-    # u "Uhh, like... Over a hundred degrees, I know that much."
-    u "Euhh, genre... Plus de cent degrés, je sais que c'est beaucoup."
+    u "Probably a lot of sweating. *Chuckles*"
 
-# game/v12/scene33.rpy:339
-translate francais v12s33_8d0c10ba:
+    scene v12s33_13
+    with dissolve
 
-    # imre "Shit, that sounds kinda nice... I bet the girls are all sweaty in there. I may have to stop by... *Chuckles*"
-    imre "Merde, ça a l'air plutôt cool... J'parie qu'les filles sont toutes en sueur là-dedans. J'vais peut-être devoir aller les voir... *rire*"
+    imre "How hot does it get in there?"
 
-# game/v12/scene33.rpy:344
-translate francais v12s33_f1cbfacf:
+    scene v12s33_16
+    with dissolve
 
-    # lee "That kink in your back must be affecting your brain."
-    lee "Cette raideur dans votre dos doit affecter votre cerveau."
+    u "Uhh, like... Over a hundred degrees, I know that much."
 
-# game/v12/scene33.rpy:349
-translate francais v12s33_cb1c14e9:
+    scene v12s33_13
+    with dissolve
 
-    # lmass "Oh, you have a kink?"
-    lmass "Oh, vous avez une raideur dans le dos ?"
+    imre "Shit, that sounds kinda nice... I bet the girls are all sweaty in there. I may have to stop by... *Chuckles*"
 
-# game/v12/scene33.rpy:351
-translate francais v12s33_ee3e5096:
+    scene v12s33_14
+    with dissolve
 
-    # imre "Not that I-"
-    imre "Non j'ai p-"
+    lee "That kink in your back must be affecting your brain."
 
-# game/v12/scene33.rpy:357
-translate francais v12s33_41fd3db0:
+    scene v12s33_13
+    with dissolve
 
-    # "*Crack*"
+    lmass "Oh, you have a kink?"
+
+    imre "Not that I-"
+
+    scene v12s33_19a # same as 19, the man masseuse cracks Imre's back hard with his elbow-
+    with dissolve
+    play sound "sounds/hs.mp3"
+
     "*Crack*"
 
-# game/v12/scene33.rpy:362
-translate francais v12s33_af4e5c6b:
+    scene v12s33_13
+    with dissolve
 
-    # imre "DAMN, GIRL!"
-    imre "PUTAIN, MEUF !"
+    imre "DAMN, GIRL!"
 
-# game/v12/scene33.rpy:367
-translate francais v12s33_07c7b99f:
+    scene v12s33_13a # same as 13, Imre looks up at the man massaging his back (off-screen), mouth open, surprised, upset
+    with dissolve
 
-    # imre "Oh shit, you're an ugly girl!"
-    imre "Oh merde, t'es une fille très laide !"
+    imre "Oh shit, you're an ugly girl!"
 
-# game/v12/scene33.rpy:372
-translate francais v12s33_fcc18885:
+    scene v12s33_16
+    with dissolve
 
-    # u "*Laughs*"
-    u "*Rire*"
+    u "*Laughs*"
 
-# game/v12/scene33.rpy:377
-translate francais v12s33_636a0944:
+    scene v12s33_20 # same angle as 13,14,15,16, for Ryan 
+    with dissolve
 
-    # ry "*Laughs*"
-    ry "*Rire*"
+    ry "*Laughs*"
 
-# game/v12/scene33.rpy:382
-translate francais v12s33_735dab25:
+    scene v12s33_14
+    with dissolve
 
-    # lee "*Laughs*"
-    lee "*Rire*"
+    lee "*Laughs*"
 
-# game/v12/scene33.rpy:387
-translate francais v12s33_c2cfc876:
+    scene v12s33_13b # same as 13a, mouth closed
+    with dissolve
 
-    # mmass "*Deep voice* Please, lie back down."
-    mmass "*Voix grave* S'il vous plaît, rallongez-vous."
+    mmass "*Deep voice* Please, lie back down."
 
-# game/v12/scene33.rpy:392
-translate francais v12s33_f39ff2a7:
+    scene v12s33_13a
+    with dissolve
 
-    # imre "Hell no, you are not a woman! Sorry man, ladies only over here. Move on to someone else, pal."
-    imre "Putain non, t'es pas une femme ! Désolé mec, c'est réservé aux femmes ici. Passez à quelqu'un d'autre, vieux."
+    imre "Hell no, you are not a woman! Sorry man, ladies only over here. Move on to someone else, pal."
 
-# game/v12/scene33.rpy:397
-translate francais v12s33_3f529807:
+    scene v12s33_13b
+    with dissolve
 
-    # mmass "*Sighs*"
-    mmass "*Soupirs*"
+    mmass "*Sighs*"
 
-# game/v12/scene33.rpy:402
-translate francais v12s33_53844155:
+    scene v12s33_21 # the male masseuse starts on mr lee's lower back
+    with dissolve
 
-    # imre "Unbelievable. Next time I feel some hands on me they better be female..."
-    imre "Incroyable. La prochaine fois que j'sentirai des mains sur moi, il vaudrait mieux qu'ce soit celles d'une femme..."
+    imre "Unbelievable. Next time I feel some hands on me they better be female..."
 
-# game/v12/scene33.rpy:404
-translate francais v12s33_8529a77a:
+    lee "Good heavens!"
 
-    # lee "Good heavens!"
-    lee "Oh, c'est pas vrai !"
+    scene v12s33_13
+    with dissolve
 
-# game/v12/scene33.rpy:409
-translate francais v12s33_186dd63b:
+    imre "What's wrong, Mr. Lee? Can't handle it?"
 
-    # imre "What's wrong, Mr. Lee? Can't handle it?"
-    imre "Qu'est-ce qui va pas, Mr Lee ? Vous pouvez pas l'supporter ?"
+    scene v12s33_14
+    with dissolve
 
-# game/v12/scene33.rpy:414
-translate francais v12s33_ae252ebb:
+    lee "I most certainly-"
 
-    # lee "I most certainly-"
-    lee "Je suis très certainement..."
+    scene v12s33_21a # same as 21, the man masseuse cracks Mr. Lee's back hard with his elbow just as he did Imre-
+    with dissolve
+    play sound "sounds/hs.mp3"
 
-# game/v12/scene33.rpy:420
-translate francais v12s33_41fd3db0_1:
-
-    # "*Crack*"
     "*Crack*"
 
-# game/v12/scene33.rpy:422
-translate francais v12s33_4c825fcb:
+    lee "OH, BUDDHA AND ALL THAT'S GOOD! Please... don't push so hard."
 
-    # lee "OH, BUDDHA AND ALL THAT'S GOOD! Please... don't push so hard."
-    lee "OH, BUDDHA ET TOUT CE QUI EST BON ! S'il vous plaît... ne forcez pas autant."
+    mmass "Sir, you have a serious knot."
 
-# game/v12/scene33.rpy:424
-translate francais v12s33_e206ff1e:
+    scene v12s33_14
+    with dissolve
 
-    # mmass "Sir, you have a serious knot."
-    mmass "Monsieur, vous avez un nœud sérieux."
+    lee "I'm also a lot older, friend. Could you please approach me a little more carefully?"
 
-# game/v12/scene33.rpy:429
-translate francais v12s33_1719932e:
+    scene v12s33_20
+    with dissolve
 
-    # lee "I'm also a lot older, friend. Could you please approach me a little more carefully?"
-    lee "Je suis aussi beaucoup plus vieux, mon ami. Pourriez-vous s'il vous plaît me traiter un peu plus prudemment ?"
+    ry "Kinda sounding like a wuss over there, Mr. Lee."
 
-# game/v12/scene33.rpy:434
-translate francais v12s33_135000aa:
+    scene v12s33_14
+    with dissolve
 
-    # ry "Kinda sounding like a wuss over there, Mr. Lee."
-    ry "Vous avez l'air d'une mauviette, Mr Lee."
+    lee "You'll understand when you're my age."
 
-# game/v12/scene33.rpy:439
-translate francais v12s33_dd85dc5c:
+    scene v12s33_21b #same as 21 # -the man masseuse cracks Mr. Lee's neck in one direction-
+    with dissolve
+    play sound "sounds/js.mp3"
 
-    # lee "You'll understand when you're my age."
-    lee "Vous comprendrez quand vous aurez mon âge."
-
-# game/v12/scene33.rpy:445
-translate francais v12s33_41fd3db0_2:
-
-    # "*Crack*"
     "*Crack*"
 
-# game/v12/scene33.rpy:447
-translate francais v12s33_ade54d38:
+    lee "AGH! Oh... Oh no, I can't move my neck."
 
-    # lee "AGH! Oh... Oh no, I can't move my neck."
-    lee "AGH ! Oh... Oh non, je ne peux pas bouger mon cou."
+    mmass "Allow me to finish, sir."
 
-# game/v12/scene33.rpy:449
-translate francais v12s33_b475d6ad:
-
-    # mmass "Allow me to finish, sir."
-    mmass "Laissez-moi finir, monsieur."
-
-# game/v12/scene33.rpy:455
-translate francais v12s33_41fd3db0_3:
-
-    # "*Crack*"
+    scene v12s33_21c #  same as 21b, He snaps Mr. Lee's neck again in the opposite direction-
+    with dissolve
+    
+    play sound "sounds/hs.mp3"
     "*Crack*"
 
-# game/v12/scene33.rpy:457
-translate francais v12s33_df0f045b:
+    lee "HOOO! Oh wow, that feels... amazing!"
 
-    # lee "HOOO! Oh wow, that feels... amazing!"
-    lee "HOOO ! Oh waouh, c'est... incroyable !"
+    mmass "One must trust the process."
 
-# game/v12/scene33.rpy:459
-translate francais v12s33_4ba0af1a:
+    lee "I feel ten years younger."
 
-    # mmass "One must trust the process."
-    mmass "Il faut faire confiance au processus."
+    scene v12s33_13
+    with dissolve
 
-# game/v12/scene33.rpy:461
-translate francais v12s33_a82378e4:
+    imre "You don't look it... *Laughs*"
 
-    # lee "I feel ten years younger."
-    lee "Je me sens rajeuni de dix ans."
+    scene v12s33_14
+    with dissolve
 
-# game/v12/scene33.rpy:466
-translate francais v12s33_bda7ff4f:
+    lee "One of these days Imre, one of these days. You won't always be my student, you know?"
 
-    # imre "You don't look it... *Laughs*"
-    imre "Vous en avez pas l'air... *Rire*"
+    scene v12s33_13
+    with dissolve
 
-# game/v12/scene33.rpy:471
-translate francais v12s33_c043254e:
+    imre "I'll be waiting."
 
-    # lee "One of these days Imre, one of these days. You won't always be my student, you know?"
-    lee "Un de ces jours, Imre, un de ces jours. Vous ne serez pas toujours mon étudiant, vous savez ?"
+    scene v12s33_16
+    with dissolve
 
-# game/v12/scene33.rpy:476
-translate francais v12s33_5b1bf896:
+    u "Well shit, it's getting hotter here than the sauna..."
 
-    # imre "I'll be waiting."
-    imre "J'vais attendre."
+    scene v12s33_20
+    with dissolve
 
-# game/v12/scene33.rpy:481
-translate francais v12s33_f80442e6:
+    ry "That was corny, bro."
 
-    # u "Well shit, it's getting hotter here than the sauna..."
-    u "Eh bien merde, il fait plus chaud ici que dans un sauna..."
+    scene v12s33_16
+    with dissolve
 
-# game/v12/scene33.rpy:486
-translate francais v12s33_4da31382:
+    u "Your face is corny."
 
-    # ry "That was corny, bro."
-    ry "C'était ringard, mon frère."
+    scene v12s33_22 # TPP close up of female masseuse looking down massaging someone (don't show their body), laughing smile, mouth open
+    with dissolve
 
-# game/v12/scene33.rpy:491
-translate francais v12s33_20c40c7f:
+    lmass "*Chuckles* You guys are the most exciting bunch we've had."
 
-    # u "Your face is corny."
-    u "C'est ta gueule qui est ringarde."
+    scene v12s33_13
+    with dissolve
 
-# game/v12/scene33.rpy:496
-translate francais v12s33_aaf9b05b:
+    imre "I can make it even more exciting if you come over here."
 
-    # lmass "*Chuckles* You guys are the most exciting bunch we've had."
-    lmass "*Rire* Vous êtes le groupe le plus amusant que nous ayons eu."
+    scene v12s33_22
+    with dissolve
 
-# game/v12/scene33.rpy:501
-translate francais v12s33_a5a792a5:
+    lmass "Haha, right... I'd love to, but I need to finish off with your friend."
 
-    # imre "I can make it even more exciting if you come over here."
-    imre "J'peux rendre ça encore plus amusant si vous venez par ici."
+    scene v12s33_13
+    with dissolve
 
-# game/v12/scene33.rpy:506
-translate francais v12s33_e2f95e62:
+    imre "Damn, so you'll finish him off, but won't even start with me? That's harsh, baby."
 
-    # lmass "Haha, right... I'd love to, but I need to finish off with your friend."
-    lmass "Haha, c'est vrai... J'aimerais bien, mais je dois finir avec votre ami."
+    scene v12s33_22
+    with dissolve
 
-# game/v12/scene33.rpy:511
-translate francais v12s33_357d3fe3:
+    lmass "And so is your hairline."
 
-    # imre "Damn, so you'll finish him off, but won't even start with me? That's harsh, baby."
-    imre "Merde, donc vous allez l'finir, mais vous voulez même pas démarrer avec moi ? C'est dur, bébé."
+    scene v12s33_20
+    with dissolve
 
-# game/v12/scene33.rpy:516
-translate francais v12s33_2529b281:
+    ry "Fucking rolled dude! *Laughs*"
 
-    # lmass "And so is your hairline."
-    lmass "Et la racine de vos cheveux également."
+    scene v12s33_16
+    with dissolve
 
-# game/v12/scene33.rpy:521
-translate francais v12s33_d6cca808:
+    u "*Laughs* Oh shit... Haha!"
 
-    # ry "Fucking rolled dude! *Laughs*"
-    ry "Putain de mec rouillé ! *Rire*"
+    scene v12s33_15
+    with dissolve
 
-# game/v12/scene33.rpy:526
-translate francais v12s33_0b015a77:
+    ch "*Chuckles*"
 
-    # u "*Laughs* Oh shit... Haha!"
-    u "*Rire* Oh merde... Haha !"
+    scene v12s33_13
+    with dissolve
 
-# game/v12/scene33.rpy:531
-translate francais v12s33_939035f8:
+    imre "Not cool mommas, not cool."
 
-    # ch "*Chuckles*"
-    ch "*Rire*"
+    scene v12s33_23 # TPP # -the lady masseuse starts massaging MC's lower back-
+    with dissolve
 
-# game/v12/scene33.rpy:536
-translate francais v12s33_6b71eb88:
+    lmass "Any tense areas?"
 
-    # imre "Not cool mommas, not cool."
-    imre "Pas cool les filles, pas cool."
+    scene v12s33_16
+    with dissolve
 
-# game/v12/scene33.rpy:541
-translate francais v12s33_4930d287:
+    u "Uhm... not sure. Neck I guess?"
 
-    # lmass "Any tense areas?"
-    lmass "Des zones tendues ?"
+    lmass "Alright, I'll make sure to get to it in a bit."
 
-# game/v12/scene33.rpy:546
-translate francais v12s33_b8cc05d5:
+    scene v12s33_24 # shows close up of clock at 15:45
+    with dissolve
 
-    # u "Uhm... not sure. Neck I guess?"
-    u "hum... pas sûr. Le cou, je pense ?"
+    pause 0.75
 
-# game/v12/scene33.rpy:548
-translate francais v12s33_b23e7e60:
+    hide screen v12s33_sneak_off_overlay
 
-    # lmass "Alright, I'll make sure to get to it in a bit."
-    lmass "D'accord, je vais faire en sorte de m'en occuper dans un moment."
+    scene v12s33_24a # same as 24, clock now at 16:00
+    with dissolve
 
-# game/v12/scene33.rpy:565
-translate francais v12s33_64d70bff:
+    pause 0.75
 
-    # lmass "Alright gentlemen, it is time for you to swap with the ladies."
-    lmass "Très bien messieurs, il est temps pour vous d'échanger avec les dames."
+    scene v12s33_22
+    with dissolve
 
-# game/v12/scene33.rpy:570
-translate francais v12s33_732fe03a:
+    lmass "Alright gentlemen, it is time for you to swap with the ladies."
 
-    # imre "*Sighs* Shame."
-    imre "*Soupirs* Dommage."
+    scene v12s33_13
+    with dissolve
 
-# game/v12/scene33.rpy:582
-translate francais v12s33_sneak_off1_9a480a1c:
+    imre "*Sighs* Shame."
 
-    # u "Sorry guys, I suddenly really gotta poop..."
-    u "Désolé les gars, j'ai une soudaine envie de chier..."
+    jump v12s33_sauna
 
-# game/v12/scene33.rpy:587
-translate francais v12s33_sneak_off1_8dc58587:
+label v12s33_sneak_off1: # -If Mc presses the Sneak Off button during the massage
+    hide screen v12s33_sneak_off_overlay
 
-    # imre "*Laughs* Gross dude! You don't need to announce it."
-    imre "*Rire* Dégueu, mec ! T'as pas besoin de l'annoncer."
+    $ v12_sauna_sneak1 = True
 
-# game/v12/scene33.rpy:592
-translate francais v12s33_sneak_off1_636a0944:
+    scene v12s33_16
+    with dissolve
 
-    # ry "*Laughs*"
-    ry "*Rire*"
+    u "Sorry guys, I suddenly really gotta poop..."
 
-# game/v12/scene33.rpy:597
-translate francais v12s33_sneak_off1_9ad7bbe6:
+    scene v12s33_13
+    with dissolve
 
-    # lee "Please, [name], just go."
-    lee "S'il vous plaît, [name], allez-y simplement."
+    imre "*Laughs* Gross dude! You don't need to announce it."
 
-# game/v12/scene33.rpy:619
-translate francais v12s33_door1_cf80f10c:
+    scene v12s33_20
+    with dissolve
 
-    # u "*Whistles*"
-    u "*Siffle*"
+    ry "*Laughs*"
 
-# game/v12/scene33.rpy:627
-translate francais v12s33_door1_a0c28b60:
+    scene v12s33_14
+    with dissolve
 
-    # ro "Ladies only, [name]!"
-    ro "Seulement les dames, [name] !"
+    lee "Please, [name], just go."
 
-# game/v12/scene33.rpy:632
-translate francais v12s33_door1_ad8235a7:
+    scene v12s33_26 # TPP shows mc walking off away from the massage tables (towards the saunas)
+    with dissolve
 
-    # u "Oh sorry, my bad. I was looking for the restroom."
-    u "Oh désolé, c'est ma faute. Je cherchais les toilettes."
+    pause 0.75
 
-# game/v12/scene33.rpy:646
-translate francais v12s33_door1_64d70bff:
+    stop music fadeout 3
+    play music "music/v12/Track Scene 33_4.mp3" fadein 2
 
-    # lmass "Alright gentlemen, it is time for you to swap with the ladies."
-    lmass "Très bien messieurs, il est temps pour vous d'échanger avec les dames."
+    if len(v12_saunadoors) == 3:
+        jump v12s33_sauna
 
-# game/v12/scene33.rpy:673
-translate francais v12s33_door2_d258a84a:
+    call screen v12s33_three_doors
 
-    # u "Heyah, hope you don't mind me coming in."
-    u "Hey, j'espère que ça ne vous dérange pas que j'entre."
+label v12s33_door1:
 
-# game/v12/scene33.rpy:678
-translate francais v12s33_door2_876c60a0:
+    $ v12_saunadoors.add("door1")
 
-    # au "I win! *Laughs*"
-    au "J'ai gagné ! *Rire*"
+    scene v12s33_27 # -FPP Ms. Rose, Lauren, Nora, and Riley sitting in the Sauna, all in towels, none of them looking at him, ideally show them sweating if possible-
+    #with dissolve 
 
-# game/v12/scene33.rpy:683
-translate francais v12s33_door2_7b77d28a:
+    u "*Whistles*"
 
-    # cl "[name]! *Sighs* Why? *Chuckles*"
-    cl "[name] ! *Soupirs* Pourquoi toi ? *Rire*"
+    stop music fadeout 3
+    play music "music/v12/Track Scene 33_5.mp3" fadein 2
 
-# game/v12/scene33.rpy:688
-translate francais v12s33_door2_ef2f1671:
+    scene v12s33_27a # now all looking at him, ms rose mouth open, suspicious look
+    with dissolve
 
-    # u "What?"
-    u "Quoi ?"
+    ro "Ladies only, [name]!"
 
-# game/v12/scene33.rpy:693
-translate francais v12s33_door2_3332ee10:
+    scene v12s33_27b # same as 27a, ms rose mouth closed
+    with dissolve
 
-    # au "Haha, we bet which boy would sneak off and try to come sit with us girls. I said you and Chloe said Imre."
-    au "Haha, on a parié sur le garçon qui se faufilerait et essaierait de s'asseoir avec nous les filles. J'ai dit toi et Chloé a dit Imre."
+    u "Oh sorry, my bad. I was looking for the restroom."
 
-# game/v12/scene33.rpy:698
-translate francais v12s33_door2_a4992e48:
+    stop music fadeout 3
+    play music "music/v12/Track Scene 33_4.mp3" fadein 2
 
-    # u "Haha! Well, trust me. He wanted to, but Mr. Lee has him on lock and key."
-    u "Haha ! Eh bien, croyez-moi. Il voulait venir, mais Mr Lee l'a enfermé à double tour."
+    if len(v12_saunadoors) == 3:
+        scene v12s33_24a # same as 24, clock now at 16:00
+        with fade
 
-# game/v12/scene33.rpy:703
-translate francais v12s33_door2_7db76f56:
+        pause 0.75
 
-    # cl "Didn't even consider Mr. Lee."
-    cl "Je n'ai même pas pensé à Mr Lee."
+        scene v12s33_18
+        with dissolve
 
-# game/v12/scene33.rpy:708
-translate francais v12s33_door2_85b33281:
+        lmass "Alright gentlemen, it is time for you to swap with the ladies."
 
-    # u "Sheesh... You guys are sweating pretty bad!"
-    u "Pfiou... Vous transpirez beaucoup les filles !"
+        jump v12s33_sauna
+    else:
+        call screen v12s33_three_doors
 
-# game/v12/scene33.rpy:713
-translate francais v12s33_door2_6b65d388:
+# -MC leaves and is back at the free roam room-
 
-    # au "Haha, it's hot in here."
-    au "Haha, il fait chaud ici."
+# -if door 2
 
-# game/v12/scene33.rpy:720
-translate francais v12s33_door2_c973e09b:
+# -MC enters and sees Chloe, Aubrey, and Sam if present-
+# -MC sits next to Chloe-
 
-    # sa "Umm, [name]?"
-    sa "Hum, [name] ?"
+    label v12s33_door2:
 
-# game/v12/scene33.rpy:725
-translate francais v12s33_door2_6bcd435f:
+    $ v12_saunadoors.add("door2")
 
-    # u "Yeah?"
-    u "Ouais ?"
+    if v11_invite_sam_europe:
+        scene v12s33_28a #FPP, same as 28 show Chloe and Aubrey and Samantha in Sauna (sweaty if possible), all looking at you, smiling (sit samantha at a spot where it looks natural whether she's there or not) (Chloe in towel, Aubrey naked, Samantha in towel)
+        #with dissolve
+    else:
+        scene v12s33_28 #FPP show Chloe and Aubrey in Sauna (sweaty if possible), both looking at you, smiling (Chloe in towel, Aubrey naked)
+        #with dissolve
+    
+    stop music fadeout 3
+    play music "music/v12/Track Scene 33_5.mp3" fadein 2
 
-# game/v12/scene33.rpy:730
-translate francais v12s33_door2_ef9ca4b5:
+    u "Heyah, hope you don't mind me coming in."
 
-    # sa "Sorry about the other night."
-    sa "Désolée pour l'autre soir."
+    scene v12s33_29 #FPP close up Aubrey, Looking at Chloe (off-screen), laughing smile, mouth upen
+    with dissolve
 
-# game/v12/scene33.rpy:735
-translate francais v12s33_door2_5cb726ec:
+    au "I win! *Laughs*"
 
-    # u "*Chuckles* Don't worry about it, Sam. Just be careful of how much you drink next time, yeah?"
-    u "*Rire* Ne t'inquiète pas pour ça, Sam. Fais juste attention à la quantité que tu bois la prochaine fois, ok ?"
+    scene v12s33_30 # FPP, close up Chloe, funnily disappointed, looking at mc, mouth open
+    with dissolve
 
-# game/v12/scene33.rpy:740
-translate francais v12s33_door2_05bf3e22:
+    cl "[name]! *Sighs* Why? *Chuckles*"
 
-    # cl "Oh, umm... What happened the other night?"
-    cl "Oh, humm... Que s'est-il passé l'autre nuit ?"
+    scene v12s33_30a # same as 30, mouth closed
+    with dissolve
 
-# game/v12/scene33.rpy:745
-translate francais v12s33_door2_60cf52a4:
+    u "What?"
 
-    # sa "*Sighs* I was drunk and kept bothering him with a bunch of dumb questions after I knocked on everyone's door... His was the only one open."
-    sa "*Soupirs* J'étais ivre et j'ai commencé à le harceler avec un tas de questions stupides après avoir frappé à toutes les portes... La sienne était la seule ouverte."
+    scene v12s33_29b # same as 29, aubrey looking at mc, smiling mouth open
+    with dissolve
 
-# game/v12/scene33.rpy:750
-translate francais v12s33_door2_2b38ac48:
+    au "Haha, we bet which boy would sneak off and try to come sit with us girls. I said you and Chloe said Imre."
 
-    # au "*Chuckles* Volunteered and didn't even know it."
-    au "*Rire* Bénévole et sans le savoir."
+    scene v12s33_29c # same as 29b, mouth closed
+    with dissolve
 
-# game/v12/scene33.rpy:755
-translate francais v12s33_door2_ff223546:
+    u "Haha! Well, trust me. He wanted to, but Mr. Lee has him on lock and key."
 
-    # u "Yep."
-    u "Ouaip."
+    scene v12s33_30b # same as 30, chloe smiling, mouth open
+    with dissolve
 
-# game/v12/scene33.rpy:761
-translate francais v12s33_door2_c4e4fe12:
+    cl "Didn't even consider Mr. Lee."
 
-    # u "What have you been up to in here? So far it sounds like you were talking about us guys."
-    u "Qu'est-ce que vous faites ici ? Apparemment, vous parliez de nous."
+    scene v12s33_30c # same as 30b, mouth closed
+    with dissolve
 
-# game/v12/scene33.rpy:766
-translate francais v12s33_door2_02963682:
+    u "Sheesh... You guys are sweating pretty bad!"
 
-    # cl "Is that a bad thing?"
-    cl "C'est une mauvaise chose ?"
+    scene v12s33_29b
+    with dissolve
 
-# game/v12/scene33.rpy:774
-translate francais v12s33_door2_e4e2d44d:
+    au "Haha, it's hot in here."
 
-    # u "Not at all, you can talk about me all you want. I like knowing I'm on your mind... *Chuckles*"
-    u "Pas du tout, tu peux parler de moi autant que tu veux. J'aime savoir que je suis dans ton esprit... *Rire*"
+    if v11_invite_sam_europe:
 
-# game/v12/scene33.rpy:779
-translate francais v12s33_door2_ea32ba8f:
+        scene v12s33_31 # FPP close up Sam looking at mc, apologenic expression, mouth open
+        with dissolve
 
-    # cl "Ha... Is that so?"
-    cl "Ha... C'est comme ça ?"
+        sa "Umm, [name]?"
 
-# game/v12/scene33.rpy:784
-translate francais v12s33_door2_2abd3bd7:
+        scene v12s33_31a # same as 31, mouth closed
+        with dissolve
 
-    # u "It is."
-    u "C'est vrai."
+        u "Yeah?"
 
-# game/v12/scene33.rpy:789
-translate francais v12s33_door2_f1882666:
+        scene v12s33_31
+        with dissolve
 
-    # cl "Then I guess I should be glad I lost the bet and you showed up."
-    cl "Alors je crois que je devrais être contente d'avoir perdu le pari et que tu sois venu."
+        sa "Sorry about the other night."
 
-# game/v12/scene33.rpy:794
-translate francais v12s33_door2_f783b33a:
+        scene v12s33_31a
+        with dissolve
 
-    # u "Be careful talking like that."
-    u "Fais attention quand tu parles comme ça."
+        u "*Chuckles* Don't worry about it, Sam. Just be careful of how much you drink next time, yeah?"
 
-# game/v12/scene33.rpy:799
-translate francais v12s33_door2_ce3bbff6:
+        scene v12s33_30d # same as 30, chloe looking at Sam (off-screen), mouth open, worried
+        with dissolve
 
-    # cl "I'm being as careful as I wanna be... *Chuckles*"
-    cl "Je suis aussi prudente que je veux l'être... *Rire*"
+        cl "Oh, umm... What happened the other night?"
 
-# game/v12/scene33.rpy:804
-translate francais v12s33_door2_cfe8e1a0:
+        scene v12s33_31b # same as31, sam looking at chloe (off-screen), annoyed at herself, mouth open
+        with dissolve
 
-    # u "Haha, alright... Noted."
-    u "Haha, d'accord... Noté."
+        sa "*Sighs* I was drunk and kept bothering him with a bunch of dumb questions after I knocked on everyone's door... His was the only one open."
 
-# game/v12/scene33.rpy:807
-translate francais v12s33_door2_172ac297:
+        scene v12s33_29d # same as 29b, AUbrey looking at sam, (off-screen) laughing smile, mouth open
+        with dissolve
 
-    # u "Yes, haha. Who knows what kind of crazy theories you girls may be coming up with?"
-    u "Oui, haha. Qui sait quel genre de théories folles vous allez inventer, vous les filles ?"
+        au "*Chuckles* Volunteered and didn't even know it."
 
-# game/v12/scene33.rpy:812
-translate francais v12s33_door2_e68660a1:
+        scene v12s33_29c
+        with dissolve
 
-    # cl "We're not planning anything, just talking. *Chuckles*"
-    cl "Nous ne prévoyons rien, nous parlions simplement. *Rire*"
+        u "Yep."
 
-# game/v12/scene33.rpy:817
-translate francais v12s33_door2_24c38192:
+    else:
+        scene v12s33_29c
+        with dissolve
 
-    # u "If you were planning something, would you tell me?"
-    u "Si tu prévoyais quelque chose, tu me le dirais ?"
+    u "What have you been up to in here? So far it sounds like you were talking about us guys."
 
-# game/v12/scene33.rpy:822
-translate francais v12s33_door2_2b9b9763:
+    scene v12s33_30b
+    with dissolve
 
-    # cl "*Chuckles* I mean, no. That'd mess up the plan."
-    cl "*Rire* Je pense, que non. Ça foutrait le plan en l'air."
+    cl "Is that a bad thing?"
 
-# game/v12/scene33.rpy:827
-translate francais v12s33_door2_61b2a94d:
+    scene v12s33_30c
+    with dissolve
 
-    # u "Exactly my point..."
-    u "C'est exactement ce que je veux dire..."
+    menu:
+        "Not at all":
+            $ add_point(KCT.BRO)
+            u "Not at all, you can talk about me all you want. I like knowing I'm on your mind... *Chuckles*"
 
-# game/v12/scene33.rpy:832
-translate francais v12s33_door2_a044b26e:
+            scene v12s33_30f # same as 30b, chloe flirty, mouth open
+            with dissolve
 
-    # cl "Unless you wanna end up getting caught, you may wanna get out of here. I don't think there's much time left."
-    cl "À moins que tu ne veuilles finir par te faire prendre, tu devrais partir d'ici. Je pense qu'il ne reste plus beaucoup de temps."
+            cl "Ha... Is that so?"
 
-# game/v12/scene33.rpy:837
-translate francais v12s33_door2_95238eef:
+            scene v12s33_30g # same as 30f, mouth closed
+            with dissolve
 
-    # u "You're right, see you around ladies!"
-    u "Tu as raison, à plus tard, mesdames !"
+            u "It is."
 
-# game/v12/scene33.rpy:842
-translate francais v12s33_door2_d1de2fd4:
+            scene v12s33_30f
+            with dissolve
 
-    # au "See ya, [name]."
-    au "À plus, [name]."
+            cl "Then I guess I should be glad I lost the bet and you showed up."
 
-# game/v12/scene33.rpy:847
-translate francais v12s33_door2_dad10c61:
+            scene v12s33_30g
+            with dissolve
 
-    # sa "Bye, [name]."
-    sa "Bye, [name]."
+            u "Be careful talking like that."
 
-# game/v12/scene33.rpy:861
-translate francais v12s33_door2_64d70bff:
+            scene v12s33_30f
+            with dissolve
 
-    # lmass "Alright gentlemen, it is time for you to swap with the ladies."
-    lmass "Très bien messieurs, il est temps pour vous d'échanger avec les dames."
+            cl "I'm being as careful as I wanna be... *Chuckles*"
 
-# game/v12/scene33.rpy:883
-translate francais v12s33_door3_23571802:
+            scene v12s33_30g
+            with dissolve
 
-    # u "Hey, ladies!"
-    u "Hey, mesdames !"
+            u "Haha, alright... Noted."
 
-# game/v12/scene33.rpy:892
-translate francais v12s33_door3_5b5a2f02:
+        "Yes, haha":
+            u "Yes, haha. Who knows what kind of crazy theories you girls may be coming up with?"
 
-    # pe "Hey, [name]."
-    pe "Hey, [name]."
+            scene v12s33_30b
+            with dissolve
 
-# game/v12/scene33.rpy:897
-translate francais v12s33_door3_bc37dbcf:
+            cl "We're not planning anything, just talking. *Chuckles*"
 
-    # am "You know, [name], This is why you and I get along... You're a rule breaker just like me. *Chuckles*"
-    am "Tu sais, [name], c'est pour ça que toi et moi on s'entend bien... Tu es un briseur de règles, tout comme moi. *Rire*"
+            scene v12s33_30c
+            with dissolve
 
-# game/v12/scene33.rpy:902
-translate francais v12s33_door3_de37322b:
+            u "If you were planning something, would you tell me?"
 
-    # u "Hanging with the boys was getting on my nerves a bit, thought you ladies would be more entertaining..."
-    u "Traîner avec les garçons me tapait un peu sur les nerfs, je pensais que vous seriez plus amusantes..."
+            scene v12s33_30b
+            with dissolve
 
-# game/v12/scene33.rpy:907
-translate francais v12s33_door3_8e2ed356:
+            cl "*Chuckles* I mean, no. That'd mess up the plan."
 
-    # am "Not much to do in a sauna except sweat, but Lindsey just told me some juicy details about her running for President of the Chicks."
-    am "Il n'y a pas grand chose à faire dans un sauna à part transpirer, mais Lindsey vient de me raconter des détails juteux sur sa candidature à la présidence des Chicks."
+            scene v12s33_30c
+            with dissolve
 
-# game/v12/scene33.rpy:912
-translate francais v12s33_door3_331db3f4:
+            u "Exactly my point..."
 
-    # u "Ooooh... Yeah, I know all about that."
-    u "Ooooh... Ouais, je sais tout ça."
+    scene v12s33_30b
+    with dissolve
 
-# game/v12/scene33.rpy:917
-translate francais v12s33_door3_9f7d4eec:
+    cl "Unless you wanna end up getting caught, you may wanna get out of here. I don't think there's much time left."
 
-    # am "Did you know most of the Chicks back at campus have already promised to vote for her?"
-    am "Tu sais que la plupart des Chicks du campus ont déjà promis de voter pour elle ?"
+    scene v12s33_30c
+    with dissolve
 
-# game/v12/scene33.rpy:922
-translate francais v12s33_door3_8460c480:
+    u "You're right, see you around ladies!"
 
-    # u "Wow, Lindsey... Really?"
-    u "Wow, Lindsey... C'est vrai ?"
+    scene v12s33_29b
+    with dissolve
 
-# game/v12/scene33.rpy:927
-translate francais v12s33_door3_96e84983:
+    au "See ya, [name]."
 
-    # li "Ha... Yeah, one of the girls has been doing some polling for me."
-    li "Ha... Ouais, une des filles a fait quelques sondages pour moi."
+    if v11_invite_sam_europe:
+        scene v12s33_31
+        with dissolve
+        sa "Bye, [name]."
 
-# game/v12/scene33.rpy:929
-translate francais v12s33_door3_ed62d2e7:
+    stop music fadeout 3
+    play music "music/v12/Track Scene 33_4.mp3" fadein 2
 
-    # li "Some girls are still on the fence, but it's looking really good for me so far."
-    li "Certaines filles sont encore hésitantes, mais pour l'instant, ça se présente très bien pour moi."
+    if len(v12_saunadoors) == 3:
+        scene v12s33_24a # same as 24, clock now at 16:00
+        with fade
 
-# game/v12/scene33.rpy:934
-translate francais v12s33_door3_0bb62963:
+        pause 0.75
 
-    # am "You already know how Nora's voting, so Aubrey's your wildcard. Her and Chloe are close and all, but I know that even she wants to see some changes."
-    am "Tu connais déjà le vote de Nora, alors Aubrey est ton joker. Elle et Chloé sont proches et tout, mais je sais que même elle veut voir des changements."
+        scene v12s33_18
+        with dissolve
 
-# game/v12/scene33.rpy:939
-translate francais v12s33_door3_cd979f1f:
+        lmass "Alright gentlemen, it is time for you to swap with the ladies."
 
-    # li "I think when things start unfolding, we're gonna start seeing a more serious side of Aubrey."
-    li "Je pense que quand les choses vont commencer à se développer, on va commencer à voir un côté plus sérieux d'Aubrey."
+        jump v12s33_sauna
+    else:
+        call screen v12s33_three_doors
+        
+# -MC leaves and is back in the free roam area-
 
-# game/v12/scene33.rpy:940
-translate francais v12s33_door3_60a61bf9:
+# -if door 3
+# -MC walks in and sees Amber, Lindsey and Penelope if present, then takes a seat-
 
-    # li "She's pretty laid back, but she does really care about things when it comes to the Chicks."
-    li "Elle est plutôt décontractée, mais elle s'intéresse vraiment aux choses quand il s'agit des Chicks."
+    label v12s33_door3:
+    
+    $ v12_saunadoors.add("door3")
 
-# game/v12/scene33.rpy:945
-translate francais v12s33_door3_a744aeaf:
+    if v11_pen_goes_europe:
+        scene v12s33_32 #FPP, show Amber, Lindsey and Penelope in Sauna (sweaty if possible), all looking at you, smiling, position Penelope so it doesn't look weird if she's there or not, Lindsey naked, Amber naked, Penelope in towel
+        #with dissolve
+    else:
+        scene v12s33_32a #FPP same as 32 without Penelope
+        #with dissolve
 
-    # u "Well, I just wish you guys the best. I want nothing but good for everyone, however that may look in the end."
-    u "Eh bien, je te souhaite juste le meilleur. Je ne veux que du bien pour tout le monde, peu importe comment ça se termine."
+    u "Hey, ladies!"
 
-# game/v12/scene33.rpy:950
-translate francais v12s33_door3_b14058a1:
+    stop music fadeout 3
+    play music "music/v12/Track Scene 33_5.mp3" fadein 2
 
-    # am "Nah, I wanna see some drama! *Chuckles*"
-    am "Nan, je veux voir du drame ! *Rire*"
+    if v11_pen_goes_europe:
+        scene v12s33_33 # FPP,close up Penelope, smiling, mouth open, looking at mc
+        with dissolve
+  
+        pe "Hey, [name]."
 
-# game/v12/scene33.rpy:955
-translate francais v12s33_door3_6f7f3e7a:
+    scene v12s33_34 # FPP close up Amber, cheeky smile, mouth open, looking at mc
+    with dissolve
 
-    # li "Amber! *Chuckles*"
-    li "Amber ! *Rire*"
+    am "You know, [name], This is why you and I get along... You're a rule breaker just like me. *Chuckles*"
 
-# game/v12/scene33.rpy:960
-translate francais v12s33_door3_ada1c816:
+    scene v12s33_34a # same as 34, mouth closed
+    with dissolve
 
-    # am "*Laughs* What? I'm just being honest... I still want everything to work out in the end, but there's no reason I can't get a good show along the way."
-    am "*Rire* Quoi ? Je suis honnête... Je veux toujours que tout s'arrange à la fin, mais il n'y a aucune raison que je ne puisse pas avoir un bon spectacle en cours de route."
+    u "Hanging with the boys was getting on my nerves a bit, thought you ladies would be more entertaining..."
 
-# game/v12/scene33.rpy:965
-translate francais v12s33_door3_c76a2678:
+    scene v12s33_34
+    with dissolve
 
-    # li "You're terrible..."
-    li "Tu es terrible..."
+    am "Not much to do in a sauna except sweat, but Lindsey just told me some juicy details about her running for President of the Chicks."
 
-# game/v12/scene33.rpy:970
-translate francais v12s33_door3_10817abc:
+    scene v12s33_34a
+    with dissolve
 
-    # am "Haha... Guilty."
-    am "Haha... Coupable."
+    u "Ooooh... Yeah, I know all about that."
 
-# game/v12/scene33.rpy:975
-translate francais v12s33_door3_0c48ea59:
+    scene v12s33_34
+    with dissolve
 
-    # u "*Chuckles* You guys are something else."
-    u "*Rire* Tu es vraiment différente."
+    am "Did you know most of the Chicks back at campus have already promised to vote for her?"
 
-# game/v12/scene33.rpy:980
-translate francais v12s33_door3_69548c62:
+    scene v12s33_35a #FPP close up, lindsey, looking at mc, genuine smile, mouth closed
+    with dissolve
 
-    # li "[name], you may wanna step out before you get caught. *Chuckles*"
-    li "[name], tu devrais sortir avant de te faire prendre. *Rire*"
+    u "Wow, Lindsey... Really?"
 
-# game/v12/scene33.rpy:985
-translate francais v12s33_door3_409dd2e7:
+    scene v12s33_35 # same as 35a, mouth open
+    with dissolve
 
-    # u "*Shocked* You're kicking me out? Am I that boring you? Wow..."
-    u "*Choqué* Tu me mets à la porte ? Est-ce que je t'ennuie à ce point ? Ouah..."
+    li "Ha... Yeah, one of the girls has been doing some polling for me."
 
-# game/v12/scene33.rpy:990
-translate francais v12s33_door3_2f031b7f:
+    li "Some girls are still on the fence, but it's looking really good for me so far."
 
-    # li "No, I was just saying-"
-    li "Non, je disais juste-"
+    scene v12s33_34b # same as 34, amber thinking, mouth open, looking at lindsey (off-screen)
+    with dissolve
 
-# game/v12/scene33.rpy:995
-translate francais v12s33_door3_ec1da567:
+    am "You already know how Nora's voting, so Aubrey's your wildcard. Her and Chloe are close and all, but I know that even she wants to see some changes."
 
-    # u "*Laughs* I'm just messing with you. You're right though, I'll catch you guys later."
-    u "*Rire* Je me fous de toi. Tu as raison, je vous verrai plus tard."
+    scene v12s33_35b # same as 35, lindsey looking at Amber (off-screen) neutral expression, mouth open
+    with dissolve
 
-# game/v12/scene33.rpy:1000
-translate francais v12s33_door3_6e94d2fc:
+    li "I think when things start unfolding, we're gonna start seeing a more serious side of Aubrey."
+    li "She's pretty laid back, but she does really care about things when it comes to the Chicks."
 
-    # am "Later."
-    am "À plus."
+    scene v12s33_35c #same as 35b, mouth closed
+    with dissolve
 
-# game/v12/scene33.rpy:1006
-translate francais v12s33_door3_5a4b32a1:
+    u "Well, I just wish you guys the best. I want nothing but good for everyone, however that may look in the end."
 
-    # pe "Bye, [name]!"
-    pe "Bye, [name] !"
+    scene v12s33_34
+    with dissolve
 
-# game/v12/scene33.rpy:1020
-translate francais v12s33_door3_64d70bff:
+    am "Nah, I wanna see some drama! *Chuckles*"
 
-    # lmass "Alright gentlemen, it is time for you to swap with the ladies."
-    lmass "Très bien messieurs, il est temps pour vous d'échanger avec les dames."
+    scene v12s33_35d # same as 35b, lindsey laughing, looking at amber, mouth open
+    with dissolve
 
-# game/v12/scene33.rpy:1031
-translate francais v12s33_three_doors_back_f1075c56:
+    li "Amber! *Chuckles*"
 
-    # ry "Fuck's sake... Took you long enough."
-    ry "Bordel de merde... t'en as mis du temps."
+    scene v12s33_34d # same 34b, amber cheeky smile, mouth open, looking at lindsey
+    with dissolve
 
-# game/v12/scene33.rpy:1033
-translate francais v12s33_three_doors_back_b7b39f60:
+    am "*Laughs* What? I'm just being honest... I still want everything to work out in the end, but there's no reason I can't get a good show along the way."
 
-    # u "It's not my fault you don't take man shits like I do. *Laughs*"
-    u "Ce n'est pas ma faute si tu ne chies pas comme un mec comme moi. *Rire*"
+    scene v12s33_35d
+    with dissolve
 
-# game/v12/scene33.rpy:1035
-translate francais v12s33_three_doors_back_1cf224fa:
+    li "You're terrible..."
 
-    # u "I'm just glad I made it back in time for my massage..."
-    u "Je suis en tout cas, content d'être revenu à temps pour mon massage..."
+    scene v12s33_34d
+    with dissolve
 
-# game/v12/scene33.rpy:1040
-translate francais v12s33_three_doors_back_92df12a4:
+    am "Haha... Guilty."
 
-    # lmass "Actually, we need to switch with the ladies at this time."
-    lmass "Il est temps d'échanger avec les femmes."
+    scene v12s33_34e # same as 34d, mouth closed
+    with dissolve
 
-# game/v12/scene33.rpy:1042
-translate francais v12s33_three_doors_back_fecdd0f1:
+    u "*Chuckles* You guys are something else."
 
-    # u "Damnit."
-    u "Merde."
+    scene v12s33_35
+    with dissolve
 
-# game/v12/scene33.rpy:1047
-translate francais v12s33_three_doors_back_4d0230c9:
+    li "[name], you may wanna step out before you get caught. *Chuckles*"
 
-    # imre "Next time [name], but thank you. I got a nice massage from the hotshot while you were gone, and let me just say... Those hands are silky smooth."
-    imre "La prochaine fois [name], mais merci. J'ai eu un bon massage par la bombe pendant que t'étais parti, et laisse moi te dire... Ces mains sont douces comme d'la soie."
+    scene v12s33_35a
+    with dissolve
 
-# game/v12/scene33.rpy:1049
-translate francais v12s33_three_doors_back_287f0e2a:
+    u "*Shocked* You're kicking me out? Am I that boring you? Wow..."
 
-    # lmass "*Sighs*"
-    lmass "*Soupirs*"
+    scene v12s33_35
+    with dissolve
 
-# game/v12/scene33.rpy:1054
-translate francais v12s33_three_doors_back_37f343e4:
+    li "No, I was just saying-"
 
-    # lee "Let's go, students."
-    lee "Allons-y, les jeunes."
+    scene v12s33_35a
+    with dissolve
 
-# game/v12/scene33.rpy:1071
-translate francais v12s33_sauna_04f56f08:
+    u "*Laughs* I'm just messing with you. You're right though, I'll catch you guys later."
 
-    # imre "Aww, hell no! How is this supposed to be relaxing? It's hot as hell in here, dude."
-    imre "Oh, non ! Comment c'est supposé être relaxant ? Il fait aussi chaud qu'en enfer ici, mec."
+    scene v12s33_34
+    with dissolve
 
-# game/v12/scene33.rpy:1076
-translate francais v12s33_sauna_859c2252:
+    am "Later."
 
-    # ch "Just try to enjoy it, man."
-    ch "Essaie juste d'en profiter, mec."
+    if v11_pen_goes_europe:
+        scene v12s33_33
+        with dissolve
 
-# game/v12/scene33.rpy:1081
-translate francais v12s33_sauna_f9219824:
+        pe "Bye, [name]!"
+    
+    stop music fadeout 3
+    play music "music/v12/Track Scene 33_4.mp3" fadein 2
 
-    # lee "Complaining won't make it any more enjoyable, Imre. Just relax."
-    lee "Se plaindre ne rendra pas les choses plus agréables, Imre. Détendez-vous."
+    if len(v12_saunadoors) == 3:
+        scene v12s33_24a # same as 24, clock now at 16:00
+        with fade
 
-# game/v12/scene33.rpy:1086
-translate francais v12s33_sauna_c95e84ca:
+        pause 0.75
 
-    # imre "Hmm, this is kind of nice."
-    imre "Hmm, c'est plutôt agréable."
+        scene v12s33_18
+        with dissolve
 
-# game/v12/scene33.rpy:1091
-translate francais v12s33_sauna_dbc4acf9:
+        lmass "Alright gentlemen, it is time for you to swap with the ladies."
 
-    # ry "Wow..."
+        jump v12s33_sauna
+
+    else:
+        call screen v12s33_three_doors
+
+label v12s33_three_doors_back:
+    scene v12s33_20
+    with dissolve
+
+    ry "Fuck's sake... Took you long enough."
+
+    u "It's not my fault you don't take man shits like I do. *Laughs*"
+
+    u "I'm just glad I made it back in time for my massage..."
+
+    scene v12s33_22
+    with dissolve
+
+    lmass "Actually, we need to switch with the ladies at this time."
+
+    u "Damnit."
+
+    scene v12s33_13
+    with dissolve
+
+    imre "Next time [name], but thank you. I got a nice massage from the hotshot while you were gone, and let me just say... Those hands are silky smooth."
+
+    lmass "*Sighs*"
+
+    scene v12s33_14
+    with dissolve
+
+    lee "Let's go, students."
+
+    label v12s33_sauna:
+
+    scene v12s33_25 # TPP SHow Mr Lee, Ryan and Imre (other's are behind them, but don't show them), walking into the sauna
+    with fade
+
+    pause 0.75
+
+    stop music fadeout 3
+    play music "music/v12/Track Scene 33_3.mp3" fadein 2
+
+    scene v12s33_36 # Now the guys are in the sauna, show them sweaty if possible. All guys are in towels. TPP Close up Imre sitting in Sauna, annoyed, mouth open, looking forward but not straight at the camera
+    with fade
+    
+    show screen v12s33_sneak_off_overlay("v12s33_sneak_off2")
+
+    imre "Aww, hell no! How is this supposed to be relaxing? It's hot as hell in here, dude."
+
+    scene v12s33_37 # TPP close up Chris, sitting in Sauna, neutral expression, eyes closed facing forward, mouth open
+    with dissolve
+
+    ch "Just try to enjoy it, man."
+
+    scene v12s33_38 # TPP close up Mr Lee, sitting in Sauna, slight smile, eyes closed, facing forward slightly upwards, mouth open
+    with dissolve
+
+    lee "Complaining won't make it any more enjoyable, Imre. Just relax."
+
+    scene v12s33_36b # same as 36 imre now relaxed and eyes closed, mouth open
+    with dissolve
+
+    imre "Hmm, this is kind of nice."
+
+    scene v12s33_39 #TPP close up ryan sitting in Sauna, relaxed, eyes closed, mouth open
+    with dissolve
+
     ry "Wow..."
 
-# game/v12/scene33.rpy:1096
-translate francais v12s33_sauna_54d5640a:
+    scene v12s33_40 # TPP mc sitting in Sauna, relaxed, smiling, mouth open, eyes closed
+    with dissolve
 
-    # u "I could get used to this."
-    u "Je pourrais m'y faire."
+    u "I could get used to this."
 
-# game/v12/scene33.rpy:1101
-translate francais v12s33_sauna_94dfecc0:
+    scene v12s33_36b
+    with dissolve
 
-    # imre "I already am. *Chuckles*"
-    imre "J'm'y suis déjà habitué. *Rire*"
+    imre "I already am. *Chuckles*"
 
-# game/v12/scene33.rpy:1106
-translate francais v12s33_sauna_1955f674:
+    scene v12s33_38
+    with dissolve
 
-    # lee "You know... Bluntly? As much as you little rats annoy me, you're still like the sons I never had. It makes me happy to see that you're having a good time."
-    lee "Vous savez... franchement ? Même si vous m'agacez, vous êtes comme les fils que je n'ai jamais eus. Je suis heureux de voir que vous passez un bon moment."
+    lee "You know... Bluntly? As much as you little rats annoy me, you're still like the sons I never had. It makes me happy to see that you're having a good time."
 
-# game/v12/scene33.rpy:1111
-translate francais v12s33_sauna_f9b35ed8:
+    scene v12s33_40
+    with dissolve
 
-    # u "Thanks, Mr. Lee."
-    u "Merci, Mr Lee."
+    u "Thanks, Mr. Lee."
 
-# game/v12/scene33.rpy:1116
-translate francais v12s33_sauna_5ce27ad1:
+    scene v12s33_38
+    with dissolve
 
-    # lee "Of course."
-    lee "Pas de quoi."
+    lee "Of course."
 
-# game/v12/scene33.rpy:1121
-translate francais v12s33_sauna_4d62cf9f:
+    scene v12s33_36b
+    with dissolve
 
-    # imre "Yeah, you wouldn't be that bad of a dad."
-    imre "Ouais, vous seriez pas un si mauvais père."
+    imre "Yeah, you wouldn't be that bad of a dad."
 
-# game/v12/scene33.rpy:1126
-translate francais v12s33_sauna_f5cb9ec3:
+    scene v12s33_37
+    with dissolve
 
-    # ch "Am I allowed to give a compliment? *Chuckles*"
-    ch "J'ai le droit de faire un compliment ? *Rire*"
+    ch "Am I allowed to give a compliment? *Chuckles*"
 
-# game/v12/scene33.rpy:1131
-translate francais v12s33_sauna_b4095c56:
+    scene v12s33_38
+    with dissolve
 
-    # lee "That'll count as one..."
-    lee "Ça ira pour un..."
+    lee "That'll count as one..."
 
-# game/v12/scene33.rpy:1142
-translate francais v12s33_sauna_347de345:
+    if joinwolves:
+        scene v12s33_39
+        with dissolve
 
-    # u "Oh yeah, Ryan! I forgot to ask why you decided to dye your hair..."
-    u "Oh ouais, Ryan ! J'ai oublié de te demander, pourquoi t'as décidé de te teindre les cheveux..."
+        pause 0.75
 
-# game/v12/scene33.rpy:1147
-translate francais v12s33_sauna_44f88744:
+        scene v12s33_40b
+        with dissolve
 
-    # imre "He's trying to look as good as me, [name]. Tall, dark and handsome."
-    imre "Il essaie d'être aussi beau que moi, [name]. Grand, beau et brun."
+        u "Oh yeah, Ryan! I forgot to ask why you decided to dye your hair..."
 
-# game/v12/scene33.rpy:1152
-translate francais v12s33_sauna_3c4f4b29:
+        scene v12s33_36b
+        with dissolve
 
-    # ry "Uh, hell no... I lost a bet. \"Hashtag roasted ape\". Ha..."
-    ry "Euh, non... J'ai perdu un pari. \"Hashtag ape rôti\". Ha..."
+        imre "He's trying to look as good as me, [name]. Tall, dark and handsome."
 
-# game/v12/scene33.rpy:1157
-translate francais v12s33_sauna_08299fc9:
+        scene v12s33_39
+        with dissolve
 
-    # imre "Wow, that was sad."
-    imre "Wow, c'est triste."
+        ry "Uh, hell no... I lost a bet. \"Hashtag roasted ape\". Ha..."
 
-# game/v12/scene33.rpy:1162
-translate francais v12s33_sauna_fcc18885:
+        scene v12s33_36b
+        with dissolve
 
-    # u "*Laughs*"
-    u "*Rire*"
+        imre "Wow, that was sad."
 
-# game/v12/scene33.rpy:1173
-translate francais v12s33_sauna_03a715d4:
+        scene v12s33_40
+        with dissolve
 
-    # ry "Nice cupcake by the way, Imre. *Laughs* Is that the flavor of your nipples?"
-    ry "Au fait, joli le cupcake, Imre. *Rire* C'est le goût de tes tétons ?"
+        u "*Laughs*"
 
-# game/v12/scene33.rpy:1178
-translate francais v12s33_sauna_54b4acb5:
+    else:
+        scene v12s33_36b
+        with dissolve
 
-    # imre "Shut the hell up... It was a \"pick at random\" tattoo parlor, alright?"
-    imre "Ferme ta gueule... C'était un salon de tatouage pris \"au hasard\", d'accord ?"
+        pause 0.75
 
-# game/v12/scene33.rpy:1183
-translate francais v12s33_sauna_085421e3:
+        scene v12s33_39
+        with dissolve
 
-    # u "Haha, alright... I can't say it doesn't suit you, though."
-    u "Haha, d'accord... Je ne peux pas dire que ça ne te va pas, par contre."
+        ry "Nice cupcake by the way, Imre. *Laughs* Is that the flavor of your nipples?"
 
-# game/v12/scene33.rpy:1188
-translate francais v12s33_sauna_16bc2c48:
+        scene v12s33_36
+        with dissolve
 
-    # imre "Thanks... I think."
-    imre "Merci... Je crois."
+        imre "Shut the hell up... It was a \"pick at random\" tattoo parlor, alright?"
 
-# game/v12/scene33.rpy:1193
-translate francais v12s33_sauna_2209f6a3:
+        scene v12s33_40b
+        with dissolve
+        
+        u "Haha, alright... I can't say it doesn't suit you, though."
 
-    # lee "*Chuckles* Alright, enough bantering. Let’s go back to silently relaxing, boys."
-    lee "*Rire* Très bien, assez de plaisanteries. Replongeons-nous dans une relaxation silencieuse, les gars."
+        scene v12s33_36
+        with dissolve
 
-# game/v12/scene33.rpy:1220
-translate francais v12s33_sauna_a2bfc20e:
+        imre "Thanks... I think."
+    
+    scene v12s33_38
+    with dissolve
 
-    # lee "Alright, I've just about melted..."
-    lee "Bon, j'ai presque fondu..."
+    lee "*Chuckles* Alright, enough bantering. Let’s go back to silently relaxing, boys."
 
-# game/v12/scene33.rpy:1225
-translate francais v12s33_sauna_7d550ac1:
+    scene v12s33_41 # close up show clock inside sauna at 16:15
+    with dissolve
 
-    # u "Same, haha."
-    u "Pareil, haha."
+    pause 0.75
 
-# game/v12/scene33.rpy:1230
-translate francais v12s33_sauna_b77a9300:
+    scene v12s33_41a # show clock inside sauna at 16:30
+    with dissolve
 
-    # lee "Very well, let's make our way out of here then."
-    lee "Bon, alors, sortons d'ici."
+    pause 0.75
 
-# game/v12/scene33.rpy:1242
-translate francais v12s33_sneak_off2_466f3cb7:
+    scene v12s33_41b # show clock inside sauna at 16:45
+    with dissolve
 
-    # u "You guys are gonna think I'm playing around, but I seriously have to poop again."
-    u "Vous allez croire que je déconne, mais j'ai vraiment envie de refaire caca."
+    pause 0.75
 
-# game/v12/scene33.rpy:1246
-translate francais v12s33_sneak_off2_0b9541a5:
+    hide screen v12s33_sneak_off_overlay
 
-    # imre "Bro, there's no way... Unless you're sick?"
-    imre "Mec, y a pas moyen... À moins qu'tu sois malade ?"
+    scene v12s33_41c # show clock inside sauna at 17:00
+    with dissolve
 
-# game/v12/scene33.rpy:1250
-translate francais v12s33_sneak_off2_a20c934b:
+    pause 0.75
 
-    # u "Nah, I'm not sick."
-    u "Nan, je ne suis pas malade."
+    scene v12s33_38b # same as 38, mr lee exhausted, mouth open, eyes open, lookign forward but not at the camera, very sweaty
+    with dissolve
 
-# game/v12/scene33.rpy:1254
-translate francais v12s33_sneak_off2_89dd973a:
+    lee "Alright, I've just about melted..."
 
-    # ry "If you're not sick then, there's no way you gotta use the restroom again."
-    ry "Si tu n'es pas malade, il n'y a pas de raison que tu ailles encore aux toilettes."
+    scene v12s33_40b # same as 40, mc smiling, eyes open, wiping sweat of his forehead, very sweaty, mouth open
+    with dissolve
 
-# game/v12/scene33.rpy:1259
-translate francais v12s33_sneak_off2_9a480a1c:
+    u "Same, haha."
 
-    # u "Sorry guys, I suddenly really gotta poop..."
-    u "Désolé les gars, j'ai soudain vraiment envie de chier..."
+    scene v12s33_38b
+    with dissolve
 
-# game/v12/scene33.rpy:1263
-translate francais v12s33_sneak_off2_8dc58587:
+    lee "Very well, let's make our way out of here then."
 
-    # imre "*Laughs* Gross dude! You don't need to announce it."
-    imre "*Rire* Dégueu, mec ! T'as pas besoin de l'annoncer."
+    jump v12s33_after_sauna
 
-# game/v12/scene33.rpy:1267
-translate francais v12s33_sneak_off2_636a0944:
+    # -If MC presses the Sneak Off button during the sauna-
 
-    # ry "*Laughs*"
-    ry "*Rire*"
+label v12s33_sneak_off2:
+    hide screen v12s33_sneak_off_overlay
 
-# game/v12/scene33.rpy:1271
-translate francais v12s33_sneak_off2_9ad7bbe6:
+    if v12_sauna_sneak1:
+        scene v12s33_40
+        with dissolve
+        u "You guys are gonna think I'm playing around, but I seriously have to poop again."
 
-    # lee "Please, [name], just go."
-    lee "S'il vous plaît, [name], allez-y simplement."
+        scene v12s33_36b
+        with dissolve
+        imre "Bro, there's no way... Unless you're sick?"
 
-# game/v12/scene33.rpy:1276
-translate francais v12s33_sneak_off2_6375ec5a:
+        scene v12s33_40
+        with dissolve
+        u "Nah, I'm not sick."
 
-    # imre "You're just going to see the girls, aren't you?"
-    imre "Tu vas aller voir les filles, hein ?"
+        scene v12s33_39
+        with dissolve
+        ry "If you're not sick then, there's no way you gotta use the restroom again."
 
-# game/v12/scene33.rpy:1281
-translate francais v12s33_sneak_off2_6f9728ab:
+    else:
+        scene v12s33_40
+        with dissolve
+        u "Sorry guys, I suddenly really gotta poop..."
 
-    # u "*Chuckles* No, I'm using the restroom."
-    u "*Rire* Non, je vais juste aux toilettes."
+        scene v12s33_36b
+        with dissolve
+        imre "*Laughs* Gross dude! You don't need to announce it."
 
-# game/v12/scene33.rpy:1286
-translate francais v12s33_sneak_off2_408e5e08:
+        scene v12s33_39
+        with dissolve
+        ry "*Laughs*"
 
-    # imre "Okay then, I'll come with you."
-    imre "Ok alors, j'viens avec toi."
+        scene v12s33_38
+        with dissolve
+        lee "Please, [name], just go."
 
-# game/v12/scene33.rpy:1291
-translate francais v12s33_sneak_off2_f150bf3a:
+    scene v12s33_36b
+    with dissolve
 
-    # lee "How would you going with him to the bathroom, be helpful? He's got two hands."
-    lee "En quoi le fait d'aller avec lui aux toilettes serait utile ? Il devrait avoir assez de ses deux mains."
+    imre "You're just going to see the girls, aren't you?"
 
-# game/v12/scene33.rpy:1296
-translate francais v12s33_sneak_off2_aee9f677:
+    scene v12s33_40b
+    with dissolve
 
-    # imre "Woah, I wasn't saying... *Sighs* Nevermind."
-    imre "Woah, j'disais pas... *Soupirs* Oubliez ça."
+    u "*Chuckles* No, I'm using the restroom."
 
-# game/v12/scene33.rpy:1301
-translate francais v12s33_sneak_off2_4c3fd6d6:
+    scene v12s33_36
+    with dissolve
 
-    # u "Ha, alright then... I'll be back."
-    u "Ha, d'accord alors... Je vais revenir."
+    imre "Okay then, I'll come with you."
 
-# game/v12/scene33.rpy:1309
-translate francais v12s33_sneak_off2_a7a4d94e:
+    scene v12s33_38
+    with dissolve
 
-    # u "(I'm gonna have to crawl if I don't wanna be seen.)"
-    u "(Je vais devoir ramper si je ne veux pas être vu.)"
+    lee "How would you going with him to the bathroom, be helpful? He's got two hands."
 
-# game/v12/scene33.rpy:1319
-translate francais v12s33_sneak_off2_6d255190:
+    scene v12s33_36
+    with dissolve
 
-    # am "*Whisper* What on earth are you doing?! *Chuckles*"
-    am "*Chuchote* Mais qu'est-ce que tu fais ? ! *Rire*"
+    imre "Woah, I wasn't saying... *Sighs* Nevermind."
 
-# game/v12/scene33.rpy:1324
-translate francais v12s33_sneak_off2_c462aaf7:
+    scene v12s33_42 # tpp mc walking out of the sauna, (camera from the inside of the sauna) mouth open, smiling
+    with dissolve
 
-    # u "*Whisper* Enjoying myself? Making the most of the moment?"
-    u "*Chuchote* Je m'amuse ! Je profite au maximum de l'instant présent."
+    u "Ha, alright then... I'll be back."
 
-# game/v12/scene33.rpy:1329
-translate francais v12s33_sneak_off2_2f345b76:
+    stop music fadeout 3
+    play music "music/v12/Track Scene 33_5.mp3" fadein 2
 
-    # am "*Whisper* You're a bit of a perv, you know. *Chuckles*"
-    am "*Chuchote* T'es un petit pervers, tu sais. *Rire*"
+    scene v12s33_43 # TPP show mc crouching looking at the massage tables, where 5 girls are laying on. In this order (closest to mc first): Amber, Nora, Lindsey, Ms Rose, Chloe. They should be somewhat naked as you would be on a massage table, don't show the whole room as a lot of girls are missing.
+    with fade
 
-# game/v12/scene33.rpy:1334
-translate francais v12s33_sneak_off2_d2a462d9:
+    u "(I'm gonna have to crawl if I don't wanna be seen.)"
 
-    # u "*Whisper* Call me what you want, but I'd rather get caught being a perv than sit around in a sauna with a bunch of guys circle jerking each other. *Chuckles*"
-    u "*Chuchote* Appelle-moi comme tu veux, mais je préfère me faire traiter de pervers que de m'asseoir dans un sauna avec une bande de mecs qui se branlent.  *Rire*"
+    scene v12s33_44 # TPP show mc crawling towards the first table that amber is on
+    with dissolve
+     
+    pause 0.75
 
-# game/v12/scene33.rpy:1339
-translate francais v12s33_sneak_off2_2b302ad6:
+    scene v12s33_45 # FPP show closeup of amber looking down at you from her massage table, laughing smile, mouth open, whispering
+    with dissolve
 
-    # am "*Whisper* Haha! Okay, you have a point. Maybe you're just an evolved straight man..."
-    am "*Chuchote* Haha ! Ok, tu marques un point. Peut-être que tu es juste un mec hétéro amélioré..."
+    am "*Whisper* What on earth are you doing?! *Chuckles*"
 
-# game/v12/scene33.rpy:1344
-translate francais v12s33_sneak_off2_77880a9a:
+    scene v12s33_45a # same as 45, mouth closed
+    with dissolve
 
-    # u "*Whisper* See, you get it."
-    u "*Chuchote* Tu vois, tu as tout compris."
+    u "*Whisper* Enjoying myself? Making the most of the moment?"
 
-# game/v12/scene33.rpy:1349
-translate francais v12s33_sneak_off2_790d4521:
+    scene v12s33_45
+    with dissolve
 
-    # am "*Whisper* I'm not snitching, but I'm not missing out on this massage either so, you're gonna have to leave me be."
-    am "*Chuchote* Je ne vais pas te balancer, mais je ne veux pas non plus rater ce massage, donc, tu vas devoir me laisser tranquille."
+    am "*Whisper* You're a bit of a perv, you know. *Chuckles*"
 
-# game/v12/scene33.rpy:1354
-translate francais v12s33_sneak_off2_cdb0479d:
+    scene v12s33_45a
+    with dissolve
 
-    # u "*Whisper* Haha, alright."
-    u "*Chuchote* Haha, d'accord."
+    u "*Whisper* Call me what you want, but I'd rather get caught being a perv than sit around in a sauna with a bunch of guys circle jerking each other. *Chuckles*"
 
-# game/v12/scene33.rpy:1362
-translate francais v12s33_sneak_off2_2ff635e9:
+    scene v12s33_45
+    with dissolve
 
-    # u "*Whisper* Nora Nora, can I \"bora bora\" you?"
-    u "*Chuchote* Nora Nora, je peux te \"Soula Soula\" ?"
+    am "*Whisper* Haha! Okay, you have a point. Maybe you're just an evolved straight man..."
 
-# game/v12/scene33.rpy:1367
-translate francais v12s33_sneak_off2_b838ccf5:
+    scene v12s33_45a
+    with dissolve
 
-    # no "*Whisper* Holy shit! You scared me!"
-    no "*Chuchote* Putain de merde ! Tu m'as fait peur !"
+    u "*Whisper* See, you get it."
 
-# game/v12/scene33.rpy:1372
-translate francais v12s33_sneak_off2_c15e9009:
+    scene v12s33_45
+    with dissolve
 
-    # u "*Whisper* Haha, sorry!"
-    u "*Chuchote* Haha, désolé !"
+    am "*Whisper* I'm not snitching, but I'm not missing out on this massage either so, you're gonna have to leave me be."
 
-# game/v12/scene33.rpy:1377
-translate francais v12s33_sneak_off2_d7cbf035:
+    scene v12s33_45a
+    with dissolve
 
-    # no "*Whisper* What the fuck are you doing here?"
-    no "*Chuchote* Qu'est-ce que tu fais ici ?"
+    u "*Whisper* Haha, alright."
 
-# game/v12/scene33.rpy:1382
-translate francais v12s33_sneak_off2_b22b9fdd:
+    menu:
+        "Crawl to the next table":
+            $ add_point(KCT.TROUBLEMAKER)
+            scene v12s33_46 #TPP MC crawls to the next table and sees Nora, mc mouth open smiling, whispering 
+            with dissolve
 
-    # u "*Whisper* Something that isn't boring... I thought I'd come and talk to you guys."
-    u "*Chuchote* Quelque chose qui n'est pas chiant... J'ai pensé que je pourrais venir et vous parler."
+            u "*Whisper* Nora Nora, can I \"bora bora\" you?"
 
-# game/v12/scene33.rpy:1387
-translate francais v12s33_sneak_off2_40054557:
+            scene v12s33_47 # FPP Nora looking down at you from her massage table, slightly shocked, mouth open, whispering
+            with dissolve
 
-    # no "*Whisper* What if you get-"
-    no "*Chuchote* Et si tu..."
+            no "*Whisper* Holy shit! You scared me!"
 
-# game/v12/scene33.rpy:1392
-translate francais v12s33_sneak_off2_ab2cdf54:
+            scene v12s33_47a # same as 47, mouth closed
+            with dissolve
 
-    # ro "[name]! I don't believe you're supposed to be here."
-    ro "[name] ! Je ne crois pas que vous soyez censé être ici."
+            u "*Whisper* Haha, sorry!"
 
-# game/v12/scene33.rpy:1397
-translate francais v12s33_sneak_off2_5e3aa1be:
+            scene v12s33_47
+            with dissolve
 
-    # u "My bad, I uhm... got lost."
-    u "C'est ma faute, je me suis... perdu."
+            no "*Whisper* What the fuck are you doing here?"
 
-# game/v12/scene33.rpy:1410
-translate francais v12s33_sneak_off2_71adde92:
+            scene v12s33_47a
+            with dissolve
 
-    # u "What's going on?"
-    u "Qu'est-ce qu'il y a ?"
+            u "*Whisper* Something that isn't boring... I thought I'd come and talk to you guys."
 
-# game/v12/scene33.rpy:1415
-translate francais v12s33_sneak_off2_9bb9c1eb:
+            scene v12s33_47
+            with dissolve
 
-    # imre "We're leaving bro, it's hot as hell in here."
-    imre "On s'en va mon frère, il fait une chaleur d'enfer ici."
+            no "*Whisper* What if you get-"
 
-# game/v12/scene33.rpy:1420
-translate francais v12s33_sneak_off2_88d2dbb1:
+            scene v12s33_48 # FPP Ms Rose laying on the massage table, looking at mc, suspiciously, mouth open
+            with dissolve
 
-    # u "Oh, okay."
+            ro "[name]! I don't believe you're supposed to be here."
+
+            scene v12s33_48a # same as 48, mouth closed
+            with dissolve
+
+            u "My bad, I uhm... got lost."
+
+        "Go back to the sauna":
+            pass
+
+    scene v12s33_49 # TPP shows mc about to walk back into the Sauna (from outside the Sauna) (read the next image description before setting up)
+    with fade
+
+    pause 0.75
+
+    scene v12s33_50a # FPP Imre comes out of the Sauna, looking at mc, very sweaty, neutral face,mouth closed
+    with dissolve
+
+    u "What's going on?"
+
+    scene v12s33_50 # same as 50a, mouth open
+    with dissolve
+
+    imre "We're leaving bro, it's hot as hell in here."
+
+    scene v12s33_50a
+    with dissolve
+
     u "Oh, okay."
 
-translate francais strings:
+    stop music fadeout 3
+    jump v12s33_after_sauna
 
-    # game/v12/scene33.rpy:771
-    old "Yes, haha"
-    new "Oui, haha"
-
-    # game/v12/scene33.rpy:1356
-    old "Crawl to the next table"
-    new "Ramper jusqu'à la table suivante"
-
-    # game/v12/scene33.rpy:1356
-    old "Go back to the sauna"
-    new "Retournez au sauna"
+label v12s33_after_sauna:
+    jump v12_amber_after_spa #scene 34
