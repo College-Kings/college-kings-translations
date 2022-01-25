@@ -28,7 +28,7 @@ translate francais v12_urban_exploring_ae377102:
 translate francais v12_urban_exploring_5ade2ac8:
 
     # imre "Working for the rats. *Chuckles*"
-    imre "Fonctionne pour les rats. *Rire*"
+    imre "Elle fonctionne pour les rats. *Rire*"
 
 # game/v12/scene20.rpy:40
 translate francais v12_urban_exploring_16120765:
@@ -70,7 +70,7 @@ translate francais v12_urban_exploring_4f6d363c:
 translate francais v12_urban_exploring_132d5586:
 
     # au "Yeah, I was."
-    au "Oui, c'est vrai."
+    au "Si, j'en étais une."
 
 # game/v12/scene20.rpy:75
 translate francais v12_urban_exploring_deafd27c:
@@ -250,7 +250,7 @@ translate francais v12_urban_exploring_71b133e8:
 translate francais v12_urban_exploring_3a752b46:
 
     # au "Back tuck, big difference. Let's go Nora, let me see that booty work. *Chuckles*"
-    au "Back tuck, grande différence. Allons-y Nora, laisse-moi voir ce travail sur les fesses. *Rire*"
+    au "Back tuck, grande différence. Allons-y Nora, laisse-moi voir ce travail sur les fessiers. *Rire*"
 
 # game/v12/scene20.rpy:268
 translate francais v12_urban_exploring_13034144:
@@ -262,13 +262,13 @@ translate francais v12_urban_exploring_13034144:
 translate francais v12_urban_exploring_00b1c48d:
 
     # au "You can try all you want, but you're not backing out now. *Chuckles*"
-    au "Tu peux essayer autant que tu veux, mais tu ne reculeras pas maintenant. *Rire*"
+    au "Tu peux essayer autant que tu veux, mais tu n'abandonneras pas maintenant. *Rire*"
 
 # game/v12/scene20.rpy:278
 translate francais v12_urban_exploring_fa03bf74:
 
     # u "I don't think she's backing out, I think she's giving you a warning. *Chuckles*"
-    u "Je ne pense pas qu'elle veuille se retirer, je pense qu'elle te donne juste un avertissement. *Rire*"
+    u "Je ne pense pas qu'elle veuille abandonner, je pense qu'elle te donne juste un avertissement. *Rire*"
 
 # game/v12/scene20.rpy:283
 translate francais v12_urban_exploring_b685c7b5:
@@ -424,7 +424,7 @@ translate francais v12s20_faillabel_903b4a8f:
 translate francais v12s20_faillabel_98f768b9:
 
     # au "You don't have to leave because of me, Nora. I haven't seen you smile like this in a long time, so you're staying. One of the guys can stay with you and one can take me back...?"
-    au "Tu n'as pas à partir à cause de moi, Nora. Je ne t'ai pas vu sourire comme ça depuis longtemps, alors tu reste. Un des deux gars peut rester avec toi et un autre me ramènera... ?"
+    au "Tu n'as pas à partir à cause de moi, Nora. Je ne t'ai pas vu sourire comme ça depuis longtemps, alors tu reste. Un des deux mecs peut rester avec toi et un autre me ramènera... ?"
 
 # game/v12/scene20.rpy:466
 translate francais v12s20_faillabel_d3b52fb2:

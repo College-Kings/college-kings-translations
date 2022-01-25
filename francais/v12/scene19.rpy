@@ -22,7 +22,7 @@ translate francais v12_party_wake_up_73ee47e0:
 translate francais v12_party_wake_up_5c80ab2e:
 
     # imre "What do you mean what's wrong?! I look like a damn raccoon! Who did this to me, [name]?"
-    imre "Comment ça, qu'est-ce qu'il y a ? ! J'ressemble à un putain d'raton laveur ! Qui m'a fait ça, [name] ?"
+    imre "Comment ça, qu'est-ce qu'il y a ?! J'ressemble à un putain d'raton laveur ! Qui m'a fait ça, [name] ?"
 
 # game/v12/scene19.rpy:48
 translate francais v12_party_wake_up_ac7e9726:
@@ -40,7 +40,7 @@ translate francais v12_party_wake_up_692aa310:
 translate francais v12_party_wake_up_b6fd93dd:
 
     # u "You don't remem-"
-    u "Tu ne te souv..."
+    u "Tu ne te souv-"
 
 # game/v12/scene19.rpy:63
 translate francais v12_party_wake_up_02f1df0a:
@@ -64,7 +64,7 @@ translate francais v12_party_wake_up_29d49bbe:
 translate francais v12_party_wake_up_712a541a:
 
     # no "Aww! Imre, you look like a weird raccoon... Come here, little guy..."
-    no "Oooh ! Imre, tu ressembles à un raton laveur bizarre... Viens ici, petit gars..."
+    no "Oooh ! Imre, tu ressembles à un raton laveur bizarre... Viens ici, mon petit..."
 
 # game/v12/scene19.rpy:103
 translate francais v12_party_wake_up_ebca7aff:
@@ -76,13 +76,13 @@ translate francais v12_party_wake_up_ebca7aff:
 translate francais v12_party_wake_up_ce0df527:
 
     # au "Someone's being extra nice this morning."
-    au "Quelqu'un est très sympa ce matin."
+    au "Quelqu'un est très bien ce matin."
 
 # game/v12/scene19.rpy:113
 translate francais v12_party_wake_up_0eef854d:
 
     # no "Last night put me in a good mood. It was nice being with just the girls after the guys left."
-    no "La nuit dernière m'a mise de bonne humeur. C'était bien d'être avec vous, les filles, après le départ des gars."
+    no "La nuit dernière m'a mise de bonne humeur. C'était bien d'être avec vous, les filles, après le départ des autres."
 
 # game/v12/scene19.rpy:118
 translate francais v12_party_wake_up_640afd9c:
@@ -100,7 +100,7 @@ translate francais v12_party_wake_up_3aee665e:
 translate francais v12_party_wake_up_a62af7b9:
 
     # u "Thanks?"
-    u "Merci ?"
+    u "Heu merci..."
 
 # game/v12/scene19.rpy:133
 translate francais v12_party_wake_up_c5fc922d:
@@ -172,7 +172,7 @@ translate francais v12_party_wake_up_d58b0b7e:
 translate francais v12_party_wake_up_d57b0c07:
 
     # cl "HOW IS THAT GOOD?! YOU COULD'VE COME TO ME!"
-    cl "EN QUOI C'EST BON ?! TU AURAIS PU VENIR ME VOIR !"
+    cl "COMMENT ÇA \"C'EST BON\" ?! TU AURAIS PU VENIR ME VOIR !"
 
 # game/v12/scene19.rpy:244
 translate francais v12_party_wake_up_b2d3a4dc:
@@ -190,7 +190,7 @@ translate francais v12_party_wake_up_cee82729:
 translate francais v12_party_wake_up_275671a7:
 
     # li "That's your problem, Chloe. You know exactly what to do, and how to do it, we've told you. Numerous times. Yet you don't do a damn thing..."
-    li "C'est ton problème, Chloé. Tu sais exactement ce qu'il faut faire, et comment le faire, nous te l'avons dit. De nombreuses fois. Mais tu ne fais RIEN..."
+    li "C'est ton problème, Chloé. Tu sais exactement ce qu'il faut faire, et comment le faire, nous te l'avons dit. Et ce de nommmbreuses fois. Mais tu ne fais RIEN..."
 
 # game/v12/scene19.rpy:259
 translate francais v12_party_wake_up_2aa52f23:

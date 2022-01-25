@@ -64,7 +64,7 @@ translate francais v12_escape_room_ef0af021:
 translate francais v12_escape_room_809a8c22:
 
     # li "Because I told you, I didn't tell anyone else. With everything going on, I haven't been able to focus on me and just me."
-    li "Parce que je te l'ai dit, je ne l'ai dit à personne d'autre. Avec tout ce qui se passe, je n'ai pas été capable de me concentrer sur moi et juste moi."
+    li "Parce que je te l'ai déjà dit. Par contre, je ne l'ai dit à personne d'autre. Avec tout ce qui se passe, je n'ai pas été capable de me concentrer sur moi et juste moi."
 
 # game/v12/scene17.rpy:68
 translate francais v12_escape_room_6f4fbfc4:
@@ -94,7 +94,7 @@ translate francais v12_escape_room_03c23546:
 translate francais v12_escape_room_03f47ed8:
 
     # li "Well, you guys are the people I'm closest with. Well, and Nora too... I asked her to come but she's got a lot going on."
-    li "Eh bien, vous êtes les personnes dont je suis la plus proche. Et aussi Nora... Je lui ai demandé de venir, mais elle a beaucoup de choses à faire."
+    li "Eh bien, vous êtes les personnes dont je suis la plus proche. Il y a Nora également... Je lui ai demandé de venir, mais elle a beaucoup de choses à faire."
 
 # game/v12/scene17.rpy:93
 translate francais v12_escape_room_2d3d1338:
@@ -178,7 +178,7 @@ translate francais v12_escape_room_0a022258:
 translate francais v12_escape_room_def8c9e6:
 
     # escman "*Dry Tone* What will you find at the end of every rainbow?"
-    escman "*Ton sec* Que trouveriez-vous au bout de chaque arc-en-ciel ?"
+    escman "*Ton sec* Que trouveras-tu à la fin de chaque arc-en-ciel ?"
 
 # game/v12/scene17.rpy:171
 translate francais v12_escape_room_76e55460:
@@ -196,7 +196,7 @@ translate francais v12_escape_room_23f051a9:
 translate francais v12_escape_room_f9f31df7:
 
     # li "I don't know, a W? Haha, see what I did there guys? *Chuckles*"
-    li "Je ne sais pas, un L ? Haha, vous voyez ce que j'ai fait là les amis ? *Rire*"
+    li "Je ne sais pas, un L ? Haha, vous voyez ce que j'ai fait là ? *Rire*"
 
 # game/v12/scene17.rpy:186
 translate francais v12_escape_room_f2c2e1da:
@@ -286,7 +286,7 @@ translate francais v12_escape_room_78d60edf:
 translate francais v12_escape_room_4f1c0d88:
 
     # escman "*Dry Tone* There won't be much information given to you, so you'll need to be smart."
-    escman "*Ton sec* On ne vous donnera pas beaucoup d'informations, vous devrez donc être intelligent."
+    escman "*Ton sec* On ne vous donnera pas beaucoup d'informations, vous devrez donc être malins."
 
 # game/v12/scene17.rpy:261
 translate francais v12_escape_room_796de357:
@@ -562,19 +562,19 @@ translate francais v12_escape_room_17861e23:
 translate francais v12_escape_room_4d316533:
 
     # li "Just got another message. It says, \"tell your friends 'bye' because you won't see them for a while. Go into the room across the hall to find out how to help them.\""
-    li "Je viens de recevoir un autre message. Il dit : \"Dites à vos amis qu'ils vous saluent car vous ne les verrez pas pendant un moment. Qu'ils aillent dans la pièce d'en face pour qu'ils sachent comment vous aider.\""
+    li "Je viens de recevoir un autre message. Il dit : \"Dites \"au revoir\" à vos amis, car vous ne les verrez pas pendant un moment. Qu'ils aillent dans la pièce d'en face pour qu'ils sachent comment vous aider.\""
 
 # game/v12/scene17.rpy:513
 translate francais v12_escape_room_f6e320ae:
 
     # au "Well, this is just my luck. I get stuck with the gay guy and the goofball. Guess I won't be having any fun..."
-    au "C'est bien ma chance. Je suis coincé avec le gay et le crétin. Je crois que je ne vais pas m'amuser longtemps..."
+    au "C'est bien ma chance. Je suis coincée avec le gay et le crétin. Je crois que je ne vais pas m'amuser longtemps..."
 
 # game/v12/scene17.rpy:518
 translate francais v12_escape_room_12779de2:
 
     # imre "Goofball? I am not a-"
-    imre "Crétin ? J'suis pas un-"
+    imre "Crétin ? J'suis pas une-"
 
 # game/v12/scene17.rpy:523
 translate francais v12_escape_room_16ee73ae:
@@ -586,7 +586,7 @@ translate francais v12_escape_room_16ee73ae:
 translate francais v12_escape_room_2e8e8960:
 
     # au "You don't have to whisper."
-    au "Tu n'as pas besoin de chuchote."
+    au "Tu n'as pas besoin de chuchoter."
 
 # game/v12/scene17.rpy:533
 translate francais v12_escape_room_044c331b:
@@ -622,7 +622,7 @@ translate francais v12_escape_room_21ec4d29:
 translate francais v12_escape_room_6e4d890e:
 
     # charli "Oh, wait! Another text... It says, \"you are not the leader, give the phone back, smart guy.\""
-    charli "Oh, attendez ! Un autre texto... Il dit : \"Vous n'êtes pas le chef, rendez lui le téléphone, petit malin.\""
+    charli "Oh, attendez ! Un autre texto... Il dit : \"Vous n'êtes pas le chef. Rendez lui le téléphone, petit malin.\""
 
 # game/v12/scene17.rpy:569
 translate francais v12_escape_room_93ff3184_1:
@@ -730,7 +730,7 @@ translate francais v12_escape_room_08c20958:
 translate francais v12_escape_room_11e7701b:
 
     # li "Umm, yeah. It's just starting to get really cold."
-    li "Euh, ouais. Il commence juste à faire vraiment froid."
+    li "Euh, ouais. Il commence à faire vraiment froid."
 
 # game/v12/scene17.rpy:663
 translate francais v12_escape_room_76359b78:
@@ -796,13 +796,13 @@ translate francais v12_escape_room_cb54e5d9:
 translate francais v12_escape_room_5249962d:
 
     # u "What about here? Is it here? *Chuckles*"
-    u "Et ici ? C'est ici ? *Rire*"
+    u "Et ici ? Ici peut-être ? *Rire*"
 
 # game/v12/scene17.rpy:730
 translate francais v12_escape_room_57878627:
 
     # li "Haha... You have to stop... I'm literally... Going to pee my fucking pants... *Laughs*"
-    li "Haha... Tu dois arrêter... Je suis vraiment... Sur le point de pisser dans mon putain de pantalon... *Rire*"
+    li "Haha... Arrêêête... Je suis vraiment... Sur le point de pisser dans mon putain de pantalon... *Rire*"
 
 # game/v12/scene17.rpy:740
 translate francais v12_escape_room_f583d454:
@@ -826,7 +826,7 @@ translate francais v12_escape_room_8135285d:
 translate francais v12_escape_room_be2b3120:
 
     # imre "BRO, GET THE FUCK OFF OF ME!"
-    imre "FRÈRE, LÂCHE-MOI, PUTAIN !"
+    imre "YO, LÂCHE-MOI, PUTAIN !"
 
 # game/v12/scene17.rpy:760
 translate francais v12_escape_room_2caadd3a:
@@ -844,7 +844,7 @@ translate francais v12_escape_room_9597e8a0:
 translate francais v12_escape_room_d0e522df:
 
     # li "I seriously hope that wasn't the sound of these fans being turned up..."
-    li "J'espère sincèrement que ce n'était pas le son de ces ventilateurs à fond..."
+    li "J'espère vraiment que ce n'était pas le son des ventilateurs qui ont été mis à fond..."
 
 # game/v12/scene17.rpy:777
 translate francais v12_escape_room_f74e6142:
@@ -862,7 +862,7 @@ translate francais v12_escape_room_83e1be30:
 translate francais v12_escape_room_4747da4c:
 
     # u "Yes... All true. But at least we're on this side of the wall, yeah?"
-    u "Oui... Tout à fait. Mais au moins, on est de ce côté du mur, non ?"
+    u "Oui... C'est vrai. Mais au moins, nous sommes de ce côté du mur, hein ?"
 
 # game/v12/scene17.rpy:792
 translate francais v12_escape_room_3ad273f7:
@@ -886,13 +886,13 @@ translate francais v12_escape_room_8d7f766d:
 translate francais v12_escape_room_9f45b6d0:
 
     # li "Chloe probably wouldn't like this very much."
-    li "Chloé n'aimerait certainement pas beaucoup ça."
+    li "Chloé n'aimerait pas beaucoup ça."
 
 # game/v12/scene17.rpy:816
 translate francais v12_escape_room_f844fc51:
 
     # u "Uhh yeah, probably not."
-    u "Euhh ouais, certainement pas."
+    u "Euhh ouais, je ne pense pas."
 
 # game/v12/scene17.rpy:821
 translate francais v12_escape_room_437df2c7:
@@ -1168,7 +1168,7 @@ translate francais v12s17_nsfwSkipLabel1_837be94f:
 translate francais v12s17_nsfwSkipLabel1_f8ddb6ee:
 
     # li "Really, though... I don't know what else to say except thank you."
-    li "Vraiment, cependant... Je ne sais pas quoi dire d'autre à part merci."
+    li "Mais sincèrement... Je ne sais pas quoi dire d'autre à part merci."
 
 # game/v12/scene17.rpy:1232
 translate francais v12s17_nsfwSkipLabel1_2728d143:
@@ -1210,13 +1210,13 @@ translate francais v12_after_sex_5407f84d:
 translate francais v12_after_sex_80df082e:
 
     # u "Ha, I guess so, yeah."
-    u "Ha, je pense que oui."
+    u "Ha, je crois que oui."
 
 # game/v12/scene17.rpy:1290
 translate francais v12_after_sex_e3213e6e:
 
     # li "Ha, alrighty... Let's get out of here."
-    li "Ha, très bien... Partons d'ici."
+    li "Ha, très bien... Sortons d'ici."
 
 # game/v12/scene17.rpy:1295
 translate francais v12_after_sex_a8c4c0ac:
@@ -1234,7 +1234,7 @@ translate francais v12_after_sex_f8577442:
 translate francais v12_after_sex_06f995e5:
 
     # li "Ha, yep. I guess they haven't figured it out yet."
-    li "Ha, ouaip. Je suppose qu'ils n'ont pas encore trouvé la solution."
+    li "Ha, ouaip. On dirait qu'ils n'ont pas encore trouvé la solution."
 
 # game/v12/scene17.rpy:1323
 translate francais v12_after_sex_9074284e:

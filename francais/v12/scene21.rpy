@@ -70,7 +70,7 @@ translate francais v12_nora_exploring_a6c033d6:
 translate francais v12_nora_exploring_2bc0ee81:
 
     # u "Hey, I mean... It's definitely nice to believe that the grass is greener on the other side."
-    u "Hé, je pense... C'est vraiment bien de penser que l'herbe est plus verte ailleurs."
+    u "Hé oui, c'est vraiment bien de penser que l'herbe est plus verte ailleurs."
 
 # game/v12/scene21.rpy:101
 translate francais v12_nora_exploring_92887b86:
@@ -100,7 +100,7 @@ translate francais v12_nora_exploring_a7bab218:
 translate francais v12_nora_exploring_d4b84d7d:
 
     # u "It's not immature, just impossible. This wasn't just you on vacation by yourself. Chris and Chloe came so, your problems with him and your problems with the Chicks followed you."
-    u "Ce n'est pas immature, juste impossible. Tu n'étais pas en vacances toute seule non plus. Chris et Chloé sont venus, tes problèmes avec lui et ceux que tu as avec les Chicks t'ont suivis."
+    u "Ce n'est pas immature, c'était juste impossible. Tu n'étais pas en vacances toute seule non plus. Chris et Chloé sont venus, tes problèmes avec lui et ceux que tu as avec les Chicks t'ont suivis."
 
 # game/v12/scene21.rpy:122
 translate francais v12_nora_exploring_944f3b21:
@@ -244,7 +244,7 @@ translate francais v12_nora_exploring_f37eecdb:
 translate francais v12_nora_exploring_dcca2c91:
 
     # u "*Whisper* No, crazy."
-    u "*Chuchote* Non, le cinglé."
+    u "*Chuchote* Non, en cinglée."
 
 # game/v12/scene21.rpy:258
 translate francais v12_nora_exploring_dc6007cd:
