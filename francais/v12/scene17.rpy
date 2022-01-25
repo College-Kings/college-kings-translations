@@ -94,7 +94,7 @@ translate francais v12_escape_room_03c23546:
 translate francais v12_escape_room_03f47ed8:
 
     # li "Well, you guys are the people I'm closest with. Well, and Nora too... I asked her to come but she's got a lot going on."
-    li "Eh bien, vous êtes les personnes dont je suis la plus proche. Il y a Nora également... Je lui ai demandé de venir, mais elle a beaucoup de choses à faire."
+    li "Eh bien, vous êtes les personnes dont je suis les plus proche. Il y a Nora également... Je lui ai demandé de venir, mais elle a beaucoup de choses à faire."
 
 # game/v12/scene17.rpy:93
 translate francais v12_escape_room_2d3d1338:
