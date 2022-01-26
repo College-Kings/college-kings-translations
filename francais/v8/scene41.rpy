@@ -76,7 +76,7 @@ translate francais walk_home_hosp_2d293f7e:
 translate francais walk_home_hosp_e3f41a0e:
 
     # u "And to always carry a spare set of binoculars."
-    u "Et de toujours avoir unu paire de jumelles de rechange."
+    u "Et de toujours avoir une paire de jumelles de rechange."
 
 # game/v8/scene41.rpy:79
 translate francais walk_home_hosp_9613f4fd:

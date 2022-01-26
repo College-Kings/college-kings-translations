@@ -64,7 +64,7 @@ translate francais v12_nursing_aubrey_0949f8b4:
 translate francais v12_nursing_aubrey_25231dad:
 
     # au "Yeah. Actually..."
-    au "Ouais. En réalité..."
+    au "Ouais. Enfin si, pour l'instant..."
 
 # game/v12/scene21a.rpy:93
 translate francais v12_nursing_aubrey_b42c552c:

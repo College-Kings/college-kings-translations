@@ -82,7 +82,7 @@ translate francais drug_deal_w_josh_dacd3592:
 translate francais drug_deal_w_josh_468329a6:
 
     # je "If I were you, I'd just hand over the shit now before you end up with a nice, shiny dent in your skull. Save Lars the effort. You dig?"
-    je "Si j'étais toi, je donnerais le shit maintenant avant que tu ne finisses avec une belle et brillante bosse dans ton crâne. Ça évitera à Lars de faire des efforts. Tu piges ?"
+    je "Si j'étais toi, je donnerais la came maintenant avant que tu ne finisses avec une belle et brillante bosse dans ton crâne. Ça évitera à Lars de faire des efforts. Tu piges ?"
 
 # game/v8/scene28.rpy:118
 translate francais int_deal_w_josh_3ae5da6b:
@@ -106,7 +106,7 @@ translate francais beat_lars_369b2594:
 translate francais no_int_deal_w_josh_f097ed12:
 
     # jo "No. Fuck you! I'm not giving you shit! You want it, you pay me."
-    jo "Non. Va te faire foutre ! Je ne te donne pas de shit ! Tu le veux, tu me payes."
+    jo "Non. Va te faire foutre ! Je ne te donne pas la came ! Tu la veux, tu me payes."
 
 # game/v8/scene28.rpy:516
 translate francais no_int_deal_w_josh_41dd6e28:
