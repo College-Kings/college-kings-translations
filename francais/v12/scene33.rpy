@@ -76,7 +76,7 @@ translate francais v12s33_561572e5:
 translate francais v12s33_8d50f241:
 
     # lee "As Lindsey said, we have a personal spa session, the boys and girls will be separated, and before you make any annoying comments, I've heard enough from Imre and I'm at my limit."
-    lee "Comme Lindsey l'a dit, nous avons une séance de spa personnelle, les garçons et les filles seront séparés, et avant que vous ne fassiez des commentaires ennuyeux, j'ai assez entendu d'Imre et je suis à bout."
+    lee "Comme Lindsey l'a dit, nous avons une séance de spa personnelle, les garçons et les filles seront séparés et avant que vous ne fassiez des commentaires ennuyeux, j'en ai assez entendu d'Imre et je suis à bout."
 
 # game/v12/scene33.rpy:74
 translate francais v12s33_e104fdbc:
@@ -268,7 +268,7 @@ translate francais v12s33_cbaa848b:
 translate francais v12s33_c996389f:
 
     # lee "The only woman's hands I care for are my wife's."
-    lee "Les seules mains de femme dont je me préoccupe sont celles de ma femme."
+    lee "Les seules mains de femme dont je me préoccupe sont celles de la mienne."
 
 # game/v12/scene33.rpy:261
 translate francais v12s33_61e3a11a:
@@ -280,19 +280,19 @@ translate francais v12s33_61e3a11a:
 translate francais v12s33_0a0f72e8:
 
     # lee "Your flattery won't win you any points with me, Chris... We will still be discussing the other day's incident."
-    lee "Votre flatterie ne vous fera pas gagner de points avec moi, Chris... Nous allons encore discuter de l'incident de l'autre jour."
+    lee "Votre flatterie ne vous fera pas gagner de points avec moi, Chris... Nous devons toujours discuter de l'incident de l'autre jour."
 
 # game/v12/scene33.rpy:271
 translate francais v12s33_fd82c224:
 
     # imre "In the spirit of relaxing, let's not bring it up or talk about any of it right now, if that's okay?"
-    imre "Dans un esprit de détente, on en parle pas pour l'instant, vous êtes d'accord ?"
+    imre "Dans un esprit de détente, on évite d'en parler pour l'instant, vous êtes d'accord ?"
 
 # game/v12/scene33.rpy:276
 translate francais v12s33_7fe9486a:
 
     # lee "I agree."
-    lee "Je suis d'accord."
+    lee "Tout à fait d'accord."
 
 # game/v12/scene33.rpy:281
 translate francais v12s33_84a92869:
@@ -304,7 +304,7 @@ translate francais v12s33_84a92869:
 translate francais v12s33_9bc0e37d:
 
     # imre "Oh yeah! You with the sexy voice, you can do my massage."
-    imre "Oh oui ! Vous, avec votre voix sexy, vous pouvez m'faire un massage."
+    imre "Oh oui ! Vous, avec votre voix sexy, vous pouvez m'faire c'que vous voulez."
 
 # game/v12/scene33.rpy:291
 translate francais v12s33_8854ebe5:
@@ -400,7 +400,7 @@ translate francais v12s33_41fd3db0:
 translate francais v12s33_af4e5c6b:
 
     # imre "DAMN, GIRL!"
-    imre "PUTAIN, MEUF !"
+    imre "PUTAIN, BALÈZE LA GONZESSE !"
 
 # game/v12/scene33.rpy:367
 translate francais v12s33_07c7b99f:

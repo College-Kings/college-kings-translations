@@ -52,7 +52,7 @@ translate francais v12_aubrey_wake_up_15efb6dc:
 translate francais v12_aubrey_wake_up_47341ccc:
 
     # u "Is it \"gang up on [name]\" day?"
-    u "C'est le jour du \"gang contre [name]\" ?"
+    u "C'est le jour des \"filles contre [name]\" ?"
 
 # game/v12/scene31.rpy:65
 translate francais v12_aubrey_wake_up_32bdeacb:

@@ -76,7 +76,7 @@ translate francais v12_chase_nora_8e031b93:
 translate francais v12_chase_nora_1c120804:
 
     # no "I probably shouldn't have done all that in public. Fuck! *Sobs*"
-    no "Je n'aurais probablement pas dû faire tout ça en public. Putain ! *Snif"
+    no "Je n'aurais probablement pas dû faire tout ça en public. Putain ! *Snif*"
 
 # game/v12/scene26b.rpy:90
 translate francais v12_chase_nora_08ff157a:
@@ -154,13 +154,13 @@ translate francais v12_chase_nora_7f3b6a7a:
 translate francais v12_chase_nora_e842ddaf:
 
     # li "With most people it does, but Chris is being stubborn. He doesn't even try to see your perspective of things."
-    li "Avec la plupart des gens, oui, mais Chris est têtu. Il n'essaie même pas de voir ta perspective des choses."
+    li "Avec la plupart des gens, ça pourrait fonctionner, mais Chris est têtu. Il n'essaie même pas de voir ta perspective des choses."
 
 # game/v12/scene26b.rpy:149
 translate francais v12_chase_nora_32c6985b:
 
     # no "*Crying* How did I get like this?"
-    no "*Les larmes aux yeux* Comment suis-je devenu comme ça ?"
+    no "*Les larmes aux yeux* Comment suis-je devenue comme ça ?"
 
 # game/v12/scene26b.rpy:154
 translate francais v12_chase_nora_8732a86a:
@@ -172,7 +172,7 @@ translate francais v12_chase_nora_8732a86a:
 translate francais v12_chase_nora_ddbaaac4:
 
     # li "Nora, you know I love you, so everything I'm saying is coming from a good place. You wound up here because you let Chris run all over you, and that was clear when he left you at the church."
-    li "Nora, tu sais que je t'aime, alors tout ce que je dis vient du coeur. Tu as atterri ici parce que tu as laissé Chris t'écraser, et ça a été totalement clair quand il t'a laissée à l'église."
+    li "Nora, tu sais que je t'aime, alors tout ce que je dis vient du coeur. Tu as atterri ici parce que tu as laissé Chris t'écraser, et ça a été vraiment clair quand il t'a laissé à l'église."
 
 # game/v12/scene26b.rpy:160
 translate francais v12_chase_nora_afb09962:
@@ -190,7 +190,7 @@ translate francais v12_chase_nora_a813cb72:
 translate francais v12_chase_nora_1ba71410:
 
     # li "I would've done a lot more than what you did. *Chuckles* And probably a lot sooner. You've put up with way too much shit."
-    li "J'aurais certainement fait bien plus que ce que tu as fait. *Rire* Et probablement beaucoup plus tôt. Tu as supporté beaucoup trop de merde."
+    li "À ta place, J'aurais sans aucun doutes fait bien plus que ce que tu as fait. *Rire* Et probablement beaucoup plus tôt. Tu as supporté beaucoup trop de merde."
 
 # game/v12/scene26b.rpy:175
 translate francais v12_chase_nora_df25e0fb:
@@ -292,7 +292,7 @@ translate francais v12_chase_nora_a37e0534:
 translate francais v12_chase_nora_545c0164:
 
     # no "Look guys, I appreciate everything, I really do. I'm pretty sure I know how I'm gonna move forward with this situation."
-    no "Ecoutez les amis, j'apprécie tout, vraiment. Je suis presque sûre de savoir comment je vais gérer cette situation."
+    no "Ecoutez les amis, j'apprécie tout ce que vous m'avez dit, vraiment. Je suis presque sûre de savoir comment je vais gérer cette situation."
 
 # game/v12/scene26b.rpy:252
 translate francais v12_chase_nora_60941523:

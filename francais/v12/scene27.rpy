@@ -70,7 +70,7 @@ translate francais v12s27_de9caaf4:
 translate francais v12s27_c9689651:
 
     # imre "This is a one-hundred percent sober decision."
-    imre "C'est une décision 100% sobre."
+    imre "C'est une décision 100%% sobre."
 
 # game/v12/scene27.rpy:73
 translate francais v12s27_13acd59b:
@@ -304,7 +304,7 @@ translate francais v12s27_7e3fa54c:
 translate francais v12s27_059c037b:
 
     # imre "Not only that, we played a \"murder mystery\" game or whatever, and he chose [name] here to be the murderer, but made me play some other dude's wife."
-    imre "En plus de ça, on a joué à un jeu d'\"meurtre mystérieux\" ou quelque chose comme ça, et il a choisi [name] ici pour être l'tueur, et il m'a fait jouer la femme d'un autre gars."
+    imre "En plus de ça, on a joué à un jeu \"d'meurtre mystérieux\" ou quelque chose comme ça, et il a choisi [name] ici pour être l'tueur, et il m'a fait jouer la femme d'un autre gars."
 
 # game/v12/scene27.rpy:269
 translate francais v12s27_66d0c4a9:

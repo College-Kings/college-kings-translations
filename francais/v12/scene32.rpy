@@ -22,7 +22,7 @@ translate francais v12s32_750713bd:
 translate francais v12s32_ad6079f7:
 
     # au "Ha, that's what I thought at first too..."
-    au "Ha, j'ai pensé à la même chose au début..."
+    au "Ha, j'ai pensé à la même chose au départ..."
 
 # game/v12/scene32.rpy:49
 translate francais v12s32_671edbe4:
@@ -124,7 +124,7 @@ translate francais v12s32_e9f8568a:
 translate francais v12s32_7b1cc905:
 
     # au "No we aren't, we still have two minutes 'til start..."
-    au "Non, nous avons encore deux minutes avant le début..."
+    au "Non, nous avons même deux minutes d'avance..."
 
 # game/v12/scene32.rpy:141
 translate francais v12s32_27d5d409:
@@ -154,7 +154,7 @@ translate francais v12s32_3afa5638:
 translate francais v12s32_80e506c5:
 
     # au "I felt like you'd try skipping out if I told you we were taking pictures too."
-    au "J'avais l'impression que tu essaierais de t'enfuir si je te disais qu'on allait aussi faire des photos."
+    au "Je croyais que tu allais t'enfuir si je te disais qu'on allait aussi faire des photos."
 
 # game/v12/scene32.rpy:166
 translate francais v12s32_94fe5986:
@@ -166,7 +166,7 @@ translate francais v12s32_94fe5986:
 translate francais v12s32_eb795ac7:
 
     # na "Yes, you are! Captive by the camera. *Laughs*"
-    na "Oui, vous y êtes ! Prisonnier de l'appareil photo. *Rire*"
+    na "Oui, vous êtes là ! Prisonnier de l'appareil photo. *Rire*"
 
 # game/v12/scene32.rpy:176
 translate francais v12s32_0c7c75ab:
@@ -250,7 +250,7 @@ translate francais v12s32_072c359a:
 translate francais v12s32_7faa747e:
 
     # au "*Whisper* That's the person I didn't want to be by myself with."
-    au "*Chuchote* C'est la personne avec laquelle je ne voulais pas être seule."
+    au "*Chuchote* C'est justement la personne avec laquelle je ne voulais pas être seule."
 
 # game/v12/scene32.rpy:248
 translate francais v12s32_b6ad43c4:
@@ -520,7 +520,7 @@ translate francais v12s32_ee8e39a0:
 translate francais v12s32_43f3aa50:
 
     # u "(Damn, she really is good!)"
-    u "( Merde, elle est vraiment douée !)"
+    u "(Merde, elle est vraiment bien foutue !)"
 
 # game/v12/scene32.rpy:569
 translate francais v12s32_b20f36da:
@@ -658,7 +658,7 @@ translate francais v12s32_0c66bf28:
 translate francais v12s32_919cb308:
 
     # pg "Perfect! Naomi, would you mind taking your sister over there to get her info set up?"
-    pg "Parfait ! Naomi, ça vous ennuierait d'emmener votre soeur là-bas pour qu'elle puisse mettre ses coordonnées ?"
+    pg "Parfait ! Naomi, ça vous ennuierait d'aller avec votre soeur là-bas pour qu'elle puisse me donner ses coordonnées ?"
 
 # game/v12/scene32.rpy:683
 translate francais v12s32_4f756abc:
@@ -700,7 +700,7 @@ translate francais v12s32_581054aa:
 translate francais v12s32_03418382:
 
     # pg "*Laughs* Don't ever believe that BS... Everyone is the relationship type. You just have to tame the beast."
-    pg "*Rire* Ne crois jamais à ces conneries... Tout le monde est du genre à avoir des relations. Vous devez juste apprendre à maîtriser la bête."
+    pg "*Rire* Ne crois jamais à ces conneries... Tout le monde est à la recherche d'une relation. Vous devez juste apprendre à maîtriser la bête."
 
 # game/v12/scene32.rpy:720
 translate francais v12s32_49fa90f2:
@@ -730,7 +730,7 @@ translate francais v12s32_a2c87577:
 translate francais v12s32_5211a463:
 
     # au "They got me all set up! I think my sister is a little salty because she's just packed up and left... She said she had somewhere to be and that we'll talk later. *Sighs*"
-    au "Ils m'ont tout préparé ! Je pense que ma soeur est un peu irritée parce qu'elle vient de faire ses bagages et de partir... Elle a dit qu'elle devait aller quelque part et qu'on se parlerait plus tard. *Soupirs*"
+    au "Ils m'ont tout préparé ! Je pense que ma soeur est un peu jalouse car elle vient de faire ses bagages et de partir... Elle a dit qu'elle devait aller quelque part et qu'on se parlerait plus tard. *Soupirs*"
 
 # game/v12/scene32.rpy:746
 translate francais v12s32_d046a4c1:
@@ -742,13 +742,13 @@ translate francais v12s32_d046a4c1:
 translate francais v12s32_e72da085:
 
     # au "I did alright I guess."
-    au "Je me suis bien débrouillé, je pense."
+    au "Je me suis bien débrouillée, je pense."
 
 # game/v12/scene32.rpy:756
 translate francais v12s32_146f5d78:
 
     # u "I've never seen you flustered or even bothered, yet with this you've been acting unlike yourself. As if you're worried about impressing your sister or something."
-    u "Je ne t'ai jamais vu agitée ou même ennuyée, mais là, tu n'es pas comme toi-même. Comme si tu étais inquiète d'impressionner ta soeur ou quelque chose comme ça."
+    u "Je ne t'ai jamais vu agitée ou même ennuyée, mais là, tu n'es pas comme toi-même. Comme si tu étais inquiète de surpasser ta soeur ou quelque chose comme ça."
 
 # game/v12/scene32.rpy:761
 translate francais v12s32_9b042bdd:
@@ -914,7 +914,7 @@ translate francais strings:
 
     # game/v12/scene32.rpy:790
     old "Hotties!! Hope you had an amazing time... Can't wait to see all the pics!"
-    new "Chaudasses ! J'espère que vous avez eu un moment incroyable ... J'ai hâte de voir toutes les photos !"
+    new "Vous êtes chauds ! J'espère que vous avez eu un moment incroyable ... J'ai hâte de voir toutes les photos !"
 
     # game/v12/scene32.rpy:791
     old "JOB?!?!?!"

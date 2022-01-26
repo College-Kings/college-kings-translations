@@ -352,7 +352,7 @@ translate francais v10_call_with_lauren1_f6116cd3:
 translate francais v10_call_with_lauren1_92cb80b4:
 
     # u "You know, playing the harmonica requires quite a lot of tongue coordination, usually girls like that."
-    u "Vous savez, jouer de l'harmonica demande une bonne coordination de la langue, généralement les filles aiment ça."
+    u "Tu sais, jouer de l'harmonica demande une bonne coordination de la langue, généralement les filles aiment ça."
 
 # game/v10/scene15.rpy:299
 translate francais v10_call_with_lauren1_ced11d9b:

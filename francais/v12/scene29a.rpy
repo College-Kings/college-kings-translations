@@ -34,13 +34,13 @@ translate francais v12_late_night_workout_3ce714e4:
 translate francais v12_late_night_workout_71326526:
 
     # li "Want to go to the gym with me?"
-    li "Tu veux aller à la gym avec moi ?"
+    li "Tu veux aller faire du sport avec moi ?"
 
 # game/v12/scene29a.rpy:45
 translate francais v12_late_night_workout_106a3c0a:
 
     # u "Are the gyms even open? It's super late. Plus, I'm not in gym clothes."
-    u "Les salles de gym sont-elles au moins ouvertes ? Il est super tard. En plus, je ne suis pas en tenue de sport."
+    u "Les salles de sport sont-elles au moins ouvertes ? Il est super tard. En plus, je ne suis pas en tenue de sport."
 
 # game/v12/scene29a.rpy:50
 translate francais v12_late_night_workout_55bdf364:
@@ -118,7 +118,7 @@ translate francais v12_late_night_workout_464ea082:
 translate francais v12_late_night_workout_b486b60a:
 
     # u "*Chuckles* You look like a kid at a chocolate factory. This is no different than any other gym really."
-    u "*Rire* Tu as l'air d'un enfant dans une chocolaterie. Ce n'est pas différent de n'importe quelle autre salle de gym, vraiment."
+    u "*Rire* Tu as l'air d'un enfant dans une chocolaterie. Ce n'est pas différent de n'importe quelle autre salle de sport, vraiment."
 
 # game/v12/scene29a.rpy:133
 translate francais v12_late_night_workout_589e384b:
@@ -196,7 +196,7 @@ translate francais v12_late_night_workout_8974ddc3:
 translate francais v12_late_night_workout_2cc5c356:
 
     # u "Haha, sure, but now that I think about it we should probably stretch first."
-    u "Haha, pas de soucis, mais maintenant que j'y pense, on devrait sûrement s'étirer, d'abord."
+    u "Haha, pas de soucis, mais maintenant que j'y pense, on devrait d'abord s'étirer."
 
 # game/v12/scene29a.rpy:203
 translate francais v12_late_night_workout_450f7667:
@@ -286,7 +286,7 @@ translate francais v12_late_night_workout_2d2a5902:
 translate francais v12_late_night_workout_49254a42:
 
     # li "Listen carefully or else we'll be here all day. You need to breathe, stretch down and hold. The wall will keep you from bending your legs and I'll support your back as you lean."
-    li "Écoute attentivement, sinon on va rester ici toute la journée. Tu dois respirer, t'étirer et te maintenir. Le mur t'empêchera de plier les jambes et je soutiendrai ton dos lorsque tu te pencheras."
+    li "Écoute attentivement, sinon on va rester ici toute la nuit. Tu dois respirer, t'étirer et te maintenir. Le mur t'empêchera de plier les jambes et je soutiendrai ton dos lorsque tu te pencheras."
 
 # game/v12/scene29a.rpy:308
 translate francais v12_late_night_workout_33eb037d:

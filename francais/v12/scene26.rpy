@@ -100,7 +100,7 @@ translate francais v12_nora_chris_fight_22997be2:
 translate francais v12_nora_chris_fight_f4b70c66:
 
     # no "Maybe if you weren't so focused on chasing after the man your daddy was, you'd be your own-"
-    no "Peut-être que si tu n'étais pas si concentrée à chercher à ressembler au type de mec que ton père était, tu serais ton propre..."
+    no "Peut-être que si tu n'étais pas si occupé à chercher à ressembler au type de mec que ton père était, tu serais ton propre..."
 
 # game/v12/scene26.rpy:115
 translate francais v12_nora_chris_fight_1a24a75c:
@@ -172,7 +172,7 @@ translate francais v12_nora_chris_fight_adb5bd98:
 translate francais v12_nora_chris_fight_e8e61922:
 
     # ch "Bro, fuck all this shit!"
-    ch "Frère, j'emmerde tout ça !"
+    ch "Fais chier ! Nique ça !"
 
 translate francais strings:
 
