@@ -40,7 +40,7 @@ translate francais v13s20_closet_5f456375:
 translate francais v13s20_closet_a80ed8d1:
 
     # u "*Laughs* Shit, man... He pisses so many people off, it's only fair he smells like it too. Haha!"
-    u "*Rire* Merde, mec... Il fait chier tant de gens, c'est normal qu'il sente la même chose. Haha !"
+    u "*Rire* Merde, mec... Il nous a tellement fait chier que c'est normal qu'il sente les chiottes, lui aussi. Haha !"
 
 # game/v13/scene20.rpy:61
 translate francais v13s20_closet_c9f4504c:
@@ -100,7 +100,7 @@ translate francais v13s20_toothbrush_7e757b60:
 translate francais v13s20_toothbrush_d6934e11:
 
     # u "This is why you shouldn't be a trashy human being, pal..."
-    u "Voilà pourquoi tu ne devrais pas être un être humain minable, mon vieux..."
+    u "Tu aimes cracher des merdes sur les autres ? Maintenant avale la, connard..."
 
 # game/v13/scene20.rpy:177
 translate francais v13s20_toothbrush_ca883795:
@@ -166,7 +166,7 @@ translate francais v13s20_end_6f9c7f6a:
 translate francais v13s20_end_44f0c4ca:
 
     # u "(Alright... Forward email... MrLee@CK.com... and sent! Just in case, I'll send it to myself too.)"
-    u "(Très bien... Transfert de l'email... MrLee@CK.com... et envoyé ! Juste au cas où, je me l'envoie aussi à moi-même.)"
+    u "(Très bien... Transfert de l'email... MrLee@CK.com... et... envoyé ! Juste au cas où, je me l'envoie aussi à moi-même.)"
 
 # game/v13/scene20.rpy:249
 translate francais v13s20_end_90883cac:

@@ -70,13 +70,13 @@ translate francais v13s15_bafaa2d2:
 translate francais v13s15_83451c0e:
 
     # u "You just take your little self to sleep."
-    u "Prends juste un peu de temps pour dormir."
+    u "T'inquiètes, tu devrais te rendormir."
 
 # game/v13/scene15.rpy:94
 translate francais v13s15_dcefc69b:
 
     # cl "Sounds like a plan."
-    cl "C'est un bon plan."
+    cl "Oui, c'est ce que je vais faire."
 
 # game/v13/scene15.rpy:143
 translate francais v13s15_c47852ad:

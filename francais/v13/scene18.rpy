@@ -88,7 +88,7 @@ translate francais v13s18_759ec41b:
 translate francais v13s18_99bd2308:
 
     # u "*Mouthing* What are you doing?"
-    u "*Murmure* Qu'est-ce que vous faites ?"
+    u "*Murmure* Mais qu'est-ce que vous faites ?"
 
 # game/v13/scene18.rpy:137
 translate francais v13s18_8511a600:
@@ -112,7 +112,7 @@ translate francais v13s18_dfcfcbf9:
 translate francais v13s18_a2277374:
 
     # u "(You know what? I think I'm gonna text her.)"
-    u "(Tu sais quoi ? Je pense que je vais lui envoyer un texto.)"
+    u "(Je crois que je vais lui envoyer un texto.)"
 
 # game/v13/scene18.rpy:168
 translate francais v13s18_PhoneContinueNora_2a87eeb0:
@@ -130,7 +130,7 @@ translate francais v13s18_PhoneContinueNora_0d8613de:
 translate francais v13s18_PhoneContinueNora_25720b28:
 
     # luuk "I worked hard on this masterpiece, so you better enjoy it... *Laughs*"
-    luuk "J'ai travaillé dur sur ce chef-d'œuvre, alors tu ferais mieux de l'apprécier... *Rire*"
+    luuk "J'ai travaillé dur sur ce chef-d'œuvre, alors tu devrais l'apprécier... *Rire*"
 
 # game/v13/scene18.rpy:190
 translate francais v13s18_PhoneContinueNora_3cc348ce:
@@ -142,7 +142,7 @@ translate francais v13s18_PhoneContinueNora_3cc348ce:
 translate francais v13s18_PhoneContinueNora_94ec04aa:
 
     # luuk "Of course! So, you and Riley are getting ready to do your little \"Charli stunt\", huh?"
-    luuk "Bien sûr ! Alors, toi et Riley vous vous préparez à faire votre petite \"mission Charli\", hein ?"
+    luuk "Je t'en prie ! Alors, toi et Riley vous vous préparez à faire votre petite \"mission Charli\", hein ?"
 
 # game/v13/scene18.rpy:200
 translate francais v13s18_PhoneContinueNora_da5d8d28:
@@ -185,8 +185,8 @@ translate francais strings:
     new "N'envoyez pas de message à Nora"
 
     # game/v13/scene18.rpy:160
-    old "What was that about, you guys all good now or something? "
-    new ""
+    old "What was that about, you guys all good now or something?"
+    new "C'était quoi cette histoire, tout va bien entre vous maintenant ou quoi ?"
 
     # game/v13/scene18.rpy:161
     old "I know it's odd, but I'm trying to figure things out. Pls just... Let me handle it?"

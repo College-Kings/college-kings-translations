@@ -76,7 +76,7 @@ translate francais v13_emmy_sex_aeffe3c6:
 translate francais v13_emmy_sex_a0e0396d:
 
     # emmy "*Moans* HARDER! Please!"
-    emmy "*Gémis* PLUS FORT ! S'il vous plaît !"
+    emmy "*Gémis* PLUS FORT ! S'il tes plaît !"
 
 # game/v13/scene26.rpy:110
 translate francais v13_emmy_sex_93c3bf21:
@@ -88,19 +88,19 @@ translate francais v13_emmy_sex_93c3bf21:
 translate francais v13_emmy_sex_ef401155:
 
     # emmy "Stretch me out, papi... *Chuckles*"
-    emmy "Élargis-moi, papi... *Rire*"
+    emmy "Élargis-moi le trou... *Rire*"
 
 # game/v13/scene26.rpy:132
 translate francais v13_emmy_sex_4583cc52:
 
     # emmy "*Moans* Mmmm, oh... You like a flexible woman, don't you?"
-    emmy "*Gémis* Mmmm, oh... Tu aimes une femme flexible, n'est-ce pas ?"
+    emmy "*Gémis* Mmmm, oh... Tu aimes les femmes flexible, hein ?"
 
 # game/v13/scene26.rpy:138
 translate francais v13_emmy_sex_c651256e:
 
     # u "Ha... (Fucking christ...) *Moans* Yes..."
-    u "Ha... ( Bordel de merde...) *Gémis* Oui..."
+    u "Ha... (Bordel de merde...) *Gémis* Oui..."
 
 # game/v13/scene26.rpy:144
 translate francais v13_emmy_sex_a2d96460:
@@ -136,7 +136,7 @@ translate francais v13_emmy_sex_28b8dee5:
 translate francais v13_emmy_sex_0d8c6652:
 
     # u "I don't think I could stop... Even if I... *Moans* Wanted to..."
-    u "Je ne pense pas que je pourrais m'arrêter... Même si je... *Gémis* voulais..."
+    u "Je ne pense pas que je pourrais m'arrêter... Même si je... *Gémis* le voulais..."
 
 # game/v13/scene26.rpy:183
 translate francais v13_emmy_sex_bd02c84b:

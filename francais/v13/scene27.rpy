@@ -34,4 +34,4 @@ translate francais v13s27_PhoneContinueAmber_c1ba7e32:
 translate francais v13s27_PhoneContinueAmber_c74c29f0:
 
     # u "*Chuckles* (Oh well.)"
-    u "*Rire* (Oh, bien.)"
+    u "*Rire* (Bon, j'y vais.)"

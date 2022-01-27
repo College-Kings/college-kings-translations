@@ -28,7 +28,7 @@ translate francais v13s15a_a29f77b6:
 translate francais v13s15a_8b7c151c:
 
     # ri "Don't be sorry, do better. I'm trying to sleep. *Chuckles*"
-    ri "Ne sois pas désolé, améliore toi. J'essaie de dormir. *Rire*"
+    ri "Ne sois pas désolé, fais gaffe. J'essaie de dormir. *Rire*"
 
 # game/v13/scene15a.rpy:59
 translate francais v13s15a_893fc89a:
@@ -142,7 +142,7 @@ translate francais v13s15a_PhoneContinueLauren_2cdd2982:
 translate francais v13s15a_PhoneContinueLauren_ecfd30d1:
 
     # u "Is that even a question?"
-    u "Est-ce même une question ?"
+    u "Est-ce réellement une question ?"
 
 # game/v13/scene15a.rpy:199
 translate francais v13s15a_PhoneContinueLauren_26660f1f:
@@ -220,7 +220,7 @@ translate francais v13s15a_PhoneContinueLauren_2cdd2982_1:
 translate francais v13s15a_PhoneContinueLauren_ecfd30d1_1:
 
     # u "Is that even a question?"
-    u "Est-ce même une question ?"
+    u "Est-ce réellement une question ?"
 
 # game/v13/scene15a.rpy:299
 translate francais v13s15a_PhoneContinueLauren_875d3dd4:

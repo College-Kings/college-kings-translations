@@ -10,7 +10,7 @@ translate francais v13s23_daeaeb95:
 translate francais v13s23_b21bbc29:
 
     # ry "I am... Imre's acting like he doesn't want me to come but, I'm on some \"fuck Imre\" vibes right now."
-    ry "Je le suis... Imre fait comme s'il ne voulait pas que je vienne, mais j'ai des envies d'\"emmerder Imre\" en ce moment."
+    ry "Je le suis... Imre fait comme s'il ne voulait pas que je vienne, mais j'ai envie \"d'emmerder Imre\" en ce moment."
 
 # game/v13/scene23.rpy:33
 translate francais v13s23_3428cc24:

@@ -34,7 +34,7 @@ translate francais v13s25b_4d40af3f:
 translate francais v13s25b_cadc6fc0:
 
     # u "Oh, wow! So you write books or..."
-    u "Oh, waouh ! Donc vous écrivez des livres ou..."
+    u "Oh, waouh ! Donc tu écris des livres ou..."
 
 # game/v13/scene25b.rpy:42
 translate francais v13s25b_03cbbfef:

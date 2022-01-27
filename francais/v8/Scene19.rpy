@@ -52,7 +52,7 @@ translate francais strings:
 
     # game/v8/Scene19.rpy:25
     old "Aw man you're driving me crazy"
-    new "Aw mec tu me rends folle"
+    new "Aw putain, tu vas me rendre fou"
 
     # game/v8/Scene19.rpy:26
     old "So do something about it"

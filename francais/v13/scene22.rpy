@@ -34,7 +34,7 @@ translate francais v13s22_bff71ca8:
 translate francais v13s22_9dad4183:
 
     # u "While I was working my magic, I saw that his computer was open and did a little investigation."
-    u "Pendant que je faisais mes tours de passe-passe, j'ai vu que son ordinateur était allumé et j'ai fait une petite enquête."
+    u "Pendant que je faisais mes tours de passe-passe dans sa chambre, j'ai vu que son ordinateur était allumé et j'ai fait une petite enquête."
 
 # game/v13/scene22.rpy:42
 translate francais v13s22_7ca7de89:

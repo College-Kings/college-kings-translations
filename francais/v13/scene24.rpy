@@ -4,7 +4,7 @@
 translate francais v13s24_7c8ae896:
 
     # barh "Well, well, well... If it isn't the guy who got catfished and his two stalker friends. *Laughs*"
-    barh "Eh bien, eh bien, eh bien... Si ce n'est pas le gars qui s'est fait piéger et ses deux amis traqueurs. *Rire*"
+    barh "Eh bien, eh bien, eh bien... Si ce n'est pas le gars qui s'est fait piéger et ses deux amis rôdeurs. *Rire*"
 
 # game/v13/scene24.rpy:27
 translate francais v13s24_44aa2436:
@@ -76,7 +76,7 @@ translate francais v13s24_636a0944:
 translate francais v13s24_4f18f734:
 
     # barh "Awkward..."
-    barh "C'est gênant..."
+    barh "Embarrassant..."
 
 # game/v13/scene24.rpy:106
 translate francais v13s24_53f2c91e:
@@ -88,13 +88,13 @@ translate francais v13s24_53f2c91e:
 translate francais v13s24_9a4c007d:
 
     # u "One for all and all for... Well, when you guys are finished it can be all for one. *Chuckles*"
-    u "Un pour tous et tous pour... Eh bien, quand vous aurez fini, ce sera toutes pour un.  *Rire*"
+    u "Un pour tous et tous pour... Eh bien, quand on aura fini, ce sera toutes pour un.  *Rire*"
 
 # game/v13/scene24.rpy:116
 translate francais v13s24_5a57bf68:
 
     # barh "*Laughs* I like this guy!"
-    barh "*Rire* Je l'aime bien ce mec !"
+    barh "*Rire* J'aime bien ce mec !"
 
 # game/v13/scene24.rpy:121
 translate francais v13s24_bb14c792:
@@ -142,7 +142,7 @@ translate francais v13s24_1468676f:
 translate francais v13s24_2d13d1d4:
 
     # ry "Sounds all good to me... Let's do this thing, boys."
-    ry "Ça me semble pas mal... On fait ça, les mecs."
+    ry "Ça me semble pas mal... on fait ça, les mecs."
 
 # game/v13/scene24.rpy:176
 translate francais v13s24_72bd1e82:
@@ -172,7 +172,7 @@ translate francais v13s24_8821924b:
 translate francais v13s24_c1c9f666:
 
     # imre "Hey! That was one time, and it was definitely not my fault."
-    imre "Hey ! C'était une seule fois, et c'était absolument pas ma faute."
+    imre "Hey ! C'était une seule fois et c'était absolument pas ma faute."
 
 # game/v13/scene24.rpy:201
 translate francais v13s24_7b1eda8d:
@@ -238,7 +238,7 @@ translate francais v13s24_f1abdfcb:
 translate francais v13s24_91811a7e:
 
     # imre "Man, you guys are a bunch a d-"
-    imre "Les gars, vous êtes une bande de m-"
+    imre "Les gars, vous êtes une bande de co-"
 
 # game/v13/scene24.rpy:256
 translate francais v13s24_071b7714:
@@ -298,7 +298,7 @@ translate francais v13s24_79f229ba:
 translate francais v13s24_3083dc7b:
 
     # barh "Just bypass the host, huh guys?"
-    barh "Il suffit de contourner les règles que l'hôte a fixées, hein les gars ?"
+    barh "Il suffit de contourner les règles que l'hôte a fixé, hein les gars ?"
 
 # game/v13/scene24.rpy:343
 translate francais v13s24_61276efb:
@@ -472,7 +472,7 @@ translate francais v13s24_cdc21772:
 translate francais v13s24_0781f5c6:
 
     # u "Our lady."
-    u "Notre dame."
+    u "Très chère dame."
 
 # game/v13/scene24.rpy:525
 translate francais v13s24_82684d4d:
@@ -664,7 +664,7 @@ translate francais v13s24_09c898e5:
 translate francais v13s24_7dec8eab:
 
     # barh "That's what she said. *Laughs*"
-    barh "C'est ce qu'elle a dit. *Rire*"
+    barh "C'est ce qu'elle me disent toutes. *Rire*"
 
 # game/v13/scene24.rpy:752
 translate francais v13s24_fddc9f3b:
@@ -688,7 +688,7 @@ translate francais v13s24_c3fa8ad4:
 translate francais v13s24_03a152a3:
 
     # imre "I'm all yours baby!"
-    imre "J'suis tout à vous, bébés !"
+    imre "J'suis tout à toi, bébé !"
 
 # game/v13/scene24.rpy:845
 translate francais v13s24_df301529:

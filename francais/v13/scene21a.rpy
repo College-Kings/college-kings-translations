@@ -82,7 +82,7 @@ translate francais v13s21a_924405eb:
 translate francais v13s21a_a20b035e:
 
     # lee "Does it look like I was born yesterday? You won't be doing anything of that sort."
-    lee "Est-ce qu'on dirait que je suis né hier ? Vous ne ferez rien de tel."
+    lee "Est-ce que vous me prenez pour un nouveau né ? Vous ne ferez rien de tel."
 
 # game/v13/scene21a.rpy:110
 translate francais v13s21a_3e33c5f6:
@@ -148,13 +148,13 @@ translate francais v13s21a_d718e5ff:
 translate francais v13s21a_9e9cc5c8:
 
     # lee "Firstly, you will address me as Mr. Lee."
-    lee "Premièrement, vous vous adresserez à moi en tant que Mr Lee."
+    lee "Premièrement, quand vous vous adressez à moi, c'est MONSIEUR LEE !"
 
 # game/v13/scene21a.rpy:203
 translate francais v13s21a_d48041f8:
 
     # lee "Second, you've placed your hands on me for the last time. Due to your usual manner and academic performance an \"investigation\" was a gift."
-    lee "Deuxièmement, vous avez posé vos mains sur moi pour la dernière fois. En raison de votre comportement habituel et de vos résultats scolaires, une \"enquête\" était un cadeau pour vous."
+    lee "Deuxièmement, vous avez posé vos mains sur moi une fois de trop. En raison de votre comportement habituel et de vos résultats scolaires, une \"enquête\" était un cadeau pour vous."
 
 # game/v13/scene21a.rpy:205
 translate francais v13s21a_78306b10:
@@ -196,13 +196,13 @@ translate francais v13s21a_826ac2d5:
 translate francais v13s21a_6269c797:
 
     # lee "Watch your words very carefully, son."
-    lee "Fais attention à ce que tu dis, fiston."
+    lee "Faite attention à ce que vous dites, fiston."
 
 # game/v13/scene21a.rpy:245
 translate francais v13s21a_55278cba:
 
     # lee "To put things in a way that you'll understand..."
-    lee "Pour dire les choses de façon à ce que tu comprennes..."
+    lee "Pour dire les choses de façon à ce que vous compreniez..."
 
 # game/v13/scene21a.rpy:250
 translate francais v13s21a_891eb7a7:

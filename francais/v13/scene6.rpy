@@ -106,13 +106,13 @@ translate francais v13s06_b8defaf3:
 translate francais v13s06_f599782e:
 
     # u "Huh... You've really thought this through. *Chuckles*"
-    u "Hum... Vous avez vraiment réfléchi à tout ça. *Rire*"
+    u "Hum... Vous avez vraiment plusieurs cordes à ton arc. *Rire*"
 
 # game/v13/scene6.rpy:122
 translate francais v13s06_aedab0ce:
 
     # luuk "Haha, let's just say I make more money scheming with the guests than I do checking them in."
-    luuk "Haha, disons que je gagne plus d'argent à parler avec les clients qu'à les servir."
+    luuk "Haha, disons que je gagne plus d'argent à parler avec les clients du bar qu'à la réception."
 
 # game/v13/scene6.rpy:127
 translate francais v13s06_9d6f835a:

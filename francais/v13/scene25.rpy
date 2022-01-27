@@ -28,7 +28,7 @@ translate francais v13s25_5a1ddb72:
 translate francais v13s25_d5e81ebd:
 
     # u "To a date at a bar in Amsterdam. *Chuckles*"
-    u "A un rencard dans un bar à Amsterdam. *Rire*"
+    u "À un rencard dans un bar à Amsterdam. *Rire*"
 
 # game/v13/scene25.rpy:47
 translate francais v13s25_2a6d3116:
@@ -58,7 +58,7 @@ translate francais v13s25_3016cb8c:
 translate francais v13s25_25491773:
 
     # u "Back on campus, my frat and our rivals continue to fight nonstop. We even have tournaments where a fight king is announced."
-    u "Sur le campus, ma fraternité et nos rivaux continuent de se battre sans arrêt. Nous avons même des tournois où un roi du combat est annoncé."
+    u "Sur le campus, ma fraternité et nos rivaux nous battons sans arrêt. Nous avons même des tournois où un fight king est annoncé."
 
 # game/v13/scene25.rpy:72
 translate francais v13s25_7e4d22d5:
@@ -100,7 +100,7 @@ translate francais v13s25_5fcfd008:
 translate francais v13s25_5201eaa1:
 
     # u "The only one who's going to be fucking you is me. *Chuckles* Was that too much?"
-    u "La seule personne qui va te toucher, c'est moi. *Rire* C'était trop ?"
+    u "La seule personne qui va te toucher, c'est moi. *Rire* ... C'était pas un peu trop ?"
 
 # game/v13/scene25.rpy:116
 translate francais v13s25_10da7d8c:

@@ -184,7 +184,7 @@ translate francais v13s25a_68f88154:
 translate francais v13s25a_97d98f43:
 
     # u "I'm an American, I live in California. This is just a trip abroad for us students."
-    u "Je suis un Américain, je vis en Californie. C'est juste un voyage à l'étranger pour nous, les étudiants."
+    u "Je suis un Américain, je vis en Californie. C'est juste un voyage à l'étranger pour nous, nous sommes des étudiants."
 
 # game/v13/scene25a.rpy:216
 translate francais v13s25a_5da92cb3:
