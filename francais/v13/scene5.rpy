@@ -16,4 +16,4 @@ translate francais v13s5_22f7c7a1_1:
 translate francais v13s5_ec6d178c:
 
     # u "(That didn't last long. *Chuckles*)"
-    u "(Ça n'a pas duré longtemps. *Rire*)"
+    u "(Elle n'a pas tenu longtemps. *Rire*)"

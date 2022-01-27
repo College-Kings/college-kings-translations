@@ -5391,7 +5391,7 @@ translate francais pledgeapes_a4a595cd:
 translate francais pledgeapes_bead042f:
 
     # ry "I can't wait. I'm giving my 110 percent for sure."
-    ry "Je n'en peux plus d'attendre. Je vais me donner à 110 %."
+    ry "Je n'en peux plus d'attendre. Je vais me donner à 110%%."
 
 # game/v7/v7.rpy:4789
 translate francais pledgeapes_e1802051:

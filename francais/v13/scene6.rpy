@@ -46,7 +46,7 @@ translate francais v13s06_1606a6b0:
 translate francais v13s06_b8a31fd8:
 
     # u "That's a bold approach for someone you just met."
-    u "C'est une approche audacieuse de quelqu'un que vous venez de rencontrer."
+    u "C'est une approche audacieuse envers quelqu'un que vous venez de rencontrer."
 
 # game/v13/scene6.rpy:72
 translate francais v13s06_446d3ce3:
@@ -112,13 +112,13 @@ translate francais v13s06_f599782e:
 translate francais v13s06_aedab0ce:
 
     # luuk "Haha, let's just say I make more money scheming with the guests than I do checking them in."
-    luuk "Haha, disons que je gagne plus d'argent à parler avec les clients qu'à les réceptionner."
+    luuk "Haha, disons que je gagne plus d'argent à parler avec les clients qu'à les servir."
 
 # game/v13/scene6.rpy:127
 translate francais v13s06_9d6f835a:
 
     # u "Hmm. I may have to get in on that."
-    u "Hmm. Je devrais peut-être me mettre dans genre d'affaire."
+    u "Hmm. Je devrais peut-être me mettre dans ce genre d'affaire."
 
 # game/v13/scene6.rpy:132
 translate francais v13s06_d09cc295:
@@ -136,7 +136,7 @@ translate francais v13s06_15ac0275:
 translate francais v13s06_d99dfb80:
 
     # u "Do you see this? I have all the muscle you need."
-    u "Vous voyez ça ? J'ai tous les muscles dont vous avez besoin."
+    u "Vous voyez ça ? J'ai tout les muscles dont vous avez besoin."
 
 # game/v13/scene6.rpy:154
 translate francais v13s06_cede5d4d:

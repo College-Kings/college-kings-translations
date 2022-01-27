@@ -64,7 +64,7 @@ translate francais v13_ticket_transfer_938aa3c7:
 translate francais v13_ticket_transfer_7c71d984:
 
     # lee "Well, in my opinion, you and him share many similar characteristics. Many of which you demonstrated on the ferry."
-    lee "Eh bien, à mon avis, vous et lui partagez de nombreux points communs. La plupart se sont révélées sur le ferry."
+    lee "Eh bien, à mon avis, vous et lui partagez de nombreux points communs. La plupart se sont révélés sur le ferry."
 
 # game/v13/scene7.rpy:68
 translate francais v13_ticket_transfer_409516e9:
@@ -190,7 +190,7 @@ translate francais v13_ticket_transfer_2bd65d80:
 translate francais v13_ticket_transfer_ac2e92d1:
 
     # u "(Wait what?! Including backstage passes and after party access?! Holy shit, Mr. Lee... Definitely a flex, but I'll take it, nonetheless.) *Chuckles*"
-    u "(Attendez quoi ? ! En plus des pass backstage il y a un accès à la soirée after ?! Putain de merde, Mr Lee... C'est carrément un homme d'une grande classe, et je les accepte avec plaisir.) *Rire*"
+    u "(Attend quoi ?! En plus des pass backstage il y a un accès à la soirée after ?! Putain de merde, Mr Lee... C'est carrément un homme d'une grande classe, et je les accepte avec plaisir.) *Rire*"
 
 # game/v13/scene7.rpy:177
 translate francais v13_ticket_transfer_93c80bf3:
@@ -232,7 +232,7 @@ translate francais v13_ticket_transfer_e4455704:
 translate francais v13_ticket_transfer_d620df0f:
 
     # u "Well, thanks. *Chuckles* But look, I know they've been keeping you busy, but I was hoping you could go with me."
-    u "Merci. *Rire* Mais écoute, je sais qu'ils te font beaucoup travailler, mais j'espérais que tu pourrais venir avec moi."
+    u "Merci. *Rire* Écoute, je sais qu'ils te font beaucoup travailler, mais j'espérais que tu pourrais venir avec moi."
 
 # game/v13/scene7.rpy:240
 translate francais v13_ticket_transfer_8d5ade42:
@@ -286,7 +286,7 @@ translate francais v13_ticket_transfer_c22ee84f:
 translate francais v13_ticket_transfer_babc0bfd:
 
     # u "Haha, okay Miss Rule Follower. Go get the job done!"
-    u "Haha, ok Mlle suislesrègles. Va faire ton travail !"
+    u "Haha, ok Mlle Suislesrègles. Va faire ton travail !"
 
 # game/v13/scene7.rpy:289
 translate francais v13_ticket_transfer_68509afc:

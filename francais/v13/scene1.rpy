@@ -4,7 +4,7 @@
 translate francais v13_start_ea0afc58:
 
     # ri "Since he decided to take something special from me and ruin it... Let's ruin something special of his. He thinks it's entertaining to not only frame someone, but also embarrass a so-called friend in the process."
-    ri "Puisqu'il a décidé de prendre quelque chose de spécial pour moi et de le ruiner... Ruinons à notre tour quelque chose de spécial à lui. Il croit que c'est amusant non seulement de piéger quelqu'un, mais aussi de faire honte à une soi-disant amie dans le processus."
+    ri "Puisqu'il a décidé de me prendre quelque chose de spécial et de nous nuire... Détruisons le à notre tour en s'en prenant à quelque chose qui est spécial pour lui. Il croit que c'est amusant non seulement de piéger quelqu'un, mais aussi de faire honte à une soi-disant amie dans le processus."
 
 # game/v13/scene1.rpy:18
 translate francais v13_start_0b1e02e4:
@@ -64,7 +64,7 @@ translate francais v13_start_cd2098b1:
 translate francais v13_start_2e059ea9:
 
     # u "*Laughs* Okay, I'm also enjoying this, but please don't make that face. I can't take you seriously when you do that... *Chuckles*"
-    u "*Rire* Ok, j'aime aussi ça, mais s'il te plaît ne fais pas cette tête. Je ne peux pas te prendre au sérieux quand tu es comme ça...  *Rire*"
+    u "*Rire* Ok, j'aime ça, mais s'il te plaît ne fais pas cette tête. Je ne peux pas te prendre au sérieux quand tu es comme ça...  *Rire*"
 
 # game/v13/scene1.rpy:66
 translate francais v13_start_302a0e24:
@@ -112,7 +112,7 @@ translate francais v13_start_e58d27c3:
 translate francais v13_start_07b5f16f:
 
     # ri "Nope, never claimed to be! I just act accordingly. If people are nice to me I'll be an angel, but the minute they cross me, I cross them."
-    ri "Non, je n'ai jamais prétendu l'être ! J'agis juste en conséquence. Si les gens sont gentils avec moi, je suis un ange, mais dès qu'ils me contrarient, je peut être très mauvaise."
+    ri "Non, je n'ai jamais prétendu l'être ! J'agis juste en conséquence. Si les gens sont gentils avec moi, je suis un ange, mais dès qu'ils me contrarient, je peux être très mauvaise."
 
 # game/v13/scene1.rpy:103
 translate francais v13_start_368bd8e4:

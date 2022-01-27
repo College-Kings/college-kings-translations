@@ -52,13 +52,13 @@ translate francais v13s4_0b2792ce:
 translate francais v13s4_1ed6631c:
 
     # u "Were you just standing there asleep? *Chuckles*"
-    u "Tu es restée là à dormir ? *Rire*"
+    u "T'étais en train de t'endormir ? *Rire*"
 
 # game/v13/scene4.rpy:84
 translate francais v13s4_0a89d766:
 
     # cl "I'm so tired, [name]. I woke up way too early this morning and that bus ride was making me sick so I couldn't sleep."
-    cl "Je suis tellement fatiguée, [name]. Je me suis réveillée trop tôt ce matin et le trajet en bus m'a rendue malade, alors je n'ai pas pu dormir."
+    cl "Je suis tellement fatiguée, [name]. Je me suis réveillée trop tôt ce matin et le trajet en bus m'a rendu malade, alors je n'ai pas pu dormir."
 
 # game/v13/scene4.rpy:89
 translate francais v13s4_54f4afc4:
@@ -76,4 +76,4 @@ translate francais v13s4_27760dd2:
 translate francais v13s4_61e2016b:
 
     # u "*Chuckles* Right behind you."
-    u "*Rire* Juste derrière toi."
+    u "*Rire* Je suis derrière toi."

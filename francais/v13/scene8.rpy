@@ -94,7 +94,7 @@ translate francais v13s8_44c54c85:
 translate francais v13s8_5e9286ce:
 
     # no "I don't believe in cheating at all. I'm so sorry I got you mixed up in all of this... I should have never d-"
-    no "Je ne crois pas du tout à l'infidélité. Je suis désolée de t'avoir mêlée à tout ça... Je n'aurais jamais dû..."
+    no "Je ne crois pas du tout à l'infidélité. Je suis désolée de t'avoir mêlé à tout ça... Je n'aurais jamais dû..."
 
 # game/v13/scene8.rpy:127
 translate francais v13s8_fda16e45:
@@ -118,7 +118,7 @@ translate francais v13s8_e91eddb9:
 translate francais v13s8_d5348ec1:
 
     # u "I understand not believing in cheating, so leave him then. You say that you know he's doing wrong by you, yet you're still wanting to do right by him and it's completely contradicting."
-    u "Je comprends que vous ne veuille pas le tromper, alors quitte-le. Tu dis que tu sais qu'il te fait du mal, mais tu veux quand même lui faire du bien et c'est complètement contradictoire."
+    u "Je comprends que tu ne veuilles pas le tromper, alors quitte-le. Tu dis qu'il te fait du mal, mais tu veux quand même rester avec lui et qu'il soit bien, c'est complètement contradictoire."
 
 # game/v13/scene8.rpy:150
 translate francais v13s8_f1b98ea6:
@@ -130,13 +130,13 @@ translate francais v13s8_f1b98ea6:
 translate francais v13s8_84def619:
 
     # u "I mean it when I say this, Nora. I'm not gonna walk around feeling bad for what we did. I didn't do it because I hate Chris, I did it because I really, really like you."
-    u "Je suis sérieux quand je dis ça, Nora. Je ne vais pas me promener en me sentant mal pour ce que nous avons fait. Je ne l'ai pas fait parce que je déteste Chris, je l'ai fait parce que je t'aime vraiment, vraiment beaucoup."
+    u "Je suis sérieux quand je dis ça, Nora. Je ne vais pas me sentir mal pour ce que nous avons fait. Je ne l'ai pas fait parce que je déteste Chris, je l'ai fait parce que je t'aime vraiment... Vraiment beaucoup."
 
 # game/v13/scene8.rpy:160
 translate francais v13s8_d7ddc0e7:
 
     # no "*Sighs* This is a lot, [name]. In the moment it felt right but... Now I know for sure that it wasn't."
-    no "*Soupirs* C'est beaucoup, [name]. Sur le moment, ça avait l'air bien mais... Maintenant je suis sûre que ça ne l'était pas."
+    no "*Soupirs* C'est mal, [name]. Sur le moment, ça avait l'air bien mais... Maintenant je suis sûre que ça ne l'était pas."
 
 # game/v13/scene8.rpy:165
 translate francais v13s8_1f12ba63:
@@ -154,7 +154,7 @@ translate francais v13s8_d2e93cff:
 translate francais v13s8_736f9445:
 
     # no "I'd rather not make any more mistakes while I'm still in a relationship."
-    no "Je préfère ne pas faire d'autres erreurs alors que je suis encore dans en couple."
+    no "Je préfère ne pas faire d'autres erreurs alors que je suis encore en couple."
 
 # game/v13/scene8.rpy:177
 translate francais v13s8_cfaa2f32:
@@ -166,7 +166,7 @@ translate francais v13s8_cfaa2f32:
 translate francais v13s8_786be6bc:
 
     # no "I'm not sure, I really just need time to figure everything out. So for now, can we just act as if nothing happened between us?"
-    no "Je ne suis pas sûre, j'ai vraiment besoin de temps pour tout comprendre. Donc pour l'instant, peut-on faire comme si rien ne s'était passé entre nous ?"
+    no "Je ne suis pas sûre, j'ai vraiment besoin de temps pour tout comprendre. Donc pour l'instant, peut-on faire comme si rien ne c'était passé entre nous ?"
 
 # game/v13/scene8.rpy:187
 translate francais v13s8_b6a62e60:
@@ -406,7 +406,7 @@ translate francais v13s8_20ba4975:
 translate francais v13s8_d48389ad:
 
     # no "Haha, we were! But once we got involved in the Chicks, things changed."
-    no "Haha, nous l'étions ! Mais une fois que nous sommes entrés et nous sommes impliqués dans les Chicks, les choses ont changé."
+    no "Haha, nous l'étions ! Mais une fois que nous sommes entrées et nous sommes impliquées dans les Chicks, les choses ont changé."
 
 # game/v13/scene8.rpy:392
 translate francais v13s8_cd8f704d:
@@ -424,7 +424,7 @@ translate francais v13s8_83f935a8:
 translate francais v13s8_c45e583e:
 
     # u "Yeah, except this time it's not just you with those disagreements. Let's hope everything works out."
-    u "Oui, sauf que cette fois, il n'y a pas que toi à être en désaccords. Espérons que tout s'arrange."
+    u "Oui, sauf que cette fois, il n'y a pas que toi à être en désaccord. Espérons que tout s'arrange."
 
 # game/v13/scene8.rpy:407
 translate francais v13s8_fa10fa2a:
@@ -448,7 +448,7 @@ translate francais v13s8_b0eeeca2:
 translate francais v13s8_1b28a406:
 
     # u "Of course."
-    u "Pas de soucis."
+    u "Pas de souci."
 
 translate francais strings:
 

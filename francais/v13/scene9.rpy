@@ -4,7 +4,7 @@
 translate francais v13s9_264d220a:
 
     # cl "Oh! Hey there handsome. Guess I won't have to go around the hotel looking for you since you're right here. *Chuckles*"
-    cl "Oh ! Hey là, beau gosse. Je vois que je n'aurai pas à faire le tour de l'hôtel pour te chercher car tu es juste là. *Rire*"
+    cl "Oh ! Hey là, beau gosse. Je vois que je n'aurais pas à faire le tour de l'hôtel pour te chercher puisque tu es juste là. *Rire*"
 
 # game/v13/scene9.rpy:41
 translate francais v13s9_f74fa973:
@@ -82,7 +82,7 @@ translate francais v13s9_e7a41f39:
 translate francais v13s9_6dc721a3:
 
     # cl "I don't know how I feel about what I'm looking at..."
-    cl "Je ne sais pas que ressentir, par rapport à ce que je vois..."
+    cl "Je ne sais que ressentir, par rapport à ce que je vois..."
 
 # game/v13/scene9.rpy:144
 translate francais v13s9_fc455de7:
@@ -124,7 +124,7 @@ translate francais v13s9_1d719bb6:
 translate francais v13s9_97b6256d:
 
     # cl "You're fine... Sorry. Talking about it with you doesn't really bother me actually. I need to discuss it with someone; I need to discuss a lot of things on my mind."
-    cl "C'est rien... Désolée. Discuter de ça avec toi ne me dérange pas vraiment, en fait. J'ai besoin d'en parler à quelqu'un, j'ai besoin de me confier sur beaucoup de choses qui me préoccupent."
+    cl "C'est rien... Désolée. Discuter de ça avec toi ne me dérange pas vraiment, en fait. J'ai besoin d'en parler à quelqu'un, j'ai besoin de de parler de beaucoup de choses qui me préoccupent."
 
 # game/v13/scene9.rpy:179
 translate francais v13s9_c38e0b2a:
@@ -496,7 +496,7 @@ translate francais v13s9_7503519e:
 translate francais v13s9_38a3aaac:
 
     # cl "Go ahead and take it."
-    cl "Vas-y, prends-le."
+    cl "Vas-y, réponds."
 
 # game/v13/scene9.rpy:535
 translate francais v13s9_fcfea652:
@@ -664,7 +664,7 @@ translate francais v13s9_continue_f9f486b2:
 translate francais v13s9_continue_dd486368:
 
     # cl "Haha! I wanna go back and get the scoop on all of this. Knowing Imre, he's been bragging all about it. I'll just talk to Luuk and see what's up."
-    cl "Haha ! J'aimerais revenir en arrière et avoir le scoop de tout ça. Connaissant Imre, il s'en est vanté. Je vais juste aller parler à Luuk et voir ce qu'il sait de tout ça."
+    cl "Haha ! J'aimerais revenir en arrière et avoir le scoop de tout ça. Connaissant Imre, il s'en est vanté. Je vais aller parler à Luuk et voir ce qu'il sait de tout ça."
 
 # game/v13/scene9.rpy:705
 translate francais v13s9_continue_7226b4e9:

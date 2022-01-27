@@ -22,7 +22,7 @@ translate francais v12_riley_ending_b1a1c994:
 translate francais v12_riley_ending_21483b73:
 
     # u "Is it time for the begging and pleading for forgiveness that I predicted?"
-    u "Ah ! C'est le moment de supplier et d'implorer le pardon, comme je l'avais prédit ?"
+    u "Ah ! C'est le moment de supplier et d'implorer mon pardon, comme je l'avais prédit ?"
 
 # game/v12/scene37.rpy:38
 translate francais v12_riley_ending_1b8ef06e:
