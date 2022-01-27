@@ -256,7 +256,7 @@ translate francais apes_join_ceremony_927d9131:
 translate francais apes_join_ceremony_33defcec:
 
     # gr "...my man [name]! You're in!"
-    gr "...mon gars [nom] ! Tu l'as !"
+    gr "...mon gars [name] ! Tu l'as !"
 
 # game/v8/scene12.rpy:168
 translate francais apes_join_ceremony_65a044a6:

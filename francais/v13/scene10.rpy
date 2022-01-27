@@ -118,7 +118,7 @@ translate francais v13s9_PhoneContinuePenelope_88d710ce:
 translate francais v13s9_PhoneContinuePenelope_001e15b3:
 
     # u "(What else have I got to do?)"
-    u "( J'ai quoi de mieux à faire ?)"
+    u "(Qu'est-ce que j'ai d'autre à faire ?)"
 
 # game/v13/scene10.rpy:169
 translate francais v13s9_PhoneContinuePenelope_4d3e415f:

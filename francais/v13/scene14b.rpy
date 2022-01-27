@@ -40,7 +40,7 @@ translate francais v13s14b_ea34e808:
 translate francais v13s14b_02fa723f:
 
     # polly "Oh, c'mon... You can have one drink."
-    polly "Oh, allez... Tu peut prendre un verre."
+    polly "Oh, allez... Tu peux prendre un verre."
 
 # game/v13/scene14b.rpy:54
 translate francais v13s14b_e3e9d036:
@@ -82,19 +82,19 @@ translate francais v13s14b_1bcbfabb:
 translate francais v13s14b_5360e7b9:
 
     # random_guy "You guys aren't having this softie here, drink are you? *Scoffs*"
-    random_guy "Vous n'allez pas recevoir cette mauviette ici, n'est-ce pas ? *Pffff*"
+    random_guy "Vous n'allez pas recevoir ce boudin ici, n'est-ce pas ? *Pffff*"
 
 # game/v13/scene14b.rpy:85
 translate francais v13s14b_ed251715:
 
     # random_guy "Don't look at me when she's sitting on her ass. *Laughs*"
-    random_guy "Ne me regarde pas quand elle est assise sur son cul. *Rire*"
+    random_guy "Ne me regarde pas tête de cul. *Rire*"
 
 # game/v13/scene14b.rpy:90
 translate francais v13s14b_fe327f67:
 
     # polly "Don't talk to my sis like that you fucking dickbag!"
-    polly "Ne parle pas à ma soeur comme ça, espèce de sac à merde !"
+    polly "Ne parle pas comme ça à ma soeur, espèce de sac à merde !"
 
 # game/v13/scene14b.rpy:100
 translate francais v13s14b_4cc02504:
@@ -106,7 +106,7 @@ translate francais v13s14b_4cc02504:
 translate francais v13s14b_5dc6bf3c:
 
     # u "*Chuckles* Don't look at me."
-    u "*Rire* Ne me regarde pas."
+    u "*Rire* C'est pas moi qu'il faut regarder."
 
 # game/v13/scene14b.rpy:110
 translate francais v13s14b_4e4c95df:
@@ -352,7 +352,7 @@ translate francais v13s14b_77d4c16e:
 translate francais v13s14b_2d949997:
 
     # polly "Hey dickhead, get the chauffeur ready!"
-    polly "Hé, tête de noeud, prépare le chauffeur !"
+    polly "Hé, tête de noeud, appelle mon chauffeur !"
 
 # game/v13/scene14b.rpy:373
 translate francais v13s14b_5d8a50ac:

@@ -58,7 +58,7 @@ translate francais v13s11_0619d5a9:
 translate francais v13s11_c520294c:
 
     # ry "*Whispers* What the fuck is that supposed to do?!"
-    ry "*Chuchote* Qu'est-ce que t'es censé faire ? !"
+    ry "*Chuchote* Qu'est-ce que t'es censé faire ?!"
 
 # game/v13/scene11.rpy:92
 translate francais v13s11_f97bf165:
@@ -94,7 +94,7 @@ translate francais v13s11_bc26f1ae:
 translate francais v13s11_267bd1bc:
 
     # imre "He what? What the hell is happening? Were you two following me?!"
-    imre "Il quoi ? Qu'est-ce qui s'passe, bordel ? Est-ce que vous me suiviez tous les deux ?!"
+    imre "Il quoi ? Qu'est-ce qui s'passe, bordel ? Est-ce que vous m'suiviez tous les deux ?!"
 
 # game/v13/scene11.rpy:140
 translate francais v13_push_ryan_7032a2b7:
@@ -130,7 +130,7 @@ translate francais v13_push_ryan_977e2c7c:
 translate francais v13_push_ryan_1b7b9a8d:
 
     # imre "I'm going on a date... Why are you hiding behind the wall?"
-    imre "J'vais à un rendez-vous... Pourquoi te caches-tu derrière le mur ?"
+    imre "J'vais à un rendez-vous... Pourquoi tu t'caches derrière le mur ?"
 
 # game/v13/scene11.rpy:175
 translate francais v13_push_ryan_eefb38ff:
@@ -148,7 +148,7 @@ translate francais v13_push_ryan_d761f0e3:
 translate francais v13_push_ryan_a9e179f3:
 
     # imre "He what? You're following me?! What the hell is going on?"
-    imre "Il quoi ? Vous me suiviez ?! Qu'est-ce qui s'passe, bordel ?"
+    imre "Il quoi ? Vous m'suiviez ?! Qu'est-ce qui s'passe, bordel ?"
 
 # game/v13/scene11.rpy:191
 translate francais v13_imre_continue_ccae6eb5:
@@ -160,7 +160,7 @@ translate francais v13_imre_continue_ccae6eb5:
 translate francais v13_imre_continue_e4ddf531:
 
     # imre "What? Why? I don't understand how I could take this in a \"not weird\" way."
-    imre "Quoi ? Pourquoi ? J'vois pas comment je pourrais prendre ça d'une autre manière que \"mal\"."
+    imre "Quoi ? Pourquoi ? J'vois pas comment j'pourrais prendre ça d'une autre manière que \"mal\"."
 
 # game/v13/scene11.rpy:201
 translate francais v13_imre_continue_53c737c6:
@@ -172,7 +172,7 @@ translate francais v13_imre_continue_53c737c6:
 translate francais v13_imre_continue_c1e67656:
 
     # imre "Ahh, I get it... So you two are jealous and wanna ruin my date?"
-    imre "Ahh, j'comprends... Donc vous êtes tous les deux jaloux et voulez gâcher mon rencard ?"
+    imre "Ahh, j'comprends... Donc vous êtes tous les deux jaloux et vous voulez gâcher mon rencard ?"
 
 # game/v13/scene11.rpy:211
 translate francais v13_imre_continue_22f39854:
@@ -190,7 +190,7 @@ translate francais v13_imre_continue_c664a161:
 translate francais v13_imre_continue_ffccee83:
 
     # u "I'm not saying I do or don't believe it's a catfish, but what's the harm in us checking it out? Or at least sticking around in case it ends badly?"
-    u "Je ne dis pas que je crois ou ne crois pas que c'est un catfish, mais où est le mal si on vérifie ? Ou au moins rester dans le coin au cas où ça finirait mal ?"
+    u "Je ne dis pas que je crois ou ne crois pas que c'est un catfish, mais où est le mal si on vérifie ? Ou si on reste dans le coin au cas où ça finirait mal ?"
 
 # game/v13/scene11.rpy:226
 translate francais v13_imre_continue_2c801063:

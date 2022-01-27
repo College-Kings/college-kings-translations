@@ -28,7 +28,7 @@ translate francais v13s13b_59dbbf76:
 translate francais v13s13b_582f4786:
 
     # polly "*Chuckles* You're a shy one aren't you? You didn't seem shy when you were singing all my lyrics, though. You knew the songs word for word."
-    polly "*Rire* Tu es un timide, n'est-ce pas ? Tu n'avais pas l'air timide quand tu chantais mes paroles, pourtant. Tu connaissais les chansons mot pour mot."
+    polly "*Rire* Tu es timide, n'est-ce pas ? Tu n'avais pourtant pas l'air de l'être quand tu chantais mes paroles. Tu connaissais les chansons mot pour mot."
 
 # game/v13/scene13b.rpy:45
 translate francais v13s13b_a603d584:
