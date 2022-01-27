@@ -64,7 +64,7 @@ translate francais v12_lindsey_lobby_ca73a73f:
 translate francais v12_lindsey_lobby_9f3e8541:
 
     # li "I'm pretty sure I saw Charli with Riley's wallet..."
-    li "Je suis presque sûr d'avoir vu Charli avec le portefeuille de Riley..."
+    li "Je suis presque sûre d'avoir vu Charli avec le portefeuille de Riley..."
 
 # game/v12/scene36.rpy:106
 translate francais v12_lindsey_lobby_076e137b:
@@ -76,13 +76,13 @@ translate francais v12_lindsey_lobby_076e137b:
 translate francais v12_lindsey_lobby_c4a5a5db:
 
     # li "Well... We went for coffee a long time ago and she paid. So I know it was the same kind of wallet, but I don't wanna assume he stole it."
-    li "Eh bien... Nous sommes allés prendre un café il y a un moment et elle a payé. Donc je sais que c'était le même genre de portefeuille, mais je ne veux pas conclure qu'il l'a volé."
+    li "Eh bien... Nous sommes allés prendre un café il y a un moment et elle a payé. Donc je sais que c'était le même genre de portefeuille, mais je ne veux pas conclure qu'il l'ait volé."
 
 # game/v12/scene36.rpy:116
 translate francais v12_lindsey_lobby_5d997d61:
 
     # li "Even though it was the exact same wallet she has, I mean... With Charli being you know, gay, I thought it might be possible that he just has the same one."
-    li "Même si c'était exactement le même portefeuille qu'elle, je voulais dire... Charli étant, tu sais, gay, j'ai pensé qu'il était possible qu'il ait le même."
+    li "Même si c'était exactement le même portefeuille qu'elle, je voulais dire... Charli étant, tu sais... Gay. J'ai pensé qu'il était possible qu'il ait le même."
 
 # game/v12/scene36.rpy:121
 translate francais v12_lindsey_lobby_c1b40249:
@@ -136,7 +136,7 @@ translate francais v12_lindsey_lobby_9279872f:
 translate francais v12_lindsey_lobby_affcf120:
 
     # bartender "Haha, I just like to start the day with a bit of laughter..."
-    bartender "Haha, j'aime juste commencer la journée en riant un peu..."
+    bartender "Haha, j'aime commencer la journée en riant un peu..."
 
 # game/v12/scene36.rpy:171
 translate francais v12_lindsey_lobby_f7506b62:
@@ -190,7 +190,7 @@ translate francais v12_lindsey_lobby_51cbab07:
 translate francais v12_lindsey_lobby_9401dfe1:
 
     # u "I'll be happy to see the result of all this. Good or bad, it'll be entertaining. *Chuckles*"
-    u "Je serai heureux de voir le résultat de tout ça. Bon ou mauvais, ce sera divertissant. *Rire*"
+    u "Je serai heureux de voir le résultat de tout ça. Bon ou mauvais, ça va être divertissant. *Rire*"
 
 # game/v12/scene36.rpy:224
 translate francais v12_lindsey_lobby_45a5a17e:

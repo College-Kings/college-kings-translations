@@ -172,7 +172,7 @@ translate francais v12_nora_room_c9b67ddb:
 translate francais v12_nora_room_5d136b66:
 
     # u "The closer the better... *Chuckles*"
-    u "Plus c'est proche, mieux c'est... *Rire*"
+    u "Plus c'est \"complet\", mieux c'est... *Rire*"
 
 # game/v12/scene35a.rpy:170
 translate francais v12_nora_room_dea0ed80:
@@ -424,7 +424,7 @@ translate francais v12_nora_sex_3feba3c8:
 translate francais v12_nora_sex_2ccb4942:
 
     # u "I always fucking have."
-    u "Je t'ai toujours désirée."
+    u "Je t'ai toujours désiré."
 
 # game/v12/scene35a.rpy:525
 translate francais v12_nora_sex_11e289ee:
@@ -478,7 +478,7 @@ translate francais v12_nora_sex_a19606cf:
 translate francais v12_nora_sex_eddc179f:
 
     # no "But you feel so... fucking... GOOD!"
-    no "Mais tu te sens si... putain... BIEN !"
+    no "Mais tu te sens si... putain de... BIEN !"
 
 # game/v12/scene35a.rpy:578
 translate francais v12_nora_sex_497cf11d:
@@ -580,13 +580,13 @@ translate francais v12_nora_sex_f241214b:
 translate francais v12_nora_sex_0eec34b9:
 
     # no "Yes, of course... You will."
-    no "Oui, bien sûr... tu veux."
+    no "Oui, bien sûr... moi aussi je veux."
 
 # game/v12/scene35a.rpy:683
 translate francais v12_nora_sex_b260f100:
 
     # u "Good."
-    u "Bien."
+    u "Cool."
 
 # game/v12/scene35a.rpy:693
 translate francais v12_nora_sex_740e93fc:
@@ -604,7 +604,7 @@ translate francais v12_nora_sex_22ab8908:
 translate francais v12s35a_nsfwSkipLabel1_ca110429:
 
     # u "(I just had sex with Nora. NORA!!! I fucked Chris' girl! Wow... Gonna have to sleep on this one.)"
-    u "(Je viens de faire l'amour avec Nora. NORA ! !! J'ai baisé la copine de Chris ! Wow... Je vais devoir dormir sur ça.)"
+    u "(Je viens de faire l'amour avec Nora. NORA ! !! J'ai baisé la copine de Chris ! Wow... Je vais devoir dormir avec ça dans la tête.)"
 
 translate francais strings:
 
