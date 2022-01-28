@@ -172,4 +172,4 @@ translate francais v13s47_1ce7c679:
 translate francais v13s47_dda370cd:
 
     # u "Bye, you too."
-    u "Bye, toi aussi."
+    u "Toi aussi, bye."

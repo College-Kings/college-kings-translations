@@ -376,7 +376,7 @@ translate francais v11_cardealership_743787c1:
 translate francais v11_cardealership_16f3e38e:
 
     # u "Just how big your forehead is... *Laughs*"
-    u "Juste à quel point ton front est grand... *Rire*"
+    u "À quel point ton front est grand... *Rire*"
 
 # game/v11/scene34.rpy:413
 translate francais v11_cardealership_43c81970:
@@ -514,13 +514,13 @@ translate francais v11_cardealership_085bf9e2:
 translate francais v11_cardealership_b2daf0f9:
 
     # u "C'mon, let's get this car back."
-    u "Allez, ramenons cette voiture."
+    u "Allez, on va ramener cette voiture."
 
 # game/v11/scene34.rpy:610
 translate francais v11_cardealership_b2daf0f9_1:
 
     # u "C'mon, let's get this car back."
-    u "Allez, ramenons cette voiture."
+    u "Allez, on va ramener cette voiture."
 
 # game/v11/scene34.rpy:627
 translate francais v11_cardealership_22b8762e_1:
@@ -550,7 +550,7 @@ translate francais v11_cardealership_743787c1_1:
 translate francais v11_cardealership_16f3e38e_1:
 
     # u "Just how big your forehead is... *Laughs*"
-    u "Juste à quel point ton front est grand... *Rire*"
+    u "À quel point ton front est grand... *Rire*"
 
 # game/v11/scene34.rpy:652
 translate francais v11_cardealership_43c81970_1:
@@ -628,7 +628,7 @@ translate francais v11_cardealership_f71e142c:
 translate francais v11_cardealership_0d0897c2:
 
     # cl "So sorry, one second... My phone is ringing."
-    cl "Vraiment désolée, je vous demande une seconde... Mon téléphone sonne."
+    cl "Oh, vraiment désolée, je vous demande une seconde... Mon téléphone sonne."
 
 # game/v11/scene34.rpy:742
 translate francais v11_cardealership_01088e3f:
@@ -743,371 +743,370 @@ translate francais strings:
 translate francais v11s34_c1_13a9912f:
 
     # u "You are perfect."
-    u ""
+    u "Tu es parfaite."
 
 # game/v11/scene34.rpy:403
 translate francais v11s34_c1_b495f5d2:
 
     # cl "Ha, no I'm not. Nobody is."
-    cl ""
+    cl "Ha, non je ne le suis pas. Personne ne l'est."
 
 # game/v11/scene34.rpy:408
 translate francais v11s34_c1_9765acaa:
 
     # u "You're right. No one is perfect, but there are people that are perfect for each other and you, Chloe Moralez, are perfect for me."
-    u ""
+    u "Tu as raison. Personne n'est parfait, mais il y a des gens qui sont parfaits pour l'autre et toi, Chloé Moralez, tu es parfaite pour moi."
 
 # game/v11/scene34.rpy:413
 translate francais v11s34_c1_d654736f:
 
     # cl "[name]-"
-    cl ""
+    cl "[name]-"
 
 # game/v11/scene34.rpy:425
 translate francais v11s34_c1_81ded487:
 
     # cl "I really like you, [name]."
-    cl ""
+    cl "Je t'aime beaucoup, [name]."
 
 # game/v11/scene34.rpy:430
 translate francais v11s34_c1_d7df013d:
 
     # u "I like you too."
-    u ""
+    u "Je t'aime beaucoup également."
 
 # game/v11/scene34.rpy:441
 translate francais v11s34_c1_88da3405:
 
     # u "Chloe, I've been captured by you since the moment I first saw you. Every day I think about you and hope that we can be together at all times."
-    u ""
+    u "Chloé, tu m'as captivé depuis le premier regard que j'ai posé sur toi. Chaque jour, je pense à toi et j'espère que nous pourrons être ensemble à chaque instant."
 
 # game/v11/scene34.rpy:442
 translate francais v11s34_c1_5d91b504:
 
     # u "I don't know what I'd do if one day you were just... gone. The truth is... I love you, Chloe, and I don't want to go another day without you being mine."
-    u ""
+    u "Je ne sais pas ce que je ferais si un jour tu étais juste... partie. La vérité est que... Je t'aime, Chloé, et je ne veux pas passer un autre jour sans que tu ne sois mienne."
 
 # game/v11/scene34.rpy:443
 translate francais v11s34_c1_52dede05:
 
     # u "So with all that said, can we make it official? Will you be my girl?"
-    u ""
+    u "Donc, avec tout ce qui est dit, pouvons-nous le rendre officiel ? Veux-tu être ma petite amie ?"
 
 # game/v11/scene34.rpy:450
 translate francais v11s34_c1_c674dc7a:
 
     # cl "I... I love you too. Yes, yes I'll be your girl!"
-    cl ""
+    cl "Je... Je t'aime aussi. Oui, oui, je serai ta petite amie !"
 
 # game/v11/scene34.rpy:471
 translate francais v11s34_c1_384de051:
 
     # u "(Damn, two girlfriends. This could get complicated fast.)"
-    u ""
+    u "(Merde, deux petites amies. Ça pourrait vite devenir compliqué.)"
 
 # game/v11/scene34.rpy:473
 translate francais v11s34_c1_f14c76ad:
 
     # u "Wow... c'mon, let's get this car back."
-    u ""
+    u "Wow... Allez, on va ramener cette voiture."
 
 # game/v11/scene34.rpy:491
 translate francais v11s34_c1_8eef518f:
 
     # cl "[name], I care about you a lot too, and I've enjoyed the time we've spent together, but we have so much more to explore about each other."
-    cl ""
+    cl "[Name], je tiens beaucoup à toi aussi, et j'ai apprécié le temps que nous avons passé ensemble, mais nous avons encore tellement de choses à découvrir l'un sur l'autre."
 
 # game/v11/scene34.rpy:492
 translate francais v11s34_c1_9f7192c4:
 
     # cl "You may like what you see now, but there's still so much we don't know about each other."
-    cl ""
+    cl "Tu peux aimer ce que tu vois maintenant, mais il y a encore tellement de choses que nous ne savons pas l'un sur l'autre."
 
 # game/v11/scene34.rpy:500
 translate francais v11s34_c1_e41e6de2:
 
     # cl "I like where we're at, and I'm only focused on you, but we don't need to rush anything. I'm not going anywhere."
-    cl ""
+    cl "J'aime où on en est, et je ne pense qu'à toi, mais on n'a pas besoin de se précipiter. Je suis jeune, je n'ai pas encore d'objectif à long terme."
 
 # game/v11/scene34.rpy:505
 translate francais v11s34_c1_085bf9e2:
 
     # u "I won't be going anywhere either."
-    u ""
+    u "Je n'en ai pas non plus."
 
 # game/v11/scene34.rpy:517
 translate francais v11s34_c1_b2daf0f9:
 
     # u "C'mon, let's get this car back."
-    u ""
+    u "Allez, on va ramener cette voiture."
 
 # game/v11/scene34.rpy:535
 translate francais v11s34_c1_b2daf0f9_1:
 
     # u "C'mon, let's get this car back."
-    u ""
+    u "Allez, on va ramener cette voiture."
 
 # game/v11/scene34.rpy:552
 translate francais v11s34_c1_22b8762e:
 
     # u "I just never realized how..."
-    u ""
+    u "Je n'avais jamais réalisé à quel point..."
 
 # game/v11/scene34.rpy:557
 translate francais v11s34_c1_a29cfe69:
 
     # cl "Just how what?"
-    cl ""
+    cl "À quel point quoi ?"
 
 # game/v11/scene34.rpy:562
 translate francais v11s34_c1_7b1c1392:
 
     # u "..."
-    u ""
+    u "..."
 
 # game/v11/scene34.rpy:567
 translate francais v11s34_c1_743787c1:
 
     # cl "[name], what?"
-    cl ""
+    cl "[name], quoi ?"
 
 # game/v11/scene34.rpy:572
 translate francais v11s34_c1_16f3e38e:
 
     # u "Just how big your forehead is... *Laughs*"
-    u ""
+    u "À quel point ton front est grand... *Rire*"
 
 # game/v11/scene34.rpy:577
 translate francais v11s34_c1_43c81970:
 
     # cl "OH MY GOD, YOU'RE SUCH AN ASS! *Laughs* That's not funny."
-    cl ""
+    cl "OH PUTAIN, T'ES VRAIMENT UN CON ! *Rire* Ce n'est pas drôle."
 
 # game/v11/scene34.rpy:582
 translate francais v11s34_c1_1e470d97:
 
     # u "*Laughs* Ouch!"
-    u ""
+    u "*Rire* Aïe !"
 
 # game/v11/scene34.rpy:587
 translate francais v11s34_c1_71a7abc0:
 
     # cl "Get in before I start firing jokes back... You don't want me to hurt your feelings."
-    cl ""
+    cl "Rentre avant que je ne commence à faire des blagues en retour... Tu ne veux pas que je te vexe."
 
 # game/v11/scene34.rpy:592
 translate francais v11s34_c1_7e18cb10:
 
     # u "As you wish, your majesty."
-    u ""
+    u "Comme vous le souhaitez, votre majesté."
 
 # game/v11/scene34.rpy:599
 translate francais v11s34_c1_40195a02:
 
     # cl "If you don't hurry, I will leave you."
-    cl ""
+    cl "Si tu ne te dépêches pas, je vais partir seule."
 
 # game/v11/scene34.rpy:604
 translate francais v11s34_c1_ede6cd32:
 
     # u "I'm coming!"
-    u ""
+    u "J'arrive !"
 
 # game/v11/scene34.rpy:624
 translate francais v11s34_c1_22b8762e_1:
 
     # u "I just never realized how..."
-    u ""
+    u "Je n'avais jamais réalisé à quel point..."
 
 # game/v11/scene34.rpy:629
 translate francais v11s34_c1_a29cfe69_1:
 
     # cl "Just how what?"
-    cl ""
+    cl "À quel point quoi ?"
 
 # game/v11/scene34.rpy:634
 translate francais v11s34_c1_7b1c1392_1:
 
     # u "..."
-    u ""
+    u "..."
 
 # game/v11/scene34.rpy:639
 translate francais v11s34_c1_743787c1_1:
 
     # cl "[name], what?"
-    cl ""
+    cl "[name], quoi ?"
 
 # game/v11/scene34.rpy:644
 translate francais v11s34_c1_16f3e38e_1:
 
     # u "Just how big your forehead is... *Laughs*"
-    u ""
+    u "À quel point ton front est grand... *Rire*"
 
 # game/v11/scene34.rpy:649
 translate francais v11s34_c1_43c81970_1:
 
     # cl "OH MY GOD, YOU'RE SUCH AN ASS! *Laughs* That's not funny."
-    cl ""
+    cl "OH PUTAIN, T'ES VRAIMENT UN CON ! *Rire* Ce n'est pas drôle."
 
 # game/v11/scene34.rpy:654
 translate francais v11s34_c1_1e470d97_1:
 
     # u "*Laughs* Ouch!"
-    u ""
+    u "*Rire* Aïe !"
 
 # game/v11/scene34.rpy:659
 translate francais v11s34_c1_71a7abc0_1:
 
     # cl "Get in before I start firing jokes back... You don't want me to hurt your feelings."
-    cl ""
+    cl "Rentre avant que je ne commence à faire des blagues en retour... Tu ne veux pas que je te vexe."
 
 # game/v11/scene34.rpy:664
 translate francais v11s34_c1_7e18cb10_1:
 
     # u "As you wish, your majesty."
-    u ""
+    u "Comme vous le souhaitez, votre majesté."
 
 # game/v11/scene34.rpy:671
 translate francais v11s34_c1_40195a02_1:
 
     # cl "If you don't hurry, I will leave you."
-    cl ""
+    cl "Si tu ne te dépêches pas, je vais partir seule."
 
 # game/v11/scene34.rpy:676
 translate francais v11s34_c1_ede6cd32_1:
 
     # u "I'm coming!"
-    u ""
+    u "J'arrive !"
 
 # game/v11/scene34.rpy:700
 translate francais v11s34_c1_d98251d9:
 
     # csa "Did you two enjoy the ride?"
-    csa ""
+    csa "Avez-vous apprécié la conduite ?"
 
 # game/v11/scene34.rpy:706
 translate francais v11s34_c1_834a4b2d:
 
     # u "It changed our lives."
-    u ""
+    u "Ça a changé nos vies."
 
 # game/v11/scene34.rpy:711
 translate francais v11s34_c1_3da30892:
 
     # csa "You two have truly made my day."
-    csa ""
+    csa "Vous deux avez vraiment fait ma journée."
 
 # game/v11/scene34.rpy:717
 translate francais v11s34_c1_cce0e1c6:
 
     # u "It was nice."
-    u ""
+    u "C'était agréable."
 
 # game/v11/scene34.rpy:722
 translate francais v11s34_c1_bacafd6f:
 
     # csa "Wonderful!"
-    csa ""
+    csa "Merveilleux !"
 
 # game/v11/scene34.rpy:727
 translate francais v11s34_c1_f71e142c:
 
     # csa "So, will you two be purchasing the car?"
-    csa ""
+    csa "Alors, allez-vous acquérir ce véhicule ?"
 
 # game/v11/scene34.rpy:734
 translate francais v11s34_c1_0d0897c2:
 
     # cl "So sorry, one second... My phone is ringing."
-    cl ""
+    cl "Oh, vraiment désolée, je vous demande une seconde... Mon téléphone sonne."
 
 # game/v11/scene34.rpy:741
 translate francais v11s34_c1_01088e3f:
 
     # cl "Hello?"
-    cl ""
+    cl "Allo ?"
 
 # game/v11/scene34.rpy:746
 translate francais v11s34_c1_aa534330:
 
     # cl "Oh my god, we're on our way right now!"
-    cl ""
+    cl "Oh merde ! On arrive tout de suite !"
 
 # game/v11/scene34.rpy:751
 translate francais v11s34_c1_0c45b712:
 
     # cl "[name], we have to go right now. It's my sister."
-    cl ""
+    cl "[name], on doit y aller maintenant. C'est ma soeur."
 
 # game/v11/scene34.rpy:756
 translate francais v11s34_c1_cef767fb:
 
     # cl "I am so sorry, we'll be back if possible."
-    cl ""
+    cl "Je suis vraiment désolée, nous reviendrons si possible."
 
 # game/v11/scene34.rpy:761
 translate francais v11s34_c1_2056e805:
 
     # u "I'm sorry."
-    u ""
+    u "Je suis navré."
 
 # game/v11/scene34.rpy:766
 translate francais v11s34_c1_121df40b:
 
     # csa "No no, please go."
-    csa ""
+    csa "Non non, s'il vous plaît, allez-y."
 
 # game/v11/scene34.rpy:771
 translate francais v11s34_c1_1ac6f3dd:
 
     # cl "C'mon, [name]!"
-    cl ""
+    cl "Viens, [name] !"
 
 # game/v11/scene34.rpy:776
 translate francais v11s34_c1_36f768bf:
 
     # cl "*Whisper* Race ya."
-    cl ""
+    cl "*Chuchote* On fait la course."
 
 # game/v11/scene34.rpy:781
 translate francais v11s34_c1_5d6436d8:
 
     # u "*Whisper* Huh?"
-    u ""
+    u "*Chuchote* Hein ?"
 
 # game/v11/scene34.rpy:802
 translate francais v11s34_c1_a202b8f3:
 
     # cl "Damn, you're pretty fast."
-    cl ""
+    cl "Merde, tu es plutôt rapide."
 
 # game/v11/scene34.rpy:807
 translate francais v11s34_c1_57559dae:
 
     # u "Haha, you too."
-    u ""
+    u "Haha, toi aussi."
 
 # game/v11/scene34.rpy:830
 translate francais v11s34_c1_edb4fa11:
 
     # lee "[name], I don't believe that's your room."
-    lee ""
+    lee "[name], je ne crois pas que ce soit votre chambre."
 
 # game/v11/scene34.rpy:835
 translate francais v11s34_c1_b4f8e2a8:
 
     # u "(What a fucking cock-block.)"
-    u ""
+    u "(Quel putain de coincé du cul.)"
 
 # game/v11/scene34.rpy:840
 translate francais v11s34_c1_3f351345:
 
     # u "I'll see you soon, Chloe."
-    u ""
+    u "On se voit bientôt, Chloé."
 
 # game/v11/scene34.rpy:845
 translate francais v11s34_c1_2fa85960:
 
     # cl "You better."
-    cl ""
-
+    cl "Tu as intérêt."

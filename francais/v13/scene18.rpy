@@ -216,5 +216,4 @@ translate francais strings:
 
     # game/v13/scene18.rpy:160
     old "What was that about, you guys all good now or something? "
-    new ""
-
+    new "C'était quoi ça ? Vous êtes de nouveau bien ensemble ou quoi ?"

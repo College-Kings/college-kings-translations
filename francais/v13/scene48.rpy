@@ -58,19 +58,19 @@ translate francais v13s48_5b1bd0b0:
 translate francais v13s48_ddca86d9:
 
     # au "Haha, very true... We'll go with this then."
-    au "Haha, c'est vrai... On va faire avec ici, alors."
+    au "Haha, c'est vrai... On va faire ça ici, alors."
 
 # game/v13/scene48.rpy:78
 translate francais v13s48_a5fcb117:
 
     # au "Are you sure you know what you're doing?"
-    au "Tu es sûr que tu sais ce que tu fais ?"
+    au "Tu es sûr de savoir comment faire ?"
 
 # game/v13/scene48.rpy:83
 translate francais v13s48_53b1efdd:
 
     # u "I'm sure it's not that hard, I think I can press a button or two. *Chuckles*"
-    u "Je suis sûr que ce n'est pas si difficile, je pense que je peux appuyer sur un bouton ou deux. *Rire*"
+    u "Je suis sûr oui. C'est pas si difficile, je pense que je peux appuyer sur un bouton ou deux. *Rire*"
 
 # game/v13/scene48.rpy:88
 translate francais v13s48_8fc2470d:
@@ -226,7 +226,7 @@ translate francais v13s48_7c2151d3:
 translate francais v13s48_82d0527f:
 
     # au "Yes! I'm down."
-    au "Oui ! Je suis avec toi."
+    au "Oui ! avec plaisir."
 
 # game/v13/scene48.rpy:268
 translate francais v13s48_b94f2a2e:

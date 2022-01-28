@@ -789,5 +789,4 @@ translate francais strings:
 translate francais v12s29a_faillabel3_7dc85afb:
 
     # li "Well, I won't be messing with those kinds of weights anytime soon. That made me tired."
-    li ""
-
+    li "Eh bien, je ne vais plus m'amuser avec ce genre de poids avant longtemps. Ça m'a fatigué."
