@@ -40,19 +40,19 @@ translate francais v13_hotel_imre_c4ca8d48:
 translate francais v13_hotel_imre_6446e7a6:
 
     # u "Always with a slight jab, huh? *Chuckles*"
-    u "Toujours avec un petit pic, hein ?  *Rire*"
+    u "Toujours des petits pics entre vous, hein ?  *Rire*"
 
 # game/v13/scene39.rpy:52
 translate francais v13_hotel_imre_09d1ae24:
 
     # ry "You know me well! Anyway, get over here and play pool with me."
-    ry "Tu me connais bien ! Bref, viens par ici et joue au billard avec moi."
+    ry "Tu me connais bien ! Bref, viens jouer au billard avec moi."
 
 # game/v13/scene39.rpy:57
 translate francais v13_hotel_imre_ec54d3a2:
 
     # u "Man, I haven't played pool in a long ass time."
-    u "Mec, je n'ai pas joué au billard depuis un bon moment."
+    u "Putain, j'ai pas joué au billard depuis un bon moment."
 
 # game/v13/scene39.rpy:62
 translate francais v13_hotel_imre_9e6ee97b:

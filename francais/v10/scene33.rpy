@@ -1042,7 +1042,7 @@ translate francais v10s33_chloe2_90e83552:
 translate francais v10s33_chloe2_ff828f1f:
 
     # u "That's one way to say no man is good enough for me. *Chuckles*"
-    u "C'est une façon de dire \"qu'aucun homme n'est assez bien pour moi\".  *Rire*"
+    u "C'est une façon de dire \"qu'aucun homme n'est assez bien pour moi\". *Rire*"
 
 # game/v10/scene33.rpy:1134
 translate francais v10s33_chloe2_ed23f02b:
@@ -4046,11 +4046,11 @@ translate francais strings:
 
     # game/v10/scene33.rpy:1234
     old "Invite to Europe"
-    new "Inviter en Europe"
+    new "L'inviter en Europe"
 
     # game/v10/scene33.rpy:1234
     old "Don't invite"
-    new "Ne pas inviter"
+    new "Ne pas l'inviter"
 
     # game/v10/scene33.rpy:1247
     old "Convince her"
@@ -4086,7 +4086,7 @@ translate francais strings:
 
     # game/v10/scene33.rpy:2131
     old "Side with Mr. Lee"
-    new "Du côté de M. Lee"
+    new "Du côté de Mr Lee"
 
     # game/v10/scene33.rpy:2131
     old "Side with Ms. Rose"

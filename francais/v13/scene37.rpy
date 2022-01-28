@@ -28,7 +28,7 @@ translate francais v13s37_9b0fa550:
 translate francais v13s37_6fda700f:
 
     # u "(You can say that a million times again...)"
-    u "( tu peux le dire des millions de fois encore...)"
+    u "(tu peux le dire des millions de fois encore...)"
 
 # game/v13/scene37.rpy:42
 translate francais v13s37_d2f41cf5:
@@ -64,7 +64,7 @@ translate francais v13s37_980efcc7:
 translate francais v13s37_1e102926:
 
     # li "*Chuckles* Not like that, fuckboy."
-    li "*Rire* Pas comme ça, petit con."
+    li "*Rire* Pas me détendre comme ça, petit con."
 
 # game/v13/scene37.rpy:70
 translate francais v13s37_4c1843f2:
@@ -142,7 +142,7 @@ translate francais v13s37_nora_ca301da2:
 translate francais v13s37_nora_a7509305:
 
     # u "It is a surprise seeing you and Chris together, holding hands and still slightly smiling at each other after everything that's happened."
-    u "C'est surprenant de vous voir ensemble, Chris et vous, vous tenant la main et vous souriant encore doucement l'un à l'autre après tout ce qui s'est passé."
+    u "C'est surprenant de vous voir toujours ensemble, Chris et toi, vous tenant la main et vous souriant légèrement l'un à l'autre après tout ce qui s'est passé."
 
 # game/v13/scene37.rpy:150
 translate francais v13s37_nora_6e3ba187:
@@ -160,7 +160,7 @@ translate francais v13s37_nora_7c1869b8:
 translate francais v13s37_nora_fec3c108:
 
     # no "Right after he was a dick to me for weeks and shoved me to the fucking ground... Like, am I supposed to be happy? Pissed off? Sad? Or grateful..."
-    no "Juste après qu'il ait été un connard avec moi pendant des semaines et qu'il m'ait poussé au sol... Comment, suis-je censée être heureuse ? Enervée ? Triste ? Ou reconnaissante..."
+    no "Juste après qu'il ait été un connard avec moi pendant des semaines et qu'il m'ait poussé au sol... Comment, suis-je censée être ? {w}heureuse ? {w}Enervée ? {w}Triste ? {w}Ou reconnaissante..."
 
 # game/v13/scene37.rpy:167
 translate francais v13s37_nora_8f6c9266:
@@ -172,7 +172,7 @@ translate francais v13s37_nora_8f6c9266:
 translate francais v13s37_nora_994cbd74:
 
     # no "Is it super obvious? He hasn't seemed to notice and... This is the first time someone's said anything to me ."
-    no "C'est tellement flagrant ? Il n'a jamais semblé le remarquer et... C'est la première fois que quelqu'un me dit quelque chose..."
+    no "C'est tellement flagrant ? Il n'a jamais semblé le remarquer et... C'est la première fois que quelqu'un semble l'avoir remarqué..."
 
 # game/v13/scene37.rpy:177
 translate francais v13s37_nora_87cec5b7:
@@ -202,7 +202,7 @@ translate francais v13s37_nora_6bb2d893:
 translate francais v13s37_nora_bc767bb6:
 
     # no "She's been spying on me and Imre's been doing the same to Chris. We didn't invite them, they invited themselves as our plus ones."
-    no "Elle m'a espionné et Imre a fait de même avec Chris. On ne les a pas invités, mais ils se sont invités en tant qu'accompagnateurs."
+    no "Elle m'a espionné et Imre en a fait de même avec Chris. On ne les a pas invité, mais ils se sont invités en tant qu'accompagnateurs."
 
 # game/v13/scene37.rpy:199
 translate francais v13s37_nora_d6479a59:
@@ -214,7 +214,7 @@ translate francais v13s37_nora_d6479a59:
 translate francais v13s37_nora_57b6ddb8:
 
     # no "*Sighs* *Muffled* What am I going to do?"
-    no "*Soupirs* *Murmure* Que vais-je faire ?"
+    no "*Soupirs* *Murmure* Qu'est-ce que je peux faire ?"
 
 # game/v13/scene37.rpy:209
 translate francais v13s37_nora_3982c068:
@@ -298,7 +298,7 @@ translate francais v13s37_nora_7191d349:
 translate francais v13s37_nora_d2a175ee:
 
     # u "Seeing you uncomfortable alone is enough to bother me. I just wish I could wave a wand and fix all of your problems."
-    u "Te voir mal à l'aise toute seule est suffisant pour me gêner. J'aimerais juste pouvoir agiter une baguette magique et résoudre tous tes problèmes."
+    u "Te voir mal à l'aise toute seule est suffisant pour me gêner. J'aimerais juste pouvoir agiter une baguette magique et résoudre tout tes problèmes."
 
 # game/v13/scene37.rpy:282
 translate francais v13s37_nora_42643d54:
@@ -616,7 +616,7 @@ translate francais v13s37_chris_cf7891ef:
 translate francais v13s37_chris_aec7093c:
 
     # u "You guys are still slightly smiling and holding each others' hands, one would think things are good between you guys."
-    u "Vous êtes encore légèrement souriants et vous vous tenez la main, on pourrait penser que tout va bien entre vous."
+    u "Vous êtes souriants et vous vous tenez la main, on pourrait penser que tout va bien entre vous."
 
 # game/v13/scene37.rpy:637
 translate francais v13s37_chris_de85d23e:
@@ -700,7 +700,7 @@ translate francais v13s37_chris_cf7891ef_1:
 translate francais v13s37_chris_aec7093c_1:
 
     # u "You guys are still slightly smiling and holding each others' hands, one would think things are good between you guys."
-    u "Vous êtes encore légèrement souriants et vous vous tenez la main, on pourrait penser que tout va bien entre vous."
+    u "Vous êtes souriants et vous vous tenez la main, on pourrait penser que tout va bien entre vous."
 
 # game/v13/scene37.rpy:718
 translate francais v13s37_chris_d9569c6b:
@@ -784,7 +784,7 @@ translate francais v13s37_chris_4d79bdfd:
 translate francais v13s37_chris_4663bb1d:
 
     # ch "Yeah, actually... I'm pretty sure her ass cheated on me, ha."
-    ch "Ouais, en fait... Je suis presque sûr que son petit cul m'a trompé, ha."
+    ch "Ouais, en fait... Je suis presque sûr qu'elle m'a trompé en couchant avec quelqu'un d'autre."
 
 # game/v13/scene37.rpy:784
 translate francais v13s37_chris_f3e15bed:
@@ -832,7 +832,7 @@ translate francais v13s37_chris_2175f79d:
 translate francais v13s37_chris_abdb56f4:
 
     # u "You think she was like, seeking it? Or do you think she made a mistake?"
-    u "Tu penses qu'elle était en train de chercher à le faire ? Ou tu penses qu'elle a fait une erreur ?"
+    u "Tu penses qu'elle a réellement voulu te tromper ? Ou bien tu crois qu'elle a fait une erreur ?"
 
 # game/v13/scene37.rpy:824
 translate francais v13s37_chris_18c96118:
@@ -844,7 +844,7 @@ translate francais v13s37_chris_18c96118:
 translate francais v13s37_chris_4740ac74:
 
     # u "Shit, man... Well, you and I both."
-    u "Merde, mec... On est donc deux, à vouloir le découvrir."
+    u "Putain, mec... On est donc deux, à vouloir le découvrir."
 
 # game/v13/scene37.rpy:834
 translate francais v13s37_chris_28dafbd6:
@@ -862,7 +862,7 @@ translate francais v13s37_chris_404be6ff:
 translate francais v13s37_chris_c867674e:
 
     # u "*Chuckles* Is that your way of asking for some alone time?"
-    u "*Rire* C'est ta façon de demander un peu de temps seul ?"
+    u "*Rire* C'est ta façon de me dire que tu veux rester seul ?"
 
 # game/v13/scene37.rpy:849
 translate francais v13s37_chris_6973ed41:
@@ -934,7 +934,7 @@ translate francais v13s37_end_3fe30dce:
 translate francais v13s37_end_dedcb3b6:
 
     # li "Exactly, lawyer Lindsey will be here all day winning arguments. *Chuckles*"
-    li "Exactement, l'avocat Lindsey sera là toute la journée à accumuler des arguments. *Rire*"
+    li "Exactement, l'avocate Lindsey sera là toute la journée à accumuler des arguments. *Rire*"
 
 # game/v13/scene37.rpy:924
 translate francais v13s37_end_8569c4fa:
@@ -946,7 +946,7 @@ translate francais v13s37_end_8569c4fa:
 translate francais v13s37_end_0a713ac8:
 
     # li "Before I forget, did you see that big ferris wheel they have a few blocks from here?"
-    li "Avant que j'oublie, tu as vu la grande roue qu'ils ont à quelques rues d'ici ?"
+    li "Oh ! Avant que j'oublie, tu as vu la grande roue qu'ils ont à quelques rues d'ici ?"
 
 # game/v13/scene37.rpy:935
 translate francais v13s37_end_181370d9:
@@ -976,7 +976,7 @@ translate francais v13s37_end_75811464:
 translate francais v13s37_end_29b19b42:
 
     # no "Ms. Rose called Chris and needed some help from him so he dashed off. Lindsey, you wanna walk back with me?"
-    no "Mme Rose a appelé Chris et elle a besoin de son aide, alors il est parti. Lindsey, tu veux rentrer avec moi ?"
+    no "Mme Rose a appelé Chris et elle a besoin de son aide, alors il doit partir. Lindsey, tu veux rentrer avec moi ?"
 
 # game/v13/scene37.rpy:965
 translate francais v13s37_end_367048b8:

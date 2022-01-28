@@ -4,13 +4,13 @@
 translate francais v13s39a_f9d3b7c1:
 
     # ry "Where were you guys just coming from?"
-    ry "D'où veniez-vous, les gars ?"
+    ry "Vous étiez où ?"
 
 # game/v13/scene39a.rpy:32
 translate francais v13s39a_b3736acc:
 
     # u "We were at a little garden place."
-    u "On était dans un petit jardin."
+    u "On était dans un petit jardin japonais."
 
 # game/v13/scene39a.rpy:37
 translate francais v13s39a_6cce89b6:
@@ -172,7 +172,7 @@ translate francais v13s39a_157697d1:
 translate francais v13s39a_24ff95e8:
 
     # u "Or I'm just good. *Laughs*"
-    u "Ou je suis tout simplement bon. *Rire*"
+    u "Ou je suis tout simplement bon naturellement. *Rire*"
 
 # game/v13/scene39a.rpy:228
 translate francais v13s39a_7d96ca36:
@@ -220,7 +220,7 @@ translate francais v13s39a_164a16ae:
 translate francais v13s39a_c6e768b2:
 
     # u "Sorry man, but no. I'm not trying to throw myself in the fire like that."
-    u "Désolé mec, mais non. Je ne veux pas me jeter dans au feu comme ça."
+    u "Désolé mec, mais non. Je ne veux pas me jeter au feu comme ça."
 
 # game/v13/scene39a.rpy:274
 translate francais v13s39a_9dfc7b1d:
@@ -268,7 +268,7 @@ translate francais v13s39a_d653b00c:
 translate francais v13s39a_63c2dc51:
 
     # u "(Just ignore her, [name].)"
-    u "(Ignorez-la simplement, [name].)"
+    u "(Ignore-la, [name].)"
 
 # game/v13/scene39a.rpy:320
 translate francais v13s39a_f44634ff:
@@ -472,7 +472,7 @@ translate francais v13s39a_66630714_1:
 translate francais v13s39a_1c0fa32b_1:
 
     # u "You got lucky. *Chuckles*"
-    u "Tu as eu de la chance. *Rire*"
+    u "T'as eu de la chance. *Rire*"
 
 # game/v13/scene39a.rpy:550
 translate francais v13s39a_89528416_1:
