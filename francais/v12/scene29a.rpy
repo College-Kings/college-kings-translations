@@ -783,3 +783,11 @@ translate francais strings:
     # game/v12/scene29a.rpy:838
     old "Hard"
     new "Difficile"
+# TODO: Translation updated at 2022-01-28 16:12
+
+# game/v12/scene29a.rpy:755
+translate francais v12s29a_faillabel3_7dc85afb:
+
+    # li "Well, I won't be messing with those kinds of weights anytime soon. That made me tired."
+    li ""
+

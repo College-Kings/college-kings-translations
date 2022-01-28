@@ -210,3 +210,11 @@ translate francais v13s18_4945864e:
 
     # u "(Well... She looked... happy? *Chuckles*)"
     u "(Eh bien... Elle avait l'air... heureuse ? *Rire*)"
+# TODO: Translation updated at 2022-01-28 16:12
+
+translate francais strings:
+
+    # game/v13/scene18.rpy:160
+    old "What was that about, you guys all good now or something? "
+    new ""
+
