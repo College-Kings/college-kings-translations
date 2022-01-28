@@ -244,7 +244,7 @@ translate francais v13s41_46698d44:
 translate francais v13s41_ef4d4119:
 
     # li "At least it helped us out. Chuckles* Let's get on."
-    li "Au moins, ça nous a aidés. Rire* Allons-y."
+    li "Au moins, ça nous a aidé. Rire* Allons-y."
 
 # game/v13/scene41.rpy:250
 translate francais v13s41_bce25d62:
@@ -268,7 +268,7 @@ translate francais v13s41_32a1d0cd:
 translate francais v13s41_d92077a7:
 
     # li "Of course I've been stressed."
-    li "Bien sûr que j'ai été stressée."
+    li "Oh oui, je l'ai été."
 
 # game/v13/scene41.rpy:283
 translate francais v13s41_48c99239:
@@ -280,7 +280,7 @@ translate francais v13s41_48c99239:
 translate francais v13s41_d568ad03:
 
     # li "Chloe doesn't wanna be friends anymore, I'm trying to support Nora through this Chris situation, and everything else on top of that."
-    li "Chloé ne veut plus être mon amie, j'essaie de soutenir Nora dans la situation avec Chris, et tout le reste par-dessus le marché."
+    li "Chloé ne veut plus être mon amie, j'essaie de soutenir Nora dans la situation avec Chris et tout le reste par-dessus le marché."
 
 # game/v13/scene41.rpy:293
 translate francais v13s41_5362af74:
@@ -292,7 +292,7 @@ translate francais v13s41_5362af74:
 translate francais v13s41_6187a88b:
 
     # li "It's helped me cope."
-    li "Ça m'aide à surmonter ça."
+    li "Ça m'aide à surmonter cette douleur."
 
 # game/v13/scene41.rpy:303
 translate francais v13s41_7f28a63f:
@@ -304,7 +304,7 @@ translate francais v13s41_7f28a63f:
 translate francais v13s41_5359cd5d:
 
     # u "I'd truly hate for any of it to come back and get under your skin."
-    u "Je ne voudrais vraiment pas que tout cela te retombe dessus."
+    u "Je ne voudrais vraiment pas que tout te retombe dessus."
 
 # game/v13/scene41.rpy:313
 translate francais v13s41_7db0a42e:
@@ -412,19 +412,19 @@ translate francais v13s41_4fddb19c:
 translate francais v13s41_c23e1596:
 
     # li "I just wish they could see that."
-    li "J'aimerais juste qu'ils puissent le constater."
+    li "J'aimerais juste qu'ils puissent s'en rendre compte."
 
 # game/v13/scene41.rpy:423
 translate francais v13s41_08d1562b:
 
     # u "I think they've invested too much into this relationship to just give up. Maybe they need to try as best as they can."
-    u "Je pense qu'ils ont trop investi dans cette relation pour tout abandonner. Peut-être qu'ils ont besoin d'essayer du mieux qu'ils peuvent."
+    u "Je pense qu'ils ont trop investi dans cette relation pour tout abandonner. Peut-être qu'ils ont besoin d'essayer de réparer la situation du mieux qu'ils peuvent."
 
 # game/v13/scene41.rpy:428
 translate francais v13s41_f4714626:
 
     # li "They have."
-    li "Ils l'ont fait."
+    li "Ils n'y arriveront pas."
 
 # game/v13/scene41.rpy:433
 translate francais v13s41_ff88e63a:
@@ -454,7 +454,7 @@ translate francais v13s41_7f0f7231:
 translate francais v13s41_2399f499:
 
     # u "Then back out the race and get your friend back."
-    u "Ensuite, sors de la course et récupère ton amie."
+    u "Alors sors de la course et récupère ton amie."
 
 # game/v13/scene41.rpy:465
 translate francais v13s41_cab9ad3c:
@@ -466,7 +466,7 @@ translate francais v13s41_cab9ad3c:
 translate francais v13s41_ea6f02cf:
 
     # u "I hear you. Guess you can't have everything perfectly the way you want, huh?"
-    u "Je comprends. Je devine que tu ne peux pas tout avoir parfaitement comme tu le veux, hein ?"
+    u "Je comprends. Je devine que tu ne peux pas tout avoir tout ce que tu désires, hein ?"
 
 # game/v13/scene41.rpy:475
 translate francais v13s41_b0d05fd5:
@@ -550,7 +550,7 @@ translate francais v13s41_dd9ec666:
 translate francais v13s41_0987c127:
 
     # u "Of course it is. *Chuckles*"
-    u "Bien sûr que oui. *Rire*"
+    u "Mais je t'en prie. *Rire*"
 
 # game/v13/scene41.rpy:575
 translate francais v13s41_3293d9ee:

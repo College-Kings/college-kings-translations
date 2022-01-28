@@ -106,7 +106,7 @@ translate francais v13s44_8f0e7b62:
 translate francais v13s44_f4e2b0dd:
 
     # la "*Laughs* Let's go then."
-    la "*Rire* On y va alors."
+    la "*Rire* Moi aussi."
 
 # game/v13/scene44.rpy:113
 translate francais v13s44_2de9017f:

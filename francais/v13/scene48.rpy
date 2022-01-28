@@ -4,7 +4,7 @@
 translate francais v13s48_10a4d76c:
 
     # u "Hey there. You look awfully nice."
-    u "Salut. Tu es très jolie."
+    u "Ouah. Tu es très jolie."
 
 # game/v13/scene48.rpy:22
 translate francais v13s48_bf758d3d:

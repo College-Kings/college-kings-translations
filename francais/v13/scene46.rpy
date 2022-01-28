@@ -64,7 +64,7 @@ translate francais v13s46_c2612e0f:
 translate francais v13s46_6d8a9db3:
 
     # la "Animals, people needing help, a funny looking tree that you just have to climb for no reason... I could keep going. *Chuckles*"
-    la "Les animaux, les gens qui ont besoin d'aide, un drôle d'arbre que tu veux escalader sans raison... Je pourrais continuer. *Rire*"
+    la "Les animaux, les gens qui ont besoin d'aide, un drôle d'arbre que tu voudrais escalader sans raison... Je pourrais continuer. *Rire*"
 
 # game/v13/scene46.rpy:81
 translate francais v13s46_9590c2c3:
@@ -76,7 +76,7 @@ translate francais v13s46_9590c2c3:
 translate francais v13s46_92983d6b:
 
     # la "I love it."
-    la "J'aime ça."
+    la "J'aime beaucoup, oui."
 
 # game/v13/scene46.rpy:96
 translate francais v13s46_bf7cbb80:
@@ -160,7 +160,7 @@ translate francais v13s46_cd396500:
 translate francais v13s46_4ade2e7b:
 
     # la "Look! It's a deer."
-    la "Regarde ! C'est un cerf."
+    la "Regarde ! Un cerf."
 
 # game/v13/scene46.rpy:184
 translate francais v13s46_d42296ce:
@@ -226,7 +226,7 @@ translate francais v13s46_fb10944d:
 translate francais v13s46_29d411d7:
 
     # la "I'm sure some of the people who come on this trail feed him snacks every once in a while."
-    la "Je suis sûre que d'autres personnes qui viennent sur ce sentier lui donnent des snacks de temps en temps."
+    la "Je suis sûre que d'autres personnes qui viennent sur ce sentier lui donnent à manger de temps en temps."
 
 # game/v13/scene46.rpy:239
 translate francais v13s46_7a069ac3:
@@ -292,7 +292,7 @@ translate francais v13s46_233ed3ee:
 translate francais v13s46_9fc2e56c:
 
     # u "I'm getting back on my bike."
-    u "Je reviens vers mon vélo."
+    u "Je retourne vers mon vélo."
 
 # game/v13/scene46.rpy:299
 translate francais v13s46_ec861bc5:
@@ -364,7 +364,7 @@ translate francais v13s46_01c8267a:
 translate francais v13s46_148c55f5:
 
     # la "Doing this sort of thing with a friend is nice, but I can imagine growing old and walking these trails with my partner one day."
-    la "Faire ce genre de choses avec un ami, c'est bien, mais je m'imagine bien vieillir et parcourir ces sentiers avec mon partenaire un jour."
+    la "Faire ce genre de choses avec un ami, c'est bien, mais je m'imagine bien vieillir et parcourir ces sentiers avec mon partenaire, un jour."
 
 # game/v13/scene46.rpy:372
 translate francais v13s46_e1fc3ae5:
@@ -454,7 +454,7 @@ translate francais v13s46_cb706ec8:
 translate francais v13s46_d48b808f:
 
     # la "*Whisper* Shoot!"
-    la "*Chuchote* Oh oui, vas-y !"
+    la "*Chuchote* Chuuuut !"
 
 # game/v13/scene46.rpy:494
 translate francais v13s46_7bf8abfb:
@@ -472,13 +472,13 @@ translate francais v13s46_be534755:
 translate francais v13s46_3d3b5434:
 
     # u "*Laughs* Busted..."
-    u "*Rire* Chopés..."
+    u "*Rire* Grillés..."
 
 # game/v13/scene46.rpy:514
 translate francais v13s46_46ef2f64:
 
     # u "You really wanted to be a peeping Tom today, huh?"
-    u "Tu voulais vraiment être une petite voyeuse aujourd'hui, hein ?"
+    u "Tu voulais faire ta petite voyeuse aujourd'hui, hein ?"
 
 # game/v13/scene46.rpy:519
 translate francais v13s46_3d2e79ce:
@@ -490,7 +490,7 @@ translate francais v13s46_3d2e79ce:
 translate francais v13s46_9d0f3288:
 
     # u "Hmm, okay. Whatever you say..."
-    u "Hmm, ok. Comme tu veux..."
+    u "Hmm, ok. si tu le dis..."
 
 translate francais strings:
 

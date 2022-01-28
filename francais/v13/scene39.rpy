@@ -28,7 +28,7 @@ translate francais v13_hotel_imre_a1218134:
 translate francais v13_hotel_imre_336d5baa:
 
     # u "He's just got a lot on his mind, probably best to give him his space right now."
-    u "Il a juste beaucoup de choses en tête, c'est probablement mieux de le laisser tranquille pour I' instant."
+    u "Il a juste beaucoup de choses en tête, c'est probablement mieux de le laisser tranquille pour l'instant."
 
 # game/v13/scene39.rpy:42
 translate francais v13_hotel_imre_c4ca8d48:

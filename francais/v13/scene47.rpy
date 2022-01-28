@@ -4,7 +4,7 @@
 translate francais v13s47_ecb48488:
 
     # u "Did you have fun?"
-    u "Tu t'es amusée ?"
+    u "Tu t'es bien amusée ?"
 
 # game/v13/scene47.rpy:27
 translate francais v13s47_23f1edf0:
@@ -52,7 +52,7 @@ translate francais v13s47_d243bf4d:
 translate francais v13s47_28286b24:
 
     # u "I'm already at the beach. *Chuckles*"
-    u "J'y suis déjà à la plage. *Rire*"
+    u "J'y suis déjà. *Rire*"
 
 # game/v13/scene47.rpy:71
 translate francais v13s47_189d4f7c:
@@ -76,7 +76,7 @@ translate francais v13s47_35f272f2:
 translate francais v13s47_c6e50747:
 
     # au "So can you come hang or are you busy with Lauren?"
-    au "Alors tu peux venir traîner ou tu es occupé avec Lauren ?"
+    au "Alors tu peux venir traîner avec moi ou tu es occupé avec Lauren ?"
 
 # game/v13/scene47.rpy:96
 translate francais v13s47_10478c17:
@@ -106,7 +106,7 @@ translate francais v13s47_5bf46117:
 translate francais v13s47_d040be59:
 
     # la "Yes, positive. *Chuckles*"
-    la "Oui, carrément. *Rire*"
+    la "Affirmative. *Rire*"
 
 # game/v13/scene47.rpy:121
 translate francais v13s47_1cf80fd4:
@@ -118,13 +118,13 @@ translate francais v13s47_1cf80fd4:
 translate francais v13s47_bea130d4:
 
     # au "Cool, see you in a few. Bye."
-    au "Cool, à tout à l'heure. Bye."
+    au "Cool, je t'attends là."
 
 # game/v13/scene47.rpy:131
 translate francais v13s47_604e5884:
 
     # u "Bye."
-    u "Bye."
+    u "J'arrive."
 
 # game/v13/scene47.rpy:136
 translate francais v13s47_85b0204d:
