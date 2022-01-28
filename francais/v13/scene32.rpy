@@ -58,7 +58,7 @@ translate francais v13s32_a8d1b337:
 translate francais v13s32_a333b784:
 
     # u "Of course, I had fun. Night."
-    u "Pas de soucis, je me suis bien amusé. Bonne nuit."
+    u "Pas de souci, je me suis bien amusé. Bonne nuit."
 
 # game/v13/scene32.rpy:92
 translate francais v13s32_5ab6890a:
@@ -82,4 +82,4 @@ translate francais v13s32_1645dbf9:
 translate francais v13s32_0ac797a6:
 
     # u "(Guess I'm just gonna clock out. *Chuckles*)"
-    u "(Je crois que je vais juste me coucher. *Rire*)"
+    u "(Je crois que je vais me coucher. *Rire*)"

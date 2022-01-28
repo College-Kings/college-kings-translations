@@ -4,13 +4,13 @@
 translate francais v13s28_1cc33d31:
 
     # am "Jeez... Took you long enough. Did you have to do your nails real quick? *Laughs*"
-    am "Putain... Ça t'a mis du temps. Tu as été obligé de faire tes ongles très rapidement ? *Rire*"
+    am "Putain... T'en as mis du temps. Tu as été obligé de faire tes ongles très rapidement ? *Rire*"
 
 # game/v13/scene28.rpy:27
 translate francais v13s28_d39e2f7a:
 
     # u "Ha ha, funny. I wasn't that motivated to be here actually, since I have no idea where we're going."
-    u "Ha ha, très drôle. Je n'étais pas très motivé pour venir ici en fait, vu que je n'ai aucune idée d'où on va."
+    u "Ha ha, très drôle. En fait, j'étais pas très motivé pour venir, étant donné que j'ai aucune idée d'où on va."
 
 # game/v13/scene28.rpy:32
 translate francais v13s28_61054f61:
@@ -34,7 +34,7 @@ translate francais v13s28_f0a9f796:
 translate francais v13s28_b1472b4f:
 
     # u "You're piquing my interest..."
-    u "Tu éveilles mon intérêt..."
+    u "Ah ! Tu éveilles mon intérêt..."
 
 # game/v13/scene28.rpy:52
 translate francais v13s28_1308259d:
@@ -82,7 +82,7 @@ translate francais v13s28_c04ad792:
 translate francais v13s28_05d4db6d:
 
     # u "*Laughs* How do I owe you money? I didn't tell you to-"
-    u "*Rire* Comment je te dois de l'argent ? Je ne t'ai pas dit de-"
+    u "*Rire* Comment ça, je te dois de l'argent ? Je ne t'ai pas dit de-"
 
 # game/v13/scene28.rpy:97
 translate francais v13s28_34b27eae:
@@ -94,7 +94,7 @@ translate francais v13s28_34b27eae:
 translate francais v13s28_598925f4:
 
     # u "Ow, fuck! Okay... Fine, I'll go."
-    u "Ow, putain ! Ok... Bon, je vais venir."
+    u "Aïe, putain ! Ok... Bon... Je vais venir."
 
 # game/v13/scene28.rpy:107
 translate francais v13s28_6a769d94:
@@ -160,19 +160,19 @@ translate francais v13s28_56257892:
 translate francais v13s28_a60a2ecf:
 
     # am "Not gonna happen, I'm officially broke. He may though."
-    am "Ça ne va pas être possible, je suis complètement fauchée. Mais il pourrait le faire."
+    am "Ça ne va pas être possible, je suis complètement fauchée. Mais lui, il pourrait le faire."
 
 # game/v13/scene28.rpy:181
 translate francais v13s28_a702e90a:
 
     # u "I don't think you going on a marijuana tour is a good idea, Sam. You know, because of your... history."
-    u "Je ne pense pas que faire le tour de la marijuana soit une bonne idée, Sam. Tu sais, à cause de ton... histoire."
+    u "Je ne pense pas que faire le bus de la marijuana soit une bonne idée, Sam. Tu sais, à cause de ton... histoire."
 
 # game/v13/scene28.rpy:186
 translate francais v13s28_485d1e8a:
 
     # sa "I'm not some fucking fiend, [name]. And either way, I can do whatever the hell I want. It's shitty remarks like that which makes me wanna fuck around with drugs in the first place."
-    sa "Je ne suis pas une putain de camée, [name]. Et de toute façon, je peux faire ce que je veux. Ce sont des remarques merdiques comme ça qui me donnent envie de me droguer avant tout."
+    sa "Je ne suis pas une putain de camée, [name]. Et de toute façon, je peux faire ce que je veux. Tu sais, ce sont des remarques merdiques comme ça qui me donnent envie de me droguer."
 
 # game/v13/scene28.rpy:191
 translate francais v13s28_9f442640:
@@ -226,7 +226,7 @@ translate francais v13s28_ec40c72b:
 translate francais v13s28_302e4347:
 
     # u "Alright. (I hope so.)"
-    u "Très bien. (J'espère.)"
+    u "C'est bien. (J'espère.)"
 
 translate francais strings:
 

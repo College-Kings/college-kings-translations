@@ -22,7 +22,7 @@ translate francais v13s33_f65ef425:
 translate francais v13s33_d11bd0c7:
 
     # ri "Because I'm ready to go! And based on where it is, I'm not trying to go during any other part of the day."
-    ri "Parce que je suis prête à partir ! Et vu l'endroit, je ne vais pas essayer d'y aller à un autre moment de la journée."
+    ri "Parce que je suis prête à partir ! Et vu l'endroit, je n'ai pas envie d'y aller à un autre moment de la journée."
 
 # game/v13/scene33.rpy:51
 translate francais v13s33_0e690f5b:
@@ -46,7 +46,7 @@ translate francais v13s33_10f86b22:
 translate francais v13s33_35fa3030:
 
     # ri "Same way I knew the last few times, these clues are way too easy. *Chuckles*"
-    ri "Comme je le savais les dernières fois, ces indices sont bien trop faciles. *Rire*"
+    ri "Comme je l'ai su les dernières fois. Ces indices sont bien trop faciles. *Rire*"
 
 # game/v13/scene33.rpy:71
 translate francais v13s33_ec3eb410:

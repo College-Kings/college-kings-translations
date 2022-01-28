@@ -64,13 +64,13 @@ translate francais v13s34_543e922f:
 translate francais v13s34_6c484f51:
 
     # ri "Well I'm sure as hell frightened now. What's with all the scary stuff lately?"
-    ri "Eh bien, je suis sûr d'être effrayée maintenant. C'est quoi tous ces trucs qui font peur en ce moment ?"
+    ri "Eh bien, je suis sûre d'être effrayée maintenant. C'est quoi tous ces trucs qui font peur en ce moment ?"
 
 # game/v13/scene34.rpy:69
 translate francais v13s34_9e566ac0:
 
     # clipps "It's a test of bravery as always. I can not disclose all that you'll encounter. Some are random, some are meaningful."
-    clipps "C'est un test de bravoure, comme toujours. Je ne peux pas divulguer tout ce que vous rencontrerez. Certains sont hasardeux, d'autres sont importants."
+    clipps "C'est un test de bravoure, comme toujours. Je ne peux pas divulguer toutes les épreuves que vous rencontrerez. Certaines sont dues au hasard, d'autres sont importantes."
 
 # game/v13/scene34.rpy:74
 translate francais v13s34_4ff1c98d:
@@ -136,7 +136,7 @@ translate francais v13s34_0906ee7b:
 translate francais v13s34_7924f31c:
 
     # clipps "I assure you, this isn't a humorous venture. This is all very serious."
-    clipps "Je vous assure, ce n'est pas une aventure humoristique. C'est très sérieux."
+    clipps "Je t'assure que ce n'est pas une aventure de nature humoristique. Tout ceci est très sérieux."
 
 # game/v13/scene34.rpy:129
 translate francais v13s34_578c6570:
@@ -172,7 +172,7 @@ translate francais v13s34_872e3336:
 translate francais v13s34_406770f2:
 
     # u "What the fuck is your problem?!"
-    u "Putain, c'est quoi ton problème ?!"
+    u "PUTAIN, c'est quoi ton problème ?!"
 
 # game/v13/scene34.rpy:177
 translate francais v13s34_6880db02:
@@ -214,7 +214,7 @@ translate francais v13s34_ba12cb3c:
 translate francais v13s34_46ff0584:
 
     # u "How the..."
-    u "Comment la..."
+    u "Comment tu..."
 
 # game/v13/scene34.rpy:217
 translate francais v13s34_ca872548:
@@ -226,7 +226,7 @@ translate francais v13s34_ca872548:
 translate francais v13s34_18a5df96:
 
     # clipps "The Master didn't disclose it, he said only the warriors of the adventure would know."
-    clipps "Le Maître ne l'a pas révélé, il a dit que seuls les guerriers de l'aventure la connaîtraient."
+    clipps "Le Maître ne me l'a pas révélé, il a dit que seuls les guerriers de l'aventure la connaîtraient."
 
 # game/v13/scene34.rpy:227
 translate francais v13s34_ecaff448:
@@ -238,7 +238,7 @@ translate francais v13s34_ecaff448:
 translate francais v13s34_5fdebd42:
 
     # u "Do you know this dungeon?"
-    u "tu connais ces oubliettes ?"
+    u "Tu connais ces oubliettes ?"
 
 # game/v13/scene34.rpy:237
 translate francais v13s34_b3045f04:
@@ -322,13 +322,13 @@ translate francais v13s34_ff6710a0:
 translate francais v13s34_71b3aa89:
 
     # u "I'M NOT PLAYING THIS STUPID F-"
-    u "JE NE JOUE PAS À CE FOUTU T-"
+    u "JE NE JOUE PAS À CE FOUTU J-"
 
 # game/v13/scene34.rpy:336
 translate francais v13s34_3ddece32:
 
     # clipps "HAHA! Check your six!"
-    clipps "HAHAHA ! Tu n'as pas vérifié tes six heures !"
+    clipps "HAHAHA ! Vérifie tes six heures !"
 
 # game/v13/scene34.rpy:341
 translate francais v13s34_ef2f1671:
@@ -562,7 +562,7 @@ translate francais v13s34_5600c399:
 translate francais v13s34_a9bb186c:
 
     # ri "Why?! *Crying* What did I do to deserve this?"
-    ri "Pourquoi ? ! *Pleurant* J'ai fait quoi pour mériter ça ?"
+    ri "Pourquoi ?! *Pleurant* J'ai fait quoi pour mériter ça ?"
 
 # game/v13/scene34.rpy:464
 translate francais v13s34_2df3e1a5:
@@ -712,7 +712,7 @@ translate francais v13s34_282441c6:
 translate francais v13s34_613c50f1:
 
     # dun "Don't you think it's absurd to call yourself the \"brightest of your class\" when without cheating, you wouldn't be where you are today?"
-    dun "Ne pensez-vous pas qu'il est absurde de vous qualifier de \"Étudiante la plus brillante de ta classe\" alors que sans tricher, tu ne serais pas là où tu en es aujourd'hui ?"
+    dun "Ne penses-tu pas qu'il est absurde de te qualifier de \"Étudiante la plus brillante de ta classe\" alors que sans tricher, tu ne serais pas là où tu en es aujourd'hui ?"
 
 # game/v13/scene34.rpy:609
 translate francais v13s34_195c22e7:
@@ -748,7 +748,7 @@ translate francais v13s34_6516cb3f:
 translate francais v13s34_a86fea59:
 
     # clipps "You wouldn't know... You're too busy goofing off in the back."
-    clipps "Tu ne peux pas savoir... Tu es trop occupée à faire l'imbécile à l'arrière."
+    clipps "Tu ne peux pas le savoir... Tu es trop occupée à faire l'imbécile à l'arrière."
 
 # game/v13/scene34.rpy:639
 translate francais v13s34_1064ae2c:
@@ -868,7 +868,7 @@ translate francais v13s34_c3821c6a:
 translate francais v13s34_ed0522ab:
 
     # u "Wow, I wanna be mad at you but... I'm kinda impressed."
-    u "Waouh, je voudrais être en colère contre toi mais... Je suis plutôt impressionné."
+    u "Waouh, je voudrais être en colère contre vous mais... Je suis plutôt impressionné."
 
 # game/v13/scene34.rpy:757
 translate francais v13s34_1e8812a9:
@@ -910,13 +910,13 @@ translate francais v13s34_f9e9017d:
 translate francais v13s34_435bcdbd:
 
     # u "Wow... Guess I just chose to be friends with the wrong person. *Chuckles*"
-    u "Wow... Je crois que j'ai juste choisi d'être ami avec la mauvaise personne. *Rire*"
+    u "Wow... Je crois que j'ai choisi d'être ami avec la mauvaise personne. *Rire*"
 
 # game/v13/scene34.rpy:797
 translate francais v13s34_eb1cb88b:
 
     # ri "Wow, okay... I'm so ready to go. I need to process all this, I... I just thought I was going to die five minutes ago."
-    ri "Wow, ok... Je suis vraiment prête à partir. J'ai besoin de digérer tout ça, je... Je pensais que j'allais mourir il y a cinq minutes."
+    ri "Wow, ok... J'ai vraiment envie de partir. J'ai besoin de digérer tout ça, je... Je pensais que j'allais mourir il y a cinq minutes."
 
 # game/v13/scene34.rpy:802
 translate francais v13s34_cbbc187f:
@@ -946,7 +946,7 @@ translate francais v13s34_b26cc959:
 translate francais v13s34_32080d06:
 
     # u "Haha, thanks. You too. *Chuckles*"
-    u "Haha, merci. Vous aussi. *Rire*"
+    u "Haha, merci. Toi aussi. *Rire*"
 
 # game/v13/scene34.rpy:837
 translate francais v13s34_fcfea652:
@@ -976,7 +976,7 @@ translate francais v13s34_141cf12c:
 translate francais v13s34_9fc6cf93:
 
     # u "Right, okay. Need me there now?"
-    u "Bien, ok. Tu as besoin de moi là-bas maintenant ?"
+    u "Bien, ok. Tu as besoin de moi là-bas, maintenant ?"
 
 # game/v13/scene34.rpy:862
 translate francais v13s34_4a1aebf5:

@@ -16,7 +16,7 @@ translate francais v13s29_854a11b1:
 translate francais v13s29_8569c4fa:
 
     # u "*Chuckles*"
-    u "*Chuchote*"
+    u "*Rire*"
 
 # game/v13/scene29.rpy:44
 translate francais v13s29_40ac7b59:
@@ -40,7 +40,7 @@ translate francais v13s29_854a11b1_1:
 translate francais v13s29_8569c4fa_1:
 
     # u "*Chuckles*"
-    u "*Chuchote*"
+    u "*Rire*"
 
 # game/v13/scene29.rpy:90
 translate francais v13s29_40ac7b59_1:
@@ -64,7 +64,7 @@ translate francais v13s29_2e187a31:
 translate francais v13s29_a5d88899:
 
     # gary "Now I should introduce myself, my name is Gary Ganja, King of Weeds, etc."
-    gary "Je vais maintenant me présenter, je m'appelle Gary Ganja, le roi de la beuh, etc."
+    gary "Je vais maintenant me présenter, je m'appelle Gary Ganja, le roi de la beuh et tout, et tout..."
 
 # game/v13/scene29.rpy:115
 translate francais v13s29_6e331bce:
@@ -76,19 +76,19 @@ translate francais v13s29_6e331bce:
 translate francais v13s29_51853462:
 
     # gary "Well young friend, you paid for a ticket, but you're getting an experience."
-    gary "Eh bien, jeune frère, tu as payé pour un billet, qui va te permettre de vivre une expérience inoubliable."
+    gary "Eh bien, mon frère, tu as payé pour un billet, qui va te permettre de vivre une expérience inoubliable."
 
 # game/v13/scene29.rpy:125
 translate francais v13s29_8ab56835:
 
     # am "I paid to find out what's the best weed so let's get on with it."
-    am "J'ai payé pour savoir quelle est la meilleure herbe, alors allons-y."
+    am "J'ai payé pour savoir quelle était la meilleure herbe, alors allons-y."
 
 # game/v13/scene29.rpy:130
 translate francais v13s29_b988d3fa:
 
     # gary "Chillax my brothers and sisters, the time has come for your eyes to be opened..."
-    gary "Trannnnquiiiille mes frères et sœurs, le temps est venu d'ouvrir les yeux..."
+    gary "Trannnnquiiiille mes frères et sœurs, le temps est venu de vous ouvrir les yeux..."
 
 # game/v13/scene29.rpy:135
 translate francais v13s29_ab5cd872:
@@ -166,7 +166,7 @@ translate francais v13s29_2a123ef1:
 translate francais v13s29_1e9ada2a:
 
     # gary "So be it, but I wasn't asking you your age because the weed."
-    gary "Soit, mais je te demandais pas ton âge à cause de l'herbe."
+    gary "Ainsi soit-il, mais je te demandais pas ton âge à cause de l'herbe."
 
 # game/v13/scene29.rpy:202
 translate francais v13s29_ee40d6ac:
@@ -226,7 +226,7 @@ translate francais v13s29_095b6755:
 translate francais v13s29_7d5b1be7:
 
     # sa "I can guess why she's called that."
-    sa "Je peux deviner pourquoi on l'appelle comme ça."
+    sa "Je peux imaginer pourquoi on l'appelle comme ça."
 
 # game/v13/scene29.rpy:263
 translate francais v13s29_53e2d8ac:
@@ -292,7 +292,7 @@ translate francais v13s29_57517342:
 translate francais v13s29_463ae28c:
 
     # gary "Who know, just think about your grandmother... It works for me."
-    gary "Qui sait, pense juste à ta grand-mère... Ça marche pour moi."
+    gary "Qui sait... Pense à ta grand-mère... Ça marche pour moi."
 
 # game/v13/scene29.rpy:327
 translate francais v13s29_be9c1760:
@@ -382,13 +382,13 @@ translate francais v13s29_b6c21891:
 translate francais v13s29_8b96aef7:
 
     # am "It's just not what I expected. I thought we'd get high and shit."
-    am "Ce n'est pas ce que j'attendais. Je pensais qu'on allait se défoncer et tout."
+    am "Je m'attendais pas à ça. Je pensais qu'on allait se défoncer et tout."
 
 # game/v13/scene29.rpy:411
 translate francais v13s29_b315cc6f:
 
     # gary "Come back to my place and chill with me and you can have all the weed you want."
-    gary "Viens chez moi et détends-toi avec moi et tu pourras avoir toute l'herbe que tu veux."
+    gary "Viens chez moi, détends-toi avec moi et tu pourras avoir toute l'herbe que tu veux."
 
 # game/v13/scene29.rpy:416
 translate francais v13s29_43828d90:
@@ -430,7 +430,7 @@ translate francais v13s29_09a14f61:
 translate francais v13s29_a3a0f47c:
 
     # am "The story of my life! *Laughs*"
-    am "L'histoire de ma vie ! *Rire*"
+    am "C'est l'histoire de ma vie ! *Rire*"
 
 # game/v13/scene29.rpy:512
 translate francais v13s29_253d5705:
@@ -454,7 +454,7 @@ translate francais v13s29_a8ab0b4c:
 translate francais v13s29_df00af1a:
 
     # am "*Heavy breathing* I could run another mile, I noticed you slowing down."
-    am "*Respiration lourde* Je pourrais encore courir un kilomètre, j'ai remarqué que toi, tu ralentissais."
+    am "*Respiration lourde* Je pourrais encore courir un kilomètre. Par contre, j'ai remarqué que toi, tu ralentissais."
 
 # game/v13/scene29.rpy:532
 translate francais v13s29_5353be6d:
@@ -466,7 +466,7 @@ translate francais v13s29_5353be6d:
 translate francais v13s29_5d4ac436:
 
     # sa "I don't get why either of you are breathing so heavy, it wasn't that far."
-    sa "Je ne comprends pas pourquoi l'un de vous est si essoufflé, ce n'était pas si loin."
+    sa "Je ne comprends pas pourquoi vous êtes tous deux si essoufflés, ce n'était pas si loin."
 
 # game/v13/scene29.rpy:543
 translate francais v13s29_27594969:

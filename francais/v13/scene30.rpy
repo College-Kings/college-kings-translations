@@ -16,7 +16,7 @@ translate francais v13s30_4ab55fbd:
 translate francais v13s30_78221734:
 
     # am "And we got some weed!!! You know what that means..."
-    am "Et on a de l'herbe ! !! Tu sais ce que ça veut dire..."
+    am "Et on a de l'herbe !!! Tu sais ce que ça veut dire..."
 
 # game/v13/scene30.rpy:24
 translate francais v13s30_ef2f1671:
@@ -34,7 +34,7 @@ translate francais v13s30_d618bccc:
 translate francais v13s30_c1e437ad:
 
     # sa "Oh umm, I'm cool with hanging out a bit but, I think if you're gonna smoke I should go."
-    sa "Oh hum, je suis d'accord pour traîner un peu mais, je pense que si vous allez fumer, je devrais y aller."
+    sa "Oh hum, je suis cool pour traîner un peu mais, si vous allez fumer... Je devrais rentrer."
 
 # game/v13/scene30.rpy:40
 translate francais v13s30_a70676cf:
@@ -52,7 +52,7 @@ translate francais v13s30_f12a52c3:
 translate francais v13s30_3d7e6c86:
 
     # am "Your call."
-    am "C'est ton choix."
+    am "C'est toi qui vois."
 
 # game/v13/scene30.rpy:55
 translate francais v13s30_d1b65cd5:
@@ -70,7 +70,7 @@ translate francais v13s30_2541ca86:
 translate francais v13s30_85ec40a0:
 
     # sa "See ya, have fun! And thanks for letting me come."
-    sa "À plus, amusez-vous bien ! Et merci de m'avoir laissé venir avec vous."
+    sa "À plus. Amusez-vous bien ! Et merci de m'avoir laissé venir avec vous."
 
 # game/v13/scene30.rpy:80
 translate francais v13s30_9f970a74:
@@ -88,7 +88,7 @@ translate francais v13s30_0efc084f:
 translate francais v13s30_9333ba98:
 
     # am "Well, she didn't give me a hug... *Chuckles*"
-    am "Eh ben, elle ne m'a pas fait de câlin... *Rire*"
+    am "Eh ben, elle ne m'a pas fait de câlin à moi... *Rire*"
 
 # game/v13/scene30.rpy:95
 translate francais v13s30_e90bde5a:
@@ -112,19 +112,19 @@ translate francais v13s30_a2cffee9:
 translate francais v13s30_3f52d6d4:
 
     # am "So, if you get fucked up I'll try to feel bad. *Chuckles*"
-    am "Donc, si tu te fais baiser, j'essaierai de me sentir mal. *Rire*"
+    am "Alors, si tu es défoncée, j'essaierai de me mettre en colère. *Rire*"
 
 # game/v13/scene30.rpy:114
 translate francais v13s30_5e886813:
 
     # am "You said you wanted to come back when we were in London. So if you get fucked up, that's on you. *Chuckles*"
-    am "Tu as dit que tu voulais venir quand on était à Londres. Donc si tu te fais avoir, ce sera de ta faute. *Rire*"
+    am "Tu as dit que tu voulais venir quand on était à Londres. Donc si tu te défonce ici, ce sera de ta faute. *Rire*"
 
 # game/v13/scene30.rpy:119
 translate francais v13s30_030429e0:
 
     # u "I appreciate that. *Chuckles*"
-    u "Merci. *Rire*"
+    u "Merci du soutien. *Rire*"
 
 # game/v13/scene30.rpy:124
 translate francais v13s30_78821685:
@@ -136,7 +136,7 @@ translate francais v13s30_78821685:
 translate francais v13s30_33f2d788:
 
     # am "Hey, what are you doing right now?"
-    am "Hé, qu'est-ce que tu fais là ?"
+    am "Hey, qu'est-ce que tu fais, là ?"
 
 # game/v13/scene30.rpy:145
 translate francais v13s30_ec210fb1:
@@ -154,7 +154,7 @@ translate francais v13s30_2ea39d3e:
 translate francais v13s30_b7cce47e:
 
     # am "Haha, that's my girl. Bye!"
-    am "Haha, c'est bien ma chérie. Au revoir !"
+    am "Haha, c'est cool ma chérie. À tout de suite !"
 
 # game/v13/scene30.rpy:170
 translate francais v13s30_18611f3e:
@@ -190,13 +190,13 @@ translate francais v13s30_52f3e131:
 translate francais v13s30_2db4ab88:
 
     # am "Guess you'll find out, haha. Are you gonna smoke?"
-    am "J'imagine que tu le découvriras, haha. Tu vas fumer ?"
+    am "Je pense que tu le découvriras bien vite, haha. Tu vas fumer ?"
 
 # game/v13/scene30.rpy:202
 translate francais v13s30_4cad4617:
 
     # u "I'm good, not trying to get fucked up, fucked up. *Laughs*"
-    u "Je vais bien, je n'essaie pas de me défoncer, de me foutre en l'air. *Rire*"
+    u "Non ça va, je n'essaie pas de me défoncer, de me foutre en l'air. *Rire*"
 
 # game/v13/scene30.rpy:207
 translate francais v13s30_153d3ac9:
@@ -214,7 +214,7 @@ translate francais v13s30_fcc18885:
 translate francais v13s30_c5a1219a:
 
     # u "I've never passed up on an opportunity to have a good time."
-    u "Je n'ai jamais laissé passer une occasion de m'amuser."
+    u "Je n'ai jamais laissé passer une occasion de prendre du bon temps."
 
 # game/v13/scene30.rpy:225
 translate francais v13s30_46869296:
@@ -232,7 +232,7 @@ translate francais v13s30_51bb962d:
 translate francais v13s30_8ad3509a:
 
     # la "Uhh rude... Why'd you ask me to come?"
-    la "Euhh, méchante... Pourquoi tu m'as demandé de venir ?"
+    la "Heeey, méchante... Pourquoi tu m'as demandé de venir ?"
 
 # game/v13/scene30.rpy:250
 translate francais v13s30_5c532546:
@@ -298,7 +298,7 @@ translate francais v13s30_46d0c475:
 translate francais v13s30_67fdd3c0:
 
     # u "Amber dragged me here."
-    u "Amber m'a traîné ici."
+    u "Amber m'a traîné là."
 
 # game/v13/scene30.rpy:317
 translate francais v13s30_36b0c19e:
@@ -346,7 +346,7 @@ translate francais v13s30_80925854:
 translate francais v13s30_67fdd3c0_1:
 
     # u "Amber dragged me here."
-    u "Amber m'a traîné ici."
+    u "Amber m'a traîné là."
 
 # game/v13/scene30.rpy:384
 translate francais v13s30_36b0c19e_1:
@@ -376,7 +376,7 @@ translate francais v13s30_1d7de692:
 translate francais v13s30_3987f0fc:
 
     # la "Not everything. I'm not so sure about smoking."
-    la "Pas tout. Je ne suis pas sûr à propos de fumer."
+    la "Pas tout. Je ne suis pas sûre à propos de fumer."
 
 # game/v13/scene30.rpy:421
 translate francais v13s30_757a1dd4:
@@ -472,19 +472,19 @@ translate francais v13s30_b39558ea:
 translate francais v13s30_e8c49f2f:
 
     # u "I don't smoke that much, just have a few times."
-    u "Je ne fume pas tant que ça, mais seulement de temps en temps."
+    u "Je ne fume pas tant que ça, seulement de temps en temps."
 
 # game/v13/scene30.rpy:523
 translate francais v13s30_d5287774:
 
     # am "Don't take such a big hit."
-    am "Ne sois pas si dure."
+    am "N'en prends pas tant que ça en un coup."
 
 # game/v13/scene30.rpy:559
 translate francais v13s30_ffa46330:
 
     # la "I can definitely feel something..."
-    la "Je peux réellement sentir quelque chose..."
+    la "Je ressens vraiment quelque chose..."
 
 # game/v13/scene30.rpy:564
 translate francais v13s30_7ea8a42a:
@@ -496,7 +496,7 @@ translate francais v13s30_7ea8a42a:
 translate francais v13s30_43365b81:
 
     # la "I'm definitely... Not faking."
-    la "Je suis réellement... pas... en train de simuler."
+    la "Je ne suis réellement... pas... en train de simuler."
 
 # game/v13/scene30.rpy:574
 translate francais v13s30_dd577bab:
@@ -520,7 +520,7 @@ translate francais v13s30_363f21b6:
 translate francais v13s30_a76c8c2f:
 
     # u "Amber was told that if you get high at the canals, it looks like the water is dancing. So, you're definitely high. *Laughs*"
-    u "On a raconté à Amber que si on se défonce sur les canaux, on dirait que l'eau danse. Donc, tu es définitivement défoncée.  *Rire*"
+    u "On a raconté à Amber que si on se défonce sur les canaux, on dirait que l'eau danse. Donc, tu es réellement défoncée.  *Rire*"
 
 # game/v13/scene30.rpy:594
 translate francais v13s30_8baf36a0:

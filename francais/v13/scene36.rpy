@@ -28,7 +28,7 @@ translate francais v13_walk_garden_6ca942c7:
 translate francais v13_walk_garden_ceccb9b6:
 
     # u "Okay then, so what did he set up?"
-    u "Ok alors, qu'est-ce qu'il a mis en place ?"
+    u "Ok alors, qu'est-ce qu'il a préparé ?"
 
 # game/v13/scene36.rpy:48
 translate francais v13_walk_garden_62509778:
@@ -58,7 +58,7 @@ translate francais v13_walk_garden_a0f101d7:
 translate francais v13_walk_garden_82131369:
 
     # li "Hey guys, hope you don't mind that I brought [name]?"
-    li "Salut tout le monde, j'espère que ça ne vous dérange pas si je suis venue avec [name] ?"
+    li "Salut tout le monde, j'espère que ça ne vous dérange pas que j'ai proposé à [name] de venir ?"
 
 # game/v13/scene36.rpy:75
 translate francais v13_walk_garden_52b84a05:
@@ -76,7 +76,7 @@ translate francais v13_walk_garden_3bdd6834:
 translate francais v13_walk_garden_8e6c79bc:
 
     # li "Good."
-    li "Bien."
+    li "Cool."
 
 # game/v13/scene36.rpy:92
 translate francais v13_walk_garden_8e656da3:
@@ -94,4 +94,4 @@ translate francais v13_walk_garden_494db17e:
 translate francais v13_walk_garden_725f1afa:
 
     # no "Let's get to it, shall we guys?"
-    no "Allons-y, les amis."
+    no "Alors allons-y, d'accord ?"

@@ -82,7 +82,7 @@ translate francais v13s35_fb01956a:
 translate francais v13s35_86c9c056:
 
     # u "(Chloe said she had some fantasies, maybe I can get some things and we could play around...)"
-    u "(Chloé a dit qu'elle avait quelques fantasmes, peut-être que je peux obtenir quelques trucs et nous pourrions jouer ensemble...)"
+    u "(Chloé a dit qu'elle avait quelques fantasmes, peut-être que je peux prendre quelques trucs et nous pourrions jouer ensemble...)"
 
 # game/v13/scene35.rpy:102
 translate francais v13s35_3289e7ca:
@@ -142,7 +142,7 @@ translate francais v13s35_adult_shop_continue_70315650:
 translate francais v13s35_adult_shop_continue_f6844995:
 
     # u "Haha, c'mon."
-    u "Haha, allez."
+    u "Haha, allez viens."
 
 # game/v13/scene35.rpy:183
 translate francais v13s35_adult_shop_continue_783310d7:
@@ -154,7 +154,7 @@ translate francais v13s35_adult_shop_continue_783310d7:
 translate francais v13s35_adult_shop_continue_87cb7505:
 
     # li "Chris set up a little get together for a few people, you guys should come!"
-    li "Chris a organisé un petit truc pour juste quelques personnes, vous devriez venir !"
+    li "Chris a organisé une petite sortie pour certaines personnes, vous devriez venir !"
 
 # game/v13/scene35.rpy:193
 translate francais v13s35_adult_shop_continue_c3206b16:
@@ -197,13 +197,13 @@ translate francais v13s35_adult_shop_continue_8c5266c8:
 translate francais v13s35_no_shop_8685ca40:
 
     # u "(Guess I'll just post up here...)"
-    u "(Je pense que je vais juste poster ici...)"
+    u "(Je pense que je vais juste me poser là...)"
 
 # game/v13/scene35.rpy:137
 translate francais v13s35_no_shop_5e83b0db:
 
     # u "What's that face for? *Chuckles* Get some good stuff?"
-    u "Pourquoi cette tête ? *Rire* Pour avoir de bonnes choses ?"
+    u "Pourquoi cette tête ? *Rire* Tu as trouvé de bonnes choses ?"
 
 # game/v13/scene35.rpy:142
 translate francais v13s35_no_shop_4a9e7b17:
@@ -215,13 +215,13 @@ translate francais v13s35_no_shop_4a9e7b17:
 translate francais v13s35_no_shop_75d48640:
 
     # u "Oooh, okay... *Laughs* So, is that it?"
-    u "Oooh, ok... *Rire* Alors, c'est ça ?"
+    u "Oooh, ok... *Rire* Alors, c'est pour ça ?"
 
 # game/v13/scene35.rpy:152
 translate francais v13s35_no_shop_0262f652:
 
     # au "Yeah, that's it."
-    au "Oui, c'est ça."
+    au "Oui, oui."
 
 # game/v13/scene35.rpy:157
 translate francais v13s35_no_shop_4432323e:
@@ -239,7 +239,7 @@ translate francais v13s35_no_shop_70315650:
 translate francais v13s35_no_shop_f6844995:
 
     # u "Haha, c'mon."
-    u "Haha, allez."
+    u "Haha, allez viens."
 
 # game/v13/scene35.rpy:190
 translate francais v13s35_no_shop_783310d7:
