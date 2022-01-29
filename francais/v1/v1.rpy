@@ -1883,7 +1883,7 @@ translate francais talktorib_1dd11341:
 translate francais talktorib_a2cbeebf:
 
     # ri "Hahahaha, why did you say mister?"
-    ri "Hahahaha, pourquoi t'as dis \"monsieur\" ?"
+    ri "Hahahaha, pourquoi t'as dit \"monsieur\" ?"
 
 # game/v1/v1.rpy:1649
 translate francais talktorib_d8852fe0:
@@ -2177,7 +2177,7 @@ translate francais ar_bd_43341517:
 translate francais ar_bd_269f1c8b:
 
     # imre "Man, that was drink or dare, get over yourself."
-    imre "Mec, c'était boire ou oser, fais toi une raison."
+    imre "Mec, c'était oser ou boire, fais toi une raison."
 
 # game/v1/v1.rpy:1912
 translate francais ar_bd_7519f971:
@@ -2219,7 +2219,7 @@ translate francais ar_bd_41ca7ba9:
 translate francais at_bd_76c9ceef:
 
     # imre "And to be part of a frat."
-    imre "Et de faire partie d'une fraternité."
+    imre "Et d'faire partie d'une fraternité."
 
 # game/v1/v1.rpy:1946
 translate francais at_bd_028b1b63:
@@ -2243,13 +2243,13 @@ translate francais at_bd_6ced6621:
 translate francais at_bd_bbd5e6e5:
 
     # imre "Man, I'm not saying it's impossible, but why make it so hard for yourself?"
-    imre "Mec, je dis pas qu'c'est impossible, mais pourquoi te compliquer la tâche ?"
+    imre "Mec, j'dis pas qu'c'est impossible, mais pourquoi te compliquer la tâche ?"
 
 # game/v1/v1.rpy:1959
 translate francais at_bd_60f7a049:
 
     # imre "Being in a frat is the easiest way to get girls, plus you get to fight."
-    imre "Être dans une fraternité est le moyen le plus simple d'avoir des meufs et en plus, tu peux te battre."
+    imre "Être dans une fraternité est l'moyen l'plus simple d'avoir des meufs et en plus, tu peux t'battre."
 
 # game/v1/v1.rpy:1964
 translate francais at_bd_d7de573d:
@@ -2279,7 +2279,7 @@ translate francais at_bd_8e75585d:
 translate francais at_bd_540ae11c:
 
     # imre "You'll learn everything over time. And trust me, fighting is a lot more fun than you'd think."
-    imre "Tu apprendras tout au fil du temps. Et crois-moi, se battre est bien plus amusant que tu le penses."
+    imre "Tu apprendras tout au fil du temps. Et crois-moi, se battre est bien plus amusant que tu l'penses."
 
 # game/v1/v1.rpy:1980
 translate francais at_bd_64c33d6d:
