@@ -37,7 +37,7 @@ translate francais v2start_20bec76e:
 translate francais v2start_b94dac9c:
 
     # imre "Some Ryan guy dropped you off, after you got yourself beaten up."
-    imre "Un gars nommé Ryan t'a déposé, après que tu te sois fait tabasser."
+    imre "Un gars nommé Ryan t'a déposé, après que tu t'sois fait tabasser."
 
 # game/v2/v2.rpy:114
 translate francais v2start_7207f97e:
@@ -49,13 +49,13 @@ translate francais v2start_7207f97e:
 translate francais v2start_1c5c1a81:
 
     # imre "I mean, have you seen your face?"
-    imre "Normal, tu as vu ta tête ?"
+    imre "Normal, t'as vu ta tête ?"
 
 # game/v2/v2.rpy:121
 translate francais v2start_1adeb7b0:
 
     # imre "Here, I took a picture last night when you came home."
-    imre "Tiens, j'ai pris une photo hier soir quand tu es rentré."
+    imre "Tiens, j'ai pris une photo hier soir quand t'es rentré."
 
 # game/v2/v2.rpy:125
 translate francais v2start_9ea2f78c:
@@ -73,13 +73,13 @@ translate francais v2start_272f5aa4:
 translate francais v2start_48095016:
 
     # imre "What did you expect? I told you the Apes are dogshit."
-    imre "A quoi tu t'attendais ? Je t'avais dit que les Apes étaient des connards."
+    imre "A quoi tu t'attendais ? J't'avais dit que les Apes étaient des connards."
 
 # game/v2/v2.rpy:137
 translate francais v2start_22ca126f:
 
     # imre "If you knew how to fight, maybe he wouldn't fuck with you."
-    imre "Si t'avais su te battre, peut-être qu'il t'aurait pas défoncé comme ça."
+    imre "Si t'avais su t'battre, peut-être qu'il t'aurait pas défoncé comme ça."
 
 # game/v2/v2.rpy:145
 translate francais v2start_327c6541:
@@ -91,7 +91,7 @@ translate francais v2start_327c6541:
 translate francais v2start_c08fe457:
 
     # imre "Just think about it, okay? I'll see you later."
-    imre "Juste, penses - y, d'accord ? On se voit plus tard."
+    imre "Juste, penses - y, d'accord ? On s'voit plus tard."
 
 # game/v2/v2.rpy:156
 translate francais v2start_f558cfe4:
@@ -103,13 +103,13 @@ translate francais v2start_f558cfe4:
 translate francais v2start_e8ead580:
 
     # imre "Dude, you don't know what Grayson's like."
-    imre "Mon gars, tu ne sais pas comment est Grayson."
+    imre "Mon gars, tu sais pas comment est Grayson."
 
 # game/v2/v2.rpy:163
 translate francais v2start_1e49a1b9:
 
     # imre "If he sees you looking at him wrong from now on, you'll end up in the hospital."
-    imre "S'il voit que tu le regardes mal à partir de maintenant, tu finiras à l'hôpital."
+    imre "S'il voit qu'tu le regardes mal à partir de maintenant, tu finiras à l'hôpital."
 
 # game/v2/v2.rpy:171
 translate francais v2start_acb5bdce:
@@ -121,7 +121,7 @@ translate francais v2start_acb5bdce:
 translate francais v2start_7098dbf0:
 
     # imre "That's all I'm asking for. I'll see you later."
-    imre "C'est tout ce que je te demande. On se voit plus tard."
+    imre "C'est tout c'que j'te demande. On s'voit plus tard."
 
 # game/v2/v2.rpy:182
 translate francais v2start_0b7c44c3:
@@ -133,7 +133,7 @@ translate francais v2start_0b7c44c3:
 translate francais v2start_a27d90a3:
 
     # imre "You're being stupid, man. Whatever, suit yourself."
-    imre "T'es con, mec. Quoi qu'il en soit, fait comme tu le sens."
+    imre "T'es con, mec. Quoi qu'il en soit, fait comme tu l'sens."
 
 # game/v2/v2.rpy:214
 translate francais bjj_bd_9ea2f78c:
@@ -781,7 +781,7 @@ translate francais history2_3ebb916e:
 translate francais history2_090822b7:
 
     # imre "Holy shit, was it Grayson?!"
-    imre "Putain de merde, c'était Grayson ?!"
+    imre "Putain d'merde, c'était Grayson ?!"
 
 # game/v2/v2.rpy:1404
 translate francais history2_f060bafd:
@@ -829,7 +829,7 @@ translate francais history2_2782062a:
 translate francais history2_6db697b3:
 
     # imre "Holy shit, you're a natural, dude."
-    imre "Putain de merde, t'es un vrai boss, mon pote !"
+    imre "Putain d'merde, t'es un vrai boss, mon pote !"
 
 # game/v2/v2.rpy:1440
 translate francais history2_04dfb653:
@@ -853,7 +853,7 @@ translate francais history2_481db6df:
 translate francais history2_9461de7c:
 
     # imre "Was it another ape??? Tell me who, I'll fuck them up!"
-    imre "C'était un autre Apes ??? Dis-moi qui, je vais les défoncer !"
+    imre "C'était un autre Apes ??? Dis-moi qui, j'vais les défoncer !"
 
 # game/v2/v2.rpy:1461
 translate francais history2_0b224f7b:
@@ -901,7 +901,7 @@ translate francais history2_67fdbb98:
 translate francais history2_35f3617a:
 
     # imre "Look, I'm gonna train tomorrow. Why don't you train with me?"
-    imre "Écoute, je vais m'entraîner demain. Pourquoi ne tu viens pas t'entraîner avec moi ?"
+    imre "Écoute, j'vais m'entraîner demain. Pourquoi tu viens pas t'entraîner avec moi ?"
 
 # game/v2/v2.rpy:1498
 translate francais history2_f51c0fc6:
@@ -949,13 +949,13 @@ translate francais history2_5bbb8bca:
 translate francais history2_240a40fe:
 
     # imre "Dude, if you keep this up, you're gonna get treated like crap."
-    imre "Putain, si tu continues comme ça, tu vas être traité comme de la merde."
+    imre "Putain, si tu continues comme ça, tu vas être traité comme d'la merde."
 
 # game/v2/v2.rpy:1534
 translate francais history2_35f3617a_1:
 
     # imre "Look, I'm gonna train tomorrow. Why don't you train with me?"
-    imre "Écoute, je vais m'entraîner demain. Pourquoi ne tu viens pas t'entraîner avec moi ?"
+    imre "Écoute, j'vais m'entraîner demain. Pourquoi tu viens pas t'entraîner avec moi ?"
 
 # game/v2/v2.rpy:1539
 translate francais history2_67dc0c9c:
@@ -1123,7 +1123,7 @@ translate francais nextsceneo_f030f2ec:
 translate francais nextsceneo_414d72ea:
 
     # imre "Sorry man, I heard the girls' volleyball team is playing and I'm not gonna miss that."
-    imre "Désolé mec, j'ai entendu dire que l'équipe de volley des filles jouait et je ne vais pas manquer ça."
+    imre "Désolé mec, j'ai entendu dire que l'équipe de volley des filles jouait et je vais pas manquer ça."
 
 # game/v2/v2.rpy:1679
 translate francais nextsceneo_518e3ddb:

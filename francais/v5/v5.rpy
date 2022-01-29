@@ -2344,7 +2344,7 @@ translate francais hospitala_e8154167:
 translate francais hospitala_b56e3c55:
 
     # imre "What's up bro? Hey Riley. Thanks for coming guys."
-    imre "Quoi de neuf mon frère ? Salut Riley. Merci d'être venus."
+    imre "Quoi d'neuf mon frère ? Salut Riley. Merci d'être venus."
 
 # game/v5/v5.rpy:2279
 translate francais hospitala_390b10ff:
@@ -2362,7 +2362,7 @@ translate francais hospitala_f959f467:
 translate francais hospitala_2ff9262d:
 
     # imre "Ah, yeah, shit. Still tryin' to recover."
-    imre "Ah, ouais, merde. Parfois j'oublie que c'est pas totalement guéri, ça fait mal."
+    imre "Ah, ouais, merde. Parfois j'oublie qu'c'est pas totalement guéri, ça fait mal."
 
 # game/v5/v5.rpy:2300
 translate francais hospitala_acb99ae3:
@@ -2560,7 +2560,7 @@ translate francais hospitala_144eef0d:
 translate francais hospitala_ba953188:
 
     # imre "Don't fucking tell me when I can fight or not. I know myself. This is about me and him. I'll make him remember who he's fucking with."
-    imre "Putain, ne me dis pas si je dois me battre ou pas. J'me connais. C'est entre lui et moi. J'vais lui montrer à qui il a voulu niquer la gueule."
+    imre "Putain, me dis pas si j'dois m'battre ou pas. J'me connais. C'est entre lui et moi. J'vais lui montrer à qui il a voulu niquer la gueule."
 
 # game/v5/v5.rpy:2536
 translate francais hospitala_609b11d6:
@@ -3310,13 +3310,13 @@ translate francais findimre_1771c387:
 translate francais findimre_0482bc78:
 
     # imre "I can't fucking find him. He must be hiding or some shit. No one seems to know where he lives either."
-    imre "J'le trouve pas, putain. Il doit se cacher ou une connerie comme ça. Personne ne semble savoir où il habite non plus."
+    imre "J'le trouve pas, putain. Il doit s'cacher ou une connerie comme ça. Personne semble savoir où il habite non plus."
 
 # game/v5/v5.rpy:4017
 translate francais findimre_e731e46c:
 
     # imre "Fucking bullshit, they're all just scared of him!"
-    imre "Putain de merde, ils ont tous peur de lui !"
+    imre "Putain d'merde, ils ont tous peur de lui !"
 
 # game/v5/v5.rpy:4024
 translate francais findimre_100b0d2f:
@@ -3340,7 +3340,7 @@ translate francais findimre_1d0f4d73:
 translate francais findimre_767793e7:
 
     # imre "Fuck you mean you paid him a visit?"
-    imre "Putain, tu veux dire que t'as été le voir ?"
+    imre "Putain, tu veux dire que t'as été l'voir ?"
 
 # game/v5/v5.rpy:4044
 translate francais findimre_890f004a:
@@ -3364,7 +3364,7 @@ translate francais findimre_5c35f2be:
 translate francais findimre_b061062d:
 
     # imre "I wanted to beat him up! He was mine! You knew he was mine!"
-    imre "JE voulais le battre ! Il était à MOI ! Tu savais qu'il était à moi !"
+    imre "JE voulais l'battre ! Il était à MOI ! Tu savais qu'il était à moi !"
 
 # game/v5/v5.rpy:4064
 translate francais findimre_1dc58521:
@@ -3376,7 +3376,7 @@ translate francais findimre_1dc58521:
 translate francais findimre_866fa656:
 
     # imre "You pretend like you're not a fighter, like you're not a Wolf..."
-    imre "Tu fais comme si tu n'étais pas un combattant, comme si tu n'étais pas un Wolf..."
+    imre "Tu fais comme si t'étais pas un combattant, comme si t'étais pas un Wolf..."
 
 # game/v5/v5.rpy:4071
 translate francais findimre_94427e73:
@@ -3406,7 +3406,7 @@ translate francais findimre_100b0d2f_1:
 translate francais findimre_c1b21072_1:
 
     # imre "Where? Where is he?"
-    imre "Où? Où est-il?"
+    imre "Où ? Où est-il ?"
 
 # game/v5/v5.rpy:4094
 translate francais findimre_d4852c6a:
@@ -3424,7 +3424,7 @@ translate francais findimre_fe65c7fa:
 translate francais findimre_50e0f118:
 
     # imre "Well that was fucking stupid of you, wasn't it?"
-    imre "C'était vraiment très con de faire ça, hein ?"
+    imre "C'était vraiment très con d'faire ça, hein ?"
 
 # game/v5/v5.rpy:4103
 translate francais findimre_5ca50fa3:
@@ -3442,7 +3442,7 @@ translate francais findimre_954f4219:
 translate francais findimre_b7b76de0:
 
     # imre "I'll get a cab next time."
-    imre "Je prendrai un taxi la prochaine fois."
+    imre "J'prendrai un taxi la prochaine fois."
 
 # game/v5/v5.rpy:4118
 translate francais findimre_327df7fb:
@@ -3454,7 +3454,7 @@ translate francais findimre_327df7fb:
 translate francais findimre_c6103c1c:
 
     # imre "Look, I really appreciate that you're trying to help, but I know what I'm doing, okay?"
-    imre "Écoute, j'apprécie vraiment que tu essaies d'aider, mais je sais ce que je fais, ok ?"
+    imre "Écoute, j'apprécie vraiment que tu essaies d'aider, mais j'sais c'que j'fais, ok ?"
 
 # game/v5/v5.rpy:4128
 translate francais findimre_b9c4fde3:
@@ -3472,7 +3472,7 @@ translate francais findimre_312624f2:
 translate francais findimre_f34a6855:
 
     # imre "I have to do this."
-    imre "Je DOIS le faire."
+    imre "Je DOIS l'faire."
 
 # game/v5/v5.rpy:4140
 translate francais findimre_27ada699:
@@ -3544,13 +3544,13 @@ translate francais findimre_1dc58521_1:
 translate francais findimre_f2cbde9f:
 
     # imre "I knew you weren't a fucking fighter, but I didn't know you were such a snitch!"
-    imre "Je savais que tu n'étais pas un putain de combattant, mais je ne savais pas que tu étais aussi une vraie balance !"
+    imre "J'savais que t'étais pas un putain de combattant, mais j'savais pas que t'étais aussi une vraie balance !"
 
 # game/v5/v5.rpy:4193
 translate francais findimre_2d7c7972:
 
     # imre "Stay the fuck out of my life!"
-    imre "Reste en dehors de ma vie, putain !"
+    imre "Reste en dehors d'ma vie, putain !"
 
 # game/v5/v5.rpy:4198
 translate francais findimre_1cd2fc7c_1:
@@ -3592,7 +3592,7 @@ translate francais findimre_4e762005:
 translate francais findimre_5ca50fa3_1:
 
     # imre "I told you, I don't need your help, I got this."
-    imre "J'te l'ai dit, j'ai pas besoin de ton aide, j'en occupe."
+    imre "J'te l'ai dit, j'ai pas besoin d'ton aide, j'm'en occupe."
 
 # game/v5/v5.rpy:4228
 translate francais findimre_9579efe1:
@@ -3604,7 +3604,7 @@ translate francais findimre_9579efe1:
 translate francais findimre_b7b76de0_1:
 
     # imre "I'll get a cab next time."
-    imre "Je prendrai un taxi la prochaine fois."
+    imre "J'prendrai un taxi la prochaine fois."
 
 # game/v5/v5.rpy:4238
 translate francais findimre_327df7fb_1:
@@ -3616,7 +3616,7 @@ translate francais findimre_327df7fb_1:
 translate francais findimre_c6103c1c_1:
 
     # imre "Look, I really appreciate that you're trying to help, but I know what I'm doing, okay?"
-    imre "Écoute, j'apprécie vraiment que tu essaies d'aider, mais je sais c'que j'fais, ok ?"
+    imre "Écoute, j'apprécie vraiment que t'essaies d'aider, mais j'sais c'que j'fais, ok ?"
 
 # game/v5/v5.rpy:4248
 translate francais findimre_b9c4fde3_1:

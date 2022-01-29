@@ -292,7 +292,7 @@ translate francais phn_penelope6_done_b7467919:
 translate francais phn_penelope6_done_0f9719ee:
 
     # imre "Here, I'll grab this one and you take that one."
-    imre "Tiens, je prends celui-là et toi celui-là."
+    imre "Tiens, j'prends celui-là et toi celui-là."
 
 # game/v8/scene17.rpy:230
 translate francais phn_penelope6_done_0e6cfb3b_1:
@@ -472,7 +472,7 @@ translate francais phn_penelope6_done_bb528ecf:
 translate francais phn_penelope6_done_67f8a638:
 
     # imre "Other room's done. Just finishing up here."
-    imre "L'autre pièce est terminée. Je finis juste ici."
+    imre "L'autre pièce est terminée. J'finis juste ici."
 
 # game/v8/scene17.rpy:351
 translate francais phn_penelope6_done_6d9dbbff:

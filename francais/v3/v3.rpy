@@ -154,7 +154,7 @@ translate francais v3start_f5c3c13a:
 translate francais v3start_7e591237:
 
     # imre "Well... Not exactly, but I did manage to hide inside the girls' locker room."
-    imre "Eh bien... Pas exactement, mais j'ai réussi à me cacher dans le vestiaire des filles."
+    imre "Eh bien... Pas exactement, mais j'ai réussi à m'cacher dans le vestiaire des filles."
 
 # game/v3/v3.rpy:154
 translate francais v3start_058cc530:
@@ -172,19 +172,19 @@ translate francais v3start_1508a5ef:
 translate francais cm_bd_5fb83b2e:
 
     # imre "Yeah, turns out it wasn't a good idea at all. One of the girls had a mental breakdown and they consoled her for hours."
-    imre "Oui, il s'avère que ce n'était pas du tout une bonne idée. L'une des filles a fait une dépression nerveuse et elles l'ont consolé pendant des heures."
+    imre "Oui, mais c'était pas du tout une bonne idée. Une des filles a fait une dépression nerveuse et elles l'ont consolé pendant des heures."
 
 # game/v3/v3.rpy:171
 translate francais cm_bd_8f3a69b5:
 
     # imre "At one point they called in two different guidance counselors and then those two didn't get along as well..."
-    imre "À un moment donné, elles ont fait appel à deux conseillères d'orientation différentes et ces deux-là ne s'entendaient carrément pas..."
+    imre "À un moment donné, elles ont fait appel à deux conseillères d'orientation différentes et ces deux-là s'entendaient carrément pas..."
 
 # game/v3/v3.rpy:173
 translate francais cm_bd_392470e3:
 
     # imre "It was just an insane mess and I was stuck hiding in a pile of old jerseys."
-    imre "C'était juste un bordel de ouf et j'étais coincé à me cacher dans une pile de vieux maillots."
+    imre "C'était juste un bordel de ouf et j'étais coincé à m'cacher dans une pile de vieux maillots."
 
 # game/v3/v3.rpy:178
 translate francais cm_bd_691b6f87:
@@ -238,7 +238,7 @@ translate francais cm_bd_4385b13c:
 translate francais cm_bd_10343fa0:
 
     # imre "Well that's what I like to hear, go on."
-    imre "C'est ce que j'aime entendre, continue."
+    imre "C'est c'que j'aime entendre, continue."
 
 # game/v3/v3.rpy:225
 translate francais cm_bd_bc716318:
@@ -280,7 +280,7 @@ translate francais cp_bd_ea7785ad:
 translate francais cp_bd_f45734b5:
 
     # imre "The key is not to get caught, son."
-    imre "La clé est de ne pas se faire prendre, fils."
+    imre "La clé est de pas s'faire prendre, fils."
 
 # game/v3/v3.rpy:269
 translate francais cp_bd_7191ae26:
@@ -328,7 +328,7 @@ translate francais cp_bd_ea7785ad_1:
 translate francais cp_bd_f45734b5_1:
 
     # imre "The key is not to get caught, son."
-    imre "La clé est de ne pas se faire prendre, fils."
+    imre "La clé est de pas s'faire prendre, fils."
 
 # game/v3/v3.rpy:317
 translate francais cp_bd_7191ae26_1:
@@ -808,13 +808,13 @@ translate francais cr_bd_8b258704:
 translate francais cr_bd_e90ad591:
 
     # imre "You said you were gonna train with me."
-    imre "Tu as dit que tu allais t'entraîner avec moi."
+    imre "T'as dit que t'allais t'entraîner avec moi."
 
 # game/v3/v3.rpy:926
 translate francais cr_bd_acf34453:
 
     # imre "Remember? Yesterday? In class?"
-    imre "Tu te souviens ? Hier ? En cours ?"
+    imre "Tu t'souviens ? Hier ? En cours ?"
 
 # game/v3/v3.rpy:931
 translate francais cr_bd_d4fab85d:
@@ -862,7 +862,7 @@ translate francais cr_bd_6a03dbfb:
 translate francais cr_bd_22be2ff0:
 
     # imre "It really sucks 'cause the pledging period doesn't start 'til two weeks after the year has begun."
-    imre "Ce qui est chiant, par contre, c'est que la période de recrutement ne commence que deux semaines après le début de l'année."
+    imre "C'qui est chiant, par contre, c'est qu'la période de recrutement ne commence que deux semaines après le début de l'année."
 
 # game/v3/v3.rpy:971
 translate francais cr_bd_14d4cf42:
@@ -892,7 +892,7 @@ translate francais cr_bd_8440e24f:
 translate francais cr_bd_b2269c4f:
 
     # imre "So uh... girl, you single?"
-    imre "Alors euh... Mademoiselle, tu es célibataire ?"
+    imre "Alors euh... Mademoiselle, t'es célibataire ?"
 
 # game/v3/v3.rpy:996
 translate francais cr_bd_ae8ad83e:
@@ -970,13 +970,13 @@ translate francais cr_bd_5b5e6497:
 translate francais cr_bd_dd7e7412:
 
     # imre "At least I try, man. Girls always expect you to make the first move."
-    imre "Au moins j'essaie, mec. Les filles s'attendent toujours à ce que tu fasses le premier pas."
+    imre "Au moins j'essaie, mec. Les filles s'attendent toujours à c'que tu fasses le premier pas."
 
 # game/v3/v3.rpy:1045
 translate francais cr_bd_9c25b5e4:
 
     # imre "Think about how many girls you could have had if you didn't pussy out everytime."
-    imre "Pense au nombre de filles que tu aurais pu avoir si tu t'étais pas dégonflé à chaque fois."
+    imre "Pense au nombre de filles que t'aurais pu avoir si tu t'étais pas dégonflé à chaque fois."
 
 # game/v3/v3.rpy:1050
 translate francais cr_bd_76046c5e:
@@ -994,7 +994,7 @@ translate francais cr_bd_6aaac884:
 translate francais cr_bd_88f06d34:
 
     # imre "Now, show me what you've got."
-    imre "Maintenant, montre-moi ce que tu as."
+    imre "Maintenant, montre-moi c'que t'as."
 
 # game/v3/v3.rpy:1093
 translate francais cw_a_189777f9:
@@ -1006,7 +1006,7 @@ translate francais cw_a_189777f9:
 translate francais cw_a_3586bb88:
 
     # imre "How about we start with the basics? Do you know how to throw a hook, jab and kick?"
-    imre "Et si on commençait par les bases ? Sais-tu comment lancer un crochet, un direct et un coup de pied ?"
+    imre "Et si on commençait par les bases ? Tu sais comment lancer un crochet, un direct et un coup d'pied ?"
 
 # game/v3/v3.rpy:1100
 translate francais cw_a_0c0a6182:
@@ -1018,13 +1018,13 @@ translate francais cw_a_0c0a6182:
 translate francais cw_b_0e2a9c39:
 
     # imre "Alriiight. It wasn't exactly perfect form, but it's pretty good for a beginner."
-    imre "D'accord. Ce n'était pas exactement un mouvement parfait, mais c'est plutôt bien pour un débutant."
+    imre "D'accord. C'était pas exactement un mouvement parfait, mais c'est plutôt bien pour un débutant."
 
 # game/v3/v3.rpy:1147
 translate francais cw_b_934009a2:
 
     # imre "Let me just go take a piss and we can get to work when I'm back."
-    imre "Laisse-moi juste aller pisser et on pourra se mettre au travail quand je serai de retour."
+    imre "Laisse-moi juste aller pisser et on pourra s'mettre au travail quand je serai d'retour."
 
 # game/v3/v3.rpy:1152
 translate francais cw_b_6ef4da5d:
@@ -1192,7 +1192,7 @@ translate francais cx_ad_c5cbcb80:
 translate francais cx_ad_4ec90385:
 
     # imre "Low-kicks target the legs and weaken the opponent's stance."
-    imre "Les coups de pieds ciblent les jambes et affaiblissent la stabilité de l'adversaire."
+    imre "Les coups d'pieds ciblent les jambes et affaiblissent la stabilité d'l'adversaire."
 
 # game/v3/v3.rpy:1286
 translate francais cx_ad_cfd6282e:
@@ -1228,7 +1228,7 @@ translate francais cx_ad_14275025:
 translate francais cx_ad_8b5c7e8a:
 
     # imre "Hitting your opponent's body will leave them out of breath and in pain."
-    imre "Frapper le corps de ton adversaire le laissera essoufflé et douloureux."
+    imre "Frapper l'corps de ton adversaire le laissera essoufflé et douloureux."
 
 # game/v3/v3.rpy:1307
 translate francais cx_ad_2030526a:
@@ -1246,7 +1246,7 @@ translate francais cx_ad_bfbe325a:
 translate francais cx_ad_824e72d3:
 
     # imre "It's quite simple. Whenever your opponent leaves his torso open you simply use your left arm to throw a body hook."
-    imre "C'est assez simple. Chaque fois que ton adversaire laisse son torse sans protection, tu utilises simplement ton bras gauche pour lancer un crochet corporel."
+    imre "C'est assez simple. Chaque fois qu'ton adversaire laisse son torse sans protection, tu utilises simplement ton bras gauche pour lancer un crochet corporel."
 
 # game/v3/v3.rpy:1329
 translate francais cx_ad_1f9bfc77:
@@ -1276,7 +1276,7 @@ translate francais cx_ad_d3003fe6:
 translate francais cx_ad_37246246:
 
     # imre "Yeah, no worries. Let me know if you wanna come with me next time as well."
-    imre "Ouais, pas de souci. Fais-moi savoir si tu veux encore venir avec moi la prochaine fois."
+    imre "Ouais, pas d'souci. Fais-moi savoir si tu veux encore venir avec moi la prochaine fois."
 
 # game/v3/v3.rpy:1375
 translate francais cx_ad_e613cabf:
@@ -1312,7 +1312,7 @@ translate francais repeatk_8321eaa9:
 translate francais repeatk_ecfbdaa5:
 
     # imre "I'll see you, player."
-    imre "A plus, champion."
+    imre "À plus, champion."
 
 # game/v3/v3.rpy:1425
 translate francais repeatk_30ce2936:
@@ -1498,7 +1498,7 @@ translate francais repeatl_8321eaa9:
 translate francais repeatl_ecfbdaa5:
 
     # imre "I'll see you, player."
-    imre "A plus, champion"
+    imre "À plus, champion"
 
 # game/v3/v3.rpy:1622
 translate francais repeatl_30ce2936:
@@ -1750,7 +1750,7 @@ translate francais repeatm_8321eaa9:
 translate francais repeatm_ecfbdaa5:
 
     # imre "I'll see you, player."
-    imre "A plus, champion."
+    imre "À plus, champion."
 
 # game/v3/v3.rpy:1879
 translate francais repeatm_30ce2936:

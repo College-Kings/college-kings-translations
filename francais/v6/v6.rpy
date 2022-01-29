@@ -34,7 +34,7 @@ translate francais imrecona_6de3add4:
 translate francais imrecona_aea07de2:
 
     # imre "You decided what was right for me, without even asking. You got no type of loyalty at all!"
-    imre "Tu as décidé de ce qui était bon pour moi, sans même me demander. T'as aucun sens de la loyauté !"
+    imre "T'as décidé de c'qui était bon pour moi, sans même me demander. T'as aucun sens de la loyauté !"
 
 # game/v6/v6.rpy:158
 translate francais imrecona_c028d023:
@@ -130,7 +130,7 @@ translate francais imrecona_3e161c5b:
 translate francais imrecona_a29e80eb:
 
     # imre "I'm fucking done with you! I'm staying with a friend 'till they find me a new dorm."
-    imre "J'en ai fini avec toi, putain ! Je reste avec un ami jusqu'à ce qu'ils me trouvent une nouvelle chambre."
+    imre "J'en ai fini avec toi, putain ! J'reste avec un ami jusqu'à ce qu'ils me trouvent une nouvelle chambre."
 
 # game/v6/v6.rpy:251
 translate francais imrecona_99c4a6b6:
@@ -208,7 +208,7 @@ translate francais imreconb_169816de:
 translate francais imreconb_ed58fa91:
 
     # imre "You know, it's just... my brother would never let someone do that to him."
-    imre "Tu sais, c'est juste que... mon frère ne laisserait jamais quelqu'un lui faire ça."
+    imre "Tu sais, c'est juste que... mon frère laisserait jamais quelqu'un lui faire ça."
 
 # game/v6/v6.rpy:316
 translate francais imreconb_c27405c2:
@@ -220,7 +220,7 @@ translate francais imreconb_c27405c2:
 translate francais imreconb_e0c3f57b:
 
     # imre "You're right, he would have beaten Adam up the first time and would've never gotten injured."
-    imre "T'as raison, il aurait battu Adam la première fois et n'aurait jamais été blessé."
+    imre "T'as raison, il aurait battu Adam la première fois et aurait jamais été blessé."
 
 # game/v6/v6.rpy:326
 translate francais imreconb_2f0a74cf:
@@ -238,7 +238,7 @@ translate francais imreconb_fb96cd56:
 translate francais imreconb_b7322b81:
 
     # imre "I need some time to think. I'll see you later."
-    imre "J'ai besoin de temps pour réfléchir. J'te verrai plus tard."
+    imre "J'ai besoin d'temps pour réfléchir. J'te verrai plus tard."
 
 # game/v6/v6.rpy:338
 translate francais imreconb_3f3be3cb:
@@ -790,7 +790,7 @@ translate francais fs_bd_8ba4c076:
 translate francais fs_bd_fe97a2f3:
 
     # imre "Well I was banging on this bastard's door, but he was too pussy to open."
-    imre "Ben, j'ai frappé à la porte de ce batard, mais il était trop couille molle pour ouvrir."
+    imre "Ben, j'ai frappé à la porte de c'batard, mais il était trop couille molle pour ouvrir."
 
 # game/v6/v6.rpy:939
 translate francais fs_bd_b9efbe3c:
@@ -802,7 +802,7 @@ translate francais fs_bd_b9efbe3c:
 translate francais fs_bd_020116b5:
 
     # imre "I mean he didn't say shit, so yeah."
-    imre "Il n'a rien dit, alors je suis sûr que oui."
+    imre "Il a rien dit, alors j'suis sûr que oui."
 
 # game/v6/v6.rpy:949
 translate francais fs_bd_f18944dd:
@@ -814,7 +814,7 @@ translate francais fs_bd_f18944dd:
 translate francais fs_bd_9188e3c4:
 
     # imre "Or he was hiding. Whatever."
-    imre "Ou il se cachait. Enfin, peu importe."
+    imre "Ou il s'cachait. Enfin, peu importe."
 
 # game/v6/v6.rpy:959
 translate francais fs_bd_f136889d:
@@ -838,7 +838,7 @@ translate francais fs_bd_537de71c:
 translate francais fs_bd_faa07ed0:
 
     # imre "Alright, see you later."
-    imre "Bon, à plus tard."
+    imre "Bon, à plus."
 
 # game/v6/v6.rpy:979
 translate francais fs_bd_953a9579:
@@ -2805,7 +2805,7 @@ translate francais fy_bd_649ad9c0:
 translate francais fy_bd_31b3d31e:
 
     # imre "Not much, just back from class. What are you up to?"
-    imre "Pas grand chose, je reviens de cours. Qu'est-ce que tu fais ?"
+    imre "Pas grand chose, j'reviens d'cours. Qu'est-ce que tu fais ?"
 
 # game/v6/v6.rpy:3075
 translate francais fy_bd_34cc6799:
@@ -2817,7 +2817,7 @@ translate francais fy_bd_34cc6799:
 translate francais fy_bd_87f070f2:
 
     # imre "*Laughs* Yeah, assignments are the worst."
-    imre "*Rire* Ouais, les devoirs c'est le pire."
+    imre "*Rire* Ouais, les devoirs c'est l'pire."
 
 # game/v6/v6.rpy:3085
 translate francais fy_bd_3706af4d:
@@ -2841,7 +2841,7 @@ translate francais fy_bd_5f2ebfec:
 translate francais fy_bd_49041954:
 
     # imre "Come on I'll just do some light stuff, it'll do me good. Plus I can teach you some new moves."
-    imre "Allez, j'vais juste faire quelques trucs légers, ça me fera du bien. En plus, je peux t'apprendre quelques nouveaux mouvements."
+    imre "Allez, j'vais juste faire quelques trucs légers, ça m'fera du bien. En plus, j'peux t'apprendre quelques nouveaux mouvements."
 
 # game/v6/v6.rpy:3102
 translate francais fy_bd_0d7a9cd9:
@@ -2871,7 +2871,7 @@ translate francais fy_bd_79b183c4:
 translate francais fy_bd_0fcc3371:
 
     # imre "Alright, I'm gonna head out. Gotta buy more Ibuprofen for my ribs."
-    imre "Bon, j'vais y aller. Je dois acheter plus d'Ibuprofen pour mes côtes."
+    imre "Bon, j'vais y aller. J'dois acheter plus d'Ibuprofen pour mes côtes."
 
 # game/v6/v6.rpy:3127
 translate francais fy_bd_30ca988d:
@@ -4629,7 +4629,7 @@ translate francais wehere_49a9e742:
 translate francais wehere_b331919a:
 
     # imre "Exactly, which is also why I'm joining the Wolves."
-    imre "Exactement, c'est aussi pour ça que je rejoins les Wolves."
+    imre "Exactement, c'est aussi pour ça que j'rejoins les Wolves."
 
 # game/v6/v6.rpy:4832
 translate francais wehere_a2226aec:
@@ -4641,13 +4641,13 @@ translate francais wehere_a2226aec:
 translate francais wehere_b001c4ba:
 
     # imre "Who told you that?! That's bullshit."
-    imre "Qui t'as dit ça ?! C'est de la merde."
+    imre "Qui t'as dit ça ?! C'est d'la merde."
 
 # game/v6/v6.rpy:4838
 translate francais wehere_20d8a0c5:
 
     # imre "The Apes are disloyal pieces of shit. The Wolves are real brothers and they get mad pussy."
-    imre "Les Apes sont des tas de merdes déloyales. Les Wolves sont de vrais frères et ils ont plein de nanas."
+    imre "Les Apes sont des tas d'merdes déloyales. Les Wolves sont d'vrais frères et ils ont plein de nanas."
 
 # game/v6/v6.rpy:4843
 translate francais wehere_d8ab5241:
@@ -4659,7 +4659,7 @@ translate francais wehere_d8ab5241:
 translate francais wehere_b938dede:
 
     # imre "It is, but my brother used to be a Wolf and he told me about all the shady shit that the Apes would do."
-    imre "C'est vrai, mais mon frère était un Wolf et il m'a parlé de toutes les conneries que les Apes faisaient."
+    imre "C'est vrai, mais mon frère était un Wolf et il m'a parlé de toutes les conneries qu'les Apes faisaient."
 
 # game/v6/v6.rpy:4860
 translate francais wehere_41f7fb45:
@@ -4947,7 +4947,7 @@ translate francais wakeupa_20178c07:
 translate francais wakeupa_0ffad696:
 
     # imre "Sure, bud. I'm gonna teach you a slick move today."
-    imre "Bien sûr, mon pote. Je vais t'apprendre un mouvement efficace aujourd'hui."
+    imre "Bien sûr, mon pote. J'vais t'apprendre un mouvement efficace aujourd'hui."
 
 # game/v6/v6.rpy:5171
 translate francais wakeupa_17aa8f59:
@@ -4959,13 +4959,13 @@ translate francais wakeupa_17aa8f59:
 translate francais wakeupa_9bbccaaf:
 
     # imre "I used to feel that way too, but my brother taught me a good technique to deal with that."
-    imre "Avant, Je me sentais comme ça aussi, mais mon frère m'a appris une bonne technique pour gérer ça."
+    imre "Avant, J'me sentais comme ça aussi, mais mon frère m'a appris une bonne technique pour gérer ça."
 
 # game/v6/v6.rpy:5177
 translate francais wakeupa_0bfcd917:
 
     # imre "Before every fight I like to think about what moves might be best against each opponent and then I just focus on these."
-    imre "Avant chaque combat, j'aime réfléchir aux mouvements qui pourraient être les meilleurs contre chaque adversaire, puis je me concentre uniquement sur ceux-ci."
+    imre "Avant chaque combat, j'aime réfléchir aux mouvements qui pourraient être les meilleurs contre chaque adversaire, puis j'me concentre uniquement sur ceux-ci."
 
 # game/v6/v6.rpy:5182
 translate francais wakeupa_2960e019:
@@ -4977,7 +4977,7 @@ translate francais wakeupa_2960e019:
 translate francais wakeupa_0267d3d2:
 
     # imre "Different sized opponents require different techniques. Also, what about impressing the ladies that watch you fight? The cooler the moves, the hotter the girls."
-    imre "Des adversaires de tailles différentes nécessitent des techniques différentes. Et pourquoi ne pas impressionner les filles qui te regardent combattre ? Plus les mouvements sont cools, plus les filles chauffent."
+    imre "Des adversaires de tailles différentes nécessitent des techniques différentes. Et pourquoi pas impressionner les filles qui te regardent combattre ? Plus les mouvements sont cools, plus les filles chauffent."
 
 # game/v6/v6.rpy:5192
 translate francais wakeupa_66c635b8:
@@ -4989,7 +4989,7 @@ translate francais wakeupa_66c635b8:
 translate francais wakeupa_91342791:
 
     # imre "Alright, I'm gonna show you how to throw an uppercut."
-    imre "Ok, je vais te montrer comment lancer un uppercut."
+    imre "Ok, j'vais t'montrer comment lancer un uppercut."
 
 # game/v6/v6.rpy:5207
 translate francais wakeupa_c3a74fec:
@@ -5007,7 +5007,7 @@ translate francais wakeupa_f9ac4eb4:
 translate francais wakeupa_17c236f2:
 
     # imre "Okay, turns out I can't really show you the full power of it right now."
-    imre "Ok, j'ai l'impression que je ne peux pas vraiment te montrer toute la puissance de ce mouvement pour le moment."
+    imre "Ok, j'ai l'impression que j'peux pas vraiment t'montrer toute la puissance de c'mouvement, là."
 
 # game/v6/v6.rpy:5219
 translate francais wakeupa_dc52df4c:
@@ -5019,7 +5019,7 @@ translate francais wakeupa_dc52df4c:
 translate francais wakeupa_ce3568cd:
 
     # imre "Just remember, you want your fist to be a vertical line to your opponent's chin when you hit it."
-    imre "N'oublie pas que tu veux que ton poing soit à la verticale du menton de ton adversaire lorsque tu le frappes."
+    imre "N'oublie pas qu'tu veux qu'ton poing soit à la verticale du menton de ton adversaire lorsque tu l'frappes."
 
 # game/v6/v6.rpy:5259
 translate francais wakeupa_859d3c00:
@@ -5049,19 +5049,19 @@ translate francais wakeupa_1908f62b:
 translate francais wakeupa_c85b8be3:
 
     # imre "Great job today man, you're really learning fast. The Wolves are gonna love you."
-    imre "Bon travail aujourd'hui mec ! Tu apprends vraiment vite, les Wolves vont t'adorer."
+    imre "Bon travail aujourd'hui mec ! T'apprends vraiment vite, les Wolves vont t'adorer."
 
 # game/v6/v6.rpy:5358
 translate francais wakeupa_0596a09d:
 
     # imre "I gotta go meet up with some friends now. I'm just gonna shower here then head out."
-    imre "Je dois aller retrouver des potes, là. Je vais juste prendre une douche ici puis partir."
+    imre "J'dois aller retrouver des potes, là. J'vais juste prendre une douche ici puis partir."
 
 # game/v6/v6.rpy:5359
 translate francais wakeupa_162610b9:
 
     # imre "I'll see you later."
-    imre "Je te verrai plus tard."
+    imre "J'te verrai plus tard."
 
 # game/v6/v6.rpy:5365
 translate francais wakeupa_288e53e1:
@@ -6729,7 +6729,7 @@ translate francais readywolf_29f7d1c3:
 translate francais readywolf_1d4df49e:
 
     # imre "You thinking about joining the Apes?"
-    imre "Tu penses à rejoindre les Apes ?"
+    imre "Tu veux rejoindre les Apes ?"
 
 # game/v6/v6.rpy:6868
 translate francais readywolf_650345b4:
@@ -6741,25 +6741,25 @@ translate francais readywolf_650345b4:
 translate francais readywolf_98c83a2c:
 
     # imre "*Laughs* Calm down, I'm just kidding man."
-    imre "*Rire* Calme-toi, je plaisante mec."
+    imre "*Rire* Calme-toi, j'plaisante mec."
 
 # game/v6/v6.rpy:6875
 translate francais readywolf_52fe6023:
 
     # imre "I know you'd never join the Apes."
-    imre "Je sais que tu ne rejoindras jamais les Apes."
+    imre "J'sais que tu rejoindras jamais les Apes."
 
 # game/v6/v6.rpy:6879
 translate francais readywolf_e0890818:
 
     # imre "You know why? Cause you're not a fucking asshole."
-    imre "Tu sais pourquoi ? Parce que tu n'es pas un putain de connard."
+    imre "Tu sais pourquoi ? Parce que t'es pas un putain de connard."
 
 # game/v6/v6.rpy:6881
 translate francais readywolf_da2f45a1:
 
     # imre "You have honor and loyalty and you're a good friend."
-    imre "Tu as l'honneur, la loyauté et tu es un bon ami."
+    imre "T'as l'honneur, la loyauté et t'es un bon ami."
 
 # game/v6/v6.rpy:6883
 translate francais readywolf_a9c07d26:
@@ -6795,7 +6795,7 @@ translate francais readywolf_53ba7abc:
 translate francais readywolf_c86c8763:
 
     # imre "This is where dreams come true."
-    imre "C'est là que les rêves deviennent réalité."
+    imre "C'est là qu'les rêves deviennent réalité."
 
 # game/v6/v6.rpy:6911
 translate francais readywolf_59133e5c:
@@ -6819,7 +6819,7 @@ translate francais readywolf_8c4a7356:
 translate francais readywolf_be7eeb17:
 
     # imre "I see there's two... big plans or are you saving one for me?"
-    imre "Je vois qu'il y en a deux... de grands projets ou tu en gardes une pour moi ?"
+    imre "J'vois qu'il y en a deux... de grands projets ou t'en gardes une pour moi ?"
 
 # game/v6/v6.rpy:6931
 translate francais readywolf_899a27f4:
@@ -6831,7 +6831,7 @@ translate francais readywolf_899a27f4:
 translate francais readywolf_155bed87:
 
     # imre "Hahaha, this man knows how to be a bro!"
-    imre "Hahaha, ce mec sait comment être un bon frère !"
+    imre "Hahaha, c'mec sait comment être un bon frère !"
 
 # game/v6/v6.rpy:6941
 translate francais readywolf_2befab5d:
@@ -6855,13 +6855,13 @@ translate francais readywolf_0edf4fe1:
 translate francais readywolf_6c59fca3:
 
     # imre "Funny story actually. You remember that girls' volleyball game where I kinda hid in the girls' lockerroom afterwards?"
-    imre "C'est une histoire drôle en fait. Tu te souviens du match de volleyball des filles où j'me suis caché dans les vestiaires des filles après le match ?"
+    imre "C'est une histoire drôle en fait. Tu t'souviens du match de volley des filles où j'me suis caché dans les vestiaires des filles après le match ?"
 
 # game/v6/v6.rpy:6955
 translate francais readywolf_4130b404:
 
     # imre "Aaron was seated next to me at the game."
-    imre "Aaron était assis à côté de moi pendant le match."
+    imre "Aaron était assis à côté d'moi pendant le match."
 
 # game/v6/v6.rpy:6960
 translate francais readywolf_75189fd4:
@@ -6909,7 +6909,7 @@ translate francais readywolf_daeb2714:
 translate francais readywolf_74483de5:
 
     # imre "Alriiight! Lead the way, Aaron."
-    imre "Ooook ! Je te suis, Aaron."
+    imre "Ooook ! J'te suis, Aaron."
 
 # game/v6/v6.rpy:7000
 translate francais readywolf_bd0f033a:

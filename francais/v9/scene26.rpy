@@ -118,7 +118,7 @@ translate francais v9_fri_training_w_wolves_52e3dd97:
 translate francais v9_fri_training_w_wolves_95fb0e34:
 
     # imre "Ugh. Could you imagine the stench in that gym?"
-    imre "Beurk. Pouvez-vous imaginer la puanteur dans ce gymnase ?"
+    imre "Beurk. Pouvez-vous imaginer la puanteur dans c'gymnase ?"
 
 # game/v9/scene26.rpy:136
 translate francais v9_fri_training_w_wolves_974b060b:
@@ -724,7 +724,7 @@ translate francais v9_fri_training_w_wolves_515b7bf9:
 translate francais v9_fri_training_w_wolves_477c4e8a:
 
     # imre "We shall!"
-    imre "On va le faire !"
+    imre "On va l'faire !"
 
 # game/v9/scene26.rpy:632
 translate francais v9_fri_training_w_wolves_96d2fdcf:

@@ -3712,7 +3712,7 @@ translate francais pledgewolves_28c357ba:
 translate francais pledgewolves_e8b1fac6:
 
     # imre "Was wondering where you were."
-    imre "Je me demandais où tu étais."
+    imre "J'me demandais où t'étais."
 
 # game/v7/v7.rpy:3558
 translate francais pledgewolves_c5446f18:
@@ -3724,7 +3724,7 @@ translate francais pledgewolves_c5446f18:
 translate francais pledgewolves_310721c0:
 
     # imre "Yeah man, I know we had our differences. But at the end of the day, we're still bros."
-    imre "Ouais mec, je sais qu'on a eu des différents. Mais au bout du compte, on est toujours des frères."
+    imre "Ouais mec, j'sais qu'on a eu des différents. Mais au bout du compte, on est toujours des frères."
 
 # game/v7/v7.rpy:3568
 translate francais pledgewolves_5cf364d4:
@@ -3754,13 +3754,13 @@ translate francais pledgewolves_87947e30:
 translate francais pledgewolves_fda21cef:
 
     # imre "Sorry man. I shouldn't have acted like that."
-    imre "Désolé mec. Je n'aurais pas dû en faire autant."
+    imre "Désolé mec. J'aurais pas dû en faire autant."
 
 # game/v7/v7.rpy:3587
 translate francais pledgewolves_233aeec3:
 
     # imre "Know that I've got your back from here on bro."
-    imre "Sache que je te soutiens à partir de maintenant, mon frère."
+    imre "Sache que j'te soutiens à partir d'maintenant, mon frère."
 
 # game/v7/v7.rpy:3595
 translate francais pledgewolves_ec1badcf:
@@ -3772,7 +3772,7 @@ translate francais pledgewolves_ec1badcf:
 translate francais pledgewolves_d9eee61e:
 
     # imre "And what we'll be in a few hours!!"
-    imre "Et ce que nous serons dans quelques heures !!"
+    imre "Et ce qu'on sera dans quelques heures !!"
 
 # game/v7/v7.rpy:3604
 translate francais pledgewolves_3e4b8d68:
@@ -3790,7 +3790,7 @@ translate francais pledgewolves_196bd9fd:
 translate francais pledgewolves_a98390e1:
 
     # imre "We're about to be Wolves!!!"
-    imre "Nous sommes sur le point d'être des Wolves !!!"
+    imre "On est sur le point d'être des Wolves !!!"
 
 # game/v7/v7.rpy:3621
 translate francais pledgewolves_e9ac3cc5:
@@ -4131,7 +4131,7 @@ translate francais pledgewolves_d14f47b4:
 translate francais pledgewolves_5062c62f:
 
     # imre "I got this."
-    imre "Je vais y arriver."
+    imre "J'vais y arriver."
 
 # game/v7/v7.rpy:3846
 translate francais pledgewolves_401f714a:
@@ -4185,7 +4185,7 @@ translate francais pledgewolves_a4af9221:
 translate francais pledgewolves_993a3770:
 
     # imre "Shit. I thought this would be easy."
-    imre "Merde. Je pensais que ce serait facile."
+    imre "Merde. J'pensais qu'ce serait facile."
 
 # game/v7/v7.rpy:3887
 translate francais pledgewolves_7d766217:
@@ -4629,7 +4629,7 @@ translate francais aftercall_5aa8c826:
 translate francais aftercall_a26dcca2:
 
     # imre "I know that's shitty of me, but I wouldn't do that to any of you ever again."
-    imre "Je sais que c'est merdique de ma part, mais je ne ferai plus jamais ça à aucun d'entre vous."
+    imre "J'sais que c'est merdique de ma part, mais j'ferai plus jamais ça à aucun d'entre vous."
 
 # game/v7/v7.rpy:4175
 translate francais aftercall_a324b476:
@@ -5241,7 +5241,7 @@ translate francais aftercall_f173d933:
 translate francais aftercall_cb64b5a3:
 
     # imre "Holy shit!"
-    imre "Putain de merde !"
+    imre "Putain d'merde !"
 
 # game/v7/v7.rpy:4673
 translate francais aftercall_df3fa254:
@@ -6363,7 +6363,7 @@ translate francais ep7_before_history_6f02ec58:
 translate francais ep7_before_history_337b089f:
 
     # imre "I'm still on cloud nine dude. All our biggest dreams coming true."
-    imre "Je suis toujours sur un petit nuage mec. Tous nos plus grands rêves deviennent réalité."
+    imre "J'suis toujours sur un petit nuage mec. Tous nos plus grands rêves deviennent réalité."
 
 # game/v7/v7.rpy:5566
 translate francais ep7_before_history_6bc2fc20:
@@ -6387,7 +6387,7 @@ translate francais ep7_before_history_0a753652:
 translate francais ep7_before_history_5e0b685c:
 
     # imre "Haha man, you look dumb."
-    imre "Haha mec, tu as l'air stupide."
+    imre "Haha mec, t'as l'air stupide."
 
 # game/v7/v7.rpy:5587
 translate francais ep7_before_history_3027ef92:
@@ -6417,7 +6417,7 @@ translate francais ep7_before_history_b347a363:
 translate francais ep7_before_history_9afc1928:
 
     # imre "You're probably right about that."
-    imre "Tu as probablement raison."
+    imre "Ouais, t'as raison."
 
 # game/v7/v7.rpy:5607
 translate francais ep7_before_history_264f1c79:
@@ -6435,7 +6435,7 @@ translate francais ep7_before_history_2bab7b8a:
 translate francais ep7_before_history_df7de7f7:
 
     # imre "Man, that's actually a pretty dope fit."
-    imre "Mec, c'est en fait une bonne tenue."
+    imre "Mec, c'est une bonne tenue."
 
 # game/v7/v7.rpy:5624
 translate francais ep7_before_history_0f434097:
@@ -6447,13 +6447,13 @@ translate francais ep7_before_history_0f434097:
 translate francais ep7_before_history_f63669dc:
 
     # imre "Yeah, it's pretty badass. It's better than mine, at least."
-    imre "Ouais, c'est plutôt badass. C'est mieux que le mien, en tout cas."
+    imre "Ouais, c'est plutôt badass. C'est mieux qu'le mien, en tout cas."
 
 # game/v7/v7.rpy:5632
 translate francais ep7_before_history_0548e7b9:
 
     # imre "Yeah, definitely much better than mine."
-    imre "Ouais, définitivement beaucoup mieux que le mien."
+    imre "Ouais, définitivement beaucoup mieux qu'le mien."
 
 # game/v7/v7.rpy:5636
 translate francais ep7_before_history_18640d16:
@@ -6495,7 +6495,7 @@ translate francais ep7_before_history_4121e373:
 translate francais ep7_before_history_05480bc7:
 
     # imre "Haha. Don't come stomping on my rodeo!"
-    imre "Haha. Ne viens pas piétiner mon rodéo !"
+    imre "Haha. Viens pas piétiner mon rodéo !"
 
 # game/v7/v7.rpy:5666
 translate francais ep7_before_history_5eee02ee:
@@ -6591,7 +6591,7 @@ translate francais ep7_before_history_9d72d98a:
 translate francais ep7_before_history_de53553c:
 
     # imre "So... why weren't you at the Wolves pledge last night?"
-    imre "Alors... pourquoi tu n'étais pas au recrutement des Wolves hier soir ?"
+    imre "Alors... pourquoi t'étais pas au recrutement des Wolves hier soir ?"
 
 # game/v7/v7.rpy:5738
 translate francais ep7_before_history_4599f75b:
@@ -6609,7 +6609,7 @@ translate francais ep7_before_history_6df9bcce:
 translate francais ep7_before_history_83e20c0f:
 
     # imre "Mhm... Sure. Well, you ready?"
-    imre "Hum... Bien sûr. Eh bien, tu es prêt ?"
+    imre "Hum... Bien sûr. Eh bien, t'es prêt ?"
 
 # game/v7/v7.rpy:5750
 translate francais ep7_before_history_b9563d83:
@@ -6669,7 +6669,7 @@ translate francais history_class_77c8afdb:
 translate francais history_class_1ff234db:
 
     # imre "Man, I've been waiting for this day for a while."
-    imre "Mec, ça fait un moment que j'attends ce jour."
+    imre "Mec, ça fait un moment qu'j'attends ce jour."
 
 # game/v7/v7.rpy:5817
 translate francais history_class_4751a6e5:
@@ -6681,7 +6681,7 @@ translate francais history_class_4751a6e5:
 translate francais history_class_ab624c6a:
 
     # imre "Yeah, I'm ready to start fighting already."
-    imre "Ouais, je suis déjà prêt à commencer à me battre."
+    imre "Ouais, j'suis déjà prêt à commencer à m'battre."
 
 # game/v7/v7.rpy:5825
 translate francais history_class_484032f2:
@@ -6693,13 +6693,13 @@ translate francais history_class_484032f2:
 translate francais history_class_9bf3e79a:
 
     # imre "Of course! And I think we should start training together again."
-    imre "Bien sûr! Et je pense que nous devrions recommencer à nous entraîner ensemble"
+    imre "Bien sûr! Et j'pense que on devrais recommencer à nous entraîner ensemble"
 
 # game/v7/v7.rpy:5830
 translate francais history_class_2dd2f1b6:
 
     # imre "But this time in the Wolves gym, it's gonna be awesome!"
-    imre "Mais cette fois dans le gymnase des Wolves, ça va être génial !"
+    imre "Mais cette fois dans l'gymnase des Wolves, ça va être génial !"
 
 # game/v7/v7.rpy:5836
 translate francais history_class_8686e81c_1:
@@ -6741,7 +6741,7 @@ translate francais history_class_8afdb2bc:
 translate francais history_class_1b9a75b5:
 
     # imre "I vow to never find out."
-    imre "Je jure que je ne veux pas le savoir."
+    imre "Je jure que j'veux pas l'savoir."
 
 # game/v7/v7.rpy:5869
 translate francais history_class_b290c94d:
@@ -8469,7 +8469,7 @@ translate francais thurs_night_dorm_999e6951:
 translate francais thurs_night_dorm_cdc844a8:
 
     # imre "I knooow. It's gonna be insane, bro."
-    imre "Je sais. Ça va être fou, mon frère."
+    imre "Je sais. Ça va être ouf, mon frère."
 
 # game/v7/v7.rpy:7341
 translate francais cameron_thurs_tasks_4f1997c1:
@@ -9687,7 +9687,7 @@ translate francais wolves_ceremony_23b0a598:
 translate francais wolves_ceremony_e83a01d8:
 
     # imre "Getting some air."
-    imre "Je prend l'air."
+    imre "J'prend l'air."
 
 # game/v7/v7.rpy:8822
 translate francais wolves_ceremony_44a16469:
@@ -9699,7 +9699,7 @@ translate francais wolves_ceremony_44a16469:
 translate francais wolves_ceremony_36629ad9:
 
     # imre "I'm great man. I have a good feeling about this year."
-    imre "Je vais bien, mec. J'ai un bon pressentiment pour cette année."
+    imre "J'vais bien, mec. J'ai un bon pressentiment pour cette année."
 
 # game/v7/v7.rpy:8832
 translate francais wolves_ceremony_0034a72c:
@@ -9711,7 +9711,7 @@ translate francais wolves_ceremony_0034a72c:
 translate francais wolves_ceremony_6d53c48b:
 
     # imre "Feels like I've been waiting for this moment since my brother was in the Wolves."
-    imre "J'ai l'impression d'attendre ce moment depuis que mon frère était dans les Wolves."
+    imre "J'ai l'impression d'attendre c'moment depuis qu'mon frère était dans les Wolves."
 
 # game/v7/v7.rpy:8842
 translate francais wolves_ceremony_5988b32e:
@@ -9735,7 +9735,7 @@ translate francais wolves_ceremony_883cff4b:
 translate francais wolves_ceremony_5a6f11d4:
 
     # imre "Remember meeting the first day?"
-    imre "Tu te rappelles notre rencontre le premier jour ?"
+    imre "Tu t'rappelles notre rencontre le premier jour ?"
 
 # game/v7/v7.rpy:8862
 translate francais wolves_ceremony_681cdbbb:
@@ -9747,7 +9747,7 @@ translate francais wolves_ceremony_681cdbbb:
 translate francais wolves_ceremony_934cb241:
 
     # imre "I didn't see you one joining one either. Haha."
-    imre "Je ne te voyais pas en rejoindre une non plus. Haha."
+    imre "J'te voyais pas en rejoindre une non plus. Haha."
 
 # game/v7/v7.rpy:8872
 translate francais wolves_ceremony_8a2e3c69:
@@ -9759,7 +9759,7 @@ translate francais wolves_ceremony_8a2e3c69:
 translate francais wolves_ceremony_06eb471a:
 
     # imre "Just that you know, you were a bit of a-"
-    imre "Juste que tu sais, tu étais un peu-"
+    imre "Juste que tu sais, t'étais un peu-"
 
 # game/v7/v7.rpy:8882
 translate francais wolves_ceremony_dd3894ec:
@@ -9771,7 +9771,7 @@ translate francais wolves_ceremony_dd3894ec:
 translate francais wolves_ceremony_746c996e:
 
     # imre "I'm fuckin with you! Haha."
-    imre "Je me fous de toi ! Haha."
+    imre "J'me fous de toi ! Haha."
 
 # game/v7/v7.rpy:8892
 translate francais wolves_ceremony_e997f2f0:
@@ -9783,7 +9783,7 @@ translate francais wolves_ceremony_e997f2f0:
 translate francais wolves_ceremony_1facc401:
 
     # imre "That's what I'm here for."
-    imre "C'est pour ça que je suis là."
+    imre "C'est pour ça que j'suis là."
 
 # game/v7/v7.rpy:8907
 translate francais wolves_ceremony_faf45bbd:
@@ -16287,7 +16287,7 @@ translate francais fr4msrose2_e4d79f4a:
 translate francais fr4imre1_38fbf1f1:
 
     # imre "Fuck yeah."
-    imre "Putain oui."
+    imre "Putain ouais."
 
 # game/v7/v7.rpy:15895
 translate francais fr4imre1_0cc054d2:
@@ -16317,7 +16317,7 @@ translate francais fr4imre1_620de1ad:
 translate francais fr4imre1_52a066cb:
 
     # imre "Haha yeah. Making the most out of homecoming. *Laughs*"
-    imre "Haha ouais. Tirer le meilleur parti de la fête. *Rire*"
+    imre "Haha ouais. Tirer le meilleur parti d'la fête. *Rire*"
 
 # game/v7/v7.rpy:15911
 translate francais fr4imre1_a3321d8e:
@@ -16335,7 +16335,7 @@ translate francais fr4imre1_f0752977:
 translate francais fr4imre1_3304cb5e:
 
     # imre "See you later, bro!"
-    imre "A plus tard, mon frère !"
+    imre "À plus, mon frère !"
 
 # game/v7/v7.rpy:15922
 translate francais fr4imre1_3b39923f:
@@ -18610,7 +18610,7 @@ translate francais pledgewolves_9dd407c1:
 translate francais aftercall_34058df1:
 
     # imre "T-true. But those times are behind me. I was a kid then."
-    imre "V-vrai. Mais cette époque est derrière moi. J'étais un enfant alors."
+    imre "V-vrai. Mais cette époque est derrière moi. J'étais un enfant."
 
 # game/v7/v7.rpy:4871
 translate francais pledgeapes_78896aeb:
@@ -20717,7 +20717,7 @@ translate francais wolves_ceremony_2_23b0a598:
 translate francais wolves_ceremony_2_e83a01d8:
 
     # imre "Getting some air."
-    imre "Je prends l'air."
+    imre "J'prends l'air."
 
 # game/v7/v7.rpy:8771
 translate francais wolves_ceremony_2_44a16469:
@@ -20729,7 +20729,7 @@ translate francais wolves_ceremony_2_44a16469:
 translate francais wolves_ceremony_2_36629ad9:
 
     # imre "I'm great man. I have a good feeling about this year."
-    imre "Je vais bien, mec. J'ai un bon pressentiment pour cette année."
+    imre "J'vais bien, mec. J'ai un bon pressentiment pour cette année."
 
 # game/v7/v7.rpy:8781
 translate francais wolves_ceremony_2_0034a72c:
@@ -20741,7 +20741,7 @@ translate francais wolves_ceremony_2_0034a72c:
 translate francais wolves_ceremony_2_6d53c48b:
 
     # imre "Feels like I've been waiting for this moment since my brother was in the Wolves."
-    imre "J'ai l'impression d'avoir attendu ce moment depuis que mon frère était dans les Wolves."
+    imre "J'ai l'impression d'avoir attendu c'moment depuis qu'mon frère était dans les Wolves."
 
 # game/v7/v7.rpy:8791
 translate francais wolves_ceremony_2_5988b32e:
@@ -20765,7 +20765,7 @@ translate francais wolves_ceremony_2_883cff4b:
 translate francais wolves_ceremony_2_5a6f11d4:
 
     # imre "Remember meeting the first day?"
-    imre "Tu te souviens de la rencontre du premier jour ?"
+    imre "Tu t'souviens d'notre rencontre du premier jour ?"
 
 # game/v7/v7.rpy:8811
 translate francais wolves_ceremony_2_681cdbbb:
@@ -20777,7 +20777,7 @@ translate francais wolves_ceremony_2_681cdbbb:
 translate francais wolves_ceremony_2_934cb241:
 
     # imre "I didn't see you one joining one either. Haha."
-    imre "Je ne t'ai pas vu te rallier à moi non plus. Haha."
+    imre "J't'ai pas vu te rallier à moi non plus. Haha."
 
 # game/v7/v7.rpy:8821
 translate francais wolves_ceremony_2_8a2e3c69:
@@ -20789,7 +20789,7 @@ translate francais wolves_ceremony_2_8a2e3c69:
 translate francais wolves_ceremony_2_06eb471a:
 
     # imre "Just that you know, you were a bit of a-"
-    imre "Juste que tu étais un peu-"
+    imre "Juste que t'étais un peu-"
 
 # game/v7/v7.rpy:8831
 translate francais wolves_ceremony_2_dd3894ec:
@@ -20801,7 +20801,7 @@ translate francais wolves_ceremony_2_dd3894ec:
 translate francais wolves_ceremony_2_746c996e:
 
     # imre "I'm fuckin with you! Haha."
-    imre "Je me fous de toi ! Haha."
+    imre "J'me fous de toi ! Haha."
 
 # game/v7/v7.rpy:8841
 translate francais wolves_ceremony_2_e997f2f0:

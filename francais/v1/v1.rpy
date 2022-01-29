@@ -965,7 +965,7 @@ translate francais aj_db_cc686ec9:
 translate francais aj_db_030708fe:
 
     # u "(I should probably go to my new dorm, but I might as well explore for a bit beforehand.)"
-    u "(Je devrais probablement aller dans mon nouveau dortoir, mais je pourrais aussi explorer un peu avant.)"
+    u "(Je devrais aller dans mon nouveau dortoir, mais je pourrais aussi explorer un peu avant.)"
 
 # game/v1/v1.rpy:891
 translate francais v1_freeRoam1_riley_4417530d:
@@ -1379,7 +1379,7 @@ translate francais efra_91eaa749:
 translate francais efra_32397d93:
 
     # imre "This is your bed. I took the other one 'cause I'm hoping for some sexy noises from the chick next door."
-    imre "Là c'est ton lit. J'ai pris l'autre parce que j'espère qu'il y aura des bruits chauds de la nana d'à côté."
+    imre "Là c'est ton lit. J'ai pris l'autre parce que j'espère qu'y aura des bruits chauds d'la nana d'à côté."
 
 # game/v1/v1.rpy:1243
 translate francais efra_544a8f0c:
@@ -1391,7 +1391,7 @@ translate francais efra_544a8f0c:
 translate francais efra_cfd42e44:
 
     # imre "I don't know, it's my first day. But a man can dream."
-    imre "Je ne sais pas, c'est mon premier jour. Mais on peut rêver."
+    imre "J'sais pas, c'est mon premier jour. Mais on peut rêver."
 
 # game/v1/v1.rpy:1250
 translate francais efra_4c343ad5:
@@ -1409,7 +1409,7 @@ translate francais efra_cf8f5590:
 translate francais efra_deb7d583:
 
     # imre "It's Hungarian. My family and I moved to the States about eight years ago."
-    imre "C'est hongrois. Ma famille et moi avons déménagé aux États-Unis il y a environ huit ans."
+    imre "C'est hongrois. Ma famille et moi avons déménagé aux États-Unis y a environ huit ans."
 
 # game/v1/v1.rpy:1262
 translate francais efra_a9296b7c:
@@ -1421,7 +1421,7 @@ translate francais efra_a9296b7c:
 translate francais efra_64a2af61:
 
     # imre "And, I got some weights as well, so we can get a pump before going to parties."
-    imre "Et j'ai aussi des poids, pour qu'on puisse faire de la gonflette avant d'aller aux soirées."
+    imre "Et j'ai aussi des poids, pour qu'on puisse faire d'la gonflette avant d'aller aux soirées."
 
 # game/v1/v1.rpy:1269
 translate francais efra_f1c2feb9:
@@ -1433,7 +1433,7 @@ translate francais efra_f1c2feb9:
 translate francais efra_b331919a:
 
     # imre "Exactly, which is also why I'm joining the Wolves."
-    imre "Tu m'étonnes, c'est aussi pour ça que je rejoins les Wolves."
+    imre "Tu m'étonnes, c'est aussi pour ça que j'rejoins les Wolves."
 
 # game/v1/v1.rpy:1279
 translate francais efra_a2226aec:
@@ -1445,7 +1445,7 @@ translate francais efra_a2226aec:
 translate francais efra_b001c4ba:
 
     # imre "Who told you that?! That's bullshit."
-    imre "Qui t'a dit ça ?! C'est de la merde."
+    imre "Qui t'a dit ça ?! C'est d'la merde."
 
 # game/v1/v1.rpy:1286
 translate francais efra_20d8a0c5:
@@ -1487,7 +1487,7 @@ translate francais efra_e5629812:
 translate francais efra_6ec07095:
 
     # imre "Noooo! The Wolves are better. How are you not getting this?!"
-    imre "Nooon ! Les Wolves sont meilleurs. Comment tu ne comprends pas ça ?!"
+    imre "Nooon ! Les Wolves sont meilleurs. Comment tu comprends pas ça ?!"
 
 # game/v1/v1.rpy:1325
 translate francais efra_c7393401:
@@ -1505,13 +1505,13 @@ translate francais efra_db44cc06:
 translate francais efra_590aac41:
 
     # imre "Yeahhhh! They fucking are man. That's what I've been trying to tell you."
-    imre "Ouaaaais ! Ce sont des putains de vrais mecs. C'est ce que j'ai essayé de te dire."
+    imre "Ouaaaais ! Ce sont des putains de vrais mecs. C'est c'que j'ai essayé d'te dire."
 
 # game/v1/v1.rpy:1343
 translate francais an_bd_4ec46fa2:
 
     # imre "Honestly I think you'd make a great Wolf as well."
-    imre "Franchement, je crois que tu ferais aussi un grand Wolf."
+    imre "Franchement, j'crois qu'tu ferais aussi un grand Wolf."
 
 # game/v1/v1.rpy:1348
 translate francais an_bd_791f730b:
@@ -1523,7 +1523,7 @@ translate francais an_bd_791f730b:
 translate francais an_bd_9b33ce03:
 
     # imre "Man, fighting's easy. They teach you everything. I've been training with my brother and it's so much fun."
-    imre "Mec, c'est facile de se battre. Ils t'apprennent tout. Je me suis entraîné avec mon frère, c'est trop fort !"
+    imre "Mec, c'est facile de s'battre. Ils t'apprennent tout. J'me suis entraîné avec mon frère, c'est trop fort !"
 
 # game/v1/v1.rpy:1357
 translate francais an_bd_e783f502:
@@ -1535,7 +1535,7 @@ translate francais an_bd_e783f502:
 translate francais an_bd_500414bc:
 
     # imre "You're definitely going to the Wolves' rush party with me."
-    imre "Tu iras à la soirée des Wolves avec moi, t'as pas le choix."
+    imre "Tu vas à la soirée des Wolves avec moi, t'as pas le choix."
 
 # game/v1/v1.rpy:1367
 translate francais an_bd_22809803:
@@ -1553,7 +1553,7 @@ translate francais an_bd_8ad3f3c0:
 translate francais an_bd_106453ce:
 
     # imre "That's the spirit!"
-    imre "C'est ce que je voulais entendre !"
+    imre "C'est c'que j'voulais entendre !"
 
 # game/v1/v1.rpy:1379
 translate francais an_bd_4d5428ef:
@@ -1577,7 +1577,7 @@ translate francais an_bd_80f8ee4f:
 translate francais an_bd_72ce765f:
 
     # imre "Instead, I thought my new roommate could invite a cute girl as well, so that it's not as awkward?"
-    imre "Au lieu de ça, je pensais que mon nouveau colocataire pourrait aussi inviter une jolie fille, pour que ça soit pas trop gênant."
+    imre "Donc, je pensais que mon nouveau colocataire pourrait aussi inviter une jolie fille, pour qu'ça soit pas trop gênant."
 
 # game/v1/v1.rpy:1395
 translate francais an_bd_6e60c90b:
@@ -1589,7 +1589,7 @@ translate francais an_bd_6e60c90b:
 translate francais an_bd_dff18ae1:
 
     # imre "You gotta risk it for a biscuit. Or in this case... the pussy."
-    imre "Qui ne tente rien n'a rien. tu veux pas tenter... même pour une minette ?"
+    imre "Qui tente rien n'a rien. tu veux pas tenter... même pour une minette ?"
 
 # game/v1/v1.rpy:1405
 translate francais an_bd_56e6340a:
@@ -1619,7 +1619,7 @@ translate francais an_bd_17960b7e:
 translate francais phonef_b8a0429c:
 
     # imre "It better be a girl."
-    imre "Il vaut mieux que ce soit une fille."
+    imre "Vaut mieux qu'ce soit une fille."
 
 # game/v1/v1.rpy:1439
 translate francais v1_phoneCheck1_6deb2580:
@@ -1811,7 +1811,7 @@ translate francais talktorib_83a656aa:
 translate francais talktorib_448d5fb8:
 
     # imre "Whatever, we've got it now."
-    imre "Peu importe, nous l'avons maintenant."
+    imre "On s'en fout, on l'a maintenant."
 
 # game/v1/v1.rpy:1592
 translate francais talktorib_3c8b713c:
@@ -1853,13 +1853,13 @@ translate francais talktorib_80db9f4e:
 translate francais talktorib_cdee8b71:
 
     # ri "I dare you to seduce your dumbbell."
-    ri "Je te défie de séduire en mode haltère, lourdement quoi."
+    ri "Je te défie de séduire ton haltère."
 
 # game/v1/v1.rpy:1627
 translate francais talktorib_bcc5a332:
 
     # imre "Trust me, you're gonna wish you were this dumbbell."
-    imre "Crois-moi, tu vas souhaiter être séduite en mode haltère."
+    imre "Crois-moi, tu vas souhaiter être séduite comme mon haltère."
 
 # game/v1/v1.rpy:1632
 translate francais talktorib_f457b45a:
@@ -1877,7 +1877,7 @@ translate francais talktorib_8680b32f:
 translate francais talktorib_1dd11341:
 
     # imre "Cause you look bomb."
-    imre "Parce que tu as l'air d'une bombe."
+    imre "Parce que t'as l'air d'une bombe."
 
 # game/v1/v1.rpy:1644
 translate francais talktorib_a2cbeebf:
@@ -1889,7 +1889,7 @@ translate francais talktorib_a2cbeebf:
 translate francais talktorib_d8852fe0:
 
     # imre "It wasn't... I'm not... The dumbbell is just a manly thing."
-    imre "C'était pas... Je suis pas... L'haltère est juste une chose virile."
+    imre "C'était pas... Je suis pas... L'haltère c'est un truc viril."
 
 # game/v1/v1.rpy:1651
 translate francais talktorib_ef5faf11:
@@ -1919,7 +1919,7 @@ translate francais talktorib_baf1a5a6:
 translate francais talktorib_45a1691c:
 
     # imre "I dare you to make out with [name]."
-    imre "Je te défie d'embrasser [name]."
+    imre "J'te défie d'embrasser [name]."
 
 # game/v1/v1.rpy:1676
 translate francais talktorib_8acfc209:
@@ -1997,7 +1997,7 @@ translate francais ao_bd_031008df:
 translate francais ao_bd_35839244:
 
     # imre "My bad, it looked so juicy."
-    imre "C'est de sa faute, il avait l'air si rebondit."
+    imre "C'est d'sa faute, il avait l'air si rebondit."
 
 # game/v1/v1.rpy:1748
 translate francais ao_bd_d4987fa2:
@@ -2069,7 +2069,7 @@ translate francais ap_bd_528d8c89:
 translate francais ap_bd_4eb6b525:
 
     # imre "Normally it's not allowed, but I think for this one we'll make an exception."
-    imre "Normalement, ce n'est pas autorisé, mais je pense que pour celui-ci, nous ferons une exception."
+    imre "Normalement, c'est pas autorisé, mais j'pense que pour celui-ci, on fera une exception."
 
 # game/v1/v1.rpy:1812
 translate francais ap_bd_ee982c6c:
@@ -2153,7 +2153,7 @@ translate francais ar_bd_5d298f3a:
 translate francais ar_bd_168d6fc9:
 
     # imre "What the hell man?! I invited Riley. Back off."
-    imre "C'est quoi ce bordel ?! J'AI invité Riley. Bas les pattes."
+    imre "C'est quoi c'bordel ?! J'AI invité Riley. Bas les pattes."
 
 # game/v1/v1.rpy:1893
 translate francais ar_bd_cc615a84:
@@ -2195,13 +2195,13 @@ translate francais ar_bd_9ec683bd:
 translate francais ar_bd_ffeb2061:
 
     # imre "It's alright man, I get it."
-    imre "C'est bon mec, je comprends."
+    imre "C'est bon mec, j'comprends."
 
 # game/v1/v1.rpy:1924
 translate francais ar_bd_ab6db348:
 
     # imre "Trust me, we're gonna bang so many chicks this year. All we need is confidence..."
-    imre "Crois-moi, on va baiser tellement de meufs cette année. Tout ce dont on a besoin, c'est de la confiance..."
+    imre "Crois-moi, on va baiser tellement de meufs cette année. Tout ce dont on a besoin, c'est d'la confiance..."
 
 # game/v1/v1.rpy:1932
 translate francais ar_bd_0b8dfc17:
@@ -2213,7 +2213,7 @@ translate francais ar_bd_0b8dfc17:
 translate francais ar_bd_41ca7ba9:
 
     # imre "Oh man, we're gonna bang so many chicks this year. Trust me, all you need is confidence..."
-    imre "Oh mec, on va baiser tellement de meufs cette année. Crois-moi, tout ce dont tu as besoin c'est de la confiance..."
+    imre "Oh mec, on va baiser tellement de meufs cette année. Crois-moi, tout ce dont t'as besoin c'est d'la confiance..."
 
 # game/v1/v1.rpy:1940
 translate francais at_bd_76c9ceef:
@@ -2243,7 +2243,7 @@ translate francais at_bd_6ced6621:
 translate francais at_bd_bbd5e6e5:
 
     # imre "Man, I'm not saying it's impossible, but why make it so hard for yourself?"
-    imre "Mec, je ne dis pas que c'est impossible, mais pourquoi te compliquer la tâche ?"
+    imre "Mec, je dis pas qu'c'est impossible, mais pourquoi te compliquer la tâche ?"
 
 # game/v1/v1.rpy:1959
 translate francais at_bd_60f7a049:
@@ -2273,13 +2273,13 @@ translate francais at_bd_0c0e8fb6:
 translate francais at_bd_8e75585d:
 
     # imre "Look, I'm a first year too, but the Wolves are a brotherhood. They support each other."
-    imre "Écoute, je suis aussi en première année, mais les Wolves sont une confrérie. Ils se soutiennent mutuellement."
+    imre "Écoute, j'suis aussi en première année, mais les Wolves sont une confrérie. Ils se soutiennent mutuellement."
 
 # game/v1/v1.rpy:1975
 translate francais at_bd_540ae11c:
 
     # imre "You'll learn everything over time. And trust me, fighting is a lot more fun than you'd think."
-    imre "Tu apprendras tout au fil du temps. Et crois-moi, se battre est bien plus amusant que tu ne le penses."
+    imre "Tu apprendras tout au fil du temps. Et crois-moi, se battre est bien plus amusant que tu le penses."
 
 # game/v1/v1.rpy:1980
 translate francais at_bd_64c33d6d:
@@ -3359,7 +3359,7 @@ translate francais ay_bd_d70eb943:
 translate francais next_scenea_e8118a1b:
 
     # imre "Oh hey man, are you back from your date?"
-    imre "Oh salut mec, tu es revenu de ton rencard ?"
+    imre "Oh salut mec, t'es revenu de ton rencard ?"
 
 # game/v1/v1.rpy:2837
 translate francais next_scenea_417fea21:
@@ -3371,7 +3371,7 @@ translate francais next_scenea_417fea21:
 translate francais next_scenea_b821fde1:
 
     # imre "By the way, I very much appreciated the sandwiches you left for me."
-    imre "Au fait, j'ai beaucoup apprécié les sandwichs que tu m'as laissés."
+    imre "Au fait, j'ai beaucoup aimé les sandwichs qu'tu m'as laissés."
 
 # game/v1/v1.rpy:2847
 translate francais next_scenea_ec0eee3e:
@@ -3389,7 +3389,7 @@ translate francais next_scenea_c7c316a2:
 translate francais next_scenea_47189664:
 
     # imre "I take it your date didn't go as planned?"
-    imre "Je suppose que ton rencard ne s'est pas passé comme prévu ?"
+    imre "J'ai l'impression que ton rencard s'est pas passé comme prévu ?"
 
 # game/v1/v1.rpy:2862
 translate francais next_scenea_109b736a:
@@ -3473,13 +3473,13 @@ translate francais next_scenea_f5d456dd_2:
 translate francais next_scenea_a346af00:
 
     # imre "Shit man... maybe she's just unsure about her emotions or some shit."
-    imre "Merde, peut-être qu'elle n'est pas sûre de ses émotions ou une autre connerie dans le genre."
+    imre "Merde, peut-être qu'elle est pas sûre de ses émotions ou une autre connerie dans l'genre."
 
 # game/v1/v1.rpy:2901
 translate francais next_scenea_38509333:
 
     # imre "You know how girls are."
-    imre "Tu sais comment sont les filles."
+    imre "Tu sais comment sont les meufs."
 
 # game/v1/v1.rpy:2906
 translate francais next_scenea_251344e8:
@@ -3527,7 +3527,7 @@ translate francais repeata_64306eee:
 translate francais repeata_3727240f:
 
     # imre "Whatever dude, do what the fuck you want. I'm outta here."
-    imre "Peu importe mec, fais ce que tu veux. Je me tire."
+    imre "Peu importe mec, fais c'que tu veux. J'me tire."
 
 # game/v1/v1.rpy:2961
 translate francais repeata_419f236c:

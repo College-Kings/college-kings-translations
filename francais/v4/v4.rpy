@@ -10,7 +10,7 @@ translate francais v4start_b4021613:
 translate francais v4start_c5ddf28e:
 
     # imre "Hey, I'm fine. *winces in pain*"
-    imre "Salut, je vais bien. *grimace de douleur*"
+    imre "Salut, j'vais bien. *grimace de douleur*"
 
 # game/v4/v4.rpy:45
 translate francais v4start_340bf5a0:
@@ -22,13 +22,13 @@ translate francais v4start_340bf5a0:
 translate francais v4start_bf4e1bad:
 
     # imre "Well I was hitting on this girl but she wasn't really into talking so I just started grinding on her a bit."
-    imre "Je draguais cette fille mais elle n'était pas vraiment intéressée par la conversation, alors j'ai commencé à la peloter un peu."
+    imre "J'draguais cette fille mais elle était pas vraiment intéressée par la conversation, alors j'ai commencé à la peloter un peu."
 
 # game/v4/v4.rpy:52
 translate francais v4start_dffee429:
 
     # imre "Then all of the sudden... *winces in pain* this dude shows up super mad and starts pushing me around."
-    imre "Et d'un coup... *grimace de douleur* un mec super furax se pointe et commence à me bousculer."
+    imre "Et d'un coup... *grimace de douleur* un mec super furax se pointe et commence à m'bousculer."
 
 # game/v4/v4.rpy:56
 translate francais v4start_df176aa7:
@@ -52,7 +52,7 @@ translate francais v4start_de621888:
 translate francais v4start_0162cafc:
 
     # imre "And apparently Adam used to be an Ape, but last year one of his opponents wouldn't give up so he flipped and gouged his opponent's eyes."
-    imre "Et apparemment, Adam était un Ape, mais l'année dernière, un de ses adversaires ne voulait pas abandonner, alors il a fait une pirouette et a crevé les yeux de son adversaire."
+    imre "Et apparemment, Adam était un Ape, mais l'année dernière, un d'ses adversaires voulait pas abandonner, alors il a fait une pirouette et a crevé les yeux d'son adversaire."
 
 # game/v4/v4.rpy:70
 translate francais v4start_fdf80e7c:
@@ -64,7 +64,7 @@ translate francais v4start_fdf80e7c:
 translate francais v4start_c76b9e3d:
 
     # imre "Anyways, I obviously pushed him back and told to fuck off and then we got into a bit of a fight."
-    imre "Bref, je l'ai dégagé et lui ai dit d'aller se faire foutre, puis on s'est un peu battus."
+    imre "Bref, j'l'ai dégagé et lui ai dit d'aller s'faire foutre, puis on s'est un peu battus."
 
 # game/v4/v4.rpy:77
 translate francais v4start_8c180bbe:
@@ -76,7 +76,7 @@ translate francais v4start_8c180bbe:
 translate francais v4start_bc819d28:
 
     # imre "Yeah whatever... *winces in pain* he caught me by surprise, it wasn't a fair fight."
-    imre "Ouais peu importe... *grimace de douleur* il m'a pris par surprise, ce n'était pas un combat loyal."
+    imre "Ouais peu importe... *grimace de douleur* il m'a pris par surprise, c'était pas un combat loyal."
 
 # game/v4/v4.rpy:90
 translate francais v4start_3c649ef4:
@@ -94,7 +94,7 @@ translate francais v4start_15e1a023:
 translate francais v4start_eab36fd9:
 
     # imre "I told you, it wasn't a fair fight! I'll fuck him up when I get out."
-    imre "Je te l'ai dit, ce n'était pas un combat loyal ! Je vais le défoncer quand je sortirai."
+    imre "J'te l'ai dit, c'était pas un combat loyal ! J'vais l'défoncer quand j'sortirai."
 
 # game/v4/v4.rpy:107
 translate francais v4start_05f159fd:
@@ -112,7 +112,7 @@ translate francais v4start_4b864680:
 translate francais v4start_ab9aa661:
 
     # imre "If you wanna help, pick me up when I get out of here."
-    imre "Si tu veux m'aider, viens me chercher quand je sortirai d'ici."
+    imre "Si tu veux m'aider, viens m'chercher quand j'sortirai d'ici."
 
 # game/v4/v4.rpy:119
 translate francais v4start_dd1f40cd:
@@ -142,7 +142,7 @@ translate francais v4start_f42f951a:
 translate francais v4start_bed1b982:
 
     # imre "I'll fuck him up myself! *winces in pain* Or do I look like a bitch to you?"
-    imre "Je vais le défoncer moi-même ! *grimace de douleur* Ou est-ce que je ressemble à une brêle pour toi ?"
+    imre "J'vais l'défoncer moi-même ! *grimace de douleur* Ou est-ce que j'ressemble à une brêle pour toi ?"
 
 # game/v4/v4.rpy:147
 translate francais v4start_d646d5e5:
@@ -184,7 +184,7 @@ translate francais v4start_4b864680_1:
 translate francais v4start_151acc9a:
 
     # imre "I'll be okay... but could you pick me up when I get out?"
-    imre "Je vais bien... mais tu pourras venir me chercher quand je sortirai ?"
+    imre "J'vais bien... mais tu pourras venir m'chercher quand j'sortirai ?"
 
 # game/v4/v4.rpy:181
 translate francais v4start_f581f45f:

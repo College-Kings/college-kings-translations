@@ -154,7 +154,7 @@ translate francais v9_dinner_w_rose_1e99b15b:
 translate francais v9_dinner_w_rose_5d91646b:
 
     # imre "Yeah, I'm nervous too. If I get my ass beat, I'll never get laid again!"
-    imre "Ouais, j'suis nerveux aussi. Si je me fais battre, je ne pourrai plus jamais baiser de ma vie !"
+    imre "Ouais, j'suis nerveux aussi. Si j'me fais battre, j'pourrai plus jamais baiser de ma vie !"
 
 # game/v9/scene23.rpy:177
 translate francais v9_dinner_w_rose_c4faca50:
@@ -184,7 +184,7 @@ translate francais v9_dinner_w_rose_a9902111:
 translate francais v9_dinner_w_rose_ffddec28:
 
     # imre "We all sounded horrible. But I'm glad I didn't get stuck with Cameron."
-    imre "On avait tous l'air horrible. Mais j'suis content de ne pas avoir dû le faire avec Cameron."
+    imre "On avait tous l'air horrible. Mais j'suis content de pas avoir dû le faire avec Cameron."
 
 # game/v9/scene23.rpy:203
 translate francais v9_dinner_w_rose_f5901b09:
@@ -370,7 +370,7 @@ translate francais v9_dinner_w_rose_c342059b:
 translate francais v9_dinner_w_rose_913310f8:
 
     # imre "It feels strange sitting here and not helping."
-    imre "Ça fait bizarre de rester assis ici et de ne pas l'aider."
+    imre "Ça fait bizarre d'rester assis ici et de pas l'aider."
 
 # game/v9/scene23.rpy:358
 translate francais v9_dinner_w_rose_9ec1522d:
@@ -502,7 +502,7 @@ translate francais v9_dinner_w_rose_34b84b47:
 translate francais v9_dinner_w_rose_e0984128:
 
     # imre "Thanks for the dinner. I don't think I'll be able to eat for a whole day."
-    imre "Merci pour le dîner. Maintenant, je pense que je ne pourrai pas réussir à manger pendant toute la journée de demain."
+    imre "Merci pour le dîner. Maintenant, je pense que j'pourrai pas réussir à manger pendant toute la journée de demain."
 
 # game/v9/scene23.rpy:478
 translate francais v9_dinner_w_rose_87a2fb67:
