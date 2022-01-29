@@ -4661,7 +4661,7 @@ translate francais bd_bd_4ea14155:
 translate francais bd_bd_e4af330a:
 
     # cl "Oh that's too bad, I only go for guys that brag about them constantly."
-    cl "Oh comme c'est dommage, je ne vais qu'avec les gars qui me baratinent constamment avec eux."
+    cl "Oh comme c'est dommage, je ne vais qu'avec les gars qui me baratinent constamment avec ça, normalement."
 
 # game/v1/v1.rpy:3926
 translate francais bd_bd_65a73a32:
@@ -4703,7 +4703,7 @@ translate francais be_bd_ca0cb783:
 translate francais be_bd_32a86bac:
 
     # u "I mean, I guess. I don't really know what that includes to be honest."
-    u "Je veux dire, je crois. Je ne sais pas vraiment ce que cela comprend pour être honnête."
+    u "Je crois. Je ne sais pas vraiment en quoi ça consiste, pour être honnête."
 
 # game/v1/v1.rpy:3965
 translate francais be_bd_4d173839:
@@ -4817,7 +4817,7 @@ translate francais bf_bd_5bf6b182:
 translate francais bf_bd_50d28ae9:
 
     # u "Yeah, I've known him since middle school and let's just say he's always been very eager to get with girls."
-    u "Ouais, je le connais depuis le collège et disons simplement qu'il a toujours été très désireux de se taper des filles."
+    u "Ouais, je le connais depuis le collège et disons simplement qu'il a toujours voulu se taper des filles."
 
 # game/v1/v1.rpy:4059
 translate francais bf_bd_b1a9dc18:
