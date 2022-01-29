@@ -262,7 +262,7 @@ translate francais v13s48_1ae80042:
 translate francais v13s48_50a780c6:
 
     # u "Gotcha, but now it'd be nice to actually get to know you a bit better."
-    u "Compris, mais maintenant ce serait bien d'apprendre à te connaître un peu mieux."
+    u "Je vois, mais maintenant ce serait bien que j'apprenne à te connaître un peu mieux."
 
 # game/v13/scene48.rpy:298
 translate francais v13s48_435ce387:
@@ -310,13 +310,13 @@ translate francais v13s48_e2bae14e:
 translate francais v13s48_706daf30:
 
     # au "My sister started modeling when she turned eighteen and it always sparked my interest, but I was worried it'd seem like I was just copying her."
-    au "Ma sœur a commencé à poser quand elle a eu dix-huit ans et ça avait toujours suscité mon intérêt, mais après qu'elle ait commencé, j'avais peur d'avoir l'air de la copier."
+    au "Ma sœur a commencé à poser quand elle a eu dix-huit ans et avant ça, ça avait toujours suscité mon intérêt. Mais après qu'elle ait commencé, j'avais peur d'avoir l'air de la copier."
 
 # game/v13/scene48.rpy:340
 translate francais v13s48_967755da:
 
     # u "That's a reasonable insecurity, but look at you now. You literally got offered a job while she was in the middle of a photoshoot."
-    u "C'est une insécurité raisonnable, mais regarde-toi maintenant. On t'a littéralement offert un travail alors qu'elle était au milieu d'un photoshoot."
+    u "C'est une incertitude raisonnable, mais regarde-toi maintenant. On t'a littéralement offert un travail alors qu'elle était au milieu d'un photoshoot."
 
 # game/v13/scene48.rpy:345
 translate francais v13s48_7c068358:
@@ -424,7 +424,7 @@ translate francais v13s48_6e334c13:
 translate francais v13s48_fdbe2eb0:
 
     # u "My bad, go on. *Chuckles*"
-    u "C'est ma faute, continue. *Rire*"
+    u "Désolé, continue. *Rire*"
 
 # game/v13/scene48.rpy:435
 translate francais v13s48_f153aa4f:
@@ -520,7 +520,7 @@ translate francais v13s48_83ce2dab:
 translate francais v13s48_533877a5:
 
     # au "Chloe is getting a shit ton of votes based on pity and loyalty, but not faith in her leadership. People actually believe in Lindsey."
-    au "Chloé obtient une tonne de votes basés sur la pitié et la loyauté, mais pas sur la foi en son leadership. Les gens croient vraiment en Lindsey."
+    au "Chloé obtient une tonne de votes basés sur la pitié et la loyauté, mais pas sur la foi en son leadership. Les filles croient vraiment en Lindsey."
 
 # game/v13/scene48.rpy:506
 translate francais v13s48_44b80c48:
@@ -574,7 +574,7 @@ translate francais v13s48_0d310688:
 translate francais v13s48_8bfd42e2:
 
     # u "(There's nobody here. Guess it's an honor system.)"
-    u "(Il n'y a personne ici. Je suppose que c'est sur la confiance.)"
+    u "(Il n'y a personne ici. Je pense que c'est sur la confiance.)"
 
 # game/v13/scene48.rpy:577
 translate francais v13s48_7ebd00b0:
@@ -616,7 +616,7 @@ translate francais v13s48_d84cee1e:
 translate francais v13s48_065fbb37:
 
     # u "So you're starting to warm up to me, huh?"
-    u "Alors tu viens à te réchauffer avec moi, hein ?"
+    u "Alors tu viens te réchauffer près de moi, hein ?"
 
 # game/v13/scene48.rpy:612
 translate francais v13s48_3f44fa50:
@@ -670,7 +670,7 @@ translate francais v13s48_3e345047:
 translate francais v13s48_b1ba02ab:
 
     # u "I meant it as friends."
-    u "Je pensais le faire en tant qu'amis."
+    u "Je pensais faire ça en tant qu'amis."
 
 # game/v13/scene48.rpy:659
 translate francais v13s48_21cf6980:
@@ -796,13 +796,13 @@ translate francais v13s48_314723ea:
 translate francais v13s48_44918a53:
 
     # u "Are you ready to go?"
-    u "Tu es prête à partir ?"
+    u "Tu veux rentrer ?"
 
 # game/v13/scene48.rpy:774
 translate francais v13s48_466b1bb2:
 
     # au "I am, yeah. I'm kinda starting to get cold. *Chuckles*"
-    au "Je le suis, ouais. Je commence à avoir froid. *Rire*"
+    au "Ouais. Je commence à avoir froid. *Rire*"
 
 # game/v13/scene48.rpy:779
 translate francais v13s48_ef985377:

@@ -22,13 +22,13 @@ translate francais v13s62a_04c18b67:
 translate francais v13s62a_0bc9c1ab:
 
     # li "I know you have all the other girls, but I want you for myself and want you... Right... Fucking... Now."
-    li "Je sais que tu as eu toutes les autres filles, mais je te veux pour moi et je te veux... Bien... Putain... Maintenant."
+    li "Je sais que tu as eu toutes les autres filles, mais je te veux pour moi et je te veux... entièrement... Putain... Maintenant."
 
 # game/v13/scene62a.rpy:61
 translate francais v13s62a_64baef7d:
 
     # li "*Chuckles* Now, please... You can do anything you want..."
-    li "*Rire* Maintenant, s'il te plaît... Tu peux faire tout ce que tu veux..."
+    li "*Rire* Maintenant, s'il te plaît... Tu peux faire tout ce que tu veux de moi..."
 
 # game/v13/scene62a.rpy:66
 translate francais v13s62a_a0f9104c:

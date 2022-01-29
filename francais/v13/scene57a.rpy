@@ -106,7 +106,7 @@ translate francais v13s57a_66c12ddf:
 translate francais v13s57a_a5702377:
 
     # lee "I'm just a little disappointed in the way I approached you two, when all you wanted to do was show your appreciation. My apologies, truly."
-    lee "Je suis juste un peu déçu de la façon dont je vous ai abordé tous les deux, alors que tout ce que vous vouliez faire était de montrer votre appréciation. Mes excuses, vraiment."
+    lee "Je suis juste un peu déçue de la façon dont je vous ai abordés tous les deux, alors que tout ce que vous vouliez, c'était montrer votre gratitude. Toutes mes excuses, vraiment."
 
 # game/v13/scene57a.rpy:162
 translate francais v13s57a_6e87cdee:
@@ -148,7 +148,7 @@ translate francais v13s57a_3d73dee2:
 translate francais v13s57a_3f31c851:
 
     # lee "Thank you... I'm gonna go get this fella a good drink of water and give him a little light. Take care, you two."
-    lee "Merci... Je vais aller chercher un bon verre d'eau pour ce petit bout et lui donner un peu de lumière. Prenez soin de vous, vous deux."
+    lee "Merci... Je vais aller chercher un bon verre d'eau pour ce petit bout et lui donner un peu de lumière. Prenez soin de vous, tout les deux."
 
 # game/v13/scene57a.rpy:197
 translate francais v13s57a_8e703f16:

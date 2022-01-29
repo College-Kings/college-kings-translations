@@ -4,7 +4,7 @@
 translate francais v13s49_ad528d8c:
 
     # au "Thanks for taking these pictures for me [name]. I'm gonna choose my favorite one and upload it right now."
-    au "Merci d'avoir pris ces photos pour moi [name]. Je vais choisir ma préférée et la télécharger tout de suite."
+    au "Merci d'avoir pris ces photos pour moi [name]. Je vais choisir ma préférée et la poster tout de suite."
 
 # game/v13/scene49.rpy:35
 translate francais v13s49_dc8be81f:

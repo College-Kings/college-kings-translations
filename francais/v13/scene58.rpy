@@ -4,7 +4,7 @@
 translate francais v13s58_237009a7:
 
     # u "(There goes all my money.)"
-    u "(Voilà tout mon argent qui disparaît.)"
+    u "(Voilà tout mon argent qui a disparu.)"
 
 # game/v13/scene58.rpy:17
 translate francais v13s58_57ae9944:
@@ -22,7 +22,7 @@ translate francais v13s58_33801095:
 translate francais v13s58_3a5aedbb:
 
     # u "Say less... I had a feeling you'd come down here looking for me soon."
-    u "Pas vraiment... J'avais le sentiment que tu viendrais bientôt me chercher ici."
+    u "Plutôt, oui... Et j'avais le sentiment que tu viendrais me retrouver ici."
 
 # game/v13/scene58.rpy:47
 translate francais v13s58_4802bcc5:

@@ -4,7 +4,7 @@
 translate francais v13s59_c0de590c:
 
     # au "Why am I getting nervous? I've got butterflies over here. *Laughs*"
-    au "Pourquoi je suis nerveuse ? J'ai des papillons dans le ventre. *Rire*"
+    au "Pourquoi je suis si nerveuse ? J'ai des papillons dans le ventre. *Rire*"
 
 # game/v13/scene59.rpy:27
 translate francais v13s59_4ee8ca79:
@@ -16,13 +16,13 @@ translate francais v13s59_4ee8ca79:
 translate francais v13s59_a3cae3c7:
 
     # au "Falling into the water for one..."
-    au "De tomber dans l'eau..."
+    au "De tomber à l'eau..."
 
 # game/v13/scene59.rpy:37
 translate francais v13s59_6c4ac9d0:
 
     # u "That's a reasonable thing to be nervous about, I guess. You can always just swim to my boat if that happens though, haha."
-    u "C'est une chose justifiée d'être nerveuse, je pense. Tu pourras toujours nager jusqu'à mon bateau si ça t'arrive, haha."
+    u "Je crois que c'est bonne justification pour être nerveuse. Tu pourras toujours nager jusqu'à mon bateau si ça t'arrive, haha."
 
 # game/v13/scene59.rpy:42
 translate francais v13s59_07cdae04:
@@ -64,7 +64,7 @@ translate francais v13s59_e97ee3fa:
 translate francais v13s59_24944aef:
 
     # au "I stayed very, very close to the shoreline. *Laughs* Also though, I'd been to that lake before so I was already comfortable with it, you know?"
-    au "Je suis restée très, très près de la rive. *Rire* De plus, j'avais déjà été sur ce lac auparavant, donc j'étais plus à l'aise dedans, tu comprends ?"
+    au "Je suis restée très, très près de la rive. *Rire* De plus, j'avais déjà dans ce lac auparavant, donc j'étais plus à l'aise dedans, tu comprends ?"
 
 # game/v13/scene59.rpy:74
 translate francais v13s59_745b6a60:
@@ -88,7 +88,7 @@ translate francais v13s59_25b548b0:
 translate francais v13s59_276b7e42:
 
     # u "Well, I will protect you from any of these \"creatures\", haha. Why haven't you learned yet?"
-    u "Eh bien, je te protégerai de toutes ces \"créatures\", haha. Pourquoi n'as-tu pas encore appris ?"
+    u "Eh bien, je te protégerai de toutes ces \"créatures\", haha. Pourquoi n'as-tu jamais voulu apprendre ?"
 
 # game/v13/scene59.rpy:94
 translate francais v13s59_8acb7b24:
@@ -178,7 +178,7 @@ translate francais v13s59_117755f4:
 translate francais v13s59_b4e05c93:
 
     # u "Just give it a chance, haha."
-    u "Donne-lui juste une chance, haha."
+    u "Donne-toi une chance d'apprécier, haha."
 
 # game/v13/scene59.rpy:198
 translate francais v13s59_949fcf7f:
@@ -190,19 +190,19 @@ translate francais v13s59_949fcf7f:
 translate francais v13s59_af2c9a31:
 
     # au "I'm sorry, but... I'm done with this."
-    au "Je suis désolée, mais... J'en ai fini avec ça."
+    au "Je suis désolée, mais... J'en ai marre de ça."
 
 # game/v13/scene59.rpy:228
 translate francais v13s59_09cd767e:
 
     # u "*Chuckles* Well, you gave it a chance."
-    u "*Rire* Eh bien, tu lui as donné sa chance."
+    u "*Rire* Eh bien, tu t'es donné ta chance."
 
 # game/v13/scene59.rpy:243
 translate francais v13s59_e6cc87ae:
 
     # au "I think I'm just not a huge fan of the water. And honestly, I'm not mad about it."
-    au "Je pense que je ne suis juste pas une grande fan de l'eau. Et honnêtement, j'aime pas trop ça."
+    au "Je pense que je ne suis tout simplement pas une grande fan de l'eau. Et franchement, j'aime pas trop ça."
 
 # game/v13/scene59.rpy:248
 translate francais v13s59_14dc1634:

@@ -10,7 +10,7 @@ translate francais v13s60_f274cdc9:
 translate francais v13s60_225a8c75:
 
     # u "You're gonna need to put me on payroll eventually. *Laughs* How do you want them?"
-    u "Tu vas devoir me faire une fiche de paie un jour ou l'autre. *Rire* Comment les veux-tu ?"
+    u "Tu vas devoir me faire une fiche de paie un jour ou l'autre. *Rire* Comment la veux-tu ?"
 
 # game/v13/scene60.rpy:32
 translate francais v13s60_74503c68:

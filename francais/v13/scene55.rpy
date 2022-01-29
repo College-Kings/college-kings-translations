@@ -28,7 +28,7 @@ translate francais v13s55_a18797de:
 translate francais v13s55_c4b9dc93:
 
     # u "Get them for what?"
-    u "Leur offrir quelque chose pour quoi ?"
+    u "Leur offrir quelque chose pourquoi ?"
 
 # game/v13/scene55.rpy:49
 translate francais v13s55_c1447015:
@@ -142,7 +142,7 @@ translate francais v13s55_ae13b633:
 translate francais v13s55_d74f8fa8:
 
     # no "*Chuckles* Good. Thank you."
-    no "*Rire* Bien. Merci."
+    no "*Rire* Super. Merci."
 
 # game/v13/scene55.rpy:144
 translate francais v13s55_48c1005c:

@@ -94,7 +94,7 @@ translate francais v13s57_75448f3c:
 translate francais v13s57_44131c4c:
 
     # ro "I guess it won't be biased if I say I have a favorite student this year then, huh?"
-    ro "Je pense que je ne serai pas partial si je dis que j'ai un étudiant préféré cette année, hein ?"
+    ro "Je pense que je ne serai pas partiale si je dis que j'ai un étudiant préféré cette année, hein ?"
 
 # game/v13/scene57.rpy:113
 translate francais v13s57_a4b0a9d0:

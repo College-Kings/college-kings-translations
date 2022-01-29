@@ -82,7 +82,7 @@ translate francais v13s62_c4d2f341:
 translate francais v13s62_e2443e3c:
 
     # u "(Is this happening?!)"
-    u "(Est-ce que ça se produit vraiment ?!)"
+    u "(Est-ce que ça arrive vraiment ?!)"
 
 # game/v13/scene62.rpy:95
 translate francais end13_9ea2f78c:

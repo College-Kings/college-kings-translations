@@ -310,7 +310,7 @@ translate francais v13s56_03d67052:
 translate francais v13s56_b2b3c52a:
 
     # u "(She really is a great person deep down.)"
-    u "( C'est vraiment une personne formidable au fond.)"
+    u "(C'est vraiment une personne formidable au fond.)"
 
 # game/v13/scene56.rpy:384
 translate francais v13s56_95702670:
@@ -334,7 +334,7 @@ translate francais v13s56_66106977:
 translate francais v13s56_7dc7cf79:
 
     # no "I was defending it, but then for a minute I was like, did [name] give me fake money?"
-    no "Je me suis défendu, mais pendant une minute, je me suis demandé si [name] m'avait donné de la fausse monnaie."
+    no "Je me suis défendu, mais pendant une minute, je me suis demandé si [name] m'avait pas donné de la fausse monnaie."
 
 # game/v13/scene56.rpy:404
 translate francais v13s56_a5bace62:
