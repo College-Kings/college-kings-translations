@@ -2783,7 +2783,7 @@ translate francais v1_nsfwSkipLabel1_837b269b:
 translate francais v1_nsfwSkipLabel1_12e4809a:
 
     # ro "Very well, I'm sorry to hear that."
-    ro "Très bien, je suis désolée d'entendre ça."
+    ro "Ah, je suis désolée d'entendre ça."
 
 # game/v1/v1.rpy:2357
 translate francais v1_nsfwSkipLabel1_df034c84:
@@ -3593,7 +3593,7 @@ translate francais nextscenef_069a13a9:
 translate francais nextscenef_39f781a7:
 
     # ry "How about we stop talking about girls and start talking to them?"
-    ry "Et si nous arrêtions de parler des filles et commencions à leur parler ?"
+    ry "Et si nous arrêtions de parler des filles et commencions plutôt à leur parler ?"
 
 # game/v1/v1.rpy:3019
 translate francais nextscenef_f1f1b41e:
@@ -3617,7 +3617,7 @@ translate francais v1_freeRoam2_sam_8719c624:
 translate francais v1_freeRoam2_sam_625c2f40:
 
     # ry "Hey man, are you an Ape?"
-    ry "Salut mec, tu es un Apes ?"
+    ry "Salut mec, t'es un Apes ?"
 
 # game/v1/v1.rpy:3040
 translate francais v1_freeRoam2_sam_160bd4b2:
@@ -3647,7 +3647,7 @@ translate francais v1_freeRoam2_sam_8442a986:
 translate francais v1_freeRoam2_sam_31823ef8:
 
     # sam "Yeah and now piss off man, I'm trying to score here."
-    sam "Ouais et maintenant dégage mec, j'essaie de conclure ici."
+    sam "Ouais et maintenant dégage mec, j'essaie de conclure, là."
 
 # game/v1/v1.rpy:3065
 translate francais v1_freeRoam2_sam_0c931c71:
@@ -3671,7 +3671,7 @@ translate francais v1_freeRoam2_sam_1e76b6f5:
 translate francais v1_freeRoam2_sam_6b9e796e:
 
     # u "(We should probably leave them alone before we get dragged into this.)"
-    u "(Je devrais probablement les laisser tranquilles avant de me faire entraîner là-dedans.)"
+    u "(Je devrais probablement les laisser tranquilles avant de me faire entraîner dans leurs histoires.)"
 
 # game/v1/v1.rpy:3085
 translate francais v1_freeRoam2_sam2_eb5d70fb:
@@ -3731,13 +3731,13 @@ translate francais v1_freeRoam2_courtney_ef361050:
 translate francais v1_freeRoam2_courtney_db8d9224:
 
     # u "You've been waiting for over an hour?! Are you sure that's the bathroom? That seems way too long."
-    u "Tu attends depuis plus d'une heure ?! Tu es sûre que c'est les toilettes ? Cela semble beaucoup trop long."
+    u "Tu attends depuis plus d'une heure ?! T'es sûre que c'est les toilettes ? Cela semble beaucoup trop long."
 
 # game/v1/v1.rpy:3147
 translate francais v1_freeRoam2_courtney_425dbe67:
 
     # courtney "Oh my god, how stupid do you think I am?! I think I know what the bathroom looks like."
-    courtney "Oh mon dieu, à quel point penses-tu que je suis stupide ?! Je pense savoir à quoi ressemblent les toilettes."
+    courtney "Oh merde, à quel point penses-tu que je suis stupide ?! Je pense savoir à quoi ressemblent les toilettes."
 
 # game/v1/v1.rpy:3152
 translate francais v1_freeRoam2_courtney_d63b8624:
@@ -3917,7 +3917,7 @@ translate francais v1_freeRoam2_josh_62e1b047:
 translate francais v1_freeRoam2_josh_830247d2:
 
     # u "Well, you're certainly warming up the right guy."
-    u "Eh bien, tu es certainement en train d'allumer le bon gars."
+    u "Eh bien, tu es sûrement en train d'allumer le bon gars."
 
 # game/v1/v1.rpy:3291
 translate francais v1_freeRoam2_josh_ec9b82c9:
@@ -3959,7 +3959,7 @@ translate francais v1_freeRoam2_josh_a2ea6fea:
 translate francais v1_freeRoam2_josh_5d256568:
 
     # au "Really? Well, then what are you doing at the Apes' rush party?"
-    au "Ah bon ? Alors, qu'est-ce que tu fais à la fête des nouveaux des Apes ?"
+    au "Ah bon ? Alors, qu'est-ce que tu fais à la fête des nouveaux Apes ?"
 
 # game/v1/v1.rpy:3321
 translate francais v1_freeRoam2_josh_b981e395:
@@ -4061,7 +4061,7 @@ translate francais v1_freeRoam2_josh_f30d22af:
 translate francais v1_freeRoam2_josh_94906a23:
 
     # u "Alright, I'll leave you guys alone and look around a bit more. Maybe I'll even talk to Grayson."
-    u "D'accord, je vais vous laisser tranquilles et regarder si je peux rencontrer du monde. Peut-être que je parlerais même à Grayson."
+    u "D'accord, je vais vous laisser tranquilles et voir si je peux rencontrer du monde. Peut-être que je parlerais même à Grayson."
 
 # game/v1/v1.rpy:3401
 translate francais v1_freeRoam2_josh_2f3f97b5:
@@ -4331,7 +4331,7 @@ translate francais v1_freeRoam2_katy_6f272399:
 translate francais v1_freeRoam2_katy_f0fa6239:
 
     # katy "Partying, obviously."
-    katy "On fait la fête, évidemment."
+    katy "On fait la fête, bien sûr."
 
 # game/v1/v1.rpy:3645
 translate francais v1_freeRoam2_katy_df313d0d:
@@ -4391,7 +4391,7 @@ translate francais v1_freeRoam2_grayson_a7cbd169:
 translate francais v1_freeRoam2_grayson_949d03e8:
 
     # ca "I still think we're wasting our time."
-    ca "Je pense toujours qu'on perd notre temps."
+    ca "J'pense toujours qu'on perd notre temps."
 
 # game/v1/v1.rpy:3701
 translate francais v1_freeRoam2_grayson_04124bda:
@@ -4445,7 +4445,7 @@ translate francais v1_freeRoam2_grayson_fc120108:
 translate francais v1_freeRoam2_grayson_dde7fbe6:
 
     # ca "Alright man. Whatever you say."
-    ca "Ok mec. Peu importe ce que tu dis."
+    ca "Ok mec. Comme tu veux."
 
 # game/v1/v1.rpy:3740
 translate francais v1_freeRoam2_grayson_2c702fbc:
@@ -4481,19 +4481,19 @@ translate francais fr2end_e0d669b4:
 translate francais fr2end_4d1115dc:
 
     # u "Who is that?"
-    u "Qui est-ce ?"
+    u "Qui c'est ?"
 
 # game/v1/v1.rpy:3780
 translate francais fr2end_9a31af9b:
 
     # ry "I think that's Chloe, right? I talked to some of the Chicks and she's like their president."
-    ry "Je pense que c'est Chloé, non ? J'ai parlé à certaines des Chicks et elle est \"je crois\" leur présidente."
+    ry "Je crois que c'est Chloé, non ? J'ai parlé à certaines des Chicks et elle est \"je crois\" leur présidente."
 
 # game/v1/v1.rpy:3782
 translate francais fr2end_5e0569e2:
 
     # ry "Also, possibly the hottest girl I've seen in my life."
-    ry "Aussi, peut-être la fille la plus sexy que j'ai vue de ma vie."
+    ry "C'est aussi je crois, la fille la plus sexy que j'ai vue de ma vie."
 
 # game/v1/v1.rpy:3784
 translate francais fr2end_6aab21ae:
@@ -4505,7 +4505,7 @@ translate francais fr2end_6aab21ae:
 translate francais fr2end_f7d97c1f:
 
     # ry "Man, I don't know. Why don't you just go ask her yourself?"
-    ry "Mec, je ne sais pas. Pourquoi ne vas-tu pas lui demander toi-même ?"
+    ry "Je ne sais pas. Pourquoi ne vas-tu pas lui demander toi-même ?"
 
 # game/v1/v1.rpy:3798
 translate francais fr2end_684bf39f:
@@ -4547,7 +4547,7 @@ translate francais fr2end_91a4ef1b:
 translate francais fr2end_88a9c7f1:
 
     # ry "I'm sure it's fine."
-    ry "Je suis sûr que ça va."
+    ry "Je suis sûr que ça ira."
 
 # game/v1/v1.rpy:3834
 translate francais fr2end_e1000191:
@@ -4595,19 +4595,19 @@ translate francais bd_bd_f1f27610:
 translate francais bd_bd_b54d3e2d:
 
     # tom "Hey champ, it's cool that you're talking to new people, et cetera, but we were kinda in the middle of something."
-    tom "Hé champion, c'est cool que tu parles à de nouvelles personnes, etc... , mais nous étions un peu au milieu de quelque chose."
+    tom "Hé champion, c'est cool que tu parles à de nouvelles personnes, etc, mais nous étions un peu au milieu de quelque chose."
 
 # game/v1/v1.rpy:3871
 translate francais bd_bd_c6ad9afc:
 
     # tom "So you should probably... you know, leave."
-    tom "Alors tu devrais probablement... tu sais, dégager."
+    tom "Alors tu devrais je crois... tu sais... dégager."
 
 # game/v1/v1.rpy:3876
 translate francais bd_bd_4962b2e6:
 
     # cl "Tom, come on. Why are you being such a dick? We're at a party."
-    cl "Tom, alleeez. Pourquoi tu fais ton connard ? Nous sommes à une fête."
+    cl "Tom, alleeez. Pourquoi tu fais ton connard ? On est à une fête."
 
 # game/v1/v1.rpy:3881
 translate francais bd_bd_eeb16497:
@@ -5223,7 +5223,7 @@ translate francais strings:
 
     # game/v1/v1.rpy:3453
     old "What is there to talk about?"
-    new "De quoi veux tu qu'on parle ?"
+    new "De quoi tu veux parler ?"
 
     # game/v1/v1.rpy:3472
     old "Yeah, he better watch out."
