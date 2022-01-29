@@ -10,4 +10,4 @@ translate francais v13s54a_04e37c2d:
 translate francais v13s54a_fe62782e:
 
     # u "(Guess I'm the last one to get it started. *Chuckles*)"
-    u "(Je pense que je suis le dernier à avoir commencé. *Rire*)"
+    u "(Je pense que je suis le dernier à avoir commencé la journée. *Rire*)"
