@@ -2218,7 +2218,7 @@ translate francais fz_a_38949b61:
 translate francais fz_a_0e65ac36:
 
     # u "*Chuckles* I guess I walked right into that one."
-    u "*Rire* Je crois que je suis tombé dans ce panneau."
+    u "*Rire* Je me suis jeté droit dans le mur."
 
 # game/v6/v6.rpy:2521
 translate francais fz_a_b2de5f51:
