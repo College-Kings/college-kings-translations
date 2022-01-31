@@ -112,7 +112,7 @@ translate francais v8_cl_start_82d13faf:
 translate francais v8_cl_start_b73d0d14:
 
     # u "I think I'm close..."
-    u "Je pense que je vais venir"
+    u "Je... je vais venir"
 
 # game/v8/scene2.rpy:152
 translate francais v8_cl_start_c207568a:
@@ -142,7 +142,7 @@ translate francais v8_cl_start_ae7b57d4:
 translate francais v8_cl_start_10de7d06:
 
     # cl "Mmmm, that's a huge load."
-    cl "Mmmm, c'est une charge énorme."
+    cl "Mmmm, c'était une charge énorme."
 
 # game/v8/scene2.rpy:169
 translate francais v8_cl_start_6ef1f39d:
@@ -166,13 +166,13 @@ translate francais v8_cl_start_108b353e:
 translate francais v8_cl_start_39cedaa9:
 
     # u "Now it's time I return the favor."
-    u "Maintenant, il est temps que je rende la pareille."
+    u "Maintenant, il est temps que je te rende la pareille."
 
 # game/v8/scene2.rpy:179
 translate francais v8_cl_start_ee8aef07:
 
     # cl "Let me get in the bed first."
-    cl "Laisse-moi aller dans le lit d'abord."
+    cl "Laisse-moi d'abord monter me coucher."
 
 # game/v8/scene2.rpy:184
 translate francais v8_cl_start_242645cd:
@@ -208,7 +208,7 @@ translate francais v8_cl_start_72253b7d:
 translate francais v8_cl_start_a4edd057:
 
     # u "(Oh, come on!)"
-    u "(Et allez... !)"
+    u "(Oh fais chieeer... !)"
 
 # game/v8/scene2.rpy:205
 translate francais v8_cl_start_c1c07a10:
@@ -280,7 +280,7 @@ translate francais v8s2_nsfwSkipLabel1_c6918bb1:
 translate francais v8s2_nsfwSkipLabel1_6680ff12:
 
     # u "(Damn, that came out of nowhere.)"
-    u "(Merde, ça vient de nulle part.)"
+    u "(Une putain de merde, qui est sortie de nulle part.)"
 
 # game/v8/scene2.rpy:266
 translate francais v8s2_nsfwSkipLabel1_ae64e706:

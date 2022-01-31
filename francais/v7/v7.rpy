@@ -13419,7 +13419,7 @@ translate francais chloe_dance_2be5d203:
 translate francais chloe_dance_ca7caa91:
 
     # cl "I'm so glad, I'm here with you."
-    cl "Je suis si contente, je suis ici avec toi."
+    cl "Je suis si contente, d'être ici avec toi."
 
 # game/v7/v7.rpy:12909
 translate francais chloe_dance_95d38d61:
@@ -13503,7 +13503,7 @@ translate francais fr4emilydate2_e1fb5f54:
 translate francais fr4emilydate2_084b5e9a:
 
     # em "Jeez, just let me enjoy myself."
-    em "Putainnn, laisse-moi juste m'amuser."
+    em "Putainnn, laisse-moi m'amuser."
 
 # game/v7/v7.rpy:13009
 translate francais fr4emilydate2_c0137290:
@@ -14847,7 +14847,7 @@ translate francais fr4elijah1_d55af736:
 translate francais fr4elijah1_450492ef:
 
     # el "No, I'm sick of this shit! Do you think I'm some kind of joke?!"
-    el "Non, j'en ai marre de cette merde ! Ça t'ammuse de me vanner à longueur de journée ?!"
+    el "Non, j'en ai marre de cette merde ! Ça t'amuse de me vanner à longueur de journée ?!"
 
 # game/v7/v7.rpy:14319
 translate francais fr4elijah1_d79f17f7:
@@ -15639,7 +15639,7 @@ translate francais fr4aubrey1_eef15643:
 translate francais fr4aubrey1_6672ee53:
 
     # au "Thanks, you don't look so bad yourself."
-    au "Merci, tu n'as pas l'air si mal non plus."
+    au "Merci, tu n'es mal non plus."
 
 # game/v7/v7.rpy:15194
 translate francais fr4aubrey1_03070bc0:
@@ -15921,7 +15921,7 @@ translate francais fr4ryan3_373e66d6:
 translate francais fr4cameron1_d01d82b0:
 
     # rg2 "I don't even know why you asked me if you're not going to even dance with me."
-    rg2 "Je ne sais même pas pourquoi tu m'as demandé, si tu ne vas même pas danser avec moi."
+    rg2 "Je ne vois pas pourquoi tu m'as invité, si tu ne danses même pas avec moi."
 
 # game/v7/v7.rpy:15558
 translate francais fr4cameron1_dfcce5d7:
@@ -15969,19 +15969,19 @@ translate francais fr4cameron1_792730a9:
 translate francais fr4cameron1_ad142b8e:
 
     # ca "Sup."
-    ca "Quoi de neuf ?"
+    ca "Quoi d'neuf ?"
 
 # game/v7/v7.rpy:15600
 translate francais fr4cameron1_f3cc8bfc:
 
     # u "Hey, man. What's up?"
-    u "Hé, mec. Quoi de neuf ?"
+    u "Hé, mec. qu'est-ce qu'il se passe ?"
 
 # game/v7/v7.rpy:15605
 translate francais fr4cameron1_2b76e4e1:
 
     # ca "Just trying to get a moment of peace and quiet while my date keeps nagging."
-    ca "J'essaie juste d'avoir un moment de paix et de tranquillité, pendant que mon rencard n'arrête pas de me harceler."
+    ca "J'essaie juste d'avoir un moment de paix et de tranquillité, mais la meuf que j'ai invité n'arrête pas de m'emmerder."
 
 # game/v7/v7.rpy:15610
 translate francais fr4cameron1_d5b12a4e:
@@ -16005,13 +16005,13 @@ translate francais fr4cameron1_ef1fec97:
 translate francais fr4cameron2_3ed80b18:
 
     # u "(Cameron doesn't seem to be in the greatest of moods. I feel like going back there isn't a smart move.)"
-    u "(Cameron ne semble pas être dans la plus grande des humeurs. J'ai l'impression que retourner là-bas n'est pas une bonne idée.)"
+    u "(Cameron n'a pas l'air d'être de très bonne humeur. Je crois que retourner les voir n'est pas une bonne idée.)"
 
 # game/v7/v7.rpy:15639
 translate francais fr4lauren1_73d10f69:
 
     # la "Yeah, I guess I was just having trouble with that one."
-    la "Ouais, je crois que j'avais juste des problèmes avec celui-là."
+    la "Oui, j'avais des problèmes avec celui-là."
 
 # game/v7/v7.rpy:15644
 translate francais fr4lauren1_0d9e8cd9:
@@ -16047,19 +16047,19 @@ translate francais fr4lauren1_84c0cdf2:
 translate francais fr4lauren1_aa86643c:
 
     # ro "Well, about as good as a glorified babysitter could be right now."
-    ro "Eh bien, aussi bien qu'une babysitter glorifiée puisse aller, en ce moment."
+    ro "Eh bien, je vais aussi bien qu'une babysitter glorifiée le puisse."
 
 # game/v7/v7.rpy:15674
 translate francais fr4lauren1_620af77f:
 
     # u "Aw come on Ms. Rose, you've put up a pretty amazing event here!"
-    u "Allez, Mme Rose, vous avez organisé un événement assez incroyable ici !"
+    u "Allez, Mme Rose, vous avez organisé un événement plutôt incroyable ici !"
 
 # game/v7/v7.rpy:15679
 translate francais fr4lauren1_1809f366:
 
     # la "Yeah, you've really done a great job!"
-    la "Oui, vous avez vraiment fait du bon boulot !"
+    la "Oui, vous avez vraiment fait du bon travail !"
 
 # game/v7/v7.rpy:15684
 translate francais fr4lauren1_7cdb6212:
@@ -18844,7 +18844,7 @@ translate francais fr4chloedate_34398882:
 translate francais fr4chloedate_21417d05:
 
     # u "Go get 'em!"
-    u "Va les trouver !"
+    u "Va leur en mettre plein la vue !"
 
 # game/v7/v7.rpy:12601
 translate francais fr4chloedate_a2ca5d32:
@@ -18952,13 +18952,13 @@ translate francais fr4chloedate_b45f91e5:
 translate francais fr4chloedate_aed8b6a8:
 
     # u "Oh come on. It's not that bad."
-    u "Oh, allez. Ce n'est pas si mal."
+    u "Oh, allez. C'est pas si mal."
 
 # game/v7/v7.rpy:12700
 translate francais fr4chloedate_1d19f272:
 
     # no "Well it's not hell if that's what you mean."
-    no "Ce n'est pas l'enfer si c'est ce que tu veux dire."
+    no "C'est pas l'enfer si c'est ce que tu veux dire."
 
 # game/v7/v7.rpy:12705
 translate francais fr4chloedate_b54e4039:
