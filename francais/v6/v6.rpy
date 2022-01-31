@@ -7995,7 +7995,7 @@ translate francais v6_fr3chris1_daac62bb:
 translate francais v6_fr3chris1_6747a40a:
 
     # ch "And if I was in your shoes, I'd think to myself that both the Wolves and the Apes seem to have a lot of similarities."
-    ch "Et si j'étais à ta place, je me dirais que les Wolves et les Apes semblent avoir beaucoup de similitudes."
+    ch "Et si j'étais à ta place, je me dirais que les Wolves et les Apes se ressemblent beaucoup."
 
 # game/v6/v6.rpy:7986
 translate francais v6_fr3chris1_a999289a:
@@ -8133,7 +8133,7 @@ translate francais v6_fr3chris1_6c22e60e_1:
 translate francais v6_fr3chris1_7f2f58b5_1:
 
     # ch "Yeah bro! I'm telling you, it was crazy. Really crazy."
-    ch "Ouais frère! Je te le dis, c'était dingue. Vraiment ouf !"
+    ch "Ouais frère ! Je te le dis, c'était dingue. Vraiment ouf !"
 
 # game/v6/v6.rpy:8085
 translate francais v6_fr3chris1_d7ad3a0a:
@@ -8193,7 +8193,7 @@ translate francais v6_fr3chris1_e43942f3:
 translate francais v6_fr3chris1_acd5b858:
 
     # ch "At first glance, both the Wolves and the Apes seem to have a lot of similarities."
-    ch "À première vue, les Wolves et les Apes semblent avoir beaucoup de similitudes."
+    ch "À première vue, les Wolves et les Apes se ressemblent beaucoup."
 
 # game/v6/v6.rpy:8134
 translate francais v6_fr3chris1_a999289a_1:
@@ -8433,7 +8433,7 @@ translate francais v6_fr3riley1_95e08bde:
 translate francais v6_fr3riley1_5e085a92:
 
     # u "So, what are you doing here tonight? Didn't think you'd wanna fight with the boys?"
-    u "Alors, qu'est-ce que tu fais ici ce soir ? Je pensais que ne tu voulais pas te battre ?"
+    u "Alors, qu'est-ce que tu fais ici ce soir ? Je n'imaginais pas que tu voudrais te battre avec des garçons ?"
 
 # game/v6/v6.rpy:8349
 translate francais v6_fr3riley1_56353a27:
@@ -9309,13 +9309,13 @@ translate francais v6_fr3chloe1_4f1997c1:
 translate francais v6_fr3chloe1_795c4cb3:
 
     # u "Hello? Are you okay?"
-    u "Bonjour ? Est-ce que ça va ?"
+    u "Hey ? Ça va ?"
 
 # game/v6/v6.rpy:9132
 translate francais v6_fr3chloe1_398b97c7:
 
     # cl "*Sniff* Who is it?"
-    cl "*Snif* Qui est-ce ?"
+    cl "*Snif* Qui c'est ?"
 
 # game/v6/v6.rpy:9134
 translate francais v6_fr3chloe1_c141f72a:
@@ -9393,7 +9393,7 @@ translate francais v6_fr3chloe1_22809803:
 translate francais v6_fr3chloe1_79ad69e5:
 
     # cl "Not right now, please."
-    cl "Pas maintenant, s'il te plaît."
+    cl "S'il te plaît, pas maintenant."
 
 # game/v6/v6.rpy:9170
 translate francais v6_fr3chloe1_e094596c:
