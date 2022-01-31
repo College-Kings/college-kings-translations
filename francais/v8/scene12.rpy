@@ -716,7 +716,7 @@ translate francais strings:
 
     # game/v8/scene12.rpy:300
     old "Just get to the task"
-    new "Juste se mettre à la tâche"
+    new "Se mettre à la tâche"
 
 # TODO: Translation updated at 2021-11-19 17:55
 

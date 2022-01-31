@@ -70,7 +70,7 @@ translate francais phn_chloe11_done_5da61233:
 translate francais phn_chloe11_done_8dd17441:
 
     # u "Come in..."
-    u "Entrez..."
+    u "Viens t'asseoir..."
 
 # game/v8/scene13.rpy:116
 translate francais phn_chloe11_done_e4ba0480:
@@ -214,7 +214,7 @@ translate francais phn_chloe11_done_277c3073:
 translate francais phn_chloe11_done_f2626de0:
 
     # u "(Well...)"
-    u "(Bon...)"
+    u "(Quoi que...)"
 
 # game/v8/scene13.rpy:224
 translate francais phn_chloe11_done_2a25d9db:
@@ -406,7 +406,7 @@ translate francais phn_chloe11_done_83587ef7:
 translate francais phn_chloe11_done_663dac1d:
 
     # u "What about your family? Any brothers or sisters who can come help?"
-    u "Et ta famille ? Tu as des frères ou des soeurs qui peuvent venir t'aider ?"
+    u "Et ta famille ? Tu as des frères ou des soeurs qui peuvent venir l'aider ?"
 
 # game/v8/scene13.rpy:370
 translate francais phn_chloe11_done_6db330e0:
@@ -454,19 +454,19 @@ translate francais phn_chloe11_done_6af8749b:
 translate francais phn_chloe11_done_13dae85f:
 
     # u "I would never. We may have had our differences, but this is real shit."
-    u "Je ne le ferais jamais. On a peut-être eu des différends, mais ça, c'est de la vraie merde."
+    u "Ne t'inquiètes pas pour ça. On a peut-être eu des différends, mais ça, c'est une vraie merde."
 
 # game/v8/scene13.rpy:402
 translate francais phn_chloe11_done_95ad9f7f:
 
     # ca "It's the same old story. She got in with the wrong crowd and it just kinda escalated."
-    ca "C'est toujours la même histoire. Elle s'est mêlée aux mauvaises personnes et ça a dégénéré."
+    ca "C'est toujours la même histoire. Elle traîne avec les mauvaises personnes et ça dégénère."
 
 # game/v8/scene13.rpy:406
 translate francais phn_chloe11_done_5db0f4a9:
 
     # ca "I didn't think she'd get this bad. My parents have their own demons. Apple didn't fall far..."
-    ca "Je ne pensais pas qu'elle irait si mal. Mes parents ont leurs propres défauts. La pomme n'est pas tombée loin..."
+    ca "Je ne pensais pas qu'elle irait si mal. Mes parents ont également leurs propres défauts. La pomme n'est pas tombée loin de l'arbre..."
 
 # game/v8/scene13.rpy:407
 translate francais phn_chloe11_done_bfd381a4:
@@ -496,7 +496,7 @@ translate francais phn_chloe11_done_d0706dc7:
 translate francais phn_chloe11_done_a8d34f0b:
 
     # u "You're not. It's too much. But... how can I help? We're brothers now, too. Apes stick together."
-    u "Tu n'es pas censé le savoir. C'est trop. Mais... Est-ce que je peux t'aider ? On est frères maintenant, aussi. Les Apes se serrent les coudes."
+    u "Tu n'es pas censé le savoir. C'est trop. Mais... Est-ce que je peux t'aider ? On est également frères maintenant. Les Apes se serrent les coudes."
 
 # game/v8/scene13.rpy:427
 translate francais phn_chloe11_done_ba1eddc1:
@@ -520,7 +520,7 @@ translate francais phn_chloe11_done_d319316c:
 translate francais phn_chloe11_done_63eaab32:
 
     # ca "We better get back inside before Grayson comes looking for me. I can't deal with him right now."
-    ca "On devrait retourner à l'intérieur avant que Grayson vienne me chercher. Je ne peux pas m'occuper de lui maintenant."
+    ca "On devrait retourner à l'intérieur avant que Grayson vienne me chercher. Je peux pas avoir affaire à lui en ce moment."
 
 # game/v8/scene13.rpy:443
 translate francais phn_chloe11_done_0265fbad:
@@ -532,7 +532,7 @@ translate francais phn_chloe11_done_0265fbad:
 translate francais phn_chloe11_done_16329908:
 
     # ca "That was my worst fucking rodeo ever! I couldn't sleep peacefully that night."
-    ca "C'était mon pire putain de rodéo ! Je n'ai pas pu dormir tranquillement cette nuit-là."
+    ca "C'était mon pire putain de rodéo ! J'ai pas pu dormir tranquillement cette nuit-là."
 
 # game/v8/scene13.rpy:448
 translate francais phn_chloe11_done_0149d8af:
@@ -574,19 +574,19 @@ translate francais strings:
 
     # game/v8/scene13.rpy:14
     old "Aww, I like talking to you too. You're sweet."
-    new "Ooh, j'aime aussi te parler. Tu es mignonne."
+    new "Ooh, j'aime aussi te parler. Tu es mignon."
 
     # game/v8/scene13.rpy:15
     old "Sweet? Not hot? Or sexy? Or... anything but sweet?"
-    new "Gentil ? Pas chaud ? Ou sexy ? Ou... tout sauf gentil ?"
+    new "Mignon ? Pas chaud ? Ou sexy ? Ou... tout sauf mignon !"
 
     # game/v8/scene13.rpy:16
     old "Sweet and cute ;)"
-    new "Gentil et mignon ;)"
+    new "Mignon et sexy ;)"
 
     # game/v8/scene13.rpy:17
     old "I'll take it. For now. Talk to you when I get settled."
-    new "Je vais le prendre. Pour le moment. Je te parle quand je serai installé."
+    new "Je vais prendre ça pour l'instant. Je te parlerai quand je serai installé."
 
     # game/v8/scene13.rpy:18
     old "Good night."
@@ -650,7 +650,7 @@ translate francais strings:
 
     # game/v8/scene13.rpy:48
     old "Congrats on getting in. Looks like we'll be seeing a lot of each other."
-    new "Félicitations pour votre sélection. On dirait qu'on va se voir souvent."
+    new "Félicitations pour ta sélection. On dirait qu'on va se voir encore plus souvent."
 
     # game/v8/scene13.rpy:49
     old "Exactly how much is a lot? ;)"

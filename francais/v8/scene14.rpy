@@ -22,7 +22,7 @@ translate francais v8_s14_pen_text_a23d379a:
 translate francais v8_s14_pen_text_094c556b:
 
     # u "(That sounded serious. What got her all upset so sudden?)"
-    u "(Ça avait l'air sérieux. Qu'est-ce qui l'a bouleversée si soudainement ?)"
+    u "(Ça avait l'air sérieux. Qu'est-ce qui l'a bouleversé si soudainement ?)"
 
 translate francais strings:
 
