@@ -160,19 +160,19 @@ translate francais em_arcade_2_28244312:
 translate francais em_arcade_2_9a6d64d4:
 
     # u "Not so fast. I know those lips well. I'm making sure I get to feel 'em!"
-    u "Pas si vite. Je connais bien ces lèvres. Je m'assure que je vais les sentir, em' !"
+    u "Pas si vite. Je connais bien ces lèvres. Je m'assure simplement que je vais bien les sentir, em' !"
 
 # game/v8/scene20.rpy:163
 translate francais em_arcade_2_75e63a17:
 
     # em "Put your tokens where your mouth is, then!"
-    em "Mets tes jetons là où est ta bouche, alors !"
+    em "Va chercher tes jetons, au lieu d'ouvrir ta bouche, alors !"
 
 # game/v8/scene20.rpy:167
 translate francais em_arcade_2_9eca3e56:
 
     # u "Yes, ma'am. Let me get some change."
-    u "Oui, m'dame. Je vais chercher de la monnaie."
+    u "Oui, m'dame. J'y vais."
 
 # game/v8/scene20.rpy:171
 translate francais em_arcade_2_a40339ad:
@@ -202,7 +202,7 @@ translate francais em_arcade_2_ff223546:
 translate francais em_arcade_2_cc201eb4:
 
     # em "Beat that!"
-    em "Bats ça !"
+    em "Essaie de battre ça !"
 
 # game/v8/scene20.rpy:205
 translate francais em_arcade_2_27d8e50b:
@@ -214,7 +214,7 @@ translate francais em_arcade_2_27d8e50b:
 translate francais em_arcade_2_36c16371:
 
     # u "No way I coulda won that one."
-    u "Je n'aurais jamais pu le gagner celui-là."
+    u "Je n'aurais jamais pu la gagner celle-là."
 
 # game/v8/scene20.rpy:220
 translate francais em_arcade_2_b36bb524:
@@ -232,7 +232,7 @@ translate francais em_arcade_2_22f9c95a:
 translate francais em_arcade_2_b1496549:
 
     # em "Maybe you'll have better luck if you go first next."
-    em "Peut-être que tu auras plus de chance si tu y vas en premier la prochaine fois."
+    em "Peut-être que tu auras plus de chance si tu commences, là."
 
 # game/v8/scene20.rpy:237
 translate francais em_arcade_2_3989623c:
@@ -244,7 +244,7 @@ translate francais em_arcade_2_3989623c:
 translate francais em_arcade_2_221893a6:
 
     # em "Or not. If I didn't know any better, I'd think you were letting me win."
-    em "Ou pas. Si je ne te connaissais pas mieux, je penserais que tu me laisses gagner."
+    em "Ou pas... Si je ne te connaissais pas mieux, je penserais que tu me laisses gagner."
 
 # game/v8/scene20.rpy:255
 translate francais em_arcade_2_a3f742f2:
@@ -262,7 +262,7 @@ translate francais em_arcade_2_7f327c15:
 translate francais em_arcade_2_ec27168f:
 
     # em "I'm so glad I invited you out!"
-    em "Je suis si heureuse de t'avoir invitée à sortir !"
+    em "Je suis si heureuse de t'avoir invité à sortir !"
 
 # game/v8/scene20.rpy:277
 translate francais em_arcade_2_2d4af8bb:
@@ -298,7 +298,7 @@ translate francais em_arcade_2_f775071b:
 translate francais em_arcade_2_3c5c2de8:
 
     # u "Oh, you're going down now. I have the magic touch with this game!"
-    u "Oh, tu vas tomber maintenant. J'ai la touche magique avec ce jeu !"
+    u "Oh, tu vas enfin perdre. J'ai la touche magique avec ce jeu !"
 
 # game/v8/scene20.rpy:310
 translate francais em_arcade_2_b1384bac:
@@ -334,7 +334,7 @@ translate francais em_arcade_2_263ca5e3:
 translate francais em_arcade_2_f7727647:
 
     # em "Guess I gotta pay up."
-    em "Je suppose que je dois payer."
+    em "Je crois que je dois payer, alors."
 
 # game/v8/scene20.rpy:335
 translate francais em_arcade_2_3943cbdf:
@@ -358,7 +358,7 @@ translate francais em_arcade_2_9c5e829b:
 translate francais em_arcade_2_19a03f0a:
 
     # u "I meant that spot on my neck you naughty girl *laugh*"
-    u "Je voulais dire ce point sur mon cou, vilaine fille. *rire*"
+    u "Je voulais dire sur mon cou, coquine. *rire*"
 
 # game/v8/scene20.rpy:348
 translate francais em_arcade_2_571fd03a:
@@ -370,7 +370,7 @@ translate francais em_arcade_2_571fd03a:
 translate francais em_arcade_2_b78f789d:
 
     # u "Oh, God. I changed my mind. I choose the other spot."
-    u "Oh, non. J'ai changé d'avis. Je choisis l'autre endroit."
+    u "Oh, non... J'ai changé d'avis. Je choisis l'autre endroit."
 
 # game/v8/scene20.rpy:366
 translate francais em_arcade_2_6d1e062e:
@@ -388,7 +388,7 @@ translate francais em_arcade_2_6bcd435f:
 translate francais em_arcade_2_b272eac8:
 
     # em "First person to get a stuffed animal is the ultimate winner."
-    em "La première personne à obtenir un animal en peluche est l'ultime gagnant."
+    em "Le premier à faire tomber un truc est l'ultime gagnant."
 
 # game/v8/scene20.rpy:379
 translate francais em_arcade_2_b592843e:
@@ -400,7 +400,7 @@ translate francais em_arcade_2_b592843e:
 translate francais em_arcade_2_719f99d9:
 
     # em "And loser has to eat her out."
-    em "Et le perdant devra manger l'autre."
+    em "Et le perdant devra me manger la cha-"
 
 # game/v8/scene20.rpy:387
 translate francais em_arcade_2_67543184:
@@ -454,7 +454,7 @@ translate francais em_arcade_2_622730a3:
 translate francais em_arcade_2_e4140240:
 
     # em "Good show. My turn now."
-    em "Bien joué. A mon tour maintenant."
+    em "Bien joué. À mon tour maintenant."
 
 # game/v8/scene20.rpy:454
 translate francais em_arcade_2_162123b6:
@@ -466,13 +466,13 @@ translate francais em_arcade_2_162123b6:
 translate francais em_arcade_2_22554d2e:
 
     # em "HOW?"
-    em "COMMENT ?"
+    em "COMMENT T'AS FAIT ?"
 
 # game/v8/scene20.rpy:459
 translate francais em_arcade_2_484f7c8b:
 
     # u "Don't care. Get ready to-"
-    u "Ne t'en fais pas. Prépare-toi à..."
+    u "Cherche pas. Prépare-toi à..."
 
 # game/v8/scene20.rpy:463
 translate francais em_arcade_2_4b1f73ab:
@@ -502,7 +502,7 @@ translate francais em_arcade_2_7ea29e84:
 translate francais em_arcade_2_4a623e57:
 
     # u "Don't you think I'll forget about it."
-    u "Ne pense pas que je vais oublier."
+    u "Ne crois pas que je vais oublier ma victoire."
 
 # game/v8/scene20.rpy:489
 translate francais em_arcade_2_709aba89:
@@ -514,7 +514,7 @@ translate francais em_arcade_2_709aba89:
 translate francais em_arcade_2_eccca5d3:
 
     # u "And thanks for asking me to come out. This sure beat studying."
-    u "Et merci de m'avoir demandé de sortir. C'est mieux que d'étudier."
+    u "Et merci de m'avoir invité à sortir. C'est mieux que d'étudier."
 
 # game/v8/scene20.rpy:502
 translate francais em_arcade_2_d134fb4e:

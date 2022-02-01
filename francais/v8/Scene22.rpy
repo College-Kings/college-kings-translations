@@ -10,7 +10,7 @@ translate francais s22_0c71023f:
 translate francais s22_86bf174c:
 
     # pe "Hello?"
-    pe "Bonjour ?"
+    pe "Allo ?"
 
 # game/v8/Scene22.rpy:21
 translate francais s22_f1bf69e1:

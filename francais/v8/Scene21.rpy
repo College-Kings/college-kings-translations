@@ -178,7 +178,7 @@ translate francais walk_to_dean_5a1e01f4:
 translate francais walk_to_dean_e4beb4a7:
 
     # de "Well, I must be getting on. Lots to do today, and I'm sure you have studying to do?"
-    de "Eh bien, je dois m'y mettre. Beaucoup de choses à faire aujourd'hui, et je suis sûr que vous avez des études à faire ?"
+    de "Eh bien, je dois vous laisser. J'ai beaucoup de travail aujourd'hui et je suis sûre que vous avez des choses à étudier, non ?"
 
 # game/v8/Scene21.rpy:177
 translate francais walk_to_dean_2b1b612d:
@@ -190,7 +190,7 @@ translate francais walk_to_dean_2b1b612d:
 translate francais walk_to_dean_220dbcb7:
 
     # de "Well, let's get to it, shall we? Thank you for your candor in this matter."
-    de "Eh bien, allons-y, d'accord ? Merci pour votre franchise dans cette affaire."
+    de "Eh bien, faisons ça comme ça, d'accord ? Merci pour votre franchise dans cette affaire."
 
 # game/v8/Scene21.rpy:187
 translate francais walk_to_dean_3e3f19e2:
@@ -232,7 +232,7 @@ translate francais walk_to_dean_8482e119:
 translate francais walk_to_dean_6fc6551d:
 
     # u "(Holy shit, I did it! Now I gotta call Penelope when I get back.)"
-    u "(Putain de merde, je l'ai fait ! Maintenant je dois appeler Pénélope quand je rentre.)"
+    u "(Putain de merde, je l'ai fait ! Je dois appeler Pénélope dès que je suis rentré.)"
 
 # TODO: Translation updated at 2021-11-19 17:55
 
