@@ -1158,7 +1158,7 @@ translate francais strings:
 
     # renpy/common/_developer/inspector.rpym:145
     old "        (no properties affect the displayable)"
-    new ""
+    new "        (aucune propriété n'affecte les valeurs affichables)"
 
     # renpy/common/_developer/inspector.rpym:147
     old "        (default properties omitted)"
