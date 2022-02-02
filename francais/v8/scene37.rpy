@@ -104,7 +104,7 @@ translate francais strings:
 
     # game/v8/scene37.rpy:31
     old "You texted me just to make that reference, right?"
-    new "Tu m'as envoyé un texto juste pour faire cette référence, non ?"
+    new "Tu m'as envoyé un texto juste pour faire cette référence, c'est ça ?"
 
     # game/v8/scene37.rpy:32
     old "Maybe?"
@@ -116,7 +116,7 @@ translate francais strings:
 
     # game/v8/scene37.rpy:34
     old "Later then."
-    new "Plus tard alors."
+    new "À plus tard alors."
 
     # game/v8/scene37.rpy:44
     old "If your legs were lies, you could call me a liar. For I would be gladly spreading them."

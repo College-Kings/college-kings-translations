@@ -40,7 +40,7 @@ translate francais v8_julia_call_e75849bd:
 translate francais v8_julia_call_f8306763:
 
     # u "Yeah, seems like an opportunity I don't want to miss."
-    u "Ouais, ça semble être une opportunité que je ne veux pas manquer."
+    u "Ouais, ça a l'air d'être une opportunité que je ne veux pas manquer."
 
 # game/v8/scene36.rpy:50
 translate francais v8_julia_call_a521f21b:
@@ -94,13 +94,13 @@ translate francais v8_julia_call_c0c476dc:
 translate francais v8_julia_call_4de35bdd:
 
     # ju "That sounds like a once in a lifetime opportunity."
-    ju "Cela ressemble à une opportunité unique dans une vie."
+    ju "Ça a l'air d'être une opportunité unique dans une vie."
 
 # game/v8/scene36.rpy:87
 translate francais v8_julia_call_921ad657:
 
     # u "Yeah, it would be cool to try if I can keep up my grades and stuff."
-    u "Ouais, ce serait cool d'essayer si je peux garder mes bonnes notes et tout ça."
+    u "Ouais, ce serait cool d'y aller, si je peux garder mes bonnes notes et tout ça."
 
 # game/v8/scene36.rpy:91
 translate francais v8_julia_call_61d8114b:

@@ -10,7 +10,7 @@ translate francais walk_home_w_gray_bab0ecd8:
 translate francais walk_home_w_gray_780d5551:
 
     # u "(Still not sure what I signed up for. He was so intense in those woods)"
-    u "(Je ne sais toujours pas pourquoi j'ai signé. Il était si intense dans ces bois)"
+    u "(Je ne sais toujours pas pour quoi j'ai signé. Il était si intense dans ces bois)"
 
 # game/v8/scene44.rpy:22
 translate francais walk_home_w_gray_731ca980:
@@ -46,7 +46,7 @@ translate francais walk_home_w_gray_d0dfae04:
 translate francais walk_home_w_gray_b5a281e9:
 
     # gr "Nah! I can't. It's too much fun to torture you!"
-    gr "Nah ! Je ne peux pas. C'est trop amusant de te torturer !"
+    gr "Nah ! J'peux pas. C'est trop amusant de te torturer !"
 
 # game/v8/scene44.rpy:53
 translate francais walk_home_w_gray_3f420f1c:
@@ -118,13 +118,13 @@ translate francais walk_home_w_gray_c7b52de7:
 translate francais walk_home_w_gray_dd6fe419:
 
     # u "(Not ominous at all, dude)"
-    u "(Merde, c'est pas du tout inquiétant)"
+    u "(Merde, c'est pas du tout inquiétant, ça.)"
 
 # game/v8/scene44.rpy:116
 translate francais walk_home_w_gray_c16f5a61:
 
     # gr "Later, you Great Ape, you!"
-    gr "Plus tard, tu seras un grand Ape, TOI !"
+    gr "Plus tard, TOI, tu seras un grand Ape !"
 
 # game/v8/scene44.rpy:121
 translate francais walk_home_w_gray_ccd47c32:

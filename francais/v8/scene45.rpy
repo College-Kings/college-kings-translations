@@ -116,11 +116,11 @@ translate francais strings:
 
     # game/v8/scene45.rpy:52
     old "I think I'm gonna keep it all in for our next meeting. :)"
-    new "Je crois que je vais garder tout ça pour notre prochaine rendez-vous. :)"
+    new "Je crois que je vais garder tout ça pour notre prochain rendez-vous. :)"
 
     # game/v8/scene45.rpy:53
     old "And now I'm hungry."
-    new "Et maintenant, j'ai faim."
+    new "Et voilà ! J'ai faim, maintenant"
 
     # game/v8/scene45.rpy:54
     old ";D"

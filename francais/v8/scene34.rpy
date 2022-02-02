@@ -46,7 +46,7 @@ translate francais strings:
 
     # game/v8/scene34.rpy:10
     old "I bet you were"
-    new "Je parie que tu l'étais"
+    new "Je crois savoir ce qu'elles te faisaient"
 
     # game/v8/scene34.rpy:11
     old "I miss them"
@@ -54,11 +54,11 @@ translate francais strings:
 
     # game/v8/scene34.rpy:12
     old "I know... we should def try again"
-    new "Je sais... on devrait réessayer."
+    new "Je sais... on devrait recommencer."
 
     # game/v8/scene34.rpy:13
     old "I'm on my way!"
-    new "Je suis en route !"
+    new "J'arrive !"
 
     # game/v8/scene34.rpy:14
     old "Hahaha"
@@ -98,7 +98,7 @@ translate francais strings:
 
     # game/v8/scene34.rpy:38
     old "Um... how's now? ;)"
-    new "Hum... comment ça va maintenant ? ;)"
+    new "Hum... pourquoi pas maintenant ? ;)"
 
     # game/v8/scene34.rpy:39
     old "Now's perfect! Should I cum to your place or you wanna cum here? ;)"
@@ -106,7 +106,7 @@ translate francais strings:
 
     # game/v8/scene34.rpy:40
     old "I was thinking more along the lines of food. I'm hungry!"
-    new "Je pensais plus à de la nourriture. J'ai faim !"
+    new "Je pensais plus à sortir manger. J'ai faim !"
 
     # game/v8/scene34.rpy:41
     old "Well I got something to fill your mouth up"
@@ -146,7 +146,7 @@ translate francais strings:
 
     # game/v8/scene34.rpy:87
     old "Hey, sexy :* Haven't seen you in a while"
-    new "Hey, sexy :* Je ne t'ai pas vu depuis un moment."
+    new "Hey, sexy girl :* Je ne t'ai pas vu depuis un moment."
 
     # game/v8/scene34.rpy:88
     old "OMG! I was just thinking about you!"

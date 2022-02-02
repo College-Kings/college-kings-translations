@@ -28,4 +28,4 @@ translate francais gray_in_room_b53b07bd:
 translate francais gray_in_room_0e7a047f:
 
     # u "(So fucking weird, dude.)"
-    u "(Putain, c'est bizarre, mec.)"
+    u "(Putain, il est chelou ce mec.)"

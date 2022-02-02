@@ -826,13 +826,13 @@ translate francais tues_morning_at_joshs_fbcc3439:
 translate francais tues_morning_at_joshs_eab25f40:
 
     # jo "Yeah, man, it's the least I could do. Grab a seat and I'll get you guys sorted."
-    jo "Ben ouais, c'est le moins que je puisse faire. Prenez un siège et je vais vous aider à le préparer."
+    jo "Ben ouais, c'est le moins que je puisse faire. Prend un siège et je vais vous préparer le petit dej'."
 
 # game/v8/scene29.rpy:711
 translate francais tues_morning_at_joshs_7a55bbc3:
 
     # u "Sit down. We got this."
-    u "Assied-toi. On s'en occupe."
+    u "Assied-toi, toi. On s'en occupe."
 
 # game/v8/scene29.rpy:715
 translate francais tues_morning_at_joshs_af8065a6:
@@ -1000,13 +1000,13 @@ translate francais tues_morning_at_joshs_fbcc3439_1:
 translate francais tues_morning_at_joshs_eab25f40_1:
 
     # jo "Yeah, man, it's the least I could do. Grab a seat and I'll get you guys sorted."
-    jo "Ben ouais, c'est le moins que je puisse faire. Prenez un siège et je vais vous aider à le préparer."
+    jo "Ben ouais, c'est le moins que je puisse faire. Prend un siège et je vais vous préparer le petit dej'."
 
 # game/v8/scene29.rpy:829
 translate francais tues_morning_at_joshs_7a55bbc3_1:
 
     # u "Sit down. We got this."
-    u "Assied-toi. On s'en occupe."
+    u "Assied-toi, toi. On s'en occupe."
 
 # game/v8/scene29.rpy:833
 translate francais tues_morning_at_joshs_af8065a6_1:

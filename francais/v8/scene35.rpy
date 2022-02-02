@@ -4,7 +4,7 @@
 translate francais steak_w_chloe_2a73d473:
 
     # cl "It's about time! I'm starving."
-    cl "Il est grand temps ! Je suis affamée."
+    cl "Ah enfin ! Je suis affamée."
 
 # game/v8/scene35.rpy:29
 translate francais steak_w_chloe_9fb81230:
@@ -22,13 +22,13 @@ translate francais steak_w_chloe_b3bf8b00:
 translate francais steak_w_chloe_f7179422:
 
     # u "You look delicious yourself."
-    u "Tu es toi-même délicieuse."
+    u "Et toi, Tu es délicieuse."
 
 # game/v8/scene35.rpy:44
 translate francais steak_w_chloe_647d0c2b:
 
     # cl "I try. Now let's go. It smells so good."
-    cl "J'essaie. Maintenant, allons-y. Ça sent si bon."
+    cl "J'essaie. Maintenant, commandons. Ça sent si bon."
 
 # game/v8/scene35.rpy:49
 translate francais steak_w_chloe_ef744036:
@@ -64,13 +64,13 @@ translate francais steak_w_chloe_489d30f1:
 translate francais steak_w_chloe_275e74a6:
 
     # cl "Enough chit chat. Let's eat."
-    cl "Assez de bavardages. Allons manger."
+    cl "Assez de bavardages. Commandons à manger."
 
 # game/v8/scene35.rpy:77
 translate francais steak_w_chloe_670c4672:
 
     # cl "Wow it's nice in here."
-    cl "Wow, c'est sympa ici."
+    cl "T'as vu ? C'est sympa ici."
 
 # game/v8/scene35.rpy:83
 translate francais steak_w_chloe_16e2274d:
@@ -478,7 +478,7 @@ translate francais steak_w_chloe_dirty_3a7f31be:
 translate francais steak_w_chloe_dirty_5f11f65c:
 
     # u "I don't have a roommate so I don't need one. But if I had you in my room, I'd barricade the door and booby trap it."
-    u "Je n'ai pas de colocataire donc je n'en ai pas besoin. Mais si je t'avais dans ma chambre, je barricaderais la porte et la piégerais."
+    u "Je n'ai pas de colocataire donc je n'en ai pas besoin. Mais si j'en avais un et que je t'avais dans ma chambre, je barricaderais la porte et la piégerais."
 
 # game/v8/scene35.rpy:482
 translate francais steak_w_chloe_dirty_08bf0957:
@@ -532,7 +532,7 @@ translate francais steak_w_chloe_cont_3_c4d90d12:
 translate francais steak_w_chloe_cont_3_0edcc060:
 
     # cl "*giggles* That's only on Tuesdays."
-    cl "*rire* C'est seulement le mardi."
+    cl "*rire* Seulement le mardi."
 
 # game/v8/scene35.rpy:538
 translate francais steak_w_chloe_cont_3_29dff89f:

@@ -4,7 +4,7 @@
 translate francais v9_dream_fd4bfdf4:
 
     # u "Hello? Anyone here?"
-    u "Allo ? Il y a quelqu'un ici ?"
+    u "Hey ? Il y a quelqu'un ici ?"
 
 # game/v9/scene04.rpy:28
 translate francais v9_dream_bbc0e946:
@@ -16,7 +16,7 @@ translate francais v9_dream_bbc0e946:
 translate francais v9_dream_8fa635fb:
 
     # u "Hello!"
-    u "Allo !"
+    u "HÉÉÉOOOO !"
 
 # game/v9/scene04.rpy:40
 translate francais v9_dream_a2e6bbaa:
@@ -100,7 +100,7 @@ translate francais v9_dream_wolves_aa8042d4:
 translate francais v9_dream_wolves_9e03b250:
 
     # ch "Man, you call that a punch?"
-    ch "Mec, tu appelles ça un coup de poing ?"
+    ch "Ouah, tu appelles ça un coup de poing ?"
 
 # game/v9/scene04.rpy:209
 translate francais v9_dream_wolves_d42ac66f:
@@ -250,7 +250,7 @@ translate francais v9_dream_apes_65f98d87:
 translate francais v9_dream_apes_551c4506:
 
     # gr "Man, you call that a punch?"
-    gr "Mec, tu appelles ça un coup de poing ?"
+    gr "Putain, tu appelles ça un coup de poing ?"
 
 # game/v9/scene04.rpy:455
 translate francais v9_dream_apes_525c2ae1:

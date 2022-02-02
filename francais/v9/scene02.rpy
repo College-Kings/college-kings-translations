@@ -16,13 +16,13 @@ translate francais v9_start_apes_8526cef8:
 translate francais v9_start_apes_7fc469a7:
 
     # u "Not a pledge anymore."
-    u "C'est plus le recrutement."
+    u "Oh ! C'est fini le recrutement."
 
 # game/v9/scene02.rpy:45
 translate francais v9_start_apes_78f9c099:
 
     # ca "To me, you're a pledge 'til you prove yourself...{w} PLEDGE."
-    ca "Pour moi, t'es u nouveau jusqu'à ce que tu fasses tes preuves... NOUVEAU."
+    ca "Pour moi, tu seras toujours un nouveau jusqu'à ce que tu fasses tes preuves... NOUVEAU."
 
 # game/v9/scene02.rpy:49
 translate francais v9_start_apes_82f16e9d:
@@ -52,7 +52,7 @@ translate francais v9_start_apes_907e332d:
 translate francais v9_start_apes_c1434064:
 
     # ca "Haven't you heard? It's all over."
-    ca "Tu n'as pas entendu ? C'est fini."
+    ca "Tu n'as pas entendu ? C'est fini la glande."
 
 # game/v9/scene02.rpy:69
 translate francais v9_start_apes_c00e3b00:
@@ -100,7 +100,7 @@ translate francais v9_start_apes_bce01907:
 translate francais v9_start_apes_7b81c3bc:
 
     # ca "Uh uh. You stay here, pledge." with hpunch
-    ca "Uh uh. Tu restes ici, nouveau." with hpunch
+    ca "Oh oh. Restes ici, le nouveau." with hpunch
 
 # game/v9/scene02.rpy:103
 translate francais v9_start_apes_042bd251:
@@ -112,7 +112,7 @@ translate francais v9_start_apes_042bd251:
 translate francais v9_start_apes_417eb9ff:
 
     # ca "Always... You know how it is."
-    ca "Toujours... Tu sais comment c'est."
+    ca "Toujours... Tu sais c'que c'est."
 
 # game/v9/scene02.rpy:111
 translate francais v9_start_apes_a1a79220:
@@ -142,7 +142,7 @@ translate francais v9_start_apes_5894e6c5:
 translate francais v9_start_apes_d8ce9675:
 
     # ca "What the fuck ever, dude. What do you want?"
-    ca "C'est quoi ce bordel, mec. Qu'est-ce que tu veux ?"
+    ca "Pourquoi tu viens me faire chier, mec ? Qu'est-ce que tu veux ?"
 
 # game/v9/scene02.rpy:133
 translate francais v9_start_apes_0bb7db1f:
@@ -178,7 +178,7 @@ translate francais v9_start_apes_9d50a3d7:
 translate francais v9_start_apes_4784812c:
 
     # ca "Better beef up or you won't stand a chance."
-    ca "Tu ferais mieux de te muscler ou tu n'auras aucune chance."
+    ca "Tu ferais mieux de te muscler ou t'auras aucune chance."
 
 # game/v9/scene02.rpy:159
 translate francais v9_start_apes_8fc2cb21:
@@ -232,7 +232,7 @@ translate francais v9_start_apes_153a0958:
 translate francais v9_start_apes_b646e493:
 
     # u "(Bloodbath? I don't like the sound of that.)"
-    u "(Bain de sang ? Je n'aime pas le son de ça.)"
+    u "(Bain de sang ? Je n'aime pas entendre ça.)"
 
 # game/v9/scene02.rpy:209
 translate francais v9_start_apes_7c299611:
@@ -244,7 +244,7 @@ translate francais v9_start_apes_7c299611:
 translate francais v9_start_apes_86aaa3ee:
 
     # ca "I know, right?"
-    ca "Je sais, hein ?"
+    ca "Je sais, ouais !"
 
 # game/v9/scene02.rpy:217
 translate francais v9_start_apes_7d3c7542:

@@ -292,11 +292,11 @@ translate francais strings:
 
     # game/v9/scene01.rpy:13
     old "Lucky we did, huh? I think we got a hand up on those baby apes"
-    new "On a eu de la chance, hein ? Je pense qu'on a eu un coup de pouce pour ces bébés Apes."
+    new "On a eu de la chance, hein ? Je pense qu'on a un avantage sur ces bébés d'en face."
 
     # game/v9/scene01.rpy:14
     old "Damn right! We got this! We need to hit the gym soon... after I get some sleep. I'm bout to pass out"
-    new "C'est vrai ! On l'a eu ! On doit aller à la salle bientôt... après avoir dormi un peu. Je suis sur le point de m'évanouir"
+    new "C'est vrai ! On en a un ! On doit aller à la salle bientôt... après avoir dormi un peu. Je suis sur le point de m'évanouir"
 
     # game/v9/scene01.rpy:15
     old "Same! Talk soon"
@@ -312,7 +312,7 @@ translate francais strings:
 
     # game/v9/scene01.rpy:214
     old "You here yet?"
-    new "Tu es déjà là ?"
+    new "Tu es encore là ?"
 
     # game/v9/scene01.rpy:215
     old "Yeah, you ready?"
@@ -324,4 +324,4 @@ translate francais strings:
 
     # game/v9/scene01.rpy:217
     old "I think so, actually. You and Sebastian really helped"
-    new "Je pense que oui, en fait. Toi et Sebastian m'avez vraiment aidé"
+    new "Je crois que oui. Toi et Sebastian m'avez vraiment bien aidé"
