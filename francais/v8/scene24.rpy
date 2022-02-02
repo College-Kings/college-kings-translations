@@ -34,13 +34,13 @@ translate francais josh_room_4c77c202:
 translate francais josh_room_5f4d8972:
 
     # jo "Normally, my cousin does it but he broke his arm so he can't do shit. Can I count on you?"
-    jo "Normalement, c'est mon cousin qui le fait mais il s'est cassé le bras alors il ne peut rien faire. Je peux compter sur toi ?"
+    jo "D'habitude, c'est mon cousin qui le fait mais il s'est cassé le bras alors il ne peut rien faire. Je peux compter sur toi ?"
 
 # game/v8/scene24.rpy:36
 translate francais josh_room_54b7c239:
 
     # u "Man, Josh, I dunno. This is awfully risky and you know I'm not into that shit."
-    u "Mec, Josh, je sais pas. C'est terriblement risqué et tu sais que je ne suis pas dans cette merde."
+    u "Putain Josh, je sais pas. C'est terriblement risqué et tu sais que je ne suis pas dans cette merde."
 
 # game/v8/scene24.rpy:40
 translate francais josh_room_17d5b8b0:
@@ -64,7 +64,7 @@ translate francais josh_room_e7e031c7:
 translate francais josh_room_38d6e6a8:
 
     # jo "My man! Thanks, bro! I really appreciate this!"
-    jo "Super mec ! Merci, mon frère ! J'apprécie vraiment ça !"
+    jo "Super mec ! Merci, mon frère ! J'te kiffe !"
 
 # game/v8/scene24.rpy:60
 translate francais josh_room_09e43702:
@@ -82,13 +82,13 @@ translate francais josh_room_e3f27bdf:
 translate francais josh_room_96745252:
 
     # u "Sure it will."
-    u "Bien sûr."
+    u "J'espère..."
 
 # game/v8/scene24.rpy:72
 translate francais josh_room_2460fec3:
 
     # jo "Deal goes down at 9 PM tonight. We'll meet here and go to the spot together, okay?"
-    jo "L'accord est conclu à 21 heures ce soir. On se retrouve ici et on va sur place ensemble, d'accord ?"
+    jo "Le deal se fait à 21 heures ce soir. On se retrouve ici et on va sur place ensemble, ok ?"
 
 # game/v8/scene24.rpy:76
 translate francais josh_room_77864fdd:
@@ -106,13 +106,13 @@ translate francais josh_room_b2ace458:
 translate francais josh_room_4257b43e:
 
     # u "Honestly, man, I don't think so. This isn't me and I don't want to get caught, especially with that shit."
-    u "Honnêtement, mec, je ne pense pas. Ce n'est pas mon genre et je ne veux pas me faire prendre, surtout avec cette merde."
+    u "Franchement, mec, je ne crois pas. Ce n'est pas mon genre et je ne veux pas me faire prendre, surtout avec cette merde."
 
 # game/v8/scene24.rpy:90
 translate francais josh_room_b5db3286:
 
     # jo "Really? I thought you were my bro, man. I guess I was wrong about you."
-    jo "Vraiment ? Je pensais que tu étais mon frère, mec. Je crois que j'avais tort à ton sujet."
+    jo "Sérieux ? Je croyais que t'étais mon frère, mec. Je crois que j'avais tort à ton sujet."
 
 # game/v8/scene24.rpy:94
 translate francais josh_room_d82168c4:
@@ -124,7 +124,7 @@ translate francais josh_room_d82168c4:
 translate francais josh_room_fb6beb21:
 
     # jo "Whatever, man. You can't do one favor for me. Some friend!"
-    jo "Peu importe, mec. Tu ne peux pas me faire une faveur. Un ami !"
+    jo "Je m'en fou, mec. Tu ne peux pas me faire une faveur. Un ami !"
 
 # game/v8/scene24.rpy:102
 translate francais josh_room_382f9a9f:
@@ -136,7 +136,7 @@ translate francais josh_room_382f9a9f:
 translate francais josh_room_1cf93f7f:
 
     # u "(Fuck. I should go after him, but I don't want to get caught up in that shit. Guess I'll go back to my room.)"
-    u "(Putain. Je devrais aller l'aider, mais je ne veux pas me laisser entraîner dans cette merde. Je pense que je vais retourner dans ma chambre.)"
+    u "(Putain. Je devrais aller l'aider, mais je ne veux pas me laisser entraîner dans cette merde. Je vais retourner dans ma chambre.)"
 
 translate francais strings:
 
@@ -154,4 +154,4 @@ translate francais strings:
 translate francais josh_room_efbf479e:
 
     # jo "Coke deal, you know *sniffs*, and I need someone I can trust to watch my ass, you know, in case they try to rob me."
-    jo "Deal de Coke, tu sais *snif*, et j'ai besoin de quelqu'un en qui je peux avoir confiance pour surveiller mon cul, tu sais, au cas où ils essaieraient de me voler."
+    jo "Deal de Coke, tu sais *snif*, et j'ai besoin de quelqu'un en qui je peux avoir confiance pour surveiller mon cul, tu sais, au cas où ils essaieraient de me la faire à l'envers."

@@ -22,31 +22,31 @@ translate francais v8s27_phoneContinue1_4e68a090:
 translate francais v8s27_phoneContinue1_81469270:
 
     # u "(Ahh there's Josh.)"
-    u "(Ahh c'est Josh.)"
+    u "(Ahh il est déjà là.)"
 
 # game/v8/scene27.rpy:50
 translate francais v8s27_phoneContinue1_2f101193:
 
     # jo "Hey, bro! You ready for this?"
-    jo "Hé, mon frère ! Tu es prêt pour ça ?"
+    jo "Hé, mon frère ! T'es prêt ?"
 
 # game/v8/scene27.rpy:55
 translate francais v8s27_phoneContinue1_68ec9d52:
 
     # u "I guess so. Let's go."
-    u "Je pense que oui. Allons-y."
+    u "Je crois que oui. Allons-y."
 
 # game/v8/scene27.rpy:60
 translate francais v8s27_phoneContinue1_3273f15b:
 
     # jo "This is gonna be so dope! 1000 bucks! I can do so much with that kind of money, haha."
-    jo "Ça va être tellement génial ! 1000 dollars ! Je peux faire tellement de choses avec cet argent, haha."
+    jo "Ça va être vraiment génial ! 1000 dollars ! Putain, je vais pouvoir faire tellement de trucs avec ce fric ! Haha."
 
 # game/v8/scene27.rpy:65
 translate francais v8s27_phoneContinue1_48b292c7:
 
     # u "Yeah, I'm sure you can."
-    u "Oui, je suis sûr que tu peux."
+    u "Ouais, tu pourras."
 
 # game/v8/scene27.rpy:70
 translate francais v8s27_phoneContinue1_c20954a6:
@@ -64,7 +64,7 @@ translate francais v8s27_phoneContinue1_f1b11659:
 translate francais v8s27_phoneContinue1_8909d919:
 
     # jo "Hahaha! You worry too much, bro. Relax! We got this."
-    jo "Hahaha ! Tu t'inquiètes trop, mon frère. Relax ! On s'en occupe."
+    jo "Hahaha ! Tu t'inquiètes trop, mon frère. Relax ! On s'en charge."
 
 # game/v8/scene27.rpy:100
 translate francais v8s27_phoneContinue2_747f298b:
@@ -94,7 +94,7 @@ translate francais v8s27_phoneContinue3_747f298b:
 translate francais v8s27_phoneContinue3_4e68a090:
 
     # u "(Fuck, I have a bad feeling about this.)"
-    u "(Putain, j'ai un mauvais pressentiment à ce sujet.)"
+    u "(Putain, j'ai un mauvais pressentiment à ce propos.)"
 
 # game/v8/scene27.rpy:155
 translate francais v8s27_phoneContinue3_81469270:
@@ -106,25 +106,25 @@ translate francais v8s27_phoneContinue3_81469270:
 translate francais v8s27_phoneContinue3_2f101193:
 
     # jo "Hey, bro! You ready for this?"
-    jo "Hé, mon frère ! Tu es prêt pour ça ?"
+    jo "Hé, mon frère ! T'es prêt ?"
 
 # game/v8/scene27.rpy:165
 translate francais v8s27_phoneContinue3_68ec9d52:
 
     # u "I guess so. Let's go."
-    u "Je pense que oui. Allons-y."
+    u "Je crois que oui. Allons-y."
 
 # game/v8/scene27.rpy:170
 translate francais v8s27_phoneContinue3_3273f15b:
 
     # jo "This is gonna be so dope! 1000 bucks! I can do so much with that kind of money, haha."
-    jo "Ça va être tellement génial ! 1000 dollars ! Je peux faire tellement de choses avec cet argent, haha."
+    jo "Ça va être vraiment génial ! 1000 dollars ! Putain, je vais pouvoir faire tellement de trucs avec ce fric ! Haha."
 
 # game/v8/scene27.rpy:175
 translate francais v8s27_phoneContinue3_48b292c7:
 
     # u "Yeah, I'm sure you can."
-    u "Oui, je suis sûr que tu peux."
+    u "Ouais, tu pourras."
 
 # game/v8/scene27.rpy:180
 translate francais v8s27_phoneContinue3_c20954a6:
@@ -142,7 +142,7 @@ translate francais v8s27_phoneContinue3_f1b11659:
 translate francais v8s27_phoneContinue3_8909d919:
 
     # jo "Hahaha! You worry too much, bro. Relax! We got this."
-    jo "Hahaha ! Tu t'inquiètes trop, mon frère. Relax ! On s'en occupe."
+    jo "Hahaha ! Tu t'inquiètes trop, mon frère. Relax ! On s'en charge."
 
 # game/v8/scene27.rpy:210
 translate francais v8s27_phoneContinue4_747f298b:
@@ -168,7 +168,7 @@ translate francais strings:
 
     # game/v8/scene27.rpy:91
     old "Hey bro, I got robbed and my ass kicked bad! Really wish you came with me, man."
-    new "Hé mec, je me suis fait voler et botter le cul ! J'aurais vraiment aimé que tu viennes avec moi, mec."
+    new "Hé mec, je me suis fait voler et botter le cul ! J'aurais vraiment aimé que tu viennes avec moi."
 
     # game/v8/scene27.rpy:92
     old "Fuck! Are you ok??"
@@ -176,7 +176,7 @@ translate francais strings:
 
     # game/v8/scene27.rpy:93
     old "No, man! I hurt everywhere! Plus my shit is gone!"
-    new "Non, mec ! J'ai mal partout ! En plus, j'ai perdu mon shit !"
+    new "Non, mec ! J'ai mal partout ! En plus, ils m'ont piqué mon shit !"
 
     # game/v8/scene27.rpy:94
     old "Hold on, I'll be right over"

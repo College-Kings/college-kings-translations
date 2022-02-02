@@ -52,13 +52,13 @@ translate francais s26_8b9dee31:
 translate francais s26_ab5f9958:
 
     # au "Are you getting a naughty librarian vibe?"
-    au "J'ai l'impression d'être une bibliothécaire coquine ?"
+    au "Je ressemble à une une bibliothécaire coquine, non ?"
 
 # game/v8/Scene26.rpy:61
 translate francais s26_8eaa20a6:
 
     # u "Definitely with these."
-    u "Définitivement avec celles-là."
+    u "Ça sera définitivement le cas avec celles-là."
 
 # game/v8/Scene26.rpy:71
 translate francais s26_7b32d783:
@@ -82,13 +82,13 @@ translate francais s26_023a9b50:
 translate francais s26_59751aac:
 
     # ri "How do they look?"
-    ri "Comment sont-elles ?"
+    ri "Elles me vont comment ?"
 
 # game/v8/Scene26.rpy:96
 translate francais s26_aeddc5a5:
 
     # au "Damn, girl. Makes me feel a bit naughty."
-    au "Bon sang, ma fille. Ça me fait me sentir un peu vilaine."
+    au "Bon sang, ma fille. Tu me fais me sentir un peu vilaine."
 
 # game/v8/Scene26.rpy:101
 translate francais s26_1961a867:
@@ -100,25 +100,25 @@ translate francais s26_1961a867:
 translate francais s26_8aeb9c5b:
 
     # ri "Not so fast... I need a pair I can wear out in public."
-    ri "Pas si vite... J'ai besoin d'une paire que je puisse porter en public."
+    ri "Pas si vite... J'ai besoin d'une paire que je puisse porter à l'extérieur."
 
 # game/v8/Scene26.rpy:111
 translate francais s26_dc019280:
 
     # u "Yeah, probably wouldn't get much done if I saw you in those every day."
-    u "Ouais, je n'arriverais probablement pas à faire grand chose si je te voyais avec ça tous les jours."
+    u "Ouais, je n'arriverais sûrement plus à faire grand chose si je vous voyais tout le temps avec celles-là."
 
 # game/v8/Scene26.rpy:116
 translate francais s26_17f48d14:
 
     # ri "Both of us?"
-    ri "Tous les deux ?"
+    ri "Nous deux ?"
 
 # game/v8/Scene26.rpy:121
 translate francais s26_fa92393f:
 
     # u "Now who's feeling naughty?"
-    u "Maintenant, qui se sent vilaine ?"
+    u "Et maintenant, qui se sent \"vilaine\" ?"
 
 # game/v8/Scene26.rpy:126
 translate francais s26_25f46907:
@@ -184,31 +184,31 @@ translate francais take_aub_glasses_b15f38ca:
 translate francais take_aub_glasses_2a41267e:
 
     # u "Aren't we here getting you glasses? Not me?"
-    u "On n'est pas là pour te trouver des lunettes ? Pas moi !"
+    u "Heu... On est là pour TE trouver des lunettes, non ? Pas à moi !"
 
 # game/v8/Scene26.rpy:198
 translate francais take_aub_glasses_8011dad3:
 
     # ri "This is way more fun!"
-    ri "C'est bien plus amusant !"
+    ri "C'est bien plus drôle !"
 
 # game/v8/Scene26.rpy:206
 translate francais no_take_aub_glasses_f037c4af:
 
     # u "I think these would be better."
-    u "Je pense que celles-ci seraient meilleures."
+    u "Je crois que celles-ci seraient meilleures."
 
 # game/v8/Scene26.rpy:211
 translate francais no_take_aub_glasses_d08a1b73:
 
     # u "How awesome is this?"
-    u "C'est pas génial ?"
+    u "Alors ?"
 
 # game/v8/Scene26.rpy:216
 translate francais no_take_aub_glasses_8b91624a:
 
     # au "Meh, I still like these."
-    au "Meh, j'aime toujours celles-là."
+    au "Heu, je préfères toujours celles-là."
 
 # game/v8/Scene26.rpy:221
 translate francais no_take_aub_glasses_39c4a254:
@@ -220,7 +220,7 @@ translate francais no_take_aub_glasses_39c4a254:
 translate francais no_take_aub_glasses_07767edb:
 
     # au "So... you're pretty. You can pull it off."
-    au "Donc... tu es jolie. Tu peux les retirer."
+    au "Donc... tu es jolie. Tu peux les remettre ?"
 
 # game/v8/Scene26.rpy:231
 translate francais no_take_aub_glasses_ec58dd76:
@@ -244,13 +244,13 @@ translate francais no_take_aub_glasses_ce7dd284:
 translate francais no_take_aub_glasses_175d629a:
 
     # u "(This isn't going like I planned)"
-    u "(Cela ne se passe pas comme je l'avais prévu)"
+    u "(Oh ! Ça se passe pas comme je l'avais prévu)"
 
 # game/v8/Scene26.rpy:254
 translate francais after_glasses_choice_fb9cf7ec:
 
     # u "Riley, these would look so amazing on you!"
-    u "Riley, ça t'irait tellement bien !"
+    u "Riley, celles-là t'iraient vraiment bien !"
 
 # game/v8/Scene26.rpy:259
 translate francais after_glasses_choice_c9d4e42e:
@@ -316,7 +316,7 @@ translate francais after_glasses_choice_8e3c3cf5:
 translate francais after_glasses_choice_3b157c30:
 
     # u "Those look really hot, but I still think the last pair matches your hair, like Aubrey said."
-    u "Celles-ci sont vraiment sexy, mais je pense toujours que la dernière paire va avec tes cheveux, comme Aubrey l'a dit."
+    u "Celles-là sont vraiment sexy, mais je pense toujours que la dernière paire va mieux avec tes cheveux, comme l'a dit Aubrey."
 
 # game/v8/Scene26.rpy:312
 translate francais after_glasses_choice_63c55ee6:
@@ -334,7 +334,7 @@ translate francais after_glasses_choice_29ffe6d8:
 translate francais after_glasses_choice_8a80d168:
 
     # ri "Last pair it is!"
-    ri "Va pour la dernière paire !"
+    ri "Alors, va pour la dernière paire !"
 
 # game/v8/Scene26.rpy:328
 translate francais after_glasses_choice_e5a82c29:
@@ -352,19 +352,19 @@ translate francais after_glasses_choice_58e9d255:
 translate francais after_glasses_choice_83b40480:
 
     # u "Those... tonight?"
-    u "Celles... de ce soir ?"
+    u "Celles... de cette nuit ?"
 
 # game/v8/Scene26.rpy:342
 translate francais after_glasses_choice_44d70fd3:
 
     # ri "You dog!"
-    ri "Espèce de chien !"
+    ri "Petit chien !"
 
 # game/v8/Scene26.rpy:347
 translate francais after_glasses_choice_101b9a0e:
 
     # ri "I think I'll go with the last pair."
-    ri "Je pense que je vais prendre la dernière paire."
+    ri "Je crois que je vais prendre la dernière paire."
 
 # game/v8/Scene26.rpy:352
 translate francais after_glasses_choice_6f083a0f:
@@ -394,13 +394,13 @@ translate francais after_glasses_choice_f0e3dc73:
 translate francais opti_end_6adba70a:
 
     # ri "I think I'm gonna take these ones."
-    ri "Je pense que je vais prendre celles-là."
+    ri "Je crois que je vais prendre celles-là."
 
 # game/v8/Scene26.rpy:382
 translate francais opti_end_9927e9a2:
 
     # ri "Thanks for coming. I feel better about needing glasses now."
-    ri "Merci d'être venu. Je me sens mieux sur le fait d'avoir besoin de lunettes, maintenant."
+    ri "Merci d'être venu. Maintenant, je me sens mieux avec le fait d'avoir besoin de lunettes."
 
 # game/v8/Scene26.rpy:387
 translate francais opti_end_199fd772:
@@ -418,19 +418,19 @@ translate francais opti_end_9455b319:
 translate francais opti_end_6bc6ab1f:
 
     # au "We should do this again soon."
-    au "On devrait refaire ça bientôt."
+    au "On devrait se refaire ça bientôt."
 
 # game/v8/Scene26.rpy:402
 translate francais opti_end_9ed85870:
 
     # u "I can't wait!"
-    u "Je suis impatient !"
+    u "Avec plaisir !"
 
 # game/v8/Scene26.rpy:407
 translate francais opti_end_eb219a34:
 
     # ri "We have other errands to run, but I'll text you soon."
-    ri "Nous avons d'autres courses à faire, mais je t'envoie un texto bientôt."
+    ri "On a d'autres courses à faire, mais je t'enverrai un texto bientôt."
 
 # game/v8/Scene26.rpy:412
 translate francais opti_end_1bea4ac4:
@@ -454,7 +454,7 @@ translate francais strings:
 
     # game/v8/Scene26.rpy:151
     old "Take the glasses"
-    new "Prends les lunettes"
+    new "Prends celles-là"
 
     # game/v8/Scene26.rpy:151
     old "Find a better pair"
@@ -466,11 +466,11 @@ translate francais strings:
 
     # game/v8/Scene26.rpy:335
     old "Both glasses"
-    new "Les deux lunettes"
+    new "Vos lunettes à vous deux"
 # TODO: Translation updated at 2022-01-18 10:42
 
 # game/v8/Scene26.rpy:268
 translate francais after_glasses_choice_4f77a040:
 
     # u "You really suit them, Riley!"
-    u "Tu les portes vraiment bien, Riley !"
+    u "Elles te vont vraiment bien, Riley !"

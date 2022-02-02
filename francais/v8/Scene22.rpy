@@ -106,7 +106,7 @@ translate francais s22_0c71023f_1:
 translate francais s22_86bf174c_1:
 
     # pe "Hello?"
-    pe "Bonjour ?"
+    pe "Allo ?"
 
 # game/v8/Scene22.rpy:105
 translate francais s22_f1bf69e1_1:
@@ -178,7 +178,7 @@ translate francais s22_1e9f70cc_1:
 translate francais s22_23e6fb61_1:
 
     # pe "Hahaha! You don't need to tell me! I learned my lesson! Bye [name]."
-    pe "Hahaha ! Tu n'as pas besoin de me le dire ! J'ai appris ma leçon ! Au revoir [name]."
+    pe "Hahaha ! Tu n'as pas besoin de me le dire ! J'ai bien retenu la leçon ! Au revoir [name]."
 
 # game/v8/Scene22.rpy:165
 translate francais s22_604e5884_1:
@@ -190,4 +190,4 @@ translate francais s22_604e5884_1:
 translate francais s22_0c94769e:
 
     # u "(Well, nothing else to do besides wait and hope for the best.)"
-    u "(Eh bien, rien d'autre à faire à part attendre et espérer le meilleur.)"
+    u "(Bon, il n'y a rien d'autre à faire à part attendre et espérer le meilleur.)"

@@ -34,13 +34,13 @@ translate francais phn_riley11_11900a1d:
 translate francais phn_riley11_1ace9f3a:
 
     # u "(Guess I'm not gonna be bored to death after all.)"
-    u "(Je crois que je ne vais pas m'ennuyer à mourir après tout.)"
+    u "(Je pense que je ne vais pas m'ennuyer à mourir, finalement.)"
 
 # game/v8/scene25.rpy:61
 translate francais phn_riley11_1ace9f3a_1:
 
     # u "(Guess I'm not gonna be bored to death after all.)"
-    u "(Je crois que je ne vais pas m'ennuyer à mourir après tout.)"
+    u "(Je pense que je ne vais pas m'ennuyer à mourir, finalement.)"
 
 translate francais strings:
 
@@ -62,7 +62,7 @@ translate francais strings:
 
     # game/v8/scene25.rpy:42
     old "I think you'd look cute in glasses."
-    new "Je pense que tu serais mignonne avec des lunettes."
+    new "Je crois que tu serais mignonne avec des lunettes."
 
     # game/v8/scene25.rpy:43
     old "I don't know. Why don't you come with me and Aubrey to try some on?"
@@ -82,11 +82,11 @@ translate francais strings:
 
     # game/v8/scene25.rpy:44
     old "sure I will come but where is the store ?"
-    new "Je viendrai, mais où se trouve le magasin ?"
+    new "Ok je viens, mais où se trouve le magasin ?"
 
     # game/v8/scene25.rpy:45
     old "Just down the road from the gym on the right hand side of the road"
-    new "Juste en bas de la route du gymnase, sur le côté droit de la route."
+    new "Juste en bas de la route de la salle de sport, sur le côté droit."
 
     # game/v8/scene25.rpy:46
     old "Cool will meet you both there"
@@ -97,4 +97,4 @@ translate francais strings:
 
     # game/v8/scene25.rpy:44
     old "Sure, I will come. But where is the store?"
-    new "Je viendrai, mais où se trouve le magasin ?"
+    new "Ok, je viens. Mais où se trouve le magasin ?"

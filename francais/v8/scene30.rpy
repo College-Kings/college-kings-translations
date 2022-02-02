@@ -46,7 +46,7 @@ translate francais amber_sex_at_joshs_0efbe7e6:
 translate francais amber_sex_at_joshs_f122857a:
 
     # am "*In a muffled voice* You like it?"
-    am "*Avec une voix étouffée* Tu aimes ça ?"
+    am "*Voix étouffée* Tu aimes ça ?"
 
 # game/v8/scene30.rpy:84
 translate francais amber_sex_at_joshs_a8ef544d:
@@ -70,19 +70,19 @@ translate francais amber_sex_at_joshs_016299f7:
 translate francais amber_sex_at_joshs_1a387098:
 
     # am "Sit down. I want more of that cock now."
-    am "Assieds-toi. Je veux encore plus de cette bite maintenant."
+    am "Allonge-toi. Maintenant, je veux encore plus de cette bite."
 
 # game/v8/scene30.rpy:115
 translate francais amber_sex_at_joshs_6828cb01:
 
     # u "That is a magnificent ass!"
-    u "C'est un cul magnifique !"
+    u "Tu as un cul magnifique !"
 
 # game/v8/scene30.rpy:116
 translate francais amber_sex_at_joshs_3318c05d:
 
     # am "*Chuckles* I'm glad you like it."
-    am "*Rire* Je suis contente que ça te plaise."
+    am "*Rire* Je suis contente qu'il te plaise."
 
 # game/v8/scene30.rpy:128
 translate francais amber_sex_at_joshs_dcd60c77:
@@ -94,13 +94,13 @@ translate francais amber_sex_at_joshs_dcd60c77:
 translate francais amber_sex_at_joshs_bcbb5e12:
 
     # u "*Moans* Oh my God..."
-    u "*Gémis* Oh mon Dieu..."
+    u "*Gémis* Oh putain..."
 
 # game/v8/scene30.rpy:134
 translate francais amber_sex_at_joshs_68288b6c:
 
     # am "Ohh fuck [name]! You feel sooo good!"
-    am "Ohh putain [name] ! Tu te sens si bien !"
+    am "Ohh putain [name] ! Tu es si bien en moi !"
 
 # game/v8/scene30.rpy:136
 translate francais amber_sex_at_joshs_3924ae6b:
@@ -130,7 +130,7 @@ translate francais amber_sex_at_joshs_99a407f3:
 translate francais amber_sex_at_joshs_d0d25ffc:
 
     # u "Nope. Ahh! but this feels so good."
-    u "Nan. Ahh ! mais ça fait tellement de bien."
+    u "Nan. Ahh ! mais c'est tellement... bon."
 
 # game/v8/scene30.rpy:156
 translate francais amber_sex_at_joshs_fc122851:
@@ -142,7 +142,7 @@ translate francais amber_sex_at_joshs_fc122851:
 translate francais amber_sex_at_joshs_919457ef:
 
     # u "Doggy?"
-    u "Levrette ?"
+    u "La levrette ?"
 
 # game/v8/scene30.rpy:164
 translate francais amber_sex_at_joshs_e64ee617:
@@ -160,7 +160,7 @@ translate francais amber_sex_at_joshs_b64fdafd:
 translate francais amber_sex_at_joshs_4691bfeb:
 
     # am "Cause you're gonna put it in the other hole."
-    am "Parce que tu vas le mettre dans l'autre trou."
+    am "Parce que tu vas la mettre dans l'autre trou."
 
 # game/v8/scene30.rpy:176
 translate francais amber_sex_at_joshs_5062cbe8:
@@ -172,13 +172,13 @@ translate francais amber_sex_at_joshs_5062cbe8:
 translate francais amber_sex_at_joshs_cf73239b:
 
     # am "Oh yes, a hundred percent. Do it. C'mon."
-    am "Oh oui, à cent pour cent. Fais-le. Allez."
+    am "Oh oui, à 100%%. Fais-le. Allez."
 
 # game/v8/scene30.rpy:181
 translate francais amber_sex_at_joshs_1eabb9b8:
 
     # am "Slide it deep in my ass. Let me feel you deep inside me."
-    am "Glisse-le au fond de mon cul. Laisse-moi te sentir au fond de moi."
+    am "Glisse-la au fond de mon cul. Laisse-moi te sentir au fond de moi."
 
 # game/v8/scene30.rpy:186
 translate francais amber_sex_at_joshs_4caf0ac3:
@@ -208,7 +208,7 @@ translate francais amber_sex_at_joshs_95ba6e4e:
 translate francais amber_sex_at_joshs_de6cb3f5:
 
     # am "But this feels sooo goood!! I'm-"
-    am "Mais ça fait teeeellement de biennnnn ! Je suis-"
+    am "Mais ça fait... Teeeellement de biennnnn ! Je suis-"
 
 # game/v8/scene30.rpy:196
 translate francais amber_sex_at_joshs_714ad948:
@@ -226,7 +226,7 @@ translate francais amber_sex_at_joshs_69829529:
 translate francais amber_sex_at_joshs_9906f9d3:
 
     # am "I'm gonna come! [name] I'm gonna come!!"
-    am "Je vais venir ! [name] Je vais venir !!!"
+    am "Je vais venir ! [name] !!! Je vais venir !!!"
 
 # game/v8/scene30.rpy:201
 translate francais amber_sex_at_joshs_9425dbfd:
@@ -336,7 +336,7 @@ translate francais v8s30_amberBlowjob_0efbe7e6:
 translate francais v8s30_amberBlowjob_f122857a:
 
     # am "*In a muffled voice* You like it?"
-    am "*Dans une voix étouffée* Tu aimes ça ?"
+    am "*Voix étouffée* Tu aimes ça ?"
 
 # game/v8/scene30.rpy:86
 translate francais v8s30_amberBlowjob_a8ef544d:
@@ -360,13 +360,13 @@ translate francais v8s30_amberBlowjob_016299f7:
 translate francais v8s30_amberBlowjob_1a387098:
 
     # am "Sit down. I want more of that cock now."
-    am "Assieds-toi. Je veux encore plus de cette bite maintenant."
+    am "Allonge-toi. Maintenant, je veux encore plus de cette bite."
 
 # game/v8/scene30.rpy:117
 translate francais v8s30_amberBlowjob_6828cb01:
 
     # u "That is a magnificent ass!"
-    u "C'est un cul magnifique !"
+    u "Tu as un cul magnifique !"
 
 # game/v8/scene30.rpy:118
 translate francais v8s30_amberBlowjob_3318c05d:
@@ -384,7 +384,7 @@ translate francais v8s30_amberCowgirl_dcd60c77:
 translate francais v8s30_amberCowgirl_bcbb5e12:
 
     # u "*Moans* Oh my God..."
-    u "*Gémis* Oh mon Dieu..."
+    u "*Gémis* Oh putain..."
 
 # game/v8/scene30.rpy:137
 translate francais v8s30_amberCowgirl_68288b6c:
@@ -420,7 +420,7 @@ translate francais v8s30_amberCowgirl_99a407f3:
 translate francais v8s30_amberCowgirl_d0d25ffc:
 
     # u "Nope. Ahh! but this feels so good."
-    u "Nan. Ahh ! mais ça fait tellement de bien."
+    u "Nan. Ahh ! mais c'est tellement bon."
 
 # game/v8/scene30.rpy:159
 translate francais v8s30_amberCowgirl_fc122851:
@@ -432,7 +432,7 @@ translate francais v8s30_amberCowgirl_fc122851:
 translate francais v8s30_amberAnal_919457ef:
 
     # u "Doggy?"
-    u "Levrette ?"
+    u "La levrette ?"
 
 # game/v8/scene30.rpy:168
 translate francais v8s30_amberAnal_e64ee617:
@@ -450,7 +450,7 @@ translate francais v8s30_amberAnal_b64fdafd:
 translate francais v8s30_amberAnal_4691bfeb:
 
     # am "Cause you're gonna put it in the other hole."
-    am "Parce que tu vas le mettre dans l'autre trou."
+    am "Parce que tu vas la mettre dans l'autre trou."
 
 # game/v8/scene30.rpy:180
 translate francais v8s30_amberAnal_5062cbe8:
@@ -462,13 +462,13 @@ translate francais v8s30_amberAnal_5062cbe8:
 translate francais v8s30_amberAnal_cf73239b:
 
     # am "Oh yes, a hundred percent. Do it. C'mon."
-    am "Oh oui, à cent pour cent. Fais-le. Allez."
+    am "Oh oui, à 100%%. Fais-le. Allez."
 
 # game/v8/scene30.rpy:185
 translate francais v8s30_amberAnal_1eabb9b8:
 
     # am "Slide it deep in my ass. Let me feel you deep inside me."
-    am "Glisse-le au fond de mon cul. Laisse-moi te sentir au fond de moi."
+    am "Glisse-la au fond de mon cul. Laisse-moi te sentir au fond de moi."
 
 # game/v8/scene30.rpy:190
 translate francais v8s30_amberAnal_4caf0ac3:
@@ -498,7 +498,7 @@ translate francais v8s30_amberAnal_95ba6e4e:
 translate francais v8s30_amberAnal_de6cb3f5:
 
     # am "But this feels sooo goood!! I'm-"
-    am "Mais ça fait teeeellement de biennnnn ! Je suis-"
+    am "Mais ça fait... Teeeellement de biennnnn ! Je suis-"
 
 # game/v8/scene30.rpy:200
 translate francais v8s30_amberAnal_714ad948:
@@ -516,7 +516,7 @@ translate francais v8s30_amberAnal_69829529:
 translate francais v8s30_amberAnal_b600fb26:
 
     # am "I'm gonna cum! [name] I'm gonna cum!!"
-    am "Je vais venir ! [name] Je vais venir !!!"
+    am "Je vais venir ! [name] !!! Je vais venir !!!"
 
 # game/v8/scene30.rpy:205
 translate francais v8s30_amberAnal_9425dbfd:
