@@ -328,13 +328,13 @@ translate francais drive_to_lake_265159ee:
 translate francais drive_to_lake_abbeb330:
 
     # ri "Well I spy with my little eye, something that starts with a letter A."
-    ri "Eh bien, j'espionne avec mon petit oeil, quelque chose qui commence par la lettre A."
+    ri "Eh bien, j'espionne avec mon petit oeil, quelque chose qui commence par la lettre D."
 
 # game/v9/scene06.rpy:298
 translate francais dtl_f_6e52cf34:
 
     # u "Is it Aubrey's bikini?"
-    u "C'est le bikini d'Aubrey ?"
+    u "C'est le Dikini d'Aubrey ?"
 
 # game/v9/scene06.rpy:303
 translate francais dtl_f_83ed02c0:

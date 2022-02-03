@@ -172,7 +172,7 @@ translate francais fr5ryan1_a07c209d:
 translate francais fr5ryan1_521df0c5:
 
     # u "By staring at the girls, right?"
-    u "En mattant les filles, non ?"
+    u "En mattant les filles, hein ?"
 
 # game/v9/scene7.rpy:270
 translate francais fr5ryan1_9379389a:
@@ -1468,7 +1468,7 @@ translate francais fr5ryan3_85cf417a:
 translate francais fr5ryan3_93013ccf:
 
     # ry "Boo Beeb (too late)."
-    ry "Boo Buuuzz (trop tard)."
+    ry "Boo Buuuzz \"trop tard\"."
 
 # game/v9/scene7.rpy:1495
 translate francais fr5ryan3_593c7aee:
