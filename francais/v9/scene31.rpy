@@ -70,7 +70,7 @@ translate francais v9_sat_cafe_w_nora_2027a26c:
 translate francais v9_sat_cafe_w_nora_3bfd1c84:
 
     # no "It's going great! We almost have everything we need. I'm thinking about seeing if we can get a bit more involvement from the houses. I mentioned it to Chris, but he only said \"we'll get to that later\". It means a lot to me that you've taken an interest."
-    no "Ça se passe très bien ! Nous avons presque tout ce dont nous avons besoin. Je pense à voir si nous pouvons obtenir un peu plus d'implication de la part des fraternités. J'en ai parlé à Chris, mais il s'est contenté de dire \"on verra plus tard\". Ça signifie beaucoup pour moi que tu t'y intéresses."
+    no "Ça se passe très bien ! Nous avons presque tout ce dont nous avons besoin. Je vais voir si nous pouvons obtenir un peu plus de soutiens de la part des fraternités. J'en ai parlé à Chris, mais il s'est contenté de dire \"on verra plus tard\". Ça signifie beaucoup pour moi que tu t'y intéresses."
 
 # game/v9/scene31.rpy:81
 translate francais v9_sat_cafe_w_nora_6208327c:
@@ -106,7 +106,7 @@ translate francais v9_sat_cafe_w_nora_8c6198f5:
 translate francais v9_sat_cafe_w_nora_44c2578a:
 
     # no "Maybe. See you around!"
-    no "Peut-être. A bientôt !"
+    no "Peut-être. À bientôt !"
 
 # game/v9/scene31.rpy:116
 translate francais v9_sat_cafe_w_nora_18647189:
@@ -124,7 +124,7 @@ translate francais v9_sat_cafe_w_nora_2027a26c_1:
 translate francais v9_sat_cafe_w_nora_76bba1c4:
 
     # no "It's going great! We almost have everything we need. I'm thinking about seeing if we can get a bit more involvement from the houses."
-    no "Ça se passe très bien ! Nous avons presque tout ce dont nous avons besoin. Je pense à voir si nous pouvons obtenir un peu plus d'implication de la part des fraternités."
+    no "Ça se passe très bien ! Nous avons presque tout ce dont nous avons besoin. Je pense à voir si nous pouvons obtenir un peu plus de soutiens de la part des fraternités."
 
 # game/v9/scene31.rpy:134
 translate francais v9_sat_cafe_w_nora_3576a6fd:
@@ -166,7 +166,7 @@ translate francais v9_sat_cafe_w_nora_8c6198f5_1:
 translate francais v9_sat_cafe_w_nora_44c2578a_1:
 
     # no "Maybe. See you around!"
-    no "Peut-être. A bientôt !"
+    no "Peut-être. À bientôt !"
 
 # game/v9/scene31.rpy:172
 translate francais v9_sat_cafe_w_nora_18647189_1:
@@ -178,7 +178,7 @@ translate francais v9_sat_cafe_w_nora_18647189_1:
 translate francais v9_sat_cafe_e37871c5:
 
     # u "(I actually can't believe how hungry I am.)"
-    u "(En fait, je n'arrive pas à croire à quel point j'ai faim.)"
+    u "(J'y crois pas, j'ai vraiment faim.)"
 
 # game/v9/scene31.rpy:188
 translate francais v9_sat_cafe_c68fb736:
@@ -268,7 +268,7 @@ translate francais strings:
 translate francais v9_sat_cafe_w_nora_92966436:
 
     # no "Do you really have to ask? We spent a lot of time together when we first started dating, but now it's like I'm second to the Wolves. And I know I shouldn't be jealous, but in a way I am. Like, if you have all this passion, love and attention to give, can some come my way?"
-    no "Tu veux vraiment en parler? On a passé beaucoup de temps ensemble quand on a commencé à sortir ensemble, mais maintenant c'est comme si je passais après les Wolves. Et je sais que je ne devrais pas être jalouse, mais d'une certaine manière je le suis. Si tu avais toute cette passion, cet amour et cette attention à donner, est-ce que tu pourrais en partager avec moi ?"
+    no "Tu veux vraiment en parler ? On a passé beaucoup de temps ensemble quand on a commencé à sortir ensemble, mais là, c'est comme si je passais après les Wolves. Je sais que je ne devrais pas être jalouse, mais d'une certaine manière je le suis. Si tu avais toute cette passion, cet amour et cette attention à donner, tu en partagerais avec moi ?"
 
 # game/v9/scene31.rpy:132
 translate francais v9_sat_cafe_w_nora_3bfd1c84_1:

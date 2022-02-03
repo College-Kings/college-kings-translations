@@ -64,7 +64,7 @@ translate francais v9_room_w_sam_c71d0861:
 translate francais v9_room_w_sam_1e32e01b:
 
     # sa "Still, it wasn't right. I had a firm talk with him after we left."
-    sa "Pourtant, ce n'était pas bien. J'ai eu une conversation ferme avec lui après notre départ."
+    sa "Pourtant, c'était pas cool. J'ai eu une conversation ferme avec lui après notre départ."
 
 # game/v9/scene22.rpy:82
 translate francais v9_room_w_sam_2245708c:
@@ -76,7 +76,7 @@ translate francais v9_room_w_sam_2245708c:
 translate francais v9_room_w_sam_d517fdcd:
 
     # sa "About as well as expected."
-    sa "A peu près aussi bien que prévu."
+    sa "À peu près aussi bien que prévu."
 
 # game/v9/scene22.rpy:92
 translate francais v9_room_w_sam_8aefe0ce:
@@ -208,7 +208,7 @@ translate francais v9_room_w_sam_cc65076c:
 translate francais v9_room_w_sam_c1e17e8f:
 
     # sa "It wasn't nothing to me. Things have been a mess lately and Cameron and I appreciate your support."
-    sa "Ce n'était pas rien pour moi. Les choses ont été difficiles ces derniers temps et Cameron et moi apprécions ton soutien."
+    sa "C'était pas rien pour moi. Les choses ont été difficiles ces derniers temps et Cameron et moi apprécions ton soutien."
 
 # game/v9/scene22.rpy:210
 translate francais v9_room_w_sam_9c1505da:

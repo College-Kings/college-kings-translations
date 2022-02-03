@@ -46,13 +46,13 @@ translate francais s17_PhoneContinueW_23ba1da1:
 translate francais s17_PhoneContinueW_5cdddfcb:
 
     # gr "Wake up, [name], Apes aren't lazy assholes. Get up. Go be productive. Oh, and I'd avoid the toilet. Cameron backed it up again."
-    gr "Réveille-toi, [name], les Apes ne sont pas des trous du cul paresseux. Lève-toi. Sois productif. Oh, et j'éviterais les toilettes, à ta place. Cameron les a encore contaminées."
+    gr "Réveille-toi, [name], les Apes ne sont pas des trous du cul paresseux. Lève-toi. Sois productif. Oh, et j'éviterais les toilettes, à ta place. Cameron les a encore contaminés."
 
 # game/v9/scene17.rpy:71
 translate francais s17_PhoneContinueW_19541c97:
 
     # u "*Drowsy* Uhh, yeah ok. I'm up, and ewww."
-    u "*Somnole* Uhh, ouais, ok. Je suis debout, et beuuuuh."
+    u "*Somnole* Uhh, ouais, ok. Je me lève et beuuuuh, j'éviterai d'y aller."
 
 # game/v9/scene17.rpy:76
 translate francais s17_PhoneContinueW_68aafa48:

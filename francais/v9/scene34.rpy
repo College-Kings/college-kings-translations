@@ -10,7 +10,7 @@ translate francais v9_ri_sex_b4c8c4cb:
 translate francais v9_ri_sex_69d3bdd0:
 
     # ri "Hi. That was fast?"
-    ri "Salut. C'était rapide !"
+    ri "Salut. T'as fait vite !"
 
 # game/v9/scene34.rpy:27
 translate francais v9_ri_sex_4b863404:

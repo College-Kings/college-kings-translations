@@ -110,7 +110,7 @@ translate francais strings:
 
     # game/v9/scene32.rpy:9
     old "I hope so ;)"
-    new "J'espère bien ;)"
+    new "Bien sûr ;)"
 
     # game/v9/scene32.rpy:10
     old "See you in a few!"

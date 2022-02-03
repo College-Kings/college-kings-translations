@@ -46,7 +46,7 @@ translate empty v10_mc_vs_imre_fight_58eefc96:
 translate empty v10_mc_vs_imre_fight_075819f2:
 
     # u "You got it."
-    u "T'as compris."
+    u "Oh que oui !"
 
 # game/v10/scene7.rpy:46
 translate empty v10_mc_vs_imre_fight_a8519fbf:

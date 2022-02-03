@@ -28,7 +28,7 @@ translate francais v9_train_w_apes_2439ae81:
 translate francais v9_train_w_apes_35233de3:
 
     # ca "I'm just whipping you punks into shape for tomorrow."
-    ca "J'suis juste venu vous mettre en forme pour demain."
+    ca "J'suis juste là pour vous mettre tous en forme pour demain."
 
 # game/v9/scene27.rpy:51
 translate francais v9_train_w_apes_0ba03659:
@@ -106,13 +106,13 @@ translate francais v9_train_w_apes_f79b4567:
 translate francais v9_train_w_apes_4c1ed076:
 
     # ca "This guy here! He's the only one of you shit stains I trust to wear our name. He's gonna pull a big crowd for the Brawl and they'll all be chanting his name. [name]{w}! [name]{w}!"
-    ca "Ce mec-là ! C'est le seul de vous, bande de merdes, à qui je fais confiance pour porter notre nom. Il va attirer une grande foule pour le Brawl et ils vont tous scander son nom. [name]{w}! [name]{w}!"
+    ca "Ce mec-là ! C'est le seul de vous, bande de merdes, à qui je fais confiance pour porter notre nom. Il va attirer une grande foule pour le Brawl et ils vont tous scander son nom. [name] !{w} [name] !{w} [name] !{w}"
 
 # game/v9/scene27.rpy:120
 translate francais v9_train_w_apes_acd9cc76:
 
     # ca "The rest of you, I don't trust for shit."
-    ca "Vous autres, je ne vous fais pas confiance."
+    ca "Vous autres, j'vous fais pas confiance."
 
 # game/v9/scene27.rpy:126
 translate francais v9_train_w_apes_781dd3fd:
@@ -196,7 +196,7 @@ translate francais v9_train_w_apes_969aa057:
 translate francais v9_train_w_apes_4be08fd5:
 
     # ca "Alright? Alright's not good enough! Let's go!"
-    ca "BIEN ? Bien, c'est pas assez bien ! Allons-y !"
+    ca "BIEN ?{w} Bien, c'est pas assez fort ! On y va !"
 
 # game/v9/scene27.rpy:201
 translate francais v9_train_w_apes_1c9d3127:

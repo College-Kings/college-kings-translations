@@ -58,7 +58,7 @@ translate francais v9_emily_dorm_77066c85:
 translate francais v9_emily_dorm_cef84ed8:
 
     # em "Boxer's high?"
-    em "Le Boxer est défoncé ?"
+    em "Le Boxer est fatigué ?"
 
 # game/v9/scene16.rpy:170
 translate francais v9_emily_dorm_5e15ed41:
@@ -730,7 +730,7 @@ translate francais v9s16_nsfwSkipLabel1_0c8f2d0e:
 translate francais v9s16_nsfwSkipLabel1_08365825:
 
     # u "You really did knock me out. I better get to my room."
-    u "Tu m'as vraiment assommé. Je ferais mieux d'aller dans ma chambre."
+    u "Tu m'as vraiment mis KO. Je ferais mieux d'aller dans ma chambre."
 
 # game/v9/scene16.rpy:805
 translate francais v9s16_nsfwSkipLabel1_d41a0781:
@@ -1014,13 +1014,13 @@ translate francais v9s16_emilyBlowjob_643fb271:
 translate francais v9s16_emilyBlowjob_84c913f8:
 
     # em "Aww, I was enjoying that."
-    em "Aww, j'ai apprécié ça."
+    em "Aww, j'ai aimé ça."
 
 # game/v9/scene16.rpy:572
 translate francais v9s16_emilyBlowjob_a259e7dd:
 
     # u "So was I... way too much!"
-    u "Moi aussi... beaucoup trop !"
+    u "Moi aussi... tellement !"
 
 # game/v9/scene16.rpy:587
 translate francais v9s16_emilyBlowjob_10801874:
@@ -1092,7 +1092,7 @@ translate francais v9s16_emilyMissionary_c6b5935a:
 translate francais v9s16_emilyMissionary_6015dc54:
 
     # u "Please do."
-    u "S'il te plaît, fais-le."
+    u "Vas-y, amuse toi."
 
 # game/v9/scene16.rpy:659
 translate francais v9s16_emilyCowgirl_25723303:

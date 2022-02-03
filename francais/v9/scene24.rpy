@@ -100,7 +100,7 @@ translate francais v9_walk_w_sam_cont1_c5b87f99:
 translate francais v9_walk_w_sam_cont1_a7022ec4:
 
     # sa "Good!"
-    sa "Bien !"
+    sa "C'est bien !"
 
 # game/v9/scene24.rpy:90
 translate francais v9_walk_w_sam_cont1_a3cffd5e:
@@ -118,7 +118,7 @@ translate francais v9_walk_w_sam_cont1_da71a6b4:
 translate francais v9_walk_w_sam_cont1_f7fac6fb:
 
     # sa "This is nice."
-    sa "C'est bien."
+    sa "C'est sympa."
 
 # game/v9/scene24.rpy:102
 translate francais v9_walk_w_sam_cont1_a83e8727:
@@ -142,7 +142,7 @@ translate francais v9_walk_w_sam_grayson_0ac8d6dd:
 translate francais v9_walk_w_sam_grayson_eb595ffe:
 
     # sa "I don't want to come out here alone, though."
-    sa "Mais je ne veux pas sortir d'ici toute seule."
+    sa "Mais je ne veux pas venir ici toute seule."
 
 # game/v9/scene24.rpy:124
 translate francais v9_walk_w_sam_grayson_9cbdfaf3:
@@ -178,7 +178,7 @@ translate francais v9_walk_w_sam_grayson_f7ef5f02:
 translate francais v9_walk_w_sam_grayson_bfed90a3:
 
     # u "I should get some cardio in since I'm training now, anyway."
-    u "Je devrais faire du cardio puisque je m'entraîne maintenant, de toute façon."
+    u "En plus, je devrais faire du cardio, puisque maintenant je m'entraîne."
 
 # game/v9/scene24.rpy:145
 translate francais v9_walk_w_sam_grayson_1a80acaa:

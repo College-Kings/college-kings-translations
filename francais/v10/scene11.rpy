@@ -864,19 +864,19 @@ translate francais v10_linds_room_64f6c450:
 translate francais v10_linds_room_dbc27e42:
 
     # li "Haha, that's true. Guess that wasn't the best reference."
-    li ""
+    li "Haha, c'est vrai. Je crois que c'était pas la meilleure référence."
 
 # game/v10/scene11.rpy:234
 translate francais v10_linds_room_417da3b3:
 
     # u "Haha, just teasing you."
-    u ""
+    u "Haha, je te taquine."
 
 # game/v10/scene11.rpy:239
 translate francais v10_linds_room_58e80ad6:
 
     # li "Haha, yeah I know I know. It does suck though because even though I'm wishing my mother was here to talk to me I already know exactly what she would say if she was."
-    li ""
+    li "Haha, ouais je sais, je sais. Mais ça craint parce que même si j'aimerais que ma mère soit là pour me parler, je sais déjà exactement ce qu'elle dirait si elle était là."
 
 # game/v10/scene11.rpy:244
 translate francais v10_linds_room_a49f20aa_1:

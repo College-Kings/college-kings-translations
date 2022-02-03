@@ -46,7 +46,7 @@ translate francais v9_call_w_lindsey_809d40cf:
 translate francais v9_call_w_lindsey_707111c7:
 
     # u "\"Freshmeat\", please say that's something you just came up with and not something people are calling me."
-    u "\"Viande fraîche\", s'il te plaît, dis-moi que c'est un truc que tu viens d'inventer et pas un nom que les gens me donnent."
+    u "\"Viande fraîche\" ? S'il te plaît, dis-moi que c'est un truc que tu viens d'inventer et pas un nom que les gens me donnent."
 
 # game/v9/scene28.rpy:54
 translate francais v9_call_w_lindsey_521f2093:
@@ -88,7 +88,7 @@ translate francais v9_call_w_lindsey_ff298235:
 translate francais v9_call_w_lindsey_f8b84bf1:
 
     # li "I like where your head is at. Just don't go acting a fool and getting yourself hurt."
-    li "J'aime bien où tu as la tête. Mais ne fais pas l'idiot et ne te blesse pas."
+    li "J'aime bien voir que tu gardes la tête froide. Mais ne fais pas l'idiot et ne te blesse pas."
 
 # game/v9/scene28.rpy:79
 translate francais v9_call_w_lindsey_ea125876:
@@ -112,7 +112,7 @@ translate francais v9_call_w_lindsey_81e9007d:
 translate francais v9_call_w_lindsey_831ff80d:
 
     # li "Someone's looking to feel special before his big day I see."
-    li "Quelqu'un qui cherche à se sentir spécial avant son grand jour, je vois."
+    li "Quelqu'un cherche à se sentir spécial avant son grand jour, hein ? Je vois."
 
 # game/v9/scene28.rpy:95
 translate francais v9_call_w_lindsey_befdb319:
@@ -154,7 +154,7 @@ translate francais v9_call_w_lindsey_5788969f:
 translate francais v9_call_w_lindsey_9443a35c:
 
     # u "(Was she hinting at something? \"I could be even sweeter\", what does that mean? Oh well, time to get some rest. I got a big day tomorrow.)"
-    u "(A-t-elle fait allusion à quelque chose ? \"Je pourrais être encore plus gentille\", qu'est-ce que ça veut dire ? Oh bien, il est temps de se reposer. J'ai une grosse journée demain.)"
+    u "(A-t-elle fait allusion à quelque chose ? \"Je pourrais être encore plus gentille\", qu'est-ce que ça veut dire ? Bon, il est temps de se reposer. J'ai une grosse journée demain.)"
 
 # game/v9/scene28.rpy:143
 translate francais v9_call_w_lindsey_71fbada3_1:
@@ -202,7 +202,7 @@ translate francais v9_call_w_lindsey_809d40cf_1:
 translate francais v9_call_w_lindsey_707111c7_1:
 
     # u "\"Freshmeat\", please say that's something you just came up with and not something people are calling me."
-    u "\"Viande fraîche\", s'il te plaît, dis-moi que c'est un truc que tu viens d'inventer et pas un nom que les gens me donnent."
+    u "\"Viande fraîche\" ? s'il te plaît, dis-moi que c'est un truc que tu viens d'inventer et pas un nom que les gens me donnent."
 
 # game/v9/scene28.rpy:184
 translate francais v9_call_w_lindsey_4add2e92:
@@ -232,7 +232,7 @@ translate francais v9_call_w_lindsey_ff298235_1:
 translate francais v9_call_w_lindsey_f8b84bf1_1:
 
     # li "I like where your head is at. Just don't go acting a fool and getting yourself hurt."
-    li "J'aime bien où tu as la tête. Mais ne fais pas l'idiot et ne te blesse pas."
+    li "J'aime bien voir que tu gardes la tête froide. Mais ne fais pas l'idiot et ne te blesse pas."
 
 # game/v9/scene28.rpy:206
 translate francais v9_call_w_lindsey_ea125876_1:
@@ -256,7 +256,7 @@ translate francais v9_call_w_lindsey_81e9007d_1:
 translate francais v9_call_w_lindsey_831ff80d_1:
 
     # li "Someone's looking to feel special before his big day I see."
-    li "Quelqu'un qui cherche à se sentir spécial avant son grand jour, je vois."
+    li "Quelqu'un cherche à se sentir spécial avant son grand jour ? Je vois."
 
 # game/v9/scene28.rpy:222
 translate francais v9_call_w_lindsey_befdb319_1:
@@ -298,7 +298,7 @@ translate francais v9_call_w_lindsey_5788969f_1:
 translate francais v9_call_w_lindsey_9443a35c_1:
 
     # u "(Was she hinting at something? \"I could be even sweeter\", what does that mean? Oh well, time to get some rest. I got a big day tomorrow.)"
-    u "(A-t-elle fait allusion à quelque chose ? \"Je pourrais être encore plus gentille\", qu'est-ce que ça veut dire ? Oh bien, il est temps de se reposer. J'ai une grosse journée demain.)"
+    u "(A-t-elle fait allusion à quelque chose ? \"Je pourrais être encore plus gentille\", qu'est-ce que ça veut dire ? Bon, il est temps de se reposer. J'ai une grosse journée demain.)"
 # TODO: Translation updated at 2022-01-18 10:42
 
 # game/v9/scene28.rpy:56

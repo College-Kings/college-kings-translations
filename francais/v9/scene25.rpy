@@ -4,7 +4,7 @@
 translate francais v9_room_fri_eve_303d2d04:
 
     # u "(I wonder how much Mr. Lee expects us to remember from everyone else's Viking scenes. I was too busy looking at the costumes to pay attention.)"
-    u "(Je me demande à combien Mr Lee s'attend, à ce que nous nous souvenions des scènes de Vikings des autres. J'étais trop occupé à regarder les costumes pour y prêter attention.)"
+    u "(Je me demande à quoi s'attend Mr Lee, sur le fait que nous nous souvenions des scènes de Vikings des autres. J'étais trop occupé à regarder les costumes pour y prêter attention.)"
 
 # game/v9/scene25.rpy:18
 translate francais v9_room_fri_eve_5ef4f2a2:
