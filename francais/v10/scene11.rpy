@@ -666,7 +666,7 @@ translate francais v10_linds_room_807bca7e:
 translate francais v10_linds_room_dd152863:
 
     # u "Don't get me wrong, it wasn't all that bad."
-    u ""
+    u "Ne te méprends pas, c'était pas si mal."
 
 # game/v10/scene11.rpy:80
 translate francais v10_linds_room_30ddb89d:
