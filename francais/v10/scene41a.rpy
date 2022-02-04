@@ -16,7 +16,7 @@ translate francais v10_waking_up_end_cc538add:
 translate francais v10_waking_up_end_b342547f_1:
 
     # u "(OH FUCK WHAT TIME IS IT?)"
-    u "(OH FUCK WHAT TIME IS IT?)"
+    u "(OH PUTAIN QUELLE HEURE EST-IL ?)"
 
 # game/v10/scene41a.rpy:67
 translate francais v10_waking_up_end_cc538add_1:
