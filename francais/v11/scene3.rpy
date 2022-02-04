@@ -46,7 +46,7 @@ translate francais v11_samantha_packing_2d8b8168:
 translate francais v11_samantha_packing_79c03dd3:
 
     # sa "Wait what? No one told me about some kind of trip. How long are you going to be gone?"
-    sa "Attends quoi ? Personne ne m'a parlé d'une sorte de voyage. Combien de temps allez-vous partir ?"
+    sa "Attends quoi ? Personne ne m'a parlé de ce voyage. Combien de temps allez-vous partir ?"
 
 # game/v11/scene3.rpy:67
 translate francais v11_samantha_packing_f7c1ae25:
@@ -58,7 +58,7 @@ translate francais v11_samantha_packing_f7c1ae25:
 translate francais v11_samantha_packing_205b4e6a:
 
     # sa "I assume I'm just gonna be here all by myself then. I'm sure Cameron and the whole monkey gang are going."
-    sa "J'imagine que je vais rester ici toute seule alors. Je suis sûr que Cameron et toute la bande des Apes y vont."
+    sa "J'imagine que je vais rester ici toute seule alors. Je suis sûre que Cameron et toute la bande des Apes y vont."
 
 # game/v11/scene3.rpy:77
 translate francais v11_samantha_packing_d527fcfb:
@@ -76,13 +76,13 @@ translate francais v11_samantha_packing_c3531682:
 translate francais v11_samantha_packing_8b2277f2:
 
     # u "I thought everyone knew."
-    u "Je pensais que tout le monde savait."
+    u "Je pensais que tout le monde le savait."
 
 # game/v11/scene3.rpy:92
 translate francais v11_samantha_packing_c73e3ee2:
 
     # sa "You know I don't pay attention to any of that stuff. I'm a little surprised you didn't tell me. You're gonna be gone for who knows how long and I'm stuck here with no one to talk to."
-    sa "Tu sais que je ne fais pas attention à ces choses-là. Je suis un peu surprise que tu ne me l'aies pas dit. Tu vas être parti pour on ne sait combien de temps et je suis coincée ici avec personne à qui parler."
+    sa "Tu sais que je ne fais pas attention à ces choses-là. Je suis un peu surprise que tu ne me l'aies pas dit. Tu vas être parti pour on ne sait combien de temps et je serais coincée ici avec personne à qui parler."
 
 # game/v11/scene3.rpy:97
 translate francais v11_samantha_packing_5579bf34:
@@ -280,7 +280,7 @@ translate francais v11_samantha_packing_445ad3a0:
 translate francais v11_samantha_packing_4d38db99:
 
     # u "I'm sorry, I thought everyone knew. I would've invited you if I knew you didn't know, it's kinda late now. Like I said before, we leave Saturday morning."
-    u "Je suis désolé, je pensais que tout le monde savait. Je t'aurais invité si j'avais su que tu ne savais pas, c'est un peu tard maintenant. Comme je l'ai déjà dit, on part samedi matin."
+    u "Je suis désolé, je pensais que tout le monde le savait. Je t'aurais invité si j'avais su que tu ne savais pas, c'est un peu tard maintenant. Comme je l'ai déjà dit, on part samedi matin."
 
 # game/v11/scene3.rpy:280
 translate francais v11_samantha_packing_11d2efac:
