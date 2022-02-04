@@ -724,7 +724,7 @@ translate francais strings:
 
     # game/v11/scene34.rpy:290
     old "Talk about \"us\""
-    new "Parler de \"nous\"."
+    new "Parler de \"nous\""
 
     # game/v11/scene34.rpy:290
     old "Talk about cars"

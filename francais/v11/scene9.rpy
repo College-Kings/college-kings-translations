@@ -94,7 +94,7 @@ translate francais v11_apes_manhunt_852175cf:
 translate francais v11_apes_manhunt_a8030853:
 
     # gr "You will run, you will hide. If either of us catch you, we will body slam the fuck out of you. The last person standing is the winner."
-    gr ""
+    gr "Vous allez courir, vous allez vous cacher. Si l'un d'entre nous vous attrape, nous vous mettrons une raclée. Le dernier debout est le gagnant."
 
 # game/v11/scene9.rpy:119
 translate francais v11_apes_manhunt_9c8893ae:

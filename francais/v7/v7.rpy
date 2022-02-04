@@ -20993,7 +20993,7 @@ translate francais strings:
 
     # game/v7/v7.rpy:3249
     old "You're cute"
-    new ""
+    new "Tu es mignonne"
 
     # game/v7/v7.rpy:3249
     old "I won't"

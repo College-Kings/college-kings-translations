@@ -1142,7 +1142,7 @@ translate francais strings:
 
     # game/v11/scene39.rpy:831
     old "Sharp turn"
-    new ""
+    new "Virage serré"
 
     # game/v11/scene39.rpy:831
     old "Steady"

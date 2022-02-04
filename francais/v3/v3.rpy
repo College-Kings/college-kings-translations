@@ -2170,7 +2170,7 @@ translate francais amiss_69b49d53:
 translate francais amiss_9ea2f78c:
 
     # " "
-    ""
+    " "
 
 # game/v3/v3.rpy:2327
 translate francais amiss_2ef60271:

@@ -888,7 +888,7 @@ translate francais strings:
 
     # game/v11/scene28a.rpy:660
     old "Didn't do drugs"
-    new ""
+    new "N'a pas pris de drogue"
 
     # game/v11/scene28a.rpy:679
     old "Her father"

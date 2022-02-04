@@ -568,7 +568,7 @@ translate francais strings:
 
     # game/v11/scene9a.rpy:204
     old "Someone's got \"balls\""
-    new "Quelqu'un a les \"boules\"."
+    new "Quelqu'un a les \"boules\""
 
     # game/v11/scene9a.rpy:497
     old "I wonder how this happened..."

@@ -358,7 +358,7 @@ translate francais v11_start_0e086b11:
 translate francais v11_start_4b882aaa:
 
     # u "I met Penelope at the beginning of the semester right outside the cafe on Stevenson Street, since then we have seen each other a few times."
-    u "J'ai rencontré Pénélope au début du semestre, juste devant le café de la rue Stevenson, et depuis, nous nous sommes vues plusieurs fois."
+    u "J'ai rencontré Pénélope au début du semestre, juste devant le café de la rue Stevenson, et depuis, nous nous sommes vus plusieurs fois."
 
 # game/v11/scene1.rpy:347
 translate francais v11_start_9578c13e:
@@ -526,7 +526,7 @@ translate francais v11_start_a4d768c8:
 translate francais v11_start_7a104825:
 
     # u "Wait."
-    u "Attends."
+    u "Excusez-moi."
 
 # game/v11/scene1.rpy:481
 translate francais v11_start_85efff4c:
@@ -784,7 +784,7 @@ translate francais v11_start_3c67141d:
 translate francais v11_start_621c3aae:
 
     # pe "I think I'm gonna be sick. Oh god..."
-    pe "Je pense que je vais être malade. Oh mon dieu..."
+    pe "Je crois que je vais être malade. Oh mon dieu..."
 
 # game/v11/scene1.rpy:728
 translate francais v11_start_99ea67ce:
@@ -1054,7 +1054,7 @@ translate francais v11s1_jenny_e4c2ef1a:
 translate francais v11s1_jenny_f38e9dc7:
 
     # u "Yeah, that man is an actual creep. You should probably stay as far away from him as possible."
-    u "Ouais, cet homme est vraiment un sale type. Tu devrais probablement rester aussi loin de lui que possible."
+    u "Ouais, cet homme est vraiment un sale type. Tu devrais rester aussi loin de lui que possible."
 
 # game/v11/scene1.rpy:1001
 translate francais v11s1_jenny_4c005921:
@@ -1126,13 +1126,13 @@ translate francais v11_case_verdict_cef2311a:
 translate francais v11_case_verdict_438d2f89:
 
     # lee "Based on testimony, it's clear that you are a loyal and caring friend. Sadly, in this case your loyalty resulted in a poor decision."
-    lee "D'après le témoignage, il est clair que vous êtes un ami loyal et attentionné. Malheureusement, dans ce cas, votre loyauté a abouti à une mauvaise décision."
+    lee "D'après les témoignages, il est clair que vous êtes une amie loyale et attentionnée. Malheureusement, dans ce cas, votre loyauté a abouti à une mauvaise décision."
 
 # game/v11/scene1.rpy:1084
 translate francais v11_case_verdict_43fd8cf8:
 
     # lee "We must make it clear that this is a civil case at this point, charges will not be pressed unless you choose not to comply with the school's agreed upon discipline."
-    lee "Nous devons préciser qu'il s'agit d'une affaire civile à ce stade, et que des poursuites ne seront pas engagées à moins que vous ne choisissiez de ne pas respecter la discipline convenue avec l'école."
+    lee "Nous devons préciser qu'il s'agit d'une affaire civile à ce stade et que des poursuites ne seront pas engagées, à moins que vous ne choisissiez de ne pas respecter la discipline convenue avec l'école."
 
 # game/v11/scene1.rpy:1089
 translate francais v11_case_verdict_082b660e:
@@ -1150,7 +1150,7 @@ translate francais v11_case_verdict_7bdd5aac:
 translate francais v11_case_verdict_0f445de0:
 
     # lee "As punishment for the actions taken, you will be subject to attend this year's abroad trip to Europe. While attending, you will serve as an Assistant Chaperone and help with all the chaperones may need."
-    lee "En guise de punition pour les actions entreprises, vous serez soumis à la participation au voyage à l'étranger de cette année en Europe. Pendant votre séjour, vous serez assistant chaperon et vous aiderez les chaperons dans tous leurs besoins."
+    lee "En guise de punition pour les actions entreprises, vous serez soumis à la participation au voyage à l'étranger de cette année en Europe. Pendant votre séjour, vous serez assistante chaperon et vous aiderez les chaperons dans tous leurs besoins."
 
 # game/v11/scene1.rpy:1098
 translate francais v11_case_verdict_d50b276e:
@@ -1180,13 +1180,13 @@ translate francais v11_case_verdict_6d0a13b6:
 translate francais v11_case_verdict_e9055a70:
 
     # de "Since Mr. Lee is a primary chaperone on this trip he will oversee everything from here."
-    de "Puisque Mr Lee est le chaperon principal de ce voyage, il supervisera tout d'ici."
+    de "Puisque Mr Lee est le chaperon principal de ce voyage, il supervisera tout."
 
 # game/v11/scene1.rpy:1121
 translate francais v11_case_verdict_b65c5b5f:
 
     # de "The school considers this matter closed. If you'll excuse me I have some important things to attend to. You may leave."
-    de "L'école considère que cette affaire est close. Si vous voulez bien m'excuser, j'ai des choses importantes à faire. Vous pouvez partir."
+    de "L'école considère que cette affaire est close. Maintenant, si vous voulez bien m'excuser, j'ai des choses importantes à faire. Vous pouvez partir."
 
 # game/v11/scene1.rpy:1131
 translate francais v11_case_verdict_96133da5:
@@ -1312,7 +1312,7 @@ translate francais v11_case_verdict_534d9daa:
 translate francais v11_case_verdict_1872c886:
 
     # de "For your actions committed, a fine in the amount of $15,000 will be owed prior to you continuing as a student next semester. Do you understand these terms?"
-    de "Pour les actions que vous avez commises, une amende d'un montant de 15 000 $ sera due avant que vous ne puissiez continuer à être étudiant au prochain semestre. Comprenez-vous ces termes ?"
+    de "Pour les actions que vous avez commises, une amende d'un montant de 15 000 $ sera due avant que vous ne puissiez continuer à étudier au prochain semestre. Comprenez-vous ces termes ?"
 
 # game/v11/scene1.rpy:1243
 translate francais v11_case_verdict_adeed38b:
@@ -1416,7 +1416,7 @@ translate francais strings:
 
     # game/v11/scene1.rpy:1303
     old "Thanks for doing the event Autumn!"
-    new "Merci de faire cet événement Automne !"
+    new "Merci de faire cet événement Autumn !"
 # TODO: Translation updated at 2022-01-18 10:42
 
 # game/v11/scene1.rpy:1117
