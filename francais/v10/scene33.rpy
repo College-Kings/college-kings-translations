@@ -22,7 +22,7 @@ translate francais v10s33_autumn1_69da2448:
 translate francais v10s33_autumn1_17266218:
 
     # u "Did everything go as planned?"
-    u "Tout s'est-il passé comme prévu ?"
+    u "Tout s'est passé comme prévu ?"
 
 # game/v10/scene33.rpy:49
 translate francais v10s33_autumn1_85096394:
@@ -46,7 +46,7 @@ translate francais v10s33_autumn1_9772c9e0:
 translate francais v10s33_autumn1_b16f766f:
 
     # aut "Not if I want to keep it that way. Best if I just push through and relax when it's all over."
-    aut "Pas si je veux que ça reste comme ça. C'est préférable si je vais jusqu'au bout et que je me détende quand tout sera fini."
+    aut "Pas si je veux que ça reste comme ça. C'est préférable que j'aille jusqu'au bout et que je me détende enfin, quand tout sera fini."
 
 # game/v10/scene33.rpy:65
 translate francais v10s33_autumn1_7a38161b:
@@ -1324,7 +1324,7 @@ translate francais v10s33_deergirl31_501229d4:
 translate francais v10s33_deergirl31_b067ff47:
 
     # dg3 "I don't think you understand, I'm really lonely. No guys ever talk to me."
-    dg3 "Je ne croispas que tu as compris, je me sens vraiment seule. Aucun mec ne me parle jamais."
+    dg3 "Je ne crois pas que tu aies compris, je me sens vraiment seule. Aucun mec ne me parle jamais."
 
 # game/v10/scene33.rpy:1436
 translate francais v10s33_deergirl31_ca37a50b:
@@ -1966,7 +1966,7 @@ translate francais v10s33_lindsey1_daf6b737:
 translate francais v10s33_lindsey1_04291ee0:
 
     # u "On it."
-    u "Je suis dessus."
+    u "Je m'en charge."
 
 # game/v10/scene33.rpy:2038
 translate francais v10s33_lindsey1_3dff74e2:
@@ -2770,7 +2770,7 @@ translate francais v10s33_riley2_75fdad63:
 translate francais v10s33_riley2_ae146556:
 
     # guyd "A little seductive for a dance battle though. Shouldn't it be a more upbeat song?"
-    guyd "Un peu trop de charme pour une bataille de danse, je trouve. Une chanson plus rythmée ne serait-elle pas plus adaptée ?"
+    guyd "Un peu trop de charme pour un concours de danse, je trouve. Une chanson plus rythmée ne serait-elle pas plus adaptée ?"
 
 # game/v10/scene33.rpy:2747
 translate francais v10s33_riley2_e5a5000e:
@@ -2914,7 +2914,7 @@ translate francais v10s33_riley2_7cf330db:
 translate francais v10s33_riley2_28d7d1d4:
 
     # au "*Laughs* I'm just messing with you."
-    au "*Rire* Je me moque juste de toi."
+    au "*Rire* Je me moque de toi."
 
 # game/v10/scene33.rpy:2979
 translate francais v10s33_riley2_919b2baa:
@@ -3214,7 +3214,7 @@ translate francais v10s33_chris1_fecdd0f1:
 translate francais v10s33_chris1_d01be624:
 
     # u "Okay, I'ma check out some other stations. I'll see you guys around."
-    u "Ok, je vais aller voir d'autres stands. A plus tard, les gars."
+    u "Ok, je vais aller voir d'autres stands. À plus tard, les gars."
 
 # game/v10/scene33.rpy:3324
 translate francais v10s33_chris1_53e36c16:
@@ -3568,7 +3568,7 @@ translate francais v10s33_ryan1_27055854:
 translate francais v10s33_ryan1_fa664e9a:
 
     # ry "I just thought... nevermind. I get it. Later man."
-    ry "Je pensais juste... Laisse tomber. J'ai compris. A plus tard, mec."
+    ry "Je pensais juste... Laisse tomber. J'ai compris. À plus tard, mec."
 
 # game/v10/scene33.rpy:3665
 translate francais v10s33_toiletryan1_dd1ad9ea:
@@ -3604,7 +3604,7 @@ translate francais v10s33_toiletryan1_dc2af62b:
 translate francais v10s33_toiletryan1_fbf383dd:
 
     # ry "I'm good man, honestly I just want to be left alone."
-    ry "Je vais bien, honnêtement, je veux juste qu'on me laisse tranquille."
+    ry "Je vais bien, sérieusement, je veux juste qu'on me laisse tranquille."
 
 # game/v10/scene33.rpy:3689
 translate francais v10s33_toiletryan1_0a99e52c:
@@ -3808,7 +3808,7 @@ translate francais v10s33_emily1_50d25a47:
 translate francais v10s33_emily1_9d9b88c8:
 
     # em "See you around then, wish me luck."
-    em "A plus tard, souhaite-moi bonne chance."
+    em "À plus tard, souhaite-moi bonne chance."
 
 # game/v10/scene33.rpy:3864
 translate francais v10s33_emily1_590c9e16:

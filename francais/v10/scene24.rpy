@@ -244,7 +244,7 @@ translate francais v10_lauren_room_sg_b349012f:
 translate francais v10_lauren_room_sg_800a43ac:
 
     # u "Oh no, you're too strong, I give up. *Laughs*"
-    u "Oh non, tu es trop fort, j'abandonne. *Rire*"
+    u "Oh non, tu es trop forte, j'abandonne. *Rire*"
 
 # game/v10/scene24.rpy:244
 translate francais v10_lauren_room_sg_6d1b6cf7:
@@ -592,7 +592,7 @@ translate francais v10s24_nsfwSkipLabel1_2184b9c9:
 translate francais v10s24_nsfwSkipLabel1_bd634b06:
 
     # u "Oh shit, of course. I'm on my way right now."
-    u "Oh merde, bien sûr. Je suis sur le point d'arriver."
+    u "Oh merde, bien sûr. J'arrive tout de suite."
 
 # game/v10/scene24.rpy:581
 translate francais v10s24_nsfwSkipLabel1_283994eb:

@@ -316,7 +316,7 @@ translate francais v10_cafe_w_jenny_fcf3068f:
 translate francais v10_cafe_w_jenny_fcfea652:
 
     # u "Hello?"
-    u "Bonjour ?"
+    u "Allo ?"
 
 # game/v10/scene22.rpy:258
 translate francais v10_cafe_w_jenny_242cb566:
@@ -352,7 +352,7 @@ translate francais v10_cafe_w_jenny_5582e834:
 translate francais v10_cafe_w_jenny_7cbc76d9:
 
     # u "Yes?"
-    u "Oui ?"
+    u "Alors ?"
 
 # game/v10/scene22.rpy:288
 translate francais v10_cafe_w_jenny_2c85a5ac:
@@ -514,7 +514,7 @@ translate francais v10_cafe_w_jenny_5440f44b:
 translate francais v10_cafe_w_jenny_f0ee2904:
 
     # jen "Oh my god, she's probably feeling horrible right now. I need to call her right-"
-    jen "Oh merde, elle doit se sentir mal en ce moment. Je dois l'appeler tout de suite..."
+    jen "Oh merde, elle doit se sentir mal, là. Je dois l'appeler tout de suite..."
 
 # game/v10/scene22.rpy:428
 translate francais v10_cafe_w_jenny_f00e5943:

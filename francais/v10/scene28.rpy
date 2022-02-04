@@ -40,13 +40,13 @@ translate francais v10_talk_nora_0cfdb27e:
 translate francais v10_talk_nora_8f8205cc:
 
     # no "I'm really looking forward to this trip and I don't want... \"us\" ruining it."
-    no "J'ai vraiment hâte de faire ce voyage et je ne veux pas... \"le\" bousiller."
+    no "J'ai vraiment hâte de faire ce voyage et je ne veux pas... \"Qu'il\" nous le bousille."
 
 # game/v10/scene28.rpy:41
 translate francais v10_talk_nora_c61ffb3a:
 
     # u "Well I'll be there to make sure it's fun. *Chuckles* Where are we all going?"
-    u "Je serai là pour m'assurer que c'est amusant. *Rire* Où allons-nous tous ?"
+    u "Je serai là pour m'assurer que ce voyage soit amusant. *Rire* Où allons-nous tous ?"
 
 # game/v10/scene28.rpy:46
 translate francais v10_talk_nora_a15876ed:
@@ -58,13 +58,13 @@ translate francais v10_talk_nora_a15876ed:
 translate francais v10_talk_nora_0eca355e:
 
     # u "I'm sure we will."
-    u "Je suis sûr qu'on le fera."
+    u "Je suis sûr qu'on y arrivera."
 
 # game/v10/scene28.rpy:61
 translate francais v10_talk_nora_2a10172b:
 
     # no "I've always dreamed of living in London. When I was little I was always fascinated with the Queen. I even thought I could be the Queen one day."
-    no "J'ai toujours rêvé de vivre à Londres. Quand j'étais petite, j'étais toujours fascinée par la Reine. J'ai même pensé que je pourrais être la Reine un jour."
+    no "J'ai toujours rêvé de vivre à Londres. Quand j'étais petite, j'étais toujours fascinée par la Reine. J'ai même rêvé que je pourrais être la Reine un jour."
 
 # game/v10/scene28.rpy:66
 translate francais v10_talk_nora_84952d7a:

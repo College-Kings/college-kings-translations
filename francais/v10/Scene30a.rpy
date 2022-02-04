@@ -4,7 +4,7 @@
 translate francais v10_emily_course_c30e3e49:
 
     # u "(I should probably just get straight to studying. Getting a headstart on some of that Econ work might be a good idea.)"
-    u "(Je devrais probablement me mettre directement à étudier. Prendre de l'avance sur certains de ces travaux d'économie pourrait être une bonne idée)."
+    u "(Je devrais me mettre directement à étudier. Prendre de l'avance sur certains de ces travaux d'économie pourrait être une bonne idée)."
 
 # game/v10/Scene30a.rpy:24
 translate francais v10_emily_course_329478eb:
@@ -76,7 +76,7 @@ translate francais v10_emily_course_0455fffc:
 translate francais v10_emily_course_f46ccc4f:
 
     # jer "Emily we're ready to get going again."
-    jer "Emily, nous sommes prêts à recommencer."
+    jer "Emily, nous sommes prêts à reprendre."
 
 # game/v10/Scene30a.rpy:85
 translate francais v10_emily_course_06f884c8:
@@ -88,7 +88,7 @@ translate francais v10_emily_course_06f884c8:
 translate francais v10_emily_course_1693edc0:
 
     # u "I'm sure I could try it out."
-    u "Je pourrais sûrement essayer."
+    u "Je pourrais essayer."
 
 # game/v10/Scene30a.rpy:102
 translate francais v10_emily_course_5c4fc9eb:
@@ -178,7 +178,7 @@ translate francais v10_emily_course_c76955fe:
 translate francais v10_emily_course_5dc2a97f:
 
     # u "Yeah, I could be down."
-    u "Ouais, je pourrais être là."
+    u "Oui, je pourrais être à terre."
 
 # game/v10/Scene30a.rpy:186
 translate francais v10_emily_course_16ce9480:
@@ -328,7 +328,7 @@ translate francais v10_emily_course_9a37640e:
 translate francais v10_emily_course_f46ccc4f_1:
 
     # jer "Emily we're ready to get going again."
-    jer "Emily, nous sommes prêts à recommencer."
+    jer "Emily, nous sommes prêts à reprendre."
 
 # game/v10/Scene30a.rpy:311
 translate francais v10_emily_course_06f884c8_1:
@@ -340,7 +340,7 @@ translate francais v10_emily_course_06f884c8_1:
 translate francais v10_emily_course_1693edc0_1:
 
     # u "I'm sure I could try it out."
-    u "Je pourrais sûrement essayer."
+    u "Je pourrais essayer."
 
 # game/v10/Scene30a.rpy:328
 translate francais v10_emily_course_5c4fc9eb_1:

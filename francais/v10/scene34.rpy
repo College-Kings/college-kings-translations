@@ -34,7 +34,7 @@ translate francais v10_autumn_announcement_a3b890ae:
 translate francais v10_autumn_announcement_cfeb8a03:
 
     # dg3 "Yeah, cheers for Autumn!"
-    dg3 "Oui, acclamations pour l'automne !"
+    dg3 "Oui, acclamations pour Autumn !"
 
 # game/v10/scene34.rpy:42
 translate francais v10_autumn_announcement_2ab25860:

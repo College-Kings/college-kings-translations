@@ -22,7 +22,7 @@ translate francais v10_aft_walk_home_da65f39e:
 translate francais v10_aft_walk_home_e7bc2cf5:
 
     # jo "Hey [name]! Surprised to see you up this early, must've had a really boring night."
-    jo "Hey [name] ! Surpris de te voir debout si tôt, tu as dû passer une nuit vraiment ennuyeuse."
+    jo "Hey [name] ! Surpris de te voir debout si tôt, tu as dû passer une nuit vraiment chiante."
 
 # game/v10/scene23.rpy:47
 translate francais v10_aft_walk_home_ba85d758:
@@ -76,7 +76,7 @@ translate francais v10_aft_walk_home_5c51c7d1:
 translate francais v10_aft_walk_home_b3ed231b:
 
     # jo "Trust me, you have nothing to worry about. That definitely taught me a lesson I won't forget. *Smiles* I'm being smart."
-    jo "Crois-moi, tu n'as pas à t'inquiéter. Cela m'a définitivement donné une leçon que je n'oublierai pas. *Sourire* Je suis intelligent."
+    jo "Crois-moi, tu n'as pas à t'inquiéter. Ça m'a définitivement donné une leçon que je n'oublierai pas. *Sourire* Je suis intelligent."
 
 # game/v10/scene23.rpy:97
 translate francais v10_aft_walk_home_f6321c49:
@@ -118,7 +118,7 @@ translate francais v10_aft_walk_home_6208ed29:
 translate francais v10_aft_walk_home_96f311db:
 
     # u "What?! I thought-"
-    u "Quoi ? ! Je pensais-"
+    u "Quoi ?! Je pensais-"
 
 # game/v10/scene23.rpy:132
 translate francais v10_aft_walk_home_87a01241:
@@ -196,7 +196,7 @@ translate francais v10_aft_walk_home_7076ec46:
 translate francais v10_aft_walk_home_48e2665d:
 
     # jo "Haha, yeah probably a good idea."
-    jo "Haha, ouais, probablement une bonne idée."
+    jo "Haha, ouais, c'est une bonne idée."
 
 # game/v10/scene23.rpy:187
 translate francais v10_aft_walk_home_318c3c07:
@@ -304,7 +304,7 @@ translate francais v10s23_phoneCheckLau_823cfb9c:
 translate francais v10s23_phoneCheckLau_aeb4c1c4:
 
     # u "(Guess I'm not going home.)"
-    u "(Je pense que je ne vais pas rentrer chez moi.)"
+    u "(Je crois finalement que je ne vais pas rentrer chez moi.)"
 
 translate francais strings:
 

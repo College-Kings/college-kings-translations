@@ -76,7 +76,7 @@ translate francais v10_sam_kitchen_46b7f17f:
 translate francais v10_sam_kitchen_5fce13a3:
 
     # sa "Scared of a little drink? You're not gonna make me drink all by myself are you?"
-    sa "Tu as peur d'un petit verre ? Tu ne vas pas me faire boire toute seule, n'est-ce pas ?"
+    sa "Tu as peur d'un petit verre ? Tu ne vas pas me laisser boire toute seule, n'est-ce pas ?"
 
 # game/v10/scene25a.rpy:98
 translate francais v10_sam_kitchen_ae35a0ed:
@@ -166,7 +166,7 @@ translate francais v10_sam_kitchen_a4f03409:
 translate francais v10_sam_kitchen_7660f973:
 
     # u "No, I was uhm... doing things, you know. Not girl related things."
-    u "Non, j'étais hum... en train de faire des choses, tu sais. Pas des trucs de filles."
+    u "Non, j'étais hum... en train de faire des choses, tu sais. Pas des \"trucs de filles\"."
 
 # game/v10/scene25a.rpy:195
 translate francais v10_sam_kitchen_34a69ab6:

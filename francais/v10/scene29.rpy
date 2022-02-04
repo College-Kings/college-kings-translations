@@ -268,7 +268,7 @@ translate francais v10_chloe_hallway_5f5444ac:
 translate francais v10_chloe_hallway_c6ae7725:
 
     # cl "Please, that's how I like it."
-    cl "S'il te plaît, c'est comme ça que je l'aime."
+    cl "Vas-y, c'est comme ça que je préfère."
 
 # game/v10/scene29.rpy:302
 translate francais v10_chloe_hallway_523b8ead:

@@ -16,13 +16,13 @@ translate francais v10_chloe_gym_1d4102b7:
 translate francais v10_chloe_gym_683a78ac:
 
     # u "Lose?"
-    u "Perdre "
+    u "Perdre ? Je ne connais pas ce mot."
 
 # game/v10/scene30.rpy:32
 translate francais v10_chloe_gym_363ed93e:
 
     # cl "It's been quite a minute since we played, I've been practicing, but I doubt you have. *Chuckles*"
-    cl "Cela fait quelques temps que nous n'avons pas joué, je me suis entraînée, mais je doute que tu l'aies fait. *Rire*"
+    cl "Ça fait quelques temps que nous n'avons pas joué, je me suis entraînée, mais je doute que tu l'aies fait. *Rire*"
 
 # game/v10/scene30.rpy:37
 translate francais v10_chloe_gym_a7510dd0:
@@ -64,7 +64,7 @@ translate francais v10_chloe_gym_17d88efa:
 translate francais v10_chloe_gym_13174568:
 
     # cl "Okay, stop cheating!"
-    cl "Ok, arrête de tricher !"
+    cl "Ok, ne triche pas !"
 
 # game/v10/scene30.rpy:74
 translate francais v10_chloe_gym_409d05d6:
@@ -148,7 +148,7 @@ translate francais v10_chloe_gym_7a6269ff:
 translate francais v10_chloe_gym_f2863256:
 
     # cl "Haha, great! Give me that so I know what my options are. *Laughs*"
-    cl "Haha, génial ! Donne-moi ça pour que je sache quelles sont mes options. *Rire*"
+    cl "Haha, génial ! Donne-la moi, pour que je sache quelles sont mes options. *Rire*"
 
 # game/v10/scene30.rpy:159
 translate francais v10_chloe_gym_fcc18885:
@@ -166,13 +166,13 @@ translate francais v10_chloe_gym_a4acbf5c:
 translate francais v10s30_galleryScene_4021fb83:
 
     # cl "Were you just... you were trying to look up my shorts! You really are naughty! At least tell me you liked what you saw."
-    cl "Tu étais... tu étais en train d'essayer de regarder sous mon short ! Tu es vraiment méchant ! Dis-moi au moins que tu as aimé ce que tu as vu."
+    cl "Tu étais... tu étais en train d'essayer de regarder sous mon short ! Tu es vraiment coquin ! Dis-moi au moins que tu as aimé ce que tu as vu."
 
 # game/v10/scene30.rpy:184
 translate francais v10s30_galleryScene_14b037d2:
 
     # u "I'd run that back on repeat."
-    u "Je le referais en boucle."
+    u "Je le repasserais en boucle."
 
 # game/v10/scene30.rpy:193
 translate francais v10s30_galleryScene_01a46d5d:
@@ -250,7 +250,7 @@ translate francais v10s30_galleryScene_77595f28:
 translate francais v10s30_galleryScene_5077813d:
 
     # u "I'm gonna cum."
-    u "Je vais éjaculer."
+    u "Je vais jouir."
 
 # game/v10/scene30.rpy:304
 translate francais v10s30_galleryScene_61e3a8cb:
@@ -322,7 +322,7 @@ translate francais v10s30_nsfwSkipLabel1_f4ae9566:
 translate francais v10s30_nsfwSkipLabel1_c0876bad:
 
     # cl "Ha, well look I'm gonna run. I want to get some studying done before it's too late."
-    cl "Ha, écoute, je vais courir. Je veux étudier un peu avant qu'il ne soit trop tard."
+    cl "Ha, écoute, je dois foncer. Je veux étudier un peu avant qu'il ne soit trop tard."
 
 # game/v10/scene30.rpy:372
 translate francais v10s30_nsfwSkipLabel1_26217fae:
@@ -388,7 +388,7 @@ translate francais v10s30_nsfwSkipLabel1_f4ae9566_1:
 translate francais v10s30_nsfwSkipLabel1_5a52ab4d:
 
     # cl "Ha, well look I'm gonna run. I want to get some studying in before it's too late."
-    cl "Ha, bien, je vais courir. Je veux étudier un peu avant qu'il ne soit trop tard."
+    cl "Ha, écoute, je dois foncer. Je veux étudier un peu avant qu'il ne soit trop tard."
 
 # game/v10/scene30.rpy:442
 translate francais v10s30_nsfwSkipLabel1_26217fae_1:
@@ -454,7 +454,7 @@ translate francais v10s30_chloeBlowjob_77595f28:
 translate francais v10s30_chloeBlowjob_5077813d:
 
     # u "I'm gonna cum."
-    u "Je vais éjaculer."
+    u "Je vais jouir."
 
 # game/v10/scene30.rpy:313
 translate francais v10s30_chloeBlowjob_61e3a8cb:

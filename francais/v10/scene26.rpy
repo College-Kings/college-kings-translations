@@ -4,7 +4,7 @@
 translate francais v10_amber_skatepark_0105dc21:
 
     # u "(I should get that.)"
-    u "(Je devrais aller voir.)"
+    u "(Qui m'envoie un message ?)"
 
 # game/v10/scene26.rpy:30
 translate francais v10_amber_skatepark_f5b983e1:
@@ -118,7 +118,7 @@ translate francais v10_amber_skatepark_d04ac378:
 translate francais v10_amber_skatepark_55cb46de:
 
     # ri "I had to study, I have an assignment and it's honestly killing me. I still have so much more to look over, but I just couldn't focus any longer."
-    ri "Je devais étudier, j'ai un devoir à rendre et ça me tue. J'ai encore tellement de choses à regarder, mais je ne pouvais pas me concentrer davantage."
+    ri "Je devais étudier, j'ai un devoir à rendre et ça me tue. J'ai encore tellement de choses à réviser, mais je ne pouvais plus me concentrer davantage."
 
 # game/v10/scene26.rpy:127
 translate francais v10_amber_skatepark_55c4efa4:
@@ -172,13 +172,13 @@ translate francais v10_amber_skatepark_2fec38e7:
 translate francais v10_amber_skatepark_83172589:
 
     # ri "Sounds fun. What are we playing?"
-    ri "Ça a l'air amusant. A quoi on joue ?"
+    ri "Ça a l'air amusant. À quoi on joue ?"
 
 # game/v10/scene26.rpy:177
 translate francais v10_amber_skatepark_47a2399f:
 
     # am "Never have I ever."
-    am "Jamais je ne l'ai fait."
+    am "À jamais je ne l'ai fait."
 
 # game/v10/scene26.rpy:182
 translate francais v10_amber_skatepark_19c151a2:
@@ -346,7 +346,7 @@ translate francais v10_amber_skatepark_sg_07a9e06f:
 translate francais v10_amber_skatepark_sg_0c359d78:
 
     # u "*Whisper* Really? Right now? *Chuckles*"
-    u "*Chuchote* Vraiment ? En ce moment même ? *Rire*"
+    u "*Chuchote* Vraiment ? En ce moment ? ? *Rire*"
 
 # game/v10/scene26.rpy:380
 translate francais v10_amber_skatepark_sg_3f92ae90:
@@ -478,25 +478,25 @@ translate francais v10_amber_skatepark_sg_23d0cfc4:
 translate francais v10_amber_skatepark_sg_e28aafa2:
 
     # am "Me too."
-    am "Moi aussi."
+    am "Et moi que tu sois venu."
 
 # game/v10/scene26.rpy:529
 translate francais v10_amber_skatepark_sg_ce9a2a19:
 
     # am "I don't wanna make you feel like a booty call, but I'm pretty tired after that."
-    am "Je ne veux pas te donner l'impression d'être un plan cul, mais je suis assez fatiguée après ça."
+    am "Je ne veux pas te donner l'impression d'être un plan cul, mais je suis assez fatiguée après tout ça."
 
 # game/v10/scene26.rpy:534
 translate francais v10_amber_skatepark_sg_b121e142:
 
     # u "Haha, don't worry, me too. Maybe we should call it a night."
-    u "Haha, ne t'inquiète pas, moi aussi. Peut-être que nous devrions appeler ça une nuit."
+    u "Haha, ne t'inquiète pas, moi aussi. Peut-être que nous devrions appeler ça une \"aventure\"."
 
 # game/v10/scene26.rpy:539
 translate francais v10_amber_skatepark_sg_d964a994:
 
     # am "Yeah, I'll see you soon."
-    am "Oui, on se voit bientôt."
+    am "Ouais. On se voit bientôt."
 
 # game/v10/scene26.rpy:544
 translate francais v10_amber_skatepark_sg_9cc7b881:
@@ -520,7 +520,7 @@ translate francais v10_amber_skatepark_sg_367ab691:
 translate francais v10_amber_skatepark_sg_3de35d93:
 
     # am "Ugh fine, guess I'll just go home."
-    am "Argh bien, je crois que je vais simplement rentrer chez moi."
+    am "Argh... BON ! Alors, je crois que je vais rentrer chez moi."
 
 # game/v10/scene26.rpy:570
 translate francais v10_amber_skatepark_sg_248c007d:
@@ -538,13 +538,13 @@ translate francais v10_amber_skatepark_sg_3bffa3eb:
 translate francais v10_amber_skatepark_sg_810d488e:
 
     # u "I could come with you and maybe we could continue this there."
-    u "Je pourrais venir avec toi et peut-être que nous pourrions continuer ça là-bas."
+    u "Je pourrais venir avec toi et peut-être que nous pourrions continuer ça chez toi."
 
 # game/v10/scene26.rpy:586
 translate francais v10_amber_skatepark_sg_1d96a7a8:
 
     # am "Nah, you kinda killed the mood."
-    am "Non, tu as tué l'ambiance."
+    am "Non, t'as tué l'ambiance."
 
 # game/v10/scene26.rpy:591
 translate francais v10_amber_skatepark_sg_eed87296:
@@ -766,25 +766,25 @@ translate francais v10_amber_skatepark_sg_23d0cfc4_1:
 translate francais v10_amber_skatepark_sg_e28aafa2_1:
 
     # am "Me too."
-    am "Moi aussi."
+    am "Et moi que tu sois venu."
 
 # game/v10/scene26.rpy:833
 translate francais v10_amber_skatepark_sg_ce9a2a19_1:
 
     # am "I don't wanna make you feel like a booty call, but I'm pretty tired after that."
-    am "Je ne veux pas te donner l'impression d'être un plan cul, mais je suis assez fatiguée après ça."
+    am "Je ne veux pas te donner l'impression d'être un plan cul, mais je suis assez fatiguée après tout ça."
 
 # game/v10/scene26.rpy:838
 translate francais v10_amber_skatepark_sg_b121e142_1:
 
     # u "Haha, don't worry, me too. Maybe we should call it a night."
-    u "Haha, ne t'inquiète pas, moi aussi. Peut-être que nous devrions appeler ça une nuit."
+    u "Haha, ne t'inquiète pas, moi aussi. Peut-être que nous devrions appeler ça une \"aventure\"."
 
 # game/v10/scene26.rpy:843
 translate francais v10_amber_skatepark_sg_d964a994_1:
 
     # am "Yeah, I'll see you soon."
-    am "Oui, on se voit bientôt."
+    am "Ouais. On se voit bientôt."
 
 # game/v10/scene26.rpy:848
 translate francais v10_amber_skatepark_sg_9cc7b881_1:
@@ -808,7 +808,7 @@ translate francais v10_amber_skatepark_sg_367ab691_1:
 translate francais v10_amber_skatepark_sg_3de35d93_1:
 
     # am "Ugh fine, guess I'll just go home."
-    am "Argh bien, je crois que je vais simplement rentrer chez moi."
+    am "Argh... BON ! Alors, je crois que je vais rentrer chez moi."
 
 # game/v10/scene26.rpy:875
 translate francais v10_amber_skatepark_sg_248c007d_1:
@@ -826,13 +826,13 @@ translate francais v10_amber_skatepark_sg_3bffa3eb_1:
 translate francais v10_amber_skatepark_sg_810d488e_1:
 
     # u "I could come with you and maybe we could continue this there."
-    u "Je pourrais venir avec toi et peut-être que nous pourrions continuer ça là-bas."
+    u "Je pourrais venir avec toi et peut-être que nous pourrions continuer ça chez toi."
 
 # game/v10/scene26.rpy:891
 translate francais v10_amber_skatepark_sg_1d96a7a8_1:
 
     # am "Nah, you kinda killed the mood."
-    am "Non, tu as tué l'ambiance."
+    am "Non, t'as tué l'ambiance."
 
 # game/v10/scene26.rpy:896
 translate francais v10_amber_skatepark_sg_eed87296_1:
@@ -1092,25 +1092,25 @@ translate francais v10s26_amberCowgirl_23d0cfc4:
 translate francais v10s26_amberCowgirl_e28aafa2:
 
     # am "Me too."
-    am "Moi aussi."
+    am "Et moi que tu sois venu."
 
 # game/v10/scene26.rpy:534
 translate francais v10s26_amberCowgirl_ce9a2a19:
 
     # am "I don't wanna make you feel like a booty call, but I'm pretty tired after that."
-    am "Je ne veux pas te donner l'impression d'être un plan cul, mais je suis assez fatiguée après ça."
+    am "Je ne veux pas te donner l'impression d'être un plan cul, mais je suis assez fatiguée après tout ça."
 
 # game/v10/scene26.rpy:539
 translate francais v10s26_amberCowgirl_b121e142:
 
     # u "Haha, don't worry, me too. Maybe we should call it a night."
-    u "Haha, ne t'inquiète pas, moi aussi. Peut-être que nous devrions appeler ça une nuit."
+    u "Haha, ne t'inquiète pas, moi aussi. Peut-être que nous devrions appeler ça une \"aventure\"."
 
 # game/v10/scene26.rpy:544
 translate francais v10s26_amberCowgirl_d964a994:
 
     # am "Yeah, I'll see you soon."
-    am "Oui, on se voit bientôt."
+    am "Ouais. On se voit bientôt."
 
 # game/v10/scene26.rpy:549
 translate francais v10s26_amberCowgirl_9cc7b881:
@@ -1134,7 +1134,7 @@ translate francais v10s26_amberCowgirl_367ab691:
 translate francais v10s26_amberCowgirl_3de35d93:
 
     # am "Ugh fine, guess I'll just go home."
-    am "Argh bien, je crois que je vais simplement rentrer chez moi."
+    am "Argh... BON ! Alors, je crois que je vais rentrer chez moi."
 
 # game/v10/scene26.rpy:575
 translate francais v10s26_amberCowgirl_248c007d:
@@ -1152,13 +1152,13 @@ translate francais v10s26_amberCowgirl_3bffa3eb:
 translate francais v10s26_amberCowgirl_810d488e:
 
     # u "I could come with you and maybe we could continue this there."
-    u "Je pourrais venir avec toi et peut-être que nous pourrions continuer ça là-bas."
+    u "Je pourrais venir avec toi et peut-être que nous pourrions continuer ça chez toi."
 
 # game/v10/scene26.rpy:591
 translate francais v10s26_amberCowgirl_1d96a7a8:
 
     # am "Nah, you kinda killed the mood."
-    am "Non, tu as tué l'ambiance."
+    am "Non, t'as tué l'ambiance."
 
 # game/v10/scene26.rpy:596
 translate francais v10s26_amberCowgirl_eed87296:
@@ -1380,25 +1380,25 @@ translate francais v10s26_amberCowgirl_23d0cfc4_1:
 translate francais v10s26_amberCowgirl_e28aafa2_1:
 
     # am "Me too."
-    am "Moi aussi."
+    am "Et moi que tu sois venu."
 
 # game/v10/scene26.rpy:839
 translate francais v10s26_amberCowgirl_ce9a2a19_1:
 
     # am "I don't wanna make you feel like a booty call, but I'm pretty tired after that."
-    am "Je ne veux pas te donner l'impression d'être un plan cul, mais je suis assez fatiguée après ça."
+    am "Je ne veux pas te donner l'impression d'être un plan cul, mais je suis assez fatiguée après tout ça."
 
 # game/v10/scene26.rpy:844
 translate francais v10s26_amberCowgirl_b121e142_1:
 
     # u "Haha, don't worry, me too. Maybe we should call it a night."
-    u "Haha, ne t'inquiète pas, moi aussi. Peut-être que nous devrions appeler ça une nuit."
+    u "Haha, ne t'inquiète pas, moi aussi. Peut-être que nous devrions appeler ça une \"aventure\"."
 
 # game/v10/scene26.rpy:849
 translate francais v10s26_amberCowgirl_d964a994_1:
 
     # am "Yeah, I'll see you soon."
-    am "Oui, on se voit bientôt."
+    am "Ouais. On se voit bientôt."
 
 # game/v10/scene26.rpy:854
 translate francais v10s26_amberCowgirl_9cc7b881_1:
@@ -1422,7 +1422,7 @@ translate francais v10s26_amberCowgirl_367ab691_1:
 translate francais v10s26_amberCowgirl_3de35d93_1:
 
     # am "Ugh fine, guess I'll just go home."
-    am "Argh bien, je crois que je vais simplement rentrer chez moi."
+    am "Argh... BON ! Alors, je crois que je vais rentrer chez moi."
 
 # game/v10/scene26.rpy:881
 translate francais v10s26_amberCowgirl_248c007d_1:
@@ -1440,13 +1440,13 @@ translate francais v10s26_amberCowgirl_3bffa3eb_1:
 translate francais v10s26_amberCowgirl_810d488e_1:
 
     # u "I could come with you and maybe we could continue this there."
-    u "Je pourrais venir avec toi et peut-être que nous pourrions continuer ça là-bas."
+    u "Je pourrais venir avec toi et peut-être que nous pourrions continuer ça chez toi."
 
 # game/v10/scene26.rpy:897
 translate francais v10s26_amberCowgirl_1d96a7a8_1:
 
     # am "Nah, you kinda killed the mood."
-    am "Non, tu as tué l'ambiance."
+    am "Non, t'as tué l'ambiance."
 
 # game/v10/scene26.rpy:902
 translate francais v10s26_amberCowgirl_eed87296_1:

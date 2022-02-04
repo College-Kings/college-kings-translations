@@ -40,13 +40,13 @@ translate francais v10_aubrey_house_40f9da11:
 translate francais v10_aubrey_house_4c0b9a3e:
 
     # u "A walking companion you asked for and a walking companion you got."
-    u "Un compagnon de marche que tu as demandé et un compagnon de marche que tu as obtenu."
+    u "C'est un compagnon de marche que tu as demandé et c'est un compagnon de marche que tu as obtenu."
 
 # game/v10/scene17.rpy:54
 translate francais v10_aubrey_house_4e5b297a:
 
     # au "Oh, that's too bad. I was hoping for just a little more. *Laughs*"
-    au "Oh, c'est dommage. J'espérais juste un peu plus. *Rire*"
+    au "Oh, c'est dommage. J'espérais un peu plus. *Rire*"
 
 # game/v10/scene17.rpy:59
 translate francais v10_aubrey_house_bc994dac:
@@ -76,7 +76,7 @@ translate francais v10_aubrey_house_8569c4fa:
 translate francais v10_aubrey_house_51bfed32:
 
     # u "So... was the gym busy?"
-    u "Alors... la salle de gym était-elle occupé ?"
+    u "Alors... la salle de gym était pleine ?"
 
 # game/v10/scene17.rpy:85
 translate francais v10_aubrey_house_a267ef9c:
@@ -88,7 +88,7 @@ translate francais v10_aubrey_house_a267ef9c:
 translate francais v10_aubrey_house_0a85669e:
 
     # au "I left early to keep from beefing with this one girl."
-    au "Je suis parti plus tôt pour éviter de me battre avec cette fille."
+    au "Je suis parti plus tôt pour éviter de me battre avec une fille."
 
 # game/v10/scene17.rpy:91
 translate francais v10_aubrey_house_b898a6eb:
@@ -220,7 +220,7 @@ translate francais v10_aubrey_house_14a0908e:
 translate francais v10_aubrey_house_c3926407:
 
     # u "Damn, sounds like your sister is fun to be around. Maybe I should message her and see if she could boost my confidence too."
-    u "Bon sang, on dirait que ta soeur est amusante à fréquenter. Peut-être que je devrais lui envoyer un message pour voir si elle peut me donner confiance en moi aussi."
+    u "He ben, on dirait que ta soeur est sympa à fréquenter. Peut-être que je devrais lui envoyer un message pour voir si elle peut me donner confiance en moi aussi."
 
 # game/v10/scene17.rpy:186
 translate francais v10_aubrey_house_9384970b:
@@ -238,7 +238,7 @@ translate francais v10_aubrey_house_a2be47d7:
 translate francais v10_aubrey_house_3c17f4fb:
 
     # au "*Laughs* I didn't. Don't worry, you may get a chance to meet her soon. I'm pretty sure she's coming to visit."
-    au "*Rire* Je ne l'ai pas fait. Ne t'inquiète pas, tu auras peut-être la chance de la rencontrer bientôt. Je suis presque sûre qu'elle va venir nous rendre visite."
+    au "*Rire* Je ne l'ai pas dit. Ne t'inquiète pas, tu auras peut-être la chance de la rencontrer bientôt. Je suis presque sûre qu'elle va venir nous rendre visite."
 
 # game/v10/scene17.rpy:201
 translate francais v10_aubrey_house_1d445334:
@@ -256,7 +256,7 @@ translate francais v10_aubrey_house_5b1e1b03:
 translate francais v10_aubrey_house_4606c8e2:
 
     # au "I talk to my family on the phone, but it really isn't that big of a deal to me."
-    au "Je parle à ma famille au téléphone, mais ce n'est pas vraiment un problème pour moi."
+    au "Je leur parle au téléphone, mais ce n'est pas vraiment un problème pour moi."
 
 # game/v10/scene17.rpy:209
 translate francais v10_aubrey_house_f994c603:
@@ -334,7 +334,7 @@ translate francais v10s17_galleryScene_d8b04d3e:
 translate francais v10s17_galleryScene_68c4fd1e:
 
     # au "Okay Mr. Director, how should THIS movie start?"
-    au "Ok, M. le Directeur, comment doit commencer CE film ?"
+    au "Ok, Mr le Directeur, comment doit commencer CE film ?"
 
 # game/v10/scene17.rpy:305
 translate francais v10s17_galleryScene_0c8986d1:
@@ -358,7 +358,7 @@ translate francais v10s17_galleryScene_6c15d612:
 translate francais v10s17_galleryScene_25bd17a0:
 
     # au "Think I can make it to the big leagues Mr. Director?"
-    au "Vous pensez que je peux réussir dans la cour des grands, M. le Directeur ?"
+    au "Vous pensez que je peux réussir dans la cour des grands, Mr le Directeur ?"
 
 # game/v10/scene17.rpy:325
 translate francais v10s17_galleryScene_1bea5d63:
