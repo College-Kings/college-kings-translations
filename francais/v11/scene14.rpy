@@ -4,7 +4,7 @@
 translate francais v11_nora_chris_plane_0aff425e:
 
     # ch "*Whisper* Nora please, we shouldn't be arguing in the first place, but this definitely isn't the right time."
-    ch "*Chuchote* Nora, s'il te plaît, on ne devrait pas se disputer, et ce n'est vraiment pas le bon moment."
+    ch "*Chuchote* Nora, s'il te plaît, on ne devrait pas se disputer et ce n'est vraiment pas le bon moment."
 
 # game/v11/scene14.rpy:20
 translate francais v11_nora_chris_plane_ae2e8f60:
@@ -34,7 +34,7 @@ translate francais v11_nora_chris_plane_866c8ee6:
 translate francais v11_nora_chris_plane_e4e76676:
 
     # no "Don't \"Nora please\" me, Chris. You didn't tell me you were gonna be glued to your phone so much that you'd have no time for anything I wanted to do with you. Not a single thing, Chris?"
-    no "Ne me fais pas le coup du \"Nora s'il te plaît\", Chris. Tu ne m'as pas dit que tu serais si collé à ton téléphone que tu n'aurais pas le temps pour ce que je voudrais faire avec toi. Pas une seule chose, Chris ?"
+    no "Ne me fais pas le coup du \"Nora s'il te plaît\", Chris. Tu ne m'as pas dit que tu serais tellement collé à ton téléphone, que tu n'aurais pas le temps pour ce que je voudrais faire avec toi. Rien du tout, Chris ?"
 
 # game/v11/scene14.rpy:42
 translate francais v11_nora_chris_plane_4059da54:
@@ -118,7 +118,7 @@ translate francais v11_nora_chris_plane_08089356:
 translate francais v11_nora_chris_plane_f63ce472:
 
     # ro "We're getting ready to deboard, you all need to make sure you collect your things and pick up any trash."
-    ro "Nous nous préparons à débarquer, vous devez tous vous assurer de rassembler vos affaires et de ramasser les déchets."
+    ro "Nous allons bientôt débarquer, vous devez tous vous assurer de rassembler vos affaires et de ramasser les déchets."
 
 # game/v11/scene14.rpy:109
 translate francais v11_nora_chris_plane_51931ce4:
@@ -130,7 +130,7 @@ translate francais v11_nora_chris_plane_51931ce4:
 translate francais v11_nora_chris_plane_47f02ee2:
 
     # ch "Look Nora, just hear me out."
-    ch "Écoute Nora, écoute-moi une seconde."
+    ch "Nora, écoute-moi une seconde."
 
 # game/v11/scene14.rpy:129
 translate francais v11_nora_chris_plane_af9bedb2:

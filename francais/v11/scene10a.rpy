@@ -28,7 +28,7 @@ translate francais v11_airport_charli_f153aa4f:
 translate francais v11_airport_charli_8492919e:
 
     # u "(So what, now he's keeping them all quiet?)"
-    u "(Alors quoi, maintenant il les fait taire ?)"
+    u "(Alors maintenant, il arrive à les faire taire ?)"
 
 # game/v11/scene10a.rpy:32
 translate francais v11_airport_charli_a1902286:
@@ -40,7 +40,7 @@ translate francais v11_airport_charli_a1902286:
 translate francais v11_airport_charli_9b92fb23:
 
     # u "What was the joke? I wanna laugh too."
-    u "C'était quoi la blague ? Je veux rire aussi."
+    u "C'était quoi la blague ? Moi aussi j'ai envie de m'amuser."
 
 # game/v11/scene10a.rpy:42
 translate francais v11_airport_charli_3504f390:
@@ -64,13 +64,13 @@ translate francais v11_airport_charli_e0ef9d2e:
 translate francais v11_airport_charli_4852ea65:
 
     # u "Yeah, I wouldn't want to ruin the joke."
-    u "Oui... je ne voudrais pas gâcher la blague."
+    u "Ouais... je ne voudrais pas gâcher la blague."
 
 # game/v11/scene10a.rpy:62
 translate francais v11_airport_charli_96c29ff5:
 
     # charli "Look at that, even more we have in common."
-    charli "regarde ça, encore plus de choses que nous avons en commun."
+    charli "Tu vois, nous avons encore plus de choses en commun."
 
 # game/v11/scene10a.rpy:67
 translate francais v11_airport_charli_86c929b0:
@@ -88,7 +88,7 @@ translate francais v11_airport_charli_913ea5cd:
 translate francais v11_airport_charli_2fe0b0ac:
 
     # u "I'm fine, just uh... got some things on my mind."
-    u "Je vais bien, j'ai juste euh... j'ai des choses en tête."
+    u "Je vais bien, j'ai juste euh... des choses en tête."
 
 # game/v11/scene10a.rpy:82
 translate francais v11_airport_charli_eddb8767:
@@ -106,7 +106,7 @@ translate francais v11_airport_charli_9064cdac:
 translate francais v11_airport_charli_679b20bc:
 
     # charli "Alright, Europe here we come!"
-    charli "Très bien Europe, on arrive !"
+    charli "Très bien l'Europe, on arrive !"
 
 # game/v11/scene10a.rpy:104
 translate francais v11_airport_charli_109f814b:
@@ -130,19 +130,19 @@ translate francais v11_airport_charli_483d9ddc:
 translate francais v11_airport_charli_11257778:
 
     # au "One of the girls made a joke and he said \"who, [name]?\" It really wasn't that big of a deal."
-    au "Une des filles a fait une blague et il a dit \"qui, [name] ?\". Ce n'était vraiment pas si grave."
+    au "Une des filles a fait une blague et il a dit \"qui, [name] ?\". C'était vraiment pas si grave."
 
 # game/v11/scene10a.rpy:124
 translate francais v11_airport_charli_2018f9e1:
 
     # u "Oh, I don't know, something about Charli just rubs me the wrong way."
-    u "Oh, je ne sais pas, il y a quelque chose chez Charli qui me met mal à l'aise."
+    u "Je ne sais pas, il y a quelque chose chez Charli qui me met mal à l'aise."
 
 # game/v11/scene10a.rpy:129
 translate francais v11_airport_charli_c6838b7d:
 
     # au "Keep getting worked up over nothing and your head may just explode. *Chuckles* Just shrug it off. Like Amber did when I teased her."
-    au "Continue à t'énerver pour rien et ta tête va exploser. *Rire* Il suffit de hausser les épaules. Comme Amber a fait quand je l'ai taquinée."
+    au "Continue à t'énerver pour rien et ta tête va exploser. *Rire* Il suffit de hausser les épaules. Comme ce qu'Amber a fait quand je l'ai taquinée."
 
 # game/v11/scene10a.rpy:134
 translate francais v11_airport_charli_53573def:

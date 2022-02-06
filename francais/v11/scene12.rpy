@@ -400,7 +400,7 @@ translate francais v11_sit_ryan_convo_57ae9944:
 translate francais v11_sit_ryan_convo_0f8d31f9:
 
     # ry "Aye man, do you mind if I use the armrest?"
-    ry "Oui mec, ça te dérange si j'utilise l'accoudoir ?"
+    ry "Hey mec, ça te dérange si j'utilise l'accoudoir ?"
 
 # game/v11/scene12.rpy:375
 translate francais v11_sit_ryan_convo_6c5fac2a:
@@ -418,7 +418,7 @@ translate francais v11_sit_ryan_convo_3ce7ce96:
 translate francais v11_sit_ryan_convo_8f6894a1:
 
     # u "She's not even gonna go for you. You're causing a drift between us and wasting your time with her. She's obsessed with me."
-    u "Elle ne va même pas te choisir. Tu provoques une dérive entre nous et tu perds ton temps avec elle. Elle est obsédée par moi."
+    u "Elle ne va même pas aller vers toi. Tu provoques une dérive entre nous et tu perds ton temps avec elle. Elle est obsédée par moi."
 
 # game/v11/scene12.rpy:390
 translate francais v11_sit_ryan_convo_eed8abea:
@@ -442,13 +442,13 @@ translate francais v11_sit_ryan_convo_417b4c08:
 translate francais v11_sit_ryan_convo_22d077c9:
 
     # u "Keep telling yourself that man, I'm going to sleep."
-    u "Continue à te dire ça mec, je vais dormir."
+    u "Continue à le croire mec, je vais dormir."
 
 # game/v11/scene12.rpy:412
 translate francais v11_sit_ryan_convo_a6cf0f5d:
 
     # u "Yeah man, go ahead."
-    u "Ouais mec, vas-y."
+    u "Ouais, vas-y."
 
 # game/v11/scene12.rpy:417
 translate francais v11_sit_ryan_convo_35ff1c60_2:

@@ -58,7 +58,7 @@ translate francais v11_chicks_house_3f84d185:
 translate francais v11_chicks_house_da5e0940:
 
     # li "It's honestly a fucking embarrassment. This isn't what we're supposed to be about."
-    li "C'est honnêtement une putain de honte. Ce n'est pas ce que nous sommes censés être."
+    li "C'est franchement une putain de honte. Ce n'est pas ce que nous sommes censés être."
 
 # game/v11/scene8.rpy:80
 translate francais v11_chicks_house_93a9a802:
@@ -82,7 +82,7 @@ translate francais v11_chicks_house_9ddcc86d:
 translate francais v11_chicks_house_f9691f0d:
 
     # u "Alright, sounds good."
-    u "D'accord, ça semble bien."
+    u "D'accord, à plus tard."
 
 # game/v11/scene8.rpy:100
 translate francais v11_chicks_house_49e9e7d4:
@@ -142,7 +142,7 @@ translate francais v11_chicks_house_b592843e:
 translate francais v11_chicks_house_c6eab9bc:
 
     # li "And we are where we are now."
-    li "Et nous sommes là où nous en sommes maintenant."
+    li "Et nous sommes là où nous en sommes."
 
 # game/v11/scene8.rpy:150
 translate francais v11_chicks_house_59ca6a00:
@@ -160,7 +160,7 @@ translate francais v11_chicks_house_a9135f24:
 translate francais v11_chicks_house_b263fce7:
 
     # u "Who is then?"
-    u "Qui l'est alors ?"
+    u "Qui le serait, alors ?"
 
 # game/v11/scene8.rpy:165
 translate francais v11_chicks_house_a711bad6:
@@ -202,13 +202,13 @@ translate francais v11_chicks_house_17e3b3ec:
 translate francais v11_chicks_house_87c169a5:
 
     # li "Like, I'm friends with Chloe and I wouldn't want me running to get between us. There's just so many people that are unhappy with her."
-    li "Comme, je suis amie avec Chloé et je ne voudrais pas que la course se mette entre nous. Il y a juste tellement de personnes qui sont malheureuses avec elle."
+    li "Je suis amie avec Chloé et je ne voudrais pas que la course à la présidence se mette entre nous. Il y a tellement de personnes qui sont malheureuses avec elle à la tête des Chicks."
 
 # game/v11/scene8.rpy:202
 translate francais v11_chicks_house_b4f5b0a6:
 
     # u "I think you'd make a good president. And the only way to find out if the rest of the girls support you is by running and seeing how they vote."
-    u "Je pense que tu ferais une bonne présidente. Et le seul moyen de savoir si les autres filles te soutiennent est de te présenter, puis de voir comment elles votent."
+    u "Je pense que tu ferais une bonne présidente. Et le seul moyen de savoir si les autres filles te soutiendront est de te présenter, puis de voir comment elles votent."
 
 # game/v11/scene8.rpy:207
 translate francais v11_chicks_house_b8fe2c04:
@@ -238,7 +238,7 @@ translate francais v11_chicks_house_2dc07ab1:
 translate francais v11_chicks_house_5e897b84:
 
     # li "You and I both."
-    li "Toi et moi, tous les deux."
+    li "Alors tu es comme moi."
 
 # game/v11/scene8.rpy:233
 translate francais v11_chicks_house_1a79d11e:
@@ -262,7 +262,7 @@ translate francais v11_chicks_house_d3543e11:
 translate francais v11_chicks_house_8c63bbdd:
 
     # li "By that time the reputation of the Chicks could be beyond repair. Next semester they'll be preparing for recruiting season and we don't want to do that with all this bad blood."
-    li "D'ici là, la réputation des Chicks pourrait être irrémédiable. Le semestre prochain, elles se prépareront à la saison des recrutements et nous ne voulons pas que cela se fasse avec toute cette mauvaise influence."
+    li "D'ici là, la réputation des Chicks pourrait être irrémédiable. Le semestre prochain, elles se prépareront à la saison des recrutements et nous ne voulons pas que ça se déroule avec toutes ces tensions."
 
 # game/v11/scene8.rpy:253
 translate francais v11_chicks_house_b10872ef:
@@ -274,13 +274,13 @@ translate francais v11_chicks_house_b10872ef:
 translate francais v11_chicks_house_c3a78f86:
 
     # li "I better stop talking before one of the girls walks in. I wouldn't want to continue this conversation with one of them right now."
-    li "Je ferais mieux d'arrêter de parler avant que l'une des filles n'entre. Je ne voudrais pas continuer cette conversation avec l'une d'elles, maintenant."
+    li "Je ferais mieux d'arrêter de parler avant que l'une des filles n'entre. Je ne voudrais pas avoir à continuer cette conversation avec l'une d'elles, pour le moment."
 
 # game/v11/scene8.rpy:263
 translate francais v11_chicks_house_aafa0a58:
 
     # u "Haha, I need to head home anyway. I'll see you around Linds."
-    u "Haha, je dois rentrer à la maison de toute façon. Je te verrai plus tard, Linds."
+    u "Haha, je dois rentrer de toute façon. Je te verrai plus tard, Linds."
 
 # game/v11/scene8.rpy:268
 translate francais v11_chicks_house_efacf4b5:
@@ -317,4 +317,4 @@ translate francais v11_chicks_house_c4b91a68:
 translate francais v11_chicks_house_28e23f0e:
 
     # u "I think you'd make a good President. And the only way to find out if the rest of the girls support you is by running and seeing how they vote."
-    u "Je pense que tu ferais une bonne présidente. Et le seul moyen de savoir si les autres filles te soutiennent est de se présenter et de voir leur vote."
+    u "Je pense que tu ferais une bonne présidente. Et le seul moyen de savoir si les autres filles te soutiendront est de te présenter, puis de voir comment elles votent."

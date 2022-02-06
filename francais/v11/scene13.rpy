@@ -10,13 +10,13 @@ translate francais v11_aubrey_plane_sex_aef8ea6d:
 translate francais v11_aubrey_plane_sex_sg_61b6bf48:
 
     # u "(This'll be fun.)"
-    u "(Ça va être amusant.)"
+    u "(Allons nous amuser.)"
 
 # game/v11/scene13.rpy:60
 translate francais v11_aubrey_plane_sex_sg_110380f5:
 
     # u "Oh wow, someone's moving fast."
-    u "Oh wow, quelqu'un arrive vite."
+    u "Oh wow, voilà quelqu'un qui va vite."
 
 # game/v11/scene13.rpy:65
 translate francais v11_aubrey_plane_sex_sg_66ce95c6:
@@ -58,13 +58,13 @@ translate francais v11_aubrey_plane_sex_sg_c2ba5929:
 translate francais v11_aubrey_plane_sex_sg_02071f30:
 
     # u "Are we being too loud?"
-    u "Sommes-nous trop bruyants ?"
+    u "On est pas trop bruyants ?"
 
 # game/v11/scene13.rpy:165
 translate francais v11_aubrey_plane_sex_sg_b7b7a348:
 
     # au "We're fine, don't stop."
-    au "On va bien, ne t'arrête pas."
+    au "On est bien, ne t'arrête pas."
 
 # game/v11/scene13.rpy:171
 translate francais v11_aubrey_plane_sex_sg_13ba052b:
@@ -220,7 +220,7 @@ translate francais v11_aubrey_plane_sex_sg_74d4f71c:
 translate francais v11s13_nsfwSkipLabel1_2947d7d4:
 
     # au "Well, thanks for the... quick fix. *Chuckles*"
-    au "Eh bien, merci pour ton... aide rapide. *Rire*"
+    au "Eh bien, merci pour la... réparation rapide. *glousse*"
 
 # game/v11/scene13.rpy:395
 translate francais v11s13_nsfwSkipLabel1_04a3b512:
@@ -286,7 +286,7 @@ translate francais v11s13_nsfwSkipLabel1_767f2648:
 translate francais v11s13_nsfwSkipLabel1_c602083e:
 
     # u "Emily didn't think it was short."
-    u "Emily ne pensait pas qu'elle était courte."
+    u "Pour Emily, elle n'était pas courte du tout."
 
 # game/v11/scene13.rpy:448
 translate francais v11s13_nsfwSkipLabel1_f42b67bf:

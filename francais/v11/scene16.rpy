@@ -124,7 +124,7 @@ translate francais v11_lauren_airport_convo_e11deaf9_1:
 translate francais v11_lauren_airport_convo_edae0fdf:
 
     # la "Oh okay... well, I guess I'll see you in London."
-    la "Oh ok... bien, je suppose que je te verrai à Londres."
+    la "Oh ok... bien, je pense que je te verrai à Londres."
 
 # game/v11/scene16.rpy:183
 translate francais v11_lauren_airport_convo_be82708f:
@@ -190,7 +190,7 @@ translate francais v11_lauren_airport_convo_c3c2e0b1:
 translate francais v11_lauren_airport_convo_f683fe63:
 
     # u "I never put in any preferences, I assumed they'd just put me with someone random anyways."
-    u "Je n'ai pas donné de préférences, j'ai supposé qu'ils me mettraient avec quelqu'un au hasard, de toute façon."
+    u "Je n'ai pas donné de préférences, j'ai pensé qu'ils me mettraient avec quelqu'un au hasard, de toute façon."
 
 # game/v11/scene16.rpy:247
 translate francais v11_lauren_airport_convo_c8b69041:

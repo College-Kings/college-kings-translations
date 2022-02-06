@@ -10,7 +10,7 @@ translate francais v11_apes_manhunt_2a4cc1c9:
 translate francais v11_apes_manhunt_c36ecd1c:
 
     # u "What is this?"
-    u "Qu'est-ce que c'est ?"
+    u "Qu'est-ce qui se passe ?"
 
 # game/v11/scene9.rpy:30
 translate francais v11_apes_manhunt_c7b40e0b:
@@ -22,13 +22,13 @@ translate francais v11_apes_manhunt_c7b40e0b:
 translate francais v11_apes_manhunt_d64359fb:
 
     # u "For real, what's going on?"
-    u "Sérieux, qu'est-ce qui se passe ?"
+    u "Sérieux, qu'est-ce qu'il y a ?"
 
 # game/v11/scene9.rpy:40
 translate francais v11_apes_manhunt_521b9842:
 
     # gr "Let's go to the woods, boys."
-    gr "Allons dans les bois, les mecs."
+    gr "Allons dans les bois, les gars."
 
 # game/v11/scene9.rpy:45
 translate francais v11_apes_manhunt_ab1c6fe4:
@@ -46,7 +46,7 @@ translate francais v11_apes_manhunt_b239ad65:
 translate francais v11_apes_manhunt_0f468972:
 
     # ry "I think I know, and if I'm right we're not gonna like it."
-    ry "Je crois que je sais, et si j'ai raison, on ne va pas aimer ça."
+    ry "Je crois que je sais et si j'ai raison, on ne va pas aimer ça."
 
 # game/v11/scene9.rpy:62
 translate francais v11_apes_manhunt_6f5eb889:
@@ -82,7 +82,7 @@ translate francais v11_apes_manhunt_736748b2:
 translate francais v11_apes_manhunt_f4c2cefc:
 
     # ca "That's manhunt, now stop asking so many damn questions and let him finish explaining."
-    ca "C'est la Chasse à l'homme, maintenant arrêtez de poser autant de questions et laissez-le finir de s'expliquer."
+    ca "C'est la Chasse à l'homme ! Maintenant arrête de poser autant de questions et laisse-le finir d'expliquer."
 
 # game/v11/scene9.rpy:109
 translate francais v11_apes_manhunt_852175cf:
@@ -112,13 +112,13 @@ translate francais v11_apes_manhunt_6e167c0a:
 translate francais v11_apes_manhunt_99062679:
 
     # ca "STOP. ASKING. QUESTIONS."
-    ca "STOP. DE POSER. DES QUESTIONS."
+    ca "ARRÊTE{w} DE POSER{w} DES QUESTIONS !{w}"
 
 # game/v11/scene9.rpy:151
 translate francais v11_apes_manhunt_0ba3d16b:
 
     # cal "Oh fuck man, I think you broke something."
-    cal "Oh putain mec, je pense que tu as cassé quelque chose."
+    cal "Oh putain mec, je pense que tu m'as cassé quelque chose."
 
 # game/v11/scene9.rpy:156
 translate francais v11_apes_manhunt_4c9d8fa0:
@@ -154,7 +154,7 @@ translate francais v11_apes_manhunt_6873718f:
 translate francais v11_apes_manhunt_eaa3d6de:
 
     # gr "READY... SET... GO!"
-    gr "À VOS MARQUES... PRÊT... GO !"
+    gr "À VOS MARQUES...{w} PRÊT...{w} GO !{w}"
 
 # game/v11/scene9.rpy:217
 translate francais v11_apes_manhunt_44af74d7:
@@ -382,13 +382,13 @@ translate francais v11_apes_manhunt_d3c64ade:
 translate francais v11_apes_manhunt_d54f0428:
 
     # u "(Perfect spot!)"
-    u "(Endroit parfait !)"
+    u "(Un endroit parfait !)"
 
 # game/v11/scene9.rpy:459
 translate francais v11_apes_manhunt_f9cff701:
 
     # u "Bro, find your own spot."
-    u "Mec, trouve ta propre place."
+    u "Yo, trouve ta propre cachette."
 
 # game/v11/scene9.rpy:464
 translate francais v11_apes_manhunt_49194c72:
@@ -400,7 +400,7 @@ translate francais v11_apes_manhunt_49194c72:
 translate francais v11_apes_manhunt_8fbbf7a0:
 
     # u "What? They'll just catch both of us. Don't be a dick bro, find your own spot."
-    u "Quoi ? Ils vont juste nous attraper tous les deux. Ne sois pas un connard, trouve ta propre place."
+    u "Quoi ? Ils vont nous chopper tous les deux. Ne sois pas un connard et dégage ! Trouve ta propre cachette."
 
 # game/v11/scene9.rpy:479
 translate francais v11_apes_manhunt_f7738047:
@@ -412,7 +412,7 @@ translate francais v11_apes_manhunt_f7738047:
 translate francais v11_apes_manhunt_fbb8969a:
 
     # u "I swear, you're always going after something I got."
-    u "Je te jure, tu es toujours en train de vouloir quelque chose que j'ai."
+    u "Putain, t'es toujours en train de vouloir me piquer quelque chose."
 
 # game/v11/scene9.rpy:491
 translate francais v11_apes_manhunt_6a7d2411:
@@ -454,7 +454,7 @@ translate francais v11_apes_manhunt_d3b460ad:
 translate francais v11_apes_manhunt_09d974e5:
 
     # ry "You brought it up so you must."
-    ry "Tu en as parlé, donc tu dois le faire."
+    ry "Tu en as parlé, donc apparemment c'est le cas."
 
 # game/v11/scene9.rpy:526
 translate francais v11_apes_manhunt_281d6610:
@@ -538,7 +538,7 @@ translate francais v11_apes_manhunt_21c4bd85:
 translate francais v11_apes_manhunt_ee7d97cd:
 
     # u "Please don't talk right now."
-    u "S'il te plaît, ne parle pas maintenant."
+    u "S'il te plaît, tais toi."
 
 # game/v11/scene9.rpy:652
 translate francais v11_apes_manhunt_84a6870c:
@@ -634,13 +634,13 @@ translate francais v11_apes_manhunt_4dff5f4f:
 translate francais v11_apes_manhunt_5d19864c:
 
     # ca "You've been hiding here in the open? Are you an idiot?"
-    ca "Tu te cachais ici à l'air libre ? Tu es un idiot ?"
+    ca "Tu t'cachais ici à découvert ? T'es con ?"
 
 # game/v11/scene9.rpy:751
 translate francais v11_apes_manhunt_bac3b0d1:
 
     # gr "I saw you earlier, but I thought you were the rancher."
-    gr "Je t'ai vu tout à l'heure, mais je pensais que tu étais le rancher."
+    gr "Je t'ai vu tout à l'heure, mais je croyais que tu étais le rancher."
 
 # game/v11/scene9.rpy:756
 translate francais v11_apes_manhunt_957de541:
@@ -652,13 +652,13 @@ translate francais v11_apes_manhunt_957de541:
 translate francais v11_apes_manhunt_a3f1b2dc:
 
     # gr "Well, nice try, but it didn't work."
-    gr "Bien essayé, mais ça n'a pas marché."
+    gr "Bien essayé, mais ça ne marche plus."
 
 # game/v11/scene9.rpy:777
 translate francais v11_apes_manhunt_43c66084:
 
     # u "Ahh, fuck! What was that for? I had already won. You just got Caleb and I heard you get Ryan."
-    u "Ahh, putain ! C'était pour quoi faire ? J'avais déjà gagné. Tu viens d'avoir Caleb et j'ai entendu dire que tu avais Ryan."
+    u "Ahh, putain ! Pourquoi tu fais ça ? J'avais déjà gagné. Tu viens d'avoir Caleb et j'ai entendu dire que tu avais Ryan."
 
 # game/v11/scene9.rpy:782
 translate francais v11_apes_manhunt_e017f6f2:
@@ -760,7 +760,7 @@ translate francais v11_apes_manhunt_4dff5f4f_1:
 translate francais v11_apes_manhunt_5d19864c_1:
 
     # ca "You've been hiding here in the open? Are you an idiot?"
-    ca "Tu te cachais ici à l'air libre ? Tu es un idiot ?"
+    ca "Tu t'cachais ici à découvert ? T'es con ?"
 
 # game/v11/scene9.rpy:886
 translate francais v11_apes_manhunt_bac3b0d1_1:
@@ -778,13 +778,13 @@ translate francais v11_apes_manhunt_957de541_1:
 translate francais v11_apes_manhunt_a3f1b2dc_1:
 
     # gr "Well, nice try, but it didn't work."
-    gr "Bien essayé, mais ça n'a pas marché."
+    gr "Bien essayé, mais ça ne marche plus."
 
 # game/v11/scene9.rpy:912
 translate francais v11_apes_manhunt_43c66084_1:
 
     # u "Ahh, fuck! What was that for? I had already won. You just got Caleb and I heard you get Ryan."
-    u "Ahh, putain ! C'était pour quoi faire ? J'avais déjà gagné. Tu viens d'avoir Caleb et j'ai entendu dire que tu avais Ryan."
+    u "Ahh, putain ! Pourquoi tu fais ça ? J'avais déjà gagné. Tu viens d'avoir Caleb et j'ai entendu dire que tu avais Ryan."
 
 # game/v11/scene9.rpy:917
 translate francais v11_apes_manhunt_e017f6f2_1:
@@ -874,7 +874,7 @@ translate francais v11_apes_manhunt_3632cdb6:
 translate francais v11_apes_manhunt_a47ef019:
 
     # u "(I got this!)"
-    u "(Je l'ai eu !)"
+    u "(Je le maîtrise !)"
 
 # game/v11/scene9.rpy:1009
 translate francais v11_apes_manhunt_d00627ba:
@@ -892,43 +892,43 @@ translate francais v11_apes_manhunt_cc1e490f:
 translate francais v11_apes_manhunt_3925a307:
 
     # ry "This doesn't look like a punishment, it looks like fun."
-    ry "Ça n'a pas l'air d'une punition, ça a l'air amusant."
+    ry "Ça n'a pas l'air d'une punition, ça a même l'air amusant."
 
 # game/v11/scene9.rpy:1029
 translate francais v11_apes_manhunt_85209aa1:
 
     # u "Are you having fun horse?"
-    u "Tu t'amuses avec le cheval ?"
+    u "Est-ce que tu t'amuses bien le cheval ?"
 
 # game/v11/scene9.rpy:1035
 translate francais v11_apes_manhunt_8b20735e:
 
     # u "Woah! *Laughs* Guess he is having a good time."
-    u "Wow ! *Rire* Je crois qu'il passe un bon moment."
+    u "Wow ! *Rire* Oui, j'ai l'impression qu'il s'amuse bien."
 
 # game/v11/scene9.rpy:1040
 translate francais v11_apes_manhunt_3949a032:
 
     # ca "Alright, this is bullshit, off the horse."
-    ca "D'accord, c'est des conneries, descends du cheval."
+    ca "Okay, c'est des conneries tout ça, descends d'ce \"bronco\" de merde."
 
 # game/v11/scene9.rpy:1056
 translate francais v11_apes_manhunt_22a4be3d:
 
     # cal "WOAH! Are you okay? Almost looks as bad as getting body slammed. *Laughs*"
-    cal "WOAH ! Tu vas bien ? C'est presque aussi grave que de se faire frapper. *Rire*"
+    cal "WOAH ! Est-ce que tu vas bien ? Ça a l'air presque aussi grave que de se faire frapper dans le corps. Tu lui as posé une question que je n'ai pas entendu ? *Rire"
 
 # game/v11/scene9.rpy:1061
 translate francais v11_apes_manhunt_f9cc10a0:
 
     # ca "When I get up, I'm gonna kill you."
-    ca "Quand je me relèverai, je te tuerai."
+    ca "Quand j'me relèverai, j'vais te tuer."
 
 # game/v11/scene9.rpy:1076
 translate francais v11_apes_manhunt_072cb548:
 
     # u "I'm kinda glad I lost, I think I made a new friend."
-    u "Je suis plutôt content d'avoir perdu, je crois que je me suis fait un nouvel ami."
+    u "En fait, je suis plutôt content d'avoir perdu et je crois que je me suis fait un nouvel ami."
 
 # game/v11/scene9.rpy:1081
 translate francais v11_apes_manhunt_1449be25:
@@ -970,7 +970,7 @@ translate francais v11_apes_manhunt_8f7f9103:
 translate francais v11_apes_manhunt_79ee2368:
 
     # gr "Oh suck it up, let's get back to the house."
-    gr "Oh, prends moi ça et retournons à la maison."
+    gr "Allez, relevez moi ça et on rentre."
 
 # game/v11/scene9.rpy:1139
 translate francais v11_horse_fall_85ad7557:
@@ -1012,13 +1012,13 @@ translate francais v11_horse_fall_0333fa36:
 translate francais v11_horse_fall_0cda81d4:
 
     # gr "*Laughs* That was better than the time we made all the pledges run through last year's bonfire! Let's head back."
-    gr "*Rire* C'était mieux que la fois où on a fait courir tous les nouveaux à travers le feu de joie de l'année dernière ! Retournons-y."
+    gr "*Rire* C'était mieux que la fois où nous avons fait courir tous les nouveaux à travers le feu de joie l'année dernière ! Allez, on rentre."
 
 # game/v11/scene9.rpy:1195
 translate francais v11_mc_horse_room_174082b4:
 
     # u "(I swear they want to kill us. I definitely need a good night's sleep.)"
-    u "(Je parie qu'ils veulent nous tuer. J'ai définitivement besoin d'une bonne nuit de sommeil.)"
+    u "(Je parie qu'ils veulent nous tuer. J'ai vraiment besoin d'une bonne nuit de sommeil.)"
 
 # game/v11/scene9.rpy:1217
 translate francais v11_mc_horse_room_a976d380:
@@ -1036,7 +1036,7 @@ translate francais v11_mc_horse_room_81e1c6d0:
 translate francais v11_mc_horse_room_ddaa6212:
 
     # u "For what?"
-    u "Pour quoi ?"
+    u "Pour ?"
 
 # game/v11/scene9.rpy:1233
 translate francais v11_mc_horse_room_55bb20d6:

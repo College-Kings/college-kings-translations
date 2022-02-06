@@ -4,13 +4,13 @@
 translate francais v11_Amber_Penelope_8d0a9c56:
 
     # u "Amber, is that you? I didn't recognize you outside your work uniform."
-    u "Amber, c'est toi ? Je ne t'ai pas reconnue en dehors de ton uniforme de travail."
+    u "Amber, c'est toi ? Je ne t'ai pas reconnue sans ton uniforme de travail."
 
 # game/v11/scene11.rpy:22
 translate francais v11_Amber_Penelope_1f628293:
 
     # am "This is exactly what I wanted to talk about..."
-    am "C'est exactement ce dont je voulais te parler..."
+    am "C'est exactement de ça que je voulais te parler..."
 
 # game/v11/scene11.rpy:33
 translate francais v11_Amber_Penelope_fe2c889a:
@@ -28,7 +28,7 @@ translate francais v11_Amber_Penelope_0336fa14:
 translate francais v11_Amber_Penelope_5705e7b8:
 
     # am "Listen, the real reason I don't want anyone knowing that I work at Lew's is because it's kind of... embarrassing. It's not really my ideal job, but it pays really well."
-    am "Écoute, la vraie raison pour laquelle je ne veux pas que quelqu'un sache que je travaille chez Lew's c'est parce que c'est un peu... embarrassant. Ce n'est pas vraiment mon job idéal, mais ça paie vraiment bien."
+    am "Écoute, la vraie raison pour laquelle je ne veux pas que quelqu'un sache que je travaille chez Lew's c'est parce que c'est un peu... embarrassant. C'est pas vraiment mon job idéal, mais ça paie vraiment bien."
 
 # game/v11/scene11.rpy:44
 translate francais v11_Amber_Penelope_21bac46f:
@@ -70,7 +70,7 @@ translate francais v11_Amber_Penelope_0aea27bf:
 translate francais v11_Amber_Penelope_1ca16874:
 
     # u "No problem."
-    u "Pas de soucis."
+    u "Pas de souci."
 
 # game/v11/scene11.rpy:84
 translate francais v11_Amber_Penelope_7a3ad6a8:
@@ -82,7 +82,7 @@ translate francais v11_Amber_Penelope_7a3ad6a8:
 translate francais v11_Amber_Penelope_4127b8f0:
 
     # am "So that I can do whatever I want, duh. *Chuckles*"
-    am "Pour que je puisse faire ce que je veux, he ! *Rire*"
+    am "Pour que je puisse faire ce que je veux, crétin ! *Rire*"
 
 # game/v11/scene11.rpy:94
 translate francais v11_Amber_Penelope_0caa8ef3:
@@ -130,7 +130,7 @@ translate francais v11_Amber_Penelope_fd25ee04:
 translate francais v11_Amber_Penelope_9ddfb4b9:
 
     # am "Your loss."
-    am "C'est toi qui y perds."
+    am "Tu vas rater un truc."
 
 # game/v11/scene11.rpy:140
 translate francais v11_Amber_Penelope_d5489b0f:
@@ -184,7 +184,7 @@ translate francais v11_Amber_Penelope_2d682a87:
 translate francais v11_Amber_Penelope_d19ef2d2:
 
     # u "I'm just glad this is as bad as it gets."
-    u "Je suis juste heureux que ce ne soit pas aussi difficile que ça."
+    u "Je suis heureux pour toi que ce ne soit pas aussi difficile que ça."
 
 # game/v11/scene11.rpy:208
 translate francais v11_Amber_Penelope_7bb825bf:
@@ -196,7 +196,7 @@ translate francais v11_Amber_Penelope_7bb825bf:
 translate francais v11_Amber_Penelope_5a51191d:
 
     # u "It'll be over in no time."
-    u "Ce sera vite terminé."
+    u "Ça va être vite terminé."
 
 # game/v11/scene11.rpy:218
 translate francais v11_Amber_Penelope_9c5bd5fb:

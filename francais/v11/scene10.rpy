@@ -16,13 +16,13 @@ translate francais v11_airport_arrival_cf5c7ea1:
 translate francais v11_airport_arrival_eb22d5ef:
 
     # lee "As I was saying, we will be exploring three locations in Europe. London, Paris, and Amsterdam."
-    lee "Comme je le disais, nous allons visiter trois endroits en Europe. Londres, Paris, et Amsterdam."
+    lee "Comme je le disais, nous allons visiter trois endroits en Europe. Londres, Paris et Amsterdam."
 
 # game/v11/scene10.rpy:35
 translate francais v11_airport_arrival_88e2e599:
 
     # lee "I expect you all to behave like adults since that's what you are and even though there are some specific activities we'll attend as a group."
-    lee "J'attends de vous tous que vous vous comportiez comme des adultes puisque c'est ce que vous êtes et ce, même s'il y a des activités spécifiques auxquelles nous participerons en tant que groupe."
+    lee "J'attends de vous tous que vous vous comportiez comme des adultes puisque c'est ce que vous êtes. Et ce, même s'il y a des activités spécifiques auxquelles nous participerons en groupe."
 
 # game/v11/scene10.rpy:40
 translate francais v11_airport_arrival_0bda7ffa:
@@ -166,13 +166,13 @@ translate francais v11_airport_arrival_593269cb:
 translate francais v11_airport_arrival_110fcc7c:
 
     # ri "The most trusted student definitely needs some extra credit. *Chuckles*"
-    ri "L'étudiant le plus fiable a définitivement besoin d'un bonus supplémentaire. *Rire*"
+    ri "C'est vrai, \"l'étudiant le plus fiable\" a vraiment besoin d'un bonus supplémentaire. *Rire*"
 
 # game/v11/scene10.rpy:157
 translate francais v11_airport_arrival_5b6645d5:
 
     # lee "I'll leave you to it."
-    lee "Je vous laisse faire."
+    lee "Je vous laisse ceci, bonne chasse."
 
 # game/v11/scene10.rpy:172
 translate francais v11_airport_arrival_5ecde73e:
@@ -190,7 +190,7 @@ translate francais v11_airport_arrival_f211f0a7:
 translate francais v11_airport_arrival_4528f226:
 
     # ri "I'm sorry, did the teacher's pet say something?"
-    ri "Je suis désolée, est-ce que le petit chien du professeur a dit quelque chose ?"
+    ri "Je suis désolée, est-ce que le petit chien du prof a dit quelque chose ?"
 
 # game/v11/scene10.rpy:187
 translate francais v11_airport_arrival_5ef491b0:
@@ -256,7 +256,7 @@ translate francais v11_airport_arrival_398377c9:
 translate francais v11_airport_arrival_6109223f:
 
     # u "We'll talk about this more later."
-    u "Nous en reparlerons plus tard."
+    u "On en reparlera plus tard."
 
 # game/v11/scene10.rpy:258
 translate francais v11_airport_arrival_1e2ce377:

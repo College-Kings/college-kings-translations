@@ -94,7 +94,7 @@ translate francais v11_nora_airport_convo_e9126ded:
 translate francais v11_nora_airport_convo_bb53430b:
 
     # charli "She couldn't care less about any of that right now. I know during my own times of frustration I don't want to hear what anyone has to say unless they're agreeing with me. *Chuckles*"
-    charli "Elle veut rester seule avec ses problèmes. Je sais que dans mes propres moments de frustration, je ne veux pas entendre ce que les gens ont à dire, sauf s'ils sont d'accord avec moi. *Rires*"
+    charli "Elle veut rester seule avec ses problèmes. Je sais que dans mes propres moments de frustration, je ne veux pas entendre ce que les gens ont à dire, sauf s'ils sont d'accord avec moi. *Rire*"
 
 # game/v11/scene15.rpy:75
 translate francais v11_nora_airport_convo_a8b7adb8:
@@ -112,7 +112,7 @@ translate francais v11_nora_airport_convo_3b739a66:
 translate francais v11_nora_airport_convo_70a9f126:
 
     # charli "Are you sure? I know she's your friend, I'm not trying to be \"that guy\"."
-    charli "Tu es sûr ? Je sais que c'est ton amie, je n'essaie pas d'être \"ce type\"."
+    charli "Tu es sûr ? Je sais que c'est ton amie, je n'essaie pas d'être \"ce genre de type\"."
 
 # game/v11/scene15.rpy:90
 translate francais v11_nora_airport_convo_5af2bb70:
@@ -160,7 +160,7 @@ translate francais v11_nora_airport_convo_0e21f62f:
 translate francais v11_nora_airport_convo_c9955893:
 
     # u "(It's obvious he's just trying to get close to her while she's upset so she'll let him fuck. I officially don't like this guy. Acting all nice and shit.)"
-    u "(Il est évident qu'il essaie juste de se rapprocher d'elle pendant qu'elle est bouleversée pour qu'elle baisse sa garde et qu'il puisse en faire ce qu'il veut. Je n'aime officiellement pas ce gars. Il fait semblant d'être gentil, c'est tout)."
+    u "(Il est évident qu'il essaie juste de se rapprocher d'elle pendant qu'elle est bouleversée pour qu'elle baisse sa garde et qu'il puisse en faire ce qu'il veut. Je n'aime officiellement pas ce mec. Il fait semblant d'être gentil, c'est tout)."
 
 # game/v11/scene15.rpy:141
 translate francais v11_nora_airport_convo_85152a9e:
@@ -178,7 +178,7 @@ translate francais v11_nora_airport_convo_f37d1579:
 translate francais v11_nora_airport_convo_dc631653:
 
     # u "What's going on is you're undermining me in front of the people I'm closest to. And I don't fuck with that."
-    u "Ce qui se passe, c'est que tu me rabaisses devant les gens dont je suis le plus proche. Et je ne déconne pas avec ça."
+    u "Ce qui se passe, c'est que tu me rabaisses devant les gens dont je suis le plus proche. Et je déconne pas avec ça."
 
 # game/v11/scene15.rpy:156
 translate francais v11_nora_airport_convo_0f41161c:
