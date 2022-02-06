@@ -1258,7 +1258,7 @@ translate francais v11s23_freeroamend_6e1bd78c:
 translate francais v11s23_freeroamend_6b6fbd48:
 
     # u "Freedom!"
-    u "Liberté !"
+    u "Et voilà, on est libres !"
 
 # game/v11/scene23.rpy:1215
 translate francais v11s23_freeroamend_fdbce207:

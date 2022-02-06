@@ -76,7 +76,7 @@ translate francais v11_hotel_charlie_bar_d2dd7b0c:
 translate francais v11_hotel_charlie_bar_4414e6fb:
 
     # u "You don't know anything about me, yet you're trying to tell me who I am and what I do. You've been around for like a week bro."
-    u "Tu ne sais rien de moi, et pourtant tu essaies de me dire qui je suis et ce que je fais. Tu n'es là que depuis une semaine, mec."
+    u "Tu ne sais rien de moi, et pourtant tu essaies de me dire qui je suis et ce que je fais. On se \"connaît\" depuis à peine une semaine, mec."
 
 # game/v11/scene25a.rpy:62
 translate francais v11_hotel_charlie_bar_b6f5d429:

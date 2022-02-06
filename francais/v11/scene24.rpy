@@ -292,13 +292,13 @@ translate francais v11_big_ben_3ab72db2:
 translate francais v11_big_ben_93b929f3:
 
     # u "What the fuck?"
-    u "C'est quoi ce bordel ?"
+    u "Putain, qu'est-ce que c'est ?"
 
 # game/v11/scene24.rpy:281
 translate francais v11_big_ben_173cc49c:
 
     # no "*Laughs* It does that every hour on the dot. Haha, I can't believe how loud it is. That was beautiful."
-    no "*Rire* Il fait ça à toutes les heures. Haha, je ne peux pas croire à quel point c'est bruyant. C'était magnifique."
+    no "*Rire* Elle fait ça à toutes les heures. Haha, je ne peux pas croire à quel point c'est bruyant. C'était magnifique."
 
 # game/v11/scene24.rpy:288
 translate francais v11_big_ben_8761a971:
