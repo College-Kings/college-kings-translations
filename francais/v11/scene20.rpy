@@ -370,13 +370,13 @@ translate francais v11_treasure_hunt_8b843840_1:
 translate francais v11_treasure_hunt_5b0b3392:
 
     # ri "HOLY SHIT! You just fucking did that, [name]! That was amazing!"
-    ri "BORDEL ! Putain, tu viens de le faire, [name] ! C'était génial !"
+    ri "PUTAINNNNN ! Tu l'as fait, [name] ! C'était génial !"
 
 # game/v11/scene20.rpy:476
 translate francais v11_treasure_hunt_8fabac91:
 
     # u "I can't believe that actually just happened..."
-    u "Je n'arrive pas à croire que ça soit vraiment arrivé..."
+    u "Je n'arrive pas à croire que j'ai vraiment réussi..."
 
 # game/v11/scene20.rpy:486
 translate francais v11_treasure_hunt_81083ef3:

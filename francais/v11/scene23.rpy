@@ -388,7 +388,7 @@ translate francais v11s23_riley1_e40e3520:
 translate francais v11s23_riley1_46d1e415:
 
     # u "Why are you nerding out so much right now?"
-    u "Pourquoi tu te prends la tête à jouer les ringardes en ce moment ?"
+    u "Pourquoi tu te prends la tête à jouer les intellos ?"
 
 # game/v11/scene23.rpy:361
 translate francais v11s23_riley1_82974273:
@@ -556,7 +556,7 @@ translate francais v11s23_riley1_5c55c320:
 translate francais v11s23_riley1_61231aec:
 
     # ri "That was just one fight! And she played dirty... don't worry, I'll get her back."
-    ri "C'était juste un combat ! Et elle a mal joué... Ne t'inquiète pas, je vais l'avoir."
+    ri "C'était juste un combat ! Et elle a joué la vilaine... Ne t'inquiète pas, je vais l'avoir."
 
 # game/v11/scene23.rpy:510
 translate francais v11s23_riley1_97e92874:
@@ -598,7 +598,7 @@ translate francais v11s23_riley1_a20cccab:
 translate francais v11s23_riley1_127638b3:
 
     # ri "You just started a war, [name], I hope you're ready."
-    ri "Tu viens de commencer une guerre, [name], j'espère que tu es prêt."
+    ri "Tu viens de me déclarer la guerre, [name], j'espère que tu es prêt."
 
 # game/v11/scene23.rpy:561
 translate francais v11s23_riley1_30619ab3:

@@ -130,7 +130,7 @@ translate francais v11_museum_tour_98e6e574:
 translate francais v11_museum_tour_ea51b976:
 
     # ri "Look at us, agreeing. *Chuckles*"
-    ri "Regarde-nous, d'accord. *Rire*"
+    ri "Regarde-nous, qui sommes d'accord ensemble. *Rire*"
 
 # game/v11/scene22.rpy:148
 translate francais v11_museum_tour_a915f958:
