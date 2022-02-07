@@ -202,13 +202,13 @@ translate francais v11_carriage_ride_8720366a:
 translate francais v11_carriage_ride_78a3c4ad:
 
     # u "Don't worry, I wouldn't do that to you. *Chuckles* That'd be like me having to ride with Charli, Imre and Ryan."
-    u "Ne t'inquiète pas, je ne te ferais pas ça. *Rire* Ce serait comme si je devais monter avec Charli, Imre et Ryan."
+    u "Ne t'inquiète pas, je ne te ferais pas ça. *Rire* Ce serait comme monter avec Charli, Imre et Ryan."
 
 # game/v11/scene40.rpy:198
 translate francais v11_carriage_ride_2532baf3:
 
     # u "There's no telling what would happen on that ride, but it's most likely not gonna end well."
-    u "On ne sait pas ce qui va se passer pendant ce parcours, mais ça ne va probablement pas bien se terminer."
+    u "On ne sait pas ce qui va se passer pendant ce parcours, mais ça va sûrement mal se terminer."
 
 # game/v11/scene40.rpy:203
 translate francais v11_carriage_ride_c8a22771:
@@ -292,7 +292,7 @@ translate francais v11_carriage_ride_9c675a53:
 translate francais v11_carriage_ride_2f8a993b:
 
     # u "Like being seasick except... well not on the sea?"
-    u "Comme avoir le mal de mer, sauf que... pas sur la mer ?"
+    u "C'est comme avoir le mal de mer, sauf que... pas sur la mer ?"
 
 # game/v11/scene40.rpy:298
 translate francais v11_carriage_ride_302997bc:
@@ -334,7 +334,7 @@ translate francais v11_carriage_ride_571435d2:
 translate francais v11_carriage_ride_881845ae:
 
     # li "Haha, I was just thinking for a sec. I did go to a really nice ice cream place with Aubrey. She eats ice cream like a crazy person. *Chuckles*"
-    li "Haha, j'ai réfléchi pendant une seconde. Je suis allée dans un très bon glacier avec Aubrey. Elle mange vraiment de la glace comme une folle. *Rire*"
+    li "Haha, je réfléchissais pendant une seconde. Je suis allée dans un très bon glacier avec Aubrey. Elle mange vraiment de la glace comme une folle. *Rire*"
 
 # game/v11/scene40.rpy:333
 translate francais v11_carriage_ride_e9b83421:
@@ -538,7 +538,7 @@ translate francais v11_carriage_ride_b25c90a6:
 translate francais v11_carriage_ride_25a013c2:
 
     # cl "Ever thought about the tension a poorly chosen nickname could cause? The bullying that could lead to? I guess you wouldn't care, it's not like you give a fuck about other people's happiness."
-    cl "As-tu déjà pensé à la tension que peut provoquer un surnom mal choisi ? Aux brimades que cela pourrait engendrer ? Je crois que tu t'en fous, c'est pas comme si tu te préoccupais du bonheur des autres."
+    cl "As-tu déjà pensé à la tension que peut provoquer un surnom mal choisi ? Aux brimades que ça pourrait engendrer ? Je crois que tu t'en fous, c'est pas comme si tu te préoccupais du bonheur des autres."
 
 # game/v11/scene40.rpy:510
 translate francais v11_carriage_ride_1657563c:
@@ -550,7 +550,7 @@ translate francais v11_carriage_ride_1657563c:
 translate francais v11_carriage_ride_7851a953:
 
     # u "Look, the idea sounds good, but I do see the tension it could cause and you guys certainly have enough of that. I think it's best to keep things as is."
-    u "Ecoutez, l'idée semble bonne, mais je vois les tensions que cela pourrait causer et vous en avez certainement assez. Je pense que c'est mieux de garder les choses comme elles sont."
+    u "Ecoutez, l'idée semble bonne, mais je vois les tensions que ça pourrait causer et vous en avez certainement assez. Je pense que c'est mieux de garder les choses comme elles sont."
 
 # game/v11/scene40.rpy:524
 translate francais v11_carriage_ride_e9fc8e58:
@@ -610,13 +610,13 @@ translate francais v11_carriage_ride_e5774828:
 translate francais v11_carriage_ride_313f5727:
 
     # li "Guys, I-"
-    li "Le filles, je-"
+    li "Les filles, je-"
 
 # game/v11/scene40.rpy:570
 translate francais v11_carriage_ride_8973a45a:
 
     # cl "Lindsey, you're fine. This has nothing to do with your idea. Clearly Nora has been itching to get these things off her chest for a while."
-    cl "Lindsey, tu es très bien. Ça n'a rien à voir avec ton idée. Il est clair que Nora a envie de se débarrasser de ces choses depuis un moment."
+    cl "Lindsey, tu es très bien. Ça n'a rien à voir avec ton idée. Il est clair que Nora a envie de sortir tout ça depuis un moment."
 
 # game/v11/scene40.rpy:575
 translate francais v11_carriage_ride_b90f34c5:
@@ -742,7 +742,7 @@ translate francais v11_carriage_ride_1dce5183:
 translate francais v11_carriage_ride_2f6328ac:
 
     # cl "That I'm the one that sabotaged the Deers car washing event cause they were earning more than us???"
-    cl "Que je suis celle qui a saboté le lavage de voiture des Deers parce qu'ils gagnaient plus que nous ? ???"
+    cl "Que je suis celle qui a saboté le lavage de voiture des Deers parce qu'ils gagnaient plus que nous ???"
 
 # game/v11/scene40.rpy:674
 translate francais v11_carriage_ride_2b14761c:
@@ -766,7 +766,7 @@ translate francais v11_carriage_ride_f9783442:
 translate francais v11_carriage_ride_6efcf2ae:
 
     # no "What about the time you told a Chick to leave campus cause she was wearing the same dress as you?!"
-    no "Et la fois où tu as dit à une fille de quitter le campus parce qu'elle portait la même robe que toi ? !"
+    no "Et la fois où tu as dit à une fille de quitter le campus parce qu'elle portait la même robe que toi ?!"
 
 # game/v11/scene40.rpy:694
 translate francais v11_carriage_ride_0a5502a6:
@@ -1061,7 +1061,7 @@ translate francais strings:
 translate francais v11_carriage_ride_167fd34a:
 
     # li "They've been doing this since the beginning of the Chicks, but one year a President didn't give the pledges any nicknames and after a few years of that, the whole thing disappeared."
-    li "Elles font cela depuis le début des Chicks, mais une année, une présidente n'a pas donné de surnoms aux bizuts et après quelques années de cette façon, tout le truc a disparu."
+    li "Elles font cela depuis le début des Chicks, mais une année, une présidente n'a pas donné de surnoms aux nouvelles et après quelques années comme ça, tout le truc a disparu."
 
 # game/v11/scene40.rpy:477
 translate francais v11_carriage_ride_d9ec256f:

@@ -28,7 +28,7 @@ translate francais v11_hotel_lobby_rose_92c224aa:
 translate francais v11_hotel_lobby_rose_3703a650:
 
     # cl "Haha. Sadly, no. We can't today, at least."
-    cl "Haha. Malheureusement, non. Nous ne pouvons pas, en tout cas aujourd'hui."
+    cl "Haha. Malheureusement, non. Nous ne pouvons pas. Pas aujourd'hui, en tout cas."
 
 # game/v11/scene42.rpy:37
 translate francais v11_hotel_lobby_rose_019dd3d4:
@@ -124,7 +124,7 @@ translate francais v11_hotel_lobby_rose_42c2c45e:
 translate francais v11_hotel_lobby_rose_3f3ca45b:
 
     # ro "Alright students, please listen up! For today's group event we'll be attending a tour of a bank. Now, this bank is being generous enough to even allow us to do this."
-    ro "Très bien, étudiants, écoutez bien ! Pour l'événement de groupe d'aujourd'hui, nous allons faire la visite d'une banque. Cette banque est assez généreuse pour nous permettre de faire ça."
+    ro "Très bien les étudiants, écoutez bien ! Pour l'événement de groupe d'aujourd'hui, nous allons faire la visite d'une banque. Cette banque est assez généreuse pour nous permettre d'organiser ça."
 
 # game/v11/scene42.rpy:165
 translate francais v11_hotel_lobby_rose_4bd73ffd:

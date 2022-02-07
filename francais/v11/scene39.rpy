@@ -868,7 +868,7 @@ translate francais v11_no_overtake3_06cda73b:
 translate francais v11_no_overtake3_3b0c553b:
 
     # u "Be careful what you wish for!"
-    u "Faites attention à ce que tu souhaites !"
+    u "Fais attention à ce que tu souhaites !"
 
 # game/v11/scene39.rpy:894
 translate francais v11_race_continue3_b0da12fa:

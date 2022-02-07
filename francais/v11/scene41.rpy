@@ -70,13 +70,13 @@ translate francais v11_chloe_bathroom_1c2c6fe9:
 translate francais v11_chloe_bathroom_db249ac3:
 
     # cl "Do you think the things she said about me are true?"
-    cl "Tu crois que les choses qu'elle a dites sur moi sont vraies ?"
+    cl "Tu crois que les choses qu'elle a raconté sur moi sont vraies ?"
 
 # game/v11/scene41.rpy:100
 translate francais v11_chloe_bathroom_e144f932:
 
     # u "I think Nora was frustrated and with everyone trying to figure things out... She was probably just taking a bunch of things out on you."
-    u "Je pense que Nora était frustrée et avec tout le monde qui essayait de comprendre les choses... Elle s'en prenait probablement à toi pour un tas de choses."
+    u "Je pense que Nora était frustrée et avec tout le monde qui essayait de comprendre la situation... Elle s'en prenait probablement à toi pour un tas d'autres trucs."
 
 # game/v11/scene41.rpy:132
 translate francais v11_chloe_bathroom_2a870042:
