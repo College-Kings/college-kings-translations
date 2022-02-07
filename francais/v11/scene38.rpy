@@ -28,7 +28,7 @@ translate francais v11_amber_bar_d2ce563b:
 translate francais v11_amber_bar_080adf71:
 
     # bartender "Classic song right there."
-    bartender "Une chanson classique."
+    bartender "Un grand classique."
 
 # game/v11/scene38.rpy:64
 translate francais v11_amber_bar_57601c03:
@@ -118,7 +118,7 @@ translate francais v11_amber_bar_4f650763:
 translate francais v11_amber_bar_de369a9f:
 
     # u "Yes, Amber, I know what go-karts are. *Chuckles* I just thought they were more for little kids."
-    u "Oui, Amber, je sais ce que sont les karts. *Rire* Je pensais juste que c'était plus pour les petits enfants."
+    u "Si Amber, je sais ce que sont les karts. *Rire* Je pensais juste que c'était plus pour les petits enfants."
 
 # game/v11/scene38.rpy:149
 translate francais v11_amber_bar_9ff41fa5:

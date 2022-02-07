@@ -34,7 +34,7 @@ translate francais v11_mc_amber_gokart_29f395ea:
 translate francais v11_mc_amber_gokart_10c7b932:
 
     # u "Okay... What are you thinking?"
-    u "Ok... A quoi tu penses ?"
+    u "Ok... À quoi tu penses ?"
 
 # game/v11/scene39.rpy:44
 translate francais v11_mc_amber_gokart_e22098ba:
@@ -124,7 +124,7 @@ translate francais v11_mc_amber_gokart_733e0d0b:
 translate francais v11_mc_amber_gokart_3f018e8a:
 
     # am "What?! You're really closed?"
-    am "Quoi ? ! Vous êtes vraiment fermé ?"
+    am "Quoi ?! Vous êtes vraiment fermé ?"
 
 # game/v11/scene39.rpy:129
 translate francais v11_mc_amber_gokart_1dc4b869:
@@ -136,7 +136,7 @@ translate francais v11_mc_amber_gokart_1dc4b869:
 translate francais v11_mc_amber_gokart_a1b02927:
 
     # am "Uhh, hello?"
-    am "Euhh, salut ?"
+    am "Euhh, allo ?"
 
 # game/v11/scene39.rpy:139
 translate francais v11_mc_amber_gokart_6f50e7b5:

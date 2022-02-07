@@ -244,7 +244,7 @@ translate francais v11_lindsey_park_857b0ad3:
 translate francais v11_lindsey_park_578c21cb:
 
     # li "Yep, but the Chicks have never had multiple candidates before so there's no precedent on how this will go. So, I'm taking upon myself to do this the only way I know how."
-    li "Oui, mais les Chicks n'ont jamais eu plusieurs candidates avant, donc il n'y a pas de précédent sur la façon dont ça va se passer. Donc, je prends sur moi de faire ça, de la seule façon que je connaisse."
+    li "Oui, mais les Chicks n'ont jamais eu plusieurs candidates avant, donc il n'y a pas de précédent sur la façon dont ça va se passer. Je prends donc sur moi de faire ça, de la seule façon que je connaisse."
 
 # game/v11/scene31.rpy:238
 translate francais v11_lindsey_park_085d4521:
@@ -484,7 +484,7 @@ translate francais v11_lindsey_park_4026079d:
 translate francais v11_lindsey_park_079bd311:
 
     # u "(This day just gets better and better.)"
-    u "((Cette journée se déroule de mieux en mieux.)"
+    u "(Cette journée se déroule de mieux en mieux.)"
 
 translate francais strings:
 

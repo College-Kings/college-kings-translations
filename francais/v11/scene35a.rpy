@@ -250,13 +250,13 @@ translate francais v11_chloe_hotel_room_amber_call_dc0a9ede:
 translate francais v11_chloe_hotel_room_amber_call_4da31f42:
 
     # cl "Very much so... you wanna get ready for bed with me?"
-    cl "Très... tu veux te préparer pour aller au lit avec moi ?"
+    cl "Très... Tu es prêt pour que je te rejoigne au lit ?"
 
 # game/v11/scene35a.rpy:267
 translate francais v11_chloe_hotel_room_amber_call_04e0beba:
 
     # u "I was thinking maybe we could-"
-    u "Je pensais que peut-être on pourrait-"
+    u "Je pense qu'on pourrait peut-être-"
 
 # game/v11/scene35a.rpy:281
 translate francais v11_chloe_hotel_room_amber_call_692174de_1:

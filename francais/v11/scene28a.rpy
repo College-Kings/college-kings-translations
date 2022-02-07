@@ -202,7 +202,7 @@ translate francais v11_sam_spa_5781d4af:
 translate francais v11_sam_spa_23f0f72a:
 
     # u "So I assume you didn't snitch?"
-    u "Donc je suppose que tu ne l'as pas balancé ?"
+    u "Donc tu ne l'as pas balancé ?"
 
 # game/v11/scene28a.rpy:213
 translate francais v11_sam_spa_1e55d253:
@@ -340,7 +340,7 @@ translate francais v11_sam_spa_c93849ab:
 translate francais v11_sam_spa_58daaca3:
 
     # u "I don't know, Sam."
-    u "Je ne sais pas, Sam."
+    u "J'en savais rien, Sam."
 
 # game/v11/scene28a.rpy:325
 translate francais v11_sam_spa_e29cb7ba:
@@ -382,7 +382,7 @@ translate francais v11_sam_spa_977d0d87:
 translate francais v11_sam_spa_8a9e3334:
 
     # sa "*Chuckles* Facts are facts."
-    sa "*Rire* Les faits sont les faits."
+    sa "*Rire* C'est l'expérience qui parle."
 
 # game/v11/scene28a.rpy:360
 translate francais v11_sam_spa_45eb4142:
@@ -436,7 +436,7 @@ translate francais v11_sam_spa_cc2f76ae:
 translate francais v11_sam_spa_480a0341:
 
     # u "Where did you want to go to school?"
-    u "Où voulais-tu aller à l'école ?"
+    u "Tu voulais aller dans qu'elle école ?"
 
 # game/v11/scene28a.rpy:405
 translate francais v11_sam_spa_4a0cd701:
@@ -454,7 +454,7 @@ translate francais v11_sam_spa_ad808ca8:
 translate francais v11_sam_spa_78d14717:
 
     # sa "I'm not stupid, [name], I have really good grades."
-    sa "Je ne suis pas stupide, [name], j'ai de très bonnes notes."
+    sa "Je ne suis pas stupide, [name]. J'ai de très bonnes notes."
 
 # game/v11/scene28a.rpy:420
 translate francais v11_sam_spa_20298982:
@@ -538,13 +538,13 @@ translate francais v11s28a_galleryScene_133a2dc7:
 translate francais v11s28a_galleryScene_cbb12fee:
 
     # u "Sounds like you have good stories?"
-    u "On dirait que tu as de bonnes histoires ?"
+    u "Tu as eu de vraies histoires ?"
 
 # game/v11/scene28a.rpy:529
 translate francais v11s28a_galleryScene_2c3bd0b0:
 
     # sa "Just one, poor little Justin. My most recent ex, he had it the hardest."
-    sa "Juste une seule, le pauvre petit Justin. Mon ex le plus récent, il a eu la vie la plus dure."
+    sa "Une seule, le pauvre petit Justin. Mon ex le plus récent, il a eu la vie dure."
 
 # game/v11/scene28a.rpy:534
 translate francais v11s28a_galleryScene_b898a6eb:
@@ -574,13 +574,13 @@ translate francais v11s28a_galleryScene_220bc4e2:
 translate francais v11s28a_galleryScene_d52f5806:
 
     # u "I feel like I see where this is going..."
-    u "J'ai l'impression de voir où cela va nous mener..."
+    u "J'ai l'impression de voir où ça va nous mener..."
 
 # game/v11/scene28a.rpy:559
 translate francais v11s28a_galleryScene_277a0f08:
 
     # sa "I was a little embarrassed sitting at the house waiting and Cameron was getting pissed. He drove over to Justin's house, barged in and beat his ass with no questions asked."
-    sa "J'étais un peu embarrassée d'attendre à la maison et Cameron était en colère. Il a conduit jusqu'à la maison de Justin, a fait irruption et lui a botté le cul sans poser de questions."
+    sa "J'étais un peu embarrassée d'attendre à la maison et Cameron était en colère. Il est allé jusqu'à la maison de Justin, a fait irruption et lui a botté le cul sans poser de questions."
 
 # game/v11/scene28a.rpy:561
 translate francais v11s28a_galleryScene_64115a81:
@@ -592,7 +592,7 @@ translate francais v11s28a_galleryScene_64115a81:
 translate francais v11s28a_galleryScene_d6944590:
 
     # u "*Laughs* I'm so sorry... that's fucking crazy. What happened to Cameron?"
-    u "*Rire* Je suis vraiment désolé... c'est complètement fou. Qu'est-il arrivé à Cameron ?"
+    u "*Rire* Heu... Je suis vraiment désolé... c'est complètement fou. Qu'est-il arrivé à Cameron ?"
 
 # game/v11/scene28a.rpy:571
 translate francais v11s28a_galleryScene_6777e775:
@@ -646,7 +646,7 @@ translate francais v11s28a_galleryScene_92e6c1e8:
 translate francais v11s28a_galleryScene_62b603c5:
 
     # sa "How funny... Don't think we're just gonna talk about me all night. What about your exes? I know you dated Emily."
-    sa "Oh mais c'est drôle... Ne pense pas qu'on va juste parler de moi toute la nuit. Qu'en est-il de tes ex ? Je sais que tu es sorti avec Emily."
+    sa "Très drôle... Ne pense pas qu'on va juste parler de moi toute la nuit. Qu'en est-il de tes ex ? Je sais que tu es sorti avec Emily."
 
 # game/v11/scene28a.rpy:610
 translate francais v11s28a_galleryScene_46f48680:
@@ -820,7 +820,7 @@ translate francais v11s28a_galleryScene_263e2d1f:
 translate francais v11s28a_galleryScene_b29b6807:
 
     # sa "No, it's too expensive to travel... and plus, I've never really been into it that much anyway."
-    sa "Non, c'est trop cher de voyager... et en plus, ça ne m'a jamais vraiment passionné de toute façon."
+    sa "Non, c'est trop cher de voyager... et en plus, ça ne m'a jamais vraiment intéressé de toute façon."
 
 # game/v11/scene28a.rpy:785
 translate francais v11s28a_galleryScene_e50bb0e2:

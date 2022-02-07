@@ -94,13 +94,13 @@ translate francais v11_imre_ryan_grapple_417a23cd:
 translate francais v11_imre_ryan_grapple_30f20e16:
 
     # lee "I believe I heard you say something about Imre smelling like a wet dog when we were at the airport, am I wrong or am I right, Ryan?"
-    lee "Je crois vous avoir entendu dire qu'Imre sentait le chien mouillé quand nous étions à l'aéroport, je me trompe ou j'ai raison, Ryan ?"
+    lee "Ryan, je crois vous avoir entendu dire qu'Imre sentait le chien mouillé quand nous étions à l'aéroport, je me trompe ou j'ai raison ?"
 
 # game/v11/scene36.rpy:149
 translate francais v11_imre_ryan_grapple_99b993cc:
 
     # ry "Yeah, but it was true so I don't see the problem."
-    ry "Oui, mais ça c'est vrai donc je ne vois pas le problème."
+    ry "Oui, mais ça c'est vrai alors je ne vois pas le problème."
 
 # game/v11/scene36.rpy:154
 translate francais v11_imre_ryan_grapple_c83e487a:

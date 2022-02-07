@@ -28,4 +28,4 @@ translate francais v11_emily_sidewalk_b213e5e7:
 translate francais v11_emily_sidewalk_16caa92e:
 
     # u "(She really doesn't want to talk to me. Oh, well.)"
-    u "(Elle ne veut vraiment pas me parler. Oh, tant pis.)"
+    u "(Elle ne veut vraiment pas me parler. Oh, et puis j'm'en fous.)"

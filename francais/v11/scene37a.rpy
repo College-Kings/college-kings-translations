@@ -202,7 +202,7 @@ translate francais v11_ride_with_mrlee_f8b3330d:
 translate francais v11_ride_with_mrlee_b450e9d8:
 
     # u "(Good thing you don't have a say.)"
-    u "(Bonne chose que vous n'ayez pas votre mot à dire.)"
+    u "(C'est une bonne chose que vous n'ayez pas votre mot à dire.)"
 
 # game/v11/scene37a.rpy:179
 translate francais v11_ride_with_mrlee_df706c18:

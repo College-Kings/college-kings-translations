@@ -106,7 +106,7 @@ translate francais v11_walk_park_786fd428:
 translate francais v11_walk_park_e5f20d2c:
 
     # lee "From that point on I looked at him as a rival. At first you could've called it revenge, but after you get somebody so many times... you're just being, excuse my language but, an ass."
-    lee "À partir de ce moment-là, je l'ai considéré comme un rival. Au début, on aurait pu appeler ça une vengeance, mais après en avoir frappé quelqu'un autant de fois... on devient juste, excusez mon langage, un connard."
+    lee "À partir de ce moment-là, je l'ai considéré comme un rival. Au début, on aurait pu appeler ça une vengeance, mais après avoir fait payer quelqu'un si souvent... on devient juste, excusez mon langage, un connard."
 
 # game/v11/scene37.rpy:117
 translate francais v11_walk_park_76937d90:
@@ -160,7 +160,7 @@ translate francais v11_walk_park_ea27a9f9:
 translate francais v11_walk_park_ee116fa8:
 
     # ry "Shouldn't you be mad at Grayson? *Chuckles* That's exactly what it is! You're scared of him so you settle for shitting on me."
-    ry "Tu ne devrais pas être en colère contre Grayson ? *Rire* C'est exactement ça ! Tu as peur de lui alors tu te contentes de me faire chier, moi."
+    ry "Tu ne devrais pas être en colère contre Grayson ? *Rire* C'est ça le problème ! Tu as peur de lui alors tu te contentes de me faire chier, moi."
 
 # game/v11/scene37.rpy:162
 translate francais v11_walk_park_d750399f:
@@ -202,4 +202,4 @@ translate francais v11_walk_park_483f0897:
 translate francais v11_walk_park_27a93b2d:
 
     # imre "Bro, shut the fuck up. How are we gonna get home?"
-    imre "Frère, ferme ta gueule. Comment on va rentrer à la maison ?"
+    imre "Putain, ferme ta gueule. Comment on va rentrer à la maison ?"

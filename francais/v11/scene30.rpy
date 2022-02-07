@@ -124,7 +124,7 @@ translate francais v11_lauren_store_9221e666:
 translate francais v11_lauren_store_b5fce2eb:
 
     # u "I guess it depends where you're taking me."
-    u "Je pense que ça dépend d'où tu m'emmènes."
+    u "Je pense que ça dépend où tu m'emmènes."
 
 # game/v11/scene30.rpy:156
 translate francais v11_lauren_store_3705849a:
@@ -166,7 +166,7 @@ translate francais v11_lauren_store_0ead8abe:
 translate francais v11_lauren_store_aff067a9:
 
     # u "What the fuck is this?"
-    u "C'est quoi ce bordel ?"
+    u "C'est quoi cette merde ?"
 
 # game/v11/scene30.rpy:211
 translate francais v11_lauren_store_a6c73d2a:
@@ -316,7 +316,7 @@ translate francais v11_lauren_store_e5d20124:
 translate francais v11_lauren_store_6575bcb0:
 
     # u "Well, look at you... a little witch girl. *Chuckles* You guys are really serious about this stuff."
-    u "Eh bien, regarde-toi... une petite fille sorcière. *Rire* Vous êtes vraiment sérieux à propos de ce truc."
+    u "Eh bien, regarde-toi... une jeune fille sorcière. *Rire* Vous êtes vraiment sérieux à propos de ce truc."
 
 # game/v11/scene30.rpy:370
 translate francais v11_lauren_store_29a7a69e:
@@ -334,7 +334,7 @@ translate francais v11_lauren_store_ef073a89:
 translate francais v11_lauren_store_2e5fe879:
 
     # la "Better. *Chuckles*"
-    la "Mieux. *Rire*"
+    la "C'est mieux. *Rire*"
 
 # game/v11/scene30.rpy:385
 translate francais v11_lauren_store_eb2d89bf:
@@ -388,7 +388,7 @@ translate francais v11_lauren_store_ac7b633e:
 translate francais v11_lauren_store_a58933d8:
 
     # jud "Exactly. We've only ever had one tie before."
-    jud "Exactement. Simplement, nous n'avons jamais eu qu'une seule égalité auparavant."
+    jud "Exactement. Simplement, nous n'avons eu qu'une seule égalité auparavant."
 
 # game/v11/scene30.rpy:427
 translate francais v11_lauren_store_02d13cab:
@@ -760,13 +760,13 @@ translate francais v11_quiz_bonus_548dca01:
 translate francais v11_quiz_bonus_962ffd8f:
 
     # la "*Whisper* Way to hold down the fort! Thanks."
-    la "*Chuchote* C'est comme ça que tu tiens la barre ! Merci."
+    la "*Chuchote* Je vois que tu tiens la barre ! Merci."
 
 # game/v11/scene30.rpy:844
 translate francais v11_quiz_bonus_d9eb95bb:
 
     # u "*Whisper* Just a professional at work. *Chuckles*"
-    u "*Chuchote* Juste un professionnel au travail. *Rire*"
+    u "*Chuchote* Juste un travail de pro. *Rire*"
 
 # game/v11/scene30.rpy:849
 translate francais v11_quiz_bonus_a73ad6bc:
@@ -856,7 +856,7 @@ translate francais v11_quiz_bonus_30b33d36:
 translate francais v11_quiz_bonus_08dc062a:
 
     # jer "Will you repeat the question?"
-    jer "Vous pouvez répéter la questionnnn ???"
+    jer "*Voix aiguë* Vous pouvez répéter la questionnnn ???"
 
 # game/v11/scene30.rpy:948
 translate francais v11_quiz_bonus_e572d911:
@@ -1072,7 +1072,7 @@ translate francais v11_quiz_bonus_66a1fa42:
 translate francais v11_quiz_bonus_20469e69:
 
     # la "Oh my gosh, look look look!"
-    la "Oh merde, regarde regarde regarde regarde !"
+    la "Oh par Merlin, regarde regarde regarde regarde !"
 
 # game/v11/scene30.rpy:1195
 translate francais v11_quiz_bonus_ef2f1671:
@@ -1090,13 +1090,13 @@ translate francais v11_quiz_bonus_29e2f9ac:
 translate francais v11_quiz_bonus_2b130a77:
 
     # la "Ahhh, this looks too cool! Here, here!"
-    la "Ahhh, ça a l'air trop, ça ! Ici, ici !"
+    la "Ahhh, ça a l'air trop cool ! Ici, ici !"
 
 # game/v11/scene30.rpy:1225
 translate francais v11_quiz_bonus_1fafc031:
 
     # la "I love it! [name] The Wizard!"
-    la "Je l'adore ! [name] Le sorcier !"
+    la "J'adore ! [name] Le sorcier !"
 
 # game/v11/scene30.rpy:1230
 translate francais v11_quiz_bonus_0fa2a6e2:
@@ -1108,7 +1108,7 @@ translate francais v11_quiz_bonus_0fa2a6e2:
 translate francais v11_quiz_bonus_dca3b436:
 
     # la "I don't think I've ever been this happy *Chuckles*"
-    la "Je crois que je n'ai jamais été aussi heureuse *Rire*."
+    la "Je crois que oui, je n'ai jamais été aussi heureuse *Rire*."
 
 # game/v11/scene30.rpy:1240
 translate francais v11_quiz_bonus_7cc21e12:
