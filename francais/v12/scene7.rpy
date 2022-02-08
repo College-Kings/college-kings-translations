@@ -76,7 +76,7 @@ translate francais v12s7fr_a1e3dff0:
 translate francais v12s7fr_9a3afaed:
 
     # u "(Well, would you look at that. Looks like I'm going to be getting some blood on these hands.)"
-    u "(Eh bien, regardez-moi ça. On dirait que je vais avoir un peu de sang sur les mains.)"
+    u "(Eh bien, regardez-moi ça. On dirait que je vais avoir du sang sur les mains.)"
 
 # game/v12/scene7.rpy:96
 translate francais v12s7fr_4686d0f1:
@@ -208,7 +208,7 @@ translate francais v12s7fr_12929590:
 translate francais v12s7fr_25350ad7:
 
     # au "Okay, so... Do we get anything for doing this? Besides it being fun and something to keep us busy... *Chuckles*"
-    au "Ok, donc... Est-ce qu'on a quelque chose à gagner en faisant ça ? A part le fait que ce soit amusant et que ça nous occupe... *Rire*"
+    au "Ok, donc... Est-ce qu'on a quelque chose à gagner en faisant ça ? À part le fait que ce soit amusant et que ça nous occupe... *Rire*"
 
 # game/v12/scene7.rpy:202
 translate francais v12s7fr_1c416d43:
@@ -244,7 +244,7 @@ translate francais v12s7fr_392b4bb8:
 translate francais v12s7fr_e3b7af83:
 
     # ry "I mean... I guess?"
-    ry "Euh... je pense ?"
+    ry "Euh... J'imagine ?"
 
 # game/v12/scene7.rpy:224
 translate francais v12s7fr_0b5cc114:
@@ -412,7 +412,7 @@ translate francais v12s7fr_75bbf242:
 translate francais v12s7fr_b41a0021:
 
     # lee "Oh? I'm pretty sure your school waiver says I can do anything with the intention of education as long as it doesn't harm the students. And you'll definitely be learning a lesson as you struggle your way to Paris."
-    lee "Oh ? Je suis presque sûr que la dispense de ton école dit que je peux faire n'importe quoi dans l'intention d'éduquer, tant que ça ne nuit pas aux élèves. Et vous apprendrez certainement une leçon en luttant pour rejoindre Paris."
+    lee "Oh ? Je suis presque sûr que le règlement de votre école dit que je peux faire n'importe quoi dans l'intention d'éduquer, tant que ça ne nuit pas aux élèves. Et vous apprendrez certainement une leçon en luttant pour rejoindre Paris."
 
 # game/v12/scene7.rpy:356
 translate francais v12s7fr_f2a7d0fd:
@@ -1906,7 +1906,7 @@ translate francais v12s7_lauren1_396fca44:
 translate francais v12s7_lauren1_2998983e:
 
     # la "I'm not."
-    la "Je ne le suis pas."
+    la "C'est pas le cas."
 
 # game/v12/scene7.rpy:1840
 translate francais v12s7_lauren1_67b85378:
@@ -3442,7 +3442,7 @@ translate francais v12s7_msrose1_18260d3b:
 translate francais v12s7_msrose1_f3f5313c:
 
     # ro "Poofy hair doesn't ring a bell?"
-    ro "Les cheveux crépus ne vous disent rien ?"
+    ro "Mes cheveux bouclés ne vous disent rien ?"
 
 # game/v12/scene7.rpy:3372
 translate francais v12s7_msrose1_f2082510:
@@ -4516,7 +4516,7 @@ translate francais v12s7_sam_cameron_4380a0ac:
 translate francais v12s7_sam_cameron_05fbcf5b:
 
     # ca "Don't talk about me like I'm not sitting right here. I do have a role, I'm a famous comedian."
-    ca "Ne parlez pas de moi comme si je n'étais pas là. J'ai un rôle, je suis un célèbre comédien."
+    ca "Parlez pas de moi comme si j'étais pas là. J'ai un rôle, je suis un célèbre humoriste."
 
 # game/v12/scene7.rpy:4505
 translate francais v12s7_sam_cameron_bfb3c577:
@@ -4528,7 +4528,7 @@ translate francais v12s7_sam_cameron_bfb3c577:
 translate francais v12s7_sam_cameron_757ae1ff:
 
     # ca "It was the best one for me, I'm the funniest dude alive."
-    ca "C'était le meilleur pour moi, je suis le mec le plus drôle du monde."
+    ca "C'était le meilleur rôle pour moi, je suis le mec le plus drôle du monde."
 
 # game/v12/scene7.rpy:4515
 translate francais v12s7_sam_cameron_017e6afa:
@@ -4552,7 +4552,7 @@ translate francais v12s7_sam_cameron_a57e0bbf:
 translate francais v12s7_sam_cameron_6c089e93:
 
     # ca "Check this out. Why can't orphans play baseball?"
-    ca "Écoute ça. Pourquoi les orphelins ne peuvent-ils pas jouer au baseball ?"
+    ca "Écoute ça. Pourquoi les orphelins peuvent pas jouer au baseball ?"
 
 # game/v12/scene7.rpy:4535
 translate francais v12s7_sam_cameron_48c99239:
@@ -4564,7 +4564,7 @@ translate francais v12s7_sam_cameron_48c99239:
 translate francais v12s7_sam_cameron_ab9f4758:
 
     # ca "'Cause they don't know where home is."
-    ca "Parce qu'ils ne savent pas où est leur maison."
+    ca "Parce qu'ils savent pas où est leur maison."
 
 # game/v12/scene7.rpy:4548
 translate francais v12s7_sam_cameron_fcc18885:
@@ -4600,7 +4600,7 @@ translate francais v12s7_sam_cameron_7e496ab6:
 translate francais v12s7_sam_cameron_5d88729b:
 
     # ca "Don't critique my art because you don't understand it."
-    ca "Ne critiquez pas mon art parce que vous ne le comprenez pas."
+    ca "Critiquez pas mon art parce que vous le comprenez pas."
 
 # game/v12/scene7.rpy:4580
 translate francais v12s7_sam_cameron_b50d19a0:
@@ -4618,7 +4618,7 @@ translate francais v12s7_sam_cameron_2345ba80:
 translate francais v12s7_sam_cameron_18675370:
 
     # sa "I KNOW YOU DIDN'T JUST FUCKING FART ON ME! YOU'RE FUCKING GROSS!"
-    sa "JE SAIS QUE TU NE VIENS PAS DE ME PÉTER DESSUS ! TU ES DÉGUEULASSE !"
+    sa "MAIS NE VIENS PAS PÉTER SUR MOI, PUTAIN !! T'ES DÉGUEULASSE !"
 
 # game/v12/scene7.rpy:4602
 translate francais v12s7_sam_cameron_64de99e8:
@@ -4630,7 +4630,7 @@ translate francais v12s7_sam_cameron_64de99e8:
 translate francais v12s7_sam_cameron_5d264323:
 
     # ca "Not my fault you guys can't take a joke."
-    ca "Ce n'est pas ma faute si vous ne pouvez pas comprendre une bonne blague."
+    ca "C'est pas ma faute si vous pouvez pas comprendre une bonne blague."
 
 # game/v12/scene7.rpy:4612
 translate francais v12s7_sam_cameron_66209d91:
@@ -4642,7 +4642,7 @@ translate francais v12s7_sam_cameron_66209d91:
 translate francais v12s7_sam_cameron_697e4977:
 
     # ca "What's this, you tryna be her hero or something? Just because Mr. Lee handed you those gloves doesn't mean you can fight me. Unless you wanna find out."
-    ca "C'est quoi ça, tu essaies d'être son héros ou quoi ? Ce n'est pas parce que Mr Lee t'a remis ces gants que tu peux te battre contre moi. A moins que tu ne veuilles le vérifier."
+    ca "C'est quoi ça, tu essaies d'être son sauveur ou quoi ? C'est pas parce que Mr Lee t'a remis ces gants que tu peux te battre contre moi. À moins que tu veuilles essayer."
 
 # game/v12/scene7.rpy:4622
 translate francais v12s7_sam_cameron_aee9e154:
@@ -4654,13 +4654,13 @@ translate francais v12s7_sam_cameron_aee9e154:
 translate francais v12s7_sam_cameron_032e8f51:
 
     # ca "Yeah, you not ready for none of this. *Chuckles* I'm the best fighter here right now."
-    ca "Ouais, tu n'es pas prêt pour tout ça. *Rire* Je suis le meilleur combattant ici en ce moment."
+    ca "Ouais, t'es pas prêt pour tout ça. *Rire* Je suis le meilleur combattant, là."
 
 # game/v12/scene7.rpy:4632
 translate francais v12s7_sam_cameron_51776af9:
 
     # u "You really think you can take on Chris?"
-    u "Tu penses vraiment que tu peux affronter Chris ?"
+    u "Tu crois vraiment que tu peux affronter Chris ?"
 
 # game/v12/scene7.rpy:4637
 translate francais v12s7_sam_cameron_ec9103dc:
@@ -4720,7 +4720,7 @@ translate francais v12s7_sam2_e705cdf3:
 translate francais v12s7_sam2_8c2ce65b:
 
     # sa "Besides distracting my mind with something else? *Chuckles*"
-    sa "A part distraire mon esprit avec autre chose ? *Rire*"
+    sa "À part distraire mon esprit avec autre chose ? *Rire*"
 
 # game/v12/scene7.rpy:4709
 translate francais v12s7_sam2_1b53551c:
@@ -4888,7 +4888,7 @@ translate francais v12s7_sam2_7bd31ab8:
 translate francais v12s7_sam2_17fb8c9b:
 
     # u "She did. C'mon now, don't judge a book until you've read it all the way through."
-    u "Elle l'a fait. Allez, ne juge pas un livre avant de l'avoir lu en entier."
+    u "Elle l'a fait. Il ne faut pas juger un livre avant de l'avoir lu en entier."
 
 # game/v12/scene7.rpy:4856
 translate francais v12s7_sam2_88397b80:
@@ -4936,7 +4936,7 @@ translate francais v12s7_sam2_51b30d5a:
 translate francais v12s7_sam2_3e0216ee:
 
     # sa "Well, I need to finish my book. If I don't, no one will. See you around [name] and thanks for the talk."
-    sa "Eh bien, je dois finir mon livre. Si je ne le fais pas, personne ne le fera. A plus tard [name] et merci pour la discussion."
+    sa "Eh bien, je dois finir mon livre. Si je ne le fais pas, personne ne le fera. À plus tard [name] et merci pour la discussion."
 
 # game/v12/scene7.rpy:4892
 translate francais v12s7_sam2_173f2156:
@@ -5080,7 +5080,7 @@ translate francais v12s7_cameron2_cf52a76c:
 translate francais v12s7_cameron2_3d7e8b2c:
 
     # u "That's dark."
-    u "C'est... (nul) sombre."
+    u "C'est... (nul) noir."
 
 # game/v12/scene7.rpy:5053
 translate francais v12s7_cameron2_0ad3ba01:
@@ -5098,19 +5098,19 @@ translate francais v12s7_cameron2_2d46447c:
 translate francais v12s7_cameron2_afc36fca:
 
     # ca "Do you know what an orphan's favorite movie is?"
-    ca "Sais-tu quel est le film préféré d'un orphelin ?"
+    ca "Tu sais quel est le film préféré d'un orphelin ?"
 
 # game/v12/scene7.rpy:5068
 translate francais v12s7_cameron2_bd835ac5:
 
     # u "What's an orphan's favorite movie?"
-    u "Quel est le film préféré d'un orphelin ?"
+    u "Et quel est le film préféré d'un orphelin ?"
 
 # game/v12/scene7.rpy:5073
 translate francais v12s7_cameron2_9d32e6a0:
 
     # ca "Home Alone. *Laughs* Oh my god I'm too good."
-    ca "Home Alone. *Rire* Oh mon dieu je suis trop bon."
+    ca "\"Home Alone\". *Rire* Oh merde, je suis trop bon."
 
 # game/v12/scene7.rpy:5078
 translate francais v12s7_cameron2_8cf8218f:
@@ -5128,7 +5128,7 @@ translate francais v12s7_cameron_kill_fda23e9a:
 translate francais v12s7_cameron_kill_daf18570:
 
     # ca "That's stupid. Why are you tryna kill me... you already know I'm not really part of the game."
-    ca "C'est con. Pourquoi tu essaies de me tuer... tu sais déjà que je ne fais pas vraiment partie du jeu."
+    ca "C'est con. Pourquoi t'essaies de me tuer... tu sais déjà que je fais pas vraiment partie du jeu."
 
 # game/v12/scene7.rpy:5109
 translate francais v12s7_cameron_kill_a11b841d:
@@ -5488,7 +5488,7 @@ translate francais v12s7_chris1_a664f438:
 translate francais v12s7_chris1_19e36037:
 
     # ch "It's more than just us, what's going on is a serious tradition for both frats and something that needs one hundred percent focus and respect."
-    ch "Il ne s'agit pas seulement de nous, ce qui se passe est une tradition sérieuse pour les deux fraternités et quelque chose qui nécessite une attention et un respect à cent pour cent."
+    ch "Il ne s'agit pas seulement de nous, ce qui se passe est une tradition sérieuse pour les deux fraternités et quelque chose qui nécessite une attention et un respect à 100%%."
 
 # game/v12/scene7.rpy:5557
 translate francais v12s7_chris1_89fabfce:
@@ -5920,7 +5920,7 @@ translate francais v12s7_emily1_a53bbe02:
 translate francais v12s7_emily1_6f17c432:
 
     # u "I can take a hint."
-    u "Je peux prendre un indice."
+    u "Je peux accepter une suggestion."
 
 # game/v12/scene7.rpy:6165
 translate francais v12s7_emily1_c8e64612:

@@ -124,13 +124,13 @@ translate francais v11_dinner_with_aubrey_0f897776:
 translate francais v11_dinner_with_aubrey_6c49e1a8:
 
     # au "Imagine me, but prettier, and a bit more blunt."
-    au "Imagine-moi, mais plus jolie, et un peu plus franche."
+    au "Imagine-moi, mais plus jolie et un peu plus directe."
 
 # game/v11/scene46a.rpy:102
 translate francais v11_dinner_with_aubrey_e21fdd73:
 
     # u "Wait... More blunt than you? That can't be possible. *Laughs*"
-    u "Attend... Plus franche que toi ? C'est pas possible. *Rire*"
+    u "Attend... Plus directe que toi ? C'est pas possible. *Rire*"
 
 # game/v11/scene46a.rpy:107
 translate francais v11_dinner_with_aubrey_bf5b7de0:

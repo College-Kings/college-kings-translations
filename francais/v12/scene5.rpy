@@ -214,7 +214,7 @@ translate francais v12_morning_london_80c64b26:
 translate francais v12_morning_london_6d392409:
 
     # u "Let me just grab my bag."
-    u "Je vais juste prendre mon sac."
+    u "Je vais chercher ma valise."
 
 # game/v12/scene5.rpy:284
 translate francais v12_morning_london_5ab38507:

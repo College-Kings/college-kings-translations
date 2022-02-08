@@ -256,7 +256,7 @@ translate francais v11_at_the_bank_815e5ac2:
 translate francais v11_at_the_bank_538010f0:
 
     # am "*Whisper* This shit is boring... I wish we had our go-kart suits right now."
-    am "*Chuchote* Cette merde est ennuyeuse... J'aimerais qu'on ait nos combinaisons de karting maintenant."
+    am "*Chuchote* C'est chiant... J'aimerais qu'on ait nos combinaisons de karting, là."
 
 # game/v11/scene43.rpy:230
 translate francais v11_at_the_bank_6f8b7483:
@@ -298,13 +298,13 @@ translate francais v11_at_the_bank_a15f16b7:
 translate francais v11_at_the_bank_bb864dfc:
 
     # u "Stealth obviously. You know they have silent security measures all throughout this entire place."
-    u "Furtif évidemment. Tu sais qu'ils ont des mesures de sécurité silencieuses dans tout cet endroit."
+    u "Furtif évidemment. Tu sais qu'ils ont des mesures de sécurité silencieuses partout."
 
 # game/v11/scene43.rpy:267
 translate francais v11_at_the_bank_a07ee6a4:
 
     # am "Yes! Stealth is definitely the way to go here."
-    am "Oui ! La discrétion est définitivement la voie à suivre ici."
+    am "Oui ! La discrétion est sans aucun doutes la voie à suivre ici."
 
 # game/v11/scene43.rpy:271
 translate francais v11_at_the_bank_23574379:
@@ -316,7 +316,7 @@ translate francais v11_at_the_bank_23574379:
 translate francais v11_at_the_bank_ad9ef201:
 
     # am "As fun as it would be to raise hell in a place like this, stealth is the smartest way to go about doing this."
-    am "Aussi amusant que ce soit de foutre le feu dans un endroit comme celui-ci, la discrétion est pourtant, le meilleur moyen d'y parvenir."
+    am "Aussi amusant que ce soit de foutre le bordel dans un endroit comme celui-ci, la discrétion serait pourtant, le meilleur moyen d'y parvenir."
 
 # game/v11/scene43.rpy:281
 translate francais v11_at_the_bank_5c2d6177:
@@ -352,7 +352,7 @@ translate francais v11_at_the_bank_79dcaec8:
 translate francais v11_at_the_bank_f6ab8d9a:
 
     # ri "Hmm, I'll distract the tour guide."
-    ri "Hmm, je vais distraire la guide."
+    ri "Hmm, je pourrais distraire la guide."
 
 # game/v11/scene43.rpy:311
 translate francais v11_at_the_bank_a675b590:
@@ -370,7 +370,7 @@ translate francais v11_at_the_bank_45b25cb9:
 translate francais v11_at_the_bank_4bb571f6:
 
     # ri "Excuse me, hi! I was just wondering... Someone said the pound was worth more than our dollars? So if I moved to London would I become rich? What if I get lonely in a new country, all by myself?"
-    ri "Excusez-moi, bonjour ! Je me demandais juste... Quelqu'un a dit que la Livre valait plus que nos Dollars ? Donc si je déménageais à Londres, je deviendrais riche ? Et si je me sentais seule dans un nouveau pays, toute seule ?"
+    ri "Excusez-moi, bonjour ! Je me demandais juste... Quelqu'un a dit que la Livre valait plus que nos Dollars ? Donc si je déménageais à Londres, je deviendrais riche ? Et si je me sentais seule dans un nouveau pays, vraiment toute seule ?"
 
 # game/v11/scene43.rpy:326
 translate francais v11_at_the_bank_1c8acf17:
@@ -400,7 +400,7 @@ translate francais v11_at_the_bank_ae883642:
 translate francais v11_at_the_bank_9e314783:
 
     # am "We could literally rob this place right now... We don't even have to break in, we're already inside the vault."
-    am "On pourrait littéralement cambrioler cet endroit en ce moment... Nous n'avons même pas besoin de forcer la porte, nous sommes déjà à l'intérieur de la chambre forte."
+    am "On pourrait littéralement cambrioler cet endroit maintenant... Nous n'avons même pas besoin de forcer la porte, nous sommes déjà à l'intérieur de la chambre forte."
 
 # game/v11/scene43.rpy:351
 translate francais v11_at_the_bank_f72aeab6:
@@ -544,7 +544,7 @@ translate francais v11_at_the_bank_153e927c:
 translate francais v11_at_the_bank_71d04ea3:
 
     # bank "You two sit down as well. Immediately."
-    bank "Vous deux, asseyez-vous aussi. Maintenant."
+    bank "Vous deux, asseyez-vous vous aussi. Maintenant."
 
 # game/v11/scene43.rpy:479
 translate francais v11_at_the_bank_2b674013:
@@ -670,7 +670,7 @@ translate francais v11_at_the_bank_5b927436:
 translate francais v11_at_the_bank_28ee73b4:
 
     # u "I could be sleeping."
-    u "Je pourrais dormir."
+    u "Je pourrais encore être au lit."
 
 # game/v11/scene43.rpy:579
 translate francais v11_at_the_bank_d3c6e561:

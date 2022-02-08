@@ -10,7 +10,7 @@ translate francais v11_rose_underground_2975e52f:
 translate francais v11_rose_underground_6621988d:
 
     # u "Have you not had many chances to?"
-    u "Tu n'as pas eu beaucoup d'occasions de le faire ?"
+    u "Vous n'avez pas eu beaucoup d'occasions de vous détendre ?"
 
 # game/v11/scene44a.rpy:24
 translate francais v11_rose_underground_f2301243:
@@ -94,7 +94,7 @@ translate francais v11_rose_underground_5515e48c:
 translate francais v11_rose_underground_3b53efec:
 
     # u "What have you enjoyed most, so far?"
-    u "Qu'as-tu apprécié le plus, jusqu'à présent ?"
+    u "Qu'avez-vous apprécié le plus, jusqu'à présent ?"
 
 # game/v11/scene44a.rpy:99
 translate francais v11_rose_underground_c24fec9e:
@@ -130,7 +130,7 @@ translate francais v11_rose_underground_bcc72525:
 translate francais v11_rose_underground_15cd085e:
 
     # ro "Professors."
-    ro "Professeurs."
+    ro "Les professeurs."
 
 # game/v11/scene44a.rpy:125
 translate francais v11_rose_underground_8b258704:

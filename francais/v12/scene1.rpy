@@ -136,7 +136,7 @@ translate francais v12_nora_robbed_f3372b2d:
 translate francais v12_nora_robbed_58ab3ded:
 
     # no "You can't just pick and choose certain moments to be concerned about me. Either you're willing to commit one hundred percent like I do, or none at all. Pick one."
-    no "Tu ne peux pas juste choisir certains moments pour t'inquiéter de moi. Soit tu es prêt à t'engager à cent pour cent comme moi, soit tu ne le fais pas du tout. Choisis."
+    no "Tu ne peux pas juste choisir certains moments pour t'inquiéter de moi. Soit tu es prêt à t'engager à 100%% comme moi, soit tu ne le fais pas du tout. Choisis."
 
 # game/v12/scene1.rpy:166
 translate francais v12_nora_robbed_6ff44bd8:

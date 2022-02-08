@@ -10,7 +10,7 @@ translate francais v11_nora_lingerie_1f778075:
 translate francais v11_nora_lingerie_7ce2c6d5:
 
     # no "Not as much as you guys did, apparently. I heard you almost robbed the place. *Chuckles*"
-    no "Pas autant que vous trois, apparemment. J'ai entendu dire que vous avez presque cambriolé l'endroit. *Rire*"
+    no "Pas autant que vous trois, apparemment. J'ai entendu dire que vous avez voulu cambrioler l'endroit. *Rire*"
 
 # game/v11/scene44.rpy:24
 translate francais v11_nora_lingerie_05166ac0:
@@ -142,7 +142,7 @@ translate francais v11_nora_lingerie_34e19058:
 translate francais v11_nora_lingerie_2b6f5924:
 
     # u "What store is this?"
-    u "Quel est ce magasin ?"
+    u "C'est quoi ce magasin ?"
 
 # game/v11/scene44.rpy:151
 translate francais v11_nora_lingerie_6e446eb9:
@@ -220,7 +220,7 @@ translate francais v11_nora_lingerie_22f7c7a1:
 translate francais v11_nora_lingerie_5af2f44e:
 
     # no "Nope."
-    no "Non."
+    no "Non plus."
 
 # game/v11/scene44.rpy:236
 translate francais v11_nora_lingerie_8672bf74:
@@ -256,7 +256,7 @@ translate francais v11_nora_lingerie_229320ef:
 translate francais v11_nora_lingerie_284bd34c:
 
     # no "Hmph, yeah... I'm sure everyone and their cousin knows by now."
-    no "Hmph, ouais... Je suis sûr que le monde entier et leurs cousins le savent maintenant."
+    no "Hmph, ouais... Je suis sûre que le monde entier et leurs cousins le savent maintenant."
 
 # game/v11/scene44.rpy:266
 translate francais v11_nora_lingerie_34571acc:
@@ -334,7 +334,7 @@ translate francais v11_nora_lingerie_d8ff181c:
 translate francais v11_nora_lingerie_348865a5:
 
     # u "*Chuckles* Sure, no problem."
-    u "*Rire* Bien sûr, pas de problème."
+    u "*Rire* Vas-y, pas de problème."
 
 # game/v11/scene44.rpy:339
 translate francais v11_nora_lingerie_8943c1d0:

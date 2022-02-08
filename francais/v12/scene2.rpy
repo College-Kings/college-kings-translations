@@ -220,7 +220,7 @@ translate francais v12_nora_checks_mc_f79a7564:
 translate francais v12_nora_checks_mc_54c224dd:
 
     # no "It was a picture of me and my Dad. Back when he was more of a family man."
-    no "C'était une photo de moi et de mon père. À l'époque où il était plus un bon père de famille."
+    no "C'était une photo de moi et de mon père. À l'époque où il était encore un bon père de famille."
 
 # game/v12/scene2.rpy:229
 translate francais v12_nora_checks_mc_e8ecf957:
@@ -232,7 +232,7 @@ translate francais v12_nora_checks_mc_e8ecf957:
 translate francais v12_nora_checks_mc_4c44b547:
 
     # no "You're fine, ha. You can't be mad at your knight in shining armor... or at least that's what Imre keeps saying."
-    no "Tout va bien, ha. On ne peut pas être en colère contre son chevalier en armure brillante... ou du moins c'est ce qu'Imre n'arrête pas de dire."
+    no "Tout va bien, ha. On ne peut pas être en colère contre son chevalier sauveur... ou du moins c'est ce qu'Imre n'arrête pas de dire."
 
 # game/v12/scene2.rpy:239
 translate francais v12_nora_checks_mc_18165561:

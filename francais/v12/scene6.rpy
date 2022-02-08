@@ -100,7 +100,7 @@ translate francais v12_docks_f3b2da55:
 translate francais v12_docks_40394d37:
 
     # u "Oh. And she said...?"
-    u "Oh. Et a-t-elle dit... ?"
+    u "Oh. Et qu'a-t-elle dit... ?"
 
 # game/v12/scene6.rpy:130
 translate francais v12_docks_ec5e488d:
@@ -118,7 +118,7 @@ translate francais v12_docks_fdbce207:
 translate francais v12_docks_26a4d4d0:
 
     # ri "I just wanted to know if she said anything, I'm not gonna let it bother me though."
-    ri "Je voulais juste savoir si elle avait dit quelque chose, mais je ne vais pas laisser ça me déranger."
+    ri "Je voulais juste savoir si elle avait dit quelque chose, mais je ne vais pas laisser ça me perturber."
 
 # game/v12/scene6.rpy:145
 translate francais v12_docks_f74a8644:
@@ -130,13 +130,13 @@ translate francais v12_docks_f74a8644:
 translate francais v12_docks_59556379:
 
     # u "Well, that's good. You and Aubrey were already really close I thought."
-    u "Eh bien, c'est bien. Je pensais que toi et Aubrey étiez déjà très proches."
+    u "Eh bien, c'est cool. Je me disais bien que toi et Aubrey étiez très proches."
 
 # game/v12/scene6.rpy:155
 translate francais v12_docks_d812ab51:
 
     # ri "We are, I'd just been spending a lot of time with Amber and blowing off pretty much everyone else."
-    ri "On l'est, j'ai juste passé beaucoup de temps avec Amber et j'ai laissé tomber tous les autres."
+    ri "On l'est, j'ai simplement passé beaucoup de temps avec Amber et j'ai laissé tomber tous les autres."
 
 # game/v12/scene6.rpy:160
 translate francais v12_docks_430bbf0d:
@@ -148,7 +148,7 @@ translate francais v12_docks_430bbf0d:
 translate francais v12_docks_686a74bd:
 
     # ri "Well, thanks. And don't pretend like you don't enjoy doing the treasure hunt... You know you like spending time with me."
-    ri "Eh bien, merci. Et ne fais pas comme si tu n'aimais pas faire la chasse au trésor... Tu sais que tu aimes passer du temps avec moi."
+    ri "Eh bien, merci. Sinon, ne fais pas comme si tu n'aimais pas faire la chasse au trésor... Tu sais que tu aimes passer du temps avec moi."
 
 # game/v12/scene6.rpy:170
 translate francais v12_docks_006e880d:

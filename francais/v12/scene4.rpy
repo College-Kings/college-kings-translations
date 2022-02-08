@@ -112,13 +112,13 @@ translate francais v12_roomate_talk_69635914:
 translate francais v12_roomate_talk_e2680fa8:
 
     # cl "Mainly about him getting strong enough to take on Grayson."
-    cl "Principalement pour qu'il devienne assez fort pour affronter Grayson."
+    cl "Principalement du fait qu'il veuille devenir assez fort pour affronter Grayson."
 
 # game/v12/scene4.rpy:139
 translate francais v12_roomate_talk_a92af3bc:
 
     # u "*Laughs* Good luck with that. Definitely don't see him being able to do that any time soon."
-    u "*Rires* Bonne chance avec ça. Je ne le vois vraiment pas capable de faire ça de sitôt."
+    u "*Rire* Bonne chance avec ça. Je ne le vois vraiment pas capable de faire ça de sitôt."
 
 # game/v12/scene4.rpy:144
 translate francais v12_roomate_talk_ad6517d9:
@@ -178,7 +178,7 @@ translate francais v12_roomate_talk_4b1d1506:
 translate francais v12_roomate_talk_de1e605f:
 
     # cl "Not enough, haha. I don't know why, but I've had the hiccups so much lately."
-    cl "Pas assez, haha. Je ne sais pas pourquoi, mais j'ai tellement le hoquet ces derniers temps."
+    cl "Pas assez, haha. Je ne sais pas pourquoi, mais j'ai tout le temps le hoquet en ce moment."
 
 # game/v12/scene4.rpy:199
 translate francais v12_roomate_talk_6006da7e:
