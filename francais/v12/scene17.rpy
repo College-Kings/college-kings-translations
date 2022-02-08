@@ -10,7 +10,7 @@ translate francais v12_escape_room_a031d0a1:
 translate francais v12_escape_room_44f7cea6:
 
     # imre "Sorry, we were enjoying Mr. Lee getting bullied by the bishop."
-    imre "Désolée, on profitait du fait que Mr Lee s'fasse malmener par l'évêque."
+    imre "Désolé, on profitait du fait que Mr Lee s'fasse malmener par l'évêque."
 
 # game/v12/scene17.rpy:23
 translate francais v12_escape_room_59c2dc0b:
@@ -28,7 +28,7 @@ translate francais v12_escape_room_745a9277:
 translate francais v12_escape_room_3089530a:
 
     # au "Church? Okay, nice... Now I'm definitely happy that I didn't go. *Laughs*"
-    au "Une église ? Ok, sympa... Maintenant, je suis vraiment contente de ne pas y être allée. *Rire*"
+    au "Une église ? Ok, sympa... Maintenant, je suis vraiment contente de ne pas y être allé. *Rire*"
 
 # game/v12/scene17.rpy:38
 translate francais v12_escape_room_7197452a:

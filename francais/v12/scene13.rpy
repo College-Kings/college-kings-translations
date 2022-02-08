@@ -94,7 +94,7 @@ translate francais v12_cafe_f967dac4:
 translate francais v12_cafe_ef6ffbff:
 
     # cl "Perfect, get up and lead the way."
-    cl "Parfait, lève-toi et ouvre la voie."
+    cl "Parfait, lève-toi et je te suis."
 
 # game/v12/scene13.rpy:103
 translate francais v12_cafe_57ae9944:

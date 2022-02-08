@@ -4,7 +4,7 @@
 translate francais v12s7_free_roam_spoken_c7964da2:
 
     # u "(I've already spoken to them, but I could still murder them)"
-    u "(Je leur ai déjà parlé, mais je pourrais encore les assassiner)"
+    u "(Je lui ai déjà parlé, mais je pourrais l'assassiner)"
 
 # game/v12/scene7.rpy:26
 translate francais v12s7fr_99e1200b:
@@ -616,7 +616,7 @@ translate francais v12s7_aubrey1_ed067e3d:
 translate francais v12s7_aubrey1_52ded90b:
 
     # au "I think I'd like to see exactly how tough you actually are. I... I think I see some bruising. Oh my gosh, and your eye is cut! I'm gonna need to patch that up immediately."
-    au "Je pense que j'aimerais voir à quel point vous êtes fort. Je... Je crois que je vois quelques bleus. Oh mon dieu, et votre paupière est coupée ! Je vais avoir besoin de le rafistoler immédiatement."
+    au "Je pense que j'aimerais voir à quel point vous êtes fort. Je... Je crois que je vois quelques bleus. Oh mon dieu, et votre paupière est coupée ! Je vais avoir besoin de la rafistoler immédiatement."
 
 # game/v12/scene7.rpy:557
 translate francais v12s7_aubrey1_35084c47:
@@ -664,7 +664,7 @@ translate francais v12s7_aubrey1_80057659:
 translate francais v12s7_aubrey1_4952307a:
 
     # au "My oh my... You really are one tough cookie I suppose. Maybe you could protect me from whoever this murderer may be?"
-    au "Mon oh mon... Vous êtes vraiment un dur à cuire je suppose. Peut-être pourriez-vous me protéger de ce meurtrier, quel qu'il soit ?"
+    au "Mon... oh mon... Vous êtes vraiment un dur à cuire je suppose. Peut-être pourriez-vous me protéger de ce meurtrier, quel qu'il soit ?"
 
 # game/v12/scene7.rpy:606
 translate francais v12s7_aubrey1_8e02de0f:
@@ -2626,13 +2626,13 @@ translate francais v12s7_imre2_228ec0aa:
 translate francais v12s7_imre2_321684f4:
 
     # imre "No it doesn't, it needs to be known I don't rock like that. You, Charli and Ryan may think it's all fun and games, but I don't."
-    imre "Non, il faut qu'tu saches que j'ais pas d'vagues comme ça. Toi, Charli et Ryan pensez peut-être qu'c'est une partie d'plaisir, mais pas moi."
+    imre "Non, il faut qu'tu saches que j'fais pas d'vagues comme ça. Toi, Charli et Ryan pensez peut-être qu'c'est une partie d'plaisir, mais pas moi."
 
 # game/v12/scene7.rpy:2548
 translate francais v12s7_imre2_2ee22002:
 
     # u "If it really bothers you I can try and reel it back, but I can't make any promises. *Chuckles* At least not during the game."
-    u "Si ça te dérange vraiment, je peux essayer de le faire revenir, mais je ne peux rien promettre. *Rire* Du moins pas pendant le jeu."
+    u "Si ça te dérange vraiment, je peux essayer de remettre les choses dans l'ordre, mais je ne peux rien promettre. *Rire* Du moins pas pendant le jeu."
 
 # game/v12/scene7.rpy:2553
 translate francais v12s7_imre2_ee871324:
@@ -2830,7 +2830,7 @@ translate francais v12s7_lindsey_charlie1_9f9a3d0c:
 translate francais v12s7_lindsey_charlie1_57ae9944:
 
     # u "*Sighs*"
-    u "*Soupirs* (Vas-y connard !)"
+    u "*Soupirs* Vas-y... (connard !)"
 
 # game/v12/scene7.rpy:2744
 translate francais v12s7_lindsey_charlie1_1fc8f12b:
@@ -3982,7 +3982,7 @@ translate francais v12s7_amber1_a717a39c:
 translate francais v12s7_amber1_173c9adc:
 
     # u "What is even considered contraband?"
-    u "Qu'est-ce qui est considéré comme de la contrebande ?"
+    u "Quoi ? Qu'est-ce qui est considéré comme de la contrebande ?"
 
 # game/v12/scene7.rpy:3955
 translate francais v12s7_amber1_a1a8cb8a:

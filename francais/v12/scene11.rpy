@@ -34,7 +34,7 @@ translate francais v12_paris_hotel_cce61b74:
 translate francais v12_paris_hotel_2e8d14ae:
 
     # ch "Haha, good shit."
-    ch "Haha, c'est de la bonne came."
+    ch "Haha, bien parlé, mec !"
 
 # game/v12/scene11.rpy:54
 translate francais v12_paris_hotel_efb39dba:
@@ -298,7 +298,7 @@ translate francais v12_paris_hotel_aad22e55:
 translate francais v12_paris_hotel_182822cf:
 
     # no "Haha, Chris used to be so corny."
-    no "Haha, Chris avait l'habitude d'être si cucul."
+    no "Haha, Chris avait l'habitude d'être très cucul."
 
 # game/v12/scene11.rpy:283
 translate francais v12_paris_hotel_c75499d4:

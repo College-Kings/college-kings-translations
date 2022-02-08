@@ -88,7 +88,7 @@ translate francais v12_murder_mystery_reveal_8569c4fa:
 translate francais v12_murder_mystery_reveal_38972a95:
 
     # lee "You were very stealthy out there and it was interesting to watch."
-    lee "Vous étiez très furtif là-bas et c'était intéressant à regarder."
+    lee "Vous avez toujours été très furtif dans ce jeu et c'était intéressant à regarder."
 
 # game/v12/scene8.rpy:104
 translate francais v12_murder_mystery_reveal_f1a19af3:
@@ -136,7 +136,7 @@ translate francais v12_murder_mystery_reveal_144738e7:
 translate francais v12_murder_mystery_reveal_3d064b40:
 
     # imre "WAIT WAIT WAIT BRO! I just processed this, you let me walk around like that, you could've shut the game down from the jump."
-    imre "ATTENDS, ATTENDS, ATTENDS, MON FRÈRE ! J'viens d'comprendre un truc : tu m'laisses me balader comme ça, alors t'aurais pu arrêter le jeu dès l'début."
+    imre "ATTENDS, ATTENDS, ATTENDS, MON FRÈRE ! J'viens d'comprendre un truc : tu m'laisses me balader comme ça, alors que t'aurais pu arrêter le jeu dès l'début."
 
 # game/v12/scene8.rpy:143
 translate francais v12_murder_mystery_reveal_e7412e9b:
@@ -244,7 +244,7 @@ translate francais v12_murder_mystery_reveal_34fd4860:
 translate francais v12_murder_mystery_reveal_d04700ff:
 
     # lee "Casual sea sickness, the pleasures of the ferry. Enjoy the trip, students."
-    lee "Mal de mer occasionnel, les plaisirs du ferry. Bon voyage, chers élèves."
+    lee "Le mal de mer occasionnel, un des plaisirs du ferry. Profitez du reste du voyage, chers élèves."
 
 # game/v12/scene8.rpy:264
 translate francais v12_murder_mystery_reveal_08c20958:
@@ -274,7 +274,7 @@ translate francais v12_murder_mystery_reveal_a2454a3a:
 translate francais v12_murder_mystery_reveal_54755ab3:
 
     # u "(Woah... we must be here.)"
-    u "(Woah... on doit être ici.)"
+    u "(Woah... on doit être arrivés.)"
 
 translate francais strings:
 

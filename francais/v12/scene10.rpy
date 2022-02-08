@@ -82,7 +82,7 @@ translate francais v12_amber_bus_fcc18885:
 translate francais v12_amber_bus_d2dffef4:
 
     # am "Since you want to know so bad I guess I'll tell you. I do feel like I need to get it off my chest and I guess you're not the worst person to talk to. *Chuckles*"
-    am "Puisque tu veux tellement savoir, je vais te le dire. J'ai l'impression que j'ai besoin de me défouler et je pense que tu n'es pas la pire personne à qui parler. *Rire*"
+    am "Puisque tu veux tellement savoir, je vais te le dire. J'ai l'impression que j'ai besoin de me dévoiler et je crois que tu n'es pas la pire personne à qui parler. *Rire*"
 
 # game/v12/scene10.rpy:107
 translate francais v12_amber_bus_6ffadd55:
@@ -256,7 +256,7 @@ translate francais v12_amber_bus_8d402e41:
 translate francais v12_amber_bus_38dcf04e:
 
     # am "You think you know me pretty well huh?"
-    am "Tu penses que tu me connais assez bien, hein ?"
+    am "Tu crois que tu me connais bien, hein ?"
 
 # game/v12/scene10.rpy:248
 translate francais v12_amber_bus_beeb9bbf:
@@ -280,7 +280,7 @@ translate francais v12_amber_bus_ea56f5b2:
 translate francais v12_amber_bus_707dcbae:
 
     # am "Never a reason not to."
-    am "Aucune raison de ne pas le faire."
+    am "Je ne vois aucune raison de ne pas le faire."
 
 # game/v12/scene10.rpy:268
 translate francais v12_amber_bus_73d483ce:
@@ -346,7 +346,7 @@ translate francais v12_amber_bus_8f6ba836:
 translate francais v12_amber_bus_31c69529:
 
     # u "Since you wanna talk shit go ahead and spell the word."
-    u "Puisque tu veux dire des conneries, vas-y, épelle le mot."
+    u "Puisque tu veux dire des grands mots comme ça, vas-y, épelle le mot."
 
 # game/v12/scene10.rpy:323
 translate francais v12_amber_bus_ebdd18bc:
@@ -418,7 +418,7 @@ translate francais v12_amber_bus_93ff3184:
 translate francais v12_amber_bus_36385b0d:
 
     # am "Shut up."
-    am "Taisez-vous."
+    am "Rigole pas, Imre."
 
 # game/v12/scene10.rpy:383
 translate francais v12_amber_bus_c62821ba:

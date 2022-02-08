@@ -130,7 +130,7 @@ translate francais v12_valentine_f3532f3c:
 translate francais v12_valentine_1b4dc306:
 
     # bishop "Mr. Lee! These must be your students, it's wonderful to meet you all. Has your teacher informed you of what you'll be learning today?"
-    bishop "M. Lee ! Ce doit être vos élèves, c'est merveilleux de vous rencontrer tous. Votre professeur vous a-t-il informé de ce que vous allez apprendre aujourd'hui ?"
+    bishop "Mr Lee ! Bienvenue à vous et à vos élèves, c'est merveilleux de vous rencontrer tous. Votre professeur vous a-t-il informé de ce que vous allez apprendre aujourd'hui ?"
 
 # game/v12/scene16.rpy:166
 translate francais v12_valentine_d128ff40:
@@ -208,7 +208,7 @@ translate francais v12_valentine_3bb72112:
 translate francais v12_valentine_321e9c39:
 
     # bishop "To you young man, who you're thinking of is the fictional character named Cupid commonly associated with Valentine's day due to being the Roman god of love."
-    bishop "Pour vous, jeune homme, celui auquel vous pensez est le personnage fictif nommé Cupidon, communément associé à la Saint-Valentin car il est le dieu romain de l'amour."
+    bishop "Pour vous répondre, jeune homme, celui auquel vous pensez est le personnage fictif nommé Cupidon, communément associé à la Saint-Valentin car il est le dieu romain de l'amour."
 
 # game/v12/scene16.rpy:228
 translate francais v12_valentine_529dc31e:
@@ -382,7 +382,7 @@ translate francais v12_valentine_f9c8cee0:
 translate francais v12_valentine_bdc9bce2:
 
     # lee "I wanted to be just as informed on the topic as you, so I did a barrage of research during my time here in Europe."
-    lee "Je voulais être aussi bien informée que vous sur le sujet, c'est pourquoi j'ai effectué un grand nombre de recherches pendant mes séjours en Europe."
+    lee "Je voulais être aussi bien informé que vous sur le sujet, c'est pourquoi j'ai effectué un grand nombre de recherches pendant mes séjours en Europe."
 
 # game/v12/scene16.rpy:369
 translate francais v12_valentine_40786f70:
@@ -400,7 +400,7 @@ translate francais v12_valentine_5743bfa4:
 translate francais v12_valentine_3d96698a:
 
     # bishop "Anyway... Eventually word got out and the Emperor not only demanded Valentine to stop his secret weddings, but also wanted him to convert to the Roman faith."
-    bishop "Bref... La nouvelle finit par se répandre et l'empereur exige non seulement que Valentin cesse ses mariages secrets, mais aussi qu'il se convertisse à la foi romaine."
+    bishop "Bref... La nouvelle finit par se répandre et l'empereur exigea non seulement que Valentin cesse ses mariages secrets, mais aussi qu'il se convertisse à la foi romaine."
 
 # game/v12/scene16.rpy:380
 translate francais v12_valentine_a165df77:
@@ -952,7 +952,7 @@ translate francais v12_valentine_cac540d7:
 translate francais v12_valentine_e285480a:
 
     # li "We're going to an escape room."
-    li "On va dans une salle d'évasion."
+    li "On va se faire un escape game"
 
 # game/v12/scene16.rpy:922
 translate francais v12_valentine_0f9f5d76:

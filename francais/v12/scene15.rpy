@@ -52,7 +52,7 @@ translate francais v12_riddle_riley_e3145d74:
 translate francais v12_riddle_riley_ba6ee298:
 
     # u "Hating on the dead is never a good thing. When the zombies, ghosts or whatever comes, I won't be there to help you. But at least you'll have your super power and you can tell them if they're hungry. *Laughs*"
-    u "Haïr les morts n'est jamais une bonne chose. Quand les zombies, fantômes ou autres arriveront, je ne serai pas là pour t'aider. Mais au moins tu auras ton super pouvoir et tu pourras leur dire s'ils ont faim. *Rire*"
+    u "Jouer avec les morts n'est jamais une bonne chose. Quand les zombies, fantômes ou autres arriveront, je ne serai pas là pour t'aider. Mais au moins tu auras ton super pouvoir et tu pourras leur dire s'ils ont faim. *Rire*"
 
 # game/v12/scene15.rpy:62
 translate francais v12_riddle_riley_87a5867b:
@@ -76,7 +76,7 @@ translate francais v12_riddle_riley_dea5ef22:
 translate francais v12_riddle_riley_08cc1b17:
 
     # ri "I'm pretty sure this is where the bodies are put."
-    ri "Je suis presque sûre que c'est là qu'on met les corps."
+    ri "Je suis presque sûre que c'est là qu'on déposait les corps."
 
 # game/v12/scene15.rpy:100
 translate francais v12_riddle_riley_f70aa024:
@@ -88,7 +88,7 @@ translate francais v12_riddle_riley_f70aa024:
 translate francais v12_riddle_riley_fe8721fd:
 
     # ri "Maybe we are, maybe we aren't. Start looking around for the next clue... I'm positive it's here somewhere."
-    ri "Peut-être qu'on la, peut-être qu'on ne l'a pas. Commence à chercher le prochain indice... Je suis sûre qu'il est ici quelque part."
+    ri "Peut-être qu'on l'a, peut-être qu'on ne l'a pas. Commence à chercher le prochain indice... Je suis sûre qu'il est quelque part ici."
 
 # game/v12/scene15.rpy:121
 translate francais v12_riddle_riley_5a6e5b0e:
@@ -124,7 +124,7 @@ translate francais v12_riddle_riley_7ffe103c:
 translate francais v12_riddle_riley_1a07e571:
 
     # u "I give up, I can't find it. I'm telling you there's nothing down here."
-    u "J'abandonne, je ne trouve pas. Je te dis qu'il n'y a rien ici."
+    u "J'abandonne, je ne trouve rien. Je te dis qu'il n'y a rien ici."
 
 # game/v12/scene15.rpy:158
 translate francais v12_riddle_riley_7b6333da:
@@ -232,13 +232,13 @@ translate francais v12_riddle_riley_cdac905d:
 translate francais v12_riddle_riley_93b929f3:
 
     # u "What the fuck?"
-    u "C'est quoi ce bordel ?"
+    u "Putain, qu'est-ce qu'il se passe ?"
 
 # game/v12/scene15.rpy:273
 translate francais v12_riddle_riley_211a92f2:
 
     # ri "And... Now we're in the dark."
-    ri "Et... Maintenant on est dans le noir."
+    ri "Et maintenant... On est dans le noir."
 
 # game/v12/scene15.rpy:278
 translate francais v12_riddle_riley_8e07fad3:
@@ -256,7 +256,7 @@ translate francais v12_riddle_riley_2057c186:
 translate francais v12_riddle_riley_830e231b:
 
     # ri "Oh nice, we're good I guess. Let's get back and..."
-    ri "Oh cool, j'imagine que c'est bon. Rentrons et..."
+    ri "Oh cool, je pense que c'est bon. Rentrons et..."
 
 # game/v12/scene15.rpy:293
 translate francais v12_riddle_riley_af2d87b2:
@@ -352,7 +352,7 @@ translate francais v12_riddle_riley_47602cd5:
 translate francais v12_riddle_riley_55ddc3a2:
 
     # ri "Not comfortably... I'm sorry."
-    ri "Pas bien... Je suis désolée."
+    ri "Pas vraiment... Je suis désolée."
 
 # game/v12/scene15.rpy:438
 translate francais v12_riddle_riley_265e5e75:

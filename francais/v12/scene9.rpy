@@ -34,7 +34,7 @@ translate francais v12_dock_arrival_506c8632:
 translate francais v12_dock_arrival_88502e7a:
 
     # lee "Ryan, you know, they have open fields here in France as well."
-    lee "Ryan, tu sais, ils ont des campings en France aussi. De plus, on est encore très loin de Paris."
+    lee "Ryan, vous savez, ils ont aussi beaucoup de campings en France. De plus, on est encore très loin de Paris."
 
 # game/v12/scene9.rpy:58
 translate francais v12_dock_arrival_0f19616f:

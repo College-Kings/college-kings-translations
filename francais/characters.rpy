@@ -134,7 +134,7 @@ define character.lmass = Character("Masseuse", who_color="#fc3158", who_outlines
 define character.mmass = Character("Masseur", who_color="#147efb", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
 define character.clady = Character("Femme folle", who_color="#ff8afb", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
 define character.escman = Character("Manager", who_color="#5fc9f8", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.bishop = Character("Bishop", who_color="#800080", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
+define character.bishop = Character("Évêque", who_color="#800080", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
 define character.nurse = Character("Infirmière", who_color="#dbfffe", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
 define character.barber = Character("Coiffeur", who_color="#fecb2e", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
 define character.greeter = Character("Greeter", who_color="#0055ff", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
