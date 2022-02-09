@@ -262,7 +262,7 @@ translate francais v12_riley_room_b5b896ed:
 translate francais v12_riley_room_db90a618:
 
     # ri "I would honestly be devastated if you did expose my picture... I may even hate you after something like that. *Chuckles*"
-    ri "Honnêtement, je serais dévasté si tu exposais ma photo... Je pourrais même te détester, après avoir fait une chose pareille. *Rire*"
+    ri "Honnêtement, je serais dévastée si tu exposais ma photo... Je pourrais même te détester, après avoir fait une chose pareille. *Rire*"
 
 # game/v12/scene22.rpy:260
 translate francais v12_riley_room_423211c3:

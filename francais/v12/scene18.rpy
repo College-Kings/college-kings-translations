@@ -10,7 +10,7 @@ translate francais v12_slumber_party_4643fce2:
 translate francais v12_slumber_party_a639e265:
 
     # imre "If you want to sleep together Aubrey, just say it."
-    imre "Si tu veux coucher avec Aubrey, dis-le."
+    imre "Aubrey, si tu veux qu'on couche ensemble, dis-le tout simplement."
 
 # game/v12/scene18.rpy:31
 translate francais v12_slumber_party_95da721f:
@@ -178,7 +178,7 @@ translate francais v12_slumber_party_54c01af9:
 translate francais v12_slumber_party_3dd7796e:
 
     # cl "We'll find somewhere to sit that isn't... dog infested. *Chuckles*"
-    cl "On trouvera un endroit où s'asseoir qui ne... pue pas le chien. *Rire*"
+    cl "On trouvera un endroit où s'asseoir qui ne... pue pas le chien mouillé. *Rire*"
 
 # game/v12/scene18.rpy:231
 translate francais v12_slumber_party_dfadf186:
@@ -250,7 +250,7 @@ translate francais v12_slumber_party_7d7175f5:
 translate francais v12_slumber_party_ae8b49bb:
 
     # no "*Whispers* \"Mom?!\""
-    no "*Chuchote* \"Maman ?!\""
+    no "*Chuchote* \"Maman\" ?!"
 
 # game/v12/scene18.rpy:296
 translate francais v12_slumber_party_de5b01aa:
@@ -304,7 +304,7 @@ translate francais v12s18_bottlespin_2cfb2e83:
 translate francais v12s18_bottlespin_c0fa9095:
 
     # u "Depends... What are we playing?"
-    u "Ça dépend... A quoi on joue ?"
+    u "Ça dépend... À quoi on joue ?"
 
 # game/v12/scene18.rpy:361
 translate francais v12s18_bottlespin_4dd010ff:
@@ -1612,7 +1612,7 @@ translate francais v12s18_bet_db56474c:
 translate francais v12s18_bet_abeff5e1:
 
     # am "Haha, thanks. Now, just lay back and close your eyes. Let me massage your face."
-    am "Haha, merci. Maintenant, étend-toi et ferme les yeux. Laisse-moi te masser le visage."
+    am "Haha, merci. Maintenant, étends-toi et ferme les yeux. Laisse-moi te masser le visage."
 
 # game/v12/scene18.rpy:1810
 translate francais v12s18_bet_8f612043:

@@ -436,7 +436,7 @@ translate francais v12_nora_exploring_9ede6bbd:
 translate francais v12_nora_exploring_52636210:
 
     # imre "*Loud drunk whisper* She has such pretty feet..."
-    imre "*Chuchote d'ivrogne bruyant* Elle a d'si jolis pieds..."
+    imre "*Chuchotement d'ivrogne bruyant* Elle a d'si jolis pieds..."
 
 # game/v12/scene21.rpy:469
 translate francais v12_nora_exploring_960de289:
@@ -472,7 +472,7 @@ translate francais v12_nora_exploring_739a82fc:
 translate francais v12_nora_exploring_37ab3787:
 
     # u "I'll let her tell you all about it. Later guys."
-    u "Je vais la laisser te raconter tout ça. A plus tard."
+    u "Je vais la laisser te raconter tout ça. À plus tard."
 
 # game/v12/scene21.rpy:499
 translate francais v12_nora_exploring_c806e5f6:

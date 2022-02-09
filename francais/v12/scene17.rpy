@@ -76,7 +76,7 @@ translate francais v12_escape_room_6f4fbfc4:
 translate francais v12_escape_room_d2acd9b9:
 
     # au "So you want to do an escape room for your birthday?"
-    au "Tu veux faire une escape room pour ton anniversaire ?"
+    au "Tu veux faire un escape game pour ton anniversaire ?"
 
 # game/v12/scene17.rpy:78
 translate francais v12_escape_room_51e05fcf:
@@ -106,7 +106,7 @@ translate francais v12_escape_room_2d3d1338:
 translate francais v12_escape_room_716cd386:
 
     # li "Oh, don't worry, Mr. Lee paid for everything. He's actually the one that set this up."
-    li "Oh, ne vous inquiétez pas, Mr Lee a payé pour tout. C'est en fait lui qui a tout organisé."
+    li "Oh, ne vous inquiétez pas, Mr Lee a déjà tout payé. En fait, c'est même lui qui a tout organisé."
 
 # game/v12/scene17.rpy:103
 translate francais v12_escape_room_09facf3e:
@@ -130,13 +130,13 @@ translate francais v12_escape_room_9cd2ab1b:
 translate francais v12_escape_room_72e733ca:
 
     # escman "*Dry Tone* Welcome to Escape, do you have a reservation?"
-    escman "*Ton sec* Bienvenue à Escape, avez-vous une réservation ?"
+    escman "*Ton sec* Bienvenue à Escape room, avez-vous une réservation ?"
 
 # game/v12/scene17.rpy:131
 translate francais v12_escape_room_da7808fb:
 
     # li "We do, it's under Lee."
-    li "On en a une, c'est sous le nom de Lee."
+    li "On en a une, c'est sous le nom de Mr Lee."
 
 # game/v12/scene17.rpy:136
 translate francais v12_escape_room_89cb25cf:
@@ -178,7 +178,7 @@ translate francais v12_escape_room_0a022258:
 translate francais v12_escape_room_def8c9e6:
 
     # escman "*Dry Tone* What will you find at the end of every rainbow?"
-    escman "*Ton sec* Que trouveras-tu à la fin de chaque arc-en-ciel ?"
+    escman "*Ton sec* Que trouverez-vous à la fin de chaque arc-en-ciel ?"
 
 # game/v12/scene17.rpy:171
 translate francais v12_escape_room_76e55460:
@@ -568,19 +568,19 @@ translate francais v12_escape_room_4d316533:
 translate francais v12_escape_room_f6e320ae:
 
     # au "Well, this is just my luck. I get stuck with the gay guy and the goofball. Guess I won't be having any fun..."
-    au "C'est bien ma chance. Je suis coincée avec le gay et le crétin. Je crois que je ne vais pas m'amuser longtemps..."
+    au "C'est bien ma chance. Je suis coincée avec le gay et l'obsédé. Je crois que je ne vais pas m'amuser longtemps..."
 
 # game/v12/scene17.rpy:518
 translate francais v12_escape_room_12779de2:
 
     # imre "Goofball? I am not a-"
-    imre "Crétin ? J'suis pas une-"
+    imre "Obsédé ? J'suis pas un-"
 
 # game/v12/scene17.rpy:523
 translate francais v12_escape_room_16ee73ae:
 
     # imre "*Whisper* Damn!"
-    imre "*Chuchote* Merde !"
+    imre "*Chuchote* Oh putain !"
 
 # game/v12/scene17.rpy:528
 translate francais v12_escape_room_2e8e8960:
@@ -592,7 +592,7 @@ translate francais v12_escape_room_2e8e8960:
 translate francais v12_escape_room_044c331b:
 
     # imre "DAMN!"
-    imre "MERDE !"
+    imre "OH PUTAIN !"
 
 # game/v12/scene17.rpy:538
 translate francais v12_escape_room_3e8c0a46:
@@ -676,7 +676,7 @@ translate francais v12_escape_room_ef6a5239:
 translate francais v12_escape_room_5e076f81:
 
     # u "I guess so."
-    u "J'imagine que oui."
+    u "On dirait bien."
 
 # game/v12/scene17.rpy:618
 translate francais v12_escape_room_2e2d689c:
@@ -736,13 +736,13 @@ translate francais v12_escape_room_11e7701b:
 translate francais v12_escape_room_76359b78:
 
     # u "Cuddle?"
-    u "Un câlin ?"
+    u "On se blottit l'un contre l'autre ?"
 
 # game/v12/scene17.rpy:668
 translate francais v12_escape_room_c51112d0:
 
     # li "I think we might have to..."
-    li "Je pense qu'on devrait..."
+    li "Je crois qu'on devrait..."
 
 # game/v12/scene17.rpy:673
 translate francais v12_escape_room_4d96bb8c:
@@ -1162,7 +1162,7 @@ translate francais v12s17_nsfwSkipLabel1_00a883d0:
 translate francais v12s17_nsfwSkipLabel1_837be94f:
 
     # li "Haha, okay. Let's focus and get these clothes back on before Mr. Creepo gets back..."
-    li "Haha, ok. Concentrons-nous et remettons ces vêtements avant que Mr Crétin ne revienne..."
+    li "Haha, ok. Concentrons-nous et remettons ces vêtements avant que Mr Obsédé ne revienne..."
 
 # game/v12/scene17.rpy:1226
 translate francais v12s17_nsfwSkipLabel1_f8ddb6ee:
@@ -1258,7 +1258,7 @@ translate francais v12_after_sex_0931f31d:
 translate francais v12_after_sex_39df2fe2:
 
     # unknown "Once the final team makes it out, that concludes our escape room. You have nearly reached the time limit."
-    unknown "Une fois que la dernière équipe s'en sortira, ce sera la fin de notre escape room. Vous avez presque atteint le temps limite."
+    unknown "Une fois que la dernière équipe s'en sortira, ce sera la fin de notre escape game. Vous avez presque atteint le temps limite."
 
 # game/v12/scene17.rpy:1343
 translate francais v12_after_sex_2c021061:

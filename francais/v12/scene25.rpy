@@ -514,13 +514,13 @@ translate francais v12_jc_aubrey_2d8ef327:
 translate francais v12_jc_continue_6ed67b12:
 
     # ju "Well, I'm so happy to hear you're enjoying all that Europe has to offer and that you're not doing it all alone."
-    ju "Je suis ravie d'apprendre que tu profites de tout ce que ce voyage a à offrir et que tu ne fais pas tout seul."
+    ju "Je suis ravie d'apprendre que tu profites de tout ce que ce voyage a à offrir et que tu ne le fais pas tout seul."
 
 # game/v12/scene25.rpy:494
 translate francais v12_jc_continue_40999b7f:
 
     # u "Haha, thanks... I am almost ready to be back in America, though. *Laughs*"
-    u "Haha, merci... Je suis presque prêt à retourner en Amérique, toutefois. *Rire*"
+    u "Haha, merci... Je suis tout de même presque prêt à retourner en Amérique. *Rire*"
 
 # game/v12/scene25.rpy:499
 translate francais v12_jc_continue_e1277ba7:
