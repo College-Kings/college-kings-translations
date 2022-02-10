@@ -202,7 +202,7 @@ translate francais v13s28_57ae9944:
 translate francais v13s28_52989e72:
 
     # u "I mean it might be a little triggering but... Whatever, yeah. I'll pay for it."
-    u "Je voulais dire que ça pourrait être un peu déclencheur oui, mais... Oh et puis merde. Je vais payer pour toi."
+    u "Je voulais dire que ça pourrait déclencher des sales trucs pour toi, mais... Oh et puis merde. Je vais payer pour toi."
 
 # game/v13/scene28.rpy:224
 translate francais v13s28_a86c4df1:

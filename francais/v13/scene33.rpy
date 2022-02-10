@@ -16,7 +16,7 @@ translate francais v13s33_0313745f:
 translate francais v13s33_f65ef425:
 
     # u "Why are you waking me up to do this?"
-    u "Pourquoi tu me réveilles pour faire ça ?"
+    u "Pourquoi à chaque fois, tu me réveilles pour faire ça ?"
 
 # game/v13/scene33.rpy:46
 translate francais v13s33_d11bd0c7:

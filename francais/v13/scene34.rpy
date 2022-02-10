@@ -382,7 +382,7 @@ translate francais v13s34_144498c3:
 translate francais v13s34_f1cb1e6c:
 
     # ri "I'm not hurt, but I can't see... *Sobs* I'm really scared."
-    ri "Je ne suis pas blessée, mais je ne peux pas voir... *Sanglote* J'ai vraiment peur."
+    ri "Je ne suis pas blessée, mais je ne vois rien... *Sanglote* J'ai vraiment peur."
 
 # game/v13/scene34.rpy:367
 translate francais v13s34_2b42f898:
@@ -394,7 +394,7 @@ translate francais v13s34_2b42f898:
 translate francais v13s34_d7904bf6:
 
     # unknown "STOP TALKING. YOU DON'T SPEAK UNLESS SPOKEN TO!"
-    unknown "ARRÊTEZ DE PARLER. VOUS NE PARLEZ PAS SI ON NE VOUS LE DEMANDE PAS !"
+    unknown "ARRÊTEZ DE PARLER. SI ON NE VOUS LE DEMANDE PAS, VOUS N'AVEZ RIEN À DIRE !"
 
 # game/v13/scene34.rpy:371
 translate francais v13s34_feff5b96:

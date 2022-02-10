@@ -442,7 +442,7 @@ translate francais v13s29_253d5705:
 translate francais v13s29_7800ba8e:
 
     # am "*Heavy breathing* You're out of shape."
-    am "*Respiration lourde* Tu as perdu la forme."
+    am "*Respiration lourde* T'as perdu la forme."
 
 # game/v13/scene29.rpy:522
 translate francais v13s29_a8ab0b4c:
@@ -472,7 +472,7 @@ translate francais v13s29_5d4ac436:
 translate francais v13s29_27594969:
 
     # am "*Heavy breathing* When you get some meat on your bones come talk to me."
-    am "*Respiration lourde* Quand tu auras de la viande sur les os, viens me parler."
+    am "*Respiration lourde* Quand tu auras de la viande sur les os, reviens me dire ça."
 
 # game/v13/scene29.rpy:548
 translate francais v13s29_c34294eb:
@@ -502,4 +502,4 @@ translate francais v13s29_d5cd2c1e:
 translate francais v13s29_774d2847:
 
     # sa "Well damn, okay."
-    sa "Ben merde, ok."
+    sa "Ben merde... Ok."

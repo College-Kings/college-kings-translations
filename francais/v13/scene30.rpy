@@ -226,7 +226,7 @@ translate francais v13s30_46869296:
 translate francais v13s30_51bb962d:
 
     # am "Speaking of wack, look who it is!"
-    am "En parlant de chelou, regarde qui c'est !"
+    am "En parlant de chelou, regarde qui voilà !"
 
 # game/v13/scene30.rpy:245
 translate francais v13s30_8ad3509a:
@@ -628,7 +628,7 @@ translate francais v13s30_14c59181:
 translate francais v13s30_96f746ec:
 
     # am "Oh, don't worry. You'll make it up to me. *Chuckles*"
-    am "Oh, ne t'inquiète pas. Tu te rattraperas facilement. *Rire*"
+    am "Oh, ne t'inquiète pas. Tu te rattraperas un jour. *Rire*"
 
 # game/v13/scene30.rpy:735
 translate francais v13s30_8ac5774f:
