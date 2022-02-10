@@ -34,7 +34,7 @@ translate francais v13s52a_ad242945:
 translate francais v13s52a_3356e872:
 
     # u "I did... I couldn't be far from my baby last night."
-    u "Oui... Je ne pouvais pas être trop loin de mon bébé cette nuit."
+    u "Oui... Je ne pouvais pas être trop loin de mon bébé."
 
 # game/v13/scene52a.rpy:42
 translate francais v13s52a_b384e21b:
@@ -46,7 +46,7 @@ translate francais v13s52a_b384e21b:
 translate francais v13s52a_537c2e74:
 
     # cl "We have to leave the room because they're getting ready to clean them. I have errands to run with Amber, believe it or not. *Laughs*"
-    cl "On doit quitter la chambre vu qu'ils vont la nettoyer. J'ai des courses à faire avec Amber, crois-moi ou pas. *Rire*"
+    cl "On doit quitter la chambre vu qu'ils vont la nettoyer. Crois moi ou pas, j'ai des courses à faire avec Amber. *Rire*"
 
 # game/v13/scene52a.rpy:58
 translate francais v13s52a_cffbaed8:

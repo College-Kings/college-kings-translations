@@ -400,7 +400,7 @@ translate francais v13s39a_4bcf0f6f:
 translate francais v13s39a_7b5b5854:
 
     # u "Maybe, maybe not. Why do you bring it up? Trying to take Chris to dinner? *Chuckles*"
-    u "Peut-être, peut-être pas. Pourquoi tu en parles ? Tu veux inviter Chris dîner ? *Rire*"
+    u "Peut-être, peut-être pas. Pourquoi tu en parles ? Tu veux inviter Chris à dîner ? *Rire*"
 
 # game/v13/scene39a.rpy:444
 translate francais v13s39a_d7069fc6:
@@ -412,19 +412,19 @@ translate francais v13s39a_d7069fc6:
 translate francais v13s39a_ef7b6ef8:
 
     # u "Thank you, I'm here all night. *Laughs*"
-    u "Merci, je suis toujours là pour le faire. *Rire*"
+    u "Merci, je suis toujours là pour ça. *Rire*"
 
 # game/v13/scene39a.rpy:454
 translate francais v13s39a_c61d3db6:
 
     # ry "*Chuckles* But no, seriously? It's just crazy. I never expected all that from them two."
-    ry "*Rire* Mais non, sérieusement ? C'est juste dingue. Je ne m'attendais pas à tout ça de leur part."
+    ry "*Rire* Non, mais sérieusement ! C'est dingue. Je ne m'attendais pas à tout ça de leur part."
 
 # game/v13/scene39a.rpy:459
 translate francais v13s39a_9c5b95fc:
 
     # u "It is a huge surprise, to everyone I think."
-    u "C'est une énorme surprise, pour tout le monde à mon avis."
+    u "À mon avis, c'est une énorme surprise pour tout le monde."
 
 # game/v13/scene39a.rpy:464
 translate francais v13s39a_db90dc24:
@@ -442,7 +442,7 @@ translate francais v13s39a_46f1de46:
 translate francais v13s39a_962b4330_1:
 
     # u "It's gonna be game over now."
-    u "Le jeu est terminé."
+    u "Game over pour toi, mec !"
 
 # game/v13/scene39a.rpy:524
 translate francais v13s39a_f370d78c_1:

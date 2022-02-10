@@ -418,7 +418,7 @@ translate francais v13s48_45523f68:
 translate francais v13s48_6e334c13:
 
     # au "I don't need any hints, [name]."
-    au "Je n'ai pas besoin de conseils, [name]."
+    au "Je n'ai pas besoin d'aide, [name]."
 
 # game/v13/scene48.rpy:430
 translate francais v13s48_fdbe2eb0:

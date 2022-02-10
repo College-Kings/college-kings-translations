@@ -364,7 +364,7 @@ translate francais v13s41_189edff6:
 translate francais v13s41_117a7158:
 
     # u "Why? I mean, I know the obvious reasons, but I wanna hear your thoughts."
-    u "Pourquoi ? Je connais les raisons évidentes, mais je veux savoir ce que tu en penses."
+    u "Pourquoi ? Je connais les raisons évidentes, mais je veux savoir ce que TOI tu en penses."
 
 # game/v13/scene41.rpy:374
 translate francais v13s41_b6038512:
@@ -616,7 +616,7 @@ translate francais v13s41_b1b44b26:
 translate francais v13s41_c8c85890:
 
     # u "Good, maybe that worry will keep him from doing the nasty shit he usually does."
-    u "Tant mieux, peut-être que cette inquiétude l'empêchera de faire les choses horribles qu'il fait d'habitude."
+    u "Tant mieux, peut-être que cette inquiétude l'empêchera de faire les choses dégueux qu'il fait d'habitude."
 
 translate francais strings:
 

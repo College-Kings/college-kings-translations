@@ -82,7 +82,7 @@ translate francais v13s47_c6e50747:
 translate francais v13s47_10478c17:
 
     # u "We were actually getting ready to go get brunch."
-    u "On était en fait en train de se préparer pour aller prendre un brunch."
+    u "On était en fait en train de se préparer à aller prendre un brunch."
 
 # game/v13/scene47.rpy:101
 translate francais v13s47_99a9e445:
