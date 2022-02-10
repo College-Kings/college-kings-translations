@@ -226,7 +226,7 @@ translate francais v13s9_62f82373:
 translate francais v13s9_a0de9cf9:
 
     # cl "Yep, it's literally called The Greek Presidential Scholarship."
-    cl "Ouaip, ça s'appelle littéralement la bourse présidentielle de fraternité."
+    cl "Ouaip, ça s'appelle littéralement la \"bourse présidentielle de fraternité\"."
 
 # game/v13/scene9.rpy:273
 translate francais v13s9_541f1150:
@@ -244,7 +244,7 @@ translate francais v13s9_10b7a9cf:
 translate francais v13s9_b94bb13c:
 
     # u "Of course I'll help. You obviously care about the girls, you've been running the sorority perfectly fine, and I'd hate for you to lose your scholarship."
-    u "Bien sûr que je vais t'aider. Il est évident que tu te soucies des filles, tu as très bien géré la sororité et je ne voudrais pas que tu perdes ta bourse."
+    u "Bien sûr que je vais t'aider. Il est évident que tu te soucies des filles, tu as très bien géré la fraternité et je ne voudrais pas que tu perdes ta bourse."
 
 # game/v13/scene9.rpy:298
 translate francais v13s9_574b59de:

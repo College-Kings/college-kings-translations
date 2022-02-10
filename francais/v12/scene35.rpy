@@ -4,7 +4,7 @@
 translate francais v12_chris_nora_room_29d73290:
 
     # u "(Locked, she must be in the shower.)"
-    u "( Fermé, elle doit être sous la douche. )"
+    u "(Fermé, elle doit être sous la douche.)"
 
 # game/v12/scene35.rpy:33
 translate francais v12_chris_nora_room_57ae9944:

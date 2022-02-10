@@ -34,13 +34,13 @@ translate francais v12_nora_chris_fight_1d30d756:
 translate francais v12_nora_chris_fight_ca533a8f:
 
     # no "You don't- ARE YOU A FUCKING IDIOT?!"
-    no "Tu ne vois pas... T'ES UN PUTAIN D'IDIOT ? !"
+    no "Tu ne vois pas... T'ES CON OU QUOI !?"
 
 # game/v12/scene26.rpy:48
 translate francais v12_nora_chris_fight_0c8c933e:
 
     # no "I asked you to hang out tonight, and you told me you were busy. Now you realize you're free, and instead of making plans with me YOU CALL THE FUCKING GUYS!?"
-    no "Je t'ai demandé de sortir ce soir, et tu m'as dit que tu étais occupé. Maintenant, tu réalises que tu es libre, et au lieu de faire des plans avec moi, T'APPELLES TES PUTAINS DE POTES !?"
+    no "Je t'ai demandé de sortir ce soir et tu m'as dit que tu étais occupé. Maintenant, tu réalises que tu es libre et au lieu de faire des plans avec moi, T'APPELLES TES PUTAINS DE POTES !?"
 
 # game/v12/scene26.rpy:53
 translate francais v12_nora_chris_fight_669434ff:
@@ -58,7 +58,7 @@ translate francais v12_nora_chris_fight_108e5202:
 translate francais v12_nora_chris_fight_23e76809:
 
     # no "ARE YOU FUCKING SERIOUS RIGHT NOW!?"
-    no "T'ES SÉRIEUX, LÀ, PUTAIN ! ?"
+    no "PUTAIN, T'ES SÉRIEUX LÀ !?"
 
 # game/v12/scene26.rpy:68
 translate francais v12_nora_chris_fight_7f079070:

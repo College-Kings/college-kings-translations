@@ -4,13 +4,13 @@
 translate francais v12_room_sneak_601db72a:
 
     # u "(So beautiful.)"
-    u "(Tellement belle.)"
+    u "(Elle est tellement belle.)"
 
 # game/v12/scene30.rpy:33
 translate francais v12_room_sneak_420d0d43:
 
     # u "(Must've been really tired if she didn't wait up.)"
-    u "(Elle devait être vraiment fatiguée si elle ne m'a pas attendu.)"
+    u "(Elle devait être vraiment fatiguée, si elle ne m'a pas attendu.)"
 
 # game/v12/scene30.rpy:39
 translate francais v12_room_sneak_9be6d6c1:

@@ -118,13 +118,13 @@ translate francais v13s14a_e1b76145:
 translate francais v13s14a_51cfa247:
 
     # polly "So, you don't like him either? Good."
-    polly "Alors, tu ne l'aimes pas non plus ? Bien."
+    polly "Ah oui, il vous a aussi emmerdé pendant le concert ? Bien."
 
 # game/v13/scene14a.rpy:124
 translate francais v13s14a_6ec37993:
 
     # polly "He was being an ass to my fans and went against concert rules, so rather than pressing charges he agreed to be my little helper for the night."
-    polly "Il se comportait comme un con avec mes fans et allait à l'encontre des règles du concert, alors plutôt que de porter plainte, j'en ai fait mon petit assistant pour la nuit."
+    polly "Il se comportait comme un con avec tous mes fans et allait à l'encontre des règles du concert, alors plutôt que de porter plainte, j'en ai fait mon petit assistant pour la nuit."
 
 # game/v13/scene14a.rpy:129
 translate francais v13s14a_0ea44766:
@@ -340,7 +340,7 @@ translate francais v13s14a_f282ed41:
 translate francais v13s14a_adac8d3a_1:
 
     # au "Tonight was definitely a night I will remember forever."
-    au "Cette nuit est définitivement une nuit dont je me souviendrai pour toujours."
+    au "Cette soirée est définitivement une expérience dont je me souviendrai pour toujours."
 
 # game/v13/scene14a.rpy:425
 translate francais v13s14a_36af5bb7_1:

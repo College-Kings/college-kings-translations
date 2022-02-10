@@ -46,7 +46,7 @@ translate francais v13s22_7ca7de89:
 translate francais v13s22_48b574f5:
 
     # u "Charli has been writing finals and taking exams for students in Mr. Lee's class, and making bank while at it."
-    u "Charli a rédigé les réponses des examens pour les élèves de la classe de Mr Lee, et a gagné de l'argent en les vendant."
+    u "Charli a rédigé les réponses des examens pour les élèves de toutes les classes de Mr Lee et a gagné de l'argent en les vendant."
 
 # game/v13/scene22.rpy:52
 translate francais v13s22_d97462f0:

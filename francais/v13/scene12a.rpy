@@ -178,7 +178,7 @@ translate francais v13s12a_e65a6ec4:
 translate francais v13s12a_71072c3f:
 
     # u "STUMBLED THERE A BIT. *Chuckles*"
-    u "T'A UN PEU TRÉBUCHÉ, LÀ. *Rire*"
+    u "T'AS UN PEU TRÉBUCHÉ, LÀ. *Rire*"
 
 # game/v13/scene12a.rpy:201
 translate francais v13s12a_3ea043c6:

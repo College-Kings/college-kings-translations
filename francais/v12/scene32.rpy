@@ -664,7 +664,7 @@ translate francais v12s32_919cb308:
 translate francais v12s32_4f756abc:
 
     # na "*Sighs* Yeah, guess we're on that \"out with the old and in with the new\" type of vibe... C'mon Aubrey."
-    na "*Soupirs* Ouais, je vois qu'on est sur ce genre de truc : \"on arrête avec la vieille et on commence avec la nouvelle\"... Allez, Aubrey."
+    na "*Soupirs* Ouais, je vois qu'on est sur ce genre de truc : \"on arrête avec la vieille et on commence avec la nouvelle\"... Allez Aubrey, viens."
 
 # game/v12/scene32.rpy:693
 translate francais v12s32_fc7a1cb8:
@@ -748,7 +748,7 @@ translate francais v12s32_e72da085:
 translate francais v12s32_146f5d78:
 
     # u "I've never seen you flustered or even bothered, yet with this you've been acting unlike yourself. As if you're worried about impressing your sister or something."
-    u "Je ne t'ai jamais vu agitée ou même ennuyée, mais là, tu n'es pas comme toi-même. Comme si tu étais inquiète de surpasser ta soeur ou quelque chose comme ça."
+    u "Je ne t'ai jamais vu agitée ou même ennuyée, mais là, tu n'es plus toi-même. Comme si tu étais inquiète de surpasser ta soeur ou quelque chose comme ça."
 
 # game/v12/scene32.rpy:761
 translate francais v12s32_9b042bdd:

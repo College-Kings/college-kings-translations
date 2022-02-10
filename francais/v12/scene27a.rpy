@@ -40,7 +40,7 @@ translate francais v12s27a_868405f8:
 translate francais v12s27a_35732251:
 
     # ry "Bro, he just shoved her like she was a damn pinata."
-    ry "Mec, il l'a juste bousculée comme si elle était une foutue pinata."
+    ry "Mec, il l'a bousculé comme si elle était une foutue pinata."
 
 # game/v12/scene27a.rpy:47
 translate francais v12s27a_22684365:
@@ -112,7 +112,7 @@ translate francais v12s27a_8d69bfe3:
 translate francais v12s27a_6b21c8cb:
 
     # ry "It's a little something I wanna do to the next pledges."
-    ry "C'est un petit quelque chose que je veux faire pour les prochains candidats."
+    ry "C'est un petit quelque chose que je veux faire faire aux prochains candidats."
 
 # game/v12/scene27a.rpy:104
 translate francais v12s27a_d691ef1c:
@@ -136,7 +136,7 @@ translate francais v12s27a_0d3405b7:
 translate francais v12s27a_a58a1a5f:
 
     # ry "I wanna call everyone that gets black hair, Roasted Apes. *Chuckles*"
-    ry "Je voudrais appeler tous ceux qui ont des cheveux noirs, des Apess grillés. *Rire*"
+    ry "Je voudrais appeler tous ceux qui ont des cheveux noirs, les Apes grillés. *Rire*"
 
 # game/v12/scene27a.rpy:124
 translate francais v12s27a_9c53da93:
@@ -268,7 +268,7 @@ translate francais v12s27a_2a83186a:
 translate francais v12s27a_b4d781e6:
 
     # am "*Laughs* I don't even need to guess what [name]'s answer was... Yes, I've been with a girl. So, enjoy your black hair dumbass! Take pictures, [name]!"
-    am "*Rire* Je n'ai même pas besoin de deviner quelle a été la réponse de [name]... Oui, j'ai déjà couché avec une fille. Alors, profite de tes cheveux noirs, crétin ! Prends des photos, [name] !"
+    am "*Rire* Je n'ai même pas besoin de deviner quelle a été la réponse de [name]... Oui, j'ai déjà couché avec une fille. Alors, profite de tes cheveux noirs, crétin ! [name], prends des photos !"
 
 # game/v12/scene27a.rpy:221
 translate francais v12s27a_c16ac08e:
@@ -286,7 +286,7 @@ translate francais v12s27a_a0cc0a20:
 translate francais v12s27a_e9da7466:
 
     # ry "Bro, she hung up on me!"
-    ry "Mec, elle m'a raccroché au nez !"
+    ry "Elle m'a raccroché au nez !"
 
 # game/v12/scene27a.rpy:236
 translate francais v12s27a_7f784730:
@@ -298,7 +298,7 @@ translate francais v12s27a_7f784730:
 translate francais v12s27a_1a14fa84:
 
     # ry "Haha, man... You know I was just joking, right? We don't have to do this bet."
-    ry "Haha, mec... Tu sais que je ne faisais que plaisanter, n'est-ce pas ? On n'est pas obligé de faire ce pari."
+    ry "Haha... Tu sais que je ne faisais que plaisanter, n'est-ce pas ? On n'est pas obligé de faire ce pari."
 
 # game/v12/scene27a.rpy:247
 translate francais v12s27a_ed29e943:
@@ -310,7 +310,7 @@ translate francais v12s27a_ed29e943:
 translate francais v12s27a_4b84314b:
 
     # ry "Please, [name]... I really don't think it's gonna look good."
-    ry "S'il te plaît, [name]... Je pense vraiment que ça ne va pas être beau."
+    ry "S'il te plaît, [name]... Je crois que ça ne va vraiment pas m'aller."
 
 # game/v12/scene27a.rpy:258
 translate francais v12s27a_29461bbe:
@@ -328,7 +328,7 @@ translate francais v12s27a_9a8f0774:
 translate francais v12s27a_3bd40238:
 
     # u "Lead the way!"
-    u "Ouvre la voie !"
+    u "Je te suis !"
 
 # game/v12/scene27a.rpy:274
 translate francais v12s27a_29113754:
@@ -352,13 +352,13 @@ translate francais v12s27a_83047bfc:
 translate francais v12s27a_25a11f00:
 
     # barber "Ah, English... What can I do for you?"
-    barber "Ah, en anglais... Que puis-je faire pour vous ?"
+    barber "Ah, des anglais... Que puis-je faire pour vous ?"
 
 # game/v12/scene27a.rpy:307
 translate francais v12s27a_1b9188be:
 
     # ry "I uhh... I want to dye my hair black."
-    ry "Je, euh... je veux me teindre les cheveux en noir."
+    ry "Je euh... je veux me teindre les cheveux en noir."
 
 # game/v12/scene27a.rpy:312
 translate francais v12s27a_c55ef6d5:
@@ -418,7 +418,7 @@ translate francais v12s27a_7eb5eae6:
 translate francais v12s27a_7cb9041d:
 
     # ry "WOAH! Hey man, not a cut! Just the dye, bro!"
-    ry "WOAH ! Hey mec, pas de coupe ! Juste la teinture, mon frère !"
+    ry "WOAH ! Hey mec, pas de coupe ! Juste la teinture, hein !"
 
 # game/v12/scene27a.rpy:356
 translate francais v12s27a_49a1ddc5:
@@ -442,13 +442,13 @@ translate francais v12s27a_0a1f029a:
 translate francais v12s27a_bd17a259:
 
     # barber "Aaaand... done!"
-    barber "Eeeeet... c'est fait !"
+    barber "Eeeeet... c'est fini !"
 
 # game/v12/scene27a.rpy:378
 translate francais v12s27a_38734d17:
 
     # u "Wowww!!! It's... Different. *Chuckles*"
-    u "Wowww ! !! C'est... Différent. *Rire*"
+    u "Wowww !!! C'est... Différent. *Rire*"
 
 # game/v12/scene27a.rpy:380
 translate francais v12s27a_8fcf7d06:
@@ -484,7 +484,7 @@ translate francais v12s27a_07ff5e69:
 translate francais v12s27a_8144c4e1:
 
     # ry "*Sighs* I hope you're not just saying that..."
-    ry "*Soupirs* J'espère que tu n'es pas en train de dire ça..."
+    ry "*Soupirs* J'espère que tu ne dis pas ça pour..."
 
 # game/v12/scene27a.rpy:422
 translate francais v12s27a_d27e5dd4:
@@ -550,7 +550,7 @@ translate francais v12s27a_bef123e7:
 translate francais v12s27a_4c5cd5bc:
 
     # ry "Oh man, everyone on Kiwii keeps commenting \"#RoastedApe\"."
-    ry "Oh mec, il y a tellement de monde sur Kiwii qui commente \"#RoastedApe\"."
+    ry "Oh mec, il y a tellement de monde sur Kiwii qui commente \"#Aperôti\"."
 
 # game/v12/scene27a.rpy:486
 translate francais v12s27a_64d86779:
@@ -562,7 +562,7 @@ translate francais v12s27a_64d86779:
 translate francais v12s27a_e7846ae1:
 
     # ry "Yeah... Doesn't feel like it. Later, man."
-    ry "Ouais... On dirait bien. A plus tard, mec."
+    ry "Ouais... On dirait bien. À plus tard, mec."
 
 # game/v12/scene27a.rpy:496
 translate francais v12s27a_d0aa355a:

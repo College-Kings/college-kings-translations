@@ -28,7 +28,7 @@ translate francais v12_aubrey_wake_up_16cc4b2c:
 translate francais v12_aubrey_wake_up_15fe01e4:
 
     # au "The shoot at Lew's I told you about, now hurry up."
-    au "Le photoshoot chez Lew dont je t'ai parlé, maintenant dépêche-toi."
+    au "Le photoshoot chez Lew's dont je t'ai parlé. Maintenant dépêche-toi."
 
 # game/v12/scene31.rpy:38
 translate francais v12_aubrey_wake_up_57ae9944:
@@ -88,13 +88,13 @@ translate francais v12_aubrey_wake_up_7544f916:
 translate francais v12_aubrey_wake_up_33856329:
 
     # au "Since when? Why hadn't either of you told me?"
-    au "Depuis quand ? Pourquoi aucun de vous deux ne me l`a dit ?"
+    au "Depuis quand ? Pourquoi aucun de vous deux ne me l'a dit ?"
 
 # game/v12/scene31.rpy:95
 translate francais v12_aubrey_wake_up_563b7253:
 
     # cl "Since London! I honestly hadn't thought to go around telling everyone."
-    cl "Depuis Londres ! Honnêtement, je n'ais pas pensé à le dire à tout le monde."
+    cl "Depuis Londres ! Honnêtement, je n'ai pas pensé à le dire à tout le monde."
 
 # game/v12/scene31.rpy:100
 translate francais v12_aubrey_wake_up_0de50a4f:

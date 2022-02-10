@@ -22,7 +22,7 @@ translate francais v12_late_night_workout_a35fa398:
 translate francais v12_late_night_workout_e408b722:
 
     # li "Gotcha, gotcha. Are you getting ready to go to bed?"
-    li "Je vois, je vois. Tu te prépares à aller au lit ?"
+    li "Je vois, je vois. Tu comptais aller te coucher ?"
 
 # game/v12/scene29a.rpy:35
 translate francais v12_late_night_workout_3ce714e4:
@@ -40,7 +40,7 @@ translate francais v12_late_night_workout_71326526:
 translate francais v12_late_night_workout_106a3c0a:
 
     # u "Are the gyms even open? It's super late. Plus, I'm not in gym clothes."
-    u "Les salles de sport sont-elles au moins ouvertes ? Il est super tard. En plus, je ne suis pas en tenue de sport."
+    u "Les salles de sport sont-elles ouvertes au moins ? Il est super tard. En plus, je ne suis pas en tenue de sport."
 
 # game/v12/scene29a.rpy:50
 translate francais v12_late_night_workout_55bdf364:
@@ -232,7 +232,7 @@ translate francais v12_late_night_workout_505a3f68_1:
 translate francais v12_late_night_workout_da01a772:
 
     # li "Alright, I feel good. How about you?"
-    li "D'accord, maintenant je me sens bien. Et toi ?"
+    li "Super, maintenant je me sens bien. Et toi ?"
 
 # game/v12/scene29a.rpy:253
 translate francais v12_late_night_workout_afd47654:
@@ -274,7 +274,7 @@ translate francais v12_late_night_workout_ab4dbcd1:
 translate francais v12_late_night_workout_98ce10f2:
 
     # li "Okay, put your butt against the wall and make sure your heels are all the way back."
-    li "Ok, mets tes fesses contre le mur et assure-toi que tes talons soient complètement en arrière."
+    li "Ok, mets tes fesses contre le mur et assure-toi que tes talons touchent bien le mur."
 
 # game/v12/scene29a.rpy:298
 translate francais v12_late_night_workout_2d2a5902:
@@ -502,7 +502,7 @@ translate francais v12s29a_faillabel3_5adde770:
 translate francais v12s29a_faillabel3_4f5ec639:
 
     # u "You always wanna spot the person just in case they can't carry the weight. So watch carefully, I won't struggle with just the bar, but just for practice be sure to pay attention."
-    u "Il faut toujours assurer la personne au cas où elle ne pourrait pas porter le poids. Alors regarde bien, je ne vais pas faire des efforts avec la barre, mais juste pour m'entraîner, fais bien attention."
+    u "Il faut toujours assurer la personne au cas où elle ne pourrait pas supporter le poids. Alors regarde bien, je ne vais pas faire des efforts avec la barre, mais juste pour m'entraîner, fais bien attention."
 
 # game/v12/scene29a.rpy:627
 translate francais v12s29a_faillabel3_5adde770_1:
@@ -556,7 +556,7 @@ translate francais v12s29a_faillabel3_02541587:
 translate francais v12s29a_faillabel3_2e307e34:
 
     # u "Alright, let's do it. I got you."
-    u "Très bien, on y va. Je te tiens."
+    u "Très bien, on y va. Je t'assure."
 
 # game/v12/scene29a.rpy:732
 translate francais v12s29a_faillabel3_651ffe75:

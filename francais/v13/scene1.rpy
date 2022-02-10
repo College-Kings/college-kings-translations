@@ -244,7 +244,7 @@ translate francais v13_start_5a8b7caa:
 translate francais v13_start_2d5b6252:
 
     # ri "*Chuckles* See you later, and thanks again... For being a friend."
-    ri "*Rire* A plus tard, et merci encore... D'être un véritable ami."
+    ri "*Rire* À plus tard, et merci encore... D'être un véritable ami."
 
 # game/v13/scene1.rpy:231
 translate francais v13_start_1b28a406:

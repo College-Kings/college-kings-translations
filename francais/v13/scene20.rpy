@@ -34,13 +34,13 @@ translate francais v13s20_closet_87c7ad77:
 translate francais v13s20_closet_5f456375:
 
     # u "(Ugh... Oh, fuck) *Gags*"
-    u "( Beuh... Oh, putain ) *Suce*"
+    u "(Beuh... Oh, putain ça pue !) *Grimace*"
 
 # game/v13/scene20.rpy:58
 translate francais v13s20_closet_a80ed8d1:
 
     # u "*Laughs* Shit, man... He pisses so many people off, it's only fair he smells like it too. Haha!"
-    u "*Rire* Merde, mec... Il nous a tellement fait chier que c'est normal qu'il sente les chiottes, lui aussi. Haha !"
+    u "*Rire* Merde... Il nous a tellement fait chier que c'est normal qu'il sente les chiottes, lui aussi. Haha !"
 
 # game/v13/scene20.rpy:61
 translate francais v13s20_closet_c9f4504c:
@@ -100,7 +100,7 @@ translate francais v13s20_toothbrush_7e757b60:
 translate francais v13s20_toothbrush_d6934e11:
 
     # u "This is why you shouldn't be a trashy human being, pal..."
-    u "Tu aimes cracher des merdes sur les autres ? Maintenant avale la, connard..."
+    u "Tu aimes cracher de la merde sur les autres ? Maintenant avale la, connard..."
 
 # game/v13/scene20.rpy:177
 translate francais v13s20_toothbrush_ca883795:

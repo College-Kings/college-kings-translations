@@ -172,7 +172,7 @@ translate francais v12s33_c6a6bba1:
 translate francais v12s33_28c33980:
 
     # li "AUBREY! What if one of the teachers saw you?! And [name] is standing right here."
-    li "AUBREY ! Et si un des professeurs te voyait ? ! Et [name] est juste là."
+    li "AUBREY ! Et si un des professeurs te voyait ?! Et [name] est juste là."
 
 # game/v12/scene33.rpy:161
 translate francais v12s33_dd870fb5:
@@ -1390,7 +1390,7 @@ translate francais v12s33_sneak_off2_a7a4d94e:
 translate francais v12s33_sneak_off2_6d255190:
 
     # am "*Whisper* What on earth are you doing?! *Chuckles*"
-    am "*Chuchote* Mais qu'est-ce que tu fais ? ! *Rire*"
+    am "*Chuchote* Mais qu'est-ce que tu fais ?! *Rire*"
 
 # game/v12/scene33.rpy:1324
 translate francais v12s33_sneak_off2_c462aaf7:

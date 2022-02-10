@@ -82,7 +82,7 @@ translate francais v13s13a_adae45d0:
 translate francais v13s13a_72b33cd1:
 
     # polly "You're the new model that's working with Lew's, right? I saw your Paris shoot, and that shit was amazing!"
-    polly "Tu es le nouveau mannequin qui travaille chez Lew's, non ? J'ai vu ton shooting à Paris, et cette merde était incroyable !"
+    polly "Tu es le nouveau mannequin qui travaille chez Lew's, non ? J'ai vu ton shooting fait à Paris et putain, t'était magnifique !"
 
 # game/v13/scene13a.rpy:86
 translate francais v13s13a_eb6998ce:
@@ -154,7 +154,7 @@ translate francais v13s13a_6f297d4a:
 translate francais v13s13a_9afb5bec:
 
     # polly "Based on what I saw, you're gonna be the Next. Big. Thing. Your first gig is international work in Paris... C'mon now. *Laughs*"
-    polly "D'après ce que j'ai vu, tu vas être la prochaine. Grande. Star. Et ton premier job est un travail international à Paris... Allez, vas-y. *Rire*"
+    polly "D'après ce que j'ai vu, tu vas être la prochaine. GRANDE. STAR. Et ton premier job est un travail international à Paris... Allez, vas-y. *Rire*"
 
 # game/v13/scene13a.rpy:144
 translate francais v13s13a_c6488931:

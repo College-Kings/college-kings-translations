@@ -22,7 +22,7 @@ translate francais v13s17_13bb4b12:
 translate francais v13s17_5321c81c:
 
     # cl "Mmm... Time for more sleep then."
-    cl "Mmm... C'est le moment de dormir un peu plus, alors."
+    cl "Mmm... Alors je vais rester et dormir un peu plus."
 
 # game/v13/scene17.rpy:52
 translate francais v13s17_4089e1fa:

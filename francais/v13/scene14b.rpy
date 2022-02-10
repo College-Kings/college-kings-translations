@@ -76,7 +76,7 @@ translate francais v13s14b_e1b76145:
 translate francais v13s14b_1bcbfabb:
 
     # polly "So you don't like him either, good. He was being an ass to my fans and went against concert rules, so rather than pressing charges he agreed to be my little helper for the night."
-    polly "Il se comportait comme un con avec mes fans et allait à l'encontre des règles du concert, alors plutôt que de porter plainte, j'en ai fait mon petit assistant pour la nuit."
+    polly "Il se comportait comme un con avec tous mes fans et allait à l'encontre des règles du concert, alors plutôt que de porter plainte, j'en ai fait mon petit assistant pour la nuit."
 
 # game/v13/scene14b.rpy:84
 translate francais v13s14b_5360e7b9:
@@ -88,7 +88,7 @@ translate francais v13s14b_5360e7b9:
 translate francais v13s14b_ed251715:
 
     # random_guy "Don't look at me when she's sitting on her ass. *Laughs*"
-    random_guy "Ne me regarde pas tête de cul. *Rire*"
+    random_guy "Ne me regarde pas et va poser ton sale cul. *Rire*"
 
 # game/v13/scene14b.rpy:90
 translate francais v13s14b_fe327f67:

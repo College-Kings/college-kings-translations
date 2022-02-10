@@ -28,7 +28,7 @@ translate francais v12_follow_chris_3bfc2273:
 translate francais v12_follow_chris_21362616:
 
     # ch "And I fucked up my wrist! MY FUCKING LIFE! It's so fucking stupid!"
-    ch "Et j'ai foutu en l'air mon poignet ! MA PUTAIN DE VIE ! C'est tellement con, putain !"
+    ch "Et j'ai foutu en l'air mon poignet ! MA PUTAIN DE VIE ! Connerie de merde, tout ça pour ça, putain !"
 
 # game/v12/scene26a.rpy:38
 translate francais v12_follow_chris_ef0e0917:
@@ -208,7 +208,7 @@ translate francais v12_follow_chris_bb74bdfc:
 translate francais v12_follow_chris_8073384a:
 
     # ch "You don't need to follow me. I insist."
-    ch "Tu n'as pas besoin de me suivre. J'insiste."
+    ch "Tu n'as pas besoin de me suivre. J'y vais seul."
 
 # game/v12/scene26a.rpy:207
 translate francais v12_follow_chris_57ae9944:
@@ -268,7 +268,7 @@ translate francais v12_follow_chris_139c19ff:
 translate francais v12_follow_chris_67916a54:
 
     # driver "*Whisper* Idiot."
-    driver "*Chuchote* Idiot."
+    driver "*Chuchote en français* Idiot."
 
 # game/v12/scene26a.rpy:262
 translate francais v12_follow_chris_6b61cd39:
@@ -334,7 +334,7 @@ translate francais v12_follow_chris_44dc720d:
 translate francais v12_follow_chris_9305b7b4:
 
     # u "*Chuckles* I'm sure you have. I don't think I've ever seen you that mad before. Think I may have seen a flash of Grayson in you for a minute."
-    u "*Rire Je suis sûr que oui. Je ne pense pas t'avoir déjà vu aussi en colère avant. Je pense que j'ai pu voir un peu de Grayson en toi pendant une minute."
+    u "*Rire* J'imagine que oui. Je ne pense pas t'avoir déjà vu aussi en colère avant. J'ai eu l'impression de voir un peu de Grayson en toi pendant une minute."
 
 # game/v12/scene26a.rpy:340
 translate francais v12_follow_chris_4b99aa71:

@@ -304,7 +304,7 @@ translate francais v13_imre_continue_5ecb7276:
 translate francais v13_imre_continue_f55fe1b9:
 
     # imre "Bro, why are you touching me?"
-    imre "Mec, pourquoi tu m'touches ?"
+    imre "Putain t'es qui ? Et pourquoi tu m'touches ?"
 
 # game/v13/scene11.rpy:359
 translate francais v13_imre_continue_23ec0e05:
@@ -328,7 +328,7 @@ translate francais v13_imre_continue_40d76e99:
 translate francais v13_imre_continue_13958bdc:
 
     # imre "Don't play with me right now, where's the real Ashton?!"
-    imre "T'fous pas de ma gueule là, où est la vraie Ashton ? !"
+    imre "T'fous pas de ma gueule là, où est la vraie Ashton ?!"
 
 # game/v13/scene11.rpy:379
 translate francais v13_imre_continue_530569bf:
@@ -388,7 +388,7 @@ translate francais v13_imre_continue_ca857bcf:
 translate francais v13_imre_continue_fc61f0f4:
 
     # imre "I SAID I WAS ONLY GONNA SAY IT ONCE! GET. OUT."
-    imre "J'AI DIT QUE J'LE DIRAIS QU'UNE SEULE FOIS ! VA T'EN. DÉGAGE !!!"
+    imre "J'AI DIT QUE J'LE DIRAIS QU'UNE SEULE FOIS ! FOUS LE CAMP ! DÉGAGE !!!"
 
 # game/v13/scene11.rpy:434
 translate francais v13_imre_continue_40f2b442:

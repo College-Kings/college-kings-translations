@@ -76,4 +76,4 @@ translate francais v13s4_27760dd2:
 translate francais v13s4_61e2016b:
 
     # u "*Chuckles* Right behind you."
-    u "*Rire* Je suis derrière toi."
+    u "*Rire* Je te suis."

@@ -130,7 +130,7 @@ translate francais v12_game_roommate_e2023475:
 translate francais v12_game_roommate_3ba118fe:
 
     # cl "Some guy named, Undergrad Steve?"
-    cl "Un type qui s'appelle, Cyclun Steve."
+    cl "Un type qui s'appelle, Undergrad Steve."
 
 # game/v12/scene35b.rpy:130
 translate francais v12_game_roommate_5b1160d0:
@@ -142,7 +142,7 @@ translate francais v12_game_roommate_5b1160d0:
 translate francais v12_game_roommate_03d965f2:
 
     # cl "Oh my gosh, I knew you were gonna say that... *Laughs*"
-    cl "Oh mmerde, j'étais sûre que tu allais dire ça... *Rire*"
+    cl "Oh merde, j'étais sûre que tu allais dire ça... *Rire*"
 
 # game/v12/scene35b.rpy:140
 translate francais v12_game_roommate_cf1edadc:

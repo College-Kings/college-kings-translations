@@ -10,7 +10,7 @@ translate francais v13s18_31f2fa67:
 translate francais v13s18_60b199a2:
 
     # luuk "Indeed I do! Just have a seat while I whip it up."
-    luuk "Bien sûr que oui ! Assieds-toi pendant que je le prépare."
+    luuk "Bien sûr que oui ! Assieds-toi je te prépare ça."
 
 # game/v13/scene18.rpy:22
 translate francais v13s18_435fa388:

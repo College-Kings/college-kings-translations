@@ -106,13 +106,13 @@ translate francais v13s21a_72a5ca20:
 translate francais v13s21a_39522f8f:
 
     # charli "Your students goof off without concern for you or anyone else. They aren't learning from you any more than they're learning from me. *Chuckles*"
-    charli "Vos élèves glandent sans se soucier de vous ni de personne d'autre. Ils n'apprennent rien de vous, pas plus qu'ils n'apprennent de moi. *Rire*"
+    charli "Vos élèves glandent sans se soucier ni de vous ni de personne d'autre. Ils n'apprennent rien de vous, pas plus qu'ils n'apprennent de moi. *Rire*"
 
 # game/v13/scene21a.rpy:142
 translate francais v13s21a_e4d08bde:
 
     # lee "*Whisper* Remove. Your hand. Now."
-    lee "*Chuchote* Retirez. Votre main. Maintenant."
+    lee "*Chuchote* Retirez... Votre main... Maintenant."
 
 # game/v13/scene21a.rpy:147
 translate francais v13s21a_999babd9:
@@ -124,7 +124,7 @@ translate francais v13s21a_999babd9:
 translate francais v13s21a_88bf6d05:
 
     # lee "I SAID, REMOVE. YOUR. HAND!"
-    lee "J'AI DIT, ENLEVEZ. VOTRE. MAIN !"
+    lee "J'AI DIT, ENLEVEZ ! VOTRE ! MAIN !"
 
 # game/v13/scene21a.rpy:167
 translate francais v13s21a_852175cf:
@@ -214,7 +214,7 @@ translate francais v13s21a_891eb7a7:
 translate francais v13s21a_00f25b0e:
 
     # au "What the fuck was that all about?!"
-    au "C'était quoi ce bordel ?!"
+    au "Putain, qu'est-ce qu'il s'est passé ?!"
 
 # game/v13/scene21a.rpy:275
 translate francais v13s21a_2a5f277a:

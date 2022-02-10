@@ -112,7 +112,7 @@ translate francais v13_ticket_transfer_2d559027:
 translate francais v13_ticket_transfer_269d7a75:
 
     # lee "They are tickets to a nearby concert. I felt someone your age would enjoy them."
-    lee "Ce sont des places pour un concert à proximité. J'ai pensé qu'ils plairaient à quelqu'un de votre âge."
+    lee "Ce sont des billets pour un concert à proximité. J'ai pensé qu'il plairait à quelqu'un de votre âge."
 
 # game/v13/scene7.rpy:112
 translate francais v13_ticket_transfer_e90039c5:
@@ -130,7 +130,7 @@ translate francais v13_ticket_transfer_4d3394fd:
 translate francais v13_ticket_transfer_36bca79d:
 
     # u "(He probably got some old history thing the first time.)"
-    u "(Il a probablement eu un vieux truc historique au début.)"
+    u "(Il a probablement voulu me donner un vieux truc historique au début.)"
 
 # game/v13/scene7.rpy:127
 translate francais v13_ticket_transfer_dc5ded48:
@@ -142,7 +142,7 @@ translate francais v13_ticket_transfer_dc5ded48:
 translate francais v13_ticket_transfer_665dae89:
 
     # u "(Yep, an old history thing.)"
-    u "( Ouaip, un vieux truc historique.)"
+    u "(Ouaip, un vieux truc historique.)"
 
 # game/v13/scene7.rpy:134
 translate francais v13_ticket_transfer_3d516b34:
@@ -190,7 +190,7 @@ translate francais v13_ticket_transfer_2bd65d80:
 translate francais v13_ticket_transfer_ac2e92d1:
 
     # u "(Wait what?! Including backstage passes and after party access?! Holy shit, Mr. Lee... Definitely a flex, but I'll take it, nonetheless.) *Chuckles*"
-    u "(Attend quoi ?! En plus des pass backstage il y a un accès à la soirée after ?! Putain de merde, Mr Lee... C'est carrément un homme d'une grande classe, et je les accepte avec plaisir.) *Rire*"
+    u "(Attend quoi ?! En plus des pass backstage il y a un accès à la soirée after ?! Putain de merde, Mr Lee... C'est carrément un homme d'une grande classe et je les accepte avec plaisir.) *Rire*"
 
 # game/v13/scene7.rpy:177
 translate francais v13_ticket_transfer_93c80bf3:
@@ -340,7 +340,7 @@ translate francais v13_ticket_transfer_f9427e14:
 translate francais v13_ticket_transfer_f928a781:
 
     # u "Yeah, so uhh... He did a bit of flexing and gave me these concert tickets as a little reward for the murder mystery."
-    u "Ouais, donc euh... Il a fait preuve de grande classe et m'a donné ces tickets de concert comme récompense pour le meurtre mystérieux."
+    u "Ouais, donc euh... Il a fait preuve de grande classe et m'a donné ces billets de concert comme récompense pour le meurtre mystérieux."
 
 # game/v13/scene7.rpy:344
 translate francais v13_ticket_transfer_cfcdc718:

@@ -10,7 +10,7 @@ translate francais v12_riley_lobby_c5b26616:
 translate francais v12_riley_lobby_c2c2be8d:
 
     # u "What are you talking about, Riley? What's going on?!"
-    u "De quoi tu parles, Riley ? Qu'est-ce qui se passe ? !"
+    u "De quoi tu parles, Riley ? Qu'est-ce qui se passe ?!"
 
 # game/v12/scene28.rpy:27
 translate francais v12_riley_lobby_8e006355:
@@ -22,13 +22,13 @@ translate francais v12_riley_lobby_8e006355:
 translate francais v12_riley_lobby_e5e94be2:
 
     # u "What?! No, no, no! I didn't, I haven't even been here. I just got back from getting a ta-"
-    u "Quoi ? ! Non, non, non ! Je n'ai pas, je je n'étais même pas dans le coin. Je reviens juste de faire un ta-"
+    u "Quoi ?! Non, non, non ! Je n'ai pas, je- je n'étais même pas dans le coin. Je reviens juste de chez le-"
 
 # game/v12/scene28.rpy:37
 translate francais v12_riley_lobby_efa0cbca:
 
     # ri "So I go my entire time in college without a problem and then coincidentally after I tell you about my picture, it's hanging up in the lobby? Sounds like bullshit!"
-    ri "Donc je passe toute ma période à la fac sans problème et ensuite, comme par hasard, après que je t'ai parlé de ma photo, elle est exposée dans le hall ? Quelle connerie !"
+    ri "Donc je passe toute ma période à la fac sans problème et ensuite et comme par hasard, juste après t'avoir parlé de ma photo, elle est exposée dans le hall ? Quelle coïncidence !"
 
 # game/v12/scene28.rpy:42
 translate francais v12_riley_lobby_acabee0f:
@@ -52,13 +52,13 @@ translate francais v12_riley_lobby_21bca63d:
 translate francais v12_riley_lobby_b1245867:
 
     # ri "It's common sense that you took it considering you're the only person who knows about it besides myself. I don't know why you would do this to me after I told you how I felt."
-    ri "C'est normal que ce soit toi qui l'ai prise, étant donné que tu es la seule personne à la connaître, à part moi. Je ne sais pas pourquoi tu me fais ça, après tout ce que je t'ai dit."
+    ri "C'est normal que ce soit toi qui l'ai prise, étant donné que tu es la seule personne à la connaître, à part moi. Je ne comprend pas pourquoi tu m'as fait ça, après tout ce que je t'ai dit."
 
 # game/v12/scene28.rpy:62
 translate francais v12_riley_lobby_af9f9ded:
 
     # ri "I literally told you I'd hate you if you ever showed it to anyone and you showed it to everyone, so just consider yourself hated."
-    ri "Je t'ai littéralement dit que je te détesterais si tu la montrais à quelqu'un et tu l'as pourtant exposée à tout le monde, alors dis-toi bien que je te déteste, maintenant."
+    ri "Je t'ai littéralement dit que je te détesterais si tu la montrais à quelqu'un et tu l'as pourtant exposée à tout le monde, alors dis-toi bien qu'à partir de maintenant, je te déteste."
 
 # game/v12/scene28.rpy:67
 translate francais v12_riley_lobby_1fcca647:
@@ -88,4 +88,4 @@ translate francais v12_riley_lobby_82d8373b:
 translate francais v12_riley_lobby_fe56a30b:
 
     # u "(Charli. That motherfucker. I wouldn't be surprised if it was him, but at the same time I'd be absolutely amazed.)"
-    u "(Charli. L'enfoiré. Je ne serais pas surpris si c'était lui qui avait fait ça, mais d'un autre côté, je serais vraiment sidéré.)"
+    u "(Charli ! L'enfoiré ! Je ne serais pas surpris si c'était lui qui avait fait ça, mais d'un autre côté, je serais vraiment sidéré qu'il ait été jusque là.)"
