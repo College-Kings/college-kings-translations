@@ -436,7 +436,7 @@ translate francais v11_carriage_ride_85f477bf:
 translate francais v11_carriage_ride_e352dd7f:
 
     # li "I want to take that belief and go deeper. I studied a bit with Ms. Rose, who come to find out, was also in a sorority during college, and she said they all had nicknames."
-    li "Je veux prendre cette tradition et aller plus loin. J'ai étudié un peu avec Mme Rose, qui, comme je l'ai découvert, était aussi dans une fraternité à l'université, et elle a dit qu'elles avaient toutes des surnoms."
+    li "Je veux prendre cette tradition et aller plus loin. J'ai étudié un peu avec Mme Rose, qui, comme je l'ai découvert, était aussi dans une sororité à l'université, et elle a dit qu'elles avaient toutes des surnoms."
 
 # game/v11/scene40.rpy:423
 translate francais v11_carriage_ride_cb2462a4:
@@ -574,7 +574,7 @@ translate francais v11_carriage_ride_2ad34e9a:
 translate francais v11_carriage_ride_c1f20e60:
 
     # cl "Don't be mad at me for being skeptical... Someone has to and it's my job to make sure our sorority is taken care of."
-    cl "Ne m'en voulez pas d'être aussi sceptique... Il faut bien que quelqu'un le fasse et c'est mon travail de m'assurer que notre fraternité soit bien prise en charge."
+    cl "Ne m'en voulez pas d'être aussi sceptique... Il faut bien que quelqu'un le fasse et c'est mon travail de m'assurer que notre sororité soit bien prise en charge."
 
 # game/v11/scene40.rpy:544
 translate francais v11_carriage_ride_b34648f2:
@@ -604,7 +604,7 @@ translate francais v11_carriage_ride_40dbebab:
 translate francais v11_carriage_ride_e5774828:
 
     # no "As president, you could've at least told her it was great that she tried to improve the sorority, before you completely rejected the idea..."
-    no "En tant que présidente, tu aurais pu au moins lui dire que c'était bien qu'elle essaie d'améliorer la fraternité, avant de rejeter catégoriquement son idée..."
+    no "En tant que présidente, tu aurais pu au moins lui dire que c'était bien qu'elle essaie d'améliorer la sororité, avant de rejeter catégoriquement son idée..."
 
 # game/v11/scene40.rpy:565
 translate francais v11_carriage_ride_313f5727:
@@ -688,7 +688,7 @@ translate francais v11_carriage_ride_8f80066b:
 translate francais v11_carriage_ride_399053f1:
 
     # cl "You're the reason we're stagnating, because I can't even think about leading a sorority if you constantly try to rally the girls against me and I have to spend my time fighting stupid accusations!"
-    cl "C'est à cause de toi que nous stagnons, parce que je ne peux même pas penser à diriger une fraternité si tu essayes constamment de rallier les filles contre moi et que je dois passer mon temps à combattre des accusations stupides !"
+    cl "C'est à cause de toi que nous stagnons, parce que je ne peux même pas penser à diriger une sororité si tu essayes constamment de rallier les filles contre moi et que je dois passer mon temps à combattre des accusations stupides !"
 
 # game/v11/scene40.rpy:632
 translate francais v11_carriage_ride_6b57d3ec:
@@ -700,7 +700,7 @@ translate francais v11_carriage_ride_6b57d3ec:
 translate francais v11_carriage_ride_a5d2e2c0:
 
     # no "Don't you fucking put this on me! Lindsey's literally right here in front of you trying to help you grow the sorority and you're blocking the sunlight for her."
-    no "Ne me mets pas ça sur le dos ! Lindsey est littéralement en face de toi, essayant de t'aider à développer la fraternité et tu lui fais de l'ombre sur tout."
+    no "Ne me mets pas ça sur le dos ! Lindsey est littéralement en face de toi, essayant de t'aider à développer la sororité et tu lui fais de l'ombre sur tout."
 
 # game/v11/scene40.rpy:642
 translate francais v11_carriage_ride_216a4bf6:
@@ -1085,7 +1085,7 @@ translate francais v11_carriage_ride_36d94347:
 translate francais v11_carriage_ride_e2e4683d:
 
     # no "As President, you could've at least told her it was great that she tried to improve the sorority, before you completely rejected the idea..."
-    no "En tant que Présidente, tu aurais pu au moins lui dire que c'était bien qu'elle essaie d'améliorer la fraternité, avant de rejeter complètement l'idée..."
+    no "En tant que Présidente, tu aurais pu au moins lui dire que c'était bien qu'elle essaie d'améliorer la sororité, avant de rejeter complètement l'idée..."
 
 # game/v11/scene40.rpy:600
 translate francais v11_carriage_ride_a23dab90:

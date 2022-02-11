@@ -202,13 +202,13 @@ translate francais v12_party_wake_up_2aa52f23:
 translate francais v12_party_wake_up_f9701b1c:
 
     # li "Sorry Chloe... But no. We have the ability to save this sorority and since you won't, I will!"
-    li "Désolée Chloé... Mais non. Nous avons la capacité de sauver cette fraternité et puisque tu refuse de le faire, JE le ferai !"
+    li "Désolée Chloé... Mais non. Nous avons la capacité de sauver cette sororité et puisque tu refuse de le faire, JE le ferai !"
 
 # game/v12/scene19.rpy:269
 translate francais v12_party_wake_up_fe5299f0:
 
     # cl "This is not going to help, Lindsey. If anything it's just going to divide the sorority."
-    cl "Cela ne va pas aider, Lindsey. Au contraire, ça va juste diviser la fraternité."
+    cl "Cela ne va pas aider, Lindsey. Au contraire, ça va juste diviser la sororité."
 
 # game/v12/scene19.rpy:274
 translate francais v12_party_wake_up_e15bd30d:

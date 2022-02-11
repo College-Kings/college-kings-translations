@@ -358,7 +358,7 @@ translate francais v12_chloe_cafe_17214426:
 translate francais v12_chloe_cafe_e8f40672:
 
     # cl "Well, that's what I've been thinking about. The worst thing she could be doing is getting girls to leave the sorority, and the least worst thing she could be doing is setting up some dumb prank."
-    cl "C'est ce à quoi j'ai pensé. La pire chose qu'elle puisse faire est de pousser les filles à quitter la fraternité, et la moins mauvaise serait d'organiser une farce idiote."
+    cl "C'est ce à quoi j'ai pensé. La pire chose qu'elle puisse faire est de pousser les filles à quitter la sororité, et la moins mauvaise serait d'organiser une farce idiote."
 
 # game/v12/scene14.rpy:371
 translate francais v12_chloe_cafe_fb5d5a75:
@@ -430,7 +430,7 @@ translate francais v12_chloe_cafe_e216da2e:
 translate francais v12_chloe_cafe_56a4105b:
 
     # u "Something about the Chicks needing major changes in order to save the sorority from it's downhill spiral... And again, don't quote me."
-    u "Quelque chose à propos des Chicks qui ont besoin de changements majeurs afin de sauver la fraternité de sa spirale descendante... Et encore une fois, ne dis pas que c'est moi qui te l'ai dit."
+    u "Quelque chose à propos des Chicks qui ont besoin de changements majeurs afin de sauver la sororité de sa spirale descendante... Et encore une fois, ne dis pas que c'est moi qui te l'ai dit."
 
 # game/v12/scene14.rpy:442
 translate francais v12_chloe_cafe_7cfa3e42:

@@ -166,7 +166,7 @@ translate francais starta_360e66fc:
 translate francais starta_2dac9d0e:
 
     # ju "You know, when I was in college, there were these fraternities and sororities that everyone wanted to join."
-    ju "Tu sais, quand j'étais à l'université, il y avait ces fraternités et confréries que tout le monde voulait rejoindre."
+    ju "Tu sais, quand j'étais à l'université, il y avait ces fraternités et sororités que tout le monde voulait rejoindre."
 
 # game/v1/v1.rpy:188
 translate francais starta_ed7737e5:
@@ -827,7 +827,7 @@ translate francais af_db_1cacebd1:
 translate francais af_db_e4477cef:
 
     # la "They're one of the two sororities at San Vallejo. My sister Autumn is their president, so I know most of them quite well."
-    la "C'est l'une des deux fraternités de San Vallejo. Ma sœur Autumn est leur présidente, donc je connais assez bien la plupart d'entre elles."
+    la "C'est l'une des deux sororités de San Vallejo. Ma sœur Autumn est leur présidente, donc je connais assez bien la plupart d'entre elles."
 
 # game/v1/v1.rpy:753
 translate francais af_db_5cc482d2:
@@ -5340,7 +5340,7 @@ translate francais ad_db_2534815f:
 translate francais af_db_086c04ba:
 
     # la "They're one of the two sororities at San Vallejo. My sister Autumn is their President, so I know most of them quite well."
-    la "C'est l'une des deux fraternités de San Vallejo. Ma soeur Autumn est leur présidente, donc je connais plutôt bien la plupart d'entre eux."
+    la "C'est l'une des deux sororités de San Vallejo. Ma soeur Autumn est leur présidente, donc je connais plutôt bien la plupart d'entre eux."
 
 # game/v1/v1.rpy:1546
 translate francais v1_phoneCheck2_2e6452c1:

@@ -184,7 +184,7 @@ translate francais v11_room_aubrey_shopping_65c47d25:
 translate francais v11_room_aubrey_shopping_cce8ad28:
 
     # u "Does it affect the sorority?"
-    u "Est-ce que ça affecte votre fraternité ?"
+    u "Est-ce que ça affecte votre sororité ?"
 
 # game/v11/scene7.rpy:207
 translate francais v11_room_aubrey_shopping_b6265759:

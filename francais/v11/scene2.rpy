@@ -112,7 +112,7 @@ translate francais v11_nora_chloe_hallway_e7c50e09:
 translate francais v11_nora_chloe_hallway_41cc61fa:
 
     # u "I really think you should try to work things out with her. I mean... you guys are sorority sisters, you're supposed to stick together..."
-    u "Je pense vraiment que tu devrais essayer d'arranger les choses avec elle. Vous êtes des sœurs de fraternité, vous êtes supposées rester unies..."
+    u "Je pense vraiment que tu devrais essayer d'arranger les choses avec elle. Vous êtes des sœurs de sororité, vous êtes supposées rester unies..."
 
 # game/v11/scene2.rpy:132
 translate francais v11_nora_chloe_hallway_39fb3809:

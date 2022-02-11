@@ -214,7 +214,7 @@ translate francais v11_chicks_house_b4f5b0a6:
 translate francais v11_chicks_house_b8fe2c04:
 
     # li "And if I lose the vote I'll just have a target on my back and divide the sorority even more."
-    li "Et si je perds le vote, j'aurai juste une cible dans le dos et je diviserai la fraternité encore plus."
+    li "Et si je perds le vote, j'aurai juste une cible dans le dos et je diviserai la sororité encore plus."
 
 # game/v11/scene8.rpy:212
 translate francais v11_chicks_house_ffab5778:

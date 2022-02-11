@@ -316,7 +316,7 @@ translate francais v13s41_7db0a42e:
 translate francais v13s41_9b35c644:
 
     # li "I'm saving my sorority and being a good friend."
-    li "Je sauve ma fraternité et je suis une bonne amie."
+    li "Je sauve ma sororité et je suis une bonne amie."
 
 # game/v13/scene41.rpy:331
 translate francais v13s41_b4b28890:
@@ -460,7 +460,7 @@ translate francais v13s41_2399f499:
 translate francais v13s41_cab9ad3c:
 
     # li "I've dug too deep at this point and I'm fully committed to saving the sorority."
-    li "J'ai creusé trop profond pour ça et je suis complètement engagée à sauver la fraternité."
+    li "J'ai creusé trop profond pour ça et je suis complètement engagée à sauver la sororité."
 
 # game/v13/scene41.rpy:470
 translate francais v13s41_ea6f02cf:

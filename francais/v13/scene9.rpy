@@ -172,7 +172,7 @@ translate francais v13s9_d97396e1:
 translate francais v13s9_471eb72f:
 
     # cl "Not in the history of our sorority, so one of two things must be true. Either I'm the worst president ever, or Lindsey is the most egotistical member we've had."
-    cl "Pas dans l'histoire de notre fraternité, donc l'une des deux choses suivantes est vraie. Soit je suis la pire présidente, soit Lindsey est la membre la plus égoïste qu'on ait eue."
+    cl "Pas dans l'histoire de notre sororité, donc l'une des deux choses suivantes est vraie. Soit je suis la pire présidente, soit Lindsey est la membre la plus égoïste qu'on ait eue."
 
 # game/v13/scene9.rpy:231
 translate francais v13s9_e944012e:
@@ -244,7 +244,7 @@ translate francais v13s9_10b7a9cf:
 translate francais v13s9_b94bb13c:
 
     # u "Of course I'll help. You obviously care about the girls, you've been running the sorority perfectly fine, and I'd hate for you to lose your scholarship."
-    u "Bien sûr que je vais t'aider. Il est évident que tu te soucies des filles, tu as très bien géré la fraternité et je ne voudrais pas que tu perdes ta bourse."
+    u "Bien sûr que je vais t'aider. Il est évident que tu te soucies des filles, tu as très bien géré la sororité et je ne voudrais pas que tu perdes ta bourse."
 
 # game/v13/scene9.rpy:298
 translate francais v13s9_574b59de:
@@ -717,4 +717,4 @@ translate francais v13s9_2a6cda45:
 translate francais v13s9_cc94c8f8:
 
     # cl "Not in the history of our sorority, so one of two things must be true. Either I'm the worst President ever, or Lindsey is the most egotistical member we've had."
-    cl "Pas depuis que notre fraternité existe, donc deux choses doivent être vraies. Soit je suis la pire présidente, soit Lindsey est la membre la plus égoïste qu'on ait eue."
+    cl "Pas depuis que notre sororité existe, donc deux choses doivent être vraies. Soit je suis la pire présidente, soit Lindsey est la membre la plus égoïste qu'on ait eue."

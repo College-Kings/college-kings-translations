@@ -1300,7 +1300,7 @@ translate francais v12s7_chloe1_76e4de5e:
 translate francais v12s7_chloe1_3e64dfda:
 
     # cl "Just in case you're listening Mr. Lee, my \"poor girl\" character has been having problems with her sorority back at home and just needed to vent..."
-    cl "Au cas où vous écouteriez Mr Lee, mon personnage de \"pauvre fille\" a eu des problèmes avec son association d'étudiantes à la maison et a juste eu besoin de se défouler..."
+    cl "Au cas où vous écouteriez Mr Lee, mon personnage de \"pauvre fille\" a eu des problèmes avec sa sororité à la maison et a juste eu besoin de se défouler..."
 
 # game/v12/scene7.rpy:1224
 translate francais v12s7_chloe1_12a7d733:

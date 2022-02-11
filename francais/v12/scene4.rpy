@@ -352,7 +352,7 @@ translate francais v12_roomate_talk_37a024e2:
 translate francais v12_roomate_talk_51180891:
 
     # ri "Oh, whatever. *Chuckles* I told Lindsey I was on the fence about joining a sorority because my family was against it, but that I've been really considering it lately."
-    ri "Oh, peu importe. *Rire* J'ai dit à Lindsey que j'hésitais à rejoindre une fraternité parce que ma famille était contre, mais que j'y pensais vraiment ces derniers temps."
+    ri "Oh, peu importe. *Rire* J'ai dit à Lindsey que j'hésitais à rejoindre une sororité parce que ma famille était contre, mais que j'y pensais vraiment ces derniers temps."
 
 # game/v12/scene4.rpy:390
 translate francais v12_roomate_talk_f5050366:

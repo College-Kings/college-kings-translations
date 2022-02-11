@@ -244,7 +244,7 @@ translate francais v13s48_92c918bb:
 translate francais v13s48_3baf6cd5:
 
     # u "How come you don't talk about yourself very often? Like, how you grew up... How you feel about all the drama going on in the sorority that you're the VP of... Etc."
-    u "Pourquoi tu ne parles pas souvent de toi ? Comme, comment tu as grandi... Comment tu te sens à propos du drame qui se passe dans la fraternité, dont tu es la vice-présidente... Etc."
+    u "Pourquoi tu ne parles pas souvent de toi ? Comme, comment tu as grandi... Comment tu te sens à propos du drame qui se passe dans la sororité, dont tu es la vice-présidente... Etc."
 
 # game/v13/scene48.rpy:283
 translate francais v13s48_2b40925f:

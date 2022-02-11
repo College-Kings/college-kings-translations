@@ -370,7 +370,7 @@ translate francais v13s12c_bcc4e457:
 translate francais v13s12c_b5d93291:
 
     # u "Lindsey clearly is passionate about making good improvements to the sorority and has a lot of support already..."
-    u "Lindsey est clairement animée par la volonté d'apporter de bonnes améliorations à la fraternité et elle a déjà beaucoup de soutien..."
+    u "Lindsey est clairement animée par la volonté d'apporter de bonnes améliorations à la sororité et elle a déjà beaucoup de soutien..."
 
 # game/v13/scene12c.rpy:364
 translate francais v13s12c_b8f60680:

@@ -1066,7 +1066,7 @@ translate francais v10s33_chloe2_060564f9:
 translate francais v10s33_chloe2_e25ce6c9:
 
     # u "Not to change subjects, but how's the sorority going? Any more troubles?"
-    u "Je ne veux pas changer de sujet, mais comment va la fraternité ? D'autres problèmes ?"
+    u "Je ne veux pas changer de sujet, mais comment va la sororité ? D'autres problèmes ?"
 
 # game/v10/scene33.rpy:1151
 translate francais v10s33_chloe2_bc17f195:
@@ -3346,7 +3346,7 @@ translate francais v10s33_nora1_f97a44dd:
 translate francais v10s33_nora1_3a143813:
 
     # u "How's sorority life?"
-    u "Comment est la vie de fraternité ?"
+    u "Comment est la vie de sororité ?"
 
 # game/v10/scene33.rpy:3462
 translate francais v10s33_nora1_20e5c933:
@@ -4138,7 +4138,7 @@ translate francais strings:
 
     # game/v10/scene33.rpy:3368
     old "Ask about sorority life"
-    new "Posez des questions sur la vie de fraternité."
+    new "Posez des questions sur la vie de sororité."
 
     # game/v10/scene33.rpy:3487
     old "What do you mean?"
