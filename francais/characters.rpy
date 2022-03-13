@@ -56,7 +56,7 @@ define character.clerk = Character("Employé", who_color="#5fc9f8", who_outlines
 define character.am = Character("Amber", who_color="#fc3158", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ], callback=relationship_callback, cb_character="amber")
 define character.ki = Character("Kim", who_color="#fc3d39", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
 define character.ad = Character("Adam", who_color="#fecb2e", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.co = Character("Counselor", who_color="#fecb2e", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
+define character.co = Character("Conseillère d'éducation", who_color="#fecb2e", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
 
 # 6.0
 define character.waiter = Character("Serveuse", who_color="#5fc9f8", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])

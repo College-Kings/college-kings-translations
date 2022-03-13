@@ -563,13 +563,13 @@ translate francais ad_db_8af8bf58:
 translate francais ad_db_b16a3a10:
 
     # ry "10 minutes late, sitting in the back row. Man, you'd make a perfect Ape."
-    ry "10 minutes de retard, assis au dernier rang. Mec, tu ferais un parfait Apes."
+    ry "10 minutes de retard, assis au dernier rang. Mec, tu ferais un parfait Ape."
 
 # game/v1/v1.rpy:530
 translate francais ad_db_c827eaef:
 
     # u "Ape? Are you calling me a chimpanzee?"
-    u "Apes ? Tu me prends pour un chimpanzé ?"
+    u "Ape ? Tu me prends pour un chimpanzé ?"
 
 # game/v1/v1.rpy:535
 translate francais ad_db_9f297b91:
@@ -641,7 +641,7 @@ translate francais ad_db_9fd9ed2a:
 translate francais ad_db_e72f3ba5:
 
     # ry "I can't wait to become an Ape and compete."
-    ry "J'ai hâte de devenir un Apes et de combattre."
+    ry "J'ai hâte de devenir un Ape et de combattre."
 
 # game/v1/v1.rpy:582
 translate francais ad_db_7bedb932:
@@ -3215,7 +3215,7 @@ translate francais aw_bd_835284b5:
 translate francais aw_bd_8207f0dd:
 
     # la "Right, but..."
-    la "Non, mais..."
+    la "Non jamais, mais..."
 
 # game/v1/v1.rpy:2702
 translate francais aw_bd_295985e0:
@@ -4217,7 +4217,7 @@ translate francais v1_freeRoam2_mason_dbb221ad:
 translate francais v1_freeRoam2_mason_580e2e2e:
 
     # u "(Fuck, why did I just say that?! I can't even fucking fight and that guy is a hyper-aggressive idiot that prides himself in his fighting skills.)"
-    u "(Putain, pourquoi je viens de dire ça ?! Je ne peux même pas me battre et ce gars est un idiot hyper-agressif qui se vante de ses talents au combat.)"
+    u "(Putain, pourquoi je viens de dire ça ?! Je ne sais même pas me battre et ce gars est un connard hyper-agressif qui se vante de ses talents au combat.)"
 
 # game/v1/v1.rpy:3553
 translate francais v1_freeRoam2_mason_91513681_1:

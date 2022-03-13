@@ -2847,7 +2847,7 @@ translate francais fy_bd_49041954:
 translate francais fy_bd_0d7a9cd9:
 
     # imre "Pledging period is starting soon, so you wanna at least know the basics."
-    imre "La période d'engagement commence bientôt, alors tu dois au moins connaître les bases."
+    imre "La période de recrutement commence bientôt, alors tu dois au moins connaître les bases."
 
 # game/v6/v6.rpy:3107
 translate francais fy_bd_17980f31:
@@ -2865,7 +2865,7 @@ translate francais fy_bd_f8f59d4f:
 translate francais fy_bd_79b183c4:
 
     # u "Yeah, it's exciting."
-    u "Ouais, c'est super."
+    u "Ouais, j'ai hâte."
 
 # game/v6/v6.rpy:3122
 translate francais fy_bd_0fcc3371:
@@ -4737,7 +4737,7 @@ translate francais wehere_0129843b:
 translate francais wehere_9779f5d9:
 
     # gr "The official pledging period starts on Wednesday, so I expect you at the Ape's house at 6 pm that day."
-    gr "La période officielle d'engagement commence mercredi, donc je t'attends à la maison des Apes à 18 heures ce jour-là."
+    gr "La période officielle de recrutement commence mercredi, donc je t'attends à la maison des Apes à 18 heures ce jour-là."
 
 # game/v6/v6.rpy:4941
 translate francais wehere_9ce3194b:

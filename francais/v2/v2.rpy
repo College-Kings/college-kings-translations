@@ -73,7 +73,7 @@ translate francais v2start_272f5aa4:
 translate francais v2start_48095016:
 
     # imre "What did you expect? I told you the Apes are dogshit."
-    imre "A quoi tu t'attendais ? J't'avais dit que les Apes étaient des connards."
+    imre "À quoi tu t'attendais ? J't'avais dit que les Apes étaient des connards."
 
 # game/v2/v2.rpy:137
 translate francais v2start_22ca126f:
@@ -523,7 +523,7 @@ translate francais meet_lauren2_688b87bc:
 translate francais meet_lauren2_3448fcd8:
 
     # la "About yesterday in the park..."
-    la "A propos de hier dans le parc..."
+    la "À propos de hier dans le parc..."
 
 # game/v2/v2.rpy:1184
 translate francais meet_lauren2_11273ae0:

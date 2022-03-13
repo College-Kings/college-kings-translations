@@ -3058,7 +3058,7 @@ translate francais dj_bd_74405208:
 translate francais dj_bd_fb18c3f4:
 
     # u "(I better not fuck this up.)"
-    u "((J'ai intérêt à ne pas tout foirer.)"
+    u "(J'ai intérêt à ne pas tout foirer.)"
 
 # game/v3/v3.rpy:3155
 translate francais dj_bd_4f1997c1:

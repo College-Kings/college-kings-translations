@@ -124,7 +124,7 @@ translate francais v5start_52c2a370:
 translate francais v5start_c9a8b304:
 
     # u "*Drunk* I should uhm... probably go home now, it's late."
-    u "*Ivre* Je devrais euh... probablement rentrer maintenant, il est tard."
+    u "*Ivre* Je devrais euh... rentrer maintenant, il est tard."
 
 # game/v5/v5.rpy:157
 translate francais v5start_a132ad83:
@@ -238,7 +238,7 @@ translate francais jorepb_11aed362:
 translate francais jorepb_e1e72d62:
 
     # cl "What?? [name], I'm not, that's absurd..."
-    cl "Quoi?? [name], Je ne suis pas... c'est absurde..."
+    cl "Quoi ?? [name], Je ne suis pas... c'est absurde..."
 
 # game/v5/v5.rpy:283
 translate francais jorepb_d4482fd2:
@@ -388,7 +388,7 @@ translate francais jorepb_07eb5d33:
 translate francais jorepb_59dbc30c:
 
     # cl "Because if I was using you, I would probably try to seduce you back into trusting me right now."
-    cl "Parce que si je \"t'utilisais\", j'essaierais probablement de te séduire pour que tu me fasses confiance maintenant."
+    cl "Parce que si je \"t'utilisais\", j'essaierais sûrement de te séduire pour que tu me fasses confiance maintenant."
 
 # game/v5/v5.rpy:414
 translate francais jorepb_1619571b:
@@ -562,7 +562,7 @@ translate francais jorepb_ad12e9fe:
 translate francais jorepb_7ead0570:
 
     # u "I should uhm... probably go home now, it's late."
-    u "Je devrais euh... probablement rentrer maintenant, il est tard."
+    u "Je devrais euh... rentrer maintenant, il est tard."
 
 # game/v5/v5.rpy:553
 translate francais jorepb_a132ad83:
@@ -640,7 +640,7 @@ translate francais newchloec_e18add73:
 translate francais phonex_fa9e2e90:
 
     # u "(I should probably reply to some of them.)"
-    u "(Je devrais probablement répondre à certains d'entre eux.)"
+    u "(Je devrais répondre à certains d'entre eux.)"
 
 # game/v5/v5.rpy:674
 translate francais phonex_8820f8c7:
@@ -1660,7 +1660,7 @@ translate francais continueaf_b7eacca2:
 translate francais continueaf_f1d94258:
 
     # u "(I should probably pick up Riley so that we can go and get Imre)"
-    u "(Je devrais probablement aller chercher Riley pour qu'on puisse aller chercher Imre.)"
+    u "(Je devrais aller chercher Riley pour qu'on puisse aller chercher Imre.)"
 
 # game/v5/v5.rpy:1717
 translate francais continueaf_d49c0157:
@@ -1684,7 +1684,7 @@ translate francais continueaf_b7eacca2_1:
 translate francais continueaf_f1d94258_1:
 
     # u "(I should probably pick up Riley so that we can go and get Imre)"
-    u "(Je devrais probablement aller chercher Riley pour aller chercher Imre)"
+    u "(Je devrais aller chercher Riley pour aller chercher Imre)"
 
 # game/v5/v5.rpy:1729
 translate francais continueaf_520b64da:
@@ -1714,7 +1714,7 @@ translate francais continueaf_746deadc:
 translate francais continueaf_a5618dc4:
 
     # u "(It's probably time to go pick up Imre with Riley anyways.)"
-    u "(Il est probablement temps d'aller chercher Imre avec Riley de toute façon.)"
+    u "(Il est temps d'aller chercher Imre avec Riley de toute façon.)"
 
 # game/v5/v5.rpy:1752
 translate francais apo_c216004a:
@@ -2578,7 +2578,7 @@ translate francais hospitala_ed3d4204:
 translate francais hospitala_119cde44:
 
     # u "Look, I get that you want revenge, but you literally just got out of the hospital... if he hits you in the wrong spot that could kill you!"
-    u "Ecoute, je comprends que tu veuilles te venger, mais tu viens littéralement de sortir de l'hôpital... s'il te frappe au mauvais endroit, ça pourrait te tuer !"
+    u "Écoute, je comprends que tu veuilles te venger, mais tu viens littéralement de sortir de l'hôpital... s'il te frappe au mauvais endroit, ça pourrait te tuer !"
 
 # game/v5/v5.rpy:2551
 translate francais hospitala_b5a887e7:
@@ -2758,7 +2758,7 @@ translate francais fj_b_6139557a:
 translate francais fj_b_31946e3b:
 
     # u "You find him and apologize or I'll tell the fucking school and you'll get kicked out and maybe even assault charges thrown your way."
-    u "Tu le trouves et tu t'excuses ou je le dis à cette putain d'école, tu seras viré et peut-être même accusé d'agression physique."
+    u "Tu le trouves et tu t'excuses ou je le dis à la putain de conseillère, tu seras viré et peut-être même accusé d'agression physique."
 
 # game/v5/v5.rpy:2784
 translate francais fj_b_a84364ef:
@@ -2782,7 +2782,7 @@ translate francais fj_b_9d73ea27:
 translate francais fj_b_92f0993b:
 
     # u "(Great, if I tell the school about this, Imre will be pissed at me and Adam will try to fucking kill me, but if I don't, Imre is gonna get himself killed trying to get revenge.)"
-    u "(Génial, si j'en parle à la doyenne, Imre sera en colère contre moi et Adam essaiera de me tuer, mais si je ne le fais pas, Imre va se faire tuer en essayant de se venger.)"
+    u "(Génial, si j'en parle à la conseillère, Imre sera en colère contre moi et Adam essaiera de me tuer, mais si je ne le fais pas, Imre va se faire tuer en essayant de se venger.)"
 
 # game/v5/v5.rpy:2817
 translate francais fj_b_6f8ae513:
@@ -2794,13 +2794,13 @@ translate francais fj_b_6f8ae513:
 translate francais fj_b_0f5a6937:
 
     # u "(Maybe I should tell the school, but Imre would be super pissed and Adam might try and kill me for it.)"
-    u "(Peut-être que je devrais le dire à la doyenne, mais Imre sera super énervé et Adam pourrait essayer de me tuer pour ça.)"
+    u "(Peut-être que je devrais le dire à la conseillère, mais Imre sera super énervé et Adam pourrait essayer de me tuer pour ça.)"
 
 # game/v5/v5.rpy:2819
 translate francais fj_b_1898af7b:
 
     # u "(On the other hand, if I don't tell the school Imre might actually get himself killed trying to get revenge.)"
-    u "(Peut-être que je devrais le dire à la doyenne, mais Imre sera super énervé et Adam pourrait essayer de me tuer pour ça.)"
+    u "(Peut-être que je devrais le dire à la conseillère, mais Imre sera super énervé et Adam pourrait essayer de me tuer pour ça.)"
 
 # game/v5/v5.rpy:2850
 translate francais fk_a_fb0e787e:
@@ -2812,7 +2812,7 @@ translate francais fk_a_fb0e787e:
 translate francais fl_b_187df52d:
 
     # u "(It's best if I keep to myself. Telling the school would turn both Imre and Adam against me...)"
-    u "(C'est mieux si je le garde pour moi. Mais le dire à la doyenne tournerait Imre et Adam contre moi...)"
+    u "(C'est mieux si je le garde pour moi. Mais le dire à la conseillère tournerait Imre et Adam contre moi...)"
 
 # game/v5/v5.rpy:3571
 translate francais fl_b_dadac323:
@@ -2824,7 +2824,7 @@ translate francais fl_b_dadac323:
 translate francais fl_a_85fd8679:
 
     # u "(I need to tell the school, it's the only way to sort this out.)"
-    u "(Je dois le dire à la doyenne, c'est le seul moyen de régler ça.)"
+    u "(Je dois le dire à la conseillère, c'est le seul moyen de régler ça.)"
 
 # game/v5/v5.rpy:3594
 translate francais fl_a_835394e7:
@@ -2854,7 +2854,7 @@ translate francais fl_a_91a955ae:
 translate francais fl_a_756e4076:
 
     # u "A close friend of mine got jumped by this guy. He got beat up pretty bad, broken ribs and all."
-    u "Un de mes amis proches a été attaqué par ce type. Il a été salement amoché, côtes cassées et tout."
+    u "Un de mes amis proches a été attaqué par un type. Il a été salement amoché, côtes cassées et tout."
 
 # game/v5/v5.rpy:3619
 translate francais fl_a_dd183bed:
@@ -2890,7 +2890,7 @@ translate francais fl_a_0f22eb8d:
 translate francais fl_a_2e77fe64:
 
     # co "And do you happen to know the name of the other person involved? Assault is a serious crime."
-    co "Et connaissez-vous le nom de l'autre personne impliquée ? L'agression est un crime grave."
+    co "Et connaissez-vous le nom de l'autre personne impliquée ? Une agression est un crime grave."
 
 # game/v5/v5.rpy:3646
 translate francais fl_a_31cbcb9b:
@@ -2974,7 +2974,7 @@ translate francais fl_a_5c228c03:
 translate francais fl_a_6cffc58c:
 
     # u "(I need to find Imre.)"
-    u "(I need to find Imre.)"
+    u "(Je dois trouver Imre.)"
 
 # game/v5/v5.rpy:3715
 translate francais youfinishadam_980835b0:
@@ -3214,7 +3214,7 @@ translate francais adamfinish_6e3d920f:
 translate francais adamfinish_d91d3c87:
 
     # ch "Look, people like Adam... they don't stop. At some point he'll find you by yourself and he'll try to fuck you up even more."
-    ch "Ecoute, les gens comme Adam... ils ne s'arrêtent pas là. A un moment donné, il te trouvera tout seul et il essaiera de te bousiller encore plus."
+    ch "Écoute, les gens comme Adam... ils ne s'arrêtent pas là. A un moment donné, il te trouvera tout seul et il essaiera de te bousiller encore plus."
 
 # game/v5/v5.rpy:3943
 translate francais adamfinish_39689522:
@@ -3514,7 +3514,7 @@ translate francais findimre_bc47b8ad:
 translate francais findimre_6e981df1:
 
     # u "I told the school about what happened. They're gonna take care of it."
-    u "J'ai raconté à l'école ce qui s'était passé. Ils vont s'en occuper."
+    u "J'ai raconté à la conseillère ce qui s'était passé. Ils vont s'en occuper."
 
 # game/v5/v5.rpy:4171
 translate francais findimre_b54a0b35_1:
@@ -3532,7 +3532,7 @@ translate francais findimre_fc06e59c:
 translate francais findimre_b9a51817:
 
     # imre "I told you to stay out of it! Now if I touch him the school will kick both of us out!"
-    imre "Je t'ai dit de rester en dehors de ça ! Maintenant, si j'le touche, l'école nous expulsera tous les deux !"
+    imre "Je t'ai dit de rester en dehors de ça ! Maintenant, si j'le touche, la conseillère nous expulsera tous les deux !"
 
 # game/v5/v5.rpy:4186
 translate francais findimre_1dc58521_1:
@@ -3562,7 +3562,7 @@ translate francais findimre_1cd2fc7c_1:
 translate francais findimre_f617ca71_1:
 
     # u "Fuck!"
-    u "Putain !"
+    u "Merde !"
 
 # game/v5/v5.rpy:4206
 translate francais findimre_100b0d2f_3:
@@ -3670,7 +3670,7 @@ translate francais continueba_af6f658d:
 translate francais continueba_4ee172ff:
 
     # u "(I need to go and talk to him again. He's probably in our dorm.)"
-    u "(Je dois aller lui parler à nouveau. Il est probablement dans notre dortoir.)"
+    u "(Je dois aller lui parler à nouveau. Il est sûrement dans notre dortoir.)"
 
 # game/v5/v5.rpy:4288
 translate francais continueba_0a2a60e5:
@@ -3944,11 +3944,11 @@ translate francais strings:
 
     # game/v5/v5.rpy:2766
     old "Threaten to tell school"
-    new "Menacer de dire à la doyenne"
+    new "Menacer de dire à la conseillère"
 
     # game/v5/v5.rpy:2797
     old "Tell the school"
-    new "Le dire à la doyenne"
+    new "Le dire à la conseillère"
 
     # game/v5/v5.rpy:2797
     old "Keep it to yourself"

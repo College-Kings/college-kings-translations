@@ -581,4 +581,17 @@ translate francais v12_jc_continue_f17359e0:
 translate francais v12_jc_chloe_b68d058c:
 
     # ju "Chloe is the we one got the volleyball at the shopping for, right?"
-    ju "Chloé est celle qui a acheté le ballon de volley pendant le shopping, non ?"
+    ju "Chloé est celle a qui tu as acheté le ballon de volley pendant notre sortie shopping, non ?"
+# TODO: Translation updated at 2022-03-13 01:49
+
+# game/v12/scene25.rpy:188
+translate francais v12_jc_chloe_7d80394e:
+
+    # u "I guess Chloe, her and I have gotten a lot closer."
+    u "Chloé, je crois, elle et moi sommes devenus beaucoup plus proches."
+
+# game/v12/scene25.rpy:191
+translate francais v12_jc_chloe_c044c49a:
+
+    # u "We even test drove a luxury car together."
+    u "Nous avons même essayé une voiture de luxe ensemble."

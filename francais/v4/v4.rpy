@@ -724,7 +724,7 @@ translate francais juchloe_2a10e18a:
 translate francais juchloe_44ad88e2:
 
     # u "Just my friend said some bad stuff about her and I don't know what to believe."
-    u "Juste un ami a dit du mal d'elle et je ne sais pas qui croire."
+    u "C'est juste qu'un ami a dit du mal d'elle et je ne sais pas qui croire."
 
 # game/v4/v4.rpy:693
 translate francais juchloe_2e2a98ec:
@@ -1540,7 +1540,7 @@ translate francais autumnsita_f86d900a:
 translate francais readmontagea_a8f37fc4:
 
     # u "(Alright... time to dig in.)"
-    u "(Bon... il est temps de creuser.)"
+    u "(Bon... il est temps de se creuser la cervelle.)"
 
 # game/v4/v4.rpy:1468
 translate francais readmontagea_57b5975e:
@@ -2308,7 +2308,7 @@ translate francais phonew_e11dc486:
 translate francais phonew_fc1c9a82:
 
     # u "(Okay, I need to make sure that I don't forget about meeting Chloe.)"
-    u "(D'accord, je dois m'assurer que je n'oublie pas de voir Chloé.)"
+    u "(Ouais, je ne dois pas oublier d'aller voir Chloé, après.)"
 
 # game/v4/v4.rpy:2212
 translate francais jorepa_173454a6:
@@ -3010,11 +3010,11 @@ translate francais strings:
 
     # game/v4/v4.rpy:5
     old "Dope"
-    new "Dopé"
+    new "Cool"
 
     # game/v4/v4.rpy:6
     old "Come by 995 Sereno Drive at 8, it's my friends house."
-    new "Viens au 995 Sereno Drive à 20h, c'est la maison de mes amis."
+    new "Viens au 995 Sereno Drive à 20h, c'est la maison de mes amies."
 
     # game/v4/v4.rpy:9
     old "Aww, come on. You'll be back by 11."

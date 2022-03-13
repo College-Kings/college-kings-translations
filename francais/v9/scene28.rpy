@@ -306,3 +306,16 @@ translate francais v9_call_w_lindsey_4326837d:
 
     # li "This fight could be major for you. Think you'll come out on top?"
     li "Ce combat pourrait être important pour toi. Tu crois que tu vas gagner ?"
+# TODO: Translation updated at 2022-03-13 01:49
+
+# game/v9/scene28.rpy:88
+translate francais v9_call_w_lindsey_f4c98495:
+
+    # u "So are you calling all the fighters tonight or just me?"
+    u "Alors, tu appelles tous les combattants ce soir ou juste moi ?"
+
+# game/v9/scene28.rpy:215
+translate francais v9_call_w_lindsey_f4c98495_1:
+
+    # u "So are you calling all the fighters tonight or just me?"
+    u "Alors, tu appelles tous les combattants ce soir ou juste moi ?"
