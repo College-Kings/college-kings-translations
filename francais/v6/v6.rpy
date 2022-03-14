@@ -6807,7 +6807,7 @@ translate francais readywolf_59133e5c:
 translate francais readywolf_a894d7a7:
 
     # imre "Sup man? You already working something?"
-    imre "Comment ça va, mec ? Tu travailles déjà sur quelque chose ?"
+    imre "Comment ça va, mec ? T'es déjà sur un plan ?"
 
 # game/v6/v6.rpy:6921
 translate francais readywolf_8c4a7356:
@@ -7119,7 +7119,7 @@ translate francais v6_fr3guy1_04aa3d88:
 translate francais v6_fr3guy1_aef53e37:
 
     # guyb "How could you say that? Kylie is definitely the hottest of them all."
-    guyb "Comment peux tu dire ça? Kylie est certainement la plus sexy de toutes."
+    guyb "Comment peux-tu dire ça ? Kylie est certainement la plus sexy de toutes."
 
 # game/v6/v6.rpy:7219
 translate francais v6_fr3guy1_6e071574:
@@ -7269,7 +7269,7 @@ translate francais v6_fr3guy1_c259c9d9:
 translate francais v6_fr3guy1_5f222853:
 
     # u "Haha, I feel like natural also looks better naked."
-    u "Haha, j'ai l'impression que le naturel est aussi plus beau nu."
+    u "Haha, je trouve que le naturel est aussi plus beau nu."
 
 # game/v6/v6.rpy:7347
 translate francais v6_fr3guy1_69bebd9e:
@@ -8535,13 +8535,13 @@ translate francais v6_fr3riley1_fa86fd00:
 translate francais v6_fr3riley1_9c8c4237:
 
     # finn "Tough getting in, but once you're in, it's the best place to be."
-    finn "C'est dur d'y entrer, mais une fois qu'on y est, c'est le meilleur endroit où être."
+    finn "C'est dur d'y entrer, mais une fois qu'on y est, c'est le meilleur endroit qui soit."
 
 # game/v6/v6.rpy:8432
 translate francais v6_fr3riley1_f86c1421:
 
     # u "Yeah, seems like what everyone is saying around here. You know Imre?"
-    u "Oui, ça semble être ce que tout le monde dit ici. Tu connais Imre ?"
+    u "Ouais, ça semble être l'avis de tout le monde, ici. Tu connais Imre ?"
 
 # game/v6/v6.rpy:8437
 translate francais v6_fr3riley1_c7426136:
@@ -11479,7 +11479,7 @@ translate francais strings:
 
     # game/v6/v6.rpy:5448
     old "Which gym do you go to? Maybe we can go together at some point"
-    new "Dans quelle salle de sport vas-tu ? Peut-être que nous pourrons aller ensemble un de ces jours"
+    new "Dans quelle salle de sport vas-tu ? Peut-être que nous pourrions y aller ensemble un de ces jours"
 
     # game/v6/v6.rpy:5449
     old "Sports X and you?"

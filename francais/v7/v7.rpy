@@ -3832,19 +3832,19 @@ translate francais pledgewolves_15957c32:
 translate francais pledgewolves_0d18144d:
 
     # ch "To be a Wolf you need to be hardworking{w}, persistent{w}, determined."
-    ch "Pour être un Wolf, il faut être travailleur{w}, persévérant{w}, déterminé{w}."
+    ch "Pour être un Wolf, il faut être travailleur,{w} persévérant,{w} déterminé."
 
 # game/v7/v7.rpy:3663
 translate francais pledgewolves_1597a077:
 
     # ch "You need to be deliberate with your actions{w}, confident{w}, dedicated{w}, motivated, and-"
-    ch "Vous devez être déterminés dans vos actions{w}, confiants{w}, dévoués{w}, motivés{w} et-"
+    ch "Vous devez être déterminés dans vos actions,{w} confiants,{w} dévoués,{w} motivés{w} et-"
 
 # game/v7/v7.rpy:3667
 translate francais pledgewolves_0a0fa4ed:
 
     # ch "And fearless!"
-    ch "Et sans{w} peur{w} !"
+    ch "Et sans{w} peur !"
 
 # game/v7/v7.rpy:3674
 translate francais pledgewolves_bcfdedd9:
@@ -3856,7 +3856,7 @@ translate francais pledgewolves_bcfdedd9:
 translate francais pledgewolves_bcbdc24a:
 
     # ch "But on top of those qualities we need guys who we can trust{w}, guys who are honest and always look out for each other."
-    ch "Mais en plus de ces qualités, nous avons besoin de gars en qui nous pouvons avoir confiance{w}, des gars qui sont honnêtes{w} et qui veillent{w} toujours les uns sur les autres."
+    ch "Mais en plus de ces qualités, nous avons besoin de gars en qui nous pouvons avoir confiance,{w} des gars qui sont honnêtes{w} et qui veillent{w} toujours les uns sur les autres."
 
 # game/v7/v7.rpy:3679
 translate francais pledgewolves_3e133ee9:
@@ -3874,7 +3874,7 @@ translate francais pledgewolves_fd126e58:
 translate francais pledgewolves_ae47917c:
 
     # ch "...I need winners.{w} Being a winner doesn't mean you always have to win."
-    ch "... J'ai besoin de gagnants{w}. Être un gagnant ne signifie pas que vous devez toujours gagner."
+    ch "... J'ai besoin de gagnants.{w} Être un gagnant ne signifie pas que vous devez toujours gagner."
 
 # game/v7/v7.rpy:3685
 translate francais pledgewolves_1650ae2f:
@@ -3898,7 +3898,7 @@ translate francais pledgewolves_ac36d206:
 translate francais pledgewolves_32ea443d:
 
     # ch "Pledging to the Wolves happens today, and only today. It's one night, filled with challenges.{w} Challenges that test you as a person."
-    ch "L'engagement envers les Wolves se produit aujourd'hui, et seulement aujourd'hui. C'est une nuit remplie de défis{w}. Des défis qui vous mettent à l'épreuve en tant que personne."
+    ch "L'engagement envers les Wolves se produit aujourd'hui, et seulement aujourd'hui. C'est une nuit remplie de défis.{w} Des défis qui vous mettent à l'épreuve en tant que personne."
 
 # game/v7/v7.rpy:3698
 translate francais pledgewolves_88d50183:
@@ -3946,12 +3946,12 @@ translate francais pledgewolves_acae5b7b:
 translate francais pledgewolves_837b1d46:
 
     # ch "Determination.{w} For this challenge you'll have to prove that you will do whatever it takes to become a Wolf. Each of you will be in a separate room."
-    ch "Détermination{w}. Pour ce défi, vous devrez prouver que vous êtes prêts à tout pour devenir un Wolf. Chacun de vous sera dans une pièce séparée."
+    ch "Détermination.{w} Pour ce défi, vous devrez prouver que vous êtes prêts à tout pour devenir un Wolf. Chacun de vous sera dans une pièce séparée."
 
 # game/v7/v7.rpy:3719
 translate francais pledgewolves_d074c59c:
     # ch "You will be given tasks to test how much you really want to be a Wolf{w}, how far you're willing to go{w}, and what you're willing to give up."
-    ch "Des tâches vous seront confiées pour tester votre volonté réelle d'être un Wolf{w}, jusqu'où vous êtes prêt à aller{w} et ce que vous êtes prêt à abandonner{w}."
+    ch "Des tâches vous seront confiées pour tester votre volonté réelle d'être un Wolf,{w} jusqu'où vous êtes prêt à aller{w} et ce que vous êtes prêt à abandonner."
 
 # game/v7/v7.rpy:3720
 translate francais pledgewolves_7fcdf632:
@@ -4107,7 +4107,7 @@ translate francais pledgewolves_8365aa77:
 translate francais pledgewolves_e1465ddf:
 
     # ch "For now, let's move on to the actual determination challenge."
-    ch "Maintenant, passons au défi de la détermination{w}."
+    ch "Maintenant,{w} passons au défi de la détermination."
 
 # game/v7/v7.rpy:3836
 translate francais pledgewolves_e6f2b00a:
@@ -4125,7 +4125,7 @@ translate francais pledgewolves_e576fa2e:
 translate francais pledgewolves_d14f47b4:
 
     # ch "The task is simple.{w} All of you will get into a tub filled with freezing cold ice water. The last one to leave wins."
-    ch "La tâche est simple{w}. Vous entrerez tous dans une baignoire remplie d'eau glacée. Le dernier à en sortir gagne."
+    ch "La tâche est simple.{w} Vous entrerez tous dans une baignoire remplie d'eau glacée. Le dernier à en sortir gagne."
 
 # game/v7/v7.rpy:3845
 translate francais pledgewolves_5062c62f:
@@ -4149,7 +4149,7 @@ translate francais pledgewolves_9c0e9d26:
 translate francais pledgewolves_c82b3dcc:
 
     # ch "Remember, the last one in is the winner."
-    ch "N'oubliez pas que le dernier est le gagnant."
+    ch "N'oubliez pas que le dernier à sortir est le gagnant."
 
 # game/v7/v7.rpy:3867
 translate francais pledgewolves_8183f6a9:
@@ -4209,7 +4209,7 @@ translate francais pledgewolves_1524a5ae:
 translate francais pledgewolves_91359905:
 
     # aa "Yo [name]... Why is Chloe calling you ? *Laughs*"
-    aa "Yo [name]... Pourquoi est-ce que Chloé t'appelle ? *Rire*"
+    aa "Yo [name]...{w} Pourquoi est-ce que Chloé t'appelle ? *Rire*"
 
 # game/v7/v7.rpy:3910
 translate francais pledgewolves_d0b58b98:
@@ -4221,7 +4221,7 @@ translate francais pledgewolves_d0b58b98:
 translate francais pledgewolves_abf3d3c3:
 
     # u "(This could be important. But if I leave, I'll lose the challenge.)"
-    u "(Cela pourrait être important. Mais si je sors, je perdrais le défi.)"
+    u "(Ça pourrait être important. Mais si je sors, je perdrais le défi.)"
 
 # game/v7/v7.rpy:3921
 translate francais pledgewolves_e0b624e5:
@@ -4401,7 +4401,7 @@ translate francais chloe_call_5ca3c184:
 translate francais aftercall_edc6ada0:
 
     # ch "Honesty. Honesty is a key pillar to being a Wolf."
-    ch "Honnêteté{w}. L'honnêteté est un pilier essentiel pour être un Wolf."
+    ch "Honnêteté.{w} L'honnêteté est un pilier essentiel pour être un Wolf."
 
 # game/v7/v7.rpy:4058
 translate francais aftercall_dbf858ca:
@@ -4623,7 +4623,7 @@ translate francais aftercall_473e0a54:
 translate francais aftercall_5aa8c826:
 
     # imre "T-true.{w} But those times are behind me. I was a kid then."
-    imre "V-vrai{w}. Mais ces temps sont révolus. J'étais un gamin à l'époque."
+    imre "V-vrai.{w} Mais ces temps sont révolus. J'étais un gamin à l'époque."
 
 # game/v7/v7.rpy:4171
 translate francais aftercall_a26dcca2:
@@ -4671,7 +4671,7 @@ translate francais aftercall_79e8eecf:
 translate francais aftercall_7654cf6d:
 
     # u "I didn't. False."
-    u "Je ne l'ai pas trompé. Faux{w}."
+    u "Je ne l'ai pas trompé.{w} Faux."
 
 # game/v7/v7.rpy:4210
 translate francais aftercall_c2c6dcaf:
@@ -4707,7 +4707,7 @@ translate francais aftercall_79e8eecf_1:
 translate francais aftercall_7654cf6d_1:
 
     # u "I didn't. False."
-    u "Si je me suis battu. Faux{w}."
+    u "Si je me suis battu.{w} Faux."
 
 # game/v7/v7.rpy:4240
 translate francais aftercall_c2c6dcaf_1:
@@ -5487,7 +5487,7 @@ translate francais pledgeapes_618661cf:
 translate francais pledgeapes_13df1cd7:
 
     # gr "I'm just fuckin' with you.{w} To be an Ape means you gotta be fearless..."
-    gr "Je me fous de votre gueule{w}. Être un Ape signifie que vous devez être sans peur ..."
+    gr "Je me fous de votre gueule.{w} Être un Ape signifie que vous devez être sans peur ..."
 
 # game/v7/v7.rpy:4886
 translate francais pledgeapes_e31a9125:
@@ -5721,7 +5721,7 @@ translate francais pledgeapes_ef2f1671:
 translate francais pledgeapes_70ed8678:
 
     # ca "Right here{w}, right now.{w} In the hexagon."
-    ca "Ici{w}, maintenant{w}, Dans l'hexagone."
+    ca "Ici,{w} maintenant,{w} Dans l'hexagone."
 
 # game/v7/v7.rpy:5027
 translate francais pledgeapes_93b929f3:
@@ -5733,7 +5733,7 @@ translate francais pledgeapes_93b929f3:
 translate francais pledgeapes_591af439:
 
     # ca "What? You a bitch?{w} Too afraid?"
-    ca "Quoi ? T'es une pute{w} ? Trop peur{w} ?"
+    ca "Quoi ?{w} T'es une pute ?{w} Trop peur ?"
 
 # game/v7/v7.rpy:5035
 translate francais pledgeapes_08c0c832:
@@ -5961,7 +5961,7 @@ translate francais ep7_cam_picture_eb19ef80:
 translate francais ep7_cam_picture_226bdbf0:
 
     # par "She had a twin!!{w} Identical!{w} If you were drunk you could've made the mistake too.{w} I blame her sister. She should've said no."
-    par "Elle avait une jumelle{w} !! Identique{w} ! Si tu étais ivre, tu pourrais faire l'erreur aussi.{w} Je blâme sa sœur. Elle aurait dû dire non."
+    par "Elle avait une jumelle !!{w} Identique !{w} Si tu étais ivre, tu pourrais faire l'erreur aussi.{w} Je blâme sa sœur.{w} Elle aurait dû dire non."
 
 # game/v7/v7.rpy:5211
 translate francais ep7_cam_picture_243a9c6f:
@@ -5997,7 +5997,7 @@ translate francais ep7_cam_picture_bdbbfa70:
 translate francais ep7_cam_picture_fdac34a5:
 
     # gr "Here.{w} This is Cameron's little sister's number. She goes to uni here."
-    gr "Ça{w}. C'est le numéro de la petite soeur de Cameron. Elle va à l'université ici."
+    gr "Ça.{w} C'est le numéro de la petite soeur de Cameron. Elle va à l'université ici."
 
 # game/v7/v7.rpy:5236
 translate francais ep7_cam_picture_19fc5d7e:
@@ -6597,7 +6597,7 @@ translate francais ep7_before_history_de53553c:
 translate francais ep7_before_history_4599f75b:
 
     # u "Oh.. uhm...{w} I totally blanked. Got deep in an essay and by the time I saw the clock, it was two hours too late."
-    u "Oh .. euh ...{w} J'ai complètement oublié. J'étais plongé dans une rédaction et quand j'ai vu l'horloge, l'heure était passée."
+    u "Oh...{w} euh ...{w} J'ai complètement oublié.{w} J'étais plongé dans une rédaction et quand j'ai vu l'horloge, l'heure était passée."
 
 # game/v7/v7.rpy:5742
 translate francais ep7_before_history_6df9bcce:
@@ -6891,7 +6891,7 @@ translate francais history_class_c3fd5f8d:
 translate francais history_class_3b0f81ee:
 
     # lee "...vikings didn't have horns on their helmets."
-    lee "... que les vikings n'avaient pas de cornes sur leurs casques."
+    lee "...que les vikings n'avaient pas de cornes sur leurs casques."
 
 # game/v7/v7.rpy:5953
 translate francais history_class_339bc645:
@@ -7041,7 +7041,7 @@ translate francais history_class_c432c274:
 translate francais history_class_38968d9a:
 
     # lee "Elvis might have made history with his work, but he is considered a musical legend, not a historical figure."
-    lee "Elvis a peut-être marqué l'histoire avec son travail, mais il est considéré comme une légende musicale, pas un personnage historique."
+    lee "Elvis a peut-être marqué l'histoire avec son travail, mais il est considéré comme une légende musicale,{w} pas un personnage historique."
 
 # game/v7/v7.rpy:6069
 translate francais history_class_04f45a28:
@@ -7557,7 +7557,7 @@ translate francais lee_pants_fail_9884e06d:
 translate francais lee_pants_fail_912cd5e1:
 
     # u "Uhh... no.{w} I just thought I forgot something here."
-    u "Euh... non.{w} Je pensais juste avoir oublié quelque chose ici."
+    u "Euh...{w} non.{w} Je pensais juste avoir oublié quelque chose ici."
 
 # game/v7/v7.rpy:6525
 translate francais lee_pants_fail_20724c0c:
@@ -8823,7 +8823,7 @@ translate francais cam_phone_1ac32178:
 translate francais cam_phone_fcabe840:
 
     # ca "Yeah....{w} What do you mean?{w} My little sister? Where?"
-    ca "Ouais....{w} Qu'est-ce que tu veux dire ?{w} Ma petite sœur ? Où ?"
+    ca "Ouais....{w} Qu'est-ce que tu veux dire ?{w} Ma petite sœur ?{w} Où ?"
 
 # game/v7/v7.rpy:7788
 translate francais cam_phone_f0ff9d93:
@@ -8973,7 +8973,7 @@ translate francais v7_nsfwSkipLabel4_b589a000:
 translate francais v7_nsfwSkipLabel4_a99825c4:
 
     # ca "You're fucking 18, Sam! You're hardly an adult!{w} And clearly you can't take care of yourself."
-    ca "Putain, tu n'as que 18 ans, Sam ! Tu es à peine une adulte{w} ! Et clairement, tu ne peux pas prendre soin de toi."
+    ca "Putain, tu n'as que 18 ans, Sam !{w} Tu es à peine une adulte !{w} Et clairement,{w} NON !{w} Tu ne peux pas prendre soin de toi."
 
 # game/v7/v7.rpy:7934
 translate francais v7_nsfwSkipLabel4_30c44324:
@@ -8991,13 +8991,13 @@ translate francais v7_nsfwSkipLabel4_88aef05f:
 translate francais v7_nsfwSkipLabel4_bd66fa76:
 
     # sa "Just fuck off Cameron!{w} Go home!"
-    sa "Va te faire foutre Cameron{w} ! Rentre chez toi !"
+    sa "Va te faire foutre Cameron !{w} Rentre chez toi !"
 
 # game/v7/v7.rpy:7950
 translate francais v7_nsfwSkipLabel4_78587dc5:
 
     # ca "Don't you dare talk to me like that! You're leaving.{w} NOW!"
-    ca "Ne me parle pas comme ça ! Tu pars.{w} MAINTENANT !"
+    ca "Ne me parle pas comme ça ! Dégage de là.{w} MAINTENANT !"
 
 # game/v7/v7.rpy:7960
 translate francais v7_nsfwSkipLabel4_6d1b0a51:
@@ -17843,7 +17843,7 @@ translate francais strings:
 
     # game/v7/v7.rpy:34
     old "How about now?"
-    new "Et maintenant?"
+    new "Pourquoi pas maintenant?"
 
     # game/v7/v7.rpy:35
     old "Sure, I'll come pick you up"
@@ -18562,13 +18562,13 @@ translate francais conrileydorm_e0a574df:
 translate francais pledgewolves_04594c4d:
 
     # ch "To be a Wolf you need to be hardworking, persistent, determined."
-    ch "Pour être un Wolf, il faut être travailleur{w}, persévérant{w}, déterminé{w}."
+    ch "Pour être un Wolf, il faut être travailleur,{w} persévérant,{w} déterminé."
 
 # game/v7/v7.rpy:3652
 translate francais pledgewolves_dcd48f21:
 
     # ch "You need to be deliberate with your actions, confident, dedicated, motivated, and-"
-    ch "Vous devez être déterminés{w} dans vos actions, confiants{w}, dévoués{w}, motivés{w}, et..."
+    ch "Vous devez être déterminés dans vos actions,{w} confiants,{w} dévoués,{w} motivés,{w} et..."
 
 # game/v7/v7.rpy:3664
 translate francais pledgewolves_3ff6fe7b:
@@ -18592,7 +18592,7 @@ translate francais pledgewolves_c8c0f047:
 translate francais pledgewolves_8eb13cdf:
 
     # ch "Determination. For this challenge you'll have to prove that you will do whatever it takes to become a Wolf. Each of you will be in a separate room."
-    ch "Détermination{w}. Pour ce défi, vous devrez prouver que vous ferez tout ce qu'il faut pour devenir un Wolf. Chacun de vous sera dans une pièce séparée."
+    ch "Détermination.{w} Pour ce défi, vous devrez prouver que vous ferez tout ce qu'il faut pour devenir un Wolf. Chacun de vous sera dans une pièce séparée."
 
 # game/v7/v7.rpy:3708
 translate francais pledgewolves_b006ec14:
@@ -18628,7 +18628,7 @@ translate francais pledgeapes_87010b83:
 translate francais pledgeapes_4c7bd469:
 
     # ca "What? You a bitch? Too afraid?"
-    ca "Quoi ? T'es une salope{w} ? Tu as trop{w} peur{w} ?"
+    ca "Quoi ?{w} T'es une salope ?{w} Tu as trop{w} peur ?"
 
 # game/v7/v7.rpy:5199
 translate francais ep7_cam_picture_67cc7ff8:
@@ -18712,7 +18712,7 @@ translate francais v7_nsfwSkipLabel4_7a287347:
 translate francais wolves_ceremony_0c87de65:
 
     # ch "That's all you. Now [name] out of everyone proved he is most qualified to be a Wolf. He proved his loyalty, his determination, but overall, he proved himself over everyone else."
-    ch "C'est tout toi. Maintenant, [name] a prouvé qu'il était le plus qualifié pour être un loup. Il a prouvé sa loyauté, sa détermination, mais dans l'ensemble, il a prouvé qu'il était supérieur{w} à tous les autres."
+    ch "C'est tout toi. Maintenant, [name] a prouvé qu'il était le plus qualifié pour être un loup.{w} Il a prouvé sa loyauté,{w} sa détermination,{w} mais dans l'ensemble,{w} il a prouvé qu'il était supérieur{w} à tous les autres."
 
 # game/v7/v7.rpy:8204
 translate francais wolves_ceremony_4992308d:
