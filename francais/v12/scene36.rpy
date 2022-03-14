@@ -292,4 +292,4 @@ translate francais v12_lindsey_lobby_305d3cb0:
 translate francais v12s36_riley_text_3faef724:
 
     # u "(I should probably reply.)"
-    u "(Je devrais probablement répondre.)"
+    u "(Je devrais répondre.)"

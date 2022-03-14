@@ -904,7 +904,7 @@ translate francais v10_aubrey_room_ad981c21:
 translate francais v10_aubrey_room_75720cd2:
 
     # u "Haha true. Anyways I’m probably gonna head off now, I still got stuff to do, you know? *Laughs*"
-    u "Haha vrai. Enfin, je vais probablement y aller maintenant, j'ai encore des choses à faire, tu sais ? *Rire*"
+    u "Haha vrai. Enfin, je crois que je vais y aller maintenant, j'ai encore des choses à faire, tu sais ? *Rire*"
 
 # game/v10/scene17.rpy:825
 translate francais v10_aubrey_room_4f8adc0f:
@@ -1448,4 +1448,4 @@ translate francais v10_aubrey_room_ab560757:
 translate francais v10_aubrey_room_b0121023:
 
     # u "Haha true. Anyways I'm probably gonna head off now, I still got stuff to do, you know? *Laughs*"
-    u "Haha vrai. Enfin, je vais probablement y aller maintenant, j'ai encore des choses à faire, tu sais ? *Rire*"
+    u "Haha vrai. Enfin, je crois que je vais y aller maintenant, j'ai encore des choses à faire, tu sais ? *Rire*"

@@ -232,7 +232,7 @@ translate francais no_fl_w_lau_800cd5a8:
 translate francais no_fl_w_lau_98b32f33:
 
     # la "Probably the person who picked your schedule... oh wait, that's you."
-    la "Probablement la personne qui a choisi ton emploi du temps... oh attends, c'est toi."
+    la "Certainement la personne qui a choisi ton emploi du temps... oh attends, c'est toi."
 
 # game/v8/scene31.rpy:250
 translate francais no_fl_w_lau_474af146:

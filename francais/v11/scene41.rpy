@@ -76,7 +76,7 @@ translate francais v11_chloe_bathroom_db249ac3:
 translate francais v11_chloe_bathroom_e144f932:
 
     # u "I think Nora was frustrated and with everyone trying to figure things out... She was probably just taking a bunch of things out on you."
-    u "Je pense que Nora était frustrée et avec tout le monde qui essayait de comprendre la situation... Elle s'en prenait probablement à toi pour un tas d'autres trucs."
+    u "Je pense que Nora était frustrée et avec tout le monde qui essayait de comprendre la situation... À mon avois, elle s'en prenait à toi pour un tas d'autres trucs."
 
 # game/v11/scene41.rpy:132
 translate francais v11_chloe_bathroom_2a870042:

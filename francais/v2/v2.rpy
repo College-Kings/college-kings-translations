@@ -145,7 +145,7 @@ translate francais bjj_bd_9ea2f78c:
 translate francais repeatb_b672f3b0:
 
     # u "(Damn, my phone's blowing up. I should probably check my messages.)"
-    u "(Mince, mon téléphone gueule. Je devrais probablement vérifier mes messages.)"
+    u "(Mince, mon téléphone gueule. Je devrais vérifier mes messages.)"
 
 # game/v2/v2.rpy:227
 translate francais repeatb_82b726ed:
@@ -619,7 +619,7 @@ translate francais meet_lauren2_2f27993f:
 translate francais meet_lauren2_2b7cfd0c:
 
     # u "(I should probably wash the blood off my face in the restroom before I go to class.)"
-    u "(Je devrais probablement laver le sang de mon visage dans les toilettes avant d'aller en classe.)"
+    u "(Je devrais laver le sang de mon visage dans les toilettes avant d'aller en classe.)"
 
 # game/v2/v2.rpy:1260
 translate francais meet_lauren2_552d7a75:
@@ -673,13 +673,13 @@ translate francais meet_lauren2_beb44c26:
 translate francais meet_lauren2_37371914:
 
     # u "(I should probably wash the blood off my face before I go.)"
-    u "(Je devrais probablement laver le sang de mon visage avant de partir.)"
+    u "(Je devrais laver le sang de mon visage avant de partir.)"
 
 # game/v2/v2.rpy:1300
 translate francais meet_lauren2_43c3a3a3:
 
     # u "Yeah, you're probably right. Let's just forget about it."
-    u "Ouais, tu as probablement raison. Oublions ça."
+    u "Ouais, tu dois avoir raison. Oublions ça."
 
 # game/v2/v2.rpy:1304
 translate francais meet_lauren2_b046b9b4:
@@ -697,7 +697,7 @@ translate francais meet_lauren2_4ffa044c:
 translate francais meet_lauren2_2b7cfd0c_1:
 
     # u "(I should probably wash the blood off my face in the restroom before I go to class.)"
-    u "(Je devrais probablement laver le sang de mon visage dans les toilettes avant d'aller en classe.)"
+    u "(Je devrais laver le sang de mon visage dans les toilettes avant d'aller en classe.)"
 
 # game/v2/v2.rpy:1325
 translate francais meet_lauren2_fee0ddc2:
@@ -757,7 +757,7 @@ translate francais meet_lauren2_f3ad4c25:
 translate francais meet_lauren2_e6b07d44:
 
     # u "(I should probably wash the blood off my face in the restroom before I go.)"
-    u "(Je devrais probablement laver le sang de mon visage dans les toilettes avant de partir.)"
+    u "(Je devrais laver le sang de mon visage dans les toilettes avant de partir.)"
 
 # game/v2/v2.rpy:1382
 translate francais history2_0306743c:
@@ -2684,7 +2684,7 @@ translate francais v2_nsfwSkipLabel3_72b71966:
 translate francais v2_nsfwSkipLabel3_97818984:
 
     # au "Also, this cowboy outfit is probably the worst thing I've ever seen anyone wear."
-    au "De plus, cette tenue de cow-boy est probablement la pire chose que j'ai jamais vu."
+    au "De plus, cette tenue de cow-boy est certainement la pire chose que j'ai jamais vu."
 
 # game/v2/v2.rpy:3117
 translate francais v2_nsfwSkipLabel3_21bc3cf3:
@@ -3206,7 +3206,7 @@ translate francais v2_nsfwSkipLabel6_89e51cb4:
 translate francais v2_nsfwSkipLabel6_e93cf270:
 
     # pe "Yeah... you should probably rethink that, haha."
-    pe "Ouais... tu devrais probablement repenser ça, haha."
+    pe "Ouais... tu devrais certainement y repenser, haha."
 
 # game/v2/v2.rpy:3653
 translate francais v2_nsfwSkipLabel6_a296406c:
@@ -3296,7 +3296,7 @@ translate francais v1_caughtContinue_4a923d62:
 translate francais v1_caughtContinue_5f43075d:
 
     # u "What are you talking about? You probably just saw my foot."
-    u "Qu'est-ce que tu racontes? tu viens probablement de voir mon pied."
+    u "Qu'est-ce que tu racontes? tu as dû voir mon pied."
 
 # game/v2/v2.rpy:3747
 translate francais v1_caughtContinue_ee7c7ea8:
@@ -3440,7 +3440,7 @@ translate francais v1_caughtContinue_pen_1f305862:
 translate francais v1_caughtContinue_pen_5f43075d:
 
     # u "What are you talking about? You probably just saw my foot."
-    u "Qu'est-ce que tu racontes? Tu viens probablement de voir mon pied."
+    u "Qu'est-ce que tu racontes? Tu as dû voir mon pied."
 
 # game/v2/v2.rpy:3870
 translate francais v1_caughtContinue_pen_9c9b0acb:

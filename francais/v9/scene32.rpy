@@ -4,7 +4,7 @@
 translate francais v9_sat_gym_90842537:
 
     # u "(I should probably freshen up my skills.)"
-    u "(Je devrais probablement renforcer mes capacités.)"
+    u "(Je crois que je devrais renforcer mes capacités.)"
 
 # game/v9/scene32.rpy:42
 translate francais v9_sat_hit_gym_b9ee1b75:

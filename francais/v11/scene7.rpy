@@ -88,7 +88,7 @@ translate francais v11_room_aubrey_shopping_4f1ad60a:
 translate francais v11_room_aubrey_shopping_d3fa61ef:
 
     # u "Now I know I'm not getting anything. Nothing there is less than $45. I probably can't even afford a sock from Lew's. *Laughs*"
-    u "Maintenant je sais que je n'aurai rien. Rien ne coûte moins de 45 dollars. Je ne peux probablement même pas m'offrir une chaussette de chez Lew's. *Rire*"
+    u "Maintenant je sais que je n'aurai rien. Rien ne coûte moins de 45 dollars. Je suis sûr que je ne pourrais même pas m'offrir une chaussette de chez Lew's. *Rire*"
 
 # game/v11/scene7.rpy:122
 translate francais v11_room_aubrey_shopping_fd095570:

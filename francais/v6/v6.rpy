@@ -4,7 +4,7 @@
 translate francais imrecona_05b8b552:
 
     # u "(I need to find Imre and apologize. He's probably in our dorm room.)"
-    u "(Je dois trouver Imre et m'excuser. Il est probablement dans notre dortoir.)"
+    u "(Je dois trouver Imre et m'excuser. Il est sûrement dans notre dortoir.)"
 
 # game/v6/v6.rpy:133
 translate francais imrecona_76592c06:
@@ -1504,7 +1504,7 @@ translate francais nr_bb_ac11233a:
 translate francais nr_bb_f317fd7b:
 
     # u "(Homecoming. Hm. Lauren would probably be pissed if I didn't ask her...)"
-    u "(Fête de la rentrée. Hum. Lauren serait probablement énervée si je ne lui demandais pas...)"
+    u "(Fête de la rentrée. Hum. Lauren sera énervée si je ne lui demandais pas...)"
 
 # game/v6/v6.rpy:1784
 translate francais nr_bb_cdb81572:
@@ -1516,7 +1516,7 @@ translate francais nr_bb_cdb81572:
 translate francais nr_bb_c7e28610:
 
     # u "(I wanna text Imre, but he's probably still mad...)"
-    u "(Je veux envoyer un SMS à Imre, mais il est probablement toujours en colère...)"
+    u "(Je veux envoyer un SMS à Imre, mais il est certainement toujours en colère...)"
 
 # game/v6/v6.rpy:1800
 translate francais nr_bb_5efb3d2f:
@@ -4209,7 +4209,7 @@ translate francais aubreytalk_5b051a2e:
 translate francais aubreytalk_6e26ec01:
 
     # u "Yeah, I should probably head home anyway. It's already pretty late."
-    u "Ouais, je devrais probablement rentrer chez moi de toute façon. Il est déjà assez tard."
+    u "Ouais, je devrais rentrer chez moi de toute façon. Il est déjà assez tard."
 
 # game/v6/v6.rpy:4434
 translate francais aubreytalk_17f03d84:
@@ -5601,7 +5601,7 @@ translate francais go_ad_b55416b6:
 translate francais go_ad_91dc8042:
 
     # ri "*Laughs* Probably."
-    ri "*Rire* Probablement."
+    ri "*Rire* J'en suis sûre."
 
 # game/v6/v6.rpy:5836
 translate francais gp_ad_14ab757f:
@@ -9585,7 +9585,7 @@ translate francais v6_fr3chloe1_86051670:
 translate francais v6_fr3chloe1_a155b5a3:
 
     # u "She's probably just jealous."
-    u "Elle est probablement juste jalouse."
+    u "Elle doit être jalouse, tout simplement."
 
 # game/v6/v6.rpy:9300
 translate francais v6_fr3chloe1_964edbe9:
@@ -10551,7 +10551,7 @@ translate francais upstairsaubrey_a808de94:
 translate francais upstairsaubrey_5add534b:
 
     # au "Anyways, I should probably go downstairs again. Emily's probably missing me."
-    au "De toute façon, je devrais probablement redescendre. Je manque probablement à Emily."
+    au "De toute façon, je devrais redescendre. Je manque sûrement à Emily."
 
 # game/v6/v6.rpy:10199
 translate francais upstairsaubrey_f78452e2:
@@ -10929,7 +10929,7 @@ translate francais upstairsriley_16468adc:
 translate francais upstairsriley_96a94254:
 
     # u "Actually, I'm probably gonna join the Apes."
-    u "En fait, je vais probablement rejoindre les Apes."
+    u "En fait, je crois que je vais rejoindre les Apes."
 
 # game/v6/v6.rpy:10512
 translate francais upstairsriley_d7c5ca95:

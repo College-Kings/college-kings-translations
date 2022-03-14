@@ -190,7 +190,7 @@ translate francais v13s24_ca781d8b:
 translate francais v13s24_2d5f576b:
 
     # u "Considering they came to an event like this, the girls are probably gonna take it pretty seriously."
-    u "Vu qu'elles sont venues à un événement comme celui-ci, les filles vont probablement prendre ça très au sérieux."
+    u "Vu qu'elles sont venues à un événement comme celui-ci, j'imagine que les filles vont prendre ça très au sérieux."
 
 # game/v13/scene24.rpy:216
 translate francais v13s24_2661a731:
@@ -610,7 +610,7 @@ translate francais v13s24_86a33ad1:
 translate francais v13s24_077dcc6d:
 
     # ry "Well, I wouldn't wanna be doing nothing. So, probably."
-    ry "Eh bien, je ne voudrais pas rester à rien faire. Donc, probablement."
+    ry "Eh bien, je ne voudrais pas rester à rien faire. Donc, peut-être."
 
 # game/v13/scene24.rpy:688
 translate francais v13s24_4c931dae:

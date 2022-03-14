@@ -382,7 +382,7 @@ translate francais v13s12b_failed_timer_1b28a406:
 translate francais v13s12b_failed_timer_b94b59ac:
 
     # pe "[name]... I'm really sorry for wanting to leave, again. I probably ruined your night, I'm sure you wish you brought someone else."
-    pe "[name]... Je suis vraiment désolée de vouloir partir, encore une fois. J'ai probablement gâché ta soirée, je suis sûre que tu regrettes de ne pas avoir amené quelqu'un d'autre."
+    pe "[name]... Je suis vraiment désolée de vouloir partir, encore une fois. J'ai sûrement gâché ta soirée, je suis sûre que tu regrettes de ne pas avoir amené quelqu'un d'autre."
 
 # game/v13/scene12b.rpy:487
 translate francais v13s12b_failed_timer_27370855:

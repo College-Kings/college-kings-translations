@@ -148,7 +148,7 @@ translate francais v13s06_cede5d4d:
 translate francais v13s06_ab3b95ae:
 
     # u "Yeah, probably not. More of a straight and narrow kind of guy."
-    u "Ouais, probablement pas. Je suis plus du genre à aller droit au but."
+    u "Ouais, peut-être pas. Je suis plus du genre à aller droit au but."
 
 # game/v13/scene6.rpy:165
 translate francais v13s06_e116ec3b:
@@ -194,4 +194,4 @@ translate francais strings:
 
     # game/v13/scene6.rpy:134
     old "Yeah, probably not"
-    new "Ouais, probablement pas"
+    new "Ouais, peut-être pas"

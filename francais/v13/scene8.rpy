@@ -352,7 +352,7 @@ translate francais v13s8_a7ad50f9:
 translate francais v13s8_53d4357d:
 
     # no "You probably already know, but the fact that Chloe has to be the President of Chicks in order to keep her Greek scholarship?"
-    no "Tu le sais probablement déjà, mais Chloé doit être la présidente des Chicks pour garder sa bourse d'études..."
+    no "J'imagine que tu le sais déjà, mais Chloé doit être la présidente des Chicks pour garder sa bourse d'études..."
 
 # game/v13/scene8.rpy:347
 translate francais v13s8_0bdc94ad:

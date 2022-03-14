@@ -52,7 +52,7 @@ translate francais v13s62_191908c5:
 translate francais v13s62_6f64cbe0:
 
     # au "Since both of us have been a little mean to him recently, we should probably make him feel better, right?"
-    au "Puisque nous avons toutes les deux été un peu méchantes avec lui récemment, nous devrions probablement le faire se sentir mieux, non ?"
+    au "Puisque nous avons toutes les deux été un peu méchantes avec lui récemment, nous devrions le faire se sentir mieux, non ?"
 
 # game/v13/scene62.rpy:62
 translate francais v13s62_a3aa73c7:

@@ -310,7 +310,7 @@ translate francais v9_make_out_w_lin_2657993a:
 translate francais v9_make_out_w_lin_b25f370b:
 
     # li "Maybe. I'll probably be in bed, though."
-    li "Peut-être. Mais je serai probablement au lit."
+    li "Peut-être. Mais je serai sûrement au lit."
 
 # game/v9/scene39.rpy:356
 translate francais v9_make_out_w_lin_3b4b7920:

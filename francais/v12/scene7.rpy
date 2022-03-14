@@ -370,7 +370,7 @@ translate francais v12s7fr_a2a15790:
 translate francais v12s7fr_db2aca54:
 
     # am "Ahh yeah, I'm so ready to play into this. I'm not holding back either. This was probably the worst role I could've been given."
-    am "Ahh ouais, je suis vraiment prête à jouer à ce jeu. Je ne me retiens pas non plus. C'est probablement le pire rôle qu'on aurait pu me donner."
+    am "Ahh ouais, je suis vraiment prête à jouer à ce jeu. Je ne vais pas me retenir non plus. C'est certainement le pire rôle qu'on aurait pu me donner."
 
 # game/v12/scene7.rpy:321
 translate francais v12s7fr_dddae891:
@@ -1066,7 +1066,7 @@ translate francais v12s7_riley1_93dc6c71:
 translate francais v12s7_riley1_c07db538:
 
     # u "You can probably guess that they didn't listen to him, and He. Was. Pissed. The walk back to the hotel from being in the middle of nowhere was probably well deserved."
-    u "Tu peux probablement deviner qu'ils ne l'ont pas écouté, et il... Était. Enervé. Le retour à l'hôtel seuls après avoir été au milieu de nulle part était probablement bien mérité."
+    u "Tu peux imaginer qu'ils ne l'ont pas écouté, et il... Était. Enervé. Le retour à l'hôtel seuls après avoir été au milieu de nulle part était certainement bien mérité."
 
 # game/v12/scene7.rpy:997
 translate francais v12s7_riley1_0d091282:
@@ -1078,7 +1078,7 @@ translate francais v12s7_riley1_0d091282:
 translate francais v12s7_riley1_99798f4f:
 
     # ri "If we don't get back into character we're most likely gonna end up getting some of that same wrath. *Chuckles*"
-    ri "Si nous ne retournons pas dans notre personnage, nous finirons très probablement par subir la même colère. *Rire*"
+    ri "Si nous ne retournons pas dans notre personnage, nous finirons par subir la même colère. *Rire*"
 
 # game/v12/scene7.rpy:1007
 translate francais v12s7_riley1_b8f5d1cc:
@@ -1324,7 +1324,7 @@ translate francais v12s7_chloe1_1f672a09:
 translate francais v12s7_chloe1_d1a7593a:
 
     # u "Haha, probably a bit of both..."
-    u "Haha, probablement un peu des deux..."
+    u "Haha, peut-être un peu des deux..."
 
 # game/v12/scene7.rpy:1240
 translate francais v12s7_chloe1_333fc136:
@@ -1678,7 +1678,7 @@ translate francais v12s7_riley3a_073859cc:
 translate francais v12s7_riley3a_afb81137:
 
     # u "If that's the case then she probably got killed."
-    u "Si c'est le cas, elle a probablement été tuée."
+    u "Si c'est le cas, elle a peut-être été tuée."
 
 # game/v12/scene7.rpy:1597
 translate francais v12s7_riley3a_77d67edd:
@@ -2392,7 +2392,7 @@ translate francais v12s7_ryan1_b7fcac5f:
 translate francais v12s7_ryan1_fd90e59b:
 
     # ry "Probably not, I can get over being in different frats, but I can't get over his disrespect. I know he's your friend and he's cool with you, but he's not cool with me."
-    ry "Probablement pas, je peux supporter d'être dans des fraternités différentes, mais je ne peux pas supporter son manque de respect. Je sais que c'est ton ami et qu'il est cool avec toi, mais il ne l'est carrément pas avec moi."
+    ry "Ça m'étonnerai, je peux supporter d'être dans des fraternités différentes, mais je ne peux pas supporter son manque de respect. Je sais que c'est ton ami et qu'il est cool avec toi, mais il ne l'est carrément pas avec moi."
 
 # game/v12/scene7.rpy:2322
 translate francais v12s7_ryan1_dc2ac04e:
@@ -4768,7 +4768,7 @@ translate francais v12s7_sam2_6fd14e54:
 translate francais v12s7_sam2_db290bd6:
 
     # sa "Well if I was writing this, I'd probably choose Lauren to be the murderer."
-    sa "Si j'écrivais ça, je choisirais probablement Lauren comme meurtrière."
+    sa "Si j'écrivais ça, je choisirais certainement Lauren comme meurtrière."
 
 # game/v12/scene7.rpy:4760
 translate francais v12s7_sam2_693b3993:
@@ -5686,7 +5686,7 @@ translate francais v12s7_josh1_39ac27dd:
 translate francais v12s7_josh1_d94cbe41:
 
     # jo "It's this kind of disrespect that the bitch Racheal Cracken almost got killed for. We all know she killed her man, probably fed him to the Leopards. Distasteful."
-    jo "C'est pour ce genre de manque de respect que la salope Racheal Cracken a failli être tuée. Nous savons tous qu'elle a tué son homme, et l'a probablement donné à manger aux Léopards. C'est de mauvais goût."
+    jo "C'est pour ce genre de manque de respect que la salope Racheal Cracken a failli être tuée. Nous savons tous qu'elle a tué son homme, et l'a certainement donné à manger aux Léopards. C'est de mauvais goût."
 
 # game/v12/scene7.rpy:5825
 translate francais v12s7_josh1_4478882a:

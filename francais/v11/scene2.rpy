@@ -256,7 +256,7 @@ translate francais v11_nora_chloe_hallway_cba00f62:
 translate francais v11_nora_chloe_hallway_a339922b:
 
     # u "If you're looking for a more mellow time then Lauren or Lindsey may be nice to talk to, but if you have a more wild side then getting to know Amber or Aubrey is probably right up your alley."
-    u "Si tu cherches à passer un moment tranquille, Lauren ou Lindsey peuvent être des partenaires agréables, mais si tu as un côté plus sauvage, Amber ou Aubrey sont probablement faites pour toi."
+    u "Si tu cherches à passer un moment tranquille, Lauren ou Lindsey peuvent être des partenaires agréables, mais si tu as un côté plus sauvage, Amber ou Aubrey sont certainement faites pour toi."
 
 # game/v11/scene2.rpy:243
 translate francais v11_nora_chloe_hallway_281fc0a8:

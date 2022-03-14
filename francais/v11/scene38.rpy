@@ -76,7 +76,7 @@ translate francais v11_amber_bar_5a3d1182:
 translate francais v11_amber_bar_762e6296:
 
     # am "Sure... You were probably busy with one of your girl friends."
-    am "Bien sûr... Tu étais probablement occupé avec une de tes petites amies."
+    am "Bien sûr... Tu devais être occupé avec une de tes petites amies."
 
 # game/v11/scene38.rpy:114
 translate francais v11_amber_bar_c7b2391f:

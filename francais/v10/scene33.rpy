@@ -310,7 +310,7 @@ translate francais v10s33_deergirl11_8728ff1d:
 translate francais v10s33_deergirl11_c8d858fd:
 
     # guyd "You probably practiced these before."
-    guyd "Tu les as probablement déjà pratiquées."
+    guyd "Tu les as certainement déjà pratiquées."
 
 # game/v10/scene33.rpy:345
 translate francais v10s33_deergirl11_c9462c8c:
@@ -2638,7 +2638,7 @@ translate francais v10s33_riley2_a5fd30e3:
 translate francais v10s33_riley2_851f668b:
 
     # ri "Hey! I can dance. I can probably dance better than you."
-    ri "Hé ! Je sais danser. Je danse probablement mieux que toi."
+    ri "Hé ! Je sais danser. Je danse sûrement mieux que toi."
 
 # game/v10/scene33.rpy:2631
 translate francais v10s33_riley2_296609d1:
@@ -3148,7 +3148,7 @@ translate francais v10s33_amber1_63314d47:
 translate francais v10s33_chris1_a192729a:
 
     # u "I should probably not be seen talking to the Wolves' frat leaders."
-    u "Je ne devrais probablement pas être vu en train de parler aux leaders de la fraternité des Wolves."
+    u "Je crois que je ne devrais pas être vu en train de parler aux leaders de la fraternité des Wolves."
 
 # game/v10/scene33.rpy:3213
 translate francais v10s33_chris1_1abd6e61:

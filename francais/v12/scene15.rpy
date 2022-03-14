@@ -364,7 +364,7 @@ translate francais v12_riddle_riley_265e5e75:
 translate francais v12_riddle_riley_0aacf53a:
 
     # ri "Thanks. It's probably not that bad. *Chuckles* It'll likely be fine in a few minutes, it surprised me more than it hurt."
-    ri "Merci. Ça ne doit pas être si grave. *Rire* Ça ira probablement mieux dans quelques minutes, ça m'a plus surpris que fait mal."
+    ri "Merci. Ça ne doit pas être si grave. *Rire* Ça ira mieux dans quelques minutes, ça m'a plus surpris que fait mal."
 
 # game/v12/scene15.rpy:448
 translate francais v12_riddle_riley_baa4d711:

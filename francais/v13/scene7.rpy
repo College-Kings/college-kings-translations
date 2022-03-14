@@ -130,7 +130,7 @@ translate francais v13_ticket_transfer_4d3394fd:
 translate francais v13_ticket_transfer_36bca79d:
 
     # u "(He probably got some old history thing the first time.)"
-    u "(Il a probablement voulu me donner un vieux truc historique au début.)"
+    u "(J'imagine qu'il a voulu me donner un vieux truc historique au début.)"
 
 # game/v13/scene7.rpy:127
 translate francais v13_ticket_transfer_dc5ded48:

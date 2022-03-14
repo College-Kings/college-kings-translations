@@ -46,13 +46,13 @@ translate francais v12_urban_exploring_6f5a037c:
 translate francais v12_urban_exploring_0ee913ba:
 
     # au "You were probably the kid during freeze tag that got frozen right away and no one wanted to untag. *Laughs"
-    au "Tu étais probablement l'enfant qui a été congelé tout de suite et que personne ne voulait détacher pendant le jeu du chat gelé. *Rire*"
+    au "Tu étais sûrement l'enfant qui a été congelé tout de suite et que personne ne voulait détacher pendant le jeu du chat gelé. *Rire*"
 
 # game/v12/scene20.rpy:55
 translate francais v12_urban_exploring_0eb43631:
 
     # imre "And you were probably the kid during hide and seek that no one ever cared to find."
-    imre "Et toi, t'étais probablement la gamine pendant le jeu d'cache-cache que personne cherchait jamais."
+    imre "Et toi, tu devais être la gamine pendant le jeu d'cache-cache que personne cherchait jamais."
 
 # game/v12/scene20.rpy:60
 translate francais v12_urban_exploring_e51d8799:

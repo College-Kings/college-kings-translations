@@ -238,7 +238,7 @@ translate francais v11_treasure_hunt_7a709810:
 translate francais v11_treasure_hunt_3873a0cc:
 
     # u "It'll be fine, Riley. We'll both take our best shot and if we don't win, well... who cares anyway? This whole thing is probably some dumb prank they pull on tourists."
-    u "Ça va aller, Riley. On va tous les deux faire de notre mieux et si on ne gagne pas, eh bien... qui s'en soucie de toute façon ? Tout ça, c'est probablement une farce stupide qu'ils font aux touristes."
+    u "Ça va aller, Riley. On va tous les deux faire de notre mieux et si on ne gagne pas, eh bien... qui s'en soucie de toute façon ? Tout ça, ça doit être une farce stupide qu'ils font aux touristes."
 
 # game/v11/scene20.rpy:270
 translate francais v11_treasure_hunt_72e26c6b:

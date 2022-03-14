@@ -190,7 +190,7 @@ translate francais v11_riley_amber_smoking_900b9602:
 translate francais v11_riley_amber_smoking_542a184a:
 
     # am "Knowing Josh though, it most likely wasn't just weed... That's probably why you were so fucked up, ha."
-    am "Connaissant Josh, il est probable que ce n'était pas que de l'herbe... C'est probablement pour ça que tu étais si mal en point, ha."
+    am "Connaissant Josh, ça ne devait pas être que de l'herbe... C'est sûrement pour ça que tu étais si mal en point."
 
 # game/v11/scene41a.rpy:202
 translate francais v11_riley_amber_smoking_3c14897d:

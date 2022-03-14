@@ -76,7 +76,7 @@ translate francais v12_chase_nora_8e031b93:
 translate francais v12_chase_nora_1c120804:
 
     # no "I probably shouldn't have done all that in public. Fuck! *Sobs*"
-    no "Je n'aurais probablement pas dû faire tout ça en public. Putain ! *Snif*"
+    no "Je n'aurais pas dû faire tout ça en public. Putain ! *Snif*"
 
 # game/v12/scene26b.rpy:90
 translate francais v12_chase_nora_08ff157a:
@@ -190,7 +190,7 @@ translate francais v12_chase_nora_a813cb72:
 translate francais v12_chase_nora_1ba71410:
 
     # li "I would've done a lot more than what you did. *Chuckles* And probably a lot sooner. You've put up with way too much shit."
-    li "À ta place, J'aurais sans aucun doutes fait bien plus que ce que tu as fait. *Rire* Et probablement beaucoup plus tôt. Tu as supporté beaucoup trop de merde."
+    li "À ta place, J'aurais sans aucun doutes fait bien plus que ce que tu as fait. *Rire* Et beaucoup plus tôt. Tu as supporté beaucoup trop de merde."
 
 # game/v12/scene26b.rpy:175
 translate francais v12_chase_nora_df25e0fb:

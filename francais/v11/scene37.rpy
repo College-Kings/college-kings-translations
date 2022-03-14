@@ -82,7 +82,7 @@ translate francais v11_walk_park_e9887231:
 translate francais v11_walk_park_050d63a0:
 
     # lee "It took some time, a few disciplinary actions and so forth, before I finally realized what was going on. And you'll probably be surprised by what it was."
-    lee "Il a fallu un certain temps, quelques mesures disciplinaires et autres, pour que je réalise enfin ce qui se passait. Et vous serez probablement surpris par ce que c'était."
+    lee "Il a fallu un certain temps, quelques mesures disciplinaires et autres, pour que je réalise enfin ce qui se passait. Et vous serez certainement surpris par ce que c'était."
 
 # game/v11/scene37.rpy:97
 translate francais v11_walk_park_ef2f1671:

@@ -124,7 +124,7 @@ translate francais v9_walk_w_sam_cont1_f7fac6fb:
 translate francais v9_walk_w_sam_cont1_a83e8727:
 
     # u "Yeah, I don't spend a lot of time out here, but I probably should."
-    u "Ouais, je ne passe pas beaucoup de temps ici, mais je devrais probablement."
+    u "Ouais, je ne passe pas beaucoup de temps ici, mais je crois que je devrais."
 
 # game/v9/scene24.rpy:112
 translate francais v9_walk_w_sam_grayson_14b52677:
@@ -376,7 +376,7 @@ translate francais v9_walk_w_sam_walk_goodbye_ed9e3165:
 translate francais v9_walk_w_sam_walk_goodbye_f3043eab:
 
     # sa "No, I suppose not. But I'll probably be back out here tomorrow, if you wanna join."
-    sa "Non, je crois que non. Mais je serai probablement de retour ici demain, si tu veux te joindre à moi."
+    sa "Non, je crois que non. Mais je serai sûrement de retour ici demain, si tu veux te joindre à moi."
 
 # game/v9/scene24.rpy:285
 translate francais v9_walk_w_sam_walk_goodbye_c1d7544f:

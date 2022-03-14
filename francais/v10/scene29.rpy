@@ -136,7 +136,7 @@ translate francais v10_chloe_hallway_c4b252de:
 translate francais v10_chloe_hallway_8911e879:
 
     # u "I should probably go too. Uhm nice seeing you."
-    u "Je devrais probablement y aller aussi. Hum, c'était sympa de te voir."
+    u "Je devrais y aller aussi. Hum, c'était sympa de te voir."
 
 # game/v10/scene29.rpy:158
 translate francais v10_chloe_hallway_58b335dc:

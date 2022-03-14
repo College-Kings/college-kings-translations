@@ -4,11 +4,11 @@
 translate francais freeRoamSpokenToo_9490a94d:
 
     # u "I should probably talk to someone else"
-    u "Je devrais probablement parler à quelqu'un d'autre"
+    u "Je devrais parler à quelqu'un d'autre"
 # TODO: Translation updated at 2022-01-18 10:42
 
 # game/customLabels.rpy:3
 translate francais freeRoamSpokenToo_4f257a1e:
 
     # u "I should probably talk to someone else."
-    u "Je devrais probablement parler à quelqu'un d'autre"
+    u "Je devrais parler à quelqu'un d'autre"

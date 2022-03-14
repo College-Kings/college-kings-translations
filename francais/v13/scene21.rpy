@@ -100,7 +100,7 @@ translate francais v13s21_a9ae083f:
 translate francais v13s21_506976ad:
 
     # charli "You probably would, if you were smart enough."
-    charli "Tu le ferais probablement, si tu étais assez intelligent."
+    charli "Tu le ferais certainement, si tu étais assez intelligent."
 
 # game/v13/scene21.rpy:134
 translate francais v13s21_3ed3fdb9:

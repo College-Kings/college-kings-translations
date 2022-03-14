@@ -515,7 +515,7 @@ translate francais ad_db_3e0ad800:
 translate francais ad_db_9c52b5de:
 
     # u "(I should probably go to my induction class right now.)"
-    u "(Je devrais probablement aller à mon cours d'initiation là.)"
+    u "(Je crois que je devrais aller à mon cours d'initiation là.)"
 
 # game/v1/v1.rpy:488
 translate francais ad_db_c224bb3e:
@@ -1343,7 +1343,7 @@ translate francais v1_freeRoam1_aubrey_fbf24a6c:
 translate francais v1_freeRoam1_aubrey_6fce2bd5:
 
     # u "(I should probably stop peeking, before I get caught.)"
-    u "(Je devrais probablement arrêter de les espionner, avant de me faire prendre.)"
+    u "(Je devrais arrêter de les espionner, avant de me faire prendre.)"
 
 # game/v1/v1.rpy:1209
 translate francais v1_freeRoam1_aubrey2_dca4c6cd:
@@ -2339,7 +2339,7 @@ translate francais sexdream1_9ff01850:
 translate francais sexdream1_ecc56e86:
 
     # u "Probably not for a few hours yet."
-    u "Probablement pas avant quelques heures."
+    u "Certainement pas avant quelques heures."
 
 # game/v1/v1.rpy:2037
 translate francais sexdream1_c7f30e39:
@@ -2933,7 +2933,7 @@ translate francais au_bd_0a0a9d90:
 translate francais au_bd_3596bc19:
 
     # u "The bad news is that I forgot them in my dorm and Imre has probably eaten them by now."
-    u "La mauvaise nouvelle est que je les ai oubliés dans mon dortoir et Imre les a probablement déjà mangés."
+    u "La mauvaise nouvelle est que je les ai oubliés dans mon dortoir et Imre a dû déjà les manger."
 
 # game/v1/v1.rpy:2504
 translate francais au_bd_89d0bf13:
@@ -3671,7 +3671,7 @@ translate francais v1_freeRoam2_sam_1e76b6f5:
 translate francais v1_freeRoam2_sam_6b9e796e:
 
     # u "(We should probably leave them alone before we get dragged into this.)"
-    u "(Je devrais probablement les laisser tranquilles avant de me faire entraîner dans leurs histoires.)"
+    u "(Je crois que je devrais les laisser tranquilles avant de me faire entraîner dans leurs histoires.)"
 
 # game/v1/v1.rpy:3085
 translate francais v1_freeRoam2_sam2_eb5d70fb:
@@ -4211,7 +4211,7 @@ translate francais v1_freeRoam2_mason_5d8e6f82:
 translate francais v1_freeRoam2_mason_dbb221ad:
 
     # u "Hey! I'm not a loser, or a pussy. I would totally fight Cameron and he'd probably end up begging for mercy."
-    u "Hey! Je ne suis pas un perdant, ou une mauviette. Je combattrai réellement Cameron et il finira probablement par implorer ma pitié."
+    u "Hey! Je ne suis pas un perdant, ou une mauviette. Je combattrai réellement Cameron et il finira par implorer ma pitié."
 
 # game/v1/v1.rpy:3548
 translate francais v1_freeRoam2_mason_580e2e2e:

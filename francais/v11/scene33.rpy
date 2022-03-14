@@ -202,7 +202,7 @@ translate francais v11_bar_chloe_and_aubrey_0300f20a:
 translate francais v11_bar_chloe_and_aubrey_8f96013b:
 
     # cl "*Sighs* I don't know, probably a gorilla. What's with the silly question?"
-    cl "*Soupirs* Je ne sais pas, probablement un gorille. C'est quoi cette question idiote ?"
+    cl "*Soupirs* Je ne sais pas, peut-être le gorille. C'est quoi cette question idiote ?"
 
 # game/v11/scene33.rpy:218
 translate francais v11_bar_chloe_and_aubrey_035054b0:
@@ -322,7 +322,7 @@ translate francais v11_bar_chloe_and_aubrey_e3c20fd9:
 translate francais v11_bar_chloe_and_aubrey_d22f26e8:
 
     # cl "You probably don't know this, but I actually really like cars. You know, like fast sports cars and stuff?"
-    cl "Tu ne le sais probablement pas, mais j'aime vraiment les voitures. Tu sais, comme les voitures de sport rapides et tout ça ?"
+    cl "Tu ne le sais sûrement pas, mais j'aime vraiment les voitures. Tu sais, comme les voitures de sport rapides et tout ça ?"
 
 # game/v11/scene33.rpy:335
 translate francais v11_bar_chloe_and_aubrey_45ecdbb5:

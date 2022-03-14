@@ -94,7 +94,7 @@ translate francais v10_econ_class_8c149975:
 translate francais v10_econ_class_17f1697e:
 
     # ry "Probably a good idea."
-    ry "C'est probablement une bonne idée."
+    ry "C'est une bonne idée."
 
 # game/v10/scene27.rpy:104
 translate francais v10_econ_class_33f9007c:

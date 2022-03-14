@@ -184,7 +184,7 @@ translate francais v11_hotel_bar_wolves_f1e8dffe:
 translate francais v11_hotel_bar_wolves_6fbbbaca:
 
     # u "This is probably the first time I've had a few minutes to myself besides being asleep."
-    u "C'est probablement la première fois que j'ai quelques minutes à moi en dehors du sommeil."
+    u "Ça doit être la première fois que j'ai quelques minutes à moi en dehors du sommeil."
 
 # game/v11/scene26.rpy:175
 translate francais v11_hotel_bar_wolves_bc7b11b2:
@@ -352,7 +352,7 @@ translate francais v11_hotel_bar_apes_0509171c:
 translate francais v11_hotel_bar_apes_ef5b9a8a:
 
     # sa "It's probably not a good idea for me to drink. And believe it or not, that's not what I came down here for."
-    sa "Ce n'est probablement pas une bonne idée pour moi de boire. Et crois-le ou non, ce n'est pas pour ça que je suis venue ici."
+    sa "Ce n'est sûrement pas une bonne idée pour moi de boire. Et crois-le ou non, ce n'est pas pour ça que je suis venue ici."
 
 # game/v11/scene26.rpy:341
 translate francais v11_hotel_bar_apes_449fdabf:

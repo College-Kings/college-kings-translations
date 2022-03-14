@@ -214,7 +214,7 @@ translate francais v13s12c_b63ebc78:
 translate francais v13s12c_4e6caa8b:
 
     # au "Seriously though, Riley and I have always been really good friends. Outside of you, she's probably the person I'm closest with."
-    au "Sérieusement, Riley et moi avons toujours été de très bonnes amies. En dehors de toi, elle est probablement la personne dont je suis la plus proche."
+    au "Sérieusement, Riley et moi avons toujours été de très bonnes amies. En dehors de toi, elle est sûrement la personne dont je suis la plus proche."
 
 # game/v13/scene12c.rpy:230
 translate francais v13s12c_996fa93d:

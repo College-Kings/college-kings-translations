@@ -1096,7 +1096,7 @@ translate francais v9s7_nsfwSkipLabel1_4895ddf9:
 translate francais v9s7_nsfwSkipLabel1_3e629aab:
 
     # u "Well, I guess I should probably get out now. Explore the place a bit more, you know?"
-    u "Eh bien, je devrais probablement sortir maintenant. Explorer l'endroit un peu plus."
+    u "Eh bien, je crois que je devrais sortir maintenant. Explorer l'endroit un peu plus."
 
 # game/v9/scene7.rpy:1119
 translate francais v9s7_nsfwSkipLabel1_e882ca6f:

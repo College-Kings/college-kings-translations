@@ -52,7 +52,7 @@ translate francais v12_chloe_cafe_0bbaa8c4:
 translate francais v12_chloe_cafe_0a9ea506:
 
     # u "I'm in another country and have no idea what I'm reading half the time. Probably best to just tell them to surprise us. *Laughs*"
-    u "Je suis dans un autre pays et je n'ai aucune idée de ce que je lis la plupart du temps. C'est probablement mieux de leur demander de nous surprendre. *Rire*"
+    u "Je suis dans un autre pays et je n'ai aucune idée de ce que je lis la plupart du temps. Je pense que c'est mieux de leur demander de nous surprendre. *Rire*"
 
 # game/v12/scene14.rpy:86
 translate francais v12_chloe_cafe_1eba4b42:

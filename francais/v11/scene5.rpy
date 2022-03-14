@@ -526,7 +526,7 @@ translate francais v11s4_PhoneContinueJosh1_032f7aac:
 translate francais v11s4_PhoneContinueJosh1_a4485a78:
 
     # u "That's smart, actually. Probably makes it harder for the creeps at the bar to stalk you on Kiwii."
-    u "C'est intelligent, en fait. Ça rend probablement plus difficile pour les sales types du bar de te harceler sur Kiwii."
+    u "C'est intelligent, en fait. Ça doit être plus difficile pour les sales types du bar de te harceler sur Kiwii."
 
 # game/v11/scene5.rpy:591
 translate francais v11s4_PhoneContinueJosh1_d4aadeea:

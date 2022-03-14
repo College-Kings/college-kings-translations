@@ -100,7 +100,7 @@ translate francais v13s44_f2b73829:
 translate francais v13s44_8f0e7b62:
 
     # u "That does sound kinda nice. Plus, I probably should start getting back into shape. *Chuckles*"
-    u "Ça a l'air plutôt sympa. En plus, je devrais probablement commencer à me remettre en forme. *Rire*"
+    u "Ça a l'air plutôt sympa. En plus, je devrais commencer à me remettre en forme. *Rire*"
 
 # game/v13/scene44.rpy:107
 translate francais v13s44_f4e2b0dd:

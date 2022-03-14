@@ -352,7 +352,7 @@ translate francais v12s33_f2bcea62:
 translate francais v12s33_68fde7d3:
 
     # u "Probably a lot of sweating. *Chuckles*"
-    u "Probablement beaucoup de transpiration. *Rire*"
+    u "Sûrement beaucoup de transpiration. *Rire*"
 
 # game/v12/scene33.rpy:329
 translate francais v12s33_e6eda243:

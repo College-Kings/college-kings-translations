@@ -88,7 +88,7 @@ translate empty v10_avoid_fight_0238517d:
 translate empty v10_avoid_fight_8f83aba0:
 
     # ch "It's probably best if you just go home. I don't think you wanna face the other Wolves right now."
-    ch "C'est probablement mieux si tu rentres chez toi. Je ne pense pas que tu veuilles affronter les autres Wolves maintenant."
+    ch "Je crois que c'est mieux si tu rentres chez toi. Je ne pense pas que tu veuilles affronter les autres Wolves maintenant."
 
 # game/v10/scene8a.rpy:91
 translate empty v10_avoid_fight_460698fc:
@@ -136,7 +136,7 @@ translate empty v10_avoid_fight_bef090f8:
 translate empty v10_avoid_fight_8f83aba0_1:
 
     # ch "It's probably best if you just go home. I don't think you wanna face the other Wolves right now."
-    ch "C'est probablement mieux si tu rentres chez toi. Je ne pense pas que tu veuilles affronter les autres Wolves maintenant."
+    ch "Je crois que c'est mieux si tu rentres chez toi. Je ne pense pas que tu veuilles affronter les autres Wolves maintenant."
 
 # game/v10/scene8a.rpy:130
 translate empty v10_avoid_fight_460698fc_1:
@@ -366,7 +366,7 @@ translate francais v10_avoid_fight_0238517d:
 translate francais v10_avoid_fight_8f83aba0:
 
     # ch "It's probably best if you just go home. I don't think you wanna face the other Wolves right now."
-    ch "C'est probablement mieux si tu rentres chez toi. Je ne pense pas que tu veuilles affronter les autres Wolves maintenant."
+    ch "Je crois que c'est mieux si tu rentres chez toi. Je ne pense pas que tu veuilles affronter les autres Wolves maintenant."
 
 # game/v10/scene8a.rpy:92
 translate francais v10_avoid_fight_460698fc:
@@ -414,7 +414,7 @@ translate francais v10_avoid_fight_bef090f8:
 translate francais v10_avoid_fight_8f83aba0_1:
 
     # ch "It's probably best if you just go home. I don't think you wanna face the other Wolves right now."
-    ch "C'est probablement mieux si tu rentres chez toi. Je ne pense pas que tu veuilles affronter les autres Wolves maintenant."
+    ch "Je crois que c'est mieux si tu rentres chez toi. Je ne pense pas que tu veuilles affronter les autres Wolves maintenant."
 
 # game/v10/scene8a.rpy:131
 translate francais v10_avoid_fight_460698fc_1:

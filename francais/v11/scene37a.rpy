@@ -118,7 +118,7 @@ translate francais v11_ride_with_mrlee_0b4c5759:
 translate francais v11_ride_with_mrlee_41d104ad:
 
     # u "No, probably not. Are you trying to say it's all Imre's fault?"
-    u "Non, probablement pas. Essayez-vous de dire que tout est de la faute d'Imre ?"
+    u "Non, peut-être pas. Essayez-vous de dire que tout est de la faute d'Imre ?"
 
 # game/v11/scene37a.rpy:112
 translate francais v11_ride_with_mrlee_df64cced:

@@ -76,7 +76,7 @@ translate francais s21_PhoneContinue_392af697:
 translate francais s21_PhoneContinue_838b2976:
 
     # u "(I should probably head over to Ms. Roses.)"
-    u "(Je devrais probablement aller chez Mme Roses.)"
+    u "(Je devrais aller chez Mme Roses.)"
 
 translate francais strings:
 

@@ -34,7 +34,7 @@ translate francais v10s19_PhoneContinue1_7b872655:
 translate francais v10s19_PhoneContinue1_adc921bd:
 
     # u "(I hope this goes smooth, Jenny hearing it from Penelope will probably help them both process the situation.)"
-    u "(J'espère que cela se passera en douceur, le fait que Jenny l'entende de la bouche de Pénélope les aidera probablement toutes deux à gérer la situation)."
+    u "(J'espère que ça se passera en douceur, le fait que Jenny l'entende de la bouche de Pénélope les aidera sûrement à gérer la situation ensemble)."
 
 # game/v10/scene19.rpy:66
 translate francais v10s19_PhoneContinue1_32e98c58:

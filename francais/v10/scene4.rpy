@@ -52,7 +52,7 @@ translate empty v9_ryan_v_perry_fight_0e07d8ca:
 translate empty v9_ryan_v_perry_fight_4a6f411d:
 
     # jo "Anyways, looks like we have a winner everyone! Most likely in record time!"
-    jo "Quoi qu'il en soit, on dirait que nous avons un gagnant ! Et très probablement en un temps record !"
+    jo "Quoi qu'il en soit, on dirait que nous avons un gagnant ! Et très certainement en un temps record !"
 
 # game/v10/scene4.rpy:74
 translate empty v9_ryan_v_perry_fight_bed436de:
@@ -126,7 +126,7 @@ translate francais v9_ryan_v_perry_fight_0e07d8ca:
 translate francais v9_ryan_v_perry_fight_4a6f411d:
 
     # jo "Anyways, looks like we have a winner everyone! Most likely in record time!"
-    jo "Quoi qu'il en soit, on dirait que nous avons un gagnant ! Et très probablement en un temps record !"
+    jo "Quoi qu'il en soit, on dirait que nous avons un gagnant ! Et très certainement en un temps record !"
 
 # game/v10/scene4.rpy:75
 translate francais v9_ryan_v_perry_fight_bed436de:

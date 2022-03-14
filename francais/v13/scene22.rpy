@@ -202,7 +202,7 @@ translate francais v13s22_1b1f9b2c:
 translate francais v13s22_4ee6187b:
 
     # ri "I probably shouldn't have been so serious about the picture, but I think I just felt more disrespected than embarrassed."
-    ri "Je n'aurais probablement pas dû être si sérieuse au sujet de la photo, mais je pense que je me suis sentie plus méprisée que gênée."
+    ri "Je n'aurais pas dû être si sérieuse au sujet de la photo, mais je pense que je me suis sentie plus méprisée que gênée."
 
 # game/v13/scene22.rpy:179
 translate francais v13s22_5180fa8a:

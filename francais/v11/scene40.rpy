@@ -376,7 +376,7 @@ translate francais v11_carriage_ride_15fe988e:
 translate francais v11_carriage_ride_3ddff3de:
 
     # no "Probably a lot."
-    no "Probablement beaucoup."
+    no "Beaucoup, non ?"
 
 # game/v11/scene40.rpy:368
 translate francais v11_carriage_ride_9d761e39:
@@ -796,7 +796,7 @@ translate francais v11_carriage_ride_fa133447:
 translate francais v11_carriage_ride_77e9d883:
 
     # cl "*Whisper* Probably need some dick since Chris hasn't given you any lately."
-    cl "*Chuchote* Tu as probablement besoin d'une bite puisque Chris ne t'en a pas donné depuis un moment."
+    cl "*Chuchote* Tu dois avoir besoin d'une bite puisque Chris ne t'en a pas donné depuis un moment."
 
 # game/v11/scene40.rpy:719
 translate francais v11_carriage_ride_ee635547:

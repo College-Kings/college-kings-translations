@@ -364,7 +364,7 @@ translate francais cp_bd_790e2e2e:
 translate francais conl_c25cb717:
 
     # u "I'm not sure if I told you, but when I got punched in the face at the party, I was actually talking to the most beautiful girl I've seen in... probably my entire life."
-    u "Je ne sais pas si je te l'ai dit, mais quand je me suis fait frapper au visage à la soirée, j'étais en train de parler à la plus belle fille que j'ai vu depuis... probablement toute ma vie."
+    u "Je ne sais pas si je te l'ai dit, mais quand je me suis fait frapper au visage à la soirée, j'étais en train de parler à la plus belle fille que j'ai vu depuis... de toute ma vie, je crois."
 
 # game/v3/v3.rpy:342
 translate francais conl_77f1b168:
@@ -670,7 +670,7 @@ translate francais cr_bd_46f3ea6c:
 translate francais cr_bd_300d327b:
 
     # cl "Yeah, we should probably get out of here."
-    cl "Ouais, on devrait probablement sortir d'ici."
+    cl "Ouais, on devrait sortir d'ici."
 
 # game/v3/v3.rpy:747
 translate francais cr_bd_fc93144e:
@@ -1288,7 +1288,7 @@ translate francais cx_ad_e613cabf:
 translate francais repeatk_58d01580:
 
     # u "(I should probably check my phone.)"
-    u "(Je devrais probablement vérifier mon téléphone.)"
+    u "(Je devrais vérifier mon téléphone.)"
 
 # game/v3/v3.rpy:1403
 translate francais repeatk_54591f14:
@@ -1474,7 +1474,7 @@ translate francais talkedout_9ea2f78c:
 translate francais repeatl_58d01580:
 
     # u "(I should probably check my phone.)"
-    u "(Je devrais probablement vérifier mon téléphone.)"
+    u "(Je devrais vérifier mon téléphone.)"
 
 # game/v3/v3.rpy:1600
 translate francais repeatl_54591f14:
@@ -1726,7 +1726,7 @@ translate francais v3_nsfwSkipLabel1_85eeb4bf:
 translate francais repeatm_58d01580:
 
     # u "(I should probably check my phone.)"
-    u "(Je devrais probablement vérifier mon téléphone.)"
+    u "(Je devrais vérifier mon téléphone.)"
 
 # game/v3/v3.rpy:1857
 translate francais repeatm_54591f14:
@@ -3028,7 +3028,7 @@ translate francais df_bd_d7cdc824:
 translate francais dj_bd_f0d156c9:
 
     # ri "You know, Ryan is probably waiting for me to come back. Are you sure you wanna leave?"
-    ri "Tu sais, Ryan attend probablement que je revienne. Tu es sûr de vouloir partir ?"
+    ri "Tu sais, Ryan attend sûrement que je revienne. Tu es sûr de vouloir partir ?"
 
 # game/v3/v3.rpy:3127
 translate francais dj_bd_93c85a33:
@@ -3112,7 +3112,7 @@ translate francais dj_bd_bb9f8bdf:
 translate francais dj_bd_c1711764:
 
     # u "(Lauren values honesty and we're not in a relationship yet, so she'll probably be understanding as long as I tell her the truth.)"
-    u "(Lauren apprécie l'honnêteté et nous ne sommes pas encore en couple, donc elle sera probablement compréhensive tant que je lui dirai la vérité.)"
+    u "(Lauren apprécie l'honnêteté et nous ne sommes pas encore en couple, elle sera donc sûrement compréhensive tant que je lui dirai la vérité.)"
 
 # game/v3/v3.rpy:3207
 translate francais dj_bd_9f9ae56b:

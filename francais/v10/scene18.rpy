@@ -244,7 +244,7 @@ translate francais v10_call_with_lauren2_fc00b03f:
 translate francais v10_call_with_lauren2_be3f26fc:
 
     # la "Thanks, I guess. Yeah, you’re probably right. I don’t know. I think it’s about finding a balance."
-    la "Merci, je pense. Ouais, tu as probablement raison. Je ne sais pas. Je pense qu'il s'agit de trouver un équilibre."
+    la "Merci, je pense. Ouais, tu dois avoir raison. Je ne sais pas. Je pense qu'il s'agit de trouver un équilibre."
 
 # game/v10/scene18.rpy:212
 translate francais v10_call_with_lauren2_996d5275:
@@ -658,7 +658,7 @@ translate francais v10_call_with_lauren2_fc00b03f_1:
 translate francais v10_call_with_lauren2_be3f26fc_1:
 
     # la "Thanks, I guess. Yeah, you’re probably right. I don’t know. I think it’s about finding a balance."
-    la "Merci, je crois. Ouais, tu as probablement raison. Je ne sais pas. Je pense qu'il s'agit de trouver un équilibre."
+    la "Merci, je crois. Ouais, tu dois avoir raison. Je ne sais pas. Je pense qu'il s'agit de trouver un équilibre."
 
 # game/v10/scene18.rpy:567
 translate francais v10_call_with_lauren2_996d5275_1:
@@ -952,7 +952,7 @@ translate francais v10_call_with_lauren2_ef55f80c:
 translate francais v10_call_with_lauren2_e259bc54:
 
     # la "Thanks, I guess. Yeah, you're probably right. I don't know. I think it's about finding a balance."
-    la "Merci, je crois. Ouais, tu as probablement raison. Je ne sais pas. Je pense qu'il s'agit de trouver un équilibre."
+    la "Merci, je crois. Ouais, tu dois avoir raison. Je ne sais pas. Je pense qu'il s'agit de trouver un équilibre."
 
 # game/v10/scene18.rpy:212
 translate francais v10_call_with_lauren2_41aee1b9:
@@ -1126,7 +1126,7 @@ translate francais v10_call_with_lauren2_ef55f80c_1:
 translate francais v10_call_with_lauren2_e259bc54_1:
 
     # la "Thanks, I guess. Yeah, you're probably right. I don't know. I think it's about finding a balance."
-    la "Merci, je crois. Ouais, tu as probablement raison. Je ne sais pas. Je pense qu'il s'agit de trouver un équilibre."
+    la "Merci, je crois. Ouais, tu dois avoir raison. Je ne sais pas. Je pense qu'il s'agit de trouver un équilibre."
 
 # game/v10/scene18.rpy:567
 translate francais v10_call_with_lauren2_41aee1b9_1:

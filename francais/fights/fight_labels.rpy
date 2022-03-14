@@ -58,4 +58,4 @@ translate francais fight_tutorialLabel_472c2aed:
 translate francais fight_tutorialLabel_bf9a21c1:
 
     # tut "Since Tom has his guard up and could probably block both a jab and a hook, try to kick him by pressing {b}[r!u]{/b} in the upcoming screen."
-    tut "Puisque Tom a sa garde et pourrait probablement bloquer à la fois un direct et un crochet, essaye de le frapper en appuyant sur {b}[r!u]{/b} dans l'écran à venir."
+    tut "Puisque Tom a sa garde et pourrait bloquer à la fois un direct et un crochet, essaye de le frapper en appuyant sur {b}[r!u]{/b} dans l'écran à venir."

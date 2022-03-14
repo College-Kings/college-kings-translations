@@ -490,7 +490,7 @@ translate francais v9_fri_training_w_wolves_b0bdd914:
 translate francais v9_fri_training_w_wolves_499c71d6:
 
     # ch "I know you're probably replaying what happened over and over, but we're gonna get you out of your head."
-    ch "Je sais que tu es probablement en train de te repasser en boucle ce qui s'est passé, mais on va te faire sortir ça de la tête."
+    ch "Je sais que tu dois être en train de te repasser en boucle ce qui s'est passé, mais on va te faire sortir ça de la tête."
 
 # game/v9/scene26.rpy:439
 translate francais v9_fri_training_w_wolves_9081414b:

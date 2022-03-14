@@ -220,7 +220,7 @@ translate francais v10_cafe_w_jenny_7fa80cbb:
 translate francais v10_cafe_w_jenny_2b320b75:
 
     # u "Penelope always puts others before herself, even if you knew and tried to stop her, she probably still would've done it."
-    u "Pénélope fait toujours passer les autres avant elle, même si tu le savais et que tu essayais de l'arrêter, elle l'aurait probablement fait quand même."
+    u "Pénélope fait toujours passer les autres avant elle, même si tu le savais et que tu essayais de l'arrêter, elle l'aurait certainement fait quand même."
 
 # game/v10/scene22.rpy:178
 translate francais v10_cafe_w_jenny_fa66cd59:
@@ -442,7 +442,7 @@ translate francais v10_cafe_w_jenny_15605641:
 translate francais v10_cafe_w_jenny_462a62d6:
 
     # u "Knowing you, you'd probably find another stranger to introduce yourself to."
-    u "Te connaissant, tu trouverais probablement un autre étranger à qui te confier."
+    u "Te connaissant, tu trouverais sûrement un autre étranger à qui te confier."
 
 # game/v10/scene22.rpy:359
 translate francais v10_cafe_w_jenny_3640588b:
@@ -592,7 +592,7 @@ translate francais v10_cafe_w_jenny_ad44bbfe:
 translate francais v10_cafe_w_jenny_7e730669:
 
     # jen "I'll probably talk to Penelope later tonight."
-    jen "Je vais probablement parler à Pénélope plus tard ce soir."
+    jen "Je pense que je parlerai à Pénélope plus tard ce soir."
 
 # game/v10/scene22.rpy:481
 translate francais v10_cafe_w_jenny_45918ba4:
@@ -640,7 +640,7 @@ translate francais v10_cafe_w_jenny_4b3a0616:
 translate francais v10_cafe_w_jenny_a7ae71de:
 
     # u "Yeah I should probably explain, I thought it'd be best if we all uhm... talked about the situation and laid everything out in the open."
-    u "Oui, je devrais probablement expliquer, j'ai pensé que ce serait mieux si nous, euh... parlions de la situation et que nous mettions tout à plat."
+    u "Oui, je devrais expliquer, j'ai pensé que ce serait mieux si nous, euh... parlions de la situation et que nous mettions tout à plat."
 
 # game/v10/scene22.rpy:528
 translate francais v10_cafe_w_jenny_d1e85928:
@@ -868,7 +868,7 @@ translate francais v10_cafe_w_jenny_f38bad68_1:
 translate francais v10_cafe_w_jenny_182b03b7:
 
     # pe "Thank you guys. That probably would help a lot."
-    pe "Merci les amis. Cela m'aiderait probablement beaucoup."
+    pe "Merci les amis. Ça m'aiderait certainement beaucoup."
 
 # game/v10/scene22.rpy:690
 translate francais v10_cafe_w_jenny_0dc97819:

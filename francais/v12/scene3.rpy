@@ -10,7 +10,7 @@ translate francais v12_penelope_roof_8ac7517f:
 translate francais v12_penelope_roof_text_3faef724:
 
     # u "(I should probably reply.)"
-    u "(Je devrais probablement répondre.)"
+    u "(Je devrais répondre.)"
 
 # game/v12/scene3.rpy:47
 translate francais v12_penelope_roof_text_0336fa14:

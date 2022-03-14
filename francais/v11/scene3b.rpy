@@ -142,7 +142,7 @@ translate francais v11_cafe_with_riley_bfaa40a4:
 translate francais v11_cafe_with_riley_b2109baa:
 
     # u "Haha, I'm just messing with you. It's really not that bad. You probably won't even notice we're moving."
-    u "Haha, je me moque juste de toi. C'est vraiment pas si mal. Tu ne remarqueras probablement même pas que nous nous déplaçons."
+    u "Haha, je me moque juste de toi. C'est vraiment pas si mal. Tu ne remarqueras même pas que nous nous déplaçons."
 
 # game/v11/scene3b.rpy:145
 translate francais v11_cafe_with_riley_fe691d49:
@@ -160,7 +160,7 @@ translate francais v11_cafe_with_riley_d483f6a8:
 translate francais v11_cafe_with_riley_da8ea1c2:
 
     # u "Just download some movies on your phone to watch and for most of it, you'll probably be asleep anyway... You really have nothing to worry about."
-    u "Il suffit de télécharger quelques films sur ton téléphone pour les regarder et pour la plupart du temps, tu seras probablement endormie de toute façon... Tu n'as vraiment pas à t'inquiéter."
+    u "Il suffit de télécharger quelques films sur ton téléphone pour les regarder et pour la plupart du temps, tu seras sûrement endormie de toute façon... Tu n'as vraiment pas à t'inquiéter."
 
 # game/v11/scene3b.rpy:152
 translate francais v11_cafe_with_riley_0473c8f4:
@@ -226,7 +226,7 @@ translate francais v11_cafe_with_riley_bdc341b1:
 translate francais v11_cafe_with_riley_4b3eb010:
 
     # u "*Laughs* Yeah, talking to Amber about your fears probably wasn't a good idea. If I had never flown before and talked to Amber before my first time, I'd be nervous too. She has that kind of power."
-    u "*Rire* Ouais, parler à Amber de tes peurs n'était probablement pas une bonne idée. Si je n'avais jamais pris l'avion et que j'avais parlé à Amber avant ma première fois, j'aurais été nerveux aussi. Elle a ce genre de pouvoir."
+    u "*Rire* Ouais, parler à Amber de tes peurs n'était certainement pas une bonne idée. Si je n'avais jamais pris l'avion et que j'avais parlé à Amber avant ma première fois, j'aurais été nerveux aussi. Elle a ce genre de pouvoir."
 
 # game/v11/scene3b.rpy:204
 translate francais v11_cafe_with_riley_17ced004:
@@ -286,7 +286,7 @@ translate francais v11_cafe_with_riley_736c6c0f:
 translate francais v11_cafe_with_riley_6400f3c1:
 
     # u "Well, it's safe and probably more stressful than an actual plane ride."
-    u "Eh ben, c'est sans danger et probablement plus stressant qu'un vrai voyage en avion."
+    u "Eh ben, c'est sans danger et sûrement plus stressant qu'un vrai voyage en avion."
 
 # game/v11/scene3b.rpy:254
 translate francais v11_cafe_with_riley_a6581dea:

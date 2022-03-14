@@ -472,7 +472,7 @@ translate francais dq_bd_979ff76c:
 translate francais continuev_d672b706:
 
     # ri "It's getting quite late, I should probably head back to my dorm."
-    ri "Il se fait assez tard, je devrais probablement retourner à mon dortoir."
+    ri "Il se fait assez tard, je devrais retourner à mon dortoir."
 
 # game/v4/v4.rpy:441
 translate francais continuev_b2c7615a:
@@ -1036,7 +1036,7 @@ translate francais jucon2_c468fbd4:
 translate francais jucon2_873da541:
 
     # u "(Chloe would probably love this volleyball.)"
-    u "(Chloé adorerait probablement ce ballon de volley.)"
+    u "(Je pense que Chloé adorera ce ballon de volley.)"
 
 # game/v4/v4.rpy:983
 translate francais jucon2_fa9a4ce8:
@@ -1054,7 +1054,7 @@ translate francais jucon2_a858ee3d:
 translate francais jucon2_056e1a90:
 
     # u "(I should probably talk to her about what Ryan said first and clear things up.)"
-    u "(Je devrais probablement lui parler de ce que Ryan a dit en premier et clarifier les choses.)"
+    u "(Je pense que je devrais lui parler de ce que Ryan a dit en premier et clarifier les choses.)"
 
 # game/v4/v4.rpy:998
 translate francais dv_cd_fe0c7159:
@@ -1528,7 +1528,7 @@ translate francais autumnsita_1c84fe15:
 translate francais autumnsita_276728c9:
 
     # u "I should probably start reading now, I have a lot to get through."
-    u "Je devrais probablement commencer à lire maintenant, j'ai beaucoup de choses à faire."
+    u "Je crois que je devrais commencer à lire maintenant, j'ai beaucoup de choses à faire."
 
 # game/v4/v4.rpy:1444
 translate francais autumnsita_f86d900a:
@@ -1900,7 +1900,7 @@ translate francais ed_bd_7d635033:
 translate francais ed_bd_2f9e054b:
 
     # u "Uhm, I should probably get going. Good to see you."
-    u "Euh, je devrais probablement y aller. Content de t'avoir vu."
+    u "Euh, je devrais y aller. Content de t'avoir vu."
 
 # game/v4/v4.rpy:1829
 translate francais ed_bd_1adae1c1_1:
@@ -1960,7 +1960,7 @@ translate francais eg_b_1dca0bec:
 translate francais eg_b_40fb7627:
 
     # u "(Oh, Penelope's here, I should probably say hi.)"
-    u "(Oh, Pénélope est là, je devrais probablement la saluer.)"
+    u "(Oh, Pénélope est là, je devrais aller la saluer.)"
 
 # game/v4/v4.rpy:1874
 translate francais eg_b_1d6a0cc7:
@@ -2296,7 +2296,7 @@ translate francais el_ad_441977bc:
 translate francais phonew_e80c8a11:
 
     # u "(I should probably reply to my messages.)"
-    u "(Je devrais probablement répondre à mes messages.)"
+    u "(Je devrais répondre à mes messages.)"
 
 # game/v4/v4.rpy:2183
 translate francais phonew_e11dc486:
@@ -2956,7 +2956,7 @@ translate francais eu_b_07eb5d33:
 translate francais eu_b_59dbc30c:
 
     # cl "Because if I was using you, I would probably try to seduce you back into trusting me right now."
-    cl "Parce que si je \"t'utilisais\", j'essaierais probablement de te séduire pour que tu me fasses à nouveau confiance, maintenant."
+    cl "Parce que si je \"t'utilisais\", je crois que maintenant, j'essaierais de te séduire pour que tu me fasses à nouveau confiance."
 
 # game/v4/v4.rpy:2948
 translate francais eu_b_1619571b:

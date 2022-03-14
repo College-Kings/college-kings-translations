@@ -160,7 +160,7 @@ translate francais v10_lauren_room_7c8c379b:
 translate francais v10_lauren_room_2146c2b3:
 
     # u "The mud wrestling is Autumn's event right? So that'd probably be a good way for you to get closer with her. *Chuckles*"
-    u "Le combat de boue est l'événement d'Autumn, non ? Donc ce serait probablement un bon moyen pour toi de te rapprocher d'elle. *Rire*"
+    u "Le combat de boue est l'événement d'Autumn, non ? Donc je crois que ce serait un bon moyen pour toi de te rapprocher d'elle. *Rire*"
 
 # game/v10/scene24.rpy:161
 translate francais v10_lauren_room_d8a77a5d:
@@ -394,7 +394,7 @@ translate francais v10s24_nsfwSkipLabel1_646699cb:
 translate francais v10s24_nsfwSkipLabel1_7345fe11:
 
     # la "You think I'd be good, haha. You probably just wanna see me in a bikini."
-    la "Tu penses que je serais bien, haha. Tu veux probablement juste me voir en bikini."
+    la "Tu penses que je serais bien, haha. En fait, tu veux juste me voir en bikini."
 
 # game/v10/scene24.rpy:437
 translate francais v10s24_nsfwSkipLabel1_bb294e26:
@@ -466,7 +466,7 @@ translate francais v10s24_nsfwSkipLabel1_a7fe14b5:
 translate francais v10s24_nsfwSkipLabel1_505dd985:
 
     # u "Hey, maybe it'll draw more customers. Imre probably wouldn't go to a bake sale."
-    u "Hé, peut-être que ça va attirer plus de clients. Imre n'irait probablement pas à une vente de gâteaux."
+    u "Hé, peut-être que ça va attirer plus de clients. Imre n'irait sûrement pas à une vente de gâteaux."
 
 # game/v10/scene24.rpy:479
 translate francais v10s24_nsfwSkipLabel1_a22fcd29:

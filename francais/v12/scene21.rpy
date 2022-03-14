@@ -328,7 +328,7 @@ translate francais v12_nora_exploring_9e671536:
 translate francais v12_nora_exploring_4bf45e0c:
 
     # no "*Scoffs* Look lady, it's obvious that you're homeless and probably just need some help."
-    no "*Pffff* Ecoutez madame, il est évident que vous êtes sans abri et que vous avez probablement juste besoin d'aide."
+    no "*Pffff* Ecoutez madame, il est évident que vous êtes sans abri et que vous avez apparemment juste besoin d'aide."
 
 # game/v12/scene21.rpy:331
 translate francais v12_nora_exploring_f2754e90:

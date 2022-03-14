@@ -46,7 +46,7 @@ translate francais v12_riley_room_f158cfe2:
 translate francais v12_riley_room_2cce7c05:
 
     # ri "Probably because he's the one that drank most of these, haha. We all went to sleep and he was up by himself, still drinking..."
-    ri "Probablement parce que c'est lui qui en a bu le plus, haha. Nous sommes tous allés dormir et il était encore debout tout seul, à continuer de boire..."
+    ri "Peut-être parce que c'est lui qui en a bu le plus, haha. Nous sommes tous allés dormir et il était encore debout tout seul, à continuer de boire..."
 
 # game/v12/scene22.rpy:60
 translate francais v12_riley_room_733b0bb4:

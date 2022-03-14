@@ -10,7 +10,7 @@ translate francais after_apes_ceremony_9602eb3b:
 translate francais phn_chloe11_3faef724:
 
     # u "(I should probably reply.)"
-    u "(Je devrais probablement répondre.)"
+    u "(Je devrais répondre.)"
 
 # game/v8/scene13.rpy:64
 translate francais phn_chloe11_07f76765:

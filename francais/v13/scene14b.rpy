@@ -340,7 +340,7 @@ translate francais v13s14b_b7f01c2d:
 translate francais v13s14b_df9c2fc3:
 
     # u "Yeah, I probably should've paid closer attention to her before it got this bad..."
-    u "Ouais, j'aurais probablement dû faire plus attention à elle avant que ça n'aille si mal..."
+    u "Ouais, j'aurais dû faire plus attention à elle avant que ça n'aille si mal..."
 
 # game/v13/scene14b.rpy:361
 translate francais v13s14b_77d4c16e:

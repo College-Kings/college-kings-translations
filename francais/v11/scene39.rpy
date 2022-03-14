@@ -994,7 +994,7 @@ translate francais v11_race_continue3_8350a957:
 translate francais v11_race_continue3_96dcf4fe:
 
     # u "What the fuck is your problem? Who do you think you are talking to her like that? Your ugly ass probably never pleased a girl in his life."
-    u "C'est quoi ton putain de problème ? Pour qui tu te prends à lui parler comme ça ? Avec ta sale gueule, tu n'as probablement jamais satisfait une fille de ta vie."
+    u "C'est quoi ton putain de problème ? Pour qui tu te prends à lui parler comme ça ? Avec ta sale gueule, je suis sûr que t'as jamais satisfait une fille de ta vie."
 
 # game/v11/scene39.rpy:1041
 translate francais v11_race_continue3_abd0e216:

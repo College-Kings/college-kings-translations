@@ -4,7 +4,7 @@
 translate francais v13s15a_e99db1b7:
 
     # u "(Oh shit, she's probably asleep. Gonna have to tiptoe in the dark.)"
-    u "(Oh merde, elle est probablement endormie. Je vais devoir marcher sur la pointe des pieds dans le noir.)"
+    u "(Oh merde, elle doit être endormie. Je vais devoir marcher sur la pointe des pieds dans le noir.)"
 
 # game/v13/scene15a.rpy:34
 translate francais v13s15a_bfb2c4b5:

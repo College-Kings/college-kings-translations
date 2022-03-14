@@ -304,7 +304,7 @@ translate francais v12_valentine_8bfaae1f:
 translate francais v12_valentine_74a83191:
 
     # imre "And it's probably why Rome doesn't exist anymore."
-    imre "Et c'est probablement la raison pour laquelle Rome n'existe plus."
+    imre "Et c'est sûrement pour ça que Rome n'existe plus."
 
 # game/v12/scene16.rpy:308
 translate francais v12_valentine_c8482af8:

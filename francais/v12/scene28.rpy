@@ -40,7 +40,7 @@ translate francais v12_riley_lobby_acabee0f:
 translate francais v12_riley_lobby_21bf17ad:
 
     # u "You should probably consider how you're talking to me right now 'cause whenever you find out what actually happened, you're gonna feel horrible for the way you're treating me."
-    u "Tu devrais probablement réfléchir à la façon dont tu me parles pour le moment, car quand tu sauras ce qui s'est réellement passé, tu te sentiras horriblement mal pour la manière dont tu m'auras traité."
+    u "Je crois que tu devrais réfléchir à la façon dont tu me parles pour le moment, car quand tu sauras ce qui s'est réellement passé, tu te sentiras horriblement mal pour la manière dont tu m'auras traité."
 
 # game/v12/scene28.rpy:52
 translate francais v12_riley_lobby_21bca63d:

@@ -310,7 +310,7 @@ translate francais v11_start_f9b92192:
 translate francais v11_start_f5e2e697:
 
     # u "She's a contribution to this college, likely she could teach us all something."
-    u "Elle est une contribution à cette université, elle pourrait probablement nous apprendre à tous quelque chose."
+    u "Elle est une contribution à cette université, elle pourrait certainement nous apprendre quelque chose à tous."
 
 # game/v11/scene1.rpy:299
 translate francais v11_start_6fad48b6:
@@ -862,7 +862,7 @@ translate francais v11s1_riley_a0e1818c:
 translate francais v11s1_riley_3774cf7b:
 
     # ri "It's probably hard for her to be optimistic at the moment."
-    ri "C'est probablement difficile pour elle d'être optimiste en ce moment."
+    ri "Ça doit être difficile pour elle d'être optimiste en ce moment."
 
 # game/v11/scene1.rpy:819
 translate francais v11s1_riley_bfb8f7f6:

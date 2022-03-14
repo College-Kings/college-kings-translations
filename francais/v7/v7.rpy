@@ -238,7 +238,7 @@ translate francais v7start_831481ac:
 translate francais v7start_c3845f42:
 
     # ch "I told you, we don't discriminate based on prejudices. That's Earl Levington. He was a brain, probably the smartest Wolf we ever had."
-    ch "Je te l'ai dit, nous ne discriminons pas sur la base de préjugés. C'est Earl Levington. C'était un cerveau, probablement le Wolf le plus intelligent que nous ayons jamais eu."
+    ch "Je te l'ai dit, nous ne discriminons pas sur la base de préjugés. C'est Earl Levington. C'était un cerveau, certainement le Wolf le plus intelligent que nous ayons jamais eu."
 
 # game/v7/v7.rpy:245
 translate francais v7start_10e84c19:
@@ -1048,7 +1048,7 @@ translate francais hd_bd_a1776a33:
 translate francais hd_bd_b40bab7f:
 
     # no "Anyway, I think I should probably call it a night. I'm beat."
-    no "Bref, je pense que je devrais probablement appeler ça, une \"assez bonne soirée\", finalement. Mais, je suis crevée."
+    no "Bref, je pense que je devrais finalement appeler ça, une \"assez bonne soirée\", finalement. Mais, je suis crevée."
 
 # game/v7/v7.rpy:944
 translate francais hd_bd_1f269020:
@@ -1426,7 +1426,7 @@ translate francais conrileydorm_a10c952f:
 translate francais conrileydorm_3dd7a06b:
 
     # u "Uhm... I probably shouldn't. It's quite late."
-    u "Euh... Je ne devrais probablement pas. Il est assez tard."
+    u "Euh... Je ne devrais pas. Il est assez tard."
 
 # game/v7/v7.rpy:1326
 translate francais conrileydorm_90981c9c:
@@ -1618,7 +1618,7 @@ translate francais continueee_91f367d7:
 translate francais continueee_ea726239:
 
     # u "(But I should probably stop by Lauren's dorm first and see if we can talk things out... She's still mad at me and it really sucks.)"
-    u "(Mais je devrais probablement m'arrêter au dortoir de Lauren et voir si nous pouvons discuter... Elle est toujours en colère contre moi et ça fait vraiment chier.)"
+    u "(Mais je crois que je devrais m'arrêter au dortoir de Lauren et voir si nous pouvons discuter... Elle est toujours en colère contre moi et ça fait vraiment chier.)"
 
 # game/v7/v7.rpy:1554
 translate francais continueee_774640e7:
@@ -1726,7 +1726,7 @@ translate francais phonean_a4b59a4d:
 translate francais phonean_ea726239:
 
     # u "(But I should probably stop by Lauren's dorm first and see if we can talk things out... She's still mad at me and it really sucks.)"
-    u "(Mais je devrais probablement m'arrêter au dortoir de Lauren et voir si nous pouvons discuter… Elle est toujours en colère contre moi et ça fait vraiment chier.)"
+    u "(Mais je crois que je devrais m'arrêter au dortoir de Lauren et voir si nous pouvons discuter… Elle est toujours en colère contre moi et ça fait vraiment chier.)"
 
 # game/v7/v7.rpy:1669
 translate francais apologylauren_4f1997c1:
@@ -2716,7 +2716,7 @@ translate francais thisbewalk_9ea2f78c:
 translate francais phoneao_3faef724:
 
     # u "(I should probably reply.)"
-    u "(Je devrais probablement répondre.)"
+    u "(Je devrais répondre.)"
 
 # game/v7/v7.rpy:2592
 translate francais phoneao_5368266c:
@@ -3106,7 +3106,7 @@ translate francais beachlauren_8a9991c7:
 translate francais beachlauren_606a2cfb:
 
     # la "Sun is going to go down soon. We should probably get going."
-    la "Le soleil va bientôt se coucher. Nous devrions probablement y aller."
+    la "Le soleil va bientôt se coucher. Nous devrions y aller."
 
 # game/v7/v7.rpy:2978
 translate francais beachlauren_edb35f7c:
@@ -3508,7 +3508,7 @@ translate francais beachlauren_7099550b:
 translate francais beachlauren_606a2cfb_1:
 
     # la "Sun is going to go down soon. We should probably get going."
-    la "Le soleil va bientôt se coucher. Nous devrions probablement y aller."
+    la "Le soleil va bientôt se coucher. Nous devrions y aller."
 
 # game/v7/v7.rpy:3360
 translate francais beachlauren_edb35f7c_1:
@@ -6729,7 +6729,7 @@ translate francais history_class_81674182:
 translate francais history_class_8b2a2101:
 
     # imre "Probably does hahaha."
-    imre "Probablement qu'il en a un hahaha."
+    imre "Il en a sûrement un hahaha."
 
 # game/v7/v7.rpy:5861
 translate francais history_class_8afdb2bc:
@@ -7173,13 +7173,13 @@ translate francais pen_after_history_514a4a13:
 translate francais pen_after_history_a3bd9a06:
 
     # pe "I'm glad you ended up with this costume."
-    pe "Je suis content que tu aies fini avec ce costume."
+    pe "Je suis contente d'en avoir fini avec ce costume."
 
 # game/v7/v7.rpy:6191
 translate francais pen_after_history_12050662:
 
     # pe "It looks good on you and we're totally matching eras! *laugh*"
-    pe "Cela te va bien et nous sommes totalement en phase avec les époques ! *rire*"
+    pe "Le tien te va bien et nous sommes totalement en phase avec les époques ! *rire*"
 
 # game/v7/v7.rpy:6195
 translate francais pen_after_history_d2ea4b3a:
@@ -7221,7 +7221,7 @@ translate francais pen_after_history_21db3a6e:
 translate francais pen_after_history_9eedd6fe:
 
     # pe "Well, it was good talking to you. Maybe we'll hang out soon."
-    pe "Eh bien, c'était bon de parler avec toi. Peut-être qu'on se verra bientôt."
+    pe "Eh bien, c'était sympa de parler avec toi. Peut-être qu'on se verra bientôt."
 
 # game/v7/v7.rpy:6224
 translate francais pen_after_history_d5436f6e:
@@ -8385,7 +8385,7 @@ translate francais hc_asking_riley_61adf534:
 translate francais hc_asking_riley_868573e1:
 
     # ri "I mean, you could probably go with us if you want?"
-    ri "Je veux dire, tu pourrais probablement venir avec nous si tu veux ?"
+    ri "Tu pourrais venir avec nous si tu veux ?"
 
 # game/v7/v7.rpy:7237
 translate francais hc_asking_riley_58cd792c:
@@ -8439,7 +8439,7 @@ translate francais suit_rental_647b8a06:
 translate francais suit_rental_a4800917:
 
     # u "(Well that didn't take as long as expected.)"
-    u "(Eh bien, ça n'a pas duré aussi longtemps que prévu.)"
+    u "(Eh bien, ça a été plus rapide que prévu.)"
 
 # game/v7/v7.rpy:7298
 translate francais thurs_night_dorm_02f13906:
@@ -9111,7 +9111,7 @@ translate francais av_no_sam_dce90feb:
 translate francais av_mc_dorm_0e2994fa:
 
     # u "I should probably get some sleep."
-    u "Je devrais probablement dormir un peu."
+    u "Je devrais dormir un peu."
 
 # game/v7/v7.rpy:8103
 translate francais wolves_ceremony_627bb0c9:
@@ -9219,7 +9219,7 @@ translate francais wolves_ceremony_46cacd18:
 translate francais wolves_ceremony_3268b10d:
 
     # ch "Imre, this was much expected from you, no offense to anyone! But if you didn't already know that Imre's brother is a double time legend here at the Wolves, then it is no surprise that Imre came in first in the challenges."
-    ch "Imre, on s'attendait à ça de ta part, sans vouloir offenser personne ! Mais si vous ne saviez pas déjà que le frère d'Imre est une double légende ici chez les Loups, alors il n'est pas surprenant qu'Imre soit arrivé premier dans les épreuves."
+    ch "Imre, on s'attendait à ça de ta part, sans vouloir offenser personne ! Mais si vous ne saviez pas déjà que le frère d'Imre est une double légende ici chez les Wolves, alors il n'est pas surprenant qu'Imre soit arrivé premier dans les épreuves."
 
 # game/v7/v7.rpy:8302
 translate francais wolves_ceremony_ac4e6c3a:
@@ -9807,7 +9807,7 @@ translate francais wolves_ceremony_bceb4588:
 translate francais wolves_ceremony_0e2994fa:
 
     # u "I should probably get some sleep."
-    u "Je devrais probablement dormir un peu."
+    u "Je devrais dormir un peu."
 
 # game/v7/v7.rpy:8939
 translate francais rileytext_9ea2f78c:
@@ -10101,7 +10101,7 @@ translate francais signs_with_autumn_9ea2f78c:
 translate francais phoneba_9daaa724:
 
     # u "(I should probably check my messages.)"
-    u "(Je devrais probablement vérifier mes messages.)"
+    u "(Je devrais vérifier mes messages.)"
 
 # game/v7/v7.rpy:9308
 translate francais phoneba_38f45bc6:
@@ -10113,7 +10113,7 @@ translate francais phoneba_38f45bc6:
 translate francais phoneba_5af79d99:
 
     # u "(I should probably get going right away.)"
-    u "(Je devrais probablement y aller tout de suite.)"
+    u "(Je devrais y aller tout de suite.)"
 
 # game/v7/v7.rpy:9316
 translate francais phoneba_4f1997c1:
@@ -10521,7 +10521,7 @@ translate francais walking_through_hallways_e6f483f0:
 translate francais walking_through_hallways_0c0681a5:
 
     # u "(Probably should get going to Amber's soon.)"
-    u "(Je devrais probablement aller chez Amber bientôt.)"
+    u "(Je devrais aller chez Amber bientôt.)"
 
 # game/v7/v7.rpy:9723
 translate francais walking_through_hallways_d763b96b:
@@ -10539,7 +10539,7 @@ translate francais walking_through_hallways_b01d6037:
 translate francais walking_through_hallways_b2c0fe8d:
 
     # u "(I should probably start getting my suit on and get ready for homecoming.)"
-    u "(Je devrais probablement commencer à mettre mon costume et me préparer pour le bal.)"
+    u "(Je devrais commencer à mettre mon costume et me préparer pour le bal.)"
 
 # game/v7/v7.rpy:9741
 translate francais walking_through_hallways_9ef914e0:
@@ -14781,7 +14781,7 @@ translate francais fr4nora1_8a2dd219:
 translate francais fr4nora1_eb898241:
 
     # u "I uhm, I'll probably get a drink too."
-    u "Je euh, je vais probablement prendre un verre aussi."
+    u "Je euh, je crois que je vais prendre un verre aussi."
 
 # game/v7/v7.rpy:14217
 translate francais fr4nora1_0c854566:
@@ -15447,7 +15447,7 @@ translate francais fr4nora2_10c589f0:
 translate francais fr4nora2_3d64dd6c:
 
     # no "I should probably be getting back. I'll see you later."
-    no "Je devrais probablement rentrer. À plus tard."
+    no "Je devrais rentrer. À plus tard."
 
 # game/v7/v7.rpy:14985
 translate francais fr4nora2_03ec2f26:
@@ -15519,7 +15519,7 @@ translate francais fr4nora2_88e99682:
 translate francais fr4nora2_152b72e9:
 
     # no "Oh, well I should probably get back. Bye."
-    no "Oh, eh bien je devrais probablement y retourner. Bye."
+    no "Oh, eh bien je devrais y retourner. Bye."
 
 # game/v7/v7.rpy:15047
 translate francais fr4nora2_d17d4521:
@@ -16341,13 +16341,13 @@ translate francais fr4imre1_3304cb5e:
 translate francais fr4imre1_3b39923f:
 
     # u "(I should probably leave these two alone.)"
-    u "(Je devrais probablement laisser ces deux-là seuls.)"
+    u "(Je devrais laisser ces deux-là seuls.)"
 
 # game/v7/v7.rpy:15927
 translate francais fr4imre1_a20e5adb:
 
     # u "(Ooops, I should probably leave these two alone.)"
-    u "(Oups, je devrais probablement laisser ces deux-là tranquilles.)"
+    u "(Oups, je devrais laisser ces deux-là tranquilles.)"
 
 # game/v7/v7.rpy:15934
 translate francais fr4imre2_56c08a1e:
@@ -16479,7 +16479,7 @@ translate francais fr4penelope1_145180e5:
 translate francais fr4penelope2_5ccf8b2b:
 
     # u "(Penelope's on the phone, so I should probably leave her be.)"
-    u "(Pénélope est au téléphone, donc je devrais probablement la laisser tranquille.)"
+    u "(Pénélope est au téléphone, donc je crois que je devrais la laisser tranquille.)"
 
 # game/v7/v7.rpy:16076
 translate francais fr4chloe22_8b4aabeb:
@@ -16569,19 +16569,19 @@ translate francais fr4chloe22_70a37217:
 translate francais fr4chloe22_8983fcf4:
 
     # u "(I should probably get back to Riley.)"
-    u "(Je devrais probablement retourner avec Riley.)"
+    u "(Je devrais retourner avec Riley.)"
 
 # game/v7/v7.rpy:16153
 translate francais fr4chloe22_0cb4f26a:
 
     # u "(I should probably get back to Lauren.)"
-    u "(Je devrais probablement retourner avec Lauren.)"
+    u "(Je devrais retourner avec Lauren.)"
 
 # game/v7/v7.rpy:16161
 translate francais fr4chloe22_ae9dd4c5:
 
     # u "(I should probably get back to Penelope.)"
-    u "(Je devrais probablement retourner avec Pénélope.)"
+    u "(Je devrais retourner avec Pénélope.)"
 
 # game/v7/v7.rpy:16171
 translate francais fr4chloe22_0a8adcec:
@@ -16977,19 +16977,19 @@ translate francais fr4lockerroomchloe2_70a37217:
 translate francais fr4lockerroomchloe2_8983fcf4:
 
     # u "(I should probably get back to Riley.)"
-    u "(Je devrais probablement retourner avec Riley.)"
+    u "(Je devrais retourner avec Riley.)"
 
 # game/v7/v7.rpy:16540
 translate francais fr4lockerroomchloe2_0cb4f26a:
 
     # u "(I should probably get back to Lauren.)"
-    u "(Je devrais probablement retourner avec Lauren.)"
+    u "(Je devrais retourner avec Lauren.)"
 
 # game/v7/v7.rpy:16548
 translate francais fr4lockerroomchloe2_ae9dd4c5:
 
     # u "(I should probably get back to Penelope.)"
-    u "(Je devrais probablement retourner avec Pénélope.)"
+    u "(Je devrais retourner avec Pénélope.)"
 
 # game/v7/v7.rpy:16558
 translate francais fr4lockerroomchloe2_9eca74d9:
@@ -17067,19 +17067,19 @@ translate francais fr4lockerroomchloe2_70a37217_1:
 translate francais fr4lockerroomchloe2_8983fcf4_1:
 
     # u "(I should probably get back to Riley.)"
-    u "(Je devrais probablement retourner avec Riley.)"
+    u "(Je devrais retourner avec Riley.)"
 
 # game/v7/v7.rpy:16633
 translate francais fr4lockerroomchloe2_0cb4f26a_1:
 
     # u "(I should probably get back to Lauren.)"
-    u "(Je devrais probablement retourner avec Lauren.)"
+    u "(Je devrais retourner avec Lauren.)"
 
 # game/v7/v7.rpy:16641
 translate francais fr4lockerroomchloe2_ae9dd4c5_1:
 
     # u "(I should probably get back to Penelope.)"
-    u "(Je devrais probablement retourner avec Pénélope.)"
+    u "(Je devrais retourner avec Pénélope.)"
 
 # game/v7/v7.rpy:16655
 translate francais fr4lockerroomchloe2_110ec82b:
@@ -17589,7 +17589,7 @@ translate francais fr4laurenending_210a220e:
 translate francais fr4laurenending_6c51acdc:
 
     # u "Oh yeah... I should probably go..."
-    u "Oh ouais... je devrais probablement y aller..."
+    u "Oh ouais... je devrais y aller..."
 
 # game/v7/v7.rpy:17106
 translate francais fr4laurenending_01c5f094:
@@ -18712,7 +18712,7 @@ translate francais v7_nsfwSkipLabel4_7a287347:
 translate francais wolves_ceremony_0c87de65:
 
     # ch "That's all you. Now [name] out of everyone proved he is most qualified to be a Wolf. He proved his loyalty, his determination, but overall, he proved himself over everyone else."
-    ch "C'est tout toi. Maintenant, [name] a prouvé qu'il était le plus qualifié pour être un loup.{w} Il a prouvé sa loyauté,{w} sa détermination,{w} mais dans l'ensemble,{w} il a prouvé qu'il était supérieur{w} à tous les autres."
+    ch "C'est tout toi. Maintenant, [name] a prouvé qu'il était le plus qualifié pour être un Wolf.{w} Il a prouvé sa loyauté,{w} sa détermination,{w} mais dans l'ensemble,{w} il a prouvé qu'il était supérieur{w} à tous les autres."
 
 # game/v7/v7.rpy:8204
 translate francais wolves_ceremony_4992308d:
@@ -19852,19 +19852,19 @@ translate francais fr4chloe2_752bcc8d:
 translate francais fr4chloe2_8983fcf4:
 
     # u "(I should probably get back to Riley.)"
-    u "(Je devrais probablement retourner voir Riley.)"
+    u "(Je devrais retourner voir Riley.)"
 
 # game/v7/v7.rpy:16137
 translate francais fr4chloe2_0cb4f26a:
 
     # u "(I should probably get back to Lauren.)"
-    u "(Je devrais probablement retourner voir Lauren.)"
+    u "(Je devrais retourner voir Lauren.)"
 
 # game/v7/v7.rpy:16145
 translate francais fr4chloe2_ae9dd4c5:
 
     # u "(I should probably get back to Penelope.)"
-    u "(Je devrais probablement retourner voir Pénélope.)"
+    u "(Je devrais retourner voir Pénélope.)"
 
 # game/v7/v7.rpy:16155
 translate francais fr4chloe2_0a8adcec:
@@ -20080,25 +20080,25 @@ translate francais fr4lockerroomchloe_70a37217:
 translate francais fr4lockerroomchloe_8983fcf4:
 
     # u "(I should probably get back to Riley.)"
-    u "(Je devrais probablement retourner voir Riley.)"
+    u "(Je devrais retourner voir Riley.)"
 
 # game/v7/v7.rpy:16528
 translate francais fr4lockerroomchloe_0cb4f26a:
 
     # u "(I should probably get back to Lauren.)"
-    u "(Je devrais probablement retourner voir Lauren.)"
+    u "(Je devrais retourner voir Lauren.)"
 
 # game/v7/v7.rpy:16536
 translate francais fr4lockerroomchloe_ae9dd4c5:
 
     # u "(I should probably get back to Penelope.)"
-    u "(Je devrais probablement retourner voir Pénélope.)"
+    u "(Je devrais retourner voir Pénélope.)"
 
 # game/v7/v7.rpy:16544
 translate francais fr4lockerroomchloe_00fb2689:
 
     # u "(I should probably get back to Emily.)"
-    u "(Je devrais probablement retourner voir Emily.)"
+    u "(Je devrais retourner voir Emily.)"
 
 # game/v7/v7.rpy:16553
 translate francais fr4lockerroomchloe_9eca74d9:
@@ -20170,25 +20170,25 @@ translate francais fr4lockerroomchloe_752bcc8d:
 translate francais fr4lockerroomchloe_8983fcf4_1:
 
     # u "(I should probably get back to Riley.)"
-    u "(Je devrais probablement retourner voir Riley.)"
+    u "(Je devrais retourner voir Riley.)"
 
 # game/v7/v7.rpy:16617
 translate francais fr4lockerroomchloe_0cb4f26a_1:
 
     # u "(I should probably get back to Lauren.)"
-    u "(Je devrais probablement retourner voir Lauren.)"
+    u "(Je devrais retourner voir Lauren.)"
 
 # game/v7/v7.rpy:16622
 translate francais fr4lockerroomchloe_ae9dd4c5_1:
 
     # u "(I should probably get back to Penelope.)"
-    u "(Je devrais probablement retourner voir Pénélope.)"
+    u "(Je devrais retourner voir Pénélope.)"
 
 # game/v7/v7.rpy:16627
 translate francais fr4lockerroomchloe_00fb2689_1:
 
     # u "(I should probably get back to Emily.)"
-    u "(Je devrais probablement retourner voir Emily.)"
+    u "(Je devrais retourner voir Emily.)"
 
 # game/v7/v7.rpy:16641
 translate francais fr4lockerroomchloe_110ec82b:
@@ -20765,7 +20765,7 @@ translate francais wolves_ceremony_2_883cff4b:
 translate francais wolves_ceremony_2_5a6f11d4:
 
     # imre "Remember meeting the first day?"
-    imre "Tu t'souviens d'notre rencontre du premier jour ?"
+    imre "Tu t'souviens d'notre rencontre le premier jour ?"
 
 # game/v7/v7.rpy:8811
 translate francais wolves_ceremony_2_681cdbbb:
@@ -20795,7 +20795,7 @@ translate francais wolves_ceremony_2_06eb471a:
 translate francais wolves_ceremony_2_dd3894ec:
 
     # u "A what?"
-    u "Un quoi ?"
+    u "Un peu quoi ?"
 
 # game/v7/v7.rpy:8836
 translate francais wolves_ceremony_2_746c996e:
@@ -20837,7 +20837,7 @@ translate francais wolves_ceremony_2_bceb4588:
 translate francais wolves_ceremony_2_0e2994fa:
 
     # u "I should probably get some sleep."
-    u "Je devrais aller dormir un peu."
+    u "Je devrais essayer de dormir un peu."
 
 # game/v7/v7.rpy:9305
 translate francais phoneba_3970a544:

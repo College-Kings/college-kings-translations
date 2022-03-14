@@ -100,13 +100,13 @@ translate francais v11wakeupa_1ff25c8b:
 translate francais v11wakeupa_c102d605:
 
     # cl "I'm trying to finish unpacking. Something I haven't had a chance to do somehow, ha."
-    cl "J'essaie de finir de déballer. Quelque chose que je n'ai pas eu l'occasion de faire pour le moment, ha."
+    cl "J'essaie de finir de déballer. Quelque chose que je n'ai pas encore eu l'occasion de faire."
 
 # game/v11/scene29.rpy:141
 translate francais v11wakeupa_27fb5e9a:
 
     # u "Probably because you brought a house's worth of stuff. Here, let me help you."
-    u "Probablement parce que tu as apporté une tonne de vêtements et affaires de toilette. Laisse-moi t'aider."
+    u "Sûrement parce que tu as apporté une tonne de vêtements et affaires de toilette. Laisse-moi t'aider."
 
 # game/v11/scene29.rpy:147
 translate francais v11wakeupa_7173d5ab:

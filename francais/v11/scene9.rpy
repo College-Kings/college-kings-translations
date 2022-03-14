@@ -370,7 +370,7 @@ translate francais v11_apes_manhunt_20442b36:
 translate francais v11_apes_manhunt_733127fe:
 
     # u "(They're probably still too close for me to stop and hide.)"
-    u "(Ils sont probablement encore trop proches pour que je puisse m'arrêter et me cacher.)"
+    u "(Ils sont sûrement encore trop proches pour que je puisse m'arrêter et me cacher.)"
 
 # game/v11/scene9.rpy:444
 translate francais v11_apes_manhunt_d3c64ade:

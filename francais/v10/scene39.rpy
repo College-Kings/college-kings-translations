@@ -316,7 +316,7 @@ translate francais v10_riley_walk_00a9a97e:
 translate francais v10_riley_walk_eaaa1226:
 
     # ri "Wait, all of them did kinda look alike. I wonder if they were brothers. Jackson was probably their last name."
-    ri "Attends, ils se ressemblent tous un peu. Je me demande s'ils étaient frères. Jackson était probablement leur nom de famille."
+    ri "Attends, ils se ressemblent tous un peu. Je me demande s'ils étaient frères. Jackson était sûrement leur nom de famille."
 
 # game/v10/scene39.rpy:283
 translate francais v10_riley_walk_b0462104:

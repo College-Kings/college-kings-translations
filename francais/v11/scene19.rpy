@@ -70,7 +70,7 @@ translate francais v11_roommate_ce0c0c9a:
 translate francais v11_roommate_541a28c4:
 
     # cl "Haha. Me? Boring? I should be saying that about you. You're probably ready to go straight to sleep."
-    cl "Haha. Moi ? Ennuyeuse ? Je devrais dire ça de toi. Tu es probablement prêt à aller directement au lit."
+    cl "Haha. Moi ? Ennuyeuse ? Je devrais dire ça de toi. Je suis sûre que tu vas aller te coucher tout de suite."
 
 # game/v11/scene19.rpy:118
 translate francais v11_roommate_637cb865:
@@ -160,7 +160,7 @@ translate francais v11_roommate_ce0c0c9a_1:
 translate francais v11_roommate_541a28c4_1:
 
     # cl "Haha. Me? Boring? I should be saying that about you. You're probably ready to go straight to sleep."
-    cl "Haha. Moi ? Ennuyeuse ? Je devrais dire ça de toi. Tu es probablement prêt à aller directement au lit."
+    cl "Haha. Moi ? Ennuyeuse ? Je devrais dire ça de toi. Je suis sûre que tu vas aller te coucher tout de suite."
 
 # game/v11/scene19.rpy:229
 translate francais v11_roommate_637cb865_1:
@@ -382,7 +382,7 @@ translate francais v11_roommate_1c24a2ab:
 translate francais v11_roommate_169dda91:
 
     # ri "Here's the key, I asked for an extra one because I'll probably end up losing mine."
-    ri "Voici ta clé, j'en ai demandé une supplémentaire parce que je vais probablement finir par perdre la mienne."
+    ri "Voici ta clé, j'en ai demandé une supplémentaire parce que je vais sûrement finir par perdre la mienne."
 
 # game/v11/scene19.rpy:509
 translate francais v11_roommate_a630f408:
@@ -574,7 +574,7 @@ translate francais v11_roommate_1c24a2ab_1:
 translate francais v11_roommate_169dda91_1:
 
     # ri "Here's the key, I asked for an extra one because I'll probably end up losing mine."
-    ri "Voici ta clé, j'en ai demandé une supplémentaire parce que je vais probablement finir par perdre la mienne."
+    ri "Voici ta clé, j'en ai demandé une supplémentaire parce que je vais sûrement finir par perdre la mienne."
 
 # game/v11/scene19.rpy:724
 translate francais v11_roommate_a630f408_1:
