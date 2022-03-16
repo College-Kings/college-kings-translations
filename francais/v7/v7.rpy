@@ -13737,7 +13737,7 @@ translate francais fr4laurendate2_98deb391:
 translate francais fr4laurendate2_057acc6a:
 
     # la "Was wondering where my noble steed went? Off having fun?"
-    la "Je me demandais où était passé mon noble destrier ? Parti s'amuser ?"
+    la "Je me demandais où était passé mon noble cavalier ? Parti s'amuser ?"
 
 # game/v7/v7.rpy:13215
 translate francais fr4laurendate2_a8ce2bcc:
@@ -19150,7 +19150,7 @@ translate francais fr4emilydate_85d9d32a:
 translate francais fr4emilydate_ff93ed26:
 
     # u "Look, I'm sorry. Just let me help you."
-    u "Ecoute, je suis désolé. Laisse-moi juste t'aider."
+    u "Écoute, je suis désolé. Laisse-moi juste t'aider."
 
 # game/v7/v7.rpy:13048
 translate francais fr4emilydate_073e7b69:
@@ -19318,7 +19318,7 @@ translate francais fr4laurendate_98deb391:
 translate francais fr4laurendate_057acc6a:
 
     # la "Was wondering where my noble steed went? Off having fun?"
-    la "Je me demandais où était passé mon noble destrier ? Parti s'amuser ?"
+    la "Je me demandais où était passé mon noble cavalier ? Parti s'amuser ?"
 
 # game/v7/v7.rpy:13190
 translate francais fr4laurendate_a8ce2bcc:

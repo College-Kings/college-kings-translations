@@ -46,7 +46,7 @@ translate francais phn_penelope6_done_d3f66e85:
 translate francais phn_penelope6_done_0d8533cf:
 
     # ch "Listen, Ms. Rose is in trouble and needs our help. Some of us are heading over to help her move out of her house. You in?"
-    ch "Ecoute, Mme Rose a des problèmes et a besoin de notre aide. Certains d'entre nous vont l'aider à déménager de sa maison. Tu viens ?"
+    ch "Écoute, Mme Rose a des problèmes et a besoin de notre aide. Certains d'entre nous vont l'aider à déménager de sa maison. Tu viens ?"
 
 # game/v8/scene17.rpy:53
 translate francais phn_penelope6_done_52472f3f:
@@ -100,7 +100,7 @@ translate francais phn_penelope6_done_4f1d9dac:
 translate francais phn_penelope6_done_f2d6cd60:
 
     # ch "Don't worry about it. We'll get you out of here."
-    ch "Ne vous inquiétez pas pour ça. On va vous va vous aider à partir."
+    ch "Ne vous inquiétez pas pour ça. On va vous aider à partir."
 
 # game/v8/scene17.rpy:98
 translate francais phn_penelope6_done_5bd7b068:
@@ -118,7 +118,7 @@ translate francais phn_penelope6_done_7db5ebfa:
 translate francais phn_penelope6_done_32463bdd:
 
     # ro "I brought what I could from the other rooms..."
-    ro "J'ai déjà mis ici ce que je pouvais, des autres pièces..."
+    ro "J'ai déjà mis ici ce que je pouvais sortir des autres pièces..."
 
 # game/v8/scene17.rpy:107
 translate francais phn_penelope6_done_9a4b295e:
@@ -136,7 +136,7 @@ translate francais phn_penelope6_done_313cc6e6:
 translate francais phn_penelope6_done_0b46e452:
 
     # ro "I'm alright, th-thank you. It... it's been a long time coming. I just want it to be over with."
-    ro "Je vais bien, m-merci. Ça... le courage de partir a été long à venir. Je veux juste en finir au plus vite."
+    ro "Je vais bien, m-merci. Le... le courage de partir a été long à venir. Je veux juste en finir au plus vite."
 
 # game/v8/scene17.rpy:123
 translate francais phn_penelope6_done_808acb7a:
@@ -172,7 +172,7 @@ translate francais phn_penelope6_done_d246e7ae:
 translate francais phn_penelope6_done_02f0913a:
 
     # u "(Ms. Rose is so upset, but we also really need to hurry if we're gonna finish this before her husband shows up.)"
-    u "(Mme Rose est tellement bouleversée, mais nous devons aussi vraiment nous dépêcher, si nous voulons finir ça avant que son mari n'arrive)."
+    u "(Mme Rose est tellement bouleversée, mais nous devons aussi vraiment nous dépêcher, si nous voulons finir avant que son mari n'arrive)."
 
 # game/v8/scene17.rpy:150
 translate francais phn_penelope6_done_fe59dd4e:

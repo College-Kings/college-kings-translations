@@ -40,7 +40,7 @@ translate francais josh_room_5f4d8972:
 translate francais josh_room_54b7c239:
 
     # u "Man, Josh, I dunno. This is awfully risky and you know I'm not into that shit."
-    u "Putain Josh, je sais pas. C'est terriblement risqué et tu sais que je ne suis pas dans cette merde."
+    u "Putain Josh, je sais pas. C'est terriblement risqué et tu sais que je ne touche pas à cette merde."
 
 # game/v8/scene24.rpy:40
 translate francais josh_room_17d5b8b0:

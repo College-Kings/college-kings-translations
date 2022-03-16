@@ -40,7 +40,7 @@ translate francais v8_tues_eco_class_56b9f862:
 translate francais v8_tues_eco_class_e6df9cf9:
 
     # ri "Yes! Not sure how I managed before now."
-    ri "Oui ! Je ne sais pas comment j'ai fait jusqu'à maintenant."
+    ri "Oui ! Je ne sais pas comment j'ai fait jusqu'à maintenant. Merci encore"
 
 # game/v8/scene31.rpy:58
 translate francais v8_tues_eco_class_5c624149:
@@ -208,7 +208,7 @@ translate francais fl_w_lau_f437faa7:
 translate francais fl_w_lau_4631973d:
 
     # u "I don't want to ever find out."
-    u "Je ne veux pas le découvrir."
+    u "Je ne veux pas le savoir."
 
 # game/v8/scene31.rpy:230
 translate francais fl_w_lau_9420e0c9:

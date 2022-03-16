@@ -52,7 +52,7 @@ translate francais josh_calls_you_46045a92:
 translate francais josh_calls_you_a4f1ec25:
 
     # jo "Awesome! See you then bro!"
-    jo "Génial ! A plus tard, mon frère !"
+    jo "Génial ! À plus tard, mon frère !"
 
 # game/v8/Scene23.rpy:73
 translate francais josh_calls_you_73e6e122:
@@ -112,7 +112,7 @@ translate francais josh_calls_you_46045a92_1:
 translate francais josh_calls_you_a4f1ec25_1:
 
     # jo "Awesome! See you then bro!"
-    jo "Génial ! A plus tard, mon frère !"
+    jo "Génial ! À plus tard, mon frère !"
 
 # game/v8/Scene23.rpy:148
 translate francais josh_calls_you_73e6e122_1:
