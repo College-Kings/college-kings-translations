@@ -16,7 +16,7 @@ translate francais hosp_climb_seb_54999126:
 translate francais hosp_climb_seb_561d0a41:
 
     # se "True. But look man, no glory comes with zero risk."
-    se "C'est vrai. Mais regarde mec, aucune gloire ne vient avec zéro risque."
+    se "C'est vrai. Mais regarde mec, il n'y a pas de gloire sans risque."
 
 # game/v8/scene39.rpy:36
 translate francais hosp_climb_seb_84b427d3:
@@ -52,13 +52,13 @@ translate francais hosp_climb_seb_d1423a0c:
 translate francais climb_the_hos_1836e06c:
 
     # u "Fuck it, man. Let's do this thing."
-    u "Putain, mec. Faisons le, ce truc."
+    u "Putain, mec. On y va."
 
 # game/v8/scene39.rpy:77
 translate francais climb_the_hos_65a09f92:
 
     # se "Looks like our cub is climbing his way up to becoming a Wolf. Hell yeah!"
-    se "On dirait que notre louveteau est en train de gravir les échelons pour devenir un Wolf. C'est clair !"
+    se "On dirait que notre louveteau est en train de gravir les échelons pour devenir un Wolf. Putain ouais !"
 
 # game/v8/scene39.rpy:82
 translate francais climb_the_hos_c1e57160:
@@ -88,7 +88,7 @@ translate francais climb_the_hos_2cff1aee:
 translate francais climb_the_hos_9d0a4051:
 
     # se "Haha, don't let your big balls drag you to the ground, mister."
-    se "Haha, ne laisses pas tes grosses boules te traîner au sol, monsieur."
+    se "Haha, ne laissez pas vos grosses boules vous faire tomber dans le vide, messire."
 
 # game/v8/scene39.rpy:127
 translate francais climb_the_hos_1f869581:
@@ -100,7 +100,7 @@ translate francais climb_the_hos_1f869581:
 translate francais climb_the_hos_0049a3f5:
 
     # u "Yeah, it's just this..."
-    u "Ouais, c'est juste assez chaud..."
+    u "Ouais, c'est juste assez... chaud..."
 
 # game/v8/scene39.rpy:147
 translate francais climb_the_hos_10ec0e99:
@@ -112,7 +112,7 @@ translate francais climb_the_hos_10ec0e99:
 translate francais climb_the_hos_a667d83c:
 
     # se "I feel you, bro! Now you know why this is not my first time here."
-    se "Je te comprends, mon frère ! Maintenant tu sais pourquoi ce n'est pas la première que je fais ça."
+    se "Je te comprends, mon frère ! Maintenant tu vois pourquoi ce n'est pas la première fois que je fais ça."
 
 # game/v8/scene39.rpy:172
 translate francais climb_the_hos_8113b8c7:
@@ -148,7 +148,7 @@ translate francais climb_the_hos_e6b9b6b5:
 translate francais climb_the_hos_bef6cc24:
 
     # u "What's so special about it?"
-    u "Qu'est-ce qu'il a de si spécial ?"
+    u "Qu'est-ce qu'il a de si spécial, cet endroit ?"
 
 # game/v8/scene39.rpy:217
 translate francais climb_the_hos_8b21a17a:

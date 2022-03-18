@@ -130,13 +130,13 @@ translate francais v9_start_wolves_7b3ac1b6:
 translate francais v9_start_wolves_85856e21:
 
     # u "Apes? Grayson's the Fight King. I can't-"
-    u "Des Apes ? Grayson est le Fight King. Je ne peux pas..."
+    u "Les Apes ? Grayson est le Fight King. Je ne peux pas..."
 
 # game/v9/scene01.rpy:124
 translate francais v9_start_wolves_adc790de:
 
     # ch "Grayson's not fighting. That's the best part!"
-    ch "Grayson ne se bat pas. C'est la meilleure nouvelle !"
+    ch "Grayson ne se bat pas. Ça, c'est la bonne nouvelle !"
 
 # game/v9/scene01.rpy:128
 translate francais v9_start_wolves_d5804e02:
@@ -166,7 +166,7 @@ translate francais v9_start_wolves_a286b3e5:
 translate francais v9_start_wolves_c7a4a11a:
 
     # ch "Plenty of time. It's not 'til Saturday."
-    ch "On a tout le temps. Ce n'est pas avant samedi."
+    ch "On a tout le temps. C'est pas avant samedi."
 
 # game/v9/scene01.rpy:148
 translate francais v9_start_wolves_35413f73:
@@ -220,7 +220,7 @@ translate francais v9_start_wolves_7813d186:
 translate francais v9_start_wolves_0fac4ac9:
 
     # ch "Right? I'm so pumped! You're already much farther along than those punk ape pledges. We got this!"
-    ch "C'est vrai ? Je suis tellement excité ! Tu es déjà bien plus avancé que ces promesses de Apes punk. On les aura !"
+    ch "Pas vrai ? Je suis vraiment impressionné ! Tu es déjà bien meilleur que les nouveaux de ces punks de Apes. On va assurer !"
 
 # game/v9/scene01.rpy:191
 translate francais v9_start_wolves_69c57e14:
@@ -268,7 +268,7 @@ translate francais v9_phn_imre1_95db1cff:
 translate francais v9_phn_imre1_dd898dd5:
 
     # u "(Why is it so soon though? This Saturday?!)"
-    u "(Pourquoi c'est si tôt ? Ce samedi ? !)"
+    u "(Pourquoi c'est si tôt ? Ce samedi ?!)"
 
 # game/v9/scene01.rpy:236
 translate francais v9_phn_imre1_1cc97670:

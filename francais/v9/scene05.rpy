@@ -4,7 +4,7 @@
 translate francais v9_dream_wakeup_afb5e265:
 
     # u "(What the hell was that? Holy shit!)"
-    u "(C'était quoi ça ? Putain de merde !)"
+    u "(Putain de merde ! C'était quoi ça ?)"
 
 # game/v9/scene05.rpy:14
 translate francais v9_dream_wakeup_8c00a49d:
@@ -16,13 +16,13 @@ translate francais v9_dream_wakeup_8c00a49d:
 translate francais v9_dream_wakeup_4d0eb332:
 
     # u "(Hmm?)"
-    u "(Hmm?)"
+    u "(Hmm ?)"
 
 # game/v9/scene05.rpy:37
 translate francais v9_dream_wakeup_afb5e265_1:
 
     # u "(What the hell was that? Holy shit!)"
-    u "(C'était quoi ça ? Putain de merde !)"
+    u "(Putain de merde ! C'était quoi ça ?)"
 
 # game/v9/scene05.rpy:41
 translate francais v9_dream_wakeup_8c00a49d_1:
@@ -34,7 +34,7 @@ translate francais v9_dream_wakeup_8c00a49d_1:
 translate francais v9_dream_wakeup_4d0eb332_1:
 
     # u "(Hmm?)"
-    u "(Hmm?)"
+    u "(Hmm ?)"
 
 # game/v9/scene05.rpy:65
 translate francais v9_phn_riley1_11900a1d:
@@ -52,7 +52,7 @@ translate francais v9_phn_riley1_done_d5b584f7:
 translate francais v9_phn_riley1_done_73817a7a:
 
     # u "(But fuck it, I'm not gonna puss out. I can do this!)"
-    u "(Mais putain, je ne vais pas faire la gueule. Je peux le faire !)"
+    u "(Mais merde, je ne vais pas faire la mauviette. Je peux le faire !)"
 
 # game/v9/scene05.rpy:80
 translate francais v9_phn_riley1_done_f1fa6283:
@@ -70,7 +70,7 @@ translate francais v9_phn_riley1_done_d5b584f7_1:
 translate francais v9_phn_riley1_done_73817a7a_1:
 
     # u "(But fuck it, I'm not gonna puss out. I can do this!)"
-    u "(Mais putain, je ne vais pas faire la gueule. Je peux le faire !)"
+    u "(Mais merde, je ne vais pas faire la mauviette. Je peux le faire !)"
 
 # game/v9/scene05.rpy:94
 translate francais v9_phn_riley1_done_f1fa6283_1:
@@ -94,7 +94,7 @@ translate francais strings:
 
     # game/v9/scene05.rpy:19
     old "I dunno, feeling kind of crappy."
-    new "Je ne sais pas, je me sens un peu mal."
+    new "Je ne sais pas, je ne me sens pas très bien."
 
     # game/v9/scene05.rpy:20
     old "Oh, c'mon, it's gonna be fun! :)"
@@ -110,7 +110,7 @@ translate francais strings:
 
     # game/v9/scene05.rpy:23
     old "I guess I could go. Could use some fresh air."
-    new "Je pense que je vais venir. J'ai besoin de prendre l'air."
+    new "Ok, je crois que je vais venir. J'ai besoin de prendre l'air."
 
     # game/v9/scene05.rpy:24
     old "You'll love it! Meet you in 30 minutes?"

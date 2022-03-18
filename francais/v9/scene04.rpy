@@ -46,7 +46,7 @@ translate francais v9_dream_c332942c:
 translate francais v9_dream_wolves_2ab69988:
 
     # ch "Way to go man! You can do it!"
-    ch "Bien joué, mec ! Tu peux le faire !"
+    ch "Vas-y, mec ! Tu peux le faire !"
 
 # game/v9/scene04.rpy:109
 translate francais v9_dream_wolves_1b749a57:
@@ -76,7 +76,7 @@ translate francais v9_dream_wolves_0ce94309:
 translate francais v9_dream_wolves_c3ff7ee0:
 
     # u "(Now we're talking!)"
-    u "(Maintenant on parle !)"
+    u "(Maintenant c'est à nous de jouer !)"
 
 # game/v9/scene04.rpy:170
 translate francais v9_dream_wolves_388a6938:
@@ -124,7 +124,7 @@ translate francais v9_dream_wolves_94bc228c:
 translate francais v9_dream_wolves_9e03b250_1:
 
     # ch "Man, you call that a punch?"
-    ch "Mec, tu appelles ça un coup de poing ?"
+    ch "Ouah, tu appelles ça un coup de poing ?"
 
 # game/v9/scene04.rpy:263
 translate francais v9_dream_wolves_d42ac66f_1:
@@ -274,7 +274,7 @@ translate francais v9_dream_apes_76e839c7:
 translate francais v9_dream_apes_551c4506_1:
 
     # gr "Man, you call that a punch?"
-    gr "Mec, tu appelles ça un coup de poing ?"
+    gr "Putain, tu appelles ça un coup de poing ?"
 
 # game/v9/scene04.rpy:509
 translate francais v9_dream_apes_525c2ae1_1:

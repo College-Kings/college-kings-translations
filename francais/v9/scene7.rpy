@@ -124,7 +124,7 @@ translate francais fr5ryan1_25dd620f:
 translate francais fr5ryan1_1a6449c3:
 
     # u "Ha!"
-    u "Ha !"
+    u "Hey !"
 
 # game/v9/scene7.rpy:229
 translate francais fr5ryan1_41e6520c:
@@ -634,7 +634,7 @@ translate francais fr5riley1_510a2cc3:
 translate francais fr5riley1_759ef880:
 
     # u "Sounds like fun, hah."
-    u "Ça a l'air marrant, hah."
+    u "Ça a l'air... marrant."
 
 # game/v9/scene7.rpy:683
 translate francais fr5riley1_b902bcd3:
@@ -658,7 +658,7 @@ translate francais fr5riley1_d48068bf:
 translate francais fr5riley1_42afb053:
 
     # u "Let me leave you to your relaxation a bit more. Weirdo."
-    u "Je vais te laisser te détendre un peu plus. Bizarre."
+    u "Je vais te laisser te détendre un peu plus. Fille bizarre."
 
 # game/v9/scene7.rpy:699
 translate francais fr5riley1_fc8cb628:
@@ -688,7 +688,7 @@ translate francais fr5aubrey1_7c8ac242:
 translate francais fr5aubrey1_38c9a303:
 
     # u "Doesn't sound too nice, hm."
-    u "Hum, ça ne semble pas très agréable."
+    u "Hum, ça n'a pas l'air très agréable."
 
 # game/v9/scene7.rpy:741
 translate francais fr5aubrey1_d030d6c2:
@@ -1096,7 +1096,7 @@ translate francais v9s7_nsfwSkipLabel1_4895ddf9:
 translate francais v9s7_nsfwSkipLabel1_3e629aab:
 
     # u "Well, I guess I should probably get out now. Explore the place a bit more, you know?"
-    u "Eh bien, je crois que je devrais sortir maintenant. Explorer l'endroit un peu plus."
+    u "Eh bien, je crois que je devrais sortir maintenant. Explorer un peu plus le coin."
 
 # game/v9/scene7.rpy:1119
 translate francais v9s7_nsfwSkipLabel1_e882ca6f:
@@ -1180,7 +1180,7 @@ translate francais fr5treeguy1_f1c6d628:
 translate francais fr5treeguy1_d2d67bb2:
 
     # unknown "People wanna move to city, they don't see the beauty of the countryside no more."
-    unknown "Les gens veulent aller en ville, ils ne voient plus la beauté de la campagne."
+    unknown "Les gens veulent aller en ville, ils ne voient plus la beauté de la nature."
 
 # game/v9/scene7.rpy:1204
 translate francais fr5treeguy1_6c5667eb:

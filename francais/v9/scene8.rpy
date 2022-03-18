@@ -70,7 +70,7 @@ translate francais v9_driving_home_lake_b409d988:
 translate francais v9_driving_home_lake_eaac88de:
 
     # au "Don't tell me you really think Ryan's story was cool?"
-    au "Ne me dis pas que tu penses vraiment que l'histoire de Ryan était cool ?"
+    au "Ne me dites pas que vous trouvez vraiment que l'histoire de Ryan était cool ?"
 
 # game/v9/scene8.rpy:71
 translate francais v9_driving_home_lake_cb51f3c5:
@@ -148,7 +148,7 @@ translate francais v9_driving_home_lake_70b05107:
 translate francais v9_driving_home_lake_08045f44:
 
     # au "Oh I would not stop for a second."
-    au "Oh... je ne m'arrêterais pas une seconde."
+    au "Oh... moi, je ne m'arrêterais pas une seconde."
 
 # game/v9/scene8.rpy:140
 translate francais v9_driving_home_lake_7ab351bb:
@@ -160,7 +160,7 @@ translate francais v9_driving_home_lake_7ab351bb:
 translate francais v9_driving_home_lake_b13389bf:
 
     # ri "No way, ridiculous!"
-    ri "Pas du tout, c'est ridicule !"
+    ri "N'importe quoi, c'est ridicule !"
 
 # game/v9/scene8.rpy:150
 translate francais v9_driving_home_lake_93cbdea0:
@@ -184,7 +184,7 @@ translate francais v9_driving_home_lake_5fd138da:
 translate francais v9_driving_home_lake_fa966bf1:
 
     # ry "I mean, who would be that stupid?!"
-    ry "Qui serait aussi stupide ? !"
+    ry "Qui serait aussi stupide ?!"
 
 # game/v9/scene8.rpy:170
 translate francais v9_driving_home_lake_e69558ff:
@@ -226,13 +226,13 @@ translate francais v9_driving_home_lake_f0045484:
 translate francais v9_driving_home_lake_cb899e58:
 
     # ri "Nooo, I don't want to listen to this either!"
-    ri "Nooon, je ne veux pas écouter ça non plus !"
+    ri "Nooon, Je ne veux plus écouter cette histoire non plus !"
 
 # game/v9/scene8.rpy:205
 translate francais v9_driving_home_lake_3b711d89:
 
     # au "Don't scare the driver, [name]!"
-    au "N'effraie pas le conducteur, [name] !"
+    au "N'effraie pas la conductrice, [name] !"
 
 # game/v9/scene8.rpy:210
 translate francais v9_driving_home_lake_006506a7:
@@ -244,7 +244,7 @@ translate francais v9_driving_home_lake_006506a7:
 translate francais v9_driving_home_lake_e34bf831:
 
     # ry "Someone was messing with him, right?!"
-    ry "Quelqu'un se moquait de lui, non ? !"
+    ry "Quelqu'un se moquait de lui, non ?!"
 
 # game/v9/scene8.rpy:220
 translate francais v9_driving_home_lake_7587e6d2:
@@ -280,7 +280,7 @@ translate francais v9_driving_home_lake_148ddd9f:
 translate francais v9_driving_home_lake_eaa4a6a7:
 
     # ry "Racoon? Killer?? A ghost?!"
-    ry "Un raton laveur ? Un tueur ? Un fantôme ? !"
+    ry "Un raton laveur ? Un tueur ? Un fantôme ?!"
 
 # game/v9/scene8.rpy:250
 translate francais v9_driving_home_lake_cad8bbd8:
@@ -292,7 +292,7 @@ translate francais v9_driving_home_lake_cad8bbd8:
 translate francais v9_driving_home_lake_44822625:
 
     # ri "Whaaaat?! You are joking, right!"
-    ri "Quoiiiiiii ? ! Tu plaisantes, n'est-ce pas ?"
+    ri "Quoiiiiiii ?! Tu plaisantes, n'est-ce pas ?"
 
 # game/v9/scene8.rpy:264
 translate francais v9_driving_home_lake_7c0d375d:
@@ -358,7 +358,7 @@ translate francais v9_driving_home_lake_7a667dd7:
 translate francais v9_driving_home_lake_84d4036c:
 
     # ry "Wait, wait, but I didn't tell you about my neighbor and the scary cat lady!"
-    ry "Attendez, attendez, je ne vous ai pas parlé de mon voisin et de la femme au chat effrayante !"
+    ry "Attendez, attendez, je ne vous ai pas parlé de mon voisin et de la femme aux chats effrayante !"
 
 # game/v9/scene8.rpy:319
 translate francais v9_driving_home_lake_eb8e9e93:
@@ -376,4 +376,4 @@ translate francais v9_driving_home_lake_9bead381:
 translate francais v9_driving_home_lake_2745c320:
 
     # u "No, I just need to hear this now, haha."
-    u "Non, j'ai juste envie d'entendre ça maintenant, haha."
+    u "Non, je voudrais vraiment écouter ça, maintenant, haha."

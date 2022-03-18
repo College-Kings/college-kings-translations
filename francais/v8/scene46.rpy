@@ -10,7 +10,7 @@ translate francais v8_ending_b6b43253:
 translate francais v8_ending_b674200b:
 
     # u "(I can't believe Sebastian got me to climb that hospital. But I did it!)"
-    u "(Je n'arrive pas à croire que Sébastien m'ait fait grimper dans cet hôpital. Mais je l'ai fait !)"
+    u "(Je n'arrive pas à croire que Sébastien m'ait fait escalader cet hôpital. Mais je l'ai fait !)"
 
 # game/v8/scene46.rpy:17
 translate francais v8_ending_daba3e17:

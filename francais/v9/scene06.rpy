@@ -148,7 +148,7 @@ translate francais drive_to_lake_776dd9e3:
 translate francais drive_to_lake_6edbedfc:
 
     # ry "What? An opponent worthy of my time?! It is a button, actually."
-    ry "Quoi ? Un adversaire digne de mon temps ?! C'est bien un bouton, oui."
+    ry "Quoi ? Un adversaire digne de moi ?! C'est bien un bouton, oui."
 
 # game/v9/scene06.rpy:139
 translate francais drive_to_lake_1f37bebb:
@@ -286,7 +286,7 @@ translate francais drive_to_lake_431e44f1:
 translate francais drive_to_lake_4afd3dfc:
 
     # ry "What?! That makes no sense!"
-    ry "Quoi ? ! C'est n'importe quoi !"
+    ry "Quoi ?! C'est n'importe quoi !"
 
 # game/v9/scene06.rpy:254
 translate francais drive_to_lake_55205e65:
@@ -352,13 +352,13 @@ translate francais dtl_f_d53293c8:
 translate francais dtl_s_289e00d0:
 
     # u "Is it an apple?"
-    u "C'est une pomme ?"
+    u "C'est une datte ?"
 
 # game/v9/scene06.rpy:318
 translate francais dtl_s_d98f2e5d:
 
     # ri "Where are you seeing an apple? No!"
-    ri "Où vois-tu une pomme ? Non !"
+    ri "Où vois-tu une datte ? Non !"
 
 # game/v9/scene06.rpy:326
 translate francais dtl_cont1_06706f7c:
@@ -406,7 +406,7 @@ translate francais dtl_cont1_6860a51f:
 translate francais dtl_cont1_66433334:
 
     # ri "It's not Aubrey's bikini, alright?!"
-    ri "Ce n'est pas le bikini d'Aubrey, d'accord ?!"
+    ri "Non Ryan, ce n'est pas le bikini d'Aubrey !"
 
 # game/v9/scene06.rpy:366
 translate francais dtl_cont1_aed19b42:
@@ -418,7 +418,7 @@ translate francais dtl_cont1_aed19b42:
 translate francais dtl_cont1_9d391def:
 
     # ri "Afraid not..."
-    ri "J'ai peur que non..."
+    ri "J'ai bien peur que non..."
 
 # game/v9/scene06.rpy:376
 translate francais dtl_cont1_71f466e7:

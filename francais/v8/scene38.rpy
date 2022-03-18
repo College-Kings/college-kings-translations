@@ -34,7 +34,7 @@ translate francais seb_in_room_9a467561:
 translate francais seb_in_room_18e518c9:
 
     # se "Except some deco on the walls eh? Hahaha!"
-    se "A part quelques décorations sur les murs, hein ? Hahaha !"
+    se "À part quelques décorations sur les murs, hein ? Hahaha !"
 
 # game/v8/scene38.rpy:61
 translate francais seb_in_room_cc717b25:
@@ -136,7 +136,7 @@ translate francais seb_in_room_4ba808c1:
 translate francais seb_in_room_1cca1232:
 
     # u "Yeah sure, fuck it. Why not?"
-    u "Oui, bien sûr, merde. Pourquoi pas ?"
+    u "Oui, bien sûr, allez... Pourquoi pas ?"
 
 # game/v8/scene38.rpy:153
 translate francais seb_in_room_b918778c:
@@ -154,13 +154,13 @@ translate francais seb_in_room_dc014268:
 translate francais seb_in_room_36679b6b:
 
     # se "Alright well, we gotta get moving. We'll go together. It's a nice easy jog to warm up."
-    se "Très bien, on doit y aller. On ira ensemble. On fera un jogging facile pour s'échauffer."
+    se "Très bien, on doit y aller. On ira ensemble. On fera un jogging tranquille pour s'échauffer."
 
 # game/v8/scene38.rpy:168
 translate francais seb_in_room_cb15c818:
 
     # u "Way ahead of you, let's rock."
-    u "J'ai une longueur d'avance sur toi, c'est parti."
+    u "Je vais prendre de l'avance sur toi, allons-y."
 
 # game/v8/scene38.rpy:173
 translate francais seb_in_room_abd362e9:
@@ -174,10 +174,10 @@ translate francais seb_in_room_abd362e9:
 translate francais seb_in_room_3f3a6bc0:
 
     # se "Haha, I'm not surprised. Me and Marcus climb the hospital, from the ground to roof, no equipment, just pure balls and stupidity haha."
-    se "Haha, je ne suis pas surpris. Marcus et moi avons escaladé l'hôpital, du sol au toit, sans équipement, juste des couilles pures et de la stupidité haha."
+    se "Haha, je ne suis pas surpris. Marcus et moi avons escaladé l'hôpital, du sol au toit, sans équipement, juste avec nos couilles et notre stupidité haha."
 
 # game/v8/scene38.rpy:131
 translate francais seb_in_room_437fec49:
 
     # se "It's also a great workout bro. Really gets those muscles working and that blood pumping. You in?"
-    se "C'est aussi un excellent entraînement. Ça fait vraiment travailler les muscles et circuler le sang. Tu en es ?"
+    se "C'est aussi un excellent entraînement. Ça fait vraiment travailler les muscles et circuler le sang. Tu es dans le coup ?"

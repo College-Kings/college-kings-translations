@@ -64,7 +64,7 @@ translate francais strings:
 
     # game/v8/scene37.rpy:18
     old "Still fine with drinking instead of making out with me?"
-    new "Ça te va toujours de boire au lieu de sortir avec moi ?"
+    new "Ça ne te dérange toujours pas de boire au lieu de sortir avec moi ?"
 
     # game/v8/scene37.rpy:19
     old "Of course, that drink was just my cup of tea. :)"
@@ -72,7 +72,7 @@ translate francais strings:
 
     # game/v8/scene37.rpy:20
     old "Oh haha, is that so? I think it at least poured a bit of courage in there."
-    new "Oh haha, c'est vrai ? Je pense qu'il y a au moins un peu de courage là-dedans."
+    new "Oh haha, c'est vrai ? Il me semble que tu as versé un peu de courage dedans."
 
     # game/v8/scene37.rpy:21
     old "Don't flatter yourself, witty cowboy. :)"
@@ -80,7 +80,7 @@ translate francais strings:
 
     # game/v8/scene37.rpy:22
     old "You flatter me, ma'am."
-    new "Vous me flattez, m'dame."
+    new "C'est vous qui me flattez, m'dame."
 
     # game/v8/scene37.rpy:23
     old "Miss you."
@@ -152,7 +152,7 @@ translate francais strings:
 
     # game/v8/scene37.rpy:54
     old "OK?"
-    new "Ok !"
+    new "Vas-y !"
 
     # game/v8/scene37.rpy:55
     old "Option A is to make out with Mr. Lee."

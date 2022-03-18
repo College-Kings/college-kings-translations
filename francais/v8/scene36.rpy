@@ -40,7 +40,7 @@ translate francais v8_julia_call_e75849bd:
 translate francais v8_julia_call_f8306763:
 
     # u "Yeah, seems like an opportunity I don't want to miss."
-    u "Ouais, ça a l'air d'être une opportunité que je ne veux pas manquer."
+    u "Ouais, je crois que c'est une expérience à ne pas manquer."
 
 # game/v8/scene36.rpy:50
 translate francais v8_julia_call_a521f21b:
@@ -52,7 +52,7 @@ translate francais v8_julia_call_a521f21b:
 translate francais v8_julia_call_0923f236:
 
     # u "Miss you too. I better get some work done. I was just so excited, I had to tell you."
-    u "Tu me manques aussi. Je ferais mieux de travailler un peu. J'étais tellement excité que je devais te le dire."
+    u "Tu me manques aussi. Je ferais mieux de travailler un peu. J'étais tellement excité que je devais t'en parler."
 
 # game/v8/scene36.rpy:58
 translate francais v8_julia_call_fb02315b:
@@ -178,7 +178,7 @@ translate francais v8_julia_call_e75849bd_1:
 translate francais v8_julia_call_f8306763_1:
 
     # u "Yeah, seems like an opportunity I don't want to miss."
-    u "Ouais, ça semble être une opportunité que je ne veux pas manquer."
+    u "Ouais, je crois que c'est une expérience à ne pas manquer."
 
 # game/v8/scene36.rpy:157
 translate francais v8_julia_call_a521f21b_1:
@@ -190,7 +190,7 @@ translate francais v8_julia_call_a521f21b_1:
 translate francais v8_julia_call_0923f236_1:
 
     # u "Miss you too. I better get some work done. I was just so excited, I had to tell you."
-    u "Tu me manques aussi. Je ferais mieux de travailler un peu. J'étais tellement excité que je devais te le dire."
+    u "Tu me manques aussi. Je ferais mieux de travailler un peu. J'étais tellement excité que je devais t'en parler."
 
 # game/v8/scene36.rpy:165
 translate francais v8_julia_call_fb02315b_1:

@@ -94,7 +94,7 @@ translate francais strings:
 
     # game/v8/scene34.rpy:33
     old "I better get back to it. I have so much work to get done. Just wanted to check on you and see how you're doing."
-    new "Je ferais mieux de m'y remettre. J'ai tellement de travail à faire. Je voulais juste prendre de tes nouvelles et voir comment tu vas."
+    new "Je ferais mieux de m'y remettre. J'ai tellement de travail à faire. Je voulais juste prendre de tes nouvelles et savoir comment tu allais."
 
     # game/v8/scene34.rpy:38
     old "Um... how's now? ;)"
@@ -130,11 +130,11 @@ translate francais strings:
 
     # game/v8/scene34.rpy:54
     old "It was nice talking to you"
-    new "C'était sympa de parler avec toi"
+    new "C'était sympa de parler un peu avec toi"
 
     # game/v8/scene34.rpy:55
     old "You too"
-    new "Toi aussi"
+    new "Avec toi aussi"
 
     # game/v8/scene34.rpy:58
     old "There's a new Japanese place right down the road"
@@ -154,7 +154,7 @@ translate francais strings:
 
     # game/v8/scene34.rpy:89
     old "I was thinking about you too"
-    new "Je pensais à toi aussi."
+    new "Moi aussi je pensais à toi."
 
     # game/v8/scene34.rpy:90
     old "Awww!"
