@@ -202,7 +202,7 @@ translate francais v14s03d_b0eeedbc:
 translate francais v14s03d_5ab81e1e:
 
     # satin "Ha! *Panting* You must be enjoying yourself."
-    satin "Ha ! *Respire* Tu as l'air de bien t'amuser."
+    satin "Ha ! *Halète* Tu as l'air de bien t'amuser."
 
 # game/v14/scene3d.rpy:264
 translate francais v14s03d_c0d5b0fc:
@@ -286,7 +286,7 @@ translate francais v14s03d_b8911521:
 translate francais v14s03d_df28ec03:
 
     # satin "*Gasps* F-f-fuck!"
-    satin "*Halète* P-p-putain !"
+    satin "*Soupire* P-p-putain !"
 
 # game/v14/scene3d.rpy:360
 translate francais v14s03d_8b4aabeb:
@@ -340,7 +340,7 @@ translate francais v14s03d_aea2c8a0:
 translate francais v14s03d_b20ce9f4:
 
     # satin "*Panting* That was amazing..."
-    satin "*Essoufflée* C'était incroyable..."
+    satin "*Halète* C'était incroyable..."
 
 # game/v14/scene3d.rpy:425
 translate francais v14s03d_ad917638:

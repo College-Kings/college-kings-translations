@@ -262,7 +262,7 @@ translate francais v14s03e_b14d70ec:
 translate francais v14s03e_87aec256:
 
     # imre "*Gasps* Ryan... Bro... Are you serious right now?"
-    imre "*Halète* Ryan... Mon frère... T'es sérieux là ?"
+    imre "*Soupire* Ryan... Mon frère... T'es sérieux là ?"
 
 # game/v14/scene3e.rpy:270
 translate francais v14s03e_08d94bc6:

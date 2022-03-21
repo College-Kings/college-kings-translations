@@ -130,7 +130,7 @@ translate francais v14s21a_2d2c84c7:
 translate francais v14s21a_86938716:
 
     # cl "[name]... Mmm! *Gasps*"
-    cl "[name]... Mmm ! *Halète*"
+    cl "[name]... Mmm ! *Soupire*"
 
 # game/v14/scene21a.rpy:232
 translate francais v14s21a_deb6f8d0:

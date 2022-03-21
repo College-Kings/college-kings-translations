@@ -94,7 +94,7 @@ translate francais v14s01_8e60aa55:
 translate francais v14s01_0c11f69d:
 
     # ri "*Panting* Ha!"
-    ri "*Respire* Ha !"
+    ri "*Halète* Ha !"
 
 # game/v14/scene1.rpy:207
 translate francais v14s01_edd7a43a:
