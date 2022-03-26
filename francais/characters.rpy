@@ -178,5 +178,5 @@ define character.factor = Character("Actrice", who_color="#a815f2", who_outlines
 define character.admin = Character("Administrateur de réservation", who_color="#fecb2e", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
 define character.aumom = Character("Maman d'Aubrey", who_color="#a815f2", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
 define character.audad = Character("Papa d'Aubrey", who_color="#fc3158", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.rick = Character("Uncle Rick", who_color="#fecb2e", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
+define character.rick = Character("Oncle Rick", who_color="#fecb2e", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
 define character.wedoff = Character("Wedding Officiant", who_color="#5fc9f8", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
