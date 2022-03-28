@@ -169,7 +169,7 @@ define character.bird = Character("Oiseau", who_color="#5fc9f8", who_outlines=[ 
 # 15.0
 define character.males = Character("Étudiant", who_color="#5fc9f8", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
 define character.fems = Character("Étudiante", who_color="#fc3158", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
-define character.oscars_owner = Character("Propriétaire d'Oscar", who_color="#5fc9f8", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
+define character.oscars_owner = Character("Maître d'Oscar", who_color="#5fc9f8", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
 define character.male_buyer = Character("Acheteur", who_color="#5fc9f8", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
 define character.female_buyer = Character("Acheteuse", who_color="#a3a3a3", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
 define character.cashier = Character("Cashier", who_color="#5fc9f8", who_outlines=[ (2, "#000") ], what_outlines=[ (2, "#000") ])
