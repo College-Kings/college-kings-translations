@@ -10,7 +10,7 @@ translate francais v14s53a_6f9a273e:
 translate francais v14s53a_58b79565:
 
     # sa "*Gags*"
-    sa "*Suce*"
+    sa "*Halète*"
 
 # game/v14/scene53a.rpy:48
 translate francais v14s53a_6cb55f0c:

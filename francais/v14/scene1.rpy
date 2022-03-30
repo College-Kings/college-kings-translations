@@ -190,7 +190,7 @@ translate francais v14s01_910bf971:
 translate francais v14s01_b8cb003a:
 
     # au "Mmm! *Gags*"
-    au "Mmm ! *Suce*"
+    au "Mmm ! *Halète*"
 
 # game/v14/scene1.rpy:325
 translate francais v14s01_e9c40f23:

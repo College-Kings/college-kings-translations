@@ -886,7 +886,7 @@ translate francais v14s36_sg_2a604d35:
 translate francais v14s36_sg_174bae6e:
 
     # jen "*Gags*"
-    jen "*Suce*"
+    jen "*Halète*"
 
 # game/v14/scene36.rpy:924
 translate francais v14s36_sg_06324c2b:
