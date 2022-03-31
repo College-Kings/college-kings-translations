@@ -670,7 +670,7 @@ translate francais v15s6_5d61f868:
 translate francais v15s6_473a4b56:
 
     # cl "*Giggles*"
-    cl "*Grogne*"
+    cl "*Ricane*"
 
 # game/v15/scene6.rpy:677
 translate francais v15s6_3ed7e322:

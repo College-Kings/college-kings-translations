@@ -76,7 +76,7 @@ translate francais v14s50_ed6dff43:
 translate francais v14s50_570a8bce:
 
     # li "*Giggles* Shhh! *Whispers* Yes... Anal."
-    li "*Grogne* Chuuut ! *Chuchote* Oui... Anal."
+    li "*Ricane* Chuuut ! *Chuchote* Oui... Anal."
 
 # game/v14/scene50.rpy:89
 translate francais v14s50_11496761:

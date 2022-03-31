@@ -916,7 +916,7 @@ translate francais v15s10_6de7a2e2:
 translate francais v15s10_31995e63:
 
     # li "*Giggles*"
-    li "*Grogne*"
+    li "*Ricane*"
 
 # game/v15/scene10.rpy:1031
 translate francais v15s10_e97a4f0d:

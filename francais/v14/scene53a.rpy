@@ -64,7 +64,7 @@ translate francais v14s53a_92e618ec:
 translate francais v14s53a_f91cc77c:
 
     # sa "*Giggles* Mmm..."
-    sa "*Grogne* Mmm..."
+    sa "*Ricane* Mmm..."
 
 # game/v14/scene53a.rpy:130
 translate francais v14s53a_7fa5a5ff:

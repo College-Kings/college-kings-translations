@@ -418,7 +418,7 @@ translate francais v15s15_nsfwSkipLabel1_14f8a08b:
 translate francais v15s15_nsfwSkipLabel1_d17bea96:
 
     # ro "Oh, wow... *Giggles* What an incredible experience that was."
-    ro "Oh, wow... *Grogne* Quelle expérience incroyable c'était."
+    ro "Oh, wow... *Ricane* Quelle expérience incroyable c'était."
 
 # game/v15/scene15.rpy:540
 translate francais v15s15_nsfwSkipLabel1_b17042d3:
