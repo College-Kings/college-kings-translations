@@ -1684,7 +1684,7 @@ translate francais v15s35_wml3_bc070eb9:
 translate francais v15s35_wml3_e6e186c5:
 
     # au "Money... Moneypussy?! *Laughs* You're killing me Autumn... Phew."
-    au "Argent... Chatte d'argent ?! *Rire* Tu me tues Automne... Pfiou."
+    au "Argent... Chatte d'argent ?! *Rire* Tu me tues Autumn... Pfiou."
 
 # game/v15/scene35.rpy:1890
 translate francais v15s35_wml3_0d3c5693:
@@ -1798,7 +1798,7 @@ translate francais v15s35_wml3_65ed4e4a:
 translate francais v15s35_wml3_c1271dd5:
 
     # u "Very hesitant there, Autumn... *Laughs*"
-    u "Tu hésites beaucoup, Automne... *Rire*"
+    u "Tu hésites beaucoup, Autumn... *Rire*"
 
 # game/v15/scene35.rpy:1995
 translate francais v15s35_wml3_74f72758:
@@ -2272,7 +2272,7 @@ translate francais v15s35_autumn_reveal_7e1d8322:
 translate francais v15s35_autumn_reveal_20027fd1:
 
     # u "(It'll help if Lindsey's more drunk. She'll be easier to trick into bad-mouthing Chloe.)"
-    u "( Ça aiderait si Lindsey avait davantage bu. Elle serait plus facile à piéger afin qu'elle dise du mal de Chloé.)"
+    u "(Ça aiderait si Lindsey avait davantage bu. Elle serait plus facile à piéger afin qu'elle dise du mal de Chloé.)"
 
 # game/v15/scene35.rpy:2536
 translate francais v15s35_autumn_reveal_092ca008:

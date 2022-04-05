@@ -688,7 +688,7 @@ translate francais v15s18a_AutumPenelope_2f74618a:
 translate francais v15s18a_AutumPenelope_4e6976b8:
 
     # u "Yeah, Autumn let me name one that came in the other day."
-    u "Ouais, Automne, m'a laissé nommer celui qui est arrivé l'autre jour."
+    u "Ouais, Autumn, m'a laissé nommer celui qui est arrivé l'autre jour."
 
 # game/v15/scene18a.rpy:768
 translate francais v15s18a_AutumPenelope_cb1977bd:
