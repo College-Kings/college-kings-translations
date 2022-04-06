@@ -4,7 +4,7 @@
 translate francais v14s02_dbc1e236:
 
     # u "(Please don't tell me everyone is gone or asleep.)"
-    u "(Putainnn, ne me dites pas que tout le monde est parti ou endormi)."
+    u "(Putainnn, me dites pas que tout le monde est parti ou endormi)."
 
 # game/v14/scene2.rpy:26
 translate francais v14s02_4a2bf415:
@@ -52,7 +52,7 @@ translate francais v14s02_1f6b8f06:
 translate francais v14s02_62325f2e:
 
     # imre "I was just coming to get you actually."
-    imre "En fait, j'venais justement te chercher."
+    imre "En fait, j'venais justement t'chercher."
 
 # game/v14/scene2.rpy:74
 translate francais v14s02_d88c225f:
@@ -76,7 +76,7 @@ translate francais v14s02_f96d57d5:
 translate francais v14s02_8aa354af:
 
     # imre "We've been hanging out a bit, but we're not friends. I've decided I'd at least give the \"acquaintance\" thing a chance."
-    imre "On a un peu traîné ensemble, mais on est pas des amis. J'ai décidé d'lui donner au moins une petite chance avec la relation \"connaissance\"."
+    imre "On a un peu traîné ensemble, mais on est pas des amis. J'ai décidé d'lui donner au moins une petite chance dans la relation \"connaissance\"."
 
 # game/v14/scene2.rpy:94
 translate francais v14s02_79235e92:
@@ -88,7 +88,7 @@ translate francais v14s02_79235e92:
 translate francais v14s02_46750048:
 
     # imre "Yeah, don't get too excited. We'll see how long it lasts."
-    imre "Ouais, t'emballe pas trop. On verra bien combien de temps ça durera."
+    imre "Ouais, t'emballe pas trop. On verra combien de temps ça va durer."
 
 # game/v14/scene2.rpy:109
 translate francais v14s02_fcc18885:
@@ -112,7 +112,7 @@ translate francais v14s02_14bbb964:
 translate francais v14s02_29045ef0:
 
     # u "How did you not see me standing here?"
-    u "Comment t'as fait pour ne pas me voir devant toi ?"
+    u "Comment t'as fait pour pas me voir, alors que je suis devant toi ?"
 
 # game/v14/scene2.rpy:129
 translate francais v14s02_88303801:

@@ -4,7 +4,7 @@
 translate francais v14s03b_30a0841f:
 
     # imre "Woah... Look at those jugs..."
-    imre "Wouah... Regarde ces mamelles..."
+    imre "Wouah... Mattez moi ces mamelles..."
 
 # game/v14/scene3b.rpy:17
 translate francais v14s03b_2c1c965c:
@@ -16,19 +16,19 @@ translate francais v14s03b_2c1c965c:
 translate francais v14s03b_c1af5f10:
 
     # imre "*Laughs* Catch you guys later."
-    imre "*Rire* On se voit plus tard."
+    imre "*Rire* On s'voit plus tard."
 
 # game/v14/scene3b.rpy:27
 translate francais v14s03b_faa11962:
 
     # u "Wait, Imre... Aren't you-"
-    u "Attends, Imre... Tu n'es pas..."
+    u "Attends, Imre... T'es pas..."
 
 # game/v14/scene3b.rpy:32
 translate francais v14s03b_a79c7c23:
 
     # u "Nevermind."
-    u "Peu importe."
+    u "Et puis merde."
 
 # game/v14/scene3b.rpy:37
 translate francais v14s03b_942e0022:
@@ -88,7 +88,7 @@ translate francais v14s03b_ebf2444c:
 translate francais v14s03b_4f784171:
 
     # u "*Chuckles* Yeah, kinda. A hotel for three minutes to an hour, depending on the type of man you are."
-    u "*Rire* Ouais, on va dire ça. Un hôtel pour une durée de trois minutes à une heure, selon le type de mec que tu es."
+    u "*Rire* Ouais, on va dire ça. Un hôtel pour une durée de trois minutes à une heure, selon le type de mec que t'es."
 
 # game/v14/scene3b.rpy:83
 translate francais v14s03b_589a2b42:
@@ -100,7 +100,7 @@ translate francais v14s03b_589a2b42:
 translate francais v14s03b_3f09240f:
 
     # u "Bro, it's a brothel. You thought we'd come to the Red Light District without stopping here? Imre wouldn't miss out on a chance like this. *Laughs*"
-    u "Mon frère, c'est un bordel. Tu pensais que nous serions venus dans le Red Light District sans nous arrêter ici ? Imre n'aurait jamais raté une telle occasion. *Rire"
+    u "Mon frère, c'est un bordel. Tu croyais qu'on allait venir dans le quartier rouge sans s'arrêter là ? Imre aurait jamais laissé passer une telle occasion. *Rire*"
 
 # game/v14/scene3b.rpy:93
 translate francais v14s03b_d30ba2e8:
@@ -112,7 +112,7 @@ translate francais v14s03b_d30ba2e8:
 translate francais v14s03b_572eefa6:
 
     # u "Yeah... I'm kinda shocked at how vanilla you are when it comes to all of this. *Chuckles*"
-    u "Ouais... Je suis un peu surpris de voir à quel point tu es puéril quand il s'agit de tout ça. *Rire *"
+    u "Ouais... Je suis un peu surpris de voir à quel point t'es puéril quand il s'agit de tout ça. *Rire*"
 
 # game/v14/scene3b.rpy:103
 translate francais v14s03b_b0c06684:
@@ -124,7 +124,7 @@ translate francais v14s03b_b0c06684:
 translate francais v14s03b_288e8153:
 
     # u "Well, are you gonna go get with a girl?"
-    u "Tu vas rejoindre une fille ?"
+    u "Tu vas aller avec une fille ?"
 
 # game/v14/scene3b.rpy:113
 translate francais v14s03b_0b913d37:
@@ -232,7 +232,7 @@ translate francais v14s03b_d22a64bc:
 translate francais v14s03b_49ac8d9d:
 
     # u "I mean, I feel where you're coming from. Everyone feels like that at first I think."
-    u "Je comprends ce que tu ressens. Tout le monde se sent comme ça au début... je crois."
+    u "Je comprends ce que tu ressens. Tout le monde se sent comme ça au début... j'imagine."
 
 # game/v14/scene3b.rpy:216
 translate francais v14s03b_6047c161:
@@ -268,7 +268,7 @@ translate francais v14s03b_8059cb96:
 translate francais v14s03b_427ccaa8:
 
     # u "Well, no. Honestly, if it's just for practice then there's probably no better place than this. Just make sure that's really what you want to do."
-    u "Eh bien, non. Franchement, si c'est juste pour t'entraîner, il n'y a probablement pas de meilleur endroit qu'ici. Assure-toi juste que c'est vraiment ce que tu veux faire."
+    u "Eh ben, non. Franchement, si c'est juste pour t'entraîner, il y a sûrement pas de meilleur endroit qu'ici. Assure-toi juste que c'est vraiment ce que tu veux faire."
 
 # game/v14/scene3b.rpy:249
 translate francais v14s03b_a5dd5b0e:
@@ -286,7 +286,7 @@ translate francais v14s03b_d353f425:
 translate francais v14s03b_c8f2cbfa:
 
     # u "Well, honestly... I wouldn't want my first time to be in a brothel."
-    u "Eh bien, franchement... Je n'aurais jamais voulu que ma première fois soit dans un bordel."
+    u "Eh bien, franchement... J'aurais jamais voulu que ma première fois soit dans un bordel."
 
 # game/v14/scene3b.rpy:263
 translate francais v14s03b_58c09294:
@@ -298,7 +298,7 @@ translate francais v14s03b_58c09294:
 translate francais v14s03b_e9e27e8a:
 
     # emerald "Hey boys... You two sure are handsome. *Chuckles*"
-    emerald "Salut les garçons... Vous êtes vraiment mignons tous les deux. *Rire*."
+    emerald "Salut les garçons... Vous êtes vraiment mignons tous les deux. *Rire*"
 
 # game/v14/scene3b.rpy:275
 translate francais v14s03b_3038dcfe:

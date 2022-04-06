@@ -22,13 +22,13 @@ translate francais v14s05a_15679a62:
 translate francais v14s05a_88286a39:
 
     # ri "It was a crazy day too."
-    ri "C'était une journée folle également."
+    ri "Pour moi aussi, c'était une journée folle."
 
 # game/v14/scene5a.rpy:59
 translate francais v14s05a_052c9a03:
 
     # u "That was definitely unexpected, but well appreciated of course."
-    u "C'était vraiment inattendu, mais bien apprécié bien sûr."
+    u "C'était vraiment inattendu, mais j'ai adoré bien sûr."
 
 # game/v14/scene5a.rpy:64
 translate francais v14s05a_f08219b6:
@@ -88,7 +88,7 @@ translate francais v14s05a_f6a74930:
 translate francais v14s05a_13c16ad7:
 
     # ri "Plus, I think I've had enough of you for today. *Chuckles*"
-    ri "De plus, je pense que j'en ai assez de toi pour aujourd'hui. *Rire*"
+    ri "De plus, je crois que j'en ai assez de toi pour aujourd'hui. *Rire*"
 
 # game/v14/scene5a.rpy:139
 translate francais v14s05a_9ab46e06:
@@ -100,7 +100,7 @@ translate francais v14s05a_9ab46e06:
 translate francais v14s05a_918e0ed8:
 
     # ri "Yes sir, it is."
-    ri "Oui mon ami, c'est le cas."
+    ri "Oui mon ami, c'est comme ça."
 
 # game/v14/scene5a.rpy:149
 translate francais v14s05a_61eab8a9:
@@ -178,7 +178,7 @@ translate francais v14s05a_55a3a83b:
 translate francais v14s05a_e27b1c57:
 
     # u "Hmm, are you sure it's for you?"
-    u "Hmm, tu es sûre que c'est pour toi ?"
+    u "Hmm, t'es sûre que c'est pour toi ?"
 
 # game/v14/scene5a.rpy:219
 translate francais v14s05a_e61753b5:
@@ -232,7 +232,7 @@ translate francais v14s05a_ec7de258:
 translate francais v14s05a_e8ab0bb2:
 
     # ri "Well, I'll keep that in mind. For now, I'm shutting my mind off."
-    ri "Je vais garder ça en tête. Pour l'instant, je ferme mon esprit."
+    ri "Je vais garder ça en tête. Mais pour l'instant, je ferme mon esprit."
 
 # game/v14/scene5a.rpy:280
 translate francais v14s05a_d6c385ab:

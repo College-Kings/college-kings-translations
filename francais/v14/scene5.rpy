@@ -34,7 +34,7 @@ translate francais v14s05_50474444:
 translate francais v14s05_fdc5df04:
 
     # cl "*Loud laugh*"
-    cl "*Éclat de rire*"
+    cl "*Éclate de rire*"
 
 # game/v14/scene5.rpy:75
 translate francais v14s05_074498ba:
@@ -46,13 +46,13 @@ translate francais v14s05_074498ba:
 translate francais v14s05_8d8ba451:
 
     # u "No, you're right..."
-    u "Non, tu as raison..."
+    u "Non, t'as raison..."
 
 # game/v14/scene5.rpy:85
 translate francais v14s05_cc87de53:
 
     # u "I mean, it's funny and all, but I was done dealing with their pointless beef and now it's starting all over again."
-    u "Ce que je veux dire, c'est que c'est drôle et tout, mais j'avais fini de gérer leur baston inutile et maintenant ça recommence."
+    u "Ce que je veux dire, c'est que c'est drôle et tout, mais j'avais fini de gérer leurs bastons inutiles et voilà, ça recommence."
 
 # game/v14/scene5.rpy:90
 translate francais v14s05_c0b4e813:
@@ -64,7 +64,7 @@ translate francais v14s05_c0b4e813:
 translate francais v14s05_538c4a66:
 
     # u "Very true, and that's why I'm going to sleep. *Chuckles*"
-    u "Tout à fait vrai, et c'est pourquoi je vais dormir. *Rire *"
+    u "Tout à fait vrai, et c'est pourquoi je vais dormir. *Rire*"
 
 # game/v14/scene5.rpy:130
 translate francais v14s05_870a0f97:

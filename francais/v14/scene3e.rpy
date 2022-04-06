@@ -52,7 +52,7 @@ translate francais v14s03e_b6807050:
 translate francais v14s03e_de5d7d03:
 
     # ry "You know it!"
-    ry "Tu le sais bien !"
+    ry "Tu connais ça, toi !"
 
 # game/v14/scene3e.rpy:93
 translate francais v14s03e_74acb560:
@@ -70,13 +70,13 @@ translate francais v14s03e_7d01dc60:
 translate francais v14s03e_6a398cd7:
 
     # u "Imre's not back yet?"
-    u "Imre n'est pas encore revenu ?"
+    u "Imre est toujours pas revenu ?"
 
 # game/v14/scene3e.rpy:108
 translate francais v14s03e_bdfcf040:
 
     # ry "I guess, yeah. I haven't seen him."
-    ry "Apparemment, ouais. Je ne l'ai pas vu."
+    ry "Apparemment, pas. Je ne l'ai pas vu."
 
 # game/v14/scene3e.rpy:113
 translate francais v14s03e_b7222158:
@@ -100,7 +100,7 @@ translate francais v14s03e_87252ce2:
 translate francais v14s03e_2777bab3:
 
     # u "I'm glad you did."
-    u "C'est bien que tu fasses ça."
+    u "Tant mieux pour toi."
 
 # game/v14/scene3e.rpy:136
 translate francais v14s03e_d8f3bbd1:
@@ -130,7 +130,7 @@ translate francais v14s03e_b0baba1e:
 translate francais v14s03e_4fbaf033:
 
     # u "Although, that girl did have herpes."
-    u "Bien que cette fille avait de l'herpès."
+    u "Même si cette fille avait de l'herpès."
 
 # game/v14/scene3e.rpy:161
 translate francais v14s03e_40fadfbe:
@@ -148,7 +148,7 @@ translate francais v14s03e_76bb6c01:
 translate francais v14s03e_f4b9aff3:
 
     # u "Sorry bro, I wasn't thinking with my head..."
-    u "Désolé mon frère, je ne pensais pas avec ma tête..."
+    u "Désolé mon frère, je pensais pas avec ma tête..."
 
 # game/v14/scene3e.rpy:173
 translate francais v14s03e_1ac49958:
@@ -184,7 +184,7 @@ translate francais v14s03e_d41edc34:
 translate francais v14s03e_406e754d:
 
     # u "Yeah... that."
-    u "Ouais... ça."
+    u "Ouais... c'est ça."
 
 # game/v14/scene3e.rpy:200
 translate francais v14s03e_e89c83c8:
@@ -232,7 +232,7 @@ translate francais v14s03e_55ff166a:
 translate francais v14s03e_47667b0e:
 
     # imre "Exactly."
-    imre "Tout à fait."
+    imre "Ouais."
 
 # game/v14/scene3e.rpy:245
 translate francais v14s03e_cdcb10fb:
@@ -250,7 +250,7 @@ translate francais v14s03e_e8015a74:
 translate francais v14s03e_f5ddd912:
 
     # ry "There's a girl named Ashley here... She's in booth two, and in my opinion, she's the hottest girl here."
-    ry "Il y a une fille qui s'appelle Ashley ici... Elle est dans la cabine 2, et à mon avis, c'est la fille la plus sexy ici."
+    ry "Il y a une fille qui s'appelle Ashley ici... Elle est dans la cabine 2, et à mon avis, c'est la fille la plus chaude."
 
 # game/v14/scene3e.rpy:260
 translate francais v14s03e_b14d70ec:
@@ -268,25 +268,25 @@ translate francais v14s03e_87aec256:
 translate francais v14s03e_08d94bc6:
 
     # ry "I'm deadass right now, dude."
-    ry "Là, en ce moment, je suis mort, mec."
+    ry "Là, à cette heure, je suis trop cassé, mec."
 
 # game/v14/scene3e.rpy:275
 translate francais v14s03e_3cfc7d19:
 
     # imre "Hell yeah I'll do it! Thanks man, really."
-    imre "Bon sang ouais, j'y vais ! Merci mec, vraiment."
+    imre "Putain ouais, j'y vais ! Merci mec, vraiment."
 
 # game/v14/scene3e.rpy:280
 translate francais v14s03e_9b91f1cd:
 
     # imre "Guess you're not so bad after all."
-    imre "Je crois que t'es pas si nul après tout."
+    imre "T'es pas si nul en fait."
 
 # game/v14/scene3e.rpy:285
 translate francais v14s03e_fb8de702:
 
     # ry "Haha, yeah... I did try to tell you that."
-    ry "Haha, ben ouais... j'essayais de te le dire."
+    ry "Haha, ben ouais... depuis le temps que je te le dis."
 
 # game/v14/scene3e.rpy:292
 translate francais v14s03e_036a2576:
@@ -340,7 +340,7 @@ translate francais v14s03e_0a84af6a:
 translate francais v14s03e_6c03de9d:
 
     # u "So you set Imre up? I thought you two were finally getting along."
-    u "Alors tu as piégé Imre ? Je pensais que vous finissiez par vous entendre."
+    u "Alors t'as piégé Imre ? Je pensais que vous finissiez par vous entendre."
 
 # game/v14/scene3e.rpy:342
 translate francais v14s03e_1dccfcdd:
@@ -382,7 +382,7 @@ translate francais v14s03e_c1dd0b44:
 translate francais v14s03e_e252469d:
 
     # imre "I don't have time to fuck with you and your bullshit pranks!"
-    imre "Je n'ai pas le temps de m'occuper de toi et de tes blagues à la con !"
+    imre "J'ai pas l'temps de m'occuper de toi et de tes blagues à la con !"
 
 # game/v14/scene3e.rpy:418
 translate francais v14s03e_869dce38:
@@ -418,7 +418,7 @@ translate francais v14s03e_425b0267:
 translate francais v14s03e_73a55142:
 
     # u "*Sighs* That's not what I'm talking about, and you know it."
-    u "*Soupirs* Ce n'est pas ce dont je parle, et tu le sais."
+    u "*Soupirs* C'est pas ce dont je parle, et tu le sais."
 
 # game/v14/scene3e.rpy:454
 translate francais v14s03e_e40a96c9:

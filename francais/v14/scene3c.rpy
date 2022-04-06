@@ -4,25 +4,25 @@
 translate francais v14s03c_3064e3c4:
 
     # madame "How are you, dear? What can I get you?"
-    madame "Comment vas-tu, mon chéri ? Qu'est-ce que je te sers ?"
+    madame "Comment vas-tu, mon chéri ? Qu'est-ce que j'te sers ?"
 
 # game/v14/scene3c.rpy:27
 translate francais v14s03c_26a5acc0:
 
     # u "Two of whatever you've got back there, please."
-    u "Deux de ce que tu as derrière toi, s'il te plaît."
+    u "Deux de ce que t'as derrière toi, s'il te plaît."
 
 # game/v14/scene3c.rpy:32
 translate francais v14s03c_39741b0f:
 
     # madame "Haha, you definitely aren't picky... But I guess if a man comes to a place like this, he never was."
-    madame "Haha, tu n'es vraiment pas difficile... Mais je crois que si un mec vient dans un endroit comme ça, il ne l'a jamais été."
+    madame "Haha, t'es vraiment pas difficile... Mais je crois que si un mec vient dans un endroit comme ça, c'est qu'il ne l'a jamais été."
 
 # game/v14/scene3c.rpy:37
 translate francais v14s03c_222a1ae6:
 
     # u "Ha... Right..."
-    u "Ha... C'est pas faux..."
+    u "Ouais... C'est pas faux..."
 
 # game/v14/scene3c.rpy:42
 translate francais v14s03c_c2b2b15a:
@@ -40,7 +40,7 @@ translate francais v14s03c_ee01f9b9:
 translate francais v14s03c_52f0755e:
 
     # u "What is she doing?"
-    u "Qu'est-ce qu'elle fait ?"
+    u "Qu'est-ce qu'elle fout ?"
 
 # game/v14/scene3c.rpy:72
 translate francais v14s03c_1daba214:
@@ -94,13 +94,13 @@ translate francais v14s03c_906208de:
 translate francais v14s03c_d74ca6dc:
 
     # satin "Nice to meet you, [name]. You seem kind of young to be hanging around in a place like this."
-    satin "Ravi de te rencontrer, [name]. Tu as l'air plutôt jeune pour traîner dans un endroit comme ça."
+    satin "Ravi de te rencontrer, [name]. T'as l'air plutôt jeune pour traîner dans un endroit comme ça."
 
 # game/v14/scene3c.rpy:121
 translate francais v14s03c_b43129d0:
 
     # u "Good genes. *Chuckles*"
-    u "De bons gènes. *Rire*."
+    u "J'ai de bons gènes. *Rire*"
 
 # game/v14/scene3c.rpy:126
 translate francais v14s03c_bc20649d:
@@ -154,19 +154,19 @@ translate francais v14s03c_aef1df72:
 translate francais v14s03c_8123687d:
 
     # satin "No reason. Do you and your friend come here often or...?"
-    satin "Sans raison. Est-ce que toi et ton ami venez souvent ici ou...?"
+    satin "Pour rien... Est-ce que toi et ton ami venez souvent ici ou...?"
 
 # game/v14/scene3c.rpy:170
 translate francais v14s03c_085ff3de:
 
     # u "Well, it's actually the last pitstop of our vacation."
-    u "En fait, cette ville est le dernier arrêt de nos vacances."
+    u "En fait, cette ville est la dernière étape de nos vacances."
 
 # game/v14/scene3c.rpy:171
 translate francais v14s03c_2f2f955a:
 
     # u "My friend Imre is a jack rabbit, but Ryan over there is a virgin. Something I found out minutes ago, actually."
-    u "Mon ami Imre est un vrai lapin, mais Ryan, là-bas, est puceau. C'est quelque chose que j'ai découvert il y a quelques minutes, en fait."
+    u "Mon ami Imre est un vrai chaud lapin, mais Ryan, là-bas, est puceau. C'est un truc que j'ai découvert il y a quelques minutes, en fait."
 
 # game/v14/scene3c.rpy:176
 translate francais v14s03c_b7dbc9c1:
@@ -190,7 +190,7 @@ translate francais v14s03c_99847b5f:
 translate francais v14s03c_969edd0f:
 
     # satin "Well, earlier when I said \"oh\" like that, it was because I'm pretty sure the girl he's talking to has an STD..."
-    satin "Eh bien, tout à l'heure, quand j'ai dit \"oh\" comme ça, c'était parce que je suis presque sûre que la fille à qui il parle a une MST..."
+    satin "Eh ben, tout à l'heure, quand j'ai dit \"oh\" comme ça, c'était parce que je suis presque sûre que la fille à qui il parle a une MST..."
 
 # game/v14/scene3c.rpy:193
 translate francais v14s03c_56390365:
@@ -214,7 +214,7 @@ translate francais v14s03c_8d402e41:
 translate francais v14s03c_1501e2c0:
 
     # satin "Haha, I'm sorry... It was just funny that you did exactly what I did. *Laughs*"
-    satin "Haha, je suis désolée... C'était amusant de voir que tu as fait exactement la même chose que moi. *Rire*"
+    satin "Haha, je suis désolée... C'était amusant de voir que t'as eu exactement la même réaction que moi. *Rire*"
 
 # game/v14/scene3c.rpy:213
 translate francais v14s03c_bf511421:
@@ -226,7 +226,7 @@ translate francais v14s03c_bf511421:
 translate francais v14s03c_41f940e9:
 
     # satin "I like you. You're not like most of the guys that walk in here."
-    satin "Tu me plais. Tu n'es pas comme la plupart des mecs qui entrent ici."
+    satin "Tu me plais. T'es pas comme la plupart des mecs qui entrent ici."
 
 # game/v14/scene3c.rpy:223
 translate francais v14s03c_956a821b:
@@ -244,13 +244,13 @@ translate francais v14s03c_5f6a1544:
 translate francais v14s03c_5e1fbc83:
 
     # u "Yeah, but I don't have that kind of money."
-    u "Ouais, mais je n'ai pas assez d'argent."
+    u "Ouais, mais j'ai pas assez d'argent."
 
 # game/v14/scene3c.rpy:240
 translate francais v14s03c_6501c99c:
 
     # u "Oh, no. I don't have that kind of money."
-    u "Oh, non. Je n'ai pas assez d'argent."
+    u "Oh, non. J'ai pas assez d'argent."
 
 # game/v14/scene3c.rpy:245
 translate francais v14s03c_803beca1:
@@ -274,7 +274,7 @@ translate francais v14s03c_98ffa935:
 translate francais v14s03c_e572f53c:
 
     # satin "Okay, first of all, don't say my name like that again unless you plan on fucking me afterwards."
-    satin "Ok, tout d'abord, ne dis plus mon nom comme ça, à moins que tu ne prévoies de me baiser après."
+    satin "Ok, tout d'abord, ne dis plus mon nom comme ça, à moins que tu prévoies de me baiser après."
 
 # game/v14/scene3c.rpy:262
 translate francais v14s03c_10f0cd25:
@@ -286,13 +286,13 @@ translate francais v14s03c_10f0cd25:
 translate francais v14s03c_752bbd8d:
 
     # satin "Secondly, before you answer, you should know that I was getting ready to go home anyways. *Chuckles*"
-    satin "Deuxièmement, avant de répondre, tu dois savoir que je me préparais à rentrer chez moi de toute façon. *Rire *"
+    satin "Deuxièmement, avant de répondre, tu dois savoir que je me préparais à rentrer chez moi de toute façon. *Rire*"
 
 # game/v14/scene3c.rpy:269
 translate francais v14s03c_1ecd0635:
 
     # satin "My shift has been over for a while now, but I like you. You're different and it's refreshing to meet someone who isn't a complete pervert."
-    satin "Mon service est terminé depuis un moment maintenant, mais je t'aime bien. Tu es différent et c'est rafraîchissant de rencontrer quelqu'un qui n'est pas un véritable pervers."
+    satin "Mon service est terminé depuis un moment maintenant, mais je t'aime bien. T'es différent et c'est rafraîchissant de rencontrer quelqu'un qui n'est pas un véritable pervers."
 
 # game/v14/scene3c.rpy:274
 translate francais v14s03c_98163a3b:
@@ -316,7 +316,7 @@ translate francais v14s03c_6a61325a:
 translate francais v14s03c_68abead4:
 
     # satin "Since you've been so sweet I'll give you a free hour with me, to use one of two ways."
-    satin "Puisque tu as été si gentil, je vais te donner une heure gratuite avec moi, à utiliser de deux façons."
+    satin "Puisque t'as été si gentil, je vais te donner une heure gratuite avec moi, à utiliser de deux façons."
 
 # game/v14/scene3c.rpy:294
 translate francais v14s03c_a90c6b60:
@@ -340,7 +340,7 @@ translate francais v14s03c_6d9dd2bc:
 translate francais v14s03c_sg_cab5337a:
 
     # u "I can't pass up on an opportunity to be with you in a \"private booth\". *Chuckles*"
-    u "Je ne peux pas laisser passer l'occasion d'être avec toi dans un \"salon privé\". *Rire *"
+    u "Je peux pas laisser passer l'occasion d'être avec toi dans un \"salon privé\". *Rire*"
 
 # game/v14/scene3c.rpy:329
 translate francais v14s03c_sg_5bc72673:
@@ -370,7 +370,7 @@ translate francais v14s03c_sg_81933fbb:
 translate francais v14s03c_sg_44536e0a:
 
     # u "(Can't believe I'm doing this for Ryan.)"
-    u "(Je n'arrive pas à croire que je fais ça pour Ryan)."
+    u "(J'arrive pas à croire que je fais ça pour Ryan)."
 
 translate francais strings:
 

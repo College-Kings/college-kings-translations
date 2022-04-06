@@ -4,7 +4,7 @@
 translate francais v14s01_a37f730a:
 
     # u "(Are they seriously trying to have a threesome...?)"
-    u "(Elles veulent sérieusement faire un plan à trois...?)"
+    u "(Elles veulent vraiment faire un plan à trois...?)"
 
 # game/v14/scene1.rpy:72
 translate francais v14s01_3918831d:
@@ -34,7 +34,7 @@ translate francais v14s01_c7078515:
 translate francais v14s01_986b0953:
 
     # u "Yes, ma'am... That I can do."
-    u "Oui, m'dame... Je peux y arriver."
+    u "Oui, m'dame... Ça peut se faire."
 
 # game/v14/scene1.rpy:128
 translate francais v14s01_7c4bc6cd:
@@ -76,7 +76,7 @@ translate francais v14s01_4f392938:
 translate francais v14s01_68757381:
 
     # au "Look at you, babe. You've definitely done this before."
-    au "Regarde-toi, chérie. Tu as clairement déjà fait ça avant."
+    au "Regarde-toi, chérie. T'as clairement déjà fait ça avant."
 
 # game/v14/scene1.rpy:187
 translate francais v14s01_13f6e4f7:
@@ -100,7 +100,7 @@ translate francais v14s01_0c11f69d:
 translate francais v14s01_edd7a43a:
 
     # au "You know what? You haven't eaten in a long, long time, [name]."
-    au "Tu sais quoi ? Tu n'as pas mangé depuis très, très longtemps, [name]."
+    au "Tu sais quoi ? T'as pas mangé depuis très, très longtemps, [name]."
 
 # game/v14/scene1.rpy:209
 translate francais v14s01_339fcde5:
@@ -208,7 +208,7 @@ translate francais v14s01_c2c4e941:
 translate francais v14s01_dc3498c4:
 
     # au "That was the best sex I've ever had, haha. How are you feeling over there, big guy?"
-    au "C'était la meilleure baise que j'ai jamais eue, haha. Comment te sens-tu là-bas, mon grand ?"
+    au "C'était la meilleure baise que j'ai jamais eue, haha. Comment tu te sens, mon grand ?"
 
 # game/v14/scene1.rpy:353
 translate francais v14s01_4053b09d:
@@ -226,7 +226,7 @@ translate francais v14s01_370eaec5:
 translate francais v14s01_6ddf62a5:
 
     # au "We may have to do this again, Riley."
-    au "Nous devrions peut-être recommencer, Riley."
+    au "On devrait peut-être recommencer, Riley."
 
 # game/v14/scene1.rpy:378
 translate francais v14s01_23910f6f:
@@ -256,7 +256,7 @@ translate francais v14s01_a229fcdd:
 translate francais v14s01_1fce9944:
 
     # au "Riley, let's go clean up."
-    au "Riley, allons nous nettoyer."
+    au "Riley, on va aller se nettoyer."
 
 # game/v14/scene1.rpy:403
 translate francais v14s01_273e78fa:
@@ -286,13 +286,13 @@ translate francais v14s01_4086b207:
 translate francais v14s01_b31aa53e:
 
     # u "(My sleep schedule is gonna be all fucked now, though. Feeling energized at night isn't a good thing...) *Sighs*"
-    u "(Mais mon cycle de sommeil va être complètement bousillé maintenant. Se sentir énergique la nuit n'est pas une bonne chose...) *Soupirs*"
+    u "(Mais mon cycle de sommeil va être complètement bousillé maintenant. Se sentir en forme en pleine nuit n'est pas vraiment une bonne chose...) *Soupirs*"
 
 # game/v14/scene1.rpy:443
 translate francais v14s01_0daf9640:
 
     # u "Aubrey, Riley, wait. I appreciate the concern, and I really appreciate what you're trying to do for me, but... Now isn't the best time."
-    u "Aubrey, Riley, attendez. J'apprécie votre sollicitude, et j'apprécie vraiment ce que vous essayez de faire pour moi, mais... Ce n'est pas le bon moment."
+    u "Aubrey, Riley, attendez. J'apprécie votre sollicitude, et j'apprécie vraiment ce que vous essayez de faire pour moi, mais... C'est pas le bon moment."
 
 # game/v14/scene1.rpy:448
 translate francais v14s01_7a9cc1d6:
@@ -304,25 +304,25 @@ translate francais v14s01_7a9cc1d6:
 translate francais v14s01_8232b14c:
 
     # au "Wow, I was not expecting that."
-    au "Wow, je ne m'attendais pas à ça."
+    au "Wow, je m'attendais pas à ça."
 
 # game/v14/scene1.rpy:458
 translate francais v14s01_202ef5b9:
 
     # ri "We were hoping we could help the pain go away."
-    ri "Nous espérions pouvoir aider à faire disparaître la douleur."
+    ri "On espérait pouvoir aider à faire disparaître la douleur."
 
 # game/v14/scene1.rpy:463
 translate francais v14s01_5d31edb8:
 
     # au "You must've hit your head pretty hard... Now I really feel bad."
-    au "Tu as dû te cogner la tête assez fort... Je me sens vraiment mal maintenant."
+    au "Tu as dû te cogner la tête assez fort... Je me sens vraiment mal, maintenant."
 
 # game/v14/scene1.rpy:468
 translate francais v14s01_549c50f5:
 
     # u "Yeah, I'm not very aware right now. I do feel like getting up though I think."
-    u "Ouais, je ne suis pas très lucide en ce moment. Mais je crois que je vais me lever, malgré tout."
+    u "Ouais, je suis pas très lucide en ce moment. Mais je crois que je vais me lever, malgré tout."
 
 # game/v14/scene1.rpy:473
 translate francais v14s01_19e37c2b:

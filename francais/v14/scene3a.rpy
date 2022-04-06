@@ -4,19 +4,19 @@
 translate francais v14s03a_92b4602f:
 
     # u "You got some kind of game going on over here?"
-    u "Tu as un genre de jeu qui se déroule ici ?"
+    u "T'as un genre de jeu ici ?"
 
 # game/v14/scene3a.rpy:32
 translate francais v14s03a_b2adc0c9:
 
     # ngam "Brother man, brother man! I have the game of games! If you're sharp, you're a guaranteed winner."
-    ngam "Mon frère, mon frère ! J'ai le jeu des jeux ! Si tu es vif, tu es un gagnant garanti."
+    ngam "Mon frère, mon frère ! J'ai le jeu des jeux ! Si t'es vif, t'es un gagnant garanti."
 
 # game/v14/scene3a.rpy:37
 translate francais v14s03a_982ac9b1:
 
     # u "Explain it to me."
-    u "Explique-le-moi."
+    u "Explique moi."
 
 # game/v14/scene3a.rpy:57
 translate francais v14s03a_2a5b8880:
@@ -40,25 +40,25 @@ translate francais v14s03a_41112665:
 translate francais v14s03a_3c3d3c03:
 
     # u "I don't believe I have."
-    u "Je ne crois pas y avoir déjà joué."
+    u "Je crois pas y avoir déjà joué."
 
 # game/v14/scene3a.rpy:82
 translate francais v14s03a_b9ced794:
 
     # ngam "Have you been living under a rock, brother man?! Three cups and a ball is the game of the century."
-    ngam "Tu as vécu dans une grotte, mon frère ?! Trois tasses et une balle, c'est le jeu du siècle."
+    ngam "T'as vécu dans une grotte, mon frère ?! Trois tasses et une balle, c'est le jeu du siècle."
 
 # game/v14/scene3a.rpy:87
 translate francais v14s03a_7ac50e2d:
 
     # ngam "I put a ball in one of the three cups, mix 'em up, and you choose the one you think the ball is under. Make sense?"
-    ngam "Je mets une balle dans l'un des trois gobelets, je les mélange et tu choisis celui sous lequel tu penses que la balle se trouve. Tu comprends ?"
+    ngam "Je mets une balle dans l'un des trois gobelets, je les mélange et tu choisis celui sous lequel tu penses que la balle se trouve. T'as pigé ?"
 
 # game/v14/scene3a.rpy:92
 translate francais v14s03a_e3668b66:
 
     # u "Makes sense."
-    u "Je comprend"
+    u "J'ai pigé, oui."
 
 # game/v14/scene3a.rpy:97
 translate francais v14s03a_41112665_1:
@@ -82,13 +82,13 @@ translate francais v14s03a_ad74c521:
 translate francais v14s03a_24e599dc:
 
     # ngam "Ready to try your luck?"
-    ngam "Tu es prêt à tenter ta chance ?"
+    ngam "T'es prêt à tenter ta chance ?"
 
 # game/v14/scene3a.rpy:120
 translate francais v14s03a_cb2d520d:
 
     # u "Sorry man, I'm gonna have to pass. Thanks for the offer though."
-    u "Désolé mec, je vais devoir passer mon tour. Merci quand même pour l'offre."
+    u "Désolé mec, je vais passer mon tour. Merci quand même pour l'offre."
 
 # game/v14/scene3a.rpy:125
 translate francais v14s03a_d159ff4e:
@@ -148,7 +148,7 @@ translate francais v14s03a_798c0085:
 translate francais v14s03a_6b4c40f0:
 
     # imre "He would've deserved it."
-    imre "Il l'aurait mérité."
+    imre "Il aurait mérité."
 
 # game/v14/scene3a.rpy:209
 translate francais v14s03a_8569c4fa:
@@ -184,7 +184,7 @@ translate francais v14s03a_a47ef019:
 translate francais v14s03a_1fdec54d:
 
     # ngam "Alright, it's time to choose. You lose, you owe me twenty and vice versa if you win. Fair?"
-    ngam "Allez, c'est le moment de choisir. Si tu perds, tu me dois vingt dollars et vice versa si tu gagnes. Ça te va ?"
+    ngam "Allez, c'est le moment de choisir. Si tu perds, tu m'dois vingt dollars et vice versa si tu gagnes. Ça te va ?"
 
 # game/v14/scene3a.rpy:271
 translate francais v14s03a_12b88fe1:
@@ -202,7 +202,7 @@ translate francais v14s03a_7287a5b9:
 translate francais v14s03a_ae672106:
 
     # ngam "It's not in the middle. Fifty, fifty chance brother man."
-    ngam "Elle n'est pas au milieu. Une chance sur deux pour toi, mon frère."
+    ngam "Elle est pas au milieu. Une chance sur deux pour toi, mon frère."
 
 # game/v14/scene3a.rpy:295
 translate francais v14s03a_632b2440:
@@ -262,13 +262,13 @@ translate francais v14s03a_d2a7c5e4:
 translate francais v14s03a_4899d02e:
 
     # ngam "You must be tired brother man, I ain't no scammer."
-    ngam "Tu dois être fatigué mon frère, je ne suis pas un arnaqueur."
+    ngam "Tu dois être fatigué mon frère, je suis pas un arnaqueur."
 
 # game/v14/scene3a.rpy:386
 translate francais v14s03a_e2aceedd:
 
     # u "As a matter of fact, I slept all damn day \"brother man\"."
-    u "À vrai dire, j'ai dormi toute cette putain de journée : \"mon frère\"."
+    u "Pas fatigué, non ! J'ai dormi toute cette putain de journée : \"mon frère\"."
 
 # game/v14/scene3a.rpy:388
 translate francais v14s03a_8f106c52:
@@ -280,7 +280,7 @@ translate francais v14s03a_8f106c52:
 translate francais v14s03a_df7b9105:
 
     # ngam "The eyes can be deceiving brother man."
-    ngam "Les yeux peuvent tromper, mon frère.Les yeux peuvent tromper, mon frère."
+    ngam "Les yeux peuvent tromper, mon frère."
 
 # game/v14/scene3a.rpy:398
 translate francais v14s03a_43cde668:
@@ -304,7 +304,7 @@ translate francais v14s03a_9bb08424:
 translate francais v14s03a_78513d08:
 
     # ry "Well, well, well... What do we have here boys?"
-    ry "Bien, bien, bien... Qu'avons-nous là, les enfants ?"
+    ry "Bon, bon, bon... Qu'avons-nous là, les enfants ?"
 
 # game/v14/scene3a.rpy:443
 translate francais v14s03a_85d22e89:
@@ -322,7 +322,7 @@ translate francais v14s03a_78208e9d:
 translate francais v14s03a_2403f18e:
 
     # imre "Well, karma said it's time to pay up and I'm here to collect, motherfucker. Hand over that wallet \"brother man\"."
-    imre "Bon, le karma a dit qu'il était temps d'payer et je suis là pour encaisser, enfoiré. Donne-moi c'portefeuille, \"mon frère\"."
+    imre "Bon, le karma a dit qu'il était temps d'payer et j'suis là pour encaisser, enfoiré. Donne-moi c'portefeuille, \"mon frère\"."
 
 # game/v14/scene3a.rpy:458
 translate francais v14s03a_7e6a3a58:
@@ -334,7 +334,7 @@ translate francais v14s03a_7e6a3a58:
 translate francais v14s03a_a17b7a66:
 
     # imre "No fucking way, that's not his money."
-    imre "Pas moyen, c'est pas son argent."
+    imre "Pas moyen, c'est pas son fric."
 
 # game/v14/scene3a.rpy:468
 translate francais v14s03a_d3a33299:
@@ -352,7 +352,7 @@ translate francais v14s03a_062e422a:
 translate francais v14s03a_e32c3bca:
 
     # u "The audacity you must have to suggest that we let you get away with this... Imre, go ahead."
-    u "Tu as le culot de vouloir qu'on te laisse t'en tirer comme ça... Imre, vas-y."
+    u "T'as le culot de vouloir qu'on te laisse t'en tirer comme ça... Imre, vas-y."
 
 # game/v14/scene3a.rpy:487
 translate francais v14s03a_5549f2ac:
@@ -364,7 +364,7 @@ translate francais v14s03a_5549f2ac:
 translate francais v14s03a_b68f9621:
 
     # imre "That'll help you get home. We're splitting the rest."
-    imre "Ça t'aidera à rentrer chez toi. Nous, on se partage le reste."
+    imre "Tiens, ça t'aidera à rentrer chez toi. Nous, on s'partage le reste."
 
 # game/v14/scene3a.rpy:507
 translate francais v14s03a_c4df6033:
@@ -400,7 +400,7 @@ translate francais v14s03a_a50be72f:
 translate francais v14s03a_eaa271d0:
 
     # u "Imre, cool it. I'm pretty sure he won't be scamming people anymore after this."
-    u "Imre, détends-toi. Je suis certain que maintenant, il n'arnaquera plus les gens."
+    u "Imre, détends-toi. Je suis sûr que maintenant, il n'arnaquera plus les gens."
 
 # game/v14/scene3a.rpy:536
 translate francais v14s03a_0ce2f3a0:
@@ -412,7 +412,7 @@ translate francais v14s03a_0ce2f3a0:
 translate francais v14s03a_c2d72771:
 
     # ngam "I swear it, no more, no more!"
-    ngam "Je le jure, plus jamais, plus jamais !"
+    ngam "Je l'jure, plus jamais, plus jamais !"
 
 # game/v14/scene3a.rpy:546
 translate francais v14s03a_8608d14e:

@@ -4,13 +4,13 @@
 translate francais v14s03_b0192c3a:
 
     # imre "Hell yeah boys! This is my kind of place!"
-    imre "Putain ouais les gars ! C'est vraiment un lieu qui m'plaît !"
+    imre "Putain ouais les gars ! Ça, c'est mon genre d'endroit !"
 
 # game/v14/scene3.rpy:22
 translate francais v14s03_893ed748:
 
     # u "Who would've guessed? *Chuckles*"
-    u "Qui aurait pu le savoir ? *Rire*"
+    u "Qui aurait pu le deviner ? *Rire*"
 
 # game/v14/scene3.rpy:27
 translate francais v14s03_d31e9481:
@@ -22,7 +22,7 @@ translate francais v14s03_d31e9481:
 translate francais v14s03_7417620b:
 
     # imre "*Whispers* Hey! The fuck? Don't say hoes... You gotta show respect to these beautiful creatures."
-    imre "*Chuchote* Hé ! Putain de bordel ! Ne dis pas putes... Tu dois montrer du respect à ces belles créatures."
+    imre "*Chuchote* Hé ! Putain de merde ! Dis pas \"putes\"... Tu dois montrer du respect à ces belles créatures."
 
 # game/v14/scene3.rpy:37
 translate francais v14s03_ecad0008:
@@ -58,7 +58,7 @@ translate francais v14s03_3e48a043:
 translate francais v14s03_86e7131c:
 
     # imre "I... don't know. Looks sketchy."
-    imre "Je... ne sais pas. Il a l'air louche."
+    imre "Je... sais pas. Il a l'air louche."
 
 # game/v14/scene3.rpy:72
 translate francais v14s03_e5254212:

@@ -4,7 +4,7 @@
 translate francais v14s03d_5a495eb6:
 
     # satin "So, have you ever been to a brothel before?"
-    satin "Alors, as-tu déjà été dans un bordel ?"
+    satin "Alors, t'as déjà été dans un bordel ?"
 
 # game/v14/scene3d.rpy:17
 translate francais v14s03d_b06cdddf:
@@ -22,7 +22,7 @@ translate francais v14s03d_ee12d347:
 translate francais v14s03d_d0c98984:
 
     # satin "Oh, and you aren't a virgin like your friend, right?"
-    satin "Oh, et tu n'es pas puceau comme ton ami, n'est-ce pas ?"
+    satin "Oh, et t'es pas puceau comme ton ami, n'est-ce pas ?"
 
 # game/v14/scene3d.rpy:32
 translate francais v14s03d_002f6181:
@@ -34,13 +34,13 @@ translate francais v14s03d_002f6181:
 translate francais v14s03d_044dfbad:
 
     # satin "You said that with a puffed out chest."
-    satin "Tu as dit ça en gonflant le torse."
+    satin "T'as dit ça en gonflant le torse."
 
 # game/v14/scene3d.rpy:42
 translate francais v14s03d_49a79a2a:
 
     # u "Wanted to be loud and clear, you know? I can't have you thinking that I'm slacking in what I'm packing. *Laughs*"
-    u "Je voulais être clair et net, tu sais ? Je ne peux pas te laisser penser que je me laisse distancer par ce que je prépare. *Rire*"
+    u "Je voulais être clair et net, tu vois ? Je peux pas te laisser penser que je me laisse distancer par ce que je prépare. *Rire*"
 
 # game/v14/scene3d.rpy:47
 translate francais v14s03d_f8160785:
@@ -52,13 +52,13 @@ translate francais v14s03d_f8160785:
 translate francais v14s03d_6db81e7a:
 
     # u "As you wish..."
-    u "Comme tu le désires..."
+    u "Comme tu veux..."
 
 # game/v14/scene3d.rpy:75
 translate francais v14s03d_3547c425:
 
     # u "Satin, you- You have an amazing-"
-    u "Satine, tu... Tu as un incroyable..."
+    u "Satine, tu... T'as un corp incroy-"
 
 # game/v14/scene3d.rpy:80
 translate francais v14s03d_4488f45b:
@@ -82,7 +82,7 @@ translate francais v14s03d_07264ac9:
 translate francais v14s03d_e03d8029:
 
     # u "S-shit! You're a fucking professional! (She's deepthroating like a goddess.)"
-    u "M-merde ! Tu es une putain de professionnelle ! (Elle l'enfonce dans sa gorge comme une déesse.)"
+    u "M-merde ! T'es une putain de professionnelle ! (Elle l'enfonce dans sa gorge comme une déesse.)"
 
 # game/v14/scene3d.rpy:129
 translate francais v14s03d_04658944:
@@ -100,7 +100,7 @@ translate francais v14s03d_b40ddc7d:
 translate francais v14s03d_1b287f25:
 
     # u "*Chuckles* Hey, you get what you pay for right?"
-    u "*Rire* Hé, tu en as pour ton argent, n'est-ce pas ?"
+    u "*Rire* Hé, t'en as pour ton argent, n'est-ce pas ?"
 
 # game/v14/scene3d.rpy:157
 translate francais v14s03d_34d39a5e:
@@ -112,25 +112,25 @@ translate francais v14s03d_34d39a5e:
 translate francais v14s03d_00790db7:
 
     # u "What? I just mean- Like, you are a girl working at a brothel... So."
-    u "Quoi ? Je voulais juste dire... Comme, tu es une fille qui travaille dans un bordel... Alors."
+    u "Quoi ? Je voulais juste dire... Comme, t'es une fille qui travaille dans un bordel... Alors."
 
 # game/v14/scene3d.rpy:167
 translate francais v14s03d_a9b6a478:
 
     # satin "I don't know what this sudden switch of personality is all about, but you're free to go."
-    satin "Je ne sais pas ce que veut dire ce soudain changement de personnalité, mais tu es libre de partir."
+    satin "Je ne sais pas ce que veut dire ce soudain changement de personnalité, mais t'es libre de partir."
 
 # game/v14/scene3d.rpy:172
 translate francais v14s03d_6b3c4b3f:
 
     # u "I wasn't trying to offend you or anything I-"
-    u "Je ne voulais pas t'offenser ou quoi que ce soit, je..."
+    u "Je voulais pas t'offenser ou quoi que ce soit, je..."
 
 # game/v14/scene3d.rpy:177
 translate francais v14s03d_59214afc:
 
     # satin "At this point, regardless of what you say, I'm not even in the mood."
-    satin "À ce stade, peu importe ce que tu dis, je ne suis plus d'humeur."
+    satin "À ce stade, peu importe ce que tu dis, je suis plus d'humeur."
 
 # game/v14/scene3d.rpy:182
 translate francais v14s03d_fc6b0491:
@@ -148,7 +148,7 @@ translate francais v14s03d_8192dad0:
 translate francais v14s03d_2806ff4a:
 
     # satin "I don't want to have to call security."
-    satin "Je ne veux pas avoir à appeler la sécurité."
+    satin "Je veux pas avoir à appeler la sécurité."
 
 # game/v14/scene3d.rpy:197
 translate francais v14s03d_e7203db1:
@@ -160,25 +160,25 @@ translate francais v14s03d_e7203db1:
 translate francais v14s03d_19271ff9:
 
     # u "(What the fuck is wrong with me?)"
-    u "(Qu'est-ce qui ne va pas chez moi ?)"
+    u "(Qu'est-ce qui va pas chez moi ?)"
 
 # game/v14/scene3d.rpy:210
 translate francais v14s03d_648cfe62:
 
     # u "Yes... I... do..."
-    u "Oui... Je... veux..."
+    u "Oui... Je... j'aime..."
 
 # game/v14/scene3d.rpy:215
 translate francais v14s03d_2e7d6032:
 
     # satin "*Chuckles* You're so fucking handsome..."
-    satin "*Rire* Tu es si beau, putain..."
+    satin "*Rire* T'es si beau, putain..."
 
 # game/v14/scene3d.rpy:232
 translate francais v14s03d_6b84aef1:
 
     # u "Oh f-fuck... You're soaking wet!"
-    u "Oh p-putain... Tu es trempée !"
+    u "Oh p-putain... T'es trempée !"
 
 # game/v14/scene3d.rpy:234
 translate francais v14s03d_99e34f2c:
@@ -196,13 +196,13 @@ translate francais v14s03d_8869477d:
 translate francais v14s03d_b0eeedbc:
 
     # u "I can't even fucking concentrate right now..."
-    u "Je n'arrive même plus à me concentrer là..."
+    u "J'arrive même plus à me concentrer là..."
 
 # game/v14/scene3d.rpy:256
 translate francais v14s03d_5ab81e1e:
 
     # satin "Ha! *Panting* You must be enjoying yourself."
-    satin "Ha ! *Halète* Tu as l'air de bien t'amuser."
+    satin "Ha ! *Halète* T'as l'air de bien t'amuser."
 
 # game/v14/scene3d.rpy:264
 translate francais v14s03d_c0d5b0fc:
@@ -232,7 +232,7 @@ translate francais v14s03d_35a55fce:
 translate francais v14s03d_e76c8e7b:
 
     # u "(She wants me to just sit here?)"
-    u "(Elle veut que je reste assis ici ?)"
+    u "(Elle veut que je reste couché comme ça ?)"
 
 # game/v14/scene3d.rpy:312
 translate francais v14s03d_8d1fb751:
@@ -250,13 +250,13 @@ translate francais v14s03d_72f767ff:
 translate francais v14s03d_22cfd83d:
 
     # satin "Fuck me while I'm on my back."
-    satin "Baise-moi quand je suis sur le dos."
+    satin "Prend moi par derrière."
 
 # game/v14/scene3d.rpy:330
 translate francais v14s03d_da5d4f52:
 
     # satin "C'mon over here. What are you waiting for? *Chuckles*"
-    satin "Viens par ici. Qu'est-ce que tu attends ? *Rire*."
+    satin "Viens par ici. Qu'est-ce que t'attends ? *Rire*."
 
 # game/v14/scene3d.rpy:335
 translate francais v14s03d_53e94835:
@@ -334,7 +334,7 @@ translate francais v14s03d_bef176fa:
 translate francais v14s03d_aea2c8a0:
 
     # u "Mmm... AH I-, YES SATIN, YES!"
-    u "Mmm... AH JE-, OUI SATINE, OUI !"
+    u "Mmm... AH JE... OUI SATINE, OUI !"
 
 # game/v14/scene3d.rpy:420
 translate francais v14s03d_b20ce9f4:
@@ -346,25 +346,25 @@ translate francais v14s03d_b20ce9f4:
 translate francais v14s03d_ad917638:
 
     # u "I was thinking the same thing, ha."
-    u "Je me disais la même chose, ha."
+    u "Je me disais la même chose."
 
 # game/v14/scene3d.rpy:430
 translate francais v14s03d_1f709dac:
 
     # satin "*Chuckles* Mind letting me up?"
-    satin "*Rire* Ça te dérange de me laisser monter ?"
+    satin "*Rire* Tu peux me laisser me relever ?"
 
 # game/v14/scene3d.rpy:435
 translate francais v14s03d_e95423f5:
 
     # u "If I have to... *Laughs*"
-    u "Si je le dois... *Rire*"
+    u "S'il le faut... *Rire*"
 
 # game/v14/scene3d.rpy:443
 translate francais v14s03d_2a6a862a:
 
     # satin "I'm sorry that I kept asking you to be quiet..."
-    satin "Je suis désolée de ne pas avoir arrêté de te demander de te taire..."
+    satin "Je suis désolée de pas avoir arrêté de te demander de te taire..."
 
 # game/v14/scene3d.rpy:448
 translate francais v14s03d_73c251a3:
@@ -376,7 +376,7 @@ translate francais v14s03d_73c251a3:
 translate francais v14s03d_b6747b8b:
 
     # u "You mean think about Will?"
-    u "Tu veux dire penser à Will ?"
+    u "Tu veux dire arrêter de penser à Will ?"
 
 # game/v14/scene3d.rpy:458
 translate francais v14s03d_2df142bf:
@@ -418,7 +418,7 @@ translate francais v14s03d_6ef58304:
 translate francais v14s03d_0ec6f50d:
 
     # satin "I'm not trying to be mean, I just... I'm sorry, can you please go?"
-    satin "Je ne veux pas être méchante, je veux juste... Je suis désolée, peux-tu t'en aller, s'il te plaît ?"
+    satin "Je veux pas être méchante, je veux juste... Je suis désolée, peux-tu t'en aller, s'il te plaît ?"
 
 # game/v14/scene3d.rpy:490
 translate francais v14s03d_014743c9:
@@ -430,13 +430,13 @@ translate francais v14s03d_014743c9:
 translate francais v14s03d_nsfwSkipLabel1_9cb90cf6:
 
     # u "(Well that didn't end exactly how I had imagined.)"
-    u "(Eh ben, ça ne s'est pas terminé exactement comme je l'avais imaginé)."
+    u "(Eh ben, ça s'est pas terminé exactement comme je l'avais imaginé)."
 
 translate francais strings:
 
     # game/v14/scene3d.rpy:148
     old "You get what you pay for"
-    new "Tu as ce que tu as payé"
+    new "Tu as ce pour quoi tu as payé"
 
     # game/v14/scene3d.rpy:148
     old "Yes I do"
