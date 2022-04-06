@@ -2374,7 +2374,7 @@ translate francais v15s18a_BronzeDeer_3a52f5ae:
 translate francais v15s18a_AutumnLaurenPhoto_72a6d6d1:
 
     # u "(Aww, haha. \"Best friends forever\". They're super close, aren't they...)"
-    u "( Oooh, haha. "Meilleurs amis pour toujours". Ils sont vraiment très proches, hein...)"
+    u "( Oooh, haha. \"Meilleurs amis pour toujours\". Ils sont vraiment très proches, hein...)"
 
 # game/v15/scene18a.rpy:2577
 translate francais v15s18a_Pumpkin_9cf9dc8f:

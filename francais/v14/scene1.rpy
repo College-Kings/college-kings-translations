@@ -148,7 +148,7 @@ translate francais v14s01_38c04ed4:
 translate francais v14s01_b84d4e6c:
 
     # au "Are you feeling any better, [name]?"
-    au "Are you feeling any better, [name]?"
+    au "Tu te sens mieux, [name] ?"
 
 # game/v14/scene1.rpy:271
 translate francais v14s01_edbab935:

@@ -898,7 +898,7 @@ translate francais v15s10_17b632a9:
 translate francais v15s10_51b57393:
 
     # female_buyer "Bubblegum smell?!"
-    female_buyer Une odeur de chewing-gum ?!""
+    female_buyer "Une odeur de chewing-gum ?!"
 
 # game/v15/scene10.rpy:1016
 translate francais v15s10_505a3f68:
