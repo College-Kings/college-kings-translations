@@ -1094,7 +1094,7 @@ translate francais strings:
 
     # renpy/common/_developer/developer.rpym:448
     old "Mouse position: %r"
-    new "Mouse position : %r"
+    new "Position de la souris : %r"
 
     # renpy/common/_developer/developer.rpym:453
     old "Right-click or escape to quit."
