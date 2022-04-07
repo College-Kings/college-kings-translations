@@ -10,7 +10,7 @@ translate francais v14s31a_35bf2b5c:
 translate francais v14s31a_9733a4f9:
 
     # ca "Can't be walking around looking like a little bitch boy. Too much partying does that to you, you know."
-    ca "Tu peux pas continuer à t'balader en ayant l'air d'un petit merdeux. À trop faire la fête, tu d'viens comme ça, tu sais."
+    ca "Tu peux pas continuer à t'balader en ayant l'air d'un p'tit merdeux. À trop faire la fête, tu d'viens comme ça, tu sais."
 
 # game/v14/scene31a.rpy:32
 translate francais v14s31a_daeffb37:
@@ -40,7 +40,7 @@ translate francais v14s31a_a7361e7c:
 translate francais v14s31a_ad0ff772:
 
     # ca "Okay, good form. I'll give you that. How are your sit ups?"
-    ca "Ok, t'es en forme. J'avoue. Et tes redressements assis, ils donnent quoi ?"
+    ca "Ok, t'es en forme. J'avoue. Et tes redressements assis, ça donne quoi ?"
 
 # game/v14/scene31a.rpy:146
 translate francais v14s31a_7ed98f38:
@@ -100,13 +100,13 @@ translate francais v14s31a_1eed7aae:
 translate francais v14s31a_ec7e3892:
 
     # u "Ta-fucking-da! Here I am."
-    u "Ta-putain-de-da ! Je suis là."
+    u "Ta-putain-da !!! Je suis là."
 
 # game/v14/scene31a.rpy:196
 translate francais v14s31a_7ece1efb:
 
     # u "Maybe if you didn't assume that no one enjoyed you, you'd find out that they actually do."
-    u "Peut-être que si tu ne partais pas du principe que personne ne t'apprécie, tu découvrirais qu'ils te kiffent vraiment."
+    u "Peut-être que si tu partais pas du principe que personne t'apprécie, tu découvrirais qu'ils te kiffent vraiment."
 
 # game/v14/scene31a.rpy:201
 translate francais v14s31a_a20b6a22:
@@ -226,7 +226,7 @@ translate francais v14s31a_1b28a406:
 translate francais v14s31a_02253c97:
 
     # u "We want the Apes to form an alliance with Chloe, making The Chicks the sister frat of the Apes."
-    u "Nous voulons que les Apes forment une alliance avec Chloé, faisant des Chicks la fratrie sœur des Apes."
+    u "On veut que les Apes forment une alliance avec Chloé, faisant des Chicks la fratrie sœur des Apes."
 
 # game/v14/scene31a.rpy:304
 translate francais v14s31a_0d63fdce:
@@ -238,7 +238,7 @@ translate francais v14s31a_0d63fdce:
 translate francais v14s31a_aab6ee38:
 
     # u "Duh, so Lindsey doesn't win."
-    u "Bah, pour que Lindsey ne gagne pas."
+    u "Bah, pour que Lindsey gagne pas."
 
 # game/v14/scene31a.rpy:317
 translate francais v14s31a_c93b4624:
@@ -256,7 +256,7 @@ translate francais v14s31a_987a21f8:
 translate francais v14s31a_53de2582:
 
     # ca "And I know her too. You're basically one in the same."
-    ca "Et j'la connais aussi. Vous êtes quasiment les mêmes."
+    ca "Et j'la connais aussi. Vous êtes quasiment pareil."
 
 # game/v14/scene31a.rpy:332
 translate francais v14s31a_3c7a03e2:
@@ -310,7 +310,7 @@ translate francais v14s31a_4edef02b:
 translate francais v14s31a_5a1ae958:
 
     # u "They can't throw a good party after an alliance like that has been made."
-    u "Ils ne peuvent plus organiser une bonne fête, après qu'une alliance comme celle-là ait été conclue."
+    u "Ils pourront plus organiser de bonne fête, après qu'une alliance comme celle-là ait été conclue."
 
 # game/v14/scene31a.rpy:380
 translate francais v14s31a_b452a00b:
@@ -346,13 +346,13 @@ translate francais v14s31a_163a20fb:
 translate francais v14s31a_3ed474c5:
 
     # u "That's why we came to you, you're someone he does listen to."
-    u "C'est pourquoi on est venu te voir toi. Tu es quelqu'un qu'il écoute."
+    u "C'est pourquoi on est venu te voir TOI. T'es quelqu'un qu'il écoute."
 
 # game/v14/scene31a.rpy:411
 translate francais v14s31a_42381b6a:
 
     # u "Grayson doesn't have many people he'll take advice from, but you're one of those people."
-    u "Grayson n'a pas beaucoup de personnes dont il accepte les conseils, mais tu es l'une de celles-ci."
+    u "Grayson n'a pas beaucoup de personnes dont il accepte les conseils, mais par contre, t'es l'une de celles-ci."
 
 # game/v14/scene31a.rpy:416
 translate francais v14s31a_286869e4:
@@ -376,7 +376,7 @@ translate francais v14s31a_5076a945:
 translate francais v14s31a_5646e356:
 
     # u "I don't know exactly, we haven't decided just yet."
-    u "Je sais pas exactement, on n'a pas encore décidé."
+    u "Je sais pas exactement, on a pas encore décidé."
 
 # game/v14/scene31a.rpy:439
 translate francais v14s31a_cbee938a:
@@ -442,7 +442,7 @@ translate francais v14s31a_40f34279:
 translate francais v14s31a_a8fa8aa0:
 
     # cl "Your actions say it all. You're a natural leader."
-    cl "Tes actions en disent long. Tu es un leader naturel."
+    cl "Tes actions en disent long. Tu es un leader né."
 
 # game/v14/scene31a.rpy:492
 translate francais v14s31a_36b488f6:
@@ -454,7 +454,7 @@ translate francais v14s31a_36b488f6:
 translate francais v14s31a_7fd469f1:
 
     # u "She's not wrong."
-    u "Elle n'a pas tort."
+    u "Elle a pas tort."
 
 # game/v14/scene31a.rpy:508
 translate francais v14s31a_d4a0112e:
@@ -502,7 +502,7 @@ translate francais v14s31a_ee3e607d:
 translate francais v14s31a_fb6d3041:
 
     # ca "That's Ape business only."
-    ca "C'est seulement une affaire de Ape."
+    ca "C'est une affaire de Apes."
 
 # game/v14/scene31a.rpy:554
 translate francais v14s31a_423c6f19:
@@ -538,7 +538,7 @@ translate francais v14s31a_7c4f47f8:
 translate francais v14s31a_aaf0917f:
 
     # u "She means every word that she says. She wouldn't say it to you if she didn't believe it, or mean it."
-    u "Elle pense chaque mot qu'elle dit. Elle ne te dirait pas tout ça si elle n'y croyait pas ou si elle ne le pensait pas."
+    u "Elle pense chaque mot qu'elle dit. Elle te dirait pas tout ça si elle n'y croyait pas ou si elle le pensait pas."
 
 # game/v14/scene31a.rpy:584
 translate francais v14s31a_c5b37bf2:
@@ -568,7 +568,7 @@ translate francais v14s31a_61a68111:
 translate francais v14s31a_9d3ee6dc:
 
     # u "Do I? *Chuckles*"
-    u "Tu trouves ? *Rire*."
+    u "Tu trouves ? *Rire*"
 
 # game/v14/scene31a.rpy:614
 translate francais v14s31a_00fb4568_1:
@@ -580,7 +580,7 @@ translate francais v14s31a_00fb4568_1:
 translate francais v14s31a_feb97fe2:
 
     # ca "I'll see you later, man."
-    ca "On se voit plus tard, mec."
+    ca "On s'voit plus tard, mec."
 
 # game/v14/scene31a.rpy:624
 translate francais v14s31a_03ec2f26:
@@ -598,7 +598,7 @@ translate francais v14s31a_1bb308b4:
 translate francais v14s31a_92f9d0f7:
 
     # u "Nothing, and it's not surprising. Your whole attitude screams Apes."
-    u "Rien, et ça n'est pas surprenant. Ton attitude entière crie \"Apes\"."
+    u "Rien, et c'est pas surprenant. Ton attitude entière crie \"Apes\"."
 
 # game/v14/scene31a.rpy:640
 translate francais v14s31a_8f71c823:

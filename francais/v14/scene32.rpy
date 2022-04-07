@@ -22,7 +22,7 @@ translate francais v14s32_05a1b50a:
 translate francais v14s32_d6007a67:
 
     # u "What do you mean, dickhead? I came straight over when you called. *Laughs*"
-    u "De quoi tu parles, connasse ? Je suis venu dès que tu m'as appelé. *Rire"
+    u "De quoi tu parles, connasse ? Je suis venu dès que tu m'as appelé. *Rire*"
 
 # game/v14/scene32.rpy:43
 translate francais v14s32_6ecc836f:
@@ -136,7 +136,7 @@ translate francais v14s32_a6ce64ad:
 translate francais v14s32_d1448fed:
 
     # u "Yeah, I guess it is kinda messed up that Ryan doesn't tell the whole story."
-    u "Ouais, je trouve ça plutôt chelou que Ryan ne raconte pas toute l'histoire."
+    u "Ouais, je trouve ça plutôt chelou que Ryan raconte pas toute l'histoire."
 
 # game/v14/scene32.rpy:143
 translate francais v14s32_f48858b5:
@@ -166,7 +166,7 @@ translate francais v14s32_03425248:
 translate francais v14s32_df503f0f:
 
     # u "Whatever man, but don't say I didn't tell you that this is going to cause more harm than good, for both of you."
-    u "Comme tu veux mec, mais ne dis pas que je t'ai pas prévenu que ça causera plus de mal que de bien, entre vous."
+    u "Comme tu veux mec, mais dis pas que je t'ai pas prévenu que ça causera plus de mal que de bien, entre vous."
 
 # game/v14/scene32.rpy:168
 translate francais v14s32_8b49d453:
@@ -178,7 +178,7 @@ translate francais v14s32_8b49d453:
 translate francais v14s32_92e7a842:
 
     # u "On a more positive note, we never talked about the Red Light District after what went down."
-    u "Pour être plus positif, on n'a jamais parlé du Red Light District après ce qui s'est passé."
+    u "Pour être plus positif, on a jamais parlé du Red Light District après ce qui s'est passé."
 
 # game/v14/scene32.rpy:175
 translate francais v14s32_e887ca10:
@@ -196,7 +196,7 @@ translate francais v14s32_0922e77b:
 translate francais v14s32_f09ab364:
 
     # imre "If you wanna know the truth, I went back to the hotel, got money from Chris and then went right back to the brothel. *Chuckles*"
-    imre "Si tu veux vraiment savoir, j'suis retourné à l'hôtel, j'ai emprunté d'l'argent à Chris et puis j'suis retourné direct au bordel. *Rire*"
+    imre "Si tu veux vraiment l'savoir, j'suis retourné à l'hôtel, j'ai emprunté d'l'argent à Chris et puis j'suis retourné direct au bordel. *Rire*"
 
 # game/v14/scene32.rpy:187
 translate francais v14s32_30d96919:
@@ -238,7 +238,7 @@ translate francais v14s32_076a04a5:
 translate francais v14s32_c3bb4c2f:
 
     # imre "Don't act brand new, you know how I am. *Laughs*"
-    imre "Fais pas ton puceau, tu sais comment j'suis. *Rire*"
+    imre "Fais pas ta pucelle, tu sais comment j'suis. *Rire*"
 
 # game/v14/scene32.rpy:219
 translate francais v14s32_a800c547:
@@ -382,7 +382,7 @@ translate francais v14s32_18a20b99:
 translate francais v14s32_bb98e695:
 
     # u "Oh, haha. No, as far as I know I'm an only child."
-    u "Oh, haha. Non, pour ce que je sais, je suis fils unique."
+    u "Oh, haha. Non, pour ce que j'en sais, je suis fils unique."
 
 # game/v14/scene32.rpy:371
 translate francais v14s32_8f3a1abc:
@@ -442,7 +442,7 @@ translate francais v14s32_f3520f10:
 translate francais v14s32_8e55d587:
 
     # u "Quit whispering compliments to them when they're standing right next to you?"
-    u "Arrêter de leur chuchoter des compliments alors qu'elles sont juste à côté de toi ?"
+    u "Pour commencer, arrêter de leur chuchoter des compliments alors qu'elles sont juste à côté de toi, non ?"
 
 # game/v14/scene32.rpy:432
 translate francais v14s32_8792fb58:
@@ -526,7 +526,7 @@ translate francais v14s32_adda01a7:
 translate francais v14s32_1314f765:
 
     # imre "She just made an announcement on Kiwii, did you see it yet?"
-    imre "Elle vient d'faire un post sur Kiwii, tu l'as vue ?"
+    imre "Elle vient d'faire un post sur Kiwii, tu l'as vu ?"
 
 # game/v14/scene32.rpy:506
 translate francais v14s32_20154e2d:
@@ -634,7 +634,7 @@ translate francais v14s32_0f9ac804:
 translate francais v14s32_b9f1d16e:
 
     # imre "You think so?"
-    imre "Tu le penses vraiment ?"
+    imre "Tu l'penses vraiment ?"
 
 # game/v14/scene32.rpy:610
 translate francais v14s32_93e118d0:
@@ -652,7 +652,7 @@ translate francais v14s32_89730158:
 translate francais v14s32_ac7a43f6:
 
     # u "*Laughs* Do it fast."
-    u "*Rire* Fais le plus vite."
+    u "*Rire* Fais le au plus vite."
 
 # game/v14/scene32.rpy:643
 translate francais v14s32_14cbfee3:
@@ -670,13 +670,13 @@ translate francais v14s32_55550b1f:
 translate francais v14s32_77b3a786:
 
     # imre "You really wanna know?"
-    imre "Tu veux vraiment savoir ?"
+    imre "Tu veux vraiment l'savoir ?"
 
 # game/v14/scene32.rpy:659
 translate francais v14s32_e02d91b5:
 
     # u "That's why I asked, ha."
-    u "C'est pour ça que j'ai demandé."
+    u "Oui, c'est pour ça que j'ai demandé."
 
 # game/v14/scene32.rpy:664
 translate francais v14s32_ba3078bf:

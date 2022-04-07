@@ -16,7 +16,7 @@ translate francais v14s30b_68d6c17a:
 translate francais v14s30b_ff795ce1:
 
     # cl "I do. I also think this helps the campaign a lot."
-    cl "Je crois que oui. Je crois aussi que ça va beaucoup aider à la campagne."
+    cl "Je crois que oui. Je crois aussi que ça va beaucoup nous aider dans la campagne."
 
 # game/v14/scene30b.rpy:29
 translate francais v14s30b_3ea8c1f7:
@@ -46,7 +46,7 @@ translate francais v14s30b_49a1fdb7:
 translate francais v14s30b_689f11ca:
 
     # u "So you know about Lew's and all that?"
-    u "Alors tu sais pour Lew's et tout ça ?"
+    u "Alors t'es au courant pour Lew's et tout ça ?"
 
 # game/v14/scene30b.rpy:51
 translate francais v14s30b_bc8e8300:
@@ -82,7 +82,7 @@ translate francais v14s30b_091961ec:
 translate francais v14s30b_23ee5808:
 
     # cl "I'm not sure how these will be perceived and all you know? With us having a fake wolf, but I still think the pictures are really good."
-    cl "Je ne suis pas sûre de la façon dont elles seront perçues et tout, tu vois ? Avec le fait que nous ayons un faux loup, mais je trouve quand même que les photos sont vraiment bonnes."
+    cl "Je ne suis pas sûre de la façon dont elles seront perçues et tout, tu vois ? Avec le fait qu'on ait un faux loup, mais je trouve quand même que les photos sont vraiment bonnes."
 
 # game/v14/scene30b.rpy:84
 translate francais v14s30b_116f61c9:
@@ -142,7 +142,7 @@ translate francais v14s30b_30efcb12:
 translate francais v14s30b_292be443:
 
     # u "Yeah, that's perfect. Standing tall and proud with a short and sweet caption, the main feature is you."
-    u "Ouais, c'est parfait. Se tenant droit et fière avec une légende courte et mignonne, l'élément principal est toi."
+    u "Ouais, c'est parfait. Se tenant droit et fière avec une légende courte et mignonne, l'élément principal, c'est toi."
 
 # game/v14/scene30b.rpy:162
 translate francais v14s30b_fb64509d:
@@ -166,7 +166,7 @@ translate francais v14s30b_a09bcf6f:
 translate francais v14s30b_3d605b0a:
 
     # u "Well, yeah. Like something about the Chicks and the Wolves, so it feel like a team effort?"
-    u "Eh bien, ouais. Comme quelque chose à propos des Chicks et des Wolves, pour que ça ait l'air d'un effort d'équipe ?"
+    u "Eh bien, ouais. Comme quelque chose à propos des Chicks et des Wolves, pour que ça ait l'air d'un effort d'équipe !?"
 
 # game/v14/scene30b.rpy:184
 translate francais v14s30b_271fb9bf:

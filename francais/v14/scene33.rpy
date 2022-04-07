@@ -94,7 +94,7 @@ translate francais v14s33_f74ec78c:
 translate francais v14s33_ad4ff414:
 
     # u "*Laughs* You've never watched porn before?"
-    u "*Rire* Tu n'as jamais regardé de porno avant ?"
+    u "*Rire* T'as jamais regardé de porno avant ?"
 
 # game/v14/scene33.rpy:120
 translate francais v14s33_245fafff:
@@ -154,7 +154,7 @@ translate francais v14s33_e1b3a609:
 translate francais v14s33_8daf9c19:
 
     # u "(Lauren watching porn for the first time? Haha! I hope she didn't take that the wrong way... But, damn...)"
-    u "(Lauren regardant du porno pour la première fois ? Haha ! J'espère qu'elle ne l'a pas mal pris... Mais, merde...)"
+    u "(Lauren regardant du porno pour la première fois ? Haha ! J'espère qu'elle l'a pas mal pris... Mais, merde...)"
 
 # game/v14/scene33.rpy:176
 translate francais v14s33_05961626:
@@ -190,7 +190,7 @@ translate francais v14s33_6b33efe9:
 translate francais v14s33_1d20df29:
 
     # la "When we get together again, I wanna talk about it."
-    la "J'aimerais en parler, lorsque nous nous reverrons."
+    la "J'aimerais en parler, lorsqu'on se reverra."
 
 # game/v14/scene33.rpy:206
 translate francais v14s33_feb397d2:
@@ -304,7 +304,7 @@ translate francais v14s33_f74ec78c_1:
 translate francais v14s33_ad4ff414_1:
 
     # u "*Laughs* You've never watched porn before?"
-    u "*Rire* Tu n'as jamais regardé de porno avant ?"
+    u "*Rire* T'as jamais regardé de porno avant ?"
 
 # game/v14/scene33.rpy:351
 translate francais v14s33_245fafff_1:
@@ -364,7 +364,7 @@ translate francais v14s33_5d02055e:
 translate francais v14s33_8daf9c19_1:
 
     # u "(Lauren watching porn for the first time? Haha! I hope she didn't take that the wrong way... But, damn...)"
-    u "(Lauren regardant du porno pour la première fois ? Haha ! J'espère qu'elle ne l'a pas mal pris... Mais, merde...)"
+    u "(Lauren regardant du porno pour la première fois ? Haha ! J'espère qu'elle l'a pas mal pris... Mais, merde...)"
 
 # game/v14/scene33.rpy:406
 translate francais v14s33_05961626_1:
@@ -400,7 +400,7 @@ translate francais v14s33_6b33efe9_1:
 translate francais v14s33_1d20df29_1:
 
     # la "When we get together again, I wanna talk about it."
-    la "J'aimerais en parler, lorsque nous nous reverrons."
+    la "J'aimerais en parler, lorsqu'on se reverra."
 
 # game/v14/scene33.rpy:436
 translate francais v14s33_feb397d2_1:

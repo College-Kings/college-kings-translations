@@ -10,7 +10,7 @@ translate francais v14s28_3e834dd2:
 translate francais v14s28_65f7e3a8:
 
     # em "Seems like you don't mind fucking me but when it comes to actually being a nice person or resurrecting our relationship, you're not for it."
-    em "On dirait que ça ne te dérange pas de me baiser mais dès qu'il s'agit d'être gentil ou de faire renaître notre relation, tu n'es pas d'accord."
+    em "On dirait que ça ne te dérange pas de me baiser, mais dès qu'il s'agit d'être gentil ou de faire renaître notre relation, tu n'es pas d'accord."
 
 # game/v14/scene28.rpy:25
 translate francais v14s28_0238517d:
@@ -28,13 +28,13 @@ translate francais v14s28_b131916e:
 translate francais v14s28_1f58f62e:
 
     # em "I've made mistakes, not just the cheating either."
-    em "J'ai fait des erreurs et pas seulement en te trompant."
+    em "Oui, j'ai fait des erreurs et pas seulement en te trompant."
 
 # game/v14/scene28.rpy:42
 translate francais v14s28_0a4c1d23:
 
     # em "I've made dozens of more mistakes since we've been in college, but regardless of that, I know how I feel and have always felt about you."
-    em "J'ai fait des dizaines d'autres erreurs depuis que nous sommes à l'université, mais malgré tout ça, je sais ce que je ressens et ai toujours ressenti pour toi."
+    em "J'ai également fait des dizaines d'autres erreurs depuis qu'on est à l'université, mais malgré tout ça, je sais ce que je ressens et ai toujours ressenti pour toi."
 
 # game/v14/scene28.rpy:44
 translate francais v14s28_c6ce96b1:
@@ -82,13 +82,13 @@ translate francais v14s28_564ae353:
 translate francais v14s28_7f59ffc7:
 
     # u "We've had our bumps in the road but someway, somehow, we always get drawn right back to each other."
-    u "Nous avons eu des obstacles sur la route, mais d'une manière ou d'une autre, nous sommes toujours attirés l'un vers l'autre."
+    u "On a eu des obstacles sur la route, mais d'une manière ou d'une autre, on est toujours attirés l'un vers l'autre."
 
 # game/v14/scene28.rpy:84
 translate francais v14s28_da21dd65:
 
     # u "That's what tells me that there's something between us, and it is meant to be."
-    u "C'est ce qui me dit qu'il y a quelque chose entre nous et qu'il doit en être ainsi."
+    u "C'est ça qui me dit qu'il y a quelque chose entre nous et qu'il doit en être ainsi."
 
 # game/v14/scene28.rpy:86
 translate francais v14s28_a565f2b5:
@@ -106,7 +106,7 @@ translate francais v14s28_f834b3f8:
 translate francais v14s28_d637c397:
 
     # u "I do."
-    u "Je le suis."
+    u "Oui, je le suis."
 
 # game/v14/scene28.rpy:111
 translate francais v14s28_2174e76f:
@@ -124,19 +124,19 @@ translate francais v14s28_d4d449fa:
 translate francais v14s28_cee884d8:
 
     # u "I'm not going to be rude or anything, but I have to be honest."
-    u "Je ne vais pas être désagréable ou quoi que ce soit, mais je dois être honnête avec toi."
+    u "Je vais pas être désagréable ou quoi que ce soit, mais je dois être franc avec toi."
 
 # game/v14/scene28.rpy:125
 translate francais v14s28_fdba6637:
 
     # u "I don't want to be in a relationship with you."
-    u "Je ne veux plus être avec toi."
+    u "Je veux plus être avec toi."
 
 # game/v14/scene28.rpy:130
 translate francais v14s28_7ea1bc6b:
 
     # u "I feel like I've made that clear in the past few months, but in the event that I haven't, I will now."
-    u "Je pensais avoir été clair ces derniers mois, mais vu qu'apparemment ça n'a pas été le cas, je vais te le dire maintenant."
+    u "Je croyais avoir été clair ces derniers mois, mais vu qu'apparemment ça n'a pas été le cas, je vais te le dire maintenant."
 
 # game/v14/scene28.rpy:132
 translate francais v14s28_ddb9587e:
@@ -172,7 +172,7 @@ translate francais v14s28_e95acc74:
 translate francais v14s28_39718f20:
 
     # u "What's the news?"
-    u "Qu'est-ce qui se passe ?"
+    u "Quoi ?"
 
 # game/v14/scene28.rpy:153
 translate francais v14s28_7350ea4d:
@@ -262,7 +262,7 @@ translate francais v14s28_a2c5f3ed:
 translate francais v14s28_c5a07c36:
 
     # u "You're sure about this?"
-    u "Tu es sûre de toi ?"
+    u "T'es sûre de toi ?"
 
 # game/v14/scene28.rpy:218
 translate francais v14s28_27e20465:
@@ -280,7 +280,7 @@ translate francais v14s28_a210880e:
 translate francais v14s28_048759a0:
 
     # u "I wasn't aware that you were even considering this."
-    u "Je ne savais même pas que tu envisageais de faire ça."
+    u "Je savais même pas que tu envisageais de faire ça."
 
 # game/v14/scene28.rpy:230
 translate francais v14s28_817122dc:
@@ -292,7 +292,7 @@ translate francais v14s28_817122dc:
 translate francais v14s28_3b800371:
 
     # u "I understand you wanting a fresh start, and I'm not gonna hold you back."
-    u "Je comprends parfaitement que tu veuilles prendre un nouveau départ, et je ne vais pas te retenir."
+    u "Je comprends parfaitement que tu veuilles prendre un nouveau départ, et je vais pas te retenir."
 
 # game/v14/scene28.rpy:237
 translate francais v14s28_47a603d7:
@@ -316,7 +316,7 @@ translate francais v14s28_7a816942:
 translate francais v14s28_0528cc12:
 
     # em "I'm happy to hear you say that. *Chuckles*"
-    em "Je suis heureuse de t'entendre dire ça. *Rire*."
+    em "Je suis heureuse de t'entendre dire ça. *Rire*"
 
 # game/v14/scene28.rpy:257
 translate francais v14s28_0be3a0c5:
@@ -358,7 +358,7 @@ translate francais v14s28_e40ed444:
 translate francais v14s28_b236b055:
 
     # u "Regardless of our relationship, I would've been upset not knowing you'd left."
-    u "Quelle que soit notre relation, j'aurais été bouleversé de ne pas savoir que tu étais partie."
+    u "Quelle que soit notre relation, j'aurais été bouleversé de pas savoir que tu étais partie."
 
 # game/v14/scene28.rpy:286
 translate francais v14s28_20904f2f:
@@ -382,13 +382,13 @@ translate francais v14s28_3959905e:
 translate francais v14s28_3b7e0c28:
 
     # em "If you want this relationship as much as you say you do, we'll be able to make this long distance thing work."
-    em "Si tu souhaites vraiment que ça continue entre nous, nous pourrons faire en sorte que notre relation longue distance fonctionne."
+    em "Si tu souhaites vraiment que ça continue entre nous, on pourrait faire en sorte que notre relation longue distance fonctionne."
 
 # game/v14/scene28.rpy:303
 translate francais v14s28_d2733691:
 
     # em "This is real. So, I know we can."
-    em "Et si c'est vraiment sincère. Alors, je sais que nous y arriverons."
+    em "Et si c'est vraiment sincère. Alors, je sais qu'on y arrivera."
 
 # game/v14/scene28.rpy:320
 translate francais v14s28_18a509cf_1:
@@ -448,7 +448,7 @@ translate francais v14s28_ed1f8277:
 translate francais v14s28_f964a0a0:
 
     # u "(After all our history, our ups and downs on campus... She's actually gone.)"
-    u "(Après toute notre histoire, les hauts et les bas que nous avons vécus sur le campus... Elle est vraiment partie.)"
+    u "(Après toute notre histoire, les hauts et les bas qu'on a vécu sur le campus... Elle est vraiment partie.)"
 
 # game/v14/scene28.rpy:376
 translate francais v14s28_d978c3bc:

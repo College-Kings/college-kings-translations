@@ -28,7 +28,7 @@ translate francais v14s31b_ed1735f1:
 translate francais v14s31b_40b3c179:
 
     # u "Yeah, this idea is kinda risky. You said it'd be easy with a little alcohol in him right?"
-    u "Ouais, cette idée est un peu risquée. Tu as dit que ce serait facile en lui donnant un peu d'alcool, non ?"
+    u "Ouais, cette idée est un peu risquée. T'as dit que ce serait facile en lui donnant un peu d'alcool, non ?"
 
 # game/v14/scene31b.rpy:52
 translate francais v14s31b_76ecf22e:
@@ -58,7 +58,7 @@ translate francais v14s31b_192f4b49:
 translate francais v14s31b_3e823a5f:
 
     # u "Umm... You will be on your own... I'm not flirting with him, haha."
-    u "Hum... Tu te débrouilleras toute seule... Je ne vais pas flirter avec lui, haha."
+    u "Hum... Tu te débrouilleras toute seule... Je vais pas flirter avec lui, haha."
 
 # game/v14/scene31b.rpy:87
 translate francais v14s31b_f33605b3:
@@ -178,7 +178,7 @@ translate francais v14s31b_3f8592ef:
 translate francais v14s31b_3907b078:
 
     # u "I'm sorry, but... I don't feel comfortable with that."
-    u "Je suis desolé, mais... Je ne me sens pas à l'aise avec ça."
+    u "Je suis desolé, mais... Je me sens pas à l'aise avec ça."
 
 # game/v14/scene31b.rpy:202
 translate francais v14s31b_cbdbdc30:
@@ -220,19 +220,19 @@ translate francais v14s31b_1ffbd447:
 translate francais v14s31b_a3a858ec:
 
     # au "Haha! I'm not one of your little frat boys that you can intimidate, Gray."
-    au "Haha ! Je ne suis pas l'un de tes petits copains de fraternité que tu peux intimider, Gray."
+    au "Haha ! Je suis pas l'un de tes petits copains de fraternité que tu peux intimider, Gray."
 
 # game/v14/scene31b.rpy:257
 translate francais v14s31b_af60ede1:
 
     # au "You want something from me, you'll have to earn it."
-    au "Si tu veux quelque chose de moi, tu devras le mériter."
+    au "Si tu veux quelque chose de moi, tu vas devoir le mériter."
 
 # game/v14/scene31b.rpy:262
 translate francais v14s31b_119d687b:
 
     # gr "You're such a sleazy-"
-    gr "T'es vraiment sournoise."
+    gr "T'es vraiment une sa-"
 
 # game/v14/scene31b.rpy:267
 translate francais v14s31b_818419b2:
@@ -244,7 +244,7 @@ translate francais v14s31b_818419b2:
 translate francais v14s31b_673adb04:
 
     # au "Hey! Finally! People other than Grayson!"
-    au "Salut ! Enfin ! Il y a d'autres personnes que Grayson !"
+    au "Salut ! Enfin ! Contente de plus être seule avec Grayson !"
 
 # game/v14/scene31b.rpy:298
 translate francais v14s31b_c2648495:
@@ -280,7 +280,7 @@ translate francais v14s31b_a92f4102:
 translate francais v14s31b_6a5545df:
 
     # u "Nah, it's not, ha."
-    u "Non, c'est pas le cas."
+    u "Nan, c'est pas drôle."
 
 # game/v14/scene31b.rpy:355
 translate francais v14s31b_f8278f87:
@@ -304,13 +304,13 @@ translate francais v14s31b_108b353e:
 translate francais v14s31b_0c815a1e:
 
     # u "The hot shot freshman, huh? Haven't heard that one yet."
-    u "Le nouveau venu sexy, hein ? Je ne l'ai pas encore entendue, celle-là."
+    u "Le nouveau venu sexy, hein ? Je l'avait pas encore entendue, celle-là."
 
 # game/v14/scene31b.rpy:375
 translate francais v14s31b_45ddb14e:
 
     # au "There's a lot you haven't heard."
-    au "Il y a beaucoup de choses que tu n'as pas entendues."
+    au "Il y a beaucoup de choses que t'as pas entendues."
 
 # game/v14/scene31b.rpy:386
 translate francais v14s31b_fdc6ad7b:
@@ -328,7 +328,7 @@ translate francais v14s31b_96d50654:
 translate francais v14s31b_50440223:
 
     # gr "Spark up already, Aubrey! I can't ease into this without being high."
-    gr "Déjà, Allume ça, Aubrey ! Je peux pas me mettre à l'aise sans être défoncée."
+    gr "Déjà, Allume ça, Aubrey ! J'peux pas me mettre à l'aise sans être défoncée."
 
 # game/v14/scene31b.rpy:401
 translate francais v14s31b_fea3d640:
@@ -376,7 +376,7 @@ translate francais v14s31b_24e2ad1a:
 translate francais v14s31b_9482084e:
 
     # cl "I knew you were gonna do this..."
-    cl "Je savais que tu allais faire ça..."
+    cl "Je savais que tu allais remettre ça..."
 
 # game/v14/scene31b.rpy:493
 translate francais v14s31b_253a6c51:
@@ -388,7 +388,7 @@ translate francais v14s31b_253a6c51:
 translate francais v14s31b_0784d08e:
 
     # gr "What?! I haven't said anything bad. I'm just reminiscing..."
-    gr "Quoi ? Je n'ai rien dit de mal. Je me rappelle juste des souvenirs..."
+    gr "Quoi ? J'ai rien dit de mal. J'me rappelle juste des souvenirs..."
 
 # game/v14/scene31b.rpy:500
 translate francais v14s31b_0cc27159:
@@ -430,19 +430,19 @@ translate francais v14s31b_22f7c7a1:
 translate francais v14s31b_3681e907:
 
     # gr "No, my grandmother... Yes, Chloe."
-    gr "Non, ma grand-mère... Bien sûr, Chloé."
+    gr "Non, ma grand-mère...! Bien sûr, Chloé."
 
 # game/v14/scene31b.rpy:548
 translate francais v14s31b_0b250eb9:
 
     # u "Hmm, no... I don't think so."
-    u "Hmm, non... Je ne pense pas."
+    u "Hmm, non... Je crois pas."
 
 # game/v14/scene31b.rpy:554
 translate francais v14s31b_1c2fc4a5:
 
     # u "Not yet, ha. I guess she's still got a few more surprises in store."
-    u "Pas encore, ha. J'imagine qu'elle a encore quelques surprises en réserve."
+    u "Pas encore... J'imagine qu'elle a encore quelques surprises en réserve."
 
 # game/v14/scene31b.rpy:559
 translate francais v14s31b_cd6db5e9:
@@ -460,7 +460,7 @@ translate francais v14s31b_730de2cf:
 translate francais v14s31b_feb5965b:
 
     # gr "Those glasses make you wanna do something... *Whispers* Out of pocket."
-    gr "Ces lunettes te donnent envie de faire un truc... *Chuchote* Sorti de sa poche."
+    gr "Ces lunettes te donnent envie de faire un truc... *Chuchote* Sorti de ta poche."
 
 # game/v14/scene31b.rpy:571
 translate francais v14s31b_95585556:
@@ -484,13 +484,13 @@ translate francais v14s31b_35a326e2:
 translate francais v14s31b_f4dbf268:
 
     # u "You don't have to-"
-    u "Tu n'as pas besoin de-"
+    u "T'as pas besoin de-"
 
 # game/v14/scene31b.rpy:593
 translate francais v14s31b_81d9279d:
 
     # gr "I'm not a dumbass, Chloe. I know you came to ask for something so I'm enjoying myself before all the bullshit comes."
-    gr "Je ne suis pas con, Chloé. Je sais que tu es venue me demander quelque chose alors je m'amuse avant d'en arriver à toutes les conneries. "
+    gr "J'suis pas con, Chloé. Je sais que t'es venue me demander quelque chose alors je m'amuse avant d'en arriver à toutes ces conneries. "
 
 # game/v14/scene31b.rpy:598
 translate francais v14s31b_57ae9944_1:
@@ -508,7 +508,7 @@ translate francais v14s31b_e0ef9d2e:
 translate francais v14s31b_7bb8a7e8:
 
     # gr "What's so funny?"
-    gr "Qu'est-ce qui est si drôle ?"
+    gr "Qu'est-ce qui vous fait marrer ?"
 
 # game/v14/scene31b.rpy:613
 translate francais v14s31b_eb6055eb:
@@ -520,13 +520,13 @@ translate francais v14s31b_eb6055eb:
 translate francais v14s31b_23d83807:
 
     # au "You obviously have no friends so when people try to just hang out with you, you think there's a secret motive."
-    au "Tu n'as visiblement pas d'amis, alors quand les gens essaient de passer un peu de temps avec toi, tu penses qu'il y a un motif secret."
+    au "T'as visiblement pas d'amis, alors quand les gens essaient de passer un peu de temps avec toi, tu penses qu'il y a un motif secret."
 
 # game/v14/scene31b.rpy:623
 translate francais v14s31b_2500bbd8:
 
     # au "And honestly... Even if there is, why can't you just enjoy the company? You definitely need some."
-    au "Et franchement... Même si c'est le cas, pourquoi ne peux-tu pas simplement profiter de cette compagnie ? Tu en as vraiment besoin."
+    au "Et franchement... Même si c'est le cas, pourquoi tu peux pas simplement profiter de cette compagnie ? T'en as vraiment besoin."
 
 # game/v14/scene31b.rpy:628
 translate francais v14s31b_108b353e_1:
@@ -544,13 +544,13 @@ translate francais v14s31b_520492b0:
 translate francais v14s31b_26f0257e:
 
     # u "Not used to being spoken to so directly, huh?"
-    u "Tu n'as pas l'habitude qu'on te parle si franchement, hein ?"
+    u "T'as pas l'habitude qu'on te parle si franchement, hein ?"
 
 # game/v14/scene31b.rpy:643
 translate francais v14s31b_8d099524:
 
     # cl "He isn't, no."
-    cl "Non, il n'as pas l'habitude."
+    cl "Non, il n'en as pas l'habitude."
 
 # game/v14/scene31b.rpy:649
 translate francais v14s31b_00f95bb3:
@@ -562,7 +562,7 @@ translate francais v14s31b_00f95bb3:
 translate francais v14s31b_5d79f717:
 
     # au "Ah! *Laughs* I remember his girly scream like it was yesterday."
-    au "Ah ! *Rire* Je me souviens de son cri de fille comme si c'était hier."
+    au "Ah ! *Rire* Je me souviens de son cri de fillette comme si c'était hier."
 
 # game/v14/scene31b.rpy:659
 translate francais v14s31b_4b0ba9ef:
@@ -598,7 +598,7 @@ translate francais v14s31b_bb834b24:
 translate francais v14s31b_c685d816:
 
     # gr "A lot of things were a force of habit when you looked at me, haha. Are you trying to start those again too?"
-    gr "Beaucoup de choses étaient une question d'habitude quand tu me regardais, haha. Tu essaies de recommencer ça aussi ?"
+    gr "Beaucoup de choses étaient une question d'habitude quand tu m'regardais, haha. T'essaies de recommencer ça aussi ?"
 
 # game/v14/scene31b.rpy:696
 translate francais v14s31b_ec1f6b4f:
@@ -616,7 +616,7 @@ translate francais v14s31b_0079aef7:
 translate francais v14s31b_16f85b1b:
 
     # au "Grayson, give me some of what you're smoking 'cause it's obviously working."
-    au "Grayson, donne-moi un peu de ce que tu fumes, ça a l'air de bien marcher."
+    au "Grayson, donne-moi un peu de ce que tu fumes, ça a l'air d'être de la bonne."
 
 # game/v14/scene31b.rpy:718
 translate francais v14s31b_afdd19cf:
@@ -634,13 +634,13 @@ translate francais v14s31b_ca73393f:
 translate francais v14s31b_b89ea580:
 
     # au "*Coughs* Damn, where'd you get this?"
-    au "*Tousse* Merde, où as-tu trouvé ça ?"
+    au "*Tousse* Merde, t'as trouvé ça où ?"
 
 # game/v14/scene31b.rpy:733
 translate francais v14s31b_024ac6f1:
 
     # gr "You wouldn't believe me if I told you. *Laughs*"
-    gr "Tu ne me croirais pas si je te le disais. *Rire"
+    gr "Tu me croirais pas si j'te l'disais. *Rire*"
 
 # game/v14/scene31b.rpy:738
 translate francais v14s31b_aabe24cd:
@@ -670,7 +670,7 @@ translate francais v14s31b_0180d6e9:
 translate francais v14s31b_cf04cb00:
 
     # gr "Probably, but I wasn't talking about her. I was talking about her husband."
-    gr "Peut-être, mais je ne parlais pas d'elle. Je parlais de son mari."
+    gr "Peut-être, mais je parlais pas d'elle. Je parlais de son mari."
 
 # game/v14/scene31b.rpy:763
 translate francais v14s31b_72ff38a3:
@@ -688,19 +688,19 @@ translate francais v14s31b_9dfda99c:
 translate francais v14s31b_9578db33:
 
     # gr "I saw him hitting it outside the gas station and asked him where he got it."
-    gr "Je l'ai vu s'en taper devant la station-service et je lui ai demandé où il l'avait eu."
+    gr "Je l'ai vu s'en taper devant la station-service et j'lui ai demandé où il l'avait eu."
 
 # game/v14/scene31b.rpy:775
 translate francais v14s31b_c83db399:
 
     # gr "Since the smell was so strong I knew it had to be good shit. He set me up with a guy and well, here we are."
-    gr "Comme l'odeur était vraiment forte, je savais que ça devait être de la bonne came. Il m'a arrangé un rendez-vous avec un gars et voilà, on en a."
+    gr "Comme l'odeur était vraiment forte, j'savais que ça devait être de la bonne came. Il m'a arrangé un rendez-vous avec un gars et voilà, on en a."
 
 # game/v14/scene31b.rpy:780
 translate francais v14s31b_867d934b:
 
     # au "Nice little opportunity, meathead. I'm gonna need that contact."
-    au "Belle occasion, tête de nœud. Je vais avoir besoin de ce contact."
+    au "Belle occas', tête de nœud. Je vais avoir besoin de ce contact."
 
 # game/v14/scene31b.rpy:785
 translate francais v14s31b_a3e42336:
@@ -742,7 +742,7 @@ translate francais v14s31b_9c3bf9f1:
 translate francais v14s31b_3dbe74e5:
 
     # gr "Okay, lead the way. You do know your way around here..."
-    gr "Ok, je te suis. Tu connais bien le coin..."
+    gr "Ok, j'te suis. Tu connais bien le coin..."
 
 # game/v14/scene31b.rpy:822
 translate francais v14s31b_fea3d640_1:
@@ -772,7 +772,7 @@ translate francais v14s31b_a33c69f5:
 translate francais v14s31b_975026b2:
 
     # u "Really..."
-    u "Vraiment..."
+    u "Ouais..."
 
 # game/v14/scene31b.rpy:926
 translate francais v14s31b_d5489a57:
@@ -820,13 +820,13 @@ translate francais v14s31b_97f3c821:
 translate francais v14s31b_f7520a21:
 
     # cl "Grayson, oh my god, stop! We literally just talked, that was it."
-    cl "Grayson, arrête, je t'en prie ! Nous avons juste parlé, c'est tout."
+    cl "Grayson, arrête, je t'en prie ! On a juste parlé, c'est tout."
 
 # game/v14/scene31b.rpy:988
 translate francais v14s31b_5bd33e4f:
 
     # gr "Yeah, we just talked..."
-    gr "Ouais, on a juste parlé..."
+    gr "Ouais, on a juste... parlé..."
 
 # game/v14/scene31b.rpy:993
 translate francais v14s31b_39a25115:
@@ -868,7 +868,7 @@ translate francais v14s31b_f23c3d5d:
 translate francais v14s31b_5707253d:
 
     # u "So, what exactly did you do to... You know, convince him?"
-    u "Alors, qu'est-ce que tu as fait exactement pour... Tu sais, le convaincre ?"
+    u "Alors, qu'est-ce que t'as fait exactement pour... Tu sais, le convaincre ?"
 
 # game/v14/scene31b.rpy:1048
 translate francais v14s31b_0bb4f931:
@@ -892,13 +892,13 @@ translate francais v14s31b_7e814250:
 translate francais v14s31b_ae2d6149:
 
     # u "Good, I figured. Just don't want any mixed messages."
-    u "C'est bien, je me disais. Je ne veux pas de mauvais signaux."
+    u "C'est bien, je me disais. Je veux pas de mauvais signaux."
 
 # game/v14/scene31b.rpy:1070
 translate francais v14s31b_b4d133c9:
 
     # u "(I'll leave it be, mission accomplished.)"
-    u "(Je vais laisser faire, mission accomplie.)"
+    u "(Je vais laisser passer, mission accomplie.)"
 
 # game/v14/scene31b.rpy:1075
 translate francais v14s31b_a0ff1558:
@@ -976,7 +976,7 @@ translate francais v14s31b_f88b495f:
 translate francais v14s31b_a7c2199b:
 
     # gr "Obviously, Chloe. What about it and what does any of it have to do with me?"
-    gr "Visiblement, Chloé. Qu'en est-il et qu'est-ce que ça a à voir avec moi ?"
+    gr "Visiblement, Chloé. T'en est où et qu'est-ce que ça a à voir avec moi ?"
 
 # game/v14/scene31b.rpy:1196
 translate francais v14s31b_5521defe:
@@ -988,7 +988,7 @@ translate francais v14s31b_5521defe:
 translate francais v14s31b_7cbf9330:
 
     # gr "I'm sure I don't need you to speak for her. Honestly, I don't even know why you need to be here."
-    gr "Je suis sur que j'ai pas besoin que tu parles en son nom. En fait, je sais même pas pourquoi tu as besoin d'être là."
+    gr "Je suis sur que j'ai pas besoin qu'tu parles en son nom. En fait, je sais même pas pourquoi t'as besoin d'être là."
 
 # game/v14/scene31b.rpy:1206
 translate francais v14s31b_e6b2794a:
@@ -1006,19 +1006,19 @@ translate francais v14s31b_6203a455:
 translate francais v14s31b_aec234b7:
 
     # cl "You know... Like we used to."
-    cl "Tu sais... Comme nous le faisions avant."
+    cl "Tu sais... Comme on le faisait avant."
 
 # game/v14/scene31b.rpy:1218
 translate francais v14s31b_c6f719fd:
 
     # gr "We used to do a lot and we did it well."
-    gr "Nous le faisions souvent et nous le faisions bien."
+    gr "On le faisait souvent et on le faisait bien."
 
 # game/v14/scene31b.rpy:1223
 translate francais v14s31b_426f6a4a:
 
     # cl "And we can do more, again. If we're working together on this campaign."
-    cl "Et de nouveau, nous pourrons faire plus. Si nous travaillons ensemble sur cette campagne."
+    cl "Et de nouveau, on pourrait faire plus. Si on travaillait ensemble sur cette campagne."
 
 # game/v14/scene31b.rpy:1228
 translate francais v14s31b_925b51ca:
@@ -1048,7 +1048,7 @@ translate francais v14s31b_e537814b:
 translate francais v14s31b_fe2e845c:
 
     # gr "*Laughs* You're a fucking joke."
-    gr "*Rire* T'es une putain de comique."
+    gr "*Rire* T'es une putain d'comique."
 
 # game/v14/scene31b.rpy:1271
 translate francais v14s31b_a3f5d67f:
@@ -1060,7 +1060,7 @@ translate francais v14s31b_a3f5d67f:
 translate francais v14s31b_b6fba29b:
 
     # gr "You're both a fucking joke."
-    gr "Vous êtes tous les deux des putains de comiques."
+    gr "Vous êtes tous les deux des putains d'comiques."
 
 # game/v14/scene31b.rpy:1281
 translate francais v14s31b_c5fdd1a9:
@@ -1072,7 +1072,7 @@ translate francais v14s31b_c5fdd1a9:
 translate francais v14s31b_c23aa6bf:
 
     # gr "Ha... Get the fuck out."
-    gr "Ha... Sortez de là."
+    gr "Ha... Dégagez d'là."
 
 # game/v14/scene31b.rpy:1291
 translate francais v14s31b_1745725d:
@@ -1084,7 +1084,7 @@ translate francais v14s31b_1745725d:
 translate francais v14s31b_61aa119e:
 
     # gr "You can go. Now."
-    gr "Vous sortez. Maintenant."
+    gr "Vous dégagez. Maintenant."
 
 # game/v14/scene31b.rpy:1301
 translate francais v14s31b_fea3d640_2:
@@ -1102,7 +1102,7 @@ translate francais v14s31b_7b1c1392:
 translate francais v14s31b_6e567f55:
 
     # gr "Good luck with her, [name], she's manipulative as fuck."
-    gr "Bonne chance avec elle, [name], elle est manipulatrice à mort."
+    gr "Bonne chance avec elle, [name], c'est une manipulatrice à mort."
 
 # game/v14/scene31b.rpy:1319
 translate francais v14s31b_0ad0832b:
@@ -1120,7 +1120,7 @@ translate francais v14s31b_c8a7b180:
 translate francais v14s31b_b010b919:
 
     # gr "She's manipulative as fuck."
-    gr "Elle est manipulatrice à mort."
+    gr "C'est une manipulatrice à mort."
 
 # game/v14/scene31b.rpy:1337
 translate francais v14s31b_0ad0832b_1:
@@ -1138,7 +1138,7 @@ translate francais v14s31b_c8a7b180_1:
 translate francais v14s31b_1cdf63ec:
 
     # gr "I wanna be alone."
-    gr "Je veux être seul."
+    gr "J'ai envie de rester seul."
 
 # game/v14/scene31b.rpy:1351
 translate francais v14s31b_37fe551f:

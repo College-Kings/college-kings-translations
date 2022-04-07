@@ -88,7 +88,7 @@ translate francais v14s34_PhoneContinue3_2dfb8570:
 translate francais v14s34_PhoneContinue3_364d76dc:
 
     # u "*Chuckles* Good, because I was thinking we could try going on that date we talked about in London."
-    u "*Rire* Bien, parce que je pensais que nous pourrions essayer de faire ce rencard dont nous avons parlé à Londres."
+    u "*Rire* Bien, parce que je pensais qu'on pourrait essayer de faire ce rencard dont nous avons parlé à Londres."
 
 # game/v14/scene34.rpy:144
 translate francais v14s34_PhoneContinue3_d0267773:

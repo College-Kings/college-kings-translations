@@ -22,7 +22,7 @@ translate francais v14s30a_9edcf547:
 translate francais v14s30a_c117177a:
 
     # u "Haha, don't think cute is the word I'd use to describe him."
-    u "Haha, je ne suis pas sûr que \"mignon\" soit le mot que j'utiliserais pour le décrire."
+    u "Haha, je suis pas sûr que \"mignon\" soit le mot que j'utiliserais pour le décrire."
 
 # game/v14/scene30a.rpy:53
 translate francais v14s30a_1cb0a838:
@@ -34,7 +34,7 @@ translate francais v14s30a_1cb0a838:
 translate francais v14s30a_f5ff0757:
 
     # u "Trust you, huh? I don't even know your name."
-    u "Te faire confiance, hein ? Je ne sais même pas comment tu t'appelles."
+    u "Te faire confiance, hein ? Je sais même pas comment tu t'appelles."
 
 # game/v14/scene30a.rpy:63
 translate francais v14s30a_303edb3d:
@@ -46,7 +46,7 @@ translate francais v14s30a_303edb3d:
 translate francais v14s30a_bb38bbdb:
 
     # u "Ah, nice..."
-    u "Ah, sympa..."
+    u "Ah, cool..."
 
 # game/v14/scene30a.rpy:73
 translate francais v14s30a_80c64b26:
@@ -58,7 +58,7 @@ translate francais v14s30a_80c64b26:
 translate francais v14s30a_b348f3e2:
 
     # u "So, Australian?"
-    u "Donc, australien ?"
+    u "Donc, t'es australien ?"
 
 # game/v14/scene30a.rpy:83
 translate francais v14s30a_d349e483:
@@ -130,7 +130,7 @@ translate francais v14s30a_3415427c:
 translate francais v14s30a_5e6bfb71:
 
     # wtrain "So... Bet you're wondering what an Australian is doing with a wolf, huh?"
-    wtrain "Alors... Je parie que tu t'demandes ce qu'un Australien fait avec un loup, hein ?"
+    wtrain "Alors... Je parie que tu t'demandes c'qu'un Australien fait avec un loup, hein ?"
 
 # game/v14/scene30a.rpy:140
 translate francais v14s30a_5049dd8c:
@@ -160,7 +160,7 @@ translate francais v14s30a_8882097d:
 translate francais v14s30a_dccb2653:
 
     # u "Ready when you are!"
-    u "Prêt quand vous le serez !"
+    u "Je suis prêt quand vous le serez !"
 
 # game/v14/scene30a.rpy:165
 translate francais v14s30a_e172d64a:
@@ -184,7 +184,7 @@ translate francais v14s30a_89518b0e:
 translate francais v14s30a_898b5c6b:
 
     # wtrain "Oh, uh, don't worry! Just stay calm, and so will he. *Nervous chuckling*"
-    wtrain "Oh, euh, t'inquiète pas ! Reste tranquille, et lui aussi le sera. *Rire nerveux*."
+    wtrain "Oh, euh, t'inquiète pas ! Reste tranquille, et lui aussi l'sera. *Rire nerveux*"
 
 # game/v14/scene30a.rpy:196
 translate francais v14s30a_5c227e75:
@@ -196,7 +196,7 @@ translate francais v14s30a_5c227e75:
 translate francais v14s30a_67455457:
 
     # u "(This is it... This is how I die...)"
-    u "(Voilà... C'est comme ça que je vais mourir...)"
+    u "(Et voilà... C'est comme ça que je vais mourir...)"
 
 # game/v14/scene30a.rpy:212
 translate francais v14s30a_3b7a3f1c:
@@ -220,7 +220,7 @@ translate francais v14s30a_0a06d92a:
 translate francais v14s30a_1e1cab29:
 
     # wtrain "Australian thing... You must have some good meat."
-    wtrain "Un truc australien... Tu dois avoir de la bonne chair."
+    wtrain "Un truc australien... Tu dois avoir d'la bonne chair."
 
 # game/v14/scene30a.rpy:247
 translate francais v14s30a_ae75040a:
@@ -268,7 +268,7 @@ translate francais v14s30a_80c64b26_1:
 translate francais v14s30a_6d3b1229:
 
     # u "Funny guys, really. Can we make this stop now?"
-    u "Vous êtes très drôles, vraiment. Est-ce qu'on peut arrêter ça maintenant ?"
+    u "Vous êtes vraiment très drôles. Est-ce qu'on peut arrêter ça maintenant ?"
 
 # game/v14/scene30a.rpy:292
 translate francais v14s30a_888f85a4:
@@ -286,7 +286,7 @@ translate francais v14s30a_cb36ef53:
 translate francais v14s30a_34d1512b:
 
     # cl "Just c'mon already, meat man. *Chuckles*"
-    cl "Allez, viens, l'homme viande. *Rire*"
+    cl "Allez, viens, Steackman. *Rire*"
 
 # game/v14/scene30a.rpy:312
 translate francais v14s30a_b89b5de9:
@@ -346,7 +346,7 @@ translate francais v14s30a_c0e610d2:
 translate francais v14s30a_ae770344:
 
     # wtrain "Good deal mate, I'll be packing up then."
-    wtrain "Un bon deal mon pote, je remballe tout alors."
+    wtrain "Un bon deal mon pote, j'remballe tout alors."
 
 # game/v14/scene30a.rpy:384
 translate francais v14s30a_384c08b3:

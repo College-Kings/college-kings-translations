@@ -16,7 +16,7 @@ translate francais v14s30_74e4cb3b:
 translate francais v14s30_3ad042ca:
 
     # cl "Not too bad... Although, this thing was definitely NOT cheap."
-    cl "Pas trop mal... Même si ce truc n'était vraiment PAS donné."
+    cl "Pas trop mal... Même si ce truc n'était VRAIMENT PAS donné."
 
 # game/v14/scene30.rpy:47
 translate francais v14s30_c095ea42:
@@ -58,7 +58,7 @@ translate francais v14s30_3764a626:
 translate francais v14s30_556b46e7:
 
     # cl "As soon as we're all set up, I'm just gonna take a few shots and then we can pick our favorites."
-    cl "Dès que nous serons tous installés, je vais prendre quelques photos et nous choisirons ensuite nos préférées."
+    cl "Dès que nous serons tous installés, je vais prendre quelques photos et on choisira ensuite nos préférées."
 
 # game/v14/scene30.rpy:80
 translate francais v14s30_e499616e:
@@ -76,19 +76,19 @@ translate francais v14s30_8adc7021:
 translate francais v14s30_f36ef9ff:
 
     # u "Or did Chris tell you that... *Chuckles*"
-    u "Or did Chris tell you that... *Chuckles*"
+    u "Ou bien c'est ce que Chris t'a dit de faire... *Rire*"
 
 # game/v14/scene30.rpy:95
 translate francais v14s30_6120c7c9:
 
     # cl "Okay, yes..."
-    cl "Ok, oui..."
+    cl "Plutôt ça, oui..."
 
 # game/v14/scene30.rpy:97
 translate francais v14s30_a09604ce:
 
     # cl "As long as they are supporting me I'm happy."
-    cl "Tant qu'ils me soutiennent, je suis heureuse."
+    cl "Mais tant qu'ils me soutiennent, je suis heureuse."
 
 # game/v14/scene30.rpy:102
 translate francais v14s30_0bbd3520:
@@ -118,13 +118,13 @@ translate francais v14s30_3e3daac6:
 translate francais v14s30_9b0a5153:
 
     # u "Okay, ready when you are."
-    u "D'accord, je suis prêt quand tu veux."
+    u "D'accord, je suis prêt. C'est quand tu veux !"
 
 # game/v14/scene30.rpy:149
 translate francais v14s30_c2d0308a:
 
     # u "Okay, I think I've got a pretty good selection to choose from."
-    u "Ok, je pense que j'en ai pas mal parmi lesquelles on peut faire son choix."
+    u "Ok, je pense que j'en ai pas mal parmi lesquelles on pourra faire notre choix."
 
 # game/v14/scene30.rpy:159
 translate francais v14s30_264cc31d:
@@ -136,7 +136,7 @@ translate francais v14s30_264cc31d:
 translate francais v14s30_8ba88eb7:
 
     # u "Haha, no. You look great as always."
-    u "Haha, non. Tu es superbe, comme toujours."
+    u "Haha, non. T'es superbe, comme toujours."
 
 # game/v14/scene30.rpy:180
 translate francais v14s30_aac0bbae:
@@ -154,7 +154,7 @@ translate francais v14s30_1b28a406:
 translate francais v14s30_dd62ef0e:
 
     # cl "Okay, we can leave the stuff here because I think some of The Wolves wanted to... play with it. *Laughs*"
-    cl "Ok, on peut laisser les affaires ici parce que je crois que certains des Wolves voulaient... jouer avec. *Rire"
+    cl "Ok, on peut laisser les affaires ici parce que je crois que certains des Wolves voulaient... jouer avec. *Rire*"
 
 # game/v14/scene30.rpy:195
 translate francais v14s30_184f1b2a:
@@ -166,13 +166,13 @@ translate francais v14s30_184f1b2a:
 translate francais v14s30_05676f94:
 
     # cl "I try not to ask too many questions, you know?"
-    cl "J'essaie de ne pas poser trop de questions, tu vois ?"
+    cl "J'essaie de ne pas me poser trop de questions, tu vois ?"
 
 # game/v14/scene30.rpy:202
 translate francais v14s30_20e70674:
 
     # cl "Alright, let's head back and look at these closely so we can pick a good one."
-    cl "Bon, rentrons et regardons-les de près pour pouvoir en choisir une bonne."
+    cl "Bon, rentrons et regardons tout ça de plus près, afin d'en choisir une bonne."
 
 translate francais strings:
 

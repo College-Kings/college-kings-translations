@@ -52,7 +52,7 @@ translate francais v14s31_7ffb25f7:
 translate francais v14s31_5a512fdb:
 
     # u "Chloe, I got this. I know this is serious for you. I'm going to be on my best behavior."
-    u "Chloé, je gère. Je sais que c'est sérieux pour toi. Je serai irréprochable."
+    u "Chloé, je gère. Je sais que c'est sérieux pour toi. Je serais irréprochable."
 
 # game/v14/scene31.rpy:62
 translate francais v14s31_24b3f9af:
@@ -76,7 +76,7 @@ translate francais v14s31_d152c937:
 translate francais v14s31_7391eb0c:
 
     # u "(Damn, if I didn't know this campaign was important to her, I know now. She's not even thinking about us.)"
-    u "(Pfiouuu ! Si je savais pas que cette campagne était si importante pour elle, maintenant je le sais. Elle ne pense même pas à nous.)"
+    u "(Pfiouuu ! Si je savais pas que cette campagne était si importante pour elle, maintenant je le sais. Elle pense même pas à nous.)"
 
 # game/v14/scene31.rpy:99
 translate francais v14s31_1b5e698d:

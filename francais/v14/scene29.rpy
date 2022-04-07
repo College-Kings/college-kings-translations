@@ -16,7 +16,7 @@ translate francais v14s29_fcfea652:
 translate francais v14s29_73017461:
 
     # imre "Aye, let's hit the gym! I need to blow off some steam."
-    imre "Yo, on va à la salle de muscu ! J'ai besoin de me défouler."
+    imre "Yo, on va à la salle de muscu ! J'ai besoin de m'défouler."
 
 # game/v14/scene29.rpy:38
 translate francais v14s29_06e9744c:
@@ -28,7 +28,7 @@ translate francais v14s29_06e9744c:
 translate francais v14s29_fec6a288:
 
     # imre "Oh fuck, I forgot Chris told me about that."
-    imre "Oh putain, j'ai oublié que Chris m'avait parlé de ça."
+    imre "Oh putain, j'ai oublié que Chris m'avait parlé d'ça."
 
 # game/v14/scene29.rpy:48
 translate francais v14s29_1628a524:
@@ -70,7 +70,7 @@ translate francais v14s29_b4846736:
 translate francais v14s29_70cf76d0:
 
     # imre "Ahh shit... Sorry, I just remembered something I gotta do."
-    imre "Ahh merde... Désolé, je viens de me souvenir d'un truc que je devais faire."
+    imre "Ahh merde... Désolé, j'viens de m'souvenir d'un truc que j'devais faire."
 
 # game/v14/scene29.rpy:104
 translate francais v14s29_62da5270:
