@@ -118,7 +118,7 @@ translate francais v14s25_ece0462c:
 translate francais v14s25_bcfc5d8a:
 
     # am "Nah, I never lock it, c'mon."
-    am "Nan, je ne la ferme jamais à clé, allez."
+    am "Nan, je la ferme jamais à clé, allez."
 
 # game/v14/scene25.rpy:170
 translate francais v14s25_9fef3755:
@@ -142,7 +142,7 @@ translate francais v14s25_2203961f:
 translate francais v14s25_2a73b024:
 
     # am "Well, I'm not rushing it."
-    am "Je me presse pas."
+    am "J'me presse pas."
 
 # game/v14/scene25.rpy:208
 translate francais v14s25_66e57dbe:
@@ -154,7 +154,7 @@ translate francais v14s25_66e57dbe:
 translate francais v14s25_0c9c10e9:
 
     # u "Nice pills you got there."
-    u "Jolies pilules que tu as là."
+    u "Jolies pilules que t'as là."
 
 # game/v14/scene25.rpy:224
 translate francais v14s25_59b6afc7:
@@ -238,7 +238,7 @@ translate francais v14s25_82446a86:
 translate francais v14s25_2d8e2510:
 
     # am "He doesn't want to talk to me anymore."
-    am "Il ne veut plus me parler."
+    am "Il veut plus me parler."
 
 # game/v14/scene25.rpy:280
 translate francais v14s25_af62e57a:
@@ -256,7 +256,7 @@ translate francais v14s25_d48d5718:
 translate francais v14s25_ab1f4f3c:
 
     # am "Shane went to rehab and blocked me on everything. *Scoffs* He and I have been friends forever, and now that he wants to turn a new leaf..."
-    am "Shane est allé en cure de désintoxication et m'a bloqué sur tout. *Rire moqueur* Lui et moi on était amis depuis toujours, et maintenant qu'il veut tourner une nouvelle page..."
+    am "Shane est allé en cure de désintoxication et m'a bloqué sur tout. *Rire moqueur* Lui et moi on était amis depuis toujours, et maintenant qu'il veut tourner la page..."
 
 # game/v14/scene25.rpy:289
 translate francais v14s25_958a3f49:
@@ -274,7 +274,7 @@ translate francais v14s25_9c1505da:
 translate francais v14s25_6afb92ea:
 
     # am "He didn't have to, [name]."
-    am "Il n'a pas eu à le faire, [name]."
+    am "Il a pas eu à le faire, [name]."
 
 # game/v14/scene25.rpy:306
 translate francais v14s25_18250daf:
@@ -340,7 +340,7 @@ translate francais v14s25_92cd9929:
 translate francais v14s25_df2f4c5f:
 
     # u "Like I said earlier, do you not remember that it was you who went after Josh and helped clean him up?"
-    u "Comme je l'ai dit plus tôt, tu ne te souviens pas que c'est toi qui t'en est pris à Josh et qui l'a aidé à se sevrer ?"
+    u "Comme je l'ai dit plus tôt, tu te souviens pas que c'est toi qui t'en est pris à Josh et qui l'a aidé à se sevrer ?"
 
 # game/v14/scene25.rpy:373
 translate francais v14s25_b12d56f2:
@@ -364,7 +364,7 @@ translate francais v14s25_19a6687b:
 translate francais v14s25_0b0ed951:
 
     # u "No... Don't give yourself that much credit, ha. Josh was on that shit way before he met you."
-    u "Non... Ne te donne pas tant de crédit. Josh était déjà dans cette merde bien avant de te rencontrer."
+    u "Non... Te donne pas autant de crédit. Josh était déjà dans cette merde bien avant de te rencontrer."
 
 # game/v14/scene25.rpy:398
 translate francais v14s25_ce8b1bde:
@@ -418,7 +418,7 @@ translate francais v14s25_29f0db15:
 translate francais v14s25_6f67da3a:
 
     # am "If they would've acted how they do now when I was little, I probably wouldn't have been so rebellious. *Chuckles*"
-    am "S'ils s'étaient comportés comme ils le font maintenant quand j'étais petite, j'aurais peut-être pas été aussi rebelle. *Rire *"
+    am "S'ils s'étaient comportés comme ils le font maintenant quand j'étais petite, j'aurais peut-être pas été aussi rebelle. *Rire*"
 
 # game/v14/scene25.rpy:437
 translate francais v14s25_2a3e133e:
@@ -448,19 +448,19 @@ translate francais v14s25_67f24833:
 translate francais v14s25_c7c787dc:
 
     # u "I hate that you've had to go through those things."
-    u "Je n'aime pas le fait que tu aies dû vivre ces choses."
+    u "J'aime pas le fait que tu aies dû vivre ces choses."
 
 # game/v14/scene25.rpy:465
 translate francais v14s25_dca70c4d:
 
     # am "I'm sure you already know but, Lauren has religious parents too, and I think that's the reason why we clicked so well in Europe."
-    am "Je crois que tu le sais déjà, mais Lauren a aussi des parents religieux, et je pense que c'est la raison pour laquelle nous nous sommes si bien entendues en Europe."
+    am "Je crois que tu le sais déjà, mais Lauren a aussi des parents religieux, et je pense que c'est la raison pour laquelle on s'est si bien entendues en Europe."
 
 # game/v14/scene25.rpy:470
 translate francais v14s25_cff29d74:
 
     # u "Yeah, I heard small things about her parents. I knew they were religious, but nothing compared to what you've dealt with."
-    u "Ouais, j'ai entendu des détails sur ses parents. Je savais qu'ils étaient religieux, mais rien comparé à ce que tu as vécu."
+    u "Ouais, j'ai entendu des détails sur ses parents. Je savais qu'ils étaient religieux, mais rien comparé à ce que t'as vécu."
 
 # game/v14/scene25.rpy:475
 translate francais v14s25_c0318c02:
@@ -472,13 +472,13 @@ translate francais v14s25_c0318c02:
 translate francais v14s25_151bba7c:
 
     # am "I used to do these for fun, you know? But as life goes on, I find that sometimes you need things to help you stay happy."
-    am "J'avais pris l'habitude de faire ça pour le plaisir, tu sais ? Mais avec le temps, je me rends compte que parfois, tu as besoin de certains trucs pour t'aider à rester heureux."
+    am "J'avais pris l'habitude de faire ça pour le plaisir, tu sais ? Mais avec le temps, je me rends compte que parfois, t'as besoin de certains trucs pour t'aider à rester heureux."
 
 # game/v14/scene25.rpy:490
 translate francais v14s25_32cd9f22:
 
     # u "I don't know if you absolutely need those-"
-    u "Je ne sais pas si tu as vraiment besoin de ces..."
+    u "Je sais pas si t'as vraiment besoin de ces..."
 
 # game/v14/scene25.rpy:495
 translate francais v14s25_73e58f5c:
@@ -490,7 +490,7 @@ translate francais v14s25_73e58f5c:
 translate francais v14s25_872aaca5:
 
     # am "It gets to the point where I can't stand to even be around myself anymore."
-    am "J'en arrive au point où je ne supporte même plus d'être avec moi-même."
+    am "J'en arrive au point où je supporte même plus d'être avec moi-même."
 
 # game/v14/scene25.rpy:511
 translate francais v14s25_742dc26b:
@@ -502,13 +502,13 @@ translate francais v14s25_742dc26b:
 translate francais v14s25_1b10e78d:
 
     # u "Every single decision we make as human beings, is a decision that we make on our own."
-    u "Chaque décision que nous prenons en tant qu'êtres humains est une décision que nous prenons seuls."
+    u "Chaque décision qu'on prend en tant qu'êtres humains est une décision qu'on prend seul."
 
 # game/v14/scene25.rpy:528
 translate francais v14s25_b37d4818:
 
     # u "Unless you've put a pill into someone's unwilling mouth, there's nothing you've ever done that has forced anyone else to do the same as you."
-    u "À moins que tu n'aies mis une pilule dans la bouche de quelqu'un sans le vouloir, il n'y a rien que tu aies fait qui ait forcé quelqu'un d'autre à faire la même chose que toi."
+    u "À moins que t'aies mis une pilule dans la bouche de quelqu'un sans le vouloir, il n'y a rien que tu aies fait qui ait forcé quelqu'un d'autre à faire la même chose que toi."
 
 # game/v14/scene25.rpy:533
 translate francais v14s25_09b10847:
@@ -520,7 +520,7 @@ translate francais v14s25_09b10847:
 translate francais v14s25_a9d71a8d:
 
     # u "Let me finish, please?"
-    u "Laisse-moi finir, veux-tu ?"
+    u "Laisse-moi finir, tu veux bien ?"
 
 # game/v14/scene25.rpy:543
 translate francais v14s25_aa197342:
@@ -532,7 +532,7 @@ translate francais v14s25_aa197342:
 translate francais v14s25_11b9ce34:
 
     # u "*Chuckles* Even though you haven't forced anyone to do anything, it's true that many people really like you and your company."
-    u "*Rire* Même si tu n'as forcé personne à faire quoi que ce soit, il est vrai que beaucoup de gens t'aiment vraiment, toi et ta compagnie."
+    u "*Rire* Même si t'as forcé personne à faire quoi que ce soit, il est vrai que beaucoup de gens t'aiment vraiment, toi et ta compagnie."
 
 # game/v14/scene25.rpy:550
 translate francais v14s25_256143b3:
@@ -550,13 +550,13 @@ translate francais v14s25_a2d4b02d:
 translate francais v14s25_f48a679c:
 
     # u "You're influential, Amber. And being influential is a great thing if you influence people to do good."
-    u "Tu es influente, Amber. Et être influent est une excellente chose si tu influences les gens à faire le bien."
+    u "T'es influente, Amber. Et être influent est une excellente chose si tu influences les gens à faire le bien."
 
 # game/v14/scene25.rpy:562
 translate francais v14s25_deef434f:
 
     # u "Sadly..."
-    u "triste..."
+    u "C'est triste..."
 
 # game/v14/scene25.rpy:572
 translate francais v14s25_218ce0a5:
@@ -574,37 +574,37 @@ translate francais v14s25_337bcdbd:
 translate francais v14s25_0c2b7786:
 
     # u "Feel guilty for what choices you've allowed others to see you make, and think that they're safe, or \"good\" decisions to make."
-    u "Sens-toi coupable des décisions que tu as permis aux autres de te voir faire, et considère qu'il s'agit de décisions sûres ou \"bonnes\" à prendre."
+    u "Sens-toi coupable des décisions que t'as permis aux autres de te voir faire, et considèrent qu'il s'agit de décisions sûres ou \"bonnes\" à prendre."
 
 # game/v14/scene25.rpy:581
 translate francais v14s25_5f867cce:
 
     # u "I'm sorry Amber, I didn't mean to..."
-    u "Je suis désolé Amber, je ne voulais pas..."
+    u "Je suis désolé Amber, je voulais pas..."
 
 # game/v14/scene25.rpy:586
 translate francais v14s25_eb263746:
 
     # am "*Crying* No, no, I'm not mad..."
-    am "*Pleurant* Non, non, je ne suis pas folle..."
+    am "*Pleurant* Non, non, je suis pas folle..."
 
 # game/v14/scene25.rpy:588
 translate francais v14s25_eb761c59:
 
     # am "Maybe most times I can throw on a tough girl attitude and avoid these types of conversations, but not when I know you're right."
-    am "En général, je peux adopter un comportement de fille dure et esquiver ce genre de conversation, mais pas quand je sais que tu as raison."
+    am "En général, je peux adopter un comportement de fille dure et esquiver ce genre de conversation, mais pas quand je sais que t'as raison."
 
 # game/v14/scene25.rpy:593
 translate francais v14s25_3946befb:
 
     # u "This doesn't mean you're a bad person."
-    u "Ça ne veut pas dire que tu es une mauvaise personne."
+    u "Ça veut pas dire que t'es une mauvaise personne."
 
 # game/v14/scene25.rpy:598
 translate francais v14s25_ca7c0c47:
 
     # am "*Crying* It doesn't make me a good person either, and that's what I want to be..."
-    am "*Pleurant* Ça ne fait pas de moi une bonne personne non plus, et c'est pourtant ce que je veux être..."
+    am "*Pleurant* Ça fait pas de moi une bonne personne non plus, et c'est pourtant ce que je veux être..."
 
 # game/v14/scene25.rpy:600
 translate francais v14s25_3d1433f8:
@@ -652,7 +652,7 @@ translate francais v14s25_0d43ff72:
 translate francais v14s25_c6632265:
 
     # u "I'm speechless right now, Amber. I mean..."
-    u "Amber, je ne sais pas quoi dire, là. En fait..."
+    u "Amber, je sais pas quoi dire, là. En fait..."
 
 # game/v14/scene25.rpy:669
 translate francais v14s25_fea2d6e0:
@@ -664,7 +664,7 @@ translate francais v14s25_fea2d6e0:
 translate francais v14s25_e54e8e28:
 
     # am "Don't start acting all sappy, I'm still the same, snappy Amber."
-    am "Ne commence pas à jouer les saintes nitouches, je suis toujours la même Amber, pleine de fougue."
+    am "Commence pas à jouer les saintes nitouches, je suis toujours la même Amber, pleine de fougue."
 
 # game/v14/scene25.rpy:676
 translate francais v14s25_a135a23e:
@@ -694,7 +694,7 @@ translate francais v14s25_ec1440ec:
 translate francais v14s25_a4c5ee53:
 
     # u "I don't know Amber. I'm happy you wanna stay clean, but I can't be responsible for you."
-    u "Je ne sais pas Amber. Je suis heureux que tu veuilles rester clean, mais je ne peux pas assumer cette responsabilité."
+    u "Je sais pas Amber. Je suis heureux que tu veuilles rester clean, mais je peux pas assumer cette responsabilité."
 
 # game/v14/scene25.rpy:702
 translate francais v14s25_024243dc:
@@ -718,7 +718,7 @@ translate francais v14s25_4b252637:
 translate francais v14s25_3dc60890:
 
     # am "I'm really glad you came by tonight. I'm sure things could've gone a lot differently if you hadn't."
-    am "Je suis vraiment contente que tu sois venu ce soir. Je suis sûre que les choses auraient pu se passer très différemment si tu ne l'avais pas fait."
+    am "Je suis vraiment contente que tu sois venu ce soir. Je suis sûre que les choses auraient pu se passer très différemment si tu l'avais pas fait."
 
 # game/v14/scene25.rpy:727
 translate francais v14s25_62ff4a4b:
@@ -742,13 +742,13 @@ translate francais v14s25_aed8f668:
 translate francais v14s25_4c6490a3:
 
     # am "Yeah, of course, but that's not why I'm going. *Laughs*"
-    am "Ouais, bien sûr, mais c'est pas pour ça que j'y vais. *Rire"
+    am "Ouais, bien sûr, mais c'est pas pour ça que j'y vais. *Rire*"
 
 # game/v14/scene25.rpy:747
 translate francais v14s25_8d59a0d4:
 
     # u "Haha, why are you going?"
-    u "Haha, alors pourquoi tu y vas ?"
+    u "Haha, alors pourquoi ?"
 
 # game/v14/scene25.rpy:752
 translate francais v14s25_f941b34c:
@@ -766,7 +766,7 @@ translate francais v14s25_06086c3b:
 translate francais v14s25_868fbe6b:
 
     # u "You're terrible..."
-    u "Tu es terrible..."
+    u "T'es terrible..."
 
 # game/v14/scene25.rpy:764
 translate francais v14s25_755d0a22:
@@ -790,7 +790,7 @@ translate francais v14s25_e3ba4b9c:
 translate francais v14s25_091ec141:
 
     # am "Did you not hear what I said about the gum lady? You're staying here tonight, big guy."
-    am "T'as pas entendu ce que j'ai dit sur la dame aux chewing-gums ? Ce soir, tu restes ici, mon grand."
+    am "T'as pas entendu ce que j'ai dit sur la dame aux chewing-gums ? Ce soir, tu restes là, mon grand."
 
 # game/v14/scene25.rpy:781
 translate francais v14s25_549e1573:
@@ -808,7 +808,7 @@ translate francais v14s25_33a351b5:
 translate francais v14s25_b29aca79:
 
     # am "Do you know how to lay in a bed with a female without trying to fuck her?"
-    am "Est-ce que tu sais t'allonger dans un lit avec une femme sans essayer de la baiser ?"
+    am "Est-ce que tu peux t'allonger dans un lit avec une femme sans essayer de la baiser ?"
 
 # game/v14/scene25.rpy:798
 translate francais v14s25_707693bb:
@@ -820,13 +820,13 @@ translate francais v14s25_707693bb:
 translate francais v14s25_a80b85d4:
 
     # u "I do, yeah."
-    u "Je sais, ouais."
+    u "Je peux, ouais."
 
 # game/v14/scene25.rpy:805
 translate francais v14s25_88736f30:
 
     # am "Then yes, for real. *Laughs*"
-    am "Alors oui, pour de vrai. *Rire*"
+    am "Alors oui, je suis sérieuse. *Rire*"
 
 # game/v14/scene25.rpy:807
 translate francais v14s25_886aab35:
@@ -844,7 +844,7 @@ translate francais v14s25_73f90b19_1:
 translate francais v14s25_5f13cd7c:
 
     # am "What? You've seen tits before, haven't you?"
-    am "Quoi ? Tu as déjà vu des seins avant, n'est-ce pas ?"
+    am "Quoi ? T'as déjà vu des seins avant, non ?"
 
 # game/v14/scene25.rpy:840
 translate francais v14s25_1108b309:
@@ -862,7 +862,7 @@ translate francais v14s25_81f36045:
 translate francais v14s25_3501b8e2:
 
     # u "I can do that. *Chuckles nervously*"
-    u "Je peux y arriver. *Rire nerveux*."
+    u "Je peux y arriver. *Rire nerveux*"
 
 # game/v14/scene25.rpy:855
 translate francais v14s25_584d9c95:
@@ -892,13 +892,13 @@ translate francais v14s25_nsfwSkipLabel1_f0b73b81:
 translate francais v14s25_nsfwSkipLabel1_f400a6b9:
 
     # u "Fuck what other people think. You can't possibly blame yourself for the stupid shit that other people choose to do."
-    u "J'emmerde ce que les autres pensent. Tu ne peux pas t'en vouloir pour les conneries que les autres choisissent de faire."
+    u "J'emmerde ce que les autres pensent. Tu peux pas t'en vouloir pour les conneries que les autres choisissent de faire."
 
 # game/v14/scene25.rpy:912
 translate francais v14s25_nsfwSkipLabel1_0dd47c70:
 
     # u "No one is following you off the bridge if you jump. Sorry, but you don't have quite that much influence. *Chuckles*"
-    u "Personne ne te suivra si tu sautes d'un pont. Désolé, mais tu n'as pas autant d'influence. *Rire *"
+    u "Personne te suivra si tu sautes d'un pont. Désolé, mais t'as pas autant d'influence. *Rire*"
 
 # game/v14/scene25.rpy:917
 translate francais v14s25_nsfwSkipLabel1_04c0c033:
@@ -934,7 +934,7 @@ translate francais v14s25_nsfwSkipLabel1_da2ff5ea:
 translate francais v14s25_nsfwSkipLabel1_8857ce45:
 
     # u "You're not perfect and neither is anyone else. You can be and do whatever you want."
-    u "Tu n'es pas parfaite et personne ne l'est non plus. Tu peux être et faire ce que tu veux."
+    u "T'es pas parfaite et personne ne l'est non plus. Tu peux être et faire ce que tu veux."
 
 # game/v14/scene25.rpy:938
 translate francais v14s25_nsfwSkipLabel1_4c07aca7:
@@ -946,7 +946,7 @@ translate francais v14s25_nsfwSkipLabel1_4c07aca7:
 translate francais v14s25_nsfwSkipLabel1_a9f95ce4:
 
     # am "*Gasps* [name]! *Laughs*"
-    am "*Soupire* [name] ! *Rire"
+    am "*Soupire* [name] ! *Rire*"
 
 # game/v14/scene25.rpy:953
 translate francais v14s25_nsfwSkipLabel1_79d0b5fe:
@@ -970,7 +970,7 @@ translate francais v14s25_nsfwSkipLabel1_b260f100:
 translate francais v14s25_nsfwSkipLabel1_9af210f0:
 
     # am "We're about to have some fucking fun. Haha!"
-    am "Nous allons nous amuser comme des fous. Haha !"
+    am "On va s'amuser comme des fous. Haha !"
 
 # game/v14/scene25.rpy:1005
 translate francais v14s25_nsfwSkipLabel1_ab4f7f15:
@@ -1024,7 +1024,7 @@ translate francais v14s25_nsfwSkipLabel1_ce1328d1:
 translate francais v14s25_nsfwSkipLabel1_535b7722:
 
     # am "Do you not remember what I said about the gum lady? You're staying here tonight, get in the bed."
-    am "Tu ne te souviens pas de ce que j'ai dit à propos de la dame aux chewing-gums ? Tu restes ici ce soir, va au lit."
+    am "Tu te souviens pas de ce que j'ai dit à propos de la dame aux chewing-gums ? Tu restes là ce soir, va au lit."
 
 # game/v14/scene25.rpy:1077
 translate francais v14s25_nsfwSkipLabel1_e46397cc:
@@ -1036,7 +1036,7 @@ translate francais v14s25_nsfwSkipLabel1_e46397cc:
 translate francais v14s25_nsfwSkipLabel1_58038132:
 
     # am "What? You've seen tits before haven't you?"
-    am "Quoi ? Tu as déjà vu des seins avant, non ?"
+    am "Quoi ? T'as déjà vu des seins avant, non ?"
 
 # game/v14/scene25.rpy:1087
 translate francais v14s25_nsfwSkipLabel1_b3a6105b:

@@ -28,7 +28,7 @@ translate francais v14s19a_14a528aa:
 translate francais v14s19a_a8e4b929:
 
     # cl "How did what come about?"
-    cl "Comment ça s'est passé ?"
+    cl "Comment ça, \"comment ça s'est passé\" ?"
 
 # game/v14/scene19a.rpy:39
 translate francais v14s19a_68ed2d22:
@@ -100,7 +100,7 @@ translate francais v14s19a_5a93c43c:
 translate francais v14s19a_91785a99:
 
     # u "Yeah, makes sense, the Wolves are very much about loyalty."
-    u "Ouais, c'est logique, les Wolves sont très axés sur la loyauté."
+    u "Ouais, c'est logique, les Wolves sont très axés sur la \"loyauté\"."
 
 # game/v14/scene19a.rpy:91
 translate francais v14s19a_2e6183d5:
@@ -226,13 +226,13 @@ translate francais v14s19a_72c4ac08:
 translate francais v14s19a_867b967f:
 
     # u "I hate to state the obvious but, Chris and I aren't on the best of terms right now... And he's got Nora on his mind, so..."
-    u "Je déteste exprimer l'évidence mais Chris et moi ne sommes pas en très bons termes en ce moment... Et il a Nora en tête, alors..."
+    u "Je déteste exprimer l'évidence mais Chris et moi, on est pas en très bons termes en ce moment... Et il a Nora en tête, alors..."
 
 # game/v14/scene19a.rpy:199
 translate francais v14s19a_2581285b:
 
     # u "It's probably not best if I'm the one who talks to him."
-    u "Ce n'est probablement pas la meilleure solution que ce soit moi qui lui parle."
+    u "C'est certainement pas la meilleure solution que ce soit moi qui lui parle."
 
 # game/v14/scene19a.rpy:204
 translate francais v14s19a_c445d908:
@@ -280,7 +280,7 @@ translate francais v14s19a_601d293b:
 translate francais v14s19a_184c3057:
 
     # cl "Cliche library kids."
-    cl "Un cliché de la bibliothèque pour enfants."
+    cl "Un cliché des livres pour ados."
 
 # game/v14/scene19a.rpy:256
 translate francais v14s19a_6b236514:
@@ -298,7 +298,7 @@ translate francais v14s19a_6c5d094c:
 translate francais v14s19a_66686979:
 
     # u "Always."
-    u "Toujours là."
+    u "De rien."
 
 translate francais strings:
 

@@ -4,13 +4,13 @@
 translate francais v14s22_2dbeaba7:
 
     # u "This is an office right here!"
-    u "C'est un bureau là !"
+    u "C'est un vrai bureau ça !"
 
 # game/v14/scene22.rpy:37
 translate francais v14s22_ffcd966f:
 
     # li "Hey, you! Thanks for coming. You like the spot, huh?"
-    li "Salut, toi ! Merci d'être venu. Tu aimes l'endroit, hein ?"
+    li "Salut, toi ! Merci d'être venu. Tu aimes ce lieu, hein ?"
 
 # game/v14/scene22.rpy:42
 translate francais v14s22_4123e3fe:
@@ -22,13 +22,13 @@ translate francais v14s22_4123e3fe:
 translate francais v14s22_8ec6c897:
 
     # u "The real question is, how did you get permission to use it?"
-    u "La vraie question est : comment as-tu obtenu la permission de l'utiliser ?"
+    u "La vraie question est : comment t'as eu la permission de l'utiliser ?"
 
 # game/v14/scene22.rpy:49
 translate francais v14s22_4f6ed81c:
 
     # li "I did a little favor for the janitor and now..."
-    li "J'ai fait une petite faveur au concierge et maintenant..."
+    li "J'ai fait... une petite faveur au concierge et maintenant..."
 
 # game/v14/scene22.rpy:51
 translate francais v14s22_c4c9c87a:
@@ -40,7 +40,7 @@ translate francais v14s22_c4c9c87a:
 translate francais v14s22_1fb9efb2:
 
     # u "Wait... Lindsey, did you... You know...?"
-    u "Attends... Lindsey, est-ce que tu as... Tu sais...?"
+    u "Attends... Lindsey, est-ce que t'as... Tu sais...?"
 
 # game/v14/scene22.rpy:66
 translate francais v14s22_b3692b10:
@@ -52,7 +52,7 @@ translate francais v14s22_b3692b10:
 translate francais v14s22_ff703841:
 
     # u "*Whispers* Thank fucking god..."
-    u "*Chuchote* Putain de merde, merci..."
+    u "*Chuchote* Putain de merde, ouf..."
 
 # game/v14/scene22.rpy:76
 translate francais v14s22_5d302df2:
@@ -76,7 +76,7 @@ translate francais v14s22_c95bc0dd:
 translate francais v14s22_65ebf88e:
 
     # u "\"Just helped\"? You're an angel, Lindsey!"
-    u "\"Juste aidé\" ? Tu es un ange, Lindsey !"
+    u "\"Juste aidés\" ? T'es un ange, Lindsey !"
 
 # game/v14/scene22.rpy:93
 translate francais v14s22_be8cfb18:
@@ -112,13 +112,13 @@ translate francais v14s22_54462e1d:
 translate francais v14s22_24ca1be7:
 
     # u "That's definitely noted."
-    u "Définitivement noté."
+    u "Je grave ça dans le marbre."
 
 # game/v14/scene22.rpy:130
 translate francais v14s22_4949867b:
 
     # li "Okay, so... the reason we're here."
-    li "Ok, donc... la raison pour laquelle nous sommes ici."
+    li "Ok, donc... la raison pour laquelle on est là."
 
 # game/v14/scene22.rpy:135
 translate francais v14s22_a46d5982:
@@ -166,7 +166,7 @@ translate francais v14s22_bc51034b:
 translate francais v14s22_6ff319a4:
 
     # li "Phase one of my plan is to secure funding. We don't have hidden funds or special resources like Chloe does."
-    li "La première phase de mon plan consiste à trouver des fonds. Nous n'avons pas de fonds secrets ou de ressources spéciales comme Chloé."
+    li "La première phase de mon plan consiste à trouver des fonds. On a pas de fonds secrets ou de ressources spéciales comme Chloé."
 
 # game/v14/scene22.rpy:169
 translate francais v14s22_3e9e197d:
@@ -178,7 +178,7 @@ translate francais v14s22_3e9e197d:
 translate francais v14s22_05a2892a:
 
     # u "Gotcha, we have to actually put in some work."
-    u "Compris, nous allons devoir réellement travailler."
+    u "Compris, on va devoir travailler pour de vrai."
 
 # game/v14/scene22.rpy:179
 translate francais v14s22_f98d8442:
@@ -232,7 +232,7 @@ translate francais v14s22_sell_car_8bc17536:
 translate francais v14s22_sell_car_8574be76:
 
     # li "No worries though, we should get a good chunk of cash either way."
-    li "Mais ne t'inquiète pas, nous devrions recevoir un bon paquet d'argent de toute façon."
+    li "Mais ne t'inquiète pas, on devrait recevoir un bon paquet d'argent de toute façon."
 
 # game/v14/scene22.rpy:268
 translate francais v14s22_sell_car_155aed1f:
@@ -244,7 +244,7 @@ translate francais v14s22_sell_car_155aed1f:
 translate francais v14s22_sell_car_72e4bbf4:
 
     # li "I was wondering if that second plan was a little too much, haha. Now I have the answer. *Chuckles*"
-    li "Je me demandais si ce deuxième plan n'était pas un peu trop... haha. Maintenant, j'ai la réponse. *Rire*."
+    li "Je me demandais si ce deuxième plan n'était pas un peu trop... haha. Maintenant, j'ai la réponse. *Rire*"
 
 # game/v14/scene22.rpy:279
 translate francais v14s22_sell_car_30ca127d:
@@ -274,7 +274,7 @@ translate francais v14s22_steal_2e307620:
 translate francais v14s22_steal_d5924503:
 
     # u "It's a really smart plan, I just hope we can pull it off."
-    u "C'est un plan très intelligent, j'espère seulement que nous pourrons le réaliser."
+    u "C'est un plan très intelligent, j'espère seulement qu'on pourra le réaliser."
 
 # game/v14/scene22.rpy:308
 translate francais v14s22_steal_39a657c1:
@@ -298,7 +298,7 @@ translate francais v14s22_steal_2e27a7fb:
 translate francais v14s22_steal_bb2b52e3:
 
     # u "I wouldn't have chosen to help you if I was too afraid to make hard decisions. My personal relationship with Chloe has nothing to do with this."
-    u "Je n'aurais pas choisi de t'aider si j'avais trop peur de prendre des décisions difficiles. Ma relation personnelle avec Chloé n'a rien à voir avec cette histoire."
+    u "J'aurais pas choisi de t'aider si j'avais trop peur de prendre des décisions difficiles. Ma relation personnelle avec Chloé n'a rien à voir avec cette histoire."
 
 # game/v14/scene22.rpy:326
 translate francais v14s22_steal_9ab5d514:
@@ -328,7 +328,7 @@ translate francais v14s22_steal_5430a5a5:
 translate francais v14s22_steal_a230ea19:
 
     # u "You're a Chick. No buts. It all adds up to me."
-    u "Tu es une Chick. Pas de mais. Tout se tient pour moi."
+    u "T'es une Chick. Pas de mais. Tout se tient pour moi."
 
 # game/v14/scene22.rpy:361
 translate francais v14s22_end_58cff27e:
@@ -388,7 +388,7 @@ translate francais v14s22_end_1e087f81:
 translate francais v14s22_end_19d5aed7:
 
     # li "I may have permission to use this place, but I don't like being in their way when they're trying to get their job done, haha."
-    li "J'ai peut-être la permission d'utiliser cet endroit, mais je n'aime pas être dans leur chemin quand ils essaient de faire leur travail, haha."
+    li "J'ai peut-être la permission d'utiliser cet endroit, mais je n'aime pas être dans leurs pattes, quand ils essaient de faire leur travail, haha."
 
 # game/v14/scene22.rpy:408
 translate francais v14s22_end_17f358ef:

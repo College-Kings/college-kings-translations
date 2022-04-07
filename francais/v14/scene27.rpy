@@ -64,7 +64,7 @@ translate francais v14s27_de7c820d:
 translate francais v14s27_c9420145:
 
     # u "Is it that serious that you can't say it here?"
-    u "Est-ce si grave que tu ne peux pas le dire ici ?"
+    u "C'est si important que tu peux pas le dire ici ?"
 
 # game/v14/scene27.rpy:82
 translate francais v14s27_5652acf8:

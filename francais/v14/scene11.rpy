@@ -82,7 +82,7 @@ translate francais v14s11_9ae6f5d5:
 translate francais v14s11_265d52b3:
 
     # u "(Definitely didn't like the guy, but I do get this weird feeling seeing him go.)"
-    u "(Je n'aimais vraiment pas ce type, mais j'ai un sentiment étrange en le voyant partir.)"
+    u "(J'aimais vraiment pas ce type, mais j'ai un sentiment étrange en le voyant partir.)"
 
 # game/v14/scene11.rpy:87
 translate francais v14s11_c0d8eebc:
@@ -148,7 +148,7 @@ translate francais v14s11_ffea1444:
 translate francais v14s11_ab40a1bd:
 
     # u "I admit, he helped me do some self reflecting, but... I'm not giving him any more than that."
-    u "J'admets qu'il m'a aidé à faire un peu d'introspection, mais... Je ne lui donnerai pas plus que ça."
+    u "J'admets qu'il m'a aidé à faire un peu d'introspection, mais... Je lui donnerai pas plus que ça."
 
 # game/v14/scene11.rpy:146
 translate francais v14s11_384af1d9:
@@ -160,7 +160,7 @@ translate francais v14s11_384af1d9:
 translate francais v14s11_a0f9c6ad:
 
     # u "Not at all. I'm completely content with all the choices I've made."
-    u "Pas du tout. Je suis complètement satisfait de tous les choix que j'ai faits."
+    u "Pas du tout. Je suis vraiment content de tous les choix que j'ai faits."
 
 # game/v14/scene11.rpy:159
 translate francais v14s11_e94a205d:
@@ -184,7 +184,7 @@ translate francais v14s11_67b3dd6d:
 translate francais v14s11_66253685:
 
     # u "Make sure you're taking care of yourself, red."
-    u "Prends soin de toi, rouge."
+    u "Prends soin de toi, la rouquine."
 
 # game/v14/scene11.rpy:179
 translate francais v14s11_265cbcdb:
@@ -202,7 +202,7 @@ translate francais v14s11_b1e9a3fe:
 translate francais v14s11_1446d68c:
 
     # u "Then don't be a part of the drama and just enjoy Aubrey's company. Sounds like that's what she's inviting you over for."
-    u "Alors ne fais tout simplement pas partie de ce drame et profite de la compagnie d'Aubrey. On dirait que c'est pour ça qu'elle t'invite."
+    u "Alors ne rentre tout simplement pas dans cette sale histoire et profite de la compagnie d'Aubrey. On dirait que c'est pour ça qu'elle t'invite."
 
 # game/v14/scene11.rpy:194
 translate francais v14s11_0bee070c:
@@ -280,7 +280,7 @@ translate francais v14s11_5215597a:
 translate francais v14s11_84e0ee5d:
 
     # u "I get it. You want to know what I want, right?"
-    u "Je comprends. Tu veux savoir ce que je veux, n'est-ce pas ?"
+    u "Je comprends. Tu veux savoir comment je vois ça, c'est ça ?"
 
 # game/v14/scene11.rpy:256
 translate francais v14s11_9e9975fe:
@@ -316,7 +316,7 @@ translate francais v14s11_b681e9cd:
 translate francais v14s11_1898850c:
 
     # u "I don't see how you having feelings for both of us is a problem. Is that supposed to be a problem?"
-    u "Je ne vois pas en quoi le fait que tu aies des sentiments pour nous deux est un problème. C'est censé en être un ?"
+    u "Je vois pas en quoi le fait que tu aies des sentiments pour nous deux est un problème. C'est censé en être un ?"
 
 # game/v14/scene11.rpy:293
 translate francais v14s11_dfb222cf:
@@ -334,7 +334,7 @@ translate francais v14s11_19497f26:
 translate francais v14s11_b606cb0f:
 
     # u "And if that means the three of us get to spend the most of our time together, I'm not complaining. *Chuckles* You're my two favorite ladies."
-    u "Et si ça veut dire que nous trois passons le plus clair de notre temps ensemble, je ne me plains pas. *Rire* Vous êtes les deux filles que je préfère."
+    u "Et si ça veut dire que nous trois passons le plus clair de notre temps ensemble, je me plains pas. *Rire* Vous êtes les deux filles que je préfère."
 
 # game/v14/scene11.rpy:308
 translate francais v14s11_fd00432c:
@@ -406,13 +406,13 @@ translate francais v14s11_c9a5e63b:
 translate francais v14s11_243e08d1:
 
     # u "I'm just not the sharing type, I guess."
-    u "Je crois que je ne suis pas du genre à partager."
+    u "Je crois que je suis pas du genre à partager."
 
 # game/v14/scene11.rpy:374
 translate francais v14s11_5c4f3227:
 
     # u "I don't really know if I'd feel comfortable with the whole situation."
-    u "Je ne sais pas vraiment si je me sentirais à l'aise dans cette situation."
+    u "Je sais pas vraiment si je me sentirais à l'aise dans cette situation."
 
 # game/v14/scene11.rpy:379
 translate francais v14s11_3c973fd0:
@@ -454,7 +454,7 @@ translate francais v14s11_104440d0:
 translate francais v14s11_d8548058:
 
     # u "(I don't think she liked hearing that answer.)"
-    u "(Je ne crois pas qu'elle ait aimé cette réponse.)"
+    u "(Je crois qu'elle n'a pas aimé cette réponse.)"
 
 # game/v14/scene11.rpy:415
 translate francais v14s11_3637aef7:

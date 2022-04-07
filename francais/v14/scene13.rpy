@@ -4,13 +4,13 @@
 translate francais v14s13_38e3a40d:
 
     # u "(Look at that beautiful bed... Oh, the things I'm gonna do to you.)"
-    u "(Regarde ce superbe lit... Oh, toutes les choses que je vais te faire)."
+    u "(Regardez-moi ce superbe lit... Oh, toutes les choses que je vais te faire.)"
 
 # game/v14/scene13.rpy:27
 translate francais v14s13_fda3532c:
 
     # se "Hey, hey! Were you just gonna go to sleep without letting us all know you're back?"
-    se "Hé, hé ! Tu allais juste aller te coucher sans nous dire que tu étais de retour ?"
+    se "Hé, hé ! Tu allais te coucher sans nous dire que tu étais de retour ?"
 
 # game/v14/scene13.rpy:32
 translate francais v14s13_8a201ce8:
@@ -34,7 +34,7 @@ translate francais v14s13_8a9913f8:
 translate francais v14s13_43a306b1:
 
     # u "Ha, alright... You make it sound like you're dying though. *Laughs*"
-    u "Ha, très bien... Mais tu fais comme si tu étais en train de mourir. *Rire*"
+    u "Ha, très bien... Mais tu parles comme si tu étais en train de mourir. *Rire*"
 
 # game/v14/scene13.rpy:52
 translate francais v14s13_b481fd92:
@@ -70,7 +70,7 @@ translate francais v14s13_0d222301:
 translate francais v14s13_7b149733:
 
     # se "Friend. Sounds like my friend is calling. There's no bosses around here, [name]."
-    se "Ami. On dirait que mon ami m'appelle. Il n'y a pas de chef par ici, [name]."
+    se "Ami. On dirait que mon ami m'appelle. Il n'y a pas de \"chef\" par ici, [name]."
 
 # game/v14/scene13.rpy:82
 translate francais v14s13_3901a768:
@@ -82,7 +82,7 @@ translate francais v14s13_3901a768:
 translate francais v14s13_84a87c38:
 
     # u "Yeah, man. Whatever you say, but a President is still the boss."
-    u "Ouais, mec. Comme tu veux, mais un Président est quand même le chef."
+    u "Ouais, mec. Si tu veux... Mais un Président, c'est quand même un chef."
 
 # game/v14/scene13.rpy:92
 translate francais v14s13_7eb2778c:
@@ -118,7 +118,7 @@ translate francais v14s13_46bbbaa8:
 translate francais v14s13_d443f1a2:
 
     # u "I'm happy to be home, haha. We'll catch up tomorrow, alright? Have a good one."
-    u "Je suis heureux d'être de retour à la maison, haha. On se retrouve demain, d'accord ? Passe une bonne journée."
+    u "Je suis heureux d'être de retour à la maison, haha. On se voit demain, d'accord ? Passe une bonne journée."
 
 # game/v14/scene13.rpy:122
 translate francais v14s13_dc055df8:

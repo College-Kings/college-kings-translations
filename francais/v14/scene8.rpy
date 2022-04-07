@@ -22,25 +22,25 @@ translate francais v14s08_193f1d14:
 translate francais v14s08_c11c31cb:
 
     # u "(I mean, for normal girls I'd just ask what's wrong but, with Amber... I don't want to get stabbed today, you know?)"
-    u "( Pour des filles normales, je demanderais simplement ce qui ne va pas, mais avec Amber.... J'ai pas très envie de me faire poignarder, tu vois ?)"
+    u "(Pour des filles normales, je demanderais simplement ce qui va pas, mais avec Amber.... J'ai pas très envie de me faire poignarder, tu vois ?)"
 
 # game/v14/scene8.rpy:36
 translate francais v14s08_31eb7790:
 
     # u "Hey, what's wrong?"
-    u "Hey, quelque chose ne va pas ?"
+    u "Hey, qu'est-ce qu'il y a ?"
 
 # game/v14/scene8.rpy:41
 translate francais v14s08_97dee065:
 
     # am "I'm not in the mood to talk."
-    am "Je n'ai pas envie de parler."
+    am "J'ai pas envie de parler."
 
 # game/v14/scene8.rpy:46
 translate francais v14s08_f95e119b:
 
     # u "*Sighs* (I knew I shouldn't have asked.)"
-    u "*Soupirs* (Je savais que je n'aurais pas dû demander.)"
+    u "*Soupirs* (Je savais que j'aurais pas dû demander.)"
 
 # game/v14/scene8.rpy:67
 translate francais v14s08_21142ddc:
@@ -52,7 +52,7 @@ translate francais v14s08_21142ddc:
 translate francais v14s08_b91ecda6:
 
     # u "(Not gonna open that can of worms... If she wanted to, she would.)"
-    u "(Je ne vais pas ouvrir cette boîte de Pandore... Si elle le voulait, elle le ferait.)"
+    u "(Je vais pas ouvrir cette boîte de Pandore... Si elle le voulait, elle le ferait.)"
 
 # game/v14/scene8.rpy:96
 translate francais v14s08_73fc62a0:
@@ -76,13 +76,13 @@ translate francais v14s08_daaee57b:
 translate francais v14s08_475f7ab7:
 
     # u "I respect your privacy, Amber. If you need to talk, you know I'm right here. If you'd rather sit in silence, I'm still here... *Laughs*"
-    u "Je respecte ta vie privée, Amber. Si tu as besoin de parler, tu sais que je suis là. Si tu préfères rester assise en silence, je suis toujours là... *Rire"
+    u "Je respecte ta vie privée, Amber. Si t'as besoin de parler, tu sais que je suis là. Si tu préfères rester assise en silence, je suis également là... *Rire"
 
 # game/v14/scene8.rpy:121
 translate francais v14s08_8279b9fb:
 
     # am "*Chuckles* For the first time ever, I think I see you as more than just a cute little fucktoy."
-    am "*Rire* Pour la première fois, je crois que je te vois plus que comme un mignon petit jouet."
+    am "*Rire* Pour la première fois, j'ai l'impression de te voir autrement que comme un mignon petit jouet."
 
 # game/v14/scene8.rpy:126
 translate francais v14s08_96c76367:

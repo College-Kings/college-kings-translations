@@ -46,13 +46,13 @@ translate francais v14s26a_ee4c71b7:
 translate francais v14s26a_a275ed58:
 
     # li "Apparently not, [name]."
-    li "Apparemment non, [name]."
+    li "Apparemment pas, [name]."
 
 # game/v14/scene26a.rpy:58
 translate francais v14s26a_552c2b25:
 
     # li "So far most of what I could sell as to my family. *Sighs*"
-    li "Jusqu'à présent, la plupart de ce que je pourrais vendre serait pour ma famille. *Soupirs*"
+    li "Jusqu'à présent, la plupart de ce que j'ai pu vendre était pour ma famille. *Soupirs*"
 
 # game/v14/scene26a.rpy:63
 translate francais v14s26a_307c9c57:
@@ -64,19 +64,19 @@ translate francais v14s26a_307c9c57:
 translate francais v14s26a_4b55bd4a:
 
     # u "Do you have a plan to get it going?"
-    u "Tu as un plan pour lancer la machine ?"
+    u "T'as un plan pour lancer la machine ?"
 
 # game/v14/scene26a.rpy:70
 translate francais v14s26a_2a24a620:
 
     # li "The only way this bake sale can be saved is..."
-    li "La seule façon de sauver cette vente de pâtisseries est..."
+    li "La seule façon de sauver cette vente de pâtisseries serait..."
 
 # game/v14/scene26a.rpy:75
 translate francais v14s26a_18afccba:
 
     # li "If I get naked, stand on this table and start shaking my ass for sales."
-    li "Je me mets à poil, debout sur cette table et commence à secouer mon cul pour attirer les clients."
+    li "Que je me mette à poil, debout sur cette table et commence à secouer mon cul pour attirer les clients."
 
 # game/v14/scene26a.rpy:80
 translate francais v14s26a_a0ea99dd:
@@ -94,7 +94,7 @@ translate francais v14s26a_c9f0cdb8:
 translate francais v14s26a_6e56a3e5:
 
     # u "You're pretty pissed about this, aren't you?"
-    u "Tu as l'air plutôt énervée par tout ça, hein ?"
+    u "T'as l'air plutôt énervée par tout ça, hein ?"
 
 # game/v14/scene26a.rpy:95
 translate francais v14s26a_100dbb7b:
@@ -142,7 +142,7 @@ translate francais v14s26a_041e98fe:
 translate francais v14s26a_925fbf29:
 
     # u "Well, okay. I'm just gonna go then, I guess. Text me if you need me, okay?"
-    u "Bon, d'accord. Je crois que je vais y aller, alors. Envoie-moi un SMS si tu as besoin de moi, d'accord ?"
+    u "Bon, d'accord. Je crois que je vais y aller, alors. Envoie-moi un SMS si t'as besoin de moi, d'accord ?"
 
 # game/v14/scene26a.rpy:135
 translate francais v14s26a_b207615b:
@@ -184,7 +184,7 @@ translate francais v14s26a_5982875a:
 translate francais v14s26a_a85302c4:
 
     # u "(Damn, so that's how she sabotaged her. Good cooking, Lauren!)"
-    u "(Mince, c'est donc comme ça qu'elle les a sabotés. Bonne cuisinière, Lauren !)"
+    u "(Whoa, c'est donc comme ça qu'elle les a sabotés. T'es la meilleure des cuisinière, Lauren !)"
 
 # game/v14/scene26a.rpy:165
 translate francais v14s26a_72bbdd06:
@@ -220,7 +220,7 @@ translate francais v14s26a_4c399826:
 translate francais v14s26a_9eee59cd:
 
     # am "You're not hurt or anything are you?"
-    am "T'es pas blessée ou quoi que ce soit, n'est-ce pas ?"
+    am "T'es pas blessé ou quoi que ce soit, hein ?"
 
 # game/v14/scene26a.rpy:244
 translate francais v14s26a_47426978:
@@ -244,13 +244,13 @@ translate francais v14s26a_31beead2:
 translate francais v14s26a_91f9550e:
 
     # am "I was just scared 'cause when I woke up you weren't here."
-    am "J'ai juste eu peur parce que quand je me suis réveillée, tu n'étais pas là."
+    am "J'ai juste eu peur parce que quand j'me suis réveillée, t'étais plus là."
 
 # game/v14/scene26a.rpy:258
 translate francais v14s26a_862d2e37:
 
     # u "Haha, I didn't wanna wake you."
-    u "Haha, je ne voulais pas te réveiller."
+    u "Haha, je voulais pas te réveiller."
 
 # game/v14/scene26a.rpy:263
 translate francais v14s26a_72b6464f:
@@ -286,13 +286,13 @@ translate francais v14s26a_40b1150a:
 translate francais v14s26a_83051218:
 
     # u "That's good, at least you made a small profit. Are you closing up shop now?"
-    u "C'est bien, au moins tu as fait un petit bénéfice. Tu vas fermer boutique maintenant ?"
+    u "C'est bien, au moins t'as fait un petit bénéfice. Tu vas fermer boutique maintenant ?"
 
 # game/v14/scene26a.rpy:302
 translate francais v14s26a_57b80416:
 
     # li "$100 for the day. Honestly, this was a complete waste of time."
-    li "100 $ pour la journée, en comptant les frais. C'était vraiment une perte de temps énorme."
+    li "100 $ pour la journée, en comptant les frais. C'était vraiment une énorme perte de temps."
 
 # game/v14/scene26a.rpy:307
 translate francais v14s26a_11c57a3c:

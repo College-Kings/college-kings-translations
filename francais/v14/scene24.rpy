@@ -22,4 +22,4 @@ translate francais v14s24_PhoneContinueAmber_35d926e6:
 translate francais v14s24_PhoneContinueAmber_1766ecfb:
 
     # u "(I'm gonna go ahead and get her something from the gas station.)"
-    u "(Je vais aller lui chercher quelque chose à la station-service.)"
+    u "(Je vais aller lui acheter un truc à la station-service.)"

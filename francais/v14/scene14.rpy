@@ -34,7 +34,7 @@ translate francais v14s14_99607b82:
 translate francais v14s14_f7af5aa1:
 
     # u "Nine fifty ni- OH, SHIT!"
-    u "Neuf cinquante neu- OH, MERDE !"
+    u "Neuf heures cinquante neu- OH, MERDE !"
 
 translate francais strings:
 

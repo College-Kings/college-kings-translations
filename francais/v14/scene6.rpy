@@ -4,13 +4,13 @@
 translate francais v14s06_29e2c407:
 
     # u "(Damn, I feel energized this morning.)"
-    u "(Wouah, je me sens plein d'énergie ce matin)."
+    u "(Wouah, je me sens en pleine forme ce matin)."
 
 # game/v14/scene6.rpy:32
 translate francais v14s06_f1765e5b:
 
     # u "(I feel like I never even hit my head.)"
-    u "(J'ai l'impression que je ne me suis même pas cogné la tête)."
+    u "(J'ai l'impression que je me suis même pas cogné la tête)."
 
 # game/v14/scene6.rpy:49
 translate francais v14s06_94e176e5:

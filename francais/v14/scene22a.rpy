@@ -34,7 +34,7 @@ translate francais v14s22a_afc84cd0:
 translate francais v14s22a_48505638:
 
     # li "It's what I needed, yes. If you ask me what I wanted we'd be speaking of fantasies."
-    li "C'est ce dont j'avais besoin, oui. Si tu me demandes si c'est ce que je voulais, nous parlerions de fantasmes."
+    li "C'est ce dont j'avais besoin, oui. Si tu me demandes si c'est ce que je voulais, on parlerait de fantasmes."
 
 # game/v14/scene22a.rpy:39
 translate francais v14s22a_bd260dad:
@@ -76,7 +76,7 @@ translate francais v14s22a_3430565a:
 translate francais v14s22a_3f89b3b1:
 
     # u "*Phone vibrates*"
-    u "*Le téléphone vibre*."
+    u "*Le téléphone vibre*"
 
 # game/v14/scene22a.rpy:73
 translate francais v14s22a_35b1dea0:
@@ -88,7 +88,7 @@ translate francais v14s22a_35b1dea0:
 translate francais v14s22a_e738a43c:
 
     # u "Yeah, I should probably take this."
-    u "Ouais, je devrais sûrement répondre."
+    u "Ouais, je vais devoir répondre."
 
 # game/v14/scene22a.rpy:84
 translate francais v14s22a_e5ef14d1:
@@ -112,7 +112,7 @@ translate francais v14s22a_15772c9c:
 translate francais v14s22a_446ac721:
 
     # u "(Oh, right, Chloe's on her way to the Wolves house. Need to rush now.)"
-    u "(Oh, c'est vrai, Chloé est en route pour la maison des Wolves. Il faut se dépêcher maintenant)."
+    u "(Oh, c'est vrai, Chloé est en route pour la maison des Wolves. Il faut se dépêcher.)"
 
 # game/v14/scene22a.rpy:113
 translate francais v14s22a_ffa6f7aa:
@@ -124,7 +124,7 @@ translate francais v14s22a_ffa6f7aa:
 translate francais v14s22a_8021f8b4:
 
     # li "No, no. It may be important. Besides, I need to run anyway."
-    li "Non, non. C'est peut-être important. De toute façon, je dois y aller."
+    li "Non, non. C'est sûrement important. De toute façon, je dois y aller."
 
 # game/v14/scene22a.rpy:123
 translate francais v14s22a_6e91440f_1:

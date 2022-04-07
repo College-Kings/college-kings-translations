@@ -28,7 +28,7 @@ translate francais v14s16_2ce7901a:
 translate francais v14s16_fdf5c829:
 
     # u "Have you talked to Lindsey or any of the other Chicks yet?"
-    u "As-tu déjà parlé à Lindsey ou à l'une des autres Chicks ?"
+    u "T'as déjà parlé à Lindsey ou à l'une des autres Chicks ?"
 
 # game/v14/scene16.rpy:65
 translate francais v14s16_7b24fad7:
@@ -82,7 +82,7 @@ translate francais v14s16_e44684a3:
 translate francais v14s16_a29b6b27:
 
     # u "(Damn, Lindsey. That's good.)"
-    u "(Merde, Lindsey. C'est bon.)"
+    u "(Putain, Lindsey. C'est trop bon.)"
 
 # game/v14/scene16.rpy:101
 translate francais v14s16_f9dc8ab2:
@@ -160,13 +160,13 @@ translate francais v14s16_77f717c2:
 translate francais v14s16_02865fad:
 
     # u "(I think she means having an assistant in the bedroom...?!) I'm definitely following."
-    u "(Je pense qu'elle veut dire avoir un assistant dans la chambre...?!) Je te suis définitivement."
+    u "(Je pense qu'elle veut dire avoir un assistant dans la chambre...?!) Je suis avec toi, définitivement."
 
 # game/v14/scene16.rpy:170
 translate francais v14s16_9b756545:
 
     # cl "So, what's your answer? Will you help me try and win this campaign?"
-    cl "So, what's your answer? Will you help me try and win this campaign?"
+    cl "Alors, tu me réponds ? Veux tu m'aider à essayer de gagner cette campagne ?"
 
 # game/v14/scene16.rpy:188
 translate francais v14s16_2d9b7089:
@@ -178,7 +178,7 @@ translate francais v14s16_2d9b7089:
 translate francais v14s16_e9679564:
 
     # u "Honestly, I don't think I could ever see anyone filling that role other than you."
-    u "Honnêtement, je ne pense pas imaginer quelqu'un d'autre que toi pour remplir ce rôle."
+    u "Honnêtement, je pense pas imaginer quelqu'un d'autre que toi pour remplir ce rôle."
 
 # game/v14/scene16.rpy:192
 translate francais v14s16_a4460215:
@@ -220,7 +220,7 @@ translate francais v14s16_1ea1fd4f:
 translate francais v14s16_58e02be5:
 
     # u "(I don't wanna get in my head too much about what her intentions are... I want to help her, so that's what I'm gonna do.)"
-    u "(Je ne veux pas trop me prendre la tête sur ses intentions.... Je veux l'aider, alors c'est ce que je vais faire.)"
+    u "(Je veux pas trop me prendre la tête sur ses intentions.... Je veux l'aider, c'est tout, et c'est ce que je vais faire.)"
 
 # game/v14/scene16.rpy:231
 translate francais v14s16_da6dc936:
@@ -232,7 +232,7 @@ translate francais v14s16_da6dc936:
 translate francais v14s16_3ce04655:
 
     # u "Chloe, I... I want to help you, but I don't have the time."
-    u "Chloé, je... Je voudrais bien t'aider, mais je n'ai pas une minute à moi."
+    u "Chloé, je... Je voudrais bien t'aider, mais j'ai pas une minute à moi."
 
 # game/v14/scene16.rpy:260
 translate francais v14s16_ddc472ef:
@@ -256,7 +256,7 @@ translate francais v14s16_8c5d9ced:
 translate francais v14s16_ae6c4587:
 
     # u "Chloe, woah. That's not what I meant, at all."
-    u "Chloé, waouh. Ce n'est pas du tout ce que je voulais dire."
+    u "Chloé, waouh. C'est pas du tout ce que je voulais dire."
 
 # game/v14/scene16.rpy:281
 translate francais v14s16_52616025:
@@ -268,7 +268,7 @@ translate francais v14s16_52616025:
 translate francais v14s16_1779cbe8:
 
     # u "It's not that I don't want to, Chloe. It's just that I'm kinda busy with my own Greek life. We just got back to campus for crying out loud, I mea-"
-    u "Ce n'est pas que je ne veux pas, Chloé. C'est juste que je suis très occupée avec ma propre vie de fraternité. Nous venons juste de revenir sur le campus, s'il te plaît, je pen-"
+    u "C'est pas que je veux pas, Chloé. C'est juste que je suis très occupée avec ma propre vie de fraternité. On vient juste de revenir sur le campus, s'il te plaît, je pen-"
 
 # game/v14/scene16.rpy:291
 translate francais v14s16_18dbd87f:
@@ -280,7 +280,7 @@ translate francais v14s16_18dbd87f:
 translate francais v14s16_4a4a8166:
 
     # cl "I'll remember just how busy you are the next time you want to \"hang out\"."
-    cl "Je me souviendrai à quel point tu es occupé la prochaine fois que tu voudras \"sortir\"."
+    cl "Je me souviendrai à quel point tu es \"occupé\", la prochaine fois que tu voudras \"sortir\"."
 
 # game/v14/scene16.rpy:298
 translate francais v14s16_4fb8f112:

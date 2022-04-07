@@ -46,7 +46,7 @@ translate francais v14s07_81e42504:
 translate francais v14s07_1f5f7273:
 
     # u "(Look at them. All... lovey dovey.)"
-    u "(Regarde-les. Devenues... très amoureuses.)"
+    u "(Regarde-les. Elles sont... très amoureuses.)"
 
 # game/v14/scene7.rpy:67
 translate francais v14s07_b85bdb1d:
@@ -58,13 +58,13 @@ translate francais v14s07_b85bdb1d:
 translate francais v14s07_752d5669:
 
     # ro "Some of my most unforgettable experiences happened on this journey, as have yours."
-    ro "Certaines de mes plus mémorables expériences ont eu lieu pendant ce voyage, tout comme les vôtres."
+    ro "Certaines de mes expériences les plus mémorables ont eu lieu pendant ce voyage, tout comme pour vous, j'imagine."
 
 # game/v14/scene7.rpy:78
 translate francais v14s07_61f57433:
 
     # u "(Okay Rose, let's try to be a little less obvious here.)"
-    u "(Ok Rose, essaie d'être un peu moins transparente ici)."
+    u "(Ok Rose, essaie d'être un peu moins transparente, là)."
 
 # game/v14/scene7.rpy:83
 translate francais v14s07_fddd5eec:

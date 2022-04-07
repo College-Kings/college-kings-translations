@@ -4,13 +4,13 @@
 translate francais v14s13a_38e3a40d:
 
     # u "(Look at that beautiful bed... Oh, the things I'm gonna do to you.)"
-    u "(Regarde ce lit merveilleux... Oh, les choses que je vais te faire.)"
+    u "(Regardez-moi ce lit merveilleux... Oh, les choses que je vais te faire.)"
 
 # game/v14/scene13a.rpy:17
 translate francais v14s13a_115fbc3c:
 
     # u "(I won't be letting anyone bother me tonight.)"
-    u "(Je ne laisserai personne me déranger ce soir.)"
+    u "(Je laisserai personne me déranger ce soir.)"
 
 # game/v14/scene13a.rpy:27
 translate francais v14s13a_fc435eb5:
@@ -22,13 +22,13 @@ translate francais v14s13a_fc435eb5:
 translate francais v14s13a_81db243d:
 
     # u "What the fuck did you just say?"
-    u "Qu'est-ce que tu viens de dire ?"
+    u "Qu'est-ce que t'as dit ?"
 
 # game/v14/scene13a.rpy:37
 translate francais v14s13a_8a988b24:
 
     # gr "Ha! Watch your tone, fruit cake. I was just joshing... With how defensive you got though, it does make me wonder a bit. *Chuckles*"
-    gr "Ha ! Surveille ton ton, mon petit gâteau en sucre. Je déconnais simplement... Mais vu la façon dont tu t'es mis sur la défensive, ça me fait un peu réfléchir. *Rire*."
+    gr "Ha ! Surveille ton ton, mon petit chou. Je déconnais simplement... Mais vu la façon dont tu t'es mis sur la défensive, ça m'fait un peu réfléchir. *Rire*"
 
 # game/v14/scene13a.rpy:42
 translate francais v14s13a_170772ca:
@@ -52,13 +52,13 @@ translate francais v14s13a_9ebd1e93:
 translate francais v14s13a_184f24c5:
 
     # u "I can't stand that fucker. You have no idea, man. He made my life a living-"
-    u "Je ne peux pas supporter cet enfoiré. T'as pas idée, mec. Il a fait de ma vie une vraie-"
+    u "Je peux pas supporter cet enfoiré. T'as pas idée, mec. Il a fait de ma vie une vraie-"
 
 # game/v14/scene13a.rpy:62
 translate francais v14s13a_44a2e2e2:
 
     # gr "Keep that anger built up, brother. We're gonna need you to have that energy in a few weeks."
-    gr "Garde cette colère accumulée, mon frère. Nous aurons besoin que tu aies cette énergie dans quelques semaines."
+    gr "Garde cette colère accumulée, mon frère. On va avoir besoin que t'aies cette énergie dans quelques semaines."
 
 # game/v14/scene13a.rpy:67
 translate francais v14s13a_d88c225f:
@@ -100,7 +100,7 @@ translate francais v14s13a_d3ea1440:
 translate francais v14s13a_e3094d17:
 
     # u "(He will never make any sense to me.)"
-    u "(Il ne sera jamais compréhensible pour moi.)"
+    u "(Je pige jamais rien, avec lui.)"
 
 # game/v14/scene13a.rpy:112
 translate francais v14s13a_1eb0edab:

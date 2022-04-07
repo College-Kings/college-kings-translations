@@ -142,7 +142,7 @@ translate francais v14s20_37b29485:
 translate francais v14s20_42b5b043:
 
     # u "Oh yeah? How can you tell that?"
-    u "Ah ouais ? Comment peux-tu dire ça ?"
+    u "Ah ouais ? À quoi tu vois ça ?"
 
 # game/v14/scene20.rpy:138
 translate francais v14s20_8679cc50:
@@ -160,7 +160,7 @@ translate francais v14s20_7380a235:
 translate francais v14s20_83c9b053:
 
     # u "Yeah, they seem to get along surprisingly well, haha."
-    u "Ouais, elles semblent s'entendre étonnamment bien, haha."
+    u "Ouais, elles avaient l'air de s'entendre étonnamment bien, haha."
 
 # game/v14/scene20.rpy:150
 translate francais v14s20_fc4070f9:
@@ -178,7 +178,7 @@ translate francais v14s20_03c8f4a4:
 translate francais v14s20_768fa671:
 
     # u "It definitely wasn't a good day. Not proud of some of the decisions I made but, we're still there for each other."
-    u "Ce n'était vraiment pas une bonne journée. Je ne suis pas fier de certaines des décisions que j'ai prises, mais nous sommes toujours là les uns pour les autres."
+    u "C'était vraiment pas une bonne journée. Je suis pas fier de certaines des décisions que j'ai prises, mais on est toujours là les uns pour les autres."
 
 # game/v14/scene20.rpy:165
 translate francais v14s20_0e299df2:
@@ -208,7 +208,7 @@ translate francais v14s20_9ee94785:
 translate francais v14s20_40775d9c:
 
     # u "I love your sister, Autumn. I honestly couldn't imagine being with anyone other than Lauren."
-    u "J'aime ta sœur, Autumn. Sincèrement, je ne me vois pas être avec quelqu'un d'autre que Lauren."
+    u "J'aime ta sœur, Autumn. Sincèrement, je me vois pas être avec quelqu'un d'autre que Lauren."
 
 # game/v14/scene20.rpy:195
 translate francais v14s20_e421c402:
@@ -220,7 +220,7 @@ translate francais v14s20_e421c402:
 translate francais v14s20_706eee81:
 
     # u "Haha, yeah. I guess you did."
-    u "Haha, ouais. On dirait que c'est le cas."
+    u "Haha, ouais. On va dire que c'est ça."
 
 # game/v14/scene20.rpy:205
 translate francais v14s20_deec6563:
@@ -268,13 +268,13 @@ translate francais v14s20_e1c40d24:
 translate francais v14s20_e94371a7:
 
     # aut "*Chuckles*"
-    aut "*Rire*."
+    aut "*Rire*"
 
 # game/v14/scene20.rpy:250
 translate francais v14s20_fd426830:
 
     # u "Amber is a wild card, we all definitely have fun with her. There's no doubt about that, haha."
-    u "Amber est un joker, nous nous amusons tous vraiment beaucoup avec elle. Il n'y a aucun doute là-dessus, haha."
+    u "Amber est un joker, on s'amuse tous vraiment beaucoup avec elle. Il n'y a aucun doute là-dessus, haha."
 
 # game/v14/scene20.rpy:255
 translate francais v14s20_4851bccb:
@@ -322,7 +322,7 @@ translate francais v14s20_9d67333c:
 translate francais v14s20_604aad3a:
 
     # u "Was that an invitation?"
-    u "Est-ce une invitation ?"
+    u "C'est une invitation ?"
 
 # game/v14/scene20.rpy:293
 translate francais v14s20_60091b23:
@@ -334,7 +334,7 @@ translate francais v14s20_60091b23:
 translate francais v14s20_f389d2f3:
 
     # u "You two are nothing alike."
-    u "Vous n'avez vraiment rien en commun, toutes les deux."
+    u "Vous avez vraiment rien en commun, toutes les deux."
 
 # game/v14/scene20.rpy:303
 translate francais v14s20_940d699b:
@@ -358,7 +358,7 @@ translate francais v14s20_79b49759:
 translate francais v14s20_51847da9:
 
     # u "Indeed it would. Your parents would have some explaining to do..."
-    u "En effet, ça le serait. Vos parents auraient beaucoup d'explications à donner..."
+    u "Oh oui. Vos parents auraient beaucoup d'explications à donner..."
 
 # game/v14/scene20.rpy:323
 translate francais v14s20_c300e8be:
@@ -376,13 +376,13 @@ translate francais v14s20_cd0b1799:
 translate francais v14s20_9a02f05e:
 
     # aut "Yes! Even we thought it was a really unique name at first, haha. Cool, huh?"
-    aut "Oui ! Même que nous trouvions que c'était un nom vraiment unique au début, haha. Cool, hein ?"
+    aut "Oui ! Même qu'on trouvait que c'était un nom vraiment unique au début, haha. Cool, hein ?"
 
 # game/v14/scene20.rpy:338
 translate francais v14s20_817d1c2c:
 
     # u "Hell yeah it's cool. No one else is named that. *Laughs*"
-    u "Putain ouais, c'est cool. Personne d'autre ne porte ce nom. *Rire"
+    u "Putain ouais, c'est cool. Personne d'autre ne porte ce nom. *Rire*"
 
 # game/v14/scene20.rpy:343
 translate francais v14s20_fe212256:
@@ -406,7 +406,7 @@ translate francais v14s20_5565fbc3:
 translate francais v14s20_f93d526a:
 
     # u "Holy shit... That's such a good story."
-    u "Putain de merde... Cette histoire est vraiment excellente."
+    u "Putain de merde... J'adore cette histoire."
 
 # game/v14/scene20.rpy:363
 translate francais v14s20_c4ee99ee:
@@ -418,19 +418,19 @@ translate francais v14s20_c4ee99ee:
 translate francais v14s20_2fd462e1:
 
     # u "*Laughs* You know, I don't think I've ever seen you hang out with anyone."
-    u "*Rire* Tu sais, je ne me souviens pas t'avoir déjà vue sortir avec quelqu'un."
+    u "*Rire* Tu sais, je me souviens pas t'avoir déjà vue sortir avec quelqu'un."
 
 # game/v14/scene20.rpy:373
 translate francais v14s20_8bf4968e:
 
     # aut "Oh, please... I have."
-    aut "Oh, s'il te plaît... Si, bien sûr."
+    aut "Oh, arrête... Si, bien sûr."
 
 # game/v14/scene20.rpy:378
 translate francais v14s20_e4e4ebe1:
 
     # u "I've literally never seen you with anyone. Besides Lauren. Maybe."
-    u "Je ne t'ai littéralement jamais vu avec quelqu'un. À part Lauren. Peut-être."
+    u "Je t'ai littéralement jamais vu avec quelqu'un. À part Lauren. Peut-être."
 
 # game/v14/scene20.rpy:383
 translate francais v14s20_06b8559d:
@@ -466,7 +466,7 @@ translate francais v14s20_b18f0773:
 translate francais v14s20_9d9997fc:
 
     # u "Over what? Wait, sorry if you weren't wanting to talk about this."
-    u "À quel sujet ? Attends, je suis désolé si tu ne voulais pas parler de ça."
+    u "À quel sujet ? Attends, je suis désolé si tu voulais pas parler de ça."
 
 # game/v14/scene20.rpy:413
 translate francais v14s20_9cd94a35:
@@ -478,7 +478,7 @@ translate francais v14s20_9cd94a35:
 translate francais v14s20_ec126b50:
 
     # u "I understand, completely."
-    u "Je comprends vraiment."
+    u "D'accord, je comprends."
 
 # game/v14/scene20.rpy:423
 translate francais v14s20_b6efd30b:
@@ -496,7 +496,7 @@ translate francais v14s20_eacbf5aa:
 translate francais v14s20_4d08fb05:
 
     # u "With me being close as I am to Lauren, yeah. It is a bit odd, isn't it?"
-    u "Avec moi qui suis proche comme je le suis de Lauren, ouais. C'est un peu bizarre, n'est-ce pas ?"
+    u "Avec moi qui suis proche comme je le suis de Lauren, ouais. C'est un peu bizarre, hein ?"
 
 # game/v14/scene20.rpy:438
 translate francais v14s20_c15713a3:
@@ -586,7 +586,7 @@ translate francais v14s20_03ec2f26_1:
 translate francais v14s20_f0834c2f:
 
     # u "(She was extremely upbeat. She's either happy about this grand re-opening or happy about something else... Or maybe even someone else, hehe.)"
-    u "(Elle était vraiment enjouée. Elle est soit heureuse de cette grande réouverture, soit heureuse de quelque chose d'autre... Ou peut-être même de quelqu'un d'autre, héhé)."
+    u "(Elle était vraiment enjouée. Elle est soit heureuse de cette grande réouverture, soit heureuse de quelque chose d'autre... Ou peut-être même de quelqu'un d'autre, héhé.)"
 
 translate francais strings:
 

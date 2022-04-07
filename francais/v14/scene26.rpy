@@ -4,7 +4,7 @@
 translate francais v14s26_de8b05ad:
 
     # u "Hey, hey! How's it going?"
-    u "Hey, hey ! Comment ça se passe ?"
+    u "Hey, hey, hey ! Comment ça se passe ?"
 
 # game/v14/scene26.rpy:24
 translate francais v14s26_a01e720e:
@@ -22,7 +22,7 @@ translate francais v14s26_f8c7513b:
 translate francais v14s26_8e65ec49:
 
     # u "Wait, what?! *Laughs*"
-    u "Attends, quoi ?! *Rire*"
+    u "Attends, sérieux ?! *Rire*"
 
 # game/v14/scene26.rpy:39
 translate francais v14s26_2fae171c:
@@ -34,7 +34,7 @@ translate francais v14s26_2fae171c:
 translate francais v14s26_0f72ea1c:
 
     # u "Who's been buying all your treats?"
-    u "Qui a acheté toutes tes friandises ?"
+    u "Qui t'a acheté tout ça ?"
 
 # game/v14/scene26.rpy:49
 translate francais v14s26_8f1f0925:
@@ -76,7 +76,7 @@ translate francais v14s26_19beb78a:
 translate francais v14s26_f7c813e2:
 
     # u "Hmm... I don't think I'm that hungry today, but..."
-    u "Hmm... Je ne pense pas avoir si faim que ça aujourd'hui, mais..."
+    u "Hmm... Je pense pas avoir si faim que ça aujourd'hui, mais..."
 
 # game/v14/scene26.rpy:84
 translate francais v14s26_53fbdfb9:
@@ -130,7 +130,7 @@ translate francais v14s26_7c4bf017:
 translate francais v14s26_fa086b50:
 
     # u "Oh, no thanks, haha. I'm not hungry."
-    u "Oh, non merci, haha. Je n'ai pas faim."
+    u "Oh, non merci, haha. J'ai pas faim."
 
 # game/v14/scene26.rpy:150
 translate francais v14s26_d8d6132d:
@@ -160,7 +160,7 @@ translate francais v14s26_6d1b6cf7:
 translate francais v14s26_b70dfaf5:
 
     # li "We can give you a free cake, silly. You're on the team."
-    li "Bien sûr, nous pouvons te donner un gâteau gratuit, idiot. Tu fais partie de l'équipe."
+    li "Bien sûr qu'on peut te donner un gâteau gratuit, idiot. Tu fais partie de l'équipe."
 
 # game/v14/scene26.rpy:175
 translate francais v14s26_dc956713:
@@ -280,7 +280,7 @@ translate francais v14s26_4c399826:
 translate francais v14s26_9eee59cd:
 
     # am "You're not hurt or anything are you?"
-    am "Tu n'es pas blessée ou quoi que ce soit, hein ?"
+    am "T'es pas blessé ou quoi que ce soit, hein ?"
 
 # game/v14/scene26.rpy:334
 translate francais v14s26_cca04e00:
@@ -304,7 +304,7 @@ translate francais v14s26_31beead2:
 translate francais v14s26_91f9550e:
 
     # am "I was just scared 'cause when I woke up you weren't here."
-    am "J'ai juste eu peur parce que quand je me suis réveillée, tu n'étais pas là."
+    am "J'ai juste eu peur parce que quand je me suis réveillée, t'étais plus là."
 
 # game/v14/scene26.rpy:348
 translate francais v14s26_cf03da46:
@@ -370,7 +370,7 @@ translate francais v14s26_679207eb:
 translate francais v14s26_06daf0f0:
 
     # u "Damn, Linds! You made that in what... Like, two hours?"
-    u "Putain, Linds ! Tu as fait ça en quoi... Genre, deux heures ?"
+    u "Putain, Linds ! T'as fait ça en quoi... Genre, deux heures ?"
 
 # game/v14/scene26.rpy:409
 translate francais v14s26_cb5f208c:

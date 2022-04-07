@@ -16,7 +16,7 @@ translate francais v14s23_46a9f4b8:
 translate francais v14s23_0bd0f3a4:
 
     # u "Just enjoying the weather or is something else on your mind?"
-    u "Tu profites seulement du temps qu'il fait ou tu as quelque chose d'autre en tête ?"
+    u "Tu profites juste du temps qu'il fait ou t'as quelque chose d'autre en tête ?"
 
 # game/v14/scene23.rpy:37
 translate francais v14s23_87a00504:
@@ -124,7 +124,7 @@ translate francais v14s23_28f67471:
 translate francais v14s23_bd702721:
 
     # ch "Exactly."
-    ch "Tout à fait."
+    ch "Ouais."
 
 # game/v14/scene23.rpy:115
 translate francais v14s23_cadc6763:
@@ -148,7 +148,7 @@ translate francais v14s23_5ba3611a:
 translate francais v14s23_4b37b301:
 
     # u "I don't know man, it sounds a bit inconsiderate."
-    u "Je ne sais pas mec, ça a l'air un peu irréfléchi."
+    u "Je sais pas mec, ça a l'air un peu irréfléchi."
 
 # game/v14/scene23.rpy:142
 translate francais v14s23_0dcefea2:
@@ -202,7 +202,7 @@ translate francais v14s23_e8978b6d:
 translate francais v14s23_9651176b:
 
     # cl "Good, I wanted to be here."
-    cl "Bien, je voulais être là, pour parler"
+    cl "Bien, je voulais être là, pour en parler."
 
 # game/v14/scene23.rpy:200
 translate francais v14s23_13614ad5:
@@ -220,7 +220,7 @@ translate francais v14s23_f2c92071:
 translate francais v14s23_01049c5c:
 
     # ch "Or else we'll have a divided frat with similar issues to what you have now."
-    ch "Sinon, nous nous retrouverons avec une fraternité divisée et des problèmes similaires à ceux que tu as maintenant."
+    ch "Sinon, on va se retrouver avec une fraternité divisée et des problèmes similaires à ceux que tu as maintenant."
 
 # game/v14/scene23.rpy:208
 translate francais v14s23_6fef5195:
@@ -274,25 +274,25 @@ translate francais v14s23_a5f1464a:
 translate francais v14s23_1f213a16:
 
     # cl "We've decided that we will pull off a major photoshoot."
-    cl "Nous avons décidé de faire un grand photoshoot."
+    cl "On a décidé de faire un grand photoshoot."
 
 # game/v14/scene23.rpy:253
 translate francais v14s23_5a1d316f:
 
     # ch "Photoshoots are expensive, especially with a lot of people."
-    ch "Les photoshoots coûtent cher, surtout lorsqu'il y a beaucoup de monde."
+    ch "Les photoshoots coûtent cher, surtout quand il y a beaucoup de monde."
 
 # game/v14/scene23.rpy:263
 translate francais v14s23_cd87c3fa:
 
     # u "You're right. It is expensive, but money is just an object when it comes to keeping the Chicks legacy in good hands."
-    u "Tu as raison. C'est cher, mais l'argent n'est rien lorsqu'il s'agit de garder l'héritage des Chicks entre de bonnes mains."
+    u "T'as raison. C'est cher, mais l'argent n'est rien lorsqu'il s'agit de garder l'héritage des Chicks entre de bonnes mains."
 
 # game/v14/scene23.rpy:271
 translate francais v14s23_920ca9f2:
 
     # u "I have to disagree because we could always just have an amateur shoot with our phones. It doesn't have to be spectacular."
-    u "Je ne suis pas d'accord, en effet, on pourrait toujours faire un shooting amateur avec nos téléphones. Ça n'a pas besoin d'être spectaculaire."
+    u "Je suis pas d'accord, en effet, on pourrait toujours faire un shooting amateur avec nos téléphones. Ça n'a pas besoin d'être spectaculaire."
 
 # game/v14/scene23.rpy:276
 translate francais v14s23_d20719ca:
@@ -340,7 +340,7 @@ translate francais v14s23_47954a3b:
 translate francais v14s23_e6116251:
 
     # u "It's better not to drag anyone else into this, I think. Don't wanna cause any unintended tension for others."
-    u "Je crois qu'il vaut mieux ne pas entraîner quelqu'un d'autre dans tout ça. Je ne voudrais pas que ça crée des tensions involontaires avec les autres."
+    u "Je crois qu'il vaut mieux pas entraîner quelqu'un d'autre dans tout ça. Je voudrais pas que ça crée des tensions involontaires avec les autres."
 
 # game/v14/scene23.rpy:307
 translate francais v14s23_79e7171a:
@@ -364,7 +364,7 @@ translate francais v14s23_490663b2:
 translate francais v14s23_e31a859c:
 
     # cl "A really good friend of mine is willing to let us shoot with her for a fee, but with her we'll get to pose with a real life wolf!"
-    cl "Une très bonne amie à moi est prête à nous laisser photographier avec elle contre rémunération, et grâce à elle, nous pourrons poser avec un vrai loup !"
+    cl "Un très bonne ami à moi est prêt à nous laisser nous photographier avec lui, contre rémunération, et grâce à lui, on pourrait poser avec un vrai loup !"
 
 # game/v14/scene23.rpy:325
 translate francais v14s23_d9579702:
@@ -382,7 +382,7 @@ translate francais v14s23_e332a4dc:
 translate francais v14s23_01df8130:
 
     # cl "Haha, that's what I was thinking too. We'd not only be getting support from the SVC Wolves, but giving support to the Wolf Sanctuary as well."
-    cl "Haha, je m'en doutais aussi. Non seulement nous recevrions le soutien des Wolves de la SVC, mais en plus de ça, nous apporterions notre soutien au Sanctuaire des Loups."
+    cl "Haha, je m'en doutais aussi. Non seulement on recevra le soutien des Wolves de la SVC, mais en plus de ça, on apportera notre soutien au Sanctuaire des Loups."
 
 # game/v14/scene23.rpy:340
 translate francais v14s23_0d783060:
@@ -394,7 +394,7 @@ translate francais v14s23_0d783060:
 translate francais v14s23_87751cc3:
 
     # cl "It'd give the Wolves a really good look, Chris."
-    cl "Ça donnerait aux Wolves une très bonne image, Chris."
+    cl "Ça donnerait une très bonne image aux Wolves, Chris."
 
 # game/v14/scene23.rpy:347
 translate francais v14s23_435ad333:
@@ -418,7 +418,7 @@ translate francais v14s23_83c950f0:
 translate francais v14s23_521ccbd9:
 
     # ch "I won't lie though, I thought you'd come here trying to squeeze whatever you could out of us, regardless of what it made us look like."
-    ch "Cependant, je ne mentirai pas, je pensais que tu viendrais ici pour essayer de nous soutirer tout ce que tu peux, sans tenir compte de l'image que ça pourrait donner de nous."
+    ch "Mais bon... je ne vais pas te mentir, je croyais que tu viendrais là pour essayer de nous soutirer tout ce que tu peux, sans tenir compte de l'image que ça pourrait donner de nous."
 
 # game/v14/scene23.rpy:361
 translate francais v14s23_b89e0d60:
@@ -466,7 +466,7 @@ translate francais v14s23_e537814b_1:
 translate francais v14s23_fdee80e9:
 
     # ch "I'm gonna back you a hundred percent."
-    ch "Je te soutiendrai à 100 %%."
+    ch "Je te soutiendrai à 100%%."
 
 # game/v14/scene23.rpy:399
 translate francais v14s23_34059c77:
@@ -592,13 +592,13 @@ translate francais v14s23_490663b2_1:
 translate francais v14s23_7a6e8e46:
 
     # cl "After a quick talk with [name], we've decided that we're gonna get this really cute plush toy Wolf to pose with."
-    cl "Après une rapide discussion avec [name], nous avons décidé d'acheter ce loup en peluche très mignon pour poser avec."
+    cl "Après une rapide discussion avec [name], on a décidé d'acheter ce loup en peluche très mignon pour poser avec."
 
 # game/v14/scene23.rpy:523
 translate francais v14s23_12c6b8c3:
 
     # ch "*Laughs* I know you're joking."
-    ch "*Rire* Je sais que tu plaisantes."
+    ch "*Rire* Arrête de te moquer de moi."
 
 # game/v14/scene23.rpy:528
 translate francais v14s23_04edd7f0:
@@ -610,7 +610,7 @@ translate francais v14s23_04edd7f0:
 translate francais v14s23_a0eb9d95:
 
     # ch "I agree, it would be cute. Cute isn't the kind of image I'm trying to have on the Wolves."
-    ch "Oui, je suis d'accord que ça serait mignon. Mais mignon n'est pas le genre d'image que j'essaie d'avoir sur les Wolves."
+    ch "Oui, j'imagine bien que ça serait mignon. Mais mignon n'est pas le genre d'image que j'essaie de donner aux Wolves."
 
 # game/v14/scene23.rpy:538
 translate francais v14s23_71e13e3d:
@@ -622,7 +622,7 @@ translate francais v14s23_71e13e3d:
 translate francais v14s23_63b69093:
 
     # u "Looking back on it now, a plush toy probably wasn't the best idea..."
-    u "En y repensant maintenant, c'est vrai qu'une peluche n'était sans doute pas la meilleure idée."
+    u "En y repensant maintenant, c'est vrai qu'une peluche n'était peut-être pas la meilleure idée."
 
 # game/v14/scene23.rpy:552
 translate francais v14s23_67f602a5:
@@ -634,7 +634,7 @@ translate francais v14s23_67f602a5:
 translate francais v14s23_26ef9410:
 
     # u "It's not really about what the Wolves will look like."
-    u "Il ne s'agit pas vraiment de ce à quoi ressembleront les Wolves."
+    u "Il s'agit pas vraiment de ce à quoi ressembleront les Wolves."
 
 # game/v14/scene23.rpy:557
 translate francais v14s23_e4896bab:
@@ -646,7 +646,7 @@ translate francais v14s23_e4896bab:
 translate francais v14s23_03635d5e:
 
     # u "The only thing put on the Wolves is that we're supporting Chloe because we're respectable and trustworthy, and that's the image you want right?"
-    u "La seule chose qui sera attribuée aux Wolves sera que nous soutenons Chloé, car nous sommes respectables et dignes de confiance et j'imagine que c'est l'image que tu souhaites qu'on ait, non ?"
+    u "La seule chose qui sera attribuée aux Wolves sera qu'on soutient Chloé, car on est respectables et dignes de confiance et j'imagine que c'est l'image que tu souhaites qu'on ait, non ?"
 
 # game/v14/scene23.rpy:565
 translate francais v14s23_a5547fdf:
@@ -658,13 +658,13 @@ translate francais v14s23_a5547fdf:
 translate francais v14s23_38c74758:
 
     # cl "Financially I think it's best, but I also just think it's extremely adorable."
-    cl "Financièrement, je pense que c'est ce qu'il y a de mieux, mais je pense également que c'est vraiment adorable."
+    cl "Financièrement, je pense que c'est ce qu'il y a de mieux, mais je trouve également que ça sera vraiment adorable."
 
 # game/v14/scene23.rpy:575
 translate francais v14s23_8569c4fa:
 
     # u "*Chuckles*"
-    u "*Rire*."
+    u "*Rire*"
 
 # game/v14/scene23.rpy:580
 translate francais v14s23_9c104aa4:
@@ -676,13 +676,13 @@ translate francais v14s23_9c104aa4:
 translate francais v14s23_eca727ce:
 
     # u "I gotta disagree. Having a real wolf would look like you're pandering to a masculine audience."
-    u "Je ne suis pas d'accord. Avoir un vrai loup donnerait l'impression que tu fais la chasse à un public masculin."
+    u "Réfléchis bien. Avoir un vrai loup donnerait l'impression que tu fais la chasse à un public masculin."
 
 # game/v14/scene23.rpy:593
 translate francais v14s23_be1f88b3:
 
     # ch "We're a male fraternity, we're not pandering to a feminine audience."
-    ch "Nous sommes une fraternité masculine, nous ne cherchons pas à plaire à un public féminin."
+    ch "On est une fraternité masculine, on ne cherche pas à plaire à un public féminin."
 
 # game/v14/scene23.rpy:598
 translate francais v14s23_80c87e04:
@@ -712,7 +712,7 @@ translate francais v14s23_e3290e18:
 translate francais v14s23_b41167d2:
 
     # cl "This entire photoshoot is for the Chicks to show our support of the Wolves, as we get the same in return."
-    cl "Ce photoshoot dans son intégralité permettra aux Chicks de montrer leur soutien aux Wolves, car nous recevrons la même chose en retour."
+    cl "Ce photoshoot dans son intégralité permettra aux Chicks de montrer leur soutien aux Wolves, car on recevra la même chose en retour."
 
 # game/v14/scene23.rpy:614
 translate francais v14s23_cb84a79c:
@@ -880,7 +880,7 @@ translate francais v14s23_2c824547:
 translate francais v14s23_900ce411:
 
     # u "Nah, it shouldn't be important. It's okay."
-    u "Nah, ça devrait pas être important. C'est bon."
+    u "Nah, ça doit pas être important. C'est bon."
 
 # game/v14/scene23.rpy:751
 translate francais v14s23_3f89b3b1_1:
@@ -916,7 +916,7 @@ translate francais v14s23_bf8802da:
 translate francais v14s23_d55c982e:
 
     # u "I'm gonna figure out who's blowing my phone up, I'll talk to you real soon Chris."
-    u "Je vais voir qui fait exploser mon téléphone, on se parle très vite, Chris."
+    u "Je vais regarder qui fait exploser mon téléphone, on se parle très vite, Chris."
 
 # game/v14/scene23.rpy:792
 translate francais v14s23_cb68cec9:

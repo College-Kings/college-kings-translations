@@ -118,7 +118,7 @@ translate francais v14s25a_a01f317c:
 translate francais v14s25a_7ea7fd7b:
 
     # am "I wanna catch your cum in my mouth..."
-    am "Je veux recueillir ton sperme dans ma bouche..."
+    am "Je veux ton sperme dans ma bouche..."
 
 # game/v14/scene25a.rpy:226
 translate francais v14s25a_a61837d4:
@@ -184,13 +184,13 @@ translate francais v14s25a_cf6fb5e0:
 translate francais v14s25a_a08f69c9:
 
     # u "Whoa, I can't even feel my fingers..."
-    u "Whoa, je ne peux même plus sentir mes doigts..."
+    u "Whoa, je peux même plus sentir mes doigts..."
 
 # game/v14/scene25a.rpy:321
 translate francais v14s25a_398bdf38:
 
     # am "When you're high like this, it always feels good to just stop moving and let yourself float in time until you pass out."
-    am "Quand tu es défoncé comme ça, ça fait toujours du bien de simplement arrêter de bouger et de te laisser flotter dans le temps jusqu'à ce que tu t'évanouisses."
+    am "Quand t'es défoncé comme ça, ça fait toujours du bien de simplement arrêter de bouger et de te laisser flotter dans le temps jusqu'à ce que tu t'évanouisses."
 
 # game/v14/scene25a.rpy:326
 translate francais v14s25a_7127baf5:
@@ -208,4 +208,4 @@ translate francais v14s25a_16dac629:
 translate francais v14s25a_a93e3e38:
 
     # am "Oh, yeahhhh... I'm so stupid, I forgot what I just said to you. *Laughs* Goodnight."
-    am "Oh, ouaiiiis... Je suis si stupide que j'ai oublié ce que je viens de te dire. *Rire* Bonne nuit."
+    am "Oh, ouaiiiis... Je suis tellement con que j'ai oublié ce que je viens de te dire. *Rire* Bonne nuit."

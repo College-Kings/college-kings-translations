@@ -4,7 +4,7 @@
 translate francais v14s25b_db6c5698:
 
     # u "(I'm not used to being the first one awake...)"
-    u "(Je n'ai pas l'habitude d'être le premier à me réveiller...)"
+    u "(J'ai pas l'habitude d'être le premier à me réveiller...)"
 
 # game/v14/scene25b.rpy:37
 translate francais v14s25b_69aceaff:

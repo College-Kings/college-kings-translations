@@ -64,13 +64,13 @@ translate francais v14s09_75c6b474:
 translate francais v14s09_5783ae5d:
 
     # u "(Those two are obviously good friends, and even closer now it seems.)"
-    u "(Ces deux-là sont manifestement de bons amis, et encore plus proches maintenant, apparemment)."
+    u "(Ces deux-là sont manifestement de bons amis, et apparemment encore plus proches, maintenant.)"
 
 # game/v14/scene9.rpy:89
 translate francais v14s09_3366c70a:
 
     # u "(I don't see Charli anywhere... Guess Mr. Lee wasn't fucking around.)"
-    u "(Je ne vois Charli nulle part... Je pense qu'il ne veut pas être dans le coin quand Mr Lee est là.)"
+    u "(Je vois Charli nulle part... Je pense qu'il veut pas être dans le coin quand Mr Lee est là.)"
 
 # game/v14/scene9.rpy:117
 translate francais v14s09_ef2f1671:
@@ -178,7 +178,7 @@ translate francais v14s09_18de98cd:
 translate francais v14s09_def992fb:
 
     # u "(Can't believe the trip is already over, so much shit happened, I wonder what everyone's favorite part was...)"
-    u "(Je n'arrive pas à croire que le voyage est déjà terminé, il s'est passé tellement de choses, je me demande quel a été le moment préféré de chacun...)"
+    u "(J'arrive pas à croire que le voyage est déjà terminé, il s'est passé tellement de choses, je me demande quel a été le moment préféré de chacun...)"
 
 # game/v14/scene9.rpy:216
 translate francais v14s09_02d570ce:
@@ -250,7 +250,7 @@ translate francais v14s09_7fe8f8a1:
 translate francais v14s09_3fc52133:
 
     # u "(We almost went to prison for robbing a bank, haha. Maybe that was her favorite part.)"
-    u "(Nous avons failli aller en prison pour eu l'idée de braquer une banque, haha. C'était peut-être ça son moment préféré)."
+    u "(Quand on a failli aller en prison avec l'idée de braquer une banque, haha. C'était peut-être ça son moment préféré)."
 
 # game/v14/scene9.rpy:260
 translate francais v14s09_e400c202:
@@ -508,7 +508,7 @@ translate francais v14s09_15e727f8:
 translate francais v14s09_a747d4c5:
 
     # u "(The bike tour. Lauren loves nature and we had a couple wild encounters, haha.)"
-    u "(La balade à vélo. Lauren adore la nature et nous avons fait quelques rencontres sauvages, haha)."
+    u "(La balade à vélo. Lauren adore la nature et on a fait quelques rencontres \"sauvages\", haha)."
 
 # game/v14/scene9.rpy:433
 translate francais v14s09_1de7eecd:
@@ -520,7 +520,7 @@ translate francais v14s09_1de7eecd:
 translate francais v14s09_5abb5299:
 
     # u "(We shared an incredible night together. I don't think either of us will ever forget it.)"
-    u "(Nous avons passé une nuit incroyable ensemble. Je crois qu'aucun de nous deux ne l'oubliera jamais.)"
+    u "(On a passé une nuit incroyable ensemble. Je crois qu'aucun de nous deux ne l'oubliera jamais.)"
 
 # game/v14/scene9.rpy:441
 translate francais v14s09_a05dadc7:
@@ -550,7 +550,7 @@ translate francais v14s09_9e2c1e0a:
 translate francais v14s09_2145d4a5:
 
     # ry "My bad, \"here\". *Laughs*"
-    ry "C'est toujours moi qui déconne, \"présent\". *Rire*"
+    ry "Ça va ! Je déconnais. \"Présent\". *Rire*"
 
 # game/v14/scene9.rpy:463
 translate francais v14s09_4abf15e9:
@@ -562,7 +562,7 @@ translate francais v14s09_4abf15e9:
 translate francais v14s09_a9a620ff:
 
     # u "(Ryan does really enjoy seeing Imre's misfortune, I don't think he'll ever let him live that one down.)"
-    u "(Ryan aime vraiment voir Imre malheureux, je ne crois pas qu'il le laissera tranquille un jour.)"
+    u "(Ryan aime vraiment voir Imre malheureux, pas sûr qu'il le laisse tranquille un jour.)"
 
 # game/v14/scene9.rpy:470
 translate francais v14s09_cef1c9cf:
@@ -580,7 +580,7 @@ translate francais v14s09_f4bb61b2:
 translate francais v14s09_1b19a55b:
 
     # imre "*Whispers* Nice one, dumbass. Haven't heard that joke since middle school... Did you learn it from your sister? Haha-"
-    imre "*Chuchote* Bien joué, le débile. J'ai pas entendu cette blague depuis l'collège... C'est ta sœur qui te l'a apprise ? Haha-"
+    imre "*Chuchote* Bien joué, le débile. J'ai pas entendu cette blague depuis le collège... C'est ta sœur qui te l'a apprise ? Haha-"
 
 # game/v14/scene9.rpy:483
 translate francais v14s09_bcef1fa5:
@@ -604,13 +604,13 @@ translate francais v14s09_f65e4055:
 translate francais v14s09_23f98fee:
 
     # u "(Boobs and booze, I have never seen him happier than when we first arrived at the RLD.)"
-    u "(Les Boobs et l'alcool, je ne l'ai jamais vu aussi heureux que lorsqu'on est arrivé au RLD.)"
+    u "(Les Boobs et l'alcool, je l'ai jamais vu aussi heureux que lorsqu'on est arrivé au RLD.)"
 
 # game/v14/scene9.rpy:497
 translate francais v14s09_02e35d0c:
 
     # u "(Greatest. Couple. Ever.)"
-    u "(Les plus belles mamelles. De tous les temps.)"
+    u "(\"Les plus belles mamelles. De tous les temps.\")"
 
 # game/v14/scene9.rpy:500
 translate francais v14s09_56db5a85:
@@ -634,7 +634,7 @@ translate francais v14s09_4c684b1d:
 translate francais v14s09_fbcac76d:
 
     # u "(I don't even know with Emily, I didn't really see her all that much.)"
-    u "(Je ne sais même pas ce qu'a fait Emily, je ne l'ai pas beaucoup vue.)"
+    u "(Je sais même pas ce qu'a fait Emily, je l'ai pas beaucoup vue.)"
 
 # game/v14/scene9.rpy:524
 translate francais v14s09_ffe5de64:

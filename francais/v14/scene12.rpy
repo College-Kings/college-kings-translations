@@ -16,7 +16,7 @@ translate francais v14s12_d879fa89:
 translate francais v14s12_c9490bb4:
 
     # u "Sure was, I'm headed to my room now."
-    u "Tout à fait, je vais dans ma chambre là."
+    u "Oui, je vais dans ma chambre là."
 
 # game/v14/scene12.rpy:67
 translate francais v14s12_9441bd0b:
@@ -76,7 +76,7 @@ translate francais v14s12_e7349693:
 translate francais v14s12_df60fec0:
 
     # u "Is something wrong, or...?"
-    u "Quelque chose ne va pas, ou... ?"
+    u "Y a quelque chose qui va pas, ou... ?"
 
 # game/v14/scene12.rpy:117
 translate francais v14s12_12e0cffe:
@@ -112,7 +112,7 @@ translate francais v14s12_dcb6e9ba:
 translate francais v14s12_2308c9ae:
 
     # u "Haha, okay. I couldn't picture you in the FBI anyway."
-    u "Haha, ok. Je n'arrivais pas à t'imaginer dans le FBI de toute façon."
+    u "Haha, ok. J'arrivais pas à t'imaginer dans le FBI, de toute façon."
 
 # game/v14/scene12.rpy:147
 translate francais v14s12_fee3b8c2:
@@ -124,7 +124,7 @@ translate francais v14s12_fee3b8c2:
 translate francais v14s12_017fb4b0:
 
     # u "Do you really want me to go into detail on why I think you wouldn't be good for the FBI?"
-    u "Tu veux vraiment que je t'explique en détail pourquoi je pense que tu ne serais pas bien pour le FBI ?"
+    u "Tu veux vraiment que je t'explique en détail pourquoi je pense pas que tu serais bien dans le FBI ?"
 
 # game/v14/scene12.rpy:157
 translate francais v14s12_55fd131e:
@@ -142,7 +142,7 @@ translate francais v14s12_09ff88bf:
 translate francais v14s12_3dd1f48b:
 
     # u "Well, how long do you think you'll be away?"
-    u "Sinon, combien de temps penses-tu être absente ?"
+    u "Sinon, combien de temps tu vas être absente ?"
 
 # game/v14/scene12.rpy:169
 translate francais v14s12_eeebd2f5:
@@ -154,7 +154,7 @@ translate francais v14s12_eeebd2f5:
 translate francais v14s12_7e6f30a7:
 
     # u "I got it, just keep me posted and we'll go from there. Okay?"
-    u "Je comprends, tiens-moi au courant et nous verrons bien. Ok ?"
+    u "Je comprends, tiens-moi au courant et on verra bien. Ok ?"
 
 # game/v14/scene12.rpy:179
 translate francais v14s12_fa8ce3bb:
@@ -184,7 +184,7 @@ translate francais v14s12_604e5884:
 translate francais v14s12_64f5da64:
 
     # u "(Still keeping this job a secret is really suspicious... And having to go to New York of all places is pretty... odd. Oh, well.)"
-    u "(Le fait de garder ce travail secret est vraiment suspect...) Et le fait de devoir aller à New York parmi tous les lieux possibles est plutôt... étrange. Oh, bon.)"
+    u "(Le fait de garder secret ce travail est vraiment suspect... Et le fait de devoir aller à New York parmi tous les lieux possibles est plutôt... étrange. Oh, et puis merde !)"
 
 translate francais strings:
 

@@ -4,7 +4,7 @@
 translate francais v14s18_e9f7f52d:
 
     # u "You don't have enough of those up already?"
-    u "Tu n'en as pas déjà assez ?"
+    u "T'en as pas déjà assez ?"
 
 # game/v14/scene18.rpy:32
 translate francais v14s18_2a2a9387:
@@ -28,7 +28,7 @@ translate francais v14s18_d3b8b860:
 translate francais v14s18_f2944d32:
 
     # u "Seems like you have all the help you need... I don't see much of Chloe anywhere. *Chuckles*"
-    u "On dirait que tu as toute l'aide dont tu as besoin... Je ne vois pas beaucoup de Chloé nulle part. *Rire *"
+    u "On dirait que t'as toute l'aide dont t'as besoin... Je vois pas beaucoup de Chloé nulle part. *Rire*"
 
 # game/v14/scene18.rpy:57
 translate francais v14s18_c5ed255f:
@@ -112,7 +112,7 @@ translate francais v14s18_276be2cf:
 translate francais v14s18_bd11bcb1:
 
     # u "You can win regardless of having me on your team, Linds. You have a really good chance, actually."
-    u "Tu peux gagner même si je ne fais pas partie de ton équipe, Linds. Tu as vraiment de très bonnes chances, en fait."
+    u "Tu peux gagner même si je fais pas partie de ton équipe, Linds. En fait, t'as vraiment de très bonnes chances."
 
 # game/v14/scene18.rpy:127
 translate francais v14s18_e7076c36:
@@ -190,7 +190,7 @@ translate francais v14s18_7edc6572:
 translate francais v14s18_d9d5af0f:
 
     # u "From the very beginning I've been in support of your campaign, and I don't plan on stopping anytime soon."
-    u "Depuis le début, je soutiens ta campagne, et je ne compte pas m'arrêter maintenant."
+    u "Depuis le début, je soutiens ta campagne, et je compte pas m'arrêter maintenant."
 
 # game/v14/scene18.rpy:210
 translate francais v14s18_4914e95c:
@@ -214,13 +214,13 @@ translate francais v14s18_0f4b4940:
 translate francais v14s18_59d2d834:
 
     # u "(I have to make sure they don't find out I'm helping both of them... That might end badly.)"
-    u "(Je dois faire attention à ce qu'elles ne découvrent pas que je les aide toutes les deux.... Ça pourrait très mal finir.)"
+    u "(Je dois faire attention à ce qu'elles découvrent pas que je les aide toutes les deux.... Ça pourrait très mal finir.)"
 
 # game/v14/scene18.rpy:253
 translate francais v14s18_ff2ec311:
 
     # u "I've been thinking about it, and now that we're actually back on campus I'm finally starting to get back into the swing of things. So, I don't think-"
-    u "J'y ai pensé, et maintenant que nous sommes réellement de retour sur le campus, je me remets enfin au travail. Donc, je ne pense pas..."
+    u "J'y ai pensé, et maintenant que nous sommes réellement de retour sur le campus, je me remets enfin au travail. Donc, je pense pas..."
 
 # game/v14/scene18.rpy:258
 translate francais v14s18_3ee611f2:

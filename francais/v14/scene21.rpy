@@ -16,7 +16,7 @@ translate francais v14s21_89ab6e28:
 translate francais v14s21_f019be27:
 
     # u "What's happening? Something wrong?"
-    u "Qu'est-ce qui se passe ? Quelque chose ne va pas ?"
+    u "Qu'est-ce qu'il y a ? Y a un problème ?"
 
 # game/v14/scene21.rpy:37
 translate francais v14s21_7bcb7a71:
@@ -88,7 +88,7 @@ translate francais v14s21_108b353e:
 translate francais v14s21_f54a3912:
 
     # u "And honestly Chloe, I'll do whatever I can to help keep that gorgeous smile on your face for as long as humanly possible."
-    u "Et franchement Chloé, je ferai tout ce que je peux pour t'aider à garder ce magnifique sourire sur ton visage aussi longtemps que possible."
+    u "Et franchement Chloé, je ferai tout ce que je peux pour t'aider à garder ce magnifique sourire sur ton visage, aussi longtemps que possible."
 
 # game/v14/scene21.rpy:112
 translate francais v14s21_342d5425:
@@ -100,7 +100,7 @@ translate francais v14s21_342d5425:
 translate francais v14s21_97b6b99b:
 
     # u "I do now, I suppose. Although, I'm not completely agreeing with you on that one..."
-    u "Je le suis maintenant, peut-être. Bien que je ne sois pas tout à fait d'accord avec toi sur ce point..."
+    u "Je le suis maintenant, peut-être. Bien que je sois pas tout à fait d'accord avec toi sur ce point..."
 
 # game/v14/scene21.rpy:122
 translate francais v14s21_108b353e_1:
@@ -136,13 +136,13 @@ translate francais v14s21_cf2c7255:
 translate francais v14s21_ef17d67d:
 
     # u "That does kinda suck. I guess we'll have to make the most out of the time we have."
-    u "Ça craint un peu. Je crois que nous devrons profiter au maximum du temps que nous aurons."
+    u "Ça craint un peu. Je crois qu'on devrait profiter au maximum du temps qu'on a."
 
 # game/v14/scene21.rpy:148
 translate francais v14s21_690faec6:
 
     # u "I'm a patient man when it comes to the things I care about, Chloe. I know your situation and I understand that this campaign is more important right now."
-    u "Je suis un homme patient lorsqu'il s'agit des choses qui me tiennent à cœur, Chloé. Je connais ta situation et je comprends que cette campagne est bien plus importante en ce moment."
+    u "Je suis un homme patient lorsqu'il s'agit des choses qui me tiennent à cœur, Chloé. Je connais ta situation et je comprends que cette campagne est bien plus importante, pour l'instant."
 
 # game/v14/scene21.rpy:153
 translate francais v14s21_8fd360f1:
@@ -178,7 +178,7 @@ translate francais v14s21_351497a1:
 translate francais v14s21_57258cce:
 
     # u "What's that?"
-    u "C'est quoi ça ?"
+    u "Et ça serait ?"
 
 # game/v14/scene21.rpy:183
 translate francais v14s21_ccb05df7:
@@ -196,7 +196,7 @@ translate francais v14s21_c41e61b3:
 translate francais v14s21_3d20714d:
 
     # u "Is there a reason we're in the parking lot?"
-    u "Y a-t-il une raison pour laquelle nous sommes dans le parking ?"
+    u "Pourquoi on est dans le parking ?"
 
 # game/v14/scene21.rpy:213
 translate francais v14s21_a3e97ba0:
@@ -250,7 +250,7 @@ translate francais v14s21_9974b02d:
 translate francais v14s21_4b1e6b98:
 
     # u "Look, Chloe... I don't want you to feel like you owe me anything just for supporting you."
-    u "Écoute, Chloé... Je ne veux pas que tu aies l'impression que tu me dois quelque chose pour t'avoir soutenue."
+    u "Écoute, Chloé... Je veux pas que tu aies l'impression de me devoir quelque chose pour t'avoir soutenue."
 
 # game/v14/scene21.rpy:272
 translate francais v14s21_d06ac492:
@@ -262,7 +262,7 @@ translate francais v14s21_d06ac492:
 translate francais v14s21_d548c5ce:
 
     # u "I don't do it just because I expect something from you in the end."
-    u "Je ne le fais pas parce que je compte obtenir quelque chose de toi à la fin."
+    u "Je le fais pas parce que je compte obtenir quelque chose en retour."
 
 # game/v14/scene21.rpy:290
 translate francais v14s21_f4b07541:

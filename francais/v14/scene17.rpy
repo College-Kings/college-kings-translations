@@ -10,13 +10,13 @@ translate francais v14s17_d69284f6:
 translate francais v14s17_90e80859:
 
     # ro "Hey [name], I'm sensing that you're a bit confused about the look of the classroom."
-    ro "Salut [name], je devine que tu es un peu confus à propos de l'apparence de la salle de classe."
+    ro "Bonjour [name], je devine que tu es un peu confus à propos de l'apparence de la salle de classe."
 
 # game/v14/scene17.rpy:32
 translate francais v14s17_be833132:
 
     # u "Haha, yeah a bit. I don't think we've ever worked in groups before."
-    u "Haha, ouais, un peu. Je ne crois pas qu'on ait déjà travaillé en groupe."
+    u "Haha, ouais, un peu. Je crois pas qu'on ait déjà travaillé en groupe."
 
 # game/v14/scene17.rpy:37
 translate francais v14s17_c392a6ba:
@@ -136,7 +136,7 @@ translate francais v14s17_f26f7d32:
 translate francais v14s17_6b7ca83c:
 
     # u "So, I was right then? Nothing else to do with your life? *Laughs*"
-    u "Alors, j'avais raison ? Tu n'as rien d'autre à faire de ta vie ? *Rire*"
+    u "Alors, j'avais raison ? T'as rien d'autre à faire de ta vie ? *Rire*"
 
 # game/v14/scene17.rpy:166
 translate francais v14s17_65a1da8b:
@@ -148,7 +148,7 @@ translate francais v14s17_65a1da8b:
 translate francais v14s17_09b4e0a0:
 
     # u "Really? I think you're laughing..."
-    u "Vraiment ? Je vois que tu rigoles pourtant..."
+    u "Vraiment ? Pourtant, je vois que tu rigoles..."
 
 # game/v14/scene17.rpy:176
 translate francais v14s17_53d5dd60:
@@ -160,7 +160,7 @@ translate francais v14s17_53d5dd60:
 translate francais v14s17_c982cb47:
 
     # u "Responsible would be an understatement. I've never seen you focus on anything other than your future..."
-    u "Responsable serait un euphémisme. Je ne t'ai jamais vu te concentrer sur autre chose que ton avenir..."
+    u "Responsable serait un euphémisme. Je t'ai jamais vu te concentrer sur autre chose que ton avenir..."
 
 # game/v14/scene17.rpy:188
 translate francais v14s17_cfcc489a:
@@ -172,7 +172,7 @@ translate francais v14s17_cfcc489a:
 translate francais v14s17_9f2c5148:
 
     # u "Ha... Just stating facts."
-    u "Ha... Je ne fais que constater les faits."
+    u "Ha... Je fais que constater les faits."
 
 # game/v14/scene17.rpy:195
 translate francais v14s17_062327f3:
@@ -250,7 +250,7 @@ translate francais v14s17_ffcc890a:
 translate francais v14s17_2c523d86:
 
     # la "I've moved on from it regardless though... So..."
-    la "Mais j'ai malgré tout tourné la page... Alors..."
+    la "Mais... J'ai malgré tout tourné la page... Alors..."
 
 # game/v14/scene17.rpy:258
 translate francais v14s17_e3368b84:
@@ -310,7 +310,7 @@ translate francais v14s17_ffbb1dfc:
 translate francais v14s17_143ecab5:
 
     # u "*Scoffs* Easy for you to say! You were basically partnered with me to teach me... You already know all of this stuff."
-    u "*Rire moqueur* Facile à dire pour toi ! En gros, tu as fait équipe avec moi pour pouvoir m'apprendre... Toi, tu les maîtrises déjà parfaitement."
+    u "*Rire moqueur* Facile à dire pour toi ! En gros, t'as fait équipe avec moi pour pouvoir m'enseigner tout ça... Toi, tu les maîtrises déjà parfaitement."
 
 # game/v14/scene17.rpy:317
 translate francais v14s17_2ba2a3e0:
@@ -556,7 +556,7 @@ translate francais v14s17_1041aad9:
 translate francais v14s17_58e4d0b5:
 
     # u "You really don't wanna get involved in any aspect of this mess."
-    u "Tu ne devrais vraiment pas prendre part au moindre événement de cette embrouille."
+    u "Tu devrais vraiment pas prendre part au moindre événement de cette embrouille."
 
 # game/v14/scene17.rpy:558
 translate francais v14s17_25683ac5:
@@ -652,7 +652,7 @@ translate francais v14s17_da50a693:
 translate francais v14s17_2109a200:
 
     # u "*Whispers* Truth is, I don't want her to win."
-    u "*Chuchote* Pour être honnête, je ne veux pas qu'elle gagne."
+    u "*Chuchote* Pour être honnête, je veux pas qu'elle gagne."
 
 # game/v14/scene17.rpy:637
 translate francais v14s17_e301f69e:
@@ -670,7 +670,7 @@ translate francais v14s17_73046854:
 translate francais v14s17_4d371e5b:
 
     # u "*Whispers* Only you can! You have a perfect opportunity."
-    u "*Chuchote* Tu es la seule à pouvoir le faire ! Tu as une occasion parfaite."
+    u "*Chuchote* T'es la seule à pouvoir le faire ! T'as une occasion parfaite."
 
 # game/v14/scene17.rpy:652
 translate francais v14s17_92279049:
@@ -694,7 +694,7 @@ translate francais v14s17_645450c4:
 translate francais v14s17_4a29be69:
 
     # u "You're the most loyal person I know, Lauren. That's why I'm asking you, the one person I trust with anything and everything."
-    u "Tu es la personne la plus loyale que je connaisse, Lauren. C'est pourquoi je te le demande, à toi, la seule personne en qui j'ai confiance pour tout et n'importe quoi."
+    u "T'es la personne la plus loyale que je connaisse, Lauren. C'est pourquoi je te le demande, à toi, la seule personne en qui j'ai confiance pour tout et n'importe quoi."
 
 # game/v14/scene17.rpy:679
 translate francais v14s17_6a8ae0f5:
@@ -790,7 +790,7 @@ translate francais v14s17_2382c9c1:
 translate francais v14s17_2934962b:
 
     # u "(I'm not getting involved in that...)"
-    u "(Je ne vais pas me mêler à tout ça...)"
+    u "(Je vais pas me mêler à tout ça...)"
 
 # game/v14/scene17.rpy:790
 translate francais v14s17_end_5baf30fb:
@@ -802,7 +802,7 @@ translate francais v14s17_end_5baf30fb:
 translate francais v14s17_end_1d030602:
 
     # u "Yeah, I will. You too."
-    u "Ouais, ne t'inquiète pas. Toi aussi !"
+    u "Ouais, t'inquiète pas. Toi aussi !"
 
 # game/v14/scene17.rpy:800
 translate francais v14s17_end_f99f8f2b:

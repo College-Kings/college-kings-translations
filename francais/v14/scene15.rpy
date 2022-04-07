@@ -4,19 +4,19 @@
 translate francais v14s15_3908a47d:
 
     # u "(Holy... shit... This is serious!)"
-    u "(Putain... de merde... C'est sérieux !)"
+    u "(Putain... de merde... C'est du sérieux, tout ça !)"
 
 # game/v14/scene15.rpy:42
 translate francais v14s15_25b6368a:
 
     # u "(I can see why Chloe was freaking out now... I don't see a single Chloe poster... She must feel like she can't compete or has already lost.)"
-    u "(Je comprends maintenant pourquoi Chloé paniquait... Je ne vois pas une seule affiche d'elle... Elle doit avoir l'impression qu'elle ne peut pas rivaliser ou qu'elle a déjà perdu.)"
+    u "(Je comprends maintenant pourquoi Chloé paniquait... Je vois pas une seule affiche d'elle... Elle doit avoir l'impression de pas pouvoir rivaliser ou d'avoir déjà perdu.)"
 
 # game/v14/scene15.rpy:47
 translate francais v14s15_9299001e:
 
     # imre "WOLVES SAY, CHLOE FOR PRESIDENT!"
-    imre "LES WOLVES DISENT, CHLOÉ POUR PRÉSIDENTE !"
+    imre "LES WOLVES DISENT : CHLOÉ POUR PRÉSIDENTE !"
 
 # game/v14/scene15.rpy:52
 translate francais v14s15_83d9d072:
@@ -34,7 +34,7 @@ translate francais v14s15_c81bb937:
 translate francais v14s15_845062c8:
 
     # imre "WOLVES SAY, VOTE FOR CHLOE!"
-    imre "LES WOLVES DISENT, VOTEZ POUR CHLOÉ !"
+    imre "LES WOLVES DISENT : VOTEZ POUR CHLOÉ !"
 
 # game/v14/scene15.rpy:72
 translate francais v14s15_2de77226:
@@ -64,7 +64,7 @@ translate francais v14s15_62088ee9:
 translate francais v14s15_423c67d8:
 
     # u "I didn't know you and Chloe were that close."
-    u "Je ne savais pas que toi et Chloé étiez si proches."
+    u "Je savais pas que toi et Chloé étiez si proches."
 
 # game/v14/scene15.rpy:97
 translate francais v14s15_31fd76f1:
@@ -76,7 +76,7 @@ translate francais v14s15_31fd76f1:
 translate francais v14s15_635d9a37:
 
     # u "Wait, that's how you're deciding? *Chuckles*"
-    u "Attends, c'est comme ça que tu décides ? *Rire*."
+    u "Attends, c'est comme ça que tu prends tes décisions ? *Rire*."
 
 # game/v14/scene15.rpy:107
 translate francais v14s15_6641ae50:
@@ -88,7 +88,7 @@ translate francais v14s15_6641ae50:
 translate francais v14s15_0ea83b13:
 
     # u "Not gonna lie, that seems like a genius way to decide things, haha."
-    u "Je ne vais pas mentir, ça a l'air d'être une façon géniale de décider des choses, haha."
+    u "Je vais pas mentir, ça a l'air d'être une façon géniale de décider des choses, haha."
 
 # game/v14/scene15.rpy:120
 translate francais v14s15_c9eee82c:
@@ -100,7 +100,7 @@ translate francais v14s15_c9eee82c:
 translate francais v14s15_2be8c854:
 
     # u "Not gonna lie, that is a ridiculously stupid way to make decisions, haha."
-    u "Je ne vais pas mentir, mais c'est une façon ridicule et stupide de prendre des décisions, haha."
+    u "Je vais pas mentir, mais c'est une façon ridicule et stupide de prendre des décisions, haha."
 
 # game/v14/scene15.rpy:133
 translate francais v14s15_9d9e7dcd:
@@ -124,7 +124,7 @@ translate francais v14s15_4a8da7c6:
 translate francais v14s15_6aae02c8:
 
     # imre "There's no doubt in my mind that this is what Chris would want me to be doing... So, if you'll excuse me, I'll be getting back to impressing the pretty woma-"
-    imre "Y a aucun doute dans mon esprit que c'est c'que Chris voudrait qu'je fasse... Alors, si tu veux bien m'excuser, j'vais retourner impressionner la jolie fem-"
+    imre "Y a aucun doute dans mon esprit que c'est c'que Chris voudrait qu'je fasse... Alors, si tu veux bien m'excuser, j'vais retourner impressionner les jolies fem-"
 
 # game/v14/scene15.rpy:150
 translate francais v14s15_fa92c5c4:

@@ -10,7 +10,7 @@ translate francais v14s19_e88d276d:
 translate francais v14s19_177d77b3:
 
     # u "(Gotta be in here.)"
-    u "(Il faut être là.)"
+    u "(On doit se retrouver ici.)"
 
 # game/v14/scene19.rpy:32
 translate francais v14s19_f982e08e:
@@ -40,7 +40,7 @@ translate francais v14s19_bee0b75c:
 translate francais v14s19_2bd5fede:
 
     # u "I can understand that... I guess I'll let you off the hook for being in such a haste."
-    u "Je comprends ça... Je crois que je vais te laisser tranquille, tu as l'air vraiment pressée."
+    u "Je comprends ça... Je crois que je vais te laisser tranquille, t'as l'air vraiment pressée."
 
 # game/v14/scene19.rpy:68
 translate francais v14s19_2e62b657:
@@ -76,7 +76,7 @@ translate francais v14s19_8e95fb42:
 translate francais v14s19_continue_3076e58f:
 
     # u "From the options we have, these are the final decisions I'd go with."
-    u "Parmi les options que nous avons, voici les décisions finales que je prendrais."
+    u "Parmi les options qu'on a, voici les décisions finales que je prendrais."
 
 # game/v14/scene19.rpy:132
 translate francais v14s19_continue_8671c131:
