@@ -64,7 +64,7 @@ translate francais v14s52_c763821e:
 translate francais v14s52_f801d5f3:
 
     # ch "But we've decided to break up. Officially, for good. I thought you should all know."
-    ch "Mais nous avons décidé de nous séparer. Officiellement et pour de bon. Je me suis dit que vous deviez le savoir, tous."
+    ch "Mais on a décidé de se séparer. Officiellement et pour de bon. Je me suis dit que vous deviez le savoir, tous."
 
 # game/v14/scene52.rpy:98
 translate francais v14s52_2f55f775:
@@ -136,7 +136,7 @@ translate francais v14s52_f1aec3e5:
 translate francais v14s52_98f707e6:
 
     # u "(He seems more frustrated or angry than he is sad... I wonder how Nora's doing.)"
-    u "(Il semble plus frustré ou en colère qu'il n'est triste... Je me demande comment va Nora.)"
+    u "(Il semble plus frustré ou en colère qu'il est triste... Je me demande comment va Nora.)"
 
 # game/v14/scene52.rpy:158
 translate francais v14s52_09e15d22:
@@ -202,7 +202,7 @@ translate francais v14s52_aa142e6d:
 translate francais v14s52_98bdafbf:
 
     # u "(Something just doesn't feel right about this...)"
-    u "(Quelque chose ne va pas dans cette histoire...)"
+    u "(Quelque chose va pas dans cette histoire...)"
 
 # game/v14/scene52.rpy:218
 translate francais v14s52_e622b0a1:
@@ -214,13 +214,13 @@ translate francais v14s52_e622b0a1:
 translate francais v14s52_0990e72b:
 
     # u "(I can try to ask him, but I don't want to seem suspicious.)"
-    u "(Je peux essayer de lui demander, mais je ne veux pas paraître suspect.)"
+    u "(Je peux essayer de lui demander, mais je veux pas paraître suspect.)"
 
 # game/v14/scene52.rpy:239
 translate francais v14s52_d7b6f538:
 
     # u "(Let's see what he says when I ask him...)"
-    u "( On verra ce qu'il dira quand je lui demanderai...)"
+    u "(On verra ce qu'il dira quand je lui demanderai...)"
 
 # game/v14/scene52.rpy:244
 translate francais v14s52_1fe9b6eb:
@@ -244,7 +244,7 @@ translate francais v14s52_2fefb277:
 translate francais v14s52_363162e7:
 
     # ch "Yeah, I know. That means a lot, [name]. Thanks man."
-    ch "Ouais, je sais. Ça signifie beaucoup, [name]. Merci mec."
+    ch "Ouais, je sais. Ça signifie beaucoup pour moi, [name]. Merci mec."
 
 # game/v14/scene52.rpy:264
 translate francais v14s52_2be5d203:
@@ -274,7 +274,7 @@ translate francais v14s52_703aa4d4:
 translate francais v14s52_be3ffad9:
 
     # u "(He's not happy with that question...)"
-    u "(Il n'est pas très content de la question...)"
+    u "(Il est pas très content de la question...)"
 
 # game/v14/scene52.rpy:289
 translate francais v14s52_fb1a38af:
@@ -334,7 +334,7 @@ translate francais v14s52_a9b68915:
 translate francais v14s52_41ff7e76:
 
     # u "(I hate to even think about it but... Chris is capable of being violent towards Nora. I witnessed that in Europe.)"
-    u "(Je ne supporte pas de penser à ça, mais... Chris peut être violent envers Nora. J'en ai été témoin en Europe.)"
+    u "(Je supporte pas de penser à ça, mais... Chris peut être violent envers Nora. J'en ai été témoin en Europe.)"
 
 # game/v14/scene52.rpy:362
 translate francais v14s52_b1f82d3f:
@@ -346,7 +346,7 @@ translate francais v14s52_b1f82d3f:
 translate francais v14s52_7b307ece:
 
     # u "(Fuck... I hope I'm just overthinking this.)"
-    u "(Putain... J'espère que je ne suis qu'en train de trop y penser.)"
+    u "(Putain... J'espère que je suis qu'en train de trop y penser.)"
 
 # game/v14/scene52.rpy:372
 translate francais v14s52_e5d71c15:
@@ -430,4 +430,4 @@ translate francais strings:
 
     # game/v14/scene52.rpy:385
     old "Hey, you. I'm starting to worry that I haven't seen you around. At least let me know that he didn't hurt you... Please text me back, ASAP"
-    new "Salut, toi. Je commence à m'inquiéter de ne pas t'avoir vu dans le coin. Fais-moi au moins savoir qu'il ne t'a pas fait de mal... S'il te plaît, réponds-moi par texto, dès que possible"
+    new "Salut, toi. Je commence à m'inquiéter de pas t'avoir vu dans le coin. Fais-moi au moins savoir qu'il t'a pas fait de mal... S'il te plaît, réponds-moi par texto, dès que possible"

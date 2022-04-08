@@ -4,7 +4,7 @@
 translate francais v14s42a_f27e23f5:
 
     # u "*Yawns* Morning sunshine. Did you sleep well?"
-    u "*Bailles* Bonjour mon rayon de soleil. Tu as bien dormi ?"
+    u "*Bailles* Bonjour mon rayon de soleil. T'as bien dormi ?"
 
 # game/v14/scene42a.rpy:22
 translate francais v14s42a_4930cb3f:
@@ -82,7 +82,7 @@ translate francais v14s42a_4834f519:
 translate francais v14s42a_4a50289e:
 
     # u "There's nothing to apologize for, I wouldn't change a thing about last night."
-    u "Il n'y a aucune raison de s'excuser, je ne veux rien changer de la soirée d'hier."
+    u "Il n'y a aucune raison de s'excuser, je veux rien changer de la soirée d'hier."
 
 # game/v14/scene42a.rpy:92
 translate francais v14s42a_0dba75a5:
@@ -118,7 +118,7 @@ translate francais v14s42a_d9713ef8:
 translate francais v14s42a_13cdbda0:
 
     # u "Well, yeah, I can't lie. When you came out looking like that... *Chuckles* I kinda thought something was gonna end up happening."
-    u "Well, yeah, I can't lie. When you came out looking like that... *Chuckles* I kinda thought something was gonna end up happening."
+    u "Eh bien, oui, sans mentir. Quand t'es sortie habillée comme ça... *Rire* J'ai un peu pensé que quelque chose allait se passer."
 
 # game/v14/scene42a.rpy:124
 translate francais v14s42a_96bcd495:
@@ -142,7 +142,7 @@ translate francais v14s42a_5acd95b4:
 translate francais v14s42a_96ed29e7:
 
     # u "So... Are you ready to leave for class?"
-    u "Alors... Tu es prête à aller en cours ?"
+    u "Alors... T'es prête à aller en cours ?"
 
 # game/v14/scene42a.rpy:144
 translate francais v14s42a_74117502:
@@ -166,7 +166,7 @@ translate francais v14s42a_56b80308:
 translate francais v14s42a_c717069d:
 
     # u "Haha, nah. We have enough time to get ready and walk there."
-    u "Haha, nan. On a assez de temps pour se préparer et y aller tranquillement."
+    u "Haha, nan. On a encore le temps de se préparer et d'y aller tranquillement."
 
 # game/v14/scene42a.rpy:164
 translate francais v14s42a_a0c76f2a:
@@ -178,7 +178,7 @@ translate francais v14s42a_a0c76f2a:
 translate francais v14s42a_a646e551:
 
     # u "C'mon, slow poke!"
-    u "Allez, va encore moins vite !"
+    u "Allez, va moins vite, s'il te plait !"
 
 # game/v14/scene42a.rpy:184
 translate francais v14s42a_d879e7c9:
@@ -190,7 +190,7 @@ translate francais v14s42a_d879e7c9:
 translate francais v14s42a_631575f7:
 
     # u "Hey! What's that supposed to mean? *Chuckles*"
-    u "Hé ! Qu'est-ce que ça veut dire ? *Rire*."
+    u "Hé ! Qu'est-ce que ça veut dire ? *Rire*"
 
 # game/v14/scene42a.rpy:194
 translate francais v14s42a_19605ac4:

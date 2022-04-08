@@ -22,7 +22,7 @@ translate francais v14s53a_6cb55f0c:
 translate francais v14s53a_1aa25fd8:
 
     # sa "*Muffled* You like that, baby?"
-    sa "*Étouffé* Tu aimes ça, bébé ?"
+    sa "*Étouffé* T'aimes ça, bébé ?"
 
 # game/v14/scene53a.rpy:66
 translate francais v14s53a_a9117092:
@@ -70,7 +70,7 @@ translate francais v14s53a_f91cc77c:
 translate francais v14s53a_7fa5a5ff:
 
     # u "*Panting* (She really does like to have a good time.) *Moans* Fuck, Sam. You're so-"
-    u "*Halète* (Elle aime vraiment s'amuser.) *Gémis* Putain, Sam. Tu es si..."
+    u "*Halète* (Elle aime vraiment s'amuser.) *Gémis* Putain, Sam. T'es si..."
 
 # game/v14/scene53a.rpy:136
 translate francais v14s53a_df4af59f:
@@ -112,7 +112,7 @@ translate francais v14s53a_ceb3f9d6:
 translate francais v14s53a_9f617351:
 
     # u "(She said she didn't take any of those pills, right?)"
-    u "(Elle a dit qu'elle n'avait pas pris de ces pilules, n'est-ce pas ?)"
+    u "(Elle a dit qu'elle avait pas pris de ces pilules, c'est ça ?)"
 
 # game/v14/scene53a.rpy:188
 translate francais v14s53a_4352216e:
@@ -172,7 +172,7 @@ translate francais v14s53a_44d3ea28:
 translate francais v14s53a_eb2d35b6:
 
     # u "(Oh, shit... I actually came inside of her?! I hope I don't live to regret that.)"
-    u "(Oh, merde... J'ai vraiment joui à l'intérieur d'elle ?! J'espère que je vais finir par le regretter.)"
+    u "(Oh, merde... J'ai vraiment joui à l'intérieur d'elle ?! J'espère que je vais pas le regretter.)"
 
 # game/v14/scene53a.rpy:254
 translate francais v14s53a_84af9e84:
@@ -190,7 +190,7 @@ translate francais v14s53a_a317d659:
 translate francais v14s53a_nsfwSkipLabel1_122e9aef:
 
     # u "You okay? *Chuckles*"
-    u "Tu vas bien ? *Rire*."
+    u "Tu vas bien ? *Rire*"
 
 # game/v14/scene53a.rpy:281
 translate francais v14s53a_nsfwSkipLabel1_01db0147:
@@ -226,13 +226,13 @@ translate francais v14s53a_nsfwSkipLabel1_ad377f97:
 translate francais v14s53a_nsfwSkipLabel1_fc76400f:
 
     # u "(Holy fuck... I don't even know how to reply to that.)"
-    u "(Putain de merde... je ne sais même pas quoi répondre à ça.)"
+    u "(Putain de merde... je sais même pas quoi répondre à ça.)"
 
 # game/v14/scene53a.rpy:311
 translate francais v14s53a_nsfwSkipLabel1_4d3ae924:
 
     # sa "*Soft snoring*"
-    sa "*Ronflement doux*."
+    sa "*Ronflement doux*"
 
 # game/v14/scene53a.rpy:313
 translate francais v14s53a_nsfwSkipLabel1_c99c30f7:

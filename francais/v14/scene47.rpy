@@ -82,7 +82,7 @@ translate francais v14s47_2d4f55cf:
 translate francais v14s47_9d90f321:
 
     # u "Oh, I will. You look great."
-    u "Oh, sans problème. Tu es superbe."
+    u "Oh, sans problème. T'es superbe."
 
 # game/v14/scene47.rpy:124
 translate francais v14s47_18eb82c2:
@@ -118,7 +118,7 @@ translate francais v14s47_d5b03de5:
 translate francais v14s47_cd38cc50:
 
     # u "Not yet. I mean... You look great."
-    u "Pas encore. Enfin... Tu es superbe."
+    u "Pas encore. Enfin... T'es superbe."
 
 # game/v14/scene47.rpy:156
 translate francais v14s47_5d454dc2:
@@ -142,7 +142,7 @@ translate francais v14s47_9cf9d5cf_1:
 translate francais v14s47_9f7f680b:
 
     # u "You look nice by the way. Going out tonight?"
-    u "Au fait, tu es magnifique. Tu sors ce soir ?"
+    u "Au fait, t'es magnifique. Tu sors ce soir ?"
 
 # game/v14/scene47.rpy:177
 translate francais v14s47_60ee0bc3:
@@ -166,7 +166,7 @@ translate francais v14s47_96d7021f:
 translate francais v14s47_7ffb8960:
 
     # u "*Laughs* As ready as I'll ever be. Is this it?"
-    u "*Rire* Plus prêt que je ne l'ai jamais été. Ça te va ?"
+    u "*Rire* Plus prêt que je l'ai jamais été. Ça te va ?"
 
 # game/v14/scene47.rpy:197
 translate francais v14s47_9bbfb026:
@@ -274,7 +274,7 @@ translate francais v14s47_466c1834:
 translate francais v14s47_eb8b9a2e:
 
     # u "There are a lot of pervs out there... I'm curious to see which one ends up buying this piece of junk. *Chuckles*"
-    u "There are a lot of pervs out there... I'm curious to see which one ends up buying this piece of junk. *Chuckles*"
+    u "Il y a beaucoup de pervers là-bas... Je suis curieux de voir lequel d'entre eux finira par acheter ce tas de ferraille. *Rire*"
 
 # game/v14/scene47.rpy:297
 translate francais v14s47_5fa62de8:
@@ -292,7 +292,7 @@ translate francais v14s47_24a369e9:
 translate francais v14s47_6f4164c6:
 
     # li "*Laughs* Okay... Whatever they do with it, whyever they choose to buy; if they give us their money, I'm happy."
-    li "*Rire* Ok... Peu importe ce qu'ils en font, peu importe ce qu'ils achètent ; s'ils nous donnent leur argent, je suis heureuse."
+    li "*Rire* Ok... Peu importe ce qu'ils en font, peu importe ce qu'ils achètent; s'ils nous donnent leur argent, je suis heureuse."
 
 # game/v14/scene47.rpy:312
 translate francais v14s47_c3ea09e8:
@@ -316,7 +316,7 @@ translate francais v14s47_47b094df:
 translate francais v14s47_cc756c6d:
 
     # u "Well, I'm glad we decided on you not being in the photos, ha."
-    u "Je suis bien content qu'on ait décidé que tu ne serais pas sur les photos."
+    u "Je suis bien content qu'on ait décidé que tu serais pas sur les photos."
 
 # game/v14/scene47.rpy:333
 translate francais v14s47_56c08676:
@@ -352,7 +352,7 @@ translate francais v14s47_f32a41f8:
 translate francais v14s47_hood_9be83f48:
 
     # u "(Damn girl...)"
-    u "(Putain de fille...)"
+    u "(Putain de canon...)"
 
 # game/v14/scene47.rpy:369
 translate francais v14s47_hood_6700b587:
@@ -400,7 +400,7 @@ translate francais v14s47_hood_8569c4fa:
 translate francais v14s47_hood_fca97862:
 
     # li "*Sighs* Hilarious."
-    li "*Soupirs* C'était vraiment désopilant."
+    li "*Soupirs* C'était tellement marrant."
 
 # game/v14/scene47.rpy:423
 translate francais v14s47_hood_ccd53b23:
@@ -592,7 +592,7 @@ translate francais v14s47_driver_a18f046f:
 translate francais v14s47_driver_82a7580a:
 
     # u "Sounds like you've got a story to tell...?"
-    u "Tu as l'air d'avoir une histoire à me raconter...?"
+    u "T'as l'air d'avoir une histoire à me raconter...?"
 
 # game/v14/scene47.rpy:644
 translate francais v14s47_driver_71a1d08a:
@@ -604,7 +604,7 @@ translate francais v14s47_driver_71a1d08a:
 translate francais v14s47_driver_e7015a05:
 
     # u "But-"
-    u "Bais-"
+    u "Mais-"
 
 # game/v14/scene47.rpy:654
 translate francais v14s47_driver_a9702d4b:
@@ -658,7 +658,7 @@ translate francais v14s47_passenger_09955dab:
 translate francais v14s47_passenger_195886a4:
 
     # u "Just... Stand there and look pretty or something. *Laughs*"
-    u "Contente-toi de... rester là et d'être belle ou un truc du genre. *Rire"
+    u "Contente-toi de... rester là et d'être belle ou un truc du genre. *Rire*"
 
 # game/v14/scene47.rpy:736
 translate francais v14s47_passenger_79ef90aa:
@@ -670,7 +670,7 @@ translate francais v14s47_passenger_79ef90aa:
 translate francais v14s47_passenger_b3eb580c:
 
     # u "Haha, sorry. You look great no matter what, so it doesn't technically matter."
-    u "Haha, désolé. Tu es superbe quoi qu'il arrive, donc techniquement, ça n'a pas d'importance."
+    u "Haha, désolé. T'es superbe quoi qu'il arrive, donc techniquement, ça n'a pas d'importance."
 
 # game/v14/scene47.rpy:746
 translate francais v14s47_passenger_8db34454:
@@ -712,7 +712,7 @@ translate francais v14s47_passenger_f968f6bc:
 translate francais v14s47_passenger_60d94f6a:
 
     # u "Nah. Scare it away before it poops!"
-    u "Nah. Dégage le avant qu'il ne chie dessus !"
+    u "Nah. Dégage le avant qu'il chie dessus !"
 
 # game/v14/scene47.rpy:800
 translate francais v14s47_passenger_83a1a381:
@@ -796,7 +796,7 @@ translate francais v14s47_end_dd05bccb:
 translate francais v14s47_end_8f087a0d:
 
     # u "We can let them think that all the way up until their money hits your bank account. Then we'll just ghost 'em. *Laughs*"
-    u "Nous pouvons les laisser penser ça jusqu'à ce que leur argent arrive sur ton compte en banque. Ensuite, on les ghostera. *Rire*"
+    u "On peut les laisser penser ce qu'ils veulent jusqu'à ce que leur argent arrive sur ton compte en banque. Ensuite, on les ghostera. *Rire*"
 
 # game/v14/scene47.rpy:900
 translate francais v14s47_end_13b4cbef:
@@ -808,7 +808,7 @@ translate francais v14s47_end_13b4cbef:
 translate francais v14s47_end_b0824421:
 
     # u "Aw, come on. Don't act like that isn't our plan..."
-    u "Ah, allez. Ne fais pas comme si ce n'était pas ce qu'on avait prévu..."
+    u "Ah, allez. Fais pas comme si ce n'était pas ce qu'on avait prévu..."
 
 # game/v14/scene47.rpy:910
 translate francais v14s47_end_b21ea4dc:
@@ -868,7 +868,7 @@ translate francais v14s47_end_97e2bd12:
 translate francais v14s47_end_cf24e427:
 
     # u "Are you reading my mind?"
-    u "Tu as lu dans mes pensées ?"
+    u "T'as lu dans mes pensées ?"
 
 # game/v14/scene47.rpy:961
 translate francais v14s47_end_0ae739be:

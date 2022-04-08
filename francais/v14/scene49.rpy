@@ -4,7 +4,7 @@
 translate francais v14s49_b52502ba:
 
     # u "(What do we have here?)"
-    u "(Qu'avons-nous là ?)"
+    u "(Qu'est-ce qu'on a là ?)"
 
 # game/v14/scene49.rpy:35
 translate francais v14s49Lindsey_PhoneContinue_f9e9813d:
@@ -34,7 +34,7 @@ translate francais v14s49Lindsey_PhoneContinue_93b710e4:
 translate francais v14s49Lindsey_PhoneContinue_62794ff8:
 
     # li "I'll stay on the phone while you do it so we can make sure she actually takes the bait."
-    li "Je resterai au téléphone pendant que tu le feras pour qu'on puisse être sûrs qu'elle mord à l'hameçon."
+    li "Je resterai au téléphone pendant que tu le feras pour qu'on puisse être sûrs qu'elle morde à l'hameçon."
 
 # game/v14/scene49.rpy:63
 translate francais v14s49Lindsey_PhoneContinue_b8019a20:
@@ -52,7 +52,7 @@ translate francais v14s49Chloe_PhoneContinue_e4edb176:
 translate francais v14s49Chloe_PhoneContinue_ceb12c3b:
 
     # u "Okay, seems to me like she took the bait."
-    u "Ok, on dirait qu'elle a mordu à l'hameçon."
+    u "Ok, on dirait qu'elle a bien mordu à l'hameçon."
 
 # game/v14/scene49.rpy:96
 translate francais v14s49Chloe_PhoneContinue_3b0207b3:

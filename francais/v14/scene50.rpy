@@ -136,7 +136,7 @@ translate francais v14s50_d9ec0feb:
 translate francais v14s50_a07566dc:
 
     # au "*Whispers* Lindsey! Are you...? You're not-"
-    au "*Chuchote* Lindsey ! Tu es...? Tu n'es pas-"
+    au "*Chuchote* Lindsey ! T'es...? T'es pas-"
 
 # game/v14/scene50.rpy:133
 translate francais v14s50_ee8ebad6:
@@ -214,7 +214,7 @@ translate francais v14s50_070162f2:
 translate francais v14s50_64357566:
 
     # au "Haha, you have nothing to be embarrassed about. You actually came to the perfect person"
-    au "Haha, tu n'as pas à être gênée. En fait, tu es venue vers la meilleure personne pour en parler ! "
+    au "Haha, t'as pas à être gênée. En fait, t'es venue vers la meilleure personne pour en parler ! "
 
 # game/v14/scene50.rpy:205
 translate francais v14s50_20a3e801:
@@ -244,7 +244,7 @@ translate francais v14s50_d715b66b:
 translate francais v14s50_fa5a736b:
 
     # au "It's great with the right person if they're someone you trust."
-    au "C'est génial avec la bonne personne si c'est quelqu'un en qui tu as confiance."
+    au "C'est génial avec la bonne personne si c'est quelqu'un en qui t'as confiance."
 
 # game/v14/scene50.rpy:233
 translate francais v14s50_7562a745:
@@ -334,7 +334,7 @@ translate francais v14s50_7a18ff18:
 translate francais v14s50_358dace8:
 
     # au "Like I said, just make sure you're with someone you trust, and make sure you use lots of lube as well. *Chuckles*"
-    au "Comme je l'ai dit, assure-toi simplement d'être avec quelqu'un en qui tu as confiance, et veille également à utiliser beaucoup de lubrifiant. *Rire*"
+    au "Comme je l'ai dit, assure-toi simplement d'être avec quelqu'un en qui t'as confiance, et veille également à utiliser beaucoup de lubrifiant. *Rire*"
 
 # game/v14/scene50.rpy:293
 translate francais v14s50_34a44c7d:
@@ -358,7 +358,7 @@ translate francais v14s50_8eae14e6:
 translate francais v14s50_9cda5f0b:
 
     # u "(Why am I listening to this?)"
-    u "(Pourquoi j'écoute ça ?)"
+    u "(Pourquoi je continue à écouter ça ?)"
 
 # game/v14/scene50.rpy:320
 translate francais v14s50_55c8c4aa:
@@ -382,7 +382,7 @@ translate francais v14s50_ed7f44e4:
 translate francais v14s50_62d6d551:
 
     # li "Right!"
-    li "En effet !"
+    li "Ouais !"
 
 # game/v14/scene50.rpy:334
 translate francais v14s50_063d30aa:
@@ -412,7 +412,7 @@ translate francais v14s50_aaa1822e:
 translate francais v14s50_084908f9:
 
     # au "But in the end, it just feels good to get fucked in the ass sometimes. *Laughs*"
-    au "Mais au final, parfois, ça fait tellement de bien de se faire baiser dans le cul. *Rire*"
+    au "Mais au final, parfois, ça fait tellement de bien de se faire baiser dans l'cul. *Rire*"
 
 # game/v14/scene50.rpy:350
 translate francais v14s50_b610f02a:
@@ -424,7 +424,7 @@ translate francais v14s50_b610f02a:
 translate francais v14s50_80dd47e6:
 
     # au "Hey, you asked! There's pressure, pleasure, pain..."
-    au "Hé, tu as demandé ! Il y a la pression, le plaisir, la douleur..."
+    au "Hé, t'as demandé ! Il y a la pression, le plaisir, la douleur..."
 
 # game/v14/scene50.rpy:360
 translate francais v14s50_564a9d24:
@@ -436,7 +436,7 @@ translate francais v14s50_564a9d24:
 translate francais v14s50_bd50ebf2:
 
     # au "If you're truly considering it, maybe try some toys first. To see if you like it, you know."
-    au "Si tu y penses vraiment, essaie peut-être d'abord quelques jouets. Pour voir si tu aimes ça, tu vois ?"
+    au "Si t'y penses vraiment, essaie peut-être d'abord quelques jouets. Pour voir si tu aimes ça, tu vois ?"
 
 # game/v14/scene50.rpy:367
 translate francais v14s50_64f4a98e:
@@ -478,7 +478,7 @@ translate francais v14s50_c9c96b1b:
 translate francais v14s50_f469e2c6:
 
     # u "(As much as I'm enjoying this, I'm supposed to be rummaging through Chloe's room by now.)"
-    u "(Même si ça me plaît beaucoup, je suis censé être déjà en train de fouiller dans la chambre de Chloé.)"
+    u "(Même si ça me plaît beaucoup, je suis déjà censé être en train de fouiller dans la chambre de Chloé.)"
 
 # game/v14/scene50.rpy:407
 translate francais v14s50_78fbd54b:

@@ -4,13 +4,13 @@
 translate francais v14s42_3747acd5:
 
     # pe "I can't lie, I'm really excited."
-    pe ""
+    pe "Sans mentir, je suis vraiment excitée."
 
 # game/v14/scene42.rpy:18
 translate francais v14s42_0f897776:
 
     # u "*Chuckles* How come?"
-    u "*Rire* Comment ça se fait ?"
+    u "*Rire* Comment ça ?"
 
 # game/v14/scene42.rpy:23
 translate francais v14s42_6fed2986:
@@ -184,7 +184,7 @@ translate francais v14s42_beba7920:
 translate francais v14s42_20cb9df0:
 
     # u "Haha, sorry. Just marking off the list."
-    u "Haha, sorry. Just marking off the list."
+    u "Haha, désolé. Je fais juste des croix sur ma liste."
 
 # game/v14/scene42.rpy:205
 translate francais v14s42_ef515c77:
@@ -262,7 +262,7 @@ translate francais v14s42_f24b1567:
 translate francais v14s42_acca2cc4:
 
     # u "Ha... Wow, I'm happy for you, I think? *Laughs* You've never touched yourself before?"
-    u "Ha... Wow, j'imagine que je suis ravi pour toi ? *Rire* Tu ne t'es jamais touchée avant ?"
+    u "Ha... Wow, j'imagine que je suis ravi pour toi ? *Rire* Tu t'es jamais touchée avant ?"
 
 # game/v14/scene42.rpy:293
 translate francais v14s42_ecb14095:
@@ -328,7 +328,7 @@ translate francais v14s42_ce267632:
 translate francais v14s42_ad7ee4cb:
 
     # u "So... did you watch porn while you touched yourself?"
-    u "Alors... tu as regardé du porno pendant que tu te touchais ?"
+    u "Alors... t'as regardé du porno pendant que tu te touchais ?"
 
 # game/v14/scene42.rpy:365
 translate francais v14s42_4cecdff9:

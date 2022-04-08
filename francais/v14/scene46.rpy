@@ -58,13 +58,13 @@ translate francais v14s46_833f2ee4:
 translate francais v14s46_6c320eef:
 
     # u "Yeah of course. *Chuckles* I'll be there soon."
-    u "Ouais, bien sûr. *Rire* Je suis bientôt là."
+    u "Ouais, bien sûr. *Rire* J'arrive."
 
 # game/v14/scene46.rpy:82
 translate francais v14s46_d7cad74a:
 
     # u "Oh shoot. I can't now, already set something up."
-    u "Oh merde. Maintenant, je peux pas, j'ai déjà prévu quelque chose."
+    u "Oh merde. Je peux pas, là. J'ai déjà prévu quelque chose."
 
 # game/v14/scene46.rpy:87
 translate francais v14s46_a12559d8:

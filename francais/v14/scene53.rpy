@@ -10,7 +10,7 @@ translate francais v14s53_701e8bf9:
 translate francais v14s53_92198626:
 
     # u "(Is that Sam singing? Where's it coming from?)"
-    u "( C'est Sam qui chante ? Ça vient d'où ?)"
+    u "(C'est Sam qui chante ? Ça vient d'où ?)"
 
 # game/v14/scene53.rpy:35
 translate francais v14s53_7af1e69a:
@@ -88,13 +88,13 @@ translate francais v14s53_28bf0223:
 translate francais v14s53_8d7a7560:
 
     # sa "Guess I forgot to laugh then..."
-    sa "Je dois avoir oublié de rire, alors..."
+    sa "J'dois avoir oublié de rire, alors..."
 
 # game/v14/scene53.rpy:108
 translate francais v14s53_45b4cb6b:
 
     # u "Yeah, you've got a nice voice. You should sing more often."
-    u "Ouais, tu as une belle voix. Tu devrais chanter plus souvent."
+    u "Ouais, t'as une belle voix. Tu devrais chanter plus souvent."
 
 # game/v14/scene53.rpy:118
 translate francais v14s53_fe5ca4b3:
@@ -106,7 +106,7 @@ translate francais v14s53_fe5ca4b3:
 translate francais v14s53_9e7612f2:
 
     # u "What are you doing down here on your own anyway?"
-    u "Au fait, qu'est-ce que tu fais ici toute seule ?"
+    u "Au fait, qu'est-ce que tu fais ici, toute seule ?"
 
 # game/v14/scene53.rpy:128
 translate francais v14s53_6432621f:
@@ -136,7 +136,7 @@ translate francais v14s53_13d7bcee:
 translate francais v14s53_ca66b066:
 
     # sa "My friend just said if I wanted a good time, this bag is full of them."
-    sa "Mon ami vient de dire que si j'avais envie de passer du bon tempst, ce sac en était rempli."
+    sa "Mon ami vient de dire que si j'avais envie de passer du bon temps, ce sac en était rempli."
 
 # game/v14/scene53.rpy:158
 translate francais v14s53_0c0ca133:
@@ -190,7 +190,7 @@ translate francais v14s53_e3f10a04:
 translate francais v14s53_940ecba6:
 
     # sa "Oh, don't be. You did the right thing; I just like to rebel. *Chuckles*"
-    sa "Oh, ne le sois pas. T'as fait ce qu'il fallait ; moi, je préfère juste être une rebelle. *Rire*."
+    sa "Oh, ne l'sois pas. T'as fait ce qu'il fallait; moi, je préfère juste être une rebelle. *Rire*."
 
 # game/v14/scene53.rpy:211
 translate francais v14s53_3c243f99:
@@ -208,7 +208,7 @@ translate francais v14s53_f33cb56d:
 translate francais v14s53_ff5fe615:
 
     # u "An overdose? I can't believe Cameron didn't tell me."
-    u "Une overdose ? J'arrive pas à croire que Cameron ne m'ait rien dit."
+    u "Une overdose ? J'arrive pas à croire que Cameron m'ait rien dit."
 
 # game/v14/scene53.rpy:226
 translate francais v14s53_bb742df1:
@@ -238,13 +238,13 @@ translate francais v14s53_fd1e3ee6:
 translate francais v14s53_9b61b18d:
 
     # sa "Cameron knows something is up, but I can't talk to him. One mention of wanting to pop a pill, and he'll throw me into the hospital."
-    sa "Cameron sait que quelque chose se passe, mais je ne peux pas lui parler. La moindre allusion à l'envie de prendre une pilule, et il me jette à l'hôpital."
+    sa "Cameron sait que quelque chose se passe, mais je peux pas lui parler. La moindre allusion à l'envie de prendre une pilule, et il me jette à l'hôpital."
 
 # game/v14/scene53.rpy:252
 translate francais v14s53_a6fc21e0:
 
     # u "You know you can talk to me."
-    u "Tu sais que tu peux me parler."
+    u "Tu sais qu'à moi, tu peux me parler."
 
 # game/v14/scene53.rpy:257
 translate francais v14s53_5097ce5f:
@@ -292,7 +292,7 @@ translate francais v14s53_ed52b5e2:
 translate francais v14s53_b609f90d:
 
     # sa "I take drugs because I can't deal with any of my emotional baggage without them."
-    sa "Je prends des drogues parce que je ne peux pas gérer toutes mes émotions sans elles."
+    sa "Je prends des drogues parce que je peux pas gérer toutes mes émotions sans elles."
 
 # game/v14/scene53.rpy:302
 translate francais v14s53_e0fcb5c7:
@@ -328,7 +328,7 @@ translate francais v14s53_e980ab4c:
 translate francais v14s53_28320583:
 
     # u "I know it's not easy. Everyone on this planet can tell you that life isn't easy."
-    u "Je sais que ce n'est pas facile. Tout le monde sur cette planète pourrait te dire que la vie n'est pas facile."
+    u "Je sais que c'est pas facile. Tout le monde sur cette planète pourrait te dire que la vie n'est pas facile."
 
 # game/v14/scene53.rpy:353
 translate francais v14s53_e0e0cbdc:
@@ -340,7 +340,7 @@ translate francais v14s53_e0e0cbdc:
 translate francais v14s53_8b0a7912:
 
     # sa "*Crying* But I don't know how to deal with any of my problems without drugs, [name]!"
-    sa "*Pleurant* Mais je ne sais pas comment régler mes problèmes sans drogues, [name] !"
+    sa "*Pleurant* Mais je sais pas comment régler mes problèmes sans drogues, [name] !"
 
 # game/v14/scene53.rpy:363
 translate francais v14s53_5d25cbb0:
@@ -358,13 +358,13 @@ translate francais v14s53_90fd42f4:
 translate francais v14s53_cce65445:
 
     # u "But you don't have enough self-control to live this way. You overdosed. You're risking your life, Sam."
-    u "Mais tu ne te maîtrises pas assez pour pouvoir vivre de cette façon. Tu as déjà fait une overdose, Sam. Tu risques ta vie."
+    u "Mais tu te maîtrises pas assez pour pouvoir vivre de cette façon. T'as déjà fait une overdose, Sam. Tu risques ta vie."
 
 # game/v14/scene53.rpy:380
 translate francais v14s53_90028c38:
 
     # u "But you don't have enough self-control to live this way. You continue to relapse. You're dependent on drugs, Sam."
-    u "Mais tu ne te maîtrises pas assez pour pouvoir vivre de cette façon. Tu ne cesses de rechuter. Tu es accro et dépendante des drogues, Sam."
+    u "Mais tu te maîtrises pas assez pour pouvoir vivre de cette façon. T'arrêtes pas de rechuter. T'es accro et dépendante des drogues, Sam."
 
 # game/v14/scene53.rpy:385
 translate francais v14s53_e27affe3:
@@ -376,7 +376,7 @@ translate francais v14s53_e27affe3:
 translate francais v14s53_51d03691:
 
     # u "I think you need to get help on how to deal with the emotional stuff. Real help. From people who want to help. There's a way out of all this."
-    u "Je pense que tu as besoin de te faire aider pour gérer tes émotions. Une vraie aide. De la part de personnes qui veulent vraiment t'aider. Il y a toujours un moyen de sortir de ça."
+    u "Je pense que t'as besoin de te faire aider pour gérer tes émotions. Une vraie aide. De la part de personnes qui veulent vraiment t'aider. Il y a toujours un moyen de sortir de ça."
 
 # game/v14/scene53.rpy:395
 translate francais v14s53_123dae77:
@@ -388,7 +388,7 @@ translate francais v14s53_123dae77:
 translate francais v14s53_5535289b:
 
     # sa "Will you help me?"
-    sa "Veux-tu m'aider ?"
+    sa "Tu veux m'aider ?"
 
 # game/v14/scene53.rpy:405
 translate francais v14s53_b05e2633:
@@ -436,13 +436,13 @@ translate francais v14s53_a6ebe6b2:
 translate francais v14s53_6627059e:
 
     # sa "I uh, I don't want to take these pills anymore... Could you throw them away for me?"
-    sa "Je euh, je ne veux plus prendre ces pilules... Peux-tu les jeter pour moi ?"
+    sa "Je euh, je veux plus prendre ces pilules... Tu peux les jeter pour moi ?"
 
 # game/v14/scene53.rpy:477
 translate francais v14s53_9467f36c:
 
     # u "Good idea. Absolutely."
-    u "Bonne idée. Vraiment."
+    u "Bonne idée. Avec plaisir."
 
 # game/v14/scene53.rpy:487
 translate francais v14s53_b8de57e2:
@@ -484,13 +484,13 @@ translate francais v14s53_6b6745cc:
 translate francais v14s53_8a8d4f8f:
 
     # u "I'm not going to judge you, Sam. We all have different coping mechanisms for the things going on in our lives."
-    u "Je ne vais pas te juger, Sam. Nous avons tous des mécanismes d'adaptation différents pour les choses qui se passent dans nos vies."
+    u "Je vais pas te juger, Sam. On a tous des mécanismes d'adaptation différents pour les choses qui se passent dans nos vies."
 
 # game/v14/scene53.rpy:539
 translate francais v14s53_2c7b4b54:
 
     # u "This is yours. I'm sure you're capable of figuring out how to manage it better at some point."
-    u "C'est la tienne. Je suis sûr que tu es capable de trouver comment la gérer au mieux un jour ou l'autre."
+    u "C'est la tienne. Je suis sûr que t'es capable de trouver comment la gérer au mieux un jour ou l'autre."
 
 # game/v14/scene53.rpy:544
 translate francais v14s53_27d479be:
@@ -508,7 +508,7 @@ translate francais v14s53_29561d32:
 translate francais v14s53_f21047e8:
 
     # sa "Sometimes I feel like you're the only one who's ever fully understood me."
-    sa "Parfois, j'ai l'impression que tu es la seule personne qui m'ait jamais pleinement comprise."
+    sa "Parfois, j'ai l'impression que t'es la seule personne qui m'ait jamais pleinement comprise."
 
 # game/v14/scene53.rpy:564
 translate francais v14s53_06faf2a4:
@@ -526,7 +526,7 @@ translate francais v14s53_1f55fc2c:
 translate francais v14s53_77a8e55a:
 
     # sa "But you're different... Aren't you?"
-    sa "Mais toi, tu es different... Pas vrai ?"
+    sa "Mais toi, t'es different... Pas vrai ?"
 
 # game/v14/scene53.rpy:584
 translate francais v14s53_1d768534:
@@ -544,7 +544,7 @@ translate francais v14s53_bd61eed8:
 translate francais v14s53_sg_27f35ecb:
 
     # u "Um, actually... I don't think that's a good idea, Sam."
-    u "Hum, en fait... Je ne crois pas que ce soit une bonne idée, Sam."
+    u "Hum, en fait... Je crois pas que ce soit une bonne idée, Sam."
 
 # game/v14/scene53.rpy:623
 translate francais v14s53_sg_716a0809:
@@ -556,7 +556,7 @@ translate francais v14s53_sg_716a0809:
 translate francais v14s53_sg_69fe7c70:
 
     # u "That's not the point. You've been drinking, and I just don't think it's a good idea."
-    u "Là n'est pas la question. Tu as bu, et je ne crois pas que ce soit une bonne idée."
+    u "Là n'est pas la question. T'as bu, et je crois pas que ce soit une bonne idée."
 
 # game/v14/scene53.rpy:633
 translate francais v14s53_sg_f9323bfb:
@@ -592,7 +592,7 @@ translate francais v14s53_sg_65887fc6:
 translate francais v14s53_sg_0abd2837:
 
     # u "*Sighs* (I hope she doesn't hate me in the morning.)"
-    u "*Soupirs* (J'espère qu'elle ne va pas me détester demain matin.)"
+    u "*Soupirs* (J'espère qu'elle va pas me détester demain matin.)"
 
 translate francais strings:
 

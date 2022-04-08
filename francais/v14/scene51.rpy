@@ -10,7 +10,7 @@ translate francais v14s51_fdf6b2cb:
 translate francais v14s51_b0c23926:
 
     # u "(Listening in may have cost me a bit of time, hopefully I'll still have enough to look through most Chloe's stuff, but I definitely won't be able to search everywhere.)"
-    u "(L'écoute m'a peut-être fait perdre un peu de temps, j'espère que j'en aurai encore assez pour regarder la plupart des affaires de Chloé, mais je ne pourrai sûrement pas fouiller partout.)"
+    u "(L'écoute m'a peut-être fait perdre un peu de temps, j'espère que j'en aurai encore assez pour regarder la plupart des affaires de Chloé, mais je pourrai sûrement pas fouiller partout.)"
 
 # game/v14/scene51.rpy:31
 translate francais v14s51_f0e227ab:
@@ -52,7 +52,7 @@ translate francais v14s51_PhoneContinue_e4edb176:
 translate francais v14s51_PhoneContinue_d764307a:
 
     # u "(*Sighs* I can't worry right now about Chloe being angry with me. Back to the search.)"
-    u "(*Soupirs* Je ne peux pas m'inquiéter pour l'instant que Chloé soit en colère contre moi. Retournons à la recherche.)"
+    u "(*Soupirs* Je peux pas m'inquiéter pour l'instant que Chloé soit en colère contre moi. Retournons à la recherche.)"
 
 # game/v14/scene51.rpy:96
 translate francais v14s51_desk_drawer_6c799bbc:
@@ -64,13 +64,13 @@ translate francais v14s51_desk_drawer_6c799bbc:
 translate francais v14s51_desk_drawer_0d4904f9:
 
     # u "(A list of Chloe's passwords... This could probably help Lindsey in some way, but I'm not comfortable with something like that.)"
-    u "(Une liste de tous les mots de passe de Chloé.... Ça pourrait peut-être aider Lindsey d'une certaine façon, mais je ne suis pas à l'aise avec quelque chose comme ça.)"
+    u "(Une liste de tous les mots de passe de Chloé.... Ça pourrait peut-être aider Lindsey d'une certaine façon, mais je suis pas à l'aise avec quelque chose comme ça.)"
 
 # game/v14/scene51.rpy:111
 translate francais v14s51_desk_drawer_ca3fe95d:
 
     # u "(And what's this? I didn't know Chloe was into old-school video games...? Hmm, that knowledge might come in handy someday...)"
-    u "(Et qu'est-ce que c'est ? Je ne savais pas que Chloé aimait les vieux jeux vidéo... ? Hmm, savoir ça pourrait être utile un jour...)"
+    u "(Et qu'est-ce que c'est ? Je savais pas que Chloé aimait les vieux jeux vidéo... ? Hmm, savoir ça pourrait être utile un jour...)"
 
 # game/v14/scene51.rpy:116
 translate francais v14s51_desk_drawer_3a3d20d5:
@@ -124,7 +124,7 @@ translate francais v14s51_closet_9a54d146:
 translate francais v14s51_closet_b60b0aa7:
 
     # u "(I guess I'm having second thoughts about this... I can't take nearly a thousand dollars from Chloe's private closet. What the fuck was I thinking?)"
-    u "(Je crois que j'ai des remords pour ça... Je ne peux pas prendre près de mille dollars dans la boîte privée de Chloé. À quoi je pensais, bordel ?)"
+    u "(Je crois que j'ai des remords pour ça... Je peux pas prendre près de mille dollars dans la boîte privée de Chloé. À quoi je pensais, bordel ?)"
 
 # game/v14/scene51.rpy:184
 translate francais v14s51_closet_9a54d146_1:
@@ -136,7 +136,7 @@ translate francais v14s51_closet_9a54d146_1:
 translate francais v14s51_closet_b60b0aa7_1:
 
     # u "(I guess I'm having second thoughts about this... I can't take nearly a thousand dollars from Chloe's private closet. What the fuck was I thinking?)"
-    u "(Je crois que j'ai des remords pour ça... Je ne peux pas prendre près de mille dollars dans la boîte privée de Chloé. À quoi je pensais, bordel ?)"
+    u "(Je crois que j'ai des remords pour ça... Je peux pas prendre près de mille dollars dans la boîte privée de Chloé. À quoi je pensais, bordel ?)"
 
 # game/v14/scene51.rpy:202
 translate francais v14s51_purse_b6ff6426:
@@ -148,7 +148,7 @@ translate francais v14s51_purse_b6ff6426:
 translate francais v14s51_purse_21f189cd:
 
     # u "(Oh shit! Cash in a purse? Who would have thought?)"
-    u "(Oh merde ! De l'argent liquide dans un sac à main ? Qui l'aurait cru ?)"
+    u "(Oh merde ! De l'argent liquide dans un sac à main ? Qui l'eu cru ?)"
 
 # game/v14/scene51.rpy:234
 translate francais v14s51_purse_27c7384a:
@@ -160,19 +160,19 @@ translate francais v14s51_purse_27c7384a:
 translate francais v14s51_purse_7898847f:
 
     # u "(If I don't take this money, I could be the reason Lindsey loses this race. I don't want it to be my fault.)"
-    u "(Si je ne prends pas cet argent, je pourrais être la raison pour laquelle Lindsey perd cette course. Je ne veux pas que ce soit ma faute.)"
+    u "(Si je prends pas cet argent, je pourrais être la raison pour laquelle Lindsey perd cette course. Je veux pas que ce soit ma faute.)"
 
 # game/v14/scene51.rpy:253
 translate francais v14s51_purse_8fd28fcd:
 
     # u "(I guess my conscience has caught up with me. It doesn't feel right to take it.)"
-    u "(J'imagine que ma conscience a repris le dessus. Je ne me sens pas à l'aise de prendre ça.)"
+    u "(J'imagine que ma conscience a repris le dessus. Je me sens pas à l'aise de prendre ça.)"
 
 # game/v14/scene51.rpy:270
 translate francais v14s51_pillow_f08a8661:
 
     # u "Hey, man. You don't have a secret camera in your eye, do you? *Chuckles*"
-    u "Hé, mec. Ne me dis pas que tu as une caméra secrète dans l'œil, hein ? *Rire*"
+    u "Hé, mec. Me dis pas que t'as une caméra secrète dans ton œil, hein ? *Rire*"
 
 # game/v14/scene51.rpy:272
 translate francais v14s51_pillow_01394f4a:
@@ -196,7 +196,7 @@ translate francais v14s51_pillow_bca6df02:
 translate francais v14s51_pillow_e453d3e9:
 
     # u "(It's locked but I'm sure it wouldn't be too hard to open, and Lindsey could find something useful to help her win.)"
-    u "( Il est fermé à clé mais je suis sûre qu'il ne doit pas être trop difficile à ouvrir, du coup Lindsey pourrait trouver quelque chose d'utile pour l'aider à gagner.)"
+    u "(Il est fermé à clé mais je suis sûre qu'il doit pas être trop difficile à ouvrir, du coup Lindsey pourrait trouver quelque chose d'utile pour l'aider à gagner.)"
 
 # game/v14/scene51.rpy:296
 translate francais v14s51_pillow_fdcd15be:
@@ -280,7 +280,7 @@ translate francais v14s51_continue_ab597e93:
 translate francais v14s51_continue_ca1ee76a:
 
     # u "(Quick! Think of something before she steps out and sees me!)"
-    u "(Vite ! Réfléchis à quelque chose avant qu'elle ne sorte et ne me voie !)"
+    u "(Vite ! Réfléchis à quelque chose avant qu'elle sorte et me voie !)"
 
 # game/v14/scene51.rpy:397
 translate francais v14s51_continue_e920ea0e:
@@ -430,7 +430,7 @@ translate francais v14s51_continue_f2880612:
 translate francais v14s51_continue_0ab11823:
 
     # u "(And now, a quick text to Lindsey...)"
-    u "(Et maintenant, un petit texto pour Lindsey...)"
+    u "(Et maintenant, un petit texto à Lindsey...)"
 
 # game/v14/scene51.rpy:621
 translate francais v14s51Lindsey_PhoneContinue_f9e9813d:
@@ -544,7 +544,7 @@ translate francais v14s51Chloe_PhoneContinue_5c35686d:
 translate francais v14s51Chloe_PhoneContinue_69844942:
 
     # u "*Whispers* I'm sorry, but I didn't find any money."
-    u "*Chuchote* Je suis Désolé, mais je n'ai pas trouvé d'argent."
+    u "*Chuchote* Je suis Désolé, mais j'ai pas trouvé d'argent."
 
 # game/v14/scene51.rpy:734
 translate francais v14s51Chloe_PhoneContinue_2bd0d87c:
@@ -610,7 +610,7 @@ translate francais v14s51Chloe_PhoneContinue_ca7332dd:
 translate francais v14s51Chloe_PhoneContinue_3fdbc86f:
 
     # u "*Whispers* I'm so sorry, Linds. I didn't find anything."
-    u "*Chuchote* Je suis vraiment désolé, Linds. Je n'ai rien trouvé."
+    u "*Chuchote* Je suis vraiment désolé, Linds. J'ai rien trouvé."
 
 # game/v14/scene51.rpy:790
 translate francais v14s51Chloe_PhoneContinue_0ee82982:
@@ -622,7 +622,7 @@ translate francais v14s51Chloe_PhoneContinue_0ee82982:
 translate francais v14s51Chloe_PhoneContinue_8ea48fa9:
 
     # u "*Whispers* I don't know what to say. I did my best... I'm sorry."
-    u "*Chuchote* Je ne sais pas quoi dire. J'ai fait de mon mieux... Je suis désolé."
+    u "*Chuchote* Je sais pas quoi dire. J'ai fait de mon mieux... Je suis désolé."
 
 # game/v14/scene51.rpy:800
 translate francais v14s51Chloe_PhoneContinue_d40a8ae6:

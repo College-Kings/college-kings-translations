@@ -4,7 +4,7 @@
 translate francais v14s43a_f881aea7:
 
     # u "Oh, and just so you know... You snore super loudly. *Laughs* I'm sure you already knew that though."
-    u "Oh, et juste pour que tu saches... Tu ronfles super fort. *Rire* Mais je suis sûr que tu le savais déjà."
+    u "Oh, et juste pour que tu saches... Tu ronfles super fort. *Rire* Mais je pense que tu le savais déjà."
 
 # game/v14/scene43a.rpy:34
 translate francais v14s43a_6f560e36:
@@ -52,7 +52,7 @@ translate francais v14s43a_55f649aa:
 translate francais v14s43a_86c9aa87:
 
     # u "Haha! You weren't actually snoring... Just kidding."
-    u "Haha ! En fait, tu ne ronflais pas... Je rigole."
+    u "Haha ! En fait, tu ronflais pas... Je rigole."
 
 # game/v14/scene43a.rpy:71
 translate francais v14s43a_639ecac3:
@@ -70,13 +70,13 @@ translate francais v14s43a_d5bce35a:
 translate francais v14s43a_968441fe:
 
     # pe "You wouldn't do that."
-    pe "Tu ne ferais pas ça."
+    pe "Tu ne fera jamais ça."
 
 # game/v14/scene43a.rpy:86
 translate francais v14s43a_01e59ead:
 
     # u "Wouldn't I?"
-    u "Pourquoi pas ?"
+    u "Et pourquoi pas ?"
 
 # game/v14/scene43a.rpy:99
 translate francais v14s43a_4d0eb332:
@@ -124,4 +124,4 @@ translate francais v14s43a_PhoneContinueEmily_323f49b3:
 translate francais v14s43a_PhoneContinueEmily_f2fb9662:
 
     # pe "Let's go then."
-    pe "Alors, on y va."
+    pe "Allez, c'est partit."

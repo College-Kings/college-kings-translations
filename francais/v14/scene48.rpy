@@ -16,7 +16,7 @@ translate francais v14s48_66696291:
 translate francais v14s48_e7d93375:
 
     # u "Oh, don't worry. I got it."
-    u "Oh, ne t'inquiète pas. Je m'en occupe."
+    u "Oh, t'inquiète pas. Je m'en charge."
 
 # game/v14/scene48.rpy:69
 translate francais v14s48_87255243:
@@ -160,13 +160,13 @@ translate francais v14s48_continue_b15a8b1f:
 translate francais v14s48_continue_5c6044c3:
 
     # u "I don't know, but I hope she comes with the car."
-    u "Je ne sais pas, mais j'espère qu'elle est vendue avec la voiture."
+    u "Je sais pas, mais j'espère qu'elle est vendue avec la voiture."
 
 # game/v14/scene48.rpy:193
 translate francais v14s48_continue_77af1c5a:
 
     # li "*Laughs* Let's hope they want that too."
-    li "*Rire* Espérons qu'ils le souhaiteront aussi."
+    li "*Rire* Espérons qu'ils souhaitent ça aussi."
 
 # game/v14/scene48.rpy:199
 translate francais v14s48_continue_54a8cda9:
@@ -274,7 +274,7 @@ translate francais v14s48_continue2_dc46647b:
 translate francais v14s48_continue2_e546c19c:
 
     # u "I think we should be honest and tell people up front that they shouldn't expect anything amazing."
-    u "Je crois qu'on devrait être honnête et dire aux gens dès le départ qu'ils ne doivent pas s'attendre à quelque chose d'incroyable."
+    u "Je crois qu'on devrait être honnête et dire aux gens dès le départ qu'ils doivent pas s'attendre à quelque chose d'incroyable."
 
 # game/v14/scene48.rpy:302
 translate francais v14s48_continue2_99fc19f7:
@@ -286,7 +286,7 @@ translate francais v14s48_continue2_99fc19f7:
 translate francais v14s48_continue2_d1bf4df9:
 
     # u "Exactly. Honesty is the best policy. *Chuckles* Now we just need to decide the price."
-    u "Tout à fait. L'honnêteté est la meilleure stratégie. *Rire* Maintenant, il ne nous reste plus qu'à décider de son prix."
+    u "Tout à fait. L'honnêteté est la meilleure stratégie. *Rire* Maintenant, il nous reste plus qu'à décider de son prix."
 
 # game/v14/scene48.rpy:312
 translate francais v14s48_continue2_41b43026:
@@ -304,7 +304,7 @@ translate francais v14s48_continue2_67fd2748:
 translate francais v14s48_continue2_0603439f:
 
     # u "So, what are you thinking? A hundred bucks?"
-    u "Alors, que penses-tu de cent dollars ?"
+    u "Alors, cent dollars t'en dis quoi ?"
 
 # game/v14/scene48.rpy:324
 translate francais v14s48_continue2_ce7c5f65:
@@ -370,7 +370,7 @@ translate francais v14s48_continue2_0705da8a:
 translate francais v14s48_continue2_73afa293:
 
     # u "Don't worry, I got this. If there's one thing I know about, it's deciding how much old cars are worth."
-    u "Ne t'inquiète pas, je m'en occupe. S'il y a une chose que je maîtrise, c'est de déterminer la valeur des vieilles voitures."
+    u "T'inquiète pas, je m'en occupe. S'il y a une chose que je maîtrise, c'est de déterminer la valeur des vieilles voitures."
 
 # game/v14/scene48.rpy:377
 translate francais v14s48_continue2_de0bfc95:
@@ -382,7 +382,7 @@ translate francais v14s48_continue2_de0bfc95:
 translate francais v14s48_continue2_e06393d2:
 
     # u "Nope. No idea. *Laughs*"
-    u "Non. J'y connais rien. *Rire*"
+    u "Nan. J'y connais rien. *Rire*"
 
 # game/v14/scene48.rpy:387
 translate francais v14s48_continue2_2cb7d0bc:
@@ -424,7 +424,7 @@ translate francais v14s48_end_9178f423:
 translate francais v14s48_end_ed8dfab6:
 
     # u "We haven't sold it yet."
-    u "Elle n'a pas encore été vendue."
+    u "Elle n'a toujours pas été vendue."
 
 # game/v14/scene48.rpy:437
 translate francais v14s48_end_1a41b8a8:

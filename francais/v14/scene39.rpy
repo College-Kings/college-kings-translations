@@ -40,19 +40,19 @@ translate francais v14s39_ca8b6884:
 translate francais v14s39_53c31ebd:
 
     # u "Yeah, that's what I was thinking at least."
-    u "Ouais, c'est au moins à ça que je pensais."
+    u "Ouais, c'est à ça que je pensais."
 
 # game/v14/scene39.rpy:47
 translate francais v14s39_4410728b:
 
     # pe "Promise me that we'll never be those people."
-    pe "Promets-moi que nous ne serons jamais ce genre de personnes."
+    pe "Promets-moi qu'on ne sera jamais ce genre de couple."
 
 # game/v14/scene39.rpy:52
 translate francais v14s39_8ad0f469:
 
     # u "Hey, you're the lady! You need to be the one promising me. *Laughs* I don't think I can be as nice and tame as he was."
-    u "Hé, c'est toi la dame ! Tu dois être celle qui me fait des promesses. *Rire* Je ne pense pas pouvoir être aussi gentil et doux que lui."
+    u "Hé, c'est toi la dame ! Tu dois être celle qui me fait des promesses. *Rire* Je pense pas pouvoir être aussi gentil et doux que lui."
 
 # game/v14/scene39.rpy:57
 translate francais v14s39_08c6b901:
@@ -88,7 +88,7 @@ translate francais v14s39_55524d2d:
 translate francais v14s39_b09e36b8:
 
     # u "Haha! I did not say it like that, I just meant..."
-    u "Haha ! Je ne l'ai pas dit ça comme ça, je voulais juste dire..."
+    u "Haha ! Je l'ai pas dit ça comme ça, je voulais juste dire..."
 
 # game/v14/scene39.rpy:92
 translate francais v14s39_812ab97c:
@@ -106,7 +106,7 @@ translate francais v14s39_f79b29ae:
 translate francais v14s39_55ebbe84:
 
     # u "*Laughs* Good. Discussing, spanking, same thing."
-    u "*Rire* bien. Discuter, donner la fessée, c'est pareil."
+    u "*Rire* bien. Discuter, donner une fessée, c'est pareil."
 
 # game/v14/scene39.rpy:104
 translate francais v14s39_55f649aa:
@@ -130,7 +130,7 @@ translate francais v14s39_dfcdadfe:
 translate francais v14s39_bf068d53:
 
     # u "Hell yeah, I would. I don't care what the reason is. I wouldn't just let you talk to me like that in front of everyone."
-    u "Bien sûr, que je le ferais. Je me fiche de la raison. Je ne te laisserais pas me parler comme ça devant tout le monde."
+    u "Bien sûr, que je le ferais. Je me fiche de la raison. Je te laisserais pas me parler comme ça devant tout le monde."
 
 # game/v14/scene39.rpy:126
 translate francais v14s39_a073bad9:
@@ -142,7 +142,7 @@ translate francais v14s39_a073bad9:
 translate francais v14s39_3656a5ee:
 
     # u "Yeah, of course. I know that."
-    u "Ouais, bien sûr. Je sais."
+    u "Ouais, bien sûr. Je m'en doute."
 
 # game/v14/scene39.rpy:136
 translate francais v14s39_58537cb3:
@@ -154,7 +154,7 @@ translate francais v14s39_58537cb3:
 translate francais v14s39_7fb0e380:
 
     # u "I can't even imagine you being angry besides with what just happened..."
-    u "Je n'arrive même pas à t'imaginer en colère malgré ce qui vient de se passer..."
+    u "J'arrive même pas à t'imaginer en colère malgré ce qui vient de se passer..."
 
 # game/v14/scene39.rpy:146
 translate francais v14s39_c20e10aa:
@@ -202,7 +202,7 @@ translate francais v14s39_3c9a8764:
 translate francais v14s39_b8bd3c36:
 
     # u "What do you want, Penelope? Just say the words."
-    u "Que veux-tu, Pénélope ? N'hésite pas."
+    u "Qu'est-ce qu'il y a, Pénélope ? N'hésite pas."
 
 # game/v14/scene39.rpy:192
 translate francais v14s39_bbbad601:
@@ -268,7 +268,7 @@ translate francais v14s39_25eaf8ca:
 translate francais v14s39_0db796f0:
 
     # u "Are you kidding? I can't wait, haha."
-    u "Tu plaisantes ? Je ne peux pas attendre, haha."
+    u "Tu plaisantes ? Je peux pas attendre, haha."
 
 # game/v14/scene39.rpy:256
 translate francais v14s39_e6a6a0a7:
@@ -298,7 +298,7 @@ translate francais v14s39_f07ad165:
 translate francais v14s39_0a40fc21:
 
     # u "It's fine, I'm sorry if tonight was... also weird."
-    u "Ne t'inquiète pas, je m'excuse si cette soirée était... aussi bizarre."
+    u "T'inquiète pas, je m'excuse si cette soirée était... aussi bizarre."
 
 # game/v14/scene39.rpy:291
 translate francais v14s39_e64fdc99:

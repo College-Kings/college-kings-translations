@@ -4,7 +4,7 @@
 translate francais v14s40a_d7bc604f:
 
     # u "(Let's start the day, shall we?)"
-    u "(Démarrons cette journée, hein ?)"
+    u "(Allez, on commence cette journée, hein ?)"
 
 # game/v14/scene40a.rpy:37
 translate francais v14s40a_2149797e:
@@ -28,7 +28,7 @@ translate francais v14s40a_5d1ee9af:
 translate francais v14s40a_e717220b:
 
     # u "I... don't hate it, actually. *Laughs*"
-    u "Je... en fait, je ne déteste pas ça. *Rire*"
+    u "Je... en fait, je déteste pas ça. *Rire*"
 
 # game/v14/scene40a.rpy:60
 translate francais v14s40a_03176812:

@@ -40,19 +40,19 @@ translate francais v14s38_e55a29fc:
 translate francais v14s38_d94c33dc:
 
     # u "Okay, well don't say it like that. *Laughs* Hopefully nothing ever happens."
-    u "Ok, mais attention, il ne faut jamais dire jamais. *Rire* J'espère tout de même que jamais rien ne t'arrivera."
+    u "Ok, mais fait attention tout de même, il ne faut jamais dire jamais. *Rire* J'espère qu'il ne t'arrivera jamais rien."
 
 # game/v14/scene38.rpy:52
 translate francais v14s38_14265644:
 
     # jen "If you keep stalking me I won't even have to worry."
-    jen "Si tu continues à me suivre, je n'aurai pas à m'inquiéter."
+    jen "Si tu continues à me suivre, j'aurai jamais à m'inquiéter."
 
 # game/v14/scene38.rpy:61
 translate francais v14s38_ea56debd:
 
     # u "I wasn't trying to-"
-    u "Je ne te suiv-"
+    u "Je te suiv-"
 
 # game/v14/scene38.rpy:66
 translate francais v14s38_ae1cde73:
@@ -64,7 +64,7 @@ translate francais v14s38_ae1cde73:
 translate francais v14s38_5c5f2149:
 
     # u "*Laughs* Cool, I don't want you thinking I'm some creep."
-    u "*Rire* Cool, j'ai pas envie que tu me prennes pour un taré."
+    u "*Rire* Ouf, j'ai pas envie que tu me prennes pour un taré."
 
 # game/v14/scene38.rpy:76
 translate francais v14s38_2e6ea52e:
@@ -76,7 +76,7 @@ translate francais v14s38_2e6ea52e:
 translate francais v14s38_c3af0de6:
 
     # u "So, since you haven't said anything by now..."
-    u "Bon, comme tu n'as rien dit..."
+    u "Bon, comme t'as rien dit..."
 
 # game/v14/scene38.rpy:86
 translate francais v14s38_2068b08d:
@@ -88,7 +88,7 @@ translate francais v14s38_2068b08d:
 translate francais v14s38_1c6694f5:
 
     # u "Well maybe if you weren't so cute I wouldn't have to pretend to run into you all the time, haha."
-    u "Peut-être que si tu n'étais pas si mignonne, je n'aurais pas à faire semblant de te croiser tout le temps, haha."
+    u "Peut-être que si t'étais pas si mignonne, je n'aurais pas à faire semblant de te croiser tout le temps, haha."
 
 # game/v14/scene38.rpy:99
 translate francais v14s38_d3320a0d:
@@ -118,10 +118,10 @@ translate francais v14s38_b302ca5b:
 translate francais v14s38_a80c6e3a:
 
     # jen "Yep, haha. See you soon?"
-    jen "Oui, haha. Je te vois bientôt ?"
+    jen "Oui, haha. On se voit bientôt ?"
 
 # game/v14/scene38.rpy:130
 translate francais v14s38_ca208754:
 
     # u "You better."
-    u "T'as intérêt."
+    u "Y a intérêt."

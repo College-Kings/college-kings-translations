@@ -52,7 +52,7 @@ translate francais v14s40_f24b1567:
 translate francais v14s40_acca2cc4:
 
     # u "Ha... Wow, I'm happy for you, I think? *Laughs* You've never touched yourself before?"
-    u "Ha... Wow, j'imagine que je suis ravi pour toi ? *Rire* Tu ne t'es jamais touchée avant ?"
+    u "Ha... Wow, j'imagine que je suis ravi pour toi ? *Rire* Tu t'es jamais touchée avant ?"
 
 # game/v14/scene40.rpy:60
 translate francais v14s40_ecb14095:
@@ -118,7 +118,7 @@ translate francais v14s40_ce267632:
 translate francais v14s40_ad7ee4cb:
 
     # u "So... did you watch porn while you touched yourself?"
-    u "Alors... tu as regardé du porno pendant que tu te touchais ?"
+    u "Alors... t'as regardé du porno pendant que tu te touchais ?"
 
 # game/v14/scene40.rpy:116
 translate francais v14s40_4cecdff9:

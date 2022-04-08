@@ -16,13 +16,13 @@ translate francais v14s45a_47174c86:
 translate francais v14s45a_1f5bff00:
 
     # am "Guess you can't tease me about it anymore, haha."
-    am "Tu ne vas plus pouvoir me taquiner là-dessus, haha."
+    am "Tu vas plus pouvoir me taquiner là-dessus, haha."
 
 # game/v14/scene45a.rpy:26
 translate francais v14s45a_386afe91:
 
     # u "Just jumped right out and did it, huh? Why'd you quit?"
-    u "Tu as voulu tout quitter et tu l'as fait, hein ? Pourquoi t'as démissionné ?"
+    u "T'as voulu tout quitter et tu l'as fait, hein ? Pourquoi t'as démissionné ?"
 
 # game/v14/scene45a.rpy:31
 translate francais v14s45a_94dd95dd:
@@ -34,7 +34,7 @@ translate francais v14s45a_94dd95dd:
 translate francais v14s45a_f156f280:
 
     # am "I know it sounds kinda... Whatever, I think I'm gonna try to be a private dancer or something."
-    am "Je sais que ça a l'air un peu... Peu importe, je pense que je vais tenter de devenir une danseuse particulière ou quelque chose comme ça."
+    am "Je sais que ça a l'air un peu... et puis on s'en fout, je crois que je vais essayer de devenir une danseuse particulière ou un truc comme ça."
 
 # game/v14/scene45a.rpy:38
 translate francais v14s45a_e8df4390:
@@ -46,7 +46,7 @@ translate francais v14s45a_e8df4390:
 translate francais v14s45a_7ef43f05:
 
     # am "I looked into a nightclub that's not too far from here. I could make really good money on the weekends."
-    am "J'ai postulé dans une boîte de nuit qui n'est pas très loin d'ici. Je pourrais me faire beaucoup d'argent les week-ends."
+    am "J'ai postulé dans une boîte de nuit qui n'est pas très loin d'ici. Je pourrais me faire beaucoup de fric les week-ends."
 
 # game/v14/scene45a.rpy:51
 translate francais v14s45a_81d30a4d:
@@ -64,7 +64,7 @@ translate francais v14s45a_88518d28:
 translate francais v14s45a_08c2f77d:
 
     # u "Sure. I am cool with it as long as you're comfortable with it and it makes you happy. You know?"
-    u "Bien sûr. Je suis cool avec ça tant que tu es à l'aise avec ça et que ça te rend heureux. Tu comprends ?"
+    u "Bien sûr. Je suis cool avec ça tant que t'es à l'aise et que ça te rend heureuse. Tu vois ?"
 
 # game/v14/scene45a.rpy:66
 translate francais v14s45a_c4b01192:
@@ -88,37 +88,37 @@ translate francais v14s45a_5f31472f:
 translate francais v14s45a_79cffd25:
 
     # u "Why the fuck are you becoming a stripper, Amber?"
-    u "Putain, pourquoi veux-tu devenir stripteaseuse, Amber ?"
+    u "Putain, pourquoi tu voudrais devenir stripteaseuse, Amber ?"
 
 # game/v14/scene45a.rpy:85
 translate francais v14s45a_8e36650d:
 
     # am "Ugh... I knew you'd say that. It's not a stripper it's-"
-    am "Argh... Je savais que tu dirais ça. C'est pas \"stripteaseuse\", c'est..."
+    am "Argh... J'savais que tu dirais ça. C'est pas \"stripteaseuse\", c'est..."
 
 # game/v14/scene45a.rpy:90
 translate francais v14s45a_f7863631:
 
     # u "A private dancer? Same thing. Now answer the question."
-    u "Une \"danseuse particulière\" ? C'est la même chose. Réponds à la question, maintenant."
+    u "Une \"danseuse particulière\" ? C'est la même chose. Maintenant, réponds à la question, s'te plait."
 
 # game/v14/scene45a.rpy:95
 translate francais v14s45a_06575ebb:
 
     # am "Well regardless of what you call it, I'm doing it 'cause I want to. I didn't think I needed anyone's permission to do that."
-    am "Et bien, quelque soit le nom que tu lui donnes, je le fais parce que je le veux. J'imaginais pas avoir besoin de la permission de quiconque pour le faire."
+    am "Et bien, quelque soit le nom que tu lui donnes, j'le fais parce que je le veux. J'imaginais pas avoir besoin de la permission de quiconque pour le faire."
 
 # game/v14/scene45a.rpy:100
 translate francais v14s45a_c85cad7b:
 
     # u "You don't, but... You had a good, solid job and you're throwing it away for this?"
-    u "Tu n'a pas besoin de ma permission, mais... Tu avais un bon travail stable et tu le lâches pour ça ?"
+    u "T'a pas besoin de ma permission, mais... Tu avais un bon travail stable et tu le lâches pour ça ?"
 
 # game/v14/scene45a.rpy:105
 translate francais v14s45a_e25fe1d3:
 
     # am "I wasn't happy at Lew's and this dancing job... It seems like something I'll enjoy."
-    am "J'étais pas heureuse chez Lew's et ce travail de danseuse... A l'air d'être quelque chose qui me plaira."
+    am "J'étais pas heureuse chez Lew's et ce travail de danseuse... A l'air d'être quelque chose qui me plairait."
 
 # game/v14/scene45a.rpy:110
 translate francais v14s45a_ac8959fa:
@@ -214,13 +214,13 @@ translate francais v14s45a_c15dfe28:
 translate francais v14s45a_e10d976a:
 
     # am "You're an ass, you know that?"
-    am "Tu es vraiment con, tu sais ?"
+    am "T'es vraiment con, tu sais ?"
 
 # game/v14/scene45a.rpy:183
 translate francais v14s45a_b237bc35:
 
     # u "Haha, I learned from the best though."
-    u "Haha, pourtant, j'ai appris des meilleurs."
+    u "Haha, pourtant, j'ai appris de la meilleure."
 
 # game/v14/scene45a.rpy:188
 translate francais v14s45a_3471902f:
@@ -232,7 +232,7 @@ translate francais v14s45a_3471902f:
 translate francais v14s45a_3680a079:
 
     # am "When I become CEO and you need a job, I'll show you what an ass I can be."
-    am "Quand je serai PDG et que tu auras besoin d'un emploi, je te montrerai à quel point je peux être conne."
+    am "Quand je serai PDG et que t'auras besoin d'un emploi, je te montrerai à quel point je peux être conne."
 
 # game/v14/scene45a.rpy:195
 translate francais v14s45a_bbb9ccc9:
@@ -250,7 +250,7 @@ translate francais v14s45a_134075c5:
 translate francais v14s45a_fa61ad79:
 
     # u "You're really on the right track, I think. At this rate, I'll be asking you for a job at Lew's one day. *Chuckles*"
-    u "Je pense que tu es vraiment sur la bonne voie. À ce rythme, un jour, je te demanderai un travail chez Lew's. *Rire*"
+    u "Je pense que t'es vraiment sur la bonne voie. À ce rythme, un jour, je te demanderai un travail chez Lew's. *Rire*"
 
 # game/v14/scene45a.rpy:218
 translate francais v14s45a_dd62a7a1:
@@ -280,7 +280,7 @@ translate francais v14s45a_18004368:
 translate francais v14s45a_1cebebcb:
 
     # am "You're like, a blanket."
-    am "Tu es comme une couverture."
+    am "T'es comme une couverture."
 
 # game/v14/scene45a.rpy:252
 translate francais v14s45a_ae145cfe:
@@ -292,7 +292,7 @@ translate francais v14s45a_ae145cfe:
 translate francais v14s45a_4f9c49f9:
 
     # am "I mean, like... You're nice, and warm, like a blanket that wraps me up tight and makes me feel safe."
-    am "Je veux dire, comme... Tu es gentil et chaleureux, comme une couverture qui m'enveloppe et me fait me sentir en sécurité."
+    am "Je veux dire, comme... T'es gentil et chaleureux, comme une couverture qui m'enveloppe et me fait me sentir en sécurité."
 
 # game/v14/scene45a.rpy:262
 translate francais v14s45a_7a8429de:
@@ -304,7 +304,7 @@ translate francais v14s45a_7a8429de:
 translate francais v14s45a_b71c56ba:
 
     # am "A security blanket of some sorts... *Chuckles* Fucking it all up or doing it all perfectly, at the end of the day you've still got me feeling safe and warm."
-    am "Une sorte de couverture de sécurité... *Rire* Que tu foutes tout en l'air ou que tu fasses les choses parfaitement, à la fin de la journée, je me sens toujours en sécurité et réchauffée."
+    am "Une sorte de couverture de sécurité... *Rire* Que tu foutes tout en l'air ou que tu fasses les choses parfaitement, à la fin de la journée, j'me sens toujours en sécurité et réchauffée."
 
 # game/v14/scene45a.rpy:290
 translate francais v14s45a_7d94c165:
@@ -316,13 +316,13 @@ translate francais v14s45a_7d94c165:
 translate francais v14s45a_383c99e0:
 
     # am "I do, and... It takes a lot for me to say that, so don't take it lightly."
-    am "Oui vraiment. Et... Il m'a fallu beaucoup de temps pour te dire ça, alors ne prends pas ces mots à la légère."
+    am "Oui vraiment. Et... Il m'a fallu beaucoup de temps pour te dire ça, alors prends pas ces mots à la légère."
 
 # game/v14/scene45a.rpy:300
 translate francais v14s45a_82041738:
 
     # u "Haha, I won't. I promise. Thank you for saying that."
-    u "Haha, je ne vais pas faire ça. Je te promets. Merci de m'avoir dit ça."
+    u "Haha, je vais pas faire ça. Je te promets. Merci de m'avoir dit ça."
 
 # game/v14/scene45a.rpy:315
 translate francais v14s45a_fec428ae:
@@ -340,7 +340,7 @@ translate francais v14s45a_62966b5c:
 translate francais v14s45a_554c7a78:
 
     # am "I have to run soon, but I wanna mark the occasion with a celebratory sip."
-    am "Je dois bientôt y aller, mais je veux célébrer ce moment en buvant une gorgée."
+    am "Je dois bientôt y aller, mais je veux célébrer ce moment en buvant un coup."
 
 # game/v14/scene45a.rpy:330
 translate francais v14s45a_2b776c43:
@@ -430,7 +430,7 @@ translate francais v14s45a_PhoneContinue_d88c225f:
 translate francais v14s45a_PhoneContinue_e9d0d8f9:
 
     # li "The Chloe, distraction? C'mon now..."
-    li "La Chloé, la diversion ? Allez, viens..."
+    li "La diversion sur Chloé ? Allez, viens..."
 
 # game/v14/scene45a.rpy:464
 translate francais v14s45a_PhoneContinue_614841ea:
@@ -502,7 +502,7 @@ translate francais v14s45a_PhoneContinue_994ff779:
 translate francais v14s45a_PhoneContinue_70b3c2fb:
 
     # u "Don't apologize. I'll be right there."
-    u "Ne t'excuse pas. J'arrive tout de suite."
+    u "T'excuse pas. J'arrive tout de suite."
 
 # game/v14/scene45a.rpy:542
 translate francais v14s45a_PhoneContinue_c8163e36:

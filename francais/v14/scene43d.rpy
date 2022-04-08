@@ -22,7 +22,7 @@ translate francais v14s43d_372327d1:
 translate francais v14s43d_d0934b1b:
 
     # u "Haha, it's no problem. He actually told me what he did and begged me to work with you so that it wasn't awkward for either of you."
-    u "Haha, pas de problème. Pour te dire, il m'a raconté ce qu'il avait fait et m'a supplié de travailler avec toi pour que ça ne soit pas gênant pour aucun de vous deux."
+    u "Haha, pas de problème. Pour te dire, il m'a raconté ce qu'il avait fait et m'a supplié de travailler avec toi pour que ça soit pas trop gênant, pour aucun de vous deux."
 
 # game/v14/scene43d.rpy:38
 translate francais v14s43d_4d86bf54:
@@ -34,7 +34,7 @@ translate francais v14s43d_4d86bf54:
 translate francais v14s43d_bef5d205:
 
     # u "No, he just said that he was drunk texting you last night and you never responded."
-    u "Non, il a juste dit qu'il était bourré, qu'il t'a envoyé des SMS hier soir et que tu ne lui as jamais répondu."
+    u "Non, il a juste dit qu'il était bourré, qu'il t'a envoyé des SMS hier soir et que tu lui as jamais répondu."
 
 # game/v14/scene43d.rpy:48
 translate francais v14s43d_797a5f53:
@@ -82,7 +82,7 @@ translate francais v14s43d_8d3fc135:
 translate francais v14s43d_3a265791:
 
     # u "Alright, well... What ideas did you have for the scene?"
-    u "Très bien, alors... Quelles idées as-tu eues pour la scène ?"
+    u "Très bien, alors... Quelles idées t'as eu pour la scène ?"
 
 # game/v14/scene43d.rpy:89
 translate francais v14s43d_8720e12b:
@@ -136,7 +136,7 @@ translate francais v14s43d_2edfa4cc:
 translate francais v14s43d_f656edf3:
 
     # u "You mean you wanna wing it? *Chuckles* Be lazy and come up with nothing?"
-    u "Tu voudrais improviser ? *Rire* Être paresseuse et ne rien imaginer ?"
+    u "Tu voudrais improviser ? *Rire* Être paresseuse et rien imaginer ?"
 
 # game/v14/scene43d.rpy:131
 translate francais v14s43d_24c21af4:
@@ -298,7 +298,7 @@ translate francais v14s43d_c1a09845:
 translate francais v14s43d_9514a71e:
 
     # ri "Also, we'll have to include at least something about history so that we don't mess it up by giving Mr. Lee the chance to interrupt."
-    ri "De plus, nous devrons inclure au moins quelque chose d'historique pour ne pas tout gâcher en donnant à Mr Lee une occasion d'interrompre notre jeu."
+    ri "De plus, on devra inclure au moins quelque chose d'historique pour ne pas tout gâcher en donnant à Mr Lee une occasion d'interrompre notre jeu."
 
 # game/v14/scene43d.rpy:275
 translate francais v14s43d_99bd25a7:
@@ -328,7 +328,7 @@ translate francais v14s43d_1a8bbbb8:
 translate francais v14s43d_3362403b:
 
     # u "Don't have too much fun without me. *Chuckles*"
-    u "Ne vous amusez pas trop sans moi. *Rire*."
+    u "Essayez de pas trop vous amuser sans moi. *Rire*"
 
 # game/v14/scene43d.rpy:301
 translate francais v14s43d_49cdb406:
@@ -340,7 +340,7 @@ translate francais v14s43d_49cdb406:
 translate francais v14s43d_9d24938a:
 
     # u "*Laughs* (She can't get enough of her Aubs, can she?)"
-    u "*Rire* (Elle ne peut pas se passer de sa Aubs, hein ?)"
+    u "*Rire* (Elle peut plus se passer de sa Aubs, hein ?)"
 
 # game/v14/scene43d.rpy:311
 translate francais v14s43d_9475b827:

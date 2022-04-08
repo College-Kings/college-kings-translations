@@ -64,7 +64,7 @@ translate francais v14s43c_5188114a:
 translate francais v14s43c_cba74984:
 
     # u "Haha. That's exactly what you heard."
-    u "Haha. Oui, tu as bien entendu."
+    u "Haha. Oui, t'as bien entendu."
 
 # game/v14/scene43c.rpy:78
 translate francais v14s43c_7c712bd0:
@@ -136,7 +136,7 @@ translate francais v14s43c_78d5384f:
 translate francais v14s43c_f588feeb:
 
     # u "Okay, I don't know much about medieval times and being a King, but I'll play along. *Chuckles*"
-    u "Bon, je ne connais pas grand-chose à l'époque médiévale et au fait d'être un roi, mais je vais jouer le jeu. *Rire*."
+    u "Bon, je connais pas grand-chose à l'époque médiévale et au fait d'être roi, mais je vais jouer le jeu. *Rire*"
 
 # game/v14/scene43c.rpy:152
 translate francais v14s43c_e746b3b0:
@@ -154,7 +154,7 @@ translate francais v14s43c_77225c90:
 translate francais v14s43c_e8a37b20:
 
     # u "Okay, umm... You begin?"
-    u "Okay, umm... You begin?"
+    u "Ok, humm... Tu commences ?"
 
 # game/v14/scene43c.rpy:167
 translate francais v14s43c_351879de:
@@ -166,7 +166,7 @@ translate francais v14s43c_351879de:
 translate francais v14s43c_478f5cd1:
 
     # u "*British accent* The hunt went well, m'lady. A few targets got away but we made quite the haul nonetheless."
-    u "*Accent britannique* Tout s'est bien passé, ma dame. Quelques proies se sont échappées mais nous avons quand même ramené un bon butin."
+    u "*Accent britannique* Tout s'est bien passé, ma dame. Quelques proies se sont échappées mais nous avons tout de même ramené un bon butin."
 
 # game/v14/scene43c.rpy:177
 translate francais v14s43c_ee8107a2:
@@ -238,7 +238,7 @@ translate francais v14s43c_d3524a5f:
 translate francais v14s43c_b4a34b9e:
 
     # pe "*British accent* The meal they're serving tonight is supposed to be one to die for."
-    pe "*Accent britannique* Le repas qu'ils serviront ce soir est supposé être à tomber par terre."
+    pe "*Accent britannique* Le repas qu'ils serviront ce soir est supposé être à \"tomber par terre\"."
 
 # game/v14/scene43c.rpy:238
 translate francais v14s43c_13cd24cb:
@@ -322,7 +322,7 @@ translate francais v14s43c_f57ba519:
 translate francais v14s43c_dcc58fc7:
 
     # u "(Have I? Wait...)"
-    u "(L'ai-je fait ? Attends...)"
+    u "(Je lui ai menti ? Attends...)"
 
 # game/v14/scene43c.rpy:319
 translate francais v14s43c_ab8b9733:
@@ -436,7 +436,7 @@ translate francais v14s43c_8a97429d:
 translate francais v14s43c_721fbe18:
 
     # pe "*British accent* And now I have poisoned us both, my darling."
-    pe "*Accent britannique* Et maintenant, je nous ai empoisonnés tous les deux, mon amour."
+    pe "*Accent britannique* Et maintenant, nous sommes empoisonnés tous les deux, mon amour."
 
 # game/v14/scene43c.rpy:430
 translate francais v14s43c_7dd93ea4:
@@ -508,55 +508,55 @@ translate francais v14s43c_52a070c2:
 translate francais v14s43c_3d8c13cd:
 
     # pe "No need for words, you dirty slag. Ole Brittle has sworn on her life and children that her accusations are true... and you dare say she's a liar?!"
-    pe "Pas besoin de faire semblant, salopard. Ole Brittle a juré sur sa vie et ses enfants que ses accusations étaient vraies... et vous osez affirmer qu'elle m'a menti !?"
+    pe "*Accent britannique* Pas besoin de faire semblant, salopard. Ole Brittle a juré sur sa vie et ses enfants que ses accusations étaient vraies... et vous osez affirmer qu'elle m'a menti !?"
 
 # game/v14/scene43c.rpy:511
 translate francais v14s43c_29d308c4:
 
     # u "I dare say plenty! She lies, my love!"
-    u "Je suis prêt à vous l'affirmer ! Elle ment, mon amour !"
+    u "*Accent britannique* Je suis prêt à vous l'affirmer ! Elle ment, mon amour !"
 
 # game/v14/scene43c.rpy:516
 translate francais v14s43c_17626e59:
 
     # pe "I won't hear anymore of this. I'm finished."
-    pe "Je ne veux plus en entendre parler. Je suis détruite."
+    pe "*Accent britannique* Je ne veux plus en entendre parler. Je suis détruite."
 
 # game/v14/scene43c.rpy:521
 translate francais v14s43c_cf49d466:
 
     # u "You dare speak to the king with such- *Gasps*"
-    u "Vous osez parler au roi avec de tels- *Soupirs*"
+    u "*Accent britannique* Vous osez parler au roi avec de tels- *Soupirs*"
 
 # game/v14/scene43c.rpy:526
 translate francais v14s43c_373bf603:
 
     # u "*Coughs* I can't... breathe... I..."
-    u "*Tousse* Je ne peut plus... respirer... Je..."
+    u "*Accent britannique*  *Tousse* Je ne peut plus... respirer... Je..."
 
 # game/v14/scene43c.rpy:536
 translate francais v14s43c_c7822c3d:
 
     # u "You! What... *Moans* What did you do to me?!"
-    u "Vous ! Que... *Gémis* Que m'avez-vous fait ?!"
+    u "*Accent britannique* Vous ! Que... *Gémis* Que m'avez-vous fait ?!"
 
 # game/v14/scene43c.rpy:541
 translate francais v14s43c_4a87c013:
 
     # pe "I've saved our kingdom, my darling. I've killed the true snake by simply cutting off the head."
-    pe "J'ai sauvé notre royaume, mon amour. J'ai tué le vrai serpent simplement en le décapitant."
+    pe "*Accent britannique* J'ai sauvé notre royaume, mon amour. J'ai tué le vrai serpent simplement en le décapitant."
 
 # game/v14/scene43c.rpy:546
 translate francais v14s43c_f1560fd9:
 
     # u "You sleazy son of a-"
-    u "Espèce de sale pu-"
+    u "*Accent britannique* Espèce de sale pu-"
 
 # game/v14/scene43c.rpy:561
 translate francais v14s43c_afe6ccdc:
 
     # pe "Goodnight, my former king."
-    pe "Bonne nuit, petit roi."
+    pe "*Accent britannique* Bonne nuit, petit roi."
 
 # game/v14/scene43c.rpy:566
 translate francais v14s43c_17f3913e_1:

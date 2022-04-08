@@ -28,7 +28,7 @@ translate francais v14s37_783c05d8:
 translate francais v14s37_f3a2cdaa:
 
     # u "You seriously look amazing."
-    u "Tu es vraiment superbe."
+    u "T'es vraiment superbe."
 
 # game/v14/scene37.rpy:60
 translate francais v14s37_54edf8c3:
@@ -40,7 +40,7 @@ translate francais v14s37_54edf8c3:
 translate francais v14s37_43e202a9:
 
     # u "*Laughs* I thought I'd get here before you and try to get us a table, didn't think you'd get here so fast."
-    u "*Rire* Je voulais arriver avant toi et essayer de nous obtenir une table, je ne pensais pas que tu arriverais si vite."
+    u "*Rire* Je voulais arriver avant toi et essayer de nous obtenir une table, je pensais pas que tu arriverais si vite."
 
 # game/v14/scene37.rpy:70
 translate francais v14s37_25a73374:
@@ -52,7 +52,7 @@ translate francais v14s37_25a73374:
 translate francais v14s37_dd8e90a2:
 
     # u "Wait... Haha, what? You should've told me you were moving at lightning speed. *Laughs* It's too windy out here for you to be waiting."
-    u "Attends... Haha, quoi ? Tu aurais dû me prévenir que tu pouvais aller à la vitesse de la lumière. *Rire* Il y a trop de vent, ici, pour que tu attendes seule dehors."
+    u "Attends... Haha, quoi ? Tu aurais dû me prévenir que tu pouvais te déplacer à la vitesse de la lumière. *Rire* Il y a trop de vent, ici, pour que tu attendes seule dehors."
 
 # game/v14/scene37.rpy:80
 translate francais v14s37_4389c3c6:
@@ -82,7 +82,7 @@ translate francais v14s37_587c98cc:
 translate francais v14s37_3415a988:
 
     # host "Hello, hello! Just the two of you tonight?"
-    host "Bonjour, bonjour ! Deux personnes seulement ce soir ?"
+    host "Bonjour, bonjour ! Deux personnes ?"
 
 # game/v14/scene37.rpy:108
 translate francais v14s37_7edd122c:
@@ -142,7 +142,7 @@ translate francais v14s37_5cd5d231:
 translate francais v14s37_f799a8f7:
 
     # u "Haha, then why'd you suggest coming here?"
-    u "Haha, alors pourquoi as-tu proposé de venir ici ?"
+    u "Haha, alors pourquoi avoir proposé de venir ici ?"
 
 # game/v14/scene37.rpy:173
 translate francais v14s37_580e0bf3:
@@ -154,7 +154,7 @@ translate francais v14s37_580e0bf3:
 translate francais v14s37_6c52fdd7:
 
     # u "Haha no, I won't force you to."
-    u "Haha non, je ne vais pas te forcer à manger."
+    u "Haha non, je vais pas te forcer à manger."
 
 # game/v14/scene37.rpy:183
 translate francais v14s37_b267699e:
@@ -178,7 +178,7 @@ translate francais v14s37_b918e07d:
 translate francais v14s37_7dbedea3:
 
     # u "It's fine, I'm not gonna eat if you're not."
-    u "C'est bon, si tu ne le mange pas, moi non plus."
+    u "C'est bon, si tu mange pas, moi non plus."
 
 # game/v14/scene37.rpy:203
 translate francais v14s37_f3903865:
@@ -220,7 +220,7 @@ translate francais v14s37_75daf124:
 translate francais v14s37_4d6cca90:
 
     # pe "We're still deciding if we're even hungry, haha, I hope that's okay."
-    pe "Nous sommes toujours en train de nous demander si nous avons réellement faim, haha, j'espère que ça vous va."
+    pe "On est toujours en train de se demander si on a réellement faim, haha, j'espère que ça vous va."
 
 # game/v14/scene37.rpy:243
 translate francais v14s37_b3ddf0c6:
@@ -328,7 +328,7 @@ translate francais v14s37_0ec3bb3e:
 translate francais v14s37_88ee794c:
 
     # pe "*Sighs* Some people..."
-    pe "*Soupirs* Il y a des gens..."
+    pe "*Soupirs* Il y en a je te jure..."
 
 # game/v14/scene37.rpy:353
 translate francais v14s37_b6e4a4eb:
@@ -496,13 +496,13 @@ translate francais v14s37_24b2abf7:
 translate francais v14s37_b53262dc:
 
     # u "I know she's saying mean things, but we came here for us."
-    u "Je sais qu'elle dit des choses méchantes, mais nous sommes venus là pour nous."
+    u "Je sais qu'elle dit des choses méchantes, mais on est venus là pour nous."
 
 # game/v14/scene37.rpy:511
 translate francais v14s37_db5d3dde:
 
     # u "To have a good night on our first real date. I'd like to enjoy that."
-    u "Passer une bonne soirée pour notre premier vrai rencard. J'aimerais pouvoir en profiter."
+    u "Pour passer une bonne soirée pour notre premier vrai rencard. J'aimerais pouvoir en profiter."
 
 # game/v14/scene37.rpy:516
 translate francais v14s37_2fdc9a64:
@@ -532,7 +532,7 @@ translate francais v14s37_cbd5e797:
 translate francais v14s37_319299a6:
 
     # u "Definitely feels like we didn't miss a beat. Classes, frat stuff, Julia across the country... Everything just picked right back up."
-    u "On a vraiment l'impression de ne rien avoir raté. Les cours, les trucs de fraternité, Julia à l'autre bout du pays... Tout est reparti comme avant."
+    u "On a vraiment l'impression de rien avoir raté. Les cours, les trucs de fraternité, Julia à l'autre bout du pays... Tout est reparti comme avant."
 
 # game/v14/scene37.rpy:541
 translate francais v14s37_5414508d:
@@ -544,7 +544,7 @@ translate francais v14s37_5414508d:
 translate francais v14s37_08760a93:
 
     # u "Oh! Shit! No, no. It's not what you're thinking. She's my dad's ex. The person who raised me pretty much."
-    u "Oh ! Merde ! Non, non. Ce n'est pas ce que tu penses. C'est l'ex de mon père. La personne qui m'a pratiquement élevée."
+    u "Oh ! Merde ! Non, non. C'est pas ce que tu penses. C'est l'ex de mon père. La personne qui m'a pratiquement élevée."
 
 # game/v14/scene37.rpy:551
 translate francais v14s37_b82f0fc4:
@@ -556,7 +556,7 @@ translate francais v14s37_b82f0fc4:
 translate francais v14s37_dbcf4224:
 
     # u "Haha, no need to apologize. I didn't realize I never really speak about her to anyone."
-    u "Haha, pas besoin de t'excuser. Je n'avais pas réalisé que je ne parlais jamais d'elle à qui que ce soit."
+    u "Haha, pas besoin de t'excuser. J'avais pas réalisé que je parlais jamais d'elle à qui que ce soit."
 
 # game/v14/scene37.rpy:566
 translate francais v14s37_63e6c33b:
@@ -568,7 +568,7 @@ translate francais v14s37_63e6c33b:
 translate francais v14s37_536ad0cc:
 
     # pe "It's kinda weird listening to how involved you are in everything and here I am with nothing to do."
-    pe "C'est assez bizarre de t'entendre dire à quel point tu t'impliques dans tout et me voilà avec rien à faire."
+    pe "C'est assez bizarre de t'entendre dire à quel point tu t'impliques dans tout et me voilà... qui n'ai rien à faire."
 
 # game/v14/scene37.rpy:576
 translate francais v14s37_ffb6c755:
@@ -622,7 +622,7 @@ translate francais v14s37_ed6d0b2d:
 translate francais v14s37_89b50861:
 
     # u "The dean obviously isn't letting you forget, so we might as well laugh about it at this point."
-    u "La doyenne ne te laissera manifestement pas oublier tout ça, alors au point où tu en es, autant en rire."
+    u "La doyenne te laissera manifestement pas oublier tout ça, alors au point où tu en es, autant en rire."
 
 # game/v14/scene37.rpy:621
 translate francais v14s37_84cfeb2d:
@@ -676,7 +676,7 @@ translate francais v14s37_fc05bac7:
 translate francais v14s37_1351fe14:
 
     # u "Why don't you say something to the board?"
-    u "Pourquoi ne pas en parler directement à la Direction ?"
+    u "Pourquoi t'en parle pas directement à la Direction ?"
 
 # game/v14/scene37.rpy:671
 translate francais v14s37_599d559b:
@@ -712,7 +712,7 @@ translate francais v14s37_297374e2:
 translate francais v14s37_d2f1309a:
 
     # u "Good. And if it fails, I will gladly come running to your defense."
-    u "C'est bien. Et si ça échoue, je courrai à ta défense avec plaisir."
+    u "C'est bien. Et si ça échoue, je foncerai te défendre avec plaisir."
 
 # game/v14/scene37.rpy:712
 translate francais v14s37_3c336d1e:
@@ -796,7 +796,7 @@ translate francais v14s37_3135837b:
 translate francais v14s37_52b798e0:
 
     # pe "Sir, kindly, BE A MAN AND STAND UP FOR YOURSELF."
-    pe "Soyez gentil, Monsieur, SOYEZ UN HOMME ET DEFENDEZ-VOUS."
+    pe "Et s'il vous plaît, Monsieur, SOYEZ UN HOMME ET DEFENDEZ-VOUS."
 
 # game/v14/scene37.rpy:804
 translate francais v14s37_f47dcf08:
@@ -814,7 +814,7 @@ translate francais v14s37_ebbc9e1d:
 translate francais v14s37_ec47a82a:
 
     # pe "This world doesn't revolve around you. If I ever see you again and you're speaking to someone like this, I'll have more than just words to say next time."
-    pe "Le monde ne tourne pas autour de toi. Si je te revois un jour et que je t'entends parler de nouveau à quelqu'un comme ça, je n'aurai plus que de simples mots à te dire pour que tu comprennes."
+    pe "Le monde ne tourne pas autour de TOI. Si je te revois un jour et que je t'entends parler de nouveau à quelqu'un comme ça, je n'aurai plus que de simples mots à te dire pour que tu comprennes."
 
 # game/v14/scene37.rpy:812
 translate francais v14s37_ac2b4d6b:

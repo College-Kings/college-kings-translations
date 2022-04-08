@@ -4,13 +4,13 @@
 translate francais v14s41a_e44b82e8:
 
     # gr "[name!u]! GET DOWN HERE!"
-    gr "[name]u] ! DESCENDS !"
+    gr "[name !u] ! DESCENDS !"
 
 # game/v14/scene41a.rpy:17
 translate francais v14s41a_0213b0f0:
 
     # u "(The fuck?)"
-    u "(C'est quoi cette merde ?)"
+    u "(Putain, quoi encore ?)"
 
 # game/v14/scene41a.rpy:32
 translate francais v14s41a_c6ce27dc:
@@ -64,7 +64,7 @@ translate francais v14s41a_0a823d93:
 translate francais v14s41a_1f7ea44d:
 
     # gr "Opposite of that, actually. Despite the rough past that Chloe and I have, we will not be sabotaging her in the race."
-    gr "Tout le contraire, en fait. Malgré le passé difficile qu'on a eu avec Chloé, on ne va pas la saboter dans sa course à la présidentielle."
+    gr "Tout le contraire, en fait. Malgré le passé difficile qu'on a eu avec Chloé, on va pas la saboter dans sa course à la présidentielle."
 
 # game/v14/scene41a.rpy:90
 translate francais v14s41a_fe036a44:
@@ -136,7 +136,7 @@ translate francais v14s41a_f503a351:
 translate francais v14s41a_f46db812:
 
     # u "(Made a big scene just to say that? *Sighs* I gotta get to class.)"
-    u "(T'as fait une grande mise en scène juste pour dire ça ? *Soupirs* Je dois aller en cours.)"
+    u "(T'as fait toute cette mise en scène juste pour dire ça ? *Soupirs* Je dois aller en cours.)"
 
 # game/v14/scene41a.rpy:161
 translate francais v14s41a_29d77f1c:
@@ -262,13 +262,13 @@ translate francais v14s41a_c803e2b0:
 translate francais v14s41a_10b88b7a:
 
     # u "(Even Cameron isn't speaking up, and he has an incentive to help Chloe win. I shouldn't press this further...)"
-    u "(Même Cameron ne parle pas, et il a tout intérêt à aider Chloé à gagner. Je ne devrais pas insister davantage sur ce point...)"
+    u "(Même Cameron ne parle pas, et il a tout intérêt à aider Chloé à gagner. Je devrais pas insister davantage sur ce point...)"
 
 # game/v14/scene41a.rpy:289
 translate francais v14s41a_7d2c4866:
 
     # gr "Post the pictures when I send 'em to you."
-    gr "Postez les photos lorsque je vous l'enverrai."
+    gr "Postez la photo quand j'vous l'enverrai."
 
 # game/v14/scene41a.rpy:294
 translate francais v14s41a_9df1674e:
@@ -304,7 +304,7 @@ translate francais v14s41a_109b2aca:
 translate francais v14s41a_ef5c45bc:
 
     # ry "Oh my god, here we go..."
-    ry "Oh merde, nous y voilà..."
+    ry "Oh merde, et voilà..."
 
 # game/v14/scene41a.rpy:324
 translate francais v14s41a_ef2f1671:
@@ -376,7 +376,7 @@ translate francais v14s41a_8610f824:
 translate francais v14s41a_76b21d70:
 
     # gr "*Laughs* We don't give a fuck about all that. Feelings don't mean shit, [name]."
-    gr "*Rires* On n'en a rien à foutre de tout ça. Les sentiments de merde ne valent rien, [name]."
+    gr "*Rires* On s'en fout de tout ça. Les sentiments de merde, ça vaut rien, [name]."
 
 # game/v14/scene41a.rpy:386
 translate francais v14s41a_b1f1b238:
@@ -394,7 +394,7 @@ translate francais v14s41a_1304366a:
 translate francais v14s41a_7906d4ae:
 
     # u "Feelings don't mean shit. That's what he said."
-    u "Les sentiments ne valent rien. C'est ce qu'il a dit."
+    u "\"Les sentiments ne valent rien\". C'est ce qu'il a dit."
 
 # game/v14/scene41a.rpy:401
 translate francais v14s41a_9fba55b3:

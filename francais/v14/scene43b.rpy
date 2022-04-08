@@ -28,7 +28,7 @@ translate francais v14s43b_99f26781:
 translate francais v14s43b_47b74055:
 
     # lee "Riley! Yes! I'm so glad you asked."
-    lee "Riley ! Oui ! Je suis si content que vous ayez demandé."
+    lee "Riley ! Oui ! Je suis si content que ça soit vous qui ayez demandé."
 
 # game/v14/scene43b.rpy:84
 translate francais v14s43b_8cce4a6a:
@@ -40,7 +40,7 @@ translate francais v14s43b_8cce4a6a:
 translate francais v14s43b_e8464b91:
 
     # u "(Oh, haha... That's why Riley is here.)"
-    u "(Oh, haha... C'est pourquoi Riley est ici.)"
+    u "(Oh, haha... C'est pour ça que Riley est à cette place.)"
 
 # game/v14/scene43b.rpy:94
 translate francais v14s43b_e4a7433f:
@@ -82,7 +82,7 @@ translate francais v14s43b_ebb0294d:
 translate francais v14s43b_d35f1fd9:
 
     # u "(This should be interesting... haha.)"
-    u "( Ça devrait être intéressant... haha.)"
+    u "(Ça devrait être intéressant... haha.)"
 
 # game/v14/scene43b.rpy:129
 translate francais v14s43b_d924f118:
@@ -214,7 +214,7 @@ translate francais v14s43b_10ccbb51:
 translate francais v14s43b_1c959f8e:
 
     # imre "Look man... Ugh, please? Just let me work with her."
-    imre "Écoute mec... Euh, s'te plaît ? Laisse-moi juste travailler avec elle."
+    imre "Écoute mec... Euh, s'te plaît ? Laisse-moi juste bosser avec elle."
 
 # game/v14/scene43b.rpy:265
 translate francais v14s43b_57a296dc:
@@ -346,7 +346,7 @@ translate francais v14s43Chloe_PhoneContinue1_812c6164:
 translate francais v14s43Chloe_PhoneContinue1_9929f69d:
 
     # u "(Fuck... I'm glad I didn't go through with posting that shit.)"
-    u "(Putain... je suis content de ne pas avoir été plus loin en postant cette merde.)"
+    u "(Putain... je suis content de pas avoir été plus loin en postant cette merde.)"
 
 # game/v14/scene43b.rpy:424
 translate francais v14s43Chloe_PhoneContinue1_82a24ae7:
@@ -424,7 +424,7 @@ translate francais v14s43Chloe_PhoneContinue1_911296f7:
 translate francais v14s43Chloe_PhoneContinue1_3175571f:
 
     # u "Haha... I just wanted to see you squirm for a second. I wouldn't actually do you like that, have fun with Penelope."
-    u "Haha... Je voulais juste te voir te tortiller pendant un moment. Je ne te ferais pas ça, amuse-toi bien avec Pénélope."
+    u "Haha... Je voulais juste te voir te tortiller pendant un moment. Je te ferais pas ça, amuse-toi bien avec Pénélope."
 
 # game/v14/scene43b.rpy:524
 translate francais v14s43Chloe_PhoneContinue1_887433de:
@@ -484,7 +484,7 @@ translate francais v14s43Chloe_PhoneContinue1_0a0ded35:
 translate francais v14s43Chloe_PhoneContinue1_11d52f58:
 
     # u "Hmm? Let me check this real quick."
-    u "Hmm ? Laissez-moi vérifier ça rapidement."
+    u "Hmm ? Laisse-moi vérifier ça rapidement."
 
 # game/v14/scene43b.rpy:622
 translate francais v14s43Chloe_PhoneContinue2_e4edb176:
@@ -502,7 +502,7 @@ translate francais v14s43Chloe_PhoneContinue2_812c6164:
 translate francais v14s43Chloe_PhoneContinue2_9929f69d:
 
     # u "(Fuck... I'm glad I didn't go through with posting that shit.)"
-    u "(Putain... je suis content de ne pas avoir été plus loin en postant cette merde.)"
+    u "(Putain... je suis content de pas avoir été plus loin en postant cette merde.)"
 
 # game/v14/scene43b.rpy:638
 translate francais v14s43Chloe_PhoneContinue2_7b24288c:
@@ -520,7 +520,7 @@ translate francais v14s43Chloe_PhoneContinue2_27544913:
 translate francais v14s43Chloe_PhoneContinue2_077b7471:
 
     # u "Let's just work in the classroom across the hall, it's always empty."
-    u "Allons travailler dans la salle de classe de l'autre côté du couloir, elle est toujours vide."
+    u "On a qu'à travailler dans la salle de classe de l'autre côté du couloir, elle est toujours vide."
 
 # game/v14/scene43b.rpy:653
 translate francais v14s43Chloe_PhoneContinue2_3bd922ae:
@@ -550,7 +550,7 @@ translate francais v14s43Chloe_PhoneContinue2_27544913_1:
 translate francais v14s43Chloe_PhoneContinue2_077b7471_1:
 
     # u "Let's just work in the classroom across the hall, it's always empty."
-    u "Allons travailler dans la salle de classe de l'autre côté du couloir, elle est toujours vide."
+    u "On a qu'à travailler dans la salle de classe de l'autre côté du couloir, elle est toujours vide."
 
 # game/v14/scene43b.rpy:698
 translate francais v14s43Chloe_PhoneContinue2_3bd922ae_1:
@@ -574,7 +574,7 @@ translate francais strings:
 
     # game/v14/scene43b.rpy:19
     old "You're in France?! We literally just got back to America from a class trip to Europe..."
-    new "Tu es en France ?! Nous venons littéralement de rentrer en Amérique après un voyage de classe en Europe..."
+    new "Tu es en France ?! On vient littéralement de rentrer en Amérique après un voyage de classe en Europe..."
 
     # game/v14/scene43b.rpy:24
     old "Uh, yeah. Of course! I just felt like I needed to ask for some reason."
@@ -586,7 +586,7 @@ translate francais strings:
 
     # game/v14/scene43b.rpy:52
     old "Hey, Iris. So sorry if you felt like I wasn't interested, my Simplr has just been glitchy and I've been stuck out of it for a while. Back for good now."
-    new "Salut, Iris. Je suis vraiment désolé si tu as eu l'impression que je n'étais pas intéressé, mon Simplr a juste eu des pépins et j'ai été bloqué pendant un moment. Je suis de retour pour de bon maintenant."
+    new "Salut, Iris. Je suis vraiment désolé si tu as eu l'impression que j'étais pas intéressé, mon Simplr a juste eu des pépins et j'ai été bloqué pendant un moment. Je suis de retour pour de bon maintenant."
 
     # game/v14/scene43b.rpy:277
     old "Work with Penelope"

@@ -112,7 +112,7 @@ translate francais v14s46a_sgb_36fe4c26:
 translate francais v14s46a_sgb_e08394c0:
 
     # la "*Chuckles* Stoner much?"
-    la "*Rire* Tu es fumeur ?"
+    la "*Rire* Tu fumes ?"
 
 # game/v14/scene46a.rpy:147
 translate francais v14s46a_sgb_cebfd9c8:
@@ -142,7 +142,7 @@ translate francais v14s46a_sgb_63891b64:
 translate francais v14s46a_sgb_56366f9c:
 
     # la "*Softly* You are now falling into deep relaxation..."
-    la "*Doucement* Tu tombes maintenant dans une profonde relaxation..."
+    la "*Doucement* Maintenant, tu tombes dans une profonde relaxation..."
 
 # game/v14/scene46a.rpy:172
 translate francais v14s46a_sgb_df0a7769:
@@ -208,7 +208,7 @@ translate francais v14s46a_sgb_a5192c34:
 translate francais v14s46a_sgb_a10176e2:
 
     # la "*Softly* The longer you listen to my voice, the deeper you sink into pure relaxation."
-    la "*Doucement* Plus tu écoutes ma voix, plus tu t'enfonces dans la relaxation pure."
+    la "*Doucement* Plus tu écoutes ma voix, plus tu t'enfonces dans une pure relaxation."
 
 # game/v14/scene46a.rpy:227
 translate francais v14s46a_sgb_d126c239:
@@ -358,7 +358,7 @@ translate francais v14s46_nsfwSkipLabel1_56514330:
 translate francais v14s46_nsfwSkipLabel1_9bb33c19:
 
     # la "That's so crazy... You can just go in the bathroom and clean yourself up, ha."
-    la "C'est vraiment fou... Tu peux aller dans la salle de bain et te nettoyer."
+    la "C'est vraiment fou... Tu peux aller dans la salle de bain pour te nettoyer."
 
 # game/v14/scene46a.rpy:396
 translate francais v14s46_nsfwSkipLabel1_eed88133:
@@ -406,7 +406,7 @@ translate francais v14s46_nsfwSkipLabel1_6c857347:
 translate francais v14s46_nsfwSkipLabel1_e9580b50:
 
     # u "You were exploring and I was exploding..."
-    u "Tu étais en train d'explorer et j'étais en train d'exploser..."
+    u "Tu étais en train d'explorer et moi, j'étais en train d'exploser..."
 
 # game/v14/scene46a.rpy:455
 translate francais v14s46_nsfwSkipLabel1_6d1b6cf7:
@@ -418,7 +418,7 @@ translate francais v14s46_nsfwSkipLabel1_6d1b6cf7:
 translate francais v14s46_nsfwSkipLabel1_668a87ff:
 
     # u "*Laughs* That was such a weird experience. Where did you learn this?"
-    u "*Rire* C'était une expérience vraiment bizarre. Où as-tu appris ça ?"
+    u "*Rire* C'était une expérience vraiment bizarre. Où est-ce que t'as appris ça ?"
 
 # game/v14/scene46a.rpy:466
 translate francais v14s46_nsfwSkipLabel1_96e7309f:
@@ -550,7 +550,7 @@ translate francais v14s46_nsfwSkipLabel1_9f1c0dac:
 translate francais v14s46_nsfwSkipLabel1_e2e69cb5:
 
     # la "*Softly* But he's not stopping there... He's hungry for something else now. Before you know it, he's chewing at your dick."
-    la "*Doucement* Mais il ne s'arrête pas là... Il a faim de quelque chose d'autre maintenant. Avant que tu ne réalises, il est en train de mâcher ta queue."
+    la "*Doucement* Mais il ne s'arrête pas là... Il a faim de quelque chose d'autre maintenant. Avant que tu ne réalises, il veut ta queue."
 
 # game/v14/scene46a.rpy:619
 translate francais v14s46_nsfwSkipLabel1_ce72dd33:

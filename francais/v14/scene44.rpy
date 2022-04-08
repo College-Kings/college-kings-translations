@@ -124,7 +124,7 @@ translate francais v14s44_baa9a6da:
 translate francais v14s44_68e51484:
 
     # u "Yeah, I think everyone is. That's why most people are voting for Lindsey, ha."
-    u "Ouais, je pense que tout le monde l'a. C'est pourquoi la plupart des gens votent pour Lindsey."
+    u "Ouais, comme tout le monde. C'est pourquoi la plupart des gens votent pour Lindsey."
 
 # game/v14/scene44.rpy:158
 translate francais v14s44_b6304111:
@@ -166,7 +166,7 @@ translate francais v14s44_420d299b:
 translate francais v14s44_7daa96fd:
 
     # elm "Well, for fuck's sake Eli. It wouldn't kill you to try and make one."
-    elm "Oh putain, Eli. Ça ne te tuerait pas d'essayer de t'en faire un."
+    elm "Oh mince, Eli. Ça ne te tuerait pas d'essayer de t'en faire un."
 
 # game/v14/scene44.rpy:210
 translate francais v14s44_b84514a9:
@@ -226,7 +226,7 @@ translate francais v14s44_8d37e3a3:
 translate francais v14s44_9f4e5ec5:
 
     # u "(I did not expect Elijah's mom to look like that. Damn...)"
-    u "(Je ne m'attendais pas à ce que la mère d'Elijah soit comme ça. Putainnnn...)"
+    u "(Je m'attendais pas à ce que la mère d'Elijah soit comme ça. Putainnnn...)"
 
 # game/v14/scene44.rpy:344
 translate francais v14s44_8c047491:
@@ -262,7 +262,7 @@ translate francais v14s44_04a2245a:
 translate francais v14s44_33211fab:
 
     # imre "His Mom?! You're fucking kidding-"
-    imre "Sa mère ?! Tu te fous de moi ?"
+    imre "Sa mère ?! Tu t'fous d'ma gueule ?"
 
 # game/v14/scene44.rpy:365
 translate francais v14s44_e8cd660b:
@@ -286,13 +286,13 @@ translate francais v14s44_e5d759dd:
 translate francais v14s44_8395e69d:
 
     # u "She was pretty fucking hot. *Laughs*"
-    u "Elle était vraiment canon, putain. *Rire*"
+    u "Elle était vraiment canon, ouais. *Rire*"
 
 # game/v14/scene44.rpy:395
 translate francais v14s44_0880f098:
 
     # u "Meh, she's not really my type."
-    u "Mouais, elle n'est pas trop mon type."
+    u "Mouais, c'est pas trop mon genre."
 
 # game/v14/scene44.rpy:400
 translate francais v14s44_7fbf823b:
@@ -322,7 +322,7 @@ translate francais v14s44_6a8dbb7f:
 translate francais v14s44_6f826349:
 
     # u "Oh my god, no. *Laughs* Imre."
-    u "Oh putain, non. *Rire* Imre."
+    u "Oh non, putain. *Rire* Imre."
 
 # game/v14/scene44.rpy:419
 translate francais v14s44_3b83cba4:
@@ -346,7 +346,7 @@ translate francais v14s44_34ec2b8b:
 translate francais v14s44_8869efff:
 
     # imre "Sorry, [name]! I'll catch you later. I've got something fun planned and I'm about to be late."
-    imre "Désolé, [name] ! J'te verrai plus tard. J'ai prévu un truc sympa et j'vais être en retard."
+    imre "Désolé, [name] ! J'te verrai plus tard. J'ai prévu un truc cool et j'vais être en retard."
 
 # game/v14/scene44.rpy:439
 translate francais v14s44_6ef758af:
@@ -366,4 +366,4 @@ translate francais strings:
 
     # game/v14/scene44.rpy:380
     old "Meh, not my type"
-    new "Mouais, pas mon type."
+    new "Mouais, pas mon genre."
