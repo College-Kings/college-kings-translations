@@ -10,7 +10,7 @@ translate francais v15s12_7f86bf2d:
 translate francais v15s12_53921c1c:
 
     # u "*Whispers* Oh shit! You actually got it open?"
-    u "*Chuchote* Oh merde ! Tu as réussi à l'ouvrir ?"
+    u "*Chuchote* Oh merde ! T'as réussi à l'ouvrir ?"
 
 # game/v15/scene12.rpy:29
 translate francais v15s12_9e6b7fdd:
@@ -22,7 +22,7 @@ translate francais v15s12_9e6b7fdd:
 translate francais v15s12_07f9a939:
 
     # u "*Chuckles* Nice, Linds. So, what did you find?"
-    u "*Rire* Joli, Linds. Alors, qu'est-ce que tu as trouvé ?"
+    u "*Rire* Joli, Linds. Alors, qu'est-ce que t'as trouvé ?"
 
 # game/v15/scene12.rpy:39
 translate francais v15s12_ce8ffa53:
@@ -160,7 +160,7 @@ translate francais v15s12_3ed46461:
 translate francais v15s12_ef8f7293:
 
     # u "(Damn, I'm so glad we chose to not do that to her.)"
-    u "(Merde, je suis vraiment content qu'on ait décidé de ne pas lui faire ça.)"
+    u "(Merde, je suis vraiment content qu'on ait décidé de pas lui faire ça.)"
 
 # game/v15/scene12.rpy:148
 translate francais v15s12_be7b0e77:
@@ -178,13 +178,13 @@ translate francais v15s12_f15b9b07:
 translate francais v15s12_26589a2b:
 
     # li "I needed money to win, I can admit that. That's the reason we have her diary in the first place. But Chloe has money, and she has resources..."
-    li "J'avais besoin d'argent pour gagner, je peux l'admettre. C'est la raison pour laquelle nous avons pu récupérer son journal intime en premier lieu. Mais Chloé a de l'argent, et elle a des ressources..."
+    li "J'avais besoin d'argent pour gagner, je peux l'admettre. C'est la raison pour laquelle on a pu récupérer son journal intime en premier lieu. Mais Chloé a de l'argent, et elle a des ressources..."
 
 # game/v15/scene12.rpy:163
 translate francais v15s12_521a8ef4:
 
     # u "She just doesn't have the votes."
-    u "Elle n'a tout simplement pas les votes."
+    u "Elle a tout simplement pas les votes."
 
 # game/v15/scene12.rpy:168
 translate francais v15s12_8ba0d80b:
@@ -256,7 +256,7 @@ translate francais v15s12_96847f52:
 translate francais v15s12_568c7465:
 
     # li "And I guess it got to the point where he wouldn't let her go anywhere without telling him exactly where or who she was going with."
-    li "Et je crois que c'en est venu au point où il ne la laissait plus aller nulle part sans lui dire exactement où ou avec qui elle allait."
+    li "Et je crois que c'en est venu au point où il ne la laissait plus aller nulle part sans qu'elle soit obligée de lui dire exactement où et avec qui elle allait."
 
 # game/v15/scene12.rpy:227
 translate francais v15s12_12a486ce:
@@ -268,7 +268,7 @@ translate francais v15s12_12a486ce:
 translate francais v15s12_9ce3bea3:
 
     # li "If she was ever seen talking to another guy, he would instantly accuse her of cheating and that would lead to an argument..."
-    li "Si jamais elle avait été vue en train de parler à un autre mec, il allait instantanément l'accuser de l'avoir trompé et cela entraînerait une dispute..."
+    li "Si jamais elle avait été vue en train de parler à un autre mec, il allait instantanément l'accuser de l'avoir trompé et ça entraînait une dispute..."
 
 # game/v15/scene12.rpy:237
 translate francais v15s12_87e2f7c0:
@@ -352,7 +352,7 @@ translate francais v15s12_107a213e:
 translate francais v15s12_97f11ab5:
 
     # li "You and Chloe are together, she's told just about everyone. *Chuckles* So, where does that leave us?"
-    li "Chloé et toi êtes ensemble, elle l'a annoncé à presque tout le monde. *Rire* Alors, où cela nous mène-t-il ?"
+    li "Chloé et toi êtes ensemble, elle l'a annoncé à presque tout le monde. *Rire* Alors, où est-ce que ça nous mène ?"
 
 # game/v15/scene12.rpy:310
 translate francais v15s12_0238517d:
@@ -376,7 +376,7 @@ translate francais v15s12_ab3c4816:
 translate francais v15s12_83aeac00:
 
     # u "It's pretty serious between us, yeah. Chloe and I get along really well, and-"
-    u "C'est plutôt sérieux entre nous, ouais. Chloé et moi nous entendons très bien, et-"
+    u "C'est plutôt sérieux entre nous, ouais. Chloé et moi on s'entend très bien, et-"
 
 # game/v15/scene12.rpy:335
 translate francais v15s12_e23a1d5d:
@@ -436,7 +436,7 @@ translate francais v15s12_4960ac9c:
 translate francais v15s12_bc22872a:
 
     # u "It's not that serious between me and Chloe, I mean..."
-    u "Ce n'est pas vraiment sérieux entre Chloé et moi, enfin..."
+    u "C'est pas vraiment sérieux entre Chloé et moi, enfin..."
 
 # game/v15/scene12.rpy:384
 translate francais v15s12_83088b39:
@@ -490,7 +490,7 @@ translate francais v15s12_a28dce65:
 translate francais v15s12_b1b78f6e:
 
     # li "Allies that we can trust to support us now, during the election, and also in the future, when I'm President of the Chicks."
-    li "Des alliés en qui nous pourrions avoir confiance pour nous soutenir maintenant, pendant l'élection, et aussi à l'avenir, quand je serai Présidente des Chicks."
+    li "Des alliés en qui on pourrait avoir confiance pour qu'ils nous soutiennent maintenant, pendant l'élection, et aussi à l'avenir, quand je serai Présidente des Chicks."
 
 # game/v15/scene12.rpy:449
 translate francais v15s12_9a1915d5:
@@ -520,13 +520,13 @@ translate francais v15s12_84e469fe:
 translate francais v15s12_93421352:
 
     # li "We just didn't get a good enough offer on the car, but hopefully we can put that money to good use in the future."
-    li "Nous n'avons pas fait une bonne affaire pour la vente de la voiture, mais j'espère tout de même qu'à l'avenir, nous pourrons utiliser cet argent à bon escient."
+    li "On a pas fait une bonne affaire pour la vente de la voiture, mais j'espère tout de même qu'à l'avenir, on pourra utiliser cet argent à bon escient."
 
 # game/v15/scene12.rpy:467
 translate francais v15s12_39197f11:
 
     # li "It's a shame that we couldn't get any offers on the car..."
-    li "C'est dommage que nous n'ayons pas pu obtenir de propositions d'achat pour la voiture..."
+    li "C'est dommage qu'on ait pas pu obtenir de propositions d'achat pour la voiture..."
 
 # game/v15/scene12.rpy:473
 translate francais v15s12_05fb6a4d:
@@ -574,7 +574,7 @@ translate francais v15s12_d94958a7:
 translate francais v15s12_e51454c1:
 
     # u "Haha, of course it'll be fun. We must enjoy ourselves at the end of the day, you know."
-    u "Haha, bien sûr que ça sera amusant. Nous devons nous divertir en fin de journée, tu le sais."
+    u "Haha, bien sûr que ça sera amusant. On doit pouvoir se divertir en fin de journée, tu sais."
 
 # game/v15/scene12.rpy:575
 translate francais v15s12_33d2b81c:
@@ -592,7 +592,7 @@ translate francais v15s12_eacd6ea4:
 translate francais v15s12_24567243:
 
     # u "But there's no chance they'll vote for Chloe after you roll up in a limo to take them out for the night."
-    u "Mais il n'y a aucune chance qu'ils votent pour Chloé après que tu sois arrivé en limousine pour les emmener en soirée."
+    u "Mais y a aucune chance qu'ils votent pour Chloé après que tu sois arrivé en limousine pour les emmener en soirée."
 
 # game/v15/scene12.rpy:588
 translate francais v15s12_d635e03b:
@@ -610,7 +610,7 @@ translate francais v15s12_dd543e97:
 translate francais v15s12_41c2ea56:
 
     # u "(Damn, will it? What have I done? We really don't need any more drama back at the house...)"
-    u "(Bon sang, est-ce qu'il viendre ? Qu'est-ce que j'ai fait ? On n'a vraiment pas besoin de drames supplémentaire à la maison...)"
+    u "(Bon sang, est-ce qu'il viendra ? Qu'est-ce que j'ai fait ? On a vraiment pas besoin de drames supplémentaire à la maison...)"
 
 # game/v15/scene12.rpy:601
 translate francais v15s12_e47b6d75:
@@ -622,13 +622,13 @@ translate francais v15s12_e47b6d75:
 translate francais v15s12_54496649:
 
     # u "Chloe has just announced the Wolves as her official brotherhood, so we have to focus on the Apes now."
-    u "Chloé vient d'annoncer que les Wolves sont sa confrérie officielle, nous devons donc nous concentrer sur les Apes, maintenant."
+    u "Chloé vient d'annoncer que les Wolves sont sa confrérie officielle, maintenant, on doit donc se concentrer sur les Apes."
 
 # game/v15/scene12.rpy:607
 translate francais v15s12_8d502b50:
 
     # u "(Wherever Grayson's mind is, it's not on supporting Chloe, anyway...)"
-    u "(Où que soit l'esprit de Grayson, il n'est pas en train de soutenir Chloé, de toute façon...)"
+    u "(Où que soit l'esprit de Grayson, il est pas en train de soutenir Chloé, de toute façon...)"
 
 # game/v15/scene12.rpy:611
 translate francais v15s12_3a9e9ab9:
@@ -682,7 +682,7 @@ translate francais v15s12_374d893d:
 translate francais v15s12_0f84ad16:
 
     # u "Hey, I'm not complaining..."
-    u "Je ne me plains pas..."
+    u "Je me plains pas..."
 
 # game/v15/scene12.rpy:662
 translate francais v15s12_2a017173:
@@ -700,7 +700,7 @@ translate francais v15s12_PhoneContinue_d172984c:
 translate francais v15s12_PhoneContinue_e1502979:
 
     # u "(I'm a man on a mission. Find Lauren a gift and find a costume. Easy.)"
-    u "(Pars en mission. Trouver un cadeau pour Lauren et trouver un costume. Facile.)"
+    u "(J'ai une mission. Trouver un cadeau pour Lauren et trouver un costume. Facile.)"
 
 translate francais strings:
 

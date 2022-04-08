@@ -94,7 +94,7 @@ translate francais v15s15sg_b728b49b:
 translate francais v15s15sg_61262953:
 
     # u "No, I don't! You said dinner. This is not dinner."
-    u "Non, pas du tout ! Tu as dit un dîner. Et ça, c'est pas un dîner."
+    u "Non, pas du tout ! T'as dit un dîner. Et ça, c'est pas un dîner."
 
 # game/v15/scene15.rpy:145
 translate francais v15s15sg_e899db71:
@@ -106,7 +106,7 @@ translate francais v15s15sg_e899db71:
 translate francais v15s15sg_b53c9877:
 
     # u "Damn right, I'm not in the mood."
-    u "Bien sûr que non, je ne suis pas d'humeur."
+    u "Bien sûr que non, je suis pas d'humeur."
 
 # game/v15/scene15.rpy:155
 translate francais v15s15sg_b854f592:
@@ -124,7 +124,7 @@ translate francais v15s15_nsfwSkipLabel1_dd34aa65:
 translate francais v15s15_nsfwSkipLabel1_142c352a:
 
     # u "(She might have fucked up my life by giving me a drink that night.)"
-    u "(Elle a sûrement foutu ma vie en l'air en me donnant ce verre lors de cette soirée.)"
+    u "(Elle a sûrement foutu ma vie en l'air en me donnant ce verre pendant cette soirée.)"
 
 # game/v15/scene15.rpy:179
 translate francais v15s15_nsfwSkipLabel1_8a98ae58:
@@ -148,7 +148,7 @@ translate francais v15s15_nsfwSkipLabel1_e578d6f0:
 translate francais v15s15_nsfwSkipLabel1_7e46e407:
 
     # u "(Don't mind if I do...)"
-    u "(Allez, ne t'inquiètes pas...)"
+    u "(Allez, t'inquiètes pas...)"
 
 # game/v15/scene15.rpy:203
 translate francais v15s15_nsfwSkipLabel1_1391101d:
@@ -202,7 +202,7 @@ translate francais v15s15_nsfwSkipLabel1_5eb1073b:
 translate francais v15s15_nsfwSkipLabel1_482a54b4:
 
     # u "Of course I'm still angry."
-    u "Bien sûr, je suis toujours en colère."
+    u "Bien sûr que je suis toujours en colère."
 
 # game/v15/scene15.rpy:291
 translate francais v15s15_nsfwSkipLabel1_8944220a:
@@ -244,7 +244,7 @@ translate francais v15s15_nsfwSkipLabel1_8f4ea745:
 translate francais v15s15_nsfwSkipLabel1_13711e89:
 
     # u "Damn right you are!"
-    u "Tu as bien raison de l'être !"
+    u "T'as bien raison de l'être !"
 
 # game/v15/scene15.rpy:335
 translate francais v15s15_nsfwSkipLabel1_011d56a9:
@@ -256,7 +256,7 @@ translate francais v15s15_nsfwSkipLabel1_011d56a9:
 translate francais v15s15_nsfwSkipLabel1_70c060a1:
 
     # u "Okay then, you fucking slut."
-    u "Ouais, tu es une putain de salope."
+    u "Ouais, t'es une putain de salope."
 
 # game/v15/scene15.rpy:347
 translate francais v15s15_nsfwSkipLabel1_9f8795f1:
@@ -286,7 +286,7 @@ translate francais v15s15_nsfwSkipLabel1_941f44e7:
 translate francais v15s15_nsfwSkipLabel1_dd244fc0:
 
     # u "Such..."
-    u "Tu es vraiment..."
+    u "T'es vraiment..."
 
 # game/v15/scene15.rpy:372
 translate francais v15s15_nsfwSkipLabel1_e1daf3bc:
@@ -310,7 +310,7 @@ translate francais v15s15_nsfwSkipLabel1_f2c39449:
 translate francais v15s15_nsfwSkipLabel1_803b919a:
 
     # u "If you're my dinner, it makes sense to fuck you in the kitchen too..."
-    u "Si tu es mon dîner, il est logique de te baiser également dans la cuisine..."
+    u "Si t'es mon dîner, il est logique de te baiser également dans la cuisine..."
 
 # game/v15/scene15.rpy:392
 translate francais v15s15_nsfwSkipLabel1_aa6398af:
@@ -406,13 +406,13 @@ translate francais v15s15_nsfwSkipLabel1_fc56299a:
 translate francais v15s15_nsfwSkipLabel1_b724c439:
 
     # u "*Moans* You beautiful psycho..."
-    u "*Gémis* Tu es une belle petite garce..."
+    u "*Gémis* T'es une belle petite garce..."
 
 # game/v15/scene15.rpy:533
 translate francais v15s15_nsfwSkipLabel1_14f8a08b:
 
     # u "*Chuckles* Now you're covered in cream."
-    u "Maintenant tu es couverte *Rire* de crème."
+    u "Maintenant t'es couverte *Rire* de crème."
 
 # game/v15/scene15.rpy:538
 translate francais v15s15_nsfwSkipLabel1_d17bea96:
@@ -442,13 +442,13 @@ translate francais v15s15_nsfwSkipLabel1_f32f6d94:
 translate francais v15s15_nsfwSkipLabel1_6de29600:
 
     # u "I enjoyed it a lot more than I thought I would, actually. It might just be my new favorite meal. *Chuckles*"
-    u "En fait, je l'ai bien plus apprécié que je ne le pensais. Il se pourrait que ce soit mon nouveau menu préféré. *Rire*"
+    u "En fait, je l'ai bien plus apprécié que je pensais. Il se pourrait que ce soit mon nouveau menu préféré. *Rire*"
 
 # game/v15/scene15.rpy:576
 translate francais v15s15_nsfwSkipLabel1_198db7eb:
 
     # u "It was a good start, but I'm still not entirely happy with you."
-    u "C'était un bon début, mais je ne suis toujours pas entièrement content de toi."
+    u "C'était un bon début, mais je suis toujours pas entièrement content de toi."
 
 # game/v15/scene15.rpy:581
 translate francais v15s15_nsfwSkipLabel1_2c567f52:

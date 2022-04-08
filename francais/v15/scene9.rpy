@@ -10,7 +10,7 @@ translate francais v15s9_90379bab:
 translate francais v15s9_625adad2:
 
     # au "Hi! You're just the guy I wanted to see, haha."
-    au "Salut ! Tu es justement celui que je voulais voir, haha."
+    au "Salut ! T'es justement celui que je voulais voir, haha."
 
 # game/v15/scene9.rpy:33
 translate francais v15s9_05e8f70d:
@@ -88,7 +88,7 @@ translate francais v15s9_70c9becd:
 translate francais v15s9_37dcbadf:
 
     # u "(There's no reason why I can't go with her, at least for moral support. But, I should make it clear if I want something more from her...)"
-    u "(Il n'y a aucune raison pour que je ne puisse pas l'accompagner, au moins pour le soutien moral. Mais je devrais préciser si je souhaite quelque chose de plus de sa part...)"
+    u "(Il n'y a aucune raison pour que je puisse pas l'accompagner, au moins pour le soutien moral. Mais je devrais préciser si je souhaite quelque chose de plus de sa part...)"
 
 # game/v15/scene9.rpy:92
 translate francais v15s9_11d078ae:
@@ -106,13 +106,13 @@ translate francais v15s9_18251ecf:
 translate francais v15s9_b8a00762:
 
     # au "Well, no... Ha, you don't have to pretend. If you want to go as friends that sounds fine."
-    au "Eh bien, non... Ha, tu n'auras pas à faire semblant. Si tu veux y aller en tant qu'ami, c'est parfait."
+    au "Eh bien, non... Ha, t'auras pas à faire semblant. Si tu veux y aller en tant qu'ami, c'est parfait."
 
 # game/v15/scene9.rpy:123
 translate francais v15s9_a3304be8:
 
     # u "Haha, good. I'm not the best actor so that would've been a disaster. *Laughs*"
-    u "Haha, tant mieux. Je ne suis pas vraiment bon acteur, ça aurait été un désastre. *Rire*"
+    u "Haha, tant mieux. Je suis pas vraiment bon acteur, ça aurait été un désastre. *Rire*"
 
 # game/v15/scene9.rpy:128
 translate francais v15s9_d4258ef6:
@@ -160,7 +160,7 @@ translate francais v15s9_d8d25855:
 translate francais v15s9_89633f01:
 
     # au "Okay, don't let it get to your head! Slow down, big guy... *Laughs*"
-    au "Ok, ne laisse pas ça te monter à la tête ! Reste tranquille, mon grand... *Rire*"
+    au "Ok, laisse pas ça te monter à la tête ! Reste tranquille, mon grand... *Rire*"
 
 # game/v15/scene9.rpy:194
 translate francais v15s9_dd448273:
@@ -262,7 +262,7 @@ translate francais v15s9_0bf19869:
 translate francais v15s9_6ef5a42c:
 
     # au "Yes, and don't be late!"
-    au "Oui, ne sois pas en retard !"
+    au "Oui, sois pas en retard !"
 
 # game/v15/scene9.rpy:294
 translate francais v15s9_96fc3c75:
@@ -286,7 +286,7 @@ translate francais v15s9_0b347ce8:
 translate francais v15s9_12514573:
 
     # u "Sunday... Don't be late... Dress nice..."
-    u "Dimanche... Ne sois pas en retard... Habille-toi bien..."
+    u "Dimanche... Sois pas en retard... Habille-toi bien..."
 
 # game/v15/scene9.rpy:324
 translate francais v15s9_09c72222:
@@ -310,25 +310,25 @@ translate francais v15s9_ca955f9c:
 translate francais v15s9_8a5c3a3b:
 
     # au "Have you seen Nora? Nobody's heard from her since we landed at the airport. You know she broke up with Chris?"
-    au "Tu as vu Nora ? Personne n'a de nouvelles d'elle depuis que nous avons atterri, à l'aéroport. Tu sais qu'elle a rompu avec Chris ?"
+    au "T'as vu Nora ? Personne n'a de nouvelles d'elle depuis qu'on a atterri, à l'aéroport. Tu sais qu'elle a rompu avec Chris ?"
 
 # game/v15/scene9.rpy:343
 translate francais v15s9_6e57d54b:
 
     # u "Yeah, uh... Chris told us. It's kinda weird not seeing them together anymore. I was wondering where she was too."
-    u "Ouais, euh... Chris nous l'a dit. Ça fait bizarre de ne plus les voir ensemble. Moi aussi, je me demandais où elle était."
+    u "Ouais, euh... Chris nous l'a dit. Ça fait bizarre de plus les voir ensemble. Moi aussi, je me demandais où elle était."
 
 # game/v15/scene9.rpy:348
 translate francais v15s9_224f8ecd:
 
     # au "She's not answering her phone either, no matter who calls. It's all just so weird to me..."
-    au "Elle ne répond pas non plus à son téléphone, peu importe qui appelle. Tout ça m'a l'air très bizarre..."
+    au "Elle répond pas non plus à son téléphone, peu importe qui appelle. Tout ça m'a l'air très bizarre..."
 
 # game/v15/scene9.rpy:353
 translate francais v15s9_7a4e3046:
 
     # u "Agreed, I haven't seen her since the airport either. I actually sent her a text last night but nothing... I'll let you know if I hear anything."
-    u "Je suis d'accord, je ne l'ai pas vu non plus depuis l'aéroport. Je lui ai même envoyé un SMS hier soir, mais rien... Je te tiens au courant si j'ai des nouvelles."
+    u "Je suis d'accord, je l'ai pas vu non plus depuis l'aéroport. Je lui ai même envoyé un SMS hier soir, mais rien... Je te tiens au courant si j'ai des nouvelles."
 
 # game/v15/scene9.rpy:359
 translate francais v15s9_8ba74a47:
@@ -340,13 +340,13 @@ translate francais v15s9_8ba74a47:
 translate francais v15s9_d74b8317:
 
     # au "Me too. So, you don't know if anyone has heard from her?"
-    au "Moi aussi. Alors, tu ne sais pas si quelqu'un a eu des nouvelles d'elle ?"
+    au "Moi aussi. Alors, tu sais pas si quelqu'un a eu des nouvelles d'elle ?"
 
 # game/v15/scene9.rpy:369
 translate francais v15s9_9cda2a5e:
 
     # u "I don't, but I'll keep an eye out and if I hear anything I'll call."
-    u "Je ne sais pas, mais je vais garder l'œil ouvert et si j'apprends quelque chose, j'appellerai."
+    u "Je sais pas, mais je vais garder l'œil ouvert et si j'apprends quelque chose, j'appellerai."
 
 # game/v15/scene9.rpy:374
 translate francais v15s9_0c069f3b:

@@ -76,7 +76,7 @@ translate francais v15s5_78acadcf:
 translate francais v15s5_515174f4:
 
     # u "I should be fine... I'm not worried."
-    u "Ça devrait aller... Je ne suis pas inquiet."
+    u "Ça devrait aller... Je suis pas inquiet."
 
 # game/v15/scene5.rpy:101
 translate francais v15s5_42b937b1:
@@ -124,7 +124,7 @@ translate francais v15s5_0cbafb8b:
 translate francais v15s5_e4cf9cad:
 
     # ro "*Chuckles* That's my boy..."
-    ro "*Rire* C'est bien mon ami..."
+    ro "*Rire* C'est bien mon chér-..."
 
 # game/v15/scene5.rpy:130
 translate francais v15s5_01890312:
@@ -136,7 +136,7 @@ translate francais v15s5_01890312:
 translate francais v15s5_38128f49:
 
     # u "Yeah, of course. It was worth it, I think..."
-    u "Yeah, of course. It was worth it, I think..."
+    u "Oui, bien sûr. Je suis convaincu que ça en valait la peine..."
 
 # game/v15/scene5.rpy:140
 translate francais v15s5_b82223e2:
@@ -148,7 +148,7 @@ translate francais v15s5_b82223e2:
 translate francais v15s5_bf3389d3:
 
     # u "I- uh, I better go before your class starts showing up."
-    u "Je... euh, je ferais mieux d'y aller avant que ta classe ne commence à arriver."
+    u "Je... euh, je ferais mieux d'y aller avant que ta classe commence à arriver."
 
 # game/v15/scene5.rpy:150
 translate francais v15s5_a595b2fc:
@@ -244,7 +244,7 @@ translate francais v15s5_d61929fe:
 translate francais v15s5_8cda9f49:
 
     # u "It's not worth losing everything I've worked for."
-    u "Ça ne vaut au final pas la peine de perdre tout ce pour quoi j'ai travaillé."
+    u "Ça vaut au final pas la peine de perdre tout ce pour quoi j'ai travaillé."
 
 # game/v15/scene5.rpy:249
 translate francais v15s5_256c6294:
@@ -256,7 +256,7 @@ translate francais v15s5_256c6294:
 translate francais v15s5_3b64fb73:
 
     # u "How can you make it up to me? Are you going to take the drug test for me? *Scoffs* I don't think that'll work."
-    u "Comment pourrais-tu te faire pardonner ? Tu vas faire le dépistage de drogues à ma place ? *Rires moqueurs* Je crois pas que ça marche comme ça."
+    u "Comment tu pourrais te faire pardonner ? Tu vas faire le dépistage de drogues à ma place ? *Rires moqueurs* Je crois pas que ça marche comme ça."
 
 # game/v15/scene5.rpy:259
 translate francais v15s5_47089f8b:

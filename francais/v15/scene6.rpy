@@ -64,7 +64,7 @@ translate francais v15s6_16756d2d:
 translate francais v15s6_6ee6eec2:
 
     # u "(Eh, we found it.)"
-    u "(Et, on les a retrouvés.)"
+    u "(Et, maintenant on sait où ils sont.)"
 
 # game/v15/scene6.rpy:82
 translate francais v15s6_e3630660:
@@ -88,7 +88,7 @@ translate francais v15s6_300c73de:
 translate francais v15s6_ddc189d6:
 
     # u "Oh, Chloe... Holy shit, I- Is that all they took?"
-    u "Oh, Chloé... Putain de merde, je... Ils  ne t'ont pris que ça ?"
+    u "Oh, Chloé... Putain de merde, je... Ils t'ont pris que ça ?"
 
 # game/v15/scene6.rpy:103
 translate francais v15s6_9b21ce14:
@@ -100,7 +100,7 @@ translate francais v15s6_9b21ce14:
 translate francais v15s6_62aaf157:
 
     # u "(Or maybe they did find it but decided not to rob you clean... Ha.)"
-    u "(Ou peut-être qu'ils l'ont trouvée mais ont décidé de ne pas te dévaliser...)"
+    u "(Ou peut-être qu'ils l'ont trouvée mais ont décidé de pas te dévaliser...)"
 
 # game/v15/scene6.rpy:114
 translate francais v15s6_73d70587:
@@ -328,7 +328,7 @@ translate francais v15s6_90cc2f08:
 translate francais v15s6_35ef0df9:
 
     # u "If you keep going towards that, you will not fail."
-    u "Si tu continues à aller dans cette direction, tu n'échoueras pas."
+    u "Si tu continues à aller dans cette direction, t'échoueras pas."
 
 # game/v15/scene6.rpy:316
 translate francais v15s6_2da7faa3:
@@ -340,7 +340,7 @@ translate francais v15s6_2da7faa3:
 translate francais v15s6_d09aaf45:
 
     # u "*Sighs* I'm so sorry Chloe, I can't imagine what you're going through right now..."
-    u "*Soupirs* Je suis vraiment désolé pour toi Chloé, je ne peux pas imaginer ce que tu traverses en ce moment..."
+    u "*Soupirs* Je suis vraiment désolé pour toi Chloé, je peux pas imaginer ce que tu traverses en ce moment..."
 
 # game/v15/scene6.rpy:334
 translate francais v15s6_4518381f:
@@ -352,7 +352,7 @@ translate francais v15s6_4518381f:
 translate francais v15s6_cd83087a:
 
     # u "I know you are, there's no denying that, ha. But-"
-    u "Je sais que c'est le cas, on ne peut pas le nier. Mais-"
+    u "Je sais que c'est le cas, on peut pas le nier. Mais-"
 
 # game/v15/scene6.rpy:344
 translate francais v15s6_ebdb97aa:
@@ -382,7 +382,7 @@ translate francais v15s6_da2e7020:
 translate francais v15s6_716dbf24:
 
     # u "Damn straight."
-    u "C'est ça, bien droite !"
+    u "C'est ça, reste bien droite !"
 
 # game/v15/scene6.rpy:371
 translate francais v15s6_7e5daeee:
@@ -400,13 +400,13 @@ translate francais v15s6_d97e05f8:
 translate francais v15s6_7a22b4ca:
 
     # u "We won't. Don't even think about it."
-    u "On ne laissera pas ça arriver. N'y pense même pas."
+    u "On laissera pas ça arriver. N'y pense même pas."
 
 # game/v15/scene6.rpy:388
 translate francais v15s6_e3ae3a4c:
 
     # u "You won't. I know you won't."
-    u "Tu ne laissera pas ça arriver. Je sais que tu ne lâcheras rien."
+    u "Tu laissera pas ça arriver. Je sais que tu lâcheras rien."
 
 # game/v15/scene6.rpy:418
 translate francais v15s6_8d36fbc6:
@@ -460,7 +460,7 @@ translate francais v15s6_e897d494:
 translate francais v15s6_00566635:
 
     # u "Don't mention it."
-    u "Ne me remercie pas, je suis ravi d'être là pour toi."
+    u "Me remercie pas, je suis ravi d'être là pour toi."
 
 # game/v15/scene6.rpy:472
 translate francais v15s6_bf1f7e84:
@@ -556,7 +556,7 @@ translate francais v15s6_1bce31ed:
 translate francais v15s6_aff97532:
 
     # u "Chloe? Why do you care so much about two random people supporting you? Don't only Chicks have the right to vote?"
-    u "Chloé ? Pourquoi tiens-tu tant à ce que deux personnes au hasard te soutiennent ? Il n'y a pas que les Chicks qui ont le droit de voter ?"
+    u "Chloé ? Pourquoi tiens-tu tant à ce que deux personnes au hasard te soutiennent ? Y a pas que les Chicks qui ont le droit de voter ?"
 
 # game/v15/scene6.rpy:572
 translate francais v15s6_ce20289e:
@@ -580,7 +580,7 @@ translate francais v15s6_7d1bb57d:
 translate francais v15s6_a4f2fddb:
 
     # u "And the shit-talking Lindsey never stops either... Haha."
-    u "Et le discours de merde contre Lindsey ne s'arrête jamais non plus... Haha."
+    u "Et le discours de merde contre Lindsey s'arrête jamais non plus... Haha."
 
 # game/v15/scene6.rpy:586
 translate francais v15s6_07c620e3:
@@ -592,7 +592,7 @@ translate francais v15s6_07c620e3:
 translate francais v15s6_93f847f3:
 
     # u "You're a natural for this. *Chuckles*"
-    u "Tu as un don naturel pour ça. *Rire*"
+    u "T'as un don naturel pour ça. *Rire*"
 
 # game/v15/scene6.rpy:596
 translate francais v15s6_1b34bde3:
@@ -694,7 +694,7 @@ translate francais strings:
 
     # game/v15/scene6.rpy:164
     old "You have a diary?"
-    new "Tu as un journal intime ?"
+    new "T'as un journal intime ?"
 
     # game/v15/scene6.rpy:164
     old "Why your diary?"

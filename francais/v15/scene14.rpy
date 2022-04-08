@@ -70,7 +70,7 @@ translate francais v15s14_95102d55:
 translate francais v15s14_d210de31:
 
     # u "Just don't slip me anymore fucking drugs, okay?"
-    u "Mais ne me refile pas d'autres putains de drogues, ok ?"
+    u "Mais me refile pas d'autres putains de drogues, ok ?"
 
 # game/v15/scene14.rpy:87
 translate francais v15s14_e181a48d:
@@ -106,8 +106,8 @@ translate francais strings:
 
     # game/v15/scene14.rpy:32
     old "I'm not happy"
-    new "Je ne suis pas content"
+    new "Je suis pas content"
 
     # game/v15/scene14.rpy:75
     old "Don't drug me"
-    new "Ne me drogue pas"
+    new "Me drogue pas"

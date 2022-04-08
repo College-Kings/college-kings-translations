@@ -58,7 +58,7 @@ translate francais v15s8_18de58f1:
 translate francais v15s8_2fb5af53:
 
     # cl "Our options are very different, but either one can be the perfect plan as long as we do it right."
-    cl "Les options qu'on propose sont très différentes, mais l'une ou l'autre peut être le plan parfait, à partir du moment où on la fait correctement."
+    cl "Les options qu'on propose sont très différentes, mais l'une ou l'autre peut être le plan parfait, à partir du moment où on le fait correctement."
 
 # game/v15/scene8.rpy:67
 translate francais v15s8_e63b039e:
@@ -76,7 +76,7 @@ translate francais v15s8_c3ef7d46:
 translate francais v15s8_ddca9c14:
 
     # u "If you're willing to play dirty and put our feelings aside, this plan can turn tons of people against her and towards you."
-    u "Si tu es prêt à la jouer sale et à mettre nos sentiments de côté, ce plan peut monter des tonnes de personnes contre elle et vers toi."
+    u "Si t'es prête à la jouer sale et à mettre nos sentiments de côté, ce plan peut monter des tonnes de personnes contre elle et vers toi."
 
 # game/v15/scene8.rpy:143
 translate francais v15s8_f622df5f:
@@ -106,7 +106,7 @@ translate francais v15s8_fbdf5feb:
 translate francais v15s8_f2068182:
 
     # u "That's what she said."
-    u "That's what she said."
+    u "C'est ce qu'elle a dit."
 
 # game/v15/scene8.rpy:165
 translate francais v15s8_fea3d640:
@@ -118,7 +118,7 @@ translate francais v15s8_fea3d640:
 translate francais v15s8_c1487456:
 
     # u "If you can lower tuition fees, people are really going to love you. They're going to think you have tons of power, you know?"
-    u "Si tu peux faire baisser les frais de scolarité, les gens vont vraiment t'adorer. Ils vont penser que tu as des tonnes de pouvoir, tu vois ?"
+    u "Si tu peux faire baisser les frais de scolarité, les gens vont vraiment t'adorer. Ils vont penser que t'as des tonnes de pouvoir, tu vois ?"
 
 # game/v15/scene8.rpy:181
 translate francais v15s8_572fd02a:
@@ -184,7 +184,7 @@ translate francais v15s8_1df0d241:
 translate francais v15s8_a7525505:
 
     # u "Okay, I'll leave you to it. I'm here for you if you need anything."
-    u "Ok. Alors, je vais te laisser. Je reste à ta disposition, si tu as besoin de quelque chose."
+    u "Ok. Alors, je vais te laisser. Je reste à ta disposition, si t'as besoin de quelque chose."
 
 # game/v15/scene8.rpy:228
 translate francais v15s8_fa2a48f7:

@@ -76,7 +76,7 @@ translate francais v15s3_9205442d:
 translate francais v15s3_8b632c75:
 
     # gr "Again, I'm sorry. I- We obviously didn't think this through and sadly we made a bad decision as a group."
-    gr "Encore une fois, je suis désolé. Je... On n'a apparemment pas vraiment réfléchi et malheureusement, on a pris une mauvaise décision de groupe."
+    gr "Encore une fois, je suis désolé. Je... On a apparemment pas vraiment réfléchi et malheureusement, on a pris une mauvaise décision de groupe."
 
 # game/v15/scene3.rpy:87
 translate francais v15s3_ab398d09:
@@ -220,7 +220,7 @@ translate francais v15s3_a2e8d2c6:
 translate francais v15s3_35dfa768:
 
     # u "This is what we get for joining the Apes. *Chuckles*"
-    u "C'est ce qu'on récolte en rejoignant les Apes. *Rires*"
+    u "C'est ce qu'on récolte en rejoignant les Apes. *Rire*"
 
 # game/v15/scene3.rpy:233
 translate francais v15s3_b1f55b05:
@@ -274,7 +274,7 @@ translate francais v15s3_57ae9944:
 translate francais v15s3_81488685:
 
     # u "(I'll just go check on Autumn at the shelter...)"
-    u "(Je vais voir comment va Autumn au refuge...)"
+    u "(Je vais voir au refuge, comment va Autumn...)"
 
 translate francais strings:
 

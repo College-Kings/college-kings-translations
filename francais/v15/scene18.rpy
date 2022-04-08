@@ -16,7 +16,7 @@ translate francais v15s18_57ae9944:
 translate francais v15s18_70e7f8ec:
 
     # u "(There's no turning back now...)"
-    u "(Bon, je ne peux pas revenir en arrière maintenant...)"
+    u "(Bon, je peux pas revenir en arrière maintenant...)"
 
 # game/v15/scene18.rpy:39
 translate francais v15s18_3044e009:
@@ -46,7 +46,7 @@ translate francais v15s18_9841a5c9:
 translate francais v15s18_b04629e1:
 
     # u "*Laughs* Okay, okay... You've completely roasted me and I'm not even inside yet."
-    u "*Rire* Ok, ok... Tu m'as totalement cramé alors que je ne suis même pas encore à l'intérieur."
+    u "*Rire* Ok, ok... Tu m'as totalement cramé alors que je suis même pas encore à l'intérieur."
 
 # game/v15/scene18.rpy:83
 translate francais v15s18_30dba9fb:
@@ -118,7 +118,7 @@ translate francais v15s18_b923fd87:
 translate francais v15s18_0d61302c:
 
     # imre "It's Halloween up in this bitch!"
-    imre "C'est Halloween dans cette putain d'baraque !"
+    imre "C'est Halloween dans la place !"
 
 # game/v15/scene18.rpy:204
 translate francais v15s18_ddaa7bca:
@@ -268,19 +268,19 @@ translate francais v15s18_57258cce:
 translate francais v15s18_b26bb518:
 
     # imre "Ah... It's this stupid list of challenges I've been trying to do at a couple of parties this week."
-    imre "Ah... C'est une stupide liste de défis que je tente de faire à plusieurs soirées, cette semaine."
+    imre "Ah... C'est une liste de défis à la con que j'tente de faire à plusieurs soirées, cette semaine."
 
 # game/v15/scene18.rpy:356
 translate francais v15s18_d7de6d95:
 
     # imre "I swear it's impossible to complete any of these. All I've gotten so far is a slap in the face, and that's not even on the list!"
-    imre "J'te jure ! C'est carrément impossible de réussir un d'ces défis. Tout c'que j'ai réussi à faire pour l'instant, c'est d'me prendre une baffe, et c'est même pas sur la liste !"
+    imre "J'te jure ! C'est carrément impossible d'réussir un d'ces défis. Tout c'que j'ai réussi à faire pour l'instant, c'est d'me prendre une baffe, et c'est même pas sur la liste !"
 
 # game/v15/scene18.rpy:361
 translate francais v15s18_964f88d8:
 
     # u "Haha, come on. It can't be that hard... What kind of things are on the list?"
-    u "Haha, allez. Ça ne doit pas être si difficile... Quel genre de trucs sont sur la liste ?"
+    u "Haha, allez. Ça doit pas être si difficile... Quel genre de trucs sont sur la liste ?"
 
 # game/v15/scene18.rpy:366
 translate francais v15s18_91dd3a69:

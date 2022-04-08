@@ -4,7 +4,7 @@
 translate francais v15s13_d180ac36:
 
     # u "(Lauren's party isn't for a while so maybe I should get some studying in... It's not fun, but neither is failing.)"
-    u "(La fête de Lauren n'a pas lieu avant un moment alors je devrais peut-être étudier un peu.... C'est pas marrant, mais échouer non plus.)"
+    u "(La fête de Lauren a pas lieu avant un moment alors je devrais peut-être étudier un peu.... C'est pas marrant, mais échouer non plus.)"
 
 # game/v15/scene13.rpy:38
 translate francais v15s13_03cd0b3b:
@@ -88,7 +88,7 @@ translate francais v15s13_PhoneContinue_177d62d7:
 translate francais v15s13_PhoneContinue_d180ac36:
 
     # u "(Lauren's party isn't for a while so maybe I should get some studying in... It's not fun, but neither is failing.)"
-    u "(La fête de Lauren n'a pas lieu avant un moment alors je devrais peut-être étudier un peu.... C'est pas marrant, mais échouer non plus.)"
+    u "(La fête de Lauren a pas lieu avant un moment alors je devrais peut-être étudier un peu.... C'est pas marrant, mais échouer non plus.)"
 
 # game/v15/scene13.rpy:187
 translate francais v15s13_PhoneContinue_03cd0b3b:
@@ -202,13 +202,13 @@ translate francais v15s13_PhoneContinue_68aafa48:
 translate francais v15s13_PhoneContinue_023bfa3c:
 
     # u "Are you serious right now? You're telling me that you never have donuts, or cake, or cola?"
-    u "T'es sérieux là ? T'es en train de me dire que tu ne prends jamais de donuts, de gâteau ou de cola ?"
+    u "T'es sérieux là ? T'es en train de me dire que tu prends jamais de donuts, de gâteau ou de cola ?"
 
 # game/v15/scene13.rpy:314
 translate francais v15s13_PhoneContinue_00196853:
 
     # gr "You think I got to be the fight king by eating that shit? *Scoffs*"
-    gr "T'as cru que j'étais devenu le Fight King en mangeant ces merdes ? *Rires moqueurs*"
+    gr "T'as cru que j'étais devenu le Fight King en mangeant ces merdes ? *Rire moqueur*"
 
 # game/v15/scene13.rpy:319
 translate francais v15s13_PhoneContinue_05eaf3de:

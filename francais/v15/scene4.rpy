@@ -364,7 +364,7 @@ translate francais v15s4_12b88fe1:
 translate francais v15s4_149deff5:
 
     # aut "*Chuckles* Hopefully we can find you a good home."
-    aut "*Rire* Avec un peu de chance, nous pourrons te trouver un bon foyer."
+    aut "*Rire* Avec un peu de chance, on pourra te trouver un bon foyer."
 
 # game/v15/scene4.rpy:382
 translate francais v15s4_fa30eb21:
@@ -1066,7 +1066,7 @@ translate francais v15s4_dog_65596d7f:
 translate francais v15s4_dog_f86afa9a:
 
     # u "That's a very diplomatic way of putting it. *Chuckles*"
-    u "C'est une façon très diplomatique de voir les choses. *Rire*."
+    u "C'est une façon très diplomatique de voir les choses. *Rire*"
 
 # game/v15/scene4.rpy:1102
 translate francais v15s4_dog_f294d18d:
@@ -1300,7 +1300,7 @@ translate francais v15s4_dog_b585cc4e:
 translate francais v15s4_dog_24515cea:
 
     # u "You're honestly better off without that guy, bud. *Laughs* You'll find your forever home soon."
-    u "Sincèrement, tu es mieux sans ce type, mon pote. *Rire* Tu trouveras bientôt une maison où vivre toute ta vie."
+    u "Sincèrement, t'es mieux sans ce type, mon pote. *Rire* Tu trouveras bientôt une maison où vivre toute ta vie."
 
 # game/v15/scene4.rpy:1305
 translate francais v15s4_dog_dcffd5c5:
@@ -1312,7 +1312,7 @@ translate francais v15s4_dog_dcffd5c5:
 translate francais v15s4_dog_e1e1af52:
 
     # u "Are you hungry? Want some food?"
-    u "Tu as faim ? Tu veux manger ?"
+    u "T'as faim ? Tu veux manger ?"
 
 # game/v15/scene4.rpy:1317
 translate francais v15s4_dog_9490c687:
@@ -1372,7 +1372,7 @@ translate francais v15s4_dog_5dcad1e0:
 translate francais v15s4_dog_4ad2bd7b:
 
     # u "(Got a pretty good workout this morning. Almost as good as the gym, haha.)"
-    u "( Ce matin, m'a fait faire une bonne séance d'entraînement. Presque aussi bien qu'en salle de gym, haha.)"
+    u "(Ce matin, m'a fait faire une bonne séance d'entraînement. Presque aussi bien qu'en salle de gym, haha.)"
 
 # game/v15/scene4.rpy:1367
 translate francais v15s4_dog_758f3f64:
@@ -1540,7 +1540,7 @@ translate francais v15s4_dog_a94d3b66:
 translate francais v15s4_dog_4ffcf284:
 
     # u "I have a few ideas already, but do you have any birthday gift suggestions?"
-    u "J'ai déjà quelques idées, mais aurais-tu des suggestions de cadeaux d'anniversaire ?"
+    u "J'ai déjà quelques idées, mais tu aurais des suggestions de cadeaux d'anniversaire ?"
 
 # game/v15/scene4.rpy:1625
 translate francais v15s4_dog_7f7a1471:
@@ -1624,7 +1624,7 @@ translate francais v15s4_dog_8c249081:
 translate francais v15s4_dog_16cc366c:
 
     # u "That's really helpful. Thanks, Autumn."
-    u "Tu as été très utile. Merci, Autumn."
+    u "T'as été très utile. Merci, Autumn."
 
 # game/v15/scene4.rpy:1683
 translate francais v15s4_dog_7e1c1d63:

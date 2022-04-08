@@ -10,7 +10,7 @@ translate francais v15s1_0979a483:
 translate francais v15s1_e776e773:
 
     # u "There's absolutely no way that I'm telling Chris about me and Nora! How is that going to help anything or anyone?"
-    u "Il n'y a pas moyen que je parle à Chris de Nora et moi ! En quoi ça va aider quoi que ce soit ou qui que ce soit, de toute façon ?"
+    u "Y a pas moyen que je parle à Chris de Nora et moi ! En quoi ça va aider quoi que ce soit ou qui que ce soit, de toute façon ?"
 
 # game/v15/scene1.rpy:84
 translate francais v15s1_59acce17:
@@ -70,13 +70,13 @@ translate francais v15s1_befddc45:
 translate francais v15s1_e5404c4a:
 
     # u "He still didn't give her the love or affection that she was asking for."
-    u "Il ne lui a jamais donné l'amour ou l'affection qu'elle demandait."
+    u "Il lui a jamais donné l'amour ou l'affection qu'elle demandait."
 
 # game/v15/scene1.rpy:133
 translate francais v15s1_11081429:
 
     # u "Nora. It's not my problem that she didn't have enough patience to wait until Chris was \"less busy\" for her."
-    u "Nora. C'est pas mon problème si elle n'a pas eu assez de patience pour attendre que Chris soit \"moins occupé\" pour elle."
+    u "Nora. C'est pas mon problème si elle a pas eu assez de patience pour attendre que Chris soit \"moins occupé\" pour elle."
 
 # game/v15/scene1.rpy:138
 translate francais v15s1_8d8da763:
@@ -94,7 +94,7 @@ translate francais v15s1_3270258f:
 translate francais v15s1_c0599f8e:
 
     # u "Nora just wanted things to get better. She wanted it to feel like nothing was changing, but it was, and still is. So..."
-    u "Nora voulait seulement que les choses aillent mieux. Elle voulait avoir l'impression que rien ne changeait, mais pourtant c'était le cas et ça l'est toujours. Alors..."
+    u "Nora voulait seulement que les choses aillent mieux. Elle voulait avoir l'impression que rien changeait, mais pourtant c'était le cas et ça l'est toujours. Alors..."
 
 # game/v15/scene1.rpy:147
 translate francais v15s1_7621799a:
@@ -118,7 +118,7 @@ translate francais v15s1_37db0da0:
 translate francais v15s1_09d79376:
 
     # u "Imre, I know, and I'm sorry that you got dragged in, but you have to realize the truth."
-    u "Imre, je sais, et je suis vraiment désolé que tu aies été entraîné dans cette histoire, mais tu dois te rendre compte de la vérité."
+    u "Imre, je sais, et je suis vraiment désolé que t'aies été entraîné dans cette histoire, mais tu dois te rendre compte de la vérité."
 
 # game/v15/scene1.rpy:168
 translate francais v15s1_54c21895:
@@ -148,7 +148,7 @@ translate francais v15s1_63b7fb6b:
 translate francais v15s1_0fdb43a4:
 
     # u "Telling Chris about Nora and I will only tear the Wolves apart and make things even worse."
-    u "Dire à Chris pour Nora et moi ne fera que déchirer les Wolves et rendre les choses encore pires."
+    u "Dire à Chris pour Nora et moi fera que déchirer les Wolves et rendre les choses encore pires."
 
 # game/v15/scene1.rpy:194
 translate francais v15s1_9f8d5c57:
@@ -286,7 +286,7 @@ translate francais v15s1_c7fd94ac:
 translate francais v15s1_31d52cc6:
 
     # imre "Yeah. You know, that show about the group of friends? They fall in love, out of love, and there's a monkey..."
-    imre "Ouais. Tu sais, la série sur le groupe d'amis ? Ils tombent amoureux, se séparent, et il y a un singe..."
+    imre "Ouais. Tu sais, la série sur le groupe d'amis ? Ils tombent amoureux, se séparent, et y a un singe..."
 
 # game/v15/scene1.rpy:325
 translate francais v15s1_c96a55ba:
@@ -358,7 +358,7 @@ translate francais v15s1_8135f968:
 translate francais v15s1_3856f261:
 
     # imre "Yeah. I mean, I know this whole break up is totally on Nora because she's been acting like a bitch, but..."
-    imre "Ouais. J'sais que toute cette rupture est entièrement d'la faute de Nora, car elle s'est comportée comme une garce, mais..."
+    imre "Ouais. J'sais que toute cette rupture est entièrement d'la faute de Nora. Elle s'est comportée comme une garce, mais..."
 
 # game/v15/scene1.rpy:393
 translate francais v15s1_859a91f4:
@@ -418,7 +418,7 @@ translate francais v15s1_fca94b6a:
 translate francais v15s1_bd586ec4:
 
     # u "So, we have no room to judge, but I know damn well that all of this isn't just because of Nora."
-    u "Donc, on n'a pas le droit de juger, mais je sais très bien que tout ça n'est pas seulement à cause de Nora."
+    u "Donc, on a pas le droit de juger, mais je sais très bien que tout ça n'est pas seulement à cause de Nora."
 
 # game/v15/scene1.rpy:443
 translate francais v15s1_saynothing_6bcd435f:
@@ -484,7 +484,7 @@ translate francais v15s1_saynothing_57ae9944:
 translate francais v15s1_saynothing_0e8dfefb:
 
     # imre "If we don't do something, Nora's going to hook up with a random fuckboy and then that'll be the end of it forever."
-    imre "Si on fait rien, Nora va s'mettre avec un connard au hasard et ça sera fini pour de bon."
+    imre "Si on fait rien, Nora va s'mettre avec un connard au hasard et ça s'ra fini pour de bon."
 
 # game/v15/scene1.rpy:502
 translate francais v15s1_saynothing_a05c7dba:
@@ -586,7 +586,7 @@ translate francais v15s1_PhoneContinueAut_b7b0c8a3:
 translate francais v15s1_PhoneContinueAut_1c0447be:
 
     # u "(I'd better set an alarm so I'm not late.)"
-    u "(Je devrais mettre une alarme pour ne pas être en retard.)"
+    u "(Je devrais mettre une alarme pour pas être en retard.)"
 
 # game/v15/scene1.rpy:622
 translate francais v15s1_PhoneContinueAut_13fff0aa:

@@ -334,7 +334,7 @@ translate francais v15s2_a03a4119:
 translate francais v15s2_4e7e732d:
 
     # u "(Damn, we're so lucky he didn't hear us.)"
-    u "(Putain, on a de la chance qu'il ne nous ait pas entendus.)"
+    u "(Putain, on a de la chance qu'il nous ait pas entendus.)"
 
 # game/v15/scene2.rpy:326
 translate francais v15s2_77517535:

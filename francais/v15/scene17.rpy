@@ -28,7 +28,7 @@ translate francais v15s17_6e535baf:
 translate francais v15s17_dd308c08:
 
     # u "(I don't know what he means by that, but...) Ha, sure."
-    u "(Je ne sais pas ce qu'il entend par là, mais...) Ha, bien sûr."
+    u "(Je sais pas ce qu'il entend par là, mais...) Ha, bien sûr."
 
 # game/v15/scene17.rpy:99
 translate francais v15s17_15e6779c:
@@ -130,7 +130,7 @@ translate francais v15s17_c984473a:
 translate francais v15s17_4d05d393:
 
     # u "I don't know, are there any other options?"
-    u "Je ne sais pas, avez-vous d'autres idées ?"
+    u "Je sais pas, avez-vous d'autres idées ?"
 
 # game/v15/scene17.rpy:181
 translate francais v15s17_994da75d:
@@ -286,7 +286,7 @@ translate francais v15s17_a2b14085:
 translate francais v15s17_846a22df:
 
     # u "No, it's a gift for sentimental reasons. She won't be expecting it."
-    u "Non, c'est un cadeau de nature sentimentale. Elle ne s'y attendra pas."
+    u "Non, c'est un cadeau de nature sentimentale. Elle s'y attendra pas."
 
 # game/v15/scene17.rpy:334
 translate francais v15s17_6148bbe5:
@@ -358,7 +358,7 @@ translate francais v15s17_gift_choice_f8ddd7a5:
 translate francais v15s17_gift_choice_ad5b1fb1:
 
     # u "It's fine, haha. The party is really soon, so I didn't have a lot of time to think about it."
-    u "C'est bon, haha. La fête est imminente, donc je n'ai pas vraiment le temps de réfléchir à tout ça."
+    u "C'est bon, haha. La fête est imminente, donc j'ai pas vraiment le temps de réfléchir à tout ça."
 
 # game/v15/scene17.rpy:416
 translate francais v15s17_gift_choice_190fb209:
@@ -490,7 +490,7 @@ translate francais v15s17_giftwrap_a2f18a38:
 translate francais v15s17_giftwrap_c05a22e9:
 
     # u "I don't think s- Oh, wait... There is."
-    u "Je ne crois pas que ça- Oh si, attendez... Il y a."
+    u "Je crois pas que ça- Oh si, attendez... Il y a."
 
 # game/v15/scene17.rpy:561
 translate francais v15s17_giftwrap_c51f5d7d:
@@ -520,7 +520,7 @@ translate francais v15s17_giftwrap_fc55f26e:
 translate francais v15s17_giftwrap_57429fd6:
 
     # u "There's really no point if it's the only one you have. *Laughs* I don't have time to stop anywhere else."
-    u "Ça ne sert à rien si c'est le seul que vous avez. *Rire* Je n'ai pas le temps d'aller ailleurs."
+    u "Ça sert à rien si c'est le seul que vous avez. *Rire* J'ai pas le temps d'aller ailleurs."
 
 # game/v15/scene17.rpy:586
 translate francais v15s17_giftwrap_16041e2a:
@@ -578,7 +578,7 @@ translate francais strings:
 
     # game/v15/scene17.rpy:27
     old "That's fair. I hope it all clears up for you soon. Just try to stay out of it, yeah?"
-    new ""
+    new "C'est juste. J'espère que tout s'éclaircira bientôt pour toi. Essaie juste de rester en dehors de tout ça, ouais ?"
 
     # game/v15/scene17.rpy:32
     old "So, when do you get back to America?"

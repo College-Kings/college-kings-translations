@@ -208,7 +208,7 @@ translate francais v15s18b_d8355845:
 translate francais v15s18b_7274946c:
 
     # u "I didn't have much time and there weren't many options."
-    u "Je n'avais pas beaucoup de temps et il n'y avait pas beaucoup de choix."
+    u "J'avais pas beaucoup de temps et y avait pas beaucoup de choix."
 
 # game/v15/scene18b.rpy:207
 translate francais v15s18b_c5fa73e6:
@@ -370,7 +370,7 @@ translate francais v15s18b_845453cb:
 translate francais v15s18b_f959a837:
 
     # u "Couldn't have done it without you!"
-    u "Je n'aurais pas pu y arriver sans toi !"
+    u "J'aurais pas pu y arriver sans toi !"
 
 # game/v15/scene18b.rpy:376
 translate francais v15s18b_358956d9:
@@ -520,7 +520,7 @@ translate francais v15s18b_91a8fbf7:
 translate francais v15s18b_9fa86bd0:
 
     # u "It's a present for your birthday, Lauren. I don't see the problem."
-    u "C'est un cadeau pour ton anniversaire, Lauren. Je ne vois pas où est le problème."
+    u "C'est un cadeau pour ton anniversaire, Lauren. Je vois pas où est le problème."
 
 # game/v15/scene18b.rpy:541
 translate francais v15s18b_d4d49aa1:

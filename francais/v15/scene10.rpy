@@ -52,7 +52,7 @@ translate francais v15s10_7bf01dff:
 translate francais v15s10_6d5c19a1:
 
     # u "You haven't even looked at it yet haha."
-    u "Tu ne l'as même pas encore regardé, haha."
+    u "Tu l'as même pas encore regardé, haha."
 
 # game/v15/scene10.rpy:93
 translate francais v15s10_e06e9f91:
@@ -64,7 +64,7 @@ translate francais v15s10_e06e9f91:
 translate francais v15s10_7b0b0c14:
 
     # u "Sadly, my guy, the girl isn't for sale."
-    u "Désolé, mec, la fille n'est pas à vendre."
+    u "Désolé, mec, la fille est pas à vendre."
 
 # game/v15/scene10.rpy:103
 translate francais v15s10_f7831881:
@@ -238,7 +238,7 @@ translate francais v15s10_90b42283:
 translate francais v15s10_d4510b06:
 
     # male_buyer "I'm out."
-    male_buyer "Je me casse."
+    male_buyer "J'me casse."
 
 # game/v15/scene10.rpy:254
 translate francais v15s10_5663496a:
@@ -562,7 +562,7 @@ translate francais v15s10_d276a5ae:
 translate francais v15s10_3486e98f:
 
     # u "Uh, I don't know... I think we can go a little higher than that."
-    u "Euh, je ne sais pas... Je crois qu'on pourrait augmenter un peu, non ?"
+    u "Euh, je sais pas... Je crois qu'on pourrait augmenter un peu, non ?"
 
 # game/v15/scene10.rpy:667
 translate francais v15s10_09d4f994:
@@ -664,7 +664,7 @@ translate francais v15s10_b7495dbe:
 translate francais v15s10_0cc3c439:
 
     # u "Okay, back to the janitor's closet?"
-    u "Ok, retourne dans le local du concierge ?"
+    u "Ok, on retourne dans le local du concierge ?"
 
 # game/v15/scene10.rpy:814
 translate francais v15s10_a1b0ba05:
@@ -772,7 +772,7 @@ translate francais v15s10_973e720e:
 translate francais v15s10_0d87c836:
 
     # u "Just run your hand across that bodywork... They don't make them like this anymore."
-    u "Passez simplement votre main sur cette carrosserie... On n'en fait plus des comme ça."
+    u "Passez simplement votre main sur cette carrosserie... On en fait plus des comme ça."
 
 # game/v15/scene10.rpy:917
 translate francais v15s10_4a530135:
@@ -790,7 +790,7 @@ translate francais v15s10_cf785d27:
 translate francais v15s10_23cda8e4:
 
     # u "I promise I'm not lying to you, this thing is-"
-    u "Je vous promets que je ne vous mens pas, cette machine est..."
+    u "Je vous promets que je vous mens pas, cette machine est..."
 
 # game/v15/scene10.rpy:932
 translate francais v15s10_85287f38:
@@ -952,7 +952,7 @@ translate francais v15s10_82e25777_1:
 translate francais v15s10_0904a47e:
 
     # u "We can't accept that, I'm sorry. Can you go any higher?"
-    u "Nous ne pouvons pas accepter ça, je suis désolé. Pouvez-vous augmenter votre prix ?"
+    u "On peut pas accepter ça, je suis désolé. Pouvez-vous augmenter votre prix ?"
 
 # game/v15/scene10.rpy:1064
 translate francais v15s10_1cf2e139:
@@ -1000,7 +1000,7 @@ translate francais v15s10_272add54:
 translate francais v15s10_ccc8ae3e:
 
     # u "Yeah, but I think she'll look after it. And now you have more money."
-    u "Ouais, mais je suis sûr qu'elle va en prendre soin. Et maintenant tu as plus d'argent."
+    u "Ouais, mais je suis sûr qu'elle va en prendre soin. Et maintenant t'as plus d'argent."
 
 # game/v15/scene10.rpy:1171
 translate francais v15s10_0daa9e62:
@@ -1096,7 +1096,7 @@ translate francais v15s10_c5446f18:
 translate francais v15s10_7f4d3de8:
 
     # li "Yeah, it's going to a good owner, and we need whatever we can get."
-    li "Ouais, elle va aller chez une bonne propriétaire, et nous avons besoin de tout ce que nous pourrions obtenir."
+    li "Ouais, elle va aller chez une bonne propriétaire, et on a besoin de tout ce qu'on peut avoir."
 
 # game/v15/scene10.rpy:1272
 translate francais v15s10_08a129e7:
@@ -1156,7 +1156,7 @@ translate francais v15s10_fcc18885_2:
 translate francais v15s10_917223a5:
 
     # li "Let's head back to campus now and plan the next phase."
-    li "Retournons maintenant au campus et planifions la phase suivante."
+    li "Maintenant on retourne au campus et on va planifier la phase suivante."
 
 # game/v15/scene10.rpy:1367
 translate francais v15s10_d152c937:
