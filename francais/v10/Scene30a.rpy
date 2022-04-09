@@ -4,7 +4,7 @@
 translate francais v10_emily_course_c30e3e49:
 
     # u "(I should probably just get straight to studying. Getting a headstart on some of that Econ work might be a good idea.)"
-    u "(Je devrais me mettre directement à étudier. Prendre de l'avance sur certains de ces travaux d'économie pourrait être une bonne idée)."
+    u "(Je devrais me mettre directement à étudier. Prendre de l'avance sur certains de ces travaux d'économie pourrait être une bonne idée.)"
 
 # game/v10/Scene30a.rpy:24
 translate francais v10_emily_course_329478eb:

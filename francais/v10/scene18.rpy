@@ -412,7 +412,7 @@ translate francais v10_call_with_lauren2_c576370b:
 translate francais v10_call_with_lauren2_501c1eb5:
 
     # u "(Wow, that was quite a long call, but I feel like I really learned a lot about her… It’s not that late, maybe I can go for a bit of a walk before going to bed.)"
-    u "(Wow, c'était un appel assez long, mais j'ai l'impression d'avoir vraiment appris beaucoup de choses sur elle... Il n'est pas si tard, peut-être que je peux aller faire un petit tour avant d'aller me coucher)."
+    u "(Wow, c'était un appel assez long, mais j'ai l'impression d'avoir vraiment appris beaucoup de choses sur elle... Il n'est pas si tard, peut-être que je peux aller faire un petit tour avant d'aller me coucher.)"
 
 # game/v10/scene18.rpy:367
 translate francais v10_call_with_lauren2_a8c3537e_1:
@@ -826,7 +826,7 @@ translate francais v10_call_with_lauren2_c576370b_1:
 translate francais v10_call_with_lauren2_501c1eb5_1:
 
     # u "(Wow, that was quite a long call, but I feel like I really learned a lot about her… It’s not that late, maybe I can go for a bit of a walk before going to bed.)"
-    u "(Wow, c'était un appel assez long, mais j'ai l'impression d'avoir vraiment appris beaucoup de choses sur elle... Il n'est pas si tard, peut-être que je peux aller faire un petit tour avant d'aller me coucher)."
+    u "(Wow, c'était un appel assez long, mais j'ai l'impression d'avoir vraiment appris beaucoup de choses sur elle... Il n'est pas si tard, peut-être que je peux aller faire un petit tour avant d'aller me coucher.)"
 
 translate francais strings:
 
@@ -1012,7 +1012,7 @@ translate francais v10_call_with_lauren2_0517d272:
 translate francais v10_call_with_lauren2_a102f141:
 
     # u "(Wow, that was quite a long call, but I feel like I really learned a lot about her... It's not that late, maybe I can go for a bit of a walk before going to bed.)"
-    u "(Wow, c'était un appel assez long, mais j'ai l'impression d'avoir vraiment appris beaucoup de choses sur elle... Il n'est pas si tard, peut-être que je peux aller faire un petit tour avant d'aller me coucher)."
+    u "(Wow, c'était un appel assez long, mais j'ai l'impression d'avoir vraiment appris beaucoup de choses sur elle... Il n'est pas si tard, peut-être que je peux aller faire un petit tour avant d'aller me coucher.)"
 
 # game/v10/scene18.rpy:402
 translate francais v10_call_with_lauren2_b46c8115_1:
@@ -1186,4 +1186,4 @@ translate francais v10_call_with_lauren2_0517d272_1:
 translate francais v10_call_with_lauren2_a102f141_1:
 
     # u "(Wow, that was quite a long call, but I feel like I really learned a lot about her... It's not that late, maybe I can go for a bit of a walk before going to bed.)"
-    u "(Wow, c'était un appel assez long, mais j'ai l'impression d'avoir vraiment appris beaucoup de choses sur elle... Il n'est pas si tard, peut-être que je peux aller faire un petit tour avant d'aller me coucher)."
+    u "(Wow, c'était un appel assez long, mais j'ai l'impression d'avoir vraiment appris beaucoup de choses sur elle... Il n'est pas si tard, peut-être que je peux aller faire un petit tour avant d'aller me coucher.)"

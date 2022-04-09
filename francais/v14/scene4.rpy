@@ -10,13 +10,13 @@ translate francais v14s04_abc2cc4f:
 translate francais v14s04_6a0ac584:
 
     # u "(Fuck it, I'll talk to him later I guess.)"
-    u "(Laisse tomber, je lui parlerai plus tard)."
+    u "(Laisse tomber, je lui parlerai plus tard.)"
 
 # game/v14/scene4.rpy:35
 translate francais v14s04_6a0ac584_1:
 
     # u "(Fuck it, I'll talk to him later I guess.)"
-    u "(Laisse tomber, je lui parlerai plus tard)."
+    u "(Laisse tomber, je lui parlerai plus tard.)"
 
 translate francais strings:
 

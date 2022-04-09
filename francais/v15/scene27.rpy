@@ -28,7 +28,7 @@ translate francais v15s27_2c8b0c7f:
 translate francais v15s27_44bb9812:
 
     # u "(Riley didn't seem too pleased about the whole situation. Hopefully she's over it before I see her next.)"
-    u "(Riley n'avait pas l'air très heureuse de cette situation. Espérons qu'elle s'en remettra avant que je la voie la prochaine fois)."
+    u "(Riley n'avait pas l'air très heureuse de cette situation. Espérons qu'elle s'en remettra avant que je la voie la prochaine fois.)"
 
 # game/v15/scene27.rpy:70
 translate francais v15s27_fcfea652:

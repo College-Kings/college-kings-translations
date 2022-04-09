@@ -94,7 +94,7 @@ translate francais v14s43a_PhoneContinueEmily_88d710ce:
 translate francais v14s43a_PhoneContinueEmily_ef9ea744:
 
     # u "(Glad to see that Emily's still up to no good, haha.)"
-    u "(Heureux de voir qu'Emily est toujours en train de faire des bêtises, haha)."
+    u "(Heureux de voir qu'Emily est toujours en train de faire des bêtises, haha.)"
 
 # game/v14/scene43a.rpy:131
 translate francais v14s43a_PhoneContinueEmily_a4b7c8ee:

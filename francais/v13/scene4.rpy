@@ -22,7 +22,7 @@ translate francais v13s4_8edf0835:
 translate francais v13s4_645262a4:
 
     # u "(I may have been sleeping that entire ride, but it wasn't very relaxing.)"
-    u "(J'ai peut-être dormi pendant tout le trajet, mais ce n'était pas très reposant)."
+    u "(J'ai peut-être dormi pendant tout le trajet, mais ce n'était pas très reposant.)"
 
 # game/v13/scene4.rpy:62
 translate francais v13s4_9ef20482_1:

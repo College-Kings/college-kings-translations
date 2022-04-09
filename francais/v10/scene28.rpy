@@ -112,7 +112,7 @@ translate francais v10_talk_nora_c0b727a7:
 translate francais v10_talk_nora_fcc8d1b8:
 
     # u "(I'll leave it alone as they'd rather keep it private.)"
-    u "(Je n'en parlerai pas car elles préfèrent que ça reste privé)."
+    u "(Je n'en parlerai pas car elles préfèrent que ça reste privé.)"
 
 # game/v10/scene28.rpy:110
 translate francais v10_talk_nora_53a98ac8:

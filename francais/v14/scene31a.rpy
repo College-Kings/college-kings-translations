@@ -220,7 +220,7 @@ translate francais v14s31a_f0f36f97:
 translate francais v14s31a_1b28a406:
 
     # u "Of course."
-    u "Bien sûr (comme d'hab', quoi)."
+    u "Bien sûr (comme d'hab', quoi.)"
 
 # game/v14/scene31a.rpy:299
 translate francais v14s31a_02253c97:

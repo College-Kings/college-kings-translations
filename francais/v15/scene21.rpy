@@ -1168,7 +1168,7 @@ translate francais v15s21_bcb6d1a6:
 translate francais v15s21_591de913:
 
     # u "(I have to put my emotions to the side during this meeting, I can't let my anger get in the way.)"
-    u "(Je dois mettre mes émotions de côté pendant cette réunion, je peux pas laisser ma colère s'immiscer)."
+    u "(Je dois mettre mes émotions de côté pendant cette réunion, je peux pas laisser ma colère s'immiscer.)"
 
 # game/v15/scene21.rpy:1125
 translate francais v15s21_d99629f0:
@@ -1342,13 +1342,13 @@ translate francais v15s21_831f875b:
 translate francais v15s21_b3442f68:
 
     # u "(Don't forget, I brought notes! We can refer to them whenever.)"
-    u "(Ne pas oublier, j'ai apporté des notes ! On peut s'y référer à tout moment)."
+    u "(Ne pas oublier, j'ai apporté des notes ! On peut s'y référer à tout moment.)"
 
 # game/v15/scene21.rpy:1316
 translate francais v15s21_ae87d323_1:
 
     # u "(I hope I don't regret not bringing those notes.)"
-    u "(J'espère que je regretterai pas de ne pas avoir apporté ces notes)."
+    u "(J'espère que je regretterai pas de ne pas avoir apporté ces notes.)"
 
 # game/v15/scene21.rpy:1321
 translate francais v15s21_e348eb5d:
@@ -2020,7 +2020,7 @@ translate francais v15s21_efac4dae:
 translate francais v15s21_e0d6d597:
 
     # u "(...I might be able to get exactly what we want from her. No special conditions.)"
-    u "(...Je pourrais obtenir d'elle exactement ce que nous voulons. Sans conditions particulières)."
+    u "(...Je pourrais obtenir d'elle exactement ce que nous voulons. Sans conditions particulières.)"
 
 # game/v15/scene21.rpy:2001
 translate francais v15s21_779d5415:

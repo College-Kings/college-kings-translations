@@ -358,7 +358,7 @@ translate francais v10_econ_class_9fb611a7:
 translate francais v10_econ_class_975b6984:
 
     # u "(It's obviously a private matter.)"
-    u "(C'est évidemment une affaire privée)."
+    u "(C'est évidemment une affaire privée.)"
 
 # game/v10/scene27.rpy:305
 translate francais v10_econ_class_163b7a0f:

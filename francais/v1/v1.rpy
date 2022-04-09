@@ -5346,7 +5346,7 @@ translate francais af_db_086c04ba:
 translate francais v1_phoneCheck2_2e6452c1:
 
     # "(I should reply to Julia as well, by the way.)"
-    "( D'ailleurs, je devrais aussi répondre à Julia)."
+    "( D'ailleurs, je devrais aussi répondre à Julia.)"
 
 # game/v1/v1.rpy:1552
 translate francais v1_phoneCheck2_724c271c:
@@ -5412,7 +5412,7 @@ translate francais v1_freeRoam2_josh_2f3f97b5_1:
 translate francais v1_freeRoam2_josh_94b81b79_1:
 
     # u "(I doubt it, but I guess it won't hurt to talk to some of them.)"
-    u "(J'en doute, mais je pense que ça ne me fera pas de mal de parler à certains d'entre eux)."
+    u "(J'en doute, mais je pense que ça ne me fera pas de mal de parler à certains d'entre eux.)"
 
 # game/v1/v1.rpy:3584
 translate francais v1_freeRoam2_josh_25f14ccc_1:

@@ -4,7 +4,7 @@
 translate francais josh_room_6ceb2119:
 
     # u "(What does Josh want now? He sounded a bit nervous on the phone.)"
-    u "(Que veut Josh maintenant ? Il avait l'air un peu nerveux au téléphone)."
+    u "(Que veut Josh maintenant ? Il avait l'air un peu nerveux au téléphone.)"
 
 # game/v8/scene24.rpy:19
 translate francais josh_room_146f1165:

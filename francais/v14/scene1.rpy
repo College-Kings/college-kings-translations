@@ -352,7 +352,7 @@ translate francais v14s01_a89f5580:
 translate francais v14s01_94f98782:
 
     # u "(They really wanted to have a threesome... Those girls are fucking wild.)"
-    u "(Elles voulaient vraiment faire un plan à trois... Ces filles sont vraiment sauvages)."
+    u "(Elles voulaient vraiment faire un plan à trois... Ces filles sont vraiment sauvages.)"
 
 # game/v14/scene1.rpy:505
 translate francais v14s01_nsfwSkipLabel1_d4d80b8d:

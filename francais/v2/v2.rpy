@@ -4224,25 +4224,25 @@ translate francais try1new_5e7d2f55:
 translate francais try2new_25f84bf7:
 
     # u "(Wow... if I could just stick my head through a bit further, I could get a way better view.)"
-    u "(Wow... si je pouvais passer ma tête un peu plus loin, je pourrais avoir une bien meilleure vue)."
+    u "(Wow... si je pouvais passer ma tête un peu plus loin, je pourrais avoir une bien meilleure vue.)"
 
 # game/v2/v2.rpy:3015
 translate francais try3new_935d041b:
 
     # u "(Fuck... if I could just stick my head through a bit further, I could get a way better view.)"
-    u "(Putain... si je pouvais passer ma tête un peu plus loin, je pourrais avoir une bien meilleure vue)."
+    u "(Putain... si je pouvais passer ma tête un peu plus loin, je pourrais avoir une bien meilleure vue.)"
 
 # game/v2/v2.rpy:3398
 translate francais try5new_25f84bf7:
 
     # u "(Wow... if I could just stick my head through a bit further, I could get a way better view.)"
-    u "(Wow... si je pouvais passer ma tête un peu plus loin, je pourrais avoir une bien meilleure vue)."
+    u "(Wow... si je pouvais passer ma tête un peu plus loin, je pourrais avoir une bien meilleure vue.)"
 
 # game/v2/v2.rpy:3534
 translate francais try6new_935d041b:
 
     # u "(Fuck... if I could just stick my head through a bit further, I could get a way better view.)"
-    u "(Putain... si je pouvais passer ma tête un peu plus loin, je pourrais avoir une bien meilleure vue)."
+    u "(Putain... si je pouvais passer ma tête un peu plus loin, je pourrais avoir une bien meilleure vue.)"
 # TODO: Translation updated at 2022-01-18 10:42
 
 # game/v2/v2.rpy:2700

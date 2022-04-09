@@ -478,7 +478,7 @@ translate francais v11_lindsey_park_64f4e32f:
 translate francais v11_lindsey_park_4026079d:
 
     # u "(That was the mental break I needed, let's go ahead and get back to the hotel.)"
-    u "(C'était la pause mentale dont j'avais besoin, partons et retournons à l'hôtel)."
+    u "(C'était la pause mentale dont j'avais besoin, partons et retournons à l'hôtel.)"
 
 # game/v11/scene31.rpy:460
 translate francais v11_lindsey_park_079bd311:

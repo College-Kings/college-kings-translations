@@ -52,7 +52,7 @@ translate francais thurs_aft_room_b92814ec:
 translate francais thurs_aft_room_f5486e2e_1:
 
     # u "(What a day. Hot babes and assholes roaming the hallways, catching me off guard after class.)"
-    u "(Quelle journée. Des filles sexy et des trous du cul qui errent dans les couloirs, me prenant au dépourvu après les cours)."
+    u "(Quelle journée. Des filles sexy et des trous du cul qui errent dans les couloirs, me prenant au dépourvu après les cours.)"
 
 # game/v9/scene13.rpy:59
 translate francais thurs_aft_room_6f14c6a2_1:

@@ -10,7 +10,7 @@ translate francais v15s32_858b6e2b:
 translate francais v15s32_5ebc90a9:
 
     # u "(I won't overthink it. I'll just knock on the door like a regular person.)"
-    u "(Je vais pas me prendre la tête, je vais juste frapper à la porte comme une personne normale)."
+    u "(Je vais pas me prendre la tête, je vais juste frapper à la porte comme une personne normale.)"
 
 # game/v15/scene32.rpy:60
 translate francais v15s32_74896459:

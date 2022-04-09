@@ -364,7 +364,7 @@ translate francais v14s43d_e7f7bc19:
 translate francais v14s43d_2be99962:
 
     # u "(As long as I get a passing grade, she can have as much fun as she wants with the class, haha.)"
-    u "(Tant que j'obtiens une bonne note, elle peut s'amuser autant qu'elle veut dans ce cours, haha)."
+    u "(Tant que j'obtiens une bonne note, elle peut s'amuser autant qu'elle veut dans ce cours, haha.)"
 
 translate francais strings:
 

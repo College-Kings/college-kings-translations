@@ -52,7 +52,7 @@ translate francais v12_chris_nora_room_852175cf:
 translate francais v12_chris_nora_room_48d6ddc1:
 
     # u "(It really seems like those two are coming to a crossroads. I'm sure she's pretty heated right now, I wonder if I should go talk to her.)"
-    u "(On dirait vraiment que ces deux-là arrivent à un croisement. Je pense qu'elle est assez énervée en ce moment, je me demande si je devrais aller lui parler)."
+    u "(On dirait vraiment que ces deux-là arrivent à un croisement. Je pense qu'elle est assez énervée en ce moment, je me demande si je devrais aller lui parler.)"
 
 # game/v12/scene35.rpy:78
 translate francais v12_chris_nora_room_6ae26ec2:
@@ -100,4 +100,4 @@ translate francais v12_chris_nora_room_5c4d09e6:
 translate francais v12_chris_nora_room_8703fe36:
 
     # u "(It's not my place to get involved.)"
-    u "(Ce n'est pas à moi de m'en mêler)."
+    u "(Ce n'est pas à moi de m'en mêler.)"

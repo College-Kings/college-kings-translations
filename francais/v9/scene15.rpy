@@ -406,7 +406,7 @@ translate francais v9_thur_room_w_cam_cont4_d02000f0:
 translate francais v9_thur_room_w_cam_cont4_e4a3e1e4:
 
     # u "(So much for all that bonding we did... Maybe he'll calm down after the Brawl.)"
-    u "(Tant pis pour tous les liens qu'on a tissés... Peut-être qu'il se calmera après le Brawl)."
+    u "(Tant pis pour tous les liens qu'on a tissés... Peut-être qu'il se calmera après le Brawl.)"
 
 # game/v9/scene15.rpy:390
 translate francais v9_thur_room_w_cam_cont4_c31bde94:
@@ -492,10 +492,10 @@ translate francais strings:
 translate francais v9_thur_room_w_cam_punch_8b39e565:
 
     # "(I should reply to that post on Kiwii.)"
-    "(Je devrais répondre à ce post sur Kiwii)."
+    "(Je devrais répondre à ce post sur Kiwii.)"
 
 # game/v9/scene15.rpy:262
 translate francais v9_s15_phoneExit_no_Punch_8b39e565:
 
     # "(I should reply to that post on Kiwii.)"
-    "(Je devrais répondre à ce post sur Kiwii)."
+    "(Je devrais répondre à ce post sur Kiwii.)"

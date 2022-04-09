@@ -424,7 +424,7 @@ translate francais v12_penelope_roof_text_25c37916:
 translate francais v12_penelope_roof_text_67560170:
 
     # u "(Don't wanna take the chance that she may be needing help with one of her little Mr. Lee chores.)"
-    u "(Je ne veux pas prendre le risque qu'elle ait besoin d'aide pour une de ses petites tâches que Mr Lee lui confie)."
+    u "(Je ne veux pas prendre le risque qu'elle ait besoin d'aide pour une de ses petites tâches que Mr Lee lui confie.)"
 
 translate francais strings:
 

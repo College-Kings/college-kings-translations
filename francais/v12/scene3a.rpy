@@ -202,7 +202,7 @@ translate francais v12_penelope_call_25a27f21:
 translate francais v12_penelope_call_c83ffcc1:
 
     # u "(If it's serious she'll call again or leave a message.)"
-    u "(Si c'est sérieux, elle rappellera ou laissera un message)."
+    u "(Si c'est sérieux, elle rappellera ou laissera un message.)"
 
 translate francais strings:
 

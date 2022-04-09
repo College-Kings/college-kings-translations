@@ -2380,7 +2380,7 @@ translate francais v15s35_autumn_reveal_f350e362:
 translate francais v15s35_let_it_happen_5a6e4284:
 
     # u "(Let's see if she makes a mess on her own.)"
-    u "(Voyons si elle fait des dégâts toute seule)."
+    u "(Voyons si elle fait des dégâts toute seule.)"
 
 # game/v15/scene35.rpy:2685
 translate francais v15s35_let_it_happen_7fbb75a4:

@@ -10,7 +10,7 @@ translate francais v9_walk_li_txt_1d8a7ae7:
 translate francais v9_walk_li_txt_ed398106:
 
     # u "(I may need some help if they run into each other again)"
-    u "(Je pourrais avoir besoin d'aide s'ils se rencontrent à nouveau)."
+    u "(Je pourrais avoir besoin d'aide s'ils se rencontrent à nouveau.)"
 
 # game/v9/scene38.rpy:32
 translate francais v9_walk_li_txt_112e72aa:

@@ -4,7 +4,7 @@
 translate francais v10_mc_pen_call_9d95d841:
 
     # u "(I love college, there's some down times, but plenty of good ones too.)"
-    u "(J'adore l'université, il y a des moments difficiles, mais aussi beaucoup de bons moments)."
+    u "(J'adore l'université, il y a des moments difficiles, mais aussi beaucoup de bons moments.)"
 
 # game/v10/scene41.rpy:19
 translate francais v10_mc_pen_call_4cc9fdd3:

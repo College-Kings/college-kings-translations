@@ -2992,7 +2992,7 @@ translate francais v10s33_riley2_a2e21cd7:
 translate francais v10s33_amber1_a10218f0:
 
     # u "(Things are a bit awkward between us, I'd rather avoid her today)"
-    u "(Les choses sont un peu gênantes entre nous, je préfère l'éviter aujourd'hui)."
+    u "(Les choses sont un peu gênantes entre nous, je préfère l'éviter aujourd'hui.)"
 
 # game/v10/scene33.rpy:3059
 translate francais v10s33_amber1_13a18e4e:
@@ -3952,7 +3952,7 @@ translate francais v10s33_evelyn1_6423b2e7:
 translate francais v10s33_deergirl41_12e7f252:
 
     # u "(I'd rather not get talked into buying one of these hats.)"
-    u "(Je préfère ne pas me laisser convaincre d'acheter un de ces chapeaux)."
+    u "(Je préfère ne pas me laisser convaincre d'acheter un de ces chapeaux.)"
 
 translate francais strings:
 
@@ -3970,7 +3970,7 @@ translate francais strings:
 
     # game/v10/scene33.rpy:151
     old "I'd be here without it"
-    new "Je serais ici sans ça."
+    new "Je serais ici sans ça"
 
     # game/v10/scene33.rpy:314
     old "Arm Arm Pose"

@@ -70,7 +70,7 @@ translate francais ask_rose_more_q_7f3d9f67:
 translate francais no_ask_rose_more_q_d5e3e184:
 
     # u "(I'm sure she doesn't want to think about this stuff at school.)"
-    u "(Je suis sûr qu'elle ne veut pas penser à ce genre de choses à l'école)."
+    u "(Je suis sûr qu'elle ne veut pas penser à ce genre de choses à l'école.)"
 
 # game/v8/scene32.rpy:93
 translate francais aec_rose_end_c1115a6e:

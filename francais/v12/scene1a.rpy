@@ -436,7 +436,7 @@ translate francais v12s1a_failed_timer_61b6b94b:
 translate francais v12s1a_failed_timer_d786b6e3:
 
     # u "(Why would some random dude try and steal a bag from someone who's obviously in a group? That just stupid... Then there's Charli... I swear he can't just be a normal person... Definitely a weird ass dude.)"
-    u "(Pourquoi un mec seul essaierait-il de voler le sac de quelqu'un qui est manifestement dans un groupe ? C'est juste stupide... Et puis il y a Charli... Je jure qu'il ne peut pas être une bonne personne... C'est vraiment un mec chelou)."
+    u "(Pourquoi un mec seul essaierait-il de voler le sac de quelqu'un qui est manifestement dans un groupe ? C'est juste stupide... Et puis il y a Charli... Je jure qu'il ne peut pas être une bonne personne... C'est vraiment un mec chelou.)"
 
 # game/v12/scene1a.rpy:514
 translate francais v12s1a_failed_timer_9d6c7bea:

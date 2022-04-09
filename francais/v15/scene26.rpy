@@ -58,7 +58,7 @@ translate francais v15s26_648ff3e5:
 translate francais v15s26_6df779d5:
 
     # u "(I remember this door... I guess I'm about to find out what's behind it.)"
-    u "(Je me souviens de cette porte... Je suppose que je suis sur le point de découvrir ce qu'il y a derrière)."
+    u "(Je me souviens de cette porte... Je suppose que je suis sur le point de découvrir ce qu'il y a derrière.)"
 
 # game/v15/scene26.rpy:73
 translate francais v15s26_a235ef9a:

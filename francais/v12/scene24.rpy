@@ -10,13 +10,13 @@ translate francais v12_simplr_convo_c0497226:
 translate francais v12_simplr_convo_0fa55aff:
 
     # u "(I need to sleep this off, but I'm kind of wide awake right now. I'll just check out my phone.)"
-    u "(J'ai besoin de dormir pour oublier ça, mais je suis plutôt bien réveillé en ce moment. Je vais juste regarder mon téléphone)."
+    u "(J'ai besoin de dormir pour oublier ça, mais je suis plutôt bien réveillé en ce moment. Je vais juste regarder mon téléphone.)"
 
 # game/v12/scene24.rpy:30
 translate francais v12_simplr_convo_aeeb154a:
 
     # u "(Randomly waking up in the middle of the night, with nothing to do except stare at the wall, yayyy.)"
-    u "(Se réveiller subitement au milieu de la nuit, et ne rien faire à part regarder le mur, ouaiiiis)."
+    u "(Se réveiller subitement au milieu de la nuit, et ne rien faire à part regarder le mur, ouaiiiis.)"
 
 # game/v12/scene24.rpy:35
 translate francais v12_simplr_convo_9d27cce1:

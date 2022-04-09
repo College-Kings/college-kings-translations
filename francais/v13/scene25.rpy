@@ -172,7 +172,7 @@ translate francais v13s25_emmysg_92ca732b:
 translate francais v13s25_emmysg_271978ab:
 
     # u "(So you'll fuck me in an open bar, but not at your place? Maybe I dodged a bullet on that one.)"
-    u "(Donc tu veux bien me baiser dans un open bar, mais pas chez toi ? Peut-être que j'ai évité un boulet sur ce coup-là)."
+    u "(Donc tu veux bien me baiser dans un open bar, mais pas chez toi ? Peut-être que j'ai évité un boulet sur ce coup-là.)"
 
 # game/v13/scene25.rpy:216
 translate francais v13s25_emmysg_2dc4ad9e:

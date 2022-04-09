@@ -622,7 +622,7 @@ translate francais v13_imre_continue_b2a02aca:
 translate francais v13_imre_continue_d5a3c1fc:
 
     # u "(Hmm, I wonder what'll go down at that event. Definitely gonna be interesting.)"
-    u "(Hmm, je me demande ce qui va se passer à cette soirée. Ça va sûrement être intéressant)."
+    u "(Hmm, je me demande ce qui va se passer à cette soirée. Ça va sûrement être intéressant.)"
 
 translate francais strings:
 

@@ -172,7 +172,7 @@ translate francais v9_hall_punch_fd29ee51:
 translate francais v9_hall_punch_3716e3e8:
 
     # u "(I guess I will call you, Lindsey. Maybe. A bit later. Now I should get back to my room.)"
-    u "(Je crois que je vais t'appeler, Lindsey. Peut-être. Un peu plus tard. Là, je devrais retourner dans ma chambre)."
+    u "(Je crois que je vais t'appeler, Lindsey. Peut-être. Un peu plus tard. Là, je devrais retourner dans ma chambre.)"
 
 # game/v9/scene12.rpy:254
 translate francais v9_hall_no_punch_c68fb736:
@@ -322,7 +322,7 @@ translate francais v9_hall_no_punch_d5505cec:
 translate francais v9_hall_no_punch_e7420942:
 
     # u "(Well fuck it, if it wasn't the best punch outcome I have ever had.)"
-    u "(Et puis merde, si ce n'était pas le meilleur dénouement de coup de poing que j'ai jamais eu.)."
+    u "(Et puis merde, si ce n'était pas le meilleur dénouement de coup de poing que j'ai jamais eu.)"
 
 # game/v9/scene12.rpy:395
 translate francais v9_hall_no_punch_a16c3bf0:

@@ -64,7 +64,7 @@ translate francais v14s07_752d5669:
 translate francais v14s07_61f57433:
 
     # u "(Okay Rose, let's try to be a little less obvious here.)"
-    u "(Ok Rose, essaie d'être un peu moins transparente, là)."
+    u "(Ok Rose, essaie d'être un peu moins transparente, là.)"
 
 # game/v14/scene7.rpy:83
 translate francais v14s07_fddd5eec:
@@ -76,7 +76,7 @@ translate francais v14s07_fddd5eec:
 translate francais v14s07_1d9e426a:
 
     # ro "You should all consider coming back to these beautiful countries some time, and enjoy it with your new found freedom and someone special by your side."
-    ro "Vous devriez tous un jour envisager de revenir dans ces beaux pays, et afin de pouvoir en profiter avec votre liberté retrouvée et quelqu'un de spécial à vos côtés."
+    ro "Vous devriez tous un jour envisager de revenir dans ces beaux pays, afin de pouvoir en profiter avec votre liberté retrouvée et quelqu'un de spécial à vos côtés."
 
 # game/v14/scene7.rpy:93
 translate francais v14s07_87c36052:

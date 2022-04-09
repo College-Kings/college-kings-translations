@@ -478,7 +478,7 @@ translate francais v14s11_4b7d694d:
 translate francais v14s11_77d655f9:
 
     # u "(Guess I need to get home myself. I can barely think with all this jetlag.)"
-    u "(Je crois que je dois rentrer chez moi. J'arrive à peine à réfléchir avec ce décalage horaire)."
+    u "(Je crois que je dois rentrer chez moi. J'arrive à peine à réfléchir avec ce décalage horaire.)"
 
 translate francais strings:
 

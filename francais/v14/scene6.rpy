@@ -4,13 +4,13 @@
 translate francais v14s06_29e2c407:
 
     # u "(Damn, I feel energized this morning.)"
-    u "(Wouah, je me sens en pleine forme ce matin)."
+    u "(Wouah, je me sens en pleine forme ce matin.)"
 
 # game/v14/scene6.rpy:32
 translate francais v14s06_f1765e5b:
 
     # u "(I feel like I never even hit my head.)"
-    u "(J'ai l'impression que je me suis même pas cogné la tête)."
+    u "(J'ai l'impression que je me suis même pas cogné la tête.)"
 
 # game/v14/scene6.rpy:49
 translate francais v14s06_94e176e5:
@@ -106,7 +106,7 @@ translate francais v14s06_57ae9944:
 translate francais v14s06_09f54a91:
 
     # u "(Hopefully things are gonna start getting back to normal.)"
-    u "(Avec un peu de chance, les choses vont commencer à revenir à la normale)."
+    u "(Avec un peu de chance, les choses vont commencer à revenir à la normale.)"
 
 # game/v14/scene6.rpy:137
 translate francais v14s06_ae62fa0b:

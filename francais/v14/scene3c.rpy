@@ -370,7 +370,7 @@ translate francais v14s03c_sg_81933fbb:
 translate francais v14s03c_sg_44536e0a:
 
     # u "(Can't believe I'm doing this for Ryan.)"
-    u "(J'arrive pas à croire que je fais ça pour Ryan)."
+    u "(J'arrive pas à croire que je fais ça pour Ryan.)"
 
 translate francais strings:
 

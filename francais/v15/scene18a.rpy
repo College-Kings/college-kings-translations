@@ -1066,7 +1066,7 @@ translate francais v15s18a_AutumPenelope_71b2fa67:
 translate francais v15s18a_AutumPenelope_0e759fc7:
 
     # u "(Maybe we can bring up the list later with Autumn or Penelope.)"
-    u "(On pourra peut-être évoquer la liste plus tard avec Autumn ou Pénélope)."
+    u "(On pourra peut-être évoquer la liste plus tard avec Autumn ou Pénélope.)"
 
 # game/v15/scene18a.rpy:1120
 translate francais v15s18a_ImreLauren_735be8df:

@@ -158,7 +158,7 @@ translate francais strings:
 
     # game/v9/scene32.rpy:162
     old "Duh, that's why I'm asking)"
-    new "Bah, c'est pour ça que je demande)."
+    new "Bah, c'est pour ça que je demande.)"
 
     # game/v9/scene32.rpy:163
     old "Well you shoulda led with that!"

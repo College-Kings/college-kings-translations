@@ -88,7 +88,7 @@ translate francais v15s25_b13c1271:
 translate francais v15s25_93b761af:
 
     # u "(Not everyone will have a fake ID. I need to be honest.)"
-    u "(Tout le monde n'aura pas une fausse carte d'identité. Je dois être honnête)."
+    u "(Tout le monde n'aura pas une fausse carte d'identité. Je dois être honnête.)"
 
 # game/v15/scene25.rpy:142
 translate francais v15s25_334acd99:
@@ -904,7 +904,7 @@ translate francais v15s25_726a4154:
 translate francais v15s25_PhoneContinueAubrey_ff5cbae8:
 
     # u "(I should respond to Aubrey.)"
-    u "(Je devrais répondre à Aubrey)."
+    u "(Je devrais répondre à Aubrey.)"
 
 # game/v15/scene25.rpy:824
 translate francais v15s25_PhoneContinueAubrey_8fc4eb6e:

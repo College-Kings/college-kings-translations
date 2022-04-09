@@ -1594,7 +1594,7 @@ translate francais continueaf_ef97aa94:
 translate francais continueaf_6bb77164:
 
     # u "(Hopefully Autumn has already put in a good word for me.)"
-    u "(Avec un peu de chance, Autumn a déjà glissé un mot en ma faveur)."
+    u "(Avec un peu de chance, Autumn a déjà glissé un mot en ma faveur.)"
 
 # game/v5/v5.rpy:1672
 translate francais continueaf_dfe131fe:

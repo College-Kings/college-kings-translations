@@ -172,13 +172,13 @@ translate francais phn_penelope6_done_d246e7ae:
 translate francais phn_penelope6_done_02f0913a:
 
     # u "(Ms. Rose is so upset, but we also really need to hurry if we're gonna finish this before her husband shows up.)"
-    u "(Mme Rose est tellement bouleversée, mais nous devons aussi vraiment nous dépêcher, si nous voulons finir avant que son mari n'arrive)."
+    u "(Mme Rose est tellement bouleversée, mais nous devons aussi vraiment nous dépêcher, si nous voulons finir avant que son mari n'arrive.)"
 
 # game/v8/scene17.rpy:150
 translate francais phn_penelope6_done_fe59dd4e:
 
     # u "(This is important. There are enough Wolves to move boxes quickly.)"
-    u "(C'est important. Il y a assez de Wolves pour prendre tout les cartons rapidement)."
+    u "(C'est important. Il y a assez de Wolves pour prendre tout les cartons rapidement.)"
 
 # game/v8/scene17.rpy:154
 translate francais phn_penelope6_done_c0905d9e:

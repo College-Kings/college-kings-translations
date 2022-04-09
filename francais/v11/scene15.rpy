@@ -160,7 +160,7 @@ translate francais v11_nora_airport_convo_0e21f62f:
 translate francais v11_nora_airport_convo_c9955893:
 
     # u "(It's obvious he's just trying to get close to her while she's upset so she'll let him fuck. I officially don't like this guy. Acting all nice and shit.)"
-    u "(Il est évident qu'il essaie juste de se rapprocher d'elle pendant qu'elle est bouleversée pour qu'elle baisse sa garde et qu'il puisse en faire ce qu'il veut. Je n'aime officiellement pas ce mec. Il fait semblant d'être gentil, c'est tout)."
+    u "(Il est évident qu'il essaie juste de se rapprocher d'elle pendant qu'elle est bouleversée pour qu'elle baisse sa garde et qu'il puisse en faire ce qu'il veut. Je n'aime officiellement pas ce mec. Il fait semblant d'être gentil, c'est tout.)"
 
 # game/v11/scene15.rpy:141
 translate francais v11_nora_airport_convo_85152a9e:

@@ -862,7 +862,7 @@ translate francais v11s28a_nsfwSkipLabel1_18b82ebf:
 translate francais v11s28a_nsfwSkipLabel1_16e8ec91:
 
     # u "(I should've known she'd do me like that. It was nice to learn a bit about her though.)"
-    u "(J'aurais dû savoir qu'elle me ferait ça. C'était tout de même sympa d'en apprendre un peu plus sur elle)."
+    u "(J'aurais dû savoir qu'elle me ferait ça. C'était tout de même sympa d'en apprendre un peu plus sur elle.)"
 
 translate francais strings:
 
@@ -872,7 +872,7 @@ translate francais strings:
 
     # game/v11/scene28a.rpy:65
     old "Look away"
-    new "Regarde ailleurs."
+    new "Regarde ailleurs"
 
     # game/v11/scene28a.rpy:620
     old "Alyssa"
@@ -892,7 +892,7 @@ translate francais strings:
 
     # game/v11/scene28a.rpy:679
     old "Her father"
-    new "Son père."
+    new "Son père"
 
     # game/v11/scene28a.rpy:679
     old "Me"

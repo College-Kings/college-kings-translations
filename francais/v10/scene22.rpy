@@ -4,13 +4,13 @@
 translate francais v10_cafe_w_jenny_16bf8974:
 
     # u "(Damn, morning comes fast. I need to get ready and head over to the cafe.)"
-    u "(Mince, le matin arrive vite. Je dois me préparer et aller au café)."
+    u "(Mince, le matin arrive vite. Je dois me préparer et aller au café.)"
 
 # game/v10/scene22.rpy:20
 translate francais v10_cafe_w_jenny_16bf8974_1:
 
     # u "(Damn, morning comes fast. I need to get ready and head over to the cafe.)"
-    u "(Mince, le matin arrive vite. Je dois me préparer et aller au café)."
+    u "(Mince, le matin arrive vite. Je dois me préparer et aller au café.)"
 
 # game/v10/scene22.rpy:25
 translate francais v10_cafe_w_jenny_7cca4d21:

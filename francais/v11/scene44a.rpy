@@ -202,7 +202,7 @@ translate francais v11_rose_underground_6a74ec1b:
 translate francais v11_rose_underground_ae8c2835:
 
     # u "(She has a lot on her plate right now, probably best to leave her alone.)"
-    u "(Elle a beaucoup de choses à faire en ce moment, il vaut mieux la laisser tranquille)."
+    u "(Elle a beaucoup de choses à faire en ce moment, il vaut mieux la laisser tranquille.)"
 
 # game/v11/scene44a.rpy:174
 translate francais v11_rose_underground_f22a0ec9:

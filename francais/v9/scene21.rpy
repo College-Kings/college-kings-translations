@@ -64,7 +64,7 @@ translate francais v9_room_w_chris_0372831d:
 translate francais v9_room_w_chris_7b8d56dc:
 
     # u "(Thinking about what Ms. Rose is going through has me missing Julia. I should check on things back home.)"
-    u "(En pensant à ce que Mme Rose traverse, Julia me manque. Je devrais vérifier si tout va bien à la maison)."
+    u "(En pensant à ce que Mme Rose traverse, Julia me manque. Je devrais vérifier si tout va bien à la maison.)"
 
 # game/v9/scene21.rpy:90
 translate francais s21_PhoneContinue_392af697:

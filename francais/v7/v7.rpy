@@ -15099,7 +15099,7 @@ translate francais fr4aaron1_f6d28fe2_1:
 translate francais fr4aaron1_b8dc51a8_1:
 
     # u "Uhhh, bye."
-    u "Euh, au revoir (chelou ce type...)."
+    u "Euh, au revoir (chelou ce type....)"
 
 # game/v7/v7.rpy:14651
 translate francais fr4aaron2_dbc39510:
@@ -20285,7 +20285,7 @@ translate francais hd_bd_bb871fda:
 translate francais phoneam_2f4dfe6c:
 
     # u "(I need to respond to some of these messages.)"
-    u "(Je dois répondre à certains de ces messages)."
+    u "(Je dois répondre à certains de ces messages.)"
 
 # game/v7/v7.rpy:1397
 translate francais phoneam_dddb2912:
@@ -20879,7 +20879,7 @@ translate francais v7_homecoming_d763b96b:
 translate francais v7_homecoming_b01d6037:
 
     # u "(I've never done anything like this, but I guess if there's ever a time to do it, it's now.)"
-    u "(Je n'ai jamais fait quelque chose comme ça, mais je suppose que s'il y a un moment pour le faire, c'est maintenant)."
+    u "(Je n'ai jamais fait quelque chose comme ça, mais je suppose que s'il y a un moment pour le faire, c'est maintenant.)"
 
 # game/v7/v7.rpy:9680
 translate francais v7_homecoming_b2c0fe8d:

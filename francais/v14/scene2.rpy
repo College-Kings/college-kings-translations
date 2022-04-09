@@ -4,7 +4,7 @@
 translate francais v14s02_dbc1e236:
 
     # u "(Please don't tell me everyone is gone or asleep.)"
-    u "(Putainnn, me dites pas que tout le monde est parti ou endormi)."
+    u "(Putainnn, me dites pas que tout le monde est parti ou endormi.)"
 
 # game/v14/scene2.rpy:26
 translate francais v14s02_4a2bf415:

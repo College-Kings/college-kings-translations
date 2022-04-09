@@ -28,7 +28,7 @@ translate francais v9_room_fri_morn_db7a4e2e:
 translate francais v9_room_fri_morn_f92a2101:
 
     # u "(Ms. Rose, did she get a divorce? And what does she mean return the favor? Guess I'll find out soon.)"
-    u "(Mme Rose, a-t-elle divorcé ? Et que veut-elle dire par rendre la pareille ? Je pense que je vais le découvrir bientôt)."
+    u "(Mme Rose, a-t-elle divorcé ? Et que veut-elle dire par rendre la pareille ? Je pense que je vais le découvrir bientôt.)"
 
 # game/v9/scene17.rpy:55
 translate francais s17_PhoneContinueW_0f06666e:

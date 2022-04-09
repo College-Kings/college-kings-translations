@@ -556,7 +556,7 @@ translate francais v15s10_72184412:
 translate francais v15s10_d276a5ae:
 
     # u "(It's the price we've asked for.)"
-    u "(C'est le prix que nous avons demandé)."
+    u "(C'est le prix que nous avons demandé.)"
 
 # game/v15/scene10.rpy:662
 translate francais v15s10_3486e98f:

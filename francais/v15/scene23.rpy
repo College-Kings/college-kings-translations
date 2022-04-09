@@ -4,7 +4,7 @@
 translate francais v15s23_3a0d6ee0:
 
     # u "(Well, Halloween was a success... Thankfully I'll never have to wear that costume ever again, haha.)"
-    u "(Eh bien, Halloween a été un succès.... Heureusement, j'aurai plus jamais à porter ce costume, haha)."
+    u "(Eh bien, Halloween a été un succès.... Heureusement, j'aurai plus jamais à porter ce costume, haha.)"
 
 # game/v15/scene23.rpy:54
 translate francais v15s23_f5eb3756:

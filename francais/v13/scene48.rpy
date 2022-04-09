@@ -40,7 +40,7 @@ translate francais v13s48_a269673d:
 translate francais v13s48_1b98c9bd:
 
     # u "(Aubrey and I obviously have a romantic connection... Only time will tell if she'll ever wanna be more than friends.)"
-    u "(Aubrey et moi avons clairement une connexion romantique... Seul le temps nous dira si elle voudra un jour être plus que des amis)."
+    u "(Aubrey et moi avons clairement une connexion romantique... Seul le temps nous dira si elle voudra un jour être plus que des amis.)"
 
 # game/v13/scene48.rpy:58
 translate francais v13s48_a7b0fbc6:

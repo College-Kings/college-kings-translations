@@ -4,7 +4,7 @@
 translate francais v10_tues_room_night_45e1ab15:
 
     # u "(What a long fucking day. Fuck, everyday is like this and things just get more and more complicated.)"
-    u "(Quelle putain de longue journée. Putain, chaque jour est comme ça et les choses deviennent de plus en plus compliquées)."
+    u "(Quelle putain de longue journée. Putain, chaque jour est comme ça et les choses deviennent de plus en plus compliquées.)"
 
 # game/v10/scene32.rpy:23
 translate francais v10_tues_room_night_9eb3a340:
@@ -40,7 +40,7 @@ translate francais v10s32_phoneCheckW_6fbe3944:
 translate francais v10s32_phoneCheckW_45e1ab15:
 
     # u "(What a long fucking day. Fuck, everyday is like this and things just get more and more complicated.)"
-    u "(Quelle putain de longue journée. Merde, chaque jour est comme ça et les choses deviennent de plus en plus compliquées)."
+    u "(Quelle putain de longue journée. Merde, chaque jour est comme ça et les choses deviennent de plus en plus compliquées.)"
 
 # game/v10/scene32.rpy:85
 translate francais v10s32_phoneCheckW_9eb3a340:

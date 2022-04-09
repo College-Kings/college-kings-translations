@@ -178,7 +178,7 @@ translate francais v9_at_warehouse_006aac7d:
 translate francais v9_at_warehouse_27043e88:
 
     # u "(If I don't say something, this could get out of hand.)"
-    u "(Si je ne dis pas quelque chose, ça pourrait devenir incontrôlable)."
+    u "(Si je ne dis pas quelque chose, ça pourrait devenir incontrôlable.)"
 
 # game/v9/scene42.rpy:210
 translate francais v9_at_warehouse_65705f0f:

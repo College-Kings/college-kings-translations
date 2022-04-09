@@ -160,7 +160,7 @@ translate francais v12_docks_006e880d:
 translate francais v12_docks_f2f0d67a:
 
     # u "(Hmmm, this must be what Amber was saying she wanted to talk about. I knew them two were getting close, but not like this.)"
-    u "(Hmmm, ça doit être de ça qu'Amber disait vouloir parler. Je savais que ces deux-là se rapprochaient, mais pas comme ça)."
+    u "(Hmmm, ça doit être de ça qu'Amber disait vouloir parler. Je savais que ces deux-là se rapprochaient, mais pas comme ça.)"
 
 translate francais strings:
 

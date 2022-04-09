@@ -244,13 +244,13 @@ translate francais v14s09_217cdf3d:
 translate francais v14s09_7fe8f8a1:
 
     # u "(She seemed to enjoy playing security during the murder mystery.)"
-    u "(Elle avait l'air d'aimer jouer l'agente de sécurité pendant le jeu du meurtre mystérieux)."
+    u "(Elle avait l'air d'aimer jouer l'agente de sécurité pendant le jeu du meurtre mystérieux.)"
 
 # game/v14/scene9.rpy:255
 translate francais v14s09_3fc52133:
 
     # u "(We almost went to prison for robbing a bank, haha. Maybe that was her favorite part.)"
-    u "(Quand on a failli aller en prison avec l'idée de braquer une banque, haha. C'était peut-être ça son moment préféré)."
+    u "(Quand on a failli aller en prison avec l'idée de braquer une banque, haha. C'était peut-être ça son moment préféré.)"
 
 # game/v14/scene9.rpy:260
 translate francais v14s09_e400c202:
@@ -382,7 +382,7 @@ translate francais v14s09_57c39bea:
 translate francais v14s09_04929405:
 
     # u "(He sure did call Sebastian a lot, probably was his favorite part, haha.)"
-    u "(Il était quasiment tout le temps au téléphone avec Sebastian, c'était certainement ça, son moment préféré, haha)."
+    u "(Il était quasiment tout le temps au téléphone avec Sebastian, c'était certainement ça, son moment préféré, haha.)"
 
 # game/v14/scene9.rpy:340
 translate francais v14s09_0ed79876:
@@ -394,7 +394,7 @@ translate francais v14s09_0ed79876:
 translate francais v14s09_68dd3da6:
 
     # u "(Okay, so maybe not his favorite part. But it was kinda hilarious for everyone else.)"
-    u "(Ok, c'est peut-être pas son moment préféré. Mais c'était plutôt hilarant pour tous les autres)."
+    u "(Ok, c'est peut-être pas son moment préféré. Mais c'était plutôt hilarant pour tous les autres.)"
 
 # game/v14/scene9.rpy:348
 translate francais v14s09_cd111554:
@@ -508,7 +508,7 @@ translate francais v14s09_15e727f8:
 translate francais v14s09_a747d4c5:
 
     # u "(The bike tour. Lauren loves nature and we had a couple wild encounters, haha.)"
-    u "(La balade à vélo. Lauren adore la nature et on a fait quelques rencontres \"sauvages\", haha)."
+    u "(La balade à vélo. Lauren adore la nature et on a fait quelques rencontres \"sauvages\", haha.)"
 
 # game/v14/scene9.rpy:433
 translate francais v14s09_1de7eecd:

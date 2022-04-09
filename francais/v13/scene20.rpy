@@ -64,7 +64,7 @@ translate francais v13s20_bleach_857fdaa9:
 translate francais v13s20_bleach_cdf15eb0:
 
     # u "(Riley said this suitcase is special to him, and that bleach would be a good addition to it... Let's find out.) *Laughs*"
-    u "(Riley a dit que cette valise est spéciale pour lui, et que l'eau de javel serait un bon choix... On va voir ça). *Rire*"
+    u "(Riley a dit que cette valise est spéciale pour lui, et que l'eau de javel serait un bon choix... On va voir ça.) *Rire*"
 
 # game/v13/scene20.rpy:107
 translate francais v13s20_bleach_522e8c88:
@@ -160,7 +160,7 @@ translate francais v13s20_end_cf66f501:
 translate francais v13s20_end_6f9c7f6a:
 
     # u "(Let's send all of this over to Mr. Lee and see what he thinks.)"
-    u "(Envoyons tout ça à Mr Lee pour voir ce qu'il en pense)."
+    u "(Envoyons tout ça à Mr Lee pour voir ce qu'il en pense.)"
 
 # game/v13/scene20.rpy:243
 translate francais v13s20_end_44f0c4ca:

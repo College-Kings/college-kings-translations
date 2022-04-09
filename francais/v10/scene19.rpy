@@ -16,13 +16,13 @@ translate francais v10s19_PhoneContinue_9dfc1a01:
 translate francais v10s19_PhoneContinue_a80033b1:
 
     # u "(Hmm, maybe I should invite Penelope too, otherwise it’s just me and Jenny.)"
-    u "(Hmm, peut-être que je devrais inviter Pénélope aussi, sinon c'est juste moi et Jenny)."
+    u "(Hmm, peut-être que je devrais inviter Pénélope aussi, sinon c'est juste moi et Jenny.)"
 
 # game/v10/scene19.rpy:46
 translate francais v10s19_PhoneContinue_de3c9155:
 
     # u "(Yeah, I should invite her. Best if she's the one that breaks the news to her.)"
-    u "(Ouais, je devrais l'inviter. C'est mieux si c'est elle qui lui annonce la nouvelle)."
+    u "(Ouais, je devrais l'inviter. C'est mieux si c'est elle qui lui annonce la nouvelle.)"
 
 # game/v10/scene19.rpy:60
 translate francais v10s19_PhoneContinue1_7b872655:
@@ -34,7 +34,7 @@ translate francais v10s19_PhoneContinue1_7b872655:
 translate francais v10s19_PhoneContinue1_adc921bd:
 
     # u "(I hope this goes smooth, Jenny hearing it from Penelope will probably help them both process the situation.)"
-    u "(J'espère que ça se passera en douceur, le fait que Jenny l'entende de la bouche de Pénélope les aidera sûrement à gérer la situation ensemble)."
+    u "(J'espère que ça se passera en douceur, le fait que Jenny l'entende de la bouche de Pénélope les aidera sûrement à gérer la situation ensemble.)"
 
 # game/v10/scene19.rpy:66
 translate francais v10s19_PhoneContinue1_32e98c58:
@@ -112,7 +112,7 @@ translate francais v10s19_PhoneContinue1_723d58ff:
 translate francais v10s19_PhoneContinue1_0ce7200d:
 
     # u "(I'm seeing everybody today. It is getting a little dark, I'm gonna hurry up and get back.)"
-    u "(Je vois tout le monde aujourd'hui. Il commence à faire un peu sombre, je vais me dépêcher de rentrer)."
+    u "(Je vois tout le monde aujourd'hui. Il commence à faire un peu sombre, je vais me dépêcher de rentrer.)"
 
 translate francais strings:
 
@@ -134,7 +134,7 @@ translate francais strings:
 translate francais v10s19_PhoneContinue_ce52b2d3:
 
     # u "(Hmm, maybe I should invite Penelope too, otherwise it's just me and Jenny.)"
-    u "(Hmm, peut-être que je devrais inviter Pénélope aussi, sinon c'est juste moi et Jenny)."
+    u "(Hmm, peut-être que je devrais inviter Pénélope aussi, sinon c'est juste moi et Jenny.)"
 
 # game/v10/scene19.rpy:66
 translate francais v10s19_PhoneContinue1_41376b52:

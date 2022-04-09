@@ -5072,8 +5072,8 @@ translate francais wakeupa_288e53e1:
 # game/v6/v6.rpy:5433
 translate francais wakeupa_222e762b:
 
-    # u "*Breathing heavily* (Fuck, that was so exhausting)."
-    u "*Respire fortement* (Putain, c'était vraiment épuisant)."
+    # u "*Breathing heavily* (Fuck, that was so exhausting.)"
+    u "*Respire fortement* (Putain, c'était vraiment épuisant.)"
 
 # game/v6/v6.rpy:5438
 translate francais wakeupa_1908f62b_1:

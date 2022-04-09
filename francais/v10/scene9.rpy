@@ -10,7 +10,7 @@ translate empty v10_leave_fight_d81fd0fd:
 translate empty v10_leave_fight_d8ea90b7:
 
     # u "(Today really didn't go as planned... This is the worst fucking feeling.)"
-    u "(La journée ne s'est vraiment pas déroulée comme prévu... C'est la pire des sensations).."
+    u "(La journée ne s'est vraiment pas déroulée comme prévu... C'est la pire des sensations.)"
 
 # game/v10/scene9.rpy:35
 translate empty v10_leave_fight_d1bfd8b5:
@@ -112,7 +112,7 @@ translate empty v10_leave_fight_d81fd0fd_1:
 translate empty v10_leave_fight_d8ea90b7_1:
 
     # u "(Today really didn't go as planned... This is the worst fucking feeling.)"
-    u "(La journée ne s'est vraiment pas déroulée comme prévu... C'est la pire des sensations)."
+    u "(La journée ne s'est vraiment pas déroulée comme prévu... C'est la pire des sensations.)"
 
 # game/v10/scene9.rpy:167
 translate empty v10_leave_fight_d1bfd8b5_1:
@@ -189,7 +189,7 @@ translate francais v10_leave_fight_d81fd0fd:
 translate francais v10_leave_fight_d8ea90b7:
 
     # u "(Today really didn't go as planned... This is the worst fucking feeling.)"
-    u "(La journée ne s'est vraiment pas déroulée comme prévu... C'est la pire des sensations)."
+    u "(La journée ne s'est vraiment pas déroulée comme prévu... C'est la pire des sensations.)"
 
 # game/v10/scene9.rpy:35
 translate francais v10_leave_fight_d1bfd8b5:
@@ -291,7 +291,7 @@ translate francais v10_leave_fight_d81fd0fd_1:
 translate francais v10_leave_fight_d8ea90b7_1:
 
     # u "(Today really didn't go as planned... This is the worst fucking feeling.)"
-    u "(La journée ne s'est vraiment pas déroulée comme prévu... C'est la pire des sensations)."
+    u "(La journée ne s'est vraiment pas déroulée comme prévu... C'est la pire des sensations.)"
 
 # game/v10/scene9.rpy:167
 translate francais v10_leave_fight_d1bfd8b5_1:

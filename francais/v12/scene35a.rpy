@@ -328,13 +328,13 @@ translate francais v12_nora_no_sex_49126883:
 translate francais v12_nora_no_sex_49c85835:
 
     # u "(She was actually getting ready to cheat on Chris, with me! I know things are pretty bad between them, but with as loyal as she is... She must be at a serious breaking point.)"
-    u "(En fait, elle était prête à tromper Chris, avec moi ! Je sais que les choses sont plutôt mauvaises entre eux, mais avec la fidélité qu'elle a... Elle doit être arrivée à un sérieux point de rupture)."
+    u "(En fait, elle était prête à tromper Chris, avec moi ! Je sais que les choses sont plutôt mauvaises entre eux, mais avec la fidélité qu'elle a... Elle doit être arrivée à un sérieux point de rupture.)"
 
 # game/v12/scene35a.rpy:347
 translate francais v12_nora_no_sex_f9c8b293:
 
     # u "(Maybe it's best for me to rest too. Might be good to just sleep on all this.)"
-    u "(Peut-être que c'est mieux pour moi de me reposer aussi. Ça pourrait être bien de dormir après tout ça)."
+    u "(Peut-être que c'est mieux pour moi de me reposer aussi. Ça pourrait être bien de dormir après tout ça.)"
 
 # game/v12/scene35a.rpy:368
 translate francais v12_nora_sex_34826dad:

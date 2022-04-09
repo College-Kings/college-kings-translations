@@ -88,7 +88,7 @@ translate francais v14s03d_e03d8029:
 translate francais v14s03d_04658944:
 
     # u "*Moans* Satin... (If this is what being a \"nice guy\" gets you, then call me Mr. Nice Guy.)"
-    u "*Gémis* Satine... (Si c'est ce qu'on obtient en étant un \"gentil garçon\", alors appelle-moi Mr Gentil-garçon)."
+    u "*Gémis* Satine... (Si c'est ce qu'on obtient en étant un \"gentil garçon\", alors appelle-moi Mr Gentil-garçon.)"
 
 # game/v14/scene3d.rpy:143
 translate francais v14s03d_b40ddc7d:
@@ -430,7 +430,7 @@ translate francais v14s03d_014743c9:
 translate francais v14s03d_nsfwSkipLabel1_9cb90cf6:
 
     # u "(Well that didn't end exactly how I had imagined.)"
-    u "(Eh ben, ça s'est pas terminé exactement comme je l'avais imaginé)."
+    u "(Eh ben, ça s'est pas terminé exactement comme je l'avais imaginé.)"
 
 translate francais strings:
 

@@ -16,7 +16,7 @@ translate francais v10s20_PhoneContinueW_8bafdcb6:
 translate francais v10s20_PhoneContinueW_eb645489:
 
     # u "(I'm not surprised Josh is so excited about this. Too bad the girls have to meet him in person too.)"
-    u "(Je ne suis pas surpris que Josh soit si excité à ce sujet. Dommage que les filles doivent aussi le rencontrer en personne)."
+    u "(Je ne suis pas surpris que Josh soit si excité à ce sujet. Dommage que les filles doivent aussi le rencontrer en personne.)"
 
 # game/v10/scene20.rpy:58
 translate francais v10s20_PhoneContinueW_9791da08:
@@ -40,7 +40,7 @@ translate francais v10s20_PhoneContinueW_435bc466:
 translate francais v10s20_PhoneContinueW_34c42768:
 
     # u "(I guess I’ll figure that out if it ever comes to it. It's about time I go to bed.)"
-    u "(Je pense que je le découvrirai si jamais on en arrive là. Il est temps que j'aille me coucher)."
+    u "(Je pense que je le découvrirai si jamais on en arrive là. Il est temps que j'aille me coucher.)"
 
 # game/v10/scene20.rpy:98
 translate francais v10s20_PhoneContinue2_15080039:
@@ -58,7 +58,7 @@ translate francais v10s20_PhoneContinue2_8bafdcb6:
 translate francais v10s20_PhoneContinue2_eb645489:
 
     # u "(I'm not surprised Josh is so excited about this. Too bad the girls have to meet him in person too.)"
-    u "(Je ne suis pas surpris que Josh soit si excité à ce sujet. Dommage que les filles doivent aussi le rencontrer en personne)."
+    u "(Je ne suis pas surpris que Josh soit si excité à ce sujet. Dommage que les filles doivent aussi le rencontrer en personne.)"
 
 # game/v10/scene20.rpy:115
 translate francais v10s20_PhoneContinue2_9791da08:
@@ -82,7 +82,7 @@ translate francais v10s20_PhoneContinue2_435bc466:
 translate francais v10s20_PhoneContinue2_34c42768:
 
     # u "(I guess I’ll figure that out if it ever comes to it. It's about time I go to bed.)"
-    u "(Je pense que je le découvrirai si jamais on en arrive là. Il est temps que j'aille me coucher)."
+    u "(Je pense que je le découvrirai si jamais on en arrive là. Il est temps que j'aille me coucher.)"
 
 # TODO: Translation updated at 2021-11-19 17:55
 
@@ -96,7 +96,7 @@ translate francais v10s20_PhoneContinueW_66785db8:
 translate francais v10s20_PhoneContinueW_7c1c2f0f:
 
     # u "(I guess I'll figure that out if it ever comes to it. It's about time I go to bed.)"
-    u "(Je pense que je le découvrirai si jamais on en arrive là. Il est temps que j'aille me coucher)."
+    u "(Je pense que je le découvrirai si jamais on en arrive là. Il est temps que j'aille me coucher.)"
 
 # game/v10/scene20.rpy:98
 translate francais v10s20_PhoneContinue2_66785db8:
@@ -108,4 +108,4 @@ translate francais v10s20_PhoneContinue2_66785db8:
 translate francais v10s20_PhoneContinue2_7c1c2f0f:
 
     # u "(I guess I'll figure that out if it ever comes to it. It's about time I go to bed.)"
-    u "(Je pense que je le découvrirai si jamais on en arrive là. Il est temps que j'aille me coucher)."
+    u "(Je pense que je le découvrirai si jamais on en arrive là. Il est temps que j'aille me coucher.)"

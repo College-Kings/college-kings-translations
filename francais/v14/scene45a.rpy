@@ -298,7 +298,7 @@ translate francais v14s45a_4f9c49f9:
 translate francais v14s45a_7a8429de:
 
     # u "(Holy shit, that's the cutest thing I've ever heard.)"
-    u "(Putain de merde, c'est la chose la plus mignonne que j'ai jamais entendue)."
+    u "(Putain de merde, c'est la chose la plus mignonne que j'ai jamais entendue.)"
 
 # game/v14/scene45a.rpy:267
 translate francais v14s45a_b71c56ba:

@@ -4,7 +4,7 @@
 translate francais v9_warehouse_lindsey_95bc6014:
 
     # u "(I need a breather. I should go see what this lineup looks like. Prepare myself for the night.)"
-    u "(J'ai besoin de respirer un peu. Je devrais aller voir à quoi ressemble la programmation. Me préparer pour la soirée)."
+    u "(J'ai besoin de respirer un peu. Je devrais aller voir à quoi ressemble la programmation. Me préparer pour la soirée.)"
 
 # game/v9/scene44.rpy:24
 translate francais v9_warehouse_lindsey_91786a3f:

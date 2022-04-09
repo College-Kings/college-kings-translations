@@ -442,7 +442,7 @@ translate francais v11_lauren_store_b54e4039:
 translate francais v11_lauren_store_f6b05e34:
 
     # u "(So I'm not the only one who thinks he's annoying.)"
-    u "(Ça me rassure, je ne suis donc pas le seul à penser qu'il est chiant)."
+    u "(Ça me rassure, je ne suis donc pas le seul à penser qu'il est chiant.)"
 
 # game/v11/scene30.rpy:477
 translate francais v11_lauren_store_88e453c1:
@@ -1288,7 +1288,7 @@ translate francais v11s30_PhoneContinuelauren2_88d710ce:
 translate francais v11s30_PhoneContinuelauren2_f4fe3f3a:
 
     # u "(That's how you start a day off right. Let's see what else today has to offer.)"
-    u "(C'est ainsi que l'on commence bien une journée. Voyons ce que celle-ci a encore à offrir)."
+    u "(C'est ainsi que l'on commence bien une journée. Voyons ce que celle-ci a encore à offrir.)"
 
 translate francais strings:
 
@@ -1369,4 +1369,4 @@ translate francais v11s30_PhoneContinuelauren2_8fa0b9ac:
 translate francais v11s30_PhoneContinuelauren1_f4fe3f3a:
 
     # u "(That's how you start a day off right. Let's see what else today has to offer.)"
-    u "(C'est ainsi que l'on commence bien une journée. Voyons ce que celle-ci a encore à offrir)."
+    u "(C'est ainsi que l'on commence bien une journée. Voyons ce que celle-ci a encore à offrir.)"

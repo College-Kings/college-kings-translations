@@ -340,7 +340,7 @@ translate francais v9_train_w_apes_c8407da0:
 translate francais v9_train_w_apes_beb7ec18:
 
     # u "(Great. If he's gonna make Caleb puke on the weight bench, I can't wait to see what he has in store for me.)"
-    u "(Super. S'il va faire vomir Caleb sur le banc de muscu, j'ai hâte de voir ce qu'il me réserve)."
+    u "(Super. S'il va faire vomir Caleb sur le banc de muscu, j'ai hâte de voir ce qu'il me réserve.)"
 
 # game/v9/scene27.rpy:319
 translate francais v9_train_w_apes_6468dd5e:

@@ -502,7 +502,7 @@ translate francais v15s6_9d9f3f63:
 translate francais v15s6_42526a45:
 
     # u "(Oh, there's Chloe. Putting on the charm for support no doubt, haha.)"
-    u "(Oh, voilà Chloé, qui fait certainement du charme pour avoir du soutien, haha)."
+    u "(Oh, voilà Chloé, qui fait certainement du charme pour avoir du soutien, haha.)"
 
 # game/v15/scene6.rpy:526
 translate francais v15s6_e8d77b4b:

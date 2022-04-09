@@ -22,7 +22,7 @@ translate francais v14s01a_nsfwSkipLabel1_1df632ca:
 translate francais v14s01a_nsfwSkipLabel1_bacf76df:
 
     # u "(A fucking dream?! Ugh! I need to get up and do something. I can't sleep right now, I don't care what time it is.)"
-    u "(Un putain de rêve ?! Argh ! Je dois me lever et faire quelque chose. Je peux plus dormir maintenant et je me fous de l'heure qu'il est)."
+    u "(Un putain de rêve ?! Argh ! Je dois me lever et faire quelque chose. Je peux plus dormir maintenant et je me fous de l'heure qu'il est.)"
 
 # game/v14/scene1a.rpy:49
 translate francais v14s01a_nsfwSkipLabel1_5aceaef9:

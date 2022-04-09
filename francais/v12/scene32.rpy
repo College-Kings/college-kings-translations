@@ -448,7 +448,7 @@ translate francais v12s32_a70730cf:
 translate francais v12s32_4e40ec5e:
 
     # u "(I think she's jealous of her sister or something, maybe I should boost her up.)"
-    u "(Je pense qu'elle est jalouse de sa soeur ou un truc comme ça, je devrais peut-être la stimuler)."
+    u "(Je pense qu'elle est jalouse de sa soeur ou un truc comme ça, je devrais peut-être la stimuler.)"
 
 # game/v12/scene32.rpy:491
 translate francais v12s32_2ab91731:
@@ -478,7 +478,7 @@ translate francais v12s32_fbbd575c:
 translate francais v12s32_1356a550:
 
     # u "(She's already pressured by her sister, I shouldn't add to it.)"
-    u "(Elle est déjà mise sous pression par sa sœur, je ne devrais pas en rajouter)."
+    u "(Elle est déjà mise sous pression par sa sœur, je ne devrais pas en rajouter.)"
 
 # game/v12/scene32.rpy:517
 translate francais v12s32_83d1fb32:

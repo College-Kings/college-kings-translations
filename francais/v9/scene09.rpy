@@ -4,7 +4,7 @@
 translate francais room_wed_night_effd9593:
 
     # u "(Now this was not a bad day. I guess having fun like this is pretty cool too.)"
-    u "(Voilà, ce n'était pas une mauvaise journée. Je pense que s'amuser comme ça, c'est plutôt cool aussi)."
+    u "(Voilà, ce n'était pas une mauvaise journée. Je pense que s'amuser comme ça, c'est plutôt cool aussi.)"
 
 # game/v9/scene09.rpy:24
 translate francais room_wed_night_0095d73a:
