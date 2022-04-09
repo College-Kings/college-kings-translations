@@ -10,7 +10,7 @@ translate francais v15s30_1409f1c0:
 translate francais v15s30_b6674ac4:
 
     # u "(A lot of fun though, that's for sure.)"
-    u "(Mais on s'est beaucoup amusé, c'est clair.)"
+    u "(Mais on s'est bien amusé, c'est clair.)"
 
 # game/v15/scene30.rpy:25
 translate francais v15s30_3e4fd13f:

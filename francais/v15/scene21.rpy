@@ -208,7 +208,7 @@ translate francais v15s21_a461c707:
 translate francais v15s21_ae87d323:
 
     # u "(I hope I don't regret not bringing those notes.)"
-    u "(J'espère ne pas regretter de ne pas avoir apporté les notes.)"
+    u "(J'espère ne pas regretter de pas avoir apporté les notes.)"
 
 # game/v15/scene21.rpy:250
 translate francais v15s21_7d1180fd:
@@ -232,7 +232,7 @@ translate francais v15s21_16c00253:
 translate francais v15s21_b049045d:
 
     # u "In all fairness, they have every right to walk in here and ask for lower tuition fees. They just have to ask. This isn't favoritism."
-    u "En toute impartialité, ils ont tout à fait le droit de se présenter et de solliciter une baisse des frais de scolarité. Il leur suffit de demander. Ce n'est pas du favoritisme."
+    u "En toute impartialité, ils ont tout à fait le droit de se présenter et de solliciter une baisse des frais de scolarité. Il leur suffit de demander. C'est pas du favoritisme."
 
 # game/v15/scene21.rpy:274
 translate francais v15s21_0070e693:
@@ -274,7 +274,7 @@ translate francais v15s21_3663a1b8:
 translate francais v15s21_467f3372:
 
     # u "Why should the future of the Chicks have to suffer because others are sad that they didn't think of it first?"
-    u "Pourquoi l'avenir des Chicks devrait-il souffrir parce que d'autres sont déçus de ne pas y avoir pensé en premier ?"
+    u "Pourquoi l'avenir des Chicks devrait-il souffrir parce que d'autres sont déçus de pas y avoir pensé en premier ?"
 
 # game/v15/scene21.rpy:309
 translate francais v15s21_4c94f691:
@@ -1066,7 +1066,7 @@ translate francais v15s21_5e77c0c0_1:
 translate francais v15s21_e08d248d:
 
     # u "(Can she even afford to pay for tuition...?)"
-    u "(Peut-elle au moins se permettre de payer les frais de scolarité... ?)"
+    u "(Peut-elle au moins se permettre de payer les frais de scolarité...?)"
 
 # game/v15/scene21.rpy:1014
 translate francais v15s21_df321a12:
@@ -1227,8 +1227,8 @@ translate francais v15s21_30f67d07:
 # game/v15/scene21.rpy:1191
 translate francais v15s21_48bc5045:
 
-    # u "(That's one way to put it)"
-    u "(C'est une manière de le dire)"
+    # u "(That's one way to put it.)"
+    u "(C'est une manière de le dire.)"
 
 # game/v15/scene21.rpy:1196
 translate francais v15s21_5779526c:
@@ -1348,7 +1348,7 @@ translate francais v15s21_b3442f68:
 translate francais v15s21_ae87d323_1:
 
     # u "(I hope I don't regret not bringing those notes.)"
-    u "(J'espère que je ne regretterai pas de ne pas avoir apporté ces notes)."
+    u "(J'espère que je regretterai pas de ne pas avoir apporté ces notes)."
 
 # game/v15/scene21.rpy:1321
 translate francais v15s21_e348eb5d:
@@ -2062,13 +2062,13 @@ translate francais v15s21_c76e3b40:
 translate francais v15s21_a5b7ac8d:
 
     # cl "Please, excuse me for a minute, Ms. Rose. I'm just going to run to the restroom."
-    cl "Veuillez m'excuser une minute, Mme Rose. Il faut que j'aille aux toilettes."
+    cl "S'il vous plaît, Je vous prie de m'excuser une minute, Mme Rose. Il faut que j'aille aux toilettes."
 
 # game/v15/scene21.rpy:2040
 translate francais v15s21_f057284d:
 
     # ro "Oh, sure. No problem."
-    ro "S'il vous plaît, Je vous prie de m'excuser une minute, Mme Rose. Il faut que j'aille aux toilettes."
+    ro "Oh, bien sûr. Pas de problème."
 
 # game/v15/scene21.rpy:2055
 translate francais v15s21_39451343:
@@ -2146,7 +2146,7 @@ translate francais v15s21_ed327793:
 translate francais v15s21_5ddbc988:
 
     # ro "Hmm, that could take a while. *Laughs*"
-    ro "Hmm, ça pourrait prendre un certain temps. *Rire"
+    ro "Hmm, ça pourrait prendre un certain temps. *Rire*"
 
 # game/v15/scene21.rpy:2140
 translate francais v15s21_a3b37a28:
@@ -2236,13 +2236,13 @@ translate francais v15s21_ab54cc15:
 translate francais v15s21_f7a2bd76:
 
     # u "But if you can't support what I'm asking..."
-    u "Mais si tu ne peux pas soutenir ce que je demande..."
+    u "Mais si tu peux pas soutenir ce que je demande..."
 
 # game/v15/scene21.rpy:2241
 translate francais v15s21_7a4e37cb:
 
     # u "I'm not sure how much longer I can stay quiet about our relationship."
-    u "Je ne sais pas pendant encore combien de temps je pourrai rester discret sur notre relation."
+    u "Je sais pas pendant encore combien de temps je pourrai rester discret sur notre relation."
 
 # game/v15/scene21.rpy:2251
 translate francais v15s21_67ebe868:
@@ -2278,7 +2278,7 @@ translate francais v15s21_454e466a:
 translate francais v15s21_32a76fa1:
 
     # u "It would. You're right."
-    u "C'est vrai. Tu as raison."
+    u "C'est vrai. T'as raison."
 
 # game/v15/scene21.rpy:2285
 translate francais v15s21_f4f38927:
@@ -2296,7 +2296,7 @@ translate francais v15s21_a4792f60_2:
 translate francais v15s21_b0012637:
 
     # u "It's not too much to ask for, is it?"
-    u "Ce n'est pas trop demander, si ?"
+    u "C'est pas trop demander, si ?"
 
 # game/v15/scene21.rpy:2310
 translate francais v15s21_a35a98de:

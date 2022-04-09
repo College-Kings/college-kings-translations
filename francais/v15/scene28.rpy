@@ -64,7 +64,7 @@ translate francais v15s28_89f0157e:
 translate francais v15s28_e75c3c95:
 
     # jen "We tell each other everything, babe. *Laughs*"
-    jen "Nous nous disons tout, bébé. *Rire*"
+    jen "On se dit tout, bébé. *Rire*"
 
 # game/v15/scene28.rpy:79
 translate francais v15s28_88a3579d:
@@ -154,7 +154,7 @@ translate francais v15s28_a76699f1:
 translate francais v15s28_bb50d40c:
 
     # u "Hey, ladies, no need to fight. *Chuckles* Why don't I keep the peace with some drinks?"
-    u "Hé, les filles, ne vous disputez pas. *Rire* Pourquoi ne pas maintenir la paix avec quelques boissons ?"
+    u "Hé, les filles, vous disputez pas. *Rire* Pourquoi pas maintenir la paix avec quelques boissons ?"
 
 # game/v15/scene28.rpy:155
 translate francais v15s28_5b2791ac:
@@ -184,7 +184,7 @@ translate francais v15s28_dcfe0b08:
 translate francais v15s28_29a05fa7:
 
     # u "Jeez, are you sure you guys haven't had enough already?"
-    u "Putain, vous êtes sûres que vous n'en avez pas déjà trop bu ?"
+    u "Putain, vous êtes sûres que vous en avez pas déjà trop bu ?"
 
 # game/v15/scene28.rpy:180
 translate francais v15s28_6b0d787c:
@@ -202,7 +202,7 @@ translate francais v15s28_a36df9c2:
 translate francais v15s28_f2b9e568:
 
     # pe "Go!"
-    pe "Allez !"
+    pe "Vas-y !"
 
 # game/v15/scene28.rpy:192
 translate francais v15s28_80f5248c:
@@ -226,7 +226,7 @@ translate francais v15s28_3ce5d519:
 translate francais v15s28_465dd5ee:
 
     # jen "You cute little cuddle bugs!"
-    jen "Mignonnes petites bestioles à câliner !"
+    jen "Vous vous câliniez comme de mignonnes petites bestioles !"
 
 # game/v15/scene28.rpy:218
 translate francais v15s28_124eaec7:
@@ -262,7 +262,7 @@ translate francais v15s28_63e64a0b:
 translate francais v15s28_94e3e3cd:
 
     # jen "Eeeeeep!"
-    jen "Youhooou !"
+    jen "YOUHOOOU !"
 
 # game/v15/scene28.rpy:253
 translate francais v15s28_994f5f9e:
@@ -508,7 +508,7 @@ translate francais v15s28_4cd39965:
 translate francais v15s28_604ef312:
 
     # sa "I wish I didn't, ha."
-    sa "J'aimerais ne pas avoir à le supporter, moi."
+    sa "J'aimerais pas avoir à le supporter, moi."
 
 # game/v15/scene28.rpy:474
 translate francais v15s28_9d6a6802:
@@ -574,7 +574,7 @@ translate francais v15s28_b5af187b:
 translate francais v15s28_5e205d01:
 
     # u "I am."
-    u "Oui."
+    u "Ouais."
 
 # game/v15/scene28.rpy:538
 translate francais v15s28_a51eafbe:
@@ -622,7 +622,7 @@ translate francais v15s28_36e6688f:
 translate francais v15s28_6d2c7012:
 
     # sa "It's okay. No one ever does, ha."
-    sa "T'inquiète. Personne ne me remarque jamais..."
+    sa "T'inquiète. Personne me remarque jamais..."
 
 # game/v15/scene28.rpy:579
 translate francais v15s28_75753211:
@@ -676,7 +676,7 @@ translate francais v15s28_f5e46d25:
 translate francais v15s28_7cd4f391:
 
     # sa "I can still go out, I just don't get fucked up, y'know?"
-    sa "Je sors toujours, mais je ne me fais pas chier, tu vois ?"
+    sa "Je sors toujours, comme ça j'me fais pas chier, tu vois ?"
 
 # game/v15/scene28.rpy:625
 translate francais v15s28_de535c5b:
@@ -784,7 +784,7 @@ translate francais v15s28_faab0144:
 translate francais v15s28_d8d6cef2:
 
     # sa "Haha, for now. Someone will try to swoop in soon enough, they always do."
-    sa "Haha, pour l'instant, oui. Il y a bien quelqu'un qui va bientôt essayer de s'incruster, ça ne rate jamais."
+    sa "Haha, pour l'instant, oui. Il y a bien quelqu'un qui va bientôt essayer de s'incruster, ça rate jamais."
 
 # game/v15/scene28.rpy:713
 translate francais v15s28_f63776d1:
@@ -826,7 +826,7 @@ translate francais v15s28_e277b170:
 translate francais v15s28_487d457b:
 
     # u "(Even if your psycho brother won't...)"
-    u "(Même si ton frère psychopathe ne le fera jamais...)"
+    u "(Même si ton frère psychopathe le fera jamais...)"
 
 # game/v15/scene28.rpy:748
 translate francais v15s28_309ca814:
@@ -850,7 +850,7 @@ translate francais v15s28_54a885df:
 translate francais v15s28_a6335765:
 
     # u "Oh, hey, Sam. Didn't see you there, haha."
-    u "Oh, salut, Sam. J'avais pas vu que tu étais là, haha."
+    u "Oh, salut, Sam. J'avais pas vu que t'étais là, haha."
 
 # game/v15/scene28.rpy:769
 translate francais v15s28_0f0791b1:
@@ -1090,7 +1090,7 @@ translate francais v15s28_70f116e4:
 translate francais v15s28_042cf6b0:
 
     # pe "Oh, shit! They'll be closing in a few minutes. We should probably try to beat the rush."
-    pe "Oh, merde ! Ils vont fermer dans quelques minutes. On devrait essayer de devancer la foule."
+    pe "Oh, merde ! Ils vont fermer dans quelques minutes. On devrait essayer de devancer la foule qui va sortir."
 
 # game/v15/scene28.rpy:1082
 translate francais v15s28_75c18712:

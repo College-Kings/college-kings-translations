@@ -454,7 +454,7 @@ translate francais v15s25_1c8c1467:
 translate francais v15s25_0e5ef936:
 
     # u "Eight hundred seems a little steep..."
-    u "800$ ça m'a l'air un peu lourd..."
+    u "800$ ça m'a l'air un peu cher..."
 
 # game/v15/scene25.rpy:450
 translate francais v15s25_b3f2e1ec:
@@ -712,7 +712,7 @@ translate francais v15s25_1c617818:
 translate francais v15s25_1e420485:
 
     # admin "It's the VIP party package. If it was cheap, it wouldn't be for VIPs."
-    admin "Il s'agit du forfait fête VIP. Si elle était bon marché, elle ne serait pas conçue pour les VIP."
+    admin "Il s'agit du forfait fête VIP. S'il était bon marché, il ne serait pas conçue pour les VIP."
 
 # game/v15/scene25.rpy:661
 translate francais v15s25_6c208ea3:

@@ -172,7 +172,7 @@ translate francais v15s24_7b1c1392:
 translate francais v15s24_a2bbc741:
 
     # u "Twenty-nine though? I still get ID'd for candy... I'm not sure if I can pass as almost 30 years old."
-    u "Vingt-neuf ans quand même ? On me demande encore ma carte d'identité pour acheter des bonbons... Je ne suis pas sûr de pouvoir passer pour une personne de presque 30 ans."
+    u "Vingt-neuf ans quand même ? On me demande encore ma carte d'identité pour acheter des bonbons... Je suis pas sûr de pouvoir passer pour une personne de presque 30 ans."
 
 # game/v15/scene24.rpy:185
 translate francais v15s24_556f5395:
@@ -1408,7 +1408,7 @@ translate francais v15s24_bdf1cca1:
 translate francais v15s24_dd50ff4b:
 
     # u "That guy is like a brick wall. He wouldn't listen to me, no matter what I said."
-    u "Ce connard est comme un mur. Il ne voulait pas m'écouter, peu importe ce que je disais."
+    u "Ce connard est comme un mur. Il voulait pas m'écouter, peu importe ce que je disais."
 
 # game/v15/scene24.rpy:1403
 translate francais v15s24_31c39197:
@@ -1456,7 +1456,7 @@ translate francais v15s24_047c4d0e:
 translate francais v15s24_49071d16:
 
     # u "Ha, very true. Thanks for not being upset."
-    u "Ha, c'est vrai. Merci de ne pas t'énerver."
+    u "Ha, c'est vrai. Merci de pas t'énerver."
 
 # game/v15/scene24.rpy:1437
 translate francais v15s24_339114ab:
@@ -1486,7 +1486,7 @@ translate francais v15s24_PhoneContinue_3be60011:
 translate francais v15s24_PhoneContinue_f7b95f15:
 
     # u "(I wonder what the surprise could be... Only one way to find out!)"
-    u "(Je me demande quelle pourrait être la surprise... Il n'y a qu'une seule façon de le savoir !)"
+    u "(Je me demande quelle pourrait être la surprise... Y a qu'une seule manière de le savoir !)"
 
 # game/v15/scene24.rpy:1485
 translate francais v15s24_PhoneContinue_8756355d:

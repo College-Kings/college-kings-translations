@@ -28,7 +28,7 @@ translate francais v15s18c_riley_0233a203:
 translate francais v15s18c_riley_c28d503b:
 
     # ri "So, fifty bucks on your girlfriend's big day, huh? What a sugar daddy... *Chuckles*"
-    ri "Alors, 50$ pour le grand jour de ta copine, hein ? On aurait dit le cadeau d'un père à sa fille... *Rire*"
+    ri "Alors, 50$ pour le grand jour de ta petite amie, hein ? On aurait dit le cadeau d'un père à sa fille... *Rire*"
 
 # game/v15/scene18c.rpy:52
 translate francais v15s18c_riley_9b08ec32:
@@ -94,7 +94,7 @@ translate francais v15s18c_riley_5645090b:
 translate francais v15s18c_riley_f0e698f6:
 
     # u "Yeah, hopefully she isn't too upset..."
-    u "Ouais, espérons qu'elle n'est pas trop contrariée..."
+    u "Ouais, espérons qu'elle soit pas trop contrariée..."
 
 # game/v15/scene18c.rpy:118
 translate francais v15s18c_riley_407cb71b:
@@ -298,7 +298,7 @@ translate francais v15s18c_riley_66a6e4f4:
 translate francais v15s18c_riley_687946fd:
 
     # ri "So, romantic jewelry? *Giggles* For a friend?"
-    ri "Donc, un bijou romantique ? *Ricane* Pour une amie ?"
+    ri "Donc, un bijou romantique ? *Ricane* Pour une simple amie ?"
 
 # game/v15/scene18c.rpy:293
 translate francais v15s18c_riley_018a7d8f:
@@ -310,7 +310,7 @@ translate francais v15s18c_riley_018a7d8f:
 translate francais v15s18c_riley_6c039ec8:
 
     # u "I didn't know it would come off as weird, I swear."
-    u "Je ne savais pas que ça paraîtrait bizarre, je te jure."
+    u "Je savais pas que ça paraîtrait bizarre, je te jure."
 
 # game/v15/scene18c.rpy:300
 translate francais v15s18c_riley_59c39b85:
@@ -352,13 +352,13 @@ translate francais v15s18c_riley_2143ad6e:
 translate francais v15s18c_riley_d387d255:
 
     # ri "Haha, he definitely did."
-    ri "Haha, il a vraiment bien travaillé."
+    ri "Haha, oui, il a vraiment bien travaillé."
 
 # game/v15/scene18c.rpy:335
 translate francais v15s18c_riley_55e86340:
 
     # u "*Sighs* Oh well. She didn't seem to hate it..."
-    u "*Soupirs* Oh bah. En tout cas, elle n'avait pas l'air de détester..."
+    u "*Soupirs* Oh bah. En tout cas, elle avait pas l'air de détester..."
 
 # game/v15/scene18c.rpy:340
 translate francais v15s18c_riley_223ef7e5:
@@ -514,7 +514,7 @@ translate francais v15s18c_imre_aubrey_53ccb321:
 translate francais v15s18c_imre_aubrey_c3d109f3:
 
     # au "*Giggles*"
-    au "*Ricane*."
+    au "*Ricane*"
 
 # game/v15/scene18c.rpy:486
 translate francais v15s18c_imre_aubrey_bdab05f3:
@@ -664,7 +664,7 @@ translate francais v15s18c_imre_aubrey_6dc4314b:
 translate francais v15s18c_imre_aubrey_ed52b353:
 
     # u "Haha, don't blame that on me! You're the one who got him fired up."
-    u "Haha, ne rejette pas la faute sur moi ! C'est toi qui l'as enflammé."
+    u "Haha, rejette pas la faute sur moi ! C'est toi qui l'as enflammé."
 
 # game/v15/scene18c.rpy:628
 translate francais v15s18c_imre_aubrey_35842f61:
@@ -790,7 +790,7 @@ translate francais v15s18c_imre_aubrey_486f8c31:
 translate francais v15s18c_aubreysg_597f8897:
 
     # au "So... Do you still need some help with that list you mentioned earlier?"
-    au "Alors... Tu as toujours besoin d'aide pour la liste dont tu m'as parlé tout à l'heure ?"
+    au "Alors... T'as toujours besoin d'aide pour la liste dont tu m'as parlé tout à l'heure ?"
 
 # game/v15/scene18c.rpy:750
 translate francais v15s18c_aubreysg_1b3da86d:
@@ -820,7 +820,7 @@ translate francais v15s18c_aubreysg_eff3b904:
 translate francais v15s18c_aubreysg_4ce7c004:
 
     # au "Yeah, so? What she doesn't know won't hurt her, hehe."
-    au "Et alors ? Ce qu'elle ne sait pas ne lui fera pas de mal, héhé."
+    au "Et alors ? Ce qu'elle sait pas lui fera pas de mal, héhé."
 
 # game/v15/scene18c.rpy:784
 translate francais v15s18c_aubreysg_92983e5c:
@@ -916,7 +916,7 @@ translate francais v15s18c_aubreysg_0c85aa2e:
 translate francais v15s18c_aubreysg_445b5f59:
 
     # u "We don't want anyone interrupting us, do we?"
-    u "On ne veut pas que quelqu'un nous interrompe, hein ?"
+    u "On veut pas que quelqu'un nous interrompe, hein ?"
 
 # game/v15/scene18c.rpy:918
 translate francais v15s18c_aubreysg_548bb5fa:
@@ -970,7 +970,7 @@ translate francais v15s18c_aubreysg_3da13d1c:
 translate francais v15s18c_aubreysg_4b576d42:
 
     # u "You're so wet..."
-    u "Tu es si mouillée..."
+    u "T'es si mouillée..."
 
 # game/v15/scene18c.rpy:984
 translate francais v15s18c_aubreysg_6efd31ee:
@@ -1138,7 +1138,7 @@ translate francais v15s18c_nsfwSkipLabelAub_f5e70424:
 translate francais v15s18c_nsfwSkipLabelAub_84d83784:
 
     # u "(Now would be the perfect chance to steal a pair of panties for the list... I just hope Autumn won't notice.)"
-    u "( Ça serait l'occasion parfaite de voler une paire de culottes pour la liste.... J'espère juste qu'Autumn ne le remarquera pas.)"
+    u "(Ça serait l'occasion parfaite de voler une paire de culottes pour la liste.... J'espère juste qu'Autumn le remarquera pas.)"
 
 # game/v15/scene18c.rpy:1181
 translate francais v15s18c_nsfwSkipLabelAub_efc25783:
@@ -1240,7 +1240,7 @@ translate francais v15s18c_ryan_ee91fea3:
 translate francais v15s18c_ryan_aad89788:
 
     # u "Alright, are you sure you're okay?"
-    u "D'accord, tu es sûr que tout va bien ?"
+    u "D'accord, t'es sûr que tout va bien ?"
 
 # game/v15/scene18c.rpy:1288
 translate francais v15s18c_ryan_a197efe0:
@@ -1336,7 +1336,7 @@ translate francais v15s18c_ryan_e58ad414:
 translate francais v15s18c_lauren_f2d87c71:
 
     # u "Hey, there you are. Hiding from your own party? *Laughs*"
-    u "Hey, tu es là. Tu te caches de ta propre fête ? *Rire*"
+    u "Hey, t'es là. Tu te caches de ta propre fête ? *Rire*"
 
 # game/v15/scene18c.rpy:1391
 translate francais v15s18c_lauren_cdd15967:
@@ -1420,7 +1420,7 @@ translate francais v15s18c_lauren_696c7c79:
 translate francais v15s18c_lauren_dd8a01fe:
 
     # u "Haha, of course everyone showed up! You're a pretty popular girl, Lauren."
-    u "Haha, bien sûr que tout le monde est venu ! Tu es une fille assez populaire, Lauren."
+    u "Haha, bien sûr que tout le monde est venu ! T'es une fille assez populaire, Lauren."
 
 # game/v15/scene18c.rpy:1467
 translate francais v15s18c_lauren_e364c794:
@@ -1516,7 +1516,7 @@ translate francais v15s18c_lauren_ebb05788:
 translate francais v15s18c_lauren_8d33cc11:
 
     # u "By the way, you look amazing tonight."
-    u "Au fait, tu es superbe ce soir."
+    u "Au fait, t'es superbe ce soir."
 
 # game/v15/scene18c.rpy:1547
 translate francais v15s18c_lauren_ef1bb426:
@@ -1534,7 +1534,7 @@ translate francais v15s18c_lauren_c631639e:
 translate francais v15s18c_lauren_7ccc0fdc:
 
     # u "You're very welcome."
-    u "Il n'y a vraiment pas de quoi."
+    u "Y a vraiment pas de quoi."
 
 # game/v15/scene18c.rpy:1574
 translate francais v15s18c_lauren_4ae0ee62:
@@ -1624,7 +1624,7 @@ translate francais v15s18c_autumn_amber_45af36bd:
 translate francais v15s18c_autumn_amber_4b78da8c:
 
     # am "Haha, yes! It's exactly like coffee you basic bitch."
-    am "Haha, oui ! Exactement comme le café, cette petite salope ordinaire."
+    am "Haha, ouaip ! Exactement comme le café, cette petite salope ordinaire."
 
 # game/v15/scene18c.rpy:1665
 translate francais v15s18c_autumn_amber_d12d1f13:
@@ -1648,7 +1648,7 @@ translate francais v15s18c_autumn_amber_27e78e6c:
 translate francais v15s18c_autumn_amber_f7a0e035:
 
     # am "Although obviously... I don't do that anymore. But I can at least pass on my wisdom to others."
-    am "Même si, bien sûr... Je n'y touche plus. Par contre, je peux au moins faire profiter les autres de mes connaissances."
+    am "Même si, bien sûr... J'y touche plus. Par contre, je peux au moins faire profiter les autres de mes connaissances."
 
 # game/v15/scene18c.rpy:1683
 translate francais v15s18c_autumn_amber_20ae1b45:
@@ -1738,7 +1738,7 @@ translate francais v15s18c_autumn_amber_84be8bc1:
 translate francais v15s18c_autumn_amber_f4cd1aef:
 
     # u "Well, you might have already heard, but I have this list of challenges that I've been working on."
-    u "Tu es peut-être déjà au courant, mais j'ai cette liste de défis sur laquelle j'ai travaillé."
+    u "T'es peut-être déjà au courant, mais j'ai cette liste de défis sur laquelle j'ai travaillé."
 
 # game/v15/scene18c.rpy:1763
 translate francais v15s18c_autumn_amber_3358b4dc:
@@ -1780,13 +1780,13 @@ translate francais v15s18c_autumn_amber_68853ccc:
 translate francais v15s18c_autumn_amber_fcff0074:
 
     # u "I don't mind them, there's always a lot going on though."
-    u "Ils ne me dérangent pas, mais il y a toujours beaucoup de trucs qui se passe."
+    u "Ils me dérangent pas, mais il y a toujours tellement de trucs qui se passe."
 
 # game/v15/scene18c.rpy:1795
 translate francais v15s18c_autumn_amber_38a10f60:
 
     # aut "Speaking of a lot... I have a shit ton of homework."
-    aut "En parlant de beaucoup... J'ai une tonne de devoirs à faire."
+    aut "En parlant de \"tellement\"... J'ai une tonne de devoirs à faire."
 
 # game/v15/scene18c.rpy:1800
 translate francais v15s18c_autumn_amber_c5446f18:
@@ -1804,7 +1804,7 @@ translate francais v15s18c_autumn_amber_ac35c0e5:
 translate francais v15s18c_autumn_amber_569c471b:
 
     # u "You are a nerd."
-    u "Tu es une intello."
+    u "T'es une intello."
 
 # game/v15/scene18c.rpy:1815
 translate francais v15s18c_autumn_amber_e06fb34e:
@@ -1828,7 +1828,7 @@ translate francais v15s18c_autumn_amber_e1bb96e9:
 translate francais v15s18c_autumn_amber_8f3f16b2:
 
     # u "Okay, okay. It was fun seeing you again, and great work on the decorations."
-    u "Ok, ok. C'était sympa de te revoir, et tu as fait du bon boulot avec les décorations."
+    u "Ok, ok. C'était sympa de te revoir, et t'as fait fort avec les décorations."
 
 # game/v15/scene18c.rpy:1835
 translate francais v15s18c_autumn_amber_bdb875f9:
@@ -1876,7 +1876,7 @@ translate francais v15s18c_autumn_amber_5888cd9b:
 translate francais v15s18c_autumn_amber_bcb9359a:
 
     # u "Actually, it's okay, haha. Never mind."
-    u "En fait, c'est bon, haha. Ne t'en fais pas."
+    u "En fait, c'est bon, haha. T'en fais pas."
 
 # game/v15/scene18c.rpy:1887
 translate francais v15s18c_autumn_amber_724bb916:
@@ -1900,7 +1900,7 @@ translate francais v15s18c_autumn_amber_10d23f72:
 translate francais v15s18c_autumn_amber_5c701db7:
 
     # u "Anyway, I'm gonna go catch everyone else before the party ends."
-    u "Bref, je vais aller retrouver tous les autres avant que la soirée ne se termine."
+    u "Bref, je vais aller retrouver tout les autres avant que la soirée se termine."
 
 # game/v15/scene18c.rpy:1904
 translate francais v15s18c_autumn_amber_339fa3bc:
@@ -1954,7 +1954,7 @@ translate francais v15s18c_autumnsg_b6f2b3e6:
 translate francais v15s18c_autumnsg_867da7aa:
 
     # u "Exactly, yeah. I would never do anything to hurt Lau-"
-    u "Oui, tout à fait. Je ne ferais jamais rien qui puisse blesser Lau-"
+    u "Oui, tout à fait. Je ferais jamais rien qui puisse blesser Lau-"
 
 # game/v15/scene18c.rpy:1971
 translate francais v15s18c_autumnsg_34f50352:
@@ -2050,7 +2050,7 @@ translate francais v15s18c_autumnsg_fc970a72:
 translate francais v15s18c_autumnsg_06c69842:
 
     # u "I understand. No worries."
-    u "Je comprends. Ne t'inquiète pas."
+    u "Je comprends. T'inquiète pas."
 
 # game/v15/scene18c.rpy:2053
 translate francais v15s18c_autumnsg_bc4d3b8f:
@@ -2092,7 +2092,7 @@ translate francais v15s18c_autumnsg_8064c10c:
 translate francais v15s18c_autumnsg_3d26c476:
 
     # u "It's cool, no worries."
-    u "C'est cool, ne t'inquiète pas."
+    u "C'est cool, t'inquiète pas."
 
 # game/v15/scene18c.rpy:2087
 translate francais v15s18c_autumnsg_39e80ff4:
@@ -2266,7 +2266,7 @@ translate francais v15s18c_chris_penelope_5b7b7961:
 translate francais v15s18c_chris_penelope_7016a499:
 
     # u "(Sorry, Penelope. I don't want anything to do with sad boy Chris, I'm outta here!)"
-    u "(Désolé, Pénélope. Je ne veux rien avoir à faire avec ce pauvre mec triste qu'est devenu Chris, je m'en vais.)"
+    u "(Désolé, Pénélope. Je veux rien avoir à faire avec ce pauvre mec triste qu'est devenu Chris, je m'en vais.)"
 
 # game/v15/scene18c.rpy:2295
 translate francais v15s18c_chris_penelope_4caec112:
@@ -2326,13 +2326,13 @@ translate francais v15s18c_chris_penelope_6e9bea9e:
 translate francais v15s18c_chris_penelope_435e7dab:
 
     # pe "Chris is a nice guy, but damn! He can be boring as hell sometimes..."
-    pe "Chris est un gentil garçon, mais merde ! Il est parfois extrêmement chiant..."
+    pe "Chris est un gentil garçon, mais merde ! Il est parfois vraiment chiant..."
 
 # game/v15/scene18c.rpy:2344
 translate francais v15s18c_chris_penelope_2b981146:
 
     # u "Haha, yeah. He's going through some stuff right now."
-    u "Haha, ouais. Il traverse des difficultés en ce moment."
+    u "Haha, ouais. Il traverse une phase difficile en ce moment."
 
 # game/v15/scene18c.rpy:2349
 translate francais v15s18c_chris_penelope_bdcb161e:
@@ -2542,7 +2542,7 @@ translate francais v15s18c_penelopesg_b2a3fa99:
 translate francais v15s18c_penelopesg_f6f8e9b1:
 
     # u "(I can't believe how good you taste... Holy shit-)"
-    u "(Je n'arrive pas à croire que tu aies si bon goût... Putain de merde-)"
+    u "(J'arrive pas à croire que tu aies si bon goût... Putain de merde-)"
 
 # game/v15/scene18c.rpy:2548
 translate francais v15s18c_penelopesg_fbec25ac:
@@ -2632,13 +2632,13 @@ translate francais v15s18c_nsfwSkipLabelP_a808a3a1:
 translate francais v15s18c_nsfwSkipLabelP_6afdfb2a:
 
     # pe "I think it would be kind of weird if we did anything on this list together."
-    pe "Je trouve que ce serait un peu bizarre si nous faisions ensemble quoi que ce soit de cette liste."
+    pe "Je trouve que ce serait un peu bizarre si on faisait ensemble quoi que ce soit de cette liste."
 
 # game/v15/scene18c.rpy:2664
 translate francais v15s18c_nsfwSkipLabelP_e74e1627:
 
     # pe "Since we're just friends. You know?"
-    pe "Étant donné que nous sommes juste des amis. Tu comprends ?"
+    pe "Étant donné qu'on est juste des amis. Tu comprends ?"
 
 # game/v15/scene18c.rpy:2669
 translate francais v15s18c_nsfwSkipLabelP_daac62bb:
@@ -2674,7 +2674,7 @@ translate francais v15s18c_nsfwSkipLabelP_3e1f5d40:
 translate francais v15s18c_nsfwSkipLabelP_db92a4bf:
 
     # u "Trust me, don't worry about it. *Chuckles*"
-    u "Ne t'inquiète pas pour ça, crois-moi. *Rire*"
+    u "T'inquiète pas pour ça, crois-moi. *Rire*"
 
 # game/v15/scene18c.rpy:2703
 translate francais v15s18c_nsfwSkipLabelP_5d446ccc:

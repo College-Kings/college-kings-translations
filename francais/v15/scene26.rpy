@@ -16,7 +16,7 @@ translate francais v15s26_a53f76cc:
 translate francais v15s26_062136b7:
 
     # u "Wait, are you a Chick now? *Laughs*"
-    u "Attends, tu es une Chick maintenant ? *Rire*"
+    u "Attends, t'es une Chick maintenant ? *Rire*"
 
 # game/v15/scene26.rpy:30
 translate francais v15s26_da2e276b:
@@ -40,7 +40,7 @@ translate francais v15s26_b972a28d:
 translate francais v15s26_7847e4df:
 
     # au "Hey! So, are you ready for your big surprise?"
-    au "Salut ! Alors, tu es prêt pour ta grande surprise ?"
+    au "Salut ! Alors, t'es prêt pour ta grande surprise ?"
 
 # game/v15/scene26.rpy:50
 translate francais v15s26_29c42cc2:
@@ -178,7 +178,7 @@ translate francais v15s26_457796b1:
 translate francais v15s26_006d8d1c:
 
     # au "And you should feel very lucky to be inside. We don't open the door for just anyone, you know."
-    au "Et tu devrais te sentir privilégié d'être à l'intérieur. Nous n'ouvrons pas la porte à n'importe qui, tu sais."
+    au "Et tu devrais te sentir privilégié d'être à l'intérieur. On ouvre pas la porte à n'importe qui, tu sais."
 
 # game/v15/scene26.rpy:178
 translate francais v15s26_e56c516d:
@@ -190,7 +190,7 @@ translate francais v15s26_e56c516d:
 translate francais v15s26_adbf5d5f:
 
     # au "Oh, ha... There's no magic word you goober. You actually fell for that?"
-    au "Oh, ha... Il n'y a pas de mot magique, gros bêta. Tu es vraiment tombé dans le panneau ?"
+    au "Oh, ha... Y a pas de mot magique, gros bêta. T'es vraiment tombé dans le panneau ?"
 
 # game/v15/scene26.rpy:188
 translate francais v15s26_8d023894:
@@ -214,7 +214,7 @@ translate francais v15s26_9d1d5554:
 translate francais v15s26_a309a256:
 
     # au "It's a secret to those who it should be kept from. You're not one of them."
-    au "C'est un secret pour ceux à qui il faut le cacher. Et tu n'es pas l'un d'entre eux."
+    au "C'est un secret pour ceux à qui il faut le cacher. Et t'es pas l'un d'entre eux."
 
 # game/v15/scene26.rpy:208
 translate francais v15s26_030827af:
@@ -484,7 +484,7 @@ translate francais v15s26_f23e0afd:
 translate francais v15s26_59828f1f:
 
     # au "You're telling me that there are people in this world who are happily married into that... arrangement?"
-    au "Tu es en train de me dire qu'il y a des personnes dans ce monde qui sont mariées et heureuses avec cet... arrangement ?"
+    au "T'es en train de me dire qu'il y a des personnes dans ce monde qui sont mariées et heureuses avec cet... arrangement ?"
 
 # game/v15/scene26.rpy:505
 translate francais v15s26_3e38a0fb:
@@ -508,7 +508,7 @@ translate francais v15s26_cf39b514:
 translate francais v15s26_5d722b8c:
 
     # au "But I don't see how a woman could want to be in a marriage like that. It's just..."
-    au "Mais je ne vois vraiment pas pourquoi une femme pourrait désirer un tel mariage. C'est juste..."
+    au "Mais je vois vraiment pas pourquoi une femme pourrait désirer un tel mariage. C'est juste..."
 
 # game/v15/scene26.rpy:525
 translate francais v15s26_b2bca46f:
@@ -604,7 +604,7 @@ translate francais v15s26_ad5ae613:
 translate francais v15s26_07f6d598:
 
     # au "I'm not sharing that person with anyone, and I shouldn't have to."
-    au "Je ne voudrais partager cette relation avec personne et je ne devrais pas avoir à le faire."
+    au "Je voudrais partager cette relation avec personne et je devrais pas avoir à le faire."
 
 # game/v15/scene26.rpy:608
 translate francais v15s26_1dbd823d:
@@ -718,7 +718,7 @@ translate francais v15s26_f2f2c39c:
 translate francais v15s26_1cd6e6af:
 
     # au "There's no way I could share the person I love with someone else."
-    au "Il n'y a pas moyen que je puisse partager la personne que j'aime avec quelqu'un d'autre."
+    au "Y a pas moyen que je puisse partager la personne que j'aime avec quelqu'un d'autre."
 
 # game/v15/scene26.rpy:727
 translate francais v15s26_db0f8b0d:
@@ -736,13 +736,13 @@ translate francais v15s26_5dca6656:
 translate francais v15s26_0d9db2b2:
 
     # u "We can continue having fun together, but I don't think there should be any pressure to get more serious."
-    u "Nous pouvons continuer à nous amuser ensemble, mais je ne pense pas qu'il devrait y avoir la moindre contrainte pour que ça devienne plus sérieux."
+    u "On peut continuer à s'amuser ensemble, mais je pense pas qu'il devrait y avoir la moindre contrainte pour que ça devienne plus sérieux."
 
 # game/v15/scene26.rpy:745
 translate francais v15s26_ec417478:
 
     # u "I don't think it'd work out in the end."
-    u "Je crois qu'au final, ça ne pourrait pas marcher."
+    u "Je crois qu'au final, ça pourrait pas marcher."
 
 # game/v15/scene26.rpy:755
 translate francais v15s26_7625c2fb:
@@ -820,7 +820,7 @@ translate francais v15s26_af27f528:
 translate francais v15s26_c3e72424:
 
     # u "Basically, exactly what Aubrey said. I just couldn't commit like that to more than one person."
-    u "En gros, c'est exactement comme ce qu'a dit Aubrey. Je ne pourrais tout simplement pas m'engager de cette façon auprès de plus d'une personne."
+    u "En gros, c'est exactement comme ce qu'a dit Aubrey. Je pourrais tout simplement pas m'engager de cette façon auprès de plus d'une personne."
 
 # game/v15/scene26.rpy:842
 translate francais v15s26_745d28a6:
@@ -844,7 +844,7 @@ translate francais v15s26_c950d2df:
 translate francais v15s26_c858f6a7:
 
     # u "We're all still friends having good times together. Let's not rock the boat. *Laughs*"
-    u "Nous restons tous des amis qui partagent de très bons moments ensemble. Ne faisons pas de vagues. *Rire*"
+    u "On reste tous des amis qui partageons de très bons moments ensemble. Ne faisons pas de vagues. *Rire*"
 
 # game/v15/scene26.rpy:867
 translate francais v15s26_463adbba:
@@ -874,7 +874,7 @@ translate francais v15s26_5a356dac:
 translate francais v15s26_aeda05de:
 
     # u "Why would you not want to be in a loving relationship with multiple people, if it's possible?"
-    u "Pourquoi ne pas vouloir être dans une relation amoureuse entre plusieurs personnes, si c'est possible ?"
+    u "Pourquoi pas vouloir être dans une relation amoureuse entre plusieurs personnes, si c'est possible ?"
 
 # game/v15/scene26.rpy:902
 translate francais v15s26_8afac0ba:
@@ -910,7 +910,7 @@ translate francais v15s26_58c87dc0:
 translate francais v15s26_25f51f8b:
 
     # u "I agree with Aubrey."
-    u "Je suis d'accord avec Aubrey."
+    u "Je partage l'avis d'Aubrey."
 
 # game/v15/scene26.rpy:935
 translate francais v15s26_7a9cc1d6:
@@ -958,7 +958,7 @@ translate francais v15s26_e23fe37e:
 translate francais v15s26_b8ee2fca:
 
     # au "Were you planning a big proposal tonight? Hehe..."
-    au "Avais-tu prévu une grande demande en mariage ce soir ? Héhé..."
+    au "T'avais prévu une grande demande en mariage ce soir ? Héhé..."
 
 # game/v15/scene26.rpy:975
 translate francais v15s26_1e52eafe:
@@ -988,7 +988,7 @@ translate francais v15s26_89c4e96b:
 translate francais v15s26_1f826764:
 
     # ri "Wait, what? Did I do something to upset her?"
-    ri "Attends, quoi ? J'ai fait quelque chose qui l'a contrariée ?"
+    ri "Attends, quoi ? J'ai fait quelque chose qui l'a contrarié ?"
 
 # game/v15/scene26.rpy:1007
 translate francais v15s26_ebe2a5d4:
@@ -1054,7 +1054,7 @@ translate francais v15s26_c077286a:
 translate francais v15s26_4ebd4042:
 
     # u "(Damn, she's actually upset that the conversation didn't go the way she wanted it to... Yikes.)"
-    u "(Mince, en fait elle est contrariée que la conversation ne se soit pas déroulée comme elle le voulait.... Ouille.)"
+    u "(Mince, en fait elle est contrariée que la conversation se soit pas déroulée comme elle le voulait.... Ouille.)"
 
 # game/v15/scene26.rpy:1070
 translate francais v15s26_5cfee361:
@@ -1164,7 +1164,7 @@ translate francais strings:
 
     # game/v15/scene26.rpy:765
     old "I only want one partner"
-    new "Je ne veux qu'une seule partenaire"
+    new "Je veux qu'une seule partenaire"
 
     # game/v15/scene26.rpy:878
     old "Side with Riley, pro-polygamy"

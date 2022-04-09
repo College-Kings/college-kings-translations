@@ -40,7 +40,7 @@ translate francais v15s32_8bc3ff66:
 translate francais v15s32_a0062b98:
 
     # cl "Get her attention by... breaking her window?"
-    cl "Attirer son attention en... cassant sa fenêtre ?"
+    cl "Tu veux attirer son attention en... cassant sa fenêtre ?"
 
 # game/v15/scene32.rpy:109
 translate francais v15s32_0d773137:
@@ -136,7 +136,7 @@ translate francais v15s32_right_window_d180215f:
 translate francais v15s32_right_window_83fb8cba:
 
     # au "I know Shakespeare, handsome. Whatever you're doing right now is definitely not Shakespeare. *Laughs*"
-    au "Je connais Shakespeare, mon chou. Par contre, ce que tu es en train de me faire, c'est certainement pas du Shakespeare. *Rire*"
+    au "Je connais Shakespeare, mon chou. Par contre, ce que t'es en train de me faire, c'est certainement pas du Shakespeare. *Rire*"
 
 # game/v15/scene32.rpy:209
 translate francais v15s32_right_window_dbbe2aff:
@@ -274,7 +274,7 @@ translate francais v15s32_right_window_87273b5e:
 translate francais v15s32_right_window_d776b076:
 
     # u "She's right. You look absolutely stunning."
-    u "Elle a raison. Tu es vraiment superbe."
+    u "Elle a raison. T'es vraiment superbe."
 
 # game/v15/scene32.rpy:374
 translate francais v15s32_right_window_74a7c78f:
@@ -292,7 +292,7 @@ translate francais v15s32_right_window_b3f2d5eb:
 translate francais v15s32_right_window_62a79946:
 
     # au "And you... You look very handsome today, [name]."
-    au "Et toi... Tu es très beau aujourd'hui, [name]."
+    au "Et toi... T'es très beau aujourd'hui, [name]."
 
 # game/v15/scene32.rpy:393
 translate francais v15s32_right_window_3933e2f5:
@@ -346,7 +346,7 @@ translate francais v15s32_right_window_d1a879d8:
 translate francais v15s32_right_window_fd2c5c45:
 
     # u "Oh, hey Riley. You're still here?"
-    u "Oh, salut Riley. Tu es toujours là ?"
+    u "Oh, salut Riley. T'es toujours là ?"
 
 # game/v15/scene32.rpy:452
 translate francais v15s32_right_window_6255f883:
@@ -502,7 +502,7 @@ translate francais v15s32_right_window_1b4eb939:
 translate francais v15s32_right_window_0d45665f:
 
     # au "You're looking pretty great yourself."
-    au "Tu es également très beau."
+    au "T'es également très beau."
 
 # game/v15/scene32.rpy:599
 translate francais v15s32_right_window_bfe56c88:

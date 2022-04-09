@@ -64,7 +64,7 @@ translate francais v15s27_8c98c4f3:
 translate francais v15s27_0124faf4:
 
     # jen "Me and Penelope! Your two favorite girls?!"
-    jen "Moi et Penelope ! Tes deux favorites ?!"
+    jen "Moi et Pénélope ! Tes deux favorites ?!"
 
 # game/v15/scene27.rpy:104
 translate francais v15s27_3ba3c9d7:
@@ -94,7 +94,7 @@ translate francais v15s27_c7a20d1a:
 translate francais v15s27_649967a0:
 
     # u "*Laughs* Favorite? I'm not so sure."
-    u "*Rire* Favorite ? Je ne suis pas si sûr."
+    u "*Rire* Favorite ? Je suis pas si sûr."
 
 # game/v15/scene27.rpy:127
 translate francais v15s27_247eaf06:
@@ -124,7 +124,7 @@ translate francais v15s27_9fa85117:
 translate francais v15s27_9a13e9f8:
 
     # jen "Oh, come on Grandpa! There's a new underground bar that just opened up, and they're not checking IDs!"
-    jen "Oh, allez Papy ! Il y a un nouveau bar clandestin qui vient d'ouvrir, et ils ne vérifient pas les cartes d'identité !"
+    jen "Oh, allez Papy ! Il y a un nouveau bar clandestin qui vient d'ouvrir, et ils vérifient pas les cartes d'identité !"
 
 # game/v15/scene27.rpy:150
 translate francais v15s27_79cfd543:
@@ -136,7 +136,7 @@ translate francais v15s27_79cfd543:
 translate francais v15s27_13b1899a:
 
     # u "(Good, I wouldn't want a repeat of that Andrew King fiasco...)"
-    u "(Bien, je ne voudrais pas que le désastre d'Andrew King se répète...)"
+    u "(Bien, je voudrais pas que le désastre d'Andrew King se répète...)"
 
 # game/v15/scene27.rpy:154
 translate francais v15s27_c41ccac1:

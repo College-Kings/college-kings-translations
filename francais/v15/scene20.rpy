@@ -16,7 +16,7 @@ translate francais v15s20_bb1b04f2:
 translate francais v15s20_dc0c589f:
 
     # u "I know you're super busy, but can your boyfriend get a kiss first? *Chuckles*"
-    u "Je sais que tu es très occupée, mais ton petit ami peut-il avoir un baiser avant ? *Rire*"
+    u "Je sais que t'es très occupée, mais ton petit ami peut-il avoir un baiser avant ? *Rire*"
 
 # game/v15/scene20.rpy:47
 translate francais v15s20_e7c8c34e:
@@ -88,7 +88,7 @@ translate francais v15s20_00de6c4e:
 translate francais v15s20_5c10c22b:
 
     # cl "And it must make sense for the college too, that's huge. So, we'll need to explain how the Chicks benefit SVC."
-    cl "Et il faut que ça ait du sens pour l'université aussi, ce qui est énorme. Nous devrons donc expliquer en quoi les Chicks profitent au SVC."
+    cl "Et il faut que ça ait du sens pour l'université aussi, ce qui est énorme. On devra donc expliquer en quoi les Chicks profitent au SVC."
 
 # game/v15/scene20.rpy:110
 translate francais v15s20_e0866d53:
@@ -100,13 +100,13 @@ translate francais v15s20_e0866d53:
 translate francais v15s20_4361cb45:
 
     # cl "We just need to be sure that we don't say anything to annoy him or piss him off."
-    cl "Nous devons simplement nous assurer de ne rien dire qui puisse le contrarier ou l'énerver."
+    cl "On devra simplement nous assurer de ne rien dire qui puisse le contrarier ou l'énerver."
 
 # game/v15/scene20.rpy:117
 translate francais v15s20_4207272b:
 
     # cl "Make sure we present only the best points of our proposal, no wasting time."
-    cl "Assure-toi du fait que nous ne présentions que les meilleurs points de notre proposition, sans aucune perte de temps."
+    cl "Assure-toi du fait qu'on ne présente que les meilleurs points de notre proposition, sans aucune perte de temps."
 
 # game/v15/scene20.rpy:122
 translate francais v15s20_cd82aa70:
@@ -256,7 +256,7 @@ translate francais v15s20_6e5c9d8f:
 translate francais v15s20_2c140ae0:
 
     # u "I've never mansplained anything in my life... ever."
-    u "Je n'ai jamais mansplainé personne dans ma vie... jamais."
+    u "J'ai jamais mansplainé personne dans ma vie... jamais."
 
 # game/v15/scene20.rpy:231
 translate francais v15s20_06c679b4:
@@ -292,7 +292,7 @@ translate francais v15s20_8b9b0197:
 translate francais v15s20_1de24f29:
 
     # u "Yeah, we better take them. As long as we aren't staring at it the whole time, I think it's helpful to refer to."
-    u "Ouais, on devrait la prendre. À partir du moment où nous ne la fixons pas en permanence, je pense que ça peut être utile de la consulter."
+    u "Ouais, on devrait la prendre. À partir du moment où on ne la fixe pas en permanence, je pense que ça peut être utile de la consulter."
 
 # game/v15/scene20.rpy:271
 translate francais v15s20_16f40f5b:

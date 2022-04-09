@@ -172,7 +172,7 @@ translate francais v15s22_fa536c80:
 translate francais v15s22_6bb82116:
 
     # u "They could have signed, but they didn't, and that's that."
-    u "Ils auraient pu signer, mais ils ne l'ont pas fait, c'est tout."
+    u "Ils auraient pu signer, mais ils l'ont pas fait, c'est tout."
 
 # game/v15/scene22.rpy:242
 translate francais v15s22_9bacee3e:
@@ -190,7 +190,7 @@ translate francais v15s22_8ec6f61a:
 translate francais v15s22_17f88b91:
 
     # u "She's basically a combination of Mr. Lee and Ms. Rose, isn't she?"
-    u "En gros, c'est une fusion de Mr Lee et de Mme Rose, c'est ça ?"
+    u "En gros, la doyenne est une fusion de Mr Lee et de Mme Rose, c'est ça ?"
 
 # game/v15/scene22.rpy:262
 translate francais v15s22_9618d215:
@@ -292,7 +292,7 @@ translate francais v15s22_614b2828:
 translate francais v15s22_ae4721fe:
 
     # u "(Better just do as she says. Don't want to disturb her while she's busy.)"
-    u "(Il vaut mieux faire ce qu'elle dit. Je ne veux pas la déranger pendant qu'elle est occupée.)"
+    u "(Il vaut mieux faire ce qu'elle dit. Je veux pas la déranger pendant qu'elle est occupée.)"
 
 # game/v15/scene22.rpy:396
 translate francais v15s22_d2bf06fe:
@@ -364,7 +364,7 @@ translate francais v15s22_a453bc8c:
 translate francais v15s22_a3c76f4d:
 
     # u "I'm only joking. Just thought I'd lighten the mood in here..."
-    u "Je ne fais que plaisanter. J'ai simplement pensé pouvoir détendre l'atmosphère..."
+    u "Je fais que plaisanter. J'ai simplement pensé pouvoir détendre l'atmosphère..."
 
 # game/v15/scene22.rpy:473
 translate francais v15s22_5d5fd674:
@@ -760,7 +760,7 @@ translate francais v15s22_0e9bd643:
 translate francais v15s22_50c4a778:
 
     # u "It also encourages less-privileged people to apply. With reduced tuition fees, they might feel they can afford a college education."
-    u "Cela encouragera également les personnes moins privilégiées à postuler. Avec des frais de scolarité réduits, ils pourraient avoir la conviction qu'ils peuvent se permettre une éducation universitaire."
+    u "Cela encouragera également les personnes moins privilégiées à postuler. Avec des frais de scolarité réduits, ils pourraient avoir la conviction de pouvoir se permettre une éducation universitaire."
 
 # game/v15/scene22.rpy:924
 translate francais v15s22_8ce44f9a:
@@ -1168,7 +1168,7 @@ translate francais v15dean_successful_4378afbb:
 translate francais v15dean_successful_74053933:
 
     # cl "Thank you so much for your help in there, [name]."
-    cl "Merci infiniment pour ton aide là-bas, [name]."
+    cl "Merci infiniment pour ton aide là-dedans, [name]."
 
 # game/v15/scene22.rpy:1368
 translate francais v15dean_successful_1b28a406:

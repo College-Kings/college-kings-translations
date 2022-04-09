@@ -64,7 +64,7 @@ translate francais v15s19_359f178b:
 translate francais v15s19_50247abf:
 
     # u "It's okay, Lauren. You don't have to clean up your own birthday party all by yourself. *Laughs*"
-    u "C'est bon, Lauren. Tu n'as pas à nettoyer ta propre fête d'anniversaire toute seule. *Rire*"
+    u "C'est bon, Lauren. T'as pas à nettoyer ta propre fête d'anniversaire toute seule. *Rire*"
 
 # game/v15/scene19.rpy:121
 translate francais v15s19_c631639e:
@@ -118,7 +118,7 @@ translate francais v15s19_02da5d19:
 translate francais v15s19_66047429:
 
     # u "Yeah, everyone did. It was a great party."
-    u "Ouais, tout le monde a fait ça. C'était une super fête."
+    u "Ouais, tout le monde a aimé. C'était une super fête."
 
 # game/v15/scene19.rpy:199
 translate francais v15s19_f544d626:
@@ -178,13 +178,13 @@ translate francais v15s19_PhoneContinueLindsey_62303172:
 translate francais v15s19_PhoneContinueLindsey_6b5d0e65:
 
     # u "I seriously need to go home and change..."
-    u "J'ai vraiment besoin de rentrer chez moi et de me changer..."
+    u "Faut vraiment que je rentre chez moi et que je me change..."
 
 # game/v15/scene19.rpy:318
 translate francais v15s19_PhoneContinueLindsey_554f5e7f:
 
     # la "Yeah... that might be a good idea, haha."
-    la "Ouais... c'est peut-être une bonne idée, haha."
+    la "Ouais... c'est une bonne idée, haha."
 
 # game/v15/scene19.rpy:323
 translate francais v15s19_PhoneContinueLindsey_6ad162ea:

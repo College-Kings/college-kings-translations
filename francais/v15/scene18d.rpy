@@ -64,7 +64,7 @@ translate francais v15s18d_60f1562e:
 translate francais v15s18d_9f9282fb:
 
     # imre "The night isn't over yet. You can still get at least one more, like the sex."
-    imre "La soirée n'est pas encore terminée. Tu peux encore en avoir au moins un autre, comme le sexe."
+    imre "La soirée est pas encore terminée. Tu peux encore en avoir au moins un autre, comme le sexe."
 
 # game/v15/scene18d.rpy:99
 translate francais v15s18d_25e1ce7d:
@@ -94,7 +94,7 @@ translate francais v15s18d_4296d31b:
 translate francais v15s18d_9f9282fb_1:
 
     # imre "The night isn't over yet. You can still get at least one more, like the sex."
-    imre "La soirée n'est pas fine, mec. Tu peux encore en avoir au moins un autre, comme le sexe."
+    imre "La soirée est pas fine, mec. Tu peux encore en avoir au moins un autre, comme le sexe."
 
 # game/v15/scene18d.rpy:130
 translate francais v15s18d_a32be3d3:
@@ -124,13 +124,13 @@ translate francais v15s18d_9eab313e:
 translate francais v15s18d_b1a9c0a7:
 
     # imre "The night isn't over yet. You can still get at least one, like the sex."
-    imre "La soirée n'est pas finie, mec. Tu peux encore en avoir au moins un, comme le sexe."
+    imre "La soirée est pas finie, mec. Tu peux encore en avoir au moins un, comme le sexe."
 
 # game/v15/scene18d.rpy:158
 translate francais v15s18d_3277508b:
 
     # la "One what? Sex?"
-    la "Un quoi ? Sexe ?"
+    la "Un quoi ? Le Sexe ?"
 
 # game/v15/scene18d.rpy:168
 translate francais v15s18d_8f8fe217:
@@ -178,7 +178,7 @@ translate francais v15s18d_8e2f1536:
 translate francais v15s18d_b2511dee:
 
     # u "But I'd only want to if you wanted-"
-    u "Mais je ne le ferais que si tu en avais envie..."
+    u "Mais je le ferais que si tu en avais envie..."
 
 # game/v15/scene18d.rpy:239
 translate francais v15s18d_da4d8d4d:
@@ -268,7 +268,7 @@ translate francais v15s18d_67400ed3:
 translate francais v15s18d_c6fbfa0c:
 
     # u "Don't mind if I do."
-    u "Tu as l'air d'être gênée que je le fasse."
+    u "T'as l'air d'être gênée que je le fasse."
 
 # game/v15/scene18d.rpy:339
 translate francais v15s18d_580af564:
@@ -370,7 +370,7 @@ translate francais v15s18d_e11aa4ff:
 translate francais v15s18d_1f99b3a5:
 
     # u "But I don't want to do that to you, just ignore him. He's trying to get me to play this stupid game."
-    u "Mais je ne veux pas te faire ça, ignore-le. Il essaie de me faire jouer à un jeu débile."
+    u "Mais je veux pas te faire ça, ignore-le. Il essaie de me faire jouer à un jeu débile."
 
 # game/v15/scene18d.rpy:451
 translate francais v15s18d_f1990eef:
@@ -400,7 +400,7 @@ translate francais v15s18d_15cd6b3e:
 translate francais v15s18d_b53c4fda:
 
     # u "It's been a long day, but what an amazing party! Did you enjoy it?"
-    u "La journée a été longue, mais quelle fête incroyable ! Tu en as bien profité ?"
+    u "La journée a été longue, mais quelle fête incroyable ! T'en as bien profité ?"
 
 # game/v15/scene18d.rpy:479
 translate francais v15s18d_6b9ab131:

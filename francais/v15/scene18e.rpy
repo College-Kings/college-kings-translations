@@ -124,7 +124,7 @@ translate francais v15s18e_boobs_b9ef6f81:
 translate francais v15s18e_boobs_ce615001:
 
     # u "You have the most amazing tits, Lauren."
-    u "Tu as les seins les plus incroyables, Lauren."
+    u "T'as les seins les plus incroyables, Lauren."
 
 # game/v15/scene18e.rpy:195
 translate francais v15s18e_boobs_edfa0dc2:
@@ -142,7 +142,7 @@ translate francais v15s18e_boobs_37fd9cd0:
 translate francais v15s18e_boobs_d2a4f2a1:
 
     # la "Mmm, your hands feel good on them too."
-    la "Mmm, tes mains se sentent bien sur eux aussi."
+    la "Mmm, tes mains se sentent bien sur eux, également."
 
 # game/v15/scene18e.rpy:210
 translate francais v15s18e_boobs_3a47bc32:
@@ -160,7 +160,7 @@ translate francais v15s18e_boobs_be08630c:
 translate francais v15s18e_boobs_f828972d:
 
     # u "(I bet you wouldn't... Hehe.)"
-    u "(Je parie que tu n'en aurais pas, non... Héhé.)"
+    u "(J'étais sûr que t'en aurais pas, non... Héhé.)"
 
 # game/v15/scene18e.rpy:227
 translate francais v15s18e_boobs_5e5709d0:
@@ -520,7 +520,7 @@ translate francais v15s18e_end_49a2ed61_1:
 translate francais v15s18e_end_e66ec308:
 
     # la "You're so... fucking deep inside of me..."
-    la "Tu es tellement... loin à l'intérieur de moi..."
+    la "Tu es tellement... profond à l'intérieur de moi..."
 
 # game/v15/scene18e.rpy:565
 translate francais v15s18e_end_29c23e34:
@@ -532,7 +532,7 @@ translate francais v15s18e_end_29c23e34:
 translate francais v15s18e_end_622dd07a:
 
     # u "You're so fucking wet, ha..."
-    u "Tu es si mouillée, ha..."
+    u "T'es si mouillée, ha..."
 
 # game/v15/scene18e.rpy:574
 translate francais v15s18e_end_49a2ed61_2:
@@ -580,7 +580,7 @@ translate francais v15s18e_end_f82c184b:
 translate francais v15s18e_end_11ffce7b:
 
     # u "You're absolutely stunning..."
-    u "Tu es absolument éblouissante..."
+    u "T'es absolument éblouissante..."
 
 # game/v15/scene18e.rpy:613
 translate francais v15s18e_end_82720830:
@@ -706,7 +706,7 @@ translate francais v15s18e_end_1895e6bd:
 translate francais v15s18e_end_f3e511e4:
 
     # u "(Not taking any chances tonight... Sorry, Lauren.)"
-    u "(Je ne veux prendre aucun risque ce soir... Désolé, Lauren.)"
+    u "(Je veux prendre aucun risque ce soir... Désolé, Lauren.)"
 
 # game/v15/scene18e.rpy:730
 translate francais v15s18e_end_80acc26b:
