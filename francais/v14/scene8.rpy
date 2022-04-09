@@ -4,7 +4,7 @@
 translate francais v14s08_5473ad9d:
 
     # u "Hey, hey! I know you're probably ready to get back."
-    u "Hey, hey ! Je sais que tu dois être prête à rentrer."
+    u "Hey, hey ! T'es contente de rentrer ?"
 
 # game/v14/scene8.rpy:27
 translate francais v14s08_bbbd937a:
