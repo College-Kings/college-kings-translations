@@ -16,7 +16,7 @@ translate francais v15s38_54cf9fc6:
 translate francais v15s38_06c1880d:
 
     # gr "Yeah, drink as much as you can! It's all included in the price."
-    gr "Ouais, bois autant que tu peux ! Tout est inclus dans le prix."
+    gr "Ouais, bois autant qu'tu peux ! Tout est inclus dans le prix."
 
 # game/v15/scene38.rpy:84
 translate francais v15s38_9982b576:
@@ -70,7 +70,7 @@ translate francais v15s38_677e8d5f:
 translate francais v15s38_a026afac:
 
     # u "Haha, I'm glad you're looking forward to it."
-    u "Haha, je suis ravi que tu aies hâte d'arriver."
+    u "Haha, je suis ravi que t'aies hâte d'arriver."
 
 # game/v15/scene38.rpy:134
 translate francais v15s38_d5c82af8:
@@ -172,7 +172,7 @@ translate francais v15s38_eac7d8b5:
 translate francais v15s38_4d12f038:
 
     # gr "Nobody likes a President that just cruises along doing nothing."
-    gr "Personne n'aime un président qui se balade sans rien faire."
+    gr "Personne respecte un président qui se balade sans rien faire."
 
 # game/v15/scene38.rpy:227
 translate francais v15s38_d2d781b0:
@@ -364,7 +364,7 @@ translate francais v15s38_57e4bb51:
 translate francais v15s38_b205643e:
 
     # u "I mean, just look at us tonight. Not everyone's a VIP at college, and we're taking a limo to an all-inclusive club."
-    u "Il suffit de nous regarder ce soir. Tout le monde n'est pas un VIP à l'université, et pourtant on prend une limousine pour aller dans un club où tout est inclus."
+    u "Il suffit de nous regarder ce soir. Tout le monde est pas VIP à l'université, et pourtant on prend une limousine pour aller dans un club où tout est inclus."
 
 # game/v15/scene38.rpy:436
 translate francais v15s38_2486abc6:
@@ -436,7 +436,7 @@ translate francais v15s38_ccdb6fca:
 translate francais v15s38_6f014d98:
 
     # au "You seem to be working really hard and people are recognizing that."
-    au "Tu as l'air de travailler très dur et les gens le reconnaissent."
+    au "T'as l'air de travailler très dur et les gens le reconnaissent."
 
 # game/v15/scene38.rpy:513
 translate francais v15s38_7a761331:
@@ -472,7 +472,7 @@ translate francais v15s38_0e8d2a31:
 translate francais v15s38_79f655b9:
 
     # au "And no time for relationships, I bet."
-    au "Et je parie qu'il n'y a plus de temps pour les relations."
+    au "Et je parie qu'il y a plus de temps pour les relations."
 
 # game/v15/scene38.rpy:543
 translate francais v15s38_878f8171:
@@ -514,7 +514,7 @@ translate francais v15s38_5c42410c:
 translate francais v15s38_de7f593f:
 
     # gr "Definitely not Aubrey. Not according to everyone on campus... Haha!"
-    gr "Définitivement pas Aubrey. D'après tout le monde sur le campus, non... Haha !"
+    gr "Définitivement pas Aubrey. D'après tout le monde sur le campus... Haha !"
 
 # game/v15/scene38.rpy:579
 translate francais v15s38_c13186a9:
@@ -694,7 +694,7 @@ translate francais v15s38_94031bed:
 translate francais v15s38_e5660898:
 
     # au "Do you think you'll ever want to have sex with someone?"
-    au "Tu crois qu'un jour, tu auras envie de faire l'amour avec quelqu'un ?"
+    au "Tu crois qu'un jour, t'auras envie de faire l'amour avec quelqu'un ?"
 
 # game/v15/scene38.rpy:744
 translate francais v15s38_55364c9e:
@@ -862,7 +862,7 @@ translate francais v15s38_14471994:
 translate francais v15s38_ca4f2548:
 
     # u "Haha, wait what? Is that actually true?"
-    u "Haha, attends quoi ? Est-ce que c'est la vérité ?"
+    u "Haha, attends quoi ? C'est vrai, tout ça ?"
 
 # game/v15/scene38.rpy:899
 translate francais v15s38_50b6c55e:
@@ -910,7 +910,7 @@ translate francais v15s38_b3a35387:
 translate francais v15s38_2e8dfc2c:
 
     # u "Don't worry, man. Your stinky secret is safe with me."
-    u "Ne t'inquiète pas, mec. Ton secret pourri est en sécurité avec moi."
+    u "T'inquiète pas, mec. Ton secret pourri est en sécurité avec moi."
 
 # game/v15/scene38.rpy:940
 translate francais v15s38_24df68dd:

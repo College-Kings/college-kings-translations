@@ -70,7 +70,7 @@ translate francais v15s46_nocabin_ef2f1671:
 translate francais v15s46_nocabin_ec1b7325:
 
     # am "You're happy with that choice?"
-    am "Es-tu satisfait de ce choix ?"
+    am "T'es satisfait de ce choix ?"
 
 # game/v15/scene46.rpy:104
 translate francais v15s46_nocabin_588596da:
@@ -118,7 +118,7 @@ translate francais v15s46_nocabin_4d81a5fc:
 translate francais v15s46_nocabin_8fc8e16f:
 
     # am "We know that Nora loves nature... Chris told us that Nora's aunt borrowed Mr. Rose's cabin... Nora went to see her aunt only briefly."
-    am "Nous savons que Nora aime la nature... Chris nous a dit que la tante de Nora avait emprunté le chalet de Mr Rose... Nora n'est allée voir sa tante que brièvement."
+    am "On sait que Nora aime la nature... Chris nous a dit que la tante de Nora avait emprunté le chalet de Mr Rose... Nora n'est allée voir sa tante que brièvement."
 
 # game/v15/scene46.rpy:135
 translate francais v15s46_nocabin_f56929c2:

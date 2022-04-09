@@ -10,7 +10,7 @@ translate francais v15s40_976409d1:
 translate francais v15s40_61267b18:
 
     # u "I guess they're just not as hardcore as us."
-    u "Il faut croire qu'ils ne sont pas aussi hardcore que nous."
+    u "Il faut croire qu'ils sont pas aussi hardcore que nous."
 
 # game/v15/scene40.rpy:23
 translate francais v15s40_8805b664:
@@ -34,13 +34,13 @@ translate francais v15s40_77a81224:
 translate francais v15s40_3171ebb4:
 
     # u "Yeah. And sorry if you don't want to like-"
-    u "Ouais. Et je suis désolé si tu ne peux pas..."
+    u "Ouais. Et je suis désolé si tu peux pas..."
 
 # game/v15/scene40.rpy:45
 translate francais v15s40_4ba4d872:
 
     # u "I mean, it's okay if you don't want to talk about it, but they're all asleep now and it's only me."
-    u "Après tout, c'est pas grave si tu veux pas en parler, mais ils dorment tous là, et il n'y a que moi."
+    u "Après tout, c'est pas grave si tu veux pas en parler, mais ils dorment tous là, et y a que moi."
 
 # game/v15/scene40.rpy:51
 translate francais v15s40_39c59a23:
@@ -130,7 +130,7 @@ translate francais v15s40_dae6b7bc:
 translate francais v15s40_b9760467:
 
     # u "Damn... Too bad you haven't built a time machine yet."
-    u "Merde... Dommage que tu n'aies pas encore construit de machine à remonter le temps."
+    u "Merde... Dommage que t'aies pas encore construit de machine à remonter le temps."
 
 # game/v15/scene40.rpy:133
 translate francais v15s40_5d3ad491:
@@ -172,7 +172,7 @@ translate francais v15s40_5a3a5deb:
 translate francais v15s40_e93abab0:
 
     # u "What? I'd be crazy not to feel the same way. We get along so well."
-    u "Quoi ? Je serais fou de ne pas ressentir la même chose. On s'entend si bien."
+    u "Quoi ? Je serais fou de pas ressentir la même chose. On s'entend si bien."
 
 # game/v15/scene40.rpy:171
 translate francais v15s40_aacacca6:
@@ -184,7 +184,7 @@ translate francais v15s40_aacacca6:
 translate francais v15s40_a33b84d2:
 
     # u "Of course, haha. Since the moment we met on the stairs, I pretty much knew we'd cross paths again eventually."
-    u "Évidemment, haha. Depuis le jour où nous nous sommes rencontrés dans les escaliers, j'ai compris que nous allions finir par nous revoir."
+    u "Évidemment, haha. Depuis le jour où on s'est rencontrés dans les escaliers, j'ai compris qu'on allait finir par nous revoir."
 
 # game/v15/scene40.rpy:210
 translate francais v15s40_95e666c6:
@@ -328,7 +328,7 @@ translate francais v15s40_9f1e030e:
 translate francais v15s40_b0f11de8:
 
     # u "He's a bit... bittersweet, huh?"
-    u "Il est un peu... aigre-doux, hein ?"
+    u "Il est un peu... chelou, hein ?"
 
 # game/v15/scene40.rpy:343
 translate francais v15s40_d4c5595d:

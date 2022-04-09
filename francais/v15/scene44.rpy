@@ -70,7 +70,7 @@ translate francais v15s44_continue_24fca4fb:
 translate francais v15s44_continue_5ae7ad2f:
 
     # am "We're trying to get to the bottom of Nora's sudden disappearance too. Can you help us?"
-    am "On essaie aussi de faire la lumière sur la disparition soudaine de Nora. Peux-tu nous aider ?"
+    am "On essaie aussi de faire la lumière sur la disparition soudaine de Nora. Tu peux nous aider ?"
 
 # game/v15/scene44.rpy:99
 translate francais v15s44_continue_4f3742cf:
@@ -160,7 +160,7 @@ translate francais v15s44_continue_aec2f2dd:
 translate francais v15s44_continue_9b562abd:
 
     # am "What have you got for us, Techie?"
-    am "T's quelque chose pour nous, Techny ?"
+    am "T'as quelque chose pour nous, Techny ?"
 
 # game/v15/scene44.rpy:200
 translate francais v15s44_continue_15bbbe6b:
@@ -262,7 +262,7 @@ translate francais v15s44_continue_b5b827e6:
 translate francais v15s44_continue_99019b59:
 
     # pe "Mhmm... Looks like she posted a photo on the day we got back from Europe."
-    pe "Mhmm... On dirait qu'elle a posté une photo le jour où nous sommes rentrés d'Europe."
+    pe "Mhmm... On dirait qu'elle a posté une photo le jour où on est rentrés d'Europe."
 
 # game/v15/scene44.rpy:282
 translate francais v15s44_continue_676ad35c:
@@ -418,7 +418,7 @@ translate francais v15s44_continue_4f3cb6b9:
 translate francais v15s44_continue2_3df67750:
 
     # am "Alright, it's looking good. So, walk me through your current thoughts."
-    am "Très bien, ça a l'air bien. Alors, dis-moi ce que tu en penses, là."
+    am "Très bien, ça a l'air bien. Alors, dis-moi ce que t'en penses, là."
 
 # game/v15/scene44.rpy:433
 translate francais v15s44_continue2_cff8301e:
@@ -442,7 +442,7 @@ translate francais v15s44_continue2_2fb59f58:
 translate francais v15s44_continue2_e579731c:
 
     # u "Umm, sure?"
-    u "Hmm, tu es sûre ?"
+    u "Hmm, t'es sûre ?"
 
 # game/v15/scene44.rpy:453
 translate francais v15s44_continue2_f832eef8:
@@ -466,7 +466,7 @@ translate francais v15s44_continue2_ea267f33:
 translate francais v15s44_continue2_22930ab3:
 
     # am "I mean... We've only interrogated one person so far. *Laughs* That's just not enough to make a final decision."
-    am "En fait... On n'a interrogé qu'une seule personne jusqu'à présent. *Rire* C'est tout simplement pas suffisant pour prendre une décision finale."
+    am "En fait... On a interrogé qu'une seule personne jusqu'à présent. *Rire* C'est tout simplement pas suffisant pour prendre une décision finale."
 
 # game/v15/scene44.rpy:473
 translate francais v15s44_continue2_0b39fe8e:

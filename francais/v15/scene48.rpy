@@ -46,7 +46,7 @@ translate francais v15s48_932db208:
 translate francais v15s48_0dac2ef2:
 
     # u "Are you kidding? Of course I did. Everyone does!"
-    u "Tu plaisantes ? Bien sûr que oui. Tu as manqué à tout le monde !"
+    u "Tu plaisantes ? Bien sûr que oui. T'as manqué à tout le monde !"
 
 # game/v15/scene48.rpy:120
 translate francais v15s48_80f5b1aa:
@@ -82,7 +82,7 @@ translate francais v15s48_7e359bc0:
 translate francais v15s48_bf2cb2cc:
 
     # u "Going completely off the radar without telling anyone?"
-    u "Tu disparais complètement des radars et tu ne dis rien à personne ?"
+    u "Tu disparais complètement des radars et tu dis rien à personne ?"
 
 # game/v15/scene48.rpy:147
 translate francais v15s48_855455d0:
@@ -106,7 +106,7 @@ translate francais v15s48_93228979:
 translate francais v15s48_3fdbe405:
 
     # u "Nobody's seen you or heard from you in days. We tried to call, we tried to text-"
-    u "Personne ne t'a vu ou n'a eu de tes nouvelles depuis plusieurs jours. On a essayé de t'appeler, de t'envoyer des SMS..."
+    u "Personne t'a vu ou n'a eu de tes nouvelles depuis plusieurs jours. On a essayé de t'appeler, de t'envoyer des SMS..."
 
 # game/v15/scene48.rpy:161
 translate francais v15s48_f6922645:
@@ -370,7 +370,7 @@ translate francais v15s48_0a35ba40:
 translate francais v15s48_a8243c75:
 
     # u "You're not stupid. Every one of-"
-    u "Tu n'es pas stupide. Chacun d'entre eux..."
+    u "T'es pas stupide. Chacun d'entre eux..."
 
 # game/v15/scene48.rpy:385
 translate francais v15s48_e25f866e:
@@ -442,7 +442,7 @@ translate francais v15s48_4cb84ed1:
 translate francais v15s48_91f1a42f:
 
     # u "You did nothing wrong."
-    u "Tu n'as rien fait de mal."
+    u "T'as rien fait de mal."
 
 # game/v15/scene48.rpy:440
 translate francais v15s48_f05dc8c1:
@@ -490,7 +490,7 @@ translate francais v15s48_1aa15127:
 translate francais v15s48_fd8e3971:
 
     # u "You're pretty great to have."
-    u "C'est génial de t'avoir à nos côtés."
+    u "C'est génial de t'avoir à nouveau à nos côtés."
 
 # game/v15/scene48.rpy:481
 translate francais v15s48_4065ae87:
@@ -538,7 +538,7 @@ translate francais v15s48_0027cef8:
 translate francais v15s48_e2c02d83:
 
     # no "*Giggles* You okay over there?"
-    no "*Ricane* Ça va là ?"
+    no "*Ricane* Ça va ?"
 
 # game/v15/scene48.rpy:521
 translate francais v15s48_2098970f:
@@ -676,7 +676,7 @@ translate francais v15s48_e60fe529:
 translate francais v15s48_edf9f8fd:
 
     # u "I understand you're afraid to upset people. You're done with the drama, yeah?"
-    u "Je comprends que tu aies peur de contrarier les gens. Tu en as marre de toutes ces histoires, c'est ça ?"
+    u "Je comprends que t'aies peur de contrarier les gens. Tu en as marre de toutes ces histoires, c'est ça ?"
 
 # game/v15/scene48.rpy:638
 translate francais v15s48_c772fd6b:
@@ -898,7 +898,7 @@ translate francais v15s48_d8fa1696:
 translate francais v15s48_4c79aca4:
 
     # u "I care more than you know. We all do, I think."
-    u "Je me soucie davantage de toi que tu le penses. on se soucie tous de toi, je crois."
+    u "Je me soucie davantage de toi que tu l'imagines. on se soucie tous de toi, je crois."
 
 # game/v15/scene48.rpy:808
 translate francais v15s48_71793493:
@@ -1018,7 +1018,7 @@ translate francais v15s48_norawine_df5aa8e2:
 translate francais v15s48_norawine_c79578b4:
 
     # u "You're amazing, Nora. You know I think you're-"
-    u "Tu es merveilleuse, Nora. Tu sais je pense que tu es-"
+    u "T'es merveilleuse, Nora. Tu sais je pense que t'es-"
 
 # game/v15/scene48.rpy:932
 translate francais v15s48_norawine_8b56df6e:
@@ -1030,13 +1030,13 @@ translate francais v15s48_norawine_8b56df6e:
 translate francais v15s48_norawine_9dcece47:
 
     # u "No. Nora, seriously. You're one of the coolest people I've ever met, and I'm an idiot for letting you go."
-    u "Non. Nora, sérieusement. Tu es l'une des personnes les plus cool que j'aie jamais rencontré, et je suis un crétin de te laisser partir."
+    u "Non. Nora, sérieusement. T'es l'une des personnes les plus cool que j'aie jamais rencontré, et je serais vraiment con de te laisser partir."
 
 # game/v15/scene48.rpy:938
 translate francais v15s48_norawine_65581039:
 
     # u "I just don't think I'm your forever either..."
-    u "Au fond de moi, je ne crois pas être moi non plus, ton amour éternel..."
+    u "Au fond de moi, je crois pas être moi non plus, ton amour éternel..."
 
 # game/v15/scene48.rpy:943
 translate francais v15s48_norawine_572340e1:
@@ -1142,7 +1142,7 @@ translate francais strings:
 
     # game/v15/scene48.rpy:375
     old "You're not stupid"
-    new "Tu n'es pas stupide"
+    new "T'es pas stupide"
 
     # game/v15/scene48.rpy:457
     old "And me"
@@ -1150,7 +1150,7 @@ translate francais strings:
 
     # game/v15/scene48.rpy:457
     old "You're pretty great to have"
-    new "Tu es vraiment géniale à avoir"
+    new "T'es vraiment géniale à avoir"
 
     # game/v15/scene48.rpy:558
     old "Follow your heart"

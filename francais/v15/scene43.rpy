@@ -40,7 +40,7 @@ translate francais v15s43_0044d71b:
 translate francais v15s43_7f5b998f:
 
     # u "We really don't. *Chuckles*"
-    u "On n'en a pas vraiment. *Rire*"
+    u "On en a pas vraiment. *Rire*"
 
 # game/v15/scene43.rpy:76
 translate francais v15s43_7189baa4:
@@ -88,13 +88,13 @@ translate francais v15s43_ab673191:
 translate francais v15s43_ffa6302f:
 
     # u "Maybe one of us should go around the back. We don't want our suspect escaping."
-    u "L'un de nous devrait peut-être passer par derrière. On ne veut pas que notre suspect puisse s'échapper."
+    u "L'un de nous devrait peut-être passer par derrière. On veut pas que notre suspect puisse s'échapper."
 
 # game/v15/scene43.rpy:124
 translate francais v15s43_012e82a0:
 
     # am "That's true. But he's not going to think we're a danger to him anyway."
-    am "C'est vrai. Mais il ne va pas penser qu'on est un danger pour lui, de toute façon."
+    am "C'est vrai. Mais il va pas penser qu'on est un danger pour lui, de toute façon."
 
 # game/v15/scene43.rpy:129
 translate francais v15s43_66849085:
@@ -106,7 +106,7 @@ translate francais v15s43_66849085:
 translate francais v15s43_c485f6c3:
 
     # am "Yeah, but we're undercover detectives. Deep undercover... We don't even carry badges. *Giggles*"
-    am "Ouais, mais on est des détectives sous couverture. Sous couverture profonde... On ne porte même pas de badges. *Ricane*"
+    am "Ouais, mais on est des détectives sous couverture. Sous couverture profonde... On porte même pas de badges. *Ricane*"
 
 # game/v15/scene43.rpy:139
 translate francais v15s43_d8adffeb:
@@ -316,7 +316,7 @@ translate francais v15s43_13dca40d:
 translate francais v15s43_a74a7ec7:
 
     # am "Eww, stop... You're creeping me out! Like he's in the walls or something."
-    am "Aaargh, arrête... Tu me fais froid dans le dos ! C'est comme s'il était planqué dans les murs ou un truc comme ça."
+    am "Aaargh, arrête... Tu m'fais froid dans le dos ! C'est comme s'il était planqué dans les murs ou un truc comme ça."
 
 # game/v15/scene43.rpy:343
 translate francais v15s43_a0a638a7:
@@ -412,7 +412,7 @@ translate francais v15s43_c0644b58:
 translate francais v15s43_97838261:
 
     # am "We haven't seen Nora or heard from her since we left the airport on Tuesday."
-    am "On n'a pas vu Nora ni entendu parler d'elle depuis que nous avons quitté l'aéroport mardi."
+    am "On a pas vu Nora ni entendu parler d'elle depuis qu'on a quitté l'aéroport mardi."
 
 # game/v15/scene43.rpy:431
 translate francais v15s43_e10a1c31:
@@ -454,7 +454,7 @@ translate francais v15s43_e9573c66_1:
 translate francais v15s43_2ff0363a:
 
     # u "One-word answers... Huh. That's never convincing, is it detective?"
-    u "Des réponses en un seul mot... Hein. Ce n'est jamais très probant, n'est-ce pas Miss détective ?"
+    u "Des réponses en un seul mot... Hein. C'est jamais très probant, n'est-ce pas Miss détective ?"
 
 # game/v15/scene43.rpy:471
 translate francais v15s43_1f6a8ee3:
@@ -562,13 +562,13 @@ translate francais v15s43_dda9822c:
 translate francais v15s43_205bdfc0:
 
     # am "That's no good, Chris. You need to start telling us something we can use."
-    am "Ça ne sert à rien, Chris. Tu vas devoir nous révéler quelque chose qui nous sera utile."
+    am "Ça sert à rien, Chris. Tu vas devoir nous révéler quelque chose qui nous sera utile."
 
 # game/v15/scene43.rpy:575
 translate francais v15s43_b19f79f2:
 
     # u "You're lying straight to our faces! You know exactly where she is and it's only a matter of time before we find out."
-    u "Tu nous mens droit dans les yeux ! Tu sais exactement où elle se trouve et ce n'est qu'une question de temps avant qu'on le découvre."
+    u "Tu nous mens droit dans les yeux ! Tu sais exactement où elle se trouve et c'est qu'une question de temps avant qu'on le découvre."
 
 # game/v15/scene43.rpy:582
 translate francais v15s43_164bbac6:
@@ -610,13 +610,13 @@ translate francais v15s43_a39d80db:
 translate francais v15s43_66c3cc1a:
 
     # u "You're respecting nobody with that attitude!"
-    u "Tu ne respectes absolument personne avec cette attitude !"
+    u "Tu respectes absolument personne avec cette attitude !"
 
 # game/v15/scene43.rpy:625
 translate francais v15s43_9c9539ef:
 
     # u "We're Nora's friends and we're concerned about her."
-    u "Nous sommes les amis de Nora et nous sommes inquiets pour elle."
+    u "On est les amis de Nora et on est inquiets pour elle."
 
 # game/v15/scene43.rpy:630
 translate francais v15s43_05eefce0:
@@ -742,7 +742,7 @@ translate francais v15s43_44b034a3:
 translate francais v15s43_573c36b2:
 
     # am "Hmm... I don't know if we can trust you."
-    am "Hmm... Je ne sais pas si nous pouvons te faire confiance."
+    am "Hmm... Je sais pas si on peut te faire confiance."
 
 # game/v15/scene43.rpy:743
 translate francais v15s43_80b0754e:
@@ -772,7 +772,7 @@ translate francais v15s43_27f815a1:
 translate francais v15s43_27b0711e:
 
     # am "Ha. That doesn't add up."
-    am "Ha. Ça ne tient pas debout."
+    am "Ha. Ça tient pas debout."
 
 # game/v15/scene43.rpy:764
 translate francais v15s43_8cf14bf2:
@@ -808,7 +808,7 @@ translate francais v15s43_07b36738:
 translate francais v15s43_e56b27e6:
 
     # am "*Sighs* Are you sure she's not with her dad?"
-    am "*Soupirs* Es-tu sûr qu'elle n'est pas avec son père ?"
+    am "*Soupirs* T'es sûr qu'elle est pas avec son père ?"
 
 # game/v15/scene43.rpy:794
 translate francais v15s43_327b86bd:
@@ -844,7 +844,7 @@ translate francais v15s43_58ef6bf3:
 translate francais v15s43_d45f198f:
 
     # u "I can't believe what I'm hearing, ha."
-    u "Je n'arrive pas à croire ce que j'entends !"
+    u "J'arrive pas à croire ce que j'entends !"
 
 # game/v15/scene43.rpy:825
 translate francais v15s43_07b36738_1:
@@ -856,13 +856,13 @@ translate francais v15s43_07b36738_1:
 translate francais v15s43_c0c31836:
 
     # u "You expect us to believe that you were Nora's boyfriend for years and know nothing about her aunt?"
-    u "Tu veux nous faire croire que tu as été le petit ami de Nora pendant des années et que tu ne sais rien de sa tante ?"
+    u "Tu veux nous faire croire que t'as été le petit ami de Nora pendant des années et que tu sais rien de sa tante ?"
 
 # game/v15/scene43.rpy:835
 translate francais v15s43_c3923723:
 
     # am "You're sure she's not with her dad?"
-    am "Tu es sûr qu'elle n'est pas chez son père ?"
+    am "T'es sûr qu'elle n'est pas chez son père ?"
 
 # game/v15/scene43.rpy:842
 translate francais v15s43_a9a4b03e:
@@ -874,7 +874,7 @@ translate francais v15s43_a9a4b03e:
 translate francais v15s43_ed95fc69:
 
     # u "Hate? I'll tell you about hate, Chris! I hate not getting a straight answer out of you."
-    u "De la haine ? Je vais te parler de la haine, Chris ! Je hais le fait de ne pas obtenir une réponse franche de ta part."
+    u "De la haine ? Je vais te parler de la haine, Chris ! Je hais le fait de pas obtenir une réponse franche de ta part."
 
 # game/v15/scene43.rpy:852
 translate francais v15s43_8c4494a6:
@@ -886,7 +886,7 @@ translate francais v15s43_8c4494a6:
 translate francais v15s43_43f21a69:
 
     # am "No, this is not a prank. We take our jobs very seriously."
-    am "Non, ce n'est pas une farce. Nous prenons notre travail très au sérieux."
+    am "Non, c'est pas une farce. On prend notre travail très au sérieux."
 
 # game/v15/scene43.rpy:862
 translate francais v15s43_d9f46073:
@@ -928,7 +928,7 @@ translate francais v15s43_feba14a3:
 translate francais v15s43_cd5c08e4:
 
     # am "Yeah, you're free to leave. Thanks for the cooperation, jackass."
-    am "Ouais, tu es libre de partir. Merci pour ta coopération, abruti."
+    am "Ouais, t'es libre de partir. Merci pour ta coopération, abruti."
 
 # game/v15/scene43.rpy:904
 translate francais v15s43_960a64b1:
@@ -952,7 +952,7 @@ translate francais v15s43_203e9588:
 translate francais v15s43_459f5c0f:
 
     # am "Let's get back to the board, I think we have a few ideas now."
-    am "Revenons au tableau, je crois que nous avons quelques pistes maintenant."
+    am "Revenons au tableau, je crois qu'on a quelques pistes maintenant."
 
 # game/v15/scene43.rpy:918
 translate francais v15s43_6d5c3996:

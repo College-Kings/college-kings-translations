@@ -58,13 +58,13 @@ translate francais v15s33_1db72369:
 translate francais v15s33_e480b77b:
 
     # u "Try not to worry. You can talk to me about it whenever you want."
-    u "Essaie de ne pas t'inquiéter. Tu sais que tu peux m'en parler quand tu veux."
+    u "Essaie de pas t'inquiéter. Tu sais que tu peux m'en parler quand tu veux."
 
 # game/v15/scene33.rpy:67
 translate francais v15s33_53f6cbb9:
 
     # u "If not, I have a bunch of awful jokes that are guaranteed to cheer you up. *Laughs*"
-    u "Si ce n'est pas le cas, j'ai un tas de blagues nulles qui te remonteront le moral à coup sûr. *Rire*"
+    u "Si c'est pas le cas, j'ai un tas de blagues nulles qui te remonteront le moral à coup sûr. *Rire*"
 
 # game/v15/scene33.rpy:72
 translate francais v15s33_e2bfd6b8:
@@ -208,7 +208,7 @@ translate francais v15s33_ff708947:
 translate francais v15s33_69d2d54a:
 
     # u "Thanks... I didn't do much but, at least I'm not wearing a stripper costume."
-    u "Merci... Je n'ai pas fait grand-chose mais, au moins, je ne porte pas de costume de stripteaseur."
+    u "Merci... J'ai pas fait grand-chose mais, au moins, je porte pas de costume de stripteaseur."
 
 # game/v15/scene33.rpy:195
 translate francais v15s33_a75f7b28:
@@ -352,7 +352,7 @@ translate francais v15s33_07df41ae:
 translate francais v15s33_61821012:
 
     # u "You're a psycho..."
-    u "Tu es une psycho..."
+    u "T'es une psycho..."
 
 # game/v15/scene33.rpy:350
 translate francais v15s33_d4358b33:
@@ -526,7 +526,7 @@ translate francais v15s33_89d244ce:
 translate francais v15s33_96e8a68c:
 
     # au "Hey, yeah. So, you managed to get away from the superstar herself?"
-    au "Salut, ouais. Alors, tu as réussi à t'éloigner de la superstar incarnée ?"
+    au "Salut, ouais. Alors, t'as réussi à t'éloigner de la superstar incarnée ?"
 
 # game/v15/scene33.rpy:507
 translate francais v15s33_1e34a5be:
@@ -610,7 +610,7 @@ translate francais v15s33_1c67b078:
 translate francais v15s33_8e62f78f:
 
     # u "(Damn, we've got a bridezilla over here! Ha... Yikes.)"
-    u "(Bon sang, nous avons une mariéezilla par ici ! Ha... Beurk.)"
+    u "(Bon sang, on a une mariéezilla par ici ! Ha... Beurk.)"
 
 # game/v15/scene33.rpy:570
 translate francais v15s33_1be157de:
@@ -724,7 +724,7 @@ translate francais v15s33_d537200b:
 translate francais v15s33_f097f688:
 
     # u "No, I don't like it! How the hell are you guys drinking this shit?"
-    u "Non, j'aime pas du tout ! Comment est-ce que vous pouvez boire cette merde ?"
+    u "Non, j'aime pas du tout ! Comment vous pouvez boire cette merde ?"
 
 # game/v15/scene33.rpy:684
 translate francais v15s33_e48790a5:
@@ -838,13 +838,13 @@ translate francais v15s33_8569c4fa:
 translate francais v15s33_cec86f40:
 
     # na "Hey! I'm right here you jackass."
-    na "Hé ! Je juste suis là, abruti."
+    na "Hé ! Je suis juste là, abruti."
 
 # game/v15/scene33.rpy:811
 translate francais v15s33_d11c4f6a:
 
     # au "Haha, we see you princess. Don't cry."
-    au "Haha, on t'a vu princesse. Ne pleure pas."
+    au "Haha, on t'a vu princesse. Pleure pas."
 
 # game/v15/scene33.rpy:813
 translate francais v15s33_4e3b7428:
@@ -910,13 +910,13 @@ translate francais v15s33_e6a451d1:
 translate francais v15s33_018cc4bc:
 
     # u "Blue cheese? I'm pretty sure that if your cheese is blue, you shouldn't-"
-    u "Le fromage bleu ? Je suis quasiment sûr que si votre fromage est bleu, vous ne devriez pas..."
+    u "Le fromage bleu ? Je suis quasiment sûr que si votre fromage est bleu, vous devriez pas..."
 
 # game/v15/scene33.rpy:860
 translate francais v15s33_cc85b16d:
 
     # rick "Haha! You're pulling my leg, right?"
-    rick "Haha ! Tu t(moques de moi, c'est ça ?"
+    rick "Haha ! Tu t'moques de moi, c'est ça ?"
 
 # game/v15/scene33.rpy:862
 translate francais v15s33_44736071:
@@ -1048,7 +1048,7 @@ translate francais v15s33_1195e522:
 translate francais v15s33_0f9a19a4:
 
     # u "You know what, uh... Thanks, but I'm not feeling hungry right now."
-    u "Vous savez quoi, euh... Merci, mais pour le moment, je n'ai pas faim."
+    u "Vous savez quoi, euh... Merci, mais pour le moment, j'ai pas faim."
 
 # game/v15/scene33.rpy:970
 translate francais v15s33_ada8b0fa:
@@ -1120,7 +1120,7 @@ translate francais v15s33_10f71a18:
 translate francais v15s33_f2947d31:
 
     # u "Ha, no worries. She seems to have smiled the most so far when speaking to you, so... *Chuckles*"
-    u "Ha, ne vous inquiétez pas. Elle a l'air d'avoir souri davantage jusqu'à présent en vous parlant, alors... *Rire*"
+    u "Ha, vous inquiétez pas. Elle a l'air d'avoir souri davantage jusqu'à présent en vous parlant, alors... *Rire*"
 
 # game/v15/scene33.rpy:1019
 translate francais v15s33_9edd8331:
@@ -1156,7 +1156,7 @@ translate francais v15s33_8350835e:
 translate francais v15s33_1fe419a5:
 
     # u "Oh, well, thanks. It's nice to see that Aubrey has always had someone on her side, I guess."
-    u "Oh, eh bien, merci. Il est agréable de voir qu'Aubrey a toujours eu quelqu'un de son côté."
+    u "Oh, eh bien, merci. C'est agréable de voir qu'Aubrey a toujours eu quelqu'un de son côté."
 
 # game/v15/scene33.rpy:1046
 translate francais v15s33_c4522b07:
@@ -1228,7 +1228,7 @@ translate francais v15s33_12681a7f:
 translate francais v15s33_20a2885f:
 
     # u "I do, yeah. It's not her fault, though."
-    u "Oui, je comprends. Mais... ce n'est pas sa faute."
+    u "Oui, je comprends. Mais... c'est pas sa faute."
 
 # game/v15/scene33.rpy:1101
 translate francais v15s33_099b920e:
@@ -1348,7 +1348,7 @@ translate francais v15s33_e9c7d4e0:
 translate francais v15s33_47df7538:
 
     # u "(No harm in enjoying it, right? Ha... *Moans*)"
-    u "(Il n'y a pas de mal à en profiter, hein ? Ha... *Gémis*)"
+    u "(Y a pas de mal à en profiter, hein ? Ha... *Gémis*)"
 
 # game/v15/scene33.rpy:1219
 translate francais v15s33_ff087481:
@@ -1420,7 +1420,7 @@ translate francais v15s33_740f64b5:
 translate francais v15s33_89aebf08:
 
     # u "What is wrong with Naomi? Why did she..."
-    u "Qu'est-ce qui ne va pas avec Naomi ? Pourquoi a-t-elle..."
+    u "Qu'est-ce qui va pas avec Naomi ? Pourquoi a-t-elle..."
 
 # game/v15/scene33.rpy:1295
 translate francais v15s33_e40dd83e:
@@ -1666,7 +1666,7 @@ translate francais v15s35_naomisg_57ae9944:
 translate francais v15s35_naomisg_20055b11:
 
     # u "(I can't believe that just happened...)"
-    u "(Je n'arrive pas à croire ce qui vient de se passer...)"
+    u "(J'arrive pas à croire ce qui vient de se passer...)"
 
 # game/v15/scene33.rpy:1529
 translate francais v15s35_naomisg_a81371ac:
@@ -1684,7 +1684,7 @@ translate francais v15s35_naomisg_341fd5f7:
 translate francais v15s35_naomisg_be65f1f0:
 
     # u "(Phew... Let's hope no one noticed any of that.)"
-    u "(Pfiou... Espérons que personne ne remarque rien de tout ça.)"
+    u "(Pfiou... Espérons que personne remarque rien de tout ça.)"
 
 # game/v15/scene33.rpy:1560
 translate francais v15s35_naomisg_a4d7221c:
@@ -1780,7 +1780,7 @@ translate francais v15s35_naomisg_ede40678:
 translate francais v15s35_naomisg_4a00388c:
 
     # u "You're so fucking hot, Naomi-"
-    u "Putain, tu es si chaude, Naomi..."
+    u "Putain, t'es si chaude, Naomi..."
 
 # game/v15/scene33.rpy:1674
 translate francais v15s33_nsfwSkipLabel1_f6c7ed25:
@@ -1810,7 +1810,7 @@ translate francais v15s33_nsfwSkipLabel1_fd2d4112:
 translate francais v15s33_nsfwSkipLabel1_8348fa3f:
 
     # au "How could you do this, [name]? That's my..."
-    au "Comment as-tu pu faire ça, [name] ? C'est ma..."
+    au "Comment t'as pu faire ça, [name] ? C'est ma..."
 
 # game/v15/scene33.rpy:1709
 translate francais v15s33_nsfwSkipLabel1_972fe293:
@@ -1834,7 +1834,7 @@ translate francais v15s33_nsfwSkipLabel1_6809dbcc:
 translate francais v15s33_nsfwSkipLabel1_b6fc38b8:
 
     # au "*Sobbing* How could you?"
-    au "*Sanglote* Comment as-tu pu ?"
+    au "*Sanglote* Comment t'as pu ?"
 
 # game/v15/scene33.rpy:1729
 translate francais v15s33_nsfwSkipLabel1_f590b4ca:
@@ -1870,7 +1870,7 @@ translate francais v15s33_nsfwSkipLabel1_c9a7922d:
 translate francais v15s33_nsfwSkipLabel1_6435a644:
 
     # u "(What... The Fuck...! Is wrong with this girl?)"
-    u "(Qu'est-ce qui ne va pas avec cette fille ?)"
+    u "(Qu'est-ce qui va pas avec cette fille ?)"
 
 # game/v15/scene33.rpy:1761
 translate francais v15s33_nsfwSkipLabel1_c9855fcc:
@@ -1888,7 +1888,7 @@ translate francais v15s33_nsfwSkipLabel1_ec70d696:
 translate francais v15s33_nsfwSkipLabel1_7a3227d1:
 
     # au "I have absolutely nothing to say to you. You're not the best person, and you're a pretty shit sister-"
-    au "Je n'ai strictement rien à te dire. Tu n'es pas la meilleure personne, et tu es une sœur vraiment merdique..."
+    au "J'ai strictement rien à te dire. T'es pas la meilleure personne, et t'es une sœur vraiment merdique..."
 
 # game/v15/scene33.rpy:1776
 translate francais v15s33_nsfwSkipLabel1_9920c341:
@@ -1900,7 +1900,7 @@ translate francais v15s33_nsfwSkipLabel1_9920c341:
 translate francais v15s33_nsfwSkipLabel1_d6209b89:
 
     # au "But this? I can't believe you did this..."
-    au "Mais ça ? Je n'arrive pas à croire que tu aies osé faire ça..."
+    au "Mais ça ? J'arrive pas à croire que t'aies osé faire ça..."
 
 # game/v15/scene33.rpy:1803
 translate francais v15s33_nsfwSkipLabel1_f617ca71:
@@ -1918,7 +1918,7 @@ translate francais v15s33_nsfwSkipLabel1_1dc26af2:
 translate francais v15s33_nsfwSkipLabel1_dce966bd:
 
     # na "Well, I guess we got busted. Haha..."
-    na "Eh bien, je crois qu'on s'est fait prendre. Haha..."
+    na "Eh bien, je crois qu'on s'est fait chopper. Haha..."
 
 # game/v15/scene33.rpy:1815
 translate francais v15s33_nsfwSkipLabel1_3ab8895a:
@@ -1996,7 +1996,7 @@ translate francais v15s33_nsfwSkipLabel1_929c88a5:
 translate francais v15s33_nsfwSkipLabel1_18a584db:
 
     # u "(I hope she's not out there telling the entire party what just happened...)"
-    u "(J'espère qu'elle n'est pas en train de raconter à tout le monde ce qui vient de se passer...)"
+    u "(J'espère qu'elle est pas en train de raconter à tout le monde ce qui vient de se passer...)"
 
 # game/v15/scene33.rpy:1898
 translate francais v15s33_nsfwSkipLabel1_d1ef6cbe:
@@ -2020,7 +2020,7 @@ translate francais v15s33_nsfwSkipLabel1_4f78a41d:
 translate francais v15s33_nsfwSkipLabel1_31590773:
 
     # u "(I'll just leave her alone for now... Hopefully she'll calm down and I can talk to her later.)"
-    u "( Pour l'instant, je vais la laisser tranquille.... Avec un peu de chance, elle va se calmer et je pourrai lui parler plus tard.)"
+    u "(Pour l'instant, je vais la laisser tranquille.... Avec un peu de chance, elle va se calmer et je pourrai lui parler plus tard.)"
 
 # game/v15/scene33.rpy:1940
 translate francais v15s33_nsfwSkipLabel1_1db6af51:
@@ -2320,13 +2320,13 @@ translate francais v15s33_nsfwSkipLabel1_ea0d4f5d:
 translate francais v15s33_nsfwSkipLabel1_0c9a7197:
 
     # u "(Are you serious right now? They're taking a family photo without her...)"
-    u "( Vous êtes sérieux là ? Ils prennent une photo de famille sans elle...)"
+    u "(Vous êtes sérieux là ? Ils prennent une photo de famille sans elle...)"
 
 # game/v15/scene33.rpy:2314
 translate francais v15s33_nsfwSkipLabel1_c1c010b6:
 
     # u "(It's probably best if I don't get involved. *Sighs* That's so fucked.)"
-    u "(C'est sans doute mieux si je ne m'en mêle pas. *Soupirs* C'est vraiment tordu.)"
+    u "(C'est sans doute mieux si je m'en mêle pas. *Soupirs* C'est vraiment tordu.)"
 
 # game/v15/scene33.rpy:2337
 translate francais v15s33_nsfwSkipLabel1_b6832f2e:
@@ -2440,7 +2440,7 @@ translate francais v15s33_nsfwSkipLabel1_8d590c74:
 translate francais v15s33_nsfwSkipLabel1_3b83d190:
 
     # au "They don't even see how much they hurt me when they do shit like that."
-    au "Ils ne voient même pas à quel point ils me blessent quand ils font ce genre de choses."
+    au "Ils voient même pas à quel point ils me blessent quand ils font ce genre de choses."
 
 # game/v15/scene33.rpy:2480
 translate francais v15s33_nsfwSkipLabel1_2590e26d:
@@ -2464,7 +2464,7 @@ translate francais v15s33_nsfwSkipLabel1_20ef7ea6:
 translate francais v15s33_nsfwSkipLabel1_8480f1d7:
 
     # u "And you're right. It's like they aren't even aware of their actions."
-    u "Et tu as raison. C'est comme s'ils n'étaient même pas conscients de leurs actions."
+    u "Et t'as raison. C'est comme s'ils n'étaient même pas conscients de leurs actions."
 
 # game/v15/scene33.rpy:2510
 translate francais v15s33_nsfwSkipLabel1_8e0e81e5:
@@ -2506,7 +2506,7 @@ translate francais v15s33_nsfwSkipLabel1_e2d320f6:
 translate francais v15s33_nsfwSkipLabel1_a0a0877b:
 
     # u "Okay, okay... Are you ready?"
-    u "Ok, ok... Tu es prête ?"
+    u "Ok, ok... T'es prête ?"
 
 # game/v15/scene33.rpy:2542
 translate francais v15s33_nsfwSkipLabel1_22c35caf:
@@ -2542,7 +2542,7 @@ translate francais v15s33_nsfwSkipLabel1_52073379:
 translate francais v15s33_nsfwSkipLabel1_199f2b8b:
 
     # au "I don't know... Why?"
-    au "Je ne sais pas... Pourquoi ?"
+    au "Je sais pas... Pourquoi ?"
 
 # game/v15/scene33.rpy:2580
 translate francais v15s33_nsfwSkipLabel1_7df66e6a:

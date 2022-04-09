@@ -10,7 +10,7 @@ translate francais v15s45_807db4c2:
 translate francais v15s45_3f20f559:
 
     # u "How do you know?"
-    u "Comment tu le sais ?"
+    u "Comment sais ça ?"
 
 # game/v15/scene45.rpy:33
 translate francais v15s45_b38e19cf:
@@ -70,7 +70,7 @@ translate francais v15s45_b1cb3396:
 translate francais v15s45_46428118:
 
     # u "We're just looking for the facts, ma'am. If you're honest with us, this shouldn't take up much of your time."
-    u "On cherche juste à connaître les faits, m'dame. Si tu es honnête avec nous, ça ne devrait pas te prendre beaucoup de temps."
+    u "On cherche juste à connaître les faits, m'dame. Si tu es honnête avec nous, ça devrait pas te prendre beaucoup de temps."
 
 # game/v15/scene45.rpy:140
 translate francais v15s45_92105172:
@@ -250,7 +250,7 @@ translate francais v15s45_109e6f1a:
 translate francais v15s45_d4d1eab9:
 
     # u "I'm glad you've finally decided to play ball."
-    u "Je suis ravi de savoir que tu as finalement décidé de jouer le jeu."
+    u "Je suis ravi de savoir que t'as finalement décidé de jouer le jeu."
 
 # game/v15/scene45.rpy:375
 translate francais v15s45_5cc8e7b2:
@@ -274,7 +274,7 @@ translate francais v15s45_4232d916:
 translate francais v15s45_352ec779:
 
     # cl "I. Don't. Know."
-    cl "Je. Ne. Sait. Pas !"
+    cl "Je. Ne. Sais. Pas !"
 
 # game/v15/scene45.rpy:406
 translate francais v15s45_9165f01e:
@@ -334,7 +334,7 @@ translate francais v15s45_0c1adae8:
 translate francais v15s45_e9f7c1aa:
 
     # u "You're already lying, but I don't think you realize it. You've known Nora for a long time..."
-    u "Tu es déjà en train de mentir, mais je crois pas que tu t'en rendes compte. Tu connais Nora depuis longtemps..."
+    u "T'es déjà en train de mentir, mais je crois pas que tu t'en rendes compte. Tu connais Nora depuis longtemps..."
 
 # game/v15/scene45.rpy:476
 translate francais v15s45_78f0d6a9:
@@ -358,13 +358,13 @@ translate francais v15s45_34cf61c2:
 translate francais v15s45_80ab500a:
 
     # u "It's obvious you're very intelligent, Chloe. You're kind and considerate."
-    u "Il est évident que tu es très intelligente, Chloé. Tu es gentille et prévenante."
+    u "Il est évident que t'es très intelligente, Chloé. T'es gentille et prévenante."
 
 # game/v15/scene45.rpy:506
 translate francais v15s45_fd61d9d4:
 
     # u "And I'll bet your observation skills are more powerful than you realize."
-    u "Et je parie que tes capacités d'observation sont plus puissantes que tu ne le penses."
+    u "Et je parie que tes capacités d'observation sont plus puissantes que tu le penses."
 
 # game/v15/scene45.rpy:511
 translate francais v15s45_e4f049fa:
@@ -430,7 +430,7 @@ translate francais v15s45_f0790bd1:
 translate francais v15s45_8d092093:
 
     # u "If we don't get answers soon, this is going to get real serious, real fast!"
-    u "Si on n'a pas de réponses rapidement, ça va devenir très vite très sérieux !"
+    u "Si on a pas de réponses rapidement, ça va devenir très vite très sérieux !"
 
 # game/v15/scene45.rpy:581
 translate francais v15s45_33b85d6d:
@@ -778,7 +778,7 @@ translate francais v15s45_7b1c1392:
 translate francais v15s45_613f2fdc:
 
     # u "It always looks so easy in the movies..."
-    u "Ça a l'air toujours si facile dans les films..."
+    u "Ça a l'air toujours plus facile dans les films..."
 
 # game/v15/scene45.rpy:946
 translate francais v15s45_1314117e:
@@ -850,7 +850,7 @@ translate francais v15s45_7c1f174b:
 translate francais v15s45_d49bbf1c:
 
     # am "Yeah, let's return to HQ and wrap this thing up."
-    am "Ouais, rentrons au QG et finissons-en avec cette histoire."
+    am "Ouais, on rentre au QG et on en finis avec cette histoire."
 
 translate francais strings:
 

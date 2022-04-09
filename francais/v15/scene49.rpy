@@ -256,7 +256,7 @@ translate francais v15s49_5fa544c9:
 translate francais v15s49_9a5264eb:
 
     # u "Why don't you go home now, huh? I think you've hurt enough people for today."
-    u "Pourquoi tu rentres pas chez toi maintenant, hein ? Je crois que tu as fait assez de mal autour de toi pour aujourd'hui."
+    u "Pourquoi tu rentres pas chez toi maintenant, hein ? Je crois que t'as fait assez de mal autour de toi pour aujourd'hui."
 
 # game/v15/scene49.rpy:258
 translate francais v15s49_f1aefa96:
@@ -268,7 +268,7 @@ translate francais v15s49_f1aefa96:
 translate francais v15s49_ba391512:
 
     # u "The more you talk, the bigger your forehead gets. Or should we just go ahead and start saying fivehead?"
-    u "Plus tu parles, plus tu as un grand front. Ou est-ce qu'on devrait plutôt commencer à dire tête de nœud ?"
+    u "Plus tu parles, plus t'as un grand front. Ou est-ce qu'on devrait plutôt commencer à dire tête de nœud ?"
 
 # game/v15/scene49.rpy:277
 translate francais v15s49_99236a62:
@@ -280,7 +280,7 @@ translate francais v15s49_99236a62:
 translate francais v15s49_5e96b2d4:
 
     # u "We don't have to do this, you know. We can just forget about it and go home."
-    u "On n'est pas obligés de faire ça, tu sais. On peut juste oublier tout ça et rentrer chez soi."
+    u "On est pas obligés de faire ça, tu sais. On peut juste oublier tout ça et rentrer chez soi."
 
 # game/v15/scene49.rpy:290
 translate francais v15s49_c9f864d7:

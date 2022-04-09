@@ -82,7 +82,7 @@ translate francais v15s39_7ddc7b92:
 translate francais v15s39_195da940:
 
     # u "That sounds great, I'll take one."
-    u "Ça a l'air génial, je vais en prendre un."
+    u "Ça a l'air sympa, je vais en prendre un."
 
 # game/v15/scene39.rpy:114
 translate francais v15s39_6e6e5954:
@@ -100,7 +100,7 @@ translate francais v15s39_755d47ca:
 translate francais v15s39_b67cdf1d:
 
     # gr "Got any milk and cookies? *Scoffs* We're in college, lady, not kindergarten."
-    gr "T'as du lait et des biscuits ? *Rires moqueurs* On est à l'université, ma petite dame, pas au jardin d'enfants."
+    gr "T'as du lait et des biscuits ? *Rires moqueurs* On est à l'université, ma p'tite dame, pas au jardin d'enfants."
 
 # game/v15/scene39.rpy:130
 translate francais v15s39_55edd3a0:
@@ -316,7 +316,7 @@ translate francais v15s39_1acad638:
 translate francais v15s39_62c5b639:
 
     # u "(This might just help balance the scales after we got the Apes' support for Chloe.)"
-    u "( Ça pourrait aider à équilibrer la balance après avoir obtenu le soutien des Apes pour Chloé.)"
+    u "(Ça pourrait aider à équilibrer la balance après avoir obtenu le soutien des Apes pour Chloé.)"
 
 # game/v15/scene39.rpy:338
 translate francais v15s39_462e713c:
@@ -526,7 +526,7 @@ translate francais v15s39_fde32682:
 translate francais v15s39_3447051e:
 
     # li "We all want our experiences to be the best they can be."
-    li "Nous voulons tous que nos différentes expériences soient les meilleures possibles."
+    li "On veut tous que nos différentes expériences soient les meilleures possibles."
 
 # game/v15/scene39.rpy:534
 translate francais v15s39_963b4ef9:
@@ -688,7 +688,7 @@ translate francais v15s39_change_subject_f44bf3e5:
 translate francais v15s39_change_subject_47011c52:
 
     # u "You were telling us what you don't like about Chloe. *Laughs*"
-    u "Tu nous disais ce que tu n'aimes pas chez Chloé. *Rire*"
+    u "Tu nous disais ce que t'aimes pas chez Chloé. *Rire*"
 
 # game/v15/scene39.rpy:721
 translate francais v15s39_change_subject_8780dbf5:
@@ -808,7 +808,7 @@ translate francais v15s39_stop_lindsey_cec1a2c4:
 translate francais v15s39_stop_lindsey_473e1cf0:
 
     # au "Stress and alcohol really don't mix well together, girl. *Chuckles*"
-    au "Le stress et l'alcool ne font vraiment pas bon ménage, ma chérie. *Rire*"
+    au "Le stress et l'alcool font vraiment pas bon ménage, ma chérie. *Rire*"
 
 # game/v15/scene39.rpy:884
 translate francais v15s39_stop_lindsey_4df0ea3a:
@@ -874,7 +874,7 @@ translate francais v15s39_stop_lindsey_5ebaf5d6:
 translate francais v15s39_stop_lindsey_a49478e4:
 
     # gr "Don't be surprised if there's no drinks left when you get back, haha."
-    gr "Soyez pas surpris s'il y a plus rien à boire en revenant, haha."
+    gr "Soyez pas surpris s'il y a plus rien à boire en r'venant, haha."
 
 # game/v15/scene39.rpy:948
 translate francais v15s39_stop_lindsey_5058906d:
@@ -1054,13 +1054,13 @@ translate francais v15s39_stop_lindsey_12bc3133:
 translate francais v15s39_stop_lindsey_6ad48f2f:
 
     # u "(Still sucks that we couldn't get drunk, but you can't win 'em all, ha.)"
-    u "(Ça fait vraiment chier qu'on n'ait pas pu se saouler, mais on ne peut pas gagner à tous les coups.)"
+    u "(Ça fait vraiment chier qu'on ait pas pu se saouler, mais on peut pas gagner à tous les coups.)"
 
 # game/v15/scene39.rpy:1233
 translate francais v15s39_stop_lindsey_421a5f72:
 
     # u "(Just need to send the recording to Chloe... Hopefully she can find something to do with it.)"
-    u "(Il va falloir envoyer l'enregistrement à Chloé.... Espérons qu'elle pourra en faire quelque chose.)"
+    u "(Il va falloir envoyer l'enregistrement à Chloé.... J'espère qu'elle pourra en faire quelque chose.)"
 
 # game/v15/scene39.rpy:1236
 translate francais v15s39_stop_lindsey_c79939f2:

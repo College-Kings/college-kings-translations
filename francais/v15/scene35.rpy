@@ -112,7 +112,7 @@ translate francais v15s35_b6250d75:
 translate francais v15s35_c8b037a6:
 
     # au "Can we try to not be awkward tonight? I'm still dealing with what you did with Naomi, but I'll try to act as normal as I can."
-    au "On peut essayer de ne pas être gênés ce soir ? Je suis toujours en train de digérer ce que tu as fait avec Naomi, mais je vais essayer d'agir aussi normalement que possible."
+    au "On peut essayer de pas être gênés ce soir ? Je suis toujours en train de digérer ce que t'as fait avec Naomi, mais je vais essayer d'agir aussi normalement que possible."
 
 # game/v15/scene35.rpy:155
 translate francais v15s35_d29a993c:
@@ -154,7 +154,7 @@ translate francais v15s35_0f94e885:
 translate francais v15s35_62209bd9:
 
     # u "You're welcome. And if they want a third wedding, I'll come to that with you too. *Laughs*"
-    u "Je t'en prie. Et s'ils veulent un troisième mariage, je serai toujours présent avec toi. *Rire*"
+    u "Je t'en prie. Et s'ils veulent un troisième mariage, je serai toujours présent pour toi. *Rire*"
 
 # game/v15/scene35.rpy:188
 translate francais v15s35_b8e8b0f0:
@@ -172,7 +172,7 @@ translate francais v15s35_2e89d275:
 translate francais v15s35_573a7534:
 
     # au "Aw, thanks, [name]. I may just hold you to that."
-    au "Oooh, merci, [name]. Je risque de ne pas oublier cette promesse."
+    au "Oooh, merci, [name]. Je risque pas d'oublier cette promesse."
 
 # game/v15/scene35.rpy:208
 translate francais v15s35_b9c45f5b:
@@ -316,7 +316,7 @@ translate francais v15s35_wyr1_charity_1de6ba95:
 translate francais v15s35_wyr1_charity_2df10ad6:
 
     # au "Hehe, damn. You've got a list ready to go, huh?"
-    au "Héhé, Wouhaa . T'as déjà une liste prête à partir, hein ?"
+    au "Héhé, Wouhaa . T'as déjà une liste toute prête, hein ?"
 
 # game/v15/scene35.rpy:382
 translate francais v15s35_wyr1_charity_9ceaa16a:
@@ -328,7 +328,7 @@ translate francais v15s35_wyr1_charity_9ceaa16a:
 translate francais v15s35_wyr1_charity_2388a422:
 
     # u "So pure."
-    u "Tu es si pure."
+    u "T'es si pure."
 
 # game/v15/scene35.rpy:392
 translate francais v15s35_wyr1_charity_985e6a00:
@@ -460,7 +460,7 @@ translate francais v15s35_wyr2_santa_40f17544:
 translate francais v15s35_wyr2_santa_5c94fc28:
 
     # au "How?! Santa only brings gifts and joy! Why kill him for that, you psychos?"
-    au "Quoi ?! Le Père Noël n'apporte que des cadeaux et de la joie ! Pourquoi le tuer pour ça, bande de psychopathes ?"
+    au "Quoi ?! Le Père Noël n'apporte les cadeaux et de la joie ! Pourquoi le tuer pour ça, bande de psychopathes ?"
 
 # game/v15/scene35.rpy:550
 translate francais v15s35_wyr2_santa_9eda7324:
@@ -490,7 +490,7 @@ translate francais v15s35_wyr2_santa_563e5b52:
 translate francais v15s35_wyr2_santa_121b9ba1:
 
     # u "And we can't believe you shot the Easter bunny. No more Easter baskets for you."
-    u "Et on n'arrive pas à croire que tu as tiré sur le lapin de Pâques. Plus de paniers de Pâques pour toi, pour la peine."
+    u "Et on arrive pas à croire que tu as tiré sur le lapin de Pâques. Plus de paniers de Pâques pour toi, pour la peine."
 
 # game/v15/scene35.rpy:580
 translate francais v15s35_wyr2_santa_645df85c:
@@ -538,7 +538,7 @@ translate francais v15s35_wyr2_santa_73d71cb2:
 translate francais v15s35_wyr2_santa_31d8dc2f:
 
     # u "I feel good about my decision, Aubrey. I helped an elf. You murdered a bunny."
-    u "Je suis satisfait de ma décision, Aubrey. J'ai aidé un lutin. Toi, tu as assassiné un lapin."
+    u "Je suis satisfait de ma décision, Aubrey. J'ai aidé un lutin. Toi, t'as assassiné un lapin."
 
 # game/v15/scene35.rpy:625
 translate francais v15s35_wyr2_easter_ae64b370:
@@ -946,7 +946,7 @@ translate francais v15s35_wyr3_end_44bc734f:
 translate francais v15s35_wyr3_end_26deedde:
 
     # u "Wait, so there's no option to just have a normal one on one relationship?"
-    u "Attends, il n'y a donc pas d'option pour avoir une relation normale en tête-à-tête ?"
+    u "Attends, y a pas d'option pour avoir une relation normale en tête-à-tête ?"
 
 # game/v15/scene35.rpy:1047
 translate francais v15s35_wyr3_end_21679fbb:
@@ -1348,7 +1348,7 @@ translate francais v15s35_wml1_aub_e1c9311d:
 translate francais v15s35_wml1_aub_a2ece59d:
 
     # u "I think you got the most votes because you're kind natured... *Chuckles*"
-    u "Je crois que tu as obtenu le plus de votes parce que tu es une personne très gentille... *Rire*"
+    u "Je crois que t'as eu le plus de votes parce que t'es une personne très gentille... *Rire*"
 
 # game/v15/scene35.rpy:1495
 translate francais v15s35_wml1_aub_7c50458a:
@@ -1384,7 +1384,7 @@ translate francais v15s35_wml1_aub_e692bd21:
 translate francais v15s35_wml1_aub_a54829a7:
 
     # u "Even though you're rampaging killers who eat nothing but brains?"
-    u "Même si vous êtes des tueurs déchaînés qui ne se nourrissent que de cerveaux ?"
+    u "Même si vous êtes des tueurs déchaînés qui se nourrissent que de cerveaux ?"
 
 # game/v15/scene35.rpy:1525
 translate francais v15s35_wml1_aub_5414cdd9:
@@ -1486,7 +1486,7 @@ translate francais v15s35_wml2_1d650137:
 translate francais v15s35_wml2_ada054c1:
 
     # u "Haha, to be honest, that does sound like something that would happen to me."
-    u "Haha, pour être honnête, ça ressemble vraiment à un truc qui pourrait m'arriver."
+    u "Haha, pour être honnête, ça ressemble vraiment à un truc qui pourrait réellement m'arriver."
 
 # game/v15/scene35.rpy:1648
 translate francais v15s35_wml2_24ed4bb6:
@@ -1516,7 +1516,7 @@ translate francais v15s35_wml2_d4e697ce:
 translate francais v15s35_wml2_3df2d405:
 
     # u "Okay, but only if you're shit-faced too."
-    u "D'accord, mais seulement si tu es également déchirée."
+    u "D'accord, mais seulement si t'es également déchirée."
 
 # game/v15/scene35.rpy:1674
 translate francais v15s35_wml2_d8dac2ab:
@@ -1612,19 +1612,19 @@ translate francais v15s35_wml2_70c53da1:
 translate francais v15s35_wml2_35ad5865:
 
     # u "I wouldn't vote for myself because I may already be one."
-    u "Je ne voterais pas pour moi-même car j'en suis peut-être déjà un."
+    u "Je vais pas voter pour moi-même car j'en suis peut-être déjà un."
 
 # game/v15/scene35.rpy:1779
 translate francais v15s35_wml2_35ad5865_1:
 
     # u "I wouldn't vote for myself because I may already be one."
-    u "Je ne voterais pas pour moi-même car j'en suis peut-être déjà un."
+    u "Je vais pas voter pour moi-même car j'en suis peut-être déjà un."
 
 # game/v15/scene35.rpy:1790
 translate francais v15s35_wml2_35ad5865_2:
 
     # u "I wouldn't vote for myself because I may already be one."
-    u "Je ne voterais pas pour moi-même car j'en suis peut-être déjà un."
+    u "Je vais pas voter pour moi-même car j'en suis peut-être déjà un."
 
 # game/v15/scene35.rpy:1800
 translate francais v15s35_wml2_5b62500c:
@@ -1648,7 +1648,7 @@ translate francais v15s35_wml3_2fd10eb2:
 translate francais v15s35_wml3_33ecd5d1:
 
     # u "How are you with a gun?"
-    u "Comment tu t'en sors avec une arme ?"
+    u "Tu t'en sors comment avec une arme ?"
 
 # game/v15/scene35.rpy:1855
 translate francais v15s35_wml3_b7fd2c48:
@@ -1834,7 +1834,7 @@ translate francais v15s35_wml4_aub_8d0151ef:
 translate francais v15s35_wml4_aub_cf28d44a:
 
     # au "You've gotta spice things up, ladies! Haven't you ever done anything like that?"
-    au "Il faut que vous mettiez un peu de piment dans vos vies, mesdames ! Vous n'avez jamais fait un truc comme ça ?"
+    au "Il faut que vous mettiez un peu de piment dans vos vies, mesdames ! Vous avez jamais fait un truc comme ça ?"
 
 # game/v15/scene35.rpy:2057
 translate francais v15s35_wml4_aub_6af9d192:
@@ -1858,7 +1858,7 @@ translate francais v15s35_wml4_aut_df88f5e6:
 translate francais v15s35_wml4_aut_805f000f:
 
     # au "Haha, only one way to find out!"
-    au "Haha, il n'y a qu'une seule façon de le savoir !"
+    au "Haha, y a qu'une seule façon de le savoir !"
 
 # game/v15/scene35.rpy:2081
 translate francais v15s35_wml4_aut_77d946bb:
@@ -1882,7 +1882,7 @@ translate francais v15s35_wml4_lin_d78c4c9d:
 translate francais v15s35_wml4_lin_891f8024:
 
     # au "That's why I voted for you. You protest like you're all innocent, but you totally would!"
-    au "C'est pourquoi j'ai voté pour toi. Tu protestes comme si tu étais complètement innocente, mais je suis sûre que tu le ferais !"
+    au "C'est pourquoi j'ai voté pour toi. Tu protestes comme si t'étais complètement innocente, mais je suis sûre que tu le ferais !"
 
 # game/v15/scene35.rpy:2109
 translate francais v15s35_wml4_lin_e4c23d48:
@@ -1960,7 +1960,7 @@ translate francais v15s35_wml4_end_1dfa0a61:
 translate francais v15s35_wml4_end_03648070:
 
     # u "You're asexual?"
-    u "Tu es asexuée ?"
+    u "T'es asexuée ?"
 
 # game/v15/scene35.rpy:2192
 translate francais v15s35_wml4_end_d3fae4a6:
@@ -2032,7 +2032,7 @@ translate francais v15s35_autumn_reveal_3e0f0f56:
 translate francais v15s35_autumn_reveal_5cb3ce2e:
 
     # au "Oh, yeah. Of course! Sorry, Autumn. I didn't mean to-"
-    au "Oh, oui. Bien sûr ! Désolée, Autumn. Je ne voulais pas..."
+    au "Oh, oui. Bien sûr ! Désolée, Autumn. Je voulais pas..."
 
 # game/v15/scene35.rpy:2275
 translate francais v15s35_autumn_reveal_de803a06:
@@ -2314,7 +2314,7 @@ translate francais v15s35_autumn_reveal_00c7bd2b:
 translate francais v15s35_autumn_reveal_88c05455:
 
     # li "Aw, yes, we will!"
-    li "Oh, oui, on va le faire !"
+    li "Oh, oui, on va le refaire !"
 
 # game/v15/scene35.rpy:2585
 translate francais v15s35_autumn_reveal_1093edcf:
@@ -2524,7 +2524,7 @@ translate francais v15s35_stop_lindsey_aefe6205:
 translate francais v15s35_stop_lindsey_d6097527:
 
     # au "It's probably a good time to end the night anyway."
-    au "C'est sans doute le bon moment pour finir la soirée de toute façon."
+    au "C'est sans doute le meilleur moment pour terminer la soirée, de toute façon."
 
 # game/v15/scene35.rpy:2856
 translate francais v15s35_stop_lindsey_b986532d:

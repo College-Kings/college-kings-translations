@@ -28,7 +28,7 @@ translate francais v15s42_4e442481:
 translate francais v15s42_9636fc66:
 
     # am "We really don't have time for questions, [name]."
-    am "On n'a pas le temps de poser des questions, [name]."
+    am "On a pas le temps de poser des questions, [name]."
 
 # game/v15/scene42.rpy:57
 translate francais v15s42_574a249e:
@@ -64,7 +64,7 @@ translate francais v15s42_b6f0ee9d:
 translate francais v15s42_1bb0bb52:
 
     # am "They don't have access anymore."
-    am "Ils n'y ont plus accès."
+    am "Ils y ont plus accès."
 
 # game/v15/scene42.rpy:94
 translate francais v15s42_ea875e6f:
@@ -148,7 +148,7 @@ translate francais v15s42_c7e5a592:
 translate francais v15s42_2d0c6271:
 
     # u "(Chris said he saw her recently, so that can't be true.)"
-    u "(Chris a dit qu'il l'avait vu récemment, ça ne peut donc pas être vrai.)"
+    u "(Chris a dit qu'il l'avait vu récemment, ça peut donc pas être vrai.)"
 
 # game/v15/scene42.rpy:165
 translate francais v15s42_5bc6eaa0:
@@ -220,7 +220,7 @@ translate francais v15s42_b424f00e:
 translate francais v15s42_82ec13b2:
 
     # u "Sobriety looks great on you."
-    u "Tu es superbe quand tu es clean."
+    u "T'es superbe quand tu es clean."
 
 # game/v15/scene42.rpy:223
 translate francais v15s42_f59165da:
@@ -238,7 +238,7 @@ translate francais v15s42_46120943:
 translate francais v15s42_7c2b3dbd:
 
     # u "Well, just don't murder me and we'll be alright."
-    u "Ne m'assassine pas et tout ira bien."
+    u "M'assassine pas et tout ira bien."
 
 # game/v15/scene42.rpy:238
 translate francais v15s42_92a9f25f:
@@ -328,13 +328,13 @@ translate francais v15s42_499d8a9b:
 translate francais v15s42_a8b166c9:
 
     # u "What type of detective am I? I thought you were the lead investigator."
-    u "Quel type de détective je suis ? Je croyais que tu étais la principale enquêtrice."
+    u "Quel type de détective je suis ? Je croyais que t'étais la principale enquêtrice."
 
 # game/v15/scene42.rpy:310
 translate francais v15s42_278729c1:
 
     # am "Well, yeah, I am. But you have to really like... Feel the role."
-    am "En fait, ouais, je le suis. Mais il faut vraiment que tu kiffes... ressentir le rôle."
+    am "En fait, ouais, je le suis. Mais il faut vraiment que tu kiffes... que tu ressentes le rôle."
 
 # game/v15/scene42.rpy:315
 translate francais v15s42_c6156cf1:
@@ -418,7 +418,7 @@ translate francais v15s42_cbbfa2e8:
 translate francais v15s42_d1570d36:
 
     # am "For sure?"
-    am "Tu es sûr ?"
+    am "T'es sûr ?"
 
 # game/v15/scene42.rpy:390
 translate francais v15s42_f56b9909:
@@ -436,7 +436,7 @@ translate francais v15s42_d78789fb:
 translate francais v15s42_d44f775b:
 
     # am "Let's try not to kill anyone, though, okay? *Laughs*"
-    am "Mais essayons de ne tuer personne, d'accord ? *Rire"
+    am "Mais on va essayer de tuer personne, d'accord ? *Rire*"
 
 # game/v15/scene42.rpy:411
 translate francais v15s42_ca054aca:
@@ -448,7 +448,7 @@ translate francais v15s42_ca054aca:
 translate francais v15s42_27bc2f45:
 
     # u "Okay so, what's the first step, detective?"
-    u "Bon, alors, quelle est la première étape, inspectrice ?"
+    u "Bon, alors, quelle est la première étape, détective ?"
 
 # game/v15/scene42.rpy:421
 translate francais v15s42_6b5e5dc5:
@@ -460,13 +460,13 @@ translate francais v15s42_6b5e5dc5:
 translate francais v15s42_b9dd6c89:
 
     # am "There's a shit ton of clues, we just have to find them."
-    am "Il y a une tonne d'indices, nous devrons les découvrir."
+    am "Il y a une tonne d'indices, on doit les découvrir."
 
 # game/v15/scene42.rpy:425
 translate francais v15s42_d486dee5:
 
     # am "But remember, not all clues we find are accurate. People might lie or misremember, you can't trust everything we hear."
-    am "Mais n'oublie pas que les indices que nous trouvons ne sont pas forcément fiables. Les gens peuvent mentir ou mal se souvenir, tu peux pas faire confiance à tout ce qu'on entends."
+    am "Mais n'oublie pas que les indices qu'on trouvera ne seront pas forcément fiables. Les gens peuvent mentir ou mal se souvenir, tu peux pas faire confiance à tout ce qu'on entends."
 
 # game/v15/scene42.rpy:438
 translate francais v15s42_85246140:
@@ -490,7 +490,7 @@ translate francais v15s42_8672bf74:
 translate francais v15s42_f34be3ff:
 
     # am "Ha. Glad we agree on that."
-    am "Yeah ! Heureuse de voir que nous sommes d'accord là-dessus."
+    am "Yeah ! Heureuse de voir qu'on est d'accord là-dessus."
 
 # game/v15/scene42.rpy:458
 translate francais v15s42_3da2a7e1:

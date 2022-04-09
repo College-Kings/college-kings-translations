@@ -70,7 +70,7 @@ translate francais v15s48a_norasg_586c4b87:
 translate francais v15s48a_norasg_628e5504:
 
     # u "*Laughs* I can't lie to you... Actually, no- I could, but I'm choosing not to."
-    u "*Rire* Je ne peux pas te mentir... En fait, non, je pourrais, mais j'ai choisi de ne pas le faire."
+    u "*Rire* Je peux pas te mentir... En fait, non, je pourrais, mais j'ai choisi de pas le faire."
 
 # game/v15/scene48a.rpy:79
 translate francais v15s48a_norasg_305ad263:
@@ -202,7 +202,7 @@ translate francais v15s48a_boobs_7c4f03e2:
 translate francais v15s48a_boobs_21c22c99:
 
     # u "Good. I'm doing the right thing, then."
-    u "Bien. Alors je fais ce qu'il faut."
+    u "Bien. Ce qui veut dire que je fais ce qu'il faut."
 
 # game/v15/scene48a.rpy:274
 translate francais v15s48a_boobs_aea81471:
@@ -598,7 +598,7 @@ translate francais v15s48a_end_58c78658:
 translate francais v15s48a_end_6881822b:
 
     # u "You're so fucking wet, Nora."
-    u "Tu es si mouillée, Nora."
+    u "T'es si mouillée, Nora."
 
 # game/v15/scene48a.rpy:660
 translate francais v15s48a_end_a1d2ddce:
@@ -610,7 +610,7 @@ translate francais v15s48a_end_a1d2ddce:
 translate francais v15s48a_end_989bec68:
 
     # u "You taste incredible..."
-    u "Tu as un goût incroyable..."
+    u "T'as un goût incroyable..."
 
 # game/v15/scene48a.rpy:664
 translate francais v15s48a_end_0e60966d:
@@ -670,7 +670,7 @@ translate francais v15s48a_end_101b203d:
 translate francais v15s48a_end_38aca1dd:
 
     # u "You feel amazing, Nora..."
-    u "Tu as l'air de te sentir incroyablement bien, Nora..."
+    u "T'as l'air de te sentir incroyablement bien, Nora..."
 
 # game/v15/scene48a.rpy:738
 translate francais v15s48a_end_a18aafef:

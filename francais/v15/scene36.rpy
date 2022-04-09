@@ -10,7 +10,7 @@ translate francais v15s36_ea56c124:
 translate francais v15s36_6d195871:
 
     # u "Absolutely. The game, the drinks, and of course... The company. *Chuckles*"
-    u "Vraiment. Le jeu, les boissons, et bien sûr... La compagnie. *Rire*"
+    u "Vraiment. Le jeu, les boissons, et bien sûr... Votre compagnie. *Rire*"
 
 # game/v15/scene36.rpy:27
 translate francais v15s36_e9401d28:
@@ -46,7 +46,7 @@ translate francais v15s36_707a0153:
 translate francais v15s36_2c4ad87c:
 
     # u "Oh no, I wasn't. Actually I wanted to know what your favorite question from tonight was."
-    u "Oh non, pas du tout. En fait, je voulais savoir quelle était ta question préférée de la soirée."
+    u "Oh non, pas du tout. En fait, je voulais savoir quelle était la question de la soirée que tu as préféré."
 
 # game/v15/scene36.rpy:68
 translate francais v15s36_5b4f2373:
@@ -106,7 +106,7 @@ translate francais v15s36_5a26dd96:
 translate francais v15s36_a1477627:
 
     # u "*Laughs* I think that's a good way to go about it, but only if you're ready, you know?"
-    u "*Rire* Je trouve que c'est une bonne façon de faire, mais seulement si tu es prête, tu comprends ?"
+    u "*Rire* Je trouve que c'est une bonne façon de faire, mais seulement si t'es prête, tu comprends ?"
 
 # game/v15/scene36.rpy:110
 translate francais v15s36_1c76f094:
@@ -142,7 +142,7 @@ translate francais v15s36_5afea696:
 translate francais v15s36_dc520791:
 
     # u "Yeah, I mean... I really like hanging out with you too."
-    u "Ouais, je veux dire... J'aime beaucoup traîner avec toi, moi aussi."
+    u "Ouais, c'est vrai... J'aime beaucoup traîner avec toi, moi aussi."
 
 # game/v15/scene36.rpy:134
 translate francais v15s36_8b717d74:
@@ -250,13 +250,13 @@ translate francais v15s36_f2d3dfae:
 translate francais v15s36_0bef5839:
 
     # u "I do like you, Autumn... I just don't think we should be anything more than friends, you know."
-    u "Je t'aime beaucoup, Autumn... Je pense juste qu'on ne devrait pas être plus que des amis, en fait."
+    u "Je t'aime beaucoup, Autumn... Je pense juste qu'on devrait pas être plus que des amis, en fait."
 
 # game/v15/scene36.rpy:278
 translate francais v15s36_893425cb:
 
     # u "We have a lot of fun when we hang out, there's no expectations. I'd prefer to keep it like that."
-    u "On s'amuse beaucoup quand on sort ensemble, il n'y a aucune attente. Je préfère que ça reste comme ça."
+    u "On s'amuse beaucoup quand on sort ensemble, il y a aucune attente. Je préfère que ça reste comme ça."
 
 # game/v15/scene36.rpy:283
 translate francais v15s36_95d55a74:
@@ -334,13 +334,13 @@ translate francais v15s36_4bc9c946:
 translate francais v15s36_fc217a95:
 
     # u "Yeah, I get that. No worries..."
-    u "Ouais, je comprends. Ne t'inquiète pas..."
+    u "Ouais, je comprends. T'inquiète pas..."
 
 # game/v15/scene36.rpy:344
 translate francais v15s36_ddc9cb73:
 
     # u "So, what was your favorite question from the game tonight?"
-    u "Alors, quelle était ta question préférée du jeu de ce soir ?"
+    u "Alors, quelle était la question que tu as préféré, pendant le jeu de ce soir ?"
 
 # game/v15/scene36.rpy:351
 translate francais v15s36_dontask_0141ec46:
