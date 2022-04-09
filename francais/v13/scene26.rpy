@@ -10,7 +10,7 @@ translate francais v13_emmy_sex_3ca6429f:
 translate francais v13_emmy_sex_591209fc:
 
     # emmy "*Gags*"
-    emmy "*Suce*"
+    emmy "*Halète*"
 
 # game/v13/scene26.rpy:29
 translate francais v13_emmy_sex_26910f5e:
@@ -34,7 +34,7 @@ translate francais v13_emmy_sex_bbd6cd28:
 translate francais v13_emmy_sex_07b82cc0:
 
     # emmy "MmmmhMMMMM! *Gags*"
-    emmy "MmmmhMMMMM ! *Suce*"
+    emmy "MmmmhMMMMM ! *Halète*"
 
 # game/v13/scene26.rpy:45
 translate francais v13_emmy_sex_ae48ffbe:

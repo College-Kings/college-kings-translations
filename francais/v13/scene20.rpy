@@ -34,7 +34,7 @@ translate francais v13s20_closet_87c7ad77:
 translate francais v13s20_closet_5f456375:
 
     # u "(Ugh... Oh, fuck) *Gags*"
-    u "(Beuh... Oh, putain ça pue !) *Grimace*"
+    u "(Beuh... Oh, putain ça pue !) *Halète*"
 
 # game/v13/scene20.rpy:58
 translate francais v13s20_closet_a80ed8d1:

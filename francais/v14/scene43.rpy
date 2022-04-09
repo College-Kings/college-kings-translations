@@ -46,7 +46,7 @@ translate francais v14s43_PhoneContinueEmily_8e880ca5:
 translate francais v14s43_PhoneContinueEmily_1743b6c3:
 
     # pe "Sit down already, weirdo. *Chuckles*"
-    pe "Assieds-toi, ça fait bizarre. *Rire*."
+    pe "Assieds-toi, ça fait bizarre. *Rire*"
 
 # game/v14/scene43.rpy:98
 translate francais v14s43_PhoneContinueEmily_74e10c99:

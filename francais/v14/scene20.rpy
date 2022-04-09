@@ -400,7 +400,7 @@ translate francais v14s20_dc4ccbde:
 translate francais v14s20_5565fbc3:
 
     # aut "Which obviously crushed their spirits. But magically, one day his mother was pregnant and nine months later came their hero. *Chuckles*"
-    aut "Ce qui a évidemment brisé leur moral. Mais comme par magie, un jour sa mère est tombée enceinte et neuf mois plus tard est né leur héro. *Rire*."
+    aut "Ce qui a évidemment brisé leur moral. Mais comme par magie, un jour sa mère est tombée enceinte et neuf mois plus tard est né leur héro. *Rire*"
 
 # game/v14/scene20.rpy:358
 translate francais v14s20_f93d526a:

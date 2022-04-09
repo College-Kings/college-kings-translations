@@ -1066,7 +1066,7 @@ translate francais v15s18c_nsfwSkipLabelAub_488430bc:
 translate francais v15s18c_nsfwSkipLabelAub_a8f2ee86:
 
     # au "Yes... *Panting*"
-    au "Oui... *Halète*."
+    au "Oui... *Halète*"
 
 # game/v15/scene18c.rpy:1086
 translate francais v15s18c_nsfwSkipLabelAub_35a07e5a:
@@ -1750,7 +1750,7 @@ translate francais v15s18c_autumn_amber_3358b4dc:
 translate francais v15s18c_autumn_amber_547afee0:
 
     # u "Oh... *Chuckles*"
-    u "Oh... *Rire*."
+    u "Oh... *Rire*"
 
 # game/v15/scene18c.rpy:1770
 translate francais v15s18c_autumn_amber_73b0fb09:
@@ -2578,7 +2578,7 @@ translate francais v15s18c_penelopesg_3aed3db4:
 translate francais v15s18c_penelopesg_27ff8259:
 
     # u "I could tell. *Chuckles*"
-    u "J'ai entendu ça. *Rire*."
+    u "J'ai entendu ça. *Rire*"
 
 # game/v15/scene18c.rpy:2594
 translate francais v15s18c_penelopesg_784ea6a5:

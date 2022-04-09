@@ -40,7 +40,7 @@ translate francais v13s16a_7ecd954e:
 translate francais v13s16a_afc4833b:
 
     # ri "*Gags*"
-    ri "*Suce*."
+    ri "*Halète*"
 
 # game/v13/scene16a.rpy:51
 translate francais v13s16a_85382b6c:
@@ -52,7 +52,7 @@ translate francais v13s16a_85382b6c:
 translate francais v13s16a_33efaed0:
 
     # ri "*Gags* Mmnnnnghh!!"
-    ri "*Suce* Mmnnnnghh ! !!"
+    ri "*Halète* Mmnnnnghh ! !!"
 
 # game/v13/scene16a.rpy:58
 translate francais v13s16a_0f3299c9:
@@ -154,7 +154,7 @@ translate francais v13s16a_e1905016:
 translate francais v13s16a_a93ad52c:
 
     # ri "Haaaaa... Oh my- *Gasps*"
-    ri "Haaaaa... Oh pu... *Halette*."
+    ri "Haaaaa... Oh pu... *Halette*"
 
 # game/v13/scene16a.rpy:149
 translate francais v13s16a_40ccfc6a:

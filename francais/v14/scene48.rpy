@@ -256,7 +256,7 @@ translate francais v14s48_continue2_acc6a076:
 translate francais v14s48_continue2_a1c0e48a:
 
     # li "[name]... *Chuckles*"
-    li "[name]... *Rire*."
+    li "[name]... *Rire*"
 
 # game/v14/scene48.rpy:286
 translate francais v14s48_continue2_0d00da58:

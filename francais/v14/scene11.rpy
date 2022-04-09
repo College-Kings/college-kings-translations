@@ -166,7 +166,7 @@ translate francais v14s11_a0f9c6ad:
 translate francais v14s11_e94a205d:
 
     # ri "Well, maybe it was just me. *Chuckles*"
-    ri "Et bien, peut-être que c'était juste moi. *Rire*."
+    ri "Et bien, peut-être que c'était juste moi. *Rire*"
 
 # game/v14/scene11.rpy:164
 translate francais v14s11_8b4aabeb:

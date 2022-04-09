@@ -202,7 +202,7 @@ translate francais v14s16_c4709648:
 translate francais v14s16_a2492942:
 
     # u "You're welcome, Chloe. *Chuckles*"
-    u "Je t'en prie, Chloé. *Rire*."
+    u "Je t'en prie, Chloé. *Rire*"
 
 # game/v14/scene16.rpy:212
 translate francais v14s16_0fffc5a8:

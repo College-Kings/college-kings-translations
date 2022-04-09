@@ -172,7 +172,7 @@ translate francais v14s39_a08aef0d:
 translate francais v14s39_8c204c99:
 
     # pe "Oh my god... *Chuckles*"
-    pe "Oh là là... *Rire*."
+    pe "Oh là là... *Rire*"
 
 # game/v14/scene39.rpy:166
 translate francais v14s39_f4b07db4:

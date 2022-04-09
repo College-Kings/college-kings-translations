@@ -10,13 +10,13 @@ translate francais v14s14_3cd301c3:
 translate francais v14s14_3f89b3b1:
 
     # u "*Phone vibrates*"
-    u "*Le téléphone vibre*."
+    u "*Le téléphone vibre*"
 
 # game/v14/scene14.rpy:39
 translate francais v14s14_3f89b3b1_1:
 
     # u "*Phone vibrates*"
-    u "*Le téléphone vibre*."
+    u "*Le téléphone vibre*"
 
 # game/v14/scene14.rpy:41
 translate francais v14s14_9d6ab971:

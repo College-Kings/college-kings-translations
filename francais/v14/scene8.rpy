@@ -88,7 +88,7 @@ translate francais v14s08_8279b9fb:
 translate francais v14s08_96c76367:
 
     # u "Uhh, thanks. *Chuckles*"
-    u "Euhh, merci. *Rire*."
+    u "Euhh, merci. *Rire*"
 
 # game/v14/scene8.rpy:131
 translate francais v14s08_dd62a7a1:

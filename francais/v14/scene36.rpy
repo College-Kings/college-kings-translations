@@ -135,7 +135,7 @@ translate francais v14s36_b41ba313:
 # game/v14/scene36.rpy:136
 translate francais v14s36_596adeed:
 
-    # u "Well, the Chloe I know is definitely a badass, or a bad bitch, depending on who you ask... *Laughs*."
+    # u "Well, the Chloe I know is definitely a badass, or a bad bitch, depending on who you ask... *Laughs*"
     u "Eh bien, la Chloé que je connais est définitivement une badass, ou une badbitch, selon la personne à qui tu demandes... *Rire*"
 
 # game/v14/scene36.rpy:141
@@ -910,7 +910,7 @@ translate francais v14s36_sg_01d74600:
 translate francais v14s36_sg_34065fb1:
 
     # u "Ha... You like that? *Moans*"
-    u "Ha... Tu aimes ça ? *Gémis*."
+    u "Ha... Tu aimes ça ? *Gémis*"
 
 # game/v14/scene36.rpy:973
 translate francais v14s36_sg_de744d57:

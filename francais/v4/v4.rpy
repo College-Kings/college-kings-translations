@@ -105,8 +105,8 @@ translate francais v4start_05f159fd:
 # game/v4/v4.rpy:112
 translate francais v4start_4b864680:
 
-    # imre "Nah, this is my fight *winces in pain*."
-    imre "Nan, c'est MON combat *grimace de douleur*."
+    # imre "Nah, this is my fight *winces in pain*"
+    imre "Nan, c'est MON combat *grimace de douleur*"
 
 # game/v4/v4.rpy:114
 translate francais v4start_ab9aa661:
@@ -177,8 +177,8 @@ translate francais v4start_a98353e8:
 # game/v4/v4.rpy:174
 translate francais v4start_4b864680_1:
 
-    # imre "Nah, this is my fight *winces in pain*."
-    imre "Nan, c'est MON combat *grimace de douleur*."
+    # imre "Nah, this is my fight *winces in pain*"
+    imre "Nan, c'est MON combat *grimace de douleur*"
 
 # game/v4/v4.rpy:176
 translate francais v4start_151acc9a:

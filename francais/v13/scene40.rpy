@@ -298,7 +298,7 @@ translate francais v13s40_end_free_roam_4b92735e:
 translate francais v13s40_end_free_roam_c88ee6c9:
 
     # cl "*Gags*"
-    cl "*Suce*"
+    cl "*Halète*"
 
 # game/v13/scene40.rpy:624
 translate francais v13s40_end_free_roam_8613819f:

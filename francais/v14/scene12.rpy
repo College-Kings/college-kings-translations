@@ -88,13 +88,13 @@ translate francais v14s12_12e0cffe:
 translate francais v14s12_a15e1011:
 
     # u "Are you going to keep hiding this secret job from me? What is it that you actually do? *Chuckles*"
-    u "Tu vas encore me cacher ce travail secret ? Qu'est-ce que tu fais exactement ? *Rire*."
+    u "Tu vas encore me cacher ce travail secret ? Qu'est-ce que tu fais exactement ? *Rire*"
 
 # game/v14/scene12.rpy:127
 translate francais v14s12_9318fc5a:
 
     # ju "For as long as they make me keep it a secret, yes. I am keeping it from you. *Laughs*"
-    ju "Tant qu'ils me demandent de garder le secret, oui. Je te le cache. *Rire"
+    ju "Tant qu'ils me demandent de garder le secret, oui. Je te le cache. *Rire*"
 
 # game/v14/scene12.rpy:132
 translate francais v14s12_a1f51372:

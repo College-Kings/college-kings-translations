@@ -1108,7 +1108,7 @@ translate francais v11_quiz_bonus_0fa2a6e2:
 translate francais v11_quiz_bonus_dca3b436:
 
     # la "I don't think I've ever been this happy *Chuckles*"
-    la "Je crois que oui, je n'ai jamais été aussi heureuse *Rire*."
+    la "Je crois que oui, je n'ai jamais été aussi heureuse *Rire*"
 
 # game/v11/scene30.rpy:1240
 translate francais v11_quiz_bonus_7cc21e12:

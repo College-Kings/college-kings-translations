@@ -70,7 +70,7 @@ translate francais v14s26_0dcab7f2:
 translate francais v14s26_19beb78a:
 
     # li "You can buy some cake! *Chuckles*"
-    li "Tu peux acheter du gâteau ! *Rire*."
+    li "Tu peux acheter du gâteau ! *Rire*"
 
 # game/v14/scene26.rpy:79
 translate francais v14s26_f7c813e2:
@@ -112,7 +112,7 @@ translate francais v14s26_7e3399ae:
 translate francais v14s26_a97ee80d:
 
     # u "Wow, that's... Thanks. *Chuckles*"
-    u "Wow, c'est... Merci. *Rire*."
+    u "Wow, c'est... Merci. *Rire*"
 
 # game/v14/scene26.rpy:134
 translate francais v14s26_0750ab87:

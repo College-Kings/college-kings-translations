@@ -2974,7 +2974,7 @@ translate francais v10s33_riley2_fb50cedb:
 translate francais v10s33_riley2_8557b482:
 
     # au "Should I rub it in now or later? *Chuckles*"
-    au "Je dois le frotter maintenant ou plus tard ? *Rire*."
+    au "Je dois le frotter maintenant ou plus tard ? *Rire*"
 
 # game/v10/scene33.rpy:3032
 translate francais v10s33_riley2_e7a00c38:

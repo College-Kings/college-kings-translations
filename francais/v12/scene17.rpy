@@ -837,8 +837,8 @@ translate francais v12_escape_room_2caadd3a:
 # game/v12/scene17.rpy:765
 translate francais v12_escape_room_9597e8a0:
 
-    # imre "I don't care if his fucking non-existent balls freeze off, I'm not touchin- *inaudible*."
-    imre "J'm'en fous si ses putains de couilles inexistantes gèlent, j'toucherai pas... *inaudible*."
+    # imre "I don't care if his fucking non-existent balls freeze off, I'm not touchin- *inaudible*"
+    imre "J'm'en fous si ses putains de couilles inexistantes gèlent, j'toucherai pas... *inaudible*"
 
 # game/v12/scene17.rpy:772
 translate francais v12_escape_room_d0e522df:
@@ -939,8 +939,8 @@ translate francais v12_lindsey_kiss_or_not_fd1b9e1a:
 # game/v12/scene17.rpy:915
 translate francais v12_lindsey_kiss_or_not_f57f01a0:
 
-    # li "Um, no. I haven't really gotten a chance to. Plus, I'm a little scared to have a conversation with her. *Chuckles*."
-    li "Hum, non. Je n'en ai pas vraiment eu l'occasion. En plus, j'ai un peu peur d'avoir une conversation avec elle. *Rire*."
+    # li "Um, no. I haven't really gotten a chance to. Plus, I'm a little scared to have a conversation with her. *Chuckles*"
+    li "Hum, non. Je n'en ai pas vraiment eu l'occasion. En plus, j'ai un peu peur d'avoir une conversation avec elle. *Rire*"
 
 # game/v12/scene17.rpy:920
 translate francais v12_lindsey_kiss_or_not_3fe7b85f:
@@ -1114,7 +1114,7 @@ translate francais v12s17_lindsey_sixty_nine_59b249b5:
 translate francais v12s17_lindsey_sixty_nine_ed8406ec:
 
     # li "*Moans* *Gags*"
-    li "*Gémis* *Suce*"
+    li "*Gémis* *Halète*"
 
 # game/v12/scene17.rpy:1157
 translate francais v12s17_lindsey_sixty_nine_b22f7031:
@@ -1144,7 +1144,7 @@ translate francais v12s17_lindsey_sixty_nine_6eaeba0e:
 translate francais v12s17_lindsey_sixty_nine_230fe863:
 
     # li "I-I'm... Cu- *Gasps*"
-    li "Je... je vais... Jou- *gémis*."
+    li "Je... je vais... Jou- *gémis*"
 
 # game/v12/scene17.rpy:1199
 translate francais v12s17_lindsey_sixty_nine_8ea1fe76:

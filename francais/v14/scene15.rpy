@@ -76,7 +76,7 @@ translate francais v14s15_31fd76f1:
 translate francais v14s15_635d9a37:
 
     # u "Wait, that's how you're deciding? *Chuckles*"
-    u "Attends, c'est comme ça que tu prends tes décisions ? *Rire*."
+    u "Attends, c'est comme ça que tu prends tes décisions ? *Rire*"
 
 # game/v14/scene15.rpy:107
 translate francais v14s15_6641ae50:

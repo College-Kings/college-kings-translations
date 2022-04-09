@@ -70,7 +70,7 @@ translate francais v14s01_89902401:
 translate francais v14s01_4f392938:
 
     # au "Mmm... *Chuckles*"
-    au "Mmm... *Rire*."
+    au "Mmm... *Rire*"
 
 # game/v14/scene1.rpy:185
 translate francais v14s01_68757381:
@@ -154,7 +154,7 @@ translate francais v14s01_b84d4e6c:
 translate francais v14s01_edbab935:
 
     # u "*Mumbles*"
-    u "*Balbutie*."
+    u "*Balbutie*"
 
 # game/v14/scene1.rpy:273
 translate francais v14s01_83d9299b:
@@ -232,7 +232,7 @@ translate francais v14s01_6ddf62a5:
 translate francais v14s01_23910f6f:
 
     # ri "Okay! I'm down. *Chuckles*"
-    ri "Ok ! Je suis prête. *Rire*."
+    ri "Ok ! Je suis prête. *Rire*"
 
 # game/v14/scene1.rpy:383
 translate francais v14s01_2eaf0810:

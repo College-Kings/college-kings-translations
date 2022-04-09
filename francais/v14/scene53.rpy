@@ -190,7 +190,7 @@ translate francais v14s53_e3f10a04:
 translate francais v14s53_940ecba6:
 
     # sa "Oh, don't be. You did the right thing; I just like to rebel. *Chuckles*"
-    sa "Oh, ne l'sois pas. T'as fait ce qu'il fallait; moi, je préfère juste être une rebelle. *Rire*."
+    sa "Oh, ne l'sois pas. T'as fait ce qu'il fallait; moi, je préfère juste être une rebelle. *Rire*"
 
 # game/v14/scene53.rpy:211
 translate francais v14s53_3c243f99:

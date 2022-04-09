@@ -256,7 +256,7 @@ translate francais v14s03d_22cfd83d:
 translate francais v14s03d_da5d4f52:
 
     # satin "C'mon over here. What are you waiting for? *Chuckles*"
-    satin "Viens par ici. Qu'est-ce que t'attends ? *Rire*."
+    satin "Viens par ici. Qu'est-ce que t'attends ? *Rire*"
 
 # game/v14/scene3d.rpy:335
 translate francais v14s03d_53e94835:

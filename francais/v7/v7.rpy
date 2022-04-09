@@ -13358,7 +13358,7 @@ translate francais chloe_dance_d68a50df:
 # game/v7/v7.rpy:12860
 translate francais chloe_dance_98ac6360:
 
-    # cl "I don't know if he's just really uncoordinated, or was just enjoying the spotlight a bit too much, but he didn't really lead well *Laughs*."
+    # cl "I don't know if he's just really uncoordinated, or was just enjoying the spotlight a bit too much, but he didn't really lead well *Laughs*"
     cl "Je ne sais pas s'il n'est pas coordonné ou s'il apprécie un peu trop les projecteurs, mais il n'a pas bien mené la danse. *Rire*"
 
 # game/v7/v7.rpy:12865
@@ -13533,7 +13533,7 @@ translate francais fr4emilydate2_24b278d2:
 translate francais fr4emilydate2_363b918d:
 
     # em "*Gags*"
-    em "*Suce*"
+    em "*Halète*"
 
 # game/v7/v7.rpy:13034
 translate francais fr4emilydate2_7dadae3c:
@@ -17636,8 +17636,8 @@ translate francais fr4rileyending_5c3f1f92:
 # game/v7/v7.rpy:17147
 translate francais fr4rileyending_69a96b29:
 
-    # u "Yeah... all this dancing was exhausting *Chuckles*."
-    u "Ouais... toute ces danses étaient épuisantes *Rire*."
+    # u "Yeah... all this dancing was exhausting *Chuckles*"
+    u "Ouais... toute ces danses étaient épuisantes *Rire*"
 
 # game/v7/v7.rpy:17164
 translate francais fr4rileyending2_f5cdcf91:
@@ -19114,7 +19114,7 @@ translate francais fr4emilydate_24b278d2:
 translate francais fr4emilydate_363b918d:
 
     # em "*Gags*"
-    em "*Suce*"
+    em "*Halète**"
 
 # game/v7/v7.rpy:13011
 translate francais fr4emilydate_7dadae3c:

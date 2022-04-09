@@ -1041,8 +1041,8 @@ translate francais v12s7_riley1_c8614a4b:
 # game/v12/scene7.rpy:976
 translate francais v12s7_riley1_d8fae3c9:
 
-    # cl "He's always been serious about his history stuff, or whatever this is supposed to be. *Laughs*."
-    cl "Il a toujours été sérieux à propos de ses trucs d'histoire, ou peu importe ce que c'est censé être. *Rire*."
+    # cl "He's always been serious about his history stuff, or whatever this is supposed to be. *Laughs*"
+    cl "Il a toujours été sérieux à propos de ses trucs d'histoire, ou peu importe ce que c'est censé être. *Rire*"
 
 # game/v12/scene7.rpy:981
 translate francais v12s7_riley1_eeda25fd:

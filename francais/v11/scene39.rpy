@@ -652,7 +652,7 @@ translate francais v11_race_continue1_e5e2c2eb:
 translate francais v11_race_continue1_359ad905:
 
     # am "THAT'S A LAP! HOPE THE WORLD LIKES SEEING YOU NAKED! *Chuckles*"
-    am "C'EST LE PREMIER TOUR ! J'ESPÈRE QUE LE MONDE AIMERA TE VOIR NU ! *Ricane*."
+    am "C'EST LE PREMIER TOUR ! J'ESPÈRE QUE LE MONDE AIMERA TE VOIR NU ! *Ricane*"
 
 # game/v11/scene39.rpy:663
 translate francais v11_race_continue1_395b2d86:

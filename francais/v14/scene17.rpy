@@ -82,7 +82,7 @@ translate francais v14s17_bba80a90:
 translate francais v14s17_d8e090ce:
 
     # ro "*Chuckles*"
-    ro "*Rire*."
+    ro "*Rire*"
 
 # game/v14/scene17.rpy:98
 translate francais v14s17_1a5a0ef1:
@@ -190,7 +190,7 @@ translate francais v14s17_1f3a2791:
 translate francais v14s17_8569c4fa:
 
     # u "*Chuckles*"
-    u "*Rire*."
+    u "*Rire*"
 
 # game/v14/scene17.rpy:214
 translate francais v14s17_e10210ad:

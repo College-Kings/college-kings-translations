@@ -10,7 +10,7 @@ translate francais after_drugs_7ea96441:
 translate francais after_drugs_6b273329:
 
     # jo "Y-yeah, I'm fi-fine *Groans*"
-    jo "O-oui, je vais bien *Grogne*."
+    jo "O-oui, je vais bien *Grogne*"
 
 # game/v8/scene29.rpy:33
 translate francais after_drugs_85cb350e:

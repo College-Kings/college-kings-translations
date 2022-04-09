@@ -940,7 +940,7 @@ translate francais v15s4_dog_0c64a211:
 translate francais v15s4_dog_2aa685cc:
 
     # u "I always sleep with one eye open. *Chuckles*"
-    u "Je dors toujours avec un œil ouvert. *Rire*."
+    u "Je dors toujours avec un œil ouvert. *Rire*"
 
 # game/v15/scene4.rpy:983
 translate francais v15s4_dog_32790dbc:
@@ -1024,7 +1024,7 @@ translate francais v15s4_dog_9f53b619:
 translate francais v15s4_dog_11906579:
 
     # u "I can see why you're President of the Deer. *Chuckles*"
-    u "Je vois pourquoi tu es la Présidente des Deers. *Rire*."
+    u "Je vois pourquoi tu es la Présidente des Deers. *Rire*"
 
 # game/v15/scene4.rpy:1070
 translate francais v15s4_dog_25e23825:

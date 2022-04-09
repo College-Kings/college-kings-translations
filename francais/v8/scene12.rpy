@@ -22,7 +22,7 @@ translate francais apes_join_ceremony_39a623a4:
 translate francais apes_join_ceremony_55f29e3c:
 
     # u "(Could be fun if I run into Chloe tonight. If only that girl hadn't interrupted at the perfect moment *sigh*)"
-    u "(Ça pourrait être amusant si je tombais sur Chloé ce soir. Si seulement cette fille ne nous avait pas interrompu au bon moment *soupir*.)"
+    u "(Ça pourrait être amusant si je tombais sur Chloé ce soir. Si seulement cette fille ne nous avait pas interrompu au bon moment. *soupir*)"
 
 # game/v8/scene12.rpy:23
 translate francais apes_join_ceremony_f11ecf3f:

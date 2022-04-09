@@ -16,13 +16,13 @@ translate francais v13s50a_08591a7c:
 translate francais v13s50a_44a3ca1d:
 
     # em "Mmmghhh! *Gag*"
-    em "Mmmghhh ! *Suce*"
+    em "Mmmghhh ! *Halète*"
 
 # game/v13/scene50a.rpy:64
 translate francais v13s50a_363b918d:
 
     # em "*Gags*"
-    em "*Suce*"
+    em "*Halète*"
 
 # game/v13/scene50a.rpy:77
 translate francais v13s50a_384927ac:

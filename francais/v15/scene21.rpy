@@ -2044,7 +2044,7 @@ translate francais v15s21_45881683:
 translate francais v15s21_9a1b5477:
 
     # cl "That's... a weird request, [name]. *Nervous chuckles*"
-    cl "C'est... une demande bizarre, [name]. *Rire nerveux*."
+    cl "C'est... une demande bizarre, [name]. *Rire nerveux*"
 
 # game/v15/scene21.rpy:2021
 translate francais v15s21_85f5345b:

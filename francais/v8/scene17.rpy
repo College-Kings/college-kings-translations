@@ -274,7 +274,7 @@ translate francais phn_penelope6_done_3d22a601:
 translate francais phn_penelope6_done_af69c7be_1:
 
     # ro "I can't stand to look at these four walls anymore *Sniff*"
-    ro "Je ne peux plus supporter de regarder ces quatre murs *Snif*."
+    ro "Je ne peux plus supporter de regarder ces quatre murs *Snif*"
 
 # game/v8/scene17.rpy:214
 translate francais phn_penelope6_done_98d58592:

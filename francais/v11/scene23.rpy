@@ -1331,7 +1331,7 @@ translate francais v11s23_riley1_fe3921c0:
 translate francais v11s23_riley1_e7a524b7:
 
     # ri "Yeah, no. Not really *Chuckles*"
-    ri "Ouais, non. Pas vraiment *Rire*."
+    ri "Ouais, non. Pas vraiment *Rire*"
 
 # game/v11/scene23.rpy:369
 translate francais v11s23_riley1_14fcf62b:

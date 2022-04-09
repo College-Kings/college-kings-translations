@@ -136,7 +136,7 @@ translate francais v14s18_f6f3df91:
 translate francais v14s18_964941f7:
 
     # li "I know you're like... Dating her, or whatever you're calling it... *Chuckles*"
-    li "Je sais que tu es comme... Tu sors avec elle, ou peu importe comment tu appelles ça... *Rire*."
+    li "Je sais que tu es comme... Tu sors avec elle, ou peu importe comment tu appelles ça... *Rire*"
 
 # game/v14/scene18.rpy:152
 translate francais v14s18_737cc6f7:

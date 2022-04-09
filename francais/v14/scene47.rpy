@@ -514,7 +514,7 @@ translate francais v14s47_driver_da2cb958:
 translate francais v14s47_driver_53610797:
 
     # u "Is that even a question? *Chuckles*"
-    u "C'est vraiment une question ? *Rire*."
+    u "C'est vraiment une question ? *Rire*"
 
 # game/v14/scene47.rpy:565
 translate francais v14s47_driver_1ad77d2c:
