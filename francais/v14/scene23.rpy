@@ -364,7 +364,7 @@ translate francais v14s23_490663b2:
 translate francais v14s23_e31a859c:
 
     # cl "A really good friend of mine is willing to let us shoot with her for a fee, but with her we'll get to pose with a real life wolf!"
-    cl "Un très bonne ami à moi est prêt à nous laisser nous photographier avec lui, contre rémunération, et grâce à lui, on pourrait poser avec un vrai loup !"
+    cl "Un très bon ami à moi est prêt à nous laisser nous photographier avec lui, contre rémunération, et grâce à lui, on pourrait poser avec un vrai loup !"
 
 # game/v14/scene23.rpy:325
 translate francais v14s23_d9579702:
