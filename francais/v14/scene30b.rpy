@@ -309,5 +309,4 @@ translate francais strings:
 
     # game/v14/scene30b.rpy:323
     old "   A vote for me is a vote for The Chicks AND a vote for The Wolves :) #TheChicksWhoCriedWolves #Vote4ChloeVote4Wolves"
-    new ""
-
+    new "Un vote pour moi est un vote pour les Chicks ET un vote pour les Wolves :) #TheChicksWhoCriedWolves #Vote4ChloeVote4Wolves"
