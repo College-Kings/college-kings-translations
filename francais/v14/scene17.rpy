@@ -442,7 +442,7 @@ translate francais v14s17_bafbd321:
 translate francais v14s17_628fa78a:
 
     # la "I'm always down for a bake sale, but I'm not exactly trying to get involved in any of this. Did you see all of her flyers?"
-    la "Je suis toujours partante pour une vente de gâteaux, mais je ne veux vraiment pas m'impliquer dans tout ça. Tu as vu tous les prospectus qu'elle a envoyés ?"
+    la "Je suis toujours partante pour une vente de gâteaux, mais je ne veux vraiment pas m'impliquer dans tout ça. Tu as vu tous les prospectus qu'elle a placardé ?"
 
 # game/v14/scene17.rpy:449
 translate francais v14s17_21256820:

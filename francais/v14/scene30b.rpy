@@ -303,3 +303,11 @@ translate francais strings:
     # game/v14/scene30b.rpy:347
     old "Teamwork makes the dreamwork! <3 #TheChicksWhoCriedWolves #Vote4ChloeVote4Wolves"
     new "Le travail d'équipe fait que le rêve fonctionne ! <3 #TheChicksWhoCriedWolves #Vote4ChloeVote4Wolves"
+# TODO: Translation updated at 2022-04-09 23:43
+
+translate francais strings:
+
+    # game/v14/scene30b.rpy:323
+    old "   A vote for me is a vote for The Chicks AND a vote for The Wolves :) #TheChicksWhoCriedWolves #Vote4ChloeVote4Wolves"
+    new ""
+

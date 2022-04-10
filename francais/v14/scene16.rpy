@@ -160,7 +160,7 @@ translate francais v14s16_77f717c2:
 translate francais v14s16_02865fad:
 
     # u "(I think she means having an assistant in the bedroom...?!) I'm definitely following."
-    u "(Je pense qu'elle veut dire avoir un assistant dans la chambre...?!) Je suis avec toi, définitivement."
+    u "(Et si elle voulait dire \"avoir un assistant dans la chambre\"...?! Je serais définitivement avec toi.)"
 
 # game/v14/scene16.rpy:170
 translate francais v14s16_9b756545:
@@ -352,7 +352,7 @@ translate francais v14s16_d84906c9:
 translate francais v14s16_15f2b0e3:
 
     # u "*Exhales* (Feels so good to be back.)"
-    u "*Expires* (Ça fait tellement de bien d'être de retour.)"
+    u "*Expire* (Ça fait tellement de bien d'être de retour.)"
 
 translate francais strings:
 
