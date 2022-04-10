@@ -10,7 +10,7 @@ translate francais v14s22_2dbeaba7:
 translate francais v14s22_ffcd966f:
 
     # li "Hey, you! Thanks for coming. You like the spot, huh?"
-    li "Salut, toi ! Merci d'être venu. Tu aimes ce lieu, hein ?"
+    li "Salut, toi ! Merci d'être venu. Tu aimes cet endroit ?"
 
 # game/v14/scene22.rpy:42
 translate francais v14s22_4123e3fe:
