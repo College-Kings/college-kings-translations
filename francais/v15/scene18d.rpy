@@ -322,7 +322,7 @@ translate francais v15s18d_44e3eed9:
 translate francais v15s18d_76ad5301:
 
     # la "Ha. I don't think that's going to happen."
-    la "Ha. Je n'y crois pas, ça va se produire."
+    la "Ha. Je ne crois pas que ça puisse se produire, non."
 
 # game/v15/scene18d.rpy:391
 translate francais v15s18d_4964b777:

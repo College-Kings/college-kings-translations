@@ -76,19 +76,19 @@ translate francais v15s19_c631639e:
 translate francais v15s19_8e46ede3:
 
     # u "Of course, now where should I start?"
-    u "Bien sûr. Bon, par où commencer, maintenant ?"
+    u "T'inquiètes. Bon, par où commencer, maintenant ?"
 
 # game/v15/scene19.rpy:131
 translate francais v15s19_9a3faad1:
 
     # la "Can you hold this bag open for me? And I'll put this trash in it."
-    la "Tu peux tenir ce sac ouvert pour moi ? Et je vais mettre ces déchets dedans."
+    la "Tu peux tenir cette poubelle pour moi ? Je mettrais ces déchets dedans."
 
 # game/v15/scene19.rpy:136
 translate francais v15s19_93fc7d91:
 
     # u "Sure, I can do that."
-    u "Bien sûr, je vais faire ça."
+    u "Bien sûr, aucun problème."
 
 # game/v15/scene19.rpy:169
 translate francais v15s19_37ee4679:
@@ -106,7 +106,7 @@ translate francais v15s19_fcc18885:
 translate francais v15s19_f9305dc9:
 
     # la "Okay. I'm so glad that's done, haha. You're the best."
-    la "Ok. Je suis vraiment contente que ce soit fait, haha. Tu es le meilleur."
+    la "Ok. Je suis vraiment contente que tout ça soit fait, haha. Tu es le meilleur."
 
 # game/v15/scene19.rpy:184
 translate francais v15s19_02da5d19:
