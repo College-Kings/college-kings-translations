@@ -875,3 +875,10 @@ translate francais strings:
     # game/v11/scene2.rpy:358
     old "Give up"
     new "Laisse tomber"
+# TODO: Translation updated at 2022-04-11 14:36
+
+# game/v11/scene2.rpy:349
+translate francais v11_nora_chloe_hallway_7a91b8cb:
+
+    # u "(I need to get home and pack.)"
+    u "(Je devrais rentrer chez moi et faire mes bagages.)"

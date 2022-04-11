@@ -103,3 +103,10 @@ translate francais strings:
     # game/v9/scene21.rpy:84
     old "<3"
     new "<3"
+# TODO: Translation updated at 2022-04-11 14:36
+
+# game/v9/scene21.rpy:90
+translate francais s21_PhoneContinue_e0c455bf:
+
+    # u "(I should text Julia.)"
+    u "(Je devrais envoyer un message à Julia.)"

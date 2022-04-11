@@ -5547,3 +5547,34 @@ translate francais strings:
     # game/v1/v1.rpy:3978
     old "She's occupied"
     new "Elle est occupée"
+# TODO: Translation updated at 2022-04-11 14:36
+
+# game/v1/v1.rpy:1515
+translate francais v1_phoneCheck1_27ecbc47:
+
+    # u "(I should reply to Lauren.)"
+    u "(Je devrais répondre à Lauren.)"
+
+# game/v1/v1.rpy:1533
+translate francais v1_phoneCheck2_f4c6b87b:
+
+    # u "(I should reply to Julia as well, by the way.)"
+    u "(D'ailleurs, je devrais également répondre à Julia.)"
+
+# game/v1/v1.rpy:4161
+translate francais be_bd_90886648:
+
+    # cl "One time a guy stole my underwear and somehow the Dean found out about it."
+    cl "Une fois, un type a volé mes sous-vêtements et la Doyenne l'a découvert je ne sais pas comment."
+
+# game/v1/v1.rpy:4169
+translate francais be_bd_362c375c:
+
+    # cl "Both of us then had to come to his office, so that the guy could apologize and give me my panties back right in front of the Dean."
+    cl "Nous avons ensuite dû tous les deux nous rendre dans son bureau, pour que le mec puisse s'excuser et me rendre ma culotte juste devant la Doyenne."
+
+# game/v1/v1.rpy:4190
+translate francais be_bd_a880f70a:
+
+    # u "Hahaha, sounds like the Dean was into you."
+    u "Hahaha, on dirait que la Doyenne était à fond sur toi."

@@ -97,3 +97,16 @@ translate francais strings:
     # game/v9/scene25.rpy:32
     old "Sure!"
     new "Bien sûr !"
+# TODO: Translation updated at 2022-04-11 14:36
+
+# game/v9/scene25.rpy:37
+translate francais s25_ContinueW_8e7cf5c5:
+
+    # u "(I should text Lauren.)"
+    u "(Je devrais envoyer un message à Lauren.)"
+
+# game/v9/scene25.rpy:81
+translate francais s25_ContinueA_8e7cf5c5:
+
+    # u "(I should text Lauren.)"
+    u "(Je devrais envoyer un message à Lauren.)"

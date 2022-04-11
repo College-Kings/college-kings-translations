@@ -167,3 +167,10 @@ translate francais strings:
     # game/v9/scene32.rpy:164
     old "Man, I'd really love to but..."
     new "J'aimerais vraiment, mais..."
+# TODO: Translation updated at 2022-04-11 14:36
+
+# game/v9/scene32.rpy:169
+translate francais s32_PhoneContinue_d172984c:
+
+    # u "(I should reply to Riley.)"
+    u "(Je devrais répondre à Riley.)"

@@ -85,3 +85,10 @@ translate francais strings:
     # game/v9/scene38.rpy:40
     old "Aww, I wish I could, but I gotta get ready for the brawl"
     new "Argh, j'aimerais bien, mais je dois me préparer pour le brawl."
+# TODO: Translation updated at 2022-04-11 14:36
+
+# game/v9/scene38.rpy:46
+translate francais s38_PhoneContinue_f9e9813d:
+
+    # u "(I should reply to Lindsey.)"
+    u "(Je devrais répondre à Lindsey.)"

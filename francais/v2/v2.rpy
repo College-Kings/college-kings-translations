@@ -4382,3 +4382,28 @@ translate francais strings:
     # game/v2/v2.rpy:3320
     old "You look beautiful"
     new "Tu es magnifique"
+# TODO: Translation updated at 2022-04-11 14:36
+
+# game/v2/v2.rpy:1092
+translate francais v1_tom_walk_away_44158285:
+
+    # u "(Fuck, I feel like shit...)"
+    u "(Putain, je me sens comme une merde...)"
+
+# game/v2/v2.rpy:1095
+translate francais v1_tom_walk_away_39872a73:
+
+    # u "(Holy shit, I just knocked someone out...)"
+    u "(Putain de merde, je viens d'assommer quelqu'un...)"
+
+# game/v2/v2.rpy:1098
+translate francais v1_tom_walk_away_2b65b4ac:
+
+    # u "(What a douchebag...)"
+    u "(Quel connard...)"
+
+# game/v2/v2.rpy:1100
+translate francais v1_tom_walk_away_3782e809:
+
+    # u "(Also, what am I gonna do about Lauren? I can't avoid her forever.)"
+    u "(Et puis, qu'est-ce que je vais faire à propos de Lauren ? Je peux pas l'éviter indéfiniment.)"

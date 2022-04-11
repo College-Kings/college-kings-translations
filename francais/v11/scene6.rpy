@@ -71,3 +71,16 @@ translate francais v11s6_PhoneContinue1_08defd0d:
 
     # u "(This is kinda weird... First I have no idea who this guy is and now he's in my circle? *Sighs* I'm not gonna stress about it, I just need to relax. Getting some sleep will be nice.)"
     u "(C'est un peu bizarre... D'abord je n'ai aucune idée de qui est ce gars et maintenant il est dans mon cercle ? *Soupirs* Je ne vais pas stresser pour ça, j'ai juste besoin de me détendre. Dormir un peu me fera du bien.)"
+# TODO: Translation updated at 2022-04-11 14:36
+
+# game/v11/scene6.rpy:36
+translate francais v11s6_PhoneContinue_d172984c:
+
+    # u "(I should reply to Riley.)"
+    u "(Je devrais répondre à Riley.)"
+
+# game/v11/scene6.rpy:79
+translate francais v11s6_PhoneContinue1_d172984c:
+
+    # u "(I should reply to Riley.)"
+    u "(Je devrais répondre à Riley.)"

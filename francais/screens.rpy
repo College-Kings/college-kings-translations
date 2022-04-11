@@ -336,3 +336,10 @@ translate francais strings:
     # game/screens.rpy:570
     old "QUICK SAVES"
     new "SAUVEGARDES RAPIDES"
+# TODO: Translation updated at 2022-04-11 14:37
+
+translate francais strings:
+
+    # game/screens.rpy:356
+    old "Test Language"
+    new "test des langues"

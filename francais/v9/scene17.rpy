@@ -91,3 +91,16 @@ translate francais strings:
     # game/v9/scene17.rpy:49
     old "Ok :) See you soon!"
     new "Ok :) A bientôt !"
+# TODO: Translation updated at 2022-04-11 14:36
+
+# game/v9/scene17.rpy:55
+translate francais s17_PhoneContinueW_8e7cf5c5:
+
+    # u "(I should text Lauren.)"
+    u "(Je devrais envoyer un message à Lauren.)"
+
+# game/v9/scene17.rpy:96
+translate francais s17_PhoneContinueA_8e7cf5c5:
+
+    # u "(I should text Lauren.)"
+    u "(Je devrais envoyer un message à Lauren.)"

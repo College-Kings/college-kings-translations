@@ -147,3 +147,16 @@ translate francais v10s19_PhoneContinue1_6510ef30:
 
     # lee "Indeed it was, and now I should be headed home, it's my bedtime soon."
     lee "En effet, et maintenant je devrais rentrer à la maison, c'est bientôt l'heure de me coucher."
+# TODO: Translation updated at 2022-04-11 14:36
+
+# game/v10/scene19.rpy:35
+translate francais v10s19_PhoneContinue_75118932:
+
+    # u "(I should reply to Jenny.)"
+    u "(Je devrais répondre à Jenny.)"
+
+# game/v10/scene19.rpy:60
+translate francais v10s19_PhoneContinue1_1d59f17f:
+
+    # u "(I should text Penelope.)"
+    u "(Je devrais envoyer un message à Pénélope.)"

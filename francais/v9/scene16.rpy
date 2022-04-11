@@ -1274,3 +1274,28 @@ translate francais strings:
     # game/v9/scene16.rpy:442
     old "Be macho"
     new "Être macho"
+# TODO: Translation updated at 2022-04-11 14:36
+
+# game/v9/scene16.rpy:79
+translate francais s16_PhoneContinueW_87b40466:
+
+    # u "(I should reply to Emily.)"
+    u "(Je devrais répondre à Emily.)"
+
+# game/v9/scene16.rpy:114
+translate francais s16_PhoneContinueA_87b40466:
+
+    # u "(I should reply to Emily.)"
+    u "(Je devrais répondre à Emily.)"
+
+# game/v9/scene16.rpy:873
+translate francais s16_ContinueW1_f9e9813d:
+
+    # u "(I should reply to Lindsey.)"
+    u "(Je devrais répondre à Lindsey.)"
+
+# game/v9/scene16.rpy:920
+translate francais s16_ContinueA1_f9e9813d:
+
+    # u "(I should reply to Lindsey.)"
+    u "(Je devrais répondre à Lindsey.)"

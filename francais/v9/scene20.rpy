@@ -49,3 +49,16 @@ translate francais s20_phoneExit2_ccec2a98:
 
     # "(I should reply to that post on Kiwii)"
     "(Je devrais répondre à ce post sur Kiwii.)"
+# TODO: Translation updated at 2022-04-11 14:36
+
+# game/v9/scene20.rpy:33
+translate francais s20_phoneExit1_f7a7e5c0:
+
+    # u "(I should reply to that post on Kiwii.)"
+    u "(Je devrais répondre à ce post sur Kiwii.)"
+
+# game/v9/scene20.rpy:64
+translate francais s20_phoneExit2_4b007b2e:
+
+    # u "(I should reply to that post on Kiwii)"
+    u "(Je devrais répondre à ce post sur Kiwii.)"

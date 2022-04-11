@@ -248,3 +248,16 @@ translate francais strings:
     # game/v9/scene35.rpy:36
     old "God, I miss that cock."
     new "Putain, cette bite me manque."
+# TODO: Translation updated at 2022-04-11 14:36
+
+# game/v9/scene35.rpy:104
+translate francais s35_PhoneContinueW_e4edb176:
+
+    # u "(I should reply to Chloe.)"
+    u "(Je devrais répondre à Chloé.)"
+
+# game/v9/scene35.rpy:152
+translate francais s35_PhoneContinueA_e4edb176:
+
+    # u "(I should reply to Chloe.)"
+    u "(Je devrais répondre à Chloé.)"

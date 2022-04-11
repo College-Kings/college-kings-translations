@@ -847,3 +847,10 @@ translate francais strings:
     # game/v13/scene48.rpy:723
     old "Don't go on the date"
     new "N'allez pas à ce rencard"
+# TODO: Translation updated at 2022-04-11 14:37
+
+translate francais strings:
+
+    # game/v13/scene48.rpy:533
+    old "That's too much..."
+    new "Ça fait trop..."
