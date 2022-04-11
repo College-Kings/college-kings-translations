@@ -184,13 +184,13 @@ translate francais v14s47_9eca942b:
 translate francais v14s47_dff0cc02:
 
     # u "Oh, really? And you're selling it?"
-    u "Ah, vraiment ? Et tu la vends ?"
+    u "Ah, vraiment ? He ben... Quel cadeau ! *Rire*"
 
 # game/v14/scene47.rpy:212
 translate francais v14s47_379a0689:
 
     # li "*Laughs* Okay, it's not like that..."
-    li "*Rire* Ok, c'est pas comme ça..."
+    li "*Rire* Ouais, c'est vrai qu'elle a beauc..."
 
 # game/v14/scene47.rpy:217
 translate francais v14s47_f34ed7a7:

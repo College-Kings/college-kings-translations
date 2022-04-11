@@ -214,7 +214,7 @@ translate francais v14s53_ff5fe615:
 translate francais v14s53_bb742df1:
 
     # sa "Why would he? It's like family shame, haha. You keep that shit hidden."
-    sa "Pourquoi il l'aurait fait ? Je suis une sorte de honte familiale, haha. \"Tu dois cacher cette merde\"."
+    sa "Pourquoi il l'aurait fait ? Je suis une sorte de honte familiale, haha. \"Une merde à cacher\"."
 
 # game/v14/scene53.rpy:232
 translate francais v14s53_a17939af:
@@ -262,7 +262,7 @@ translate francais v14s53_2619a426:
 translate francais v14s53_31c849b6:
 
     # u "Well, that's one positive thing that I've heard from this conversation at least."
-    u "Au moins, voilà un point positif que qu'on a pu tirer de cette conversation."
+    u "Au moins, voilà un point positif a tirer de cette conversation."
 
 # game/v14/scene53.rpy:277
 translate francais v14s53_3717c582:

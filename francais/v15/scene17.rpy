@@ -582,7 +582,7 @@ translate francais strings:
 
     # game/v15/scene17.rpy:32
     old "So, when do you get back to America?"
-    new "Alors, quand rentrez-vous en Amérique ?"
+    new "Alors, quand est-ce que tu rentres en Amérique ?"
 
     # game/v15/scene17.rpy:33
     old "It's like I'm the rope in a game of tug of war, you know?"

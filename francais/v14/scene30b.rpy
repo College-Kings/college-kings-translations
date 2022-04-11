@@ -278,11 +278,11 @@ translate francais strings:
 
     # game/v14/scene30b.rpy:271
     old "These turned out perfect! #Vote4Chloe"
-    new "Elles sont parfaites ! #Vote4Chloe"
+    new "Elle est parfaite ! #Vote4Chloe"
 
     # game/v14/scene30b.rpy:272
     old "Aww, haha. Congrats!"
-    new "Oooh, haha. Félicitations !"
+    new "Oooh, haha. Superbe !"
 
     # game/v14/scene30b.rpy:275
     old "It's official! The Wolves and The Chicks are uniting! #TheChicksWhoCriedWolves #Vote4ChloeVote4Wolves"

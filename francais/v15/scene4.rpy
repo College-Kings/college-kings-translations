@@ -826,7 +826,7 @@ translate francais v15s4_dog_1b868044:
 translate francais v15s4_dog_a3599b6e:
 
     # aut "Hey! Eyes up, horn dog! Are you just here to enjoy the view?"
-    aut "Hé ! Lève les yeux, corniaud ! Tu es juste là pour apprécier la vue ?"
+    aut "Hé ! Lève les yeux, pervers ! Tu es juste là pour apprécier la vue ?"
 
 # game/v15/scene4.rpy:813
 translate francais v15s4_dog_b6423138:
@@ -1192,7 +1192,7 @@ translate francais v15s4_dog_d846d1b8:
 translate francais v15s4_dog_ed2ae59a:
 
     # oscars_owner "And he likes weed. Like, a lot. So-"
-    oscars_owner "Et il aime l'herbes. Genre, beaucoup. Alors-"
+    oscars_owner "Et il aime l'herbe. Genre, beaucoup. Alors-"
 
 # game/v15/scene4.rpy:1215
 translate francais v15s4_dog_c2ed496d:
@@ -1420,7 +1420,7 @@ translate francais v15s4_dog_f481d55e:
 translate francais v15s4_dog_418fbbc2:
 
     # aut "*Chuckles* Yeah... No one has any idea what I am."
-    aut "*Rire* Ouais... Personne n'a la moindre idée de ce que je suis en réalité."
+    aut "*Rire* Ouais... Personne n'a la moindre idée de qui je suis vraiment."
 
 # game/v15/scene4.rpy:1422
 translate francais v15s4_dog_c5a8cc6c:
@@ -1612,7 +1612,7 @@ translate francais v15s4_dog_d5e908af:
 translate francais v15s4_dog_d80c3294:
 
     # aut "So, If you found something similar to that, she'd probably die. *Laughs*"
-    aut "Donc, si tu trouvais quelque chose de similaire, elle aurait certainement une crise cardiaque. *Rire"
+    aut "Donc, si tu trouvais quelque chose de similaire, elle aurait certainement une crise cardiaque. *Rire*"
 
 # game/v15/scene4.rpy:1673
 translate francais v15s4_dog_8c249081:

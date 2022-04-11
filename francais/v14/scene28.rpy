@@ -118,7 +118,7 @@ translate francais v14s28_2174e76f:
 translate francais v14s28_d4d449fa:
 
     # em "God, I love you so much..."
-    em "Em, je t'aime tellement..."
+    em "[name], je t'aime tellement..."
 
 # game/v14/scene28.rpy:123
 translate francais v14s28_cee884d8:

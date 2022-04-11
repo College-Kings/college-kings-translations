@@ -538,7 +538,7 @@ translate francais v15s18c_imre_aubrey_e5c40ef5:
 translate francais v15s18c_imre_aubrey_3f7f3430:
 
     # u "Oh yeah, Autumn gave me the idea. I'm not sure what I would've gotten Lauren without her help, haha."
-    u "Ouais, c'est Autumn qui m'a donné l'idée. Je suis pas sur de la réaction de Lauren sans son aide, haha."
+    u "Ouais, c'est Autumn qui m'a donné l'idée. Je suis pas sûr de la réaction de Lauren sans son aide, haha."
 
 # game/v15/scene18c.rpy:512
 translate francais v15s18c_imre_aubrey_628f685f:

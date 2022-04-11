@@ -280,7 +280,7 @@ translate francais v14s25_6afb92ea:
 translate francais v14s25_18250daf:
 
     # am "Telling me that he needs to better his life and then blocking me, pretty much said it for himself."
-    am "Me dire qu'il a \"besoin de réorganiser sa vie\" et puis me bloquer, c'est en gros ce qui s'est passé."
+    am "Me dire qu'il a \"besoin de réorganiser sa vie\" et puis m'a bloqué, c'est en gros ce qui s'est passé."
 
 # game/v14/scene25.rpy:317
 translate francais v14s25_7fa52c96:

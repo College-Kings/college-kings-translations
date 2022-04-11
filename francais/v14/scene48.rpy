@@ -16,7 +16,7 @@ translate francais v14s48_66696291:
 translate francais v14s48_e7d93375:
 
     # u "Oh, don't worry. I got it."
-    u "Oh, t'inquiète pas. Je m'en charge."
+    u "Oh, t'inquiète pas. Ils sont pour moi."
 
 # game/v14/scene48.rpy:69
 translate francais v14s48_87255243:
@@ -112,13 +112,13 @@ translate francais v14s48_0662fb10:
 translate francais v14s48_20e6fdd5:
 
     # u "*Chuckles* I have more."
-    u "*Rire* J'en ai plus."
+    u "*Rire* J'en ai encore en réserve."
 
 # game/v14/scene48.rpy:148
 translate francais v14s48_41f6a6eb:
 
     # li "Please, keep them to yourself."
-    li "S'il te plaît, garde-le pour toi."
+    li "S'il te plaît, garde ça pour toi."
 
 # game/v14/scene48.rpy:153
 translate francais v14s48_19b3bf62:

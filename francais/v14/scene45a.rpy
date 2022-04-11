@@ -478,7 +478,7 @@ translate francais v14s45a_PhoneContinue_dfa1894d:
 translate francais v14s45a_PhoneContinue_7e1c2ccc:
 
     # u "Yeah, I can. Where are you?"
-    u "Ouais, c'est possible. T'es où ?"
+    u "Ouais, c'est possible. Elle es où ?"
 
 # game/v14/scene45a.rpy:521
 translate francais v14s45a_PhoneContinue_6db5eee4:
@@ -496,7 +496,7 @@ translate francais v14s45a_PhoneContinue_2ce742e1:
 translate francais v14s45a_PhoneContinue_994ff779:
 
     # li "Oh damn, sorry."
-    li "Oh merde, désolé."
+    li "Oh merde, désolée."
 
 # game/v14/scene45a.rpy:537
 translate francais v14s45a_PhoneContinue_70b3c2fb:

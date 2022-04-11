@@ -4,7 +4,7 @@
 translate francais v14s41a_e44b82e8:
 
     # gr "[name!u]! GET DOWN HERE!"
-    gr "[name !u] ! DESCENDS !"
+    gr "[name!u] ! DESCENDS !"
 
 # game/v14/scene41a.rpy:17
 translate francais v14s41a_0213b0f0:

@@ -562,7 +562,7 @@ translate francais strings:
 
     # game/v14/scene43b.rpy:10
     old "I'm more than happy that we matched, especially after knowing that you're just as excited as I am, haha!"
-    new "Je suis plus qu'heureuse que nous nous soyons jumelés, surtout après avoir su que tu es tout aussi enthousiaste que moi, haha !"
+    new "Je suis plus qu'heureux que nous nous soyons jumelés, surtout après avoir su que tu es tout aussi enthousiaste que moi, haha !"
 
     # game/v14/scene43b.rpy:13
     old "So, how are you? Who are you? What are you up to? Lmao"

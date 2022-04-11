@@ -394,7 +394,7 @@ translate francais v15s2_PhoneContinueAut_e073a9aa:
 translate francais v15s2_PhoneContinueAut_83c30440:
 
     # u "(The hell?)"
-    u "(Bordel ?)"
+    u "(Putain !)"
 
 # game/v15/scene2.rpy:399
 translate francais v15s2_PhoneContinueAut_6aaf1b96:
