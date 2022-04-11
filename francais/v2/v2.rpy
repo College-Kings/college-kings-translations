@@ -2150,7 +2150,7 @@ translate francais repeatg_5810be51:
 translate francais repeatg_b546e27b:
 
     # u "Wanna go together? I need one as well."
-    u "Tu veux qu'on y aille ensemble ? J'en ai besoin aussi."
+    u "Tu veux qu'on y aille ensemble ? J'en ai besoin d'un aussi."
 
 # game/v2/v2.rpy:2560
 translate francais repeatg_e6e8c76c:
@@ -2180,7 +2180,7 @@ translate francais csaub_17f9b20b:
 translate francais csaub_4251a370:
 
     # u "Thanks, for the kind introduction."
-    u "Merci, pour la gentille introduction."
+    u "Merci, pour l'accueil agréable."
 
 # game/v2/v2.rpy:2598
 translate francais csaub_79798c39:
@@ -2198,25 +2198,25 @@ translate francais csaub_65b0c8d1:
 translate francais csaub_4e0688f6:
 
     # u "Hey, you ready to go?"
-    u "Salut, tu es prête à partir ?"
+    u "Salut, t'es prête à partir ?"
 
 # game/v2/v2.rpy:2616
 translate francais csaub_ef39b636:
 
     # au "Yeah, I would show you the house, but we don't have that much time 'cause I've got dance practice later."
-    au "Ouais, je te montrerais bien la maison, mais nous n'avons pas beaucoup de temps parce que j'ai un entraînement de danse plus tard."
+    au "Ouais, je te montrerais bien la maison, mais on a pas beaucoup de temps parce que j'ai un entraînement de danse plus tard."
 
 # game/v2/v2.rpy:2618
 translate francais csaub_ce5a0228:
 
     # au "Plus there's a bunch of girls in their underwear in here right now. You wouldn't wanna see that."
-    au "En plus, il y a un tas de filles en sous-vêtements ici, en ce moment. Tu ne voudrais pas voir ça."
+    au "En plus, il y a un tas de filles en sous-vêtements ici, en ce moment. Tu voudrais pas voir ça."
 
 # game/v2/v2.rpy:2623
 translate francais csaub_a650f473:
 
     # u "Yeah, that does sound horrible."
-    u "Oh ouais, ça a l'air horrible."
+    u "Oh non, ça a l'air horrible."
 
 # game/v2/v2.rpy:2628
 translate francais csaub_6adf6270:
@@ -2240,7 +2240,7 @@ translate francais csaub_4f3c7d9b:
 translate francais csaub_fb1245f5:
 
     # au "Excuse me, wasn't this a costume shop?"
-    au "Excusez-moi, n'était-ce pas un magasin de costumes ?"
+    au "Excusez-moi, c'était pas un magasin de costumes, ici ?"
 
 # game/v2/v2.rpy:2651
 translate francais csaub_18865407:
@@ -2348,7 +2348,7 @@ translate francais try1new_1c1a21bf:
 translate francais try1new_1999eee5:
 
     # u "(I should stop peeking now, or I'll get caught.)"
-    u "(Je devrais arrêter de jeter un coup d'œil maintenant, ou je vais me faire choper.)"
+    u "(Je devrais arrêter de regarder maintenant, ou je vais me faire choper.)"
 
 # game/v2/v2.rpy:2770
 translate francais v2_nsfwSkipLabel1_cfdd20f8:
@@ -2360,7 +2360,7 @@ translate francais v2_nsfwSkipLabel1_cfdd20f8:
 translate francais v2_nsfwSkipLabel1_53cc9e72:
 
     # au "Oh my god, you make an adorable Viking."
-    au "Oh mon dieu, tu fais un adorable Viking."
+    au "Woah ! Tu fais un adorable Viking."
 
 # game/v2/v2.rpy:2785
 translate francais v2_nsfwSkipLabel1_3f475574:
