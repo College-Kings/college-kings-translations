@@ -27,3 +27,14 @@ translate francais strings:
     # game/v14/scene4.rpy:27
     old "(It's not that important)"
     new "(C'est pas si important)"
+# TODO: Translation updated at 2022-04-21 16:15
+
+translate francais strings:
+
+    # game/v14/scene4.rpy:27
+    old "I'll talk to him later"
+    new "Je lui parlerai plus tard"
+
+    # game/v14/scene4.rpy:27
+    old "It's not that important"
+    new "C'est pas si important"

@@ -346,7 +346,7 @@ translate francais v14s03b_076c32ae:
 translate francais v14s03b_a821e64a:
 
     # u "Yeah, I'll be right back."
-    u "Ouais, je reviens."
+    u "Ouais, on se voit plus tard."
 
 # game/v14/scene3b.rpy:312
 translate francais v14s03b_d2fd5691:
