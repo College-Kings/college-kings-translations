@@ -52,7 +52,7 @@ translate francais v14s09_d9c2bcd8:
 translate francais v14s09_78b0605b:
 
     # ro "*Laughs* Are you saying what I think you're saying?"
-    ro "*Rire* Tu dis ce que je pense que tu dis ?"
+    ro "*Rire* Tu penses à ce que je pense que tu penses ?"
 
 # game/v14/scene9.rpy:67
 translate francais v14s09_75c6b474:

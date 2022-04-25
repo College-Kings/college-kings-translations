@@ -28,7 +28,7 @@ translate francais v14s06_73377b80:
 translate francais v14s06_def8a161:
 
     # u "Yeah, I can finish packing real quick."
-    u "Ouais, je peux finir de faire mes bagages très rapidement."
+    u "Ouais, je vais finir de remballer très vite."
 
 # game/v14/scene6.rpy:65
 translate francais v14s06_293f0df2:

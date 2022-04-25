@@ -46,7 +46,7 @@ translate francais v14s08_f95e119b:
 translate francais v14s08_21142ddc:
 
     # u "(She must be going through something pretty heavy.)"
-    u "(Elle doit vivre quelque chose d'assez lourd.)"
+    u "(Elle doit être en train de subir quelque chose d'assez lourd.)"
 
 # game/v14/scene8.rpy:79
 translate francais v14s08_b91ecda6:

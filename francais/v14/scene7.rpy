@@ -4,7 +4,7 @@
 translate francais v14s07_5d5641c1:
 
     # ro "Students, thank you all for being quick and ready to head back home."
-    ro "Les jeunes, merci à tous d'être rapides et prêts à rentrer chez vous."
+    ro "Étudiants, merci à tous d'avoir été si rapides et prêts à rentrer chez vous."
 
 # game/v14/scene7.rpy:27
 translate francais v14s07_cd2480af:
@@ -88,10 +88,10 @@ translate francais v14s07_87c36052:
 translate francais v14s07_db7ac4d7:
 
     # ro "Maybe not..."
-    ro "Peut-être pas..."
+    ro "Et pourquoi pas..."
 
 # game/v14/scene7.rpy:108
 translate francais v14s07_c23f4135:
 
     # ro "I now invite you all to the bus so that we can get on our way to the airport."
-    ro "Je vous invite tous maintenant à rejoindre le bus pour que nous puissions nous diriger vers l'aéroport."
+    ro "Je vous invite tous maintenant à rejoindre le bus afin que nous puissions nous diriger vers l'aéroport."

@@ -220,7 +220,7 @@ translate francais v14s03e_3295ab92:
 translate francais v14s03e_c5587799:
 
     # imre "The money was put into good hands."
-    imre "L'argent a été mis entre de bonnes mains."
+    imre "L'argent est entre de bonnes mains."
 
 # game/v14/scene3e.rpy:235
 translate francais v14s03e_55ff166a:
@@ -244,7 +244,7 @@ translate francais v14s03e_cdcb10fb:
 translate francais v14s03e_e8015a74:
 
     # imre "What's up?"
-    imre "Qu'est-ce qu'il y a ?"
+    imre "Qu'est-ce qu'y a ?"
 
 # game/v14/scene3e.rpy:255
 translate francais v14s03e_f5ddd912:

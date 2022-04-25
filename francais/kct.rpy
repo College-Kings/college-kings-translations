@@ -1,8 +1,8 @@
 init python:
     class KCT(Enum):
-        BRO = "Ami(e)"
-        BOYFRIEND = "Petite amie"
-        TROUBLEMAKER = "Problème"
+        BRO = "bro"
+        BOYFRIEND = "boyfriend"
+        TROUBLEMAKER = "troublemaker"
 
 
     def add_point(var, value=1):
