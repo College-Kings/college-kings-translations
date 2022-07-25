@@ -4,13 +4,13 @@
 translate francais walk_home_hosp_edeaab2d:
 
     # se "I guess we were a little bit too loud, huh?"
-    se "Je crois que nous étions un peu trop bruyants, hein ?"
+    se "Je crois qu'on était un peu trop bruyants, hein ?"
 
 # game/v8/scene41.rpy:22
 translate francais walk_home_hosp_047f0d28:
 
     # u "I thought a nurse was gonna show up and catch us."
-    u "Je pensais qu'une infirmière allait monter et nous chopper."
+    u "Je croyais qu'une infirmière allait monter et nous chopper."
 
 # game/v8/scene41.rpy:27
 translate francais walk_home_hosp_35458f94:
@@ -34,7 +34,7 @@ translate francais walk_home_hosp_335800e2:
 translate francais walk_home_hosp_3ce9316f:
 
     # u "By quickly striking back to the ground?"
-    u "En retombant rapidement au sol ?"
+    u "En retombant rapidement sur le sol ?"
 
 # game/v8/scene41.rpy:47
 translate francais walk_home_hosp_e38da6d8:
@@ -52,7 +52,7 @@ translate francais walk_home_hosp_ce555087:
 translate francais walk_home_hosp_8bc3eb21:
 
     # u "Well I guess I've learned a few important lessons tonight..."
-    u "Eh bien, je crois que j'ai appris quelques leçons importantes ce soir..."
+    u "Eh bien, je crois que j'ai appris deux choses importantes ce soir..."
 
 # game/v8/scene41.rpy:59
 translate francais walk_home_hosp_6825bab1:
@@ -82,7 +82,7 @@ translate francais walk_home_hosp_e3f41a0e:
 translate francais walk_home_hosp_9613f4fd:
 
     # se "Okay, okay, I don't think we should speak of that failure again."
-    se "Ok, ok, je ne pense pas que nous devrions reparler de cet échec."
+    se "Bon, bon, il vaut mieux ne plus parler de cet échec."
 
 # game/v8/scene41.rpy:84
 translate francais walk_home_hosp_e00c14f8:
@@ -100,7 +100,7 @@ translate francais walk_home_hosp_33c9f61b:
 translate francais walk_home_hosp_fee399e3:
 
     # u "Joining the Wolves... I was not so sure at first. But it turns out it was a great thing to do."
-    u "Rejoindre les Wolves... Je n'étais pas si sûr au début. Mais finalement, c'était une bonne chose à faire."
+    u "Rejoindre les Wolves... J'étais pas vraiment sûr au début. Mais finalement, c'était une bonne chose à faire."
 
 # game/v8/scene41.rpy:100
 translate francais walk_home_hosp_28e377dc:
@@ -124,19 +124,19 @@ translate francais walk_home_hosp_c48c7158:
 translate francais walk_home_hosp_37d00c35:
 
     # u "I think we've literally reached the peak, so let's stop before the entire talk becomes too... happy, you know what I mean?"
-    u "Je pense que nous avons littéralement atteint le sommet, alors arrêtons avant que toute la discussion ne devienne trop... \"joyeuse\", tu vois ce que je veux dire ?"
+    u "Je pense qu'on a littéralement atteint le sommet, alors arrêtons avant que toute la discussion devienne trop... \"joyeuse\", tu vois ce que je veux dire ?"
 
 # game/v8/scene41.rpy:120
 translate francais walk_home_hosp_dcbfeabc:
 
     # se "I have an even greater idea!"
-    se "J'ai une idée encore plus grande !"
+    se "J'ai encore une meilleure idée !"
 
 # game/v8/scene41.rpy:125
 translate francais walk_home_hosp_16646f84:
 
     # u "Oh, another one? This ought to be good."
-    u "Oh, une autre ? Ça devrait être bon."
+    u "Oh, encore une ? Ça devrait être bon."
 
 # game/v8/scene41.rpy:130
 translate francais walk_home_hosp_ec8037ef:
@@ -148,7 +148,7 @@ translate francais walk_home_hosp_ec8037ef:
 translate francais walk_home_hosp_72eab10c:
 
     # u "I know you don't do the latter."
-    u "Je sais que tu n'es pas le dernier."
+    u "Je sais que t'es pas le dernier."
 
 # game/v8/scene41.rpy:140
 translate francais walk_home_hosp_fcd371a3:
@@ -160,7 +160,7 @@ translate francais walk_home_hosp_fcd371a3:
 translate francais walk_home_hosp_7cbc76d9:
 
     # u "Yes?"
-    u "Oui ?"
+    u "Ah oui ?"
 
 # game/v8/scene41.rpy:150
 translate francais walk_home_hosp_093efd4c:
@@ -178,19 +178,19 @@ translate francais walk_home_hosp_a5093dd4:
 translate francais walk_home_hosp_7c43a96f:
 
     # u "You think I will fall for such a childish thing?!"
-    u "Tu penses que je vais tomber pour une chose aussi enfantine ? !"
+    u "Tu crois que je vais me laisser avoir dans un truc aussi enfantin ?!"
 
 # game/v8/scene41.rpy:165
 translate francais walk_home_hosp_9ca2307e:
 
     # u "Damn you!!"
-    u "Merde !"
+    u "Enfoiré !"
 
 # game/v8/scene41.rpy:179
 translate francais walk_home_hosp_e00c14f8_1:
 
     # u "You know..."
-    u "Tu sais..."
+    u "Toi même tu sais..."
 
 # game/v8/scene41.rpy:184
 translate francais walk_home_hosp_bcf606cd:
@@ -202,13 +202,13 @@ translate francais walk_home_hosp_bcf606cd:
 translate francais walk_home_hosp_cb943d6a:
 
     # u "Alright, stop calling me a cub! I wasn't scared, alright?"
-    u "D'accord, arrête de m'appeler louveteau ! Je n'ai pas eu peur, d'accord ?"
+    u "D'accord, arrête de m'appeler louveteau ! J'ai pas eu peur, d'accord ?"
 
 # game/v8/scene41.rpy:194
 translate francais walk_home_hosp_9f26bd8a:
 
     # se "Sure."
-    se "Bien sûr."
+    se "C'est ça."
 
 # game/v8/scene41.rpy:199
 translate francais walk_home_hosp_643ef0a3:
@@ -220,7 +220,7 @@ translate francais walk_home_hosp_643ef0a3:
 translate francais walk_home_hosp_e1c03041:
 
     # se "Someday, you might just find out."
-    se "Un jour, tu pourras le découvrir."
+    se "Un jour, tu le découvriras peut-être."
 
 # game/v8/scene41.rpy:214
 translate francais walk_home_hosp_f6f3558c:
@@ -250,7 +250,7 @@ translate francais walk_home_hosp_87962b3e:
 translate francais walk_home_hosp_d00c6454:
 
     # se "No matter what we did, you did come with me and I appreciate it. That's how Marcus and I do things. That's how all Wolves do things."
-    se "Peu importe ce qu'on a fait, tu es venu avec moi et j'apprécie. C'est comme ça que Marcus et moi faisons les choses. C'est comme ça que tous les Wolves font les choses."
+    se "Peu importe ce qu'on a fait, t'es venu avec moi et j'apprécie. C'est comme ça que Marcus et moi faisons les choses. C'est comme ça que tous les Wolves font les choses."
 
 # game/v8/scene41.rpy:239
 translate francais walk_home_hosp_6e5a8340:
@@ -304,7 +304,7 @@ translate francais walk_home_hosp_bc9b71e1:
 translate francais walk_home_hosp_b04548d0:
 
     # u "Awaits what?"
-    u "Attend quoi ?"
+    u "Il attend quoi ?"
 
 # game/v8/scene41.rpy:289
 translate francais walk_home_hosp_076dfdf7:
@@ -316,7 +316,7 @@ translate francais walk_home_hosp_076dfdf7:
 translate francais walk_home_hosp_2311e23a:
 
     # u "There was... pussy on the roof?"
-    u "Il y avait... une chatte sur le toit ?"
+    u "Il y avait... des chattes sur le toit ?"
 
 # game/v8/scene41.rpy:299
 translate francais walk_home_hosp_d41b6d23:
@@ -328,13 +328,13 @@ translate francais walk_home_hosp_d41b6d23:
 translate francais walk_home_hosp_9166ff4b:
 
     # u "Umm... are you talking about cats?"
-    u "Umm... tu parles de chats ?"
+    u "Hummm... tu parles de chats ?"
 
 # game/v8/scene41.rpy:309
 translate francais walk_home_hosp_d7eec569:
 
     # se "I'm not talking about no fucking cats!"
-    se "Je ne parle pas d'un putain de chat !"
+    se "Je ne parle pas de putain de chats !"
 
 # game/v8/scene41.rpy:314
 translate francais walk_home_hosp_0cb887ae:
@@ -352,7 +352,7 @@ translate francais walk_home_hosp_a044cc5c:
 translate francais walk_home_hosp_96e898ee:
 
     # u "I'm messing with you, man. But I still don't see what kind of pussy could wait for you on the roof, haha."
-    u "Je me moque de toi, mec. Mais je ne vois toujours pas quel genre de chatte pourrait t'attendre sur le toit, haha."
+    u "Je me moque de toi, mec. Mais je vois toujours pas quel genre de chatte pourrait t'attendre sur le toit, haha."
 
 # game/v8/scene41.rpy:329
 translate francais walk_home_hosp_7c47e511:

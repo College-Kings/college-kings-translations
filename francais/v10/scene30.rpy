@@ -16,7 +16,7 @@ translate francais v10_chloe_gym_1d4102b7:
 translate francais v10_chloe_gym_683a78ac:
 
     # u "Lose?"
-    u "Perdre ? Je ne connais pas ce mot."
+    u "Perdre ? Je connais pas ce mot."
 
 # game/v10/scene30.rpy:32
 translate francais v10_chloe_gym_363ed93e:
@@ -58,7 +58,7 @@ translate francais v10_chloe_gym_8a8a630f:
 translate francais v10_chloe_gym_17d88efa:
 
     # u "I'm not the one that needs it!"
-    u "Je ne suis pas celui qui en a besoin !"
+    u "Je suis pas celui qui en a besoin !"
 
 # game/v10/scene30.rpy:69
 translate francais v10_chloe_gym_13174568:
@@ -280,7 +280,7 @@ translate francais v10s30_galleryScene_cf557223:
 translate francais v10s30_galleryScene_2e7f819d:
 
     # u "Couldn't have been better."
-    u "Ça ne pouvait pas être mieux."
+    u "Ça pouvait pas être mieux."
 
 # game/v10/scene30.rpy:329
 translate francais v10s30_galleryScene_e8abd882:
@@ -316,7 +316,7 @@ translate francais v10s30_nsfwSkipLabel1_5e64bedc:
 translate francais v10s30_nsfwSkipLabel1_f4ae9566:
 
     # u "Not saying I did or didn't have a trick up my sleeve, but even if I did a magician never reveals his secret. *Laughs*"
-    u "Je ne dis pas que j'avais ou n'avais pas un tour dans ma manche, mais même si c'était le cas, un magicien ne révèle jamais ses secrets. *Rire*"
+    u "Je dis pas que j'avais ou n'avais pas un tour dans ma manche, mais même si c'était le cas, un magicien révèle jamais ses secrets. *Rire*"
 
 # game/v10/scene30.rpy:367
 translate francais v10s30_nsfwSkipLabel1_c0876bad:
@@ -382,7 +382,7 @@ translate francais v10s30_nsfwSkipLabel1_5e64bedc_1:
 translate francais v10s30_nsfwSkipLabel1_f4ae9566_1:
 
     # u "Not saying I did or didn't have a trick up my sleeve, but even if I did a magician never reveals his secret. *Laughs*"
-    u "Je ne dis pas que j'avais ou n'avais pas un tour dans ma manche, mais même si c'était le cas, un magicien ne révèle jamais ses secrets. *Rire*"
+    u "Je dis pas que j'avais ou n'avais pas un tour dans ma manche, mais même si c'était le cas, un magicien révèle jamais ses secrets. *Rire*"
 
 # game/v10/scene30.rpy:437
 translate francais v10s30_nsfwSkipLabel1_5a52ab4d:
@@ -484,7 +484,7 @@ translate francais v10s30_chloeBlowjob_cf557223:
 translate francais v10s30_chloeBlowjob_2e7f819d:
 
     # u "Couldn't have been better."
-    u "Ça ne pouvait pas être mieux."
+    u "Ça pouvait pas être mieux."
 
 # game/v10/scene30.rpy:340
 translate francais v10s30_chloeBlowjob_e8abd882:

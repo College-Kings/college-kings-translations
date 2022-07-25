@@ -46,7 +46,7 @@ translate francais v9_sat_hit_gym_convince_2b48792d:
 translate francais v9_sat_hit_gym_convince_76bfa62f:
 
     # u "There's a cafe I just left and it was honestly amazing, wouldn't mind a nice breakfast would you?"
-    u "Il y a un café que je viens de quitter et c'était vraiment génial, un bon petit déjeuner ne te dérangerait pas ?"
+    u "Il y a un café que je viens de quitter et c'était vraiment génial, un bon petit déjeuner te dérangerait pas ?"
 
 # game/v9/scene32.rpy:79
 translate francais v9_sat_hit_gym_convince_e2d329c5:
@@ -88,7 +88,7 @@ translate francais v9_sat_hit_gym_train_306d75b2:
 translate francais v9_sat_skip_gym_1dc7f3d3:
 
     # u "(Best that I don't push it.)"
-    u "(Il vaut mieux que je ne pousse pas.)"
+    u "(Il vaut mieux que je pousse pas.)"
 
 # game/v9/scene32.rpy:158
 translate francais v9_sat_skip_gym_4b950da2:

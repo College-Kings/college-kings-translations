@@ -136,7 +136,7 @@ translate francais v13s22_ff4f4c6f:
 translate francais v13s22_0567a039:
 
     # u "I just let him go, I'd rather not see him again. Dealing with his bullshit isn't worth some dollars."
-    u "Je l'ai juste laissé partir, je préfère ne plus le revoir. S'occuper de ses conneries ne vaut pas quelques dollars."
+    u "Je l'ai juste laissé partir, je préfère plus le revoir. S'occuper de ses conneries vaut pas quelques dollars."
 
 # game/v13/scene22.rpy:127
 translate francais v13s22_aa863068:

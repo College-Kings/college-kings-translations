@@ -82,7 +82,7 @@ translate francais v11_hotel_bar_wolves_0ed07386:
 translate francais v11_hotel_bar_wolves_b78b41e4:
 
     # u "Haha, I didn't know you liked dancing?"
-    u "Haha, je ne savais pas que tu aimais danser ?"
+    u "Haha, je savais pas que tu aimais danser ?"
 
 # game/v11/scene26.rpy:85
 translate francais v11_hotel_bar_wolves_4fecf556:
@@ -106,7 +106,7 @@ translate francais v11_hotel_bar_wolves_0355c484:
 translate francais v11_hotel_bar_wolves_78111cba:
 
     # u "Guess I wouldn't know."
-    u "Je crois que je ne sais pas."
+    u "Je crois que je sais pas."
 
 # game/v11/scene26.rpy:105
 translate francais v11_hotel_bar_wolves_056058be:
@@ -178,7 +178,7 @@ translate francais v11_hotel_bar_wolves_25deb1d7:
 translate francais v11_hotel_bar_wolves_f1e8dffe:
 
     # u "I won't be down here long. Someone will either come down and join me or they'll blow up my phone."
-    u "Je ne vais pas rester ici longtemps. Quelqu'un va soit venir me rejoindre, soit faire exploser mon téléphone."
+    u "Je vais pas rester ici longtemps. Quelqu'un va soit venir me rejoindre, soit faire exploser mon téléphone."
 
 # game/v11/scene26.rpy:170
 translate francais v11_hotel_bar_wolves_6fbbbaca:
@@ -316,7 +316,7 @@ translate francais v11_hotel_bar_apes_2c5073c6:
 translate francais v11_hotel_bar_apes_1f590e4e:
 
     # sa "You know, I thought when I came on this trip I'd be getting away from Cameron. I didn't think he'd be stalking the shit out of me all the way to Europe."
-    sa "Tu sais, je pensais qu'en faisant ce voyage, je m'éloignerais de Cameron. Je ne pensais pas qu'il me harcèlerait jusqu'en Europe."
+    sa "Tu sais, je pensais qu'en faisant ce voyage, je m'éloignerais de Cameron. Je pensais pas qu'il me harcèlerait jusqu'en Europe."
 
 # game/v11/scene26.rpy:311
 translate francais v11_hotel_bar_apes_5ccf5f6e:
@@ -406,13 +406,13 @@ translate francais v11_hotel_bar_apes_cb8c77ca:
 translate francais v11_hotel_bar_apes_5ae81337:
 
     # u "*Whisper* What? No, put them back. You can't just take her keys. What are you thinking?"
-    u "*Chuchote* Quoi ? Non, remets-les. Tu ne peux pas prendre ses clés comme ça. À quoi tu penses ?"
+    u "*Chuchote* Quoi ? Non, remets-les. Tu peux pas prendre ses clés comme ça. À quoi tu penses ?"
 
 # game/v11/scene26.rpy:398
 translate francais v11_hotel_bar_apes_baad77df:
 
     # sa "Oh my God, I swear I can't do anything I wanna do..."
-    sa "Oh merde, j'te jure, je ne peux rien faire de ce que je veux faire, ici..."
+    sa "Oh merde, j'te jure, je peux rien faire de ce que je veux faire, ici..."
 
 # game/v11/scene26.rpy:408
 translate francais v11_hotel_bar_apes_57ae9944_2:

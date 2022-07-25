@@ -148,7 +148,7 @@ translate francais v11_imre_ryan_grapple_f19b4970:
 translate francais v11_imre_ryan_grapple_7e24586b:
 
     # u "Outside of seeing Mr. Lee get angry like that, there's nothing funny about this. I literally got woken up to the sound of you guys yelling and now I'm being dragged to who knows where."
-    u "En dehors de voir Mr Lee s'énerver comme ça, il n'y a rien de drôle dans tout ça. Je me suis littéralement réveillé au son de votre engueulade et maintenant je suis traîné vers je ne sais où."
+    u "En dehors de voir Mr Lee s'énerver comme ça, il n'y a rien de drôle dans tout ça. Je me suis littéralement réveillé au son de votre engueulade et maintenant je suis traîné vers je sais où."
 
 # game/v11/scene36.rpy:199
 translate francais v11_imre_ryan_grapple_49e9e53e:
@@ -166,7 +166,7 @@ translate francais v11_imre_ryan_grapple_ad71b731:
 translate francais v11_imre_ryan_grapple_4f229baa:
 
     # u "*Sighs* Don't worry about it. Maybe if we take too long he'll let it go. *Chuckles*"
-    u "*Soupirs* Ne vous inquiétez pas pour ça. Peut-être que si nous prenons trop de temps, il laissera tomber. *Rire*"
+    u "*Soupirs* Vous inquiétez pas pour ça. Peut-être que si nous prenons trop de temps, il laissera tomber. *Rire*"
 
 # game/v11/scene36.rpy:214
 translate francais v11_imre_ryan_grapple_0c2d99e3:

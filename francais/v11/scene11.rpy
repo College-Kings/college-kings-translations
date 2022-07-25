@@ -4,7 +4,7 @@
 translate francais v11_Amber_Penelope_8d0a9c56:
 
     # u "Amber, is that you? I didn't recognize you outside your work uniform."
-    u "Amber, c'est toi ? Je ne t'ai pas reconnue sans ton uniforme de travail."
+    u "Amber, c'est toi ? Je t'ai pas reconnue sans ton uniforme de travail."
 
 # game/v11/scene11.rpy:22
 translate francais v11_Amber_Penelope_1f628293:
@@ -28,13 +28,13 @@ translate francais v11_Amber_Penelope_0336fa14:
 translate francais v11_Amber_Penelope_5705e7b8:
 
     # am "Listen, the real reason I don't want anyone knowing that I work at Lew's is because it's kind of... embarrassing. It's not really my ideal job, but it pays really well."
-    am "Écoute, la vraie raison pour laquelle je ne veux pas que quelqu'un sache que je travaille chez Lew's c'est parce que c'est un peu... embarrassant. C'est pas vraiment mon job idéal, mais ça paie vraiment bien."
+    am "Écoute, la vraie raison pour laquelle je veux pas que quelqu'un sache que je travaille chez Lew's c'est parce que c'est un peu... embarrassant. C'est pas vraiment mon job idéal, mais ça paie vraiment bien."
 
 # game/v11/scene11.rpy:44
 translate francais v11_Amber_Penelope_21bac46f:
 
     # am "So, can we please just pretend you never saw me there?"
-    am "Alors, on peut faire comme si tu ne m'avais jamais vu là-bas ?"
+    am "Alors, on peut faire comme si tu m'avais jamais vu là-bas ?"
 
 # game/v11/scene11.rpy:53
 translate francais v11_Amber_Penelope_aacc9412:
@@ -184,7 +184,7 @@ translate francais v11_Amber_Penelope_2d682a87:
 translate francais v11_Amber_Penelope_d19ef2d2:
 
     # u "I'm just glad this is as bad as it gets."
-    u "Je suis heureux pour toi que ce ne soit pas aussi difficile que ça."
+    u "Je suis heureux pour toi que ce soit pas aussi difficile que ça."
 
 # game/v11/scene11.rpy:208
 translate francais v11_Amber_Penelope_7bb825bf:

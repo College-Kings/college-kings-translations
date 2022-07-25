@@ -364,7 +364,7 @@ translate francais v9_dinner_w_rose_ee86a75f:
 translate francais v9_dinner_w_rose_c342059b:
 
     # u "(I wanna help but she said not to get up.)"
-    u "(Je veux aider mais elle a dit de ne pas se lever.)"
+    u "(Je veux aider mais elle a dit de pas se lever.)"
 
 # game/v9/scene23.rpy:354
 translate francais v9_dinner_w_rose_913310f8:
@@ -556,7 +556,7 @@ translate francais v9_dinner_w_rose_a1e0e1f6:
 translate francais v9_dinner_w_rose_20555e48:
 
     # u "What's the point of being part of a community if you can't help your fellow man... or woman. Haha."
-    u "À quoi bon faire partie d'une communauté si l'on ne peut pas aider son prochain... ou sa prochaine. Haha."
+    u "À quoi bon faire partie d'une communauté si l'on peut pas aider son prochain... ou sa prochaine. Haha."
 
 # game/v9/scene23.rpy:529
 translate francais v9_dinner_w_rose_1ab6b23b:

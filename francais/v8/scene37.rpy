@@ -4,7 +4,7 @@
 translate francais v8_tues_evening_565c0af2:
 
     # u "(I must be imagining things... Or maybe I should just text someone?)"
-    u "(Je dois être en train d'imaginer des choses... Ou peut-être que je devrais juste envoyer un texto à quelqu'un ?)"
+    u "(Je dois m'imaginer des trucs... Ou peut-être que je devrais juste envoyer un texto à quelqu'un ?)"
 
 # game/v8/scene37.rpy:40
 translate francais v8s37_phoneContinue1_6b32f074:
@@ -22,7 +22,7 @@ translate francais v8s37_phoneContinue2_b2a97980:
 translate francais v8s37_phoneContinue2_0d29d3a6:
 
     # u "(I guess this is just not my day for studying. Great job, [name]!)"
-    u "(Je crois que ce n'est pas mon jour pour étudier. Bon travail, [name] !)"
+    u "(Je crois que c'est pas mon jour pour étudier. Bon travail, [name] !)"
 
 # game/v8/scene37.rpy:72
 translate francais v8s37_phoneContinue2_03be943f:
@@ -34,7 +34,7 @@ translate francais v8s37_phoneContinue2_03be943f:
 translate francais v8s37_phoneContinue2_565c0af2:
 
     # u "(I must be imagining things... Or maybe I should just text someone?)"
-    u "(Je dois être en train d'imaginer des choses... Ou peut-être que je devrais juste envoyer un texto à quelqu'un ?)"
+    u "(Je dois m'imaginer des trucs... Ou peut-être que je devrais juste envoyer un texto à quelqu'un ?)"
 
 # game/v8/scene37.rpy:108
 translate francais v8s37_phoneContinue3_6b32f074:
@@ -52,7 +52,7 @@ translate francais v8s37_phoneContinue4_95d895aa:
 translate francais v8s37_phoneContinue4_0d29d3a6:
 
     # u "(I guess this is just not my day for studying. Great job, [name]!)"
-    u "(Je crois que ce n'est pas mon jour pour étudier. Bon travail, [name] !)"
+    u "(Je crois que c'est pas mon jour pour étudier. Bon travail, [name] !)"
 
 # game/v8/scene37.rpy:140
 translate francais v8s37_phoneContinue4_03be943f:

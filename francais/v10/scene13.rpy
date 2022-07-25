@@ -76,7 +76,7 @@ translate empty v10_wolves_redec_af42423d:
 translate empty v10_wolves_redec_70d4e0c1:
 
     # u "Hey man, hope you don't mind me asking, but what made you back out at the brawl?"
-    u "Hé mec, j'espère que ça ne te dérange pas que je demande, mais qu'est-ce qui t'a fait reculer lors du brawl ?"
+    u "Hé mec, j'espère que ça te dérange pas que je demande, mais qu'est-ce qui t'a fait reculer lors du brawl ?"
 
 # game/v10/scene13.rpy:104
 translate empty v10_wolves_redec_1f678b80:
@@ -285,7 +285,7 @@ translate francais v10_wolves_redec_af42423d:
 translate francais v10_wolves_redec_70d4e0c1:
 
     # u "Hey man, hope you don't mind me asking, but what made you back out at the brawl?"
-    u "Hé mec, j'espère que ça ne te dérange pas que je demande, mais qu'est-ce qui t'a fait reculer lors du brawl ?"
+    u "Hé mec, j'espère que ça te dérange pas que je demande, mais qu'est-ce qui t'a fait reculer lors du brawl ?"
 
 # game/v10/scene13.rpy:106
 translate francais v10_wolves_redec_b1f92f4b:

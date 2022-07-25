@@ -64,7 +64,7 @@ translate francais v11_airport_charli_e0ef9d2e:
 translate francais v11_airport_charli_4852ea65:
 
     # u "Yeah, I wouldn't want to ruin the joke."
-    u "Ouais... je ne voudrais pas gâcher la blague."
+    u "Ouais... je voudrais pas gâcher la blague."
 
 # game/v11/scene10a.rpy:62
 translate francais v11_airport_charli_96c29ff5:
@@ -124,7 +124,7 @@ translate francais v11_airport_charli_5b3016dd:
 translate francais v11_airport_charli_483d9ddc:
 
     # u "What was that all about? Why was he pointing and laughing at me? I can't tell if he's being nice, playing around or an actual dick."
-    u "Qu'est-ce que ça veut dire ? Pourquoi est-ce qu'il me montrait du doigt et se moquait de moi ? Je ne peux pas dire s'il est gentil, s'il joue ou s'il est un vrai con."
+    u "Qu'est-ce que ça veut dire ? Pourquoi est-ce qu'il me montrait du doigt et se moquait de moi ? Je peux pas dire s'il est gentil, s'il joue ou s'il est un vrai con."
 
 # game/v11/scene10a.rpy:119
 translate francais v11_airport_charli_11257778:
@@ -136,7 +136,7 @@ translate francais v11_airport_charli_11257778:
 translate francais v11_airport_charli_2018f9e1:
 
     # u "Oh, I don't know, something about Charli just rubs me the wrong way."
-    u "Je ne sais pas, il y a quelque chose chez Charli qui me met mal à l'aise."
+    u "Je sais pas, il y a quelque chose chez Charli qui me met mal à l'aise."
 
 # game/v11/scene10a.rpy:129
 translate francais v11_airport_charli_c6838b7d:

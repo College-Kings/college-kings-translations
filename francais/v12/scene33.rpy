@@ -718,7 +718,7 @@ translate francais v12s33_door1_64d70bff:
 translate francais v12s33_door2_d258a84a:
 
     # u "Heyah, hope you don't mind me coming in."
-    u "Hey, j'espère que ça ne vous dérange pas que j'entre."
+    u "Hey, j'espère que ça vous dérange pas que j'entre."
 
 # game/v12/scene33.rpy:678
 translate francais v12s33_door2_876c60a0:
@@ -790,7 +790,7 @@ translate francais v12s33_door2_ef9ca4b5:
 translate francais v12s33_door2_5cb726ec:
 
     # u "*Chuckles* Don't worry about it, Sam. Just be careful of how much you drink next time, yeah?"
-    u "*Rire* Ne t'inquiète pas pour ça, Sam. Fais juste attention à la quantité que tu bois la prochaine fois, ok ?"
+    u "*Rire* T'inquiète pas pour ça, Sam. Fais juste attention à la quantité que tu bois la prochaine fois, ok ?"
 
 # game/v12/scene33.rpy:740
 translate francais v12s33_door2_05bf3e22:
@@ -1012,7 +1012,7 @@ translate francais v12s33_door3_60a61bf9:
 translate francais v12s33_door3_a744aeaf:
 
     # u "Well, I just wish you guys the best. I want nothing but good for everyone, however that may look in the end."
-    u "Eh bien, je te souhaite juste le meilleur. Je ne veux que du bien pour tout le monde, peu importe comment ça se termine."
+    u "Eh bien, je te souhaite juste le meilleur. Je veux que du bien pour tout le monde, peu importe comment ça se termine."
 
 # game/v12/scene33.rpy:950
 translate francais v12s33_door3_b14058a1:
@@ -1030,7 +1030,7 @@ translate francais v12s33_door3_6f7f3e7a:
 translate francais v12s33_door3_ada1c816:
 
     # am "*Laughs* What? I'm just being honest... I still want everything to work out in the end, but there's no reason I can't get a good show along the way."
-    am "*Rire* Quoi ? Je suis honnête... Je veux toujours que tout s'arrange à la fin, mais il n'y a aucune raison que je ne puisse pas avoir un bon spectacle en cours de route."
+    am "*Rire* Quoi ? Je suis honnête... Je veux toujours que tout s'arrange à la fin, mais il n'y a aucune raison que je puisse pas avoir un bon spectacle en cours de route."
 
 # game/v12/scene33.rpy:965
 translate francais v12s33_door3_c76a2678:
@@ -1102,7 +1102,7 @@ translate francais v12s33_three_doors_back_f1075c56:
 translate francais v12s33_three_doors_back_b7b39f60:
 
     # u "It's not my fault you don't take man shits like I do. *Laughs*"
-    u "Ce n'est pas ma faute si tu ne chies pas comme un mec comme moi. *Rire*"
+    u "Ce n'est pas ma faute si tu chies pas comme un mec comme moi. *Rire*"
 
 # game/v12/scene33.rpy:1035
 translate francais v12s33_three_doors_back_1cf224fa:
@@ -1264,7 +1264,7 @@ translate francais v12s33_sauna_54b4acb5:
 translate francais v12s33_sauna_085421e3:
 
     # u "Haha, alright... I can't say it doesn't suit you, though."
-    u "Haha, d'accord... Je ne peux pas dire que ça ne te va pas, par contre."
+    u "Haha, d'accord... Je peux pas dire que ça te va pas, par contre."
 
 # game/v12/scene33.rpy:1188
 translate francais v12s33_sauna_16bc2c48:
@@ -1312,7 +1312,7 @@ translate francais v12s33_sneak_off2_0b9541a5:
 translate francais v12s33_sneak_off2_a20c934b:
 
     # u "Nah, I'm not sick."
-    u "Nan, je ne suis pas malade."
+    u "Nan, je suis pas malade."
 
 # game/v12/scene33.rpy:1254
 translate francais v12s33_sneak_off2_89dd973a:
@@ -1384,7 +1384,7 @@ translate francais v12s33_sneak_off2_4c3fd6d6:
 translate francais v12s33_sneak_off2_a7a4d94e:
 
     # u "(I'm gonna have to crawl if I don't wanna be seen.)"
-    u "(Je vais devoir ramper si je ne veux pas être vu.)"
+    u "(Je vais devoir ramper si je veux pas être vu.)"
 
 # game/v12/scene33.rpy:1319
 translate francais v12s33_sneak_off2_6d255190:
@@ -1426,7 +1426,7 @@ translate francais v12s33_sneak_off2_77880a9a:
 translate francais v12s33_sneak_off2_790d4521:
 
     # am "*Whisper* I'm not snitching, but I'm not missing out on this massage either so, you're gonna have to leave me be."
-    am "*Chuchote* Je ne vais pas te balancer, mais je ne veux pas non plus rater ce massage, donc, tu vas devoir me laisser tranquille."
+    am "*Chuchote* Je vais pas te balancer, mais je veux pas non plus rater ce massage, donc, tu vas devoir me laisser tranquille."
 
 # game/v12/scene33.rpy:1354
 translate francais v12s33_sneak_off2_cdb0479d:

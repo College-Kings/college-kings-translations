@@ -52,7 +52,7 @@ translate francais v12_slumber_party_6eca614d:
 translate francais v12_slumber_party_1563a959:
 
     # u "What if I was tired and didn't wanna deal with a thousand people in my room while I slept?"
-    u "Et si j'étais fatigué et que je ne voulais pas avoir à gérer un millier de personnes dans ma chambre pendant que je dors ?"
+    u "Et si j'étais fatigué et que je voulais pas avoir à gérer un millier de personnes dans ma chambre pendant que je dors ?"
 
 # game/v12/scene18.rpy:77
 translate francais v12_slumber_party_db1b0014:
@@ -496,7 +496,7 @@ translate francais v12s18_bottlespin_2b180349:
 translate francais v12s18_bottlespin_65f2fba9:
 
     # u "Fuck. Well, I'm not in the mood to get slapped, so let's get this over with."
-    u "Fais chier. Je ne suis pas d'humeur à me faire gifler, alors finissons-en."
+    u "Fais chier. Je suis pas d'humeur à me faire gifler, alors finissons-en."
 
 # game/v12/scene18.rpy:559
 translate francais v12s18_bottlespin_ea8c8b6a:
@@ -556,7 +556,7 @@ translate francais v12s18_bottlespin_8486ade3:
 translate francais v12s18_bottlespin_af515299:
 
     # u "Go ahead and slap me dude, I'm not kissing you."
-    u "Vas-y, frappe-moi mec, je ne t'embrasse pas."
+    u "Vas-y, frappe-moi mec, je t'embrasse pas."
 
 # game/v12/scene18.rpy:627
 translate francais v12s18_bottlespin_b340e7c1:
@@ -1138,7 +1138,7 @@ translate francais v12s18_fmk_4002b6ee:
 translate francais v12s18_fmk_88b5a5aa:
 
     # am "We wouldn't be married for long. *Chuckles*"
-    am "Nous ne serons pas mariés longtemps. *Rire*"
+    am "On sera pas mariés longtemps. *Rire*"
 
 # game/v12/scene18.rpy:1301
 translate francais v12s18_fmk_82f3a918:
@@ -1150,7 +1150,7 @@ translate francais v12s18_fmk_82f3a918:
 translate francais v12s18_fmk_b514c5a2:
 
     # am "Because this horse can't be tamed, baby."
-    am "Parce que cette jument ne peut pas être apprivoisée, bébé."
+    am "Parce que cette jument peut pas être apprivoisée, bébé."
 
 # game/v12/scene18.rpy:1312
 translate francais v12s18_fmk_6aff78ea:
@@ -1258,7 +1258,7 @@ translate francais v12s18_fmk_d82c463b_1:
 translate francais v12s18_fmk_8ca58441:
 
     # am "If I one day just run off to travel the world, don't be surprised."
-    am "Si un jour je m'enfuis pour parcourir le monde, ne soyez pas surpris."
+    am "Si un jour je m'enfuis pour parcourir le monde, soyez pas surpris."
 
 # game/v12/scene18.rpy:1409
 translate francais v12s18_fmk_72fe501f:
@@ -1300,7 +1300,7 @@ translate francais v12s18_fmk_cabbfae3:
 translate francais v12s18_fmk_4cc755cd:
 
     # u "I don't know what you're talking about...?"
-    u "Je ne vois pas de quoi tu parles... ?"
+    u "Je vois pas de quoi tu parles... ?"
 
 # game/v12/scene18.rpy:1444
 translate francais v12s18_fmk_1623c597:
@@ -1456,7 +1456,7 @@ translate francais v12s18_bet_8dc5a7c9:
 translate francais v12s18_bet_16e94d8a:
 
     # am "You don't even remember? I lost our little go kart bet... So, I wanna go ahead and take my picture."
-    am "Tu ne te souviens même pas ? J'ai perdu notre petit pari au karting... Donc, je veux en finir et prendre ma photo."
+    am "Tu te souviens même pas ? J'ai perdu notre petit pari au karting... Donc, je veux en finir et prendre ma photo."
 
 # game/v12/scene18.rpy:1627
 translate francais v12s18_bet_53e7a5ef:
@@ -1696,7 +1696,7 @@ translate francais v12s18_bet_74406210:
 translate francais v12s18_bet_852da9c2:
 
     # am "*Chuckles* You can stay, but be sure to back up before morning. Don't want to upset any of your girlfriends... *Chuckles*"
-    am "*Rire* Tu peux rester, mais assure-toi de faire marche arrière avant le matin. Je ne veux pas contrarier tes petites amies... *Rire*"
+    am "*Rire* Tu peux rester, mais assure-toi de faire marche arrière avant le matin. Je veux pas contrarier tes petites amies... *Rire*"
 
 # game/v12/scene18.rpy:1911
 translate francais v12s18_bet_1ac14da2:

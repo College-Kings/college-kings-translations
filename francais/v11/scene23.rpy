@@ -82,7 +82,7 @@ translate francais v11s23_chris1_eff0da5f:
 translate francais v11s23_chris1_e3dd1e26:
 
     # u "I get what you're saying but... I don't know, man."
-    u "Je comprends ce que tu veux dire mais... je ne sais pas, mec."
+    u "Je comprends ce que tu veux dire mais... je sais pas, mec."
 
 # game/v11/scene23.rpy:101
 translate francais v11s23_chris1_2212e4a8:
@@ -136,7 +136,7 @@ translate francais v11s23_mrlee1_39d82de1:
 translate francais v11s23_mrlee1_6f9ccfd5:
 
     # u "You said you went on an abroad trip to China, but you never told me you've been to London."
-    u "Vous avez dit que vous avez fait un voyage à l'étranger en Chine, mais vous ne m'avez jamais dit que vous étiez allé à Londres."
+    u "Vous avez dit que vous avez fait un voyage à l'étranger en Chine, mais vous m'avez jamais dit que vous étiez allé à Londres."
 
 # game/v11/scene23.rpy:154
 translate francais v11s23_mrlee1_b8dd171f:
@@ -472,7 +472,7 @@ translate francais v11s23_riley1_bf53329c:
 translate francais v11s23_riley1_dac19108:
 
     # u "*Laughs* That is not what I sound like."
-    u "*Rire* Ça ne me ressemble pas, ça."
+    u "*Rire* Ça me ressemble pas, ça."
 
 # game/v11/scene23.rpy:438
 translate francais v11s23_riley1_737ba278:
@@ -634,7 +634,7 @@ translate francais v11s23_riley1_a292a410:
 translate francais v11s23_riley1_4401ed4d:
 
     # u "(She's a bit more feisty than I thought.)"
-    u "(Elle est un peu plus fougueuse que je ne le pensais.)"
+    u "(Elle est un peu plus fougueuse que je le pensais.)"
 
 # game/v11/scene23.rpy:603
 translate francais v11s23_penelope1_8686e81c:
@@ -778,7 +778,7 @@ translate francais v11s23_penelope1_46a0915b:
 translate francais v11s23_penelope1_7308ac5a:
 
     # u "Should I not be?"
-    u "Je ne devrais pas ?"
+    u "Je devrais pas ?"
 
 # game/v11/scene23.rpy:738
 translate francais v11s23_penelope1_5bd50e83:
@@ -898,7 +898,7 @@ translate francais v11s23_penelope1_fe49abac:
 translate francais v11s23_penelope1_57b40e15:
 
     # u "Okay stop, I'm not all that."
-    u "Ok stop, je ne suis pas tout ça."
+    u "Ok stop, je suis pas tout ça."
 
 # game/v11/scene23.rpy:852
 translate francais v11s23_penelope1_5a07fe0f:
@@ -952,7 +952,7 @@ translate francais v11s23_penelope1_fe49abac_1:
 translate francais v11s23_penelope1_57b40e15_1:
 
     # u "Okay stop, I'm not all that."
-    u "Ok stop, je ne suis pas tout ça."
+    u "Ok stop, je suis pas tout ça."
 
 # game/v11/scene23.rpy:900
 translate francais v11s23_penelope1_5a07fe0f_1:
@@ -1030,7 +1030,7 @@ translate francais v11s23_penelope1_da9951ed:
 translate francais v11s23_penelope1_6d307eed:
 
     # u "*Chuckles* Because I never did, Miss Gullible."
-    u "*Rire* Parce que je ne l'ai jamais été, Mlle Crédule."
+    u "*Rire* Parce que je l'ai jamais été, Mlle Crédule."
 
 # game/v11/scene23.rpy:966
 translate francais v11s23_penelope1_1ece9687:
@@ -1240,7 +1240,7 @@ translate francais v11s23_freeroamend_d3d7efd3:
 translate francais v11s23_freeroamend_74e504bc:
 
     # u "Hey, this is our trip. If we aren't enjoying ourselves then why stay?"
-    u "Hé, c'est NOTRE voyage. Si on ne s'amuse pas, pourquoi rester ?"
+    u "Hé, c'est NOTRE voyage. Si on s'amuse pas, pourquoi rester ?"
 
 # game/v11/scene23.rpy:1190
 translate francais v11s23_freeroamend_2733a2eb:
@@ -1337,7 +1337,7 @@ translate francais v11s23_riley1_e7a524b7:
 translate francais v11s23_riley1_14fcf62b:
 
     # u "You're lucky no one's watching you. You're gonna get us kicked outta here."
-    u "Tu as de la chance que personne ne te regarde. Tu vas nous faire virer d'ici."
+    u "Tu as de la chance que personne te regarde. Tu vas nous faire virer d'ici."
 
 # game/v11/scene23.rpy:374
 translate francais v11s23_riley1_b725a384:

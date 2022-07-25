@@ -70,7 +70,7 @@ translate francais v10_riley_walk_5c16dd78:
 translate francais v10_riley_walk_cca50710:
 
     # u "No, sadly I didn't see her until the mud wrestling."
-    u "Non, malheureusement je ne l'ai pas vue avant le combat de boue."
+    u "Non, malheureusement je l'ai pas vue avant le combat de boue."
 
 # game/v10/scene39.rpy:82
 translate francais v10_riley_walk_3c755fb0:
@@ -274,7 +274,7 @@ translate francais v10_riley_walk_afa9ffc8:
 translate francais v10_riley_walk_4a39b420:
 
     # u "I don't know anyone named Jackson."
-    u "Je ne connais personne qui s'appelle Jackson."
+    u "Je connais personne qui s'appelle Jackson."
 
 # game/v10/scene39.rpy:251
 translate francais v10_riley_walk_fd585957:

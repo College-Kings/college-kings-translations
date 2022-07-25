@@ -4,7 +4,7 @@
 translate francais v11_big_ben_8375115c:
 
     # u "So, I know pretty much nothing about London..."
-    u "Au fait, je ne connait presque rien de Londres..."
+    u "Au fait, je connait presque rien de Londres..."
 
 # game/v11/scene24.rpy:23
 translate francais v11_big_ben_639f167f:
@@ -76,7 +76,7 @@ translate francais v11_big_ben_4bff7d6d:
 translate francais v11_big_ben_e388cd5f:
 
     # u "They didn't teach me that."
-    u "On ne me l'a pas appris à moi."
+    u "On me l'a pas appris à moi."
 
 # game/v11/scene24.rpy:83
 translate francais v11_big_ben_a769c579:
@@ -304,7 +304,7 @@ translate francais v11_big_ben_173cc49c:
 translate francais v11_big_ben_8761a971:
 
     # u "Not gonna lie, it scared me a bit, but it was amazing. I'm glad I got to see this."
-    u "Je ne vais pas mentir, ça m'a fait un peu peur, mais c'était incroyable. Je suis content d'avoir pu voir et écouter ça."
+    u "Je vais pas mentir, ça m'a fait un peu peur, mais c'était incroyable. Je suis content d'avoir pu voir et écouter ça."
 
 # game/v11/scene24.rpy:293
 translate francais v11_big_ben_4d8be1be:
@@ -364,7 +364,7 @@ translate francais v11_big_ben_572340e1:
 translate francais v11_big_ben_3598fcaa:
 
     # u "What's wrong?"
-    u "Qu'est-ce qui ne va pas ?"
+    u "Qu'est-ce qui va pas ?"
 
 # game/v11/scene24.rpy:335
 translate francais v11_big_ben_83517040:
@@ -448,7 +448,7 @@ translate francais v11_big_ben_d870fbab:
 translate francais v11_big_ben_5bd398fa:
 
     # u "Nora I'm sorry, I didn't mean to cross the line. I just felt like we were having a moment."
-    u "Nora je suis désolé, je ne voulais pas dépasser les limites. J'ai juste senti que nous avions un moment particulier."
+    u "Nora je suis désolé, je voulais pas dépasser les limites. J'ai juste senti que nous avions un moment particulier."
 
 # game/v11/scene24.rpy:410
 translate francais v11_big_ben_5489b383:

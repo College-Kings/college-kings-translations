@@ -28,7 +28,7 @@ translate francais v10_cafe_w_jenny_c3f1367a:
 translate francais v10_cafe_w_jenny_933e124c:
 
     # u "(I wonder if she's hot... Maybe I shouldn't be thinking like that... maybe.)"
-    u "(Je me demande si elle est sexy... Peut-être que je ne devrais pas penser comme ça... peut-être.)"
+    u "(Je me demande si elle est sexy... Peut-être que je devrais pas penser comme ça... peut-être.)"
 
 # game/v10/scene22.rpy:32
 translate francais v10_cafe_w_jenny_2565321c:
@@ -100,7 +100,7 @@ translate francais v10_cafe_w_jenny_b7e23f6a:
 translate francais v10_cafe_w_jenny_72fa2ae8:
 
     # jen "Haha, yes. I don't think I've ever heard Penelope say anything bad about anyone ever, to be fair."
-    jen "Haha, oui. Je ne pense pas avoir déjà entendu Pénélope dire du mal de quelqu'un, pour être honnête."
+    jen "Haha, oui. Je pense pas avoir déjà entendu Pénélope dire du mal de quelqu'un, pour être honnête."
 
 # game/v10/scene22.rpy:98
 translate francais v10_cafe_w_jenny_ce7622fe:
@@ -124,7 +124,7 @@ translate francais v10_cafe_w_jenny_04e7e585:
 translate francais v10_cafe_w_jenny_c5abb9e6:
 
     # jen "That doesn't sound good."
-    jen "Ça ne semble pas bon."
+    jen "Ça semble pas bon."
 
 # game/v10/scene22.rpy:119
 translate francais v10_cafe_w_jenny_f811401a:
@@ -202,13 +202,13 @@ translate francais v10_cafe_w_jenny_a1f8239a:
 translate francais v10_cafe_w_jenny_ff619f40:
 
     # jen "But Penelope just kept telling me not to worry about it and everything would work out."
-    jen "Mais Pénélope persistait à me dire de ne pas m'en faire et que tout s'arrangerait."
+    jen "Mais Pénélope persistait à me dire de pas m'en faire et que tout s'arrangerait."
 
 # game/v10/scene22.rpy:161
 translate francais v10_cafe_w_jenny_df824566:
 
     # jen "Wow, this is all my fault. She wouldn't be in this mess if it wasn't for me."
-    jen "Wow, tout est de ma faute. Elle ne serait pas dans ce pétrin si ce n'était pas pour moi."
+    jen "Wow, tout est de ma faute. Elle serait pas dans ce pétrin si ce n'était pas pour moi."
 
 # game/v10/scene22.rpy:162
 translate francais v10_cafe_w_jenny_7fa80cbb:
@@ -232,7 +232,7 @@ translate francais v10_cafe_w_jenny_fa66cd59:
 translate francais v10_cafe_w_jenny_f73d6e97:
 
     # u "Let's try to stay positive. Focusing on the bad stuff isn't going to help. Let's just take it one step at a time."
-    u "Essayons de rester positifs. Se concentrer sur les mauvaises choses ne va pas aider. Faisons juste un pas à la fois."
+    u "Essayons de rester positifs. Se concentrer sur les mauvaises choses va pas aider. Faisons juste un pas à la fois."
 
 # game/v10/scene22.rpy:187
 translate francais v10_cafe_w_jenny_b6f5743b:
@@ -382,13 +382,13 @@ translate francais v10_cafe_w_jenny_466dc9ee:
 translate francais v10_cafe_w_jenny_2530f7ad:
 
     # u "They may not agree with what you did, but they will understand."
-    u "Ils ne seront peut-être pas d'accord avec ce que tu as fait, mais ils comprendront."
+    u "Ils seront peut-être pas d'accord avec ce que tu as fait, mais ils comprendront."
 
 # game/v10/scene22.rpy:311
 translate francais v10_cafe_w_jenny_575a08ee:
 
     # u "And if they don't then I'll just rob a bank for you. "
-    u "Et s'ils ne le font pas, je braquerai une banque pour toi."
+    u "Et s'ils le font pas, je braquerai une banque pour toi."
 
 # game/v10/scene22.rpy:320
 translate francais v10_cafe_w_jenny_a3b41323:
@@ -424,7 +424,7 @@ translate francais v10_cafe_w_jenny_7a755764:
 translate francais v10_cafe_w_jenny_d65d7ab9:
 
     # u "I will not rest until this injustice is rectified."
-    u "Je ne me reposerai pas tant que cette injustice ne sera pas rectifiée."
+    u "Je me reposerai pas tant que cette injustice sera pas rectifiée."
 
 # game/v10/scene22.rpy:347
 translate francais v10_cafe_w_jenny_ce5e6435:
@@ -520,7 +520,7 @@ translate francais v10_cafe_w_jenny_f0ee2904:
 translate francais v10_cafe_w_jenny_f00e5943:
 
     # u "Relax... she's honestly holding up pretty well. We don't want to stress her out more than she already is."
-    u "Détends-toi... elle tient bon, honnêtement. Nous ne voulons pas la stresser plus qu'elle ne l'est déjà."
+    u "Détends-toi... elle tient bon, honnêtement. Nous voulons pas la stresser plus qu'elle l'est déjà."
 
 # game/v10/scene22.rpy:433
 translate francais v10_cafe_w_jenny_e0c971bd:
@@ -544,7 +544,7 @@ translate francais v10_cafe_w_jenny_4a9f6cab:
 translate francais v10_cafe_w_jenny_ba554e69:
 
     # u "I'm not too sure how the whole thing works, but if it's anything like the hearings on TV."
-    u "Je ne sais pas trop comment ça marche, mais si c'est comme les audiences à la télé."
+    u "Je sais pas trop comment ça marche, mais si c'est comme les audiences à la télé."
 
 # game/v10/scene22.rpy:449
 translate francais v10_cafe_w_jenny_f04f2bd6:
@@ -574,7 +574,7 @@ translate francais v10_cafe_w_jenny_6ee4091d:
 translate francais v10_cafe_w_jenny_10c59bf5:
 
     # u "I mean, I don't know how it works either, but I feel like someone's gotta defend her, right? *Chuckles*"
-    u "Je ne sais pas non plus comment ça marche, mais j'ai l'impression que quelqu'un doit la défendre, non ? *Rire*"
+    u "Je sais pas non plus comment ça marche, mais j'ai l'impression que quelqu'un doit la défendre, non ? *Rire*"
 
 # game/v10/scene22.rpy:474
 translate francais v10_cafe_w_jenny_79aada93:
@@ -634,7 +634,7 @@ translate francais v10_cafe_w_jenny_a72749df:
 translate francais v10_cafe_w_jenny_4b3a0616:
 
     # jen "Oh, heyyy. I didn't know you were also coming."
-    jen "Oh, heyyy. Je ne savais pas que tu venais aussi."
+    jen "Oh, heyyy. Je savais pas que tu venais aussi."
 
 # game/v10/scene22.rpy:523
 translate francais v10_cafe_w_jenny_a7ae71de:
@@ -670,7 +670,7 @@ translate francais v10_cafe_w_jenny_54100b02:
 translate francais v10_cafe_w_jenny_68b46b5c:
 
     # jen "Yeah, I was super nervous about not getting in. Then you said don't worry cause everything would work out and it did. You were right."
-    jen "Oui, j'étais super nerveuse de ne pas être acceptée. Puis tu m'as dit de ne pas m'inquiéter car tout s'arrangerait et c'est le cas. Tu avais raison."
+    jen "Oui, j'étais super nerveuse de pas être acceptée. Puis tu m'as dit de pas m'inquiéter car tout s'arrangerait et c'est le cas. Tu avais raison."
 
 # game/v10/scene22.rpy:550
 translate francais v10_cafe_w_jenny_37ce2bfa:
@@ -700,7 +700,7 @@ translate francais v10_cafe_w_jenny_38ee4176:
 translate francais v10_cafe_w_jenny_2dc3de48:
 
     # jen "Why didn't you tell me? I didn't want you to do this in the first place!"
-    jen "Pourquoi tu ne m'as rien dit ? Je ne voulais pas que tu fasses ça pour commencer !"
+    jen "Pourquoi tu m'as rien dit ? Je voulais pas que tu fasses ça pour commencer !"
 
 # game/v10/scene22.rpy:571
 translate francais v10_cafe_w_jenny_b4000c88:
@@ -766,7 +766,7 @@ translate francais v10_cafe_w_jenny_61ff1a9c:
 translate francais v10_cafe_w_jenny_15998d4f:
 
     # u "They may not agree with what you did, but they will understand. And if they don't then I'll just rob a bank for you."
-    u "Ils peuvent ne pas être d'accord avec ce que tu as fait, mais ils comprendront. Et s'ils ne le font pas, je braquerai une banque pour toi."
+    u "Ils peuvent pas être d'accord avec ce que tu as fait, mais ils comprendront. Et s'ils le font pas, je braquerai une banque pour toi."
 
 # game/v10/scene22.rpy:616
 translate francais v10_cafe_w_jenny_7c2e6101:
@@ -832,7 +832,7 @@ translate francais v10_cafe_w_jenny_7a755764_2:
 translate francais v10_cafe_w_jenny_d65d7ab9_1:
 
     # u "I will not rest until this injustice is rectified."
-    u "Je ne me reposerai pas tant que cette injustice ne sera pas rectifiée."
+    u "Je me reposerai pas tant que cette injustice sera pas rectifiée."
 
 # game/v10/scene22.rpy:666
 translate francais v10_cafe_w_jenny_02f8f329:
@@ -856,7 +856,7 @@ translate francais v10_cafe_w_jenny_767da9af:
 translate francais v10_cafe_w_jenny_ab46d968:
 
     # u "I'm not too sure how the whole thing works, but Jenny you might be useful as a character witness. You know Penelope better than most people."
-    u "Je ne suis pas trop sûr de comment tout cela fonctionne, mais Jenny tu pourrais être utile comme témoin de caractère. Tu connais Pénélope mieux que la plupart d'entre nous."
+    u "Je suis pas trop sûr de comment tout cela fonctionne, mais Jenny tu pourrais être utile comme témoin de caractère. Tu connais Pénélope mieux que la plupart d'entre nous."
 
 # game/v10/scene22.rpy:680
 translate francais v10_cafe_w_jenny_f38bad68_1:
@@ -886,7 +886,7 @@ translate francais v10_cafe_w_jenny_6ee4091d_1:
 translate francais v10_cafe_w_jenny_2d426a25:
 
     # u "I mean, I don't know how it works either, but I feel like someone's gotta do it, right? *Chuckles*"
-    u "Je ne sais pas non plus comment ça marche, mais je sens que quelqu'un doit le faire, non ? *Rire*"
+    u "Je sais pas non plus comment ça marche, mais je sens que quelqu'un doit le faire, non ? *Rire*"
 
 # game/v10/scene22.rpy:705
 translate francais v10_cafe_w_jenny_5c51466c:
@@ -1006,7 +1006,7 @@ translate francais strings:
 translate francais v10_cafe_w_jenny_5feaef5f:
 
     # u "(I wonder what Jenny's gonna be like. She could be just as wild as Aubrey. I wonder what she looks like. I wonder if she's hot... Maybe I shouldn't be thinking like that... maybe.)"
-    u "(Je me demande comment va être Jenny. Elle pourrait être tout aussi sauvage qu'Aubrey. Je me demande à quoi elle ressemble. Je me demande si elle est sexy... Peut-être que je ne devrais pas penser comme ça... peut-être.)"
+    u "(Je me demande comment va être Jenny. Elle pourrait être tout aussi sauvage qu'Aubrey. Je me demande à quoi elle ressemble. Je me demande si elle est sexy... Peut-être que je devrais pas penser comme ça... peut-être.)"
 
 # game/v10/scene22.rpy:80
 translate francais v10_cafe_w_jenny_5bdfe3b3:
@@ -1036,13 +1036,13 @@ translate francais v10_cafe_w_jenny_57feefbe:
 translate francais v10_cafe_w_jenny_2dc57061:
 
     # jen "Wow, this is all my fault. She wouldn't be in this mess if it wasn't for me. *Sigh* So much for being a good friend..."
-    jen "Wow, tout est de ma faute. Elle ne serait pas dans ce pétrin si ce n'était pas pour moi. *Soupir* Tout ça pour être une bonne amie..."
+    jen "Wow, tout est de ma faute. Elle serait pas dans ce pétrin si ce n'était pas pour moi. *Soupir* Tout ça pour être une bonne amie..."
 
 # game/v10/scene22.rpy:442
 translate francais v10_cafe_w_jenny_7399db26:
 
     # u "I'm not too sure how the whole thing works, but if it's anything like the hearings on TV. You might be useful as a character witness. You know Penelope better than most people."
-    u "Je ne sais pas trop comment ça marche, mais si c'est comme les audiences à la télé. Tu pourrais être utile comme témoin de moralité. Tu connais Pénélope mieux que la plupart d'entre nous."
+    u "Je sais pas trop comment ça marche, mais si c'est comme les audiences à la télé. Tu pourrais être utile comme témoin de moralité. Tu connais Pénélope mieux que la plupart d'entre nous."
 
 # game/v10/scene22.rpy:467
 translate francais v10_cafe_w_jenny_4cd836c0:
@@ -1072,7 +1072,7 @@ translate francais v10_cafe_w_jenny_d755d7f0:
 translate francais v10_cafe_w_jenny_c3d54079:
 
     # u "I'm not too sure how the whole thing works. But Jenny, you might be useful as a character witness. You know Penelope better than most people."
-    u "Je ne sais pas trop comment ça marche. Mais Jenny, tu pourrais être utile comme témoin de moralité. Tu connais Pénélope mieux que la plupart d'entre nous."
+    u "Je sais pas trop comment ça marche. Mais Jenny, tu pourrais être utile comme témoin de moralité. Tu connais Pénélope mieux que la plupart d'entre nous."
 
 # game/v10/scene22.rpy:698
 translate francais v10_cafe_w_jenny_c3a26038:
@@ -1085,4 +1085,4 @@ translate francais v10_cafe_w_jenny_c3a26038:
 translate francais v10_cafe_w_jenny_58965fa2:
 
     # u "And if they don't then I'll just rob a bank for you."
-    u "Et s'ils ne le font pas, je braquerai une banque pour toi."
+    u "Et s'ils le font pas, je braquerai une banque pour toi."

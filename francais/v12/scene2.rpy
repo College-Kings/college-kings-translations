@@ -106,7 +106,7 @@ translate francais v12_nora_checks_mc_d932576e:
 translate francais v12_nora_checks_mc_91c8faf1:
 
     # u "I'd like to think I'm not. Sometimes I just do things because it's the right thing to do."
-    u "J'aime à penser que je ne le suis pas. Parfois, je fais les choses parce que c'est la bonne chose à faire."
+    u "J'aime à penser que je le suis pas. Parfois, je fais les choses parce que c'est la bonne chose à faire."
 
 # game/v12/scene2.rpy:137
 translate francais v12_nora_checks_mc_3d84f625:
@@ -202,7 +202,7 @@ translate francais v12_nora_checks_mc_fcc18885:
 translate francais v12_nora_checks_mc_36db3f58:
 
     # u "Hey, um... I hope you don't mind me asking, but I assume whatever you had in that bag was pretty important? I don't think I've ever seen you with a bag before."
-    u "Hé, hum... J'espère que ma question ne te dérange pas, mais je pense que ce que tu avais dans ce sac était assez important ? Je ne pense pas t'avoir déjà vu avec un sac avant."
+    u "Hé, hum... J'espère que ma question te dérange pas, mais je pense que ce que tu avais dans ce sac était assez important ? Je pense pas t'avoir déjà vu avec un sac avant."
 
 # game/v12/scene2.rpy:214
 translate francais v12_nora_checks_mc_4c111c4b:
@@ -226,7 +226,7 @@ translate francais v12_nora_checks_mc_54c224dd:
 translate francais v12_nora_checks_mc_e8ecf957:
 
     # u "Oh sorry, I didn't mean to open any wounds."
-    u "Oh désolé, je ne voulais pas ouvrir de plaies."
+    u "Oh désolé, je voulais pas ouvrir de plaies."
 
 # game/v12/scene2.rpy:234
 translate francais v12_nora_checks_mc_4c44b547:
@@ -250,7 +250,7 @@ translate francais v12_nora_checks_mc_e1b1ea29:
 translate francais v12_nora_checks_mc_3b0d6663:
 
     # u "Sorry... I didn't mean to bring up Chris."
-    u "Désolé... Je ne voulais pas parler de Chris."
+    u "Désolé... Je voulais pas parler de Chris."
 
 # game/v12/scene2.rpy:254
 translate francais v12_nora_checks_mc_092e3b24:
@@ -268,7 +268,7 @@ translate francais v12_nora_checks_mc_7003c231:
 translate francais v12_nora_checks_mc_004eca59:
 
     # u "Oh, I know. Please don't get me started on Charli..."
-    u "Oh, je vois. S'il te plaît, ne me lance pas sur Charli..."
+    u "Oh, je vois. S'il te plaît, me lance pas sur Charli..."
 
 # game/v12/scene2.rpy:265
 translate francais v12_nora_checks_mc_d1349464:

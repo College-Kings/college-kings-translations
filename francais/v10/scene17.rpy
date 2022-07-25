@@ -622,7 +622,7 @@ translate francais v10s17_galleryScene_f0ea7460:
 translate francais v10s17_galleryScene_14f9d65c:
 
     # u "*Laughs* You won't believe what just happened!"
-    u "*Rire* Tu ne vas pas croire ce qui vient de se passer !"
+    u "*Rire* Tu vas pas croire ce qui vient de se passer !"
 
 # game/v10/scene17.rpy:567
 translate francais v10s17_galleryScene_daa90663_1:
@@ -700,7 +700,7 @@ translate francais v10s17_galleryScene_40e9d439:
 translate francais v10s17_galleryScene_4461180a:
 
     # u "You gotta strike the right balance. Can’t be a player 24/7."
-    u "Tu dois trouver le bon équilibre. Tu ne peux pas être un joueur 24/7."
+    u "Tu dois trouver le bon équilibre. Tu peux pas être un joueur 24/7."
 
 # game/v10/scene17.rpy:633
 translate francais v10s17_galleryScene_6b01b5e1:
@@ -832,7 +832,7 @@ translate francais v10_aubrey_room_14f9c2ea:
 translate francais v10_aubrey_room_c032e604:
 
     # u "That's pretty impressive, I didn’t even know you guys were around that long. Since you’re VP, I assume you quite enjoy being one?"
-    u "C'est assez impressionnant, je ne savais même pas que tu étais là depuis si longtemps. Puisque tu es vice-présidente, je pense que tu aimes bien l'être ?"
+    u "C'est assez impressionnant, je savais même pas que tu étais là depuis si longtemps. Puisque tu es vice-présidente, je pense que tu aimes bien l'être ?"
 
 # game/v10/scene17.rpy:759
 translate francais v10_aubrey_room_17ceaddd:
@@ -1238,7 +1238,7 @@ translate francais v10s17_aubreyStanding_f0ea7460:
 translate francais v10s17_aubreyStanding_14f9d65c:
 
     # u "*Laughs* You won't believe what just happened!"
-    u "*Rire* Tu ne vas pas croire ce qui vient de se passer !"
+    u "*Rire* Tu vas pas croire ce qui vient de se passer !"
 
 # game/v10/scene17.rpy:577
 translate francais v10s17_nsfwSkipLabel1_daa90663:
@@ -1316,7 +1316,7 @@ translate francais v10s17_nsfwSkipLabel1_732702e0:
 translate francais v10s17_nsfwSkipLabel1_bd767f00:
 
     # u "You gotta strike the right balance. Can't be a player 24/7."
-    u "Tu dois trouver le bon équilibre. Tu ne peux pas être un joueur 24/7."
+    u "Tu dois trouver le bon équilibre. Tu peux pas être un joueur 24/7."
 
 # game/v10/scene17.rpy:641
 translate francais v10s17_nsfwSkipLabel1_6b01b5e1:
@@ -1436,7 +1436,7 @@ translate francais v10_aubrey_room_14721e3e:
 translate francais v10_aubrey_room_c79694da:
 
     # u "That's pretty impressive, I didn't even know you guys were around that long. Since you're VP, I assume you quite enjoy being one?"
-    u "C'est assez impressionnant, je ne savais même pas que tu étais là depuis si longtemps. Puisque tu es vice-présidente, je pense que tu aimes bien l'être ?"
+    u "C'est assez impressionnant, je savais même pas que tu étais là depuis si longtemps. Puisque tu es vice-présidente, je pense que tu aimes bien l'être ?"
 
 # game/v10/scene17.rpy:794
 translate francais v10_aubrey_room_ab560757:

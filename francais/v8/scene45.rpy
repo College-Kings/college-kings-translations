@@ -40,7 +40,7 @@ translate francais v8s45_phoneContinue2_747f298b:
 translate francais v8s45_phoneContinue2_6a557c5a:
 
     # u "(Well I'll be damned... This could actually be more fun than I ever thought it could be.)"
-    u "(Eh ben, putain... Ça pourrait être plus amusant que je ne le pensais.)"
+    u "(Eh ben, putain... Ça pourrait être plus amusant que je le pensais.)"
 
 # game/v8/scene45.rpy:83
 translate francais v8s45_phoneContinue2_f1893ba1:
@@ -82,7 +82,7 @@ translate francais v8s45_phoneCheck2_31be7c9c:
 translate francais v8s45_phoneCheck2_6a557c5a:
 
     # u "(Well I'll be damned... This could actually be more fun than I ever thought it could be.)"
-    u "(Eh ben, putain... Ça pourrait être plus amusant que je ne le pensais.)"
+    u "(Eh ben, putain... Ça pourrait être plus amusant que je le pensais.)"
 
 translate francais strings:
 

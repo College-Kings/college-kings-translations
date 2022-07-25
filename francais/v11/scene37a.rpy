@@ -28,7 +28,7 @@ translate francais v11_ride_with_mrlee_cc3ce54f:
 translate francais v11_ride_with_mrlee_b11c4a26:
 
     # u "I'd rather not listen to them fight all the way back to the hotel."
-    u "Je préfère ne pas les écouter se disputer jusqu'à l'hôtel."
+    u "Je préfère pas les écouter se disputer jusqu'à l'hôtel."
 
 # game/v11/scene37a.rpy:46
 translate francais v11_ride_with_mrlee_c45377bd:
@@ -88,7 +88,7 @@ translate francais v11_ride_with_mrlee_4156ea0e:
 translate francais v11_ride_with_mrlee_bad9efb4:
 
     # u "(Does he know something about Imre that I don't?)"
-    u "(Sait-il quelque chose sur Imre que je ne sais pas ?)"
+    u "(Sait-il quelque chose sur Imre que je sais pas ?)"
 
 # game/v11/scene37a.rpy:88
 translate francais v11_ride_with_mrlee_b9036c5b:
@@ -256,7 +256,7 @@ translate francais v11_ride_with_mrlee_e83a44f2:
 translate francais v11_ride_with_mrlee_eb8c677d:
 
     # u "You never know what to expect and regardless of what crazy things may happen, at least you can never say you're bored. *Chuckles*"
-    u "On ne sait jamais à quoi s'attendre et quelles que soient les folies qui peuvent se produire, au moins on ne pourra jamais dire qu'on s'ennuie. *Rire*"
+    u "On sait jamais à quoi s'attendre et quelles que soient les folies qui peuvent se produire, au moins on pourra jamais dire qu'on s'ennuie. *Rire*"
 
 # game/v11/scene37a.rpy:217
 translate francais v11_ride_with_mrlee_dba4031e:
@@ -400,7 +400,7 @@ translate francais v11_ride_with_mrlee_9c0fd9b0:
 translate francais v11_imre_and_ryan_9eb6fbd8:
 
     # u "Honestly, I can't be mad at him for this. What is wrong with you guys? That was fucking embarrassing."
-    u "Honnêtement, je ne peux pas être en colère contre lui pour ça. Qu'est-ce qui ne va pas avec vous les gars ? C'était vraiment embarrassant."
+    u "Honnêtement, je peux pas être en colère contre lui pour ça. Qu'est-ce qui va pas avec vous les gars ? C'était vraiment embarrassant."
 
 # game/v11/scene37a.rpy:322
 translate francais v11_imre_and_ryan_7991279d:
@@ -508,7 +508,7 @@ translate francais v11_imre_and_ryan_108f9b54:
 translate francais v11_imre_and_ryan_6566c322:
 
     # u "If he doesn't even remember it must not have been that serious."
-    u "S'il ne s'en souvient même pas, ça ne devait pas être si grave."
+    u "S'il s'en souvient même pas, ça devait pas être si grave."
 
 # game/v11/scene37a.rpy:420
 translate francais v11_imre_and_ryan_d6929f78:
@@ -634,7 +634,7 @@ translate francais v11_imre_and_ryan_7cf92a7f:
 translate francais v11_imre_and_ryan_81887bab:
 
     # u "Kinda didn't want to be dragged here in the first place and definitely didn't want to be left with you two arguing."
-    u "Déjà, je ne voulais pas être traîné ici et encore moins me retrouver avec vous deux en train de vous engueuler."
+    u "Déjà, je voulais pas être traîné ici et encore moins me retrouver avec vous deux en train de vous engueuler."
 
 # game/v11/scene37a.rpy:517
 translate francais v11_imre_and_ryan_87a73cd0:
@@ -664,7 +664,7 @@ translate francais v11_imre_and_ryan_ea49c324:
 translate francais v11_imre_and_ryan_428f3902:
 
     # u "Can't you just let it go?"
-    u "Tu ne peux pas juste laisser tomber ?"
+    u "Tu peux pas juste laisser tomber ?"
 
 # game/v11/scene37a.rpy:543
 translate francais v11_imre_and_ryan_b01463de:

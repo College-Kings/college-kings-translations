@@ -64,7 +64,7 @@ translate francais v11_chloe_sex_scene_207bdd25:
 translate francais v11_chloe_sex_scene_4a32ce8e:
 
     # u "(Her legs are shaking) I can't get enough of you, Chloe."
-    u "(Ses jambes tremblent) Je ne peux pas me passer de toi, Chloé."
+    u "(Ses jambes tremblent) Je peux pas me passer de toi, Chloé."
 
 # game/v11/scene41b.rpy:125
 translate francais v11_chloe_sex_scene_27b9c814:

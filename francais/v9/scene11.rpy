@@ -46,7 +46,7 @@ translate francais v9_hc_demo_f1b16a1e:
 translate francais v9_hc_demo_f8cdcc68:
 
     # ca "I know they wouldn't say 'hark!'"
-    ca "Je sais qu'ils ne diraient pas \"écoutez\" !"
+    ca "Je sais qu'ils diraient pas \"écoutez\" !"
 
 # game/v9/scene11.rpy:67
 translate francais v9_hc_demo_19873ce4:
@@ -290,7 +290,7 @@ translate francais v9_hc_demo_24689d7f:
 translate francais v9_hc_demo_efa743b3:
 
     # ca "I know they wouldn't say \"hark!\""
-    ca "Je sais qu'ils ne diraient pas \"écoutez !\"."
+    ca "Je sais qu'ils diraient pas \"écoutez !\"."
 
 # game/v9/scene11.rpy:135
 translate francais v9_hc_demo_norec_7d40f31a:

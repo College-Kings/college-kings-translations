@@ -100,7 +100,7 @@ translate francais v9_thur_w_punch_f327060d:
 translate francais v9_thur_w_punch_d4116552:
 
     # u "Holy fuck, I didn't know someone was filming. I mean, it's cool and all, but what if I get in trouble with this?"
-    u "Putain, je ne savais pas que quelqu'un filmait. C'est cool et tout, mais si j'ai des problèmes avec ça ?"
+    u "Putain, je savais pas que quelqu'un filmait. C'est cool et tout, mais si j'ai des problèmes avec ça ?"
 
 # game/v9/scene14.rpy:129
 translate francais v9_thur_w_punch_e3c127c1:
@@ -112,7 +112,7 @@ translate francais v9_thur_w_punch_e3c127c1:
 translate francais v9_thur_w_punch_9a284148:
 
     # u "I'm not talking about revenge, that guy attacked me first. I'm talking about fighting in the hallways!"
-    u "Je ne parle pas de vengeance, ce type m'a attaqué en premier. Je parle de se battre dans les couloirs !"
+    u "Je parle pas de vengeance, ce type m'a attaqué en premier. Je parle de se battre dans les couloirs !"
 
 # game/v9/scene14.rpy:139
 translate francais v9_thur_w_punch_a1ca067a:
@@ -154,7 +154,7 @@ translate francais v9_thur_w_punch_874da560:
 translate francais v9_thur_w_punch_f4067ade:
 
     # u "Well would you look at that. When one feels no need to brag, they just throw pictures of him around, haha."
-    u "Eh bien, regardez-moi ça. Quand je ne ressent pas le besoin de me vanter, on balance des photos de moi partout, haha."
+    u "Eh bien, regardez-moi ça. Quand je ressent pas le besoin de me vanter, on balance des photos de moi partout, haha."
 
 # game/v9/scene14.rpy:177
 translate francais v9_thur_w_punch_4b5d06bc:
@@ -172,7 +172,7 @@ translate francais v9_thur_w_punch_f2ff3076:
 translate francais v9_thur_w_punch_aa8eb016:
 
     # u "But you weren't. It was just a lone Wolf there, fighting his battles, tsk tsk tsk."
-    u "Mais tu ne l'étais pas. J'était juste un Wolf solitaire là-bas, menant ses propres batailles, tsk tsk tsk."
+    u "Mais tu l'étais pas. J'était juste un Wolf solitaire là-bas, menant ses propres batailles, tsk tsk tsk."
 
 # game/v9/scene14.rpy:192
 translate francais v9_thur_w_punch_2dcbfdd6:
@@ -244,7 +244,7 @@ translate francais v9_thur_room_w_seb_cont1_8c1bf5ce:
 translate francais v9_thur_room_w_seb_cont1_1c2c497d:
 
     # u "I wouldn't say I'm THAT ready. But hearing you guys say it, surely makes me feel like I am."
-    u "Je ne dirais pas que je suis si prêt que ça. Mais vous entendre le dire, me donne l'impression de l'être."
+    u "Je dirais pas que je suis si prêt que ça. Mais vous entendre le dire, me donne l'impression de l'être."
 
 # game/v9/scene14.rpy:271
 translate francais v9_thur_room_w_seb_cont1_c8f0edf3:
@@ -334,7 +334,7 @@ translate francais v9_thur_w_no_punch_66b1de18:
 translate francais v9_thur_w_no_punch_69f1048a:
 
     # u "Just some random prick. I bumped into him in the hallway, and he did not wanna listen to reason."
-    u "Juste un connard au hasard. Je l'ai croisé dans le couloir, et il ne voulait pas se calmer."
+    u "Juste un connard au hasard. Je l'ai croisé dans le couloir, et il voulait pas se calmer."
 
 # game/v9/scene14.rpy:362
 translate francais v9_thur_w_no_punch_26008222:
@@ -346,7 +346,7 @@ translate francais v9_thur_w_no_punch_26008222:
 translate francais v9_thur_w_no_punch_937e0d1e:
 
     # u "It was all out of nowhere, Seb. Caught me by surprise, I didn't see it coming."
-    u "C'est sorti de nulle part, Seb. Ça m'a pris par surprise, je ne l'ai pas vu venir."
+    u "C'est sorti de nulle part, Seb. Ça m'a pris par surprise, je l'ai pas vu venir."
 
 # game/v9/scene14.rpy:372
 translate francais v9_thur_w_no_punch_719af1ca:
@@ -370,7 +370,7 @@ translate francais v9_thur_w_no_punch_5470e392:
 translate francais v9_thur_w_no_punch_86f5cfdc:
 
     # u "I didn't expect the asshole to just attack me like that, okay? I was trying to be reasonable with him."
-    u "Je ne m'attendais pas à ce que ce connard m'attaque comme ça, d'accord ? J'essayais d'être raisonnable avec lui."
+    u "Je m'attendais pas à ce que ce connard m'attaque comme ça, d'accord ? J'essayais d'être raisonnable avec lui."
 
 # game/v9/scene14.rpy:392
 translate francais v9_thur_w_no_punch_674fb1c7:
@@ -454,7 +454,7 @@ translate francais v9_thur_w_no_punch_65e8ab5c:
 translate francais v9_thur_w_no_punch_7081047b:
 
     # u "I guess you are right. I did decide on it anyway. I will not get surprised like that again."
-    u "Je crois que vous avez raison. Je l'ai décidé de toute façon. Je ne me laisserai plus surprendre comme ça."
+    u "Je crois que vous avez raison. Je l'ai décidé de toute façon. Je me laisserai plus surprendre comme ça."
 
 # game/v9/scene14.rpy:477
 translate francais v9_thur_w_no_punch_e369a93b:

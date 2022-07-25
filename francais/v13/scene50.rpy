@@ -166,7 +166,7 @@ translate francais v13s50_bfc6db32:
 translate francais v13s50_d83cb76a:
 
     # u "You and I don't talk as often anymore, so he knows the new Emily way better than I do. I know the old Emily and well... Nevermind."
-    u "Toi et moi on ne se parle plus aussi souvent, donc il connaît la nouvelle Emily bien mieux que moi. Je connais l'ancienne Emily et aussi... Oublie ça."
+    u "Toi et moi on se parle plus aussi souvent, donc il connaît la nouvelle Emily bien mieux que moi. Je connais l'ancienne Emily et aussi... Oublie ça."
 
 # game/v13/scene50.rpy:179
 translate francais v13s50_65cc9639:
@@ -292,7 +292,7 @@ translate francais v13s50_b2e1715d:
 translate francais v13s50_fcd2c989:
 
     # u "(A little more awkward than I thought.)"
-    u "(Un peu plus gênant que je ne le pensais.)"
+    u "(Un peu plus gênant que je le pensais.)"
 
 # game/v13/scene50.rpy:304
 translate francais v13s50_50eb841a:
@@ -340,7 +340,7 @@ translate francais v13s50_16495ea5:
 translate francais v13s50_712357be:
 
     # u "We're not doing this. Deadass, get the fuck out!"
-    u "On ne fera pas ça. Connasse, dégage de là !"
+    u "On fera pas ça. Connasse, dégage de là !"
 
 # game/v13/scene50.rpy:359
 translate francais v13s50_af9e0a50:

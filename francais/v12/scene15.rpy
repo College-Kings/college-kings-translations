@@ -16,7 +16,7 @@ translate francais v12_riddle_riley_80674681:
 translate francais v12_riddle_riley_bf7b92d3:
 
     # u "I really doubt that, but... Then again, I don't know the riddle."
-    u "J'en doute vraiment, mais... Mais encore une fois, je ne connais pas l'énigme."
+    u "J'en doute vraiment, mais... Mais encore une fois, je connais pas l'énigme."
 
 # game/v12/scene15.rpy:32
 translate francais v12_riddle_riley_0bc325f7:
@@ -40,7 +40,7 @@ translate francais v12_riddle_riley_1c0b4ca5:
 translate francais v12_riddle_riley_3f93b678:
 
     # u "Riley! Don't say things like that, especially about a burial ground. *Chuckles*"
-    u "Riley ! Ne dis pas des choses comme ça, surtout à propos d'un cimetière. *Rire*"
+    u "Riley ! Dis pas des choses comme ça, surtout à propos d'un cimetière. *Rire*"
 
 # game/v12/scene15.rpy:52
 translate francais v12_riddle_riley_e3145d74:
@@ -52,7 +52,7 @@ translate francais v12_riddle_riley_e3145d74:
 translate francais v12_riddle_riley_ba6ee298:
 
     # u "Hating on the dead is never a good thing. When the zombies, ghosts or whatever comes, I won't be there to help you. But at least you'll have your super power and you can tell them if they're hungry. *Laughs*"
-    u "Jouer avec les morts n'est jamais une bonne chose. Quand les zombies, fantômes ou autres arriveront, je ne serai pas là pour t'aider. Mais au moins tu auras ton super pouvoir et tu pourras leur dire s'ils ont faim. *Rire*"
+    u "Jouer avec les morts n'est jamais une bonne chose. Quand les zombies, fantômes ou autres arriveront, je serai pas là pour t'aider. Mais au moins tu auras ton super pouvoir et tu pourras leur dire s'ils ont faim. *Rire*"
 
 # game/v12/scene15.rpy:62
 translate francais v12_riddle_riley_87a5867b:
@@ -124,7 +124,7 @@ translate francais v12_riddle_riley_7ffe103c:
 translate francais v12_riddle_riley_1a07e571:
 
     # u "I give up, I can't find it. I'm telling you there's nothing down here."
-    u "J'abandonne, je ne trouve rien. Je te dis qu'il n'y a rien ici."
+    u "J'abandonne, je trouve rien. Je te dis qu'il n'y a rien ici."
 
 # game/v12/scene15.rpy:158
 translate francais v12_riddle_riley_7b6333da:
@@ -274,7 +274,7 @@ translate francais v12_riddle_riley_b59b03ab:
 translate francais v12_riddle_riley_9d4a54f6:
 
     # u "I was just following you."
-    u "Je ne faisais que te suivre."
+    u "Je faisais que te suivre."
 
 # game/v12/scene15.rpy:308
 translate francais v12_riddle_riley_749dc388:
@@ -370,7 +370,7 @@ translate francais v12_riddle_riley_0aacf53a:
 translate francais v12_riddle_riley_baa4d711:
 
     # u "Don't worry, I got you. But, everything that's happened so far has just given me more of a reason to not like this stupid hunt."
-    u "Ne t'inquiète pas, je te tiens. Mais, tout ce qui s'est passé jusqu'à présent m'a juste donné une raison de plus de ne pas aimer cette stupide chasse."
+    u "Ne t'inquiète pas, je te tiens. Mais, tout ce qui s'est passé jusqu'à présent m'a juste donné une raison de plus de pas aimer cette stupide chasse."
 
 # game/v12/scene15.rpy:453
 translate francais v12_riddle_riley_c039f50a:

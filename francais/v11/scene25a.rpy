@@ -22,7 +22,7 @@ translate francais v11_hotel_charlie_bar_8c9fb254:
 translate francais v11_hotel_charlie_bar_945d1075:
 
     # u "You know, I don't know what your deal is. This whole fake nice guy attitude is lowkey pissing me off."
-    u "Tu sais, je ne sais pas quel est ton problème. Toute cette attitude de \"faux gentil\" m'énerve sérieusement."
+    u "Tu sais, je sais pas quel est ton problème. Toute cette attitude de \"faux gentil\" m'énerve sérieusement."
 
 # game/v11/scene25a.rpy:30
 translate francais v11_hotel_charlie_bar_095e79b8:
@@ -76,13 +76,13 @@ translate francais v11_hotel_charlie_bar_d2dd7b0c:
 translate francais v11_hotel_charlie_bar_4414e6fb:
 
     # u "You don't know anything about me, yet you're trying to tell me who I am and what I do. You've been around for like a week bro."
-    u "Tu ne sais rien de moi, et pourtant tu essaies de me dire qui je suis et ce que je fais. On se \"connaît\" depuis à peine une semaine, mec."
+    u "Tu sais rien de moi, et pourtant tu essaies de me dire qui je suis et ce que je fais. On se \"connaît\" depuis à peine une semaine, mec."
 
 # game/v11/scene25a.rpy:62
 translate francais v11_hotel_charlie_bar_b6f5d429:
 
     # u "Sure, I may do some dumb shit, but that doesn't make me a horrible person."
-    u "Bien sûr, je peux faire des conneries, mais ça ne fait pas de moi une personne détestable."
+    u "Bien sûr, je peux faire des conneries, mais ça fait pas de moi une personne détestable."
 
 # game/v11/scene25a.rpy:67
 translate francais v11_hotel_charlie_bar_a3230704:
@@ -100,7 +100,7 @@ translate francais v11_hotel_charlie_bar_8829350e:
 translate francais v11_hotel_charlie_bar_91d77e19:
 
     # u "Stay away from my friends and stay away from me. No one asked for you to come around and play superhero, or therapist, or fucking Messiah."
-    u "Reste loin de mes amis et reste loin de moi. Personne ne t'a demandé de venir jouer au super-héros, au thérapeute ou au putain de Messie."
+    u "Reste loin de mes amis et reste loin de moi. Personne t'a demandé de venir jouer au super-héros, au thérapeute ou au putain de Messie."
 
 # game/v11/scene25a.rpy:78
 translate francais v11_hotel_charlie_bar_672f1402:
@@ -112,4 +112,4 @@ translate francais v11_hotel_charlie_bar_672f1402:
 translate francais v11_hotel_charlie_bar_a8eecf62:
 
     # u "(Fuck him! He doesn't know me! I'm not letting him get to me...)"
-    u "(Qu'il aille se faire foutre ! Il ne me connaît pas ! Je ne vais pas le laisser m'atteindre...)"
+    u "(Qu'il aille se faire foutre ! Il me connaît pas ! Je vais pas le laisser m'atteindre...)"

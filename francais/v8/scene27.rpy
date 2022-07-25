@@ -16,7 +16,7 @@ translate francais v8s27_phoneContinue1_747f298b:
 translate francais v8s27_phoneContinue1_4e68a090:
 
     # u "(Fuck, I have a bad feeling about this.)"
-    u "(Putain, j'ai un mauvais pressentiment à ce sujet.)"
+    u "(Putain, j'ai un mauvais pressentiment là dessus.)"
 
 # game/v8/scene27.rpy:45
 translate francais v8s27_phoneContinue1_81469270:
@@ -34,7 +34,7 @@ translate francais v8s27_phoneContinue1_2f101193:
 translate francais v8s27_phoneContinue1_68ec9d52:
 
     # u "I guess so. Let's go."
-    u "Je crois que oui. Allons-y."
+    u "On va dire que oui. C'est partit."
 
 # game/v8/scene27.rpy:60
 translate francais v8s27_phoneContinue1_3273f15b:
@@ -52,13 +52,13 @@ translate francais v8s27_phoneContinue1_48b292c7:
 translate francais v8s27_phoneContinue1_c20954a6:
 
     # jo "You don't seem too stoked, man. Something wrong?"
-    jo "Tu n'as pas l'air très content, mec. Quelque chose ne va pas ?"
+    jo "Tu n'as pas l'air très content, mec. Un problème ?"
 
 # game/v8/scene27.rpy:75
 translate francais v8s27_phoneContinue1_f1b11659:
 
     # u "Not really. I just feel like we shouldn't be doing this, is all."
-    u "Pas vraiment. J'ai juste l'impression qu'on ne devrait pas faire ça, c'est tout."
+    u "Pas vraiment. J'ai juste l'impression qu'on devrait pas faire ça, c'est tout."
 
 # game/v8/scene27.rpy:80
 translate francais v8s27_phoneContinue1_8909d919:
@@ -94,7 +94,7 @@ translate francais v8s27_phoneContinue3_747f298b:
 translate francais v8s27_phoneContinue3_4e68a090:
 
     # u "(Fuck, I have a bad feeling about this.)"
-    u "(Putain, j'ai un mauvais pressentiment à ce propos.)"
+    u "(Putain, j'ai un mauvais pressentiment là dessus.)"
 
 # game/v8/scene27.rpy:155
 translate francais v8s27_phoneContinue3_81469270:
@@ -112,7 +112,7 @@ translate francais v8s27_phoneContinue3_2f101193:
 translate francais v8s27_phoneContinue3_68ec9d52:
 
     # u "I guess so. Let's go."
-    u "Je crois que oui. Allons-y."
+    u "On va dire que oui. C'est partit."
 
 # game/v8/scene27.rpy:170
 translate francais v8s27_phoneContinue3_3273f15b:
@@ -130,13 +130,13 @@ translate francais v8s27_phoneContinue3_48b292c7:
 translate francais v8s27_phoneContinue3_c20954a6:
 
     # jo "You don't seem too stoked, man. Something wrong?"
-    jo "Tu n'as pas l'air très content, mec. Quelque chose ne va pas ?"
+    jo "Tu n'as pas l'air très content, mec. Un problème ?"
 
 # game/v8/scene27.rpy:185
 translate francais v8s27_phoneContinue3_f1b11659:
 
     # u "Not really. I just feel like we shouldn't be doing this, is all."
-    u "Pas vraiment. J'ai juste l'impression qu'on ne devrait pas faire ça, c'est tout."
+    u "Pas vraiment. J'ai juste l'impression qu'on devrait pas faire ça, c'est tout."
 
 # game/v8/scene27.rpy:190
 translate francais v8s27_phoneContinue3_8909d919:
@@ -168,7 +168,7 @@ translate francais strings:
 
     # game/v8/scene27.rpy:91
     old "Hey bro, I got robbed and my ass kicked bad! Really wish you came with me, man."
-    new "Hé mec, je me suis fait voler et botter le cul ! J'aurais vraiment aimé que tu viennes avec moi."
+    new "Hé mec, je me suis fait voler et défoncer ! J'aurais vraiment aimé que tu viennes avec moi."
 
     # game/v8/scene27.rpy:92
     old "Fuck! Are you ok??"
@@ -176,7 +176,7 @@ translate francais strings:
 
     # game/v8/scene27.rpy:93
     old "No, man! I hurt everywhere! Plus my shit is gone!"
-    new "Non, mec ! J'ai mal partout ! En plus, ils m'ont piqué mon shit !"
+    new "Non, mec ! J'ai mal partout ! En plus, ils m'ont tiré tout mon shit !"
 
     # game/v8/scene27.rpy:94
     old "Hold on, I'll be right over"

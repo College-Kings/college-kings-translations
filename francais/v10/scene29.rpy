@@ -124,7 +124,7 @@ translate francais v10_chloe_hallway_4be6b4b6:
 translate francais v10_chloe_hallway_947e8b92:
 
     # u "Uhm, I shouldn't, I have a lot to do. Sorry."
-    u "Hum, je ne devrais pas, j'ai beaucoup à faire. Désolé."
+    u "Hum, je devrais pas, j'ai beaucoup à faire. Désolé."
 
 # game/v10/scene29.rpy:150
 translate francais v10_chloe_hallway_c4b252de:
@@ -262,7 +262,7 @@ translate francais v10_chloe_hallway_4204e93d:
 translate francais v10_chloe_hallway_5f5444ac:
 
     # u "Let's do it, but I won't be going easy on you."
-    u "Allons-y, mais je ne serais pas tendre avec toi."
+    u "Allons-y, mais je serais pas tendre avec toi."
 
 # game/v10/scene29.rpy:292
 translate francais v10_chloe_hallway_c6ae7725:
@@ -274,7 +274,7 @@ translate francais v10_chloe_hallway_c6ae7725:
 translate francais v10_chloe_hallway_523b8ead:
 
     # u "I shouldn't, I have a lot to do. Sorry."
-    u "Je ne devrais pas, j'ai beaucoup à faire. Désolé."
+    u "Je devrais pas, j'ai beaucoup à faire. Désolé."
 
 # game/v10/scene29.rpy:307
 translate francais v10_chloe_hallway_c4b252de_1:

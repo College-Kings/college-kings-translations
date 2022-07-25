@@ -80,7 +80,7 @@ translate francais strings:
 
     # game/v8/Scene19.rpy:39
     old "I would eat you until you couldn't take it anymore"
-    new "Je te mangerais jusqu'à ce que tu ne puisses plus le supporter."
+    new "Je te mangerais jusqu'à ce que tu puisses plus le supporter."
 
     # game/v8/Scene19.rpy:40
     old "And then what?"

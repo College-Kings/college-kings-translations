@@ -28,7 +28,7 @@ translate francais v13s27_PhoneContinueAmber_f7e60c9a:
 translate francais v13s27_PhoneContinueAmber_c1ba7e32:
 
     # u "(I don't even know where Ryan and Imre are.)"
-    u "(Je ne sais même pas où sont Ryan et Imre.)"
+    u "(Je sais même pas où sont Ryan et Imre.)"
 
 # game/v13/scene27.rpy:53
 translate francais v13s27_PhoneContinueAmber_c74c29f0:

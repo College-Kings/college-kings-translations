@@ -106,7 +106,7 @@ translate francais v12_chloe_cafe_93512f79:
 translate francais v12_chloe_cafe_a4016fc0:
 
     # u "The fu- You never told me you spoke French..."
-    u "Put... Tu ne m'as jamais dit que tu parlais français..."
+    u "Put... Tu m'as jamais dit que tu parlais français..."
 
 # game/v12/scene14.rpy:136
 translate francais v12_chloe_cafe_9240e5e6:
@@ -262,7 +262,7 @@ translate francais v12_chloe_cafe_2bb60d86:
 translate francais v12_chloe_cafe_b5340dd5:
 
     # u "We had planned to just have you surprise us with whatever you thought we'd enjoy. As hungry as I am, I'm not very picky at the moment."
-    u "On avait prévu que vous nous surprendriez avec quelque chose qui pourrait nous plaire. Aussi affamé que je sois, Je ne vais pas faire le difficile."
+    u "On avait prévu que vous nous surprendriez avec quelque chose qui pourrait nous plaire. Aussi affamé que je sois, Je vais pas faire le difficile."
 
 # game/v12/scene14.rpy:286
 translate francais v12_chloe_cafe_0704f72d:
@@ -370,7 +370,7 @@ translate francais v12_chloe_cafe_fb5d5a75:
 translate francais v12_chloe_cafe_4f137c11:
 
     # u "(I can't keep this from her.) *Sighs* There's something I need to tell you."
-    u "(Je ne peux pas lui cacher ça.) *Soupirs* Je dois te dire quelque chose."
+    u "(Je peux pas lui cacher ça.) *Soupirs* Je dois te dire quelque chose."
 
 # game/v12/scene14.rpy:386
 translate francais v12_chloe_cafe_e537814b:
@@ -382,7 +382,7 @@ translate francais v12_chloe_cafe_e537814b:
 translate francais v12_chloe_cafe_9c7ca95c:
 
     # u "Don't quote me, please. And I don't want you doing anything rash. Can you promise me you won't freak out?"
-    u "Ne dis pas que ça vient de moi, s'il te plaît. Et je ne veux pas que tu fasses quelque chose de stupide. Tu peux me promettre que tu ne vas pas flipper ?"
+    u "Ne dis pas que ça vient de moi, s'il te plaît. Et je veux pas que tu fasses quelque chose de stupide. Tu peux me promettre que tu vas pas flipper ?"
 
 # game/v12/scene14.rpy:396
 translate francais v12_chloe_cafe_8faf8701:
@@ -394,7 +394,7 @@ translate francais v12_chloe_cafe_8faf8701:
 translate francais v12_chloe_cafe_3173a598:
 
     # u "Just promise me you won't freak out."
-    u "Promets-moi juste que tu ne vas pas t'énerver."
+    u "Promets-moi juste que tu vas pas t'énerver."
 
 # game/v12/scene14.rpy:406
 translate francais v12_chloe_cafe_2140a032:
@@ -406,7 +406,7 @@ translate francais v12_chloe_cafe_2140a032:
 translate francais v12_chloe_cafe_e43d0588:
 
     # u "Good. Now, again, don't quote me. I'm not sure of all the details and I'm not even positive if this is truly her plan, but I heard that Lindsey's been considering running for President of the Chicks, against you."
-    u "Bien. Encore une fois, ne dis pas que c'est moi qui te l'ai dit. Je ne suis pas sûr de tous les détails et je ne suis même pas certain que ce soit vraiment son plan, mais j'ai entendu dire que Lindsey envisageait de se présenter à la présidence des Chicks, contre toi."
+    u "Bien. Encore une fois, dis pas que c'est moi qui te l'ai dit. Je suis pas sûr de tous les détails et je suis même pas certain que ce soit vraiment son plan, mais j'ai entendu dire que Lindsey envisageait de se présenter à la présidence des Chicks, contre toi."
 
 # game/v12/scene14.rpy:422
 translate francais v12_chloe_cafe_80f8da7e:
@@ -418,7 +418,7 @@ translate francais v12_chloe_cafe_80f8da7e:
 translate francais v12_chloe_cafe_9ae6b828:
 
     # u "Calm down, please... You said you wouldn't freak out."
-    u "Calme-toi, s'il te plaît... Tu as dit que tu ne t'énerverais pas."
+    u "Calme-toi, s'il te plaît... Tu as dit que tu t'énerverais pas."
 
 # game/v12/scene14.rpy:432
 translate francais v12_chloe_cafe_e216da2e:
@@ -430,7 +430,7 @@ translate francais v12_chloe_cafe_e216da2e:
 translate francais v12_chloe_cafe_56a4105b:
 
     # u "Something about the Chicks needing major changes in order to save the sorority from it's downhill spiral... And again, don't quote me."
-    u "Quelque chose à propos des Chicks qui ont besoin de changements majeurs afin de sauver la sororité de sa spirale descendante... Et encore une fois, ne dis pas que c'est moi qui te l'ai dit."
+    u "Quelque chose à propos des Chicks qui ont besoin de changements majeurs afin de sauver la sororité de sa spirale descendante... Et encore une fois, dis pas que c'est moi qui te l'ai dit."
 
 # game/v12/scene14.rpy:442
 translate francais v12_chloe_cafe_7cfa3e42:
@@ -454,13 +454,13 @@ translate francais v12_chloe_cafe_28eec2e1:
 translate francais v12_chloe_cafe_afdc6188:
 
     # u "(No way I'm telling her. She's not hearing that news from me.)"
-    u "(Pas question que je lui dise. Elle ne doit pas entendre cette nouvelle de moi.)"
+    u "(Pas question que je lui dise. Elle doit pas entendre cette nouvelle de moi.)"
 
 # game/v12/scene14.rpy:459
 translate francais v12_chloe_cafe_826aa06b:
 
     # u "I don't want to start making assumptions about what it could or couldn't be, so just try to think positive. Maybe she is doing some prank, haha..."
-    u "Je ne veux pas commencer à faire des suppositions sur ce que ça pourrait être ou non, alors essaie juste de penser positivement. Peut-être qu'elle fait une farce, haha..."
+    u "Je veux pas commencer à faire des suppositions sur ce que ça pourrait être ou non, alors essaie juste de penser positivement. Peut-être qu'elle fait une farce, haha..."
 
 # game/v12/scene14.rpy:464
 translate francais v12_chloe_cafe_2f50a440:
@@ -472,13 +472,13 @@ translate francais v12_chloe_cafe_2f50a440:
 translate francais v12_chloe_cafe_de968124:
 
     # u "(Okay, this is not going well.)"
-    u "(Ok, ça ne va pas bien se passer.)"
+    u "(Ok, ça va pas bien se passer.)"
 
 # game/v12/scene14.rpy:471
 translate francais v12_chloe_cafe_dce1ef96:
 
     # u "Why not just enjoy Europe like we discussed before?"
-    u "Pourquoi ne pas profiter de Paris, comme nous le voulions ?"
+    u "Pourquoi pas profiter de Paris, comme nous le voulions ?"
 
 # game/v12/scene14.rpy:476
 translate francais v12_chloe_cafe_e9b2d351:
@@ -502,7 +502,7 @@ translate francais v12_chloe_cafe_c57c2001:
 translate francais v12_chloe_cafe_3fb609b6:
 
     # u "If I'm not good enough, the food can be plan B. Here it comes now."
-    u "Si je ne suis pas assez bon, la nourriture peut être le plan B. La voilà qui arrive d'ailleurs."
+    u "Si je suis pas assez bon, la nourriture peut être le plan B. La voilà qui arrive d'ailleurs."
 
 # game/v12/scene14.rpy:506
 translate francais v12_chloe_cafe_85ce160a:
@@ -556,7 +556,7 @@ translate francais v12_chloe_cafe_940e672a:
 translate francais v12_chloe_cafe_b0c07d6c:
 
     # u "And hey, don't let any of that Lindsey stuff get to you."
-    u "Et hey, ne laisse pas ce truc de Lindsey te prendre la tête."
+    u "Et hey, laisse pas ce truc de Lindsey te prendre la tête."
 
 # game/v12/scene14.rpy:571
 translate francais v12_chloe_cafe_dbc54b68:

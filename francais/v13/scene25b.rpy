@@ -208,7 +208,7 @@ translate francais v13s25b_3ac82ccd:
 translate francais v13s25b_4dc5f32d:
 
     # u "I didn't mean it in a rude way."
-    u "Je ne voulais pas dire ça de manière grossière."
+    u "Je voulais pas dire ça de manière grossière."
 
 # game/v13/scene25b.rpy:195
 translate francais v13s25b_4b8ed091:

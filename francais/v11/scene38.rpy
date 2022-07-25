@@ -70,7 +70,7 @@ translate francais v11_amber_bar_3725a80e:
 translate francais v11_amber_bar_5a3d1182:
 
     # u "*Chuckles* I don't know, I haven't even seen you. I just got done dealing with Imre and Ryan."
-    u "*Rire* Je ne sais pas, je ne t'ai même pas vu. Je viens juste de m'occuper d'un problème entre Imre et Ryan."
+    u "*Rire* Je sais pas, je t'ai même pas vu. Je viens juste de m'occuper d'un problème entre Imre et Ryan."
 
 # game/v11/scene38.rpy:109
 translate francais v11_amber_bar_762e6296:
@@ -88,7 +88,7 @@ translate francais v11_amber_bar_c7b2391f:
 translate francais v11_amber_bar_25d89ad7:
 
     # am "What? Don't tell me you don't like being teased. I thought that was so much fun for you and Aubrey. *Laughs* Anyway, there is something I've been wanting to do."
-    am "Quoi ? Ne me dis pas que tu n'aimes pas être taquiné. Je pensais que c'était tellement amusant pour toi et Aubrey. *Rire* Bref, il y a quelque chose que j'ai envie de faire."
+    am "Quoi ? Me dis pas que tu n'aimes pas être taquiné. Je pensais que c'était tellement amusant pour toi et Aubrey. *Rire* Bref, il y a quelque chose que j'ai envie de faire."
 
 # game/v11/scene38.rpy:124
 translate francais v11_amber_bar_57258cce:
@@ -112,7 +112,7 @@ translate francais v11_amber_bar_e70dc387:
 translate francais v11_amber_bar_4f650763:
 
     # am "What? No... Do you not know what go-karts are? *Chuckles*"
-    am "Quoi ? Non... Tu ne sais pas ce qu'est un kart ? *Rire*"
+    am "Quoi ? Non... Tu sais pas ce qu'est un kart ? *Rire*"
 
 # game/v11/scene38.rpy:144
 translate francais v11_amber_bar_de369a9f:
@@ -124,7 +124,7 @@ translate francais v11_amber_bar_de369a9f:
 translate francais v11_amber_bar_9ff41fa5:
 
     # am "Well, the place I found only lets adults use the karts, so that should answer your question. Wanna come race me?"
-    am "L'endroit que j'ai trouvé ne laisse que les adultes utiliser les karts, donc ça devrait répondre à ta question. Tu veux venir faire la course avec moi ?"
+    am "L'endroit que j'ai trouvé laisse que les adultes utiliser les karts, donc ça devrait répondre à ta question. Tu veux venir faire la course avec moi ?"
 
 # game/v11/scene38.rpy:154
 translate francais v11_amber_bar_d89dfe66:

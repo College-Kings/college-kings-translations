@@ -88,7 +88,7 @@ translate francais v9_ri_sex_395634eb:
 translate francais v9_ri_sex_79aafd20:
 
     # u "Can't help it. You're so fucking hot."
-    u "Je ne peux pas m'en empêcher. Tu es si sexy, putain."
+    u "Je peux pas m'en empêcher. Tu es si sexy, putain."
 
 # game/v9/scene34.rpy:89
 translate francais v9_ri_sex_00d4562a:
@@ -250,7 +250,7 @@ translate francais v9_ri_sex_ddcf8409:
 translate francais v9_ri_sex_2f221a73:
 
     # u "I won't last long if you keep doing that."
-    u "Je ne tiendrai pas longtemps si tu continues à faire ça."
+    u "Je tiendrai pas longtemps si tu continues à faire ça."
 
 # game/v9/scene34.rpy:234
 translate francais v9_ri_sex_9ea2f78c_4:
@@ -334,7 +334,7 @@ translate francais v9_ri_sex_32b952d0:
 translate francais v9_ri_sex_8db303f1:
 
     # u "Don't stop! Don't stop!"
-    u "Ne t'arrête pas ! Ne t'arrête pas !"
+    u "T'arrête pas ! T'arrête pas !"
 
 # game/v9/scene34.rpy:282
 translate francais v9_ri_sex_bef25273:
@@ -430,7 +430,7 @@ translate francais v9_ri_sex_b679a075:
 translate francais v9_ri_sex_16b8d66d:
 
     # u "I can't remember shit right now!"
-    u "Je ne me souviens de rien là !"
+    u "Je me souviens de rien là !"
 
 # game/v9/scene34.rpy:364
 translate francais v9_ri_sex_9864fa41:
@@ -660,7 +660,7 @@ translate francais v9s34_rileyMissionary_ddcf8409:
 translate francais v9s34_rileyMissionary_2f221a73:
 
     # u "I won't last long if you keep doing that."
-    u "Je ne tiendrai pas longtemps si tu continues à faire ça."
+    u "Je tiendrai pas longtemps si tu continues à faire ça."
 
 # game/v9/scene34.rpy:238
 translate francais v9s34_rileyMissionary_9ea2f78c:
@@ -744,7 +744,7 @@ translate francais v9s34_rileyCowgirl_32b952d0:
 translate francais v9s34_rileyCowgirl_8db303f1:
 
     # u "Don't stop! Don't stop!"
-    u "Ne t'arrête pas ! Ne t'arrête pas !"
+    u "T'arrête pas ! T'arrête pas !"
 
 # game/v9/scene34.rpy:287
 translate francais v9s34_rileyCowgirl_bef25273:
@@ -840,7 +840,7 @@ translate francais v9s34_rileyCowgirl_b679a075:
 translate francais v9s34_rileyCowgirl_16b8d66d:
 
     # u "I can't remember shit right now!"
-    u "Je ne me souviens de rien là !"
+    u "Je me souviens de rien là !"
 
 # game/v9/scene34.rpy:372
 translate francais v9s34_rileyCowgirl_9864fa41:

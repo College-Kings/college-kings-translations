@@ -28,7 +28,7 @@ translate francais v13s46_c204b8c4:
 translate francais v13s46_355f53bb:
 
     # u "I don't hate being outside, but... *Chuckles* I'm definitely a city person."
-    u "Je ne déteste pas être dehors, mais... *rire* Je suis définitivement un citadin."
+    u "Je déteste pas être dehors, mais... *rire* Je suis définitivement un citadin."
 
 # game/v13/scene46.rpy:51
 translate francais v13s46_21982dfc:
@@ -94,7 +94,7 @@ translate francais v13s46_6335443b:
 translate francais v13s46_fe290412:
 
     # u "I don't know, I think I hit a rock or something."
-    u "Je ne sais pas, je crois que j'ai roulé sur une pierre ou un truc comme ça."
+    u "Je sais pas, je crois que j'ai roulé sur une pierre ou un truc comme ça."
 
 # game/v13/scene46.rpy:111
 translate francais v13s46_fe5fcdef:
@@ -328,7 +328,7 @@ translate francais v13s46_ac3a7914:
 translate francais v13s46_c09db4f6:
 
     # u "We'll keep the spark alive, Lauren. It's important for any couple to do that. Can't just grow old and bitter, haha."
-    u "Nous allons garder notre flamme allumée, Lauren. C'est important pour tout couple de faire ça. On ne peut pas simplement vieillir et devenir amer, haha."
+    u "Nous allons garder notre flamme allumée, Lauren. C'est important pour tout couple de faire ça. On peut pas simplement vieillir et devenir amer, haha."
 
 # game/v13/scene46.rpy:340
 translate francais v13s46_09ae192a:
@@ -442,7 +442,7 @@ translate francais v13s46_241f1f34:
 translate francais v13s46_0837a89f:
 
     # u "Let's go ahead and head back before they see us creepin', you weirdo."
-    u "Partons et rentrons avant qu'ils ne nous voient ramper, espèce de cinglée."
+    u "Partons et rentrons avant qu'ils nous voient ramper, espèce de cinglée."
 
 # game/v13/scene46.rpy:453
 translate francais v13s46_cb706ec8:

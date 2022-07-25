@@ -10,25 +10,25 @@ translate francais hoco_amb_night_0212d818:
 translate francais hoco_amb_night_01df651c:
 
     # u "Ah fuck. Ahhhh."
-    u "Ah putain. Ahhhh."
+    u "Oh putain. Ahhhh."
 
 # game/v8/scene5.rpy:60
 translate francais hoco_amb_night_8e8192c6:
 
     # am "Ah that feels... ah so good. Ah.. Fuck me."
-    am "Ah, ça fait... ah, c'est si bon. Ah... Baise-moi."
+    am "Oh, ça fait... oh, c'est si bon. Oh... Baise-moi."
 
 # game/v8/scene5.rpy:65
 translate francais hoco_amb_night_ffa53ab5:
 
     # u "Ahh. Fuck. Ahhh."
-    u "Ahh. Putain. Ahhhh."
+    u "Ohh. Putain. Ahhhh."
 
 # game/v8/scene5.rpy:70
 translate francais hoco_amb_night_b9e0d69c:
 
     # am "Ahh ah ahhh."
-    am "Ahh ah ahhh."
+    am "Ohh ah ohhh."
 
 # game/v8/scene5.rpy:75
 translate francais hoco_amb_night_0a73bda9:
@@ -40,13 +40,13 @@ translate francais hoco_amb_night_0a73bda9:
 translate francais hoco_amb_night_4e02250a:
 
     # u "Ahh fuck!"
-    u "Ahh putain !"
+    u "Ohh putain !"
 
 # game/v8/scene5.rpy:89
 translate francais hoco_amb_night_2087707f:
 
     # am "You want me to finish you off?"
-    am "Tu veux que je te finisse ?"
+    am "T'as envie que je te finisse ?"
 
 # game/v8/scene5.rpy:90
 translate francais hoco_amb_night_0eb5ed12:
@@ -64,13 +64,13 @@ translate francais hoco_amb_night_cb4ec657:
 translate francais hoco_amb_night_52d2c684:
 
     # u "Ahh!"
-    u "Ahh!"
+    u "Ahh !"
 
 # game/v8/scene5.rpy:123
 translate francais hoco_amb_night_93e081c0:
 
     # u "That felt... way better than it usually does."
-    u "C'était... bien mieux que d'habitude."
+    u "C'était... bien meilleur que d'habitude."
 
 # game/v8/scene5.rpy:128
 translate francais hoco_amb_night_279ed26d:
@@ -82,7 +82,7 @@ translate francais hoco_amb_night_279ed26d:
 translate francais hoco_amb_night_2f7799b3:
 
     # u "Damn. That was fucking good."
-    u "Merde. C'était bon putain."
+    u "Merde. C'était bon, putain."
 
 # game/v8/scene5.rpy:140
 translate francais hoco_amb_night_91f10aaf:
@@ -94,7 +94,7 @@ translate francais hoco_amb_night_91f10aaf:
 translate francais hoco_amb_night_733f5d9e:
 
     # u "Way fucking better than homecoming."
-    u "Putain, bien mieux qu'une fête de rentrée."
+    u "Putain ouais, bien mieux qu'une fête de rentrée."
 
 # game/v8/scene5.rpy:150
 translate francais hoco_amb_night_e5a1dd91:
@@ -112,7 +112,7 @@ translate francais hoco_amb_morning_5fcd9181:
 translate francais hoco_amb_morning_2b95bb58:
 
     # am "Oh shit. Must've passed out on the floor last night."
-    am "Oh merde. J'ai dû m'évanouir par terre la nuit dernière."
+    am "Oh merde. J'ai dû m'évanouir par terre pendant notre soirée."
 
 # game/v8/scene5.rpy:182
 translate francais hoco_amb_morning_e6d40b58:
@@ -130,25 +130,25 @@ translate francais hoco_amb_morning_c8d43a20:
 translate francais hoco_amb_morning_37fe551f:
 
     # u "Sure."
-    u "Bien sûr."
+    u "Avec plaisir."
 
 # game/v8/scene5.rpy:201
 translate francais v8s5_nsfwSkipLabel1_14660504:
 
     # am "Okay."
-    am "Ok."
+    am "D'accord."
 
 # game/v8/scene5.rpy:211
 translate francais v8s5_nsfwSkipLabel1_ea0397dc:
 
     # u "So where are your parents? I mean you have this whole house to yourself."
-    u "Alors, où sont tes parents ? Enfin... tu as cette maison entière pour toi."
+    u "Alors, ils sont où tes parents ? C'est vrai, t'as la maison entière pour toi toute seule."
 
 # game/v8/scene5.rpy:216
 translate francais v8s5_nsfwSkipLabel1_f88953d1:
 
     # am "Oh yeah... My parents moved away to Europe."
-    am "Oh ouais... Mes parents ont déménagé en Europe."
+    am "Ah oui... Mes parents ont déménagé en Europe."
 
 # game/v8/scene5.rpy:221
 translate francais v8s5_nsfwSkipLabel1_ef5eae93:
@@ -160,7 +160,7 @@ translate francais v8s5_nsfwSkipLabel1_ef5eae93:
 translate francais v8s5_nsfwSkipLabel1_54fa0b60:
 
     # am "Yeah, I refused to go. So they left me here, let me keep the house."
-    am "Oui, j'ai refusé de partir. Alors ils m'ont laissé ici, me laissant garder la maison."
+    am "Oui, j'ai refusé de partir. Alors ils m'ont laissé là, me laissant garder la maison."
 
 # game/v8/scene5.rpy:231
 translate francais v8s5_nsfwSkipLabel1_bd068cc9:
@@ -178,43 +178,43 @@ translate francais v8s5_nsfwSkipLabel1_86a0eb5f:
 translate francais v8s5_nsfwSkipLabel1_ebb3ba05:
 
     # u "Germany sounds pretty dope."
-    u "L'Allemagne a l'air plutôt cool."
+    u "L'Allemagne... ça l'air plutôt sympa."
 
 # game/v8/scene5.rpy:246
 translate francais v8s5_nsfwSkipLabel1_4eeb6e5b:
 
     # am "Yeah I know. But I'd rather be here. Much more my vibe."
-    am "Ouais sûrement, mais je préfère être ici. C'est plus mon style."
+    am "Ouais peut-être, mais je préfère être ici. C'est plus mon style."
 
 # game/v8/scene5.rpy:251
 translate francais v8s5_nsfwSkipLabel1_65ccfb9d:
 
     # u "Yeah, I get it."
-    u "Ouais je comprends."
+    u "Ouais je vois."
 
 # game/v8/scene5.rpy:256
 translate francais v8s5_nsfwSkipLabel1_ac32ce18:
 
     # am "I still talk to them all the time, it's not like we're estranged haha. But at least I have the house."
-    am "Je leur parle tout le temps, c'est pas comme si nous étions séparés haha. Mais au moins j'ai la maison."
+    am "Je leur parle tout le temps, c'est comme si on était pas séparés haha. Mais au moins j'ai la maison."
 
 # game/v8/scene5.rpy:261
 translate francais v8s5_nsfwSkipLabel1_74c27a44:
 
     # u "Yeah... Well, I'm gonna head out. Probably gonna try to sleep more. I still feel pretty exhausted."
-    u "Ouais... Bon, je vais y aller. Je vais essayer de dormir un peu plus. Je suis encore épuisé."
+    u "Ouais... Bon, je vais y aller. Je vais essayer de dormir encore un peu. Je suis toujours épuisé."
 
 # game/v8/scene5.rpy:266
 translate francais v8s5_nsfwSkipLabel1_b99bad85:
 
     # am "Yeah, you'll need extra rest."
-    am "Ouais, tu aurais bien besoin de repos supplémentaire."
+    am "C'est clair, tu dois avoir besoin de te recharger."
 
 # game/v8/scene5.rpy:271
 translate francais v8s5_nsfwSkipLabel1_b0c6fbf4:
 
     # u "Thanks for the invite."
-    u "Merci pour l'invitation."
+    u "Merci de m'avoir invité."
 
 # game/v8/scene5.rpy:276
 translate francais v8s5_nsfwSkipLabel1_b36f0799:
@@ -228,25 +228,25 @@ translate francais v8s5_nsfwSkipLabel1_b36f0799:
 translate francais v8s5_amberBlowjob_01df651c:
 
     # u "Ah fuck. Ahhhh."
-    u "Ah putain. Ahhhh."
+    u "Oh putain. Ahhhh."
 
 # game/v8/scene5.rpy:66
 translate francais v8s5_amberMissonary_8e8192c6:
 
     # am "Ah that feels... ah so good. Ah.. Fuck me."
-    am "Ah, ça fait... ah, c'est si bon. Ah... Baise-moi."
+    am "Oh, ça fait... oh, c'est si bon. Ah... Baise-moi."
 
 # game/v8/scene5.rpy:71
 translate francais v8s5_amberMissonary_ffa53ab5:
 
     # u "Ahh. Fuck. Ahhh."
-    u "Ahh. Putain. Ahhh."
+    u "Ohh. Putain. Ahhh."
 
 # game/v8/scene5.rpy:76
 translate francais v8s5_amberMissonary_b9e0d69c:
 
     # am "Ahh ah ahhh."
-    am "Ahh ah ahhh."
+    am "Ahh ah ohhh."
 
 # game/v8/scene5.rpy:81
 translate francais v8s5_amberMissonary_0a73bda9:
@@ -258,13 +258,13 @@ translate francais v8s5_amberMissonary_0a73bda9:
 translate francais v8s5_amberMissonary_4e02250a:
 
     # u "Ahh fuck!"
-    u "Ahh putain !"
+    u "Ohh putain !"
 
 # game/v8/scene5.rpy:95
 translate francais v8s5_amberMissonary_2087707f:
 
     # am "You want me to finish you off?"
-    am "Tu veux que je te finisse ?"
+    am "T'as envie que je te finisse ?"
 
 # game/v8/scene5.rpy:96
 translate francais v8s5_amberMissonary_0eb5ed12:
@@ -288,7 +288,7 @@ translate francais v8s5_amberFacefuck_52d2c684:
 translate francais v8s5_amberFacefuck_93e081c0:
 
     # u "That felt... way better than it usually does."
-    u "C'était... bien mieux que d'habitude."
+    u "C'était... bien meilleur que d'habitude."
 
 # game/v8/scene5.rpy:135
 translate francais v8s5_amberFacefuck_279ed26d:
@@ -306,13 +306,13 @@ translate francais v8s5_amberFacefuck_2f7799b3:
 translate francais v8s5_amberFacefuck_91f10aaf:
 
     # am "Haha yeah. Better than homecoming?"
-    am "Haha yeah. Mieux qu'une fête de rentrée ?"
+    am "Haha ouais. Mieux qu'une fête de rentrée ?"
 
 # game/v8/scene5.rpy:153
 translate francais v8s5_amberFacefuck_733f5d9e:
 
     # u "Way fucking better than homecoming."
-    u "Putain, c'est bien mieux qu'une fête de rentrée."
+    u "Putain ouais, bien mieux qu'une fête de rentrée."
 
 # game/v8/scene5.rpy:158
 translate francais v8s5_amberFacefuck_e5a1dd91:

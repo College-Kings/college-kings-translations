@@ -286,7 +286,7 @@ translate francais v13s41_d568ad03:
 translate francais v13s41_5362af74:
 
     # u "Everything else as in the loss of your mom? You've been keeping yourself busy ever since you lost her..."
-    u "Tout le reste comme dans la perte de ta mère ? Tu ne cesse de t'occuper de tout, depuis que tu l'as perdue..."
+    u "Tout le reste comme dans la perte de ta mère ? T'arrêtes pas de t'occuper de tout, depuis que tu l'as perdue..."
 
 # game/v13/scene41.rpy:298
 translate francais v13s41_6187a88b:
@@ -304,7 +304,7 @@ translate francais v13s41_7f28a63f:
 translate francais v13s41_5359cd5d:
 
     # u "I'd truly hate for any of it to come back and get under your skin."
-    u "Je ne voudrais vraiment pas que tout te retombe dessus."
+    u "Je voudrais vraiment pas que tout te retombe dessus."
 
 # game/v13/scene41.rpy:313
 translate francais v13s41_7db0a42e:
@@ -400,7 +400,7 @@ translate francais v13s41_812d9fa2:
 translate francais v13s41_e3f80a54:
 
     # u "In the long run, they're just hurting themselves."
-    u "À long terme, ils ne feront que se faire du mal."
+    u "À long terme, ils feront que se faire du mal."
 
 # game/v13/scene41.rpy:412
 translate francais v13s41_4fddb19c:
@@ -466,7 +466,7 @@ translate francais v13s41_cab9ad3c:
 translate francais v13s41_ea6f02cf:
 
     # u "I hear you. Guess you can't have everything perfectly the way you want, huh?"
-    u "Je comprends. Je devine que tu ne peux pas tout avoir tout ce que tu désires, hein ?"
+    u "Je comprends. Je devine que tu peux pas tout avoir tout ce que tu désires, hein ?"
 
 # game/v13/scene41.rpy:475
 translate francais v13s41_b0d05fd5:
@@ -490,7 +490,7 @@ translate francais v13s41_7b39e37b:
 translate francais v13s41_c26f272b:
 
     # u "And I may not be a girl, but I hope I'll do."
-    u "Et même si je ne suis pas une fille, j'espère que je le pourrai."
+    u "Et même si je suis pas une fille, j'espère que je le pourrai."
 
 # game/v13/scene41.rpy:499
 translate francais v13s41_3ba20a33:
@@ -556,7 +556,7 @@ translate francais v13s41_0987c127:
 translate francais v13s41_3293d9ee:
 
     # u "We're in Amsterdam, in the middle of the night, on a ferris wheel. If this isn't beautiful, then I don't know what beautiful is. *Chuckles*"
-    u "On est à Amsterdam, au milieu de la nuit, sur une grande roue. Si ça, ce n'est pas magnifique, alors je ne sais pas ce qui l'est. *Rire*"
+    u "On est à Amsterdam, au milieu de la nuit, sur une grande roue. Si ça, ce n'est pas magnifique, alors je sais pas ce qui l'est. *Rire*"
 
 # game/v13/scene41.rpy:580
 translate francais v13s41_4a530135:

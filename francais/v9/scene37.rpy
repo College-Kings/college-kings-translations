@@ -40,7 +40,7 @@ translate francais v9_run_w_ryan_0eae419b:
 translate francais v9_run_w_ryan_a73d3000:
 
     # u "Is that really what your worried about? Don't worry, you'll do fine."
-    u "C'est vraiment ce qui t'inquiète ? Ne t'inquiète pas, tu vas t'en sortir."
+    u "C'est vraiment ce qui t'inquiète ? T'inquiète pas, tu vas t'en sortir."
 
 # game/v9/scene37.rpy:62
 translate francais v9_run_w_ryan_3c6469b5:
@@ -100,7 +100,7 @@ translate francais v9_run_w_ryan_cebbbd6f:
 translate francais v9_run_w_ryan_8fc23b74:
 
     # u "Bro chill, we can't get caught fucking with him before the brawl. We'd get our asses chewed out!"
-    u "Frère relax, on ne peut pas se faire prendre se battre avec lui avant le brawl. On se ferait botter le cul !"
+    u "Frère relax, on peut pas se faire prendre se battre avec lui avant le brawl. On se ferait botter le cul !"
 
 # game/v9/scene37.rpy:122
 translate francais v9_run_w_ryan_1fd380b0:

@@ -16,7 +16,7 @@ translate francais v9_wolves_pre_fight_be6febb1:
 translate francais v9_wolves_pre_fight_4a098bc2:
 
     # u "(I hope Lindsey's not mad at me. She's a nice girl. And she's really hot! I don't wanna blow it.)"
-    u "(J'espère que Lindsey n'est pas en colère contre moi. C'est une fille sympa. Et elle est vraiment sexy ! Je ne veux pas tout gâcher.)"
+    u "(J'espère que Lindsey n'est pas en colère contre moi. C'est une fille sympa. Et elle est vraiment sexy ! Je veux pas tout gâcher.)"
 
 # game/v9/scene40.rpy:24
 translate francais v9_wolves_pre_fight_b95d2744:

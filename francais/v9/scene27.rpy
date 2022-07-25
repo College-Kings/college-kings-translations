@@ -10,7 +10,7 @@ translate francais v9_train_w_apes_77a54587:
 translate francais v9_train_w_apes_5fc0997f:
 
     # u "What's up? Is something wrong?"
-    u "Qu'est-ce qui se passe ? Quelque chose ne va pas ?"
+    u "Qu'est-ce qui se passe ? Quelque chose va pas ?"
 
 # game/v9/scene27.rpy:35
 translate francais v9_train_w_apes_fad68cff:
@@ -124,7 +124,7 @@ translate francais v9_train_w_apes_781dd3fd:
 translate francais v9_train_w_apes_c6e8a3b3:
 
     # u "(Not falling for that.)"
-    u "(Je ne tombe pas dans le panneau.)"
+    u "(Je tombe pas dans le panneau.)"
 
 # game/v9/scene27.rpy:136
 translate francais v9_train_w_apes_bb6c5f14:
@@ -166,13 +166,13 @@ translate francais v9_train_w_apes_98c0e1b1:
 translate francais v9_train_w_apes_96c5b347:
 
     # ca "When I get done with you, no punk will even THINK about starting shit again. You hear me?"
-    ca "Quand j'en aurai fini avec toi, plus aucun minable ne voudra te chercher la merde. Tu m'entends ?"
+    ca "Quand j'en aurai fini avec toi, plus aucun minable voudra te chercher la merde. Tu m'entends ?"
 
 # game/v9/scene27.rpy:179
 translate francais v9_train_w_apes_f95a5b53:
 
     # u "Aww, I don't know. It wasn't that big a deal."
-    u "Aww, je ne sais pas. C'était pas si important."
+    u "Aww, je sais pas. C'était pas si important."
 
 # game/v9/scene27.rpy:184
 translate francais v9_train_w_apes_6589919d:
@@ -214,7 +214,7 @@ translate francais v9_train_w_apes_6e511561:
 translate francais v9_train_w_apes_6fce52cf:
 
     # ca "Chris is no dumbass. He's seen your punch a thousand times by now and he's training those Wolf cubs to strike first. They're gonna be worried about that punch, so we're not gonna give it to 'em."
-    ca "Chris n'est pas totalement con, lui. Il a maté ton coup de poing des milliers de fois maintenant et il entraîne ces louveteaux à frapper les premiers. Ils vont s'inquiéter de ce coup de poing, donc on ne va pas le leur donner."
+    ca "Chris n'est pas totalement con, lui. Il a maté ton coup de poing des milliers de fois maintenant et il entraîne ces louveteaux à frapper les premiers. Ils vont s'inquiéter de ce coup de poing, donc on va pas le leur donner."
 
 # game/v9/scene27.rpy:216
 translate francais v9_train_w_apes_ee7ad2c0:
@@ -232,7 +232,7 @@ translate francais v9_train_w_apes_1f1d929c:
 translate francais v9_train_w_apes_76d47545:
 
     # ca "Footwork. That's where it's at. You have the power behind that fist. They're expecting it. You gotta hit 'em WHERE they're not expecting."
-    ca "Le jeu de jambes. C'est là qu'ça s'passe. T'as la puissance derrière ce poing. Ils s'y attendent. Tu dois les frapper là où ils ne s'y attendent pas."
+    ca "Le jeu de jambes. C'est là qu'ça s'passe. T'as la puissance derrière ce poing. Ils s'y attendent. Tu dois les frapper là où ils s'y attendent pas."
 
 # game/v9/scene27.rpy:231
 translate francais v9_train_w_apes_b6911cac:
@@ -274,7 +274,7 @@ translate francais v9_train_w_apes_fbfedc5f:
 translate francais v9_train_w_apes_9bf261e4:
 
     # u "(I'm not trying to send someone to the fucking hospital here.)"
-    u "(Je ne veux pas envoyer quelqu'un à ce putain d'hôpital, moi.)"
+    u "(Je veux pas envoyer quelqu'un à ce putain d'hôpital, moi.)"
 
 # game/v9/scene27.rpy:262
 translate francais v9_train_w_apes_520929c1:
@@ -316,7 +316,7 @@ translate francais v9_train_w_apes_b4953937:
 translate francais v9_train_w_apes_553c74d1:
 
     # u "You can show me some moves so I don't embarrass the fuck out of myself. And this house."
-    u "Tu peux me montrer quelques mouvements pour que je ne me ridiculise pas. Et que je ne ridiculises pas cette maison."
+    u "Tu peux me montrer quelques mouvements pour que je me ridiculise pas. Et que je ridiculises pas cette maison."
 
 # game/v9/scene27.rpy:296
 translate francais v9_train_w_apes_6abd8fff:
@@ -364,7 +364,7 @@ translate francais v9_train_w_apes_16bf1016:
 translate francais v9_train_w_apes_dd03a9e3:
 
     # u "Look. I was just trying not to fight in the middle of school. You want me to get expelled or something? Geez."
-    u "Écoute. J'essayais juste de ne pas me battre en plein milieu de l'école. Tu veux que je sois expulsé ou quelque chose comme ça ? Putain."
+    u "Écoute. J'essayais juste de pas me battre en plein milieu de l'école. Tu veux que je sois expulsé ou quelque chose comme ça ? Putain."
 
 # game/v9/scene27.rpy:333
 translate francais v9_train_w_apes_83694a48:
@@ -436,7 +436,7 @@ translate francais v9_train_w_apes_b5515944:
 translate francais v9_train_w_apes_79e7d75a:
 
     # ca "Neither will he!"
-    ca "Il ne le verra pas non plus !"
+    ca "Il le verra pas non plus !"
 
 # game/v9/scene27.rpy:412
 translate francais v9_train_w_apes_310c19c1:

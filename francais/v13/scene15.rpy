@@ -10,7 +10,7 @@ translate francais v13s15_e99db1b7:
 translate francais v13s15_bfb2c4b5:
 
     # u "(I can't see a damn thing.)"
-    u "(Je ne vois rien du tout.)"
+    u "(Je vois rien du tout.)"
 
 # game/v13/scene15.rpy:39
 translate francais v13s15_718f474c:
@@ -46,7 +46,7 @@ translate francais v13s15_f83bee6f:
 translate francais v13s15_79a1274d:
 
     # u "I didn't wanna wake you."
-    u "Je ne voulais pas te réveiller."
+    u "Je voulais pas te réveiller."
 
 # game/v13/scene15.rpy:74
 translate francais v13s15_a8db311c:
@@ -148,7 +148,7 @@ translate francais v13s15_PhoneContinueLauren_e7caa1cd:
 translate francais v13s15_PhoneContinueLauren_4b8d879c:
 
     # u "I'll try not to, but who knows with Imre."
-    u "Je vais essayer de ne pas l'être, mais qui sait avec Imre."
+    u "Je vais essayer de pas l'être, mais qui sait avec Imre."
 
 # game/v13/scene15.rpy:232
 translate francais v13s15_PhoneContinueLauren_14700b49:
@@ -160,7 +160,7 @@ translate francais v13s15_PhoneContinueLauren_14700b49:
 translate francais v13s15_PhoneContinueLauren_359d3734:
 
     # u "(What she doesn't know won't hurt her.)"
-    u "(Ce qu'elle ne sait pas ne lui fera pas de mal.)"
+    u "(Ce qu'elle sait pas lui fera pas de mal.)"
 
 translate francais strings:
 

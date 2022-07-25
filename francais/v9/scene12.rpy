@@ -28,7 +28,7 @@ translate francais v9_hallway_b92814ec:
 translate francais v9_hall_apol_b825fe4f:
 
     # u "Sorry, dude. I didn't see you there."
-    u "Désolé. Je ne t'avais pas vu."
+    u "Désolé. Je t'avais pas vu."
 
 # game/v9/scene12.rpy:62
 translate francais v9_hall_apol_719c0a01:
@@ -142,7 +142,7 @@ translate francais v9_hall_punch_20c2d50f:
 translate francais v9_hall_punch_8a6fe218:
 
     # u "(I should not let things catch me off guard. Ever. And I will not.)"
-    u "(Je ne devrais pas laisser les choses me prendre au dépourvu. Jamais. Et je ne le ferai pas.)"
+    u "(Je devrais pas laisser les choses me prendre au dépourvu. Jamais. Et je le ferai pas.)"
 
 # game/v9/scene12.rpy:218
 translate francais v9_hall_punch_2bfb8d77:

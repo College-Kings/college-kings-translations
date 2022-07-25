@@ -76,7 +76,7 @@ translate francais v11_carriage_ride_5506cb6c:
 translate francais v11_carriage_ride_1d2388c3:
 
     # u "Haha, yeah, I'm fine. There may be some bad blood, but I'm not getting hung up over it right now. We have carriages to ride, remember? *Chuckles*"
-    u "Haha, ouais, je vais bien. Il y a peut-être un peu d'animosité, mais je ne m'en préoccupe pas pour l'instant. Nous avons des carrosses à conduire, tu te souviens ?  *Rire*"
+    u "Haha, ouais, je vais bien. Il y a peut-être un peu d'animosité, mais je m'en préoccupe pas pour l'instant. Nous avons des carrosses à conduire, tu te souviens ?  *Rire*"
 
 # game/v11/scene40.rpy:92
 translate francais v11_carriage_ride_8f3cb627:
@@ -94,7 +94,7 @@ translate francais v11_carriage_ride_b684bf40:
 translate francais v11_carriage_ride_bc726b0b:
 
     # u "Well, some people may not want to admit it but, Mr. Lee is actually a really good professor."
-    u "Certaines personnes ne veulent peut-être pas l'admettre, mais Mr Lee est un très bon professeur."
+    u "Certaines personnes veulent peut-être pas l'admettre, mais Mr Lee est un très bon professeur."
 
 # game/v11/scene40.rpy:104
 translate francais v11_carriage_ride_f993894c:
@@ -160,7 +160,7 @@ translate francais v11_carriage_ride_5435ac46:
 translate francais v11_carriage_ride_5b761454:
 
     # u "Not gonna lie, I've been out exploring all day, so it'll be nice to relax for a bit. Maybe I'll even take a nap on the ride, haha."
-    u "Je ne vais pas mentir, j'ai fait des visites toute la journée, alors ça va me faire du bien de me détendre un peu. Peut-être même que je ferai une sieste pendant le trajet, haha."
+    u "Je vais pas mentir, j'ai fait des visites toute la journée, alors ça va me faire du bien de me détendre un peu. Peut-être même que je ferai une sieste pendant le trajet, haha."
 
 # game/v11/scene40.rpy:159
 translate francais v11_carriage_ride_42776f7d:
@@ -196,19 +196,19 @@ translate francais v11_carriage_ride_f82c9a6b:
 translate francais v11_carriage_ride_8720366a:
 
     # u "Haha, sorry. Don't worry though, you're not alone. And look, I think Chloe and Nora are ready to go."
-    u "Haha, désolé. Ne t'inquiète pas, tu n'es pas seule. Et regarde, je pense que Chloé et Nora sont prêtes à partir."
+    u "Haha, désolé. T'inquiète pas, tu n'es pas seule. Et regarde, je pense que Chloé et Nora sont prêtes à partir."
 
 # game/v11/scene40.rpy:196
 translate francais v11_carriage_ride_78a3c4ad:
 
     # u "Don't worry, I wouldn't do that to you. *Chuckles* That'd be like me having to ride with Charli, Imre and Ryan."
-    u "Ne t'inquiète pas, je ne te ferais pas ça. *Rire* Ce serait comme monter avec Charli, Imre et Ryan."
+    u "Ne t'inquiète pas, je te ferais pas ça. *Rire* Ce serait comme monter avec Charli, Imre et Ryan."
 
 # game/v11/scene40.rpy:198
 translate francais v11_carriage_ride_2532baf3:
 
     # u "There's no telling what would happen on that ride, but it's most likely not gonna end well."
-    u "On ne sait pas ce qui va se passer pendant ce parcours, mais ça va sûrement mal se terminer."
+    u "On sait pas ce qui va se passer pendant ce parcours, mais ça va sûrement mal se terminer."
 
 # game/v11/scene40.rpy:203
 translate francais v11_carriage_ride_c8a22771:
@@ -928,7 +928,7 @@ translate francais v11_carriage_ride_55a95016:
 translate francais v11_carriage_ride_d5010185:
 
     # u "She hasn't announced it yet but Lindsey is going to run for president."
-    u "Elle ne l'a pas encore annoncé mais Lindsey va se présenter à la présidence."
+    u "Elle l'a pas encore annoncé mais Lindsey va se présenter à la présidence."
 
 # game/v11/scene40.rpy:880
 translate francais v11_carriage_ride_2d96d223:
@@ -952,7 +952,7 @@ translate francais v11_carriage_ride_6a27edeb:
 translate francais v11_carriage_ride_bbf6f5b1:
 
     # u "I know, I can't expect you to keep this from her. Besides, she needs to know anyway."
-    u "Je sais, je ne peux pas m'attendre à ce que tu lui caches ça. D'ailleurs, elle doit le savoir de toute façon."
+    u "Je sais, je peux pas m'attendre à ce que tu lui caches ça. D'ailleurs, elle doit le savoir de toute façon."
 
 # game/v11/scene40.rpy:905
 translate francais v11_carriage_ride_2e7df621:
@@ -976,7 +976,7 @@ translate francais v11_carriage_ride_4857bbd6:
 translate francais v11_carriage_ride_c8a7cad9:
 
     # u "I don't think you should tell her, it could cause some real issues between her and Lindsey. Can't it wait until Lindsey announces that she's running?"
-    u "Je ne pense pas que tu devrais lui dire, ça pourrait causer de vrais problèmes entre elle et Lindsey. Ça ne peut pas attendre que Lindsey annonce qu'elle se présente ?"
+    u "Je pense pas que tu devrais lui dire, ça pourrait causer de vrais problèmes entre elle et Lindsey. Ça peut pas attendre que Lindsey annonce qu'elle se présente ?"
 
 # game/v11/scene40.rpy:931
 translate francais v11_carriage_ride_9867cdcb:
@@ -1115,4 +1115,4 @@ translate francais v11_carriage_ride_58034ecb:
 translate francais v11_carriage_ride_fb5a1a09:
 
     # u "She hasn't announced it yet but Lindsey is going to run for President."
-    u "Elle ne l'a pas encore annoncé mais Lindsey va se présenter à la présidence."
+    u "Elle l'a pas encore annoncé mais Lindsey va se présenter à la présidence."

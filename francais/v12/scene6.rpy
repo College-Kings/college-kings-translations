@@ -28,7 +28,7 @@ translate francais v12_docks_8fcae1f8:
 translate francais v12_docks_6fee75da:
 
     # u "As long as there's extra credit at the end, I won't be too mad."
-    u "Tant qu'il y a des points supplémentaires à la fin, je ne serai pas trop mécontent."
+    u "Tant qu'il y a des points supplémentaires à la fin, je serai pas trop mécontent."
 
 # game/v12/scene6.rpy:57
 translate francais v12_docks_6c8060e6:

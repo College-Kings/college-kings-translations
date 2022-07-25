@@ -46,7 +46,7 @@ translate francais v11_dinner_with_lauren_2519d9ba:
 translate francais v11_dinner_with_lauren_3b34f9f9:
 
     # u "Wait, what? What do you know that I don't? *Chuckles*"
-    u "Attends, quoi ? Qu'est-ce que tu sais que je ne sais pas ?  *Rire*"
+    u "Attends, quoi ? Qu'est-ce que tu sais que je sais pas ?  *Rire*"
 
 # game/v11/scene46.rpy:46
 translate francais v11_dinner_with_lauren_bad20935:
@@ -82,7 +82,7 @@ translate francais v11_dinner_with_lauren_30eeb8a2:
 translate francais v11_dinner_with_lauren_fe653dab:
 
     # u "Have you noticed his behavior lately? I don't know if I'm just now noticing it or if he's always been this way, but Mr. Lee really cares about his students."
-    u "As-tu remarqué son comportement dernièrement ? Je ne sais pas si je ne le remarque que maintenant ou s'il a toujours été comme ça, mais Mr Lee se soucie vraiment de ses élèves."
+    u "As-tu remarqué son comportement dernièrement ? Je sais pas si je le remarque que maintenant ou s'il a toujours été comme ça, mais Mr Lee se soucie vraiment de ses élèves."
 
 # game/v11/scene46.rpy:76
 translate francais v11_dinner_with_lauren_d1d652d7:
@@ -184,7 +184,7 @@ translate francais v11_dinner_with_lauren_bcc8d87d:
 translate francais v11_dinner_with_lauren_47228d44:
 
     # u "That's something Charli definitely doesn't know how to do. *Laughs* Amber really has spiced you up."
-    u "C'est quelque chose que Charli ne sait définitivement pas faire. *Rire* Amber a vraiment mis du piment dans ta vie."
+    u "C'est quelque chose que Charli sait définitivement pas faire. *Rire* Amber a vraiment mis du piment dans ta vie."
 
 # game/v11/scene46.rpy:155
 translate francais v11_dinner_with_lauren_0f138ff5:
@@ -232,7 +232,7 @@ translate francais v11_dinner_with_lauren_ece9ed03:
 translate francais v11_dinner_with_lauren_6aec1993:
 
     # u "Haha, yeah I actually did. I think I just thought I was cool or something, I don't know."
-    u "Haha, oui, je l'ai fait. Je pense que j'ai juste pensé que j'étais cool ou quelque chose comme ça, je ne sais pas."
+    u "Haha, oui, je l'ai fait. Je pense que j'ai juste pensé que j'étais cool ou quelque chose comme ça, je sais pas."
 
 # game/v11/scene46.rpy:198
 translate francais v11_dinner_with_lauren_7e35cf7a:
@@ -250,7 +250,7 @@ translate francais v11_dinner_with_lauren_287eea05:
 translate francais v11_dinner_with_lauren_a49ed0c6:
 
     # u "Haha, I don't think so, no. Why?"
-    u "Haha, je ne pense pas, non. Pourquoi ?"
+    u "Haha, je pense pas, non. Pourquoi ?"
 
 # game/v11/scene46.rpy:215
 translate francais v11_dinner_with_lauren_a14cefc3:
@@ -304,7 +304,7 @@ translate francais v11_dinner_with_lauren_76410080:
 translate francais v11_dinner_with_lauren_1b507994:
 
     # u "Oh. Well... As I've said before, it's up to you. I'm only ready if you're ready."
-    u "Oh. Et bien... Comme je l'ai déjà dit, c'est à toi de décider. Je ne serais prêt que lorsque tu le seras."
+    u "Oh. Et bien... Comme je l'ai déjà dit, c'est à toi de décider. Je serais prêt que lorsque tu le seras."
 
 # game/v11/scene46.rpy:261
 translate francais v11_dinner_with_lauren_4d5fea48:
@@ -340,7 +340,7 @@ translate francais v11_dinner_with_lauren_e0386564:
 translate francais v11_dinner_with_lauren_47139336:
 
     # u "If it's nothing then why can't you just tell me? *Laughs*"
-    u "Si ce n'y a pas à s'inquiéter, pourquoi tu ne me le dis pas ? *Rire*"
+    u "Si ce n'y a pas à s'inquiéter, pourquoi tu me le dis pas ? *Rire*"
 
 # game/v11/scene46.rpy:291
 translate francais v11_dinner_with_lauren_3c670bc2:
@@ -352,7 +352,7 @@ translate francais v11_dinner_with_lauren_3c670bc2:
 translate francais v11_dinner_with_lauren_f06a1e5a:
 
     # u "Come on, Lauren. I won't laugh."
-    u "Allez, Lauren. Je ne vais pas rire."
+    u "Allez, Lauren. Je vais pas rire."
 
 # game/v11/scene46.rpy:301
 translate francais v11_dinner_with_lauren_07d73fbd:
@@ -394,7 +394,7 @@ translate francais v11_dinner_with_lauren_eb384335:
 translate francais v11_dinner_with_lauren_81592ef3:
 
     # u "Yeah, Lauren was saying something about a nickname you gave her, but she won't tell me because she thinks I'm gonna laugh."
-    u "Oui, Lauren a dit quelque chose à propos d'un surnom que tu lui as donné, mais elle ne veut pas me le dire parce qu'elle crois que je vais rire."
+    u "Oui, Lauren a dit quelque chose à propos d'un surnom que tu lui as donné, mais elle veut pas me le dire parce qu'elle crois que je vais rire."
 
 # game/v11/scene46.rpy:335
 translate francais v11_dinner_with_lauren_640c1509:

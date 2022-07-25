@@ -11,7 +11,7 @@ init python:
             return
 
         if pb_kct_notification:
-            renpy.show_screen("popup", message="{} point ajouté".format(var.value.capitalize()))
+            renpy.show_screen("popup", message="{} point ajoute".format(var.value.capitalize()))
 
         # Update the KCT variables
         setattr(store, var.value, getattr(store, var.value) + value)
@@ -19,18 +19,20 @@ init python:
         old_kct = kct
 
         # Sort KCT values
-        kct_dict = {
-            "populaire":bro * troublemaker / float(boyfriend),
+        kctDict = {
+            "popular":bro * troublemaker / float(boyfriend),
             "confident": boyfriend * troublemaker / float(bro),
             "loyal": bro * boyfriend / float(troublemaker)
         }
 
+        store.sortedKCT = [k for k, v in sorted(kctDict.items(), key=lambda item: item[1], reverse=True)]
+
         # Update KCT
-        store.kct = max(kct_dict, key=lambda k: kct_dict[k])
+        store.kct = sortedKCT[0]
 
         # Notify user on KCT change
-        if kct != old_kct:
-            renpy.notify("Ton trait de caractère clé a changé en " + kct)
+        if sortedKCT[0] != old_kct:
+            renpy.notify("Ton trait de caractere cle a change en " + kct)
 
 
 # KCT Screens
@@ -60,9 +62,9 @@ screen kct_popup(required_kct=None):
     zorder 300
 
     if required_kct is None or required_kct == kct:
-        $ message = "Félicitations ! Ton trait de caractère clé {{b}}{}{{/b}} vient de changer l'issue d'une décision que quelqu'un était en train de prendre.".format(kct)
+        $ message = "Felicitations ! Ton trait de caractere cle {{b}}{}{{/b}} vient de changer l'issue d'une decision que quelqu'un était en train de prendre.".format(kct)
     else:
-        $ message = "Malheureusement, ton Trait de caractère clé {{b}}{}{/b}} n'a pas changé l'issue de cette décision.".format(kct)
+        $ message = "Malheureusement, ton Trait de caractere cle {{b}}{}{/b}} n'a pas change l'issue de cette decision.".format(kct)
 
     use alert_template(message):
         textbutton "OK":

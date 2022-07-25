@@ -136,7 +136,7 @@ translate francais v13s9_PhoneContinuePenelope_b88d72fb:
 translate francais v13s9_PhoneContinuePenelope_48347840:
 
     # u "I may not be able to stay forever, but I'm coming with you."
-    u "Je ne pourrai peut-être pas rester longtemps, mais je viens avec toi."
+    u "Je pourrai peut-être pas rester longtemps, mais je viens avec toi."
 
 # game/v13/scene10.rpy:184
 translate francais v13s9_PhoneContinuePenelope_add3664e:

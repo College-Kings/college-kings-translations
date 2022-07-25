@@ -118,7 +118,7 @@ translate francais v12_murder_mystery_reveal_db3ddf50:
 translate francais v12_murder_mystery_reveal_29d35b9c:
 
     # u "My bad, I'm not a skilled killer."
-    u "C'est ma faute, je ne suis pas un tueur qualifié."
+    u "C'est ma faute, je suis pas un tueur qualifié."
 
 # game/v12/scene8.rpy:128
 translate francais v12_murder_mystery_reveal_38afb680:

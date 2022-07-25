@@ -10,7 +10,7 @@ translate francais v10_riley_sex_b4784014:
 translate francais v10_riley_sex_0deeeed6:
 
     # u "I don't mind."
-    u "Ça ne me dérange pas."
+    u "Ça me dérange pas."
 
 # game/v10/scene40.rpy:22
 translate francais v10_riley_sex_b53236bf:
@@ -106,7 +106,7 @@ translate francais v10s40_galleryScene_27b2dc54:
 translate francais v10s40_galleryScene_46226e29:
 
     # u "Uhhh... I'm not sure."
-    u "Euhhh... Je ne sais pas trop."
+    u "Euhhh... Je sais pas trop."
 
 # game/v10/scene40.rpy:125
 translate francais v10s40_galleryScene_c584e05c:
@@ -448,7 +448,7 @@ translate francais v10s40_galleryScene_27b2dc54_1:
 translate francais v10s40_galleryScene_46226e29_1:
 
     # u "Uhhh... I'm not sure."
-    u "Euhhh... Je ne sais pas trop."
+    u "Euhhh... Je sais pas trop."
 
 # game/v10/scene40.rpy:458
 translate francais v10s40_galleryScene_c584e05c_1:
@@ -718,7 +718,7 @@ translate francais v10s40_galleryScene_27b2dc54_2:
 translate francais v10s40_galleryScene_46226e29_2:
 
     # u "Uhhh... I'm not sure."
-    u "Euhhh... Je ne sais pas trop."
+    u "Euhhh... Je sais pas trop."
 
 # game/v10/scene40.rpy:710
 translate francais v10s40_galleryScene_c584e05c_2:
@@ -964,7 +964,7 @@ translate francais v10s40_galleryScene_27b2dc54_3:
 translate francais v10s40_galleryScene_46226e29_3:
 
     # u "Uhhh... I'm not sure."
-    u "Euhhh... Je ne sais pas trop."
+    u "Euhhh... Je sais pas trop."
 
 # game/v10/scene40.rpy:933
 translate francais v10s40_galleryScene_c584e05c_3:
@@ -1150,7 +1150,7 @@ translate francais v10s40_galleryScene_27b2dc54_4:
 translate francais v10s40_galleryScene_46226e29_4:
 
     # u "Uhhh... I'm not sure."
-    u "Euhhh... Je ne sais pas trop."
+    u "Euhhh... Je sais pas trop."
 
 # game/v10/scene40.rpy:1116
 translate francais v10s40_galleryScene_c584e05c_4:
@@ -1498,7 +1498,7 @@ translate francais v10s40_rileyCowgirl_27b2dc54:
 translate francais v10s40_rileyCowgirl_46226e29:
 
     # u "Uhhh... I'm not sure."
-    u "Euhhh... Je ne sais pas trop."
+    u "Euhhh... Je sais pas trop."
 
 # game/v10/scene40.rpy:465
 translate francais v10s40_rileyCowgirl_c584e05c:
@@ -1768,7 +1768,7 @@ translate francais v10s40_rileyCowgirl_27b2dc54_1:
 translate francais v10s40_rileyCowgirl_46226e29_1:
 
     # u "Uhhh... I'm not sure."
-    u "Euhhh... Je ne sais pas trop."
+    u "Euhhh... Je sais pas trop."
 
 # game/v10/scene40.rpy:723
 translate francais v10s40_rileyCowgirl_c584e05c_1:
@@ -2014,7 +2014,7 @@ translate francais v10s40_rileyCowgirl_27b2dc54_2:
 translate francais v10s40_rileyCowgirl_46226e29_2:
 
     # u "Uhhh... I'm not sure."
-    u "Euhhh... Je ne sais pas trop."
+    u "Euhhh... Je sais pas trop."
 
 # game/v10/scene40.rpy:950
 translate francais v10s40_rileyCowgirl_c584e05c_2:
@@ -2200,7 +2200,7 @@ translate francais v10s40_rileyCowgirl_27b2dc54_3:
 translate francais v10s40_rileyCowgirl_46226e29_3:
 
     # u "Uhhh... I'm not sure."
-    u "Euhhh... Je ne sais pas trop."
+    u "Euhhh... Je sais pas trop."
 
 # game/v10/scene40.rpy:1133
 translate francais v10s40_rileyCowgirl_c584e05c_3:

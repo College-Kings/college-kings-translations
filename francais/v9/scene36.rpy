@@ -70,7 +70,7 @@ translate francais v9_run_w_imre_8aa1e63c:
 translate francais v9_run_w_imre_0f044105:
 
     # u "Then don't get the shit beat out of you."
-    u "Alors ne te fais pas tabasser."
+    u "Alors te fais pas tabasser."
 
 # game/v9/scene36.rpy:86
 translate francais v9_run_w_imre_265be1cb:
@@ -130,7 +130,7 @@ translate francais v9_run_w_imre_ef3e7e2f:
 translate francais v9_run_w_imre_8fc23b74:
 
     # u "Bro chill, we can't get caught fucking with him before the brawl. We'd get our asses chewed out!"
-    u "Frère relax, on ne peut pas se faire choper à se battre avec lui avant le brawl. On se ferait botter le cul !"
+    u "Frère relax, on peut pas se faire choper à se battre avec lui avant le brawl. On se ferait botter le cul !"
 
 # game/v9/scene36.rpy:146
 translate francais v9_run_w_imre_bbee20b0:

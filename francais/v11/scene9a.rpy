@@ -520,7 +520,7 @@ translate francais v11s9a_kiwiiPost2_continue_55176f9a:
 translate francais v11s9a_kiwiiPost2_continue_5dd3b196:
 
     # u "Too bad we can't help... Imre and I are going to Europe."
-    u "Dommage qu'on ne puisse pas aider... Imre et moi allons en Europe."
+    u "Dommage qu'on puisse pas aider... Imre et moi allons en Europe."
 
 # game/v11/scene9a.rpy:615
 translate francais v11s9a_kiwiiPost2_continue_33a814b8:

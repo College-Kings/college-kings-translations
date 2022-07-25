@@ -112,7 +112,7 @@ translate francais v13s12a_e71fe66b:
 translate francais v13s12a_af417aba:
 
     # u "I CAN'T HEAR YOU!"
-    u "JE NE T'ENTENDS PAS !"
+    u "JE T'ENTENDS PAS !"
 
 # game/v13/scene12a.rpy:143
 translate francais v13s12a_8f07dfa1:
@@ -160,7 +160,7 @@ translate francais v13s12a_e0ef9d2e:
 translate francais v13s12a_f391cfc9:
 
     # u "(I don't want any attention.)"
-    u "(Je ne veux pas attirer l'attention.)"
+    u "(Je veux pas attirer l'attention.)"
 
 # game/v13/scene12a.rpy:186
 translate francais v13s12a_a9da8792:
@@ -226,7 +226,7 @@ translate francais v13s12a_af33abad:
 translate francais v13s12a_8f8d7bfc:
 
     # u "LISTEN MY GUY, IF YOU DON'T CHILL THE FUCK OUT AND ENJOY THE SHOW, I'LL KNOCK YOUR TEETH IN."
-    u "ECOUTE MON POTE, SI TU NE TE DÉTENDS PAS ET N'APPRÉCIES PAS LE SPECTACLE, JE TE CASSE LES DENTS."
+    u "ECOUTE MON POTE, SI TU TE DÉTENDS PAS ET N'APPRÉCIES PAS LE SPECTACLE, JE TE CASSE LES DENTS."
 
 # game/v13/scene12a.rpy:242
 translate francais v13s12a_a51983b6:

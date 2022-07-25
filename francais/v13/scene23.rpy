@@ -34,7 +34,7 @@ translate francais v13s23_ef13a2ef:
 translate francais v13s23_609a801d:
 
     # u "Long story short, he won't be around anymore."
-    u "Pour faire court, Charli ne sera plus là."
+    u "Pour faire court, Charli sera plus là."
 
 # game/v13/scene23.rpy:52
 translate francais v13s23_7a3882e4:

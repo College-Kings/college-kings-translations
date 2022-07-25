@@ -178,7 +178,7 @@ translate francais v13s9_471eb72f:
 translate francais v13s9_e944012e:
 
     # u "I don't know if it's that black and white..."
-    u "Je ne sais pas si les choses sont aussi positives ou aussi négatives..."
+    u "Je sais pas si les choses sont aussi positives ou aussi négatives..."
 
 # game/v13/scene9.rpy:236
 translate francais v13s9_b6a9ed93:
@@ -232,7 +232,7 @@ translate francais v13s9_a0de9cf9:
 translate francais v13s9_541f1150:
 
     # u "Well, you can't misinterpret that."
-    u "Et bien, on ne peut pas interpréter ça de travers."
+    u "Et bien, on peut pas interpréter ça de travers."
 
 # game/v13/scene9.rpy:278
 translate francais v13s9_10b7a9cf:
@@ -244,7 +244,7 @@ translate francais v13s9_10b7a9cf:
 translate francais v13s9_b94bb13c:
 
     # u "Of course I'll help. You obviously care about the girls, you've been running the sorority perfectly fine, and I'd hate for you to lose your scholarship."
-    u "Bien sûr que je vais t'aider. Il est évident que tu te soucies des filles, tu as très bien géré la sororité et je ne voudrais pas que tu perdes ta bourse."
+    u "Bien sûr que je vais t'aider. Il est évident que tu te soucies des filles, tu as très bien géré la sororité et je voudrais pas que tu perdes ta bourse."
 
 # game/v13/scene9.rpy:298
 translate francais v13s9_574b59de:
@@ -268,7 +268,7 @@ translate francais v13s9_860d2873:
 translate francais v13s9_47302d11:
 
     # u "Well, Lindsey has been asking me for help already, and I told her I'd help... I'm sorry, I don't want to be a bad friend."
-    u "Lindsey m'a déjà demandé de l'aide, et je lui ai dit que je l'aiderais... Je suis vraiment désolé, je ne veux pas être un mauvais ami."
+    u "Lindsey m'a déjà demandé de l'aide, et je lui ai dit que je l'aiderais... Je suis vraiment désolé, je veux pas être un mauvais ami."
 
 # game/v13/scene9.rpy:332
 translate francais v13s9_05752863:
@@ -280,7 +280,7 @@ translate francais v13s9_05752863:
 translate francais v13s9_980dcdba:
 
     # u "I'm not saying that, I just don't wanna go back on my word."
-    u "Je ne dis pas ça, mais je ne veux pas revenir sur ma parole."
+    u "Je dis pas ça, mais je veux pas revenir sur ma parole."
 
 # game/v13/scene9.rpy:342
 translate francais v13s9_aafaca37:
@@ -316,7 +316,7 @@ translate francais v13s9_1ec04fc3:
 translate francais v13s9_bb341a25:
 
     # u "Honestly, I'm going into the grey-zone on this one. I don't want anyone, you or her, to feel betrayed."
-    u "Honnêtement, je vais entrer dans une zone neutre sur ce coup-là. Je ne veux pas que quelqu'un, qu'il s'agisse de toi ou d'elle, se sente trahie."
+    u "Honnêtement, je vais entrer dans une zone neutre sur ce coup-là. Je veux pas que quelqu'un, qu'il s'agisse de toi ou d'elle, se sente trahie."
 
 # game/v13/scene9.rpy:379
 translate francais v13s9_571fb994:
@@ -346,7 +346,7 @@ translate francais v13s9_0d28a341:
 translate francais v13s9_9d1c29ca:
 
     # u "But we're not there right now. Right now, you and I are trying to enjoy this \"I don't know if I like it or not\" beach."
-    u "Mais on en est pas là pour le moment. Pour l'instant, toi et moi essayons de profiter de cette plage dont \"je ne sais pas si je l'aime ou pas\"."
+    u "Mais on en est pas là pour le moment. Pour l'instant, toi et moi essayons de profiter de cette plage dont \"je sais pas si je l'aime ou pas\"."
 
 # game/v13/scene9.rpy:404
 translate francais v13s9_0e455dd7:
@@ -382,7 +382,7 @@ translate francais v13s9_efd69ff7:
 translate francais v13s9_216eab03:
 
     # u "Oooh, didn't know that was your kind of scene... *Chuckles*"
-    u "Oooh, je ne savais pas que c'était ton genre de truc... *Rire*"
+    u "Oooh, je savais pas que c'était ton genre de truc... *Rire*"
 
 # game/v13/scene9.rpy:433
 translate francais v13s9_5d19c41d:
@@ -580,7 +580,7 @@ translate francais v13s9_84c9a43d:
 translate francais v13s9_d09f04f3:
 
     # u "I already have plans tonight... And I don't wanna be late by chasing around Imre."
-    u "J'ai déjà des projets pour ce soir... Et je ne veux pas être en retard parce que je dois suivre Imre."
+    u "J'ai déjà des projets pour ce soir... Et je veux pas être en retard parce que je dois suivre Imre."
 
 # game/v13/scene9.rpy:606
 translate francais v13s9_1c396f38:

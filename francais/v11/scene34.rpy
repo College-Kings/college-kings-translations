@@ -340,7 +340,7 @@ translate francais v11_cardealership_8f815769:
 translate francais v11_cardealership_4d8163c2:
 
     # u "Woah! Okay, okay. No pinching the driver... Let me pull over and we'll switch."
-    u "Woah ! Ok, ok. On ne pince pas le conducteur... Laisse-moi me garer et on échange."
+    u "Woah ! Ok, ok. On pince pas le conducteur... Laisse-moi me garer et on échange."
 
 # game/v11/scene34.rpy:383
 translate francais v11_cardealership_e537814b:
@@ -460,7 +460,7 @@ translate francais v11_cardealership_88da3405:
 translate francais v11_cardealership_5d91b504:
 
     # u "I don't know what I'd do if one day you were just... gone. The truth is... I love you, Chloe, and I don't want to go another day without you being mine."
-    u "Je ne sais pas ce que je ferais si un jour tu étais juste... partie. La vérité est que... Je t'aime, Chloé, et je ne veux pas passer un autre jour sans que tu ne sois à mes côtés."
+    u "Je sais pas ce que je ferais si un jour tu étais juste... partie. La vérité est que... Je t'aime, Chloé, et je veux pas passer un autre jour sans que tu sois à mes côtés."
 
 # game/v11/scene34.rpy:515
 translate francais v11_cardealership_52dede05:
@@ -785,7 +785,7 @@ translate francais v11s34_c1_88da3405:
 translate francais v11s34_c1_5d91b504:
 
     # u "I don't know what I'd do if one day you were just... gone. The truth is... I love you, Chloe, and I don't want to go another day without you being mine."
-    u "Je ne sais pas ce que je ferais si un jour tu étais juste... partie. La vérité est que... Je t'aime, Chloé, et je ne veux pas passer un autre jour sans que tu ne sois à mes côtés."
+    u "Je sais pas ce que je ferais si un jour tu étais juste... partie. La vérité est que... Je t'aime, Chloé, et je veux pas passer un autre jour sans que tu sois à mes côtés."
 
 # game/v11/scene34.rpy:443
 translate francais v11s34_c1_52dede05:

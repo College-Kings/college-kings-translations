@@ -76,7 +76,7 @@ translate francais v13s31_b737375f:
 translate francais v13s31_2495bf2f:
 
     # u "You can't blame yourself."
-    u "Tu ne peux pas t'en vouloir."
+    u "Tu peux pas t'en vouloir."
 
 # game/v13/scene31.rpy:79
 translate francais v13s31_0ac42ff3:
@@ -94,7 +94,7 @@ translate francais v13s31_a1c040fe:
 translate francais v13s31_aaa4b889:
 
     # am "Let's keep this quiet. I don't want her feeling embarrassed."
-    am "Gardons ça pour nous. Je ne veux pas qu'elle se sente embarrassée."
+    am "Gardons ça pour nous. Je veux pas qu'elle se sente embarrassée."
 
 # game/v13/scene31.rpy:94
 translate francais v13s31_6e5a8340:
@@ -124,7 +124,7 @@ translate francais v13s31_57aa013b:
 translate francais v13s31_48ddc6f3:
 
     # u "The weed tour I didn't let her go on?"
-    u "Le tour de weed que je ne l'ai pas laissée faire ?"
+    u "Le tour de weed que je l'ai pas laissée faire ?"
 
 # game/v13/scene31.rpy:127
 translate francais v13s31_1fe35eea:
@@ -142,7 +142,7 @@ translate francais v13s31_3969e284:
 translate francais v13s31_d1596e98:
 
     # u "When she asked to go with Amber and I, I simply said I didn't think it was a good idea due to her history. She took offense and ran off, but I still stand by my decision of not letting her come. I'm sorry."
-    u "Quand elle a demandé à venir avec Amber et moi, j'ai simplement dit que je ne pensais pas que c'était une bonne idée à cause de son passé. Elle s'est vexée et s'est enfuie, mais je maintiens ma décision de ne pas accepter qu'elle vienne. Je suis désolé."
+    u "Quand elle a demandé à venir avec Amber et moi, j'ai simplement dit que je pensais pas que c'était une bonne idée à cause de son passé. Elle s'est vexée et s'est enfuie, mais je maintiens ma décision de pas accepter qu'elle vienne. Je suis désolé."
 
 # game/v13/scene31.rpy:142
 translate francais v13s31_ff82125b:
@@ -172,7 +172,7 @@ translate francais v13s31_ba2f3577:
 translate francais v13s31_d2c26d3e:
 
     # ca "I'll stop tripping, like, whenever you try talking to her and everything. I don't know how you feel, but I'm pretty sure she likes you. And, I think you're a good person to be around her."
-    ca "J'arrêterai de paniquer à chaque fois que tu essaieras de lui parler et tout. Je ne sais pas ce que tu ressens, mais je suis sûre qu'elle t'aime bien. Et, je pense que tu es quelqu'un de bien pour être à ses côtés."
+    ca "J'arrêterai de paniquer à chaque fois que tu essaieras de lui parler et tout. Je sais pas ce que tu ressens, mais je suis sûre qu'elle t'aime bien. Et, je pense que tu es quelqu'un de bien pour être à ses côtés."
 
 # game/v13/scene31.rpy:173
 translate francais v13s31_ff832313:

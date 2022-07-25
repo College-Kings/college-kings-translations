@@ -16,7 +16,7 @@ translate francais v12_simplr_convo_0fa55aff:
 translate francais v12_simplr_convo_aeeb154a:
 
     # u "(Randomly waking up in the middle of the night, with nothing to do except stare at the wall, yayyy.)"
-    u "(Se réveiller subitement au milieu de la nuit, et ne rien faire à part regarder le mur, ouaiiiis.)"
+    u "(Se réveiller subitement au milieu de la nuit, et rien faire à part regarder le mur, ouaiiiis.)"
 
 # game/v12/scene24.rpy:35
 translate francais v12_simplr_convo_9d27cce1:

@@ -16,7 +16,7 @@ translate francais v12_nora_room_4a7e7831:
 translate francais v12_nora_room_f4e1133f:
 
     # u "Chris isn't focused on what he should be focused on, no matter what he may think. He says he's trying to get things setup for the two of you, but he can't have a future with you if he doesn't have a present."
-    u "Chris ne se concentre pas sur ce sur quoi il doit se concentrer, quoi qu'il en pense. Il dit qu'il essaie de mettre les choses en place pour vous deux, mais il ne peut pas avoir de futur avec toi s'il ne peut pas avoir un présent."
+    u "Chris se concentre pas sur ce sur quoi il doit se concentrer, quoi qu'il en pense. Il dit qu'il essaie de mettre les choses en place pour vous deux, mais il peut pas avoir de futur avec toi s'il peut pas avoir un présent."
 
 # game/v12/scene35a.rpy:34
 translate francais v12_nora_room_c2a05f74:
@@ -40,7 +40,7 @@ translate francais v12_nora_room_f92589b4:
 translate francais v12_nora_room_fb3c09fe:
 
     # u "It isn't just about putting food on the table or a roof over your head. You have to be present while you achieve all of those things."
-    u "Il ne s'agit pas seulement de mettre de la nourriture sur la table ou un toit sur votre tête. Il faut être présent pendant que tu réalises toutes ces choses."
+    u "Il s'agit pas seulement de mettre de la nourriture sur la table ou un toit sur votre tête. Il faut être présent pendant que tu réalises toutes ces choses."
 
 # game/v12/scene35a.rpy:54
 translate francais v12_nora_room_f2a3b5c9:
@@ -76,7 +76,7 @@ translate francais v12_nora_room_cb228ebe:
 translate francais v12_nora_room_5d169354:
 
     # u "I guess I just see being a provider a little differently than others. It isn't just about putting food on the table or a roof over your head. You have to be present while you achieve all of those things."
-    u "Je pense que je vois le rôle de soutien familial un peu différemment des autres. Il ne s'agit pas seulement de mettre de la nourriture sur la table ou un toit au-dessus de notre tête. Il faut être présent pendant que tu réalises toutes ces choses."
+    u "Je pense que je vois le rôle de soutien familial un peu différemment des autres. Il s'agit pas seulement de mettre de la nourriture sur la table ou un toit au-dessus de notre tête. Il faut être présent pendant que tu réalises toutes ces choses."
 
 # game/v12/scene35a.rpy:90
 translate francais v12_nora_room_2be14a20:
@@ -94,7 +94,7 @@ translate francais v12_nora_room_2b380f91:
 translate francais v12_nora_room_2c515b41:
 
     # u "Communication is key. Times won't always be the way we'd both want, but as long as we can communicate to each other and understand each other, all will work."
-    u "La communication est la clé. Les choses ne se passeront pas toujours comme nous le voudrions tous les deux, mais tant que nous pourrons communiquer et nous comprendre, tout irait bien."
+    u "La communication est la clé. Les choses se passeront pas toujours comme nous le voudrions tous les deux, mais tant que nous pourrons communiquer et nous comprendre, tout irait bien."
 
 # game/v12/scene35a.rpy:103
 translate francais v12_nora_room_f4089000:
@@ -184,7 +184,7 @@ translate francais v12_nora_room_dea0ed80:
 translate francais v12_nora_room_26f16b8d:
 
     # u "Haven't heard that one before... *Chuckles*"
-    u "On ne me l'avait jamais sortie, celle là... *Rire*"
+    u "On me l'avait jamais sortie, celle là... *Rire*"
 
 # game/v12/scene35a.rpy:180
 translate francais v12_nora_room_4fe2c3fe:
@@ -280,7 +280,7 @@ translate francais v12_nora_room_e7e5761d:
 translate francais v12_nora_room_f06b340e:
 
     # u "*Sighs* I wouldn't put you in a situation like this, I don't do things with a motive. I'm just here to be your friend..."
-    u "*Soupirs* Je ne te mettrais pas dans une telle situation, je ne fais pas les choses avec un motif. Je suis juste là pour être ton ami..."
+    u "*Soupirs* Je te mettrais pas dans une telle situation, je fais pas les choses avec un motif. Je suis juste là pour être ton ami..."
 
 # game/v12/scene35a.rpy:282
 translate francais v12_nora_no_sex_584ca87a:
@@ -460,7 +460,7 @@ translate francais v12_nora_sex_06fea136:
 translate francais v12_nora_sex_f08195bd:
 
     # u "Ohhhh no... Not yet, baby. I'm not ready for this to end..."
-    u "Ohhhh non... Pas encore, bébé. Je ne suis pas encore prêt à ce que ça se termine..."
+    u "Ohhhh non... Pas encore, bébé. Je suis pas encore prêt à ce que ça se termine..."
 
 # game/v12/scene35a.rpy:568
 translate francais v12_nora_sex_53f83c0f:
@@ -514,7 +514,7 @@ translate francais v12_nora_sex_fedcf55d:
 translate francais v12_nora_sex_cabd2299:
 
     # u "I'd never... do you wrong. *Moans* You're too... fucking... amazing."
-    u "Je ne te ferais jamais... de mal. *Gémis* Tu es trop... putain... incroyable."
+    u "Je te ferais jamais... de mal. *Gémis* Tu es trop... putain... incroyable."
 
 # game/v12/scene35a.rpy:616
 translate francais v12_nora_sex_41c089a7:

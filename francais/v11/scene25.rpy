@@ -40,7 +40,7 @@ translate francais v11_hotel_bar_c5b30f7f:
 translate francais v11_hotel_bar_371fa34b:
 
     # u "(Surprised no one else is down here.)"
-    u "(Surpris que personne d'autre ne soit ici.)"
+    u "(Surpris que personne d'autre soit ici.)"
 
 # game/v11/scene25.rpy:68
 translate francais v11_hotel_bar_c5b30f7f_1:
@@ -58,7 +58,7 @@ translate francais v11_hotel_bar_c5b30f7f_2:
 translate francais v11_hotel_bar_371fa34b_1:
 
     # u "(Surprised no one else is down here.)"
-    u "(Surpris que personne d'autre ne soit ici.)"
+    u "(Surpris que personne d'autre soit ici.)"
 
 # game/v11/scene25.rpy:84
 translate francais v11_hotel_bar_c5b30f7f_3:
@@ -142,7 +142,7 @@ translate francais v11_hotel_bar_283b1178:
 translate francais v11_hotel_bar_292ae231:
 
     # u "You can see girls back at home... Don't you wanna do some things you can't do back at home?"
-    u "Tu peux voir des filles chez toi... Tu ne veux pas faire des choses que tu ne peux pas faire chez toi ?"
+    u "Tu peux voir des filles chez toi... Tu veux pas faire des choses que tu peux pas faire chez toi ?"
 
 # game/v11/scene25.rpy:159
 translate francais v11_hotel_bar_1aff1edc:

@@ -46,7 +46,7 @@ translate francais v12_game_roommate_0fef1245:
 translate francais v12_game_roommate_f7cd50b1:
 
     # u "I wouldn't imagine it. *Chuckles*"
-    u "Je ne peux pas l'imaginer.  *Rire*"
+    u "Je peux pas l'imaginer.  *Rire*"
 
 # game/v12/scene35b.rpy:60
 translate francais v12_game_roommate_0b3c4bbb:
@@ -88,7 +88,7 @@ translate francais v12_game_roommate_d9a8a25e:
 translate francais v12_game_roommate_06c4d344:
 
     # u "That does not look like you... *Chuckles* Since when do you wear pigtails?"
-    u "Ça ne te ressemble pas... *Rire* Depuis quand tu portes des nattes ?"
+    u "Ça te ressemble pas... *Rire* Depuis quand tu portes des nattes ?"
 
 # game/v12/scene35b.rpy:95
 translate francais v12_game_roommate_dae835db:
@@ -508,7 +508,7 @@ translate francais v12_game_roommate_3d9fb0a2:
 translate francais v12_game_roommate_0994b4ab:
 
     # u "*Whisper* You sure you don't want my company?"
-    u "*Chuchote* Tu es sûre que tu ne veux pas de ma compagnie ?"
+    u "*Chuchote* Tu es sûre que tu veux pas de ma compagnie ?"
 
 # game/v12/scene35b.rpy:473
 translate francais v12_game_roommate_0f6c1a9b:
@@ -592,7 +592,7 @@ translate francais v12_game_roommate_adee50f4:
 translate francais v12_game_roommate_fb0d5ea1:
 
     # u "Riley, I'm not doing this with you right now."
-    u "Riley, je ne fais rien de tout ça, tu le sais très bien."
+    u "Riley, je fais rien de tout ça, tu le sais très bien."
 
 # game/v12/scene35b.rpy:596
 translate francais v12_game_roommate_2cf33c62:
@@ -622,7 +622,7 @@ translate francais v12_game_roommate_24f7f46a:
 translate francais v12_game_roommate_e55d4443:
 
     # u "I already told you I didn't take it. Obviously no matter what I say, you're not gonna believe me."
-    u "Je t'ai déjà dit que je ne l'ai pas prise. De toute évidence, peu importe ce que je dis, tu ne me croiras pas."
+    u "Je t'ai déjà dit que je l'ai pas prise. De toute évidence, peu importe ce que je dis, tu me croiras pas."
 
 # game/v12/scene35b.rpy:621
 translate francais v12_game_roommate_4edff507:

@@ -82,7 +82,7 @@ translate francais fr5ryan1_f4638a95:
 translate francais fr5ryan1_3ab5d78a:
 
     # u "Frat choice does not matter when it comes to being friends, ape boy."
-    u "Le choix de la fraternité ne compte pas quand il s'agit d'être amis, petit Ape."
+    u "Le choix de la fraternité compte pas quand il s'agit d'être amis, petit Ape."
 
 # game/v9/scene7.rpy:199
 translate francais fr5ryan1_dd6510e9:
@@ -100,7 +100,7 @@ translate francais fr5ryan1_e2212c7d:
 translate francais fr5ryan1_5839eb58:
 
     # u "I don't really see you dripping in pussy, haha."
-    u "Poutant, Je ne te vois pas vraiment te baigner dans plein de chattes, haha."
+    u "Poutant, Je te vois pas vraiment te baigner dans plein de chattes, haha."
 
 # game/v9/scene7.rpy:211
 translate francais fr5ryan1_783a4905:
@@ -112,7 +112,7 @@ translate francais fr5ryan1_783a4905:
 translate francais fr5ryan1_9d598f22:
 
     # u "Frat or not, it all comes down to the looks. And one could not deny your boy's handsome as fuck, haha."
-    u "Frat ou pas, tout se résume à l'apparence. Et on ne peut pas nier que je suis un putain de beau gosse, haha."
+    u "Frat ou pas, tout se résume à l'apparence. Et on peut pas nier que je suis un putain de beau gosse, haha."
 
 # game/v9/scene7.rpy:219
 translate francais fr5ryan1_25dd620f:
@@ -268,7 +268,7 @@ translate francais fr5ryan1_87d48738:
 translate francais fr5ryan1_043c96ab:
 
     # u "Yeah, I wanted to fight the Wolves. But no matter how hard I tried to hit, I did nothing."
-    u "Oui, je voulais combattre les Wolves. Mais peu importe à quel point je frappais, je ne faisais rien."
+    u "Oui, je voulais combattre les Wolves. Mais peu importe à quel point je frappais, je faisais rien."
 
 # game/v9/scene7.rpy:356
 translate francais fr5ryan1_03f07a16:
@@ -364,7 +364,7 @@ translate francais fr5ryan1_86b36519:
 translate francais fr5ryan1_76a0d067:
 
     # u "Thanks, Ryan. I didn't even know I needed this. But it seems I sure as fuck have."
-    u "Merci, Ryan. Je ne savais même pas que j'avais besoin de ça. Mais il semble que si, putain."
+    u "Merci, Ryan. Je savais même pas que j'avais besoin de ça. Mais il semble que si, putain."
 
 # game/v9/scene7.rpy:425
 translate francais fr5ryan1_519b48a7:
@@ -430,7 +430,7 @@ translate francais fr5ryan1_6d774b20:
 translate francais fr5ryan1_efaa0bd5:
 
     # u "No Wolf or man can stand in my way!"
-    u "Aucun Wolf ou homme ne peut se mettre en travers de mon chemin !"
+    u "Aucun Wolf ou homme peut se mettre en travers de mon chemin !"
 
 # game/v9/scene7.rpy:483
 translate francais fr5ryan1_6d774b20_1:
@@ -442,7 +442,7 @@ translate francais fr5ryan1_6d774b20_1:
 translate francais fr5ryan1_4e611057:
 
     # u "And no stupid fucking dreams can stop me!"
-    u "Et aucun rêve stupide ne peut m'arrêter !"
+    u "Et aucun rêve stupide peut m'arrêter !"
 
 # game/v9/scene7.rpy:493
 translate francais fr5ryan1_2d8d5fb7:
@@ -562,7 +562,7 @@ translate francais fr5riley1_706baa4c:
 translate francais fr5riley1_1cbd0ab7:
 
     # u "It's a family recipe, don't even try to ask."
-    u "C'est une recette de famille, ne demande pas."
+    u "C'est une recette de famille, demande pas."
 
 # game/v9/scene7.rpy:624
 translate francais fr5riley1_1a7274d0:
@@ -574,7 +574,7 @@ translate francais fr5riley1_1a7274d0:
 translate francais fr5riley1_5da49d20:
 
     # u "First of all, it does not suck, it blows! And second of all, it's not an instant remedy, you know."
-    u "Tout d'abord, ça ne craint pas, ça déchire ! Et deuxièmement, ce n'est pas un remède instantané."
+    u "Tout d'abord, ça craint pas, ça déchire ! Et deuxièmement, ce n'est pas un remède instantané."
 
 # game/v9/scene7.rpy:634
 translate francais fr5riley1_8ccd0ce0:
@@ -844,7 +844,7 @@ translate francais fr5aubrey1_191a6214:
 translate francais fr5aubrey1_5c6dc2eb:
 
     # u "I just don't think a girl like you would want the world to stop. If anything, I'd say you'd want to spin it faster."
-    u "Je ne pense pas qu'une fille comme toi veuille que le monde s'arrête. Au contraire, je dirais que tu voudrais qu'il tourne plus vite."
+    u "Je pense pas qu'une fille comme toi veuille que le monde s'arrête. Au contraire, je dirais que tu voudrais qu'il tourne plus vite."
 
 # game/v9/scene7.rpy:885
 translate francais fr5aubrey1_51bc6fc0:
@@ -856,7 +856,7 @@ translate francais fr5aubrey1_51bc6fc0:
 translate francais fr5aubrey1_04006b79:
 
     # u "For one living in the moment, I wouldn't say you expect much at all. Well, maybe you don't expect much, but you surely know how to seize the moment."
-    u "Tu es une personne qui vit le moment présent et je ne dirais pas que tu attends beaucoup de tout, en général. Par contre, même si tu n'attends pas grand-chose, tu sais sans aucun doute saisir l'instant présent."
+    u "Tu es une personne qui vit le moment présent et je dirais pas que tu attends beaucoup de tout, en général. Par contre, même si tu n'attends pas grand-chose, tu sais sans aucun doute saisir l'instant présent."
 
 # game/v9/scene7.rpy:899
 translate francais v9_aubrey_scene_lake_27c4011f:
@@ -988,7 +988,7 @@ translate francais v9_aubrey_scene_lake_3bf52e69:
 translate francais v9_aubrey_scene_lake_810fa79b:
 
     # u "You sure you don't want me to do you?"
-    u "Tu es sûre que tu ne veux pas que je te fasse la même chose ?"
+    u "Tu es sûre que tu veux pas que je te fasse la même chose ?"
 
 # game/v9/scene7.rpy:1021
 translate francais v9_aubrey_scene_lake_c864b3fa:
@@ -1072,7 +1072,7 @@ translate francais v9s7_nsfwSkipLabel1_384f6740:
 translate francais v9s7_nsfwSkipLabel1_681cf30c:
 
     # u "I'm not saying anything. But saying otherwise could be one lie over my weekly quota."
-    u "Je ne dis rien du tout. Mais dire le contraire serait un mensonge de plus à mon quota hebdomadaire."
+    u "Je dis rien du tout. Mais dire le contraire serait un mensonge de plus à mon quota hebdomadaire."
 
 # game/v9/scene7.rpy:1099
 translate francais v9s7_nsfwSkipLabel1_0c950894:
@@ -1438,7 +1438,7 @@ translate francais fr5dogwalker1_ab346157_1:
 translate francais fr5dogwalker2_a5c53cab:
 
     # u "(I'm not going near that dog again.)"
-    u "(Je ne m'approcherai plus de ce chien.)"
+    u "(Je m'approcherai plus de ce chien.)"
 
 # game/v9/scene7.rpy:1468
 translate francais fr5ryan3_b977a534:

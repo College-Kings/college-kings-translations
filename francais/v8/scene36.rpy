@@ -22,7 +22,7 @@ translate francais v8_julia_call_df59e799:
 translate francais v8_julia_call_7774f570:
 
     # ju "Really? That's great! What's going on?"
-    ju "Vraiment ? C'est génial ! Qu'est-ce qu'il y a ?"
+    ju "Vraiment ? C'est génial ! Alors, qu'est-ce qu'il y a ?"
 
 # game/v8/scene36.rpy:38
 translate francais v8_julia_call_585e08c6:
@@ -40,7 +40,7 @@ translate francais v8_julia_call_e75849bd:
 translate francais v8_julia_call_f8306763:
 
     # u "Yeah, seems like an opportunity I don't want to miss."
-    u "Ouais, je crois que c'est une expérience à ne pas manquer."
+    u "Ouais, je crois que c'est une expérience à pas manquer."
 
 # game/v8/scene36.rpy:50
 translate francais v8_julia_call_a521f21b:
@@ -88,7 +88,7 @@ translate francais v8_julia_call_043fc905:
 translate francais v8_julia_call_c0c476dc:
 
     # u "EUROPE! If we can get enough people to sign up, they'll even cover half the cost."
-    u "L'EUROPE ! Si un nombre suffisant de personnes s'inscrivent, ils couvriront même la moitié des frais."
+    u "{b}L'EUROPE !{/b} Si un nombre suffisant de personnes s'inscrivent, ils couvriront même la moitié des frais."
 
 # game/v8/scene36.rpy:83
 translate francais v8_julia_call_4de35bdd:
@@ -112,7 +112,7 @@ translate francais v8_julia_call_61d8114b:
 translate francais v8_julia_call_791fe8db:
 
     # u "Don't make me blush."
-    u "Ne me fais pas rougir."
+    u "Me fais pas rougir."
 
 # game/v8/scene36.rpy:99
 translate francais v8_julia_call_7688813e:
@@ -124,13 +124,13 @@ translate francais v8_julia_call_7688813e:
 translate francais v8_julia_call_f5eddfc0:
 
     # u "Well I better get back to my homework or you won't be!"
-    u "Et bien je ferais mieux de retourner à mes devoirs ou tu ne le seras pas !"
+    u "Et bien je ferais mieux de retourner à mes devoirs ou tu vas pas l'être longtemps !"
 
 # game/v8/scene36.rpy:107
 translate francais v8_julia_call_eb6f1c40:
 
     # ju "Keep in touch, honey! Take care!"
-    ju "On reste en contact, chérie ! Prends soin de toi !"
+    ju "On reste en contact, chéri ! Prends soin de toi !"
 
 # game/v8/scene36.rpy:113
 translate francais v8_julia_call_1b928fc6:
@@ -178,7 +178,7 @@ translate francais v8_julia_call_e75849bd_1:
 translate francais v8_julia_call_f8306763_1:
 
     # u "Yeah, seems like an opportunity I don't want to miss."
-    u "Ouais, je crois que c'est une expérience à ne pas manquer."
+    u "Ouais, je crois que c'est une expérience à pas manquer."
 
 # game/v8/scene36.rpy:157
 translate francais v8_julia_call_a521f21b_1:
@@ -226,13 +226,13 @@ translate francais v8_julia_call_043fc905_1:
 translate francais v8_julia_call_c0c476dc_1:
 
     # u "EUROPE! If we can get enough people to sign up, they'll even cover half the cost."
-    u "L'EUROPE ! Si un nombre suffisant de personnes s'inscrivent, ils couvriront même la moitié des frais."
+    u "{b}L'EUROPE !{/b} Si un nombre suffisant de personnes s'inscrivent, ils couvriront même la moitié des frais."
 
 # game/v8/scene36.rpy:190
 translate francais v8_julia_call_4de35bdd_1:
 
     # ju "That sounds like a once in a lifetime opportunity."
-    ju "Cela ressemble à une opportunité unique dans une vie."
+    ju "Ça ressemble à une opportunité unique dans une vie."
 
 # game/v8/scene36.rpy:194
 translate francais v8_julia_call_921ad657_1:
@@ -250,7 +250,7 @@ translate francais v8_julia_call_61d8114b_1:
 translate francais v8_julia_call_791fe8db_1:
 
     # u "Don't make me blush."
-    u "Ne me fais pas rougir."
+    u "Me fais pas rougir."
 
 # game/v8/scene36.rpy:206
 translate francais v8_julia_call_7688813e_1:
@@ -262,13 +262,13 @@ translate francais v8_julia_call_7688813e_1:
 translate francais v8_julia_call_f5eddfc0_1:
 
     # u "Well I better get back to my homework or you won't be!"
-    u "Et bien je ferais mieux de retourner à mes devoirs ou tu ne le seras pas !"
+    u "Et bien je ferais mieux de retourner à mes devoirs ou tu vas pas l'être longtemps !"
 
 # game/v8/scene36.rpy:214
 translate francais v8_julia_call_eb6f1c40_1:
 
     # ju "Keep in touch, honey! Take care!"
-    ju "On reste en contact, chérie ! Prends soin de toi !"
+    ju "On reste en contact, chéri ! Prends soin de toi !"
 
 # game/v8/scene36.rpy:220
 translate francais v8_julia_call_1b928fc6_1:

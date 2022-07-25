@@ -64,7 +64,7 @@ translate francais v11_lauren_store_0b63a5ff:
 translate francais v11_lauren_store_98ddfad0:
 
     # u "Not really, no, but that doesn't mean I'm not cool."
-    u "Pas vraiment, non, mais ça ne veut pas dire que je ne suis pas cool."
+    u "Pas vraiment, non, mais ça veut pas dire que je suis pas cool."
 
 # game/v11/scene30.rpy:91
 translate francais v11_lauren_store_4d3a754c:
@@ -136,7 +136,7 @@ translate francais v11_lauren_store_3705849a:
 translate francais v11_lauren_store_ad29fbf8:
 
     # u "What if I'm not a fan?"
-    u "Et si je ne suis pas un fan ?"
+    u "Et si je suis pas un fan ?"
 
 # game/v11/scene30.rpy:166
 translate francais v11_lauren_store_42f1ca13:
@@ -208,7 +208,7 @@ translate francais v11_lauren_store_a836a179:
 translate francais v11_lauren_store_f710eeee:
 
     # u "Didn't you sign up by yourself?"
-    u "Tu ne t'es pas inscrite toute seule ?"
+    u "Tu t'es pas inscrite toute seule ?"
 
 # game/v11/scene30.rpy:243
 translate francais v11_lauren_store_27486c4d:
@@ -442,7 +442,7 @@ translate francais v11_lauren_store_b54e4039:
 translate francais v11_lauren_store_f6b05e34:
 
     # u "(So I'm not the only one who thinks he's annoying.)"
-    u "(Ça me rassure, je ne suis donc pas le seul à penser qu'il est chiant.)"
+    u "(Ça me rassure, je suis donc pas le seul à penser qu'il est chiant.)"
 
 # game/v11/scene30.rpy:477
 translate francais v11_lauren_store_88e453c1:
@@ -532,7 +532,7 @@ translate francais v11_quiz_q2_1636e72c:
 translate francais v11_quiz_q2_e9f1fb37:
 
     # u "I'm not a beginner..."
-    u "Je ne suis pas un débutant..."
+    u "Je suis pas un débutant..."
 
 # game/v11/scene30.rpy:585
 translate francais v11_answer_13_cdda8023:
@@ -598,7 +598,7 @@ translate francais v11_quiz_q3_cdca7f11:
 translate francais v11_quiz_q3_9bdf9bfa:
 
     # u "Well, I'm not just gonna let him talk to you like that."
-    u "HOW, je ne vais pas le laisser te parler comme ça."
+    u "HOW, je vais pas le laisser te parler comme ça."
 
 # game/v11/scene30.rpy:658
 translate francais v11_quiz_q3_31e8882d:
@@ -658,7 +658,7 @@ translate francais v11_quiz_q3_f784a5c5:
 translate francais v11_quiz_q3_a0658bed:
 
     # u "*Whisper* Don't worry, you're still cool."
-    u "*Chuchote* Ne t'inquiète pas, tu es toujours cool."
+    u "*Chuchote* T'inquiète pas, tu es toujours cool."
 
 # game/v11/scene30.rpy:723
 translate francais v11_quiz_q3_d11f7a6e:
@@ -982,7 +982,7 @@ translate francais v11_quiz_bonus_1013dc4a:
 translate francais v11_quiz_bonus_59358e82:
 
     # u "I would never let anyone disrespect you."
-    u "Je ne laisserai jamais personne te manquer de respect."
+    u "Je laisserai jamais personne te manquer de respect."
 
 # game/v11/scene30.rpy:1089
 translate francais v11_quiz_bonus_50dd5c6d:
@@ -994,7 +994,7 @@ translate francais v11_quiz_bonus_50dd5c6d:
 translate francais v11_quiz_bonus_71136618:
 
     # u "It took everything in me not to jump across the table when he started name-calling."
-    u "J'ai fait tout mon possible pour ne pas sauter de l'autre côté de la table quand il a commencé à t'insulter."
+    u "J'ai fait tout mon possible pour pas sauter de l'autre côté de la table quand il a commencé à t'insulter."
 
 # game/v11/scene30.rpy:1100
 translate francais v11_quiz_bonus_2adaafa0:
@@ -1036,7 +1036,7 @@ translate francais v11_quiz_bonus_ef6c5c55:
 translate francais v11_quiz_bonus_d7ef02d6:
 
     # u "I don't know, seven?"
-    u "Je ne sais pas, sept ?"
+    u "Je sais pas, sept ?"
 
 # game/v11/scene30.rpy:1162
 translate francais v11_quiz_bonus_6d9f6bed:
@@ -1102,7 +1102,7 @@ translate francais v11_quiz_bonus_1fafc031:
 translate francais v11_quiz_bonus_0fa2a6e2:
 
     # u "I don't think I've ever seen you this happy."
-    u "Je ne pense pas t'avoir déjà vu aussi heureuse."
+    u "Je pense pas t'avoir déjà vu aussi heureuse."
 
 # game/v11/scene30.rpy:1235
 translate francais v11_quiz_bonus_dca3b436:

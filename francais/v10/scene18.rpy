@@ -58,7 +58,7 @@ translate francais v10_call_with_lauren2_f36a01c4:
 translate francais v10_call_with_lauren2_6aad51bc:
 
     # u "*Laughs* So the whole event is buzzing and every stand has a long queue, but just absolutely no one comes to you? That would be pretty funny to be fair."
-    u "*Rire* Donc, tout l'événement est en effervescence et chaque stand a une longue file d'attente, mais absolument personne ne vient te voir ? Ce serait assez drôle pour être honnête."
+    u "*Rire* Donc, tout l'événement est en effervescence et chaque stand a une longue file d'attente, mais absolument personne vient te voir ? Ce serait assez drôle pour être honnête."
 
 # game/v10/scene18.rpy:67
 translate francais v10_call_with_lauren2_2a570b1b:
@@ -178,7 +178,7 @@ translate francais v10_call_with_lauren2_0de6609d:
 translate francais v10_call_with_lauren2_f3cbcca2:
 
     # u "Oh, I didn’t even know you were super religious."
-    u "Oh, je ne savais même pas que tu étais super religieuse."
+    u "Oh, je savais même pas que tu étais super religieuse."
 
 # game/v10/scene18.rpy:155
 translate francais v10_call_with_lauren2_a4af9b8f:
@@ -208,7 +208,7 @@ translate francais v10_call_with_lauren2_8d5cf2ce:
 translate francais v10_call_with_lauren2_73d23e78:
 
     # u "Do you feel like you’re not your own person?"
-    u "As-tu l'impression de ne pas être ta propre personne ?"
+    u "As-tu l'impression de pas être ta propre personne ?"
 
 # game/v10/scene18.rpy:177
 translate francais v10_call_with_lauren2_d567b340:
@@ -220,7 +220,7 @@ translate francais v10_call_with_lauren2_d567b340:
 translate francais v10_call_with_lauren2_c300adc2:
 
     # u "Yeah, I get what you mean. I feel like we shouldn't ever sacrifice our own happiness just to make others happy. If we don't look out for ourselves then who will."
-    u "Oui, je comprends ce que tu veux dire. J'ai l'impression que nous ne devrions jamais sacrifier notre propre bonheur juste pour rendre les autres heureux. Si on ne prend pas soin de soi, qui le fera ?"
+    u "Oui, je comprends ce que tu veux dire. J'ai l'impression que nous devrions jamais sacrifier notre propre bonheur juste pour rendre les autres heureux. Si on prend pas soin de soi, qui le fera ?"
 
 # game/v10/scene18.rpy:191
 translate francais v10_call_with_lauren2_9fbfe485:
@@ -238,7 +238,7 @@ translate francais v10_call_with_lauren2_372d1d91:
 translate francais v10_call_with_lauren2_fc00b03f:
 
     # u "I guess, but it’s also nice to make other people happy. I don’t know, your selflessness is one of the things I like most about you."
-    u "Je crois, mais c'est aussi bien de rendre les autres heureux. Je ne sais pas, ton altruisme est une des choses que j'aime le plus chez toi."
+    u "Je crois, mais c'est aussi bien de rendre les autres heureux. Je sais pas, ton altruisme est une des choses que j'aime le plus chez toi."
 
 # game/v10/scene18.rpy:207
 translate francais v10_call_with_lauren2_be3f26fc:
@@ -256,7 +256,7 @@ translate francais v10_call_with_lauren2_996d5275:
 translate francais v10_call_with_lauren2_f4b28178:
 
     # u "Wait, is this like a trick question where I gotta make sure that my answer doesn’t hurt your feelings or something?"
-    u "Attends, c'est une question piège où je dois m'assurer que ma réponse ne te blesse pas ou quelque chose comme ça ?"
+    u "Attends, c'est une question piège où je dois m'assurer que ma réponse te blesse pas ou quelque chose comme ça ?"
 
 # game/v10/scene18.rpy:223
 translate francais v10_call_with_lauren2_8c3ed4b7:
@@ -292,7 +292,7 @@ translate francais v10_call_with_lauren2_ec523e46:
 translate francais v10_call_with_lauren2_9a90e255:
 
     # u "*Chuckles* Just not letting that one go, are you?"
-    u "*rire* Tu ne vas pas laisser passer ça, n'est-ce pas ?"
+    u "*rire* Tu vas pas laisser passer ça, n'est-ce pas ?"
 
 # game/v10/scene18.rpy:258
 translate francais v10_call_with_lauren2_afdeb934:
@@ -316,7 +316,7 @@ translate francais v10_call_with_lauren2_150ac2a4:
 translate francais v10_call_with_lauren2_9a90e255_1:
 
     # u "*Chuckles* Just not letting that one go, are you?"
-    u "*rire* Tu ne vas pas laisser passer ça, n'est-ce pas ?"
+    u "*rire* Tu vas pas laisser passer ça, n'est-ce pas ?"
 
 # game/v10/scene18.rpy:279
 translate francais v10_call_with_lauren2_afdeb934_1:
@@ -328,7 +328,7 @@ translate francais v10_call_with_lauren2_afdeb934_1:
 translate francais v10_call_with_lauren2_bfa2a374:
 
     # u "I don't think so, kinda sounds expensive. I’m just not really a big family man."
-    u "Je ne pense pas, ça paraît assez cher. Je ne suis pas vraiment un grand père de famille."
+    u "Je pense pas, ça paraît assez cher. Je suis pas vraiment un grand père de famille."
 
 # game/v10/scene18.rpy:290
 translate francais v10_call_with_lauren2_eec36158:
@@ -340,7 +340,7 @@ translate francais v10_call_with_lauren2_eec36158:
 translate francais v10_call_with_lauren2_7cd8177f:
 
     # u "Yeah, I guess. I don’t really know, it seems like a lot of responsibility."
-    u "Oui, je crois. Je ne sais pas vraiment, ça semble être une grande responsabilité."
+    u "Oui, je crois. Je sais pas vraiment, ça semble être une grande responsabilité."
 
 # game/v10/scene18.rpy:300
 translate francais v10_call_with_lauren2_6f08e1e1:
@@ -352,7 +352,7 @@ translate francais v10_call_with_lauren2_6f08e1e1:
 translate francais v10_call_with_lauren2_ba61dac1:
 
     # u "You ever just have random questions pop up in your head, but then you’re like… wait a minute, I don’t even know what I’d do in that scenario?"
-    u "Tu n'as jamais eu de questions aléatoires qui te viennent à l'esprit, mais ensuite tu te dis... attends une minute, je ne sais même pas ce que je ferais dans ce scénario ?"
+    u "Tu n'as jamais eu de questions aléatoires qui te viennent à l'esprit, mais ensuite tu te dis... attends une minute, je sais même pas ce que je ferais dans ce scénario ?"
 
 # game/v10/scene18.rpy:310
 translate francais v10_call_with_lauren2_e66e68fc:
@@ -364,7 +364,7 @@ translate francais v10_call_with_lauren2_e66e68fc:
 translate francais v10_call_with_lauren2_dc7fadd3:
 
     # u "Okay, so right before I went to bed last night I thought about this. If you're a genie and someone says \"I wish you wouldn't grant me this wish\", what do you do?"
-    u "Ok, alors juste avant d'aller me coucher hier soir, j'ai pensé à ça. Si tu es un génie et que quelqu'un te dit : \"J'aimerais que tu ne m'accordes pas ce souhait\", que fais-tu ?"
+    u "Ok, alors juste avant d'aller me coucher hier soir, j'ai pensé à ça. Si tu es un génie et que quelqu'un te dit : \"J'aimerais que tu m'accordes pas ce souhait\", que fais-tu ?"
 
 # game/v10/scene18.rpy:320
 translate francais v10_call_with_lauren2_26f1f200:
@@ -376,7 +376,7 @@ translate francais v10_call_with_lauren2_26f1f200:
 translate francais v10_call_with_lauren2_b702016c:
 
     # u "You’re making it too easy! If you’re not granting him the wish then you would be granting him the wish, but that would mean you wouldn’t grant him the wish and that-"
-    u "Tu rends ça trop facile ! Si tu ne lui accordes pas le souhait, alors tu lui accorderais le souhait, mais ça voudrait dire que tu ne lui accorderais pas le souhait et que..."
+    u "Tu rends ça trop facile ! Si tu lui accordes pas le souhait, alors tu lui accorderais le souhait, mais ça voudrait dire que tu lui accorderais pas le souhait et que..."
 
 # game/v10/scene18.rpy:330
 translate francais v10_call_with_lauren2_1ce0cfa9:
@@ -472,7 +472,7 @@ translate francais v10_call_with_lauren2_f36a01c4_1:
 translate francais v10_call_with_lauren2_6aad51bc_1:
 
     # u "*Laughs* So the whole event is buzzing and every stand has a long queue, but just absolutely no one comes to you? That would be pretty funny to be fair."
-    u "*Rire* Donc, tout l'événement est en effervescence et chaque stand a une longue file d'attente, mais absolument personne ne vient te voir ? Ce serait assez drôle pour être honnête."
+    u "*Rire* Donc, tout l'événement est en effervescence et chaque stand a une longue file d'attente, mais absolument personne vient te voir ? Ce serait assez drôle pour être honnête."
 
 # game/v10/scene18.rpy:422
 translate francais v10_call_with_lauren2_2a570b1b_1:
@@ -592,7 +592,7 @@ translate francais v10_call_with_lauren2_0de6609d_1:
 translate francais v10_call_with_lauren2_f3cbcca2_1:
 
     # u "Oh, I didn’t even know you were super religious."
-    u "Oh, je ne savais même pas que tu étais super religieuse."
+    u "Oh, je savais même pas que tu étais super religieuse."
 
 # game/v10/scene18.rpy:510
 translate francais v10_call_with_lauren2_a4af9b8f_1:
@@ -622,7 +622,7 @@ translate francais v10_call_with_lauren2_8d5cf2ce_1:
 translate francais v10_call_with_lauren2_73d23e78_1:
 
     # u "Do you feel like you’re not your own person?"
-    u "As-tu l'impression de ne pas être ta propre personne ?"
+    u "As-tu l'impression de pas être ta propre personne ?"
 
 # game/v10/scene18.rpy:532
 translate francais v10_call_with_lauren2_d567b340_1:
@@ -634,7 +634,7 @@ translate francais v10_call_with_lauren2_d567b340_1:
 translate francais v10_call_with_lauren2_c300adc2_1:
 
     # u "Yeah, I get what you mean. I feel like we shouldn't ever sacrifice our own happiness just to make others happy. If we don't look out for ourselves then who will."
-    u "Oui, je comprends ce que tu veux dire. J'ai l'impression que nous ne devrions jamais sacrifier notre propre bonheur juste pour rendre les autres heureux. Si on ne prend pas soin de soi, qui le fera ?"
+    u "Oui, je comprends ce que tu veux dire. J'ai l'impression que nous devrions jamais sacrifier notre propre bonheur juste pour rendre les autres heureux. Si on prend pas soin de soi, qui le fera ?"
 
 # game/v10/scene18.rpy:546
 translate francais v10_call_with_lauren2_9fbfe485_1:
@@ -652,7 +652,7 @@ translate francais v10_call_with_lauren2_372d1d91_1:
 translate francais v10_call_with_lauren2_fc00b03f_1:
 
     # u "I guess, but it’s also nice to make other people happy. I don’t know, your selflessness is one of the things I like most about you."
-    u "Je crois, mais c'est aussi bien de rendre les autres heureux. Je ne sais pas, ton altruisme est une des choses que j'aime le plus chez toi."
+    u "Je crois, mais c'est aussi bien de rendre les autres heureux. Je sais pas, ton altruisme est une des choses que j'aime le plus chez toi."
 
 # game/v10/scene18.rpy:562
 translate francais v10_call_with_lauren2_be3f26fc_1:
@@ -670,7 +670,7 @@ translate francais v10_call_with_lauren2_996d5275_1:
 translate francais v10_call_with_lauren2_f4b28178_1:
 
     # u "Wait, is this like a trick question where I gotta make sure that my answer doesn’t hurt your feelings or something?"
-    u "Attends, c'est une question piège où je dois m'assurer que ma réponse ne te blesse pas ou quelque chose comme ça ?"
+    u "Attends, c'est une question piège où je dois m'assurer que ma réponse te blesse pas ou quelque chose comme ça ?"
 
 # game/v10/scene18.rpy:578
 translate francais v10_call_with_lauren2_8c3ed4b7_1:
@@ -706,7 +706,7 @@ translate francais v10_call_with_lauren2_ec523e46_1:
 translate francais v10_call_with_lauren2_9a90e255_2:
 
     # u "*Chuckles* Just not letting that one go, are you?"
-    u "*rire* Tu ne vas pas laisser passer ça, n'est-ce pas ?"
+    u "*rire* Tu vas pas laisser passer ça, n'est-ce pas ?"
 
 # game/v10/scene18.rpy:613
 translate francais v10_call_with_lauren2_afdeb934_2:
@@ -730,7 +730,7 @@ translate francais v10_call_with_lauren2_150ac2a4_1:
 translate francais v10_call_with_lauren2_9a90e255_3:
 
     # u "*Chuckles* Just not letting that one go, are you?"
-    u "*rire* Tu ne vas pas laisser passer ça, n'est-ce pas ?"
+    u "*rire* Tu vas pas laisser passer ça, n'est-ce pas ?"
 
 # game/v10/scene18.rpy:634
 translate francais v10_call_with_lauren2_afdeb934_3:
@@ -742,7 +742,7 @@ translate francais v10_call_with_lauren2_afdeb934_3:
 translate francais v10_call_with_lauren2_bfa2a374_1:
 
     # u "I don't think so, kinda sounds expensive. I’m just not really a big family man."
-    u "Je ne pense pas, ça paraît assez cher. Je ne suis pas vraiment un grand père de famille."
+    u "Je pense pas, ça paraît assez cher. Je suis pas vraiment un grand père de famille."
 
 # game/v10/scene18.rpy:645
 translate francais v10_call_with_lauren2_eec36158_1:
@@ -754,7 +754,7 @@ translate francais v10_call_with_lauren2_eec36158_1:
 translate francais v10_call_with_lauren2_7cd8177f_1:
 
     # u "Yeah, I guess. I don’t really know, it seems like a lot of responsibility."
-    u "Oui, je crois. Je ne sais pas vraiment, ça semble être une grande responsabilité."
+    u "Oui, je crois. Je sais pas vraiment, ça semble être une grande responsabilité."
 
 # game/v10/scene18.rpy:655
 translate francais v10_call_with_lauren2_6f08e1e1_1:
@@ -766,7 +766,7 @@ translate francais v10_call_with_lauren2_6f08e1e1_1:
 translate francais v10_call_with_lauren2_ba61dac1_1:
 
     # u "You ever just have random questions pop up in your head, but then you’re like… wait a minute, I don’t even know what I’d do in that scenario?"
-    u "Tu n'as jamais eu de questions aléatoires qui te viennent à l'esprit, mais ensuite tu te dis... attends une minute, je ne sais même pas ce que je ferais dans ce scénario ?"
+    u "Tu n'as jamais eu de questions aléatoires qui te viennent à l'esprit, mais ensuite tu te dis... attends une minute, je sais même pas ce que je ferais dans ce scénario ?"
 
 # game/v10/scene18.rpy:665
 translate francais v10_call_with_lauren2_e66e68fc_1:
@@ -778,7 +778,7 @@ translate francais v10_call_with_lauren2_e66e68fc_1:
 translate francais v10_call_with_lauren2_dc7fadd3_1:
 
     # u "Okay, so right before I went to bed last night I thought about this. If you're a genie and someone says \"I wish you wouldn't grant me this wish\", what do you do?"
-    u "Ok, alors juste avant d'aller me coucher hier soir, j'ai pensé à ça. Si tu es un génie et que quelqu'un te dit : \"J'aimerais que tu ne m'accordes pas ce souhait\", que fais-tu ?"
+    u "Ok, alors juste avant d'aller me coucher hier soir, j'ai pensé à ça. Si tu es un génie et que quelqu'un te dit : \"J'aimerais que tu m'accordes pas ce souhait\", que fais-tu ?"
 
 # game/v10/scene18.rpy:675
 translate francais v10_call_with_lauren2_26f1f200_1:
@@ -790,7 +790,7 @@ translate francais v10_call_with_lauren2_26f1f200_1:
 translate francais v10_call_with_lauren2_b702016c_1:
 
     # u "You’re making it too easy! If you’re not granting him the wish then you would be granting him the wish, but that would mean you wouldn’t grant him the wish and that-"
-    u "Tu rends ça trop facile ! Si tu ne lui accordes pas le souhait, alors tu lui accorderais le souhait, mais ça voudrait dire que tu ne lui accorderais pas le souhait et que..."
+    u "Tu rends ça trop facile ! Si tu lui accordes pas le souhait, alors tu lui accorderais le souhait, mais ça voudrait dire que tu lui accorderais pas le souhait et que..."
 
 # game/v10/scene18.rpy:685
 translate francais v10_call_with_lauren2_1ce0cfa9_1:
@@ -922,7 +922,7 @@ translate francais v10_call_with_lauren2_34637223:
 translate francais v10_call_with_lauren2_213c4edb:
 
     # u "Oh, I didn't even know you were super religious."
-    u "Oh, je ne savais pas que tu étais super religieuse."
+    u "Oh, je savais pas que tu étais super religieuse."
 
 # game/v10/scene18.rpy:160
 translate francais v10_call_with_lauren2_57f3faab:
@@ -940,13 +940,13 @@ translate francais v10_call_with_lauren2_d1a3c8c5:
 translate francais v10_call_with_lauren2_af9ac2ee:
 
     # u "Do you feel like you're not your own person?"
-    u "As-tu l'impression de ne pas être ta propre personne ?"
+    u "As-tu l'impression de pas être ta propre personne ?"
 
 # game/v10/scene18.rpy:202
 translate francais v10_call_with_lauren2_ef55f80c:
 
     # u "I guess, but it's also nice to make other people happy. I don't know, your selflessness is one of the things I like most about you."
-    u "Je pense, mais c'est aussi bien de rendre les autres heureux. Je ne sais pas, ton altruisme est une des choses que j'aime le plus chez toi."
+    u "Je pense, mais c'est aussi bien de rendre les autres heureux. Je sais pas, ton altruisme est une des choses que j'aime le plus chez toi."
 
 # game/v10/scene18.rpy:207
 translate francais v10_call_with_lauren2_e259bc54:
@@ -976,13 +976,13 @@ translate francais v10_call_with_lauren2_eeb719d0:
 translate francais v10_call_with_lauren2_fdd1ca76:
 
     # u "I don't think so, kinda sounds expensive. I'm just not really a big family man."
-    u "Je ne pense pas, ça doit pas mal coûter cher. Je ne suis pas vraiment un grand père de famille."
+    u "Je pense pas, ça doit pas mal coûter cher. Je suis pas vraiment un grand père de famille."
 
 # game/v10/scene18.rpy:295
 translate francais v10_call_with_lauren2_2460e7aa:
 
     # u "Yeah, I guess. I don't really know, it seems like a lot of responsibility."
-    u "Oui, je pense. Je ne sais pas vraiment, ça semble être une grande responsabilité."
+    u "Oui, je pense. Je sais pas vraiment, ça semble être une grande responsabilité."
 
 # game/v10/scene18.rpy:300
 translate francais v10_call_with_lauren2_1db55f51:
@@ -994,13 +994,13 @@ translate francais v10_call_with_lauren2_1db55f51:
 translate francais v10_call_with_lauren2_77b9bc23:
 
     # u "You ever just have random questions pop up in your head, but then you're like... wait a minute, I don't even know what I'd do in that scenario?"
-    u "Tu n'as jamais eu de questions aléatoires qui te viennent à l'esprit, mais ensuite tu te dis... attends une minute, je ne sais même pas ce que je ferais dans ce scénario ?"
+    u "Tu n'as jamais eu de questions aléatoires qui te viennent à l'esprit, mais ensuite tu te dis... attends une minute, je sais même pas ce que je ferais dans ce scénario ?"
 
 # game/v10/scene18.rpy:325
 translate francais v10_call_with_lauren2_55e92563:
 
     # u "You're making it too easy! If you're not granting him the wish then you would be granting him the wish, but that would mean you wouldn't grant him the wish and that-"
-    u "Tu rends ça trop facile ! Si tu ne lui accordes pas le souhait, alors tu lui accorderais le souhait, mais ça voudrait dire que tu ne lui accorderais pas le souhait et que-"
+    u "Tu rends ça trop facile ! Si tu lui accordes pas le souhait, alors tu lui accorderais le souhait, mais ça voudrait dire que tu lui accorderais pas le souhait et que-"
 
 # game/v10/scene18.rpy:330
 translate francais v10_call_with_lauren2_0517d272:
@@ -1096,7 +1096,7 @@ translate francais v10_call_with_lauren2_34637223_1:
 translate francais v10_call_with_lauren2_213c4edb_1:
 
     # u "Oh, I didn't even know you were super religious."
-    u "Oh, je ne savais pas que tu étais super religieuse."
+    u "Oh, je savais pas que tu étais super religieuse."
 
 # game/v10/scene18.rpy:515
 translate francais v10_call_with_lauren2_57f3faab_1:
@@ -1114,13 +1114,13 @@ translate francais v10_call_with_lauren2_d1a3c8c5_1:
 translate francais v10_call_with_lauren2_af9ac2ee_1:
 
     # u "Do you feel like you're not your own person?"
-    u "As-tu l'impression de ne pas être ta propre personne ?"
+    u "As-tu l'impression de pas être ta propre personne ?"
 
 # game/v10/scene18.rpy:557
 translate francais v10_call_with_lauren2_ef55f80c_1:
 
     # u "I guess, but it's also nice to make other people happy. I don't know, your selflessness is one of the things I like most about you."
-    u "Je pense, mais c'est aussi bien de rendre les autres heureux. Je ne sais pas, ton altruisme est une des choses que j'aime le plus chez toi."
+    u "Je pense, mais c'est aussi bien de rendre les autres heureux. Je sais pas, ton altruisme est une des choses que j'aime le plus chez toi."
 
 # game/v10/scene18.rpy:562
 translate francais v10_call_with_lauren2_e259bc54_1:
@@ -1138,7 +1138,7 @@ translate francais v10_call_with_lauren2_41aee1b9_1:
 translate francais v10_call_with_lauren2_ed206474_1:
 
     # u "Wait, is this like a trick question where I gotta make sure that my answer doesn't hurt your feelings or something?"
-    u "Attends, c'est une question piège où je dois m'assurer que ma réponse ne te blesse pas ou quelque chose comme ça ?"
+    u "Attends, c'est une question piège où je dois m'assurer que ma réponse te blesse pas ou quelque chose comme ça ?"
 
 # game/v10/scene18.rpy:578
 translate francais v10_call_with_lauren2_eeb719d0_1:
@@ -1150,13 +1150,13 @@ translate francais v10_call_with_lauren2_eeb719d0_1:
 translate francais v10_call_with_lauren2_fdd1ca76_1:
 
     # u "I don't think so, kinda sounds expensive. I'm just not really a big family man."
-    u "Je ne pense pas, ça doit pas mal coûter cher. Je ne suis pas vraiment un grand père de famille."
+    u "Je pense pas, ça doit pas mal coûter cher. Je suis pas vraiment un grand père de famille."
 
 # game/v10/scene18.rpy:650
 translate francais v10_call_with_lauren2_2460e7aa_1:
 
     # u "Yeah, I guess. I don't really know, it seems like a lot of responsibility."
-    u "Oui, je crois. Je ne sais pas vraiment, ça semble être une grande responsabilité."
+    u "Oui, je crois. Je sais pas vraiment, ça semble être une grande responsabilité."
 
 # game/v10/scene18.rpy:655
 translate francais v10_call_with_lauren2_1db55f51_1:
@@ -1168,13 +1168,13 @@ translate francais v10_call_with_lauren2_1db55f51_1:
 translate francais v10_call_with_lauren2_77b9bc23_1:
 
     # u "You ever just have random questions pop up in your head, but then you're like... wait a minute, I don't even know what I'd do in that scenario?"
-    u "Tu n'as jamais eu de questions aléatoires qui te viennent à l'esprit, mais ensuite tu te dis... attends une minute, je ne sais même pas ce que je ferais dans ce scénario ?"
+    u "Tu n'as jamais eu de questions aléatoires qui te viennent à l'esprit, mais ensuite tu te dis... attends une minute, je sais même pas ce que je ferais dans ce scénario ?"
 
 # game/v10/scene18.rpy:680
 translate francais v10_call_with_lauren2_55e92563_1:
 
     # u "You're making it too easy! If you're not granting him the wish then you would be granting him the wish, but that would mean you wouldn't grant him the wish and that-"
-    u "Tu rends ça trop facile ! Si tu ne lui accordes pas le souhait, alors tu lui accorderais le souhait, mais ça voudrait dire que tu ne lui accorderais pas le souhait et que-"
+    u "Tu rends ça trop facile ! Si tu lui accordes pas le souhait, alors tu lui accorderais le souhait, mais ça voudrait dire que tu lui accorderais pas le souhait et que-"
 
 # game/v10/scene18.rpy:685
 translate francais v10_call_with_lauren2_0517d272_1:

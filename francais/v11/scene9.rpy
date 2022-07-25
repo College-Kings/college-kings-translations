@@ -52,7 +52,7 @@ translate francais v11_apes_manhunt_0f468972:
 translate francais v11_apes_manhunt_6f5eb889:
 
     # gr "What do you mean you're not gonna like it? You're not a fan of tradition?"
-    gr "Comment ça, tu ne vas pas aimer ? Tu n'es pas un fan de la tradition ?"
+    gr "Comment ça, tu vas pas aimer ? Tu n'es pas un fan de la tradition ?"
 
 # game/v11/scene9.rpy:67
 translate francais v11_apes_manhunt_0a4fdfad:
@@ -280,7 +280,7 @@ translate francais v11_apes_manhunt_82316ca7:
 translate francais v11_apes_manhunt_fc956c5e:
 
     # u "*Mocking* Don't ask any questions! Haha, Cameron's such a hardass."
-    u "*Moqueur* Ne pose pas de questions ! Haha, Cameron est un vrai dur à cuire."
+    u "*Moqueur* Pose pas de questions ! Haha, Cameron est un vrai dur à cuire."
 
 # game/v11/scene9.rpy:342
 translate francais v11_apes_manhunt_e955642e:
@@ -400,7 +400,7 @@ translate francais v11_apes_manhunt_49194c72:
 translate francais v11_apes_manhunt_8fbbf7a0:
 
     # u "What? They'll just catch both of us. Don't be a dick bro, find your own spot."
-    u "Quoi ? Ils vont nous chopper tous les deux. Ne sois pas un connard et dégage ! Trouve ta propre cachette."
+    u "Quoi ? Ils vont nous chopper tous les deux. Sois pas un connard et dégage ! Trouve ta propre cachette."
 
 # game/v11/scene9.rpy:479
 translate francais v11_apes_manhunt_f7738047:
@@ -484,7 +484,7 @@ translate francais v11_apes_manhunt_3758cc54:
 translate francais v11_apes_manhunt_4b62f477:
 
     # gr "No, it really wasn't."
-    gr "Non, ça ne l'était vraiment pas."
+    gr "Non, ça l'était vraiment pas."
 
 # game/v11/scene9.rpy:581
 translate francais v11_apes_manhunt_370bd6f6:
@@ -652,7 +652,7 @@ translate francais v11_apes_manhunt_957de541:
 translate francais v11_apes_manhunt_a3f1b2dc:
 
     # gr "Well, nice try, but it didn't work."
-    gr "Bien essayé, mais ça ne marche plus."
+    gr "Bien essayé, mais ça marche plus."
 
 # game/v11/scene9.rpy:777
 translate francais v11_apes_manhunt_43c66084:
@@ -778,7 +778,7 @@ translate francais v11_apes_manhunt_957de541_1:
 translate francais v11_apes_manhunt_a3f1b2dc_1:
 
     # gr "Well, nice try, but it didn't work."
-    gr "Bien essayé, mais ça ne marche plus."
+    gr "Bien essayé, mais ça marche plus."
 
 # game/v11/scene9.rpy:912
 translate francais v11_apes_manhunt_43c66084_1:
@@ -976,7 +976,7 @@ translate francais v11_apes_manhunt_79ee2368:
 translate francais v11_horse_fall_85ad7557:
 
     # u "(I can't balance.)"
-    u "(Je ne peux pas équilibrer.)"
+    u "(Je peux pas équilibrer.)"
 
 # game/v11/scene9.rpy:1155
 translate francais v11_horse_fall_b51cf10d:

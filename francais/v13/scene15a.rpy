@@ -10,7 +10,7 @@ translate francais v13s15a_e99db1b7:
 translate francais v13s15a_bfb2c4b5:
 
     # u "(I can't see a damn thing.)"
-    u "(Je ne vois rien du tout.)"
+    u "(Je vois rien du tout.)"
 
 # game/v13/scene15a.rpy:39
 translate francais v13s15a_718f474c:
@@ -34,7 +34,7 @@ translate francais v13s15a_8b7c151c:
 translate francais v13s15a_893fc89a:
 
     # u "You couldn't even say that with a straight face..."
-    u "Tu ne pouvais même pas dire ça en gardant un visage impassible..."
+    u "Tu pouvais même pas dire ça en gardant un visage impassible..."
 
 # game/v13/scene15a.rpy:64
 translate francais v13s15a_f01e123f:
@@ -46,7 +46,7 @@ translate francais v13s15a_f01e123f:
 translate francais v13s15a_8b1ede4a:
 
     # u "I told you, I'm not upset. I honestly forget about it all the time until you bring it up."
-    u "Je te l'ai dit, je ne suis pas en colère. Honnêtement, je n'y pense jamais jusqu'à ce que tu en parles."
+    u "Je te l'ai dit, je suis pas en colère. Honnêtement, je n'y pense jamais jusqu'à ce que tu en parles."
 
 # game/v13/scene15a.rpy:74
 translate francais v13s15a_c6437141:
@@ -226,7 +226,7 @@ translate francais v13s15a_PhoneContinueLauren_ecfd30d1_1:
 translate francais v13s15a_PhoneContinueLauren_875d3dd4:
 
     # u "Very flattering, I mean very very flattering. But as I said before, no need to pay me back. All is forgiven and I don't want you doing that as a payback."
-    u "Très flatteur, je veux dire très très flatteur. Mais comme je l'ai déjà dit, pas besoin de me rembourser. Tout est pardonné et je ne veux pas que tu fasses ça en guise de réparation."
+    u "Très flatteur, je veux dire très très flatteur. Mais comme je l'ai déjà dit, pas besoin de me rembourser. Tout est pardonné et je veux pas que tu fasses ça en guise de réparation."
 
 # game/v13/scene15a.rpy:304
 translate francais v13s15a_PhoneContinueLauren_66636536:

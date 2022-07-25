@@ -142,7 +142,7 @@ translate francais v10_call_with_lauren1_89cc83a0:
 translate francais v10_call_with_lauren1_13ef612a:
 
     # u "I don't want to brag or anything, but I am sort of a professional at this game. The trick is to live a life that's utterly ridiculous."
-    u "Je ne veux pas me vanter, mais en gros, je suis un professionnel à ce jeu. L'astuce est de vivre une vie qui est complètement ridicule."
+    u "Je veux pas me vanter, mais en gros, je suis un professionnel à ce jeu. L'astuce est de vivre une vie qui est complètement ridicule."
 
 # game/v10/scene15.rpy:134
 translate francais v10_call_with_lauren1_9b755f5b:
@@ -178,7 +178,7 @@ translate francais v10_call_with_lauren1_6ffb8151:
 translate francais v10_call_with_lauren1_d805ddb1:
 
     # u "*Smiles* That's actually hilarious. But I won't do you like that. You actually were right."
-    u "*Sourire* C'est en fait hilarant. Mais je ne vais pas faire comme ça. Tu avais bien raison."
+    u "*Sourire* C'est en fait hilarant. Mais je vais pas faire comme ça. Tu avais bien raison."
 
 # game/v10/scene15.rpy:158
 translate francais v10_call_with_lauren1_abfff6ec:
@@ -310,7 +310,7 @@ translate francais v10_call_with_lauren1_93b150ea:
 translate francais v10_call_with_lauren1_500e6417:
 
     # u "I guess it wouldn't hurt to give a little performance sometime."
-    u "Je crois que ça ne ferait pas de mal de donner une petite performance de temps en temps."
+    u "Je crois que ça ferait pas de mal de donner une petite performance de temps en temps."
 
 # game/v10/scene15.rpy:261
 translate francais v10_call_with_lauren1_6b05d4f4:
@@ -424,7 +424,7 @@ translate francais v10_call_with_lauren1_b53e5787:
 translate francais v10_call_with_lauren1_da69e2a1:
 
     # u "Honestly, I'm not sure if I made it up or learned about it from someone else. It's a pretty simple game."
-    u "Honnêtement, je ne sais pas si je l'ai inventé ou si je l'ai appris par quelqu'un d'autre. C'est un jeu assez simple."
+    u "Honnêtement, je sais pas si je l'ai inventé ou si je l'ai appris par quelqu'un d'autre. C'est un jeu assez simple."
 
 # game/v10/scene15.rpy:359
 translate francais v10_call_with_lauren1_7c33fcd8:
@@ -532,7 +532,7 @@ translate francais v10_call_with_lauren1_4f0fed6b:
 translate francais v10_call_with_lauren1_4de5d364:
 
     # u "Wait, what? Your birthday doesn't count as a holiday... well unless your birthday is on a holiday. *Laughs*"
-    u "Attends, quoi ? Ton anniversaire ne compte pas comme un jour férié... enfin, sauf si ton anniversaire est un jour férié. *Rire*"
+    u "Attends, quoi ? Ton anniversaire compte pas comme un jour férié... enfin, sauf si ton anniversaire est un jour férié. *Rire*"
 
 # game/v10/scene15.rpy:470
 translate francais v10_call_with_lauren1_efbde647:
@@ -556,7 +556,7 @@ translate francais v10_call_with_lauren1_8d149c76:
 translate francais v10_call_with_lauren1_357cb356:
 
     # u "Kinda surprised I don't know your birthday already, but let's see, are you a Christmas baby?"
-    u "Je suis surpris de ne pas connaître ton anniversaire. Je vais dire... es-tu un bébé de Noël ?"
+    u "Je suis surpris de pas connaître ton anniversaire. Je vais dire... es-tu un bébé de Noël ?"
 
 # game/v10/scene15.rpy:490
 translate francais v10_call_with_lauren1_eefa544c:
@@ -592,7 +592,7 @@ translate francais v10_call_with_lauren1_ea899a79:
 translate francais v10_call_with_lauren1_a4665b39:
 
     # u "I don't know, like a day were people celebrate scary stuff and don't have to go to school because of it."
-    u "Je ne sais pas, comme un jour où les gens célèbrent des trucs effrayants et ne doivent pas aller à l'école à cause de ça."
+    u "Je sais pas, comme un jour où les gens célèbrent des trucs effrayants et doivent pas aller à l'école à cause de ça."
 
 # game/v10/scene15.rpy:520
 translate francais v10_call_with_lauren1_d2b0070e:
@@ -982,7 +982,7 @@ translate francais v10_call_with_lauren1_89cc83a0_1:
 translate francais v10_call_with_lauren1_13ef612a_1:
 
     # u "I don't want to brag or anything, but I am sort of a professional at this game. The trick is to live a life that's utterly ridiculous."
-    u "Je ne veux pas me vanter, mais en gros, je suis un professionnel à ce jeu. L'astuce est de vivre une vie qui est complètement ridicule."
+    u "Je veux pas me vanter, mais en gros, je suis un professionnel à ce jeu. L'astuce est de vivre une vie qui est complètement ridicule."
 
 # game/v10/scene15.rpy:895
 translate francais v10_call_with_lauren1_9b755f5b_1:
@@ -1018,7 +1018,7 @@ translate francais v10_call_with_lauren1_6ffb8151_1:
 translate francais v10_call_with_lauren1_d805ddb1_1:
 
     # u "*Smiles* That's actually hilarious. But I won't do you like that. You actually were right."
-    u "*Sourire* C'est en fait hilarant. Mais je ne vais pas faire comme ça. En fait, tu avais raison."
+    u "*Sourire* C'est en fait hilarant. Mais je vais pas faire comme ça. En fait, tu avais raison."
 
 # game/v10/scene15.rpy:919
 translate francais v10_call_with_lauren1_abfff6ec_1:
@@ -1150,7 +1150,7 @@ translate francais v10_call_with_lauren1_93b150ea_1:
 translate francais v10_call_with_lauren1_500e6417_1:
 
     # u "I guess it wouldn't hurt to give a little performance sometime."
-    u "Je crois que ça ne ferait pas de mal de donner une petite performance de temps en temps."
+    u "Je crois que ça ferait pas de mal de donner une petite performance de temps en temps."
 
 # game/v10/scene15.rpy:1022
 translate francais v10_call_with_lauren1_6b05d4f4_1:
@@ -1264,7 +1264,7 @@ translate francais v10_call_with_lauren1_b53e5787_1:
 translate francais v10_call_with_lauren1_da69e2a1_1:
 
     # u "Honestly, I'm not sure if I made it up or learned about it from someone else. It's a pretty simple game."
-    u "Honnêtement, je ne sais pas si je l'ai inventé ou si je l'ai appris par quelqu'un d'autre. C'est un jeu assez simple."
+    u "Honnêtement, je sais pas si je l'ai inventé ou si je l'ai appris par quelqu'un d'autre. C'est un jeu assez simple."
 
 # game/v10/scene15.rpy:1120
 translate francais v10_call_with_lauren1_7c33fcd8_1:
@@ -1372,7 +1372,7 @@ translate francais v10_call_with_lauren1_4f0fed6b_1:
 translate francais v10_call_with_lauren1_4de5d364_1:
 
     # u "Wait, what? Your birthday doesn't count as a holiday... well unless your birthday is on a holiday. *Laughs*"
-    u "Attends, quoi ? Ton anniversaire ne compte pas comme un jour férié... enfin, sauf si ton anniversaire est un jour férié. *Rire*"
+    u "Attends, quoi ? Ton anniversaire compte pas comme un jour férié... enfin, sauf si ton anniversaire est un jour férié. *Rire*"
 
 # game/v10/scene15.rpy:1231
 translate francais v10_call_with_lauren1_efbde647_1:
@@ -1396,7 +1396,7 @@ translate francais v10_call_with_lauren1_8d149c76_1:
 translate francais v10_call_with_lauren1_357cb356_1:
 
     # u "Kinda surprised I don't know your birthday already, but let's see, are you a Christmas baby?"
-    u "Je suis surpris de ne pas connaître ton anniversaire. Je vais dire... es-tu un bébé de Noël ?"
+    u "Je suis surpris de pas connaître ton anniversaire. Je vais dire... es-tu un bébé de Noël ?"
 
 # game/v10/scene15.rpy:1251
 translate francais v10_call_with_lauren1_eefa544c_1:
@@ -1432,7 +1432,7 @@ translate francais v10_call_with_lauren1_ea899a79_1:
 translate francais v10_call_with_lauren1_a4665b39_1:
 
     # u "I don't know, like a day were people celebrate scary stuff and don't have to go to school because of it."
-    u "Je ne sais pas, comme un jour où les gens célèbrent des trucs effrayants et ne doivent pas aller à l'école à cause de ça."
+    u "Je sais pas, comme un jour où les gens célèbrent des trucs effrayants et doivent pas aller à l'école à cause de ça."
 
 # game/v10/scene15.rpy:1281
 translate francais v10_call_with_lauren1_d2b0070e_1:
@@ -1791,7 +1791,7 @@ translate francais v10s15_c1_89cc83a0:
 translate francais v10s15_c1_13ef612a:
 
     # u "I don't want to brag or anything, but I am sort of a professional at this game. The trick is to live a life that's utterly ridiculous."
-    u "Je ne veux pas me vanter, mais en gros, je suis un professionnel à ce jeu. L'astuce est de vivre une vie qui est complètement ridicule."
+    u "Je veux pas me vanter, mais en gros, je suis un professionnel à ce jeu. L'astuce est de vivre une vie qui est complètement ridicule."
 
 # game/v10/scene15.rpy:181
 translate francais v10s15_c1_9b755f5b:
@@ -1827,7 +1827,7 @@ translate francais v10s15_c1_6ffb8151:
 translate francais v10s15_c1_d805ddb1:
 
     # u "*Smiles* That's actually hilarious. But I won't do you like that. You actually were right."
-    u "*Sourire* C'est en fait hilarant. Mais je ne vais pas faire comme ça. Tu avais bien raison."
+    u "*Sourire* C'est en fait hilarant. Mais je vais pas faire comme ça. Tu avais bien raison."
 
 # game/v10/scene15.rpy:208
 translate francais v10s15_c1_abfff6ec:
@@ -1959,7 +1959,7 @@ translate francais v10s15_c1_93b150ea:
 translate francais v10s15_c1_500e6417:
 
     # u "I guess it wouldn't hurt to give a little performance sometime."
-    u "Je crois que ça ne ferait pas de mal de donner une petite performance de temps en temps."
+    u "Je crois que ça ferait pas de mal de donner une petite performance de temps en temps."
 
 # game/v10/scene15.rpy:336
 translate francais v10s15_c1_6b05d4f4:
@@ -2073,7 +2073,7 @@ translate francais v10s15_c2_b53e5787:
 translate francais v10s15_c2_da69e2a1:
 
     # u "Honestly, I'm not sure if I made it up or learned about it from someone else. It's a pretty simple game."
-    u "Honnêtement, je ne sais pas si je l'ai inventé ou si je l'ai appris par quelqu'un d'autre. C'est un jeu assez simple."
+    u "Honnêtement, je sais pas si je l'ai inventé ou si je l'ai appris par quelqu'un d'autre. C'est un jeu assez simple."
 
 # game/v10/scene15.rpy:458
 translate francais v10s15_c2_7c33fcd8:
@@ -2181,7 +2181,7 @@ translate francais v10s15_c2_4f0fed6b:
 translate francais v10s15_c2_4de5d364:
 
     # u "Wait, what? Your birthday doesn't count as a holiday... well unless your birthday is on a holiday. *Laughs*"
-    u "Attends, quoi ? Ton anniversaire ne compte pas comme un jour férié... enfin, sauf si ton anniversaire est un jour férié. *Rire*"
+    u "Attends, quoi ? Ton anniversaire compte pas comme un jour férié... enfin, sauf si ton anniversaire est un jour férié. *Rire*"
 
 # game/v10/scene15.rpy:608
 translate francais v10s15_c2_efbde647:
@@ -2205,7 +2205,7 @@ translate francais v10s15_c2_8d149c76:
 translate francais v10s15_c2_357cb356:
 
     # u "Kinda surprised I don't know your birthday already, but let's see, are you a Christmas baby?"
-    u "Je suis surpris de ne pas connaître ton anniversaire. Je vais dire... es-tu un bébé de Noël ?"
+    u "Je suis surpris de pas connaître ton anniversaire. Je vais dire... es-tu un bébé de Noël ?"
 
 # game/v10/scene15.rpy:634
 translate francais v10s15_c2_eefa544c:
@@ -2241,7 +2241,7 @@ translate francais v10s15_c2_ea899a79:
 translate francais v10s15_c2_a4665b39:
 
     # u "I don't know, like a day were people celebrate scary stuff and don't have to go to school because of it."
-    u "Je ne sais pas, comme un jour où les gens célèbrent des trucs effrayants et ne doivent pas aller à l'école à cause de ça."
+    u "Je sais pas, comme un jour où les gens célèbrent des trucs effrayants et doivent pas aller à l'école à cause de ça."
 
 # game/v10/scene15.rpy:673
 translate francais v10s15_c2_d2b0070e:

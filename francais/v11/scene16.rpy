@@ -448,7 +448,7 @@ translate francais v11_lauren_airport_convo_00bd2189:
 translate francais v11_lauren_airport_convo_b0396c18:
 
     # u "No, I didn't know that, but I still don't fuck with him. He just comes out of nowhere and all of a sudden he's buddied up to everyone. Like what the fuck?"
-    u "Non, je ne le savais pas, mais je n'ai pourtant pas déconné avec lui. Il sort de nulle part et tout d'un coup, il se lie d'amitié avec tout le monde et me dit de dégager. C'est quoi ce bordel ?"
+    u "Non, je le savais pas, mais je n'ai pourtant pas déconné avec lui. Il sort de nulle part et tout d'un coup, il se lie d'amitié avec tout le monde et me dit de dégager. C'est quoi ce bordel ?"
 
 # game/v11/scene16.rpy:513
 translate francais v11_lauren_airport_convo_6730ef15:
@@ -486,4 +486,4 @@ translate francais strings:
 
     # game/v11/scene16.rpy:217
     old "Act clueless"
-    new "Faire semblant de ne rien comprendre"
+    new "Faire semblant de rien comprendre"

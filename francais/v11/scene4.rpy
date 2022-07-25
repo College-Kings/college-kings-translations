@@ -100,7 +100,7 @@ translate francais v11s4_PhoneContinueEmily1_336e7f27:
 translate francais v11s4_PhoneContinueEmily1_f9b69592:
 
     # u "I mean that's fine. If you don't wanna see each other anymore, that's your choice."
-    u "Je veux dire que c'est parfait.. Si tu ne veux plus me voir, c'est ton choix."
+    u "Je veux dire que c'est parfait.. Si tu veux plus me voir, c'est ton choix."
 
 # game/v11/scene4.rpy:154
 translate francais v11s4_PhoneContinueEmily1_0f993ef4:

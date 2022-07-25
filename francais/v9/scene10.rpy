@@ -136,7 +136,7 @@ translate francais v9_hc_cont3_2a07000a:
 translate francais v9_hc_cont3_0bf8e4b3:
 
     # u "You don't want to do your work anyway. And besides, you look cute."
-    u "Tu ne veux pas faire ton travail de toute façon. Et en plus, tu es très mignonne."
+    u "Tu veux pas faire ton travail de toute façon. Et en plus, tu es très mignonne."
 
 # game/v9/scene10.rpy:201
 translate francais v9_hc_cont3_219e4b82:
@@ -178,7 +178,7 @@ translate francais v9_hc_cont3_5cd65034:
 translate francais v9_hc_scared_cb5f50ca:
 
     # u "We can't go first."
-    u "On ne peut pas passer en premier."
+    u "On peut pas passer en premier."
 
 # game/v9/scene10.rpy:244
 translate francais v9_hc_scared_180e0b8a:

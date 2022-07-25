@@ -22,13 +22,13 @@ translate francais josh_room_436a038e:
 translate francais josh_room_dc2a6a4f:
 
     # jo "Okay, so, it's like this. I got a little deal going on tonight that's gonna get me a thousand bucks."
-    jo "Ok, donc, voilà... J'ai une petite affaire en cours ce soir qui va me rapporter 1000 dollars."
+    jo "Bon, donc, voilà... J'ai une petite affaire en cours ce soir qui va me rapporter 1000 dollars."
 
 # game/v8/scene24.rpy:31
 translate francais josh_room_4c77c202:
 
     # jo "Coke deal, you know *sniffs*{w}, and I need someone I can trust to watch my ass, you know, in case they try to rob me."
-    jo "Deal de Coke, tu sais *snif*{w}, et j'ai besoin de quelqu'un en qui je peux avoir confiance pour surveiller mon cul, tu sais, au cas où ils essaieraient de me voler."
+    jo "Deal de Coke, tu sais *snif*{w}, et j'ai besoin de quelqu'un en qui je peux avoir confiance pour surveiller mon cul, tu sais, au cas où ils essaieraient de me la mettre à l'envers."
 
 # game/v8/scene24.rpy:32
 translate francais josh_room_5f4d8972:
@@ -40,7 +40,7 @@ translate francais josh_room_5f4d8972:
 translate francais josh_room_54b7c239:
 
     # u "Man, Josh, I dunno. This is awfully risky and you know I'm not into that shit."
-    u "Putain Josh, je sais pas. C'est terriblement risqué et tu sais que je ne touche pas à cette merde."
+    u "Putain Josh, je sais pas. C'est terriblement risqué et tu sais bien que je touche pas à cette merde."
 
 # game/v8/scene24.rpy:40
 translate francais josh_room_17d5b8b0:
@@ -52,13 +52,13 @@ translate francais josh_room_17d5b8b0:
 translate francais josh_room_dc9405f6:
 
     # u "Fuck, ummm..."
-    u "Putain, hummm..."
+    u "Hummm... Fais chier."
 
 # game/v8/scene24.rpy:52
 translate francais josh_room_e7e031c7:
 
     # u "Yeah, okay, I'll go. I can't let you do this alone."
-    u "Ouais, ok, je vais venir. Je ne peux pas te laisser faire ça tout seul."
+    u "Ouais, c'est bon, je vais venir. Je peux pas te laisser faire ça tout seul."
 
 # game/v8/scene24.rpy:56
 translate francais josh_room_38d6e6a8:
@@ -70,13 +70,13 @@ translate francais josh_room_38d6e6a8:
 translate francais josh_room_09e43702:
 
     # u "Haha, I just hope we don't regret it."
-    u "Haha, j'espère juste que nous ne le regretterons pas."
+    u "Haha, j'espère juste qu'on va pas le regretter."
 
 # game/v8/scene24.rpy:64
 translate francais josh_room_e3f27bdf:
 
     # jo "Nah, we won't! This'll go off smooth, bro, trust me."
-    jo "Non, t'inquiète ! Ça va se passer en douceur, mon frère, fais-moi confiance."
+    jo "Nan, t'inquiète ! Ça va se passer en douceur, mon frère, fais-moi confiance."
 
 # game/v8/scene24.rpy:68
 translate francais josh_room_96745252:
@@ -88,7 +88,7 @@ translate francais josh_room_96745252:
 translate francais josh_room_2460fec3:
 
     # jo "Deal goes down at 9 PM tonight. We'll meet here and go to the spot together, okay?"
-    jo "Le deal se fait à 21 heures ce soir. On se retrouve ici et on va sur place ensemble, ok ?"
+    jo "Le deal se fait à 21 heures ce soir. On se retrouve ici et on va sur le lieu de rendez-vous ensemble, d'accord ?"
 
 # game/v8/scene24.rpy:76
 translate francais josh_room_77864fdd:
@@ -100,31 +100,31 @@ translate francais josh_room_77864fdd:
 translate francais josh_room_b2ace458:
 
     # jo "Yeah, see you then, bro!"
-    jo "Ouais, à plus tard, mon frère !"
+    jo "D'accord, à plus tard, mon frère !"
 
 # game/v8/scene24.rpy:86
 translate francais josh_room_4257b43e:
 
     # u "Honestly, man, I don't think so. This isn't me and I don't want to get caught, especially with that shit."
-    u "Franchement, mec, je ne crois pas. Ce n'est pas mon genre et je ne veux pas me faire prendre, surtout avec cette merde."
+    u "Franchement, mec, je crois pas. C'est pas mon genre et je veux pas me faire choper, surtout avec cette merde."
 
 # game/v8/scene24.rpy:90
 translate francais josh_room_b5db3286:
 
     # jo "Really? I thought you were my bro, man. I guess I was wrong about you."
-    jo "Sérieux ? Je croyais que t'étais mon frère, mec. Je crois que j'avais tort à ton sujet."
+    jo "Sérieux ? Je croyais que t'étais mon frère, mec. Je pense que j'avais tort à ton sujet."
 
 # game/v8/scene24.rpy:94
 translate francais josh_room_d82168c4:
 
     # u "Man, don't be like that. You know that shit is gonna get you in trouble sooner or later. Why risk it?"
-    u "Mec, ne sois pas comme ça. Tu sais que cette merde va t'attirer des ennuis tôt ou tard. Pourquoi prendre le risque ?"
+    u "Mec, sois pas comme ça. Tu sais que cette merde va t'attirer des ennuis tôt ou tard. Pourquoi prendre le risque ?"
 
 # game/v8/scene24.rpy:98
 translate francais josh_room_fb6beb21:
 
     # jo "Whatever, man. You can't do one favor for me. Some friend!"
-    jo "Je m'en fou, mec. Tu ne peux pas me faire une faveur. Un ami !"
+    jo "Je m'en fou, mec. Tu ne peux pas me rendre un service. À un ami !?"
 
 # game/v8/scene24.rpy:102
 translate francais josh_room_382f9a9f:
@@ -136,7 +136,7 @@ translate francais josh_room_382f9a9f:
 translate francais josh_room_1cf93f7f:
 
     # u "(Fuck. I should go after him, but I don't want to get caught up in that shit. Guess I'll go back to my room.)"
-    u "(Putain. Je devrais aller l'aider, mais je ne veux pas me laisser entraîner dans cette merde. Je vais retourner dans ma chambre.)"
+    u "(Putain. Je devrais aller l'aider, mais je veux pas me laisser entraîner dans cette merde. Je vais retourner dans ma chambre.)"
 
 translate francais strings:
 
@@ -154,4 +154,4 @@ translate francais strings:
 translate francais josh_room_efbf479e:
 
     # jo "Coke deal, you know *sniffs*, and I need someone I can trust to watch my ass, you know, in case they try to rob me."
-    jo "Deal de Coke, tu sais *snif*, et j'ai besoin de quelqu'un en qui je peux avoir confiance pour surveiller mon cul, tu sais, au cas où ils essaieraient de me la faire à l'envers."
+    jo "Deal de Coke, tu sais *snif*{w}, et j'ai besoin de quelqu'un en qui je peux avoir confiance pour surveiller mon cul, tu sais, au cas où ils essaieraient de me la mettre à l'envers."

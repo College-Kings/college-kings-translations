@@ -28,7 +28,7 @@ translate francais v11_samantha_packing_b8486644:
 translate francais v11_samantha_packing_bbb7c36b:
 
     # u "Well I can't really keep you company right now."
-    u "Je ne peux pas vraiment te tenir compagnie en ce moment."
+    u "Je peux pas vraiment te tenir compagnie en ce moment."
 
 # game/v11/scene3.rpy:52
 translate francais v11_samantha_packing_df7cf96b:
@@ -46,7 +46,7 @@ translate francais v11_samantha_packing_2d8b8168:
 translate francais v11_samantha_packing_79c03dd3:
 
     # sa "Wait what? No one told me about some kind of trip. How long are you going to be gone?"
-    sa "Attends quoi ? Personne ne m'a parlé de ce voyage. Combien de temps allez-vous partir ?"
+    sa "Attends quoi ? Personne m'a parlé de ce voyage. Combien de temps allez-vous partir ?"
 
 # game/v11/scene3.rpy:67
 translate francais v11_samantha_packing_f7c1ae25:
@@ -70,7 +70,7 @@ translate francais v11_samantha_packing_d527fcfb:
 translate francais v11_samantha_packing_c3531682:
 
     # sa "Why didn't anyone tell me?"
-    sa "Pourquoi personne ne m'a rien dit ?"
+    sa "Pourquoi personne m'a rien dit ?"
 
 # game/v11/scene3.rpy:87
 translate francais v11_samantha_packing_8b2277f2:
@@ -82,19 +82,19 @@ translate francais v11_samantha_packing_8b2277f2:
 translate francais v11_samantha_packing_c73e3ee2:
 
     # sa "You know I don't pay attention to any of that stuff. I'm a little surprised you didn't tell me. You're gonna be gone for who knows how long and I'm stuck here with no one to talk to."
-    sa "Tu sais que je ne fais pas attention à ces choses-là. Je suis un peu surprise que tu ne me l'aies pas dit. Tu vas être parti pour on ne sait combien de temps et je serais coincée ici avec personne à qui parler."
+    sa "Tu sais que je fais pas attention à ces choses-là. Je suis un peu surprise que tu me l'aies pas dit. Tu vas être parti pour on sait combien de temps et je serais coincée ici avec personne à qui parler."
 
 # game/v11/scene3.rpy:97
 translate francais v11_samantha_packing_5579bf34:
 
     # u "I can't be your only friend."
-    u "Je ne peux pas être ton seul ami."
+    u "Je peux pas être ton seul ami."
 
 # game/v11/scene3.rpy:102
 translate francais v11_samantha_packing_e1689dcc:
 
     # sa "No, but I just wasn't expecting you to just leave. Rude."
-    sa "Non, mais je ne m'attendais pas à ce que tu partes comme ça. Malpoli."
+    sa "Non, mais je m'attendais pas à ce que tu partes comme ça. Malpoli."
 
 # game/v11/scene3.rpy:112
 translate francais v11_samantha_packing_2dacd52c:
@@ -136,7 +136,7 @@ translate francais v11_samantha_packing_26e72024:
 translate francais v11_samantha_packing_cafe53c2:
 
     # u "You don't even know anything about the trip. Why do you want to go?"
-    u "Tu ne sais même pas ce qu'est ce voyage. Pourquoi veux-tu y aller ?"
+    u "Tu sais même pas ce qu'est ce voyage. Pourquoi veux-tu y aller ?"
 
 # game/v11/scene3.rpy:147
 translate francais v11_samantha_packing_ba650973:
@@ -178,7 +178,7 @@ translate francais v11_samantha_packing_00e89fe0:
 translate francais v11_samantha_packing_dd3cb392:
 
     # sa "You don't know everyone I know. *Chuckles* C'mon who else is going?"
-    sa "Tu ne connais pas toutes les personnes que je connais. *Rire* Allez, qui d'autre y va ?"
+    sa "Tu connais pas toutes les personnes que je connais. *Rire* Allez, qui d'autre y va ?"
 
 # game/v11/scene3.rpy:182
 translate francais v11_samantha_packing_2fad8a52:
@@ -244,7 +244,7 @@ translate francais v11_samantha_packing_37f70b3a:
 translate francais v11_samantha_packing_267f939a:
 
     # sa "I'm gonna go get on the list before it's too last minute."
-    sa "Je vais aller m'inscrire sur la liste avant que ce ne soit trop tard."
+    sa "Je vais aller m'inscrire sur la liste avant que ce soit trop tard."
 
 # game/v11/scene3.rpy:234
 translate francais v11_samantha_packing_d0763037:
@@ -280,7 +280,7 @@ translate francais v11_samantha_packing_445ad3a0:
 translate francais v11_samantha_packing_4d38db99:
 
     # u "I'm sorry, I thought everyone knew. I would've invited you if I knew you didn't know, it's kinda late now. Like I said before, we leave Saturday morning."
-    u "Je suis désolé, je pensais que tout le monde le savait. Je t'aurais invité si j'avais su que tu ne savais pas, c'est un peu tard maintenant. Comme je l'ai déjà dit, on part samedi matin."
+    u "Je suis désolé, je pensais que tout le monde le savait. Je t'aurais invité si j'avais su que tu savais pas, c'est un peu tard maintenant. Comme je l'ai déjà dit, on part samedi matin."
 
 # game/v11/scene3.rpy:280
 translate francais v11_samantha_packing_11d2efac:
@@ -292,19 +292,19 @@ translate francais v11_samantha_packing_11d2efac:
 translate francais v11_samantha_packing_3ea511c6:
 
     # u "I said I'm sorry, I didn't know."
-    u "J'ai dit que je suis désolé, je ne savais pas."
+    u "J'ai dit que je suis désolé, je savais pas."
 
 # game/v11/scene3.rpy:290
 translate francais v11_samantha_packing_4804bd34:
 
     # sa "Okay but you didn't even tell me you were going."
-    sa "Ok mais tu ne m'as même pas dit que tu y allais."
+    sa "Ok mais tu m'as même pas dit que tu y allais."
 
 # game/v11/scene3.rpy:295
 translate francais v11_samantha_packing_08d22d69:
 
     # u "My bad, I don't know what you want me to do."
-    u "C'est ma faute, je ne peux plus rien y faire, maintenant."
+    u "C'est ma faute, je peux plus rien y faire, maintenant."
 
 # game/v11/scene3.rpy:300
 translate francais v11_samantha_packing_e012098a:

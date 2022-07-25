@@ -76,7 +76,7 @@ translate francais v13s55_4428fbf3:
 translate francais v13s55_94018169:
 
     # u "You didn't ask me."
-    u "Tu ne m'as pas demandé."
+    u "Tu m'as pas demandé."
 
 # game/v13/scene55.rpy:89
 translate francais v13s55_85510cc7:
@@ -88,7 +88,7 @@ translate francais v13s55_85510cc7:
 translate francais v13s55_5cb7c4ef:
 
     # u "Guess you won't know 'til you ask. *Chuckles*"
-    u "Je crois que tu ne le sauras pas tant que tu n'auras pas demandé. *Rire*"
+    u "Je crois que tu le sauras pas tant que tu n'auras pas demandé. *Rire*"
 
 # game/v13/scene55.rpy:99
 translate francais v13s55_1fb61dae:
@@ -136,7 +136,7 @@ translate francais v13s55_a79524f6:
 translate francais v13s55_ae13b633:
 
     # u "Of course I'll chip in. *Laughs* I don't have much so I don't know what we can get, but we can get something."
-    u "Bien sûr que je vais participer. *Rire* Je n'ai plus beaucoup d'argent donc je ne sais pas ce qu'on peut avoir, mais on peut avoir quelque chose."
+    u "Bien sûr que je vais participer. *Rire* Je n'ai plus beaucoup d'argent donc je sais pas ce qu'on peut avoir, mais on peut avoir quelque chose."
 
 # game/v13/scene55.rpy:139
 translate francais v13s55_d74f8fa8:

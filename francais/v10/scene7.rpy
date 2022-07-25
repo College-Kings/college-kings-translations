@@ -76,7 +76,7 @@ translate empty v10_mc_vs_imre_fight_a24f67d4:
 translate empty imre_fightEnd_1863080c:
 
     # u "I don't think I can do this. I- I... I'm sorry guys."
-    u "Je ne pense pas pouvoir faire ça. Je, je... Je suis désolé les gars."
+    u "Je pense pas pouvoir faire ça. Je, je... Je suis désolé les gars."
 
 # game/v10/scene7.rpy:427
 translate empty imre_fightEnd_19324cd4:
@@ -100,7 +100,7 @@ translate empty imre_fightEnd_d8616735:
 translate empty imre_fightEnd_a5764f9c:
 
     # u "I can't, I just can't."
-    u "Je ne peux pas, je ne peux juste pas."
+    u "Je peux pas, je peux juste pas."
 
 translate empty strings:
 
@@ -186,7 +186,7 @@ translate francais v10_mc_vs_imre_fight_a24f67d4:
 translate francais imre_fightEnd_1863080c:
 
     # u "I don't think I can do this. I- I... I'm sorry guys."
-    u "Je ne pense pas pouvoir faire ça. Je, je... Je suis désolé les gars."
+    u "Je pense pas pouvoir faire ça. Je, je... Je suis désolé les gars."
 
 # game/v10/scene7.rpy:421
 translate francais imre_fightEnd_19324cd4:
@@ -210,7 +210,7 @@ translate francais imre_fightEnd_d8616735:
 translate francais imre_fightEnd_a5764f9c:
 
     # u "I can't, I just can't."
-    u "Je ne peux pas, je ne peux juste pas."
+    u "Je peux pas, je peux juste pas."
 
 translate francais strings:
 

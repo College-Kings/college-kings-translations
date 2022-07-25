@@ -16,13 +16,13 @@ translate francais hallway_w_nora_37fe551f:
 translate francais hallway_w_nora_1b2fe02e:
 
     # no "We got off to a rough start, but can we just get past that?"
-    no "Nous avons eu un départ difficile, mais pouvons-nous oublier ça ?"
+    no "On a eu un mauvais départ, mais est-ce qu'on peut oublier ça ?"
 
 # game/v8/scene33.rpy:34
 translate francais hallway_w_nora_b4ce6e96:
 
     # u "Sure, I'm not upset. I'd like to be friends."
-    u "Bien sûr, il n'y a aucun problème. J'aimerais qu'on soit amis."
+    u "Bien sûr, aucun problème. J'aimerais qu'on soit amis."
 
 # game/v8/scene33.rpy:38
 translate francais hallway_w_nora_f2d482ed:
@@ -70,7 +70,7 @@ translate francais nora_trip_exc_2364e6d7:
 translate francais nora_trip_nerv_2eb62204:
 
     # u "Wow that sounds awesome{w}...ly expensive."
-    u "Wow, ça a l'air génial{w}... mais cher."
+    u "Wow, ça a l'air génial}...{w} mais cher."
 
 # game/v8/scene33.rpy:97
 translate francais nora_trip_nerv_d8a66ef9:
@@ -130,7 +130,7 @@ translate francais cont_nora_hall_2_deb72837:
 translate francais cont_nora_hall_2_52daddae:
 
     # u "(I've never seen Nora excited about anything.)"
-    u "(Je n'ai jamais vu Nora si excitée par quoi que ce soit.)"
+    u "(J'ai jamais vu Nora si excitée par quoi que ce soit.)"
 
 # game/v8/scene33.rpy:150
 translate francais cont_nora_hall_2_bf7c6ad9:
@@ -142,13 +142,13 @@ translate francais cont_nora_hall_2_bf7c6ad9:
 translate francais nora_hall_eu_go_2ea7fbca:
 
     # u "Sure! Don't know when I'd get another opportunity like this!"
-    u "Bien sûr ! Je ne sais pas quand j'aurais une autre opportunité comme celle-ci !"
+    u "Bien sûr ! Je sais pas quand je pourrais avoir une autre opportunité comme celle-ci !"
 
 # game/v8/scene33.rpy:169
 translate francais nora_hall_eu_no_ae7207c6:
 
     # u "(Hmm, it's still a lot of money but I don't want to upset Nora.)"
-    u "(Hmm, c'est toujours beaucoup d'argent mais je ne veux pas contrarier Nora.)"
+    u "(Hmm, c'est toujours beaucoup d'argent mais je veux pas contrarier Nora.)"
 
 # game/v8/scene33.rpy:177
 translate francais cont_nora_hall_3_82584925:
@@ -160,7 +160,7 @@ translate francais cont_nora_hall_3_82584925:
 translate francais cont_nora_hall_3_073f6b49:
 
     # no "If you know any friends who would be interested, tell them to come find me. Remember, I need ten people. Ten!"
-    no "Si tu connais des amis qui seraient intéressés, dis-leur de venir me trouver. Rappelle-toi, j'ai besoin de dix personnes. Dix !"
+    no "Si tu connais des amis qui seraient intéressés, dis-leur de venir me voir. Et souviense-toi, j'ai besoin de dix personnes. Dix !"
 
 # game/v8/scene33.rpy:187
 translate francais cont_nora_hall_3_96cc088e:
@@ -202,7 +202,7 @@ translate francais hallway_help_nora_01bbbc37:
 translate francais hallway_help_nora_d17bae82:
 
     # no "No problem, see you soon."
-    no "Aucun soucis, à bientôt."
+    no "Aucun problème, à bientôt."
 
 # game/v8/scene33.rpy:249
 translate francais hallway_help_nora_104440d0:
@@ -220,7 +220,7 @@ translate francais hallway_no_help_nora_dbbac58c:
 translate francais hallway_no_help_nora_4a0e35fa:
 
     # u "I would but I don't have much time."
-    u "J'aimerais bien, mais je n'ai pas beaucoup de temps."
+    u "J'aimerais bien, mais j'ai pas beaucoup de temps."
 
 # game/v8/scene33.rpy:265
 translate francais hallway_no_help_nora_84e7afd5:
@@ -268,4 +268,4 @@ translate francais strings:
 translate francais nora_trip_nerv_5a9a62be:
 
     # u "Wow that sounds awesome...ly expensive."
-    u "Wow, ça a l'air génial... mais cher."
+    u "Wow, ça a l'air génial}...{w} mais cher."

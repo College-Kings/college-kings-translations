@@ -316,7 +316,7 @@ translate francais v13s29_1b28a406:
 translate francais v13s29_f85f77cd:
 
     # u "Yeah, I'm not on board with that... Sorry."
-    u "Ouais, je ne suis pas favorable à ça... Désolé."
+    u "Ouais, je suis pas favorable à ça... Désolé."
 
 # game/v13/scene29.rpy:360
 translate francais v13s29_a29fbbc2:
@@ -418,7 +418,7 @@ translate francais v13s29_b60be43a:
 translate francais v13s29_1a03a759:
 
     # am "Did you not just see what I did, I don't know the laws out here. *Chuckles* We gotta go."
-    am "T'as pas vu ce que j'ai fait ? Je ne connais pas les lois d'ici. *Rire* Alors on se barre."
+    am "T'as pas vu ce que j'ai fait ? Je connais pas les lois d'ici. *Rire* Alors on se barre."
 
 # game/v13/scene29.rpy:467
 translate francais v13s29_09a14f61:
@@ -466,7 +466,7 @@ translate francais v13s29_5353be6d:
 translate francais v13s29_5d4ac436:
 
     # sa "I don't get why either of you are breathing so heavy, it wasn't that far."
-    sa "Je ne comprends pas pourquoi vous êtes tous deux si essoufflés, ce n'était pas si loin."
+    sa "Je comprends pas pourquoi vous êtes tous deux si essoufflés, ce n'était pas si loin."
 
 # game/v13/scene29.rpy:543
 translate francais v13s29_27594969:
@@ -496,7 +496,7 @@ translate francais v13s29_44d5cfe5:
 translate francais v13s29_d5cd2c1e:
 
     # am "You could use a few more pounds."
-    am "Quelques kilos de plus ne te feraient pas de mal."
+    am "Quelques kilos de plus te feraient pas de mal."
 
 # game/v13/scene29.rpy:568
 translate francais v13s29_774d2847:

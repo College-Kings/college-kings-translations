@@ -130,7 +130,7 @@ translate francais v9_driving_home_lake_4f16d06d:
 translate francais v9_driving_home_lake_04e169b6:
 
     # u "He was really confused, so he looked below his wheel to see if something broke. But the moment he lifted his head back up Bang! He hit something with his car!"
-    u "Il était vraiment confus, alors il a regardé par la fenêtre sous sa roue pour voir si quelque chose ne s'était pas cassé. Mais au moment où il a relevé la tête, Bang ! Il a heurté quelque chose avec sa voiture !"
+    u "Il était vraiment confus, alors il a regardé par la fenêtre sous sa roue pour voir si quelque chose s'était pas cassé. Mais au moment où il a relevé la tête, Bang ! Il a heurté quelque chose avec sa voiture !"
 
 # game/v9/scene8.rpy:125
 translate francais v9_driving_home_lake_77fcf6c8:
@@ -166,7 +166,7 @@ translate francais v9_driving_home_lake_b13389bf:
 translate francais v9_driving_home_lake_93cbdea0:
 
     # u "He carefully looked in the distance and truly did see a shadow on the road, not moving. It was about 40... no, 30 yards away."
-    u "Il a regardé attentivement au loin et a vraiment vu une ombre qui ne bougeait pas sur la route. Elle était à environ 40... non, 30 mètres."
+    u "Il a regardé attentivement au loin et a vraiment vu une ombre qui bougeait pas sur la route. Elle était à environ 40... non, 30 mètres."
 
 # game/v9/scene8.rpy:155
 translate francais v9_driving_home_lake_2248b2fd:

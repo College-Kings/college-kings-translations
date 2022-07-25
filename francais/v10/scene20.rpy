@@ -16,7 +16,7 @@ translate francais v10s20_PhoneContinueW_8bafdcb6:
 translate francais v10s20_PhoneContinueW_eb645489:
 
     # u "(I'm not surprised Josh is so excited about this. Too bad the girls have to meet him in person too.)"
-    u "(Je ne suis pas surpris que Josh soit si excité à ce sujet. Dommage que les filles doivent aussi le rencontrer en personne.)"
+    u "(Je suis pas surpris que Josh soit si excité à ce sujet. Dommage que les filles doivent aussi le rencontrer en personne.)"
 
 # game/v10/scene20.rpy:58
 translate francais v10s20_PhoneContinueW_9791da08:
@@ -58,7 +58,7 @@ translate francais v10s20_PhoneContinue2_8bafdcb6:
 translate francais v10s20_PhoneContinue2_eb645489:
 
     # u "(I'm not surprised Josh is so excited about this. Too bad the girls have to meet him in person too.)"
-    u "(Je ne suis pas surpris que Josh soit si excité à ce sujet. Dommage que les filles doivent aussi le rencontrer en personne.)"
+    u "(Je suis pas surpris que Josh soit si excité à ce sujet. Dommage que les filles doivent aussi le rencontrer en personne.)"
 
 # game/v10/scene20.rpy:115
 translate francais v10s20_PhoneContinue2_9791da08:

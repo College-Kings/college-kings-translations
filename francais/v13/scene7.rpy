@@ -70,7 +70,7 @@ translate francais v13_ticket_transfer_7c71d984:
 translate francais v13_ticket_transfer_409516e9:
 
     # u "Okay... I don't get it."
-    u "Ok... Je ne comprends pas."
+    u "Ok... Je comprends pas."
 
 # game/v13/scene7.rpy:73
 translate francais v13_ticket_transfer_1cff3909:
@@ -262,7 +262,7 @@ translate francais v13_ticket_transfer_a404bf73:
 translate francais v13_ticket_transfer_1509356b:
 
     # u "Of course. I can't wait for this."
-    u "Je t'en prie. Je ne pouvais vraiment pas attendre pour t'inviter."
+    u "Je t'en prie. Je pouvais vraiment pas attendre pour t'inviter."
 
 # game/v13/scene7.rpy:269
 translate francais v13_ticket_transfer_53391a1b:

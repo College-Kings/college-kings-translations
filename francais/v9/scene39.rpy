@@ -40,7 +40,7 @@ translate francais v9_hang_w_linds_6a6a943a:
 translate francais v9_hang_w_linds_3da91cc6:
 
     # u "I'm fine. Please don't say how bad I look again, haha. My ego can't take it."
-    u "Je vais bien. S'il te plaît, ne dis plus à quel point j'ai l'air mal en point, haha. Mon ego ne peut pas le supporter."
+    u "Je vais bien. S'il te plaît, dis plus à quel point j'ai l'air mal en point, haha. Mon ego peut pas le supporter."
 
 # game/v9/scene39.rpy:64
 translate francais v9_hang_w_linds_1e4a024a:
@@ -142,7 +142,7 @@ translate francais v9_make_out_w_lin_e7262d85:
 translate francais v9_make_out_w_lin_83fb4b4d:
 
     # u "I thought you said not to worry."
-    u "Je croyais que tu avais dit de ne pas s'inquiéter."
+    u "Je croyais que tu avais dit de pas s'inquiéter."
 
 # game/v9/scene39.rpy:170
 translate francais v9_make_out_w_lin_ffbaf89b:
@@ -232,7 +232,7 @@ translate francais v9_make_out_w_lin_e40d15d4:
 translate francais v9_make_out_w_lin_fd4b3753:
 
     # u "I'm so sorry. I really don't want to go... REALLY!"
-    u "Je suis vraiment désolé. Je ne veux vraiment pas y aller... VRAIMENT !"
+    u "Je suis vraiment désolé. Je veux vraiment pas y aller... VRAIMENT !"
 
 # game/v9/scene39.rpy:275
 translate francais v9_make_out_w_lin_5006983a:
@@ -262,7 +262,7 @@ translate francais v9_make_out_w_lin_63508daa:
 translate francais v9_make_out_w_lin_e9efd17f:
 
     # u "Ugh, I can't believe my luck."
-    u "Argh, je ne peux pas croire à ma chance."
+    u "Argh, je peux pas croire à ma chance."
 
 # game/v9/scene39.rpy:300
 translate francais v9_make_out_w_lin_44f3f241:
@@ -274,7 +274,7 @@ translate francais v9_make_out_w_lin_44f3f241:
 translate francais v9_make_out_w_lin_f3ef5ab5:
 
     # u "I could never forget."
-    u "Je ne pourrais jamais oublier."
+    u "Je pourrais jamais oublier."
 
 # game/v9/scene39.rpy:326
 translate francais v9_make_out_w_lin_132986ee:

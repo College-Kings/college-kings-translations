@@ -28,7 +28,7 @@ translate francais v13s43_ad6b1972:
 translate francais v13s43_d4fd6059:
 
     # u "Yeah, kinda. *Chuckles* But you're good, I shouldn't sleep in all day on vacation."
-    u "Oui, plus ou moins. *Rire* Mais c'est bien, je ne devrais pas faire la grasse mat' en vacances."
+    u "Oui, plus ou moins. *Rire* Mais c'est bien, je devrais pas faire la grasse mat' en vacances."
 
 # game/v13/scene43.rpy:47
 translate francais v13s43_99445cb0:
@@ -58,7 +58,7 @@ translate francais v13s43_8ad4b430:
 translate francais v13s43_14d6f907:
 
     # u "What?! How can I not freak- *Sighs*"
-    u "Quoi ?! Comment je ne peux pas ne pas flipper..."
+    u "Quoi ?! Comment tu veux que je flippe pas...?"
 
 # game/v13/scene43.rpy:73
 translate francais v13s43_90aec308:
@@ -82,7 +82,7 @@ translate francais v13s43_97a431e7:
 translate francais v13s43_72b57efe:
 
     # jen "Yeah, I do... She wouldn't just ignore me like this."
-    jen "Oui, je crois... Elle ne m'aurait pas ignoré comme ça."
+    jen "Oui, je crois... Elle m'aurait pas ignoré comme ça."
 
 # game/v13/scene43.rpy:93
 translate francais v13s43_5f1b22d2:
@@ -148,7 +148,7 @@ translate francais v13s43_d8876cc6:
 translate francais v13s43_39b75a39:
 
     # jen "*Chuckles* I can't believe I had us both panicking for no reason. I'm so sorry, haha."
-    jen "*Rire* Je ne peux pas croire que je nous ai fait paniquer tous les deux sans raison. Je suis vraiment désolée, haha."
+    jen "*Rire* Je peux pas croire que je nous ai fait paniquer tous les deux sans raison. Je suis vraiment désolée, haha."
 
 # game/v13/scene43.rpy:148
 translate francais v13s43_73a47b12:

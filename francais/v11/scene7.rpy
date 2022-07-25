@@ -16,7 +16,7 @@ translate francais v11_room_aubrey_shopping_101a604e_1:
 translate francais v11_room_aubrey_shopping_e4f8269d:
 
     # u "*Laughs* Why don't you just knock like a normal person? You're gonna break my window one of these days."
-    u "*Rire* Pourquoi tu ne frappes pas comme une personne normale ? Tu vas casser ma fenêtre un de ces jours."
+    u "*Rire* Pourquoi tu frappes pas comme une personne normale ? Tu vas casser ma fenêtre un de ces jours."
 
 # game/v11/scene7.rpy:56
 translate francais v11_room_aubrey_shopping_40a432a5:
@@ -88,7 +88,7 @@ translate francais v11_room_aubrey_shopping_4f1ad60a:
 translate francais v11_room_aubrey_shopping_d3fa61ef:
 
     # u "Now I know I'm not getting anything. Nothing there is less than $45. I probably can't even afford a sock from Lew's. *Laughs*"
-    u "Maintenant je sais que je n'aurai rien. Rien ne coûte moins de 45 dollars. Je suis sûr que je ne pourrais même pas m'offrir une chaussette de chez Lew's. *Rire*"
+    u "Maintenant je sais que je n'aurai rien. Rien coûte moins de 45 dollars. Je suis sûr que je pourrais même pas m'offrir une chaussette de chez Lew's. *Rire*"
 
 # game/v11/scene7.rpy:122
 translate francais v11_room_aubrey_shopping_fd095570:
@@ -322,7 +322,7 @@ translate francais v11_room_aubrey_shopping_061747a1:
 translate francais v11_room_aubrey_shopping_b8050146:
 
     # u "What's wrong with what I'm wearing?"
-    u "Qu'est-ce qui ne va pas avec ce que je porte ?"
+    u "Qu'est-ce qui va pas avec ce que je porte ?"
 
 # game/v11/scene7.rpy:331
 translate francais v11_room_aubrey_shopping_05ecf83d:
@@ -412,7 +412,7 @@ translate francais v11_room_aubrey_shopping_035ad39d:
 translate francais v11_room_aubrey_shopping_31fdf690:
 
     # u "Of course, I won't say anything. I wouldn't wanna ruin that badass reputation of yours."
-    u "Bien sûr, je ne dirai rien. Je ne voudrais pas ruiner ta réputation de dure à cuire."
+    u "Bien sûr, je dirai rien. Je voudrais pas ruiner ta réputation de dure à cuire."
 
 # game/v11/scene7.rpy:420
 translate francais v11_room_aubrey_shopping_e5d751c2:

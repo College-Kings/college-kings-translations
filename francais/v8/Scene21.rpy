@@ -16,13 +16,13 @@ translate francais mon_morning_room_f6ccce84_1:
 translate francais walk_to_dean_52a5afb3:
 
     # u "(Excuse me, Dean, can I...no, that won't work.)"
-    u "(Excusez-moi, Doyen, puis-je... non, ça ne marchera pas.)"
+    u "(Excusez-moi, Doyenne, puis-je... non, pas comme ça.)"
 
 # game/v8/Scene21.rpy:45
 translate francais walk_to_dean_f2443fb5:
 
     # u "(Good morning, Dean. Might I have a minute of your time?)"
-    u "(Bonjour, Doyenne. Puis-je avoir une minute de votre temps ?)"
+    u "(Bonjour, Doyenne. Pourrais-je avoir une minute de votre temps ?)"
 
 # game/v8/Scene21.rpy:46
 translate francais walk_to_dean_3b3248f6:
@@ -58,7 +58,7 @@ translate francais walk_to_dean_90a5a797:
 translate francais walk_to_dean_1a70ea0d:
 
     # de "I can spare a few minutes. Come on in."
-    de "Je peux prendre quelques minutes. Entrez donc."
+    de "Je peux vous accorder quelques minutes. Entrez donc."
 
 # game/v8/Scene21.rpy:86
 translate francais walk_to_dean_0e0c7cfe:
@@ -136,7 +136,7 @@ translate francais walk_to_dean_cb7ebc4a:
 translate francais walk_to_dean_87302e95:
 
     # u "(Fuck this bitch!)"
-    u "(Putain, je vais la baiser cette salope !)"
+    u "(Putain, je vais la niquer cette salope !)"
 
 # game/v8/Scene21.rpy:148
 translate francais walk_to_dean_0bf0ec30:
@@ -148,7 +148,7 @@ translate francais walk_to_dean_0bf0ec30:
 translate francais walk_to_dean_eaa1c842:
 
     # u "Wouldn't you do stupid things for those you care about?{w}... Ma'am."
-    u "Ne feriez-vous pas des choses stupides pour ceux que vous aimez{w} ? ...M'dame."
+    u "Ne feriez-vous pas des choses stupides pour ceux que vous aimez ?{w} ...M'dame."
 
 # game/v8/Scene21.rpy:155
 translate francais walk_to_dean_eb1db66d:
@@ -232,7 +232,7 @@ translate francais walk_to_dean_8482e119:
 translate francais walk_to_dean_6fc6551d:
 
     # u "(Holy shit, I did it! Now I gotta call Penelope when I get back.)"
-    u "(Putain de merde, je l'ai fait ! Je dois appeler Pénélope dès que je suis rentré.)"
+    u "(Putain de merde, je l'ai fait ! Je dois appeler Pénélope dès que je rentre.)"
 
 # TODO: Translation updated at 2021-11-19 17:55
 
@@ -240,13 +240,13 @@ translate francais walk_to_dean_6fc6551d:
 translate francais walk_to_dean_948cf0a5:
 
     # u "(Excuse me, Dean, can I... no, that won't work.)"
-    u "(Excusez-moi, Doyenne, puis-je... non, ça ne marchera pas.)"
+    u "(Excusez-moi, Doyenne, puis-je... non, pas comme ça.)"
 
 # game/v8/Scene21.rpy:150
 translate francais walk_to_dean_fcfc734c:
 
     # u "Wouldn't you do stupid things for those you care about...? Ma'am."
-    u "Ne feriez-vous pas des choses stupides pour ceux que vous aimez... ? M'dame."
+    u "Ne feriez-vous pas des choses stupides pour ceux que vous aimez ?{w} ...M'dame."
 
 # game/v8/Scene21.rpy:160
 translate francais walk_to_dean_5df5cafc:

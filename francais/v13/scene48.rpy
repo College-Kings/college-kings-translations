@@ -16,7 +16,7 @@ translate francais v13s48_bf758d3d:
 translate francais v13s48_b85385bb:
 
     # u "I couldn't really tell if you needed my help with something or if you were just wanting to hang."
-    u "Je ne peux pas vraiment déterminer si tu as besoin de mon aide pour quelque chose ou si tu veux juste traîner."
+    u "Je peux pas vraiment déterminer si tu as besoin de mon aide pour quelque chose ou si tu veux juste traîner."
 
 # game/v13/scene48.rpy:32
 translate francais v13s48_9c470d8a:
@@ -244,7 +244,7 @@ translate francais v13s48_92c918bb:
 translate francais v13s48_3baf6cd5:
 
     # u "How come you don't talk about yourself very often? Like, how you grew up... How you feel about all the drama going on in the sorority that you're the VP of... Etc."
-    u "Pourquoi tu ne parles pas souvent de toi ? Comme, comment tu as grandi... Comment tu te sens à propos du drame qui se passe dans la sororité, dont tu es la vice-présidente... Etc."
+    u "Pourquoi tu parles pas souvent de toi ? Comme, comment tu as grandi... Comment tu te sens à propos du drame qui se passe dans la sororité, dont tu es la vice-présidente... Etc."
 
 # game/v13/scene48.rpy:283
 translate francais v13s48_2b40925f:
@@ -388,7 +388,7 @@ translate francais v13s48_596e8af5:
 translate francais v13s48_1354785a:
 
     # u "*Chuckles* You don't even know what PE stands for, do you?"
-    u "*Rire* Tu ne sais même pas ce que signifie EPS, n'est-ce pas ?"
+    u "*Rire* Tu sais même pas ce que signifie EPS, n'est-ce pas ?"
 
 # game/v13/scene48.rpy:405
 translate francais v13s48_9ed72b6c:
@@ -634,7 +634,7 @@ translate francais v13s48_79f43544:
 translate francais v13s48_5660bb10:
 
     # u "(I'm not getting her chocolates. *Chuckles* That's doing too much.)"
-    u "(Je ne vais pas lui offrir de chocolats. *Rire* Ça fait trop.)"
+    u "(Je vais pas lui offrir de chocolats. *Rire* Ça fait trop.)"
 
 # game/v13/scene48.rpy:622
 translate francais v13s48_f46789c8:
@@ -772,7 +772,7 @@ translate francais v13s48_f9691f0d:
 translate francais v13s48_1298095a:
 
     # u "Yeah man, I'm not feeling too comfortable about it."
-    u "Ouais mec, je ne me sens pas trop à l'aise avec ça."
+    u "Ouais mec, je me sens pas trop à l'aise avec ça."
 
 # game/v13/scene48.rpy:754
 translate francais v13s48_277a26b7:
@@ -808,7 +808,7 @@ translate francais v13s48_466b1bb2:
 translate francais v13s48_ef985377:
 
     # u "Well, let's get you back before you freeze. *Chuckles* I wish I had some sort of jacket."
-    u "Bien, rentrons avant que tu ne gèles. *Rire* J'aurais aimé avoir une veste, pour toi."
+    u "Bien, rentrons avant que tu gèles. *Rire* J'aurais aimé avoir une veste, pour toi."
 
 translate francais strings:
 

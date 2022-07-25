@@ -4,7 +4,7 @@
 translate francais v13s17b_a79c388a:
 
     # u "(Wow... It doesn't get any better than this.)"
-    u "(Wow... Ça ne peut pas être mieux que ça.)"
+    u "(Wow... Ça peut pas être mieux que ça.)"
 
 # game/v13/scene17b.rpy:22
 translate francais v13s17b_1eb9bd11:
@@ -22,7 +22,7 @@ translate francais v13s17b_d9a255e9:
 translate francais v13s17b_2677ab5e:
 
     # u "*Chuckles* (She is not gonna let me go...)"
-    u "*Rire* (Elle ne va pas me laisser partir...)"
+    u "*Rire* (Elle va pas me laisser partir...)"
 
 # game/v13/scene17b.rpy:44
 translate francais v13s17b_c31feb14:

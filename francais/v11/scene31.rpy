@@ -118,7 +118,7 @@ translate francais v11_lindsey_park_b449531a:
 translate francais v11_lindsey_park_2c8aeb7f:
 
     # u "I couldn't begin to guess what's led her to see things like that."
-    u "Je ne pourrais pas deviner ce qui l'a amenée à voir les choses comme ça."
+    u "Je pourrais pas deviner ce qui l'a amenée à voir les choses comme ça."
 
 # game/v11/scene31.rpy:128
 translate francais v11_lindsey_park_cb45e92f:
@@ -148,7 +148,7 @@ translate francais v11_lindsey_park_26acbe99:
 translate francais v11_lindsey_park_295a7285:
 
     # u "*Sighs* I just hope this doesn't make things worse or really hurt Chloe if she loses."
-    u "*Soupirs* J'espère juste que ça ne va pas empirer les choses ou vraiment blesser Chloé si elle perd."
+    u "*Soupirs* J'espère juste que ça va pas empirer les choses ou vraiment blesser Chloé si elle perd."
 
 # game/v11/scene31.rpy:156
 translate francais v11_lindsey_park_f64a5d39:
@@ -172,7 +172,7 @@ translate francais v11_lindsey_park_9d827d15:
 translate francais v11_lindsey_park_6834bfb6:
 
     # u "I'm down to support you as long as all of this means a new beginning for the Chicks. I'm not in the business of switching out one problem for another, get what I'm saying?"
-    u "Je suis prêt à te soutenir tant que tout ça signifie un nouveau départ pour les Chicks. Je ne suis pas là pour remplacer un problème par un autre, tu vois ce que je veux dire ?"
+    u "Je suis prêt à te soutenir tant que tout ça signifie un nouveau départ pour les Chicks. Je suis pas là pour remplacer un problème par un autre, tu vois ce que je veux dire ?"
 
 # game/v11/scene31.rpy:184
 translate francais v11_lindsey_park_277ea261:
@@ -388,7 +388,7 @@ translate francais v11_lindsey_park_ed063ab0:
 translate francais v11_lindsey_park_e715cb28:
 
     # u "You're gonna invite me to a Chicks party? Won't I be the only guy?"
-    u "Tu vas m'inviter à une fête des Chicks ? Je ne serai pas le seul mec ?"
+    u "Tu vas m'inviter à une fête des Chicks ? Je serai pas le seul mec ?"
 
 # game/v11/scene31.rpy:364
 translate francais v11_lindsey_park_8b43202f:
@@ -454,7 +454,7 @@ translate francais v11_lindsey_park_4d44f44c:
 translate francais v11_lindsey_park_becee0eb:
 
     # u "My genius abilities cannot be taken lightly. *Laughs*"
-    u "Mes dons de génie ne doivent pas être pris à la légère. *Rire*"
+    u "Mes dons de génie doivent pas être pris à la légère. *Rire*"
 
 # game/v11/scene31.rpy:427
 translate francais v11_lindsey_park_78e5ee3d:

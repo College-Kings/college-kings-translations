@@ -4,7 +4,7 @@
 translate francais v10_econ_class_672b2a3d:
 
     # u "(Oh shit I'm gonna be late for class if I don't hurry.)"
-    u "(Oh merde, je vais être en retard en classe si je ne me dépêche pas.)"
+    u "(Oh merde, je vais être en retard en classe si je me dépêche pas.)"
 
 # game/v10/scene27.rpy:20
 translate francais v10_econ_class_d5404a41:

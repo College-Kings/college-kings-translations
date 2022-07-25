@@ -4,7 +4,7 @@
 translate francais v8_scene24_wolves_ed0eaced:
 
     # u "(I gotta get out of here. Wonder what everyone's up to.)"
-    u "(Je dois sortir d'ici. Je me demande ce que tout le monde fait.)"
+    u "(Je dois sortir de là. Je me demande ce que font les autres.)"
 
 # game/v8/scene25.rpy:19
 translate francais v8_scene24_wolves_9de96fd6:
@@ -16,7 +16,7 @@ translate francais v8_scene24_wolves_9de96fd6:
 translate francais v8_scene24_apes_ed0eaced:
 
     # u "(I gotta get out of here. Wonder what everyone's up to.)"
-    u "(Je dois sortir d'ici. Je me demande ce que tout le monde fait.)"
+    u "(Je dois sortir de là. Je me demande ce que font les autres.)"
 
 # game/v8/scene25.rpy:35
 translate francais v8_scene24_apes_9de96fd6:
@@ -34,13 +34,13 @@ translate francais phn_riley11_11900a1d:
 translate francais phn_riley11_1ace9f3a:
 
     # u "(Guess I'm not gonna be bored to death after all.)"
-    u "(Je pense que je ne vais pas m'ennuyer à mourir, finalement.)"
+    u "(Finalement, je vais pas m'ennuyer.)"
 
 # game/v8/scene25.rpy:61
 translate francais phn_riley11_1ace9f3a_1:
 
     # u "(Guess I'm not gonna be bored to death after all.)"
-    u "(Je pense que je ne vais pas m'ennuyer à mourir, finalement.)"
+    u "(Finalement, je vais pas m'ennuyer.)"
 
 translate francais strings:
 

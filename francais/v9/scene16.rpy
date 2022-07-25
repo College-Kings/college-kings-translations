@@ -82,7 +82,7 @@ translate francais v9_emily_dorm_8b29a428:
 translate francais v9_emily_dorm_d1cd40be:
 
     # u "I'm alright. Just more attention than I'd like."
-    u "Je vais bien. On me prête juste plus d'attention que je ne le souhaiterais."
+    u "Je vais bien. On me prête juste plus d'attention que je le souhaiterais."
 
 # game/v9/scene16.rpy:188
 translate francais v9_emily_dorm_e93c3e12:
@@ -100,7 +100,7 @@ translate francais v9_emily_dorm_b6e102b1:
 translate francais v9_emily_dorm_ded4d26a:
 
     # u "So what have you been up to? Haven't seen much of you lately."
-    u "Alors, qu'est-ce que tu deviens ? Je ne t'ai pas beaucoup vu ces derniers temps."
+    u "Alors, qu'est-ce que tu deviens ? Je t'ai pas beaucoup vu ces derniers temps."
 
 # game/v9/scene16.rpy:202
 translate francais v9_emily_dorm_1c67a92b:
@@ -184,7 +184,7 @@ translate francais v9_emily_dorm_25355db3:
 translate francais v9_emily_dorm_9e8628ec:
 
     # u "So you can't sleep, huh? I know a surefire remedy for that."
-    u "Alors tu ne peux pas dormir, hein ? Je connais un remède infaillible pour ça."
+    u "Alors tu peux pas dormir, hein ? Je connais un remède infaillible pour ça."
 
 # game/v9/scene16.rpy:276
 translate francais v9_emily_dorm_1f254e0b:
@@ -268,7 +268,7 @@ translate francais v9_emily_dorm_b1b89f70:
 translate francais v9_emily_dorm_234bcc11:
 
     # u "Aww, you don't have anything to worry about. One punch isn't gonna change me."
-    u "Aww, tu n'as pas à t'inquiéter. Un coup de poing ne va pas me changer."
+    u "Aww, tu n'as pas à t'inquiéter. Un coup de poing va pas me changer."
 
 # game/v9/scene16.rpy:362
 translate francais v9_emily_dorm_30754a70:
@@ -460,7 +460,7 @@ translate francais v9_emily_dorm_f6c1daed:
 translate francais v9_emily_dorm_643fb271:
 
     # u "(I'm gonna blow if I don't do something.)"
-    u "(Je vais exploser si je ne fais pas quelque chose.)"
+    u "(Je vais exploser si je fais pas quelque chose.)"
 
 # game/v9/scene16.rpy:553
 translate francais v9_emily_dorm_84c913f8:
@@ -688,7 +688,7 @@ translate francais v9_emily_dorm_465f3c68:
 translate francais v9_emily_dorm_43d10a56:
 
     # u "Please do. Are you okay? I didn't hurt you, did I?"
-    u "S'il te plaît, fais-le. Est-ce que tu vas bien ? Je ne t'ai pas fait mal, hein ?"
+    u "S'il te plaît, fais-le. Est-ce que tu vas bien ? Je t'ai pas fait mal, hein ?"
 
 # game/v9/scene16.rpy:764
 translate francais v9_emily_dorm_1e4ccc6d:
@@ -1008,7 +1008,7 @@ translate francais v9s16_emilyBlowjob_f6c1daed:
 translate francais v9s16_emilyBlowjob_643fb271:
 
     # u "(I'm gonna blow if I don't do something.)"
-    u "(Je vais exploser si je ne fais pas quelque chose.)"
+    u "(Je vais exploser si je fais pas quelque chose.)"
 
 # game/v9/scene16.rpy:567
 translate francais v9s16_emilyBlowjob_84c913f8:
@@ -1236,7 +1236,7 @@ translate francais v9s16_emilyDoggy_465f3c68:
 translate francais v9s16_emilyDoggy_43d10a56:
 
     # u "Please do. Are you okay? I didn't hurt you, did I?"
-    u "S'il te plaît, fais-le. Est-ce que tu vas bien ? Je ne t'ai pas fait de mal, hein ?"
+    u "S'il te plaît, fais-le. Est-ce que tu vas bien ? Je t'ai pas fait de mal, hein ?"
 
 # game/v9/scene16.rpy:783
 translate francais v9s16_emilyDoggy_1e4ccc6d:

@@ -58,7 +58,7 @@ translate francais v11_museum_tour_e06278d9:
 translate francais v11_museum_tour_9e325213:
 
     # u "Sorry Riley, they definitely aren't real."
-    u "Désolé Riley, ils ne sont définitivement pas réels."
+    u "Désolé Riley, ils sont définitivement pas réels."
 
 # game/v11/scene22.rpy:81
 translate francais v11_museum_tour_9fde7cbe:

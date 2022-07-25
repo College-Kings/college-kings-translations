@@ -268,7 +268,7 @@ translate francais v12_urban_exploring_00b1c48d:
 translate francais v12_urban_exploring_fa03bf74:
 
     # u "I don't think she's backing out, I think she's giving you a warning. *Chuckles*"
-    u "Je ne pense pas qu'elle veuille abandonner, je pense qu'elle te donne juste un avertissement. *Rire*"
+    u "Je pense pas qu'elle veuille abandonner, je pense qu'elle te donne juste un avertissement. *Rire*"
 
 # game/v12/scene20.rpy:283
 translate francais v12_urban_exploring_b685c7b5:
@@ -340,7 +340,7 @@ translate francais v12_urban_exploring_438d2875:
 translate francais v12_urban_exploring_10d322e9:
 
     # u "Ha, don't worry about it."
-    u "Ha, ne t'en fais pas."
+    u "Ha, t'en fais pas."
 
 # game/v12/scene20.rpy:377
 translate francais v12s20_faillabel_47bccb43:

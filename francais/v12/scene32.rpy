@@ -478,7 +478,7 @@ translate francais v12s32_fbbd575c:
 translate francais v12s32_1356a550:
 
     # u "(She's already pressured by her sister, I shouldn't add to it.)"
-    u "(Elle est déjà mise sous pression par sa sœur, je ne devrais pas en rajouter.)"
+    u "(Elle est déjà mise sous pression par sa sœur, je devrais pas en rajouter.)"
 
 # game/v12/scene32.rpy:517
 translate francais v12s32_83d1fb32:
@@ -748,7 +748,7 @@ translate francais v12s32_e72da085:
 translate francais v12s32_146f5d78:
 
     # u "I've never seen you flustered or even bothered, yet with this you've been acting unlike yourself. As if you're worried about impressing your sister or something."
-    u "Je ne t'ai jamais vu agitée ou même ennuyée, mais là, tu n'es plus toi-même. Comme si tu étais inquiète de surpasser ta soeur ou quelque chose comme ça."
+    u "Je t'ai jamais vu agitée ou même ennuyée, mais là, tu n'es plus toi-même. Comme si tu étais inquiète de surpasser ta soeur ou quelque chose comme ça."
 
 # game/v12/scene32.rpy:761
 translate francais v12s32_9b042bdd:
@@ -778,7 +778,7 @@ translate francais v12s32_5a477939:
 translate francais v12s32_6c9ecdfb:
 
     # u "Then don't worry about her and live out your dream."
-    u "Alors ne t'inquiète pas pour elle et réalise TON rêve."
+    u "Alors t'inquiète pas pour elle et réalise TON rêve."
 
 # game/v12/scene32.rpy:776
 translate francais v12s32_709fa761:
@@ -820,7 +820,7 @@ translate francais v12s32_4e4004cf:
 translate francais v12s32_6ee5b2ad:
 
     # u "There's only one girl like you in this world and before all the Kiwii simps start lining up, I wanna be here at the beginning. *Chuckles*"
-    u "Il n'y a qu'une seule fille comme toi dans ce monde et avant que tous les membres de Kiwii ne commencent à se rassembler et à faire la queue, je veux être présent pour toi dès le début. *Rire*"
+    u "Il n'y a qu'une seule fille comme toi dans ce monde et avant que tous les membres de Kiwii commencent à se rassembler et à faire la queue, je veux être présent pour toi dès le début. *Rire*"
 
 # game/v12/scene32.rpy:867
 translate francais v12s32_20e5d2a9:

@@ -322,7 +322,7 @@ translate francais v12_penelope_roof_text_8b621f1e:
 translate francais v12_penelope_roof_text_5ff3bc04:
 
     # u "Ha, thanks. I can't even begin to think about marriage... I don't even know the Bill of Rights. *Chuckles*"
-    u "Ha, merci. Je ne veux même pas commencer à penser au mariage... Je ne connais même pas la Déclaration des droits. *Rires*"
+    u "Ha, merci. Je veux même pas commencer à penser au mariage... Je connais même pas la Déclaration des droits. *Rires*"
 
 # game/v12/scene3.rpy:340
 translate francais v12_penelope_roof_text_78101a7e:
@@ -358,7 +358,7 @@ translate francais v12_penelope_roof_text_d5b4820a:
 translate francais v12_penelope_roof_text_08de13f9:
 
     # u "I don't know about you, but this wind is making me a little chilly."
-    u "Je ne sais pas pour toi, mais ce vent me donne un peu froid dans le dos."
+    u "Je sais pas pour toi, mais ce vent me donne un peu froid dans le dos."
 
 # game/v12/scene3.rpy:388
 translate francais v12_penelope_roof_text_ebe51ccc:
@@ -418,13 +418,13 @@ translate francais v12_penelope_roof_text_5788969f:
 translate francais v12_penelope_roof_text_25c37916:
 
     # u "(Don't wanna take the chance that she may be needing help with the laundry or something... Haha.)"
-    u "(Je ne veux pas prendre le risque qu'elle ait besoin d'aide pour la lessive ou autre.... Haha.)"
+    u "(Je veux pas prendre le risque qu'elle ait besoin d'aide pour la lessive ou autre.... Haha.)"
 
 # game/v12/scene3.rpy:485
 translate francais v12_penelope_roof_text_67560170:
 
     # u "(Don't wanna take the chance that she may be needing help with one of her little Mr. Lee chores.)"
-    u "(Je ne veux pas prendre le risque qu'elle ait besoin d'aide pour une de ses petites tâches que Mr Lee lui confie.)"
+    u "(Je veux pas prendre le risque qu'elle ait besoin d'aide pour une de ses petites tâches que Mr Lee lui confie.)"
 
 translate francais strings:
 

@@ -22,7 +22,7 @@ translate francais for_w_gray_q_8ff9aa2c:
 translate francais for_w_gray_q_b4668b5d:
 
     # gr "They don't matter. You're what matters."
-    gr "Ils ne sont pas d'importants. C'est TOI qui es important."
+    gr "Ils sont pas d'importants. C'est TOI qui es important."
 
 # game/v8/scene43.rpy:45
 translate francais for_w_gray_no_q_926b434c:
@@ -64,7 +64,7 @@ translate francais forest_fugazi_4350cbe3:
 translate francais forest_no_fugazi_a38c9983:
 
     # u "(I don't know where this is going. Better let him talk)"
-    u "(Je ne sais pas où ça va aller. Mieux vaut le laisser parler)"
+    u "(Je sais pas où ça va aller. Mieux vaut le laisser parler)"
 
 # game/v8/scene43.rpy:93
 translate francais forest_no_fugazi_b2872afc:
@@ -148,7 +148,7 @@ translate francais for_w_gray_cont_2_48c99239:
 translate francais for_w_gray_cont_2_0056d039:
 
     # gr "You didn't do too well in the challenges. Are you sure you want to be an Ape?"
-    gr "Tu ne t'es pas très bien débrouillé dans les épreuves. T'es sûr de vouloir être un Ape ?"
+    gr "Tu t'es pas très bien débrouillé dans les épreuves. T'es sûr de vouloir être un Ape ?"
 
 # game/v8/scene43.rpy:186
 translate francais deffo_be_ape_for_76666776:
@@ -178,7 +178,7 @@ translate francais maybe_be_ape_for_490cda6e:
 translate francais maybe_be_ape_for_84e24702:
 
     # u "I wouldn't say that."
-    u "Je ne dirais pas ça."
+    u "Je dirais pas ça."
 
 # game/v8/scene43.rpy:211
 translate francais maybe_be_ape_for_689533a1:
@@ -190,13 +190,13 @@ translate francais maybe_be_ape_for_689533a1:
 translate francais maybe_be_ape_for_d3aa6314:
 
     # u "I... I didn't want to get in trouble. I worked hard to get in here."
-    u "Je... Je ne voulais pas avoir d'ennuis. J'ai travaillé trop dur pour arriver ici."
+    u "Je... Je voulais pas avoir d'ennuis. J'ai travaillé trop dur pour arriver ici."
 
 # game/v8/scene43.rpy:221
 translate francais maybe_be_ape_for_980e02fd:
 
     # gr "Is that all? Dude, don't worry about that. You're an Ape now!"
-    gr "C'est tout ? Mec, ne t'inquiète pas pour ça. T'es un Ape maintenant !"
+    gr "C'est tout ? Mec, t'inquiète pas pour ça. T'es un Ape maintenant !"
 
 # game/v8/scene43.rpy:229
 translate francais for_w_gray_cont_3_d0638013:
@@ -238,7 +238,7 @@ translate francais for_w_gray_agree_748b79be:
 translate francais for_w_gray_agree_fb900d77:
 
     # gr "You haven't done too bad for yourself."
-    gr "Tu ne t'es pas trop mal débrouillé, pour l'instant."
+    gr "Tu t'es pas trop mal débrouillé, pour l'instant."
 
 # game/v8/scene43.rpy:273
 translate francais for_w_gray_agree_12df4ba3:
@@ -322,7 +322,7 @@ translate francais for_w_gray_cont_4_37063d71:
 translate francais for_w_gray_cont_4_ad73c478:
 
     # gr "There's a lot that goes into being the leader of the Apes and I need to show you all the stuff the other guys will never see."
-    gr "Il y a beaucoup de choses à faire pour être le chef des Apes et je dois te montrer tout ce que les autres ne verront jamais."
+    gr "Il y a beaucoup de choses à faire pour être le chef des Apes et je dois te montrer tout ce que les autres verront jamais."
 
 # game/v8/scene43.rpy:356
 translate francais for_w_gray_agree_2_551580c9:
@@ -340,7 +340,7 @@ translate francais for_w_gray_agree_2_db2ed90b:
 translate francais for_w_gray_hesitate_0cb7e351:
 
     # u "I don't know... Are you sure?"
-    u "Je ne sais pas... Tu es sûr ?"
+    u "Je sais pas... Tu es sûr ?"
 
 # game/v8/scene43.rpy:371
 translate francais for_w_gray_hesitate_437ceee1:

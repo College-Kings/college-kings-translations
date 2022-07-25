@@ -58,7 +58,7 @@ translate francais v9_warehouse_lindsey_d5b89701:
 translate francais v9_warehouse_lindsey_9e74907e:
 
     # u "I just wanted to say I'm sorry for not coming over. I've been so distracted with this fight. It's really gotten in my head."
-    u "Je voulais juste te dire que je suis désolé de ne pas être venu. J'ai été tellement distrait par ce combat. Ça m'a vraiment pris la tête."
+    u "Je voulais juste te dire que je suis désolé de pas être venu. J'ai été tellement distrait par ce combat. Ça m'a vraiment pris la tête."
 
 # game/v9/scene44.rpy:71
 translate francais v9_warehouse_lindsey_80023ecf:
@@ -166,7 +166,7 @@ translate francais v9_warehouse_lindsey_da23bbd6:
 translate francais v9_warehouse_lindsey_9484cdb7:
 
     # u "Haha. Yeah, guess I won't be much fun if I get my ass kicked."
-    u "Haha. Ouais, je pense que je ne serai pas très agréable si je me fais botter le cul."
+    u "Haha. Ouais, je pense que je serai pas très agréable si je me fais botter le cul."
 
 # game/v9/scene44.rpy:172
 translate francais v9_warehouse_lindsey_ad044853:
@@ -238,7 +238,7 @@ translate francais v9_warehouse_lindsey_a18f046f:
 translate francais v9_warehouse_lindsey_223965ec:
 
     # u "Aww, don't worry. No cold feet here. You're just very hard to resist."
-    u "Oh, ne t'inquiète pas. Je n'ai pas froid aux yeux. Il est juste très difficile de te résister."
+    u "Oh, t'inquiète pas. Je n'ai pas froid aux yeux. Il est juste très difficile de te résister."
 
 # game/v9/scene44.rpy:252
 translate francais v9_warehouse_lindsey_f8d38387:

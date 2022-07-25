@@ -4,7 +4,7 @@
 translate francais v11_going_to_museum_d057bdbb:
 
     # u "I really would like to lay down for a minute if that's alright."
-    u "J'aimerais vraiment m'allonger une minute, si ça ne vous dérange pas."
+    u "J'aimerais vraiment m'allonger une minute, si ça vous dérange pas."
 
 # game/v11/scene21.rpy:20
 translate francais v11_going_to_museum_cfd7dba4:

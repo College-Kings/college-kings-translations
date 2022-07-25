@@ -100,7 +100,7 @@ translate francais v11_bar_chloe_and_aubrey_0ef8e940:
 translate francais v11_bar_chloe_and_aubrey_3e43cfbc:
 
     # u "Before I so rudely interrupted, what were you guys talking about?"
-    u "Avant que je ne vous interrompe brutalement, de quoi parliez-vous ?"
+    u "Avant que je vous interrompe brutalement, de quoi parliez-vous ?"
 
 # game/v11/scene33.rpy:121
 translate francais v11_bar_chloe_and_aubrey_0a9f7501:
@@ -340,7 +340,7 @@ translate francais v11_bar_chloe_and_aubrey_bdb1787c:
 translate francais v11_bar_chloe_and_aubrey_b7b27c0f:
 
     # u "Well I haven't even touched my drink, so if you feel good enough I don't mind going with you."
-    u "Je n'ai même pas touché à mon verre, donc si tu te sens assez bien, ça ne me dérange pas de venir avec toi."
+    u "Je n'ai même pas touché à mon verre, donc si tu te sens assez bien, ça me dérange pas de venir avec toi."
 
 # game/v11/scene33.rpy:346
 translate francais v11_bar_chloe_and_aubrey_bf9345a2:

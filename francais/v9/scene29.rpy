@@ -10,7 +10,7 @@ translate francais v9_your_room_satmorn_6009330c:
 translate francais v9_your_room_satmorn_2c77966a:
 
     # u "(Definitely won't be doing anything on an empty stomach. Breakfast is the most important meal and all that bullshit.)"
-    u "(Je ne ferai certainement rien avec l'estomac vide. Le petit-déjeuner est le repas le plus important et gnagnagna...)"
+    u "(Je ferai certainement rien avec l'estomac vide. Le petit-déjeuner est le repas le plus important et gnagnagna...)"
 
 # game/v9/scene29.rpy:34
 translate francais v9_your_room_satmorn_6009330c_1:
@@ -22,4 +22,4 @@ translate francais v9_your_room_satmorn_6009330c_1:
 translate francais v9_your_room_satmorn_2c77966a_1:
 
     # u "(Definitely won't be doing anything on an empty stomach. Breakfast is the most important meal and all that bullshit.)"
-    u "(Je ne ferai certainement rien avec l'estomac vide. Le petit-déjeuner est le repas le plus important et gnagnagna...)"
+    u "(Je ferai certainement rien avec l'estomac vide. Le petit-déjeuner est le repas le plus important et gnagnagna...)"

@@ -112,7 +112,7 @@ translate francais v11s4_PhoneContinueJosh1_48eb760e:
 translate francais v11s4_PhoneContinueJosh1_4765870e:
 
     # u "While I still remember, I didn't see your name on the list of people going to Europe. Are you not coming?"
-    u "Je viens de me souvenirs; je n'ai pas vu ton nom sur la liste des gens qui vont en Europe. Tu ne viens pas ?"
+    u "Je viens de me souvenirs; je n'ai pas vu ton nom sur la liste des gens qui vont en Europe. Tu viens pas ?"
 
 # game/v11/scene5.rpy:176
 translate francais v11s4_PhoneContinueJosh1_7c57f70c:
@@ -490,7 +490,7 @@ translate francais v11s4_PhoneContinueJosh1_06cde338:
 translate francais v11s4_PhoneContinueJosh1_0ac5c7dc:
 
     # u "Tonight I'm just chilling with my friend. He thought getting fucked up would be a good idea, but I'm not even sure where he ran off to."
-    u "Ce soir, je suis juste en train de me détendre avec mon ami. Il pensait que se défoncer serait une bonne idée, mais je ne sais même pas où il est allé."
+    u "Ce soir, je suis juste en train de me détendre avec mon ami. Il pensait que se défoncer serait une bonne idée, mais je sais même pas où il est allé."
 
 # game/v11/scene5.rpy:560
 translate francais v11s4_PhoneContinueJosh1_65c10226:
@@ -580,7 +580,7 @@ translate francais v11s4_PhoneContinueJosh1_5622e56b:
 translate francais v11s4_PhoneContinueJosh1_c3b494dc:
 
     # u "I'm sorry, I'd love to, but I wouldn't want to get in between you and your man."
-    u "Je suis désolé, j'aimerais bien, mais je ne voudrais pas me mettre entre toi et ton mec."
+    u "Je suis désolé, j'aimerais bien, mais je voudrais pas me mettre entre toi et ton mec."
 
 # game/v11/scene5.rpy:655
 translate francais v11s4_PhoneContinueJosh1_8c35b887:

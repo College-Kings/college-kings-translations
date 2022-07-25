@@ -16,7 +16,7 @@ translate francais v11_hotel_room_16c9bc68:
 translate francais v11_hotel_room_81c29d39:
 
     # u "Fuck guys! We can't go any further, there's a cliff!"
-    u "Putain les filles ! On ne peut pas aller plus loin, il y a une falaise !"
+    u "Putain les filles ! On peut pas aller plus loin, il y a une falaise !"
 
 # game/v11/scene29.rpy:26
 translate francais v11_hotel_room_575f57c4:
@@ -202,7 +202,7 @@ translate francais v11wakeupa_26dc6d34:
 translate francais v11wakeupa_6bfbc36e:
 
     # u "Like what? Like out of eight billion people I'm only focused on one?"
-    u "Comme quoi ? Comme si, sur huit milliards de personnes, je ne me concentrais que sur une seule ?"
+    u "Comme quoi ? Comme si, sur huit milliards de personnes, je me concentrais que sur une seule ?"
 
 # game/v11/scene29.rpy:266
 translate francais v11wakeupa_c9f71855:
@@ -214,7 +214,7 @@ translate francais v11wakeupa_c9f71855:
 translate francais v11wakeupa_9f8b57cd:
 
     # u "Haha, you make it hard not to."
-    u "Haha, tu rends difficile le fait de ne pas le faire."
+    u "Haha, tu rends difficile le fait de pas le faire."
 
 # game/v11/scene29.rpy:276
 translate francais v11wakeupa_eb1d04fc:
@@ -226,7 +226,7 @@ translate francais v11wakeupa_eb1d04fc:
 translate francais v11wakeupa_db9a11b7:
 
     # u "I'm gonna head down and see what's buzzing in the lobby. I'll let you finish your bags, I'd hate to find anything else embarrassing. *Laughs*"
-    u "Je vais descendre et voir ce qui se passe dans le hall. Je te laisse finir tes bagages, je ne voudrais surtout pas trouver autre chose d'embarrassant. *Rire*"
+    u "Je vais descendre et voir ce qui se passe dans le hall. Je te laisse finir tes bagages, je voudrais surtout pas trouver autre chose d'embarrassant. *Rire*"
 
 # game/v11/scene29.rpy:286
 translate francais v11wakeupa_4a55765a:
@@ -238,7 +238,7 @@ translate francais v11wakeupa_4a55765a:
 translate francais v11wakeupa_8663e0f2:
 
     # u "Embarrassing you? Me? I'd never."
-    u "T'embarrasser ? Moi ? Je ne le ferais jamais."
+    u "T'embarrasser ? Moi ? Je le ferais jamais."
 
 # game/v11/scene29.rpy:297
 translate francais v11wakeupa_1725e9fc:
@@ -262,7 +262,7 @@ translate francais v11wakeupa_7bec2cf6:
 translate francais v11wakeupa_6470c237:
 
     # u "I could if you weren't waking me up."
-    u "Je pourrais si tu ne me réveillais pas."
+    u "Je pourrais si tu me réveillais pas."
 
 # game/v11/scene29.rpy:325
 translate francais v11wakeupa_25074d04:

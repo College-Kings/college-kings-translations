@@ -46,7 +46,7 @@ translate francais v13s20_closet_a80ed8d1:
 translate francais v13s20_closet_c9f4504c:
 
     # u "*Chuckles* I can't do that nasty shit."
-    u "*Rire* Je ne peux pas faire cette sale merde."
+    u "*Rire* Je peux pas faire cette sale merde."
 
 # game/v13/scene20.rpy:76
 translate francais v13s20_bleach_14b7bd55:
@@ -106,7 +106,7 @@ translate francais v13s20_toothbrush_d6934e11:
 translate francais v13s20_toothbrush_ca883795:
 
     # u "(Nah... I won't do that. I'd have to kill someone if they did that to me.)"
-    u "(Nan... je ne vais pas faire ça. Je serais capable de tuer quelqu'un si on me faisait ça.)"
+    u "(Nan... je vais pas faire ça. Je serais capable de tuer quelqu'un si on me faisait ça.)"
 
 # game/v13/scene20.rpy:195
 translate francais v13s20_end_da798547:
@@ -136,7 +136,7 @@ translate francais v13s20_end_6ebd9d56:
 translate francais v13s20_end_7ab04272:
 
     # u "\"The final turned out great, I can't thank you enough, Charli. Academic honors scholarship, here I come!\""
-    u "\"Le résultat final est génial, je ne peux pas te remercier assez, Charli. Bourse d'honneur académique, j'arrive !\""
+    u "\"Le résultat final est génial, je peux pas te remercier assez, Charli. Bourse d'honneur académique, j'arrive !\""
 
 # game/v13/scene20.rpy:220
 translate francais v13s20_end_9b7a553f:
@@ -178,7 +178,7 @@ translate francais v13s20_end_90883cac:
 translate francais v13s20_end_4bc995ca:
 
     # u "Either way though, this man won't be fucking with me anymore. That, I'm sure of."
-    u "En tout cas, ce mec ne me fera plus chier. Ça, j'en suis sûr."
+    u "En tout cas, ce mec me fera plus chier. Ça, j'en suis sûr."
 
 # game/v13/scene20.rpy:259
 translate francais v13s20_end_979a794c:

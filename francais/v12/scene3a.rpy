@@ -166,7 +166,7 @@ translate francais v12_penelope_call_1e63163a:
 translate francais v12_penelope_call_7beaed05:
 
     # u "Oh uhm, never mind... Sorry. Talk to you later."
-    u "Oh euh, ça ne fait rien... Désolé. On se parle plus tard."
+    u "Oh euh, ça fait rien... Désolé. On se parle plus tard."
 
 # game/v12/scene3a.rpy:186
 translate francais v12_penelope_call_44aeeaec:
@@ -178,7 +178,7 @@ translate francais v12_penelope_call_44aeeaec:
 translate francais v12_penelope_call_1ab85b71:
 
     # u "I just wanted to say I really miss you. It's weird being all the way across the world and not being able to see you, or even talk to you every day."
-    u "Je voulais juste te dire que tu me manques vraiment. C'est bizarre d'être à l'autre bout du monde et de ne pas pouvoir te voir, ou même te parler tous les jours."
+    u "Je voulais juste te dire que tu me manques vraiment. C'est bizarre d'être à l'autre bout du monde et de pas pouvoir te voir, ou même te parler tous les jours."
 
 # game/v12/scene3a.rpy:200
 translate francais v12_penelope_call_4a015b36:

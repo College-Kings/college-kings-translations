@@ -28,7 +28,7 @@ translate francais v13s44_ac1930cf:
 translate francais v13s44_67e8a396:
 
     # u "I know you say that, but I still don't sit right with what I did to you."
-    u "Je sais que tu dis ça, mais je ne suis toujours pas content de ce que je t'ai fait."
+    u "Je sais que tu dis ça, mais je suis toujours pas content de ce que je t'ai fait."
 
 # game/v13/scene44.rpy:46
 translate francais v13s44_8cf408b2:
@@ -112,7 +112,7 @@ translate francais v13s44_f4e2b0dd:
 translate francais v13s44_2de9017f:
 
     # u "Oh shit I can't believe I almost forgot. How are you feeling after the hospital?"
-    u "Oh merde, je ne peux pas croire que j'ai presque oublié. Comment tu te sens après l'hôpital ?"
+    u "Oh merde, je peux pas croire que j'ai presque oublié. Comment tu te sens après l'hôpital ?"
 
 # game/v13/scene44.rpy:118
 translate francais v13s44_74a9f315:

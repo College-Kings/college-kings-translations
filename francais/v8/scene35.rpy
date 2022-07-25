@@ -22,7 +22,7 @@ translate francais steak_w_chloe_b3bf8b00:
 translate francais steak_w_chloe_f7179422:
 
     # u "You look delicious yourself."
-    u "Et toi, Tu es délicieuse."
+    u "Et toi, T'es délicieuse."
 
 # game/v8/scene35.rpy:44
 translate francais steak_w_chloe_647d0c2b:
@@ -46,13 +46,13 @@ translate francais steak_w_chloe_bb0fe35a:
 translate francais steak_w_chloe_e6304982:
 
     # u "It smells so good. I wouldn't blame you."
-    u "Ça sent si bon. Je ne t'en voudrais pas."
+    u "Ça sent si bon. Je t'en voudrais pas."
 
 # game/v8/scene35.rpy:62
 translate francais steak_w_chloe_192c986d:
 
     # cl "Yeah, I smell this place every day on the way back to my room and I just had to give it a try."
-    cl "Oui, je sens cet endroit tous les jours en rentrant dans ma chambre et je me suis dit que je devais l'essayer un jour."
+    cl "Oui, je sens cet endroit tous les jours en rentrant dans ma chambre et je me suis dit qu'un jour, je devais l'essayer."
 
 # game/v8/scene35.rpy:67
 translate francais steak_w_chloe_489d30f1:
@@ -88,7 +88,7 @@ translate francais steak_w_chloe_9dd57dff:
 translate francais steak_w_chloe_63df5340:
 
     # u "What? You're definitely the best at certain things."
-    u "Quoi ? Tu es clairement la meilleure dans certains trucs."
+    u "Quoi ? T'es clairement la meilleure dans certains trucs."
 
 # game/v8/scene35.rpy:98
 translate francais steak_w_chloe_22afef28:
@@ -124,31 +124,31 @@ translate francais steak_w_chloe_eadf1310:
 translate francais steak_flirt_w_chloe_6140a0d1:
 
     # u "Unlesssss..."
-    u "A moinnnns que..."
+    u "À moinnnns que..."
 
 # game/v8/scene35.rpy:140
 translate francais steak_flirt_w_chloe_f9989de0:
 
     # cl "Unlesssss what?"
-    cl "A moins que quoiiiii ?"
+    cl "À moins que quoiiiii ?"
 
 # game/v8/scene35.rpy:145
 translate francais steak_flirt_w_chloe_2b764cab:
 
     # u "Unless one of those friends was up for more."
-    u "A moins que l'un de ces amis en veuille plus."
+    u "À moins que l'une de ces amies en veuille plus."
 
 # game/v8/scene35.rpy:150
 translate francais steak_flirt_w_chloe_a3ff9715:
 
     # cl "And which friend would that be up to?"
-    cl "Et de quel ami s'agirait-il ?"
+    cl "Et de quelle amie s'agirait-il ?"
 
 # game/v8/scene35.rpy:155
 translate francais steak_flirt_w_chloe_b0e1b2da:
 
     # u "Definitely the hottest one."
-    u "Certainement le plus chaud."
+    u "Certainement la plus chaude."
 
 # game/v8/scene35.rpy:160
 translate francais steak_flirt_w_chloe_132d1b6e:
@@ -166,13 +166,13 @@ translate francais steak_no_flirt_w_chloe_c8af0c79:
 translate francais steak_no_flirt_w_chloe_b5c5146b:
 
     # cl "Nervous? I don't see it. You always seem so confident."
-    cl "Nerveux ? Je ne le vois pas. Tu sembles toujours si confiant."
+    cl "Nerveux ? Je ne vois pas. Tu as toujours l'air si sûr de toi."
 
 # game/v8/scene35.rpy:175
 translate francais steak_no_flirt_w_chloe_a7310ce5:
 
     # u "Hi, my name's [name], I don't believe we've met."
-    u "Bonjour, je m'appelle [name], je ne crois pas qu'on se soit déjà rencontrés."
+    u "Bonjour, je m'appelle [name], je crois pas qu'on se soit déjà rencontrés."
 
 # game/v8/scene35.rpy:180
 translate francais steak_no_flirt_w_chloe_da8841c3:
@@ -190,7 +190,7 @@ translate francais steak_w_chloe_cont_637dc661:
 translate francais steak_w_chloe_cont_dcb8b06d:
 
     # u "Dip it in soy sauce. It'll be delicious."
-    u "Trempe-les dans la sauce soja. Ce sera délicieux."
+    u "Trempe-les dans la sauce soja. Ça sera délicieux."
 
 # game/v8/scene35.rpy:198
 translate francais steak_w_chloe_cont_a9c53549:
@@ -214,19 +214,19 @@ translate francais steak_w_chloe_cont_073e0e7e:
 translate francais steak_w_chloe_cont_8caebd33:
 
     # u "Wow, you gonna need help with any of that?"
-    u "Wow, tu vas avoir besoin d'aide avec tout ça ?"
+    u "Wow, tu auras besoin d'aide avec tout ça ?"
 
 # game/v8/scene35.rpy:218
 translate francais steak_w_chloe_cont_b87f9aa1:
 
     # cl "Most certainly not! Get your own. Haha."
-    cl "Certainement pas ! Commande les tiens. Haha."
+    cl "Certainement pas ! Commande tes plats. Haha."
 
 # game/v8/scene35.rpy:223
 translate francais steak_w_chloe_cont_41f8ae11:
 
     # u "Okay, then I'll do steak hibachi medium rare with extra steamed vegetables."
-    u "Ok, alors je vais prendre un steak hibachi à point avec des légumes vapeur supplémentaires."
+    u "Bon, alors je vais prendre un steak hibachi à point avec des légumes vapeur supplémentaires."
 
 # game/v8/scene35.rpy:228
 translate francais steak_w_chloe_cont_24113f9f:
@@ -256,7 +256,7 @@ translate francais steak_w_chloe_muscles_3fae733c:
 translate francais steak_w_chloe_muscles_d13d8f8f:
 
     # u "Let me see your muscles. All that sushi protein, I bet you're stronger than me."
-    u "Laisse-moi voir tes muscles. Avec toutes ces protéines de sushi, je parie que tu es plus forte que moi."
+    u "Laisse-moi voir tes muscles. Avec toutes ces protéines de sushi, je parie que t'es plus forte que moi."
 
 # game/v8/scene35.rpy:264
 translate francais steak_w_chloe_muscles_b357cec5:
@@ -280,7 +280,7 @@ translate francais steak_w_chloe_serious_f83d72f0:
 translate francais steak_w_chloe_serious_067e0c81:
 
     # u "Totally... just making sure that's all it is. If you need a shoulder..."
-    u "Bien sûr... je m'assure juste que ce n'est que ça. Si tu as besoin d'une épaule..."
+    u "Bien sûr... je m'assure juste que c'est que ça. Si t'as besoin d'une épaule..."
 
 # game/v8/scene35.rpy:287
 translate francais steak_w_chloe_serious_37b40149:
@@ -304,7 +304,7 @@ translate francais steak_w_chloe_cont_2_a5bd20da:
 translate francais steak_w_chloe_cont_2_8f509de2:
 
     # u "You'd taste better."
-    u "Tu as meilleur goût."
+    u "T'as meilleur goût."
 
 # game/v8/scene35.rpy:316
 translate francais steak_w_chloe_cont_2_bb92d525:
@@ -316,7 +316,7 @@ translate francais steak_w_chloe_cont_2_bb92d525:
 translate francais steak_w_chloe_cont_2_386da6d5:
 
     # u "Oh, God. You're insanely hot."
-    u "Oh, merde. Tu es incroyablement chaude."
+    u "Oh, merde. T'es vraiment chaude."
 
 # game/v8/scene35.rpy:326
 translate francais steak_w_chloe_cont_2_77efd572:
@@ -328,7 +328,7 @@ translate francais steak_w_chloe_cont_2_77efd572:
 translate francais steak_w_chloe_cont_2_b9ed0b47:
 
     # u "Find out what? How insane you are or how you taste?"
-    u "Découvrir quoi ? A quel point tu es chaude ou quel est ton goût ?"
+    u "Découvrir quoi ? À quel point t'es chaude ou quel est ton goût ?"
 
 # game/v8/scene35.rpy:337
 translate francais steak_w_chloe_cont_2_2d496b0f:
@@ -346,7 +346,7 @@ translate francais steak_w_chloe_cont_2_d86e47b3:
 translate francais steak_w_chloe_cont_2_1a993788:
 
     # u "(Oh, God that's hot)"
-    u "(Oh, merde, c'est chaud)"
+    u "(Oh, putain, c'est chaud)"
 
 # game/v8/scene35.rpy:356
 translate francais steak_w_chloe_cont_2_340ef3f5:
@@ -364,7 +364,7 @@ translate francais steak_w_chloe_cont_2_42341b66:
 translate francais steak_w_chloe_cont_2_2cfb58d2:
 
     # u "Is that even possible?"
-    u "Est-ce même possible ?"
+    u "Est-ce que c'est possible, au moins ?"
 
 # game/v8/scene35.rpy:372
 translate francais steak_w_chloe_cont_2_8f82c958:
@@ -376,7 +376,7 @@ translate francais steak_w_chloe_cont_2_8f82c958:
 translate francais steak_w_chloe_cont_2_b36b69b6:
 
     # u "I expected it to be hard work but..."
-    u "Je m'attendais à ce que ce soit un travail difficile, mais..."
+    u "Je m'attendais à ce que ça soit un travail difficile, mais..."
 
 # game/v8/scene35.rpy:382
 translate francais steak_w_chloe_cont_2_28224fd9:
@@ -406,7 +406,7 @@ translate francais steak_w_chloe_cont_2_c5034cfe:
 translate francais steak_w_chloe_cont_2_e36213b3:
 
     # u "It's not so easy for guys. People aren't storming castles to get at us."
-    u "Ce n'est pas si facile pour les hommes. Les filles ne prennent pas d'assaut les châteaux fort pour nous atteindre."
+    u "C'est pas si facile pour les hommes. Les filles prennent pas d'assaut les châteaux fort pour nous atteindre."
 
 # game/v8/scene35.rpy:412
 translate francais steak_w_chloe_cont_2_10371bca:
@@ -478,7 +478,7 @@ translate francais steak_w_chloe_dirty_3a7f31be:
 translate francais steak_w_chloe_dirty_5f11f65c:
 
     # u "I don't have a roommate so I don't need one. But if I had you in my room, I'd barricade the door and booby trap it."
-    u "Je n'ai pas de colocataire donc je n'en ai pas besoin. Mais si j'en avais un et que je t'avais dans ma chambre, je barricaderais la porte et la piégerais."
+    u "J'ai pas de colocataire donc j'en ai pas besoin. Mais si j'en avais un et que je t'avais dans ma chambre, je barricaderais la porte et la piégerais."
 
 # game/v8/scene35.rpy:482
 translate francais steak_w_chloe_dirty_08bf0957:
@@ -526,7 +526,7 @@ translate francais steak_w_chloe_cont_3_040a306c:
 translate francais steak_w_chloe_cont_3_c4d90d12:
 
     # u "Really? They don't sit around braiding each other's hair and having tea parties?"
-    u "Vraiment ? Elles ne s'assoient pas pour se tresser les cheveux et prendre le thé ?"
+    u "C'est vrai ? Elles s'assoient pas pour se tresser les cheveux et prendre le thé ?"
 
 # game/v8/scene35.rpy:528
 translate francais steak_w_chloe_cont_3_0edcc060:
@@ -574,7 +574,7 @@ translate francais steak_w_chloe_cont_3_689fc4fb:
 translate francais steak_w_chloe_cont_3_48d2a901:
 
     # u "I've imagined plenty, especially after Friday! But that's nothing compared to the real thing."
-    u "J'en ai imaginé beaucoup, surtout après vendredi ! Mais ce n'est rien comparé à la réalité."
+    u "J'en ai imaginé beaucoup, surtout après vendredi ! Mais c'est rien comparé à la réalité."
 
 # game/v8/scene35.rpy:574
 translate francais steak_w_chloe_cont_3_e0c92d91:
@@ -650,4 +650,4 @@ translate francais steak_w_chloe_cont_e5cab38b:
 translate francais steak_w_chloe_muscles_11e5d831:
 
     # u "Let me see your muscles. All that protein, I bet you're stronger than me."
-    u "Laisse-moi voir tes muscles. Avec toutes ces protéines, je parie que tu es plus forte que moi."
+    u "Laisse-moi voir tes muscles. Avec toutes ces protéines, je parie que t'es plus forte que moi."

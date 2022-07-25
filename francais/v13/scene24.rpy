@@ -202,7 +202,7 @@ translate francais v13s24_2661a731:
 translate francais v13s24_4e4e84be:
 
     # u "What's wrong? Getting nervous about that new hairdo all of a sudden? *Laughs*"
-    u "Qu'est-ce qui ne va pas ? Tu deviens nerveux à propos de ta nouvelle coiffure tout d'un coup ? *Rire*"
+    u "Qu'est-ce qui va pas ? Tu deviens nerveux à propos de ta nouvelle coiffure tout d'un coup ? *Rire*"
 
 # game/v13/scene24.rpy:226
 translate francais v13s24_aa959be9:
@@ -346,7 +346,7 @@ translate francais v13s24_eb8b1f7d:
 translate francais v13s24_62ae606a:
 
     # u "Yeah, I'm on the no kids vibe at the moment too. Guess it's just not something I think about."
-    u "Ouais, je suis aussi sur la phase \"pas d'enfants\" en ce moment. Je ne suis pas du genre à y penser, pour l'instant."
+    u "Ouais, je suis aussi sur la phase \"pas d'enfants\" en ce moment. Je suis pas du genre à y penser, pour l'instant."
 
 # game/v13/scene24.rpy:388
 translate francais v13s24_7d456685:
@@ -526,7 +526,7 @@ translate francais v13s24_9fb1d251:
 translate francais v13s24_206b4b50:
 
     # u "That sounds like a lot for our generation, but even if it isn't... I just don't see myself doing that."
-    u "Ça semble être beaucoup pour notre génération, mais même si ça ne l'est pas... Je ne me vois pas faire ça."
+    u "Ça semble être beaucoup pour notre génération, mais même si ça l'est pas... Je me vois pas faire ça."
 
 # game/v13/scene24.rpy:578
 translate francais v13s24_738eb004:
@@ -766,7 +766,7 @@ translate francais v13s24_aryssa_date_b6d73555:
 translate francais v13s24_no_simplr_date_a8822a02:
 
     # u "Yeah, I don't know actually. You guys go ahead and enjoy yourselves, I'm just gonna chill."
-    u "Ouais, je ne sais pas en fait. Allez-y et amusez-vous, je vais juste me détendre."
+    u "Ouais, je sais pas en fait. Allez-y et amusez-vous, je vais juste me détendre."
 
 # game/v13/scene24.rpy:972
 translate francais v13s24_no_simplr_date_b5fdebe7:

@@ -40,7 +40,7 @@ translate francais s26_b19b6152:
 translate francais s26_35775760:
 
     # u "Hot! You both look amazing."
-    u "Chaud ! Vous êtes tous les deux magnifiques."
+    u "Sexy ! Vous êtes toutes les deux magnifiques."
 
 # game/v8/Scene26.rpy:51
 translate francais s26_8b9dee31:
@@ -64,7 +64,7 @@ translate francais s26_8eaa20a6:
 translate francais s26_7b32d783:
 
     # au "What do you think? Do you like it?"
-    au "Qu'en pensez-vous ? Vous aimez ?"
+    au "Vous en pensez quoi ? Vous aimez ?"
 
 # game/v8/Scene26.rpy:76
 translate francais s26_4ddb6179:
@@ -88,7 +88,7 @@ translate francais s26_59751aac:
 translate francais s26_aeddc5a5:
 
     # au "Damn, girl. Makes me feel a bit naughty."
-    au "Bon sang, ma fille. Tu me fais me sentir un peu vilaine."
+    au "Bon sang, ma fille. Je me sens un peu coquine."
 
 # game/v8/Scene26.rpy:101
 translate francais s26_1961a867:
@@ -100,19 +100,19 @@ translate francais s26_1961a867:
 translate francais s26_8aeb9c5b:
 
     # ri "Not so fast... I need a pair I can wear out in public."
-    ri "Pas si vite... J'ai besoin d'une paire que je puisse porter à l'extérieur."
+    ri "Pas si vite... J'ai besoin d'une autre paire que je puisse porter à l'extérieur."
 
 # game/v8/Scene26.rpy:111
 translate francais s26_dc019280:
 
     # u "Yeah, probably wouldn't get much done if I saw you in those every day."
-    u "Ouais, je n'arriverais sûrement plus à faire grand chose si je vous voyais tout le temps avec celles-là."
+    u "C'est vrai, j'arriverais pas à grand chose si je vous voyais avec ça tous les jours."
 
 # game/v8/Scene26.rpy:116
 translate francais s26_17f48d14:
 
     # ri "Both of us?"
-    ri "Nous deux ?"
+    ri "Toutes les deux ?"
 
 # game/v8/Scene26.rpy:121
 translate francais s26_fa92393f:
@@ -136,19 +136,19 @@ translate francais s26_011c0dfe:
 translate francais s26_dc9f6f5a:
 
     # au "Oh! I know..."
-    au "Oh ! Je sais..."
+    au "Ah ! Je sais..."
 
 # game/v8/Scene26.rpy:146
 translate francais s26_6230b0f4:
 
     # au "I bet you'd look super hot in these."
-    au "Je parie que tu serais super sexy avec ça."
+    au "Je suis sûre que tu seras super sexy avec ça."
 
 # game/v8/Scene26.rpy:163
 translate francais take_aub_glasses_999ce574:
 
     # ri "You're so adorable."
-    ri "Tu es tellement adorable."
+    ri "Tu es vraiment adorable."
 
 # game/v8/Scene26.rpy:168
 translate francais take_aub_glasses_3e4de8cd:
@@ -160,7 +160,7 @@ translate francais take_aub_glasses_3e4de8cd:
 translate francais take_aub_glasses_13de9698:
 
     # ri "Here how about these?"
-    ri "Que dites-vous de celles-ci ?"
+    ri "Et que dites-vous de celles-ci ?"
 
 # game/v8/Scene26.rpy:178
 translate francais take_aub_glasses_cb536318:
@@ -178,7 +178,7 @@ translate francais take_aub_glasses_12048020:
 translate francais take_aub_glasses_b15f38ca:
 
     # ri "Right? Even better than the other ones."
-    ri "Pas vrai ? Encore meilleures que les autres."
+    ri "N'est-ce pas ? Encore plus belles que les autres."
 
 # game/v8/Scene26.rpy:193
 translate francais take_aub_glasses_2a41267e:
@@ -226,7 +226,7 @@ translate francais no_take_aub_glasses_07767edb:
 translate francais no_take_aub_glasses_ec58dd76:
 
     # u "(Pretty? That's not good)"
-    u "(Jolie ? Ce n'est pas bon)"
+    u "(Jolie ? C'est pas bon)"
 
 # game/v8/Scene26.rpy:236
 translate francais no_take_aub_glasses_e9dc8015:
@@ -256,25 +256,25 @@ translate francais after_glasses_choice_fb9cf7ec:
 translate francais after_glasses_choice_c9d4e42e:
 
     # au "He's right! With your hair color those would look so hot."
-    au "Il a raison ! Avec ta couleur de cheveux, elles seraient très sexy."
+    au "Il a raison ! Avec ta couleur de cheveux, tu serais vraiment sexy."
 
 # game/v8/Scene26.rpy:265
 translate francais after_glasses_choice_03c2245e:
 
     # u "(She looks so kissable)"
-    u "(Elle est si charmante.)"
+    u "(Elles me donnent envie de l'embrasser.)"
 
 # game/v8/Scene26.rpy:268
 translate francais after_glasses_choice_a0492bc0:
 
     # u "You really suit them Riley!"
-    u "Tu les portes vraiment bien, Riley !"
+    u "Elles te vont vraiment bien, Riley !"
 
 # game/v8/Scene26.rpy:273
 translate francais after_glasses_choice_f0a54988:
 
     # au "See, we made the right choice asking [name] to come, didn't we Riley?"
-    au "Tu vois, on a fait le bon choix en demandant à [name] de venir, n'est-ce pas Riley ?"
+    au "Tu vois Riley, on a fait le bon choix en demandant à [name] de venir, hein ?"
 
 # game/v8/Scene26.rpy:278
 translate francais after_glasses_choice_03e20d80:
@@ -292,7 +292,7 @@ translate francais after_glasses_choice_59c0be23:
 translate francais after_glasses_choice_08da624d:
 
     # u "(Am I dreaming this? They can't mean...)"
-    u "(Est-ce que je rêve ? Elles ne peuvent pas vouloir dire...)"
+    u "(Je rêve ? Elles peuvent pas vouloir dire...)"
 
 # game/v8/Scene26.rpy:293
 translate francais after_glasses_choice_38a0e3ab:
@@ -316,7 +316,7 @@ translate francais after_glasses_choice_8e3c3cf5:
 translate francais after_glasses_choice_3b157c30:
 
     # u "Those look really hot, but I still think the last pair matches your hair, like Aubrey said."
-    u "Celles-là sont vraiment sexy, mais je pense toujours que la dernière paire va mieux avec tes cheveux, comme l'a dit Aubrey."
+    u "Celles-là sont vraiment sexy, mais je crois toujours que la dernière paire irait mieux avec tes cheveux, comme l'a dit Aubrey."
 
 # game/v8/Scene26.rpy:312
 translate francais after_glasses_choice_63c55ee6:
@@ -328,7 +328,7 @@ translate francais after_glasses_choice_63c55ee6:
 translate francais after_glasses_choice_29ffe6d8:
 
     # au "Yeah, they were just so gorgeous."
-    au "Ouais, elles étaient juste magnifiques."
+    au "Ouais, elles étaient vraiment magnifiques."
 
 # game/v8/Scene26.rpy:322
 translate francais after_glasses_choice_8a80d168:
@@ -388,7 +388,7 @@ translate francais after_glasses_choice_eb20ed1f:
 translate francais after_glasses_choice_f0e3dc73:
 
     # ri "*whispers* Careful what you wish for."
-    ri "*chuchote* Attention à ce que tu souhaites."
+    ri "*chuchote* Attention à ce que tu désires..."
 
 # game/v8/Scene26.rpy:377
 translate francais opti_end_6adba70a:

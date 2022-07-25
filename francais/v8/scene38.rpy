@@ -28,7 +28,7 @@ translate francais seb_in_room_50b58ffa:
 translate francais seb_in_room_9a467561:
 
     # u "Yeah! It's great. Can't think of anything I'm missing."
-    u "Ouais ! C'est génial. Je ne vois pas ce qui me manque."
+    u "Ouais ! C'est génial. Je vois pas ce qui me manque."
 
 # game/v8/scene38.rpy:56
 translate francais seb_in_room_18e518c9:
@@ -40,7 +40,7 @@ translate francais seb_in_room_18e518c9:
 translate francais seb_in_room_cc717b25:
 
     # u "Ahh, yeah maybe. I haven't really had time to add a personal touch. I'll get there eventually."
-    u "Ahh, oui peut-être. Je n'ai pas vraiment eu le temps d'ajouter une touche personnelle. Quand j'aurai un peu de temps, j'y penserai."
+    u "Ahh, oui peut-être. J'ai pas vraiment eu le temps d'ajouter une touche personnelle. Quand j'aurai un peu de temps, j'y penserai."
 
 # game/v8/scene38.rpy:66
 translate francais seb_in_room_ab312397:
@@ -52,7 +52,7 @@ translate francais seb_in_room_ab312397:
 translate francais seb_in_room_bb0eac50:
 
     # u "I'm not that great at decorating. Maybe you could give me some pointers some time?"
-    u "Je ne suis pas très doué pour la décoration. Peut-être que tu pourrais me donner quelques conseils un jour ?"
+    u "Je suis pas très doué pour la décoration. Peut-être qu'un jour, tu pourrais me donner quelques conseils ?"
 
 # game/v8/scene38.rpy:76
 translate francais seb_in_room_940cf87d:
@@ -88,7 +88,7 @@ translate francais seb_in_room_db23c237:
 translate francais seb_in_room_8acbb78a:
 
     # u "You have a hard time asking a favor, don't you?"
-    u "Tu as du mal à demander une faveur, n'est-ce pas ?"
+    u "T'as du mal à demander une faveur, hein ?"
 
 # game/v8/scene38.rpy:113
 translate francais seb_in_room_e6e97d1c:
@@ -100,7 +100,7 @@ translate francais seb_in_room_e6e97d1c:
 translate francais seb_in_room_66a7a21c:
 
     # u "Like I said, Wolves stick together, you need a hand, I'll do whatever I can."
-    u "Comme je l'ai dit, les Wolves se serrent les coudes, si tu as besoin d'un coup de main, je ferai tout ce que je peux."
+    u "Comme je l'ai dit, les Wolves se serrent les coudes, si t'as besoin d'un coup de main, je ferai tout ce que je peux."
 
 # game/v8/scene38.rpy:123
 translate francais seb_in_room_bfd96c00:
@@ -112,13 +112,13 @@ translate francais seb_in_room_bfd96c00:
 translate francais seb_in_room_4cc24213:
 
     # u "Umm, hospital? Climb? I'm not following."
-    u "Humm, l'hôpital ? Escalade ? Je ne comprends pas vraiment."
+    u "Humm, l'hôpital ? Escalade ? Je te suis pas."
 
 # game/v8/scene38.rpy:133
 translate francais seb_in_room_a39c31ea:
 
     # se "Haha, I'm not surprised. Me and Marcus climb the hospital, from the ground to roof, -Sebastian points down then up- no equipment, just pure balls and stupidity haha. It's also a great workout bro. Really gets those muscles working and that blood pumping. You in?"
-    se "Haha, je ne suis pas surpris. Moi et Marcus, on escalade l'hôpital, du sol au toit, -Sebastian pointe vers le bas puis vers le haut- sans équipement, juste des couilles et de la stupidité pure haha. C'est aussi une bonne séance d'entraînement mec. Ça fait vraiment travailler les muscles et pomper le sang. Tu en es ?"
+    se "Haha, ça m'étonne pas. Moi et Marcus, on escalade l'hôpital, du sol au toit, -Sebastian pointe vers le bas puis vers le haut- sans équipement, juste des couilles et de la stupidité pure haha. C'est aussi une bonne séance d'entraînement mec. Ça fait vraiment travailler les muscles et pomper le sang. Tu en es ?"
 
 # game/v8/scene38.rpy:138
 translate francais seb_in_room_3000c55e:
@@ -174,10 +174,10 @@ translate francais seb_in_room_abd362e9:
 translate francais seb_in_room_3f3a6bc0:
 
     # se "Haha, I'm not surprised. Me and Marcus climb the hospital, from the ground to roof, no equipment, just pure balls and stupidity haha."
-    se "Haha, je ne suis pas surpris. Marcus et moi avons escaladé l'hôpital, du sol au toit, sans équipement, juste avec nos couilles et notre stupidité haha."
+    se "Haha, ça m'étonne pas. Marcus et moi avons escaladé l'hôpital, du sol au toit, sans équipement, juste avec nos couilles et notre stupidité haha."
 
 # game/v8/scene38.rpy:131
 translate francais seb_in_room_437fec49:
 
     # se "It's also a great workout bro. Really gets those muscles working and that blood pumping. You in?"
-    se "C'est aussi un excellent entraînement. Ça fait vraiment travailler les muscles et circuler le sang. Tu es dans le coup ?"
+    se "C'est aussi un excellent entraînement. Ça fait vraiment travailler les muscles et circuler le sang. Tu en es ?"

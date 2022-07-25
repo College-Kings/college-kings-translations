@@ -130,7 +130,7 @@ translate francais v11_nora_chloe_hallway_9f623797:
 translate francais v11_nora_chloe_hallway_72fa809b:
 
     # u "This trip was your thing, don't let her or anyone else mess that up."
-    u "Ce voyage était ton projet, ne laisse pas elle ou quelqu'un d'autre gâcher ça."
+    u "Ce voyage était ton projet, laisse pas elle ou quelqu'un d'autre gâcher ça."
 
 # game/v11/scene2.rpy:150
 translate francais v11_nora_chloe_hallway_cb4a0aa6:
@@ -160,7 +160,7 @@ translate francais v11_nora_chloe_hallway_a24774b0:
 translate francais v11_nora_chloe_hallway_a6cd06ac:
 
     # u "Umm, I don't think so."
-    u "Hum, je ne pense pas."
+    u "Hum, je pense pas."
 
 # game/v11/scene2.rpy:175
 translate francais v11_nora_chloe_hallway_5bc86ff9:
@@ -280,7 +280,7 @@ translate francais v11_nora_chloe_hallway_4b6e6225:
 translate francais v11_nora_chloe_hallway_d06e7fb9:
 
     # u "I mean, I like to have fun, but I wouldn't consider myself as wild as some of my friends are."
-    u "Je pense que j'aime m'amuser, mais je ne me considère pas comme aussi sauvage que certains de mes amis."
+    u "Je pense que j'aime m'amuser, mais je me considère pas comme aussi sauvage que certains de mes amis."
 
 # game/v11/scene2.rpy:264
 translate francais v11_nora_chloe_hallway_fc9f702c:
@@ -310,7 +310,7 @@ translate francais v11_nora_chloe_hallway_4dcc0870:
 translate francais v11_nora_chloe_hallway_ab42054f:
 
     # u "I don't know... sleeping? *Chuckles*"
-    u "Je ne sais pas... dormir ? *Rire*"
+    u "Je sais pas... dormir ? *Rire*"
 
 # game/v11/scene2.rpy:291
 translate francais v11_nora_chloe_hallway_0850e11c:
@@ -352,7 +352,7 @@ translate francais v11_nora_chloe_hallway_22a94b01:
 translate francais v11_nora_chloe_hallway_a3f4292d:
 
     # u "(Hmm, he must be off campus a lot. I'm pretty sure I've never seen him before. He seems pretty nice.)"
-    u "(Hmm, il doit être souvent en dehors du campus. Je suis presque sûr de ne l'avoir jamais vu avant. Il a l'air plutôt sympa.)"
+    u "(Hmm, il doit être souvent en dehors du campus. Je suis presque sûr de l'avoir jamais vu avant. Il a l'air plutôt sympa.)"
 
 # game/v11/scene2.rpy:341
 translate francais v11_nora_chloe_hallway_b918daa7:
@@ -436,7 +436,7 @@ translate francais v11_nora_chloe_hallway_f9f95e51:
 translate francais v11_nora_chloe_hallway_ac82a12e:
 
     # u "Yeah, no reason not to enjoy yourself..."
-    u "Ouais, aucune raison de ne pas t'amuser..."
+    u "Ouais, aucune raison de pas t'amuser..."
 
 # game/v11/scene2.rpy:434
 translate francais v11_nora_chloe_hallway_23edfa13:
@@ -562,7 +562,7 @@ translate francais v11_nora_chloe_hallway_f8758378:
 translate francais v11_nora_chloe_hallway_99a56b58:
 
     # u "Haha, well I won't be good company if I'm not there so I'm gonna go get packing."
-    u "Haha, je ne serai pas une bonne compagnie si je ne suis pas là, donc je vais aller faire mes bagages."
+    u "Haha, je serai pas une bonne compagnie si je suis pas là, donc je vais aller faire mes bagages."
 
 # game/v11/scene2.rpy:536
 translate francais v11_nora_chloe_hallway_155f5be0:
@@ -676,7 +676,7 @@ translate francais v11_nora_chloe_hallway_f9f95e51_1:
 translate francais v11_nora_chloe_hallway_ac82a12e_1:
 
     # u "Yeah, no reason not to enjoy yourself..."
-    u "Ouais, aucune raison de ne pas t'amuser..."
+    u "Ouais, aucune raison de pas t'amuser..."
 
 # game/v11/scene2.rpy:661
 translate francais v11_nora_chloe_hallway_23edfa13_1:
@@ -802,7 +802,7 @@ translate francais v11_nora_chloe_hallway_73888434:
 translate francais v11_nora_chloe_hallway_99a56b58_1:
 
     # u "Haha, well I won't be good company if I'm not there so I'm gonna go get packing."
-    u "Haha, je ne serai pas une bonne compagnie si je ne suis pas là, donc je vais aller faire mes bagages."
+    u "Haha, je serai pas une bonne compagnie si je suis pas là, donc je vais aller faire mes bagages."
 
 # game/v11/scene2.rpy:764
 translate francais v11_nora_chloe_hallway_451391af:

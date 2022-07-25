@@ -4,7 +4,7 @@
 translate francais v13s30_5120273a:
 
     # u "Wait a minute, are these not the canals you were talking about?"
-    u "Attends une minute, ce ne sont pas les canaux dont tu parlais ?"
+    u "Attends une minute, ce sont pas les canaux dont tu parlais ?"
 
 # game/v13/scene30.rpy:17
 translate francais v13s30_4ab55fbd:
@@ -88,7 +88,7 @@ translate francais v13s30_0efc084f:
 translate francais v13s30_9333ba98:
 
     # am "Well, she didn't give me a hug... *Chuckles*"
-    am "Eh ben, elle ne m'a pas fait de câlin à moi... *Rire*"
+    am "Eh ben, elle m'a pas fait de câlin à moi... *Rire*"
 
 # game/v13/scene30.rpy:95
 translate francais v13s30_e90bde5a:
@@ -106,7 +106,7 @@ translate francais v13s30_f63998eb:
 translate francais v13s30_a2cffee9:
 
     # am "You said you didn't wanna come with me back when we were in London, but you are here now..."
-    am "Tu as dit que tu ne voulais pas venir avec moi quand nous étions à Londres, mais tu es là maintenant..."
+    am "Tu as dit que tu voulais pas venir avec moi quand nous étions à Londres, mais tu es là maintenant..."
 
 # game/v13/scene30.rpy:108
 translate francais v13s30_3f52d6d4:
@@ -184,7 +184,7 @@ translate francais v13s30_74270f08:
 translate francais v13s30_52f3e131:
 
     # u "Better not have grabbed that HardOn stuff..."
-    u "Il aurait mieux valu ne pas prendre ce truc HardOn, non ?"
+    u "Il aurait mieux valu pas prendre ce truc HardOn, non ?"
 
 # game/v13/scene30.rpy:195
 translate francais v13s30_2db4ab88:
@@ -250,7 +250,7 @@ translate francais v13s30_8a3e3cf1:
 translate francais v13s30_3ba00623:
 
     # am "What? Weed solves everything... She won't be mad at you after a good session on the Cheex. *Chuckles*"
-    am "Quoi ? L'herbe résout tout... Elle ne t'en voudra pas après une bonne session de Cheex. *Rire*"
+    am "Quoi ? L'herbe résout tout... Elle t'en voudra pas après une bonne session de Cheex. *Rire*"
 
 # game/v13/scene30.rpy:266
 translate francais v13s30_e52454a6:
@@ -466,13 +466,13 @@ translate francais v13s30_7e3d9978:
 translate francais v13s30_b39558ea:
 
     # u "I'm not smoking at all, so..."
-    u "Je ne fume pas du tout, donc..."
+    u "Je fume pas du tout, donc..."
 
 # game/v13/scene30.rpy:518
 translate francais v13s30_e8c49f2f:
 
     # u "I don't smoke that much, just have a few times."
-    u "Je ne fume pas tant que ça, seulement de temps en temps."
+    u "Je fume pas tant que ça, seulement de temps en temps."
 
 # game/v13/scene30.rpy:523
 translate francais v13s30_d5287774:
@@ -490,7 +490,7 @@ translate francais v13s30_ffa46330:
 translate francais v13s30_7ea8a42a:
 
     # am "It's a little quick for a reaction, you sure you're not just faking it? *Chuckles*"
-    am "C'est un peu rapide pour une réaction, tu es sûre que tu ne fais pas semblant ? *Rire*"
+    am "C'est un peu rapide pour une réaction, tu es sûre que tu fais pas semblant ? *Rire*"
 
 # game/v13/scene30.rpy:569
 translate francais v13s30_43365b81:
@@ -586,7 +586,7 @@ translate francais v13s30_8a42cab8:
 translate francais v13s30_21412df9:
 
     # am "Don't kill the vibe, please? I wanted to do this with you."
-    am "Allez, ne gâche pas l'ambiance, s'il te plaît. Je voulais faire ça avec toi."
+    am "Allez, gâche pas l'ambiance, s'il te plaît. Je voulais faire ça avec toi."
 
 # game/v13/scene30.rpy:695
 translate francais v13s30_f4ebe128:
@@ -628,7 +628,7 @@ translate francais v13s30_14c59181:
 translate francais v13s30_96f746ec:
 
     # am "Oh, don't worry. You'll make it up to me. *Chuckles*"
-    am "Oh, ne t'inquiète pas. Tu te rattraperas un jour. *Rire*"
+    am "Oh, t'inquiète pas. Tu te rattraperas un jour. *Rire*"
 
 # game/v13/scene30.rpy:735
 translate francais v13s30_8ac5774f:

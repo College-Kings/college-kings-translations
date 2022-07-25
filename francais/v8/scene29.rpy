@@ -46,7 +46,7 @@ translate francais after_drugs_d8febf1e:
 translate francais after_drugs_9dbb0b54:
 
     # u "Here. I put a glass of water on the stool. Tell me if you need more."
-    u "Ici. Je mets un verre d'eau sur le tabouret. Dis-moi si tu en veux plus."
+    u "à. Je mets un verre d'eau sur le tabouret. Dis-moi si tu en veux encore."
 
 # game/v8/scene29.rpy:69
 translate francais after_drugs_261a7bc2:
@@ -58,19 +58,19 @@ translate francais after_drugs_261a7bc2:
 translate francais after_drugs_3fba0edd:
 
     # u "It's ok man. I'm just glad we weren't killed. Do you want me to take you to the hospital?"
-    u "C'est bon, mec. Je suis juste heureux qu'on n'ai pas été tués. Tu veux que je t'emmène à l'hôpital ?"
+    u "Ça va, mec. Je suis juste content qu'on ai pas été tués. Tu veux que je t'emmène à l'hôpital ?"
 
 # game/v8/scene29.rpy:76
 translate francais after_drugs_9bbf100c:
 
     # u "Don't be. I'm just glad you got out alive. Do you want me to take you to the hospital?"
-    u "Ne le sois pas. Je suis juste content que tu t'en sois sorti vivant. Tu veux que je t'emmène à l'hôpital ?"
+    u "T'inquiète. Je suis juste content que tu t'en sois sorti vivant. Tu veux que je t'emmène à l'hôpital ?"
 
 # game/v8/scene29.rpy:80
 translate francais after_drugs_ffc5a0d6:
 
     # jo "No, no, man. No hospitals. I'll be fine I just gotta..."
-    jo "Non, non, mec. Pas d'hôpitaux. Ça va aller, je dois juste..."
+    jo "Non, non, mec. Pas d'hôpitaux. Ça ira, je dois juste..."
 
 # game/v8/scene29.rpy:84
 translate francais after_drugs_85cb350e_1:
@@ -88,7 +88,7 @@ translate francais after_drugs_89ed93b4:
 translate francais after_drugs_c8e2017b:
 
     # u "Yeah, you do that. I'll be right here."
-    u "Ok, repose-toi. Je reste juste là."
+    u "D'accord, repose-toi. Je reste juste là."
 
 # game/v8/scene29.rpy:96
 translate francais after_drugs_59a25f31:
@@ -130,7 +130,7 @@ translate francais after_drugs_8686e81c:
 translate francais after_drugs_308b0e56:
 
     # am "What's wrong? You sound upset."
-    am "Qu'est-ce qui ne va pas ? T'as l'air contrarié."
+    am "Qu'est-ce qui va pas ? T'as l'air contrarié."
 
 # game/v8/scene29.rpy:140
 translate francais after_drugs_57b9082d:
@@ -172,13 +172,13 @@ translate francais after_drugs_4f1997c1:
 translate francais after_drugs_7f8f43ca:
 
     # am "WHERE IS HE!?"
-    am "OÙ EST-IL ! ?"
+    am "IL EST OÙ !?"
 
 # game/v8/scene29.rpy:182
 translate francais after_drugs_7b67a6b1:
 
     # u "He's sleeping on the couch now. He had it pretty bad."
-    u "Il dort sur le canapé maintenant. Il l'a eu assez mal."
+    u "Là, il dort sur le canapé. Il l'a eu assez mauvaise."
 
 # game/v8/scene29.rpy:186
 translate francais after_drugs_aafafc52:
@@ -190,13 +190,13 @@ translate francais after_drugs_aafafc52:
 translate francais after_drugs_07097634:
 
     # u "I dunno, he wanted money and thought it was a good way to get some."
-    u "Je ne sais pas, il voulait de l'argent et pensait que c'était un bon moyen d'en avoir."
+    u "Je sais pas, il voulait de l'argent et il croyait que c'était un bon moyen d'en avoir."
 
 # game/v8/scene29.rpy:194
 translate francais after_drugs_73476671:
 
     # am "And he thought he could do this alone? Idiot!"
-    am "Et il pensait qu'il pouvait faire ça tout seul ? L'imbécile !"
+    am "Et il a cru pouvoir faire ça tout seul ? L'imbécile !"
 
 # game/v8/scene29.rpy:199
 translate francais after_drugs_6ffce389:
@@ -232,7 +232,7 @@ translate francais after_drugs_8d15c665:
 translate francais after_drugs_01587464:
 
     # am "And the other guy?"
-    am "Et l'autre type ?"
+    am "Et l'autre ?"
 
 # game/v8/scene29.rpy:218
 translate francais after_drugs_41fc0be9:
@@ -256,7 +256,7 @@ translate francais after_drugs_e765745a:
 translate francais after_drugs_6ffce2e1:
 
     # u "I tried. But he wouldn't listen. Maybe I should have tried harder."
-    u "J'ai essayé. Mais il ne voulait pas m'écouter. Peut-être que j'aurais dû essayer davantage."
+    u "J'ai essayé. Mais il voulait pas m'écouter. Peut-être que j'aurais dû essayer davantage."
 
 # game/v8/scene29.rpy:234
 translate francais after_drugs_dc7ee2fd:
@@ -322,13 +322,13 @@ translate francais after_drugs_483ba5cd:
 translate francais after_drugs_bb28ecd5:
 
     # u "(What is she up to?)"
-    u "(Qu'est-ce qu'elle fabrique ?)"
+    u "(Qu'est-ce qu'elle fait ?)"
 
 # game/v8/scene29.rpy:282
 translate francais after_drugs_57f14a97:
 
     # u "Did you just..."
-    u "Est-ce que tu viens de..."
+    u "Tu viens de..."
 
 # game/v8/scene29.rpy:290
 translate francais after_drugs_8e8514a2:
@@ -340,13 +340,13 @@ translate francais after_drugs_8e8514a2:
 translate francais after_drugs_79038f36:
 
     # u "I'm actually glad you did that. I don't want him doing this shit or being involved with it all."
-    u "Je suis en fait content que tu aies fait ça. Je ne veux pas qu'il touche à cette merde ou qu'il soit impliqué dans tout ça."
+    u "En fait, je suis contente que t'aies fait ça. J'ai pas envie qu'il touche à cette merde ou qu'il soit impliqué dans tout ça."
 
 # game/v8/scene29.rpy:299
 translate francais after_drugs_c3429c46:
 
     # am "You didn't have a problem with it when we did it, did you?"
-    am "Ça ne t'a pas posé de problème quand on l'a fait, hein ?"
+    am "Ça t'a pas posé de problème quand on l'a fait, hein ?"
 
 # game/v8/scene29.rpy:303
 translate francais after_drugs_7926dfc5:
@@ -358,7 +358,7 @@ translate francais after_drugs_7926dfc5:
 translate francais after_drugs_771d8e15:
 
     # am "Wow, that was smooth. Not bad, [name]. Not bad."
-    am "Wow, c'était doux. Pas mal, [name]. Pas mal."
+    am "Wow, c'était mignon. Pas mal, [name]. Pas mal."
 
 # game/v8/scene29.rpy:311
 translate francais after_drugs_5d8a50ac:
@@ -376,13 +376,13 @@ translate francais after_drugs_5dd43531:
 translate francais after_drugs_86c3e86d:
 
     # am "I don't care that he does it, since we all have problems..."
-    am "Je me fiche qu'il le fasse, puisque nous avons tous des problèmes..."
+    am "Je me fiche qu'il le fasse, puisque on a tous des problèmes..."
 
 # game/v8/scene29.rpy:321
 translate francais after_drugs_032c09f6:
 
     # am "...but to think he was in any frame of mind to pull this off is just stupid."
-    am "...mais penser qu'il était dans un état d'esprit pour faire ça est juste stupide."
+    am "...mais voir qu'il était dans un état d'esprit pour faire ça est totalement con."
 
 # game/v8/scene29.rpy:322
 translate francais after_drugs_f54c2298:
@@ -394,7 +394,7 @@ translate francais after_drugs_f54c2298:
 translate francais after_drugs_7c2b1401:
 
     # u "Yeah, I agree with you there."
-    u "Oui, je suis d'accord avec toi."
+    u "Ouais, je suis d'accord avec toi."
 
 # game/v8/scene29.rpy:327
 translate francais after_drugs_a20cefa7:
@@ -406,13 +406,13 @@ translate francais after_drugs_a20cefa7:
 translate francais after_drugs_55603a19:
 
     # am "So, now what?"
-    am "Et maintenant, quoi ?"
+    am "Bon, on fait quoi maintenant ?"
 
 # game/v8/scene29.rpy:335
 translate francais after_drugs_5dd43531_1:
 
     # u "I'm staying here. You doing anything tonight?"
-    u "Je reste ici. Tu fais quelque chose ce soir ?"
+    u "Je reste là. Tu fais quelque chose ce soir ?"
 
 # game/v8/scene29.rpy:340
 translate francais after_drugs_fa8da13a_1:
@@ -424,19 +424,19 @@ translate francais after_drugs_fa8da13a_1:
 translate francais after_drugs_d8a42ec4:
 
     # u "While I fought the guy with the pipe, the other guy got into it with Josh."
-    u "Pendant que je me battais avec le gars avec le tuyau, l'autre gars s'est battu avec Josh."
+    u "Pendant que je me battais avec le gars avec le tuyau, l'autre s'est battu avec Josh."
 
 # game/v8/scene29.rpy:345
 translate francais after_drugs_028eac88:
 
     # u "I just... wasn't good enough to stop them I guess."
-    u "Je n'étais juste... pas assez bon pour les arrêter je crois."
+    u "J'étais... pas assez bon pour les arrêter je crois."
 
 # game/v8/scene29.rpy:349
 translate francais after_drugs_fe30d611:
 
     # am "Hey, it's ok. You tried.{w} You did more than anyone had a right to expect."
-    am "Hé, c'est bon. Tu as essayé.{w} T'as fait plus que ce que quiconque était en droit d'attendre."
+    am "Hé, t'inquiètes. T'as essayé.{w} T'as fait plus que ce que quiconque était en droit d'attendre."
 
 # game/v8/scene29.rpy:353
 translate francais after_drugs_7540d5b4:
@@ -448,31 +448,31 @@ translate francais after_drugs_7540d5b4:
 translate francais after_drugs_d5ac7de4:
 
     # am "*Sigh* So, now what?"
-    am "*Soupir* Donc, maintenant quoi ?"
+    am "*Soupir* Bon, on fait quoi maintenant ?"
 
 # game/v8/scene29.rpy:377
 translate francais after_drugs_5dd43531_2:
 
     # u "I'm staying here. You doing anything tonight?"
-    u "Je reste ici. Tu fais quelque chose ce soir ?"
+    u "Je reste là. Tu fais quelque chose ce soir ?"
 
 # game/v8/scene29.rpy:382
 translate francais after_drugs_c8c1a518:
 
     # u "Yeah, I don't know what the hell he was thinking."
-    u "Ouais, je ne sais pas à quoi il pensait."
+    u "Ouais, je sais pas à quoi il pensait."
 
 # game/v8/scene29.rpy:383
 translate francais after_drugs_d1106947:
 
     # u "I told him not to risk it but he wouldn't listen and went alone anyway."
-    u "Je lui ai dit de ne pas prendre de risque, mais il n'a pas écouté et y est allé seul quand même."
+    u "Je lui ai dit de pas prendre de risque, mais il m'a pas écouté et y est allé seul quand même."
 
 # game/v8/scene29.rpy:384
 translate francais after_drugs_c03fdec2:
 
     # u "I uh... probably should've gone with him and maybe then this wouldn't have happened."
-    u "J'aurais dû aller avec lui et peut-être que ça ne serait pas arrivé."
+    u "J'aurais dû aller avec lui et peut-être que ça serait pas arrivé."
 
 # game/v8/scene29.rpy:388
 translate francais after_drugs_11912203:
@@ -490,7 +490,7 @@ translate francais after_drugs_cc6d71a2:
 translate francais after_drugs_7c2b1401_1:
 
     # u "Yeah, I agree with you there."
-    u "Oui, je suis d'accord avec toi."
+    u "Ouais, je suis d'accord avec toi."
 
 # game/v8/scene29.rpy:394
 translate francais after_drugs_32c64028:
@@ -508,13 +508,13 @@ translate francais after_drugs_41451aa4:
 translate francais after_drugs_d5ac7de4_1:
 
     # am "*Sigh* So, now what?"
-    am "*Soupir* Donc, maintenant quoi ?"
+    am "*Soupir* Bon, on fait quoi maintenant ?"
 
 # game/v8/scene29.rpy:422
 translate francais after_drugs_5dd43531_3:
 
     # u "I'm staying here. You doing anything tonight?"
-    u "Je reste ici. Tu fais quelque chose ce soir ?"
+    u "Je reste là. Tu fais quelque chose ce soir ?"
 
 # game/v8/scene29.rpy:426
 translate francais after_drugs_f2af1a74:
@@ -526,31 +526,31 @@ translate francais after_drugs_f2af1a74:
 translate francais after_drugs_5281566f:
 
     # u "Oh! I'm glad. Wanna watch a movie to pass time?"
-    u "Oh ! Je suis content. Tu veux regarder un film pour passer le temps ?"
+    u "Oh ! Je suis content. Tu veux qu'on se regarde un film pour passer le temps ?"
 
 # game/v8/scene29.rpy:434
 translate francais after_drugs_401bc764:
 
     # am "Why not? Let me grab a beer and I'll be right with you. You want one?"
-    am "Pourquoi pas ? Laisse-moi prendre une bière et je te rejoins. Tu en veux une ?"
+    am "Pourquoi pas ? Laisse-moi prendre une bière et je te rejoins. T'en veux une ?"
 
 # game/v8/scene29.rpy:438
 translate francais after_drugs_c15a1ff1:
 
     # u "Yeah, a beer sounds fucking great, haha."
-    u "Ouais, je veux bien une bonne bière, haha."
+    u "Ouais, j'ai bien envie d'une bonne bière, haha."
 
 # game/v8/scene29.rpy:442
 translate francais after_drugs_afef33f5:
 
     # am "I got you. Can you grab a blanket and a few pillows from the hall closet in the meantime?"
-    am "Je vais chercher ça. Tu peux prendre une couverture et quelques oreillers dans le placard de l'entrée en attendant ?"
+    am "Je vais chercher ça. En attendant, tu peux prendre une couverture et quelques oreillers dans le placard de l'entrée ?"
 
 # game/v8/scene29.rpy:446
 translate francais after_drugs_5b74c6a1:
 
     # u "Yeah, of course!"
-    u "Ouais, bien sûr !"
+    u "Oui, bien sûr !"
 
 # game/v8/scene29.rpy:450
 translate francais after_drugs_8e20095c:
@@ -562,7 +562,7 @@ translate francais after_drugs_8e20095c:
 translate francais after_drugs_e10eb9ca:
 
     # am "Okay, fire it up!"
-    am "OK, lance le film !"
+    am "Vas-y, lance le film !"
 
 # game/v8/scene29.rpy:472
 translate francais after_drugs_22569365:
@@ -634,7 +634,7 @@ translate francais after_drugs_e3374aa7:
 translate francais after_drugs_8212ec20:
 
     # am "Hahaha! You should have seen your face!"
-    am "Hahaha ! Tu aurais dû voir ta tête !"
+    am "Hahaha ! T'aurais dû voir ta tête !"
 
 # game/v8/scene29.rpy:534
 translate francais after_drugs_62baff2b:
@@ -664,13 +664,13 @@ translate francais after_drugs_d54cbc9c:
 translate francais after_drugs_9257fbe0:
 
     # u "I got you. No worries. You ever need to talk, you know where to find me."
-    u "Ne t'inquiète pas. Si jamais tu as besoin de parler, tu sais où me trouver."
+    u "T'inquiète pas. Si jamais t'as besoin de parler, tu sais où me trouver."
 
 # game/v8/scene29.rpy:551
 translate francais after_drugs_13f648a2:
 
     # am "I do, and thanks for that. I may take you up on it one day."
-    am "Oui, et merci pour ça. Je te prendrai peut-être au mot un jour."
+    am "Oui, et merci pour ça. Je te prendrai peut-être au mot, un jour."
 
 # game/v8/scene29.rpy:552
 translate francais after_drugs_7d7b4116:
@@ -712,7 +712,7 @@ translate francais after_drugs_663e1424:
 translate francais after_drugs_0ab4d305:
 
     # u "*Whispers* Amber? What's wrong?"
-    u "*Chuchote* Amber ? Qu'est-ce qui ne va pas ?"
+    u "*Chuchote* Amber ? Qu'est-ce qu'il y a ?"
 
 # game/v8/scene29.rpy:604
 translate francais after_drugs_8f76f340:
@@ -730,7 +730,7 @@ translate francais after_drugs_fe7a04d3:
 translate francais after_drugs_22fb5612:
 
     # am "*Whispers* What do you think, genius?"
-    am "*Chuchote* Ce que tu penses, génie."
+    am "*Chuchote* Ce à quoi tu penses, génie."
 
 # game/v8/scene29.rpy:626
 translate francais after_drugs_d743a951:
@@ -742,13 +742,13 @@ translate francais after_drugs_d743a951:
 translate francais after_drugs_7b66b057:
 
     # u "*Whispers* Sorry Amber, I'm not feeling it tonight."
-    u "*Chuchote* Désolé Amber, je ne le sens pas ce soir."
+    u "*Chuchote* Désolé Amber, je le sens pas ce soir."
 
 # game/v8/scene29.rpy:640
 translate francais after_drugs_cf76e0c3:
 
     # am "*Whispers* Oh{w}, okay. Sorry I woke you up at midnight."
-    am "*Chuchote* Oh{w}, ok. Désolé de t'avoir réveillé à minuit."
+    am "*Chuchote* Ah{w}, D'accord. Désolé de t'avoir réveillé à minuit."
 
 # game/v8/scene29.rpy:644
 translate francais after_drugs_794889c2:
@@ -766,19 +766,19 @@ translate francais after_drugs_e4c17669:
 translate francais tues_morning_at_joshs_9f69d0e9:
 
     # u "(Oh, looks like Amber is up already.)"
-    u "(Oh, on dirait qu'Amber est déjà debout.)"
+    u "(Ah, on dirait qu'Amber est déjà debout.)"
 
 # game/v8/scene29.rpy:665
 translate francais tues_morning_at_joshs_59b0bd66:
 
     # u "(I should get dressed and see how Josh is doing.)"
-    u "(Je devrais m'habiller et voir comment Josh s'en sort.)"
+    u "(Je devrais m'habiller et voir comment va Josh.)"
 
 # game/v8/scene29.rpy:671
 translate francais tues_morning_at_joshs_bdd17b66:
 
     # jo "No, I'm telling you I got this."
-    jo "Non, je te dis que je m'en occupe."
+    jo "Non, je te dis que je m'occupais de ça."
 
 # game/v8/scene29.rpy:675
 translate francais tues_morning_at_joshs_2b6e3262:
@@ -802,7 +802,7 @@ translate francais tues_morning_at_joshs_ee251b66:
 translate francais tues_morning_at_joshs_bfb486cf:
 
     # u "Hey guys, and yeah..."
-    u "Hey vous deux, et... ouais..."
+    u "Hey vous deux, et... oui..."
 
 # game/v8/scene29.rpy:691
 translate francais tues_morning_at_joshs_6d39962b:
@@ -832,7 +832,7 @@ translate francais tues_morning_at_joshs_eab25f40:
 translate francais tues_morning_at_joshs_7a55bbc3:
 
     # u "Sit down. We got this."
-    u "Assied-toi, toi. On s'en occupe."
+    u "Assied-toi, toi. On s'occupe de tout."
 
 # game/v8/scene29.rpy:715
 translate francais tues_morning_at_joshs_af8065a6:
@@ -868,7 +868,7 @@ translate francais tues_morning_at_joshs_eb2a7834:
 translate francais tues_morning_at_joshs_0d6ec653:
 
     # jo "Thanks for all this guys. I mean it."
-    jo "Merci pour tout ça les amis. Je le pense vraiment."
+    jo "Merci pour tout les amis. Je le pense vraiment."
 
 # game/v8/scene29.rpy:733
 translate francais tues_morning_at_joshs_0c27e782:
@@ -892,7 +892,7 @@ translate francais tues_morning_at_joshs_c3aea97a:
 translate francais tues_morning_at_joshs_e6f3fd57:
 
     # am "Uh uh. Shut up. Just sit there and wait for your food."
-    am "Oh oh. Tais-toi. Assieds-toi là et attends ta bouffe."
+    am "Tututu. Tais-toi. Assieds-toi là et attends ta bouffe."
 
 # game/v8/scene29.rpy:750
 translate francais tues_morning_at_joshs_78c84ed2:
@@ -940,7 +940,7 @@ translate francais tues_morning_at_joshs_d43e3df8:
 translate francais tues_morning_at_joshs_bdd17b66_1:
 
     # jo "No, I'm telling you I got this."
-    jo "Non, je te dis que je m'en occupe."
+    jo "Non, je te dis que je m'occupais de ça."
 
 # game/v8/scene29.rpy:786
 translate francais tues_morning_at_joshs_2b6e3262_1:
@@ -976,7 +976,7 @@ translate francais tues_morning_at_joshs_65eb5bb3:
 translate francais tues_morning_at_joshs_5c10173b:
 
     # u "Need any help with that? You should be resting."
-    u "Tu as besoin d'aide pour ça ? Tu devrais te reposer."
+    u "T'as besoin d'aide pour ça ? Tu devrais te reposer."
 
 # game/v8/scene29.rpy:812
 translate francais tues_morning_at_joshs_8bfa5e92:
@@ -988,7 +988,7 @@ translate francais tues_morning_at_joshs_8bfa5e92:
 translate francais tues_morning_at_joshs_5c10173b_1:
 
     # u "Need any help with that? You should be resting."
-    u "Tu as besoin d'aide pour ça ? Tu devrais te reposer."
+    u "T'as besoin d'aide pour ça ? Tu devrais te reposer."
 
 # game/v8/scene29.rpy:817
 translate francais tues_morning_at_joshs_fbcc3439_1:
@@ -1006,7 +1006,7 @@ translate francais tues_morning_at_joshs_eab25f40_1:
 translate francais tues_morning_at_joshs_7a55bbc3_1:
 
     # u "Sit down. We got this."
-    u "Assied-toi, toi. On s'en occupe."
+    u "Assied-toi, toi. On s'occupe de tout."
 
 # game/v8/scene29.rpy:833
 translate francais tues_morning_at_joshs_af8065a6_1:
@@ -1042,7 +1042,7 @@ translate francais tues_morning_at_joshs_eb2a7834_1:
 translate francais tues_morning_at_joshs_0d6ec653_1:
 
     # jo "Thanks for all this guys. I mean it."
-    jo "Merci pour tout ça les amis. Je le pense vraiment."
+    jo "Merci pour tout les amis. Je le pense vraiment."
 
 # game/v8/scene29.rpy:851
 translate francais tues_morning_at_joshs_0c27e782_1:
@@ -1066,7 +1066,7 @@ translate francais tues_morning_at_joshs_c3aea97a_1:
 translate francais tues_morning_at_joshs_e6f3fd57_1:
 
     # am "Uh uh. Shut up. Just sit there and wait for your food."
-    am "Oh oh. Tais-toi. Assieds-toi là et attends ta bouffe."
+    am "Tututu. Tais-toi. Assieds-toi là et attends ta bouffe."
 
 translate francais strings:
 
@@ -1084,25 +1084,25 @@ translate francais strings:
 translate francais after_drugs_674f1496:
 
     # jo "Ju- Just lay me on the couch. Can't go all the way upstairs at the moment."
-    jo "Al-Allonge-moi sur le canapé. Je ne peux pas monter à l'étage pour le moment."
+    jo "Al-{w} Allonge-moi sur le canapé. Pour l'instant, je peux pas monter à l'étage."
 
 # game/v8/scene29.rpy:143
 translate francais after_drugs_1d9cf0cf:
 
     # am "What!? Ugh, that fucking idiot."
-    am "Quoi !?{w} Argh, ce putain d'idiot."
+    am "Quoi !?{w} Argh... putain d'idiot."
 
 # game/v8/scene29.rpy:148
 translate francais after_drugs_db33d2f9:
 
     # u "He's sleeping at the moment, Amber, and I..."
-    u "Amber, Il dort en ce moment et je..."
+    u "Amber, pour l'instant Il dort et je..."
 
 # game/v8/scene29.rpy:185
 translate francais after_drugs_46bd8354:
 
     # am "Fuck! What the hell was he thinking?"
-    am "Putain ! À quoi il pensait, bordel ?"
+    am "Putain !{w} À quoi il pensait, bordel ?"
 
 # game/v8/scene29.rpy:235
 translate francais after_drugs_74b5e3b6:
@@ -1114,22 +1114,22 @@ translate francais after_drugs_74b5e3b6:
 translate francais after_drugs_fb5eb463:
 
     # am "He needs to stop before he's caught... or gets killed."
-    am "Il doit arrêter avant d'être choppé... ou tué."
+    am "Il doit arrêter avant d'être choppé...{w} ou tué."
 
 # game/v8/scene29.rpy:352
 translate francais after_drugs_b8bc3481:
 
     # am "Hey, it's ok. You tried. You did more than anyone had a right to expect."
-    am "Hé, c'est bon. tu as essayé. T'as fait plus que ce que quiconque était en droit d'attendre."
+    am "Hé, t'inquiètes. T'as essayé.{w} T'as fait plus que ce que quiconque était en droit d'attendre."
 
 # game/v8/scene29.rpy:392
 translate francais after_drugs_b76b1416:
 
     # am "*Sigh* He needs to stop before he's caught... or worse, gets killed."
-    am "*Soupir* Il doit arrêter avant d'être choppé... ou pire, tué."
+    am "*Soupir* Il doit arrêter avant de se faire chopper...{w} ou pire, se faire tuer."
 
 # game/v8/scene29.rpy:643
 translate francais after_drugs_4ede3d75:
 
     # am "*Whispers* Oh, okay. Sorry I woke you up at midnight."
-    am "*Chuchote* Oh, ok. Désolée de t'avoir réveillé à minuit."
+    am "*Chuchote* Ah{w}, D'accord. Désolé de t'avoir réveillé à minuit."

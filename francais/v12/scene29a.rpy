@@ -28,7 +28,7 @@ translate francais v12_late_night_workout_e408b722:
 translate francais v12_late_night_workout_3ce714e4:
 
     # u "I'm not sure what I'm doing. Today's been pretty impactful, but I'm honestly not even tired."
-    u "Je ne suis pas sûr de ce que je vais faire. La journée a été assez mouvementée, mais honnêtement, je ne suis pas du tout fatigué."
+    u "Je suis pas sûr de ce que je vais faire. La journée a été assez mouvementée, mais honnêtement, je suis pas du tout fatigué."
 
 # game/v12/scene29a.rpy:40
 translate francais v12_late_night_workout_71326526:
@@ -40,7 +40,7 @@ translate francais v12_late_night_workout_71326526:
 translate francais v12_late_night_workout_106a3c0a:
 
     # u "Are the gyms even open? It's super late. Plus, I'm not in gym clothes."
-    u "Les salles de sport sont-elles ouvertes au moins ? Il est super tard. En plus, je ne suis pas en tenue de sport."
+    u "Les salles de sport sont-elles ouvertes au moins ? Il est super tard. En plus, je suis pas en tenue de sport."
 
 # game/v12/scene29a.rpy:50
 translate francais v12_late_night_workout_55bdf364:
@@ -100,7 +100,7 @@ translate francais v12_late_night_workout_8aafafbf:
 translate francais v12_late_night_workout_582abc31:
 
     # u "Lucky you, I'm not tired."
-    u "Tu as de la chance, je ne suis pas fatigué."
+    u "Tu as de la chance, je suis pas fatigué."
 
 # game/v12/scene29a.rpy:105
 translate francais v12_late_night_workout_d7f8a3e5:
@@ -130,7 +130,7 @@ translate francais v12_late_night_workout_589e384b:
 translate francais v12_late_night_workout_9af9c6aa:
 
     # u "What do you mean you wouldn't know?"
-    u "Comment ça, tu ne le sais pas ?"
+    u "Comment ça, tu le sais pas ?"
 
 # game/v12/scene29a.rpy:143
 translate francais v12_late_night_workout_e202f0e7:
@@ -142,7 +142,7 @@ translate francais v12_late_night_workout_e202f0e7:
 translate francais v12_late_night_workout_89ca8af5:
 
     # u "You don't work out at all?"
-    u "Tu ne fais pas de sport du tout ?"
+    u "Tu fais pas de sport du tout ?"
 
 # game/v12/scene29a.rpy:153
 translate francais v12_late_night_workout_124b3395:
@@ -262,7 +262,7 @@ translate francais v12_late_night_workout_daa8cacc:
 translate francais v12_late_night_workout_4bff80da:
 
     # u "Well I'm not gonna break my back to touch my toes. *Chuckles*"
-    u "Je ne vais pas me casser le dos pour toucher mes orteils. *Rire*"
+    u "Je vais pas me casser le dos pour toucher mes orteils. *Rire*"
 
 # game/v12/scene29a.rpy:278
 translate francais v12_late_night_workout_ab4dbcd1:
@@ -502,7 +502,7 @@ translate francais v12s29a_faillabel3_5adde770:
 translate francais v12s29a_faillabel3_4f5ec639:
 
     # u "You always wanna spot the person just in case they can't carry the weight. So watch carefully, I won't struggle with just the bar, but just for practice be sure to pay attention."
-    u "Il faut toujours assurer la personne au cas où elle ne pourrait pas supporter le poids. Alors regarde bien, je ne vais pas faire des efforts avec la barre, mais juste pour m'entraîner, fais bien attention."
+    u "Il faut toujours assurer la personne au cas où elle pourrait pas supporter le poids. Alors regarde bien, je vais pas faire des efforts avec la barre, mais juste pour m'entraîner, fais bien attention."
 
 # game/v12/scene29a.rpy:627
 translate francais v12s29a_faillabel3_5adde770_1:
@@ -610,7 +610,7 @@ translate francais v12s29a_faillabel3_5a29691a:
 translate francais v12s29a_faillabel3_0304d189:
 
     # u "The question should be, why isn't it just called a bag since people punch and kick it. *Chuckles*"
-    u "La question devrait être, pourquoi ne l'appelle-t-on pas simplement un sac puisque les gens le frappent et le bottent. *Rire*"
+    u "La question devrait être, pourquoi l'appelle-t-on pas simplement un sac puisque les gens le frappent et le bottent. *Rire*"
 
 # game/v12/scene29a.rpy:782
 translate francais v12s29a_faillabel3_715e7430:

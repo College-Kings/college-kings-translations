@@ -10,7 +10,7 @@ translate francais v10_emily_course_c30e3e49:
 translate francais v10_emily_course_329478eb:
 
     # u "(I don't even know if I have credit yet?)"
-    u "(Je ne sais même pas si j'ai encore du crédit ?)"
+    u "(Je sais même pas si j'ai encore du crédit ?)"
 
 # game/v10/Scene30a.rpy:29
 translate francais v10_emily_course_04d1da9e:
@@ -22,13 +22,13 @@ translate francais v10_emily_course_04d1da9e:
 translate francais v10_emily_course_a9a05e71:
 
     # u "(No one taught me this in school...)"
-    u "(Personne ne m'a appris ça à l'école...)"
+    u "(Personne m'a appris ça à l'école...)"
 
 # game/v10/Scene30a.rpy:39
 translate francais v10_emily_course_5dcd2bff:
 
     # u "(I didn't know she was into first responder work.)"
-    u "(Je ne savais pas qu'elle était formée aux premiers secours.)"
+    u "(Je savais pas qu'elle était formée aux premiers secours.)"
 
 # game/v10/Scene30a.rpy:45
 translate francais v10_emily_course_cf51a2a2:
@@ -52,7 +52,7 @@ translate francais v10_emily_course_ead00f64:
 translate francais v10_emily_course_b9efaafd:
 
     # u "Well I was just passing by and thought I heard your voice so I peeked in. I didn't know you were into this kind of stuff."
-    u "Je passais par là et j'ai cru entendre ta voix alors j'ai jeté un coup d'oeil. Je ne savais pas que tu faisais ça."
+    u "Je passais par là et j'ai cru entendre ta voix alors j'ai jeté un coup d'oeil. Je savais pas que tu faisais ça."
 
 # game/v10/Scene30a.rpy:65
 translate francais v10_emily_course_7ea273fe:
@@ -190,7 +190,7 @@ translate francais v10_emily_course_16ce9480:
 translate francais v10_emily_course_45a4f945:
 
     # u "I don't know. It was fun and all, but I think I'm not made to be a first responder."
-    u "Je ne sais pas. C'était amusant et tout, mais je pense que je ne suis pas fait pour être secouriste."
+    u "Je sais pas. C'était amusant et tout, mais je pense que je suis pas fait pour être secouriste."
 
 # game/v10/Scene30a.rpy:194
 translate francais v10_emily_course_5aa6a220:
@@ -292,7 +292,7 @@ translate francais v10_emily_course_d745563d:
 translate francais v10_emily_course_b9efaafd_1:
 
     # u "Well I was just passing by and thought I heard your voice so I peeked in. I didn't know you were into this kind of stuff."
-    u "Je passais par là et j'ai cru entendre ta voix alors j'ai jeté un coup d'oeil. Je ne savais pas que tu faisais ça."
+    u "Je passais par là et j'ai cru entendre ta voix alors j'ai jeté un coup d'oeil. Je savais pas que tu faisais ça."
 
 # game/v10/Scene30a.rpy:281
 translate francais v10_emily_course_bfe6a271:
@@ -442,7 +442,7 @@ translate francais v10_emily_course_16ce9480_1:
 translate francais v10_emily_course_45a4f945_1:
 
     # u "I don't know. It was fun and all, but I think I'm not made to be a first responder."
-    u "Je ne sais pas. C'était amusant et tout, mais je pense que je ne suis pas fait pour être secouriste."
+    u "Je sais pas. C'était amusant et tout, mais je pense que je suis pas fait pour être secouriste."
 
 # game/v10/Scene30a.rpy:420
 translate francais v10_emily_course_5aa6a220_1:

@@ -10,7 +10,7 @@ translate francais walk_home_w_gray_bab0ecd8:
 translate francais walk_home_w_gray_780d5551:
 
     # u "(Still not sure what I signed up for. He was so intense in those woods)"
-    u "(Je ne sais toujours pas pour quoi j'ai signé. Il était si intense dans ces bois)"
+    u "(Je sais toujours pas pour quoi j'ai signé. Il était si intense dans ces bois)"
 
 # game/v8/scene44.rpy:22
 translate francais walk_home_w_gray_731ca980:
@@ -22,7 +22,7 @@ translate francais walk_home_w_gray_731ca980:
 translate francais walk_home_w_gray_c836cfa4:
 
     # gr "Aw, man, I almost don't wanna tell you."
-    gr "Aw, mec, j'ai presque envie de ne pas te le dire."
+    gr "Aw, mec, j'ai presque envie de pas te le dire."
 
 # game/v8/scene44.rpy:33
 translate francais walk_home_w_gray_4dd5342c:
@@ -136,4 +136,4 @@ translate francais walk_home_w_gray_ccd47c32:
 translate francais walk_home_w_gray_a3a1a23b:
 
     # gr "No promises."
-    gr "Je ne promets rien."
+    gr "Je promets rien."

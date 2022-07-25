@@ -136,7 +136,7 @@ translate francais v9_at_warehouse_55f235b8:
 translate francais v9_at_warehouse_6b2f0979:
 
     # u "(Better not rile him up.)"
-    u "(Mieux vaut ne pas l'énerver.)"
+    u "(Mieux vaut pas l'énerver.)"
 
 # game/v9/scene42.rpy:137
 translate francais v9_at_warehouse_92632841:
@@ -178,7 +178,7 @@ translate francais v9_at_warehouse_006aac7d:
 translate francais v9_at_warehouse_27043e88:
 
     # u "(If I don't say something, this could get out of hand.)"
-    u "(Si je ne dis pas quelque chose, ça pourrait devenir incontrôlable.)"
+    u "(Si je dis pas quelque chose, ça pourrait devenir incontrôlable.)"
 
 # game/v9/scene42.rpy:210
 translate francais v9_at_warehouse_65705f0f:
@@ -286,7 +286,7 @@ translate francais v9_at_warehouse_a67e0c96:
 translate francais v9_at_warehouse_f6bbd778:
 
     # gr "*Whispers* Don't let me down, freshman."
-    gr "*Chuchote* Ne me laisse pas tomber, la recrue."
+    gr "*Chuchote* Me laisse pas tomber, le nouveau."
 
 # game/v9/scene42.rpy:320
 translate francais v9_at_warehouse_5680ff22:
@@ -298,7 +298,7 @@ translate francais v9_at_warehouse_5680ff22:
 translate francais v9_at_warehouse_648d380f:
 
     # gr "There's a lot riding on this fight. Not only our reputations, but power over the whole school. You can walk through the halls and KNOW you won't be fucked with."
-    gr "Il y a beaucoup d'enjeux dans ce combat. Pas seulement nos réputations, mais le pouvoir sur toute l'école. Tu pourras marcher dans les couloirs en sachant que personne ne te fera chier."
+    gr "Il y a beaucoup d'enjeux dans ce combat. Pas seulement nos réputations, mais le pouvoir sur toute l'école. Tu pourras marcher dans les couloirs en sachant que personne te fera chier."
 
 # game/v9/scene42.rpy:330
 translate francais v9_at_warehouse_35acd71f:
@@ -388,7 +388,7 @@ translate francais v9_at_warehouse_fb32b427:
 translate francais v9_at_warehouse_847f313b:
 
     # ca "Come out swinging and leave nothing to chance. Fuck their shit up!"
-    ca "Sortez en force et ne laissez rien au hasard. Bousillez leur vie !"
+    ca "Sortez en force et laissez rien au hasard. Bousillez leur vie !"
 
 # game/v9/scene42.rpy:411
 translate francais v9_at_warehouse_2750ce43:
@@ -424,7 +424,7 @@ translate francais v9_at_warehouse_8574e584:
 translate francais v9_at_warehouse_38baaa66:
 
     # ca "Apes don't fail and failures can't be Apes. Am I clear?"
-    ca "Les Apes n'échouent pas et les échecs ne peuvent pas être des Apes. Suis-je clair ?"
+    ca "Les Apes n'échouent pas et les échecs peuvent pas être des Apes. Suis-je clair ?"
 
 # game/v9/scene42.rpy:441
 translate francais v9_at_warehouse_9acb7c8a:

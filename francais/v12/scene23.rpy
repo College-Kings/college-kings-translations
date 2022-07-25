@@ -94,7 +94,7 @@ translate francais v12_ms_rose_sex_b092f94c:
 translate francais v12_ms_rose_sex_5e736337:
 
     # u "It does feel like I haven't seen you in awhile."
-    u "J'ai l'impression de ne pas t'avoir vu depuis un moment."
+    u "J'ai l'impression de pas t'avoir vu depuis un moment."
 
 # game/v12/scene23.rpy:116
 translate francais v12_ms_rose_sex_e56f0c7c:
@@ -334,7 +334,7 @@ translate francais v12_ms_rose_sex_sg_9a93e99a:
 translate francais v12_ms_rose_sex_sg_acd8b049:
 
     # u "I don't know where all that energy came from..."
-    u "Je ne sais pas d'où te vient toute cette énergie..."
+    u "Je sais pas d'où te vient toute cette énergie..."
 
 # game/v12/scene23.rpy:473
 translate francais v12_ms_rose_sex_sg_1ea75f67:

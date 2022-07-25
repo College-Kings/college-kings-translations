@@ -16,7 +16,7 @@ translate francais v8_ending_b674200b:
 translate francais v8_ending_daba3e17:
 
     # u "(I hope Sebastian doesn't think less of me for chickening out at the hospital. Wasn't very Wolflike of me.)"
-    u "(J'espère que Sébastien ne m'en veut pas de m'être dégonflé à l'hôpital. Ce n'était pas très Wolf de ma part.)"
+    u "(J'espère que Sébastien m'en veut pas de m'être dégonflé à l'hôpital. Ce n'était pas très Wolf de ma part.)"
 
 # game/v8/scene46.rpy:32
 translate francais v8_ending_8f6e2dff:

@@ -34,7 +34,7 @@ translate francais v12s27a_16d3816b:
 translate francais v12s27a_868405f8:
 
     # u "I just didn't want them escalating the situation."
-    u "Je ne voulais pas qu'ils aggravent la situation."
+    u "Je voulais pas qu'ils aggravent la situation."
 
 # game/v12/scene27a.rpy:42
 translate francais v12s27a_35732251:

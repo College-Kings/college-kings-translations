@@ -28,7 +28,7 @@ translate francais v8_cl_start_dfb4be02:
 translate francais v8_cl_start_6753a320:
 
     # cl "Hard already?"
-    cl "Déjà dur ?"
+    cl "Tu es déjà dur ?"
 
 # game/v8/scene2.rpy:37
 translate francais v8_cl_start_b0b2c45c:
@@ -40,7 +40,7 @@ translate francais v8_cl_start_b0b2c45c:
 translate francais v8_cl_start_ffe78772:
 
     # cl "Let's get rid of these. I want to taste your cum."
-    cl "Débarrassons-nous de ça. Je veux goûter ton sperme."
+    cl "Débarrassons-nous de ça. J'ai envie de goûter ton sperme."
 
 # game/v8/scene2.rpy:73
 translate francais v8_cl_start_c3f87c70:
@@ -52,7 +52,7 @@ translate francais v8_cl_start_c3f87c70:
 translate francais v8_cl_start_d7aff9c4:
 
     # u "God damn. You're so hot."
-    u "Bon sang. Tu es si chaude."
+    u "Oh merde. T'es vraiment sexy."
 
 # game/v8/scene2.rpy:100
 translate francais v8_cl_start_7bb909be:
@@ -64,7 +64,7 @@ translate francais v8_cl_start_7bb909be:
 translate francais v8_cl_start_4744c253:
 
     # u "You don't have to ask me twice."
-    u "Tu n'aura pas à me demander deux fois."
+    u "T'aura pas à me le demander deux fois."
 
 # game/v8/scene2.rpy:119
 translate francais v8_cl_start_13621eda:
@@ -76,7 +76,7 @@ translate francais v8_cl_start_13621eda:
 translate francais v8_cl_start_4d08d279:
 
     # u "Chloe, that feels so damn good."
-    u "Chloé, c'est tellement bon."
+    u "Chloé, c'est si bon."
 
 # game/v8/scene2.rpy:126
 translate francais v8_cl_start_455acc80:
@@ -88,13 +88,13 @@ translate francais v8_cl_start_455acc80:
 translate francais v8_cl_start_e1f35df2:
 
     # u "Ahhh... go faster now."
-    u "Ahhh... va plus vite maintenant."
+    u "Ahhh... va plus vite."
 
 # game/v8/scene2.rpy:137
 translate francais v8_cl_start_68e7fc7f:
 
     # u "Ahh... yeah! That's the spot."
-    u "Ahh... ouais ! C'est çaaaa."
+    u "Ohh... oui ! C'est çaaaa."
 
 # game/v8/scene2.rpy:138
 translate francais v8_cl_start_56c8424f:
@@ -106,7 +106,7 @@ translate francais v8_cl_start_56c8424f:
 translate francais v8_cl_start_82d13faf:
 
     # u "Fuck. Don't stop now."
-    u "Putain. Ne t'arrête pas maintenant."
+    u "Putain. T'arrête pas."
 
 # game/v8/scene2.rpy:150
 translate francais v8_cl_start_b73d0d14:
@@ -148,13 +148,13 @@ translate francais v8_cl_start_10de7d06:
 translate francais v8_cl_start_6ef1f39d:
 
     # cl "And you taste soo good! I could suck your dick all day!"
-    cl "Et tu as tellement bon goût ! Je pourrais te sucer la bite toute la journée !"
+    cl "Et tu as si bon goût ! Je pourrais te sucer la bite toute la journée !"
 
 # game/v8/scene2.rpy:173
 translate francais v8_cl_start_af3b5a48:
 
     # u "I think you sucked out my soul!"
-    u "Je crois que tu as aspiré mon âme !"
+    u "J'ai l'impression que t'as aspiré mon âme !"
 
 # game/v8/scene2.rpy:174
 translate francais v8_cl_start_108b353e:
@@ -172,7 +172,7 @@ translate francais v8_cl_start_39cedaa9:
 translate francais v8_cl_start_ee8aef07:
 
     # cl "Let me get in the bed first."
-    cl "Laisse-moi d'abord monter me coucher."
+    cl "D'abord, laisse-moi monter sur le lit."
 
 # game/v8/scene2.rpy:184
 translate francais v8_cl_start_242645cd:
@@ -220,7 +220,7 @@ translate francais v8_cl_start_c1c07a10:
 translate francais v8_cl_start_09d354db:
 
     # cl "*Whispers* Quick! Get dressed."
-    cl "*chuchote* Vite ! Habille-toi."
+    cl "*chuchote* Vite ! Rhabille-toi."
 
 # game/v8/scene2.rpy:210
 translate francais v8_cl_start_2587bfec:
@@ -256,7 +256,7 @@ translate francais v8_cl_start_a31a247e:
 translate francais v8_cl_start_34a03f20:
 
     # cl "What???"
-    cl "Quoi ???"
+    cl "Hein ???"
 
 # game/v8/scene2.rpy:236
 translate francais v8s2_nsfwSkipLabel1_1d9f9dfc:
@@ -268,7 +268,7 @@ translate francais v8s2_nsfwSkipLabel1_1d9f9dfc:
 translate francais v8s2_nsfwSkipLabel1_72119969:
 
     # cl "Let's talk outside, okay?"
-    cl "Parlons dehors, d'accord ?"
+    cl "Allons en parler dehors, d'accord ?"
 
 # game/v8/scene2.rpy:238
 translate francais v8s2_nsfwSkipLabel1_c6918bb1:
@@ -292,25 +292,25 @@ translate francais v8s2_nsfwSkipLabel1_ae64e706:
 translate francais v8s2_nsfwSkipLabel1_fdbce207:
 
     # u "Oh..."
-    u "Oh..."
+    u "Ah..."
 
 # game/v8/scene2.rpy:274
 translate francais v8s2_nsfwSkipLabel1_eac01c19:
 
     # cl "She {i}really{/i} needs me right now."
-    cl "Elle a {i}vraiment{/i} besoin de moi en ce moment."
+    cl "Elle a {i}vraiment{/i} besoin de moi là."
 
 # game/v8/scene2.rpy:278
 translate francais v8s2_nsfwSkipLabel1_45d8b8be:
 
     # u "Oh yeah... uhm, of course. Go help your friend."
-    u "Oh ouais... euh, bien sûr. Va aider ton amie."
+    u "Ah ouais... euh, bien sûr. Va aider ton amie."
 
 # game/v8/scene2.rpy:282
 translate francais v8s2_nsfwSkipLabel1_82fa3603:
 
     # cl "Sorry, [name]. See you another time."
-    cl "Désolé, [name]. On se verra une autre fois."
+    cl "Désolée, [name]. On se verra une autre fois."
 
 # TODO: Translation updated at 2021-11-19 17:55
 

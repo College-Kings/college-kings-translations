@@ -58,7 +58,7 @@ translate francais v11_chloe_hotel_room_amber_call_f19e86fc:
 translate francais v11_chloe_hotel_room_amber_call_e32495be:
 
     # am "This is why you should learn to keep it in your pants, pretty boy. Personally, I don't care. I'm not the type of girl that cares where the dog is when I'm not around, but she's pretty fired up."
-    am "C'est pourquoi tu devrais apprendre à la garder dans ton pantalon, mon mignon. Personnellement, je m'en fous. Je ne suis pas le genre de fille qui se soucie de savoir où est le chien quand je ne suis pas là, mais elle est plutôt énervée."
+    am "C'est pourquoi tu devrais apprendre à la garder dans ton pantalon, mon mignon. Personnellement, je m'en fous. Je suis pas le genre de fille qui se soucie de savoir où est le chien quand je suis pas là, mais elle est plutôt énervée."
 
 # game/v11/scene35a.rpy:67
 translate francais v11_chloe_hotel_room_amber_call_32eebb36:
@@ -100,7 +100,7 @@ translate francais v11_chloe_hotel_room_amber_call_e3bc6db7:
 translate francais v11_chloe_hotel_room_amber_call_56c15ba4:
 
     # u "When is she not?"
-    u "Quand ne l'est-elle pas ?"
+    u "Quand l'est-elle pas ?"
 
 # game/v11/scene35a.rpy:104
 translate francais v11_chloe_hotel_room_amber_call_dd38553a:
@@ -130,7 +130,7 @@ translate francais v11_chloe_hotel_room_amber_call_fe7f0564:
 translate francais v11_chloe_hotel_room_amber_call_b1d1b8a0:
 
     # am "*Sighs* Fine, if I can't squeeze it out of you, I'll squeeze it out of her."
-    am "*Soupirs* Bien, si je ne peux pas te le faire cracher, je verrai avec elle."
+    am "*Soupirs* Bien, si je peux pas te le faire cracher, je verrai avec elle."
 
 # game/v11/scene35a.rpy:129
 translate francais v11_chloe_hotel_room_amber_call_704f73e4:
@@ -298,7 +298,7 @@ translate francais v11_chloe_hotel_room_amber_call_dbc521a0:
 translate francais v11_chloe_hotel_room_amber_call_6e8f4e8a:
 
     # u "(*Sighs* Guess I'll just go to bed then, I know the guys aren't doing anything.)"
-    u "(*Soupirs* Je pense que je vais simplement aller me coucher alors, je sais que les mecs ne font rien de spécial.)"
+    u "(*Soupirs* Je pense que je vais simplement aller me coucher alors, je sais que les mecs font rien de spécial.)"
 
 # game/v11/scene35a.rpy:343
 translate francais v11_chloe_hotel_room_amber_call_16e5043a:

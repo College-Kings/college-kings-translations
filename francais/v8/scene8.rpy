@@ -4,13 +4,13 @@
 translate francais prot_w_au_04a50afc:
 
     # aut "Hey, hey! You showed."
-    aut "Salut, salut ! Te voilà."
+    aut "Salut, salut ! Tu es venu."
 
 # game/v8/scene8.rpy:28
 translate francais prot_w_au_66eb4c60:
 
     # u "Said I'd be here."
-    u "J'ai dit que je viendrais."
+    u "J'avais dit que je viendrais."
 
 # game/v8/scene8.rpy:33
 translate francais prot_w_au_42b185b2:
@@ -22,7 +22,7 @@ translate francais prot_w_au_42b185b2:
 translate francais prot_w_au_290a938a:
 
     # u "You got my sign?"
-    u "Tu as ma pancarte ?"
+    u "T'as ma pancarte ?"
 
 # game/v8/scene8.rpy:48
 translate francais prot_w_au_424b1dcb:
@@ -34,7 +34,7 @@ translate francais prot_w_au_424b1dcb:
 translate francais prot_w_au_3d7a91a0:
 
     # u "Yeah, looks better than I remembered. Haha."
-    u "Ouais, elle a l'air meilleure que dans mes souvenirs. Haha."
+    u "Ah oui, elle est bien plus belle que dans mes souvenirs. Haha."
 
 # game/v8/scene8.rpy:57
 translate francais prot_w_au_24a00265:
@@ -52,7 +52,7 @@ translate francais prot_w_au_872040b9:
 translate francais prot_w_au_dbebb2fe:
 
     # aut "Ready?"
-    aut "Prêt ?"
+    aut "Tu es Prêt ?"
 
 # game/v8/scene8.rpy:85
 translate francais prot_w_au_wing_2be5d203:
@@ -64,7 +64,7 @@ translate francais prot_w_au_wing_2be5d203:
 translate francais prot_w_au_wing_7347b600:
 
     # u "We won't stop, until it's fair. We won't stop until it's fair."
-    u "Nous n'arrêterons pas tant que ça ne sera pas équitable. Nous n'arrêterons pas tant que ça ne sera pas équitable."
+    u "Nous n'arrêterons pas tant que ça sera pas équitable. Nous n'arrêterons pas tant que ça sera pas équitable."
 
 # game/v8/scene8.rpy:100
 translate francais prot_w_au_wing_8d194a53:
@@ -76,7 +76,7 @@ translate francais prot_w_au_wing_8d194a53:
 translate francais prot_w_au_wing_a71039af:
 
     # u "Yeah, of course. That's how you get the word out."
-    u "Ouais, bien sûr. C'est comme ça qu'on fait passer le mot."
+    u "Oui, bien sûr. C'est comme ça qu'on fait passer le mot."
 
 # game/v8/scene8.rpy:110
 translate francais prot_w_au_wing_9eb32fda:
@@ -100,19 +100,19 @@ translate francais prot_w_au_wing_6ee12016:
 translate francais prot_w_au_wing_2950cb76:
 
     # u "Like I said, we won't stop until it's fair."
-    u "Comme je l'ai dit, \"nous n'arrêterons pas tant que ça ne sera pas équitable.\""
+    u "Comme je l'ai dit, \"nous n'arrêterons pas tant que ça sera pas équitable.\""
 
 # game/v8/scene8.rpy:131
 translate francais prot_w_au_no_wing_372f9958:
 
     # u "Uhh... so it's been a while for me. How does this work again?"
-    u "Euh... Ben ça fait un moment pour moi. Comment ça marche déjà ?"
+    u "Euh... Ben ça fait un moment pour moi. Ça marche comment déjà ?"
 
 # game/v8/scene8.rpy:136
 translate francais prot_w_au_no_wing_4a0a5279:
 
     # aut "Haha that's okay. Is this your first time?"
-    aut "Haha ça va. C'est ta première fois ?"
+    aut "Haha ne t'inquiète pas. C'est ta première fois ?"
 
 # game/v8/scene8.rpy:141
 translate francais prot_w_au_no_wing_f8964793:
@@ -124,13 +124,13 @@ translate francais prot_w_au_no_wing_f8964793:
 translate francais prot_w_au_no_wing_a9f20bb4:
 
     # aut "It's okay. We're just here to make our voices heard, that's all. "
-    aut "C'est bon. Nous sommes juste là pour faire entendre nos voix, c'est tout."
+    aut "C'est bon. On est juste là pour faire entendre nos voix, c'est tout."
 
 # game/v8/scene8.rpy:157
 translate francais prot_w_au_no_wing_68e6d6b9:
 
     # aut "And really you just say whatever you like, as long as it has a purpose. Haha. Watch. We won't stop until we're heard!"
-    aut "Et vraiment, tu dis simplement ce que tu veux, tant que cela a un but. Haha. Regarde. Nous ne nous arrêterons pas tant que nous ne serons pas entendus !"
+    aut "Et vraiment, tu dis simplement ce que tu veux, tant que ça a un but. Haha. Regarde. Nous ne nous arrêterons pas tant que nous ne serons pas entendus !"
 
 # game/v8/scene8.rpy:162
 translate francais prot_w_au_no_wing_2ea7efe6:
@@ -166,7 +166,7 @@ translate francais prot_w_au_1_ed6845fc:
 translate francais prot_w_au_leg_8994a80e:
 
     # u "Yeah, pretty insane if you ask me. Abortion, such a horrible thing."
-    u "Ouais, c'est assez fou si tu me demandes. L'avortement, une chose si horrible."
+    u "Ouais, c'est assez fou si tu me demandes. L'avortement, un truc vraiment horrible."
 
 # game/v8/scene8.rpy:205
 translate francais prot_w_au_leg_2fcffc84:
@@ -214,7 +214,7 @@ translate francais prot_w_au_leg_0709ae20:
 translate francais prot_w_au_leg_7d6505df:
 
     # u "Yeah. It's all about equality. You're right. Woman weren't made to serve men. We're all our own people."
-    u "Oui. C'est une question d'égalité. Tu as raison. Les femmes ne sont pas faites pour servir les hommes. Nous sommes tous des personnes à part entière."
+    u "Oui. C'est une question d'égalité. Tu as raison. Les femmes sont pas faites pour servir les hommes. Nous sommes tous des personnes à part entière."
 
 # game/v8/scene8.rpy:249
 translate francais prot_w_au_leg_fa975d3c:
@@ -238,7 +238,7 @@ translate francais prot_w_au_leg_d3fae4a6:
 translate francais prot_w_au_no_leg_e9bebfc4:
 
     # u "Honestly, I have no idea."
-    u "Honnêtement, je n'en ai aucune idée."
+    u "Honnêtement, j'en ai aucune idée."
 
 # game/v8/scene8.rpy:269
 translate francais prot_w_au_no_leg_f061d589:
@@ -250,7 +250,7 @@ translate francais prot_w_au_no_leg_f061d589:
 translate francais prot_w_au_no_leg_306c661f:
 
     # u "Yeah I guess I just had a lot going on lately. I wasn't able to keep up with the news as much."
-    u "Non, je crois que j'ai eu beaucoup trop de choses à faire ces derniers temps. Je n'étais pas capable de suivre les actualités comme je voulais."
+    u "Non, je crois que j'ai eu beaucoup trop de choses à faire ces derniers temps. Je pouvais pas suivre les actualités comme j'aurai voulu."
 
 # game/v8/scene8.rpy:279
 translate francais prot_w_au_no_leg_d738dcf6:
@@ -274,7 +274,7 @@ translate francais prot_w_au_no_leg_800620f0:
 translate francais prot_w_au_no_leg_ce093155:
 
     # u "You're right, they shouldn't. Can't even believe they're doing that."
-    u "Tu as raison, ils ne devraient pas. Je n'arrive pas à croire qu'ils fassent ça."
+    u "T'as raison, ils devraient pas. J'arrive pas à croire qu'ils fassent ça."
 
 # game/v8/scene8.rpy:299
 translate francais prot_w_au_no_leg_ccafd698:
@@ -292,7 +292,7 @@ translate francais prot_w_au_no_leg_01ab6291:
 translate francais prot_w_au_no_leg_d59cec74:
 
     # u "It's a really sad, unfortunate world we live in... But you know, one step at a time!"
-    u "C'est vraiment un monde triste et malheureux dans lequel nous vivons... Mais tu sais, un pas après l'autre !"
+    u "C'est vraiment un monde triste et malheureux dans lequel on vit... Mais tu sais, un pas après l'autre !"
 
 # game/v8/scene8.rpy:311
 translate francais prot_w_au_no_leg_6aa06b77:
@@ -322,7 +322,7 @@ translate francais prot_w_au_2_36c15b5e:
 translate francais prot_w_au_2_a497df2e:
 
     # u "Hey, I'll be right back. I've just spotted a friend."
-    u "Hé, je reviens tout de suite. Je viens de voir une amie."
+    u "Hé, j'arrive tout de suite. J'ai vu une amie."
 
 # game/v8/scene8.rpy:352
 translate francais prot_w_au_2_186e65d3:
@@ -370,7 +370,7 @@ translate francais prot_w_au_2_4dab1d54:
 translate francais prot_w_au_2_353142d4:
 
     # u "Would it have changed anything?"
-    u "Cela aurait-il changé quelque chose ?"
+    u "Ça aurait changé quelque chose ?"
 
 # game/v8/scene8.rpy:400
 translate francais prot_w_au_2_af417fec:
@@ -382,31 +382,31 @@ translate francais prot_w_au_2_af417fec:
 translate francais prot_w_au_2_cd63c16a:
 
     # u "I guess I will take that as a compliment then."
-    u "Je pense que je devrais prendre ça comme un compliment."
+    u "Je vais prendre ça comme un compliment."
 
 # game/v8/scene8.rpy:410
 translate francais prot_w_au_2_f2e1daaf:
 
     # ev "Definitely a compliment. "
-    ev "Certainement, un compliment."
+    ev "Tout à fait, un compliment."
 
 # game/v8/scene8.rpy:415
 translate francais prot_w_au_2_bd22d671:
 
     # u "So what's up? How have you been? "
-    u "Alors quoi de neuf ? Comment vas-tu ?"
+    u "Alors quoi de neuf ? Ça va ?"
 
 # game/v8/scene8.rpy:420
 translate francais prot_w_au_2_679219c9:
 
     # ev "I'm great actually since I last saw you. I started looking into medical programs, you know, so I can really start to work towards my career."
-    ev "Je vais bien en fait depuis la dernière fois que je t'ai vu. J'ai commencé à regarder les programmes médicaux. Tu sais, pour que je puisse vraiment commencer à travailler et à lancer ma carrière."
+    ev "En fait depuis la dernière fois que je t'ai vu, tout va bien. J'ai commencé à regarder les programmes médicaux. Tu sais, pour que je puisse vraiment commencer à travailler et à lancer ma carrière."
 
 # game/v8/scene8.rpy:425
 translate francais prot_w_au_2_04b326aa:
 
     # u "That's awesome. Glad to see you're pursuing your dreams... That's such a turn on."
-    u "C'est génial. Content de voir que tu poursuis tes rêves... C'est tellement excitant."
+    u "C'est génial. Content de voir que tu poursuis tes rêves... C'est vraiment excitant."
 
 # game/v8/scene8.rpy:430
 translate francais prot_w_au_2_5c51aa6b:
@@ -424,13 +424,13 @@ translate francais prot_w_au_2_92a5e557:
 translate francais prot_w_au_2_cc069220:
 
     # ev "That's great... Well, I think we should definitely hang out again soon. Don't you think?"
-    ev "C'est super... Eh bien, nous devrions vraiment nous revoir bientôt. Tu crois pas ?"
+    ev "C'est super... Bon, je crois qu'il va falloir qu'on se revoie très vite. Tu crois pas ?"
 
 # game/v8/scene8.rpy:445
 translate francais prot_w_au_2_3f338bc5:
 
     # u "Yeah, yeah. I'd love that."
-    u "Ouais, ouais. J'adorerais ça."
+    u "Ouais, ouais. J'aimerais beaucoup."
 
 # game/v8/scene8.rpy:450
 translate francais prot_w_au_2_9fad2d2c:
@@ -442,7 +442,7 @@ translate francais prot_w_au_2_9fad2d2c:
 translate francais prot_w_au_2_d94e9210:
 
     # u "Well, I'm gonna get back to my friend."
-    u "Eh bien, je vais retourner voir mon amie."
+    u "Bon, je vais retourner avec mon amie."
 
 # game/v8/scene8.rpy:460
 translate francais prot_w_au_2_b4691fa0:
@@ -454,7 +454,7 @@ translate francais prot_w_au_2_b4691fa0:
 translate francais prot_w_au_2_a36a94c9:
 
     # u "Autumn invited me."
-    u "Autumn m'a invité."
+    u "C'est Autumn qui m'a invité."
 
 # game/v8/scene8.rpy:470
 translate francais prot_w_au_2_7123a591:
@@ -496,13 +496,13 @@ translate francais prot_w_au_2_42baf11e:
 translate francais prot_w_au_end_a76054d3:
 
     # aut "It's just about wrapping up here, in case you wanted to head out. You don't have to stay for clean up or anything."
-    aut "C'est sur le point de se terminer, là, au cas où tu voudrais partir. Tu n'as pas à rester pour le nettoyage ou autre."
+    aut "Là, c'est sur le point de se terminer, au cas où tu voudrais partir. Tu n'as pas à rester pour le nettoyage ou autre."
 
 # game/v8/scene8.rpy:519
 translate francais prot_w_au_end_0b43548a:
 
     # u "Yeah, well, I'm feeling pretty tired. Think I'll head back."
-    u "Ouais, je me sens assez fatigué. Je crois que je vais rentrer."
+    u "Ouais, eh bien, je suis plutôt fatigué. Je crois que je vais rentrer."
 
 # game/v8/scene8.rpy:524
 translate francais prot_w_au_end_32c94a29:

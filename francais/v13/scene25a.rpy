@@ -70,7 +70,7 @@ translate francais v13s25a_1a98040c:
 translate francais v13s25a_64ea05cc:
 
     # u "Okay, I'm not just gonna sit here and be insulted."
-    u "Ok, je ne vais pas rester là à me faire insulter."
+    u "Ok, je vais pas rester là à me faire insulter."
 
 # game/v13/scene25a.rpy:79
 translate francais v13s25a_62cdbc20:
@@ -94,7 +94,7 @@ translate francais v13s25a_58a695ce:
 translate francais v13s25a_fcbcadd8:
 
     # u "(What a Hothead! I've dealt with worse, but did she seriously have a dildo in there? Well I won't find out now... *Chuckles*)"
-    u "(Quelle tête brûlée ! J'ai eu affaire à pire, mais avait-elle vraiment un gode là-dedans ? Je ne le découvrirai pas maintenant... *Rire*)"
+    u "(Quelle tête brûlée ! J'ai eu affaire à pire, mais avait-elle vraiment un gode là-dedans ? Je le découvrirai pas maintenant... *Rire*)"
 
 # game/v13/scene25a.rpy:131
 translate francais v13s25a_71b90a1f:
@@ -172,7 +172,7 @@ translate francais v13s25a_6ec72530:
 translate francais v13s25a_6787268c:
 
     # u "Too bad I don't live here..."
-    u "Dommage que je ne vive pas ici..."
+    u "Dommage que je vive pas ici..."
 
 # game/v13/scene25a.rpy:206
 translate francais v13s25a_68f88154:

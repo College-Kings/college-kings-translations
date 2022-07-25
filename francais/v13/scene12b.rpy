@@ -22,7 +22,7 @@ translate francais v13s12b_7f86f0b5:
 translate francais v13s12b_2927a9a1:
 
     # u "*Chuckles* Don't worry, if you ever get to the point where you wanna leave, just say the word and we'll go."
-    u "*Rire* Ne t'inquiète pas, si tu arrives au point où tu veux partir, tu n'as qu'un mot à dire et on s'en va."
+    u "*Rire* T'inquiète pas, si tu arrives au point où tu veux partir, tu n'as qu'un mot à dire et on s'en va."
 
 # game/v13/scene12b.rpy:37
 translate francais v13s12b_c701216f:
@@ -34,7 +34,7 @@ translate francais v13s12b_c701216f:
 translate francais v13s12b_098f86b3:
 
     # u "Haha, I don't even know the singer's name... How could I be mad?"
-    u "Haha, je ne connais même pas le nom de la chanteuse... Comment pourrais-je être en colère ?"
+    u "Haha, je connais même pas le nom de la chanteuse... Comment pourrais-je être en colère ?"
 
 # game/v13/scene12b.rpy:47
 translate francais v13s12b_7f06779e:
@@ -70,7 +70,7 @@ translate francais v13s12b_3fb44dd5:
 translate francais v13s12b_210aeb20:
 
     # u "Yeah... Don't worry about it. We didn't come for them, we came for Polly and a good time."
-    u "Ouais... Ne t'inquiète pas pour ça. On n'est pas venu pour eux, on est venu pour Polly et pour passer un bon moment."
+    u "Ouais... T'inquiète pas pour ça. On n'est pas venu pour eux, on est venu pour Polly et pour passer un bon moment."
 
 # game/v13/scene12b.rpy:102
 translate francais v13s12b_4905de2b:
@@ -136,7 +136,7 @@ translate francais v13s12b_573166b2:
 translate francais v13s12b_f391cfc9:
 
     # u "(I don't want any attention.)"
-    u "(Je ne veux pas attirer l'attention.)"
+    u "(Je veux pas attirer l'attention.)"
 
 # game/v13/scene12b.rpy:163
 translate francais v13s12b_a9da8792:
@@ -190,7 +190,7 @@ translate francais v13s12b_b308acce:
 translate francais v13s12b_d86d92b1:
 
     # u "YOU'RE SORRY? BRO, IF YOU DON'T WATCH YOUR MOUTH MY KNUCKLES WILL."
-    u "TU ES DÉSOLÉE ? MON FRÈRE, SI TU NE SURVEILLES PAS TA BOUCHE, MES POINGS LE FERONT."
+    u "TU ES DÉSOLÉE ? MON FRÈRE, SI TU SURVEILLES PAS TA BOUCHE, MES POINGS LE FERONT."
 
 # game/v13/scene12b.rpy:208
 translate francais v13s12b_54e28776:
@@ -214,7 +214,7 @@ translate francais v13s12b_2be93e33:
 translate francais v13s12b_631be721:
 
     # u "I'm not gonna let someone talk to you like that, crazy. You don't deserve that."
-    u "Je ne vais pas laisser quelqu'un te parler comme ça. Tu ne dois pas subir ça."
+    u "Je vais pas laisser quelqu'un te parler comme ça. Tu dois pas subir ça."
 
 # game/v13/scene12b.rpy:228
 translate francais v13s12b_4d62f116:
@@ -244,7 +244,7 @@ translate francais v13s12b_4fc1a2a0:
 translate francais v13s12b_adb2737e:
 
     # u "(Fuck, I don't know how much longer I can hold her.)"
-    u "(Putain, je ne sais pas combien de temps je vais pouvoir la retenir.)"
+    u "(Putain, je sais pas combien de temps je vais pouvoir la retenir.)"
 
 # game/v13/scene12b.rpy:282
 translate francais v13s12b_cfcb6235:
@@ -442,7 +442,7 @@ translate francais v13s12b_failed_timer_ec28f083:
 translate francais v13s12b_failed_timer_aeca9ba6:
 
     # u "Haha, c'mon... I'm not letting you ruin your one night out, and I'll be with you every second of the way."
-    u "Haha, allez... Je ne vais pas te laisser gâcher ta seule soirée, et je serai avec toi tout le temps."
+    u "Haha, allez... Je vais pas te laisser gâcher ta seule soirée, et je serai avec toi tout le temps."
 
 translate francais strings:
 

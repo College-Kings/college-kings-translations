@@ -22,7 +22,7 @@ translate empty v10_avoid_fight_30075b22:
 translate empty v10_avoid_fight_10f5eb28:
 
     # u "*Sighs* Look I don't know okay."
-    u "*Soupirs* Écoute, je ne sais pas, ok."
+    u "*Soupirs* Écoute, je sais pas, ok."
 
 # game/v10/scene8a.rpy:38
 translate empty v10_avoid_fight_de887acf:
@@ -262,7 +262,7 @@ translate empty v10_avoid_fight_5f606cca:
 translate empty v10_avoid_fight_b10e297f:
 
     # gr "Now get the fuck out of here, I don't wanna see your face!"
-    gr "Maintenant, fous le camp d'ici, je ne veux plus voir ta gueule."
+    gr "Maintenant, fous le camp d'ici, je veux plus voir ta gueule."
 
 # game/v10/scene8a.rpy:255
 translate empty v10_avoid_fight_3c582c4b:
@@ -300,7 +300,7 @@ translate francais v10_avoid_fight_30075b22:
 translate francais v10_avoid_fight_10f5eb28:
 
     # u "*Sighs* Look I don't know okay."
-    u "*Soupirs* Écoute, je ne sais pas, ok."
+    u "*Soupirs* Écoute, je sais pas, ok."
 
 # game/v10/scene8a.rpy:39
 translate francais v10_avoid_fight_de887acf:
@@ -540,7 +540,7 @@ translate francais v10_avoid_fight_5f606cca:
 translate francais v10_avoid_fight_b10e297f:
 
     # gr "Now get the fuck out of here, I don't wanna see your face!"
-    gr "Maintenant, fous le camp d'ici, je ne veux plus voir ta gueule."
+    gr "Maintenant, fous le camp d'ici, je veux plus voir ta gueule."
 
 # game/v10/scene8a.rpy:256
 translate francais v10_avoid_fight_3c582c4b:

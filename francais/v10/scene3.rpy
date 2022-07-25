@@ -34,7 +34,7 @@ translate empty v10_imre_vs_caleb_d6ff8162:
 translate empty v10_imre_vs_caleb_a6dae17e:
 
     # u "Oh no! What's wrong?"
-    u "Oh non ! Qu'est-ce qui ne va pas ?"
+    u "Oh non ! Qu'est-ce qui va pas ?"
 
 # game/v10/scene3.rpy:39
 translate empty v10_imre_vs_caleb_ce31a117:
@@ -90,7 +90,7 @@ translate francais v10_imre_vs_caleb_d6ff8162:
 translate francais v10_imre_vs_caleb_a6dae17e:
 
     # u "Oh no! What's wrong?"
-    u "Oh non ! Qu'est-ce qui ne va pas ?"
+    u "Oh non ! Qu'est-ce qui va pas ?"
 
 # game/v10/scene3.rpy:39
 translate francais v10_imre_vs_caleb_ce31a117:

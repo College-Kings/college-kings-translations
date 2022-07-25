@@ -16,10 +16,10 @@ translate francais wolves_gym_intro_8ebee37a:
 translate francais wolves_gym_intro_90536004:
 
     # u "I had it... Doesn't mean I used it."
-    u "Je l'avais... Ça ne veut pas dire que je l'ai utilisé."
+    u "Je l'avais... Ça veut pas dire que je I'utilisais."
 
 # game/v8/scene10.rpy:29
 translate francais wolves_gym_intro_2148b8c8:
 
     # se "Well, we'll get you in fighting shape, don't worry."
-    se "Eh bien, nous allons te mettre en forme, ne t'inquiètes pas."
+    se "Eh ben, ne t'inquiètes pas, on va te mettre en mode combat."

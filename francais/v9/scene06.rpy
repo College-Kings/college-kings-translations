@@ -58,7 +58,7 @@ translate francais drive_to_lake_b7b1b474:
 translate francais drive_to_lake_eb440070:
 
     # u "Haha, seriously? Don't tell me we're doing this now, haha."
-    u "Haha, sérieusement ? Ne me dis pas qu'on fait ça maintenant, haha."
+    u "Haha, sérieusement ? me dis pas qu'on fait ça maintenant, haha."
 
 # game/v9/scene06.rpy:64
 translate francais drive_to_lake_6e67b325:
@@ -178,7 +178,7 @@ translate francais drive_to_lake_3d8b3a77:
 translate francais drive_to_lake_7c1b0a35:
 
     # u "I spy with my little eye, something pink, I cannot lie."
-    u "J'espionne avec mon petit oeil, quelque chose de rose et je ne peux pas mentir."
+    u "J'espionne avec mon petit oeil, quelque chose de rose et je peux pas mentir."
 
 # game/v9/scene06.rpy:164
 translate francais drive_to_lake_fd042c1c:

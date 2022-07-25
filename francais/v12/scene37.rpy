@@ -4,7 +4,7 @@
 translate francais v12_riley_ending_dd346598:
 
     # u "If you're coming over here to fight, I'm not awake enough for all that. Maybe later."
-    u "Si tu viens ici pour te battre, je ne suis pas assez réveillé pour ça. Peut-être plus tard."
+    u "Si tu viens ici pour te battre, je suis pas assez réveillé pour ça. Peut-être plus tard."
 
 # game/v12/scene37.rpy:23
 translate francais v12_riley_ending_907ba5b0:

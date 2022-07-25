@@ -4,7 +4,7 @@
 translate francais v8_tues_eco_class_abc5fc70:
 
     # ro "Good morning, class. Let's get right to it. We've got a lot to cover."
-    ro "Bonjour, la classe. Allons droit au but. Nous avons beaucoup de choses à travailler."
+    ro "Bonjour, chers étudiants. Allons droit au but. Nous avons beaucoup de travail."
 
 # game/v8/scene31.rpy:27
 translate francais v8_tues_eco_class_d2a68984:
@@ -40,7 +40,7 @@ translate francais v8_tues_eco_class_56b9f862:
 translate francais v8_tues_eco_class_e6df9cf9:
 
     # ri "Yes! Not sure how I managed before now."
-    ri "Oui ! Je ne sais pas comment j'ai fait jusqu'à maintenant. Merci encore"
+    ri "Oui ! Je ne sais pas comment j'ai fait jusqu'à présent. Merci encore"
 
 # game/v8/scene31.rpy:58
 translate francais v8_tues_eco_class_5c624149:
@@ -142,7 +142,7 @@ translate francais v8_tues_eco_class_d09352f7:
 translate francais tec_conf_ryan_a7e957a9:
 
     # u "Yeah it wasn't easy, but luckily I'd do anything to stop studying."
-    u "Oui, ce n'était pas facile, mais heureusement, je ferais n'importe quoi pour arrêter d'étudier."
+    u "Oui, c'était pas facile, mais heureusement, je ferais n'importe quoi pour arrêter d'étudier."
 
 # game/v8/scene31.rpy:153
 translate francais tec_conf_ryan_fdb56cca:
@@ -190,13 +190,13 @@ translate francais tec_cont_47fc7cae:
 translate francais tec_cont_f07f4de4:
 
     # u "Sorry, I just can't focus."
-    u "Désolé, je n'arrive pas à me concentrer."
+    u "Désolé, j'arrive pas à me concentrer."
 
 # game/v8/scene31.rpy:210
 translate francais fl_w_lau_43d69690:
 
     # u "You're too beautiful. It's distracting."
-    u "Tu es trop belle. C'est distrayant."
+    u "T'es trop belle. C'est distrayant."
 
 # game/v8/scene31.rpy:215
 translate francais fl_w_lau_f437faa7:
@@ -208,13 +208,13 @@ translate francais fl_w_lau_f437faa7:
 translate francais fl_w_lau_4631973d:
 
     # u "I don't want to ever find out."
-    u "Je ne veux pas le savoir."
+    u "Je veux pas le savoir."
 
 # game/v8/scene31.rpy:230
 translate francais fl_w_lau_9420e0c9:
 
     # la "Now pay attention before we get in trouble."
-    la "Maintenant, fais attention avant que nous ayons des problèmes."
+    la "Maintenant, fais attention avant qu'on ait des problèmes."
 
 # game/v8/scene31.rpy:235
 translate francais fl_w_lau_574851b5:
@@ -226,7 +226,7 @@ translate francais fl_w_lau_574851b5:
 translate francais no_fl_w_lau_800cd5a8:
 
     # u "I don't know who thought a 9 a.m. Econ class was a good idea."
-    u "Je ne sais pas qui a pensé qu'un cours d'économie à 9 h était une bonne idée."
+    u "Je sais pas qui a pensé qu'un cours d'économie à 9 h était une bonne idée."
 
 # game/v8/scene31.rpy:245
 translate francais no_fl_w_lau_98b32f33:

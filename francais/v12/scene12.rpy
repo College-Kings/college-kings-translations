@@ -58,7 +58,7 @@ translate francais v12_room_chloe_riley_d63ce988:
 translate francais v12_room_chloe_riley_c7059226:
 
     # u "I knew you wouldn't. Mr. Lee said he didn't think it was a good idea but I insisted."
-    u "Je savais que tu ne voulais pas ça. Mr Lee a dit qu'il ne pensait pas que c'était une bonne idée mais j'ai insisté."
+    u "Je savais que tu voulais pas ça. Mr Lee a dit qu'il pensait pas que c'était une bonne idée mais j'ai insisté."
 
 # game/v12/scene12.rpy:78
 translate francais v12_room_chloe_riley_c359b3c7:
@@ -196,7 +196,7 @@ translate francais v12_room_chloe_riley_eae8c357:
 translate francais v12_room_chloe_riley_451709f0:
 
     # u "Neither do I, but I'm leaning towards good. *Chuckles*"
-    u "Moi non plus je ne sais pas, mais je pencherais plutôt pour le bien. *Rire*"
+    u "Moi non plus je sais pas, mais je pencherais plutôt pour le bien. *Rire*"
 
 # game/v12/scene12.rpy:239
 translate francais v12_room_chloe_riley_e6ce9835:
@@ -250,7 +250,7 @@ translate francais v12_room_chloe_riley_17935d73:
 translate francais v12_room_chloe_riley_c55e299f:
 
     # u "Oh no, please. Don't let that shit get into your head."
-    u "Oh non, s'il te plaît. Ne laisse pas cette pourriture entrer dans ta tête."
+    u "Oh non, s'il te plaît. Laisse pas cette pourriture entrer dans ta tête."
 
 # game/v12/scene12.rpy:280
 translate francais v12_room_chloe_riley_3a464622:

@@ -76,7 +76,7 @@ translate francais v14s03a_3ced27d1:
 translate francais v14s03a_ad74c521:
 
     # ngam "No way brother man! All legit. Solid as a cup of black coffee."
-    ngam "Pas du tout, mon frère ! C'est tout à fait légal. Et puis, un jeune comme toi normalement, ne devrais jamais la louper."
+    ngam "Pas du tout, mon frère ! C'est tout à fait légal. Et puis, un jeune comme toi normalement, devrais jamais la louper."
 
 # game/v14/scene3a.rpy:112
 translate francais v14s03a_24e599dc:
@@ -214,7 +214,7 @@ translate francais v14s03a_632b2440:
 translate francais v14s03a_2d40b428:
 
     # ngam "Sun just ain't shining on you today, brother man."
-    ngam "Le soleil ne brille pas sur toi aujourd'hui, mon frère."
+    ngam "Le soleil brille pas sur toi aujourd'hui, mon frère."
 
 # game/v14/scene3a.rpy:310
 translate francais v14s03a_76bd301d:
@@ -238,7 +238,7 @@ translate francais v14s03a_632b2440_1:
 translate francais v14s03a_2d40b428_1:
 
     # ngam "Sun just ain't shining on you today, brother man."
-    ngam "Le soleil ne brille pas sur toi aujourd'hui, mon frère."
+    ngam "Le soleil brille pas sur toi aujourd'hui, mon frère."
 
 # game/v14/scene3a.rpy:351
 translate francais v14s03a_76bd301d_1:

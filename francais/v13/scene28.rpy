@@ -58,7 +58,7 @@ translate francais v13s28_14353dcf:
 translate francais v13s28_183aa0af:
 
     # u "What if I just don't wanna go?"
-    u "Et si je ne veux pas y aller ?"
+    u "Et si je veux pas y aller ?"
 
 # game/v13/scene28.rpy:72
 translate francais v13s28_eb519fc7:
@@ -70,7 +70,7 @@ translate francais v13s28_eb519fc7:
 translate francais v13s28_2650e005:
 
     # u "Well, I already planned something else so... I can't."
-    u "Eh bien, j'ai déjà prévu quelque chose d'autre, donc... je ne peux pas."
+    u "Eh bien, j'ai déjà prévu quelque chose d'autre, donc... je peux pas."
 
 # game/v13/scene28.rpy:82
 translate francais v13s28_c04ad792:
@@ -82,7 +82,7 @@ translate francais v13s28_c04ad792:
 translate francais v13s28_05d4db6d:
 
     # u "*Laughs* How do I owe you money? I didn't tell you to-"
-    u "*Rire* Comment ça, je te dois de l'argent ? Je ne t'ai pas dit de-"
+    u "*Rire* Comment ça, je te dois de l'argent ? Je t'ai pas dit de-"
 
 # game/v13/scene28.rpy:97
 translate francais v13s28_34b27eae:
@@ -160,19 +160,19 @@ translate francais v13s28_56257892:
 translate francais v13s28_a60a2ecf:
 
     # am "Not gonna happen, I'm officially broke. He may though."
-    am "Ça ne va pas être possible, je suis complètement fauchée. Mais lui, il pourrait le faire."
+    am "Ça va pas être possible, je suis complètement fauchée. Mais lui, il pourrait le faire."
 
 # game/v13/scene28.rpy:181
 translate francais v13s28_a702e90a:
 
     # u "I don't think you going on a marijuana tour is a good idea, Sam. You know, because of your... history."
-    u "Je ne pense pas que faire le bus de la marijuana soit une bonne idée, Sam. Tu sais, à cause de ton... histoire."
+    u "Je pense pas que faire le bus de la marijuana soit une bonne idée, Sam. Tu sais, à cause de ton... histoire."
 
 # game/v13/scene28.rpy:186
 translate francais v13s28_485d1e8a:
 
     # sa "I'm not some fucking fiend, [name]. And either way, I can do whatever the hell I want. It's shitty remarks like that which makes me wanna fuck around with drugs in the first place."
-    sa "Je ne suis pas une putain de camée, [name]. Et de toute façon, je peux faire ce que je veux. Tu sais, ce sont des remarques merdiques comme ça qui me donnent envie de me droguer."
+    sa "Je suis pas une putain de camée, [name]. Et de toute façon, je peux faire ce que je veux. Tu sais, ce sont des remarques merdiques comme ça qui me donnent envie de me droguer."
 
 # game/v13/scene28.rpy:191
 translate francais v13s28_9f442640:
@@ -214,7 +214,7 @@ translate francais v13s28_a86c4df1:
 translate francais v13s28_f0e6f3fa:
 
     # u "I don't feel too good about this, Sam. Don't make me regret putting you in this kind of environment."
-    u "Franchement, je le sens pas, Sam. Ne me fais pas regretter de t'avoir mis dans ce genre de situation."
+    u "Franchement, je le sens pas, Sam. Me fais pas regretter de t'avoir mis dans ce genre de situation."
 
 # game/v13/scene28.rpy:239
 translate francais v13s28_ec40c72b:

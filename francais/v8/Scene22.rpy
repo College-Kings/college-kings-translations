@@ -34,7 +34,7 @@ translate francais s22_0373f40d:
 translate francais s22_90e6f978:
 
     # pe "Oh? How did it go?"
-    pe "Oh ? Comment ça s'est passé ?"
+    pe "Ah ? Comment ça s'est passé ?"
 
 # game/v8/Scene22.rpy:41
 translate francais s22_825d0c35:
@@ -52,7 +52,7 @@ translate francais s22_36727821:
 translate francais s22_0cf93607:
 
     # u "Hey, it's not over yet. She asked me to tell you not to think about doing anything like this again. Might be some hope."
-    u "Hey, ce n'est pas encore fini. Elle m'a demandé de te dire de ne plus penser à faire quelque chose comme ça. Il y a peut-être de l'espoir."
+    u "Hey, c'est pas encore fini. Elle m'a demandé de te dire de plus jamais refaire un truc comme ça. Il y a peut-être de l'espoir."
 
 # game/v8/Scene22.rpy:56
 translate francais s22_ee4bcd81:
@@ -64,25 +64,25 @@ translate francais s22_ee4bcd81:
 translate francais s22_ee36d3e6:
 
     # u "No worries. Wanna hang out today?"
-    u "Ne t'inquiète pas. On se voit aujourd'hui ?"
+    u "T'inquiète pas. On se voit tout à l'heure ?"
 
 # game/v8/Scene22.rpy:66
 translate francais s22_9c6248ad:
 
     # pe "I'd love to, but I need to study and I made plans with Jenny later. I'm sorry."
-    pe "J'adorerais, mais je dois étudier et j'ai des plans avec Jenny plus tard. Je suis désolée."
+    pe "J'aimerais beaucoup, mais je dois étudier et j'ai des trucs à faire avec Jenny tout à l'heure. Je suis désolée."
 
 # game/v8/Scene22.rpy:71
 translate francais s22_1e9f70cc:
 
     # u "Oh, it's okay. Have fun and stay away from computers, hahaha."
-    u "Oh, c'est bon. Amusez-vous bien et restez loin des ordinateurs, hahaha."
+    u "Ah, t'inquiètes. Amusez-vous bien et reste loin des ordinateurs, hahaha."
 
 # game/v8/Scene22.rpy:76
 translate francais s22_23e6fb61:
 
     # pe "Hahaha! You don't need to tell me! I learned my lesson! Bye [name]."
-    pe "Hahaha ! Tu as pas besoin de me le dire ! J'ai retenu la leçon ! Au revoir [name]."
+    pe "Hahaha ! Tu n'as pas besoin de me le dire ! J'ai bien retenu la leçon ! Au revoir [name]."
 
 # game/v8/Scene22.rpy:81
 translate francais s22_604e5884:
@@ -94,7 +94,7 @@ translate francais s22_604e5884:
 translate francais s22_df2e2c51:
 
     # u "(Well, nothing else to do besides wait and hope for the best)"
-    u "(Eh bien, rien d'autre à faire que d'attendre et d'espérer le meilleur)"
+    u "(Bon... Rien d'autre à faire que d'attendre et d'espérer le meilleur)"
 
 # game/v8/Scene22.rpy:95
 translate francais s22_0c71023f_1:
@@ -148,7 +148,7 @@ translate francais s22_36727821_1:
 translate francais s22_0cf93607_1:
 
     # u "Hey, it's not over yet. She asked me to tell you not to think about doing anything like this again. Might be some hope."
-    u "Hey, ce n'est pas encore fini. Elle m'a demandé de te dire de ne pas penser à refaire quelque chose comme ça. Il y a peut-être de l'espoir."
+    u "Hey, c'est pas encore fini. Elle m'a demandé de te dire de plus jamais refaire un truc comme ça. Il y a peut-être de l'espoir."
 
 # game/v8/Scene22.rpy:140
 translate francais s22_ee4bcd81_1:
@@ -160,19 +160,19 @@ translate francais s22_ee4bcd81_1:
 translate francais s22_ee36d3e6_1:
 
     # u "No worries. Wanna hang out today?"
-    u "Ne t'inquiète pas. On se voit aujourd'hui ?"
+    u "T'inquiète pas. On se voit tout à l'heure ?"
 
 # game/v8/Scene22.rpy:150
 translate francais s22_9c6248ad_1:
 
     # pe "I'd love to, but I need to study and I made plans with Jenny later. I'm sorry."
-    pe "J'adorerais, mais je dois étudier et j'ai des plans avec Jenny plus tard. Je suis désolée."
+    pe "J'aimerais beaucoup, mais je dois étudier et j'ai des trucs à faire avec Jenny tout à l'heure. Je suis désolée."
 
 # game/v8/Scene22.rpy:155
 translate francais s22_1e9f70cc_1:
 
     # u "Oh, it's okay. Have fun and stay away from computers, hahaha."
-    u "Oh, c'est bon. Amusez-vous bien et restez loin des ordinateurs, hahaha."
+    u "Ah, t'inquiètes. Amusez-vous bien et reste loin des ordinateurs, hahaha."
 
 # game/v8/Scene22.rpy:160
 translate francais s22_23e6fb61_1:
@@ -190,4 +190,4 @@ translate francais s22_604e5884_1:
 translate francais s22_0c94769e:
 
     # u "(Well, nothing else to do besides wait and hope for the best.)"
-    u "(Bon, il n'y a rien d'autre à faire à part attendre et espérer le meilleur.)"
+    u "(Bon... Rien d'autre à faire que d'attendre et d'espérer le meilleur)"

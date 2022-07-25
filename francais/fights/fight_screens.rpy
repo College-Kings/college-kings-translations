@@ -71,7 +71,7 @@ screen fight_typeMenu():
         sensitive True
         action [SetVariable("fight_type", "normal"), Return()]
 
-    textbutton "Simulation : réaliste":
+    textbutton "Simulation : realiste":
         text_size 40
         align (0.5, 0.7)
         sensitive True
@@ -89,7 +89,7 @@ screen fight_selectDifficulty():
 
     add "images/fightchoice.webp"
 
-    text "Difficulté":
+    text "Difficulte":
         align (0.5, 0.25)
         font "fonts/Freshman.ttf"
         color "#ffffff"
@@ -112,7 +112,7 @@ screen fight_selectDifficulty():
             text_size 40
             action [Function(selectDifficulty, "easy"), Return()]
 
-        textbutton "Moyenne":
+        textbutton "Moyen":
             text_size 40
             action [Function(selectDifficulty, "normal"), Return()]
 
@@ -135,9 +135,9 @@ screen fight_keybindOptions():
         text_align 0.5
 
     if bodyHook:
-        $ keybindText = "\n{} = Jab / Block Head\n{} = Hook / Block Face\n{} = Kick / Block Leg\n{} = Body Hook / Low Guard".format(q.upper(), w.upper(), r.upper(), e.upper())
+        $ keybindText = "\n{} = Frappe / Blocage tête\n{} = Crochet / Blocage tête\n{} = Coup de pied / Blocage jambes\n{} = Crochet au corps / Garde basse".format(q.upper(), w.upper(), r.upper(), e.upper())
     else:
-        $ keybindText = "\n{} = Jab / Block Head\n{} = Hook / Block Face\n{} = Kick / Block Leg".format(q.upper(), w.upper(), r.upper())
+        $ keybindText = "\n{} = Frappe / Blocage tête\n{} = Crochet / Blocage tête\n{} = Coup de pied / Blocage jambes".format(q.upper(), w.upper(), r.upper())
 
     text "L'affectation des touches actuelles est :[keybindText]":
         align (0.5, 0.42)

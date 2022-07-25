@@ -202,7 +202,7 @@ translate francais v11_aubrey_plane_sex_sg_97366b30:
 translate francais v11_aubrey_plane_sex_sg_6668912e:
 
     # u "Uhm... I'm not sure I agree."
-    u "Hum... Je ne suis pas sûr d'être d'accord."
+    u "Hum... Je suis pas sûr d'être d'accord."
 
 # game/v11/scene13.rpy:328
 translate francais v11_aubrey_plane_sex_sg_13930bbf:

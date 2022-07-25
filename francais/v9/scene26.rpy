@@ -16,7 +16,7 @@ translate francais v9_fri_training_w_wolves_bbaa1453:
 translate francais v9_fri_training_w_wolves_97a5b46a:
 
     # u "Yeah, sure. I'm not doing anything."
-    u "Oui, bien sûr. Je ne fais rien, pour l'instant."
+    u "Oui, bien sûr. Je fais rien, pour l'instant."
 
 # game/v9/scene26.rpy:30
 translate francais v9_fri_training_w_wolves_09538e1a:
@@ -28,7 +28,7 @@ translate francais v9_fri_training_w_wolves_09538e1a:
 translate francais v9_fri_training_w_wolves_ed4c6067:
 
     # u "Hey, don't worry about it. Saves me from passing out on my History book again."
-    u "Hey, ne t'inquiète pas pour ça. Ça m'évite de m'endormir à nouveau sur mon livre d'histoire."
+    u "Hey, t'inquiète pas pour ça. Ça m'évite de m'endormir à nouveau sur mon livre d'histoire."
 
 # game/v9/scene26.rpy:40
 translate francais v9_fri_training_w_wolves_521f0a35:
@@ -106,7 +106,7 @@ translate francais v9_fri_training_w_wolves_0938aa62:
 translate francais v9_fri_training_w_wolves_08f12ae9:
 
     # u "(I don't want to interrupt.)"
-    u "(Je ne veux pas interrompre.)"
+    u "(Je veux pas interrompre.)"
 
 # game/v9/scene26.rpy:126
 translate francais v9_fri_training_w_wolves_52e3dd97:
@@ -298,7 +298,7 @@ translate francais v9_fri_training_w_wolves_84ee892b:
 translate francais v9_fri_training_w_wolves_a9df7db4:
 
     # u "Never know."
-    u "On ne sait jamais."
+    u "On sait jamais."
 
 # game/v9/scene26.rpy:283
 translate francais v9_fri_training_w_wolves_30852e51:
@@ -358,7 +358,7 @@ translate francais v9_fri_training_w_wolves_017d5329:
 translate francais v9_fri_training_w_wolves_b820229e:
 
     # u "Aww, sorry, man. I wasn't thinking."
-    u "Aww, désolé, mec. Je ne pensais pas."
+    u "Aww, désolé, mec. Je pensais pas."
 
 # game/v9/scene26.rpy:333
 translate francais v9_fri_training_w_wolves_d85ded3e:
@@ -430,7 +430,7 @@ translate francais v9_fri_training_w_wolves_4d1826ae:
 translate francais v9_fri_training_w_wolves_0d256313:
 
     # u "I didn't choose anything... I don't think."
-    u "Je n'ai rien choisi... Je ne pense pas."
+    u "Je n'ai rien choisi... Je pense pas."
 
 # game/v9/scene26.rpy:397
 translate francais v9_fri_training_w_wolves_7015caa5:
@@ -514,7 +514,7 @@ translate francais v9_fri_training_w_wolves_907e332d:
 translate francais v9_fri_training_w_wolves_cdb35579:
 
     # u "I need it. I don't know what happened."
-    u "J'en ai besoin. Je ne sais pas ce qui s'est passé."
+    u "J'en ai besoin. Je sais pas ce qui s'est passé."
 
 # game/v9/scene26.rpy:463
 translate francais v9_fri_training_w_wolves_10337516:
@@ -526,7 +526,7 @@ translate francais v9_fri_training_w_wolves_10337516:
 translate francais v9_fri_training_w_wolves_0eaf7936:
 
     # u "I'm not much of a fighter if I can't defend myself against one random asshole."
-    u "Je ne suis pas un grand combattant si je ne peux pas me défendre contre un trou du cul."
+    u "Je suis pas un grand combattant si je peux pas me défendre contre un trou du cul."
 
 # game/v9/scene26.rpy:473
 translate francais v9_fri_training_w_wolves_fbd2b4ee:
@@ -634,7 +634,7 @@ translate francais v9_fri_training_w_wolves_950245ac:
 translate francais v9_fri_training_w_wolves_3063c3de:
 
     # u "They'll never see it coming."
-    u "Ils ne verront rien venir."
+    u "Ils verront rien venir."
 
 # game/v9/scene26.rpy:561
 translate francais v9_fri_training_w_wolves_203bf724:
@@ -706,7 +706,7 @@ translate francais v9_fri_training_w_wolves_558cba25:
 translate francais v9_fri_training_w_wolves_2c42446b:
 
     # u "(Please don't say no girls.)"
-    u "(S'il te plaît, ne dis pas \"pas de meufs\".)"
+    u "(S'il te plaît, dis pas \"pas de meufs\".)"
 
 # game/v9/scene26.rpy:620
 translate francais v9_fri_training_w_wolves_a66440a5:

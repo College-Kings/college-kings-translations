@@ -10,7 +10,7 @@ translate francais emily_arcade_ac080ea7:
 translate francais emily_arcade_0b0c021d:
 
     # u "You're the sexy one! You look amazing!"
-    u "C'est toi qui es sexy ! Tu es superbe !"
+    u "C'est toi qui es sexy ! T'es superbe !"
 
 # game/v8/scene20.rpy:32
 translate francais emily_arcade_d7d2f3db:
@@ -22,13 +22,13 @@ translate francais emily_arcade_d7d2f3db:
 translate francais emily_arcade_debcfba4:
 
     # u "Love it! Although..."
-    u "Je l'adore ! Cependant..."
+    u "Je l'adore ! Par contre..."
 
 # game/v8/scene20.rpy:40
 translate francais emily_arcade_5d8513fd:
 
     # u "This your way of distracting me so you win?"
-    u "C'est ta façon de me distraire pour que tu gagnes ?"
+    u "C'est une façon de me distraire pour gagner ?"
 
 # game/v8/scene20.rpy:44
 translate francais emily_arcade_db1ec5f4:
@@ -52,25 +52,25 @@ translate francais emily_arcade_ac1918c9:
 translate francais emily_arcade_fc307ffc:
 
     # u "Absolutely not, but I'll give it a... {i}shot!{/i}"
-    u "Absolument pas, mais je vais lui donner un... {i}tir{/i} !"
+    u "Pas du tout, mais je vais lui donner un... {i}tir{/i} !"
 
 # game/v8/scene20.rpy:60
 translate francais emily_arcade_2d7ac9cd:
 
     # em "You're lucky it's a slot game. If your aim was as bad as that joke..."
-    em "Tu as de la chance que ce soit un jeu de machine à sous. Si ton tir était aussi mauvais que cette blague..."
+    em "Tu as de la chance que ça soit un jeu de machine à sous. Si ton tir était aussi mauvais que cette blague..."
 
 # game/v8/scene20.rpy:61
 translate francais emily_arcade_97db5e89:
 
     # u "Hey! That was a great joke!"
-    u "Hé ! C'était une super blague !"
+    u "Hé ! Ma blague était super !"
 
 # game/v8/scene20.rpy:65
 translate francais emily_arcade_23a9f377:
 
     # em "Sure it was. Loser pays for the next game?"
-    em "Bien sûr que oui. Le perdant paie pour le prochain jeu ?"
+    em "On va dire. Le perdant paie le prochain jeu ?"
 
 # game/v8/scene20.rpy:86
 translate francais emily_arcade_4b2d0890:
@@ -88,19 +88,19 @@ translate francais emily_arcade_3188d288:
 translate francais emily_arcade_2dee69d1:
 
     # em "No problem. Figured we could chill and I could kick your ass at some games."
-    em "Pas de problème. J'ai pensé qu'on pourrait se détendre et que je pourrais te botter le cul à quelques jeux."
+    em "Pas de problème. Je me suis dis qu'on pourrait se détendre et que je pourrais te botter le cul à quelques jeux."
 
 # game/v8/scene20.rpy:98
 translate francais emily_arcade_f323ceba:
 
     # u "Don't be so sure! You know I lived in the arcade back home!"
-    u "N'en sois pas si sûr ! Tu sais que je vivais dans la salle d'arcade à la maison !"
+    u "N'en sois pas si sûr ! Tu sais que je vivais dans une salle d'arcade à la maison !"
 
 # game/v8/scene20.rpy:102
 translate francais emily_arcade_dd51ec17:
 
     # em "Yeah, but I was right there by your side. I'm sure I picked up a few tips."
-    em "Oui, mais j'étais juste là, à tes côtés. Je suis sûre que j'ai pris quelques conseils."
+    em "Oui, mais j'étais juste là, à tes côtés. Je suis sûre d'avoir appris quelques trucs."
 
 # game/v8/scene20.rpy:106
 translate francais emily_arcade_d8c59c73_1:
@@ -118,7 +118,7 @@ translate francais emily_arcade_ac1918c9_1:
 translate francais emily_arcade_fc307ffc_1:
 
     # u "Absolutely not, but I'll give it a... {i}shot!{/i}"
-    u "Absolument pas, mais je vais lui donner un... {i}tir{/i} !"
+    u "Pas du tout, mais je vais lui donner un... {i}tir{/i} !"
 
 # game/v8/scene20.rpy:118
 translate francais emily_arcade_ceb47cc9:
@@ -130,13 +130,13 @@ translate francais emily_arcade_ceb47cc9:
 translate francais emily_arcade_0cda026b:
 
     # em "So, loser pays for the next game?"
-    em "Donc, le perdant paie pour le prochain jeu ?"
+    em "Donc, le perdant paie le prochain jeu ?"
 
 # game/v8/scene20.rpy:143
 translate francais em_arcade_2_453732b9:
 
     # u "If we're betting, let's make it interesting. I'll pay for all the games."
-    u "Si nous parions, faisons en sorte que ce soit intéressant. Je paierai pour tous les jeux."
+    u "Et si on pariait ? Pour rendre les choses intéressantes. Je paierai pour tous les jeux."
 
 # game/v8/scene20.rpy:147
 translate francais em_arcade_2_d6cd3d95:
@@ -154,19 +154,19 @@ translate francais em_arcade_2_7744ccbc:
 translate francais em_arcade_2_28244312:
 
     # em "Ooh, I like it. Pucker up buddy!"
-    em "Ooh, j'aime ça. Amène ton corps !"
+    em "Ooh, j'aime ça. Donne moi ton corps !"
 
 # game/v8/scene20.rpy:159
 translate francais em_arcade_2_9a6d64d4:
 
     # u "Not so fast. I know those lips well. I'm making sure I get to feel 'em!"
-    u "Pas si vite. Je connais bien ces lèvres. Je m'assure simplement que je vais bien les sentir, em' !"
+    u "Pas si vite. Je connais bien ces lèvres. Je veux m'assurer de pouvoir les ressentir, em' !"
 
 # game/v8/scene20.rpy:163
 translate francais em_arcade_2_75e63a17:
 
     # em "Put your tokens where your mouth is, then!"
-    em "Va chercher tes jetons, au lieu d'ouvrir ta bouche, alors !"
+    em "Alors, va chercher tes jetons, au lieu d'ouvrir ta bouche !"
 
 # game/v8/scene20.rpy:167
 translate francais em_arcade_2_9eca3e56:
@@ -208,13 +208,13 @@ translate francais em_arcade_2_cc201eb4:
 translate francais em_arcade_2_27d8e50b:
 
     # u "Not gonna make it easy for me, are you?"
-    u "Tu ne vas pas me rendre la tâche facile, n'est-ce pas ?"
+    u "T'as pas envie de me faciliter la tâche, hein ?"
 
 # game/v8/scene20.rpy:216
 translate francais em_arcade_2_36c16371:
 
     # u "No way I coulda won that one."
-    u "Je n'aurais jamais pu la gagner celle-là."
+    u "J'aurais jamais pu la gagner celle-là."
 
 # game/v8/scene20.rpy:220
 translate francais em_arcade_2_b36bb524:
@@ -226,13 +226,13 @@ translate francais em_arcade_2_b36bb524:
 translate francais em_arcade_2_22f9c95a:
 
     # u "Don't get used to it. I got the next one for sure."
-    u "Ne t'y habitue pas. J'aurai le prochain, c'est sûr."
+    u "T'y habitue pas. J'aurai le prochain sans aucun problème."
 
 # game/v8/scene20.rpy:233
 translate francais em_arcade_2_b1496549:
 
     # em "Maybe you'll have better luck if you go first next."
-    em "Peut-être que tu auras plus de chance si tu commences, là."
+    em "Tu auras peut-être plus de chance si tu passes en premier."
 
 # game/v8/scene20.rpy:237
 translate francais em_arcade_2_3989623c:
@@ -250,25 +250,25 @@ translate francais em_arcade_2_221893a6:
 translate francais em_arcade_2_a3f742f2:
 
     # u "How? Haha!"
-    u "Comment ? Haha !"
+    u "Mais non ! Haha !"
 
 # game/v8/scene20.rpy:259
 translate francais em_arcade_2_7f327c15:
 
     # em "Step aside. Let me show you how it's done."
-    em "Met-toi de côté. Laisse-moi te montrer comment on fait."
+    em "Met-toi sur le côté. Laisse-moi te montrer comment on fait."
 
 # game/v8/scene20.rpy:273
 translate francais em_arcade_2_ec27168f:
 
     # em "I'm so glad I invited you out!"
-    em "Je suis si heureuse de t'avoir invité à sortir !"
+    em "Je suis vraiment contente de t'avoir invité à sortir !"
 
 # game/v8/scene20.rpy:277
 translate francais em_arcade_2_2d4af8bb:
 
     # u "Well, where would you like it, ma'am?"
-    u "Eh bien, où le voulez-vous, m'dame ?"
+    u "Bon, où le voulez-vous, m'dame ?"
 
 # game/v8/scene20.rpy:281
 translate francais em_arcade_2_beeb390c:
@@ -286,7 +286,7 @@ translate francais em_arcade_2_8609c197:
 translate francais em_arcade_2_beab1522:
 
     # u "I'm starting to think losing isn't so bad."
-    u "Je commence à penser que perdre n'est pas si mal."
+    u "Je commence à penser que c'est pas si mal de perdre."
 
 # game/v8/scene20.rpy:302
 translate francais em_arcade_2_f775071b:
@@ -334,13 +334,13 @@ translate francais em_arcade_2_263ca5e3:
 translate francais em_arcade_2_f7727647:
 
     # em "Guess I gotta pay up."
-    em "Je crois que je dois payer, alors."
+    em "J'imagine que je dois payer."
 
 # game/v8/scene20.rpy:335
 translate francais em_arcade_2_3943cbdf:
 
     # em "Where do you want it?"
-    em "Où le veux-tu ?"
+    em "Tu le veux où ?"
 
 # game/v8/scene20.rpy:336
 translate francais em_arcade_2_87edf35a:
@@ -358,19 +358,19 @@ translate francais em_arcade_2_9c5e829b:
 translate francais em_arcade_2_19a03f0a:
 
     # u "I meant that spot on my neck you naughty girl *laugh*"
-    u "Je voulais dire sur mon cou, coquine. *rire*"
+    u "Sur mon cou, coquine. *rire*"
 
 # game/v8/scene20.rpy:348
 translate francais em_arcade_2_571fd03a:
 
     # em "Oh.."
-    em "Oh.."
+    em "Ah.."
 
 # game/v8/scene20.rpy:358
 translate francais em_arcade_2_b78f789d:
 
     # u "Oh, God. I changed my mind. I choose the other spot."
-    u "Oh, non... J'ai changé d'avis. Je choisis l'autre endroit."
+    u "Ah, non... J'ai changé d'avis. Je choisis l'autre endroit."
 
 # game/v8/scene20.rpy:366
 translate francais em_arcade_2_6d1e062e:
@@ -382,7 +382,7 @@ translate francais em_arcade_2_6d1e062e:
 translate francais em_arcade_2_6bcd435f:
 
     # u "Yeah?"
-    u "Ouais ?"
+    u "Comment ?"
 
 # game/v8/scene20.rpy:375
 translate francais em_arcade_2_b272eac8:
@@ -418,7 +418,7 @@ translate francais em_arcade_2_c4640d4e:
 translate francais em_arcade_2_186676dc:
 
     # u "Seems like I win either way, so I'll even let you go first."
-    u "J'ai l'impression que je vais gagner de toute façon, alors je te laisse commencer."
+    u "de toute façon, je gagnerai, alors je vais même te laisser passer en premier."
 
 # game/v8/scene20.rpy:393
 translate francais em_arcade_2_953354fa:
@@ -448,7 +448,7 @@ translate francais em_arcade_2_9b700d30:
 translate francais em_arcade_2_622730a3:
 
     # u "So close!"
-    u "C'est tout près."
+    u "C'est passé à ça...!"
 
 # game/v8/scene20.rpy:414
 translate francais em_arcade_2_e4140240:
@@ -478,13 +478,13 @@ translate francais em_arcade_2_484f7c8b:
 translate francais em_arcade_2_4b1f73ab:
 
     # ann "Attention! We're closing in five minutes. Everyone is requested to leave the arcade zone immediately. Thank you for visiting."
-    ann "Attention ! Nous fermons dans 5 minutes. Tout le monde est prié de quitter la zone d'arcade immédiatement. Merci de votre visite."
+    ann "Votre attention, s'il vous plait ! Nous fermons dans 5 minutes. Tout le monde est prié de quitter la zone d'arcade au plus vite. Merci de votre visite."
 
 # game/v8/scene20.rpy:467
 translate francais em_arcade_2_8fdb075e:
 
     # em "Awww, too bad. Time to go home."
-    em "Ohhh, dommage. Il est temps de rentrer à la maison."
+    em "Oooh, dommage. C'est l'heure de rentrer à la maison."
 
 # game/v8/scene20.rpy:471
 translate francais em_arcade_2_2ae43ea4:
@@ -496,13 +496,13 @@ translate francais em_arcade_2_2ae43ea4:
 translate francais em_arcade_2_7ea29e84:
 
     # em "Sure you did. Come on. Walk me home."
-    em "Bien sûr que oui. Allez, viens. Raccompagne-moi chez moi."
+    em "Mais oui, mais oui. Allez, viens. Raccompagne-moi chez moi."
 
 # game/v8/scene20.rpy:479
 translate francais em_arcade_2_4a623e57:
 
     # u "Don't you think I'll forget about it."
-    u "Ne crois pas que je vais oublier ma victoire."
+    u "Crois pas que je vais oublier ma victoire."
 
 # game/v8/scene20.rpy:489
 translate francais em_arcade_2_709aba89:
@@ -520,7 +520,7 @@ translate francais em_arcade_2_eccca5d3:
 translate francais em_arcade_2_d134fb4e:
 
     # em "Maybe we can do it again sometime."
-    em "Peut-être qu'on pourra le refaire un jour."
+    em "Peut-être qu'un jour, on pourra recommencer !?"
 
 # game/v8/scene20.rpy:506
 translate francais em_arcade_2_d4aba523:
@@ -580,13 +580,13 @@ translate francais em_arcade_1_cc201eb4:
 translate francais em_arcade_1_27d8e50b:
 
     # u "Not gonna make it easy for me, are you?"
-    u "Tu ne vas pas me rendre la tâche facile, n'est-ce pas ?"
+    u "T'as pas envie de me faciliter la tâche, hein ?"
 
 # game/v8/scene20.rpy:582
 translate francais em_arcade_1_36c16371:
 
     # u "No way I coulda won that one."
-    u "Je n'aurais jamais pu gagner celui-là."
+    u "J'aurais jamais pu la gagner celle-là."
 
 # game/v8/scene20.rpy:586
 translate francais em_arcade_1_b36bb524:
@@ -598,13 +598,13 @@ translate francais em_arcade_1_b36bb524:
 translate francais em_arcade_1_31e79d44:
 
     # u "That was just luck. I got the next one."
-    u "C'était juste de la chance. J'ai eu le suivant."
+    u "C'était juste de la chance. J'aurai le suivant."
 
 # game/v8/scene20.rpy:594
 translate francais em_arcade_1_b1496549:
 
     # em "Maybe you'll have better luck if you go first next."
-    em "Peut-être que tu auras plus de chance si tu y vas en premier la prochaine fois."
+    em "Tu auras peut-être plus de chance si tu passes en premier."
 
 # game/v8/scene20.rpy:598
 translate francais em_arcade_1_3989623c:
@@ -616,25 +616,25 @@ translate francais em_arcade_1_3989623c:
 translate francais em_arcade_1_221893a6:
 
     # em "Or not. If I didn't know any better, I'd think you were letting me win."
-    em "Ou pas. Si je ne te connaissais pas mieux, je penserais que tu me laisses gagner."
+    em "Ou pas... Si je ne te connaissais pas mieux, je penserais que tu me laisses gagner."
 
 # game/v8/scene20.rpy:616
 translate francais em_arcade_1_a3f742f2:
 
     # u "How? Haha!"
-    u "Comment ? Haha !"
+    u "Mais non ! Haha !"
 
 # game/v8/scene20.rpy:620
 translate francais em_arcade_1_7f327c15:
 
     # em "Step aside. Let me show you how it's done."
-    em "Met-toi de côté. Laisse-moi te montrer comment on fait."
+    em "Met-toi sur le côté. Laisse-moi te montrer comment on fait."
 
 # game/v8/scene20.rpy:634
 translate francais em_arcade_1_ec27168f:
 
     # em "I'm so glad I invited you out!"
-    em "Je suis si heureuse de t'avoir invitée à sortir !"
+    em "Je suis vraiment contente de t'avoir invité à sortir !"
 
 # game/v8/scene20.rpy:638
 translate francais em_arcade_1_02db3e98:
@@ -658,7 +658,7 @@ translate francais em_arcade_1_f775071b:
 translate francais em_arcade_1_3c5c2de8:
 
     # u "Oh, you're going down now. I have the magic touch with this game!"
-    u "Oh, tu vas perdre maintenant. J'ai la touche magique avec ce jeu !"
+    u "Oh, tu vas enfin perdre. J'ai la touche magique avec ce jeu !"
 
 # game/v8/scene20.rpy:658
 translate francais em_arcade_1_8c7df5d5:
@@ -706,13 +706,13 @@ translate francais em_arcade_1_6d1e062e:
 translate francais em_arcade_1_6bcd435f:
 
     # u "Yeah?"
-    u "Ouais ?"
+    u "Comment ?"
 
 # game/v8/scene20.rpy:694
 translate francais em_arcade_1_b272eac8:
 
     # em "First person to get a stuffed animal is the ultimate winner."
-    em "La première personne à obtenir un animal en peluche est l'ultime gagnant."
+    em "Le premier à faire tomber un truc est l'ultime gagnant."
 
 # game/v8/scene20.rpy:698
 translate francais em_arcade_1_e492496b:
@@ -730,7 +730,7 @@ translate francais em_arcade_1_95c21237:
 translate francais em_arcade_1_186676dc:
 
     # u "Seems like I win either way, so I'll even let you go first."
-    u "J'ai l'impression que je vais gagner de toute façon, alors je te laisse commencer."
+    u "de toute façon, je gagnerai, alors je vais même te laisser passer en premier."
 
 # game/v8/scene20.rpy:710
 translate francais em_arcade_1_953354fa:
@@ -760,7 +760,7 @@ translate francais em_arcade_1_9b700d30:
 translate francais em_arcade_1_74a6934c:
 
     # u "So close!"
-    u "C'est tout près."
+    u "C'est passé à ça...!"
 
 # game/v8/scene20.rpy:731
 translate francais em_arcade_1_e4140240:
@@ -778,7 +778,7 @@ translate francais em_arcade_1_162123b6:
 translate francais em_arcade_1_22554d2e:
 
     # em "HOW?"
-    em "COMMENT ?"
+    em "COMMENT T'AS FAIT ?"
 
 # game/v8/scene20.rpy:776
 translate francais em_arcade_1_86664b91:
@@ -790,13 +790,13 @@ translate francais em_arcade_1_86664b91:
 translate francais em_arcade_1_4b1f73ab:
 
     # ann "Attention! We're closing in five minutes. Everyone is requested to leave the arcade zone immediately. Thank you for visiting."
-    ann "Attention ! Nous fermons dans 5 minutes. Tout le monde est prié de quitter la zone d'arcade immédiatement. Merci de votre visite."
+    ann "Votre attention, s'il vous plait ! Nous fermons dans 5 minutes. Tout le monde est prié de quitter la zone d'arcade au plus vite. Merci de votre visite."
 
 # game/v8/scene20.rpy:784
 translate francais em_arcade_1_8fdb075e:
 
     # em "Awww, too bad. Time to go home."
-    em "Ohhh, dommage. Il est temps de rentrer à la maison."
+    em "Oooh, dommage. C'est l'heure de rentrer à la maison."
 
 # game/v8/scene20.rpy:788
 translate francais em_arcade_1_2ae43ea4:
@@ -808,7 +808,7 @@ translate francais em_arcade_1_2ae43ea4:
 translate francais em_arcade_1_7ea29e84:
 
     # em "Sure you did. Come on. Walk me home."
-    em "Bien sûr que oui. Allez, viens. Raccompagne-moi chez moi."
+    em "Mais oui, mais oui. Allez, viens. Raccompagne-moi chez moi."
 
 # game/v8/scene20.rpy:818
 translate francais em_arcade_1_709aba89:
@@ -820,13 +820,13 @@ translate francais em_arcade_1_709aba89:
 translate francais em_arcade_1_eccca5d3:
 
     # u "And thanks for asking me to come out. This sure beat studying."
-    u "Et merci de m'avoir demandé de sortir. C'est mieux que d'étudier."
+    u "Et merci de m'avoir invité à sortir. C'est mieux que d'étudier."
 
 # game/v8/scene20.rpy:826
 translate francais em_arcade_1_d134fb4e:
 
     # em "Maybe we can do it again sometime."
-    em "Peut-être qu'on pourra le refaire un jour."
+    em "Peut-être qu'un jour, on pourra recommencer !?"
 
 # game/v8/scene20.rpy:830
 translate francais em_arcade_1_d4aba523:
@@ -892,7 +892,7 @@ translate francais em_arcade_4_2257dddc:
 translate francais em_arcade_4_345cb781:
 
     # em "Okay, but I'm watching you [name]."
-    em "D'accord, mais je te regarde [name]."
+    em "D'accord, mais je te regarderai [name]."
 
 # game/v8/scene20.rpy:909
 translate francais em_arcade_4_a1c0d5d6:
@@ -934,13 +934,13 @@ translate francais em_arcade_4_cc201eb4:
 translate francais em_arcade_4_27d8e50b:
 
     # u "Not gonna make it easy for me, are you?"
-    u "Tu ne vas pas me rendre la tâche facile, n'est-ce pas ?"
+    u "T'as pas envie de me faciliter la tâche, hein ?"
 
 # game/v8/scene20.rpy:958
 translate francais em_arcade_4_36c16371:
 
     # u "No way I coulda won that one."
-    u "Je n'aurais jamais pu gagner celui-là."
+    u "J'aurais jamais pu la gagner celle-là."
 
 # game/v8/scene20.rpy:962
 translate francais em_arcade_4_b36bb524:
@@ -994,7 +994,7 @@ translate francais em_arcade_4_88a75da7:
 translate francais em_arcade_4_b1496549:
 
     # em "Maybe you'll have better luck if you go first next."
-    em "Peut-être que tu auras plus de chance si tu y vas en premier la prochaine fois."
+    em "Tu auras peut-être plus de chance si tu passes en premier."
 
 # game/v8/scene20.rpy:995
 translate francais em_arcade_4_3989623c:
@@ -1006,25 +1006,25 @@ translate francais em_arcade_4_3989623c:
 translate francais em_arcade_4_221893a6:
 
     # em "Or not. If I didn't know any better, I'd think you were letting me win."
-    em "Ou pas. Si je ne te connaissais pas mieux, je penserais que tu me laisses gagner."
+    em "Ou pas... Si je ne te connaissais pas mieux, je penserais que tu me laisses gagner."
 
 # game/v8/scene20.rpy:1013
 translate francais em_arcade_4_a3f742f2:
 
     # u "How? Haha!"
-    u "Comment ? Haha !"
+    u "Mais non ! Haha !"
 
 # game/v8/scene20.rpy:1017
 translate francais em_arcade_4_7f327c15:
 
     # em "Step aside. Let me show you how it's done."
-    em "Met-toi de côté. Laisse-moi te montrer comment on fait."
+    em "Met-toi sur le côté. Laisse-moi te montrer comment on fait."
 
 # game/v8/scene20.rpy:1031
 translate francais em_arcade_4_ec27168f:
 
     # em "I'm so glad I invited you out!"
-    em "Je suis si heureuse de t'avoir invité à sortir !"
+    em "Je suis vraiment contente de t'avoir invité à sortir !"
 
 # game/v8/scene20.rpy:1035
 translate francais em_arcade_4_bec8eb34:
@@ -1090,7 +1090,7 @@ translate francais em_arcade_4_f775071b:
 translate francais em_arcade_4_3c5c2de8:
 
     # u "Oh, you're going down now. I have the magic touch with this game!"
-    u "Oh, tu vas perdre maintenant. J'ai la touche magique avec ce jeu !"
+    u "Oh, tu vas enfin perdre. J'ai la touche magique avec ce jeu !"
 
 # game/v8/scene20.rpy:1084
 translate francais em_arcade_4_8c7df5d5:
@@ -1180,7 +1180,7 @@ translate francais v8s20_nsfwSkipLabel1_b1a60398:
 translate francais v8s20_nsfwSkipLabel1_b272eac8:
 
     # em "First person to get a stuffed animal is the ultimate winner."
-    em "La première personne à obtenir un animal en peluche est l'ultime gagnant."
+    em "Le premier à faire tomber un truc est l'ultime gagnant."
 
 # game/v8/scene20.rpy:1155
 translate francais v8s20_nsfwSkipLabel1_b592843e:
@@ -1198,7 +1198,7 @@ translate francais v8s20_nsfwSkipLabel1_c26bc4f1:
 translate francais v8s20_nsfwSkipLabel1_186676dc:
 
     # u "Seems like I win either way, so I'll even let you go first."
-    u "J'ai l'impression que je vais gagner de toute façon, alors je te laisse commencer."
+    u "de toute façon, je gagnerai, alors je vais même te laisser passer en premier."
 
 # game/v8/scene20.rpy:1167
 translate francais v8s20_nsfwSkipLabel1_953354fa:
@@ -1228,7 +1228,7 @@ translate francais v8s20_nsfwSkipLabel1_9b700d30:
 translate francais v8s20_nsfwSkipLabel1_74a6934c:
 
     # u "So close!"
-    u "C'est tout près."
+    u "C'est passé à ça...!"
 
 # game/v8/scene20.rpy:1188
 translate francais v8s20_nsfwSkipLabel1_e4140240:
@@ -1246,7 +1246,7 @@ translate francais v8s20_nsfwSkipLabel1_162123b6:
 translate francais v8s20_nsfwSkipLabel1_22554d2e:
 
     # em "HOW?"
-    em "COMMENT ?"
+    em "COMMENT T'AS FAIT ?"
 
 # game/v8/scene20.rpy:1233
 translate francais v8s20_nsfwSkipLabel1_86664b91:
@@ -1258,13 +1258,13 @@ translate francais v8s20_nsfwSkipLabel1_86664b91:
 translate francais v8s20_nsfwSkipLabel1_4b1f73ab:
 
     # ann "Attention! We're closing in five minutes. Everyone is requested to leave the arcade zone immediately. Thank you for visiting."
-    ann "Attention ! Nous fermons dans 5 minutes. Tout le monde est prié de quitter la zone d'arcade immédiatement. Merci de votre visite."
+    ann "Votre attention, s'il vous plait ! Nous fermons dans 5 minutes. Tout le monde est prié de quitter la zone d'arcade au plus vite. Merci de votre visite."
 
 # game/v8/scene20.rpy:1241
 translate francais v8s20_nsfwSkipLabel1_8fdb075e:
 
     # em "Awww, too bad. Time to go home."
-    em "Ohhh, dommage. Il est temps de rentrer à la maison."
+    em "Oooh, dommage. C'est l'heure de rentrer à la maison."
 
 # game/v8/scene20.rpy:1245
 translate francais v8s20_nsfwSkipLabel1_2ae43ea4:
@@ -1276,7 +1276,7 @@ translate francais v8s20_nsfwSkipLabel1_2ae43ea4:
 translate francais v8s20_nsfwSkipLabel1_7ea29e84:
 
     # em "Sure you did. Come on. Walk me home."
-    em "Bien sûr que oui. Allez, viens. Raccompagne-moi chez moi."
+    em "Mais oui, mais oui. Allez, viens. Raccompagne-moi chez moi."
 
 # game/v8/scene20.rpy:1275
 translate francais v8s20_nsfwSkipLabel1_709aba89:
@@ -1288,13 +1288,13 @@ translate francais v8s20_nsfwSkipLabel1_709aba89:
 translate francais v8s20_nsfwSkipLabel1_eccca5d3:
 
     # u "And thanks for asking me to come out. This sure beat studying."
-    u "Et merci de m'avoir demandé de sortir. C'est mieux que d'étudier."
+    u "Et merci de m'avoir invité à sortir. C'est mieux que d'étudier."
 
 # game/v8/scene20.rpy:1283
 translate francais v8s20_nsfwSkipLabel1_d134fb4e:
 
     # em "Maybe we can do it again sometime."
-    em "Peut-être qu'on pourra le refaire un jour."
+    em "Peut-être qu'un jour, on pourra recommencer !?"
 
 # game/v8/scene20.rpy:1287
 translate francais v8s20_nsfwSkipLabel1_d4aba523:
@@ -1372,13 +1372,13 @@ translate francais em_arcade_3_cc201eb4:
 translate francais em_arcade_3_27d8e50b:
 
     # u "Not gonna make it easy for me, are you?"
-    u "Tu ne vas pas me rendre la tâche facile, n'est-ce pas ?"
+    u "T'as pas envie de me faciliter la tâche, hein ?"
 
 # game/v8/scene20.rpy:1394
 translate francais em_arcade_3_36c16371:
 
     # u "No way I coulda won that one."
-    u "Je n'aurais jamais pu gagner celui-là."
+    u "J'aurais jamais pu la gagner celle-là."
 
 # game/v8/scene20.rpy:1398
 translate francais em_arcade_3_b36bb524:
@@ -1390,13 +1390,13 @@ translate francais em_arcade_3_b36bb524:
 translate francais em_arcade_3_31e79d44:
 
     # u "That was just luck. I got the next one."
-    u "C'était juste de la chance. J'ai eu le suivant."
+    u "C'était juste de la chance. J'aurai le suivant."
 
 # game/v8/scene20.rpy:1406
 translate francais em_arcade_3_b1496549:
 
     # em "Maybe you'll have better luck if you go first next."
-    em "Peut-être que tu auras plus de chance si tu y vas en premier la prochaine fois."
+    em "Tu auras peut-être plus de chance si tu passes en premier."
 
 # game/v8/scene20.rpy:1410
 translate francais em_arcade_3_3989623c:
@@ -1408,25 +1408,25 @@ translate francais em_arcade_3_3989623c:
 translate francais em_arcade_3_221893a6:
 
     # em "Or not. If I didn't know any better, I'd think you were letting me win."
-    em "Ou pas. Si je ne te connaissais pas mieux, je penserais que tu me laisses gagner."
+    em "Ou pas... Si je ne te connaissais pas mieux, je penserais que tu me laisses gagner."
 
 # game/v8/scene20.rpy:1428
 translate francais em_arcade_3_a3f742f2:
 
     # u "How? Haha!"
-    u "Comment ? Haha !"
+    u "Mais non ! Haha !"
 
 # game/v8/scene20.rpy:1432
 translate francais em_arcade_3_7f327c15:
 
     # em "Step aside. Let me show you how it's done."
-    em "Met-toi de côté. Laisse-moi te montrer comment on fait."
+    em "Met-toi sur le côté. Laisse-moi te montrer comment on fait."
 
 # game/v8/scene20.rpy:1446
 translate francais em_arcade_3_ec27168f:
 
     # em "I'm so glad I invited you out!"
-    em "Je suis si heureuse de t'avoir invitée à sortir !"
+    em "Je suis vraiment contente de t'avoir invité à sortir !"
 
 # game/v8/scene20.rpy:1450
 translate francais em_arcade_3_02db3e98:
@@ -1450,7 +1450,7 @@ translate francais em_arcade_3_f775071b:
 translate francais em_arcade_3_3c5c2de8:
 
     # u "Oh, you're going down now. I have the magic touch with this game!"
-    u "Oh, tu vas perdre maintenant. J'ai la touche magique avec ce jeu !"
+    u "Oh, tu vas enfin perdre. J'ai la touche magique avec ce jeu !"
 
 # game/v8/scene20.rpy:1470
 translate francais em_arcade_3_8c7df5d5:
@@ -1504,7 +1504,7 @@ translate francais em_arcade_3_613183bf:
 translate francais em_arcade_3_b272eac8:
 
     # em "First person to get a stuffed animal is the ultimate winner."
-    em "La première personne à obtenir un animal en peluche est l'ultime gagnant."
+    em "Le premier à faire tomber un truc est l'ultime gagnant."
 
 # game/v8/scene20.rpy:1510
 translate francais em_arcade_3_b592843e:
@@ -1552,7 +1552,7 @@ translate francais em_arcade_3_9b700d30:
 translate francais em_arcade_3_74a6934c:
 
     # u "So close!"
-    u "C'est tout près."
+    u "C'est passé à ça...!"
 
 # game/v8/scene20.rpy:1543
 translate francais em_arcade_3_e4140240:
@@ -1570,7 +1570,7 @@ translate francais em_arcade_3_162123b6:
 translate francais em_arcade_3_22554d2e:
 
     # em "HOW?"
-    em "COMMENT ?"
+    em "COMMENT T'AS FAIT ?"
 
 # game/v8/scene20.rpy:1588
 translate francais em_arcade_3_86664b91:
@@ -1588,7 +1588,7 @@ translate francais em_arcade_3_306574bd:
 translate francais em_arcade_3_8fdb075e:
 
     # em "Awww, too bad. Time to go home."
-    em "Ohhh, dommage. Il est temps de rentrer à la maison."
+    em "Oooh, dommage. C'est l'heure de rentrer à la maison."
 
 # game/v8/scene20.rpy:1600
 translate francais em_arcade_3_2ae43ea4:
@@ -1600,7 +1600,7 @@ translate francais em_arcade_3_2ae43ea4:
 translate francais em_arcade_3_7ea29e84:
 
     # em "Sure you did. Come on. Walk me home."
-    em "Bien sûr que oui. Allez, viens. Raccompagne-moi chez moi."
+    em "Mais oui, mais oui. Allez, viens. Raccompagne-moi chez moi."
 
 # game/v8/scene20.rpy:1614
 translate francais em_arcade_3_4719ef48:

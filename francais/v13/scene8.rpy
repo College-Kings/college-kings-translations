@@ -100,13 +100,13 @@ translate francais v13s8_5e9286ce:
 translate francais v13s8_fda16e45:
 
     # u "*Sighs* I'm not going to sit here and say I didn't enjoy what we shared the other night."
-    u "*Soupirs* Je ne vais pas m'asseoir ici et dire que je n'ai pas apprécié ce que nous avons partagé l'autre soir."
+    u "*Soupirs* Je vais pas m'asseoir ici et dire que je n'ai pas apprécié ce que nous avons partagé l'autre soir."
 
 # game/v13/scene8.rpy:132
 translate francais v13s8_53f42f46:
 
     # u "I'm also not gonna act like I don't like you or have no feelings for you, but I do agree. We shouldn't have done what we did while you're in a relationship."
-    u "Je ne vais pas non plus faire comme si je ne t'aimais pas ou n'avais pas de sentiments pour toi, mais je suis d'accord. Nous n'aurions pas dû faire ce que nous avons fait alors que tu es en couple."
+    u "Je vais pas non plus faire comme si je t'aimais pas ou n'avais pas de sentiments pour toi, mais je suis d'accord. Nous n'aurions pas dû faire ce que nous avons fait alors que tu es en couple."
 
 # game/v13/scene8.rpy:140
 translate francais v13s8_e91eddb9:
@@ -118,7 +118,7 @@ translate francais v13s8_e91eddb9:
 translate francais v13s8_d5348ec1:
 
     # u "I understand not believing in cheating, so leave him then. You say that you know he's doing wrong by you, yet you're still wanting to do right by him and it's completely contradicting."
-    u "Je comprends que tu ne veuilles pas le tromper, alors quitte-le. Tu dis qu'il te fait du mal, mais tu veux quand même rester avec lui et qu'il soit bien, c'est complètement contradictoire."
+    u "Je comprends que tu veuilles pas le tromper, alors quitte-le. Tu dis qu'il te fait du mal, mais tu veux quand même rester avec lui et qu'il soit bien, c'est complètement contradictoire."
 
 # game/v13/scene8.rpy:150
 translate francais v13s8_f1b98ea6:
@@ -130,7 +130,7 @@ translate francais v13s8_f1b98ea6:
 translate francais v13s8_84def619:
 
     # u "I mean it when I say this, Nora. I'm not gonna walk around feeling bad for what we did. I didn't do it because I hate Chris, I did it because I really, really like you."
-    u "Je suis sérieux quand je dis ça, Nora. Je ne vais pas me sentir mal pour ce que nous avons fait. Je ne l'ai pas fait parce que je déteste Chris, je l'ai fait parce que je t'aime vraiment... Vraiment beaucoup."
+    u "Je suis sérieux quand je dis ça, Nora. Je vais pas me sentir mal pour ce que nous avons fait. Je l'ai pas fait parce que je déteste Chris, je l'ai fait parce que je t'aime vraiment... Vraiment beaucoup."
 
 # game/v13/scene8.rpy:160
 translate francais v13s8_d7ddc0e7:
@@ -172,7 +172,7 @@ translate francais v13s8_786be6bc:
 translate francais v13s8_b6a62e60:
 
     # u "I can give you that for right now, but please don't keep me in the dark too much longer."
-    u "Je peux faire ça pour l'instant, mais s'il te plaît, ne me laisse pas dans l'ignorance trop longtemps."
+    u "Je peux faire ça pour l'instant, mais s'il te plaît, me laisse pas dans l'ignorance trop longtemps."
 
 # game/v13/scene8.rpy:192
 translate francais v13s8_b9b2cdcd:
@@ -334,7 +334,7 @@ translate francais v13s8_d8226c0e:
 translate francais v13s8_f5d997b3:
 
     # u "I wouldn't go one way or the other just yet."
-    u "Je ne me prononcerais pas encore ni dans un sens ni dans l'autre."
+    u "Je me prononcerais pas encore ni dans un sens ni dans l'autre."
 
 # game/v13/scene8.rpy:332
 translate francais v13s8_1ff34b29:
@@ -358,7 +358,7 @@ translate francais v13s8_53d4357d:
 translate francais v13s8_0bdc94ad:
 
     # u "Wait, what? I didn't know that!"
-    u "Attends, quoi ? Je ne le savais pas !"
+    u "Attends, quoi ? Je le savais pas !"
 
 # game/v13/scene8.rpy:352
 translate francais v13s8_86a4aed5:
@@ -370,7 +370,7 @@ translate francais v13s8_86a4aed5:
 translate francais v13s8_e864635d:
 
     # u "I had no idea... Damn, a scholarship? Why does she have to be President though? She can't just be a member?"
-    u "Je n'en avais aucune idée... Merde, sa bourse d'études ? Pourquoi doit-elle être Présidente ? Elle ne peut pas juste être membre ?"
+    u "Je n'en avais aucune idée... Merde, sa bourse d'études ? Pourquoi doit-elle être Présidente ? Elle peut pas juste être membre ?"
 
 # game/v13/scene8.rpy:362
 translate francais v13s8_ae125356:
@@ -400,7 +400,7 @@ translate francais v13s8_6685c883:
 translate francais v13s8_20ba4975:
 
     # u "You're right, I wouldn't believe it. *Laughs*"
-    u "Tu as raison, je ne le croirais pas. *Rire*"
+    u "Tu as raison, je le croirais pas. *Rire*"
 
 # game/v13/scene8.rpy:387
 translate francais v13s8_d48389ad:

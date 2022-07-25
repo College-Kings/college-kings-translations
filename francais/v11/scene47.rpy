@@ -28,7 +28,7 @@ translate francais v11s47_PhoneContinueJenny_97b4ecf2:
 translate francais v11s47_PhoneContinueJenny_1da9fd43:
 
     # u "Hey man, look... Um. I know it's been a while since we last talked, but I just wanted to apologize for everything."
-    u "Hé mec, écoute... Hum. Je sais que ça fait un moment qu'on ne s'est pas parlé, mais je voulais juste m'excuser pour tout."
+    u "Hé mec, écoute... Hum. Je sais que ça fait un moment qu'on s'est pas parlé, mais je voulais juste m'excuser pour tout."
 
 # game/v11/scene47.rpy:70
 translate francais v11s47_PhoneContinueJenny_c558181c:
@@ -40,13 +40,13 @@ translate francais v11s47_PhoneContinueJenny_c558181c:
 translate francais v11s47_PhoneContinueJenny_f005d9bc:
 
     # u "You know... Since we last spoke I thought maybe, just maybe, I wasn't getting the \"bigger picture\"."
-    u "Tu sais... Depuis notre dernière conversation, j'ai pensé que peut-être, juste peut-être, je ne saisissais pas la \"vision d'ensemble\"."
+    u "Tu sais... Depuis notre dernière conversation, j'ai pensé que peut-être, juste peut-être, je saisissais pas la \"vision d'ensemble\"."
 
 # game/v11/scene47.rpy:81
 translate francais v11s47_PhoneContinueJenny_c4b01a7f:
 
     # u "But the truth is, after speaking with MY friends, I know damn well I'm not a bad person like you try to make me out to be. You're just a stuck up asshole that doesn't know how to mind his own business."
-    u "Mais la vérité, c'est qu'après avoir parlé avec MES amis, je sais très bien que je ne suis pas une mauvaise personne comme tu essaies de le faire croire. Tu es juste un connard coincé qui ne sait pas s'occuper de ses affaires."
+    u "Mais la vérité, c'est qu'après avoir parlé avec MES amis, je sais très bien que je suis pas une mauvaise personne comme tu essaies de le faire croire. Tu es juste un connard coincé qui sait pas s'occuper de ses affaires."
 
 # game/v11/scene47.rpy:86
 translate francais v11s47_PhoneContinueJenny_55119281:

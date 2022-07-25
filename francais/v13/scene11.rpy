@@ -154,7 +154,7 @@ translate francais v13_push_ryan_a9e179f3:
 translate francais v13_imre_continue_ccae6eb5:
 
     # u "Okay, look... Try not to take this in a weird way, but yeah, we were following you."
-    u "Ok, écoutes... Essaie de ne pas le prendre mal, mais oui, on te suivait."
+    u "Ok, écoutes... Essaie de pas le prendre mal, mais oui, on te suivait."
 
 # game/v13/scene11.rpy:196
 translate francais v13_imre_continue_e4ddf531:
@@ -178,7 +178,7 @@ translate francais v13_imre_continue_c1e67656:
 translate francais v13_imre_continue_22f39854:
 
     # u "Haha, I couldn't care less about that. We care about you, dude. You deserve a good date. But, we don't think this date is gonna be anything like what you're expecting it'll be."
-    u "Haha, je ne pourrais pas me préoccuper moins de ça. On se fait du souci pour toi, mec. Tu mérites un bon rencard. Mais, on ne pense pas que celui-ci sera comme tu l'imagines."
+    u "Haha, je pourrais pas me préoccuper moins de ça. On se fait du souci pour toi, mec. Tu mérites un bon rencard. Mais, on pense pas que celui-ci sera comme tu l'imagines."
 
 # game/v13/scene11.rpy:216
 translate francais v13_imre_continue_c664a161:
@@ -190,7 +190,7 @@ translate francais v13_imre_continue_c664a161:
 translate francais v13_imre_continue_ffccee83:
 
     # u "I'm not saying I do or don't believe it's a catfish, but what's the harm in us checking it out? Or at least sticking around in case it ends badly?"
-    u "Je ne dis pas que je crois ou ne crois pas que c'est un catfish, mais où est le mal si on vérifie ? Ou si on reste dans le coin au cas où ça finirait mal ?"
+    u "Je dis pas que je crois ou crois pas que c'est un catfish, mais où est le mal si on vérifie ? Ou si on reste dans le coin au cas où ça finirait mal ?"
 
 # game/v13/scene11.rpy:226
 translate francais v13_imre_continue_2c801063:
@@ -346,7 +346,7 @@ translate francais v13_imre_continue_8b263ff8:
 translate francais v13_imre_continue_2600aad4:
 
     # u "(This isn't gonna be good.)"
-    u "(Ça ne va pas être bon.)"
+    u "(Ça va pas être bon.)"
 
 # game/v13/scene11.rpy:394
 translate francais v13_imre_continue_2a5fd4ed:
@@ -514,7 +514,7 @@ translate francais v13_imre_continue_c58461ea:
 translate francais v13_imre_continue_7816f7e7:
 
     # u "For sure. I don't see why not."
-    u "Bien sûr. Je ne vois pas de raisons de ne pas en profiter."
+    u "Bien sûr. Je vois pas de raisons de pas en profiter."
 
 # game/v13/scene11.rpy:562
 translate francais v13_imre_continue_5de04169:
@@ -574,7 +574,7 @@ translate francais v13_imre_continue_ef228979:
 translate francais v13_imre_continue_7aefacc6:
 
     # u "Look, man... I'm really sorry about what went down. You didn't deserve any of it."
-    u "Ecoute, mec... Je suis vraiment désolé de ce qui s'est passé. Tu ne le méritais pas."
+    u "Ecoute, mec... Je suis vraiment désolé de ce qui s'est passé. Tu le méritais pas."
 
 # game/v13/scene11.rpy:642
 translate francais v13_imre_continue_69b7f921:
@@ -586,7 +586,7 @@ translate francais v13_imre_continue_69b7f921:
 translate francais v13_imre_continue_dee69f24:
 
     # u "(I'm not getting involved in it.)"
-    u "(Je ne me mêle pas de ça.)"
+    u "(Je me mêle pas de ça.)"
 
 # game/v13/scene11.rpy:660
 translate francais v13_imre_continue_132e8e3c:
@@ -604,7 +604,7 @@ translate francais v13_imre_continue_bf3885c7:
 translate francais v13_imre_continue_91f241d1:
 
     # u "*Sighs* Don't say I never tried."
-    u "*Soupirs* Ne dis pas que je n'ai pas essayé."
+    u "*Soupirs* Dis pas que je n'ai pas essayé."
 
 # game/v13/scene11.rpy:675
 translate francais v13_imre_continue_d35db03d:

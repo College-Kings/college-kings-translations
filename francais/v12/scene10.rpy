@@ -10,7 +10,7 @@ translate francais v12_amber_bus_b2581951:
 translate francais v12_amber_bus_9034dc1b:
 
     # u "Well, you can't just not tell me now. I know you wanted to talk about something and now I'm assuming it's important. What's up?"
-    u "Eh bien, tu ne peux pas simplement ne rien oser dire. Je sais que tu voulais parler de quelque chose et maintenant je devine que c'est important. Qu'est-ce qu'il y a ?"
+    u "Eh bien, tu peux pas simplement rien oser dire. Je sais que tu voulais parler de quelque chose et maintenant je devine que c'est important. Qu'est-ce qu'il y a ?"
 
 # game/v12/scene10.rpy:38
 translate francais v12_amber_bus_093f58f8:
@@ -28,7 +28,7 @@ translate francais v12_amber_bus_75ef67a8:
 translate francais v12_amber_bus_e6eca2be:
 
     # am "Whatever you did it probably wouldn't get me to say anything, but get you beat up instead. *Chuckles*"
-    am "Quoi que tu fasses, je ne dirais probablement rien, et à la place, tu te feras tabasser. *Rire*"
+    am "Quoi que tu fasses, je dirais probablement rien, et à la place, tu te feras tabasser. *Rire*"
 
 # game/v12/scene10.rpy:60
 translate francais v12_amber_bus_053202c9:
@@ -40,7 +40,7 @@ translate francais v12_amber_bus_053202c9:
 translate francais v12_amber_bus_9afee920:
 
     # u "Maybe it's worth just getting it off your chest. Unless you'd rather go back and talk to one of your skateboards instead."
-    u "Peut-être que ça vaut la peine de faire sortir ça de ta tête. A moins que tu ne préfères retourner parler à l'un de tes skateurs à la place."
+    u "Peut-être que ça vaut la peine de faire sortir ça de ta tête. A moins que tu préfères retourner parler à l'un de tes skateurs à la place."
 
 # game/v12/scene10.rpy:72
 translate francais v12_amber_bus_77e104d8:
@@ -112,7 +112,7 @@ translate francais v12_amber_bus_f9f951ca:
 translate francais v12_amber_bus_363b2ca7:
 
     # u "Yep, I'm not seeing the problem yet."
-    u "Yep, je ne vois toujours pas où est le problème."
+    u "Yep, je vois toujours pas où est le problème."
 
 # game/v12/scene10.rpy:132
 translate francais v12_amber_bus_b264eb87:
@@ -148,7 +148,7 @@ translate francais v12_amber_bus_6e64694f:
 translate francais v12_amber_bus_5ac0a375:
 
     # u "Oh, now I'm getting it. You don't wanna be her teacher."
-    u "Oh, maintenant je comprends. Tu ne veux pas être son professeur."
+    u "Oh, maintenant je comprends. Tu veux pas être son professeur."
 
 # game/v12/scene10.rpy:162
 translate francais v12_amber_bus_e684942f:
@@ -160,13 +160,13 @@ translate francais v12_amber_bus_e684942f:
 translate francais v12_amber_bus_9b8ac141:
 
     # am "I just wanna have fun. I just don't think we're a good match, you know? On the ferry we talked about it a little bit, but got interrupted by Mr. Lee."
-    am "Je veux juste m'amuser. Je ne pense pas que nous soyons compatibles, tu vois ? Sur le ferry, on en a parlé un peu, mais on a été interrompu par Mr Lee."
+    am "Je veux juste m'amuser. Je pense pas que nous soyons compatibles, tu vois ? Sur le ferry, on en a parlé un peu, mais on a été interrompu par Mr Lee."
 
 # game/v12/scene10.rpy:165
 translate francais v12_amber_bus_be71f740:
 
     # am "So I didn't really get to fully explain and I think she may be upset."
-    am "Je n'ai pas vraiment pu lui expliquer et je crains qu'elle ne soit contrariée."
+    am "Je n'ai pas vraiment pu lui expliquer et je crains qu'elle soit contrariée."
 
 # game/v12/scene10.rpy:170
 translate francais v12_amber_bus_6b65062a:
@@ -190,13 +190,13 @@ translate francais v12_amber_bus_925714fd:
 translate francais v12_amber_bus_f4e31c1e:
 
     # am "I don't know if I am, I may just leave it as it is."
-    am "Je ne sais pas si je suis prête, je vais peut-être laisser la situation telle quelle."
+    am "Je sais pas si je suis prête, je vais peut-être laisser la situation telle quelle."
 
 # game/v12/scene10.rpy:192
 translate francais v12_amber_bus_7b06b9be:
 
     # u "It's all your decision, I don't wanna sway you either way. It's gotta be your choice."
-    u "C'est ta décision, je ne veux pas te faire pencher d'un côté ou de l'autre. C'est à toi de choisir."
+    u "C'est ta décision, je veux pas te faire pencher d'un côté ou de l'autre. C'est à toi de choisir."
 
 # game/v12/scene10.rpy:197
 translate francais v12_amber_bus_dd2d4234:
@@ -232,7 +232,7 @@ translate francais v12_amber_bus_105aaf96:
 translate francais v12_amber_bus_7a88d94e:
 
     # am "And if she doesn't respond well or I hurt her feelings?"
-    am "Et si elle ne répond pas correctement ou si je la blesse ?"
+    am "Et si elle répond pas correctement ou si je la blesse ?"
 
 # game/v12/scene10.rpy:228
 translate francais v12_amber_bus_a56fb8dc:
@@ -268,7 +268,7 @@ translate francais v12_amber_bus_beeb9bbf:
 translate francais v12_amber_bus_c3856155:
 
     # am "If that was the case, how would you know anything about me? You can't read."
-    am "Si c'était le cas, comment saurais-tu quoi que ce soit sur moi ? Tu ne sais pas lire."
+    am "Si c'était le cas, comment saurais-tu quoi que ce soit sur moi ? Tu sais pas lire."
 
 # game/v12/scene10.rpy:258
 translate francais v12_amber_bus_ea56f5b2:
@@ -280,7 +280,7 @@ translate francais v12_amber_bus_ea56f5b2:
 translate francais v12_amber_bus_707dcbae:
 
     # am "Never a reason not to."
-    am "Je ne vois aucune raison de ne pas le faire."
+    am "Je vois aucune raison de pas le faire."
 
 # game/v12/scene10.rpy:268
 translate francais v12_amber_bus_73d483ce:
@@ -298,7 +298,7 @@ translate francais v12_amber_bus_780537f7:
 translate francais v12_amber_bus_cc7e7897:
 
     # u "Having a heart to heart conversation with you, I just never would've expected that."
-    u "Avoir une conversation à cœur ouvert avec toi, je ne m'y attendais vraiment pas."
+    u "Avoir une conversation à cœur ouvert avec toi, je m'y attendais vraiment pas."
 
 # game/v12/scene10.rpy:283
 translate francais v12_amber_bus_6aef9a90:
@@ -352,7 +352,7 @@ translate francais v12_amber_bus_31c69529:
 translate francais v12_amber_bus_ebdd18bc:
 
     # am "What makes you think I can't?"
-    am "Qu'est-ce qui te fait penser que je ne peux pas ?"
+    am "Qu'est-ce qui te fait penser que je peux pas ?"
 
 # game/v12/scene10.rpy:328
 translate francais v12_amber_bus_30aad37a:
@@ -382,7 +382,7 @@ translate francais v12_amber_bus_cb9d3fee:
 translate francais v12_amber_bus_508965fb:
 
     # u "No you didn't. *Laughs* It's \"lant\" not \"lint\". You kept saying lint so I knew you'd spell it wrong. *Laughs*"
-    u "Non, tu ne l'as pas bien fait. *Rire* C'est \"lante\" et non \"lande\". Tu n'arrêtais pas de dire \"lande\" alors je savais que tu l'épellerais mal. *Rire*"
+    u "Non, tu l'as pas bien fait. *Rire* C'est \"lante\" et non \"lande\". Tu n'arrêtais pas de dire \"lande\" alors je savais que tu l'épellerais mal. *Rire*"
 
 # game/v12/scene10.rpy:353
 translate francais v12_amber_bus_21fcae7c:
@@ -430,7 +430,7 @@ translate francais v12_amber_bus_c62821ba:
 translate francais v12_amber_bus_4bee62f1:
 
     # am "Okay fine, maybe I am wrong, it's not my fault people around me don't know how to talk."
-    am "Bon, d'accord, peut-être que j'ai tort, ce n'est pas ma faute si les gens autour de moi ne savent pas parler."
+    am "Bon, d'accord, peut-être que j'ai tort, ce n'est pas ma faute si les gens autour de moi savent pas parler."
 
 # game/v12/scene10.rpy:393
 translate francais v12_amber_bus_e396879c:

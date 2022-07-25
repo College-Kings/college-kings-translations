@@ -52,7 +52,7 @@ translate francais v12_escape_room_2b373cb9:
 translate francais v12_escape_room_dc3de5ad:
 
     # u "Wait, what? I didn't know that."
-    u "Attends, quoi ? Je ne le savais pas."
+    u "Attends, quoi ? Je le savais pas."
 
 # game/v12/scene17.rpy:58
 translate francais v12_escape_room_ef0af021:
@@ -658,7 +658,7 @@ translate francais v12_escape_room_19bf8d62:
 translate francais v12_escape_room_158329c3:
 
     # u "We can't do anything. *Laughs*"
-    u "On ne peut rien faire. *Rire*"
+    u "On peut rien faire. *Rire*"
 
 # game/v12/scene17.rpy:603
 translate francais v12_escape_room_8828f891:
@@ -892,7 +892,7 @@ translate francais v12_escape_room_9f45b6d0:
 translate francais v12_escape_room_f844fc51:
 
     # u "Uhh yeah, probably not."
-    u "Euhh ouais, je ne pense pas."
+    u "Euhh ouais, je pense pas."
 
 # game/v12/scene17.rpy:821
 translate francais v12_escape_room_437df2c7:
@@ -910,7 +910,7 @@ translate francais v12_escape_room_ab28b725:
 translate francais v12_escape_room_8925c2da:
 
     # u "We definitely shouldn't do this."
-    u "On ne devrait vraiment pas faire ça."
+    u "On devrait vraiment pas faire ça."
 
 # game/v12/scene17.rpy:852
 translate francais v12_escape_room_75d054e9:
@@ -952,7 +952,7 @@ translate francais v12_lindsey_kiss_or_not_3fe7b85f:
 translate francais v12_lindsey_kiss_or_not_16f048f2:
 
     # u "Yeah, I don't think anyone really wants that title."
-    u "Ouais, je ne pense pas que quelqu'un veuille vraiment ce titre."
+    u "Ouais, je pense pas que quelqu'un veuille vraiment ce titre."
 
 # game/v12/scene17.rpy:937
 translate francais v12_lindsey_sex_96e9d3e6:
@@ -1156,7 +1156,7 @@ translate francais v12s17_lindsey_sixty_nine_8ea1fe76:
 translate francais v12s17_nsfwSkipLabel1_00a883d0:
 
     # u "What can I say, you deserve nothing but the best. *Chuckles*"
-    u "Qu'est-ce que je peux dire, tu ne mérites que le meilleur. *Rire*"
+    u "Qu'est-ce que je peux dire, tu mérites que le meilleur. *Rire*"
 
 # game/v12/scene17.rpy:1216
 translate francais v12s17_nsfwSkipLabel1_837be94f:
@@ -1330,7 +1330,7 @@ translate francais v12_after_sex_f153aa4f:
 translate francais v12_after_sex_5e0509bf:
 
     # u "Nothing's happening..."
-    u "Rien ne se passe..."
+    u "Rien se passe..."
 
 # game/v12/scene17.rpy:1403
 translate francais v12_after_sex_7a15308c:

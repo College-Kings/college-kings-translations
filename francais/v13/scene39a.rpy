@@ -70,13 +70,13 @@ translate francais v13s39a_7ce69f60:
 translate francais v13s39a_740dd1ee:
 
     # u "I definitely wouldn't want to bring my girl."
-    u "Je ne voudrais surtout pas amener ma petite amie."
+    u "Je voudrais surtout pas amener ma petite amie."
 
 # game/v13/scene39a.rpy:92
 translate francais v13s39a_740dd1ee_1:
 
     # u "I definitely wouldn't want to bring my girl."
-    u "Je ne voudrais surtout pas amener ma petite amie."
+    u "Je voudrais surtout pas amener ma petite amie."
 
 # game/v13/scene39a.rpy:97
 translate francais v13s39a_b07ae812:
@@ -190,7 +190,7 @@ translate francais v13s39a_be9d0161:
 translate francais v13s39a_35b0c9d1:
 
     # u "Sure man, I guess I don't see what's so bad about it."
-    u "Bien sûr mec, je ne vois pas ce qu'il y a de mal à ça."
+    u "Bien sûr mec, je vois pas ce qu'il y a de mal à ça."
 
 # game/v13/scene39a.rpy:248
 translate francais v13s39a_da45ce22:
@@ -202,7 +202,7 @@ translate francais v13s39a_da45ce22:
 translate francais v13s39a_5429a564:
 
     # u "Yeah, I don't see why not."
-    u "Oui, je ne vois pas pourquoi pas."
+    u "Oui, je vois pas pourquoi pas."
 
 # game/v13/scene39a.rpy:258
 translate francais v13s39a_6d728b3a:
@@ -220,7 +220,7 @@ translate francais v13s39a_164a16ae:
 translate francais v13s39a_c6e768b2:
 
     # u "Sorry man, but no. I'm not trying to throw myself in the fire like that."
-    u "Désolé mec, mais non. Je ne veux pas me jeter au feu comme ça."
+    u "Désolé mec, mais non. Je veux pas me jeter au feu comme ça."
 
 # game/v13/scene39a.rpy:274
 translate francais v13s39a_9dfc7b1d:
@@ -256,7 +256,7 @@ translate francais v13s39a_8c67d5c5:
 translate francais v13s39a_dee70490:
 
     # u "(I don't really know what to do...)"
-    u "(Je ne sais vraiment pas quoi faire...)"
+    u "(Je sais vraiment pas quoi faire...)"
 
 # game/v13/scene39a.rpy:309
 translate francais v13s39a_d653b00c:
@@ -358,7 +358,7 @@ translate francais v13s39a_cd6df897:
 translate francais v13s39a_4dde9574:
 
     # u "But, I'm not really a sports car fan."
-    u "Mais, je ne suis pas vraiment fan de voitures de sport."
+    u "Mais, je suis pas vraiment fan de voitures de sport."
 
 # game/v13/scene39a.rpy:408
 translate francais v13s39a_68e8758f:
@@ -376,7 +376,7 @@ translate francais v13s39a_8569c4fa:
 translate francais v13s39a_ee4c89a8:
 
     # u "Can't go wrong with a good sports car."
-    u "On ne peut pas se tromper avec une bonne voiture de sport."
+    u "On peut pas se tromper avec une bonne voiture de sport."
 
 # game/v13/scene39a.rpy:424
 translate francais v13s39a_80d7f8b0:

@@ -184,13 +184,13 @@ translate francais v13s37_nora_87cec5b7:
 translate francais v13s37_nora_7311b392:
 
     # u "You're not so sure about everything like you used to be, and Chris is a good actor, but you can't fool the people who truly pay attention."
-    u "Tu n'es plus aussi sûre de tout qu'avant, et Chris est un bon acteur, mais tu ne peux pas duper ceux qui font vraiment attention à toi."
+    u "Tu n'es plus aussi sûre de tout qu'avant, et Chris est un bon acteur, mais tu peux pas duper ceux qui font vraiment attention à toi."
 
 # game/v13/scene37.rpy:187
 translate francais v13s37_nora_021dcc62:
 
     # u "He's acting as if everything that happened didn't happen and he's acting like he doesn't notice the tension."
-    u "Il fait comme si tout ce qui s'était passé n'était jamais arrivé et il fait comme s'il ne remarquait pas la tension qui règne en toi."
+    u "Il fait comme si tout ce qui s'était passé n'était jamais arrivé et il fait comme s'il remarquait pas la tension qui règne en toi."
 
 # game/v13/scene37.rpy:192
 translate francais v13s37_nora_6bb2d893:
@@ -226,7 +226,7 @@ translate francais v13s37_nora_3982c068:
 translate francais v13s37_nora_a0b67155:
 
     # u "Am I not that kind of someone?"
-    u "Je ne suis pas cette personne ?"
+    u "Je suis pas cette personne ?"
 
 # game/v13/scene37.rpy:219
 translate francais v13s37_nora_db6c67e1:
@@ -244,7 +244,7 @@ translate francais v13s37_nora_1321c37b:
 translate francais v13s37_nora_40cd2d32:
 
     # u "I don't think you've ever said much to me about your family, what's your stepmom like?"
-    u "Je crois que tu ne m'as jamais beaucoup parlé de ta famille, comment est ta belle-mère ?"
+    u "Je crois que tu m'as jamais beaucoup parlé de ta famille, comment est ta belle-mère ?"
 
 # game/v13/scene37.rpy:235
 translate francais v13s37_nora_926924fb:
@@ -280,7 +280,7 @@ translate francais v13s37_nora_06ce325e:
 translate francais v13s37_nora_41670302:
 
     # u "That's a lot to process. I won't harp on it right now though."
-    u "C'est beaucoup à encaisser. Mais je ne vais pas insister sur ce point pour l'instant."
+    u "C'est beaucoup à encaisser. Mais je vais pas insister sur ce point pour l'instant."
 
 # game/v13/scene37.rpy:262
 translate francais v13s37_nora_4d8be1be:
@@ -292,7 +292,7 @@ translate francais v13s37_nora_4d8be1be:
 translate francais v13s37_nora_7191d349:
 
     # u "*Sighs* I'm gonna sit here and act like this situation doesn't bother me."
-    u "*Soupirs* Je vais m'asseoir ici et faire comme si cette situation ne me gênait pas."
+    u "*Soupirs* Je vais m'asseoir ici et faire comme si cette situation me gênait pas."
 
 # game/v13/scene37.rpy:277
 translate francais v13s37_nora_d2a175ee:
@@ -424,7 +424,7 @@ translate francais v13s37_nora_f81cc2ef:
 translate francais v13s37_nora_2a7fe411:
 
     # imre "So, you want me to act like this just didn't happen? I can't do that shit."
-    imre "Donc, tu veux que j'fasse comme si rien ne s'était passé ? J'peux pas faire ce genre de conneries."
+    imre "Donc, tu veux que j'fasse comme si rien s'était passé ? J'peux pas faire ce genre de conneries."
 
 # game/v13/scene37.rpy:439
 translate francais v13s37_nora_18b8f340:
@@ -802,7 +802,7 @@ translate francais v13s37_chris_874a2d5c:
 translate francais v13s37_chris_d8c42da5:
 
     # u "Well, I'm not gonna act like I'm a professional in your relationship and challenge what you believe."
-    u "Je ne vais pas agir comme si j'étais un spécialiste de votre relation et contester ce que tu crois."
+    u "Je vais pas agir comme si j'étais un spécialiste de votre relation et contester ce que tu crois."
 
 # game/v13/scene37.rpy:799
 translate francais v13s37_chris_1a387407:
@@ -910,7 +910,7 @@ translate francais v13s37_end_2cb84457:
 translate francais v13s37_end_81ab9eef:
 
     # u "Yeah, sometimes things aren't as they seem, though."
-    u "Oui, parfois les choses ne sont pas ce qu'elles semblent être."
+    u "Oui, parfois les choses sont pas ce qu'elles semblent être."
 
 # game/v13/scene37.rpy:904
 translate francais v13s37_end_367c1442:
@@ -964,7 +964,7 @@ translate francais v13s37_end_327bbdee:
 translate francais v13s37_end_83b269b1:
 
     # u "I wouldn't either, haha. I'll have to look into this ferris wheel and get back to you..."
-    u "Je ne le ferais pas non plus, haha. Je vais devoir examiner cette grande roue et revenir vers toi..."
+    u "Je le ferais pas non plus, haha. Je vais devoir examiner cette grande roue et revenir vers toi..."
 
 # game/v13/scene37.rpy:950
 translate francais v13s37_end_75811464:

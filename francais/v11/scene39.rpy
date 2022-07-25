@@ -76,7 +76,7 @@ translate francais v11_mc_amber_gokart_f028f259:
 translate francais v11_mc_amber_gokart_905fec5f:
 
     # am "Haha, yeah. I won't be losing, but... yeah. *Chuckles*"
-    am "Haha, ouais. Je ne vais pas perdre, mais... ouais. *Rire*"
+    am "Haha, ouais. Je vais pas perdre, mais... ouais. *Rire*"
 
 # game/v11/scene39.rpy:79
 translate francais v11_mc_amber_gokart_fdea3892:
@@ -106,7 +106,7 @@ translate francais v11_mc_amber_gokart_ab9fc717:
 translate francais v11_mc_amber_gokart_a090f88d:
 
     # u "I can't remember... Maybe once when I was younger."
-    u "Je ne me souviens pas... Peut-être une fois quand j'étais plus jeune."
+    u "Je me souviens pas... Peut-être une fois quand j'étais plus jeune."
 
 # game/v11/scene39.rpy:109
 translate francais v11_mc_amber_gokart_f579762c:
@@ -232,7 +232,7 @@ translate francais v11_mc_amber_gokart_dc616b96:
 translate francais v11_mc_amber_gokart_45c589fa:
 
     # u "What's that supposed to mean? I've never chickened out of anything..."
-    u "Qu'est-ce que c'est censé vouloir dire ? Je ne me suis jamais dégonflé devant quoi que ce soit..."
+    u "Qu'est-ce que c'est censé vouloir dire ? Je me suis jamais dégonflé devant quoi que ce soit..."
 
 # game/v11/scene39.rpy:229
 translate francais v11_mc_amber_gokart_13a7a392:
@@ -256,25 +256,25 @@ translate francais v11_mc_amber_gokart_f7403cfc:
 translate francais v11_mc_amber_gokart_74567c89:
 
     # u "Come on, you definitely don't want that. *Chuckles* Wait, is it gonna be like a selfie or what?"
-    u "Allez, tu ne veux certainement pas ça. *Rire* Attends, tu veux faire un selfie ou quoi ?"
+    u "Allez, tu veux certainement pas ça. *Rire* Attends, tu veux faire un selfie ou quoi ?"
 
 # game/v11/scene39.rpy:249
 translate francais v11_mc_amber_gokart_3f799d60:
 
     # am "Haha, I hadn't even thought about that. How about when I win, I get to take the picture myself and I'll send it to you. That way if you don't post it, I will."
-    am "Haha, je n'avais même pas pensé à ça. Et si, quand je gagnerai, je prenais la photo moi-même et que je te l'envoyais ? Comme ça, si tu ne la postes pas, je le ferai."
+    am "Haha, je n'avais même pas pensé à ça. Et si, quand je gagnerai, je prenais la photo moi-même et que je te l'envoyais ? Comme ça, si tu la postes pas, je le ferai."
 
 # game/v11/scene39.rpy:254
 translate francais v11_mc_amber_gokart_9999012b:
 
     # u "Wow. This bet just got way more serious than I thought it'd be."
-    u "Wow. Ce pari est devenu bien plus sérieux que je ne le pensais."
+    u "Wow. Ce pari est devenu bien plus sérieux que je le pensais."
 
 # game/v11/scene39.rpy:259
 translate francais v11_mc_amber_gokart_03f2ef49:
 
     # am "If it wasn't a serious bet there'd be no point in having it. But don't worry, if I lose you get to take my picture too. Same rules for both of us."
-    am "Si ce n'était pas un pari sérieux, il n'y aurait aucun intérêt à le faire. Mais ne t'inquiète pas, si je perds, tu pourras aussi prendre ma photo. Les mêmes règles pour nous deux."
+    am "Si ce n'était pas un pari sérieux, il n'y aurait aucun intérêt à le faire. Mais t'inquiète pas, si je perds, tu pourras aussi prendre ma photo. Les mêmes règles pour nous deux."
 
 # game/v11/scene39.rpy:266
 translate francais v11_mc_amber_gokart_7b1c1392:
@@ -286,7 +286,7 @@ translate francais v11_mc_amber_gokart_7b1c1392:
 translate francais v11_mc_amber_gokart_1411a221:
 
     # am "Weren't expecting that, huh? *Chuckles*"
-    am "Tu ne t'attendais pas à ça, hein ? *Rire*"
+    am "Tu t'attendais pas à ça, hein ? *Rire*"
 
 # game/v11/scene39.rpy:276
 translate francais v11_mc_amber_gokart_89837817:
@@ -316,7 +316,7 @@ translate francais v11_mc_amber_gokart_90aef0a8:
 translate francais v11_mc_amber_gokart_711b1061:
 
     # u "You've seen yourself. How could I not be? *Chuckles*"
-    u "Tu t'es vue. Comment pourrais-je ne pas l'être ? *Rire*"
+    u "Tu t'es vue. Comment pourrais-je pas l'être ? *Rire*"
 
 # game/v11/scene39.rpy:304
 translate francais v11_mc_amber_gokart_dd62a7a1_1:
@@ -346,7 +346,7 @@ translate francais v11_mc_amber_gokart_ea8e4469:
 translate francais v11_mc_amber_gokart_d587b4e0:
 
     # am "N-no! You're alright dude, I don't think you're crazy."
-    am "N-non ! Tout va bien, mec, je ne pense pas que tu sois fou."
+    am "N-non ! Tout va bien, mec, je pense pas que tu sois fou."
 
 # game/v11/scene39.rpy:334
 translate francais v11_mc_amber_gokart_710286a2:
@@ -400,7 +400,7 @@ translate francais v11_mc_amber_gokart_3e478e9b:
 translate francais v11_mc_amber_gokart_67567b98:
 
     # u "(What the fuck is wrong with this guy?)"
-    u "(Qu'est-ce qui ne va pas chez ce type ?)"
+    u "(Qu'est-ce qui va pas chez ce type ?)"
 
 # game/v11/scene39.rpy:384
 translate francais v11_mc_amber_gokart_f6fdb91b:
@@ -430,7 +430,7 @@ translate francais v11_mc_amber_gokart_dd62a7a1_2:
 translate francais v11_mc_amber_gokart_b6078ee6:
 
     # am "Haha, we look like we're getting ready to rob a bank. I'm pretty sure we could if we really wanted to, especially here in another country, as students on a trip. No one would suspect us, you know that... right?"
-    am "Haha, on dirait qu'on se prépare à braquer une banque. Je suis presque sûre que nous pourrions le faire si nous le voulions vraiment, surtout ici, dans un autre pays, en tant qu'étudiants en voyage. Personne ne nous suspecterait, tu sais ça... pas vrai ?"
+    am "Haha, on dirait qu'on se prépare à braquer une banque. Je suis presque sûre que nous pourrions le faire si nous le voulions vraiment, surtout ici, dans un autre pays, en tant qu'étudiants en voyage. Personne nous suspecterait, tu sais ça... pas vrai ?"
 
 # game/v11/scene39.rpy:420
 translate francais v11_mc_amber_gokart_72e86c9d:
@@ -448,7 +448,7 @@ translate francais v11_mc_amber_gokart_512cc825:
 translate francais v11_mc_amber_gokart_c27d0b9c:
 
     # am "Sorry [name], but that's not gonna happen. It's way too risky visiting the person who takes the fall. Can't even do calls, actually. The most I can do is fake cry during any interviews."
-    am "Désolé [name], mais ça n'arrivera pas. C'est beaucoup trop risqué de rendre visite à la personne qui tombe. Je ne pourrais même pas appeler, en fait. Le mieux que je puisse faire est de faire semblant de pleurer pendant les interviews."
+    am "Désolé [name], mais ça n'arrivera pas. C'est beaucoup trop risqué de rendre visite à la personne qui tombe. Je pourrais même pas appeler, en fait. Le mieux que je puisse faire est de faire semblant de pleurer pendant les interviews."
 
 # game/v11/scene39.rpy:438
 translate francais v11_mc_amber_gokart_3ed5a48c:
@@ -460,7 +460,7 @@ translate francais v11_mc_amber_gokart_3ed5a48c:
 translate francais v11_mc_amber_gokart_45a1e536:
 
     # am "We all have to play a role, and if you can't play yours then unfortunately you and Riley will both be doing ten to twenty years in the slammer."
-    am "Nous devons tous jouer un rôle, et si tu ne peux pas jouer le tien, alors malheureusement toi et Riley ferez tous deux dix à vingt ans de prison."
+    am "Nous devons tous jouer un rôle, et si tu peux pas jouer le tien, alors malheureusement toi et Riley ferez tous deux dix à vingt ans de prison."
 
 # game/v11/scene39.rpy:448
 translate francais v11_mc_amber_gokart_fbc897d3:
@@ -484,7 +484,7 @@ translate francais v11_mc_amber_gokart_25ee0a06:
 translate francais v11_mc_amber_gokart_d72275e2:
 
     # am "\"Nice to meet you guys, my name's [name] and I didn't see myself going to prison, but I'm gonna do whatever I gotta do to make it.\""
-    am "\"Ravi de vous rencontrer, je m'appelle [name] et je ne me voyais pas aller en prison, mais je vais faire tout ce que je dois faire pour y arriver.\""
+    am "\"Ravi de vous rencontrer, je m'appelle [name] et je me voyais pas aller en prison, mais je vais faire tout ce que je dois faire pour y arriver.\""
 
 # game/v11/scene39.rpy:469
 translate francais v11_mc_amber_gokart_55340bef:
@@ -502,7 +502,7 @@ translate francais v11_mc_amber_gokart_ac02bbbb:
 translate francais v11_mc_amber_gokart_f644e50b:
 
     # am "\"No, but you finna take this meat meat.\""
-    am "\"Non, mais tu ne vas pas prendre cette viande.\""
+    am "\"Non, mais tu vas pas prendre cette viande.\""
 
 # game/v11/scene39.rpy:484
 translate francais v11_mc_amber_gokart_dc0d7a69:
@@ -550,7 +550,7 @@ translate francais v11_mc_amber_gokart_e346a8e2:
 translate francais v11_mc_amber_gokart_c8438edd:
 
     # am "Yeah [name], don't cheat. *Chuckles*"
-    am "Ouais [name], ne triche pas. *Rire*"
+    am "Ouais [name], triche pas. *Rire*"
 
 # game/v11/scene39.rpy:535
 translate francais v11_mc_amber_gokart_dc2903b8:
@@ -598,7 +598,7 @@ translate francais v11_mc_amber_gokart_36c197fd:
 translate francais v11_mc_amber_gokart_b44dc529:
 
     # am "Ugh, don't get cocky just yet, dickhead!"
-    am "Argh, ne fais pas le malin tout de suite, tête de noeud !"
+    am "Argh, fais pas le malin tout de suite, tête de noeud !"
 
 # game/v11/scene39.rpy:594
 translate francais v11_mc_amber_gokart_af811169:
@@ -670,7 +670,7 @@ translate francais v11_race_continue1_8511910a:
 translate francais v11_race_continue1_8d912472:
 
     # am "Distractions don't work on me, but nice try."
-    am "Les distractions ne marchent pas sur moi, mais bien essayé."
+    am "Les distractions marchent pas sur moi, mais bien essayé."
 
 # game/v11/scene39.rpy:678
 translate francais v11_race_continue1_b26fddd7:
@@ -706,13 +706,13 @@ translate francais v11_race_continue1_15aa8b49:
 translate francais v11_race_continue1_c701108a:
 
     # u "Wow, never took you for such a gullible person."
-    u "Wow, je ne t'aurais jamais pris pour une personne aussi crédule."
+    u "Wow, je t'aurais jamais pris pour une personne aussi crédule."
 
 # game/v11/scene39.rpy:720
 translate francais v11_race_continue1_26d918c3:
 
     # am "I'm not gullible, jackass."
-    am "Je ne suis pas crédule, crétin."
+    am "Je suis pas crédule, crétin."
 
 # game/v11/scene39.rpy:725
 translate francais v11_race_continue1_71a6b328:
@@ -826,7 +826,7 @@ translate francais v11_race_continue2_6516bd74:
 translate francais v11_race_continue2_063bace3:
 
     # am "*Chuckles* Don't make me laugh [name], I'm too busy winning."
-    am "*Rire* Ne me fais pas rire [name], je suis trop occupée à gagner."
+    am "*Rire* Me fais pas rire [name], je suis trop occupée à gagner."
 
 # game/v11/scene39.rpy:829
 translate francais v11_race_continue2_2a8003d5:
@@ -856,7 +856,7 @@ translate francais v11_race_continue2_bab77cff:
 translate francais v11_no_overtake3_ea7584aa:
 
     # u "(Nothing drastic, I shouldn't be taking risks right now.)"
-    u "(Rien de dramatique, je ne devrais pas prendre de risques en ce moment.)"
+    u "(Rien de dramatique, je devrais pas prendre de risques en ce moment.)"
 
 # game/v11/scene39.rpy:876
 translate francais v11_no_overtake3_06cda73b:
@@ -976,7 +976,7 @@ translate francais v11_race_continue3_9cde715d:
 translate francais v11_race_continue3_e01e82d2:
 
     # am "Look weirdo, thanks for letting us race, but don't ever call me babe again. Alright?"
-    am "Ecoute mec chelou, merci de nous avoir laissé faire la course, mais ne m'appelle plus jamais bébé. D'accord ?"
+    am "Ecoute mec chelou, merci de nous avoir laissé faire la course, mais m'appelle plus jamais bébé. D'accord ?"
 
 # game/v11/scene39.rpy:1017
 translate francais v11_race_continue3_9c5a8136:
@@ -1012,7 +1012,7 @@ translate francais v11_race_continue3_3b4179ed:
 translate francais v11_race_continue3_3598fcaa:
 
     # u "What's wrong?"
-    u "Qu'est-ce qui ne va pas ?"
+    u "Qu'est-ce qui va pas ?"
 
 # game/v11/scene39.rpy:1068
 translate francais v11_race_continue3_e5b5b9b6:
@@ -1036,7 +1036,7 @@ translate francais v11_race_continue3_72992908:
 translate francais v11_race_continue3_6f717149:
 
     # am "Look, pal. I'm not some dumb bitch that you can talk to however you want, I will fuck your ass up if I have to."
-    am "Ecoute, mon pote. Je ne suis pas une salope à qui tu peux parler comme tu veux, je te botterai le cul s'il le faut."
+    am "Ecoute, mon pote. Je suis pas une salope à qui tu peux parler comme tu veux, je te botterai le cul s'il le faut."
 
 # game/v11/scene39.rpy:1096
 translate francais v11_race_continue3_8be5b61a:
@@ -1054,7 +1054,7 @@ translate francais v11_race_continue3_4f55df0b:
 translate francais v11_race_continue3_b92903c8:
 
     # u "I can't lie, that was pretty fucking hot."
-    u "Je ne peux pas mentir, c'était plutôt chaud."
+    u "Je peux pas mentir, c'était plutôt chaud."
 
 # game/v11/scene39.rpy:1121
 translate francais v11_race_continue3_587d5e5b:
@@ -1066,7 +1066,7 @@ translate francais v11_race_continue3_587d5e5b:
 translate francais v11_race_continue3_e9ec6451:
 
     # u "He doesn't know what the fuck he's talking about, Amber. You know that."
-    u "Il ne sait pas de quoi il parle, Amber. Tu en a conscience."
+    u "Il sait pas de quoi il parle, Amber. Tu en a conscience."
 
 # game/v11/scene39.rpy:1131
 translate francais v11_race_continue3_72992908_1:
@@ -1084,7 +1084,7 @@ translate francais v11_race_continue3_48d94f29:
 translate francais v11_race_continue3_ef772a01:
 
     # u "You know what, if the job at Lew's doesn't work out, maybe you can work with our friend back there."
-    u "Tu sais quoi, si le boulot chez Lew ne marche pas, peut-être que tu peux travailler avec notre ami là-bas."
+    u "Tu sais quoi, si le boulot chez Lew marche pas, peut-être que tu peux travailler avec notre ami là-bas."
 
 # game/v11/scene39.rpy:1151
 translate francais v11_race_continue3_5672d6d5:
@@ -1108,7 +1108,7 @@ translate francais v11_race_continue3_fcc18885_1:
 translate francais v11_race_continue3_17087204:
 
     # u "Same. That was a lot more fun than I expected it to be, haha."
-    u "Pareil. C'était beaucoup plus amusant que je ne le pensais, haha."
+    u "Pareil. C'était beaucoup plus amusant que je le pensais, haha."
 
 # game/v11/scene39.rpy:1172
 translate francais v11_race_continue3_f03b5444:

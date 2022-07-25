@@ -34,7 +34,7 @@ translate francais v12_riley_lobby_efa0cbca:
 translate francais v12_riley_lobby_acabee0f:
 
     # u "I don't know what happened, or who did it, but it wasn't me."
-    u "Je ne sais pas ce qui s'est passé, ni qui l'a fait, mais ce n'était pas moi."
+    u "Je sais pas ce qui s'est passé, ni qui l'a fait, mais ce n'était pas moi."
 
 # game/v12/scene28.rpy:47
 translate francais v12_riley_lobby_21bf17ad:
@@ -88,4 +88,4 @@ translate francais v12_riley_lobby_82d8373b:
 translate francais v12_riley_lobby_fe56a30b:
 
     # u "(Charli. That motherfucker. I wouldn't be surprised if it was him, but at the same time I'd be absolutely amazed.)"
-    u "(Charli ! L'enfoiré ! Je ne serais pas surpris si c'était lui qui avait fait ça, mais d'un autre côté, je serais vraiment sidéré qu'il ait été jusque là.)"
+    u "(Charli ! L'enfoiré ! Je serais pas surpris si c'était lui qui avait fait ça, mais d'un autre côté, je serais vraiment sidéré qu'il ait été jusque là.)"

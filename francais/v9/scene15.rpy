@@ -52,7 +52,7 @@ translate francais v9_thur_room_w_cam_punch_532b9bac:
 translate francais v9_thur_room_w_cam_brag_50a3a8d1:
 
     # u "Shit! Didn't know it was caught on camera, but the guy deserved it."
-    u "Merde ! Je ne savais pas que ça avait été filmé, mais le gars le méritait."
+    u "Merde ! Je savais pas que ça avait été filmé, mais le gars le méritait."
 
 # game/v9/scene15.rpy:80
 translate francais v9_thur_room_w_cam_brag_e2a1512e:
@@ -142,7 +142,7 @@ translate francais v9_thur_room_w_cam_cont1_fc66f20d:
 translate francais v9_thur_room_w_cam_cont1_6345c97d:
 
     # u "I didn't do it on purpose. It just happened, but yeah, won't hurt."
-    u "Je ne l'ai pas fait exprès. C'est arrivé comme ça. Mais ouais, j'ai plutôt bien géré."
+    u "Je l'ai pas fait exprès. C'est arrivé comme ça. Mais ouais, j'ai plutôt bien géré."
 
 # game/v9/scene15.rpy:151
 translate francais v9_thur_room_w_cam_cont1_32464462:
@@ -178,7 +178,7 @@ translate francais v9_thur_room_w_cam_drink_b6b188d1:
 translate francais v9_thur_room_w_cam_no_drink_6f3aa963:
 
     # u "I don't think we should."
-    u "Je ne crois pas qu'on devrait."
+    u "Je crois pas qu'on devrait."
 
 # game/v9/scene15.rpy:188
 translate francais v9_thur_room_w_cam_no_drink_ec790efa:
@@ -328,7 +328,7 @@ translate francais v9_thur_room_w_cam_defensive_44243cbf:
 translate francais v9_thur_room_w_cam_defensive_ff73788a:
 
     # ca "How can we count on you this weekend if you can't handle one fucking guy?"
-    ca "Comment peut-on compter sur toi ce week-end si tu ne peux pas gérer un seul mec ?"
+    ca "Comment peut-on compter sur toi ce week-end si tu peux pas gérer un seul mec ?"
 
 # game/v9/scene15.rpy:316
 translate francais v9_thur_room_w_cam_defensive_c8fd4913:
@@ -358,7 +358,7 @@ translate francais v9_thur_room_w_cam_protest_d7472fd7:
 translate francais v9_thur_room_w_cam_protest_c15cba37:
 
     # sa "I won't shut up until I know for sure. You helped me when I needed it. Let me return the favor."
-    sa "Je ne me tairai pas tant que je ne serai pas sûre. Tu m'as aidé quand j'en avais besoin. Laisse-moi te rendre la pareille."
+    sa "Je me tairai pas tant que je serai pas sûre. Tu m'as aidé quand j'en avais besoin. Laisse-moi te rendre la pareille."
 
 # game/v9/scene15.rpy:352
 translate francais v9_thur_room_w_cam_follow_ef2f3261:
@@ -412,7 +412,7 @@ translate francais v9_thur_room_w_cam_cont4_e4a3e1e4:
 translate francais v9_thur_room_w_cam_cont4_c31bde94:
 
     # u "Good, I've had more than enough of you. Why don't you leave so me and your sister can get better acquainted?"
-    u "Bon, j'en ai plus qu'assez de toi. Pourquoi tu ne pars pas pour que ta sœur et moi puissions mieux nous connaître ?"
+    u "Bon, j'en ai plus qu'assez de toi. Pourquoi tu pars pas pour que ta sœur et moi puissions mieux nous connaître ?"
 
 # game/v9/scene15.rpy:394
 translate francais v9_thur_room_w_cam_cont4_ea3806c4:

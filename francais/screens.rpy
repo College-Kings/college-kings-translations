@@ -32,7 +32,7 @@ translate francais strings:
 
     # game/screens.rpy:434
     old "Settings"
-    new "Paramètres"
+    new "Options"
 
     # game/screens.rpy:436
     old "Menu"
@@ -343,3 +343,40 @@ translate francais strings:
     # game/screens.rpy:356
     old "Test Language"
     new "test des langues"
+
+    # game/screens.rpy:373
+    old "Scene Gallery"
+    new "Galerie des scènes"
+
+    # game/screens.rpy:407
+    old "Language"
+    new "Langue"
+
+    # game/screens.rpy:402
+    old "load"
+    new "charger"
+
+    # game/screens.rpy:636
+    old "We do our best to retain save integrity with every update, however due to the dynamic nature of game development some saves might break. If you experience any errors please let us know via the support channel on the College Kings Discord.\nYou can find a link to our Discord in the Main Menu."
+    new "Nous faisons de notre mieux pour conserver l'intégrité des sauvegardes à chaque mise à jour, mais en raison de la nature dynamique du développement du jeu, certaines sauvegardes peuvent se détériorer. Si vous rencontrez des erreurs, veuillez nous en informer via le canal d'assistance sur le Discord de College Kings.\nVous trouverez un lien vers notre Discord dans le menu principal."
+
+    # game/screens.rpy:816
+    old "Window"
+    new "Fenêtré"
+
+    # game/screens.rpy:826
+    old "Full Screen"
+    new "Plein écran"
+
+
+# TODO: Translation updated at 2022-07-01 04:03
+
+translate francais strings:
+
+    # game/screens.rpy:408
+    old "English"
+    new "English"
+
+    # game/screens.rpy:409
+    old "Francais"
+    new "Francais"

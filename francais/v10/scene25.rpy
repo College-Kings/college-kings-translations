@@ -148,7 +148,7 @@ translate francais v10_ms_rose_fight_97a7238d:
 translate francais v10_ms_rose_fight_af51599b:
 
     # u "I can't stand people like that."
-    u "Je ne supporte pas les gens comme ça."
+    u "Je supporte pas les gens comme ça."
 
 # game/v10/scene25.rpy:148
 translate francais v10_ms_rose_fight_44d980d2:

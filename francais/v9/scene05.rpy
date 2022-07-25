@@ -52,7 +52,7 @@ translate francais v9_phn_riley1_done_d5b584f7:
 translate francais v9_phn_riley1_done_73817a7a:
 
     # u "(But fuck it, I'm not gonna puss out. I can do this!)"
-    u "(Mais merde, je ne vais pas faire la mauviette. Je peux le faire !)"
+    u "(Mais merde, je vais pas faire la mauviette. Je peux le faire !)"
 
 # game/v9/scene05.rpy:80
 translate francais v9_phn_riley1_done_f1fa6283:
@@ -70,7 +70,7 @@ translate francais v9_phn_riley1_done_d5b584f7_1:
 translate francais v9_phn_riley1_done_73817a7a_1:
 
     # u "(But fuck it, I'm not gonna puss out. I can do this!)"
-    u "(Mais merde, je ne vais pas faire la mauviette. Je peux le faire !)"
+    u "(Mais merde, je vais pas faire la mauviette. Je peux le faire !)"
 
 # game/v9/scene05.rpy:94
 translate francais v9_phn_riley1_done_f1fa6283_1:

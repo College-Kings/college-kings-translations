@@ -16,7 +16,7 @@ translate francais v11_dinner_with_aubrey_680a37e0:
 translate francais v11_dinner_with_aubrey_b99b7a0a:
 
     # u "Haha, I know. I can't cook for shit either."
-    u "Haha, je comprends. Je ne sais pas cuisiner non plus."
+    u "Haha, je comprends. Je sais pas cuisiner non plus."
 
 # game/v11/scene46a.rpy:24
 translate francais v11_dinner_with_aubrey_fae54d95:
@@ -40,7 +40,7 @@ translate francais v11_dinner_with_aubrey_0aca0256:
 translate francais v11_dinner_with_aubrey_a50c874e:
 
     # u "Okay, I see where you're coming from now. *Chuckles* Not gonna lie though, and I don't know if I'm just now seeing it or if he's always been this way, but Mr. Lee is a really cool guy."
-    u "Ok, je vois où tu veux en venir maintenant. *Rire* Je ne vais pas te mentir, je ne sais pas si je viens juste de le découvrir ou s'il a toujours été comme ça, mais Mr Lee est un gars vraiment cool."
+    u "Ok, je vois où tu veux en venir maintenant. *Rire* Je vais pas te mentir, je sais pas si je viens juste de le découvrir ou s'il a toujours été comme ça, mais Mr Lee est un gars vraiment cool."
 
 # game/v11/scene46a.rpy:44
 translate francais v11_dinner_with_aubrey_ef4e8194:
@@ -274,7 +274,7 @@ translate francais v11_dinner_with_aubrey_fcc18885:
 translate francais v11_dinner_with_aubrey_6c2dae58:
 
     # u "I don't know exactly what you've heard, but I'm most certainly not the one that needs to apologize."
-    u "Je ne sais pas exactement ce que tu as entendu, mais je ne suis certainement pas celui qui doit s'excuser."
+    u "Je sais pas exactement ce que tu as entendu, mais je suis certainement pas celui qui doit s'excuser."
 
 # game/v11/scene46a.rpy:233
 translate francais v11_dinner_with_aubrey_76211a5c:
@@ -286,7 +286,7 @@ translate francais v11_dinner_with_aubrey_76211a5c:
 translate francais v11_dinner_with_aubrey_77955bae:
 
     # u "Well, it won't be me."
-    u "Eh bien, ça ne sera pas moi."
+    u "Eh bien, ça sera pas moi."
 
 # game/v11/scene46a.rpy:243
 translate francais v11_dinner_with_aubrey_bfc430c8:
@@ -460,7 +460,7 @@ translate francais v11_dinner_with_aubrey_a3c41af6:
 translate francais v11_dinner_with_aubrey_8f19957e:
 
     # u "Wow, you really can't stop thinking about Mr. Lee as your pimp, can you? *Laughs*"
-    u "Wow, tu ne peux vraiment pas t'empêcher de considérer Mr Lee comme ton mac, n'est-ce pas ? *Rire*"
+    u "Wow, tu peux vraiment pas t'empêcher de considérer Mr Lee comme ton mac, n'est-ce pas ? *Rire*"
 
 # game/v11/scene46a.rpy:389
 translate francais v11_dinner_with_aubrey_fc68fdfe:

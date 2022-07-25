@@ -10,7 +10,7 @@ translate francais v12_lindsey_lobby_bc5f4353:
 translate francais v12_lindsey_lobby_0a6c8c3d:
 
     # u "You don't see all the sleep still on my face?"
-    u "Tu ne vois pas le fait que je dors encore sur mon visage ?"
+    u "Tu vois pas le fait que je dors encore sur mon visage ?"
 
 # game/v12/scene36.rpy:51
 translate francais v12_lindsey_lobby_c9a47040:
@@ -22,7 +22,7 @@ translate francais v12_lindsey_lobby_c9a47040:
 translate francais v12_lindsey_lobby_69cfaf16:
 
     # u "Okay... You forgot how to eat? *Chuckles*"
-    u "Ok... Tu ne sais plus comment manger ? *Rire*"
+    u "Ok... Tu sais plus comment manger ? *Rire*"
 
 # game/v12/scene36.rpy:61
 translate francais v12_lindsey_lobby_202b72ba:
@@ -184,7 +184,7 @@ translate francais v12_lindsey_lobby_e79ebefc:
 translate francais v12_lindsey_lobby_51cbab07:
 
     # u "Well, you know I don't get in the middle of all that, but I'm glad the sorority is starting to have a single vision."
-    u "Tu sais que je ne me mêle pas de tout ça, mais je suis bien content de voir que la sororité commence à avoir une même vision."
+    u "Tu sais que je me mêle pas de tout ça, mais je suis bien content de voir que la sororité commence à avoir une même vision."
 
 # game/v12/scene36.rpy:219
 translate francais v12_lindsey_lobby_9401dfe1:

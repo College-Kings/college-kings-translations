@@ -58,7 +58,7 @@ translate francais v10_late_alley_e1825d37:
 translate francais v10_late_alley_c39ad6ea:
 
     # u "I just don't want to see you get hurt in the meantime, but I understand your situation."
-    u "Je ne veux pas que tu sois blessée entre-temps, mais je comprends ta situation."
+    u "Je veux pas que tu sois blessée entre-temps, mais je comprends ta situation."
 
 # game/v10/scene31.rpy:59
 translate francais v10_late_alley_e03c9764:
@@ -76,7 +76,7 @@ translate francais v10_late_alley_08db6af5:
 translate francais v10_late_alley_f6321c49:
 
     # u "I'm not judging and you can do whatever you want, but... I gotta ask, do you enjoy doing this?"
-    u "Je ne juge pas et tu peux faire ce que tu veux, mais... Je dois demander, est-ce que tu aimes faire ça ?"
+    u "Je juge pas et tu peux faire ce que tu veux, mais... Je dois demander, est-ce que tu aimes faire ça ?"
 
 # game/v10/scene31.rpy:72
 translate francais v10_late_alley_1db503a7:
@@ -160,7 +160,7 @@ translate francais v10_late_alley_383a663a:
 translate francais v10_late_alley_39a4f5d2:
 
     # u "Just be safe, deal in the daylight not in a back alleyway. Anything could happen and we would have no idea."
-    u "Sois prudent, fais tes affaires en plein jour, pas dans une ruelle. Tout pourrait arriver et personne ne le saurait."
+    u "Sois prudent, fais tes affaires en plein jour, pas dans une ruelle. Tout pourrait arriver et personne le saurait."
 
 # game/v10/scene31.rpy:137
 translate francais v10_late_alley_56a7bc84:
@@ -220,7 +220,7 @@ translate francais v10_late_alley_6f953028:
 translate francais v10_late_alley_9732885a:
 
     # u "I get that this isn't supposed to be a permanent thing for you and you have an out plan, but I still don't support what you're doing. There's other ways to get money. You're gonna end up fucking up your life."
-    u "Je comprends que ce n'est pas censé être quelque chose de permanent pour toi et que tu as un plan de sortie, mais je ne soutiens toujours pas ce que tu fais. Il y a d'autres moyens d'avoir de l'argent. Tu vas finir par foutre ta vie en l'air."
+    u "Je comprends que ce n'est pas censé être quelque chose de permanent pour toi et que tu as un plan de sortie, mais je soutiens toujours pas ce que tu fais. Il y a d'autres moyens d'avoir de l'argent. Tu vas finir par foutre ta vie en l'air."
 
 # game/v10/scene31.rpy:185
 translate francais v10_late_alley_4db8eba2:
@@ -232,7 +232,7 @@ translate francais v10_late_alley_4db8eba2:
 translate francais v10_late_alley_2f0de082:
 
     # u "I'm not saying I have all the answers, but putting yourself in a dangerous situation to get out of a dangerous situation isn't a good idea."
-    u "Je ne dis pas que j'ai toutes les réponses, mais se mettre dans une situation dangereuse pour se sortir d'une situation dangereuse n'est pas une bonne idée."
+    u "Je dis pas que j'ai toutes les réponses, mais se mettre dans une situation dangereuse pour se sortir d'une situation dangereuse n'est pas une bonne idée."
 
 # game/v10/scene31.rpy:195
 translate francais v10_late_alley_4f16cdf6:
@@ -256,7 +256,7 @@ translate francais v10_late_alley_3056f3ce:
 translate francais v10_late_alley_9732885a_1:
 
     # u "I get that this isn't supposed to be a permanent thing for you and you have an out plan, but I still don't support what you're doing. There's other ways to get money. You're gonna end up fucking up your life."
-    u "Je comprends que ce n'est pas censé être quelque chose de permanent pour toi et que tu as un plan de sortie, mais je ne soutiens toujours pas ce que tu fais. Il y a d'autres moyens d'avoir de l'argent. Tu vas finir par foutre ta vie en l'air."
+    u "Je comprends que ce n'est pas censé être quelque chose de permanent pour toi et que tu as un plan de sortie, mais je soutiens toujours pas ce que tu fais. Il y a d'autres moyens d'avoir de l'argent. Tu vas finir par foutre ta vie en l'air."
 
 # game/v10/scene31.rpy:216
 translate francais v10_late_alley_ddafc0a4:

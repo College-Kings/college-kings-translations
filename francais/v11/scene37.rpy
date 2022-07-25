@@ -16,7 +16,7 @@ translate francais v11_walk_park_c870fef1:
 translate francais v11_walk_park_44463136:
 
     # u "I haven't."
-    u "Je ne suis pas venu ici."
+    u "Je suis pas venu ici."
 
 # game/v11/scene37.rpy:35
 translate francais v11_walk_park_ba3837b5:
@@ -64,7 +64,7 @@ translate francais v11_walk_park_ea23c265:
 translate francais v11_walk_park_7dfcf8c7:
 
     # u "Can't we all just calm down and chill for a bit?"
-    u "On ne peut pas tous se calmer et se détendre un peu ?"
+    u "On peut pas tous se calmer et se détendre un peu ?"
 
 # game/v11/scene37.rpy:80
 translate francais v11_walk_park_a8c48de6:

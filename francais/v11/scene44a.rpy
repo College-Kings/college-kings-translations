@@ -148,7 +148,7 @@ translate francais v11_rose_underground_2ffe482a:
 translate francais v11_rose_underground_686f65a7:
 
     # u "Sorry, Professor. *Chuckles* I honestly don't think I've ever called you anything other than Ms. Rose. I think everyone just calls you that."
-    u "Désolé, professeure *Rire* Je ne pense pas vous avoir jamais appelé autrement que Mme Rose. Je pense d'ailleurs que tout le monde vous appelle comme ça."
+    u "Désolé, professeure *Rire* Je pense pas vous avoir jamais appelé autrement que Mme Rose. Je pense d'ailleurs que tout le monde vous appelle comme ça."
 
 # game/v11/scene44a.rpy:140
 translate francais v11_rose_underground_8333f77a:
@@ -214,7 +214,7 @@ translate francais v11_rose_underground_f22a0ec9:
 translate francais v11_rose_underground_f4d5468f:
 
     # u "It's not. Like you said, enjoy the quiet moments. I'm not sure how long we'll be stuck here, but at least you can relax."
-    u "C'est pas faux. Mais comme tu l'as dit, \"profite des moments de calme\". Je ne sais pas combien de temps on va rester coincés ici, mais au moins tu peux te détendre."
+    u "C'est pas faux. Mais comme tu l'as dit, \"profite des moments de calme\". Je sais pas combien de temps on va rester coincés ici, mais au moins tu peux te détendre."
 
 # game/v11/scene44a.rpy:183
 translate francais v11_rose_underground_4b5c11c5:

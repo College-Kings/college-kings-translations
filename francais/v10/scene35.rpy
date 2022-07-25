@@ -100,7 +100,7 @@ translate francais v10s35_nsfwSkipLabel1_a13e8f4a:
 translate francais v10s35_nsfwSkipLabel1_8b4da32c:
 
     # u "I know you're a bit mad at me, but I just hope you never unleash your fury on me like that, haha."
-    u "Je sais que tu es un peu en colère contre moi, mais j'espère que tu ne déchaîneras jamais ta fureur sur moi comme ça, haha."
+    u "Je sais que tu es un peu en colère contre moi, mais j'espère que tu déchaîneras jamais ta fureur sur moi comme ça, haha."
 
 # game/v10/scene35.rpy:83
 translate francais v10s35_nsfwSkipLabel1_f875775c:
@@ -196,7 +196,7 @@ translate francais v10s35_nsfwSkipLabel1_3980e71a:
 translate francais v10s35_nsfwSkipLabel1_60dcb4d0:
 
     # u "Uhm, I'm not sure."
-    u "Euh, je ne suis pas sûr."
+    u "Euh, je suis pas sûr."
 
 # game/v10/scene35.rpy:169
 translate francais v10s35_nsfwSkipLabel1_e10ffd5a:

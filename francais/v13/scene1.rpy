@@ -64,7 +64,7 @@ translate francais v13_start_cd2098b1:
 translate francais v13_start_2e059ea9:
 
     # u "*Laughs* Okay, I'm also enjoying this, but please don't make that face. I can't take you seriously when you do that... *Chuckles*"
-    u "*Rire* Ok, j'aime ça, mais s'il te plaît ne fais pas cette tête. Je ne peux pas te prendre au sérieux quand tu es comme ça...  *Rire*"
+    u "*Rire* Ok, j'aime ça, mais s'il te plaît fais pas cette tête. Je peux pas te prendre au sérieux quand tu es comme ça...  *Rire*"
 
 # game/v13/scene1.rpy:66
 translate francais v13_start_302a0e24:
@@ -136,7 +136,7 @@ translate francais v13_start_931a9f0f:
 translate francais v13_start_72cf8418:
 
     # u "Oh, don't worry. I've been waiting for a moment like this."
-    u "Oh, ne t'inquiète pas. J'ai toujours espéré un moment comme celui-ci."
+    u "Oh, t'inquiète pas. J'ai toujours espéré un moment comme celui-ci."
 
 # game/v13/scene1.rpy:123
 translate francais v13_start_5a40e2c8:
@@ -208,7 +208,7 @@ translate francais v13_start_a3a5fd57:
 translate francais v13_start_13fea20b:
 
     # u "Just don't let it happen again, okay? I don't like being blamed for shit I didn't do."
-    u "Mais que ça ne se reproduise pas, d'accord ? Je n'aime pas qu'on me reproche des choses que je n'ai pas faites."
+    u "Mais que ça se reproduise pas, d'accord ? Je n'aime pas qu'on me reproche des choses que je n'ai pas faites."
 
 # game/v13/scene1.rpy:195
 translate francais v13_start_6523c6d9:
@@ -220,7 +220,7 @@ translate francais v13_start_6523c6d9:
 translate francais v13_start_b51f84f0:
 
     # u "It's fine Riley, really. Of course I was pissed at first, it's a little upsetting to have one of your best friends calling you a liar but... I can't stay mad at you forever. Apology accepted."
-    u "Tout va bien Riley, vraiment. Bien sûr, j'étais en colère au début, c'est un peu dérangeant d'avoir une de tes meilleures amies qui te traite de menteur mais... Je ne peux pas rester en colère contre toi pour toujours. Excuses acceptées."
+    u "Tout va bien Riley, vraiment. Bien sûr, j'étais en colère au début, c'est un peu dérangeant d'avoir une de tes meilleures amies qui te traite de menteur mais... Je peux pas rester en colère contre toi pour toujours. Excuses acceptées."
 
 # game/v13/scene1.rpy:206
 translate francais v13_start_709c1399:

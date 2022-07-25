@@ -40,7 +40,7 @@ translate francais thurs_aft_room_b789f02c:
 translate francais thurs_aft_room_4bd2f8af:
 
     # u "(I guess I got too used to the company around here. Things aren't really fun when alone.)"
-    u "(Je pense que je me suis trop habitué à avoir de la compagnie par ici. Les choses ne sont pas vraiment amusantes quand on est seul.)"
+    u "(Je pense que je me suis trop habitué à avoir de la compagnie par ici. Les choses sont pas vraiment amusantes quand on est seul.)"
 
 # game/v9/scene13.rpy:45
 translate francais thurs_aft_room_b92814ec:
@@ -88,7 +88,7 @@ translate francais thurs_aft_room_f616bf28:
 translate francais thurs_aft_room_4bd2f8af_1:
 
     # u "(I guess I got too used to the company around here. Things aren't really fun when alone.)"
-    u "(Je pense que je me suis trop habitué à avoir de la compagnie par ici. Les choses ne sont pas vraiment amusantes quand on est seul.)"
+    u "(Je pense que je me suis trop habitué à avoir de la compagnie par ici. Les choses sont pas vraiment amusantes quand on est seul.)"
 
 # game/v9/scene13.rpy:87
 translate francais thurs_aft_room_b92814ec_1:

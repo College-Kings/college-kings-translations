@@ -106,7 +106,7 @@ translate francais v11_nora_airport_convo_a8b7adb8:
 translate francais v11_nora_airport_convo_3b739a66:
 
     # u "*Sighs* If she's expecting you then I'm not going to try to get in the way."
-    u "*Soupirs* Si elle t'attend, je ne vais pas essayer de me mettre en travers de ton chemin."
+    u "*Soupirs* Si elle t'attend, je vais pas essayer de me mettre en travers de ton chemin."
 
 # game/v11/scene15.rpy:85
 translate francais v11_nora_airport_convo_70a9f126:
@@ -154,7 +154,7 @@ translate francais v11_nora_airport_convo_773cf37f_1:
 translate francais v11_nora_airport_convo_0e21f62f:
 
     # u "(Okay, now I'm kinda getting pissed. He doesn't even know her like that.)"
-    u "(Ok, maintenant je suis un peu énervé. Il ne la connaît même pas vraiment.)"
+    u "(Ok, maintenant je suis un peu énervé. Il la connaît même pas vraiment.)"
 
 # game/v11/scene15.rpy:126
 translate francais v11_nora_airport_convo_c9955893:
@@ -214,7 +214,7 @@ translate francais v11_nora_airport_convo_00bd2189:
 translate francais v11_nora_airport_convo_a033be3c:
 
     # u "No, I didn't know that, but I still don't fuck with him. He just comes out of nowhere and all of a sudden he's buddied up to everyone telling me to step back. Like what the fuck?"
-    u "Non, je ne le savais pas, mais je n'ai pourtant pas déconné avec lui. Il sort de nulle part et tout d'un coup, il se lie d'amitié avec tout le monde et me dit de dégager. C'est quoi ce bordel ?"
+    u "Non, je le savais pas, mais je n'ai pourtant pas déconné avec lui. Il sort de nulle part et tout d'un coup, il se lie d'amitié avec tout le monde et me dit de dégager. C'est quoi ce bordel ?"
 
 # game/v11/scene15.rpy:186
 translate francais v11_nora_airport_convo_6730ef15:

@@ -70,7 +70,7 @@ translate francais v10s33_autumn1_af8940f8:
 translate francais v10s33_autumn1_5bbd8cbd:
 
     # u "I can only imagine all the behind the scenes work. Surprised you didn't have the pledges do most of the heavy lifting."
-    u "Je ne peux qu'imaginer tout le travail en coulisses. Je suis surpris que tu n'aies pas demandé aux nouveaux venus de faire le plus gros du travail."
+    u "Je peux qu'imaginer tout le travail en coulisses. Je suis surpris que tu n'aies pas demandé aux nouveaux venus de faire le plus gros du travail."
 
 # game/v10/scene33.rpy:85
 translate francais v10s33_autumn1_df090562:
@@ -106,7 +106,7 @@ translate francais v10s33_autumn1_9cf629fd:
 translate francais v10s33_autumn1_72da5258:
 
     # u "Why wouldn't you expect her to pledge?"
-    u "Pourquoi ne t'attendais-tu pas à ce qu'elle s'engage ?"
+    u "Pourquoi t'attendais-tu pas à ce qu'elle s'engage ?"
 
 # game/v10/scene33.rpy:121
 translate francais v10s33_autumn1_53950c31:
@@ -124,7 +124,7 @@ translate francais v10s33_autumn1_07c14a3a:
 translate francais v10s33_autumn1_27e0e79c:
 
     # u "(Not really my business.)"
-    u "(Ce ne sont pas vraiment mes affaires.)"
+    u "(Ce sont pas vraiment mes affaires.)"
 
 # game/v10/scene33.rpy:136
 translate francais v10s33_autumn1_4807f226:
@@ -148,13 +148,13 @@ translate francais v10s33_autumn1_4c236f88:
 translate francais v10s33_autumn1_6cf7436f:
 
     # u "I'll be sure to try the other things too, but it's definitely the main attraction."
-    u "Je ne manquerai pas d'essayer les autres choses aussi, mais c'est définitivement l'attraction principale."
+    u "Je manquerai pas d'essayer les autres choses aussi, mais c'est définitivement l'attraction principale."
 
 # game/v10/scene33.rpy:161
 translate francais v10s33_autumn1_2a9e7cc7:
 
     # u "I didn't even know about the mud wrestling until recently, I'd be here with or without it."
-    u "Je ne savais même pas qu'il y avait des combats de boue jusqu'à récemment, mais j'aurais été là avec ou sans ça."
+    u "Je savais même pas qu'il y avait des combats de boue jusqu'à récemment, mais j'aurais été là avec ou sans ça."
 
 # game/v10/scene33.rpy:166
 translate francais v10s33_autumn1_186cf758:
@@ -196,7 +196,7 @@ translate francais v10s33_autumn1_62d7dc60:
 translate francais v10s33_autumn1_61eba386:
 
     # u "I don't know if you'd be up for it, but Nora is actually getting people together for us all to take a trip to Europe. Does that sound like something you'd be interested in doing? I'm definitely going."
-    u "Je ne sais pas si tu serais partante, mais Nora est en train de réunir des participants pour que nous fassions tous un voyage en Europe. Est-ce que ça semble être quelque chose qui t'intéresserait ? Je vais y aller."
+    u "Je sais pas si tu serais partante, mais Nora est en train de réunir des participants pour que nous fassions tous un voyage en Europe. Est-ce que ça semble être quelque chose qui t'intéresserait ? Je vais y aller."
 
 # game/v10/scene33.rpy:199
 translate francais v10s33_autumn1_5525d078:
@@ -496,7 +496,7 @@ translate francais v10s33_aubrey1_2abdb4c8:
 translate francais v10s33_aubrey1_f0c0d3ac:
 
     # u "Oh no way, I don't wanna be an embarrassment. *Laughs*"
-    u "Je n'insiste pas, je ne veux pas être une source d'embarras.  *Rire*"
+    u "Je n'insiste pas, je veux pas être une source d'embarras.  *Rire*"
 
 # game/v10/scene33.rpy:631
 translate francais v10s33_aubrey1_975f73fe:
@@ -520,7 +520,7 @@ translate francais v10s33_aubrey1_2c2f345e:
 translate francais v10s33_aubrey1_3b37f59b:
 
     # u "You're always so positive. I don't think I've ever seen you down."
-    u "Tu es toujours si positive. Je ne pense pas t'avoir jamais vu déprimée."
+    u "Tu es toujours si positive. Je pense pas t'avoir jamais vu déprimée."
 
 # game/v10/scene33.rpy:658
 translate francais v10s33_aubrey1_4c662f68:
@@ -892,7 +892,7 @@ translate francais v10s33_aubrey1_5c380b07:
 translate francais v10s33_chloe1_54c5d3c9:
 
     # u "I think Chloe's still mad at me, I'd rather not talk to her."
-    u "Je pense que Chloé est toujours en colère contre moi, je préfère ne pas lui parler."
+    u "Je pense que Chloé est toujours en colère contre moi, je préfère pas lui parler."
 
 # game/v10/scene33.rpy:1007
 translate francais v10s33_chloe2_5bdb2809:
@@ -1066,7 +1066,7 @@ translate francais v10s33_chloe2_060564f9:
 translate francais v10s33_chloe2_e25ce6c9:
 
     # u "Not to change subjects, but how's the sorority going? Any more troubles?"
-    u "Je ne veux pas changer de sujet, mais comment va la sororité ? D'autres problèmes ?"
+    u "Je veux pas changer de sujet, mais comment va la sororité ? D'autres problèmes ?"
 
 # game/v10/scene33.rpy:1151
 translate francais v10s33_chloe2_bc17f195:
@@ -1078,7 +1078,7 @@ translate francais v10s33_chloe2_bc17f195:
 translate francais v10s33_chloe2_21201944:
 
     # u "Well, not to be that guy, but I ask cause Nora was actually talking about you earlier."
-    u "Je ne veux pas être ce genre de type, mais je demande ça parce que Nora parlait de toi tout à l'heure."
+    u "Je veux pas être ce genre de type, mais je demande ça parce que Nora parlait de toi tout à l'heure."
 
 # game/v10/scene33.rpy:1169
 translate francais v10s33_chloe2_ab8a57d5:
@@ -1180,7 +1180,7 @@ translate francais v10s33_chloe2_0dbfa3d3:
 translate francais v10s33_chloe2_fbc6319c:
 
     # u "Europe is a big place, I'm sure you can find a way to enjoy yourself and not be around her if that's what you want."
-    u "L'Europe est un grand espace, je suis sûr que tu peux trouver un moyen de t'amuser et de ne pas être près d'elle si c'est ce que tu souhaites."
+    u "L'Europe est un grand espace, je suis sûr que tu peux trouver un moyen de t'amuser et de pas être près d'elle si c'est ce que tu souhaites."
 
 # game/v10/scene33.rpy:1264
 translate francais v10s33_chloe2_4d2705e7:
@@ -1276,7 +1276,7 @@ translate francais v10s33_deergirl21_7eb6c568:
 translate francais v10s33_deergirl21_16a00abe:
 
     # u "My bad, I didn't mean to... I'm just gonna go."
-    u "C'est ma faute, je ne voulais pas dir... Je vais juste y aller."
+    u "C'est ma faute, je voulais pas dir... Je vais juste y aller."
 
 # game/v10/scene33.rpy:1362
 translate francais v10s33_deergirl21_90243d62:
@@ -1306,7 +1306,7 @@ translate francais v10s33_deergirl21_fd5b35e5:
 translate francais v10s33_deergirl31_6a5e8b0a:
 
     # u "You know I didn't expect to see one of these at the event. What made you want to do one of these?"
-    u "Tu sais, je ne m'attendais pas à voir un stand comme ça, dans cet événement. Qu'est-ce qui t'a donné envie d'en faire un ?"
+    u "Tu sais, je m'attendais pas à voir un stand comme ça, dans cet événement. Qu'est-ce qui t'a donné envie d'en faire un ?"
 
 # game/v10/scene33.rpy:1424
 translate francais v10s33_deergirl31_adca8249:
@@ -1480,7 +1480,7 @@ translate francais v10s33_laurenbake1_07013ebd:
 translate francais v10s33_laurenbake1_e2240fc0:
 
     # u "Haha, you know... a lot of people showed up. Even the not so social ones."
-    u "Haha, tu sais... beaucoup de gens sont venus. Même ceux qui ne sont pas très sociables."
+    u "Haha, tu sais... beaucoup de gens sont venus. Même ceux qui sont pas très sociables."
 
 # game/v10/scene33.rpy:1589
 translate francais v10s33_laurenbake1_8d6cb41a:
@@ -1540,7 +1540,7 @@ translate francais v10s33_laurenbake1_121ac104:
 translate francais v10s33_laurenbake1_dfb2b7b7:
 
     # u "Haha, yes I'm just playing around. I brought some money, but I'm not spending it on a cake."
-    u "Haha, oui, je m'amuse un peu partout. J'ai apporté un peu d'argent, mais je ne vais pas le dépenser pour un gâteau."
+    u "Haha, oui, je m'amuse un peu partout. J'ai apporté un peu d'argent, mais je vais pas le dépenser pour un gâteau."
 
 # game/v10/scene33.rpy:1635
 translate francais v10s33_laurenbake1_1f94dd2a:
@@ -1768,7 +1768,7 @@ translate francais v10s33_laurenstatue1_631c66ea:
 translate francais v10s33_laurenstatue1_46e209b3:
 
     # u "If not, can I pose you in my room? I think you'd make a great addition. *Laughs*"
-    u "Si ça ne part pas, je peux te poser dans ma chambre ? Je pense que tu ferais une superbe décoration. *Rire*"
+    u "Si ça part pas, je peux te poser dans ma chambre ? Je pense que tu ferais une superbe décoration. *Rire*"
 
 # game/v10/scene33.rpy:1850
 translate francais v10s33_laurenstatue1_161dcd95:
@@ -2332,7 +2332,7 @@ translate francais v10s33_riley1_6cd1aca5:
 translate francais v10s33_riley1_d008d71c:
 
     # u "Hey, it's the main attraction. *Laughs* It'd be wrong of me not to support it."
-    u "Hé, c'est l'attraction principale. *Rire* Ce serait une erreur de ma part de ne pas la soutenir."
+    u "Hé, c'est l'attraction principale. *Rire* Ce serait une erreur de ma part de pas la soutenir."
 
 # game/v10/scene33.rpy:2371
 translate francais v10s33_riley1_5ad226e1:
@@ -2344,7 +2344,7 @@ translate francais v10s33_riley1_5ad226e1:
 translate francais v10s33_riley1_d3a21e5e:
 
     # u "Are you going to buy any clothes or just look? Don't tell me you're a window shopper."
-    u "Tu vas acheter des vêtements ou juste regarder ? Ne me dis pas que tu fais du lèche-vitrine."
+    u "Tu vas acheter des vêtements ou juste regarder ? Me dis pas que tu fais du lèche-vitrine."
 
 # game/v10/scene33.rpy:2381
 translate francais v10s33_riley1_ce340e63:
@@ -2422,7 +2422,7 @@ translate francais v10s33_riley1_2f369113:
 translate francais v10s33_riley1_c09f7768:
 
     # u "I get what she did was wrong, but it still doesn't seem fair."
-    u "Je comprends que ce qu'elle a fait était mal, mais ça ne semble toujours pas juste."
+    u "Je comprends que ce qu'elle a fait était mal, mais ça semble toujours pas juste."
 
 # game/v10/scene33.rpy:2441
 translate francais v10s33_riley1_09ef2446:
@@ -2446,7 +2446,7 @@ translate francais v10s33_riley1_a2a75499:
 translate francais v10s33_riley1_3c5e280a:
 
     # u "You can't believe everything you hear."
-    u "Tu ne dois pas croire tout ce que tu entends."
+    u "Tu dois pas croire tout ce que tu entends."
 
 # game/v10/scene33.rpy:2463
 translate francais v10s33_riley1_a2a75499_1:
@@ -2518,7 +2518,7 @@ translate francais v10s33_riley1_6a0919e3:
 translate francais v10s33_riley1_43d429e5:
 
     # u "I wouldn't wear it, but on you it looks great."
-    u "Je ne le porterais pas, mais sur toi il est superbe."
+    u "Je le porterais pas, mais sur toi il est superbe."
 
 # game/v10/scene33.rpy:2521
 translate francais v10s33_riley1_44eb28e2:
@@ -2542,7 +2542,7 @@ translate francais v10s33_riley1_cf821ae6:
 translate francais v10s33_riley1_22a40649:
 
     # u "I wouldn't wear it."
-    u "Je ne le porterais pas."
+    u "Je le porterais pas."
 
 # game/v10/scene33.rpy:2543
 translate francais v10s33_riley1_7aac0e23:
@@ -3070,7 +3070,7 @@ translate francais v10s33_amber1_97ad4aa0:
 translate francais v10s33_amber1_51f36082:
 
     # am "Ha, so I'm not the only one wanting to see the guys wrestle."
-    am "Ha, donc je ne suis pas la seule à vouloir voir les mecs se battre."
+    am "Ha, donc je suis pas la seule à vouloir voir les mecs se battre."
 
 # game/v10/scene33.rpy:3130
 translate francais v10s33_amber1_cff56a96:
@@ -3148,7 +3148,7 @@ translate francais v10s33_amber1_63314d47:
 translate francais v10s33_chris1_a192729a:
 
     # u "I should probably not be seen talking to the Wolves' frat leaders."
-    u "Je crois que je ne devrais pas être vu en train de parler aux leaders de la fraternité des Wolves."
+    u "Je crois que je devrais pas être vu en train de parler aux leaders de la fraternité des Wolves."
 
 # game/v10/scene33.rpy:3213
 translate francais v10s33_chris1_1abd6e61:
@@ -3226,7 +3226,7 @@ translate francais v10s33_chris1_53e36c16:
 translate francais v10s33_chris1_2663389f:
 
     # u "I don't want to hurt anyone's feelings over a game, I'm too good at this, it wouldn't be fair."
-    u "Je ne veux pas blesser quelqu'un pour un jeu, je suis trop bon pour ça, ce ne serait pas juste."
+    u "Je veux pas blesser quelqu'un pour un jeu, je suis trop bon pour ça, ce serait pas juste."
 
 # game/v10/scene33.rpy:3330
 translate francais v10s33_chris1_11892f58:
@@ -3520,7 +3520,7 @@ translate francais v10s33_ryan1_f716084c:
 translate francais v10s33_ryan1_1772aac8:
 
     # u "Don't you think it's weird to date your friend's ex? You can do what you want though, it doesn't bother me."
-    u "Tu ne penses pas que c'est bizarre de sortir avec l'ex de ton ami ? Mais tu peux faire ce que tu veux, ça ne me dérange pas."
+    u "Tu penses pas que c'est bizarre de sortir avec l'ex de ton ami ? Mais tu peux faire ce que tu veux, ça me dérange pas."
 
 # game/v10/scene33.rpy:3611
 translate francais v10s33_ryan1_bcd53b71:
@@ -3580,7 +3580,7 @@ translate francais v10s33_toiletryan1_dd1ad9ea:
 translate francais v10s33_toiletryan1_d1de88f5:
 
     # u "Hey man, I didn't mean to ruin your mood."
-    u "Hey mec, je ne voulais pas ruiner ton humeur."
+    u "Hey mec, je voulais pas ruiner ton humeur."
 
 # game/v10/scene33.rpy:3673
 translate francais v10s33_toiletryan1_f4b7a8bb:
@@ -3694,7 +3694,7 @@ translate francais v10s33_emily1_69508872:
 translate francais v10s33_emily1_bab123db:
 
     # u "Hey, why aren't you looking around like everyone else?"
-    u "Hé, pourquoi tu ne visites pas les lieux comme tout le monde ?"
+    u "Hé, pourquoi tu visites pas les lieux comme tout le monde ?"
 
 # game/v10/scene33.rpy:3767
 translate francais v10s33_emily1_3907e47f:
@@ -3718,7 +3718,7 @@ translate francais v10s33_emily1_ea1fc475:
 translate francais v10s33_emily1_7ac616f4:
 
     # u "I'm surprised, but if you're nervous why don't you just back out?"
-    u "Je suis surpris, mais si tu es nerveuse, pourquoi ne pas faire marche arrière ?"
+    u "Je suis surpris, mais si tu es nerveuse, pourquoi pas faire marche arrière ?"
 
 # game/v10/scene33.rpy:3787
 translate francais v10s33_emily1_c6451a92:
@@ -3778,7 +3778,7 @@ translate francais v10s33_emily1_f39c6440:
 translate francais v10s33_emily1_bad5eaf0:
 
     # u "I'm not sure about all the details. but I know we're going to some pretty cool places."
-    u "Je ne suis pas sûr de tous les détails, mais je sais qu'on va aller dans des endroits plutôt cool."
+    u "Je suis pas sûr de tous les détails, mais je sais qu'on va aller dans des endroits plutôt cool."
 
 # game/v10/scene33.rpy:3843
 translate francais v10s33_emily1_c0885ed3:
@@ -3796,7 +3796,7 @@ translate francais v10s33_emily1_1bea4ac4:
 translate francais v10s33_emily1_1df465ef:
 
     # u "(I honestly don't know if I want her there.)"
-    u "(Honnêtement, je ne sais pas si je veux qu'elle soit là.)"
+    u "(Honnêtement, je sais pas si je veux qu'elle soit là.)"
 
 # game/v10/scene33.rpy:3854
 translate francais v10s33_emily1_50d25a47:
@@ -3910,7 +3910,7 @@ translate francais v10s33_evelyn1_f0b88fa0:
 translate francais v10s33_evelyn1_c0f3f77e:
 
     # u "Was that a joke you just made? Didn't see that coming? I'm a little proud. Guess there's still a lot I have to learn about you."
-    u "C'était une blague que tu viens de faire ? Tu ne l'as pas sentie venir ? Je suis un peu fier. Je crois que j'ai encore beaucoup à apprendre sur toi."
+    u "C'était une blague que tu viens de faire ? Tu l'as pas sentie venir ? Je suis un peu fier. Je crois que j'ai encore beaucoup à apprendre sur toi."
 
 # game/v10/scene33.rpy:3961
 translate francais v10s33_evelyn1_e6e19e1e:
@@ -3952,7 +3952,7 @@ translate francais v10s33_evelyn1_6423b2e7:
 translate francais v10s33_deergirl41_12e7f252:
 
     # u "(I'd rather not get talked into buying one of these hats.)"
-    u "(Je préfère ne pas me laisser convaincre d'acheter un de ces chapeaux.)"
+    u "(Je préfère pas me laisser convaincre d'acheter un de ces chapeaux.)"
 
 translate francais strings:
 

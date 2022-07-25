@@ -28,7 +28,7 @@ translate francais v12_cafe_0bf2d36e:
 translate francais v12_cafe_e900c110:
 
     # u "*Laughs* I'm fucking starving. I honestly have no idea why I'm so hungry."
-    u "*Rire* Je meurs de faim. Franchement, je ne sais pas pourquoi j'ai si faim."
+    u "*Rire* Je meurs de faim. Franchement, je sais pas pourquoi j'ai si faim."
 
 # game/v12/scene13.rpy:48
 translate francais v12_cafe_08bb2a8c:
@@ -52,7 +52,7 @@ translate francais v12_cafe_34aeca26:
 translate francais v12_cafe_5a182ea8:
 
     # u "I don't remember... I think I was too busy killing people. *Chuckles*"
-    u "Je ne me souviens pas... Je pense que j'étais trop occupé à tuer du monde. *Rire*"
+    u "Je me souviens pas... Je pense que j'étais trop occupé à tuer du monde. *Rire*"
 
 # game/v12/scene13.rpy:68
 translate francais v12_cafe_f4ed2056:

@@ -16,7 +16,7 @@ translate francais penelope_dorm_hack_1d6a0cc7:
 translate francais penelope_dorm_hack_885c4f5b:
 
     # u "Hey, hey, hey. It's okay. I've got you."
-    u "Hé, hé, hé. C'est bon. Je suis là."
+    u "Hé, hé, hé. Ça va. Je suis là."
 
 # game/v8/scene15.rpy:42
 translate francais penelope_dorm_hack_5b1217c0:
@@ -64,13 +64,13 @@ translate francais penelope_dorm_hack_a028f0d8:
 translate francais penelope_dorm_hack_cfe8f731:
 
     # pe "I was really careful and I covered my tracks and..."
-    pe "J'ai été très prudente, j'ai couvert mes traces et..."
+    pe "J'ai pourtant été très prudente, j'ai couvert mes traces mais..."
 
 # game/v8/scene15.rpy:77
 translate francais penelope_dorm_hack_0fc9403d:
 
     # pe "I still got caught. What am I gonna do? I can't go to jail and I don't have $15 thousand lying around! My life is fucked!"
-    pe "Je me suis encore fait prendre. Que vais-je faire ? Je ne veux pas aller en prison et je n'ai pas 15 000 $ qui traînent ! Ma vie est foutue !"
+    pe "Je me suis encore fait prendre. Qu'est-ce que je vais faire ? Je ne veux pas aller en prison et je n'ai pas 15 000 $ qui traînent ! Ma vie est foutue !"
 
 # game/v8/scene15.rpy:87
 translate francais penelope_dorm_hack_56e199f1:
@@ -82,7 +82,7 @@ translate francais penelope_dorm_hack_56e199f1:
 translate francais help_pen_de1e1d15:
 
     # u "If you want, I can talk to the dean on Monday on your behalf. I'm sure we could work something out if we tried and be smart about it."
-    u "Si tu veux, je peux parler à la doyenne lundi en ton nom. Je suis sûr qu'on peut trouver une solution si on essaie et qu'on est malin."
+    u "Si tu veux, je pourrais aller parler en ton nom à la doyenne, lundi. Je suis sûr qu'on pourras trouver une solution si on tente et qu'on est malin."
 
 # game/v8/scene15.rpy:112
 translate francais help_pen_93e62cb9:
@@ -94,7 +94,7 @@ translate francais help_pen_93e62cb9:
 translate francais help_pen_ca6c72a6:
 
     # u "Well, it can't hurt to try. We gotta do something, right?"
-    u "Eh bien, ça ne peut pas faire de mal d'essayer. On doit pouvoir faire quelque chose, non ?"
+    u "Eh bien, ça peut pas faire de mal d'essayer. On doit pouvoir faire quelque chose, non ?"
 
 # game/v8/scene15.rpy:122
 translate francais help_pen_5ac80aa1:
@@ -106,7 +106,7 @@ translate francais help_pen_5ac80aa1:
 translate francais help_pen_e04c5b15:
 
     # u "Yeah? We got this. First thing Monday morning, I'll go see the dean, okay?"
-    u "D'accord ? On vas faire ça. Lundi matin à la première heure, j'irai voir la doyenne, d'accord ?"
+    u "C'est vrai ? Alors on vas faire ça. Lundi matin à la première heure, j'irai voir la doyenne, d'accord ?"
 
 # game/v8/scene15.rpy:137
 translate francais help_pen_e7fefe3a:
@@ -124,7 +124,7 @@ translate francais help_pen_ea15117e:
 translate francais no_help_pen_ebd4478f:
 
     # u "If you need me for anything, you know where to find me, okay? I have to get home and study, but text me any time."
-    u "Si tu as besoin de moi pour quoi que ce soit, tu sais où me trouver, d'accord ? Je dois rentrer à la maison et étudier, mais envoie-moi un texto quand tu veux."
+    u "Si t'as besoin de moi pour quoi que ce soit, tu sais où me trouver, d'accord ? Je dois rentrer à la maison et étudier, mais envoie-moi un texto quand tu veux."
 
 # game/v8/scene15.rpy:165
 translate francais no_help_pen_87b3037d:
@@ -136,7 +136,7 @@ translate francais no_help_pen_87b3037d:
 translate francais no_help_pen_60c83483:
 
     # u "It's not a problem. You hang in there, okay?"
-    u "C'est pas un problème. Tiens bon, d'accord ?"
+    u "Pas de problèmes. Tiens bon, d'accord ?"
 
 # game/v8/scene15.rpy:178
 translate francais no_help_pen_2589cbfe:

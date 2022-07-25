@@ -46,7 +46,7 @@ translate francais v12_roomate_talk_7d16e1de:
 translate francais v12_roomate_talk_9166f3bd:
 
     # u "What about me? You don't think I would've given him trouble?"
-    u "Et moi, alors ? Tu ne penses pas que je lui aurais posé des problèmes ?"
+    u "Et moi, alors ? Tu penses pas que je lui aurais posé des problèmes ?"
 
 # game/v12/scene4.rpy:82
 translate francais v12_roomate_talk_6b0746ee:
@@ -82,7 +82,7 @@ translate francais v12_roomate_talk_e2ad9d88:
 translate francais v12_roomate_talk_7db1ad70:
 
     # u "*Laughs* Don't doubt me just because you don't know what I'm capable of."
-    u "*Rire* Ne doute pas de moi juste parce que tu ne sais pas de quoi je suis capable."
+    u "*Rire* Doute pas de moi juste parce que tu sais pas de quoi je suis capable."
 
 # game/v12/scene4.rpy:114
 translate francais v12_roomate_talk_7134a7a1:
@@ -118,7 +118,7 @@ translate francais v12_roomate_talk_e2680fa8:
 translate francais v12_roomate_talk_a92af3bc:
 
     # u "*Laughs* Good luck with that. Definitely don't see him being able to do that any time soon."
-    u "*Rire* Bonne chance avec ça. Je ne le vois vraiment pas capable de faire ça de sitôt."
+    u "*Rire* Bonne chance avec ça. Je le vois vraiment pas capable de faire ça de sitôt."
 
 # game/v12/scene4.rpy:144
 translate francais v12_roomate_talk_ad6517d9:
@@ -130,7 +130,7 @@ translate francais v12_roomate_talk_ad6517d9:
 translate francais v12_roomate_talk_61e793ba:
 
     # u "He is, I just don't think he's at Grayson level. You have to be a bit crazy to fight like him."
-    u "Il l'est, mais je ne pense pas qu'il soit au niveau de Grayson. Il faut être un peu fou pour se battre comme lui."
+    u "Il l'est, mais je pense pas qu'il soit au niveau de Grayson. Il faut être un peu fou pour se battre comme lui."
 
 # game/v12/scene4.rpy:157
 translate francais v12_roomate_talk_e4ec4174:
@@ -424,7 +424,7 @@ translate francais v12_roomate_talk_6200c2dc:
 translate francais v12_roomate_talk_c680ec46:
 
     # u "Of course, I'm not getting mixed up in any of that. *Chuckles*"
-    u "Bien sûr, je ne me mêle pas de tout ça. *Rire*"
+    u "Bien sûr, je me mêle pas de tout ça. *Rire*"
 
 # game/v12/scene4.rpy:454
 translate francais v12_roomate_talk_23e3f9d8:

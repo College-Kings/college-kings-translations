@@ -82,7 +82,7 @@ translate francais v12_amber_after_spa_38370e54:
 translate francais v12_amber_after_spa_a68bc13c:
 
     # am "You just can't mind your own fucking business?"
-    am "Tu ne peux pas t'occuper de tes propres affaires ?"
+    am "Tu peux pas t'occuper de tes propres affaires ?"
 
 # game/v12/scene34.rpy:217
 translate francais v12_amber_after_spa_be730509:

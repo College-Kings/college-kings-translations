@@ -4,7 +4,7 @@
 translate francais msrose_moving_331a7fab:
 
     # u "(Should I check how Penelope's doing?)"
-    u "(Dois-je vérifier comment va Pénélope ?)"
+    u "(Est-ce que je devrais vérifier comment va Pénélope ?)"
 
 # game/v8/scene17.rpy:25
 translate francais phn_penelope6_26a5b4a3:
@@ -34,7 +34,7 @@ translate francais phn_penelope6_done_6806a523:
 translate francais phn_penelope6_done_7709a633:
 
     # u "Naw, just studying."
-    u "Nan, j'étudie juste."
+    u "Nan, je fais qu'étudier."
 
 # game/v8/scene17.rpy:46
 translate francais phn_penelope6_done_d3f66e85:
@@ -52,13 +52,13 @@ translate francais phn_penelope6_done_0d8533cf:
 translate francais phn_penelope6_done_52472f3f:
 
     # u "(Aww, I knew something was up.)"
-    u "(Ah, je savais que quelque chose se passait.)"
+    u "(Ooh, j'étais sûr qu'il se passait quelque chose.)"
 
 # game/v8/scene17.rpy:57
 translate francais phn_penelope6_done_fb80a3c9:
 
     # u "Wow, what happened? Of course I'm in."
-    u "Wow, que s'est-il passé ? Bien sûr que je viens."
+    u "Ouah, qu'est-ce qui s'est passé ? Bien sûr que je viens."
 
 # game/v8/scene17.rpy:61
 translate francais phn_penelope6_done_503de2c6:
@@ -76,7 +76,7 @@ translate francais phn_penelope6_done_267776dd:
 translate francais phn_penelope6_done_bfa2ca0c:
 
     # u "Let's go!"
-    u "Allons-y !"
+    u "C'est partit !"
 
 # game/v8/scene17.rpy:80
 translate francais phn_penelope6_done_227600cb:
@@ -88,7 +88,7 @@ translate francais phn_penelope6_done_227600cb:
 translate francais phn_penelope6_done_d454f4d2:
 
     # u "When will he be back?"
-    u "Quand sera-t-il de retour ?"
+    u "Il revient quand ?"
 
 # game/v8/scene17.rpy:90
 translate francais phn_penelope6_done_4f1d9dac:
@@ -106,7 +106,7 @@ translate francais phn_penelope6_done_f2d6cd60:
 translate francais phn_penelope6_done_5bd7b068:
 
     # u "We're all here to help. Just tell us what to do."
-    u "Nous sommes tous ici pour aider. Dites-nous simplement ce qu'il faut faire."
+    u "On est tous là pour vous aider. Dites-nous simplement ce qu'il faut faire."
 
 # game/v8/scene17.rpy:102
 translate francais phn_penelope6_done_7db5ebfa:
@@ -136,7 +136,7 @@ translate francais phn_penelope6_done_313cc6e6:
 translate francais phn_penelope6_done_0b46e452:
 
     # ro "I'm alright, th-thank you. It... it's been a long time coming. I just want it to be over with."
-    ro "Je vais bien, m-merci. Le... le courage de partir a été long à venir. Je veux juste en finir au plus vite."
+    ro "Je vais bien, m-merci. Le... le courage de partir a été long à venir. Je voudrais en finir avec tout ça."
 
 # game/v8/scene17.rpy:123
 translate francais phn_penelope6_done_808acb7a:
@@ -154,13 +154,13 @@ translate francais phn_penelope6_done_e03cccc3:
 translate francais phn_penelope6_done_f64ec35f:
 
     # ro "*Sniff* I don't want to be here anymore. I need to get out before he shows up."
-    ro "*Snif* Je ne veux plus être ici. Je dois partir avant qu'il ne se montre."
+    ro "*Renifle* Je ne veux plus être ici. Je dois partir avant qu'il ne se montre."
 
 # game/v8/scene17.rpy:135
 translate francais phn_penelope6_done_6c879d0f:
 
     # u "Hey, we're here. Nothing's gonna happen to you."
-    u "Hé, on est là. Il ne va rien vous arriver."
+    u "Hé, on est là. Il va rien vous arriver."
 
 # game/v8/scene17.rpy:139
 translate francais phn_penelope6_done_d246e7ae:
@@ -172,13 +172,13 @@ translate francais phn_penelope6_done_d246e7ae:
 translate francais phn_penelope6_done_02f0913a:
 
     # u "(Ms. Rose is so upset, but we also really need to hurry if we're gonna finish this before her husband shows up.)"
-    u "(Mme Rose est tellement bouleversée, mais nous devons aussi vraiment nous dépêcher, si nous voulons finir avant que son mari n'arrive.)"
+    u "(Mme Rose est vraiment bouleversée, mais faut vraiment qu'on se dépêche si on veut avoir terminé avant que son mari se pointe.)"
 
 # game/v8/scene17.rpy:150
 translate francais phn_penelope6_done_fe59dd4e:
 
     # u "(This is important. There are enough Wolves to move boxes quickly.)"
-    u "(C'est important. Il y a assez de Wolves pour prendre tout les cartons rapidement.)"
+    u "(C'est important. Il y a assez de Wolves pour déménager les cartons rapidement.)"
 
 # game/v8/scene17.rpy:154
 translate francais phn_penelope6_done_c0905d9e:
@@ -190,7 +190,7 @@ translate francais phn_penelope6_done_c0905d9e:
 translate francais phn_penelope6_done_963b3625:
 
     # u "Yeah, and we're gonna make sure that happens."
-    u "Oui ! Et on va s'assurer que ça arrive."
+    u "Oui, et on va tout faire pour que ça soit le cas."
 
 # game/v8/scene17.rpy:162
 translate francais phn_penelope6_done_e216c953:
@@ -202,37 +202,37 @@ translate francais phn_penelope6_done_e216c953:
 translate francais phn_penelope6_done_af69c7be:
 
     # ro "I can't stand to look at these four walls anymore *Sniff*"
-    ro "Je ne peux plus supporter de regarder ces quatre murs."
+    ro "Je ne supporte plus la vue de ces murs. *Renifle*"
 
 # game/v8/scene17.rpy:170
 translate francais phn_penelope6_done_ef6af478:
 
     # ro "The whole place is...{w} tainted!"
-    ro "L'endroit entier est...{w} souillé !"
+    ro "Tout le lieu est...{w} souillé !"
 
 # game/v8/scene17.rpy:174
 translate francais phn_penelope6_done_6aa8a1b9:
 
     # u "It won't be long Ms. Rose. We brought our best Wolves."
-    u "Ce ne sera pas long, Mme Rose. Nous avons apporté nos meilleurs Wolves."
+    u "Ça sera pas long, Mme Rose. Nos meilleurs Wolves sont ici."
 
 # game/v8/scene17.rpy:178
 translate francais phn_penelope6_done_df98a8b9:
 
     # ch "And it's the least we could do after everything you've done for us."
-    ch "Et c'est le moins que l'on puisse faire, après tout ce que vous avez fait pour nous."
+    ch "Et c'est le moins qu'on puisse faire, après tout ce que vous avez fait pour nous."
 
 # game/v8/scene17.rpy:179
 translate francais phn_penelope6_done_0e6cfb3b:
 
     # ch "You're our favorite teacher after all!"
-    ch "Vous êtes notre professeur préférée, après tout !"
+    ch "Après tout, vous êtes notre professeure préférée !"
 
 # game/v8/scene17.rpy:183
 translate francais phn_penelope6_done_0008d2d5:
 
     # ro "Really?"
-    ro "Vraiment ?"
+    ro "C'est vrai ?"
 
 # game/v8/scene17.rpy:187
 translate francais phn_penelope6_done_f75712e4:
@@ -250,13 +250,13 @@ translate francais phn_penelope6_done_c5f20ef1:
 translate francais phn_penelope6_done_2d4696e7:
 
     # ro "Awww, this was from before the accident. Before everything... How did this happen?"
-    ro "Awww, c'était avant l'accident, ça... Mais surtout... Comment a-t-on pu en arriver là ?"
+    ro "Awww, ça, c'était avant l'accident,... Mais surtout... Comment a-t-on pu en arriver là ?"
 
 # game/v8/scene17.rpy:201
 translate francais phn_penelope6_done_be15eea4:
 
     # u "Don't worry. We'll be out of here in no time."
-    u "Ne vous inquiétez pas. Nous serons sortis d'ici très vite."
+    u "Pas de soucis. On sera très vite partis de là."
 
 # game/v8/scene17.rpy:202
 translate francais phn_penelope6_done_134c71ea:
@@ -268,13 +268,13 @@ translate francais phn_penelope6_done_134c71ea:
 translate francais phn_penelope6_done_3d22a601:
 
     # ro "Thank you *Sniff*"
-    ro "Merci *Snif*"
+    ro "Merci *Renifle*"
 
 # game/v8/scene17.rpy:210
 translate francais phn_penelope6_done_af69c7be_1:
 
     # ro "I can't stand to look at these four walls anymore *Sniff*"
-    ro "Je ne peux plus supporter de regarder ces quatre murs *Snif*"
+    ro "Je ne supporte plus la vue de ces murs. *Renifle*"
 
 # game/v8/scene17.rpy:214
 translate francais phn_penelope6_done_98d58592:
@@ -286,7 +286,7 @@ translate francais phn_penelope6_done_98d58592:
 translate francais phn_penelope6_done_b7467919:
 
     # u "Bad. We gotta hurry."
-    u "Mauvais. On doit se dépêcher."
+    u "Mauvais. Faut faire vite."
 
 # game/v8/scene17.rpy:222
 translate francais phn_penelope6_done_0f9719ee:
@@ -298,49 +298,49 @@ translate francais phn_penelope6_done_0f9719ee:
 translate francais phn_penelope6_done_0e6cfb3b_1:
 
     # ch "You're our favorite teacher after all!"
-    ch "Vous êtes notre professeur préférée après tout !"
+    ch "Après tout, vous êtes notre professeure préférée !"
 
 # game/v8/scene17.rpy:231
 translate francais phn_penelope6_done_0008d2d5_1:
 
     # ro "Really?"
-    ro "Vraiment ?"
+    ro "C'est vrai ?"
 
 # game/v8/scene17.rpy:235
 translate francais phn_penelope6_done_6dd41966:
 
     # imre "Really!"
-    imre "Vraiment !"
+    imre "C'est vrai !"
 
 # game/v8/scene17.rpy:236
 translate francais phn_penelope6_done_2d4696e7_1:
 
     # ro "Awww, this was from before the accident. Before everything... How did this happen?"
-    ro "Awww, c'était avant l'accident, ça... Mais surtout... Comment a-t-on pu en arriver là ?"
+    ro "Awww, ça, c'était avant l'accident,... Mais surtout... Comment a-t-on pu en arriver là ?"
 
 # game/v8/scene17.rpy:241
 translate francais phn_penelope6_done_39e0a03a:
 
     # u "Maybe talking about it will help. Get it all out."
-    u "Peut-être que le fait d'en parler aidera. Faites sortir tout ça."
+    u "Peut-être que le fait d'en parler pourra vous aider. Laissez-vous aller."
 
 # game/v8/scene17.rpy:249
 translate francais phn_penelope6_done_9f9155d0:
 
     # ro "Things were so good before the accident. But he..."
-    ro "Les choses allaient si bien avant l'accident. Mais il..."
+    ro "Tout allait si bien avant l'accident. Mais il..."
 
 # game/v8/scene17.rpy:250
 translate francais phn_penelope6_done_867ed379:
 
     # ro "...he's changed so much now. I told him to get rid of that damn motorcycle!"
-    ro "...il a tellement changé maintenant. Je lui ai dit de se débarrasser de cette foutue moto !"
+    ro "...il a tellement changé maintenant. Je lui avais pourtant dit de se débarrasser de cette fichue moto !"
 
 # game/v8/scene17.rpy:254
 translate francais phn_penelope6_done_6db8db1e:
 
     # ro "I took care of him for weeks after the accident. I did everything for him."
-    ro "Je me suis occupée de lui pendant des semaines après l'accident. J'ai tout fait pour lui."
+    ro "Je me suis occupée de lui durant des semaines après l'accident. J'ai tout fait pour lui."
 
 # game/v8/scene17.rpy:258
 translate francais phn_penelope6_done_bb0636c1:
@@ -364,31 +364,31 @@ translate francais phn_penelope6_done_c8414f0e:
 translate francais phn_penelope6_done_ea2bb818:
 
     # u "And it's still not an excuse for..."
-    u "Et ce n'est toujours pas une excuse pour..."
+    u "Et c'est loin d'être une excuse pour..."
 
 # game/v8/scene17.rpy:276
 translate francais phn_penelope6_done_95bbef6d:
 
     # u "One moment."
-    u "Un instant."
+    u "Excusez-moi."
 
 # game/v8/scene17.rpy:282
 translate francais phn_penelope6_done_e2d5fe3e:
 
     # u "Hey Lauren, what's up?"
-    u "Hé Lauren, quoi de neuf ?"
+    u "Hé Lauren, ça va ?"
 
 # game/v8/scene17.rpy:286
 translate francais phn_penelope6_done_bb34d75a:
 
     # la "Hey [name], you wanna meet up? I've had enough Econ assignments for the day."
-    la "Hey [name], tu veux qu'on se rencontre ? J'en ai assez des devoirs d'économie pour la journée."
+    la "Hey [name], tu veux qu'on se voit ? J'en ai assez de mes devoirs d'économie pour la journée."
 
 # game/v8/scene17.rpy:290
 translate francais phn_penelope6_done_48b2624a:
 
     # u "Listen, I'm in the middle of something..."
-    u "Écoute, je suis au milieu de quelque chose..."
+    u "Écoute, je suis un peu occupé, là..."
 
 # game/v8/scene17.rpy:295
 translate francais phn_penelope6_done_67b2d8ad:
@@ -406,13 +406,13 @@ translate francais phn_penelope6_done_777532dc:
 translate francais phn_penelope6_done_faa3f1ac:
 
     # la "OK... talk later I guess?"
-    la "OK... à plus tard, peut-être ?"
+    la "Ah d'accord... on se verra peut-être plus tard ?"
 
 # game/v8/scene17.rpy:307
 translate francais phn_penelope6_done_953a9579:
 
     # u "Yeah, bye."
-    u "Ouais, bye."
+    u "Peut-être, bye."
 
 # game/v8/scene17.rpy:312
 translate francais phn_penelope6_done_dbb46555:
@@ -436,43 +436,43 @@ translate francais phn_penelope6_done_01897609:
 translate francais phn_penelope6_done_e05f8d42:
 
     # ro "I thought he was doing better but last night..."
-    ro "Je pensais qu'il allait mieux, mais la nuit dernière..."
+    ro "Je croyais qu'il allait mieux, mais la nuit dernière..."
 
 # game/v8/scene17.rpy:330
 translate francais phn_penelope6_done_6b26ed43:
 
     # ch "You sure you don't want us to call the police? Or someone? Do you have family nearby?"
-    ch "Vous êtes sûr que vous ne voulez pas qu'on appelle la police ? Ou quelqu'un d'autre ? Vous avez de la famille dans le coin ?"
+    ch "Vous êtes sûre que vous ne voulez pas qu'on appelle la police ? Ou quelqu'un d'autre ? Vous avez de la famille dans le coin ?"
 
 # game/v8/scene17.rpy:334
 translate francais phn_penelope6_done_bc598a21:
 
     # ro "I'm sure I'll be fine when I get out of here."
-    ro "Je suis sûre que tout ira bien quand je partirai d'ici."
+    ro "Ce dont je suis sûre, c'est que j'irai bien mieux une fois partie d'ici."
 
 # game/v8/scene17.rpy:338
 translate francais phn_penelope6_done_3c9398f3:
 
     # u "(Man... her situation is so bad.)"
-    u "(Merde... sa situation est si mauvaise.)"
+    u "(Merde... Elle est dans une bien mauvaise situation.)"
 
 # game/v8/scene17.rpy:339
 translate francais phn_penelope6_done_ea60a788:
 
     # u "You don't deserve this Ms. Rose."
-    u "Vous ne méritez pas ça, Mme Rose."
+    u "Vous méritez pas ça, Mme Rose."
 
 # game/v8/scene17.rpy:343
 translate francais phn_penelope6_done_bb528ecf:
 
     # ch "Let's pick up the pace, Wolves!"
-    ch "Accélérons le rythme, Wolves !"
+    ch "Allez les Wolves, on accélère le rythme !"
 
 # game/v8/scene17.rpy:347
 translate francais phn_penelope6_done_67f8a638:
 
     # imre "Other room's done. Just finishing up here."
-    imre "L'autre pièce est terminée. J'finis juste ici."
+    imre "Une autre pièce est terminée. J'finis juste ici."
 
 # game/v8/scene17.rpy:351
 translate francais phn_penelope6_done_6d9dbbff:
@@ -484,33 +484,33 @@ translate francais phn_penelope6_done_6d9dbbff:
 translate francais phn_penelope6_done_b3409e2d:
 
     # ro "I owe you boys some pizza after this!"
-    ro "Je vous dois une pizza après ça !"
+    ro "Les garçons, après ça, je vous devrais quelques pizzas !"
 
 # game/v8/scene17.rpy:359
 translate francais phn_penelope6_done_9e2bb44c:
 
     # ch "We're just glad to help, Ms. Rose."
-    ch "Nous sommes juste heureux d'aider, Mme Rose."
+    ch "On est juste content de pouvoir vous aider, Mme Rose."
 
 # game/v8/scene17.rpy:363
 translate francais phn_penelope6_done_30f8792d:
 
     # imre "And this room is done!"
-    imre "Eeeet voilà ! Cette pièce aussi est terminée !"
+    imre "Eeeet voilà ! Cette pièce est également terminée !"
 
 translate francais strings:
 
     # game/v8/scene17.rpy:11
     old "Hey, how you holding up?"
-    new "Hé, ça va, tu tiens le coup ?"
+    new "Hé, ça va, vous tenez le coup ?"
 
     # game/v8/scene17.rpy:12
     old "Better, thanks to you"
-    new "Oui, grâce à toi."
+    new "Oui, grâce à vous."
 
     # game/v8/scene17.rpy:13
     old "No problem. I'm here for you. Let me know if you need anything else."
-    new "Pas de problème. Je suis là pour toi. Fais-moi savoir si tu as besoin d'autre chose."
+    new "Aucun problème. Je suis là pour vous. Faites-moi savoir si vous avez besoin de quoi que ce soit."
 
     # game/v8/scene17.rpy:14
     old "Thank you! :)"
@@ -530,4 +530,4 @@ translate francais strings:
 translate francais phn_penelope6_done_4abab1f7:
 
     # ro "The whole place is... tainted!"
-    ro "L'endroit entier est... souillé !"
+    ro "Tout le lieu est...{w} souillé !"

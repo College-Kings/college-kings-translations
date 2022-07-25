@@ -16,7 +16,7 @@ translate francais v12_lauren_sex_9b153b75:
 translate francais v12_lauren_sex_e6922037:
 
     # u "You'd be right. *Chuckles* Feel like I haven't seen you in a while... Been busy?"
-    u "Et tu aurais raison. *Rire* J'ai l'impression de ne pas t'avoir vu depuis un moment... Tu étais occupée ?"
+    u "Et tu aurais raison. *Rire* J'ai l'impression de pas t'avoir vu depuis un moment... Tu étais occupée ?"
 
 # game/v12/scene29.rpy:39
 translate francais v12_lauren_sex_bbc15eb1:
@@ -292,7 +292,7 @@ translate francais v12_lauren_sex_45d4c8a1:
 translate francais v12_lauren_sex_c08bcb62:
 
     # u "Lauren, relax. *Chuckles* I appreciate that you planned on doing this, and no matter how it happened, it's not a big deal. Don't stress."
-    u "Détends-toi, Lauren. *Rire* J'apprécie que tu aies prévu de faire ça, et peu importe ce qui s'est passé, ce n'est pas grave. Ne stresse pas."
+    u "Détends-toi, Lauren. *Rire* J'apprécie que tu aies prévu de faire ça, et peu importe ce qui s'est passé, ce n'est pas grave. Stresse pas."
 
 # game/v12/scene29.rpy:370
 translate francais v12_lauren_sex_ac661599:
@@ -334,7 +334,7 @@ translate francais v12_lauren_sex_d79b160d:
 translate francais v12_lauren_sex_9197eac4:
 
     # u "Haha, no worries. We'll have fun tonight regardless, have a good evening Madam."
-    u "Haha, ne vous inquiétez pas. Nous allons tout de même nous amuser ce soir, passez une bonne soirée Madame."
+    u "Haha, vous inquiétez pas. Nous allons tout de même nous amuser ce soir, passez une bonne soirée Madame."
 
 # game/v12/scene29.rpy:405
 translate francais v12_lauren_sex_3c39fd63:
@@ -388,7 +388,7 @@ translate francais v12_lauren_sex_ece6c3fa:
 translate francais v12_lauren_sex_30a663e1:
 
     # u "I'm not. What actually matters to me is the amount of effort you've put into the night, not the way it's going. What's the saying? \"It's the thought that counts\"? *Chuckles*"
-    u "Je ne pense pas ça. Ce qui m'importe, c'est l'effort que tu as fourni pendant la soirée, pas la façon dont elle se déroule. Quel est le dicton ? \"C'est l'intention qui compte\" ? *Rire*"
+    u "Je pense pas ça. Ce qui m'importe, c'est l'effort que tu as fourni pendant la soirée, pas la façon dont elle se déroule. Quel est le dicton ? \"C'est l'intention qui compte\" ? *Rire*"
 
 # game/v12/scene29.rpy:482
 translate francais v12_lauren_sex_f0dc3f3d:
@@ -412,7 +412,7 @@ translate francais v12_lauren_sex_6db67d1a:
 translate francais v12_lauren_sex_1f46c651:
 
     # u "I'm not. What matters to me the most is the amount of effort you've put into the night, not the way it's going. What's the saying? \"It's the thought that counts\"?"
-    u "Je ne pense pas ça. Ce qui m'importe le plus, c'est l'effort que tu as fourni pendant la soirée, pas la façon dont elle se déroule. Quel est le dicton ? \"C'est l'intention qui compte\" ?"
+    u "Je pense pas ça. Ce qui m'importe le plus, c'est l'effort que tu as fourni pendant la soirée, pas la façon dont elle se déroule. Quel est le dicton ? \"C'est l'intention qui compte\" ?"
 
 # game/v12/scene29.rpy:506
 translate francais v12_lauren_sex_42f76455:
@@ -634,7 +634,7 @@ translate francais v12_lauren_sex_59187764:
 translate francais v12_lauren_sex_8eec5065:
 
     # u "Let's get in bed before a gust of wind knocks us off the roof. *Chuckles*"
-    u "Allons dans la chambre, avant qu'une rafale de vent ne nous fasse tomber du toit. *Rire*"
+    u "Allons dans la chambre, avant qu'une rafale de vent nous fasse tomber du toit. *Rire*"
 
 # game/v12/scene29.rpy:773
 translate francais v12_lauren_sex_fc820035:
@@ -916,7 +916,7 @@ translate francais v12s29_nsfwSkipLabel1_a800404a:
 translate francais v12s29_nsfwSkipLabel1_e4a4f692:
 
     # u "Glad we didn't get caught! *Chuckles*"
-    u "Heureusement qu'on ne s'est pas fait prendre ! *Rire*"
+    u "Heureusement qu'on s'est pas fait prendre ! *Rire*"
 
 # game/v12/scene29.rpy:1214
 translate francais v12s29_nsfwSkipLabel1_ac4b6892:
@@ -983,7 +983,7 @@ translate francais v12s29_nsfwSkipLabel1_59187764:
 translate francais v12s29_nsfwSkipLabel1_8eec5065:
 
     # u "Let's get in bed before a gust of wind knocks us off the roof. *Chuckles*"
-    u "Allons au lit avant qu'une rafale de vent ne nous fasse tomber du toit. *Rire*"
+    u "Allons au lit avant qu'une rafale de vent nous fasse tomber du toit. *Rire*"
 
 # game/v12/scene29.rpy:1216
 translate francais v12s29_nsfwSkipLabel1_fc820035:

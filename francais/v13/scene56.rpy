@@ -190,7 +190,7 @@ translate francais v13s56_09d57525:
 translate francais v13s56_c5ca68e1:
 
     # u "If it's his phone wallpaper I'm sure he already has one, don't you think?"
-    u "Si c'est le fond d'écran de son téléphone, je suis sûr qu'il en a déjà un, tu ne crois pas ?"
+    u "Si c'est le fond d'écran de son téléphone, je suis sûr qu'il en a déjà un, tu crois pas ?"
 
 # game/v13/scene56.rpy:225
 translate francais v13s56_1d70df4c:
@@ -220,7 +220,7 @@ translate francais v13s56_b4d077ec:
 translate francais v13s56_01f1eb53:
 
     # u "I can't afford both of these, Nora. *Chuckles*"
-    u "Je ne peux pas me permettre les deux, Nora. *Rire*"
+    u "Je peux pas me permettre les deux, Nora. *Rire*"
 
 # game/v13/scene56.rpy:250
 translate francais v13s56_f2ad413c:
@@ -232,7 +232,7 @@ translate francais v13s56_f2ad413c:
 translate francais v13s56_c1c1f639:
 
     # u "Hey! I'm not rich."
-    u "Hey ! Je ne suis pas riche."
+    u "Hey ! Je suis pas riche."
 
 # game/v13/scene56.rpy:260
 translate francais v13s56_aea8d7ec:

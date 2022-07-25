@@ -1175,3 +1175,22 @@ translate francais strings:
     # renpy/common/_layout/classic_load_save.rpym:179
     old "q"
     new "q"
+# TODO: Translation updated at 2022-07-01 04:03
+
+translate francais strings:
+
+    # renpy/common/00action_other.rpy:703
+    old "Open [text] directory."
+    new "Ouvrir le répertoire [texte]."
+
+    # renpy/common/00preferences.rpy:507
+    old "audio when minimized"
+    new "son lorsque le jeu est minimisé"
+
+    # renpy/common/00preferences.rpy:527
+    old "main volume"
+    new "volume principal"
+
+    # renpy/common/00preferences.rpy:531
+    old "mute main"
+    new "Couper le son"

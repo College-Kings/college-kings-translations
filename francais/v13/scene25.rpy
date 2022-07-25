@@ -46,7 +46,7 @@ translate francais v13s25_72d201db:
 translate francais v13s25_630f5816:
 
     # u "Of course you wouldn't know but, fighting is a pretty central part of my life."
-    u "Bien sûr, tu ne le sais pas encore, mais les combats occupent une place centrale dans ma vie."
+    u "Bien sûr, tu le sais pas encore, mais les combats occupent une place centrale dans ma vie."
 
 # game/v13/scene25.rpy:62
 translate francais v13s25_3016cb8c:
@@ -70,7 +70,7 @@ translate francais v13s25_7e4d22d5:
 translate francais v13s25_c4748efb:
 
     # u "I love it, you can't get the thrill of fighting from anywhere else."
-    u "J'adore ça, tu ne peux pas avoir le frisson du combat ailleurs."
+    u "J'adore ça, tu peux pas avoir le frisson du combat ailleurs."
 
 # game/v13/scene25.rpy:86
 translate francais v13s25_01e4ee52:
@@ -94,7 +94,7 @@ translate francais v13s25_55314fb5:
 translate francais v13s25_5fcfd008:
 
     # u "Of course, haha. I wouldn't let some punk try to fuck with you."
-    u "Bien sûr, haha. Je ne laisserais pas un punk essayer de te toucher."
+    u "Bien sûr, haha. Je laisserais pas un punk essayer de te toucher."
 
 # game/v13/scene25.rpy:106
 translate francais v13s25_5201eaa1:
@@ -238,7 +238,7 @@ translate francais v13s25_emmysg_d341b606:
 translate francais v13s25_emmysg_667422ee:
 
     # u "Oh no, I wasn't-"
-    u "Oh non, je ne pen-"
+    u "Oh non, je pen-"
 
 # game/v13/scene25.rpy:299
 translate francais v13s25_emmysg_4e302d38:

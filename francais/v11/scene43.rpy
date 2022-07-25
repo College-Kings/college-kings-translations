@@ -160,7 +160,7 @@ translate francais v11_at_the_bank_1154faf5:
 translate francais v11_at_the_bank_c04fa738:
 
     # u "A little... I'm just not interested in all this kind of stuff I guess."
-    u "Un peu... Je crois que, Je ne suis juste pas intéressé par ce genre de choses."
+    u "Un peu... Je crois que, Je suis juste pas intéressé par ce genre de choses."
 
 # game/v11/scene43.rpy:149
 translate francais v11_at_the_bank_298c8f9c:
@@ -442,7 +442,7 @@ translate francais v11_at_the_bank_6aaa6d58:
 translate francais v11_at_the_bank_83c2c15a:
 
     # am "Probably because we're not paying attention to the tour. *Chuckles*"
-    am "Sûrement parce qu'on ne fait pas attention à la visite. *Rire*"
+    am "Sûrement parce qu'on fait pas attention à la visite. *Rire*"
 
 # game/v11/scene43.rpy:386
 translate francais v11_at_the_bank_e5339abb:
@@ -472,7 +472,7 @@ translate francais v11_at_the_bank_0ec866a1:
 translate francais v11_at_the_bank_8df31213:
 
     # u "Let's go with an Amber distraction, we know she won't get nervous or mess anything up. *Chuckles*"
-    u "Allons-y avec une distraction d'Amber, on sait qu'elle ne sera pas nerveuse et qu'elle ne fera pas de dégâts. *Rire*"
+    u "Allons-y avec une distraction d'Amber, on sait qu'elle sera pas nerveuse et qu'elle fera pas de dégâts. *Rire*"
 
 # game/v11/scene43.rpy:413
 translate francais v11_at_the_bank_05c5e48a:
@@ -592,7 +592,7 @@ translate francais v11_at_the_bank_9847c493:
 translate francais v11_at_the_bank_5f8ae4a4:
 
     # am "They'll never take us in for this. *Chuckles* You have no proof."
-    am "Ils ne nous prendront jamais pour ça. *Rire* Vous n'avez aucune preuve."
+    am "Ils nous prendront jamais pour ça. *Rire* Vous n'avez aucune preuve."
 
 # game/v11/scene43.rpy:519
 translate francais v11_at_the_bank_a44b0e18:
@@ -646,7 +646,7 @@ translate francais v11_at_the_bank_768b02ff:
 translate francais v11_at_the_bank_5a3c5abd:
 
     # am "*Laughs* I'm sorry... I can't hold it in any longer. I can't believe you actually thought we were going to rob a bank in plain daylight."
-    am "*Rire* Je suis désolée... Je ne peux pas me retenir plus longtemps. Je ne peux pas croire que vous ayez réellement pensé que nous allions braquer une banque en plein jour."
+    am "*Rire* Je suis désolée... Je peux pas me retenir plus longtemps. Je peux pas croire que vous ayez réellement pensé que nous allions braquer une banque en plein jour."
 
 # game/v11/scene43.rpy:559
 translate francais v11_at_the_bank_c0ac6f5a:
@@ -844,7 +844,7 @@ translate francais v11_at_the_bank_4da32e52:
 translate francais v11_at_the_bank_7857a323:
 
     # u "(I'm definitely not walking back.)"
-    u "(Je ne veux plus marcher.)"
+    u "(Je veux plus marcher.)"
 
 translate francais strings:
 

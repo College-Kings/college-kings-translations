@@ -106,7 +106,7 @@ translate francais v13s12c_28c5e62a:
 translate francais v13s12c_50d17a80:
 
     # u "Ha, let's sit down before you fall off."
-    u "Ha, asseyons-nous avant que tu ne tombes."
+    u "Ha, asseyons-nous avant que tu tombes."
 
 # game/v13/scene12c.rpy:135
 translate francais v13s12c_22770a09:
@@ -142,7 +142,7 @@ translate francais v13s12c_a584870d:
 translate francais v13s12c_24606601:
 
     # u "Not gonna lie, I always forget you're the VP. I guess I never really hear you talk about Chicks stuff. *Chuckles*"
-    u "Je ne vais pas mentir, j'oublie toujours que tu es la vice-présidente. Je crois que je ne t'ai jamais vraiment entendu parler des trucs de Chicks. *Rire*"
+    u "Je vais pas mentir, j'oublie toujours que tu es la vice-présidente. Je crois que je t'ai jamais vraiment entendu parler des trucs de Chicks. *Rire*"
 
 # game/v13/scene12c.rpy:170
 translate francais v13s12c_35880416:
@@ -190,7 +190,7 @@ translate francais v13s12c_b784cd13:
 translate francais v13s12c_0a4d6997:
 
     # u "I didn't know you two were close, close like that."
-    u "Je ne savais pas que vous étiez proches, proches à ce point en tout cas."
+    u "Je savais pas que vous étiez proches, proches à ce point en tout cas."
 
 # game/v13/scene12c.rpy:210
 translate francais v13s12c_ef88981b:
@@ -256,7 +256,7 @@ translate francais v13s12c_611e93c7:
 translate francais v13s12c_e76a11fa:
 
     # u "*Laughs* I'm sorry for laughing, but wouldn't it be a bitch if it literally went fifty/fifty and your vote decided it all?"
-    u "*Rire* Je suis désolé de rire, mais ça ne serait pas génial si ça se jouait littéralement à 50/50 et que ton vote décidait de tout ?"
+    u "*Rire* Je suis désolé de rire, mais ça serait pas génial si ça se jouait littéralement à 50/50 et que ton vote décidait de tout ?"
 
 # game/v13/scene12c.rpy:265
 translate francais v13s12c_28fa6faf:

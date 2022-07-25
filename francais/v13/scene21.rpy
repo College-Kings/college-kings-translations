@@ -94,7 +94,7 @@ translate francais v13s21_a9365ee5:
 translate francais v13s21_a9ae083f:
 
     # u "Couldn't do or wouldn't do?"
-    u "Ne pourrait ou ne voudrait pas le faire ?"
+    u "Pourrait ou voudrait pas le faire ?"
 
 # game/v13/scene21.rpy:129
 translate francais v13s21_506976ad:
@@ -112,7 +112,7 @@ translate francais v13s21_3ed3fdb9:
 translate francais v13s21_32ca877a:
 
     # u "So, I wouldn't be smart enough to get paid for taking tests and writing finals for other students? That actually makes a lot of sense... You're smart I guess, I'm not."
-    u "Donc pour toi, je ne serais pas assez intelligent pour être payé pour passer des tests et écrire les réponses aux examens pour d'autres étudiants ? En fait, ça se tient... Tu es intelligent, moi pas."
+    u "Donc pour toi, je serais pas assez intelligent pour être payé pour passer des tests et écrire les réponses aux examens pour d'autres étudiants ? En fait, ça se tient... Tu es intelligent, moi pas."
 
 # game/v13/scene21.rpy:140
 translate francais v13s21_234bbea1:
@@ -166,7 +166,7 @@ translate francais v13s21_32cd3f44:
 translate francais v13s21_d7aba75b:
 
     # u "And I thought about forwarding them to Mr. Lee, but I decided not to."
-    u "J'ai pensé à les transférer à Mr Lee, mais j'ai décidé de ne pas le faire."
+    u "J'ai pensé à les transférer à Mr Lee, mais j'ai décidé de pas le faire."
 
 # game/v13/scene21.rpy:186
 translate francais v13s21_bb72108d:
@@ -190,7 +190,7 @@ translate francais v13s21_b9008c90:
 translate francais v13s21_bdfbcd4b:
 
     # u "So, this is what's gonna happen... When we get back to campus I don't wanna see your face again."
-    u "Donc, voilà ce qui va se passer... Quand on rentrera au campus, je ne veux plus jamais revoir ta sale gueule."
+    u "Donc, voilà ce qui va se passer... Quand on rentrera au campus, je veux plus jamais revoir ta sale gueule."
 
 # game/v13/scene21.rpy:206
 translate francais v13s21_4e3b9c9e:

@@ -4,13 +4,13 @@
 translate empty v10_leave_fight_d81fd0fd:
 
     # u "(What a fucking day! Definitely didn't expect any of this when I came to college. So many ups, so many downs. Crazy shit.)"
-    u "(Quelle putain de journée ! Je ne m'attendais vraiment pas à tout ça quand je suis arrivée à l'université. Tant de hauts, tant de bas. De la merde.)"
+    u "(Quelle putain de journée ! Je m'attendais vraiment pas à tout ça quand je suis arrivée à l'université. Tant de hauts, tant de bas. De la merde.)"
 
 # game/v10/scene9.rpy:21
 translate empty v10_leave_fight_d8ea90b7:
 
     # u "(Today really didn't go as planned... This is the worst fucking feeling.)"
-    u "(La journée ne s'est vraiment pas déroulée comme prévu... C'est la pire des sensations.)"
+    u "(La journée s'est vraiment pas déroulée comme prévu... C'est la pire des sensations.)"
 
 # game/v10/scene9.rpy:35
 translate empty v10_leave_fight_d1bfd8b5:
@@ -106,13 +106,13 @@ translate empty v10_leave_fight_7cbd5471:
 translate empty v10_leave_fight_d81fd0fd_1:
 
     # u "(What a fucking day! Definitely didn't expect any of this when I came to college. So many ups, so many downs. Crazy shit.)"
-    u "(Quelle putain de journée ! Je ne m'attendais vraiment pas à tout ça quand je suis arrivée à l'université. Tant de hauts, tant de bas. De la merde.)"
+    u "(Quelle putain de journée ! Je m'attendais vraiment pas à tout ça quand je suis arrivée à l'université. Tant de hauts, tant de bas. De la merde.)"
 
 # game/v10/scene9.rpy:152
 translate empty v10_leave_fight_d8ea90b7_1:
 
     # u "(Today really didn't go as planned... This is the worst fucking feeling.)"
-    u "(La journée ne s'est vraiment pas déroulée comme prévu... C'est la pire des sensations.)"
+    u "(La journée s'est vraiment pas déroulée comme prévu... C'est la pire des sensations.)"
 
 # game/v10/scene9.rpy:167
 translate empty v10_leave_fight_d1bfd8b5_1:
@@ -160,7 +160,7 @@ translate empty v10_leave_fight_0fcf95e9:
 translate empty v10_leave_fight_716f29f3:
 
     # u "Haha, I appreciate the compliments, but I'm super exhausted, so I think I'm just gonna head to bed if that's alright."
-    u "Haha, j'apprécie les compliments, mais je suis super fatigué, donc je pense que je vais juste aller me coucher si ça ne vous dérange pas."
+    u "Haha, j'apprécie les compliments, mais je suis super fatigué, donc je pense que je vais juste aller me coucher si ça vous dérange pas."
 
 # game/v10/scene9.rpy:215
 translate empty v10_leave_fight_f6c7ab3e:
@@ -183,13 +183,13 @@ translate empty strings:
 translate francais v10_leave_fight_d81fd0fd:
 
     # u "(What a fucking day! Definitely didn't expect any of this when I came to college. So many ups, so many downs. Crazy shit.)"
-    u "(Quelle putain de journée ! Je ne m'attendais vraiment pas à tout ça quand je suis arrivée à l'université. Tant de hauts, tant de bas. De la merde.)"
+    u "(Quelle putain de journée ! Je m'attendais vraiment pas à tout ça quand je suis arrivée à l'université. Tant de hauts, tant de bas. De la merde.)"
 
 # game/v10/scene9.rpy:21
 translate francais v10_leave_fight_d8ea90b7:
 
     # u "(Today really didn't go as planned... This is the worst fucking feeling.)"
-    u "(La journée ne s'est vraiment pas déroulée comme prévu... C'est la pire des sensations.)"
+    u "(La journée s'est vraiment pas déroulée comme prévu... C'est la pire des sensations.)"
 
 # game/v10/scene9.rpy:35
 translate francais v10_leave_fight_d1bfd8b5:
@@ -285,13 +285,13 @@ translate francais v10_leave_fight_7cbd5471:
 translate francais v10_leave_fight_d81fd0fd_1:
 
     # u "(What a fucking day! Definitely didn't expect any of this when I came to college. So many ups, so many downs. Crazy shit.)"
-    u "(Quelle putain de journée ! Je ne m'attendais vraiment pas à tout ça quand je suis arrivée à l'université. Tant de hauts, tant de bas. De la merde.)"
+    u "(Quelle putain de journée ! Je m'attendais vraiment pas à tout ça quand je suis arrivée à l'université. Tant de hauts, tant de bas. De la merde.)"
 
 # game/v10/scene9.rpy:152
 translate francais v10_leave_fight_d8ea90b7_1:
 
     # u "(Today really didn't go as planned... This is the worst fucking feeling.)"
-    u "(La journée ne s'est vraiment pas déroulée comme prévu... C'est la pire des sensations.)"
+    u "(La journée s'est vraiment pas déroulée comme prévu... C'est la pire des sensations.)"
 
 # game/v10/scene9.rpy:167
 translate francais v10_leave_fight_d1bfd8b5_1:
@@ -339,7 +339,7 @@ translate francais v10_leave_fight_0fcf95e9:
 translate francais v10_leave_fight_716f29f3:
 
     # u "Haha, I appreciate the compliments, but I'm super exhausted, so I think I'm just gonna head to bed if that's alright."
-    u "Haha, j'apprécie les compliments, mais je suis super fatigué, donc je pense que je vais juste aller me coucher si ça ne vous dérange pas."
+    u "Haha, j'apprécie les compliments, mais je suis super fatigué, donc je pense que je vais juste aller me coucher si ça vous dérange pas."
 
 # game/v10/scene9.rpy:215
 translate francais v10_leave_fight_f6c7ab3e:

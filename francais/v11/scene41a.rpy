@@ -22,7 +22,7 @@ translate francais v11_riley_amber_smoking_7472953f:
 translate francais v11_riley_amber_smoking_5516aca4:
 
     # am "I don't know, is he interrupting something Riley?"
-    am "Je ne sais pas, est-ce qu'il interrompt quelque chose Riley ?"
+    am "Je sais pas, est-ce qu'il interrompt quelque chose Riley ?"
 
 # game/v11/scene41a.rpy:35
 translate francais v11_riley_amber_smoking_a095774d:
@@ -52,13 +52,13 @@ translate francais v11_riley_amber_smoking_e43e7d32:
 translate francais v11_riley_amber_smoking_7ba5b607:
 
     # am "So we don't get caught by smelling up the room. There's a vent right here behind the bed."
-    am "Pour qu'on ne soit pas prises en train d'empester la pièce. Il y a un conduit d'aération juste là derrière le lit."
+    am "Pour qu'on soit pas prises en train d'empester la pièce. Il y a un conduit d'aération juste là derrière le lit."
 
 # game/v11/scene41a.rpy:65
 translate francais v11_riley_amber_smoking_5ef104c2:
 
     # u "Why not just use the window?"
-    u "Pourquoi ne pas simplement utiliser la fenêtre ?"
+    u "Pourquoi pas simplement utiliser la fenêtre ?"
 
 # game/v11/scene41a.rpy:70
 translate francais v11_riley_amber_smoking_10538efe:
@@ -154,7 +154,7 @@ translate francais v11_riley_amber_smoking_06ba53a5:
 translate francais v11_riley_amber_smoking_1da877c6:
 
     # u "No, you don't. *Chuckles* I ended up eating all of Josh's food and his Mom made me leave early... and pay her back for all the food."
-    u "Non, il ne valait mieux pas. *Rire* J'ai fini par manger toute la nourriture de Josh et sa mère m'a fait partir plus tôt... et j'ai dû la rembourser pour toute la nourriture."
+    u "Non, il valait mieux pas. *Rire* J'ai fini par manger toute la nourriture de Josh et sa mère m'a fait partir plus tôt... et j'ai dû la rembourser pour toute la nourriture."
 
 # game/v11/scene41a.rpy:167
 translate francais v11_riley_amber_smoking_c778ea2e:
@@ -166,13 +166,13 @@ translate francais v11_riley_amber_smoking_c778ea2e:
 translate francais v11_riley_amber_smoking_1394b9e5:
 
     # u "No you don't get it... I ate everything. *Chuckles* Like, I even used all of her condiments."
-    u "Non, tu ne comprends pas... J'ai TOUT mangé. *Rire* J'ai même utilisé tous ses condiments."
+    u "Non, tu comprends pas... J'ai TOUT mangé. *Rire* J'ai même utilisé tous ses condiments."
 
 # game/v11/scene41a.rpy:177
 translate francais v11_riley_amber_smoking_f645366a:
 
     # am "*Laughs* Holy shit... I don't even think I've ever been that high before."
-    am "*Rire* Putain de merde... Je ne pense pas avoir déjà été si défoncée."
+    am "*Rire* Putain de merde... Je pense pas avoir déjà été si défoncée."
 
 # game/v11/scene41a.rpy:182
 translate francais v11_riley_amber_smoking_717b2ced:
@@ -190,7 +190,7 @@ translate francais v11_riley_amber_smoking_900b9602:
 translate francais v11_riley_amber_smoking_542a184a:
 
     # am "Knowing Josh though, it most likely wasn't just weed... That's probably why you were so fucked up, ha."
-    am "Connaissant Josh, ça ne devait pas être que de l'herbe... C'est sûrement pour ça que tu étais si mal en point."
+    am "Connaissant Josh, ça devait pas être que de l'herbe... C'est sûrement pour ça que tu étais si mal en point."
 
 # game/v11/scene41a.rpy:202
 translate francais v11_riley_amber_smoking_3c14897d:
@@ -310,7 +310,7 @@ translate francais v11_riley_amber_smoking_c41a394c:
 translate francais v11_riley_amber_smoking_54f8ce16:
 
     # u "I wasn't saying... Ah, nevermind."
-    u "Je ne disais pas... Ah, oublie ça."
+    u "Je disais pas... Ah, oublie ça."
 
 # game/v11/scene41a.rpy:315
 translate francais v11_riley_amber_smoking_53a8228b:
@@ -358,7 +358,7 @@ translate francais v11_riley_amber_smoking_b5028a31:
 translate francais v11_riley_amber_smoking_b25120b8:
 
     # u "Yeah, I don't know... Sorry guys. I'm just not in the smoking mood."
-    u "Ouais, je ne sais pas... Désolé les filles. Je ne suis juste pas d'humeur à fumer."
+    u "Ouais, je sais pas... Désolé les filles. Je suis juste pas d'humeur à fumer."
 
 # game/v11/scene41a.rpy:381
 translate francais v11_riley_amber_smoking_38d5ae10:
@@ -400,7 +400,7 @@ translate francais v11_riley_amber_smoking_e2af70bc:
 translate francais v11_riley_amber_smoking_bed09cb6:
 
     # u "(I didn't even know she was still here.)"
-    u "(Je ne savais même pas qu'elle était encore là.)"
+    u "(Je savais même pas qu'elle était encore là.)"
 
 translate francais strings:
 

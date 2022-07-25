@@ -34,7 +34,7 @@ translate francais v11_treasure_hunt_8c793fe0:
 translate francais v11_treasure_hunt_a0e46955:
 
     # u "Does this not feel too easy to be some elaborate treasure hunt?"
-    u "Est-ce que ça ne te semble pas trop facile pour être une chasse au trésor élaborée ?"
+    u "Est-ce que ça te semble pas trop facile pour être une chasse au trésor élaborée ?"
 
 # game/v11/scene20.rpy:60
 translate francais v11_treasure_hunt_2df6552f:
@@ -58,7 +58,7 @@ translate francais v11_treasure_hunt_22523320:
 translate francais v11_treasure_hunt_f3b12ad7:
 
     # u "I didn't know I needed to..."
-    u "Je ne savais pas que j'avais besoin de..."
+    u "Je savais pas que j'avais besoin de..."
 
 # game/v11/scene20.rpy:80
 translate francais v11_treasure_hunt_00968c9b:
@@ -88,7 +88,7 @@ translate francais v11_treasure_hunt_4a2d663e:
 translate francais v11_treasure_hunt_30808409:
 
     # u "I don't know if I should be impressed that you remember or think you're a little ridiculous."
-    u "Je ne sais pas si je dois être impressionnée que tu te souviennes ou si je dois te trouver un peu ridicule."
+    u "Je sais pas si je dois être impressionnée que tu te souviennes ou si je dois te trouver un peu ridicule."
 
 # game/v11/scene20.rpy:105
 translate francais v11_treasure_hunt_29cd6f9c:
@@ -238,7 +238,7 @@ translate francais v11_treasure_hunt_7a709810:
 translate francais v11_treasure_hunt_3873a0cc:
 
     # u "It'll be fine, Riley. We'll both take our best shot and if we don't win, well... who cares anyway? This whole thing is probably some dumb prank they pull on tourists."
-    u "Ça va aller, Riley. On va tous les deux faire de notre mieux et si on ne gagne pas, eh bien... qui s'en soucie de toute façon ? Tout ça, ça doit être une farce stupide qu'ils font aux touristes."
+    u "Ça va aller, Riley. On va tous les deux faire de notre mieux et si on gagne pas, eh bien... qui s'en soucie de toute façon ? Tout ça, ça doit être une farce stupide qu'ils font aux touristes."
 
 # game/v11/scene20.rpy:270
 translate francais v11_treasure_hunt_72e26c6b:

@@ -28,7 +28,7 @@ translate francais v13_emmy_sex_c42af467:
 translate francais v13_emmy_sex_bbd6cd28:
 
     # u "Fuck yessssss... (She's vibrating my fucking cock...) Don't stop, you're so fucking good at t-"
-    u "Putain, ouiiiiiiiiii... (Elle fait vibrer ma putain de bite...) Ne t'arrête pas, tu es tellement bonne à ça-"
+    u "Putain, ouiiiiiiiiii... (Elle fait vibrer ma putain de bite...) T'arrête pas, tu es tellement bonne à ça-"
 
 # game/v13/scene26.rpy:39
 translate francais v13_emmy_sex_07b82cc0:
@@ -136,7 +136,7 @@ translate francais v13_emmy_sex_28b8dee5:
 translate francais v13_emmy_sex_0d8c6652:
 
     # u "I don't think I could stop... Even if I... *Moans* Wanted to..."
-    u "Je ne pense pas que je pourrais m'arrêter... Même si je... *Gémis* le voulais..."
+    u "Je pense pas que je pourrais m'arrêter... Même si je... *Gémis* le voulais..."
 
 # game/v13/scene26.rpy:183
 translate francais v13_emmy_sex_bd02c84b:
@@ -172,7 +172,7 @@ translate francais v13_emmy_sex_0ba2504b:
 translate francais v13_emmy_sex_dca74aac:
 
     # u "Shit, Emmy I... I didn't mean to, but I think I just came inside of you. *Chuckles*"
-    u "Merde, Emmy je... Je ne voulais pas, mais je crois que je viens de jouir en toi. *Rire*"
+    u "Merde, Emmy je... Je voulais pas, mais je crois que je viens de jouir en toi. *Rire*"
 
 # game/v13/scene26.rpy:207
 translate francais v13_emmy_sex_fc24ab9c:

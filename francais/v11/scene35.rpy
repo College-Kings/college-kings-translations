@@ -46,7 +46,7 @@ translate francais v11_riley_sex_0323a753:
 translate francais v11_riley_sex_44827527:
 
     # u "I guess a short late night conversation won't hurt. *Chuckles*"
-    u "Je crois qu'une petite conversation de fin de soirée ne fera pas de mal. *Rire*"
+    u "Je crois qu'une petite conversation de fin de soirée fera pas de mal. *Rire*"
 
 # game/v11/scene35.rpy:60
 translate francais v11_riley_sex_ea21977d:
@@ -88,7 +88,7 @@ translate francais v11_riley_sex_b54e4039:
 translate francais v11_riley_sex_a633860c:
 
     # u "Truthfully, ladies loved me in school. I couldn't tell you why, but I've never really had a problem with girls."
-    u "Sincèrement, les filles m'aimaient au lycée. Je ne pourrais pas te dire pourquoi, mais je n'ai jamais vraiment eu de problème avec les filles."
+    u "Sincèrement, les filles m'aimaient au lycée. Je pourrais pas te dire pourquoi, mais je n'ai jamais vraiment eu de problème avec les filles."
 
 # game/v11/scene35.rpy:102
 translate francais v11_riley_sex_83adab1d:
@@ -112,7 +112,7 @@ translate francais v11_riley_sex_bb632226:
 translate francais v11_riley_sex_37fd44b6:
 
     # u "We can't control the cards we're dealt, I just got a lucky hand."
-    u "On ne peut pas contrôler les cartes qu'on reçoit, j'ai juste eu une main chanceuse."
+    u "On peut pas contrôler les cartes qu'on reçoit, j'ai juste eu une main chanceuse."
 
 # game/v11/scene35.rpy:122
 translate francais v11_riley_sex_c4774f47:
@@ -166,7 +166,7 @@ translate francais v11_riley_sex_b9850760:
 translate francais v11_riley_sex_9942879d:
 
     # u "I wouldn't say I struggled. I think dating just wasn't at the top of my list in high school."
-    u "Je ne dirais pas que j'ai lutté. Je pense que les rencards n'étaient pas en haut de ma liste au lycée."
+    u "Je dirais pas que j'ai lutté. Je pense que les rencards n'étaient pas en haut de ma liste au lycée."
 
 # game/v11/scene35.rpy:170
 translate francais v11_riley_sex_131daa01:
@@ -268,7 +268,7 @@ translate francais v11_riley_sex_sg_1bb11320:
 translate francais v11_riley_sex_sg_a409b5b3:
 
     # u "Sorry Riley, I'm not really in the mood for anything like that right now."
-    u "Désolé Riley, je ne suis pas vraiment d'humeur pour ça en ce moment."
+    u "Désolé Riley, je suis pas vraiment d'humeur pour ça en ce moment."
 
 # game/v11/scene35.rpy:312
 translate francais v11_riley_sex_sg_1a340a71:
@@ -400,7 +400,7 @@ translate francais v11_riley_sex_sg_a9da3930:
 translate francais v11_riley_sex_sg_e06c438a:
 
     # u "Bet you don't give me attitude again, huh?"
-    u "Je parie que tu ne vas plus me faire la morale, hein ?"
+    u "Je parie que tu vas plus me faire la morale, hein ?"
 
 # game/v11/scene35.rpy:518
 translate francais v11_riley_sex_sg_a9da3930_1:

@@ -148,7 +148,7 @@ translate francais v12_jc_amber_411b6587:
 translate francais v12_jc_amber_a21602c9:
 
     # u "Haha, don't worry. Amber is harmless... (I think.)"
-    u "Haha, ne t'inquiète pas. Amber est inoffensive... (Je pense.)"
+    u "Haha, t'inquiète pas. Amber est inoffensive... (Je pense.)"
 
 # game/v12/scene25.rpy:165
 translate francais v12_jc_amber_920a3fee:
@@ -574,7 +574,7 @@ translate francais v12_jc_continue_6aaf44af:
 translate francais v12_jc_continue_f17359e0:
 
     # u "(Looks like I'm not the only one that isn't asleep. *Chuckles*)"
-    u "(On dirait que je ne suis pas le seul à ne pas dormir. *Rire*)"
+    u "(On dirait que je suis pas le seul à pas dormir. *Rire*)"
 # TODO: Translation updated at 2022-01-18 10:42
 
 # game/v12/scene25.rpy:193

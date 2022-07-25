@@ -28,7 +28,7 @@ translate francais v12_party_wake_up_5c80ab2e:
 translate francais v12_party_wake_up_ac7e9726:
 
     # u "*Chuckles* You don't remember?"
-    u "*Rire* Tu ne te souviens pas ?"
+    u "*Rire* Tu te souviens pas ?"
 
 # game/v12/scene19.rpy:53
 translate francais v12_party_wake_up_692aa310:
@@ -40,7 +40,7 @@ translate francais v12_party_wake_up_692aa310:
 translate francais v12_party_wake_up_b6fd93dd:
 
     # u "You don't remem-"
-    u "Tu ne te souv-"
+    u "Tu te souv-"
 
 # game/v12/scene19.rpy:63
 translate francais v12_party_wake_up_02f1df0a:

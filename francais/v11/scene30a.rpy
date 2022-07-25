@@ -40,7 +40,7 @@ translate francais v11_lauren_apology_85daf1c0:
 translate francais v11_lauren_apology_c0ade4a9:
 
     # u "Look Lauren, I know I fucked up. I don't want to make excuses or anything like that, I just want to apologize. It was a moment that I wish I could take back."
-    u "Écoute Lauren, je sais que j'ai merdé. Je ne veux pas m'excuser ou quelque chose comme ça, je veux juste me faire pardonner. C'était un moment où j'aimerais pouvoir revenir en arrière."
+    u "Écoute Lauren, je sais que j'ai merdé. Je veux pas m'excuser ou quelque chose comme ça, je veux juste me faire pardonner. C'était un moment où j'aimerais pouvoir revenir en arrière."
 
 # game/v11/scene30a.rpy:66
 translate francais v11_lauren_apology_16eeb3ee:
@@ -64,7 +64,7 @@ translate francais v11_lauren_apology_8cc576d1:
 translate francais v11_lauren_apology_ca41721c:
 
     # u "I care about you so much Lauren, more than you know. I just made a mistake."
-    u "Je tiens tellement à toi Lauren ! ...Plus que tu ne le crois ! J'ai juste fait une erreur."
+    u "Je tiens tellement à toi Lauren ! ...Plus que tu le crois ! J'ai juste fait une erreur."
 
 # game/v11/scene30a.rpy:86
 translate francais v11_lauren_apology_85ff94d7:
@@ -100,7 +100,7 @@ translate francais v11_lauren_apology_34a9d6dd:
 translate francais v11_lauren_apology_49b6ea2d:
 
     # u "Lauren, you know how much I care for you. I promise, I'll never do anything like this ever again."
-    u "Lauren, tu sais à quel point je tiens à toi. Je te promets, je ne ferai plus jamais quelque chose comme ça."
+    u "Lauren, tu sais à quel point je tiens à toi. Je te promets, je ferai plus jamais quelque chose comme ça."
 
 # game/v11/scene30a.rpy:128
 translate francais v11_lauren_apology_1c0eba34:

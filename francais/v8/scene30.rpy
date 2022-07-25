@@ -28,7 +28,7 @@ translate francais amber_sex_at_joshs_989905b7:
 translate francais amber_sex_at_joshs_7dff5d3d:
 
     # am "I can't believe how much I missed it."
-    am "Je n'arrive pas à croire à quel point ça m'a manqué."
+    am "J'arrive pas à croire à quel point ça m'a manqué."
 
 # game/v8/scene30.rpy:63
 translate francais amber_sex_at_joshs_a912d6d4:
@@ -58,7 +58,7 @@ translate francais amber_sex_at_joshs_a8ef544d:
 translate francais amber_sex_at_joshs_967e3c25:
 
     # u "Ah yes!"
-    u "Ah oui !"
+    u "Oh oui !"
 
 # game/v8/scene30.rpy:90
 translate francais amber_sex_at_joshs_016299f7:
@@ -70,19 +70,19 @@ translate francais amber_sex_at_joshs_016299f7:
 translate francais amber_sex_at_joshs_1a387098:
 
     # am "Sit down. I want more of that cock now."
-    am "Allonge-toi. Maintenant, je veux encore plus de cette bite."
+    am "Allonge-toi. Maintenant, j'en veux davantage de cette queue."
 
 # game/v8/scene30.rpy:115
 translate francais amber_sex_at_joshs_6828cb01:
 
     # u "That is a magnificent ass!"
-    u "Tu as un cul magnifique !"
+    u "T'as un cul magnifique !"
 
 # game/v8/scene30.rpy:116
 translate francais amber_sex_at_joshs_3318c05d:
 
     # am "*Chuckles* I'm glad you like it."
-    am "*Rire* Je suis contente qu'il te plaise."
+    am "*Rire* Contente qu'il te plaise."
 
 # game/v8/scene30.rpy:128
 translate francais amber_sex_at_joshs_dcd60c77:
@@ -100,19 +100,19 @@ translate francais amber_sex_at_joshs_bcbb5e12:
 translate francais amber_sex_at_joshs_68288b6c:
 
     # am "Ohh fuck [name]! You feel sooo good!"
-    am "Ohh putain [name] ! Tu es si bien en moi !"
+    am "Ohh putain [name] ! T'es si bien en moi !"
 
 # game/v8/scene30.rpy:136
 translate francais amber_sex_at_joshs_3924ae6b:
 
     # u "God, you're so fucking beautiful!"
-    u "Merde, tu es si belle, putain !"
+    u "Merde, t'es tellement belle, putain !"
 
 # game/v8/scene30.rpy:142
 translate francais amber_sex_at_joshs_83fb8e15:
 
     # am "Ahhh yes!"
-    am "Ahhh oui !"
+    am "Ohhh oui !"
 
 # game/v8/scene30.rpy:148
 translate francais amber_sex_at_joshs_d43a7e01:
@@ -124,7 +124,7 @@ translate francais amber_sex_at_joshs_d43a7e01:
 translate francais amber_sex_at_joshs_99a407f3:
 
     # am "You're not close yet, are you?"
-    am "Tu n'es pas encore près, n'est-ce pas ?"
+    am "T'es pas encore au bout, hein ?"
 
 # game/v8/scene30.rpy:155
 translate francais amber_sex_at_joshs_d0d25ffc:
@@ -148,7 +148,7 @@ translate francais amber_sex_at_joshs_919457ef:
 translate francais amber_sex_at_joshs_e64ee617:
 
     # am "Yes. But I hope you're lubed enough by now."
-    am "Oui. Mais j'espère que tu es assez lubrifié maintenant."
+    am "Oui. Mais maintenant, j'espère que t'es suffisamment lubrifié."
 
 # game/v8/scene30.rpy:168
 translate francais amber_sex_at_joshs_b64fdafd:
@@ -172,7 +172,7 @@ translate francais amber_sex_at_joshs_5062cbe8:
 translate francais amber_sex_at_joshs_cf73239b:
 
     # am "Oh yes, a hundred percent. Do it. C'mon."
-    am "Oh oui, à 100%%. Fais-le. Allez."
+    am "Oh oui, à 100%%. Vas-y. Allez."
 
 # game/v8/scene30.rpy:181
 translate francais amber_sex_at_joshs_1eabb9b8:
@@ -190,7 +190,7 @@ translate francais amber_sex_at_joshs_4caf0ac3:
 translate francais amber_sex_at_joshs_a35e85f4:
 
     # u "Oh fuck Amber, you're amazing!"
-    u "Oh putain Amber, tu es incroyable !"
+    u "Oh putain Amber, t'es incroyable !"
 
 # game/v8/scene30.rpy:190
 translate francais amber_sex_at_joshs_eabe876f:
@@ -202,13 +202,13 @@ translate francais amber_sex_at_joshs_eabe876f:
 translate francais amber_sex_at_joshs_95ba6e4e:
 
     # u "Shh! SHH! Don't shout, you don't wanna wake Josh up."
-    u "Chuuut ! Chuuut ! Ne crie pas, tu ne veux pas réveiller Josh."
+    u "Chuuut ! Chuuut ! Crie pas, tu veux pas réveiller Josh."
 
 # game/v8/scene30.rpy:192
 translate francais amber_sex_at_joshs_de6cb3f5:
 
     # am "But this feels sooo goood!! I'm-"
-    am "Mais ça fait... Teeeellement de biennnnn ! Je suis-"
+    am "Mais c'est... siiiiii bonnnnn ! Je suis-"
 
 # game/v8/scene30.rpy:196
 translate francais amber_sex_at_joshs_714ad948:
@@ -232,7 +232,7 @@ translate francais amber_sex_at_joshs_9906f9d3:
 translate francais amber_sex_at_joshs_9425dbfd:
 
     # u "I think I'm close too."
-    u "Je pense que je suis proche aussi."
+    u "Je crois que je suis pas loin non plus."
 
 # game/v8/scene30.rpy:202
 translate francais amber_sex_at_joshs_9cd04334:
@@ -318,7 +318,7 @@ translate francais v8s30_amberBlowjob_989905b7:
 translate francais v8s30_amberBlowjob_7dff5d3d:
 
     # am "I can't believe how much I missed it."
-    am "Je n'arrive pas à croire à quel point ça m'a manqué."
+    am "J'arrive pas à croire à quel point ça m'a manqué."
 
 # game/v8/scene30.rpy:65
 translate francais v8s30_amberBlowjob_a912d6d4:
@@ -348,7 +348,7 @@ translate francais v8s30_amberBlowjob_a8ef544d:
 translate francais v8s30_amberBlowjob_967e3c25:
 
     # u "Ah yes!"
-    u "Ah oui !"
+    u "Oh oui !"
 
 # game/v8/scene30.rpy:92
 translate francais v8s30_amberBlowjob_016299f7:
@@ -360,19 +360,19 @@ translate francais v8s30_amberBlowjob_016299f7:
 translate francais v8s30_amberBlowjob_1a387098:
 
     # am "Sit down. I want more of that cock now."
-    am "Allonge-toi. Maintenant, je veux encore plus de cette bite."
+    am "Allonge-toi. Maintenant, j'en veux davantage de cette queue."
 
 # game/v8/scene30.rpy:117
 translate francais v8s30_amberBlowjob_6828cb01:
 
     # u "That is a magnificent ass!"
-    u "Tu as un cul magnifique !"
+    u "T'as un cul magnifique !"
 
 # game/v8/scene30.rpy:118
 translate francais v8s30_amberBlowjob_3318c05d:
 
     # am "*Chuckles* I'm glad you like it."
-    am "*Rire* Je suis contente que ça te plaise."
+    am "*Rire* Contente que ça te plaise."
 
 # game/v8/scene30.rpy:131
 translate francais v8s30_amberCowgirl_dcd60c77:
@@ -390,19 +390,19 @@ translate francais v8s30_amberCowgirl_bcbb5e12:
 translate francais v8s30_amberCowgirl_68288b6c:
 
     # am "Ohh fuck [name]! You feel sooo good!"
-    am "Ohh putain [name] ! Tu te sens si bien !"
+    am "Ohh putain [name] ! T'es si bien en moi !"
 
 # game/v8/scene30.rpy:139
 translate francais v8s30_amberCowgirl_3924ae6b:
 
     # u "God, you're so fucking beautiful!"
-    u "Merde, tu es si belle, putain !"
+    u "Merde, t'es tellement belle, putain !"
 
 # game/v8/scene30.rpy:145
 translate francais v8s30_amberCowgirl_83fb8e15:
 
     # am "Ahhh yes!"
-    am "Ahhh oui !"
+    am "Ohhh oui !"
 
 # game/v8/scene30.rpy:151
 translate francais v8s30_amberCowgirl_d43a7e01:
@@ -414,13 +414,13 @@ translate francais v8s30_amberCowgirl_d43a7e01:
 translate francais v8s30_amberCowgirl_99a407f3:
 
     # am "You're not close yet, are you?"
-    am "Tu n'es pas encore près, n'est-ce pas ?"
+    am "T'es pas encore au bout, hein ?"
 
 # game/v8/scene30.rpy:158
 translate francais v8s30_amberCowgirl_d0d25ffc:
 
     # u "Nope. Ahh! but this feels so good."
-    u "Nan. Ahh ! mais c'est tellement bon."
+    u "Nan. Ahh ! mais c'est tellement... bon."
 
 # game/v8/scene30.rpy:159
 translate francais v8s30_amberCowgirl_fc122851:
@@ -438,7 +438,7 @@ translate francais v8s30_amberAnal_919457ef:
 translate francais v8s30_amberAnal_e64ee617:
 
     # am "Yes. But I hope you're lubed enough by now."
-    am "Oui. Mais j'espère que tu es assez lubrifié maintenant."
+    am "Oui. Mais maintenant, j'espère que t'es suffisamment lubrifié."
 
 # game/v8/scene30.rpy:172
 translate francais v8s30_amberAnal_b64fdafd:
@@ -462,7 +462,7 @@ translate francais v8s30_amberAnal_5062cbe8:
 translate francais v8s30_amberAnal_cf73239b:
 
     # am "Oh yes, a hundred percent. Do it. C'mon."
-    am "Oh oui, à 100%%. Fais-le. Allez."
+    am "Oh oui, à 100%%. Vas-y. Allez."
 
 # game/v8/scene30.rpy:185
 translate francais v8s30_amberAnal_1eabb9b8:
@@ -480,7 +480,7 @@ translate francais v8s30_amberAnal_4caf0ac3:
 translate francais v8s30_amberAnal_a35e85f4:
 
     # u "Oh fuck Amber, you're amazing!"
-    u "Oh putain Amber, tu es incroyable !"
+    u "Oh putain Amber, t'es incroyable !"
 
 # game/v8/scene30.rpy:194
 translate francais v8s30_amberAnal_eabe876f:
@@ -492,13 +492,13 @@ translate francais v8s30_amberAnal_eabe876f:
 translate francais v8s30_amberAnal_95ba6e4e:
 
     # u "Shh! SHH! Don't shout, you don't wanna wake Josh up."
-    u "Chuuut ! Chuuut ! Ne crie pas, tu ne veux pas réveiller Josh."
+    u "Chuuut ! Chuuut ! Crie pas, tu veux pas réveiller Josh."
 
 # game/v8/scene30.rpy:196
 translate francais v8s30_amberAnal_de6cb3f5:
 
     # am "But this feels sooo goood!! I'm-"
-    am "Mais ça fait... Teeeellement de biennnnn ! Je suis-"
+    am "Mais c'est... siiiiii bonnnnn ! Je suis-"
 
 # game/v8/scene30.rpy:200
 translate francais v8s30_amberAnal_714ad948:
@@ -522,7 +522,7 @@ translate francais v8s30_amberAnal_b600fb26:
 translate francais v8s30_amberAnal_9425dbfd:
 
     # u "I think I'm close too."
-    u "Je pense que je suis proche aussi."
+    u "Je crois que je suis pas loin non plus."
 
 # game/v8/scene30.rpy:206
 translate francais v8s30_amberAnal_586c41d6:

@@ -46,7 +46,7 @@ translate francais v13_walk_garden_3f730f6c:
 translate francais v13_walk_garden_a121b961:
 
     # u "Hmph, okay... I'm not really sure how I feel about this whole situation, guess I'll just have to see it through, ha."
-    u "Hmph, ok... Je ne suis pas vraiment sûr de ce que je dois ressentir à propos de toute cette situation, je crois que je vais simplement voir ce qu'il en est..."
+    u "Hmph, ok... Je suis pas vraiment sûr de ce que je dois ressentir à propos de toute cette situation, je crois que je vais simplement voir ce qu'il en est..."
 
 # game/v13/scene36.rpy:60
 translate francais v13_walk_garden_a0f101d7:

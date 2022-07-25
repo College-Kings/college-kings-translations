@@ -232,7 +232,7 @@ translate francais v11_chicks_house_25e7028c:
 translate francais v11_chicks_house_2dc07ab1:
 
     # u "I don't know what's best."
-    u "Je ne sais pas ce qui est le mieux."
+    u "Je sais pas ce qui est le mieux."
 
 # game/v11/scene8.rpy:228
 translate francais v11_chicks_house_5e897b84:

@@ -52,7 +52,7 @@ translate francais v13s57a_715d2ae1:
 translate francais v13s57a_af10761f:
 
     # u "What was with all the sir stuff? I've never heard you talk like that before. *Chuckles*"
-    u "C'était quoi tous ces trucs de \"monsieur\" ? Je ne t'ai jamais entendu parler comme ça avant. *Rire*"
+    u "C'était quoi tous ces trucs de \"monsieur\" ? Je t'ai jamais entendu parler comme ça avant. *Rire*"
 
 # game/v13/scene57a.rpy:93
 translate francais v13s57a_73b51270:

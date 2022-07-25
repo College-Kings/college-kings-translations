@@ -10,7 +10,7 @@ translate francais v13_walk_imre_bf480442:
 translate francais v13_walk_imre_ca830689:
 
     # u "I'm not a fuckboy, Imre."
-    u "Je ne suis pas un enfoiré, Imre."
+    u "Je suis pas un enfoiré, Imre."
 
 # game/v13/scene38.rpy:26
 translate francais v13_walk_imre_5d768374:
@@ -130,13 +130,13 @@ translate francais v13_walk_imre_e40f1457:
 translate francais v13_walk_imre_3db34aa0:
 
     # imre "Very much so. If Chris was such a good guy that she rejected my brother, then why all of the sudden is he not good enough for her to reject you? Chris hasn't changed."
-    imre "Tout à fait. Si Chris était un si bon mec au point qu'elle rejette mon frère, alors pourquoi tout d'un coup toi, elle ne te rejette pas ? Chris n'a pas changé."
+    imre "Tout à fait. Si Chris était un si bon mec au point qu'elle rejette mon frère, alors pourquoi tout d'un coup toi, elle te rejette pas ? Chris n'a pas changé."
 
 # game/v13/scene38.rpy:121
 translate francais v13_walk_imre_66ef4081:
 
     # u "I get that you know a lot about them Imre, but you can't know every aspect of their relationship."
-    u "Je comprends que tu en saches beaucoup sur eux Imre, mais tu ne peux pas connaître tous les aspects de leur relation."
+    u "Je comprends que tu en saches beaucoup sur eux Imre, mais tu peux pas connaître tous les aspects de leur relation."
 
 # game/v13/scene38.rpy:123
 translate francais v13_walk_imre_e4db8f63:
@@ -160,7 +160,7 @@ translate francais v13_walk_imre_d1c02405:
 translate francais v13_walk_imre_aabac07b:
 
     # u "You're kind of dick riding Chris a little bit, don't you think so?"
-    u "Tu te moques un peu de Chris, tu ne crois pas ?"
+    u "Tu te moques un peu de Chris, tu crois pas ?"
 
 # game/v13/scene38.rpy:143
 translate francais v13_walk_imre_c8b03be2:
@@ -172,4 +172,4 @@ translate francais v13_walk_imre_c8b03be2:
 translate francais v13_walk_imre_8203a028:
 
     # u "I won't debate you on that."
-    u "Je ne vais pas débattre de ça."
+    u "Je vais pas débattre là dessus."

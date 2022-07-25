@@ -46,7 +46,7 @@ translate francais v10_sam_kitchen_86794f1d:
 translate francais v10_sam_kitchen_138cbd96:
 
     # u "I didn't burst in calling after you for no reason. You acted like it was urgent and serious."
-    u "Je ne me suis pas précipité après ton appel sans raison. Tu as agi comme si c'était urgent et sérieux."
+    u "Je me suis pas précipité après ton appel sans raison. Tu as agi comme si c'était urgent et sérieux."
 
 # game/v10/scene25a.rpy:69
 translate francais v10_sam_kitchen_797c59ba:
@@ -64,7 +64,7 @@ translate francais v10_sam_kitchen_546a7b2c:
 translate francais v10_sam_kitchen_1c5e58f1:
 
     # sa "Well, my brother isn't here and I needed a drink. I also didn't want to drink by myself. That's where you come in."
-    sa "Eh bien, mon frère n'est pas là et j'avais besoin d'un verre. Je ne voulais pas non plus boire toute seule. Et c'est là que tu interviens."
+    sa "Eh bien, mon frère n'est pas là et j'avais besoin d'un verre. Je voulais pas non plus boire toute seule. Et c'est là que tu interviens."
 
 # game/v10/scene25a.rpy:84
 translate francais v10_sam_kitchen_46b7f17f:
@@ -76,13 +76,13 @@ translate francais v10_sam_kitchen_46b7f17f:
 translate francais v10_sam_kitchen_5fce13a3:
 
     # sa "Scared of a little drink? You're not gonna make me drink all by myself are you?"
-    sa "Tu as peur d'un petit verre ? Tu ne vas pas me laisser boire toute seule, n'est-ce pas ?"
+    sa "Tu as peur d'un petit verre ? Tu vas pas me laisser boire toute seule, n'est-ce pas ?"
 
 # game/v10/scene25a.rpy:98
 translate francais v10_sam_kitchen_ae35a0ed:
 
     # u "Scared? I'd never pass on a drink."
-    u "Peur ? Je ne me priverais jamais d'un verre."
+    u "Peur ? Je me priverais jamais d'un verre."
 
 # game/v10/scene25a.rpy:103
 translate francais v10_sam_kitchen_4a044163:
@@ -118,13 +118,13 @@ translate francais v10_sam_kitchen_1e795efb:
 translate francais v10_sam_kitchen_8b91e179:
 
     # u "Also, you're not supposed to drink. Aren't you trying to be sober???"
-    u "Aussi, tu n'es pas censé boire. Tu ne cherches pas à être sobre ? ??"
+    u "Aussi, tu n'es pas censé boire. Tu cherches pas à être sobre ? ??"
 
 # game/v10/scene25a.rpy:150
 translate francais v10_sam_kitchen_7662c35a:
 
     # sa "Yeah from hard drugs. But I'm not gonna stop drinking a little cocktail once in a while. I've never had an alcohol problem."
-    sa "Oui, des drogues dures. Mais je ne vais pas arrêter de boire un petit cocktail de temps en temps. Je n'ai jamais eu de problème d'alcool."
+    sa "Oui, des drogues dures. Mais je vais pas arrêter de boire un petit cocktail de temps en temps. Je n'ai jamais eu de problème d'alcool."
 
 # game/v10/scene25a.rpy:155
 translate francais v10_sam_kitchen_d9b15a63:
@@ -202,13 +202,13 @@ translate francais v10_sam_kitchen_65f12040:
 translate francais v10_sam_kitchen_7cc2bd63:
 
     # u "*Chuckles* That was random? Why? Don't tell me you're drunk already."
-    u "*Rire* Hein ? Pourquoi ? Ne me dis pas que tu es déjà bourrée."
+    u "*Rire* Hein ? Pourquoi ? Me dis pas que tu es déjà bourrée."
 
 # game/v10/scene25a.rpy:235
 translate francais v10_sam_kitchen_fbd67467:
 
     # sa "*Tipsy* I'm not drunk, just answer the question."
-    sa "*Pompette* Je ne suis pas ivre, réponds juste à la question."
+    sa "*Pompette* Je suis pas ivre, réponds juste à la question."
 
 # game/v10/scene25a.rpy:243
 translate francais v10_sam_kitchen_1f588c0d:
@@ -280,7 +280,7 @@ translate francais v10_sam_kitchen_b8f2e4e1:
 translate francais v10_sam_kitchen_9071aaf9:
 
     # u "I guess me coming was an emergency, I definitely wouldn't want you drinking by yourself."
-    u "Je crois que si je suis venu en urgence, c'est que je ne voulais pas que tu boives toute seule."
+    u "Je crois que si je suis venu en urgence, c'est que je voulais pas que tu boives toute seule."
 
 # game/v10/scene25a.rpy:298
 translate francais v10_sam_kitchen_15e719c1:
@@ -316,7 +316,7 @@ translate francais v10_sam_kitchen_08d95713:
 translate francais v10_sam_kitchen_2df0ce46:
 
     # u "Chill out man, I got home and she was already drinking and I didn't want her to drink alone so I got a glass. It's not a big deal."
-    u "Relax, je suis rentré à la maison et elle était déjà en train de boire et je ne voulais pas qu'elle boive seule alors j'ai pris un verre. Ce n'est pas un gros problème."
+    u "Relax, je suis rentré à la maison et elle était déjà en train de boire et je voulais pas qu'elle boive seule alors j'ai pris un verre. Ce n'est pas un gros problème."
 
 # game/v10/scene25a.rpy:324
 translate francais v10_sam_kitchen_a196221a:
@@ -340,13 +340,13 @@ translate francais v10_sam_kitchen_595460c2:
 translate francais v10_sam_kitchen_72fc52a6:
 
     # ca "She shouldn't be drinking in the first place. Don't encourage her!"
-    ca "Déjà, elle ne devrait pas boire. Ne l'encourage pas !"
+    ca "Déjà, elle devrait pas boire. L'encourage pas !"
 
 # game/v10/scene25a.rpy:344
 translate francais v10_sam_kitchen_959323fc:
 
     # u "Look man, I'm not her dad. I can't control what she does. And neither can you."
-    u "Ecoute mec, je ne suis pas son père. Je ne peux pas contrôler ce qu'elle fait. Et toi non plus."
+    u "Ecoute mec, je suis pas son père. Je peux pas contrôler ce qu'elle fait. Et toi non plus."
 
 # game/v10/scene25a.rpy:349
 translate francais v10_sam_kitchen_78c040d7:

@@ -16,7 +16,7 @@ translate francais v13s14b_b41053fc:
 translate francais v13s14b_bd953ed1:
 
     # u "I don't know, but I wasn't expecting this."
-    u "Je ne sais pas, mais je ne m'attendais pas à ça..."
+    u "Je sais pas, mais je m'attendais pas à ça..."
 
 # game/v13/scene14b.rpy:34
 translate francais v13s14b_e322537a:
@@ -46,7 +46,7 @@ translate francais v13s14b_02fa723f:
 translate francais v13s14b_e3e9d036:
 
     # u "One shouldn't hurt."
-    u "Un ne devrait pas faire de mal."
+    u "Un devrait pas faire de mal."
 
 # game/v13/scene14b.rpy:59
 translate francais v13s14b_91f2d630:
@@ -437,4 +437,4 @@ translate francais v13s14b_25cd2512:
 translate francais v13s14b_ef0ca01d:
 
     # u "I don't know, but I wasn't expecting this..."
-    u "Je ne sais pas, mais je ne m'attendais pas à ça..."
+    u "Je sais pas, mais je m'attendais pas à ça..."

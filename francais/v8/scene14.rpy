@@ -28,7 +28,7 @@ translate francais strings:
 
     # game/v8/scene14.rpy:18
     old "[name] I'm really scared! I am in so much trouble! I need you! Please come over??"
-    new "[name] J'ai vraiment peur ! J'ai tellement d'ennuis ! J'ai besoin de toi ! Tu peux venir, s'il te plait ??"
+    new "[name] J'ai vraiment peur ! J'ai de gros problèmes ! J'ai besoin de toi ! Tu peux venir, s'il te plait ??"
 
     # game/v8/scene14.rpy:19
     old "Ok try to stay calm. I'll be right over."

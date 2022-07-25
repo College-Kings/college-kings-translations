@@ -136,7 +136,7 @@ translate francais v12_follow_chris_fac809e7:
 translate francais v12_follow_chris_0f3e9485:
 
     # u "I don't think that was an overreaction, man..."
-    u "Je ne pense pas que c'était une réaction excessive, mec..."
+    u "Je pense pas que c'était une réaction excessive, mec..."
 
 # game/v12/scene26a.rpy:142
 translate francais v12_follow_chris_77daaa53:
@@ -226,7 +226,7 @@ translate francais v12_follow_chris_2d32c103:
 translate francais v12_follow_chris_46b6c062:
 
     # u "You're right, Chris. She took it too far but... I don't know what you can do to get her or anyone else to understand."
-    u "Tu as raison, Chris. Elle est allée trop loin, mais... Je ne sais pas ce que tu peux faire pour qu'elle ou les autres comprennent."
+    u "Tu as raison, Chris. Elle est allée trop loin, mais... Je sais pas ce que tu peux faire pour qu'elle ou les autres comprennent."
 
 # game/v12/scene26a.rpy:231
 translate francais v12_follow_chris_e7d767c1:
@@ -238,7 +238,7 @@ translate francais v12_follow_chris_e7d767c1:
 translate francais v12_follow_chris_2a5fe815:
 
     # u "Sure, you just gave yourself a pretty serious setback. That doesn't mean it's completely over. There's always more you can do."
-    u "Bien sûr, tu viens de t'infliger un sérieux coup dur. Cela ne veut pas dire que c'est complètement terminé. Il y a toujours quelque chose que tu peux faire."
+    u "Bien sûr, tu viens de t'infliger un sérieux coup dur. Ça veut pas dire que c'est complètement terminé. Il y a toujours quelque chose que tu peux faire."
 
 # game/v12/scene26a.rpy:241
 translate francais v12_follow_chris_ba96d113:
@@ -280,7 +280,7 @@ translate francais v12_follow_chris_6b61cd39:
 translate francais v12_follow_chris_045a003e:
 
     # u "Not gonna lie, you should've known she'd get mad at you for hanging with someone other than her. Especially when she's been asking to hang out since the beginning."
-    u "Je ne vais pas mentir, tu aurais dû savoir qu'elle serait furieuse que tu traînes avec quelqu'un d'autre qu'elle. Surtout quand elle te demandait de sortir avec elle depuis le début."
+    u "Je vais pas mentir, tu aurais dû savoir qu'elle serait furieuse que tu traînes avec quelqu'un d'autre qu'elle. Surtout quand elle te demandait de sortir avec elle depuis le début."
 
 # game/v12/scene26a.rpy:272
 translate francais v12_follow_chris_80b37da8:
@@ -334,7 +334,7 @@ translate francais v12_follow_chris_44dc720d:
 translate francais v12_follow_chris_9305b7b4:
 
     # u "*Chuckles* I'm sure you have. I don't think I've ever seen you that mad before. Think I may have seen a flash of Grayson in you for a minute."
-    u "*Rire* J'imagine que oui. Je ne pense pas t'avoir déjà vu aussi en colère avant. J'ai eu l'impression de voir un peu de Grayson en toi pendant une minute."
+    u "*Rire* J'imagine que oui. Je pense pas t'avoir déjà vu aussi en colère avant. J'ai eu l'impression de voir un peu de Grayson en toi pendant une minute."
 
 # game/v12/scene26a.rpy:340
 translate francais v12_follow_chris_4b99aa71:

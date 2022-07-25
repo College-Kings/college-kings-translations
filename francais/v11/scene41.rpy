@@ -52,7 +52,7 @@ translate francais v11_chloe_bathroom_4b833b72:
 translate francais v11_chloe_bathroom_fed104df:
 
     # u "Chloe, you have to give things time. Eventually, it's going to resolve itself, all things do. This will be no different."
-    u "Chloé, tu dois donner du temps aux choses. Finalement, ça va se résoudre, comme tout le reste. Ce ne sera pas différent."
+    u "Chloé, tu dois donner du temps aux choses. Finalement, ça va se résoudre, comme tout le reste. Ce sera pas différent."
 
 # game/v11/scene41.rpy:85
 translate francais v11_chloe_bathroom_d4e0f7ea:

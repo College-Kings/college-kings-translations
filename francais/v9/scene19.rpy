@@ -232,7 +232,7 @@ translate francais v9_lau_dorm_97fba12b:
 translate francais v9_lau_dorm_ca52d90a:
 
     # u "Hmm. I see why you're stressed. But don't worry. We can come up with something just as awesome."
-    u "Hmm. Je vois pourquoi tu es stressée. Mais ne t'inquiète pas. On peut trouver quelque chose de tout aussi génial."
+    u "Hmm. Je vois pourquoi tu es stressée. Mais t'inquiète pas. On peut trouver quelque chose de tout aussi génial."
 
 # game/v9/scene19.rpy:243
 translate francais v9_lau_dorm_6ec484d9:
@@ -358,7 +358,7 @@ translate francais v9_lau_dorm_ad2b6e35:
 translate francais v9_lau_dorm_6d3dc536:
 
     # u "Why don't we keep it simple and bake some cakes?"
-    u "Pourquoi ne pas faire simple et faire des gâteaux ?"
+    u "Pourquoi pas faire simple et faire des gâteaux ?"
 
 # game/v9/scene19.rpy:348
 translate francais v9_lau_dorm_98c63c96:

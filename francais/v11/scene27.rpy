@@ -22,7 +22,7 @@ translate francais v11_bartender_hotel_chat_937fa394:
 translate francais v11_bartender_hotel_chat_94e9bf0a:
 
     # u "Years? You say that like you're old. You can't be far off from my age."
-    u "Des années ? Vous dites ça comme si vous étiez vieille. Vous ne devez pas être très éloignée de mon âge."
+    u "Des années ? Vous dites ça comme si vous étiez vieille. Vous devez pas être très éloignée de mon âge."
 
 # game/v11/scene27.rpy:30
 translate francais v11_bartender_hotel_chat_90787cbb:
@@ -154,7 +154,7 @@ translate francais v11_bartender_hotel_chat_4e563043:
 translate francais v11_bartender_hotel_chat_f593d227:
 
     # u "My girl wouldn't be too happy about that."
-    u "Ma petite amie ne serait pas très heureuse de ça."
+    u "Ma petite amie serait pas très heureuse de ça."
 
 # game/v11/scene27.rpy:164
 translate francais v11_bartender_hotel_chat_0cab74ab:
@@ -304,7 +304,7 @@ translate francais v11_bartender_hotel_chat_40c2be51:
 translate francais v11_bartender_hotel_chat_d8d86ad5:
 
     # u "Can we just not talk?"
-    u "On ne peut pas juste ne pas parler ?"
+    u "On peut pas juste pas parler ?"
 
 # game/v11/scene27.rpy:326
 translate francais v11_bartender_hotel_chat_7d9c8a18:
@@ -316,7 +316,7 @@ translate francais v11_bartender_hotel_chat_7d9c8a18:
 translate francais v11_bartender_hotel_chat_3cc7fcdb:
 
     # u "I didn't call you ugly, but if I did, why would you want to talk to me?"
-    u "Je ne vous ai pas traité de moche, mais si je l'avais fait, pourquoi voudriez-vous me parler ?"
+    u "Je vous ai pas traité de moche, mais si je l'avais fait, pourquoi voudriez-vous me parler ?"
 
 # game/v11/scene27.rpy:336
 translate francais v11_bartender_hotel_chat_0f808041:
@@ -491,7 +491,7 @@ translate francais v11s27_bartender_no_40c2be51:
 translate francais v11s27_bartender_no_d8d86ad5:
 
     # u "Can we just not talk?"
-    u "On ne peut pas juste arrêter de parler ?"
+    u "On peut pas juste arrêter de parler ?"
 
 # game/v11/scene27.rpy:362
 translate francais v11s27_bartender_no_7d9c8a18:
@@ -503,7 +503,7 @@ translate francais v11s27_bartender_no_7d9c8a18:
 translate francais v11s27_bartender_no_3cc7fcdb:
 
     # u "I didn't call you ugly, but if I did, why would you want to talk to me?"
-    u "Je ne vous ai pas traité de moche, mais si je l'avais fait, pourquoi voudriez-vous me parler ?"
+    u "Je vous ai pas traité de moche, mais si je l'avais fait, pourquoi voudriez-vous me parler ?"
 
 # game/v11/scene27.rpy:372
 translate francais v11s27_bartender_no_0f808041:

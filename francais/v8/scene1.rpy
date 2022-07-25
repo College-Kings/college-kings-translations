@@ -4,7 +4,7 @@
 translate francais v8_la_start_d4dac734:
 
     # u "I like the sound of that."
-    u "Cette nuit me plait."
+    u "Cette soirée me plait vraiment."
 
 # game/v8/scene1.rpy:40
 translate francais v8_la_start_0972f814:
@@ -16,19 +16,19 @@ translate francais v8_la_start_0972f814:
 translate francais v8_la_start_8e9a48fa:
 
     # la "You're a great kisser, you know that?"
-    la "Tu embrasses bien, tu sais ça ?"
+    la "Tu embrasses très bien, tu le sais ça ?"
 
 # game/v8/scene1.rpy:58
 translate francais v8_la_start_cd9a1f92:
 
     # u "Mhmm, and you aren't half bad yourself."
-    u "Mhmm, et tu n'es pas mal non plus."
+    u "Mhmm, et t'es pas mal non plus."
 
 # game/v8/scene1.rpy:62
 translate francais v8_la_start_ffe6a51b:
 
     # la "Oh, reeaaally?"
-    la "Oh, vraiiiiment ?"
+    la "Ah, vraiiiiment ?"
 
 # game/v8/scene1.rpy:86
 translate francais v8_la_start_339b1fe2:
@@ -82,7 +82,7 @@ translate francais v8_la_start_5ce36c46:
 translate francais v8_la_start_7f2cc854:
 
     # u "Why don't you get some rest then?"
-    u "Pourquoi ne te reposes-tu pas alors ?"
+    u "Alors pourquoi tu te reposes pas ?"
 
 # game/v8/scene1.rpy:123
 translate francais v8_la_start_2cc6a98c:
@@ -136,25 +136,25 @@ translate francais v8_la_start_c451d00c:
 translate francais v8_la_start_f968e5fe:
 
     # la "I'm just glad we finally got some cuddle time. I feel closer to you."
-    la "Je suis juste contente que nous ayons enfin eu un moment de câlins. Je me sens plus proche de toi."
+    la "Je suis juste contente qu'on ait enfin eu un moment câlins. Je me sens plus proche de toi."
 
 # game/v8/scene1.rpy:181
 translate francais v8_la_start_6690f5ab:
 
     # u "Me too. Hopefully we can have more nights like this."
-    u "Moi aussi. J'espère que nous pourrons avoir plus de nuits comme celle-ci."
+    u "Moi aussi. J'espère qu'on pourra avoir plus de nuits comme ça."
 
 # game/v8/scene1.rpy:185
 translate francais v8_la_start_01cd3e7c:
 
     # la "Of course. You are my boyfriend, after all."
-    la "Bien sûr. Tu es mon petit-ami, après tout."
+    la "Évidemment. Après tout, tu es mon petit-ami."
 
 # game/v8/scene1.rpy:194
 translate francais v8_la_start_03169d9f:
 
     # u "You're the cutest, especially when you sleep."
-    u "Tu es la plus mignonne, surtout quand tu dors."
+    u "T'es vraiment mignonne, surtout quand tu dors."
 
 # game/v8/scene1.rpy:198
 translate francais v8_la_start_5c77bec6:
@@ -166,19 +166,19 @@ translate francais v8_la_start_5c77bec6:
 translate francais v8_la_start_008ca48b:
 
     # u "You are my girlfriend, after all. Haha."
-    u "Tu es ma petite-amie, après tout. Haha."
+    u "Après tout, t'es ma petite amie. Haha."
 
 # game/v8/scene1.rpy:206
 translate francais v8_la_start_053a3dc6:
 
     # la "Okaaaaay."
-    la "Okaaaaay."
+    la "D'accoooord."
 
 # game/v8/scene1.rpy:210
 translate francais v8_la_start_50e94f3d:
 
     # u "What? Just saying you look like an angel when you sleep."
-    u "Quoi ? Je dis juste que tu ressembles à un ange quand tu dors."
+    u "Quoi ? Je dis juste que quand tu dors, tu ressembles à un ange."
 
 # game/v8/scene1.rpy:219
 translate francais v8_la_start_5edcd870:
@@ -190,7 +190,7 @@ translate francais v8_la_start_5edcd870:
 translate francais v8_la_start_f0a21e59:
 
     # la "Although... on the other hand, laying here with you all day would be nice. Hah-"
-    la "Bien que... d'un autre côté, j'aimerais rester ici avec toi toute la journée."
+    la "Bien que... d'un autre côté, j'aimerais rester là avec toi toute la journée."
 
 # game/v8/scene1.rpy:227
 translate francais v8_la_start_8e745126:
@@ -202,7 +202,7 @@ translate francais v8_la_start_8e745126:
 translate francais v8_la_start_b6ec0d25:
 
     # u "As awesome as a day in bed sounds, I don't want to be the reason you flunk out."
-    u "Aussi génial qu'une journée au lit puisse paraître, je ne veux pas être la raison pour laquelle tu échoues."
+    u "Aussi génial qu'une journée au lit puisse paraître, je veux pas être la raison pour laquelle tu échoues."
 
 # game/v8/scene1.rpy:240
 translate francais v8_la_start_f6427103:
@@ -214,4 +214,4 @@ translate francais v8_la_start_f6427103:
 translate francais v8_la_start_e1040739:
 
     # la "Okay babe. Byeee."
-    la "Ok bébé. Au revoir."
+    la "Oui bébé. Au revoir."

@@ -112,7 +112,7 @@ translate francais v12_riley_room_ab478a5a:
 translate francais v12_riley_room_7f996817:
 
     # u "You know, if I didn't know any better I'd think you were one of the Chicks."
-    u "Tu sais, si je ne te connaissais pas mieux, je penserais que tu es une des Chicks."
+    u "Tu sais, si je te connaissais pas mieux, je penserais que tu es une des Chicks."
 
 # game/v12/scene22.rpy:130
 translate francais v12_riley_room_10bb9999:
@@ -148,7 +148,7 @@ translate francais v12_riley_room_c9c1f3ab:
 translate francais v12_riley_room_a0fb1dd5:
 
     # u "Tell me something about you that nobody knows."
-    u "Dis-moi quelque chose sur toi que personne ne sait."
+    u "Dis-moi quelque chose sur toi que personne sait."
 
 # game/v12/scene22.rpy:160
 translate francais v12_riley_room_f1e06a6b:
@@ -160,7 +160,7 @@ translate francais v12_riley_room_f1e06a6b:
 translate francais v12_riley_room_65b73bc1:
 
     # u "But I'm not just \"anyone\", I'm [name]. *Chuckles*"
-    u "Mais je ne suis pas juste \"qui que ce soit\", je suis [name]. *Rire*"
+    u "Mais je suis pas juste \"qui que ce soit\", je suis [name]. *Rire*"
 
 # game/v12/scene22.rpy:170
 translate francais v12_riley_room_210bbe21:
@@ -256,7 +256,7 @@ translate francais v12_riley_room_a54fa21f:
 translate francais v12_riley_room_b5b896ed:
 
     # u "Well, you don't have to worry about me messing with it. So if no one else knows that there's something in there, I think you're in the clear."
-    u "Eh bien, tu n'as pas à t'inquiéter que je la touche. Donc si personne d'autre ne sait qu'il y a quelque chose là-dedans, je pense que tu es en sécurité."
+    u "Eh bien, tu n'as pas à t'inquiéter que je la touche. Donc si personne d'autre sait qu'il y a quelque chose là-dedans, je pense que tu es en sécurité."
 
 # game/v12/scene22.rpy:255
 translate francais v12_riley_room_db90a618:

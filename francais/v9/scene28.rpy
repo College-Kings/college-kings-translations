@@ -10,7 +10,7 @@ translate francais v9_call_w_lindsey_71fbada3:
 translate francais v9_call_w_lindsey_40e33fe2:
 
     # u "(I didn't see myself going down this road when I started college, but I'm in too deep now. There's no way I'll lose, no way in hell.)"
-    u "(Je ne me voyais pas prendre cette voie quand j'ai commencé l'université, mais je suis trop impliqué maintenant. Il n'y a aucune chance que je perde, aucune chance, putain.)"
+    u "(Je me voyais pas prendre cette voie quand j'ai commencé l'université, mais je suis trop impliqué maintenant. Il n'y a aucune chance que je perde, aucune chance, putain.)"
 
 # game/v9/scene28.rpy:24
 translate francais v9_call_w_lindsey_3f8c31a9:
@@ -166,7 +166,7 @@ translate francais v9_call_w_lindsey_71fbada3_1:
 translate francais v9_call_w_lindsey_40e33fe2_1:
 
     # u "(I didn't see myself going down this road when I started college, but I'm in too deep now. There's no way I'll lose, no way in hell.)"
-    u "(Je ne me voyais pas prendre cette voie quand j'ai commencé l'université, mais je suis trop impliqué maintenant. Il n'y a aucune chance que je perde, aucune chance, putain.)"
+    u "(Je me voyais pas prendre cette voie quand j'ai commencé l'université, mais je suis trop impliqué maintenant. Il n'y a aucune chance que je perde, aucune chance, putain.)"
 
 # game/v9/scene28.rpy:154
 translate francais v9_call_w_lindsey_3f8c31a9_1:

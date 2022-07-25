@@ -118,7 +118,7 @@ translate francais v14s03e_efd15700:
 translate francais v14s03e_3a4d11c8:
 
     # u "I don't know man, I think you should've done it."
-    u "Je ne sais pas mec, je crois que tu aurais dû le faire."
+    u "Je sais pas mec, je crois que tu aurais dû le faire."
 
 # game/v14/scene3e.rpy:151
 translate francais v14s03e_b0baba1e:

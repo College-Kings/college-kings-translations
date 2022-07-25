@@ -64,13 +64,13 @@ translate francais drug_deal_w_josh_fcebfc33:
 translate francais drug_deal_w_josh_f68777bb:
 
     # je "See, this is where you're under the wrong impression you're in control of this situation. My buddy here, Lars, has a quick temper and fists like rock. Pretty sure I don't gotta spell shit out for ya, do I?"
-    je "D'où t'as cru avoir l'impression de contrôler le deal ? Mon pote Lars, là. C'est un  rapide avec des poings de pierre. Je suis sûr que j'ai pas besoin d'expliquer la merde dans laquelle vous êtes, hein ?"
+    je "D'où t'as cru avoir l'impression de contrôler le deal ? Mon pote Lars, là. C'est un rapide avec des poings de pierre. Je suis sûr que j'ai pas à vous expliquer la merde dans laquelle vous êtes, hein ?"
 
 # game/v8/scene28.rpy:85
 translate francais drug_deal_w_josh_d64a601f:
 
     # jo "Spell out what? You've got the cash, I've got the shit, what's the problem?"
-    jo "Expliquer quoi ? T'as l'argent, j'ai la came, où est le problème ?"
+    jo "Expliquer quoi ? T'as l'argent, j'ai la came, il est où le problème ?"
 
 # game/v8/scene28.rpy:90
 translate francais drug_deal_w_josh_dacd3592:
@@ -112,13 +112,13 @@ translate francais no_int_deal_w_josh_f097ed12:
 translate francais no_int_deal_w_josh_41dd6e28:
 
     # je "No, no, no...fuck YOU."
-    je "Non, non, non... \"Va te faire FOUTRE\" ???"
+    je "Nan, nan, nan... \"Va te faire FOUTRE\" ???"
 
 # game/v8/scene28.rpy:531
 translate francais no_int_deal_w_josh_9651f818:
 
     # je "You call the cops, I'll find you and pull your tongue down and tie it to your dick, got it?"
-    je "Si t'appelles les flics, j'te jure que je te retrouverai, je t'arracherai la langue et l'attacherai à ta queue, TU COMPRENDS ?"
+    je "Si t'appelles les flics, j'te jure que je te retrouverai, je t'arracherai la langue et l'attacherai à ta queue, T'AS COMPRIS ?"
 
 # game/v8/scene28.rpy:559
 translate francais dodged_pipe_07b0b527:
@@ -136,7 +136,7 @@ translate francais dodged_pipe_e5cc030a:
 translate francais hit_with_pipe_fdf16ca3:
 
     # je "Hahaha, see ya, 'hero'."
-    je "Hahaha, à plus tard, \"héros\"."
+    je "Hahaha, à plus tard, le \"héros\"."
 
 # game/v8/scene28.rpy:631
 translate francais beat_by_lars_53d5aab9:
@@ -166,7 +166,7 @@ translate francais check_on_josh_661b0966:
 translate francais check_on_josh_fad7082b:
 
     # u "We don't have time for this. We gotta go. C'mon, let's get you home."
-    u "On n'a pas le temps pour ça. On doit y aller. Allez, je te ramène à la maison."
+    u "On a pas le temps pour ça. On doit dégager. Viens, je te ramène à la maison."
 
 translate francais strings:
 
@@ -228,7 +228,7 @@ translate francais no_int_deal_w_josh_79dde407:
 translate francais hit_with_pipe_64683e6f:
 
     # je "Hahaha, see ya, \"hero\"."
-    je "Hahaha, à plus tard, \"héros\"."
+    je "Hahaha, à plus tard, le \"héros\"."
 
 # game/v8/scene28.rpy:625
 translate francais beat_by_lars_51bbb9fc:

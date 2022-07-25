@@ -106,7 +106,7 @@ translate francais v12_chase_nora_80d2facc:
 translate francais v12_chase_nora_c428b58a:
 
     # u "A man should never put his hands on his woman, no excuses."
-    u "Un homme ne devrait jamais poser ses mains sur sa femme, pas d'excuses."
+    u "Un homme devrait jamais poser ses mains sur sa femme, pas d'excuses."
 
 # game/v12/scene26b.rpy:112
 translate francais v12_chase_nora_95cbd19c:
@@ -118,7 +118,7 @@ translate francais v12_chase_nora_95cbd19c:
 translate francais v12_chase_nora_7777dc3e:
 
     # u "So if she's asking for more attention, then that's what you need to give her, 'cause somehow you're not giving her enough."
-    u "Donc si elle demande plus d'attention, alors c'est ce que tu dois lui donner, parce que d'une certaine manière tu ne lui en donnes pas assez."
+    u "Donc si elle demande plus d'attention, alors c'est ce que tu dois lui donner, parce que d'une certaine manière tu lui en donnes pas assez."
 
 # game/v12/scene26b.rpy:118
 translate francais v12_chase_nora_7e8f6119:
@@ -136,19 +136,19 @@ translate francais v12_chase_nora_2b426213:
 translate francais v12_chase_nora_a45ef69f:
 
     # u "It's okay to take time to gather your thoughts and emotions but, you can't run in circles forever."
-    u "Il est normal de prendre du temps pour rassembler ses pensées et ses émotions, mais vous ne pouvez pas tourner en rond éternellement."
+    u "Il est normal de prendre du temps pour rassembler ses pensées et ses émotions, mais vous pouvez pas tourner en rond éternellement."
 
 # game/v12/scene26b.rpy:138
 translate francais v12_chase_nora_a77cbf9f:
 
     # u "You have to resolve things at some point. I'm not telling what to do, I'd never do that."
-    u "Il faut bien résoudre les choses à un moment donné. Je ne te dis pas ce qu'il faut faire, je ne me permettrais jamais de faire ça."
+    u "Il faut bien résoudre les choses à un moment donné. Je te dis pas ce qu'il faut faire, je me permettrais jamais de faire ça."
 
 # game/v12/scene26b.rpy:139
 translate francais v12_chase_nora_7f3b6a7a:
 
     # u "but it doesn't seem like Chris is understanding anything you tell him, so I don't see how trying to talk through this is going to help."
-    u "mais Chris n'a pas l'air de comprendre ce que tu lui dis, donc je ne vois pas en quoi essayer de lui en parler va aider à résoudre le problème."
+    u "mais Chris n'a pas l'air de comprendre ce que tu lui dis, donc je vois pas en quoi essayer de lui en parler va aider à résoudre le problème."
 
 # game/v12/scene26b.rpy:144
 translate francais v12_chase_nora_e842ddaf:
@@ -202,7 +202,7 @@ translate francais v12_chase_nora_df25e0fb:
 translate francais v12_chase_nora_02e809f6:
 
     # u "I try to play the safe zone, so I'm not gonna point fingers at anyone. I will say this though, nothing you're asking of him is unreasonable and nothing he's doing is unreasonable."
-    u "J'essaie de jouer la carte de la sécurité, donc je ne vais pas pointer du doigt qui que ce soit. Mais je dirai ceci : rien de ce que tu lui demandes n'est déraisonnable et rien de ce qu'il fait n'est déraisonnable."
+    u "J'essaie de jouer la carte de la sécurité, donc je vais pas pointer du doigt qui que ce soit. Mais je dirai ceci : rien de ce que tu lui demandes n'est déraisonnable et rien de ce qu'il fait n'est déraisonnable."
 
 # game/v12/scene26b.rpy:185
 translate francais v12_chase_nora_8ba0ef69:

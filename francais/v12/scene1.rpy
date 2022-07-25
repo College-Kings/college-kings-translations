@@ -238,7 +238,7 @@ translate francais v12_nora_robbed_61ebcd72:
 translate francais v12_nora_robbed_47185e93:
 
     # am "Okay, calm down little guy... *Chuckles* I didn't want to mess up my nails so I just took the easy route and made sure he wouldn't be able to... well, reproduce in the near future. *Chuckles*"
-    am "Ok, calme-toi petit gars... *Rire* Je ne voulais pas abîmer mes ongles alors j'ai pris la voie la plus facile et je me suis assurée qu'il ne pourrait pas... se reproduire dans un futur proche. *Rire*"
+    am "Ok, calme-toi petit gars... *Rire* Je voulais pas abîmer mes ongles alors j'ai pris la voie la plus facile et je me suis assurée qu'il pourrait pas... se reproduire dans un futur proche. *Rire*"
 
 # game/v12/scene1.rpy:255
 translate francais v12_nora_robbed_5b51d9ee:
@@ -286,7 +286,7 @@ translate francais v12_nora_robbed_85596393:
 translate francais v12_nora_robbed_c525654e:
 
     # u "(Amber's tough as nails. Definitely don't wanna be on her bad side. Maybe if I would've gone after the robber I could've been the hero.)"
-    u "(Amber est dure comme la pierre. Je ne veux définitivement pas être de son mauvais côté. Peut-être que si j'avais poursuivi le voleur j'aurais pu être le héros.)"
+    u "(Amber est dure comme la pierre. Je veux définitivement pas être de son mauvais côté. Peut-être que si j'avais poursuivi le voleur j'aurais pu être le héros.)"
 
 translate francais strings:
 

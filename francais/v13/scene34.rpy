@@ -94,7 +94,7 @@ translate francais v13s34_e5e01ffb:
 translate francais v13s34_12f8c8f5:
 
     # u "Riley, nothing about this seems weird to you?"
-    u "Riley, tu ne trouves rien de bizarre dans tout ça ?"
+    u "Riley, tu trouves rien de bizarre dans tout ça ?"
 
 # game/v13/scene34.rpy:94
 translate francais v13s34_7eefda7a:
@@ -130,7 +130,7 @@ translate francais v13s34_bfcac9da:
 translate francais v13s34_0906ee7b:
 
     # u "Like, c'mon... We don't even know what's really going on here."
-    u "Genre, \"Allez-y... Nous ne savons même pas ce qui se passe réellement ici.\""
+    u "Genre, \"Allez-y... On sait même pas ce qui se passe réellement ici.\""
 
 # game/v13/scene34.rpy:124
 translate francais v13s34_7924f31c:
@@ -220,7 +220,7 @@ translate francais v13s34_46ff0584:
 translate francais v13s34_ca872548:
 
     # u "How the hell do you not know what the phrase is?"
-    u "Bordel, comment tu peux ne pas connaître cette phrase ?"
+    u "Bordel, comment tu peux pas connaître cette phrase ?"
 
 # game/v13/scene34.rpy:222
 translate francais v13s34_18a5df96:
@@ -280,7 +280,7 @@ translate francais v13s34_cbec7a37:
 translate francais v13s34_89c6df2e:
 
     # u "Does it look like I'm playing?! I will fuck you up if she doesn't get out of there, real soon."
-    u "Est-ce que j'ai l'air de m'amuser ?! Je vais te défoncer si elle ne sort pas de là, très vite."
+    u "Est-ce que j'ai l'air de m'amuser ?! Je vais te défoncer si elle sort pas de là, très vite."
 
 # game/v13/scene34.rpy:289
 translate francais v13s34_f1f55e1b:
@@ -322,7 +322,7 @@ translate francais v13s34_ff6710a0:
 translate francais v13s34_71b3aa89:
 
     # u "I'M NOT PLAYING THIS STUPID F-"
-    u "JE NE JOUE PAS À CE FOUTU J-"
+    u "JE JOUE PAS À CE FOUTU J-"
 
 # game/v13/scene34.rpy:336
 translate francais v13s34_3ddece32:
@@ -400,7 +400,7 @@ translate francais v13s34_d7904bf6:
 translate francais v13s34_feff5b96:
 
     # u "You just wait till our teacher finds us, he isn't named Bruce Lee for nothing. I can't wait to watch while he fucks you guys up."
-    u "Attendez que notre professeur nous trouve, il ne s'appelle pas Bruce Lee pour rien. J'ai hâte de voir comment il va vous défoncer."
+    u "Attendez que notre professeur nous trouve, il s'appelle pas Bruce Lee pour rien. J'ai hâte de voir comment il va vous défoncer."
 
 # game/v13/scene34.rpy:373
 translate francais v13s34_a0e35ed7:
@@ -478,7 +478,7 @@ translate francais v13s34_c6329da3:
 translate francais v13s34_511a5d8c:
 
     # u "Yeah, I'm a liar. But who isn't?"
-    u "Oui, je suis un menteur. Mais qui ne l'est pas ?"
+    u "Oui, je suis un menteur. Mais qui l'est pas ?"
 
 # game/v13/scene34.rpy:402
 translate francais v13s34_f74e08e2:
@@ -1243,7 +1243,7 @@ translate francais v13s34_1_c6329da3:
 translate francais v13s34_1_511a5d8c:
 
     # u "Yeah, I'm a liar. But who isn't?"
-    u "Oui, je suis un menteur. Mais qui ne l'est pas ?"
+    u "Oui, je suis un menteur. Mais qui l'est pas ?"
 
 # game/v13/scene34.rpy:404
 translate francais v13s34_1_f74e08e2:

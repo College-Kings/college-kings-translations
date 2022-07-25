@@ -70,7 +70,7 @@ translate francais v10_talk_nora_2a10172b:
 translate francais v10_talk_nora_84952d7a:
 
     # u "You had quite the imagination. London wouldn't be such a bad place to live."
-    u "Tu as beaucoup d'imagination. Londres ne serait pas un si mauvais endroit pour vivre."
+    u "Tu as beaucoup d'imagination. Londres serait pas un si mauvais endroit pour vivre."
 
 # game/v10/scene28.rpy:71
 translate francais v10_talk_nora_2a7baed6:
@@ -94,7 +94,7 @@ translate francais v10_talk_nora_ae1442f3:
 translate francais v10_talk_nora_ef0e221c:
 
     # u "(Guess she's not gonna break.)"
-    u "(Je pense qu'elle ne va pas avouer.)"
+    u "(Je pense qu'elle va pas avouer.)"
 
 # game/v10/scene28.rpy:92
 translate francais v10_talk_nora_d6ef02dd:

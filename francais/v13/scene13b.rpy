@@ -178,7 +178,7 @@ translate francais v13s13b_f27119a1:
 translate francais v13s13b_24a67a37:
 
     # u "(I don't want to make it more embarrassing for her.)"
-    u "(Je ne veux pas rendre la situation plus embarrassante pour elle.)"
+    u "(Je veux pas rendre la situation plus embarrassante pour elle.)"
 
 # game/v13/scene13b.rpy:179
 translate francais v13s13b_4aed9774:
@@ -250,7 +250,7 @@ translate francais v13s13b_ddeaa458:
 translate francais v13s13b_631d4844:
 
     # u "I don't see why not."
-    u "Je ne vois pas le problème."
+    u "Je vois pas le problème."
 
 # game/v13/scene13b.rpy:240
 translate francais v13s13b_47803c2e:
@@ -268,7 +268,7 @@ translate francais v13s13b_06ccbf2c:
 translate francais v13s13b_412c0e91:
 
     # u "We're not really a couple, but thanks. *Chuckles*"
-    u "Nous ne sommes pas vraiment un couple, mais merci. *Rire*"
+    u "On est pas vraiment un couple, mais merci. *Rire*"
 
 # game/v13/scene13b.rpy:257
 translate francais v13s13b_7e572221:

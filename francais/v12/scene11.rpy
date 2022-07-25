@@ -130,7 +130,7 @@ translate francais v12_paris_hotel_3e88dae9:
 translate francais v12_paris_hotel_afbb0d9e:
 
     # u "I don't even fuck with Charli enough to say hi to him. What makes you think I'd bother to have a full on conversation with him about one of my friends?"
-    u "Je ne parle même pas assez à Charli pour lui dire bonjour. Qu'est-ce qui te fait penser que je prendrais la peine d'avoir une conversation avec lui, à propos d'une de mes amies ?"
+    u "Je parle même pas assez à Charli pour lui dire bonjour. Qu'est-ce qui te fait penser que je prendrais la peine d'avoir une conversation avec lui, à propos d'une de mes amies ?"
 
 # game/v12/scene11.rpy:143
 translate francais v12_paris_hotel_abac9aa7:
@@ -292,7 +292,7 @@ translate francais v12_paris_hotel_60bdac76:
 translate francais v12_paris_hotel_aad22e55:
 
     # u "That's very loyal of you. I can only imagine how much you've been through together."
-    u "C'est très respectable de ta part. Je ne peux qu'imaginer tout ce que vous avez traversé ensemble."
+    u "C'est très respectable de ta part. Je peux qu'imaginer tout ce que vous avez traversé ensemble."
 
 # game/v12/scene11.rpy:278
 translate francais v12_paris_hotel_182822cf:
@@ -328,7 +328,7 @@ translate francais v12_paris_hotel_49460ea8:
 translate francais v12_paris_hotel_5c38fef0:
 
     # u "I'm not going to pick sides or try to sway you one way or the other, I don't feel like that's my place."
-    u "Je ne vais pas prendre parti ou essayer de t'influencer dans un sens ou dans l'autre, ce n'est pas mon rôle."
+    u "Je vais pas prendre parti ou essayer de t'influencer dans un sens ou dans l'autre, ce n'est pas mon rôle."
 
 # game/v12/scene11.rpy:312
 translate francais v12_paris_hotel_3a261279:
@@ -406,7 +406,7 @@ translate francais v12_paris_hotel_cade2afe:
 translate francais v12_paris_hotel_52c18e31:
 
     # u "Haha, no. Let's just leave it alone. He technically isn't hurting anyone but himself."
-    u "Haha, non. Laissons-le tranquille. En fait, il ne fait de mal à personne d'autre qu'à lui-même."
+    u "Haha, non. Laissons-le tranquille. En fait, il fait de mal à personne d'autre qu'à lui-même."
 
 # game/v12/scene11.rpy:386
 translate francais v12_paris_hotel_7ac38324:

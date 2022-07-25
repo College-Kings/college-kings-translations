@@ -4,13 +4,13 @@
 translate francais after_prot_wolves_558e2d1d:
 
     # u "(I suppose I can study for a bit.)"
-    u "(Je crois que je peux étudier un peu.)"
+    u "(Je pense que je vais pouvoir travailler un peu.)"
 
 # game/v8/scene9.rpy:26
 translate francais after_prot_wolves_21b02ff2:
 
     # u "I'm never gonna get this shit."
-    u "Je ne vais jamais l'avoir, cette merde."
+    u "Je vais jamais l'avoir, cette merde."
 
 # game/v8/scene9.rpy:29
 translate francais after_prot_wolves_4f1997c1:
@@ -46,7 +46,7 @@ translate francais after_prot_wolves_267416cd:
 translate francais after_prot_wolves_83b2e21d:
 
     # se "I'm headed to the gym to workout. Figured I'd show you around."
-    se "Je vais à la salle de gym pour m'entraîner. J'ai pensé à te la montrer."
+    se "Je vais à la salle de gym pour m'entraîner. Je me disais que j'allais te la montrer."
 
 # game/v8/scene9.rpy:57
 translate francais after_prot_wolves_fe0e618e:

@@ -304,7 +304,7 @@ translate francais v13s13a_9c3294f2:
 translate francais v13s13a_a93c9536:
 
     # u "I'm not really... Although, I've probably never been to a real, pop star-worthy nightclub. *Laughs*"
-    u "Je ne sais pas vraiment... En même temps, je n'ai jamais été dans une vraie boîte de nuit digne d'une pop star. *Rire*"
+    u "Je sais pas vraiment... En même temps, je n'ai jamais été dans une vraie boîte de nuit digne d'une pop star. *Rire*"
 
 # game/v13/scene13a.rpy:288
 translate francais v13s13a_af7e7400:

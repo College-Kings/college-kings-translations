@@ -4,13 +4,13 @@
 translate francais v13s35_buy_item_dialog_b806c559:
 
     # u "Only have a bit of money left, better get the cuffs."
-    u "Il ne reste qu'un peu d'argent, il faudra mieux se limiter aux menottes."
+    u "Il reste très peu d'argent, il faudra mieux se limiter aux menottes."
 
 # game/v13/scene35.rpy:21
 translate francais v13s35_a6dd6946:
 
     # u "Aubrey wanting to go to a sex shop? Not surprised. *Chuckles*"
-    u "Aubrey qui veut aller dans un sex-shop ? Je ne suis pas surpris. *Rire*"
+    u "Aubrey qui veut aller dans un sex-shop ? Je suis pas surpris. *Rire*"
 
 # game/v13/scene35.rpy:28
 translate francais v13s35_01fcc5da:
@@ -46,7 +46,7 @@ translate francais v13s35_a0732e6a:
 translate francais v13s35_9e9ebc90:
 
     # u "Are you scared or something? What's wrong?"
-    u "Tu as peur ou quoi ? Qu'est-ce qui ne va pas ?"
+    u "Tu as peur ou quoi ? Qu'est-ce qui va pas ?"
 
 # game/v13/scene35.rpy:58
 translate francais v13s35_8e2e91be:
@@ -130,7 +130,7 @@ translate francais v13s35_adult_shop_continue_0262f652:
 translate francais v13s35_adult_shop_continue_4432323e:
 
     # u "I don't know why I was expecting so much more. It's so clean and... innocent here."
-    u "Je ne sais pas pourquoi je m'attendais à tellement plus. C'est si propre et... innocent ici."
+    u "Je sais pas pourquoi je m'attendais à tellement plus. C'est si propre et... innocent ici."
 
 # game/v13/scene35.rpy:155
 translate francais v13s35_adult_shop_continue_70315650:
@@ -227,7 +227,7 @@ translate francais v13s35_no_shop_0262f652:
 translate francais v13s35_no_shop_4432323e:
 
     # u "I don't know why I was expecting so much more. It's so clean and... innocent here."
-    u "Je ne sais pas pourquoi je m'attendais à tellement plus. C'est si propre et... innocent ici."
+    u "Je sais pas pourquoi je m'attendais à tellement plus. C'est si propre et... innocent ici."
 
 # game/v13/scene35.rpy:162
 translate francais v13s35_no_shop_70315650:

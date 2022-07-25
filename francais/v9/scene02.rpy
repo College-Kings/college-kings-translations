@@ -58,7 +58,7 @@ translate francais v9_start_apes_c1434064:
 translate francais v9_start_apes_c00e3b00:
 
     # u "Something's going on. I just don't know what."
-    u "Il se passe quelque chose. Mais je ne sais pas quoi."
+    u "Il se passe quelque chose. Mais je sais pas quoi."
 
 # game/v9/scene02.rpy:74
 translate francais v9_start_apes_2deb3af4:
@@ -88,7 +88,7 @@ translate francais v9_start_apes_30ba7630:
 translate francais v9_start_apes_69ee9e1a:
 
     # ca "I don't think you're ready."
-    ca "Je ne pense pas que tu sois prêt."
+    ca "Je pense pas que tu sois prêt."
 
 # game/v9/scene02.rpy:91
 translate francais v9_start_apes_bce01907:

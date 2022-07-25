@@ -52,7 +52,7 @@ translate francais v13s61_9144aa84:
 translate francais v13s61_1906699e:
 
     # u "Don't worry about it, Aubrey. It's not your fault I can't climb. *Chuckles*"
-    u "Ne t'inquiète pas pour ça, Aubrey. Ce n'est pas ta faute si je ne suis pas capable d'escalader un rocher. *Rire*"
+    u "Ne t'inquiète pas pour ça, Aubrey. Ce n'est pas ta faute si je suis pas capable d'escalader un rocher. *Rire*"
 
 # game/v13/scene61.rpy:82
 translate francais v13s61_2ec6d181:

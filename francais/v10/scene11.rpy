@@ -106,7 +106,7 @@ translate empty v10_linds_room_e9eb3de7:
 translate empty v10_linds_room_33d9adf0:
 
     # u "I'm sorry I shouldn't be talking about me, I came over here for you. Mind telling me what's got you down?"
-    u "Je suis désolé, je ne devrais pas parler de moi, je suis venu ici pour toi. Tu peux me dire ce qui te déprime ?"
+    u "Je suis désolé, je devrais pas parler de moi, je suis venu ici pour toi. Tu peux me dire ce qui te déprime ?"
 
 # game/v10/scene11.rpy:94
 translate empty v10_linds_room_4fa7e165:
@@ -136,7 +136,7 @@ translate empty v10_linds_room_a774d51e:
 translate empty v10_linds_room_6e2301b4:
 
     # u "I kinda assumed that's why you're upset, but I didn't wanna bring it up, in case it was something else."
-    u "J'ai supposé que c'était la raison de ta colère, mais je ne voulais pas en parler, au cas où ce serait autre chose."
+    u "J'ai supposé que c'était la raison de ta colère, mais je voulais pas en parler, au cas où ce serait autre chose."
 
 # game/v10/scene11.rpy:115
 translate empty v10_linds_room_e753cd2e:
@@ -184,7 +184,7 @@ translate empty v10_linds_room_417aba48:
 translate empty v10_linds_room_bb97839a:
 
     # u "Honestly, I'm fortunate enough that I haven't had to experience losing someone I'm really close to. I can't even begin to imagine that kind of pain that is."
-    u "Honnêtement, j'ai la chance de ne pas avoir eu à faire l'expérience de perdre quelqu'un dont je suis vraiment proche. Je ne peux même pas imaginer le genre de douleur que ça peut représenter."
+    u "Honnêtement, j'ai la chance de pas avoir eu à faire l'expérience de perdre quelqu'un dont je suis vraiment proche. Je peux même pas imaginer le genre de douleur que ça peut représenter."
 
 # game/v10/scene11.rpy:150
 translate empty v10_linds_room_5a315c60:
@@ -280,7 +280,7 @@ translate empty v10_linds_room_4b7c4d87:
 translate empty v10_linds_room_64f6c450:
 
     # u "Hey, at least you're not gonna end up like that sailor that followed the North Star and ended up freezing to death in a snow storm, right?"
-    u "Hé, au moins tu ne vas pas finir comme ce marin qui a suivi l'étoile polaire et qui a fini par mourir de froid dans une tempête de neige, non ?"
+    u "Hé, au moins tu vas pas finir comme ce marin qui a suivi l'étoile polaire et qui a fini par mourir de froid dans une tempête de neige, non ?"
 
 # game/v10/scene11.rpy:227
 translate empty v10_linds_room_dbc27e42:
@@ -340,7 +340,7 @@ translate empty v10_linds_room_fec844f1_1:
 translate empty v10_linds_room_64f6c450_1:
 
     # u "Hé, au moins tu ne vas pas finir comme ce marin qui a suivi l'étoile polaire et qui a fini par mourir de froid dans une tempête de neige, non ?"
-    u "Hé, au moins tu ne vas pas finir comme ce marin qui a suivi l'étoile polaire et qui a fini par mourir de froid dans une tempête de neige, non ?"
+    u "Hé, au moins tu vas pas finir comme ce marin qui a suivi l'étoile polaire et qui a fini par mourir de froid dans une tempête de neige, non ?"
 
 # game/v10/scene11.rpy:282
 translate empty v10_linds_room_a18f046f:
@@ -430,7 +430,7 @@ translate empty v10_linds_room_d2ed8a86:
 translate empty v10_linds_room_3b704c0e:
 
     # u "I'd never say no to any attention you wanted to give."
-    u "Je ne dirais jamais non à l'attention que tu veux me témoigner."
+    u "Je dirais jamais non à l'attention que tu veux me témoigner."
 
 # game/v10/scene11.rpy:373
 translate empty v10_linds_room_b5a1ceec:
@@ -448,7 +448,7 @@ translate empty v10_linds_room_1d9dab05:
 translate empty v10_linds_room_3b704c0e_1:
 
     # u "I'd never say no to any attention you wanted to give."
-    u "Je ne dirais jamais non à l'attention que tu veux me témoigner."
+    u "Je dirais jamais non à l'attention que tu veux me témoigner."
 
 # game/v10/scene11.rpy:390
 translate empty v10_linds_room_15e2cfa3:
@@ -466,7 +466,7 @@ translate empty v10_linds_room_d0e5b246:
 translate empty v10_linds_room_5736afbc:
 
     # u "Oh, don't worry about it. You're going through stuff, I completely understand."
-    u "Oh, ne t'inquiète pas pour ça. Tu traverses une période difficile, je comprends parfaitement."
+    u "Oh, t'inquiète pas pour ça. Tu traverses une période difficile, je comprends parfaitement."
 
 # game/v10/scene11.rpy:407
 translate empty v10_linds_room_0d0f2f63:
@@ -684,7 +684,7 @@ translate francais v10_linds_room_e9eb3de7:
 translate francais v10_linds_room_bc831713:
 
     # u "I'm sorry, I shouldn't be talking about me, I came over here for you. Mind telling me what's got you down?"
-    u "Je suis désolé, je ne devrais pas parler de moi, je suis venu ici pour toi. Tu peux me dire ce qui te déprime ?"
+    u "Je suis désolé, je devrais pas parler de moi, je suis venu ici pour toi. Tu peux me dire ce qui te déprime ?"
 
 # game/v10/scene11.rpy:96
 translate francais v10_linds_room_4fa7e165:
@@ -714,7 +714,7 @@ translate francais v10_linds_room_a774d51e:
 translate francais v10_linds_room_6e2301b4:
 
     # u "I kinda assumed that's why you're upset, but I didn't wanna bring it up, in case it was something else."
-    u "J'ai supposé que c'était la raison de ta colère, mais je ne voulais pas en parler, au cas où ce serait autre chose."
+    u "J'ai supposé que c'était la raison de ta colère, mais je voulais pas en parler, au cas où ce serait autre chose."
 
 # game/v10/scene11.rpy:117
 translate francais v10_linds_room_fa7bb0f8:
@@ -762,7 +762,7 @@ translate francais v10_linds_room_417aba48:
 translate francais v10_linds_room_bb97839a:
 
     # u "Honestly, I'm fortunate enough that I haven't had to experience losing someone I'm really close to. I can't even begin to imagine that kind of pain that is."
-    u "Honnêtement, j'ai la chance de ne pas avoir eu à faire l'expérience de perdre quelqu'un dont je suis vraiment proche. Je ne peux même pas imaginer le genre de douleur que ça peut représenter."
+    u "Honnêtement, j'ai la chance de pas avoir eu à faire l'expérience de perdre quelqu'un dont je suis vraiment proche. Je peux même pas imaginer le genre de douleur que ça peut représenter."
 
 # game/v10/scene11.rpy:152
 translate francais v10_linds_room_5a315c60:
@@ -858,7 +858,7 @@ translate francais v10_linds_room_4b7c4d87:
 translate francais v10_linds_room_64f6c450:
 
     # u "Hey, at least you're not gonna end up like that sailor that followed the North Star and ended up freezing to death in a snow storm, right?"
-    u "Hé, au moins tu ne vas pas finir comme ce marin qui a suivi l'étoile polaire et qui a fini par mourir de froid dans une tempête de neige, non ?"
+    u "Hé, au moins tu vas pas finir comme ce marin qui a suivi l'étoile polaire et qui a fini par mourir de froid dans une tempête de neige, non ?"
 
 # game/v10/scene11.rpy:229
 translate francais v10_linds_room_dbc27e42:
@@ -918,7 +918,7 @@ translate francais v10_linds_room_fec844f1_1:
 translate francais v10_linds_room_64f6c450_1:
 
     # u "Hey, at least you're not gonna end up like that sailor that followed the North Star and ended up freezing to death in a snow storm, right?"
-    u "Hé, au moins tu ne vas pas finir comme ce marin qui a suivi l'étoile polaire et qui a fini par mourir de froid dans une tempête de neige, non ?"
+    u "Hé, au moins tu vas pas finir comme ce marin qui a suivi l'étoile polaire et qui a fini par mourir de froid dans une tempête de neige, non ?"
 
 # game/v10/scene11.rpy:284
 translate francais v10_linds_room_a18f046f:
@@ -1008,7 +1008,7 @@ translate francais v10_linds_room_d2ed8a86:
 translate francais v10_linds_room_3b704c0e:
 
     # u "I'd never say no to any attention you wanted to give."
-    u "Je ne dirais jamais non à l'attention que tu veux me témoigner."
+    u "Je dirais jamais non à l'attention que tu veux me témoigner."
 
 # game/v10/scene11.rpy:377
 translate francais v10_linds_room_b5a1ceec:
@@ -1026,7 +1026,7 @@ translate francais v10_linds_room_1d9dab05:
 translate francais v10_linds_room_3b704c0e_1:
 
     # u "I'd never say no to any attention you wanted to give."
-    u "Je ne dirais jamais non à l'attention que tu veux me témoigner."
+    u "Je dirais jamais non à l'attention que tu veux me témoigner."
 
 # game/v10/scene11.rpy:394
 translate francais v10_linds_room_15e2cfa3:
@@ -1044,7 +1044,7 @@ translate francais v10_linds_room_d0e5b246:
 translate francais v10_linds_room_5736afbc:
 
     # u "Oh, don't worry about it. You're going through stuff, I completely understand."
-    u "Oh, ne t'inquiète pas pour ça. Tu traverses une période difficile, je comprends parfaitement."
+    u "Oh, t'inquiète pas pour ça. Tu traverses une période difficile, je comprends parfaitement."
 
 # game/v10/scene11.rpy:411
 translate francais v10_linds_room_0d0f2f63:

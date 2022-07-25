@@ -10,7 +10,7 @@ translate francais v9_room_w_sam_bca3ac64:
 translate francais v9_room_w_sam_efec34fd:
 
     # u "(Wow, didn't expect it to be her.)"
-    u "(Wow, je ne m'attendais pas à ce que ce soit elle.)"
+    u "(Wow, je m'attendais pas à ce que ce soit elle.)"
 
 # game/v9/scene22.rpy:26
 translate francais v9_room_w_sam_649ad9c0:
@@ -58,7 +58,7 @@ translate francais v9_room_w_sam_1a395c96:
 translate francais v9_room_w_sam_c71d0861:
 
     # u "Aww don't worry about me. I'm used to these guys."
-    u "Aww, ne t'inquiète pas pour moi. Je suis habitué à ce genre de mec."
+    u "Aww, t'inquiète pas pour moi. Je suis habitué à ce genre de mec."
 
 # game/v9/scene22.rpy:77
 translate francais v9_room_w_sam_1e32e01b:
@@ -94,7 +94,7 @@ translate francais v9_room_w_sam_2a57e47b:
 translate francais v9_room_w_sam_0597bc30:
 
     # u "What? No. Don't apologize. We all have our drama. You wouldn't believe some of the stuff that's happened in my life."
-    u "Quoi ? Non. Ne t'excuse pas. On a tous nos drames. Tu ne croirais pas les choses qui se sont passées dans ma vie."
+    u "Quoi ? Non. T'excuse pas. On a tous nos drames. Tu croirais pas les choses qui se sont passées dans ma vie."
 
 # game/v9/scene22.rpy:108
 translate francais v9_room_w_sam_d5da08f1:
@@ -136,13 +136,13 @@ translate francais v9_room_w_sam_2c3ba812:
 translate francais v9_room_w_sam_16727a00:
 
     # sa "I think I made a mistake staying here. I don't want to cause more problems."
-    sa "Je pense que j'ai fait une erreur en restant ici. Je ne veux pas causer plus de problèmes."
+    sa "Je pense que j'ai fait une erreur en restant ici. Je veux pas causer plus de problèmes."
 
 # game/v9/scene22.rpy:145
 translate francais v9_room_w_sam_2a17feea:
 
     # u "No! No, don't think like that. We're here to help you."
-    u "Non ! Non, ne pense pas comme ça. On est là pour t'aider."
+    u "Non ! Non, pense pas comme ça. On est là pour t'aider."
 
 # game/v9/scene22.rpy:150
 translate francais v9_room_w_sam_550ed32d:
@@ -250,13 +250,13 @@ translate francais v9_room_w_sam_85fe47c9:
 translate francais v9_room_w_sam_ecb9a328:
 
     # sa "I hope you know I'm trying to turn things around. I don't want to be like this forever."
-    sa "J'espère que tu sais que j'essaie de changer les choses. Je ne veux pas être comme ça pour toujours."
+    sa "J'espère que tu sais que j'essaie de changer les choses. Je veux pas être comme ça pour toujours."
 
 # game/v9/scene22.rpy:245
 translate francais v9_room_w_sam_3a8a4cad:
 
     # u "And you won't be. I can see it in your eyes. You're strong. You've got this. And you've got us now, too."
-    u "Et tu ne le seras pas. Je peux le voir dans tes yeux. Tu es forte. Tu as ça. Et tu nous as aussi, maintenant."
+    u "Et tu le seras pas. Je peux le voir dans tes yeux. Tu es forte. Tu as ça. Et tu nous as aussi, maintenant."
 
 # game/v9/scene22.rpy:250
 translate francais v9_room_w_sam_90b89bd2:

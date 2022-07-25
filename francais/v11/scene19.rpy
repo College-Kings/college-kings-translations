@@ -64,7 +64,7 @@ translate francais v11_roommate_debd5884:
 translate francais v11_roommate_ce0c0c9a:
 
     # u "Please don't be a boring roommate and make me regret my choice."
-    u "S'il te plaît, ne sois pas une colocataire ennuyeuse et ne me fais pas regretter mon choix."
+    u "S'il te plaît, sois pas une colocataire ennuyeuse et me fais pas regretter mon choix."
 
 # game/v11/scene19.rpy:113
 translate francais v11_roommate_541a28c4:
@@ -154,7 +154,7 @@ translate francais v11_roommate_debd5884_1:
 translate francais v11_roommate_ce0c0c9a_1:
 
     # u "Please don't be a boring roommate and make me regret my choice."
-    u "S'il te plaît, ne sois pas une colocataire ennuyeuse et ne me fais pas regretter mon choix."
+    u "S'il te plaît, sois pas une colocataire ennuyeuse et me fais pas regretter mon choix."
 
 # game/v11/scene19.rpy:224
 translate francais v11_roommate_541a28c4_1:
@@ -274,7 +274,7 @@ translate francais v11_roommate_798460f5:
 translate francais v11_roommate_4047d08a:
 
     # u "*Whisper* Yeah, let's go, but don't wake up Chloe. She was really tired last night."
-    u "*Chuchote* Oui, allons-y, mais ne réveille pas Chloé. Elle était vraiment fatiguée cette nuit."
+    u "*Chuchote* Oui, allons-y, mais réveille pas Chloé. Elle était vraiment fatiguée cette nuit."
 
 # game/v11/scene19.rpy:394
 translate francais v11_roommate_bd4b4cc1:
@@ -478,7 +478,7 @@ translate francais v11_roommate_ba234303:
 translate francais v11_roommate_cdeab57e:
 
     # u "I've never heard her mention anything about girls, maybe you'll have to ease into it."
-    u "Je ne l'ai jamais entendue parler de filles, il faudra peut-être y aller doucement."
+    u "Je l'ai jamais entendue parler de filles, il faudra peut-être y aller doucement."
 
 # game/v11/scene19.rpy:623
 translate francais v11_roommate_af26a08e:
@@ -670,7 +670,7 @@ translate francais v11_roommate_ba234303_1:
 translate francais v11_roommate_cdeab57e_1:
 
     # u "I've never heard her mention anything about girls, maybe you'll have to ease into it."
-    u "Je ne l'ai jamais entendue parler de filles, il faudra peut-être y aller doucement."
+    u "Je l'ai jamais entendue parler de filles, il faudra peut-être y aller doucement."
 
 # game/v11/scene19.rpy:841
 translate francais v11_roommate_af26a08e_1:

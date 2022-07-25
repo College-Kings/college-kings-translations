@@ -202,7 +202,7 @@ translate empty v10_fight_result_11f865a6:
 translate empty v10_fight_result_78325997:
 
     # gr "Sorry's not fucking good enough. I saw something in you, don't make me regret it."
-    gr "Désolé, ce n'est pas suffisent. J'ai vu quelque chose en toi, ne me le fais pas regretter."
+    gr "Désolé, ce n'est pas suffisent. J'ai vu quelque chose en toi, me le fais pas regretter."
 
 # game/v10/scene8.rpy:176
 translate empty v10_fight_result_21f66087_1:
@@ -419,7 +419,7 @@ translate francais v10_fight_result_11f865a6:
 translate francais v10_fight_result_78325997:
 
     # gr "Sorry's not fucking good enough. I saw something in you, don't make me regret it."
-    gr "Désolé, ce n'est pas suffisent. J'ai vu quelque chose en toi, ne me le fais pas regretter."
+    gr "Désolé, ce n'est pas suffisent. J'ai vu quelque chose en toi, me le fais pas regretter."
 
 # game/v10/scene8.rpy:180
 translate francais v10_fight_result_21f66087_1:

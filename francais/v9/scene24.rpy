@@ -22,7 +22,7 @@ translate francais v9_walk_w_sam_joke_43f5856a:
 translate francais v9_walk_w_sam_joke_d56e47c5:
 
     # sa "Yeah, well, I don't like being out here alone. I still don't know my way around."
-    sa "Ouais, eh bien, je n'aime pas être ici toute seule. Je ne connais toujours pas le chemin."
+    sa "Ouais, eh bien, je n'aime pas être ici toute seule. Je connais toujours pas le chemin."
 
 # game/v9/scene24.rpy:35
 translate francais v9_walk_w_sam_joke_8e1fbad7:
@@ -46,7 +46,7 @@ translate francais v9_walk_w_sam_serious_a6f2c182:
 translate francais v9_walk_w_sam_serious_f2c72877:
 
     # u "It's understandable. You've had a lot going on lately. I might not want to be alone with my thoughts, either."
-    u "C'est compréhensible. Tu as eu beaucoup de choses à faire ces derniers temps. Je pourrais ne pas vouloir être seul avec mes pensées, non plus."
+    u "C'est compréhensible. Tu as eu beaucoup de choses à faire ces derniers temps. Je pourrais pas vouloir être seul avec mes pensées, non plus."
 
 # game/v9/scene24.rpy:54
 translate francais v9_walk_w_sam_serious_a854d9f8:
@@ -58,7 +58,7 @@ translate francais v9_walk_w_sam_serious_a854d9f8:
 translate francais v9_walk_w_sam_serious_7b0cd924:
 
     # u "Here, too. Don't worry. There's a reason we can't all read minds."
-    u "Les miennes aussi. Ne t'inquiète pas. Il y a une raison pour laquelle nous ne pouvons pas tous lire dans les pensées."
+    u "Les miennes aussi. T'inquiète pas. Il y a une raison pour laquelle on peut pas tous lire dans les pensées."
 
 # game/v9/scene24.rpy:65
 translate francais v9_walk_w_sam_cont1_b39ce301:
@@ -70,7 +70,7 @@ translate francais v9_walk_w_sam_cont1_b39ce301:
 translate francais v9_walk_w_sam_cont1_de445c10:
 
     # u "It's fine... as far as school goes. Only doing core classes right now."
-    u "C'est bien... pour ce qui est de l'école. Je ne fais que les cours de base pour l'instant."
+    u "C'est bien... pour ce qui est de l'école. Je fais que les cours de base pour l'instant."
 
 # game/v9/scene24.rpy:73
 translate francais v9_walk_w_sam_cont1_cf07c591:
@@ -106,7 +106,7 @@ translate francais v9_walk_w_sam_cont1_a7022ec4:
 translate francais v9_walk_w_sam_cont1_a3cffd5e:
 
     # sa "I mean... good I'm not the only one who doesn't have her shit figured out."
-    sa "Je veux dire... c'est bien que je ne sois pas la seule personne à ne pas savoir ce qu'elle fera."
+    sa "Je veux dire... c'est bien que je sois pas la seule personne à pas savoir ce qu'elle fera."
 
 # game/v9/scene24.rpy:94
 translate francais v9_walk_w_sam_cont1_da71a6b4:
@@ -124,7 +124,7 @@ translate francais v9_walk_w_sam_cont1_f7fac6fb:
 translate francais v9_walk_w_sam_cont1_a83e8727:
 
     # u "Yeah, I don't spend a lot of time out here, but I probably should."
-    u "Ouais, je ne passe pas beaucoup de temps ici, mais je crois que je devrais."
+    u "Ouais, je passe pas beaucoup de temps ici, mais je crois que je devrais."
 
 # game/v9/scene24.rpy:112
 translate francais v9_walk_w_sam_grayson_14b52677:
@@ -142,13 +142,13 @@ translate francais v9_walk_w_sam_grayson_0ac8d6dd:
 translate francais v9_walk_w_sam_grayson_eb595ffe:
 
     # sa "I don't want to come out here alone, though."
-    sa "Mais je ne veux pas venir ici toute seule."
+    sa "Mais je veux pas venir ici toute seule."
 
 # game/v9/scene24.rpy:124
 translate francais v9_walk_w_sam_grayson_9cbdfaf3:
 
     # u "No, probably not."
-    u "Non, il ne vaut mieux pas."
+    u "Non, il vaut mieux pas."
 
 # game/v9/scene24.rpy:128
 translate francais v9_walk_w_sam_grayson_407324b4:
@@ -226,7 +226,7 @@ translate francais v9_walk_w_sam_cameron_66686979:
 translate francais v9_walk_w_sam_cameron_bf84fb41:
 
     # sa "It's nice to have that. Cam and I had it rough growing up. It felt like we only had each other."
-    sa "C'est bien d'avoir ça. Cam et moi avons eu la vie dure en grandissant. On avait l'impression qu'on ne pouvait compter que sur l'autre."
+    sa "C'est bien d'avoir ça. Cam et moi avons eu la vie dure en grandissant. On avait l'impression qu'on pouvait compter que sur l'autre."
 
 # game/v9/scene24.rpy:179
 translate francais v9_walk_w_sam_cameron_13226a43:
@@ -256,7 +256,7 @@ translate francais v9_walk_w_sam_cameron_c8f0417f:
 translate francais v9_walk_w_sam_cameron_53670bae:
 
     # u "Apes aren't known for their intellect."
-    u "Les Apes ne sont pas connus pour leur intelligence."
+    u "Les Apes sont pas connus pour leur intelligence."
 
 # game/v9/scene24.rpy:199
 translate francais v9_walk_w_sam_cameron_45d303e0:
@@ -370,7 +370,7 @@ translate francais v9_walk_w_sam_walk_goodbye_be4aae95:
 translate francais v9_walk_w_sam_walk_goodbye_ed9e3165:
 
     # u "Don't want Cam to come looking for you."
-    u "Je ne veux pas que Cam vienne te chercher."
+    u "Je veux pas que Cam vienne te chercher."
 
 # game/v9/scene24.rpy:281
 translate francais v9_walk_w_sam_walk_goodbye_f3043eab:

@@ -46,7 +46,7 @@ translate francais v12_riley_cafe_cc82b5fd:
 translate francais v12_riley_cafe_a9ee72ad:
 
     # u "Woah, watch out world! There's a new superhero on the streets. She can't fly and doesn't have super strength, but she can tell you if you're hungry. You'll never starve again!"
-    u "Woah, Que le monde fasse attention ! Il y a un nouveau super-héros dans les rues. Elle ne peut pas voler et n'a pas de super force, mais elle peut te dire si tu as faim. Vous ne mourrez plus jamais de faim !"
+    u "Woah, Que le monde fasse attention ! Il y a un nouveau super-héros dans les rues. Elle peut pas voler et n'a pas de super force, mais elle peut te dire si tu as faim. Vous mourrez plus jamais de faim !"
 
 # game/v12/scene14a.rpy:68
 translate francais v12_riley_cafe_2bd3cca1:
@@ -256,7 +256,7 @@ translate francais v12_riley_cafe_457bdf91:
 translate francais v12_riley_cafe_e71f8ff6:
 
     # u "Well, you've got it down pretty damn well. I'm not surprised that so many people believe it's your real voice."
-    u "Eh bien, tu la maîtrises plutôt bien. Je ne suis pas surpris que tant de personnes croient que c'est ta vraie voix."
+    u "Eh bien, tu la maîtrises plutôt bien. Je suis pas surpris que tant de personnes croient que c'est ta vraie voix."
 
 # game/v12/scene14a.rpy:254
 translate francais v12_riley_cafe_eb43f91b:
@@ -292,7 +292,7 @@ translate francais v12_riley_cafe_dd6658e6:
 translate francais v12_riley_cafe_a9594d2f:
 
     # u "I don't think I'd be able to tell, actually."
-    u "Je ne pense pas que je serais capable de le deviner, en fait."
+    u "Je pense pas que je serais capable de le deviner, en fait."
 
 # game/v12/scene14a.rpy:291
 translate francais v12_riley_cafe_f1610adc:
@@ -370,7 +370,7 @@ translate francais v12_riley_cafe_4cb60ee1:
 translate francais v12_riley_cafe_5b647d59:
 
     # u "*Sighs* Alright, well... As easy as the first one was, I'm expecting this one to be close by?"
-    u "*Soupirs* Bon, eh bien... Vu que le premier était facile, je m'attends à ce que celui-là ne soit pas loin..."
+    u "*Soupirs* Bon, eh bien... Vu que le premier était facile, je m'attends à ce que celui-là soit pas loin..."
 
 # game/v12/scene14a.rpy:359
 translate francais v12_riley_cafe_304a39d3:

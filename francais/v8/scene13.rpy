@@ -28,7 +28,7 @@ translate francais phn_chloe11_done_fd05c7e6:
 translate francais phn_chloe11_done_023957c8:
 
     # u "(Can't believe I'm gonna live in a frat house.)"
-    u "(Je ne peux pas croire que je vais vivre dans une maison de fraternité.)"
+    u "(Je peux pas croire que je vais vivre dans une maison de fraternité.)"
 
 # game/v8/scene13.rpy:79
 translate francais phn_chloe11_done_c711a450:
@@ -70,13 +70,13 @@ translate francais phn_chloe11_done_5da61233:
 translate francais phn_chloe11_done_8dd17441:
 
     # u "Come in..."
-    u "Viens t'asseoir..."
+    u "Entre t'asseoir..."
 
 # game/v8/scene13.rpy:116
 translate francais phn_chloe11_done_e4ba0480:
 
     # gr "No, {i}you{/i} come out. We're all chilling in the den."
-    gr "Non, {i}toi{/i} sort. On se détend tous dans la tanière."
+    gr "Non, {i}toi{/i} tu sors. On est tous en train de prendre du bon temps dans la tanière."
 
 # game/v8/scene13.rpy:117
 translate francais phn_chloe11_done_f6884531:
@@ -100,13 +100,13 @@ translate francais phn_chloe11_done_01ea3afb:
 translate francais phn_chloe11_done_b4629818:
 
     # u "I better finish up. Thanks for the beer, though."
-    u "Je ferais mieux de finir. Et merci pour la bière."
+    u "Je préfère rester là. Par contre, merci pour la bière."
 
 # game/v8/scene13.rpy:146
 translate francais phn_chloe11_done_97d2f031:
 
     # gr "You can do that later, don't be such a killjoy now."
-    gr "Tu pourra faire ça plus tard, ne fais pas ton putain de rabat-joie."
+    gr "Tu pourras faire ça plus tard, fais pas ton putain de rabat-joie."
 
 # game/v8/scene13.rpy:150
 translate francais phn_chloe11_done_9b6e2a3b:
@@ -118,19 +118,19 @@ translate francais phn_chloe11_done_9b6e2a3b:
 translate francais phn_chloe11_done_83b2bba1:
 
     # u "Don't want to get kicked out of school now that I'm finally an Ape!"
-    u "Je ne veux pas me faire virer de l'école maintenant que je suis enfin un Ape !"
+    u "J'ai pas envie de me faire virer de l'école, maintenant que je suis enfin un Ape !"
 
 # game/v8/scene13.rpy:159
 translate francais phn_chloe11_done_f8894dc9:
 
     # gr "Whatever, dude. I thought you were one of us."
-    gr "Peu importe mec. Je pensais que tu étais l'un des nôtres."
+    gr "Laisse tomber, mec. J'croyais que t'étais l'un des nôtres."
 
 # game/v8/scene13.rpy:163
 translate francais phn_chloe11_done_2cb38f5c:
 
     # u "(*Sigh* Do I really have to ditch bonding time with the guys?)"
-    u "(*Soupir* Dois-je vraiment renoncer à passer du temps avec les gars ?)"
+    u "(*Soupir* Je suis vraiment obligé de rater des moments de détente avec les mecs ?)"
 
 # game/v8/scene13.rpy:164
 translate francais phn_chloe11_done_170b5399:
@@ -160,7 +160,7 @@ translate francais phn_chloe11_done_3cdd8f3a:
 translate francais phn_chloe11_done_872693d4:
 
     # u "Guess you were right about seeing a lot of each other."
-    u "Je crois que tu avais raison sur le fait qu'on allait se voir beaucoup."
+    u "Je crois que t'avais raison sur le fait qu'on allait se voir d'avantage."
 
 # game/v8/scene13.rpy:187
 translate francais phn_chloe11_done_87ffcf07:
@@ -172,19 +172,19 @@ translate francais phn_chloe11_done_87ffcf07:
 translate francais phn_chloe11_done_6476e033:
 
     # u "Could use a woman's touch. Wanna come check it out?"
-    u "Elle aurait besoin d'une touche féminine. Tu veux venir voir ?"
+    u "Elle aurait besoin d'une petite touche féminine. Tu veux venir la visiter ?"
 
 # game/v8/scene13.rpy:195
 translate francais phn_chloe11_done_7a609083:
 
     # cl "Plenty of time for that. Let's have some fun first."
-    cl "J'ai le temps pour ça. Amusons-nous d'abord."
+    cl "On a tout le temps pour ça. D'abord, amusons-nous."
 
 # game/v8/scene13.rpy:199
 translate francais phn_chloe11_done_bb29309b:
 
     # u "That's what I'm trying to do! You look like a lot of fun..."
-    u "C'est ce que j'essaie de faire ! Tu as l'air de bien t'amuser..."
+    u "C'est ce que j'essaie de faire ! T'as l'air de bien t'amuser..."
 
 # game/v8/scene13.rpy:203
 translate francais phn_chloe11_done_d806f6ba:
@@ -208,7 +208,7 @@ translate francais phn_chloe11_done_a1701f84:
 translate francais phn_chloe11_done_277c3073:
 
     # u "(There's Chloe. But she looks busy. I shouldn't bother her.)"
-    u "(Il y a Chloé. Mais elle a l'air occupée. Je ne devrais pas la déranger.)"
+    u "(Y a Chloé. Mais elle a l'air occupée. Je devrais pas la déranger.)"
 
 # game/v8/scene13.rpy:220
 translate francais phn_chloe11_done_f2626de0:
@@ -220,13 +220,13 @@ translate francais phn_chloe11_done_f2626de0:
 translate francais phn_chloe11_done_2a25d9db:
 
     # u "Hey, I wasn't gonna bother you. You looked busy."
-    u "Hé, je n'allais pas t'embêter. tu avais l'air occupée."
+    u "Hé, je voulais pas t'embêter. t'avais l'air occupée."
 
 # game/v8/scene13.rpy:228
 translate francais phn_chloe11_done_26de5fd6:
 
     # cl "Told ya you were sweet."
-    cl "Je t'ai déjà dit que tu étais trop mignon."
+    cl "Je t'ai déjà dit que tu étais trop gentil."
 
 # game/v8/scene13.rpy:236
 translate francais phn_chloe11_done_dfffb5f3:
@@ -256,25 +256,25 @@ translate francais phn_chloe11_done_a2f1e3c5:
 translate francais phn_chloe11_done_47b8fa5d:
 
     # u "(Hmm? What's wrong with him?)"
-    u "(Hmm ? Qu'est-ce qui ne va pas avec lui ?)"
+    u "(Hmm ? Qu'est-ce qui va pas avec lui ?)"
 
 # game/v8/scene13.rpy:260
 translate francais phn_chloe11_done_1015f7cc:
 
     # u "Excuse me, I need to talk to Cameron."
-    u "Excuse-moi, je dois parler à Cameron."
+    u "Excuse-moi, faut que j'aille parler à Cameron."
 
 # game/v8/scene13.rpy:264
 translate francais phn_chloe11_done_de1e54de:
 
     # cl "Sure. Talk to you later."
-    cl "Bien sûr. On se parle plus tard."
+    cl "Bien sûr. On se revoit tout à l'heure."
 
 # game/v8/scene13.rpy:276
 translate francais phn_chloe11_done_1d656a07:
 
     # u "Hey man, you alright?"
-    u "Salut mec, tout vas bien ?"
+    u "Salut mec, ça va ?"
 
 # game/v8/scene13.rpy:280
 translate francais phn_chloe11_done_e6167d94:
@@ -286,7 +286,7 @@ translate francais phn_chloe11_done_e6167d94:
 translate francais phn_chloe11_done_11072857:
 
     # ca "Of course, yeah.{w} Uh... congrats on getting in. How you enjoying tonig-"
-    ca "Bien sûr, ouais{w}. Euh... Félicitations pour ton admission. Comment trouves-tu la soir-"
+    ca "Bien sûr, ouais{w}. Euh... Félicitations pour ton admission. Qu'est-ce tu penses d'la soir-"
 
 # game/v8/scene13.rpy:288
 translate francais phn_chloe11_done_84099238:
@@ -304,7 +304,7 @@ translate francais phn_chloe11_done_9c797bb8:
 translate francais phn_chloe11_done_54c138d1:
 
     # u "Yeah, sure. Like it's not obvious something's wrong."
-    u "Oui, bien sûr. Comme si ce n'était pas évident que quelque chose n'allais pas."
+    u "Mais bien sûr. Comme si c'était pas évident que quelque chose n'allais pas."
 
 # game/v8/scene13.rpy:304
 translate francais phn_chloe11_done_5fb8fab7:
@@ -316,7 +316,7 @@ translate francais phn_chloe11_done_5fb8fab7:
 translate francais phn_chloe11_done_f0a9b364:
 
     # u "OK, man. I'll leave you to it."
-    u "OK, mec. Je te laisse parler."
+    u "Vas-y, mec. Je te laisse parler."
 
 # game/v8/scene13.rpy:315
 translate francais phn_chloe11_done_5fb8fab7_1:
@@ -340,7 +340,7 @@ translate francais phn_chloe11_done_852e1c82:
 translate francais phn_chloe11_done_e2df060b:
 
     # u "Wanna talk outside?"
-    u "Tu veux en parler dehors ?"
+    u "Tu veux qu'on en parle dehors ?"
 
 # game/v8/scene13.rpy:328
 translate francais phn_chloe11_done_82e58652:
@@ -364,37 +364,37 @@ translate francais phn_chloe11_done_ac6623d3:
 translate francais phn_chloe11_done_d07bb30b:
 
     # u "Oh no, is she OK?"
-    u "Oh non, est-ce qu'elle va bien ?"
+    u "Oh non, elle va bien ?"
 
 # game/v8/scene13.rpy:345
 translate francais phn_chloe11_done_ae8706b2:
 
     # ca "She's... I'm worried sick about her. I found her passed out in her room last night."
-    ca "Elle est... Je suis malade d'inquiétude pour elle. Je l'ai trouvée évanouie dans sa chambre hier soir."
+    ca "Elle est... Je suis malade d'inquiétude pour elle. J'l'ai trouvée évanouie dans sa chambre hier soir."
 
 # game/v8/scene13.rpy:349
 translate francais phn_chloe11_done_19a9ebec:
 
     # ca "She...{w} she wouldn't wake up. I thought she was..."
-    ca "Elle...{w} elle n'arrivait pas à se réveiller. Je pensais qu'elle était..."
+    ca "Elle...{w} elle arrivait pas à se réveiller. J'croyais qu'elle était..."
 
 # game/v8/scene13.rpy:353
 translate francais phn_chloe11_done_1da77bfe:
 
     # u "Aw, man, I'm so sorry. Is she OK now? Where is she?"
-    u "Oh, mec, je suis vraiment désolé. Est-ce qu'elle va bien maintenant ? Où est-elle?"
+    u "Ooh, mec, je suis vraiment désolé. Elle va bien maintenant ? Elle est où ?"
 
 # game/v8/scene13.rpy:357
 translate francais phn_chloe11_done_485b39a9:
 
     # ca "I have a neighbor sitting with her until I get done here."
-    ca "J'ai une voisine qui s'occupe d'elle jusqu'à ce que j'en ai fini ici."
+    ca "J'ai une voisine qui s'occupe d'elle jusqu'à ce que j'en ai fini avec ça."
 
 # game/v8/scene13.rpy:361
 translate francais phn_chloe11_done_bf9a4ebb:
 
     # u "Shit, Cam, I'm sure Grayson won't mind. Go be with your sister."
-    u "Merde, Cam, je suis sûre que ça ne dérangera pas Grayson. Va avec ta soeur."
+    u "Merde... Cam, je suis sûre que ça dérangera pas Grayson. Va avec ta soeur."
 
 # game/v8/scene13.rpy:365
 translate francais phn_chloe11_done_83587ef7:
@@ -406,7 +406,7 @@ translate francais phn_chloe11_done_83587ef7:
 translate francais phn_chloe11_done_663dac1d:
 
     # u "What about your family? Any brothers or sisters who can come help?"
-    u "Et ta famille ? Tu as des frères ou des soeurs qui peuvent venir l'aider ?"
+    u "Et ta famille ? T'as des frères ou des soeurs qui peuvent venir l'aider ?"
 
 # game/v8/scene13.rpy:370
 translate francais phn_chloe11_done_6db330e0:
@@ -418,7 +418,7 @@ translate francais phn_chloe11_done_6db330e0:
 translate francais phn_chloe11_done_b7082181:
 
     # ca "My parents are the reason she's going through this. I'm surprised I'm not in an alley with a needle in my arm!"
-    ca "Mes parents sont la raison pour laquelle elle traverse ça. Je suis surpris de ne pas être dans une ruelle avec une aiguille dans le bras !"
+    ca "Mes parents... C'est à cause d'eux qu'elle est comme ça. Je suis moi même étonné de pas être dans une ruelle avec une aiguille dans le bras !"
 
 # game/v8/scene13.rpy:378
 translate francais phn_chloe11_done_c50aaa1d:
@@ -430,13 +430,13 @@ translate francais phn_chloe11_done_c50aaa1d:
 translate francais phn_chloe11_done_8f26a135:
 
     # ca "I don't know man. It's personal."
-    ca "Je ne sais pas mec. C'est personnel."
+    ca "Je sais pas mec. C'est personnel."
 
 # game/v8/scene13.rpy:386
 translate francais phn_chloe11_done_e5757374:
 
     # u "I get it. But who else you gonna talk to? Does anyone know besides me?"
-    u "Je comprends. Mais à qui d'autre vas-tu en parler ? Est-ce que quelqu'un sait à part moi ?"
+    u "Je comprends. Mais à qui d'autre tu pourrais en parler ? Quelqu'un sait à part moi ?"
 
 # game/v8/scene13.rpy:390
 translate francais phn_chloe11_done_d73a34d5:
@@ -448,13 +448,13 @@ translate francais phn_chloe11_done_d73a34d5:
 translate francais phn_chloe11_done_6af8749b:
 
     # ca "If you tell a soul, I'll kick your ass."
-    ca "Si tu le dis à quelqu'un, je te botterai le cul."
+    ca "Si tu l'dis à quelqu'un, j'te botterai l'cul."
 
 # game/v8/scene13.rpy:398
 translate francais phn_chloe11_done_13dae85f:
 
     # u "I would never. We may have had our differences, but this is real shit."
-    u "Ne t'inquiètes pas pour ça. On a peut-être eu des différends, mais ça, c'est une vraie merde."
+    u "T'inquiètes pas pour ça. On a peut-être eu des différends, mais ça, c'est une vraie merde."
 
 # game/v8/scene13.rpy:402
 translate francais phn_chloe11_done_95ad9f7f:
@@ -466,49 +466,49 @@ translate francais phn_chloe11_done_95ad9f7f:
 translate francais phn_chloe11_done_5db0f4a9:
 
     # ca "I didn't think she'd get this bad. My parents have their own demons. Apple didn't fall far..."
-    ca "Je ne pensais pas qu'elle irait si mal. Mes parents ont également leurs propres défauts. La pomme n'est pas tombée loin de l'arbre..."
+    ca "J'pensais pas qu'elle irait si mal. Mes parents ont également leurs propres défauts. La pomme n'est pas tombée loin d'l'arbre..."
 
 # game/v8/scene13.rpy:407
 translate francais phn_chloe11_done_bfd381a4:
 
     # ca "But they tried forcing her to go to treatment but she always runs away. Nothing's working."
-    ca "Ils ont essayé de la forcer à suivre un traitement, mais elle s'enfuit toujours. Rien ne marche."
+    ca "Ils ont essayé d'la forcer à suivre un traitement, mais à chaque fois elle s'enfuit. Y a rien qui marche."
 
 # game/v8/scene13.rpy:411
 translate francais phn_chloe11_done_6290ab9a:
 
     # u "Wow, I'm sorry, man. I don't know what to say."
-    u "Wow, je suis désolé, mec. Je ne sais pas quoi dire."
+    u "Wow, je suis désolé... Je sais pas quoi dire."
 
 # game/v8/scene13.rpy:415
 translate francais phn_chloe11_done_9e5f3dd2:
 
     # ca "It's not your problem. I'm her big brother. I should be able to fix this... but..."
-    ca "C'est pas ton problème. Je suis son grand frère. Je devrais pouvoir arranger ça... mais..."
+    ca "C'est pas ton problème. J'suis son grand frère. J'devrais pouvoir arranger ça... mais..."
 
 # game/v8/scene13.rpy:419
 translate francais phn_chloe11_done_d0706dc7:
 
     # ca "How the hell am I supposed to know what to do?"
-    ca "Putain, je sais même pas quoi faire !"
+    ca "Putain, j'sais même pas quoi faire !"
 
 # game/v8/scene13.rpy:423
 translate francais phn_chloe11_done_a8d34f0b:
 
     # u "You're not. It's too much. But... how can I help? We're brothers now, too. Apes stick together."
-    u "Tu n'es pas censé le savoir. C'est trop. Mais... Est-ce que je peux t'aider ? On est également frères maintenant. Les Apes se serrent les coudes."
+    u "T'es pas censé le savoir. C'est trop. Mais... Je peux t'aider ? On est frères maintenant. Les Apes se serrent les coudes."
 
 # game/v8/scene13.rpy:427
 translate francais phn_chloe11_done_ba1eddc1:
 
     # ca "I just... don't know."
-    ca "Je... je sais pas."
+    ca "Je... j'sais pas."
 
 # game/v8/scene13.rpy:431
 translate francais phn_chloe11_done_4b979319:
 
     # u "Don't worry. We'll help her together."
-    u "Ne t'inquiète pas. On va l'aider ensemble."
+    u "T'inquiète pas. On va l'aider ensemble."
 
 # game/v8/scene13.rpy:435
 translate francais phn_chloe11_done_d319316c:
@@ -520,13 +520,13 @@ translate francais phn_chloe11_done_d319316c:
 translate francais phn_chloe11_done_63eaab32:
 
     # ca "We better get back inside before Grayson comes looking for me. I can't deal with him right now."
-    ca "On devrait retourner à l'intérieur avant que Grayson vienne me chercher. Je peux pas avoir affaire à lui en ce moment."
+    ca "On devrait retourner à l'intérieur avant que Grayson vienne me chercher. J'peux pas avoir affaire à lui en ce moment."
 
 # game/v8/scene13.rpy:443
 translate francais phn_chloe11_done_0265fbad:
 
     # u "Yeah, let's talk later. I got your back."
-    u "Ouais, parlons de ça plus tard. Je couvre tes arrières."
+    u "Ouais, on parlera de ça plus tard. Je couvre tes arrières."
 
 # game/v8/scene13.rpy:447
 translate francais phn_chloe11_done_16329908:
@@ -556,7 +556,7 @@ translate francais phn_chloe11_done_abdeafec:
 translate francais phn_chloe11_done_9158b6f6:
 
     # ma "Well, g'night then. I'm gonna doze off."
-    ma "Eh bien, bonne nuit alors. Je vais ronfler."
+    ma "Bon, alors bonne nuit. Je vais ronfler."
 
 translate francais strings:
 
@@ -612,37 +612,13 @@ translate francais strings:
     old "Congrats guys!"
     new "Félicitations les gars !"
 
-    # game/v8/scene13.rpy:36
-    old "Damn, perfect score? Would love to see you in action in the ring ;)"
-    new "Merde, score parfait ? J'adorerais te voir en action sur le ring ;)"
-
     # game/v8/scene13.rpy:38
     old "Congrats guys! Couldn't be at the ceremony cause of some stupid shit :/"
-    new "Félicitations les gars ! Je ne pouvais pas être à la cérémonie à cause d'une merde stupide :/"
-
-    # game/v8/scene13.rpy:39
-    old "So proud of you guys especially my man"
-    new "Tellement fier de vous les gars surtout toi, mon pote"
-
-    # game/v8/scene13.rpy:40
-    old "Yaayyy! Congrats"
-    new "Yaayyy ! félicitations"
+    new "Félicitations les gars ! Je pouvais pas être à la cérémonie à cause d'une merde stupide :/"
 
     # game/v8/scene13.rpy:42
     old "Hmph ridiculous! Like those are the perfect scores that matter..."
     new "Hmph ridicule ! Comme si c'était les scores parfaits qui comptaient..."
-
-    # game/v8/scene13.rpy:43
-    old "Just shut the fuck up and never come back"
-    new "Ferme ta gueule et ne reviens jamais"
-
-    # game/v8/scene13.rpy:44
-    old "That is unless you want me to kick your ass, then of course knock yourself out"
-    new "À moins que tu ne veuilles que je te botte le cul, alors là bien sûr, fais-toi plaisir"
-
-    # game/v8/scene13.rpy:45
-    old "Congrats people!!!"
-    new "Félicitations les gars !!!"
 
     # game/v8/scene13.rpy:46
     old "Thanks everyone!"
@@ -662,11 +638,11 @@ translate francais strings:
 
     # game/v8/scene13.rpy:119
     old "Party"
-    new "Soirée"
+    new "Faire la fête"
 
     # game/v8/scene13.rpy:119
     old "Stay back and study"
-    new "Reste en arrière et étudie"
+    new "Rester dans la chambre pour étudier"
 
     # game/v8/scene13.rpy:294
     old "Press it"
@@ -684,10 +660,36 @@ translate francais phn_chloe11_done_8eecb18c:
 translate francais phn_chloe11_done_d6c52a0d:
 
     # ca "Of course, yeah. Uh... congrats on getting in. How you enjoying tonig-"
-    ca "Bien sûr, ouais. Euh... Félicitations pour ton entrée. Comment tu apprécies la soir-"
+    ca "Bien sûr, ouais{w}. Euh... Félicitations pour ton admission. Qu'est-ce tu penses d'la soir-"
 
 # game/v8/scene13.rpy:349
 translate francais phn_chloe11_done_8142d238:
 
     # ca "She... she wouldn't wake up. I thought she was..."
-    ca "Elle... elle ne voulait pas se réveiller. Je pensais qu'elle était..."
+    ca "Elle...{w} elle arrivait pas à se réveiller. J'croyais qu'elle était..."
+
+translate francais strings:
+
+    # game/v8/scene13.rpy:36
+    old "Damn, perfect score? Would love to see you in action in the ring ;)"
+    new "Merde, score parfait ? J'adorerais te voir en action sur le ring ;)"
+
+    # game/v8/scene13.rpy:39
+    old "So proud of you guys especially my man"
+    new "Tellement fier de vous les gars surtout de toi, mon pote"
+
+    # game/v8/scene13.rpy:40
+    old "Yaayyy! Congrats"
+    new "Yaayyy ! félicitations"
+
+    # game/v8/scene13.rpy:43
+    old "Just shut the fuck up and never come back"
+    new "Ferme ta gueule et reviens jamais"
+
+    # game/v8/scene13.rpy:44
+    old "That is unless you want me to kick your ass, then of course knock yourself out"
+    new "À moins que tu veuilles que je te botte le cul, alors là bien sûr, fais-toi plaisir"
+
+    # game/v8/scene13.rpy:45
+    old "Congrats people!!!"
+    new "Félicitations les gars !!!"

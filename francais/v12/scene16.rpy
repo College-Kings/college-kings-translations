@@ -814,7 +814,7 @@ translate francais v12_valentine_588dcce5:
 translate francais v12_valentine_86db312c:
 
     # u "I never saw myself settling down or living the straight and narrow life, but at this point I can't imagine what my life would be like without you... You've become the brightest light in my world. And, I love you."
-    u "Je ne me suis jamais vu m'installer ou vivre une vie droite et simple, mais à ce stade, je ne peux imaginer ce que serait ma vie sans toi... Tu es devenue la lumière la plus brillante de mon monde. Et, je t'aime."
+    u "Je me suis jamais vu m'installer ou vivre une vie droite et simple, mais à ce stade, je peux imaginer ce que serait ma vie sans toi... Tu es devenue la lumière la plus brillante de mon monde. Et, je t'aime."
 
 # game/v12/scene16.rpy:769
 translate francais v12_valentine_c6c1174b:

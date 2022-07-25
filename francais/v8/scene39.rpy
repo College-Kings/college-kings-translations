@@ -184,13 +184,13 @@ translate francais climb_the_hos_155e1a7b:
 translate francais climb_the_hos_b3c44517:
 
     # u "Haha, yeah! Aaaah-ooooooh! Poor Wolf won't be feasting his eyes on any Little Red Riding Hoods tonight, haha!"
-    u "Haha, ouais ! Aaaah-ooooooh ! Le pauvre loup ne pourra pas se régaler les yeux sur les petits chaperons rouges ce soir, haha !"
+    u "Haha, ouais ! Aaaah-ooooooh ! Le pauvre loup pourra pas se régaler les yeux sur les petits chaperons rouges ce soir, haha !"
 
 # game/v8/scene39.rpy:257
 translate francais watching_seb_climb_dc3b46f6:
 
     # u "I don't think I can do it."
-    u "Je ne pense pas pouvoir, ce soir."
+    u "Je pense pas pouvoir, ce soir."
 
 # game/v8/scene39.rpy:262
 translate francais watching_seb_climb_4651a897:

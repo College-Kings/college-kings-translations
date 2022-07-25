@@ -10,7 +10,7 @@ translate francais v9_sat_cafe_w_nora_2476391f:
 translate francais v9_sat_cafe_w_nora_67cd3695:
 
     # u "Do you and Chris not go on dates now and then?"
-    u "Toi et Chris ne sortez pas ensemble de temps en temps ?"
+    u "Toi et Chris sortez pas ensemble de temps en temps ?"
 
 # game/v9/scene31.rpy:32
 translate francais v9_sat_cafe_w_nora_ac079442:
@@ -232,7 +232,7 @@ translate francais v9_sat_cafe_8b513a1b:
 translate francais v9_sat_cafe_9678d4dc:
 
     # u "Well I wouldn't say I got my ass kicked, but yeah."
-    u "Je ne dirais pas que je me suis fait botter le cul, mais oui."
+    u "Je dirais pas que je me suis fait botter le cul, mais oui."
 
 # game/v9/scene31.rpy:238
 translate francais v9_sat_cafe_cb76e0dd:

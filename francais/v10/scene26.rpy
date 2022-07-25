@@ -16,7 +16,7 @@ translate francais v10_amber_skatepark_f5b983e1:
 translate francais v10_amber_skatepark_fa807af0:
 
     # am "Well, if you weren't late, then maybe I wouldn't be by myself."
-    am "Si tu n'étais pas en retard, je ne serais peut-être pas seule."
+    am "Si tu n'étais pas en retard, je serais peut-être pas seule."
 
 # game/v10/scene26.rpy:40
 translate francais v10_amber_skatepark_80864c50:
@@ -28,7 +28,7 @@ translate francais v10_amber_skatepark_80864c50:
 translate francais v10_amber_skatepark_ff940aac:
 
     # am "I've always liked the skatepark. Where else can you have a drink, see the funniest stuff and no squares ever ruin the mood?"
-    am "J'ai toujours aimé le skatepark. Où on peut boire un verre, voir les trucs les plus drôles sans que personne ne vienne gâcher l'ambiance."
+    am "J'ai toujours aimé le skatepark. Où on peut boire un verre, voir les trucs les plus drôles sans que personne vienne gâcher l'ambiance."
 
 # game/v10/scene26.rpy:50
 translate francais v10_amber_skatepark_ba6e281a:
@@ -142,7 +142,7 @@ translate francais v10_amber_skatepark_f4e3c6fe:
 translate francais v10_amber_skatepark_6fd2da58:
 
     # u "I'm sure she's gotta get back to studying soon. I wouldn't wanna distract her."
-    u "Je suis sûr qu'elle va devoir se remettre à étudier bientôt. Je ne voudrais pas la distraire."
+    u "Je suis sûr qu'elle va devoir se remettre à étudier bientôt. Je voudrais pas la distraire."
 
 # game/v10/scene26.rpy:152
 translate francais v10_amber_skatepark_d138f7e4:
@@ -154,7 +154,7 @@ translate francais v10_amber_skatepark_d138f7e4:
 translate francais v10_amber_skatepark_e49130dc:
 
     # am "Most definitely. And we're not just drinking, we're playing a drinking game."
-    am "Carrément. Et on ne fait pas que boire, on joue à un jeu de boisson."
+    am "Carrément. Et on fait pas que boire, on joue à un jeu de boisson."
 
 # game/v10/scene26.rpy:162
 translate francais v10_amber_skatepark_32759844:
@@ -178,7 +178,7 @@ translate francais v10_amber_skatepark_83172589:
 translate francais v10_amber_skatepark_47a2399f:
 
     # am "Never have I ever."
-    am "À jamais je ne l'ai fait."
+    am "À jamais je l'ai fait."
 
 # game/v10/scene26.rpy:182
 translate francais v10_amber_skatepark_19c151a2:
@@ -382,7 +382,7 @@ translate francais v10_amber_skatepark_sg_0d14ebca:
 translate francais v10_amber_skatepark_sg_0dcffdec:
 
     # u "I didn't know you... oh shit!"
-    u "Je ne savais pas que tu... oh merde !"
+    u "Je savais pas que tu... oh merde !"
 
 # game/v10/scene26.rpy:434
 translate francais v10_amber_skatepark_sg_ac358932:
@@ -484,13 +484,13 @@ translate francais v10_amber_skatepark_sg_e28aafa2:
 translate francais v10_amber_skatepark_sg_ce9a2a19:
 
     # am "I don't wanna make you feel like a booty call, but I'm pretty tired after that."
-    am "Je ne veux pas te donner l'impression d'être un plan cul, mais je suis assez fatiguée après tout ça."
+    am "Je veux pas te donner l'impression d'être un plan cul, mais je suis assez fatiguée après tout ça."
 
 # game/v10/scene26.rpy:534
 translate francais v10_amber_skatepark_sg_b121e142:
 
     # u "Haha, don't worry, me too. Maybe we should call it a night."
-    u "Haha, ne t'inquiète pas, moi aussi. Peut-être que nous devrions appeler ça une \"aventure\"."
+    u "Haha, t'inquiète pas, moi aussi. Peut-être que nous devrions appeler ça une \"aventure\"."
 
 # game/v10/scene26.rpy:539
 translate francais v10_amber_skatepark_sg_d964a994:
@@ -514,7 +514,7 @@ translate francais v10_amber_skatepark_sg_4e09152f:
 translate francais v10_amber_skatepark_sg_367ab691:
 
     # u "Woah, let's not do that."
-    u "Woah, ne faisons pas ça."
+    u "Woah, faisons pas ça."
 
 # game/v10/scene26.rpy:561
 translate francais v10_amber_skatepark_sg_3de35d93:
@@ -580,7 +580,7 @@ translate francais v10_amber_skatepark_sg_47896fc3:
 translate francais v10_amber_skatepark_sg_fa67bd4a:
 
     # u "No, I'm not really into wheels."
-    u "Non, je ne suis pas vraiment dans les trucs qui ont des roues."
+    u "Non, je suis pas vraiment dans les trucs qui ont des roues."
 
 # game/v10/scene26.rpy:633
 translate francais v10_amber_skatepark_sg_56ea09f0:
@@ -670,7 +670,7 @@ translate francais v10_amber_skatepark_sg_0d14ebca_1:
 translate francais v10_amber_skatepark_sg_0dcffdec_1:
 
     # u "I didn't know you... oh shit!"
-    u "Je ne savais pas que tu... oh merde !"
+    u "Je savais pas que tu... oh merde !"
 
 # game/v10/scene26.rpy:743
 translate francais v10_amber_skatepark_sg_ac358932_1:
@@ -772,13 +772,13 @@ translate francais v10_amber_skatepark_sg_e28aafa2_1:
 translate francais v10_amber_skatepark_sg_ce9a2a19_1:
 
     # am "I don't wanna make you feel like a booty call, but I'm pretty tired after that."
-    am "Je ne veux pas te donner l'impression d'être un plan cul, mais je suis assez fatiguée après tout ça."
+    am "Je veux pas te donner l'impression d'être un plan cul, mais je suis assez fatiguée après tout ça."
 
 # game/v10/scene26.rpy:838
 translate francais v10_amber_skatepark_sg_b121e142_1:
 
     # u "Haha, don't worry, me too. Maybe we should call it a night."
-    u "Haha, ne t'inquiète pas, moi aussi. Peut-être que nous devrions appeler ça une \"aventure\"."
+    u "Haha, t'inquiète pas, moi aussi. Peut-être que nous devrions appeler ça une \"aventure\"."
 
 # game/v10/scene26.rpy:843
 translate francais v10_amber_skatepark_sg_d964a994_1:
@@ -802,7 +802,7 @@ translate francais v10_amber_skatepark_sg_4e09152f_1:
 translate francais v10_amber_skatepark_sg_367ab691_1:
 
     # u "Woah, let's not do that."
-    u "Woah, ne faisons pas ça."
+    u "Woah, faisons pas ça."
 
 # game/v10/scene26.rpy:865
 translate francais v10_amber_skatepark_sg_3de35d93_1:
@@ -996,7 +996,7 @@ translate francais v10s26_amberBlowjob_0d14ebca:
 translate francais v10s26_amberBlowjob_0dcffdec:
 
     # u "I didn't know you... oh shit!"
-    u "Je ne savais pas que tu... oh merde !"
+    u "Je savais pas que tu... oh merde !"
 
 # game/v10/scene26.rpy:436
 translate francais v10s26_amberBlowjob_ac358932:
@@ -1098,13 +1098,13 @@ translate francais v10s26_amberCowgirl_e28aafa2:
 translate francais v10s26_amberCowgirl_ce9a2a19:
 
     # am "I don't wanna make you feel like a booty call, but I'm pretty tired after that."
-    am "Je ne veux pas te donner l'impression d'être un plan cul, mais je suis assez fatiguée après tout ça."
+    am "Je veux pas te donner l'impression d'être un plan cul, mais je suis assez fatiguée après tout ça."
 
 # game/v10/scene26.rpy:539
 translate francais v10s26_amberCowgirl_b121e142:
 
     # u "Haha, don't worry, me too. Maybe we should call it a night."
-    u "Haha, ne t'inquiète pas, moi aussi. Peut-être que nous devrions appeler ça une \"aventure\"."
+    u "Haha, t'inquiète pas, moi aussi. Peut-être que nous devrions appeler ça une \"aventure\"."
 
 # game/v10/scene26.rpy:544
 translate francais v10s26_amberCowgirl_d964a994:
@@ -1128,7 +1128,7 @@ translate francais v10s26_amberCowgirl_4e09152f:
 translate francais v10s26_amberCowgirl_367ab691:
 
     # u "Woah, let's not do that."
-    u "Woah, ne faisons pas ça."
+    u "Woah, faisons pas ça."
 
 # game/v10/scene26.rpy:566
 translate francais v10s26_amberCowgirl_3de35d93:
@@ -1194,7 +1194,7 @@ translate francais v10s26_amberCowgirl_47896fc3:
 translate francais v10s26_amberCowgirl_fa67bd4a:
 
     # u "No, I'm not really into wheels."
-    u "Non, je ne suis pas vraiment dans les trucs qui ont des roues."
+    u "Non, je suis pas vraiment dans les trucs qui ont des roues."
 
 # game/v10/scene26.rpy:638
 translate francais v10s26_amberCowgirl_56ea09f0:
@@ -1284,7 +1284,7 @@ translate francais v10s26_amberCowgirl_0d14ebca:
 translate francais v10s26_amberCowgirl_0dcffdec:
 
     # u "I didn't know you... oh shit!"
-    u "Je ne savais pas que tu... oh merde !"
+    u "Je savais pas que tu... oh merde !"
 
 # game/v10/scene26.rpy:749
 translate francais v10s26_amberCowgirl_ac358932:
@@ -1386,13 +1386,13 @@ translate francais v10s26_amberCowgirl_e28aafa2_1:
 translate francais v10s26_amberCowgirl_ce9a2a19_1:
 
     # am "I don't wanna make you feel like a booty call, but I'm pretty tired after that."
-    am "Je ne veux pas te donner l'impression d'être un plan cul, mais je suis assez fatiguée après tout ça."
+    am "Je veux pas te donner l'impression d'être un plan cul, mais je suis assez fatiguée après tout ça."
 
 # game/v10/scene26.rpy:844
 translate francais v10s26_amberCowgirl_b121e142_1:
 
     # u "Haha, don't worry, me too. Maybe we should call it a night."
-    u "Haha, ne t'inquiète pas, moi aussi. Peut-être que nous devrions appeler ça une \"aventure\"."
+    u "Haha, t'inquiète pas, moi aussi. Peut-être que nous devrions appeler ça une \"aventure\"."
 
 # game/v10/scene26.rpy:849
 translate francais v10s26_amberCowgirl_d964a994_1:
@@ -1416,7 +1416,7 @@ translate francais v10s26_amberCowgirl_4e09152f_1:
 translate francais v10s26_amberCowgirl_367ab691_1:
 
     # u "Woah, let's not do that."
-    u "Woah, ne faisons pas ça."
+    u "Woah, faisons pas ça."
 
 # game/v10/scene26.rpy:871
 translate francais v10s26_amberCowgirl_3de35d93_1:

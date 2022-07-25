@@ -40,7 +40,7 @@ translate francais v13s32_a1e848d2:
 translate francais v13s32_fee91744:
 
     # am "You know, I may give her a lot of shit, but I'm glad she doesn't cave to peer pressure."
-    am "Tu sais, je suis peut-être toujours en train de l'emmerder, mais je suis contente qu'elle ne cède pas à la pression des autres."
+    am "Tu sais, je suis peut-être toujours en train de l'emmerder, mais je suis contente qu'elle cède pas à la pression des autres."
 
 # game/v13/scene32.rpy:67
 translate francais v13s32_d02a4775:

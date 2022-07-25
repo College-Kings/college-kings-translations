@@ -124,7 +124,7 @@ translate francais v12_nora_exploring_b6ca6922:
 translate francais v12_nora_exploring_fa8d493d:
 
     # u "Well, just because it's a mess doesn't mean we can't check it out..."
-    u "C'est pas parce que c'est un carnage qu'on ne peut pas y jeter un coup d'oeil..."
+    u "C'est pas parce que c'est un carnage qu'on peut pas y jeter un coup d'oeil..."
 
 # game/v12/scene21.rpy:147
 translate francais v12_nora_exploring_83ce8dbf:
@@ -148,7 +148,7 @@ translate francais v12_nora_exploring_9959f4fc:
 translate francais v12_nora_exploring_59d6a0cc:
 
     # u "Whoa- Chill! CHILL! Please lady, chill... What the fuck is wrong with you?"
-    u "Whoa- Tranquille ! TRANQUILLE ! S'il vous plaît madame, calmez-vous... Putain, qu'est-ce qui ne va pas chez vous ?"
+    u "Whoa- Tranquille ! TRANQUILLE ! S'il vous plaît madame, calmez-vous... Putain, qu'est-ce qui va pas chez vous ?"
 
 # game/v12/scene21.rpy:172
 translate francais v12_nora_exploring_4bf80e12:
@@ -388,7 +388,7 @@ translate francais v12_nora_exploring_a0b76974:
 translate francais v12_nora_exploring_db774833:
 
     # u "You were so brave, I don't know what I would've done if you weren't there... My hero!"
-    u "Tu as été si courageuse, je ne sais pas ce que j'aurais fait si tu n'avais pas été là... Mon héroine !"
+    u "Tu as été si courageuse, je sais pas ce que j'aurais fait si tu n'avais pas été là... Mon héroine !"
 
 # game/v12/scene21.rpy:401
 translate francais v12_nora_exploring_b7fb4df7:
@@ -460,7 +460,7 @@ translate francais v12_nora_exploring_43eebcbd:
 translate francais v12_nora_exploring_f77b7d67:
 
     # u "I did, I don't know about Nora though. *Chuckles*"
-    u "Oui, mais je ne sais pas pour Nora. *Rire*"
+    u "Oui, mais je sais pas pour Nora. *Rire*"
 
 # game/v12/scene21.rpy:489
 translate francais v12_nora_exploring_739a82fc:

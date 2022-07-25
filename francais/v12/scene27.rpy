@@ -142,7 +142,7 @@ translate francais v12s27_807ffe33:
 translate francais v12s27_6e27dd50:
 
     # imre "Aww shit, I forgot they don't speak English! Definitely not getting a tattoo from someone that can't speak English... What if they tattoo the wrong thing on me?"
-    imre "Oh merde, j'avais oublié qu'ils parlaient pas anglais ! J'vais certainement pas me faire tatouer par quelqu'un qui ne parle pas anglais... Et s'ils me tatouaient le mauvais truc ?"
+    imre "Oh merde, j'avais oublié qu'ils parlaient pas anglais ! J'vais certainement pas me faire tatouer par quelqu'un qui parle pas anglais... Et s'ils me tatouaient le mauvais truc ?"
 
 # game/v12/scene27.rpy:144
 translate francais v12s27_1fce0d34:
@@ -154,7 +154,7 @@ translate francais v12s27_1fce0d34:
 translate francais v12s27_5d14dd48:
 
     # u "French people don't get a lot of tattoos?"
-    u "Les Français ne se font pas faire beaucoup de tatouages ?"
+    u "Les Français se font pas faire beaucoup de tatouages ?"
 
 # game/v12/scene27.rpy:154
 translate francais v12s27_3049868e:
@@ -310,7 +310,7 @@ translate francais v12s27_059c037b:
 translate francais v12s27_66d0c4a9:
 
     # u "*Laughs* Don't be mad at me just because I'm Mr. Lee's favorite and you're not."
-    u "*Rire* Ne m'en veux pas juste parce que je suis le préféré de Mr Lee et pas toi."
+    u "*Rire* M'en veux pas juste parce que je suis le préféré de Mr Lee et pas toi."
 
 # game/v12/scene27.rpy:274
 translate francais v12s27_c74423ac:
@@ -322,7 +322,7 @@ translate francais v12s27_c74423ac:
 translate francais v12s27_ff73d477:
 
     # u "I wouldn't go with teacher's-"
-    u "Je ne choisirais pas les profs..."
+    u "Je choisirais pas les profs..."
 
 # game/v12/scene27.rpy:284
 translate francais v12s27_b387eefa:
@@ -394,7 +394,7 @@ translate francais v12s27_48e3ef23:
 translate francais v12s27_495317c0:
 
     # u "You asked for something memorable, and I promise you won't forget that."
-    u "Tu as demandé quelque chose de mémorable, et je te promets que tu ne l'oublieras pas."
+    u "Tu as demandé quelque chose de mémorable, et je te promets que tu l'oublieras pas."
 
 # game/v12/scene27.rpy:348
 translate francais v12s27_83bdcb3f:
@@ -454,7 +454,7 @@ translate francais v12s27_2ad1c3d9:
 translate francais v12s27_3598fcaa:
 
     # u "What's wrong?"
-    u "Qu'est-ce qui ne va pas ?"
+    u "Qu'est-ce qui va pas ?"
 
 # game/v12/scene27.rpy:398
 translate francais v12s27_7c661817:

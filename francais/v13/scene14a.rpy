@@ -16,7 +16,7 @@ translate francais v13s14a_b41053fc:
 translate francais v13s14a_ef0ca01d:
 
     # u "I don't know, but I wasn't expecting this..."
-    u "Je ne sais pas, mais je ne m'attendais pas à ça..."
+    u "Je sais pas, mais je m'attendais pas à ça..."
 
 # game/v13/scene14a.rpy:34
 translate francais v13s14a_526ef0d1:
@@ -196,7 +196,7 @@ translate francais v13s14a_6bda91d6:
 translate francais v13s14a_8ff9e469:
 
     # u "Oh, you don't think I can keep up?"
-    u "Oh, tu penses que je ne peux pas suivre ?"
+    u "Oh, tu penses que je peux pas suivre ?"
 
 # game/v13/scene14a.rpy:199
 translate francais v13s14a_b68c30c2:
@@ -220,7 +220,7 @@ translate francais v13s14a_5dee16cd:
 translate francais v13s14a_2b311fba:
 
     # u "These are moves of the future, girl! Don't be a hater..."
-    u "Ce sont les mouvements du futur, ma belle ! Ne sois pas méprisante..."
+    u "Ce sont les mouvements du futur, ma belle ! Sois pas méprisante..."
 
 # game/v13/scene14a.rpy:249
 translate francais v13s14a_ea6e051b:

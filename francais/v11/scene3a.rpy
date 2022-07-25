@@ -28,7 +28,7 @@ translate francais v11_wolves_packing_chris_9efedfed:
 translate francais v11_wolves_packing_chris_7d3b23e0:
 
     # u "Ahh that was smart, I don't know what I was doing. I thought we still had another week."
-    u "Ahh c'est bien vu. Moi, je ne sais pas ce que je faisais. Je me disais qu'il nous restait encore une semaine."
+    u "Ahh c'est bien vu. Moi, je sais pas ce que je faisais. Je me disais qu'il nous restait encore une semaine."
 
 # game/v11/scene3a.rpy:42
 translate francais v11_wolves_packing_chris_53eeae4c:
@@ -76,7 +76,7 @@ translate francais v11_wolves_packing_chris_46092ce9:
 translate francais v11_wolves_packing_chris_e0469f9d:
 
     # u "Of course, I don't mind."
-    u "Bien sûr, ça ne me dérange pas."
+    u "Bien sûr, ça me dérange pas."
 
 # game/v11/scene3a.rpy:87
 translate francais v11_wolves_packing_chris_2d670b18:
@@ -88,13 +88,13 @@ translate francais v11_wolves_packing_chris_2d670b18:
 translate francais v11_wolves_packing_chris_2df276c5:
 
     # u "Of course, I couldn't see you guys without each other."
-    u "Bien sûr, je ne pourrais pas vous voir l'un sans l'autre."
+    u "Bien sûr, je pourrais pas vous voir l'un sans l'autre."
 
 # game/v11/scene3a.rpy:103
 translate francais v11_wolves_packing_chris_7c0050ed:
 
     # u "I wouldn't wanna try and play matchmaker or anything. So I don't really know."
-    u "Je ne voudrais pas essayer de jouer les entremetteurs ou autre. Donc je ne sais pas vraiment."
+    u "Je voudrais pas essayer de jouer les entremetteurs ou autre. Donc je sais pas vraiment."
 
 # game/v11/scene3a.rpy:108
 translate francais v11_wolves_packing_chris_1d89bf42:
@@ -262,7 +262,7 @@ translate francais v11_wolves_packing_chris_14155e54:
 translate francais v11_wolves_packing_chris_fb9abbe9:
 
     # u "I've never known you to not figure something out. I'm sure this'll be no different."
-    u "Je ne t'ai jamais vu ne pas comprendre quelque chose. Je suis sûr que ce ne sera pas différent."
+    u "Je t'ai jamais vu pas comprendre quelque chose. Je suis sûr que ce sera pas différent."
 
 # game/v11/scene3a.rpy:230
 translate francais v11_wolves_packing_chris_102f0c1c:
@@ -286,7 +286,7 @@ translate francais v11_wolves_packing_chris_1148935a:
 translate francais v11_wolves_packing_chris_71a4bafc:
 
     # u "I can't picture the frat without you as president, but it would give you more time for Nora."
-    u "Je ne peux pas imaginer la fraternité sans toi comme président, mais ça te donnerait plus de temps pour Nora."
+    u "Je peux pas imaginer la fraternité sans toi comme président, mais ça te donnerait plus de temps pour Nora."
 
 # game/v11/scene3a.rpy:252
 translate francais v11_wolves_packing_chris_fb456fd7:
@@ -310,7 +310,7 @@ translate francais v11_wolves_packing_chris_f59e3c12:
 translate francais v11_wolves_packing_chris_e8229cb1:
 
     # u "That's amazing, does she not know all this?"
-    u "C'est incroyable, elle ne comprend pas tout ça ?"
+    u "C'est incroyable, elle comprend pas tout ça ?"
 
 # game/v11/scene3a.rpy:272
 translate francais v11_wolves_packing_chris_d51969a4:
@@ -388,7 +388,7 @@ translate francais v11_wolves_packing_chris_14155e54_1:
 translate francais v11_wolves_packing_chris_fb9abbe9_1:
 
     # u "I've never known you to not figure something out. I'm sure this'll be no different."
-    u "Je ne t'ai jamais vu ne pas comprendre quelque chose. Je suis sûr que ce ne sera pas différent."
+    u "Je t'ai jamais vu pas comprendre quelque chose. Je suis sûr que ce sera pas différent."
 
 # game/v11/scene3a.rpy:330
 translate francais v11_wolves_packing_chris_102f0c1c_1:
@@ -418,7 +418,7 @@ translate francais v11_wolves_packing_chris_2d1d2646:
 translate francais v11_wolves_packing_chris_822d4f15:
 
     # u "Honestly, I'd rather not know what goes on in your relationship. I feel like that's between you and Nora."
-    u "Honnêtement, je préférerais ne pas savoir ce qui se passe dans votre relation. J'ai l'impression que c'est entre toi et Nora."
+    u "Honnêtement, je préférerais pas savoir ce qui se passe dans votre relation. J'ai l'impression que c'est entre toi et Nora."
 
 # game/v11/scene3a.rpy:376
 translate francais v11_wolves_packing_chris_b8fde82f:
@@ -469,4 +469,4 @@ translate francais v11_wolves_packing_chris_0d7beee8:
 translate francais v11_wolves_packing_chris_9a82eb1b:
 
     # u "I can't picture the frat without you as President, but it would give you more time for Nora."
-    u "Je ne peux pas imaginer la fraternité sans toi à sa tête, mais ça te donnerait plus de temps pour Nora."
+    u "Je peux pas imaginer la fraternité sans toi à sa tête, mais ça te donnerait plus de temps pour Nora."

@@ -28,7 +28,7 @@ translate francais v8_ri_start_ca1593cc:
 translate francais v8_ri_start_636dcef0:
 
     # u "I say Christmas came early this year!"
-    u "Je dis que Noël est arrivé tôt cette année !"
+    u "Je me dis que Noël est arrivé tôt cette année !"
 
 # game/v8/scene3.rpy:34
 translate francais v8_ri_start_59d65f4a:
@@ -40,7 +40,7 @@ translate francais v8_ri_start_59d65f4a:
 translate francais v8_ri_start_39ac44c8:
 
     # u "(Damn, did not expect Riley had this in her.)"
-    u "(Merde, je ne pensais pas que Riley avait ça en elle.)"
+    u "(Merde, je pensais pas que Riley avait ça en elle.)"
 
 # game/v8/scene3.rpy:41
 translate francais v8_ri_start_2159a2cd:
@@ -76,7 +76,7 @@ translate francais v8_ri_start_c6c9eea7:
 translate francais v8_ri_start_9a96713f:
 
     # ri "I want to... *moans* ride you so badly right now!"
-    ri "Je veux... *gémit* te chevaucher si fort en ce moment !"
+    ri "La, j'ai vraiment... *gémit* envie de te chevaucher !"
 
 # game/v8/scene3.rpy:125
 translate francais v8_ri_start_eda8b360:
@@ -88,7 +88,7 @@ translate francais v8_ri_start_eda8b360:
 translate francais v8_ri_start_86747027:
 
     # u "(She's so wet, she slipped right through.)"
-    u "(Elle est si mouillée que ça rentre tout seul.)"
+    u "(Elle est tellement mouillée que ça rentre tout seul.)"
 
 # game/v8/scene3.rpy:132
 translate francais v8_ri_start_172d2077:
@@ -100,7 +100,7 @@ translate francais v8_ri_start_172d2077:
 translate francais v8_ri_start_73873b8e:
 
     # ri "[name]... you feel so good!"
-    ri "[name]... C'est tellement bon !"
+    ri "[name]... C'est si bon !"
 
 # game/v8/scene3.rpy:138
 translate francais v8_ri_start_87175e70:
@@ -118,7 +118,7 @@ translate francais v8_ri_start_d839211b:
 translate francais v8_ri_start_5b185690:
 
     # u "Ahh! You're so hot, Riley!"
-    u "Ahhh ! Tu es si chaude, Riley !"
+    u "Ahhh ! Riley, t'es vraiment chaude !"
 
 # game/v8/scene3.rpy:147
 translate francais v8_ri_start_d5f0f25d:
@@ -130,7 +130,7 @@ translate francais v8_ri_start_d5f0f25d:
 translate francais v8_ri_start_8a29721f:
 
     # u "If you can, yeah."
-    u "Si tu peux, ouais."
+    u "Si tu peux, oui."
 
 # game/v8/scene3.rpy:154
 translate francais v8_ri_start_9965325c:
@@ -148,25 +148,25 @@ translate francais v8_ri_start_d30e26f0:
 translate francais v8_ri_start_c9ff1539:
 
     # ri "*Moans* I want you to fuck me from behind."
-    ri "*Gémis* Je veux que tu me baises par derrière."
+    ri "*Gémis* J'ai envie que tu me prennes par derrière."
 
 # game/v8/scene3.rpy:161
 translate francais v8_ri_start_76fd10b4:
 
     # ri "Well, what are you waiting for?"
-    ri "Eh bien, qu'est-ce que tu attend ?"
+    ri "Eh ben, t'attends quoi ?"
 
 # game/v8/scene3.rpy:166
 translate francais v8_ri_start_4b82e33b:
 
     # ri "Oh God! Yes!"
-    ri "Oh merde ! OUI!"
+    ri "Oh putain ! OUI !"
 
 # game/v8/scene3.rpy:171
 translate francais v8_ri_start_4e02250a:
 
     # u "Ahh fuck!"
-    u "Ahh putain !"
+    u "Ohh putain !"
 
 # game/v8/scene3.rpy:172
 translate francais v8_ri_start_51d3990d:
@@ -184,7 +184,7 @@ translate francais v8_ri_start_6676b031:
 translate francais v8_ri_start_b4b1ecd9:
 
     # ri "Fuck yes! Just like that!"
-    ri "Putain oui ! Juste comme ça !"
+    ri "Putain oui ! Comme ça !"
 
 # game/v8/scene3.rpy:183
 translate francais v8_ri_start_91c5f429:
@@ -196,13 +196,13 @@ translate francais v8_ri_start_91c5f429:
 translate francais v8_ri_start_5c4fc619:
 
     # ri "Harder! Show me your... *moans*{w} best."
-    ri "Plus fort! Montre-moi ton... *gémis*{w} maximum."
+    ri "Plus fort ! Donne-moi ton... *gémis*{w} maximum."
 
 # game/v8/scene3.rpy:185
 translate francais v8_ri_start_1602ef5e:
 
     # u "Ahh! Get your hands here."
-    u "Ahhh ! Mets tes mains ici."
+    u "Ahhh ! Mets tes mains là."
 
 # game/v8/scene3.rpy:190
 translate francais v8_ri_start_0433e828:
@@ -220,25 +220,25 @@ translate francais v8_ri_start_46b8446f:
 translate francais v8_ri_start_f0069fd8:
 
     # ri "Oh God baby, you feel so... *moans*"
-    ri "Oh mon Dieu bébé, C'est tellement... *gémis*"
+    ri "Oh mon Dieu bébé, C'est siii... *gémis*"
 
 # game/v8/scene3.rpy:194
 translate francais v8_ri_start_7b2c2964:
 
     # ri "...fucking good!!!"
-    ri "...Putain, c'est bon !!!"
+    ri "...PUTAIN DE BON !!!"
 
 # game/v8/scene3.rpy:195
 translate francais v8_ri_start_eb9e57b9:
 
     # u "It's about to feel better now."
-    u "Ça devrait être meilleur maintenant."
+    u "Tu vas bientôt aller beaucoup mieux."
 
 # game/v8/scene3.rpy:200
 translate francais v8_ri_start_2cab7c6e:
 
     # ri "Yes! Yes! Don't stop!"
-    ri "Oui ! Oui ! Ne t'arrête PAS !"
+    ri "Oui ! Oui ! T'arrête PAS !"
 
 # game/v8/scene3.rpy:202
 translate francais v8_ri_start_831702b6:
@@ -262,7 +262,7 @@ translate francais v8_ri_start_c9e65db6:
 translate francais v8_ri_start_afde7175:
 
     # u "Did you-"
-    u "As tu-"
+    u "Tu as-"
 
 # game/v8/scene3.rpy:206
 translate francais v8_ri_start_ee532d24:
@@ -274,13 +274,13 @@ translate francais v8_ri_start_ee532d24:
 translate francais v8_ri_start_be19ca7b:
 
     # ri "Cum in me. I want it.{w} Now!!!"
-    ri "Jouis en moi. Je le veux.{w} Maintenant !!!"
+    ri "Jouis en moi. J'en ai envie.{w} Maintenant !!!"
 
 # game/v8/scene3.rpy:209
 translate francais v8_ri_start_f15cadce:
 
     # u "You sure?"
-    u "Tu es sûre ?"
+    u "T'es sûre ?"
 
 # game/v8/scene3.rpy:210
 translate francais v8_ri_start_7806a7b4:
@@ -292,7 +292,7 @@ translate francais v8_ri_start_7806a7b4:
 translate francais v8_ri_start_ae1b3cb7:
 
     # u "Ah yes! Ahhh fuck!" with hpunch
-    u "Ah oui! Ahhh putain !" with hpunch
+    u "Oh oui! Ohhh putain !" with hpunch
 
 # game/v8/scene3.rpy:220
 translate francais v8_ri_start_65df360a:
@@ -304,13 +304,13 @@ translate francais v8_ri_start_65df360a:
 translate francais v8_ri_start_4d3ab0a5:
 
     # ri "Fuck me. That was so good!"
-    ri "Putain. C'était tellement bon!"
+    ri "Putain. C'était vraiment bon !"
 
 # game/v8/scene3.rpy:236
 translate francais v8_ri_start_489878ad:
 
     # u "Agreed."
-    u "Oh oui, vraiment."
+    u "Oh oui."
 
 # game/v8/scene3.rpy:240
 translate francais v8_ri_start_6da31428:
@@ -322,7 +322,7 @@ translate francais v8_ri_start_6da31428:
 translate francais v8_ri_start_366fc8d3:
 
     # u "Haha, glad to be of service!"
-    u "Haha, ravi que ça te plaise !"
+    u "Haha, ravi que ça t'ai plu !"
 
 # game/v8/scene3.rpy:245
 translate francais v8_ri_start_2057c186:
@@ -346,19 +346,19 @@ translate francais v8_ri_start_8793c7f5:
 translate francais v8_ri_start_e3196af1:
 
     # ri "Which is why you're gonna sleep here this time *Chuckles*"
-    ri "C'est pourquoi tu vas dormir ici cette fois *Rire*"
+    ri "C'est pourquoi cette fois, tu vas dormir ici. *Rire*"
 
 # game/v8/scene3.rpy:269
 translate francais v8_ri_start_3f255ba7:
 
     # ri "Which is why I wish you stay here until the morning."
-    ri "C'est pourquoi je souhaite que tu resties ici jusqu'au matin."
+    ri "C'est pourquoi j'ai envie que tu restes là jusqu'au matin."
 
 # game/v8/scene3.rpy:273
 translate francais v8_ri_start_c7436fb2:
 
     # u "Why? You wanna go another round after waking up?"
-    u "Pourquoi ? Tu veux remettre ça au réveil ?"
+    u "Pourquoi ? T'as envie de remettre ça au réveil ?"
 
 # game/v8/scene3.rpy:277
 translate francais v8_ri_start_e1a37bce:
@@ -370,7 +370,7 @@ translate francais v8_ri_start_e1a37bce:
 translate francais v8_ri_start_f1d8ec86:
 
     # u "Mhmm. You tired?"
-    u "Hum. Tu es fatiguée ?"
+    u "Hum. T'es fatiguée ?"
 
 # game/v8/scene3.rpy:285
 translate francais v8_ri_start_33c6856e:
@@ -382,7 +382,7 @@ translate francais v8_ri_start_33c6856e:
 translate francais v8_ri_start_4960e549:
 
     # u "Get some rest then."
-    u "Repose-toi alors."
+    u "Alors repose-toi bien."
 
 # game/v8/scene3.rpy:293
 translate francais v8_ri_start_9c911bff:
@@ -406,7 +406,7 @@ translate francais v8s3_nsfwSkipLabel1_1f7d4f5a:
 translate francais v8s3_nsfwSkipLabel1_457f269e:
 
     # u "Morning! What are you up to?"
-    u "Bonjour ! Que fais-tu ?"
+    u "Bonjour ! Tu fais quoi ?"
 
 # game/v8/scene3.rpy:320
 translate francais v8s3_nsfwSkipLabel1_0e0d37ca:
@@ -448,7 +448,7 @@ translate francais v8s3_nsfwSkipLabel1_c820ecb2:
 translate francais v8s3_nsfwSkipLabel1_1768e78b:
 
     # ri "Oh, will you stop already? *laughs*"
-    ri "Oh, t'as fini ? *rire*"
+    ri "Bon, t'as fini ? *rire*"
 
 # game/v8/scene3.rpy:348
 translate francais v8s3_nsfwSkipLabel1_2a638174:
@@ -460,7 +460,7 @@ translate francais v8s3_nsfwSkipLabel1_2a638174:
 translate francais v8s3_nsfwSkipLabel1_9ba7b681:
 
     # u "No wonder you were able to add 35 references in your Econ assignment *laughs*"
-    u "Pas étonnant que tu aies pu mettre 35 références dans ton devoir d'éco. *rire*"
+    u "Pas étonnant que t'aies pu mettre 35 références dans ton devoir d'éco. *rire*"
 
 # game/v8/scene3.rpy:357
 translate francais v8s3_nsfwSkipLabel1_29061286:
@@ -484,13 +484,13 @@ translate francais v8s3_nsfwSkipLabel1_8c2eb65a:
 translate francais v8s3_nsfwSkipLabel1_fa33cfb2:
 
     # ri "Hey, it's not that weird, is it now?"
-    ri "Hé, c'est pas si bizarre, hein ?"
+    ri "Hé, c'est pas si bizarre, si ?"
 
 # game/v8/scene3.rpy:374
 translate francais v8s3_nsfwSkipLabel1_22d35d79:
 
     # u "Haha, not really. I just did not expect it."
-    u "Haha, pas vraiment. C'est juste que je ne m'y attendais pas."
+    u "Haha, pas vraiment. C'est juste que je m'y attendais pas."
 
 # game/v8/scene3.rpy:378
 translate francais v8s3_nsfwSkipLabel1_497ec5d1:
@@ -502,25 +502,25 @@ translate francais v8s3_nsfwSkipLabel1_497ec5d1:
 translate francais v8s3_nsfwSkipLabel1_06d8dbc2:
 
     # ri "At least get dressed before you go hotshot."
-    ri "Au moins, habille-toi avant de partir, expèce de chaud lapin."
+    ri "Habille-toi au moins avant d'y aller, expèce de chaud lapin."
 
 # game/v8/scene3.rpy:400
 translate francais v8s3_nsfwSkipLabel1_ff1c7d65:
 
     # u "Oops, haha yeah."
-    u "Oups, haha ​​ouais."
+    u "Oups, haha c'est vrai."
 
 # game/v8/scene3.rpy:404
 translate francais v8s3_nsfwSkipLabel1_cbbe3be5:
 
     # u "Well... See you later."
-    u "Bon... à plus tard."
+    u "Allez... à plus tard."
 
 # game/v8/scene3.rpy:410
 translate francais v8s3_nsfwSkipLabel1_9d30626e:
 
     # ri "Hit me up when you're free. Byeee."
-    ri "Retrouve-moi quand tu es libre. Ciaoooo."
+    ri "Ciaoooo. Retrouve-moi quand tu es libre."
 
 # TODO: Translation updated at 2021-11-19 17:55
 
@@ -534,7 +534,7 @@ translate francais v8s3_rileyCowgirl_eda8b360:
 translate francais v8s3_rileyCowgirl_86747027:
 
     # u "(She's so wet, she slipped right through.)"
-    u "(Elle est si mouillée que ça rentre tout seul.)"
+    u "(Elle est tellement mouillée que ça rentre tout seul.)"
 
 # game/v8/scene3.rpy:138
 translate francais v8s3_rileyCowgirl_172d2077:
@@ -564,7 +564,7 @@ translate francais v8s3_rileyCowgirl_d839211b:
 translate francais v8s3_rileyCowgirl_5b185690:
 
     # u "Ahh! You're so hot, Riley!"
-    u "Ahh ! Tu es si chaude, Riley !"
+    u "Ahhh ! Riley, t'es vraiment chaude !"
 
 # game/v8/scene3.rpy:153
 translate francais v8s3_rileyCowgirl_d5f0f25d:
@@ -588,31 +588,31 @@ translate francais v8s3_rileyCowgirl_9965325c:
 translate francais v8s3_rileyCowgirl_d30e26f0:
 
     # ri "[name]... Let's change up."
-    ri "[name]... On change."
+    ri "[name]... Changeons."
 
 # game/v8/scene3.rpy:162
 translate francais v8s3_rileyCowgirl_c9ff1539:
 
     # ri "*Moans* I want you to fuck me from behind."
-    ri "*Gémis* Je veux que tu me baises par derrière."
+    ri "*Gémis* J'ai envie que tu me prennes par derrière."
 
 # game/v8/scene3.rpy:168
 translate francais v8s3_rileyLiftDoggy_76fd10b4:
 
     # ri "Well, what are you waiting for?"
-    ri "Eh bien, qu'attends-tu ?"
+    ri "Eh ben, t'attends quoi ?"
 
 # game/v8/scene3.rpy:173
 translate francais v8s3_rileyLiftDoggy_4b82e33b:
 
     # ri "Oh God! Yes!"
-    ri "Oh, putain ! Oui !"
+    ri "Oh putain ! Oui !"
 
 # game/v8/scene3.rpy:178
 translate francais v8s3_rileyLiftDoggy_4e02250a:
 
     # u "Ahh fuck!"
-    u "Ahh putain !"
+    u "Ohh putain !"
 
 # game/v8/scene3.rpy:179
 translate francais v8s3_rileyLiftDoggy_51d3990d:
@@ -630,7 +630,7 @@ translate francais v8s3_rileyLiftDoggy_6676b031:
 translate francais v8s3_rileyLiftDoggy_b4b1ecd9:
 
     # ri "Fuck yes! Just like that!"
-    ri "Putain oui ! Juste comme ça !"
+    ri "Putain oui ! Comme ça !"
 
 # game/v8/scene3.rpy:190
 translate francais v8s3_rileyLiftDoggy_91c5f429:
@@ -642,13 +642,13 @@ translate francais v8s3_rileyLiftDoggy_91c5f429:
 translate francais v8s3_rileyLiftDoggy_a585e744:
 
     # ri "Harder! Show me your... *moans* best."
-    ri "Plus fort ! Donne tout... *gémis* c'que tu as."
+    ri "Plus fort ! Donne-moi ton... *gémis*{w} maximum."
 
 # game/v8/scene3.rpy:192
 translate francais v8s3_rileyLiftDoggy_1602ef5e:
 
     # u "Ahh! Get your hands here."
-    u "Ahh ! Mets tes mains ici."
+    u "Ahhh ! Mets tes mains là."
 
 # game/v8/scene3.rpy:198
 translate francais v8s3_rileyDoggy_0433e828:
@@ -660,13 +660,13 @@ translate francais v8s3_rileyDoggy_0433e828:
 translate francais v8s3_rileyDoggy_46b8446f:
 
     # ri "Yes! Yes! God yes!"
-    ri "Oui ! Oui ! Putain oui !"
+    ri "Oui ! Oui! PUTAIN OUI !"
 
 # game/v8/scene3.rpy:201
 translate francais v8s3_rileyDoggy_f0069fd8:
 
     # ri "Oh God baby, you feel so... *moans*"
-    ri "Oh merde, bébé, tu est si... *gémis*"
+    ri "Oh mon Dieu bébé, C'est siii... *gémis*"
 
 # game/v8/scene3.rpy:202
 translate francais v8s3_rileyDoggy_7b2c2964:
@@ -678,13 +678,13 @@ translate francais v8s3_rileyDoggy_7b2c2964:
 translate francais v8s3_rileyDoggy_eb9e57b9:
 
     # u "It's about to feel better now."
-    u "Ça va aller mieux maintenant."
+    u "Tu vas bientôt aller beaucoup mieux."
 
 # game/v8/scene3.rpy:208
 translate francais v8s3_rileyDoggy_2cab7c6e:
 
     # ri "Yes! Yes! Don't stop!"
-    ri "Oui ! Oui ! t'arrête pas !"
+    ri "Oui ! Oui ! T'arrête PAS !"
 
 # game/v8/scene3.rpy:210
 translate francais v8s3_rileyDoggy_831702b6:
@@ -696,19 +696,19 @@ translate francais v8s3_rileyDoggy_831702b6:
 translate francais v8s3_rileyDoggy_e8b71f2f:
 
     # u "Ahh! I'm also close. Fuck!"
-    u "Ahh ! Je suis aussi proche. Putain !"
+    u "Ahhh ! Je viens aussi. Putain !"
 
 # game/v8/scene3.rpy:212
 translate francais v8s3_rileyDoggy_c9e65db6:
 
     # ri "*Moans really loud*" with hpunch
-    ri "*Gémis très fort*" with hpunch
+    ri "*Gémis vraiment fort**" with hpunch
 
 # game/v8/scene3.rpy:213
 translate francais v8s3_rileyDoggy_afde7175:
 
     # u "Did you-"
-    u "As-tu-"
+    u "Tu as-"
 
 # game/v8/scene3.rpy:214
 translate francais v8s3_rileyDoggy_ee532d24:
@@ -720,13 +720,13 @@ translate francais v8s3_rileyDoggy_ee532d24:
 translate francais v8s3_rileyDoggy_0aa67b5c:
 
     # ri "Cum in me. I want it. Now!!!"
-    ri "Jouis en moi. Je le veux. Maintenant !!!"
+    ri "Jouis en moi. J'en ai envie.{w} Maintenant !!!"
 
 # game/v8/scene3.rpy:217
 translate francais v8s3_rileyDoggy_f15cadce:
 
     # u "You sure?"
-    u "Tu es sûre ?"
+    u "T'es sûre ?"
 
 # game/v8/scene3.rpy:218
 translate francais v8s3_rileyDoggy_7806a7b4:
@@ -738,7 +738,7 @@ translate francais v8s3_rileyDoggy_7806a7b4:
 translate francais v8s3_rileyDoggy_ae1b3cb7:
 
     # u "Ah yes! Ahhh fuck!" with hpunch
-    u "Ah oui ! Ahhh putain !" with hpunch
+    u "Oh oui! Ohhh putain !" with hpunch
 
 # game/v8/scene3.rpy:228
 translate francais v8s3_rileyDoggy_65df360a:
@@ -750,13 +750,13 @@ translate francais v8s3_rileyDoggy_65df360a:
 translate francais v8s3_rileyDoggy_4d3ab0a5:
 
     # ri "Fuck me. That was so good!"
-    ri "Baise-moi. C'était si bon !"
+    ri "Putain. C'était vraiment bon !"
 
 # game/v8/scene3.rpy:246
 translate francais v8s3_rileyDoggy_489878ad:
 
     # u "Agreed."
-    u "C'est d'accord."
+    u "Oh oui."
 
 # game/v8/scene3.rpy:250
 translate francais v8s3_rileyDoggy_6da31428:
@@ -768,7 +768,7 @@ translate francais v8s3_rileyDoggy_6da31428:
 translate francais v8s3_rileyDoggy_366fc8d3:
 
     # u "Haha, glad to be of service!"
-    u "Haha, heureux d'avoir été utile !"
+    u "Haha, ravi que ça t'ai plu !"
 
 # game/v8/scene3.rpy:255
 translate francais v8s3_rileyDoggy_2057c186:
@@ -792,19 +792,19 @@ translate francais v8s3_rileyDoggy_8793c7f5:
 translate francais v8s3_rileyDoggy_e3196af1:
 
     # ri "Which is why you're gonna sleep here this time *Chuckles*"
-    ri "C'est pourquoi tu vas dormir ici cette fois-ci. *Rire*"
+    ri "C'est pourquoi cette fois, tu vas dormir ici. *Rire*"
 
 # game/v8/scene3.rpy:279
 translate francais v8s3_rileyDoggy_3f255ba7:
 
     # ri "Which is why I wish you stay here until the morning."
-    ri "C'est pourquoi je souhaite que tu restes ici jusqu'au matin."
+    ri "C'est pourquoi j'ai envie que tu restes là jusqu'au matin."
 
 # game/v8/scene3.rpy:283
 translate francais v8s3_rileyDoggy_c7436fb2:
 
     # u "Why? You wanna go another round after waking up?"
-    u "Pourquoi ? Tu veux remettre ça au réveil ?"
+    u "Pourquoi ? T'as envie de remettre ça au réveil ?"
 
 # game/v8/scene3.rpy:287
 translate francais v8s3_rileyDoggy_e1a37bce:
@@ -816,7 +816,7 @@ translate francais v8s3_rileyDoggy_e1a37bce:
 translate francais v8s3_rileyDoggy_f1d8ec86:
 
     # u "Mhmm. You tired?"
-    u "Mhmm. Tu es fatiguée ?"
+    u "Mhmm. T'es fatiguée ?"
 
 # game/v8/scene3.rpy:295
 translate francais v8s3_rileyDoggy_33c6856e:
@@ -828,7 +828,7 @@ translate francais v8s3_rileyDoggy_33c6856e:
 translate francais v8s3_rileyDoggy_4960e549:
 
     # u "Get some rest then."
-    u "Repose-toi bien, alors."
+    u "Alors repose-toi bien."
 
 # game/v8/scene3.rpy:303
 translate francais v8s3_rileyDoggy_9c911bff:

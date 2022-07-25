@@ -130,7 +130,7 @@ translate francais v13s47_604e5884:
 translate francais v13s47_85b0204d:
 
     # u "You sure you don't wanna go to brunch?"
-    u "Tu es sûre que tu ne veux pas aller prendre un brunch ?"
+    u "Tu es sûre que tu veux pas aller prendre un brunch ?"
 
 # game/v13/scene47.rpy:141
 translate francais v13s47_d5d5c7b2:

@@ -22,7 +22,7 @@ translate empty v10_apes_samantha_892195fa:
 translate empty v10_apes_samantha_ba6f4fa8:
 
     # sa "Something wrong?"
-    sa "Quelque chose ne va pas ?"
+    sa "Quelque chose va pas ?"
 
 # game/v10/scene14.rpy:42
 translate empty v10_apes_samantha_fb00ed35:
@@ -70,7 +70,7 @@ translate empty v10_apes_samantha_ac2ba772:
 translate empty v10_apes_samantha_1d728101:
 
     # sa "Well, I guess I really just wanna know why. It's kinda weird, don't you think? You don't really fit in with everyone else here."
-    sa "Eh bien, je crois que je veux juste savoir pourquoi. C'est un peu bizarre, tu ne trouves pas ? Tu ne t'adaptes pas vraiment à tout le monde ici."
+    sa "Eh bien, je crois que je veux juste savoir pourquoi. C'est un peu bizarre, tu trouves pas ? Tu t'adaptes pas vraiment à tout le monde ici."
 
 # game/v10/scene14.rpy:88
 translate empty v10_apes_samantha_7fdcd055:
@@ -82,13 +82,13 @@ translate empty v10_apes_samantha_7fdcd055:
 translate empty v10_apes_samantha_e01c2374:
 
     # sa "So you have a dangerous side... I never knew"
-    sa "Donc tu as un côté dangereux... je ne savais pas"
+    sa "Donc tu as un côté dangereux... je savais pas"
 
 # game/v10/scene14.rpy:98
 translate empty v10_apes_samantha_d2c31424:
 
     # u "I may not have gotten into fights before college, but I never let people disrespect me and I definitely wasn't afraid to speak my mind."
-    u "Je ne me suis peut-être pas battu avant l'université, mais je n'ai jamais laissé les gens me manquer de respect et je n'avais certainement pas peur de dire ce que je pensais."
+    u "Je me suis peut-être pas battu avant l'université, mais je n'ai jamais laissé les gens me manquer de respect et je n'avais certainement pas peur de dire ce que je pensais."
 
 # game/v10/scene14.rpy:103
 translate empty v10_apes_samantha_704f9636:
@@ -166,7 +166,7 @@ translate empty v10_apes_samantha_8cd64967:
 translate empty v10_apes_samantha_f72aca60:
 
     # sa "*Laughs* Remind me to never be a part of your revenge plans."
-    sa "*Rire* Rappelle-moi de ne jamais faire partie de tes plans de vengeance."
+    sa "*Rire* Rappelle-moi de jamais faire partie de tes plans de vengeance."
 
 # game/v10/scene14.rpy:144
 translate empty v10_apes_samantha_8f528a91:
@@ -202,7 +202,7 @@ translate empty v10_apes_samantha_5cdd5204:
 translate empty v10_apes_samantha_b43a6b84:
 
     # u "No, but it definitely could've been. My senior quote was way better. It went something like *chuckles* \"Cheaters never win, but I just did.\""
-    u "Non, mais ça aurait pu l'être. Ma citation de terminale était bien meilleure. C'était quelque chose comme \"Les tricheurs ne gagnent jamais, mais moi si.\""
+    u "Non, mais ça aurait pu l'être. Ma citation de terminale était bien meilleure. C'était quelque chose comme \"Les tricheurs gagnent jamais, mais moi si.\""
 
 # game/v10/scene14.rpy:177
 translate empty v10_apes_samantha_4e2a4378:
@@ -244,7 +244,7 @@ translate empty v10_apes_samantha_63dee4ec:
 translate empty v10_apes_samantha_b427a89d:
 
     # ca "I don't need a reason, just don't be hitting on my sister!"
-    ca "Je n'ai pas besoin de raison, mais ne drague pas ma soeur !"
+    ca "Je n'ai pas besoin de raison, mais drague pas ma soeur !"
 
 # game/v10/scene14.rpy:228
 translate empty v10_apes_samantha_199f4fd4:
@@ -268,13 +268,13 @@ translate empty v10_apes_samantha_9c705841:
 translate empty v10_apes_samantha_ebe1c8dd:
 
     # ca "I don't see what's so funny, you shouldn't be-"
-    ca "Je ne vois pas ce qu'il y a de drôle, tu ne devrais pas-"
+    ca "Je vois pas ce qu'il y a de drôle, tu devrais pas-"
 
 # game/v10/scene14.rpy:248
 translate empty v10_apes_samantha_e0287150:
 
     # sa "YOU SHOULDN'T BE TELLING ME WHAT I SHOULD OR SHOULDN'T BE DOING! Just leave us alone Cameron."
-    sa "TU NE DEVRAIS PAS ME DIRE CE QUE JE DEVRAIS OU NE DEVRAIS PAS FAIRE ! Laisse-nous seuls, Cameron."
+    sa "TU DEVRAIS PAS ME DIRE CE QUE JE DEVRAIS OU DEVRAIS PAS FAIRE ! Laisse-nous seuls, Cameron."
 
 # game/v10/scene14.rpy:253
 translate empty v10_apes_samantha_1ef4493b:
@@ -292,7 +292,7 @@ translate empty v10_apes_samantha_a49126a3:
 translate empty v10_apes_samantha_5fd87a1d:
 
     # sa "*Chuckles* Oh shut up. And just so we're clear no one is calling dibs on me. I'm not some leftover lasagna."
-    sa "*Rire* Oh, tais-toi. Et juste pour être clair, personne n'a dit Preum's sur moi. Je ne suis pas un reste de lasagne."
+    sa "*Rire* Oh, tais-toi. Et juste pour être clair, personne n'a dit Preum's sur moi. Je suis pas un reste de lasagne."
 
 # game/v10/scene14.rpy:273
 translate empty v10_apes_samantha_3bb6b427:
@@ -346,13 +346,13 @@ translate empty v10_apes_samantha_78338b42:
 translate empty v10_apes_samantha_535f9d77:
 
     # u "I don't know what you're talking about, we're just talking. As friends."
-    u "Je ne sais pas de quoi tu parles, on ne fait que parler. En tant qu'amis."
+    u "Je sais pas de quoi tu parles, on fait que parler. En tant qu'amis."
 
 # game/v10/scene14.rpy:339
 translate empty v10_apes_samantha_c0766b04:
 
     # ca "Looked like more than just a friendly conversation to me. Just don't try shit and we won't have a problem."
-    ca "Ça ressemblait à plus qu'une simple conversation amicale pour moi. Ne tente rien et on n'aura pas de problème."
+    ca "Ça ressemblait à plus qu'une simple conversation amicale pour moi. Tente rien et on n'aura pas de problème."
 
 # game/v10/scene14.rpy:344
 translate empty v10_apes_samantha_8b940739:
@@ -394,7 +394,7 @@ translate empty strings:
 
     # game/v10/scene14.rpy:206
     old "I don't know"
-    new "Je ne sais pas"
+    new "Je sais pas"
 
 # TODO: Translation updated at 2021-11-30 18:17
 
@@ -420,7 +420,7 @@ translate francais v10_apes_samantha_892195fa:
 translate francais v10_apes_samantha_ba6f4fa8:
 
     # sa "Something wrong?"
-    sa "Quelque chose ne va pas ?"
+    sa "Quelque chose va pas ?"
 
 # game/v10/scene14.rpy:42
 translate francais v10_apes_samantha_fb00ed35:
@@ -468,7 +468,7 @@ translate francais v10_apes_samantha_ac2ba772:
 translate francais v10_apes_samantha_1d728101:
 
     # sa "Well, I guess I really just wanna know why. It's kinda weird, don't you think? You don't really fit in with everyone else here."
-    sa "Eh bien, je pense que je veux juste savoir pourquoi. C'est un peu bizarre, tu ne trouves pas ? Tu ne t'adaptes pas vraiment à tout le monde ici."
+    sa "Eh bien, je pense que je veux juste savoir pourquoi. C'est un peu bizarre, tu trouves pas ? Tu t'adaptes pas vraiment à tout le monde ici."
 
 # game/v10/scene14.rpy:88
 translate francais v10_apes_samantha_7fdcd055:
@@ -480,13 +480,13 @@ translate francais v10_apes_samantha_7fdcd055:
 translate francais v10_apes_samantha_e01c2374:
 
     # sa "So you have a dangerous side... I never knew"
-    sa "Donc tu as un côté dangereux... je ne savais pas"
+    sa "Donc tu as un côté dangereux... je savais pas"
 
 # game/v10/scene14.rpy:98
 translate francais v10_apes_samantha_d2c31424:
 
     # u "I may not have gotten into fights before college, but I never let people disrespect me and I definitely wasn't afraid to speak my mind."
-    u "Je ne me suis peut-être pas battu avant l'université, mais je n'ai jamais laissé les gens me manquer de respect et je n'avais certainement pas peur de dire ce que je pensais."
+    u "Je me suis peut-être pas battu avant l'université, mais je n'ai jamais laissé les gens me manquer de respect et je n'avais certainement pas peur de dire ce que je pensais."
 
 # game/v10/scene14.rpy:103
 translate francais v10_apes_samantha_704f9636:
@@ -564,7 +564,7 @@ translate francais v10_apes_samantha_8cd64967:
 translate francais v10_apes_samantha_f72aca60:
 
     # sa "*Laughs* Remind me to never be a part of your revenge plans."
-    sa "*Rire* Rappelle-moi de ne jamais faire partie de tes plans de vengeance."
+    sa "*Rire* Rappelle-moi de jamais faire partie de tes plans de vengeance."
 
 # game/v10/scene14.rpy:144
 translate francais v10_apes_samantha_8f528a91:
@@ -600,7 +600,7 @@ translate francais v10_apes_samantha_5cdd5204:
 translate francais v10_apes_samantha_b43a6b84:
 
     # u "No, but it definitely could've been. My senior quote was way better. It went something like *chuckles* \"Cheaters never win, but I just did.\""
-    u "Non, mais ça aurait pu l'être. Ma citation de terminale était bien meilleure. C'était quelque chose comme \"Les tricheurs ne gagnent jamais, mais moi si.\""
+    u "Non, mais ça aurait pu l'être. Ma citation de terminale était bien meilleure. C'était quelque chose comme \"Les tricheurs gagnent jamais, mais moi si.\""
 
 # game/v10/scene14.rpy:177
 translate francais v10_apes_samantha_4e2a4378:
@@ -642,7 +642,7 @@ translate francais v10_apes_samantha_63dee4ec:
 translate francais v10_apes_samantha_b427a89d:
 
     # ca "I don't need a reason, just don't be hitting on my sister!"
-    ca "Je n'ai pas besoin de raison, mais ne drague pas ma soeur !"
+    ca "Je n'ai pas besoin de raison, mais drague pas ma soeur !"
 
 # game/v10/scene14.rpy:228
 translate francais v10_apes_samantha_199f4fd4:
@@ -666,13 +666,13 @@ translate francais v10_apes_samantha_9c705841:
 translate francais v10_apes_samantha_ebe1c8dd:
 
     # ca "I don't see what's so funny, you shouldn't be-"
-    ca "Je ne vois pas ce qu'il y a de drôle, tu ne devrais pas-"
+    ca "Je vois pas ce qu'il y a de drôle, tu devrais pas-"
 
 # game/v10/scene14.rpy:248
 translate francais v10_apes_samantha_e0287150:
 
     # sa "YOU SHOULDN'T BE TELLING ME WHAT I SHOULD OR SHOULDN'T BE DOING! Just leave us alone Cameron."
-    sa "TU NE DEVRAIS PAS ME DIRE CE QUE JE DEVRAIS OU NE DEVRAIS PAS FAIRE ! Laisse-nous seuls, Cameron."
+    sa "TU DEVRAIS PAS ME DIRE CE QUE JE DEVRAIS OU DEVRAIS PAS FAIRE ! Laisse-nous seuls, Cameron."
 
 # game/v10/scene14.rpy:253
 translate francais v10_apes_samantha_1ef4493b:
@@ -690,7 +690,7 @@ translate francais v10_apes_samantha_a49126a3:
 translate francais v10_apes_samantha_5fd87a1d:
 
     # sa "*Chuckles* Oh shut up. And just so we're clear no one is calling dibs on me. I'm not some leftover lasagna."
-    sa "*Rire* Oh, tais-toi. Et juste pour être clair, personne n'a dit Preum's sur moi. Je ne suis pas un reste de lasagne."
+    sa "*Rire* Oh, tais-toi. Et juste pour être clair, personne n'a dit Preum's sur moi. Je suis pas un reste de lasagne."
 
 # game/v10/scene14.rpy:273
 translate francais v10_apes_samantha_3bb6b427:
@@ -744,13 +744,13 @@ translate francais v10_apes_samantha_78338b42:
 translate francais v10_apes_samantha_535f9d77:
 
     # u "I don't know what you're talking about, we're just talking. As friends."
-    u "Je ne sais pas de quoi tu parles, on ne fait que parler. En tant qu'amis."
+    u "Je sais pas de quoi tu parles, on fait que parler. En tant qu'amis."
 
 # game/v10/scene14.rpy:339
 translate francais v10_apes_samantha_c0766b04:
 
     # ca "Looked like more than just a friendly conversation to me. Just don't try shit and we won't have a problem."
-    ca "Ça ressemblait à plus qu'une simple conversation amicale pour moi. Ne tente rien et on n'aura pas de problème."
+    ca "Ça ressemblait à plus qu'une simple conversation amicale pour moi. Tente rien et on n'aura pas de problème."
 
 # game/v10/scene14.rpy:344
 translate francais v10_apes_samantha_8b940739:
@@ -792,4 +792,4 @@ translate francais strings:
 
     # game/v10/scene14.rpy:206
     old "I don't know"
-    new "Je ne sais pas"
+    new "Je sais pas"

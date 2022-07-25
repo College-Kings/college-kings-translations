@@ -76,7 +76,7 @@ translate empty v10_mc_vs_ryan_fight_a24f67d4:
 translate empty ryan_fightEnd_d9990e5b:
 
     # u "I don't think I can do this. Sorry guys."
-    u "Je ne pense pas pouvoir le faire. Désolé les gars."
+    u "Je pense pas pouvoir le faire. Désolé les gars."
 
 # game/v10/scene6.rpy:433
 translate empty ryan_fightEnd_707e55b8:
@@ -100,7 +100,7 @@ translate empty ryan_fightEnd_8039e85f:
 translate empty ryan_fightEnd_a5764f9c:
 
     # u "I can't, I just can't."
-    u "Je ne peux pas, je ne peux vraiment pas."
+    u "Je peux pas, je peux vraiment pas."
 
 translate empty strings:
 
@@ -190,13 +190,13 @@ translate francais v10_mc_vs_ryan_fight_a24f67d4:
 translate francais ryan_fightEnd_d9990e5b:
 
     # u "I don't think I can do this. Sorry guys."
-    u "Je ne pense pas pouvoir le faire. Désolé les gars."
+    u "Je pense pas pouvoir le faire. Désolé les gars."
 
 # game/v10/scene6.rpy:428
 translate francais ryan_fightEnd_707e55b8:
 
     # imre "Dude, you better not quit right now!"
-    imre "Mec, tu ferais mieux de ne pas abandonner maintenant !"
+    imre "Mec, tu ferais mieux de pas abandonner maintenant !"
 
 # game/v10/scene6.rpy:433
 translate francais ryan_fightEnd_7ea7fb9c:
@@ -214,7 +214,7 @@ translate francais ryan_fightEnd_8039e85f:
 translate francais ryan_fightEnd_a5764f9c:
 
     # u "I can't, I just can't."
-    u "Je ne peux pas, je ne peux pas."
+    u "Je peux pas, je peux pas."
 
 translate francais strings:
 

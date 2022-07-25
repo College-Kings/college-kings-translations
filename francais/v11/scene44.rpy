@@ -106,7 +106,7 @@ translate francais v11_nora_lingerie_13e1f270:
 translate francais v11_nora_lingerie_a16140e3:
 
     # u "So, I hope it's not weird for me to bring this up, but I saw you talking to Charli at the airport. I wanted to talk to you about what was going on, but I didn't want to interrupt what you guys were talking about."
-    u "J'espère que ce n'est pas bizarre que je parle de ça, mais je t'ai vu discuter avec Charli à l'aéroport. Je voulais te parler de ce qui se passait, mais je ne voulais pas vous interrompre dans votre conversation."
+    u "J'espère que ce n'est pas bizarre que je parle de ça, mais je t'ai vu discuter avec Charli à l'aéroport. Je voulais te parler de ce qui se passait, mais je voulais pas vous interrompre dans votre conversation."
 
 # game/v11/scene44.rpy:106
 translate francais v11_nora_lingerie_87fd19a4:
@@ -166,7 +166,7 @@ translate francais v11_nora_lingerie_d0f1cda6:
 translate francais v11_nora_lingerie_8dd768f4:
 
     # u "I'm not gonna let you go shopping by yourself. Besides, you're not walking back by yourself so I'm waiting for you either way. *Chuckles*"
-    u "Je ne vais pas te laisser faire du shopping toute seule. D'ailleurs, tu ne rentres pas toute seule, donc je t'attends de toute façon. *Rire*"
+    u "Je vais pas te laisser faire du shopping toute seule. D'ailleurs, tu rentres pas toute seule, donc je t'attends de toute façon. *Rire*"
 
 # game/v11/scene44.rpy:181
 translate francais v11_nora_lingerie_8e36476e:
@@ -184,7 +184,7 @@ translate francais v11_nora_lingerie_ae977e06:
 translate francais v11_nora_lingerie_ac922f2b:
 
     # u "Haha, wow. I've never seen you embarrassed before."
-    u "Haha, wow. Je ne t'ai jamais vu aussi embarrassée avant."
+    u "Haha, wow. Je t'ai jamais vu aussi embarrassée avant."
 
 # game/v11/scene44.rpy:196
 translate francais v11_nora_lingerie_ccae18b1:

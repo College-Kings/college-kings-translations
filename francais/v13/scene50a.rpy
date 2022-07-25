@@ -76,7 +76,7 @@ translate francais v13s50a_bc3d4af3:
 translate francais v13s50a_aae40746:
 
     # u "(I'm not that stupid.)"
-    u "(Je ne suis pas si stupide.)"
+    u "(Je suis pas si stupide.)"
 
 # game/v13/scene50a.rpy:134
 translate francais v13s50a_32ee94ee:
@@ -100,7 +100,7 @@ translate francais v13s50a_17bd9553:
 translate francais v13s50a_3036c042:
 
     # u "You need to decide what you want, though. All of this back and forth shit isn't gonna work."
-    u "Tu dois décider ce que tu veux, pourtant. Toute cette merde de va-et-vient ne va pas marcher."
+    u "Tu dois décider ce que tu veux, pourtant. Toute cette merde de va-et-vient va pas marcher."
 
 # game/v13/scene50a.rpy:163
 translate francais v13s50a_7c878117:
@@ -130,7 +130,7 @@ translate francais v13s50a_return_after_emily_b1835a59:
 translate francais v13s50a_return_after_emily_f831a012:
 
     # u "Oh, sorry the date didn't go according to your plan."
-    u "Oh, désolé que le rencard ne se soit pas déroulé comme tu l'avais prévu."
+    u "Oh, désolé que le rencard se soit pas déroulé comme tu l'avais prévu."
 
 # game/v13/scene50a.rpy:212
 translate francais v13s50a_return_after_emily_bdc3931c:

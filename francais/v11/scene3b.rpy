@@ -124,7 +124,7 @@ translate francais v11_cafe_with_riley_13918ced:
 translate francais v11_cafe_with_riley_79067112:
 
     # u "Well... Planes don't crash often, but there's usually a lot of turbulence which makes the plane shake pretty hard. That part is a little scary."
-    u "Eh bien... Les avions ne s'écrasent pas souvent, mais il y a généralement pas mal de turbulences qui font trembler l'avion assez fort. Cette partie est un peu angoissante."
+    u "Eh bien... Les avions s'écrasent pas souvent, mais il y a généralement pas mal de turbulences qui font trembler l'avion assez fort. Cette partie est un peu angoissante."
 
 # game/v11/scene3b.rpy:130
 translate francais v11_cafe_with_riley_41f33989:
@@ -142,7 +142,7 @@ translate francais v11_cafe_with_riley_bfaa40a4:
 translate francais v11_cafe_with_riley_b2109baa:
 
     # u "Haha, I'm just messing with you. It's really not that bad. You probably won't even notice we're moving."
-    u "Haha, je me moque juste de toi. C'est vraiment pas si mal. Tu ne remarqueras même pas que nous nous déplaçons."
+    u "Haha, je me moque juste de toi. C'est vraiment pas si mal. Tu remarqueras même pas que nous nous déplaçons."
 
 # game/v11/scene3b.rpy:145
 translate francais v11_cafe_with_riley_fe691d49:
@@ -202,7 +202,7 @@ translate francais v11_cafe_with_riley_ac18688a:
 translate francais v11_cafe_with_riley_a03e22ac:
 
     # u "Haha, no Riley, it doesn't hurt. It's just an unusual feeling. I'm sure you've popped your knuckles before. It's like that but with your ear."
-    u "Haha, non Riley, ça ne fait pas mal. C'est juste une sensation inhabituelle. Je suis sûr que tu as déjà fait sauter tes articulations. C'est comme ça, mais avec ton oreille."
+    u "Haha, non Riley, ça fait pas mal. C'est juste une sensation inhabituelle. Je suis sûr que tu as déjà fait sauter tes articulations. C'est comme ça, mais avec ton oreille."
 
 # game/v11/scene3b.rpy:184
 translate francais v11_cafe_with_riley_62ac0c70:
@@ -448,7 +448,7 @@ translate francais v11_cafe_with_riley_02c4444f:
 translate francais v11_cafe_with_riley_3639a878:
 
     # u "I'm not jealous, just surprised to see you hit it off like that."
-    u "Je ne suis pas jaloux, juste surpris de vous voir vous entendre si bien."
+    u "Je suis pas jaloux, juste surpris de vous voir vous entendre si bien."
 
 # game/v11/scene3b.rpy:398
 translate francais v11_cafe_with_riley_4231ea00:
@@ -484,7 +484,7 @@ translate francais v11_cafe_with_riley_bde6a20f:
 translate francais v11_cafe_with_riley_7ee312d1:
 
     # u "(I'm not jealous, I just... I don't know.)"
-    u "(Je ne suis pas jaloux, je suis juste... Je ne sais pas.)"
+    u "(Je suis pas jaloux, je suis juste... Je sais pas.)"
 
 translate francais strings:
 

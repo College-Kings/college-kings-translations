@@ -22,7 +22,7 @@ translate francais v13s51_emily_fight_46023978:
 translate francais v13s51_emily_fight_523308fc:
 
     # u "Look, don't approach me like this. You know damn well you're the one who asked me to leave you alone. And you were very, very direct about it."
-    u "Écoute, ne me cherche pas comme ça. Tu sais très bien que c'est toi qui m'as demandé de te laisser tranquille. Et tu as été très, très claire sur ce point."
+    u "Écoute, me cherche pas comme ça. Tu sais très bien que c'est toi qui m'as demandé de te laisser tranquille. Et tu as été très, très claire sur ce point."
 
 # game/v13/scene51.rpy:37
 translate francais v13s51_emily_fight_d656083f:
@@ -52,7 +52,7 @@ translate francais v13s51_emily_fight_b3219151:
 translate francais v13s51_emily_fight_ca532f44:
 
     # u "You don't know what you want, so don't be mad at me for being focused on what I want."
-    u "Tu ne sais pas ce que tu veux, alors ne m'en veux pas de me concentrer sur ce que JE veux."
+    u "Tu sais pas ce que tu veux, alors m'en veux pas de me concentrer sur ce que JE veux."
 
 # game/v13/scene51.rpy:59
 translate francais v13s51_emily_fight_92d8613b:
@@ -130,7 +130,7 @@ translate francais v13s51_emily_fight_4bae7e85:
 translate francais v13s51_emily_fight_397f0ed3:
 
     # u "We're not doing this. Like deadass, get the fuck out!"
-    u "On ne va pas faire ça. Putain de trou du cul, dégage !"
+    u "On va pas faire ça. Putain de trou du cul, dégage !"
 
 # game/v13/scene51.rpy:212
 translate francais v13s51_emily_fight_af9e0a50:

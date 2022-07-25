@@ -22,7 +22,7 @@ translate francais v11_hotel_lobby_rose_f9cc3c15:
 translate francais v11_hotel_lobby_rose_92c224aa:
 
     # u "Damn, so... I can't just lay here with you all day?"
-    u "Merde, alors... Je ne peux pas rester allongé ici avec toi toute la journée ?"
+    u "Merde, alors... Je peux pas rester allongé ici avec toi toute la journée ?"
 
 # game/v11/scene42.rpy:32
 translate francais v11_hotel_lobby_rose_3703a650:
@@ -64,7 +64,7 @@ translate francais v11_hotel_lobby_rose_eb2dd4a1:
 translate francais v11_hotel_lobby_rose_ede1e530:
 
     # u "Damn, so... I can't just lay here all day?"
-    u "Merde, alors... Je ne peux pas rester allongé ici toute la journée ?"
+    u "Merde, alors... Je peux pas rester allongé ici toute la journée ?"
 
 # game/v11/scene42.rpy:78
 translate francais v11_hotel_lobby_rose_9563e3d6:

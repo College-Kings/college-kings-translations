@@ -58,7 +58,7 @@ translate francais v12_nursing_aubrey_59f65133:
 translate francais v12_nursing_aubrey_0949f8b4:
 
     # u "*Laughs* Instant karma... For real though, does it hurt pretty bad?"
-    u "*Rire* Karma instantané... Mais sérieusement, ça ne fait pas mal ?"
+    u "*Rire* Karma instantané... Mais sérieusement, ça fait pas mal ?"
 
 # game/v12/scene21a.rpy:88
 translate francais v12_nursing_aubrey_25231dad:
@@ -172,7 +172,7 @@ translate francais v12_nursing_aubrey_a2668c7a:
 translate francais v12_nursing_aubrey_4f29cc78:
 
     # u "Not everything is about sex, sometimes you just help people."
-    u "Tout ne tourne pas autour du sexe, parfois tu aides juste les gens sans rien attendre en retour."
+    u "Tout tourne pas autour du sexe, parfois tu aides juste les gens sans rien attendre en retour."
 
 # game/v12/scene21a.rpy:183
 translate francais v12_nursing_aubrey_335426ce:
@@ -340,7 +340,7 @@ translate francais v12_nursing_aubrey_0aef897c:
 translate francais v12_nursing_aubrey_5fbd9ecb:
 
     # u "And Nora, please don't kill him."
-    u "Et Nora, s'il te plaît, ne le tue pas... \"encore\"."
+    u "Et Nora, s'il te plaît, le tue pas... \"encore\"."
 
 # game/v12/scene21a.rpy:333
 translate francais v12_nursing_aubrey_48a828e5:

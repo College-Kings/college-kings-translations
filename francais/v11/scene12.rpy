@@ -46,7 +46,7 @@ translate francais v11_sit_ryan_convo_28de074c:
 translate francais v11_sit_ryan_convo_88908331:
 
     # u "Hmm... got some new clothes, had a hearing with the dean, and well, Emily said she no longer wants to talk to me."
-    u "Hmm... j'ai acheté de nouveaux vêtements, j'ai eu une audience avec la doyenne, et bon, Emily a dit qu'elle ne voulait plus me parler."
+    u "Hmm... j'ai acheté de nouveaux vêtements, j'ai eu une audience avec la doyenne, et bon, Emily a dit qu'elle voulait plus me parler."
 
 # game/v11/scene12.rpy:61
 translate francais v11_sit_ryan_convo_b8d2aad2:
@@ -58,7 +58,7 @@ translate francais v11_sit_ryan_convo_b8d2aad2:
 translate francais v11_sit_ryan_convo_8fcf427c:
 
     # u "I don't even remember."
-    u "Je ne m'en souviens pas."
+    u "Je m'en souviens pas."
 
 # game/v11/scene12.rpy:71
 translate francais v11_sit_ryan_convo_666665d0:
@@ -70,7 +70,7 @@ translate francais v11_sit_ryan_convo_666665d0:
 translate francais v11_sit_ryan_convo_149fbd36:
 
     # u "I'm pretty sure she wants to be a nurse or something so I'm not surprised."
-    u "Je suis presque sûr qu'elle veut être infirmière ou autre, donc je ne suis pas surpris."
+    u "Je suis presque sûr qu'elle veut être infirmière ou autre, donc je suis pas surpris."
 
 # game/v11/scene12.rpy:81
 translate francais v11_sit_ryan_convo_fa816d1f:
@@ -100,7 +100,7 @@ translate francais v11_sit_ryan_convo_0b88ad4e:
 translate francais v11_sit_ryan_convo_3899d867:
 
     # u "She's very intense. I don't know... When she gets attached, she's attached. But that doesn't necessarily have to mean loyal as I found out..."
-    u "Elle est très intense. Je ne sais pas... Quand elle s'attache, elle s'attache. Mais ça ne veut pas forcément dire fidèle, comme je l'ai découvert..."
+    u "Elle est très intense. Je sais pas... Quand elle s'attache, elle s'attache. Mais ça veut pas forcément dire fidèle, comme je l'ai découvert..."
 
 # game/v11/scene12.rpy:111
 translate francais v11_sit_ryan_convo_07da59f0:
@@ -160,7 +160,7 @@ translate francais v11_sit_ryan_convo_35a67dae:
 translate francais v11_sit_ryan_convo_cf0cfab2:
 
     # u "Look, I can't tell you everything, that'd just be weird. You'll find more value in getting to know her yourself and her opening up to you."
-    u "Écoute, je ne peux pas tout te dire, ça serait bizarre. Tu trouveras plus intéressant d'apprendre à la connaître toi-même et qu'elle s'ouvre à toi."
+    u "Écoute, je peux pas tout te dire, ça serait bizarre. Tu trouveras plus intéressant d'apprendre à la connaître toi-même et qu'elle s'ouvre à toi."
 
 # game/v11/scene12.rpy:161
 translate francais v11_sit_ryan_convo_0ae23774:
@@ -208,7 +208,7 @@ translate francais v11_sit_ryan_convo_28de074c_1:
 translate francais v11_sit_ryan_convo_88908331_1:
 
     # u "Hmm... got some new clothes, had a hearing with the dean, and well, Emily said she no longer wants to talk to me."
-    u "Hmm... j'ai acheté de nouveaux vêtements, j'ai eu une audience avec la doyenne, et bon, Emily a dit qu'elle ne voulait plus me parler."
+    u "Hmm... j'ai acheté de nouveaux vêtements, j'ai eu une audience avec la doyenne, et bon, Emily a dit qu'elle voulait plus me parler."
 
 # game/v11/scene12.rpy:202
 translate francais v11_sit_ryan_convo_b8d2aad2_1:
@@ -220,7 +220,7 @@ translate francais v11_sit_ryan_convo_b8d2aad2_1:
 translate francais v11_sit_ryan_convo_8fcf427c_1:
 
     # u "I don't even remember."
-    u "Je ne m'en souviens pas."
+    u "Je m'en souviens pas."
 
 # game/v11/scene12.rpy:212
 translate francais v11_sit_ryan_convo_666665d0_1:
@@ -232,7 +232,7 @@ translate francais v11_sit_ryan_convo_666665d0_1:
 translate francais v11_sit_ryan_convo_149fbd36_1:
 
     # u "I'm pretty sure she wants to be a nurse or something so I'm not surprised."
-    u "Je suis presque sûr qu'elle veut être infirmière ou autre, donc je ne suis pas surpris."
+    u "Je suis presque sûr qu'elle veut être infirmière ou autre, donc je suis pas surpris."
 
 # game/v11/scene12.rpy:222
 translate francais v11_sit_ryan_convo_fa816d1f_1:
@@ -280,7 +280,7 @@ translate francais v11_sit_ryan_convo_9cd8929a:
 translate francais v11_sit_ryan_convo_3899d867_1:
 
     # u "She's very intense. I don't know... When she gets attached, she's attached. But that doesn't necessarily have to mean loyal as I found out..."
-    u "Elle est très intense. Je ne sais pas... Quand elle s'attache, elle s'attache. Mais ça ne veut pas forcément dire fidèle, comme je l'ai découvert..."
+    u "Elle est très intense. Je sais pas... Quand elle s'attache, elle s'attache. Mais ça veut pas forcément dire fidèle, comme je l'ai découvert..."
 
 # game/v11/scene12.rpy:265
 translate francais v11_sit_ryan_convo_07da59f0_1:
@@ -340,7 +340,7 @@ translate francais v11_sit_ryan_convo_35a67dae_1:
 translate francais v11_sit_ryan_convo_cf0cfab2_1:
 
     # u "Look, I can't tell you everything, that'd just be weird. You'll find more value in getting to know her yourself and her opening up to you."
-    u "Écoute, je ne peux pas tout te dire, ça serait bizarre. Tu trouveras plus intéressant d'apprendre à la connaître toi-même et qu'elle s'ouvre à toi."
+    u "Écoute, je peux pas tout te dire, ça serait bizarre. Tu trouveras plus intéressant d'apprendre à la connaître toi-même et qu'elle s'ouvre à toi."
 
 # game/v11/scene12.rpy:315
 translate francais v11_sit_ryan_convo_0ae23774_1:
@@ -370,7 +370,7 @@ translate francais v11_sit_ryan_convo_aa7c31f0:
 translate francais v11_sit_ryan_convo_a222023d:
 
     # u "I don't know what you were thinking, but it needs to be anything except talking to my ex. You should know that's not cool."
-    u "Je ne sais pas à quoi tu pensais, mais il faut que ce soit tout sauf parler à mon ex. Tu devrais savoir que ça ne se fait pas, entre potes."
+    u "Je sais pas à quoi tu pensais, mais il faut que ce soit tout sauf parler à mon ex. Tu devrais savoir que ça se fait pas, entre potes."
 
 # game/v11/scene12.rpy:341
 translate francais v11_sit_ryan_convo_c6aac2cd:
@@ -418,7 +418,7 @@ translate francais v11_sit_ryan_convo_3ce7ce96:
 translate francais v11_sit_ryan_convo_8f6894a1:
 
     # u "She's not even gonna go for you. You're causing a drift between us and wasting your time with her. She's obsessed with me."
-    u "Elle ne va même pas aller vers toi. Tu provoques une dérive entre nous et tu perds ton temps avec elle. Elle est obsédée par moi."
+    u "Elle va même pas aller vers toi. Tu provoques une dérive entre nous et tu perds ton temps avec elle. Elle est obsédée par moi."
 
 # game/v11/scene12.rpy:390
 translate francais v11_sit_ryan_convo_eed8abea:

@@ -214,7 +214,7 @@ translate francais v10_lauren_room_fc00ebee:
 translate francais v10_lauren_room_2b03b64e:
 
     # u "You never know until you try."
-    u "On ne sait jamais avant d'avoir essayé."
+    u "On sait jamais avant d'avoir essayé."
 
 # game/v10/scene24.rpy:214
 translate francais v10_lauren_room_sg_6d41934f:
@@ -352,7 +352,7 @@ translate francais v10_lauren_room_sg_9ef4c49f:
 translate francais v10_lauren_room_sg_fdc91fa7:
 
     # u "We'll go as fast as you're comfortable with. Don't worry about me."
-    u "Nous irons aussi vite que tu le souhaites. Ne t'inquiète pas pour moi."
+    u "Nous irons aussi vite que tu le souhaites. T'inquiète pas pour moi."
 
 # game/v10/scene24.rpy:386
 translate francais v10_lauren_room_sg_fcf85d5c:
@@ -400,7 +400,7 @@ translate francais v10s24_nsfwSkipLabel1_7345fe11:
 translate francais v10s24_nsfwSkipLabel1_bb294e26:
 
     # u "That wouldn't be the worst thing in the world, haha."
-    u "Ce ne serait pas la pire chose au monde, haha."
+    u "Ce serait pas la pire chose au monde, haha."
 
 # game/v10/scene24.rpy:442
 translate francais v10s24_nsfwSkipLabel1_6968d31b:
@@ -514,7 +514,7 @@ translate francais v10s24_nsfwSkipLabel1_2e0969dd:
 translate francais v10s24_nsfwSkipLabel1_1df834ba:
 
     # u "Why not kill two birds with one stone? *Chuckles*"
-    u "Pourquoi ne pas faire d'une pierre deux coups ?  *Rire*"
+    u "Pourquoi pas faire d'une pierre deux coups ?  *Rire*"
 
 # game/v10/scene24.rpy:520
 translate francais v10s24_nsfwSkipLabel1_76cdfcbb:
@@ -568,7 +568,7 @@ translate francais v10s24_nsfwSkipLabel1_02086829:
 translate francais v10s24_nsfwSkipLabel1_31ca4947:
 
     # u "It doesn't bother me, I'm on my way."
-    u "Ça ne me dérange pas, je suis en route."
+    u "Ça me dérange pas, je suis en route."
 
 # game/v10/scene24.rpy:560
 translate francais v10s24_nsfwSkipLabel1_e69dfa0f:
@@ -586,7 +586,7 @@ translate francais v10s24_nsfwSkipLabel1_fcfea652_1:
 translate francais v10s24_nsfwSkipLabel1_2184b9c9:
 
     # sa "Hey, can you come home? It's pretty important, but I can't go into detail. I just need you to come home now!"
-    sa "Hey, tu peux rentrer à la maison ? C'est assez important, mais je ne peux pas entrer dans les détails. J'ai juste besoin que tu rentres à la maison maintenant !"
+    sa "Hey, tu peux rentrer à la maison ? C'est assez important, mais je peux pas entrer dans les détails. J'ai juste besoin que tu rentres à la maison maintenant !"
 
 # game/v10/scene24.rpy:576
 translate francais v10s24_nsfwSkipLabel1_bd634b06:

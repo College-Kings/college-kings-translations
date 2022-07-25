@@ -106,7 +106,7 @@ translate francais v13s16_6a8e073c:
 translate francais v13s16_e73b3e62:
 
     # u "We won't be like them."
-    u "Nous ne serons pas comme eux."
+    u "On sera pas comme eux."
 
 # game/v13/scene16.rpy:127
 translate francais v13s16_c129175a:
@@ -118,7 +118,7 @@ translate francais v13s16_c129175a:
 translate francais v13s16_53a09ff8:
 
     # u "Of course I am, Lauren... I wouldn't be here if I wasn't, and you give me many reasons to be."
-    u "Bien sûr que oui, Lauren... Je ne serais pas ici si je ne le voulais pas, et tu me donnes de nombreuses raisons de le vouloir."
+    u "Bien sûr que oui, Lauren... Je serais pas ici si je le voulais pas, et tu me donnes de nombreuses raisons de le vouloir."
 
 # game/v13/scene16.rpy:151
 translate francais v13s16_17f83ba7:
@@ -154,7 +154,7 @@ translate francais v13s16_50de667b:
 translate francais v13s16_80adeb8d:
 
     # u "I don't see why not. Even if it's just out of respect for you, I'd do what I had to do in order to get along."
-    u "Je ne vois pas pourquoi pas. Même si c'est juste par respect pour toi, je ferais ce qu'il faut pour m'entendre avec eux."
+    u "Je vois pas pourquoi pas. Même si c'est juste par respect pour toi, je ferais ce qu'il faut pour m'entendre avec eux."
 
 # game/v13/scene16.rpy:185
 translate francais v13s16_e52c5b1a:
@@ -190,7 +190,7 @@ translate francais v13s16_43dc0d1a:
 translate francais v13s16_5e6e2388:
 
     # u "I wouldn't mind dating myself. *Chuckles*"
-    u "Ça ne me dérangerait vraiment pas de sortir avec moi même. *Rire*"
+    u "Ça me dérangerait vraiment pas de sortir avec moi même. *Rire*"
 
 # game/v13/scene16.rpy:217
 translate francais v13s16_a1e848d2:

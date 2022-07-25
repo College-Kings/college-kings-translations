@@ -10,7 +10,7 @@ translate francais v11_sam_spa_82484e0c:
 translate francais v11_sam_spa_f27312d4:
 
     # u "I didn't expect a hotel to have a spa like this. I thought we were walking into some rusted, old pool."
-    u "Je ne m'attendais pas à ce qu'un hôtel ait un tel spa. Je pensais qu'on allait entrer dans une vieille piscine rouillée."
+    u "Je m'attendais pas à ce qu'un hôtel ait un tel spa. Je pensais qu'on allait entrer dans une vieille piscine rouillée."
 
 # game/v11/scene28a.rpy:30
 translate francais v11_sam_spa_16240651:
@@ -46,7 +46,7 @@ translate francais v11_sam_spa_3fe41575:
 translate francais v11_sam_spa_3ff362c0:
 
     # sa "Try not to get a hard on."
-    sa "Essaie de ne pas bander."
+    sa "Essaie de pas bander."
 
 # game/v11/scene28a.rpy:77
 translate francais v11_sam_spa_8e84d77f:
@@ -64,7 +64,7 @@ translate francais v11_sam_spa_41c0fbd9:
 translate francais v11_sam_spa_e7c02e22:
 
     # sa "What, I'm not cute enough to glance at?"
-    sa "Quoi, je ne suis pas assez mignon pour qu'on me regarde ?"
+    sa "Quoi, je suis pas assez mignon pour qu'on me regarde ?"
 
 # game/v11/scene28a.rpy:93
 translate francais v11_sam_spa_1a5ec30e:
@@ -106,19 +106,19 @@ translate francais v11_sam_spa_8204f4e1:
 translate francais v11_sam_spa_0efec1fa:
 
     # sa "Back when Cameron didn't helicopter me. *Chuckles*"
-    sa "A l'époque où Cameron ne m'hébergeait pas. *Rire*"
+    sa "A l'époque où Cameron m'hébergeait pas. *Rire*"
 
 # game/v11/scene28a.rpy:133
 translate francais v11_sam_spa_d3a667ef:
 
     # u "I can't imagine a time when Cameron wasn't watching your every move."
-    u "Je ne peux pas imaginer un moment où Cameron ne surveillait pas tous tes mouvements."
+    u "Je peux pas imaginer un moment où Cameron surveillait pas tous tes mouvements."
 
 # game/v11/scene28a.rpy:138
 translate francais v11_sam_spa_fc1569fc:
 
     # sa "I didn't always despise him, you know? We actually used to get along very well."
-    sa "Je ne l'ai pas toujours méprisé, tu sais ? En fait, on s'entendait très bien."
+    sa "Je l'ai pas toujours méprisé, tu sais ? En fait, on s'entendait très bien."
 
 # game/v11/scene28a.rpy:143
 translate francais v11_sam_spa_d9dbfd70:
@@ -154,7 +154,7 @@ translate francais v11_sam_spa_07cd6b38:
 translate francais v11_sam_spa_508b0fbb:
 
     # u "We don't have to if you don't want to."
-    u "On n'est pas obligé si tu ne veux pas."
+    u "On n'est pas obligé si tu veux pas."
 
 # game/v11/scene28a.rpy:173
 translate francais v11_sam_spa_b3813b72:
@@ -166,7 +166,7 @@ translate francais v11_sam_spa_b3813b72:
 translate francais v11_sam_spa_349312b7:
 
     # u "Seems like you're trying to make a lot of good choices. I noticed you didn't want to take a drink at the bar."
-    u "On dirait que tu essaies de faire beaucoup de bons choix. J'ai remarqué que tu ne voulais pas prendre un verre au bar."
+    u "On dirait que tu essaies de faire beaucoup de bons choix. J'ai remarqué que tu voulais pas prendre un verre au bar."
 
 # game/v11/scene28a.rpy:183
 translate francais v11_sam_spa_5380372b:
@@ -202,7 +202,7 @@ translate francais v11_sam_spa_5781d4af:
 translate francais v11_sam_spa_23f0f72a:
 
     # u "So I assume you didn't snitch?"
-    u "Donc tu ne l'as pas balancé ?"
+    u "Donc tu l'as pas balancé ?"
 
 # game/v11/scene28a.rpy:213
 translate francais v11_sam_spa_1e55d253:
@@ -268,13 +268,13 @@ translate francais v11_sam_spa_2154e53f:
 translate francais v11_sam_spa_2edcda92:
 
     # sa "I'm not his mistake."
-    sa "Je ne suis pas son erreur."
+    sa "Je suis pas son erreur."
 
 # game/v11/scene28a.rpy:268
 translate francais v11_sam_spa_0613b66e:
 
     # u "You may not see it that way, but think about it. He's the one that started your snowball."
-    u "Tu ne le vois peut-être pas comme ça, mais réfléchis-y. C'est lui qui a commencé cette boule de neige."
+    u "Tu le vois peut-être pas comme ça, mais réfléchis-y. C'est lui qui a commencé cette boule de neige."
 
 # game/v11/scene28a.rpy:273
 translate francais v11_sam_spa_ce751d33:
@@ -304,7 +304,7 @@ translate francais v11_sam_spa_449f4623:
 translate francais v11_sam_spa_dea18fb9:
 
     # u "I don't wanna read too much into it, but you gotta see the connections here."
-    u "Je ne veux pas trop m'avancer, mais il faut voir les connexions, là."
+    u "Je veux pas trop m'avancer, mais il faut voir les connexions, là."
 
 # game/v11/scene28a.rpy:295
 translate francais v11_sam_spa_6372b1bf:
@@ -316,7 +316,7 @@ translate francais v11_sam_spa_6372b1bf:
 translate francais v11_sam_spa_86fd0f52:
 
     # u "That's how we may take it, but he may not see it that way. Especially if he blames himself for everything that happened to you."
-    u "C'est comme ça que nous le prenons, mais il ne le voit peut-être pas comme ça. Surtout s'il se sent responsable de tout ce qui t'est arrivé."
+    u "C'est comme ça que nous le prenons, mais il le voit peut-être pas comme ça. Surtout s'il se sent responsable de tout ce qui t'est arrivé."
 
 # game/v11/scene28a.rpy:305
 translate francais v11_sam_spa_6b041fd2:
@@ -430,7 +430,7 @@ translate francais v11_sam_spa_41adf7e7:
 translate francais v11_sam_spa_cc2f76ae:
 
     # sa "When is he not?"
-    sa "Quand est-ce qu'il ne l'est pas ?"
+    sa "Quand est-ce qu'il l'est pas ?"
 
 # game/v11/scene28a.rpy:400
 translate francais v11_sam_spa_480a0341:
@@ -454,7 +454,7 @@ translate francais v11_sam_spa_ad808ca8:
 translate francais v11_sam_spa_78d14717:
 
     # sa "I'm not stupid, [name], I have really good grades."
-    sa "Je ne suis pas stupide, [name]. J'ai de très bonnes notes."
+    sa "Je suis pas stupide, [name]. J'ai de très bonnes notes."
 
 # game/v11/scene28a.rpy:420
 translate francais v11_sam_spa_20298982:
@@ -598,13 +598,13 @@ translate francais v11s28a_galleryScene_d6944590:
 translate francais v11s28a_galleryScene_6777e775:
 
     # sa "They called the police and he spent the night in jail, but the family decided not to press charges after I begged them."
-    sa "Ils ont appelé la police et il a passé la nuit en prison, mais la famille a décidé de ne pas porter plainte après que je leur ai supplié."
+    sa "Ils ont appelé la police et il a passé la nuit en prison, mais la famille a décidé de pas porter plainte après que je leur ai supplié."
 
 # game/v11/scene28a.rpy:573
 translate francais v11s28a_galleryScene_c7579243:
 
     # sa "Justin ended up breaking up with me and I haven't dated anyone since."
-    sa "Justin a fini par rompre avec moi et je ne suis sortie avec personne depuis."
+    sa "Justin a fini par rompre avec moi et je suis sortie avec personne depuis."
 
 # game/v11/scene28a.rpy:578
 translate francais v11s28a_galleryScene_2043c967:
@@ -628,7 +628,7 @@ translate francais v11s28a_galleryScene_32f696f1:
 translate francais v11s28a_galleryScene_dbaaf8cf:
 
     # u "\"You don't do that to your family\" or something like that?"
-    u "\"On ne fait pas ça à sa famille\" ou quelque chose comme ça ?"
+    u "\"On fait pas ça à sa famille\" ou quelque chose comme ça ?"
 
 # game/v11/scene28a.rpy:595
 translate francais v11s28a_galleryScene_e84c06c5:
@@ -646,13 +646,13 @@ translate francais v11s28a_galleryScene_92e6c1e8:
 translate francais v11s28a_galleryScene_62b603c5:
 
     # sa "How funny... Don't think we're just gonna talk about me all night. What about your exes? I know you dated Emily."
-    sa "Très drôle... Ne pense pas qu'on va juste parler de moi toute la nuit. Qu'en est-il de tes ex ? Je sais que tu es sorti avec Emily."
+    sa "Très drôle... Pense pas qu'on va juste parler de moi toute la nuit. Qu'en est-il de tes ex ? Je sais que tu es sorti avec Emily."
 
 # game/v11/scene28a.rpy:610
 translate francais v11s28a_galleryScene_46f48680:
 
     # u "She cheated on me and recently said she doesn't want to talk to me or see me anymore so no point in talking about her, but I can tell you about another girl."
-    u "Elle m'a trompé et a récemment dit qu'elle ne voulait plus me parler ou me voir, donc pas la peine de parler d'elle, mais je peux te parler d'une autre fille."
+    u "Elle m'a trompé et a récemment dit qu'elle voulait plus me parler ou me voir, donc pas la peine de parler d'elle, mais je peux te parler d'une autre fille."
 
 # game/v11/scene28a.rpy:615
 translate francais v11s28a_galleryScene_d10f0ac4:
@@ -742,7 +742,7 @@ translate francais v11s28a_galleryScene_1d930449:
 translate francais v11s28a_galleryScene_bf3e4647:
 
     # sa "If something doesn't work out it's because it wasn't meant to."
-    sa "Si quelque chose ne marche pas, c'est que ce n'était pas prévu."
+    sa "Si quelque chose marche pas, c'est que ce n'était pas prévu."
 
 # game/v11/scene28a.rpy:703
 translate francais v11s28a_galleryScene_07433087:
@@ -790,7 +790,7 @@ translate francais v11s28a_galleryScene_59ca6a00:
 translate francais v11s28a_galleryScene_027b41c3:
 
     # u "(Rather not end up like Justin.)"
-    u "(Je préfère ne pas finir comme Justin.)"
+    u "(Je préfère pas finir comme Justin.)"
 
 # game/v11/scene28a.rpy:760
 translate francais v11s28a_galleryScene_93fec03a:
@@ -820,7 +820,7 @@ translate francais v11s28a_galleryScene_263e2d1f:
 translate francais v11s28a_galleryScene_b29b6807:
 
     # sa "No, it's too expensive to travel... and plus, I've never really been into it that much anyway."
-    sa "Non, c'est trop cher de voyager... et en plus, ça ne m'a jamais vraiment intéressé de toute façon."
+    sa "Non, c'est trop cher de voyager... et en plus, ça m'a jamais vraiment intéressé de toute façon."
 
 # game/v11/scene28a.rpy:785
 translate francais v11s28a_galleryScene_e50bb0e2:
@@ -844,7 +844,7 @@ translate francais v11s28a_galleryScene_fea68dca:
 translate francais v11s28a_nsfwSkipLabel1_20be8c6c:
 
     # sa "Sorry... I don't know why, but I just got really tired all of a sudden."
-    sa "Désolée... Je ne sais pas pourquoi, mais je suis vraiment fatiguée tout d'un coup."
+    sa "Désolée... Je sais pas pourquoi, mais je suis vraiment fatiguée tout d'un coup."
 
 # game/v11/scene28a.rpy:841
 translate francais v11s28a_nsfwSkipLabel1_e62bab76:

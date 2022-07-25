@@ -424,7 +424,7 @@ translate francais v14s09_06000b8a:
 translate francais v14s09_4de7af6f:
 
     # u "(I know she's really been planning to take Chloe down, I wouldn't be surprised if she enjoyed planning that even more than Europe.)"
-    u "(Je sais qu'elle a vraiment prévu de faire tomber Chloé, je ne serais pas surpris qu'elle ait pris plaisir à planifier ça. Encore plus que le voyage en Europe.)"
+    u "(Je sais qu'elle a vraiment prévu de faire tomber Chloé, je serais pas surpris qu'elle ait pris plaisir à planifier ça. Encore plus que le voyage en Europe.)"
 
 # game/v14/scene9.rpy:365
 translate francais v14s09_1cf9a52b:
@@ -520,7 +520,7 @@ translate francais v14s09_1de7eecd:
 translate francais v14s09_5abb5299:
 
     # u "(We shared an incredible night together. I don't think either of us will ever forget it.)"
-    u "(On a passé une nuit incroyable ensemble. Je crois qu'aucun de nous deux ne l'oubliera jamais.)"
+    u "(On a passé une nuit incroyable ensemble. Je crois qu'on l'oubliera jamais.)"
 
 # game/v14/scene9.rpy:441
 translate francais v14s09_a05dadc7:

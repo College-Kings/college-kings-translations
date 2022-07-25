@@ -10,13 +10,13 @@ translate francais room_wed_night_effd9593:
 translate francais room_wed_night_0095d73a:
 
     # u "(Well I can't really decide on my favorite moment of the day, but dude, Aubrey...)"
-    u "(Eh bien, je ne peux pas vraiment décider de mon moment préféré de la journée, mais putain, Aubrey...)"
+    u "(Eh bien, je peux pas vraiment décider de mon moment préféré de la journée, mais putain, Aubrey...)"
 
 # game/v9/scene09.rpy:27
 translate francais room_wed_night_ebbf7c97:
 
     # u "(Well I can't really decide on my favorite moment of the day, but dude, Riley...)"
-    u "(Bon, je ne peux pas vraiment décider de mon moment préféré de la journée, mais putain, Riley...)"
+    u "(Bon, je peux pas vraiment décider de mon moment préféré de la journée, mais putain, Riley...)"
 
 # game/v9/scene09.rpy:30
 translate francais room_wed_night_d257537b:
@@ -58,13 +58,13 @@ translate francais room_wed_night_effd9593_1:
 translate francais room_wed_night_0095d73a_1:
 
     # u "(Well I can't really decide on my favorite moment of the day, but dude, Aubrey...)"
-    u "(Eh bien, je ne peux pas vraiment décider de mon moment préféré de la journée, mais putain, Aubrey...)"
+    u "(Eh bien, je peux pas vraiment décider de mon moment préféré de la journée, mais putain, Aubrey...)"
 
 # game/v9/scene09.rpy:89
 translate francais room_wed_night_ebbf7c97_1:
 
     # u "(Well I can't really decide on my favorite moment of the day, but dude, Riley...)"
-    u "(Bon, je ne peux pas vraiment décider de mon moment préféré de la journée, mais putain, Riley...)"
+    u "(Bon, je peux pas vraiment décider de mon moment préféré de la journée, mais putain, Riley...)"
 
 # game/v9/scene09.rpy:92
 translate francais room_wed_night_d257537b_1:

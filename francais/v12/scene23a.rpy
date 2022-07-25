@@ -10,13 +10,13 @@ translate francais v12_mc_chilling_c01866a4:
 translate francais v12_mc_chilling_27121c3a:
 
     # sa "*Drunk* No one wants to hang out with me! Why is everyone ignoring me?!"
-    sa "*Ivre* Personne ne veut traîner avec moi ! Pourquoi tout le monde m'ignore ?!"
+    sa "*Ivre* Personne veut traîner avec moi ! Pourquoi tout le monde m'ignore ?!"
 
 # game/v12/scene23a.rpy:66
 translate francais v12_mc_chilling_55e52bac:
 
     # u "Sam... Are you drunk right now? I thought you weren't drinking?"
-    u "Sam... Tu es complètement bourrée ? Je croyais que tu ne buvais pas ?"
+    u "Sam... Tu es complètement bourrée ? Je croyais que tu buvais pas ?"
 
 # game/v12/scene23a.rpy:71
 translate francais v12_mc_chilling_b5561abc:
@@ -58,7 +58,7 @@ translate francais v12_mc_chilling_ac2c5107:
 translate francais v12_mc_chilling_f129c7b2:
 
     # u "So, you were just trying to walk into random people's rooms? You know we aren't the only guests in the hotel right? *Chuckles*"
-    u "Donc, tu essayais juste d'entrer dans les chambres de quelqu'un au hasard ? Tu sais que nous ne sommes pas les seuls clients de l'hôtel, n'est-ce pas ? *Rire*"
+    u "Donc, tu essayais juste d'entrer dans les chambres de quelqu'un au hasard ? Tu sais que nous sommes pas les seuls clients de l'hôtel, n'est-ce pas ? *Rire*"
 
 # game/v12/scene23a.rpy:106
 translate francais v12_mc_chilling_df75e2fb:
@@ -88,7 +88,7 @@ translate francais v12_mc_chilling_feb167d6:
 translate francais v12_mc_chilling_67aaf10b:
 
     # sa "*Drunk* Why do you care where my stupid brother is? Why can't you just spend time with me?"
-    sa "*Ivre* Pourquoi tu te soucies d'où est mon stupide frère ? Pourquoi ne peux-tu pas simplement passer du temps avec moi ?"
+    sa "*Ivre* Pourquoi tu te soucies d'où est mon stupide frère ? Pourquoi peux-tu pas simplement passer du temps avec moi ?"
 
 # game/v12/scene23a.rpy:131
 translate francais v12_mc_chilling_1cbbc10b:
@@ -124,13 +124,13 @@ translate francais v12_mc_chilling_d515fdf9:
 translate francais v12_mc_chilling_2e40bbfd:
 
     # sa "*Drunk* Which shouldn't take this long to answer... I get it..."
-    sa "*Ivre* Qui ne devrait pas prendre autant de temps à répondre... J'ai compris..."
+    sa "*Ivre* Qui devrait pas prendre autant de temps à répondre... J'ai compris..."
 
 # game/v12/scene23a.rpy:164
 translate francais v12_mc_chilling_b88e5acd:
 
     # u "No, Sam. I mean, yeah. Of course you're pretty. I just wasn't expecting that question I guess."
-    u "Non, Sam. Je veux dire, oui. Bien sûr que tu es jolie. Je ne m'attendais pas à cette question, c'est tout."
+    u "Non, Sam. Je veux dire, oui. Bien sûr que tu es jolie. Je m'attendais pas à cette question, c'est tout."
 
 # game/v12/scene23a.rpy:171
 translate francais v12_mc_chilling_3f54e48a:
@@ -160,13 +160,13 @@ translate francais v12_mc_chilling_97a73ab2:
 translate francais v12_mc_chilling_bd83d731:
 
     # u "Why'd you even ask me if you aren't gonna believe my answer?"
-    u "Pourquoi tu m'as demandé ça si tu ne me crois pas ?"
+    u "Pourquoi tu m'as demandé ça si tu me crois pas ?"
 
 # game/v12/scene23a.rpy:196
 translate francais v12_mc_chilling_6797330e:
 
     # sa "*Drunk* Just wanted to see what you'd say... But, I know you don't think I'm \"that\" pretty."
-    sa "*Ivre* Je voulais juste savoir ce que tu dirais... Mais, je sais que tu ne penses pas que je suis si jolie que ça."
+    sa "*Ivre* Je voulais juste savoir ce que tu dirais... Mais, je sais que tu penses pas que je suis si jolie que ça."
 
 # game/v12/scene23a.rpy:201
 translate francais v12_mc_chilling_db56ac90:
@@ -178,7 +178,7 @@ translate francais v12_mc_chilling_db56ac90:
 translate francais v12_mc_chilling_f87a099b:
 
     # sa "*Drunk* If you think I'm pretty... Then why haven't we done anything yet, huh? Why haven't you kissed me? Don't you wanna kiss me?"
-    sa "*Ivre* Si tu penses que je suis jolie... Alors pourquoi n'avons-nous encore rien fait, hein ? Pourquoi tu ne m'as pas encore embrassée ? Tu n'as pas envie de le faire ?"
+    sa "*Ivre* Si tu penses que je suis jolie... Alors pourquoi n'avons-nous encore rien fait, hein ? Pourquoi tu m'as pas encore embrassée ? Tu n'as pas envie de le faire ?"
 
 # game/v12/scene23a.rpy:216
 translate francais v12_mc_chilling_dd61558e:
@@ -190,7 +190,7 @@ translate francais v12_mc_chilling_dd61558e:
 translate francais v12_mc_chilling_448dc203:
 
     # sa "*Drunk* What? I'm not sexy enough to show off? See, I knew you didn't like me..."
-    sa "*Ivre* Quoi ? Je ne suis pas assez sexy pour m'exhiber ? Tu vois, je savais que tu ne m'aimais pas..."
+    sa "*Ivre* Quoi ? Je suis pas assez sexy pour m'exhiber ? Tu vois, je savais que tu m'aimais pas..."
 
 # game/v12/scene23a.rpy:231
 translate francais v12_mc_chilling_13837e21:
@@ -202,7 +202,7 @@ translate francais v12_mc_chilling_13837e21:
 translate francais v12_mc_chilling_4ad42dbb:
 
     # u "*Chuckles* What if he can't beat up your brother?"
-    u "*Rire* Et s'il ne peut pas battre ton frère ?"
+    u "*Rire* Et s'il peut pas battre ton frère ?"
 
 # game/v12/scene23a.rpy:241
 translate francais v12_mc_chilling_2deb08c7:
@@ -262,7 +262,7 @@ translate francais v12_mc_chilling_12f2e20a:
 translate francais v12_mc_chilling_f1555f93:
 
     # u "*Chuckles* No. I didn't."
-    u "*Rire* Non. Je ne l'ai pas fait."
+    u "*Rire* Non. Je l'ai pas fait."
 
 # game/v12/scene23a.rpy:291
 translate francais v12_mc_chilling_85504b58:
@@ -286,7 +286,7 @@ translate francais v12_mc_chilling_ec604462:
 translate francais v12_mc_chilling_0e787380:
 
     # u "No, I don't think so."
-    u "Non, je ne crois pas."
+    u "Non, je crois pas."
 
 # game/v12/scene23a.rpy:316
 translate francais v12_mc_chilling_0289b587:
@@ -298,7 +298,7 @@ translate francais v12_mc_chilling_0289b587:
 translate francais v12_mc_chilling_0a019a63:
 
     # u "Haha, I didn't know there was a right and wrong answer."
-    u "Haha, je ne savais pas qu'il y avait une bonne et une mauvaise réponse."
+    u "Haha, je savais pas qu'il y avait une bonne et une mauvaise réponse."
 
 # game/v12/scene23a.rpy:326
 translate francais v12_mc_chilling_02bf4d3a:
@@ -328,7 +328,7 @@ translate francais v12_mc_chilling_c9aa2bf5:
 translate francais v12_mc_chilling_60f76380:
 
     # u "Nope, not wasting any time on that fight. Your brother's a psychopath. Sorry."
-    u "Non, je ne veux pas perdre de temps dans ce combat. Ton frère est un psychopathe. Désolé."
+    u "Non, je veux pas perdre de temps dans ce combat. Ton frère est un psychopathe. Désolé."
 
 # game/v12/scene23a.rpy:358
 translate francais v12_mc_chilling_f40d0ca8:
@@ -394,7 +394,7 @@ translate francais v12_mc_chilling_e289ce14:
 translate francais v12_mc_chilling_fb571e45:
 
     # sa "*Drunk* Well, whatever... No matter what, you can't be my boyfriend 'cause you don't meet my standards."
-    sa "*Ivre* Eh bien, peu importe... Quoi qu'il en soit, tu ne peux pas être mon petit ami parce que tu ne réponds pas à mes critères."
+    sa "*Ivre* Eh bien, peu importe... Quoi qu'il en soit, tu peux pas être mon petit ami parce que tu réponds pas à mes critères."
 
 # game/v12/scene23a.rpy:420
 translate francais v12_mc_chilling_314adb71:
@@ -412,7 +412,7 @@ translate francais v12_mc_chilling_e4c94688:
 translate francais v12_mc_chilling_7c8433ba:
 
     # u "Those aren't real standards. *Chuckles*"
-    u "Ce ne sont pas de vrais critères. *Rire*"
+    u "Ce sont pas de vrais critères. *Rire*"
 
 # game/v12/scene23a.rpy:440
 translate francais v12_mc_chilling_6bd57e02:
@@ -496,7 +496,7 @@ translate francais v12_mc_chilling_11a2ff3e:
 translate francais v12_mc_chilling_0eb27adc:
 
     # u "I'm not sure, but I'm positive she'll be fine, man. The girls got her. I just wanted you to know."
-    u "Je ne suis pas sûr, mais je suis certain qu'elle ira bien, mec. Les filles l'ont emmenées. Je voulais juste que tu le saches."
+    u "Je suis pas sûr, mais je suis certain qu'elle ira bien, mec. Les filles l'ont emmenées. Je voulais juste que tu le saches."
 
 # game/v12/scene23a.rpy:532
 translate francais v12_mc_chilling_2ea0ac2f:
@@ -526,7 +526,7 @@ translate francais v12_mc_chilling_6bcd435f:
 translate francais v12_mc_chilling_27f73e2e:
 
     # ca "It was cool of you to call me. You didn't have to do that, but you did anyway. You're a real Ape, I won't forget this."
-    ca "C'était cool de ta part de m'appeler. Tu n'avais pas à le faire, mais tu l'as fait quand même. Tu es un vrai Ape, je ne l'oublierai pas."
+    ca "C'était cool de ta part de m'appeler. Tu n'avais pas à le faire, mais tu l'as fait quand même. Tu es un vrai Ape, je l'oublierai pas."
 
 # game/v12/scene23a.rpy:557
 translate francais v12_mc_chilling_7edc3114:
@@ -556,19 +556,19 @@ translate francais v12_mc_chilling_18ef6597:
 translate francais v12_mc_chilling_2f8b37b4:
 
     # u "(Not even gonna attempt to open up that door.)"
-    u "(Je ne vais même pas essayer d'ouvrir cette porte.)"
+    u "(Je vais même pas essayer d'ouvrir cette porte.)"
 
 # game/v12/scene23a.rpy:591
 translate francais v12_mc_chilling_5b253a9d:
 
     # u "(Don't know where Riley went, but she's gonna have to deal with Sam from here on out. I'm going to sleep.)"
-    u "(Je ne sais pas où est allée Riley, mais elle va devoir s'occuper de Sam à partir de maintenant. Je vais dormir.)"
+    u "(Je sais pas où est allée Riley, mais elle va devoir s'occuper de Sam à partir de maintenant. Je vais dormir.)"
 
 # game/v12/scene23a.rpy:593
 translate francais v12_mc_chilling_dc5fc17a:
 
     # u "(Don't know where Chloe went, but she's gonna have to deal with Sam from here on out. I'm going to sleep.)"
-    u "(Je ne sais pas où Chloé est allée, mais elle va devoir s'occuper de Sam à partir de maintenant. Je vais dormir.)"
+    u "(Je sais pas où Chloé est allée, mais elle va devoir s'occuper de Sam à partir de maintenant. Je vais dormir.)"
 
 # game/v12/scene23a.rpy:615
 translate francais v12_mc_chilling_fcfea652:
@@ -586,7 +586,7 @@ translate francais v12_mc_chilling_c8f0086b:
 translate francais v12_mc_chilling_c0174dea:
 
     # u "Sam, are you drunk right now? I thought you weren't drinking?"
-    u "Sam, tu es ivre en ce moment ? Je croyais que tu ne buvais pas ?"
+    u "Sam, tu es ivre en ce moment ? Je croyais que tu buvais pas ?"
 
 # game/v12/scene23a.rpy:630
 translate francais v12_mc_chilling_b5561abc_1:
@@ -598,7 +598,7 @@ translate francais v12_mc_chilling_b5561abc_1:
 translate francais v12_mc_chilling_c05ff2db:
 
     # u "Fine, I won't push you. Remember you're lightweight though, yeah?"
-    u "Bien, je ne ferai pas pression sur toi. Mais n'oublie pas que tu es une poids plume, hein ?"
+    u "Bien, je ferai pas pression sur toi. Mais n'oublie pas que tu es une poids plume, hein ?"
 
 # game/v12/scene23a.rpy:640
 translate francais v12_mc_chilling_d32bea82:
@@ -634,7 +634,7 @@ translate francais v12_mc_chilling_7eac6bdf:
 translate francais v12_mc_chilling_dc98431d:
 
     # u "Nope, I'm actually super happy that you're not here."
-    u "Non, je suis en fait très content que tu ne sois pas là."
+    u "Non, je suis en fait très content que tu sois pas là."
 
 # game/v12/scene23a.rpy:675
 translate francais v12_mc_chilling_45949a66:
@@ -652,7 +652,7 @@ translate francais v12_mc_chilling_8e97f976:
 translate francais v12_mc_chilling_dcd8c01c:
 
     # sa "*Drunk* Don't play around like that with me! You scared me... Jerk. *Chuckles*"
-    sa "*Ivre* Ne joue pas à ça avec moi ! Tu m'as fait peur... Enfoiré. *Rire*"
+    sa "*Ivre* Joue pas à ça avec moi ! Tu m'as fait peur... Enfoiré. *Rire*"
 
 # game/v12/scene23a.rpy:690
 translate francais v12_mc_chilling_43bd6fe7:
@@ -676,13 +676,13 @@ translate francais v12_mc_chilling_cdd873e8:
 translate francais v12_mc_chilling_6a7b96cf:
 
     # sa "*Drunk* Umm, I don't know..."
-    sa "*ivre* Euh, je ne sais pas..."
+    sa "*ivre* Euh, je sais pas..."
 
 # game/v12/scene23a.rpy:710
 translate francais v12_mc_chilling_8fba2b74:
 
     # u "What do you mean you \"don't know\"?"
-    u "Qu'est-ce que tu veux dire par \"je ne sais pas\" ?"
+    u "Qu'est-ce que tu veux dire par \"je sais pas\" ?"
 
 # game/v12/scene23a.rpy:715
 translate francais v12_mc_chilling_9ac4224b:
@@ -712,7 +712,7 @@ translate francais v12_mc_chilling_5a894b88:
 translate francais v12_mc_chilling_135d3584:
 
     # u "I just wanna make sure everything's okay. You have me a little worried. You're calling super late, you don't know where you are, and you're drunk."
-    u "Je veux juste m'assurer que tout va bien. Tu m'inquiètes un peu. Tu appelles super tard, tu ne sais pas où tu es et tu es bourrée."
+    u "Je veux juste m'assurer que tout va bien. Tu m'inquiètes un peu. Tu appelles super tard, tu sais pas où tu es et tu es bourrée."
 
 # game/v12/scene23a.rpy:740
 translate francais v12_mc_chilling_0fd210d6:
@@ -790,7 +790,7 @@ translate francais v12_mc_chilling_7d2637db:
 translate francais v12_mc_chilling_5a531eea:
 
     # u "She just called saying a bunch of crazy shit. She couldn't even tell me where she is right now."
-    u "Elle vient de m'appeler en disant un tas de conneries. Elle ne pouvait même pas me dire où elle était en ce moment."
+    u "Elle vient de m'appeler en disant un tas de conneries. Elle pouvait même pas me dire où elle était en ce moment."
 
 # game/v12/scene23a.rpy:817
 translate francais v12_mc_chilling_f2b3b5a7:
@@ -832,7 +832,7 @@ translate francais v12_mc_chilling_6bcd435f_1:
 translate francais v12_mc_chilling_27f73e2e_1:
 
     # ca "It was cool of you to call me. You didn't have to do that, but you did anyway. You're a real Ape, I won't forget this."
-    ca "C'était cool de ta part de m'appeler. Tu n'avais pas à le faire, mais tu l'as fait quand même. Tu es un vrai Ape, je ne l'oublierai pas."
+    ca "C'était cool de ta part de m'appeler. Tu n'avais pas à le faire, mais tu l'as fait quand même. Tu es un vrai Ape, je l'oublierai pas."
 
 # game/v12/scene23a.rpy:852
 translate francais v12_mc_chilling_2dbdcd14:
@@ -862,19 +862,19 @@ translate francais v12_mc_chilling_18ef6597_1:
 translate francais v12_mc_chilling_2f8b37b4_1:
 
     # u "(Not even gonna attempt to open up that door.)"
-    u "(Je ne vais même pas essayer d'ouvrir cette porte.)"
+    u "(Je vais même pas essayer d'ouvrir cette porte.)"
 
 # game/v12/scene23a.rpy:885
 translate francais v12_mc_chilling_eb0002bb:
 
     # u "(Don't know where Riley went, but I'm going to sleep now.)"
-    u "(Je ne sais pas où Riley est allée, mais je vais me coucher, là.)"
+    u "(Je sais pas où Riley est allée, mais je vais me coucher, là.)"
 
 # game/v12/scene23a.rpy:887
 translate francais v12_mc_chilling_4a726a31:
 
     # u "(Don't know where Chloe went, but I'm going to sleep now.)"
-    u "(Je ne sais pas où Chloé est allée, mais je vais me coucher, là.)"
+    u "(Je sais pas où Chloé est allée, mais je vais me coucher, là.)"
 
 translate francais strings:
 

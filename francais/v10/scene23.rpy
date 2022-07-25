@@ -82,7 +82,7 @@ translate francais v10_aft_walk_home_b3ed231b:
 translate francais v10_aft_walk_home_f6321c49:
 
     # u "I'm not judging and you can do whatever you want, but... I gotta ask, do you enjoy doing this?"
-    u "Je ne juge pas et tu peux faire ce que tu veux, mais... Je dois demander, est-ce que tu aimes faire ça ?"
+    u "Je juge pas et tu peux faire ce que tu veux, mais... Je dois demander, est-ce que tu aimes faire ça ?"
 
 # game/v10/scene23.rpy:102
 translate francais v10_aft_walk_home_1db503a7:
@@ -202,7 +202,7 @@ translate francais v10_aft_walk_home_48e2665d:
 translate francais v10_aft_walk_home_318c3c07:
 
     # u "I don't know why I haven't thought to ask you this before, but have you heard about the big Europe trip?"
-    u "Je ne sais pas pourquoi je n'ai pas pensé à te demander ça avant, mais as-tu entendu parler du grand voyage en Europe ?"
+    u "Je sais pas pourquoi je n'ai pas pensé à te demander ça avant, mais as-tu entendu parler du grand voyage en Europe ?"
 
 # game/v10/scene23.rpy:192
 translate francais v10_aft_walk_home_e6335004:
@@ -226,7 +226,7 @@ translate francais v10_aft_walk_home_eb0d44a3:
 translate francais v10_aft_walk_home_33480aeb:
 
     # u "Honestly, I really don't know who's going, but it sounds fun, no?"
-    u "Honnêtement, je ne sais pas vraiment qui y va, mais ça a l'air sympa, non ?"
+    u "Honnêtement, je sais pas vraiment qui y va, mais ça a l'air sympa, non ?"
 
 # game/v10/scene23.rpy:216
 translate francais v10_aft_walk_home_c9152653:
@@ -286,7 +286,7 @@ translate francais v10_aft_walk_home_0d48ac4f:
 translate francais v10_aft_walk_home_cc3b6479:
 
     # u "(No, that's his business. I'm not gonna babysit him.)"
-    u "(Non, c'est son affaire. Je ne vais pas le baby-sitter.)"
+    u "(Non, c'est son affaire. Je vais pas le baby-sitter.)"
 
 # game/v10/scene23.rpy:273
 translate francais v10_aft_walk_home_ee212610:
@@ -304,7 +304,7 @@ translate francais v10s23_phoneCheckLau_823cfb9c:
 translate francais v10s23_phoneCheckLau_aeb4c1c4:
 
     # u "(Guess I'm not going home.)"
-    u "(Je crois finalement que je ne vais pas rentrer chez moi.)"
+    u "(Je crois finalement que je vais pas rentrer chez moi.)"
 
 translate francais strings:
 

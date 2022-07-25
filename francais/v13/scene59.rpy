@@ -130,7 +130,7 @@ translate francais v13s59_52109e08:
 translate francais v13s59_f9cf14cd:
 
     # u "It is a little hard... I'm not gonna lie."
-    u "Je ne vais pas te mentir... c'est un peu dur."
+    u "Je vais pas te mentir... c'est un peu dur."
 
 # game/v13/scene59.rpy:158
 translate francais v13s59_606f800e:
@@ -286,7 +286,7 @@ translate francais v13s59_41d9ff4b:
 translate francais v13s59_9e14a675:
 
     # u "You wouldn't see that kinda shit back at home. *Laughs*"
-    u "Tu ne verrais pas ce genre de merde chez toi. *Rire*"
+    u "Tu verrais pas ce genre de merde chez toi. *Rire*"
 
 # game/v13/scene59.rpy:351
 translate francais v13s59_7d87fc3e:

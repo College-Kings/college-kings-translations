@@ -40,7 +40,7 @@ translate francais v12_chase_robber_d51bf734:
 translate francais v12_chase_robber_75d31138:
 
     # robber "Wait! Look man, please. I just needed some money for food. I don't want any trouble."
-    robber "Attends ! Ecoute mec, s'il te plaît. J'avais juste besoin d'argent pour manger. Je ne veux pas d'ennuis."
+    robber "Attends ! Ecoute mec, s'il te plaît. J'avais juste besoin d'argent pour manger. Je veux pas d'ennuis."
 
 # game/v12/scene1a.rpy:71
 translate francais v12_chase_robber_b520b490:
@@ -52,7 +52,7 @@ translate francais v12_chase_robber_b520b490:
 translate francais v12s1a_failed_timer_6a5872aa:
 
     # robber "Ha, you sure are one sorry ass fighter. Now your girl lost her bag and you got your ass kicked. Bet you won't be getting any tonight. *Laughs*"
-    robber "Ha, tu es vraiment un combattant minable. Maintenant ta meuf a perdu son sac et tu t'es fait défoncer. Je parie que tu ne vas pas pouvoir niquer. *Rire*"
+    robber "Ha, tu es vraiment un combattant minable. Maintenant ta meuf a perdu son sac et tu t'es fait défoncer. Je parie que tu vas pas pouvoir niquer. *Rire*"
 
 # game/v12/scene1a.rpy:121
 translate francais v12s1a_failed_timer_2c7b5311:
@@ -172,7 +172,7 @@ translate francais v12s1a_failed_timer_c0454360:
 translate francais v12s1a_failed_timer_d3a4dd44:
 
     # u "And he can't stand us."
-    u "Et il ne nous supporte pas non plus."
+    u "Et il nous supporte pas non plus."
 
 # game/v12/scene1a.rpy:233
 translate francais v12s1a_failed_timer_f60d1f19:
@@ -208,7 +208,7 @@ translate francais v12s1a_failed_timer_8ec4364c:
 translate francais v12s1a_failed_timer_621bc555:
 
     # u "Because you're slow. Don't worry, I get it dude. It's the thought that counts. *Chuckles*"
-    u "Parce que tu es lent. Ne t'inquiète pas, j'ai compris, mec. C'est l'intention qui compte. *Rire*"
+    u "Parce que tu es lent. T'inquiète pas, j'ai compris, mec. C'est l'intention qui compte. *Rire*"
 
 # game/v12/scene1a.rpy:263
 translate francais v12s1a_failed_timer_ac6d3935:
@@ -436,7 +436,7 @@ translate francais v12s1a_failed_timer_61b6b94b:
 translate francais v12s1a_failed_timer_d786b6e3:
 
     # u "(Why would some random dude try and steal a bag from someone who's obviously in a group? That just stupid... Then there's Charli... I swear he can't just be a normal person... Definitely a weird ass dude.)"
-    u "(Pourquoi un mec seul essaierait-il de voler le sac de quelqu'un qui est manifestement dans un groupe ? C'est juste stupide... Et puis il y a Charli... Je jure qu'il ne peut pas être une bonne personne... C'est vraiment un mec chelou.)"
+    u "(Pourquoi un mec seul essaierait-il de voler le sac de quelqu'un qui est manifestement dans un groupe ? C'est juste stupide... Et puis il y a Charli... Je jure qu'il peut pas être une bonne personne... C'est vraiment un mec chelou.)"
 
 # game/v12/scene1a.rpy:514
 translate francais v12s1a_failed_timer_9d6c7bea:

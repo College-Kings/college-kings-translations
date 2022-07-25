@@ -28,7 +28,7 @@ translate francais v9_start_wolves_b40074b8:
 translate francais v9_start_wolves_d32776d3:
 
     # u "I don't know. What the hell is it? Kiwii's going crazy!"
-    u "Je ne sais pas. Qu'est-ce que c'est, putain ? Kiwii devient fou !"
+    u "Je sais pas. Qu'est-ce que c'est, putain ? Kiwii devient fou !"
 
 # game/v9/scene01.rpy:51
 translate francais v9_start_wolves_dcd250b0:
@@ -100,7 +100,7 @@ translate francais v9_start_wolves_0e3fd106:
 translate francais v9_start_wolves_32b608f3:
 
     # u "(I haven't been training enough for this.)"
-    u "(Mais je ne me suis pas assez entraîné pour ça.)"
+    u "(Mais je me suis pas assez entraîné pour ça.)"
 
 # game/v9/scene01.rpy:104
 translate francais v9_start_wolves_e6a451d1:
@@ -118,7 +118,7 @@ translate francais v9_start_wolves_84837158_1:
 translate francais v9_start_wolves_df74b9eb:
 
     # u "A little... but I-I don't know."
-    u "Un peu... mais j-je ne sais pas."
+    u "Un peu... mais j-je sais pas."
 
 # game/v9/scene01.rpy:116
 translate francais v9_start_wolves_7b3ac1b6:
@@ -130,7 +130,7 @@ translate francais v9_start_wolves_7b3ac1b6:
 translate francais v9_start_wolves_85856e21:
 
     # u "Apes? Grayson's the Fight King. I can't-"
-    u "Les Apes ? Grayson est le Fight King. Je ne peux pas..."
+    u "Les Apes ? Grayson est le Fight King. Je peux pas..."
 
 # game/v9/scene01.rpy:124
 translate francais v9_start_wolves_adc790de:
@@ -142,7 +142,7 @@ translate francais v9_start_wolves_adc790de:
 translate francais v9_start_wolves_d5804e02:
 
     # u "Why wouldn't their best fighter participate in a tournament?"
-    u "Pourquoi leur meilleur combattant ne participerait-il pas à un tournoi ?"
+    u "Pourquoi leur meilleur combattant participerait-il pas à un tournoi ?"
 
 # game/v9/scene01.rpy:132
 translate francais v9_start_wolves_6a94dba2:
@@ -184,7 +184,7 @@ translate francais v9_start_wolves_31c394e8:
 translate francais v9_start_wolves_2bd04810:
 
     # u "I don't know... I'm not ready for something like this. A... BRAWL?"
-    u "Je ne sais pas... Je ne suis pas prêt pour quelque chose comme ça. Un... BRAWL ?"
+    u "Je sais pas... Je suis pas prêt pour quelque chose comme ça. Un... BRAWL ?"
 
 # game/v9/scene01.rpy:166
 translate francais v9_start_wolves_3a438991:

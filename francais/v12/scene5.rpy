@@ -16,7 +16,7 @@ translate francais v12_morning_london_f11e5fbd:
 translate francais v12_morning_london_49bacfe9:
 
     # u "Maybe you had more to drink last night than you thought."
-    u "Peut-être que tu as plus bu hier soir que tu ne le pensais."
+    u "Peut-être que tu as plus bu hier soir que tu le pensais."
 
 # game/v12/scene5.rpy:39
 translate francais v12_morning_london_58ad4299:
@@ -40,7 +40,7 @@ translate francais v12_morning_london_74bb48ad:
 translate francais v12_morning_london_82b52869:
 
     # u "No... I don't remember. How are we getting to Paris?"
-    u "Non... Je ne me souviens pas. Et comment on se rend à Paris alors ?"
+    u "Non... Je me souviens pas. Et comment on se rend à Paris alors ?"
 
 # game/v12/scene5.rpy:59
 translate francais v12_morning_london_614b3d49:
@@ -76,7 +76,7 @@ translate francais v12_morning_london_f11e5fbd_1:
 translate francais v12_morning_london_49bacfe9_1:
 
     # u "Maybe you had more to drink last night than you thought."
-    u "Peut-être que tu as plus bu hier soir que tu ne le pensais."
+    u "Peut-être que tu as plus bu hier soir que tu le pensais."
 
 # game/v12/scene5.rpy:105
 translate francais v12_morning_london_58ad4299_1:
@@ -100,7 +100,7 @@ translate francais v12_morning_london_74bb48ad_1:
 translate francais v12_morning_london_82b52869_1:
 
     # u "No... I don't remember. How are we getting to Paris?"
-    u "Non... Je ne me souviens pas. Et comment on se rend à Paris alors ?"
+    u "Non... Je me souviens pas. Et comment on se rend à Paris alors ?"
 
 # game/v12/scene5.rpy:125
 translate francais v12_morning_london_614b3d49_1:

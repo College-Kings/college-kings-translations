@@ -34,7 +34,7 @@ translate francais v13s06_87d46caf:
 translate francais v13s06_b944ff66:
 
     # u "Ahh, guess nothing gets past you, huh?"
-    u "Ahh, je vois que rien ne vous échappe, hein ?"
+    u "Ahh, je vois que rien vous échappe, hein ?"
 
 # game/v13/scene6.rpy:62
 translate francais v13s06_1606a6b0:
