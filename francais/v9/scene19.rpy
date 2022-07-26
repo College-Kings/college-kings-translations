@@ -687,7 +687,7 @@ translate francais strings:
     new "Être romantique"
 
     # game/v9/scene19.rpy:568
-    old "Kiss Lauren"
+    old "Kiss Lauren "
     new "Embrasse Lauren"
 
     # game/v9/scene19.rpy:589

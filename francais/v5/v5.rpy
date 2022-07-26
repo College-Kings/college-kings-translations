@@ -3947,7 +3947,7 @@ translate francais strings:
     new "Menacer de dire à la conseillère"
 
     # game/v5/v5.rpy:2797
-    old "Tell the school"
+    old "Tell the school "
     new "Le dire à la conseillère"
 
     # game/v5/v5.rpy:2797

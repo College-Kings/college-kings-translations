@@ -11226,7 +11226,7 @@ translate francais strings:
     new "Aller voir Chloé"
 
     # game/v6/v6.rpy:90
-    old "Help Imre"
+    old "Help Imre "
     new "Aider Imre"
 
     # game/v6/v6.rpy:151

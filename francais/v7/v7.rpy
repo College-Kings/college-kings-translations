@@ -18182,11 +18182,11 @@ translate francais strings:
     new "Je ne le ferai pas."
 
     # game/v7/v7.rpy:3481
-    old "Pledge to the Apes"
+    old "Pledge to the Apes "
     new "Engagement chez les Apes"
 
     # game/v7/v7.rpy:3481
-    old "Pledge to the Wolves"
+    old "Pledge to the Wolves "
     new "Engagement chez les Wolves"
 
     # game/v7/v7.rpy:3771

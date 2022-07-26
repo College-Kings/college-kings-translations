@@ -1,83 +1,34 @@
-screen relationship_screen():
-    tag menu
-    modal True
 
-    add "darker_80"
+translate francais strings:
 
-    default image_path = "main_menu/path_builder/images/"
+    # game/relationship_screen.rpy:13
+    old "Your Relationships"
+    new "Tes relations"
 
-    add image_path + "path_builder_box_background.webp" align (0.5, 0.5)
+    # game/relationship_screen.rpy:47
+    old "Complicated"
+    new "Compliqué"
 
-    button action Hide("relationship_screen")
+    # game/relationship_screen.rpy:53
+    old "Kissed"
+    new "Embrassé"
 
-    text "Tes relations" xalign 0.5 ypos 300
+    # game/relationship_screen.rpy:58
+    old "Friends"
+    new "Amis"
 
+    # game/relationship_screen.rpy:64
+    old "Kissed "
+    new "Embrassé"
 
-    vbox:
-        spacing 20
-        align (0.5, 0.5)
+    # game/relationship_screen.rpy:70
+    old "Friends with Benefits"
+    new "Amis avec avantages"
 
-        vpgrid:
-            #scrollbars "vertical"
-            mousewheel True
-            draggable True
-            cols 4
-            rows 5
-            xspacing 30
-            xalign 0.5
-            yoffset 40
-            ysize 500
-            xsize 1550
+    # game/relationship_screen.rpy:75
+    old "Trust"
+    new "Confiance"
 
-            for girl in relationship_girls:
-
-                vbox:
-                    xpos 120
-                    yalign 0.5
-
-                    add image_path + "girls/{}_idle.webp".format(girl.name):
-                        yoffset 90
-
-                    text girl.name:
-                        size 30
-                        color "#FFF"
-                        xoffset 120
-
-                    if girl.relationship < Relationship.FRIEND: #lindsey should be replaced by girl name
-                        text "Compliqué":
-                            size 15
-                            color "#FFD166"
-                            xoffset 120
-                    elif girl.relationship < Relationship.KISS: # Penelope needs an exception
-                        if girl == "penelope" and girl.relationship < Relationship.LIKES:
-                            text "Embrassé":
-                                size 15
-                                color "#FFD166"
-                                xoffset 120
-                        else:
-                            text "Amis":
-                                size 15
-                                color "#FFD166"
-                                xoffset 120
-
-                    elif girl.relationship == Relationship.KISS:
-                        text "Embrassé":
-                            size 15
-                            color "#FFD166"
-                            xoffset 120
-
-                    elif girl.relationship == Relationship.FWB:
-                        text "Amis avec avantages":
-                            size 15
-                            color "#FFD166"
-                            xoffset 120
-                    elif girl.relationship == Relationship.LOYAL and girl == "autumn":
-                        text "Confiance":
-                            size 15
-                            color "#FFD166"
-                            xoffset 120
-                    else:
-                        text "Rencard":
-                            size 15
-                            color "#FFD166"
-                            xoffset 120
+    # game/relationship_screen.rpy:80
+    old "Dating"
+    new "Rencard"

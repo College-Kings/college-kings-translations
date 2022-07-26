@@ -164,5 +164,5 @@ translate francais strings:
 translate francais strings:
 
     # game/v8/scene15.rpy:92
-    old "Help Penelope"
+    old "Help Penelope "
     new "Aider Pénélope"
