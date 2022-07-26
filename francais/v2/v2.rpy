@@ -3912,6 +3912,18 @@ translate francais strings:
     old "Don't you dare defend that guy"
     new "Ne t'avise pas de défendre ce connard"
 
+    # game/v2/v2.rpy:19
+    old "Look, I know what Grayson did was a dick move, but he was just being overprotective of Chloe "
+    new "Écoute, je sais que ce que Grayson a fait était un coup de pute, mais il est juste surprotecteur envers Chloé"
+
+    # game/v2/v2.rpy:20
+    old "Whatever "
+    new "Quoi qu'il en soit"
+
+    # game/v2/v2.rpy:21
+    old "Don't you dare defend that guy "
+    new "Ne t'avise pas de défendre ce connard"
+
     # game/v2/v2.rpy:15
     old "Sorry..."
     new "Désolé..."
@@ -3936,16 +3948,28 @@ translate francais strings:
     old "Dude, what the fuck?!"
     new "Putain, mec, tu m'fais quoi, là ?!"
 
-    # game/v2/v2.rpy:46
+    # game/v2/v2.rpy:45
     old "Hahaha, I'm just kidding, yo."
     new "Hahaha, yo, je déconne."
 
-    # game/v2/v2.rpy:47
+    # game/v2/v2.rpy:46
     old "Of course I gave her your number."
     new "Bien sûr que je lui ai donné ton numéro."
 
-    # game/v2/v2.rpy:48
+    # game/v2/v2.rpy:47
     old "Damn, you got me."
+    new "Putain, tu m'as bien eu."
+
+    # game/v2/v2.rpy:51
+    old "Hahaha, I'm just kidding, yo. "
+    new "Hahaha, yo, je déconne."
+
+    # game/v2/v2.rpy:52
+    old "Of course I gave her your number. "
+    new "Bien sûr que je lui ai donné ton numéro."
+
+    # game/v2/v2.rpy:53
+    old "Damn, you got me. "
     new "Putain, tu m'as bien eu."
 
     # game/v2/v2.rpy:59
@@ -3960,27 +3984,27 @@ translate francais strings:
     old "My day tomorrow is quite full, but how about today?\n\nI need to buy a costume."
     new "Ma journée de demain est bien remplie, mais qu'en est-il aujourd'hui ?\n\nJe dois acheter un costume."
 
-    # game/v2/v2.rpy:65
+    # game/v2/v2.rpy:64
     old "I've got dance practice tonight \n:("
     new "J'ai un entraînement de danse ce soir \n:("
 
-    # game/v2/v2.rpy:66
+    # game/v2/v2.rpy:65
     old "I'm not talking tonight, I can pick you up right now."
     new "Je parle pas de ce soir, je peux venir te chercher tout de suite."
 
-    # game/v2/v2.rpy:67
+    # game/v2/v2.rpy:66
     old "Oh wow, that's spontaneous, I like it haha.\n\nI guess come to the Chicks' house whenever you're ready and then we can go costume shopping."
     new "Oh wahou, c'est spontané, j'aime ça haha.\n\nViens chez les Chicks dès que tu es prêt et on ira acheter des costumes."
 
-    # game/v2/v2.rpy:68
+    # game/v2/v2.rpy:67
     old "Cool, I'll be 20 mins."
     new "Cool, je serai là dans 20 minutes."
 
-    # game/v2/v2.rpy:73
+    # game/v2/v2.rpy:72
     old "Good :)"
     new "Bien :)"
 
-    # game/v2/v2.rpy:78
+    # game/v2/v2.rpy:77
     old "Oh, okay. Guess we'll have to postpone the costume buying."
     new "Oh d'accord. Je crois que nous devrons reporter l'achat des costumes."
 

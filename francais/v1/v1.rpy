@@ -4967,7 +4967,7 @@ translate francais strings:
 
     # game/v1/v1.rpy:169
     old "You cheated on me.\"Go to hell!\""
-    new "Tu m'as trompé.\"Vas te faire mettre !\""
+    new "Tu m'as trompé.\nVas te faire mettre !"
 
     # game/v1/v1.rpy:203
     old "Could be fun"
@@ -5215,7 +5215,7 @@ translate francais strings:
 
     # game/v1/v1.rpy:3451
     old "Hey :)\"Sorry about today.\"Can we talk tomorrow?"
-    new "Hé :)\"Désolée pour aujourd'hui.\" On peut parler demain ?"
+    new "Hé :)\nDésolée pour aujourd'hui.\n\nOn peut parler demain ?"
 
     # game/v1/v1.rpy:3452
     old "Yeah, sure."

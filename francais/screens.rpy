@@ -380,3 +380,16 @@ translate francais strings:
     # game/screens.rpy:409
     old "Francais"
     new "Francais"
+
+    # game/screens.rpy:379
+    old "Warning: The scene gallery contains spoilers for the story of the game. Are you sure you want to continue?"
+    new "Attention : La galerie de scènes contient des spoilers sur l'histoire du jeu. Êtes-vous sûr de vouloir continuer ?"
+
+    # game/screens.rpy:1176
+    old "Yes "
+    new "Oui"
+
+    # game/screens.rpy:1184
+    old "No "
+    new "Non"
+    
