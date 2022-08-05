@@ -28,7 +28,7 @@ translate francais strings:
 
     # game/customScreens.rpy:93
     old "DISABLE"
-    new "DÉSACTIVER"
+    new "DESACTIVER"
 
     # game/customScreens.rpy:107
     old "THE NEXT SCENE HAS NSFW CONTENT"
@@ -57,5 +57,3 @@ translate francais strings:
     # game/customScreens.rpy:152
     old "OR YOU MAY CHOOSE TO SKIP THIS SCENE"
     new "OU TU PEUX CHOISIR DE ZAPPER CETTE SCÈNE"
-
-    
