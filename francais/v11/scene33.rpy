@@ -1,409 +1,410 @@
-﻿# TODO: Translation updated at 2021-12-11 18:59
+﻿# TODO: Translation updated at 2022-08-22 08:06
 
 # game/v11/scene33.rpy:23
 translate francais v11_bar_chloe_and_aubrey_095e79b8:
 
     # charli "It's almost fascinating just how narcissistic you are and how heavy you deflect."
-    charli "C'est presque fascinant de voir à quel point tu es narcissique et à quel point tu dévies."
+    charli ""
 
 # game/v11/scene33.rpy:24
 translate francais v11_bar_chloe_and_aubrey_4780d5ba:
 
     # charli "First you thought I was being kind to the girls with a hidden agenda, but now that you know I'm gay you've lost the ability to connect those dots."
-    charli "Au début, tu pensais que j'étais gentil avec les filles et que j'avais des intentions cachées, mais maintenant que tu sais que je suis gay, tu as perdu la capacité de faire le lien."
+    charli ""
 
 # game/v11/scene33.rpy:25
 translate francais v11_bar_chloe_and_aubrey_e098462d:
 
     # charli "You can't comprehend being nice without an agenda, because you yourself aren't nice without an agenda."
-    charli "Tu ne peux pas comprendre qu'on puisse être gentil sans arrière-pensée, parce que toi-même tu ne l'es pas."
+    charli ""
 
 # game/v11/scene33.rpy:36
 translate francais v11_bar_chloe_and_aubrey_b5487278:
 
     # u "(I am a nice guy... agenda my ass.)"
-    u "(Je suis un mec sympa... arrière-pensée mon cul.)"
+    u ""
 
 # game/v11/scene33.rpy:41
 translate francais v11_bar_chloe_and_aubrey_cfee9ff3:
 
     # u "Day drinking, huh?"
-    u "Tu bois en pleine journée, hein ?"
+    u ""
 
 # game/v11/scene33.rpy:46
 translate francais v11_bar_chloe_and_aubrey_2a47846d:
 
     # au "Hey, we're on vacation and taking advantage of being in a country where it's legal."
-    au "Hé, on est en vacances et on profite d'être dans un pays où c'est légal."
+    au ""
 
-# game/v11/scene33.rpy:56
+# game/v11/scene33.rpy:55
 translate francais v11_bar_chloe_and_aubrey_5e77c0c0:
 
     # cl "..."
-    cl "..."
+    cl ""
 
-# game/v11/scene33.rpy:62
+# game/v11/scene33.rpy:61
 translate francais v11_bar_chloe_and_aubrey_a7d349a8:
 
     # cl "You should start taking advantage of it too. *Chuckles*"
-    cl "Tu devrais commencer à en profiter aussi. *Rire*"
+    cl ""
 
-# game/v11/scene33.rpy:67
+# game/v11/scene33.rpy:66
 translate francais v11_bar_chloe_and_aubrey_724df3f3:
 
     # u "Maybe I will."
-    u "Je vais peut-être le faire, oui."
+    u ""
 
-# game/v11/scene33.rpy:78
+# game/v11/scene33.rpy:77
 translate francais v11_bar_chloe_and_aubrey_3c141840:
 
     # bartender "What are you having today, love?"
-    bartender "Que prendrez-vous aujourd'hui, monsieur ?"
+    bartender ""
 
-# game/v11/scene33.rpy:85
+# game/v11/scene33.rpy:84
 translate francais v11_bar_chloe_and_aubrey_3882d8eb:
 
     # u "Something dark."
-    u "Quelque chose de fort."
+    u ""
 
-# game/v11/scene33.rpy:90
+# game/v11/scene33.rpy:89
 translate francais v11_bar_chloe_and_aubrey_aa86a16f:
 
     # au "Now you're enjoying yourself. *Chuckles*"
-    au "Maintenant tu t'amuses. *Rire*"
+    au ""
 
-# game/v11/scene33.rpy:96
+# game/v11/scene33.rpy:95
 translate francais v11_bar_chloe_and_aubrey_53980f88:
 
     # u "Just water please."
-    u "Juste de l'eau s'il vous plaît."
+    u ""
 
-# game/v11/scene33.rpy:101
+# game/v11/scene33.rpy:100
 translate francais v11_bar_chloe_and_aubrey_e284f429:
 
     # au "Um, lame! Get him something dark."
-    au "Hum, ça craint ! Donnez-lui quelque chose de fort."
+    au ""
 
-# game/v11/scene33.rpy:106
+# game/v11/scene33.rpy:105
 translate francais v11_bar_chloe_and_aubrey_7101cfcf:
 
     # u "Seems I don't have a choice, something dark is fine."
-    u "Il semble que je n'ai pas le choix, quelque chose de fort est bien, finalement."
+    u ""
 
-# game/v11/scene33.rpy:111
+# game/v11/scene33.rpy:110
 translate francais v11_bar_chloe_and_aubrey_0ef8e940:
 
     # bartender "Coming up."
-    bartender "Je vous prépare ça tout de suite."
+    bartender ""
 
-# game/v11/scene33.rpy:116
+# game/v11/scene33.rpy:115
 translate francais v11_bar_chloe_and_aubrey_3e43cfbc:
 
     # u "Before I so rudely interrupted, what were you guys talking about?"
-    u "Avant que je vous interrompe brutalement, de quoi parliez-vous ?"
+    u ""
 
-# game/v11/scene33.rpy:121
+# game/v11/scene33.rpy:120
 translate francais v11_bar_chloe_and_aubrey_0a9f7501:
 
     # au "Mr. Lee being a total history nerd."
-    au "De Mr Lee qui est un vrai nerd d'histoire."
+    au ""
 
-# game/v11/scene33.rpy:126
+# game/v11/scene33.rpy:125
 translate francais v11_bar_chloe_and_aubrey_89865ee4:
 
     # cl "He's not a nerd, Aubrey."
-    cl "Ce n'est pas un nerd, Aubrey."
+    cl ""
 
-# game/v11/scene33.rpy:131
+# game/v11/scene33.rpy:130
 translate francais v11_bar_chloe_and_aubrey_dee8f523:
 
     # au "Okay, I think he's a nerd when it comes to his history stuff."
-    au "Ok, je pense que c'est un nerd quand il s'agit de ses trucs d'histoire."
+    au ""
 
-# game/v11/scene33.rpy:136
+# game/v11/scene33.rpy:135
 translate francais v11_bar_chloe_and_aubrey_0b115d36:
 
     # u "Maybe he's just really passionate."
-    u "Peut-être qu'il est juste vraiment passionné."
+    u ""
 
-# game/v11/scene33.rpy:142
+# game/v11/scene33.rpy:141
 translate francais v11_bar_chloe_and_aubrey_5f09e0df:
 
     # cl "Yeah, what he said."
-    cl "Oui, ce qu'il a dit."
+    cl ""
 
-# game/v11/scene33.rpy:148
+# game/v11/scene33.rpy:147
 translate francais v11_bar_chloe_and_aubrey_c76367d8:
 
     # cl "That's exactly what I said."
-    cl "C'est exactement ce que j'ai dit."
+    cl ""
 
-# game/v11/scene33.rpy:153
+# game/v11/scene33.rpy:152
 translate francais v11_bar_chloe_and_aubrey_b679dd01:
 
     # au "Okay fine, he's not a nerd... just passionate. We'll run with that. *Chuckles*"
-    au "Ok, bien, ce n'est pas un nerd... juste un passionné. On va faire avec. *Rire*"
+    au ""
 
-# game/v11/scene33.rpy:158
+# game/v11/scene33.rpy:157
 translate francais v11_bar_chloe_and_aubrey_bdcf6f0c:
 
     # u "Sounds like someone has it out for Mr. Lee."
-    u "On dirait que quelqu'un en veut à Mr Lee."
+    u ""
 
-# game/v11/scene33.rpy:163
+# game/v11/scene33.rpy:162
 translate francais v11_bar_chloe_and_aubrey_5977bbdb:
 
     # au "Well, he failed me my first year. I was a terrible student, but I was so pissed when he failed me. He was doing the whole pass or no pass thing and I missed passing by one assignment."
-    au "Eh bien, il m'a fait échouer ma première année. J'étais une mauvaise élève, mais j'étais vraiment énervée quand il m'a recalée. Il faisait le truc de la réussite ou de l'échec et j'ai manqué la réussite d'un devoir."
+    au ""
 
-# game/v11/scene33.rpy:168
+# game/v11/scene33.rpy:167
 translate francais v11_bar_chloe_and_aubrey_fac207d0:
 
     # u "So you hold a grudge because he was fair? *Laughs*"
-    u "Donc tu lui en veux parce qu'il a été juste ? *Rire*"
+    u ""
 
-# game/v11/scene33.rpy:173
+# game/v11/scene33.rpy:172
 translate francais v11_bar_chloe_and_aubrey_517de875:
 
     # cl "That's kinda what it sounds like."
-    cl "C'est un peu ce qu'on dirait."
+    cl ""
 
-# game/v11/scene33.rpy:185
+# game/v11/scene33.rpy:184
 translate francais v11_bar_chloe_and_aubrey_926e75af:
 
     # au "Well, look at that! Someone needs me so I have to go... You two enjoy agreeing with each other. *Chuckles*"
-    au "Eh bien, regardez-moi ça ! Quelqu'un a besoin de moi, alors je dois y aller... Vous aimez être d'accord l'un avec l'autre. *Rire*"
+    au ""
 
-# game/v11/scene33.rpy:192
+# game/v11/scene33.rpy:191
 translate francais v11_bar_chloe_and_aubrey_3416d242:
 
     # u "Haha, later Aubrey."
-    u "Haha, à plus tard Aubrey."
+    u ""
 
-# game/v11/scene33.rpy:198
+# game/v11/scene33.rpy:197
 translate francais v11_bar_chloe_and_aubrey_8dcda98e:
 
     # u "Who do you think would win in a fight, a bear or gorilla?"
-    u "A ton avis, qui gagnerait dans un combat, un ours ou un gorille ?"
+    u ""
 
-# game/v11/scene33.rpy:203
+# game/v11/scene33.rpy:202
 translate francais v11_bar_chloe_and_aubrey_ba8b0a2a:
 
     # cl "What are you talking about?"
-    cl "Qu'est-ce que tu racontes ?"
+    cl ""
 
-# game/v11/scene33.rpy:208
+# game/v11/scene33.rpy:207
 translate francais v11_bar_chloe_and_aubrey_0300f20a:
 
     # u "A fight between a bear and a gorilla, who wins?"
-    u "Un combat entre un ours et un gorille, qui gagne ?"
+    u ""
 
-# game/v11/scene33.rpy:213
+# game/v11/scene33.rpy:212
 translate francais v11_bar_chloe_and_aubrey_8f96013b:
 
     # cl "*Sighs* I don't know, probably a gorilla. What's with the silly question?"
-    cl "*Soupirs* Je ne sais pas, peut-être le gorille. C'est quoi cette question idiote ?"
+    cl ""
 
-# game/v11/scene33.rpy:218
+# game/v11/scene33.rpy:217
 translate francais v11_bar_chloe_and_aubrey_035054b0:
 
     # u "Chloe, I'm just trying to get us back to being friends."
-    u "Chloé, j'essaie juste qu'on redevienne amis."
+    u ""
 
-# game/v11/scene33.rpy:223
+# game/v11/scene33.rpy:222
 translate francais v11_bar_chloe_and_aubrey_af00faab:
 
     # cl "*Sighs* Round crackers or square crackers?"
-    cl "*Soupirs* Des crackers ronds ou des crackers carrés ?"
+    cl ""
 
-# game/v11/scene33.rpy:230
+# game/v11/scene33.rpy:229
 translate francais v11_bar_chloe_and_aubrey_4c542aed:
 
     # u "Definitely going with the round ones."
-    u "Je vais définitivement choisir les rondes."
+    u ""
 
-# game/v11/scene33.rpy:236
+# game/v11/scene33.rpy:235
 translate francais v11_bar_chloe_and_aubrey_97aaf5a8:
 
     # u "Definitely going with the square ones."
-    u "Je vais définitivement choisir les carrés."
+    u ""
 
-# game/v11/scene33.rpy:241
+# game/v11/scene33.rpy:240
 translate francais v11_bar_chloe_and_aubrey_c272aad6:
 
     # cl "I'm a round girl, myself."
-    cl "Je suis une fille ronde, moi aussi."
+    cl ""
 
-# game/v11/scene33.rpy:246
+# game/v11/scene33.rpy:245
 translate francais v11_bar_chloe_and_aubrey_737c6ce7:
 
     # u "Look at us getting along... isn't this better than you walking around mad at me?"
-    u "Regarde-nous en train de nous amuser... n'est-ce pas mieux que toi qui te promène en colère contre moi ?"
+    u ""
 
-# game/v11/scene33.rpy:251
+# game/v11/scene33.rpy:250
 translate francais v11_bar_chloe_and_aubrey_8262b24e:
 
     # cl "I'm not even really mad at you."
-    cl "Je ne suis même pas vraiment en colère contre toi."
+    cl ""
 
-# game/v11/scene33.rpy:256
+# game/v11/scene33.rpy:255
 translate francais v11_bar_chloe_and_aubrey_fca93fbf:
 
     # u "Could've fooled me."
-    u "J'aurais pu me tromper."
+    u ""
 
-# game/v11/scene33.rpy:261
+# game/v11/scene33.rpy:260
 translate francais v11_bar_chloe_and_aubrey_bb9e57e2:
 
     # cl "Well, I mean sure... you pissed me off a while back, but I don't have it in me to hold a grudge or be upset forever over little things. I'm not Aubrey. *Chuckles*"
-    cl "Eh bien, bien sûr... tu m'as énervé il y a quelque temps, mais je n'ai pas la force de garder rancune ou de m'énerver pour de petites choses. Je ne suis pas Aubrey. *Rire*"
+    cl ""
 
-# game/v11/scene33.rpy:266
+# game/v11/scene33.rpy:265
 translate francais v11_bar_chloe_and_aubrey_51818979:
 
     # u "Why have you been acting funny towards me, then?"
-    u "Pourquoi tu te comportes bizarrement avec moi, alors ?"
+    u ""
 
-# game/v11/scene33.rpy:271
+# game/v11/scene33.rpy:270
 translate francais v11_bar_chloe_and_aubrey_d3319367:
 
     # cl "Cause I didn't want to be the first one to apologize."
-    cl "Parce que je ne voulais pas être la première à m'excuser."
+    cl ""
 
-# game/v11/scene33.rpy:276
+# game/v11/scene33.rpy:275
 translate francais v11_bar_chloe_and_aubrey_2c5ec4d3:
 
     # u "That's kinda selfish."
-    u "C'est un peu égoïste."
+    u ""
 
-# game/v11/scene33.rpy:281
+# game/v11/scene33.rpy:280
 translate francais v11_bar_chloe_and_aubrey_2bf3ba31:
 
     # cl "Well, blame my ego."
-    cl "t'as qu'à blâmer mon ego."
+    cl ""
 
-# game/v11/scene33.rpy:291
+# game/v11/scene33.rpy:290
 translate francais v11_bar_chloe_and_aubrey_9435ed09:
 
     # u "Well look at us now, that wasn't so hard. You no longer have to walk around acting mad all the time."
-    u "Eh bien, regarde-nous maintenant, ce n'était pas si difficile. Tu n'as plus besoin de te promener en faisant semblant d'être en colère tout le temps."
+    u ""
 
-# game/v11/scene33.rpy:296
+# game/v11/scene33.rpy:295
 translate francais v11_bar_chloe_and_aubrey_e897d494:
 
     # cl "Thanks, [name]."
-    cl "Merci, [name]."
+    cl ""
 
-# game/v11/scene33.rpy:301
+# game/v11/scene33.rpy:300
 translate francais v11_bar_chloe_and_aubrey_5b365d0d:
 
     # u "No problem, grumpy."
-    u "Pas de problème, grincheuse."
+    u ""
 
-# game/v11/scene33.rpy:306
+# game/v11/scene33.rpy:305
 translate francais v11_bar_chloe_and_aubrey_108b353e:
 
     # cl "*Chuckles*"
-    cl "*Rire*"
+    cl ""
 
-# game/v11/scene33.rpy:324
+# game/v11/scene33.rpy:323
 translate francais v11_bar_chloe_and_aubrey_87fb87b4:
 
     # cl "Having an exciting day of vacation so far?"
-    cl "Tu as passé du bon temps pendant ton séjour, jusqu'à présent ?"
+    cl ""
 
-# game/v11/scene33.rpy:329
+# game/v11/scene33.rpy:328
 translate francais v11_bar_chloe_and_aubrey_e3c20fd9:
 
     # u "It's been eventful. What are you getting into?"
-    u "Ça a été mouvementé. À quoi tu penses ?"
+    u ""
 
-# game/v11/scene33.rpy:334
+# game/v11/scene33.rpy:333
 translate francais v11_bar_chloe_and_aubrey_d22f26e8:
 
     # cl "You probably don't know this, but I actually really like cars. You know, like fast sports cars and stuff?"
-    cl "Tu ne le sais sûrement pas, mais j'aime vraiment les voitures. Tu sais, comme les voitures de sport rapides et tout ça ?"
+    cl ""
 
-# game/v11/scene33.rpy:335
+# game/v11/scene33.rpy:334
 translate francais v11_bar_chloe_and_aubrey_45ecdbb5:
 
     # cl "There's a dealership right around the corner from here that Mr. Lee rented his car from, and they have a really cool car I'd love to drive."
-    cl "Il y a un concessionnaire juste au coin de la rue où Mr Lee a loué sa voiture, et ils en ont une vraiment cool que j'aimerais conduire."
+    cl ""
 
-# game/v11/scene33.rpy:336
+# game/v11/scene33.rpy:335
 translate francais v11_bar_chloe_and_aubrey_bdb1787c:
 
     # cl "I was thinking about going and test driving it, but I didn't want to go by myself and Aubrey said no because she had too much to drink..."
-    cl "Je pensais y aller et la tester, mais je ne voulais pas y aller seule et Aubrey a dit non parce qu'elle avait trop bu..."
+    cl ""
 
-# game/v11/scene33.rpy:341
+# game/v11/scene33.rpy:340
 translate francais v11_bar_chloe_and_aubrey_b7b27c0f:
 
     # u "Well I haven't even touched my drink, so if you feel good enough I don't mind going with you."
-    u "Je n'ai même pas touché à mon verre, donc si tu te sens assez bien, ça me dérange pas de venir avec toi."
+    u ""
 
-# game/v11/scene33.rpy:346
+# game/v11/scene33.rpy:345
 translate francais v11_bar_chloe_and_aubrey_bf9345a2:
 
     # cl "Really? Oh my god, thank you! I'll be right back."
-    cl "Vraiment ? Oh putain, merci ! Je reviens tout de suite."
+    cl ""
 
-# game/v11/scene33.rpy:356
+# game/v11/scene33.rpy:355
 translate francais v11_bar_chloe_and_aubrey_8569c4fa:
 
     # u "*Chuckles*"
-    u "*Rire*"
+    u ""
 
-# game/v11/scene33.rpy:361
+# game/v11/scene33.rpy:360
 translate francais v11_bar_chloe_and_aubrey_b572fdc3:
 
     # bartender "Simping over the blonde... you and everyone else."
-    bartender "En train de rêvasser sur la blonde... Vous comme tous les autres."
+    bartender ""
 
-# game/v11/scene33.rpy:366
+# game/v11/scene33.rpy:365
 translate francais v11_bar_chloe_and_aubrey_355fafbb:
 
     # u "What? *Chuckles* Chloe's my friend."
-    u "Quoi ? *Rire* Chloé est mon amie."
+    u ""
 
-# game/v11/scene33.rpy:371
+# game/v11/scene33.rpy:370
 translate francais v11_bar_chloe_and_aubrey_68ed7eff:
 
     # bartender "Sure she is... A little advice? If you want a girl like her to stay, you might want to put a ring on it. That or give her a baby."
-    bartender "Bien sûr qu'elle l'est... Un petit conseil ? Si vous voulez qu'une fille comme elle reste, vous devriez lui passer la bague au doigt. Ça ou lui faire un bébé."
+    bartender ""
 
-# game/v11/scene33.rpy:376
+# game/v11/scene33.rpy:375
 translate francais v11_bar_chloe_and_aubrey_2edef5a1:
 
     # u "Okayyyy, that's enough bartender advice for today."
-    u "Okayyy, ça suffit les conseils de barman pour aujourd'hui."
+    u ""
 
-# game/v11/scene33.rpy:386
+# game/v11/scene33.rpy:385
 translate francais v11_bar_chloe_and_aubrey_4f637cb3:
 
     # cl "Okay, I'm ready."
-    cl "Ok, je suis prête."
+    cl ""
 
-# game/v11/scene33.rpy:391
+# game/v11/scene33.rpy:390
 translate francais v11_bar_chloe_and_aubrey_5b8e8c60:
 
     # u "Good, let's go."
-    u "Bien, c'est parti."
+    u ""
 
 translate francais strings:
 
-    # game/v11/scene33.rpy:80
+    # game/v11/scene33.rpy:79
     old "Something dark"
-    new "Quelque chose de fort"
+    new ""
 
-    # game/v11/scene33.rpy:80
+    # game/v11/scene33.rpy:79
     old "Just water"
-    new "Juste de l'eau"
+    new ""
 
-    # game/v11/scene33.rpy:225
+    # game/v11/scene33.rpy:224
     old "Round"
-    new "Rond"
+    new ""
 
-    # game/v11/scene33.rpy:225
+    # game/v11/scene33.rpy:224
     old "Square"
-    new "Carré"
+    new ""
+

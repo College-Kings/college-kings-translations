@@ -1,85 +1,86 @@
-﻿# TODO: Translation updated at 2022-01-06 22:47
+﻿# TODO: Translation updated at 2022-08-22 08:06
 
-# game/v13/scene32.rpy:19
+# game/v13/scene32.rpy:18
 translate francais v13s32_388af539:
 
     # am "Lauren, do you want me to tuck you in? I heard babies like that."
-    am "Lauren, tu veux que je te borde ? J'ai entendu dire que les bébés aiment ça."
+    am ""
 
-# game/v13/scene32.rpy:24
+# game/v13/scene32.rpy:23
 translate francais v13s32_30c99149:
 
     # la "I'm not here for your games Amber, but I am going to bed. *Chuckles*"
-    la "Je ne suis pas là pour tes petits jeux Amber, mais je vais me coucher. *Rire*"
+    la ""
 
-# game/v13/scene32.rpy:36
+# game/v13/scene32.rpy:35
 translate francais v13s32_2ab6a004:
 
     # la "Goodnight, babe."
-    la "Bonne nuit, bébé."
+    la ""
 
-# game/v13/scene32.rpy:41
+# game/v13/scene32.rpy:40
 translate francais v13s32_5788969f:
 
     # u "Goodnight."
-    u "Bonne nuit."
+    u ""
 
-# game/v13/scene32.rpy:47
+# game/v13/scene32.rpy:46
 translate francais v13s32_621e91e5:
 
     # am "Goodnight goody two-shoes."
-    am "Bonne nuit, sainte-nitouche."
+    am ""
 
-# game/v13/scene32.rpy:52
+# game/v13/scene32.rpy:51
 translate francais v13s32_a1e848d2:
 
     # la "*Chuckles*"
-    la "*Rire*"
+    la ""
 
-# game/v13/scene32.rpy:62
+# game/v13/scene32.rpy:61
 translate francais v13s32_fee91744:
 
     # am "You know, I may give her a lot of shit, but I'm glad she doesn't cave to peer pressure."
-    am "Tu sais, je suis peut-être toujours en train de l'emmerder, mais je suis contente qu'elle cède pas à la pression des autres."
+    am ""
 
-# game/v13/scene32.rpy:67
+# game/v13/scene32.rpy:66
 translate francais v13s32_d02a4775:
 
     # u "She's set on her ways. *Chuckles*"
-    u "Elle est bien installée dans ses habitudes. *Rire*"
+    u ""
 
-# game/v13/scene32.rpy:72
+# game/v13/scene32.rpy:71
 translate francais v13s32_a8d1b337:
 
     # am "Very true... Goodnight, [name]. Thanks for hanging today."
-    am "Tout à fait... Bonne nuit, [name]. Et merci d'être venu ce soir."
+    am ""
 
-# game/v13/scene32.rpy:77
+# game/v13/scene32.rpy:76
 translate francais v13s32_a333b784:
 
     # u "Of course, I had fun. Night."
-    u "Pas de souci, je me suis bien amusé. Bonne nuit."
+    u ""
 
-# game/v13/scene32.rpy:92
+# game/v13/scene32.rpy:91
 translate francais v13s32_5ab6890a:
 
     # u "(I keep coming back late.)"
-    u "(Je continue à rentrer tard.)"
+    u ""
 
-# game/v13/scene32.rpy:97
+# game/v13/scene32.rpy:96
 translate francais v13s32_d1d05ba7:
 
     # u "*Whispers* Roomie, Roomie...?"
-    u "*Chuchote* colocataire, colocataire...?"
+    u ""
 
-# game/v13/scene32.rpy:99
+# game/v13/scene32.rpy:98
 translate francais v13s32_1645dbf9:
 
     # u "As expected."
-    u "Comme prévu."
+    u ""
 
-# game/v13/scene32.rpy:104
+# game/v13/scene32.rpy:103
 translate francais v13s32_0ac797a6:
 
     # u "(Guess I'm just gonna clock out. *Chuckles*)"
-    u "(Je crois que je vais me coucher. *Rire*)"
+    u ""
+

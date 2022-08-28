@@ -1,358 +1,180 @@
-# TODO: Translation updated at 2021-11-30 14:41
-
-# game/v10/scene9.rpy:16
-translate empty v10_leave_fight_d81fd0fd:
-
-    # u "(What a fucking day! Definitely didn't expect any of this when I came to college. So many ups, so many downs. Crazy shit.)"
-    u "(Quelle putain de journée ! Je m'attendais vraiment pas à tout ça quand je suis arrivée à l'université. Tant de hauts, tant de bas. De la merde.)"
-
-# game/v10/scene9.rpy:21
-translate empty v10_leave_fight_d8ea90b7:
-
-    # u "(Today really didn't go as planned... This is the worst fucking feeling.)"
-    u "(La journée s'est vraiment pas déroulée comme prévu... C'est la pire des sensations.)"
-
-# game/v10/scene9.rpy:35
-translate empty v10_leave_fight_d1bfd8b5:
-
-    # u "(Enough for today, I'm going to sleep.)"
-    u "(Assez pour aujourd'hui, je vais dormir.)"
-
-# game/v10/scene9.rpy:45
-translate empty v10_leave_fight_6bcd435f:
-
-    # u "Yeah?"
-    u "Ouais ?"
-
-# game/v10/scene9.rpy:56
-translate empty v10_leave_fight_1c81c8e1:
-
-    # ch "If I ever have a son I'm naming him [name]! I'm so proud of you right now."
-    ch "Si jamais j'ai un fils, je l'appellerai [name] ! Je suis tellement fier de toi en ce moment."
-
-# game/v10/scene9.rpy:61
-translate empty v10_leave_fight_6ad29c6e:
-
-    # se "Looks like guys really belong into the Wolves. Well done."
-    se "On dirait que les gars se sentent bien chez les Wolves. Bon travail."
-
-# game/v10/scene9.rpy:66
-translate empty v10_leave_fight_db4a123d:
-
-    # u "Imre either turned into a beast out there or his opponent was just trash."
-    u "Soit Imre est devenu une bête sur le terrain, soit son adversaire n'était qu'une merde."
-
-# game/v10/scene9.rpy:71
-translate empty v10_leave_fight_9a1dcc2b:
-
-    # imre "*Laughs* That guy had no fucking chance, classic Apes. So much shit talk and no backing it up."
-    imre "*Rire* Ce gars n'avait aucune chance, c'est un classique chez les Apes. Beaucoup de paroles de merde et rien pour les soutenir."
-
-# game/v10/scene9.rpy:76
-translate empty v10_leave_fight_461cb1ae:
-
-    # ch "Really well done guys, you're absolutely crushing it."
-    ch "Vraiment bien fait les gars, vous avez tout déchiré."
-
-# game/v10/scene9.rpy:81
-translate empty v10_leave_fight_ee01f9b9:
-
-    # u "Thanks."
-    u "Merci."
-
-# game/v10/scene9.rpy:86
-translate empty v10_leave_fight_f5c508dd:
-
-    # ch "Try to get some sleep, I'm sure it's the only privacy you're gonna have after a fight like that. *Chuckles*"
-    ch "Essaie de dormir un peu, je suis sûr que c'est la seule intimité que tu auras après un tel combat. *Rire*"
-
-# game/v10/scene9.rpy:91
-translate empty v10_leave_fight_9e26ccb4:
-
-    # u "(Damn, I'm really THAT guy now!)"
-    u "(Merde, je suis vraiment CE type maintenant !)"
-
-# game/v10/scene9.rpy:106
-translate empty v10_leave_fight_5d0ff11e:
-
-    # ch "I don't know if it's true, but one of the guys mentioned that you might have held back cause you were friends with your opponent. There are no friends in the ring, [name]."
-    ch "Je ne sais pas si c'est vrai, mais un des gars a mentionné que tu t'étais peut-être retenu parce que tu étais ami avec ton adversaire. Il n'y a pas d'amis sur le ring, [name]."
-
-# game/v10/scene9.rpy:111
-translate empty v10_leave_fight_49424dab:
-
-    # se "Yeah, that shit's not okay. You can't get your ass kicked by an Ape."
-    se "Ouais, cette merde n'est pas acceptable. Tu ne peux pas te faire botter le cul par un Ape."
-
-# game/v10/scene9.rpy:116
-translate empty v10_leave_fight_c5dc2d5d:
-
-    # u "I'm sorry guys. He was just better on the day."
-    u "Je suis désolé les gars. Il était juste meilleur ce jour-là."
-
-# game/v10/scene9.rpy:121
-translate empty v10_leave_fight_f9f2e824:
-
-    # ch "Try to get some sleep now, no use beating yourself up over it."
-    ch "Essaie de dormir un peu maintenant, ça ne sert à rien de t'en vouloir."
-
-# game/v10/scene9.rpy:130
-translate empty v10_leave_fight_7cbd5471:
-
-    # u "(Damn, I really dropped the ball there...)"
-    u "(Merde, j'ai vraiment déconné, là...)"
-
-# game/v10/scene9.rpy:147
-translate empty v10_leave_fight_d81fd0fd_1:
-
-    # u "(What a fucking day! Definitely didn't expect any of this when I came to college. So many ups, so many downs. Crazy shit.)"
-    u "(Quelle putain de journée ! Je m'attendais vraiment pas à tout ça quand je suis arrivée à l'université. Tant de hauts, tant de bas. De la merde.)"
-
-# game/v10/scene9.rpy:152
-translate empty v10_leave_fight_d8ea90b7_1:
-
-    # u "(Today really didn't go as planned... This is the worst fucking feeling.)"
-    u "(La journée s'est vraiment pas déroulée comme prévu... C'est la pire des sensations.)"
-
-# game/v10/scene9.rpy:167
-translate empty v10_leave_fight_d1bfd8b5_1:
-
-    # u "(Enough for today, I'm going to sleep.)"
-    u "(Assez pour aujourd'hui, je vais dormir.)"
-
-# game/v10/scene9.rpy:177
-translate empty v10_leave_fight_6bcd435f_1:
-
-    # u "Yeah?"
-    u "Ouais ?"
-
-# game/v10/scene9.rpy:185
-translate empty v10_leave_fight_512de434:
-
-    # gr "Great job tonight [name], I fucking knew you were gonna destroy him."
-    gr "Super boulot ce soir [name], je savais que tu allais le détruire."
-
-# game/v10/scene9.rpy:190
-translate empty v10_leave_fight_8824c385:
-
-    # ca "Actually turning into a fighter... not a horrible performance today."
-    ca "En fait, il se transforme en combattant... ce n'est pas une performance horrible aujourd'hui."
-
-# game/v10/scene9.rpy:195
-translate empty v10_leave_fight_ed511f23:
-
-    # u "Thanks guys. Ryan killed it too though."
-    u "Merci les gars. Ryan l'a tué aussi."
-
-# game/v10/scene9.rpy:200
-translate empty v10_leave_fight_935cc2f7:
-
-    # ry "We both did, man. Apes all the way!"
-    ry "On l'a fait tous les deux, mec. Des Apes sur toute la ligne !"
-
-# game/v10/scene9.rpy:205
-translate empty v10_leave_fight_0fcf95e9:
-
-    # gr "That's fucking right."
-    gr "Putain c'est vrai."
-
-# game/v10/scene9.rpy:210
-translate empty v10_leave_fight_716f29f3:
-
-    # u "Haha, I appreciate the compliments, but I'm super exhausted, so I think I'm just gonna head to bed if that's alright."
-    u "Haha, j'apprécie les compliments, mais je suis super fatigué, donc je pense que je vais juste aller me coucher si ça vous dérange pas."
-
-# game/v10/scene9.rpy:215
-translate empty v10_leave_fight_f6c7ab3e:
-
-    # gr "You've earned it."
-    gr "Tu l'as mérité."
-
-translate empty strings:
-
-    # game/v10/scene9.rpy:30
-    old "Act like you're asleep"
-    new "Fais comme si tu étais endormi"
-
-    # game/v10/scene9.rpy:30
-    old "Answer the door"
-    new "Réponds à la porte"
-# TODO: Translation updated at 2021-11-30 14:41
+﻿# TODO: Translation updated at 2022-08-22 08:06
 
 # game/v10/scene9.rpy:16
 translate francais v10_leave_fight_d81fd0fd:
 
     # u "(What a fucking day! Definitely didn't expect any of this when I came to college. So many ups, so many downs. Crazy shit.)"
-    u "(Quelle putain de journée ! Je m'attendais vraiment pas à tout ça quand je suis arrivée à l'université. Tant de hauts, tant de bas. De la merde.)"
+    u ""
 
-# game/v10/scene9.rpy:21
+# game/v10/scene9.rpy:22
 translate francais v10_leave_fight_d8ea90b7:
 
     # u "(Today really didn't go as planned... This is the worst fucking feeling.)"
-    u "(La journée s'est vraiment pas déroulée comme prévu... C'est la pire des sensations.)"
+    u ""
 
-# game/v10/scene9.rpy:35
+# game/v10/scene9.rpy:37
 translate francais v10_leave_fight_d1bfd8b5:
 
     # u "(Enough for today, I'm going to sleep.)"
-    u "(Assez pour aujourd'hui, je vais dormir.)"
+    u ""
 
-# game/v10/scene9.rpy:45
+# game/v10/scene9.rpy:47
 translate francais v10_leave_fight_6bcd435f:
 
     # u "Yeah?"
-    u "Ouais ?"
+    u ""
 
-# game/v10/scene9.rpy:56
+# game/v10/scene9.rpy:58
 translate francais v10_leave_fight_1c81c8e1:
 
     # ch "If I ever have a son I'm naming him [name]! I'm so proud of you right now."
-    ch "Si jamais j'ai un fils, je l'appellerai [name] ! Je suis tellement fier de toi en ce moment."
+    ch ""
 
-# game/v10/scene9.rpy:61
+# game/v10/scene9.rpy:63
 translate francais v10_leave_fight_6ad29c6e:
 
     # se "Looks like guys really belong into the Wolves. Well done."
-    se "On dirait que les gars se sentent bien chez les Wolves. Bon travail."
+    se ""
 
-# game/v10/scene9.rpy:66
+# game/v10/scene9.rpy:68
 translate francais v10_leave_fight_db4a123d:
 
     # u "Imre either turned into a beast out there or his opponent was just trash."
-    u "Soit Imre est devenu une bête sur le terrain, soit son adversaire n'était qu'une merde."
+    u ""
 
-# game/v10/scene9.rpy:71
+# game/v10/scene9.rpy:73
 translate francais v10_leave_fight_9a1dcc2b:
 
     # imre "*Laughs* That guy had no fucking chance, classic Apes. So much shit talk and no backing it up."
-    imre "*Rire* Ce gars n'avait aucune chance, c'est un classique chez les Apes. Beaucoup de paroles de merde et rien pour les soutenir."
+    imre ""
 
-# game/v10/scene9.rpy:76
+# game/v10/scene9.rpy:78
 translate francais v10_leave_fight_461cb1ae:
 
     # ch "Really well done guys, you're absolutely crushing it."
-    ch "Vraiment bien fait les gars, vous avez tout déchiré."
+    ch ""
 
-# game/v10/scene9.rpy:81
+# game/v10/scene9.rpy:83
 translate francais v10_leave_fight_ee01f9b9:
 
     # u "Thanks."
-    u "Merci."
+    u ""
 
-# game/v10/scene9.rpy:86
+# game/v10/scene9.rpy:88
 translate francais v10_leave_fight_f5c508dd:
 
     # ch "Try to get some sleep, I'm sure it's the only privacy you're gonna have after a fight like that. *Chuckles*"
-    ch "Essaie de dormir un peu, je suis sûr que c'est la seule intimité que tu auras après un tel combat. *Rire*"
+    ch ""
 
-# game/v10/scene9.rpy:91
+# game/v10/scene9.rpy:93
 translate francais v10_leave_fight_9e26ccb4:
 
     # u "(Damn, I'm really THAT guy now!)"
-    u "(Merde, je suis vraiment CE type maintenant !)"
+    u ""
 
-# game/v10/scene9.rpy:106
+# game/v10/scene9.rpy:108
 translate francais v10_leave_fight_5d0ff11e:
 
     # ch "I don't know if it's true, but one of the guys mentioned that you might have held back cause you were friends with your opponent. There are no friends in the ring, [name]."
-    ch "Je ne sais pas si c'est vrai, mais un des gars a mentionné que tu t'étais peut-être retenu parce que tu étais ami avec ton adversaire. Il n'y a pas d'amis sur le ring, [name]."
+    ch ""
 
-# game/v10/scene9.rpy:111
+# game/v10/scene9.rpy:113
 translate francais v10_leave_fight_49424dab:
 
     # se "Yeah, that shit's not okay. You can't get your ass kicked by an Ape."
-    se "Ouais, cette merde n'est pas acceptable. Tu ne peux pas te faire botter le cul par un Ape."
+    se ""
 
-# game/v10/scene9.rpy:116
+# game/v10/scene9.rpy:118
 translate francais v10_leave_fight_c5dc2d5d:
 
     # u "I'm sorry guys. He was just better on the day."
-    u "Je suis désolé les gars. Il était juste meilleur ce jour-là."
+    u ""
 
-# game/v10/scene9.rpy:121
+# game/v10/scene9.rpy:123
 translate francais v10_leave_fight_f9f2e824:
 
     # ch "Try to get some sleep now, no use beating yourself up over it."
-    ch "Essaie de dormir un peu maintenant, ça ne sert à rien de t'en vouloir."
+    ch ""
 
-# game/v10/scene9.rpy:130
+# game/v10/scene9.rpy:132
 translate francais v10_leave_fight_7cbd5471:
 
     # u "(Damn, I really dropped the ball there...)"
-    u "(Merde, j'ai vraiment déconné, là...)"
+    u ""
 
-# game/v10/scene9.rpy:147
+# game/v10/scene9.rpy:149
 translate francais v10_leave_fight_d81fd0fd_1:
 
     # u "(What a fucking day! Definitely didn't expect any of this when I came to college. So many ups, so many downs. Crazy shit.)"
-    u "(Quelle putain de journée ! Je m'attendais vraiment pas à tout ça quand je suis arrivée à l'université. Tant de hauts, tant de bas. De la merde.)"
+    u ""
 
-# game/v10/scene9.rpy:152
+# game/v10/scene9.rpy:155
 translate francais v10_leave_fight_d8ea90b7_1:
 
     # u "(Today really didn't go as planned... This is the worst fucking feeling.)"
-    u "(La journée s'est vraiment pas déroulée comme prévu... C'est la pire des sensations.)"
+    u ""
 
-# game/v10/scene9.rpy:167
+# game/v10/scene9.rpy:170
 translate francais v10_leave_fight_d1bfd8b5_1:
 
     # u "(Enough for today, I'm going to sleep.)"
-    u "(Assez pour aujourd'hui, je vais dormir.)"
+    u ""
 
-# game/v10/scene9.rpy:177
+# game/v10/scene9.rpy:180
 translate francais v10_leave_fight_6bcd435f_1:
 
     # u "Yeah?"
-    u "Ouais ?"
+    u ""
 
-# game/v10/scene9.rpy:185
+# game/v10/scene9.rpy:188
 translate francais v10_leave_fight_512de434:
 
     # gr "Great job tonight [name], I fucking knew you were gonna destroy him."
-    gr "Super boulot ce soir [name], je savais que tu allais le détruire."
+    gr ""
 
-# game/v10/scene9.rpy:190
+# game/v10/scene9.rpy:193
 translate francais v10_leave_fight_8824c385:
 
     # ca "Actually turning into a fighter... not a horrible performance today."
-    ca "En fait, il se transforme en combattant... ce n'est pas une performance horrible aujourd'hui."
+    ca ""
 
-# game/v10/scene9.rpy:195
+# game/v10/scene9.rpy:198
 translate francais v10_leave_fight_ed511f23:
 
     # u "Thanks guys. Ryan killed it too though."
-    u "Merci les gars. Ryan l'a tué aussi."
+    u ""
 
-# game/v10/scene9.rpy:200
+# game/v10/scene9.rpy:203
 translate francais v10_leave_fight_935cc2f7:
 
     # ry "We both did, man. Apes all the way!"
-    ry "On l'a fait tous les deux, mec. Des Apes sur toute la ligne !"
+    ry ""
 
-# game/v10/scene9.rpy:205
+# game/v10/scene9.rpy:208
 translate francais v10_leave_fight_0fcf95e9:
 
     # gr "That's fucking right."
-    gr "Putain c'est vrai."
+    gr ""
 
-# game/v10/scene9.rpy:210
+# game/v10/scene9.rpy:213
 translate francais v10_leave_fight_716f29f3:
 
     # u "Haha, I appreciate the compliments, but I'm super exhausted, so I think I'm just gonna head to bed if that's alright."
-    u "Haha, j'apprécie les compliments, mais je suis super fatigué, donc je pense que je vais juste aller me coucher si ça vous dérange pas."
+    u ""
 
-# game/v10/scene9.rpy:215
+# game/v10/scene9.rpy:218
 translate francais v10_leave_fight_f6c7ab3e:
 
     # gr "You've earned it."
-    gr "Tu l'as mérité."
+    gr ""
 
 translate francais strings:
 
-    # game/v10/scene9.rpy:30
+    # game/v10/scene9.rpy:32
     old "Act like you're asleep"
-    new "Fais comme si tu étais endormi"
+    new ""
 
-    # game/v10/scene9.rpy:30
+    # game/v10/scene9.rpy:32
     old "Answer the door"
-    new "Réponds à la porte"
+    new ""
+

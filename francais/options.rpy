@@ -1,7 +1,8 @@
-﻿# TODO: Translation updated at 2021-11-30 22:38
+﻿# TODO: Translation updated at 2022-08-22 08:06
 
 translate francais strings:
 
-    # game/options.rpy:14
+    # game/options.rpy:15
     old "College Kings"
-    new "College Kings"
+    new ""
+

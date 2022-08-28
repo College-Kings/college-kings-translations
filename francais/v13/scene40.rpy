@@ -1,435 +1,436 @@
-﻿# TODO: Translation updated at 2022-01-07 18:13
+﻿# TODO: Translation updated at 2022-08-22 08:06
 
 # game/v13/scene40.rpy:17
 translate francais v13s40_e3ea8939:
 
     # cl "Hey, handsome."
-    cl "Hé, beau gosse."
+    cl ""
 
 # game/v13/scene40.rpy:22
 translate francais v13s40_645b50eb:
 
     # u "Haha, hey."
-    u "Haha, hey."
+    u ""
 
 # game/v13/scene40.rpy:27
 translate francais v13s40_bf3a24de:
 
     # u "(Oh shoot, I almost forgot. I picked up a few surprises for Chloe.)"
-    u "(Oh mince, j'ai presque oublié. j'ai acheté quelques surprises pour Chloé.)"
+    u ""
 
 # game/v13/scene40.rpy:32
 translate francais v13s40_ee5858b0:
 
     # u "What are you up to?"
-    u "Qu'est-ce que tu fais ?"
+    u ""
 
 # game/v13/scene40.rpy:37
 translate francais v13s40_1a2be665:
 
     # cl "Bored and looking for something to do... *Chuckles*"
-    cl "Je m'ennuie et je cherche quelque chose à faire... *Rire*"
+    cl ""
 
 # game/v13/scene40.rpy:42
 translate francais v13s40_733bb4d9:
 
     # u "What if I told you I had something special for you? Special based on some of those fantasies you told me about."
-    u "Et si je te disais que j'ai quelque chose de spécial pour toi ? Spécial basé sur certains de ces fantasmes dont tu m'as parlé."
+    u ""
 
 # game/v13/scene40.rpy:47
 translate francais v13s40_7b1a73db:
 
     # cl "Oh, really?"
-    cl "Oh, c'est vrai ?"
+    cl ""
 
 # game/v13/scene40.rpy:52
 translate francais v13s40_d847467f:
 
     # u "Yes, really."
-    u "Oui, c'est vrai."
+    u ""
 
 # game/v13/scene40.rpy:57
 translate francais v13s40_edc7a6f1:
 
     # cl "Then I'd say what are we doing down here? *Chuckles*"
-    cl "Alors je dirais qu'est-ce qu'on fait là ? *Rire*"
+    cl ""
 
 # game/v13/scene40.rpy:62
 translate francais v13s40_b496b020:
 
     # u "*Whispers* Lead the way."
-    u "*Chuchote* Je te suis."
+    u ""
 
-# game/v13/scene40.rpy:104
+# game/v13/scene40.rpy:100
 translate francais v13s40_sg_3d5e86bb:
 
     # cl "What now, Sir?"
-    cl "Et maintenant, Monsieur ?"
+    cl ""
 
-# game/v13/scene40.rpy:109
+# game/v13/scene40.rpy:105
 translate francais v13s40_sg_8d3fb640:
 
     # u "Lay back on the bed and close your eyes."
-    u "Allonge-toi sur le lit et ferme les yeux."
+    u ""
 
-# game/v13/scene40.rpy:119
+# game/v13/scene40.rpy:115
 translate francais v13s40_sg_e81229fa:
 
     # cl "I'm a little nervous, but plenty excited... *Chuckles*"
-    cl "Je suis un peu nerveuse, mais très excitée... *Rire*"
+    cl ""
 
-# game/v13/scene40.rpy:124
+# game/v13/scene40.rpy:120
 translate francais v13s40_sg_abbd42a5:
 
     # u "Haha, just try to relax."
-    u "Haha, essaie de te détendre."
+    u ""
 
-# game/v13/scene40.rpy:147
+# game/v13/scene40.rpy:143
 translate francais v13s40_sg_24c5c51c:
 
     # cl "[name], you remembered my confession."
-    cl "[name], tu t'es souvenu de ma confession."
+    cl ""
 
-# game/v13/scene40.rpy:152
+# game/v13/scene40.rpy:148
 translate francais v13s40_sg_bec09d7a:
 
     # u "*Chuckles* Shhh."
-    u "*Rire* Chuuut."
+    u ""
 
-# game/v13/scene40.rpy:167
+# game/v13/scene40.rpy:172
 translate francais v13s40_honey_9d37a92b:
 
     # cl "Ahh, that... *Chuckles* That feels good..."
-    cl "Ahh, ça... *Rire* Ça fait du bien..."
+    cl ""
 
-# game/v13/scene40.rpy:172
+# game/v13/scene40.rpy:177
 translate francais v13s40_honey_96078e8e:
 
     # u "Call me Pinnie Wooh."
-    u "Appelle-moi Pinnie Wooh."
+    u ""
 
-# game/v13/scene40.rpy:177
+# game/v13/scene40.rpy:182
 translate francais v13s40_honey_108b353e:
 
     # cl "*Chuckles*"
-    cl "*Rire*"
+    cl ""
 
-# game/v13/scene40.rpy:193
+# game/v13/scene40.rpy:198
 translate francais v13s40_honey_6f952a11:
 
     # cl "Mmm... Kiss me."
-    cl "Mmm... Embrasse-moi."
+    cl ""
 
-# game/v13/scene40.rpy:203
+# game/v13/scene40.rpy:208
 translate francais v13s40_honey_96cffd36:
 
     # u "I've got plenty more where that came from."
-    u "J'en ai encore plein d'autres."
+    u ""
 
-# game/v13/scene40.rpy:216
+# game/v13/scene40.rpy:222
 translate francais v13s40_feather_28a3744b:
 
     # cl "*Moans* [name]!"
-    cl "*Gémis* [name] !"
+    cl ""
 
-# game/v13/scene40.rpy:221
+# game/v13/scene40.rpy:227
 translate francais v13s40_feather_f4bd8b85:
 
     # cl "*Laughs* That tickles."
-    cl "*Rire* Ça chatouille."
+    cl ""
 
-# game/v13/scene40.rpy:226
+# game/v13/scene40.rpy:232
 translate francais v13s40_feather_d3d8cf76:
 
     # u "Want me to stop?"
-    u "Tu veux que j'arrête ?"
+    u ""
 
-# game/v13/scene40.rpy:231
+# game/v13/scene40.rpy:237
 translate francais v13s40_feather_dfb264f6:
 
     # cl "No... Please, keep going. *Chuckles*"
-    cl "Non... S'il te plaît, continue. *Rire*"
+    cl ""
 
-# game/v13/scene40.rpy:236
+# game/v13/scene40.rpy:242
 translate francais v13s40_feather_a96629c9:
 
     # cl "*Moans*"
-    cl "*Gémis*"
+    cl ""
 
-# game/v13/scene40.rpy:246
+# game/v13/scene40.rpy:252
 translate francais v13s40_feather_325fa1d2:
 
     # cl "Ooh, ha! Okay... Way too ticklish... *Chuckles*"
-    cl "Ooh, ha ! Ok... Beaucoup trop chatouilleuse... *Rire*"
+    cl ""
 
-# game/v13/scene40.rpy:251
+# game/v13/scene40.rpy:257
 translate francais v13s40_feather_25b42f1f:
 
     # u "We can try something else..."
-    u "On peut essayer autre chose..."
+    u ""
 
-# game/v13/scene40.rpy:274
+# game/v13/scene40.rpy:281
 translate francais v13s40_spanker_45be9c34:
 
     # cl "Oooh, is that what I think it is? *Chuckles*"
-    cl "Oooh, c'est ce à quoi je pense ? *Rire*"
+    cl ""
 
-# game/v13/scene40.rpy:279
+# game/v13/scene40.rpy:286
 translate francais v13s40_spanker_77cf71e2:
 
     # u "Yes ma'am..."
-    u "Oui, m'dame..."
+    u ""
 
-# game/v13/scene40.rpy:284
+# game/v13/scene40.rpy:291
 translate francais v13s40_spanker_4ccd5d93:
 
     # cl "Mmmm, please don't be too rough..."
-    cl "Mmmm, s'il te plaît, ne sois pas trop brutal..."
+    cl ""
 
-# game/v13/scene40.rpy:294
+# game/v13/scene40.rpy:301
 translate francais v13s40_spanker_da6729b2:
 
     # cl "Ahh!"
-    cl "Ahh !"
+    cl ""
 
-# game/v13/scene40.rpy:299
+# game/v13/scene40.rpy:306
 translate francais v13s40_spanker_5d7644ca:
 
     # u "Too hard?"
-    u "C'est trop fort ?"
+    u ""
 
-# game/v13/scene40.rpy:304
+# game/v13/scene40.rpy:311
 translate francais v13s40_spanker_20d01a5c:
 
     # cl "N-No, not at all. *Chuckles* Keep going."
-    cl "N-Non, pas du tout. *Rire* Continue."
+    cl ""
 
-# game/v13/scene40.rpy:309
+# game/v13/scene40.rpy:316
 translate francais v13s40_spanker_b8ed3256:
 
     # cl "Ahh! Yes! Harder..."
-    cl "Ahh ! Oui ! Plus fort..."
+    cl ""
 
-# game/v13/scene40.rpy:319
+# game/v13/scene40.rpy:326
 translate francais v13s40_spanker_17caa864:
 
     # cl "Oh! My... My god!"
-    cl "Oh ! Me... Merde !"
+    cl ""
 
-# game/v13/scene40.rpy:324
+# game/v13/scene40.rpy:331
 translate francais v13s40_spanker_6f943b6e:
 
     # u "(She's really into this...) *Chuckles*"
-    u "(Elle est vraiment à fond dedans...) *Rire*"
+    u ""
 
-# game/v13/scene40.rpy:494
+# game/v13/scene40.rpy:491
 translate francais v13s40_end_free_roam_cbdd0b8c:
 
     # cl "Hurry and untie me..."
-    cl "Vite, détache-moi..."
+    cl ""
 
-# game/v13/scene40.rpy:509
+# game/v13/scene40.rpy:506
 translate francais v13s40_end_free_roam_d9e7e083:
 
     # cl "I want you."
-    cl "J'ai envie de toi."
+    cl ""
 
-# game/v13/scene40.rpy:514
+# game/v13/scene40.rpy:511
 translate francais v13s40_end_free_roam_e8b80276:
 
     # cl "Right now!"
-    cl "Maintenant !"
+    cl ""
 
-# game/v13/scene40.rpy:519
+# game/v13/scene40.rpy:516
 translate francais v13s40_end_free_roam_11cc959b:
 
     # u "(She's being wild right now!)"
-    u "(Elle est sauvage en ce moment !)"
+    u ""
 
-# game/v13/scene40.rpy:540
+# game/v13/scene40.rpy:537
 translate francais v13s40_end_free_roam_d0d27b89:
 
     # cl "*Moans* F-fuck baby... No one's ever been able to bring this side out of me!"
-    cl "*Gémis* P-Putain bébé... Personne n'a jamais été capable de faire surgir ce côté de ma personnalité !"
+    cl ""
 
-# game/v13/scene40.rpy:546
+# game/v13/scene40.rpy:543
 translate francais v13s40_end_free_roam_9b7f914a:
 
     # u "You're getting ready to bring a new side out of me too..."
-    u "Tu t'apprêtes à faire ressortir un nouveau côté de moi aussi..."
+    u ""
 
-# game/v13/scene40.rpy:552
+# game/v13/scene40.rpy:549
 translate francais v13s40_end_free_roam_c15d6ac0:
 
     # cl "Show me then... Mmm, show me that side!"
-    cl "Montre-moi alors... Mmm, montre-moi ce côté caché !"
+    cl ""
 
-# game/v13/scene40.rpy:558
+# game/v13/scene40.rpy:555
 translate francais v13s40_end_free_roam_a96629c9:
 
     # cl "*Moans*"
-    cl "*Gémis*"
+    cl ""
 
-# game/v13/scene40.rpy:579
+# game/v13/scene40.rpy:576
 translate francais v13s40_end_free_roam_00db36d7:
 
     # cl "I... *Moans* Like it... Rough... *Whispers* F-Fuck... Like this... [name]!"
-    cl "Je... *Gémis* J'aime ça... brutal... *Chuchote* P-Putain de merde... Comme ça... [name] !"
+    cl ""
 
-# game/v13/scene40.rpy:585
+# game/v13/scene40.rpy:582
 translate francais v13s40_end_free_roam_8b069716:
 
     # u "How much do you like it?"
-    u "À quel point t'aimes ça ?"
+    u ""
 
-# game/v13/scene40.rpy:591
+# game/v13/scene40.rpy:588
 translate francais v13s40_end_free_roam_2496ae58:
 
     # cl "*Moans* I like it... a lot..."
-    cl "*Gémis* J'aime énormément... ça... "
+    cl ""
 
-# game/v13/scene40.rpy:597
+# game/v13/scene40.rpy:594
 translate francais v13s40_end_free_roam_4b92735e:
 
     # cl "FUCK! I LOVE THIS, [name]!"
-    cl "PUTAIN ! J'AIME ÇA, [name] !"
+    cl ""
 
-# game/v13/scene40.rpy:618
+# game/v13/scene40.rpy:615
 translate francais v13s40_end_free_roam_c88ee6c9:
 
     # cl "*Gags*"
-    cl "*Halète*"
+    cl ""
 
-# game/v13/scene40.rpy:624
+# game/v13/scene40.rpy:621
 translate francais v13s40_end_free_roam_8613819f:
 
     # u "Mmhmm!"
-    u "Mmhmm !"
+    u ""
 
-# game/v13/scene40.rpy:630
+# game/v13/scene40.rpy:627
 translate francais v13s40_end_free_roam_a96629c9_1:
 
     # cl "*Moans*"
-    cl "*Gémis*"
+    cl ""
 
-# game/v13/scene40.rpy:632
+# game/v13/scene40.rpy:629
 translate francais v13s40_end_free_roam_00594dfe:
 
     # u "Damn it Chloe... Those perfect lips."
-    u "Putain, Chloé... Ces lèvres parfaites."
+    u ""
 
-# game/v13/scene40.rpy:638
+# game/v13/scene40.rpy:635
 translate francais v13s40_end_free_roam_63c322ad:
 
     # u "Way too fucking good... *Moans*"
-    u "C'est trop bon, putain... *Gémis*"
+    u ""
 
-# game/v13/scene40.rpy:659
+# game/v13/scene40.rpy:656
 translate francais v13s40_end_free_roam_95500d1c:
 
     # cl "Ohh, fuck! [name]! [name]... I-I'm cumming... *Moans*"
-    cl "Ohh, putain ! [name] ! [name]... Je vais jouir...  *Gémis*"
+    cl ""
 
-# game/v13/scene40.rpy:664
+# game/v13/scene40.rpy:661
 translate francais v13s40_end_free_roam_0851ab45:
 
     # cl "[name]! *Gasps* F-f-uck... *Moans*"
-    cl "[name] ! *Halète* P-P-Putain...  *Gémis*"
+    cl ""
 
-# game/v13/scene40.rpy:670
+# game/v13/scene40.rpy:667
 translate francais v13s40_end_free_roam_93cb64d6:
 
     # u "Ah, shit Chlo... *Moans* You- I'm-"
-    u "Ah, merde Chloé... *Gémis* Tu... Je..."
+    u ""
 
-# game/v13/scene40.rpy:676
+# game/v13/scene40.rpy:673
 translate francais v13s40_end_free_roam_79439081:
 
     # u "*Moans* I'm gonna... Ohhh, my fucking... god!"
-    u "*Gémis* Je vais... Ohhh, mon putain de... merde !"
+    u ""
 
-# game/v13/scene40.rpy:689
+# game/v13/scene40.rpy:686
 translate francais v13s40_end_free_roam_d150fe4a:
 
     # cl "That was the best sex I've ever had! *Laughs* Holy shit..."
-    cl "C'était la meilleure baise que j'ai jamais eu ! *Rire* Putain de merde..."
+    cl ""
 
-# game/v13/scene40.rpy:694
+# game/v13/scene40.rpy:691
 translate francais v13s40_end_free_roam_13b1e32e:
 
     # u "I can say the same."
-    u "Je peux en dire autant."
+    u ""
 
-# game/v13/scene40.rpy:699
+# game/v13/scene40.rpy:696
 translate francais v13s40_end_free_roam_96f00eb8:
 
     # cl "It's gonna be hard to top that, you know? *Chuckles*"
-    cl "Ça va être dur de faire mieux que ça, tu sais ? *Rire*"
+    cl ""
 
-# game/v13/scene40.rpy:704
+# game/v13/scene40.rpy:701
 translate francais v13s40_end_free_roam_f574238f:
 
     # u "I can say the same to you!"
-    u "Je peux dire la même chose pour toi !"
+    u ""
 
-# game/v13/scene40.rpy:709
+# game/v13/scene40.rpy:706
 translate francais v13s40_end_free_roam_7893975c:
 
     # cl "Oh, really? *Chuckles*"
-    cl "Oh, vraiment ? *Rire*"
+    cl ""
 
-# game/v13/scene40.rpy:714
+# game/v13/scene40.rpy:711
 translate francais v13s40_end_free_roam_5e78e5cb:
 
     # u "Really."
-    u "Vraiment."
+    u ""
 
-# game/v13/scene40.rpy:719
+# game/v13/scene40.rpy:716
 translate francais v13s40_end_free_roam_920e8069:
 
     # cl "Oh my god, okay... Get up and let me go to the bathroom real quick. You're making me blush. *Chuckles*"
-    cl "Oh putain, ok... Lève-toi et laisse-moi aller à la salle de bain rapidement. Tu me fais rougir. *Rire*"
+    cl ""
 
-# game/v13/scene40.rpy:724
+# game/v13/scene40.rpy:721
 translate francais v13s40_end_free_roam_b54e4039:
 
     # u "Haha."
-    u "Haha."
+    u ""
 
-# game/v13/scene40.rpy:740
+# game/v13/scene40.rpy:738
 translate francais v13s40_end_free_roam_fe33809a:
 
     # u "(This girl is gonna drive me crazy...) *Laughs*"
-    u "(Cette fille va me rendre fou...) *Rire*"
+    u ""
 
-# game/v13/scene40.rpy:780
+# game/v13/scene40.rpy:778
 translate francais v13s40_end_free_roam_acb4db7d:
 
     # cl "That was fun. *Chuckles* A little more different than expected, but fun."
-    cl "C'était amusant. *Rire* Un peu plus différent que prévu, mais amusant."
+    cl ""
 
-# game/v13/scene40.rpy:785
+# game/v13/scene40.rpy:783
 translate francais v13s40_end_free_roam_b7d72ea4:
 
     # cl "You should stay and cuddle with me... After all that, I'm pretty tired."
-    cl "Tu devrais rester et me faire des câlins... Après tout ça, je suis assez fatiguée."
+    cl ""
 
-# game/v13/scene40.rpy:790
+# game/v13/scene40.rpy:788
 translate francais v13s40_end_free_roam_b4fd0afc:
 
     # u "*Chuckles* I'd be happy to."
-    u "*Rire* J'en serais heureux."
+    u ""
 
 translate francais strings:
 
-    # game/v13/scene40.rpy:347
+    # game/v13/scene40.rpy:354
     old "Choke"
-    new "Étranglez"
+    new ""
 
-    # game/v13/scene40.rpy:347
+    # game/v13/scene40.rpy:354
     old "Kiss"
-    new "Embrassez"
+    new ""
 
-    # game/v13/scene40.rpy:370
+    # game/v13/scene40.rpy:375
     old "Massage"
-    new "Massage"
+    new ""
+

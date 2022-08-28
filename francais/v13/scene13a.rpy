@@ -1,431 +1,432 @@
-﻿# TODO: Translation updated at 2022-01-04 15:41
+﻿# TODO: Translation updated at 2022-08-22 08:06
 
-# game/v13/scene13a.rpy:20
+# game/v13/scene13a.rpy:22
 translate francais v13s13a_3bf5de33:
 
     # polly "*Sighs* Whew! I'm exhausted..."
-    polly "*Soupirs* Ouf ! Je suis épuisée..."
+    polly ""
 
-# game/v13/scene13a.rpy:25
+# game/v13/scene13a.rpy:27
 translate francais v13s13a_8569c4fa:
 
     # u "*Chuckles*"
-    u "*Rire*"
+    u ""
 
-# game/v13/scene13a.rpy:30
+# game/v13/scene13a.rpy:32
 translate francais v13s13a_437e8305:
 
     # polly "Oh! I didn't even see you two there... Hey, hey, picture girl. *Chuckles*"
-    polly "Oh ! Je ne vous avais même pas vu là, tous les deux... Hey, hey, la fille aux photos. *Rire*"
+    polly ""
 
-# game/v13/scene13a.rpy:35
+# game/v13/scene13a.rpy:37
 translate francais v13s13a_36765ebf:
 
     # au "Haha, hey."
-    au "Haha, hey."
+    au ""
 
-# game/v13/scene13a.rpy:40
+# game/v13/scene13a.rpy:42
 translate francais v13s13a_55ed99af:
 
     # polly "You two are the only people with backstage access tonight?"
-    polly "Vous deux êtes les seules personnes à avoir accès aux coulisses ce soir ?"
+    polly ""
 
-# game/v13/scene13a.rpy:45
+# game/v13/scene13a.rpy:47
 translate francais v13s13a_6698b7af:
 
     # u "I guess so, we've been sitting here for a minute and no one else has come so far."
-    u "Je pense que oui, nous sommes assis ici depuis une minute et personne d'autre n'est venu jusqu'ici."
+    u ""
 
-# game/v13/scene13a.rpy:50
+# game/v13/scene13a.rpy:52
 translate francais v13s13a_2cb3ce88:
 
     # polly "*Sighs* Good..."
-    polly "*Soupirs* Bien..."
+    polly ""
 
-# game/v13/scene13a.rpy:55
+# game/v13/scene13a.rpy:57
 translate francais v13s13a_b61dfe2c:
 
     # au "Why is that good? *Chuckles*"
-    au "Pourquoi c'est bien ? *Rire*"
+    au ""
 
-# game/v13/scene13a.rpy:60
+# game/v13/scene13a.rpy:62
 translate francais v13s13a_1e292e24:
 
     # polly "'Cause that means I don't have to try and impress a ton of people I don't care about... *Laughs* You guys are cool."
-    polly "Parce que ça veut dire que je n'ai pas à essayer d'impressionner une tonne de gens dont je me fiche... *Rire* Vous, vous êtes cool."
+    polly ""
 
-# game/v13/scene13a.rpy:65
+# game/v13/scene13a.rpy:67
 translate francais v13s13a_12f5fa21:
 
     # u "(This pop star just called us cool?)"
-    u "(Cette pop star vient de nous dire qu'on est cool ?)"
+    u ""
 
-# game/v13/scene13a.rpy:70
+# game/v13/scene13a.rpy:72
 translate francais v13s13a_3b79aaeb:
 
     # polly "Wait... A... Flipping... Minute! Aubrey!?"
-    polly "A-Attends... Une... Minute... ! Aubrey !?"
+    polly ""
 
-# game/v13/scene13a.rpy:75
+# game/v13/scene13a.rpy:77
 translate francais v13s13a_66f0cc02:
 
     # au "Y-Yes... That's my name, how do you know me?"
-    au "O-Oui... C'est mon nom, comment est-ce que... Tu me connais ?"
+    au ""
 
-# game/v13/scene13a.rpy:80
+# game/v13/scene13a.rpy:82
 translate francais v13s13a_adae45d0:
 
     # polly "How do I know you? *Laughs* How could I not?"
-    polly "Comment je te connais ? *Rire* Comment ne pourrais-je pas te connaître ?"
+    polly ""
 
-# game/v13/scene13a.rpy:81
+# game/v13/scene13a.rpy:83
 translate francais v13s13a_72b33cd1:
 
     # polly "You're the new model that's working with Lew's, right? I saw your Paris shoot, and that shit was amazing!"
-    polly "Tu es le nouveau mannequin qui travaille chez Lew's, non ? J'ai vu ton shooting fait à Paris et putain, t'était magnifique !"
+    polly ""
 
-# game/v13/scene13a.rpy:86
+# game/v13/scene13a.rpy:88
 translate francais v13s13a_eb6998ce:
 
     # au "Wait, you saw my work!?"
-    au "Attends, tu as vu mon travail !?"
+    au ""
 
-# game/v13/scene13a.rpy:91
+# game/v13/scene13a.rpy:93
 translate francais v13s13a_2b784ed9:
 
     # polly "Why are you acting surprised? *Chuckles*"
-    polly "Pourquoi as-tu l'air surprise ? *Rire*"
+    polly ""
 
-# game/v13/scene13a.rpy:96
+# game/v13/scene13a.rpy:98
 translate francais v13s13a_ff123126:
 
     # au "Because that was my first shoot, like ever. If you recognized my sister Naomi then that'd make sense, haha."
-    au "Parce que c'était mon premier photoshoot, enfin, presque le premier. Si tu reconnaissais ma soeur Naomi alors là, ça aurait un sens, haha."
+    au ""
 
-# game/v13/scene13a.rpy:101
+# game/v13/scene13a.rpy:103
 translate francais v13s13a_ff5f9f9f:
 
     # polly "Ewww, ugh... I'm sorry, but..."
-    polly "Euh, beurk... Je suis désolée, mais..."
+    polly ""
 
-# game/v13/scene13a.rpy:102
+# game/v13/scene13a.rpy:104
 translate francais v13s13a_4ce8c062:
 
     # polly "I can't stand your sister. She thinks she's way better than she actually is."
-    polly "Je ne supporte pas ta soeur. Elle se croit bien meilleure qu'elle ne l'est en réalité."
+    polly ""
 
-# game/v13/scene13a.rpy:109
+# game/v13/scene13a.rpy:111
 translate francais v13s13a_4c8a029e:
 
     # u "Oh, come on... She's not that bad."
-    u "Oh, allez... Elle n'est pas si mauvaise."
+    u ""
 
-# game/v13/scene13a.rpy:114
+# game/v13/scene13a.rpy:116
 translate francais v13s13a_938f4f7f:
 
     # polly "She's not that good either. *Chuckles*"
-    polly "Elle n'est pas si bonne non plus. *Rire*"
+    polly ""
 
-# game/v13/scene13a.rpy:118
+# game/v13/scene13a.rpy:120
 translate francais v13s13a_fcc18885:
 
     # u "*Laughs*"
-    u "*Rire*"
+    u ""
 
-# game/v13/scene13a.rpy:123
+# game/v13/scene13a.rpy:125
 translate francais v13s13a_5b2db314:
 
     # polly "See! *Chuckles* I'm not the only one that thinks that..."
-    polly "Tu vois ! *Rire* Je ne suis pas la seule à penser que..."
+    polly ""
 
-# game/v13/scene13a.rpy:129
+# game/v13/scene13a.rpy:131
 translate francais v13s13a_54d9476e:
 
     # au "My sister definitely has a blunt way of doing things, ha."
-    au "Ma soeur a certainement une façon brutale de faire les choses."
+    au ""
 
-# game/v13/scene13a.rpy:134
+# game/v13/scene13a.rpy:136
 translate francais v13s13a_6f297d4a:
 
     # polly "That's an understatement. But who cares, forget about your sister."
-    polly "C'est un euphémisme. Mais qui s'en soucie, oublie ta soeur."
+    polly ""
 
-# game/v13/scene13a.rpy:139
+# game/v13/scene13a.rpy:141
 translate francais v13s13a_9afb5bec:
 
     # polly "Based on what I saw, you're gonna be the Next. Big. Thing. Your first gig is international work in Paris... C'mon now. *Laughs*"
-    polly "D'après ce que j'ai vu, tu vas être la prochaine. GRANDE. STAR. Et ton premier job est un travail international à Paris... Allez, vas-y. *Rire*"
+    polly ""
 
-# game/v13/scene13a.rpy:144
+# game/v13/scene13a.rpy:146
 translate francais v13s13a_c6488931:
 
     # au "I've been trying to tell this goofball here that he better be nice to me or I'm gonna end up forgetting him when I'm famous."
-    au "J'ai essayé de dire à cet idiot qu'il ferait mieux d'être gentil avec moi ou je finirais par l'oublier quand je serai célèbre."
+    au ""
 
-# game/v13/scene13a.rpy:149
+# game/v13/scene13a.rpy:151
 translate francais v13s13a_4c2833ed:
 
     # u "*Chuckles* What?"
-    u "*Rire* Quoi ?"
+    u ""
 
-# game/v13/scene13a.rpy:154
+# game/v13/scene13a.rpy:156
 translate francais v13s13a_02870c96:
 
     # polly "That's the type of energy I like to see. I like you."
-    polly "C'est le genre d'énergie que j'aime voir. Je vous aime beaucoup."
+    polly ""
 
-# game/v13/scene13a.rpy:159
+# game/v13/scene13a.rpy:161
 translate francais v13s13a_e8d29736:
 
     # u "She likes you too."
-    u "Elle t'aime beaucoup aussi."
+    u ""
 
-# game/v13/scene13a.rpy:164
+# game/v13/scene13a.rpy:166
 translate francais v13s13a_11bf1002:
 
     # au "[name]!"
-    au "[name] !"
+    au ""
 
-# game/v13/scene13a.rpy:169
+# game/v13/scene13a.rpy:171
 translate francais v13s13a_31be0df6:
 
     # u "What? It's true! *Chuckles*"
-    u "Quoi ? C'est vrai ! *Rire*"
+    u ""
 
-# game/v13/scene13a.rpy:174
+# game/v13/scene13a.rpy:176
 translate francais v13s13a_7f2e5678:
 
     # polly "What? *Chuckles* Are you ashamed of liking me now?"
-    polly "Quoi ? *Rire* Tu as honte de m'aimer maintenant ?"
+    polly ""
 
-# game/v13/scene13a.rpy:179
+# game/v13/scene13a.rpy:181
 translate francais v13s13a_91406d55:
 
     # au "Not at all. It's just, I know him, and he's talking about a little more than just liking you as an artist."
-    au "Pas du tout. C'est juste que je le connais, et il parle d'un peu plus que de t'aimer en tant qu'artiste."
+    au ""
 
-# game/v13/scene13a.rpy:184
+# game/v13/scene13a.rpy:186
 translate francais v13s13a_590d0967:
 
     # polly "Haha, well sadly... I don't swing that way, but if I did..."
-    polly "Haha, eh bien hélas... Je ne suis pas comme ça, mais si je l'étais..."
+    polly ""
 
-# game/v13/scene13a.rpy:194
+# game/v13/scene13a.rpy:196
 translate francais v13s13a_bf758d3d:
 
     # au "Haha, thank you."
-    au "Haha, merci."
+    au ""
 
-# game/v13/scene13a.rpy:199
+# game/v13/scene13a.rpy:201
 translate francais v13s13a_58ba9de3:
 
     # polly "It's [name], right?"
-    polly "C'est [name], n'est-ce pas ?"
+    polly ""
 
-# game/v13/scene13a.rpy:204
+# game/v13/scene13a.rpy:206
 translate francais v13s13a_505a3f68:
 
     # u "Yeah."
-    u "Yeah."
+    u ""
 
-# game/v13/scene13a.rpy:209
+# game/v13/scene13a.rpy:211
 translate francais v13s13a_cdb0e025:
 
     # polly "Mind taking a picture of me and the star?"
-    polly "Tu voudrais bien prendre une photo de moi et de la Star ?"
+    polly ""
 
-# game/v13/scene13a.rpy:214
+# game/v13/scene13a.rpy:216
 translate francais v13s13a_9120c329:
 
     # u "Haha, sure."
-    u "Haha, bien sûr."
+    u ""
 
-# game/v13/scene13a.rpy:224
+# game/v13/scene13a.rpy:226
 translate francais v13s13a_5b937c72:
 
     # u "Say cheese!"
-    u "Dites \"cheese\" !"
+    u ""
 
-# game/v13/scene13a.rpy:229
+# game/v13/scene13a.rpy:231
 translate francais v13s13a_98d5eecb:
 
     # au "CHEESE!"
-    au "CHEESE !"
+    au ""
 
-# game/v13/scene13a.rpy:230
+# game/v13/scene13a.rpy:232
 translate francais v13s13a_78769671:
 
     # polly "CHEESE!"
-    polly "CHEESE !"
+    polly ""
 
-# game/v13/scene13a.rpy:246
+# game/v13/scene13a.rpy:248
 translate francais v13s13a_10ccb38f:
 
     # polly "Oh my god, yes! These are absolutely perfect. I'm going to post these, and I'm definitely going to follow you, Aubrey."
-    polly "Oh putain, oui ! Elles sont absolument parfaites. Je vais les poster, et je vais définitivement te suivre, Aubrey."
+    polly ""
 
-# game/v13/scene13a.rpy:251
+# game/v13/scene13a.rpy:253
 translate francais v13s13a_786e5114:
 
     # au "Haha, okay! Thanks."
-    au "Haha, ok ! Merci."
+    au ""
 
-# game/v13/scene13a.rpy:256
+# game/v13/scene13a.rpy:258
 translate francais v13s13a_72cbe0a1:
 
     # polly "Don't forget me when you're famous... *Chuckles*"
-    polly "Ne m'oublie pas quand tu seras célèbre... *Rire*"
+    polly ""
 
-# game/v13/scene13a.rpy:261
+# game/v13/scene13a.rpy:263
 translate francais v13s13a_c64f5a54:
 
     # au "*Laughs* I won't."
-    au "*Rire* Bien sûr que non."
+    au ""
 
-# game/v13/scene13a.rpy:266
+# game/v13/scene13a.rpy:268
 translate francais v13s13a_89e01396:
 
     # u "Shit, don't forget me either... The fuck?"
-    u "Merde, tu m'oublieras pas non plus... Hein ?"
+    u ""
 
-# game/v13/scene13a.rpy:271
+# game/v13/scene13a.rpy:273
 translate francais v13s13a_e4ad8efe:
 
     # au "Haha, I'll try not to. *Chuckles*"
-    au "Haha, je vais essayer. *Rire*"
+    au ""
 
-# game/v13/scene13a.rpy:276
+# game/v13/scene13a.rpy:278
 translate francais v13s13a_9c3294f2:
 
     # polly "Haha, so... Are you guys into clubs?"
-    polly "Haha, sinon... Vous aimez les clubs ?"
+    polly ""
 
-# game/v13/scene13a.rpy:283
+# game/v13/scene13a.rpy:285
 translate francais v13s13a_a93c9536:
 
     # u "I'm not really... Although, I've probably never been to a real, pop star-worthy nightclub. *Laughs*"
-    u "Je sais pas vraiment... En même temps, je n'ai jamais été dans une vraie boîte de nuit digne d'une pop star. *Rire*"
+    u ""
 
-# game/v13/scene13a.rpy:288
+# game/v13/scene13a.rpy:290
 translate francais v13s13a_af7e7400:
 
     # polly "Ah, okay. *Chuckles*"
-    polly "Ah, ok. *Rire*"
+    polly ""
 
-# game/v13/scene13a.rpy:294
+# game/v13/scene13a.rpy:296
 translate francais v13s13a_b33d7684:
 
     # u "Oh, hell yeah. Who doesn't love a good club?"
-    u "Oh, bon sang, oui. Qui n'aime pas une bonne boîte ?"
+    u ""
 
-# game/v13/scene13a.rpy:299
+# game/v13/scene13a.rpy:301
 translate francais v13s13a_773c67bb:
 
     # polly "Yes! I'm going to an after party right now and... You guys should come."
-    polly "Oui ! Je vais à une after party maintenant et... Vous devriez venir."
+    polly ""
 
-# game/v13/scene13a.rpy:304
+# game/v13/scene13a.rpy:306
 translate francais v13s13a_9578c6f3:
 
     # au "Oh, we are."
-    au "Oh, nous sommes avec toi."
+    au ""
 
-# game/v13/scene13a.rpy:309
+# game/v13/scene13a.rpy:311
 translate francais v13s13a_8569c4fa_1:
 
     # u "*Chuckles*"
-    u "*Rire*"
+    u ""
 
-# game/v13/scene13a.rpy:314
+# game/v13/scene13a.rpy:316
 translate francais v13s13a_16fdb172:
 
     # polly "Haha! Good."
-    polly "Haha ! Bien."
+    polly ""
 
-# game/v13/scene13a.rpy:320
+# game/v13/scene13a.rpy:322
 translate francais v13s13a_5525ae6f:
 
     # polly "Well, I gotta get headed over to the club."
-    polly "Bon, je dois aller au club."
+    polly ""
 
-# game/v13/scene13a.rpy:331
+# game/v13/scene13a.rpy:333
 translate francais v13s13a_3bd40238:
 
     # u "Lead the way!"
-    u "Montre nous le chemin !"
+    u ""
 
-# game/v13/scene13a.rpy:336
+# game/v13/scene13a.rpy:339
 translate francais v13s13a_0de1c95a:
 
     # polly "Haha, let's hop in my little escape car."
-    polly "Haha, allons dans ma petite voiture de secours."
+    polly ""
 
-# game/v13/scene13a.rpy:341
+# game/v13/scene13a.rpy:344
 translate francais v13s13a_e0ef9d2e:
 
     # au "*Laughs*"
-    au "*Rire*"
+    au ""
 
-# game/v13/scene13a.rpy:366
+# game/v13/scene13a.rpy:369
 translate francais v13s13a_f912b119:
 
     # u "Guess that's our cue to get outta here, haha."
-    u "Je crois que c'est notre signal pour sortir d'ici, haha."
+    u ""
 
-# game/v13/scene13a.rpy:371
+# game/v13/scene13a.rpy:374
 translate francais v13s13a_195d985f:
 
     # au "It was such a pleasure to meet you. I look forward to working together someday..."
-    au "C'était un tel plaisir de te rencontrer. J'ai hâte que nous travaillions ensemble un jour..."
+    au ""
 
-# game/v13/scene13a.rpy:376
+# game/v13/scene13a.rpy:379
 translate francais v13s13a_97ccd4cc:
 
     # polly "You beat me to it. I'll be in touch with you on Kiwii, girl."
-    polly "Tu m'as devancé. Je te contacterai sur Kiwii, jeune fille."
+    polly ""
 
-# game/v13/scene13a.rpy:386
+# game/v13/scene13a.rpy:389
 translate francais v13s13a_fdec1f29:
 
     # u "See you around."
-    u "À plus tard."
+    u ""
 
-# game/v13/scene13a.rpy:391
+# game/v13/scene13a.rpy:394
 translate francais v13s13a_8865fb3a:
 
     # polly "See ya guys! Thanks again for coming."
-    polly "À plus les jeunes ! Merci encore d'être venus."
+    polly ""
 
-# game/v13/scene13a.rpy:417
+# game/v13/scene13a.rpy:420
 translate francais v13s13a_43579e8f:
 
     # au "That was... a once in a lifetime opportunity. Thank you so much."
-    au "C'était... une occasion unique dans une vie. Merci beaucoup."
+    au ""
 
-# game/v13/scene13a.rpy:422
+# game/v13/scene13a.rpy:425
 translate francais v13s13a_ab775e7e:
 
     # u "*Chuckles* Are you kidding? I had a blast. You're more than welcome."
-    u "*Rire* Tu plaisantes ? Je me suis éclaté. Tu es plus que la bienvenue."
+    u ""
 
-# game/v13/scene13a.rpy:427
+# game/v13/scene13a.rpy:430
 translate francais v13s13a_39a1519b:
 
     # au "I need to go call my sister... Goodnight, [name]."
-    au "Je dois aller appeler ma soeur... Bonne nuit, [name]."
+    au ""
 
-# game/v13/scene13a.rpy:432
+# game/v13/scene13a.rpy:435
 translate francais v13s13a_4d87978c:
 
     # u "Goodnight, Aubs."
-    u "Bonne nuit, Aubs."
+    u ""
 
 translate francais strings:
 
-    # game/v13/scene13a.rpy:107
+    # game/v13/scene13a.rpy:109
     old "Defend her sister"
-    new "Défendez sa sœur"
+    new ""
 
-    # game/v13/scene13a.rpy:281
+    # game/v13/scene13a.rpy:283
     old "Hell, yeah!"
-    new "Putain, ouais !"
+    new ""
+

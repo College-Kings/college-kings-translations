@@ -1,6103 +1,6104 @@
-﻿# TODO: Translation updated at 2021-12-22 00:35
+﻿# TODO: Translation updated at 2022-08-22 08:06
 
 # game/v12/scene7.rpy:7
 translate francais v12s7_free_roam_spoken_c7964da2:
 
     # u "(I've already spoken to them, but I could still murder them)"
-    u "(Je lui ai déjà parlé, mais je pourrais l'assassiner)"
+    u ""
 
 # game/v12/scene7.rpy:26
 translate francais v12s7fr_99e1200b:
 
     # lee "Students, please gather around. I have something very exciting to announce."
-    lee "Les jeunes, s'il vous plaît rassemblez-vous autour de moi. J'ai quelque chose de très excitant à annoncer."
+    lee ""
 
 # game/v12/scene7.rpy:38
 translate francais v12s7fr_d149b9a8:
 
     # lee "First of all, it's been brought to my attention that many of you were unaware that we'd be taking the ferry rather than flying."
-    lee "Tout d'abord, il a été porté à mon attention que beaucoup d'entre vous ne savaient pas que nous allions prendre le ferry plutôt que l'avion."
+    lee ""
 
 # game/v12/scene7.rpy:39
 translate francais v12s7fr_995bf04a:
 
     # lee "This was a last-minute adjustment, so I do apologize. Although, I think this voyage will be well worth it."
-    lee "C'était un changement de dernière minute, alors je m'en excuse. Cependant, je pense que ce voyage en vaudra la peine."
+    lee ""
 
 # game/v12/scene7.rpy:45
 translate francais v12s7fr_37ba52ec:
 
     # ca "It's costing me a lot of money to look out for you, ya know?"
-    ca "Ça me coûte beaucoup d'argent de veiller sur toi, tu sais ?"
+    ca ""
 
 # game/v12/scene7.rpy:50
 translate francais v12s7fr_9e593508:
 
     # sa "Then go home."
-    sa "Alors rentre chez toi."
+    sa ""
 
 # game/v12/scene7.rpy:55
 translate francais v12s7fr_5033d044:
 
     # lee "As you all know, I take great pride in seizing every opportunity I can to teach my students and this ferry ride will be no different."
-    lee "Comme vous le savez tous, je mets un point d'honneur à saisir toutes les occasions qui se présentent à moi pour enseigner à mes élèves, et ce voyage en ferry ne sera pas différent."
+    lee ""
 
 # game/v12/scene7.rpy:56
 translate francais v12s7fr_849ebf66:
 
     # lee "Decades ago, a famous murder was committed on this ferry. A murder that we will, in a way, be re-enacting."
-    lee "Il y a des décennies, un meurtre célèbre a été commis sur ce ferry. Un meurtre que nous allons, en quelque sorte, reconstituer. "
+    lee ""
 
 # game/v12/scene7.rpy:61
 translate francais v12s7fr_4b880798:
 
     # ri "Wait, will we be playing characters?!"
-    ri "Attendez, on va jouer des personnages ?!"
+    ri ""
 
 # game/v12/scene7.rpy:66
 translate francais v12s7fr_f0975ca0:
 
     # au "I hope so. Murder and roleplay? I'm getting a little too excited... *Chuckles*"
-    au "Je l'espère. Meurtre et jeu de rôle ? Je suis trop impatiente... *Rire*"
+    au ""
 
 # game/v12/scene7.rpy:71
 translate francais v12s7fr_e9e0a07a:
 
     # ri "*Laughs* I hope you don't have to play a virgin nun."
-    ri "*Rire* J'espère que tu n'auras pas à jouer une nonne vierge."
+    ri ""
 
 # game/v12/scene7.rpy:76
 translate francais v12s7fr_a1e3dff0:
 
     # lee "Each student will be given a role to play because we will be re-enacting this murder by playing a murder mystery."
-    lee "Chaque élève se verra attribuer un rôle à jouer car nous allons reconstituer ce meurtre en jouant au \"meurtre mystérieux\"."
+    lee ""
 
 # game/v12/scene7.rpy:91
 translate francais v12s7fr_9a3afaed:
 
     # u "(Well, would you look at that. Looks like I'm going to be getting some blood on these hands.)"
-    u "(Eh bien, regardez-moi ça. On dirait que je vais avoir du sang sur les mains.)"
+    u ""
 
 # game/v12/scene7.rpy:96
 translate francais v12s7fr_4686d0f1:
 
     # lee "On each card there is a detailed description of the character you'll be playing. As well as a marker saying whether or not you are the murderer."
-    lee "Sur chaque carte se trouve une description détaillée du personnage que vous allez jouer. Ainsi qu'un marqueur indiquant si vous êtes ou non le meurtrier."
+    lee ""
 
 # game/v12/scene7.rpy:101
 translate francais v12s7fr_856b12e5:
 
     # imre "Can we please just choose our characters instead?"
-    imre "Est-ce qu'on peut choisir nos personnages à la place d'ceux distribués ?"
+    imre ""
 
 # game/v12/scene7.rpy:106
 translate francais v12s7fr_3d14843e:
 
     # lee "You can not. I purposefully chose the roles you are each being given."
-    lee "Vous ne pouvez pas. J'ai délibérément choisi les rôles qui vous sont attribués."
+    lee ""
 
 # game/v12/scene7.rpy:107
 translate francais v12s7fr_b77c3de9:
 
     # lee "As I said, one of you is the murderer and it's the murderer's job to kill as many students as they can without being caught. Once the murderer is discovered, the game is over."
-    lee "Comme je l'ai dit, l'un d'entre vous est le meurtrier et son travail consiste à tuer autant de personnes que possible sans se faire prendre. Une fois que le meurtrier est découvert, le jeu est terminé."
+    lee ""
 
 # game/v12/scene7.rpy:112
 translate francais v12s7fr_90519592:
 
     # imre "Wait, really?"
-    imre "Attendez, vraiment ?"
+    imre ""
 
 # game/v12/scene7.rpy:117
 translate francais v12s7fr_5bf9f6dc:
 
     # lee "Yes."
-    lee "Oui."
+    lee ""
 
 # game/v12/scene7.rpy:122
 translate francais v12s7fr_e7d8c33d:
 
     # imre "YEAHHH BOY!"
-    imre "YEAHHHH MAN !"
+    imre ""
 
 # game/v12/scene7.rpy:127
 translate francais v12s7fr_fe8b62d2:
 
     # lee "*Sighs* Why does that excite you, Imre?"
-    lee "*Soupirs* Pourquoi cela vous excite-t-il, Imre ?"
+    lee ""
 
 # game/v12/scene7.rpy:132
 translate francais v12s7fr_26a92914:
 
     # imre "Because, I'll just find out who the murderer is and force them to fess up and then boom, game over and I can sleep the rest of the boat ride. *Laughs*"
-    imre "Parce que, j'vais juste trouver qui est l'meurtrier et l'forcer à avouer et ensuite pan, l'jeu est terminé et j'pourrai dormir le reste du voyage. *Rire*"
+    imre ""
 
 # game/v12/scene7.rpy:137
 translate francais v12s7fr_84688c90:
 
     # lee "That's not possible."
-    lee "Ce n'est pas possible."
+    lee ""
 
 # game/v12/scene7.rpy:142
 translate francais v12s7fr_01013027:
 
     # imre "How is it not? It doesn't break any rules."
-    imre "Comment ça pourrait pas l'être ? Ça enfreint aucune règle."
+    imre ""
 
 # game/v12/scene7.rpy:147
 translate francais v12s7fr_a5e83c73:
 
     # lee "As a matter of fact, it does. Students will be FORBIDDEN from breaking character until the murderer has been identified."
-    lee "En fait, si. Les étudiants seront INTERDITS de sortir de leur personnage jusqu'à ce que le meurtrier soit identifié."
+    lee ""
 
 # game/v12/scene7.rpy:152
 translate francais v12s7fr_326cede8:
 
     # imre "And what happens if we do?"
-    imre "Et qu'est-ce qu'il s'passe si on l'fait ?"
+    imre ""
 
 # game/v12/scene7.rpy:157
 translate francais v12s7fr_75c9eb73:
 
     # lee "Do you know how to swim, Imre?"
-    lee "Savez-vous nager, Imre ?"
+    lee ""
 
 # game/v12/scene7.rpy:162
 translate francais v12s7fr_5d1ceeff:
 
     # imre "Yeah...?"
-    imre "Ouais ?"
+    imre ""
 
 # game/v12/scene7.rpy:167
 translate francais v12s7fr_6e8b0b75:
 
     # lee "Good. Because after you choose to break character, you'll be swimming to Paris."
-    lee "Bien. Parce qu'après avoir choisi de briser le personnage, vous nagerez jusqu'à Paris."
+    lee ""
 
 # game/v12/scene7.rpy:172
 translate francais v12s7fr_93ff3184:
 
     # imre "*Laughs*"
-    imre "*Rire*"
+    imre ""
 
 # game/v12/scene7.rpy:177
 translate francais v12s7fr_65760518:
 
     # imre "Oh, you're not joking."
-    imre "Oh, vous plaisantiez pas."
+    imre ""
 
 # game/v12/scene7.rpy:182
 translate francais v12s7fr_aa201a5d:
 
     # am "What if the killer never gets caught? *Laughs*"
-    am "Et si le tueur n'est jamais attrapé ? *Rire*"
+    am ""
 
 # game/v12/scene7.rpy:187
 translate francais v12s7fr_b77481c0:
 
     # lee "That would be very, very impressive and also requires the murderer to be a great listener, someone who is very perceptive, and also a person who can smooth through conversations easily."
-    lee "Ce serait très, très impressionnant et il faudrait aussi que le meurtrier soit un grand auditeur, quelqu'un de très perspicace, et aussi une personne qui passe facilement à travers les conversations."
+    lee ""
 
 # game/v12/scene7.rpy:192
 translate francais v12s7fr_12929590:
 
     # lee "Those three are key."
-    lee "Ces trois capacités sont les clés essentielles."
+    lee ""
 
 # game/v12/scene7.rpy:197
 translate francais v12s7fr_25350ad7:
 
     # au "Okay, so... Do we get anything for doing this? Besides it being fun and something to keep us busy... *Chuckles*"
-    au "Ok, donc... Est-ce qu'on a quelque chose à gagner en faisant ça ? À part le fait que ce soit amusant et que ça nous occupe... *Rire*"
+    au ""
 
 # game/v12/scene7.rpy:202
 translate francais v12s7fr_1c416d43:
 
     # lee "Based on how well the murderer does, and how many kills they achieve... I might be able to think of some type of reward. But, it must wait until Amsterdam to take place as our Paris schedule is already very full."
-    lee "En fonction de l'efficacité du meurtrier et du nombre de meurtres qu'il accomplit... je pourrais penser à une sorte de récompense. Mais, il faut attendre Amsterdam pour qu'elle ait lieu car notre agenda parisien est déjà très chargé."
+    lee ""
 
 # game/v12/scene7.rpy:207
 translate francais v12s7fr_2f32c9ce:
 
     # ry "*Scoffs* So if we aren't the murderer, our only goal is to not get killed? And we don't get rewarded for it?"
-    ry "*Pfff* Donc si on n'est pas le meurtrier, notre seul but est de ne pas être tué ? Et nous ne sommes pas récompensés pour ça ?"
+    ry ""
 
 # game/v12/scene7.rpy:212
 translate francais v12s7fr_95a807aa:
 
     # lee "I know this sounds... Unfair. All in all, the mass murder we will be reenacting today was not fair to the victims."
-    lee "Je sais que ça semble... Injuste. Dans l'ensemble, le meurtre de masse que nous allons reconstituer aujourd'hui n'était pas juste pour les victimes."
+    lee ""
 
 # game/v12/scene7.rpy:213
 translate francais v12s7fr_f4a93cf0:
 
     # lee "Your goal is to make sure the murderer does not get a reward, by catching them as soon as possible."
-    lee "Votre objectif est de faire en sorte que le meurtrier ne reçoive pas de récompense, en l'attrapant le plus rapidement possible."
+    lee ""
 
 # game/v12/scene7.rpy:214
 translate francais v12s7fr_392b4bb8:
 
     # lee "Now, If the murderer does get a reward... I suppose the \"prize\" could be something catered for two. So the murderer will have to share it with one of his or her victims... Fair?"
-    lee "Maintenant, si le meurtrier reçoit une récompense... je crois que \"la récompense\" pourrait être quelque chose pour deux. Donc le meurtrier devra le partager avec une de ses victimes... C'est équitable ?"
+    lee ""
 
 # game/v12/scene7.rpy:219
 translate francais v12s7fr_e3b7af83:
 
     # ry "I mean... I guess?"
-    ry "Euh... J'imagine ?"
+    ry ""
 
 # game/v12/scene7.rpy:224
 translate francais v12s7fr_0b5cc114:
 
     # lee "Let me emphasize that again, DO NOT BREAK CHARACTER. If you think you're safe from prying eyes and free to do whatever you please, you're not."
-    lee "Permettez-moi d'insister à nouveau sur ce point : NE BRISEZ PAS LE PERSONNAGE. Si vous pensez être à l'abri des regards indiscrets et libre de faire ce qui vous plaît, vous ne l'êtes pas."
+    lee ""
 
 # game/v12/scene7.rpy:225
 translate francais v12s7fr_e28aa67a:
 
     # lee "You must assume that I'm always there watching, because I will be. If you have something to say, you must say it in character."
-    lee "Vous devez vous dire que je suis toujours là en train de regarder, parce que je le ferai. Si vous avez quelque chose à dire, vous devez le dire dans le rôle du personnage."
+    lee ""
 
 # game/v12/scene7.rpy:230
 translate francais v12s7fr_5cc8099a:
 
     # ri "*Southern Accent* Once again, the wealthy are being brought down by the ways of the lazy."
-    ri "*Accent du Sud* Une fois de plus, les riches sont écrasés par les méthodes des paresseux."
+    ri ""
 
 # game/v12/scene7.rpy:235
 translate francais v12s7fr_fcddbb1b:
 
     # lee "And that's why she's my favorite student! Already playing her rich woman role."
-    lee "Et c'est pour ça que c'est mon étudiante préférée ! Elle joue déjà son rôle de femme riche."
+    lee ""
 
 # game/v12/scene7.rpy:240
 translate francais v12s7fr_2f0ff11a:
 
     # imre "BRO WHAT?! YOU MADE ME SOMEONE'S WIFE?!?!"
-    imre "QUOI ?! VOUS AVEZ FAIT D'MOI LA FEMME DE QUELQU'UN D'AUTRE ?!?!"
+    imre ""
 
 # game/v12/scene7.rpy:245
 translate francais v12s7fr_30910191:
 
     # charli "*Laughs*"
-    charli "*Rire*"
+    charli ""
 
 # game/v12/scene7.rpy:250
 translate francais v12s7fr_636a0944:
 
     # ry "*Laughs*"
-    ry "*Rire*"
+    ry ""
 
 # game/v12/scene7.rpy:255
 translate francais v12s7fr_7312d2da:
 
     # lee "I wouldn't be so quick to laugh, Ryan. You're playing his spouse."
-    lee "Je ne serais pas si prompt à rire, Ryan. Vous jouez son époux."
+    lee ""
 
 # game/v12/scene7.rpy:260
 translate francais v12s7fr_2a35555b:
 
     # ry "WAIT, WHAT?"
-    ry "ATTENDEZ, QUOI ?"
+    ry ""
 
 # game/v12/scene7.rpy:265
 translate francais v12s7fr_acc49ca1:
 
     # charli "*Laughs* Welcome to the club \"rainbow unicorn\"."
-    charli "*Rire* Bienvenue au club des \"licornes arc-en-ciel\"."
+    charli ""
 
 # game/v12/scene7.rpy:270
 translate francais v12s7fr_ae3df182:
 
     # imre "I don't care if I have to act like a girl or not, I'll still beat your ass Charli."
-    imre "J'm'en fous si j'dois agir comme une fille ou pas, j'vais quand même te tabasser Charli."
+    imre ""
 
 # game/v12/scene7.rpy:275
 translate francais v12s7fr_eeb14895:
 
     # lee "That won't be possible either. Students, please understand something. I, as your teacher, see and observe everything. Your personalities, your interactions with each other, etc."
-    lee "Ce ne sera pas possible non plus. Chers élèves, comprenez bien quelque chose. Moi, en tant que votre professeur, je vois et j'observe tout. Vos personnalités, vos interactions avec les autres, etc."
+    lee ""
 
 # game/v12/scene7.rpy:276
 translate francais v12s7fr_919601c5:
 
     # lee "The roles I've chosen for you are intended to help you or for my own personal enjoyment. Charli will be playing the role of the Captain."
-    lee "Les rôles que j'ai choisis pour vous sont destinés à vous aider ou pour mon plaisir personnel. Charli jouera le rôle du capitaine."
+    lee ""
 
 # game/v12/scene7.rpy:281
 translate francais v12s7fr_38a207f8:
 
     # charli "Ooh, I like the sound of that. A position of authority."
-    charli "Ooh, j'aime entendre ça. Une position d'autorité."
+    charli ""
 
 # game/v12/scene7.rpy:286
 translate francais v12s7fr_58539459:
 
     # lee "And with power comes great responsibility. So, you will be limited to the Captain's Quarters at all times."
-    lee "Et avec le pouvoir vient une grande responsabilité. Donc, vous serez limité aux quartiers du capitaine à tout moment."
+    lee ""
 
 # game/v12/scene7.rpy:291
 translate francais v12s7fr_f6bacf12:
 
     # charli "I'm not able to walk around the ship?"
-    charli "Je ne peux pas me promener dans le navire ?"
+    charli ""
 
 # game/v12/scene7.rpy:296
 translate francais v12s7fr_b8df84f7:
 
     # lee "You are not."
-    lee "Vous ne pouvez pas."
+    lee ""
 
 # game/v12/scene7.rpy:301
 translate francais v12s7fr_69655a8a:
 
     # charli "*Scoffs* Then how could I possibly catch the murderer?"
-    charli "*Pffff* Alors comment pourrais-je attraper le meurtrier ?"
+    charli ""
 
 # game/v12/scene7.rpy:306
 translate francais v12s7fr_8643a3fb:
 
     # lee "You'll have to depend on your security, Amber. You'll also be able to make announcements over the PA."
-    lee "Vous devrez compter sur la sécurité, Amber. Vous pourrez aussi faire des annonces à la radio."
+    lee ""
 
 # game/v12/scene7.rpy:311
 translate francais v12s7fr_a2a15790:
 
     # charli "Hmm, I guess that'll do."
-    charli "Hmm, je pense que ça fera l'affaire."
+    charli ""
 
 # game/v12/scene7.rpy:316
 translate francais v12s7fr_db2aca54:
 
     # am "Ahh yeah, I'm so ready to play into this. I'm not holding back either. This was probably the worst role I could've been given."
-    am "Ahh ouais, je suis vraiment prête à jouer à ce jeu. Je vais pas me retenir non plus. C'est certainement le pire rôle qu'on aurait pu me donner."
+    am ""
 
 # game/v12/scene7.rpy:321
 translate francais v12s7fr_dddae891:
 
     # lee "Or the best."
-    lee "Ou le meilleur."
+    lee ""
 
 # game/v12/scene7.rpy:326
 translate francais v12s7fr_fd926aac:
 
     # cl "So how do we know who the murderer is? Like, how will they \"kill\" people?"
-    cl "Alors comment sait-on qui est le meurtrier ? Comme, comment va-t-il \"tuer\" des gens ?"
+    cl ""
 
 # game/v12/scene7.rpy:331
 translate francais v12s7fr_4c377cb7:
 
     # lee "The murderer will kill people by pointing at them with a fake finger gun. If you get killed then quietly make your way to the dining hallway. Do not give any hints to any of the players that haven't been killed."
-    lee "Le meurtrier tuera les gens en les pointant du doigt avec un faux pistolet à doigt. Si vous êtes tué, dirigez-vous discrètement vers le couloir de la salle à manger. Ne donnez aucun indice aux joueurs qui n'ont pas été tués."
+    lee ""
 
 # game/v12/scene7.rpy:336
 translate francais v12s7fr_ffea3c8c:
 
     # imre "Wait, so-"
-    imre "Attendez, donc-"
+    imre ""
 
 # game/v12/scene7.rpy:341
 translate francais v12s7fr_e8905f97:
 
     # lee "Using any sort of loophole as a way to sabotage the game will result in you getting thrown overboard."
-    lee "Si vous utilisez une brèche quelconque pour saboter le jeu, vous serez jeté par-dessus bord."
+    lee ""
 
 # game/v12/scene7.rpy:346
 translate francais v12s7fr_75bbf242:
 
     # imre "*Chuckles* You can't actually throw us overboard."
-    imre "*Rire* Vous pouvez pas vraiment nous jeter par-dessus bord."
+    imre ""
 
 # game/v12/scene7.rpy:351
 translate francais v12s7fr_b41a0021:
 
     # lee "Oh? I'm pretty sure your school waiver says I can do anything with the intention of education as long as it doesn't harm the students. And you'll definitely be learning a lesson as you struggle your way to Paris."
-    lee "Oh ? Je suis presque sûr que le règlement de votre école dit que je peux faire n'importe quoi dans l'intention d'éduquer, tant que ça ne nuit pas aux élèves. Et vous apprendrez certainement une leçon en luttant pour rejoindre Paris."
+    lee ""
 
 # game/v12/scene7.rpy:356
 translate francais v12s7fr_f2a7d0fd:
 
     # imre "Okay, fine. I won't mess up your stupid game."
-    imre "Ok, très bien. J'vais pas gâcher votre stupide jeu."
+    imre ""
 
 # game/v12/scene7.rpy:361
 translate francais v12s7fr_a4a9a024:
 
     # lee "Very good. Again everyone, the only way the murderer gets caught is by someone witnessing the crime. Does anyone have any questions?"
-    lee "Très bien. Encore une fois, le seul moyen d'attraper le meurtrier est que quelqu'un soit témoin d'un crime. Est-ce que quelqu'un a des questions ?"
+    lee ""
 
 # game/v12/scene7.rpy:366
 translate francais v12s7fr_ced09284:
 
     # imre "Umm, is it okay if I just don't play at all?"
-    imre "Hmm, c'est bon si je joue pas du tout ?"
+    imre ""
 
 # game/v12/scene7.rpy:371
 translate francais v12s7fr_f2405098:
 
     # lee "Do you have a reason for skipping the activity other than just not wanting to?"
-    lee "Avez-vous une raison de ne pas participer à l'activité autre que le simple fait de ne pas vouloir le faire ?"
+    lee ""
 
 # game/v12/scene7.rpy:376
 translate francais v12s7fr_9f8d5c57:
 
     # imre "..."
-    imre "..."
+    imre ""
 
 # game/v12/scene7.rpy:381
 translate francais v12s7fr_a559506c:
 
     # lee "I'm not giving you time to think of one, Imre."
-    lee "Je ne vous laisse pas le temps d'en trouver une, Imre."
+    lee ""
 
 # game/v12/scene7.rpy:383
 translate francais v12s7fr_510064b8:
 
     # lee "Everyone will be participating. If that's all then please, grab some props that fit your role and enjoy the murder mystery."
-    lee "Tout le monde participera. Si tout est dit, alors s'il vous plaît, prenez des accessoires qui correspondent à votre rôle et profitez du \"meurtre mystérieux\"."
+    lee ""
 
-# game/v12/scene7.rpy:429
+# game/v12/scene7.rpy:427
 translate francais v12s7_aubrey1_55a53705:
 
     # au "Hey there, handsome. Please make sure you're being careful, okay? I'd hate for you to get hurt, but if you do find yourself needing some love and care, don't forget to come see your favorite nurse. *Chuckles*"
-    au "Hé là, beau gosse. S'il vous plaît, faites attention, d'accord ? Je ne voudrais pas que vous soyez blessé, mais si vous avez besoin d'amour et de soins, n'oubliez pas de venir voir votre infirmière préférée. *Rire*"
+    au ""
 
-# game/v12/scene7.rpy:437
+# game/v12/scene7.rpy:435
 translate francais v12s7_aubrey1_6acc44aa:
 
     # u "Well, my travelling nurse may get a little jealous."
-    u "Eh bien, mon infirmière itinérante pourrait être un peu jalouse."
+    u ""
 
-# game/v12/scene7.rpy:439
+# game/v12/scene7.rpy:437
 translate francais v12s7_aubrey1_52de15a7:
 
     # u "As a world-famous boxer I'm always getting bumps and bruises so I have to travel with a nurse, but I wanted a little break from everyone so she's not here."
-    u "En tant que boxeur de renommée mondiale, j'ai toujours des bosses et des bleus, c'est pourquoi je dois voyager avec une infirmière, mais je voulais faire un petit break avec tout le monde, alors elle n'est pas là."
+    u ""
 
-# game/v12/scene7.rpy:440
+# game/v12/scene7.rpy:438
 translate francais v12s7_aubrey1_c2c16c19:
 
     # u "I actually do have a little pain from my last fight, but that's to be expected after all the adrenaline's worn off."
-    u "En fait, j'ai un peu mal depuis mon dernier combat, mais c'est normal une fois que l'adrénaline est retombée."
+    u ""
 
-# game/v12/scene7.rpy:445
+# game/v12/scene7.rpy:443
 translate francais v12s7_aubrey1_f94f3d77:
 
     # au "Aww, you poor thing. Don't force yourself to sit in pain. I can help work out the tension if you'd like?"
-    au "Aww, pauvre petite chose. Ne vous forcez pas à supporter la douleur. Je peux vous aider à soulager la tension si vous le souhaitez ?"
+    au ""
 
-# game/v12/scene7.rpy:450
+# game/v12/scene7.rpy:448
 translate francais v12s7_aubrey1_08bc7815:
 
     # u "*Chuckles* I'm fine, trust me."
-    u "*Rire* Je vais bien, croyez-moi."
+    u ""
 
-# game/v12/scene7.rpy:455
+# game/v12/scene7.rpy:453
 translate francais v12s7_aubrey1_c821d04b:
 
     # au "If you say so. *Chuckles* So, tell me about that last fight of yours. I don't get to see much of the outside world since I'm always working on the ship. Was it a pretty big fight?"
-    au "Si vous le dites. *Rire* Alors, parlez-moi de votre dernier combat. Je n'ai pas l'occasion de voir beaucoup de choses du monde extérieur puisque je travaille toujours sur le ferry. C'était un combat important ?"
+    au ""
 
-# game/v12/scene7.rpy:463
+# game/v12/scene7.rpy:461
 translate francais v12s7_aubrey1_b16fed3c:
 
     # u "It was a serious fight. I'm surprised you haven't heard about it yet. It feels as if the whole world watched it."
-    u "C'était un combat sérieux. Je suis surpris que vous n'en ayez pas encore entendu parler. C'est comme si le monde entier l'avait regardé."
+    u ""
 
-# game/v12/scene7.rpy:470
+# game/v12/scene7.rpy:468
 translate francais v12s7_aubrey1_4046006a:
 
     # u "Nah, it was light work. No fight is a big fight for me anymore."
-    u "Nah, c'était un travail facile. Aucun combat n'est trop difficile pour moi désormais."
+    u ""
 
-# game/v12/scene7.rpy:475
+# game/v12/scene7.rpy:473
 translate francais v12s7_aubrey1_e0ef9d2e:
 
     # au "*Laughs*"
-    au "*Rire*"
+    au ""
 
-# game/v12/scene7.rpy:480
+# game/v12/scene7.rpy:478
 translate francais v12s7_aubrey1_4075a964:
 
     # u "So this is how it starts. The bell rings and he just dashes towards me throwing swing after swing. I'm dodging and weaving, dodging and weaving. He's not landing a single hit."
-    u "Alors c'est comme ça que ça a commencé. La cloche a sonné et il s'est précipité vers moi en lançant coup sur coup. Je l'esquive et je m'écarte, j'esquive et je m'écarte. Il réussit pas un seul coup."
+    u ""
 
-# game/v12/scene7.rpy:485
+# game/v12/scene7.rpy:483
 translate francais v12s7_aubrey1_e1f58f87:
 
     # au "Wowww! You're that good, huh?"
-    au "Wowww ! Vous êtes si doué, hein ?"
+    au ""
 
-# game/v12/scene7.rpy:490
+# game/v12/scene7.rpy:488
 translate francais v12s7_aubrey1_68d93517:
 
     # u "Never lost a fight."
-    u "Je n'ai jamais perdu un combat."
+    u ""
 
-# game/v12/scene7.rpy:495
+# game/v12/scene7.rpy:493
 translate francais v12s7_aubrey1_a3349de3:
 
     # au "Ooh, impressive. *Chuckles* What happened next?"
-    au "Ooh, impressionnant. *Rire* Que s'est-il passé ensuite ?"
+    au ""
 
-# game/v12/scene7.rpy:500
+# game/v12/scene7.rpy:498
 translate francais v12s7_aubrey1_d0d40549:
 
     # u "So like I said, I'm dodging every swing and thinking that he's got nothing on me."
-    u "Donc comme je l'ai dit, j'esquive chaque coup et je pense qu'il peut rien contre moi."
+    u ""
 
-# game/v12/scene7.rpy:501
+# game/v12/scene7.rpy:499
 translate francais v12s7_aubrey1_08d254e1:
 
     # u "I end up getting a little cocky and drop my arms to taunt him a bit, when suddenly out of nowhere he slugs me real good right across the jaw."
-    u "Je finis par être un peu arrogant et je baisse les bras pour le narguer un peu, quand soudain, sorti de nulle part, il me donne une sacrée frappe en pleine mâchoire."
+    u ""
 
-# game/v12/scene7.rpy:502
+# game/v12/scene7.rpy:500
 translate francais v12s7_aubrey1_3bf9157a:
 
     # u "He didn't knock me out, but the hit was just hard enough for me to start taking the fight a little bit more seriously."
-    u "Il m'a pas mis KO, mais le coup était juste assez fort pour que je commence à prendre le combat un peu plus au sérieux."
+    u ""
 
-# game/v12/scene7.rpy:507
+# game/v12/scene7.rpy:505
 translate francais v12s7_aubrey1_30d3f5cf:
 
     # au "Is that why you're hurting a bit, from the jaw punch?"
-    au "C'est pour ça que vous avez un peu mal, à cause du coup de poing à la mâchoire ?"
+    au ""
 
-# game/v12/scene7.rpy:512
+# game/v12/scene7.rpy:510
 translate francais v12s7_aubrey1_15142b9c:
 
     # u "That punch and many more."
-    u "Ce coup et bien d'autres encore."
+    u ""
 
-# game/v12/scene7.rpy:517
+# game/v12/scene7.rpy:515
 translate francais v12s7_aubrey1_6e7f7767:
 
     # au "So how'd you come back and win it after that horrible hit?"
-    au "Alors comment avez-vous fait pour vous reprendre et gagner après cet horrible coup ?"
+    au ""
 
-# game/v12/scene7.rpy:522
+# game/v12/scene7.rpy:520
 translate francais v12s7_aubrey1_64eb6ebe:
 
     # u "Apparently he could tell how good of a hit he got on me because with a big smile on his face he began raising his hands in the air as if he had won, and that was all I needed to finish him."
-    u "Apparemment, il a remarqué la qualité du coup qu'il m'a donné, car avec un grand sourire, il a commencé à lever les mains en l'air comme s'il avait gagné, et c'est tout ce dont j'avais besoin pour l'achever."
+    u ""
 
-# game/v12/scene7.rpy:527
+# game/v12/scene7.rpy:525
 translate francais v12s7_aubrey1_4d80f7d1:
 
     # au "*Gasps* Finish him?! *Chuckles*"
-    au "*Gasps* L'achever ? ! *Rire*"
+    au ""
 
-# game/v12/scene7.rpy:532
+# game/v12/scene7.rpy:530
 translate francais v12s7_aubrey1_e441b188:
 
     # u "*Chuckles* I hit him as hard as I could square in the gut. Then again and again until he couldn't even manage to block himself."
-    u "*Rire* Je l'ai frappé aussi fort que possible en plein dans le ventre. Puis encore et encore jusqu'à ce qu'il n'arrive plus à se protéger."
+    u ""
 
-# game/v12/scene7.rpy:533
+# game/v12/scene7.rpy:531
 translate francais v12s7_aubrey1_45efec3e:
 
     # u "He clung on to me in an attempt to not fall down. Finally, I landed my last gut punch as hard as I could and he fell to the ground, knocked out cold."
-    u "Il s'est accroché à moi pour essayer de pas tomber. Finalement, j'ai donné un dernier coup aussi fort que possible et il est tombé au sol, KO."
+    u ""
 
-# game/v12/scene7.rpy:538
+# game/v12/scene7.rpy:536
 translate francais v12s7_aubrey1_a384f93a:
 
     # au "Oh my goodness... I can't even imagine. He must have needed some serious medical attention after the fight."
-    au "Oh mon Dieu... Je ne peux même pas imaginer. Il a dû avoir besoin de sérieux soins médicaux après le combat."
+    au ""
 
-# game/v12/scene7.rpy:543
+# game/v12/scene7.rpy:541
 translate francais v12s7_aubrey1_ed067e3d:
 
     # u "Oh yeah. They actually had to carry him out of the place. I'm one tough son of a bitch."
-    u "Oh oui. En fait, ils ont dû le porter hors du ring. Je suis un fils de pute coriace."
+    u ""
 
-# game/v12/scene7.rpy:548
+# game/v12/scene7.rpy:546
 translate francais v12s7_aubrey1_52ded90b:
 
     # au "I think I'd like to see exactly how tough you actually are. I... I think I see some bruising. Oh my gosh, and your eye is cut! I'm gonna need to patch that up immediately."
-    au "Je pense que j'aimerais voir à quel point vous êtes fort. Je... Je crois que je vois quelques bleus. Oh mon dieu, et votre paupière est coupée ! Je vais avoir besoin de la rafistoler immédiatement."
+    au ""
 
-# game/v12/scene7.rpy:557
+# game/v12/scene7.rpy:555
 translate francais v12s7_aubrey1_35084c47:
 
     # au "Oh, sweetie. If I didn't take a look at this I wouldn't be able to call myself a nurse. Please come by my office so I can get you fixed up."
-    au "Oh, chéri. Si je ne regardais pas ça, je ne pourrais pas me considérer comme une infirmière. S'il vous plaît venez dans mon cabinet pour que je puisse vous soigner."
+    au ""
 
-# game/v12/scene7.rpy:563
+# game/v12/scene7.rpy:558
 translate francais v12s7_aubrey1_6a2916e5:
 
     # au "I'll need some privacy to give the best treatment possible."
-    au "J'aurai besoin d'un peu d'intimité pour donner le meilleur traitement possible."
+    au ""
 
-# game/v12/scene7.rpy:568
+# game/v12/scene7.rpy:563
 translate francais v12s7_aubrey1_4998a13d:
 
     # au "*Whisper* Meet me in the bathroom."
-    au "*Chuchote* Retrouve-moi dans la salle de bain."
+    au ""
 
-# game/v12/scene7.rpy:574
+# game/v12/scene7.rpy:569
 translate francais v12s7_aubrey1_d217aa40:
 
     # au "I'd prefer a little bit of privacy away from hawkeye Mr. Lee, so come hang with me in the bathroom."
-    au "*Chuchote* Je préfère un peu d'intimité loin de Mr Lee, alors viens me rejoindre aux toilettes."
+    au ""
 
-# game/v12/scene7.rpy:579
+# game/v12/scene7.rpy:574
 translate francais v12s7_aubrey1_181bf28f:
 
     # u "Whatever you say Miss Nurse. *Chuckles*"
-    u "Comme vous voulez, Mademoiselle l'infirmière. *Rire*"
+    u ""
 
-# game/v12/scene7.rpy:584
+# game/v12/scene7.rpy:579
 translate francais v12s7_aubrey1_40033e41:
 
     # au "Good, and try not to take too long. Those injuries look very, very bad. *Chuckles*"
-    au "Bien, et essayez de ne pas prendre trop de temps. Ces blessures ont l'air très, très mauvaises. *Rire*"
+    au ""
 
-# game/v12/scene7.rpy:596
+# game/v12/scene7.rpy:591
 translate francais v12s7_aubrey1_80057659:
 
     # u "Haha, really? I didn't even feel it. After my fight I left the arena and hopped right on the ship. Haven't even had a moment to take a look."
-    u "Haha, vraiment ? Je sentait absolument rien. Après mon combat, j'ai quitté l'arène et j'ai sauté dans le navire. Je n'ai même pas eu le temps de jeter un coup d'oeil."
+    u ""
 
-# game/v12/scene7.rpy:601
+# game/v12/scene7.rpy:596
 translate francais v12s7_aubrey1_4952307a:
 
     # au "My oh my... You really are one tough cookie I suppose. Maybe you could protect me from whoever this murderer may be?"
-    au "Mon... oh mon... Vous êtes vraiment un dur à cuire je suppose. Peut-être pourriez-vous me protéger de ce meurtrier, quel qu'il soit ?"
+    au ""
 
-# game/v12/scene7.rpy:606
+# game/v12/scene7.rpy:601
 translate francais v12s7_aubrey1_8e02de0f:
 
     # u "I'd love to stick around but I've got more investigating to do... Although, no need to worry. I'll be back to check on you... *Chuckles*"
-    u "J'aimerais rester dans le coin mais j'ai d'autres enquêtes à mener... Mais vous inquiétez pas. Je reviendrai vous voir... *Rire*"
+    u ""
 
-# game/v12/scene7.rpy:611
+# game/v12/scene7.rpy:606
 translate francais v12s7_aubrey1_f74af285:
 
     # au "Looking forward to it, Mr. Boxer."
-    au "J'ai hâte, Mr le boxeur."
+    au ""
 
-# game/v12/scene7.rpy:627
+# game/v12/scene7.rpy:622
 translate francais v12s7_aubrey2_d508c54e:
 
     # au "Finally! Took you long enough..."
-    au "Enfin ! Vous en avez mis du temps..."
+    au ""
 
-# game/v12/scene7.rpy:635
+# game/v12/scene7.rpy:630
 translate francais v12s7_aubrey2_cd56ceee:
 
     # u "What can I say, a lot of people are interested in champ's attention."
-    u "Que puis-je dire, beaucoup de gens sont intéressés par mes histoires de champion."
+    u ""
 
-# game/v12/scene7.rpy:640
+# game/v12/scene7.rpy:635
 translate francais v12s7_aubrey2_f84e5aa6:
 
     # au "You don't have to be in character here. *Laughs*"
-    au "Tu n'as pas besoin d'être dans ton personnage ici. *Rire*"
+    au ""
 
-# game/v12/scene7.rpy:645
+# game/v12/scene7.rpy:640
 translate francais v12s7_aubrey2_285fb202:
 
     # u "You sure? I'm not in the mood for a swim."
-    u "Tu es sûre ? Je suis pas d'humeur à me baigner."
+    u ""
 
-# game/v12/scene7.rpy:650
+# game/v12/scene7.rpy:645
 translate francais v12s7_aubrey2_50515845:
 
     # au "*Laughs* I'd save you, don't worry."
-    au "*Rire* Je te sauverais, ne t'inquiète pas."
+    au ""
 
-# game/v12/scene7.rpy:655
+# game/v12/scene7.rpy:650
 translate francais v12s7_aubrey2_fdc6ad7b:
 
     # u "Is that so?"
-    u "C'est vrai ?"
+    u ""
 
-# game/v12/scene7.rpy:660
+# game/v12/scene7.rpy:655
 translate francais v12s7_aubrey2_0dbec01a:
 
     # au "That's so. Now, how about we make this murder mystery a little more... exhilarating."
-    au "C'est vrai. Maintenant, que dirais-tu de rendre ce meurtre mystérieux un peu plus... exhilarant."
+    au ""
 
-# game/v12/scene7.rpy:665
+# game/v12/scene7.rpy:660
 translate francais v12s7_aubrey2_b3f03061:
 
     # u "Exhilarating? What do you have in mind, doc? *Chuckles*"
-    u "Exhilarant, quel mot ! Qu'avez-vous à l'esprit, doc ? *Rire*"
+    u ""
 
-# game/v12/scene7.rpy:676
+# game/v12/scene7.rpy:672
 translate francais v12s7_aubrey2_95ed2fb2:
 
     # u "Oh... Yeah, this is definitely more interesting than a murder."
-    u "Oh... Ouais, c'est définitivement plus intéressant qu'un meurtre."
+    u ""
 
-# game/v12/scene7.rpy:685
+# game/v12/scene7.rpy:681
 translate francais v12s7_aubrey2_554d0393:
 
     # au "Let's make this a little more enjoyable, shall we [name]?"
-    au "Rendons cela un peu plus agréable, veux-tu [name] ?"
+    au ""
 
-# game/v12/scene7.rpy:690
+# game/v12/scene7.rpy:686
 translate francais v12s7_aubrey2_c65a40df:
 
     # u "Absolu-"
-    u "Absolu-"
+    u ""
 
-# game/v12/scene7.rpy:693
+# game/v12/scene7.rpy:689
 translate francais v12s7_aubrey2_1222aeaa:
 
     # unknown "Could've sworn I heard people talking in here... Guess not."
-    unknown "J'aurais juré avoir entendu des gens parler ici... Je pense que non, en fait."
+    unknown ""
 
-# game/v12/scene7.rpy:700
+# game/v12/scene7.rpy:696
 translate francais v12s7_aubrey2_e958e119:
 
     # au "Look at us getting into trouble together. *Chuckles*"
-    au "Regarde-nous en train de nous attirer des ennuis ensemble. *Rire*"
+    au ""
 
-# game/v12/scene7.rpy:705
+# game/v12/scene7.rpy:701
 translate francais v12s7_aubrey2_ddfa5b17:
 
     # u "I'm just following the doctor's orders."
-    u "Je fais que suivre les ordres de l'infirmière."
+    u ""
 
-# game/v12/scene7.rpy:710
+# game/v12/scene7.rpy:706
 translate francais v12s7_aubrey2_08a164e9:
 
     # au "Haha, we better get out of here if we want to avoid getting into trouble. You go ahead and leave first, I'll be out in a few."
-    au "Haha, nous ferions mieux de partir d'ici si nous voulons éviter d'avoir des ennuis. Vas-y et pars en premier, je serai là dans quelques instants."
+    au ""
 
-# game/v12/scene7.rpy:715
+# game/v12/scene7.rpy:711
 translate francais v12s7_aubrey2_dcedc1ed:
 
     # u "Yes ma'am."
-    u "Oui, m'dame."
+    u ""
 
-# game/v12/scene7.rpy:736
+# game/v12/scene7.rpy:732
 translate francais v12s7_aubrey_kill_fda23e9a:
 
     # u "Boom."
-    u "Pan."
+    u ""
 
-# game/v12/scene7.rpy:744
+# game/v12/scene7.rpy:740
 translate francais v12s7_aubrey_kill_b272e20d:
 
     # au "What? Ah, ohhhhhh. *Laughs* You're the murderer. So you get a pretty, innocent girl like me alone in the bathroom and decide to kill her, huh?"
-    au "Quoi ? Ah, ohhhhhh. *Rire* Tu es le meurtrier. Donc tu prends une jolie, innocente fille comme moi, seule dans la salle de bain et tu décides de la tuer, hein ?"
+    au ""
 
-# game/v12/scene7.rpy:749
+# game/v12/scene7.rpy:745
 translate francais v12s7_aubrey_kill_8fa6f55d:
 
     # u "The perfect crime."
-    u "Le crime parfait."
+    u ""
 
-# game/v12/scene7.rpy:754
+# game/v12/scene7.rpy:750
 translate francais v12s7_aubrey_kill_e0ef9d2e:
 
     # au "*Laughs*"
-    au "*Rire*"
+    au ""
 
-# game/v12/scene7.rpy:760
+# game/v12/scene7.rpy:756
 translate francais v12s7_aubrey_kill_67ba6516:
 
     # u "We'll catch up later. I've got things to see still."
-    u "On se retrouve plus tard. J'ai encore des choses à voir."
+    u ""
 
-# game/v12/scene7.rpy:762
+# game/v12/scene7.rpy:758
 translate francais v12s7_aubrey_kill_6266df32:
 
     # u "We'll catch up later. I've got things to see and people to kill."
-    u "On se retrouve plus tard. J'ai des trucs à voir et des gens à tuer."
+    u ""
 
-# game/v12/scene7.rpy:767
+# game/v12/scene7.rpy:763
 translate francais v12s7_aubrey_kill_12a1bca8:
 
     # au "What's wrong, [name]? You don't wanna kiss the pretty zombie girl?"
-    au "Qu'est-ce qui ne va pas, [name] ? Tu ne veux pas embrasser la jolie fille zombie ?"
+    au ""
 
-# game/v12/scene7.rpy:772
+# game/v12/scene7.rpy:768
 translate francais v12s7_aubrey_kill_1fb9fb61:
 
     # u "*Chuckles* I'm good, thanks."
-    u "*Rire* Ça va, merci."
+    u ""
 
-# game/v12/scene7.rpy:802
+# game/v12/scene7.rpy:796
 translate francais v12s7_riley1_67831040:
 
     # cl "Rich people are the actual problem. You guys get to sit around on stacks of money and the little guys like me have to pick up the slack for this entire country."
-    cl "Les riches sont le vrai problème. Vous pouvez vous asseoir sur des tas d'argent et les petites gens comme moi doivent prendre la relève pour tout le pays."
+    cl ""
 
-# game/v12/scene7.rpy:803
+# game/v12/scene7.rpy:797
 translate francais v12s7_riley1_f2901d8f:
 
     # cl "People like you never wanna pay your taxes but I barely have two pennies to rub together and I still have to pay mine."
-    cl "Les gens comme vous ne veulent jamais payer leurs impôts, mais j'ai à peine deux sous en poche et je dois quand même payer les miens."
+    cl ""
 
-# game/v12/scene7.rpy:811
+# game/v12/scene7.rpy:805
 translate francais v12s7_riley1_fd527808:
 
     # ri "*Southern accent* You don't get rich by spending money, you get rich by saving it. If I'm smart enough to avoid paying taxes then that must mean I'm an extremely smart business woman."
-    ri "*Accent du Sud* On ne s'enrichit pas en dépensant de l'argent, on s'enrichit en l'économisant. Si je suis assez intelligente pour éviter de payer des impôts, ça doit vouloir dire que je suis une femme d'affaires extrêmement intelligente."
+    ri ""
 
-# game/v12/scene7.rpy:816
+# game/v12/scene7.rpy:810
 translate francais v12s7_riley1_9abf1414:
 
     # cl "So you let your greed cause a burden on us lower classes and just don't care?"
-    cl "Donc vous laissez votre cupidité causer un fardeau pour les classes inférieures et vous vous en moquez ?"
+    cl ""
 
-# game/v12/scene7.rpy:821
+# game/v12/scene7.rpy:815
 translate francais v12s7_riley1_9e48ecf7:
 
     # ri "*Southern accent* Look, I know what it's like to be poor. I used to wear your shoes, but you have no idea what it means to be rich."
-    ri "*Accent du Sud* Ecoutez, je sais ce que c'est que d'être pauvre. J'ai déjà été dans votre situation, mais vous n'avez aucune idée de ce que c'est que d'être riche."
+    ri ""
 
-# game/v12/scene7.rpy:822
+# game/v12/scene7.rpy:816
 translate francais v12s7_riley1_03e0c404:
 
     # ri "So do not judge a life you've never lived. The aid I provide for charity couldn't possibly be matched by the number on your taxes or even what you consider to be a fair share."
-    ri "Alors ne jugez pas une vie que vous n'avez jamais vécue. L'aide que j'apporte à la charité ne pourrait pas être égalée par le chiffre de vos impôts ou même par ce que vous considérez comme une part équitable."
+    ri ""
 
-# game/v12/scene7.rpy:827
+# game/v12/scene7.rpy:821
 translate francais v12s7_riley1_0930924d:
 
     # cl "Hmph, I can't stand rich people."
-    cl "Hmph, je ne supporte pas les gens riches."
+    cl ""
 
-# game/v12/scene7.rpy:832
+# game/v12/scene7.rpy:826
 translate francais v12s7_riley1_511ba944:
 
     # ri "And I can't stand the fact that I paid good money for this ride and yet I'm accompanied by the likes of your sort of people."
-    ri "Et je ne peux pas supporter le fait que j'ai payé cher pour ce voyage et que je suis accompagné par des gens comme vous."
+    ri ""
 
-# game/v12/scene7.rpy:837
+# game/v12/scene7.rpy:831
 translate francais v12s7_riley1_7df23c65:
 
     # cl "You lack a heart, lady. And what happened to your accent? *Chuckles*"
-    cl "Vous manquez de coeur, madame. Et qu'est-il arrivé à votre accent ? *Rire*"
+    cl ""
 
-# game/v12/scene7.rpy:842
+# game/v12/scene7.rpy:836
 translate francais v12s7_riley1_2c407f56:
 
     # ri "*Southern accent* I don't know what you're talking about. *Chuckles*"
-    ri "*Accent du Sud* Je ne vois pas de quoi vous parlez. *Rire*"
+    ri ""
 
-# game/v12/scene7.rpy:847
+# game/v12/scene7.rpy:841
 translate francais v12s7_riley1_00aa13ae:
 
     # u "You ladies have room over here for a world renowned boxer such as myself?"
-    u "Vous avez de la place ici pour un boxeur de renommée mondiale comme moi ?"
+    u ""
 
-# game/v12/scene7.rpy:852
+# game/v12/scene7.rpy:846
 translate francais v12s7_riley1_fbfce974:
 
     # ri "*Southern accent* Tell me eyes deceive me! You're the fighter that took down George Knight The Giant."
-    ri "*Accent du Sud* Dites-moi que mes yeux me jouent des tours ! Vous êtes le combattant qui a mis à terre George Knight le Géant."
+    ri ""
 
-# game/v12/scene7.rpy:857
+# game/v12/scene7.rpy:851
 translate francais v12s7_riley1_0ee97d99:
 
     # u "That would be me."
-    u "C'est bien moi."
+    u ""
 
-# game/v12/scene7.rpy:862
+# game/v12/scene7.rpy:856
 translate francais v12s7_riley1_2298e148:
 
     # ri "*Southern accent* And now my confusion is all too much. It makes sense why the wealthy and a man such as yourself would be here..."
-    ri "*Accent du Sud* Et maintenant ma confusion est totale. Il est logique que les riches et un homme tel que vous soient ici..."
+    ri ""
 
-# game/v12/scene7.rpy:863
+# game/v12/scene7.rpy:857
 translate francais v12s7_riley1_509bfb19:
 
     # ri "But I can't understand why Miss Blue Collar here would be allowed to join us."
-    ri "Mais je ne comprends pas pourquoi Mlle Travailleuse est autorisée à se joindre à nous."
+    ri ""
 
-# game/v12/scene7.rpy:869
+# game/v12/scene7.rpy:863
 translate francais v12s7_riley1_67aa1ac1:
 
     # cl "I'm actually quite sure he enjoys my company more than yours."
-    cl "En fait, je suis sûr qu'il apprécie plus ma compagnie que la vôtre."
+    cl ""
 
-# game/v12/scene7.rpy:874
+# game/v12/scene7.rpy:868
 translate francais v12s7_riley1_c075a236:
 
     # ri "*Shocked* Oh... I see."
-    ri "*Surprise* Oh... Je vois."
+    ri ""
 
-# game/v12/scene7.rpy:881
+# game/v12/scene7.rpy:874
 translate francais v12s7_riley1_dc8a40b2:
 
     # cl "The boxer comes from a humble beginning as well and I'm sure he's not as demeaning as you are towards people during these hard times."
-    cl "Le boxeur vient lui aussi d'un milieu modeste et je suis sûr qu'il n'est pas aussi méprisant que vous envers les gens, en ces temps difficiles."
+    cl ""
 
-# game/v12/scene7.rpy:886
+# game/v12/scene7.rpy:879
 translate francais v12s7_riley1_83f549e3:
 
     # u "Of course, we can all get along no matter who we are or where we've come from."
-    u "Bien sûr, nous pouvons tous nous entendre, peu importe qui nous sommes ou d'où nous venons."
+    u ""
 
-# game/v12/scene7.rpy:891
+# game/v12/scene7.rpy:884
 translate francais v12s7_riley1_5bdc25d9:
 
     # ri "*Southern accent* I suppose."
-    ri "*Accent du Sud* Je pense."
+    ri ""
 
-# game/v12/scene7.rpy:896
+# game/v12/scene7.rpy:889
 translate francais v12s7_riley1_5e77c0c0:
 
     # cl "..."
-    cl "..."
+    cl ""
 
-# game/v12/scene7.rpy:898
+# game/v12/scene7.rpy:891
 translate francais v12s7_riley1_ef2f1671:
 
     # u "What?"
-    u "Quoi ?"
+    u ""
 
-# game/v12/scene7.rpy:903
+# game/v12/scene7.rpy:896
 translate francais v12s7_riley1_296e16db:
 
     # cl "I'm running out of things to talk about. *Chuckles*"
-    cl "Je suis à court de sujets de conversation. *Rire*"
+    cl ""
 
-# game/v12/scene7.rpy:908
+# game/v12/scene7.rpy:901
 translate francais v12s7_riley1_b54c0d6f:
 
     # ri "*Southern accent* That's to be expected. Those of the lower classes aren't familiar with as many social topics as the wealthy. Isn't that right, Mr. Boxer?"
-    ri "*Accent du Sud* C'est normal. Les classes inférieures ne connaissent pas autant de sujets de société que les riches. N'est-ce pas, Mr le Boxeur ?"
+    ri ""
 
-# game/v12/scene7.rpy:916
+# game/v12/scene7.rpy:909
 translate francais v12s7_riley1_ef6a1d81:
 
     # u "I'm actually quite poor myself. My manager takes nearly all of my winnings and after expenses, I'm usually left with hardly anything."
-    u "Je suis en fait assez pauvre moi-même. Mon manager prend presque tous mes gains et après les dépenses courantes, il me reste généralement presque rien."
+    u ""
 
-# game/v12/scene7.rpy:921
+# game/v12/scene7.rpy:914
 translate francais v12s7_riley1_9f53c681:
 
     # ri "*Southern accent* Well, your name alone puts you at a higher caliber."
-    ri "*Accent du Sud* Eh bien, votre nom seul vous place dans une catégorie supérieure."
+    ri ""
 
-# game/v12/scene7.rpy:926
+# game/v12/scene7.rpy:919
 translate francais v12s7_riley1_5570505d:
 
     # u "I actually take pride in being without excess. I have exactly what I need and nothing more. So if there's any outsider here, it'd be you."
-    u "En fait, je suis fier d'être sans excès. J'ai exactement ce dont j'ai besoin et rien de plus. Donc s'il y a une personne à part ici, c'est bien vous."
+    u ""
 
-# game/v12/scene7.rpy:931
+# game/v12/scene7.rpy:924
 translate francais v12s7_riley1_b1935730:
 
     # ri "*Southern accent* Absurd."
-    ri "*Accent du Sud* Absurde."
+    ri ""
 
-# game/v12/scene7.rpy:936
+# game/v12/scene7.rpy:929
 translate francais v12s7_riley1_a9ce0910:
 
     # u "The ways of the rich are quite different from the ways of the poor. You've got guys practicing how to throw balls around with a dream of becoming some sports star as we converse our way to changing the world."
-    u "Les manières des riches sont très différentes de celles des pauvres. Vous avez des personnes qui s'entraînent à lancer des balles avec le rêve de devenir une star du sport, tout en parlant de notre façon de changer le monde."
+    u ""
 
-# game/v12/scene7.rpy:941
+# game/v12/scene7.rpy:934
 translate francais v12s7_riley1_70fc0fbb:
 
     # cl "But... You yourself are a sports entertainer."
-    cl "Mais... Vous êtes vous-même un sportif accompli."
+    cl ""
 
-# game/v12/scene7.rpy:946
+# game/v12/scene7.rpy:939
 translate francais v12s7_riley1_b086eb7b:
 
     # u "I've long surpassed dreaming, but I was where you and your people are. So I know what it's like to be there."
-    u "J'ai dépassé depuis longtemps le stade du rêve, mais j'étais là où vous et votre peuple êtes. Donc je sais ce que c'est que d'être en bas."
+    u ""
 
-# game/v12/scene7.rpy:951
+# game/v12/scene7.rpy:944
 translate francais v12s7_riley1_7c9a0d27:
 
     # ri "*Southern accent* As do I."
-    ri "*Accent du Sud* Tout comme moi."
+    ri ""
 
-# game/v12/scene7.rpy:956
+# game/v12/scene7.rpy:949
 translate francais v12s7_riley1_75d45d31:
 
     # cl "Okay guys, serious talk. Have either of you actually seen Mr. Lee? I haven't but, after his little introduction earlier I'm getting kinda freaked out. It feels like I'm being watched."
-    cl "Ok, parlons sérieusement. Est-ce que l'un d'entre vous a déjà vu Mr Lee ? Non, mais après sa petite présentation, je commence à avoir peur. J'ai l'impression qu'on m'observe."
+    cl ""
 
-# game/v12/scene7.rpy:961
+# game/v12/scene7.rpy:954
 translate francais v12s7_riley1_08c982ee:
 
     # u "Feeling a little paranoid, huh? I'm pretty sure that was his goal. *Chuckles*"
-    u "Tu te sens un peu paranoïaque, hein ? Je suis presque sûr que c'était son but. *Rire*"
+    u ""
 
-# game/v12/scene7.rpy:966
+# game/v12/scene7.rpy:959
 translate francais v12s7_riley1_038c4935:
 
     # ri "I wouldn't jump to conclusions, but I'm pretty sure he's got cameras set up or something."
-    ri "Je ne voudrais pas sauter aux conclusions, mais je suis presque sûre qu'il a installé des caméras ou autre."
+    ri ""
 
-# game/v12/scene7.rpy:971
+# game/v12/scene7.rpy:964
 translate francais v12s7_riley1_c8614a4b:
 
     # u "You don't think that's a little much?"
-    u "Tu penses pas que c'est un peu trop ?"
+    u ""
 
-# game/v12/scene7.rpy:976
+# game/v12/scene7.rpy:969
 translate francais v12s7_riley1_d8fae3c9:
 
-    # cl "He's always been serious about his history stuff, or whatever this is supposed to be. *Laughs*"
-    cl "Il a toujours été sérieux à propos de ses trucs d'histoire, ou peu importe ce que c'est censé être. *Rire*"
+    # cl "He's always been serious about his history stuff, or whatever this is supposed to be. *Laughs*."
+    cl ""
 
-# game/v12/scene7.rpy:981
+# game/v12/scene7.rpy:974
 translate francais v12s7_riley1_eeda25fd:
 
     # u "Yeah, that's something I learned the hard way thanks to Imre and Ryan."
-    u "Oui, c'est quelque chose que j'ai appris à la dure grâce à Imre et Ryan."
+    u ""
 
-# game/v12/scene7.rpy:986
+# game/v12/scene7.rpy:979
 translate francais v12s7_riley1_cfd302f9:
 
     # cl "Wait, what happened?"
-    cl "Attends, que s'est-il passé ?"
+    cl ""
 
-# game/v12/scene7.rpy:991
+# game/v12/scene7.rpy:984
 translate francais v12s7_riley1_93dc6c71:
 
     # u "Long story short, when we were in London and they had that argument at the hotel, Mr. Lee tried to get them to work it out."
-    u "Pour faire court, lorsque nous étions à Londres et qu'ils se sont disputés à l'hôtel, Mr Lee a essayé de les faire se comprendre."
+    u ""
 
-# game/v12/scene7.rpy:993
+# game/v12/scene7.rpy:986
 translate francais v12s7_riley1_c07db538:
 
     # u "You can probably guess that they didn't listen to him, and He. Was. Pissed. The walk back to the hotel from being in the middle of nowhere was probably well deserved."
-    u "Tu peux imaginer qu'ils l'ont pas écouté, et il... Était. Enervé. Le retour à l'hôtel seuls après avoir été au milieu de nulle part était certainement bien mérité."
+    u ""
 
-# game/v12/scene7.rpy:997
+# game/v12/scene7.rpy:990
 translate francais v12s7_riley1_0d091282:
 
     # cl "*Laughs* Yeah, that's the Mr. Lee I know."
-    cl "*Rire* Oui, c'est le Mr Lee que je connais."
+    cl ""
 
-# game/v12/scene7.rpy:1002
+# game/v12/scene7.rpy:995
 translate francais v12s7_riley1_99798f4f:
 
     # ri "If we don't get back into character we're most likely gonna end up getting some of that same wrath. *Chuckles*"
-    ri "Si nous ne retournons pas dans notre personnage, nous finirons par subir la même colère. *Rire*"
+    ri ""
 
-# game/v12/scene7.rpy:1007
+# game/v12/scene7.rpy:1000
 translate francais v12s7_riley1_b8f5d1cc:
 
     # u "Have you two found any hints on who may be the murderer?"
-    u "Avez-vous trouvé des indices sur l'identité du meurtrier ?"
+    u ""
 
-# game/v12/scene7.rpy:1012
+# game/v12/scene7.rpy:1005
 translate francais v12s7_riley1_4eff5c0c:
 
     # cl "We've honestly just been messing around with our character., I actually started enjoying it with Riley here acting all serious and feisty. *Chuckles*"
-    cl "Honnêtement, on s'amuse juste avec nos personnages. En fait, j'ai commencé à apprécier le fait que Riley soit là, à agir de manière sérieuse et fougueuse. *Rire*"
+    cl ""
 
-# game/v12/scene7.rpy:1017
+# game/v12/scene7.rpy:1010
 translate francais v12s7_riley1_21040461:
 
     # ri "What if I wasn't acting? *Chuckles* Uh, oh!"
-    ri "Et si je ne jouais pas ? *Rire* Oh, oh !"
+    ri ""
 
-# game/v12/scene7.rpy:1024
+# game/v12/scene7.rpy:1017
 translate francais v12s7_riley1_60992e76:
 
     # u "Alright, ladies. You two enjoy your little rich versus poor debate I've gotta go hit a punching bag or something. *Chuckles*"
-    u "Très bien, mesdames. Profitez de votre petit débat entre riches et pauvres, je dois aller frapper un sac de frappe ou autre. *Rire*"
+    u ""
 
-# game/v12/scene7.rpy:1033
+# game/v12/scene7.rpy:1026
 translate francais v12s7_riley1_551d362e:
 
     # u "Since you're so into this Miss Rich, maybe you should be helping find the killer."
-    u "Puisque vous êtes si impliquée dans cette affaire Miss Rich, peut-être que vous devriez aider à trouver le tueur."
+    u ""
 
-# game/v12/scene7.rpy:1038
+# game/v12/scene7.rpy:1031
 translate francais v12s7_riley1_68b1ff7f:
 
     # ri "*Southern accent* And once again, the rich bear the responsibility. *Laughs* I'll catch you guys later."
-    ri "*Accent du Sud* Et encore une fois, les riches en portent la responsabilité. *Rire* Je vous verrai plus tard alors."
+    ri ""
 
-# game/v12/scene7.rpy:1043
+# game/v12/scene7.rpy:1036
 translate francais v12s7_riley1_2886a6de:
 
     # cl "She's really good at that accent, haha."
-    cl "Elle est vraiment bonne avec cet accent, haha."
+    cl ""
 
-# game/v12/scene7.rpy:1048
+# game/v12/scene7.rpy:1041
 translate francais v12s7_riley1_735a8cdc:
 
     # u "A little too good. *Chuckles*"
-    u "Un peu trop bonne, oui. *Rire*"
+    u ""
 
-# game/v12/scene7.rpy:1053
+# game/v12/scene7.rpy:1046
 translate francais v12s7_riley1_a2db7fa0:
 
     # cl "I'm gonna stand over here by myself for a while so I don't have to be in character. *Chuckles*"
-    cl "Je vais rester ici toute seule pendant un moment pour ne pas avoir à être dans mon personnage.  *Rire*"
+    cl ""
 
-# game/v12/scene7.rpy:1058
+# game/v12/scene7.rpy:1051
 translate francais v12s7_riley1_50566569:
 
     # u "Haha, alright. I'll catch up with you later."
-    u "Haha, d'accord. Je te rejoindrai plus tard."
+    u ""
 
-# game/v12/scene7.rpy:1087
+# game/v12/scene7.rpy:1078
 translate francais v12s7_chloe1_fa8a89f7:
 
     # u "Well, well. If it isn't the richest woman alive."
-    u "Eh bien, eh bien. Si ce n'est pas la femme la plus riche du monde."
+    u ""
 
-# game/v12/scene7.rpy:1095
+# game/v12/scene7.rpy:1086
 translate francais v12s7_chloe1_c65a91c5:
 
     # cl "*Chuckles* I'm the poor one, remember?"
-    cl "*Rire* Je suis une pauvre, tu te souviens ?"
+    cl ""
 
-# game/v12/scene7.rpy:1100
+# game/v12/scene7.rpy:1091
 translate francais v12s7_chloe1_467b0107:
 
     # u "Not at all. We're all rich in our own ways and look at you, you're obviously rich in beauty."
-    u "Pas du tout. Nous sommes tous riches à notre manière et regardez vous, vous êtes manifestement riche en beauté."
+    u ""
 
-# game/v12/scene7.rpy:1105
+# game/v12/scene7.rpy:1096
 translate francais v12s7_chloe1_a7c61d50:
 
     # cl "If you're just trying to butter me up so you can sneak a kill, keep going. *Chuckles* I'm enjoying the compliments... It's hard being poor."
-    cl "Si vous essayez juste de me passer de la pommade pour pouvoir me tuer en douce, continuez. *Rire* J'apprécie les compliments... C'est dur d'être pauvre."
+    cl ""
 
-# game/v12/scene7.rpy:1110
+# game/v12/scene7.rpy:1101
 translate francais v12s7_chloe1_d78f032e:
 
     # u "Being poor is nothing more than a setting stone to being rich, because no one chooses to be poor. That's why I donate half of all my fight proceeds to those in need."
-    u "Être pauvre n'est rien d'autre qu'un tremplin pour être riche, car personne choisit d'être pauvre. C'est pourquoi je fais don de la moitié des recettes de mes combats aux personnes dans le besoin."
+    u ""
 
-# game/v12/scene7.rpy:1115
+# game/v12/scene7.rpy:1106
 translate francais v12s7_chloe1_734eed17:
 
     # cl "Oh, so you're a generous type of man."
-    cl "Oh, alors vous êtes un homme généreux."
+    cl ""
 
-# game/v12/scene7.rpy:1120
+# game/v12/scene7.rpy:1111
 translate francais v12s7_chloe1_552adf0b:
 
     # u "How could I not be? After looking into your eyes it feels like I witnessed a Greek tragedy."
-    u "Comment pourrais-je pas l'être ? Après avoir regardé dans vos yeux, j'ai l'impression de vivre une tragédie grecque."
+    u ""
 
-# game/v12/scene7.rpy:1125
+# game/v12/scene7.rpy:1116
 translate francais v12s7_chloe1_9e049f37:
 
     # cl "Haha, okay. Mr. Lee is definitely getting to you."
-    cl "Haha, ok. Mr Lee est définitivement en train de déteindre sur toi."
+    cl ""
 
-# game/v12/scene7.rpy:1130
+# game/v12/scene7.rpy:1121
 translate francais v12s7_chloe1_88c97af5:
 
     # u "I only thought of that because of the viking thing he made us do in class. *Chuckles*"
-    u "J'ai seulement pensé à ça à cause du truc de viking qu'il nous a fait faire en classe. *Rire*"
+    u ""
 
-# game/v12/scene7.rpy:1135
+# game/v12/scene7.rpy:1126
 translate francais v12s7_chloe1_1d24c766:
 
     # cl "What do Vikings and the Greeks have to do with each other? *Chuckles*"
-    cl "Qu'est-ce que les Vikings et les Grecs ont en commun ? *Rire*"
+    cl ""
 
-# game/v12/scene7.rpy:1140
+# game/v12/scene7.rpy:1131
 translate francais v12s7_chloe1_9a9f8459:
 
     # u "Haha, I have no idea. So, is our poor girl ready for more of Europe or is she starting to get homesick?"
-    u "Haha, je n'en ai aucune idée. Alors, notre pauvre fille est-elle prête à découvrir l'Europe ou commence-t-elle à avoir le mal du pays ?"
+    u ""
 
-# game/v12/scene7.rpy:1145
+# game/v12/scene7.rpy:1136
 translate francais v12s7_chloe1_507229dd:
 
     # cl "Hmm... A little bit of both I guess?"
-    cl "Hmm... Un peu des deux je suppose ?"
+    cl ""
 
-# game/v12/scene7.rpy:1146
+# game/v12/scene7.rpy:1137
 translate francais v12s7_chloe1_656cb66c:
 
     # cl "I'm excited to see Paris because that's something I've always wanted to do, but I have to admit I do feel out of place sometimes considering we're in a completely different country."
-    cl "J'ai hâte de voir Paris parce que c'est quelque chose que j'ai toujours voulu faire, mais je dois admettre que je ne me sens pas à ma place parfois, étant donné que nous sommes dans un pays complètement différent."
+    cl ""
 
-# game/v12/scene7.rpy:1151
+# game/v12/scene7.rpy:1142
 translate francais v12s7_chloe1_29836252:
 
     # u "Well, as a fighter I've traveled the world but could never replace home. That's for sure."
-    u "En tant que combattant, j'ai voyagé dans le monde entier, mais je n'ai jamais pu rentrer chez moi. Voilà qui est sûr."
+    u ""
 
-# game/v12/scene7.rpy:1156
+# game/v12/scene7.rpy:1147
 translate francais v12s7_chloe1_3d53602c:
 
     # cl "Ha, yeah... *Sighs*"
-    cl "Ha, ouais... *Soupirs*"
+    cl ""
 
-# game/v12/scene7.rpy:1161
+# game/v12/scene7.rpy:1152
 translate francais v12s7_chloe1_b5757e27:
 
     # u "What's going on in that blonde head of yours? *Chuckles*"
-    u "Que se passe-t-il dans ta jolie tête blonde ? *Rire*"
+    u ""
 
-# game/v12/scene7.rpy:1166
+# game/v12/scene7.rpy:1157
 translate francais v12s7_chloe1_69882701:
 
     # cl "*Chuckles* It's just... I know that once we get back, this whole Chicks thing is gonna explode and I just really hope I'm gonna be able to handle it all. Even if I can, it's still gonna be super stressful."
-    cl "*Rire* C'est juste que... Je sais qu'une fois qu'on sera rentrés, toute cette histoire de Chicks va exploser et j'espère vraiment être capable de gérer tout ça. Même si je peux, ça va être super stressant."
+    cl ""
 
-# game/v12/scene7.rpy:1173
+# game/v12/scene7.rpy:1164
 translate francais v12s7_chloe1_26142229:
 
     # u "Maybe you can get a plan together so that when you get back you're at least mentally prepared."
-    u "Peut-être que tu peux établir un plan pour qu'à ton retour, tu sois au moins mentalement préparé."
+    u ""
 
-# game/v12/scene7.rpy:1178
+# game/v12/scene7.rpy:1169
 translate francais v12s7_chloe1_1c4665dc:
 
     # cl "I thought about that, but I also want to enjoy this trip. This just might be the last thing I get to enjoy before all the Chicks stuff blows up right in my face."
-    cl "J'y ai pensé, mais je veux aussi profiter de ce voyage. C'est peut-être la dernière chose que j'ai l'occasion d'apprécier avant que tous les trucs des Chicks ne m'explosent à la figure."
+    cl ""
 
-# game/v12/scene7.rpy:1183
+# game/v12/scene7.rpy:1174
 translate francais v12s7_chloe1_34061843:
 
     # u "Yeah, I get that. It wouldn't be too fun having to plan for the Chicks apocalypse while in Europe. *Chuckles*"
-    u "Oui, je comprends. Ce serait pas très amusant de devoir planifier l'apocalypse des Chicks en Europe. *Rire*"
+    u ""
 
-# game/v12/scene7.rpy:1188
+# game/v12/scene7.rpy:1179
 translate francais v12s7_chloe1_b556d21f:
 
     # cl "Exactly. So, I don't know. I'm doing my best to not think about it..."
-    cl "Exactement. Donc, je ne sais pas. Je fais de mon mieux pour ne pas y penser..."
+    cl ""
 
-# game/v12/scene7.rpy:1195
+# game/v12/scene7.rpy:1186
 translate francais v12s7_chloe1_7b34e655:
 
     # u "Let's just enjoy Europe for right now, yeah? Let all that shit come when it comes. There's no reason to be stressed while we're in Europe."
-    u "Profitons juste du séjour en Europe pour l'instant, ok ? Laissons les choses venir quand elles viendront. Il n'y a aucune raison d'être stressé tant qu'on est là."
+    u ""
 
-# game/v12/scene7.rpy:1200
+# game/v12/scene7.rpy:1191
 translate francais v12s7_chloe1_d6432e55:
 
     # cl "You always know what to say, huh?"
-    cl "Tu sais toujours quoi dire, hein ?"
+    cl ""
 
-# game/v12/scene7.rpy:1205
+# game/v12/scene7.rpy:1196
 translate francais v12s7_chloe1_d442024f:
 
     # u "Maybe I just know what you need to hear. *Chuckles*"
-    u "Peut-être que je sais juste ce que tu as besoin d'entendre. *Rire*"
+    u ""
 
-# game/v12/scene7.rpy:1209
+# game/v12/scene7.rpy:1200
 translate francais v12s7_chloe1_216afb1f:
 
     # cl "Okay so... I know this is off topic, but I just thought of something. What if Mr. Lee bugged the props and that's how he's \"always watching\"."
-    cl "Ok donc... Je sais que c'est hors sujet, mais je viens de penser à quelque chose. Et si Mr Lee avait mis les accessoires sur écoute et que c'était pour ça qu'il a dit qu'il était \"toujours en train de regarder\"."
+    cl ""
 
-# game/v12/scene7.rpy:1214
+# game/v12/scene7.rpy:1205
 translate francais v12s7_chloe1_76e4de5e:
 
     # u "That's actually not a bad theory, but... I don't see anything on mine."
-    u "Ce n'est pas une mauvaise théorie, mais... Je vois rien sur le mien."
+    u ""
 
-# game/v12/scene7.rpy:1219
+# game/v12/scene7.rpy:1210
 translate francais v12s7_chloe1_3e64dfda:
 
     # cl "Just in case you're listening Mr. Lee, my \"poor girl\" character has been having problems with her sorority back at home and just needed to vent..."
-    cl "Au cas où vous écouteriez Mr Lee, mon personnage de \"pauvre fille\" a eu des problèmes avec sa sororité à la maison et a juste eu besoin de se défouler..."
+    cl ""
 
-# game/v12/scene7.rpy:1224
+# game/v12/scene7.rpy:1215
 translate francais v12s7_chloe1_12a7d733:
 
     # u "Wow... *Chuckles* You're actually scared of Mr. Lee."
-    u "Wow... *Rire* Tu as vraiment peur de Mr Lee."
+    u ""
 
-# game/v12/scene7.rpy:1229
+# game/v12/scene7.rpy:1220
 translate francais v12s7_chloe1_a5b69879:
 
     # cl "*Whisper* He was really harsh on me when I had him as a teacher. It was sort of my fault, but still."
-    cl "*Chuchote* Il était vraiment dur avec moi quand je l'avais comme professeur. C'était un peu de ma faute, mais quand même."
+    cl ""
 
-# game/v12/scene7.rpy:1230
+# game/v12/scene7.rpy:1221
 translate francais v12s7_chloe1_1f672a09:
 
     # cl "That man is relentless when you don't do what he asks. I don't know if he's bipolar or if he just really doesn't like being disobeyed."
-    cl "Ce type est implacable quand on ne fait pas ce qu'il demande. Je ne sais pas s'il est bipolaire ou s'il n'aime pas qu'on lui désobéisse."
+    cl ""
 
-# game/v12/scene7.rpy:1235
+# game/v12/scene7.rpy:1226
 translate francais v12s7_chloe1_d1a7593a:
 
     # u "Haha, probably a bit of both..."
-    u "Haha, peut-être un peu des deux..."
+    u ""
 
-# game/v12/scene7.rpy:1240
+# game/v12/scene7.rpy:1231
 translate francais v12s7_chloe1_333fc136:
 
     # cl "*Laughs* So... You've come to talk to me twice now. How do you know I'm not the killer?"
-    cl "*Rire* Donc (on revient dans le rôle)... Vous êtes venu me parler deux fois maintenant. Comment savez-vous que je ne suis pas la tueuse ?"
+    cl ""
 
-# game/v12/scene7.rpy:1245
+# game/v12/scene7.rpy:1236
 translate francais v12s7_chloe1_c3ac0d4e:
 
     # u "I don't know, just do."
-    u "Je sais pas, je veux le découvrir."
+    u ""
 
-# game/v12/scene7.rpy:1250
+# game/v12/scene7.rpy:1241
 translate francais v12s7_chloe1_b68d392c:
 
     # cl "The only way you could really know is if you were the killer."
-    cl "Le seul moyen de le savoir vraiment est d'être le tueur."
+    cl ""
 
-# game/v12/scene7.rpy:1255
+# game/v12/scene7.rpy:1246
 translate francais v12s7_chloe1_c7435c1f:
 
     # u "Or... I know who is the killer and don't plan on snitching because one, I'm not a snitch and two, I'm not in the mood get thrown overboard for calling the person out without witnessing a murder. Boom."
-    u "Ou... je sais qui est le tueur et je n'ai pas l'intention de le dénoncer parce que, premièrement, je suis pas une balance et, deuxièmement, je suis pas d'humeur à me faire jeter par-dessus bord pour avoir dénoncé la personne sans avoir été témoin d'un meurtre."
+    u ""
 
-# game/v12/scene7.rpy:1260
+# game/v12/scene7.rpy:1251
 translate francais v12s7_chloe1_89dc8e77:
 
     # cl "*Chuckles* That was pretty convincing, did you write that down?"
-    cl "*Rire* C'était assez convaincant, vous l'avez écrit ?"
+    cl ""
 
-# game/v12/scene7.rpy:1265
+# game/v12/scene7.rpy:1256
 translate francais v12s7_chloe1_91155977:
 
     # u "No, but maybe I should. *Chuckles* Really though, I'm not the killer."
-    u "Non, mais peut-être que je devrais. *Rire* Sérieusement, je suis pas le tueur."
+    u ""
 
-# game/v12/scene7.rpy:1270
+# game/v12/scene7.rpy:1261
 translate francais v12s7_chloe1_fa8a4f2c:
 
     # cl "Mhmm, sure... Good defense. *Laughs*"
-    cl "Mhmm, bien sûr... Bonne défense. *Rire*"
+    cl ""
 
-# game/v12/scene7.rpy:1275
+# game/v12/scene7.rpy:1266
 translate francais v12s7_chloe1_5f64cc2d:
 
     # u "Hey, just because you haven't gotten around and talked to other people doesn't mean you can just assume it's me. *Laughs*"
-    u "Hé, ce n'est pas parce que vous n'avez pas parlé à d'autres personnes que vous pouvez supposer que c'est moi.  *Rire*"
+    u ""
 
-# game/v12/scene7.rpy:1280
+# game/v12/scene7.rpy:1271
 translate francais v12s7_chloe1_2eb9b69b:
 
     # cl "Seeing is believing and I've only seen you and Riley. And I think we both know she isn't the killer."
-    cl "Voir, c'est croire, et je n'ai vu que vous et Riley. Et je pense que nous savons tous les deux qu'elle n'est pas la tueuse."
+    cl ""
 
-# game/v12/scene7.rpy:1285
+# game/v12/scene7.rpy:1276
 translate francais v12s7_chloe1_028f8188:
 
     # u "Do we, though? She could be dragging this whole thing out just so she can keep playing the game, haha."
-    u "Mais ça pourrait être le cas ? Elle pourrait faire traîner tout ça pour pouvoir continuer à jouer le jeu, haha."
+    u ""
 
-# game/v12/scene7.rpy:1290
+# game/v12/scene7.rpy:1281
 translate francais v12s7_chloe1_1db3bf4f:
 
     # cl "That's actually a good point... Okay, now I'm not so sure about you being the killer. *Chuckles*"
-    cl "C'est un bon point, oui... Ok, je ne suis plus si sûre que vous soyez le tueur, maintenant. *Rire*"
+    cl ""
 
-# game/v12/scene7.rpy:1296
+# game/v12/scene7.rpy:1287
 translate francais v12s7_chloe1_7ed963e7:
 
     # cl "If I... do something for you, will you tell me? A little, quid pro quo?"
-    cl "Si je... fais quelque chose pour vous, vous me le direz ? Un peu de quid pro quo ?"
+    cl ""
 
-# game/v12/scene7.rpy:1301
+# game/v12/scene7.rpy:1292
 translate francais v12s7_chloe1_ed5d9b66:
 
     # u "Hmm, so your worries about Mr. Lee have just suddenly gone away? That's a little sus."
-    u "Hmm, donc vos inquiétudes au sujet de Mr Lee ont soudainement disparues ? c'est un peu suspect."
+    u ""
 
-# game/v12/scene7.rpy:1306
+# game/v12/scene7.rpy:1297
 translate francais v12s7_chloe1_55f6392e:
 
     # cl "Hey, I'm just playing the game Mr. Boxer..."
-    cl "Hé, je ne fais que jouer le jeu, Mr le boxeur..."
+    cl ""
 
-# game/v12/scene7.rpy:1317
+# game/v12/scene7.rpy:1308
 translate francais v12s7_chloe1_7e793234:
 
     # cl "So, are you the killer? Seriously, [name]."
-    cl "Alors, vous êtes le tueur ? Sérieusement, [name]."
+    cl ""
 
-# game/v12/scene7.rpy:1322
+# game/v12/scene7.rpy:1313
 translate francais v12s7_chloe1_f2ecd793:
 
     # u "There's only one way to find out who the killer is, my love."
-    u "Il n'y a qu'un seul moyen de découvrir qui est le tueur, mon amour."
+    u ""
 
-# game/v12/scene7.rpy:1327
+# game/v12/scene7.rpy:1318
 translate francais v12s7_chloe1_f906985b:
 
     # u "You just have to catch them in the act..."
-    u "Vous devez juste le prendre sur le fait..."
+    u ""
 
-# game/v12/scene7.rpy:1343
+# game/v12/scene7.rpy:1334
 translate francais v12s7_chloe1_3bcfab05:
 
     # u "There's only one way to find out who the killer is... You just have to catch them in the act."
-    u "Il n'y a qu'un seul moyen de découvrir qui est le tueur... Vous devez juste le prendre sur le fait."
+    u ""
 
-# game/v12/scene7.rpy:1361
+# game/v12/scene7.rpy:1352
 translate francais v12s7_chloe_kill_fda23e9a:
 
     # u "Boom."
-    u "Pan."
+    u ""
 
-# game/v12/scene7.rpy:1369
+# game/v12/scene7.rpy:1360
 translate francais v12s7_chloe_kill_53a20657:
 
     # cl "*Smiling* You sneaky little snake. You were the murderer the entire fucking time and I knew it."
-    cl "*Sourire* Petit serpent sournois. Tu étais le meurtrier tout ce temps putain et je le savais."
+    cl ""
 
-# game/v12/scene7.rpy:1374
+# game/v12/scene7.rpy:1365
 translate francais v12s7_chloe_kill_964577fe:
 
     # u "Haha, how'd you know?"
-    u "Haha, comment le savais-tu ?"
+    u ""
 
-# game/v12/scene7.rpy:1379
+# game/v12/scene7.rpy:1370
 translate francais v12s7_chloe_kill_3cb1964a:
 
     # cl "Because Mr. Lee has played a murder mystery before and he always chooses the same type of student to be the murderer."
-    cl "Parce que Mr Lee a déjà joué un meurtre mystérieux auparavant et il choisit toujours le même type d'étudiant pour être le meurtrier."
+    cl ""
 
-# game/v12/scene7.rpy:1384
+# game/v12/scene7.rpy:1375
 translate francais v12s7_chloe_kill_b9c00daa:
 
     # u "Wait, really? *Laughs* And what type of student is that?"
-    u "Attends, vraiment ? *Rire* Et quel type d'étudiant est-ce ?"
+    u ""
 
-# game/v12/scene7.rpy:1389
+# game/v12/scene7.rpy:1380
 translate francais v12s7_chloe_kill_f9c9e2eb:
 
     # cl "The student that knows everyone, has plenty of friends, plenty of foes, and all around just a well-balanced student."
-    cl "L'étudiant qui connaît tout le monde, a beaucoup d'amis, beaucoup d'ennemis, et tout simplement un étudiant bien équilibré."
+    cl ""
 
-# game/v12/scene7.rpy:1394
+# game/v12/scene7.rpy:1385
 translate francais v12s7_chloe_kill_3211eba2:
 
     # u "Well, thank you, I think... Is being labeled well-balanced a good thing?"
-    u "Eh bien, merci, je pense... Est-ce que le fait d'être étiqueté comme \"équilibré\" est une bonne chose ?"
+    u ""
 
-# game/v12/scene7.rpy:1399
+# game/v12/scene7.rpy:1390
 translate francais v12s7_chloe_kill_f36e6919:
 
     # cl "It is to me. *Laughs* I can't believe you just killed me though!"
-    cl "Ça l'est pour moi. *Rire* Je ne peux pas croire que tu viennes de me tuer !"
+    cl ""
 
-# game/v12/scene7.rpy:1404
+# game/v12/scene7.rpy:1395
 translate francais v12s7_chloe_kill_986333c2:
 
     # u "Think about it this way: The faster I kill, the faster this is over."
-    u "Penses-y de cette façon : Plus vite je tue, plus vite c'est fini."
+    u ""
 
-# game/v12/scene7.rpy:1409
+# game/v12/scene7.rpy:1400
 translate francais v12s7_chloe_kill_ed03f101:
 
     # cl "Yeah, yeah, whatever. Go finish your massacre Mr. Boxer."
-    cl "Oui, oui, peu importe. Allez finir votre massacre Mr le Boxeur."
+    cl ""
 
-# game/v12/scene7.rpy:1414
+# game/v12/scene7.rpy:1405
 translate francais v12s7_chloe_kill_8569c4fa:
 
     # u "*Chuckles*"
-    u "*Rire*"
+    u ""
 
-# game/v12/scene7.rpy:1435
+# game/v12/scene7.rpy:1427
 translate francais v12s7_riley3_af0f6b04:
 
     # u "Seeing you guys together again in the same exact location is a little suspicious."
-    u "Vous voir à nouveau ensemble au même endroit est un peu suspect."
+    u ""
 
-# game/v12/scene7.rpy:1443
+# game/v12/scene7.rpy:1435
 translate francais v12s7_riley3_ae2f886f:
 
     # ri "*Chuckles* *Southern accent* Sure do keep checking in on us, partner! I've seen the way you knock men out in the ring..."
-    ri "*Rire* *Accent du Sud* Vous n'arrêtez pas de nous surveiller, partenaire ! J'ai vu la façon dont vous assommez les hommes sur le ring..."
+    ri ""
 
-# game/v12/scene7.rpy:1444
+# game/v12/scene7.rpy:1436
 translate francais v12s7_riley3_d9a642c5:
 
     # ri "I always wondered if your opponents were able to walk out of there alive and now I'm starting to wonder if we will. Are you a killer, Mr. Boxer?"
-    ri "Je me suis toujours demandé si vos adversaires étaient capables de s'en sortir vivants et maintenant je commence à me demander si nous le pourrons. Êtes-vous un tueur, Mr le Boxeur ?"
+    ri ""
 
-# game/v12/scene7.rpy:1449
+# game/v12/scene7.rpy:1441
 translate francais v12s7_riley3_f7ceb7d1:
 
     # cl "I was already suspicious of him, but now I have no doubts."
-    cl "Je me méfiais déjà de lui, mais maintenant je n'ai plus de doutes."
+    cl ""
 
-# game/v12/scene7.rpy:1454
+# game/v12/scene7.rpy:1446
 translate francais v12s7_riley3_56c44c47:
 
     # u "What have I done that makes me look like the killer?"
-    u "Qu'ai-je fait qui me fasse passer pour le tueur ?"
+    u ""
 
-# game/v12/scene7.rpy:1459
+# game/v12/scene7.rpy:1451
 translate francais v12s7_riley3_68810acd:
 
     # cl "Oh, I don't know. Suggesting that people go roam around, causing us to separate?"
-    cl "Oh, je ne sais pas. Suggérer que les gens aillent se balader, ce qui nous sépare ?"
+    cl ""
 
-# game/v12/scene7.rpy:1464
+# game/v12/scene7.rpy:1456
 translate francais v12s7_riley3_4bebd56d:
 
     # u "Okay, I can see how that could be suspicious. But as always, innocent until proven guilty."
-    u "Ok, je peux voir à quel point ça pourrait être suspect. Mais comme toujours, innocent jusqu'à preuve du contraire."
+    u ""
 
-# game/v12/scene7.rpy:1465
+# game/v12/scene7.rpy:1457
 translate francais v12s7_riley3_ea1f6bf8:
 
     # u "And both of you are throwing a lot of heat on me, so how do I know this isn't one of your guys' plans to just throw the attention off of yourselves?"
-    u "Et vous me mettez toutes les deux la pression, alors comment puis-je savoir que ce n'est pas un de vos plans pour détourner l'attention de vous ?"
+    u ""
 
-# game/v12/scene7.rpy:1470
+# game/v12/scene7.rpy:1462
 translate francais v12s7_riley3_e17f70f5:
 
     # ri "*Southern accent* Hmm, our little blue collar girl here could be the killer. You a killer, girl?"
-    ri "*Accent du Sud* Hmm, notre petite ouvrière ici pourrait être le tueur. Êtes-vous une tueuse, ma chère ?"
+    ri ""
 
-# game/v12/scene7.rpy:1475
+# game/v12/scene7.rpy:1467
 translate francais v12s7_riley3_b7c5aa08:
 
     # cl "Umm, no."
-    cl "Humm non."
+    cl ""
 
-# game/v12/scene7.rpy:1480
+# game/v12/scene7.rpy:1472
 translate francais v12s7_riley3_3212afc4:
 
     # ri "*Southern accent* Why the \"umm\", then honey?"
-    ri "*Accent du Sud* Pourquoi le \"humm\", alors chérie ?"
+    ri ""
 
-# game/v12/scene7.rpy:1485
+# game/v12/scene7.rpy:1477
 translate francais v12s7_riley3_cf32dcfb:
 
     # cl "I'm just a little shocked that you'd think it's me since I've literally been right here, in the same spot, this whole time. *Chuckles*"
-    cl "Je suis juste un peu choquée que vous pensiez que c'est moi puisque j'étais littéralement ici, au même endroit, tout ce temps. *Rire*"
+    cl ""
 
-# game/v12/scene7.rpy:1490
+# game/v12/scene7.rpy:1482
 translate francais v12s7_riley3_91e99147:
 
     # u "There are other people playing this game and there's a lot going on outside of what us three are doing. Why are you guys being so narrow-minded?"
-    u "Il y a d'autres personnes qui jouent à ce jeu et il se passe beaucoup de choses en dehors de ce que nous faisons tous les trois. Pourquoi êtes-vous si étroite d'esprit ?"
+    u ""
 
-# game/v12/scene7.rpy:1495
+# game/v12/scene7.rpy:1487
 translate francais v12s7_riley3_3e4b0ab8:
 
     # ri "*Southern accent* Hmm, I guess you're right. Who else though?"
-    ri "*Accent du Sud* Hmm, je pense que vous avez raison. Mais qui d'autre ?"
+    ri ""
 
-# game/v12/scene7.rpy:1496
+# game/v12/scene7.rpy:1488
 translate francais v12s7_riley3_56c382dd:
 
     # ri "Imre and Ryan are chasing each other around. So it'd be really strange if one of them was the killer and plus, I don't think Mr. Lee would've chosen them."
-    ri "Imre et Ryan se poursuivent l'un l'autre. Donc ce serait vraiment étrange si l'un d'eux était le tueur et en plus, je ne pense pas que Mr Lee les aurait choisis."
+    ri ""
 
-# game/v12/scene7.rpy:1501
+# game/v12/scene7.rpy:1493
 translate francais v12s7_riley3_7fb12ba9:
 
     # u "Who would you least expect?"
-    u "Qui attendriez-vous le moins ?"
+    u ""
 
-# game/v12/scene7.rpy:1506
+# game/v12/scene7.rpy:1498
 translate francais v12s7_riley3_9b37de5d:
 
     # cl "Lindsey."
-    cl "Lindsey."
+    cl ""
 
-# game/v12/scene7.rpy:1511
+# game/v12/scene7.rpy:1503
 translate francais v12s7_riley3_1d923676:
 
     # u "Then let's start with her."
-    u "Alors commençons par elle."
+    u ""
 
-# game/v12/scene7.rpy:1516
+# game/v12/scene7.rpy:1508
 translate francais v12s7_riley3_f4b45313:
 
     # cl "Okay, but... That doesn't mean we've cleared you as not-guilty. This just means we're exploring other options. Don't put all your eggs in one basket and all that, right?"
-    cl "Ok, mais... Cela ne signifie pas que nous vous l'avons innocenté. Cela signifie juste que nous explorons d'autres options. Ne pas mettre tous ses œufs dans le même panier et tout ça, hein ?"
+    cl ""
 
-# game/v12/scene7.rpy:1521
+# game/v12/scene7.rpy:1513
 translate francais v12s7_riley3_f803fd00:
 
     # ri "*Southern accent* That's a rule the poor and the rich can both live by."
-    ri "*Accent du Sud* C'est une règle avec laquelle les pauvres et les riches peuvent vivre."
+    ri ""
 
-# game/v12/scene7.rpy:1526
+# game/v12/scene7.rpy:1518
 translate francais v12s7_riley3_d306ce59:
 
     # u "Is there a sign on me that says \"killer\" or something? *Chuckles* I haven't done anything."
-    u "Il y a un signe sur moi qui dit \"tueur\" ou quelque chose comme ça ? *Rire* Je n'ai rien fait."
+    u ""
 
-# game/v12/scene7.rpy:1531
+# game/v12/scene7.rpy:1523
 translate francais v12s7_riley3_54c38f2a:
 
     # cl "There might as well be considering how sketchy you've been. *Chuckles*"
-    cl "Il pourrait aussi bien y en avoir vu la manière dont tu as été sommaire. *Rire*"
+    cl ""
 
-# game/v12/scene7.rpy:1536
+# game/v12/scene7.rpy:1528
 translate francais v12s7_riley3_a2425e2d:
 
     # u "Hmm... Then I guess I'll just have to change up my tactics."
-    u "Hmm... Alors je pense que je vais devoir changer de tactique."
+    u ""
 
-# game/v12/scene7.rpy:1541
+# game/v12/scene7.rpy:1533
 translate francais v12s7_riley3_c312c714:
 
     # ri "*Southern accent* \"Tactics\"? That sounds like a murder plotting term to me..."
-    ri "*Accent du Sud* \"Tactique\" ? Ça ressemble à un terme de complot de meurtre pour moi..."
+    ri ""
 
-# game/v12/scene7.rpy:1546
+# game/v12/scene7.rpy:1538
 translate francais v12s7_riley3_d9c65aec:
 
     # u "No, I just meant... You know what, nevermind. *Chuckles* I'll let you two run your brains dry."
-    u "Non, je voulais juste dire... Vous savez quoi, laissez tomber. *Rire* Je vais vous laisser toutes les deux mettre vos idées à nu."
+    u ""
 
-# game/v12/scene7.rpy:1551
+# game/v12/scene7.rpy:1543
 translate francais v12s7_riley3_88c0b86a:
 
     # cl "Ha, good luck not dying... or should I say killing people? *Laughs*"
-    cl "Ha, bonne chance pour ne pas mourir... ou devrais-je dire tuer des gens ? *Rire*"
+    cl ""
 
-# game/v12/scene7.rpy:1578
+# game/v12/scene7.rpy:1567
 translate francais v12s7_riley3a_bcd846a2:
 
     # u "Still alive out here, huh?"
-    u "Toujours vivante là, hein ?"
+    u ""
 
-# game/v12/scene7.rpy:1586
+# game/v12/scene7.rpy:1575
 translate francais v12s7_riley3a_cc79a877:
 
     # ri "*Southern accent* I am, but I'm not sure if our poor girl is. I know she planned on staying in the same spot, but now she's gone."
-    ri "*Accent du Sud* Je le suis, mais je ne suis pas sûre que notre pauvre ouvrière le soit. Je sais qu'elle avait prévu de rester au même endroit, mais maintenant elle est partie."
+    ri ""
 
-# game/v12/scene7.rpy:1587
+# game/v12/scene7.rpy:1576
 translate francais v12s7_riley3a_073859cc:
 
     # ri "I was enjoying our conversations so much... I was starting to grow a little attached to her."
-    ri "J'appréciais tellement nos conversations... que je commençais à m'attacher un peu à elle."
+    ri ""
 
-# game/v12/scene7.rpy:1592
+# game/v12/scene7.rpy:1581
 translate francais v12s7_riley3a_afb81137:
 
     # u "If that's the case then she probably got killed."
-    u "Si c'est le cas, elle a peut-être été tuée."
+    u ""
 
-# game/v12/scene7.rpy:1597
+# game/v12/scene7.rpy:1586
 translate francais v12s7_riley3a_77d67edd:
 
     # ri "*Southern accent* But by who? If she really was killed it had to be someone that's moving around. Based on what I heard Imre say earlier I have to assume it's him for now."
-    ri "*Accent du Sud* Mais par qui ? Si elle a vraiment été tuée, ça doit être quelqu'un qui se déplace. D'après ce que Imre a dit plus tôt, je dois présumer que c'est lui pour le moment."
+    ri ""
 
-# game/v12/scene7.rpy:1602
+# game/v12/scene7.rpy:1591
 translate francais v12s7_riley3a_8739fac1:
 
     # u "What'd Imre say?"
-    u "Qu'a dit Imre ?"
+    u ""
 
-# game/v12/scene7.rpy:1607
+# game/v12/scene7.rpy:1596
 translate francais v12s7_riley3a_6d45e4ef:
 
     # ri "*Southern accent* Imre said he's just gonna hurry up and make sure everyone gets killed."
-    ri "*Accent du Sud* Imre a dit qu'il allait se dépêcher et s'assurer que tout le monde soit tué."
+    ri ""
 
-# game/v12/scene7.rpy:1612
+# game/v12/scene7.rpy:1601
 translate francais v12s7_riley3a_b217a91d:
 
     # u "(How is he gonna do that? *Laugh*)"
-    u "(Comment va-t-il faire ça ? *Rire*)"
+    u ""
 
-# game/v12/scene7.rpy:1614
+# game/v12/scene7.rpy:1603
 translate francais v12s7_riley3a_ab076092:
 
     # u "That does indeed sound suspicious, maybe I should check in on them and see what I can find out."
-    u "Cela semble en effet suspect, peut-être que je devrais aller vérifier auprès d'eux et voir ce que je peux trouver."
+    u ""
 
-# game/v12/scene7.rpy:1619
+# game/v12/scene7.rpy:1608
 translate francais v12s7_riley3a_3eec572d:
 
     # ri "*Southern accent* Well, wait a minute. You were here with Chloe when I left, what'd she say while I was gone?"
-    ri "*Accent du Sud* Eh bien, attendez une minute. Vous étiez ici avec Chloé quand je suis partie, qu'a-t-elle dit pendant mon absence ?"
+    ri ""
 
-# game/v12/scene7.rpy:1627
+# game/v12/scene7.rpy:1616
 translate francais v12s7_riley3a_3f746669:
 
     # u "Honestly, she thought it was me, but I can't blame her since you and I were the only people she talked to. She has to accuse somebody. *Chuckles*"
-    u "Honnêtement, elle a pensé que c'était moi, mais je peux pas lui en vouloir puisque vous et moi sommes les seules personnes à qui elle a parlé. Elle devait accuser quelqu'un. *Rire*"
+    u ""
 
-# game/v12/scene7.rpy:1632
+# game/v12/scene7.rpy:1621
 translate francais v12s7_riley3a_369a9a0b:
 
     # ri "*Southern accent* Someone else must come by when neither of us were with her."
-    ri "*Accent du Sud* Quelqu'un d'autre a dû passer quand aucun de nous n'était avec elle."
+    ri ""
 
-# game/v12/scene7.rpy:1639
+# game/v12/scene7.rpy:1628
 translate francais v12s7_riley3a_58f7df7f:
 
     # u "She thought you were the killer and assumed you were playing so hardcore to throw people off."
-    u "Elle a cru que vous étiez la tueuse et a supposé que vous jouiez les dures pour déstabiliser les gens."
+    u ""
 
-# game/v12/scene7.rpy:1644
+# game/v12/scene7.rpy:1633
 translate francais v12s7_riley3a_ef5ee703:
 
     # ri "*Whisper* Hey, I am not playing hardcore. I just don't wanna get in trouble and I'll have you know I actually enjoy stuff like this."
-    ri "*Chuchote* Hé, je ne joue pas à la dure. Je ne veux pas avoir d'ennuis et je vous dirai que j'aime vraiment ce genre de choses."
+    ri ""
 
-# game/v12/scene7.rpy:1645
+# game/v12/scene7.rpy:1634
 translate francais v12s7_riley3a_7692830b:
 
     # ri "You gotta admit, Mr. Lee creates very interactive situations for us students. I appreciate that."
-    ri "Tu dois admettre que Mr Lee crée des situations très interactives pour nous, les élèves. J'apprécie vraiment ça."
+    ri ""
 
-# game/v12/scene7.rpy:1650
+# game/v12/scene7.rpy:1639
 translate francais v12s7_riley3a_2f3c5b9e:
 
     # u "Haha, suck up."
-    u "Haha, lèche-cul."
+    u ""
 
-# game/v12/scene7.rpy:1655
+# game/v12/scene7.rpy:1644
 translate francais v12s7_riley3a_7ff7dfd2:
 
     # ri "*Whisper* You need to go check in with Imre and Ryan, you're friends with them. If Imre really is the killer you'll be able to call him out."
-    ri "*Chuchote* Tu dois aller voir Imre et Ryan, tu es leur ami. Si Imre est vraiment le tueur, tu pourras le dénoncer."
+    ri ""
 
-# game/v12/scene7.rpy:1660
+# game/v12/scene7.rpy:1649
 translate francais v12s7_riley3a_4ea371dd:
 
     # u "True, I'm on it."
-    u "C'est vrai, je m'en occupe."
+    u ""
 
-# game/v12/scene7.rpy:1678
+# game/v12/scene7.rpy:1667
 translate francais v12s7_riley_kill_fda23e9a:
 
     # u "Boom."
-    u "Pan."
+    u ""
 
-# game/v12/scene7.rpy:1686
+# game/v12/scene7.rpy:1675
 translate francais v12s7_riley_kill_d1c682de:
 
     # ri "*Whisper* You little liar."
-    ri "*Chuchote* Petit menteur."
+    ri ""
 
-# game/v12/scene7.rpy:1691
+# game/v12/scene7.rpy:1680
 translate francais v12s7_riley_kill_948164de:
 
     # u "Haha, Mr. Lee chose a good murderer."
-    u "Haha, Mr Lee a choisi un bon meurtrier."
+    u ""
 
-# game/v12/scene7.rpy:1696
+# game/v12/scene7.rpy:1685
 translate francais v12s7_riley_kill_e12b8f97:
 
     # ri "How'd I not know? So many people thought it was Imre. As like revenge for Mr. Lee or something. *Chuckles*"
-    ri "Comment ai-je pu ne pas m'en rendre compte ? Tant de gens ont pensé que c'était Imre. Comme une vengeance pour Mr Lee ou un truc comme ça. *Rire*"
+    ri ""
 
-# game/v12/scene7.rpy:1701
+# game/v12/scene7.rpy:1690
 translate francais v12s7_riley_kill_b7f2741f:
 
     # u "Nope, it was the beautiful famous boxer. *Laughs*"
-    u "Non, c'était le magnifique et célèbre boxeur. *Rire"
+    u ""
 
-# game/v12/scene7.rpy:1706
+# game/v12/scene7.rpy:1695
 translate francais v12s7_riley_kill_a5722188:
 
     # ri "Wow, well I guess since you killed me I can root for you now. So good luck."
-    ri "Wow, eh bien je crois que puisque tu m'as tué, je peux t'encourager maintenant. Alors bonne chance."
+    ri ""
 
-# game/v12/scene7.rpy:1711
+# game/v12/scene7.rpy:1700
 translate francais v12s7_riley_kill_5d8a50ac:
 
     # u "Haha, thanks."
-    u "Haha, merci."
+    u ""
 
-# game/v12/scene7.rpy:1733
+# game/v12/scene7.rpy:1722
 translate francais v12s7_lauren1_0b9a5aa7:
 
     # u "There you are."
-    u "Vous voilà."
+    u ""
 
-# game/v12/scene7.rpy:1742
+# game/v12/scene7.rpy:1731
 translate francais v12s7_lauren1_329fc1fb:
 
     # la "Don't try an use the game as a way of talking to me."
-    la "N'essaie pas d'utiliser le jeu comme moyen de me parler."
+    la ""
 
-# game/v12/scene7.rpy:1750
+# game/v12/scene7.rpy:1739
 translate francais v12s7_lauren1_838ee0fc:
 
     # u "Sorry, uhm bye."
-    u "Désolé, hum, bye."
+    u ""
 
-# game/v12/scene7.rpy:1752
+# game/v12/scene7.rpy:1741
 translate francais v12s7_lauren1_869da1db:
 
     # u "(Damn, she's still really pissed.)"
-    u "(Merde, elle est encore très énervée.)"
+    u ""
 
-# game/v12/scene7.rpy:1760
+# game/v12/scene7.rpy:1749
 translate francais v12s7_lauren1_912a7922:
 
     # u "Yeah uhm, I know you're mad right now but I gotta play the game so..."
-    u "Ouais hum, je sais que tu es en colère en ce moment mais je dois jouer le jeu donc..."
+    u ""
 
-# game/v12/scene7.rpy:1768
+# game/v12/scene7.rpy:1757
 translate francais v12s7_lauren1_fda23e9a:
 
     # u "Boom."
-    u "Pan."
+    u ""
 
-# game/v12/scene7.rpy:1773
+# game/v12/scene7.rpy:1762
 translate francais v12s7_lauren1_cde98005:
 
     # la "Not surprising you got chosen as the murderer, Mr. Lee must know a bad guy when he sees one."
-    la "Pas étonnant que tu aies été choisi comme meurtrier, Mr Lee doit savoir reconnaître un sale type quand il en voit un."
+    la ""
 
-# game/v12/scene7.rpy:1778
+# game/v12/scene7.rpy:1767
 translate francais v12s7_lauren1_869da1db_1:
 
     # u "(Damn, she's still really pissed.)"
-    u "(Merde, elle est encore très énervée.)"
+    u ""
 
-# game/v12/scene7.rpy:1788
+# game/v12/scene7.rpy:1777
 translate francais v12s7_lauren1_8f2be705:
 
     # la "And there you are."
-    la "Et vous voilà."
+    la ""
 
-# game/v12/scene7.rpy:1800
+# game/v12/scene7.rpy:1789
 translate francais v12s7_lauren1_b4d57527:
 
     # u "You haven't been killed yet, guess that's good."
-    u "Vous n'avez pas encore été tuée, c'est une bonne chose."
+    u ""
 
-# game/v12/scene7.rpy:1805
+# game/v12/scene7.rpy:1794
 translate francais v12s7_lauren1_32fb9f56:
 
     # la "It actually isn't, everyone thinks I'm the killer."
-    la "En fait, non, tout le monde pense que je suis la tueuse."
+    la ""
 
-# game/v12/scene7.rpy:1810
+# game/v12/scene7.rpy:1799
 translate francais v12s7_lauren1_48c99239:
 
     # u "Why?"
-    u "Pourquoi ?"
+    u ""
 
-# game/v12/scene7.rpy:1815
+# game/v12/scene7.rpy:1804
 translate francais v12s7_lauren1_f136150e:
 
     # la "Because that's my character, he's a killer on the run."
-    la "Parce que c'est mon personnage, c'est une tueuse en fuite."
+    la ""
 
-# game/v12/scene7.rpy:1820
+# game/v12/scene7.rpy:1809
 translate francais v12s7_lauren1_17522a2c:
 
     # u "*Laughs* Wait, you're character is a killer on the run but you're saying you're not the killer? I don't know if I can believe that."
-    u "*Rire* Attends, ton personnage est une tueuse en cavale mais tu dis que tu n'es pas la tueuse ? Je sais pas si je peux croire ça."
+    u ""
 
-# game/v12/scene7.rpy:1825
+# game/v12/scene7.rpy:1814
 translate francais v12s7_lauren1_207c4706:
 
     # la "See! You and everyone else, I don't know why Mr. Lee would do that. No one will come near me 'cause they don't wanna be killed. Except for Imre, he actually begged me to kill him haha."
-    la "Tu vois ! Toi et tous les autres, je ne sais pas pourquoi Mr Lee a fait ça. Personne ne s'approche de moi car ils ne veulent pas être tués. Sauf Imre, qui m'a supplié de le tuer, haha."
+    la ""
 
-# game/v12/scene7.rpy:1830
+# game/v12/scene7.rpy:1819
 translate francais v12s7_lauren1_396fca44:
 
     # u "I don't know... What if you're just smart enough to come up with that story?"
-    u "Je sais pas... Et si tu étais juste assez intelligente pour inventer cette histoire ?"
+    u ""
 
-# game/v12/scene7.rpy:1835
+# game/v12/scene7.rpy:1824
 translate francais v12s7_lauren1_2998983e:
 
     # la "I'm not."
-    la "C'est pas le cas."
+    la ""
 
-# game/v12/scene7.rpy:1840
+# game/v12/scene7.rpy:1829
 translate francais v12s7_lauren1_67b85378:
 
     # u "You're not smart? *Chuckles*"
-    u "Tu n'es pas intelligente ? *Rire*"
+    u ""
 
-# game/v12/scene7.rpy:1845
+# game/v12/scene7.rpy:1834
 translate francais v12s7_lauren1_d9c34d47:
 
     # la "No, stop, I mean I'm not making it up."
-    la "Non, arrête, je veux dire que je n'invente rien."
+    la ""
 
-# game/v12/scene7.rpy:1850
+# game/v12/scene7.rpy:1839
 translate francais v12s7_lauren1_112d08dd:
 
     # u "Hmmm, very suspicious."
-    u "*reprend son rôle* Hmmm, c'est très suspect."
+    u ""
 
-# game/v12/scene7.rpy:1855
+# game/v12/scene7.rpy:1844
 translate francais v12s7_lauren1_c22079c7:
 
     # la "If you really think I'm the killer then why are you around me, huh? The only people that would come around me either want to be killed or are the killer because they can kill me easily."
-    la "Si vous pensez vraiment que je suis la tueuse, alors pourquoi êtes-vous à mes côtés, hein ? Les seules personnes qui me tournent autour veulent être tuées ou sont le tueur car il peut me tuer facilement."
+    la ""
 
-# game/v12/scene7.rpy:1860
+# game/v12/scene7.rpy:1849
 translate francais v12s7_lauren1_dd72dbd1:
 
     # u "Okay, good point. Are you asking me to leave then?"
-    u "Ok, bien vu. Vous me demandez de partir alors ?"
+    u ""
 
-# game/v12/scene7.rpy:1865
+# game/v12/scene7.rpy:1854
 translate francais v12s7_lauren1_bbde7276:
 
     # la "No, I'm not just saying that, oh nevermind. Even if you were the killer I wouldn't care, but at least spend some time with me before you kill me."
-    la "Non, je ne dis pas ça comme ça, oh laissez tomber. Même si vous étiez le tueur, je m'en ficherais, mais au moins, passez un peu de temps avec moi avant de me tuer."
+    la ""
 
-# game/v12/scene7.rpy:1870
+# game/v12/scene7.rpy:1859
 translate francais v12s7_lauren1_1bdd12d0:
 
     # u "Aww, are you really that lonely? *Chuckles*"
-    u "Ooh, êtes-vous vraiment si seule ? *Rire*"
+    u ""
 
-# game/v12/scene7.rpy:1875
+# game/v12/scene7.rpy:1864
 translate francais v12s7_lauren1_fe7af17e:
 
     # la "It sounds sad when you put it that way, I just don't like it when everyone's avoiding me."
-    la "Ça semble triste quand on le dit comme ça, mais je n'aime pas que tout le monde m'évite."
+    la ""
 
-# game/v12/scene7.rpy:1880
+# game/v12/scene7.rpy:1869
 translate francais v12s7_lauren1_8b340717:
 
     # u "It seems as though Mr. Lee had multiple motives for the roles he gave us."
-    u "Il semble que Mr Lee avait de multiples motivations pour les rôles qu'il nous a donnés."
+    u ""
 
-# game/v12/scene7.rpy:1885
+# game/v12/scene7.rpy:1874
 translate francais v12s7_lauren1_a94e61ae:
 
     # la "That would explain why he was so serious about us not breaking character."
-    la "Ça expliquerait pourquoi il était si sérieux sur le fait que nous ne devions pas briser le personnage."
+    la ""
 
-# game/v12/scene7.rpy:1890
+# game/v12/scene7.rpy:1879
 translate francais v12s7_lauren1_05bb8ded:
 
     # u "And him watching over us all rather than playing a role himself."
-    u "Et il nous surveille tous plutôt que de jouer un rôle lui-même."
+    u ""
 
-# game/v12/scene7.rpy:1895
+# game/v12/scene7.rpy:1884
 translate francais v12s7_lauren1_27ef83f6:
 
     # la "Why a boxer for you then? It's not like he's concerned about the frat stuff."
-    la "Pourquoi un boxeur pour toi alors ? C'est pas comme s'il était concerné par les trucs de fraternité."
+    la ""
 
-# game/v12/scene7.rpy:1900
+# game/v12/scene7.rpy:1889
 translate francais v12s7_lauren1_cebdbdd0:
 
     # u "I don't think it has anything to do with that, I'm actually not sure about my own role. But everyone else seems to have a personal conflict or serious joy in their role."
-    u "Je pense pas que ça ait quelque chose à voir avec ça, en fait je suis pas sûr de mon propre rôle. Mais tous les autres semblent avoir un conflit personnel ou une joie sérieuse dans leur rôle."
+    u ""
 
-# game/v12/scene7.rpy:1905
+# game/v12/scene7.rpy:1894
 translate francais v12s7_lauren1_4ee84a1d:
 
     # la "Yeah, Amber got security or whatever and she's taking advantage of it. She took my gum earlier after she searched me saying it was contraband. *Laughs*"
-    la "Oui, Amber a obtenu la sécurité ou quelque chose comme ça et elle en profite. Elle a pris mon chewing-gum tout à l'heure après m'avoir fouillé en disant que c'était de la contrebande. *Rire*"
+    la ""
 
-# game/v12/scene7.rpy:1906
+# game/v12/scene7.rpy:1895
 translate francais v12s7_lauren1_0683c839:
 
     # la "She could've just asked for some gum, but Mr. Lee was nearby and I guess that's how she chose to stay in character."
-    la "Elle aurait pu simplement demander un chewing-gum, mais Mr Lee était tout près et je pense donc qu'elle a choisi de rester dans le personnage."
+    la ""
 
-# game/v12/scene7.rpy:1911
+# game/v12/scene7.rpy:1900
 translate francais v12s7_lauren1_0bffbeb4:
 
     # u "Haha, sounds like her."
-    u "Haha, c'est tout à fait elle."
+    u ""
 
-# game/v12/scene7.rpy:1916
+# game/v12/scene7.rpy:1905
 translate francais v12s7_lauren1_a0dd73ec:
 
     # la "*Sighs* I can't wait to get to Paris."
-    la "*Soupirs* J'ai hâte de rejoindre Paris."
+    la ""
 
-# game/v12/scene7.rpy:1921
+# game/v12/scene7.rpy:1910
 translate francais v12s7_lauren1_66495e60:
 
     # u "How come?"
-    u "Comment ça ?"
+    u ""
 
-# game/v12/scene7.rpy:1926
+# game/v12/scene7.rpy:1915
 translate francais v12s7_lauren1_79bf7585:
 
     # la "There's just a lot I want to do, I made some promises to myself and I'm going to keep them."
-    la "Il y a tellement de choses que je veux faire, je me suis fait des promesses et je vais les tenir."
+    la ""
 
-# game/v12/scene7.rpy:1931
+# game/v12/scene7.rpy:1920
 translate francais v12s7_lauren1_321cbce3:
 
     # u "You're pretty philosophical for a killer on the run. *Chuckles*"
-    u "Vous êtes plutôt philosophe pour une tueuse en cavale. *Rire*"
+    u ""
 
-# game/v12/scene7.rpy:1936
+# game/v12/scene7.rpy:1925
 translate francais v12s7_lauren1_34299b69:
 
     # la "You know what, go bother someone else. *Chuckles* Maybe someone will kill you for me. *Laughs*"
-    la "Vous savez quoi, allez embêter quelqu'un d'autre. *Rire* Peut-être que quelqu'un vous tuera pour moi. *Rire*"
+    la ""
 
-# game/v12/scene7.rpy:1942
+# game/v12/scene7.rpy:1931
 translate francais v12s7_lauren1_1e71fa36:
 
     # la "At least kiss me first before you die."
-    la "Embrassez-moi au moins avant de mourir."
+    la ""
 
-# game/v12/scene7.rpy:1952
+# game/v12/scene7.rpy:1941
 translate francais v12s7_lauren1_157edc12:
 
     # u "Off to die, bye."
-    u "Je vais mourir, adieu."
+    u ""
 
-# game/v12/scene7.rpy:1957
+# game/v12/scene7.rpy:1946
 translate francais v12s7_lauren1_6c461182:
 
     # la "*Chuckles* Bye."
-    la "*Rire* Adieu."
+    la ""
 
-# game/v12/scene7.rpy:1975
+# game/v12/scene7.rpy:1964
 translate francais v12s7_lauren_kill_fda23e9a:
 
     # u "Boom."
-    u "Pan."
+    u ""
 
-# game/v12/scene7.rpy:1983
+# game/v12/scene7.rpy:1972
 translate francais v12s7_lauren_kill_30b6639d:
 
     # la "Wow, you just gonna take me out like that. My living as a suspected criminal wasn't bad enough?"
-    la "Wow, tu vas juste m'éliminer comme ça. Ma vie de criminelle présumée n'était pas assez mauvaise ?"
+    la ""
 
-# game/v12/scene7.rpy:1988
+# game/v12/scene7.rpy:1977
 translate francais v12s7_lauren_kill_a92f89c2:
 
     # u "I thought I'd end your misery for you."
-    u "Je pensais devoir mettre fin à tes malheurs pour toi."
+    u ""
 
-# game/v12/scene7.rpy:1993
+# game/v12/scene7.rpy:1982
 translate francais v12s7_lauren_kill_3d38c70c:
 
     # la "Oh wow, so sweet."
-    la "Oh wow, c'est si mignon."
+    la ""
 
-# game/v12/scene7.rpy:1998
+# game/v12/scene7.rpy:1987
 translate francais v12s7_lauren_kill_1c1bb58c:
 
     # u "Us criminals have to support each other."
-    u "Nous, les criminels, devons nous soutenir mutuellement."
+    u ""
 
-# game/v12/scene7.rpy:2003
+# game/v12/scene7.rpy:1992
 translate francais v12s7_lauren_kill_8554378e:
 
     # la "Oh my gosh."
-    la "Oh... my... GOD !"
+    la ""
 
-# game/v12/scene7.rpy:2027
+# game/v12/scene7.rpy:2016
 translate francais v12s7_ryan_imre1_006c5605:
 
     # ry "Wow, look at this beautiful day, if only my wife was just as beautiful."
-    ry "Wow, regardez cette belle journée, si seulement ma femme était aussi belle."
+    ry ""
 
-# game/v12/scene7.rpy:2035
+# game/v12/scene7.rpy:2024
 translate francais v12s7_ryan_imre1_3ecedae8:
 
     # imre "You call me your wife again and we're gonna have a problem."
-    imre "Si tu m'appelles encore ta femme, on va avoir un problème."
+    imre ""
 
-# game/v12/scene7.rpy:2040
+# game/v12/scene7.rpy:2029
 translate francais v12s7_ryan_imre1_3d39aa8a:
 
     # lee "Did you say something Mrs.?"
-    lee "Vous avez dit quelque chose, Mme ?"
+    lee ""
 
-# game/v12/scene7.rpy:2045
+# game/v12/scene7.rpy:2034
 translate francais v12s7_ryan_imre1_e3977209:
 
     # imre "Just having a little spat with my husband. He likes to make the meanest little jokes."
-    imre "J'ai juste une petite prise de bec avec mon mari. Il aime faire des blagues méchantes."
+    imre ""
 
-# game/v12/scene7.rpy:2050
+# game/v12/scene7.rpy:2039
 translate francais v12s7_ryan_imre1_77268185:
 
     # lee "Mhm, as long as you're enjoying yourselves."
-    lee "Mhm, tant que vous vous amusez."
+    lee ""
 
-# game/v12/scene7.rpy:2055
+# game/v12/scene7.rpy:2044
 translate francais v12s7_ryan_imre1_ddf6c6e3:
 
     # ry "Of course we are, my lovely wife here just doesn't get my humor from time to time. He, I mean she, has the brain of a chicken sometimes."
-    ry "Bien sûr que oui, ma charmante épouse ne comprend pas toujours mon humour. Il, je veux dire elle, a le cerveau d'un bulot parfois."
+    ry ""
 
-# game/v12/scene7.rpy:2060
+# game/v12/scene7.rpy:2049
 translate francais v12s7_ryan_imre1_d9510c4e:
 
     # imre "Ha ha ha, that's so funny. Look at me laughing."
-    imre "Ha ha ha, c'est tellement drôle. Regardez-moi en train de rire aux éclats"
+    imre ""
 
-# game/v12/scene7.rpy:2065
+# game/v12/scene7.rpy:2054
 translate francais v12s7_ryan_imre1_775eeab1:
 
     # lee "*Chuckles*"
-    lee "*Rire*"
+    lee ""
 
-# game/v12/scene7.rpy:2075
+# game/v12/scene7.rpy:2064
 translate francais v12s7_ryan_imre1_73b00f3f:
 
     # ry "Why'd you hit me so hard???"
-    ry "Pourquoi m'avez-vous frappé si fort ???"
+    ry ""
 
-# game/v12/scene7.rpy:2080
+# game/v12/scene7.rpy:2069
 translate francais v12s7_ryan_imre1_8cbbcb95:
 
     # imre "Told you not to call me your wife."
-    imre "J't'ai dit de pas m'appeler ta femme."
+    imre ""
 
-# game/v12/scene7.rpy:2085
+# game/v12/scene7.rpy:2074
 translate francais v12s7_ryan_imre1_c547f565:
 
     # ry "Chill out, it's not my fault we have to do this. I'm not for hitting a woman, but I will beat the shit out of you."
-    ry "Relax, c'est pas ma faute si on doit faire ça. Je ne suis pas du genre à frapper une femme, mais je vais te casser la gueule."
+    ry ""
 
-# game/v12/scene7.rpy:2090
+# game/v12/scene7.rpy:2079
 translate francais v12s7_ryan_imre1_fcc18885:
 
     # u "*Laughs*"
-    u "*Rire*"
+    u ""
 
-# game/v12/scene7.rpy:2100
+# game/v12/scene7.rpy:2089
 translate francais v12s7_ryan_imre1_d09fb4a9:
 
     # u "You two are idiots, literally the funniest thing I've seen in my entire life was watching you guys for the last five minutes."
-    u "Vous êtes tous les deux des idiots, littéralement la chose la plus drôle que j'ai vu dans ma vie entière était de vous regarder pendant les cinq dernières minutes."
+    u ""
 
-# game/v12/scene7.rpy:2105
+# game/v12/scene7.rpy:2094
 translate francais v12s7_ryan_imre1_6a9e18ed:
 
     # imre "It's not supposed to be funny. I'm just doing this 'cause I think the teach may just really throw me overboard."
-    imre "C'est pas censé être drôle. J'fais juste ça parce que j'pense que l'prof pourrait me jeter par-dessus bord."
+    imre ""
 
-# game/v12/scene7.rpy:2110
+# game/v12/scene7.rpy:2099
 translate francais v12s7_ryan_imre1_7624addf:
 
     # ry "He keeps following us around because my wife here won't stay in character."
-    ry "Il nous suit partout parce que ma femme ne veut pas rester dans le personnage."
+    ry ""
 
-# game/v12/scene7.rpy:2115
+# game/v12/scene7.rpy:2104
 translate francais v12s7_ryan_imre1_9f8d5c57:
 
     # imre "..."
-    imre "..."
+    imre ""
 
-# game/v12/scene7.rpy:2120
+# game/v12/scene7.rpy:2109
 translate francais v12s7_ryan_imre1_48bc9d26:
 
     # u "Not gonna hit him again for calling you his wife?"
-    u "Tu vas pas le frapper à nouveau pour t'avoir appelé \"sa femme\" ?"
+    u ""
 
-# game/v12/scene7.rpy:2125
+# game/v12/scene7.rpy:2114
 translate francais v12s7_ryan_imre1_4b40d8b2:
 
     # imre "He's being given the silent treatment."
-    imre "Il n'a le droit qu'à un silence glacial."
+    imre ""
 
-# game/v12/scene7.rpy:2130
+# game/v12/scene7.rpy:2119
 translate francais v12s7_ryan_imre1_dde33d14:
 
     # u "*Laughs* You guys are like a real couple."
-    u "*Rire* Vous êtes comme un vrai couple."
+    u ""
 
-# game/v12/scene7.rpy:2135
+# game/v12/scene7.rpy:2124
 translate francais v12s7_ryan_imre1_33f5500f:
 
     # ry "We are a real couple. We're the Storks and we're from South Africa exploring the world together. The attraction of this ship drew us in so much we decided to take it for our honeymoon."
-    ry "Mais nous sommes un vrai couple. Nous sommes les Storks et nous venons d'Afrique du Sud pour explorer le monde ensemble. L'attrait de ce bateau nous a tellement séduits que nous avons décidé de le prendre pour notre lune de miel."
+    ry ""
 
-# game/v12/scene7.rpy:2140
+# game/v12/scene7.rpy:2129
 translate francais v12s7_ryan_imre1_e752d407:
 
     # u "*Chuckles* So this is your honeymoon?"
-    u "*Rire* Donc c'est votre lune de miel ?"
+    u ""
 
-# game/v12/scene7.rpy:2145
+# game/v12/scene7.rpy:2134
 translate francais v12s7_ryan_imre1_8ab8c88e:
 
     # ry "Yep, we're proud newlyweds."
-    ry "Oui, nous sommes heureux d'être jeunes mariés."
+    ry ""
 
-# game/v12/scene7.rpy:2153
+# game/v12/scene7.rpy:2142
 translate francais v12s7_ryan_imre1_a85d384a:
 
     # u "Well allow me to congratulate the lovely couple! As a gift, feel free to come to my next fight as VIP's. I'll be sure to put you on the list as Mr. and Mrs. Stork."
-    u "Permettez-moi de féliciter ce charmant couple ! Comme cadeau, n'hésitez pas à venir à mon prochain combat en tant que VIP. Je m'assurerai de vous mettre sur la liste en tant que Mr et Mme Stork."
+    u ""
 
-# game/v12/scene7.rpy:2158
+# game/v12/scene7.rpy:2147
 translate francais v12s7_ryan_imre1_43a874af:
 
     # ry "That's so nice of you!"
-    ry "Oh, c'est si gentil de votre part !"
+    ry ""
 
-# game/v12/scene7.rpy:2163
+# game/v12/scene7.rpy:2152
 translate francais v12s7_ryan_imre1_19c111f1:
 
     # imre "We won't be going."
-    imre "On ira pas."
+    imre ""
 
-# game/v12/scene7.rpy:2168
+# game/v12/scene7.rpy:2157
 translate francais v12s7_ryan_imre1_85a4157e:
 
     # u "Oh, that's unfortunate."
-    u "Oh, c'est dommage."
+    u ""
 
-# game/v12/scene7.rpy:2176
+# game/v12/scene7.rpy:2165
 translate francais v12s7_ryan_imre1_e55bbe8e:
 
     # u "As funny as it is, chill a little bit Ryan. You wouldn't be so happy if you were playing the wife. I'm sure Imre would be giving it to you good."
-    u "Aussi drôle que ce soit, détends-toi un peu Ryan. Tu serais pas si heureux si tu jouais la femme. Je suis sûr qu'Imre t'en mettrait plein la gueule."
+    u ""
 
-# game/v12/scene7.rpy:2181
+# game/v12/scene7.rpy:2170
 translate francais v12s7_ryan_imre1_7ab99afb:
 
     # imre "BRO!!"
-    imre "FRÈRE !"
+    imre ""
 
-# game/v12/scene7.rpy:2186
+# game/v12/scene7.rpy:2175
 translate francais v12s7_ryan_imre1_ef2f1671:
 
     # u "What?"
-    u "Quoi ?"
+    u ""
 
-# game/v12/scene7.rpy:2191
+# game/v12/scene7.rpy:2180
 translate francais v12s7_ryan_imre1_85989468:
 
     # imre "Watch what you say! At least follow it with \"no homo\" or something!"
-    imre "Fais attention à c'que tu dis ! Rappelle toi qu'on est pas homo !"
+    imre ""
 
-# game/v12/scene7.rpy:2196
+# game/v12/scene7.rpy:2185
 translate francais v12s7_ryan_imre1_76582d73:
 
     # u "*Laughs* My bad, you guys should come out to my next fight as VIPs. It's on me."
-    u "*Rire* C'est ma faute, vous devriez venir à mon prochain combat en tant que VIP. C'est moi qui offre."
+    u ""
 
-# game/v12/scene7.rpy:2201
+# game/v12/scene7.rpy:2190
 translate francais v12s7_ryan_imre1_a9e5ae83:
 
     # imre "Yeah, we won't be going."
-    imre "Ouais, on ira pas."
+    imre ""
 
-# game/v12/scene7.rpy:2206
+# game/v12/scene7.rpy:2195
 translate francais v12s7_ryan_imre1_85a4157e_1:
 
     # u "Oh, that's unfortunate."
-    u "Oh, c'est regrettable."
+    u ""
 
-# game/v12/scene7.rpy:2211
+# game/v12/scene7.rpy:2200
 translate francais v12s7_ryan_imre1_f62f5e40:
 
     # ry "Why can't we go?"
-    ry "Pourquoi on ne pourra pas y aller ?"
+    ry ""
 
-# game/v12/scene7.rpy:2216
+# game/v12/scene7.rpy:2205
 translate francais v12s7_ryan_imre1_63e894d1:
 
     # imre "We can't go because this man here is a lazy dumbass that quit his job. Now he's broke and living with me until he gets his life together. That's literally what our cards said."
-    imre "On peut pas y aller parce que c'mec est un fainéant qui a quitté son boulot. Maintenant il est fauché et vit avec moi jusqu'à c'qu'il reprenne sa vie en main. C'est littéralement c'que les cartes de nos rôles disaient."
+    imre ""
 
-# game/v12/scene7.rpy:2221
+# game/v12/scene7.rpy:2210
 translate francais v12s7_ryan_imre1_14964ec3:
 
     # u "Damn Ryan, you're kind of a dumbass."
-    u "Bon sang Ryan, t'es un peu un abruti."
+    u ""
 
-# game/v12/scene7.rpy:2226
+# game/v12/scene7.rpy:2215
 translate francais v12s7_ryan_imre1_0954a8f5:
 
     # ry "What can I say, it was in the pursuit of true love."
-    ry "Que puis-je dire, j'étais à la recherche du véritable amour."
+    ry ""
 
-# game/v12/scene7.rpy:2231
+# game/v12/scene7.rpy:2220
 translate francais v12s7_ryan_imre1_905e573e:
 
     # imre "Bro I'm not playing with you."
-    imre "Frère, je joue pas avec toi."
+    imre ""
 
-# game/v12/scene7.rpy:2236
+# game/v12/scene7.rpy:2225
 translate francais v12s7_ryan_imre1_7eb168c8:
 
     # ry "Aww, baby just give me a kiss."
-    ry "Ooh, bébé, donne-moi juste un baiser."
+    ry ""
 
-# game/v12/scene7.rpy:2238
+# game/v12/scene7.rpy:2227
 translate francais v12s7_ryan_imre1_fcc18885_1:
 
     # u "*Laughs*"
-    u "*Rire*"
+    u ""
 
-# game/v12/scene7.rpy:2243
+# game/v12/scene7.rpy:2232
 translate francais v12s7_ryan_imre1_83dfa6b1:
 
     # imre "Fuck you guys."
-    imre "Allez vous faire foutre."
+    imre ""
 
-# game/v12/scene7.rpy:2253
+# game/v12/scene7.rpy:2242
 translate francais v12s7_ryan_imre1_150ffd0b:
 
     # ry "Oh my gosh, this is gold."
-    ry "Oh ce cul, c'est de l'or !"
+    ry ""
 
-# game/v12/scene7.rpy:2255
+# game/v12/scene7.rpy:2244
 translate francais v12s7_ryan_imre1_6928c484:
 
     # u "It is kind of funny."
-    u "*Pleure de rire* Arrête, je vais mourir de rire..."
+    u ""
 
-# game/v12/scene7.rpy:2260
+# game/v12/scene7.rpy:2249
 translate francais v12s7_ryan_imre1_6af7345d:
 
     # ry "He's always the one instigating me and now the tables have turned."
-    ry "C'est toujours lui qui me provoque et maintenant les rôles sont inversés."
+    ry ""
 
-# game/v12/scene7.rpy:2265
+# game/v12/scene7.rpy:2254
 translate francais v12s7_ryan_imre1_bfc67707:
 
     # u "But hey, don't mess with him too much. I wouldn't be surprised if he actually hit you."
-    u "Mais hé, le cherche pas trop. Je serais pas surpris s'il te frappait."
+    u ""
 
-# game/v12/scene7.rpy:2270
+# game/v12/scene7.rpy:2259
 translate francais v12s7_ryan_imre1_b42afb85:
 
     # ry "Haha, I may not be a famous boxer, but I'll be just fine."
-    ry "Haha, je ne suis peut-être pas un boxeur célèbre, mais je m'en sortirai très bien."
+    ry ""
 
-# game/v12/scene7.rpy:2275
+# game/v12/scene7.rpy:2264
 translate francais v12s7_ryan_imre1_40ad6f23:
 
     # u "Alright man."
-    u "D'accord mec."
+    u ""
 
-# game/v12/scene7.rpy:2299
+# game/v12/scene7.rpy:2288
 translate francais v12s7_ryan1_2165b9d1:
 
     # u "Your wife still hasn't come back?"
-    u "Votre femme n'est toujours pas revenue ?"
+    u ""
 
-# game/v12/scene7.rpy:2307
+# game/v12/scene7.rpy:2296
 translate francais v12s7_ryan1_815d7b65:
 
     # ry "Nope, and I haven't seen Mr. Lee either so I'm just waiting here. *Chuckles*"
-    ry "Non, et je n'ai pas vu Mr Lee non plus, alors j'attends ici. *Rire*"
+    ry ""
 
-# game/v12/scene7.rpy:2312
+# game/v12/scene7.rpy:2301
 translate francais v12s7_ryan1_b7fcac5f:
 
     # u "Wow, you guys just won't ever get along, huh?"
-    u "Wow, vous vous entendrez jamais, hein ?"
+    u ""
 
-# game/v12/scene7.rpy:2317
+# game/v12/scene7.rpy:2306
 translate francais v12s7_ryan1_fd90e59b:
 
     # ry "Probably not, I can get over being in different frats, but I can't get over his disrespect. I know he's your friend and he's cool with you, but he's not cool with me."
-    ry "Ça m'étonnerai, je peux supporter d'être dans des fraternités différentes, mais je ne peux pas supporter son manque de respect. Je sais que c'est ton ami et qu'il est cool avec toi, mais il ne l'est carrément pas avec moi."
+    ry ""
 
-# game/v12/scene7.rpy:2322
+# game/v12/scene7.rpy:2311
 translate francais v12s7_ryan1_dc2ac04e:
 
     # u "Ever thought about just apologizing to squash the beef?"
-    u "Tu as déjà pensé à t'excuser pour crever l'abcès ?"
+    u ""
 
-# game/v12/scene7.rpy:2327
+# game/v12/scene7.rpy:2316
 translate francais v12s7_ryan1_a97c90f1:
 
     # ry "Ugh, no. *Chuckles* Being cool with him doesn't make my life any better."
-    ry "Euh, non. *Rire* Être cool avec lui ne rend pas ma vie meilleure."
+    ry ""
 
-# game/v12/scene7.rpy:2332
+# game/v12/scene7.rpy:2321
 translate francais v12s7_ryan1_6038585c:
 
     # u "Isn't being at odds with him making your life worse?"
-    u "Le fait d'être en désaccord avec lui rend-il pas ta vie plus pénible ?"
+    u ""
 
-# game/v12/scene7.rpy:2337
+# game/v12/scene7.rpy:2326
 translate francais v12s7_ryan1_7b7e1902:
 
     # ry "No not really, honestly, it's the only thing that's really kept me from being bored on this trip."
-    ry "Non, pas vraiment, honnêtement, c'est la seule chose qui m'a empêché de m'ennuyer pendant ce voyage."
+    ry ""
 
-# game/v12/scene7.rpy:2342
+# game/v12/scene7.rpy:2331
 translate francais v12s7_ryan1_f6e7031d:
 
     # u "You're not enjoying Europe?"
-    u "Tu n'apprécies pas séjour en Europe ?"
+    u ""
 
-# game/v12/scene7.rpy:2351
+# game/v12/scene7.rpy:2340
 translate francais v12s7_ryan1_28bf2d7e:
 
     # ry "Well, there is a certain someone that's been making it a little better."
-    ry "Et bien, il y a une certaine personne qui l'a rendu un peu meilleur."
+    ry ""
 
-# game/v12/scene7.rpy:2356
+# game/v12/scene7.rpy:2345
 translate francais v12s7_ryan1_4da23ece:
 
     # ry "Nope, all of my friends are back on campus for the most part."
-    ry "Non, tous mes amis sont de retour sur le campus pour la plupart."
+    ry ""
 
-# game/v12/scene7.rpy:2361
+# game/v12/scene7.rpy:2350
 translate francais v12s7_ryan1_4d3fc017:
 
     # u "Well, we're gonna be here in Paris for a bit and still have another stop after that so you should definitely try and enjoy it while you're here."
-    u "Eh bien, nous allons être ici à Paris pendant un certain temps et nous avons encore un autre endroit à visiter après ça, donc tu devrais vraiment essayer d'en profiter pendant que tu es ici."
+    u ""
 
-# game/v12/scene7.rpy:2366
+# game/v12/scene7.rpy:2355
 translate francais v12s7_ryan1_a5315aa8:
 
     # ry "Honestly I wouldn't know how else I can play into this role without continuing to piss Imre off. *Chuckles*"
-    ry "Honnêtement, je ne sais pas comment jouer ce rôle autrement et sans continuer à faire chier Imre. *Rire*"
+    ry ""
 
-# game/v12/scene7.rpy:2371
+# game/v12/scene7.rpy:2360
 translate francais v12s7_ryan1_6afe8459:
 
     # u "Yeah, it does seem to be part of your role."
-    u "Oui, ça semble faire partie de ton rôle."
+    u ""
 
-# game/v12/scene7.rpy:2376
+# game/v12/scene7.rpy:2365
 translate francais v12s7_ryan1_72c78c6d:
 
     # ry "He's sensitive to anything gay, it makes it so easy to bother him. I told him I can't wait till tonight, that I was gonna show him a good time."
-    ry "Il est sensible à tout ce qui est gay, c'est si facile de l'emmerder. Je lui ai dit que je ne pouvais pas attendre ce soir, que j'allais lui faire passer un bon moment."
+    ry ""
 
-# game/v12/scene7.rpy:2377
+# game/v12/scene7.rpy:2366
 translate francais v12s7_ryan1_10f21fd7:
 
     # ry "If Mr. Lee wasn't nearby I don't know what he would've done, but his face got super red. *Laughs*"
-    ry "Si Mr Lee n'était pas à proximité, je ne sais pas ce qu'il aurait fait, mais son visage est devenu vraiment rouge. *Rire*"
+    ry ""
 
-# game/v12/scene7.rpy:2382
+# game/v12/scene7.rpy:2371
 translate francais v12s7_ryan1_f01591d2:
 
     # u "*Laughs* Be careful, this is gonna be over eventually and he won't be worried about Mr. Lee anymore. He may just throw you overboard himself."
-    u "*Rire* Attention, ça va finir par se terminer et il sera plus inquiet à cause de Mr Lee. Il pourrait bien te jeter par dessus bord lui-même."
+    u ""
 
-# game/v12/scene7.rpy:2387
+# game/v12/scene7.rpy:2376
 translate francais v12s7_ryan1_79b4a6f3:
 
     # ry "That would suck. I can barely swim."
-    ry "Ça craindrait. Je sais à peine nager."
+    ry ""
 
-# game/v12/scene7.rpy:2392
+# game/v12/scene7.rpy:2381
 translate francais v12s7_ryan1_8d402e41:
 
     # u "What? *Chuckles*"
-    u "Quoi ? *Rire*"
+    u ""
 
-# game/v12/scene7.rpy:2397
+# game/v12/scene7.rpy:2386
 translate francais v12s7_ryan1_e398450d:
 
     # ry "What do you mean \"what\"?There's a lot of adults that don't know how to swim, and I'm not saying I don't know how to, I'm saying I barely know how to."
-    ry "Que veux-tu dire par \"quoi\" ? Il y a beaucoup d'adultes qui ne savent pas nager, et je ne dis pas que je ne sais pas, je dis que je sais à peine."
+    ry ""
 
-# game/v12/scene7.rpy:2402
+# game/v12/scene7.rpy:2391
 translate francais v12s7_ryan1_b9898d16:
 
     # u "*Laughs* How do you barely know how to swim?"
-    u "*Rire* Comment ça se fait que tu saches à peine nager ?"
+    u ""
 
-# game/v12/scene7.rpy:2407
+# game/v12/scene7.rpy:2396
 translate francais v12s7_ryan1_4282e782:
 
     # ry "Because, I've never been swimming before, but like, I'm sure it's not that hard."
-    ry "Parce que, je n'ai jamais nagé avant, mais je suis sûr que ce n'est pas si difficile."
+    ry ""
 
-# game/v12/scene7.rpy:2412
+# game/v12/scene7.rpy:2401
 translate francais v12s7_ryan1_9dbaecde:
 
     # u "YOU'VE NEVER BEEN SWIMMING?"
-    u "TU N'AS JAMAIS NAGÉ ?"
+    u ""
 
-# game/v12/scene7.rpy:2417
+# game/v12/scene7.rpy:2406
 translate francais v12s7_ryan1_fdd94041:
 
     # ry "Bro chill, why you so loud? No, I haven't been swimming before. I don't see the big deal."
-    ry "Frère Relax, pourquoi es-tu si bruyant ? Non, je n'ai jamais nagé avant. Je ne vois pas le problème."
+    ry ""
 
-# game/v12/scene7.rpy:2422
+# game/v12/scene7.rpy:2411
 translate francais v12s7_ryan1_698e599c:
 
     # u "Maybe because we live in California right next to an ocean?"
-    u "Peut-être parce que nous vivons en Californie, juste à côté d'un océan ?"
+    u ""
 
-# game/v12/scene7.rpy:2427
+# game/v12/scene7.rpy:2416
 translate francais v12s7_ryan1_163f9415:
 
     # ry "I don't really like the ocean. You know we've only discovered like five percent of it? Nobody knows what's in there, and I'm not gonna be fish food."
-    ry "Je n'aime pas vraiment l'océan. Tu sais qu'on n'en a découvert que 5%% ? Personne ne sait ce qu'il y a là-dedans, et je ne vais pas servir de nourriture aux poissons."
+    ry ""
 
-# game/v12/scene7.rpy:2432
+# game/v12/scene7.rpy:2421
 translate francais v12s7_ryan1_c53b1b1c:
 
     # u "Haha, I'm gonna go let Mr. Lee know you want to get in the water."
-    u "Haha, je vais aller dire à Mr Lee que tu veux aller dans l'eau."
+    u ""
 
-# game/v12/scene7.rpy:2437
+# game/v12/scene7.rpy:2426
 translate francais v12s7_ryan1_3f7deda2:
 
     # ry "You do that and I'll let Charli know you want to be roommates in Paris."
-    ry "Tu fais ça et je fais savoir à Charli que tu veux être son colocataire à Paris."
+    ry ""
 
-# game/v12/scene7.rpy:2442
+# game/v12/scene7.rpy:2431
 translate francais v12s7_ryan1_c8d1074c:
 
     # u "I may be willing to take that risk. *Chuckles*"
-    u "Je suis peut-être prêt à prendre ce risque. *Rire*"
+    u ""
 
-# game/v12/scene7.rpy:2447
+# game/v12/scene7.rpy:2436
 translate francais v12s7_ryan1_3be64406:
 
     # ry "You're brave. *Chuckles*"
-    ry "Tu es courageux.  *Rire*"
+    ry ""
 
-# game/v12/scene7.rpy:2463
+# game/v12/scene7.rpy:2452
 translate francais v12s7_ryan_kill_fda23e9a:
 
     # u "Boom."
-    u "Pan."
+    u ""
 
-# game/v12/scene7.rpy:2471
+# game/v12/scene7.rpy:2460
 translate francais v12s7_ryan_kill_4d0c5672:
 
     # ry "Wait, you're the killer?"
-    ry "Attends, tu es le tueur ?"
+    ry ""
 
-# game/v12/scene7.rpy:2476
+# game/v12/scene7.rpy:2465
 translate francais v12s7_ryan_kill_ff223546:
 
     # u "Yep."
-    u "Ouaip."
+    u ""
 
-# game/v12/scene7.rpy:2481
+# game/v12/scene7.rpy:2470
 translate francais v12s7_ryan_kill_e47fd058:
 
     # ry "Oh shoot, that's great. The one thing Imre and I agree on is ending this game so hurry up and kill everyone."
-    ry "Oh mince, c'est génial. La seule chose sur laquelle Imre et moi sommes d'accord est de mettre fin à ce jeu, alors dépêche-toi de tuer tout le monde."
+    ry ""
 
-# game/v12/scene7.rpy:2486
+# game/v12/scene7.rpy:2475
 translate francais v12s7_ryan_kill_423c6f19:
 
     # u "Haha, okay."
-    u "Haha, ok."
+    u ""
 
-# game/v12/scene7.rpy:2505
+# game/v12/scene7.rpy:2494
 translate francais v12s7_imre2_1e8c4302:
 
     # u "Hello Mrs."
-    u "Bonjour Madame."
+    u ""
 
-# game/v12/scene7.rpy:2513
+# game/v12/scene7.rpy:2502
 translate francais v12s7_imre2_10fd14ca:
 
     # imre "Get out of here with that shit bro."
-    imre "Sors d'ici avec cette merde, mon frère."
+    imre ""
 
-# game/v12/scene7.rpy:2518
+# game/v12/scene7.rpy:2507
 translate francais v12s7_imre2_e43754f7:
 
     # u "Bro chill out, why do you let that bother you so much?"
-    u "Calme-toi, pourquoi tu laisses ça te perturber autant ?"
+    u ""
 
-# game/v12/scene7.rpy:2523
+# game/v12/scene7.rpy:2512
 translate francais v12s7_imre2_f12b8d87:
 
     # imre "It's not bothering me anymore than it would bother anyone else. You guys are acting like I'm actually gay or something."
-    imre "Ça m'dérange pas plus que ça dérangerait n'importe qui d'autre. Vous agissez tous comme si j'étais réellement gay ou quelque chose comme ça."
+    imre ""
 
-# game/v12/scene7.rpy:2528
+# game/v12/scene7.rpy:2517
 translate francais v12s7_imre2_ca21c5f3:
 
     # u "I don't think that's what anyone is doing. *Chuckles*"
-    u "Je pense pas que c'est ce que quiconque fait. *Rire*"
+    u ""
 
-# game/v12/scene7.rpy:2533
+# game/v12/scene7.rpy:2522
 translate francais v12s7_imre2_015f9bb4:
 
     # imre "Yeah you are, and we both know that's far from true. Always have and always will be a man of the ladies."
-    imre "Mouais, mais nous savons tous les deux qu'c'est loin d'être vrai. J'ai toujours été et j'serai toujours un homme à femmes."
+    imre ""
 
-# game/v12/scene7.rpy:2538
+# game/v12/scene7.rpy:2527
 translate francais v12s7_imre2_228ec0aa:
 
     # u "Not being able to take a joke and being super sensitive makes you look way more sus."
-    u "Ne pas être capable de prendre une blague et être super sensible te donne l'air bien plus louche."
+    u ""
 
-# game/v12/scene7.rpy:2543
+# game/v12/scene7.rpy:2532
 translate francais v12s7_imre2_321684f4:
 
     # imre "No it doesn't, it needs to be known I don't rock like that. You, Charli and Ryan may think it's all fun and games, but I don't."
-    imre "Non, il faut qu'tu saches que j'fais pas d'vagues comme ça. Toi, Charli et Ryan pensez peut-être qu'c'est une partie d'plaisir, mais pas moi."
+    imre ""
 
-# game/v12/scene7.rpy:2548
+# game/v12/scene7.rpy:2537
 translate francais v12s7_imre2_2ee22002:
 
     # u "If it really bothers you I can try and reel it back, but I can't make any promises. *Chuckles* At least not during the game."
-    u "Si ça te dérange vraiment, je peux essayer de remettre les choses dans l'ordre, mais je peux rien promettre. *Rire* Du moins pas pendant le jeu."
+    u ""
 
-# game/v12/scene7.rpy:2553
+# game/v12/scene7.rpy:2542
 translate francais v12s7_imre2_ee871324:
 
     # imre "Man fuck this game, Mr. Lee literally did all of this just to fuck with me."
-    imre "Mec, j'emmerde ce jeu, Mr Lee a littéralement fait tout ça juste pour m'emmerder."
+    imre ""
 
-# game/v12/scene7.rpy:2558
+# game/v12/scene7.rpy:2547
 translate francais v12s7_imre2_56113c9d:
 
     # u "You sure about that?"
-    u "Tu es sûr de ça ?"
+    u ""
 
-# game/v12/scene7.rpy:2563
+# game/v12/scene7.rpy:2552
 translate francais v12s7_imre2_d4a58972:
 
     # imre "Ugh duh. He gave me the worst character, he's following me around, and threating to throw me in the fucking water. Yeah, he's just doing this to be a dick."
-    imre "Hum... Il m'a donné le pire personnage, il m'suit partout, et menace de m'jeter dans l'eau. Ouais, il fait ça juste pour être un con."
+    imre ""
 
-# game/v12/scene7.rpy:2564
+# game/v12/scene7.rpy:2553
 translate francais v12s7_imre2_1db02e63:
 
     # imre "If I wasn't here you guys would be kicking back enjoying the breeze. If the fucking murderer would do his job or hurry up and get caught this would finally be over with."
-    imre "Si j'étais pas là, vous seriez en train de profiter d'la brise. Si c'putain d'meurtrier faisait son travail ou s'dépêchait de s'faire attraper, tout serait enfin terminé."
+    imre ""
 
-# game/v12/scene7.rpy:2569
+# game/v12/scene7.rpy:2558
 translate francais v12s7_imre2_01c02c6f:
 
     # u "So I guess that means you haven't found the killer and aren't the killer."
-    u "Donc je crois que ça veut dire que tu n'as pas trouvé le tueur et que tu n'es pas le tueur."
+    u ""
 
-# game/v12/scene7.rpy:2574
+# game/v12/scene7.rpy:2563
 translate francais v12s7_imre2_f5a4f08e:
 
     # imre "I would've shut this shit down a long time ago if I was the killer."
-    imre "J'aurais arrêté cette merde il y a longtemps si j'étais l'tueur."
+    imre ""
 
-# game/v12/scene7.rpy:2579
+# game/v12/scene7.rpy:2568
 translate francais v12s7_imre2_26840762:
 
     # u "So what's your plan to catch the killer then?"
-    u "Alors quel est ton plan pour l'attraper ?"
+    u ""
 
-# game/v12/scene7.rpy:2584
+# game/v12/scene7.rpy:2573
 translate francais v12s7_imre2_8209c6af:
 
     # imre "I haven't been able to do anything, because Mr. Lee won't let me breathe. He got distracted and it gave me a chance to get over here. He hasn't found me yet."
-    imre "J'ai rien pu faire, car Mr Lee m'laisse pas respirer. Il a été distrait et ça m'a donné une chance d'venir ici. Il m'a pas encore trouvé."
+    imre ""
 
-# game/v12/scene7.rpy:2585
+# game/v12/scene7.rpy:2574
 translate francais v12s7_imre2_31e1da3a:
 
     # imre "If the killer would just kill me so I can be done with this that'd be great. Then Ryan can be a dumbass widow with no job on a cruise by himself walking around like an idiot."
-    imre "Si l'tueur voulait bien m'tuer pour qu'j'en finisse avec ça, ce serait génial. Alors Ryan pourra être un veuf stupide sans travail, seul sur une croisière, marchant comme un idiot."
+    imre ""
 
-# game/v12/scene7.rpy:2590
+# game/v12/scene7.rpy:2579
 translate francais v12s7_imre2_586cd461:
 
     # u "Seems like you're enjoying his character's sad story quite a bit."
-    u "On dirait que tu apprécies beaucoup la triste histoire de son personnage."
+    u ""
 
-# game/v12/scene7.rpy:2595
+# game/v12/scene7.rpy:2584
 translate francais v12s7_imre2_38371aa2:
 
     # imre "It just fits him well."
-    imre "Ça lui va très bien."
+    imre ""
 
-# game/v12/scene7.rpy:2600
+# game/v12/scene7.rpy:2589
 translate francais v12s7_imre2_40ad2361:
 
     # u "Well, good luck dying."
-    u "Eh bien, je te souhaite de mourir rapidement."
+    u ""
 
-# game/v12/scene7.rpy:2605
+# game/v12/scene7.rpy:2594
 translate francais v12s7_imre2_bb60348b:
 
     # imre "This is the first time I've said \"kill me now\" and actually meant it. *Laughs*"
-    imre "C'est la première fois que j'dis \"tue moi maintenant\" et que j'le pense vraiment. *Rire*"
+    imre ""
 
-# game/v12/scene7.rpy:2610
+# game/v12/scene7.rpy:2599
 translate francais v12s7_imre2_fcc18885:
 
     # u "*Laughs*"
-    u " *Rire*"
+    u ""
 
-# game/v12/scene7.rpy:2626
+# game/v12/scene7.rpy:2615
 translate francais v12s7_imre_kill_fda23e9a:
 
     # u "Boom."
-    u "Pan."
+    u ""
 
-# game/v12/scene7.rpy:2634
+# game/v12/scene7.rpy:2623
 translate francais v12s7_imre_kill_a9430214:
 
     # imre "Please tell me you're not joking with me right now?"
-    imre "S'te plaît, dis-moi qu'tu plaisantes pas avec moi là ?"
+    imre ""
 
-# game/v12/scene7.rpy:2639
+# game/v12/scene7.rpy:2628
 translate francais v12s7_imre_kill_976a075c:
 
     # u "Haha, nope, I'm actually the killer."
-    u "Haha, non, c'est bien moi le tueur."
+    u ""
 
-# game/v12/scene7.rpy:2645
+# game/v12/scene7.rpy:2634
 translate francais v12s7_imre_kill_ed115a81:
 
     # imre "FREEDOM!!!"
-    imre "ENFIN LIIIIBRE ! !!"
+    imre ""
 
-# game/v12/scene7.rpy:2650
+# game/v12/scene7.rpy:2639
 translate francais v12s7_imre_kill_eefed9e7:
 
     # u "Bro hush. *Chuckles* I have more people to kill."
-    u "Chut mon frère *Rire* J'ai d'autres personnes à tuer."
+    u ""
 
-# game/v12/scene7.rpy:2655
+# game/v12/scene7.rpy:2644
 translate francais v12s7_imre_kill_323444b0:
 
     # imre "Sorry man, I just feel so good right now. It feels good to be dead. Thanks man."
-    imre "Désolé mec, je m'sens si bien en c'moment. Ça fait du bien d'être mort. Merci mon frère."
+    imre ""
 
-# game/v12/scene7.rpy:2660
+# game/v12/scene7.rpy:2649
 translate francais v12s7_imre_kill_54b7523c:
 
     # u "Haha, you're welcome."
-    u "Haha, je t'en prie."
+    u ""
 
-# game/v12/scene7.rpy:2665
+# game/v12/scene7.rpy:2654
 translate francais v12s7_imre_kill_5fce8d35:
 
     # u "(He's crazy. *Chuckles*)"
-    u "(Il est dingue. *Rire*)"
+    u ""
 
-# game/v12/scene7.rpy:2681
+# game/v12/scene7.rpy:2670
 translate francais v12s7_lindsey_charlie1_e068b7b7:
 
     # u "Surprised we haven't crashed yet."
-    u "Surpris qu'on ait pas encore sombré."
+    u ""
 
-# game/v12/scene7.rpy:2694
+# game/v12/scene7.rpy:2683
 translate francais v12s7_lindsey_charlie1_6994b47d:
 
     # li "Hey hey, got any good leads for us? I ran everything over with the Captain and we haven't come up with anything."
-    li "Hé hé, tu as une bonne piste pour nous ? J'ai tout vérifié avec le capitaine et on n'a encore rien trouvé."
+    li ""
 
-# game/v12/scene7.rpy:2699
+# game/v12/scene7.rpy:2688
 translate francais v12s7_lindsey_charlie1_5ae69c00:
 
     # u "I've got nothing, haven't been doing much looking around."
-    u "Je n'ai rien, je n'ai pas beaucoup cherché."
+    u ""
 
-# game/v12/scene7.rpy:2704
+# game/v12/scene7.rpy:2693
 translate francais v12s7_lindsey_charlie1_4943de9f:
 
     # charli "Murderers don't need to look around for the murderer."
-    charli "Les meurtriers n'ont pas besoin de se chercher eux-mêmes."
+    charli ""
 
-# game/v12/scene7.rpy:2709
+# game/v12/scene7.rpy:2698
 translate francais v12s7_lindsey_charlie1_02a6193c:
 
     # li "And you think he's the murderer because..."
-    li "Et vous pensez que c'est lui le meurtrier parce que..."
+    li ""
 
-# game/v12/scene7.rpy:2714
+# game/v12/scene7.rpy:2703
 translate francais v12s7_lindsey_charlie1_056914d4:
 
     # charli "Mr. Lee gave us our roles and it would make sense to me that he'd choose [name] as the killer."
-    charli "Mr Lee nous a donné nos rôles et il me semble logique qu'il ait choisi [name] comme tueur."
+    charli ""
 
-# game/v12/scene7.rpy:2719
+# game/v12/scene7.rpy:2708
 translate francais v12s7_lindsey_charlie1_6b3a3f06:
 
     # li "Well, let's not jump to conclusions. So far, based on my notes I've ruled out some people. I've ruled out Imre, Ryan, and Amber."
-    li "Eh bien, ne sautons pas aux conclusions. Jusqu'à présent, d'après mes notes, j'ai exclu certaines personnes. Pour moi, Imre, Ryan, et Amber sont hors-jeu."
+    li ""
 
-# game/v12/scene7.rpy:2724
+# game/v12/scene7.rpy:2713
 translate francais v12s7_lindsey_charlie1_fbcf0b70:
 
     # u "How'd you rule them out?"
-    u "Et comment les avez-vous éliminés de la liste des suspects ?"
+    u ""
 
-# game/v12/scene7.rpy:2729
+# game/v12/scene7.rpy:2718
 translate francais v12s7_lindsey_charlie1_d7da7292:
 
     # li "Well, it was actually Charli. Charli, do you want to explain?"
-    li "En fait, c'était Charli. Charli, voulez-vous bien expliquer ?"
+    li ""
 
-# game/v12/scene7.rpy:2734
+# game/v12/scene7.rpy:2723
 translate francais v12s7_lindsey_charlie1_9f9a3d0c:
 
     # charli "You may have a hard time understanding so try and focus."
-    charli "Vous aurez peut-être du mal à comprendre, alors essayez de vous concentrer."
+    charli ""
 
-# game/v12/scene7.rpy:2739
+# game/v12/scene7.rpy:2728
 translate francais v12s7_lindsey_charlie1_57ae9944:
 
     # u "*Sighs*"
-    u "*Soupirs* Vas-y... (connard !)"
+    u ""
 
-# game/v12/scene7.rpy:2744
+# game/v12/scene7.rpy:2733
 translate francais v12s7_lindsey_charlie1_1fc8f12b:
 
     # charli "Imre wants the game to be over, if he was the murderer he would've killed Ryan in front of someone in order to get caught."
-    charli "Imre veut que le jeu soit terminé. S'il était le meurtrier, il aurait tué Ryan devant quelqu'un pour se faire prendre."
+    charli ""
 
-# game/v12/scene7.rpy:2745
+# game/v12/scene7.rpy:2734
 translate francais v12s7_lindsey_charlie1_6c71cf84:
 
     # charli "Ryan would have killed Imre out of frustration and Amber has had too many opportunities to kill people yet she hasn't. So we know none of them are the killer."
-    charli "Ryan aurait tué Imre par frustration et Amber a eu trop d'occasions de tuer des gens, mais elle ne l'a pas fait. Donc on sait qu'aucun d'entre eux n'est le tueur."
+    charli ""
 
-# game/v12/scene7.rpy:2750
+# game/v12/scene7.rpy:2739
 translate francais v12s7_lindsey_charlie1_74d6accc:
 
     # u "Are there people you're suspicious of?"
-    u "Y a-t-il des gens dont vous vous méfiez ?"
+    u ""
 
-# game/v12/scene7.rpy:2755
+# game/v12/scene7.rpy:2744
 translate francais v12s7_lindsey_charlie1_6fa787c4:
 
     # charli "Outside of you, no."
-    charli "À part vous, non."
+    charli ""
 
-# game/v12/scene7.rpy:2760
+# game/v12/scene7.rpy:2749
 translate francais v12s7_lindsey_charlie1_ea1ccb3c:
 
     # li "I have other suspicions, as a detective it's my job to be open minded. I'm suspecting Lauren."
-    li "J'ai d'autres soupçons, en tant que détective c'est mon travail d'être ouverte d'esprit. Je soupçonne Lauren."
+    li ""
 
-# game/v12/scene7.rpy:2765
+# game/v12/scene7.rpy:2754
 translate francais v12s7_lindsey_charlie1_fb608404:
 
     # charli "Because she's a criminal."
-    charli "Parce que c'est une criminelle."
+    charli ""
 
-# game/v12/scene7.rpy:2770
+# game/v12/scene7.rpy:2759
 translate francais v12s7_lindsey_charlie1_c1f92966:
 
     # li "Well, yes."
-    li "Eh bien, oui."
+    li ""
 
-# game/v12/scene7.rpy:2775
+# game/v12/scene7.rpy:2764
 translate francais v12s7_lindsey_charlie1_ec7d5895:
 
     # charli "*Chuckles* It's definitely not her, too obvious and Mr. Lee would never choose her."
-    charli "*Rire* Ce n'est certainement pas elle, c'est trop évident et Mr Lee ne la choisirait jamais."
+    charli ""
 
-# game/v12/scene7.rpy:2780
+# game/v12/scene7.rpy:2769
 translate francais v12s7_lindsey_charlie1_ca1c2bf8:
 
     # li "Or that's what he wants you to think. When solving a problem, you always gotta work backwards, that way you're never surprised by what's to come."
-    li "Ou c'est ce qu'il veut que vous pensiez. Quand on veut résoudre un problème, il faut toujours chercher toutes les pistes, comme ça, on n'est jamais surpris par ce qui nous attend."
+    li ""
 
-# game/v12/scene7.rpy:2785
+# game/v12/scene7.rpy:2774
 translate francais v12s7_lindsey_charlie1_1afd1044:
 
     # u "Yeah, c'mon now Charli."
-    u "Ouais, allez, Charli."
+    u ""
 
-# game/v12/scene7.rpy:2790
+# game/v12/scene7.rpy:2779
 translate francais v12s7_lindsey_charlie1_8e6a4518:
 
     # charli "I'm not sure that applies here., I'm itching to use my PA system though, so once you find something worth announcing please let me know."
-    charli "Je ne suis pas sûr que ça s'applique ici, mais ça me démange d'utiliser mon micro, alors si vous trouvez quelque chose à annoncer, faites-le moi savoir."
+    charli ""
 
-# game/v12/scene7.rpy:2795
+# game/v12/scene7.rpy:2784
 translate francais v12s7_lindsey_charlie1_2c607ab5:
 
     # li "Only if you let me join you."
-    li "Seulement si vous me laissez me joindre à vous."
+    li ""
 
-# game/v12/scene7.rpy:2800
+# game/v12/scene7.rpy:2789
 translate francais v12s7_lindsey_charlie1_e4632cf5:
 
     # charli "I don't see why not."
-    charli "Je ne vois pas ce qui empêcherait de le faire."
+    charli ""
 
-# game/v12/scene7.rpy:2805
+# game/v12/scene7.rpy:2794
 translate francais v12s7_lindsey_charlie1_f4e6570c:
 
     # li "Good, [name]. You sure there's nothing you've seen?"
-    li "Bien, [name]. Vous êtes sûr qu'il n'y a rien que vous ayez vu ?"
+    li ""
 
-# game/v12/scene7.rpy:2813
+# game/v12/scene7.rpy:2802
 translate francais v12s7_lindsey_charlie1_4ab862d0:
 
     # u "Well, I did see Ryan say something about wiping everyone out. He said it to Imre, but I don't know what the context was."
-    u "Eh bien, j'ai vu Ryan dire quelque chose à propos d'éliminer tout le monde. Il l'a dit à Imre, mais je sais pas quel était le contexte."
+    u ""
 
-# game/v12/scene7.rpy:2818
+# game/v12/scene7.rpy:2807
 translate francais v12s7_lindsey_charlie1_6e9bf3bd:
 
     # charli "Throwing the blame, huh?"
-    charli "Rejeter la faute sur les autres, hein ?"
+    charli ""
 
-# game/v12/scene7.rpy:2823
+# game/v12/scene7.rpy:2812
 translate francais v12s7_lindsey_charlie1_491f579e:
 
     # u "Uhh no, just saying what I heard."
-    u "Euh non, je dis juste ce que j'ai entendu."
+    u ""
 
-# game/v12/scene7.rpy:2829
+# game/v12/scene7.rpy:2818
 translate francais v12s7_lindsey_charlie1_fb065a6b:
 
     # u "Nope, nothing. Haven't got a clue who it is."
-    u "Non, rien. Je n'ai pas la moindre idée de qui ça pourrait être."
+    u ""
 
-# game/v12/scene7.rpy:2834
+# game/v12/scene7.rpy:2823
 translate francais v12s7_lindsey_charlie1_bcfea071:
 
     # charli "Don't want to admit it's you, but also don't want to look suspicious by passing the blame. You're too predictable."
-    charli "Vous ne voulez pas admettre que c'est vous, mais vous ne voulez pas non plus avoir l'air suspect en rejetant la faute sur vous. Vous êtes trop prévisible."
+    charli ""
 
-# game/v12/scene7.rpy:2839
+# game/v12/scene7.rpy:2828
 translate francais v12s7_lindsey_charlie1_285608e2:
 
     # u "Whatever you say man. Don't let that Captain shit go to your head."
-    u "Comme tu veux, mec. Laisse pas ce truc de capitaine te monter à la tête."
+    u ""
 
-# game/v12/scene7.rpy:2844
+# game/v12/scene7.rpy:2833
 translate francais v12s7_lindsey_charlie1_a2b96ec5:
 
     # li "Hmmm, well I'm gonna start with Ryan. I know we ruled him out but I'm still suspicious."
-    li "Hmmm, et bien je vais commencer par Ryan. Je sais que nous l'avons exclu mais je suis toujours soupçonneuse."
+    li ""
 
-# game/v12/scene7.rpy:2849
+# game/v12/scene7.rpy:2838
 translate francais v12s7_lindsey_charlie1_8af5897a:
 
     # charli "So you're leaving me here then?"
-    charli "Alors vous me laissez ici ?"
+    charli ""
 
-# game/v12/scene7.rpy:2854
+# game/v12/scene7.rpy:2843
 translate francais v12s7_lindsey_charlie1_042a8f6a:
 
     # li "Yeah, sorry. *Chuckles*"
-    li "Ouais, désolée. *Rire*"
+    li ""
 
-# game/v12/scene7.rpy:2861
+# game/v12/scene7.rpy:2850
 translate francais v12s7_lindsey_charlie1_39aaee93:
 
     # u "Isn't it smarter to stay up here the whole time? You know Charli isn't the killer, plus Amber is supposed to be keeping you guys updated, right?"
-    u "Ce serait pas plus intelligent de rester ici tout le temps ? Vous savez que Charli n'est pas le tueur, et Amber est censée vous tenir au courant, non ?"
+    u ""
 
-# game/v12/scene7.rpy:2866
+# game/v12/scene7.rpy:2855
 translate francais v12s7_lindsey_charlie1_3ac61ec7:
 
     # li "True... It's probably more fun out there though."
-    li "C'est vrai... Mais c'est quand même plus amusant dehors."
+    li ""
 
-# game/v12/scene7.rpy:2871
+# game/v12/scene7.rpy:2860
 translate francais v12s7_lindsey_charlie1_8ac3f6ad:
 
     # charli "Oh..."
-    charli "Oh..."
+    charli ""
 
-# game/v12/scene7.rpy:2876
+# game/v12/scene7.rpy:2865
 translate francais v12s7_lindsey_charlie1_16df0f0f:
 
     # li "No, I- I didn't mean it like that, I... Nevermind. *Laughs* I'm just gonna stay here. Where we're both safe..."
-    li "Non, je... je ne voulais pas dire ça comme ça, je... C'est pas grave. *Rire* Je vais juste rester ici. Là où nous sommes, tous les deux, en sécurité..."
+    li ""
 
-# game/v12/scene7.rpy:2881
+# game/v12/scene7.rpy:2870
 translate francais v12s7_lindsey_charlie1_c2ce717f:
 
     # charli "Yay!"
-    charli "Oui !"
+    charli ""
 
-# game/v12/scene7.rpy:2886
+# game/v12/scene7.rpy:2875
 translate francais v12s7_lindsey_charlie1_aa093f91:
 
     # u "(Yay...) Well, I'll come check on you in a bit, yeah?"
-    u "( Oui...) Bien, je viendrai te voir dans un moment, d'accord ?"
+    u ""
 
-# game/v12/scene7.rpy:2891
+# game/v12/scene7.rpy:2880
 translate francais v12s7_lindsey_charlie1_c182f0ab:
 
     # li "Sounds good!"
-    li "Ça a l'air bon !"
+    li ""
 
-# game/v12/scene7.rpy:2899
+# game/v12/scene7.rpy:2888
 translate francais v12s7_lindsey_charlie1_ee76ab83:
 
     # u "The more people we have investigating, the quicker we can find out who the killer is."
-    u "Plus il y a de personnes qui enquêtent, plus vite on peut découvrir qui est le tueur."
+    u ""
 
-# game/v12/scene7.rpy:2904
+# game/v12/scene7.rpy:2893
 translate francais v12s7_lindsey_charlie1_526be1e8:
 
     # li "Exactly. I'll come check on you every so often, okay? *Chuckles*"
-    li "Exactement. Je viendrai te voir de temps en temps, d'accord ? *Rire*"
+    li ""
 
-# game/v12/scene7.rpy:2909
+# game/v12/scene7.rpy:2898
 translate francais v12s7_lindsey_charlie1_7a33eaf3:
 
     # charli "If you come back and I'm not here then [name] was the killer."
-    charli "Si tu reviens et que je ne suis pas là, alors c'est que [name] était le tueur."
+    charli ""
 
-# game/v12/scene7.rpy:2914
+# game/v12/scene7.rpy:2903
 translate francais v12s7_lindsey_charlie1_c8d40bb4:
 
     # li "Noted."
-    li "Noté."
+    li ""
 
-# game/v12/scene7.rpy:2924
+# game/v12/scene7.rpy:2913
 translate francais v12s7_lindsey_charlie1_0e5718dd:
 
     # charli "Hurry up and get it over with."
-    charli "Dépêche-toi et finis-en."
+    charli ""
 
-# game/v12/scene7.rpy:2929
+# game/v12/scene7.rpy:2918
 translate francais v12s7_lindsey_charlie1_34db8439:
 
     # u "Ha, I couldn't be a good guy to you even in a made up scenario."
-    u "Ha, je pourrais jamais être un mec bien pour toi, même dans un scénario inventé."
+    u ""
 
-# game/v12/scene7.rpy:2934
+# game/v12/scene7.rpy:2923
 translate francais v12s7_lindsey_charlie1_96733f97:
 
     # charli "Nope."
-    charli "Non."
+    charli ""
 
-# game/v12/scene7.rpy:2939
+# game/v12/scene7.rpy:2928
 translate francais v12s7_lindsey_charlie1_a155519e:
 
     # u "Well, definitely not hanging around you for fun, later Charli."
-    u "Eh bien, je vais certainement pas traîner avec toi pour m'amuser, plus tard Charli."
+    u ""
 
-# game/v12/scene7.rpy:2944
+# game/v12/scene7.rpy:2933
 translate francais v12s7_lindsey_charlie1_86b12f40:
 
     # charli "..."
-    charli "..."
+    charli ""
 
-# game/v12/scene7.rpy:2949
+# game/v12/scene7.rpy:2938
 translate francais v12s7_lindsey_charlie1_e51ea262:
 
     # u "(Asshole.)"
-    u "(Trou du cul.)"
+    u ""
 
-# game/v12/scene7.rpy:2973
+# game/v12/scene7.rpy:2959
 translate francais v12s7_lindsey2_f314139b:
 
     # li "Come over here citizen."
-    li "Venez par ici, citoyen."
+    li ""
 
-# game/v12/scene7.rpy:2986
+# game/v12/scene7.rpy:2972
 translate francais v12s7_lindsey2_0a0aa271:
 
     # u "Yes ma'am. *Chuckles*"
-    u "Oui, m'dame. *Rire*"
+    u ""
 
-# game/v12/scene7.rpy:2991
+# game/v12/scene7.rpy:2977
 translate francais v12s7_lindsey2_9ae25c7e:
 
     # li "I'm getting a lot closer to cracking this case."
-    li "Je suis sur le point de résoudre cette affaire."
+    li ""
 
-# game/v12/scene7.rpy:2996
+# game/v12/scene7.rpy:2982
 translate francais v12s7_lindsey2_fdc6ad7b:
 
     # u "Is that so?"
-    u "C'est vrai ?"
+    u ""
 
-# game/v12/scene7.rpy:3001
+# game/v12/scene7.rpy:2987
 translate francais v12s7_lindsey2_4f3d01e6:
 
     # li "It is, several people on board have told me Ryan aka Mr. Stork has not only mentioned killing people, but that he wants to see if he can kill everyone on board without being caught."
-    li "C'est vrai. Plusieurs personnes à bord m'ont dit que Ryan alias Mr Stork n'a pas seulement parlé de tuer des gens, mais qu'il veut voir s'il peut tuer tout le monde à bord sans se faire prendre."
+    li ""
 
-# game/v12/scene7.rpy:3006
+# game/v12/scene7.rpy:2992
 translate francais v12s7_lindsey2_22ca8425:
 
     # u "That would explain why he hasn't killed Imre or anyone in front of Imre."
-    u "Cela expliquerait pourquoi il n'a pas tué Imre ou toute autre personne en face d'Imre."
+    u ""
 
-# game/v12/scene7.rpy:3011
+# game/v12/scene7.rpy:2997
 translate francais v12s7_lindsey2_ce39d24d:
 
     # li "Exactly, because it's Imre's or Mrs. Stork's ultimate goal to end the game."
-    li "Exactement, parce que le but ultime d'Imre ou de Mme Stork est de mettre fin au jeu."
+    li ""
 
-# game/v12/scene7.rpy:3016
+# game/v12/scene7.rpy:3002
 translate francais v12s7_lindsey2_cc274be4:
 
     # u "Have you spoken to the Storks, maybe try and get them to separate?"
-    u "Avez-vous parlé aux Storks, pour tenter de les séparer ?"
+    u ""
 
-# game/v12/scene7.rpy:3021
+# game/v12/scene7.rpy:3007
 translate francais v12s7_lindsey2_5dd92cb3:
 
     # li "I considered it, but it's too risky. With it being so easy to murder without being caught and me being the main one interested in catching the murderer, I can't risk getting killed."
-    li "Je l'ai envisagé, mais c'est trop risqué. Comme il est si facile de tuer sans se faire prendre et que je suis la principale intéressée à attraper le meurtrier, je ne peux pas risquer de me faire tuer."
+    li ""
 
-# game/v12/scene7.rpy:3026
+# game/v12/scene7.rpy:3012
 translate francais v12s7_lindsey2_8c3c5fc1:
 
     # u "Well... sacrifice someone."
-    u "Eh bien... il faut sacrifier quelqu'un."
+    u ""
 
-# game/v12/scene7.rpy:3031
+# game/v12/scene7.rpy:3017
 translate francais v12s7_lindsey2_575d2ad3:
 
     # li "*Chuckles* I considered that, but I'm having a hard time choosing who."
-    li "*Rire* J'y ai pensé, mais j'ai du mal à choisir qui."
+    li ""
 
-# game/v12/scene7.rpy:3039
+# game/v12/scene7.rpy:3025
 translate francais v12s7_lindsey2_b0f2998b:
 
     # u "I can be your distraction. I'll just try and separate them... then see if I get murked or not."
-    u "Je peux être votre distraction. Je vais juste essayer de les séparer... et voir si on me tue ou pas."
+    u ""
 
-# game/v12/scene7.rpy:3046
+# game/v12/scene7.rpy:3032
 translate francais v12s7_lindsey2_093fe72f:
 
     # u "Let Charli be your distraction."
-    u "Laissez Charli être votre diversion."
+    u ""
 
-# game/v12/scene7.rpy:3051
+# game/v12/scene7.rpy:3037
 translate francais v12s7_lindsey2_2cdea843:
 
     # li "Charli can't leave his spot though."
-    li "Charli ne peut pas quitter sa place de travail."
+    li ""
 
-# game/v12/scene7.rpy:3056
+# game/v12/scene7.rpy:3042
 translate francais v12s7_lindsey2_b97c6150:
 
     # u "Just start talking to people about how vulnerable Charli is and see who takes the bait."
-    u "Alors, commencez à parler aux gens de la vulnérabilité de Charli et voyez qui mord à l'hameçon."
+    u ""
 
-# game/v12/scene7.rpy:3058
+# game/v12/scene7.rpy:3047
 translate francais v12s7_lindsey2_b1dabbcd:
 
     # li "Hmmm, not a bad idea."
-    li "Hmmm, ce n'est pas une mauvaise idée."
+    li ""
 
-# game/v12/scene7.rpy:3063
+# game/v12/scene7.rpy:3052
 translate francais v12s7_lindsey2_914bd289:
 
     # u "*Whisper* Why are you taking this so serious?"
-    u "*Chuchote* Pourquoi prends-tu ça si sérieusement ?"
+    u ""
 
-# game/v12/scene7.rpy:3068
+# game/v12/scene7.rpy:3057
 translate francais v12s7_lindsey2_0528b946:
 
     # li "The same reason you're whispering. *Chuckles* But I'm also having fun with it."
-    li "Pour la même raison que tu chuchotes. *Rire* Mais je m'amuse aussi avec ça."
+    li ""
 
-# game/v12/scene7.rpy:3073
+# game/v12/scene7.rpy:3062
 translate francais v12s7_lindsey2_01c949fa:
 
     # u "Keeping your mind off the Chicks stuff?"
-    u "Pour t'empêcher de penser aux trucs des Chicks ?"
+    u ""
 
-# game/v12/scene7.rpy:3078
+# game/v12/scene7.rpy:3067
 translate francais v12s7_lindsey2_d6564e9f:
 
     # li "I'm not even worried about all that anymore."
-    li "Je ne m'inquiète même plus de tout ça."
+    li ""
 
-# game/v12/scene7.rpy:3083
+# game/v12/scene7.rpy:3072
 translate francais v12s7_lindsey2_68f0538b:
 
     # u "Wait, you're not running anymore?"
-    u "Attends, tu vas plus faire la course à la présidence ?"
+    u ""
 
-# game/v12/scene7.rpy:3088
+# game/v12/scene7.rpy:3077
 translate francais v12s7_lindsey2_af32fac9:
 
     # li "Oh no, I'm definitely running. I'm saying I'm not stressed about it anymore. Most of the girls are cool with me running, I have a gameplan to persuade the others, so right now I'm happy just enjoying Europe."
-    li "Oh non, je suis définitivement dans la course. Je dis que je ne suis plus stressée par ça. La plupart des filles sont d'accord pour que je me présente, et j'ai un plan pour persuader les autres, donc pour l'instant je suis contente de profiter du séjour en Europe."
+    li ""
 
-# game/v12/scene7.rpy:3093
+# game/v12/scene7.rpy:3082
 translate francais v12s7_lindsey2_764aa7de:
 
     # u "You never fail to amaze me Lindsey."
-    u "Tu manques jamais de m'étonner, Lindsey."
+    u ""
 
-# game/v12/scene7.rpy:3098
+# game/v12/scene7.rpy:3087
 translate francais v12s7_lindsey2_ab1ca9ab:
 
     # li "I didn't become a detective by not being great."
-    li "Je ne suis pas devenue détective en n'étant pas géniale."
+    li ""
 
-# game/v12/scene7.rpy:3103
+# game/v12/scene7.rpy:3092
 translate francais v12s7_lindsey2_deb004e9:
 
     # u "Mr. Lee obviously chose all of our characters with a purpose. Why do you think he chose for you to be a detective?"
-    u "Mr Lee a manifestement choisi tous nos personnages dans un but précis. Pourquoi penses-tu qu'il a choisi que tu sois détective ?"
+    u ""
 
-# game/v12/scene7.rpy:3108
+# game/v12/scene7.rpy:3097
 translate francais v12s7_lindsey2_39952027:
 
     # li "I'm not sure, but I have been wondering."
-    li "Je ne suis pas sûre, mais je me suis posée la question."
+    li ""
 
-# game/v12/scene7.rpy:3113
+# game/v12/scene7.rpy:3102
 translate francais v12s7_lindsey2_70efd487:
 
     # u "Does he know about the Chicks stuff?"
-    u "Il est au courant des histoires avec les Chicks ?"
+    u ""
 
-# game/v12/scene7.rpy:3118
+# game/v12/scene7.rpy:3107
 translate francais v12s7_lindsey2_daedf9db:
 
     # li "There's no telling what he knows and doesn't know. It seems as though Mr. Lee knows everything."
-    li "On ne peut pas dire ce qu'il sait et ne sait pas. Mais, il semble que Mr Lee sait absolument TOUT."
+    li ""
 
-# game/v12/scene7.rpy:3123
+# game/v12/scene7.rpy:3112
 translate francais v12s7_lindsey2_79e72527:
 
     # u "You're not wrong about that. Question, why didn't you think I was the killer?"
-    u "Tu n'as pas tort. Question, pourquoi n'as-tu pas pensé que j'étais le tueur ?"
+    u ""
 
-# game/v12/scene7.rpy:3128
+# game/v12/scene7.rpy:3117
 translate francais v12s7_lindsey2_a4dbc0dc:
 
     # li "I wouldn't say I didn't think you were. I wasn't one way or the other, but Charli just had such an obvious bias so I didn't want to be blinded by that."
-    li "Je ne dirais pas que je ne pensais pas que ce n'était pas toi. Je ne penchais ni sur le fait que tu l'es, ni sur le fait que tu ne l'es pas, mais Charli avait un parti pris tellement important que je ne voulais pas être aveuglée par ça."
+    li ""
 
-# game/v12/scene7.rpy:3133
+# game/v12/scene7.rpy:3122
 translate francais v12s7_lindsey2_48aeda02:
 
     # u "What if you're blinded by liking me?"
-    u "Et si tu es aveuglée par le fait de bien m'aimer ?"
+    u ""
 
-# game/v12/scene7.rpy:3138
+# game/v12/scene7.rpy:3127
 translate francais v12s7_lindsey2_06796ee6:
 
     # li "Who says I like you?"
-    li "Qui dit que je t'aime bien ?"
+    li ""
 
-# game/v12/scene7.rpy:3143
+# game/v12/scene7.rpy:3132
 translate francais v12s7_lindsey2_45651142:
 
     # u "Oh so you don't like me? *Chuckles*"
-    u "Oh, donc tu m'aimes pas ? *Rire*"
+    u ""
 
-# game/v12/scene7.rpy:3148
+# game/v12/scene7.rpy:3137
 translate francais v12s7_lindsey2_44721488:
 
     # li "Oh that's not fair, you just tried to hit me with a trap question. *Chuckles*"
-    li "Oh, ce n'est pas juste, tu viens d'essayer de me coincer avec une question piège. *Rire*"
+    li ""
 
-# game/v12/scene7.rpy:3153
+# game/v12/scene7.rpy:3142
 translate francais v12s7_lindsey2_16e920b0:
 
     # u "Oh no it's fine, Charli's got me used to not being liked."
-    u "Oh non c'est bon, Charli m'a habitué à pas être aimé."
+    u ""
 
-# game/v12/scene7.rpy:3168
+# game/v12/scene7.rpy:3156
 translate francais v12s7_lindsey2_c7f6e755:
 
     # li "Well, I definitely don't dislike you... But that has nothing to do with the game and I'm not getting thrown overboard so I'm getting back to my investigation."
-    li "Eh bien, je ne te déteste absolument pas... Mais ça n'a rien à voir avec le jeu et je ne veux pas être jetée par-dessus bord alors je retourne à mon enquête."
+    li ""
 
-# game/v12/scene7.rpy:3173
+# game/v12/scene7.rpy:3161
 translate francais v12s7_lindsey2_b1cc772c:
 
     # u "Ha, you do that."
-    u "Oui, on peut faire ça."
+    u ""
 
-# game/v12/scene7.rpy:3191
+# game/v12/scene7.rpy:3179
 translate francais v12s7_lindsey_kill_fda23e9a:
 
     # u "Boom."
-    u "Pan."
+    u ""
 
-# game/v12/scene7.rpy:3199
+# game/v12/scene7.rpy:3187
 translate francais v12s7_lindsey_kill_0b0c4f3b:
 
     # li "You've got to be kidding me."
-    li "Tu te fous de moi."
+    li ""
 
-# game/v12/scene7.rpy:3204
+# game/v12/scene7.rpy:3192
 translate francais v12s7_lindsey_kill_b80e3af0:
 
     # u "I'm not though. *Chuckles*"
-    u "Oh que non. *Rire*"
+    u ""
 
-# game/v12/scene7.rpy:3209
+# game/v12/scene7.rpy:3197
 translate francais v12s7_lindsey_kill_c7ca4c4a:
 
     # li "Maybe I should listen to Charli more often. *Chuckles*"
-    li "Peut-être que je devrais écouter Charli plus souvent.  *Rire*"
+    li ""
 
-# game/v12/scene7.rpy:3214
+# game/v12/scene7.rpy:3202
 translate francais v12s7_lindsey_kill_a2dd3d96:
 
     # u "Or not, that'd work too."
-    u "Ou pas, ça marche aussi."
+    u ""
 
-# game/v12/scene7.rpy:3219
+# game/v12/scene7.rpy:3207
 translate francais v12s7_lindsey_kill_6d775098:
 
     # li "Haha, good luck murderer."
-    li "Haha, bonne chance assassin."
+    li ""
 
-# game/v12/scene7.rpy:3238
+# game/v12/scene7.rpy:3226
 translate francais v12s7_charli2_919ba46b:
 
     # u "Still alone huh?"
-    u "Toujours seul, hein ?"
+    u ""
 
-# game/v12/scene7.rpy:3246
+# game/v12/scene7.rpy:3234
 translate francais v12s7_charli2_102314a7:
 
     # charli "And so are you."
-    charli "Et toi aussi."
+    charli ""
 
-# game/v12/scene7.rpy:3251
+# game/v12/scene7.rpy:3239
 translate francais v12s7_charli2_22c03f2c:
 
     # u "Haven't heard you on the PA."
-    u "Je t'ai pas entendu au micro."
+    u ""
 
-# game/v12/scene7.rpy:3256
+# game/v12/scene7.rpy:3244
 translate francais v12s7_charli2_ba82cc05:
 
     # charli "Haven't had anything to say."
-    charli "Je n'avais rien à dire."
+    charli ""
 
-# game/v12/scene7.rpy:3261
+# game/v12/scene7.rpy:3249
 translate francais v12s7_charli2_2f83db53:
 
     # u "You have the most annoying voice I've ever heard."
-    u "En même temps, tu as la voix la plus chiante que j'aie jamais entendue."
+    u ""
 
-# game/v12/scene7.rpy:3266
+# game/v12/scene7.rpy:3254
 translate francais v12s7_charli2_19a86c2c:
 
     # charli "And you have the most annoying personality."
-    charli "Et toi, tu as la personnalité la plus agaçante."
+    charli ""
 
-# game/v12/scene7.rpy:3284
+# game/v12/scene7.rpy:3272
 translate francais v12s7_charli_kill_fda23e9a:
 
     # u "Boom."
-    u "Pan."
+    u ""
 
-# game/v12/scene7.rpy:3292
+# game/v12/scene7.rpy:3280
 translate francais v12s7_charli_kill_901a5a2f:
 
     # charli "Took you long enough."
-    charli "Tu en as mis du temps."
+    charli ""
 
-# game/v12/scene7.rpy:3297
+# game/v12/scene7.rpy:3285
 translate francais v12s7_charli_kill_2fef30e1:
 
     # u "Don't act like you actually knew it was me. You're just happy because you got lucky and now it looks you were right all along."
-    u "Ne fais pas comme si tu savais vraiment que c'était moi. Tu es juste heureux parce que tu as eu de la chance et on dirait que tu avais raison depuis le début."
+    u ""
 
-# game/v12/scene7.rpy:3302
+# game/v12/scene7.rpy:3290
 translate francais v12s7_charli_kill_df00c996:
 
     # charli "Think what you want to think."
-    charli "Pense ce que tu veux."
+    charli ""
 
-# game/v12/scene7.rpy:3324
+# game/v12/scene7.rpy:3312
 translate francais v12s7_msrose1_6d6c9834:
 
     # ro "Hello there world-famous boxing champion."
-    ro "Bonjour, Monsieur le champion de boxe mondialement connu."
+    ro ""
 
-# game/v12/scene7.rpy:3332
+# game/v12/scene7.rpy:3320
 translate francais v12s7_msrose1_3ac6c165:
 
     # u "And you are?"
-    u "Et vous êtes ?"
+    u ""
 
-# game/v12/scene7.rpy:3337
+# game/v12/scene7.rpy:3325
 translate francais v12s7_msrose1_db824684:
 
     # ro "*Shocked* You don't know who I am?"
-    ro "*Choquée* Vous ne savez pas qui je suis ?"
+    ro ""
 
-# game/v12/scene7.rpy:3342
+# game/v12/scene7.rpy:3330
 translate francais v12s7_msrose1_c85b438f:
 
     # u "I'm sorry, but no."
-    u "Je suis désolé, mais non."
+    u ""
 
-# game/v12/scene7.rpy:3347
+# game/v12/scene7.rpy:3335
 translate francais v12s7_msrose1_2998d9db:
 
     # ro "I'm the world renowned and very beloved Mia Scarlett. Most known for my role in the movie \"History Class\"."
-    ro "Je suis la célèbre et très aimée Mia Scarlett. Surtout connue pour mon rôle dans le film \"La classe d'histoire\"."
+    ro ""
 
-# game/v12/scene7.rpy:3352
+# game/v12/scene7.rpy:3340
 translate francais v12s7_msrose1_305f79f3:
 
     # u "*Laughs* \"History Class\"? Oh yeah, I think I have seen you in a few films."
-    u "*Rire* \"La classe d'histoire\" ? Oh oui, je crois que je vous ai vu dans quelques films."
+    u ""
 
-# game/v12/scene7.rpy:3357
+# game/v12/scene7.rpy:3345
 translate francais v12s7_msrose1_c34949b9:
 
     # ro "In films? That's it? You don't remember meeting me at your special Christmas wonderland fight?"
-    ro "Dans les films ? C'est tout ? Vous ne vous souvenez pas de m'avoir rencontré à votre combat spécial de Noël ?"
+    ro ""
 
-# game/v12/scene7.rpy:3362
+# game/v12/scene7.rpy:3350
 translate francais v12s7_msrose1_18260d3b:
 
     # u "Hmm, I'm not sure?"
-    u "Hmm, je suis pas sûr..."
+    u ""
 
-# game/v12/scene7.rpy:3367
+# game/v12/scene7.rpy:3355
 translate francais v12s7_msrose1_f3f5313c:
 
     # ro "Poofy hair doesn't ring a bell?"
-    ro "Mes cheveux bouclés ne vous disent rien ?"
+    ro ""
 
-# game/v12/scene7.rpy:3372
+# game/v12/scene7.rpy:3360
 translate francais v12s7_msrose1_f2082510:
 
     # u "Still not clicking for me."
-    u "Ça me dit toujours rien."
+    u ""
 
-# game/v12/scene7.rpy:3382
+# game/v12/scene7.rpy:3370
 translate francais v12s7_msrose1_98f1b052:
 
     # ro "Do I ring a bell now?"
-    ro "\"Est-ce que je fais sonner la cloche maintenant ?\""
+    ro ""
 
-# game/v12/scene7.rpy:3387
+# game/v12/scene7.rpy:3375
 translate francais v12s7_msrose1_4809187b:
 
     # u "OH THAT MIA, MIA SCARLETT!!! YES, I REMEMBER!"
-    u "OH CETTE MIA, MIA SCARLETT !!! OUI, JE ME SOUVIENS !"
+    u ""
 
-# game/v12/scene7.rpy:3392
+# game/v12/scene7.rpy:3380
 translate francais v12s7_msrose1_7983832a:
 
     # ro "Thought that'd help jog your memory."
-    ro "J'ai pensé que ça pourrait vous rafraîchir la mémoire."
+    ro ""
 
-# game/v12/scene7.rpy:3397
+# game/v12/scene7.rpy:3385
 translate francais v12s7_msrose1_213b0d1b:
 
     # u "Hard not to remember after that."
-    u "Difficile de pas s'en souvenir après ça."
+    u ""
 
-# game/v12/scene7.rpy:3402
+# game/v12/scene7.rpy:3390
 translate francais v12s7_msrose1_5b9e6357:
 
     # ro "Usually I have to be wary of people because most people only associate with me for my fame and money, yet you couldn't even remember who I was. Are you that self-centered?"
-    ro "D'habitude, je dois me méfier des gens parce que la plupart d'entre eux ne s'associent à moi que pour ma célébrité et mon argent, alors que vous ne vous souvenez même pas de qui j'étais. Êtes-vous si égocentrique ?"
+    ro ""
 
-# game/v12/scene7.rpy:3407
+# game/v12/scene7.rpy:3395
 translate francais v12s7_msrose1_24cb352a:
 
     # u "I just treat everyone as a regular person, fame and wealth mean nothing to me."
-    u "Je traite tout le monde comme une personne normale, la gloire et la richesse signifient rien pour moi."
+    u ""
 
-# game/v12/scene7.rpy:3412
+# game/v12/scene7.rpy:3400
 translate francais v12s7_msrose1_c0e5dd82:
 
     # ro "Mr. Humble huh?"
-    ro "Mr Modeste, hein ?"
+    ro ""
 
-# game/v12/scene7.rpy:3417
+# game/v12/scene7.rpy:3405
 translate francais v12s7_msrose1_8e7da717:
 
     # u "I do my best."
-    u "Je fais de mon mieux."
+    u ""
 
-# game/v12/scene7.rpy:3422
+# game/v12/scene7.rpy:3410
 translate francais v12s7_msrose1_d5f5578d:
 
     # ro "So, have you heard about the famous killer aboard the ship?"
-    ro "Alors, avez-vous entendu parler du fameux tueur à bord du navire ?"
+    ro ""
 
-# game/v12/scene7.rpy:3427
+# game/v12/scene7.rpy:3415
 translate francais v12s7_msrose1_bdac6aed:
 
     # u "I have. Do you know anything about that? Ideas on who it may be?"
-    u "Oui en effet. Savez-vous quelque chose à ce sujet ? Des idées sur qui ça pourrait être ?"
+    u ""
 
-# game/v12/scene7.rpy:3432
+# game/v12/scene7.rpy:3420
 translate francais v12s7_msrose1_3ffb1118:
 
     # ro "Honestly, no."
-    ro "Honnêtement, non."
+    ro ""
 
-# game/v12/scene7.rpy:3437
+# game/v12/scene7.rpy:3425
 translate francais v12s7_msrose1_4b61d4d8:
 
     # ro "*Whisper* I was left out of the loop on most things."
-    ro "*Chuchote* J'ai été laissée hors de la partie pour la plupart des choses."
+    ro ""
 
-# game/v12/scene7.rpy:3442
+# game/v12/scene7.rpy:3430
 translate francais v12s7_msrose1_96acc2f3:
 
     # u "*Whisper* Oh okay."
-    u "*Chuchote* Oh ok."
+    u ""
 
-# game/v12/scene7.rpy:3447
+# game/v12/scene7.rpy:3435
 translate francais v12s7_msrose1_3b3a0d6a:
 
     # ro "Are you worried at all about getting killed while on board?"
-    ro "Vous n'avez pas peur de vous faire tuer à bord ?"
+    ro ""
 
-# game/v12/scene7.rpy:3458
+# game/v12/scene7.rpy:3446
 translate francais v12s7_msrose1_fe96ef01:
 
     # u "No not really, if anyone runs up on me I have two guns waiting for them."
-    u "Non, pas vraiment, si quelqu'un me fonce dessus, j'ai deux armes qui l'attendent."
+    u ""
 
-# game/v12/scene7.rpy:3465
+# game/v12/scene7.rpy:3453
 translate francais v12s7_msrose1_a899b6aa:
 
     # u "Yes, but who wouldn't be."
-    u "Oui, mais qui le serait pas."
+    u ""
 
-# game/v12/scene7.rpy:3470
+# game/v12/scene7.rpy:3458
 translate francais v12s7_msrose1_504adcac:
 
     # ro "Yes or no, either one just makes me think you're just trying to take suspicion off yourself."
-    ro "Oui ou non, l'un ou l'autre me fait penser que vous essayez juste de dissiper les soupçons qu'il pourrait y avoir sur vous."
+    ro ""
 
-# game/v12/scene7.rpy:3475
+# game/v12/scene7.rpy:3463
 translate francais v12s7_msrose1_bb211133:
 
     # u "So there's no right answer then huh?"
-    u "Il n'y a donc pas de bonne réponse, hein ?"
+    u ""
 
-# game/v12/scene7.rpy:3480
+# game/v12/scene7.rpy:3468
 translate francais v12s7_msrose1_1ef7a476:
 
     # ro "Not when talking to me."
-    ro "Pas quand vous me parlez."
+    ro ""
 
-# game/v12/scene7.rpy:3485
+# game/v12/scene7.rpy:3473
 translate francais v12s7_msrose1_53c0663a:
 
     # u "Shame. No other suspects?"
-    u "Honteux. Pas d'autres suspects ?"
+    u ""
 
-# game/v12/scene7.rpy:3490
+# game/v12/scene7.rpy:3478
 translate francais v12s7_msrose1_62dc7179:
 
     # ro "A few, but a smart player never shows her hand."
-    ro "Quelques-uns, mais un joueur intelligent ne montre jamais sa main."
+    ro ""
 
-# game/v12/scene7.rpy:3495
+# game/v12/scene7.rpy:3483
 translate francais v12s7_msrose1_34557f4a:
 
     # u "Tough cookie to crack, I'll keep my eye on you."
-    u "C'est dur de faire mieux, je garderai un oeil sur vous."
+    u ""
 
-# game/v12/scene7.rpy:3500
+# game/v12/scene7.rpy:3488
 translate francais v12s7_msrose1_f4bacecc:
 
     # ro "And I on you, little boxer boy."
-    ro "Et moi sur vous, petit boxeur."
+    ro ""
 
-# game/v12/scene7.rpy:3520
+# game/v12/scene7.rpy:3506
 translate francais v12s7_ms_rose_kill_fda23e9a:
 
     # u "Boom."
-    u "Pan."
+    u ""
 
-# game/v12/scene7.rpy:3528
+# game/v12/scene7.rpy:3514
 translate francais v12s7_ms_rose_kill_1781b779:
 
     # ro "That sly Bruce..."
-    ro "Ce sournois de Bruce..."
+    ro ""
 
-# game/v12/scene7.rpy:3533
+# game/v12/scene7.rpy:3519
 translate francais v12s7_ms_rose_kill_184f1b2a:
 
     # u "Haha, what?"
-    u "Haha, quoi ?"
+    u ""
 
-# game/v12/scene7.rpy:3538
+# game/v12/scene7.rpy:3524
 translate francais v12s7_ms_rose_kill_62787ed4:
 
     # ro "He went on and on about how he wasn't going to choose you as the murderer, but that's exactly what he did."
-    ro "Il n'arrêtait pas de dire qu'il n'allait pas te choisir comme meurtrier, mais c'est exactement ce qu'il a fait."
+    ro ""
 
-# game/v12/scene7.rpy:3543
+# game/v12/scene7.rpy:3529
 translate francais v12s7_ms_rose_kill_91d7886a:
 
     # u "Tada."
-    u "Tada."
+    u ""
 
-# game/v12/scene7.rpy:3548
+# game/v12/scene7.rpy:3534
 translate francais v12s7_ms_rose_kill_359cbf6e:
 
     # ro "I was convinced he'd choose you, but he made it seem so clear that it wouldn't be you. I'm actually shocked."
-    ro "J'étais convaincue qu'il te choisirait, mais il m'a fait comprendre clairement que ce ne serait pas toi. Je suis vraiment choquée."
+    ro ""
 
-# game/v12/scene7.rpy:3553
+# game/v12/scene7.rpy:3539
 translate francais v12s7_ms_rose_kill_9cce7f04:
 
     # u "I'm shocked he didn't tell you and made you actually play a role."
-    u "Je suis choqué qu'il t'ait rien dit et qu'il t'ait fait jouer un rôle."
+    u ""
 
-# game/v12/scene7.rpy:3558
+# game/v12/scene7.rpy:3544
 translate francais v12s7_ms_rose_kill_dccb9879:
 
     # ro "That was because I lost a bet. *Chuckles*"
-    ro "C'est parce que j'ai perdu un pari. *Rire*"
+    ro ""
 
-# game/v12/scene7.rpy:3563
+# game/v12/scene7.rpy:3549
 translate francais v12s7_ms_rose_kill_52efc055:
 
     # u "Ahhh okay."
-    u "Ahhh okay"
+    u ""
 
-# game/v12/scene7.rpy:3568
+# game/v12/scene7.rpy:3554
 translate francais v12s7_ms_rose_kill_f83c04fd:
 
     # ro "Good luck, hope you get everyone."
-    ro "Bonne chance, j'espère que tu auras tout le monde."
+    ro ""
 
-# game/v12/scene7.rpy:3589
+# game/v12/scene7.rpy:3575
 translate francais v12s7_penelope1_c9f0d672:
 
     # u "Hey hey hey!"
-    u "Hey hey hey !"
+    u ""
 
-# game/v12/scene7.rpy:3597
+# game/v12/scene7.rpy:3583
 translate francais v12s7_penelope1_26427238:
 
     # pe "Please sir, I was told not to speak to any of the passengers."
-    pe "S'il vous plaît monsieur, on m'a dit de ne parler à aucun des passagers."
+    pe ""
 
-# game/v12/scene7.rpy:3602
+# game/v12/scene7.rpy:3588
 translate francais v12s7_penelope1_97a6265c:
 
     # u "I won't tell if you won't."
-    u "Je dirai rien si vous dites rien."
+    u ""
 
-# game/v12/scene7.rpy:3607
+# game/v12/scene7.rpy:3593
 translate francais v12s7_penelope1_c0f10304:
 
     # pe "I really should be cleaning before he comes back and checks up on me. I've been in the same place for like ten minutes because this one little spot won't clean."
-    pe "Je devrais vraiment nettoyer avant qu'il ne revienne et me surveille. Je suis au même endroit depuis 10 minutes parce que cette petite tache ne veut pas partir."
+    pe ""
 
-# game/v12/scene7.rpy:3612
+# game/v12/scene7.rpy:3598
 translate francais v12s7_penelope1_c902f0e1:
 
     # u "Wait, is he actually making you clean the boat?"
-    u "Attends, il te fait vraiment nettoyer le bateau ?"
+    u ""
 
-# game/v12/scene7.rpy:3617
+# game/v12/scene7.rpy:3603
 translate francais v12s7_penelope1_91c49918:
 
     # pe "Yes, he said why not kill two birds with one stone and told the actual Captain I'd help with the cleaning while on board."
-    pe "Oui, il s'est dit pourquoi ne pas faire d'une pierre deux coups et a dit au vrai capitaine que j'aiderais au nettoyage pendant que je serais à bord."
+    pe ""
 
-# game/v12/scene7.rpy:3622
+# game/v12/scene7.rpy:3608
 translate francais v12s7_penelope1_f81e8ba6:
 
     # u "That's a little harsh."
-    u "C'est un peu sévère."
+    u ""
 
-# game/v12/scene7.rpy:3627
+# game/v12/scene7.rpy:3613
 translate francais v12s7_penelope1_9559a775:
 
     # pe "I could've enjoyed a nice ride without being bothered if I had just kept my mouth shut. I said that I couldn't wait to get on the ferry and relax and he heard me... now here we are."
-    pe "J'aurais pu profiter d'un bon trajet sans être dérangée si j'avais juste fermé ma bouche. J'ai dit que j'avais hâte de monter sur le ferry pour me détendre et il m'a entendu... maintenant voilà où j'en suis."
+    pe ""
 
-# game/v12/scene7.rpy:3635
+# game/v12/scene7.rpy:3621
 translate francais v12s7_penelope1_bc1ce31e:
 
     # u "It's got to be hard enough having to clean, so I'm sure it sucks cleaning in character. I'll leave you alone so I don't get you in trouble and are given even more work."
-    u "C'est déjà assez dur de devoir nettoyer, alors je suis sûr que ça craint de nettoyer en tant que personnage. Je vais te laisser tranquille pour pas t'attirer d'ennuis et qu'on te donne encore plus de travail."
+    u ""
 
-# game/v12/scene7.rpy:3640
+# game/v12/scene7.rpy:3626
 translate francais v12s7_penelope1_4a2250c1:
 
     # pe "Thanks."
-    pe "Merci."
+    pe ""
 
-# game/v12/scene7.rpy:3654
+# game/v12/scene7.rpy:3640
 translate francais v12s7_penelope1_4b06c548:
 
     # u "You need to apply pressure to it."
-    u "Tu devrais frotter bien fort, dessus."
+    u ""
 
-# game/v12/scene7.rpy:3659
+# game/v12/scene7.rpy:3645
 translate francais v12s7_penelope1_1f2c57a2:
 
     # pe "I am."
-    pe "C'est ce que je fais."
+    pe ""
 
-# game/v12/scene7.rpy:3665
+# game/v12/scene7.rpy:3651
 translate francais v12s7_penelope1_5beffdba:
 
     # u "*Sighs* Like this."
-    u "*Soupirs* Comme ça."
+    u ""
 
-# game/v12/scene7.rpy:3670
+# game/v12/scene7.rpy:3656
 translate francais v12s7_penelope1_970d7198:
 
     # pe "Oh... *Chuckles*"
-    pe "Oh... *Rire*"
+    pe ""
 
-# game/v12/scene7.rpy:3672
+# game/v12/scene7.rpy:3658
 translate francais v12s7_penelope1_24c08997:
 
     # u "And look at that, spot's gone."
-    u "Et regarde ça, la tache est partie."
+    u ""
 
-# game/v12/scene7.rpy:3677
+# game/v12/scene7.rpy:3663
 translate francais v12s7_penelope1_da5c4191:
 
     # pe "Guess I just needed a little bit of man strength."
-    pe "On dirait que j'avais juste besoin d'un peu de force masculine."
+    pe ""
 
-# game/v12/scene7.rpy:3682
+# game/v12/scene7.rpy:3668
 translate francais v12s7_penelope1_1a7ba803:
 
     # u "Just a little."
-    u "Juste un peu."
+    u ""
 
-# game/v12/scene7.rpy:3687
+# game/v12/scene7.rpy:3673
 translate francais v12s7_penelope1_c9c6daca:
 
     # pe "What are you supposed to be again?"
-    pe "Qu'est-ce que tu es censé être déjà ?"
+    pe ""
 
-# game/v12/scene7.rpy:3692
+# game/v12/scene7.rpy:3678
 translate francais v12s7_penelope1_1f8d12e5:
 
     # u "I'm a famous boxer."
-    u "Je suis un célèbre boxeur."
+    u ""
 
-# game/v12/scene7.rpy:3697
+# game/v12/scene7.rpy:3683
 translate francais v12s7_penelope1_e2d588fc:
 
     # pe "And your name is?"
-    pe "Et ton nom est ?"
+    pe ""
 
-# game/v12/scene7.rpy:3702
+# game/v12/scene7.rpy:3688
 translate francais v12s7_penelope1_e3cd8bb0:
 
     # u "Haha, I have no idea. My card just said famous boxer... I've been making up my story."
-    u "Haha, je n'en ai aucune idée. Ma carte disait juste célèbre boxeur... J'ai inventé mon histoire."
+    u ""
 
-# game/v12/scene7.rpy:3707
+# game/v12/scene7.rpy:3693
 translate francais v12s7_penelope1_66ba7f82:
 
     # pe "So have you made up a name?"
-    pe "Alors, tu as inventé un nom ?"
+    pe ""
 
-# game/v12/scene7.rpy:3714
+# game/v12/scene7.rpy:3700
 translate francais v12s7_penelope1_643481f0:
 
     # u "Uhm... yeah, it's John Paris."
-    u "Uhm... ouais, c'est John Paris."
+    u ""
 
-# game/v12/scene7.rpy:3719
+# game/v12/scene7.rpy:3705
 translate francais v12s7_penelope1_f5776abc:
 
     # pe "*Laughs* \"John Paris\"? Not very creative huh?"
-    pe "*Rire* \"John Paris\" ? Pas très créatif, hein ?"
+    pe ""
 
-# game/v12/scene7.rpy:3724
+# game/v12/scene7.rpy:3710
 translate francais v12s7_penelope1_a4e05414:
 
     # u "I just said what came to me."
-    u "J'ai juste dit ce qui me venait à l'esprit."
+    u ""
 
-# game/v12/scene7.rpy:3729
+# game/v12/scene7.rpy:3715
 translate francais v12s7_penelope1_70b7d718:
 
     # pe "That's obvious."
-    pe "C'est clair."
+    pe ""
 
-# game/v12/scene7.rpy:3735
+# game/v12/scene7.rpy:3721
 translate francais v12s7_penelope1_f0f3a0de:
 
     # u "Sure have, it's Chase Lysol."
-    u "Bien sûr, c'est Chase Lysol."
+    u ""
 
-# game/v12/scene7.rpy:3740
+# game/v12/scene7.rpy:3726
 translate francais v12s7_penelope1_2e06b4f0:
 
     # pe "Oooo, I see what you did there. Very creative."
-    pe "Oooo, je vois où tu veux en venir. Très créatif."
+    pe ""
 
-# game/v12/scene7.rpy:3745
+# game/v12/scene7.rpy:3731
 translate francais v12s7_penelope1_ecccc142:
 
     # u "What can I say, I'm talented like that."
-    u "Qu'est-ce que je peux dire, je suis doué pour ça."
+    u ""
 
-# game/v12/scene7.rpy:3750
+# game/v12/scene7.rpy:3736
 translate francais v12s7_penelope1_2434f214:
 
     # pe "I see."
-    pe "Je vois."
+    pe ""
 
-# game/v12/scene7.rpy:3755
+# game/v12/scene7.rpy:3741
 translate francais v12s7_penelope1_858b3331:
 
     # u "Hey, would you like me to say something to Mr. Lee about possibly easing up on you."
-    u "Hey, tu veux que je dise quelque chose à Mr Lee pour qu'il soit moins dur avec toi."
+    u ""
 
-# game/v12/scene7.rpy:3760
+# game/v12/scene7.rpy:3746
 translate francais v12s7_penelope1_006e98c6:
 
     # pe "That's sweet, but I'd rather just put on a brave face and get through it. I always remember it's better than $15,000."
-    pe "C'est gentil, mais je préfère prendre mon courage à deux mains et m'en sortir. Je me rappelle toujours que c'est mieux que de payer 15 000 $."
+    pe ""
 
-# game/v12/scene7.rpy:3765
+# game/v12/scene7.rpy:3751
 translate francais v12s7_penelope1_c6f34594:
 
     # u "That's true, but I still want you to be able to relax. I'll make sure you get to do something fun whilst in Paris."
-    u "C'est vrai, mais je veux quand même que tu puisses te détendre. Je vais m'assurer que tu fasses quelque chose d'amusant pendant que tu es à Paris."
+    u ""
 
-# game/v12/scene7.rpy:3770
+# game/v12/scene7.rpy:3756
 translate francais v12s7_penelope1_8116d263:
 
     # pe "Haha, I appreciate that."
-    pe "Haha, j'apprécie."
+    pe ""
 
-# game/v12/scene7.rpy:3775
+# game/v12/scene7.rpy:3761
 translate francais v12s7_penelope1_4b7fb947:
 
     # u "Take care."
-    u "Prends soin de toi."
+    u ""
 
-# game/v12/scene7.rpy:3785
+# game/v12/scene7.rpy:3771
 translate francais v12s7_penelope1_0d444a04:
 
     # pe "Wait a minute."
-    pe "Attends une minute."
+    pe ""
 
-# game/v12/scene7.rpy:3790
+# game/v12/scene7.rpy:3776
 translate francais v12s7_penelope1_2d2bdb41:
 
     # u "What-"
-    u "Quoi-"
+    u ""
 
-# game/v12/scene7.rpy:3801
+# game/v12/scene7.rpy:3787
 translate francais v12s7_penelope1_a88f993d:
 
     # u "Oh, what was that for?"
-    u "Oh, c'était pour quoi ?"
+    u ""
 
-# game/v12/scene7.rpy:3806
+# game/v12/scene7.rpy:3792
 translate francais v12s7_penelope1_7ec44aff:
 
     # pe "I thought you wanted me to do something fun?"
-    pe "Je croyais que tu voulais que je fasse quelque chose d'amusant ?"
+    pe ""
 
-# game/v12/scene7.rpy:3811
+# game/v12/scene7.rpy:3797
 translate francais v12s7_penelope1_70ca5744:
 
     # u "*Chuckles* I said in Paris."
-    u "*Rire* J'ai dit à Paris."
+    u ""
 
-# game/v12/scene7.rpy:3816
+# game/v12/scene7.rpy:3802
 translate francais v12s7_penelope1_360a9f40:
 
     # pe "*Chuckles* Well I couldn't wait that long."
-    pe "*Rire* Je ne pouvais pas attendre si longtemps."
+    pe ""
 
-# game/v12/scene7.rpy:3821
+# game/v12/scene7.rpy:3807
 translate francais v12s7_penelope1_ab0c5933:
 
     # u "Haha, I'll see you later."
-    u "Haha, je te verrai plus tard."
+    u ""
 
-# game/v12/scene7.rpy:3850
+# game/v12/scene7.rpy:3836
 translate francais v12s7_penelope_kill_fda23e9a:
 
     # u "Boom."
-    u "Pan."
+    u ""
 
-# game/v12/scene7.rpy:3862
+# game/v12/scene7.rpy:3848
 translate francais v12s7_penelope_kill_a415cf45:
 
     # u "Never seen anyone hug the person that shot them. *Chuckles*"
-    u "Je n'ai jamais vu personne faire un câlin à la personne qui lui a tiré dessus. *Rire*"
+    u ""
 
-# game/v12/scene7.rpy:3867
+# game/v12/scene7.rpy:3853
 translate francais v12s7_penelope_kill_e0ceaaa2:
 
     # pe "Well, now I can relax. Mr. Lee said go to the hallway if you're killed so that's where I'm going."
-    pe "Eh bien, maintenant je peux me détendre. Mr Lee a dit d'aller dans le couloir si on est tué, donc c'est là que je vais."
+    pe ""
 
-# game/v12/scene7.rpy:3872
+# game/v12/scene7.rpy:3858
 translate francais v12s7_penelope_kill_296836e5:
 
     # u "Haha, you do that."
-    u "Haha, vas-y."
+    u ""
 
-# game/v12/scene7.rpy:3897
+# game/v12/scene7.rpy:3882
 translate francais v12s7_amber1_1fbc5afa:
 
     # am "Hey you!"
-    am "Hé, vous !"
+    am ""
 
-# game/v12/scene7.rpy:3905
+# game/v12/scene7.rpy:3890
 translate francais v12s7_amber1_2dde6c9c:
 
     # u "Me?"
-    u "Moi ?"
+    u ""
 
-# game/v12/scene7.rpy:3910
+# game/v12/scene7.rpy:3895
 translate francais v12s7_amber1_5bc57ed5:
 
     # am "Yeah you, come over here."
-    am "Oui, vous, venez par ici."
+    am ""
 
-# game/v12/scene7.rpy:3920
+# game/v12/scene7.rpy:3905
 translate francais v12s7_amber1_272dec61:
 
     # u "How can I help you, officer?"
-    u "Comment puis-je vous aider, officier ?"
+    u ""
 
-# game/v12/scene7.rpy:3925
+# game/v12/scene7.rpy:3910
 translate francais v12s7_amber1_9d543621:
 
     # am "Don't try and play all innocent, I heard all about you."
-    am "Ne faites pas l'innocent, j'ai tout entendu sur vous."
+    am ""
 
-# game/v12/scene7.rpy:3930
+# game/v12/scene7.rpy:3915
 translate francais v12s7_amber1_ef2f1671:
 
     # u "What?"
-    u "Quoi ?"
+    u ""
 
-# game/v12/scene7.rpy:3935
+# game/v12/scene7.rpy:3920
 translate francais v12s7_amber1_ec7d5c8f:
 
     # am "Don't what me!"
-    am "Ne me dites pas \"quoi\" !"
+    am ""
 
-# game/v12/scene7.rpy:3940
+# game/v12/scene7.rpy:3925
 translate francais v12s7_amber1_4c2833ed:
 
     # u "*Chuckles* What?"
-    u "*Rire* Quoi ?"
+    u ""
 
-# game/v12/scene7.rpy:3945
+# game/v12/scene7.rpy:3930
 translate francais v12s7_amber1_a717a39c:
 
     # am "Say what one more time and you're gonna regret it. There's several reports that someone fitting your description is carrying contraband onboard the ship. Is this true?"
-    am "Dites \"quoi\" une fois de plus et vous allez le regretter. Il y a plusieurs rapports indiquant que quelqu'un correspondant à votre description transporte de la contrebande à bord du ferry. Est-ce que c'est vrai ?"
+    am ""
 
-# game/v12/scene7.rpy:3950
+# game/v12/scene7.rpy:3935
 translate francais v12s7_amber1_173c9adc:
 
     # u "What is even considered contraband?"
-    u "Quoi ? Qu'est-ce qui est considéré comme de la contrebande ?"
+    u ""
 
-# game/v12/scene7.rpy:3955
+# game/v12/scene7.rpy:3940
 translate francais v12s7_amber1_a1a8cb8a:
 
     # am "Okay, so you think this is a game!"
-    am "Ok, donc vous pensez que c'est un jeu !"
+    am ""
 
-# game/v12/scene7.rpy:3960
+# game/v12/scene7.rpy:3945
 translate francais v12s7_amber1_59c8572e:
 
     # am "I told you not to say \"what\" anymore!"
-    am "Je vous avais dit de plus dire \"quoi\" !"
+    am ""
 
-# game/v12/scene7.rpy:3965
+# game/v12/scene7.rpy:3950
 translate francais v12s7_amber1_ab99a520:
 
     # am "Now I'm gonna ask you again, are you carrying contraband?"
-    am "Je vais vous le redemander, avez-vous de la contrebande ?"
+    am ""
 
-# game/v12/scene7.rpy:3970
+# game/v12/scene7.rpy:3955
 translate francais v12s7_amber1_3eaa6a36:
 
     # u "What... I mean, I don't know what's considered contraband."
-    u "Quoi ? ... Je veux dire, je sais pas ce qui est considéré comme de la contrebande."
+    u ""
 
-# game/v12/scene7.rpy:3975
+# game/v12/scene7.rpy:3960
 translate francais v12s7_amber1_f4795023:
 
     # am "You still said what, now I feel like you're just trying to make me angry. You wouldn't like me when I'm angry."
-    am "Vous avez encore dit \"quoi\", maintenant j'ai l'impression que vous essayez tout simplement de me mettre en colère. Et je vous jure que vous voudriez pas me voir, quand je suis en colère."
+    am ""
 
-# game/v12/scene7.rpy:3980
+# game/v12/scene7.rpy:3965
 translate francais v12s7_amber1_3327b9f1:
 
     # u "Wait, this isn't already you being angry?"
-    u "Attendez, vous n'êtes pas déjà en colère ?"
+    u ""
 
-# game/v12/scene7.rpy:3985
+# game/v12/scene7.rpy:3970
 translate francais v12s7_amber1_21586065:
 
     # am "Let's see what you got in these pockets."
-    am "Voyons ce que vous avez dans ces poches."
+    am ""
 
-# game/v12/scene7.rpy:3990
+# game/v12/scene7.rpy:3975
 translate francais v12s7_amber1_6acc6e0a:
 
     # u "I don't have anything except my phone and my wallet."
-    u "Je n'ai rien à part mon téléphone et mon portefeuille."
+    u ""
 
-# game/v12/scene7.rpy:3995
+# game/v12/scene7.rpy:3980
 translate francais v12s7_amber1_75e71a94:
 
     # am "Then what's this hard stick huh, some type of weapon?"
-    am "Alors c'est quoi ce gros bâton dur, une sorte de matraque ?"
+    am ""
 
-# game/v12/scene7.rpy:4000
+# game/v12/scene7.rpy:3985
 translate francais v12s7_amber1_02a8309e:
 
     # u "Haha, some girls have thought that."
-    u "Haha, certaines filles ont pensé ça."
+    u ""
 
-# game/v12/scene7.rpy:4005
+# game/v12/scene7.rpy:3990
 translate francais v12s7_amber1_684aad24:
 
     # am "Oh shit, that's your... why are you hard right now? Are you turned on by this?"
-    am "Oh merde, c'est ta... pourquoi... tu bandes en ce moment ? Heu...Est-ce que ça VOUS excite ?"
+    am ""
 
-# game/v12/scene7.rpy:4013
+# game/v12/scene7.rpy:3998
 translate francais v12s7_amber1_e3e7d7eb:
 
     # u "Getting slammed to the ground and sat on by a hot chick isn't something I thought I'd enjoy, but I'm kinda into it."
-    u "Se faire écraser au sol et se faire monter dessus par une fille sexy n'est pas quelque chose que je pensais apprécier, mais j'aime bien ça."
+    u ""
 
-# game/v12/scene7.rpy:4018
+# game/v12/scene7.rpy:4003
 translate francais v12s7_amber1_4e65bff3:
 
     # am "Hmmm, good to know. I'll remember that for future reference."
-    am "Hmmm, c'est bon à savoir. Je m'en souviendrai pour une autre occasion."
+    am ""
 
-# game/v12/scene7.rpy:4025
+# game/v12/scene7.rpy:4010
 translate francais v12s7_amber1_6b437b20:
 
     # u "Getting slammed to the ground isn't something that turns me on, but you are jerking my dick around from my pocket."
-    u "Se faire plaquer au sol n'est pas quelque chose qui m'excite, mais vous faite sortir ma bite de ma poche."
+    u ""
 
-# game/v12/scene7.rpy:4030
+# game/v12/scene7.rpy:4015
 translate francais v12s7_amber1_6611a4b8:
 
     # am "Guess you don't like it rough, too bad."
-    am "Je vois que vous n'aimez pas le côté brut, c'est dommage."
+    am ""
 
-# game/v12/scene7.rpy:4032
+# game/v12/scene7.rpy:4017
 translate francais v12s7_amber1_95df5998:
 
     # am "I didn't find anything on you, but I still don't like your tone."
-    am "Je n'ai rien trouvé sur vous, mais je n'aime toujours pas votre ton."
+    am ""
 
-# game/v12/scene7.rpy:4042
+# game/v12/scene7.rpy:4027
 translate francais v12s7_amber1_52d6d1d5:
 
     # u "Well I'm not sure WHAT type of tone you want me to have, but WHAT I do know is that I'll talk however I please."
-    u "Eh bien, je suis pas sûr du type de ton que vous voulez me voir adopter, mais ce que je sais, c'est que je parlerai comme bon me semble."
+    u ""
 
-# game/v12/scene7.rpy:4047
+# game/v12/scene7.rpy:4032
 translate francais v12s7_amber1_f2d890bc:
 
     # am "You're walking on thin ice."
-    am "Vous marchez sur une fine couche de glace."
+    am ""
 
-# game/v12/scene7.rpy:4052
+# game/v12/scene7.rpy:4037
 translate francais v12s7_amber1_2d3075c9:
 
     # u "Good thing I brought skates. *Chuckles*"
-    u "Heureusement que j'ai apporté des patins. *Rire*"
+    u ""
 
-# game/v12/scene7.rpy:4057
+# game/v12/scene7.rpy:4042
 translate francais v12s7_amber1_6519f757:
 
     # am "*Whisper* So you go from a boxer to an ice skater? Pick a lane. *Chuckles*"
-    am "*Chuchote* Donc tu passes d'un boxeur à un patineur sur glace ? choisis une voie, merde. *Rire*"
+    am ""
 
-# game/v12/scene7.rpy:4062
+# game/v12/scene7.rpy:4047
 translate francais v12s7_amber1_876c4b59:
 
     # u "*Laughs* I'll try. But why are you being so rough?"
-    u "*Rire* Je vais essayer. Mais pourquoi êtes-vous si dure ?"
+    u ""
 
-# game/v12/scene7.rpy:4067
+# game/v12/scene7.rpy:4052
 translate francais v12s7_amber1_8281088b:
 
     # am "I'm just doing my job and should just learn to comply."
-    am "Je fais que mon travail et je devrais apprendre à m'y adapter."
+    am ""
 
-# game/v12/scene7.rpy:4072
+# game/v12/scene7.rpy:4057
 translate francais v12s7_amber1_5c68501f:
 
     # u "Goddamn cops..."
-    u "Putain de flics..."
+    u ""
 
-# game/v12/scene7.rpy:4077
+# game/v12/scene7.rpy:4062
 translate francais v12s7_amber1_cb7eab80:
 
     # am "I'm security, get it straight."
-    am "Je suis une agente de sécurité, que ce soit clair et net !"
+    am ""
 
-# game/v12/scene7.rpy:4082
+# game/v12/scene7.rpy:4067
 translate francais v12s7_amber1_0a0aa271:
 
     # u "Yes ma'am. *Chuckles*"
-    u "Oui, m'dame. *Rire*"
+    u ""
 
-# game/v12/scene7.rpy:4087
+# game/v12/scene7.rpy:4072
 translate francais v12s7_amber1_f5de14ce:
 
     # am "Now go about your business."
-    am "Maintenant, vaquez à vos occupations."
+    am ""
 
-# game/v12/scene7.rpy:4092
+# game/v12/scene7.rpy:4077
 translate francais v12s7_amber1_223cfbc3:
 
     # u "Whatever you say."
-    u "Comme vous voulez."
+    u ""
 
-# game/v12/scene7.rpy:4112
+# game/v12/scene7.rpy:4097
 translate francais v12s7_amber_kill_fda23e9a:
 
     # u "Boom."
-    u "Pan."
+    u ""
 
-# game/v12/scene7.rpy:4120
+# game/v12/scene7.rpy:4105
 translate francais v12s7_amber_kill_48665a9a:
 
     # am "Damn, I hope I die like this. This is hot."
-    am "Merde, j'espérais mourir comme ça. C'est chaud."
+    am ""
 
-# game/v12/scene7.rpy:4122
+# game/v12/scene7.rpy:4107
 translate francais v12s7_amber_kill_f6ee263c:
 
     # am "Too bad I can't fuck with people anymore. Oh well, go kill some bitches."
-    am "Dommage que je puisse plus baiser avec personne. Bon, va tuer des pouffiasses pour que je m'amuse là haut."
+    am ""
 
-# game/v12/scene7.rpy:4143
+# game/v12/scene7.rpy:4128
 translate francais v12s7_riley2_71adde92:
 
     # u "What's going on?"
-    u "Qu'est-ce qu'il y a ?"
+    u ""
 
-# game/v12/scene7.rpy:4148
+# game/v12/scene7.rpy:4133
 translate francais v12s7_riley2_fc02f549:
 
     # u "*Southern accent* I mean, what's going on?"
-    u "*Accent du Sud* Je veux dire, que se passe-t-il ?"
+    u ""
 
-# game/v12/scene7.rpy:4153
+# game/v12/scene7.rpy:4138
 translate francais v12s7_riley2_2ede5b2d:
 
     # ri "Ewww, it sounds weird when you try to do it."
-    ri "Ehhh, ça sonne bizarre quand tu essaies de le faire."
+    ri ""
 
-# game/v12/scene7.rpy:4158
+# game/v12/scene7.rpy:4143
 translate francais v12s7_riley2_074f018e:
 
     # u "Fine then, I won't do it. *Chuckles* Why aren't you being all serious, you were so excited about this."
-    u "Bien alors, je le ferai pas. *Rire* Pourquoi n'es-tu pas sérieuse, tu étais si excitée à propos de ça."
+    u ""
 
-# game/v12/scene7.rpy:4163
+# game/v12/scene7.rpy:4148
 translate francais v12s7_riley2_90776645:
 
     # ri "Chris is just upsetting me a bit."
-    ri "Chris m'énerve juste un peu."
+    ri ""
 
-# game/v12/scene7.rpy:4168
+# game/v12/scene7.rpy:4153
 translate francais v12s7_riley2_66495e60:
 
     # u "How come?"
-    u "Comment ça ?"
+    u ""
 
-# game/v12/scene7.rpy:4173
+# game/v12/scene7.rpy:4158
 translate francais v12s7_riley2_a65fe06e:
 
     # ri "He isn't taking his role seriously at all, he's literally doing nothing."
-    ri "Il ne prend pas du tout son rôle au sérieux, il ne fait littéralement rien."
+    ri ""
 
-# game/v12/scene7.rpy:4178
+# game/v12/scene7.rpy:4163
 translate francais v12s7_riley2_6368bd42:
 
     # u "Maybe this just isn't for everybody."
-    u "Peut-être que ce n'est pas pour tout le monde."
+    u ""
 
-# game/v12/scene7.rpy:4183
+# game/v12/scene7.rpy:4168
 translate francais v12s7_riley2_0d737778:
 
     # ri "I know it's not for everybody, but there's more to it than that. As I've gotten to know and been around Chris it just seems as though he only does what he wants to do."
-    ri "Je sais que ce n'est pas pour tout le monde, mais il y a plus que ça. Au fur et à mesure que j'ai appris à connaître et à côtoyer Chris, j'ai l'impression qu'il ne fait que ce qu'il veut faire."
+    ri ""
 
-# game/v12/scene7.rpy:4184
+# game/v12/scene7.rpy:4169
 translate francais v12s7_riley2_441f0750:
 
     # ri "Most times what he wants to do is the right thing, but it's still a little selfish in my opinion."
-    ri "La plupart du temps, ce qu'il veut faire est la bonne chose, mais c'est toujours un peu égoïste à mon avis."
+    ri ""
 
-# game/v12/scene7.rpy:4189
+# game/v12/scene7.rpy:4174
 translate francais v12s7_riley2_1f7f91c4:
 
     # u "I didn't know you had beef with Chris."
-    u "Je savais pas que tu avais une dent contre Chris."
+    u ""
 
-# game/v12/scene7.rpy:4194
+# game/v12/scene7.rpy:4179
 translate francais v12s7_riley2_0728dd9a:
 
     # ri "I wouldn't call it beef, it's not that serious, just forget I ever said anything."
-    ri "Je n'appellerais pas ça \"avoir une dent contre\", ce n'est pas si grave, oublie juste que ce que je t'ai dit."
+    ri ""
 
-# game/v12/scene7.rpy:4199
+# game/v12/scene7.rpy:4184
 translate francais v12s7_riley2_97fb0e43:
 
     # u "Gonna be a little hard to just forget. *Chuckles*"
-    u "Ça va être un peu difficile de tout oublier. *Rire*"
+    u ""
 
-# game/v12/scene7.rpy:4204
+# game/v12/scene7.rpy:4189
 translate francais v12s7_riley2_30a94e4f:
 
     # ri "If I knock you out will that help?"
-    ri "Si je t'assomme, ça aidera ?"
+    ri ""
 
-# game/v12/scene7.rpy:4209
+# game/v12/scene7.rpy:4194
 translate francais v12s7_riley2_0586cc27:
 
     # u "So many violent people on this ship."
-    u "Il y a tellement de gens violents sur ce bateau."
+    u ""
 
-# game/v12/scene7.rpy:4214
+# game/v12/scene7.rpy:4199
 translate francais v12s7_riley2_8386c124:
 
     # ri "One is a violent murderer and if Chris would take his role seriously it'd be easier to find out who. He's literally the only cook."
-    ri "L'un d'eux est un meurtrier violent et si Chris prenait son rôle au sérieux, il serait plus facile de trouver qui c'est. C'est littéralement le seul cuisinier."
+    ri ""
 
-# game/v12/scene7.rpy:4219
+# game/v12/scene7.rpy:4204
 translate francais v12s7_riley2_0bb439a6:
 
     # u "How can the cook be helpful? *Chuckles*"
-    u "Comment le cuisinier peut-il être utile ? *Rire*"
+    u ""
 
-# game/v12/scene7.rpy:4224
+# game/v12/scene7.rpy:4209
 translate francais v12s7_riley2_a50a5e99:
 
     # ri "I asked Mr. Lee if we could get hints from the people in the hallway and he said the only person able to talk to the people in the hallway for clues is the cook aka Chris. I talked to Chris and he refused to help."
-    ri "J'ai demandé à Mr Lee si nous pouvions obtenir des indices des personnes dans le couloir et il a dit que la seule personne capable de parler aux personnes dans le couloir pour obtenir des indices est le cuisinier, alias Chris. J'ai parlé à Chris et il a refusé de m'aider."
+    ri ""
 
-# game/v12/scene7.rpy:4229
+# game/v12/scene7.rpy:4214
 translate francais v12s7_riley2_d0dc5c9e:
 
     # u "Why'd he refuse?"
-    u "Pourquoi a-t-il refusé ?"
+    u ""
 
-# game/v12/scene7.rpy:4234
+# game/v12/scene7.rpy:4219
 translate francais v12s7_riley2_dc26b5f7:
 
     # ri "Like I said, selfish. He's just holding his phone trying to get a signal like it's gonna magically connect even though it's not working for anyone."
-    ri "Comme je l'ai dit, égoïste. Il tient juste son téléphone pour essayer d'avoir un signal comme si ça allait se connecter par magie même si ça ne marche pour personne."
+    ri ""
 
-# game/v12/scene7.rpy:4239
+# game/v12/scene7.rpy:4224
 translate francais v12s7_riley2_71468422:
 
     # u "He's trying to get back in touch with Sebastian, he's been on the phone a lot so whatever they're discussing must be major. His head may be in a whole other world. Then add on top of that his issues with Nora."
-    u "Il essaie de reprendre contact avec Sebastian, il a beaucoup téléphoné, donc ce dont ils parlent doit être important. Sa tête est peut-être dans un tout autre monde. Et il faut ajouter à ça les problèmes qu'il a avec Nora."
+    u ""
 
-# game/v12/scene7.rpy:4244
+# game/v12/scene7.rpy:4229
 translate francais v12s7_riley2_ac596a5d:
 
     # ri "He wouldn't have issues with Nora if he'd know how to prioritize."
-    ri "Il n'aurait pas de problèmes avec Nora s'il savait comment établir des priorités."
+    ri ""
 
-# game/v12/scene7.rpy:4249
+# game/v12/scene7.rpy:4234
 translate francais v12s7_riley2_88d30e35:
 
     # u "On another topic..."
-    u "Dans un autre domaine..."
+    u ""
 
-# game/v12/scene7.rpy:4254
+# game/v12/scene7.rpy:4239
 translate francais v12s7_riley2_308a18f0:
 
     # ri "You're right, not my business. Gosh, I just want to find out who the killer is already."
-    ri "Tu as raison, ce ne sont pas mes affaires. Bon sang, je veux déjà savoir qui est le tueur."
+    ri ""
 
-# game/v12/scene7.rpy:4259
+# game/v12/scene7.rpy:4244
 translate francais v12s7_riley2_8fc3e55a:
 
     # u "Don't we all?"
-    u "Ne le Cherchons-nous pas tous ?"
+    u ""
 
-# game/v12/scene7.rpy:4264
+# game/v12/scene7.rpy:4249
 translate francais v12s7_riley2_9b60ac2e:
 
     # ri "Not everyone."
-    ri "Pas tous, non."
+    ri ""
 
-# game/v12/scene7.rpy:4269
+# game/v12/scene7.rpy:4254
 translate francais v12s7_riley2_01c7937b:
 
     # u "Well, I am."
-    u "Eh bien, moi si."
+    u ""
 
-# game/v12/scene7.rpy:4274
+# game/v12/scene7.rpy:4259
 translate francais v12s7_riley2_485de75c:
 
     # ri "I see that boxer boy. Go find out something important and report back alright."
-    ri "Je vois ça, petit boxeur. Va chercher quelque chose d'important et reviens-nous vite."
+    ri ""
 
-# game/v12/scene7.rpy:4279
+# game/v12/scene7.rpy:4264
 translate francais v12s7_riley2_08e37a58:
 
     # u "I'm a successful and famous boxer, I don't take orders."
-    u "Je suis un boxeur célèbre et couronné de succès, je reçois pas d'ordres."
+    u ""
 
-# game/v12/scene7.rpy:4284
+# game/v12/scene7.rpy:4269
 translate francais v12s7_riley2_7721f584:
 
     # ri "*Southern accent* Look here champ, take a few benjamins for yourself and just do what I asked, alright?"
-    ri "*Accent du Sud* Écoutez champion, prenez quelques vitamines pour vous et faites ce que je vous demande, d'accord ?"
+    ri ""
 
-# game/v12/scene7.rpy:4289
+# game/v12/scene7.rpy:4274
 translate francais v12s7_riley2_d684256c:
 
     # u "Hmmm, I guess I could make that happen."
-    u "Hmmm, je pense que je pourrais faire en sorte de faire ce que vous demandez."
+    u ""
 
-# game/v12/scene7.rpy:4294
+# game/v12/scene7.rpy:4279
 translate francais v12s7_riley2_3b6f8335:
 
     # ri "*Southern accent* Good, get to it."
-    ri "*Accent du Sud* Bien, allez-y."
+    ri ""
 
-# game/v12/scene7.rpy:4312
+# game/v12/scene7.rpy:4297
 translate francais v12s7_riley_kill2_fda23e9a:
 
     # u "Boom."
-    u "Pan."
+    u ""
 
-# game/v12/scene7.rpy:4320
+# game/v12/scene7.rpy:4305
 translate francais v12s7_riley_kill2_d1c682de:
 
     # ri "*Whisper* You little liar."
-    ri "*Chuchote* Petit menteur."
+    ri ""
 
-# game/v12/scene7.rpy:4325
+# game/v12/scene7.rpy:4310
 translate francais v12s7_riley_kill2_948164de:
 
     # u "Haha, Mr. Lee chose a good murderer."
-    u "Haha, Mr Lee a choisi un bon meurtrier."
+    u ""
 
-# game/v12/scene7.rpy:4330
+# game/v12/scene7.rpy:4315
 translate francais v12s7_riley_kill2_84f0c9ce:
 
     # ri "How'd I not know? So many people thought it was Imre as he was getting on Mr. Lee's nerves. *Chuckles*"
-    ri "Comment ai-je pu ne pas le savoir ? Beaucoup de gens pensaient que c'était Imre, car il tapait sur les nerfs de Mr Lee. *Rire*"
+    ri ""
 
-# game/v12/scene7.rpy:4335
+# game/v12/scene7.rpy:4320
 translate francais v12s7_riley_kill2_b7f2741f:
 
     # u "Nope, it was the beautiful famous boxer. *Laughs*"
-    u "Non, c'était le magnifique et célèbre boxeur. *Rire*"
+    u ""
 
-# game/v12/scene7.rpy:4340
+# game/v12/scene7.rpy:4325
 translate francais v12s7_riley_kill2_15839eb5:
 
     # ri "Wow, well I guess since you killed me I can root for you. So good luck."
-    ri "Wow, eh bien je pense que puisque tu m'as tué, je peux t'encourager. Alors bonne chance."
+    ri ""
 
-# game/v12/scene7.rpy:4345
+# game/v12/scene7.rpy:4330
 translate francais v12s7_riley_kill2_5d8a50ac:
 
     # u "Haha, thanks."
-    u "Haha, merci."
+    u ""
 
-# game/v12/scene7.rpy:4370
+# game/v12/scene7.rpy:4354
 translate francais v12s7_riley2_amber_22405450:
 
     # am "I'm just not ready for all that, I think you're really amazing, but I'm just not the relationship person."
-    am "Je suis pas prête pour tout ça, je pense que tu es vraiment incroyable, mais je suis pas la personne idéale pour les relations."
+    am ""
 
-# game/v12/scene7.rpy:4378
+# game/v12/scene7.rpy:4362
 translate francais v12s7_riley2_amber_b3432d46:
 
     # ri "We don't have to rush into anything, we can just ease into it."
-    ri "Nous n'avons pas besoin de nous précipiter dans quoi que ce soit, nous pouvons juste y aller doucement."
+    ri ""
 
-# game/v12/scene7.rpy:4383
+# game/v12/scene7.rpy:4367
 translate francais v12s7_riley2_amber_4dc7afec:
 
     # am "I wouldn't want to give you any false hope or lead you on though."
-    am "Mais je voudrais pas te donner de faux espoirs ou t'induire en erreur."
+    am ""
 
-# game/v12/scene7.rpy:4393
+# game/v12/scene7.rpy:4377
 translate francais v12s7_riley2_amber_9ea1e8f9:
 
     # u "Hey guys."
-    u "Salut les filles."
+    u ""
 
-# game/v12/scene7.rpy:4398
+# game/v12/scene7.rpy:4382
 translate francais v12s7_riley2_amber_06c54569:
 
     # ri "Uhm... hey."
-    ri "Hum... salut."
+    ri ""
 
-# game/v12/scene7.rpy:4403
+# game/v12/scene7.rpy:4387
 translate francais v12s7_riley2_amber_5aa33551:
 
     # am "Hey, do you mind giving us a second to talk?"
-    am "Salut, ça te dérange de nous laisser une seconde pour parler ?"
+    am ""
 
-# game/v12/scene7.rpy:4408
+# game/v12/scene7.rpy:4392
 translate francais v12s7_riley2_amber_ae01d106:
 
     # u "Oh, yeah, no problem."
-    u "Oh, ouais, pas de problème."
+    u ""
 
-# game/v12/scene7.rpy:4418
+# game/v12/scene7.rpy:4402
 translate francais v12s7_riley2_amber_6fc032aa:
 
     # "*Inaudible*"
-    "*Inaudible*"
+    ""
 
-# game/v12/scene7.rpy:4423
+# game/v12/scene7.rpy:4407
 translate francais v12s7_riley2_amber_6fc032aa_1:
 
     # "*Inaudible*"
-    "*Inaudible*"
+    ""
 
-# game/v12/scene7.rpy:4447
+# game/v12/scene7.rpy:4428
 translate francais v12s7_sam_cameron_37ab006a:
 
     # sa "Hey hey boxer!"
-    sa "Hey hey le boxeur !"
+    sa ""
 
-# game/v12/scene7.rpy:4455
+# game/v12/scene7.rpy:4436
 translate francais v12s7_sam_cameron_90379bab:
 
     # u "Hey!"
-    u "Hey !"
+    u ""
 
-# game/v12/scene7.rpy:4460
+# game/v12/scene7.rpy:4441
 translate francais v12s7_sam_cameron_26fbb311:
 
     # ca "[name]."
-    ca "[name]."
+    ca ""
 
-# game/v12/scene7.rpy:4465
+# game/v12/scene7.rpy:4446
 translate francais v12s7_sam_cameron_f90408ba:
 
     # u "Cameron."
-    u "Cameron."
+    u ""
 
-# game/v12/scene7.rpy:4470
+# game/v12/scene7.rpy:4451
 translate francais v12s7_sam_cameron_106f8c2b:
 
     # sa "It's nice that you got to be a fighter, it was the perfect choice."
-    sa "C'est bien que tu sois un combattant, c'était le choix parfait."
+    sa ""
 
-# game/v12/scene7.rpy:4475
+# game/v12/scene7.rpy:4456
 translate francais v12s7_sam_cameron_cf2dd546:
 
     # u "*Whisper* Thanks, what are you guys' characters?"
-    u "*Chuchote* Merci, quels sont vos personnages ?"
+    u ""
 
-# game/v12/scene7.rpy:4480
+# game/v12/scene7.rpy:4461
 translate francais v12s7_sam_cameron_ea6f58b5:
 
     # sa "I'm a once famous novelist that fell off, but my upcoming novel is finally gonna turn my career around."
-    sa "Je suis une romancière autrefois célèbre qui est tombée en disgrâce, mais mon prochain roman va enfin relancer ma carrière."
+    sa ""
 
-# game/v12/scene7.rpy:4485
+# game/v12/scene7.rpy:4466
 translate francais v12s7_sam_cameron_fcea5c79:
 
     # u "Nice nice, and what about Cameron?"
-    u "Bien, bien, et qu'en est-il de Cameron ?"
+    u ""
 
-# game/v12/scene7.rpy:4490
+# game/v12/scene7.rpy:4471
 translate francais v12s7_sam_cameron_49dcb5d1:
 
     # sa "He doesn't have a role, because he's not part of the trip. He's just following me around, remember?"
-    sa "Il n'a pas de rôle, car il fait pas partie du voyage. Il fait que me suivre, tu te souviens ?"
+    sa ""
 
-# game/v12/scene7.rpy:4495
+# game/v12/scene7.rpy:4476
 translate francais v12s7_sam_cameron_4380a0ac:
 
     # u "Oh yeah."
-    u "Oh ouais."
+    u ""
 
-# game/v12/scene7.rpy:4500
+# game/v12/scene7.rpy:4481
 translate francais v12s7_sam_cameron_05fbcf5b:
 
     # ca "Don't talk about me like I'm not sitting right here. I do have a role, I'm a famous comedian."
-    ca "Parlez pas de moi comme si j'étais pas là. J'ai un rôle, je suis un célèbre humoriste."
+    ca ""
 
-# game/v12/scene7.rpy:4505
+# game/v12/scene7.rpy:4486
 translate francais v12s7_sam_cameron_bfb3c577:
 
     # u "You just decided that yourself? *Chuckles*"
-    u "Tu as décidé ça tout seul ? *Rire*"
+    u ""
 
-# game/v12/scene7.rpy:4510
+# game/v12/scene7.rpy:4491
 translate francais v12s7_sam_cameron_757ae1ff:
 
     # ca "It was the best one for me, I'm the funniest dude alive."
-    ca "C'était le meilleur rôle pour moi, je suis le mec le plus drôle du monde."
+    ca ""
 
-# game/v12/scene7.rpy:4515
+# game/v12/scene7.rpy:4496
 translate francais v12s7_sam_cameron_017e6afa:
 
     # sa "Oh god."
-    sa "Oh merde."
+    sa ""
 
-# game/v12/scene7.rpy:4520
+# game/v12/scene7.rpy:4501
 translate francais v12s7_sam_cameron_c05b1e2b:
 
     # u "Tell me a joke then."
-    u "Raconte-moi une blague alors."
+    u ""
 
-# game/v12/scene7.rpy:4525
+# game/v12/scene7.rpy:4506
 translate francais v12s7_sam_cameron_a57e0bbf:
 
     # sa "Don't have him do that, he's been doing it all ride long."
-    sa "Ne lui demande pas de faire ça, il l'a fait pendant tout le trajet."
+    sa ""
 
-# game/v12/scene7.rpy:4530
+# game/v12/scene7.rpy:4511
 translate francais v12s7_sam_cameron_6c089e93:
 
     # ca "Check this out. Why can't orphans play baseball?"
-    ca "Écoute ça. Pourquoi les orphelins peuvent pas jouer au baseball ?"
+    ca ""
 
-# game/v12/scene7.rpy:4535
+# game/v12/scene7.rpy:4516
 translate francais v12s7_sam_cameron_48c99239:
 
     # u "Why?"
-    u "Pourquoi ?"
+    u ""
 
-# game/v12/scene7.rpy:4540
+# game/v12/scene7.rpy:4521
 translate francais v12s7_sam_cameron_ab9f4758:
 
     # ca "'Cause they don't know where home is."
-    ca "Parce qu'ils savent pas où est leur maison."
+    ca ""
 
-# game/v12/scene7.rpy:4548
+# game/v12/scene7.rpy:4529
 translate francais v12s7_sam_cameron_fcc18885:
 
     # u "*Laughs*"
-    u "*Rire*"
+    u ""
 
-# game/v12/scene7.rpy:4553
+# game/v12/scene7.rpy:4534
 translate francais v12s7_sam_cameron_b5c1156f:
 
     # sa "His jokes aren't funny."
-    sa "Ses blagues sont pas drôles."
+    sa ""
 
-# game/v12/scene7.rpy:4560
+# game/v12/scene7.rpy:4541
 translate francais v12s7_sam_cameron_22814848:
 
     # u "Not funny, man."
-    u "C'est pas drôle, mec."
+    u ""
 
-# game/v12/scene7.rpy:4565
+# game/v12/scene7.rpy:4546
 translate francais v12s7_sam_cameron_746398ef:
 
     # sa "Exactly."
-    sa "Exactement."
+    sa ""
 
-# game/v12/scene7.rpy:4570
+# game/v12/scene7.rpy:4551
 translate francais v12s7_sam_cameron_7e496ab6:
 
     # sa "All of his jokes are about orphans, it's like he has something against orphans or something."
-    sa "Toutes ses blagues sont sur les orphelins, c'est comme s'il avait quelque chose contre les orphelins ou autre."
+    sa ""
 
-# game/v12/scene7.rpy:4575
+# game/v12/scene7.rpy:4556
 translate francais v12s7_sam_cameron_5d88729b:
 
     # ca "Don't critique my art because you don't understand it."
-    ca "Critiquez pas mon art parce que vous le comprenez pas."
+    ca ""
 
-# game/v12/scene7.rpy:4580
+# game/v12/scene7.rpy:4561
 translate francais v12s7_sam_cameron_b50d19a0:
 
     # sa "I understand it perfectly fine, I just think it's in poor taste."
-    sa "Je le comprends parfaitement, je pense juste que c'est de la merde."
+    sa ""
 
-# game/v12/scene7.rpy:4585
+# game/v12/scene7.rpy:4566
 translate francais v12s7_sam_cameron_2345ba80:
 
     # ca "Do you prefer something with a little more flavor?"
-    ca "Vous préférez quelque chose avec un peu plus de saveur ?"
+    ca ""
 
-# game/v12/scene7.rpy:4592
+# game/v12/scene7.rpy:4573
 translate francais v12s7_sam_cameron_18675370:
 
     # sa "I KNOW YOU DIDN'T JUST FUCKING FART ON ME! YOU'RE FUCKING GROSS!"
-    sa "MAIS VIENS PAS PÉTER SUR MOI, PUTAIN !! T'ES DÉGUEULASSE !"
+    sa ""
 
-# game/v12/scene7.rpy:4602
+# game/v12/scene7.rpy:4583
 translate francais v12s7_sam_cameron_64de99e8:
 
     # u "That was weird."
-    u "C'était bizarre."
+    u ""
 
-# game/v12/scene7.rpy:4607
+# game/v12/scene7.rpy:4588
 translate francais v12s7_sam_cameron_5d264323:
 
     # ca "Not my fault you guys can't take a joke."
-    ca "C'est pas ma faute si vous pouvez pas comprendre une bonne blague."
+    ca ""
 
-# game/v12/scene7.rpy:4612
+# game/v12/scene7.rpy:4593
 translate francais v12s7_sam_cameron_66209d91:
 
     # u "That wasn't even a joke, you were just being a dick to your sister."
-    u "Ce n'était même pas une blague, tu étais juste en train de faire le con avec ta soeur."
+    u ""
 
-# game/v12/scene7.rpy:4617
+# game/v12/scene7.rpy:4598
 translate francais v12s7_sam_cameron_697e4977:
 
     # ca "What's this, you tryna be her hero or something? Just because Mr. Lee handed you those gloves doesn't mean you can fight me. Unless you wanna find out."
-    ca "C'est quoi ça, tu essaies d'être son sauveur ou quoi ? C'est pas parce que Mr Lee t'a remis ces gants que tu peux te battre contre moi. À moins que tu veuilles essayer."
+    ca ""
 
-# game/v12/scene7.rpy:4622
+# game/v12/scene7.rpy:4603
 translate francais v12s7_sam_cameron_aee9e154:
 
     # u "Chill out."
-    u "Détends-toi."
+    u ""
 
-# game/v12/scene7.rpy:4627
+# game/v12/scene7.rpy:4608
 translate francais v12s7_sam_cameron_032e8f51:
 
     # ca "Yeah, you not ready for none of this. *Chuckles* I'm the best fighter here right now."
-    ca "Ouais, t'es pas prêt pour tout ça. *Rire* Je suis le meilleur combattant, là."
+    ca ""
 
-# game/v12/scene7.rpy:4632
+# game/v12/scene7.rpy:4613
 translate francais v12s7_sam_cameron_51776af9:
 
     # u "You really think you can take on Chris?"
-    u "Tu crois vraiment que tu peux affronter Chris ?"
+    u ""
 
-# game/v12/scene7.rpy:4637
+# game/v12/scene7.rpy:4618
 translate francais v12s7_sam_cameron_ec9103dc:
 
     # ca "With one hand behind my back."
-    ca "Avec une main dans le dos."
+    ca ""
 
-# game/v12/scene7.rpy:4642
+# game/v12/scene7.rpy:4623
 translate francais v12s7_sam_cameron_7587e6d2:
 
     # u "Right."
-    u "C'est ça."
+    u ""
 
-# game/v12/scene7.rpy:4663
+# game/v12/scene7.rpy:4644
 translate francais v12s7_sam2_2599ac53:
 
     # u "No bodyguard?"
-    u "Pas de garde du corps ?"
+    u ""
 
-# game/v12/scene7.rpy:4671
+# game/v12/scene7.rpy:4652
 translate francais v12s7_sam2_76988b6a:
 
     # sa "You mean no stalker."
-    sa "Tu veux dire pas de harceleur."
+    sa ""
 
-# game/v12/scene7.rpy:4676
+# game/v12/scene7.rpy:4657
 translate francais v12s7_sam2_ff358c11:
 
     # u "Haha, you really weren't enjoying his jokes were you?"
-    u "Haha, tu n'as vraiment pas apprécié ses blagues, n'est-ce pas ?"
+    u ""
 
-# game/v12/scene7.rpy:4681
+# game/v12/scene7.rpy:4662
 translate francais v12s7_sam2_8ef23b5a:
 
     # sa "Not at all. Even if some of them were a little funny, I don't think it's cool that all of his jokes are about orphans. The whole idea of orphans just isn't funny to me at all."
-    sa "Pas du tout. Même si certaines d'entre elles étaient un peu drôles, je trouve pas ça cool que toutes ses blagues parlent d'orphelins. L'idée d'orphelins n'est pas du tout drôle pour moi."
+    sa ""
 
-# game/v12/scene7.rpy:4686
+# game/v12/scene7.rpy:4667
 translate francais v12s7_sam2_33fb8659:
 
     # u "I feel where you're coming from."
-    u "Je comprends d'où tu viens."
+    u ""
 
-# game/v12/scene7.rpy:4691
+# game/v12/scene7.rpy:4672
 translate francais v12s7_sam2_2179fe00:
 
     # sa "*Whisper* He should know better."
-    sa "*Chuchote* Il devrait comprendre."
+    sa ""
 
-# game/v12/scene7.rpy:4696
+# game/v12/scene7.rpy:4677
 translate francais v12s7_sam2_e705cdf3:
 
     # u "Is there anything I can do to cheer you up a bit?"
-    u "Je peux faire quelque chose pour te remonter le moral ?"
+    u ""
 
-# game/v12/scene7.rpy:4701
+# game/v12/scene7.rpy:4682
 translate francais v12s7_sam2_8c2ce65b:
 
     # sa "Besides distracting my mind with something else? *Chuckles*"
-    sa "À part distraire mon esprit avec autre chose ? *Rire*"
+    sa ""
 
-# game/v12/scene7.rpy:4709
+# game/v12/scene7.rpy:4690
 translate francais v12s7_sam2_1b53551c:
 
     # u "Wanna focus on the game? That's the point of all of this, I think... To make us focus on something else for a while."
-    u "Tu veux te concentrer sur le jeu ? C'est le but de tout ça, je pense... Nous faire nous concentrer sur autre chose pendant un moment."
+    u ""
 
-# game/v12/scene7.rpy:4717
+# game/v12/scene7.rpy:4698
 translate francais v12s7_sam2_95d5275c:
 
     # u "I think this might help you think about something else..."
-    u "Je pense que cela pourrait vous aider à penser à autre chose..."
+    u ""
 
-# game/v12/scene7.rpy:4722
+# game/v12/scene7.rpy:4703
 translate francais v12s7_sam2_17b10a38:
 
     # sa "What-"
-    sa "Quoi-"
+    sa ""
 
-# game/v12/scene7.rpy:4733
+# game/v12/scene7.rpy:4714
 translate francais v12s7_sam2_34d73f74:
 
     # sa "Oh... Yeah. *Chuckles* That definitely helps."
-    sa "Oh... Ouais. *Rire* Ça aide vraiment."
+    sa ""
 
-# game/v12/scene7.rpy:4740
+# game/v12/scene7.rpy:4721
 translate francais v12s7_sam2_ab749b87:
 
     # u "(Shit!) That might be Mr. Lee, shh!"
-    u "(Merde !) Ça pourrait être Mr Lee, chuut !"
+    u ""
 
-# game/v12/scene7.rpy:4745
+# game/v12/scene7.rpy:4726
 translate francais v12s7_sam2_65801db3:
 
     # sa "Quick, talk murder to me. *Laughs*"
-    sa "Vite, parle-moi de meurtre. *Rire*"
+    sa ""
 
-# game/v12/scene7.rpy:4750
+# game/v12/scene7.rpy:4731
 translate francais v12s7_sam2_6fd14e54:
 
     # u "Well, let's see, novelist, can you pinpoint our murderer?"
-    u "Eh bien, voyons voir, la romancière, pouvez-vous identifier notre meurtrier ?"
+    u ""
 
-# game/v12/scene7.rpy:4755
+# game/v12/scene7.rpy:4736
 translate francais v12s7_sam2_db290bd6:
 
     # sa "Well if I was writing this, I'd probably choose Lauren to be the murderer."
-    sa "Si j'écrivais ça, je choisirais certainement Lauren comme meurtrière."
+    sa ""
 
-# game/v12/scene7.rpy:4760
+# game/v12/scene7.rpy:4741
 translate francais v12s7_sam2_693b3993:
 
     # u "What? There's no way it'd be her."
-    u "Quoi ? C'est impossible que ce soit elle."
+    u ""
 
-# game/v12/scene7.rpy:4765
+# game/v12/scene7.rpy:4746
 translate francais v12s7_sam2_9129e359:
 
     # sa "See, that's exactly why I'd choose her. No one would suspect her. She wouldn't even suspect herself. *Chuckles*"
-    sa "Vous voyez, c'est exactement pour ça que je la choisirais. Personne la suspecterait. Elle se suspecterait même pas elle-même. *Rire*"
+    sa ""
 
-# game/v12/scene7.rpy:4770
+# game/v12/scene7.rpy:4751
 translate francais v12s7_sam2_18df6ae9:
 
     # u "Hmm, that's pretty smart."
-    u "Hmm, c'est très intelligent."
+    u ""
 
-# game/v12/scene7.rpy:4775
+# game/v12/scene7.rpy:4756
 translate francais v12s7_sam2_e0429848:
 
     # sa "You sound surprised. *Chuckles* Did you think I was stupid?"
-    sa "Vous avez l'air surpris. *Rire* Vous pensiez que j'étais stupide ?"
+    sa ""
 
-# game/v12/scene7.rpy:4780
+# game/v12/scene7.rpy:4761
 translate francais v12s7_sam2_4403754f:
 
     # u "I may have wondered if it ran in the family."
-    u "Je me suis peut-être demandé si l'intelligence était dans la famille."
+    u ""
 
-# game/v12/scene7.rpy:4785
+# game/v12/scene7.rpy:4766
 translate francais v12s7_sam2_f2e59a62:
 
     # sa "My brother took all the stupid."
-    sa "Mon frère a pris toute la stupidité."
+    sa ""
 
-# game/v12/scene7.rpy:4790
+# game/v12/scene7.rpy:4771
 translate francais v12s7_sam2_77c817f7:
 
     # u "That's believable."
-    u "C'est crédible."
+    u ""
 
-# game/v12/scene7.rpy:4795
+# game/v12/scene7.rpy:4776
 translate francais v12s7_sam2_c269c8bf:
 
     # sa "Honestly, my life sucks. I'm an adult in college, but instead of having friends and living the life I want to live..."
-    sa "Honnêtement, ma vie est nulle. Je suis une adulte à l'université, mais au lieu d'avoir des amis et de vivre la vie que je veux vivre..."
+    sa ""
 
-# game/v12/scene7.rpy:4796
+# game/v12/scene7.rpy:4777
 translate francais v12s7_sam2_709f74d2:
 
     # sa "I'm smothered by my brother for literally no reason except he has nothing better to do. I just want to be my own person."
-    sa "Je suis étouffée par mon frère sans raison, et il n'a rien de mieux à faire. Je veux juste être ma propre personne."
+    sa ""
 
-# game/v12/scene7.rpy:4801
+# game/v12/scene7.rpy:4782
 translate francais v12s7_sam2_0c02facf:
 
     # u "Get a restraining order."
-    u "Demande une mesure d'éloignement."
+    u ""
 
-# game/v12/scene7.rpy:4806
+# game/v12/scene7.rpy:4787
 translate francais v12s7_sam2_329604e3:
 
     # sa "I've thought about it, but I don't want to take it that far. I just want him to take my wishes into consideration for once."
-    sa "J'y ai pensé, mais je veux pas aller aussi loin. Je veux juste qu'il prenne mes souhaits en considération pour une fois."
+    sa ""
 
-# game/v12/scene7.rpy:4811
+# game/v12/scene7.rpy:4792
 translate francais v12s7_sam2_c3ad0ce1:
 
     # u "Maybe he does it because he cares, but gets carried away."
-    u "Peut-être qu'il le fait parce qu'il se sent concerné, mais qu'il s'emporte."
+    u ""
 
-# game/v12/scene7.rpy:4816
+# game/v12/scene7.rpy:4797
 translate francais v12s7_sam2_8fed0247:
 
     # sa "He sure gets carried away a lot."
-    sa "Il s'emporte beaucoup trop."
+    sa ""
 
-# game/v12/scene7.rpy:4821
+# game/v12/scene7.rpy:4802
 translate francais v12s7_sam2_de473765:
 
     # u "Haha, yeah. You mentioned Lauren, do you talk to her?"
-    u "Haha, ouais. Tu as mentionné Lauren, tu lui parles ?"
+    u ""
 
-# game/v12/scene7.rpy:4826
+# game/v12/scene7.rpy:4807
 translate francais v12s7_sam2_8eb27ca2:
 
     # sa "I haven't, but I don't think we'd get along, she's too soft."
-    sa "Je la connais pas, mais je pense pas qu'on s'entendrait, elle est trop douce."
+    sa ""
 
-# game/v12/scene7.rpy:4831
+# game/v12/scene7.rpy:4812
 translate francais v12s7_sam2_3a462014:
 
     # u "I wouldn't jump to conclusions, just because someone is kind doesn't mean they're soft."
-    u "Je tirerais pas de conclusions hâtives, ce n'est pas parce que quelqu'un est gentil qu'il est mou."
+    u ""
 
-# game/v12/scene7.rpy:4836
+# game/v12/scene7.rpy:4817
 translate francais v12s7_sam2_d8473a60:
 
     # sa "I've never seen or heard of her doing anything exciting."
-    sa "Je l'ai jamais vue ou entendue faire quoi que ce soit d'excitant."
+    sa ""
 
-# game/v12/scene7.rpy:4841
+# game/v12/scene7.rpy:4822
 translate francais v12s7_sam2_9d2a66e8:
 
     # u "Well, you're not in her circle. Would you believe it if I told you on the very first day of school Riley, Imre, Lauren and I played Drink or Strip?"
-    u "Eh bien, tu n'es pas dans son cercle. Tu me croirais si je te disais que le tout premier jour d'école, Riley, Imre, Lauren et moi avons joué à Drink or Strip ?"
+    u ""
 
-# game/v12/scene7.rpy:4846
+# game/v12/scene7.rpy:4827
 translate francais v12s7_sam2_7bd31ab8:
 
     # sa "There's no way Lauren played that with you guys."
-    sa "Il n'y a aucune chance que Lauren ait joué à ça avec vous."
+    sa ""
 
-# game/v12/scene7.rpy:4851
+# game/v12/scene7.rpy:4832
 translate francais v12s7_sam2_17fb8c9b:
 
     # u "She did. C'mon now, don't judge a book until you've read it all the way through."
-    u "Elle l'a fait. Il faut pas juger un livre avant de l'avoir lu en entier."
+    u ""
 
-# game/v12/scene7.rpy:4856
+# game/v12/scene7.rpy:4837
 translate francais v12s7_sam2_88397b80:
 
     # sa "Hmm, maybe I should try talking to her. Someone I definitely wanna talk to though is Amber."
-    sa "Hmm, peut-être que je devrais essayer de lui parler. Par contre, il y a quelqu'un à qui je veux vraiment parler, c'est Amber."
+    sa ""
 
-# game/v12/scene7.rpy:4857
+# game/v12/scene7.rpy:4838
 translate francais v12s7_sam2_86e43d43:
 
     # sa "After seeing how feisty she's been with the whole security thing I definitely wanna get to know her. She seems like my type of person, plus I know her and Riley are cool."
-    sa "Après avoir vu comment elle a été courageuse avec toute cette histoire de sécurité, je veux vraiment apprendre à la connaître. Elle semble être mon type de personne, et je sais que Riley et elle sont cool."
+    sa ""
 
-# game/v12/scene7.rpy:4862
+# game/v12/scene7.rpy:4843
 translate francais v12s7_sam2_00c69058:
 
     # u "See, look at that, so many opportunities."
-    u "Tu vois, regarde ça, tant d'opportunités."
+    u ""
 
-# game/v12/scene7.rpy:4867
+# game/v12/scene7.rpy:4848
 translate francais v12s7_sam2_c94d8969:
 
     # sa "Yeah, I guess you're right."
-    sa "Oui, je pense que tu as raison."
+    sa ""
 
-# game/v12/scene7.rpy:4872
+# game/v12/scene7.rpy:4853
 translate francais v12s7_sam2_a4d763ba:
 
     # u "When am I not?"
-    u "Quand n'ai-je pas raison ?"
+    u ""
 
-# game/v12/scene7.rpy:4877
+# game/v12/scene7.rpy:4858
 translate francais v12s7_sam2_4369ae12:
 
     # sa "Don't ruin the moment."
-    sa "Ne gâche pas ce moment."
+    sa ""
 
-# game/v12/scene7.rpy:4882
+# game/v12/scene7.rpy:4863
 translate francais v12s7_sam2_51b30d5a:
 
     # u "Haha, my bad."
-    u "Haha, c'est ma faute."
+    u ""
 
-# game/v12/scene7.rpy:4887
+# game/v12/scene7.rpy:4868
 translate francais v12s7_sam2_3e0216ee:
 
     # sa "Well, I need to finish my book. If I don't, no one will. See you around [name] and thanks for the talk."
-    sa "Eh bien, je dois finir mon livre. Si je le fais pas, personne le fera. À plus tard [name] et merci pour la discussion."
+    sa ""
 
-# game/v12/scene7.rpy:4892
+# game/v12/scene7.rpy:4873
 translate francais v12s7_sam2_173f2156:
 
     # u "Anytime."
-    u "Quand tu veux."
+    u ""
 
-# game/v12/scene7.rpy:4911
+# game/v12/scene7.rpy:4892
 translate francais v12s7_samantha_kill_fda23e9a:
 
     # u "Boom."
-    u "Pan."
+    u ""
 
-# game/v12/scene7.rpy:4919
+# game/v12/scene7.rpy:4900
 translate francais v12s7_samantha_kill_b13a7cf3:
 
     # sa "There's no way he chose you as the killer."
-    sa "Il n'y avait aucune chance qu'il te choisisse comme tueur."
+    sa ""
 
-# game/v12/scene7.rpy:4924
+# game/v12/scene7.rpy:4905
 translate francais v12s7_samantha_kill_86a9e1ee:
 
     # u "He did."
-    u "Il l'a fait, pourtant."
+    u ""
 
-# game/v12/scene7.rpy:4929
+# game/v12/scene7.rpy:4910
 translate francais v12s7_samantha_kill_1f893bea:
 
     # sa "I'm having a hard time believing that."
-    sa "J'ai du mal à le croire."
+    sa ""
 
-# game/v12/scene7.rpy:4934
+# game/v12/scene7.rpy:4915
 translate francais v12s7_samantha_kill_c60601fb:
 
     # u "Why is that so hard to believe?"
-    u "Pourquoi est-ce si difficile à croire ?"
+    u ""
 
-# game/v12/scene7.rpy:4939
+# game/v12/scene7.rpy:4920
 translate francais v12s7_samantha_kill_3a73db82:
 
     # sa "You don't fit any killer theories."
-    sa "Tu corresponds à aucune théorie de tueur."
+    sa ""
 
-# game/v12/scene7.rpy:4944
+# game/v12/scene7.rpy:4925
 translate francais v12s7_samantha_kill_4a226817:
 
     # u "Doesn't that make me the perfect choice then?"
-    u "Ça fait-il pas de moi le choix parfait alors ?"
+    u ""
 
-# game/v12/scene7.rpy:4949
+# game/v12/scene7.rpy:4930
 translate francais v12s7_samantha_kill_d373dd23:
 
     # sa "I guess. Why didn't you kill me earlier?"
-    sa "Je pense. Pourquoi pas m'avoir tué plus tôt ?"
+    sa ""
 
-# game/v12/scene7.rpy:4954
+# game/v12/scene7.rpy:4935
 translate francais v12s7_samantha_kill_0d086675:
 
     # u "You were with your brother, and I didn't want to get caught."
-    u "Tu étais avec ton frère, et je voulais pas me faire prendre."
+    u ""
 
-# game/v12/scene7.rpy:4959
+# game/v12/scene7.rpy:4940
 translate francais v12s7_samantha_kill_8979f63a:
 
     # sa "He's not a part of the game idiot?"
-    sa "Il fait pas partie du jeu, idiot."
+    sa ""
 
-# game/v12/scene7.rpy:4964
+# game/v12/scene7.rpy:4945
 translate francais v12s7_samantha_kill_ebe5dbd5:
 
     # u "*Laughs* Oh yeah."
-    u "*Rire* Ah oui."
+    u ""
 
-# game/v12/scene7.rpy:4969
+# game/v12/scene7.rpy:4950
 translate francais v12s7_samantha_kill_7cec54be:
 
     # sa "Enjoy your little killing spree, good luck."
-    sa "Apprécie ta petite folie meurtrière, bonne chance"
+    sa ""
 
-# game/v12/scene7.rpy:4974
+# game/v12/scene7.rpy:4955
 translate francais v12s7_samantha_kill_cb046e78:
 
     # u "Later."
-    u "À plus tard."
+    u ""
 
-# game/v12/scene7.rpy:4995
+# game/v12/scene7.rpy:4976
 translate francais v12s7_cameron2_97a4007a:
 
     # ca "Hey [name], get over here."
-    ca "Hey [name], viens ici."
+    ca ""
 
-# game/v12/scene7.rpy:5008
+# game/v12/scene7.rpy:4989
 translate francais v12s7_cameron2_0336fa14:
 
     # u "What's up?"
-    u "Qu'est-ce qu'il y a ?"
+    u ""
 
-# game/v12/scene7.rpy:5013
+# game/v12/scene7.rpy:4994
 translate francais v12s7_cameron2_92386198:
 
     # ca "I whipped up some more jokes."
-    ca "J'ai préparé d'autres blagues."
+    ca ""
 
-# game/v12/scene7.rpy:5018
+# game/v12/scene7.rpy:4999
 translate francais v12s7_cameron2_9c86798f:
 
     # u "Are they orphan jokes?"
-    u "Ce sont des blagues sur les orphelins ?"
+    u ""
 
-# game/v12/scene7.rpy:5023
+# game/v12/scene7.rpy:5004
 translate francais v12s7_cameron2_9ffb1d49:
 
     # ca "I'm sticking to my specialty."
-    ca "Je reste dans ma spécialité."
+    ca ""
 
-# game/v12/scene7.rpy:5028
+# game/v12/scene7.rpy:5009
 translate francais v12s7_cameron2_57ae9944:
 
     # u "*Sighs*"
-    u "*Soupirs*"
+    u ""
 
-# game/v12/scene7.rpy:5033
+# game/v12/scene7.rpy:5014
 translate francais v12s7_cameron2_f2ea4404:
 
     # ca "Alright, so tell me, what's the difference between and orphan and an apple?"
-    ca "D'accord, alors dis-moi, quelle est la différence entre un orphelin et une pomme ?"
+    ca ""
 
-# game/v12/scene7.rpy:5038
+# game/v12/scene7.rpy:5019
 translate francais v12s7_cameron2_ef2f1671:
 
     # u "What?"
-    u "Quoi ?"
+    u ""
 
-# game/v12/scene7.rpy:5043
+# game/v12/scene7.rpy:5024
 translate francais v12s7_cameron2_cf52a76c:
 
     # ca "An apple gets picked. *Laughs*"
-    ca "Une pomme est cueillie. *Rire*"
+    ca ""
 
-# game/v12/scene7.rpy:5048
+# game/v12/scene7.rpy:5029
 translate francais v12s7_cameron2_3d7e8b2c:
 
     # u "That's dark."
-    u "C'est... (nul) noir."
+    u ""
 
-# game/v12/scene7.rpy:5053
+# game/v12/scene7.rpy:5034
 translate francais v12s7_cameron2_0ad3ba01:
 
     # ca "I got more, I got more."
-    ca "J'en ai encore, j'en ai encore."
+    ca ""
 
-# game/v12/scene7.rpy:5058
+# game/v12/scene7.rpy:5039
 translate francais v12s7_cameron2_2d46447c:
 
     # u "Alright, let's hear it."
-    u "D'accord, je t'écoute."
+    u ""
 
-# game/v12/scene7.rpy:5063
+# game/v12/scene7.rpy:5044
 translate francais v12s7_cameron2_afc36fca:
 
     # ca "Do you know what an orphan's favorite movie is?"
-    ca "Tu sais quel est le film préféré d'un orphelin ?"
+    ca ""
 
-# game/v12/scene7.rpy:5068
+# game/v12/scene7.rpy:5049
 translate francais v12s7_cameron2_bd835ac5:
 
     # u "What's an orphan's favorite movie?"
-    u "Et quel est le film préféré d'un orphelin ?"
+    u ""
 
-# game/v12/scene7.rpy:5073
+# game/v12/scene7.rpy:5054
 translate francais v12s7_cameron2_9d32e6a0:
 
     # ca "Home Alone. *Laughs* Oh my god I'm too good."
-    ca "\"Home Alone\". *Rire* Oh merde, je suis trop bon."
+    ca ""
 
-# game/v12/scene7.rpy:5078
+# game/v12/scene7.rpy:5059
 translate francais v12s7_cameron2_8cf8218f:
 
     # u "Oh god..."
-    u "Oh putain..."
+    u ""
 
-# game/v12/scene7.rpy:5096
+# game/v12/scene7.rpy:5077
 translate francais v12s7_cameron_kill_fda23e9a:
 
     # u "Boom."
-    u "Pan."
+    u ""
 
-# game/v12/scene7.rpy:5104
+# game/v12/scene7.rpy:5085
 translate francais v12s7_cameron_kill_daf18570:
 
     # ca "That's stupid. Why are you tryna kill me... you already know I'm not really part of the game."
-    ca "C'est con. Pourquoi t'essaies de me tuer... tu sais déjà que je fais pas vraiment partie du jeu."
+    ca ""
 
-# game/v12/scene7.rpy:5109
+# game/v12/scene7.rpy:5090
 translate francais v12s7_cameron_kill_a11b841d:
 
     # u "Then why am I wasting my time with you?"
-    u "Alors pourquoi je perds mon temps avec toi ?"
+    u ""
 
-# game/v12/scene7.rpy:5131
+# game/v12/scene7.rpy:5112
 translate francais v12s7_nora1_6cd09063:
 
     # u "Hey, nice to meet you. I'm sure you recognize me."
-    u "Hey, ravi de vous rencontrer. Je suis sûr que vous me reconnaissez."
+    u ""
 
-# game/v12/scene7.rpy:5139
+# game/v12/scene7.rpy:5120
 translate francais v12s7_nora1_924d49c5:
 
     # no "Please don't come over here with all that, I'm not trying to do this right now."
-    no "S'il te plaît, ne viens pas ici avec toute cette histoire, je n'ai vraiment pas envie jouer à ça."
+    no ""
 
-# game/v12/scene7.rpy:5144
+# game/v12/scene7.rpy:5125
 translate francais v12s7_nora1_7ad6a0e3:
 
     # u "Oh, damn. Sorry."
-    u "Oh, merde. Désolé."
+    u ""
 
-# game/v12/scene7.rpy:5149
+# game/v12/scene7.rpy:5130
 translate francais v12s7_nora1_fab35b3f:
 
     # no "This is a stupid fucking game, I've literally just dealt with a fucking robbery last night and this felt like a good idea?"
-    no "C'est un putain de jeu stupide, je viens littéralement d'avoir à gérer un putain de vol la nuit dernière et ça me paraît pas être une bonne idée."
+    no ""
 
-# game/v12/scene7.rpy:5154
+# game/v12/scene7.rpy:5135
 translate francais v12s7_nora1_14257095:
 
     # u "Maybe it was planned prior, I'm sure it was."
-    u "Peut-être que c'était prévu avant, je suis sûr que ça l'était, d'ailleurs."
+    u ""
 
-# game/v12/scene7.rpy:5159
+# game/v12/scene7.rpy:5140
 translate francais v12s7_nora1_7e488def:
 
     # no "Then he should've been a little more considerate and canceled it."
-    no "Alors il aurait dû être un peu plus prévenant et l'annuler."
+    no ""
 
-# game/v12/scene7.rpy:5164
+# game/v12/scene7.rpy:5145
 translate francais v12s7_nora1_c58d1bb3:
 
     # u "Well, do you want me to kill you?"
-    u "Tu veux que je te tue ?"
+    u ""
 
-# game/v12/scene7.rpy:5169
+# game/v12/scene7.rpy:5150
 translate francais v12s7_nora1_45085983:
 
     # no "The quicker the killer murders me, the better."
-    no "Plus vite le tueur m'assassine, mieux c'est."
+    no ""
 
-# game/v12/scene7.rpy:5174
+# game/v12/scene7.rpy:5155
 translate francais v12s7_nora1_754ee5ac:
 
     # u "Hmm, noted. I hope that happens for you."
-    u "Hmm, noté. J'espère que cela se réalisera pour toi."
+    u ""
 
-# game/v12/scene7.rpy:5179
+# game/v12/scene7.rpy:5160
 translate francais v12s7_nora1_de8acb19:
 
     # no "Yeah, you and I both."
-    no "Oui, toi et moi, tous les deux, qu'on meure vite et merde."
+    no ""
 
-# game/v12/scene7.rpy:5184
+# game/v12/scene7.rpy:5165
 translate francais v12s7_nora1_24bc9170:
 
     # u "(She's really not into this.)"
-    u "(Elle n'est vraiment pas dans le jeu.)"
+    u ""
 
-# game/v12/scene7.rpy:5186
+# game/v12/scene7.rpy:5167
 translate francais v12s7_nora1_362a7a78:
 
     # u "Alright um, I'll talk to you once all this is over."
-    u "D'accord, je te parlerai une fois que tout ça sera terminé."
+    u ""
 
-# game/v12/scene7.rpy:5191
+# game/v12/scene7.rpy:5172
 translate francais v12s7_nora1_e54a72e1:
 
     # no "Alright, sorry. I'm not trying to be a bitch. I'm just not in the mood for this."
-    no "D'accord, désolée. Je n'essaie pas d'être une garce. Je ne suis juste pas d'humeur à ça."
+    no ""
 
-# game/v12/scene7.rpy:5199
+# game/v12/scene7.rpy:5180
 translate francais v12s7_nora1_44e19ebd:
 
     # u "No, don't worry. I get it. We'll talk later."
-    u "Non, t'inquiète pas. Je comprends. Nous parlerons plus tard."
+    u ""
 
-# game/v12/scene7.rpy:5216
+# game/v12/scene7.rpy:5197
 translate francais v12s7_nora1_8d6636fe:
 
     # u "Do you want some company?"
-    u "Tu veux un peu de compagnie ?"
+    u ""
 
-# game/v12/scene7.rpy:5221
+# game/v12/scene7.rpy:5202
 translate francais v12s7_nora1_e34a35d8:
 
     # no "Are you sure you don't want to pay attention to the game? I'm not taking the blame if Mr. Lee sees us talking out of character."
-    no "Tu es sûr que tu ne veux pas être attentif au jeu ? Je ne prendrai pas la responsabilité si Mr Lee nous voit parler hors de notre personnage."
+    no ""
 
-# game/v12/scene7.rpy:5226
+# game/v12/scene7.rpy:5207
 translate francais v12s7_nora1_e637be3c:
 
     # u "*Chuckles* It's fine. So, how are you feeling after last night?"
-    u "*Rire* C'est bon. Alors, comment te sens-tu après la nuit dernière ?"
+    u ""
 
-# game/v12/scene7.rpy:5231
+# game/v12/scene7.rpy:5212
 translate francais v12s7_nora1_4699dd56:
 
     # no "I really don't want to think about it..."
-    no "Je ne veux vraiment pas penser à ça..."
+    no ""
 
-# game/v12/scene7.rpy:5236
+# game/v12/scene7.rpy:5217
 translate francais v12s7_nora1_9fe66575:
 
     # u "Shouldn't of brought it up."
-    u "Je n'aurais pas dû en parler."
+    u ""
 
-# game/v12/scene7.rpy:5241
+# game/v12/scene7.rpy:5222
 translate francais v12s7_nora1_a13b8313:
 
     # no "*Chuckles* It's alright. At least you actually asked. It's nice to know that someone cares."
-    no "*Rire* C'est bon. Au moins toi, tu as demandé. C'est bon de savoir que quelqu'un s'en soucie."
+    no ""
 
-# game/v12/scene7.rpy:5250
+# game/v12/scene7.rpy:5231
 translate francais v12s7_nora1_a7b4eda7:
 
     # u "Nora, I know it's hard to see while we're on the trip but Chris cares about you. I know he's super busy and it sucks not being able to-"
-    u "Nora, je sais que c'est difficile à voir pendant le voyage mais Chris tient à toi. Je sais qu'il est très occupé et ça craint de pas pouvoir..."
+    u ""
 
-# game/v12/scene7.rpy:5255
+# game/v12/scene7.rpy:5236
 translate francais v12s7_nora1_5cefc7d7:
 
     # no "Look, [name]. Everything you're saying? I've heard it. About a thousand times now. And I'm so fucking over it. Why can't anyone understand this from my point of view?"
-    no "Écoute, [name]. Tout ce que vous dites... Je l'ai déjà entendu. Environ un millier de fois maintenant. Et j'en ai marre, putain. Pourquoi personne ne peut comprendre mon point de vue ?"
+    no ""
 
-# game/v12/scene7.rpy:5260
+# game/v12/scene7.rpy:5241
 translate francais v12s7_nora1_c9f39cb1:
 
     # u "I think we do but-"
-    u "Je pense que si, mais..."
+    u ""
 
-# game/v12/scene7.rpy:5265
+# game/v12/scene7.rpy:5246
 translate francais v12s7_nora1_8f191192:
 
     # no "Just go, please. This isn't helping the way I thought it would."
-    no "Pars, s'il te plaît. Ça ne m'aide pas du tout comme je le pensais."
+    no ""
 
-# game/v12/scene7.rpy:5270
+# game/v12/scene7.rpy:5251
 translate francais v12s7_nora1_6dd72289:
 
     # u "Nora, I'm sorry. I didn't mean to-"
-    u "Nora, je suis désolé. Je voulais pas-"
+    u ""
 
-# game/v12/scene7.rpy:5275
+# game/v12/scene7.rpy:5256
 translate francais v12s7_nora1_cf140b1f:
 
     # no "Please, just go. I wanna be alone."
-    no "S'il te plaît, va-t'en. Je veux être seule."
+    no ""
 
-# game/v12/scene7.rpy:5280
+# game/v12/scene7.rpy:5261
 translate francais v12s7_nora1_0fa5e99e:
 
     # u "(Fuck. I never say the right things to her, do I?)"
-    u "(Putain. Je lui dis jamais les bonnes choses ?)"
+    u ""
 
-# game/v12/scene7.rpy:5298
+# game/v12/scene7.rpy:5279
 translate francais v12s7_nora1_bc8c8ada:
 
     # u "Nora, of course I care. I've always cared."
-    u "Nora, bien sûr que ça m'intéresse. Je me suis toujours soucié de toi."
+    u ""
 
-# game/v12/scene7.rpy:5303
+# game/v12/scene7.rpy:5284
 translate francais v12s7_nora1_6fa7a4b0:
 
     # no "It's always going to come down to me or him. You know that, right?"
-    no "Ça va ce terminera par lui OU moi. Tu le sais, n'est-ce pas ?"
+    no ""
 
-# game/v12/scene7.rpy:5305
+# game/v12/scene7.rpy:5286
 translate francais v12s7_nora1_c8a8df20:
 
     # no "Eventually there will come a time when you can't play both sides. Either he'll get mad that you're talking to me or I'll get mad because you're talking to him."
-    no "Il arrivera un moment où tu ne pourras plus jouer sur les deux tableaux. Soit il sera en colère parce que tu me parles, soit je serai en colère parce que tu lui parles."
+    no ""
 
-# game/v12/scene7.rpy:5306
+# game/v12/scene7.rpy:5287
 translate francais v12s7_nora1_1d934acd:
 
     # no "It's going to happen, so what would be your choice?"
-    no "Ça va arriver, alors que choisiras-tu ?"
+    no ""
 
-# game/v12/scene7.rpy:5312
+# game/v12/scene7.rpy:5293
 translate francais v12s7_nora1_234d1ce1:
 
     # no "Nevermind, I already know you're going to say him."
-    no "Peu importe, je sais déjà que tu vas le mentionner."
+    no ""
 
-# game/v12/scene7.rpy:5320
+# game/v12/scene7.rpy:5301
 translate francais v12s7_nora1_ec2e0f45:
 
     # u "This is all starting to sound like you've decided on dumping Chris... Are you really doing this?"
-    u "On dirait que tu as décidé de larguer Chris... Tu vas vraiment faire ça ?"
+    u ""
 
-# game/v12/scene7.rpy:5325
+# game/v12/scene7.rpy:5306
 translate francais v12s7_nora1_03868776:
 
     # no "Ha. Nice."
-    no "Ha. Bien."
+    no ""
 
-# game/v12/scene7.rpy:5330
+# game/v12/scene7.rpy:5311
 translate francais v12s7_nora1_ef2f1671:
 
     # u "What?"
-    u "Quoi ?"
+    u ""
 
-# game/v12/scene7.rpy:5335
+# game/v12/scene7.rpy:5316
 translate francais v12s7_nora1_6c0fa2ce:
 
     # no "Nothing, I got my answer. You can go. Thanks for the talk."
-    no "Rien, j'ai eu ma réponse. Tu peux y aller. Merci pour la discussion."
+    no ""
 
-# game/v12/scene7.rpy:5340
+# game/v12/scene7.rpy:5321
 translate francais v12s7_nora1_c8bad6d4:
 
     # u "Nora, come on ple-"
-    u "Nora, allez, s'il te-"
+    u ""
 
-# game/v12/scene7.rpy:5345
+# game/v12/scene7.rpy:5326
 translate francais v12s7_nora1_7746ccc4:
 
     # no "It's fine. I'm fine. Just go."
-    no "C'est bon. Je vais bien. Part simplement."
+    no ""
 
-# game/v12/scene7.rpy:5366
+# game/v12/scene7.rpy:5347
 translate francais v12s7_nora1_1291ad6b:
 
     # u "There's no choice."
-    u "Il n'y a pas le choix."
+    u ""
 
-# game/v12/scene7.rpy:5372
+# game/v12/scene7.rpy:5353
 translate francais v12s7_nora1_8f337bcd:
 
     # u "And there really never has been."
-    u "Et il n'y en a jamais eu."
+    u ""
 
-# game/v12/scene7.rpy:5377
+# game/v12/scene7.rpy:5358
 translate francais v12s7_nora1_cd6b74c5:
 
     # u "It's always been you over him. Always will be."
-    u "Ça a toujours été toi plutôt que lui. Et ça le sera toujours."
+    u ""
 
-# game/v12/scene7.rpy:5382
+# game/v12/scene7.rpy:5363
 translate francais v12s7_nora1_eeea477f:
 
     # no "Really?"
-    no "Vraiment ?"
+    no ""
 
-# game/v12/scene7.rpy:5387
+# game/v12/scene7.rpy:5368
 translate francais v12s7_nora1_0be92177:
 
     # u "For sure. You're way more fun to be around, and a hell of a lot more attractive. *Chuckles*"
-    u "Bien sûr. C'est bien plus amusant d'être avec toi, et bien plus attirant. *Rire*"
+    u ""
 
-# game/v12/scene7.rpy:5392
+# game/v12/scene7.rpy:5373
 translate francais v12s7_nora1_803ae6cb:
 
     # no "Haha! You aren't wrong. *Chuckles*"
-    no "Haha ! Tu n'as pas tort.  *Rire*"
+    no ""
 
-# game/v12/scene7.rpy:5397
+# game/v12/scene7.rpy:5378
 translate francais v12s7_nora1_39cc96a4:
 
     # u "Well, now that you're smiling again, I should get back to the game. Talk later?"
-    u "Bien, maintenant que tu souris à nouveau, je devrais retourner au jeu. On se parle plus tard ?"
+    u ""
 
-# game/v12/scene7.rpy:5402
+# game/v12/scene7.rpy:5383
 translate francais v12s7_nora1_cdaeee23:
 
     # no "Yeah. And... thank you, really."
-    no "Ouais. Et... merci, vraiment."
+    no ""
 
-# game/v12/scene7.rpy:5407
+# game/v12/scene7.rpy:5388
 translate francais v12s7_nora1_1b28a406:
 
     # u "Of course."
-    u "Je t'en prie."
+    u ""
 
-# game/v12/scene7.rpy:5426
+# game/v12/scene7.rpy:5407
 translate francais v12s7_nora_kill_fda23e9a:
 
     # u "Boom."
-    u "Pan."
+    u ""
 
-# game/v12/scene7.rpy:5440
+# game/v12/scene7.rpy:5421
 translate francais v12s7_nora_kill_2f984d89:
 
     # no "I could kiss you right now."
-    no "Je pourrais t'embrasser là maintenant."
+    no ""
 
-# game/v12/scene7.rpy:5450
+# game/v12/scene7.rpy:5431
 translate francais v12s7_nora_kill_01bd23ba:
 
     # no "Thanks."
-    no "Merci."
+    no ""
 
-# game/v12/scene7.rpy:5455
+# game/v12/scene7.rpy:5436
 translate francais v12s7_nora_kill_54b7523c:
 
     # u "Haha, you're welcome."
-    u "Haha, je t'en prie."
+    u ""
 
-# game/v12/scene7.rpy:5470
+# game/v12/scene7.rpy:5451
 translate francais v12s7_nora_kill_b2ca73ba:
 
     # no "It's about damn time! Thanks [name]."
-    no "Il était temps ! Merci [name]."
+    no ""
 
-# game/v12/scene7.rpy:5475
+# game/v12/scene7.rpy:5456
 translate francais v12s7_nora_kill_899420f3:
 
     # u "Ha, no problem."
-    u "Ha, pas de problème."
+    u ""
 
-# game/v12/scene7.rpy:5500
+# game/v12/scene7.rpy:5481
 translate francais v12s7_chris1_b70224ed:
 
     # u "What are you doing?"
-    u "Qu'est-ce que tu fais ?"
+    u ""
 
-# game/v12/scene7.rpy:5512
+# game/v12/scene7.rpy:5493
 translate francais v12s7_chris1_96659a7c:
 
     # ch "I'm trying to get a signal. I heard if you put foil around your phone in direct sunlight you'll get at least a bar of service. Do you know where I can find some foil?"
-    ch "J'essaie d'avoir un signal. J'ai entendu dire que si on met du papier d'aluminium autour du téléphone en plein soleil, on obtient au moins une barre de signal. Sais-tu où je peux trouver du papier d'aluminium ?"
+    ch ""
 
-# game/v12/scene7.rpy:5521
+# game/v12/scene7.rpy:5502
 translate francais v12s7_chris1_bb22db95:
 
     # u "You need your phone that bad?"
-    u "Tu as tant besoin de ton téléphone que ça ?"
+    u ""
 
-# game/v12/scene7.rpy:5530
+# game/v12/scene7.rpy:5511
 translate francais v12s7_chris1_2e66fa8c:
 
     # ch "Yeah I do."
-    ch "Oui, bien sûr."
+    ch ""
 
-# game/v12/scene7.rpy:5539
+# game/v12/scene7.rpy:5520
 translate francais v12s7_chris1_a664f438:
 
     # u "You and Sebastian must be planning something big."
-    u "Toi et Sebastian devez préparer quelque chose de grand."
+    u ""
 
-# game/v12/scene7.rpy:5548
+# game/v12/scene7.rpy:5529
 translate francais v12s7_chris1_19e36037:
 
     # ch "It's more than just us, what's going on is a serious tradition for both frats and something that needs one hundred percent focus and respect."
-    ch "Il ne s'agit pas seulement de nous, ce qui se passe est une tradition sérieuse pour les deux fraternités et quelque chose qui nécessite une attention et un respect à 100%%."
+    ch ""
 
-# game/v12/scene7.rpy:5557
+# game/v12/scene7.rpy:5538
 translate francais v12s7_chris1_89fabfce:
 
     # u "Well man, your phone isn't going to work out here. It just won't."
-    u "Eh bien mec, ton téléphone va pas fonctionner ici. Vraiment pas."
+    u ""
 
-# game/v12/scene7.rpy:5566
+# game/v12/scene7.rpy:5547
 translate francais v12s7_chris1_af9bedb2:
 
     # ch "*Sighs*"
-    ch "*Soupirs*"
+    ch ""
 
-# game/v12/scene7.rpy:5578
+# game/v12/scene7.rpy:5559
 translate francais v12s7_chris1_4438946a:
 
     # ch "Then I guess, I might as well make up for the sleep I didn't get last night."
-    ch "Alors je pense que je pourrais aussi bien rattraper le sommeil que je n'ai pas eu la nuit dernière."
+    ch ""
 
-# game/v12/scene7.rpy:5583
+# game/v12/scene7.rpy:5564
 translate francais v12s7_chris1_301ef4e2:
 
     # u "Why didn't you get any sleep?"
-    u "Pourquoi n'as-tu pas dormi ?"
+    u ""
 
-# game/v12/scene7.rpy:5588
+# game/v12/scene7.rpy:5569
 translate francais v12s7_chris1_b6625dd3:
 
     # ch "Nora just kept wanting to argue, when I started ignoring her instead of arguing back with her she still just nagged me. So I was up all night."
-    ch "Nora n'arrêtait pas de vouloir se disputer, et quand j'ai commencé à l'ignorer au lieu de lui répondre, elle a continué à me harceler. Donc je suis resté debout toute la nuit."
+    ch ""
 
-# game/v12/scene7.rpy:5593
+# game/v12/scene7.rpy:5574
 translate francais v12s7_chris1_ffd3fd1b:
 
     # u "Wow."
-    u "Wow."
+    u ""
 
-# game/v12/scene7.rpy:5598
+# game/v12/scene7.rpy:5579
 translate francais v12s7_chris1_7b51c588:
 
     # ch "Yeah, but I don't want to talk about her or any of what's going on. I honestly don't even know what's going on."
-    ch "Oui, mais je ne veux pas parler d'elle ou de ce qui se passe. Et honnêtement, je ne sais même pas ce qui se passe."
+    ch ""
 
-# game/v12/scene7.rpy:5603
+# game/v12/scene7.rpy:5584
 translate francais v12s7_chris1_6849665a:
 
     # u "That tired huh?"
-    u "Si fatigué que ça ?"
+    u ""
 
-# game/v12/scene7.rpy:5608
+# game/v12/scene7.rpy:5589
 translate francais v12s7_chris1_b8003213:
 
     # ch "Yeah, that tired."
-    ch "Oui, très fatigué."
+    ch ""
 
-# game/v12/scene7.rpy:5613
+# game/v12/scene7.rpy:5594
 translate francais v12s7_chris1_20ce181e:
 
     # u "Well, I guess I'll let you chill then."
-    u "Eh bien, je pense que je vais te laisser te détendre alors."
+    u ""
 
-# game/v12/scene7.rpy:5618
+# game/v12/scene7.rpy:5599
 translate francais v12s7_chris1_85a7a408:
 
     # ch "Thanks."
-    ch "Merci."
+    ch ""
 
-# game/v12/scene7.rpy:5641
+# game/v12/scene7.rpy:5622
 translate francais v12s7_chris_kill_fda23e9a:
 
     # u "Boom."
-    u "Pan."
+    u ""
 
-# game/v12/scene7.rpy:5653
+# game/v12/scene7.rpy:5634
 translate francais v12s7_chris_kill_ba5a22dd:
 
     # ch "What are you doing?"
-    ch "Qu'est-ce que tu fais ?"
+    ch ""
 
-# game/v12/scene7.rpy:5662
+# game/v12/scene7.rpy:5643
 translate francais v12s7_chris_kill_a540b23b:
 
     # u "I just killed you."
-    u "Je viens de te tuer."
+    u ""
 
-# game/v12/scene7.rpy:5671
+# game/v12/scene7.rpy:5652
 translate francais v12s7_chris_kill_c0644b58:
 
     # ch "What are you talking about?"
-    ch "Qu'est-ce que tu racontes ?"
+    ch ""
 
-# game/v12/scene7.rpy:5680
+# game/v12/scene7.rpy:5661
 translate francais v12s7_chris_kill_90e00cbb:
 
     # u "The game that we're all doing, I'm the killer, I just killed you."
-    u "Le jeu que nous faisons tous, je suis le tueur, je viens de te tuer."
+    u ""
 
-# game/v12/scene7.rpy:5689
+# game/v12/scene7.rpy:5670
 translate francais v12s7_chris_kill_ae405f5b:
 
     # ch "Okay cool, I'm dead."
-    ch "Ok cool, je suis mort."
+    ch ""
 
-# game/v12/scene7.rpy:5698
+# game/v12/scene7.rpy:5679
 translate francais v12s7_chris_kill_5b876e7b:
 
     # u "*Chuckles* Bro, you gotta go sit in the hallway."
-    u "*Rire* Mec, tu dois aller t'asseoir dans le couloir."
+    u ""
 
-# game/v12/scene7.rpy:5707
+# game/v12/scene7.rpy:5688
 translate francais v12s7_chris_kill_7c3f6ccd:
 
     # ch "I'm really not tryna move."
-    ch "Je ne peux vraiment pas bouger."
+    ch ""
 
-# game/v12/scene7.rpy:5716
+# game/v12/scene7.rpy:5697
 translate francais v12s7_chris_kill_ee5b58c8:
 
     # u "Those are the rules."
-    u "Ce sont les règles."
+    u ""
 
-# game/v12/scene7.rpy:5725
+# game/v12/scene7.rpy:5706
 translate francais v12s7_chris_kill_af9bedb2:
 
     # ch "*Sighs*"
-    ch "*Soupirs*"
+    ch ""
 
-# game/v12/scene7.rpy:5730
+# game/v12/scene7.rpy:5711
 translate francais v12s7_chris_kill_8b9e73a7:
 
     # u "(He's having a hard time.)"
-    u "(Il passe un mauvais moment.)"
+    u ""
 
-# game/v12/scene7.rpy:5743
+# game/v12/scene7.rpy:5724
 translate francais v12s7_mrlee_adc31af4:
 
     # u "Hello there, you fan of boxing? If so, did you catch my last fight?"
-    u "Bonjour, vous êtes fan de boxe ? Si oui, avez-vous vu mon dernier combat ?"
+    u ""
 
-# game/v12/scene7.rpy:5751
+# game/v12/scene7.rpy:5732
 translate francais v12s7_mrlee_6ed5384b:
 
     # lee "You can't talk to the Gamemaster."
-    lee "Vous ne pouvez pas parler au maître du jeu."
+    lee ""
 
-# game/v12/scene7.rpy:5756
+# game/v12/scene7.rpy:5737
 translate francais v12s7_mrlee_0e503e1b:
 
     # u "Who's that?"
-    u "Qui ça ?"
+    u ""
 
-# game/v12/scene7.rpy:5761
+# game/v12/scene7.rpy:5742
 translate francais v12s7_mrlee_552e0a85:
 
     # lee "What? Me, obviously."
-    lee "Quoi ? Moi, évidemment."
+    lee ""
 
-# game/v12/scene7.rpy:5766
+# game/v12/scene7.rpy:5747
 translate francais v12s7_mrlee_019a75bc:
 
     # u "Haha, I know, just teasing."
-    u "Haha, je sais, je vous taquinais."
+    u ""
 
-# game/v12/scene7.rpy:5792
+# game/v12/scene7.rpy:5773
 translate francais v12s7_josh1_5708ba48:
 
     # u "What are you supposed to be?"
-    u "Qu'êtes-vous censé être ?"
+    u ""
 
-# game/v12/scene7.rpy:5800
+# game/v12/scene7.rpy:5781
 translate francais v12s7_josh1_27c0ac00:
 
     # jo "Boy, watch your tone when you talk to me, don't you know who you're talking to?"
-    jo "Mon garçon, surveillez votre ton quand vous me parlez, ne savez-vous pas à qui vous parlez ?"
+    jo ""
 
-# game/v12/scene7.rpy:5805
+# game/v12/scene7.rpy:5786
 translate francais v12s7_josh1_82bf050f:
 
     # u "*Chuckles* No I don't, that's why I just asked."
-    u "*Rire* Non, je sais pas, c'est pourquoi je viens de demander."
+    u ""
 
-# game/v12/scene7.rpy:5810
+# game/v12/scene7.rpy:5791
 translate francais v12s7_josh1_d349acae:
 
     # jo "Boy, you're talking to the one and only Leopard Lord."
-    jo "Mon garçon, vous parlez au seul et unique Seigneur Léopard."
+    jo ""
 
-# game/v12/scene7.rpy:5815
+# game/v12/scene7.rpy:5796
 translate francais v12s7_josh1_39ac27dd:
 
     # u "What exactly is a Leopard Lord?"
-    u "Qu'est-ce qu'un seigneur léopard ?"
+    u ""
 
-# game/v12/scene7.rpy:5820
+# game/v12/scene7.rpy:5801
 translate francais v12s7_josh1_d94cbe41:
 
     # jo "It's this kind of disrespect that the bitch Racheal Cracken almost got killed for. We all know she killed her man, probably fed him to the Leopards. Distasteful."
-    jo "C'est pour ce genre de manque de respect que la salope Racheal Cracken a failli être tuée. Nous savons tous qu'elle a tué son homme, et l'a certainement donné à manger aux Léopards. C'est de mauvais goût."
+    jo ""
 
-# game/v12/scene7.rpy:5825
+# game/v12/scene7.rpy:5806
 translate francais v12s7_josh1_4478882a:
 
     # u "Killing her husband or feeding him to the leopards?"
-    u "Tuer son mari ou le donner à manger aux léopards ?"
+    u ""
 
-# game/v12/scene7.rpy:5830
+# game/v12/scene7.rpy:5811
 translate francais v12s7_josh1_beb74d52:
 
     # jo "No one cared about that wrinkly old man, it's a shame the leopards had to eat his crusty ass."
-    jo "Personne ne se souciait de ce vieux type ridé, c'est une honte que les léopards aient dû manger son vieux cul."
+    jo ""
 
-# game/v12/scene7.rpy:5839
+# game/v12/scene7.rpy:5820
 translate francais v12s7_josh1_c7f6f5c7:
 
     # u "*Laughs* You really care about your cats, huh?"
-    u "*Rire* Vous aimez vraiment vos chats, hein ?"
+    u ""
 
-# game/v12/scene7.rpy:5844
+# game/v12/scene7.rpy:5825
 translate francais v12s7_josh1_5aae522c:
 
     # jo "Cats? CATS!!? Don't disrespect them like that! They are the pinnacle of all felines. The leopard is a dignified creature handcrafted by God. Also... *Whispers* Don't fucking laugh at me."
-    jo "Chats ? CHATS !? Ne leur manquez pas de respect comme ça ! Ils sont le summum de tous les félins. Le léopard est une créature digne créée par Dieu. Aussi... *Chuchote* Ne te moque pas de moi."
+    jo ""
 
-# game/v12/scene7.rpy:5849
+# game/v12/scene7.rpy:5830
 translate francais v12s7_josh1_8903e7ae:
 
     # u "*Laughs* Have you seen yourself?"
-    u "*Rire* Tu t'es vu ?"
+    u ""
 
-# game/v12/scene7.rpy:5856
+# game/v12/scene7.rpy:5837
 translate francais v12s7_josh1_d4766f09:
 
     # u "Josh, you're definitely doing the best acting job out of everyone here. *Chuckles*"
-    u "Josh, tu es certainement le meilleur acteur de tous ici. *Rire*"
+    u ""
 
-# game/v12/scene7.rpy:5861
+# game/v12/scene7.rpy:5842
 translate francais v12s7_josh1_60a26d32:
 
     # jo "Don't disrespect me, you will address me correctly. I am the Leopard Lord."
-    jo "Ne me manquez pas de respect, adressez-vous à moi correctement. Je suis le Seigneur Léopard."
+    jo ""
 
-# game/v12/scene7.rpy:5866
+# game/v12/scene7.rpy:5847
 translate francais v12s7_josh1_1db979da:
 
     # u "Getting pretty deep into this, huh?"
-    u "C'est assez profond, hein ?"
+    u ""
 
-# game/v12/scene7.rpy:5871
+# game/v12/scene7.rpy:5852
 translate francais v12s7_josh1_47abc3e7:
 
     # jo "Look, I have no idea what you're talking about, but once we arrive in Paris I'd be happy to take you to my Paris zoo location if you'd like to meet my Leopards."
-    jo "Ecoutez, je n'ai aucune idée de ce dont vous parlez, mais une fois que nous serons à Paris, je serai heureux de vous emmener au zoo de Paris si vous voulez rencontrer mes Léopards."
+    jo ""
 
-# game/v12/scene7.rpy:5876
+# game/v12/scene7.rpy:5857
 translate francais v12s7_josh1_fe428c13:
 
     # u "Umm yeah... I'll keep that in mind."
-    u "Umm ouais... Je vais garder ça en tête."
+    u ""
 
-# game/v12/scene7.rpy:5881
+# game/v12/scene7.rpy:5862
 translate francais v12s7_josh1_8a005d06:
 
     # jo "You do that, there is no greater sight than that of the mighty leopard."
-    jo "Si vous faites ça, vous verrez qu'il n'y a pas de plus beau spectacle que celui du puissant léopard."
+    jo ""
 
-# game/v12/scene7.rpy:5886
+# game/v12/scene7.rpy:5867
 translate francais v12s7_josh1_dd2bda06:
 
     # u "Okayyy..."
-    u "Okayyy..."
+    u ""
 
-# game/v12/scene7.rpy:5907
+# game/v12/scene7.rpy:5888
 translate francais v12s7_josh2_24bf40f7:
 
     # jo "Hey you there mister?"
-    jo "Hé, vous êtes là, monsieur ?"
+    jo ""
 
-# game/v12/scene7.rpy:5924
+# game/v12/scene7.rpy:5905
 translate francais v12s7_josh2_7cbc76d9:
 
     # u "Yes?"
-    u "Oui ?"
+    u ""
 
-# game/v12/scene7.rpy:5933
+# game/v12/scene7.rpy:5914
 translate francais v12s7_josh2_5cefa357:
 
     # jo "I have a little proposition."
-    jo "J'ai une petite proposition."
+    jo ""
 
-# game/v12/scene7.rpy:5942
+# game/v12/scene7.rpy:5923
 translate francais v12s7_josh2_2689d93b:
 
     # u "What is that?"
-    u "Qu'est-ce que c'est ?"
+    u ""
 
-# game/v12/scene7.rpy:5951
+# game/v12/scene7.rpy:5932
 translate francais v12s7_josh2_ad9603db:
 
     # jo "How'd you like to own your very own leopard?"
-    jo "Aimeriez-vous posséder votre propre léopard ?"
+    jo ""
 
-# game/v12/scene7.rpy:5960
+# game/v12/scene7.rpy:5941
 translate francais v12s7_josh2_d112d716:
 
     # u "It's not something I've thought about."
-    u "Ce n'est pas quelque chose à laquelle j'ai pensé."
+    u ""
 
-# game/v12/scene7.rpy:5969
+# game/v12/scene7.rpy:5950
 translate francais v12s7_josh2_e039e921:
 
     # jo "Well now's the time to start thinking. I have a magnificent baby boy leopard that needs the care of an individual home."
-    jo "Eh bien, c'est le moment de commencer à y réfléchir. J'ai un magnifique bébé léopard qui a besoin des soins d'un foyer personnel."
+    jo ""
 
-# game/v12/scene7.rpy:5978
+# game/v12/scene7.rpy:5959
 translate francais v12s7_josh2_acb55547:
 
     # u "Why can't he be with the rest?"
-    u "Pourquoi peut-il pas être avec les autres ?"
+    u ""
 
-# game/v12/scene7.rpy:5987
+# game/v12/scene7.rpy:5968
 translate francais v12s7_josh2_1099ff46:
 
     # jo "Well you see, he was bullied by the nearby monkeys and they ripped off his tail."
-    jo "Il a été malmené par les singes voisins qui lui ont arraché la queue."
+    jo ""
 
-# game/v12/scene7.rpy:5996
+# game/v12/scene7.rpy:5977
 translate francais v12s7_josh2_00556904:
 
     # u "*Laughs* They ripped off your baby leopard's tail?"
-    u "*Rire* Ils ont arraché la queue de votre bébé léopard ?"
+    u ""
 
-# game/v12/scene7.rpy:6005
+# game/v12/scene7.rpy:5986
 translate francais v12s7_josh2_357e1648:
 
     # jo "This ain't no laughing matter boy, the future king of leopard land is without a tail and this is how you behave. Shame on you, shame!"
-    jo "Il n'y a pas de quoi rire, le futur roi du pays des léopards est sans queue et c'est ainsi que vous vous comportez. Honte à vous, honte !"
+    jo ""
 
-# game/v12/scene7.rpy:6014
+# game/v12/scene7.rpy:5995
 translate francais v12s7_josh2_f452e184:
 
     # u "I didn't know it was that serious, sorry dude."
-    u "Je savais pas que c'était si grave, désolé mec."
+    u ""
 
-# game/v12/scene7.rpy:6023
+# game/v12/scene7.rpy:6004
 translate francais v12s7_josh2_8c640a70:
 
     # jo "You didn't know it was... who even are you? You are not the man I thought you to be. There's no way I'd dare let you care for the king of the land."
-    jo "Vous ne saviez pas que c'était... Qui êtes-vous ? Vous n'êtes pas l'homme que je pensais que vous étiez. Il n'y a aucune chance que j'ose vous laisser vous occuper du roi du pays."
+    jo ""
 
-# game/v12/scene7.rpy:6032
+# game/v12/scene7.rpy:6013
 translate francais v12s7_josh2_90be1788:
 
     # u "Oh wow, that sucks... I really wanted to."
-    u "Oh wow, ça craint... Je voulais vraiment l'avoir."
+    u ""
 
-# game/v12/scene7.rpy:6041
+# game/v12/scene7.rpy:6022
 translate francais v12s7_josh2_567a56f8:
 
     # jo "Should've thought about that before you landed your insults. Good day sir."
-    jo "Vous auriez dû y penser avant de lancer vos insultes. Bonne journée, monsieur."
+    jo ""
 
-# game/v12/scene7.rpy:6070
+# game/v12/scene7.rpy:6051
 translate francais v12s7_josh_kill_704101bb:
 
     # jo "What? No, please don't kill me yet. I was having a lot of fun."
-    jo "Quoi ? Non, s'il te plaît, ne me tue pas déjà. Je m'amusais beaucoup."
+    jo ""
 
-# game/v12/scene7.rpy:6079
+# game/v12/scene7.rpy:6060
 translate francais v12s7_josh_kill_23a2d942:
 
     # u "Too much fun."
-    u "Trop d'amusement."
+    u ""
 
-# game/v12/scene7.rpy:6088
+# game/v12/scene7.rpy:6069
 translate francais v12s7_josh_kill_57474d13:
 
     # jo "I don't want to stop acting like Leopard Lord."
-    jo "Je ne veux pas arrêter d'agir comme le Seigneur Léopard."
+    jo ""
 
-# game/v12/scene7.rpy:6097
+# game/v12/scene7.rpy:6078
 translate francais v12s7_josh_kill_1fb18b13:
 
     # u "Don't then, but act like him as a corpse in the hallway."
-    u "N'arrête pas alors, mais agis comme lui en tant que zombie dans le couloir."
+    u ""
 
-# game/v12/scene7.rpy:6106
+# game/v12/scene7.rpy:6087
 translate francais v12s7_josh_kill_4be7f95f:
 
     # jo "*Sighs* Sounds like a plan."
-    jo "*Soupirs* C'est un bon plan."
+    jo ""
 
-# game/v12/scene7.rpy:6111
+# game/v12/scene7.rpy:6092
 translate francais v12s7_josh_kill_814b5e95:
 
     # u "(Freaking goofball.)"
-    u "(Putain de gaffeur.)"
+    u ""
 
-# game/v12/scene7.rpy:6127
+# game/v12/scene7.rpy:6108
 translate francais v12s7_emily1_c224e1f2:
 
     # em "Hmmm, I can see it, when alone and solely alone the passengers will be swept away from the life they've always know."
-    em "Hmmm, je peux le voir, quand ils seront seuls et uniquement seuls, les passagers seront emportés loin de la vie qu'ils ont toujours connue."
+    em ""
 
-# game/v12/scene7.rpy:6140
+# game/v12/scene7.rpy:6121
 translate francais v12s7_emily1_d573bead:
 
     # u "Talking to yourself?"
-    u "Vous vous parlez à vous-même ?"
+    u ""
 
-# game/v12/scene7.rpy:6145
+# game/v12/scene7.rpy:6126
 translate francais v12s7_emily1_106b8351:
 
     # em "I'm a psychic, I'm enjoying relaxing while talking to myself, NOT being bothered."
-    em "Je suis une médium, j'aime me détendre en me parlant à moi-même, sans être dérangée."
+    em ""
 
-# game/v12/scene7.rpy:6150
+# game/v12/scene7.rpy:6131
 translate francais v12s7_emily1_43b212fb:
 
     # u "I got stuck as the boxer."
-    u "Je reste coincé dans le rôle du boxeur."
+    u ""
 
-# game/v12/scene7.rpy:6155
+# game/v12/scene7.rpy:6136
 translate francais v12s7_emily1_a53bbe02:
 
     # em "I don't really care, but I just got a pretty clear vision of you walking away."
-    em "Je m'en fiche, mais je viens d'avoir une vision assez claire de vous en train de partir."
+    em ""
 
-# game/v12/scene7.rpy:6160
+# game/v12/scene7.rpy:6141
 translate francais v12s7_emily1_6f17c432:
 
     # u "I can take a hint."
-    u "Je peux accepter une suggestion."
+    u ""
 
-# game/v12/scene7.rpy:6165
+# game/v12/scene7.rpy:6146
 translate francais v12s7_emily1_c8e64612:
 
     # em "Good."
-    em "Bien."
+    em ""
 
-# game/v12/scene7.rpy:6181
+# game/v12/scene7.rpy:6162
 translate francais v12s7_emily2_8686e81c:
 
     # u "Hey."
-    u "Hey."
+    u ""
 
-# game/v12/scene7.rpy:6189
+# game/v12/scene7.rpy:6170
 translate francais v12s7_emily2_9fd2357e:
 
     # em "Oh my gosh, can you stop using the game as an excuse to talk to me?"
-    em "Oh merde, tu peux arrêter d'utiliser le jeu comme excuse pour me parler ?"
+    em ""
 
-# game/v12/scene7.rpy:6194
+# game/v12/scene7.rpy:6175
 translate francais v12s7_emily2_07dc06c4:
 
     # u "I'm just trying to... *Sighs* Nevermind."
-    u "J'essaie juste de... *Soupirs* Tant pis."
+    u ""
 
-# game/v12/scene7.rpy:6208
+# game/v12/scene7.rpy:6189
 translate francais v12s7_emily_kill_fda23e9a:
 
     # u "Boom."
-    u "Pan."
+    u ""
 
-# game/v12/scene7.rpy:6216
+# game/v12/scene7.rpy:6197
 translate francais v12s7_emily_kill_f34732a8:
 
     # em "Cool, I'm dead."
-    em "Cool, je suis morte."
+    em ""
 
-# game/v12/scene7.rpy:6238
+# game/v12/scene7.rpy:6219
 translate francais v12s7_mc_caught_e22644c1:
 
     # unknown "I found the murderer!"
-    unknown "J'ai trouvé le meurtrier !"
+    unknown ""
 
 translate francais strings:
 
-    # game/v12/scene7.rpy:457
+    # game/v12/scene7.rpy:455
     old "Major fight"
-    new "Combats majeurs"
+    new ""
 
-    # game/v12/scene7.rpy:457
+    # game/v12/scene7.rpy:455
     old "Light work"
-    new "Combats légers"
+    new ""
 
-    # game/v12/scene7.rpy:550
+    # game/v12/scene7.rpy:548
     old "It does hurt pretty bad"
-    new "Ça fait vraiment mal"
+    new ""
 
-    # game/v12/scene7.rpy:550
+    # game/v12/scene7.rpy:548
     old "Didn't even feel it"
-    new "Je ne l'ai même pas senti"
+    new ""
 
-    # game/v12/scene7.rpy:670
+    # game/v12/scene7.rpy:665
     old "Kill her"
-    new "Tuez-la"
+    new ""
 
-    # game/v12/scene7.rpy:910
+    # game/v12/scene7.rpy:903
     old "I'm poor"
-    new "Je suis pauvre"
+    new ""
 
-    # game/v12/scene7.rpy:910
+    # game/v12/scene7.rpy:903
     old "I'm rich"
-    new "Je suis riche"
+    new ""
 
-    # game/v12/scene7.rpy:1019
+    # game/v12/scene7.rpy:1012
     old "Make Riley leave"
-    new "Faire partir Riley"
+    new ""
 
-    # game/v12/scene7.rpy:1168
+    # game/v12/scene7.rpy:1159
     old "Plan for it"
-    new "Planifiez-le"
+    new ""
 
-    # game/v12/scene7.rpy:1168
+    # game/v12/scene7.rpy:1159
     old "Enjoy Europe"
-    new "Profitez de l'Europe"
+    new ""
 
-    # game/v12/scene7.rpy:1621
+    # game/v12/scene7.rpy:1610
     old "You"
-    new "Vous"
+    new ""
 
-    # game/v12/scene7.rpy:2147
+    # game/v12/scene7.rpy:2136
     old "Tease Imre"
-    new "Taquiner Imre"
+    new ""
 
-    # game/v12/scene7.rpy:2147
+    # game/v12/scene7.rpy:2136
     old "Tell Ryan to cool it"
-    new "Dites à Ryan de se calmer"
+    new ""
 
-    # game/v12/scene7.rpy:2807
+    # game/v12/scene7.rpy:2796
     old "Ryan is suspicious"
-    new "Ryan est suspect"
+    new ""
 
-    # game/v12/scene7.rpy:2807
+    # game/v12/scene7.rpy:2796
     old "No, nothing"
-    new "Non, rien"
+    new ""
 
-    # game/v12/scene7.rpy:2856
+    # game/v12/scene7.rpy:2845
     old "Smarter to stay here"
-    new "Il est plus intelligent de rester ici"
+    new ""
 
-    # game/v12/scene7.rpy:2856
+    # game/v12/scene7.rpy:2845
     old "More investigators"
-    new "Plus d'enquêteurs"
+    new ""
 
-    # game/v12/scene7.rpy:3033
+    # game/v12/scene7.rpy:3019
     old "Charli"
-    new "Charli"
+    new ""
 
-    # game/v12/scene7.rpy:3452
+    # game/v12/scene7.rpy:3440
     old "Who wouldn't be"
-    new "Qui ne le serait pas"
+    new ""
 
-    # game/v12/scene7.rpy:3629
+    # game/v12/scene7.rpy:3615
     old "Let her work"
-    new "Laissez-la travailler"
+    new ""
 
-    # game/v12/scene7.rpy:3629
+    # game/v12/scene7.rpy:3615
     old "Help her out"
-    new "Aidez-la"
+    new ""
 
-    # game/v12/scene7.rpy:3709
+    # game/v12/scene7.rpy:3695
     old "John Paris"
-    new "John Paris"
+    new ""
 
-    # game/v12/scene7.rpy:3709
+    # game/v12/scene7.rpy:3695
     old "Chase Lysol"
-    new "Chase Lysol"
+    new ""
 
-    # game/v12/scene7.rpy:4542
+    # game/v12/scene7.rpy:4523
     old "Don't laugh"
-    new "Ne pas rire"
+    new ""
 
-    # game/v12/scene7.rpy:4703
+    # game/v12/scene7.rpy:4684
     old "Focus on the game"
-    new "Se concentrer sur le jeu"
+    new ""
 
-    # game/v12/scene7.rpy:4703
+    # game/v12/scene7.rpy:4684
     old "Go for the kiss"
-    new "Cherchez le baiser"
+    new ""
 
-    # game/v12/scene7.rpy:5193
+    # game/v12/scene7.rpy:5174
     old "See you later"
-    new "À plus tard"
+    new ""
 
-    # game/v12/scene7.rpy:5193
+    # game/v12/scene7.rpy:5174
     old "Want some company?"
-    new "Tu veux un peu de compagnie ?"
+    new ""
 
-    # game/v12/scene7.rpy:5243
+    # game/v12/scene7.rpy:5224
     old "Chris cares about you"
-    new "Chris se soucie de toi"
+    new ""
 
-    # game/v12/scene7.rpy:5243
+    # game/v12/scene7.rpy:5224
     old "Of course I care"
-    new "Bien sûr que je m'en soucie"
+    new ""
 
-    # game/v12/scene7.rpy:5314
+    # game/v12/scene7.rpy:5295
     old "Sounds like you're dumping him"
-    new "On dirait que tu vas le larguer"
+    new ""
 
-    # game/v12/scene7.rpy:5314
+    # game/v12/scene7.rpy:5295
     old "I'd choose you"
-    new "Je te choisirais"
+    new ""
 
-    # game/v12/scene7.rpy:5832
+    # game/v12/scene7.rpy:5813
     old "Really care about cats, huh?"
-    new "Tu t'intéresses vraiment aux chats, hein ?"
+    new ""
 
-    # game/v12/scene7.rpy:5832
+    # game/v12/scene7.rpy:5813
     old "You're the best actor here"
-    new "Tu es le meilleur acteur ici."
+    new ""
+

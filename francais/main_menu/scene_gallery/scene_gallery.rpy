@@ -1,174 +1,172 @@
+﻿# TODO: Translation updated at 2022-08-22 08:06
 
 translate francais strings:
 
-    # game/scene_gallery.rpy:26
+    # game/main_menu/scene_gallery/scene_gallery.rpy:175
+    old "What's your name?"
+    new ""
+
+    # game/main_menu/scene_gallery/scene_gallery.rpy:175
+    old "Alex"
+    new ""
+
+# TODO: Translation updated at 2022-08-22 08:59
+
+translate francais strings:
+
+    # game/main_menu/scene_gallery/scene_gallery.rpy:31
     old "Dreaming of Riley"
-    new "En rêvant de Riley"
+    new ""
 
-    # game/scene_gallery.rpy:30
+    # game/main_menu/scene_gallery/scene_gallery.rpy:35
     old "Fight with Tom"
-    new "Combat contre Tom"
+    new ""
 
-    # game/scene_gallery.rpy:34
+    # game/main_menu/scene_gallery/scene_gallery.rpy:39
     old "First time with Aubrey"
-    new "Première fois avec Aubrey"
+    new ""
 
-    # game/scene_gallery.rpy:38
+    # game/main_menu/scene_gallery/scene_gallery.rpy:43
     old "Fight with Adam"
-    new "Combat contre Adam"
+    new ""
 
-    # game/scene_gallery.rpy:42
+    # game/main_menu/scene_gallery/scene_gallery.rpy:47
     old "Taking back Emily"
-    new "Revenir avec Emily"
+    new ""
 
-    # game/scene_gallery.rpy:43
+    # game/main_menu/scene_gallery/scene_gallery.rpy:48
     old "Fun with Aubrey"
-    new "S'amuser avec Aubrey"
+    new ""
 
-    # game/scene_gallery.rpy:47
+    # game/main_menu/scene_gallery/scene_gallery.rpy:52
     old "First time with Riley"
-    new "Première fois avec Riley"
+    new ""
 
-    # game/scene_gallery.rpy:48
+    # game/main_menu/scene_gallery/scene_gallery.rpy:53
     old "Sneaking to the stall"
-    new "Fureter dans la cabine"
+    new ""
 
-    # game/scene_gallery.rpy:52
+    # game/main_menu/scene_gallery/scene_gallery.rpy:57
     old "Homecoming Amber"
-    new "Homecoming avec Amber"
+    new ""
 
-    # game/scene_gallery.rpy:53
+    # game/main_menu/scene_gallery/scene_gallery.rpy:58
     old "Homecoming Chloe"
-    new "Homecoming avec Chloé"
+    new ""
 
-    # game/scene_gallery.rpy:54
+    # game/main_menu/scene_gallery/scene_gallery.rpy:59
     old "Homecoming Riley"
-    new "Homecoming avec Riley"
+    new ""
 
-    # game/scene_gallery.rpy:55
+    # game/main_menu/scene_gallery/scene_gallery.rpy:60
     old "Fight with Lars"
-    new "Combat contre Lars"
+    new ""
 
-    # game/scene_gallery.rpy:56
+    # game/main_menu/scene_gallery/scene_gallery.rpy:61
     old "With Amber at Josh's"
-    new "Avec Amber chez Josh"
+    new ""
 
-    # game/scene_gallery.rpy:60
+    # game/main_menu/scene_gallery/scene_gallery.rpy:65
     old "Lake w/ Aubrey"
-    new "Au lac avec Aubrey"
+    new ""
 
-    # game/scene_gallery.rpy:61
+    # game/main_menu/scene_gallery/scene_gallery.rpy:66
     old "Emily sex scene"
-    new "Scène de sexe avec Emily"
+    new ""
 
-    # game/scene_gallery.rpy:62
+    # game/main_menu/scene_gallery/scene_gallery.rpy:67
     old "Riley sex scene"
-    new "Scène de sexe avec Riley"
+    new ""
 
-    # game/scene_gallery.rpy:63
-    old "Make out with Lindsey "
-    new "Embrasser Lindsey"
-
-    # game/scene_gallery.rpy:67
+    # game/main_menu/scene_gallery/scene_gallery.rpy:72
     old "Ryan Fight"
-    new "Combat contre Ryan"
+    new ""
 
-    # game/scene_gallery.rpy:68
+    # game/main_menu/scene_gallery/scene_gallery.rpy:73
     old "Imre Fight"
-    new "Combat contre Imre"
+    new ""
 
-    # game/scene_gallery.rpy:69
+    # game/main_menu/scene_gallery/scene_gallery.rpy:74
     old "More with Aubrey"
-    new "Encore plus avec Aubrey"
+    new ""
 
-    # game/scene_gallery.rpy:70
+    # game/main_menu/scene_gallery/scene_gallery.rpy:75
     old "Make out with Lauren"
-    new "Embrasser Lauren"
+    new ""
 
-    # game/scene_gallery.rpy:71
+    # game/main_menu/scene_gallery/scene_gallery.rpy:76
     old "Amber Skatepark Sex"
-    new "Sexe au Skatepark avec Amber"
+    new ""
 
-    # game/scene_gallery.rpy:72
+    # game/main_menu/scene_gallery/scene_gallery.rpy:77
     old "Changing with Chloe"
-    new "Changer avec Chloe"
+    new ""
 
-    # game/scene_gallery.rpy:73
+    # game/main_menu/scene_gallery/scene_gallery.rpy:78
     old "More with Riley"
-    new "Encore plus avec Riley"
+    new ""
 
-    # game/scene_gallery.rpy:77
+    # game/main_menu/scene_gallery/scene_gallery.rpy:82
     old "First time with Candy"
-    new "Première fois avec Candy"
+    new ""
 
-    # game/scene_gallery.rpy:78
+    # game/main_menu/scene_gallery/scene_gallery.rpy:83
     old "Airplane with Aubrey"
-    new "Dans l'avion avec Aubrey"
+    new ""
 
-    # game/scene_gallery.rpy:79
+    # game/main_menu/scene_gallery/scene_gallery.rpy:84
     old "First time w/ Ms. Rose"
-    new "Première fois avec Mme Rose"
+    new ""
 
-    # game/scene_gallery.rpy:80
+    # game/main_menu/scene_gallery/scene_gallery.rpy:85
     old "Spa with Samantha"
-    new "Au Spa avec Samantha"
+    new ""
 
-    # game/scene_gallery.rpy:81
+    # game/main_menu/scene_gallery/scene_gallery.rpy:86
     old "In London with Riley"
-    new "À Londres avec Riley"
+    new ""
 
-    # game/scene_gallery.rpy:82
+    # game/main_menu/scene_gallery/scene_gallery.rpy:87
     old "In London with Chloe"
-    new "À Londres avec Chloé"
+    new ""
 
-    # game/scene_gallery.rpy:86
+    # game/main_menu/scene_gallery/scene_gallery.rpy:91
     old "Locked up with Lindsey"
-    new "Prisonnier avec Lindsey"
+    new ""
 
-    # game/scene_gallery.rpy:87
+    # game/main_menu/scene_gallery/scene_gallery.rpy:92
     old "In Paris with Ms. Rose"
-    new "À Paris avec Mme Rose"
+    new ""
 
-    # game/scene_gallery.rpy:88
+    # game/main_menu/scene_gallery/scene_gallery.rpy:93
     old "First time with Lauren"
-    new "Première fois avec Lauren"
+    new ""
 
-    # game/scene_gallery.rpy:89
+    # game/main_menu/scene_gallery/scene_gallery.rpy:94
     old "First time with Nora"
-    new "Première fois avec Nora"
+    new ""
 
-    # game/scene_gallery.rpy:93
+    # game/main_menu/scene_gallery/scene_gallery.rpy:98
     old "Late night with Riley"
-    new "Soirée tardive avec Riley"
+    new ""
 
-    # game/scene_gallery.rpy:94
+    # game/main_menu/scene_gallery/scene_gallery.rpy:99
     old "Fun with Emmy"
-    new "S'amuser avec Emmy"
+    new ""
 
-    # game/scene_gallery.rpy:95
+    # game/main_menu/scene_gallery/scene_gallery.rpy:100
     old "Wild with Chloe"
-    new "Être sauvage avec Chloé"
+    new ""
 
-    # game/scene_gallery.rpy:96
+    # game/main_menu/scene_gallery/scene_gallery.rpy:101
     old "Angry at Emily"
-    new "En colère contre Emily"
+    new ""
 
-    # game/scene_gallery.rpy:100
+    # game/main_menu/scene_gallery/scene_gallery.rpy:105
     old "Why not both?"
-    new "Pourquoi pas les deux ?"
+    new ""
 
-    # game/scene_gallery.rpy:101
+    # game/main_menu/scene_gallery/scene_gallery.rpy:106
     old "Satin-ly pleased"
-    new "Satiné et heureux"
+    new ""
 
-    # game/scene_gallery.rpy:106
-    old "scene_gallery"
-    new "Galerie_de_scènes"
-
-    # game/scene_gallery.rpy:170
-    old " What's your name? "
-    new "Quel est ton nom ?"
-
-    # game/scene_gallery.rpy:172
-    old "name"
-    new "nom"

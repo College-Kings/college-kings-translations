@@ -1,373 +1,374 @@
-﻿# TODO: Translation updated at 2022-01-08 11:57
+﻿# TODO: Translation updated at 2022-08-22 08:06
 
 # game/v13/scene56.rpy:22
 translate francais v13s56_24411a4a:
 
     # u "Finding a gift at a gift shop should be easy, right?"
-    u "Trouver un cadeau dans une boutique de cadeaux devrait être facile, non ?"
+    u ""
 
 # game/v13/scene56.rpy:27
 translate francais v13s56_ecf10761:
 
     # no "It better be. *Chuckles* I don't have all day."
-    no "Il y a intérêt. *Rire* Je n'ai pas toute la journée."
+    no ""
 
 # game/v13/scene56.rpy:32
 translate francais v13s56_c8a157e8:
 
     # u "*Laughs* Do you have other plans?"
-    u "*Rire* Tu as d'autres projets ?"
+    u ""
 
 # game/v13/scene56.rpy:37
 translate francais v13s56_b6677e80:
 
     # no "Well, no, but I don't wanna be out here shopping all day."
-    no "Eh bien, non, mais je ne veux pas être ici à faire du shopping toute la journée."
+    no ""
 
 # game/v13/scene56.rpy:42
 translate francais v13s56_7dababb0:
 
     # u "I definitely feel that. *Chuckles*"
-    u "Je comprends tellement ça... *Rire*"
+    u ""
 
 # game/v13/scene56.rpy:48
 translate francais v13s56_d6a1aa1d:
 
     # u "I'll have to get you a gift someday."
-    u "Il faudra que je te fasse un cadeau un jour."
+    u ""
 
 # game/v13/scene56.rpy:53
 translate francais v13s56_0f4236ec:
 
     # no "*Chuckles* Why?"
-    no "*Rire* Pourquoi ?"
+    no ""
 
 # game/v13/scene56.rpy:58
 translate francais v13s56_db412ece:
 
     # u "After the gift you gave me the other night, I need to return the favor."
-    u "Après le cadeau que tu m'as fait l'autre soir, je dois te rendre la pareille."
+    u ""
 
 # game/v13/scene56.rpy:63
 translate francais v13s56_ad570dad:
 
     # no "Oh my god... Don't bring that up... In public."
-    no "Oh chuuuut... Ne dis pas ça... en public."
+    no ""
 
 # game/v13/scene56.rpy:68
 translate francais v13s56_8569c4fa:
 
     # u "*Chuckles*"
-    u "*Rire*"
+    u ""
 
 # game/v13/scene56.rpy:73
 translate francais v13s56_ed047625:
 
     # no "So, what are we getting them?"
-    no "Alors, qu'est-ce qu'on leur offre ?"
+    no ""
 
 # game/v13/scene56.rpy:78
 translate francais v13s56_59760249:
 
     # u "What? I thought you'd at least have an idea. You are the one that came up with this idea. I'm just the piggy bank."
-    u "Quoi ? Je pensais que tu aurais au moins une idée. C'est toi qui as proposé ça. Je suis juste la tirelire."
+    u ""
 
 # game/v13/scene56.rpy:83
 translate francais v13s56_11084e89:
 
     # no "Lorraine likes basic lady stuff and Mr. Lee is all about weird history things, so keep those things in mind."
-    no "Lorraine aime les trucs féminins de base et Mr Lee aime les trucs historiques bizarres, alors pense à ça."
+    no ""
 
 # game/v13/scene56.rpy:98
 translate francais v13s56_59027008:
 
     # no "Hmm, these are actually kinda nice..."
-    no "Hmm, ceux-ci sont en fait plutôt sympas..."
+    no ""
 
 # game/v13/scene56.rpy:109
 translate francais v13s56_81cd3861:
 
     # u "Oh, my bad."
-    u "Oh, pardon."
+    u ""
 
 # game/v13/scene56.rpy:124
 translate francais v13s56_dac155f5:
 
     # no "All that space and you had to bump into me?"
-    no "Il a fallu que tu me rentres dedans avec tout cet espace ?"
+    no ""
 
 # game/v13/scene56.rpy:129
 translate francais v13s56_86254df5:
 
     # u "I said my bad. *Chuckles*"
-    u "Je me suis excusé. *Rire*"
+    u ""
 
-# game/v13/scene56.rpy:136
+# game/v13/scene56.rpy:135
 translate francais v13s56_2a014f25:
 
     # no "Yeah... I heard you."
-    no "Oui... Je t'ai entendu."
+    no ""
 
-# game/v13/scene56.rpy:142
+# game/v13/scene56.rpy:141
 translate francais v13s56_2a014f25_1:
 
     # no "Yeah... I heard you."
-    no "Oui... Je t'ai entendu."
+    no ""
 
-# game/v13/scene56.rpy:150
+# game/v13/scene56.rpy:149
 translate francais v13s56_78f6efd8:
 
     # u "(Calm down big fella.)"
-    u "(Calme-toi, mon grand.)"
+    u ""
 
-# game/v13/scene56.rpy:155
+# game/v13/scene56.rpy:154
 translate francais v13s56_d62e0471:
 
     # no "What do you think about this?"
-    no "Que penses-tu de ça ?"
+    no ""
 
-# game/v13/scene56.rpy:160
+# game/v13/scene56.rpy:159
 translate francais v13s56_67fd289a:
 
     # u "What is it?"
-    u "Qu'est-ce que c'est ?"
+    u ""
 
-# game/v13/scene56.rpy:165
+# game/v13/scene56.rpy:164
 translate francais v13s56_dbfb9504:
 
     # u "For Ms. Rose?"
-    u "Pour Mme Rose ?"
+    u ""
 
-# game/v13/scene56.rpy:170
+# game/v13/scene56.rpy:169
 translate francais v13s56_143a0a8c:
 
     # no "*Sarcasm* No, for Mr. Lee..."
-    no "*Sarcasme* Pas pour Mr Lee..."
+    no ""
 
-# game/v13/scene56.rpy:175
+# game/v13/scene56.rpy:174
 translate francais v13s56_5d07b585:
 
     # no "Obviously it's for her. *Chuckles*"
-    no "C'est forcément pour elle. *Rire*"
+    no ""
 
-# game/v13/scene56.rpy:180
+# game/v13/scene56.rpy:179
 translate francais v13s56_09e58c85:
 
     # u "Haha. You think she'll like it? It's kinda... basic."
-    u "Haha. Tu penses qu'elle va aimer ? C'est un peu... basique."
+    u ""
 
-# game/v13/scene56.rpy:185
+# game/v13/scene56.rpy:184
 translate francais v13s56_2844100d:
 
     # no "That's exactly how I know she'll like it. *Chuckles*"
-    no "C'est exactement comme ça que je sais qu'elle va aimer. *Rire*"
+    no ""
 
-# game/v13/scene56.rpy:190
+# game/v13/scene56.rpy:189
 translate francais v13s56_f858ccb5:
 
     # u "*Laughs* Perfect. One down and one to go."
-    u "*Rire* Parfait. Un de fait et un à faire."
+    u ""
 
-# game/v13/scene56.rpy:205
+# game/v13/scene56.rpy:204
 translate francais v13s56_d2278106:
 
     # no "Mr. Lee has one of these plants as his wallpaper on his phone."
-    no "Mr Lee a une de ces plantes comme fond d'écran sur son téléphone."
+    no ""
 
-# game/v13/scene56.rpy:210
+# game/v13/scene56.rpy:209
 translate francais v13s56_993eaffd:
 
     # u "*Chuckles* I don't doubt it."
-    u "*Rire* J'en doute pas."
+    u ""
 
-# game/v13/scene56.rpy:215
+# game/v13/scene56.rpy:214
 translate francais v13s56_09d57525:
 
     # no "Let's just get him one then."
-    no "On va lui en offrir un alors."
+    no ""
 
-# game/v13/scene56.rpy:220
+# game/v13/scene56.rpy:219
 translate francais v13s56_c5ca68e1:
 
     # u "If it's his phone wallpaper I'm sure he already has one, don't you think?"
-    u "Si c'est le fond d'écran de son téléphone, je suis sûr qu'il en a déjà un, tu crois pas ?"
+    u ""
 
-# game/v13/scene56.rpy:225
+# game/v13/scene56.rpy:224
 translate francais v13s56_1d70df4c:
 
     # no "Would you tell a woman who likes flowers that she has enough?"
-    no "Dirais-tu à une femme qui aime les fleurs qu'elle en a assez ?"
+    no ""
 
-# game/v13/scene56.rpy:230
+# game/v13/scene56.rpy:229
 translate francais v13s56_6680180f:
 
     # u "Haha... Good point."
-    u "Haha... touché."
+    u ""
 
-# game/v13/scene56.rpy:235
+# game/v13/scene56.rpy:234
 translate francais v13s56_4c1bce89:
 
     # no "Alright, so we're good?"
-    no "Très bien, alors on est bon ?"
+    no ""
 
-# game/v13/scene56.rpy:240
+# game/v13/scene56.rpy:239
 translate francais v13s56_b4d077ec:
 
     # u "Depends, how much are those?"
-    u "Ça dépend, combien coûtent ces trucs ?"
+    u ""
 
-# game/v13/scene56.rpy:245
+# game/v13/scene56.rpy:244
 translate francais v13s56_01f1eb53:
 
     # u "I can't afford both of these, Nora. *Chuckles*"
-    u "Je peux pas me permettre les deux, Nora. *Rire*"
+    u ""
 
-# game/v13/scene56.rpy:250
+# game/v13/scene56.rpy:249
 translate francais v13s56_f2ad413c:
 
     # no "What? Damn... You're not even a good piggy bank."
-    no "Quoi ? Merde... Tu n'es même pas une bonne tirelire."
+    no ""
 
-# game/v13/scene56.rpy:255
+# game/v13/scene56.rpy:254
 translate francais v13s56_c1c1f639:
 
     # u "Hey! I'm not rich."
-    u "Hey ! Je suis pas riche."
+    u ""
 
-# game/v13/scene56.rpy:260
+# game/v13/scene56.rpy:259
 translate francais v13s56_aea8d7ec:
 
     # no "*Chuckles* I'm just messing with you."
-    no "*Rire* Je me moque juste de toi."
+    no ""
 
-# game/v13/scene56.rpy:265
+# game/v13/scene56.rpy:264
 translate francais v13s56_4926f373:
 
     # no "Just choose one and I'll figure out something else for the person we don't buy a gift for."
-    no "Prends-en un seul et je trouverai autre chose pour la personne à qui on n'achète pas de cadeau."
+    no ""
 
-# game/v13/scene56.rpy:270
+# game/v13/scene56.rpy:269
 translate francais v13s56_f25657ab:
 
     # u "Hmm, okay..."
-    u "Hmm, ok..."
+    u ""
 
-# game/v13/scene56.rpy:281
+# game/v13/scene56.rpy:278
 translate francais v13s56_b78a8523:
 
     # u "Let's go with the perfume."
-    u "Allons-y pour le parfum."
+    u ""
 
-# game/v13/scene56.rpy:290
+# game/v13/scene56.rpy:287
 translate francais v13s56_997ecd3b:
 
     # u "Let's go with the Bonsai."
-    u "Allons-y pour le Bonsaï."
+    u ""
 
-# game/v13/scene56.rpy:300
+# game/v13/scene56.rpy:297
 translate francais v13s56_0be111ec:
 
     # no "Alrighty, sounds good. Go ahead and put the other one back and I'll meet you out front."
-    no "D'accord, c'est parfait. Vas-y, remets l'autre et je te retrouve devant."
+    no ""
 
-# game/v13/scene56.rpy:305
+# game/v13/scene56.rpy:302
 translate francais v13s56_4447e609:
 
     # u "Don't you need the money?"
-    u "Tu n'as pas besoin d'argent ?"
+    u ""
 
-# game/v13/scene56.rpy:310
+# game/v13/scene56.rpy:307
 translate francais v13s56_f8613983:
 
     # no "Oh, duh... *Laughs*"
-    no "Oh, bien sûr... *Rire*"
+    no ""
 
-# game/v13/scene56.rpy:315
+# game/v13/scene56.rpy:312
 translate francais v13s56_12d945cf:
 
     # u "You'd be lost without me today. *Chuckles*"
-    u "Tu serais perdue sans moi aujourd'hui. *Rire*"
+    u ""
 
-# game/v13/scene56.rpy:320
+# game/v13/scene56.rpy:317
 translate francais v13s56_bd16f58b:
 
     # no "*Chuckles* Kinda true, yeah."
-    no "*Rire* C'est vrai, oui."
+    no ""
 
-# game/v13/scene56.rpy:335
+# game/v13/scene56.rpy:332
 translate francais v13s56_1c08f2cd:
 
     # u "Get yourself something nice."
-    u "Prends quelque chose de sympa."
+    u ""
 
-# game/v13/scene56.rpy:340
+# game/v13/scene56.rpy:337
 translate francais v13s56_03d67052:
 
     # no "Okay hot shot... *Chuckles*"
-    no "Okay, sexy guy... *Rire*"
+    no ""
 
-# game/v13/scene56.rpy:345
+# game/v13/scene56.rpy:342
 translate francais v13s56_b2b3c52a:
 
     # u "(She really is a great person deep down.)"
-    u "(C'est vraiment une personne formidable au fond.)"
+    u ""
 
-# game/v13/scene56.rpy:384
+# game/v13/scene56.rpy:379
 translate francais v13s56_95702670:
 
     # u "What took so long?"
-    u "Qu'est-ce qui a pris si longtemps ?"
+    u ""
 
-# game/v13/scene56.rpy:389
+# game/v13/scene56.rpy:384
 translate francais v13s56_6c6f28b5:
 
     # no "The cashier guy was threatening to call the police because he thought the money was fake!"
-    no "Le caissier menaçait d'appeler la police parce qu'il pensait que c'était des faux billets !"
+    no ""
 
-# game/v13/scene56.rpy:394
+# game/v13/scene56.rpy:389
 translate francais v13s56_66106977:
 
     # u "The fuck?"
-    u "Putain !"
+    u ""
 
-# game/v13/scene56.rpy:399
+# game/v13/scene56.rpy:394
 translate francais v13s56_7dc7cf79:
 
     # no "I was defending it, but then for a minute I was like, did [name] give me fake money?"
-    no "Je me suis défendu, mais pendant une minute, je me suis demandé si [name] m'avait pas donné de la fausse monnaie."
+    no ""
 
-# game/v13/scene56.rpy:404
+# game/v13/scene56.rpy:399
 translate francais v13s56_a5bace62:
 
     # u "*Laughs* Why would I do that?"
-    u "*Rire* Pourquoi j'aurais fait ça ?"
+    u ""
 
-# game/v13/scene56.rpy:409
+# game/v13/scene56.rpy:404
 translate francais v13s56_7ba5e578:
 
     # no "I don't know... I was getting nervous. *Chuckles*"
-    no "Je ne sais pas... Je devenais nerveuse. *Rire*"
+    no ""
 
-# game/v13/scene56.rpy:414
+# game/v13/scene56.rpy:409
 translate francais v13s56_f578c406:
 
     # u "Well, good thing that's all over. Let's go gift giving."
-    u "Et bien, tant mieux si tout ça est terminé. Allons donner le cadeau."
+    u ""
 
 translate francais strings:
 
     # game/v13/scene56.rpy:103
     old "*Accidently* bump against her"
-    new "Se cogner \"accidentellement\" contre elle"
+    new ""
 
     # game/v13/scene56.rpy:103
     old "Be respectful"
-    new "Être respectueux"
+    new ""
 
-    # game/v13/scene56.rpy:275
+    # game/v13/scene56.rpy:274
     old "Perfume"
-    new "Parfum"
+    new ""
 
-    # game/v13/scene56.rpy:275
+    # game/v13/scene56.rpy:274
     old "Bonsai"
-    new "Bonsaï"
+    new ""
+

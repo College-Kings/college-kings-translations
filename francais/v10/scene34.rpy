@@ -1,249 +1,250 @@
-﻿# TODO: Translation updated at 2021-12-03 22:38
+﻿# TODO: Translation updated at 2022-08-22 08:06
 
-# game/v10/scene34.rpy:16
+# game/v10/scene34.rpy:13
 translate francais v10_autumn_announcement_b4f5f6eb:
 
     # aut "Alright everyone, if you could all gather around."
-    aut "Très bien tout le monde, si vous pouviez tous vous rassembler."
+    aut ""
 
-# game/v10/scene34.rpy:26
+# game/v10/scene34.rpy:23
 translate francais v10_autumn_announcement_141dd807:
 
     # aut "I want to first of all thank everyone for coming out. We really want to express our gratitude."
-    aut "Je veux tout d'abord remercier tout le monde d'être venu. Nous voulons vraiment exprimer notre gratitude."
+    aut ""
 
-# game/v10/scene34.rpy:28
+# game/v10/scene34.rpy:25
 translate francais v10_autumn_announcement_12e1cef1:
 
     # aut "After a quick count we've already way surpassed our fundraising goal."
-    aut "Après un rapide décompte, nous avons déjà largement dépassé notre objectif de collecte de fonds."
+    aut ""
 
-# game/v10/scene34.rpy:30
+# game/v10/scene34.rpy:27
 translate francais v10_autumn_announcement_24a234dd:
 
     # aut "This means a lot to us, so thank you."
-    aut "Cela signifie beaucoup pour nous, alors merci."
+    aut ""
 
-# game/v10/scene34.rpy:35
+# game/v10/scene34.rpy:32
 translate francais v10_autumn_announcement_a3b890ae:
 
     # dg1 "Couldn't have done it without you Autumn!"
-    dg1 "Nous n'aurions pas pu le faire sans toi, Autumn !"
+    dg1 ""
 
-# game/v10/scene34.rpy:37
+# game/v10/scene34.rpy:34
 translate francais v10_autumn_announcement_cfeb8a03:
 
     # dg3 "Yeah, cheers for Autumn!"
-    dg3 "Oui, acclamations pour Autumn !"
+    dg3 ""
 
-# game/v10/scene34.rpy:42
+# game/v10/scene34.rpy:39
 translate francais v10_autumn_announcement_2ab25860:
 
     # aut "Thanks everyone, means a lot. So our main event for today is of course the mud wrestling."
-    aut "Merci à tous, ça signifie beaucoup. Et finalement, notre événement principal d'aujourd'hui est bien sûr le combat de boue."
+    aut ""
 
-# game/v10/scene34.rpy:47
+# game/v10/scene34.rpy:44
 translate francais v10_autumn_announcement_88005043:
 
     # imre "LET'S GOOOOO!!!!"
-    imre "C'EST PARTIIIIIIIT !!!!"
+    imre ""
 
-# game/v10/scene34.rpy:52
+# game/v10/scene34.rpy:49
 translate francais v10_autumn_announcement_4e8039a8:
 
     # aut "Someone's excited! *Laughs*"
-    aut "Ah, quelqu'un est excité ! *Rire*"
+    aut ""
 
-# game/v10/scene34.rpy:57
+# game/v10/scene34.rpy:54
 translate francais v10_autumn_announcement_af2309d6:
 
     # ch "*Laughs*"
-    ch "*Rire*"
+    ch ""
 
-# game/v10/scene34.rpy:59
+# game/v10/scene34.rpy:56
 translate francais v10_autumn_announcement_1ed4c63a:
 
     # guyd "*Laughs*"
-    guyd "*Rire*"
+    guyd ""
 
-# game/v10/scene34.rpy:64
+# game/v10/scene34.rpy:61
 translate francais v10_autumn_announcement_5a252b59:
 
     # aut "Aside from myself, there will be one other commentator for the event. Everyone give a warm welcome to my friend, Aaron!"
-    aut "À part moi, il y aura un autre commentateur pour l'événement. Accueillez tous chaleureusement mon ami, Aaron !"
+    aut ""
 
-# game/v10/scene34.rpy:74
+# game/v10/scene34.rpy:71
 translate francais v10_autumn_announcement_9faeca41:
 
     # ch "That's my guy!"
-    ch "C'est mon pote !"
+    ch ""
 
-# game/v10/scene34.rpy:79
+# game/v10/scene34.rpy:76
 translate francais v10_autumn_announcement_26942993:
 
     # aut "The girls participating in the first matchup are Chloe and Nora!"
-    aut "Les filles qui participent au premier match sont Chloé et Nora !"
+    aut ""
 
-# game/v10/scene34.rpy:97
+# game/v10/scene34.rpy:94
 translate francais v10_autumn_announcement_00f07602:
 
     # u "Let's go Chloe!"
-    u "Allez Chloé !"
+    u ""
 
-# game/v10/scene34.rpy:118
+# game/v10/scene34.rpy:115
 translate francais v10_autumn_announcement_df6e3691:
 
     # u "Let's go Nora!"
-    u "Allez Nora !"
+    u ""
 
-# game/v10/scene34.rpy:120
+# game/v10/scene34.rpy:117
 translate francais v10_autumn_announcement_0a3ed055:
 
     # li "Woohoo!"
-    li "WOOHOO !"
+    li ""
 
-# game/v10/scene34.rpy:122
+# game/v10/scene34.rpy:119
 translate francais v10_autumn_announcement_ec507632:
 
     # ro "Good luck Nora!"
-    ro "Bonne chance Nora !"
+    ro ""
 
-# game/v10/scene34.rpy:127
+# game/v10/scene34.rpy:124
 translate francais v10_autumn_announcement_6c1d39f3:
 
     # aut "The girls participating in the second matchup are Emily and Aubrey!"
-    aut "Les filles qui participent au deuxième match sont Emily et Aubrey !"
+    aut ""
 
-# game/v10/scene34.rpy:142
+# game/v10/scene34.rpy:139
 translate francais v10_autumn_announcement_ad303f47:
 
     # u "Okay Aubrey!"
-    u "Okay Aubrey !"
+    u ""
 
-# game/v10/scene34.rpy:152
+# game/v10/scene34.rpy:148
 translate francais v10_autumn_announcement_0567f2c2:
 
     # u "Okay Emily!"
-    u "Okay Emily !"
+    u ""
 
-# game/v10/scene34.rpy:157
+# game/v10/scene34.rpy:153
 translate francais v10_autumn_announcement_5e3a5888:
 
     # aut "The girls participating in the final matchup are Amber and Riley!"
-    aut "Les filles participant au match final sont Amber et Riley !"
+    aut ""
 
-# game/v10/scene34.rpy:169
+# game/v10/scene34.rpy:165
 translate francais v10_autumn_announcement_a58db263:
 
     # u "Riley, Riley!"
-    u "Riley, Riley !"
+    u ""
 
-# game/v10/scene34.rpy:184
+# game/v10/scene34.rpy:179
 translate francais v10_autumn_announcement_21c770af:
 
     # u "Amber, Amber!"
-    u "Amber, Amber !"
+    u ""
 
-# game/v10/scene34.rpy:186
+# game/v10/scene34.rpy:181
 translate francais v10_autumn_announcement_492b144e:
 
     # aa "Did you see what that girl just did? She seems really into me."
-    aa "Tu as vu ce que cette fille vient de faire ? Elle semble vraiment intéressée par moi."
+    aa ""
 
-# game/v10/scene34.rpy:191
+# game/v10/scene34.rpy:186
 translate francais v10_autumn_announcement_ac1a4c62:
 
     # u "*Laughs* Sure buddy."
-    u "*Rire* \"Bien sûr\" mon pote."
+    u ""
 
-# game/v10/scene34.rpy:196
+# game/v10/scene34.rpy:191
 translate francais v10_autumn_announcement_2f777c59:
 
     # aut "Please give a round of applause for all our participants."
-    aut "Veuillez applaudir toutes nos participantes."
+    aut ""
 
-# game/v10/scene34.rpy:201
+# game/v10/scene34.rpy:196
 translate francais v10_autumn_announcement_cd4fb112:
 
     # aa "I so graciously volunteered to deliver the bad... the rules."
-    aa "Je me suis si gracieusement porté volontaire pour délivrer le plus mauvais... les règles."
+    aa ""
 
-# game/v10/scene34.rpy:206
+# game/v10/scene34.rpy:201
 translate francais v10_autumn_announcement_3ec3ca6e:
 
     # imre "Boo! No rules!"
-    imre "BOUUUUH ! PAS DE RÈGLES !"
+    imre ""
 
-# game/v10/scene34.rpy:211
+# game/v10/scene34.rpy:206
 translate francais v10_autumn_announcement_02b2bfc5:
 
     # aa "*Laughs* Okay, so the rules are pretty simple. No excessive moves such as biting, hair pulling, or choking."
-    aa "*Rire* Ok, donc les règles sont assez simples. Pas de gestes excessifs comme mordre, tirer les cheveux ou étouffer."
+    aa ""
 
-# game/v10/scene34.rpy:216
+# game/v10/scene34.rpy:211
 translate francais v10_autumn_announcement_a34d48b7:
 
     # am "Well damn, that's everything I like. *Chuckles*"
-    am "Eh merde, c'est pourtant tout ce que j'aime. *Rire*"
+    am ""
 
-# game/v10/scene34.rpy:221
+# game/v10/scene34.rpy:216
 translate francais v10_autumn_announcement_f4df23d7:
 
     # aa "*Laughs* Okay! There's also no removing of clothes."
-    aa "*Rire* Ok ! Il n'y a pas droit au déshabillage non plus."
+    aa ""
 
-# game/v10/scene34.rpy:223
+# game/v10/scene34.rpy:218
 translate francais v10_autumn_announcement_49fe2c27:
 
     # imre "Bro are you gay? What are these rules?"
-    imre "Mon frère, t'es gay ? C'est quoi ces règles ?"
+    imre ""
 
-# game/v10/scene34.rpy:228
+# game/v10/scene34.rpy:223
 translate francais v10_autumn_announcement_ae52cd45:
 
     # aa "And the last one, no pushing out of the pool."
-    aa "Et la dernière, on ne pousse pas hors de la piscine."
+    aa ""
 
-# game/v10/scene34.rpy:233
+# game/v10/scene34.rpy:228
 translate francais v10_autumn_announcement_f49cfab3:
 
     # aut "Alright, just so everyone knows, the participants submitted their own preferred matches. So with that said, let's get this going! Nora, Chloe?"
-    aut "Bon, pour que tout le monde sache, les participantes ont soumis elles-mêmes leurs matchs préférés. Maintenant que c'est dit, c'est parti ! Nora, Chloé ?"
+    aut ""
 
-# game/v10/scene34.rpy:238
+# game/v10/scene34.rpy:233
 translate francais v10_autumn_announcement_50453ff1:
 
     # cl "This is gonna be fun!"
-    cl "Ça va être amusant !"
+    cl ""
 
-# game/v10/scene34.rpy:243
+# game/v10/scene34.rpy:238
 translate francais v10_autumn_announcement_f787f809:
 
     # no "Oh shut up."
-    no "Oh, la ferme."
+    no ""
 
 translate francais strings:
 
-    # game/v10/scene34.rpy:89
+    # game/v10/scene34.rpy:86
     old "Root for Chloe"
-    new "Encourager Chloé"
+    new ""
 
-    # game/v10/scene34.rpy:89
+    # game/v10/scene34.rpy:86
     old "Root for Nora"
-    new "Encourager Nora"
+    new ""
 
-    # game/v10/scene34.rpy:136
+    # game/v10/scene34.rpy:133
     old "Root for Aubrey"
-    new "Encourager Aubrey"
+    new ""
 
-    # game/v10/scene34.rpy:136
+    # game/v10/scene34.rpy:133
     old "Root for Emily"
-    new "Encourager Emily"
+    new ""
 
-    # game/v10/scene34.rpy:161
+    # game/v10/scene34.rpy:157
     old "Root for Riley"
-    new "Encourager Riley"
+    new ""
 
-    # game/v10/scene34.rpy:161
+    # game/v10/scene34.rpy:157
     old "Root for Amber"
-    new "Encourager Amber"
+    new ""
+

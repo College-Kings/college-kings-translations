@@ -1,1515 +1,1516 @@
-﻿# TODO: Translation updated at 2022-01-01 14:46
+﻿# TODO: Translation updated at 2022-08-22 08:06
 
-# game/v12/scene33.rpy:20
+# game/v12/scene33.rpy:19
 translate francais v12s33_dd2e4cb0:
 
     # li "There you two are! You told me the shoot was only an hour..."
-    li "Vous êtes là tous les deux ! Tu m'as dit que le photoshoot ne durait qu'une heure..."
+    li ""
 
-# game/v12/scene33.rpy:25
+# game/v12/scene33.rpy:24
 translate francais v12s33_0831a0b2:
 
     # au "We got carried away, is something going on?"
-    au "On s'est laissé emporter, il se passe quelque chose ?"
+    au ""
 
-# game/v12/scene33.rpy:30
+# game/v12/scene33.rpy:29
 translate francais v12s33_2d3fc1ed:
 
     # li "I would've texted you, but I was expecting you to already be back."
-    li "Je t'aurais bien envoyé un message, mais je m'attendais à ce que tu sois déjà de retour."
+    li ""
 
-# game/v12/scene33.rpy:31
+# game/v12/scene33.rpy:30
 translate francais v12s33_e1f9525f:
 
     # li "Mr. Lee and Ms. Rose booked a special with the hotel or whatever and because of that they gave us an all-included free spa session."
-    li "Mr Lee et Mme Rose ont fait une réservation spéciale auprès de l'hôtel ou je ne sais quoi et grâce à ça, ils nous ont donné une séance de spa gratuite tout compris."
+    li ""
 
-# game/v12/scene33.rpy:36
+# game/v12/scene33.rpy:35
 translate francais v12s33_8f0ff4e6:
 
     # au "What?? You're joking..."
-    au "Quoi ?? Tu plaisantes..."
+    au ""
 
-# game/v12/scene33.rpy:41
+# game/v12/scene33.rpy:40
 translate francais v12s33_3af73e6f:
 
     # li "That's what I said when Nora told me, haha! We all have to go at the same time though, so they've been waiting on you guys."
-    li "C'est ce que j'ai dit quand Nora me l'a dit, haha ! Nous devons tous y aller en même temps, alors ils vous ont attendus."
+    li ""
 
-# game/v12/scene33.rpy:46
+# game/v12/scene33.rpy:45
 translate francais v12s33_fe96d076:
 
     # u "No one thought to text or call us? *Chuckles*"
-    u "Personne n'a pensé à nous envoyer un message ou à nous appeler ? *Rire*"
+    u ""
 
-# game/v12/scene33.rpy:51
+# game/v12/scene33.rpy:50
 translate francais v12s33_f3b6b886:
 
     # li "I said not to 'cause I thought what you guys were doing was important. Plus, I know Aubrey doesn't see her sister often. I didn't wanna disturb that, but you guys came just in time."
-    li "J'ai dit non parce que je pensais que ce que vous faisiez était très important. En plus, je sais qu'Aubrey ne voit pas souvent sa soeur. Je ne voulais pas déranger tout ça, mais vous êtes arrivés juste à temps."
+    li ""
 
-# game/v12/scene33.rpy:52
+# game/v12/scene33.rpy:51
 translate francais v12s33_31f77d75:
 
     # li "I don't know how long I could've held them off. *Chuckles*"
-    li "Je ne sais pas combien de temps j'aurais pu encore les retenir. *Rire*"
+    li ""
 
-# game/v12/scene33.rpy:57
+# game/v12/scene33.rpy:56
 translate francais v12s33_49b47b74:
 
     # au "Thanks Lindsey."
-    au "Merci Lindsey."
+    au ""
 
-# game/v12/scene33.rpy:62
+# game/v12/scene33.rpy:61
 translate francais v12s33_25524bd2:
 
     # li "Of course."
-    li "Pas de problème."
+    li ""
 
-# game/v12/scene33.rpy:67
+# game/v12/scene33.rpy:66
 translate francais v12s33_561572e5:
 
     # lee "Alright, it looks like Lindsey caught the two of you up. Everyone else has already been given instructions, so allow me to fill you in."
-    lee "Très bien, on dirait que Lindsey vous a trouvés tous les deux. Tout le monde a déjà reçu des instructions, alors permettez-moi de vous mettre au courant."
+    lee ""
 
-# game/v12/scene33.rpy:69
+# game/v12/scene33.rpy:68
 translate francais v12s33_8d50f241:
 
     # lee "As Lindsey said, we have a personal spa session, the boys and girls will be separated, and before you make any annoying comments, I've heard enough from Imre and I'm at my limit."
-    lee "Comme Lindsey l'a dit, nous avons une séance de spa personnelle, les garçons et les filles seront séparés et avant que vous ne fassiez des commentaires ennuyeux, j'en ai assez entendu d'Imre et je suis à bout."
+    lee ""
 
-# game/v12/scene33.rpy:74
+# game/v12/scene33.rpy:73
 translate francais v12s33_e104fdbc:
 
     # u "Sorry you had to experience that. *Chuckles*"
-    u "Désolé que vous ayez dû vivre ça. *Rire*"
+    u ""
 
-# game/v12/scene33.rpy:79
+# game/v12/scene33.rpy:78
 translate francais v12s33_7969dbd8:
 
     # lee "Yes, thank you... Anyways... Once inside, you'll change into what makes you feel comfortable and wrap yourself in a towel."
-    lee "Oui, merci... Enfin... Une fois à l'intérieur, vous vous mettrez à l'aise et vous vous envelopperez dans une serviette."
+    lee ""
 
-# game/v12/scene33.rpy:80
+# game/v12/scene33.rpy:79
 translate francais v12s33_aa28b286:
 
     # lee "Some insisted on being nude underneath their towel and though I heavily advised against it, Ms. Rose has approved, so take that as you will."
-    lee "Certains ont insisté pour être nus sous leur serviette et bien que je l'aie fortement déconseillé, Mme Rose l'a approuvé, alors faites comme vous voulez."
+    lee ""
 
-# game/v12/scene33.rpy:85
+# game/v12/scene33.rpy:84
 translate francais v12s33_eb834571:
 
     # au "There's a sauna, right?"
-    au "Il y a un sauna, non ?"
+    au ""
 
-# game/v12/scene33.rpy:90
+# game/v12/scene33.rpy:89
 translate francais v12s33_2262fd39:
 
     # lee "Yes, a sauna and a one hour massage."
-    lee "Oui, un sauna et un massage d'une heure."
+    lee ""
 
-# game/v12/scene33.rpy:95
+# game/v12/scene33.rpy:94
 translate francais v12s33_b36e9333:
 
     # au "Definitely going nude... *Laughs*"
-    au "Je vais sans aucun doute me mettre nue... *Rire*"
+    au ""
 
-# game/v12/scene33.rpy:100
+# game/v12/scene33.rpy:99
 translate francais v12s33_697a7e69:
 
     # lee "Please, use your best judgement. The boys will start with massages and girls in the sauna, afterwards we'll switch. Any questions?"
-    lee "S'il vous plaît, faites votre propre jugement. Les garçons commenceront par des massages et les filles par le sauna, ensuite nous échangerons. Des questions ?"
+    lee ""
 
-# game/v12/scene33.rpy:105
+# game/v12/scene33.rpy:104
 translate francais v12s33_4d1ee075:
 
     # u "Nope, sounds simple enough. Oh, are there towels in the spa room?"
-    u "Non, ça a l'air assez simple. Oh, il y a des serviettes dans le spa ?"
+    u ""
 
-# game/v12/scene33.rpy:110
+# game/v12/scene33.rpy:109
 translate francais v12s33_46c2466a:
 
     # lee "Yes, there are towels in there."
-    lee "Oui, des serviettes sont à disposition."
+    lee ""
 
-# game/v12/scene33.rpy:115
+# game/v12/scene33.rpy:114
 translate francais v12s33_7b2df1a5:
 
     # u "All good."
-    u "Alors c'est bon."
+    u ""
 
-# game/v12/scene33.rpy:122
+# game/v12/scene33.rpy:121
 translate francais v12s33_d4dbc28a:
 
     # u "I don't think he's excited about this..."
-    u "Je n'ai pas l'impression qu'il soit emballé par tout ça..."
+    u ""
 
-# game/v12/scene33.rpy:127
+# game/v12/scene33.rpy:126
 translate francais v12s33_499541a8:
 
     # li "He's starting to get a little irritated, but I think it's because he's getting homesick. He's starting to miss his wife, I heard him say it to Ms. Rose."
-    li "Il commence à être un peu nerveux, mais je pense que c'est parce qu'il a le mal du pays. Sa femme commence à lui manquer, je l'ai entendu le dire à Mme Rose."
+    li ""
 
-# game/v12/scene33.rpy:128
+# game/v12/scene33.rpy:127
 translate francais v12s33_7af6747a:
 
     # li "I think the church thing kinda hit home for him."
-    li "Je pense que le truc de l'église l'a un peu interpellé."
+    li ""
 
-# game/v12/scene33.rpy:133
+# game/v12/scene33.rpy:132
 translate francais v12s33_9388d5f0:
 
     # u "I always forget he's married, but yeah... I could see why he'd be on edge."
-    u "J'oublie toujours qu'il est marié, mais oui... je peux comprendre pourquoi il est sur les nerfs."
+    u ""
 
-# game/v12/scene33.rpy:138
+# game/v12/scene33.rpy:137
 translate francais v12s33_c6a6bba1:
 
     # au "Alright, c'mon guys. I want to relax!"
-    au "Allons-y, les amis. Je veux me détendre !"
+    au ""
 
-# game/v12/scene33.rpy:156
+# game/v12/scene33.rpy:155
 translate francais v12s33_28c33980:
 
     # li "AUBREY! What if one of the teachers saw you?! And [name] is standing right here."
-    li "AUBREY ! Et si un des professeurs te voyait ?! Et [name] est juste là."
+    li ""
 
-# game/v12/scene33.rpy:161
+# game/v12/scene33.rpy:160
 translate francais v12s33_dd870fb5:
 
     # au "If anyone saw me then... All I did was give them a reason to smile today. *Chuckles*"
-    au "Si quelqu'un me voyait, alors... Je ne ferai que leur donner une raison de sourire aujourd'hui. *Rire*"
+    au ""
 
-# game/v12/scene33.rpy:166
+# game/v12/scene33.rpy:165
 translate francais v12s33_8569c4fa:
 
     # u "*Chuckles*"
-    u " *Rire*"
+    u ""
 
-# game/v12/scene33.rpy:171
+# game/v12/scene33.rpy:170
 translate francais v12s33_9436db2d:
 
     # au "See, it's already working. *Laughs*"
-    au "Tu vois ? Ça marche déjà. *Rire*"
+    au ""
 
-# game/v12/scene33.rpy:176
+# game/v12/scene33.rpy:175
 translate francais v12s33_cb47791a:
 
     # li "Oh my gosh. *Chuckles*"
-    li "Oh merde. *Rire*"
+    li ""
 
-# game/v12/scene33.rpy:181
+# game/v12/scene33.rpy:180
 translate francais v12s33_806296da:
 
     # au "You're gonna get naked too, right? You can't use the sauna with clothes on, that's weird."
-    au "Tu vas te mettre à poil aussi, non ? Tu ne vas pas au sauna avec des vêtements, c'est bizarre."
+    au ""
 
-# game/v12/scene33.rpy:186
+# game/v12/scene33.rpy:185
 translate francais v12s33_507b2d24:
 
     # li "*Chuckles* That, I agree with."
-    li "*Rire* Ça, je suis d'accord."
+    li ""
 
-# game/v12/scene33.rpy:191
+# game/v12/scene33.rpy:190
 translate francais v12s33_523cd52c:
 
     # u "Oh yeah, guess you're right. Umm..."
-    u "Oh ouais, je crois que tu as raison. Hmm..."
+    u ""
 
-# game/v12/scene33.rpy:196
+# game/v12/scene33.rpy:195
 translate francais v12s33_1cfa81ac:
 
     # au "What?"
-    au "Quoi ?"
+    au ""
 
-# game/v12/scene33.rpy:201
+# game/v12/scene33.rpy:200
 translate francais v12s33_cd262f54:
 
     # li "Oh my god, Aubrey! Give him some privacy."
-    li "Oh merde, Aubrey ! Donne-lui un peu d'intimité."
+    li ""
 
-# game/v12/scene33.rpy:219
+# game/v12/scene33.rpy:218
 translate francais v12s33_b6cde84e:
 
     # ry "There he is, took you long enough! Get on a table."
-    ry "Le voilà, t'en as mis du temps ! Prends une table."
+    ry ""
 
-# game/v12/scene33.rpy:224
+# game/v12/scene33.rpy:223
 translate francais v12s33_f181a898:
 
     # u "Haha, alright."
-    u "Haha, très bien."
+    u ""
 
-# game/v12/scene33.rpy:234
+# game/v12/scene33.rpy:233
 translate francais v12s33_d214b552:
 
     # u "(I could always sneak off and see what the girls are doing if this gets too boring...)"
-    u "(Je pourrais toujours m'éclipser et voir ce que font les filles si ça devient trop ennuyeux...)"
+    u ""
 
-# game/v12/scene33.rpy:241
+# game/v12/scene33.rpy:240
 translate francais v12s33_a7d433c2:
 
     # imre "Where's the masseuse? I hope I get a lady! *Laughs*"
-    imre "Où est la masseuse ? J'espère que j'aurai une femme ! *Rire*"
+    imre ""
 
-# game/v12/scene33.rpy:246
+# game/v12/scene33.rpy:245
 translate francais v12s33_aa828c82:
 
     # lee "Why does the gender of the masseuse matter to you, Imre?"
-    lee "En quoi le sexe de la masseuse vous importe-t-il, Imre ?"
+    lee ""
 
-# game/v12/scene33.rpy:251
+# game/v12/scene33.rpy:250
 translate francais v12s33_cbaa848b:
 
     # imre "I don't know about you, but I'd rather have a woman's hands on me than a man's."
-    imre "J'sais pas pour vous, mais j'préfère avoir les mains d'une femme sur moi qu'celles d'un mec."
+    imre ""
 
-# game/v12/scene33.rpy:256
+# game/v12/scene33.rpy:255
 translate francais v12s33_c996389f:
 
     # lee "The only woman's hands I care for are my wife's."
-    lee "Les seules mains de femme dont je me préoccupe sont celles de la mienne."
+    lee ""
 
-# game/v12/scene33.rpy:261
+# game/v12/scene33.rpy:260
 translate francais v12s33_61e3a11a:
 
     # ch "Commendable, Mr. Lee."
-    ch "C'est louable, Mr Lee."
+    ch ""
 
-# game/v12/scene33.rpy:266
+# game/v12/scene33.rpy:265
 translate francais v12s33_0a0f72e8:
 
     # lee "Your flattery won't win you any points with me, Chris... We will still be discussing the other day's incident."
-    lee "Votre flatterie ne vous fera pas gagner de points avec moi, Chris... Nous devons toujours discuter de l'incident de l'autre jour."
+    lee ""
 
-# game/v12/scene33.rpy:271
+# game/v12/scene33.rpy:270
 translate francais v12s33_fd82c224:
 
     # imre "In the spirit of relaxing, let's not bring it up or talk about any of it right now, if that's okay?"
-    imre "Dans un esprit de détente, on évite d'en parler pour l'instant, vous êtes d'accord ?"
+    imre ""
 
-# game/v12/scene33.rpy:276
+# game/v12/scene33.rpy:275
 translate francais v12s33_7fe9486a:
 
     # lee "I agree."
-    lee "Tout à fait d'accord."
+    lee ""
 
-# game/v12/scene33.rpy:281
+# game/v12/scene33.rpy:280
 translate francais v12s33_84a92869:
 
     # lmass "Afternoon gentleman, hope you're all relaxing well and ready for your massages?"
-    lmass "Bonjour messieurs, j'espère que vous êtes tous bien détendus et prêts pour vos massages ?"
+    lmass ""
 
-# game/v12/scene33.rpy:286
+# game/v12/scene33.rpy:285
 translate francais v12s33_9bc0e37d:
 
     # imre "Oh yeah! You with the sexy voice, you can do my massage."
-    imre "Oh oui ! Vous, avec votre voix sexy, vous pouvez m'faire c'que vous voulez."
+    imre ""
 
-# game/v12/scene33.rpy:291
+# game/v12/scene33.rpy:290
 translate francais v12s33_8854ebe5:
 
     # lee "*Sighs* So embarrassing."
-    lee "*Soupirs* Tellement embarrassant."
+    lee ""
 
-# game/v12/scene33.rpy:296
+# game/v12/scene33.rpy:295
 translate francais v12s33_f1bdd86e:
 
     # lmass "Haha. Massages last one hour hour. We ask that you relax and attempt to behave as if we aren't even here."
-    lmass "Haha. Les massages durent une heure. Nous vous demandons de vous détendre et d'essayer de vous comporter comme si nous n'étions pas là."
+    lmass ""
 
-# game/v12/scene33.rpy:301
+# game/v12/scene33.rpy:300
 translate francais v12s33_fca8dc97:
 
     # imre "Nah, I wanna know you're here."
-    imre "Non, j'veux être sûr qu'vous êtes là."
+    imre ""
 
-# game/v12/scene33.rpy:305
+# game/v12/scene33.rpy:304
 translate francais v12s33_a4c4eb2c:
 
     # lmass "You can have him."
-    lmass "Vous pouvez le prendre."
+    lmass ""
 
-# game/v12/scene33.rpy:309
+# game/v12/scene33.rpy:308
 translate francais v12s33_b4d3b086:
 
     # imre "Damn girl, you got some strong ass hands... Ohhhh yeahhhh..."
-    imre "Bordel de merde, t'as d'sacrées mains baladeuses... Ohhhh ouaiiiiis..."
+    imre ""
 
-# game/v12/scene33.rpy:314
+# game/v12/scene33.rpy:313
 translate francais v12s33_b5ffc49a:
 
     # lee "*Laughs* I needed that today."
-    lee "*Rire* J'avais besoin de ça aujourd'hui."
+    lee ""
 
-# game/v12/scene33.rpy:319
+# game/v12/scene33.rpy:318
 translate francais v12s33_f2bcea62:
 
     # imre "I wonder what's going on in the sauna right now."
-    imre "Je m'demande c'qui s'passe dans l'sauna en ce moment."
+    imre ""
 
-# game/v12/scene33.rpy:324
+# game/v12/scene33.rpy:323
 translate francais v12s33_68fde7d3:
 
     # u "Probably a lot of sweating. *Chuckles*"
-    u "Sûrement beaucoup de transpiration. *Rire*"
+    u ""
 
-# game/v12/scene33.rpy:329
+# game/v12/scene33.rpy:328
 translate francais v12s33_e6eda243:
 
     # imre "How hot does it get in there?"
-    imre "Il fait chaud là-dedans ?"
+    imre ""
 
-# game/v12/scene33.rpy:334
+# game/v12/scene33.rpy:333
 translate francais v12s33_91c22356:
 
     # u "Uhh, like... Over a hundred degrees, I know that much."
-    u "Euhh, genre... Plus de cent degrés, je sais que c'est beaucoup."
+    u ""
 
-# game/v12/scene33.rpy:339
+# game/v12/scene33.rpy:338
 translate francais v12s33_8d0c10ba:
 
     # imre "Shit, that sounds kinda nice... I bet the girls are all sweaty in there. I may have to stop by... *Chuckles*"
-    imre "Merde, ça a l'air plutôt cool... J'parie qu'les filles sont toutes en sueur là-dedans. J'vais peut-être devoir aller les voir... *rire*"
+    imre ""
 
-# game/v12/scene33.rpy:344
+# game/v12/scene33.rpy:343
 translate francais v12s33_f1cbfacf:
 
     # lee "That kink in your back must be affecting your brain."
-    lee "Cette raideur dans votre dos doit affecter votre cerveau."
+    lee ""
 
-# game/v12/scene33.rpy:349
+# game/v12/scene33.rpy:348
 translate francais v12s33_cb1c14e9:
 
     # lmass "Oh, you have a kink?"
-    lmass "Oh, vous avez une raideur dans le dos ?"
+    lmass ""
 
-# game/v12/scene33.rpy:351
+# game/v12/scene33.rpy:350
 translate francais v12s33_ee3e5096:
 
     # imre "Not that I-"
-    imre "Non j'ai p-"
+    imre ""
 
-# game/v12/scene33.rpy:357
+# game/v12/scene33.rpy:356
 translate francais v12s33_41fd3db0:
 
     # "*Crack*"
-    "*Crack*"
+    ""
 
-# game/v12/scene33.rpy:362
+# game/v12/scene33.rpy:361
 translate francais v12s33_af4e5c6b:
 
     # imre "DAMN, GIRL!"
-    imre "PUTAIN, BALÈZE LA GONZESSE !"
+    imre ""
 
-# game/v12/scene33.rpy:367
+# game/v12/scene33.rpy:366
 translate francais v12s33_07c7b99f:
 
     # imre "Oh shit, you're an ugly girl!"
-    imre "Oh merde, t'es une fille très laide !"
+    imre ""
 
-# game/v12/scene33.rpy:372
+# game/v12/scene33.rpy:371
 translate francais v12s33_fcc18885:
 
     # u "*Laughs*"
-    u "*Rire*"
+    u ""
 
-# game/v12/scene33.rpy:377
+# game/v12/scene33.rpy:376
 translate francais v12s33_636a0944:
 
     # ry "*Laughs*"
-    ry "*Rire*"
+    ry ""
 
-# game/v12/scene33.rpy:382
+# game/v12/scene33.rpy:381
 translate francais v12s33_735dab25:
 
     # lee "*Laughs*"
-    lee "*Rire*"
+    lee ""
 
-# game/v12/scene33.rpy:387
+# game/v12/scene33.rpy:386
 translate francais v12s33_c2cfc876:
 
     # mmass "*Deep voice* Please, lie back down."
-    mmass "*Voix grave* S'il vous plaît, rallongez-vous."
+    mmass ""
 
-# game/v12/scene33.rpy:392
+# game/v12/scene33.rpy:391
 translate francais v12s33_f39ff2a7:
 
     # imre "Hell no, you are not a woman! Sorry man, ladies only over here. Move on to someone else, pal."
-    imre "Putain non, t'es pas une femme ! Désolé mec, c'est réservé aux femmes ici. Passez à quelqu'un d'autre, vieux."
+    imre ""
 
-# game/v12/scene33.rpy:397
+# game/v12/scene33.rpy:396
 translate francais v12s33_3f529807:
 
     # mmass "*Sighs*"
-    mmass "*Soupirs*"
+    mmass ""
 
-# game/v12/scene33.rpy:402
+# game/v12/scene33.rpy:401
 translate francais v12s33_53844155:
 
     # imre "Unbelievable. Next time I feel some hands on me they better be female..."
-    imre "Incroyable. La prochaine fois que j'sentirai des mains sur moi, il vaudrait mieux qu'ce soit celles d'une femme..."
+    imre ""
 
-# game/v12/scene33.rpy:404
+# game/v12/scene33.rpy:403
 translate francais v12s33_8529a77a:
 
     # lee "Good heavens!"
-    lee "Oh, c'est pas vrai !"
+    lee ""
 
-# game/v12/scene33.rpy:409
+# game/v12/scene33.rpy:408
 translate francais v12s33_186dd63b:
 
     # imre "What's wrong, Mr. Lee? Can't handle it?"
-    imre "Qu'est-ce qui va pas, Mr Lee ? Vous pouvez pas l'supporter ?"
+    imre ""
 
-# game/v12/scene33.rpy:414
+# game/v12/scene33.rpy:413
 translate francais v12s33_ae252ebb:
 
     # lee "I most certainly-"
-    lee "Je suis très certainement..."
+    lee ""
 
-# game/v12/scene33.rpy:420
+# game/v12/scene33.rpy:419
 translate francais v12s33_41fd3db0_1:
 
     # "*Crack*"
-    "*Crack*"
+    ""
 
-# game/v12/scene33.rpy:422
+# game/v12/scene33.rpy:421
 translate francais v12s33_4c825fcb:
 
     # lee "OH, BUDDHA AND ALL THAT'S GOOD! Please... don't push so hard."
-    lee "OH, BUDDHA ET TOUT CE QUI EST BON ! S'il vous plaît... ne forcez pas autant."
+    lee ""
 
-# game/v12/scene33.rpy:424
+# game/v12/scene33.rpy:423
 translate francais v12s33_e206ff1e:
 
     # mmass "Sir, you have a serious knot."
-    mmass "Monsieur, vous avez un nœud sérieux."
+    mmass ""
 
-# game/v12/scene33.rpy:429
+# game/v12/scene33.rpy:428
 translate francais v12s33_1719932e:
 
     # lee "I'm also a lot older, friend. Could you please approach me a little more carefully?"
-    lee "Je suis aussi beaucoup plus vieux, mon ami. Pourriez-vous s'il vous plaît me traiter un peu plus prudemment ?"
+    lee ""
 
-# game/v12/scene33.rpy:434
+# game/v12/scene33.rpy:433
 translate francais v12s33_135000aa:
 
     # ry "Kinda sounding like a wuss over there, Mr. Lee."
-    ry "Vous avez l'air d'une mauviette, Mr Lee."
+    ry ""
 
-# game/v12/scene33.rpy:439
+# game/v12/scene33.rpy:438
 translate francais v12s33_dd85dc5c:
 
     # lee "You'll understand when you're my age."
-    lee "Vous comprendrez quand vous aurez mon âge."
+    lee ""
 
-# game/v12/scene33.rpy:445
+# game/v12/scene33.rpy:444
 translate francais v12s33_41fd3db0_2:
 
     # "*Crack*"
-    "*Crack*"
+    ""
 
-# game/v12/scene33.rpy:447
+# game/v12/scene33.rpy:446
 translate francais v12s33_ade54d38:
 
     # lee "AGH! Oh... Oh no, I can't move my neck."
-    lee "AGH ! Oh... Oh non, je ne peux pas bouger mon cou."
+    lee ""
 
-# game/v12/scene33.rpy:449
+# game/v12/scene33.rpy:448
 translate francais v12s33_b475d6ad:
 
     # mmass "Allow me to finish, sir."
-    mmass "Laissez-moi finir, monsieur."
+    mmass ""
 
-# game/v12/scene33.rpy:455
+# game/v12/scene33.rpy:454
 translate francais v12s33_41fd3db0_3:
 
     # "*Crack*"
-    "*Crack*"
+    ""
 
-# game/v12/scene33.rpy:457
+# game/v12/scene33.rpy:456
 translate francais v12s33_df0f045b:
 
     # lee "HOOO! Oh wow, that feels... amazing!"
-    lee "HOOO ! Oh waouh, c'est... incroyable !"
+    lee ""
 
-# game/v12/scene33.rpy:459
+# game/v12/scene33.rpy:458
 translate francais v12s33_4ba0af1a:
 
     # mmass "One must trust the process."
-    mmass "Il faut faire confiance au processus."
+    mmass ""
 
-# game/v12/scene33.rpy:461
+# game/v12/scene33.rpy:460
 translate francais v12s33_a82378e4:
 
     # lee "I feel ten years younger."
-    lee "Je me sens rajeuni de dix ans."
+    lee ""
 
-# game/v12/scene33.rpy:466
+# game/v12/scene33.rpy:465
 translate francais v12s33_bda7ff4f:
 
     # imre "You don't look it... *Laughs*"
-    imre "Vous en avez pas l'air... *Rire*"
+    imre ""
 
-# game/v12/scene33.rpy:471
+# game/v12/scene33.rpy:470
 translate francais v12s33_c043254e:
 
     # lee "One of these days Imre, one of these days. You won't always be my student, you know?"
-    lee "Un de ces jours, Imre, un de ces jours. Vous ne serez pas toujours mon étudiant, vous savez ?"
+    lee ""
 
-# game/v12/scene33.rpy:476
+# game/v12/scene33.rpy:475
 translate francais v12s33_5b1bf896:
 
     # imre "I'll be waiting."
-    imre "J'vais attendre."
+    imre ""
 
-# game/v12/scene33.rpy:481
+# game/v12/scene33.rpy:480
 translate francais v12s33_f80442e6:
 
     # u "Well shit, it's getting hotter here than the sauna..."
-    u "Eh bien merde, il fait plus chaud ici que dans un sauna..."
+    u ""
 
-# game/v12/scene33.rpy:486
+# game/v12/scene33.rpy:485
 translate francais v12s33_4da31382:
 
     # ry "That was corny, bro."
-    ry "C'était ringard, mon frère."
+    ry ""
 
-# game/v12/scene33.rpy:491
+# game/v12/scene33.rpy:490
 translate francais v12s33_20c40c7f:
 
     # u "Your face is corny."
-    u "C'est ta gueule qui est ringarde."
+    u ""
 
-# game/v12/scene33.rpy:496
+# game/v12/scene33.rpy:495
 translate francais v12s33_aaf9b05b:
 
     # lmass "*Chuckles* You guys are the most exciting bunch we've had."
-    lmass "*Rire* Vous êtes le groupe le plus amusant que nous ayons eu."
+    lmass ""
 
-# game/v12/scene33.rpy:501
+# game/v12/scene33.rpy:500
 translate francais v12s33_a5a792a5:
 
     # imre "I can make it even more exciting if you come over here."
-    imre "J'peux rendre ça encore plus amusant si vous venez par ici."
+    imre ""
 
-# game/v12/scene33.rpy:506
+# game/v12/scene33.rpy:505
 translate francais v12s33_e2f95e62:
 
     # lmass "Haha, right... I'd love to, but I need to finish off with your friend."
-    lmass "Haha, c'est vrai... J'aimerais bien, mais je dois finir avec votre ami."
+    lmass ""
 
-# game/v12/scene33.rpy:511
+# game/v12/scene33.rpy:510
 translate francais v12s33_357d3fe3:
 
     # imre "Damn, so you'll finish him off, but won't even start with me? That's harsh, baby."
-    imre "Merde, donc vous allez l'finir, mais vous voulez même pas démarrer avec moi ? C'est dur, bébé."
+    imre ""
 
-# game/v12/scene33.rpy:516
+# game/v12/scene33.rpy:515
 translate francais v12s33_2529b281:
 
     # lmass "And so is your hairline."
-    lmass "Et la racine de vos cheveux également."
+    lmass ""
 
-# game/v12/scene33.rpy:521
+# game/v12/scene33.rpy:520
 translate francais v12s33_d6cca808:
 
     # ry "Fucking rolled dude! *Laughs*"
-    ry "Putain de mec rouillé ! *Rire*"
+    ry ""
 
-# game/v12/scene33.rpy:526
+# game/v12/scene33.rpy:525
 translate francais v12s33_0b015a77:
 
     # u "*Laughs* Oh shit... Haha!"
-    u "*Rire* Oh merde... Haha !"
+    u ""
 
-# game/v12/scene33.rpy:531
+# game/v12/scene33.rpy:530
 translate francais v12s33_939035f8:
 
     # ch "*Chuckles*"
-    ch "*Rire*"
+    ch ""
 
-# game/v12/scene33.rpy:536
+# game/v12/scene33.rpy:535
 translate francais v12s33_6b71eb88:
 
     # imre "Not cool mommas, not cool."
-    imre "Pas cool les filles, pas cool."
+    imre ""
 
-# game/v12/scene33.rpy:541
+# game/v12/scene33.rpy:540
 translate francais v12s33_4930d287:
 
     # lmass "Any tense areas?"
-    lmass "Des zones tendues ?"
+    lmass ""
 
-# game/v12/scene33.rpy:546
+# game/v12/scene33.rpy:545
 translate francais v12s33_b8cc05d5:
 
     # u "Uhm... not sure. Neck I guess?"
-    u "hum... pas sûr. Le cou, je pense ?"
+    u ""
 
-# game/v12/scene33.rpy:548
+# game/v12/scene33.rpy:547
 translate francais v12s33_b23e7e60:
 
     # lmass "Alright, I'll make sure to get to it in a bit."
-    lmass "D'accord, je vais faire en sorte de m'en occuper dans un moment."
+    lmass ""
 
-# game/v12/scene33.rpy:565
+# game/v12/scene33.rpy:564
 translate francais v12s33_64d70bff:
 
     # lmass "Alright gentlemen, it is time for you to swap with the ladies."
-    lmass "Très bien messieurs, il est temps pour vous d'échanger avec les dames."
+    lmass ""
 
-# game/v12/scene33.rpy:570
+# game/v12/scene33.rpy:569
 translate francais v12s33_732fe03a:
 
     # imre "*Sighs* Shame."
-    imre "*Soupirs* Dommage."
+    imre ""
 
-# game/v12/scene33.rpy:582
+# game/v12/scene33.rpy:581
 translate francais v12s33_sneak_off1_9a480a1c:
 
     # u "Sorry guys, I suddenly really gotta poop..."
-    u "Désolé les gars, j'ai une soudaine envie de chier..."
+    u ""
 
-# game/v12/scene33.rpy:587
+# game/v12/scene33.rpy:586
 translate francais v12s33_sneak_off1_8dc58587:
 
     # imre "*Laughs* Gross dude! You don't need to announce it."
-    imre "*Rire* Dégueu, mec ! T'as pas besoin de l'annoncer."
+    imre ""
 
-# game/v12/scene33.rpy:592
+# game/v12/scene33.rpy:591
 translate francais v12s33_sneak_off1_636a0944:
 
     # ry "*Laughs*"
-    ry "*Rire*"
+    ry ""
 
-# game/v12/scene33.rpy:597
+# game/v12/scene33.rpy:596
 translate francais v12s33_sneak_off1_9ad7bbe6:
 
     # lee "Please, [name], just go."
-    lee "S'il vous plaît, [name], allez-y simplement."
+    lee ""
 
-# game/v12/scene33.rpy:619
+# game/v12/scene33.rpy:618
 translate francais v12s33_door1_cf80f10c:
 
     # u "*Whistles*"
-    u "*Siffle*"
+    u ""
 
-# game/v12/scene33.rpy:627
+# game/v12/scene33.rpy:626
 translate francais v12s33_door1_a0c28b60:
 
     # ro "Ladies only, [name]!"
-    ro "Seulement les dames, [name] !"
+    ro ""
 
-# game/v12/scene33.rpy:632
+# game/v12/scene33.rpy:631
 translate francais v12s33_door1_ad8235a7:
 
     # u "Oh sorry, my bad. I was looking for the restroom."
-    u "Oh désolé, c'est ma faute. Je cherchais les toilettes."
+    u ""
 
-# game/v12/scene33.rpy:646
+# game/v12/scene33.rpy:645
 translate francais v12s33_door1_64d70bff:
 
     # lmass "Alright gentlemen, it is time for you to swap with the ladies."
-    lmass "Très bien messieurs, il est temps pour vous d'échanger avec les dames."
+    lmass ""
 
-# game/v12/scene33.rpy:673
+# game/v12/scene33.rpy:672
 translate francais v12s33_door2_d258a84a:
 
     # u "Heyah, hope you don't mind me coming in."
-    u "Hey, j'espère que ça vous dérange pas que j'entre."
+    u ""
 
-# game/v12/scene33.rpy:678
+# game/v12/scene33.rpy:677
 translate francais v12s33_door2_876c60a0:
 
     # au "I win! *Laughs*"
-    au "J'ai gagné ! *Rire*"
+    au ""
 
-# game/v12/scene33.rpy:683
+# game/v12/scene33.rpy:682
 translate francais v12s33_door2_7b77d28a:
 
     # cl "[name]! *Sighs* Why? *Chuckles*"
-    cl "[name] ! *Soupirs* Pourquoi toi ? *Rire*"
+    cl ""
 
-# game/v12/scene33.rpy:688
+# game/v12/scene33.rpy:687
 translate francais v12s33_door2_ef2f1671:
 
     # u "What?"
-    u "Quoi ?"
+    u ""
 
-# game/v12/scene33.rpy:693
+# game/v12/scene33.rpy:692
 translate francais v12s33_door2_3332ee10:
 
     # au "Haha, we bet which boy would sneak off and try to come sit with us girls. I said you and Chloe said Imre."
-    au "Haha, on a parié sur le garçon qui se faufilerait et essaierait de s'asseoir avec nous les filles. J'ai dit toi et Chloé a dit Imre."
+    au ""
 
-# game/v12/scene33.rpy:698
+# game/v12/scene33.rpy:697
 translate francais v12s33_door2_a4992e48:
 
     # u "Haha! Well, trust me. He wanted to, but Mr. Lee has him on lock and key."
-    u "Haha ! Eh bien, croyez-moi. Il voulait venir, mais Mr Lee l'a enfermé à double tour."
+    u ""
 
-# game/v12/scene33.rpy:703
+# game/v12/scene33.rpy:702
 translate francais v12s33_door2_7db76f56:
 
     # cl "Didn't even consider Mr. Lee."
-    cl "Je n'ai même pas pensé à Mr Lee."
+    cl ""
 
-# game/v12/scene33.rpy:708
+# game/v12/scene33.rpy:707
 translate francais v12s33_door2_85b33281:
 
     # u "Sheesh... You guys are sweating pretty bad!"
-    u "Pfiou... Vous transpirez beaucoup les filles !"
+    u ""
 
-# game/v12/scene33.rpy:713
+# game/v12/scene33.rpy:712
 translate francais v12s33_door2_6b65d388:
 
     # au "Haha, it's hot in here."
-    au "Haha, il fait chaud ici."
+    au ""
 
-# game/v12/scene33.rpy:720
+# game/v12/scene33.rpy:719
 translate francais v12s33_door2_c973e09b:
 
     # sa "Umm, [name]?"
-    sa "Hum, [name] ?"
+    sa ""
 
-# game/v12/scene33.rpy:725
+# game/v12/scene33.rpy:724
 translate francais v12s33_door2_6bcd435f:
 
     # u "Yeah?"
-    u "Ouais ?"
+    u ""
 
-# game/v12/scene33.rpy:730
+# game/v12/scene33.rpy:729
 translate francais v12s33_door2_ef9ca4b5:
 
     # sa "Sorry about the other night."
-    sa "Désolée pour l'autre soir."
+    sa ""
 
-# game/v12/scene33.rpy:735
+# game/v12/scene33.rpy:734
 translate francais v12s33_door2_5cb726ec:
 
     # u "*Chuckles* Don't worry about it, Sam. Just be careful of how much you drink next time, yeah?"
-    u "*Rire* T'inquiète pas pour ça, Sam. Fais juste attention à la quantité que tu bois la prochaine fois, ok ?"
+    u ""
 
-# game/v12/scene33.rpy:740
+# game/v12/scene33.rpy:739
 translate francais v12s33_door2_05bf3e22:
 
     # cl "Oh, umm... What happened the other night?"
-    cl "Oh, humm... Que s'est-il passé l'autre nuit ?"
+    cl ""
 
-# game/v12/scene33.rpy:745
+# game/v12/scene33.rpy:744
 translate francais v12s33_door2_60cf52a4:
 
     # sa "*Sighs* I was drunk and kept bothering him with a bunch of dumb questions after I knocked on everyone's door... His was the only one open."
-    sa "*Soupirs* J'étais ivre et j'ai commencé à le harceler avec un tas de questions stupides après avoir frappé à toutes les portes... La sienne était la seule ouverte."
+    sa ""
 
-# game/v12/scene33.rpy:750
+# game/v12/scene33.rpy:749
 translate francais v12s33_door2_2b38ac48:
 
     # au "*Chuckles* Volunteered and didn't even know it."
-    au "*Rire* Bénévole et sans le savoir."
+    au ""
 
-# game/v12/scene33.rpy:755
+# game/v12/scene33.rpy:754
 translate francais v12s33_door2_ff223546:
 
     # u "Yep."
-    u "Ouaip."
+    u ""
 
-# game/v12/scene33.rpy:761
+# game/v12/scene33.rpy:760
 translate francais v12s33_door2_c4e4fe12:
 
     # u "What have you been up to in here? So far it sounds like you were talking about us guys."
-    u "Qu'est-ce que vous faites ici ? Apparemment, vous parliez de nous."
+    u ""
 
-# game/v12/scene33.rpy:766
+# game/v12/scene33.rpy:765
 translate francais v12s33_door2_02963682:
 
     # cl "Is that a bad thing?"
-    cl "C'est une mauvaise chose ?"
+    cl ""
 
-# game/v12/scene33.rpy:774
+# game/v12/scene33.rpy:773
 translate francais v12s33_door2_e4e2d44d:
 
     # u "Not at all, you can talk about me all you want. I like knowing I'm on your mind... *Chuckles*"
-    u "Pas du tout, tu peux parler de moi autant que tu veux. J'aime savoir que je suis dans ton esprit... *Rire*"
+    u ""
 
-# game/v12/scene33.rpy:779
+# game/v12/scene33.rpy:778
 translate francais v12s33_door2_ea32ba8f:
 
     # cl "Ha... Is that so?"
-    cl "Ha... C'est comme ça ?"
+    cl ""
 
-# game/v12/scene33.rpy:784
+# game/v12/scene33.rpy:783
 translate francais v12s33_door2_2abd3bd7:
 
     # u "It is."
-    u "C'est vrai."
+    u ""
 
-# game/v12/scene33.rpy:789
+# game/v12/scene33.rpy:788
 translate francais v12s33_door2_f1882666:
 
     # cl "Then I guess I should be glad I lost the bet and you showed up."
-    cl "Alors je crois que je devrais être contente d'avoir perdu le pari et que tu sois venu."
+    cl ""
 
-# game/v12/scene33.rpy:794
+# game/v12/scene33.rpy:793
 translate francais v12s33_door2_f783b33a:
 
     # u "Be careful talking like that."
-    u "Fais attention quand tu parles comme ça."
+    u ""
 
-# game/v12/scene33.rpy:799
+# game/v12/scene33.rpy:798
 translate francais v12s33_door2_ce3bbff6:
 
     # cl "I'm being as careful as I wanna be... *Chuckles*"
-    cl "Je suis aussi prudente que je veux l'être... *Rire*"
+    cl ""
 
-# game/v12/scene33.rpy:804
+# game/v12/scene33.rpy:803
 translate francais v12s33_door2_cfe8e1a0:
 
     # u "Haha, alright... Noted."
-    u "Haha, d'accord... Noté."
+    u ""
 
-# game/v12/scene33.rpy:807
+# game/v12/scene33.rpy:806
 translate francais v12s33_door2_172ac297:
 
     # u "Yes, haha. Who knows what kind of crazy theories you girls may be coming up with?"
-    u "Oui, haha. Qui sait quel genre de théories folles vous allez inventer, vous les filles ?"
+    u ""
 
-# game/v12/scene33.rpy:812
+# game/v12/scene33.rpy:811
 translate francais v12s33_door2_e68660a1:
 
     # cl "We're not planning anything, just talking. *Chuckles*"
-    cl "Nous ne prévoyons rien, nous parlions simplement. *Rire*"
+    cl ""
 
-# game/v12/scene33.rpy:817
+# game/v12/scene33.rpy:816
 translate francais v12s33_door2_24c38192:
 
     # u "If you were planning something, would you tell me?"
-    u "Si tu prévoyais quelque chose, tu me le dirais ?"
+    u ""
 
-# game/v12/scene33.rpy:822
+# game/v12/scene33.rpy:821
 translate francais v12s33_door2_2b9b9763:
 
     # cl "*Chuckles* I mean, no. That'd mess up the plan."
-    cl "*Rire* Je pense, que non. Ça foutrait le plan en l'air."
+    cl ""
 
-# game/v12/scene33.rpy:827
+# game/v12/scene33.rpy:826
 translate francais v12s33_door2_61b2a94d:
 
     # u "Exactly my point..."
-    u "C'est exactement ce que je veux dire..."
+    u ""
 
-# game/v12/scene33.rpy:832
+# game/v12/scene33.rpy:831
 translate francais v12s33_door2_a044b26e:
 
     # cl "Unless you wanna end up getting caught, you may wanna get out of here. I don't think there's much time left."
-    cl "À moins que tu ne veuilles finir par te faire prendre, tu devrais partir d'ici. Je pense qu'il ne reste plus beaucoup de temps."
+    cl ""
 
-# game/v12/scene33.rpy:837
+# game/v12/scene33.rpy:836
 translate francais v12s33_door2_95238eef:
 
     # u "You're right, see you around ladies!"
-    u "Tu as raison, à plus tard, mesdames !"
+    u ""
 
-# game/v12/scene33.rpy:842
+# game/v12/scene33.rpy:841
 translate francais v12s33_door2_d1de2fd4:
 
     # au "See ya, [name]."
-    au "À plus, [name]."
+    au ""
 
-# game/v12/scene33.rpy:847
+# game/v12/scene33.rpy:846
 translate francais v12s33_door2_dad10c61:
 
     # sa "Bye, [name]."
-    sa "Bye, [name]."
+    sa ""
 
-# game/v12/scene33.rpy:861
+# game/v12/scene33.rpy:860
 translate francais v12s33_door2_64d70bff:
 
     # lmass "Alright gentlemen, it is time for you to swap with the ladies."
-    lmass "Très bien messieurs, il est temps pour vous d'échanger avec les dames."
+    lmass ""
 
-# game/v12/scene33.rpy:883
+# game/v12/scene33.rpy:882
 translate francais v12s33_door3_23571802:
 
     # u "Hey, ladies!"
-    u "Hey, mesdames !"
+    u ""
 
-# game/v12/scene33.rpy:892
+# game/v12/scene33.rpy:891
 translate francais v12s33_door3_5b5a2f02:
 
     # pe "Hey, [name]."
-    pe "Hey, [name]."
+    pe ""
 
-# game/v12/scene33.rpy:897
+# game/v12/scene33.rpy:896
 translate francais v12s33_door3_bc37dbcf:
 
     # am "You know, [name], This is why you and I get along... You're a rule breaker just like me. *Chuckles*"
-    am "Tu sais, [name], c'est pour ça que toi et moi on s'entend bien... Tu es un briseur de règles, tout comme moi. *Rire*"
+    am ""
 
-# game/v12/scene33.rpy:902
+# game/v12/scene33.rpy:901
 translate francais v12s33_door3_de37322b:
 
     # u "Hanging with the boys was getting on my nerves a bit, thought you ladies would be more entertaining..."
-    u "Traîner avec les garçons me tapait un peu sur les nerfs, je pensais que vous seriez plus amusantes..."
+    u ""
 
-# game/v12/scene33.rpy:907
+# game/v12/scene33.rpy:906
 translate francais v12s33_door3_8e2ed356:
 
     # am "Not much to do in a sauna except sweat, but Lindsey just told me some juicy details about her running for President of the Chicks."
-    am "Il n'y a pas grand chose à faire dans un sauna à part transpirer, mais Lindsey vient de me raconter des détails juteux sur sa candidature à la présidence des Chicks."
+    am ""
 
-# game/v12/scene33.rpy:912
+# game/v12/scene33.rpy:911
 translate francais v12s33_door3_331db3f4:
 
     # u "Ooooh... Yeah, I know all about that."
-    u "Ooooh... Ouais, je sais tout ça."
+    u ""
 
-# game/v12/scene33.rpy:917
+# game/v12/scene33.rpy:916
 translate francais v12s33_door3_9f7d4eec:
 
     # am "Did you know most of the Chicks back at campus have already promised to vote for her?"
-    am "Tu sais que la plupart des Chicks du campus ont déjà promis de voter pour elle ?"
+    am ""
 
-# game/v12/scene33.rpy:922
+# game/v12/scene33.rpy:921
 translate francais v12s33_door3_8460c480:
 
     # u "Wow, Lindsey... Really?"
-    u "Wow, Lindsey... C'est vrai ?"
+    u ""
 
-# game/v12/scene33.rpy:927
+# game/v12/scene33.rpy:926
 translate francais v12s33_door3_96e84983:
 
     # li "Ha... Yeah, one of the girls has been doing some polling for me."
-    li "Ha... Ouais, une des filles a fait quelques sondages pour moi."
+    li ""
 
-# game/v12/scene33.rpy:929
+# game/v12/scene33.rpy:928
 translate francais v12s33_door3_ed62d2e7:
 
     # li "Some girls are still on the fence, but it's looking really good for me so far."
-    li "Certaines filles sont encore hésitantes, mais pour l'instant, ça se présente très bien pour moi."
+    li ""
 
-# game/v12/scene33.rpy:934
+# game/v12/scene33.rpy:933
 translate francais v12s33_door3_0bb62963:
 
     # am "You already know how Nora's voting, so Aubrey's your wildcard. Her and Chloe are close and all, but I know that even she wants to see some changes."
-    am "Tu connais déjà le vote de Nora, alors Aubrey est ton joker. Elle et Chloé sont proches et tout, mais je sais que même elle veut voir des changements."
+    am ""
 
-# game/v12/scene33.rpy:939
+# game/v12/scene33.rpy:938
 translate francais v12s33_door3_cd979f1f:
 
     # li "I think when things start unfolding, we're gonna start seeing a more serious side of Aubrey."
-    li "Je pense que quand les choses vont commencer à se développer, on va commencer à voir un côté plus sérieux d'Aubrey."
+    li ""
 
-# game/v12/scene33.rpy:940
+# game/v12/scene33.rpy:939
 translate francais v12s33_door3_60a61bf9:
 
     # li "She's pretty laid back, but she does really care about things when it comes to the Chicks."
-    li "Elle est plutôt décontractée, mais elle s'intéresse vraiment aux choses quand il s'agit des Chicks."
+    li ""
 
-# game/v12/scene33.rpy:945
+# game/v12/scene33.rpy:944
 translate francais v12s33_door3_a744aeaf:
 
     # u "Well, I just wish you guys the best. I want nothing but good for everyone, however that may look in the end."
-    u "Eh bien, je te souhaite juste le meilleur. Je veux que du bien pour tout le monde, peu importe comment ça se termine."
+    u ""
 
-# game/v12/scene33.rpy:950
+# game/v12/scene33.rpy:949
 translate francais v12s33_door3_b14058a1:
 
     # am "Nah, I wanna see some drama! *Chuckles*"
-    am "Nan, je veux voir du drame ! *Rire*"
+    am ""
 
-# game/v12/scene33.rpy:955
+# game/v12/scene33.rpy:954
 translate francais v12s33_door3_6f7f3e7a:
 
     # li "Amber! *Chuckles*"
-    li "Amber ! *Rire*"
+    li ""
 
-# game/v12/scene33.rpy:960
+# game/v12/scene33.rpy:959
 translate francais v12s33_door3_ada1c816:
 
     # am "*Laughs* What? I'm just being honest... I still want everything to work out in the end, but there's no reason I can't get a good show along the way."
-    am "*Rire* Quoi ? Je suis honnête... Je veux toujours que tout s'arrange à la fin, mais il n'y a aucune raison que je puisse pas avoir un bon spectacle en cours de route."
+    am ""
 
-# game/v12/scene33.rpy:965
+# game/v12/scene33.rpy:964
 translate francais v12s33_door3_c76a2678:
 
     # li "You're terrible..."
-    li "Tu es terrible..."
+    li ""
 
-# game/v12/scene33.rpy:970
+# game/v12/scene33.rpy:969
 translate francais v12s33_door3_10817abc:
 
     # am "Haha... Guilty."
-    am "Haha... Coupable."
+    am ""
 
-# game/v12/scene33.rpy:975
+# game/v12/scene33.rpy:974
 translate francais v12s33_door3_0c48ea59:
 
     # u "*Chuckles* You guys are something else."
-    u "*Rire* Tu es vraiment différente."
+    u ""
 
-# game/v12/scene33.rpy:980
+# game/v12/scene33.rpy:979
 translate francais v12s33_door3_69548c62:
 
     # li "[name], you may wanna step out before you get caught. *Chuckles*"
-    li "[name], tu devrais sortir avant de te faire prendre. *Rire*"
+    li ""
 
-# game/v12/scene33.rpy:985
+# game/v12/scene33.rpy:984
 translate francais v12s33_door3_409dd2e7:
 
     # u "*Shocked* You're kicking me out? Am I that boring you? Wow..."
-    u "*Choqué* Tu me mets à la porte ? Est-ce que je t'ennuie à ce point ? Ouah..."
+    u ""
 
-# game/v12/scene33.rpy:990
+# game/v12/scene33.rpy:989
 translate francais v12s33_door3_2f031b7f:
 
     # li "No, I was just saying-"
-    li "Non, je disais juste-"
+    li ""
 
-# game/v12/scene33.rpy:995
+# game/v12/scene33.rpy:994
 translate francais v12s33_door3_ec1da567:
 
     # u "*Laughs* I'm just messing with you. You're right though, I'll catch you guys later."
-    u "*Rire* Je me fous de toi. Tu as raison, je vous verrai plus tard."
+    u ""
 
-# game/v12/scene33.rpy:1000
+# game/v12/scene33.rpy:999
 translate francais v12s33_door3_6e94d2fc:
 
     # am "Later."
-    am "À plus."
+    am ""
 
-# game/v12/scene33.rpy:1006
+# game/v12/scene33.rpy:1005
 translate francais v12s33_door3_5a4b32a1:
 
     # pe "Bye, [name]!"
-    pe "Bye, [name] !"
+    pe ""
 
-# game/v12/scene33.rpy:1020
+# game/v12/scene33.rpy:1019
 translate francais v12s33_door3_64d70bff:
 
     # lmass "Alright gentlemen, it is time for you to swap with the ladies."
-    lmass "Très bien messieurs, il est temps pour vous d'échanger avec les dames."
+    lmass ""
 
-# game/v12/scene33.rpy:1031
+# game/v12/scene33.rpy:1030
 translate francais v12s33_three_doors_back_f1075c56:
 
     # ry "Fuck's sake... Took you long enough."
-    ry "Bordel de merde... t'en as mis du temps."
+    ry ""
 
-# game/v12/scene33.rpy:1033
+# game/v12/scene33.rpy:1032
 translate francais v12s33_three_doors_back_b7b39f60:
 
     # u "It's not my fault you don't take man shits like I do. *Laughs*"
-    u "Ce n'est pas ma faute si tu chies pas comme un mec comme moi. *Rire*"
+    u ""
 
-# game/v12/scene33.rpy:1035
+# game/v12/scene33.rpy:1034
 translate francais v12s33_three_doors_back_1cf224fa:
 
     # u "I'm just glad I made it back in time for my massage..."
-    u "Je suis en tout cas, content d'être revenu à temps pour mon massage..."
+    u ""
 
-# game/v12/scene33.rpy:1040
+# game/v12/scene33.rpy:1039
 translate francais v12s33_three_doors_back_92df12a4:
 
     # lmass "Actually, we need to switch with the ladies at this time."
-    lmass "Il est temps d'échanger avec les femmes."
+    lmass ""
 
-# game/v12/scene33.rpy:1042
+# game/v12/scene33.rpy:1041
 translate francais v12s33_three_doors_back_fecdd0f1:
 
     # u "Damnit."
-    u "Merde."
+    u ""
 
-# game/v12/scene33.rpy:1047
+# game/v12/scene33.rpy:1046
 translate francais v12s33_three_doors_back_4d0230c9:
 
     # imre "Next time [name], but thank you. I got a nice massage from the hotshot while you were gone, and let me just say... Those hands are silky smooth."
-    imre "La prochaine fois [name], mais merci. J'ai eu un bon massage par la bombe pendant que t'étais parti, et laisse moi te dire... Ces mains sont douces comme d'la soie."
+    imre ""
 
-# game/v12/scene33.rpy:1049
+# game/v12/scene33.rpy:1048
 translate francais v12s33_three_doors_back_287f0e2a:
 
     # lmass "*Sighs*"
-    lmass "*Soupirs*"
+    lmass ""
 
-# game/v12/scene33.rpy:1054
+# game/v12/scene33.rpy:1053
 translate francais v12s33_three_doors_back_37f343e4:
 
     # lee "Let's go, students."
-    lee "Allons-y, les jeunes."
+    lee ""
 
-# game/v12/scene33.rpy:1071
+# game/v12/scene33.rpy:1070
 translate francais v12s33_sauna_04f56f08:
 
     # imre "Aww, hell no! How is this supposed to be relaxing? It's hot as hell in here, dude."
-    imre "Oh, non ! Comment c'est supposé être relaxant ? Il fait aussi chaud qu'en enfer ici, mec."
+    imre ""
 
-# game/v12/scene33.rpy:1076
+# game/v12/scene33.rpy:1075
 translate francais v12s33_sauna_859c2252:
 
     # ch "Just try to enjoy it, man."
-    ch "Essaie juste d'en profiter, mec."
+    ch ""
 
-# game/v12/scene33.rpy:1081
+# game/v12/scene33.rpy:1080
 translate francais v12s33_sauna_f9219824:
 
     # lee "Complaining won't make it any more enjoyable, Imre. Just relax."
-    lee "Se plaindre ne rendra pas les choses plus agréables, Imre. Détendez-vous."
+    lee ""
 
-# game/v12/scene33.rpy:1086
+# game/v12/scene33.rpy:1085
 translate francais v12s33_sauna_c95e84ca:
 
     # imre "Hmm, this is kind of nice."
-    imre "Hmm, c'est plutôt agréable."
+    imre ""
 
-# game/v12/scene33.rpy:1091
+# game/v12/scene33.rpy:1090
 translate francais v12s33_sauna_dbc4acf9:
 
     # ry "Wow..."
-    ry "Wow..."
+    ry ""
 
-# game/v12/scene33.rpy:1096
+# game/v12/scene33.rpy:1095
 translate francais v12s33_sauna_54d5640a:
 
     # u "I could get used to this."
-    u "Je pourrais m'y faire."
+    u ""
 
-# game/v12/scene33.rpy:1101
+# game/v12/scene33.rpy:1100
 translate francais v12s33_sauna_94dfecc0:
 
     # imre "I already am. *Chuckles*"
-    imre "J'm'y suis déjà habitué. *Rire*"
+    imre ""
 
-# game/v12/scene33.rpy:1106
+# game/v12/scene33.rpy:1105
 translate francais v12s33_sauna_1955f674:
 
     # lee "You know... Bluntly? As much as you little rats annoy me, you're still like the sons I never had. It makes me happy to see that you're having a good time."
-    lee "Vous savez... franchement ? Même si vous m'agacez, vous êtes comme les fils que je n'ai jamais eus. Je suis heureux de voir que vous passez un bon moment."
+    lee ""
 
-# game/v12/scene33.rpy:1111
+# game/v12/scene33.rpy:1110
 translate francais v12s33_sauna_f9b35ed8:
 
     # u "Thanks, Mr. Lee."
-    u "Merci, Mr Lee."
+    u ""
 
-# game/v12/scene33.rpy:1116
+# game/v12/scene33.rpy:1115
 translate francais v12s33_sauna_5ce27ad1:
 
     # lee "Of course."
-    lee "Pas de quoi."
+    lee ""
 
-# game/v12/scene33.rpy:1121
+# game/v12/scene33.rpy:1120
 translate francais v12s33_sauna_4d62cf9f:
 
     # imre "Yeah, you wouldn't be that bad of a dad."
-    imre "Ouais, vous seriez pas un si mauvais père."
+    imre ""
 
-# game/v12/scene33.rpy:1126
+# game/v12/scene33.rpy:1125
 translate francais v12s33_sauna_f5cb9ec3:
 
     # ch "Am I allowed to give a compliment? *Chuckles*"
-    ch "J'ai le droit de faire un compliment ? *Rire*"
+    ch ""
 
-# game/v12/scene33.rpy:1131
+# game/v12/scene33.rpy:1130
 translate francais v12s33_sauna_b4095c56:
 
     # lee "That'll count as one..."
-    lee "Ça ira pour un..."
+    lee ""
 
-# game/v12/scene33.rpy:1142
+# game/v12/scene33.rpy:1141
 translate francais v12s33_sauna_347de345:
 
     # u "Oh yeah, Ryan! I forgot to ask why you decided to dye your hair..."
-    u "Oh ouais, Ryan ! J'ai oublié de te demander, pourquoi t'as décidé de te teindre les cheveux..."
+    u ""
 
-# game/v12/scene33.rpy:1147
+# game/v12/scene33.rpy:1146
 translate francais v12s33_sauna_44f88744:
 
     # imre "He's trying to look as good as me, [name]. Tall, dark and handsome."
-    imre "Il essaie d'être aussi beau que moi, [name]. Grand, beau et brun."
+    imre ""
 
-# game/v12/scene33.rpy:1152
+# game/v12/scene33.rpy:1151
 translate francais v12s33_sauna_3c4f4b29:
 
     # ry "Uh, hell no... I lost a bet. \"Hashtag roasted ape\". Ha..."
-    ry "Euh, non... J'ai perdu un pari. \"Hashtag ape rôti\". Ha..."
+    ry ""
 
-# game/v12/scene33.rpy:1157
+# game/v12/scene33.rpy:1156
 translate francais v12s33_sauna_08299fc9:
 
     # imre "Wow, that was sad."
-    imre "Wow, c'est triste."
+    imre ""
 
-# game/v12/scene33.rpy:1162
+# game/v12/scene33.rpy:1161
 translate francais v12s33_sauna_fcc18885:
 
     # u "*Laughs*"
-    u "*Rire*"
+    u ""
 
-# game/v12/scene33.rpy:1173
+# game/v12/scene33.rpy:1172
 translate francais v12s33_sauna_03a715d4:
 
     # ry "Nice cupcake by the way, Imre. *Laughs* Is that the flavor of your nipples?"
-    ry "Au fait, joli le cupcake, Imre. *Rire* C'est le goût de tes tétons ?"
+    ry ""
 
-# game/v12/scene33.rpy:1178
+# game/v12/scene33.rpy:1177
 translate francais v12s33_sauna_54b4acb5:
 
     # imre "Shut the hell up... It was a \"pick at random\" tattoo parlor, alright?"
-    imre "Ferme ta gueule... C'était un salon de tatouage pris \"au hasard\", d'accord ?"
+    imre ""
 
-# game/v12/scene33.rpy:1183
+# game/v12/scene33.rpy:1182
 translate francais v12s33_sauna_085421e3:
 
     # u "Haha, alright... I can't say it doesn't suit you, though."
-    u "Haha, d'accord... Je peux pas dire que ça te va pas, par contre."
+    u ""
 
-# game/v12/scene33.rpy:1188
+# game/v12/scene33.rpy:1187
 translate francais v12s33_sauna_16bc2c48:
 
     # imre "Thanks... I think."
-    imre "Merci... Je crois."
+    imre ""
 
-# game/v12/scene33.rpy:1193
+# game/v12/scene33.rpy:1192
 translate francais v12s33_sauna_2209f6a3:
 
     # lee "*Chuckles* Alright, enough bantering. Let’s go back to silently relaxing, boys."
-    lee "*Rire* Très bien, assez de plaisanteries. Replongeons-nous dans une relaxation silencieuse, les gars."
+    lee ""
 
-# game/v12/scene33.rpy:1220
+# game/v12/scene33.rpy:1219
 translate francais v12s33_sauna_a2bfc20e:
 
     # lee "Alright, I've just about melted..."
-    lee "Bon, j'ai presque fondu..."
+    lee ""
 
-# game/v12/scene33.rpy:1225
+# game/v12/scene33.rpy:1224
 translate francais v12s33_sauna_7d550ac1:
 
     # u "Same, haha."
-    u "Pareil, haha."
+    u ""
 
-# game/v12/scene33.rpy:1230
+# game/v12/scene33.rpy:1229
 translate francais v12s33_sauna_b77a9300:
 
     # lee "Very well, let's make our way out of here then."
-    lee "Bon, alors, sortons d'ici."
+    lee ""
 
-# game/v12/scene33.rpy:1242
+# game/v12/scene33.rpy:1241
 translate francais v12s33_sneak_off2_466f3cb7:
 
     # u "You guys are gonna think I'm playing around, but I seriously have to poop again."
-    u "Vous allez croire que je déconne, mais j'ai vraiment envie de refaire caca."
+    u ""
 
-# game/v12/scene33.rpy:1246
+# game/v12/scene33.rpy:1245
 translate francais v12s33_sneak_off2_0b9541a5:
 
     # imre "Bro, there's no way... Unless you're sick?"
-    imre "Mec, y a pas moyen... À moins qu'tu sois malade ?"
+    imre ""
 
-# game/v12/scene33.rpy:1250
+# game/v12/scene33.rpy:1249
 translate francais v12s33_sneak_off2_a20c934b:
 
     # u "Nah, I'm not sick."
-    u "Nan, je suis pas malade."
+    u ""
 
-# game/v12/scene33.rpy:1254
+# game/v12/scene33.rpy:1253
 translate francais v12s33_sneak_off2_89dd973a:
 
     # ry "If you're not sick then, there's no way you gotta use the restroom again."
-    ry "Si tu n'es pas malade, il n'y a pas de raison que tu ailles encore aux toilettes."
+    ry ""
 
-# game/v12/scene33.rpy:1259
+# game/v12/scene33.rpy:1258
 translate francais v12s33_sneak_off2_9a480a1c:
 
     # u "Sorry guys, I suddenly really gotta poop..."
-    u "Désolé les gars, j'ai soudain vraiment envie de chier..."
+    u ""
 
-# game/v12/scene33.rpy:1263
+# game/v12/scene33.rpy:1262
 translate francais v12s33_sneak_off2_8dc58587:
 
     # imre "*Laughs* Gross dude! You don't need to announce it."
-    imre "*Rire* Dégueu, mec ! T'as pas besoin de l'annoncer."
+    imre ""
 
-# game/v12/scene33.rpy:1267
+# game/v12/scene33.rpy:1266
 translate francais v12s33_sneak_off2_636a0944:
 
     # ry "*Laughs*"
-    ry "*Rire*"
+    ry ""
 
-# game/v12/scene33.rpy:1271
+# game/v12/scene33.rpy:1270
 translate francais v12s33_sneak_off2_9ad7bbe6:
 
     # lee "Please, [name], just go."
-    lee "S'il vous plaît, [name], allez-y simplement."
+    lee ""
 
-# game/v12/scene33.rpy:1276
+# game/v12/scene33.rpy:1275
 translate francais v12s33_sneak_off2_6375ec5a:
 
     # imre "You're just going to see the girls, aren't you?"
-    imre "Tu vas aller voir les filles, hein ?"
+    imre ""
 
-# game/v12/scene33.rpy:1281
+# game/v12/scene33.rpy:1280
 translate francais v12s33_sneak_off2_6f9728ab:
 
     # u "*Chuckles* No, I'm using the restroom."
-    u "*Rire* Non, je vais juste aux toilettes."
+    u ""
 
-# game/v12/scene33.rpy:1286
+# game/v12/scene33.rpy:1285
 translate francais v12s33_sneak_off2_408e5e08:
 
     # imre "Okay then, I'll come with you."
-    imre "Ok alors, j'viens avec toi."
+    imre ""
 
-# game/v12/scene33.rpy:1291
+# game/v12/scene33.rpy:1290
 translate francais v12s33_sneak_off2_f150bf3a:
 
     # lee "How would you going with him to the bathroom, be helpful? He's got two hands."
-    lee "En quoi le fait d'aller avec lui aux toilettes serait utile ? Il devrait avoir assez de ses deux mains."
+    lee ""
 
-# game/v12/scene33.rpy:1296
+# game/v12/scene33.rpy:1295
 translate francais v12s33_sneak_off2_aee9f677:
 
     # imre "Woah, I wasn't saying... *Sighs* Nevermind."
-    imre "Woah, j'disais pas... *Soupirs* Oubliez ça."
+    imre ""
 
-# game/v12/scene33.rpy:1301
+# game/v12/scene33.rpy:1300
 translate francais v12s33_sneak_off2_4c3fd6d6:
 
     # u "Ha, alright then... I'll be back."
-    u "Ha, d'accord alors... Je vais revenir."
+    u ""
 
-# game/v12/scene33.rpy:1309
+# game/v12/scene33.rpy:1308
 translate francais v12s33_sneak_off2_a7a4d94e:
 
     # u "(I'm gonna have to crawl if I don't wanna be seen.)"
-    u "(Je vais devoir ramper si je veux pas être vu.)"
+    u ""
 
-# game/v12/scene33.rpy:1319
+# game/v12/scene33.rpy:1318
 translate francais v12s33_sneak_off2_6d255190:
 
     # am "*Whisper* What on earth are you doing?! *Chuckles*"
-    am "*Chuchote* Mais qu'est-ce que tu fais ?! *Rire*"
+    am ""
 
-# game/v12/scene33.rpy:1324
+# game/v12/scene33.rpy:1323
 translate francais v12s33_sneak_off2_c462aaf7:
 
     # u "*Whisper* Enjoying myself? Making the most of the moment?"
-    u "*Chuchote* Je m'amuse ! Je profite au maximum de l'instant présent."
+    u ""
 
-# game/v12/scene33.rpy:1329
+# game/v12/scene33.rpy:1328
 translate francais v12s33_sneak_off2_2f345b76:
 
     # am "*Whisper* You're a bit of a perv, you know. *Chuckles*"
-    am "*Chuchote* T'es un petit pervers, tu sais. *Rire*"
+    am ""
 
-# game/v12/scene33.rpy:1334
+# game/v12/scene33.rpy:1333
 translate francais v12s33_sneak_off2_d2a462d9:
 
     # u "*Whisper* Call me what you want, but I'd rather get caught being a perv than sit around in a sauna with a bunch of guys circle jerking each other. *Chuckles*"
-    u "*Chuchote* Appelle-moi comme tu veux, mais je préfère me faire traiter de pervers que de m'asseoir dans un sauna avec une bande de mecs qui se branlent.  *Rire*"
+    u ""
 
-# game/v12/scene33.rpy:1339
+# game/v12/scene33.rpy:1338
 translate francais v12s33_sneak_off2_2b302ad6:
 
     # am "*Whisper* Haha! Okay, you have a point. Maybe you're just an evolved straight man..."
-    am "*Chuchote* Haha ! Ok, tu marques un point. Peut-être que tu es juste un mec hétéro amélioré..."
+    am ""
 
-# game/v12/scene33.rpy:1344
+# game/v12/scene33.rpy:1343
 translate francais v12s33_sneak_off2_77880a9a:
 
     # u "*Whisper* See, you get it."
-    u "*Chuchote* Tu vois, tu as tout compris."
+    u ""
 
-# game/v12/scene33.rpy:1349
+# game/v12/scene33.rpy:1348
 translate francais v12s33_sneak_off2_790d4521:
 
     # am "*Whisper* I'm not snitching, but I'm not missing out on this massage either so, you're gonna have to leave me be."
-    am "*Chuchote* Je vais pas te balancer, mais je veux pas non plus rater ce massage, donc, tu vas devoir me laisser tranquille."
+    am ""
 
-# game/v12/scene33.rpy:1354
+# game/v12/scene33.rpy:1353
 translate francais v12s33_sneak_off2_cdb0479d:
 
     # u "*Whisper* Haha, alright."
-    u "*Chuchote* Haha, d'accord."
+    u ""
 
-# game/v12/scene33.rpy:1362
+# game/v12/scene33.rpy:1361
 translate francais v12s33_sneak_off2_2ff635e9:
 
     # u "*Whisper* Nora Nora, can I \"bora bora\" you?"
-    u "*Chuchote* Nora Nora, je peux te \"Soula Soula\" ?"
+    u ""
 
-# game/v12/scene33.rpy:1367
+# game/v12/scene33.rpy:1366
 translate francais v12s33_sneak_off2_b838ccf5:
 
     # no "*Whisper* Holy shit! You scared me!"
-    no "*Chuchote* Putain de merde ! Tu m'as fait peur !"
+    no ""
 
-# game/v12/scene33.rpy:1372
+# game/v12/scene33.rpy:1371
 translate francais v12s33_sneak_off2_c15e9009:
 
     # u "*Whisper* Haha, sorry!"
-    u "*Chuchote* Haha, désolé !"
+    u ""
 
-# game/v12/scene33.rpy:1377
+# game/v12/scene33.rpy:1376
 translate francais v12s33_sneak_off2_d7cbf035:
 
     # no "*Whisper* What the fuck are you doing here?"
-    no "*Chuchote* Qu'est-ce que tu fais ici ?"
+    no ""
 
-# game/v12/scene33.rpy:1382
+# game/v12/scene33.rpy:1381
 translate francais v12s33_sneak_off2_b22b9fdd:
 
     # u "*Whisper* Something that isn't boring... I thought I'd come and talk to you guys."
-    u "*Chuchote* Quelque chose qui n'est pas chiant... J'ai pensé que je pourrais venir et vous parler."
+    u ""
 
-# game/v12/scene33.rpy:1387
+# game/v12/scene33.rpy:1386
 translate francais v12s33_sneak_off2_40054557:
 
     # no "*Whisper* What if you get-"
-    no "*Chuchote* Et si tu..."
+    no ""
 
-# game/v12/scene33.rpy:1392
+# game/v12/scene33.rpy:1391
 translate francais v12s33_sneak_off2_ab2cdf54:
 
     # ro "[name]! I don't believe you're supposed to be here."
-    ro "[name] ! Je ne crois pas que vous soyez censé être ici."
+    ro ""
 
-# game/v12/scene33.rpy:1397
+# game/v12/scene33.rpy:1396
 translate francais v12s33_sneak_off2_5e3aa1be:
 
     # u "My bad, I uhm... got lost."
-    u "C'est ma faute, je me suis... perdu."
+    u ""
 
-# game/v12/scene33.rpy:1410
+# game/v12/scene33.rpy:1409
 translate francais v12s33_sneak_off2_71adde92:
 
     # u "What's going on?"
-    u "Qu'est-ce qu'il y a ?"
+    u ""
 
-# game/v12/scene33.rpy:1415
+# game/v12/scene33.rpy:1414
 translate francais v12s33_sneak_off2_9bb9c1eb:
 
     # imre "We're leaving bro, it's hot as hell in here."
-    imre "On s'en va mon frère, il fait une chaleur d'enfer ici."
+    imre ""
 
-# game/v12/scene33.rpy:1420
+# game/v12/scene33.rpy:1419
 translate francais v12s33_sneak_off2_88d2dbb1:
 
     # u "Oh, okay."
-    u "Oh, okay."
+    u ""
 
 translate francais strings:
 
-    # game/v12/scene33.rpy:771
+    # game/v12/scene33.rpy:770
     old "Yes, haha"
-    new "Oui, haha"
+    new ""
 
-    # game/v12/scene33.rpy:1356
+    # game/v12/scene33.rpy:1355
     old "Crawl to the next table"
-    new "Ramper jusqu'à la table suivante"
+    new ""
 
-    # game/v12/scene33.rpy:1356
+    # game/v12/scene33.rpy:1355
     old "Go back to the sauna"
-    new "Retournez au sauna"
+    new ""
+

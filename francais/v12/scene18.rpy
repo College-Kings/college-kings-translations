@@ -1,1781 +1,1782 @@
-﻿# TODO: Translation updated at 2021-12-28 13:34
+﻿# TODO: Translation updated at 2022-08-22 08:06
 
 # game/v12/scene18.rpy:21
 translate francais v12_slumber_party_4643fce2:
 
     # au "Okay, guys. Everyone go to your room and get changed into your pajamas then off to Riley's room."
-    au "Ok, les amis. Tout le monde va dans sa chambre, met son pyjama puis on va tous dans la chambre de Riley."
+    au ""
 
 # game/v12/scene18.rpy:26
 translate francais v12_slumber_party_a639e265:
 
     # imre "If you want to sleep together Aubrey, just say it."
-    imre "Aubrey, si tu veux qu'on couche ensemble, dis-le tout simplement."
+    imre ""
 
 # game/v12/scene18.rpy:31
 translate francais v12_slumber_party_95da721f:
 
     # au "Haha, just hurry up."
-    au "Haha, dépêche-toi."
+    au ""
 
 # game/v12/scene18.rpy:36
 translate francais v12_slumber_party_34fe12c5:
 
     # li "Umm... What are you guys planning?"
-    li "Humm... Qu'est-ce que vous avez prévu ?"
+    li ""
 
 # game/v12/scene18.rpy:41
 translate francais v12_slumber_party_3897b1d7:
 
     # au "You'll see. Just go get changed."
-    au "Tu vas voir. Va te changer."
+    au ""
 
 # game/v12/scene18.rpy:46
 translate francais v12_slumber_party_8ccabc29:
 
     # u "*Chuckles* Okay."
-    u "*Rire* Ok."
+    u ""
 
 # game/v12/scene18.rpy:62
 translate francais v12_slumber_party_190e1233:
 
     # u "Are you gonna tell me what's going on?"
-    u "Tu vas enfin me dire ce qui se passe ?"
+    u ""
 
 # game/v12/scene18.rpy:67
 translate francais v12_slumber_party_6eca614d:
 
     # ri "We're throwing a slumber party for Lindsey and the teachers can't know, so keep it on the hush hush."
-    ri "On organise une soirée pyjama pour Lindsey et les profs ne doivent pas le savoir, alors garde le secret."
+    ri ""
 
 # game/v12/scene18.rpy:72
 translate francais v12_slumber_party_1563a959:
 
     # u "What if I was tired and didn't wanna deal with a thousand people in my room while I slept?"
-    u "Et si j'étais fatigué et que je voulais pas avoir à gérer un millier de personnes dans ma chambre pendant que je dors ?"
+    u ""
 
 # game/v12/scene18.rpy:77
 translate francais v12_slumber_party_db1b0014:
 
     # ri "Then you can sleep in the lobby."
-    ri "Alors tu pourrais dormir dans le couloir."
+    ri ""
 
 # game/v12/scene18.rpy:82
 translate francais v12_slumber_party_e5e71f9b:
 
     # u "How kind...?"
-    u "Comment ça...?"
+    u ""
 
 # game/v12/scene18.rpy:87
 translate francais v12_slumber_party_64bbe977:
 
     # ri "*Chuckles* Sorry, this was a last minute thing. Aubrey and I were talking about doing a slumber party, but she acted like it had to be tonight for Lindsey."
-    ri "*Rire* Désolée, c'était un truc de dernière minute. Aubrey et moi voulions faire une soirée pyjama, mais elle a décidé que ça devait être ce soir pour Lindsey."
+    ri ""
 
 # game/v12/scene18.rpy:92
 translate francais v12_slumber_party_333afaa8:
 
     # u "It's all good, I'm sure it'll be fun."
-    u "T'inquiète pas, je suis sûr que ça va être amusant."
+    u ""
 
 # game/v12/scene18.rpy:128
 translate francais v12_slumber_party_5086a4ea:
 
     # u "Oh shoot, I'm sorry."
-    u "Oh mince, je suis désolé."
+    u ""
 
 # game/v12/scene18.rpy:133
 translate francais v12_slumber_party_d9f77fea:
 
     # ri "Oh you're fine, come in."
-    ri "Oh, ça va, entre."
+    ri ""
 
 # game/v12/scene18.rpy:143
 translate francais v12_slumber_party_1cdbaf9b:
 
     # u "So, what are we doing exactly?"
-    u "Alors, qu'allons-nous faire exactement ?"
+    u ""
 
 # game/v12/scene18.rpy:148
 translate francais v12_slumber_party_0f571eaa:
 
     # ri "It's a slumber party."
-    ri "Une soirée pyjama."
+    ri ""
 
 # game/v12/scene18.rpy:153
 translate francais v12_slumber_party_d11d9e72:
 
     # u "*Sarcasm* Oh, yay! Are we doing our nails too?!"
-    u "*Sarcasme* Oh, génial ! On va se faire les ongles aussi ? !"
+    u ""
 
 # game/v12/scene18.rpy:158
 translate francais v12_slumber_party_26e91ddd:
 
     # ri "*Chuckles* Just keep it on the hush hush, the teachers can't know about this."
-    ri "*Rire* Reste discret, les professeurs ne doivent pas être au courant."
+    ri ""
 
 # game/v12/scene18.rpy:163
 translate francais v12_slumber_party_462711f5:
 
     # u "My lips are sealed."
-    u "Mes lèvres resteront closes."
+    u ""
 
 # game/v12/scene18.rpy:168
 translate francais v12_slumber_party_73a7d37a:
 
     # imre "Time to party!"
-    imre "C'est l'heure de faire la fête !"
+    imre ""
 
 # game/v12/scene18.rpy:176
 translate francais v12_slumber_party_5956ea77:
 
     # u "Where's everyone else?"
-    u "Où sont tous les autres ?"
+    u ""
 
 # game/v12/scene18.rpy:181
 translate francais v12_slumber_party_952b08ec:
 
     # imre "Right behind me, but I rushed up here to get a good seat."
-    imre "Juste derrière moi, mais j'me suis précipité ici pour avoir une bonne place."
+    imre ""
 
 # game/v12/scene18.rpy:191
 translate francais v12_slumber_party_424484de:
 
     # ri "Those feet of yours better be clean."
-    ri "Tes pieds ont intérêt à être propres."
+    ri ""
 
 # game/v12/scene18.rpy:196
 translate francais v12_slumber_party_1c47832f:
 
     # imre "Like a baby's bottom."
-    imre "Ils sont comme des fesses de bébé."
+    imre ""
 
 # game/v12/scene18.rpy:201
 translate francais v12_slumber_party_edfe1afb:
 
     # ri "A baby's bottom isn't always clean."
-    ri "Les fesses de bébé ne sont pas toujours propres."
+    ri ""
 
 # game/v12/scene18.rpy:206
 translate francais v12_slumber_party_88d1c333:
 
     # imre "Okay then... Like a clean baby's bottom."
-    imre "Ok alors... Comme les fesses d'un bébé propre."
+    imre ""
 
 # game/v12/scene18.rpy:211
 translate francais v12_slumber_party_748377d4:
 
     # ri "*Chuckles* That's better."
-    ri "*Rire* C'est mieux."
+    ri ""
 
 # game/v12/scene18.rpy:221
 translate francais v12_slumber_party_54c01af9:
 
     # imre "Ahh yeah, plenty of room over here ladies!"
-    imre "Ahh ouais, j'ai plein d'place ici les filles !"
+    imre ""
 
 # game/v12/scene18.rpy:226
 translate francais v12_slumber_party_3dd7796e:
 
     # cl "We'll find somewhere to sit that isn't... dog infested. *Chuckles*"
-    cl "On trouvera un endroit où s'asseoir qui ne... pue pas le chien mouillé. *Rire*"
+    cl ""
 
 # game/v12/scene18.rpy:231
 translate francais v12_slumber_party_dfadf186:
 
     # imre "I thought girls loved puppies?"
-    imre "J'croyais qu'les filles aimaient les chiots ?"
+    imre ""
 
 # game/v12/scene18.rpy:236
 translate francais v12_slumber_party_f020100c:
 
     # li "You're a little more than a puppy. *Laughs*"
-    li "T'es un peu plus qu'un \"chiot\". *Rire*"
+    li ""
 
 # game/v12/scene18.rpy:246
 translate francais v12_slumber_party_6c40a9f1:
 
     # ch "Hey guys."
-    ch "Salut à tous."
+    ch ""
 
 # game/v12/scene18.rpy:251
 translate francais v12_slumber_party_5ff23b20:
 
     # au "Hey, hey! No cell phones tonight, ok Chris?"
-    au "Hey, hey ! PAS de téléphones ce soir, ok Chris ?"
+    au ""
 
 # game/v12/scene18.rpy:256
 translate francais v12_slumber_party_710521e9:
 
     # ch "Yeah, of course. I'll try."
-    ch "Oui, bien sûr. ...Je vais essayer."
+    ch ""
 
 # game/v12/scene18.rpy:261
 translate francais v12_slumber_party_dfb28d35:
 
     # no "Try hard."
-    no "Essaie vraiment."
+    no ""
 
 # game/v12/scene18.rpy:266
 translate francais v12_slumber_party_44e08934:
 
     # au "*Chuckles* Alright, so for those of you that still don't know, today is Lindsey's birthday."
-    au "*Rire* Bon, pour ceux qui ne le savent pas encore, c'est l'anniversaire de Lindsey aujourd'hui."
+    au ""
 
 # game/v12/scene18.rpy:271
 translate francais v12_slumber_party_397ff786:
 
     # imre "WOOHOOOO! HAPPY BIRTHD-"
-    imre "WOOHOOOO ! JOYEUX ANNIVER-"
+    imre ""
 
 # game/v12/scene18.rpy:276
 translate francais v12_slumber_party_b74c9f91:
 
     # no "IMRE! *Whispers* This better be the last time tonight that I have to tell you to shut the fuck up and quiet down... Got it?"
-    no "IMRE ! *Chuchote* J'espère que c'est la dernière fois ce soir, que je dois te dire de fermer ta gueule et de te taire... Compris ?"
+    no ""
 
 # game/v12/scene18.rpy:281
 translate francais v12_slumber_party_4116201c:
 
     # imre "Fuck ye- I mean... Yes Mom, Ma'am! I meant, um... Ma'am. Yes, ma'am."
-    imre "Putain ou... j'veux dire... Oui m'dame, maman ! Je voulais dire, heu... M'dame. Oui, m'dame."
+    imre ""
 
 # game/v12/scene18.rpy:286
 translate francais v12_slumber_party_7d7175f5:
 
     # u "(Did he just say... mom?) *Chuckles*"
-    u "(Est-ce qu'il vient de dire... maman ?) *Rire*"
+    u ""
 
 # game/v12/scene18.rpy:291
 translate francais v12_slumber_party_ae8b49bb:
 
     # no "*Whispers* \"Mom?!\""
-    no "*Chuchote* \"Maman\" ?!"
+    no ""
 
 # game/v12/scene18.rpy:296
 translate francais v12_slumber_party_de5b01aa:
 
     # u "Haha, Shhhh..."
-    u "Haha, Chuuuut..."
+    u ""
 
 # game/v12/scene18.rpy:301
 translate francais v12_slumber_party_21217e26:
 
     # au "So tonight, we're celebrating with a little slumber party! We may not all get along, but tonight, for the sake of Lindsey, let's put aside our differences and just enjoy the night."
-    au "Alors ce soir, on va fêter ça avec une petite soirée pyjama ! On ne s'entend peut-être pas tous, mais ce soir, pour le bien de Lindsey, mettons de côté nos problèmes et profitons de la soirée."
+    au ""
 
 # game/v12/scene18.rpy:306
 translate francais v12_slumber_party_ea5db2eb:
 
     # li "Aww!"
-    li "Ohhh !"
+    li ""
 
 # game/v12/scene18.rpy:316
 translate francais v12_slumber_party_c6555420:
 
     # li "Thank you so much guys. This is really sweet and honestly such a perfect surprise."
-    li "Merci beaucoup les amis. C'est vraiment gentil et franchement, c'est une surprise parfaite."
+    li ""
 
 # game/v12/scene18.rpy:321
 translate francais v12_slumber_party_db0d9bc8:
 
     # imre "Hey, an opportunity to see girls in their jam-jams is an opportunity I couldn't miss."
-    imre "Hé, une occasion d'voir des filles dans leurs pyj' est une occasion que j'pouvais franchement pas manquer."
+    imre ""
 
 # game/v12/scene18.rpy:326
 translate francais v12_slumber_party_a94cf2be:
 
     # imre "Oof!"
-    imre "Ouff !"
+    imre ""
 
 # game/v12/scene18.rpy:331
 translate francais v12_slumber_party_a40da749:
 
     # au "*Laughs* Let's have fun, guys."
-    au "*Rire* Allez, on va s'amuser, les amis."
+    au ""
 
-# game/v12/scene18.rpy:351
+# game/v12/scene18.rpy:349
 translate francais v12s18_bottlespin_2cfb2e83:
 
     # au "Hey [name], come over here and play with us?"
-    au "Hey [name], tu viens ici pour jouer avec nous ?"
+    au ""
 
-# game/v12/scene18.rpy:356
+# game/v12/scene18.rpy:354
 translate francais v12s18_bottlespin_c0fa9095:
 
     # u "Depends... What are we playing?"
-    u "Ça dépend... À quoi on joue ?"
+    u ""
 
-# game/v12/scene18.rpy:361
+# game/v12/scene18.rpy:359
 translate francais v12s18_bottlespin_4dd010ff:
 
     # au "Spin the bottle... You know you wannaaaaaaa... *Chuckles*"
-    au "Fais tourner la bouteille... Tu sais que tu veuuuuuux... *Rire*"
+    au ""
 
-# game/v12/scene18.rpy:366
+# game/v12/scene18.rpy:364
 translate francais v12s18_bottlespin_a9c78fd2:
 
     # u "Haha, alright, alright."
-    u "Haha, bien, très bien."
+    u ""
 
-# game/v12/scene18.rpy:371
+# game/v12/scene18.rpy:369
 translate francais v12s18_bottlespin_aeac3026:
 
     # au "Imre, Ryan, get over here and play with us. Chris, you too!"
-    au "Imre, Ryan, venez ici et jouez avec nous. Chris, toi aussi !"
+    au ""
 
-# game/v12/scene18.rpy:381
+# game/v12/scene18.rpy:379
 translate francais v12s18_bottlespin_87809a98:
 
     # imre "Aww yeah, we're playing spin the bottle?!"
-    imre "Ooh ouais, on joue à la bouteille ?!"
+    imre ""
 
-# game/v12/scene18.rpy:386
+# game/v12/scene18.rpy:384
 translate francais v12s18_bottlespin_9158ec8f:
 
     # au "Sure are! Lindsey and I actually played this with the girls on our first night of this semester."
-    au "Bien sûr ! Lindsey et moi avons joué à ça avec les autres filles lors de notre première soirée du semestre."
+    au ""
 
-# game/v12/scene18.rpy:391
+# game/v12/scene18.rpy:389
 translate francais v12s18_bottlespin_37cb0d32:
 
     # imre "And I didn't get an invite? Wow..."
-    imre "Et j'ai pas eu d'invitation ? Wow..."
+    imre ""
 
-# game/v12/scene18.rpy:396
+# game/v12/scene18.rpy:394
 translate francais v12s18_bottlespin_e9b291c1:
 
     # li "*Laughs*"
-    li "*Rire*"
+    li ""
 
-# game/v12/scene18.rpy:401
+# game/v12/scene18.rpy:399
 translate francais v12s18_bottlespin_2e34745d:
 
     # u "Alright... Any rules?"
-    u "D'accord... Des règles particulières ?"
+    u ""
 
-# game/v12/scene18.rpy:406
+# game/v12/scene18.rpy:404
 translate francais v12s18_bottlespin_9124e864:
 
     # au "Yeah, kiss who it lands on when you spin it. *Chuckles*"
-    au "Ouais, embrasse la personne sur laquelle il atterrit quand tu le fais tourner. *Rire*"
+    au ""
 
-# game/v12/scene18.rpy:411
+# game/v12/scene18.rpy:409
 translate francais v12s18_bottlespin_6017e85e:
 
     # u "That's a lot of rules, but I'll try to remember. *Chuckles*"
-    u "Ça fait beaucoup de règles ! Mais je vais essayer de m'en souvenir. *Rire*"
+    u ""
 
-# game/v12/scene18.rpy:416
+# game/v12/scene18.rpy:414
 translate francais v12s18_bottlespin_e2d79e70:
 
     # imre "I'm not kissing a dude."
-    imre "J'embrasse pas d'mec."
+    imre ""
 
-# game/v12/scene18.rpy:421
+# game/v12/scene18.rpy:419
 translate francais v12s18_bottlespin_1651347a:
 
     # au "Why not? I'll kiss any one of these beautiful ladies..."
-    au "Pourquoi pas ? J'embrasserais n'importe laquelle de ces belles dames..."
+    au ""
 
-# game/v12/scene18.rpy:426
+# game/v12/scene18.rpy:424
 translate francais v12s18_bottlespin_6c900ef6:
 
     # imre "Well... That's hot, and kissing a dude is not. Do I look like Charli to you?"
-    imre "Et bien... C'est excitant, mais embrasser un mec ça l'est pas. Est-ce que j'ressemble à Charli pour toi ?"
+    imre ""
 
-# game/v12/scene18.rpy:431
+# game/v12/scene18.rpy:429
 translate francais v12s18_bottlespin_641f4a36:
 
     # charli "Somebody call me?"
-    charli "Quelqu'un m'appelle ?"
+    charli ""
 
-# game/v12/scene18.rpy:436
+# game/v12/scene18.rpy:434
 translate francais v12s18_bottlespin_bd810a8a:
 
     # imre "Definitely not!"
-    imre "Certainement pas !"
+    imre ""
 
-# game/v12/scene18.rpy:441
+# game/v12/scene18.rpy:439
 translate francais v12s18_bottlespin_bdcc7403:
 
     # au "*Chuckles* Okay fine, if it lands on someone and you refuse to kiss them, then they get to slap you."
-    au "*Rire* Ok, si ça tombe sur quelqu'un et que tu refuses de l'embrasser, alors il pourra te gifler."
+    au ""
 
-# game/v12/scene18.rpy:446
+# game/v12/scene18.rpy:444
 translate francais v12s18_bottlespin_005eede8:
 
     # ry "What if the person doesn't let us kiss them?"
-    ry "Et si la personne ne nous laisse pas l'embrasser ?"
+    ry ""
 
-# game/v12/scene18.rpy:451
+# game/v12/scene18.rpy:449
 translate francais v12s18_bottlespin_ac147d81:
 
     # au "Then you get to slap them."
-    au "Alors tu devras la gifler."
+    au ""
 
-# game/v12/scene18.rpy:456
+# game/v12/scene18.rpy:454
 translate francais v12s18_bottlespin_da746360:
 
     # li "This just became the most interesting spin the bottle game I've ever played. *Chuckles*"
-    li "C'est devenu le jeu de la bouteille le plus intéressant auquel j'ai jamais joué. *Rire*"
+    li ""
 
-# game/v12/scene18.rpy:461
+# game/v12/scene18.rpy:459
 translate francais v12s18_bottlespin_fa2ce463:
 
     # au "*Chuckles* Good! Go ahead and start us off, birthday girl."
-    au "*Rire* Bien ! Vas-y et commence, mademoiselle la star du jour."
+    au ""
 
-# game/v12/scene18.rpy:466
+# game/v12/scene18.rpy:464
 translate francais v12s18_bottlespin_4b41f9ca:
 
     # li "Alrighty!"
-    li "Très bien !"
+    li ""
 
-# game/v12/scene18.rpy:486
+# game/v12/scene18.rpy:484
 translate francais v12s18_bottlespin_cc5147cc:
 
     # li "I can't tell who it landed on. *Chuckles* Should I spin again?"
-    li "Je ne saurais dire sur qui il a atterri. *Rire* Je dois tourner à nouveau ?"
+    li ""
 
-# game/v12/scene18.rpy:491
+# game/v12/scene18.rpy:489
 translate francais v12s18_bottlespin_984adb7f:
 
     # imre "No need for all that, pucker up."
-    imre "Pas besoin de tout ça, fais-toi plaisir."
+    imre ""
 
-# game/v12/scene18.rpy:508
+# game/v12/scene18.rpy:506
 translate francais v12s18_bottlespin_1695983c:
 
     # li "We like men that take charge, don't we ladies?"
-    li "Nous aimons les hommes qui prennent les choses en main, n'est-ce pas mesdames ?"
+    li ""
 
-# game/v12/scene18.rpy:513
+# game/v12/scene18.rpy:511
 translate francais v12s18_bottlespin_62e68f8d:
 
     # au "*Chuckles* Ohh yes..."
-    au "*Rire* Ohh oui..."
+    au ""
 
-# game/v12/scene18.rpy:518
+# game/v12/scene18.rpy:516
 translate francais v12s18_bottlespin_a941f86d:
 
     # ry "*Whisper* Damn."
-    ry "*Chuchote* Merde."
+    ry ""
 
-# game/v12/scene18.rpy:523
+# game/v12/scene18.rpy:521
 translate francais v12s18_bottlespin_660fbd1a:
 
     # li "Snooze you lose, Ryan."
-    li "Tu perds, Ryan."
+    li ""
 
-# game/v12/scene18.rpy:528
+# game/v12/scene18.rpy:526
 translate francais v12s18_bottlespin_da77acb7:
 
     # au "Don't worry, Ryan. It's your turn."
-    au "Ne t'inquiète pas, Ryan. C'est ton tour."
+    au ""
 
-# game/v12/scene18.rpy:533
+# game/v12/scene18.rpy:531
 translate francais v12s18_bottlespin_23522da8:
 
     # ry "Give me something good, bottle!"
-    ry "Donne-moi quelque chose de bon, petite bouteille !"
+    ry ""
 
-# game/v12/scene18.rpy:543
+# game/v12/scene18.rpy:541
 translate francais v12s18_bottlespin_34578c7d:
 
     # ry "DAMMMNN! Sorry bro..."
-    ry "MEEEEERDE ! Désolé mon frère..."
+    ry ""
 
-# game/v12/scene18.rpy:548
+# game/v12/scene18.rpy:546
 translate francais v12s18_bottlespin_2b180349:
 
     # u "(Of fucking course.)"
-    u "(Bien sûr, putain.)"
+    u ""
 
-# game/v12/scene18.rpy:554
+# game/v12/scene18.rpy:552
 translate francais v12s18_bottlespin_65f2fba9:
 
     # u "Fuck. Well, I'm not in the mood to get slapped, so let's get this over with."
-    u "Fais chier. Je suis pas d'humeur à me faire gifler, alors finissons-en."
+    u ""
 
-# game/v12/scene18.rpy:559
+# game/v12/scene18.rpy:557
 translate francais v12s18_bottlespin_ea8c8b6a:
 
     # no "So eager. *Chuckles*"
-    no "Il est si impatient. *Rire*"
+    no ""
 
-# game/v12/scene18.rpy:564
+# game/v12/scene18.rpy:562
 translate francais v12s18_bottlespin_bbea7d5c:
 
     # u "Don't even start."
-    u "Ne commence pas."
+    u ""
 
-# game/v12/scene18.rpy:569
+# game/v12/scene18.rpy:567
 translate francais v12s18_bottlespin_ccd64181:
 
     # ry "Yeah, bro... I can't do that."
-    ry "Ouais, frère... Je ne peux vraiment pas faire ça."
+    ry ""
 
-# game/v12/scene18.rpy:574
+# game/v12/scene18.rpy:572
 translate francais v12s18_bottlespin_913fd853:
 
     # u "Good, I was hoping you'd say that."
-    u "Bon, j'espérais que tu dirais ça."
+    u ""
 
-# game/v12/scene18.rpy:586
+# game/v12/scene18.rpy:584
 translate francais v12s18_bottlespin_1365cc68:
 
     # ry "What the fuck! Why'd you hit me so hard?"
-    ry "C'est quoi ce bordel ? Pourquoi tu m'as frappé si fort ?"
+    ry ""
 
-# game/v12/scene18.rpy:591
+# game/v12/scene18.rpy:589
 translate francais v12s18_bottlespin_8fa355bf:
 
     # u "Shouldn't have rejected me. *Laughs*"
-    u "Tu n'aurais pas dû me rejeter. *Rire*"
+    u ""
 
-# game/v12/scene18.rpy:596
+# game/v12/scene18.rpy:594
 translate francais v12s18_bottlespin_93ff3184:
 
     # imre "*Laughs*"
-    imre "*Rire*"
+    imre ""
 
-# game/v12/scene18.rpy:602
+# game/v12/scene18.rpy:600
 translate francais v12s18_bottlespin_4db0a0fd:
 
     # ch "That's the Wolves blood in him."
-    ch "C'est le sang des Wolves qui coule en lui."
+    ch ""
 
-# game/v12/scene18.rpy:608
+# game/v12/scene18.rpy:606
 translate francais v12s18_bottlespin_8486ade3:
 
     # ch "Wish you were a Wolf, hitting like that."
-    ch "Si seulement tu étais un Wolf et que tu frappais comme ça."
+    ch ""
 
-# game/v12/scene18.rpy:615
+# game/v12/scene18.rpy:613
 translate francais v12s18_bottlespin_af515299:
 
     # u "Go ahead and slap me dude, I'm not kissing you."
-    u "Vas-y, frappe-moi mec, je t'embrasse pas."
+    u ""
 
-# game/v12/scene18.rpy:627
+# game/v12/scene18.rpy:625
 translate francais v12s18_bottlespin_b340e7c1:
 
     # u "Shit! You didn't even hesitate."
-    u "Merde ! Tu n'as même pas hésité."
+    u ""
 
-# game/v12/scene18.rpy:632
+# game/v12/scene18.rpy:630
 translate francais v12s18_bottlespin_cf9c3093:
 
     # ry "Better to get it over with right?"
-    ry "C'est mieux d'en finir rapidement, non ?"
+    ry ""
 
-# game/v12/scene18.rpy:637
+# game/v12/scene18.rpy:635
 translate francais v12s18_bottlespin_da439162:
 
     # u "Fuck... I guess."
-    u "Putain... On va dire."
+    u ""
 
-# game/v12/scene18.rpy:642
+# game/v12/scene18.rpy:640
 translate francais v12s18_bottlespin_ac19a5d7:
 
     # imre "If it keeps going like this I might play this game more often. *Laughs*"
-    imre "Si ça continue comme ça, j'vais peut-être jouer à ce jeu plus souvent. *Rire*"
+    imre ""
 
-# game/v12/scene18.rpy:647
+# game/v12/scene18.rpy:645
 translate francais v12s18_bottlespin_35bcef7a:
 
     # au "*Chuckles* Next up?"
-    au "*Rire* Au suivant ?"
+    au ""
 
-# game/v12/scene18.rpy:652
+# game/v12/scene18.rpy:650
 translate francais v12s18_bottlespin_11799dd8:
 
     # ch "Alright, I'll have a go."
-    ch "Bon, je vais essayer."
+    ch ""
 
-# game/v12/scene18.rpy:662
+# game/v12/scene18.rpy:660
 translate francais v12s18_bottlespin_ded321d2:
 
     # ch "*Whisper* Oh, shit..."
-    ch "*Chuchote* Oh, merde..."
+    ch ""
 
-# game/v12/scene18.rpy:672
+# game/v12/scene18.rpy:670
 translate francais v12s18_bottlespin_1108a238:
 
     # no "Don't make it weird, just play the game."
-    no "Ne rend pas ça ridicule, contente-toi de jouer le jeu."
+    no ""
 
-# game/v12/scene18.rpy:683
+# game/v12/scene18.rpy:681
 translate francais v12s18_bottlespin_be0c4f39:
 
     # no "Damn, I didn't say shove your tongue down her throat..."
-    no "Putain, je n'ai pas dit de fourrer ta langue dans sa gorge..."
+    no ""
 
-# game/v12/scene18.rpy:688
+# game/v12/scene18.rpy:686
 translate francais v12s18_bottlespin_3822f71f:
 
     # ch "I wasn't trying to... I-"
-    ch "Je n'essayais pas de... Je-"
+    ch ""
 
-# game/v12/scene18.rpy:693
+# game/v12/scene18.rpy:691
 translate francais v12s18_bottlespin_640fe1e9:
 
     # no "*Chuckles* I'm just teasing you. I'm really just happy you're actually spending time with me."
-    no "*Rire* Je te taquine. Je suis vraiment heureuse que tu passes du temps avec moi."
+    no ""
 
-# game/v12/scene18.rpy:698
+# game/v12/scene18.rpy:696
 translate francais v12s18_bottlespin_e394a78d:
 
     # ch "Ha, I am too."
-    ch "Ha, moi aussi."
+    ch ""
 
-# game/v12/scene18.rpy:709
+# game/v12/scene18.rpy:707
 translate francais v12s18_bottlespin_0b7d779b:
 
     # imre "Hey, uh... Glad you guys are getting along and everything, but no kisses unless it has to do with the game."
-    imre "Hé, euh... Content qu'vous vous entendiez bien et tout, mais pas d'baisers ! Sauf si c'est en rapport avec le jeu."
+    imre ""
 
-# game/v12/scene18.rpy:714
+# game/v12/scene18.rpy:712
 translate francais v12s18_bottlespin_93930b59:
 
     # li "Aww, you wishing you got more kisses, Imre?"
-    li "Aww, tu aimerais avoir plus de baisers, Imre ?"
+    li ""
 
-# game/v12/scene18.rpy:719
+# game/v12/scene18.rpy:717
 translate francais v12s18_bottlespin_000e3031:
 
     # imre "Yeah, actually. That'd be nice."
-    imre "Oui, vraiment. Ça serait cool."
+    imre ""
 
-# game/v12/scene18.rpy:729
+# game/v12/scene18.rpy:727
 translate francais v12s18_bottlespin_f52520fb:
 
     # li "Pray to the bottle gods for good luck. *Chuckles*"
-    li "Alors, prie les dieux de la bouteille pour avoir de la chance. *Rire*"
+    li ""
 
-# game/v12/scene18.rpy:734
+# game/v12/scene18.rpy:732
 translate francais v12s18_bottlespin_a7161e46:
 
     # imre "That was cruel."
-    imre "C'était cruel."
+    imre ""
 
-# game/v12/scene18.rpy:751
+# game/v12/scene18.rpy:749
 translate francais v12s18_bottlespin_b26c8919:
 
     # no "Don't."
-    no "Oh non !"
+    no ""
 
-# game/v12/scene18.rpy:756
+# game/v12/scene18.rpy:754
 translate francais v12s18_bottlespin_9764f165:
 
     # ch "I have to."
-    ch "Il le faut."
+    ch ""
 
-# game/v12/scene18.rpy:761
+# game/v12/scene18.rpy:759
 translate francais v12s18_bottlespin_a932f502:
 
     # no "You don't have to, you're choosing to. You promised me you'd leave it alone for tonight, just one night. You promised me that."
-    no "Tu ne DOIS pas le faire, tu CHOISIS de le faire. Tu m'as promis que tu laisserais tomber pour ce soir, juste un soir. Tu me l'as promis."
+    no ""
 
-# game/v12/scene18.rpy:766
+# game/v12/scene18.rpy:764
 translate francais v12s18_bottlespin_58d67e54:
 
     # ch "Baby, this could be a very, very important call."
-    ch "Bébé, ça pourrait être un appel très, très important."
+    ch ""
 
-# game/v12/scene18.rpy:771
+# game/v12/scene18.rpy:769
 translate francais v12s18_bottlespin_daf33c41:
 
     # no "Fuck it, Chris..."
-    no "Va te faire foutre, Chris..."
+    no ""
 
-# game/v12/scene18.rpy:772
+# game/v12/scene18.rpy:770
 translate francais v12s18_bottlespin_5ad69ebf:
 
     # no "Go. Go answer your phone."
-    no "Vas-y. Réponds à ton putain de téléphone."
+    no ""
 
-# game/v12/scene18.rpy:777
+# game/v12/scene18.rpy:775
 translate francais v12s18_bottlespin_f81471e2:
 
     # ch "Relax, I don't have to leave. I'll just take it right here."
-    ch "Tranquille, je n'ai pas besoin de partir. Je vais juste répondre ici."
+    ch ""
 
-# game/v12/scene18.rpy:787
+# game/v12/scene18.rpy:785
 translate francais v12s18_bottlespin_a031aef9:
 
     # ch "Hello?"
-    ch "Allo ?"
+    ch ""
 
-# game/v12/scene18.rpy:797
+# game/v12/scene18.rpy:795
 translate francais v12s18_bottlespin_a10918f8:
 
     # ch "Champ of Champs, that's what we call him."
-    ch "Le champion des champions, c'est comme ça qu'on l'appelle."
+    ch ""
 
-# game/v12/scene18.rpy:807
+# game/v12/scene18.rpy:805
 translate francais v12s18_bottlespin_5e5d1436:
 
     # ch "Yeah."
-    ch "Ouais."
+    ch ""
 
-# game/v12/scene18.rpy:817
+# game/v12/scene18.rpy:815
 translate francais v12s18_bottlespin_b4edd274:
 
     # ch "Alright, bye."
-    ch "D'accord, bye."
+    ch ""
 
-# game/v12/scene18.rpy:822
+# game/v12/scene18.rpy:820
 translate francais v12s18_bottlespin_5afa5279:
 
     # ch "See? Over and done with."
-    ch "Tu vois ? C'est fini."
+    ch ""
 
-# game/v12/scene18.rpy:827
+# game/v12/scene18.rpy:825
 translate francais v12s18_bottlespin_57f678cf:
 
     # no "I don't care. You said you would shut it off and you didn't, so that's the situation. Shouldn't have made me a promise that you couldn't keep."
-    no "Je m'en fiche. Tu as dit que tu l'éteindrais et tu ne l'as pas fait, alors voilà où on en est. Tu n'aurais pas dû me faire une promesse que tu ne pouvais pas tenir."
+    no ""
 
-# game/v12/scene18.rpy:832
+# game/v12/scene18.rpy:830
 translate francais v12s18_bottlespin_07aa6fd4:
 
     # ch "Nora-"
-    ch "Nora-"
+    ch ""
 
-# game/v12/scene18.rpy:837
+# game/v12/scene18.rpy:835
 translate francais v12s18_bottlespin_0cd14e5b:
 
     # no "Alright! My turn."
-    no "Bon ! À mon tour."
+    no ""
 
-# game/v12/scene18.rpy:852
+# game/v12/scene18.rpy:850
 translate francais v12s18_bottlespin_3f429969:
 
     # u "Oh, uhh-"
-    u "Oh, heuuu..."
+    u ""
 
-# game/v12/scene18.rpy:871
+# game/v12/scene18.rpy:869
 translate francais v12s18_bottlespin_77fd83a3:
 
     # no "Alright, your turn Imre."
-    no "Bon, c'est ton tour Imre."
+    no ""
 
-# game/v12/scene18.rpy:881
+# game/v12/scene18.rpy:879
 translate francais v12s18_bottlespin_0fc34f16:
 
     # no "Why are you hesitating? *Chuckles* We don't have all night."
-    no "Pourquoi tu hésites ? *Rire* On n'a pas toute la nuit."
+    no ""
 
-# game/v12/scene18.rpy:886
+# game/v12/scene18.rpy:884
 translate francais v12s18_bottlespin_e5156e61:
 
     # imre "Okay, you're right, you're right... C'mon on bottle gods!"
-    imre "Ok, t'as raison, t'as raison... Allez ! Dieux d'la bouteille, soyez avec moi !"
+    imre ""
 
-# game/v12/scene18.rpy:906
+# game/v12/scene18.rpy:904
 translate francais v12s18_bottlespin_271f550d:
 
     # au "Oh yay! This is just what you two need. Kiss and make up, boys. *Chuckles*"
-    au "Oh yeah ! C'est juste ce dont vous avez besoin tous les deux. Embrassez-vous et réconciliez-vous, les gars. *Rire*"
+    au ""
 
-# game/v12/scene18.rpy:911
+# game/v12/scene18.rpy:909
 translate francais v12s18_bottlespin_b2ea673d:
 
     # charli "Who's kissing?"
-    charli "Qui embrasse qui ?"
+    charli ""
 
-# game/v12/scene18.rpy:916
+# game/v12/scene18.rpy:914
 translate francais v12s18_bottlespin_791c6445:
 
     # imre "What the fuck is going on? No! I'm not kissing a god damn dude. Especially this ugly motherfuc-"
-    imre "Qu'est-ce qui s'passe, bordel ? Non ! J'vais pas embrasser un putain d'mec. Surtout cet affreux fils de pu-"
+    imre ""
 
-# game/v12/scene18.rpy:930
+# game/v12/scene18.rpy:928
 translate francais v12s18_bottlespin_852175cf:
 
     # u "(Oh shit!)"
-    u "(Oh merde !)"
+    u ""
 
-# game/v12/scene18.rpy:935
+# game/v12/scene18.rpy:933
 translate francais v12s18_bottlespin_841ac409:
 
     # ch "Settle down! You both got a hit in and we all know neither of you would've kissed each other, so that's it. It's done."
-    ch "Calmez-vous ! Vous avez tous les deux eu un coup et nous savons tous qu'aucun de vous ne se serait embrassé, alors c'est tout. C'est fait."
+    ch ""
 
-# game/v12/scene18.rpy:945
+# game/v12/scene18.rpy:943
 translate francais v12s18_bottlespin_228a21f0:
 
     # ry "You got lucky."
-    ry "Tu as de la chance."
+    ry ""
 
-# game/v12/scene18.rpy:950
+# game/v12/scene18.rpy:948
 translate francais v12s18_bottlespin_8f62ec01:
 
     # imre "*Scoffs* Keep thinking that."
-    imre "*Pfff* Continue à croire ça."
+    imre ""
 
-# game/v12/scene18.rpy:955
+# game/v12/scene18.rpy:953
 translate francais v12s18_bottlespin_15213618:
 
     # au "Okay, that was kinda exciting. *Laughs*"
-    au "Ok, c'était un peu excitant. *Rire*"
+    au ""
 
-# game/v12/scene18.rpy:960
+# game/v12/scene18.rpy:958
 translate francais v12s18_bottlespin_eef44184:
 
     # au "I'm going next, I'm ready for some action... *Chuckles*"
-    au "Je suis la prochaine, je suis prête pour un peu d'action... *Rire*"
+    au ""
 
-# game/v12/scene18.rpy:980
+# game/v12/scene18.rpy:978
 translate francais v12s18_bottlespin_641ef7df:
 
     # au "Come here, sexy."
-    au "Viens là, ma belle."
+    au ""
 
-# game/v12/scene18.rpy:990
+# game/v12/scene18.rpy:988
 translate francais v12s18_bottlespin_a534c02b:
 
     # imre "Hell yesss... This is exactly what I came for. *Chuckles*"
-    imre "Putain oui... C'est exactement c'que j'suis venu chercher. *Rire*"
+    imre ""
 
-# game/v12/scene18.rpy:995
+# game/v12/scene18.rpy:993
 translate francais v12s18_bottlespin_f7112d2b:
 
     # cl "Oh, hush. My turn?"
-    cl "Oh, tais-toi. C'est mon tour ?"
+    cl ""
 
-# game/v12/scene18.rpy:1000
+# game/v12/scene18.rpy:998
 translate francais v12s18_bottlespin_e868c649:
 
     # au "Yup, you got it!"
-    au "Oui, à toi !"
+    au ""
 
-# game/v12/scene18.rpy:1025
+# game/v12/scene18.rpy:1023
 translate francais v12s18_bottlespin_dab336b0:
 
     # cl "We don't have to kiss if you-"
-    cl "On n'est pas obligées de s'embrasser si tu..."
+    cl ""
 
-# game/v12/scene18.rpy:1030
+# game/v12/scene18.rpy:1028
 translate francais v12s18_bottlespin_572340e1:
 
     # no "*Sighs*"
-    no "*Soupirs*"
+    no ""
 
-# game/v12/scene18.rpy:1042
+# game/v12/scene18.rpy:1040
 translate francais v12s18_bottlespin_404d871e:
 
     # no "Done. Alright, now that we've both kissed her, I'm gonna go hang in the phone-free section."
-    no "Voilà. Bon, maintenant qu'on l'a tous les deux embrassé, je vais aller dans la section sans téléphone."
+    no ""
 
-# game/v12/scene18.rpy:1052
+# game/v12/scene18.rpy:1050
 translate francais v12s18_bottlespin_3a87fa72:
 
     # ch "*Sighs* Here we go..."
-    ch "*Soupirs* On y va..."
+    ch ""
 
-# game/v12/scene18.rpy:1062
+# game/v12/scene18.rpy:1060
 translate francais v12s18_bottlespin_ea620b3d:
 
     # li "Well, that probably could have ended worse. *Chuckles*"
-    li "Eh Ben, ça aurait peut-être pu finir plus mal. *Rire*"
+    li ""
 
-# game/v12/scene18.rpy:1067
+# game/v12/scene18.rpy:1065
 translate francais v12s18_bottlespin_73fba9ff:
 
     # u "*Chuckles* I think you might be right, we got a bit lucky."
-    u "*Rire* Je crois que tu as raison, on a eu un peu de chance."
+    u ""
 
-# game/v12/scene18.rpy:1073
+# game/v12/scene18.rpy:1071
 translate francais v12s18_bottlespin_04c6d80c:
 
     # li "Luck really is on our side today... *Chuckles*"
-    li "Oui, la chance est vraiment de notre côté aujourd'hui... *Rire*"
+    li ""
 
-# game/v12/scene18.rpy:1078
+# game/v12/scene18.rpy:1076
 translate francais v12s18_bottlespin_2b53851a:
 
     # au "Alright, let's do something else I guess. *Laughs*"
-    au "Très bien, faisons autre chose. *Rire*"
+    au ""
 
-# game/v12/scene18.rpy:1088
+# game/v12/scene18.rpy:1086
 translate francais v12s18_fmk_677cb333:
 
     # am "There you are! Come play Fuck, Marry, Kill."
-    am "Te voilà ! Viens jouer à Baiser, se marier, tuer."
+    am ""
 
-# game/v12/scene18.rpy:1093
+# game/v12/scene18.rpy:1091
 translate francais v12s18_fmk_f190e387:
 
     # u "Who's playing?"
-    u "Qui joue ?"
+    u ""
 
-# game/v12/scene18.rpy:1098
+# game/v12/scene18.rpy:1096
 translate francais v12s18_fmk_4715ea08:
 
     # am "Let's see... Imre, Nora, Chris! Come here and play this game with us."
-    am "Voyons voir... Imre, Nora, Chris ! Venez ici et jouez à ce jeu avec nous."
+    am ""
 
-# game/v12/scene18.rpy:1108
+# game/v12/scene18.rpy:1106
 translate francais v12s18_fmk_7728e5af:
 
     # ch "What game is this?"
-    ch "C'est quoi ce jeu ?"
+    ch ""
 
-# game/v12/scene18.rpy:1113
+# game/v12/scene18.rpy:1111
 translate francais v12s18_fmk_db47fc4d:
 
     # am "Fuck, Marry, Kill."
-    am "Baiser, se marier, tuer."
+    am ""
 
-# game/v12/scene18.rpy:1118
+# game/v12/scene18.rpy:1116
 translate francais v12s18_fmk_7e50f1e2:
 
     # ch "*Laughs* Yeah, that's not happening."
-    ch "*Rire* Ouais, pas moyen que je joue à ça."
+    ch ""
 
-# game/v12/scene18.rpy:1123
+# game/v12/scene18.rpy:1121
 translate francais v12s18_fmk_9b3875e7:
 
     # am "Why not? It's just a game."
-    am "Pourquoi pas ? C'est juste un jeu."
+    am ""
 
-# game/v12/scene18.rpy:1128
+# game/v12/scene18.rpy:1126
 translate francais v12s18_fmk_e9608587:
 
     # no "Yeah, Chris. What's wrong with playing? The choices should be pretty easy for you. *Chuckles*"
-    no "Oui, Chris. Qu'est-ce qu'il y a de mal à jouer ? Les choix devraient être assez faciles pour toi. *Rire*"
+    no ""
 
-# game/v12/scene18.rpy:1133
+# game/v12/scene18.rpy:1131
 translate francais v12s18_fmk_e36d18e8:
 
     # ch "Ha, sorry guys. Not my type of game."
-    ch "Ha, désolé. C'est pas mon type de jeu."
+    ch ""
 
-# game/v12/scene18.rpy:1138
+# game/v12/scene18.rpy:1136
 translate francais v12s18_fmk_7e1fbb11:
 
     # no "*Sighs* Fine, don't play."
-    no "*Soupirs* Très bien, ne joue pas."
+    no ""
 
-# game/v12/scene18.rpy:1143
+# game/v12/scene18.rpy:1141
 translate francais v12s18_fmk_6c86d47d:
 
     # am "Alright, guess it's just us."
-    am "Bon, je pense qu'il n'y a que nous, alors."
+    am ""
 
-# game/v12/scene18.rpy:1148
+# game/v12/scene18.rpy:1146
 translate francais v12s18_fmk_7d9e0814:
 
     # u "All good?"
-    u "Tout va bien ?"
+    u ""
 
-# game/v12/scene18.rpy:1153
+# game/v12/scene18.rpy:1151
 translate francais v12s18_fmk_9481f709:
 
     # no "Yeah, I'm fine. Let's play."
-    no "Oui, je vais bien. Allez, on joue."
+    no ""
 
-# game/v12/scene18.rpy:1158
+# game/v12/scene18.rpy:1156
 translate francais v12s18_fmk_b555a20c:
 
     # am "Imre, you go first."
-    am "Imre, vas-y ! Tu commences."
+    am ""
 
-# game/v12/scene18.rpy:1163
+# game/v12/scene18.rpy:1161
 translate francais v12s18_fmk_7a457ba9:
 
     # imre "Sounds good to me. Let's see..."
-    imre "Cool ! Aloooors..."
+    imre ""
 
-# game/v12/scene18.rpy:1168
+# game/v12/scene18.rpy:1166
 translate francais v12s18_fmk_3e47d835:
 
     # imre "Sorry bro, but you know I gotta kill you."
-    imre "Désolé mon frère, mais tu sais que j'dois te tuer."
+    imre ""
 
-# game/v12/scene18.rpy:1173
+# game/v12/scene18.rpy:1171
 translate francais v12s18_fmk_55da92c7:
 
     # u "*Chuckles* As expected."
-    u "*Rire* Comme prévu."
+    u ""
 
-# game/v12/scene18.rpy:1178
+# game/v12/scene18.rpy:1176
 translate francais v12s18_fmk_f88d41c6:
 
     # imre "But who's gonna be my wife? Hmm..."
-    imre "Par contre, qui sera ma femme ? Hmm..."
+    imre ""
 
-# game/v12/scene18.rpy:1183
+# game/v12/scene18.rpy:1181
 translate francais v12s18_fmk_72cdc330:
 
     # imre "I think I'll marry Amber and fuck Nora. Can't marry Chris' girl, you know?"
-    imre "Je pense que j'vais épouser Amber et baiser Nora. J'peux pas épouser la meuf de Chris, vous voyez ?"
+    imre ""
 
-# game/v12/scene18.rpy:1188
+# game/v12/scene18.rpy:1186
 translate francais v12s18_fmk_91c096b5:
 
     # am "*Laughs* But you'll have sex with her?"
-    am "*Rire* Mais tu vas baiser avec elle ?"
+    am ""
 
-# game/v12/scene18.rpy:1193
+# game/v12/scene18.rpy:1191
 translate francais v12s18_fmk_6d5d6add:
 
     # imre "In honor of the game, of course. And just one time... If I had to."
-    imre "Pour l'honneur du jeu, bien sûr. Et juste une fois... Si j'le devais."
+    imre ""
 
-# game/v12/scene18.rpy:1203
+# game/v12/scene18.rpy:1201
 translate francais v12s18_fmk_17801d42:
 
     # am "Nice, Imre. Way to play that off."
-    am "Bien joué, Imre. Bonne méthode de jeu."
+    am ""
 
-# game/v12/scene18.rpy:1208
+# game/v12/scene18.rpy:1206
 translate francais v12s18_fmk_f2f7028f:
 
     # am "My turn!"
-    am "À moi !"
+    am ""
 
-# game/v12/scene18.rpy:1213
+# game/v12/scene18.rpy:1211
 translate francais v12s18_fmk_fa217ae4:
 
     # imre "This oughta be good... *Laughs*"
-    imre "Ça devrait être intéressant... *Rire*"
+    imre ""
 
-# game/v12/scene18.rpy:1218
+# game/v12/scene18.rpy:1216
 translate francais v12s18_fmk_c71316b5:
 
     # am "Oh, right. So to start, I'd kill Imre."
-    am "Oh, oui. Alors pour commencer, je tuerais Imre."
+    am ""
 
-# game/v12/scene18.rpy:1223
+# game/v12/scene18.rpy:1221
 translate francais v12s18_fmk_19845023:
 
     # imre "What?"
-    imre "Quoi ?"
+    imre ""
 
-# game/v12/scene18.rpy:1228
+# game/v12/scene18.rpy:1226
 translate francais v12s18_fmk_3b91a537:
 
     # am "My turn, my choice. *Laughs*"
-    am "Mon tour, mon choix. *Rire*"
+    am ""
 
-# game/v12/scene18.rpy:1233
+# game/v12/scene18.rpy:1231
 translate francais v12s18_fmk_e68513f4:
 
     # am "Then I'm gonna marry Nora and... fuck [name]."
-    am "Ensuite je vais épouser Nora et... baiser [name]."
+    am ""
 
-# game/v12/scene18.rpy:1238
+# game/v12/scene18.rpy:1236
 translate francais v12s18_fmk_b34324d1:
 
     # no "Aww, think I'd make a good wife?"
-    no "Ooh, tu penses que je ferais une bonne épouse ?"
+    no ""
 
-# game/v12/scene18.rpy:1243
+# game/v12/scene18.rpy:1241
 translate francais v12s18_fmk_736b629b:
 
     # am "Of course you would. *Chuckles*"
-    am "J'en suis certaine. *Rire*"
+    am ""
 
-# game/v12/scene18.rpy:1248
+# game/v12/scene18.rpy:1246
 translate francais v12s18_fmk_8946170b:
 
     # imre "You must either think or know that [name] is good in bed... Which one is it? *Chuckles*"
-    imre "Tu dois penser ou savoir que [name] est un bon coup... Laquelle des deux options est la bonne ? *Rire*"
+    imre ""
 
-# game/v12/scene18.rpy:1253
+# game/v12/scene18.rpy:1251
 translate francais v12s18_fmk_e0c4330e:
 
     # am "I've heard rumors..."
-    am "J'ai entendu des rumeurs..."
+    am ""
 
-# game/v12/scene18.rpy:1258
+# game/v12/scene18.rpy:1256
 translate francais v12s18_fmk_0238517d:
 
     # u "I-"
-    u "Je-"
+    u ""
 
-# game/v12/scene18.rpy:1263
+# game/v12/scene18.rpy:1261
 translate francais v12s18_fmk_47c0d787:
 
     # no "*Chuckles* Next?"
-    no "*Rire* Suivant ?"
+    no ""
 
-# game/v12/scene18.rpy:1268
+# game/v12/scene18.rpy:1266
 translate francais v12s18_fmk_b89d4057:
 
     # am "Your turn, [name]."
-    am "À toi, [name]."
+    am ""
 
-# game/v12/scene18.rpy:1273
+# game/v12/scene18.rpy:1271
 translate francais v12s18_fmk_5fd07fc7:
 
     # imre "I'll make it easy for you bro and just kill myself."
-    imre "J'vais t'faciliter la tâche et me suicider."
+    imre ""
 
-# game/v12/scene18.rpy:1278
+# game/v12/scene18.rpy:1276
 translate francais v12s18_fmk_e0e480fc:
 
     # u "Haha, thanks man."
-    u "Haha, merci mec."
+    u ""
 
-# game/v12/scene18.rpy:1283
+# game/v12/scene18.rpy:1281
 translate francais v12s18_fmk_557c118e:
 
     # u "(Hmm, who to marry?)"
-    u "(Hmm, qui épouser ?)"
+    u ""
 
-# game/v12/scene18.rpy:1291
+# game/v12/scene18.rpy:1289
 translate francais v12s18_fmk_4002b6ee:
 
     # u "In that case, I'd have to go with... fuck Nora and marry Amber."
-    u "Dans ce cas, je vais dire... baiser Nora et épouser Amber."
+    u ""
 
-# game/v12/scene18.rpy:1296
+# game/v12/scene18.rpy:1294
 translate francais v12s18_fmk_88b5a5aa:
 
     # am "We wouldn't be married for long. *Chuckles*"
-    am "On sera pas mariés longtemps. *Rire*"
+    am ""
 
-# game/v12/scene18.rpy:1301
+# game/v12/scene18.rpy:1299
 translate francais v12s18_fmk_82f3a918:
 
     # u "*Chuckles* Why not?"
-    u "*Rire* Pourquoi pas ?"
+    u ""
 
-# game/v12/scene18.rpy:1306
+# game/v12/scene18.rpy:1304
 translate francais v12s18_fmk_b514c5a2:
 
     # am "Because this horse can't be tamed, baby."
-    am "Parce que cette jument peut pas être apprivoisée, bébé."
+    am ""
 
-# game/v12/scene18.rpy:1312
+# game/v12/scene18.rpy:1310
 translate francais v12s18_fmk_6aff78ea:
 
     # u "In that case, I'd have to go with... fuck Amber and marry Nora."
-    u "Dans ce cas, je devrais dire... baiser Amber et épouser Nora."
+    u ""
 
-# game/v12/scene18.rpy:1317
+# game/v12/scene18.rpy:1315
 translate francais v12s18_fmk_6be5c005:
 
     # no "*Chuckles* Why would you wanna marry me?"
-    no "*Rire* Pourquoi veux-tu m'épouser ?"
+    no ""
 
-# game/v12/scene18.rpy:1322
+# game/v12/scene18.rpy:1320
 translate francais v12s18_fmk_a51ca232:
 
     # imre "C'mon dude, she's already taken."
-    imre "Vas-y mec, elle est déjà prise."
+    imre ""
 
-# game/v12/scene18.rpy:1327
+# game/v12/scene18.rpy:1325
 translate francais v12s18_fmk_16c94a05:
 
     # u "That's how you know she'd make a good wife. The best ones are always taken."
-    u "C'est comme ça que tu sais qu'elle fera une bonne épouse. Les meilleures sont toujours prises."
+    u ""
 
-# game/v12/scene18.rpy:1332
+# game/v12/scene18.rpy:1330
 translate francais v12s18_fmk_0b7a47ed:
 
     # am "Oooh, I peep your sly game, [name]. That was good..."
-    am "Oooh, je perçois ton petit jeu rusé, [name]. Bien joué..."
+    am ""
 
-# game/v12/scene18.rpy:1337
+# game/v12/scene18.rpy:1335
 translate francais v12s18_fmk_546deed0:
 
     # no "Earth to Amber, I'm right here. *Chuckles*"
-    no "La Terre à Amber ! Je suis juste là. *Rire*"
+    no ""
 
-# game/v12/scene18.rpy:1342
+# game/v12/scene18.rpy:1340
 translate francais v12s18_fmk_dd62a7a1:
 
     # am "*Laughs*"
-    am "*Rire*"
+    am ""
 
-# game/v12/scene18.rpy:1347
+# game/v12/scene18.rpy:1345
 translate francais v12s18_fmk_cc9ffa03:
 
     # u "*Laughs* Alright Nora, your turn."
-    u "*Rire* OK Nora, c'est ton tour."
+    u ""
 
-# game/v12/scene18.rpy:1353
+# game/v12/scene18.rpy:1351
 translate francais v12s18_fmk_4af0bf21:
 
     # no "Kill Imre, fuck Amber, marry [name]."
-    no "Tuer Imre, baiser Amber, épouser [name]."
+    no ""
 
-# game/v12/scene18.rpy:1358
+# game/v12/scene18.rpy:1356
 translate francais v12s18_fmk_d4d3bb1b:
 
     # imre "Why does everyone wanna kill me?"
-    imre "Pourquoi tout le monde veut m'tuer ?"
+    imre ""
 
-# game/v12/scene18.rpy:1363
+# game/v12/scene18.rpy:1361
 translate francais v12s18_fmk_d82c463b:
 
     # u "Guess you're just... kill-able. *Laughs*"
-    u "Je pense que tu n'es qu'un mec... tuable. *Rire*"
+    u ""
 
-# game/v12/scene18.rpy:1368
+# game/v12/scene18.rpy:1366
 translate francais v12s18_fmk_d4908d7c:
 
     # am "You're gonna spend the rest of your life with [name] over me? I'm pretty cool, you know?"
-    am "Tu vas passer le reste de ta vie avec [name] plutôt qu'avec moi ? Je suis plutôt cool, tu sais ?"
+    am ""
 
-# game/v12/scene18.rpy:1373
+# game/v12/scene18.rpy:1371
 translate francais v12s18_fmk_ffa57185:
 
     # no "Haha... I know, I know, He's pretty cool too, though."
-    no "Haha... Je sais, je sais, mais lui aussi est plutôt \"cool\", non ?"
+    no ""
 
-# game/v12/scene18.rpy:1378
+# game/v12/scene18.rpy:1376
 translate francais v12s18_fmk_aae7f30f:
 
     # u "*Chuckles* (Thanks, Nora.)"
-    u "*Rire* (Merci, Nora.)"
+    u ""
 
-# game/v12/scene18.rpy:1389
+# game/v12/scene18.rpy:1387
 translate francais v12s18_fmk_3b022160:
 
     # no "Kill Imre, fuck [name], and marry Amber."
-    no "Tuer Imre, baiser [name], et épouser Amber."
+    no ""
 
-# game/v12/scene18.rpy:1394
+# game/v12/scene18.rpy:1392
 translate francais v12s18_fmk_d4d3bb1b_1:
 
     # imre "Why does everyone wanna kill me?"
-    imre "Pourquoi tout le monde veut m'tuer ?"
+    imre ""
 
-# game/v12/scene18.rpy:1399
+# game/v12/scene18.rpy:1397
 translate francais v12s18_fmk_d82c463b_1:
 
     # u "Guess you're just... kill-able. *Laughs*"
-    u "Je pense que tu n'es qu'un mec... tuable. *Rire*"
+    u ""
 
-# game/v12/scene18.rpy:1404
+# game/v12/scene18.rpy:1402
 translate francais v12s18_fmk_8ca58441:
 
     # am "If I one day just run off to travel the world, don't be surprised."
-    am "Si un jour je m'enfuis pour parcourir le monde, soyez pas surpris."
+    am ""
 
-# game/v12/scene18.rpy:1409
+# game/v12/scene18.rpy:1407
 translate francais v12s18_fmk_72fe501f:
 
     # no "*Chuckles* Got it. Thanks for the heads up."
-    no "*Rire* Compris. Merci de m'avoir averti."
+    no ""
 
-# game/v12/scene18.rpy:1414
+# game/v12/scene18.rpy:1412
 translate francais v12s18_fmk_ca4e6a66:
 
     # am "Well shit... *Chuckles*"
-    am "Bah merde... *Rire*"
+    am ""
 
-# game/v12/scene18.rpy:1419
+# game/v12/scene18.rpy:1417
 translate francais v12s18_fmk_ef2f1671:
 
     # u "What?"
-    u "Quoi ?"
+    u ""
 
-# game/v12/scene18.rpy:1424
+# game/v12/scene18.rpy:1422
 translate francais v12s18_fmk_bd56a766:
 
     # am "I guess that's game over... I was hoping to play with a few others, I really wanna know their answers. *Laughs*"
-    am "Je crois que c'est la fin du jeu... J'espérais pouvoir jouer avec quelques autres participants, J'aurais vraiment eu envie de connaître leurs réponses. *Rire*"
+    am ""
 
-# game/v12/scene18.rpy:1429
+# game/v12/scene18.rpy:1427
 translate francais v12s18_fmk_2ae353e7:
 
     # u "Want me to invite them over?"
-    u "Tu veux que j'en invite à participer ?"
+    u ""
 
-# game/v12/scene18.rpy:1434
+# game/v12/scene18.rpy:1432
 translate francais v12s18_fmk_cabbfae3:
 
     # am "Maybe another time, I have something else to get ready for. Don't I, [name]?"
-    am "Peut-être une autre fois, j'ai autre chose à préparer. N'est-ce pas, [name] ?"
+    am ""
 
-# game/v12/scene18.rpy:1439
+# game/v12/scene18.rpy:1437
 translate francais v12s18_fmk_4cc755cd:
 
     # u "I don't know what you're talking about...?"
-    u "Je vois pas de quoi tu parles... ?"
+    u ""
 
-# game/v12/scene18.rpy:1444
+# game/v12/scene18.rpy:1442
 translate francais v12s18_fmk_1623c597:
 
     # am "*Chuckles* You will soon."
-    am "*Rire* Tu le sauras bientôt."
+    am ""
 
-# game/v12/scene18.rpy:1449
+# game/v12/scene18.rpy:1447
 translate francais v12s18_fmk_140c5099:
 
     # u "(Oh boy...)"
-    u "(Oh merde...)"
+    u ""
 
-# game/v12/scene18.rpy:1459
+# game/v12/scene18.rpy:1455
 translate francais v12s18_bet_d7c274fe:
 
     # am "Come with me to the bathroom?"
-    am "Tu viens avec moi aux toilettes ?"
+    am ""
 
-# game/v12/scene18.rpy:1464
+# game/v12/scene18.rpy:1460
 translate francais v12s18_bet_e1fd62de:
 
     # u "For...?"
-    u "Pour...?"
+    u ""
 
-# game/v12/scene18.rpy:1469
+# game/v12/scene18.rpy:1465
 translate francais v12s18_bet_1807fbdb:
 
     # am "You'll find out when we get there. *Chuckles* C'mon!"
-    am "Tu le sauras quand on y sera. *Rire* Allez viens !"
+    am ""
 
-# game/v12/scene18.rpy:1483
+# game/v12/scene18.rpy:1479
 translate francais v12s18_bet_82042dcc:
 
     # am "Alright mister, strip down."
-    am "Très bien, monsieur, déshabillez-vous."
+    am ""
 
-# game/v12/scene18.rpy:1488
+# game/v12/scene18.rpy:1484
 translate francais v12s18_bet_ec72e505:
 
     # u "Wait, what?"
-    u "Attends, quoi ?"
+    u ""
 
-# game/v12/scene18.rpy:1493
+# game/v12/scene18.rpy:1489
 translate francais v12s18_bet_bc0b8040:
 
     # am "You know what this is... It's time for your picture. *Chuckles*"
-    am "Tu le sais bien... C'est l'heure de ta photo. *Rire*"
+    am ""
 
-# game/v12/scene18.rpy:1498
+# game/v12/scene18.rpy:1494
 translate francais v12s18_bet_48076676:
 
     # u "Wait... NOW!?"
-    u "Quoi... MAINTENANT ! ?"
+    u ""
 
-# game/v12/scene18.rpy:1503
+# game/v12/scene18.rpy:1499
 translate francais v12s18_bet_72ef8cf1:
 
     # am "No better time than this, hot shot."
-    am "Il n'y a pas de meilleur moment que celui-là, chaud lapin."
+    am ""
 
-# game/v12/scene18.rpy:1508
+# game/v12/scene18.rpy:1504
 translate francais v12s18_bet_65b3e38f:
 
     # u "I really don't-"
-    u "Je n'ai vraiment pas..."
+    u ""
 
-# game/v12/scene18.rpy:1513
+# game/v12/scene18.rpy:1509
 translate francais v12s18_bet_dc5ff76c:
 
     # am "[name]... You have to."
-    am "[name]... Tu dois le faire."
+    am ""
 
-# game/v12/scene18.rpy:1518
+# game/v12/scene18.rpy:1514
 translate francais v12s18_bet_f617ca71:
 
     # u "Fuck!"
-    u "Putain !"
+    u ""
 
-# game/v12/scene18.rpy:1523
+# game/v12/scene18.rpy:1519
 translate francais v12s18_bet_2547de88:
 
     # am "Give me your phone."
-    am "Passe-moi ton téléphone."
+    am ""
 
-# game/v12/scene18.rpy:1538
+# game/v12/scene18.rpy:1534
 translate francais v12s18_bet_adebfc92:
 
     # am "Not bad, not bad."
-    am "Pas mal, pas mal."
+    am ""
 
-# game/v12/scene18.rpy:1543
+# game/v12/scene18.rpy:1539
 translate francais v12s18_bet_7b506d92:
 
     # am "Now, pose... We at least want to make sure you look good."
-    am "Maintenant, prends la pose... Il faut qu'on soit sûrs que tu es bien."
+    am ""
 
-# game/v12/scene18.rpy:1564
+# game/v12/scene18.rpy:1560
 translate francais v12s18_bet_be292fce:
 
     # am "Ha! Damn... These are all good."
-    am "Ha ! Merde... Elles sont toutes bonnes."
+    am ""
 
-# game/v12/scene18.rpy:1569
+# game/v12/scene18.rpy:1565
 translate francais v12s18_bet_f6130f73:
 
     # am "Now... Which one should I post?"
-    am "Maintenant... Laquelle dois-je poster ?"
+    am ""
 
-# game/v12/scene18.rpy:1574
+# game/v12/scene18.rpy:1570
 translate francais v12s18_bet_c07b7072:
 
     # u "YOU'RE POSTING IT NOW!?"
-    u "TU VAS LA POSTER MAINTENANT !?"
+    u ""
 
-# game/v12/scene18.rpy:1586
+# game/v12/scene18.rpy:1582
 translate francais v12s18_bet_baac5e4b:
 
     # imre "*Drunk* Heyyyy, what are you guys doing in there?"
-    imre "*Ivre* Heyyyy, qu'est-ce que vous faites là-dedans ?"
+    imre ""
 
-# game/v12/scene18.rpy:1591
+# game/v12/scene18.rpy:1587
 translate francais v12s18_bet_0649c2a5:
 
     # u "Torture! What are you doing out there?"
-    u "De la torture ! Que fais-tu là ?"
+    u ""
 
-# game/v12/scene18.rpy:1597
+# game/v12/scene18.rpy:1593
 translate francais v12s18_bet_c42f9648:
 
     # u "For real, what's up?"
-    u "Pour de vrai, qu'est-ce qu'il y a ?"
+    u ""
 
-# game/v12/scene18.rpy:1607
+# game/v12/scene18.rpy:1603
 translate francais v12s18_bet_e0056f98:
 
     # u "Oh... okay, umm. What are you doing?"
-    u "Oh... ok, humm. Qu'est-ce que tu fais ?"
+    u ""
 
-# game/v12/scene18.rpy:1612
+# game/v12/scene18.rpy:1608
 translate francais v12s18_bet_f75d3e50:
 
     # am "Getting our little bet over with."
-    am "On finit notre petit pari."
+    am ""
 
-# game/v12/scene18.rpy:1617
+# game/v12/scene18.rpy:1613
 translate francais v12s18_bet_8dc5a7c9:
 
     # u "What bet?"
-    u "Quel pari ?"
+    u ""
 
-# game/v12/scene18.rpy:1622
+# game/v12/scene18.rpy:1618
 translate francais v12s18_bet_16e94d8a:
 
     # am "You don't even remember? I lost our little go kart bet... So, I wanna go ahead and take my picture."
-    am "Tu te souviens même pas ? J'ai perdu notre petit pari au karting... Donc, je veux en finir et prendre ma photo."
+    am ""
 
-# game/v12/scene18.rpy:1627
+# game/v12/scene18.rpy:1623
 translate francais v12s18_bet_53e7a5ef:
 
     # u "Why now?"
-    u "Pourquoi maintenant ?"
+    u ""
 
-# game/v12/scene18.rpy:1632
+# game/v12/scene18.rpy:1628
 translate francais v12s18_bet_959ddbeb:
 
     # am "Well, to be honest with you I want the feedback and there's a pretty big audience out there. *Chuckles*"
-    am "Eh bien, pour être honnête avec toi, je veux avoir des retours et il y a un public assez large là-bas. *Rire*"
+    am ""
 
-# game/v12/scene18.rpy:1637
+# game/v12/scene18.rpy:1633
 translate francais v12s18_bet_d3f06d31:
 
     # u "You're crazy, you know that?"
-    u "Tu es folle, tu le sais ?"
+    u ""
 
-# game/v12/scene18.rpy:1642
+# game/v12/scene18.rpy:1638
 translate francais v12s18_bet_41d3412f:
 
     # am "Haha... Make sure I look good."
-    am "Haha... Assure-toi que je sois bien."
+    am ""
 
-# game/v12/scene18.rpy:1662
+# game/v12/scene18.rpy:1658
 translate francais v12s18_bet_3462d206:
 
     # am "Alright, let me see."
-    am "Bon, voyons voir."
+    am ""
 
-# game/v12/scene18.rpy:1672
+# game/v12/scene18.rpy:1668
 translate francais v12s18_bet_eacbe3e5:
 
     # am "Oooo, these are good! Damn..."
-    am "Oooooh, elles sont bonnes ! Merde..."
+    am ""
 
-# game/v12/scene18.rpy:1684
+# game/v12/scene18.rpy:1680
 translate francais v12s18_bet_baac5e4b_1:
 
     # imre "*Drunk* Heyyyy, what are you guys doing in there?"
-    imre "*Ivre* Heyyyy, qu'est-ce que vous faites là-dedans."
+    imre ""
 
-# game/v12/scene18.rpy:1689
+# game/v12/scene18.rpy:1685
 translate francais v12s18_bet_fb635d3a:
 
     # u "Plotting, what are you doing out there?"
-    u "En train de faire des plans, qu'est-ce que tu fais dehors ?"
+    u ""
 
-# game/v12/scene18.rpy:1694
+# game/v12/scene18.rpy:1690
 translate francais v12s18_bet_5bd1f527:
 
     # imre "*Drunk* Bored on my phone... Everyone out here is going to sleep... Also, I'm pretty fucking drunk right now... *Chuckles*"
-    imre "*Ivre* J'm'ennuie sur mon téléphone... Tout le monde ici va s'coucher... En plus, j'suis complètement bourré là... *Rire*"
+    imre ""
 
-# game/v12/scene18.rpy:1699
+# game/v12/scene18.rpy:1695
 translate francais v12s18_bet_0407927f:
 
     # u "What are you doing on your phone?"
-    u "Tu fais quoi sur ton téléphone ?"
+    u ""
 
-# game/v12/scene18.rpy:1704
+# game/v12/scene18.rpy:1700
 translate francais v12s18_bet_909d5397:
 
     # imre "*Drunk* I'm just scrolling through my Kiwii and-"
-    imre "*Ivre* J'suis juste en train d'faire défiler mon Kiwii et..."
+    imre ""
 
-# game/v12/scene18.rpy:1715
+# game/v12/scene18.rpy:1711
 translate francais v12s18_bet_8df010cf:
 
     # imre "OH SHITTT!"
-    imre "OH MEEEEERDE !"
+    imre ""
 
-# game/v12/scene18.rpy:1720
+# game/v12/scene18.rpy:1716
 translate francais v12s18_bet_ed40d4ef:
 
     # am "Somebody just got a nice surprise."
-    am "Ah, quelqu'un vient d'avoir une belle surprise."
+    am ""
 
-# game/v12/scene18.rpy:1725
+# game/v12/scene18.rpy:1721
 translate francais v12s18_bet_4c05f1fb:
 
     # u "Oh my god... *Chuckles*"
-    u "Oh putain... *Rire*"
+    u ""
 
-# game/v12/scene18.rpy:1732
+# game/v12/scene18.rpy:1728
 translate francais v12s18_bet_78488e36:
 
     # am "*Whisper* Hey, let's prank him."
-    am "*Chuchote* Hé, on va lui faire une farce."
+    am ""
 
-# game/v12/scene18.rpy:1737
+# game/v12/scene18.rpy:1733
 translate francais v12s18_bet_907e332d:
 
     # u "How?"
-    u "Comment ?"
+    u ""
 
-# game/v12/scene18.rpy:1742
+# game/v12/scene18.rpy:1738
 translate francais v12s18_bet_ebfdc2d4:
 
     # am "*Whisper* Let's draw on his face. *Chuckles*"
-    am "*Chuchote* Dessinons sur son visage. *Rire*"
+    am ""
 
-# game/v12/scene18.rpy:1747
+# game/v12/scene18.rpy:1743
 translate francais v12s18_bet_11f0e9f9:
 
     # u "He's wide awake..."
-    u "Il est encore bien éveillé..."
+    u ""
 
-# game/v12/scene18.rpy:1752
+# game/v12/scene18.rpy:1748
 translate francais v12s18_bet_4e9039c3:
 
     # am "*Whisper* And drunk."
-    am "*Chuchote* Mais bourré."
+    am ""
 
-# game/v12/scene18.rpy:1770
+# game/v12/scene18.rpy:1766
 translate francais v12s18_bet_d43ec00a:
 
     # u "Where are all the guys?"
-    u "Où sont passés tout les autres ?"
+    u ""
 
-# game/v12/scene18.rpy:1775
+# game/v12/scene18.rpy:1771
 translate francais v12s18_bet_0ad771c3:
 
     # imre "*Drunk* They left for a guy's date or something."
-    imre "*Ivre* Ils sont partis à un rencard entre eux ou quelque chose comme ça."
+    imre ""
 
-# game/v12/scene18.rpy:1780
+# game/v12/scene18.rpy:1776
 translate francais v12s18_bet_015340d4:
 
     # u "Why didn't you go with them?"
-    u "Pourquoi t'es pas allé avec eux ?"
+    u ""
 
-# game/v12/scene18.rpy:1785
+# game/v12/scene18.rpy:1781
 translate francais v12s18_bet_a5b52207:
 
     # imre "*Drunk* Someone had to stay with the ladies! Haha..."
-    imre "*Ivre* Quelqu'un devait rester avec les dames ! Haha..."
+    imre ""
 
-# game/v12/scene18.rpy:1790
+# game/v12/scene18.rpy:1786
 translate francais v12s18_bet_fc085fd0:
 
     # am "Oh my God, Imre... You don't look so good. C'mon, come sit down."
-    am "Oh merde, Imre... t'as pas l'air bien. Allez, viens t'asseoir."
+    am ""
 
-# game/v12/scene18.rpy:1800
+# game/v12/scene18.rpy:1796
 translate francais v12s18_bet_db56474c:
 
     # imre "*Drunk* You're so pretty."
-    imre "*Ivre* T'est tellement jolie."
+    imre ""
 
-# game/v12/scene18.rpy:1805
+# game/v12/scene18.rpy:1801
 translate francais v12s18_bet_abeff5e1:
 
     # am "Haha, thanks. Now, just lay back and close your eyes. Let me massage your face."
-    am "Haha, merci. Maintenant, étends-toi et ferme les yeux. Laisse-moi te masser le visage."
+    am ""
 
-# game/v12/scene18.rpy:1810
+# game/v12/scene18.rpy:1806
 translate francais v12s18_bet_8f612043:
 
     # imre "*Drunk* Mmm, so nice."
-    imre "*Ivre* Mmm, c'est si agréable."
+    imre ""
 
-# game/v12/scene18.rpy:1815
+# game/v12/scene18.rpy:1811
 translate francais v12s18_bet_2dc61761:
 
     # u "*Whisper* What the fuck is that? *Chuckles*"
-    u "*Chuchote* C'est quoi ce bordel ? *Rire*"
+    u ""
 
-# game/v12/scene18.rpy:1820
+# game/v12/scene18.rpy:1816
 translate francais v12s18_bet_ece9ed26:
 
     # u "He's asleep?!"
-    u "Il dort ?!"
+    u ""
 
-# game/v12/scene18.rpy:1825
+# game/v12/scene18.rpy:1821
 translate francais v12s18_bet_71a64f82:
 
     # am "Yep, my little raccoon fell right to sleep. *Chuckles*"
-    am "Oui, mon petit raton laveur s'est endormi. *Rire*"
+    am ""
 
-# game/v12/scene18.rpy:1830
+# game/v12/scene18.rpy:1826
 translate francais v12s18_bet_a4917aa9:
 
     # u "We might as well get to bed too, right?"
-    u "On pourrait aller se coucher nous aussi, non ?"
+    u ""
 
-# game/v12/scene18.rpy:1835
+# game/v12/scene18.rpy:1831
 translate francais v12s18_bet_09ba0654:
 
     # am "Yeah. It's pretty late."
-    am "Oui. Il est assez tard."
+    am ""
 
-# game/v12/scene18.rpy:1845
+# game/v12/scene18.rpy:1841
 translate francais v12s18_bet_8f62fe72:
 
     # u "We're just gonna leave him there?"
-    u "On va le laisser là ?"
+    u ""
 
-# game/v12/scene18.rpy:1850
+# game/v12/scene18.rpy:1846
 translate francais v12s18_bet_5c43ca2e:
 
     # am "Yeah? *Laughs* He's cozy."
-    am "Ouais ? *Rire* Il est bien installé."
+    am ""
 
-# game/v12/scene18.rpy:1855
+# game/v12/scene18.rpy:1851
 translate francais v12s18_bet_8569c4fa:
 
     # u "*Chuckles*"
-    u "*Rire*"
+    u ""
 
-# game/v12/scene18.rpy:1860
+# game/v12/scene18.rpy:1856
 translate francais v12s18_bet_c056f68b:
 
     # am "C'mon, we can share."
-    am "Allez viens, on peut partager le lit."
+    am ""
 
-# game/v12/scene18.rpy:1865
+# game/v12/scene18.rpy:1861
 translate francais v12s18_bet_b9c4fde3:
 
     # u "Okay."
-    u "Okay."
+    u ""
 
-# game/v12/scene18.rpy:1892
+# game/v12/scene18.rpy:1888
 translate francais v12s18_bet_53618ad3:
 
     # am "Cold?"
-    am "Froid ?"
+    am ""
 
-# game/v12/scene18.rpy:1897
+# game/v12/scene18.rpy:1893
 translate francais v12s18_bet_74406210:
 
     # u "Something like that."
-    u "Un truc comme ça."
+    u ""
 
-# game/v12/scene18.rpy:1906
+# game/v12/scene18.rpy:1902
 translate francais v12s18_bet_852da9c2:
 
     # am "*Chuckles* You can stay, but be sure to back up before morning. Don't want to upset any of your girlfriends... *Chuckles*"
-    am "*Rire* Tu peux rester, mais assure-toi de faire marche arrière avant le matin. Je veux pas contrarier tes petites amies... *Rire*"
+    am ""
 
-# game/v12/scene18.rpy:1911
+# game/v12/scene18.rpy:1907
 translate francais v12s18_bet_1ac14da2:
 
     # u "Ha, roger that."
-    u "Ha, bien reçu."
+    u ""
 
-# game/v12/scene18.rpy:1922
+# game/v12/scene18.rpy:1920
 translate francais v12s18_bet_3291ebd2:
 
     # am "Well, snuggle a pillow or something."
-    am "Eh bien, blottit toi contre un oreiller ou quelque chose comme ça."
+    am ""
 
-# game/v12/scene18.rpy:1927
+# game/v12/scene18.rpy:1925
 translate francais v12s18_bet_bba80a90:
 
     # u "Yes, ma'am..."
-    u "Oui, m'dame..."
+    u ""
 
-# game/v12/scene18.rpy:1944
+# game/v12/scene18.rpy:1942
 translate francais v12s18_bet_4ed75bb6:
 
     # u "(Not with all these girls in here. *Chuckles*)"
-    u "(Pas avec toutes ces filles présentes ici. *Rire*)"
+    u ""
 
 translate francais strings:
 
     # game/v12/scene18.rpy:333
     old "Couldn't have asked for a better night... <3"
-    new "Je n'aurais pas pu demander une meilleure soirée... <3"
+    new ""
 
     # game/v12/scene18.rpy:334
     old "You're so welcome boo... Girls night again ASAP!"
-    new "De rien, boo... Soirée filles à nouveau dès que possible !"
+    new ""
 
     # game/v12/scene18.rpy:335
     old "Even more beautiful in person, ladies..."
-    new "Encore plus beau en personne, mesdames..."
+    new ""
 
     # game/v12/scene18.rpy:336
     old "Yesss! We have to do this again."
-    new "Ouiiiiii ! On doit refaire ça."
+    new ""
 
     # game/v12/scene18.rpy:337
     old "Just say when and where! Had a lot of fun :)"
-    new "Il suffit de dire quand et où ! Je me suis beaucoup amusé :)"
+    new ""
 
     # game/v12/scene18.rpy:338
     old "You deserve the best! Glad you enjoyed it ;)"
-    new "Tu mérites le meilleur ! Content que ça t'ait plu ;)"
+    new ""
 
     # game/v12/scene18.rpy:339
     old "Haha, thank you guys <3"
-    new "Haha, merci les amis <3"
+    new ""
 
-    # game/v12/scene18.rpy:550
+    # game/v12/scene18.rpy:548
     old "Kiss him"
-    new "Embrassez-le."
+    new ""
 
-    # game/v12/scene18.rpy:550
+    # game/v12/scene18.rpy:548
     old "Get slapped"
-    new "Se faire gifler"
+    new ""
 
-    # game/v12/scene18.rpy:1285
+    # game/v12/scene18.rpy:1283
     old "Marry Amber"
-    new "Épouser Amber"
+    new ""
 
-    # game/v12/scene18.rpy:1285
+    # game/v12/scene18.rpy:1283
     old "Marry Nora"
-    new "Épouser Nora"
+    new ""
 
-    # game/v12/scene18.rpy:1707
+    # game/v12/scene18.rpy:1703
     old "A bet is a bet..."
-    new "Un pari est un pari..."
+    new ""
 
-    # game/v12/scene18.rpy:1881
+    # game/v12/scene18.rpy:1877
     old "Cuddle"
-    new "Câlinez"
+    new ""
 
-    # game/v12/scene18.rpy:1881
+    # game/v12/scene18.rpy:1877
     old "Stay away"
-    new "Restez à l'écart"
+    new ""
+

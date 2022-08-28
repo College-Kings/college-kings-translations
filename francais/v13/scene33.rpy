@@ -1,73 +1,74 @@
-﻿# TODO: Translation updated at 2022-01-06 22:51
+﻿# TODO: Translation updated at 2022-08-22 08:06
 
-# game/v13/scene33.rpy:21
+# game/v13/scene33.rpy:20
 translate francais v13s33_477524e5:
 
     # u "Come in!"
-    u "Entre !"
+    u ""
 
-# game/v13/scene33.rpy:36
+# game/v13/scene33.rpy:35
 translate francais v13s33_0313745f:
 
     # ri "C'mon, get up! I wanna go to the treasure hunt place."
-    ri "Allez, lève-toi ! Je veux aller à la chasse au trésor."
+    ri ""
 
-# game/v13/scene33.rpy:41
+# game/v13/scene33.rpy:40
 translate francais v13s33_f65ef425:
 
     # u "Why are you waking me up to do this?"
-    u "Pourquoi à chaque fois, tu me réveilles pour faire ça ?"
+    u ""
 
-# game/v13/scene33.rpy:46
+# game/v13/scene33.rpy:45
 translate francais v13s33_d11bd0c7:
 
     # ri "Because I'm ready to go! And based on where it is, I'm not trying to go during any other part of the day."
-    ri "Parce que je suis prête à partir ! Et vu l'endroit, je n'ai pas envie d'y aller à un autre moment de la journée."
+    ri ""
 
-# game/v13/scene33.rpy:51
+# game/v13/scene33.rpy:50
 translate francais v13s33_0e690f5b:
 
     # u "*Sighs* Where is it?"
-    u "*Soupirs* Où c'est ?"
+    u ""
 
-# game/v13/scene33.rpy:56
+# game/v13/scene33.rpy:55
 translate francais v13s33_529ea372:
 
     # ri "An old dungeon..."
-    ri "De vieilles oubliettes..."
+    ri ""
 
-# game/v13/scene33.rpy:61
+# game/v13/scene33.rpy:60
 translate francais v13s33_10f86b22:
 
     # u "How do you know this time?"
-    u "Comment tu sais ça, cette fois ?"
+    u ""
 
-# game/v13/scene33.rpy:66
+# game/v13/scene33.rpy:65
 translate francais v13s33_35fa3030:
 
     # ri "Same way I knew the last few times, these clues are way too easy. *Chuckles*"
-    ri "Comme je l'ai su les dernières fois. Ces indices sont bien trop faciles. *Rire*"
+    ri ""
 
-# game/v13/scene33.rpy:71
+# game/v13/scene33.rpy:70
 translate francais v13s33_ec3eb410:
 
     # u "What was the clue?"
-    u "C'était quoi l'indice ?"
+    u ""
 
-# game/v13/scene33.rpy:76
+# game/v13/scene33.rpy:75
 translate francais v13s33_dc6dba25:
 
     # ri "Not important, now get up!"
-    ri "C'est pas important, maintenant lève-toi !"
+    ri ""
 
-# game/v13/scene33.rpy:81
+# game/v13/scene33.rpy:80
 translate francais v13s33_57ae9944:
 
     # u "*Sighs*"
-    u "*Soupirs*"
+    u ""
 
-# game/v13/scene33.rpy:96
+# game/v13/scene33.rpy:95
 translate francais v13s33_e7a41f39:
 
     # u "Lead the way."
-    u "Je te suis."
+    u ""
+

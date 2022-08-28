@@ -1,549 +1,554 @@
-﻿# TODO: Translation updated at 2021-12-03 14:03
+﻿# TODO: Translation updated at 2022-08-22 08:06
 
 # game/v10/Scene30a.rpy:19
 translate francais v10_emily_course_c30e3e49:
 
     # u "(I should probably just get straight to studying. Getting a headstart on some of that Econ work might be a good idea.)"
-    u "(Je devrais me mettre directement à étudier. Prendre de l'avance sur certains de ces travaux d'économie pourrait être une bonne idée.)"
+    u ""
 
 # game/v10/Scene30a.rpy:24
 translate francais v10_emily_course_329478eb:
 
     # u "(I don't even know if I have credit yet?)"
-    u "(Je sais même pas si j'ai encore du crédit ?)"
+    u ""
 
 # game/v10/Scene30a.rpy:29
 translate francais v10_emily_course_04d1da9e:
 
     # u "(How much money do I even have?)"
-    u "(Combien d'argent me reste-il, au fait ?)"
+    u ""
 
 # game/v10/Scene30a.rpy:34
 translate francais v10_emily_course_a9a05e71:
 
     # u "(No one taught me this in school...)"
-    u "(Personne m'a appris ça à l'école...)"
+    u ""
 
-# game/v10/Scene30a.rpy:39
+# game/v10/Scene30a.rpy:37
 translate francais v10_emily_course_5dcd2bff:
 
     # u "(I didn't know she was into first responder work.)"
-    u "(Je savais pas qu'elle était formée aux premiers secours.)"
+    u ""
 
-# game/v10/Scene30a.rpy:45
+# game/v10/Scene30a.rpy:43
 translate francais v10_emily_course_cf51a2a2:
 
     # em "Oh hey [name]."
-    em "Oh hey [name]."
+    em ""
 
-# game/v10/Scene30a.rpy:50
+# game/v10/Scene30a.rpy:48
 translate francais v10_emily_course_5ae4fe71:
 
     # be "Ahh you have a visitor, perfect timing for a five minute break."
-    be "Ahh tu as un visiteur, timing parfait pour une pause de 5 minutes."
+    be ""
 
-# game/v10/Scene30a.rpy:55
+# game/v10/Scene30a.rpy:53
 translate francais v10_emily_course_ead00f64:
 
     # em "What are you doing here?"
-    em "Qu'est-ce que tu fais là ?"
+    em ""
 
-# game/v10/Scene30a.rpy:60
+# game/v10/Scene30a.rpy:58
 translate francais v10_emily_course_b9efaafd:
 
     # u "Well I was just passing by and thought I heard your voice so I peeked in. I didn't know you were into this kind of stuff."
-    u "Je passais par là et j'ai cru entendre ta voix alors j'ai jeté un coup d'oeil. Je savais pas que tu faisais ça."
+    u ""
 
-# game/v10/Scene30a.rpy:65
+# game/v10/Scene30a.rpy:63
 translate francais v10_emily_course_7ea273fe:
 
     # em "I've been trying out a lot of new things recently, a friend suggested this course so I'm trying it out."
-    em "J'ai essayé beaucoup de nouvelles choses récemment, une amie m'a suggéré ce cours, alors je l'essaie."
+    em ""
 
-# game/v10/Scene30a.rpy:70
+# game/v10/Scene30a.rpy:68
 translate francais v10_emily_course_7c08c4ea:
 
     # u "Good to see you trying new things."
-    u "C'est bien de te voir essayer de nouvelles choses."
+    u ""
 
-# game/v10/Scene30a.rpy:75
+# game/v10/Scene30a.rpy:73
 translate francais v10_emily_course_0455fffc:
 
     # em "Yeah, it's been a while since I-"
-    em "Oui, ça fait un moment que je-"
+    em ""
 
-# game/v10/Scene30a.rpy:80
+# game/v10/Scene30a.rpy:78
 translate francais v10_emily_course_f46ccc4f:
 
     # jer "Emily we're ready to get going again."
-    jer "Emily, nous sommes prêts à reprendre."
+    jer ""
 
-# game/v10/Scene30a.rpy:85
+# game/v10/Scene30a.rpy:83
 translate francais v10_emily_course_06f884c8:
 
     # em "Looks like I gotta go. You know what... you should join us. I'd enjoy the company... and only three of us showed up, so there's plenty of space."
-    em "On dirait que je dois y aller. Tu sais quoi... tu devrais te joindre à nous. J'apprécie la compagnie... et on n'est que trois, alors il y a de la place."
+    em ""
 
-# game/v10/Scene30a.rpy:97
+# game/v10/Scene30a.rpy:93
 translate francais v10_emily_course_1693edc0:
 
     # u "I'm sure I could try it out."
-    u "Je pourrais essayer."
+    u ""
 
-# game/v10/Scene30a.rpy:102
+# game/v10/Scene30a.rpy:98
 translate francais v10_emily_course_5c4fc9eb:
 
     # be "Will your friend be joining us?"
-    be "Ton ami se joint à nous ?"
+    be ""
 
-# game/v10/Scene30a.rpy:107
+# game/v10/Scene30a.rpy:103
 translate francais v10_emily_course_c8959210:
 
     # u "Sure will."
-    u "Bien sûr."
+    u ""
 
-# game/v10/Scene30a.rpy:112
+# game/v10/Scene30a.rpy:108
 translate francais v10_emily_course_276f9ac2:
 
     # jer "Let's get to it then!"
-    jer "Alors, allons-y !"
+    jer ""
 
-# game/v10/Scene30a.rpy:117
+# game/v10/Scene30a.rpy:113
 translate francais v10_emily_course_6c9ef77a:
 
     # u "Emily you're pretty good at this."
-    u "Emily tu es plutôt bonne à ça."
+    u ""
 
-# game/v10/Scene30a.rpy:122
+# game/v10/Scene30a.rpy:118
 translate francais v10_emily_course_2b4c89ac:
 
     # be "You should think about becoming a nurse young lady."
-    be "Tu devrais penser à devenir infirmière, jeune fille."
+    be ""
 
-# game/v10/Scene30a.rpy:127
+# game/v10/Scene30a.rpy:123
 translate francais v10_emily_course_27f505c7:
 
     # em "\"Staying alive, staying alive!\""
-    em "\"Staying alive, staying alive!\""
+    em ""
 
-# game/v10/Scene30a.rpy:132
+# game/v10/Scene30a.rpy:128
 translate francais v10_emily_course_2e4a8818:
 
     # u "Emily?"
-    u "Emily ?"
+    u ""
 
-# game/v10/Scene30a.rpy:137
+# game/v10/Scene30a.rpy:133
 translate francais v10_emily_course_0858b505:
 
     # em "*Whisper* I can't breath, will anyone save me?"
-    em "*Chuchote* Je ne peux pas respirer, est-ce que quelqu'un va me sauver ?"
+    em ""
 
-# game/v10/Scene30a.rpy:147
+# game/v10/Scene30a.rpy:142
 translate francais v10_emily_course_a73718c8:
 
     # u "Don't you die on us!"
-    u "Ne meurs pas devant nous !"
+    u ""
 
-# game/v10/Scene30a.rpy:149
+# game/v10/Scene30a.rpy:144
 translate francais v10_emily_course_90ecf18d:
 
     # be "Looks like you two are really getting into it."
-    be "On dirait que vous vous y mettez vraiment tous les deux."
+    be ""
 
-# game/v10/Scene30a.rpy:154
+# game/v10/Scene30a.rpy:149
 translate francais v10_emily_course_ae3059fd:
 
     # u "Oh no, if only someone could save her."
-    u "Oh non, si seulement quelqu'un pouvait la sauver."
+    u ""
 
-# game/v10/Scene30a.rpy:159
+# game/v10/Scene30a.rpy:154
 translate francais v10_emily_course_cd68c0e4:
 
     # em "Oh you're no fun."
-    em "Oh, t'es pas marrant."
+    em ""
 
-# game/v10/Scene30a.rpy:164
+# game/v10/Scene30a.rpy:159
 translate francais v10_emily_course_08487fa9:
 
     # be "Alright, that's all for today. I wish we had more students, but you guys still made it a wonderful class. Will any of you be joining us for another class?"
-    be "Très bien, c'est tout pour aujourd'hui. J'aurais aimé qu'on ait plus d'étudiants, mais vous avez quand même fait un excellent cours. Est-ce que l'un d'entre vous se joindra à nous pour une autre leçon ?"
+    be ""
 
-# game/v10/Scene30a.rpy:169
+# game/v10/Scene30a.rpy:164
 translate francais v10_emily_course_c76955fe:
 
     # em "I know I will. I honestly could really see myself being a nurse. What do you think, [name]?"
-    em "Je sais que oui. Honnêtement, je me vois vraiment être une infirmière. Qu'en penses-tu, [name] ?"
+    em ""
 
-# game/v10/Scene30a.rpy:181
+# game/v10/Scene30a.rpy:174
 translate francais v10_emily_course_5dc2a97f:
 
     # u "Yeah, I could be down."
-    u "Oui, je pourrais être à terre."
+    u ""
 
-# game/v10/Scene30a.rpy:186
+# game/v10/Scene30a.rpy:179
 translate francais v10_emily_course_16ce9480:
 
     # em "Amazing."
-    em "Impressionnant."
+    em ""
 
-# game/v10/Scene30a.rpy:189
+# game/v10/Scene30a.rpy:182
 translate francais v10_emily_course_45a4f945:
 
     # u "I don't know. It was fun and all, but I think I'm not made to be a first responder."
-    u "Je sais pas. C'était amusant et tout, mais je pense que je suis pas fait pour être secouriste."
+    u ""
 
-# game/v10/Scene30a.rpy:194
+# game/v10/Scene30a.rpy:187
 translate francais v10_emily_course_5aa6a220:
 
     # em "Maybe in another life."
-    em "Peut-être dans une autre vie."
+    em ""
 
-# game/v10/Scene30a.rpy:199
+# game/v10/Scene30a.rpy:192
 translate francais v10_emily_course_f6e97ed8:
 
     # u "Shoot, what time is it?"
-    u "Merde, quelle heure est-il ?"
+    u ""
 
-# game/v10/Scene30a.rpy:204
+# game/v10/Scene30a.rpy:197
 translate francais v10_emily_course_af4c7165:
 
     # em "About seven."
-    em "À peu près dix-neuf heures."
+    em ""
 
-# game/v10/Scene30a.rpy:209
+# game/v10/Scene30a.rpy:202
 translate francais v10_emily_course_f090074e:
 
     # u "Oh damn, I need to go. I haven't studied for my assignment at all."
-    u "Oh merde, je dois y aller. Je n'ai pas du tout étudié pour mon devoir."
+    u ""
 
-# game/v10/Scene30a.rpy:214
+# game/v10/Scene30a.rpy:207
 translate francais v10_emily_course_51aefb2a:
 
     # em "Oh, well I don't want to keep you."
-    em "Oh, eh bien je ne veux pas te retenir."
+    em ""
 
-# game/v10/Scene30a.rpy:219
+# game/v10/Scene30a.rpy:212
 translate francais v10_emily_course_79c48ee2:
 
     # u "I'll see you around."
-    u "Je te verrai plus tard."
+    u ""
 
-# game/v10/Scene30a.rpy:224
+# game/v10/Scene30a.rpy:217
 translate francais v10_emily_course_a673a22b:
 
     # em "See you [name]. Thanks for hanging with me."
-    em "À plus tard [name]. Merci d'être resté avec moi."
+    em ""
 
-# game/v10/Scene30a.rpy:229
+# game/v10/Scene30a.rpy:222
 translate francais v10_emily_course_1b28a406:
 
     # u "Of course."
-    u "Pas de soucis."
+    u ""
 
-# game/v10/Scene30a.rpy:236
+# game/v10/Scene30a.rpy:229
 translate francais v10_emily_course_f6e97ed8_1:
 
     # u "Shoot, what time is it?"
-    u "Merde, quelle heure est-il ?"
+    u ""
 
-# game/v10/Scene30a.rpy:241
+# game/v10/Scene30a.rpy:234
 translate francais v10_emily_course_af4c7165_1:
 
     # em "About seven."
-    em "À peu près dix-neuf heures."
+    em ""
 
-# game/v10/Scene30a.rpy:246
+# game/v10/Scene30a.rpy:239
 translate francais v10_emily_course_f090074e_1:
 
     # u "Oh damn, I need to go. I haven't studied for my assignment at all."
-    u "Oh merde, je dois y aller. Je n'ai pas du tout étudié pour mon devoir."
+    u ""
 
-# game/v10/Scene30a.rpy:251
+# game/v10/Scene30a.rpy:244
 translate francais v10_emily_course_51aefb2a_1:
 
     # em "Oh, well I don't want to keep you."
-    em "Oh, eh bien je ne veux pas te retenir."
+    em ""
 
-# game/v10/Scene30a.rpy:256
+# game/v10/Scene30a.rpy:249
 translate francais v10_emily_course_79c48ee2_1:
 
     # u "I'll see you around."
-    u "Je te verrai plus tard."
+    u ""
 
-# game/v10/Scene30a.rpy:261
+# game/v10/Scene30a.rpy:254
 translate francais v10_emily_course_094b69ff:
 
     # em "Oh uhm... hey [name]."
-    em "Oh hum... hey [name]."
+    em ""
 
-# game/v10/Scene30a.rpy:266
+# game/v10/Scene30a.rpy:259
 translate francais v10_emily_course_c6ab264e:
 
     # be "Ahh you have company, perfect timing for a five minute break."
-    be "Ahh tu as de la compagnie, le timing parfait pour une pause de 5 minutes."
+    be ""
 
-# game/v10/Scene30a.rpy:271
+# game/v10/Scene30a.rpy:264
 translate francais v10_emily_course_d745563d:
 
     # em "What are you... what are you doing here? I'm a little surprised to see you."
-    em "Qu'est-ce que tu... qu'est-ce que tu fais ici ? Je suis un peu surprise de te voir."
+    em ""
 
-# game/v10/Scene30a.rpy:276
+# game/v10/Scene30a.rpy:269
 translate francais v10_emily_course_b9efaafd_1:
 
     # u "Well I was just passing by and thought I heard your voice so I peeked in. I didn't know you were into this kind of stuff."
-    u "Je passais par là et j'ai cru entendre ta voix alors j'ai jeté un coup d'oeil. Je savais pas que tu faisais ça."
+    u ""
 
-# game/v10/Scene30a.rpy:281
+# game/v10/Scene30a.rpy:274
 translate francais v10_emily_course_bfe6a271:
 
     # em "Oh well... I've been trying out a lot of new things recently, a friend suggested this course so I'm trying it out."
-    em "Eh bien... J'ai essayé beaucoup de nouvelles choses récemment, une amie m'a suggéré ce cours alors je l'essaie."
+    em ""
 
-# game/v10/Scene30a.rpy:286
+# game/v10/Scene30a.rpy:279
 translate francais v10_emily_course_7c08c4ea_1:
 
     # u "Good to see you trying new things."
-    u "C'est bien de te voir essayer de nouvelles choses."
+    u ""
 
-# game/v10/Scene30a.rpy:291
+# game/v10/Scene30a.rpy:284
 translate francais v10_emily_course_9bdb1407:
 
     # em "We haven't really spoken much, I thought you were mad at me."
-    em "Nous n'avons pas beaucoup parlé, je pensais que tu étais en colère contre moi."
+    em ""
 
-# game/v10/Scene30a.rpy:296
+# game/v10/Scene30a.rpy:289
 translate francais v10_emily_course_e1d20f78:
 
     # u "I wasn't mad, I just- I just needed time to process everything that happened."
-    u "Je n'étais pas en colère, j'avais juste... j'avais juste besoin de temps pour digérer tout ce qui s'est passé."
+    u ""
 
-# game/v10/Scene30a.rpy:301
+# game/v10/Scene30a.rpy:294
 translate francais v10_emily_course_9a37640e:
 
     # em "I understand that."
-    em "Je comprends."
+    em ""
 
-# game/v10/Scene30a.rpy:306
+# game/v10/Scene30a.rpy:299
 translate francais v10_emily_course_f46ccc4f_1:
 
     # jer "Emily we're ready to get going again."
-    jer "Emily, nous sommes prêts à reprendre."
+    jer ""
 
-# game/v10/Scene30a.rpy:311
+# game/v10/Scene30a.rpy:304
 translate francais v10_emily_course_06f884c8_1:
 
     # em "Looks like I gotta go. You know what... you should join us. I'd enjoy the company... and only three of us showed up, so there's plenty of space."
-    em "On dirait que je dois y aller. Tu sais quoi... tu devrais te joindre à nous. J'apprécie la compagnie... et on n'est que trois, alors il y a de la place."
+    em ""
 
-# game/v10/Scene30a.rpy:323
+# game/v10/Scene30a.rpy:315
 translate francais v10_emily_course_1693edc0_1:
 
     # u "I'm sure I could try it out."
-    u "Je pourrais essayer."
+    u ""
 
-# game/v10/Scene30a.rpy:328
+# game/v10/Scene30a.rpy:320
 translate francais v10_emily_course_5c4fc9eb_1:
 
     # be "Will your friend be joining us?"
-    be "Ton ami se joint à nous ?"
+    be ""
 
-# game/v10/Scene30a.rpy:333
+# game/v10/Scene30a.rpy:325
 translate francais v10_emily_course_c8959210_1:
 
     # u "Sure will."
-    u "Bien sûr."
+    u ""
 
-# game/v10/Scene30a.rpy:338
+# game/v10/Scene30a.rpy:330
 translate francais v10_emily_course_276f9ac2_1:
 
     # jer "Let's get to it then!"
-    jer "Alors, allons-y !"
+    jer ""
 
-# game/v10/Scene30a.rpy:343
+# game/v10/Scene30a.rpy:335
 translate francais v10_emily_course_6c9ef77a_1:
 
     # u "Emily you're pretty good at this."
-    u "Emily tu es plutôt bonne à ça."
+    u ""
 
-# game/v10/Scene30a.rpy:348
+# game/v10/Scene30a.rpy:340
 translate francais v10_emily_course_2b4c89ac_1:
 
     # be "You should think about becoming a nurse young lady."
-    be "Tu devrais penser à devenir infirmière, jeune fille."
+    be ""
 
-# game/v10/Scene30a.rpy:353
+# game/v10/Scene30a.rpy:345
 translate francais v10_emily_course_27f505c7_1:
 
     # em "\"Staying alive, staying alive!\""
-    em "\"Staying alive, staying alive!\""
+    em ""
 
-# game/v10/Scene30a.rpy:358
+# game/v10/Scene30a.rpy:350
 translate francais v10_emily_course_2e4a8818_1:
 
     # u "Emily?"
-    u "Emily ?"
+    u ""
 
-# game/v10/Scene30a.rpy:363
+# game/v10/Scene30a.rpy:355
 translate francais v10_emily_course_0858b505_1:
 
     # em "*Whisper* I can't breath, will anyone save me?"
-    em "*Chuchote* Je ne peux pas respirer, est-ce que quelqu'un va me sauver ?"
+    em ""
 
-# game/v10/Scene30a.rpy:373
+# game/v10/Scene30a.rpy:364
 translate francais v10_emily_course_a73718c8_1:
 
     # u "Don't you die on us!"
-    u "Ne meurs pas devant nous !"
+    u ""
 
-# game/v10/Scene30a.rpy:375
+# game/v10/Scene30a.rpy:366
 translate francais v10_emily_course_90ecf18d_1:
 
     # be "Looks like you two are really getting into it."
-    be "On dirait que vous vous y mettez vraiment tous les deux."
+    be ""
 
-# game/v10/Scene30a.rpy:380
+# game/v10/Scene30a.rpy:371
 translate francais v10_emily_course_ae3059fd_1:
 
     # u "Oh no, if only someone could save her."
-    u "Oh non, si seulement quelqu'un pouvait la sauver."
+    u ""
 
-# game/v10/Scene30a.rpy:385
+# game/v10/Scene30a.rpy:376
 translate francais v10_emily_course_cd68c0e4_1:
 
     # em "Oh you're no fun."
-    em "Oh, t'es pas marrant."
+    em ""
 
-# game/v10/Scene30a.rpy:390
+# game/v10/Scene30a.rpy:381
 translate francais v10_emily_course_08487fa9_1:
 
     # be "Alright, that's all for today. I wish we had more students, but you guys still made it a wonderful class. Will any of you be joining us for another class?"
-    be "Très bien, c'est tout pour aujourd'hui. J'aurais aimé qu'on ait plus d'étudiants, mais vous avez quand même fait un excellent cours. Est-ce que l'un d'entre vous se joindra à nous pour une autre leçon ?"
+    be ""
 
-# game/v10/Scene30a.rpy:395
+# game/v10/Scene30a.rpy:386
 translate francais v10_emily_course_c76955fe_1:
 
     # em "I know I will. I honestly could really see myself being a nurse. What do you think, [name]?"
-    em "Je sais que oui. Honnêtement, je me vois vraiment être une infirmière. Qu'en penses-tu, [name] ?"
+    em ""
 
-# game/v10/Scene30a.rpy:407
+# game/v10/Scene30a.rpy:396
 translate francais v10_emily_course_5dc2a97f_1:
 
     # u "Yeah, I could be down."
-    u "Ouais, je pourrais être là."
+    u ""
 
-# game/v10/Scene30a.rpy:412
+# game/v10/Scene30a.rpy:401
 translate francais v10_emily_course_16ce9480_1:
 
     # em "Amazing."
-    em "Impressionnant."
+    em ""
 
-# game/v10/Scene30a.rpy:415
+# game/v10/Scene30a.rpy:404
 translate francais v10_emily_course_45a4f945_1:
 
     # u "I don't know. It was fun and all, but I think I'm not made to be a first responder."
-    u "Je sais pas. C'était amusant et tout, mais je pense que je suis pas fait pour être secouriste."
+    u ""
 
-# game/v10/Scene30a.rpy:420
+# game/v10/Scene30a.rpy:409
 translate francais v10_emily_course_5aa6a220_1:
 
     # em "Maybe in another life."
-    em "Peut-être dans une autre vie."
+    em ""
 
-# game/v10/Scene30a.rpy:425
+# game/v10/Scene30a.rpy:414
 translate francais v10_emily_course_f6e97ed8_2:
 
     # u "Shoot, what time is it?"
-    u "Merde, quelle heure est-il ?"
+    u ""
 
-# game/v10/Scene30a.rpy:430
+# game/v10/Scene30a.rpy:419
 translate francais v10_emily_course_af4c7165_2:
 
     # em "About seven."
-    em "À peu près dix-neuf heures."
+    em ""
 
-# game/v10/Scene30a.rpy:435
+# game/v10/Scene30a.rpy:424
 translate francais v10_emily_course_f090074e_2:
 
     # u "Oh damn, I need to go. I haven't studied for my assignment at all."
-    u "Oh merde, je dois y aller. Je n'ai pas du tout étudié pour mon devoir."
+    u ""
 
-# game/v10/Scene30a.rpy:440
+# game/v10/Scene30a.rpy:429
 translate francais v10_emily_course_51aefb2a_2:
 
     # em "Oh, well I don't want to keep you."
-    em "Oh, eh bien je ne veux pas te retenir."
+    em ""
 
-# game/v10/Scene30a.rpy:445
+# game/v10/Scene30a.rpy:434
 translate francais v10_emily_course_79c48ee2_2:
 
     # u "I'll see you around."
-    u "Je te verrai plus tard."
+    u ""
 
-# game/v10/Scene30a.rpy:450
+# game/v10/Scene30a.rpy:439
 translate francais v10_emily_course_a673a22b_1:
 
     # em "See you [name]. Thanks for hanging with me."
-    em "À plus tard [name]. Merci d'être resté avec moi."
+    em ""
 
-# game/v10/Scene30a.rpy:455
+# game/v10/Scene30a.rpy:444
 translate francais v10_emily_course_1b28a406_1:
 
     # u "Of course."
-    u "Pas de soucis."
+    u ""
 
-# game/v10/Scene30a.rpy:462
+# game/v10/Scene30a.rpy:451
 translate francais v10_emily_course_f6e97ed8_3:
 
     # u "Shoot, what time is it?"
-    u "Merde, quelle heure est-il ?"
+    u ""
 
-# game/v10/Scene30a.rpy:467
+# game/v10/Scene30a.rpy:456
 translate francais v10_emily_course_af4c7165_3:
 
     # em "About seven."
-    em "À peu près dix-neuf heures."
+    em ""
 
-# game/v10/Scene30a.rpy:472
+# game/v10/Scene30a.rpy:461
 translate francais v10_emily_course_f090074e_3:
 
     # u "Oh damn, I need to go. I haven't studied for my assignment at all."
-    u "Oh merde, je dois y aller. Je n'ai pas du tout étudié pour mon devoir."
+    u ""
 
-# game/v10/Scene30a.rpy:477
+# game/v10/Scene30a.rpy:466
 translate francais v10_emily_course_51aefb2a_3:
 
     # em "Oh, well I don't want to keep you."
-    em "Oh, eh bien je ne veux pas te retenir."
+    em ""
 
-# game/v10/Scene30a.rpy:482
+# game/v10/Scene30a.rpy:471
 translate francais v10_emily_course_79c48ee2_3:
 
     # u "I'll see you around."
-    u "Je te verrai plus tard."
+    u ""
 
 translate francais strings:
 
     # game/v10/Scene30a.rpy:17
+    old "Leave"
+    new ""
+
+    # game/v10/Scene30a.rpy:17
     old "Watch"
-    new "Regarder"
+    new ""
 
-    # game/v10/Scene30a.rpy:90
+    # game/v10/Scene30a.rpy:88
     old "Join Emily"
-    new "Rejoindre Emily"
+    new ""
 
-    # game/v10/Scene30a.rpy:142
+    # game/v10/Scene30a.rpy:138
     old "Save Emily"
-    new "Sauver Emily"
+    new ""
 
-    # game/v10/Scene30a.rpy:142
+    # game/v10/Scene30a.rpy:138
     old "Don't save Emily"
-    new "Ne pas sauver Emily"
+    new ""
 
-    # game/v10/Scene30a.rpy:174
+    # game/v10/Scene30a.rpy:169
     old "Agree with Emily"
-    new "Je suis d'accord avec Emily"
+    new ""
 
-    # game/v10/Scene30a.rpy:174
+    # game/v10/Scene30a.rpy:169
     old "Disagree with Emily"
-    new "Je ne suis pas d'accord avec Emily"
+    new ""
+
