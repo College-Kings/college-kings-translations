@@ -1,24 +1,24 @@
-﻿# TODO: Translation updated at 2022-08-22 09:23
+﻿# TODO: Translation updated at 2022-10-11 06:39
 
 translate francais strings:
 
     # game/inventory.rpy:37
     old "Honey"
-    new ""
+    new "Honey"
 
     # game/inventory.rpy:44
     old "Butt Plug"
-    new ""
+    new "Butt Plug"
 
     # game/inventory.rpy:51
     old "Spankers"
-    new ""
+    new "Spankers"
 
     # game/inventory.rpy:58
     old "Cuffs"
-    new ""
+    new "Cuffs"
 
     # game/inventory.rpy:65
     old "Feather"
-    new ""
+    new "Feather"
 

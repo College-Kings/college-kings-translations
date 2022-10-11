@@ -1,194 +1,194 @@
-﻿# TODO: Translation updated at 2022-08-22 08:06
+﻿# TODO: Translation updated at 2022-10-11 06:39
 
 # game/v10/scene37.rpy:5
 translate francais v10_riley_vs_amber_4a5d47d1:
 
     # ri "Oh wow, you're kinda strong."
-    ri ""
+    ri "Oh wow, you're kinda strong."
 
 # game/v10/scene37.rpy:9
 translate francais v10_riley_vs_amber_e2ee7f6e:
 
     # am "Kinda?"
-    am ""
+    am "Kinda?"
 
 # game/v10/scene37.rpy:14
 translate francais v10_riley_vs_amber_8bb1e18e:
 
     # ri "*Scream* Ahh!"
-    ri ""
+    ri "*Scream* Ahh!"
 
 # game/v10/scene37.rpy:19
 translate francais v10_riley_vs_amber_41a4a5ff:
 
     # am "*Grunts*"
-    am ""
+    am "*Grunts*"
 
 # game/v10/scene37.rpy:21
 translate francais v10_riley_vs_amber_f40230b2:
 
     # aa "WOAH!"
-    aa ""
+    aa "WOAH!"
 
 # game/v10/scene37.rpy:26
 translate francais v10_riley_vs_amber_8a835070:
 
     # ri "Not so strong now though."
-    ri ""
+    ri "Not so strong now though."
 
 # game/v10/scene37.rpy:28
 translate francais v10_riley_vs_amber_f5f0487a:
 
     # aa "Autumn, you think it'd be okay if I got in there with them?"
-    aa ""
+    aa "Autumn, you think it'd be okay if I got in there with them?"
 
 # game/v10/scene37.rpy:30
 translate francais v10_riley_vs_amber_53d29e79:
 
     # aut "You can keep wishing. *Laughs*"
-    aut ""
+    aut "You can keep wishing. *Laughs*"
 
 # game/v10/scene37.rpy:35
 translate francais v10_riley_vs_amber_19dfed92:
 
     # ri "Huh?"
-    ri ""
+    ri "Huh?"
 
 # game/v10/scene37.rpy:40
 translate francais v10_riley_vs_amber_66e4963f:
 
     # am "That was kinda hot?"
-    am ""
+    am "That was kinda hot?"
 
 # game/v10/scene37.rpy:45
 translate francais v10_riley_vs_amber_724522dd:
 
     # ri "I'm well practiced. *Laughs*"
-    ri ""
+    ri "I'm well practiced. *Laughs*"
 
 # game/v10/scene37.rpy:50
 translate francais v10_riley_vs_amber_67ac494a:
 
     # ri "*Muffled* Hmm?"
-    ri ""
+    ri "*Muffled* Hmm?"
 
 # game/v10/scene37.rpy:52
 translate francais v10_riley_vs_amber_ae083842:
 
     # u "(That's definitely something she'd do.)"
-    u ""
+    u "(That's definitely something she'd do.)"
 
 # game/v10/scene37.rpy:57
 translate francais v10_riley_vs_amber_a710f1d7:
 
     # ri "Woah!"
-    ri ""
+    ri "Woah!"
 
 # game/v10/scene37.rpy:62
 translate francais v10_riley_vs_amber_6c4dff21:
 
     # am "*Whisper* I like holding you like this..."
-    am ""
+    am "*Whisper* I like holding you like this..."
 
 # game/v10/scene37.rpy:67
 translate francais v10_riley_vs_amber_055f5cd0:
 
     # ri "Kinda hurts."
-    ri ""
+    ri "Kinda hurts."
 
 # game/v10/scene37.rpy:72
 translate francais v10_riley_vs_amber_b86d8a96:
 
     # am "You can always give up."
-    am ""
+    am "You can always give up."
 
 # game/v10/scene37.rpy:77
 translate francais v10_riley_vs_amber_86e0b29b:
 
     # ri "I'm not-"
-    ri ""
+    ri "I'm not-"
 
 # game/v10/scene37.rpy:82
 translate francais v10_riley_vs_amber_41a4a5ff_1:
 
     # am "*Grunts*"
-    am ""
+    am "*Grunts*"
 
 # game/v10/scene37.rpy:87
 translate francais v10_riley_vs_amber_fb4ee366:
 
     # ri "Alright!"
-    ri ""
+    ri "Alright!"
 
 # game/v10/scene37.rpy:92
 translate francais v10_riley_vs_amber_cf07e605:
 
     # u "(Woah, that was... woah.)"
-    u ""
+    u "(Woah, that was... woah.)"
 
 # game/v10/scene37.rpy:97
 translate francais v10_riley_vs_amber_f533868f:
 
     # u "A kiss? Is that even fair? *Laughs*"
-    u ""
+    u "A kiss? Is that even fair? *Laughs*"
 
 # game/v10/scene37.rpy:102
 translate francais v10_riley_vs_amber_547a01ca:
 
     # am "It wasn't against the rules, plus I was in the mood for a kiss."
-    am ""
+    am "It wasn't against the rules, plus I was in the mood for a kiss."
 
 # game/v10/scene37.rpy:107
 translate francais v10_riley_vs_amber_65c43f73:
 
     # u "We were all wondering if you guys were gonna do a little more than kiss."
-    u ""
+    u "We were all wondering if you guys were gonna do a little more than kiss."
 
 # game/v10/scene37.rpy:112
 translate francais v10_riley_vs_amber_55c6197a:
 
     # am "*Chuckles* Maybe we will."
-    am ""
+    am "*Chuckles* Maybe we will."
 
 # game/v10/scene37.rpy:117
 translate francais v10_riley_vs_amber_05ba4240:
 
     # u "You're something else."
-    u ""
+    u "You're something else."
 
 # game/v10/scene37.rpy:122
 translate francais v10_riley_vs_amber_6a89bdc1:
 
     # aut "That was definitely exciting! I can tell my friend here enjoyed himself."
-    aut ""
+    aut "That was definitely exciting! I can tell my friend here enjoyed himself."
 
 # game/v10/scene37.rpy:127
 translate francais v10_riley_vs_amber_307feb21:
 
     # aa "What was there not to enjoy? *Chuckles*"
-    aa ""
+    aa "What was there not to enjoy? *Chuckles*"
 
 # game/v10/scene37.rpy:132
 translate francais v10_riley_vs_amber_ece76986:
 
     # aut "Haha, very true."
-    aut ""
+    aut "Haha, very true."
 
 # game/v10/scene37.rpy:134
 translate francais v10_riley_vs_amber_d02cb279:
 
     # aut "Well I hope everyone enjoyed themselves as much as Aaron did."
-    aut ""
+    aut "Well I hope everyone enjoyed themselves as much as Aaron did."
 
 # game/v10/scene37.rpy:136
 translate francais v10_riley_vs_amber_85b8b78e:
 
     # aut "That concludes this year's main event, though some of the stations will remain open a bit longer."
-    aut ""
+    aut "That concludes this year's main event, though some of the stations will remain open a bit longer."
 
 # game/v10/scene37.rpy:138
 translate francais v10_riley_vs_amber_c19ab11b:
 
     # aut "I want to thank everyone again for coming and for the donations."
-    aut ""
+    aut "I want to thank everyone again for coming and for the donations."
 

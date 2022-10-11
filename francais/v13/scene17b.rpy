@@ -1,32 +1,32 @@
-﻿# TODO: Translation updated at 2022-08-22 08:06
+﻿# TODO: Translation updated at 2022-10-11 06:39
 
 # game/v13/scene17b.rpy:17
 translate francais v13s17b_a79c388a:
 
     # u "(Wow... It doesn't get any better than this.)"
-    u ""
+    u "(Wow... It doesn't get any better than this.)"
 
 # game/v13/scene17b.rpy:22
 translate francais v13s17b_1eb9bd11:
 
     # u "*Stomach growls*"
-    u ""
+    u "*Stomach growls*"
 
 # game/v13/scene17b.rpy:24
 translate francais v13s17b_d9a255e9:
 
     # u "(Fuck, I'm starving. Luuk better have some food today...)"
-    u ""
+    u "(Fuck, I'm starving. Luuk better have some food today...)"
 
 # game/v13/scene17b.rpy:29
 translate francais v13s17b_2677ab5e:
 
     # u "*Chuckles* (She is not gonna let me go...)"
-    u ""
+    u "*Chuckles* (She is not gonna let me go...)"
 
 # game/v13/scene17b.rpy:44
 translate francais v13s17b_c31feb14:
 
     # u "(Okay, that's pretty fucking cute.)"
-    u ""
+    u "(Okay, that's pretty fucking cute.)"
 

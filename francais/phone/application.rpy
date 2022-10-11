@@ -1,28 +1,32 @@
-﻿# TODO: Translation updated at 2022-08-22 08:59
+﻿# TODO: Translation updated at 2022-10-11 06:39
 
 translate francais strings:
 
     # game/phone/application.rpy:24
     old "Messenger"
-    new ""
+    new "Messenger"
 
     # game/phone/application.rpy:37
     old "Simplr"
-    new ""
+    new "Simplr"
 
     # game/phone/application.rpy:52
     old "Kiwii"
-    new ""
+    new "Kiwii"
 
     # game/phone/application.rpy:78
     old "Achievements"
-    new ""
+    new "Achievements"
 
     # game/phone/application.rpy:81
     old "Relationships"
-    new ""
+    new "Relationships"
 
     # game/phone/application.rpy:82
     old "Tracker"
-    new ""
+    new "Tracker"
+
+    # game/phone/application.rpy:83
+    old "Calendar"
+    new "Calendar"
 

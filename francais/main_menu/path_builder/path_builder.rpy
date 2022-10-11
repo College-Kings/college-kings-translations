@@ -1,112 +1,112 @@
-﻿# TODO: Translation updated at 2022-08-22 08:59
+﻿# TODO: Translation updated at 2022-10-11 06:39
 
 translate francais strings:
 
     # game/main_menu/path_builder/path_builder.rpy:3
     old "Pick your starting location (Act 1 Start skips steps 3-5)"
-    new ""
+    new "Pick your starting location (Act 1 Start skips steps 3-5)"
 
     # game/main_menu/path_builder/path_builder.rpy:7
     old "Pick your starting KCT"
-    new ""
+    new "Pick your starting KCT"
 
     # game/main_menu/path_builder/path_builder.rpy:11
     old "Pick a fraternity"
-    new ""
+    new "Pick a fraternity"
 
     # game/main_menu/path_builder/path_builder.rpy:15
     old "Pick which girls you want to be romantically involved with"
-    new ""
+    new "Pick which girls you want to be romantically involved with"
 
     # game/main_menu/path_builder/path_builder.rpy:19
     old "Pick your homecoming date"
-    new ""
+    new "Pick your homecoming date"
 
     # game/main_menu/path_builder/path_builder.rpy:90
     old "THE PATH BUILDER CONTAINS SPOILERS FOR THE STORY\nOF THE GAME. ARE YOU SURE YOU WANT TO CONTINUE?\nYOU WILL NOT BE ABLE TO EARN ACHIEVEMENTS IN THIS MODE."
-    new ""
+    new "THE PATH BUILDER CONTAINS SPOILERS FOR THE STORY\nOF THE GAME. ARE YOU SURE YOU WANT TO CONTINUE?\nYOU WILL NOT BE ABLE TO EARN ACHIEVEMENTS IN THIS MODE."
 
     # game/main_menu/path_builder/path_builder.rpy:106
     old "YES"
-    new ""
+    new "YES"
 
     # game/main_menu/path_builder/path_builder.rpy:115
     old "NO"
-    new ""
+    new "NO"
 
     # game/main_menu/path_builder/path_builder.rpy:156
     old "Advanced"
-    new ""
+    new "Advanced"
 
     # game/main_menu/path_builder/path_builder.rpy:268
     old "Lock KCT (Prevent it from changing)"
-    new ""
+    new "Lock KCT (Prevent it from changing)"
 
     # game/main_menu/path_builder/path_builder.rpy:285
     old "Latest Update"
-    new ""
+    new "Latest Update"
 
     # game/main_menu/path_builder/path_builder.rpy:321
     old "Advanced Settings"
-    new ""
+    new "Advanced Settings"
 
     # game/main_menu/path_builder/path_builder.rpy:336
     old "Extras"
-    new ""
+    new "Extras"
 
     # game/main_menu/path_builder/path_builder.rpy:348
     old "Invite Emily to Europe"
-    new ""
+    new "Invite Emily to Europe"
 
     # game/main_menu/path_builder/path_builder.rpy:361
     old "Win Penelope's court case"
-    new ""
+    new "Win Penelope's court case"
 
     # game/main_menu/path_builder/path_builder.rpy:374
     old "Help Chloe's Campaign"
-    new ""
+    new "Help Chloe's Campaign"
 
     # game/main_menu/path_builder/path_builder.rpy:386
     old "Help Lindsey's Campaign"
-    new ""
+    new "Help Lindsey's Campaign"
 
     # game/main_menu/path_builder/path_builder.rpy:398
     old "Encourage Sam to get clean"
-    new ""
+    new "Encourage Sam to get clean"
 
     # game/main_menu/path_builder/path_builder.rpy:410
     old "Encourage Amber to get clean"
-    new ""
+    new "Encourage Amber to get clean"
 
     # game/main_menu/path_builder/path_builder.rpy:422
     old "Tell Emily you love her"
-    new ""
+    new "Tell Emily you love her"
 
     # game/main_menu/path_builder/path_builder.rpy:434
     old "Autumn trusts you"
-    new ""
+    new "Autumn trusts you"
 
     # game/main_menu/path_builder/path_builder.rpy:450
     old "Had Riley & Aubrey Threesome"
-    new ""
+    new "Had Riley & Aubrey Threesome"
 
     # game/main_menu/path_builder/path_builder.rpy:462
     old "Kissed Lauren"
-    new ""
+    new "Kissed Lauren"
 
     # game/main_menu/path_builder/path_builder.rpy:468
     old "Gameplay Changes"
-    new ""
+    new "Gameplay Changes"
 
     # game/main_menu/path_builder/path_builder.rpy:480
     old "Unlimited Presidency Campaign Budget"
-    new ""
+    new "Unlimited Presidency Campaign Budget"
 
     # game/main_menu/path_builder/path_builder.rpy:492
     old "Show preferred KCT for each girl"
-    new ""
+    new "Show preferred KCT for each girl"
 
     # game/main_menu/path_builder/path_builder.rpy:504
     old "Show a notification whenever you gain KCT points"
-    new ""
+    new "Show a notification whenever you gain KCT points"
 

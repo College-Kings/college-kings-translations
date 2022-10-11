@@ -1,96 +1,96 @@
-﻿# TODO: Translation updated at 2022-08-22 08:06
+﻿# TODO: Translation updated at 2022-10-11 06:39
 
 # game/v8/Scene16.rpy:30
 translate francais mc_wolves_sun_aft_e2049ac4:
 
     # u "(Guess I'll chill out for a bit.)"
-    u ""
+    u "(Guess I'll chill out for a bit.)"
 
 # game/v8/Scene16.rpy:68
 translate francais mc_apes_sun_aft_e2049ac4:
 
     # u "(Guess I'll chill out for a bit.)"
-    u ""
+    u "(Guess I'll chill out for a bit.)"
 
 translate francais strings:
 
     # game/v8/Scene16.rpy:8
     old "Took a lot of work but Homecoming looks great"
-    new ""
+    new "Took a lot of work but Homecoming looks great"
 
     # game/v8/Scene16.rpy:11
     old "Thank you miss Rose also says thank you"
-    new ""
+    new "Thank you miss Rose also says thank you"
 
     # game/v8/Scene16.rpy:14
     old "You will have to find out some times :)"
-    new ""
+    new "You will have to find out some times :)"
 
     # game/v8/Scene16.rpy:17
     old "Not this time, but maybe next time you can join me ;)"
-    new ""
+    new "Not this time, but maybe next time you can join me ;)"
 
     # game/v8/Scene16.rpy:35
     old "Hanging with my best friend. Good times!"
-    new ""
+    new "Hanging with my best friend. Good times!"
 
     # game/v8/Scene16.rpy:36
     old "Awww, I love hanging out with you <3"
-    new ""
+    new "Awww, I love hanging out with you <3"
 
     # game/v8/Scene16.rpy:37
     old "Looking great Aubrey!"
-    new ""
+    new "Looking great Aubrey!"
 
     # game/v8/Scene16.rpy:38
     old "Next time invite me along"
-    new ""
+    new "Next time invite me along"
 
     # game/v8/Scene16.rpy:39
     old "Looking hot, ladies!"
-    new ""
+    new "Looking hot, ladies!"
 
     # game/v8/Scene16.rpy:40
     old "This is such a great picture!"
-    new ""
+    new "This is such a great picture!"
 
     # game/v8/Scene16.rpy:43
     old "Having fun with Ms. Rose at Hoco!"
-    new ""
+    new "Having fun with Ms. Rose at Hoco!"
 
     # game/v8/Scene16.rpy:44
     old "Teacher's pet!"
-    new ""
+    new "Teacher's pet!"
 
     # game/v8/Scene16.rpy:45
     old "Booba"
-    new ""
+    new "Booba"
 
     # game/v8/Scene16.rpy:46
     old "I'm glad you guys had fun"
-    new ""
+    new "I'm glad you guys had fun"
 
     # game/v8/Scene16.rpy:47
     old "Wow, you two look great!"
-    new ""
+    new "Wow, you two look great!"
 
     # game/v8/Scene16.rpy:49
     old "Nothing like a good day of shopping"
-    new ""
+    new "Nothing like a good day of shopping"
 
     # game/v8/Scene16.rpy:50
     old "Wish I could of been there to try things with you"
-    new ""
+    new "Wish I could of been there to try things with you"
 
     # game/v8/Scene16.rpy:51
     old "Looking good"
-    new ""
+    new "Looking good"
 
     # game/v8/Scene16.rpy:52
     old "How many bikinis did you buy? Haha."
-    new ""
+    new "How many bikinis did you buy? Haha."
 
     # game/v8/Scene16.rpy:53
     old "Did you buy me anything?"
-    new ""
+    new "Did you buy me anything?"
 

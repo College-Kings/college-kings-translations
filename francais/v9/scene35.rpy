@@ -1,244 +1,244 @@
-﻿# TODO: Translation updated at 2022-08-22 08:06
+﻿# TODO: Translation updated at 2022-10-11 06:39
 
 # game/v9/scene35.rpy:82
 translate francais v9_room_sat_aft_392403a7:
 
     # u "(How much longer do I have?)"
-    u ""
+    u "(How much longer do I have?)"
 
 # game/v9/scene35.rpy:98
 translate francais v9_room_sat_aft_b8487e8d:
 
     # u "(I wonder who this is.)"
-    u ""
+    u "(I wonder who this is.)"
 
 # game/v9/scene35.rpy:104
 translate francais s35_PhoneContinueW_e4edb176:
 
     # u "(I should reply to Chloe.)"
-    u ""
+    u "(I should reply to Chloe.)"
 
 # game/v9/scene35.rpy:110
 translate francais s35_PhoneContinueW_d9070b6c:
 
     # u "(Just a quick nap.)"
-    u ""
+    u "(Just a quick nap.)"
 
 # game/v9/scene35.rpy:117
 translate francais s35_PhoneContinueW_27207bcf:
 
     # u "Ugh!"
-    u ""
+    u "Ugh!"
 
 # game/v9/scene35.rpy:130
 translate francais s35_PhoneContinueW_392403a7:
 
     # u "(How much longer do I have?)"
-    u ""
+    u "(How much longer do I have?)"
 
 # game/v9/scene35.rpy:138
 translate francais s35_PhoneContinueW_b8487e8d:
 
     # u "(I wonder who this is.)"
-    u ""
+    u "(I wonder who this is.)"
 
 # game/v9/scene35.rpy:152
 translate francais s35_PhoneContinueA_e4edb176:
 
     # u "(I should reply to Chloe.)"
-    u ""
+    u "(I should reply to Chloe.)"
 
 # game/v9/scene35.rpy:158
 translate francais s35_PhoneContinueA_d9070b6c:
 
     # u "(Just a quick nap.)"
-    u ""
+    u "(Just a quick nap.)"
 
 # game/v9/scene35.rpy:165
 translate francais s35_PhoneContinueA_27207bcf:
 
     # u "Ugh!"
-    u ""
+    u "Ugh!"
 
 translate francais strings:
 
     # game/v9/scene35.rpy:8
     old "I was thinking about you and I kind of miss you."
-    new ""
+    new "I was thinking about you and I kind of miss you."
 
     # game/v9/scene35.rpy:9
     old "Kinda? That's it? ;)"
-    new ""
+    new "Kinda? That's it? ;)"
 
     # game/v9/scene35.rpy:10
     old "Maybe haha. Ok, yeah, I miss you."
-    new ""
+    new "Maybe haha. Ok, yeah, I miss you."
 
     # game/v9/scene35.rpy:11
     old "I miss you too."
-    new ""
+    new "I miss you too."
 
     # game/v9/scene35.rpy:12
     old "That's better haha"
-    new ""
+    new "That's better haha"
 
     # game/v9/scene35.rpy:19
     old "Wanna see what I'm doing now?"
-    new ""
+    new "Wanna see what I'm doing now?"
 
     # game/v9/scene35.rpy:20
     old "Yeah, of course"
-    new ""
+    new "Yeah, of course"
 
     # game/v9/scene35.rpy:21
     old "You need to ask? :)"
-    new ""
+    new "You need to ask? :)"
 
     # game/v9/scene35.rpy:29
     old "OMG! I miss those!"
-    new ""
+    new "OMG! I miss those!"
 
     # game/v9/scene35.rpy:30
     old "OMG! You are magnificent!"
-    new ""
+    new "OMG! You are magnificent!"
 
     # game/v9/scene35.rpy:33
     old "Thought you'd like that :)"
-    new ""
+    new "Thought you'd like that :)"
 
     # game/v9/scene35.rpy:34
     old "Like? I love it! That just made my whole day better."
-    new ""
+    new "Like? I love it! That just made my whole day better."
 
     # game/v9/scene35.rpy:35
     old "Awww, such a charmer haha. Your turn. Let me see yours."
-    new ""
+    new "Awww, such a charmer haha. Your turn. Let me see yours."
 
     # game/v9/scene35.rpy:36
     old "Your wish is my command."
-    new ""
+    new "Your wish is my command."
 
     # game/v9/scene35.rpy:38
     old "God, I miss that cock."
-    new ""
+    new "God, I miss that cock."
 
     # game/v9/scene35.rpy:39
     old "Can I come over? Haha."
-    new ""
+    new "Can I come over? Haha."
 
     # game/v9/scene35.rpy:40
     old "I wish. I have a lot to do for tomorrow, but that would be nice."
-    new ""
+    new "I wish. I have a lot to do for tomorrow, but that would be nice."
 
     # game/v9/scene35.rpy:41
     old "Yeah, that would be great. Would like to see more of you."
-    new ""
+    new "Yeah, that would be great. Would like to see more of you."
 
     # game/v9/scene35.rpy:42
     old "No, that's all the pics I'm sending haha."
-    new ""
+    new "No, that's all the pics I'm sending haha."
 
     # game/v9/scene35.rpy:43
     old "That's not what I meant, haha."
-    new ""
+    new "That's not what I meant, haha."
 
     # game/v9/scene35.rpy:44
     old "Haha, I know what you meant. I'd like that, too."
-    new ""
+    new "Haha, I know what you meant. I'd like that, too."
 
     # game/v9/scene35.rpy:45
     old "Well, let me know when you're free and I'll make time."
-    new ""
+    new "Well, let me know when you're free and I'll make time."
 
     # game/v9/scene35.rpy:46
     old "I definitely will. Goodnight [name]"
-    new ""
+    new "I definitely will. Goodnight [name]"
 
     # game/v9/scene35.rpy:47
     old "Goodnight, gorgeous."
-    new ""
+    new "Goodnight, gorgeous."
 
     # game/v9/scene35.rpy:48
     old "Goodnight, Chloe."
-    new ""
+    new "Goodnight, Chloe."
 
     # game/v9/scene35.rpy:54
     old "Ugh. I'm so tired of studying."
-    new ""
+    new "Ugh. I'm so tired of studying."
 
     # game/v9/scene35.rpy:55
     old "Haha, me too. Kinda want to throw my books out the window."
-    new ""
+    new "Haha, me too. Kinda want to throw my books out the window."
 
     # game/v9/scene35.rpy:56
     old "Haha. I wish I could just leave the house and not worry about it."
-    new ""
+    new "Haha. I wish I could just leave the house and not worry about it."
 
     # game/v9/scene35.rpy:57
     old "Me too. Wanna go for a walk together?"
-    new ""
+    new "Me too. Wanna go for a walk together?"
 
     # game/v9/scene35.rpy:59
     old "Yeah, it would be."
-    new ""
+    new "Yeah, it would be."
 
     # game/v9/scene35.rpy:60
     old "I think I'll soak in the tub for a bit."
-    new ""
+    new "I think I'll soak in the tub for a bit."
 
     # game/v9/scene35.rpy:61
     old "Can I join you?"
-    new ""
+    new "Can I join you?"
 
     # game/v9/scene35.rpy:62
     old "Haha! You wish :)"
-    new ""
+    new "Haha! You wish :)"
 
     # game/v9/scene35.rpy:63
     old "Hey, a guy can dream, right?"
-    new ""
+    new "Hey, a guy can dream, right?"
 
     # game/v9/scene35.rpy:64
     old "Yeah, but it's a dream."
-    new ""
+    new "Yeah, but it's a dream."
 
     # game/v9/scene35.rpy:65
     old "For now haha."
-    new ""
+    new "For now haha."
 
     # game/v9/scene35.rpy:66
     old "Haha, yeah for now. Well, I'll let you go. Was great to talk to you [name]."
-    new ""
+    new "Haha, yeah for now. Well, I'll let you go. Was great to talk to you [name]."
 
     # game/v9/scene35.rpy:67
     old "Likewise. Don't be a stranger."
-    new ""
+    new "Likewise. Don't be a stranger."
 
     # game/v9/scene35.rpy:68
     old "Yeah, it was nice to hear from you."
-    new ""
+    new "Yeah, it was nice to hear from you."
 
     # game/v9/scene35.rpy:69
     old "Goodnight [name]"
-    new ""
+    new "Goodnight [name]"
 
     # game/v9/scene35.rpy:70
     old "Goodnight Chloe."
-    new ""
+    new "Goodnight Chloe."
 
     # game/v9/scene35.rpy:88
     old "Hey [name], what you up to?"
-    new ""
+    new "Hey [name], what you up to?"
 
     # game/v9/scene35.rpy:89
     old "Nothing much. Just relaxing. I'm kind of tired."
-    new ""
+    new "Nothing much. Just relaxing. I'm kind of tired."
 
     # game/v9/scene35.rpy:90
     old "Awwww. Long day?"
-    new ""
+    new "Awwww. Long day?"
 
     # game/v9/scene35.rpy:92
     old "Yeah haha, I feel wiped."
-    new ""
+    new "Yeah haha, I feel wiped."
 

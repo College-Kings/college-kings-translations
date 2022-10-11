@@ -1,306 +1,306 @@
-﻿# TODO: Translation updated at 2022-08-22 08:06
+﻿# TODO: Translation updated at 2022-10-11 06:39
 
 # game/v10/scene29.rpy:21
 translate francais v10_chloe_hallway_9dcab562:
 
     # au "[name], settle an argument for us."
-    au ""
+    au "[name], settle an argument for us."
 
 # game/v10/scene29.rpy:27
 translate francais v10_chloe_hallway_8512e44a:
 
     # cl "*Annoyed* Don't bring him into this."
-    cl ""
+    cl "*Annoyed* Don't bring him into this."
 
 # game/v10/scene29.rpy:32
 translate francais v10_chloe_hallway_0795fe96:
 
     # au "Oh shush. Okay, so I told Chloe she looks really cute today, but she said cute makes it sound really childish so she'd rather look sexy."
-    au ""
+    au "Oh shush. Okay, so I told Chloe she looks really cute today, but she said cute makes it sound really childish so she'd rather look sexy."
 
 # game/v10/scene29.rpy:34
 translate francais v10_chloe_hallway_6e2a0fe7:
 
     # au "Which do you think describes Chloe better?"
-    au ""
+    au "Which do you think describes Chloe better?"
 
 # game/v10/scene29.rpy:43
 translate francais v10_chloe_hallway_89f4e4bd:
 
     # u "I'd say cute fits better..."
-    u ""
+    u "I'd say cute fits better..."
 
 # game/v10/scene29.rpy:48
 translate francais v10_chloe_hallway_c0534d96:
 
     # cl "Ugh, who cares what you think?"
-    cl ""
+    cl "Ugh, who cares what you think?"
 
 # game/v10/scene29.rpy:52
 translate francais v10_chloe_hallway_68826af3:
 
     # u "No, sexy definitely describes her better."
-    u ""
+    u "No, sexy definitely describes her better."
 
 # game/v10/scene29.rpy:57
 translate francais v10_chloe_hallway_2c99c080:
 
     # cl "Ugh, I don't care what you think."
-    cl ""
+    cl "Ugh, I don't care what you think."
 
 # game/v10/scene29.rpy:62
 translate francais v10_chloe_hallway_68826af3_1:
 
     # u "No, sexy definitely describes her better."
-    u ""
+    u "No, sexy definitely describes her better."
 
 # game/v10/scene29.rpy:67
 translate francais v10_chloe_hallway_6c1f6858:
 
     # cl "Uhm... thanks."
-    cl ""
+    cl "Uhm... thanks."
 
 # game/v10/scene29.rpy:72
 translate francais v10_chloe_hallway_2f5790aa:
 
     # au "Someone looks happy with his answer. Guess that means you guys have some catching up to do. Bye bye."
-    au ""
+    au "Someone looks happy with his answer. Guess that means you guys have some catching up to do. Bye bye."
 
 # game/v10/scene29.rpy:87
 translate francais v10_chloe_hallway_76ee2d3a:
 
     # u "So uhm... how have you been?"
-    u ""
+    u "So uhm... how have you been?"
 
 # game/v10/scene29.rpy:92
 translate francais v10_chloe_hallway_c2e44e30:
 
     # cl "Pretty stressed, but I'm managing. I could really use a break you know?"
-    cl ""
+    cl "Pretty stressed, but I'm managing. I could really use a break you know?"
 
 # game/v10/scene29.rpy:97
 translate francais v10_chloe_hallway_c7aed9cf:
 
     # u "Yeah, I feel you on that."
-    u ""
+    u "Yeah, I feel you on that."
 
 # game/v10/scene29.rpy:102
 translate francais v10_chloe_hallway_116c319c:
 
     # cl "Do you remember that time we uhm... played volleyball?"
-    cl ""
+    cl "Do you remember that time we uhm... played volleyball?"
 
 # game/v10/scene29.rpy:107
 translate francais v10_chloe_hallway_1b28a406:
 
     # u "Of course."
-    u ""
+    u "Of course."
 
 # game/v10/scene29.rpy:112
 translate francais v10_chloe_hallway_77dca436:
 
     # cl "Any chance you want a rematch?"
-    cl ""
+    cl "Any chance you want a rematch?"
 
 # game/v10/scene29.rpy:117
 translate francais v10_chloe_hallway_828af9e7:
 
     # u "Right now?"
-    u ""
+    u "Right now?"
 
 # game/v10/scene29.rpy:122
 translate francais v10_chloe_hallway_4c1034ff:
 
     # cl "Uhhh, yeah. If you want?"
-    cl ""
+    cl "Uhhh, yeah. If you want?"
 
 # game/v10/scene29.rpy:134
 translate francais v10_chloe_hallway_4be6b4b6:
 
     # u "Yeah let's go."
-    u ""
+    u "Yeah let's go."
 
 # game/v10/scene29.rpy:142
 translate francais v10_chloe_hallway_947e8b92:
 
     # u "Uhm, I shouldn't, I have a lot to do. Sorry."
-    u ""
+    u "Uhm, I shouldn't, I have a lot to do. Sorry."
 
 # game/v10/scene29.rpy:147
 translate francais v10_chloe_hallway_c4b252de:
 
     # cl "Oh, yeah okay... no worries. Guess I'll see you around then."
-    cl ""
+    cl "Oh, yeah okay... no worries. Guess I'll see you around then."
 
 # game/v10/scene29.rpy:150
 translate francais v10_chloe_hallway_8911e879:
 
     # u "I should probably go too. Uhm nice seeing you."
-    u ""
+    u "I should probably go too. Uhm nice seeing you."
 
 # game/v10/scene29.rpy:155
 translate francais v10_chloe_hallway_58b335dc:
 
     # cl "Yeah. Alright."
-    cl ""
+    cl "Yeah. Alright."
 
 # game/v10/scene29.rpy:166
 translate francais v10_chloe_hallway_b10b3ca9:
 
     # au "She's not your biggest fan."
-    au ""
+    au "She's not your biggest fan."
 
 # game/v10/scene29.rpy:171
 translate francais v10_chloe_hallway_b86651d2:
 
     # u "That obvious, huh?"
-    u ""
+    u "That obvious, huh?"
 
 # game/v10/scene29.rpy:176
 translate francais v10_chloe_hallway_7ebcd722:
 
     # au "Yes, very. I'm gonna get to class, see you around."
-    au ""
+    au "Yes, very. I'm gonna get to class, see you around."
 
 # game/v10/scene29.rpy:181
 translate francais v10_chloe_hallway_6e71fc3a:
 
     # u "(Wow, she was cold.)"
-    u ""
+    u "(Wow, she was cold.)"
 
 # game/v10/scene29.rpy:193
 translate francais v10_chloe_hallway_f0892c1a:
 
     # au "Okay, so I told Chloe she looks really cute today, but she said cute makes it sound really childish and so she'd rather look... sexy."
-    au ""
+    au "Okay, so I told Chloe she looks really cute today, but she said cute makes it sound really childish and so she'd rather look... sexy."
 
 # game/v10/scene29.rpy:198
 translate francais v10_chloe_hallway_b8164ec4:
 
     # cl "Which one do you think describes me better?"
-    cl ""
+    cl "Which one do you think describes me better?"
 
 # game/v10/scene29.rpy:207
 translate francais v10_chloe_hallway_399946b4:
 
     # u "Cute. Definitely..."
-    u ""
+    u "Cute. Definitely..."
 
 # game/v10/scene29.rpy:212
 translate francais v10_chloe_hallway_f97ca9c6:
 
     # cl "Ugh, really?"
-    cl ""
+    cl "Ugh, really?"
 
 # game/v10/scene29.rpy:217
 translate francais v10_chloe_hallway_3f01c254:
 
     # au "I told ya!"
-    au ""
+    au "I told ya!"
 
 # game/v10/scene29.rpy:218
 translate francais v10_chloe_hallway_3a98d080:
 
     # au "Anyways, I'm gonna head to class, see you guys."
-    au ""
+    au "Anyways, I'm gonna head to class, see you guys."
 
 # game/v10/scene29.rpy:224
 translate francais v10_chloe_hallway_7788d5cf:
 
     # u "Definitely gotta go with sexy."
-    u ""
+    u "Definitely gotta go with sexy."
 
 # game/v10/scene29.rpy:229
 translate francais v10_chloe_hallway_6f299c21:
 
     # cl "See, I was right."
-    cl ""
+    cl "See, I was right."
 
 # game/v10/scene29.rpy:234
 translate francais v10_chloe_hallway_51e4e251:
 
     # au "Typical guy. Well, I'm gonna head to class, see you guys."
-    au ""
+    au "Typical guy. Well, I'm gonna head to class, see you guys."
 
 # game/v10/scene29.rpy:244
 translate francais v10_chloe_hallway_303b2e54:
 
     # u "So... how's life?"
-    u ""
+    u "So... how's life?"
 
 # game/v10/scene29.rpy:249
 translate francais v10_chloe_hallway_c2e44e30_1:
 
     # cl "Pretty stressed, but I'm managing. I could really use a break you know?"
-    cl ""
+    cl "Pretty stressed, but I'm managing. I could really use a break you know?"
 
 # game/v10/scene29.rpy:254
 translate francais v10_chloe_hallway_0d7dde9e:
 
     # u "I feel you on that."
-    u ""
+    u "I feel you on that."
 
 # game/v10/scene29.rpy:259
 translate francais v10_chloe_hallway_5f16b2ed:
 
     # cl "I know a nice way we could pass some time. You remember when we played Volleyball?"
-    cl ""
+    cl "I know a nice way we could pass some time. You remember when we played Volleyball?"
 
 # game/v10/scene29.rpy:264
 translate francais v10_chloe_hallway_2be5d203:
 
     # u "Yeah, of course."
-    u ""
+    u "Yeah, of course."
 
 # game/v10/scene29.rpy:269
 translate francais v10_chloe_hallway_4204e93d:
 
     # cl "How about a rematch?"
-    cl ""
+    cl "How about a rematch?"
 
 # game/v10/scene29.rpy:281
 translate francais v10_chloe_hallway_5f5444ac:
 
     # u "Let's do it, but I won't be going easy on you."
-    u ""
+    u "Let's do it, but I won't be going easy on you."
 
 # game/v10/scene29.rpy:286
 translate francais v10_chloe_hallway_c6ae7725:
 
     # cl "Please, that's how I like it."
-    cl ""
+    cl "Please, that's how I like it."
 
 # game/v10/scene29.rpy:296
 translate francais v10_chloe_hallway_523b8ead:
 
     # u "I shouldn't, I have a lot to do. Sorry."
-    u ""
+    u "I shouldn't, I have a lot to do. Sorry."
 
 # game/v10/scene29.rpy:301
 translate francais v10_chloe_hallway_c4b252de_1:
 
     # cl "Oh, yeah okay... no worries. Guess I'll see you around then."
-    cl ""
+    cl "Oh, yeah okay... no worries. Guess I'll see you around then."
 
 translate francais strings:
 
     # game/v10/scene29.rpy:39
     old "Cute"
-    new ""
+    new "Cute"
 
     # game/v10/scene29.rpy:39
     old "Sexy"
-    new ""
+    new "Sexy"
 
     # game/v10/scene29.rpy:82
     old "Ask Chloe how she is"
-    new ""
+    new "Ask Chloe how she is"
 
     # game/v10/scene29.rpy:127
     old "Have a Rematch"
-    new ""
+    new "Have a Rematch"
 
     # game/v10/scene29.rpy:127
     old "Decline a Rematch"
-    new ""
+    new "Decline a Rematch"
 

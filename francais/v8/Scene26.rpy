@@ -1,470 +1,470 @@
-﻿# TODO: Translation updated at 2022-08-22 08:06
+﻿# TODO: Translation updated at 2022-10-11 06:39
 
 # game/v8/Scene26.rpy:15
 translate francais s26_8a332273:
 
     # u "(Ahhh, there's Aubrey and Riley')"
-    u ""
+    u "(Ahhh, there's Aubrey and Riley')"
 
 # game/v8/Scene26.rpy:18
 translate francais s26_21d31997:
 
     # u "(Just look how hot they are)"
-    u ""
+    u "(Just look how hot they are)"
 
 # game/v8/Scene26.rpy:23
 translate francais s26_734a0af0:
 
     # ri "Hey [name]! What do you think?"
-    ri ""
+    ri "Hey [name]! What do you think?"
 
 # game/v8/Scene26.rpy:29
 translate francais s26_5aefc2f1:
 
     # u "Gorgeous!"
-    u ""
+    u "Gorgeous!"
 
 # game/v8/Scene26.rpy:32
 translate francais s26_647d7e66:
 
     # u "They look great!"
-    u ""
+    u "They look great!"
 
 # game/v8/Scene26.rpy:42
 translate francais s26_b19b6152:
 
     # au "I like these!"
-    au ""
+    au "I like these!"
 
 # game/v8/Scene26.rpy:48
 translate francais s26_35775760:
 
     # u "Hot! You both look amazing."
-    u ""
+    u "Hot! You both look amazing."
 
 # game/v8/Scene26.rpy:51
 translate francais s26_8b9dee31:
 
     # u "You both really suit them."
-    u ""
+    u "You both really suit them."
 
 # game/v8/Scene26.rpy:56
 translate francais s26_ab5f9958:
 
     # au "Are you getting a naughty librarian vibe?"
-    au ""
+    au "Are you getting a naughty librarian vibe?"
 
 # game/v8/Scene26.rpy:61
 translate francais s26_8eaa20a6:
 
     # u "Definitely with these."
-    u ""
+    u "Definitely with these."
 
 # game/v8/Scene26.rpy:71
 translate francais s26_7b32d783:
 
     # au "What do you think? Do you like it?"
-    au ""
+    au "What do you think? Do you like it?"
 
 # game/v8/Scene26.rpy:76
 translate francais s26_4ddb6179:
 
     # u "A lot."
-    u ""
+    u "A lot."
 
 # game/v8/Scene26.rpy:81
 translate francais s26_023a9b50:
 
     # ri "Oh, those look amazing on you! Let me try some."
-    ri ""
+    ri "Oh, those look amazing on you! Let me try some."
 
 # game/v8/Scene26.rpy:91
 translate francais s26_59751aac:
 
     # ri "How do they look?"
-    ri ""
+    ri "How do they look?"
 
 # game/v8/Scene26.rpy:96
 translate francais s26_aeddc5a5:
 
     # au "Damn, girl. Makes me feel a bit naughty."
-    au ""
+    au "Damn, girl. Makes me feel a bit naughty."
 
 # game/v8/Scene26.rpy:101
 translate francais s26_1961a867:
 
     # u "So it's settled! You both get a pair!"
-    u ""
+    u "So it's settled! You both get a pair!"
 
 # game/v8/Scene26.rpy:106
 translate francais s26_8aeb9c5b:
 
     # ri "Not so fast... I need a pair I can wear out in public."
-    ri ""
+    ri "Not so fast... I need a pair I can wear out in public."
 
 # game/v8/Scene26.rpy:111
 translate francais s26_dc019280:
 
     # u "Yeah, probably wouldn't get much done if I saw you in those every day."
-    u ""
+    u "Yeah, probably wouldn't get much done if I saw you in those every day."
 
 # game/v8/Scene26.rpy:116
 translate francais s26_17f48d14:
 
     # ri "Both of us?"
-    ri ""
+    ri "Both of us?"
 
 # game/v8/Scene26.rpy:121
 translate francais s26_fa92393f:
 
     # u "Now who's feeling naughty?"
-    u ""
+    u "Now who's feeling naughty?"
 
 # game/v8/Scene26.rpy:126
 translate francais s26_25f46907:
 
     # au "Me!"
-    au ""
+    au "Me!"
 
 # game/v8/Scene26.rpy:131
 translate francais s26_011c0dfe:
 
     # ri "Me!"
-    ri ""
+    ri "Me!"
 
 # game/v8/Scene26.rpy:136
 translate francais s26_dc9f6f5a:
 
     # au "Oh! I know..."
-    au ""
+    au "Oh! I know..."
 
 # game/v8/Scene26.rpy:146
 translate francais s26_6230b0f4:
 
     # au "I bet you'd look super hot in these."
-    au ""
+    au "I bet you'd look super hot in these."
 
 # game/v8/Scene26.rpy:163
 translate francais take_aub_glasses_999ce574:
 
     # ri "You're so adorable."
-    ri ""
+    ri "You're so adorable."
 
 # game/v8/Scene26.rpy:168
 translate francais take_aub_glasses_3e4de8cd:
 
     # au "Isn't he?"
-    au ""
+    au "Isn't he?"
 
 # game/v8/Scene26.rpy:173
 translate francais take_aub_glasses_13de9698:
 
     # ri "Here how about these?"
-    ri ""
+    ri "Here how about these?"
 
 # game/v8/Scene26.rpy:178
 translate francais take_aub_glasses_cb536318:
 
     # u "(Uh...)"
-    u ""
+    u "(Uh...)"
 
 # game/v8/Scene26.rpy:183
 translate francais take_aub_glasses_12048020:
 
     # au "*giggles* Sexy."
-    au ""
+    au "*giggles* Sexy."
 
 # game/v8/Scene26.rpy:188
 translate francais take_aub_glasses_b15f38ca:
 
     # ri "Right? Even better than the other ones."
-    ri ""
+    ri "Right? Even better than the other ones."
 
 # game/v8/Scene26.rpy:193
 translate francais take_aub_glasses_2a41267e:
 
     # u "Aren't we here getting you glasses? Not me?"
-    u ""
+    u "Aren't we here getting you glasses? Not me?"
 
 # game/v8/Scene26.rpy:198
 translate francais take_aub_glasses_8011dad3:
 
     # ri "This is way more fun!"
-    ri ""
+    ri "This is way more fun!"
 
 # game/v8/Scene26.rpy:206
 translate francais no_take_aub_glasses_f037c4af:
 
     # u "I think these would be better."
-    u ""
+    u "I think these would be better."
 
 # game/v8/Scene26.rpy:211
 translate francais no_take_aub_glasses_d08a1b73:
 
     # u "How awesome is this?"
-    u ""
+    u "How awesome is this?"
 
 # game/v8/Scene26.rpy:216
 translate francais no_take_aub_glasses_8b91624a:
 
     # au "Meh, I still like these."
-    au ""
+    au "Meh, I still like these."
 
 # game/v8/Scene26.rpy:221
 translate francais no_take_aub_glasses_39c4a254:
 
     # u "Those look like girl glasses."
-    u ""
+    u "Those look like girl glasses."
 
 # game/v8/Scene26.rpy:226
 translate francais no_take_aub_glasses_07767edb:
 
     # au "So... you're pretty. You can pull it off."
-    au ""
+    au "So... you're pretty. You can pull it off."
 
 # game/v8/Scene26.rpy:231
 translate francais no_take_aub_glasses_ec58dd76:
 
     # u "(Pretty? That's not good)"
-    u ""
+    u "(Pretty? That's not good)"
 
 # game/v8/Scene26.rpy:236
 translate francais no_take_aub_glasses_e9dc8015:
 
     # u "What do you think, Riley?"
-    u ""
+    u "What do you think, Riley?"
 
 # game/v8/Scene26.rpy:241
 translate francais no_take_aub_glasses_ce7dd284:
 
     # ri "I agree with Aubrey. You're very pretty."
-    ri ""
+    ri "I agree with Aubrey. You're very pretty."
 
 # game/v8/Scene26.rpy:246
 translate francais no_take_aub_glasses_175d629a:
 
     # u "(This isn't going like I planned)"
-    u ""
+    u "(This isn't going like I planned)"
 
 # game/v8/Scene26.rpy:254
 translate francais after_glasses_choice_fb9cf7ec:
 
     # u "Riley, these would look so amazing on you!"
-    u ""
+    u "Riley, these would look so amazing on you!"
 
 # game/v8/Scene26.rpy:259
 translate francais after_glasses_choice_c9d4e42e:
 
     # au "He's right! With your hair color those would look so hot."
-    au ""
+    au "He's right! With your hair color those would look so hot."
 
 # game/v8/Scene26.rpy:265
 translate francais after_glasses_choice_03c2245e:
 
     # u "(She looks so kissable)"
-    u ""
+    u "(She looks so kissable)"
 
 # game/v8/Scene26.rpy:268
 translate francais after_glasses_choice_4f77a040:
 
     # u "You really suit them, Riley!"
-    u ""
+    u "You really suit them, Riley!"
 
 # game/v8/Scene26.rpy:273
 translate francais after_glasses_choice_f0a54988:
 
     # au "See, we made the right choice asking [name] to come, didn't we Riley?"
-    au ""
+    au "See, we made the right choice asking [name] to come, didn't we Riley?"
 
 # game/v8/Scene26.rpy:278
 translate francais after_glasses_choice_03e20d80:
 
     # ri "Yes we did. He sure knows what a girl wants."
-    ri ""
+    ri "Yes we did. He sure knows what a girl wants."
 
 # game/v8/Scene26.rpy:283
 translate francais after_glasses_choice_59c0be23:
 
     # au "Or girls..."
-    au ""
+    au "Or girls..."
 
 # game/v8/Scene26.rpy:288
 translate francais after_glasses_choice_08da624d:
 
     # u "(Am I dreaming this? They can't mean...)"
-    u ""
+    u "(Am I dreaming this? They can't mean...)"
 
 # game/v8/Scene26.rpy:293
 translate francais after_glasses_choice_38a0e3ab:
 
     # ri "I kinda like these too."
-    ri ""
+    ri "I kinda like these too."
 
 # game/v8/Scene26.rpy:298
 translate francais after_glasses_choice_2266a36e:
 
     # au "Try 'em on."
-    au ""
+    au "Try 'em on."
 
 # game/v8/Scene26.rpy:303
 translate francais after_glasses_choice_8e3c3cf5:
 
     # ri "What do you think?"
-    ri ""
+    ri "What do you think?"
 
 # game/v8/Scene26.rpy:309
 translate francais after_glasses_choice_3b157c30:
 
     # u "Those look really hot, but I still think the last pair matches your hair, like Aubrey said."
-    u ""
+    u "Those look really hot, but I still think the last pair matches your hair, like Aubrey said."
 
 # game/v8/Scene26.rpy:312
 translate francais after_glasses_choice_63c55ee6:
 
     # u "Those look really good, but I think the last pair looks better."
-    u ""
+    u "Those look really good, but I think the last pair looks better."
 
 # game/v8/Scene26.rpy:317
 translate francais after_glasses_choice_29ffe6d8:
 
     # au "Yeah, they were just so gorgeous."
-    au ""
+    au "Yeah, they were just so gorgeous."
 
 # game/v8/Scene26.rpy:322
 translate francais after_glasses_choice_8a80d168:
 
     # ri "Last pair it is!"
-    ri ""
+    ri "Last pair it is!"
 
 # game/v8/Scene26.rpy:328
 translate francais after_glasses_choice_e5a82c29:
 
     # ri "Which pair would you rather see on your nightstand?"
-    ri ""
+    ri "Which pair would you rather see on your nightstand?"
 
 # game/v8/Scene26.rpy:333
 translate francais after_glasses_choice_58e9d255:
 
     # u "(Don't fuck this up, [name])"
-    u ""
+    u "(Don't fuck this up, [name])"
 
 # game/v8/Scene26.rpy:337
 translate francais after_glasses_choice_83b40480:
 
     # u "Those... tonight?"
-    u ""
+    u "Those... tonight?"
 
 # game/v8/Scene26.rpy:342
 translate francais after_glasses_choice_44d70fd3:
 
     # ri "You dog!"
-    ri ""
+    ri "You dog!"
 
 # game/v8/Scene26.rpy:347
 translate francais after_glasses_choice_101b9a0e:
 
     # ri "I think I'll go with the last pair."
-    ri ""
+    ri "I think I'll go with the last pair."
 
 # game/v8/Scene26.rpy:352
 translate francais after_glasses_choice_6f083a0f:
 
     # u "Both"
-    u ""
+    u "Both"
 
 # game/v8/Scene26.rpy:357
 translate francais after_glasses_choice_3d4d12e0:
 
     # u "I have two nightstands. One for your glasses and one for Aubrey's."
-    u ""
+    u "I have two nightstands. One for your glasses and one for Aubrey's."
 
 # game/v8/Scene26.rpy:362
 translate francais after_glasses_choice_eb20ed1f:
 
     # au "Bold! I like it!"
-    au ""
+    au "Bold! I like it!"
 
 # game/v8/Scene26.rpy:367
 translate francais after_glasses_choice_f0e3dc73:
 
     # ri "*whispers* Careful what you wish for."
-    ri ""
+    ri "*whispers* Careful what you wish for."
 
 # game/v8/Scene26.rpy:377
 translate francais opti_end_6adba70a:
 
     # ri "I think I'm gonna take these ones."
-    ri ""
+    ri "I think I'm gonna take these ones."
 
 # game/v8/Scene26.rpy:382
 translate francais opti_end_9927e9a2:
 
     # ri "Thanks for coming. I feel better about needing glasses now."
-    ri ""
+    ri "Thanks for coming. I feel better about needing glasses now."
 
 # game/v8/Scene26.rpy:387
 translate francais opti_end_199fd772:
 
     # au "Yeah, you're a good guy, [name]."
-    au ""
+    au "Yeah, you're a good guy, [name]."
 
 # game/v8/Scene26.rpy:392
 translate francais opti_end_9455b319:
 
     # u "I had a lot of fun."
-    u ""
+    u "I had a lot of fun."
 
 # game/v8/Scene26.rpy:397
 translate francais opti_end_6bc6ab1f:
 
     # au "We should do this again soon."
-    au ""
+    au "We should do this again soon."
 
 # game/v8/Scene26.rpy:402
 translate francais opti_end_9ed85870:
 
     # u "I can't wait!"
-    u ""
+    u "I can't wait!"
 
 # game/v8/Scene26.rpy:407
 translate francais opti_end_eb219a34:
 
     # ri "We have other errands to run, but I'll text you soon."
-    ri ""
+    ri "We have other errands to run, but I'll text you soon."
 
 # game/v8/Scene26.rpy:412
 translate francais opti_end_1bea4ac4:
 
     # u "Great!"
-    u ""
+    u "Great!"
 
 # game/v8/Scene26.rpy:417
 translate francais opti_end_a9287b2e:
 
     # au "See ya."
-    au ""
+    au "See ya."
 
 # game/v8/Scene26.rpy:422
 translate francais opti_end_604e5884:
 
     # u "Bye."
-    u ""
+    u "Bye."
 
 translate francais strings:
 
     # game/v8/Scene26.rpy:151
     old "Take the glasses"
-    new ""
+    new "Take the glasses"
 
     # game/v8/Scene26.rpy:151
     old "Find a better pair"
-    new ""
+    new "Find a better pair"
 
     # game/v8/Scene26.rpy:335
     old "Riley's glasses"
-    new ""
+    new "Riley's glasses"
 
     # game/v8/Scene26.rpy:335
     old "Both glasses"
-    new ""
+    new "Both glasses"
 

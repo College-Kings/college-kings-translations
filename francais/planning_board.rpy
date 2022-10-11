@@ -1,28 +1,28 @@
-﻿# TODO: Translation updated at 2022-08-22 09:23
+﻿# TODO: Translation updated at 2022-10-11 06:39
 
 translate francais strings:
 
     # game/planning_board.rpy:124
     old "Please select optional tasks"
-    new ""
+    new "Please select optional tasks"
 
     # game/planning_board.rpy:135
     old "[number]."
-    new ""
+    new "[number]."
 
     # game/planning_board.rpy:145
     old "[alphabet])"
-    new ""
+    new "[alphabet])"
 
     # game/planning_board.rpy:154
     old "Please select an approach"
-    new ""
+    new "Please select an approach"
 
     # game/planning_board.rpy:155
     old "{color=#f00}Not enough money to select task.{/color}"
-    new ""
+    new "{color=#f00}Not enough money to select task.{/color}"
 
     # game/planning_board.rpy:171
     old "Budget: $[planning_board.money]"
-    new ""
+    new "Budget: $[planning_board.money]"
 

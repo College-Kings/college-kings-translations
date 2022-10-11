@@ -1,436 +1,516 @@
-﻿# TODO: Translation updated at 2022-08-22 09:23
+﻿# TODO: Translation updated at 2022-10-11 06:39
 
 translate francais strings:
 
     # game/characters.rpy:17
     old "[name]"
-    new ""
+    new "[name]"
 
     # game/characters.rpy:18
     old "Aaron"
-    new ""
+    new "Aaron"
 
     # game/characters.rpy:19
     old "Adam"
-    new ""
+    new "Adam"
+
+    # game/characters.rpy:20
+    old "Amber"
+    new "Amber"
 
     # game/characters.rpy:21
     old "Mrs. Anderson"
-    new ""
+    new "Mrs. Anderson"
+
+    # game/characters.rpy:22
+    old "Aubrey"
+    new "Aubrey"
+
+    # game/characters.rpy:23
+    old "Autumn"
+    new "Autumn"
 
     # game/characters.rpy:24
     old "Benjamin"
-    new ""
+    new "Benjamin"
 
     # game/characters.rpy:25
     old "Cameron"
-    new ""
+    new "Cameron"
 
     # game/characters.rpy:26
     old "Car"
-    new ""
+    new "Car"
 
     # game/characters.rpy:27
     old "Chris"
-    new ""
+    new "Chris"
+
+    # game/characters.rpy:28
+    old "Chloe"
+    new "Chloe"
 
     # game/characters.rpy:29
     old "Clerk"
-    new ""
+    new "Clerk"
 
     # game/characters.rpy:30
     old "Counselor"
-    new ""
+    new "Counselor"
 
     # game/characters.rpy:31
     old "Courtney"
-    new ""
+    new "Courtney"
 
     # game/characters.rpy:32
     old "Dr. Ehrmantraut"
-    new ""
+    new "Dr. Ehrmantraut"
 
     # game/characters.rpy:33
     old "Elijah"
-    new ""
+    new "Elijah"
+
+    # game/characters.rpy:34
+    old "Emily"
+    new "Emily"
 
     # game/characters.rpy:35
     old "Evelyn"
-    new ""
+    new "Evelyn"
 
     # game/characters.rpy:36
     old "Grayson"
-    new ""
+    new "Grayson"
+
+    # game/characters.rpy:37
+    old "Imre"
+    new "Imre"
 
     # game/characters.rpy:38
     old "Jeremy"
-    new ""
+    new "Jeremy"
 
     # game/characters.rpy:39
     old "Josh"
-    new ""
+    new "Josh"
 
     # game/characters.rpy:40
     old "Julia"
-    new ""
+    new "Julia"
 
     # game/characters.rpy:41
     old "Karen"
-    new ""
+    new "Karen"
 
     # game/characters.rpy:42
     old "Katy"
-    new ""
+    new "Katy"
+
+    # game/characters.rpy:43
+    old "Kim"
+    new "Kim"
+
+    # game/characters.rpy:44
+    old "Lauren"
+    new "Lauren"
 
     # game/characters.rpy:45
     old "Mr. Lee"
-    new ""
+    new "Mr. Lee"
+
+    # game/characters.rpy:46
+    old "Lindsey"
+    new "Lindsey"
 
     # game/characters.rpy:47
     old "Mason"
-    new ""
+    new "Mason"
+
+    # game/characters.rpy:48
+    old "Nora"
+    new "Nora"
+
+    # game/characters.rpy:49
+    old "Penelope"
+    new "Penelope"
+
+    # game/characters.rpy:50
+    old "Riley"
+    new "Riley"
+
+    # game/characters.rpy:51
+    old "Ms. Rose"
+    new "Ms. Rose"
+
+    # game/characters.rpy:52
+    old "Ryan"
+    new "Ryan"
 
     # game/characters.rpy:53
     old "Sam"
-    new ""
+    new "Sam"
 
     # game/characters.rpy:54
     old "Sarah"
-    new ""
+    new "Sarah"
 
     # game/characters.rpy:55
     old "Security Guard"
-    new ""
+    new "Security Guard"
 
     # game/characters.rpy:56
     old "Tom"
-    new ""
+    new "Tom"
 
     # game/characters.rpy:57
     old "Tutorial"
-    new ""
+    new "Tutorial"
 
     # game/characters.rpy:58
     old "Uber Driver"
-    new ""
+    new "Uber Driver"
 
     # game/characters.rpy:59
     old "Unknown"
-    new ""
+    new "Unknown"
 
     # game/characters.rpy:62
     old "Finn"
-    new ""
+    new "Finn"
 
     # game/characters.rpy:63
     old "Peter"
-    new ""
+    new "Peter"
 
     # game/characters.rpy:64
     old "Harry"
-    new ""
+    new "Harry"
 
     # game/characters.rpy:65
     old "Marcus"
-    new ""
+    new "Marcus"
+
+    # game/characters.rpy:66
+    old "Perry"
+    new "Perry"
 
     # game/characters.rpy:67
     old "Host"
-    new ""
+    new "Host"
 
     # game/characters.rpy:68
     old "Matt"
-    new ""
+    new "Matt"
 
     # game/characters.rpy:69
     old "Lisa"
-    new ""
+    new "Lisa"
 
     # game/characters.rpy:70
     old "Martin"
-    new ""
+    new "Martin"
+
+    # game/characters.rpy:71
+    old "Samantha"
+    new "Samantha"
 
     # game/characters.rpy:72
     old "Sebastian"
-    new ""
+    new "Sebastian"
 
     # game/characters.rpy:73
     old "Waiter"
-    new ""
+    new "Waiter"
+
+    # game/characters.rpy:76
+    old "Caleb"
+    new "Caleb"
 
     # game/characters.rpy:77
     old "Class"
-    new ""
+    new "Class"
 
     # game/characters.rpy:78
     old "Cooper"
-    new ""
+    new "Cooper"
 
     # game/characters.rpy:79
     old "Jaxon"
-    new ""
+    new "Jaxon"
 
     # game/characters.rpy:80
     old "Kai"
-    new ""
+    new "Kai"
 
     # game/characters.rpy:81
     old "Nerd"
-    new ""
+    new "Nerd"
 
     # game/characters.rpy:82
     old "Parker"
-    new ""
+    new "Parker"
 
     # game/characters.rpy:83
     old "Angelica"
-    new ""
+    new "Angelica"
 
     # game/characters.rpy:84
     old "Elisa"
-    new ""
+    new "Elisa"
 
     # game/characters.rpy:85
     old "Teacher"
-    new ""
+    new "Teacher"
 
     # game/characters.rpy:86
     old "Wesley"
-    new ""
+    new "Wesley"
 
     # game/characters.rpy:87
     old "Xavier"
-    new ""
+    new "Xavier"
 
     # game/characters.rpy:90
     old "Speaker Announcement"
-    new ""
+    new "Speaker Announcement"
 
     # game/characters.rpy:91
     old "Dean"
-    new ""
+    new "Dean"
 
     # game/characters.rpy:92
     old "Employee"
-    new ""
+    new "Employee"
 
     # game/characters.rpy:93
     old "Joe"
-    new ""
+    new "Joe"
 
     # game/characters.rpy:96
     old "Female voice"
-    new ""
+    new "Female voice"
 
     # game/characters.rpy:99
     old "Ben"
-    new ""
+    new "Ben"
 
     # game/characters.rpy:100
     old "Rachel"
-    new ""
+    new "Rachel"
 
     # game/characters.rpy:101
     old "Eleanor"
-    new ""
+    new "Eleanor"
 
     # game/characters.rpy:103
     old "Rebecca"
-    new ""
+    new "Rebecca"
+
+    # game/characters.rpy:104
+    old "Jenny"
+    new "Jenny"
 
     # game/characters.rpy:105
     old "Jerry"
-    new ""
+    new "Jerry"
 
     # game/characters.rpy:106
     old "Mr. Rose"
-    new ""
+    new "Mr. Rose"
 
     # game/characters.rpy:109
     old "Airport Host"
-    new ""
+    new "Airport Host"
 
     # game/characters.rpy:110
     old "Art Director"
-    new ""
+    new "Art Director"
 
     # game/characters.rpy:111
     old "Bank Teller"
-    new ""
+    new "Bank Teller"
 
     # game/characters.rpy:112
     old "Bartender"
-    new ""
+    new "Bartender"
 
     # game/characters.rpy:113
     old "Candy"
-    new ""
+    new "Candy"
+
+    # game/characters.rpy:114
+    old "Charli"
+    new "Charli"
 
     # game/characters.rpy:115
     old "Sales Rep"
-    new ""
+    new "Sales Rep"
 
     # game/characters.rpy:116
     old "Dennis"
-    new ""
+    new "Dennis"
 
     # game/characters.rpy:117
     old "Driver"
-    new ""
+    new "Driver"
 
     # game/characters.rpy:118
     old "Duncan"
-    new ""
+    new "Duncan"
 
     # game/characters.rpy:119
     old "Ericka"
-    new ""
+    new "Ericka"
 
     # game/characters.rpy:120
     old "Foxy"
-    new ""
+    new "Foxy"
 
     # game/characters.rpy:121
     old "Horse"
-    new ""
+    new "Horse"
 
     # game/characters.rpy:122
     old "Jane"
-    new ""
+    new "Jane"
 
     # game/characters.rpy:123
     old "Judge"
-    new ""
+    new "Judge"
 
     # game/characters.rpy:124
     old "Manager"
-    new ""
+    new "Manager"
 
     # game/characters.rpy:125
     old "Rancher"
-    new ""
+    new "Rancher"
 
     # game/characters.rpy:126
     old "Susan"
-    new ""
+    new "Susan"
 
     # game/characters.rpy:129
     old "Barber"
-    new ""
+    new "Barber"
 
     # game/characters.rpy:130
     old "Bishop"
-    new ""
+    new "Bishop"
 
     # game/characters.rpy:131
     old "Crazy Lady"
-    new ""
+    new "Crazy Lady"
 
     # game/characters.rpy:133
     old "French Waitress"
-    new ""
+    new "French Waitress"
 
     # game/characters.rpy:134
     old "Greeter"
-    new ""
+    new "Greeter"
 
     # game/characters.rpy:135
     old "Lady Masseuse"
-    new ""
+    new "Lady Masseuse"
 
     # game/characters.rpy:136
     old "Male Masseuse"
-    new ""
+    new "Male Masseuse"
 
     # game/characters.rpy:137
     old "Naomi"
-    new ""
+    new "Naomi"
 
     # game/characters.rpy:138
     old "Nurse"
-    new ""
+    new "Nurse"
 
     # game/characters.rpy:139
     old "Photographer"
-    new ""
+    new "Photographer"
 
     # game/characters.rpy:140
     old "Robber"
-    new ""
+    new "Robber"
 
     # game/characters.rpy:141
     old "Tattoo Artist"
-    new ""
+    new "Tattoo Artist"
 
     # game/characters.rpy:144
     old "Aryssa"
-    new ""
+    new "Aryssa"
 
     # game/characters.rpy:145
     old "Ashton"
-    new ""
+    new "Ashton"
 
     # game/characters.rpy:147
     old "Clipps"
-    new ""
+    new "Clipps"
 
     # game/characters.rpy:148
     old "Emmy"
-    new ""
+    new "Emmy"
 
     # game/characters.rpy:149
     old "Gary"
-    new ""
+    new "Gary"
+
+    # game/characters.rpy:151
+    old "Kourtney"
+    new "Kourtney"
 
     # game/characters.rpy:152
     old "Luuk"
-    new ""
+    new "Luuk"
 
     # game/characters.rpy:153
     old "Polly"
-    new ""
+    new "Polly"
 
     # game/characters.rpy:157
     old "Bird"
-    new ""
+    new "Bird"
 
     # game/characters.rpy:158
     old "Elijah's Mother"
-    new ""
+    new "Elijah's Mother"
 
     # game/characters.rpy:159
     old "Emerald"
-    new ""
+    new "Emerald"
 
     # game/characters.rpy:160
     old "Gentleman"
-    new ""
+    new "Gentleman"
 
     # game/characters.rpy:161
     old "Lady"
-    new ""
+    new "Lady"
 
     # game/characters.rpy:162
     old "Madame"
-    new ""
+    new "Madame"
 
     # game/characters.rpy:163
     old "Night Gambler"
-    new ""
+    new "Night Gambler"
 
     # game/characters.rpy:164
     old "Rubee"
-    new ""
+    new "Rubee"
 
     # game/characters.rpy:165
     old "Satin"
-    new ""
+    new "Satin"
 
     # game/characters.rpy:166
     old "Trainer"
-    new ""
+    new "Trainer"
 
     # game/characters.rpy:167
     old "Wolf Trainer"
-    new ""
+    new "Wolf Trainer"
 

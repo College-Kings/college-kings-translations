@@ -1,88 +1,88 @@
-﻿# TODO: Translation updated at 2022-08-22 08:06
+﻿# TODO: Translation updated at 2022-10-11 06:39
 
 # game/v9/scene38.rpy:21
 translate francais v9_walk_li_txt_1d8a7ae7:
 
     # u "(Ugh, this is such a mess. How did I get stuck in the middle of those two?)"
-    u ""
+    u "(Ugh, this is such a mess. How did I get stuck in the middle of those two?)"
 
 # game/v9/scene38.rpy:23
 translate francais v9_walk_li_txt_ed398106:
 
     # u "(I may need some help if they run into each other again)"
-    u ""
+    u "(I may need some help if they run into each other again)"
 
 # game/v9/scene38.rpy:32
 translate francais v9_walk_li_txt_112e72aa:
 
     # u "(Please no more drama)"
-    u ""
+    u "(Please no more drama)"
 
 # game/v9/scene38.rpy:46
 translate francais s38_PhoneContinue_f9e9813d:
 
     # u "(I should reply to Lindsey.)"
-    u ""
+    u "(I should reply to Lindsey.)"
 
 # game/v9/scene38.rpy:53
 translate francais s38_PhoneContinue_744c4169:
 
     # u "(I suppose I should head to see Lindsey.)"
-    u ""
+    u "(I suppose I should head to see Lindsey.)"
 
 # game/v9/scene38.rpy:60
 translate francais s38_PhoneContinue_538b62a3:
 
     # u "(Shit.)"
-    u ""
+    u "(Shit.)"
 
 translate francais strings:
 
     # game/v9/scene38.rpy:8
     old "Great. See ya soon"
-    new ""
+    new "Great. See ya soon"
 
     # game/v9/scene38.rpy:12
     old ":("
-    new ""
+    new ":("
 
     # game/v9/scene38.rpy:13
     old "Please don't hate me. You know I want to. I really, really want to."
-    new ""
+    new "Please don't hate me. You know I want to. I really, really want to."
 
     # game/v9/scene38.rpy:14
     old "No hard feelings. Bye"
-    new ""
+    new "No hard feelings. Bye"
 
     # game/v9/scene38.rpy:15
     old "Maybe after the fight?"
-    new ""
+    new "Maybe after the fight?"
 
     # game/v9/scene38.rpy:34
     old "Hey Freshmeat! How's it hangin?"
-    new ""
+    new "Hey Freshmeat! How's it hangin?"
 
     # game/v9/scene38.rpy:35
     old "Hey Linds ;)"
-    new ""
+    new "Hey Linds ;)"
 
     # game/v9/scene38.rpy:36
     old "I've decided to allow the nickname under one condition"
-    new ""
+    new "I've decided to allow the nickname under one condition"
 
     # game/v9/scene38.rpy:37
     old "Really? And what's that?"
-    new ""
+    new "Really? And what's that?"
 
     # game/v9/scene38.rpy:38
     old "Come hang out with me"
-    new ""
+    new "Come hang out with me"
 
     # game/v9/scene38.rpy:39
     old "Hell yeah! Be right there, Linds!"
-    new ""
+    new "Hell yeah! Be right there, Linds!"
 
     # game/v9/scene38.rpy:40
     old "Aww, I wish I could, but I gotta get ready for the brawl"
-    new ""
+    new "Aww, I wish I could, but I gotta get ready for the brawl"
 

@@ -1,454 +1,454 @@
-﻿# TODO: Translation updated at 2022-08-22 08:06
+﻿# TODO: Translation updated at 2022-10-11 06:39
 
 # game/v12/scene3.rpy:18
 translate francais v12_penelope_roof_8ac7517f:
 
     # u "(It's Penelope.)"
-    u ""
+    u "(It's Penelope.)"
 
 # game/v12/scene3.rpy:33
 translate francais v12_penelope_roof_text_3faef724:
 
     # u "(I should probably reply.)"
-    u ""
+    u "(I should probably reply.)"
 
 # game/v12/scene3.rpy:47
 translate francais v12_penelope_roof_text_0336fa14:
 
     # u "What's up?"
-    u ""
+    u "What's up?"
 
 # game/v12/scene3.rpy:52
 translate francais v12_penelope_roof_text_58e663ab:
 
     # pe "I... Okay. Don't make fun of me, but I'm kinda nervous to be by myself."
-    pe ""
+    pe "I... Okay. Don't make fun of me, but I'm kinda nervous to be by myself."
 
 # game/v12/scene3.rpy:57
 translate francais v12_penelope_roof_text_aa953a2c:
 
     # u "Because of the mugger and everything?"
-    u ""
+    u "Because of the mugger and everything?"
 
 # game/v12/scene3.rpy:62
 translate francais v12_penelope_roof_text_e56e807a:
 
     # pe "Yes. And I know it's not like he's gonna run into the hotel and snatch me or something. I'm not that paranoid, but I'd still rather not be by myself."
-    pe ""
+    pe "Yes. And I know it's not like he's gonna run into the hotel and snatch me or something. I'm not that paranoid, but I'd still rather not be by myself."
 
 # game/v12/scene3.rpy:67
 translate francais v12_penelope_roof_text_1502d406:
 
     # u "I gotcha. So you called your one and only hero to protect you, right?"
-    u ""
+    u "I gotcha. So you called your one and only hero to protect you, right?"
 
 # game/v12/scene3.rpy:72
 translate francais v12_penelope_roof_text_80065605:
 
     # pe "Haha, don't start getting too big of a head. I can always call someone else."
-    pe ""
+    pe "Haha, don't start getting too big of a head. I can always call someone else."
 
 # game/v12/scene3.rpy:77
 translate francais v12_penelope_roof_text_083f2e98:
 
     # u "No need for all that. *Chuckles* What are you wanting to do?"
-    u ""
+    u "No need for all that. *Chuckles* What are you wanting to do?"
 
 # game/v12/scene3.rpy:82
 translate francais v12_penelope_roof_text_d7b696cb:
 
     # pe "I don't know, just something that gets my mind off of all this."
-    pe ""
+    pe "I don't know, just something that gets my mind off of all this."
 
 # game/v12/scene3.rpy:87
 translate francais v12_penelope_roof_text_23d8698d:
 
     # u "Hmm, wanna go to the roof?"
-    u ""
+    u "Hmm, wanna go to the roof?"
 
 # game/v12/scene3.rpy:92
 translate francais v12_penelope_roof_text_5623663c:
 
     # pe "Is that even allowed?"
-    pe ""
+    pe "Is that even allowed?"
 
 # game/v12/scene3.rpy:97
 translate francais v12_penelope_roof_text_4d18c26f:
 
     # u "We're allowed to explore, right? Since it's so late and nothing is open, our only option is the hotel. So let's explore walking up to the roof. *Chuckles*"
-    u ""
+    u "We're allowed to explore, right? Since it's so late and nothing is open, our only option is the hotel. So let's explore walking up to the roof. *Chuckles*"
 
 # game/v12/scene3.rpy:102
 translate francais v12_penelope_roof_text_c95fd348:
 
     # pe "I'm here because I got into trouble and you want me to do something silly like this."
-    pe ""
+    pe "I'm here because I got into trouble and you want me to do something silly like this."
 
 # game/v12/scene3.rpy:107
 translate francais v12_penelope_roof_text_d5b0bfcd:
 
     # u "Well, we could always just go our separate ways and get some sleep."
-    u ""
+    u "Well, we could always just go our separate ways and get some sleep."
 
 # game/v12/scene3.rpy:112
 translate francais v12_penelope_roof_text_6581ce28:
 
     # pe "Nope, roof it is."
-    pe ""
+    pe "Nope, roof it is."
 
 # game/v12/scene3.rpy:117
 translate francais v12_penelope_roof_text_fcc18885:
 
     # u "*Laughs*"
-    u ""
+    u "*Laughs*"
 
 # game/v12/scene3.rpy:132
 translate francais v12_penelope_roof_text_e26ffbd5:
 
     # pe "It won't open."
-    pe ""
+    pe "It won't open."
 
 # game/v12/scene3.rpy:137
 translate francais v12_penelope_roof_text_f31d55e7:
 
     # u "*Grunts*"
-    u ""
+    u "*Grunts*"
 
 # game/v12/scene3.rpy:142
 translate francais v12_penelope_roof_text_d6f982bb:
 
     # u "Well, would you look at that..."
-    u ""
+    u "Well, would you look at that..."
 
 # game/v12/scene3.rpy:147
 translate francais v12_penelope_roof_text_e7c31802:
 
     # pe "Okay, Hulk."
-    pe ""
+    pe "Okay, Hulk."
 
 # game/v12/scene3.rpy:165
 translate francais v12_penelope_roof_text_366d0df2:
 
     # pe "This is... beautiful."
-    pe ""
+    pe "This is... beautiful."
 
 # game/v12/scene3.rpy:176
 translate francais v12_penelope_roof_text_c6e9033c:
 
     # u "It really is."
-    u ""
+    u "It really is."
 
 # game/v12/scene3.rpy:180
 translate francais v12_penelope_roof_text_36ac9fa4:
 
     # u "Yes, you are."
-    u ""
+    u "Yes, you are."
 
 # game/v12/scene3.rpy:185
 translate francais v12_penelope_roof_text_59dbbf76:
 
     # pe "Huh?"
-    pe ""
+    pe "Huh?"
 
 # game/v12/scene3.rpy:190
 translate francais v12_penelope_roof_text_01f25d46:
 
     # u "Oh, nothing. *Chuckles*"
-    u ""
+    u "Oh, nothing. *Chuckles*"
 
 # game/v12/scene3.rpy:195
 translate francais v12_penelope_roof_text_4796ee8c:
 
     # pe "Haha, I heard you, goofball. I just wanted to see if you'd repeat yourself, handsome."
-    pe ""
+    pe "Haha, I heard you, goofball. I just wanted to see if you'd repeat yourself, handsome."
 
 # game/v12/scene3.rpy:200
 translate francais v12_penelope_roof_text_f43fc282:
 
     # pe "I have to be honest, I can't stand how the world is today."
-    pe ""
+    pe "I have to be honest, I can't stand how the world is today."
 
 # game/v12/scene3.rpy:205
 translate francais v12_penelope_roof_text_09332657:
 
     # u "What do you mean?"
-    u ""
+    u "What do you mean?"
 
 # game/v12/scene3.rpy:210
 translate francais v12_penelope_roof_text_5d69c430:
 
     # pe "There's just so many bad people out there."
-    pe ""
+    pe "There's just so many bad people out there."
 
 # game/v12/scene3.rpy:215
 translate francais v12_penelope_roof_text_c88e45f6:
 
     # u "Hasn't the world always been like that?"
-    u ""
+    u "Hasn't the world always been like that?"
 
 # game/v12/scene3.rpy:220
 translate francais v12_penelope_roof_text_414abb92:
 
     # pe "Maybe, you're right. Either way though, I can't stand it. It's like people don't take their victims into consideration."
-    pe ""
+    pe "Maybe, you're right. Either way though, I can't stand it. It's like people don't take their victims into consideration."
 
 # game/v12/scene3.rpy:225
 translate francais v12_penelope_roof_text_943672cd:
 
     # pe "Sure, I may have done some bad things before, but I could never do something bad that resulted in someone being a victim."
-    pe ""
+    pe "Sure, I may have done some bad things before, but I could never do something bad that resulted in someone being a victim."
 
 # game/v12/scene3.rpy:230
 translate francais v12_penelope_roof_text_c9c2317e:
 
     # u "There's only one way to get away from all the bad stuff in the world."
-    u ""
+    u "There's only one way to get away from all the bad stuff in the world."
 
 # game/v12/scene3.rpy:235
 translate francais v12_penelope_roof_text_1dc9463e:
 
     # pe "And what's that?"
-    pe ""
+    pe "And what's that?"
 
 # game/v12/scene3.rpy:240
 translate francais v12_penelope_roof_text_e2b2e327:
 
     # u "Don't be in it."
-    u ""
+    u "Don't be in it."
 
 # game/v12/scene3.rpy:245
 translate francais v12_penelope_roof_text_5e87408a:
 
     # pe "Well, that's not an option. I'm just trying to enjoy my life."
-    pe ""
+    pe "Well, that's not an option. I'm just trying to enjoy my life."
 
 # game/v12/scene3.rpy:250
 translate francais v12_penelope_roof_text_5ecc5ec7:
 
     # u "Exactly, it's not an option. So rather than focusing on the bad people we just have to do our best to be a good person, and like you said, try to enjoy our lives."
-    u ""
+    u "Exactly, it's not an option. So rather than focusing on the bad people we just have to do our best to be a good person, and like you said, try to enjoy our lives."
 
 # game/v12/scene3.rpy:255
 translate francais v12_penelope_roof_text_970c1436:
 
     # pe "Mr. Lee tell you that?"
-    pe ""
+    pe "Mr. Lee tell you that?"
 
 # game/v12/scene3.rpy:260
 translate francais v12_penelope_roof_text_4bbac3ad:
 
     # u "*Chuckles* What? No, what makes you say that?"
-    u ""
+    u "*Chuckles* What? No, what makes you say that?"
 
 # game/v12/scene3.rpy:265
 translate francais v12_penelope_roof_text_5baebef1:
 
     # pe "Along with all the chores he gives me, he makes sure he has time to dive into deep philosophical conversations. *Laughs*"
-    pe ""
+    pe "Along with all the chores he gives me, he makes sure he has time to dive into deep philosophical conversations. *Laughs*"
 
 # game/v12/scene3.rpy:270
 translate francais v12_penelope_roof_text_bd919c9c:
 
     # u "*Mocking tone* \"The past is in the past, so leave it there. But right now is a gift, that's why it's called the present.\" How was that? *Chuckles*"
-    u ""
+    u "*Mocking tone* \"The past is in the past, so leave it there. But right now is a gift, that's why it's called the present.\" How was that? *Chuckles*"
 
 # game/v12/scene3.rpy:275
 translate francais v12_penelope_roof_text_88d737a6:
 
     # pe "*Laughs* That may just be an exact quote from him."
-    pe ""
+    pe "*Laughs* That may just be an exact quote from him."
 
 # game/v12/scene3.rpy:280
 translate francais v12_penelope_roof_text_261e2746:
 
     # u "Haha. Mr. Lee has his moments, but he really is a good guy."
-    u ""
+    u "Haha. Mr. Lee has his moments, but he really is a good guy."
 
 # game/v12/scene3.rpy:285
 translate francais v12_penelope_roof_text_9e101682:
 
     # pe "Yeah, not many of those in our generation."
-    pe ""
+    pe "Yeah, not many of those in our generation."
 
 # game/v12/scene3.rpy:290
 translate francais v12_penelope_roof_text_a8921641:
 
     # u "Do you think I'm a good guy?"
-    u ""
+    u "Do you think I'm a good guy?"
 
 # game/v12/scene3.rpy:297
 translate francais v12_penelope_roof_text_93424824:
 
     # pe "I think you struggle with right and wrong just like everyone does, but that doesn't mean you're good or bad. It means you're human."
-    pe ""
+    pe "I think you struggle with right and wrong just like everyone does, but that doesn't mean you're good or bad. It means you're human."
 
 # game/v12/scene3.rpy:303
 translate francais v12_penelope_roof_text_c733c8e3:
 
     # pe "With you, it's like watching someone try to pick up everyone's fallen pieces and helping them solve their own puzzles. Selfless, caring, and loyal... To me, you're a good guy."
-    pe ""
+    pe "With you, it's like watching someone try to pick up everyone's fallen pieces and helping them solve their own puzzles. Selfless, caring, and loyal... To me, you're a good guy."
 
 # game/v12/scene3.rpy:308
 translate francais v12_penelope_roof_text_166be7a9:
 
     # u "Thanks Penelope, that means a lot to me."
-    u ""
+    u "Thanks Penelope, that means a lot to me."
 
 # game/v12/scene3.rpy:313
 translate francais v12_penelope_roof_text_5919815d:
 
     # pe "Always."
-    pe ""
+    pe "Always."
 
 # game/v12/scene3.rpy:316
 translate francais v12_penelope_roof_text_5888201c:
 
     # pe "I kinda hope I end up marrying a guy like you."
-    pe ""
+    pe "I kinda hope I end up marrying a guy like you."
 
 # game/v12/scene3.rpy:325
 translate francais v12_penelope_roof_text_c5b30f7f:
 
     # u "*Gulp*"
-    u ""
+    u "*Gulp*"
 
 # game/v12/scene3.rpy:330
 translate francais v12_penelope_roof_text_8b621f1e:
 
     # pe "Oh, I wasn't trying to imply anything. *Chuckles* I just think you'd be a really good guy to spend a lifetime with."
-    pe ""
+    pe "Oh, I wasn't trying to imply anything. *Chuckles* I just think you'd be a really good guy to spend a lifetime with."
 
 # game/v12/scene3.rpy:335
 translate francais v12_penelope_roof_text_5ff3bc04:
 
     # u "Ha, thanks. I can't even begin to think about marriage... I don't even know the Bill of Rights. *Chuckles*"
-    u ""
+    u "Ha, thanks. I can't even begin to think about marriage... I don't even know the Bill of Rights. *Chuckles*"
 
 # game/v12/scene3.rpy:340
 translate francais v12_penelope_roof_text_78101a7e:
 
     # pe "*Laughs* Yeah, you've got a few other things to figure out before you start thinking about tying the knot."
-    pe ""
+    pe "*Laughs* Yeah, you've got a few other things to figure out before you start thinking about tying the knot."
 
 # game/v12/scene3.rpy:349
 translate francais v12_penelope_roof_text_2fb7551a:
 
     # u "I'm a guy like me."
-    u ""
+    u "I'm a guy like me."
 
 # game/v12/scene3.rpy:366
 translate francais v12_penelope_roof_text_2f2f9a24:
 
     # pe "I guess you are, huh?"
-    pe ""
+    pe "I guess you are, huh?"
 
 # game/v12/scene3.rpy:371
 translate francais v12_penelope_roof_text_15641bec:
 
     # u "Yes ma'am. To a T."
-    u ""
+    u "Yes ma'am. To a T."
 
 # game/v12/scene3.rpy:376
 translate francais v12_penelope_roof_text_d5b4820a:
 
     # pe "*Chuckles* I'll try and remember that."
-    pe ""
+    pe "*Chuckles* I'll try and remember that."
 
 # game/v12/scene3.rpy:386
 translate francais v12_penelope_roof_text_08de13f9:
 
     # u "I don't know about you, but this wind is making me a little chilly."
-    u ""
+    u "I don't know about you, but this wind is making me a little chilly."
 
 # game/v12/scene3.rpy:391
 translate francais v12_penelope_roof_text_ebe51ccc:
 
     # pe "It is pretty chilly up here, it's not just you. *Chuckles*"
-    pe ""
+    pe "It is pretty chilly up here, it's not just you. *Chuckles*"
 
 # game/v12/scene3.rpy:396
 translate francais v12_penelope_roof_text_be71f9b8:
 
     # u "Feel good enough to go back?"
-    u ""
+    u "Feel good enough to go back?"
 
 # game/v12/scene3.rpy:401
 translate francais v12_penelope_roof_text_425394f0:
 
     # pe "Yeah, I'm good."
-    pe ""
+    pe "Yeah, I'm good."
 
 # game/v12/scene3.rpy:431
 translate francais v12_penelope_roof_text_4a2c69ab:
 
     # pe "Thanks for helping me relax my nerves."
-    pe ""
+    pe "Thanks for helping me relax my nerves."
 
 # game/v12/scene3.rpy:436
 translate francais v12_penelope_roof_text_1b28a406:
 
     # u "Of course."
-    u ""
+    u "Of course."
 
 # game/v12/scene3.rpy:441
 translate francais v12_penelope_roof_text_24db047a:
 
     # pe "I better get to bed, Mr. Lee wants me up early to help with our departure."
-    pe ""
+    pe "I better get to bed, Mr. Lee wants me up early to help with our departure."
 
 # game/v12/scene3.rpy:454
 translate francais v12_penelope_roof_text_8608e56f:
 
     # pe "Goodnight."
-    pe ""
+    pe "Goodnight."
 
 # game/v12/scene3.rpy:457
 translate francais v12_penelope_roof_text_8608e56f_1:
 
     # pe "Goodnight."
-    pe ""
+    pe "Goodnight."
 
 # game/v12/scene3.rpy:462
 translate francais v12_penelope_roof_text_5788969f:
 
     # u "Goodnight."
-    u ""
+    u "Goodnight."
 
 # game/v12/scene3.rpy:486
 translate francais v12_penelope_roof_text_25c37916:
 
     # u "(Don't wanna take the chance that she may be needing help with the laundry or something... Haha.)"
-    u ""
+    u "(Don't wanna take the chance that she may be needing help with the laundry or something... Haha.)"
 
 # game/v12/scene3.rpy:488
 translate francais v12_penelope_roof_text_67560170:
 
     # u "(Don't wanna take the chance that she may be needing help with one of her little Mr. Lee chores.)"
-    u ""
+    u "(Don't wanna take the chance that she may be needing help with one of her little Mr. Lee chores.)"
 
 translate francais strings:
 
     # game/v12/scene3.rpy:22
     old "Reply"
-    new ""
+    new "Reply"
 
     # game/v12/scene3.rpy:22
     old "Don't reply"
-    new ""
+    new "Don't reply"
 
     # game/v12/scene3.rpy:170
     old "Sure is"
-    new ""
+    new "Sure is"
 
     # game/v12/scene3.rpy:170
     old "You sure are"
-    new ""
+    new "You sure are"
 
     # game/v12/scene3.rpy:321
     old "Be shocked"
-    new ""
+    new "Be shocked"
 
     # game/v12/scene3.rpy:321
     old "Be bold"
-    new ""
+    new "Be bold"
 

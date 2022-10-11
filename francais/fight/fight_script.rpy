@@ -1,12 +1,12 @@
-﻿# TODO: Translation updated at 2022-08-22 08:59
+﻿# TODO: Translation updated at 2022-10-11 06:39
 
 translate francais strings:
 
     # game/fight/fight_script.rpy:205
     old "Your Turn"
-    new ""
+    new "Your Turn"
 
     # game/fight/fight_script.rpy:207
     old "Opponent's turn"
-    new ""
+    new "Opponent's turn"
 

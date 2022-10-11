@@ -1,24 +1,24 @@
-﻿# TODO: Translation updated at 2022-08-22 09:23
+﻿# TODO: Translation updated at 2022-10-11 06:39
 
 translate francais strings:
 
     # game/kct.rpy:3
     old "bro"
-    new ""
+    new "bro"
 
     # game/kct.rpy:4
     old "boyfriend"
-    new ""
+    new "boyfriend"
 
     # game/kct.rpy:5
     old "troublemaker"
-    new ""
+    new "troublemaker"
 
     # game/kct.rpy:63
     old "Congratulations! Your Key Character Trait {b}[kct]{/b} has just changed the outcome of a decision someone was making."
-    new ""
+    new "Congratulations! Your Key Character Trait {b}[kct]{/b} has just changed the outcome of a decision someone was making."
 
     # game/kct.rpy:65
     old "Unfortunately, your Key Character Trait {b}[kct]{/b} did not change the outcome of this decision."
-    new ""
+    new "Unfortunately, your Key Character Trait {b}[kct]{/b} did not change the outcome of this decision."
 

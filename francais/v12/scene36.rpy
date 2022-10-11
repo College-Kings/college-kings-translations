@@ -1,296 +1,296 @@
-﻿# TODO: Translation updated at 2022-08-22 08:06
+﻿# TODO: Translation updated at 2022-10-11 06:39
 
 # game/v12/scene36.rpy:41
 translate francais v12_lindsey_lobby_bc5f4353:
 
     # li "Did I wake you up?"
-    li ""
+    li "Did I wake you up?"
 
 # game/v12/scene36.rpy:46
 translate francais v12_lindsey_lobby_0a6c8c3d:
 
     # u "You don't see all the sleep still on my face?"
-    u ""
+    u "You don't see all the sleep still on my face?"
 
 # game/v12/scene36.rpy:51
 translate francais v12_lindsey_lobby_c9a47040:
 
     # li "*Chuckles* I need you to come be a good friend and try the hotel breakfast with me."
-    li ""
+    li "*Chuckles* I need you to come be a good friend and try the hotel breakfast with me."
 
 # game/v12/scene36.rpy:56
 translate francais v12_lindsey_lobby_69cfaf16:
 
     # u "Okay... You forgot how to eat? *Chuckles*"
-    u ""
+    u "Okay... You forgot how to eat? *Chuckles*"
 
 # game/v12/scene36.rpy:61
 translate francais v12_lindsey_lobby_202b72ba:
 
     # li "No, haha... I just don't wanna go by myself."
-    li ""
+    li "No, haha... I just don't wanna go by myself."
 
 # game/v12/scene36.rpy:66
 translate francais v12_lindsey_lobby_6d31e19e:
 
     # u "*Sighs* Alright, let's go."
-    u ""
+    u "*Sighs* Alright, let's go."
 
 # game/v12/scene36.rpy:81
 translate francais v12_lindsey_lobby_8eae845f:
 
     # li "Oh! You won't believe what I saw..."
-    li ""
+    li "Oh! You won't believe what I saw..."
 
 # game/v12/scene36.rpy:86
 translate francais v12_lindsey_lobby_ef2f1671:
 
     # u "What?"
-    u ""
+    u "What?"
 
 # game/v12/scene36.rpy:91
 translate francais v12_lindsey_lobby_3aba6a45:
 
     # li "Well, I won't say what I saw... but, what I think I saw."
-    li ""
+    li "Well, I won't say what I saw... but, what I think I saw."
 
 # game/v12/scene36.rpy:96
 translate francais v12_lindsey_lobby_ca73a73f:
 
     # u "What do you think you saw?"
-    u ""
+    u "What do you think you saw?"
 
 # game/v12/scene36.rpy:101
 translate francais v12_lindsey_lobby_9f3e8541:
 
     # li "I'm pretty sure I saw Charli with Riley's wallet..."
-    li ""
+    li "I'm pretty sure I saw Charli with Riley's wallet..."
 
 # game/v12/scene36.rpy:106
 translate francais v12_lindsey_lobby_076e137b:
 
     # u "How do you know it was hers?"
-    u ""
+    u "How do you know it was hers?"
 
 # game/v12/scene36.rpy:111
 translate francais v12_lindsey_lobby_c4a5a5db:
 
     # li "Well... We went for coffee a long time ago and she paid. So I know it was the same kind of wallet, but I don't wanna assume he stole it."
-    li ""
+    li "Well... We went for coffee a long time ago and she paid. So I know it was the same kind of wallet, but I don't wanna assume he stole it."
 
 # game/v12/scene36.rpy:116
 translate francais v12_lindsey_lobby_5d997d61:
 
     # li "Even though it was the exact same wallet she has, I mean... With Charli being you know, gay, I thought it might be possible that he just has the same one."
-    li ""
+    li "Even though it was the exact same wallet she has, I mean... With Charli being you know, gay, I thought it might be possible that he just has the same one."
 
 # game/v12/scene36.rpy:121
 translate francais v12_lindsey_lobby_c1b40249:
 
     # u "She has her wallet now, but... Something is missing from it and she's been blaming me for taking it, even though I told her a thousand times it wasn't me."
-    u ""
+    u "She has her wallet now, but... Something is missing from it and she's been blaming me for taking it, even though I told her a thousand times it wasn't me."
 
 # game/v12/scene36.rpy:126
 translate francais v12_lindsey_lobby_48700b28:
 
     # li "Oh, well... Maybe Charli took it? That'd be so horrible if he did... I don't think I could look at him the same."
-    li ""
+    li "Oh, well... Maybe Charli took it? That'd be so horrible if he did... I don't think I could look at him the same."
 
 # game/v12/scene36.rpy:131
 translate francais v12_lindsey_lobby_a5e83433:
 
     # u "You'd look at him exactly how I look at him now."
-    u ""
+    u "You'd look at him exactly how I look at him now."
 
 # game/v12/scene36.rpy:136
 translate francais v12_lindsey_lobby_5e55939c:
 
     # li "*Chuckles* You're so mean."
-    li ""
+    li "*Chuckles* You're so mean."
 
 # game/v12/scene36.rpy:141
 translate francais v12_lindsey_lobby_ec061c79:
 
     # u "I'm so honest."
-    u ""
+    u "I'm so honest."
 
 # game/v12/scene36.rpy:151
 translate francais v12_lindsey_lobby_f11e72f1:
 
     # li "Excuse me, but where is the breakfast served?"
-    li ""
+    li "Excuse me, but where is the breakfast served?"
 
 # game/v12/scene36.rpy:156
 translate francais v12_lindsey_lobby_e6face5e:
 
     # bartender "I'm sorry Madam, but breakfast is closed."
-    bartender ""
+    bartender "I'm sorry Madam, but breakfast is closed."
 
 # game/v12/scene36.rpy:161
 translate francais v12_lindsey_lobby_9279872f:
 
     # li "*Sighs* Really? Dang, I really thought this would be the time for it to be open."
-    li ""
+    li "*Sighs* Really? Dang, I really thought this would be the time for it to be open."
 
 # game/v12/scene36.rpy:166
 translate francais v12_lindsey_lobby_affcf120:
 
     # bartender "Haha, I just like to start the day with a bit of laughter..."
-    bartender ""
+    bartender "Haha, I just like to start the day with a bit of laughter..."
 
 # game/v12/scene36.rpy:171
 translate francais v12_lindsey_lobby_f7506b62:
 
     # bartender "Breakfast will be served right over there, just take a seat and I'll bring you two some plates."
-    bartender ""
+    bartender "Breakfast will be served right over there, just take a seat and I'll bring you two some plates."
 
 # game/v12/scene36.rpy:176
 translate francais v12_lindsey_lobby_3c3e8b03:
 
     # li "Oh. Haha, thank you so much."
-    li ""
+    li "Oh. Haha, thank you so much."
 
 # game/v12/scene36.rpy:189
 translate francais v12_lindsey_lobby_40146bc7:
 
     # li "*Sighs* One more stop and then we're headed back home."
-    li ""
+    li "*Sighs* One more stop and then we're headed back home."
 
 # game/v12/scene36.rpy:194
 translate francais v12_lindsey_lobby_90b7b465:
 
     # u "You seem excited to go back."
-    u ""
+    u "You seem excited to go back."
 
 # game/v12/scene36.rpy:199
 translate francais v12_lindsey_lobby_220e48c6:
 
     # li "Honestly, I am. I was really nervous about dealing with Chloe, but the other girls have made me feel very comfortable about my decision."
-    li ""
+    li "Honestly, I am. I was really nervous about dealing with Chloe, but the other girls have made me feel very comfortable about my decision."
 
 # game/v12/scene36.rpy:204
 translate francais v12_lindsey_lobby_f1c6d628:
 
     # u "How so?"
-    u ""
+    u "How so?"
 
 # game/v12/scene36.rpy:209
 translate francais v12_lindsey_lobby_e79ebefc:
 
     # li "They have the same complaints I have. Most of us girls seem to be on the same page that Chloe is the problem."
-    li ""
+    li "They have the same complaints I have. Most of us girls seem to be on the same page that Chloe is the problem."
 
 # game/v12/scene36.rpy:214
 translate francais v12_lindsey_lobby_51cbab07:
 
     # u "Well, you know I don't get in the middle of all that, but I'm glad the sorority is starting to have a single vision."
-    u ""
+    u "Well, you know I don't get in the middle of all that, but I'm glad the sorority is starting to have a single vision."
 
 # game/v12/scene36.rpy:219
 translate francais v12_lindsey_lobby_9401dfe1:
 
     # u "I'll be happy to see the result of all this. Good or bad, it'll be entertaining. *Chuckles*"
-    u ""
+    u "I'll be happy to see the result of all this. Good or bad, it'll be entertaining. *Chuckles*"
 
 # game/v12/scene36.rpy:224
 translate francais v12_lindsey_lobby_45a5a17e:
 
     # li "You and Amber both say a lot of the same stuff... *Chuckles*"
-    li ""
+    li "You and Amber both say a lot of the same stuff... *Chuckles*"
 
 # game/v12/scene36.rpy:229
 translate francais v12_lindsey_lobby_f6c1bdde:
 
     # u "Ha, really? What do you mean?"
-    u ""
+    u "Ha, really? What do you mean?"
 
 # game/v12/scene36.rpy:234
 translate francais v12_lindsey_lobby_482ffcaf:
 
     # li "You guys just say some similar stuff sometimes, haha."
-    li ""
+    li "You guys just say some similar stuff sometimes, haha."
 
 # game/v12/scene36.rpy:239
 translate francais v12_lindsey_lobby_42260fc3:
 
     # u "Nah, she just says stuff like me. I'm the original. *Chuckles*"
-    u ""
+    u "Nah, she just says stuff like me. I'm the original. *Chuckles*"
 
 # game/v12/scene36.rpy:244
 translate francais v12_lindsey_lobby_5ba300cb:
 
     # li "Oh, yes. Of course, my bad. *Chuckles*"
-    li ""
+    li "Oh, yes. Of course, my bad. *Chuckles*"
 
 # game/v12/scene36.rpy:249
 translate francais v12_lindsey_lobby_065a05b4:
 
     # bartender "Please, enjoy."
-    bartender ""
+    bartender "Please, enjoy."
 
 # game/v12/scene36.rpy:254
 translate francais v12_lindsey_lobby_e7ae3a38:
 
     # li "Thank you!"
-    li ""
+    li "Thank you!"
 
 # game/v12/scene36.rpy:259
 translate francais v12_lindsey_lobby_ccd53b23:
 
     # u "Thank you."
-    u ""
+    u "Thank you."
 
 # game/v12/scene36.rpy:264
 translate francais v12_lindsey_lobby_e069ba7e:
 
     # bartender "My pleasure."
-    bartender ""
+    bartender "My pleasure."
 
 # game/v12/scene36.rpy:269
 translate francais v12_lindsey_lobby_e66012a8:
 
     # li "Dig in, [name]."
-    li ""
+    li "Dig in, [name]."
 
 # game/v12/scene36.rpy:274
 translate francais v12_lindsey_lobby_094d7f63:
 
     # u "No problem with that..."
-    u ""
+    u "No problem with that..."
 
 # game/v12/scene36.rpy:289
 translate francais v12_lindsey_lobby_9a070eb3:
 
     # li "Yummy! Wayyy better than American hotel food. *Chuckles* I knew it was worth trying out."
-    li ""
+    li "Yummy! Wayyy better than American hotel food. *Chuckles* I knew it was worth trying out."
 
 # game/v12/scene36.rpy:294
 translate francais v12_lindsey_lobby_4a4237d1:
 
     # u "It was preee-tttty good."
-    u ""
+    u "It was preee-tttty good."
 
 # game/v12/scene36.rpy:299
 translate francais v12_lindsey_lobby_c59a8542:
 
     # li "Alright, I'm gonna go get Nora up. She has to try this food before they close. Thanks for eating with me."
-    li ""
+    li "Alright, I'm gonna go get Nora up. She has to try this food before they close. Thanks for eating with me."
 
 # game/v12/scene36.rpy:304
 translate francais v12_lindsey_lobby_e2675108:
 
     # u "Of course, thanks for getting me up."
-    u ""
+    u "Of course, thanks for getting me up."
 
 # game/v12/scene36.rpy:309
 translate francais v12_lindsey_lobby_305d3cb0:
 
     # li "Haha, no problem."
-    li ""
+    li "Haha, no problem."
 
 # game/v12/scene36.rpy:326
 translate francais v12s36_riley_text_3faef724:
 
     # u "(I should probably reply.)"
-    u ""
+    u "(I should probably reply.)"
 

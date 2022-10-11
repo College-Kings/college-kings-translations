@@ -1,44 +1,40 @@
-﻿# TODO: Translation updated at 2022-08-22 08:59
+﻿# TODO: Translation updated at 2022-10-11 06:39
 
 translate francais strings:
 
     # game/main_menu/path_builder/path_builder_setup.rpy:5
     old "Wolves"
-    new ""
+    new "Wolves"
 
     # game/main_menu/path_builder/path_builder_setup.rpy:10
     old "Apes"
-    new ""
+    new "Apes"
 
     # game/main_menu/path_builder/path_builder_setup.rpy:16
     old "Loyal"
-    new ""
+    new "Loyal"
 
     # game/main_menu/path_builder/path_builder_setup.rpy:26
     old "Popular"
-    new ""
+    new "Popular"
 
     # game/main_menu/path_builder/path_builder_setup.rpy:36
     old "Confident"
-    new ""
+    new "Confident"
 
     # game/main_menu/path_builder/path_builder_setup.rpy:59
     old "Loyal/Confident"
-    new ""
+    new "Loyal/Confident"
 
     # game/main_menu/path_builder/path_builder_setup.rpy:129
     old "Act 1 Start"
-    new ""
+    new "Act 1 Start"
 
     # game/main_menu/path_builder/path_builder_setup.rpy:137
     old "Act 2 Start"
-    new ""
+    new "Act 2 Start"
 
     # game/main_menu/path_builder/path_builder_setup.rpy:145
     old "Act 3 Start"
-    new ""
-
-    # game/main_menu/path_builder/path_builder_setup.rpy:174
-    old "Emily"
-    new ""
+    new "Act 3 Start"
 

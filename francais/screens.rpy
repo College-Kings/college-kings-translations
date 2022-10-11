@@ -1,80 +1,80 @@
-﻿# TODO: Translation updated at 2022-08-22 08:06
+﻿# TODO: Translation updated at 2022-10-11 06:39
 
 translate francais strings:
 
     # game/screens.rpy:462
     old "History"
-    new ""
+    new "History"
 
     # game/screens.rpy:516
     old "Return"
-    new ""
+    new "Return"
 
     # game/screens.rpy:518
     old "Save"
-    new ""
+    new "Save"
 
     # game/screens.rpy:519
     old "Load"
-    new ""
+    new "Load"
 
     # game/screens.rpy:523
     old "Settings"
-    new ""
+    new "Settings"
 
     # game/screens.rpy:525
     old "Menu"
-    new ""
+    new "Menu"
 
     # game/screens.rpy:527
     old "Quit"
-    new ""
+    new "Quit"
 
     # game/screens.rpy:640
     old "PAGE {}"
-    new ""
+    new "PAGE {}"
 
     # game/screens.rpy:640
     old "AUTOMATIC SAVES"
-    new ""
+    new "AUTOMATIC SAVES"
 
     # game/screens.rpy:640
     old "QUICK SAVES"
-    new ""
+    new "QUICK SAVES"
 
     # game/screens.rpy:700
     old "{#file_time}%A, %B %d %Y, %H:%M"
-    new ""
+    new "{#file_time}%A, %B %d %Y, %H:%M"
 
     # game/screens.rpy:700
     old "empty slot"
-    new ""
+    new "empty slot"
 
     # game/screens.rpy:721
     old "{#auto_page}A"
-    new ""
+    new "{#auto_page}A"
 
     # game/screens.rpy:724
     old "{#quick_page}Q"
-    new ""
+    new "{#quick_page}Q"
 
-    # game/screens.rpy:1093
+    # game/screens.rpy:1094
     old "The dialogue history is empty."
-    new ""
+    new "The dialogue history is empty."
 
-    # game/screens.rpy:1205
+    # game/screens.rpy:1211
     old "Skipping"
-    new ""
+    new "Skipping"
 
-    # game/screens.rpy:1306
+    # game/screens.rpy:1312
     old "Back"
-    new ""
+    new "Back"
 
-    # game/screens.rpy:1307
+    # game/screens.rpy:1313
     old "Skip"
-    new ""
+    new "Skip"
 
-    # game/screens.rpy:1308
+    # game/screens.rpy:1314
     old "Auto"
-    new ""
+    new "Auto"
 

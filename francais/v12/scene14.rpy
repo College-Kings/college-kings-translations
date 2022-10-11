@@ -1,638 +1,638 @@
-﻿# TODO: Translation updated at 2022-08-22 08:06
+﻿# TODO: Translation updated at 2022-10-11 06:39
 
 # game/v12/scene14.rpy:40
 translate francais v12_chloe_cafe_fb898b9c:
 
     # cl "This is such a nice place! I feel like I'm underdressed... *Laughs*"
-    cl ""
+    cl "This is such a nice place! I feel like I'm underdressed... *Laughs*"
 
 # game/v12/scene14.rpy:46
 translate francais v12_chloe_cafe_4ec58afd:
 
     # u "Are you kidding? You look perfect. Like always."
-    u ""
+    u "Are you kidding? You look perfect. Like always."
 
 # game/v12/scene14.rpy:51
 translate francais v12_chloe_cafe_e6726207:
 
     # cl "Thank you, Mr. Charming... *Chuckles*"
-    cl ""
+    cl "Thank you, Mr. Charming... *Chuckles*"
 
 # game/v12/scene14.rpy:56
 translate francais v12_chloe_cafe_844727fa:
 
     # cl "But really... I mean look at this place."
-    cl ""
+    cl "But really... I mean look at this place."
 
 # game/v12/scene14.rpy:61
 translate francais v12_chloe_cafe_cda78fcf:
 
     # u "Haha, I know what you mean... It is fancy here. A very \"French movie\" type of place."
-    u ""
+    u "Haha, I know what you mean... It is fancy here. A very \"French movie\" type of place."
 
 # game/v12/scene14.rpy:66
 translate francais v12_chloe_cafe_d845c796:
 
     # cl "*Chuckles* What does that even mean?"
-    cl ""
+    cl "*Chuckles* What does that even mean?"
 
 # game/v12/scene14.rpy:71
 translate francais v12_chloe_cafe_ca804798:
 
     # u "I have no idea. *Chuckles*"
-    u ""
+    u "I have no idea. *Chuckles*"
 
 # game/v12/scene14.rpy:76
 translate francais v12_chloe_cafe_0bbaa8c4:
 
     # cl "Haha... Hmm, Do you know what you want to eat?"
-    cl ""
+    cl "Haha... Hmm, Do you know what you want to eat?"
 
 # game/v12/scene14.rpy:81
 translate francais v12_chloe_cafe_0a9ea506:
 
     # u "I'm in another country and have no idea what I'm reading half the time. Probably best to just tell them to surprise us. *Laughs*"
-    u ""
+    u "I'm in another country and have no idea what I'm reading half the time. Probably best to just tell them to surprise us. *Laughs*"
 
 # game/v12/scene14.rpy:86
 translate francais v12_chloe_cafe_1eba4b42:
 
     # cl "I'm sure they can speak English, this is a tourist spot, right?"
-    cl ""
+    cl "I'm sure they can speak English, this is a tourist spot, right?"
 
 # game/v12/scene14.rpy:91
 translate francais v12_chloe_cafe_f0576b40:
 
     # u "Guess we'll find out because here comes the waiter."
-    u ""
+    u "Guess we'll find out because here comes the waiter."
 
 # game/v12/scene14.rpy:101
 translate francais v12_chloe_cafe_cf0fbdf4:
 
     # fwait "Bonjour, comment allez-vous?"
-    fwait ""
+    fwait "Bonjour, comment allez-vous?"
 
 # game/v12/scene14.rpy:106
 translate francais v12_chloe_cafe_9ec4c9cb:
 
     # u "Uhhh..."
-    u ""
+    u "Uhhh..."
 
 # game/v12/scene14.rpy:111
 translate francais v12_chloe_cafe_3cf961a1:
 
     # cl "V-Very good. We um-"
-    cl ""
+    cl "V-Very good. We um-"
 
 # game/v12/scene14.rpy:116
 translate francais v12_chloe_cafe_4f925068:
 
     # fwait "Parles-tu français?"
-    fwait ""
+    fwait "Parles-tu français?"
 
 # game/v12/scene14.rpy:121
 translate francais v12_chloe_cafe_3e21e351:
 
     # cl "Un peu."
-    cl ""
+    cl "Un peu."
 
 # game/v12/scene14.rpy:126
 translate francais v12_chloe_cafe_93512f79:
 
     # fwait "Oooo, très bien."
-    fwait ""
+    fwait "Oooo, très bien."
 
 # game/v12/scene14.rpy:131
 translate francais v12_chloe_cafe_a4016fc0:
 
     # u "The fu- You never told me you spoke French..."
-    u ""
+    u "The fu- You never told me you spoke French..."
 
 # game/v12/scene14.rpy:136
 translate francais v12_chloe_cafe_9240e5e6:
 
     # cl "I don't speak French... I just remember a few things from my language class."
-    cl ""
+    cl "I don't speak French... I just remember a few things from my language class."
 
 # game/v12/scene14.rpy:141
 translate francais v12_chloe_cafe_0446e6ff:
 
     # fwait "Que puis-je faire pour vous?"
-    fwait ""
+    fwait "Que puis-je faire pour vous?"
 
 # game/v12/scene14.rpy:146
 translate francais v12_chloe_cafe_7a6ac15d:
 
     # cl "Umm..."
-    cl ""
+    cl "Umm..."
 
 # game/v12/scene14.rpy:151
 translate francais v12_chloe_cafe_d5d07445:
 
     # u "And... We found the extent of your French skills. *Laughs*"
-    u ""
+    u "And... We found the extent of your French skills. *Laughs*"
 
 # game/v12/scene14.rpy:156
 translate francais v12_chloe_cafe_b554b390:
 
     # cl "I'm sorry, but do you have a waiter that speaks English?"
-    cl ""
+    cl "I'm sorry, but do you have a waiter that speaks English?"
 
 # game/v12/scene14.rpy:161
 translate francais v12_chloe_cafe_ee99f703:
 
     # fwait "I can go try to find one."
-    fwait ""
+    fwait "I can go try to find one."
 
 # game/v12/scene14.rpy:176
 translate francais v12_chloe_cafe_56603eeb:
 
     # fwait "*Laughs* Anytime I spot tourists, I like to see just how much I can mess with them."
-    fwait ""
+    fwait "*Laughs* Anytime I spot tourists, I like to see just how much I can mess with them."
 
 # game/v12/scene14.rpy:181
 translate francais v12_chloe_cafe_5fb8aa2d:
 
     # cl "*Chuckles* Well it was very convincing, I'm so sorry for assuming."
-    cl ""
+    cl "*Chuckles* Well it was very convincing, I'm so sorry for assuming."
 
 # game/v12/scene14.rpy:186
 translate francais v12_chloe_cafe_509f2f8b:
 
     # fwait "Haha, no it's fine. I'd assume you only spoke English."
-    fwait ""
+    fwait "Haha, no it's fine. I'd assume you only spoke English."
 
 # game/v12/scene14.rpy:191
 translate francais v12_chloe_cafe_33c2c8c6:
 
     # cl "And you'd be right. *Chuckles*"
-    cl ""
+    cl "And you'd be right. *Chuckles*"
 
 # game/v12/scene14.rpy:196
 translate francais v12_chloe_cafe_5423ff0c:
 
     # fwait "So, what can I get for the gorgeous couple?"
-    fwait ""
+    fwait "So, what can I get for the gorgeous couple?"
 
 # game/v12/scene14.rpy:202
 translate francais v12_chloe_cafe_4fa8c52c:
 
     # u "Haha, why are you smiling?"
-    u ""
+    u "Haha, why are you smiling?"
 
 # game/v12/scene14.rpy:207
 translate francais v12_chloe_cafe_9268d816:
 
     # fwait "Was it something I said?"
-    fwait ""
+    fwait "Was it something I said?"
 
 # game/v12/scene14.rpy:212
 translate francais v12_chloe_cafe_732dddbb:
 
     # cl "It was actually, but not in a bad way. My handsome boyfriend here actually asked me out pretty recently and well... This is our first time out as an official couple. *Chuckles*"
-    cl ""
+    cl "It was actually, but not in a bad way. My handsome boyfriend here actually asked me out pretty recently and well... This is our first time out as an official couple. *Chuckles*"
 
 # game/v12/scene14.rpy:217
 translate francais v12_chloe_cafe_45ce2aef:
 
     # fwait "Oh wow! Congrats... That's exciting stuff."
-    fwait ""
+    fwait "Oh wow! Congrats... That's exciting stuff."
 
 # game/v12/scene14.rpy:222
 translate francais v12_chloe_cafe_2b9128b2:
 
     # u "\"Handsome boyfriend\". Hmm... I like the sound of that."
-    u ""
+    u "\"Handsome boyfriend\". Hmm... I like the sound of that."
 
 # game/v12/scene14.rpy:227
 translate francais v12_chloe_cafe_108b353e:
 
     # cl "*Chuckles*"
-    cl ""
+    cl "*Chuckles*"
 
 # game/v12/scene14.rpy:232
 translate francais v12_chloe_cafe_34d668b1:
 
     # u "Alright, now... Since my amazing girlfriend's French is so bad-"
-    u ""
+    u "Alright, now... Since my amazing girlfriend's French is so bad-"
 
 # game/v12/scene14.rpy:238
 translate francais v12_chloe_cafe_fa8bacce:
 
     # cl "Haha, he wishes we were a couple."
-    cl ""
+    cl "Haha, he wishes we were a couple."
 
 # game/v12/scene14.rpy:249
 translate francais v12_chloe_cafe_a7f0cfb4:
 
     # u "Mmm, yeah... It'd be nice. *Chuckles*"
-    u ""
+    u "Mmm, yeah... It'd be nice. *Chuckles*"
 
 # game/v12/scene14.rpy:256
 translate francais v12_chloe_cafe_7bbc5353:
 
     # u "I'd rather date a fishing pole."
-    u ""
+    u "I'd rather date a fishing pole."
 
 # game/v12/scene14.rpy:261
 translate francais v12_chloe_cafe_add8610a:
 
     # cl "A fishing pole? What on earth made you say that? *Chuckles*"
-    cl ""
+    cl "A fishing pole? What on earth made you say that? *Chuckles*"
 
 # game/v12/scene14.rpy:266
 translate francais v12_chloe_cafe_e60b2bc5:
 
     # u "It was the first thing that came to mind. *Chuckles*"
-    u ""
+    u "It was the first thing that came to mind. *Chuckles*"
 
 # game/v12/scene14.rpy:271
 translate francais v12_chloe_cafe_8ec6fc24:
 
     # u "But, since my friend's French is so bad-"
-    u ""
+    u "But, since my friend's French is so bad-"
 
 # game/v12/scene14.rpy:276
 translate francais v12_chloe_cafe_2bb60d86:
 
     # cl "Hey! *Chuckles*"
-    cl ""
+    cl "Hey! *Chuckles*"
 
 # game/v12/scene14.rpy:281
 translate francais v12_chloe_cafe_b5340dd5:
 
     # u "We had planned to just have you surprise us with whatever you thought we'd enjoy. As hungry as I am, I'm not very picky at the moment."
-    u ""
+    u "We had planned to just have you surprise us with whatever you thought we'd enjoy. As hungry as I am, I'm not very picky at the moment."
 
 # game/v12/scene14.rpy:286
 translate francais v12_chloe_cafe_0704f72d:
 
     # fwait "I think I know exactly what to get for you two. If you're sure there's nothing specific you'd like, I can get it going for you guys."
-    fwait ""
+    fwait "I think I know exactly what to get for you two. If you're sure there's nothing specific you'd like, I can get it going for you guys."
 
 # game/v12/scene14.rpy:291
 translate francais v12_chloe_cafe_db654624:
 
     # cl "Nope, that'd be great. Thank you."
-    cl ""
+    cl "Nope, that'd be great. Thank you."
 
 # game/v12/scene14.rpy:301
 translate francais v12_chloe_cafe_5f176595:
 
     # cl "She was really sweet."
-    cl ""
+    cl "She was really sweet."
 
 # game/v12/scene14.rpy:306
 translate francais v12_chloe_cafe_ba4913eb:
 
     # u "Yeah, she was cool."
-    u ""
+    u "Yeah, she was cool."
 
 # game/v12/scene14.rpy:311
 translate francais v12_chloe_cafe_44055d8c:
 
     # cl "*Sighs* One more stop before we get back."
-    cl ""
+    cl "*Sighs* One more stop before we get back."
 
 # game/v12/scene14.rpy:316
 translate francais v12_chloe_cafe_cf7d6a1d:
 
     # u "What's making you think about going back all of a sudden?"
-    u ""
+    u "What's making you think about going back all of a sudden?"
 
 # game/v12/scene14.rpy:321
 translate francais v12_chloe_cafe_ac99b565:
 
     # cl "Well, after the stuff that went down on the carriage rides there's been something on my mind."
-    cl ""
+    cl "Well, after the stuff that went down on the carriage rides there's been something on my mind."
 
 # game/v12/scene14.rpy:326
 translate francais v12_chloe_cafe_6a8b5460:
 
     # u "And what's that?"
-    u ""
+    u "And what's that?"
 
 # game/v12/scene14.rpy:331
 translate francais v12_chloe_cafe_896927df:
 
     # cl "I... I think Lindsey's planning something. I'm not sure what, but I know it's something."
-    cl ""
+    cl "I... I think Lindsey's planning something. I'm not sure what, but I know it's something."
 
 # game/v12/scene14.rpy:336
 translate francais v12_chloe_cafe_30fff49b:
 
     # cl "One of the girls video called me the other day and said that Lindsey had been in contact with nearly everyone about something important, but she wouldn't say what."
-    cl ""
+    cl "One of the girls video called me the other day and said that Lindsey had been in contact with nearly everyone about something important, but she wouldn't say what."
 
 # game/v12/scene14.rpy:341
 translate francais v12_chloe_cafe_ce8c870c:
 
     # cl "I know it can't be the names thing she brought up because I asked if that's what it was, and she said no."
-    cl ""
+    cl "I know it can't be the names thing she brought up because I asked if that's what it was, and she said no."
 
 # game/v12/scene14.rpy:346
 translate francais v12_chloe_cafe_5b106e35:
 
     # u "Hmm... Did she give you any clues at all?"
-    u ""
+    u "Hmm... Did she give you any clues at all?"
 
 # game/v12/scene14.rpy:351
 translate francais v12_chloe_cafe_6c9dbea7:
 
     # cl "None, but it bothers me because Lindsey hasn't said anything to me about whatever it is that she's planning."
-    cl ""
+    cl "None, but it bothers me because Lindsey hasn't said anything to me about whatever it is that she's planning."
 
 # game/v12/scene14.rpy:356
 translate francais v12_chloe_cafe_f3012fa2:
 
     # cl "Lindsey is a sweet girl, so I don't want to assume it's anything bad, but if it wasn't bad, I don't see why she wouldn't tell me."
-    cl ""
+    cl "Lindsey is a sweet girl, so I don't want to assume it's anything bad, but if it wasn't bad, I don't see why she wouldn't tell me."
 
 # game/v12/scene14.rpy:361
 translate francais v12_chloe_cafe_17214426:
 
     # u "What bad things could Lindsey do?"
-    u ""
+    u "What bad things could Lindsey do?"
 
 # game/v12/scene14.rpy:366
 translate francais v12_chloe_cafe_e8f40672:
 
     # cl "Well, that's what I've been thinking about. The worst thing she could be doing is getting girls to leave the sorority, and the least worst thing she could be doing is setting up some dumb prank."
-    cl ""
+    cl "Well, that's what I've been thinking about. The worst thing she could be doing is getting girls to leave the sorority, and the least worst thing she could be doing is setting up some dumb prank."
 
 # game/v12/scene14.rpy:371
 translate francais v12_chloe_cafe_fb5d5a75:
 
     # cl "There's a lot of things that she could be doing that range in between those two things."
-    cl ""
+    cl "There's a lot of things that she could be doing that range in between those two things."
 
 # game/v12/scene14.rpy:381
 translate francais v12_chloe_cafe_4f137c11:
 
     # u "(I can't keep this from her.) *Sighs* There's something I need to tell you."
-    u ""
+    u "(I can't keep this from her.) *Sighs* There's something I need to tell you."
 
 # game/v12/scene14.rpy:386
 translate francais v12_chloe_cafe_e537814b:
 
     # cl "What?"
-    cl ""
+    cl "What?"
 
 # game/v12/scene14.rpy:391
 translate francais v12_chloe_cafe_9c7ca95c:
 
     # u "Don't quote me, please. And I don't want you doing anything rash. Can you promise me you won't freak out?"
-    u ""
+    u "Don't quote me, please. And I don't want you doing anything rash. Can you promise me you won't freak out?"
 
 # game/v12/scene14.rpy:396
 translate francais v12_chloe_cafe_8faf8701:
 
     # cl "You're making me nervous, [name]."
-    cl ""
+    cl "You're making me nervous, [name]."
 
 # game/v12/scene14.rpy:401
 translate francais v12_chloe_cafe_3173a598:
 
     # u "Just promise me you won't freak out."
-    u ""
+    u "Just promise me you won't freak out."
 
 # game/v12/scene14.rpy:406
 translate francais v12_chloe_cafe_2140a032:
 
     # cl "For fucks sake... *Sighs* Fine, I won't freak out. Happy?"
-    cl ""
+    cl "For fucks sake... *Sighs* Fine, I won't freak out. Happy?"
 
 # game/v12/scene14.rpy:414
 translate francais v12_chloe_cafe_e43d0588:
 
     # u "Good. Now, again, don't quote me. I'm not sure of all the details and I'm not even positive if this is truly her plan, but I heard that Lindsey's been considering running for President of the Chicks, against you."
-    u ""
+    u "Good. Now, again, don't quote me. I'm not sure of all the details and I'm not even positive if this is truly her plan, but I heard that Lindsey's been considering running for President of the Chicks, against you."
 
 # game/v12/scene14.rpy:419
 translate francais v12_chloe_cafe_80f8da7e:
 
     # cl "WHY THE FUCK WOULD SHE DO THAT!?"
-    cl ""
+    cl "WHY THE FUCK WOULD SHE DO THAT!?"
 
 # game/v12/scene14.rpy:424
 translate francais v12_chloe_cafe_9ae6b828:
 
     # u "Calm down, please... You said you wouldn't freak out."
-    u ""
+    u "Calm down, please... You said you wouldn't freak out."
 
 # game/v12/scene14.rpy:429
 translate francais v12_chloe_cafe_e216da2e:
 
     # cl "*Deep breath* Why, the fuck, would she do that?"
-    cl ""
+    cl "*Deep breath* Why, the fuck, would she do that?"
 
 # game/v12/scene14.rpy:434
 translate francais v12_chloe_cafe_56a4105b:
 
     # u "Something about the Chicks needing major changes in order to save the sorority from it's downhill spiral... And again, don't quote me."
-    u ""
+    u "Something about the Chicks needing major changes in order to save the sorority from it's downhill spiral... And again, don't quote me."
 
 # game/v12/scene14.rpy:439
 translate francais v12_chloe_cafe_7cfa3e42:
 
     # cl "Wow... I really can't believe she'd actually do that."
-    cl ""
+    cl "Wow... I really can't believe she'd actually do that."
 
 # game/v12/scene14.rpy:440
 translate francais v12_chloe_cafe_01b9e075:
 
     # cl "You know what, I'm not gonna jump to any conclusions. If she really did plan on doing something like that she'd have to be a lunatic."
-    cl ""
+    cl "You know what, I'm not gonna jump to any conclusions. If she really did plan on doing something like that she'd have to be a lunatic."
 
 # game/v12/scene14.rpy:448
 translate francais v12_chloe_cafe_28eec2e1:
 
     # cl "Rather than seeing how she can help she'd rather just take over? No way. This can't be real."
-    cl ""
+    cl "Rather than seeing how she can help she'd rather just take over? No way. This can't be real."
 
 # game/v12/scene14.rpy:451
 translate francais v12_chloe_cafe_afdc6188:
 
     # u "(No way I'm telling her. She's not hearing that news from me.)"
-    u ""
+    u "(No way I'm telling her. She's not hearing that news from me.)"
 
 # game/v12/scene14.rpy:456
 translate francais v12_chloe_cafe_826aa06b:
 
     # u "I don't want to start making assumptions about what it could or couldn't be, so just try to think positive. Maybe she is doing some prank, haha..."
-    u ""
+    u "I don't want to start making assumptions about what it could or couldn't be, so just try to think positive. Maybe she is doing some prank, haha..."
 
 # game/v12/scene14.rpy:461
 translate francais v12_chloe_cafe_2f50a440:
 
     # cl "Well, if I don't figure it out soon I'm gonna end up going crazy. I'll talk to Aubrey first and see if she's heard anything, and I guess if she hasn't then I'll just go to Lindsey myself."
-    cl ""
+    cl "Well, if I don't figure it out soon I'm gonna end up going crazy. I'll talk to Aubrey first and see if she's heard anything, and I guess if she hasn't then I'll just go to Lindsey myself."
 
 # game/v12/scene14.rpy:466
 translate francais v12_chloe_cafe_de968124:
 
     # u "(Okay, this is not going well.)"
-    u ""
+    u "(Okay, this is not going well.)"
 
 # game/v12/scene14.rpy:468
 translate francais v12_chloe_cafe_dce1ef96:
 
     # u "Why not just enjoy Europe like we discussed before?"
-    u ""
+    u "Why not just enjoy Europe like we discussed before?"
 
 # game/v12/scene14.rpy:473
 translate francais v12_chloe_cafe_e9b2d351:
 
     # cl "It's kinda hard to relax with something like this lingering over my head."
-    cl ""
+    cl "It's kinda hard to relax with something like this lingering over my head."
 
 # game/v12/scene14.rpy:478
 translate francais v12_chloe_cafe_77f71603:
 
     # u "Yeah I know, but look at what's right in front of you. A handsome man treating you to breakfast... Is that not a good enough distraction? *Chuckles*"
-    u ""
+    u "Yeah I know, but look at what's right in front of you. A handsome man treating you to breakfast... Is that not a good enough distraction? *Chuckles*"
 
 # game/v12/scene14.rpy:488
 translate francais v12_chloe_cafe_c57c2001:
 
     # cl "For now."
-    cl ""
+    cl "For now."
 
 # game/v12/scene14.rpy:493
 translate francais v12_chloe_cafe_3fb609b6:
 
     # u "If I'm not good enough, the food can be plan B. Here it comes now."
-    u ""
+    u "If I'm not good enough, the food can be plan B. Here it comes now."
 
 # game/v12/scene14.rpy:503
 translate francais v12_chloe_cafe_85ce160a:
 
     # fwait "Alrighty, you two. Here you guys go. I hope you enjoy."
-    fwait ""
+    fwait "Alrighty, you two. Here you guys go. I hope you enjoy."
 
 # game/v12/scene14.rpy:508
 translate francais v12_chloe_cafe_aac0bbae:
 
     # cl "Thank you."
-    cl ""
+    cl "Thank you."
 
 # game/v12/scene14.rpy:533
 translate francais v12_chloe_cafe_3fbe5cc4:
 
     # u "Finished stuffing your face? *Chuckles*"
-    u ""
+    u "Finished stuffing your face? *Chuckles*"
 
 # game/v12/scene14.rpy:538
 translate francais v12_chloe_cafe_785520e6:
 
     # cl "Haha, I am. Are you? Seems like you enjoyed yourself."
-    cl ""
+    cl "Haha, I am. Are you? Seems like you enjoyed yourself."
 
 # game/v12/scene14.rpy:543
 translate francais v12_chloe_cafe_5b8a7bf0:
 
     # u "I could've enjoyed anything considering how hungry I was. *Chuckles*"
-    u ""
+    u "I could've enjoyed anything considering how hungry I was. *Chuckles*"
 
 # game/v12/scene14.rpy:548
 translate francais v12_chloe_cafe_298f7516:
 
     # cl "*Laughs* Alright... Ready to go?"
-    cl ""
+    cl "*Laughs* Alright... Ready to go?"
 
 # game/v12/scene14.rpy:553
 translate francais v12_chloe_cafe_b9563d83:
 
     # u "Yeah, let's go."
-    u ""
+    u "Yeah, let's go."
 
 # game/v12/scene14.rpy:558
 translate francais v12_chloe_cafe_940e672a:
 
     # cl "Okay."
-    cl ""
+    cl "Okay."
 
 # game/v12/scene14.rpy:563
 translate francais v12_chloe_cafe_b0c07d6c:
 
     # u "And hey, don't let any of that Lindsey stuff get to you."
-    u ""
+    u "And hey, don't let any of that Lindsey stuff get to you."
 
 # game/v12/scene14.rpy:568
 translate francais v12_chloe_cafe_dbc54b68:
 
     # cl "I know I shouldn't. I promise I won't go back and explode or anything. I'm gonna take some time to figure out what's going on."
-    cl ""
+    cl "I know I shouldn't. I promise I won't go back and explode or anything. I'm gonna take some time to figure out what's going on."
 
 # game/v12/scene14.rpy:573
 translate francais v12_chloe_cafe_bb98924d:
 
     # u "That's a good idea."
-    u ""
+    u "That's a good idea."
 
 # game/v12/scene14.rpy:580
 translate francais v12_chloe_cafe_12fa791e:
 
     # u "Sorry, let me check this real quick."
-    u ""
+    u "Sorry, let me check this real quick."
 
 # game/v12/scene14.rpy:596
 translate francais v12s14_PhoneContinueRiley_88d710ce:
 
     # u "(I should check my phone.)"
-    u ""
+    u "(I should check my phone.)"
 
 # game/v12/scene14.rpy:602
 translate francais v12s14_PhoneContinueRiley_dd8163f7:
 
     # u "(This isn't that far.)"
-    u ""
+    u "(This isn't that far.)"
 
 # game/v12/scene14.rpy:607
 translate francais v12s14_PhoneContinueRiley_c8c111d2:
 
     # u "Well, looks like I'm meeting Riley for our Mr. Lee hunt."
-    u ""
+    u "Well, looks like I'm meeting Riley for our Mr. Lee hunt."
 
 # game/v12/scene14.rpy:612
 translate francais v12s14_PhoneContinueRiley_14ebeeb5:
 
     # cl "A Mr. Lee... hunt? What is that?"
-    cl ""
+    cl "A Mr. Lee... hunt? What is that?"
 
 # game/v12/scene14.rpy:617
 translate francais v12s14_PhoneContinueRiley_2cb03bb3:
 
     # u "Some little treasure hunt he has us doing for him while we're in Europe."
-    u ""
+    u "Some little treasure hunt he has us doing for him while we're in Europe."
 
 # game/v12/scene14.rpy:622
 translate francais v12s14_PhoneContinueRiley_80c64b26:
 
     # cl "*Laughs*"
-    cl ""
+    cl "*Laughs*"
 
 # game/v12/scene14.rpy:627
 translate francais v12s14_PhoneContinueRiley_ef2f1671:
 
     # u "What?"
-    u ""
+    u "What?"
 
 # game/v12/scene14.rpy:632
 translate francais v12s14_PhoneContinueRiley_30f2a16b:
 
     # cl "Nothing, nothing... Enjoy. I'll catch you later."
-    cl ""
+    cl "Nothing, nothing... Enjoy. I'll catch you later."
 
 # game/v12/scene14.rpy:637
 translate francais v12s14_PhoneContinueRiley_b302c71a:
 
     # u "Alright, catch you later."
-    u ""
+    u "Alright, catch you later."
 
 translate francais strings:
 
     # game/v12/scene14.rpy:243
     old "It'd be nice"
-    new ""
+    new "It'd be nice"
 

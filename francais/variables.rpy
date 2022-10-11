@@ -1,48 +1,48 @@
-﻿# TODO: Translation updated at 2022-08-22 09:23
+﻿# TODO: Translation updated at 2022-10-11 06:39
 
 translate francais strings:
 
     # game/variables.rpy:50
     old "confident"
-    new ""
+    new "confident"
 
     # game/variables.rpy:51
     old "loyal"
-    new ""
+    new "loyal"
 
     # game/variables.rpy:51
     old "popular"
-    new ""
+    new "popular"
 
     # game/variables.rpy:79
     old "e"
-    new ""
+    new "e"
 
     # game/variables.rpy:85
     old "r"
-    new ""
+    new "r"
 
     # game/variables.rpy:95
     old "w"
-    new ""
+    new "w"
 
     # game/variables.rpy:144
     old "nobody"
-    new ""
+    new "nobody"
 
     # game/variables.rpy:155
     old "riley"
-    new ""
+    new "riley"
 
     # game/variables.rpy:158
     old "alone"
-    new ""
+    new "alone"
 
     # game/variables.rpy:182
     old "MC"
-    new ""
+    new "MC"
 
     # game/variables.rpy:189
     old "na"
-    new ""
+    new "na"
 

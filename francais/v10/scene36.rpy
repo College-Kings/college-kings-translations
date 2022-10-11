@@ -1,176 +1,176 @@
-﻿# TODO: Translation updated at 2022-08-22 08:06
+﻿# TODO: Translation updated at 2022-10-11 06:39
 
 # game/v10/scene36.rpy:6
 translate francais v10_emily_vs_aubrey_d3d835b7:
 
     # au "I know I'm hot, but c'mon, don't just stare at me all day."
-    au ""
+    au "I know I'm hot, but c'mon, don't just stare at me all day."
 
 # game/v10/scene36.rpy:13
 translate francais v10_emily_vs_aubrey_018cde62:
 
     # em "Haha!"
-    em ""
+    em "Haha!"
 
 # game/v10/scene36.rpy:17
 translate francais v10_emily_vs_aubrey_2b2b67d6:
 
     # au "Somebody's pretty strong."
-    au ""
+    au "Somebody's pretty strong."
 
 # game/v10/scene36.rpy:19
 translate francais v10_emily_vs_aubrey_5446aaac:
 
     # em "I tried to tell you."
-    em ""
+    em "I tried to tell you."
 
 # game/v10/scene36.rpy:21
 translate francais v10_emily_vs_aubrey_aa5150eb:
 
     # au "You look so angry, need a hug? *Chuckles*"
-    au ""
+    au "You look so angry, need a hug? *Chuckles*"
 
 # game/v10/scene36.rpy:23
 translate francais v10_emily_vs_aubrey_f31f72d7:
 
     # em "Huh? *Chuckles*"
-    em ""
+    em "Huh? *Chuckles*"
 
 # game/v10/scene36.rpy:28
 translate francais v10_emily_vs_aubrey_c5564c09:
 
     # au "Come here pretty girl."
-    au ""
+    au "Come here pretty girl."
 
 # game/v10/scene36.rpy:33
 translate francais v10_emily_vs_aubrey_63968ced:
 
     # au "*Scream* Ahh!"
-    au ""
+    au "*Scream* Ahh!"
 
 # game/v10/scene36.rpy:38
 translate francais v10_emily_vs_aubrey_2688190c:
 
     # em "*Grunts*"
-    em ""
+    em "*Grunts*"
 
 # game/v10/scene36.rpy:40
 translate francais v10_emily_vs_aubrey_d35bdfb5:
 
     # aa "I like where this is going!"
-    aa ""
+    aa "I like where this is going!"
 
 # game/v10/scene36.rpy:42
 translate francais v10_emily_vs_aubrey_567095ea:
 
     # aut "*Laughs*"
-    aut ""
+    aut "*Laughs*"
 
 # game/v10/scene36.rpy:44
 translate francais v10_emily_vs_aubrey_e8975422:
 
     # li "Let's go Aubrey!"
-    li ""
+    li "Let's go Aubrey!"
 
 # game/v10/scene36.rpy:49
 translate francais v10_emily_vs_aubrey_5318ca7c:
 
     # em "*Whisper* Now I have to beat you."
-    em ""
+    em "*Whisper* Now I have to beat you."
 
 # game/v10/scene36.rpy:54
 translate francais v10_emily_vs_aubrey_4f98961a:
 
     # ry "LET'S GO EMILY!"
-    ry ""
+    ry "LET'S GO EMILY!"
 
 # game/v10/scene36.rpy:59
 translate francais v10_emily_vs_aubrey_aa0910b4:
 
     # au "*Grunts*"
-    au ""
+    au "*Grunts*"
 
 # game/v10/scene36.rpy:64
 translate francais v10_emily_vs_aubrey_aa0910b4_1:
 
     # au "*Grunts*"
-    au ""
+    au "*Grunts*"
 
 # game/v10/scene36.rpy:68
 translate francais v10_emily_vs_aubrey_c5f11a9f:
 
     # em "You can give up anytime you want."
-    em ""
+    em "You can give up anytime you want."
 
 # game/v10/scene36.rpy:73
 translate francais v10_emily_vs_aubrey_d8c34d6e:
 
     # au "Oww, but I don't want to give up."
-    au ""
+    au "Oww, but I don't want to give up."
 
 # game/v10/scene36.rpy:78
 translate francais v10_emily_vs_aubrey_ccf130a2:
 
     # em "You sure?"
-    em ""
+    em "You sure?"
 
 # game/v10/scene36.rpy:83
 translate francais v10_emily_vs_aubrey_0dd10e5c:
 
     # au "OWWW, OKAY OKAY! I give up."
-    au ""
+    au "OWWW, OKAY OKAY! I give up."
 
 # game/v10/scene36.rpy:93
 translate francais v10_emily_vs_aubrey_4be008ae:
 
     # aut "A fair and honest fight, but the winner is EMILY!"
-    aut ""
+    aut "A fair and honest fight, but the winner is EMILY!"
 
 # game/v10/scene36.rpy:99
 translate francais v10_emily_vs_aubrey_78574396:
 
     # ry "I was just gonna, nevermind."
-    ry ""
+    ry "I was just gonna, nevermind."
 
 # game/v10/scene36.rpy:109
 translate francais v10_emily_vs_aubrey_6493f949:
 
     # u "Good fight, look like you got a little aggressive there at the end."
-    u ""
+    u "Good fight, look like you got a little aggressive there at the end."
 
 # game/v10/scene36.rpy:114
 translate francais v10_emily_vs_aubrey_8e2aefa2:
 
     # em "Haha, maybe a little. My competitive switch came on."
-    em ""
+    em "Haha, maybe a little. My competitive switch came on."
 
 # game/v10/scene36.rpy:119
 translate francais v10_emily_vs_aubrey_a00677da:
 
     # u "Haha, well good job."
-    u ""
+    u "Haha, well good job."
 
 # game/v10/scene36.rpy:124
 translate francais v10_emily_vs_aubrey_3456d4a9:
 
     # em "Thanks!"
-    em ""
+    em "Thanks!"
 
 # game/v10/scene36.rpy:129
 translate francais v10_emily_vs_aubrey_bfd3117c:
 
     # aut "These matches are going great and way more exciting than expected. So I'm excited to move to our last matchup, Amber and Riley."
-    aut ""
+    aut "These matches are going great and way more exciting than expected. So I'm excited to move to our last matchup, Amber and Riley."
 
 # game/v10/scene36.rpy:134
 translate francais v10_emily_vs_aubrey_189810a1:
 
     # ri "Ready?"
-    ri ""
+    ri "Ready?"
 
 # game/v10/scene36.rpy:139
 translate francais v10_emily_vs_aubrey_81c935e1:
 
     # am "Haha, you'll find out."
-    am ""
+    am "Haha, you'll find out."
 

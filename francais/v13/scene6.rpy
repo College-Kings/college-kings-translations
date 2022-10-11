@@ -1,198 +1,198 @@
-﻿# TODO: Translation updated at 2022-08-22 08:06
+﻿# TODO: Translation updated at 2022-10-11 06:39
 
 # game/v13/scene6.rpy:17
 translate francais v13s06_7f996fde:
 
     # u "(Waking up on my own, Amsterdam is starting out nice. *Chuckles*)"
-    u ""
+    u "(Waking up on my own, Amsterdam is starting out nice. *Chuckles*)"
 
 # game/v13/scene6.rpy:37
 translate francais v13s06_0408dccb:
 
     # u "Hello."
-    u ""
+    u "Hello."
 
 # game/v13/scene6.rpy:42
 translate francais v13s06_603ef0a2:
 
     # luuk "Sleepy field trip kid! Good morning."
-    luuk ""
+    luuk "Sleepy field trip kid! Good morning."
 
 # game/v13/scene6.rpy:47
 translate francais v13s06_8b258704:
 
     # u "Huh?"
-    u ""
+    u "Huh?"
 
 # game/v13/scene6.rpy:52
 translate francais v13s06_87d46caf:
 
     # luuk "My name is Luuk, I saw you last night with the rest of the students and overheard your conversation."
-    luuk ""
+    luuk "My name is Luuk, I saw you last night with the rest of the students and overheard your conversation."
 
 # game/v13/scene6.rpy:57
 translate francais v13s06_b944ff66:
 
     # u "Ahh, guess nothing gets past you, huh?"
-    u ""
+    u "Ahh, guess nothing gets past you, huh?"
 
 # game/v13/scene6.rpy:62
 translate francais v13s06_1606a6b0:
 
     # luuk "For a price, I can hear or not hear anything... So, whether you want to have some fun or stay out of trouble, I'm your guy."
-    luuk ""
+    luuk "For a price, I can hear or not hear anything... So, whether you want to have some fun or stay out of trouble, I'm your guy."
 
 # game/v13/scene6.rpy:67
 translate francais v13s06_b8a31fd8:
 
     # u "That's a bold approach for someone you just met."
-    u ""
+    u "That's a bold approach for someone you just met."
 
 # game/v13/scene6.rpy:72
 translate francais v13s06_446d3ce3:
 
     # luuk "I work at a hotel, everyone I talk to is someone I just met. *Chuckles*"
-    luuk ""
+    luuk "I work at a hotel, everyone I talk to is someone I just met. *Chuckles*"
 
 # game/v13/scene6.rpy:77
 translate francais v13s06_e90bde5a:
 
     # u "*Chuckles* Fair enough."
-    u ""
+    u "*Chuckles* Fair enough."
 
 # game/v13/scene6.rpy:82
 translate francais v13s06_0f667cbd:
 
     # luuk "So, was there a reason you came over?"
-    luuk ""
+    luuk "So, was there a reason you came over?"
 
 # game/v13/scene6.rpy:87
 translate francais v13s06_099d0d27:
 
     # u "Yeah, actually. We've been staying in Peace Hotels our entire trip, and I tried the breakfast in Paris and loved it. I was wondering if you guys had breakfast here in Amsterdam as well?"
-    u ""
+    u "Yeah, actually. We've been staying in Peace Hotels our entire trip, and I tried the breakfast in Paris and loved it. I was wondering if you guys had breakfast here in Amsterdam as well?"
 
 # game/v13/scene6.rpy:92
 translate francais v13s06_105ab2c3:
 
     # luuk "We normally do, but I'm sorry to say we don't this morning. There was a minor staffing situation so we had to cancel breakfast for today."
-    luuk ""
+    luuk "We normally do, but I'm sorry to say we don't this morning. There was a minor staffing situation so we had to cancel breakfast for today."
 
 # game/v13/scene6.rpy:97
 translate francais v13s06_81e13938:
 
     # u "Oh, okay. Thanks for the info."
-    u ""
+    u "Oh, okay. Thanks for the info."
 
 # game/v13/scene6.rpy:102
 translate francais v13s06_15fc4831:
 
     # luuk "Since you enjoyed the breakfast so much, come by again sometime before you leave and I'll personally make your meal."
-    luuk ""
+    luuk "Since you enjoyed the breakfast so much, come by again sometime before you leave and I'll personally make your meal."
 
 # game/v13/scene6.rpy:107
 translate francais v13s06_9c9b8a0d:
 
     # u "So you're a confidence man and a chef?"
-    u ""
+    u "So you're a confidence man and a chef?"
 
 # game/v13/scene6.rpy:112
 translate francais v13s06_b8defaf3:
 
     # luuk "It's good to possess many conflicting skills. No one expects a confidence man to be a good cook and no one expects the cook to be a confidence man."
-    luuk ""
+    luuk "It's good to possess many conflicting skills. No one expects a confidence man to be a good cook and no one expects the cook to be a confidence man."
 
 # game/v13/scene6.rpy:117
 translate francais v13s06_f599782e:
 
     # u "Huh... You've really thought this through. *Chuckles*"
-    u ""
+    u "Huh... You've really thought this through. *Chuckles*"
 
 # game/v13/scene6.rpy:122
 translate francais v13s06_aedab0ce:
 
     # luuk "Haha, let's just say I make more money scheming with the guests than I do checking them in."
-    luuk ""
+    luuk "Haha, let's just say I make more money scheming with the guests than I do checking them in."
 
 # game/v13/scene6.rpy:127
 translate francais v13s06_9d6f835a:
 
     # u "Hmm. I may have to get in on that."
-    u ""
+    u "Hmm. I may have to get in on that."
 
 # game/v13/scene6.rpy:132
 translate francais v13s06_d09cc295:
 
     # luuk "You're not built for this kind of life, trust me. *Chuckles*"
-    luuk ""
+    luuk "You're not built for this kind of life, trust me. *Chuckles*"
 
 # game/v13/scene6.rpy:139
 translate francais v13s06_15ac0275:
 
     # u "Of course I am."
-    u ""
+    u "Of course I am."
 
 # game/v13/scene6.rpy:149
 translate francais v13s06_d99dfb80:
 
     # u "Do you see this? I have all the muscle you need."
-    u ""
+    u "Do you see this? I have all the muscle you need."
 
 # game/v13/scene6.rpy:154
 translate francais v13s06_cede5d4d:
 
     # luuk "Impressive. *Chuckles*"
-    luuk ""
+    luuk "Impressive. *Chuckles*"
 
 # game/v13/scene6.rpy:160
 translate francais v13s06_ab3b95ae:
 
     # u "Yeah, probably not. More of a straight and narrow kind of guy."
-    u ""
+    u "Yeah, probably not. More of a straight and narrow kind of guy."
 
 # game/v13/scene6.rpy:165
 translate francais v13s06_e116ec3b:
 
     # luuk "Playing it safe always guarantees safety."
-    luuk ""
+    luuk "Playing it safe always guarantees safety."
 
 # game/v13/scene6.rpy:170
 translate francais v13s06_d004697c:
 
     # u "I was always told \"cowards live longer\"."
-    u ""
+    u "I was always told \"cowards live longer\"."
 
 # game/v13/scene6.rpy:175
 translate francais v13s06_d1f9aeb6:
 
     # luuk "That they do. *Chuckles*"
-    luuk ""
+    luuk "That they do. *Chuckles*"
 
 # game/v13/scene6.rpy:180
 translate francais v13s06_351fb9a5:
 
     # luuk "Well... I'll see you soon for another breakfast. *Laughs* Also, remember what I said. I hear it all or don't hear anything."
-    luuk ""
+    luuk "Well... I'll see you soon for another breakfast. *Laughs* Also, remember what I said. I hear it all or don't hear anything."
 
 # game/v13/scene6.rpy:185
 translate francais v13s06_e4e64f30:
 
     # u "I... heard... you."
-    u ""
+    u "I... heard... you."
 
 # game/v13/scene6.rpy:190
 translate francais v13s06_377fa902:
 
     # luuk "Clever."
-    luuk ""
+    luuk "Clever."
 
 translate francais strings:
 
     # game/v13/scene6.rpy:134
     old "I am"
-    new ""
+    new "I am"
 
     # game/v13/scene6.rpy:134
     old "Yeah, probably not"
-    new ""
+    new "Yeah, probably not"
 

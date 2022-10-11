@@ -1,184 +1,184 @@
-﻿# TODO: Translation updated at 2022-08-22 08:06
+﻿# TODO: Translation updated at 2022-10-11 06:39
 
 # game/v8/scene27.rpy:14
 translate francais mon_eve_room_josh_e77881ab:
 
     # u "(Let's see who this is.)"
-    u ""
+    u "(Let's see who this is.)"
 
 # game/v8/scene27.rpy:24
 translate francais v8s27_phoneContinue1_747f298b:
 
     # u "I should really check my phone."
-    u ""
+    u "I should really check my phone."
 
 # game/v8/scene27.rpy:35
 translate francais v8s27_phoneContinue1_4e68a090:
 
     # u "(Fuck, I have a bad feeling about this.)"
-    u ""
+    u "(Fuck, I have a bad feeling about this.)"
 
 # game/v8/scene27.rpy:45
 translate francais v8s27_phoneContinue1_81469270:
 
     # u "(Ahh there's Josh.)"
-    u ""
+    u "(Ahh there's Josh.)"
 
 # game/v8/scene27.rpy:50
 translate francais v8s27_phoneContinue1_2f101193:
 
     # jo "Hey, bro! You ready for this?"
-    jo ""
+    jo "Hey, bro! You ready for this?"
 
 # game/v8/scene27.rpy:55
 translate francais v8s27_phoneContinue1_68ec9d52:
 
     # u "I guess so. Let's go."
-    u ""
+    u "I guess so. Let's go."
 
 # game/v8/scene27.rpy:60
 translate francais v8s27_phoneContinue1_3273f15b:
 
     # jo "This is gonna be so dope! 1000 bucks! I can do so much with that kind of money, haha."
-    jo ""
+    jo "This is gonna be so dope! 1000 bucks! I can do so much with that kind of money, haha."
 
 # game/v8/scene27.rpy:65
 translate francais v8s27_phoneContinue1_48b292c7:
 
     # u "Yeah, I'm sure you can."
-    u ""
+    u "Yeah, I'm sure you can."
 
 # game/v8/scene27.rpy:70
 translate francais v8s27_phoneContinue1_c20954a6:
 
     # jo "You don't seem too stoked, man. Something wrong?"
-    jo ""
+    jo "You don't seem too stoked, man. Something wrong?"
 
 # game/v8/scene27.rpy:75
 translate francais v8s27_phoneContinue1_f1b11659:
 
     # u "Not really. I just feel like we shouldn't be doing this, is all."
-    u ""
+    u "Not really. I just feel like we shouldn't be doing this, is all."
 
 # game/v8/scene27.rpy:80
 translate francais v8s27_phoneContinue1_8909d919:
 
     # jo "Hahaha! You worry too much, bro. Relax! We got this."
-    jo ""
+    jo "Hahaha! You worry too much, bro. Relax! We got this."
 
 # game/v8/scene27.rpy:100
 translate francais v8s27_phoneContinue2_747f298b:
 
     # u "I should really check my phone."
-    u ""
+    u "I should really check my phone."
 
 # game/v8/scene27.rpy:106
 translate francais v8s27_phoneContinue2_df5f1e3a:
 
     # u "(Shit, I hope Josh is alright)"
-    u ""
+    u "(Shit, I hope Josh is alright)"
 
 # game/v8/scene27.rpy:122
 translate francais v8s27_phoneContinue2_e77881ab:
 
     # u "(Let's see who this is.)"
-    u ""
+    u "(Let's see who this is.)"
 
 # game/v8/scene27.rpy:133
 translate francais v8s27_phoneContinue3_747f298b:
 
     # u "I should really check my phone."
-    u ""
+    u "I should really check my phone."
 
 # game/v8/scene27.rpy:145
 translate francais v8s27_phoneContinue3_4e68a090:
 
     # u "(Fuck, I have a bad feeling about this.)"
-    u ""
+    u "(Fuck, I have a bad feeling about this.)"
 
 # game/v8/scene27.rpy:155
 translate francais v8s27_phoneContinue3_81469270:
 
     # u "(Ahh there's Josh.)"
-    u ""
+    u "(Ahh there's Josh.)"
 
 # game/v8/scene27.rpy:160
 translate francais v8s27_phoneContinue3_2f101193:
 
     # jo "Hey, bro! You ready for this?"
-    jo ""
+    jo "Hey, bro! You ready for this?"
 
 # game/v8/scene27.rpy:165
 translate francais v8s27_phoneContinue3_68ec9d52:
 
     # u "I guess so. Let's go."
-    u ""
+    u "I guess so. Let's go."
 
 # game/v8/scene27.rpy:170
 translate francais v8s27_phoneContinue3_3273f15b:
 
     # jo "This is gonna be so dope! 1000 bucks! I can do so much with that kind of money, haha."
-    jo ""
+    jo "This is gonna be so dope! 1000 bucks! I can do so much with that kind of money, haha."
 
 # game/v8/scene27.rpy:175
 translate francais v8s27_phoneContinue3_48b292c7:
 
     # u "Yeah, I'm sure you can."
-    u ""
+    u "Yeah, I'm sure you can."
 
 # game/v8/scene27.rpy:180
 translate francais v8s27_phoneContinue3_c20954a6:
 
     # jo "You don't seem too stoked, man. Something wrong?"
-    jo ""
+    jo "You don't seem too stoked, man. Something wrong?"
 
 # game/v8/scene27.rpy:185
 translate francais v8s27_phoneContinue3_f1b11659:
 
     # u "Not really. I just feel like we shouldn't be doing this, is all."
-    u ""
+    u "Not really. I just feel like we shouldn't be doing this, is all."
 
 # game/v8/scene27.rpy:190
 translate francais v8s27_phoneContinue3_8909d919:
 
     # jo "Hahaha! You worry too much, bro. Relax! We got this."
-    jo ""
+    jo "Hahaha! You worry too much, bro. Relax! We got this."
 
 # game/v8/scene27.rpy:210
 translate francais v8s27_phoneContinue4_747f298b:
 
     # u "I should really check my phone."
-    u ""
+    u "I should really check my phone."
 
 # game/v8/scene27.rpy:216
 translate francais v8s27_phoneContinue4_df5f1e3a:
 
     # u "(Shit, I hope Josh is alright)"
-    u ""
+    u "(Shit, I hope Josh is alright)"
 
 translate francais strings:
 
     # game/v8/scene27.rpy:17
     old "Hey bro! It's time! Meet me at mine, okay?"
-    new ""
+    new "Hey bro! It's time! Meet me at mine, okay?"
 
     # game/v8/scene27.rpy:18
     old "Okay, I'm on my way."
-    new ""
+    new "Okay, I'm on my way."
 
     # game/v8/scene27.rpy:91
     old "Hey bro, I got robbed and my ass kicked bad! Really wish you came with me, man."
-    new ""
+    new "Hey bro, I got robbed and my ass kicked bad! Really wish you came with me, man."
 
     # game/v8/scene27.rpy:92
     old "Fuck! Are you ok??"
-    new ""
+    new "Fuck! Are you ok??"
 
     # game/v8/scene27.rpy:93
     old "No, man! I hurt everywhere! Plus my shit is gone!"
-    new ""
+    new "No, man! I hurt everywhere! Plus my shit is gone!"
 
     # game/v8/scene27.rpy:94
     old "Hold on, I'll be right over"
-    new ""
+    new "Hold on, I'll be right over"
 

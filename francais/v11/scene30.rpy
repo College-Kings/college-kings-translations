@@ -1,1334 +1,1334 @@
-﻿# TODO: Translation updated at 2022-08-22 08:06
+﻿# TODO: Translation updated at 2022-10-11 06:39
 
 # game/v11/scene30.rpy:25
 translate francais v11_lauren_store_cc9d9813:
 
     # u "Guess who?"
-    u ""
+    u "Guess who?"
 
 # game/v11/scene30.rpy:30
 translate francais v11_lauren_store_88514738:
 
     # la "...Dobby?"
-    la ""
+    la "...Dobby?"
 
 # game/v11/scene30.rpy:40
 translate francais v11_lauren_store_94a04674:
 
     # u "Who's Dobby? *Chuckles*"
-    u ""
+    u "Who's Dobby? *Chuckles*"
 
 # game/v11/scene30.rpy:45
 translate francais v11_lauren_store_cfb5dbe1:
 
     # la "It's a Hotter Parry thing... only cool people would get that reference."
-    la ""
+    la "It's a Hotter Parry thing... only cool people would get that reference."
 
 # game/v11/scene30.rpy:50
 translate francais v11_lauren_store_6e67e0bf:
 
     # u "Um, I'm cool."
-    u ""
+    u "Um, I'm cool."
 
 # game/v11/scene30.rpy:55
 translate francais v11_lauren_store_481b6ef3:
 
     # la "Then that means you know about Hotter Parry, right?"
-    la ""
+    la "Then that means you know about Hotter Parry, right?"
 
 # game/v11/scene30.rpy:65
 translate francais v11_lauren_store_3f54e48a:
 
     # u "Of course I do."
-    u ""
+    u "Of course I do."
 
 # game/v11/scene30.rpy:70
 translate francais v11_lauren_store_7557d2b4:
 
     # la "Really?"
-    la ""
+    la "Really?"
 
 # game/v11/scene30.rpy:75
 translate francais v11_lauren_store_b2f441a3:
 
     # u "Yeah, I know all about it."
-    u ""
+    u "Yeah, I know all about it."
 
 # game/v11/scene30.rpy:80
 translate francais v11_lauren_store_0b63a5ff:
 
     # la "Hmm... Well, there's only one way to find out."
-    la ""
+    la "Hmm... Well, there's only one way to find out."
 
 # game/v11/scene30.rpy:86
 translate francais v11_lauren_store_98ddfad0:
 
     # u "Not really, no, but that doesn't mean I'm not cool."
-    u ""
+    u "Not really, no, but that doesn't mean I'm not cool."
 
 # game/v11/scene30.rpy:91
 translate francais v11_lauren_store_4d3a754c:
 
     # la "I feel like you know more than you're letting on... but there's only one way to find out."
-    la ""
+    la "I feel like you know more than you're letting on... but there's only one way to find out."
 
 # game/v11/scene30.rpy:96
 translate francais v11_lauren_store_6a8b5460:
 
     # u "And what's that?"
-    u ""
+    u "And what's that?"
 
 # game/v11/scene30.rpy:101
 translate francais v11_lauren_store_493a405f:
 
     # la "First, a question. Do you have any plans today?"
-    la ""
+    la "First, a question. Do you have any plans today?"
 
 # game/v11/scene30.rpy:106
 translate francais v11_lauren_store_5fc3c52f:
 
     # u "No, not really."
-    u ""
+    u "No, not really."
 
 # game/v11/scene30.rpy:111
 translate francais v11_lauren_store_06e63af8:
 
     # la "Good. Second thing, come with me."
-    la ""
+    la "Good. Second thing, come with me."
 
 # game/v11/scene30.rpy:131
 translate francais v11_lauren_store_cac540d7:
 
     # u "Where are we going?"
-    u ""
+    u "Where are we going?"
 
 # game/v11/scene30.rpy:136
 translate francais v11_lauren_store_a9c5062d:
 
     # la "We're going to Hogwash. *Chuckles*"
-    la ""
+    la "We're going to Hogwash. *Chuckles*"
 
 # game/v11/scene30.rpy:141
 translate francais v11_lauren_store_98cdb7ba:
 
     # u "Right... and where are we actually going?"
-    u ""
+    u "Right... and where are we actually going?"
 
 # game/v11/scene30.rpy:146
 translate francais v11_lauren_store_9221e666:
 
     # la "Isn't it more exciting when it's a surprise?"
-    la ""
+    la "Isn't it more exciting when it's a surprise?"
 
 # game/v11/scene30.rpy:151
 translate francais v11_lauren_store_b5fce2eb:
 
     # u "I guess it depends where you're taking me."
-    u ""
+    u "I guess it depends where you're taking me."
 
 # game/v11/scene30.rpy:156
 translate francais v11_lauren_store_3705849a:
 
     # la "Well, any Hotter Parry fan would be thrilled to go where I'm taking you."
-    la ""
+    la "Well, any Hotter Parry fan would be thrilled to go where I'm taking you."
 
 # game/v11/scene30.rpy:161
 translate francais v11_lauren_store_ad29fbf8:
 
     # u "What if I'm not a fan?"
-    u ""
+    u "What if I'm not a fan?"
 
 # game/v11/scene30.rpy:166
 translate francais v11_lauren_store_42f1ca13:
 
     # la "Then you'll probably look really out of place and embarrass yourself. *Laughs*"
-    la ""
+    la "Then you'll probably look really out of place and embarrass yourself. *Laughs*"
 
 # game/v11/scene30.rpy:171
 translate francais v11_lauren_store_8fa7583e:
 
     # u "*Sarcastic* Oh wow, sounds like fun."
-    u ""
+    u "*Sarcastic* Oh wow, sounds like fun."
 
 # game/v11/scene30.rpy:176
 translate francais v11_lauren_store_a7f12e89:
 
     # la "Oh come on, [name]. You're going to love it. Trust me."
-    la ""
+    la "Oh come on, [name]. You're going to love it. Trust me."
 
 # game/v11/scene30.rpy:191
 translate francais v11_lauren_store_0ead8abe:
 
     # la "And... look! We're here."
-    la ""
+    la "And... look! We're here."
 
 # game/v11/scene30.rpy:206
 translate francais v11_lauren_store_aff067a9:
 
     # u "What the fuck is this?"
-    u ""
+    u "What the fuck is this?"
 
 # game/v11/scene30.rpy:211
 translate francais v11_lauren_store_a6c73d2a:
 
     # la "*Chuckles* Oh my gosh [name]! Not so loud... It's a Hotter Parry trivia contest. I signed up for it."
-    la ""
+    la "*Chuckles* Oh my gosh [name]! Not so loud... It's a Hotter Parry trivia contest. I signed up for it."
 
 # game/v11/scene30.rpy:216
 translate francais v11_lauren_store_b25de584:
 
     # u "So, that's why we spent the last 15 minutes talking about Hotter Parry?"
-    u ""
+    u "So, that's why we spent the last 15 minutes talking about Hotter Parry?"
 
 # game/v11/scene30.rpy:221
 translate francais v11_lauren_store_126a4808:
 
     # la "Hotter Parry was the only thing on my mind. I don't know if you've noticed, but we're in Europe... The birthplace of Hotter Parry?"
-    la ""
+    la "Hotter Parry was the only thing on my mind. I don't know if you've noticed, but we're in Europe... The birthplace of Hotter Parry?"
 
 # game/v11/scene30.rpy:223
 translate francais v11_lauren_store_0a7e84af:
 
     # la "There's a ton of cool events going on and I really wanted to go to this one. Also why did you think I was standing in the lobby?"
-    la ""
+    la "There's a ton of cool events going on and I really wanted to go to this one. Also why did you think I was standing in the lobby?"
 
 # game/v11/scene30.rpy:228
 translate francais v11_lauren_store_63ee8ca4:
 
     # u "I thought you just enjoyed standing around."
-    u ""
+    u "I thought you just enjoyed standing around."
 
 # game/v11/scene30.rpy:233
 translate francais v11_lauren_store_a836a179:
 
     # la "*Chuckles* Not funny. I had plans way before you showed up and obviously, I had to drag you here to test your Hotter Parry knowledge."
-    la ""
+    la "*Chuckles* Not funny. I had plans way before you showed up and obviously, I had to drag you here to test your Hotter Parry knowledge."
 
 # game/v11/scene30.rpy:238
 translate francais v11_lauren_store_f710eeee:
 
     # u "Didn't you sign up by yourself?"
-    u ""
+    u "Didn't you sign up by yourself?"
 
 # game/v11/scene30.rpy:243
 translate francais v11_lauren_store_27486c4d:
 
     # la "Well... You can either participate as a couple or an individual. I never stated how I'd be participating."
-    la ""
+    la "Well... You can either participate as a couple or an individual. I never stated how I'd be participating."
 
 # game/v11/scene30.rpy:248
 translate francais v11_lauren_store_13ece518:
 
     # u "Ah. And here I am."
-    u ""
+    u "Ah. And here I am."
 
 # game/v11/scene30.rpy:253
 translate francais v11_lauren_store_bc755cb0:
 
     # la "So here you are."
-    la ""
+    la "So here you are."
 
 # game/v11/scene30.rpy:258
 translate francais v11_lauren_store_d0d33818:
 
     # u "What do we win?"
-    u ""
+    u "What do we win?"
 
 # game/v11/scene30.rpy:263
 translate francais v11_lauren_store_5a84ca47:
 
     # la "If we win, they praise us and we go home. If we lose, they silently judge us and we go home."
-    la ""
+    la "If we win, they praise us and we go home. If we lose, they silently judge us and we go home."
 
 # game/v11/scene30.rpy:268
 translate francais v11_lauren_store_00906fce:
 
     # u "*Sarcastic* Wow, so much pressure..."
-    u ""
+    u "*Sarcastic* Wow, so much pressure..."
 
 # game/v11/scene30.rpy:273
 translate francais v11_lauren_store_ad3ec1c9:
 
     # la "*Chuckles* Just do your best. I'll pick up the slack."
-    la ""
+    la "*Chuckles* Just do your best. I'll pick up the slack."
 
 # game/v11/scene30.rpy:278
 translate francais v11_lauren_store_6f34ef26:
 
     # u "*Chuckles* How kind of you."
-    u ""
+    u "*Chuckles* How kind of you."
 
 # game/v11/scene30.rpy:288
 translate francais v11_lauren_store_0c64a69c:
 
     # jud "You must be Team Pofflehoof?"
-    jud ""
+    jud "You must be Team Pofflehoof?"
 
 # game/v11/scene30.rpy:293
 translate francais v11_lauren_store_5a2b1de7:
 
     # la "That's us."
-    la ""
+    la "That's us."
 
 # game/v11/scene30.rpy:298
 translate francais v11_lauren_store_b594e3ee:
 
     # jud "Great, please take a seat. We're just about to get started."
-    jud ""
+    jud "Great, please take a seat. We're just about to get started."
 
 # game/v11/scene30.rpy:323
 translate francais v11_lauren_store_cc0683f9:
 
     # jer "Abada Kavarkada."
-    jer ""
+    jer "Abada Kavarkada."
 
 # game/v11/scene30.rpy:328
 translate francais v11_lauren_store_93b929f3:
 
     # u "What the fuck?"
-    u ""
+    u "What the fuck?"
 
 # game/v11/scene30.rpy:333
 translate francais v11_lauren_store_81a3d6b2:
 
     # la "*Whisper* [name]!"
-    la ""
+    la "*Whisper* [name]!"
 
 # game/v11/scene30.rpy:340
 translate francais v11_lauren_store_de0a7e61:
 
     # u "That guy right there just looked at me all crazy and said Abada Kavarkada."
-    u ""
+    u "That guy right there just looked at me all crazy and said Abada Kavarkada."
 
 # game/v11/scene30.rpy:355
 translate francais v11_lauren_store_7bd23b0c:
 
     # la "Abada Kavarkada!"
-    la ""
+    la "Abada Kavarkada!"
 
 # game/v11/scene30.rpy:360
 translate francais v11_lauren_store_e5d20124:
 
     # jud "Students please... control yourselves."
-    jud ""
+    jud "Students please... control yourselves."
 
 # game/v11/scene30.rpy:365
 translate francais v11_lauren_store_6575bcb0:
 
     # u "Well, look at you... a little witch girl. *Chuckles* You guys are really serious about this stuff."
-    u ""
+    u "Well, look at you... a little witch girl. *Chuckles* You guys are really serious about this stuff."
 
 # game/v11/scene30.rpy:370
 translate francais v11_lauren_store_29a7a69e:
 
     # la "We're serious about Hotter Parry, not stuff. Don't call it stuff."
-    la ""
+    la "We're serious about Hotter Parry, not stuff. Don't call it stuff."
 
 # game/v11/scene30.rpy:375
 translate francais v11_lauren_store_ef073a89:
 
     # u "Damn, my bad. You guys are serious about Hotter Parry."
-    u ""
+    u "Damn, my bad. You guys are serious about Hotter Parry."
 
 # game/v11/scene30.rpy:380
 translate francais v11_lauren_store_2e5fe879:
 
     # la "Better. *Chuckles*"
-    la ""
+    la "Better. *Chuckles*"
 
 # game/v11/scene30.rpy:385
 translate francais v11_lauren_store_eb2d89bf:
 
     # jud "Attention, students. It brings me great joy to see you all here. It's always wonderful to see new faces, although I see a few familiar ones..."
-    jud ""
+    jud "Attention, students. It brings me great joy to see you all here. It's always wonderful to see new faces, although I see a few familiar ones..."
 
 # game/v11/scene30.rpy:390
 translate francais v11_lauren_store_3c961560:
 
     # jud "Jerry."
-    jud ""
+    jud "Jerry."
 
 # game/v11/scene30.rpy:395
 translate francais v11_lauren_store_fe0e0034:
 
     # jer "I'm a vet!"
-    jer ""
+    jer "I'm a vet!"
 
 # game/v11/scene30.rpy:400
 translate francais v11_lauren_store_fbef064b:
 
     # jud "Okay, so... The rules are simple. I will ask three main questions and one bonus question."
-    jud ""
+    jud "Okay, so... The rules are simple. I will ask three main questions and one bonus question."
 
 # game/v11/scene30.rpy:402
 translate francais v11_lauren_store_3df7a8fc:
 
     # jud "The bonus question is so important that it's worth three points while the others are only worth one point."
-    jud ""
+    jud "The bonus question is so important that it's worth three points while the others are only worth one point."
 
 # game/v11/scene30.rpy:407
 translate francais v11_lauren_store_0e512e62:
 
     # u "Wait, so in the event that we get the first three wrong-"
-    u ""
+    u "Wait, so in the event that we get the first three wrong-"
 
 # game/v11/scene30.rpy:412
 translate francais v11_lauren_store_7fc70748:
 
     # jer "You will."
-    jer ""
+    jer "You will."
 
 # game/v11/scene30.rpy:417
 translate francais v11_lauren_store_ac7b633e:
 
     # u "*Sighs* In the event that we get the first three wrong and the bonus right, assuming someone else gets the first three right and the bonus wrong, does that mean we have a tie?"
-    u ""
+    u "*Sighs* In the event that we get the first three wrong and the bonus right, assuming someone else gets the first three right and the bonus wrong, does that mean we have a tie?"
 
 # game/v11/scene30.rpy:422
 translate francais v11_lauren_store_a58933d8:
 
     # jud "Exactly. We've only ever had one tie before."
-    jud ""
+    jud "Exactly. We've only ever had one tie before."
 
 # game/v11/scene30.rpy:427
 translate francais v11_lauren_store_02d13cab:
 
     # la "*Whisper* We won't be losing [name]."
-    la ""
+    la "*Whisper* We won't be losing [name]."
 
 # game/v11/scene30.rpy:432
 translate francais v11_lauren_store_67fc45a7:
 
     # u "Well, I'm glad you're confident."
-    u ""
+    u "Well, I'm glad you're confident."
 
 # game/v11/scene30.rpy:437
 translate francais v11_lauren_store_99410591:
 
     # jud "No phones, no notes, no nothing. You will write your answer on the board in front of you and show us after everyone is finished. Let's begin."
-    jud ""
+    jud "No phones, no notes, no nothing. You will write your answer on the board in front of you and show us after everyone is finished. Let's begin."
 
 # game/v11/scene30.rpy:442
 translate francais v11_lauren_store_bbf2d929:
 
     # la "Let's do this."
-    la ""
+    la "Let's do this."
 
 # game/v11/scene30.rpy:447
 translate francais v11_lauren_store_db81bc30:
 
     # jud "First question, what House is Hotter Parry a member of?"
-    jud ""
+    jud "First question, what House is Hotter Parry a member of?"
 
 # game/v11/scene30.rpy:452
 translate francais v11_lauren_store_3de2160d:
 
     # jer "Too easy!"
-    jer ""
+    jer "Too easy!"
 
 # game/v11/scene30.rpy:457
 translate francais v11_lauren_store_eef030ad:
 
     # la "*Whisper* Good god, he's almost as annoying as Charli."
-    la ""
+    la "*Whisper* Good god, he's almost as annoying as Charli."
 
 # game/v11/scene30.rpy:462
 translate francais v11_lauren_store_b54e4039:
 
     # u "Haha."
-    u ""
+    u "Haha."
 
 # game/v11/scene30.rpy:464
 translate francais v11_lauren_store_f6b05e34:
 
     # u "(So I'm not the only one who thinks he's annoying.)"
-    u ""
+    u "(So I'm not the only one who thinks he's annoying.)"
 
 # game/v11/scene30.rpy:477
 translate francais v11_lauren_store_88e453c1:
 
     # u "It's Friggindoor, right?"
-    u ""
+    u "It's Friggindoor, right?"
 
 # game/v11/scene30.rpy:482
 translate francais v11_lauren_store_7a5e8852:
 
     # la "*Whisper* Sure is."
-    la ""
+    la "*Whisper* Sure is."
 
 # game/v11/scene30.rpy:495
 translate francais v11_answer_Theremin_9fbe32bb:
 
     # u "*Whisper* It's Theremin, right?"
-    u ""
+    u "*Whisper* It's Theremin, right?"
 
 # game/v11/scene30.rpy:500
 translate francais v11_answer_Theremin_2b760d92:
 
     # la "Uhhh, no. *Chuckles* I got this."
-    la ""
+    la "Uhhh, no. *Chuckles* I got this."
 
 # game/v11/scene30.rpy:509
 translate francais v11_quiz_q2_6d8fb68b:
 
     # jud "Everyone ready?"
-    jud ""
+    jud "Everyone ready?"
 
 # game/v11/scene30.rpy:514
 translate francais v11_quiz_q2_14a337ac:
 
     # u "We are."
-    u ""
+    u "We are."
 
 # game/v11/scene30.rpy:519
 translate francais v11_quiz_q2_5dfb0a86:
 
     # jer "I'm prepared, as always."
-    jer ""
+    jer "I'm prepared, as always."
 
 # game/v11/scene30.rpy:524
 translate francais v11_quiz_q2_10105b5c:
 
     # u "(Such a dick.)"
-    u ""
+    u "(Such a dick.)"
 
 # game/v11/scene30.rpy:529
 translate francais v11_quiz_q2_24d791a7:
 
     # sus "Ready!"
-    sus ""
+    sus "Ready!"
 
 # game/v11/scene30.rpy:534
 translate francais v11_quiz_q2_c2650bb5:
 
     # jud "Perfect. Please show us your answers."
-    jud ""
+    jud "Perfect. Please show us your answers."
 
 # game/v11/scene30.rpy:544
 translate francais v11_quiz_q2_aa3c0f5b:
 
     # jud "Hmmm... It appears everyone is correct. Very good."
-    jud ""
+    jud "Hmmm... It appears everyone is correct. Very good."
 
 # game/v11/scene30.rpy:549
 translate francais v11_quiz_q2_42f1627e:
 
     # jud "Next question, how many kahoots are in one shtickle?"
-    jud ""
+    jud "Next question, how many kahoots are in one shtickle?"
 
 # game/v11/scene30.rpy:565
 translate francais v11_quiz_q2_64cb6df5:
 
     # u "*Whisper* Too easy, it's 29."
-    u ""
+    u "*Whisper* Too easy, it's 29."
 
 # game/v11/scene30.rpy:570
 translate francais v11_quiz_q2_1636e72c:
 
     # la "You're pretty confident... This isn't a beginner question, you know?"
-    la ""
+    la "You're pretty confident... This isn't a beginner question, you know?"
 
 # game/v11/scene30.rpy:575
 translate francais v11_quiz_q2_e9f1fb37:
 
     # u "I'm not a beginner..."
-    u ""
+    u "I'm not a beginner..."
 
 # game/v11/scene30.rpy:585
 translate francais v11_answer_13_cdda8023:
 
     # u "*Whisper* I have no idea... but I'd guess 13. I was gonna say 29, but that seems too high, right?"
-    u ""
+    u "*Whisper* I have no idea... but I'd guess 13. I was gonna say 29, but that seems too high, right?"
 
 # game/v11/scene30.rpy:590
 translate francais v11_answer_13_a8545d09:
 
     # la "*Whisper* High or not, 29 is the right answer. I'm starting to think you may not be such an expert. *Chuckles*"
-    la ""
+    la "*Whisper* High or not, 29 is the right answer. I'm starting to think you may not be such an expert. *Chuckles*"
 
 # game/v11/scene30.rpy:595
 translate francais v11_answer_13_a1fea1b2:
 
     # u "*Whisper* Haha, maybe not."
-    u ""
+    u "*Whisper* Haha, maybe not."
 
 # game/v11/scene30.rpy:603
 translate francais v11_quiz_q3_d0862997:
 
     # jer "I believe we're ready to continue, if the love birds here are finished with their off-topic conversation?"
-    jer ""
+    jer "I believe we're ready to continue, if the love birds here are finished with their off-topic conversation?"
 
 # game/v11/scene30.rpy:605
 translate francais v11_quiz_q3_fa624818:
 
     # jer "By all means, it's his bitch- I mean... witchy girlfriend that is the only true Hotterhead."
-    jer ""
+    jer "By all means, it's his bitch- I mean... witchy girlfriend that is the only true Hotterhead."
 
 # game/v11/scene30.rpy:610
 translate francais v11_quiz_q3_e1ebcf58:
 
     # jud "Jerry, please."
-    jud ""
+    jud "Jerry, please."
 
 # game/v11/scene30.rpy:626
 translate francais v11_quiz_q3_1617ab4e:
 
     # u "Did you just call my girl a bitch?"
-    u ""
+    u "Did you just call my girl a bitch?"
 
 # game/v11/scene30.rpy:631
 translate francais v11_quiz_q3_4f4aae98:
 
     # jer "Oh, calm down bulldog... I simply misspoke."
-    jer ""
+    jer "Oh, calm down bulldog... I simply misspoke."
 
 # game/v11/scene30.rpy:636
 translate francais v11_quiz_q3_8ffad9d7:
 
     # jud "Please, just have a seat sir."
-    jud ""
+    jud "Please, just have a seat sir."
 
 # game/v11/scene30.rpy:646
 translate francais v11_quiz_q3_cdca7f11:
 
     # la "My little hero, huh?"
-    la ""
+    la "My little hero, huh?"
 
 # game/v11/scene30.rpy:651
 translate francais v11_quiz_q3_9bdf9bfa:
 
     # u "Well, I'm not just gonna let him talk to you like that."
-    u ""
+    u "Well, I'm not just gonna let him talk to you like that."
 
 # game/v11/scene30.rpy:657
 translate francais v11_quiz_q3_31e8882d:
 
     # jud "Any other comments like that and I will have you disqualified."
-    jud ""
+    jud "Any other comments like that and I will have you disqualified."
 
 # game/v11/scene30.rpy:662
 translate francais v11_quiz_q3_9b0c6337:
 
     # jer "Oh please... I've won this contest a thousand times and know that unless it's stated in the rules, I can't be disqualified."
-    jer ""
+    jer "Oh please... I've won this contest a thousand times and know that unless it's stated in the rules, I can't be disqualified."
 
 # game/v11/scene30.rpy:667
 translate francais v11_quiz_q3_989ba423:
 
     # jud "I will make up rules as necessary."
-    jud ""
+    jud "I will make up rules as necessary."
 
 # game/v11/scene30.rpy:672
 translate francais v11_quiz_q3_269b7e0e:
 
     # u "Be careful man, you're walking on thin ice."
-    u ""
+    u "Be careful man, you're walking on thin ice."
 
 # game/v11/scene30.rpy:677
 translate francais v11_quiz_q3_e1a69833:
 
     # jud "May I see everyone's answers, please?"
-    jud ""
+    jud "May I see everyone's answers, please?"
 
 # game/v11/scene30.rpy:687
 translate francais v11_quiz_q3_c7ef3fbc:
 
     # jud "It appears everyone is correct except Susan."
-    jud ""
+    jud "It appears everyone is correct except Susan."
 
 # game/v11/scene30.rpy:692
 translate francais v11_quiz_q3_0d18ecbb:
 
     # sus "FUCK!"
-    sus ""
+    sus "FUCK!"
 
 # game/v11/scene30.rpy:707
 translate francais v11_quiz_q3_f49921ef:
 
     # u "*Whisper* Only the cool kids like Hotter Parry, right? *Laughs*"
-    u ""
+    u "*Whisper* Only the cool kids like Hotter Parry, right? *Laughs*"
 
 # game/v11/scene30.rpy:712
 translate francais v11_quiz_q3_f784a5c5:
 
     # la "*Whisper* Maybe I was wrong..."
-    la ""
+    la "*Whisper* Maybe I was wrong..."
 
 # game/v11/scene30.rpy:717
 translate francais v11_quiz_q3_a0658bed:
 
     # u "*Whisper* Don't worry, you're still cool."
-    u ""
+    u "*Whisper* Don't worry, you're still cool."
 
 # game/v11/scene30.rpy:722
 translate francais v11_quiz_q3_d11f7a6e:
 
     # jer "One down, one to go. And may I point out that once again, team Pofflehoof continues to whisper amongst themselves? I'd like to be sure they aren't cheating..."
-    jer ""
+    jer "One down, one to go. And may I point out that once again, team Pofflehoof continues to whisper amongst themselves? I'd like to be sure they aren't cheating..."
 
 # game/v11/scene30.rpy:727
 translate francais v11_quiz_q3_4b04c81f:
 
     # jud "What you are sure of is irrelevant Jerry, as they have broken zero rules and are doing an amazing job. So let us continue."
-    jud ""
+    jud "What you are sure of is irrelevant Jerry, as they have broken zero rules and are doing an amazing job. So let us continue."
 
 # game/v11/scene30.rpy:732
 translate francais v11_quiz_q3_c39c7f93:
 
     # jud "Please tell me, where is the Order of the Albatross headquarters located?"
-    jud ""
+    jud "Please tell me, where is the Order of the Albatross headquarters located?"
 
 # game/v11/scene30.rpy:737
 translate francais v11_quiz_q3_206365f4:
 
     # la "*Whisper* I'm sorry [name], but I really have to use the ladies' room. This one is all you."
-    la ""
+    la "*Whisper* I'm sorry [name], but I really have to use the ladies' room. This one is all you."
 
 # game/v11/scene30.rpy:742
 translate francais v11_quiz_q3_f79a93bc:
 
     # u "*Whisper* Wow."
-    u ""
+    u "*Whisper* Wow."
 
 # game/v11/scene30.rpy:747
 translate francais v11_quiz_q3_59d7d425:
 
     # la "*Whisper* Don't screw it up. *Chuckles*"
-    la ""
+    la "*Whisper* Don't screw it up. *Chuckles*"
 
 # game/v11/scene30.rpy:761
 translate francais v11_quiz_q3_958b74e9:
 
     # u "(This better be right.)"
-    u ""
+    u "(This better be right.)"
 
 # game/v11/scene30.rpy:774
 translate francais v11_answer_ministry_4c5742be:
 
     # u "(I hope this is right.)"
-    u ""
+    u "(I hope this is right.)"
 
 # game/v11/scene30.rpy:782
 translate francais v11_quiz_bonus_a77d072d:
 
     # jer "*Chuckles* Someone looks all flustered without their little girlfriend."
-    jer ""
+    jer "*Chuckles* Someone looks all flustered without their little girlfriend."
 
 # game/v11/scene30.rpy:787
 translate francais v11_quiz_bonus_ca773af5:
 
     # u "Bro, what is your deal? Just enjoy the game and have a good time like everyone else."
-    u ""
+    u "Bro, what is your deal? Just enjoy the game and have a good time like everyone else."
 
 # game/v11/scene30.rpy:792
 translate francais v11_quiz_bonus_127711d1:
 
     # jer "I'm enjoying myself quite fine."
-    jer ""
+    jer "I'm enjoying myself quite fine."
 
 # game/v11/scene30.rpy:797
 translate francais v11_quiz_bonus_57ae9944:
 
     # u "*Sighs*"
-    u ""
+    u "*Sighs*"
 
 # game/v11/scene30.rpy:802
 translate francais v11_quiz_bonus_c92b30ad:
 
     # u "(Fucking prick.)"
-    u ""
+    u "(Fucking prick.)"
 
 # game/v11/scene30.rpy:807
 translate francais v11_quiz_bonus_666dcea5:
 
     # jud "Are you ready to show us your answers, gentlemen?"
-    jud ""
+    jud "Are you ready to show us your answers, gentlemen?"
 
 # game/v11/scene30.rpy:812
 translate francais v11_quiz_bonus_37fe551f:
 
     # u "Sure."
-    u ""
+    u "Sure."
 
 # game/v11/scene30.rpy:833
 translate francais v11_quiz_bonus_548dca01:
 
     # jud "It appears you are both correct."
-    jud ""
+    jud "It appears you are both correct."
 
 # game/v11/scene30.rpy:838
 translate francais v11_quiz_bonus_962ffd8f:
 
     # la "*Whisper* Way to hold down the fort! Thanks."
-    la ""
+    la "*Whisper* Way to hold down the fort! Thanks."
 
 # game/v11/scene30.rpy:843
 translate francais v11_quiz_bonus_d9eb95bb:
 
     # u "*Whisper* Just a professional at work. *Chuckles*"
-    u ""
+    u "*Whisper* Just a professional at work. *Chuckles*"
 
 # game/v11/scene30.rpy:848
 translate francais v11_quiz_bonus_a73ad6bc:
 
     # la "*Whisper* Haha, focus! Bonus question time..."
-    la ""
+    la "*Whisper* Haha, focus! Bonus question time..."
 
 # game/v11/scene30.rpy:869
 translate francais v11_quiz_bonus_e8544cf1:
 
     # jud "It appears that only Jerry got this one correct."
-    jud ""
+    jud "It appears that only Jerry got this one correct."
 
 # game/v11/scene30.rpy:874
 translate francais v11_quiz_bonus_fd565bc2:
 
     # jer "As expected."
-    jer ""
+    jer "As expected."
 
 # game/v11/scene30.rpy:889
 translate francais v11_quiz_bonus_fed36d19:
 
     # la "*Whisper* Got a little lost without me, huh?"
-    la ""
+    la "*Whisper* Got a little lost without me, huh?"
 
 # game/v11/scene30.rpy:894
 translate francais v11_quiz_bonus_8e0bf487:
 
     # u "*Whisper* Just a little bit. *Chuckles*"
-    u ""
+    u "*Whisper* Just a little bit. *Chuckles*"
 
 # game/v11/scene30.rpy:899
 translate francais v11_quiz_bonus_e5408894:
 
     # la "*Whisper* It's alright, bonus question time..."
-    la ""
+    la "*Whisper* It's alright, bonus question time..."
 
 # game/v11/scene30.rpy:904
 translate francais v11_quiz_bonus_7fc00350:
 
     # jud "I have a Doctor When trivia event starting soon, so on to the last question: The bonus question."
-    jud ""
+    jud "I have a Doctor When trivia event starting soon, so on to the last question: The bonus question."
 
 # game/v11/scene30.rpy:908
 translate francais v11_quiz_bonus_45684557:
 
     # jud "Since we are tied, in order for a win, one team must be correct and the other must get it incorrect."
-    jud ""
+    jud "Since we are tied, in order for a win, one team must be correct and the other must get it incorrect."
 
 # game/v11/scene30.rpy:913
 translate francais v11_quiz_bonus_4e593833:
 
     # jer "You two may leave now if you'd like."
-    jer ""
+    jer "You two may leave now if you'd like."
 
 # game/v11/scene30.rpy:918
 translate francais v11_quiz_bonus_94d5c032:
 
     # u "After you, Jerry."
-    u ""
+    u "After you, Jerry."
 
 # game/v11/scene30.rpy:922
 translate francais v11_quiz_bonus_6d520103:
 
     # jud "To win, Team Pofflehoof must get the answer correct, and Jerry must not."
-    jud ""
+    jud "To win, Team Pofflehoof must get the answer correct, and Jerry must not."
 
 # game/v11/scene30.rpy:927
 translate francais v11_quiz_bonus_fd17c7e0:
 
     # jer "Impossible."
-    jer ""
+    jer "Impossible."
 
 # game/v11/scene30.rpy:932
 translate francais v11_quiz_bonus_57ae9944_1:
 
     # u "*Sighs*"
-    u ""
+    u "*Sighs*"
 
 # game/v11/scene30.rpy:937
 translate francais v11_quiz_bonus_30b33d36:
 
     # jud "So, the final question. What kind of dragon protected the vaults at Greengoat Bank?"
-    jud ""
+    jud "So, the final question. What kind of dragon protected the vaults at Greengoat Bank?"
 
 # game/v11/scene30.rpy:942
 translate francais v11_quiz_bonus_08dc062a:
 
     # jer "Will you repeat the question?"
-    jer ""
+    jer "Will you repeat the question?"
 
 # game/v11/scene30.rpy:947
 translate francais v11_quiz_bonus_e572d911:
 
     # u "There a problem Jerry? *Chuckles*"
-    u ""
+    u "There a problem Jerry? *Chuckles*"
 
 # game/v11/scene30.rpy:952
 translate francais v11_quiz_bonus_df3ad17e:
 
     # jer "*Groan* Nevermind, I know the answer."
-    jer ""
+    jer "*Groan* Nevermind, I know the answer."
 
 # game/v11/scene30.rpy:957
 translate francais v11_quiz_bonus_28547bab:
 
     # la "*Whisper* I got this one, [name]."
-    la ""
+    la "*Whisper* I got this one, [name]."
 
 # game/v11/scene30.rpy:962
 translate francais v11_quiz_bonus_588668e4:
 
     # u "*Whisper* You sure?"
-    u ""
+    u "*Whisper* You sure?"
 
 # game/v11/scene30.rpy:967
 translate francais v11_quiz_bonus_dbbb232b:
 
     # la "*Whisper* Oh... I'm more than sure."
-    la ""
+    la "*Whisper* Oh... I'm more than sure."
 
 # game/v11/scene30.rpy:972
 translate francais v11_quiz_bonus_05517bf0:
 
     # jud "Are we ready?"
-    jud ""
+    jud "Are we ready?"
 
 # game/v11/scene30.rpy:977
 translate francais v11_quiz_bonus_9c4528ac:
 
     # la "Yes, ma'am. We're ready."
-    la ""
+    la "Yes, ma'am. We're ready."
 
 # game/v11/scene30.rpy:982
 translate francais v11_quiz_bonus_deee84b6:
 
     # jer "One moment."
-    jer ""
+    jer "One moment."
 
 # game/v11/scene30.rpy:987
 translate francais v11_quiz_bonus_b6149354:
 
     # jud "JERRY! *Deep breath* Please, put your phone away."
-    jud ""
+    jud "JERRY! *Deep breath* Please, put your phone away."
 
 # game/v11/scene30.rpy:992
 translate francais v11_quiz_bonus_10b06eb1:
 
     # jer "Uhh, sorry. My mother... she um, sorry."
-    jer ""
+    jer "Uhh, sorry. My mother... she um, sorry."
 
 # game/v11/scene30.rpy:997
 translate francais v11_quiz_bonus_9f58269c:
 
     # jud "Answers please."
-    jud ""
+    jud "Answers please."
 
 # game/v11/scene30.rpy:1010
 translate francais v11_quiz_bonus_a9beeb64:
 
     # jud "For the first time in a very stressful two months, Jerry you have lost. Congratulations Team Pofflehoof!"
-    jud ""
+    jud "For the first time in a very stressful two months, Jerry you have lost. Congratulations Team Pofflehoof!"
 
 # game/v11/scene30.rpy:1015
 translate francais v11_quiz_bonus_5c142d97:
 
     # jer "No! This isn't fair, they must've cheated! I want a redo right now, there's no way they knew that and I didn't."
-    jer ""
+    jer "No! This isn't fair, they must've cheated! I want a redo right now, there's no way they knew that and I didn't."
 
 # game/v11/scene30.rpy:1020
 translate francais v11_quiz_bonus_e2d1d94f:
 
     # jud "Security, please escort this man outside."
-    jud ""
+    jud "Security, please escort this man outside."
 
 # game/v11/scene30.rpy:1030
 translate francais v11_quiz_bonus_4b6b094d:
 
     # u "What a shame, he was starting to grow on me."
-    u ""
+    u "What a shame, he was starting to grow on me."
 
 # game/v11/scene30.rpy:1035
 translate francais v11_quiz_bonus_7081dfdd:
 
     # la "Haha, I bet he was."
-    la ""
+    la "Haha, I bet he was."
 
 # game/v11/scene30.rpy:1045
 translate francais v11_quiz_bonus_7e9d2368:
 
     # jud "You are both very good sports, thank you for participating. Please feel free to explore the assortment of fan material we have."
-    jud ""
+    jud "You are both very good sports, thank you for participating. Please feel free to explore the assortment of fan material we have."
 
 # game/v11/scene30.rpy:1050
 translate francais v11_quiz_bonus_3a505e1e:
 
     # la "Thank you very much."
-    la ""
+    la "Thank you very much."
 
 # game/v11/scene30.rpy:1065
 translate francais v11_quiz_bonus_7969f01d:
 
     # la "I'm glad we won, but it feels even better knowing we beat that jerk."
-    la ""
+    la "I'm glad we won, but it feels even better knowing we beat that jerk."
 
 # game/v11/scene30.rpy:1077
 translate francais v11_quiz_bonus_1013dc4a:
 
     # la "And that's for sticking up for me."
-    la ""
+    la "And that's for sticking up for me."
 
 # game/v11/scene30.rpy:1082
 translate francais v11_quiz_bonus_59358e82:
 
     # u "I would never let anyone disrespect you."
-    u ""
+    u "I would never let anyone disrespect you."
 
 # game/v11/scene30.rpy:1087
 translate francais v11_quiz_bonus_50dd5c6d:
 
     # la "*Chuckles* You're so sweet."
-    la ""
+    la "*Chuckles* You're so sweet."
 
 # game/v11/scene30.rpy:1093
 translate francais v11_quiz_bonus_71136618:
 
     # u "It took everything in me not to jump across the table when he started name-calling."
-    u ""
+    u "It took everything in me not to jump across the table when he started name-calling."
 
 # game/v11/scene30.rpy:1098
 translate francais v11_quiz_bonus_2adaafa0:
 
     # la "You did just fine."
-    la ""
+    la "You did just fine."
 
 # game/v11/scene30.rpy:1103
 translate francais v11_quiz_bonus_dd8a1591:
 
     # la "Let's check out the books."
-    la ""
+    la "Let's check out the books."
 
 # game/v11/scene30.rpy:1108
 translate francais v11_quiz_bonus_45918ba4:
 
     # u "Sounds good."
-    u ""
+    u "Sounds good."
 
 # game/v11/scene30.rpy:1133
 translate francais v11_quiz_bonus_993451b8:
 
     # la "Question."
-    la ""
+    la "Question."
 
 # game/v11/scene30.rpy:1138
 translate francais v11_quiz_bonus_d31d2bee:
 
     # u "Answer."
-    u ""
+    u "Answer."
 
 # game/v11/scene30.rpy:1143
 translate francais v11_quiz_bonus_ef6c5c55:
 
     # la "*Chuckles* Okay, how many HP books are there?"
-    la ""
+    la "*Chuckles* Okay, how many HP books are there?"
 
 # game/v11/scene30.rpy:1155
 translate francais v11_quiz_bonus_d7ef02d6:
 
     # u "I don't know, seven?"
-    u ""
+    u "I don't know, seven?"
 
 # game/v11/scene30.rpy:1160
 translate francais v11_quiz_bonus_6d9f6bed:
 
     # la "Yep, but there's eight movies."
-    la ""
+    la "Yep, but there's eight movies."
 
 # game/v11/scene30.rpy:1168
 translate francais v11_quiz_bonus_5035bed3:
 
     # u "Hmm, 8 right?"
-    u ""
+    u "Hmm, 8 right?"
 
 # game/v11/scene30.rpy:1173
 translate francais v11_quiz_bonus_d5df68b1:
 
     # la "Nope, there's eight movies, but there's only seven books. The last book was cut into two parts for the movie."
-    la ""
+    la "Nope, there's eight movies, but there's only seven books. The last book was cut into two parts for the movie."
 
 # game/v11/scene30.rpy:1178
 translate francais v11_quiz_bonus_56107fed:
 
     # u "Someone really knows their stuff..."
-    u ""
+    u "Someone really knows their stuff..."
 
 # game/v11/scene30.rpy:1183
 translate francais v11_quiz_bonus_66a1fa42:
 
     # la "*Chuckles* We're all fans of something."
-    la ""
+    la "*Chuckles* We're all fans of something."
 
 # game/v11/scene30.rpy:1188
 translate francais v11_quiz_bonus_20469e69:
 
     # la "Oh my gosh, look look look!"
-    la ""
+    la "Oh my gosh, look look look!"
 
 # game/v11/scene30.rpy:1193
 translate francais v11_quiz_bonus_ef2f1671:
 
     # u "What?"
-    u ""
+    u "What?"
 
 # game/v11/scene30.rpy:1198
 translate francais v11_quiz_bonus_29e2f9ac:
 
     # la "They have robes here. C'mon."
-    la ""
+    la "They have robes here. C'mon."
 
 # game/v11/scene30.rpy:1213
 translate francais v11_quiz_bonus_2b130a77:
 
     # la "Ahhh, this looks too cool! Here, here!"
-    la ""
+    la "Ahhh, this looks too cool! Here, here!"
 
 # game/v11/scene30.rpy:1223
 translate francais v11_quiz_bonus_1fafc031:
 
     # la "I love it! [name] The Wizard!"
-    la ""
+    la "I love it! [name] The Wizard!"
 
 # game/v11/scene30.rpy:1228
 translate francais v11_quiz_bonus_0fa2a6e2:
 
     # u "I don't think I've ever seen you this happy."
-    u ""
+    u "I don't think I've ever seen you this happy."
 
 # game/v11/scene30.rpy:1233
 translate francais v11_quiz_bonus_dca3b436:
 
     # la "I don't think I've ever been this happy *Chuckles*"
-    la ""
+    la "I don't think I've ever been this happy *Chuckles*"
 
 # game/v11/scene30.rpy:1238
 translate francais v11_quiz_bonus_7cc21e12:
 
     # la "EXCUSE ME, MA'AM?"
-    la ""
+    la "EXCUSE ME, MA'AM?"
 
 # game/v11/scene30.rpy:1253
 translate francais v11_quiz_bonus_f012e4bc:
 
     # jud "How can I help you?"
-    jud ""
+    jud "How can I help you?"
 
 # game/v11/scene30.rpy:1258
 translate francais v11_quiz_bonus_de3bcbdc:
 
     # la "Could you please take our picture?"
-    la ""
+    la "Could you please take our picture?"
 
 # game/v11/scene30.rpy:1263
 translate francais v11_quiz_bonus_eaf23fc9:
 
     # u "Oh, she doesn't have to do that."
-    u ""
+    u "Oh, she doesn't have to do that."
 
 # game/v11/scene30.rpy:1268
 translate francais v11_quiz_bonus_1c5e391d:
 
     # jud "I'd be happy to! Please, squish together a bit."
-    jud ""
+    jud "I'd be happy to! Please, squish together a bit."
 
 # game/v11/scene30.rpy:1280
 translate francais v11_quiz_bonus_ab0c89c0:
 
     # jud "Wow, such a lovely couple."
-    jud ""
+    jud "Wow, such a lovely couple."
 
 # game/v11/scene30.rpy:1285
 translate francais v11_quiz_bonus_7014f4e8:
 
     # jud "Let's get a good one with these."
-    jud ""
+    jud "Let's get a good one with these."
 
 # game/v11/scene30.rpy:1295
 translate francais v11_quiz_bonus_6b41967e:
 
     # la "Oh my gosh, this is turning out to be the best day ever..."
-    la ""
+    la "Oh my gosh, this is turning out to be the best day ever..."
 
 # game/v11/scene30.rpy:1300
 translate francais v11_quiz_bonus_b54e4039:
 
     # u "Haha."
-    u ""
+    u "Haha."
 
 # game/v11/scene30.rpy:1310
 translate francais v11_quiz_bonus_c2ca86b4:
 
     # jud "Just perfect! Here's your phone... Please, keep the robe and the wands as a reward for winning the contest and being such wonderful contestants."
-    jud ""
+    jud "Just perfect! Here's your phone... Please, keep the robe and the wands as a reward for winning the contest and being such wonderful contestants."
 
 # game/v11/scene30.rpy:1315
 translate francais v11_quiz_bonus_eeedeab1:
 
     # la "Oh my, thank you so much!"
-    la ""
+    la "Oh my, thank you so much!"
 
 # game/v11/scene30.rpy:1320
 translate francais v11_quiz_bonus_330cc592:
 
     # jud "No, thank you."
-    jud ""
+    jud "No, thank you."
 
 # game/v11/scene30.rpy:1330
 translate francais v11_quiz_bonus_29368d8f:
 
     # la "This day couldn't have been better, [name]. Thank you so much for coming with me."
-    la ""
+    la "This day couldn't have been better, [name]. Thank you so much for coming with me."
 
 # game/v11/scene30.rpy:1335
 translate francais v11_quiz_bonus_2bf26a0e:
 
     # u "Wouldn't have missed it for the world."
-    u ""
+    u "Wouldn't have missed it for the world."
 
 # game/v11/scene30.rpy:1344
 translate francais v11_quiz_bonus_4c31808f:
 
     # la "[name]."
-    la ""
+    la "[name]."
 
 # game/v11/scene30.rpy:1349
 translate francais v11_quiz_bonus_7cbc76d9:
 
     # u "Yes?"
-    u ""
+    u "Yes?"
 
 # game/v11/scene30.rpy:1354
 translate francais v11_quiz_bonus_e779a37b:
 
     # la "I... I love you."
-    la ""
+    la "I... I love you."
 
 # game/v11/scene30.rpy:1368
 translate francais v11_quiz_bonus_b0f5c1cc:
 
     # u "I love you too, Lauren."
-    u ""
+    u "I love you too, Lauren."
 
 # game/v11/scene30.rpy:1384
 translate francais v11_quiz_bonus_65b7843b:
 
     # u "*Laughs* Someone's under a love spell."
-    u ""
+    u "*Laughs* Someone's under a love spell."
 
 # game/v11/scene30.rpy:1389
 translate francais v11_quiz_bonus_250861e4:
 
     # la "Um... haha, yeah."
-    la ""
+    la "Um... haha, yeah."
 
 # game/v11/scene30.rpy:1395
 translate francais v11_quiz_bonus_f2b04fb2:
 
     # la "If it was my choice I'd spend all day with you exploring Hogwash, but I promised Riley I'd help her out with something, so I have to run."
-    la ""
+    la "If it was my choice I'd spend all day with you exploring Hogwash, but I promised Riley I'd help her out with something, so I have to run."
 
 # game/v11/scene30.rpy:1400
 translate francais v11_quiz_bonus_4fdf8702:
 
     # u "No worries, I'll see you. Here."
-    u ""
+    u "No worries, I'll see you. Here."
 
 # game/v11/scene30.rpy:1415
 translate francais v11_quiz_bonus_a940b19e:
 
     # la "Thanks, I'll send you our pictures."
-    la ""
+    la "Thanks, I'll send you our pictures."
 
 # game/v11/scene30.rpy:1426
 translate francais v11_quiz_bonus_4ffcc1bb:
 
     # u "(She said she loved me.)"
-    u ""
+    u "(She said she loved me.)"
 
 # game/v11/scene30.rpy:1430
 translate francais v11_quiz_bonus_bca64d41:
 
     # u "(Probably our pictures.)"
-    u ""
+    u "(Probably our pictures.)"
 
 # game/v11/scene30.rpy:1441
 translate francais v11s30_PhoneContinuelauren2_88d710ce:
 
     # u "(I should check my phone.)"
-    u ""
+    u "(I should check my phone.)"
 
 # game/v11/scene30.rpy:1448
 translate francais v11s30_PhoneContinuelauren2_e67b0b5f:
 
     # u "(Wow, that was really nice.)"
-    u ""
+    u "(Wow, that was really nice.)"
 
 # game/v11/scene30.rpy:1452
 translate francais v11s30_PhoneContinuelauren2_8fa0b9ac:
 
     # u "(Probably our picture.)"
-    u ""
+    u "(Probably our picture.)"
 
 # game/v11/scene30.rpy:1462
 translate francais v11s30_PhoneContinuelauren1_27ecbc47:
 
     # u "(I should reply to Lauren.)"
-    u ""
+    u "(I should reply to Lauren.)"
 
 # game/v11/scene30.rpy:1468
 translate francais v11s30_PhoneContinuelauren1_f4fe3f3a:
 
     # u "(That's how you start a day off right. Let's see what else today has to offer.)"
-    u ""
+    u "(That's how you start a day off right. Let's see what else today has to offer.)"
 
 translate francais strings:
 
     # game/v11/scene30.rpy:469
     old "Friggindoor"
-    new ""
+    new "Friggindoor"
 
     # game/v11/scene30.rpy:469
     old "Theremin"
-    new ""
+    new "Theremin"
 
     # game/v11/scene30.rpy:554
     old "13"
-    new ""
+    new "13"
 
     # game/v11/scene30.rpy:554
     old "29"
-    new ""
+    new "29"
 
     # game/v11/scene30.rpy:752
     old "12 Someold Place"
-    new ""
+    new "12 Someold Place"
 
     # game/v11/scene30.rpy:752
     old "Ministry of Fisheries"
-    new ""
+    new "Ministry of Fisheries"
 
     # game/v11/scene30.rpy:1148
     old "7"
-    new ""
+    new "7"
 
     # game/v11/scene30.rpy:1148
     old "8"
-    new ""
+    new "8"
 
     # game/v11/scene30.rpy:1359
     old "I love you too"
-    new ""
+    new "I love you too"
 
     # game/v11/scene30.rpy:1359
     old "Play it off"
-    new ""
+    new "Play it off"
 
