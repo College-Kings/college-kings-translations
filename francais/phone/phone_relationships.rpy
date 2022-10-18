@@ -8,13 +8,13 @@ translate francais strings:
 
     # game/phone/phone_relationships.rpy:64
     old "Kissed"
-    new "Kissed"
+    new "Embrassé"
 
     # game/phone/phone_relationships.rpy:69
     old "Friends with Benefits"
-    new "Friends with Benefits"
+    new "Amis avec avantages"
 
     # game/phone/phone_relationships.rpy:74
     old "Dating"
-    new "Dating"
+    new "Rencard"
 

@@ -4,21 +4,21 @@ translate francais strings:
 
     # game/inventory.rpy:37
     old "Honey"
-    new "Honey"
+    new "Miel"
 
     # game/inventory.rpy:44
     old "Butt Plug"
-    new "Butt Plug"
+    new "Plug anal"
 
     # game/inventory.rpy:51
     old "Spankers"
-    new "Spankers"
+    new "Martinet"
 
     # game/inventory.rpy:58
     old "Cuffs"
-    new "Cuffs"
+    new "Menottes"
 
     # game/inventory.rpy:65
     old "Feather"
-    new "Feather"
+    new "Plume"
 
