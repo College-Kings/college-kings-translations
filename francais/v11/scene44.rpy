@@ -375,9 +375,9 @@ translate francais v11_nora_lingerie_b0a6ae65:
 translate francais strings:
 
     # game/v11/scene44.rpy:285
-    old "Pink"
+    old "Pink "
     new "Rose"
 
     # game/v11/scene44.rpy:285
-    old "White"
+    old "White "
     new "Blanc"

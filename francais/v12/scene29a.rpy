@@ -781,7 +781,7 @@ translate francais strings:
     new "La meilleure assureuse au monde"
 
     # game/v12/scene29a.rpy:838
-    old "Hard"
+    old "Hard "
     new "Difficile"
 # TODO: Translation updated at 2022-01-28 16:12
 

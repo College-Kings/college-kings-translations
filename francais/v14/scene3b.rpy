@@ -142,7 +142,7 @@ translate francais v14s03b_11b75582:
 translate francais v14s03b_71348704:
 
     # ry "Promise you won't tell anyone?"
-    ry "Tu promets que tu ne le diras à personne ?"
+    ry "Tu promets que tu ne le diras à personne ? "
 
 # game/v14/scene3b.rpy:128
 translate francais v14s03b_a813e760:
@@ -172,7 +172,7 @@ translate francais v14s03b_fcc18885:
 translate francais v14s03b_7871cffb:
 
     # ry "*Whispers* Don't laugh!"
-    ry "*Chuchote* Ne ris pas !"
+    ry "*Chuchote* Ne ris pas ! "
 
 # game/v14/scene3b.rpy:160
 translate francais v14s03b_c96f7789:

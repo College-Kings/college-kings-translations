@@ -193,5 +193,5 @@ translate francais strings:
     new "Se reculer"
 
     # game/v11/scene41.rpy:122
-    old "Continue"
+    old "Continue "
     new "Continuer"

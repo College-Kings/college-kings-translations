@@ -1699,11 +1699,11 @@ translate francais strings:
     new "Plaisanter"
 
     # game/v10/scene15.rpy:402
-    old "Orange"
+    old "Orange "
     new "Orange"
 
     # game/v10/scene15.rpy:402
-    old "Blue"
+    old "Blue "
     new "Bleu"
 
     # game/v10/scene15.rpy:427
