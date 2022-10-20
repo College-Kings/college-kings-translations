@@ -1,24 +1,75 @@
-﻿# TODO: Translation updated at 2022-10-11 06:39
+init python:
+    class KCT(Enum):
+        BRO = "bro"
+        BOYFRIEND = "boyfriend"
+        TROUBLEMAKER = "troublemaker"
 
-translate francais strings:
 
-    # game/kct.rpy:3
-    old "bro"
-    new "bro"
+    def add_point(var, value=1):
+        # Don't update kct if kct is locked
+        if locked_kct or _in_replay:
+            return
 
-    # game/kct.rpy:4
-    old "boyfriend"
-    new "boyfriend"
+        if pb_kct_notification:
+            renpy.show_screen("popup", message="{} point ajoute".format(var.value.capitalize()))
 
-    # game/kct.rpy:5
-    old "troublemaker"
-    new "troublemaker"
+        # Update the KCT variables
+        setattr(store, var.value, getattr(store, var.value) + value)
 
-    # game/kct.rpy:63
-    old "Congratulations! Your Key Character Trait {b}[kct]{/b} has just changed the outcome of a decision someone was making."
-    new "Congratulations! Your Key Character Trait {b}[kct]{/b} has just changed the outcome of a decision someone was making."
+        old_kct = kct
 
-    # game/kct.rpy:65
-    old "Unfortunately, your Key Character Trait {b}[kct]{/b} did not change the outcome of this decision."
-    new "Unfortunately, your Key Character Trait {b}[kct]{/b} did not change the outcome of this decision."
+        # Sort KCT values
+        kctDict = {
+            "popular":bro * troublemaker / float(boyfriend),
+            "confident": boyfriend * troublemaker / float(bro),
+            "loyal": bro * boyfriend / float(troublemaker)
+        }
 
+        store.sortedKCT = [k for k, v in sorted(kctDict.items(), key=lambda item: item[1], reverse=True)]
+
+        # Update KCT
+        store.kct = sortedKCT[0]
+
+        # Notify user on KCT change
+        if sortedKCT[0] != old_kct:
+            renpy.notify("Ton trait de caractere cle a change en " + kct)
+
+
+# KCT Screens
+screen kct_choice_hint():
+    style_prefix "kct_choice"
+
+    frame:
+        xalign 1.0
+        xoffset -100
+
+        background "gui/kct/background_{}.webp".format(kct)
+
+        hbox:
+            spacing 5
+            align (0.5, 0.5)
+            xoffset 20
+
+            add Transform("gui/kct/logo.webp", zoom=0.2382) yalign 0.5
+
+            text kct.upper() yalign 0.5
+
+style kct_choice_text is syne_extra_bold_22
+
+
+screen kct_popup(required_kct=None):
+    modal True
+    zorder 300
+
+    if required_kct is None or required_kct == kct:
+        $ message = "Felicitations ! Ton trait de caractere cle {{b}}{}{{/b}} vient de changer l'issue d'une decision que quelqu'un était en train de prendre.".format(kct)
+    else:
+        $ message = "Malheureusement, ton Trait de caractere cle {{b}}{}{/b}} n'a pas change l'issue de cette decision.".format(kct)
+
+    use alert_template(message):
+        textbutton "OK":
+            align (0.5, 1.0)
+            action Return()
+
+    if config_debug:
+        timer 0.1 action Return()

@@ -1,80 +1,79 @@
-﻿# TODO: Translation updated at 2022-10-11 06:39
+﻿# TODO: Translation updated at 2022-01-08 13:20
 
 # game/v13/scene60.rpy:22
 translate francais v13s60_f274cdc9:
 
     # au "Hey, would you mind taking another pic for me so I can post it to my Kiwii?"
-    au "Hey, would you mind taking another pic for me so I can post it to my Kiwii?"
+    au "Hé, ça te dérangerait de prendre une autre photo pour que je puisse la poster sur Kiwii ?"
 
 # game/v13/scene60.rpy:27
 translate francais v13s60_225a8c75:
 
     # u "You're gonna need to put me on payroll eventually. *Laughs* How do you want them?"
-    u "You're gonna need to put me on payroll eventually. *Laughs* How do you want them?"
+    u "Tu vas devoir me faire une fiche de paie un jour ou l'autre. *Rire* Comment la veux-tu ?"
 
 # game/v13/scene60.rpy:32
 translate francais v13s60_74503c68:
 
     # au "*Chuckles* I was thinking something from a higher angle if we could."
-    au "*Chuckles* I was thinking something from a higher angle if we could."
+    au "*Rire* Je pensais à quelque chose d'un angle plus élevé si on pouvait."
 
 # game/v13/scene60.rpy:42
 translate francais v13s60_110ad001:
 
     # au "Think you can get up there?"
-    au "Think you can get up there?"
+    au "Tu penses pouvoir monter là-dessus ?"
 
 # game/v13/scene60.rpy:47
 translate francais v13s60_4d1553f2:
 
     # u "I'm sure I can get up there, but it does look pretty risky."
-    u "I'm sure I can get up there, but it does look pretty risky."
+    u "Je suis sûr que je peux monter dessus, mais ça a l'air plutôt risqué."
 
 # game/v13/scene60.rpy:52
 translate francais v13s60_f122006d:
 
     # au "Pleaseeeeee?"
-    au "Pleaseeeeee?"
+    au "S'il te plaîîîîîît !"
 
 # game/v13/scene60.rpy:57
 translate francais v13s60_93e09692:
 
     # u "*Sighs* Alrighty."
-    u "*Sighs* Alrighty."
+    u "*Soupirs* D'accord."
 
 # game/v13/scene60.rpy:94
 translate francais v13s60_958fee6c:
 
     # u "Oh, fuck! Fuck, fuck, fuck!"
-    u "Oh, fuck! Fuck, fuck, fuck!"
+    u "Oh, merde ! Merde, merde, merde !"
 
 # game/v13/scene60.rpy:99
 translate francais v13s60_a2310ab8:
 
     # au "Oh my god, [name]!"
-    au "Oh my god, [name]!"
+    au "Oh non, [name] !"
 
 # game/v13/scene60.rpy:104
 translate francais v13s60_152ea5b2:
 
     # au "I'm so sorry, are you okay? What hurts?!"
-    au "I'm so sorry, are you okay? What hurts?!"
+    au "Je suis désolée, ça va ? Où as-tu mal ?"
 
 # game/v13/scene60.rpy:109
 translate francais v13s60_11c20ba2:
 
     # u "My head... IT'S BAD!"
-    u "My head... IT'S BAD!"
+    u "Ma tête... J'AI TROP MAL !"
 
 # game/v13/scene60.rpy:114
 translate francais v13s60_7a5fa0e8:
 
     # u "My... My vision is going blurry..."
-    u "My... My vision is going blurry..."
+    u "Ma... Ma vision devient... floue..."
 
 # game/v13/scene60.rpy:124
 translate francais v13s60_ba6bc577:
 
     # au "I'm gonna get you back to the hotel, just bear with me, okay?"
-    au "I'm gonna get you back to the hotel, just bear with me, okay?"
-
+    au "Je vais te ramener à l'hôtel, tiens-toi à moi, ok ?"
