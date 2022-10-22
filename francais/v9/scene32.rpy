@@ -174,3 +174,11 @@ translate francais s32_PhoneContinue_d172984c:
 
     # u "(I should reply to Riley.)"
     u "(Je devrais répondre à Riley.)"
+# TODO: Translation updated at 2022-10-22 12:20
+
+translate francais strings:
+
+    # game/v9/scene32.rpy:161
+    old "Duh, that's why I'm asking ;)"
+    new "Duh, that's why I'm asking ;)"
+

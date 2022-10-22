@@ -90,3 +90,19 @@ translate francais strings:
     new "Êtes-vous sûr de vouloir mettre fin à la liberté d'action avec Riley ?"
 
     
+# TODO: Translation updated at 2022-10-22 12:20
+
+translate francais strings:
+
+    # game/v7/v7_screens.rpy:105
+    old "Lauren would kill me if I asked someone other than her."
+    new "Lauren would kill me if I asked someone other than her."
+
+    # game/v7/v7_screens.rpy:758
+    old "hide overlay"
+    new "hide overlay"
+
+    # game/v7/v7_screens.rpy:762
+    old "show overlay"
+    new "show overlay"
+

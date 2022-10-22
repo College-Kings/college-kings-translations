@@ -239,3 +239,17 @@ translate francais v11_nora_airport_convo_ab8f07e5:
 
     # ri "Now be happy! We're on vacation, grumpy man."
     ri "Maintenant, sois heureux ! On est en vacances, monsieur le grincheux."
+# TODO: Translation updated at 2022-10-22 12:20
+
+# game/v11/scene15.rpy:156
+translate francais v11_nora_airport_convo_9fe4d1d5:
+
+    # charli "Pfft. I was just trying to be friendly. But if you wanna make this some petty, jealousy feud, sure. Go ahead."
+    charli "Pfft. I was just trying to be friendly. But if you wanna make this some petty, jealousy feud, sure. Go ahead."
+
+# game/v11/scene15.rpy:158
+translate francais v11_nora_airport_convo_a56faefe:
+
+    # charli "Just know that we could've been good friends and your life would be a whole lot easier."
+    charli "Just know that we could've been good friends and your life would be a whole lot easier."
+

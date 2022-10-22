@@ -1424,3 +1424,17 @@ translate francais v11_case_verdict_abc39474:
 
     # u "Thank you, Mr. Lee."
     u "Merci, Mr Lee."
+# TODO: Translation updated at 2022-10-22 12:20
+
+# game/v11/scene1.rpy:1095
+translate francais v11_case_verdict_4cbf4776:
+
+    # lee "Alongside that, you will be volunteering with a university research company."
+    lee "Alongside that, you will be volunteering with a university research company."
+
+# game/v11/scene1.rpy:1096
+translate francais v11_case_verdict_d064b1b4:
+
+    # lee "They're in great need of computer-inclined individuals such as yourself for the remainder of your time here at the college. Do you agree?"
+    lee "They're in great need of computer-inclined individuals such as yourself for the remainder of your time here at the college. Do you agree?"
+

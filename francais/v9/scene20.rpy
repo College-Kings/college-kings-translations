@@ -62,3 +62,15 @@ translate francais s20_phoneExit2_4b007b2e:
 
     # u "(I should reply to that post on Kiwii)"
     u "(Je devrais répondre à ce post sur Kiwii.)"
+# TODO: Translation updated at 2022-10-22 12:20
+
+translate francais strings:
+
+    # game/v9/scene20.rpy:25
+    old "Fuck yeah!"
+    new "Fuck yeah!"
+
+    # game/v9/scene20.rpy:56
+    old "Let's go!!"
+    new "Let's go!!"
+

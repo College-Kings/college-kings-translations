@@ -381,3 +381,11 @@ translate francais strings:
     # game/v11/scene44.rpy:285
     old "White "
     new "Blanc"
+# TODO: Translation updated at 2022-10-22 12:20
+
+translate francais strings:
+
+    # game/v11/scene44.rpy:285
+    old "Pink"
+    new "Pink"
+

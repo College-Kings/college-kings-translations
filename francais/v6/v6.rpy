@@ -11976,3 +11976,11 @@ translate francais strings:
     # game/v6/v6.rpy:10070
     old "At least we got to talk"
     new "Au moins, on a pu parler"
+# TODO: Translation updated at 2022-10-22 12:20
+
+translate francais strings:
+
+    # game/v6/v6.rpy:6191
+    old "Choose your bowling name:"
+    new "Choose your bowling name:"
+

@@ -2488,3 +2488,11 @@ translate francais v10s15_c3_74406210_1:
 
     # u "Something like that."
     u "Un truc comme ça."
+# TODO: Translation updated at 2022-10-22 12:20
+
+translate francais strings:
+
+    # game/v10/scene15.rpy:512
+    old "Orange"
+    new "Orange"
+

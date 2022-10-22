@@ -59,3 +59,23 @@ translate francais fight_tutorialLabel_bf9a21c1_1:
 
     # tut "Since Tom has his guard up and could probably block both a jab and a hook, try to kick him by pressing {b}[r!u]{/b} in the upcoming screen."
     tut "Puisque Tom est en garde et qu'il devrait pouvoir bloquer à la fois un direct et un crochet, essayez de lui donner un coup de pied en appuyant sur {b}[r!u]{/b} dans l'écran qui suit."
+# TODO: Translation updated at 2022-10-22 12:20
+
+translate francais strings:
+
+    # game/old_fight/old_fight_labels.rpy:47
+    old "Which button should be hook / block face?"
+    new "Which button should be hook / block face?"
+
+    # game/old_fight/old_fight_labels.rpy:52
+    old "Which button should be jab / block head"
+    new "Which button should be jab / block head"
+
+    # game/old_fight/old_fight_labels.rpy:57
+    old "Which button should be kick / block leg?"
+    new "Which button should be kick / block leg?"
+
+    # game/old_fight/old_fight_labels.rpy:63
+    old "Which button should be body hook / low guard?"
+    new "Which button should be body hook / low guard?"
+

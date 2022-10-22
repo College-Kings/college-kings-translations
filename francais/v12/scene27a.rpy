@@ -583,3 +583,15 @@ translate francais strings:
     # game/v12/scene27a.rpy:409
     old "It's not your best look"
     new "Ce n'est pas ton meilleur look"
+# TODO: Translation updated at 2022-10-22 12:20
+
+translate francais strings:
+
+    # game/v12/scene27a.rpy:383
+    old "Holy shit... You make it way too easy, Ryan!"
+    new "Holy shit... You make it way too easy, Ryan!"
+
+    # game/v12/scene27a.rpy:384
+    old "Haha, yes! That's what you get, moron..."
+    new "Haha, yes! That's what you get, moron..."
+
