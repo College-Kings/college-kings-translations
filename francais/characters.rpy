@@ -458,3 +458,11 @@ translate francais strings:
     old "Wolf Trainer"
     new "Wolf Trainer"
 
+# TODO: Translation updated at 2022-11-01 00:51
+
+translate francais strings:
+
+    # game/characters.rpy:151
+    old "Kourtney"
+    new "Kourtney"
+

@@ -394,3 +394,11 @@ translate francais strings:
     old "Don't let Ryan catch an STD"
     new "Don't let Ryan catch an STD"
 
+# TODO: Translation updated at 2022-11-01 00:51
+
+translate francais strings:
+
+    # game/achievements.rpy:73
+    old "Help Imre"
+    new "Help Imre"
+

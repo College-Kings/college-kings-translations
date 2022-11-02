@@ -395,3 +395,15 @@ translate francais strings:
     # game/v11/scene29.rpy:345
     old "Tease"
     new "Taquin"
+# TODO: Translation updated at 2022-11-01 00:51
+
+translate francais strings:
+
+    # game/v11/scene29.rpy:40
+    old "Save Lauren"
+    new "Save Lauren"
+
+    # game/v11/scene29.rpy:40
+    old "Save Riley"
+    new "Save Riley"
+

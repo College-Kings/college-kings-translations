@@ -882,3 +882,11 @@ translate francais v11_nora_chloe_hallway_7a91b8cb:
 
     # u "(I need to get home and pack.)"
     u "(Je devrais rentrer chez moi et faire mes bagages.)"
+# TODO: Translation updated at 2022-11-01 00:51
+
+translate francais strings:
+
+    # game/v11/scene2.rpy:121
+    old "Don't defend Chloe"
+    new "Don't defend Chloe"
+

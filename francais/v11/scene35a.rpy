@@ -347,3 +347,11 @@ translate francais v11_chloe_hotel_room_amber_call_dface589:
 
     # imre "GET THE FUCK OFF ME!"
     imre "LÂCHE-MOI, PUTAIN !"
+# TODO: Translation updated at 2022-11-01 00:51
+
+# game/v11/scene35a.rpy:187
+translate francais v11_chloe_hotel_room_amber_call_4e4da660:
+
+    # cl "\"Such a beautiful couple\", that guy was so sweet to us. He thought he had a sale though, now I feel bad..."
+    cl "\"Such a beautiful couple\", that guy was so sweet to us. He thought he had a sale though, now I feel bad..."
+

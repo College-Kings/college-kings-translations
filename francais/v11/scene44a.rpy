@@ -257,3 +257,11 @@ translate francais v11_rose_underground_23a1a064:
 
     # ro "And... we're finally moving! Just another few minutes now, students."
     ro "Et... c'est reparti ! Encore quelques minutes et on y est."
+# TODO: Translation updated at 2022-11-01 00:51
+
+translate francais strings:
+
+    # game/v11/scene44a.rpy:167
+    old "Leave her be"
+    new "Leave her be"
+
