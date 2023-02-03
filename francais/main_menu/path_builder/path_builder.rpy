@@ -52,7 +52,7 @@ translate francais strings:
 
     # game/main_menu/path_builder/path_builder.rpy:432
     old "Show preferred KCT for each girl"
-    new "Montrer le KTC préféré pour chaque fille"
+    new "Montrer le KCT préféré pour chaque fille"
 
     # game/main_menu/path_builder/path_builder.rpy:444
     old "Show a notification whenever you gain KCT points"
