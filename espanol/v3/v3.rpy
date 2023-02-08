@@ -4,103 +4,103 @@
 translate espanol v3start_fa90d2f1:
 
     # u "(Who could that be?)"
-    u "(Who could that be?)"
+    u "(¿Quién puede ser?)"
 
 # game/v3/v3.rpy:18
 translate espanol v3start_c8fc4dc6:
 
     # u "Chloe? What are you doing here?"
-    u "Chloe? What are you doing here?"
+    u "¿Chloe? Qué haces acá?"
 
 # game/v3/v3.rpy:23
 translate espanol v3start_4ebd6072:
 
     # cl "Hey, uhm... Do you have a minute?"
-    cl "Hey, uhm... Do you have a minute?"
+    cl "Este, ehm... ¿Tenés un minuto?"
 
 # game/v3/v3.rpy:28
 translate espanol v3start_ed163feb:
 
     # u "Sure, come in."
-    u "Sure, come in."
+    u "Eh, si, pasá."
 
 # game/v3/v3.rpy:38
 translate espanol v3start_17256923:
 
     # cl "How's your eye?"
-    cl "How's your eye?"
+    cl "¿Como está tu ojo?"
 
 # game/v3/v3.rpy:43
 translate espanol v3start_80c8f97f:
 
     # u "Uhm... not too bad. Thanks for asking."
-    u "Uhm... not too bad. Thanks for asking."
+    u "Ehm... No tan mal. Gracias por preguntar."
 
 # game/v3/v3.rpy:48
 translate espanol v3start_0c12dca7:
 
     # cl "Look, about yesterday..."
-    cl "Look, about yesterday..."
+    cl "Este, acerca de ayer..."
 
 # game/v3/v3.rpy:50
 translate espanol v3start_924b5680:
 
     # cl "Me and Grayson had a thing, a looong time ago."
-    cl "Me and Grayson had a thing, a looong time ago."
+    cl "Grayson y yo tuvimos algo, hace muuuucho tiempo."
 
 # game/v3/v3.rpy:55
 translate espanol v3start_68d063d6:
 
     # cl "But after a while, he started to lie and do shady shit and... you know, be the person he is. So I broke it off."
-    cl "But after a while, he started to lie and do shady shit and... you know, be the person he is. So I broke it off."
+    cl "Pero después de un tiempo empezó a mentir y a hacer cosas medio turbias y... ya sabes, ser como es él. Asique le corté."
 
 # game/v3/v3.rpy:57
 translate espanol v3start_3f4cd669:
 
     # cl "And ever since, he's just been... I guess trying to get back at me?"
-    cl "And ever since, he's just been... I guess trying to get back at me?"
+    cl "Y desde entonces, como que siempre estubo... tratando de que volvamos a estar juntos."
 
 # game/v3/v3.rpy:62
 translate espanol v3start_a3326c2c:
 
     # cl "I don't know..."
-    cl "I don't know..."
+    cl "No lo se..."
 
 # game/v3/v3.rpy:67
 translate espanol v3start_db66d353:
 
     # u "If you don't even like Grayson, why were you at his party?"
-    u "If you don't even like Grayson, why were you at his party?"
+    u "Si ni siquiera te gusta Grayson, ¿por qué estabas en su fiesta?"
 
 # game/v3/v3.rpy:72
 translate espanol v3start_87f53c76:
 
     # cl "It's complicated."
-    cl "It's complicated."
+    cl "Es complicado."
 
 # game/v3/v3.rpy:74
 translate espanol v3start_3fc28f4c:
 
     # cl "Girls join the Chicks 'cause they wanna party and have fun."
-    cl "Girls join the Chicks 'cause they wanna party and have fun."
+    cl "Las chicas se unen a las Chicks porque quieren irse de fiesta y divertirse."
 
 # game/v3/v3.rpy:76
 translate espanol v3start_41cf4bab:
 
     # cl "If I don't show up to Ape parties as the Chicks' President, I risk losing the relationships I've built and being voted out."
-    cl "If I don't show up to Ape parties as the Chicks' President, I risk losing the relationships I've built and being voted out."
+    cl "Si no voy a una fiesta de los Apes como la presidente de las Chicks, me arriesgo a perder las relaciones que fui juntando y a que me echen."
 
 # game/v3/v3.rpy:81
 translate espanol v3start_e60663e2:
 
     # u "It's just... we were having such a great night and then this kinda ruined it."
-    u "It's just... we were having such a great night and then this kinda ruined it."
+    u "Es que... Estabamos teniendo una noche genial y como que todo esto lo arruino."
 
 # game/v3/v3.rpy:86
 translate espanol v3start_83907c29:
 
     # cl "I know and I'm so sorry."
-    cl "I know and I'm so sorry."
+    cl "Lo se y te pido perdón."
 
 # game/v3/v3.rpy:91
 translate espanol v3start_cbfdbaad:
@@ -538,7 +538,7 @@ translate espanol cq_a_550b0429:
 translate espanol cq_a_3c052600:
 
     # cl "What, you don't like it?"
-    cl "What, you don't like it?"
+    cl "¿Qué, no te gusta esto?"
 
 # game/v3/v3.rpy:523
 translate espanol cq_a_0717de8c:
