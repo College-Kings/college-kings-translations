@@ -4,7 +4,7 @@ translate chinese strings:
 
     # game/achievements.rpy:40
     old "Tell off Emily"
-    new "Tell off Emily"
+    new "责备艾米丽"
 
     # game/achievements.rpy:41
     old "Play nice with Emily"
