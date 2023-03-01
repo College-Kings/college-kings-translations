@@ -1090,355 +1090,353 @@ translate espanol cx_a_3fcd6793:
 translate espanol cx_a_6c6f5a99:
 
     # u "What do you say?"
-    u "What do you say?"
+    u "¿Qué me decis?"
 
 # game/v3/v3.rpy:1221
 translate espanol cx_a_ecad669a:
 
     # ev "Damn, that was convincing. Okay, I'm in."
-    ev "Damn, that was convincing. Okay, I'm in."
+    ev "Wow, eso fue convincente. Okey, dale."
 
 # game/v3/v3.rpy:1223
 translate espanol cx_a_c9c5027b:
 
     # ev "I'll give you my number, but you better bring your A-game."
-    ev "I'll give you my number, but you better bring your A-game."
+    ev "Te voy a dar mi número, pero más te vale que traigas tu mejor jugada."
 
 # game/v3/v3.rpy:1228
 translate espanol cx_a_d39593f1:
 
     # u "Don't worry, you won't be disappointed."
-    u "Don't worry, you won't be disappointed."
+    u "No te preocupes, no te voy a decepcionar."
 
 # game/v3/v3.rpy:1233
 translate espanol cx_a_a5a91d71:
 
     # ev "Well, I'm looking forward to it."
-    ev "Well, I'm looking forward to it."
+    ev "Bueno, lo espero con ansias."
 
 # game/v3/v3.rpy:1238
 translate espanol cx_a_93dfeeeb:
 
     # u "Great, I'll let you know."
-    u "Great, I'll let you know."
+    u "Genial, nos estamos viendo."
 
 # game/v3/v3.rpy:1243
 translate espanol cx_a_a13f14ef:
 
     # u "(I'm getting really good at this flirting thing...)"
-    u "(I'm getting really good at this flirting thing...)"
+    u "(Estoy mejorando en este tema del chamuyeo...)"
 
 # game/v3/v3.rpy:1251
 translate espanol cx_a_f557a3ac:
 
     # u "How about I'll wear the costume I bought yesterday for our entire date?"
-    u "How about I'll wear the costume I bought yesterday for our entire date?"
+    u "¿Qué tal si me pongo el disfraz que me compré ayer cuando salgamos?"
 
 # game/v3/v3.rpy:1256
 translate espanol cx_a_ca334630:
 
     # ev "Look, it's very cute that you'd do that for me, but I just don't think we'd be a great fit."
-    ev "Look, it's very cute that you'd do that for me, but I just don't think we'd be a great fit."
+    ev "Mira, sería muy tierno que hagas eso por mí, pero simplemente no creo que tengamos nada en común."
 
 # game/v3/v3.rpy:1258
 translate espanol cx_a_291f9cbd:
 
     # ev "I'm sure you'll find someone else."
-    ev "I'm sure you'll find someone else."
+    ev "Estoy segura de que vas a encontrar a alguién más."
 
 # game/v3/v3.rpy:1263
 translate espanol cx_a_9f0efd63:
 
     # u "Oh okay... I guess I'll see you around."
-    u "Oh okay... I guess I'll see you around."
+    u "Ah, está bien... Supongo que nos veremos por ahí."
 
 # game/v3/v3.rpy:1268
 translate espanol cx_a_5c75aca5:
 
     # u "(Damn, that didn't go as planned...)"
-    u "(Damn, that didn't go as planned...)"
+    u "(Mierda, eso no salió como lo planee...)"
 
 # game/v3/v3.rpy:1277
 translate espanol cx_ad_c5cbcb80:
 
     # imre "Okayyy, let's do it."
-    imre "Okayyy, let's do it."
+    imre "Okeyyy, vamos nomás."
 
 # game/v3/v3.rpy:1282
 translate espanol cx_ad_4ec90385:
 
     # imre "Low-kicks target the legs and weaken the opponent's stance."
-    imre "Low-kicks target the legs and weaken the opponent's stance."
+    imre "Las patadas bajas tienen como objetivo las piernas del oponente así lo desestabilizas."
 
 # game/v3/v3.rpy:1284
 translate espanol cx_ad_cfd6282e:
 
     # imre "Jabs target the face and keep distance."
-    imre "Jabs target the face and keep distance."
+    imre "Los puños apuntan a la cara y mantienen una distancia."
 
 # game/v3/v3.rpy:1286
 translate espanol cx_ad_a800b118:
 
     # imre "And hooks target the head and serve as hard hits that can knock out your opponent."
-    imre "And hooks target the head and serve as hard hits that can knock out your opponent."
+    imre "Y los ganchos priorizan la cabeza y sirven como golpes fuertes que pueden noquear a tu oponente"
 
 # game/v3/v3.rpy:1291
 translate espanol cx_ad_c2eb341d:
 
     # imre "But what's missing?"
-    imre "But what's missing?"
+    imre "¿Pero qué es lo que falta?"
 
 # game/v3/v3.rpy:1296
 translate espanol cx_ad_ccfdd94e:
 
     # u "Enough human decency so fighting becomes an unnecessary relic of the past?"
-    u "Enough human decency so fighting becomes an unnecessary relic of the past?"
+    u "¿La suficiente decencia humana para que las peleas se conviertan una reliquia innecesaria del pasado?"
 
 # game/v3/v3.rpy:1301
 translate espanol cx_ad_e916cc3c:
 
     # imre "No, body shots."
-    imre "No, body shots."
+    imre "No, golpes al cuerpo."
 
 # game/v3/v3.rpy:1303
 translate espanol cx_ad_8b5c7e8a:
 
     # imre "Hitting your opponent's body will leave them out of breath and in pain."
-    imre "Hitting your opponent's body will leave them out of breath and in pain."
+    imre "Golpear a un oponente en el cuerpo los va a dejar sin aire y con dolor."
 
 # game/v3/v3.rpy:1305
 translate espanol cx_ad_2030526a:
 
     # imre "Perfect to get rid of a strong guard or a fast moving opponent."
-    imre "Perfect to get rid of a strong guard or a fast moving opponent."
+    imre "Perfecto para ignorar una defensa fuerte o a un oponente más rápido."
 
 # game/v3/v3.rpy:1310
 translate espanol cx_ad_bfbe325a:
 
     # u "Alright. Show me how."
-    u "Alright. Show me how."
+    u "Perfecto, mostrame como."
 
 # game/v3/v3.rpy:1315
 translate espanol cx_ad_824e72d3:
 
     # imre "It's quite simple. Whenever your opponent leaves his torso open you simply use your left arm to throw a body hook."
-    imre "It's quite simple. Whenever your opponent leaves his torso open you simply use your left arm to throw a body hook."
+    imre "Es bastante simple. Siempre que tu oponente deja su pecho abierto, simplemente usas tu brazo izquierdo para tirar un gancho al pecho."
 
 # game/v3/v3.rpy:1327
 translate espanol cx_ad_1f9bfc77:
 
     # imre "You wanna try?"
-    imre "You wanna try?"
+    imre "¿Queres intentarlo?"
 
 # game/v3/v3.rpy:1332
 translate espanol cx_ad_37fe551f:
 
     # u "Sure."
-    u "Sure."
+    u "Dale."
 
 # game/v3/v3.rpy:1344
 translate espanol cx_ad_94fbb147:
 
     # imre "Great job! Try it again."
-    imre "Great job! Try it again."
+    imre "¡Bien ahí! Probá de nuevo."
 
 # game/v3/v3.rpy:1363
 translate espanol cx_ad_d3003fe6:
 
     # u "That was actually really fun, thanks, Imre."
-    u "That was actually really fun, thanks, Imre."
+    u "La verdad que fue bastante divertido, gracias Imre."
 
 # game/v3/v3.rpy:1368
 translate espanol cx_ad_37246246:
 
     # imre "Yeah, no worries. Let me know if you wanna come with me next time as well."
-    imre "Yeah, no worries. Let me know if you wanna come with me next time as well."
+    imre "Seh, no te preocupes. Decime si queres venir conmigo la próxima también."
 
 # game/v3/v3.rpy:1373
 translate espanol cx_ad_e613cabf:
 
     # u "Yeah, I think I will."
-    u "Yeah, I think I will."
+    u "Sep, probablemente lo haga."
 
 # game/v3/v3.rpy:1396
 translate espanol repeatk_58d01580:
 
     # u "(I should probably check my phone.)"
-    u "(I should probably check my phone.)"
+    u "(Debería revisar mi teléfono.)"
 
 # game/v3/v3.rpy:1399
 translate espanol repeatk_54591f14:
 
     # u "Sorry Imre, something came up. You're gonna have to go back by yourself, I gotta go."
-    u "Sorry Imre, something came up. You're gonna have to go back by yourself, I gotta go."
+    u "Perdón Imre, me surgió algo. Vas a tener que volver solo, me tengo que ir."
 
 # game/v3/v3.rpy:1404
 translate espanol repeatk_7efdfdd7:
 
     # imre "A booty call this early in the day? Respect, my man."
-    imre "A booty call this early in the day? Respect, my man."
+    imre "¿Un garche tan tempranito? Mis respetos querido."
 
 # game/v3/v3.rpy:1409
 translate espanol repeatk_8321eaa9:
 
     # u "Imre, not everything is about sex, haha. I'll see you later."
-    u "Imre, not everything is about sex, haha. I'll see you later."
+    u "Imre, no todo es sobre sexo, jaja. Nos vemos más tarde."
 
 # game/v3/v3.rpy:1414
 translate espanol repeatk_ecfbdaa5:
 
     # imre "I'll see you, player."
-    imre "I'll see you, player."
+    imre "Nos vemos más tarde, jugador."
 
 # game/v3/v3.rpy:1421
 translate espanol repeatk_30ce2936:
 
     # u "(Okay, let's see. Which one's her room?)"
-    u "(Okay, let's see. Which one's her room?)"
+    u "(¿Okey, veamos. ¿Cuál era su habitación?)"
 
 # game/v3/v3.rpy:1425
 translate espanol repeatk_86e8b466:
 
     # u "(Oh no, the only open window is on the second floor.)"
-    u "(Oh no, the only open window is on the second floor.)"
-
+    u "(Ay no, la única ventana abierta está en el segundo piso.)"
 # game/v3/v3.rpy:1427
 translate espanol repeatk_db8b6560:
 
     # u "(Yeah, why would she want to mention that anyway...)"
-    u "(Yeah, why would she want to mention that anyway...)"
-
+    u "(Seh, porqué querria mentionar ese pequeño detalle de todas maneras...)"
 # game/v3/v3.rpy:1460
 translate espanol repeatk_106dda54:
 
     # au "Did anyone see you?"
-    au "Did anyone see you?"
+    au "¿Te vio alguien?"
 
 # game/v3/v3.rpy:1465
 translate espanol repeatk_3b497a54:
 
     # u "I don't think so."
-    u "I don't think so."
+    u "No creo."
 
 # game/v3/v3.rpy:1467
 translate espanol repeatk_aea0aa63:
 
     # u "You know, you could've really mentioned that your room is on the second floor."
-    u "You know, you could've really mentioned that your room is on the second floor."
+    u "Podrías haber mencionado el detallecito de que tu habitación está en el segundo piso."
 
 # game/v3/v3.rpy:1472
 translate espanol repeatk_2cd894bf:
 
     # au "Look, when you peeked on me and lied about it, I felt like you broke my trust."
-    au "Look, when you peeked on me and lied about it, I felt like you broke my trust."
+    au "Mirá, cuando me espiaste y me mentiste sobre eso, sentí como que rompiste mi confianza."
 
 # game/v3/v3.rpy:1477
 translate espanol repeatk_dd3ef603:
 
     # au "But, I haven't told anyone about it."
-    au "But, I haven't told anyone about it."
+    au "Pero, no le dije a nadie sobre eso."
 
 # game/v3/v3.rpy:1479
 translate espanol repeatk_0d9828c0:
 
     # au "Instead, I've watched a bunch of sitcoms and found a way for us to move past this."
-    au "Instead, I've watched a bunch of sitcoms and found a way for us to move past this."
+    au "En vez de eso, estuve mirando muchas series y encontré una forma de seguir adelante de todo esto."
 
 # game/v3/v3.rpy:1484
 translate espanol repeatk_2b215749:
 
     # u "Yeah, anything. I'm just really sorry it happened. I shouldn't have-"
-    u "Yeah, anything. I'm just really sorry it happened. I shouldn't have-"
+    u "Si, cualquier cosa. Lamento mucho lo que paso. No debería haber-"
 
 # game/v3/v3.rpy:1489
 translate espanol repeatk_aadbe3cf:
 
     # au "We need to get even."
-    au "We need to get even."
+    au "Tenemos que estar parejos."
 
 # game/v3/v3.rpy:1494
 translate espanol repeatk_0e9e5ef3:
 
     # u "Get even?"
-    u "Get even?"
+    u "¿Estar parejos?"
 
 # game/v3/v3.rpy:1499
 translate espanol repeatk_e91f4cda:
 
     # au "Yeah, level the playing field. Make it fair."
-    au "Yeah, level the playing field. Make it fair."
+    au "Si, nivelar el campo dejuego. Hacerlo justo."
 
 # game/v3/v3.rpy:1504
 translate espanol repeatk_94ab7d51:
 
     # u "Like... you get to peek on me changing?"
-    u "Like... you get to peek on me changing?"
+    u "Como... ¿Vos espiandome mientras me cambio?"
 
 # game/v3/v3.rpy:1509
 translate espanol repeatk_9784a35e:
 
     # au "Or..."
-    au "Or..."
+    au "O..."
 
 # game/v3/v3.rpy:1510
 translate espanol repeatk_70642a53:
 
     # au "You could just take your clothes off right now."
-    au "You could just take your clothes off right now."
+    au "Podrías sacarte la ropa ahora mismo."
 
 # game/v3/v3.rpy:1515
 translate espanol repeatk_bda4caba:
 
     # u "Are you serious?"
-    u "Are you serious?"
+    u "¿Me lo estas diciendo en?"
 
 # game/v3/v3.rpy:1520
 translate espanol repeatk_5354bd03:
 
     # au "You said you'd do anything to make it right."
-    au "You said you'd do anything to make it right."
+    au "Vos dijiste que harías lo que sea para que volvamos a estar bien."
 
 # game/v3/v3.rpy:1532
 translate espanol cy_b_8b1510d3:
 
     # u "You want me to take my clothes off? Fine, I'll do it."
-    u "You want me to take my clothes off? Fine, I'll do it."
+    u "¿Querés que me saque la ropa? Está bien, lo voy a hacer."
 
 # game/v3/v3.rpy:1537
 translate espanol cy_b_87e6a6c0:
 
     # au "Good! Do it."
-    au "Good! Do it."
+    au "¡Bien! Hacelo."
 
 # game/v3/v3.rpy:1550
 translate espanol cy_b_a0e1fbf3:
 
     # u "I'm not gonna take my clothes off in front of you."
-    u "I'm not gonna take my clothes off in front of you."
+    u "No me voy a sacar la ropa enfrente tuyo."
 
 # game/v3/v3.rpy:1555
 translate espanol cy_b_230ada89:
 
     # au "I thought you cared about this friendship?!"
-    au "I thought you cared about this friendship?!"
+    au "¡¿Pensé que te importaba esta amistad?!"
 
 # game/v3/v3.rpy:1560
 translate espanol cy_b_7d97de90:
 
     # u "I do care!"
-    u "I do care!"
+    u "¡Si me importa!"
 
 # game/v3/v3.rpy:1565
 translate espanol cy_b_81a00233:
 
     # u "You want me to take my clothes off to prove it?! Fine, I'll take them off."
-    u "You want me to take my clothes off to prove it?! Fine, I'll take them off."
+    u "¡¿Querés que me saque la ropa para probartelo?!. Está bien, me la saco."
 
 # game/v3/v3.rpy:1570
 translate espanol cy_b_2c899df4:
 
     # au "Good! Fucking do it!"
-    au "Good! Fucking do it!"
+    au "¡Perfecto! ¡Hacelo de una vez!"
 
 # game/v3/v3.rpy:1586
 translate espanol talkedout_9ea2f78c:
@@ -1450,487 +1448,487 @@ translate espanol talkedout_9ea2f78c:
 translate espanol repeatl_58d01580:
 
     # u "(I should probably check my phone.)"
-    u "(I should probably check my phone.)"
+    u "(Debería revisar mi teléfono.)"
 
 # game/v3/v3.rpy:1596
 translate espanol repeatl_54591f14:
 
     # u "Sorry Imre, something came up. You're gonna have to go back by yourself, I gotta go."
-    u "Sorry Imre, something came up. You're gonna have to go back by yourself, I gotta go."
+    u "Perdón Imre, me surgió algo. Vas a tener que volver solo, me tengo que ir."
 
 # game/v3/v3.rpy:1601
 translate espanol repeatl_7efdfdd7:
 
     # imre "A booty call this early in the day? Respect, my man."
-    imre "A booty call this early in the day? Respect, my man."
+    imre "¿Un garche tan tempranito? Mis respetos querido"
 
 # game/v3/v3.rpy:1606
 translate espanol repeatl_8321eaa9:
 
     # u "Imre, not everything is about sex, haha. I'll see you later."
-    u "Imre, not everything is about sex, haha. I'll see you later."
+    u "Imre, no todo es sobre sexo, jaja. Nos vemos más tarde."
 
 # game/v3/v3.rpy:1611
 translate espanol repeatl_ecfbdaa5:
 
     # imre "I'll see you, player."
-    imre "I'll see you, player."
+    imre "Nos vemos más tarde, jugador."
 
 # game/v3/v3.rpy:1618
 translate espanol repeatl_30ce2936:
 
     # u "(Okay, let's see. Which one's her room?)"
-    u "(Okay, let's see. Which one's her room?)"
+    u "(¿Okey, veamos. ¿Cuál era su habitación?)"
 
 # game/v3/v3.rpy:1622
 translate espanol repeatl_86e8b466:
 
     # u "(Oh no, the only open window is on the second floor.)"
-    u "(Oh no, the only open window is on the second floor.)"
+    u "(Ay no, la única ventana abierta está en el segundo piso.)"
 
 # game/v3/v3.rpy:1624
 translate espanol repeatl_db8b6560:
 
     # u "(Yeah, why would she want to mention that anyway...)"
-    u "(Yeah, why would she want to mention that anyway...)"
-
+    u "(Seh, porqué querria mentionar ese pequeño detalle de todas maneras...)"
 # game/v3/v3.rpy:1657
 translate espanol repeatl_55a95405:
 
     # au "[name], you made it!"
-    au "[name], you made it!"
+    au "¡Lo lograste [name]!"
 
 # game/v3/v3.rpy:1662
 translate espanol repeatl_fae61de3:
 
     # u "Hey, so what do you need my help for?"
-    u "Hey, so what do you need my help for?"
+    u "Asique, ¿Para que necesitabas mi ayuda?"
 
 # game/v3/v3.rpy:1667
 translate espanol repeatl_507bc9b2:
 
     # au "I'm really bored... you wanna do something?"
-    au "I'm really bored... you wanna do something?"
+    au "Estuy muy aburrida... ¿Querés hacer algo?"
 
 # game/v3/v3.rpy:1672
 translate espanol repeatl_aac28a13:
 
     # u "What? I came here as fast as I could 'cause you're bored??"
-    u "What? I came here as fast as I could 'cause you're bored??"
+    u "¿Qué? ¿¿Vine acá lo más rapido que pude solamente Porque 'estabas aburrida'?"
 
 # game/v3/v3.rpy:1677
 translate espanol repeatl_053f533f:
 
     # au "Oh, like it's so bad spending time with me."
-    au "Oh, like it's so bad spending time with me."
+    au "Ah, como si fuese tan malo pasar tiempo conmigo."
 
 # game/v3/v3.rpy:1682
 translate espanol repeatl_53fbe7cb:
 
     # u "That's not what I-"
-    u "That's not what I-"
+    u "Eso no es a lo que me ref-"
 
 # game/v3/v3.rpy:1684
 translate espanol repeatl_62cd1dd8:
 
     # u "Doesn't matter, what do you wanna do?"
-    u "Doesn't matter, what do you wanna do?"
+    u "No importa, ¿Qué queres hacer?"
 
 # game/v3/v3.rpy:1689
 translate espanol repeatl_4418ebec:
 
     # au "Let's play truth or dare."
-    au "Let's play truth or dare."
+    au "Juguemos a verdad o consecuencia."
 
 # game/v3/v3.rpy:1694
 translate espanol repeatl_f2d6081b:
 
     # u "Alright, you start."
-    u "Alright, you start."
+    u "Está bien, empezá vos."
 
 # game/v3/v3.rpy:1699
 translate espanol repeatl_7c3708ec:
 
     # au "Uhm... Truth."
-    au "Uhm... Truth."
+    au "Ehmm... Verdad."
 
 # game/v3/v3.rpy:1704
 translate espanol repeatl_955adae1:
 
     # u "Have you ever kissed a girl?"
-    u "Have you ever kissed a girl?"
+    u "¿Alguna vez besaste a una chica?"
 
 # game/v3/v3.rpy:1709
 translate espanol repeatl_c150af54:
 
     # au "Once, Chloe. But it was just a quick mouth on mouth, no tongue."
-    au "Once, Chloe. But it was just a quick mouth on mouth, no tongue."
+    au "Una vez, a Chloe. Pero fue un simple boca con boca, nada de lengua."
 
 # game/v3/v3.rpy:1711
 translate espanol repeatl_a3e8b422:
 
     # au "Your turn."
-    au "Your turn."
+    au "Tu turno."
 
 # game/v3/v3.rpy:1720
 translate espanol repeatl_487f178d:
 
     # u "Truth."
-    u "Truth."
+    u "Verdad."
 
 # game/v3/v3.rpy:1725
 translate espanol repeatl_98bccd23:
 
     # au "How many girls have you slept with?"
-    au "How many girls have you slept with?"
+    au "¿Con cuantas chicas tuviste relaciones?"
 
 # game/v3/v3.rpy:1730
 translate espanol repeatl_83418a0c:
 
     # u "Two, both ex-girlfriends."
-    u "Two, both ex-girlfriends."
+    u "Dos, ambas ex-novias."
 
 # game/v3/v3.rpy:1735
 translate espanol repeatl_ab000558:
 
     # au "One of them's Emily, right?"
-    au "One of them's Emily, right?"
+    au "Una de ellas es Emily, ¿verdad?"
 
 # game/v3/v3.rpy:1737
 translate espanol repeatl_445cb3eb:
 
     # au "Nora told me about her, she seems nice."
-    au "Nora told me about her, she seems nice."
+    au "Nora me contó sobre ella, parece buena persona."
 
 # game/v3/v3.rpy:1742
 translate espanol repeatl_1994958c:
 
     # u "Yeah, right... It's your turn."
-    u "Yeah, right... It's your turn."
+    u "Si, seguro... Tu turno."
 
 # game/v3/v3.rpy:1747
 translate espanol repeatl_aec10110:
 
     # au "Give me a dare."
-    au "Give me a dare."
+    au "Dame un desafío."
 
 # game/v3/v3.rpy:1752
 translate espanol repeatl_10a29175:
 
     # u "Touch both your elbows in front of your chest."
-    u "Touch both your elbows in front of your chest."
+    u "Tocate ambos codos enfrente de tu pecho."
 
 # game/v3/v3.rpy:1760
 translate espanol repeatl_fcca8881:
 
     # au "Like this?"
-    au "Like this?"
+    au "¿Así?"
 
 # game/v3/v3.rpy:1766
 translate espanol v3_nsfwSkipLabel1_fc79c0ea:
 
     # au "Oh, I see. Very funny."
-    au "Oh, I see. Very funny."
+    au "Ah, ya veo. Muy gracioso."
 
 # game/v3/v3.rpy:1771
 translate espanol v3_nsfwSkipLabel1_0e63a56c:
 
     # u "Haha, I thought you did great."
-    u "Haha, I thought you did great."
+    u "Jaja, creo que lo hiciste genial."
 
 # game/v3/v3.rpy:1776
 translate espanol v3_nsfwSkipLabel1_34a44d49:
 
     # au "Okay, now it's your turn again."
-    au "Okay, now it's your turn again."
+    au "Okey, ahora es tu turno de nuevo."
 
 # game/v3/v3.rpy:1786
 translate espanol v3_nsfwSkipLabel1_099d42fd:
 
     # u "Dare me."
-    u "Dare me."
+    u "Desafiame."
 
 # game/v3/v3.rpy:1791
 translate espanol v3_nsfwSkipLabel1_d50fee28:
 
     # au "Uhm... okay. Take your pants off."
-    au "Uhm... okay. Take your pants off."
+    au "Ehm... Okey. Sacate los pantalones."
 
 # game/v3/v3.rpy:1796
 translate espanol v3_nsfwSkipLabel1_64f86a80:
 
     # u "What?? I'm not gonna take my pants off."
-    u "What?? I'm not gonna take my pants off."
+    u "¿¿Qué?? No voy a sacarme los pantalones."
 
 # game/v3/v3.rpy:1798
 translate espanol v3_nsfwSkipLabel1_3bc6d184:
 
     # u "You gotta give me something I can actually do."
-    u "You gotta give me something I can actually do."
+    u "Me tenes que dar algo que pueda hacer."
 
 # game/v3/v3.rpy:1803
 translate espanol v3_nsfwSkipLabel1_3c58d281:
 
     # au "I did! It's totally doable."
-    au "I did! It's totally doable."
+    au "¡Lo hice! Lo podes hacer tranquilamente."
 
 # game/v3/v3.rpy:1808
 translate espanol v3_nsfwSkipLabel1_4c7c9292:
 
     # u "I can't just-"
-    u "I can't just-"
+    u "No puedo simplem-"
 
 # game/v3/v3.rpy:1813
 translate espanol v3_nsfwSkipLabel1_be7bafd9:
 
     # au "Yeah, you can. See?"
-    au "Yeah, you can. See?"
+    au "Si podes. ¿Ves?"
 
 # game/v3/v3.rpy:1831
 translate espanol v3_nsfwSkipLabel1_f4ea2660:
 
     # u "Did you just?"
-    u "Did you just?"
+    u "¿Acaso acabas de?"
 
 # game/v3/v3.rpy:1836
 translate espanol v3_nsfwSkipLabel1_85eeb4bf:
 
     # au "Yeah..."
-    au "Yeah..."
+    au "Si..."
 
 # game/v3/v3.rpy:1850
 translate espanol repeatm_58d01580:
 
     # u "(I should probably check my phone.)"
-    u "(I should probably check my phone.)"
+    u "(Debería revisra mi teléfono.)"
 
 # game/v3/v3.rpy:1853
 translate espanol repeatm_54591f14:
 
     # u "Sorry Imre, something came up. You're gonna have to go back by yourself, I gotta go."
-    u "Sorry Imre, something came up. You're gonna have to go back by yourself, I gotta go."
+    u "Perdón Imre, me surgió algo. Vas a tener que volver solo, me tengo que ir."
 
 # game/v3/v3.rpy:1858
 translate espanol repeatm_7efdfdd7:
 
     # imre "A booty call this early in the day? Respect, my man."
-    imre "A booty call this early in the day? Respect, my man."
+    imre "¿Un garche tan tempranito? Mis respetos querido"
 
 # game/v3/v3.rpy:1863
 translate espanol repeatm_8321eaa9:
 
     # u "Imre, not everything is about sex, haha. I'll see you later."
-    u "Imre, not everything is about sex, haha. I'll see you later."
+    u "Imre, no todo es sobre sexo, jaja. Nos vemos más tarde."
 
 # game/v3/v3.rpy:1868
 translate espanol repeatm_ecfbdaa5:
 
     # imre "I'll see you, player."
-    imre "I'll see you, player."
+    imre "Nos vemos más tarde, jugador."
 
 # game/v3/v3.rpy:1875
 translate espanol repeatm_30ce2936:
 
     # u "(Okay, let's see. Which one's her room?)"
-    u "(Okay, let's see. Which one's her room?)"
+    u "(¿Okey, veamos. ¿Cuál era su habitación?)"
 
 # game/v3/v3.rpy:1879
 translate espanol repeatm_86e8b466:
 
     # u "(Oh no, the only open window is on the second floor.)"
-    u "(Oh no, the only open window is on the second floor.)"
+    u "(Ay no, la única ventana abierta está en el segundo piso.)"
 
 # game/v3/v3.rpy:1881
 translate espanol repeatm_db8b6560:
 
     # u "(Yeah, why would she want to mention that anyway...)"
-    u "(Yeah, why would she want to mention that anyway...)"
+    u "(Seh, porqué querria mentionar ese pequeño detalle de todas maneras...)"
 
 # game/v3/v3.rpy:1914
 translate espanol repeatm_2e912185:
 
     # au "[name], you made it."
-    au "[name], you made it."
+    au "¡Lo lograste [name]!"
 
 # game/v3/v3.rpy:1919
 translate espanol repeatm_5a66d6a7:
 
     # u "Yeah, I did. So, how can I make it up to you?"
-    u "Yeah, I did. So, how can I make it up to you?"
+    u "Seh, lo hice. Asique ¿Qué puedo hacer por vos?"
 
 # game/v3/v3.rpy:1924
 translate espanol repeatm_507bc9b2:
 
     # au "I'm really bored... you wanna do something?"
-    au "I'm really bored... you wanna do something?"
+    au "Estuy muy aburrida... ¿Querés hacer algo?"
 
 # game/v3/v3.rpy:1929
 translate espanol repeatm_0258c042:
 
     # u "Sure, what do you wanna do?"
-    u "Sure, what do you wanna do?"
+    u "Seh, ¿Qué queres hacer?"
 
 # game/v3/v3.rpy:1934
 translate espanol repeatm_4418ebec:
 
     # au "Let's play truth or dare."
-    au "Let's play truth or dare."
+    au "Juguemos a verdad o consecuencia."
 
 # game/v3/v3.rpy:1939
 translate espanol repeatm_eac718ac:
 
     # u "Okay, you start."
-    u "Okay, you start."
+    u "Está bien, empezá vos."
 
 # game/v3/v3.rpy:1944
 translate espanol repeatm_7c3708ec:
 
     # au "Uhm... Truth."
-    au "Uhm... Truth."
+    au "Ehmm... Verdad."
 
 # game/v3/v3.rpy:1949
 translate espanol repeatm_955adae1:
 
     # u "Have you ever kissed a girl?"
-    u "Have you ever kissed a girl?"
+    u "¿Alguna vez besaste a una chica?"
 
 # game/v3/v3.rpy:1954
 translate espanol repeatm_c150af54:
 
     # au "Once, Chloe. But it was just a quick mouth on mouth, no tongue."
-    au "Once, Chloe. But it was just a quick mouth on mouth, no tongue."
+    au "Una vez, a Chloe. Pero fue un simple boca con boca, nada de lengua."
 
 # game/v3/v3.rpy:1956
 translate espanol repeatm_a3e8b422:
 
     # au "Your turn."
-    au "Your turn."
+    au "Tu turno."
 
 # game/v3/v3.rpy:1965
 translate espanol repeatm_487f178d:
 
     # u "Truth."
-    u "Truth."
+    u "Verdad."
 
 # game/v3/v3.rpy:1970
 translate espanol repeatm_98bccd23:
 
     # au "How many girls have you slept with?"
-    au "How many girls have you slept with?"
+    au "¿Con cuantas chicas tuviste relaciones?"
 
 # game/v3/v3.rpy:1975
 translate espanol repeatm_83418a0c:
 
     # u "Two, both ex-girlfriends."
-    u "Two, both ex-girlfriends."
+    u "Dos, ambas ex-novias."
 
 # game/v3/v3.rpy:1980
 translate espanol repeatm_ab000558:
 
     # au "One of them's Emily, right?"
-    au "One of them's Emily, right?"
+    au "Una de ellas es Emily, ¿verdad?"
 
 # game/v3/v3.rpy:1982
 translate espanol repeatm_445cb3eb:
 
     # au "Nora told me about her, she seems nice."
-    au "Nora told me about her, she seems nice."
+    au "Nora me contó sobre ella, parece buena persona."
 
 # game/v3/v3.rpy:1987
 translate espanol repeatm_1994958c:
 
     # u "Yeah, right... It's your turn."
-    u "Yeah, right... It's your turn."
+    u "Si, seguro... Tu turno."
 
 # game/v3/v3.rpy:1992
 translate espanol repeatm_aec10110:
 
     # au "Give me a dare."
-    au "Give me a dare."
+    au "Dame un desafío."
 
 # game/v3/v3.rpy:1997
 translate espanol repeatm_10a29175:
 
     # u "Touch both your elbows in front of your chest."
-    u "Touch both your elbows in front of your chest."
+    u "Tocate ambos codos enfrente de tu pecho."
 
 # game/v3/v3.rpy:2002
 translate espanol repeatm_fcca8881:
 
     # au "Like this?"
-    au "Like this?"
+    au "¿Así?"
 
 # game/v3/v3.rpy:2007
 translate espanol repeatm_fc79c0ea:
 
     # au "Oh, I see. Very funny."
-    au "Oh, I see. Very funny."
+    au "Ah, ya veo. Muy gracioso."
 
 # game/v3/v3.rpy:2012
 translate espanol repeatm_0e63a56c:
 
     # u "Haha, I thought you did great."
-    u "Haha, I thought you did great."
+    u "Jaja, creo que lo hiciste genial."
 
 # game/v3/v3.rpy:2017
 translate espanol repeatm_34a44d49:
 
     # au "Okay, now it's your turn again."
-    au "Okay, now it's your turn again."
+    au "Okey, ahora es tu turno de nuevo."
 
 # game/v3/v3.rpy:2026
 translate espanol repeatm_099d42fd:
 
     # u "Dare me."
-    u "Dare me."
+    u "Desafiame."
 
 # game/v3/v3.rpy:2031
 translate espanol repeatm_d50fee28:
 
     # au "Uhm... okay. Take your pants off."
-    au "Uhm... okay. Take your pants off."
+    au "Ehm... Okey. Sacate los pantalones."
 
 # game/v3/v3.rpy:2036
 translate espanol repeatm_64f86a80:
 
     # u "What?? I'm not gonna take my pants off."
-    u "What?? I'm not gonna take my pants off."
+    u "¿¿Qué?? No voy a sacarme los pantalones."
 
 # game/v3/v3.rpy:2038
 translate espanol repeatm_3bc6d184:
 
     # u "You gotta give me something I can actually do."
-    u "You gotta give me something I can actually do."
+    u "Me tenes que dar algo que pueda hacer."
 
 # game/v3/v3.rpy:2043
 translate espanol repeatm_3c58d281:
 
     # au "I did! It's totally doable."
-    au "I did! It's totally doable."
+    au "¡Lo hice! Lo podes hacer tranquilamente."
 
 # game/v3/v3.rpy:2048
 translate espanol repeatm_4c7c9292:
 
     # u "I can't just-"
-    u "I can't just-"
+    u "No puedo simplem-"
+
 
 # game/v3/v3.rpy:2053
 translate espanol repeatm_be7bafd9:
 
     # au "Yeah, you can. See?"
-    au "Yeah, you can. See?"
+    au "Si podes. ¿Ves?"
 
 # game/v3/v3.rpy:2071
 translate espanol repeatm_f4ea2660:
 
     # u "Did you just?"
-    u "Did you just?"
+    u "¿Acaso acabas de?"
 
 # game/v3/v3.rpy:2076
 translate espanol repeatm_85eeb4bf:
 
     # au "Yeah..."
-    au "Yeah..."
+    au "Si..."
 
 # game/v3/v3.rpy:2096
 translate espanol continuem_9ea2f78c:
@@ -1942,19 +1940,19 @@ translate espanol continuem_9ea2f78c:
 translate espanol continuem_4381ffb1:
 
     # au "Is this such a good idea?"
-    au "Is this such a good idea?"
+    au "¿Es una buena idea?"
 
 # game/v3/v3.rpy:2106
 translate espanol continuem_aac33865:
 
     # u "What's the worst that could happen?"
-    u "What's the worst that could happen?"
+    u "¿Qué es lo peor que puede pasar?"
 
 # game/v3/v3.rpy:2116
 translate espanol continuem_b887049b:
 
     # au "*Quiet moan* Ohhh okay... definitely a good idea."
-    au "*Quiet moan* Ohhh okay... definitely a good idea."
+    au "*Gemido suave* Ohhh, okey... Definitivamente una buena idea."
 
 # game/v3/v3.rpy:2131
 translate espanol continuem_0529a669:
@@ -1966,31 +1964,31 @@ translate espanol continuem_0529a669:
 translate espanol continuem_3da13d1c:
 
     # au "*Moans*"
-    au "*Moans*"
+    au "*Gime*"
 
 # game/v3/v3.rpy:2140
 translate espanol continuem_f413f9e1:
 
     # au "Oh, [name]!"
-    au "Oh, [name]!"
+    au "Ahh, [name]!"
 
 # game/v3/v3.rpy:2142
 translate espanol continuem_deeeaee6:
 
     # au "Fuck..."
-    au "Fuck..."
+    au "A la mierda..."
 
 # game/v3/v3.rpy:2157
 translate espanol continuem_ada85f0b:
 
     # au "Wait."
-    au "Wait."
+    au "Esperá."
 
 # game/v3/v3.rpy:2162
 translate espanol continuem_fe6f48d8:
 
     # au "Now it's my turn."
-    au "Now it's my turn."
+    au "Ahora es mi turno."
 
 # game/v3/v3.rpy:2167
 translate espanol continuem_9ea2f78c_1:
@@ -2002,85 +2000,85 @@ translate espanol continuem_9ea2f78c_1:
 translate espanol continuem_d1c5d4b5:
 
     # au "You have a nice cock, I could get used to this."
-    au "You have a nice cock, I could get used to this."
+    au "Tenes una biena pija, podría acostumbrarme a esto."
 
 # game/v3/v3.rpy:2181
 translate espanol continuem_52a0545f:
 
     # au "*Kiss*"
-    au "*Kiss*"
+    au "*Beso*"
 
 # game/v3/v3.rpy:2186
 translate espanol continuem_52a0545f_1:
 
     # au "*Kiss*"
-    au "*Kiss*"
+    au "*Beso*"
 
 # game/v3/v3.rpy:2191
 translate espanol continuem_52a0545f_2:
 
     # au "*Kiss*"
-    au "*Kiss*"
+    au "*Beso*"
 
 # game/v3/v3.rpy:2197
 translate espanol continuem_1c98fc42:
 
     # u "Okay, you know what? That's enough. We shouldn't go any further than this."
-    u "Okay, you know what? That's enough. We shouldn't go any further than this."
+    u "Okey, ¿sabés que? Es suficiente. No deberíamos seguir adelante con esto."
 
 # game/v3/v3.rpy:2202
 translate espanol continuem_d0a9e22c:
 
     # au "Go further? What do you mean?"
-    au "Go further? What do you mean?"
+    au "¿Seguir adelante? ¿A qué te referis?"
 
 # game/v3/v3.rpy:2207
 translate espanol continuem_58c0a0b8:
 
     # u "That look you just gave me... we were both thinking about it. It's just not a good idea."
-    u "That look you just gave me... we were both thinking about it. It's just not a good idea."
+    u "Esa mirada que acabas de darme... Ambos estabamos pensando al respecto. No es una buena idea."
 
 # game/v3/v3.rpy:2212
 translate espanol continuem_45001cbe:
 
     # au "I wasn't thinking anything."
-    au "I wasn't thinking anything."
+    au "No estaba pensando en nada."
 
 # game/v3/v3.rpy:2217
 translate espanol continuem_bd25a1eb:
 
     # u "Maybe it's best if I go now."
-    u "Maybe it's best if I go now."
+    u "Tal vez sería mejor si me voy ahora."
 
 # game/v3/v3.rpy:2222
 translate espanol continuem_6e06be80:
 
     # au "Yeah, okay... whatever."
-    au "Yeah, okay... whatever."
+    au "Bueno, está bien... Como digas."
 
 # game/v3/v3.rpy:2227
 translate espanol continuem_a86a48d3:
 
     # u "(Oh god, did I just turn down Aubrey, or was I just reading into it?)"
-    u "(Oh god, did I just turn down Aubrey, or was I just reading into it?)"
+    u "(Dios santo, ¿acábo de rechazar a Aubrey? ¿O a caso estaba sobre pensando las cosas?)"
 
 # game/v3/v3.rpy:2229
 translate espanol continuem_30fc9a25:
 
     # u "(I just don't know if it would be a good idea if we were to hook up. What if she tells Chloe? Would Chloe be okay with it?)"
-    u "(I just don't know if it would be a good idea if we were to hook up. What if she tells Chloe? Would Chloe be okay with it?)"
+    u "(Solo no se si sería una buena idea garchar. ¿Qué pasaría si se lo dice a Chloe? ¿Chloe estaría de acuerdo con esto?)"
 
 # game/v3/v3.rpy:2231
 translate espanol continuem_5ba9599e:
 
     # u "(Also, I barely know her...)"
-    u "(Also, I barely know her...)"
+    u "(Además, apenas la conozco...)"
 
 # game/v3/v3.rpy:2248
 translate espanol abj_c8231a28:
 
     # u "Ahh, fuck!"
-    u "Ahh, fuck!"
+    u "¡Ahh, mierda!"
 
 # game/v3/v3.rpy:2250
 translate espanol abj_9ea2f78c:
@@ -2092,7 +2090,7 @@ translate espanol abj_9ea2f78c:
 translate espanol abj_e25432e4:
 
     # u "Aubrey, this feels so fucking good."
-    u "Aubrey, this feels so fucking good."
+    u "Aubrey, esto se siente de maravilla."
 
 # game/v3/v3.rpy:2256
 translate espanol abj_9ea2f78c_1:
@@ -2104,43 +2102,43 @@ translate espanol abj_9ea2f78c_1:
 translate espanol abj_dd51a358:
 
     # au "*Laughing*"
-    au "*Laughing*"
+    au "*Riendo*"
 
 # game/v3/v3.rpy:2282
 translate espanol abj_b4c007f1:
 
     # au "Lost your balance?"
-    au "Lost your balance?"
+    au "¿Perdiste el equilibrio?"
 
 # game/v3/v3.rpy:2287
 translate espanol abj_a8a4308f:
 
     # u "What? Nooo..."
-    u "What? Nooo..."
+    u "¿Qué? Nooo..."
 
 # game/v3/v3.rpy:2289
 translate espanol abj_7adb8e54:
 
     # u "This was just one of my moves."
-    u "This was just one of my moves."
+    u "Es tan solo uno de mis movimientos."
 
 # game/v3/v3.rpy:2294
 translate espanol abj_0f04caa8:
 
     # au "Oh really?"
-    au "Oh really?"
+    au "¿Ah en serio?"
 
 # game/v3/v3.rpy:2304
 translate espanol abj_af0e0b3a:
 
     # au "*Whispers* Fuck me, [name]."
-    au "*Whispers* Fuck me, [name]."
+    au "*Susurra* Cogeme [name]."
 
 # game/v3/v3.rpy:2319
 translate espanol amiss_69b49d53:
 
     # au "Yeah, that's good!"
-    au "Yeah, that's good!"
+    au "¡Si, así!"
 
 # game/v3/v3.rpy:2321
 translate espanol amiss_9ea2f78c:
@@ -2152,7 +2150,7 @@ translate espanol amiss_9ea2f78c:
 translate espanol amiss_2ef60271:
 
     # au "*moans*"
-    au "*moans*"
+    au "*Gime*"
 
 # game/v3/v3.rpy:2327
 translate espanol amiss_9ea2f78c_1:
@@ -2164,7 +2162,7 @@ translate espanol amiss_9ea2f78c_1:
 translate espanol amiss_a2310ab8:
 
     # au "Oh my god, [name]!"
-    au "Oh my god, [name]!"
+    au "¡Dios mío [name]!"
 
 # game/v3/v3.rpy:2333
 translate espanol amiss_9ea2f78c_2:
@@ -2176,7 +2174,7 @@ translate espanol amiss_9ea2f78c_2:
 translate espanol amiss_1e7ee0b5:
 
     # au "*Squeals* Yes, yes, yes!"
-    au "*Squeals* Yes, yes, yes!"
+    au "*Grita* ¡Si, si, si!"
 
 # game/v3/v3.rpy:2339
 translate espanol amiss_9ea2f78c_3:
@@ -2188,19 +2186,19 @@ translate espanol amiss_9ea2f78c_3:
 translate espanol amiss_e38ad56a:
 
     # au "I want to ride you."
-    au "I want to ride you."
+    au "Quiero estar arriba tuyo."
 
 # game/v3/v3.rpy:2355
 translate espanol acow_698ce1b6:
 
     # au "You ready for round two?"
-    au "You ready for round two?"
+    au "¿Estás listo para la segunda ronda?"
 
 # game/v3/v3.rpy:2359
 translate espanol acow_61ec6dc9:
 
     # au "Fuck yes!"
-    au "Fuck yes!"
+    au "¡Obviamente!"
 
 # game/v3/v3.rpy:2361
 translate espanol acow_9ea2f78c:
@@ -2212,7 +2210,7 @@ translate espanol acow_9ea2f78c:
 translate espanol acow_274217b3:
 
     # au "This feels amazing, [name]!"
-    au "This feels amazing, [name]!"
+    au "¡Se siente fantástico [name]!"
 
 # game/v3/v3.rpy:2367
 translate espanol acow_9ea2f78c_1:
@@ -2224,7 +2222,7 @@ translate espanol acow_9ea2f78c_1:
 translate espanol acow_bfee52c7:
 
     # au "Yes! Harder!"
-    au "Yes! Harder!"
+    au "¡Si! ¡Más fuerte!"
 
 # game/v3/v3.rpy:2373
 translate espanol acow_9ea2f78c_2:
@@ -2236,19 +2234,19 @@ translate espanol acow_9ea2f78c_2:
 translate espanol acow_297f6dfc:
 
     # au "I'm gonna cum!"
-    au "I'm gonna cum!"
+    au "¡Voy a acabar!"
 
 # game/v3/v3.rpy:2379
 translate espanol acow_6c8e318f:
 
     # u "Oh shit, so am I."
-    u "Oh shit, so am I."
+    u "Mierda, yo también."
 
 # game/v3/v3.rpy:2381
 translate espanol acow_658962e9:
 
     # au "Cum in me! It's okay, I'm on the pill."
-    au "Cum in me! It's okay, I'm on the pill."
+    au "¡Acabá adentro mío! Está bien, estoy con la pastilla."
 
 # game/v3/v3.rpy:2387
 translate espanol acream_a1e6d4df:
@@ -2260,613 +2258,613 @@ translate espanol acream_a1e6d4df:
 translate espanol acream_54adc11f:
 
     # au "Oh my god... that was amazing."
-    au "Oh my god... that was amazing."
+    au "Dios mío... Eso fue genial."
 
 # game/v3/v3.rpy:2405
 translate espanol acream_e0ec7bab:
 
     # u "I'm definitely glad I came over."
-    u "I'm definitely glad I came over."
+    u "Definitivamente valió la pena venir."
 
 # game/v3/v3.rpy:2406
 translate espanol acream_cfb87ae8:
 
     # u "Why did you want me to climb through the window anyway?"
-    u "Why did you want me to climb through the window anyway?"
+    u "Igualmente, ¿porqué me hiciste trepar por la ventana?"
 
 # game/v3/v3.rpy:2411
 translate espanol acream_18b086e8:
 
     # au "Somehow I had a hunch that something might happen between us if I told you to come over..."
-    au "Somehow I had a hunch that something might happen between us if I told you to come over..."
+    au "Tenía una corazonada de que algo podría pasar entre nosotros si te decía que vengas..."
 
 # game/v3/v3.rpy:2413
 translate espanol acream_1d39d760:
 
     # au "And I assume you're talking to other girls and might wanna keep this a secret."
-    au "And I assume you're talking to other girls and might wanna keep this a secret."
+    au "Y supuse que también estás hablando con otras chicas y tal vez querías guardar esto como un secreto."
 
 # game/v3/v3.rpy:2415
 translate espanol acream_b635c57f:
 
     # au "Plus... the secrecy kinda makes it hotter."
-    au "Plus... the secrecy kinda makes it hotter."
+    au "Además, el secretismo como que lo hace un poco más caliente."
 
 # game/v3/v3.rpy:2420
 translate espanol acream_b0d99340:
 
     # u "Haha, I can't disagree with that."
-    u "Haha, I can't disagree with that."
+    u "Jaja, no puedo decir no estoy de acuerdo con eso."
 
 # game/v3/v3.rpy:2422
 translate espanol acream_7278e6f8:
 
     # u "(Damn... that was really thoughtful of her, but in a very weird way.)"
-    u "(Damn... that was really thoughtful of her, but in a very weird way.)"
+    u "(Wow... Eso fue muy considerado de su parte, pero de una forma rara.)"
 
 # game/v3/v3.rpy:2424
 translate espanol acream_a0c07db3:
 
     # u "I should probably get going soon."
-    u "I should probably get going soon."
+    u "Debería ir yendome."
 
 # game/v3/v3.rpy:2429
 translate espanol acream_32688df2:
 
     # au "Yeah, I need to get back to studying as well..."
-    au "Yeah, I need to get back to studying as well..."
+    au "Si, la verdad que debería ponerme a estudiar..."
 
 # game/v3/v3.rpy:2448
 translate espanol acream_42c2114b:
 
     # u "(I can't believe I just had sex with Aubrey... that was amazing.)"
-    u "(I can't believe I just had sex with Aubrey... that was amazing.)"
+    u "(No puedo creer que acabo de tener sexo con Aubrey... Eso fue genial.)"
 
 # game/v3/v3.rpy:2451
 translate espanol acream_03cdc8ec:
 
     # u "(I wonder if Lauren would be upset if she knew. I guess I'll have to decide how honest I wanna be on our date tonight.)"
-    u "(I wonder if Lauren would be upset if she knew. I guess I'll have to decide how honest I wanna be on our date tonight.)"
+    u "(Me pregunto si Lauren se pondría mal si supiese. Supongo que tengo que decidir que tanhonesto quiero ser esta noche.)"
 
 # game/v3/v3.rpy:2469
 translate espanol aubsexad_e7c00723:
 
     # u "Lauren? What are you doing here?"
-    u "Lauren? What are you doing here?"
+    u "¿Lauren? ¿Qué estás haciendo acá?"
 
 # game/v3/v3.rpy:2475
 translate espanol aubsexad_754fa29d:
 
     # la "Hey, uhm..."
-    la "Hey, uhm..."
+    la "Hey, ehm..."
 
 # game/v3/v3.rpy:2477
 translate espanol aubsexad_8cbfe3e7:
 
     # la "I'm here to ask you for a favor... as a friend."
-    la "I'm here to ask you for a favor... as a friend."
+    la "Estoy acá para pedirte un favor... Como amiga."
 
 # game/v3/v3.rpy:2482
 translate espanol aubsexad_6b40cde0:
 
     # u "Uhm, okay... What is it?"
-    u "Uhm, okay... What is it?"
+    u "Ehm, okey... ¿Qué pasa?"
 
 # game/v3/v3.rpy:2488
 translate espanol aubsexad_84ad4a94:
 
     # la "Heyyy. I need a favor."
-    la "Heyyy. I need a favor."
+    la "Heyyy. Necesito un favor."
 
 # game/v3/v3.rpy:2493
 translate espanol aubsexad_1817ae6c:
 
     # u "Alright, how can I help?"
-    u "Alright, how can I help?"
+    u "Okey, ¿cómo puedo ayudarte?"
 
 # game/v3/v3.rpy:2499
 translate espanol aubsexad_d310fabe:
 
     # la "Hey, uhm... I know we haven't talked since the park."
-    la "Hey, uhm... I know we haven't talked since the park."
+    la "Hey, ehm... Ya se que no hablamos desde lo del parque."
 
 # game/v3/v3.rpy:2501
 translate espanol aubsexad_bfecc3b4:
 
     # la "But I kinda need a favor... as a friend."
-    la "But I kinda need a favor... as a friend."
+    la "Pero ando necesitando un favor... Como amiga."
 
 # game/v3/v3.rpy:2506
 translate espanol aubsexad_adf0b143:
 
     # u "Uhm, okay. What is it?"
-    u "Uhm, okay. What is it?"
+    u "Ehm, okey... ¿Qué pasa?"
 
 # game/v3/v3.rpy:2523
 translate espanol continuen_2ae5cac8:
 
     # la "So you know how I'm majoring in psychology?"
-    la "So you know how I'm majoring in psychology?"
+    la "¿Ya sabés que estoy estudiando psicología?"
 
 # game/v3/v3.rpy:2528
 translate espanol continuen_2c0b9bd8:
 
     # u "Uh..."
-    u "Uh..."
+    u "Eh..."
 
 # game/v3/v3.rpy:2533
 translate espanol continuen_3a7e8c10:
 
     # la "For one of my assignments I need to do several personality tests on someone and analyze them."
-    la "For one of my assignments I need to do several personality tests on someone and analyze them."
+    la "Para una de mis clases necesito hacer varios exámenes de personalidad en alguién y analizarlos."
 
 # game/v3/v3.rpy:2536
 translate espanol continuen_6d24cda0:
 
     # la "Would you wanna be my test subject?"
-    la "Would you wanna be my test subject?"
+    la "¿Podrías ser mi sujeto de pruebas?"
 
 # game/v3/v3.rpy:2545
 translate espanol continuen_015df046:
 
     # u "Yeah, I'd love to."
-    u "Yeah, I'd love to."
+    u "Si, me encantaría."
 
 # game/v3/v3.rpy:2553
 translate espanol continuen_ebe62aec:
 
     # u "I don't know, Lauren. Sounds kinda weird."
-    u "I don't know, Lauren. Sounds kinda weird."
+    u "No lo se Lauren. Suena un poco raro."
 
 # game/v3/v3.rpy:2558
 translate espanol continuen_b2592261:
 
     # la "[name], pleaaase. It's just answering a few questions."
-    la "[name], pleaaase. It's just answering a few questions."
+    la "Por favoooor [name]. Es tan solo contestar un par de preguntas."
 
 # game/v3/v3.rpy:2563
 translate espanol continuen_1283716f:
 
     # u "Okay, fine."
-    u "Okay, fine."
+    u "Bueno, está bien."
 
 # game/v3/v3.rpy:2569
 translate espanol dc_bd_c874c495:
 
     # la "Thank you so much!"
-    la "Thank you so much!"
+    la "¡Muchas gracias!"
 
 # game/v3/v3.rpy:2589
 translate espanol dc_bd_0eaa1e86:
 
     # la "Let's meet up in the next couple days then and we'll go through the first personality test."
-    la "Let's meet up in the next couple days then and we'll go through the first personality test."
+    la "Juntemonos en un par de días así hacemos el primer exámen de personalidad."
 
 # game/v3/v3.rpy:2594
 translate espanol dc_bd_d9edb83d:
 
     # u "Alright, just send me a text."
-    u "Alright, just send me a text."
+    u "Dale, mandame un mensaje y listo."
 
 # game/v3/v3.rpy:2612
 translate espanol continueq_26b31879:
 
     # u "Huh? Julia's calling me."
-    u "Huh? Julia's calling me."
+    u "¿Huh? Me está llamando Julia."
 
 # game/v3/v3.rpy:2623
 translate espanol continueq_a72d849a:
 
     # u "Hey, Julia!"
-    u "Hey, Julia!"
+    u "¡Hola Julia!"
 
 # game/v3/v3.rpy:2628
 translate espanol continueq_eb648ce8:
 
     # ju "Hey honey, how are you?"
-    ju "Hey honey, how are you?"
+    ju "Hola mi cielo, ¿cómo estás?"
 
 # game/v3/v3.rpy:2633
 translate espanol continueq_8ea462a7:
 
     # u "I'm good, what's up?"
-    u "I'm good, what's up?"
+    u "Todo bien, ¿qué pasa?"
 
 # game/v3/v3.rpy:2638
 translate espanol continueq_6775f4bb:
 
     # ju "I was wondering if you would like to go shopping with me tomorrow morning?"
-    ju "I was wondering if you would like to go shopping with me tomorrow morning?"
+    ju "Me estaba preguntando si querías ir al shopping conmigo mañana a la mañana."
 
 # game/v3/v3.rpy:2640
 translate espanol continueq_90c13a46:
 
     # ju "I would pick you up and you could tell me all about your first week at college."
-    ju "I would pick you up and you could tell me all about your first week at college."
+    ju "Te pasaría a buscar y podemos charlar sobre tu primer semana en la universidad."
 
 # game/v3/v3.rpy:2642
 translate espanol continueq_21fdd5f0:
 
     # ju "And maybe we can buy you a nice new outfit for whatever girl you met?"
-    ju "And maybe we can buy you a nice new outfit for whatever girl you met?"
+    ju "Y tal vez te podemos comprarte un poco de ropa para que estes lindo para alguna chica que hayas conocido."
 
 # game/v3/v3.rpy:2647
 translate espanol continueq_4a9e9a82:
 
     # u "(Shit... if I meet her, she'll see my bruises and get really worried.)"
-    u "(Shit... if I meet her, she'll see my bruises and get really worried.)"
+    u "(Mierda... Si nos encontramos va a ver mis moretones y se va a preocupar.)"
 
 # game/v3/v3.rpy:2654
 translate espanol continueq_b2efe1e3:
 
     # u "Yeah, shopping sounds great, Julia."
-    u "Yeah, shopping sounds great, Julia."
+    u "Dale Julia, ir al shopping parece genial."
 
 # game/v3/v3.rpy:2656
 translate espanol continueq_f4b5c784:
 
     # u "I'll see you tomorrow then."
-    u "I'll see you tomorrow then."
+    u "Nos vemos mañana entonces."
 
 # game/v3/v3.rpy:2661
 translate espanol continueq_9adfad62:
 
     # ju "Okay, honey. I'll call you when I'm at San Vallejo."
-    ju "Okay, honey. I'll call you when I'm at San Vallejo."
+    ju "Dale mi cielo. Te llamo cuando esté en San Vallejo."
 
 # game/v3/v3.rpy:2666
 translate espanol continueq_daa843ad:
 
     # u "Alright, bye."
-    u "Alright, bye."
+    u "Perfecto, chau."
 
 # game/v3/v3.rpy:2671
 translate espanol continueq_c4bec625:
 
     # ju "Bye, honey."
-    ju "Bye, honey."
+    ju "Chau cielo."
 
 # game/v3/v3.rpy:2678
 translate espanol continueq_8710069c:
 
     # u "Sorry, Julia... I'm really busy this weekend."
-    u "Sorry, Julia... I'm really busy this weekend."
+    u "Perdón Julia... Estoy muy ocupado este fin de semana."
 
 # game/v3/v3.rpy:2683
 translate espanol continueq_a13bb8c0:
 
     # ju "Oh... okay, honey. Next time then."
-    ju "Oh... okay, honey. Next time then."
+    ju "Ah... Okey cielo. La próxima será."
 
 # game/v3/v3.rpy:2688
 translate espanol continueq_4035dcb6:
 
     # u "Yeah... next time."
-    u "Yeah... next time."
+    u "Si... La próxima."
 
 # game/v3/v3.rpy:2704
 translate espanol continueq_8232499c:
 
     # u "(I don't really feel like talking to her right now.)"
-    u "(I don't really feel like talking to her right now.)"
+    u "(No tengo muchas ganas de hablar con ella ahora mismo.)"
 
 # game/v3/v3.rpy:2715
 translate espanol de_bd_0af354ea:
 
     # u "(I guess there goes my one minute of alone time...)"
-    u "(I guess there goes my one minute of alone time...)"
+    u "(Supongo que se acába de ir mi único minuto solo...)"
 
 # game/v3/v3.rpy:2722
 translate espanol de_bd_9ea1e8f9:
 
     # u "Hey guys."
-    u "Hey guys."
+    u "Hola chicos."
 
 # game/v3/v3.rpy:2727
 translate espanol de_bd_19588a61:
 
     # ry "What's up, [name]?"
-    ry "What's up, [name]?"
+    ry "¿Como va [name]?"
 
 # game/v3/v3.rpy:2732
 translate espanol de_bd_a6070304:
 
     # ri "Wow, your face looks really as bad as Ryan said."
-    ri "Wow, your face looks really as bad as Ryan said."
+    ri "Wow, tu cara se ve tan mal como Ryan decía."
 
 # game/v3/v3.rpy:2737
 translate espanol de_bd_6384a8df:
 
     # u "Thanks, Riley. What can I do for you?"
-    u "Thanks, Riley. What can I do for you?"
+    u "Gracias Riley. ¿Qué puedo hacer por vos?"
 
 # game/v3/v3.rpy:2742
 translate espanol de_bd_c18c62f8:
 
     # ri "It's a really nice day, so we're going to go for a picnic. Wanna come?"
-    ri "It's a really nice day, so we're going to go for a picnic. Wanna come?"
+    ri "Es un día hermoso, asíque ibamos a ir de picnic. ¿Queres venir?"
 
 # game/v3/v3.rpy:2747
 translate espanol de_bd_b721ba07:
 
     # ry "Plus there'll be some hotties in the park."
-    ry "Plus there'll be some hotties in the park."
+    ry "Además va a haber alguno bombones en el parque."
 
 # game/v3/v3.rpy:2751
 translate espanol de_bd_d032c40e:
 
     # ri "Is that all you think about, Ryan?"
-    ri "Is that all you think about, Ryan?"
+    ri "¿Acaso solo pensas en eso Ryan?"
 
 # game/v3/v3.rpy:2760
 translate espanol de_bd_e9164e66:
 
     # u "I think Riley is all the hottie I need."
-    u "I think Riley is all the hottie I need."
+    u "Creo que Riley es el único bombón que necesito."
 
 # game/v3/v3.rpy:2765
 translate espanol de_bd_e374cc2b:
 
     # ri "Awww, thank you."
-    ri "Awww, thank you."
+    ri "Awww, gracias."
 
 # game/v3/v3.rpy:2770
 translate espanol de_bd_4da4ca61:
 
     # ry "This guy..."
-    ry "This guy..."
+    ry "Este tipo..."
 
 # game/v3/v3.rpy:2772
 translate espanol de_bd_99a3ab07:
 
     # ry "So, you coming, or what?"
-    ry "So, you coming, or what?"
+    ry "Asique, ¿venís o no?"
 
 # game/v3/v3.rpy:2777
 translate espanol de_bd_dacaecf9:
 
     # u "Yeah, alright. Let me just change out of my gym clothes."
-    u "Yeah, alright. Let me just change out of my gym clothes."
+    u "Si, dale. Dejame cambiarme mi ropa dportiva."
 
 # game/v3/v3.rpy:2785
 translate espanol de_bd_d1879211:
 
     # u "Well, count me in then."
-    u "Well, count me in then."
+    u "Bueno, cuenten conmigo."
 
 # game/v3/v3.rpy:2790
 translate espanol de_bd_c8678876:
 
     # ri "Of course that's what made you wanna go. Why do I even spend time with you guys?"
-    ri "Of course that's what made you wanna go. Why do I even spend time with you guys?"
+    ri "Porqué no me sorprende que sea justo eso lo que te de ganas de venir. ¿Porqué paso tiempo con ustedes?"
 
 # game/v3/v3.rpy:2795
 translate espanol de_bd_cdae9e74:
 
     # u "Oh come on, Riley. You're one of the hotties."
-    u "Oh come on, Riley. You're one of the hotties."
+    u "Aw, pero dale Riley. Vos sos uno de los bombones."
 
 # game/v3/v3.rpy:2800
 translate espanol de_bd_792d5691:
 
     # ri "What a sincere compliment. Are you ready to go then?"
-    ri "What a sincere compliment. Are you ready to go then?"
+    ri "Que halago más sincero. ¿Estás listo para salir?"
 
 # game/v3/v3.rpy:2805
 translate espanol de_bd_486e7845:
 
     # u "Yeah, let me just change out of my gym clothes."
-    u "Yeah, let me just change out of my gym clothes."
+    u "Si, Dejame cambiarme mi ropa dportiva."
 
 # game/v3/v3.rpy:2811
 translate espanol df_bd_592ca2d1:
 
     # u "This is a really nice spot."
-    u "This is a really nice spot."
+    u "Este es un lugar muy lindo."
 
 # game/v3/v3.rpy:2816
 translate espanol df_bd_6d0eb153:
 
     # ry "Yeah, it really is."
-    ry "Yeah, it really is."
+    ry "Si, lo es."
 
 # game/v3/v3.rpy:2821
 translate espanol df_bd_60fb5707:
 
     # ri "So uhm [name]... How are you gonna get back at Grayson?"
-    ri "So uhm [name]... How are you gonna get back at Grayson?"
+    ri "Asique, ehmm [name]... ¿Como te vas a vengar de Grayson?"
 
 # game/v3/v3.rpy:2826
 translate espanol df_bd_0c076e25:
 
     # u "What do you mean, get back?"
-    u "What do you mean, get back?"
+    u "¿A qué te referís con vengarme?"
 
 # game/v3/v3.rpy:2831
 translate espanol df_bd_6cbfe69d:
 
     # ri "You know, he punched you in front of so many people... how are you gonna avenge yourself?"
-    ri "You know, he punched you in front of so many people... how are you gonna avenge yourself?"
+    ri "Ya sabés, te pego enfrente de tanta gente... ¿Cómo te vas a vengar?"
 
 # game/v3/v3.rpy:2836
 translate espanol df_bd_61b399c5:
 
     # ry "Riley, I don't think [name] wants to get back into it with Grayson."
-    ry "Riley, I don't think [name] wants to get back into it with Grayson."
+    ry "Riley, no creo que [name] quiera volver a pelear con Grayson."
 
 # game/v3/v3.rpy:2840
 translate espanol df_bd_b07e1694:
 
     # ry "Any retribution will only make it worse."
-    ry "Any retribution will only make it worse."
+    ry "Cualquier represalía solo lo va a hacer peor."
 
 # game/v3/v3.rpy:2847
 translate espanol df_bd_c1c79b70:
 
     # u "Why?! Because he's some kind of god that can do whatever he wants?!"
-    u "Why?! Because he's some kind of god that can do whatever he wants?!"
+    u "¿Porqué? ¡¿Porque es una especie de dios que puede hacer lo que se le de la gana?!"
 
 # game/v3/v3.rpy:2852
 translate espanol df_bd_f48a9033:
 
     # u "I'm not scared of him."
-    u "I'm not scared of him."
+    u "No estoy asustado de él."
 
 # game/v3/v3.rpy:2857
 translate espanol df_bd_d0ffff2f:
 
     # ry "I'm just saying that-"
-    ry "I'm just saying that-"
+    ry "Solo estoy diciendo que-"
 
 # game/v3/v3.rpy:2862
 translate espanol df_bd_453b6c3b:
 
     # u "You know why Grayson punched me? Cause I was about to make out with Chloe and he's still not over her!"
-    u "You know why Grayson punched me? Cause I was about to make out with Chloe and he's still not over her!"
+    u "¿Sabés porqué Grayson me pegó? ¡Porque estaba a punto de besar a Chloe y él todavía no la superó!"
 
 # game/v3/v3.rpy:2864
 translate espanol df_bd_7180a783:
 
     # u "And guess who fucking came to my dorm to make it up to me yesterday evening? Chloe."
-    u "And guess who fucking came to my dorm to make it up to me yesterday evening? Chloe."
+    u "Y adiviná quien mierda vino a mi habitación para compensarme anoche. Chloe."
 
 # game/v3/v3.rpy:2869
 translate espanol df_bd_c45a6762:
 
     # ry "Did you hook up?"
-    ry "Did you hook up?"
+    ry "¿Tuvieron relaciones?"
 
 # game/v3/v3.rpy:2874
 translate espanol df_bd_73c3fef7:
 
     # u "I mean no, we just hung out at the gym, but if it wasn't for that stupid security guard-"
-    u "I mean no, we just hung out at the gym, but if it wasn't for that stupid security guard-"
+    u "A ver, no, solo estuvimos dando vueltas en el gimnasio, pero si no hubiese sido por ese estúpido guardia de seguridad-"
 
 # game/v3/v3.rpy:2876
 translate espanol df_bd_b9c12db0:
 
     # u "You know, we'll get closer in the future."
-    u "You know, we'll get closer in the future."
+    u "Sabés que, nos vamos a volver más cercanos en el futuro."
 
 # game/v3/v3.rpy:2881
 translate espanol df_bd_43633c2f:
 
     # ry "Look, I don't wanna be that guy. but..."
-    ry "Look, I don't wanna be that guy. but..."
+    ry "Mira, no quiero ser el mejor hombre, pero..."
 
 # game/v3/v3.rpy:2883
 translate espanol df_bd_c71ddc73:
 
     # ry "Do you really think that pursuing Chloe is a good idea?"
-    ry "Do you really think that pursuing Chloe is a good idea?"
+    ry "¿Estás seguro de que perseguir a Chloe es una buena idea?"
 
 # game/v3/v3.rpy:2888
 translate espanol df_bd_e48ae9cd:
 
     # u "Why?! You think I should fear Grayson?! Fuck him. I couldn't care less."
-    u "Why?! You think I should fear Grayson?! Fuck him. I couldn't care less."
+    u "¡¿Porqué?! ¿Te pensas que le tengo que tener miedo a Grayson? Que se vaya a la mierda. No me puede importar menos."
 
 # game/v3/v3.rpy:2893
 translate espanol df_bd_4b870f9b:
 
     # ry "No, 'cause she's a bitch. After I went back to the party, Grayson told me about all the shady shit she did."
-    ry "No, 'cause she's a bitch. After I went back to the party, Grayson told me about all the shady shit she did."
+    ry "No, porque es una forra. Después de que volvi a la fiesta, Grayson me dijo todas las cosas turbias que hizo."
 
 # game/v3/v3.rpy:2898
 translate espanol df_bd_012a2583:
 
     # u "Really?! Grayson?! Well I'm glad your new mentor gives such great advice."
-    u "Really?! Grayson?! Well I'm glad your new mentor gives such great advice."
+    u "¡¿En serio?! ¡¿Grayson?! Bueno, me alegro que tu nuevo mentor te de tan buenos consejos."
 
 # game/v3/v3.rpy:2903
 translate espanol df_bd_6c9bbaad:
 
     # ry "When you were knocked out, who fucking came to help you?!"
-    ry "When you were knocked out, who fucking came to help you?!"
+    ry "Cuando estabas noqueado en el piso, ¡¿Quién mierda vino a ayudarte?!"
 
 # game/v3/v3.rpy:2908
 translate espanol df_bd_3b18fc45:
 
     # ry "It was me! Chloe didn't give a fuck!"
-    ry "It was me! Chloe didn't give a fuck!"
+    ry "¡Fuí yo! ¡A Chloe no le importo un carajo!"
 
 # game/v3/v3.rpy:2913
 translate espanol df_bd_36ae461d:
 
     # ry "She went after Grayson, 'cause she felt personally attacked! She thought about herself, not about you!"
-    ry "She went after Grayson, 'cause she felt personally attacked! She thought about herself, not about you!"
+    ry "¡Se fue atrás de Grayson porque se sintió atacada personalmente! ¡Estaba pensando solo en ella, no en vos!"
 
 # game/v3/v3.rpy:2918
 translate espanol df_bd_5eb010c7:
 
     # u "You don't know what you're talking about! Chloe likes me. She went after Grayson 'cause someone needed to."
-    u "You don't know what you're talking about! Chloe likes me. She went after Grayson 'cause someone needed to."
+    u "¡No sabés lo que estas diciendo! A Chloe le gusto. Fue atrás de Grayson porque alguién tenía que."
 
 # game/v3/v3.rpy:2924
 translate espanol df_bd_0fdef493:
 
     # u "Cause you were too fucking pussy to do it yourself."
-    u "Cause you were too fucking pussy to do it yourself."
+    u "Porque vos estabas cagado en las patas para hacerlo vos mismo."
 
 # game/v3/v3.rpy:2929
 translate espanol df_bd_fb78781e:
 
     # ry "Fuck you! I looked after you, I brought you home!"
-    ry "Fuck you! I looked after you, I brought you home!"
+    ry "¡Andate a cagar! Te cuidé, ¡Te llevé a tu habitación!"
 
 # game/v3/v3.rpy:2931
 translate espanol df_bd_9af7c04d:
 
     # ry "Chloe is playing you! Like she played Grayson! Don't fucking fall for it."
-    ry "Chloe is playing you! Like she played Grayson! Don't fucking fall for it."
+    ry "¡Chloe está jugando con vos! ¡Como jugó con Gratson! No caigas en eso."
 
 # game/v3/v3.rpy:2936
 translate espanol df_bd_5a8b93f1:
 
     # u "You don't know Chloe at all! You're just fucking jealous!"
-    u "You don't know Chloe at all! You're just fucking jealous!"
+    u "¡No conoces a Chloe para nada! ¡Lo único que estás es celoso!"
 
 # game/v3/v3.rpy:2944
 translate espanol df_bd_3b6387e3:
 
     # ri "Guys, please stop fighting!"
-    ri "Guys, please stop fighting!"
+    ri "Chicos, ¡por favor paren de pelear!"
 
 # game/v3/v3.rpy:2949
 translate espanol df_bd_a2db678b:
 
     # u "No, fuck this, I'm leaving!"
-    u "No, fuck this, I'm leaving!"
+    u "No, a la mierda todo, ¡me voy!"
 
 # game/v3/v3.rpy:2964
 translate espanol df_bd_333f63a6:
 
     # ri "Are you not gonna go after him?!"
-    ri "Are you not gonna go after him?!"
+    ri "¡¿No vas a ir atrás de él?!"
 
 # game/v3/v3.rpy:2969
 translate espanol df_bd_129c1f3b:
 
     # ry "Nah, he's being a bitch."
-    ry "Nah, he's being a bitch."
+    ry "Nah, está siendo un tarado."
 
 # game/v3/v3.rpy:2974
 translate espanol df_bd_ac0f7c83:
 
     # ri "Fine, then I'll go after him."
-    ri "Fine, then I'll go after him."
+    ri "Está bien, enntonces yo voy a ir."
 
 # game/v3/v3.rpy:2983
 translate espanol df_bd_74b8828b:
 
     # ri "[name], wait!"
-    ri "[name], wait!"
+    ri "¡Esperá [name]!"
 
 # game/v3/v3.rpy:2990
 translate espanol df_bd_76fc60eb:
 
     # ri "Hey, stop... I'm sure Ryan didn't mean what he said."
-    ri "Hey, stop... I'm sure Ryan didn't mean what he said."
+    ri "Hey, esperá... Estoy segura de que Ryan no dijo todo eso en serio."
 
 # game/v3/v3.rpy:2995
 translate espanol df_bd_0265b299:
