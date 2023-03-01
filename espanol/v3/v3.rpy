@@ -544,97 +544,97 @@ translate espanol cq_a_3c052600:
 translate espanol cq_a_0717de8c:
 
     # u "No, I do. It's just... I never thought of breaking into the gym."
-    u "No, I do. It's just... I never thought of breaking into the gym."
+    u "Si, me gusta. Es que... Nunca pensé que me metería de noche al gimnasio."
 
 # game/v3/v3.rpy:528
 translate espanol cq_a_5d26808e:
 
     # cl "Really? You never wanted to have the whole gym to yourself? To do whatever you want?"
-    cl "Really? You never wanted to have the whole gym to yourself? To do whatever you want?"
+    cl "¿En serio? ¿Nunca quisiste tener todo el gimnasio para vos solo? ¿Hacer lo que vos quieras?"
 
 # game/v3/v3.rpy:533
 translate espanol cq_a_b25ee3be:
 
     # u "I mean I can't say I have, but I'm starting to get the appeal."
-    u "I mean I can't say I have, but I'm starting to get the appeal."
+    u "A ver, no puedo decir que nunca lo pensé, pero estoy empezando a agarrarle el gustito."
 
 # game/v3/v3.rpy:538
 translate espanol cq_a_a7dd3f3b:
 
     # cl "Haha, good."
-    cl "Haha, good."
+    cl "Mejor, jaja."
 
 # game/v3/v3.rpy:547
 translate espanol cq_b_86792eeb:
 
     # cl "You know, I used to play volleyball in high school, you up for a challenge?"
-    cl "You know, I used to play volleyball in high school, you up for a challenge?"
+    cl "Para tu información, solía jugar al volleyball en la secundaria, ¿estás listo para un desafío?"
 
 # game/v3/v3.rpy:552
 translate espanol cq_b_213a59e4:
 
     # u "Bring it on."
-    u "Bring it on."
+    u "Arranquemos."
 
 # game/v3/v3.rpy:627
 translate espanol cq_b_ccb52080:
 
     # cl "Oh no, it was so close!"
-    cl "Oh no, it was so close!"
+    cl "Ay no, ¡estuvo tan cerca!"
 
 # game/v3/v3.rpy:632
 translate espanol cq_b_c8286472:
 
     # u "I'm sure you'll get me next time."
-    u "I'm sure you'll get me next time."
+    u "Estoy seguro que la proxima me vas a ganar."
 
 # game/v3/v3.rpy:648
 translate espanol cq_b_c47518cf:
 
     # cl "Yaaay, I won!"
-    cl "Yaaay, I won!"
+    cl "Siiiii, ¡Gané!"
 
 # game/v3/v3.rpy:653
 translate espanol cq_b_2abd3fc6:
 
     # u "Oh I'll get you next time."
-    u "Oh I'll get you next time."
+    u "Ohh, ya vas a ver la próxima."
 
 # game/v3/v3.rpy:664
 translate espanol cr_bd_f7a51d54:
 
     # cl "So there'll be a next time, huh?"
-    cl "So there'll be a next time, huh?"
+    cl "Asique va a haber una próxima, ¿eh?"
 
 # game/v3/v3.rpy:679
 translate espanol cr_bd_e212e38e:
 
     # u "I certainly hope so."
-    u "I certainly hope so."
+    u "Definitivamente espero que sí."
 
 # game/v3/v3.rpy:691
 translate espanol cr_bd_5308a73f:
 
     # sec "Hello? Is there anyone in here?"
-    sec "Hello? Is there anyone in here?"
+    sec "¿Hola? ¿Hay alguién acá?"
 
 # game/v3/v3.rpy:696
 translate espanol cr_bd_e21707ef:
 
     # cl "Shit! We need to hide, we're not allowed to be here."
-    cl "Shit! We need to hide, we're not allowed to be here."
+    cl "¡Mierda! Nos tenemos que esconder, se supone que no podemos estar acá."
 
 # game/v3/v3.rpy:708
 translate espanol cr_bd_e416f008:
 
     # sec "Anyone in here?"
-    sec "Anyone in here?"
+    sec "¿Hay alguién acá?"
 
 # game/v3/v3.rpy:713
 translate espanol cr_bd_20003bad:
 
     # sec "I could have sworn I turned the lights off earlier."
-    sec "I could have sworn I turned the lights off earlier."
+    sec "Podría jurar que apagué las luces antes."
 
 # game/v3/v3.rpy:715
 translate espanol cr_bd_53e843eb:
@@ -646,445 +646,445 @@ translate espanol cr_bd_53e843eb:
 translate espanol cr_bd_46f3ea6c:
 
     # u "Wow, that was close."
-    u "Wow, that was close."
+    u "Wow, eso estuvo cerca."
 
 # game/v3/v3.rpy:737
 translate espanol cr_bd_300d327b:
 
     # cl "Yeah, we should probably get out of here."
-    cl "Yeah, we should probably get out of here."
+    cl "Seh, probablemente deberíamos irnos de acá."
 
 # game/v3/v3.rpy:744
 translate espanol cr_bd_fc93144e:
 
     # cl "So, are we even now?"
-    cl "So, are we even now?"
+    cl "Asique, ¿estamos bien ahora?"
 
 # game/v3/v3.rpy:749
 translate espanol cr_bd_f00b573d:
 
     # u "Yeah, we definitely are. We should do this again sometime."
-    u "Yeah, we definitely are. We should do this again sometime."
+    u "Seh, definitivamente lo estamos. Deberíamos hacer esto de nuevo algún día."
 
 # game/v3/v3.rpy:751
 translate espanol cr_bd_2520a71c:
 
     # u "Well, maybe not exactly this."
-    u "Well, maybe not exactly this."
+    u "Bueno, tal vez no exactamente esto."
 
 # game/v3/v3.rpy:756
 translate espanol cr_bd_69597b38:
 
     # cl "*Laughs* Yeah."
-    cl "*Laughs* Yeah."
+    cl "*Ríe* Dale."
 
 # game/v3/v3.rpy:758
 translate espanol cr_bd_3c2c7442:
 
     # cl "I should probably go now, but you have my number."
-    cl "I should probably go now, but you have my number."
+    cl "Me debería ir yendo ahora, pero tenes mi número."
 
 # game/v3/v3.rpy:760
 translate espanol cr_bd_3ed7e322:
 
     # cl "Bye, [name]."
-    cl "Bye, [name]."
+    cl "Nos vemos, [name]."
 
 # game/v3/v3.rpy:765
 translate espanol cr_bd_6b69ffb3:
 
     # u "I'll see you, Chloe."
-    u "I'll see you, Chloe."
+    u "Nos vemos, Chloe."
 
 # game/v3/v3.rpy:782
 translate espanol cr_bd_5172a633:
 
     # u "Hey, give that back to me."
-    u "Hey, give that back to me."
+    u "Ey, devolveme eso."
 
 # game/v3/v3.rpy:787
 translate espanol cr_bd_66f675f1:
 
     # em "You're gonna have to go and get it."
-    em "You're gonna have to go and get it."
+    em "Vas a tener que venir a buscarlo."
 
 # game/v3/v3.rpy:792
 translate espanol cr_bd_a8ec3b98:
 
     # u "Oh, I'll get it."
-    u "Oh, I'll get it."
+    u "Ohh, lo voy a agarrar."
 
 # game/v3/v3.rpy:807
 translate espanol cr_bd_547b0820:
 
     # em "Uhm, I don't think that's what you wanted to grab."
-    em "Uhm, I don't think that's what you wanted to grab."
+    em "Ehm, no creo que eso sea lo que querías agarrar."
 
 # game/v3/v3.rpy:812
 translate espanol cr_bd_be1a657f:
 
     # u "Oh, I think it is."
-    u "Oh, I think it is."
+    u "Ohh, yo creo que si."
 
 # game/v3/v3.rpy:849
 translate espanol cr_bd_921a112c:
 
     # u "Emily? It's 2 am, what are you doing here? I thought you were at your friend's birthday party?"
-    u "Emily? It's 2 am, what are you doing here? I thought you were at your friend's birthday party?"
+    u "¿Emily? Son las 2 de la mañana, ¿qué estas haciendo acá? ¿No estabas en la fiesta de cumpleaños de tu amigo?"
 
 # game/v3/v3.rpy:854
 translate espanol cr_bd_148d796e:
 
     # em "[name], I did something bad."
-    em "[name], I did something bad."
+    em "[name], hice algo malo"
 
 # game/v3/v3.rpy:867
 translate espanol cr_bd_0dc0fc89:
 
     # u "How could you do this to me?!"
-    u "How could you do this to me?!"
+    u "¡¿Como me pudiste hacer esto?!"
 
 # game/v3/v3.rpy:872
 translate espanol cr_bd_343e787c:
 
     # em "I'm sorry! I was vulnerable, okay?! Please, I need you."
-    em "I'm sorry! I was vulnerable, okay?! Please, I need you."
+    em "¡Perdoname! Estaba vulnerable, entendelo. Por favor, te necesito."
 
 # game/v3/v3.rpy:879
 translate espanol cr_bd_a70c6f6d:
 
     # u "WHY DID YOU HAVE TO RUIN EVERYTHING?!"
-    u "WHY DID YOU HAVE TO RUIN EVERYTHING?!"
+    u "¡¿PORQUÉ TUVISTE QUE ARRUINAR TODO?!"
 
 # game/v3/v3.rpy:889
 translate espanol cr_bd_ba03aa18:
 
     # u "NO! This is wrong. Just get out! Leave me alone!"
-    u "NO! This is wrong. Just get out! Leave me alone!"
+    u "¡NO! Esto está mal. ¡Andáte!¡Dejame solo!"
 
 # game/v3/v3.rpy:899
 translate espanol cr_bd_3fd3d76d:
 
     # u "*Breathing heavily*"
-    u "*Breathing heavily*"
+    u "*Repirando agitadamente*"
 
 # game/v3/v3.rpy:913
 translate espanol cr_bd_7eeccac5:
 
     # imre "Wake up! It's time for training."
-    imre "Wake up! It's time for training."
+    imre "¡Despertate! Tenemos que ir a entrenar."
 
 # game/v3/v3.rpy:918
 translate espanol cr_bd_8b258704:
 
     # u "Huh?"
-    u "Huh?"
+    u "¿Eh?"
 
 # game/v3/v3.rpy:923
 translate espanol cr_bd_e90ad591:
 
     # imre "You said you were gonna train with me."
-    imre "You said you were gonna train with me."
+    imre "Dijiste que ibas a entrenar conmigo."
 
 # game/v3/v3.rpy:925
 translate espanol cr_bd_acf34453:
 
     # imre "Remember? Yesterday? In class?"
-    imre "Remember? Yesterday? In class?"
+    imre "¿Te acordas? ¿Ayer? ¿En clase?"
 
 # game/v3/v3.rpy:930
 translate espanol cr_bd_d4fab85d:
 
     # u "Right, right. Uhm... give me 10 minutes okay?"
-    u "Right, right. Uhm... give me 10 minutes okay?"
+    u "Ahh, cierto, cierto... Ehm... ¿Me das 10 minutos?"
 
 # game/v3/v3.rpy:935
 translate espanol cr_bd_2f52e5ce:
 
     # u "So uh... where exactly are we going?"
-    u "So uh... where exactly are we going?"
+    u "Ehm... ¿Adónde es que estamos yendo?"
 
 # game/v3/v3.rpy:940
 translate espanol cr_bd_086919fc:
 
     # imre "Sports X, it's the cheapest gym in the area and it has basic fighting equipment."
-    imre "Sports X, it's the cheapest gym in the area and it has basic fighting equipment."
+    imre "Sports X, es el gimnasio más barato de la zona y tiene equipamiento básico de pelea."
 
 # game/v3/v3.rpy:945
 translate espanol cr_bd_a4ef4c6e:
 
     # u "Oh, is that where the Wolves train as well?"
-    u "Oh, is that where the Wolves train as well?"
+    u "Ahh, ¿Ahí es donde entrenan los Wolves también?"
 
 # game/v3/v3.rpy:950
 translate espanol cr_bd_52d9d101:
 
     # imre "No, the Wolves have their own fighting gym in the basement. My brother helped build a lot of it."
-    imre "No, the Wolves have their own fighting gym in the basement. My brother helped build a lot of it."
+    imre "No, los Wolves tienen su propio gimnasio de pelea en el sótano. Mi hermano ayudo a armar gran parte de eso."
 
 # game/v3/v3.rpy:955
 translate espanol cr_bd_3e5ce331:
 
     # u "Then why don't you train with them? Didn't you plan on doing that anyways?"
-    u "Then why don't you train with them? Didn't you plan on doing that anyways?"
+    u "¿Entonces porqué no entrenas con ellos? ¿No era que pensabas hacer eso de todas maneras?"
 
 # game/v3/v3.rpy:960
 translate espanol cr_bd_6a03dbfb:
 
     # imre "You have to be a Wolf to train there. That's one of the reasons I can't wait to pledge, man."
-    imre "You have to be a Wolf to train there. That's one of the reasons I can't wait to pledge, man."
+    imre "Tenes que ser un Wolf para entrenar ahí. Esa es una de las razones por las que no puedo esperar para iniciarme con ellos."
 
 # game/v3/v3.rpy:965
 translate espanol cr_bd_22be2ff0:
 
     # imre "It really sucks 'cause the pledging period doesn't start 'til two weeks after the year has begun."
-    imre "It really sucks 'cause the pledging period doesn't start 'til two weeks after the year has begun."
+    imre "Es una mierda porque el periodo de iniciación no empieza hasta dos semanas después de que haya empezado el año."
 
 # game/v3/v3.rpy:970
 translate espanol cr_bd_14d4cf42:
 
     # u "Come on, that's like 10 more days."
-    u "Come on, that's like 10 more days."
+    u "Pero daale, son como 10 días nada más."
 
 # game/v3/v3.rpy:975
 translate espanol cr_bd_29273a9f:
 
     # imre "Yeah, I guess..."
-    imre "Yeah, I guess..."
+    imre "Si, supongo que tenes razón..."
 
 # game/v3/v3.rpy:980
 translate espanol cr_bd_9fc74789:
 
     # imre "Hey there, my friend would like a trial pass."
-    imre "Hey there, my friend would like a trial pass."
+    imre "Buenas, mi amigo quisiera un pase de prueba."
 
 # game/v3/v3.rpy:985
 translate espanol cr_bd_8440e24f:
 
     # li "Yeah, that's no problem. I just need an ID."
-    li "Yeah, that's no problem. I just need an ID."
+    li "Si, como no. Solo necesito una identificación."
 
 # game/v3/v3.rpy:990
 translate espanol cr_bd_b2269c4f:
 
     # imre "So uh... girl, you single?"
-    imre "So uh... girl, you single?"
+    imre "Asique... Divina, ¿estas soltera?"
 
 # game/v3/v3.rpy:995
 translate espanol cr_bd_ae8ad83e:
 
     # u "Smooth..."
-    u "Smooth..."
+    u "Que chamuyo..."
 
 # game/v3/v3.rpy:1000
 translate espanol cr_bd_838a2e5b:
 
     # li "Yes, I am."
-    li "Yes, I am."
+    li "Si, lo estoy."
 
 # game/v3/v3.rpy:1005
 translate espanol cr_bd_3db94bd4:
 
     # imre "Do you wanna maybe... you know, hang out sometime?"
-    imre "Do you wanna maybe... you know, hang out sometime?"
+    imre "Queres, tal vez, no se.. Ya sabes ¿Salir a tomar algo algún día?"
 
 # game/v3/v3.rpy:1010
 translate espanol cr_bd_498da520:
 
     # li "Hmmm... Do I wanna hang out with you?"
-    li "Hmmm... Do I wanna hang out with you?"
+    li "Hmmm... ¿Si quiero salir a tomar algo con vos?"
 
 # game/v3/v3.rpy:1012
 translate espanol cr_bd_b1e887f4:
 
     # li "On one hand..."
-    li "On one hand..."
+    li "Por un lado..."
 
 # game/v3/v3.rpy:1013
 translate espanol cr_bd_4f793aa2:
 
     # li "You seem like a barely-legal-age wannabe jock that hits on any and every girl he sees, regardless of how appropriate or welcome it is."
-    li "You seem like a barely-legal-age wannabe jock that hits on any and every girl he sees, regardless of how appropriate or welcome it is."
+    li "Pareces un aspirante a deportista que apenas cumplió los 18 que coquetea con todas y cada una de las chicas que ve, sin importarle que tan apropiado o adecuado sea."
 
 # game/v3/v3.rpy:1015
 translate espanol cr_bd_a72db001:
 
     # li "But on the other hand..."
-    li "But on the other hand..."
+    li "Pero por el otro lado..."
 
 # game/v3/v3.rpy:1017
 translate espanol cr_bd_549cbcb0:
 
     # li "No, actually that's it."
-    li "No, actually that's it."
+    li "No, de hecho, eso es todo."
 
 # game/v3/v3.rpy:1022
 translate espanol cr_bd_6a54ad46:
 
     # imre "So, that's a ye-"
-    imre "So, that's a ye-"
+    imre "Asique eso es un s-"
 
 # game/v3/v3.rpy:1027
 translate espanol cr_bd_460e63a3:
 
     # li "It's a no."
-    li "It's a no."
+    li "Es un no."
 
 # game/v3/v3.rpy:1032
 translate espanol cr_bd_55cb65d0:
 
     # imre "You're missing out, girl."
-    imre "You're missing out, girl."
+    imre "Vos te lo perdés querida."
 
 # game/v3/v3.rpy:1037
 translate espanol cr_bd_5b5e6497:
 
     # u "It's interesting how you always find new ways to make women uncomfortable."
-    u "It's interesting how you always find new ways to make women uncomfortable."
+    u "Es interesante como siempre te las rebuscas para encontrar nuevas formas de poner a las mujeres incómodas."
 
 # game/v3/v3.rpy:1042
 translate espanol cr_bd_dd7e7412:
 
     # imre "At least I try, man. Girls always expect you to make the first move."
-    imre "At least I try, man. Girls always expect you to make the first move."
+    imre "Al menos lo intento. Las chicas siempre esperan que vos hagas el primer movimiento."
 
 # game/v3/v3.rpy:1044
 translate espanol cr_bd_9c25b5e4:
 
     # imre "Think about how many girls you could have had if you didn't pussy out everytime."
-    imre "Think about how many girls you could have had if you didn't pussy out everytime."
+    imre "Pensá en cuantas mujeres podrías haber tenído si no fueras tan cagón siempre."
 
 # game/v3/v3.rpy:1049
 translate espanol cr_bd_76046c5e:
 
     # u "Hey! When have I ever pussied out?"
-    u "Hey! When have I ever pussied out?"
+    u "¡Hey! ¿Cuando me acobarde?"
 
 # game/v3/v3.rpy:1054
 translate espanol cr_bd_6aaac884:
 
     # imre "You know what? Never mind, player."
-    imre "You know what? Never mind, player."
+    imre "¿Sabés qué? No importa, jugador."
 
 # game/v3/v3.rpy:1058
 translate espanol cr_bd_88f06d34:
 
     # imre "Now, show me what you've got."
-    imre "Now, show me what you've got."
+    imre "Ahora, mostrame lo que sabes."
 
 # game/v3/v3.rpy:1092
 translate espanol cw_a_189777f9:
 
     # imre "*Laughs* Great first move, flawless execution."
-    imre "*Laughs* Great first move, flawless execution."
+    imre "*Ríe* Gran primer movimiento, una ejecución impecable."
 
 # game/v3/v3.rpy:1094
 translate espanol cw_a_3586bb88:
 
     # imre "How about we start with the basics? Do you know how to throw a hook, jab and kick?"
-    imre "How about we start with the basics? Do you know how to throw a hook, jab and kick?"
+    imre "¿Qué tal si empezamos con lo básico? ¿Sabés pegar un gancho, golpe y una patada?"
 
 # game/v3/v3.rpy:1099
 translate espanol cw_a_0c0a6182:
 
     # u "Uhm yeah, sure."
-    u "Uhm yeah, sure."
+    u "Ehm, si, seguro."
 
 # game/v3/v3.rpy:1144
 translate espanol cw_b_0e2a9c39:
 
     # imre "Alriiight. It wasn't exactly perfect form, but it's pretty good for a beginner."
-    imre "Alriiight. It wasn't exactly perfect form, but it's pretty good for a beginner."
+    imre "Bueeeeno. No fue exactamente una forma perfecta, pero está bastante bien para un principiante."
 
 # game/v3/v3.rpy:1146
 translate espanol cw_b_934009a2:
 
     # imre "Let me just go take a piss and we can get to work when I'm back."
-    imre "Let me just go take a piss and we can get to work when I'm back."
+    imre "Bancame que voy al baño y podemos ponernos a practicar cuando vuelva."
 
 # game/v3/v3.rpy:1151
 translate espanol cw_b_6ef4da5d:
 
     # u "Okay, sounds good."
-    u "Okay, sounds good."
+    u "Okay, perfecto."
 
 # game/v3/v3.rpy:1156
 translate espanol cw_b_c9d82dab:
 
     # u "(Why do people come here so early in the morning just to work out?)"
-    u "(Why do people come here so early in the morning just to work out?)"
+    u "(¿Porqué la gente viene tan temprano al gimnasio solo para entrenar?)"
 
 # game/v3/v3.rpy:1162
 translate espanol cw_b_aaeba228:
 
     # u "(Isn't that the cute store clerk from the costume shop?)"
-    u "(Isn't that the cute store clerk from the costume shop?)"
+    u "(¿Esa no es la vendedora del local de disfraces?)"
 
 # game/v3/v3.rpy:1172
 translate espanol cx_a_6405b247:
 
     # u "Hey, you were working in the costume shop yesterday, right?"
-    u "Hey, you were working in the costume shop yesterday, right?"
+    u "Buenas, ayer estabas trabajando en el local de disfraces, ¿verdad?"
 
 # game/v3/v3.rpy:1177
 translate espanol cx_a_8370dc32:
 
     # ev "Yeah, and you're the kid that still calls it a costume shop even though I thoroughly explained that it's just a regular clothing shop now."
-    ev "Yeah, and you're the kid that still calls it a costume shop even though I thoroughly explained that it's just a regular clothing shop now."
+    ev "Ajam, y vos sos ese chico que le sigue llamando un local de disfraces a pesar de que le explique detalladamente que ahora es solamente un local de ropa."
 
 # game/v3/v3.rpy:1182
 translate espanol cx_a_f1c513ec:
 
     # u "Look, I think you're quite cute and my friend thinks I chicken out when it comes to girls..."
-    u "Look, I think you're quite cute and my friend thinks I chicken out when it comes to girls..."
+    u "Mira, creo que sos muy linda y mi amigo piensa que soy un cagón cuando se trata de chicas..."
 
 # game/v3/v3.rpy:1184
 translate espanol cx_a_9b88e00e:
 
     # u "Is there any chance I could get your number?"
-    u "Is there any chance I could get your number?"
+    u "¿Hay alguna chance de que me puedas dar tu número?"
 
 # game/v3/v3.rpy:1189
 translate espanol cx_a_4251955d:
 
     # ev "I'm very flattered, but I'm 25 and you seem a bit too young for me."
-    ev "I'm very flattered, but I'm 25 and you seem a bit too young for me."
+    ev "Es todo un halago, pero tengo 25 y pareces un poco muy joven para mi."
 
 # game/v3/v3.rpy:1194
 translate espanol cx_a_c7a9cc52:
 
     # u "Give me one date to change your mind."
-    u "Give me one date to change your mind."
+    u "Dame una salida para cambiar tu opinión."
 
 # game/v3/v3.rpy:1196
 translate espanol cx_a_76b147b2:
 
     # u "Come on, it'll be fun."
-    u "Come on, it'll be fun."
+    u "Dale va a ser divertido."
 
 # game/v3/v3.rpy:1201
 translate espanol cx_a_b70f8686:
 
     # ev "Give me one good reason to give you a chance."
-    ev "Give me one good reason to give you a chance."
+    ev "Dame una buena razón para que te de una chance."
 
 # game/v3/v3.rpy:1210
 translate espanol cx_a_ab03e551:
 
     # u "Look, I don't know and you don't know me. I'm [name] and I'm just looking for someone to have a good time with."
-    u "Look, I don't know and you don't know me. I'm [name] and I'm just looking for someone to have a good time with."
+    u "Mira, no me conoces y yo no te conozco. Soy [name] y estoy buscando a alguién para pasar un buen rato."
 
 # game/v3/v3.rpy:1212
 translate espanol cx_a_89d9b46a:
 
     # u "It's not gonna be the most exciting night of your life, and it's not gonna be a boring night at home playing jenga with the girls."
-    u "It's not gonna be the most exciting night of your life, and it's not gonna be a boring night at home playing jenga with the girls."
+    u "No va a ser la noche más excitante de tu vida, y no va a ser una noche aburrida en casa jugando al jenga con tus amigas."
 
 # game/v3/v3.rpy:1214
 translate espanol cx_a_3fcd6793:
 
     # u "What this night will do, is serve as a benchmark for future dates with me."
-    u "What this night will do, is serve as a benchmark for future dates with me."
+    u "Lo que sí va a pasar esta noche, es tener un punto de referencia para futuras salidas conmigo."
 
 # game/v3/v3.rpy:1216
 translate espanol cx_a_6c6f5a99:
