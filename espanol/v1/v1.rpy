@@ -196,7 +196,7 @@ translate espanol starta_5103a9b9:
 translate espanol starta_159d4a13:
 
     # u "No, I don't think so, Julia."
-u "No, no lo creo Julia."
+    u "No, no lo creo Julia."
 
 # game/v1/v1.rpy:244
 translate espanol aa_db_befaf879:
