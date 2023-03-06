@@ -1276,7 +1276,7 @@ translate espanol repeatk_54591f14:
 translate espanol repeatk_7efdfdd7:
 
     # imre "A booty call this early in the day? Respect, my man."
-    imre "¿Un garche tan tempranito? Mis respetos querido."
+    imre "¿Sexo casual tan tempranito? Mis respetos querido."
 
 # game/v3/v3.rpy:1409
 translate espanol repeatk_8321eaa9:
@@ -1460,7 +1460,7 @@ translate espanol repeatl_54591f14:
 translate espanol repeatl_7efdfdd7:
 
     # imre "A booty call this early in the day? Respect, my man."
-    imre "¿Un garche tan tempranito? Mis respetos querido"
+    imre "¿Sexo casual tan tempranito? Mis respetos querido"
 
 # game/v3/v3.rpy:1606
 translate espanol repeatl_8321eaa9:
@@ -1711,7 +1711,7 @@ translate espanol repeatm_54591f14:
 translate espanol repeatm_7efdfdd7:
 
     # imre "A booty call this early in the day? Respect, my man."
-    imre "¿Un garche tan tempranito? Mis respetos querido"
+    imre "¿Sexo casual tan tempranito? Mis respetos querido"
 
 # game/v3/v3.rpy:1863
 translate espanol repeatm_8321eaa9:
@@ -2870,91 +2870,91 @@ translate espanol df_bd_76fc60eb:
 translate espanol df_bd_0265b299:
 
     # u "I just don't get why he's siding with Grayson after what happened."
-    u "I just don't get why he's siding with Grayson after what happened."
+    u "Lo que no entiendo es porqué se esstá poniendo del lado ge Grayson después de lo que pasó."
 
 # game/v3/v3.rpy:2997
 translate espanol df_bd_72ce0eeb:
 
     # u "He should be helping me get back at him instead of becoming his best friend."
-    u "He should be helping me get back at him instead of becoming his best friend."
+    u "Debería estár ayudandome a vengarme en vez de volverse su mejor amigo."
 
 # game/v3/v3.rpy:3002
 translate espanol df_bd_5cb13cb5:
 
     # ri "I know... can you please just come back and maybe we can talk it out?"
-    ri "I know... can you please just come back and maybe we can talk it out?"
+    ri "Lo se... ¿Podrías volver y tal vez hablarlo?"
 
 # game/v3/v3.rpy:3007
 translate espanol df_bd_a26dc3ba:
 
     # u "There's no talking to him, he doesn't seem to understand what loyalty even is."
-    u "There's no talking to him, he doesn't seem to understand what loyalty even is."
+    u "No hay nada que hablar con él, al parecer ni entiende lo que es la lealtad."
 
 # game/v3/v3.rpy:3012
 translate espanol df_bd_d1f5aa94:
 
     # ri "If you don't wanna talk to him, can you at least talk to me?"
-    ri "If you don't wanna talk to him, can you at least talk to me?"
+    ri "Si no queres hablar con él, ¿podes al menos hablar conmigo?"
 
 # game/v3/v3.rpy:3017
 translate espanol df_bd_ae10b6d0:
 
     # u "Fine."
-    u "Fine."
+    u "Bueno."
 
 # game/v3/v3.rpy:3027
 translate espanol df_bd_e34d20b3:
 
     # ri "So what's going on between you and Chloe? She's the President of the Chicks, right?"
-    ri "So what's going on between you and Chloe? She's the President of the Chicks, right?"
+    ri "¿Qué es lo que hay entre vos y Chloe? Es la presidente de las Chicks, ¿verdad?"
 
 # game/v3/v3.rpy:3036
 translate espanol df_bd_1f3a7ba6:
 
     # u "Yeah, we met at the Apes' rush party and I really like her."
-    u "Yeah, we met at the Apes' rush party and I really like her."
+    u "Si, nos conocimos en la fiesta de los Apes y me gusta mucho."
 
 # game/v3/v3.rpy:3038
 translate espanol df_bd_b68ceaa7:
 
     # u "We haven't done anything yet, but I feel like we really have a connection, you know?"
-    u "We haven't done anything yet, but I feel like we really have a connection, you know?"
+    u "No hicimos nada todavía, pero siento que de verdad tenemos una conección, ¿sabés?"
 
 # game/v3/v3.rpy:3043
 translate espanol df_bd_3438b585:
 
     # ri "Oh uhm... yeah, that sounds really good. I'm happy for you."
-    ri "Oh uhm... yeah, that sounds really good. I'm happy for you."
+    ri "Ah, ehm... Si, eso suena muy lindo. Estoy contenta por vos."
 
 # game/v3/v3.rpy:3051
 translate espanol df_bd_bd44de72:
 
     # u "Yeah, I mean it's nothing serious. She's really into me, but I don't know how I feel yet."
-    u "Yeah, I mean it's nothing serious. She's really into me, but I don't know how I feel yet."
+    u "Seh, a ver, no es nada serio. A ella definitivamente le gusto, pero no se como sentirme todavía."
 
 # game/v3/v3.rpy:3053
 translate espanol df_bd_8d04bbfa:
 
     # u "You know, keeping my options open?"
-    u "You know, keeping my options open?"
+    u "Ya sabés, ¿mantener mis opciones abiertas?"
 
 # game/v3/v3.rpy:3058
 translate espanol df_bd_5f70e45e:
 
     # ri "I can certainly see why she'd be into you."
-    ri "I can certainly see why she'd be into you."
+    ri "Definitivamente puedo ver porqué le gustas."
 
 # game/v3/v3.rpy:3063
 translate espanol df_bd_09332657:
 
     # u "What do you mean?"
-    u "What do you mean?"
+    u "¿A qué te referis?"
 
 # game/v3/v3.rpy:3068
 translate espanol df_bd_d4ef56c4:
 
     # ri "You're attractive and charismatic and-"
-    ri "You're attractive and charismatic and-"
+    ri "Sos atractivo y carismático y-"
 
 # game/v3/v3.rpy:3081
 translate espanol df_bd_9ea2f78c:
@@ -2966,67 +2966,67 @@ translate espanol df_bd_9ea2f78c:
 translate espanol df_bd_0a0f40c2:
 
     # ri "*Blushes* Uhm..."
-    ri "*Blushes* Uhm..."
+    ri "*Se sonroja* Ehm..."
 
 # game/v3/v3.rpy:3091
 translate espanol df_bd_e4879c99:
 
     # u "Sorry, I just had to."
-    u "Sorry, I just had to."
+    u "Perdón, pero tenía que."
 
 # game/v3/v3.rpy:3096
 translate espanol df_bd_44ddc5df:
 
     # ri "I'm glad you did."
-    ri "I'm glad you did."
+    ri "Me alegra que lo hayas hecho."
 
 # game/v3/v3.rpy:3101
 translate espanol df_bd_ff3bb7de:
 
     # ri "Just a really great guy."
-    ri "Just a really great guy."
+    ri "Solo un muy buen chico."
 
 # game/v3/v3.rpy:3106
 translate espanol df_bd_d7cdc824:
 
     # u "Thanks, Riley."
-    u "Thanks, Riley."
+    u "Gracias Riley."
 
 # game/v3/v3.rpy:3111
 translate espanol dj_bd_f0d156c9:
 
     # ri "You know, Ryan is probably waiting for me to come back. Are you sure you wanna leave?"
-    ri "You know, Ryan is probably waiting for me to come back. Are you sure you wanna leave?"
+    ri "Bueno, probablemente Ryan esté esperando a que vuelva. ¿Estás seguro que te querés ir?"
 
 # game/v3/v3.rpy:3116
 translate espanol dj_bd_93c85a33:
 
     # u "Yeah, I think I need some space from Ryan."
-    u "Yeah, I think I need some space from Ryan."
+    u "Si, creo que necesito un poco de espacio con Ryan."
 
 # game/v3/v3.rpy:3121
 translate espanol dj_bd_c4dee2d3:
 
     # ri "Okay... I'll see you later then."
-    ri "Okay... I'll see you later then."
+    ri "Okey... Nos vemos más tarde entonces."
 
 # game/v3/v3.rpy:3126
 translate espanol dj_bd_b73f076e:
 
     # u "Yeah, I'll see you."
-    u "Yeah, I'll see you."
+    u "Dae, nos vemos."
 
 # game/v3/v3.rpy:3136
 translate espanol dj_bd_74405208:
 
     # u "(I can't believe I'm finally going on a real date with Lauren...)"
-    u "(I can't believe I'm finally going on a real date with Lauren...)"
+    u "(No puedo creer que finalmente vaya a una salida real con Lauren...)"
 
 # game/v3/v3.rpy:3138
 translate espanol dj_bd_fb18c3f4:
 
     # u "(I better not fuck this up.)"
-    u "(I better not fuck this up.)"
+    u "(Espero no cagarla.)"
 
 # game/v3/v3.rpy:3151
 translate espanol dj_bd_8b4972a9:
@@ -3038,543 +3038,543 @@ translate espanol dj_bd_8b4972a9:
 translate espanol dj_bd_366576ab:
 
     # u "Wow, you look incredible..."
-    u "Wow, you look incredible..."
+    u "Wow, te ves hermosa..."
 
 # game/v3/v3.rpy:3161
 translate espanol dj_bd_1fd8ba9d:
 
     # la "Awww, thank you, [name]."
-    la "Awww, thank you, [name]."
+    la "Awww, gracias [name]."
 
 # game/v3/v3.rpy:3166
 translate espanol dj_bd_44918a53:
 
     # u "Are you ready to go?"
-    u "Are you ready to go?"
+    u "¿Estás lista para ir?"
 
 # game/v3/v3.rpy:3171
 translate espanol dj_bd_e5270ccc:
 
     # la "Yeah, let's go."
-    la "Yeah, let's go."
+    la "Si, vamos."
 
 # game/v3/v3.rpy:3181
 translate espanol dj_bd_bd5debd3:
 
     # la "So, what did you do all day?"
-    la "So, what did you do all day?"
+    la "Asique, ¿Qué estuviste haciendo hoy?"
 
 # game/v3/v3.rpy:3186
 translate espanol dj_bd_bb9f8bdf:
 
     # u "(Okay, time to make a decision. Should I tell her about what happened with Aubrey?)"
-    u "(Okay, time to make a decision. Should I tell her about what happened with Aubrey?)"
+    u "(Okey, tengo que tomar una decisión. ¿Debería decirle lo que pasó con Aubrey?)"
 
 # game/v3/v3.rpy:3194
 translate espanol dj_bd_c1711764:
 
     # u "(Lauren values honesty and we're not in a relationship yet, so she'll probably be understanding as long as I tell her the truth.)"
-    u "(Lauren values honesty and we're not in a relationship yet, so she'll probably be understanding as long as I tell her the truth.)"
+    u "(Lauren valora la honestidad y no estamos en una relación todavía, asique probablemente lo entienda siempre y cuando le diga la verdad.)"
 
 # game/v3/v3.rpy:3196
 translate espanol dj_bd_9f9ae56b:
 
     # u "Okay listen, I need to tell you something."
-    u "Okay listen, I need to tell you something."
+    u "Bueno, escucha, te tengo que decir algo."
 
 # game/v3/v3.rpy:3201
 translate espanol dj_bd_3f3b9cc9:
 
     # la "What is it?"
-    la "What is it?"
+    la "¿Qué pasa?"
 
 # game/v3/v3.rpy:3206
 translate espanol dj_bd_766c1f0c:
 
     # u "This morning Aubrey invited me over..."
-    u "This morning Aubrey invited me over..."
+    u "Esta mañana Aubrey me invito a su habitación..."
 
 # game/v3/v3.rpy:3208
 translate espanol dj_bd_1041cce0:
 
     # u "... and we had sex."
-    u "... and we had sex."
+    u "... y tuvimos sexo."
 
 # game/v3/v3.rpy:3213
 translate espanol dj_bd_e0381dbe:
 
     # la "What?"
-    la "What?"
+    la "¿Qué?"
 
 # game/v3/v3.rpy:3218
 translate espanol dj_bd_90f46289:
 
     # u "I know how much you care about honesty and I wanted to start this right."
-    u "I know how much you care about honesty and I wanted to start this right."
+    u "Se lo mucho que valoras la honestidad y quería empezar esto bien."
 
 # game/v3/v3.rpy:3223
 translate espanol dj_bd_1392e01a:
 
     # la "You had sex with another girl... right before our first date?"
-    la "You had sex with another girl... right before our first date?"
+    la "Tuviste sexo con otra chica... ¿Justo antes de nuestra primera salida?"
 
 # game/v3/v3.rpy:3228
 translate espanol dj_bd_1fe04d68:
 
     # u "Yeah, but it's not like we're in a relationship. You see, I did nothing wrong."
-    u "Yeah, but it's not like we're in a relationship. You see, I did nothing wrong."
+    u "Si, pero ni que estuviesemos en una relación. Si lo ves de esa manera, no hice nada malo."
 
 # game/v3/v3.rpy:3233
 translate espanol dj_bd_e68b2f3e:
 
     # la "Right... Well great job on finding a loophole."
-    la "Right... Well great job on finding a loophole."
+    la "Cierto... Bueno, buen trabajo encontrando la letra chica."
 
 # game/v3/v3.rpy:3234
 translate espanol dj_bd_bed4ef40:
 
     # la "I don't think I wanna do this anymore."
-    la "I don't think I wanna do this anymore."
+    la "La verdad no creo querer hacer esto ahora."
 
 # game/v3/v3.rpy:3239
 translate espanol dj_bd_b0b382da:
 
     # u "But we're not even dating?! I was just being real!"
-    u "But we're not even dating?! I was just being real!"
+    u "¡¿Pero si ni siquiera saliendo?! ¡Estaba siendo honesto!"
 
 # game/v3/v3.rpy:3244
 translate espanol dj_bd_608e2d7d:
 
     # la "Be real with someone else then."
-    la "Be real with someone else then."
+    la "Bueno, se honesto con alguién más."
 
 # game/v3/v3.rpy:3251
 translate espanol dj_bd_90dd3450:
 
     # u "(Fuck me... I guess that's what honesty gets you.)"
-    u "(Fuck me... I guess that's what honesty gets you.)"
+    u "(Mierda... Supongo que esto es lo que ser honesto te da.)"
 
 # game/v3/v3.rpy:3258
 translate espanol dj_bd_086b7a34:
 
     # u "(Lauren seems to value loyalty, she might be upset if she finds out and I don't wanna ruin our date before it even started.)"
-    u "(Lauren seems to value loyalty, she might be upset if she finds out and I don't wanna ruin our date before it even started.)"
+    u "(Lauren valora la honestidad y no estamos en una relación todavía, asique probablemente lo entienda siempre y cuando le diga la verdad.)"
 
 # game/v3/v3.rpy:3264
 translate espanol dk_bb_70d0bde6:
 
     # u "Uhm... I went picnicking with Riley and Ryan. What about you?"
-    u "Uhm... I went picnicking with Riley and Ryan. What about you?"
+    u "Ehm... Fui de picnick con Riley y Ryan. ¿Y vos?"
 
 # game/v3/v3.rpy:3269
 translate espanol dk_bb_2ba1a056:
 
     # la "Mostly studying, I'm glad to finally do something exciting."
-    la "Mostly studying, I'm glad to finally do something exciting."
+    la "Más que nada estudiando, contenta de que porfín voy a hacer algo entretenido."
 
 # game/v3/v3.rpy:3274
 translate espanol dk_bb_4bc6e39b:
 
     # u "I'll make sure this date won't disappoint then."
-    u "I'll make sure this date won't disappoint then."
+    u "Me voy a asegurar de que esta salida no sea decepcionante entonces."
 
 # game/v3/v3.rpy:3288
 translate espanol dk_bb_b91d7543:
 
     # la "*Whispers* Why did you have to pick a horror film? Is fear really the emotion you want me to feel on our first date?"
-    la "*Whispers* Why did you have to pick a horror film? Is fear really the emotion you want me to feel on our first date?"
+    la "*Susurra* ¿Porqué tuviste que elegir una pelicula de terror? ¿Vos de verdad querés que el miedo sea lo que sienta en nuestra primera salida?"
 
 # game/v3/v3.rpy:3293
 translate espanol dk_bb_06178cae:
 
     # u "*Whispers* Oh come on, it's not that bad."
-    u "*Whispers* Oh come on, it's not that bad."
+    u "*Susurra* Ah pero, ni que diese tanto miedo."
 
 # game/v3/v3.rpy:3298
 translate espanol dk_bb_33c26e3e:
 
     # la "*Whispers* You just want me to hold your hand when you get scared."
-    la "*Whispers* You just want me to hold your hand when you get scared."
+    la "*Susurra* Vos solo queres que agarre tu mano cuando me asuste."
 
 # game/v3/v3.rpy:3303
 translate espanol dk_bb_f378906b:
 
     # u "*Whispers* Now would that be so bad?"
-    u "*Whispers* Now would that be so bad?"
+    u "*Susurra* ¿Y eso sería malo porque?"
 
 # game/v3/v3.rpy:3308
 translate espanol dk_bb_db8c1d89:
 
     # la "*Whispers* I could think of worse."
-    la "*Whispers* I could think of worse."
+    la "*Susurra* Podría pensar en algo peor."
 
 # game/v3/v3.rpy:3319
 translate espanol dk_bb_087c1159:
 
     # la "*Squeals*"
-    la "*Squeals*"
+    la "*Grita*"
 
 # game/v3/v3.rpy:3324
 translate espanol dk_bb_42b1868b:
 
     # u "*Whispers* Now look who's getting scared."
-    u "*Whispers* Now look who's getting scared."
+    u "*Susurra* Y mira vos quien tiene miedo."
 
 # game/v3/v3.rpy:3329
 translate espanol dk_bb_b7e79880:
 
     # la "*Whispers* I was just making sure you're safe."
-    la "*Whispers* I was just making sure you're safe."
+    la "*Susurra* Me estaba asegurando que estés a salvo."
 
 # game/v3/v3.rpy:3349
 translate espanol dl_b_b55fed01:
 
     # la "[name], I don't think I want to do this."
-    la "[name], I don't think I want to do this."
+    la "No creo querer hacer esto [name]"
 
 # game/v3/v3.rpy:3365
 translate espanol dl_b_2497b947:
 
     # la "*Moans quietly*"
-    la "*Moans quietly*"
+    la "*Gime despacio*"
 
 # game/v3/v3.rpy:3379
 translate espanol dl_b_da50d460:
 
     # la "I told you I don't want to do this!"
-    la "I told you I don't want to do this!"
+    la "¡Te dije que no quiero hacer esto!"
 
 # game/v3/v3.rpy:3389
 translate espanol dl_b_8e77b97d:
 
     # u "(Shit, I pushed it too far.)"
-    u "(Shit, I pushed it too far.)"
+    u "(Mierda, creo que fui muy lejos.)"
 
 # game/v3/v3.rpy:3399
 translate espanol dl_b_a0221d2e:
 
     # la "Thank you, I just need some time."
-    la "Thank you, I just need some time."
+    la "Gracias, solo necesito un poco más de tiempo."
 
 # game/v3/v3.rpy:3440
 translate espanol dl_b_98d8f433:
 
     # la "After watching that movie, I'm just constantly scared a clown's gonna jump out of one of these bushes."
-    la "After watching that movie, I'm just constantly scared a clown's gonna jump out of one of these bushes."
+    la "Después de mirar esa película, estoy constantemente asustada, como si un payaso fuese a saltar de uno de esos arbustos."
 
 # game/v3/v3.rpy:3445
 translate espanol dl_b_cd78de32:
 
     # u "Haha, don't worry, I'll protect you."
-    u "Haha, don't worry, I'll protect you."
+    u "Jaja, no te preocupes, yo te protejo."
 
 # game/v3/v3.rpy:3450
 translate espanol dl_b_c8a4dc14:
 
     # la "I'm not sure you'd have much of a chance against a killer clown."
-    la "I'm not sure you'd have much of a chance against a killer clown."
+    la "No creo que le puedas dar mucha pelea a un payaso asesino."
 
 # game/v3/v3.rpy:3455
 translate espanol dl_b_bee32251:
 
     # u "Oh trust me, you just haven't seen my tickle attack."
-    u "Oh trust me, you just haven't seen my tickle attack."
+    u "Oh, creeme, todavía no viste mi ataque de cosquillas."
 
 # game/v3/v3.rpy:3460
 translate espanol dl_b_c06e9f97:
 
     # la "Your tickle attack?"
-    la "Your tickle attack?"
+    la "¿Tu ataque de cosquillas?"
 
 # game/v3/v3.rpy:3465
 translate espanol dl_b_cf680df2:
 
     # la "*Laughs* Hahaha, stop."
-    la "*Laughs* Hahaha, stop."
+    la "*Rie* Jajaja, pará."
 
 # game/v3/v3.rpy:3470
 translate espanol dl_b_10958600:
 
     # u "See? The clown wouldn't stand a chance."
-    u "See? The clown wouldn't stand a chance."
+    u "¿Ves? El payaso no dendria chances."
 
 # game/v3/v3.rpy:3475
 translate espanol dl_b_a27ff253:
 
     # la "Haha, maybe you're right."
-    la "Haha, maybe you're right."
+    la "Jaja, tal vez tengas razón."
 
 # game/v3/v3.rpy:3486
 translate espanol dl_b_c576edb0:
 
     # la "I had a great time tonight."
-    la "I had a great time tonight."
+    la "La pase genial esta noche."
 
 # game/v3/v3.rpy:3491
 translate espanol dl_b_ad6d6b80:
 
     # u "Yeah, me too. We should do something this weekend."
-    u "Yeah, me too. We should do something this weekend."
+    u "Si, yo también. Podríamos hacer algo este fin de semana."
 
 # game/v3/v3.rpy:3496
 translate espanol dl_b_ae77e33d:
 
     # la "Yeah, that sounds good."
-    la "Yeah, that sounds good."
+    la "Si, suena genial."
 
 # game/v3/v3.rpy:3501
 translate espanol dl_b_f49a6891:
 
     # la "Also I was gonna ask you something."
-    la "Also I was gonna ask you something."
+    la "Te quería preguntar una cosa."
 
 # game/v3/v3.rpy:3503
 translate espanol dl_b_71a3e04b:
 
     # la "For one of my psychology assignments I need to do several personality tests on someone and analyze them."
-    la "For one of my psychology assignments I need to do several personality tests on someone and analyze them."
+    la "Para una de mis clases de psicología necesito hacer varios exámenes de personalidad en alguién y analizarlos."
 
 # game/v3/v3.rpy:3505
 translate espanol dl_b_6d24cda0:
 
     # la "Would you wanna be my test subject?"
-    la "Would you wanna be my test subject?"
+    la "¿Querrías ser mi sujeto de pruebas?"
 
 # game/v3/v3.rpy:3510
 translate espanol dl_b_3cb5541e:
 
     # u "Yeah, definitely!"
-    u "Yeah, definitely!"
+    u "¡Si, definitivamente!"
 
 # game/v3/v3.rpy:3515
 translate espanol dl_b_fa40b26a:
 
     # la "Really? Thank you so much."
-    la "Really? Thank you so much."
+    la "¿En serio? Muchísimas gracias."
 
 # game/v3/v3.rpy:3527
 translate espanol dl_b_53d87c5b:
 
     # la "Good night, [name]."
-    la "Good night, [name]."
+    la "Que cescanses [name]."
 
 # game/v3/v3.rpy:3532
 translate espanol dl_b_6ee232c7:
 
     # u "Yeah, good night, Lauren."
-    u "Yeah, good night, Lauren."
+    u "Que descanses Lauren."
 
 # game/v3/v3.rpy:3573
 translate espanol continues_88cebf20:
 
     # u "(Huh, who would call me this late?)"
-    u "(Huh, who would call me this late?)"
+    u "(Huh, ¿quién me llama a esta hora?)"
 
 # game/v3/v3.rpy:3582
 translate espanol continues_fcfea652:
 
     # u "Hello?"
-    u "Hello?"
+    u "¿Hola?"
 
 # game/v3/v3.rpy:3587
 translate espanol continues_4cf968b7:
 
     # unknown "Hello sir, am I talking to [name]?"
-    unknown "Hello sir, am I talking to [name]?"
+    unknown "Buenas noches serñor, ¿estoy hablando con [name]?"
 
 # game/v3/v3.rpy:3592
 translate espanol continues_5aa0c8d9:
 
     # u "Yeah that's me, who is this?"
-    u "Yeah that's me, who is this?"
+    u "Sí, él habla, ¿quién es?"
 
 # game/v3/v3.rpy:3597
 translate espanol continues_48d67560:
 
     # unknown "This is Sarah Haddock calling from San Vallejo Hospital. Do you happen to know Imre Varga? You're listed as his emergency contact."
-    unknown "This is Sarah Haddock calling from San Vallejo Hospital. Do you happen to know Imre Varga? You're listed as his emergency contact."
+    unknown "Le habla Sarah Haddock desde el hospital de San Vallejo. ¿Por casualidad usted conoce a Imre Varga? Está listado como su contacto de emergencia."
 
 # game/v3/v3.rpy:3602
 translate espanol continues_262e66aa:
 
     # u "Yes, he's my roommate. What happened?!"
-    u "Yes, he's my roommate. What happened?!"
+    u "Si, es mi compañero de cuarto. ¡¿Qué le paso?!"
 
 translate espanol strings:
 
     # game/v3/v3.rpy:145
     old "You're crazy"
-    new "You're crazy"
+    new "Estás loco."
 
     # game/v3/v3.rpy:145
     old "That's not cool"
-    new "That's not cool"
+    new "Eso no está bien"
 
     # game/v3/v3.rpy:205
     old "Hell yeah"
-    new "Hell yeah"
+    new "Bien ahí"
 
     # game/v3/v3.rpy:205
     old "She's alright"
-    new "She's alright"
+    new "Está decente"
 
     # game/v3/v3.rpy:505
     old "Ask her about it"
-    new "Ask her about it"
+    new "Preguntarle al respecto"
 
     # game/v3/v3.rpy:505
     old "Don't question it"
-    new "Don't question it"
+    new "No le preguntes"
 
     # game/v3/v3.rpy:601
     old "Win the game"
-    new "Win the game"
+    new "Ganar el juego"
 
     # game/v3/v3.rpy:601
     old "Let her win"
-    new "Let her win"
+    new "Dejarla ganar"
 
     # game/v3/v3.rpy:1060
     old "Stick to what you know"
-    new "Stick to what you know"
+    new "Quedarte con lo que sabés"
 
     # game/v3/v3.rpy:1164
     old "Approach her"
-    new "Approach her"
+    new "Acercarte"
 
     # game/v3/v3.rpy:1164
     old "Leave it"
-    new "Leave it"
+    new "Dejarla"
 
     # game/v3/v3.rpy:1385
     old "I wanna talk about what happened yesterday."
-    new "I wanna talk about what happened yesterday."
+    new "Quiero hablar de lo que pasó ayer."
 
     # game/v3/v3.rpy:1386
     old "Any chance that you could come over now?"
-    new "Any chance that you could come over now?"
+    new "¿Alguna posibilidad de que puedas venir ahora?"
 
     # game/v3/v3.rpy:1387
     old "Yeah, I can."
-    new "Yeah, I can."
+    new "Si, puedo."
 
     # game/v3/v3.rpy:1388
     old "My room has a window facing the backyard. Can you climb in through there? I'll leave it open."
-    new "My room has a window facing the backyard. Can you climb in through there? I'll leave it open."
+    new "Mi habitación tiene una ventana que da al patio. ¿Podes trepar por ahí? La voy a dejar abierta."
 
     # game/v3/v3.rpy:1389
     old "I'd prefer if none of the girls saw you."
-    new "I'd prefer if none of the girls saw you."
+    new "Prefería que ninguna de las chicas te vea."
 
     # game/v3/v3.rpy:1390
     old "Uhm... sure."
-    new "Uhm... sure."
+    new "Ehm... Seguro."
 
     # game/v3/v3.rpy:1524
     old "Take off your clothes"
-    new "Take off your clothes"
+    new "Sacate la ropa"
 
     # game/v3/v3.rpy:1524
     old "Refuse"
-    new "Refuse"
+    new "Negarse"
 
     # game/v3/v3.rpy:1579
     old "Hey, I really need your help."
-    new "Hey, I really need your help."
+    new "Hey, realmente necesito tu ayuda."
 
     # game/v3/v3.rpy:1581
     old "Yeah, I'll be right there.."
-    new "Yeah, I'll be right there.."
+    new "Okey, ahora voy para allá.."
 
     # game/v3/v3.rpy:1582
     old "My room has a window facing the backyard. Can you climb in through there instead of using the front door?"
-    new "My room has a window facing the backyard. Can you climb in through there instead of using the front door?"
+    new "Mi habitación tiene una ventana que da al patio. ¿Podés trepar por ahí en vez de usar la pruerta principal?"
 
     # game/v3/v3.rpy:1583
     old "I'll leave it open."
-    new "I'll leave it open."
+    new "La voy a dejar abierta."
 
     # game/v3/v3.rpy:1713
     old "Dare"
-    new "Dare"
+    new "Desafío"
 
     # game/v3/v3.rpy:1839
     old "Hey, you know how you had to cancel on me yesterday and you really want to make it up to me?"
-    new "Hey, you know how you had to cancel on me yesterday and you really want to make it up to me?"
+    new "Asique, ¿viste que ayer me dejaste plantada y que querías compensarmelo?"
 
     # game/v3/v3.rpy:1840
     old "Wanna come over now?"
-    new "Wanna come over now?"
+    new "¿Querés venir ahora?"
 
     # game/v3/v3.rpy:1841
     old "Uhh... okay."
-    new "Uhh... okay."
+    new "Ehh... okey."
 
     # game/v3/v3.rpy:2081
     old "Stop it"
-    new "Stop it"
+    new "Parar"
 
     # game/v3/v3.rpy:2538
     old "I'd love to"
-    new "I'd love to"
+    new "Me encantaría"
 
     # game/v3/v3.rpy:2538
     old "I don't know..."
-    new "I don't know..."
+    new "No lo se..."
 
     # game/v3/v3.rpy:2649
     old "Shopping sounds great"
-    new "Shopping sounds great"
+    new "Ir al shopping suena genial"
 
     # game/v3/v3.rpy:2649
     old "I can't, sorry"
-    new "I can't, sorry"
+    new "No puedo, perdón"
 
     # game/v3/v3.rpy:2753
     old "Compliment Riley"
-    new "Compliment Riley"
+    new "Halaga a Riley"
 
     # game/v3/v3.rpy:2753
     old "Agree with Ryan"
-    new "Agree with Ryan"
+    new "Coincidir con Ryan"
 
     # game/v3/v3.rpy:2920
     old "Insult Ryan"
-    new "Insult Ryan"
+    new "Insultar a Ryan"
 
     # game/v3/v3.rpy:3029
     old "I like her"
-    new "I like her"
+    new "Me gusta"
 
     # game/v3/v3.rpy:3029
     old "She's into me"
-    new "She's into me"
+    new "Le gusto a ella"
 
     # game/v3/v3.rpy:3188
     old "Tell her what happened"
-    new "Tell her what happened"
+    new "Contarle lo que pasó"
 
     # game/v3/v3.rpy:3188
     old "Don't tell her"
-    new "Don't tell her"
+    new "No contarle lo que paso"
 
     # game/v3/v3.rpy:3333
     old "Continue watching"
-    new "Continue watching"
+    new "Seguir viendo"
 
     # game/v3/v3.rpy:3340
     old "Reach under her skirt"
-    new "Reach under her skirt"
+    new "Poner la mano abajo de la pollera"
 
     # game/v3/v3.rpy:3340
     old "Keep hands to yourself"
-    new "Keep hands to yourself"
+    new "No hacer nada con las manos"
 
     # game/v3/v3.rpy:3351
     old "Keep going"
-    new "Keep going"
+    new "Seguir"
 
     # game/v3/v3.rpy:3351
     old "Stop"
-    new "Stop"
+    new "Parar"
 
