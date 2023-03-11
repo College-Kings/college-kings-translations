@@ -958,7 +958,7 @@ translate espanol cr_bd_9c25b5e4:
 translate espanol cr_bd_76046c5e:
 
     # u "Hey! When have I ever pussied out?"
-    u "¡Hey! ¿Cuando me acobarde?"
+    u "¡Hey! ¿Cuándo me acobarde?"
 
 # game/v3/v3.rpy:1054
 translate espanol cr_bd_6aaac884:
