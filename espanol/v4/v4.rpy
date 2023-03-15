@@ -2806,19 +2806,19 @@ translate espanol es_bd_b03cce99:
 translate espanol es_bd_09610840:
 
     # u "*Drunk* Maybe I- I'll come back later."
-    u "*Borracho* Tal vez- Tal vez venga más tarde."
+    u "*Borracho* Tal- Tal vez venga más tarde."
 
 # game/v4/v4.rpy:2808
 translate espanol es_bd_16030c75:
 
     # u "(*Drunk* Okay, I- I just gotta ask her straight up.)"
-    u "(*Drunk* Okay, I- I just gotta ask her straight up.)"
+    u "(*Borracho* Bueno, s- solo tengo que preguntarselo directamente.)"
 
 # game/v4/v4.rpy:2810
 translate espanol es_bd_b3822d0f:
 
     # u "(*Drunk* Does she- does she like me or is she just- just using me to get back at Grayson?)"
-    u "(*Drunk* Does she- does she like me or is she just- just using me to get back at Grayson?)"
+    u "(*Borracho* ¿Le g- gusto o solo me esta u- usando para vengarse de Grayson?)"
 
 # game/v4/v4.rpy:2819
 translate espanol es_bd_4f1997c1:
@@ -2830,169 +2830,169 @@ translate espanol es_bd_4f1997c1:
 translate espanol es_bd_b2db8899:
 
     # cl "Hey. You wanna come in?"
-    cl "Hey. You wanna come in?"
+    cl "Hey. ¿Querés pasar?"
 
 # game/v4/v4.rpy:2833
 translate espanol es_bd_0080dfa0:
 
     # u "*Drunk* Hey uh, actually... can we- can we talk outside first? I- I just wanna clear something up."
-    u "*Drunk* Hey uh, actually... can we- can we talk outside first? I- I just wanna clear something up."
+    u "*Borracho* Hey eh, en realidad... ¿Po- podemos hablar afuera primero? So- solo quiero aclarar unas cosas."
 
 # game/v4/v4.rpy:2838
 translate espanol es_bd_779bc2cc:
 
     # cl "[name], are you drunk?"
-    cl "[name], are you drunk?"
+    cl "¿Estás borracho [name]?"
 
 # game/v4/v4.rpy:2843
 translate espanol es_bd_72d4dead:
 
     # u "*Drunk* Nah, I just had a drink with some friends."
-    u "*Drunk* Nah, I just had a drink with some friends."
+    u "*Borracho* Nah, solo tome un poco con unos amigos."
 
 # game/v4/v4.rpy:2848
 translate espanol es_bd_e182e941:
 
     # cl "Right... Let me just put on a sweater..."
-    cl "Right... Let me just put on a sweater..."
+    cl "Claro... Esperá que me pongo un sweater..."
 
 # game/v4/v4.rpy:2853
 translate espanol es_bd_9b634cd2:
 
     # cl "So, what did you wanna talk to me about?"
-    cl "So, what did you wanna talk to me about?"
+    cl "Entonces, ¿de qué querías hablar conmigo?"
 
 # game/v4/v4.rpy:2858
 translate espanol es_bd_7925b371:
 
     # u "*Drunk* Well, Ryan... *deep breath* Ryan said you were playing me and just using me to get back at Grayson."
-    u "*Drunk* Well, Ryan... *deep breath* Ryan said you were playing me and just using me to get back at Grayson."
+    u "*Borracho* Es que, Ryan... *respira ondo* Ryan dijo que vos estabas jugando conmigo y que solo me estabas usando para vengarte de Grayson."
 
 # game/v4/v4.rpy:2863
 translate espanol es_bd_d4db55dd:
 
     # cl "What?? [name], that's bullshit."
-    cl "What?? [name], that's bullshit."
+    cl "¿¿Qué?? [name] eso es cualquier cosa."
 
 # game/v4/v4.rpy:2868
 translate espanol es_bd_4704181f:
 
     # u "*Drunk* He said Grayson, he- he told him about a lot of shady shit that you did in the past."
-    u "*Drunk* He said Grayson, he- he told him about a lot of shady shit that you did in the past."
+    u "*Borracho* Él dijo que Grayson, le- le dijo sobre muchas cosas turbias que hiciste en el pasado."
 
 # game/v4/v4.rpy:2872
 translate espanol es_bd_e4c40602:
 
     # cl "Well there you have it! Grayson put him up to this, just to fuck with me! I didn't do anything shady!"
-    cl "Well there you have it! Grayson put him up to this, just to fuck with me! I didn't do anything shady!"
+    cl "¡Y ahí tenes la respuesta! ¡Grayson lo convenció de todo esto solo para joderme a mí! ¡No hice nada turbio!"
 
 # game/v4/v4.rpy:2883
 translate espanol es_bd_3c06ac2d:
 
     # u "*Drunk* You're lying! Yeah sure, the hottest girl in school wants me, the freshman who got beaten up at his first college party."
-    u "*Drunk* You're lying! Yeah sure, the hottest girl in school wants me, the freshman who got beaten up at his first college party."
+    u "*Borracho* ¡Mentirosa! Si claro, la chica más linda de toda la universidad quiere estar conmigo, el pibe de primero que cagaron a piñas en la primer fiesta que va.."
 
 # game/v4/v4.rpy:2885
 translate espanol es_bd_630e0c6c:
 
     # u "*Drunk* Pretty realistic, isn't it?!"
-    u "*Drunk* Pretty realistic, isn't it?!"
+    u "*Borracho* Bastante realista, ¡¿No es así?!"
 
 # game/v4/v4.rpy:2890
 translate espanol es_bd_17de23f6:
 
     # cl "[name], I don't care about the fighting, or any of that shit. What Grayson did to you was pathetic. I like you 'cause you were funny and kind and ... and you cared."
-    cl "[name], I don't care about the fighting, or any of that shit. What Grayson did to you was pathetic. I like you 'cause you were funny and kind and ... and you cared."
+    cl "Mira [name], no me importan las peleas o ninguna de esas mierdas. Lo que Grayson te hizo fue patético. Me gustas porque sos gracioso y tierno y... te preocupas."
 
 # game/v4/v4.rpy:2900
 translate espanol eu_b_d5b3da76:
 
     # u "*Drunk* Really?? Then why did you go after Grayson instead of helping me up when he knocked me out??"
-    u "*Drunk* Really?? Then why did you go after Grayson instead of helping me up when he knocked me out??"
+    u "*Borracho* ¿¿En serio?? ¿¿Entonces porqué fuiste atrás de Grayson en vez de ayudarme cuando me noqueo??"
 
 # game/v4/v4.rpy:2905
 translate espanol eu_b_1e16adae:
 
     # cl "I- I..."
-    cl "I- I..."
+    cl "Yo- Yo..."
 
 # game/v4/v4.rpy:2907
 translate espanol eu_b_a5093b42:
 
     # cl "I told him to stop, okay?? I didn't know if he was gonna hurt you even more."
-    cl "I told him to stop, okay?? I didn't know if he was gonna hurt you even more."
+    cl "Le dije que paré, ¿¿está bien?? No sabía si te iba a hacer incluso más daño."
 
 # game/v4/v4.rpy:2912
 translate espanol eu_b_2f9ba4ed:
 
     # u "*Drunk* Ryan said that you just saw his punch as a personal attack and didn't give one fuck about me being hurt. And you know what? Maybe he's right!"
-    u "*Drunk* Ryan said that you just saw his punch as a personal attack and didn't give one fuck about me being hurt. And you know what? Maybe he's right!"
+    u "*Borracho* Ryan me dijo que viste su puño como un ataque personal y no te importo una mierda que me haya lastimado. ¿Y sabés qué? ¡Tal vez tiene razón!"
 
 # game/v4/v4.rpy:2917
 translate espanol eu_b_fd7e91c0:
 
     # cl "What have I ever done for you not to fucking trust me one bit?!"
-    cl "What have I ever done for you not to fucking trust me one bit?!"
+    cl "¡¿Qué te hice para que no confíes en mi ni siquiera un poco?!"
 
 # game/v4/v4.rpy:2922
 translate espanol eu_b_32c157af:
 
     # u "*Drunk* Apparently a bunch of shady shit in the past!"
-    u "*Drunk* Apparently a bunch of shady shit in the past!"
+    u "*Borracho* ¡Aparentemente muchas cosas turbias en el pasado!"
 
 # game/v4/v4.rpy:2927
 translate espanol eu_b_6a8d31a8:
 
     # cl "*Gasp*"
-    cl "*Gasp*"
+    cl "*Respira hondo*"
 
 # game/v4/v4.rpy:2929
 translate espanol eu_b_07eb5d33:
 
     # cl "You know how you can be sure I wasn't just using you?"
-    cl "You know how you can be sure I wasn't just using you?"
+    cl "¿Sabés como podes estar seguro de que no te estaba usando?"
 
 # game/v4/v4.rpy:2931
 translate espanol eu_b_59dbc30c:
 
     # cl "Because if I was using you, I would probably try to seduce you back into trusting me right now."
-    cl "Because if I was using you, I would probably try to seduce you back into trusting me right now."
+    cl "Proque si te habría estado usando, probablemente te estaría tratando de seducir de nuevo para que confíes en mi en este instante."
 
 # game/v4/v4.rpy:2933
 translate espanol eu_b_1619571b:
 
     # cl "But don't worry, I don't want that. We're done."
-    cl "But don't worry, I don't want that. We're done."
+    cl "Pero no te preocupes, no quiero hacer eso. No quiero saber más nada de vos."
 
 # game/v4/v4.rpy:2938
 translate espanol eu_b_a8756a7b:
 
     # u "*Drunk* Chloe!"
-    u "*Drunk* Chloe!"
+    u "*Borracho* ¡Chloe!"
 
 # game/v4/v4.rpy:2945
 translate espanol eu_b_c7c1b3e8:
 
     # "*Door slam*"
-    "*Door slam*"
+    "*Golpazo de puerta*"
 
 # game/v4/v4.rpy:2950
 translate espanol eu_b_fae10745:
 
     # u "HNGGGG!"
-    u "HNGGGG!"
+    u "AHGGGG!"
 
 # game/v4/v4.rpy:2962
 translate espanol eu_b_ac6b696f:
 
     # u "Ah, fuck!"
-    u "Ah, fuck!"
+    u "¡Ah, mierda!"
 
 # game/v4/v4.rpy:2964
 translate espanol eu_b_05148e1b:
 
     # unknown "[name], is that you??"
-    unknown "[name], is that you??"
+    unknown "¿¿Sos vos [name]??"
 
 # game/v4/v4.rpy:2971
 translate espanol eu_b_9ea2f78c:
@@ -3004,215 +3004,215 @@ translate espanol eu_b_9ea2f78c:
 translate espanol eu_b_8d1e43e3:
 
     # u "Oh shit..."
-    u "Oh shit..."
+    u "Ah mierda..."
 
 translate espanol strings:
 
     # game/v4/v4.rpy:5
     old "Dope"
-    new "Dope"
+    new "Genial"
 
     # game/v4/v4.rpy:6
     old "Come by 995 Sereno Drive at 8, it's my friends house."
-    new "Come by 995 Sereno Drive at 8, it's my friends house."
+    new "Vení para 995 Sereno Drive a las 8, es la casa de mi amiga."
 
     # game/v4/v4.rpy:9
     old "Aww, come on. You'll be back by 11."
-    new "Aww, come on. You'll be back by 11."
+    new "Aww, dale. Vas a estar libre a las 11."
 
     # game/v4/v4.rpy:11
     old "I told my friend Amber about you and she really wants to meet you."
-    new "I told my friend Amber about you and she really wants to meet you."
+    new "Le dije a mi amiga Amber sobre vos y de verdad quiere conocerte."
 
     # game/v4/v4.rpy:12
     old "Alright, I'll come."
-    new "Alright, I'll come."
+    new "Está bien, voy."
 
     # game/v4/v4.rpy:13
     old "Josh, I don't know, man. I don't wanna be late."
-    new "Josh, I don't know, man. I don't wanna be late."
+    new "No lo se Josh. No quiero llegar tarde"
 
     # game/v4/v4.rpy:16
     old "Remember how you told me in high school that you felt like you always missed out on all the crazy stories?"
-    new "Remember how you told me in high school that you felt like you always missed out on all the crazy stories?"
+    new "¿Te acordas como en la secundaría siempre me decías que sentías que te perdías todas las historias divertidas?"
 
     # game/v4/v4.rpy:17
     old "Don't miss out now."
-    new "Don't miss out now."
+    new "No te la pierdas ahora."
 
     # game/v4/v4.rpy:18
     old "Fine, I'll come. But I need to go before 11."
-    new "Fine, I'll come. But I need to go before 11."
+    new "Está bien, voy. Pero tengo que irme antes de las 11."
 
     # game/v4/v4.rpy:19
     old "I can't, sorry."
-    new "I can't, sorry."
+    new "No puedo, perdón."
 
     # game/v4/v4.rpy:28
     old "This guy"
-    new "This guy"
+    new "Este tipo"
 
     # game/v4/v4.rpy:83
     old "You should be more careful"
-    new "You should be more careful"
+    new "Deberías tener más cuidado"
 
     # game/v4/v4.rpy:83
     old "Let's fuck him up"
-    new "Let's fuck him up"
+    new "Hagamoslo mierda"
 
     # game/v4/v4.rpy:99
     old "Let me help"
-    new "Let me help"
+    new "Dejame ayudarte"
 
     # game/v4/v4.rpy:99
     old "That's a dumb idea"
-    new "That's a dumb idea"
+    new "Es una idea estúpida"
 
     # game/v4/v4.rpy:315
     old "Take responsibility"
-    new "Take responsibility"
+    new "Aceptar la responsabilidad"
 
     # game/v4/v4.rpy:315
     old "Blame Ryan"
-    new "Blame Ryan"
+    new "Culpar a Ryan"
 
     # game/v4/v4.rpy:434
     old "Ask her to sleep here"
-    new "Ask her to sleep here"
+    new "Pedirle que se quede a dormir"
 
     # game/v4/v4.rpy:573
     old "Someone punched me"
-    new "Someone punched me"
+    new "Alguién me pegó"
 
     # game/v4/v4.rpy:573
     old "It was an accident"
-    new "It was an accident"
+    new "Fue un accidente"
 
     # game/v4/v4.rpy:945
     old "Buy it"
-    new "Buy it"
+    new "Comprarla"
 
     # game/v4/v4.rpy:945
     old "Don't buy it"
-    new "Don't buy it"
+    new "No comprarla"
 
     # game/v4/v4.rpy:1047
     old "Hey Chloe, any chance you can meet up in a bit?"
-    new "Hey Chloe, any chance you can meet up in a bit?"
+    new "Hey Chloe, ¿Hay alguna posibilidad de que nos veamos más tarde?"
 
     # game/v4/v4.rpy:1048
     old "I'm really busy today, but I could do tonight after 11 or so."
-    new "I'm really busy today, but I could do tonight after 11 or so."
+    new "Estoy muy ocupada hoy, pero podría esta noche después de las 11 o por ahí."
 
     # game/v4/v4.rpy:1049
     old "Alright, cool. I'll be at yours for 11"
-    new "Alright, cool. I'll be at yours for 11"
+    new "Dale, perfecto. A las 11 estoy por tu casa."
 
     # game/v4/v4.rpy:1050
     old "Sounds good :)"
-    new "Sounds good :)"
+    new "Suena genial :)"
 
     # game/v4/v4.rpy:1108
     old "Sit somewhere else"
-    new "Sit somewhere else"
+    new "Sentarse en otro lado"
 
     # game/v4/v4.rpy:1474
     old "Talk to him"
-    new "Talk to him"
+    new "Hablar con él"
 
     # game/v4/v4.rpy:1633
     old "Magic Powers"
-    new "Magic Powers"
+    new "Poderes Mágicos"
 
     # game/v4/v4.rpy:1633
     old "I didn't"
-    new "I didn't"
+    new "No lo sabía"
 
     # game/v4/v4.rpy:1684
     old "Buy Penelope a muffin"
-    new "Buy Penelope a muffin"
+    new "Comprarle a Penelope un muffin"
 
     # game/v4/v4.rpy:1684
     old "Buy Penelope a coffee"
-    new "Buy Penelope a coffee"
+    new "Comprarle a Penelope un café"
 
     # game/v4/v4.rpy:1768
     old "Grab her hand"
-    new "Grab her hand"
+    new "Agarrarle la mano"
 
     # game/v4/v4.rpy:2009
     old "We should watch some"
-    new "We should watch some"
+    new "Deberíamos ver un poco"
 
     # game/v4/v4.rpy:2009
     old "You should try it"
-    new "You should try it"
+    new "Deberías probar ver un poco"
 
     # game/v4/v4.rpy:2051
     old "You wanna go bowling?"
-    new "You wanna go bowling?"
+    new "¿Querés ir a jugar a los bolos?"
 
     # game/v4/v4.rpy:2051
     old "Yeah, it was nice"
-    new "Yeah, it was nice"
+    new "Si, estubo lindo"
 
     # game/v4/v4.rpy:2162
     old "Hey man, you wanna hang out with me and some friends tonight?"
-    new "Hey man, you wanna hang out with me and some friends tonight?"
+    new "Hola querido, ¿querés venir esta noche a una juntada con unos amigos?"
 
     # game/v4/v4.rpy:2163
     old "Uhh, sure."
-    new "Uhh, sure."
+    new "Ehh, bueno dale."
 
     # game/v4/v4.rpy:2164
     old "I'm meeting a friend at 11, so I can't really."
-    new "I'm meeting a friend at 11, so I can't really."
+    new "Me tengo que juntar con una amiga a las 11, asique no puedo."
 
     # game/v4/v4.rpy:2275
     old "I can move"
-    new "I can move"
+    new "Me puedo mover"
 
     # game/v4/v4.rpy:2275
     old "It's my spot now"
-    new "It's my spot now"
+    new "Ahora es mi lugar"
 
     # game/v4/v4.rpy:2337
     old "I'll join the Wolves"
-    new "I'll join the Wolves"
+    new "Me voy a unir a los Wolves"
 
     # game/v4/v4.rpy:2337
     old "I don't know yet"
-    new "I don't know yet"
+    new "No lo se todavía"
 
     # game/v4/v4.rpy:2396
     old "Sounds good"
-    new "Sounds good"
+    new "Me parece bien"
 
     # game/v4/v4.rpy:2396
     old "I should stop here"
-    new "I should stop here"
+    new "Debería parar acá"
 
     # game/v4/v4.rpy:2418
     old "Alright, just for a bit"
-    new "Alright, just for a bit"
+    new "Bueno, está bien, solo un poco más"
 
     # game/v4/v4.rpy:2418
     old "Sorry, I really can't"
-    new "Sorry, I really can't"
+    new "Perdón, de verdad no puedo"
 
     # game/v4/v4.rpy:2464
     old "Do a handstand"
-    new "Do a handstand"
+    new "Pararte en dos manos"
 
     # game/v4/v4.rpy:2464
     old "Drink three sips"
-    new "Drink three sips"
+    new "Tomar tres sorbos"
 
     # game/v4/v4.rpy:2876
     old "Accuse her of lying"
-    new "Accuse her of lying"
+    new "Acusarla de mentir"
 
     # game/v4/v4.rpy:2876
     old "Ask about the punch"
-    new "Ask about the punch"
+    new "Preguntarle por el puñetazo"
 
