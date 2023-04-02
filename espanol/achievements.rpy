@@ -4,7 +4,7 @@ translate espanol strings:
 
     # game/achievements.rpy:40
     old "Tell off Emily"
-    new "Tell off Emily"
+    new "Testing a change"
 
     # game/achievements.rpy:41
     old "Play nice with Emily"
