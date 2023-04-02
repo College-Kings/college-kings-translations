@@ -4,49 +4,49 @@
 translate espanol v2start_1bba6b51:
 
     # cl "*Muffled* Why did you do that?! We were just talking!"
-    cl "*Muffled* Why did you do that?! We were just talking!"
+    cl "*Apagado* ¡¿Por qué hiciste eso?! ¡Sólo estábamos hablando!"
 
 # game/v2/v2.rpy:90
 translate espanol v2start_c3b1a1ef:
 
     # ry "*Muffled* [name]?! Are you okay??"
-    ry "*Muffled* [name]?! Are you okay??"
+    ry "*Apagado* [name]?! ¿¡Estás bien!?"
 
 # game/v2/v2.rpy:99
 translate espanol v2start_cb54d010:
 
     # imre "Hey man, did you have a good night?"
-    imre "Hey man, did you have a good night?"
+    imre "Hola hermano, ¿tuviste una buena noche?"
 
 # game/v2/v2.rpy:105
 translate espanol v2start_20bec76e:
 
     # u "What? How did I get here?"
-    u "What? How did I get here?"
+    u "¿Qué? ¿Cómo llegué hasta aquí?"
 
 # game/v2/v2.rpy:110
 translate espanol v2start_b94dac9c:
 
     # imre "Some Ryan guy dropped you off, after you got yourself beaten up."
-    imre "Some Ryan guy dropped you off, after you got yourself beaten up."
+    imre "Un tipo Ryan te dejó, después de que te dieron una paliza."
 
 # game/v2/v2.rpy:115
 translate espanol v2start_7207f97e:
 
     # u "Shit... my head hurts so much."
-    u "Shit... my head hurts so much."
+    u "Mierda... me duele tanto la cabeza."
 
 # game/v2/v2.rpy:120
 translate espanol v2start_1c5c1a81:
 
     # imre "I mean, have you seen your face?"
-    imre "I mean, have you seen your face?"
+    imre "Hermano, ¿has visto tu cara?"
 
 # game/v2/v2.rpy:122
 translate espanol v2start_1adeb7b0:
 
     # imre "Here, I took a picture last night when you came home."
-    imre "Here, I took a picture last night when you came home."
+    imre "Toma, tomé una foto anoche cuando llegaste aquí."
 
 # game/v2/v2.rpy:126
 translate espanol v2start_9ea2f78c:
@@ -58,73 +58,73 @@ translate espanol v2start_9ea2f78c:
 translate espanol v2start_272f5aa4:
 
     # u "Man, Grayson is such an asshole. I didn't even do anything."
-    u "Man, Grayson is such an asshole. I didn't even do anything."
+    u "Vaya, Grayson es un pendejo. Ni siquiera hice algo."
 
 # game/v2/v2.rpy:136
 translate espanol v2start_48095016:
 
     # imre "What did you expect? I told you the Apes are dogshit."
-    imre "What did you expect? I told you the Apes are dogshit."
+    imre "¿Qué esperabas? Te dije que las Apes son unas putas mierdas."
 
 # game/v2/v2.rpy:138
 translate espanol v2start_22ca126f:
 
     # imre "If you knew how to fight, maybe he wouldn't fuck with you."
-    imre "If you knew how to fight, maybe he wouldn't fuck with you."
+    imre "Si supieras pelear, quizá no te jodería."
 
 # game/v2/v2.rpy:146
 translate espanol v2start_327c6541:
 
     # u "Hmm... maybe."
-    u "Hmm... maybe."
+    u "Hmm... tal vez."
 
 # game/v2/v2.rpy:150
 translate espanol v2start_c08fe457:
 
     # imre "Just think about it, okay? I'll see you later."
-    imre "Just think about it, okay? I'll see you later."
+    imre "Sólo piénsalo, ¿ok? Te veo luego."
 
 # game/v2/v2.rpy:157
 translate espanol v2start_f558cfe4:
 
     # u "I'm not fighting. I'll just stay away from them."
-    u "I'm not fighting. I'll just stay away from them."
+    u "No voy a pelear. Sólo me mantendré lejos de ellos."
 
 # game/v2/v2.rpy:162
 translate espanol v2start_e8ead580:
 
     # imre "Dude, you don't know what Grayson's like."
-    imre "Dude, you don't know what Grayson's like."
+    imre "Hermano, no sabes cómo es Grayson."
 
 # game/v2/v2.rpy:164
 translate espanol v2start_1e49a1b9:
 
     # imre "If he sees you looking at him wrong from now on, you'll end up in the hospital."
-    imre "If he sees you looking at him wrong from now on, you'll end up in the hospital."
+    imre "Si a partir de ahora te ve mirándole mal, terminarás en el hospital."
 
 # game/v2/v2.rpy:172
 translate espanol v2start_acb5bdce:
 
     # u "Look, I'll think about it. But don't get your hopes up."
-    u "Look, I'll think about it. But don't get your hopes up."
+    u "Mira, lo pensaré. Pero no esperes mucho."
 
 # game/v2/v2.rpy:176
 translate espanol v2start_7098dbf0:
 
     # imre "That's all I'm asking for. I'll see you later."
-    imre "That's all I'm asking for. I'll see you later."
+    imre "Eso es todo lo que pido. Te veo luego."
 
 # game/v2/v2.rpy:183
 translate espanol v2start_0b7c44c3:
 
     # u "I'm not fighting. That's final."
-    u "I'm not fighting. That's final."
+    u "No voy a pelear. Eso es final."
 
 # game/v2/v2.rpy:188
 translate espanol v2start_a27d90a3:
 
     # imre "You're being stupid, man. Whatever, suit yourself."
-    imre "You're being stupid, man. Whatever, suit yourself."
+    imre "Estás siendo estúpido. Como quieras, haz lo que quieras."
 
 # game/v2/v2.rpy:215
 translate espanol bjj_bd_9ea2f78c:
