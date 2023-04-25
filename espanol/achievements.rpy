@@ -12,7 +12,7 @@ translate espanol strings:
 
     # game/achievements.rpy:42
     old "Hit on Nora"
-    new "Flirtea con Nora"
+    new "Coquetea con Nora"
 
     # game/achievements.rpy:43
     old "Kiss Lauren"
@@ -160,7 +160,7 @@ translate espanol strings:
 
     # game/achievements.rpy:100
     old "Flirt with Chloe at the Steakhouse"
-    new "Flirtea con Chloe en el Steakhouse"
+    new "Coquetea con Chloe en el Steakhouse"
 
     # game/achievements.rpy:104
     old "Have fun with Aubrey at the lake"
