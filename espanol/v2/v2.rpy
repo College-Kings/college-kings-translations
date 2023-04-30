@@ -58,19 +58,19 @@ translate espanol v2start_9ea2f78c:
 translate espanol v2start_272f5aa4:
 
     # u "Man, Grayson is such an asshole. I didn't even do anything."
-    u "Vaya, Grayson es un pendejo. Ni siquiera hice algo."
+    u "Vaya, Grayson es un pendejo. Ni siquiera estaba haciendo algo."
 
 # game/v2/v2.rpy:136
 translate espanol v2start_48095016:
 
     # imre "What did you expect? I told you the Apes are dogshit."
-    imre "¿Qué esperabas? Te dije que las Apes son unas putas mierdas."
+    imre "¿Qué esperabas? Te dije que los Apes son unas putas mierdas."
 
 # game/v2/v2.rpy:138
 translate espanol v2start_22ca126f:
 
     # imre "If you knew how to fight, maybe he wouldn't fuck with you."
-    imre "Si supieras pelear, quizá no te jodería."
+    imre "Si supieras pelear, quizá no te molestaría."
 
 # game/v2/v2.rpy:146
 translate espanol v2start_327c6541:
@@ -94,13 +94,13 @@ translate espanol v2start_f558cfe4:
 translate espanol v2start_e8ead580:
 
     # imre "Dude, you don't know what Grayson's like."
-    imre "Hermano, no sabes cómo es Grayson."
+    imre "Hermano, tú no sabes cómo es Grayson."
 
 # game/v2/v2.rpy:164
 translate espanol v2start_1e49a1b9:
 
     # imre "If he sees you looking at him wrong from now on, you'll end up in the hospital."
-    imre "Si a partir de ahora te ve mirándole mal, terminarás en el hospital."
+    imre "Si a partir de ahora, el te ve mirándole mal, terminarás en el hospital."
 
 # game/v2/v2.rpy:172
 translate espanol v2start_acb5bdce:
@@ -136,7 +136,7 @@ translate espanol bjj_bd_9ea2f78c:
 translate espanol repeatb_b672f3b0:
 
     # u "(Damn, my phone's blowing up. I should probably check my messages.)"
-    u "(Maldita sea, mi celular está explotando. Debería revisar mis mensajes)."
+    u "(Maldita sea, mi teléfono está sonando tanto. Debería revisar mis mensajes.)."
 
 # game/v2/v2.rpy:228
 translate espanol repeatb_82b726ed:
@@ -208,7 +208,7 @@ translate espanol walk1_f9b61707:
 translate espanol v1_tomShoutBack_a3367190:
 
     # u "The fuck did you just say to me?!"
-    u "¡¿Qué rayos dijiste?!"
+    u "¡¿Qué rayos acabas de decirme?!"
 
 # game/v2/v2.rpy:291
 translate espanol v1_tomShoutBack_d1389188:
@@ -244,7 +244,7 @@ translate espanol tomtut1kick_4a328666:
 translate espanol tomtut1kick_100eaacc:
 
     # tut "Beware, since you've let your guard down to attack, he's going to try and abuse it with an attack of his own."
-    tut "Cuidado, como has bajado la guardia para atacar, él va a intentar aprovechar con su propio ataque."
+    tut "Cuidado, como has bajado tu guardia para atacar, él va a intentar aprovechar con su propio ataque."
 
 # game/v2/v2.rpy:345
 translate espanol tomtut1kick_1e5dc8ea:
@@ -256,7 +256,7 @@ translate espanol tomtut1kick_1e5dc8ea:
 translate espanol tomtut1kick_d4a34b79:
 
     # tut "{b}Q{/b} lets you block your head from heavy attacks such as hooks, which come from a slight angle."
-    tut "{b}Q{/b} te permite bloquear tu cabeza de ataques fuertes como los ganchos, que vienen desde un ligero ángulo."
+    tut "{b}Q{/b} te permite bloquear tu cabeza de ataques fuertes, como los ganchos, que vienen desde un ligero ángulo."
 
 # game/v2/v2.rpy:350
 translate espanol tomtut1kick_663a9d66:
@@ -268,7 +268,7 @@ translate espanol tomtut1kick_663a9d66:
 translate espanol tomtut1kick_d9713580:
 
     # tut "Lastly, you can protect your legs, from low kicks for example, by pressing {b}R{/b}."
-    tut "Por último, puedes proteger tus piernas de las patadas bajas, por ejemplo, oprimiendo {b}R{/b}."
+    tut "Por último, puedes proteger tus piernas, por ejemplo, de las patadas bajas, oprimiendo {b}R{/b}."
 
 # game/v2/v2.rpy:354
 translate espanol tomtut1kick_88ee0afc:
@@ -280,7 +280,7 @@ translate espanol tomtut1kick_88ee0afc:
 translate espanol tomtut1hook_f76b89d4:
 
     # tut "Yeah, why follow what the tutorial says?? It's not like it's trying to help you or anything."
-    tut "Sí, ¿pa' qué seguir lo que dice el tutorial? No es como si estuviera tratando de ayudarte o algo así."
+    tut "Sí, ¿pa' qué seguir lo que dice el tutorial? No es como si estuviera tratando de ayudarte."
 
 # game/v2/v2.rpy:369
 translate espanol tomtut1hook_e1d6e4d3:
@@ -298,7 +298,7 @@ translate espanol tomtut1hook_13b808cb:
 translate espanol tomtut1hook_d4a34b79:
 
     # tut "{b}Q{/b} lets you block your head from heavy attacks such as hooks, which come from a slight angle."
-    tut "{b}Q{/b} te permite bloquear tu cabeza de ataques fuertes como los ganchos, que vienen desde un ligero ángulo."
+    tut "{b}Q{/b} te permite bloquear tu cabeza de ataques fuertes, como los ganchos, que vienen desde un ligero ángulo."
 
 # game/v2/v2.rpy:382
 translate espanol tomtut1hook_663a9d66:
@@ -310,7 +310,7 @@ translate espanol tomtut1hook_663a9d66:
 translate espanol tomtut1hook_d9713580:
 
     # tut "Lastly, you can protect your legs, from low kicks for example, by pressing {b}R{/b}."
-    tut "Por último, puedes proteger tus piernas de las patadas bajas, por ejemplo, oprimiendo {b}R{/b}."
+    tut "Por último, puedes proteger tus piernas, por ejemplo, de las patadas bajas, oprimiendo {b}R{/b}."
 
 # game/v2/v2.rpy:386
 translate espanol tomtut1hook_edc85e50:
@@ -322,7 +322,7 @@ translate espanol tomtut1hook_edc85e50:
 translate espanol tomtut1jab_f76b89d4:
 
     # tut "Yeah, why follow what the tutorial says?? It's not like it's trying to help you or anything."
-    tut "Sí, ¿pa' qué seguir lo que dice el tutorial? No es como si estuviera tratando de ayudarte o algo así."
+    tut "Sí, ¿pa' qué seguir lo que dice el tutorial? No es como si estuviera tratando de ayudarte"
 
 # game/v2/v2.rpy:401
 translate espanol tomtut1jab_e1d6e4d3:
@@ -346,7 +346,7 @@ translate espanol tomtut1jab_1e5dc8ea:
 translate espanol tomtut1jab_d4a34b79:
 
     # tut "{b}Q{/b} lets you block your head from heavy attacks such as hooks, which come from a slight angle."
-    tut "{b}Q{/b} te permite bloquear tu cabeza de ataques fuertes como los ganchos, que vienen desde un ligero ángulo."
+    tut "{b}Q{/b} te permite bloquear tu cabeza de ataques fuertes, como los ganchos, que vienen desde un ligero ángulo."
 
 # game/v2/v2.rpy:417
 translate espanol tomtut1jab_663a9d66:
@@ -358,7 +358,7 @@ translate espanol tomtut1jab_663a9d66:
 translate espanol tomtut1jab_d9713580:
 
     # tut "Lastly, you can protect your legs, from low kicks for example, by pressing {b}R{/b}."
-    tut "Por último, puedes proteger tus piernas de las patadas bajas, por ejemplo, oprimiendo {b}R{/b}."
+    tut "Por último, puedes proteger tus piernas, por ejemplo, de las patadas bajas, oprimiendo {b}R{/b}."
 
 # game/v2/v2.rpy:421
 translate espanol tomtut1jab_edc85e50:
@@ -436,7 +436,7 @@ translate espanol meet_lauren2_44158285:
 translate espanol meet_lauren2_d4b73dc2:
 
     # u "(Hopefully Lauren doesn't make a big deal out of my bruises.)"
-    u "(Espero que Lauren no haga un gran caso de mis moratones.)"
+    u "(Espero que Lauren no haga un gran caso de mis moretones.)"
 
 # game/v2/v2.rpy:1111
 translate espanol meet_lauren2_39872a73:
@@ -448,7 +448,7 @@ translate espanol meet_lauren2_39872a73:
 translate espanol meet_lauren2_d4b73dc2_1:
 
     # u "(Hopefully Lauren doesn't make a big deal out of my bruises.)"
-    u "(Espero que Lauren no haga un gran caso de mis moratones.)"
+    u "(Espero que Lauren no haga un gran caso de mis moretones.)"
 
 # game/v2/v2.rpy:1118
 translate espanol meet_lauren2_2b65b4ac:
@@ -460,7 +460,7 @@ translate espanol meet_lauren2_2b65b4ac:
 translate espanol meet_lauren2_d4b73dc2_2:
 
     # u "(Hopefully Lauren doesn't make a big deal out of my bruises.)"
-    u "(Espero que Lauren no haga un gran caso de mis moratones.)"
+    u "(Espero que Lauren no haga un gran caso de mis moretones.)"
 
 # game/v2/v2.rpy:1125
 translate espanol meet_lauren2_e6b1bdd2:
@@ -478,7 +478,7 @@ translate espanol meet_lauren2_379acf5e:
 translate espanol meet_lauren2_df593ecf:
 
     # u "Some asshole punched me in the face at the Apes' rush party last night."
-    u "Un idiota me dio un puñetazo en la cara en la fiesta de los Apes anoche."
+    u "Un pendejo me golpeó en la cara en la fiesta de los Apes anoche."
 
 # game/v2/v2.rpy:1138
 translate espanol meet_lauren2_e214d6bc:
@@ -532,13 +532,13 @@ translate espanol meet_lauren2_7a806511:
 translate espanol meet_lauren2_5730065e:
 
     # u "There was something real there and you know it."
-    u "THabía algo real allí y tú lo sabes."
+    u "Había algo verdadero allí y lo sabes."
 
 # game/v2/v2.rpy:1188
 translate espanol meet_lauren2_6db93694:
 
     # u "I don't know why you pulled away when I tried to kiss you..."
-    u "No sé por qué te alejaste cuando intenté besarte..."
+    u "No sé por qué te alejaste cuando intenté de besarte..."
 
 # game/v2/v2.rpy:1190
 translate espanol meet_lauren2_844ce18f:
@@ -550,7 +550,7 @@ translate espanol meet_lauren2_844ce18f:
 translate espanol meet_lauren2_c44a599c:
 
     # u "But there was something real there and you know it."
-    u "Pero había algo real allí y tú lo sabes."
+    u "Había algo verdadero allí y lo sabes."
 
 # game/v2/v2.rpy:1198
 translate espanol meet_lauren2_ebe7bf78:
@@ -580,7 +580,7 @@ translate espanol meet_lauren2_9fb6f14e:
 translate espanol meet_lauren2_3b15f6f6:
 
     # u "Then let's go on a date. A real date."
-    u "Entonces vamos a ir en una cita. Una cita verdadera."
+    u "Entonces salgamos en una cita. Una cita verdadera."
 
 # game/v2/v2.rpy:1227
 translate espanol meet_lauren2_15fed8b3:
@@ -706,7 +706,7 @@ translate espanol meet_lauren2_9fe27ce9:
 translate espanol meet_lauren2_849f7aad:
 
     # u "I mean nothing happened... Maybe it was awkward, but let's just forget about it."
-    u "Quiero decir que nada pasó... Quizás fue incómodo, pero mejor olvidémoslo."
+    u "Es decir, nada pasó... Tal vez fue incómodo, pero mejor olvidémoslo."
 
 # game/v2/v2.rpy:1322
 translate espanol meet_lauren2_37309bcc:
@@ -730,7 +730,7 @@ translate espanol meet_lauren2_08180b4e:
 translate espanol meet_lauren2_61cc3320:
 
     # u "Yeah, I'm glad too."
-    u "Sí, también me alegro."
+    u "Sí, yo también me alegro."
 
 # game/v2/v2.rpy:1339
 translate espanol meet_lauren2_cc44b100:
@@ -826,7 +826,7 @@ translate espanol history2_6db697b3:
 translate espanol history2_04dfb653:
 
     # imre "Train with me. Just once. Just to see if you like it. Please."
-    imre "Entrena conmigo. Sólo una vez. Sólo para ver si te gusta. Por favor."
+    imre "Entrena conmigo. Sólo una vez. Sólo para ver si a ti te gusta. Por favor."
 
 # game/v2/v2.rpy:1435
 translate espanol history2_221d8633:
@@ -838,13 +838,13 @@ translate espanol history2_221d8633:
 translate espanol history2_481db6df:
 
     # imre "Dude, did you get beaten up again?! You look like shit!"
-    imre "¡Hermano, ¿te golpearon de nuevo?! ¡Te ves como una mierda!"
+    imre "¡Hermano, ¿te golpearon de nuevo?! ¡Te ves como un pedaco mierda!"
 
 # game/v2/v2.rpy:1446
 translate espanol history2_9461de7c:
 
     # imre "Was it another ape??? Tell me who, I'll fuck them up!"
-    imre "¿Fue otro Ape? ¡Dime quién, que los joderé!"
+    imre "¿Fue otro Ape? ¡Dime quién, que los mando pa' al carajo!"
 
 # game/v2/v2.rpy:1451
 translate espanol history2_75e4dd00:
@@ -1324,7 +1324,7 @@ translate espanol nextsceneo_baed0d4e:
 translate espanol nextsceneo_19d7ccb8:
 
     # u "I thought we're going to the doctor's office? Or are you gonna tell me that your concern was merely an attempt to hang out with me?"
-    u "¿Pensaba que íbamos a la oficina del médico? ¿O vas a decirme que tu preocupación era sólo un intento de pasar el rato conmigo?"
+    u "¿No íbamos a ir a la oficina del médico? ¿O vas a decirme que tu preocupación era sólo un intento de pasar el rato conmigo?"
 
 # game/v2/v2.rpy:1829
 translate espanol nextsceneo_03d5e79a:
@@ -1342,7 +1342,7 @@ translate espanol nextsceneo_b100c2df:
 translate espanol nextsceneo_de194e89:
 
     # u "I can't just forgive you like that. You don't know what you put me through."
-    u "No puedo sólo perdonarte así. Tú no sabes lo mucho que me hiciste sufrir."
+    u "No puedo perdonarte así como si nada. Tú no sabes lo mucho que me hiciste sufrir."
 
 # game/v2/v2.rpy:1851
 translate espanol nextsceneo_512d53f3:
@@ -1504,7 +1504,7 @@ translate espanol bq_bd_7e133080:
 translate espanol bq_bd_eb6699a4:
 
     # ben "Yeah, sure thing. Fill out these forms and then take a seat in the waiting room and I'll let you know when Dr. Ehrmantraut can slot you in."
-    ben "Sí, claro. Rellena estas hojas y luego toma un asiento en la sala de espera y te avisaré cuando el Dr. Ehrmantraut pueda chequear te."
+    ben "Sí, claro. Rellena estas hojas y luego toma un asiento en la sala de espera y te avisaré cuando el Dr. Ehrmantraut pueda chequearte."
 
 # game/v2/v2.rpy:2031
 translate espanol bq_bd_b822ede1:
@@ -1522,7 +1522,7 @@ translate espanol bq_bd_65f217b4:
 translate espanol bq_bd_1ce47e7b:
 
     # ben "Oh, I remember. You're Hannah's sister."
-    ben "Oh, me acuerdo. Tú eres la hermana de Hannah."
+    ben "Oh si, me acuerdo. Tú eres la hermana de Hannah."
 
 # game/v2/v2.rpy:2043
 translate espanol bq_bd_43ceef73:
@@ -1606,7 +1606,7 @@ translate espanol bq_bd_d2c46c7b:
 translate espanol bq_bd_e5de44d4:
 
     # ben "Thanks, bro! I'll think of you when I'm doing her."
-    ben "¡Gracias, amigo! Pensaré en ti cuando me la coja."
+    ben "¡Gracias, amigo! Pensaré en ti cuando me la coga."
 
 # game/v2/v2.rpy:2116
 translate espanol bq_bd_7a9562a5:
@@ -2008,7 +2008,7 @@ translate espanol repeatc_0e8d6143:
 translate espanol repeatc_1b522938:
 
     # u "So, what did you mean by \"you need to start talking to people at some point\"? Are you a freshman?"
-    u "SEntonces, ¿qué querías decir con \"necesitas empezar a hablar con la gente en algún momento\"? ¿Acaso eres de primer año?"
+    u "Entonces, ¿qué querías decir con \"necesitas empezar a hablar con la gente en algún momento\"? ¿Acaso eres de primer año?"
 
 # game/v2/v2.rpy:2445
 translate espanol repeatc_1b0771d1:
@@ -2272,7 +2272,7 @@ translate espanol csaub_1944561c:
 translate espanol csaub_dd6b5362:
 
     # ev "Let me know if there's anything else you need."
-    ev "Avísame si necesitas algo más."
+    ev "Avísame si necesitan algo más."
 
 # game/v2/v2.rpy:2668
 translate espanol csaub_ccd53b23:
@@ -3850,13 +3850,13 @@ translate espanol v1_endShop_69a2e875:
 translate espanol v1_endShop_98f1162f:
 
     # ch "Look, Grayson's an asshole. If you wanna get back at him, you should pledge the Wolves."
-    ch "Mira, Grayson es un imbécil. Si quieres vengarte de él, deberías unirte a los Wolves."
+    ch "Mira, Grayson es un imbécil. Si quieres vengarte de él, deberías unirte con los Wolves."
 
 # game/v2/v2.rpy:4198
 translate espanol v1_endShop_af56f0be:
 
     # ch "If you're the right fit, you'll become one of us and trust me, next year a Wolf is gonna beat the shit out of Grayson and take the fucking crown."
-    ch "Te convertirás en una de nosotros y créeme, el año que viene un Wolf le dará una gran paliza a Grayson y se llevará la maldita corona."
+    ch "Te convertirás en uno de nosotros y créeme, el año que viene un Wolf le dará una gran paliza a Grayson y se llevará la maldita corona."
 
 # game/v2/v2.rpy:4203
 translate espanol v1_endShop_49a9e742:
