@@ -4,7 +4,7 @@ translate portugues strings:
 
     # game/end_screens/end_screens.rpy:66
     old "{b}UndergradSteve{/b} - Game Creator"
-    new "{b}UndergradSteve{/b} - Criador do Jogos"
+    new "{b}UndergradSteve{/b} - Criador do Jogo"
 
     # game/end_screens/end_screens.rpy:67
     old "{b}DomG{/b} - Producer"
