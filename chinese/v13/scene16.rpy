@@ -4,7 +4,7 @@
 translate chinese v13s16_69c55506:
 
     # la "Yay! You're finally here. *Chuckles*"
-    la "耶！你终于来了。 *咯咯笑* "
+    la "耶！你终于来了。 *咯咯笑*"
 
 # game/v13/scene16.rpy:27
 translate chinese v13s16_f73bbdd1:
@@ -52,7 +52,7 @@ translate chinese v13s16_1ac5a369:
 translate chinese v13s16_7b883d5c:
 
     # u "Huh? Why's that?"
-    u "哈？为什么这样说呢？"
+    u "嗯？为什么这样说呢？"
 
 # game/v13/scene16.rpy:82
 translate chinese v13s16_c898e6be:
