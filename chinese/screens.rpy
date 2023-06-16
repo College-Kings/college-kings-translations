@@ -4,31 +4,31 @@ translate chinese strings:
 
     # game/screens.rpy:462
     old "History"
-    new "History"
+    new "历史"
 
     # game/screens.rpy:516
     old "Return"
-    new "Return"
+    new "返回"
 
     # game/screens.rpy:518
     old "Save"
-    new "Save"
+    new "保存"
 
     # game/screens.rpy:519
     old "Load"
-    new "Load"
+    new "加载"
 
     # game/screens.rpy:523
     old "Settings"
-    new "Settings"
+    new "设置"
 
     # game/screens.rpy:525
     old "Menu"
-    new "Menu"
+    new "菜单"
 
     # game/screens.rpy:527
     old "Quit"
-    new "Quit"
+    new "退出"
 
     # game/screens.rpy:640
     old "PAGE {}"
@@ -36,11 +36,11 @@ translate chinese strings:
 
     # game/screens.rpy:640
     old "AUTOMATIC SAVES"
-    new "AUTOMATIC SAVES"
+    new "自动保存"
 
     # game/screens.rpy:640
     old "QUICK SAVES"
-    new "QUICK SAVES"
+    new "快速保存"
 
     # game/screens.rpy:700
     old "{#file_time}%A, %B %d %Y, %H:%M"
@@ -48,7 +48,7 @@ translate chinese strings:
 
     # game/screens.rpy:700
     old "empty slot"
-    new "empty slot"
+    new "空白档案"
 
     # game/screens.rpy:721
     old "{#auto_page}A"
@@ -60,21 +60,21 @@ translate chinese strings:
 
     # game/screens.rpy:1094
     old "The dialogue history is empty."
-    new "The dialogue history is empty."
+    new "对话历史为空。"
 
     # game/screens.rpy:1211
     old "Skipping"
-    new "Skipping"
+    new "跳过中"
 
     # game/screens.rpy:1312
     old "Back"
-    new "Back"
+    new "后退"
 
     # game/screens.rpy:1313
     old "Skip"
-    new "Skip"
+    new "跳过"
 
     # game/screens.rpy:1314
     old "Auto"
-    new "Auto"
+    new "自动"
 

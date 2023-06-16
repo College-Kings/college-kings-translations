@@ -4,21 +4,21 @@ translate chinese strings:
 
     # game/inventory.rpy:37
     old "Honey"
-    new "Honey"
+    new "蜂蜜"
 
     # game/inventory.rpy:44
     old "Butt Plug"
-    new "Butt Plug"
+    new "肛塞"
 
     # game/inventory.rpy:51
     old "Spankers"
-    new "Spankers"
+    new "鞭子"
 
     # game/inventory.rpy:58
     old "Cuffs"
-    new "Cuffs"
+    new "手铐"
 
     # game/inventory.rpy:65
     old "Feather"
-    new "Feather"
+    new "羽毛"
 

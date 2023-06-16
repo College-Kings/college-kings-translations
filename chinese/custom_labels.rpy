@@ -10,5 +10,5 @@ translate chinese strings:
 
     # game/custom_labels.rpy:1
     old "I should probably talk to someone else."
-    new "I should probably talk to someone else."
+    new "我应该找别人谈谈。"
 
