@@ -12,7 +12,7 @@ translate chinese strings:
 
     # game/kct.rpy:5
     old "troublemaker"
-    new "老6"
+    new "麻烦制造者"
 
     # game/kct.rpy:63
     old "Congratulations! Your Key Character Trait {b}[kct]{/b} has just changed the outcome of a decision someone was making."

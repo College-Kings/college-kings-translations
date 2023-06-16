@@ -136,7 +136,7 @@ translate chinese strings:
 
     # game/characters.rpy:50
     old "Riley"
-    new "莱利"
+    new "莱莉"
 
     # game/characters.rpy:51
     old "Ms. Rose"
