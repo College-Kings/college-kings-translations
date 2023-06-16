@@ -58,7 +58,7 @@ translate chinese v12_riddle_riley_ba6ee298:
 translate chinese v12_riddle_riley_87a5867b:
 
     # ri "Oh my gosh, c'mon already."
-    ri "我的天啊，已经来了。"
+    ri "我的天呐，已经来了。"
 
 # game/v12/scene15.rpy:75
 translate chinese v12_riddle_riley_0ab2dec4:
