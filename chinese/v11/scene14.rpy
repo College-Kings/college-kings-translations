@@ -16,7 +16,7 @@ translate chinese v11_nora_chris_plane_ae2e8f60:
 translate chinese v11_nora_chris_plane_a9490e57:
 
     # ch "*Whisper* Can you please lower your voice?"
-    ch "*耳语* 你能小声点吗？"
+    ch "*低语* 你能小声点吗？"
 
 # game/v11/scene14.rpy:30
 translate chinese v11_nora_chris_plane_6484c682:
@@ -64,7 +64,7 @@ translate chinese v11_nora_chris_plane_21d9a472:
 translate chinese v11_nora_chris_plane_6b73c372:
 
     # no "So basically you're free to fuck, but not to spend time with me."
-    no "晚上你就只会尽情地操我，但不会跟我在一起。"
+    no "晚上你就只会尽情地操我，但就不会花时间跟我在一起。"
 
 # game/v11/scene14.rpy:67
 translate chinese v11_nora_chris_plane_2449e91d:
