@@ -412,7 +412,7 @@ translate chinese strings:
 
     # game/achievements.rpy:181
     old "Three-way with Riley and Aubrey"
-    new "跟莱利和奥布里3P"
+    new "跟莱莉和奥布里3P"
 
     # game/achievements.rpy:182
     old "Don't let Ryan catch an STD"
