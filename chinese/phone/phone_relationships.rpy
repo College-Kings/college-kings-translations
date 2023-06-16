@@ -4,17 +4,17 @@ translate chinese strings:
 
     # game/phone/phone_relationships.rpy:59
     old "Broken Up"
-    new "Broken Up"
+    new "分手"
 
     # game/phone/phone_relationships.rpy:64
     old "Kissed"
-    new "Kissed"
+    new "亲吻"
 
     # game/phone/phone_relationships.rpy:69
     old "Friends with Benefits"
-    new "Friends with Benefits"
+    new "炮友"
 
     # game/phone/phone_relationships.rpy:74
     old "Dating"
-    new "Dating"
+    new "约会中"
 

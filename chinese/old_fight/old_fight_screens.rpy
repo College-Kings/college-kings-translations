@@ -24,53 +24,53 @@ translate chinese strings:
 
     # game/old_fight/old_fight_screens.rpy:61
     old "Fighting is big part of College Kings, however you can simulate all fights if you'd like to."
-    new "Fighting is big part of College Kings, however you can simulate all fights if you'd like to."
+    new "格斗是学院之王的重要组成部分，但如果你愿意，你可以模拟所有的格斗。"
 
     # game/old_fight/old_fight_screens.rpy:68
     old "Play Fight"
-    new "Play Fight"
+    new "开始战斗"
 
     # game/old_fight/old_fight_screens.rpy:74
     old "Simulate: realistic"
-    new "Simulate: realistic"
+    new "模拟: 真实"
 
     # game/old_fight/old_fight_screens.rpy:80
     old "Simulate: auto-win"
-    new "Simulate: auto-win"
+    new "模拟: 自动-胜利"
 
     # game/old_fight/old_fight_screens.rpy:95
     old "Difficulty"
-    new "Difficulty"
+    new "困难"
 
     # game/old_fight/old_fight_screens.rpy:103
     old "Higher difficulties require quicker reactions. You can change this at any time in the settings."
-    new "Higher difficulties require quicker reactions. You can change this at any time in the settings."
+    new "更高的难度需要更快的反应。您可以随时在设置中对此进行更改。"
 
     # game/old_fight/old_fight_screens.rpy:118
     old "Moderate"
-    new "Moderate"
+    new "适度的"
 
     # game/old_fight/old_fight_screens.rpy:134
     old "\n[q!u] = Jab / Block Head\n[w!u] = Hook / Block Face\n[e!u] = Kick / Block Leg"
-    new "\n[q!u] = Jab / Block Head\n[w!u] = Hook / Block Face\n[e!u] = Kick / Block Leg"
+    new "\n[q!u] = 右勾拳/右挡头\n[w!u] =直拳/挡脸\n[e!u] =踢/挡腿"
 
     # game/old_fight/old_fight_screens.rpy:136
     old "Keybinding"
-    new "Keybinding"
+    new "按键绑定"
 
     # game/old_fight/old_fight_screens.rpy:145
     old "\n[r!u] = Body Hook / Low Guard"
-    new "\n[r!u] = Body Hook / Low Guard"
+    new "\n[r!u] = 身体攻击 / 底部防守"
 
     # game/old_fight/old_fight_screens.rpy:148
     old "The current keybindings are: [keybindText]"
-    new "The current keybindings are: [keybindText]"
+    new "当前的键绑定是: [keybindText]"
 
     # game/old_fight/old_fight_screens.rpy:159
     old "Change Keys"
-    new "Change Keys"
+    new "更改键位"
 
     # game/old_fight/old_fight_screens.rpy:163
     old "Start Fight"
-    new "Start Fight"
+    new "开始战斗"
 
