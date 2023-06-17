@@ -15,9 +15,9 @@ translate piglatin start_636ae3f5:
     e "Thank you for taking a look at the Ren'Py translation framework."
 ```
 The line starting with `#` is the English sentence
+
 The line starting with `e` is what you need to replace with the translated sentence
 
-```
 ```
 translate piglatin strings:
 
