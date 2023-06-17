@@ -4,29 +4,29 @@ translate chinese strings:
 
     # game/phone/application.rpy:24
     old "Messenger"
-    new "Messenger"
+    new "信息"
 
     # game/phone/application.rpy:37
     old "Simplr"
-    new "Simplr"
+    new "简约"
 
     # game/phone/application.rpy:52
     old "Kiwii"
-    new "Kiwii"
+    new "猕猴桃"
 
     # game/phone/application.rpy:78
     old "Achievements"
-    new "Achievements"
+    new "成就"
 
     # game/phone/application.rpy:81
     old "Relationships"
-    new "Relationships"
+    new "关系"
 
     # game/phone/application.rpy:82
     old "Tracker"
-    new "Tracker"
+    new "踪迹"
 
     # game/phone/application.rpy:83
     old "Calendar"
-    new "Calendar"
+    new "日历"
 

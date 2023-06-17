@@ -4,15 +4,15 @@ translate chinese strings:
 
     # game/variables.rpy:50
     old "confident"
-    new "confident"
+    new "自信"
 
     # game/variables.rpy:51
     old "loyal"
-    new "loyal"
+    new "忠诚"
 
     # game/variables.rpy:51
     old "popular"
-    new "popular"
+    new "红人"
 
     # game/variables.rpy:79
     old "e"
@@ -28,21 +28,21 @@ translate chinese strings:
 
     # game/variables.rpy:144
     old "nobody"
-    new "nobody"
+    new "没有人"
 
     # game/variables.rpy:155
     old "riley"
-    new "riley"
+    new "莱莉"
 
     # game/variables.rpy:158
     old "alone"
-    new "alone"
+    new "独自"
 
     # game/variables.rpy:182
     old "MC"
-    new "MC"
+    new "男主"
 
     # game/variables.rpy:189
     old "na"
-    new "na"
+    new "随机变量"
 

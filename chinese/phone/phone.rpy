@@ -4,5 +4,5 @@ translate chinese strings:
 
     # game/phone/phone.rpy:56
     old "Exit Phone"
-    new "Exit Phone"
+    new "退出手机"
 
