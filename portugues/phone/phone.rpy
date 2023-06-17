@@ -4,5 +4,5 @@ translate portugues strings:
 
     # game/phone/phone.rpy:56
     old "Exit Phone"
-    new "Exit Phone"
+    new "Sair do telefone"
 

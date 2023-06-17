@@ -4,17 +4,17 @@ translate portugues strings:
 
     # game/phone/phone_relationships.rpy:59
     old "Broken Up"
-    new "Broken Up"
+    new "Quebrado"
 
     # game/phone/phone_relationships.rpy:64
     old "Kissed"
-    new "Kissed"
+    new "Beijou"
 
     # game/phone/phone_relationships.rpy:69
     old "Friends with Benefits"
-    new "Friends with Benefits"
+    new "Amigos com Benefícios"
 
     # game/phone/phone_relationships.rpy:74
     old "Dating"
-    new "Dating"
+    new "Namorando"
 

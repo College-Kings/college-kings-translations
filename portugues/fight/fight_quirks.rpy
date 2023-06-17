@@ -4,25 +4,25 @@ translate portugues strings:
 
     # game/fight/fight_quirks.rpy:78
     old "Seeing Red"
-    new "Seeing Red"
+    new "Vendo Vermelho"
 
     # game/fight/fight_quirks.rpy:79
     old "The Great Equalizer"
-    new "The Great Equalizer"
+    new "O Grande Equalizador"
 
     # game/fight/fight_quirks.rpy:80
     old "In The Zone"
-    new "In The Zone"
+    new "Na zona"
 
     # game/fight/fight_quirks.rpy:81
     old "Backlash"
-    new "Backlash"
+    new "Retaliação"
 
     # game/fight/fight_quirks.rpy:82
     old "Double Time"
-    new "Double Time"
+    new "Tempo duplo"
 
     # game/fight/fight_quirks.rpy:83
     old "All In"
-    new "All In"
+    new "Tudo"
 

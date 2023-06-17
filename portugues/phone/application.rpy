@@ -4,7 +4,7 @@ translate portugues strings:
 
     # game/phone/application.rpy:24
     old "Messenger"
-    new "Messenger"
+    new "Mensagens"
 
     # game/phone/application.rpy:37
     old "Simplr"
@@ -16,17 +16,17 @@ translate portugues strings:
 
     # game/phone/application.rpy:78
     old "Achievements"
-    new "Achievements"
+    new "Conquistas"
 
     # game/phone/application.rpy:81
     old "Relationships"
-    new "Relationships"
+    new "Relacionamentos"
 
     # game/phone/application.rpy:82
     old "Tracker"
-    new "Tracker"
+    new "Rastreador"
 
     # game/phone/application.rpy:83
     old "Calendar"
-    new "Calendar"
+    new "Calendário"
 
