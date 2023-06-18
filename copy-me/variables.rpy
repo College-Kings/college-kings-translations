@@ -85,7 +85,7 @@ translate russian strings:
 
     # game/variables.rpy:13
     old "Make out with Lauren"
-    new "Поцелуй с Лорен"
+    new "Поцелуй с Лаурен"
 
     # game/variables.rpy:13
     old "Amber Skatepark Sex"
@@ -133,7 +133,7 @@ translate russian strings:
 
     # game/variables.rpy:13
     old "First time with Lauren"
-    new "Первый раз с Лорен"
+    new "Первый раз с Лаурен"
 
     # game/variables.rpy:13
     old "First time with Nora"
