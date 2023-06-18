@@ -1,8 +1,9 @@
-﻿# TODO: Translation updated at 2023-06-17 17:22
+﻿# TODO: Translation updated at 2023-06-18 20:27
+# Перевод сделан: Anukich#0751 (discord)
 
-translate copyme strings:
+translate russian strings:
 
     # game/fight/screens/fight_popup_screen.rpy:6
     old "OK"
-    new "OK"
+    new "ОК"
 
