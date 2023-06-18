@@ -1,22 +1,23 @@
-﻿# TODO: Translation updated at 2023-06-17 17:22
+# TODO: Translation updated at 2023-06-18 21:02
+# Перевод сделан: Anukich#0751 (discord)
 
-translate copyme strings:
+translate russian strings:
 
     # game/screens/file_slots_screen.rpy:13
     old "PAGE {}"
-    new "PAGE {}"
+    new "СТРАНИЦА {}"
 
     # game/screens/file_slots_screen.rpy:13
     old "AUTOMATIC SAVES"
-    new "AUTOMATIC SAVES"
+    new "АВТОМАТИЧЕСКИЕ СОХРАНЕНИЯ"
 
     # game/screens/file_slots_screen.rpy:13
     old "QUICK SAVES"
-    new "QUICK SAVES"
+    new "БЫСТРЫЕ СОХРАНЕНИЯ"
 
     # game/screens/file_slots_screen.rpy:55
     old "Save"
-    new "Save"
+    new "Сохранить"
 
     # game/screens/file_slots_screen.rpy:64
     old "{#file_time}%A, %B %d %Y, %H:%M"
@@ -24,7 +25,7 @@ translate copyme strings:
 
     # game/screens/file_slots_screen.rpy:64
     old "empty slot"
-    new "empty slot"
+    new "пустой слот"
 
     # game/screens/file_slots_screen.rpy:83
     old "{#auto_page}A"
