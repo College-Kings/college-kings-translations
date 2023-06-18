@@ -1,24 +1,24 @@
-﻿# TODO: Translation updated at 2023-06-17 17:22
+﻿# TODO: Translation updated at 2023-06-18 03:55
+# Перевод сделан: Anukich#0751 (discord)
 
-translate copyme strings:
+translate russian strings:
 
     # game/inventory.rpy:37
     old "Honey"
-    new "Honey"
+    new "Мёд"
 
     # game/inventory.rpy:44
     old "Butt Plug"
-    new "Butt Plug"
+    new "Анальная Пробка"
 
     # game/inventory.rpy:51
     old "Spankers"
-    new "Spankers"
+    new "Вещь для Шлепков"
 
     # game/inventory.rpy:58
     old "Cuffs"
-    new "Cuffs"
+    new "Наручники"
 
     # game/inventory.rpy:65
     old "Feather"
-    new "Feather"
-
+    new "Перо"
