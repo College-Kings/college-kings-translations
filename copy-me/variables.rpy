@@ -3,163 +3,163 @@
 
 translate russian strings:
 
-    # game/main_menu/scene_gallery/scene_gallery.rpy:31
+    # game/variables.rpy:13
     old "Dreaming of Riley"
     new "В мечтах о Райли"
 
-    # game/main_menu/scene_gallery/scene_gallery.rpy:35
+    # game/variables.rpy:13
     old "Fight with Tom"
     new "Бой с Томом"
 
-    # game/main_menu/scene_gallery/scene_gallery.rpy:39
+    # game/variables.rpy:13
     old "First time with Aubrey"
     new "Первый раз с Обри"
 
-    # game/main_menu/scene_gallery/scene_gallery.rpy:43
+    # game/variables.rpy:13
     old "Fight with Adam"
     new "Битва с Адамом"
 
-    # game/main_menu/scene_gallery/scene_gallery.rpy:47
+    # game/variables.rpy:13
     old "Taking back Emily"
     new "Возвращение Эмили"
 
-    # game/main_menu/scene_gallery/scene_gallery.rpy:48
+    # game/variables.rpy:13
     old "Fun with Aubrey"
     new "Веселье с Обри"
 
-    # game/main_menu/scene_gallery/scene_gallery.rpy:52
+    # game/variables.rpy:13
     old "First time with Riley"
     new "Первый раз с Райли"
 
-    # game/main_menu/scene_gallery/scene_gallery.rpy:53
+    # game/variables.rpy:13
     old "Sneaking to the stall"
     new "Втихаря в туалете"
 
-    # game/main_menu/scene_gallery/scene_gallery.rpy:57
+    # game/variables.rpy:13
     old "Homecoming Amber"
     new "Возвращение домой с Эмбер"
 
-    # game/main_menu/scene_gallery/scene_gallery.rpy:58
+    # game/variables.rpy:13
     old "Homecoming Chloe"
     new "Возвращение домой с Хлоей"
 
-    # game/main_menu/scene_gallery/scene_gallery.rpy:59
+    # game/variables.rpy:13
     old "Homecoming Riley"
     new "Возвращение домой с Райли"
 
-    # game/main_menu/scene_gallery/scene_gallery.rpy:60
+    # game/variables.rpy:13
     old "Fight with Lars"
     new "Бой с Ларсом"
 
-    # game/main_menu/scene_gallery/scene_gallery.rpy:61
+    # game/variables.rpy:13
     old "With Amber at Josh's"
     new "С Эмбер у Джоша"
 
-    # game/main_menu/scene_gallery/scene_gallery.rpy:65
+    # game/variables.rpy:13
     old "Lake w/ Aubrey"
     new "Озеро с/ Обри"
 
-    # game/main_menu/scene_gallery/scene_gallery.rpy:66
+    # game/variables.rpy:13
     old "Emily sex scene"
     new "Сексуальная сцена с Эмили"
 
-    # game/main_menu/scene_gallery/scene_gallery.rpy:67
+    # game/variables.rpy:13
     old "Riley sex scene"
     new "Сексуальная сцена Райли"
 
-    # game/main_menu/scene_gallery/scene_gallery.rpy:68
+    # game/variables.rpy:13
     old "Make out with Lindsey"
     new "Поцелуй с Линдси"
 
-    # game/main_menu/scene_gallery/scene_gallery.rpy:72
+    # game/variables.rpy:13
     old "Ryan Fight"
     new "Бой с Райаном"
 
-    # game/main_menu/scene_gallery/scene_gallery.rpy:73
+    # game/variables.rpy:13
     old "Imre Fight"
     new "Бой с Имре"
 
-    # game/main_menu/scene_gallery/scene_gallery.rpy:74
+    # game/variables.rpy:13
     old "More with Aubrey"
     new "Больше с Обри"
 
-    # game/main_menu/scene_gallery/scene_gallery.rpy:75
+    # game/variables.rpy:13
     old "Make out with Lauren"
     new "Поцелуй с Лорен"
 
-    # game/main_menu/scene_gallery/scene_gallery.rpy:76
+    # game/variables.rpy:13
     old "Amber Skatepark Sex"
     new "Секс в скейтпарке с Эмбер"
 
-    # game/main_menu/scene_gallery/scene_gallery.rpy:77
+    # game/variables.rpy:13
     old "Changing with Chloe"
     new "Переодеваемся вместе с Хлоей"
 
-    # game/main_menu/scene_gallery/scene_gallery.rpy:78
+    # game/variables.rpy:13
     old "More with Riley"
     new "Больше с Райли"
 
-    # game/main_menu/scene_gallery/scene_gallery.rpy:82
+    # game/variables.rpy:13
     old "First time with Candy"
     new "Первый раз с Кэнди"
 
-    # game/main_menu/scene_gallery/scene_gallery.rpy:83
+    # game/variables.rpy:13
     old "Airplane with Aubrey"
     new "В самолёте с Обри"
 
-    # game/main_menu/scene_gallery/scene_gallery.rpy:84
+    # game/variables.rpy:13
     old "First time w/ Ms. Rose"
     new "Первый раз с/ Мисс Роуз"
 
-    # game/main_menu/scene_gallery/scene_gallery.rpy:85
+    # game/variables.rpy:13
     old "Spa with Samantha"
     new "Спа с Самантой"
 
-    # game/main_menu/scene_gallery/scene_gallery.rpy:86
+    # game/variables.rpy:13
     old "In London with Riley"
     new "В Лондоне с Райли"
 
-    # game/main_menu/scene_gallery/scene_gallery.rpy:87
+    # game/variables.rpy:13
     old "In London with Chloe"
     new "В Лондоне с Хлоей"
 
-    # game/main_menu/scene_gallery/scene_gallery.rpy:91
+    # game/variables.rpy:13
     old "Locked up with Lindsey"
     new "Взаперти с Линдси"
 
-    # game/main_menu/scene_gallery/scene_gallery.rpy:92
+    # game/variables.rpy:13
     old "In Paris with Ms. Rose"
     new "В Париже с Мисс Роуз"
 
-    # game/main_menu/scene_gallery/scene_gallery.rpy:93
+    # game/variables.rpy:13
     old "First time with Lauren"
     new "Первый раз с Лорен"
 
-    # game/main_menu/scene_gallery/scene_gallery.rpy:94
+    # game/variables.rpy:13
     old "First time with Nora"
     new "Первый раз с Норой"
 
-    # game/main_menu/scene_gallery/scene_gallery.rpy:98
+    # game/variables.rpy:13
     old "Late night with Riley"
     new "Поздней ночью с Райли"
 
-    # game/main_menu/scene_gallery/scene_gallery.rpy:99
+    # game/variables.rpy:13
     old "Fun with Emmy"
     new "Веселье с Эмми"
 
-    # game/main_menu/scene_gallery/scene_gallery.rpy:100
+    # game/variables.rpy:13
     old "Wild with Chloe"
     new "Дикий секс с Хлоей"
 
-    # game/main_menu/scene_gallery/scene_gallery.rpy:101
+    # game/variables.rpy:13
     old "Angry at Emily"
     new "Злость на Эмили"
 
-    # game/main_menu/scene_gallery/scene_gallery.rpy:105
+    # game/variables.rpy:13
     old "Why not both?"
     new "Почему не обоих?"
 
-    # game/main_menu/scene_gallery/scene_gallery.rpy:106
+    # game/variables.rpy:13
     old "Satin-ly pleased"
     new "Удовлетворение с Сатин"
 
