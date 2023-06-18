@@ -1,28 +1,29 @@
-﻿# TODO: Translation updated at 2023-06-17 17:22
+# TODO: Translation updated at 2023-06-18 20:44
+# Перевод сделан: Anukich#0751 (discord)
 
-translate copyme strings:
+translate russian strings:
 
     # game/fight/fight_quirks.rpy:78
     old "Seeing Red"
-    new "Seeing Red"
+    new "Видимое Покраснение"
 
     # game/fight/fight_quirks.rpy:79
     old "The Great Equalizer"
-    new "The Great Equalizer"
+    new "Великий Уравнитель"
 
     # game/fight/fight_quirks.rpy:80
     old "In The Zone"
-    new "In The Zone"
+    new "В Зоне"
 
     # game/fight/fight_quirks.rpy:81
     old "Backlash"
-    new "Backlash"
+    new "Обратная Реакция"
 
     # game/fight/fight_quirks.rpy:82
     old "Double Time"
-    new "Double Time"
+    new "Удвоенное Время"
 
     # game/fight/fight_quirks.rpy:83
     old "All In"
-    new "All In"
+    new "На все бабки"
 
