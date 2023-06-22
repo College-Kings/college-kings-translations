@@ -16,7 +16,7 @@ translate chinese fight_tutorialLabel_ae7d5522:
 translate chinese fight_tutorialLabel_0c9e457e:
 
     # tut "Since you're new to fighting, you only have 3 simple attacks:"
-    tut "由于你是新手，你只有3次简单的攻击:"
+    tut "由于你是新手，你只有3次简单的攻击："
 
 # game/old_fight/old_fight_labels.rpy:13
 translate chinese fight_tutorialLabel_96c8a50f:
