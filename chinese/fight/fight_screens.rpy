@@ -48,7 +48,7 @@ translate chinese strings:
 
     # game/fight/fight_screens.rpy:178
     old "DIFFICULTY:"
-    new "困难:"
+    new "困难："
 
     # game/fight/fight_screens.rpy:265
     old "CURRENT STANCE"
