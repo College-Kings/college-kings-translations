@@ -28,7 +28,7 @@ translate chinese recap_end_8ab1aa07:
 translate chinese recap_end_b06b3ceb:
 
     # u "it got out that Lindsey had decided to run against Chloe to be president of the Chicks sorority."
-    u "有消息传出，林赛决定和克洛伊竞选女生会的主席。"
+    u "有消息传出，林赛决定和克洛伊竞选小鸡会的会长。"
 
 # game/recap/recap03.rpy:53
 translate chinese recap_end_2ac32ff3:
