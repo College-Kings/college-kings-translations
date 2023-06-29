@@ -8,7 +8,7 @@ translate chinese strings:
 
     # game/main_menu/scene_gallery/scene_gallery.rpy:35
     old "Fight with Tom"
-    new "与汤姆打架"
+    new "与汤姆战斗"
 
     # game/main_menu/scene_gallery/scene_gallery.rpy:39
     old "First time with Aubrey"
@@ -28,7 +28,7 @@ translate chinese strings:
 
     # game/main_menu/scene_gallery/scene_gallery.rpy:52
     old "First time with Riley"
-    new "与莱利第一次"
+    new "与莱莉第一次"
 
     # game/main_menu/scene_gallery/scene_gallery.rpy:53
     old "Sneaking to the stall"
@@ -44,7 +44,7 @@ translate chinese strings:
 
     # game/main_menu/scene_gallery/scene_gallery.rpy:59
     old "Homecoming Riley"
-    new "返校节莱利"
+    new "返校节莱莉"
 
     # game/main_menu/scene_gallery/scene_gallery.rpy:60
     old "Fight with Lars"
@@ -64,7 +64,7 @@ translate chinese strings:
 
     # game/main_menu/scene_gallery/scene_gallery.rpy:67
     old "Riley sex scene"
-    new "莱利性爱场景"
+    new "莱莉性爱场景"
 
     # game/main_menu/scene_gallery/scene_gallery.rpy:68
     old "Make out with Lindsey"
