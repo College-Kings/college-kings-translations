@@ -112,7 +112,7 @@ translate chinese imrecona_3ca6fa7c:
 translate chinese imrecona_c4ee4496:
 
     # u "I'm sorry. I shouldn't have done what I did."
-    u "对不起.我不该那么做。"
+    u "对不起。我不该那么做。"
 
 # game/v6/v6.rpy:228
 translate chinese imrecona_7987fc4b:
@@ -142,13 +142,13 @@ translate chinese imrecona_99c4a6b6:
 translate chinese imrecona_0a9079a2:
 
     # u "FUCK!"
-    u "操！"
+    u "该死的！"
 
 # game/v6/v6.rpy:255
 translate chinese imreconb_0eb52a41:
 
     # u "(I need to help Imre, Adam will destroy him in his current condition.)"
-    u "(我需要帮助伊姆雷，亚当会在他目前的情况下弄死他。)"
+    u "(我需要帮助伊姆雷，亚当会在他目前的情况下弄死他的。)"
 
 # game/v6/v6.rpy:260
 translate chinese imreconb_6bf3e75e:
@@ -160,13 +160,13 @@ translate chinese imreconb_6bf3e75e:
 translate chinese imreconb_3fbd7e50:
 
     # imre "You can't fucking hide from me forever!"
-    imre "你他妈的不能永远躲着我！"
+    imre "你他妈地不能永远躲着我！"
 
 # game/v6/v6.rpy:267
 translate chinese imreconb_66bfa7ca:
 
     # u "Shit, is Adam hiding from you in his room?"
-    u "妈的，亚当在他房间里躲着吗？"
+    u "该死的，亚当在他房间里躲着吗？"
 
 # game/v6/v6.rpy:272
 translate chinese imreconb_d640fcb6:
@@ -178,7 +178,7 @@ translate chinese imreconb_d640fcb6:
 translate chinese imreconb_62bf2a88:
 
     # u "Oh, so he's probably not in the dorm...?"
-    u "哦，所以他可能不在宿舍……?"
+    u "噢，所以他可能不在宿舍……？"
 
 # game/v6/v6.rpy:282
 translate chinese imreconb_839c2821:
@@ -214,7 +214,7 @@ translate chinese imreconb_ed58fa91:
 translate chinese imreconb_c27405c2:
 
     # u "Yeah but that doesn't mean your brother would just risk his life fighting with broken ribs."
-    u "但这并不意味着你哥哥会冒着生命危险和带着断了的肋骨搏斗。"
+    u "但这并不意味着你哥哥会冒着生命危险和带着断了的肋骨战斗。"
 
 # game/v6/v6.rpy:309
 translate chinese imreconb_e0c3f57b:
@@ -286,7 +286,7 @@ translate chinese phonead_5aa288ad:
 translate chinese imrecond_743e89f6:
 
     # u "(Fuck it, Chloe's more important.)"
-    u "(操啊，克洛伊明显更重要。)"
+    u "(去他的，克洛伊明显更重要。)"
 
 # game/v6/v6.rpy:380
 translate chinese phoneac_e4edb176:
@@ -298,7 +298,7 @@ translate chinese phoneac_e4edb176:
 translate chinese phoneac_4fe7b5ae:
 
     # u "(Time to go swimming with the hottest girl in school...)"
-    u "(是时候和学校里最火辣的女孩一起去游泳了……)"
+    u "(是时候和学校里最火辣的女孩一起游泳了……)"
 
 # game/v6/v6.rpy:395
 translate chinese phoneac_6c012194:
@@ -400,7 +400,7 @@ translate chinese phoneac_94c537b9:
 translate chinese phoneac_241078e4:
 
     # cl "*Laughingly* Wow. I can't believe you did that."
-    cl "*笑* 哇哦。我不敢相信你这么做了。"
+    cl "*笑* 哇噢。我不敢相信你这么做了。"
 
 # game/v6/v6.rpy:488
 translate chinese phoneac_e18a9965:
@@ -520,7 +520,7 @@ translate chinese fo_ad_c915a837:
 translate chinese fo_ad_871e72c8:
 
     # cl "Oh, just a friend."
-    cl "哦，只是个朋友。"
+    cl "噢，只是个朋友。"
 
 # game/v6/v6.rpy:658
 translate chinese fp_ad_cabee948:
@@ -532,7 +532,7 @@ translate chinese fp_ad_cabee948:
 translate chinese fp_ad_3a90c30d:
 
     # u "Oh, already? You really are busy."
-    u "哦，搞好了？你真的很忙。"
+    u "噢，搞好了？你真的很忙。"
 
 # game/v6/v6.rpy:668
 translate chinese fp_ad_0bd1822a:
@@ -652,7 +652,7 @@ translate chinese fp_ad_d5589d08:
 translate chinese fp_ad_538b62a3:
 
     # u "(Shit.)"
-    u "(卧槽。)"
+    u "(糟了。)"
 
 # game/v6/v6.rpy:784
 translate chinese fp_ad_6b1bf580:
@@ -760,7 +760,7 @@ translate chinese fs_bd_4c36316e:
 translate chinese fs_bd_e22f1c00:
 
     # u "(Fuck, maybe I could've stopped him if I had just talked to him immediately...)"
-    u "(操，如果我马上和他谈谈，也许我可以阻止他……)"
+    u "(该死的，如果我马上和他谈谈，也许我可以阻止他……)"
 
 # game/v6/v6.rpy:895
 translate chinese fs_bd_57ae9944:
@@ -772,7 +772,7 @@ translate chinese fs_bd_57ae9944:
 translate chinese fs_bd_11aba451:
 
     # u "(Fuck, Imre isn't here... I hope he's okay, I better call him.)"
-    u "(操，伊姆雷不在……我希望他没事，我最好给他打电话。)"
+    u "(该死的，伊姆雷不在……我希望他没事，我最好给他打电话。)"
 
 # game/v6/v6.rpy:911
 translate chinese fs_bd_ef228979:
@@ -796,7 +796,7 @@ translate chinese fs_bd_fe97a2f3:
 translate chinese fs_bd_b9efbe3c:
 
     # u "Shit, he was hiding from you?"
-    u "妈的，他在躲你？"
+    u "该死的，他在躲你？"
 
 # game/v6/v6.rpy:931
 translate chinese fs_bd_020116b5:
@@ -808,7 +808,7 @@ translate chinese fs_bd_020116b5:
 translate chinese fs_bd_f18944dd:
 
     # u "Oh, so he wasn't home."
-    u "哦，所以他不在家。"
+    u "噢，所以他不在家。"
 
 # game/v6/v6.rpy:941
 translate chinese fs_bd_9188e3c4:
@@ -874,7 +874,7 @@ translate chinese phoneaf_e80c8a11:
 translate chinese phoneaf_77a2c777:
 
     # u "(Amber is so fucking hot, I hope she sends more pictures like that in the future.)"
-    u "(琥珀太他妈辣了，我希望她以后多发些这样的照片。)"
+    u "(琥珀太他妈性感了，我希望她以后多发些这样的照片。)"
 
 # game/v6/v6.rpy:1028
 translate chinese continuebd_306ca429:
@@ -904,7 +904,7 @@ translate chinese continuebd_9ea1e8f9:
 translate chinese continuebd_8b4972a9:
 
     # la "Heyyy."
-    la "嗨。"
+    la "嘿。"
 
 # game/v6/v6.rpy:1080
 translate chinese continuebd_6279aa4f:
@@ -952,13 +952,13 @@ translate chinese continuebd_84011d39:
 translate chinese continuebd_38066709:
 
     # u "Oh, yeah... me and Lauren."
-    u "欧，是的……我和劳伦。"
+    u "噢，是的……我和劳伦。"
 
 # game/v6/v6.rpy:1155
 translate chinese continuebd_2db75ff3:
 
     # ri "I uhm... I'm happy for you guys."
-    ri "我嗯……我为你们高兴。"
+    ri "我嗯……我为你们感到高兴。"
 
 # game/v6/v6.rpy:1160
 translate chinese continuebd_ee01f9b9:
@@ -970,7 +970,7 @@ translate chinese continuebd_ee01f9b9:
 translate chinese continuebd_8b4972a9_1:
 
     # la "Heyyy."
-    la "嗨。"
+    la "嘿。"
 
 # game/v6/v6.rpy:1182
 translate chinese continuebd_8831e416_1:
@@ -1000,7 +1000,7 @@ translate chinese continuebd_d49551a2:
 translate chinese continuebd_d97a7a4d:
 
     # u "*Grins* Whatever."
-    u "*笑容* 无所谓。"
+    u "*笑容* 随便了。"
 
 # game/v6/v6.rpy:1241
 translate chinese continuebd_8686e81c:
@@ -1120,7 +1120,7 @@ translate chinese continuebd_9ea1e8f9_1:
 translate chinese continuebd_8b4972a9_2:
 
     # la "Heyyy."
-    la "嗨。"
+    la "嘿。"
 
 # game/v6/v6.rpy:1379
 translate chinese continuebd_39b3a66f_1:
@@ -1168,7 +1168,7 @@ translate chinese continuebd_3e1dce25:
 translate chinese continuebd_d43cd8c3:
 
     # ri "Oh no, what happened?"
-    ri "哦不，发生什么事了？"
+    ri "噢，不，发生什么事了？"
 
 # game/v6/v6.rpy:1448
 translate chinese continuebd_4e504701:
@@ -1246,13 +1246,13 @@ translate chinese afterclass_1010d005:
 translate chinese afterclass_972cdec5:
 
     # ri "Okay, see you."
-    ri "回头见，莱莉。"
+    ri "好的，回见。"
 
 # game/v6/v6.rpy:1531
 translate chinese afterclass_57bd300c:
 
     # ry "In here."
-    ry "在这里面。"
+    ry "来这里。"
 
 # game/v6/v6.rpy:1538
 translate chinese afterclass_90aafb71:
@@ -1270,7 +1270,7 @@ translate chinese afterclass_4977b9f2:
 translate chinese afterclass_35d5d557:
 
     # gr "Listen, [name]... 我想我们一开始就搞砸了。"
-    gr "听着，[name]……我想我们一开始有点误会。"
+    gr "听着，[name]……我想我们一开始有点儿误会。"
 
 # game/v6/v6.rpy:1553
 translate chinese afterclass_e75c9cb1:
@@ -1282,7 +1282,7 @@ translate chinese afterclass_e75c9cb1:
 translate chinese afterclass_0d1741b2:
 
     # gr "Look, I hit you, it was an accident. I was drunk... these things happen, you know?"
-    gr "听着，我打了你，那是个意外。我喝醉了……这些事情都会发生，你知道吗？"
+    gr "听着，我打了你，那是个意外。我喝醉了……这些事情已经发生了，你知道吗？"
 
 # game/v6/v6.rpy:1563
 translate chinese afterclass_2cf85c7b:
@@ -1312,7 +1312,7 @@ translate chinese afterclass_4b0249ae:
 translate chinese afterclass_2406b364:
 
     # gr "You know what I think it was? I think I saw a younger me in you and I got scared."
-    gr "你知道我觉得是什么吗？我想我在你身上看到了年轻的我，我害怕了。"
+    gr "你知道我觉得是什么吗？我想我在你身上看到了年轻时的我，我害怕了。"
 
 # game/v6/v6.rpy:1588
 translate chinese afterclass_d4304960:
@@ -1336,7 +1336,7 @@ translate chinese afterclass_83ee59e3:
 translate chinese afterclass_a6a9552a:
 
     # gr "Join the Apes."
-    gr "加入猿人？"
+    gr "加入猿人吧。"
 
 # game/v6/v6.rpy:1612
 translate chinese afterclass_7d7dc690:
@@ -1348,7 +1348,7 @@ translate chinese afterclass_7d7dc690:
 translate chinese afterclass_be910af9:
 
     # gr "So forget the Wolves, join the Apes."
-    gr "所以忘掉狼，加入猿人吧。"
+    gr "所以忘掉狼人，加入猿人吧。"
 
 # game/v6/v6.rpy:1620
 translate chinese ft_ad_8e17fac5:
@@ -1360,7 +1360,7 @@ translate chinese ft_ad_8e17fac5:
 translate chinese ft_ad_c5e770d9:
 
     # u "Look, this is all really flattering, but... I don't think-"
-    u "听着，这真的很讨人喜欢，但是……我不认为-"
+    u "听着，这真的很诱人，但是……我不认为-"
 
 # game/v6/v6.rpy:1630
 translate chinese ft_ad_b694c0b7:
@@ -1378,7 +1378,7 @@ translate chinese ft_ad_437f98b7:
 translate chinese ft_ad_65810f25:
 
     # ry "Don't waste this chance, man."
-    ry "别浪费这个机会，伙计。"
+    ry "别浪费了这个机会，伙计。"
 
 # game/v6/v6.rpy:1646
 translate chinese ft_ad_4f5115e5:
@@ -1396,13 +1396,13 @@ translate chinese ft_ad_104b948f:
 translate chinese ft_ad_11f06a15:
 
     # u "(Is that Ms. Rose crying?)"
-    u "(是罗斯老师在哭吗？?)"
+    u "(是罗斯女士在哭吗？?)"
 
 # game/v6/v6.rpy:1674
 translate chinese ft_ad_ffc2de0a:
 
     # u "Ms. Rose?"
-    u "罗斯老师？"
+    u "罗斯女士？"
 
 # game/v6/v6.rpy:1679
 translate chinese ft_ad_4be465d7:
@@ -1414,7 +1414,7 @@ translate chinese ft_ad_4be465d7:
 translate chinese ft_ad_7e08fcea:
 
     # u "Are you okay? What happened?"
-    u "你没事吧？怎么了？"
+    u "您没事吧？怎么了？"
 
 # game/v6/v6.rpy:1689
 translate chinese ft_ad_3edb39b7:
@@ -1426,7 +1426,7 @@ translate chinese ft_ad_3edb39b7:
 translate chinese ft_ad_3c75c9fa:
 
     # u "Are you sure? Maybe I can help."
-    u "你肯定吗？也许我能帮上忙。"
+    u "您确定吗？也许我能帮上忙。"
 
 # game/v6/v6.rpy:1699
 translate chinese ft_ad_fee87927:
@@ -1450,7 +1450,7 @@ translate chinese ft_ad_ca52e5d7:
 translate chinese ft_ad_2c5d2ba9:
 
     # u "Okay. Okay. Apologies. I'll leave you alone."
-    u "好吧。好吧。抱歉。我让你一个人呆着。"
+    u "好吧。好吧。抱歉。我让您一个人呆着。"
 
 # game/v6/v6.rpy:1719
 translate chinese ft_ad_ba66880b:
@@ -1462,7 +1462,7 @@ translate chinese ft_ad_ba66880b:
 translate chinese ft_ad_4a58dbb5:
 
     # ro "I'm sorry. I didn't mean to snap at you. I just have a lot going on right now."
-    ro "对不起。我不是想骂你。我现在有很多事情要做。"
+    ro "对不起。我不是想骂你。我现在有很多烦心事。"
 
 # game/v6/v6.rpy:1729
 translate chinese ft_ad_2e47791b:
@@ -1480,7 +1480,7 @@ translate chinese ft_ad_281dfb87:
 translate chinese ft_ad_f908a0f6:
 
     # u "I'm here if you need me."
-    u "如果你需要我，我就在这里。"
+    u "如果您需要我，我就在这里。"
 
 # game/v6/v6.rpy:1760
 translate chinese nr_bb_ac11233a:
@@ -1522,19 +1522,19 @@ translate chinese nr_bb_bb201991:
 translate chinese nr_bb_07491fbc:
 
     # u "(And what the fuck am I gonna do about Grayson?)"
-    u "(我他妈的该怎么回复格雷森？)"
+    u "(我他妈地该怎么回复格雷森？)"
 
 # game/v6/v6.rpy:1797
 translate chinese nr_bb_6acf9f9d:
 
     # u "(What the fuck am I gonna do about Grayson?)"
-    u "(我他妈的该怎么回复格雷森？)"
+    u "(我他妈地该怎么回复格雷森？)"
 
 # game/v6/v6.rpy:1803
 translate chinese continuebe_a547874d:
 
     # u "(Fuck this, maybe going for a run will help me clear my mind)"
-    u "(操他妈，也许去跑步能帮我理清思路)"
+    u "(不管了，也许去跑步能帮我理清思路。)"
 
 # game/v6/v6.rpy:1818
 translate chinese continuebe_e6323d47:
@@ -1588,7 +1588,7 @@ translate chinese continuebe_5ec77185:
 translate chinese continuebe_cd961bb3:
 
     # u "Oh, cool."
-    u "哦，酷。"
+    u "噢，真不错。"
 
 # game/v6/v6.rpy:1865
 translate chinese continuebe_9ea2f78c:
@@ -1600,13 +1600,13 @@ translate chinese continuebe_9ea2f78c:
 translate chinese continuebe_6ceaba0c:
 
     # u "I wanna start running more too, it really helps me clear my thoughts."
-    u "我也想开始多跑步，这真的能帮我理清思路。"
+    u "我也想多跑步，这真的能帮我理清思路。"
 
 # game/v6/v6.rpy:1872
 translate chinese continuebe_3f646b05:
 
     # no "I don't even remember an age where I didn't run. It's just such a good stress relief."
-    no "我甚至不记得我有一个不跑步的年龄。只是很好的减压。"
+    no "我甚至不记得我有一个不跑步的年龄。是个很好的减压方式。"
 
 # game/v6/v6.rpy:1877
 translate chinese continuebe_fd8da66f:
@@ -1618,13 +1618,13 @@ translate chinese continuebe_fd8da66f:
 translate chinese continuebe_661b4b00:
 
     # u "So, are you going to the Wolves' rush party tomorrow?"
-    u "你明天要去狼人迎新会吗？"
+    u "你明天要去狼人的迎新会吗？"
 
 # game/v6/v6.rpy:1884
 translate chinese continuebe_e8ed35c0:
 
     # no "Yeah, I think Chris would kill me if I didn't."
-    no "是啊，我想如果我不这么做克里斯会杀了我的。
+    no "是啊，我想如果我不这么做克里斯会杀了我的。"
 
 # game/v6/v6.rpy:1886
 translate chinese continuebe_adf14c70:
@@ -1672,7 +1672,7 @@ translate chinese continuebe_0f8495d3:
 translate chinese continuebe_a4acbf5c:
 
     # u "(Damn...)"
-    u "(该死……)"
+    u "(该死的……)"
 
 # game/v6/v6.rpy:1936
 translate chinese fu_b_eedb5df0:
@@ -1822,7 +1822,7 @@ translate chinese fu_b_7e006013:
 translate chinese fu_b_9d2ff1d7:
 
     # ev "Of course you don't."
-    ev "你当然不知道。"
+    ev "好吧，你不用接我。"
 
 # game/v6/v6.rpy:2071
 translate chinese fu_b_5daa0ce9:
@@ -1858,7 +1858,7 @@ translate chinese fu_b_79e1b3f6_1:
 translate chinese fu_b_e6dbca32:
 
     # u "Hell yeah."
-    u "卧槽。"
+    u "噢耶。"
 
 # game/v6/v6.rpy:2134
 translate chinese lookdog_3fd3d76d:
@@ -2290,13 +2290,13 @@ translate chinese fz_a_1b03ac11:
 translate chinese fz_b_19101482:
 
     # u "Are you fucking kidding me?! This is why you're calling me??? Over something stupid like this?"
-    u "你他妈的开什么玩笑？！这就是你打电话给我的原因？？？就为了这种蠢事？"
+    u "你他妈地开什么玩笑？！这就是你打电话给我的原因？？？就为了这种蠢事？"
 
 # game/v6/v6.rpy:2584
 translate chinese fz_b_13dba02e:
 
     # em "God, you have no empathy at all, do you?!"
-    em "天哪，你一点同情心都没有，是吗？！"
+    em "天呐，你一点同情心都没有，是吗？！"
 
 # game/v6/v6.rpy:2589
 translate chinese fz_b_978741a9:
@@ -2446,13 +2446,13 @@ translate chinese emsex_a_9ea2f78c:
 translate chinese emsex_a_9b013366:
 
     # em "Fuck... get down there."
-    em "操……弄下面。"
+    em "该死的……舔下面。"
 
 # game/v6/v6.rpy:2740
 translate chinese emsex_a_507e0dfa:
 
     # em "I haven't been eaten out in so long..."
-    em ""我很久没被口了……"
+    em "我很久没被口了……"
 
 # game/v6/v6.rpy:2745
 translate chinese emsex_a_9c0c9c2f:
@@ -2470,13 +2470,13 @@ translate chinese emhead_4dc25266:
 translate chinese emhead_14b30358:
 
     # em "*Moans louder* Oh baby..."
-    em "*呻吟更大声* 哦，宝贝……"
+    em "*呻吟更大声* 噢，宝贝……"
 
 # game/v6/v6.rpy:2757
 translate chinese emhead_818ee437:
 
     # em "*Moans even louder* Fuuuuck."
-    em "*呻吟得更大声* 操了。"
+    em "*呻吟得更大声* 天呐。"
 
 # game/v6/v6.rpy:2759
 translate chinese emhead_9ea2f78c:
@@ -2488,7 +2488,7 @@ translate chinese emhead_9ea2f78c:
 translate chinese emhead_1a8211a6:
 
     # em "Oh my god, I'm gonna cum."
-    em "天啊，我要去了。"
+    em "天呐，我要去了。"
 
 # game/v6/v6.rpy:2763
 translate chinese emhead_f31627d2:
@@ -2524,7 +2524,7 @@ translate chinese emhead_564d9e32:
 translate chinese emhead_3da381ca:
 
     # u "You're gonna suck some dick now."
-    u "你现在要吸些鸡巴了。"
+    u "你想要吃个鸡巴么。"
 
 # game/v6/v6.rpy:2798
 translate chinese emhead_00eb4eed:
@@ -2596,7 +2596,7 @@ translate chinese emfacefuck_4dc25266:
 translate chinese embehind_50ff6872:
 
     # em "*Moans* Oh my god!"
-    em "*呻吟* 哦，我的上帝啊！"
+    em "*呻吟* 噢，我的上帝啊！"
 
 # game/v6/v6.rpy:2849
 translate chinese embehind_bc3b597f:
@@ -2656,7 +2656,7 @@ translate chinese embutterfly_9ea2f78c:
 translate chinese embutterfly_ccac5aee:
 
     # em "*Moans even louder* Oh my god! I'm gonna cum!"
-    em "*更大声的呻吟* 哦，上帝啊！我要去了！"
+    em "*更大声的呻吟* 噢，上帝啊！我要去了！"
 
 # game/v6/v6.rpy:2882
 translate chinese embutterfly_9ea2f78c_1:
@@ -2752,7 +2752,7 @@ translate chinese v6_nsfwSkipLabel1_7f9524fe:
 translate chinese v6_nsfwSkipLabel1_a61fdaa7:
 
     # u "Oh, awesome. I'll see you tonight then."
-    u "哦，太棒了。那我们今晚见。"
+    u "噢，太棒了。那我们今晚见。"
 
 # game/v6/v6.rpy:2963
 translate chinese v6_nsfwSkipLabel1_2265f685:
@@ -2848,7 +2848,7 @@ translate chinese fy_bd_17980f31:
 translate chinese fy_bd_f8f59d4f:
 
     # imre "And then tomorrow night it's the Wolves' rush party, I can't fucking wait."
-    imre "明天晚上是狼队的迎新会，我他妈的等不及了。"
+    imre "明天晚上是狼人的迎新会，我他妈的等不及了。"
 
 # game/v6/v6.rpy:3088
 translate chinese fy_bd_79b183c4:
@@ -2866,7 +2866,7 @@ translate chinese fy_bd_0fcc3371:
 translate chinese fy_bd_30ca988d:
 
     # u "Jesus... Enjoy."
-    u "天啊……享受吧。"
+    u "上帝啊……享受吧。"
 
 # game/v6/v6.rpy:3109
 translate chinese continuebg_b4fe6db7:
@@ -2878,7 +2878,7 @@ translate chinese continuebg_b4fe6db7:
 translate chinese continuebg_ee51f0f5:
 
     # u "(Shit, it's almost eight. I gotta get ready for my date.)"
-    u "(妈的，快八点了。我得准备约会了。)"
+    u "(糟了，快八点了。我得准备约会了。)"
 
 # game/v6/v6.rpy:3134
 translate chinese continuebg_d3ad72ea:
@@ -2932,7 +2932,7 @@ translate chinese continuebg_b1ab654c:
 translate chinese continuebg_f06f0976:
 
     # ev "Oh, well thank you."
-    ev "哦，好吧，谢谢你。"
+    ev "噢，好吧，谢谢你。"
 
 # game/v6/v6.rpy:3184
 translate chinese gc_ad_aa4f29a7:
@@ -2956,7 +2956,7 @@ translate chinese gc_ad_7e6ec529:
 translate chinese gc_ad_2cdff11e:
 
     # u "Uh, yeah, can I just get a beer?"
-    u "呃，我来喝杯啤酒，可以么？"
+    u "呃，给我来喝杯啤酒，可以么？"
 
 # game/v6/v6.rpy:3209
 translate chinese gc_ad_5db48f0d:
@@ -2980,7 +2980,7 @@ translate chinese gc_ad_ff38fcf0:
 translate chinese gc_ad_3c31b17f:
 
     # u "Oh yeah, red wine. That works."
-    u "哦是的，红酒。那不错。"
+    u "噢，好的，红酒。那很棒。"
 
 # game/v6/v6.rpy:3229
 translate chinese gc_ad_a179e7aa:
@@ -2992,13 +2992,13 @@ translate chinese gc_ad_a179e7aa:
 translate chinese gc_ad_9efc2cb6:
 
     # ev "You know if you're going to wine and dine a lady, I suggest you really WINE and dine her."
-    ev "你知道，如果你要和一位女士喝红酒吃饭，我建议你和她喝真的红酒再吃饭。"
+    ev "你知道，如果你要和一位女士喝酒吃饭，我建议你和她喝正宗的红酒再吃饭。"
 
 # game/v6/v6.rpy:3244
 translate chinese gc_ad_e40d34c2:
 
     # u "Sorry, I didn't know you liked wine."
-    u "对不起，我不知道你喜欢红酒。"
+    u "抱歉，我不知道你喜欢红酒。"
 
 # game/v6/v6.rpy:3254
 translate chinese gc_ad_ef7ae04f:
@@ -3028,13 +3028,13 @@ translate chinese gc_ad_01f8b435:
 translate chinese gc_ad_92739275:
 
     # u "Oh, right."
-    u "哦，对。"
+    u "噢，对。"
 
 # game/v6/v6.rpy:3279
 translate chinese gc_ad_ac1d9481:
 
     # waiter "There you go, a bottle of La Grupa Malbec Syrah from the 2018 harvest. It's from Tupungato in Mendoza. Delicate spices, ripe plums and cherries are balanced by refreshing acidity."
-    waiter "久等了，一瓶2018年酿制的La Grupa Malbec Syrah。来自门多萨的图蓬加托。精致的香料，让成熟李子的酸爽与樱桃的清新浓墨相宜。"
+    waiter "二位久等了，一瓶2018年酿制的La Grupa Malbec Syrah。产自门多萨的图蓬加托。精选的香料，让成熟李子的酸爽与樱桃的清甜浓淡相宜。"
 
 # game/v6/v6.rpy:3284
 translate chinese gc_ad_0c6aadf3:
@@ -3058,7 +3058,7 @@ translate chinese gc_ad_9aa35903:
 translate chinese gc_ad_87469685:
 
     # u "Yeah, I'll get the New York steak, medium rare."
-    u "好的，我要份纽约牛排，五分熟。"
+    u "嗯，我要份纽约牛排，五分熟。"
 
 # game/v6/v6.rpy:3304
 translate chinese gc_ad_197e6765:
@@ -3100,7 +3100,7 @@ translate chinese gc_ad_b516c62e:
 translate chinese gc_ad_300f9c96:
 
     # u "Oh.. uh.. I'm not sure."
-    u "哦……呃……我不确定。"
+    u "噢……呃……我不确定。"
 
 # game/v6/v6.rpy:3355
 translate chinese gc_ad_6d19fefa:
@@ -3124,13 +3124,13 @@ translate chinese gd_ad_57f7c3ba:
 translate chinese gd_ad_2be5d203:
 
     # u "Yeah, of course."
-    u "哦，当然。"
+    u "噢，当然。"
 
 # game/v6/v6.rpy:3376
 translate chinese gd_ad_b5702555:
 
     # u "(Shit this isn't going well. It's super awkward and we're not clicking at all.)"
-    u "(妈的，这不是很顺利。真是超级尴尬，我们根本没有共同话题。)"
+    u "(该死的，这不是很顺利。真是超级尴尬，我们根本没有共同话题。)"
 
 # game/v6/v6.rpy:3378
 translate chinese gd_ad_11ccda3f:
@@ -3142,13 +3142,13 @@ translate chinese gd_ad_11ccda3f:
 translate chinese gd_ad_647c082e:
 
     # waiter "Eggplant parmesan for the lady."
-    waiter "给女士的茄子帕尔马干酪。"
+    waiter "为女士烹饪的茄子帕尔马干酪。"
 
 # game/v6/v6.rpy:3388
 translate chinese gd_ad_dcfd0e56:
 
     # waiter "And the New York steak, medium rare, for the gentleman."
-    waiter "还有纽约牛排，三分熟，给这位先生。"
+    waiter "还有纽约牛排，五分熟，给这位先生。"
 
 # game/v6/v6.rpy:3393
 translate chinese gd_ad_ccd53b23:
@@ -3256,7 +3256,7 @@ translate chinese gd_ad_9411ad19:
 translate chinese gd_ad_f69dad3d:
 
     # u "So what are you passionate about? What do you really wanna do?"
-    u "你对什么充满激情？你到底想做什么？"
+    u "你对什么充满激情？你真正想做的是什么？"
 
 # game/v6/v6.rpy:3493
 translate chinese gd_ad_eca779fd:
@@ -3274,7 +3274,7 @@ translate chinese gd_ad_50ff7387:
 translate chinese gd_ad_e2ec2ef9:
 
     # u "Oh cool, that's like some science stuff, right?"
-    u "哦，酷，这就像一些科学的东西，对吧？"
+    u "噢，酷，这就像一些科学的东西，对吧？"
 
 # game/v6/v6.rpy:3508
 translate chinese gd_ad_bcc97542:
@@ -3286,7 +3286,7 @@ translate chinese gd_ad_bcc97542:
 translate chinese gd_ad_9eb5c377:
 
     # u "Even cooler. So what exactly would you be doing?"
-    u "更酷。你到底会做什么？"
+    u "更酷。你真正想做什么？"
 
 # game/v6/v6.rpy:3518
 translate chinese gd_ad_9a5cac2f:
@@ -3376,7 +3376,7 @@ translate chinese ge_ad_671c19ec:
 translate chinese ge_ad_cd961bb3:
 
     # u "Oh, cool."
-    u "哦，酷。"
+    u "噢，酷。"
 
 # game/v6/v6.rpy:3587
 translate chinese ge_ad_7258faa3:
@@ -3460,7 +3460,7 @@ translate chinese v6_phoneah_0b5740d2:
 translate chinese v6_phoneah_299f3124:
 
     # u "(I guess I'm going to Aubrey's)"
-    u "(我想我要去奥布里那里了)"
+    u "(我想我要去奥布里那里了。)"
 
 # game/v6/v6.rpy:3704
 translate chinese v6_phoneah_8e7e0d9e:
@@ -3490,7 +3490,7 @@ translate chinese v6_phoneah_66eeae3d:
 translate chinese v6_phoneah_c3ce9318:
 
     # au "Oh do I?"
-    au "哦，我有吗？"
+    au "噢，我有吗？"
 
 # game/v6/v6.rpy:3738
 translate chinese v6_phoneah_40eaa1be:
@@ -3574,7 +3574,7 @@ translate chinese v6_phoneah_166e5575:
 translate chinese v6_phoneah_47125ca8:
 
     # u "Oh come on, don't act like you don't know more about that than me. You guys are best friends."
-    u "哦，别这样，别装作你不比我知道得多。你们是最好的朋友。"
+    u "噢，别这样，别装作你不比我知道得多。你们是最好的朋友。"
 
 # game/v6/v6.rpy:3814
 translate chinese v6_phoneah_a27550e0:
@@ -3598,7 +3598,7 @@ translate chinese v6_phoneah_6fe20a0c:
 translate chinese v6_phoneah_afc4fcaa:
 
     # au "It's actually kinda hot."
-    au "其实有点火辣。"
+    au "其实有点性感。"
 
 # game/v6/v6.rpy:3843
 translate chinese v6_phoneah_87172167:
@@ -3628,7 +3628,7 @@ translate chinese v6_phoneah_c300baab:
 translate chinese v6_phoneah_168620c2:
 
     # au "Oh..."
-    au "哦……"
+    au "噢……"
 
 # game/v6/v6.rpy:3876
 translate chinese v6_phoneah_6bfe2439:
@@ -3646,7 +3646,7 @@ translate chinese v6_phoneah_f2986376:
 translate chinese v6_phoneah_47d0af3c:
 
     # au "Good thing you have me."
-    au "幸好你还有我。"
+    au "至少还有我。"
 
 # game/v6/v6.rpy:3907
 translate chinese v6_phoneah_735efb80:
@@ -3658,7 +3658,7 @@ translate chinese v6_phoneah_735efb80:
 translate chinese v6_phoneah_c9cc6a4a:
 
     # au "I bet you've been seducing them just like you've been trying to seduce me."
-    au "我打赌你一直在勾引他们就像你一直在勾引我一样。"
+    au "我打赌你一直在勾引她们就像你一直在勾引我一样。"
 
 # game/v6/v6.rpy:3919
 translate chinese v6_phoneah_ce9b0ae3:
@@ -3694,7 +3694,7 @@ translate chinese v6_phoneah_b8cc060d:
 translate chinese v6_phoneah_9e7c9215:
 
     # u "Oh come on, it's only my second week."
-    u "哦，别这样，这才是我第二周。"
+    u "噢，别这样，这才是我第二周。"
 
 # game/v6/v6.rpy:3963
 translate chinese v6_phoneah_e90a9633:
@@ -3718,7 +3718,7 @@ translate chinese aubreysexb_53e21599:
 translate chinese aubreysexb_780ef85e:
 
     # au "*Giggles* Oh god, that tickles."
-    au "*傻笑* 哦，天哪，真痒。"
+    au "*傻笑* 噢，天呐，真痒。"
 
 # game/v6/v6.rpy:4003
 translate chinese aubreysexb_38450c6f:
@@ -3814,7 +3814,7 @@ translate chinese naubblowjob_9ea2f78c:
 translate chinese naubblowjob_a689f138:
 
     # u "Oh my god, Aubrey..."
-    u "天啊，奥布里……"
+    u "天呐，奥布里……"
 
 # game/v6/v6.rpy:4099
 translate chinese naubblowjob_9ea2f78c_1:
@@ -3868,7 +3868,7 @@ translate chinese naub69_3fe6baae:
 translate chinese naub69_d9d1ee61:
 
     # au "Oh my god!"
-    au "天啊！"
+    au "天呐！"
 
 # game/v6/v6.rpy:4145
 translate chinese naub69_b4f8a083:
@@ -3892,7 +3892,7 @@ translate chinese naub69_fb4a6e55:
 translate chinese naub69_801d6ec6:
 
     # u "Oh really? What's that?"
-    u "哦真的吗？那是什么？"
+    u "噢真的吗？那是什么？"
 
 # game/v6/v6.rpy:4165
 translate chinese naub69_ee9c5eb3:
@@ -3982,7 +3982,7 @@ translate chinese naub69_c297ffde:
 translate chinese naubfingering_a859c06b:
 
     # au "Oh my god..."
-    au "天啊……"
+    au "天呐……"
 
 # game/v6/v6.rpy:4250
 translate chinese naubfingering_3da13d1c:
@@ -4018,7 +4018,7 @@ translate chinese naubfingering_9ea2f78c:
 translate chinese naubmissionary_9f9828f3:
 
     # au "*Loud moan* Ohhh..."
-    au "*呻吟* 哦……"
+    au "*呻吟* 噢……"
 
 # game/v6/v6.rpy:4274
 translate chinese naubmissionary_9df19d9d:
@@ -4048,7 +4048,7 @@ translate chinese naubmissionary_4f6c3704:
 translate chinese naubmissionary_a6fa342a:
 
     # au "Ahhhh, oh my god!!!"
-    au "啊，天啊！！！"
+    au "啊，天呐！！！"
 
 # game/v6/v6.rpy:4287
 translate chinese naubmissionary_9ea2f78c_1:
@@ -4090,13 +4090,13 @@ translate chinese naubbehind_9ea2f78c:
 translate chinese naubbehind_feb380d5:
 
     # au "*Moans* Ohhhhh!"
-    au "*呻吟* 哦！"
+    au "*呻吟* 噢！"
 
 # game/v6/v6.rpy:4319
 translate chinese naubbehind_67c06b12:
 
     # au "Oh my god! I'm gonna cum!"
-    au "天啊！我要去了！"
+    au "天呐！我要去了！"
 
 # game/v6/v6.rpy:4321
 translate chinese naubbehind_52a3b162:
@@ -4114,7 +4114,7 @@ translate chinese naubclimax_95bdf18f:
 translate chinese naubclimax_4f9e2525:
 
     # au "Holy shit..."
-    au "天啊……"
+    au "天呐……"
 
 # game/v6/v6.rpy:4338
 translate chinese naubclimax_a5f69e1a:
@@ -4210,7 +4210,7 @@ translate chinese afteraubrey_9ea2f78c:
 translate chinese afteraubrey_dc07930a:
 
     # u "(Oh shit, it's almost midnight.)"
-    u "(哦，妈的，快半夜了。)"
+    u "(噢，妈的，快半夜了。)"
 
 # game/v6/v6.rpy:4435
 translate chinese afteraubrey_250ab959:
@@ -4456,7 +4456,7 @@ translate chinese meetgrayson_c08124eb:
 translate chinese meetgrayson_e4aed42c:
 
     # gr "Yeah, just to see how naive you were. To be an Ape you gotta be sharp. We need top guys."
-    gr "是的，只是想看看你有多天真。要成为一只猿，你必须要敏锐。我们需要顶尖的人。"
+    gr "是的，只是想看看你有多天真。要成为一个猿人，你必须要敏锐。我们需要顶尖的人。"
 
 # game/v6/v6.rpy:4684
 translate chinese meetgrayson_01dbe0fb:
@@ -4498,7 +4498,7 @@ translate chinese wehere_5dbc255b:
 translate chinese wehere_87767ff4:
 
     # gr "So in other words, a winner is an Ape. An Ape doesn't let any fucker step on him. An Ape isn't a pussy."
-    gr "所以换句话说，胜利者一定是猿。猿不会让任何混蛋取代他。猿猴不是孬种。"
+    gr "所以换句话说，胜利者一定是猿人。猿人不会让任何混蛋取代他。猿人不是孬种。"
 
 # game/v6/v6.rpy:4725
 translate chinese wehere_3fcc46a3:
@@ -4516,7 +4516,7 @@ translate chinese wehere_faf5e393:
 translate chinese wehere_dce8ec1c:
 
     # gr "The potential to become the next great Ape. To become a winner. To become a leader."
-    gr "成为下一个伟大猿猴的潜力。成为胜利者，成为领袖的潜力。"
+    gr "成为下一个伟大猿人的潜力。成为胜利者，成为领袖的潜力。"
 
 # game/v6/v6.rpy:4732
 translate chinese wehere_8134e4bb:
@@ -4594,7 +4594,7 @@ translate chinese wehere_e6f058f0:
 translate chinese wehere_8fbaa728:
 
     # gr "Join the Apes and I promise you, everyone at San Vallejo will know who you are within weeks."
-    gr "加入猿派，我向你保证，圣瓦列霍的每个人都会在几周内知道你是谁。"
+    gr "加入猿人吧，我向你保证，圣瓦列霍的每个人都会在几周内知道你是谁。"
 
 # game/v6/v6.rpy:4778
 translate chinese wehere_3de68741:
@@ -4690,13 +4690,13 @@ translate chinese wehere_106f7a82:
 translate chinese wehere_5035cacb:
 
     # gr "*Laughs* I'm just messing with you. Come on, let's go."
-    gr "*笑* 我只是在耍你。来吧，我们走。"
+    gr "*笑* 我只是在耍你。来吧，我们走吧。"
 
 # game/v6/v6.rpy:4872
 translate chinese wehere_b52f166f:
 
     # u "I told people I was gonna go to the Wolves' rush party, but I probably shouldn't go now, right?"
-    u "我告诉别人我要去狼队的迎新会，但我现在可能不该去，对吧？"
+    u "我告诉别人我要去狼人的迎新会，但我现在可能不该去，对吧？"
 
 # game/v6/v6.rpy:4878
 translate chinese wehere_92d563ab:
@@ -4738,13 +4738,13 @@ translate chinese wehere_20d6e415:
 translate chinese wehere_e3ac30cf:
 
     # u "Sorry, Grayson. But I don't wanna be an Ape."
-    u "对不起，格雷森。但我不想当猿猴。"
+    u "对不起，格雷森。但我不想当猿人。"
 
 # game/v6/v6.rpy:4920
 translate chinese wehere_d97e760b:
 
     # gr "What? What do you mean you don't wanna be an Ape?!"
-    gr "什么？你不想当猿猴是什么意思？！"
+    gr "什么？你不想当猿人是什么意思？！"
 
 # game/v6/v6.rpy:4925
 translate chinese wehere_cc6a7e76:
@@ -4786,13 +4786,13 @@ translate chinese wehere_8a3cd010:
 translate chinese wehere_1d7a62ff:
 
     # u "Grayson, what the fuck?! You're my ride!"
-    u "格雷森，我没上车？！我还没上车呢！"
+    u "格雷森，我没上车？！我还没上车！"
 
 # game/v6/v6.rpy:4963
 translate chinese wehere_f617ca71:
 
     # u "Fuck!"
-    u "操！"
+    u "该死的！"
 
 # game/v6/v6.rpy:4964
 translate chinese wehere_290c0a3a:
@@ -4834,7 +4834,7 @@ translate chinese aftergrayson_16c9bc68:
 translate chinese aftergrayson_81c29d39:
 
     # u "Fuck guys! We can't go any further, there's a cliff!"
-    u "卧槽伙计们！我们不能再往前走了，是悬崖！"
+    u "糟了，伙计们！我们不能再往前走了，是悬崖！"
 
 # game/v6/v6.rpy:5013
 translate chinese aftergrayson_575f57c4:
@@ -4870,7 +4870,7 @@ translate chinese aftergrayson_51ffc16a:
 translate chinese aftergrayson_d8913c1b:
 
     # u "Nooo!"
-    u "不--！"
+    u "不！"
 
 # game/v6/v6.rpy:5058
 translate chinese aftergrayson_51ffc16a_1:
@@ -4882,7 +4882,7 @@ translate chinese aftergrayson_51ffc16a_1:
 translate chinese aftergrayson_d8913c1b_1:
 
     # u "Nooo!"
-    u "不--！"
+    u "不！"
 
 # game/v6/v6.rpy:5080
 translate chinese timera_51ffc16a:
@@ -4894,13 +4894,13 @@ translate chinese timera_51ffc16a:
 translate chinese timera_d8913c1b:
 
     # u "Nooo!"
-    u "不--！"
+    u "不！"
 
 # game/v6/v6.rpy:5095
 translate chinese wakeupa_58d6edb4:
 
     # u "*Breathing heavily* (Holy shit... thank god that was just a dream.)"
-    u "*呼吸沉重* (天哪……感谢上帝那只是一场梦。)"
+    u "*呼吸沉重* (天呐……感谢上帝那只是一场梦。)"
 
 # game/v6/v6.rpy:5104
 translate chinese wakeupa_288e53e1:
@@ -4996,13 +4996,13 @@ translate chinese wakeupa_66c635b8:
 translate chinese wakeupa_91342791:
 
     # imre "Alright, I'm gonna show you how to throw an uppercut."
-    imre "好吧，我来教你怎么扔上钩拳。"
+    imre "好吧，我来教你怎么打上钩拳。"
 
 # game/v6/v6.rpy:5242
 translate chinese wakeupa_c3a74fec:
 
     # imre "*Winces in pain* Ahh fuck."
-    imre "*痛苦地退缩* 啊，操！"
+    imre "*痛苦地退缩* 啊，该死！"
 
 # game/v6/v6.rpy:5247
 translate chinese wakeupa_f9ac4eb4:
@@ -5146,7 +5146,7 @@ translate chinese phoneak_cd0cab36:
 translate chinese phoneak_23998ed2:
 
     # ri "Oh, it's starting!"
-    ri "哦，开始了！"
+    ri "噢，开始了！"
 
 # game/v6/v6.rpy:5503
 translate chinese phoneak_90ecd6d0:
@@ -5158,7 +5158,7 @@ translate chinese phoneak_90ecd6d0:
 translate chinese phoneak_d4218446:
 
     # host "Thank you for joining us for the annual poetry slam. Today we are here to make noise, make our voices heard, make our opinions known and make a difference!"
-    host "感谢大家参加我们一年一度的诗朗诵大赛。今天我们在这里抛砖引玉，让我们携手，传承经典，弘扬文化，和而不同，美美与共。"
+    host "感谢大家参加我们一年一度的诗朗诵大赛。今天我们在这里抛砖引玉，让我们携手，传承经典，弘扬文化，和而不同，美美与共！"
 
 # game/v6/v6.rpy:5509
 translate chinese phoneak_06289722:
@@ -5398,7 +5398,7 @@ translate chinese gn_ad_3c3c9b55:
 translate chinese gn_ad_fe81161f:
 
     # ri "*Chuckles* Oh shut up, it was not profound."
-    ri "*咯咯笑* 哦，闭嘴，这毫无内涵。"
+    ri "*咯咯笑* 噢，闭嘴，这毫无内涵。"
 
 # game/v6/v6.rpy:5663
 translate chinese gn_ad_2232945f:
@@ -5422,7 +5422,7 @@ translate chinese gn_ad_dc832f76:
 translate chinese gn_ad_9e8e8dd7:
 
     # ri "*Chuckles* Oh god, that's so mean."
-    ri "*咯咯笑* 哦，天哪，太卑鄙了。"
+    ri "*咯咯笑* 噢，天呐，太卑鄙了。"
 
 # game/v6/v6.rpy:5683
 translate chinese gn_ad_dc6ae495:
@@ -5452,7 +5452,7 @@ translate chinese go_ad_62196087:
 translate chinese go_ad_e8806997:
 
     # u "Oh yeah, she looks like she'll be good."
-    u "哦，是的，她看起来会很好的。"
+    u "噢，是的，她看起来会很好的。"
 
 # game/v6/v6.rpy:5702
 translate chinese go_ad_4aa2e124:
@@ -5890,7 +5890,7 @@ translate chinese afterps_f2782c85:
 translate chinese afterps_bf6ee459:
 
     # u "Oh god, I was awful."
-    u "天啊，我要吐了。"
+    u "天呐，我要吐了。"
 
 # game/v6/v6.rpy:6029
 translate chinese afterps_28d016f4:
@@ -6040,7 +6040,7 @@ translate chinese afterpsb_2d90a7b3:
 translate chinese afterpsb_53fa4ac3:
 
     # ri "Oof, well good luck then. I'll see you later."
-    ri "哦，那祝你好运。回头见。"
+    ri "噢，那祝你好运。回头见。"
 
 # game/v6/v6.rpy:6150
 translate chinese afterpsb_bb47ee0e:
@@ -6052,7 +6052,7 @@ translate chinese afterpsb_bb47ee0e:
 translate chinese afterpsb_e3e33d1a:
 
     # u "Hey, Penelope! How are you doing?"
-    u "嘿，佩内洛普！你好吗？"
+    u "嘿，佩内洛普！最近过得怎样？"
 
 # game/v6/v6.rpy:6171
 translate chinese afterpsb_09c0c12c:
@@ -6070,13 +6070,13 @@ translate chinese afterpsb_60cab83d:
 translate chinese afterpsb_bec1a225:
 
     # pe "I used to go bowling all the time with my dad, so you better watch out."
-    pe "我以前经常和我爸爸去打保龄球，所以你最好小心点。"
+    pe "我以前经常和我爸爸去打保龄球，所以你最好小心点儿。"
 
 # game/v6/v6.rpy:6186
 translate chinese afterpsb_1dd0f80b:
 
     # pe "What do you want your name to be?"
-    pe "你想叫什么名字？"
+    pe "你想叫它什么名字？"
 
 # game/v6/v6.rpy:6196
 translate chinese afterpsb_5209a8a9:
@@ -6166,7 +6166,7 @@ translate chinese afterpsb_acbdb18d:
 translate chinese afterpsb_845b4a3a:
 
     # u "*Laughs* Oh god, I thought you used to go bowling all the time?"
-    u "*笑* 天啊，我以为你以前天天去打保龄球？"
+    u "*笑* 天呐，我以为你以前天天去打保龄球？"
 
 # game/v6/v6.rpy:6279
 translate chinese afterpsb_80ed2b77:
@@ -6286,7 +6286,7 @@ translate chinese afterpsb_8abcc8a8:
 translate chinese afterpsb_8b831e6a:
 
     # u "Holy shit."
-    u "我靠。"
+    u "天呐。"
 
 # game/v6/v6.rpy:6421
 translate chinese afterpsb_a1000fee:
@@ -6316,7 +6316,7 @@ translate chinese afterpsb_b174a144:
 translate chinese afterpsb_1b28a406:
 
     # u "Of course."
-    u "当然了。"
+    u "当然。"
 
 # game/v6/v6.rpy:6453
 translate chinese afterpsb_50157d8c:
@@ -6424,7 +6424,7 @@ translate chinese afterpsb_467c3f1f:
 translate chinese afterpsb_21460949:
 
     # u "Oh god, Penelope... I had no idea..."
-    u "天啊，佩内洛普……我不知道……"
+    u "天呐，佩内洛普……我不知道……"
 
 # game/v6/v6.rpy:6515
 translate chinese afterpsb_fe088f5c:
@@ -6478,7 +6478,7 @@ translate chinese afterpsb_235011c5:
 translate chinese afterpsb_833aff83:
 
     # u "I gotta go now and get ready for the Wolves' party, but I'll see you soon, okay?"
-    u "我得走了，为狼队的迎新会做准备，但我们很快就会见面的，好吗？"
+    u "我得走了，为狼人的迎新会做准备，但我们很快就会见面的，好吗？"
 
 # game/v6/v6.rpy:6593
 translate chinese afterpsb_e5212d71:
@@ -6538,13 +6538,13 @@ translate chinese readywolf_3de68741_1:
 translate chinese readywolf_e3ac30cf:
 
     # u "Sorry, Grayson. But I don't wanna be an Ape."
-    u "对不起，格雷森。但我不想当猿猴。"
+    u "对不起，格雷森。但我不想当猿人。"
 
 # game/v6/v6.rpy:6660
 translate chinese readywolf_d97e760b:
 
     # gr "What? What do you mean you don't wanna be an Ape?!"
-    gr "什么？你不想当猿猴是什么意思？！"
+    gr "什么？你不想当猿人是什么意思？！"
 
 # game/v6/v6.rpy:6669
 translate chinese readywolf_c0856720:
@@ -6646,19 +6646,19 @@ translate chinese readywolf_3de68741_3:
 translate chinese readywolf_e3ac30cf_1:
 
     # u "Sorry, Grayson. But I don't wanna be an Ape."
-    u "对不起，格雷森。但我不想当猿猴。"
+    u "对不起，格雷森。但我不想当猿人。"
 
 # game/v6/v6.rpy:6767
 translate chinese readywolf_d97e760b_1:
 
     # gr "What? What do you mean you don't wanna be an Ape?!"
-    gr "什么？你不想当猿猴是什么意思？！"
+    gr "什么？你不想当猿人是什么意思？！"
 
 # game/v6/v6.rpy:6774
 translate chinese readywolf_be910af9:
 
     # gr "So forget the Wolves, join the Apes."
-    gr "所以忘掉狼队，加入猿人吧。"
+    gr "所以忘掉狼人，加入猿人吧。"
 
 # game/v6/v6.rpy:6779
 translate chinese readywolf_437f98b7:
@@ -6688,7 +6688,7 @@ translate chinese readywolf_c0856720_1:
 translate chinese readywolf_b87ad8e1:
 
     # u "Imre, do you know the President of the Apes?"
-    u "伊姆雷，你认识猿人的主席吗？"
+    u "伊姆雷，你认识猿人的会长吗？"
 
 # game/v6/v6.rpy:6804
 translate chinese readywolf_0dca3c06:
@@ -6748,7 +6748,7 @@ translate chinese readywolf_da2f45a1:
 translate chinese readywolf_a9c07d26:
 
     # imre "Apes don't have any of that shit."
-    imre "猿派没有这种东西。"
+    imre "猿人没有这种东西。"
 
 # game/v6/v6.rpy:6842
 translate chinese readywolf_8b940739:
@@ -6808,7 +6808,7 @@ translate chinese readywolf_be7eeb17:
 translate chinese readywolf_899a27f4:
 
     # aa "Dude, I got you. You even get to choose."
-    aa "伙计，我抓住你了。你甚至可以选择。"
+    aa "伙计，我懂你意思了。你还可以选择。"
 
 # game/v6/v6.rpy:6889
 translate chinese readywolf_155bed87:
@@ -6820,7 +6820,7 @@ translate chinese readywolf_155bed87:
 translate chinese readywolf_2befab5d:
 
     # aa "Oh sorry, didn't introduce myself. I'm Aaron. Vice President of the Wolves. Nice to meet you."
-    aa "哦，对不起，没有自我介绍。我叫亚伦。狼队副主席。很高兴见到你。"
+    aa "噢，对不起，没有自我介绍。我叫亚伦。狼认副会长。很高兴见到你。"
 
 # game/v6/v6.rpy:6899
 translate chinese readywolf_7e475da4:
@@ -6850,7 +6850,7 @@ translate chinese readywolf_4130b404:
 translate chinese readywolf_75189fd4:
 
     # u "Oh, so you like volleyball, Aaron?"
-    u "哦，那么你喜欢排球，亚伦？"
+    u "噢，那么你喜欢排球，亚伦？"
 
 # game/v6/v6.rpy:6918
 translate chinese readywolf_7b3af07f:
@@ -6874,7 +6874,7 @@ translate chinese readywolf_23cc0550:
 translate chinese readywolf_ad097bc6:
 
     # imre "Hell yeah."
-    imre "见鬼是的。"
+    imre "噢耶。"
 
 # game/v6/v6.rpy:6938
 translate chinese readywolf_61c7442f:
@@ -6928,7 +6928,7 @@ translate chinese v6_fr3josh1_b3bed3d5:
 translate chinese v6_fr3josh1_0e747376:
 
     # u "Damn, you guys are pretty high huh?"
-    u "天啊，你们可真尽兴啊，嗯？"
+    u "天呐，你们可真尽兴啊，嗯？"
 
 # game/v6/v6.rpy:7003
 translate chinese v6_fr3josh1_d81bb48d:
@@ -7054,7 +7054,7 @@ translate chinese v6_fr3josh1_618cacc1:
 translate chinese v6_fr3josh1_9c86526c:
 
     # jo "Aww, don't get offended, bro. You know she means well."
-    jo "哦，别生气，兄弟。你知道她是好意的。"
+    jo "噢，别生气，兄弟。你知道她是好意的。"
 
 # game/v6/v6.rpy:7123
 translate chinese v6_fr3josh1_7908b75d:
@@ -7102,7 +7102,7 @@ translate chinese v6_fr3guy1_04aa3d88:
 translate chinese v6_fr3guy1_aef53e37:
 
     # guyb "How could you say that? Kylie is definitely the hottest of them all."
-    guyb "你怎么能这么说？凯莉绝对是他们中最火辣的。"
+    guyb "你怎么能这么说？凯莉绝对是他们中最性感的。"
 
 # game/v6/v6.rpy:7171
 translate chinese v6_fr3guy1_6e071574:
@@ -7228,7 +7228,7 @@ translate chinese v6_fr3guy1_ce7bbd1d:
 translate chinese v6_fr3guy1_94e1be19:
 
     # guyb "Hell nah."
-    guyb "欧，不。"
+    guyb "噢，不。"
 
 # game/v6/v6.rpy:7277
 translate chinese v6_fr3guy1_480e82c4:
@@ -7330,7 +7330,7 @@ translate chinese v6_fr3aubrey1_611ab529:
 translate chinese v6_fr3aubrey1_df10c864:
 
     # au "Oh, okay."
-    au "哦，好吧。"
+    au "噢，好吧。"
 
 # game/v6/v6.rpy:7376
 translate chinese v6_fr3aubrey1_4bc97342:
@@ -7360,7 +7360,7 @@ translate chinese v6_fr3aubrey1_9d29d92c_1:
 translate chinese v6_fr3aubrey1_5b240244:
 
     # au "Oh hey."
-    au "哦嘿。"
+    au "噢嘿。"
 
 # game/v6/v6.rpy:7399
 translate chinese v6_fr3aubrey1_e961481b:
@@ -7450,7 +7450,7 @@ translate chinese v6_fr3aubrey1_2344e08d:
 translate chinese v6_fr3aubrey1_6c0e06bd:
 
     # u "Oh, hey Aubrey."
-    u "哦，嘿，奥布里。"
+    u "噢，嘿，奥布里。"
 
 # game/v6/v6.rpy:7472
 translate chinese v6_fr3aubrey1_a2d231ef:
@@ -7474,7 +7474,7 @@ translate chinese v6_fr3aubrey1_22493b30:
 translate chinese v6_fr3aubrey1_19058afb:
 
     # u "*Chuckles* Oh no, not that story."
-    u "*咯咯笑* 哦不，别说那个故事。"
+    u "*咯咯笑* 噢不，别说那个故事。"
 
 # game/v6/v6.rpy:7492
 translate chinese v6_fr3aubrey1_07d0d820:
@@ -7528,7 +7528,7 @@ translate chinese v6_fr3aubrey1_a5904ca3:
 translate chinese v6_fr3aubrey1_7d97da4f:
 
     # au "Oh god, think I'm gonna puke."
-    au "天啊，我想我要吐了。"
+    au "天呐，我想我要吐了。"
 
 # game/v6/v6.rpy:7538
 translate chinese v6_fr3aubrey1_5f3ef176:
@@ -7618,7 +7618,7 @@ translate chinese v6_fr3aubrey1_9d29d92c_3:
 translate chinese v6_fr3aubrey1_5b240244_1:
 
     # au "Oh hey."
-    au "哦嘿。"
+    au "噢嘿。"
 
 # game/v6/v6.rpy:7614
 translate chinese v6_fr3aubrey1_e90e3e31:
@@ -7648,7 +7648,7 @@ translate chinese v6_fr3aubrey1_a3138af2:
 translate chinese v6_fr3aubrey1_d98c3dc2:
 
     # u "Oh god. Which ones?"
-    u "哦，天啊。哪些？"
+    u "噢，天呐。哪些？"
 
 # game/v6/v6.rpy:7639
 translate chinese v6_fr3aubrey1_642604b6:
@@ -7660,7 +7660,7 @@ translate chinese v6_fr3aubrey1_642604b6:
 translate chinese v6_fr3aubrey1_2c5932e4:
 
     # u "*Chuckles* Oh no."
-    u "*咯笑* 哦不。"
+    u "*咯笑* 噢不。"
 
 # game/v6/v6.rpy:7649
 translate chinese v6_fr3aubrey1_22df2404:
@@ -7720,7 +7720,7 @@ translate chinese v6_fr3aubrey1_c053df64:
 translate chinese v6_fr3aubrey1_4dc016c6:
 
     # em "So you here to check out the Wolves?"
-    em "你是来参加狼队的？"
+    em "你是来参加狼人的？"
 
 # game/v6/v6.rpy:7704
 translate chinese v6_fr3aubrey1_744a6b9b:
@@ -7774,7 +7774,7 @@ translate chinese v6_fr3aubrey1_2d38d605:
 translate chinese v6_fr3aubrey1_a646aadd:
 
     # au "Sooo, you here to check out the Wolves or the ladies tonight?"
-    au "你今晚是来参观狼队的还是来泡妞的？"
+    au "你今晚是来参观狼人的还是来泡妞的？"
 
 # game/v6/v6.rpy:7748
 translate chinese v6_fr3aubrey1_735eba10:
@@ -7786,7 +7786,7 @@ translate chinese v6_fr3aubrey1_735eba10:
 translate chinese v6_fr3aubrey1_f1c99fac:
 
     # em "Wow."
-    em "哇哦。"
+    em "哇噢。"
 
 # game/v6/v6.rpy:7758
 translate chinese v6_fr3aubrey1_3d5a1afc:
@@ -7990,7 +7990,7 @@ translate chinese v6_fr3chris1_a999289a:
 translate chinese v6_fr3chris1_a1be1d42:
 
     # ch "The one key difference is loyalty. The Apes will do anything to win, even if that means stepping on each other."
-    ch "一个关键的区别是忠诚。猿派会做任何事情来赢，即使那意味着互相踩在一起。"
+    ch "一个关键的区别是忠诚。猿人会做任何事情来赢，即使那意味着互相踩在一起。"
 
 # game/v6/v6.rpy:7943
 translate chinese v6_fr3chris1_e3386e41:
@@ -8080,7 +8080,7 @@ translate chinese v6_fr3chris1_0fde419e:
 translate chinese v6_fr3chris1_085137e6:
 
     # ch "My point is, that every single of these guys has a much better life since joining the Wolves."
-    ch "我的观点是，自从加入狼队以来，这些人的生活都变得更好了。"
+    ch "我的观点是，自从加入狼人以来，这些人的生活都变得更好了。"
 
 # game/v6/v6.rpy:8010
 translate chinese v6_fr3chris1_5fbe7379:
@@ -8146,7 +8146,7 @@ translate chinese v6_fr3chris1_fd6d164f:
 translate chinese v6_fr3chris1_a5d51e96:
 
     # u "Hey, I'm [name]. You're Chris, right? The Wolves' President?"
-    u "嘿，我是 [name]。 你是克里斯，对吧？狼队的主席？"
+    u "嘿，我是 [name]。 你是克里斯，对吧？狼人的主席？"
 
 # game/v6/v6.rpy:8060
 translate chinese v6_fr3chris1_35ed20ec:
@@ -8188,7 +8188,7 @@ translate chinese v6_fr3chris1_a999289a_1:
 translate chinese v6_fr3chris1_a1be1d42_1:
 
     # ch "The one key difference is loyalty. The Apes will do anything to win, even if that means stepping on each other."
-    ch "一个关键的区别是忠诚。猿派会做任何事情来赢，即使那意味着互相踩在一起。"
+    ch "一个关键的区别是忠诚。猿人会做任何事情来赢，即使那意味着互相踩在一起。"
 
 # game/v6/v6.rpy:8091
 translate chinese v6_fr3chris1_e3386e41_1:
@@ -8200,7 +8200,7 @@ translate chinese v6_fr3chris1_e3386e41_1:
 translate chinese v6_fr3chris1_ce333bdd_1:
 
     # ch "In the Wolves, loyalty and the brotherhood always comes first."
-    ch "在狼队里，忠诚和兄弟情谊永远是第一位的。"
+    ch "在狼人里，忠诚和兄弟情谊永远是第一位的。"
 
 # game/v6/v6.rpy:8095
 translate chinese v6_fr3chris1_909240b4_1:
@@ -8278,7 +8278,7 @@ translate chinese v6_fr3chris1_0fde419e_1:
 translate chinese v6_fr3chris1_085137e6_1:
 
     # ch "My point is, that every single of these guys has a much better life since joining the Wolves."
-    ch "我的观点是，自从加入狼队以来，这些人的生活都变得更好了。"
+    ch "我的观点是，自从加入狼人以来，这些人的生活都变得更好了。"
 
 # game/v6/v6.rpy:8158
 translate chinese v6_fr3chris1_5fbe7379_1:
@@ -8320,7 +8320,7 @@ translate chinese v6_fr3riley1_9ea1e8f9:
 translate chinese v6_fr3riley1_55aa0121:
 
     # ri "Oh, hey [name]. How's your night?"
-    ri "哦，嘿，[name]。今晚过得怎么样？"
+    ri "噢，嘿，[name]。今晚过得怎么样？"
 
 # game/v6/v6.rpy:8211
 translate chinese v6_fr3riley1_9a8bf7c0:
@@ -8464,7 +8464,7 @@ translate chinese v6_fr3riley1_397090eb:
 translate chinese v6_fr3riley1_b86f0823:
 
     # ri "Oh, so you're saying you don't have ulterior motives?"
-    ri "哦，那你是说你对我没有非分之想咯？"
+    ri "噢，那你是说你对我没有非分之想咯？"
 
 # game/v6/v6.rpy:8335
 translate chinese v6_fr3riley1_e7a6c733:
@@ -8506,7 +8506,7 @@ translate chinese v6_fr3riley1_d640e624:
 translate chinese v6_fr3riley1_57363ffc:
 
     # finn "Oh.. uh.. yeah. Are you looking to join?"
-    finn "哦……呃……是啊。你想加入吗？"
+    finn "噢……呃……是啊。你想加入吗？"
 
 # game/v6/v6.rpy:8371
 translate chinese v6_fr3riley1_fa86fd00:
@@ -8530,7 +8530,7 @@ translate chinese v6_fr3riley1_f86c1421:
 translate chinese v6_fr3riley1_c7426136:
 
     # finn "Imre... Oh, he's Bence's younger brother, right?"
-    finn "伊姆雷……哦，他是本斯的弟弟，对吧？"
+    finn "伊姆雷……噢，他是本斯的弟弟，对吧？"
 
 # game/v6/v6.rpy:8391
 translate chinese v6_fr3riley1_181dce3f:
@@ -8560,7 +8560,7 @@ translate chinese v6_fr3riley1_86c1970e:
 translate chinese v6_fr3riley1_7f432293:
 
     # u "Wow... Imre's got big shoes to fill."
-    u "哇哦……伊姆雷有很大的事情要做。"
+    u "哇噢……伊姆雷有很大的事情要做。"
 
 # game/v6/v6.rpy:8410
 translate chinese v6_fr3riley1_ea3b5357:
@@ -8602,7 +8602,7 @@ translate chinese v6_fr3sebastian1_d4aa7087:
 translate chinese v6_fr3sebastian1_73783bde:
 
     # guyd "Ohhh... yeah, I always just wanna step forwards."
-    guyd "哦……是啊，我总是想向前一步。"
+    guyd "噢……是啊，我总是想向前一步。"
 
 # game/v6/v6.rpy:8456
 translate chinese v6_fr3sebastian1_14b6a017:
@@ -8728,7 +8728,7 @@ translate chinese v6_fr3amber1_57ac7bfa:
 translate chinese v6_fr3amber1_fb7f3a0c:
 
     # am "Oh damn, so you're kinda infiltrating the enemy right now, huh?"
-    am "哦该死，所以你现在有点渗透到敌人内部的感觉了，嗯？"
+    am "噢该死，所以你现在有点渗透到敌人内部的感觉了，嗯？"
 
 # game/v6/v6.rpy:8566
 translate chinese v6_fr3amber1_19ea7a6d:
@@ -8752,7 +8752,7 @@ translate chinese v6_fr3amber1_1d5c6be4:
 translate chinese v6_fr3amber1_a325f477:
 
     # u "Wow. You're such a tease."
-    u "哇哦。你真是个有趣的人。"
+    u "哇噢。你真是个有趣的人。"
 
 # game/v6/v6.rpy:8588
 translate chinese v6_fr3amber1_aa1dfbeb:
@@ -8950,7 +8950,7 @@ translate chinese v6_fr3nora1_84737230:
 translate chinese v6_fr3nora1_59793b77:
 
     # no "But it's hard, because he's Wolves' President. And he's so dedicated and he cares so much and I love that about him."
-    no "但这很难，因为他是狼队的主席。他是如此的专注，他如此的关心，我喜欢他这一点。"
+    no "但这很难，因为他是狼人的主席。他是如此的专注，他如此的关心，我喜欢他这一点。"
 
 # game/v6/v6.rpy:8780
 translate chinese v6_fr3nora1_4db25660:
@@ -9466,7 +9466,7 @@ translate chinese v6_fr3chloe1_2eeb406d:
 translate chinese v6_fr3chloe1_c00522a3:
 
     # cl "*Crying* Oh god, I'm trying so hard to make everyone happy and people just keep attacking me."
-    cl "*哭泣* 哦，天啊，我很努力地想让每个人都开心，但人们总是攻击我。"
+    cl "*哭泣* 噢，天呐，我很努力地想让每个人都开心，但人们总是攻击我。"
 
 # game/v6/v6.rpy:9169
 translate chinese v6_fr3chloe1_fe882eaf:
@@ -9664,7 +9664,7 @@ translate chinese v6_fr3office_8c466545:
 translate chinese v6_fr3office_1e1c7e30:
 
     # u "(It's filled with all of these historic Wolves' relics.)"
-    u "(里面装满了所有这些历史悠久的狼的遗迹。)"
+    u "(里面装满了所有这些历史悠久的狼人的遗迹。)"
 
 # game/v6/v6.rpy:9358
 translate chinese v6_fr3picture_a5372e00:
@@ -9700,7 +9700,7 @@ translate chinese v6_fr3trophies_76ecc2ce:
 translate chinese v6_fr3certificate_7a2154b6:
 
     # u "Wow. This frat has been around for decades."
-    u "哇哦。这个兄弟会已经存在了几十年。"
+    u "哇噢。这个兄弟会已经存在了几十年。"
 
 # game/v6/v6.rpy:9406
 translate chinese v6_fr3books_f68ff262:
@@ -9748,13 +9748,13 @@ translate chinese v6_fr3aubrey3_812822d5:
 translate chinese v6_fr3aubrey3_e830b17a:
 
     # au "Oh, hey you. Sure, what's up?"
-    au "哦，嘿你。当然，怎么了？"
+    au "噢，嘿你。当然，怎么了？"
 
 # game/v6/v6.rpy:9455
 translate chinese v6_fr3aubrey3_6032c1b1:
 
     # u "You wanna go upstairs and check out the Wolves' office?"
-    u "你想上楼去看看狼队的办公室吗？"
+    u "你想上楼去看看狼人的办公室吗？"
 
 # game/v6/v6.rpy:9463
 translate chinese v6_fr3aubrey3_1363d725:
@@ -9796,7 +9796,7 @@ translate chinese v6_fr3aubrey3_2760ff5a:
 translate chinese v6_fr3aubrey3_77ce68c5:
 
     # u "Oh okay."
-    u "哦好吧。"
+    u "噢好吧。"
 
 # game/v6/v6.rpy:9504
 translate chinese v6_fr3aubrey3_1363d725_2:
@@ -9868,7 +9868,7 @@ translate chinese v6_fr3amber3_8686e81c:
 translate chinese v6_fr3amber3_61497916:
 
     # am "Yes?"
-    am "什么事？"
+    am "什么事儿？"
 
 # game/v6/v6.rpy:9571
 translate chinese v6_fr3amber3_1be8e72b:
@@ -9880,7 +9880,7 @@ translate chinese v6_fr3amber3_1be8e72b:
 translate chinese v6_fr3amber3_f77184da:
 
     # am "Not in the slightest. Why?"
-    am "一点也不。为什么？"
+    am "一点儿也不。为什么？"
 
 # game/v6/v6.rpy:9581
 translate chinese v6_fr3amber3_ef270c4f:
@@ -10006,13 +10006,13 @@ translate chinese v6_fr3josh3_f422715f:
 translate chinese v6_fr3riley3_1f630802:
 
     # u "Heyyy."
-    u "嗨。"
+    u "嘿。"
 
 # game/v6/v6.rpy:9702
 translate chinese v6_fr3riley3_4a41968c:
 
     # ri "Oh hiii!"
-    ri "哦嗨！"
+    ri "噢，嗨！"
 
 # game/v6/v6.rpy:9707
 translate chinese v6_fr3riley3_ee5858b0:
@@ -10072,7 +10072,7 @@ translate chinese upstairsaubrey_fb8a626d:
 translate chinese upstairsaubrey_1a79f5ff:
 
     # u "Yeah, why not? You ask a lot of questions, you know? *Chuckles*"
-    u "对啊,为什么不呢？你问了很多问题，你知道吗？ *咯咯笑*"
+    u "对啊，为什么不呢？你问了很多问题，你知道吗？ *咯咯笑*"
 
 # game/v6/v6.rpy:9763
 translate chinese upstairsaubrey_77b94324:
@@ -10138,7 +10138,7 @@ translate chinese upstairsaubrey_c747a5a5:
 translate chinese upstairsaubrey_77d8ada7:
 
     # u "Oh I didn't even know you run that way too."
-    u "哦，我都不知道你也好这口。"
+    u "噢，我都不知道你也好这口。"
 
 # game/v6/v6.rpy:9815
 translate chinese upstairsaubrey_ece30944:
@@ -10384,7 +10384,7 @@ translate chinese upstairsaubrey_7ec38816:
 translate chinese upstairsaubrey_deb777c1:
 
     # au "When I removed the blindfold, my best friend, was right in front of him, completely naked. And she was fucking hot."
-    au ""当我摘下他眼罩时，我最好的朋友就在他面前，全身赤裸。可他妈的性感了。"
+    au "当我摘下他眼罩时，我最好的朋友就在他面前，全身赤裸。可他妈的性感了。"
 
 # game/v6/v6.rpy:10007
 translate chinese upstairsaubrey_2afab2e8:
@@ -10540,7 +10540,7 @@ translate chinese upstairsaubrey_5add534b:
 translate chinese upstairsaubrey_f78452e2:
 
     # u "Oh, already?"
-    u "哦，已经？"
+    u "噢，已经？"
 
 # game/v6/v6.rpy:10149
 translate chinese upstairsaubrey_5b808863:
@@ -10846,7 +10846,7 @@ translate chinese upstairsamber_3b8dfe30:
 translate chinese upstairsamber_bb91a7df:
 
     # am "Oh no, really? Okay I'll come down."
-    am "哦不，真的吗？好吧，我下来。"
+    am "噢不，真的吗？好吧，我下来。"
 
 # game/v6/v6.rpy:10395
 translate chinese upstairsamber_b33920a3:
@@ -10858,7 +10858,7 @@ translate chinese upstairsamber_b33920a3:
 translate chinese upstairsamber_8cdd3120:
 
     # u "Oh shit. Uhm... I'll see you later then."
-    u "哦，真糟糕。嗯……那我们晚点见。"
+    u "噢，真糟糕。嗯……那我们晚点见。"
 
 # game/v6/v6.rpy:10405
 translate chinese upstairsamber_c4cc8676:
@@ -10906,7 +10906,7 @@ translate chinese upstairsriley_11e00b49:
 translate chinese upstairsriley_16468adc:
 
     # ri "*Laughs* So have you decided if you're going to join the Wolves or not?"
-    ri "*笑* 那么你决定要加入狼队了吗？"
+    ri "*笑* 那么你决定要加入狼人了吗？"
 
 # game/v6/v6.rpy:10451
 translate chinese upstairsriley_96a94254:
@@ -11098,7 +11098,7 @@ translate chinese upstairsriley_cc07ac18:
 translate chinese upstairsriley_5c51ccf7:
 
     # u "*Laughs* Oh god. I should probably talk to Chris soon anyway."
-    u "*笑* 哦，上帝。不管怎样，我可能很快就该和克里斯谈谈了。"
+    u "*笑* 噢，上帝。不管怎样，我可能很快就该和克里斯谈谈了。"
 
 # game/v6/v6.rpy:10597
 translate chinese upstairsriley_7cda5cd3:
@@ -11140,27 +11140,27 @@ translate chinese strings:
 
     # game/v6/v6.rpy:4
     old "I'm playing drink or dare and got dared to send an underwear pic to a guy."
-    new "我在玩"喝酒大冒险"有人敢给一个男人发内衣照。"
+    new "我在玩喝酒大冒险，有人敢给一个男人发内衣照。"
 
     # game/v6/v6.rpy:5
     old "And you chose me, huh?"
-    new "你选择了我，嗯？"
+    new "然后你选择了我，嗯？"
 
     # game/v6/v6.rpy:6
     old "Feel free to do so anytime :)"
-    new "随时都可以这样做:)"
+    new "随时都可以这样做：)"
 
     # game/v6/v6.rpy:10
     old "Maybe I picked someone at random ;)"
-    new "也许我随便挑了个人;)"
+    new "也许我随便挑了个人；)"
 
     # game/v6/v6.rpy:14
     old "Maybe if you're lucky xx"
-    new "也许只是你运气好xx"
+    new "也许只是你运气好 嘻嘻"
 
     # game/v6/v6.rpy:18
     old "I'm glad you like it xx"
-    new "我很高兴你喜欢它xx"
+    new "我很高兴你喜欢它 嘻嘻"
 
     # game/v6/v6.rpy:19
     old "I hope there's more of that in the future :P"
@@ -11176,7 +11176,7 @@ translate chinese strings:
 
     # game/v6/v6.rpy:36
     old "Oh, okay"
-    new "哦，好的"
+    new "噢，好的"
 
     # game/v6/v6.rpy:39
     old "Yeah maybe we should xx"
@@ -11184,7 +11184,7 @@ translate chinese strings:
 
     # game/v6/v6.rpy:46
     old "I'm alone now, if the surprise is still on ;)"
-    new "我现在孤身一人，如果惊喜还在 ;)"
+    new "我现在孤身一人，如果惊喜还在；)"
 
     # game/v6/v6.rpy:47
     old "I'll make it up to you tho"
@@ -11212,43 +11212,43 @@ translate chinese strings:
 
     # game/v6/v6.rpy:350
     old "Woah, what was that for?"
-    new "哇，这是什么意思？"
+    new "哇，什么意思？"
 
     # game/v6/v6.rpy:351
     old "Oh wow, you're so fucking hot"
-    new "哦哇，你真他妈的性感"
+    new "噢，哇，你真他妈的性感"
 
     # game/v6/v6.rpy:371
     old "I'll make time for you :)"
-    new "我会为你腾出时间 :)"
+    new "我会为你腾出时间：)"
 
     # game/v6/v6.rpy:372
     old "That's what I like to hear :*"
-    new "这就是我喜欢听到的 :*"
+    new "这就是我喜欢听到的：*"
 
     # game/v6/v6.rpy:373
     old "Meet me at the school's swimming pool"
-    new "在学校的游泳池等我"
+    new "在学校的游泳馆见"
 
     # game/v6/v6.rpy:374
     old "Cool, see you there"
-    new "酷，那里见"
+    new "酷，不见不散"
 
     # game/v6/v6.rpy:543
     old "Just let it ring"
-    new "就让它响"
+    new "就让它响吧"
 
     # game/v6/v6.rpy:543
     old "You should get that"
-    new "你应该接电话"
+    new "你应该去接电话"
 
     # game/v6/v6.rpy:632
     old "Ask about the call"
-    new "询问电话情况"
+    new "问电话情况"
 
     # game/v6/v6.rpy:700
     old "Follow her"
-    new "跟着她""
+    new "跟着她"
 
     # game/v6/v6.rpy:700
     old "Trust her"
@@ -11268,11 +11268,11 @@ translate chinese strings:
 
     # game/v6/v6.rpy:998
     old "I guess we'll do it another time..."
-    new "我想我们下次再做……"
+    new "我想我们下次再来一次……"
 
     # game/v6/v6.rpy:999
     old "Sorry, something really important came up. Definitely another time"
-    new "对不起，有很重要的事情发生了。绝对是下次"
+    new "抱歉，有很重要的事情发生了。下次吧。"
 
     # game/v6/v6.rpy:1008
     old "Yeah, I'm in my dorm, why?"
@@ -11280,19 +11280,19 @@ translate chinese strings:
 
     # game/v6/v6.rpy:1323
     old "Call after her"
-    new "你想要什么？"
+    new "打电话给她"
 
     # game/v6/v6.rpy:1592
     old "What do you want?"
-    new "我想我们是"
+    new "你想说什么？"
 
     # game/v6/v6.rpy:1592
     old "I guess we are"
-    new "不要打扰"
+    new "我想是的"
 
     # game/v6/v6.rpy:1666
     old "Don't disturb"
-    new "不要打扰"
+    new "别打扰"
 
     # game/v6/v6.rpy:1820
     old "Run after her"
@@ -11312,11 +11312,11 @@ translate chinese strings:
 
     # game/v6/v6.rpy:2191
     old "Accept call"
-    new "接受呼叫"
+    new "接电话"
 
     # game/v6/v6.rpy:2191
     old "Reject call"
-    new "拒绝呼叫"
+    new "挂断"
 
     # game/v6/v6.rpy:2239
     old "Fine, I'll come"
@@ -11344,7 +11344,7 @@ translate chinese strings:
 
     # game/v6/v6.rpy:3153
     old "Stunning"
-    new "令人叹为观止"
+    new "惊艳绝伦"
 
     # game/v6/v6.rpy:3319
     old "Say something smart"
@@ -11352,11 +11352,11 @@ translate chinese strings:
 
     # game/v6/v6.rpy:3428
     old "Ask about her job"
-    new "询问她的工作"
+    new "问她的工作"
 
     # game/v6/v6.rpy:3428
     old "Ask about her dreams"
-    new "询问她的梦想"
+    new "问她的梦想"
 
     # game/v6/v6.rpy:3659
     old "Hey, I know it's late... but wanna come over?"
@@ -11384,7 +11384,7 @@ translate chinese strings:
 
     # game/v6/v6.rpy:3914
     old "You got me"
-    new "你抓住我了"
+    new "你猜到了"
 
     # game/v6/v6.rpy:3914
     old "I'm not seducing you"
@@ -11396,7 +11396,7 @@ translate chinese strings:
 
     # game/v6/v6.rpy:4419
     old "Hahaha, we should definitely do this more ;)"
-    new "哈哈哈，我们绝对应该多做这件事 ;)"
+    new "哈哈哈，我们绝对应该多做这件事；)"
 
     # game/v6/v6.rpy:4422
     old "You missed out today"
@@ -11404,11 +11404,11 @@ translate chinese strings:
 
     # game/v6/v6.rpy:4423
     old "Daaaamn, I'll be there next time"
-    new "糟糕,下次我会去的"
+    new "该死，下次我会来的"
 
     # game/v6/v6.rpy:4440
     old "Meet Grayson"
-    new "见格雷森"
+    new "去见格雷森"
 
     # game/v6/v6.rpy:4440
     old "Stay home"
@@ -11416,7 +11416,7 @@ translate chinese strings:
 
     # game/v6/v6.rpy:4626
     old "Question"
-    new "问题"
+    new "质问"
 
     # game/v6/v6.rpy:4818
     old "I'm in"
@@ -11428,11 +11428,11 @@ translate chinese strings:
 
     # game/v6/v6.rpy:5399
     old "Heyy, what are you up to? xx"
-    new "嘿，你在忙什么？xx"
+    new "嘿，你在忙什么？嘻嘻"
 
     # game/v6/v6.rpy:5400
     old "Just walking back from the gym wbu?"
-    new "刚从WBU健身房走回来，你呢？"
+    new "刚从健身房回来，你呢？"
 
     # game/v6/v6.rpy:5401
     old "Going to my next lecture x_x"
@@ -11440,7 +11440,7 @@ translate chinese strings:
 
     # game/v6/v6.rpy:5402
     old "Which gym do you go to? Maybe we can go together at some point"
-    new "你去哪个健身房？也许我们可以在某个时候一起去"
+    new "你去哪个健身房？也许我们可以在某个时候一起去。"
 
     # game/v6/v6.rpy:5403
     old "Sports X and you?"
@@ -11448,11 +11448,11 @@ translate chinese strings:
 
     # game/v6/v6.rpy:5404
     old "Awww I'm SV Fitness :("
-    new "哇 我在 SV Fitness :("
+    new "哇 我在SV Fitness：("
 
     # game/v6/v6.rpy:5405
     old "Maybe we should do a home workout together sometime ;)"
-    new "也许我们应该找个时间一起做个家庭锻炼 ;)"
+    new "也许我们应该找个时间一起做个家庭锻炼；)"
 
     # game/v6/v6.rpy:5406
     old "Yeah, that's too bad :/"
@@ -11460,15 +11460,15 @@ translate chinese strings:
 
     # game/v6/v6.rpy:5409
     old "Hey, you wanna go bowling today? I'm free this afternoon"
-    new "嘿，你今天想去打保龄球吗？我今天下午有空"
+    new "嘿，你今天想去打保龄球吗？我今天下午有空。"
 
     # game/v6/v6.rpy:5410
     old "Yeah, sounds good :)"
-    new "是的，听起来不错 :)"
+    new "是的，听起来不错：)"
 
     # game/v6/v6.rpy:5411
     old "I have a lecture at 2:30 but I can go straight to the bowling alley afterwards"
-    new "我两点半有个讲座，但之后我可以直接去保龄球馆"
+    new "我两点半有个讲座，但之后我可以直接去保龄球馆。"
 
     # game/v6/v6.rpy:5412
     old "Meet there at 4?"
@@ -11484,7 +11484,7 @@ translate chinese strings:
 
     # game/v6/v6.rpy:5562
     old "Mock her"
-    new "嘲笑她"
+    new "取笑她"
 
     # game/v6/v6.rpy:5649
     old "Praise him"
@@ -11492,7 +11492,7 @@ translate chinese strings:
 
     # game/v6/v6.rpy:5649
     old "Mock him"
-    new "嘲笑他"
+    new "取笑他"
 
     # game/v6/v6.rpy:5828
     old "Okay, I'll do it"
@@ -11508,11 +11508,11 @@ translate chinese strings:
 
     # game/v6/v6.rpy:5860
     old "Make something up"
-    new "编造某事"
+    new "编点儿什么"
 
     # game/v6/v6.rpy:6191
     old "Choose your bowling name:"
-    new "决定你的保龄球名字:"
+    new "决定你的保龄球名字："
 
     # game/v6/v6.rpy:6542
     old "Say Goodbye"
@@ -11556,7 +11556,7 @@ translate chinese strings:
 
     # game/v6/v6.rpy:8579
     old "You're such a tease"
-    new "你真是个好笑的人"
+    new "你真是个有趣的人"
 
     # game/v6/v6.rpy:8579
     old "Not gonna happen"
