@@ -156,7 +156,7 @@ translate chinese strings:
 
     # game/main_menu/scene_gallery/scene_gallery.rpy:105
     old "Why not both?"
-    new "三人行"
+    new "何不三人行？"
 
     # game/main_menu/scene_gallery/scene_gallery.rpy:106
     old "Satin-ly pleased"
@@ -164,7 +164,7 @@ translate chinese strings:
 
     # game/main_menu/scene_gallery/scene_gallery.rpy:175
     old "What's your name?"
-    new "你叫什么名字"
+    new "你叫什么名字？"
 
     # game/main_menu/scene_gallery/scene_gallery.rpy:175
     old "Alex"

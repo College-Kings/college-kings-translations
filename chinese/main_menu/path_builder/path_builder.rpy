@@ -32,7 +32,7 @@ translate chinese strings:
 
     # game/main_menu/path_builder/path_builder.rpy:115
     old "NO"
-    new "否定"
+    new "取消"
 
     # game/main_menu/path_builder/path_builder.rpy:156
     old "Advanced"
@@ -52,7 +52,7 @@ translate chinese strings:
 
     # game/main_menu/path_builder/path_builder.rpy:336
     old "Extras"
-    new "额外"
+    new "额外选项"
 
     # game/main_menu/path_builder/path_builder.rpy:348
     old "Invite Emily to Europe"
