@@ -8,7 +8,7 @@ translate chinese strings:
 
     # game/fight/fight_screens.rpy:40
     old "VICTORIES: [competitor.wins]"
-    new "胜利: [competitor.wins]"
+    new "胜利：[competitor.wins]"
 
     # game/fight/fight_screens.rpy:57
     old "BASIC ATTACKS"
@@ -40,7 +40,7 @@ translate chinese strings:
 
     # game/fight/fight_screens.rpy:145
     old "Hard"
-    new "勉强"
+    new "困难"
 
     # game/fight/fight_screens.rpy:145
     old "Oscar"
@@ -52,7 +52,7 @@ translate chinese strings:
 
     # game/fight/fight_screens.rpy:265
     old "CURRENT STANCE"
-    new "当前立场"
+    new "当前姿势"
 
     # game/fight/fight_screens.rpy:276
     old "IDEAL STANCE"
@@ -60,7 +60,7 @@ translate chinese strings:
 
     # game/fight/fight_screens.rpy:287
     old "END STANCE"
-    new "最终站姿"
+    new "最终姿势"
 
     # game/fight/fight_screens.rpy:354
     old "[player.special_attack.stamina_cost]"
@@ -72,7 +72,7 @@ translate chinese strings:
 
     # game/fight/fight_screens.rpy:518
     old "Damage: [move.damage]"
-    new "Damage: [move.damage]"
+    new "伤害：[move.damage]"
 
     # game/fight/fight_screens.rpy:543
     old "USE"
