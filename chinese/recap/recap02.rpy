@@ -964,7 +964,7 @@ translate chinese strings:
 
     # game/recap/recap02.rpy:348
     old "Push for more"
-    new "用力追"
+    new "使劲儿追"
 
     # game/recap/recap02.rpy:348
     old "Don't push it"
@@ -992,7 +992,7 @@ translate chinese strings:
 
     # game/recap/recap02.rpy:668
     old "Have threesome"
-    new "3P"
+    new "来3P吧"
 
     # game/recap/recap02.rpy:668
     old "Don't have threesome"
