@@ -20,7 +20,7 @@ translate chinese strings:
 
     # game/old_fight/old_fight_screens.rpy:53
     old "Fighting"
-    new "Fighting"
+    new "格斗"
 
     # game/old_fight/old_fight_screens.rpy:61
     old "Fighting is big part of College Kings, however you can simulate all fights if you'd like to."
@@ -32,11 +32,11 @@ translate chinese strings:
 
     # game/old_fight/old_fight_screens.rpy:74
     old "Simulate: realistic"
-    new "模拟: 真实"
+    new "模拟：写实"
 
     # game/old_fight/old_fight_screens.rpy:80
     old "Simulate: auto-win"
-    new "模拟: 自动-胜利"
+    new "模拟：自动-胜利"
 
     # game/old_fight/old_fight_screens.rpy:95
     old "Difficulty"
@@ -48,11 +48,11 @@ translate chinese strings:
 
     # game/old_fight/old_fight_screens.rpy:118
     old "Moderate"
-    new "适度的"
+    new "普通"
 
     # game/old_fight/old_fight_screens.rpy:134
     old "\n[q!u] = Jab / Block Head\n[w!u] = Hook / Block Face\n[e!u] = Kick / Block Leg"
-    new "\n[q!u] = 右勾拳/右挡头\n[w!u] =直拳/挡脸\n[e!u] =踢/挡腿"
+    new "\n[q!u] = 左勾拳/挡左脸\n[w!u] =右勾拳/挡右脸\n[e!u] =击肋拳/挡腰"
 
     # game/old_fight/old_fight_screens.rpy:136
     old "Keybinding"
@@ -60,11 +60,11 @@ translate chinese strings:
 
     # game/old_fight/old_fight_screens.rpy:145
     old "\n[r!u] = Body Hook / Low Guard"
-    new "\n[r!u] = 身体攻击 / 底部防守"
+    new "\n[r!u] = 踢 / 挡腿"
 
     # game/old_fight/old_fight_screens.rpy:148
     old "The current keybindings are: [keybindText]"
-    new "当前的键绑定是: [keybindText]"
+    new "当前的键绑定是：[keybindText]"
 
     # game/old_fight/old_fight_screens.rpy:159
     old "Change Keys"
