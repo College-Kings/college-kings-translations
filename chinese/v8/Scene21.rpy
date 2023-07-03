@@ -226,7 +226,7 @@ translate chinese walk_to_dean_860b8fcb:
 translate chinese walk_to_dean_8482e119:
 
     # de "Good day, [name]."
-    de "祝你好运, [name]。"
+    de "祝你好运，[name]。"
 
 # game/v8/Scene21.rpy:221
 translate chinese walk_to_dean_6fc6551d:

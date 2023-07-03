@@ -10,7 +10,7 @@ translate chinese after_prot_wolves_558e2d1d:
 translate chinese after_prot_wolves_21b02ff2:
 
     # u "I'm never gonna get this shit."
-    u "我永远不会理解这些狗屎。"
+    u "我永远不会理解这些混蛋。"
 
 # game/v8/scene9.rpy:29
 translate chinese after_prot_wolves_4f1997c1:

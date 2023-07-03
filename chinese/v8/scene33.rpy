@@ -22,7 +22,7 @@ translate chinese hallway_w_nora_1b2fe02e:
 translate chinese hallway_w_nora_b4ce6e96:
 
     # u "Sure, I'm not upset. I'd like to be friends."
-    u "当然，我没有心烦意乱。我想成为朋友。"
+    u "当然，我没有心烦意乱。我想我们能成为朋友。"
 
 # game/v8/scene33.rpy:38
 translate chinese hallway_w_nora_f2d482ed:
@@ -40,7 +40,7 @@ translate chinese hallway_w_nora_23881447:
 translate chinese hallway_w_nora_468081ee:
 
     # u "Sure! What's up?"
-    u "当然可以！什么事？"
+    u "当然！怎么了？"
 
 # game/v8/scene33.rpy:59
 translate chinese cont_nora_hall_1a58bd7b:
@@ -76,7 +76,7 @@ translate chinese nora_trip_nerv_5a9a62be:
 translate chinese nora_trip_nerv_d8a66ef9:
 
     # no "If you can afford to come here, you can afford the trip."
-    no "如果你能负担得起来这里，你就能负担得起旅行的费用。"
+    no "如果你能负担得起来这里读书，你就能负担得起旅行的费用。"
 
 # game/v8/scene33.rpy:99
 translate chinese nora_trip_nerv_cc3b6d3d:
@@ -88,7 +88,7 @@ translate chinese nora_trip_nerv_cc3b6d3d:
 translate chinese nora_trip_nerv_1080610e:
 
     # no "You're a scholarship kid?"
-    no "你是奖学金的孩子？"
+    no "你是拿奖学金的孩子？"
 
 # game/v8/scene33.rpy:109
 translate chinese nora_trip_nerv_40eca2b6:
@@ -100,25 +100,25 @@ translate chinese nora_trip_nerv_40eca2b6:
 translate chinese cont_nora_hall_2_9082a290:
 
     # no "It's a great opportunity since the school is covering up to half the price."
-    no "这是一个很好的机会，因为学校正在支付高达一半的价格。"
+    no "这是一个很好的机会，因为学校将支付超过一半儿的价格。"
 
 # game/v8/scene33.rpy:122
 translate chinese cont_nora_hall_2_6634e107:
 
     # u "Half? That helps a lot."
-    u "一半？那帮了大忙。"
+    u "一半儿？那帮了大忙。"
 
 # game/v8/scene33.rpy:127
 translate chinese cont_nora_hall_2_bb83a0d8:
 
     # no "...IF I can get at least ten signups."
-    no "……如果我能得到至少十个报名。"
+    no "……如果我能得到至少十个报名的话。"
 
 # game/v8/scene33.rpy:132
 translate chinese cont_nora_hall_2_1815fda6:
 
     # u "It's a big school. I'm sure you can find ten people who..."
-    u "学校很大。我相信你能找到十个人……"
+    u "学校很大。我相信你能找到十个人的……"
 
 # game/v8/scene33.rpy:137
 translate chinese cont_nora_hall_2_deb72837:
@@ -130,7 +130,7 @@ translate chinese cont_nora_hall_2_deb72837:
 translate chinese cont_nora_hall_2_52daddae:
 
     # u "(I've never seen Nora excited about anything.)"
-    u "(我从没见过诺拉对任何事情感到兴奋。)"
+    u "(我从没见过诺拉对任何事情感到如此兴奋。)"
 
 # game/v8/scene33.rpy:147
 translate chinese cont_nora_hall_2_bf7c6ad9:
@@ -142,13 +142,13 @@ translate chinese cont_nora_hall_2_bf7c6ad9:
 translate chinese nora_hall_eu_go_2ea7fbca:
 
     # u "Sure! Don't know when I'd get another opportunity like this!"
-    u "当然可以！不知道什么时候我还会有这样的机会！"
+    u "当然！不知道什么时候我还会有这样的机会！"
 
 # game/v8/scene33.rpy:166
 translate chinese nora_hall_eu_no_ae7207c6:
 
     # u "(Hmm, it's still a lot of money but I don't want to upset Nora.)"
-    u "(嗯，这仍然是一大笔钱，但我不想让诺拉不安。)"
+    u "(嗯，这仍然是一大笔钱，但我不想让诺拉难过。)"
 
 # game/v8/scene33.rpy:174
 translate chinese cont_nora_hall_3_82584925:
@@ -160,7 +160,7 @@ translate chinese cont_nora_hall_3_82584925:
 translate chinese cont_nora_hall_3_073f6b49:
 
     # no "If you know any friends who would be interested, tell them to come find me. Remember, I need ten people. Ten!"
-    no "如果你认识有兴趣的朋友，告诉他们来找我。记住，我需要十个人。十个！"
+    no "如果你认识有兴趣的朋友的话，就告诉他们来找我。记住，我需要十个人。十个！"
 
 # game/v8/scene33.rpy:184
 translate chinese cont_nora_hall_3_96cc088e:
@@ -190,19 +190,19 @@ translate chinese hallway_help_nora_b8d2174e:
 translate chinese hallway_help_nora_2899c68b:
 
     # no "Thanks for your help [name]!"
-    no "谢谢你的帮助[name]！"
+    no "谢谢你的帮助，[name]！"
 
 # game/v8/scene33.rpy:236
 translate chinese hallway_help_nora_01bbbc37:
 
     # u "No problem. I've got some stuff to do so I've got to go."
-    u "没问题。我有一些事情要做，所以我得走了。"
+    u "不客气。我还有一些事情要做，所以我得走了。"
 
 # game/v8/scene33.rpy:241
 translate chinese hallway_help_nora_d17bae82:
 
     # no "No problem, see you soon."
-    no "没问题，一会儿见。"
+    no "没问题，回头见。"
 
 # game/v8/scene33.rpy:246
 translate chinese hallway_help_nora_104440d0:
@@ -220,7 +220,7 @@ translate chinese hallway_no_help_nora_dbbac58c:
 translate chinese hallway_no_help_nora_4a0e35fa:
 
     # u "I would but I don't have much time."
-    u "我会的，但我时间不多了。"
+    u "我会的，但我没有多时间。"
 
 # game/v8/scene33.rpy:262
 translate chinese hallway_no_help_nora_84e7afd5:
@@ -238,7 +238,7 @@ translate chinese hallway_no_help_nora_ffe29076:
 translate chinese hallway_no_help_nora_1b340d9a:
 
     # u "I'll help. Promise. But I gotta go."
-    u "我来帮忙。保证。但我得走了。"
+    u "我会帮忙的。保证。但我得走了。"
 
 translate chinese strings:
 

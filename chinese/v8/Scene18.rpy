@@ -16,7 +16,7 @@ translate chinese sun_aft_apes_house_a6674391:
 translate chinese sun_aft_apes_house_7df98d3c:
 
     # u "(Uh oh, this isn't gonna be good.)"
-    u "(哦，这样子不好。)"
+    u "(噢，这样子不好。)"
 
 # game/v8/Scene18.rpy:33
 translate chinese sun_aft_apes_house_4624439c:
@@ -130,7 +130,7 @@ translate chinese sun_aft_apes_house_a048da7b:
 translate chinese sun_aft_apes_house_8473ca20:
 
     # sa "Oh shit!"
-    sa "哦，该死！"
+    sa "噢，该死！"
 
 # game/v8/Scene18.rpy:140
 translate chinese sun_aft_apes_house_b0cdcdbe:
@@ -142,13 +142,13 @@ translate chinese sun_aft_apes_house_b0cdcdbe:
 translate chinese sun_aft_apes_house_d09847bf:
 
     # gr "I don't give a shit, Cameron. This is the Apes house. Apes only. I'm sure you understood that the day you got in, or am I wrong?"
-    gr "我才不管呢，卡梅隆。这是猿猴之家。只有猿人能住。我相信你入学那天就明白了，我说错了吗?"
+    gr "我才不管呢，卡梅隆。这是猿舍。只有猿人能住。我相信你入学那天就明白了，我说错了吗？"
 
 # game/v8/Scene18.rpy:157
 translate chinese sun_aft_apes_house_d37352c3:
 
     # ca "No, you're not wrong, but where the fuck is she gonna go? Like [name] said, Apes stick together. She's not an Ape but she's my sister and last I checked, I AM an Ape!"
-    ca "不，你没有错，但特么的她能去哪？像[name]说的，兄弟齐心，其力断金。她不是猿猴，但她是我妹妹，我最后一次说一次，我是猿猴！"
+    ca "不，你没有错，但特么的她能去哪？像[name]说的，兄弟齐心，其力断金。她虽不是猿人，但她是我妹妹，我最后说一次，我是猿人！"
 
 # game/v8/Scene18.rpy:162
 translate chinese sun_aft_apes_house_9a6ce6e9:
@@ -172,7 +172,7 @@ translate chinese sun_aft_grayson_c206ff9e:
 translate chinese sun_aft_grayson_47df0732:
 
     # u "Actually, it does. I'm an Ape too and I live here and I don't want to have to hear you guys fight all the time."
-    u "事实上，确实如此。我也是一只猿猴，我住在这里，我不想听到你们一直吵架。"
+    u "事实上，确实如此。我也是一只猿人，我住在这里，我不想听到你们一直吵架。"
 
 # game/v8/Scene18.rpy:195
 translate chinese sun_aft_grayson_48a132f9:
@@ -190,7 +190,7 @@ translate chinese sun_aft_grayson_125b63ae:
 translate chinese sun_aft_grayson_6d700ad1:
 
     # gr "Fine. One or two weeks, but keep her out of my fucking way."
-    gr "好吧。一两个星期，但他妈的别让她挡我的路。"
+    gr "好吧。一两个星期，但他妈地别让她挡我的路。"
 
 # game/v8/Scene18.rpy:216
 translate chinese sun_aft_grayson_213d7018:
@@ -214,7 +214,7 @@ translate chinese sun_aft_grayson_3109efa2:
 translate chinese sun_aft_cameron_8c96ac5a:
 
     # u "Grayson, I see his point. His sister is important to him and she has nowhere else to go where she can be safe. Where's a safer place than a house with Apes?"
-    u "格雷森，我明白他的意思，他的妹妹对他很重要，但她无处可去，没有安全的地方。还有什么地方比有猿的房子更安全呢？"
+    u "格雷森，我明白他的意思，他的妹妹对他很重要，但她无处可去，没有安全的地方。还有什么地方比有猿舍更安全呢？"
 
 # game/v8/Scene18.rpy:241
 translate chinese sun_aft_cameron_4b5ce700:
@@ -250,7 +250,7 @@ translate chinese sun_aft_cameron_125b63ae:
 translate chinese sun_aft_cameron_6d700ad1:
 
     # gr "Fine. One or two weeks, but keep her out of my fucking way."
-    gr "好吧。一两个星期，但他妈的别让她挡我的路。"
+    gr "好吧。一两个星期，但他妈地别让她挡我的路。"
 
 # game/v8/Scene18.rpy:279
 translate chinese sun_aft_cameron_213d7018:
@@ -268,7 +268,7 @@ translate chinese sun_aft_cameron_113ca27f:
 translate chinese sun_aft_cameron_b99cbf27:
 
     # u "Hey, that's what Apes do. We stick together."
-    u "嘿，猿就是这么做的。我们团结在一起。""
+    u "嘿，猿人就是兄弟齐心，其力断金。"
 
 # game/v8/Scene18.rpy:296
 translate chinese sun_aft_cameron_6d265d8a:
@@ -298,7 +298,7 @@ translate chinese strings:
 
     # game/v8/Scene18.rpy:167
     old "Side with Grayson"
-    new "与格雷森站在一边"
+    new "站在格雷森一边"
 
     # game/v8/Scene18.rpy:167
     old "Side with Cameron"

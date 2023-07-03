@@ -22,7 +22,7 @@ translate chinese prot_w_au_42b185b2:
 translate chinese prot_w_au_290a938a:
 
     # u "You got my sign?"
-    u "你拿到我的标语了吗？"
+    u "你拿了我的标语了吗？"
 
 # game/v8/scene8.rpy:48
 translate chinese prot_w_au_424b1dcb:
@@ -478,7 +478,7 @@ translate chinese prot_w_au_2_049f2f55:
 translate chinese prot_w_au_2_b9c4fde3:
 
     # u "Okay."
-    u "好啦。"
+    u "好的。"
 
 # game/v8/scene8.rpy:499
 translate chinese prot_w_au_2_1819e3a3:

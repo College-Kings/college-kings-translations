@@ -16,11 +16,11 @@ translate chinese strings:
 
     # game/v8/Scene16.rpy:8
     old "Took a lot of work but Homecoming looks great"
-    new "做了很多工作，但返校节看起来很棒"
+    new "虽然做了很多工作，但返校节看起来很棒"
 
     # game/v8/Scene16.rpy:11
     old "Thank you miss Rose also says thank you"
-    new "谢谢。罗斯老师也说谢谢"
+    new "谢谢。罗斯小姐也很感谢你"
 
     # game/v8/Scene16.rpy:14
     old "You will have to find out some times :)"
@@ -28,11 +28,11 @@ translate chinese strings:
 
     # game/v8/Scene16.rpy:17
     old "Not this time, but maybe next time you can join me ;)"
-    new "这次不行，但也许下次你可以加入我 ;)"
+    new "这次不行，但也许下次你可以加入我；)"
 
     # game/v8/Scene16.rpy:35
     old "Hanging with my best friend. Good times!"
-    new "和我最好的朋友在一起。好时光！"
+    new "和我最好的朋友在一起。欢乐时光！"
 
     # game/v8/Scene16.rpy:36
     old "Awww, I love hanging out with you <3"
@@ -40,7 +40,7 @@ translate chinese strings:
 
     # game/v8/Scene16.rpy:37
     old "Looking great Aubrey!"
-    new "看起来很棒奥布里！"
+    new "看起来很棒，奥布里！"
 
     # game/v8/Scene16.rpy:38
     old "Next time invite me along"
@@ -56,7 +56,7 @@ translate chinese strings:
 
     # game/v8/Scene16.rpy:43
     old "Having fun with Ms. Rose at Hoco!"
-    new "和罗斯老师在返校节玩得很开心！"
+    new "和罗斯女士在返校节玩得很开心！"
 
     # game/v8/Scene16.rpy:44
     old "Teacher's pet!"
@@ -68,7 +68,7 @@ translate chinese strings:
 
     # game/v8/Scene16.rpy:46
     old "I'm glad you guys had fun"
-    new "我很高兴你们也玩得开心"
+    new "我很高兴你们也玩儿得开心"
 
     # game/v8/Scene16.rpy:47
     old "Wow, you two look great!"

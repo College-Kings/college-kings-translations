@@ -28,13 +28,13 @@ translate chinese penelope_dorm_hack_5b1217c0:
 translate chinese penelope_dorm_hack_d7c2d82c:
 
     # pe "*Sniffles* O-okay."
-    pe "*鼻涕* 哦-好的。"
+    pe "*鼻涕* 好-好吧。"
 
 # game/v8/scene15.rpy:50
 translate chinese penelope_dorm_hack_ac6103a5:
 
     # pe "Remember when you saw me in the hall at Hoco? And I was on the phone?"
-    pe "还记得你在返校节的大厅里见过我吗？我在打电话？"
+    pe "还记得你在返校节的大厅里见到我吗？就是我在打电话那会儿？"
 
 # game/v8/scene15.rpy:55
 translate chinese penelope_dorm_hack_fd93bbcf:
@@ -100,7 +100,7 @@ translate chinese help_pen_ca6c72a6:
 translate chinese help_pen_5ac80aa1:
 
     # pe "Okay. I guess we can do that."
-    pe "好啦。我想我们能做到。"
+    pe "好啦。我想我们能做到的。"
 
 # game/v8/scene15.rpy:123
 translate chinese help_pen_e04c5b15:

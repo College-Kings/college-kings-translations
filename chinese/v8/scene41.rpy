@@ -10,7 +10,7 @@ translate chinese walk_home_hosp_edeaab2d:
 translate chinese walk_home_hosp_047f0d28:
 
     # u "I thought a nurse was gonna show up and catch us."
-    u "我认为护士会出现抓住我们。"
+    u "我认为护士会出现然后抓住我们。"
 
 # game/v8/scene41.rpy:27
 translate chinese walk_home_hosp_35458f94:
@@ -34,7 +34,7 @@ translate chinese walk_home_hosp_335800e2:
 translate chinese walk_home_hosp_3ce9316f:
 
     # u "By quickly striking back to the ground?"
-    u "通过迅速回击到地面上？"
+    u "通过迅速地回到地面上？"
 
 # game/v8/scene41.rpy:47
 translate chinese walk_home_hosp_e38da6d8:
@@ -46,7 +46,7 @@ translate chinese walk_home_hosp_e38da6d8:
 translate chinese walk_home_hosp_ce555087:
 
     # se "And you were worried about descending... a free fall would be slower than the way you've climbed down!"
-    se "你还担心会下去……自由落体都没你你爬下去的速度快！"
+    se "你之前还担心怎么下去……自由落体都没你爬下去的速度快！"
 
 # game/v8/scene41.rpy:54
 translate chinese walk_home_hosp_8bc3eb21:
@@ -100,7 +100,7 @@ translate chinese walk_home_hosp_33c9f61b:
 translate chinese walk_home_hosp_fee399e3:
 
     # u "Joining the Wolves... I was not so sure at first. But it turns out it was a great thing to do."
-    u "加入战狼……一开始我不太确定。但事实证明这是一件很棒的事情。"
+    u "加入狼人……一开始我不太确定。但事实证明这是一件很棒的事情。"
 
 # game/v8/scene41.rpy:99
 translate chinese walk_home_hosp_28e377dc:
@@ -112,13 +112,13 @@ translate chinese walk_home_hosp_28e377dc:
 translate chinese walk_home_hosp_e7369f55:
 
     # u "Fun is great, girls are hot, but most of all... This kind of puts the \"brother\" in the \"brotherhood\"."
-    u "有趣很好，女孩很性感，但最重要的是……这样就把\"兄弟\"放在\"兄弟情谊\"。"
+    u "有趣很好，女孩很性感，但最重要的是……这样就把\"兄弟\"放在\"兄弟情谊\"里了。"
 
 # game/v8/scene41.rpy:109
 translate chinese walk_home_hosp_c48c7158:
 
     # se "Nothing breaks a Wolf pack, man."
-    se "没有什么能打垮狼群，伙计。"
+    se "没有什么能打垮狼人，伙计。"
 
 # game/v8/scene41.rpy:114
 translate chinese walk_home_hosp_37d00c35:
@@ -136,13 +136,13 @@ translate chinese walk_home_hosp_dcbfeabc:
 translate chinese walk_home_hosp_16646f84:
 
     # u "Oh, another one? This ought to be good."
-    u "哦，又一个？这应该很好。"
+    u "噢，又一个？这应该很好。"
 
 # game/v8/scene41.rpy:129
 translate chinese walk_home_hosp_ec8037ef:
 
     # se "Some Wolves take pride in their strength and some in being attractive."
-    se "有些狼以自己的力量为荣，有些狼以自己的魅力为荣。"
+    se "有些狼人以自己的力量为荣，有些狼人则以自己的魅力为荣。"
 
 # game/v8/scene41.rpy:134
 translate chinese walk_home_hosp_72eab10c:
@@ -160,13 +160,13 @@ translate chinese walk_home_hosp_fcd371a3:
 translate chinese walk_home_hosp_7cbc76d9:
 
     # u "Yes?"
-    u "什么事？"
+    u "什么事儿？"
 
 # game/v8/scene41.rpy:149
 translate chinese walk_home_hosp_093efd4c:
 
     # se "Last one home is a stinking, dirty ape!"
-    se "最后一个回家的是一只又臭又脏的猿猴！"
+    se "最后一个回家的是一只又臭又脏的猿人！"
 
 # game/v8/scene41.rpy:154
 translate chinese walk_home_hosp_a5093dd4:
@@ -244,13 +244,13 @@ translate chinese walk_home_hosp_e3e639e0:
 translate chinese walk_home_hosp_87962b3e:
 
     # se "You know, it's just like you said it earlier today. Wolves stick together."
-    se "你知道吗，就像你今天早些时候说的一样。狼群粘在一起。"
+    se "你知道吗，就像你今天早些时候说的一样。做兄弟，在心中。"
 
 # game/v8/scene41.rpy:233
 translate chinese walk_home_hosp_d00c6454:
 
     # se "No matter what we did, you did come with me and I appreciate it. That's how Marcus and I do things. That's how all Wolves do things."
-    se "不管我们做了什么，你确实和我一起走了，我很感激。我和马库斯就是这么做事的。所有的狼都是这样做事的。"
+    se "不管我们做了什么，你确实和我一起去了，我很感激。我和马库斯就是这么做事的。所有的狼人都是这样做事的。"
 
 # game/v8/scene41.rpy:238
 translate chinese walk_home_hosp_6e5a8340:
@@ -262,7 +262,7 @@ translate chinese walk_home_hosp_6e5a8340:
 translate chinese walk_home_hosp_c87afbe4:
 
     # se "You know, being in the Wolves is much like climbing that hospital."
-    se "你知道，在狼群里就像爬医院一样。"
+    se "你知道，在狼人里就像爬医院一样。"
 
 # game/v8/scene41.rpy:253
 translate chinese walk_home_hosp_f1c6d628:
@@ -280,13 +280,13 @@ translate chinese walk_home_hosp_6e11904a:
 translate chinese walk_home_hosp_d8082beb:
 
     # se "Then you start to fucking climb. And each damn step up is a step towards earning respect and power."
-    se "然后你他妈的开始爬。每一个该死的进步都是赢得尊重和权力的一步。"
+    se "然后你他妈地开始爬。每一个该死的进步都是赢得尊重和权力的一小步。"
 
 # game/v8/scene41.rpy:268
 translate chinese walk_home_hosp_74d18b4e:
 
     # se "Each next floor is making everyone else looking smaller to you. You grow, dude. Literally, above everyone else..."
-    se "在你看来，每一层楼都让其他人显得更小。你长大了，伙计。毫不夸张地说，高于所有人……"
+    se "在你看来，每上一层楼都让其他人显得更小。你长大了，伙计。毫不夸张地说，高于所有人……"
 
 # game/v8/scene41.rpy:273
 translate chinese walk_home_hosp_24003fb7:
@@ -310,31 +310,31 @@ translate chinese walk_home_hosp_b04548d0:
 translate chinese walk_home_hosp_076dfdf7:
 
     # se "Pussy, man, what else!"
-    se "骚逼啊，伙计，还能有什么！"
+    se "骚穴啊，伙计，还能有什么！"
 
 # game/v8/scene41.rpy:293
 translate chinese walk_home_hosp_2311e23a:
 
     # u "There was... pussy on the roof?"
-    u "世界的尽头……是骚逼？"
+    u "世界的尽头……是骚穴？"
 
 # game/v8/scene41.rpy:298
 translate chinese walk_home_hosp_d41b6d23:
 
     # se "Well, yeah... you could say that."
-    se "嗯，是的……你可以这么说。"
+    se "嗯，是的……你可以这么想。"
 
 # game/v8/scene41.rpy:303
 translate chinese walk_home_hosp_9166ff4b:
 
     # u "Umm... are you talking about cats?"
-    u "嗯……你说的是猫咪吗？"
+    u "嗯……你说的是猫咪吗？（骚穴的同音词）"
 
 # game/v8/scene41.rpy:308
 translate chinese walk_home_hosp_d7eec569:
 
     # se "I'm not talking about no fucking cats!"
-    se "我不是在说什么狗逼的猫！"
+    se "我不是在说什么狗屁猫咪！"
 
 # game/v8/scene41.rpy:313
 translate chinese walk_home_hosp_0cb887ae:
@@ -352,7 +352,7 @@ translate chinese walk_home_hosp_a044cc5c:
 translate chinese walk_home_hosp_96e898ee:
 
     # u "I'm messing with you, man. But I still don't see what kind of pussy could wait for you on the roof, haha."
-    u "我逗你的，伙计。但我还是不知道什么样的娘们能在屋顶上等你，哈哈。"
+    u "我逗你的，伙计。但我还是不能理解什么样的骚货能在屋顶上等你，哈哈。"
 
 # game/v8/scene41.rpy:328
 translate chinese walk_home_hosp_7c47e511:

@@ -16,7 +16,7 @@ translate chinese josh_room_146f1165:
 translate chinese josh_room_436a038e:
 
     # u "Yeah, no problem, man. What's up?"
-    u "是得，没问题，伙计。什么事？"
+    u "当然，没问题，伙计。怎么了？"
 
 # game/v8/scene24.rpy:27
 translate chinese josh_room_dc2a6a4f:
@@ -28,7 +28,7 @@ translate chinese josh_room_dc2a6a4f:
 translate chinese josh_room_efbf479e:
 
     # jo "Coke deal, you know *sniffs*, and I need someone I can trust to watch my ass, you know, in case they try to rob me."
-    jo "可卡因交易，你知道的， *嗅* 我需要一个我可以信任的人保护我，你知道得，以防他们试图抢劫我。"
+    jo "可卡因交易，你知道的， *嗅* 我需要一个我可以信任的人保护我，你知道的，以防他们黑吃黑。"
 
 # game/v8/scene24.rpy:32
 translate chinese josh_room_5f4d8972:
@@ -40,7 +40,7 @@ translate chinese josh_room_5f4d8972:
 translate chinese josh_room_54b7c239:
 
     # u "Man, Josh, I dunno. This is awfully risky and you know I'm not into that shit."
-    u "伙计，乔什，我不知道。这太冒险了，你知道我不喜欢那玩意儿。"
+    u "天呐，乔什，我不知道。这太冒险了，你知道我不喜欢那玩意儿。"
 
 # game/v8/scene24.rpy:40
 translate chinese josh_room_17d5b8b0:
@@ -52,7 +52,7 @@ translate chinese josh_room_17d5b8b0:
 translate chinese josh_room_dc9405f6:
 
     # u "Fuck, ummm..."
-    u "操，嗯……"
+    u "该死的，嗯……"
 
 # game/v8/scene24.rpy:52
 translate chinese josh_room_e7e031c7:
@@ -94,7 +94,7 @@ translate chinese josh_room_2460fec3:
 translate chinese josh_room_77864fdd:
 
     # u "Yeah cool. I'll see you then."
-    u "好的。酷。到时见。"
+    u "好的。真爽快。到时侯见。"
 
 # game/v8/scene24.rpy:80
 translate chinese josh_room_b2ace458:
@@ -124,7 +124,7 @@ translate chinese josh_room_d82168c4:
 translate chinese josh_room_fb6beb21:
 
     # jo "Whatever, man. You can't do one favor for me. Some friend!"
-    jo "随便了，伙计。你都不肯帮我一个忙。表面朋友！"
+    jo "随便了，伙计。你都不肯帮我一个忙。酒肉朋友！"
 
 # game/v8/scene24.rpy:101
 translate chinese josh_room_382f9a9f:
@@ -136,7 +136,7 @@ translate chinese josh_room_382f9a9f:
 translate chinese josh_room_1cf93f7f:
 
     # u "(Fuck. I should go after him, but I don't want to get caught up in that shit. Guess I'll go back to my room.)"
-    u "(他妈的。我应该去追他，但我不想卷进那破事里。我想我该回房间了。)"
+    u "(该死的。我应该去追他，但我不想卷进那破事儿里。我想我该回房间了。)"
 
 translate chinese strings:
 

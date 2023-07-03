@@ -46,7 +46,7 @@ translate chinese strings:
 
     # game/v8/scene34.rpy:10
     old "I bet you were"
-    new "我打赌你是"
+    new "我猜你是"
 
     # game/v8/scene34.rpy:11
     old "I miss them"
@@ -70,7 +70,7 @@ translate chinese strings:
 
     # game/v8/scene34.rpy:18
     old "Nothing. Bored."
-    new "没什么。有点无聊。"
+    new "没什么。有点儿无聊。"
 
     # game/v8/scene34.rpy:22
     old "Good. Bored. You?"
@@ -82,7 +82,7 @@ translate chinese strings:
 
     # game/v8/scene34.rpy:27
     old "Can't say it's all done, but I sure am!"
-    new "不能说一切都完成了，但我肯定是！"
+    new "不能说一切都完成了，但我想快了！"
 
     # game/v8/scene34.rpy:29
     old "So when can I see you again?"
@@ -90,19 +90,19 @@ translate chinese strings:
 
     # game/v8/scene34.rpy:32
     old "I'm actually getting hungry. Wanna go grab a bite?"
-    new "我真的饿了。想去吃一口吗？"
+    new "我真的饿了。想去吃东西吗？"
 
     # game/v8/scene34.rpy:33
     old "I better get back to it. I have so much work to get done. Just wanted to check on you and see how you're doing."
-    new "我还是回去吧。我有很多工作要做。只是想看看你怎么样了。"
+    new "我想还是算了。我有很多工作要做。只是想看看你怎么样了。"
 
     # game/v8/scene34.rpy:38
     old "Um... how's now? ;)"
-    new "嗯……现在怎么样了？ ;)"
+    new "嗯……现在怎么样了？；)"
 
     # game/v8/scene34.rpy:39
     old "Now's perfect! Should I cum to your place or you wanna cum here? ;)"
-    new "现在太完美了！我应该和你一起去还是你想和这里一起？ ;)"
+    new "现在太完美了！我应该和你一起去还是你想和这里一起？；)"
 
     # game/v8/scene34.rpy:40
     old "I was thinking more along the lines of food. I'm hungry!"
@@ -114,11 +114,11 @@ translate chinese strings:
 
     # game/v8/scene34.rpy:42
     old "Maybe after real food :P"
-    new "也许在真正的食物之后 :P"
+    new "也许在真正的食物之后：P"
 
     # game/v8/scene34.rpy:43
     old "What are you in the mood for? Lady's choice"
-    new "你有什么心情？女士的选择"
+    new "你想吃什么？听你的"
 
     # game/v8/scene34.rpy:49
     old "As friends"
@@ -146,11 +146,11 @@ translate chinese strings:
 
     # game/v8/scene34.rpy:87
     old "Hey, sexy :* Haven't seen you in a while"
-    new "嘿，型男 :* 有一阵子没见你了"
+    new "嘿，型男：* 有一阵子没见你了"
 
     # game/v8/scene34.rpy:88
     old "OMG! I was just thinking about you!"
-    new "天啊！我只是在想你！"
+    new "天呐！我刚刚还在想你！"
 
     # game/v8/scene34.rpy:89
     old "I was thinking about you too"
@@ -162,7 +162,7 @@ translate chinese strings:
 
     # game/v8/scene34.rpy:91
     old "I was thinking about your lips :*"
-    new "我在想你的嘴唇 :*"
+    new "我在想你的嘴唇：*"
 
     # game/v8/scene34.rpy:92
     old "Whatcha been up to?"

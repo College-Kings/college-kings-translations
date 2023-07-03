@@ -28,7 +28,7 @@ translate chinese v8_la_start_cd9a1f92:
 translate chinese v8_la_start_ffe6a51b:
 
     # la "Oh, reeaaally?"
-    la "哦，真的？"
+    la "噢，真的？"
 
 # game/v8/scene1.rpy:90
 translate chinese v8_la_start_339b1fe2:
@@ -76,7 +76,7 @@ translate chinese v8_la_start_2b1170f7:
 translate chinese v8_la_start_5ce36c46:
 
     # la "A bit."
-    la "有点。"
+    la "有点儿。"
 
 # game/v8/scene1.rpy:123
 translate chinese v8_la_start_7f2cc854:
@@ -88,7 +88,7 @@ translate chinese v8_la_start_7f2cc854:
 translate chinese v8_la_start_2cc6a98c:
 
     # la "Have a good night, baby."
-    la "晚安，宝贝。"
+    la "晚安，宝贝儿。"
 
 # game/v8/scene1.rpy:131
 translate chinese v8_la_start_9fb611a7:
@@ -184,7 +184,7 @@ translate chinese v8_la_start_50e94f3d:
 translate chinese v8_la_start_5edcd870:
 
     # la "Thanks babe... Ugh. I need to start getting ready."
-    la "谢谢宝贝……啊。我得开始准备了。"
+    la "谢谢，宝贝儿……啊。我得开始准备了。"
 
 # game/v8/scene1.rpy:227
 translate chinese v8_la_start_f0a21e59:
@@ -208,11 +208,11 @@ translate chinese v8_la_start_b6ec0d25:
 translate chinese v8_la_start_f6427103:
 
     # u "Meet me back when you're done?"
-    u "你做完后回来见我？"
+    u "你做完后回来找我？"
 
 # game/v8/scene1.rpy:250
 translate chinese v8_la_start_e1040739:
 
     # la "Okay babe. Byeee."
-    la "好的宝贝。再见。"
+    la "好的，宝贝儿。再见。"
 

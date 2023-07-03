@@ -46,7 +46,7 @@ translate chinese apes_join_ceremony_31df0aba:
 translate chinese apes_join_ceremony_db436e3d:
 
     # kai "Shit man, is this fucker going to prom or what?"
-    kai "妈的，这混蛋是去舞会还是怎么的？"
+    kai "该死的，这混蛋是去舞会还是怎么的？"
 
 # game/v8/scene12.rpy:38
 translate chinese apes_join_ceremony_92beb20a:
@@ -118,7 +118,7 @@ translate chinese apes_join_ceremony_8f7afc7f:
 translate chinese apes_join_ceremony_360f23ab:
 
     # gr "Dude... I think you got the most of anyone! Great work. You'll be a great Ape... maybe."
-    gr "哥们……我想你得到了最多的人！干得不错。你会成为一只伟大的猿人……也许吧。"
+    gr "哥们儿……我想你得到了最多的人！干得不错。你会成为一只伟大的猿人……也许吧。"
 
 # game/v8/scene12.rpy:80
 translate chinese apes_join_ceremony_4739fa40:
@@ -130,7 +130,7 @@ translate chinese apes_join_ceremony_4739fa40:
 translate chinese apes_join_ceremony_5602c016:
 
     # gr "I didn't have to go to Math for two fucking days!"
-    gr "我他妈的两天都不用上数学课！"
+    gr "我他妈的两天都不用上数学课了！"
 
 # game/v8/scene12.rpy:88
 translate chinese apes_join_ceremony_4a180fe6:
@@ -196,7 +196,7 @@ translate chinese apes_join_ceremony_1bb91421:
 translate chinese apes_join_ceremony_6a3792bf:
 
     # u "(Holy shit! I did it. I'm in! And first in that!)"
-    u "(天哪！我做到了。我加入了！而且是第一个！)"
+    u "(天呐！我做到了。我加入了！而且是第一个！)"
 
 # game/v8/scene12.rpy:121
 translate chinese apes_join_ceremony_ac47a1f5:
@@ -364,7 +364,7 @@ translate chinese apes_join_ceremony_c1f7137f_3:
 translate chinese apes_join_ceremony_bd4677fa_2:
 
     # sam "Hah! Of course he did great. This guy was planning to join us even before coming to San Vallejo."
-    sam "哈！他当然做得很好。这家伙甚至在来圣瓦列霍之前就计划加入我们了。""
+    sam "哈！他当然做得很好。这家伙甚至在来圣瓦列霍之前就计划加入我们了。"
 
 # game/v8/scene12.rpy:242
 translate chinese apes_join_ceremony_bf6ec079_1:
@@ -430,7 +430,7 @@ translate chinese apes_join_ceremony_af92aaa8:
 translate chinese apes_join_ceremony_c51cc861:
 
     # u "(Oh man, do I have to fight now?)"
-    u "(哦，天哪，我现在必须战斗吗？)"
+    u "(噢，天呐，我现在必须战斗吗？)"
 
 # game/v8/scene12.rpy:272
 translate chinese apes_join_ceremony_155c7481:
@@ -616,7 +616,7 @@ translate chinese apes_faceoff_task_99112020:
 translate chinese apes_faceoff_task_99406695:
 
     # coop "That was ballsy dude, well done."
-    coop "太有胆量了，干得好。""
+    coop "太有胆量了，干得好。"
 
 # game/v8/scene12.rpy:382
 translate chinese apes_faceoff_task_d346fc58:

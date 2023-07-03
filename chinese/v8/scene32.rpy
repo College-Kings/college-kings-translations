@@ -82,7 +82,7 @@ translate chinese aec_rose_end_c1115a6e:
 translate chinese aec_rose_end_0dca500c:
 
     # ro "Of course. Tell Chris and the other boys how thankful I am to have you guys around."
-    ro "当然了。告诉克里斯和其他男孩有你们在我身边我有多感激。"
+    ro "当然。告诉克里斯和其他男孩有你们在我身边我有多感激。"
 
 # game/v8/scene32.rpy:103
 translate chinese aec_rose_end_d6224755:

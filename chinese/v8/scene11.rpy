@@ -70,25 +70,25 @@ translate chinese wolves_gym_conf_5ff82e09:
 translate chinese wolves_gym_conf_b2b043be:
 
     # se "I almost went home. Until the Wolves took me in."
-    se "我差点就回家了。直到狼收留了我。"
+    se "我差点就回家了。直到狼人收留了我。"
 
 # game/v8/scene11.rpy:86
 translate chinese wolves_gym_conf_ad9f9711:
 
     # u "I totally get that. I've almost called my step-mom to come get me a couple times. It can get lonely."
-    u "我完全明白。我差点给我继母打了几次电话来接我。它会变得孤独。"
+    u "我完全明白。我好几次差点给我继母打电话来接我。这真的很孤独。"
 
 # game/v8/scene11.rpy:91
 translate chinese wolves_gym_conf_27801f27:
 
     # se "Well, you're not totally alone. I've seen all the chicks dripping off you."
-    se "你并不完全孤单。我见过所有的小鸡从你身上滴下来。"
+    se "你并不完全孤单。我见过所有的小妞从你身上下来。"
 
 # game/v8/scene11.rpy:96
 translate chinese wolves_gym_conf_3a0d9ec2:
 
     # u "I'm doing alright."
-    u "我做得很好。"
+    u "我做得还行。"
 
 # game/v8/scene11.rpy:101
 translate chinese wolves_gym_conf_c43130df:
@@ -148,13 +148,13 @@ translate chinese wolves_gym_cool_1532dd07:
 translate chinese wolves_gym_end_a99bf56f:
 
     # se "Shit, it's late. I never finished my chem homework."
-    se "妈的，很晚了。我从没做完化学作业。"
+    se "该死的，很晚了。我从没做完化学作业。"
 
 # game/v8/scene11.rpy:157
 translate chinese wolves_gym_end_c768ca99:
 
     # u "Fuck. I was supposed to be studying."
-    u "操。我本该在学习的。"
+    u "糟透了。我本该在学习的。"
 
 # game/v8/scene11.rpy:162
 translate chinese wolves_gym_end_79f275bc:

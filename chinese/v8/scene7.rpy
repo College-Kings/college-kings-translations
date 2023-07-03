@@ -46,7 +46,7 @@ translate chinese caf_w_aub_a2561724:
 translate chinese caf_w_aub_3db669d1:
 
     # au "Haha! Someone's horny."
-    au "哈哈！有人欲火焚身。"
+    au "哈哈！有人欲火焚身了。"
 
 # game/v8/scene7.rpy:63
 translate chinese caf_w_aub_724b0e3f:
@@ -208,7 +208,7 @@ translate chinese cafe_no_call_87045a2b:
 translate chinese cafe_no_call_bad41073:
 
     # u "Apes joining ceremony is tonight, so there's that."
-    u "猿人入会仪式在今晚，所以有。"
+    u "猿人的入会仪式在今晚，所以是的。"
 
 # game/v8/scene7.rpy:217
 translate chinese cafe_no_call_bab2dd5d:
@@ -244,7 +244,7 @@ translate chinese au_prot_call_dd9ace9f:
 translate chinese caf_prot_au_6bcc6ef4:
 
     # u "Oh yeah, the protest."
-    u "哦，是的，抗议活动。"
+    u "噢，是的，抗议活动。"
 
 # game/v8/scene7.rpy:269
 translate chinese caf_prot_au_fc34d0c9:
@@ -298,7 +298,7 @@ translate chinese caf_no_prot_au_cd13abb2:
 translate chinese caf_no_prot_au_ac224700:
 
     # aut "Oh... yeah, it's cool!"
-    aut "哦……是啊，很酷！"
+    aut "噢……是啊，很酷！"
 
 # game/v8/scene7.rpy:329
 translate chinese caf_no_prot_au_45eb663a:
@@ -334,7 +334,7 @@ translate chinese caf_no_prot_au_cf976fba:
 translate chinese caf_no_prot_au_2e10b4c4:
 
     # au "Oh okay. Sounded like you had to be somewhere."
-    au "哦，好吧。听起来你要去某个地方。"
+    au "噢，好吧。听起来你要去某个地方。"
 
 # game/v8/scene7.rpy:364
 translate chinese caf_no_prot_au_63b0e693:

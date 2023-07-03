@@ -220,7 +220,7 @@ translate chinese v8_ri_start_fr_2fa2d177:
 translate chinese v8_ri_start_fr_7f6bdeae:
 
     # ri "Okay. Talk soon?"
-    ri "好啦。很快谈？"
+    ri "好啦。再见？"
 
 # game/v8/scene4.rpy:171
 translate chinese v8_ri_start_fr_7d4b720b:

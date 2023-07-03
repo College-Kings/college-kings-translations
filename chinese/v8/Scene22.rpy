@@ -34,7 +34,7 @@ translate chinese s22_0373f40d:
 translate chinese s22_90e6f978:
 
     # pe "Oh? How did it go?"
-    pe "哦？进展如何？"
+    pe "噢？进展如何？"
 
 # game/v8/Scene22.rpy:41
 translate chinese s22_825d0c35:
@@ -46,7 +46,7 @@ translate chinese s22_825d0c35:
 translate chinese s22_36727821:
 
     # pe "Oh. Well, at least you tried, which is more than anyone else did. Thank you for this."
-    pe "哦。好吧，至少你试过了，比其他人都多。为此谢谢你。"
+    pe "噢。好吧，至少你试过了，比其他人都多。为此谢谢你。"
 
 # game/v8/Scene22.rpy:51
 translate chinese s22_0cf93607:
@@ -58,7 +58,7 @@ translate chinese s22_0cf93607:
 translate chinese s22_ee4bcd81:
 
     # pe "Yeah, maybe. At least I hope so. Thanks again [name], I appreciate it."
-    pe ""是啊，也许吧。至少我希望如此。再次感谢[name]，我很感激。"
+    pe "是啊，也许吧。至少我希望如此。再次感谢[name]，我很感激。"
 
 # game/v8/Scene22.rpy:61
 translate chinese s22_ee36d3e6:
@@ -76,7 +76,7 @@ translate chinese s22_9c6248ad:
 translate chinese s22_1e9f70cc:
 
     # u "Oh, it's okay. Have fun and stay away from computers, hahaha."
-    u "哦，没事的。玩得开心，远离电脑，哈哈哈。"
+    u "噢，没事的。玩得开心，远离电脑，哈哈哈。"
 
 # game/v8/Scene22.rpy:76
 translate chinese s22_23e6fb61:
@@ -130,7 +130,7 @@ translate chinese s22_0373f40d_1:
 translate chinese s22_90e6f978_1:
 
     # pe "Oh? How did it go?"
-    pe "哦？进展如何？"
+    pe "噢？进展如何？"
 
 # game/v8/Scene22.rpy:125
 translate chinese s22_825d0c35_1:
@@ -142,7 +142,7 @@ translate chinese s22_825d0c35_1:
 translate chinese s22_36727821_1:
 
     # pe "Oh. Well, at least you tried, which is more than anyone else did. Thank you for this."
-    pe "哦。好吧，至少你试过了，比其他人都多。为此谢谢你。"
+    pe "噢。好吧，至少你试过了，比其他人都多。为此谢谢你。"
 
 # game/v8/Scene22.rpy:135
 translate chinese s22_0cf93607_1:
@@ -160,7 +160,7 @@ translate chinese s22_ee4bcd81_1:
 translate chinese s22_ee36d3e6_1:
 
     # u "No worries. Wanna hang out today?"
-    u "不用担心。今天想出去玩吗？"
+    u "不用担心。今天想出去逛逛吗？"
 
 # game/v8/Scene22.rpy:150
 translate chinese s22_9c6248ad_1:
@@ -172,7 +172,7 @@ translate chinese s22_9c6248ad_1:
 translate chinese s22_1e9f70cc_1:
 
     # u "Oh, it's okay. Have fun and stay away from computers, hahaha."
-    u "哦，没事的。玩得开心，远离电脑，哈哈哈。"
+    u "噢，没事的。玩得开心，远离电脑，哈哈哈。"
 
 # game/v8/Scene22.rpy:160
 translate chinese s22_23e6fb61_1:

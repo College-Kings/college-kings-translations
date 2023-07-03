@@ -28,7 +28,7 @@ translate chinese hosp_climb_seb_84b427d3:
 translate chinese hosp_climb_seb_df4614f6:
 
     # se "Haha, you got me there. Glory, fun, whatever. If it makes you feel alive, I'm up for it!"
-    se "哈哈，你说对了。荣耀，乐趣，等等。如果它能让你感觉还活着，我愿意!"
+    se "哈哈，你说对了。荣耀，乐趣，等等。如果它能让你感觉还活着，我愿意！"
 
 # game/v8/scene39.rpy:45
 translate chinese hosp_climb_seb_c8797af4:
@@ -52,7 +52,7 @@ translate chinese hosp_climb_seb_d1423a0c:
 translate chinese climb_the_hos_1836e06c:
 
     # u "Fuck it, man. Let's do this thing."
-    u "管他的，伙计。我们来做这件事吧。"
+    u "管他呢，伙计。我们来做这件事吧。"
 
 # game/v8/scene39.rpy:76
 translate chinese climb_the_hos_65a09f92:
@@ -64,7 +64,7 @@ translate chinese climb_the_hos_65a09f92:
 translate chinese climb_the_hos_c1e57160:
 
     # u "At least keep your voice down, man!"
-    u "至少小声点，伙计！"
+    u "至少小声点儿，伙计！"
 
 # game/v8/scene39.rpy:86
 translate chinese climb_the_hos_a75770cb:
@@ -118,7 +118,7 @@ translate chinese climb_the_hos_a667d83c:
 translate chinese climb_the_hos_8113b8c7:
 
     # se "And they arise!"
-    se "他们出现了！"
+    se "他们终于上来了！"
 
 # game/v8/scene39.rpy:176
 translate chinese climb_the_hos_942fae98:
@@ -136,13 +136,13 @@ translate chinese climb_the_hos_0544cc86:
 translate chinese climb_the_hos_acc49f95:
 
     # se "This, my friend, is the cherry on tops."
-    se "我的朋友，这是上面的樱桃。"
+    se "看，我的朋友，这是顶峰上的无限风光。"
 
 # game/v8/scene39.rpy:206
 translate chinese climb_the_hos_e6b9b6b5:
 
     # se "If this was my hundredth time to reach this spot, I'd still love doing it."
-    se "如果这是我第一百次到达这个地方，我仍然喜欢这样做。"
+    se "即使这是我第一百次到达这个地方，我仍然喜欢这样做。"
 
 # game/v8/scene39.rpy:211
 translate chinese climb_the_hos_bef6cc24:
@@ -160,43 +160,43 @@ translate chinese climb_the_hos_8b21a17a:
 translate chinese climb_the_hos_f0324917:
 
     # se "A perfect angle to the dorm of the hottest babes around! And with a little bit of luck..."
-    se "一个完美的角度，周围有最火辣的姑娘宿舍!再加上一点运气……"
+    se "一个完美的角度，周围有最性感姑娘的宿舍！要是再加上一点儿运气的话……"
 
 # game/v8/scene39.rpy:231
 translate chinese climb_the_hos_1f00bf38:
 
     # se "Noooooo! I forgot my binoculars!"
-    se "不！我忘了带双筒望远镜！"
+    se "不-------！我忘了带双筒望远镜！"
 
 # game/v8/scene39.rpy:236
 translate chinese climb_the_hos_f719b91d:
 
     # u "Hahah, oh my God, that \"Noooo\" almost sounded like a howl of the saddest Wolf ever!"
-    u "哈哈，天啊，那个\"不\"字听起来就像是有史以来最悲伤的狼的嚎叫！"
+    u "哈哈，天呐，那个\"不\"字听起来就像是有史以来最悲伤的狼叫！"
 
 # game/v8/scene39.rpy:241
 translate chinese climb_the_hos_155e1a7b:
 
     # se "You mean like this? Aaaah-ooooooooh!"
-    se "你是说像这样？啊-唔唔唔！"
+    se "你是说像这样？啊-呜----！"
 
 # game/v8/scene39.rpy:246
 translate chinese climb_the_hos_b3c44517:
 
     # u "Haha, yeah! Aaaah-ooooooh! Poor Wolf won't be feasting his eyes on any Little Red Riding Hoods tonight, haha!"
-    u "哈哈，是的！啊-唔唔唔！可怜的狼今晚不会在任何小红帽上大饱眼福了，哈哈！"
+    u "哈哈，是的！啊-呜----！可怜的狼今晚不会在任何小红帽上大饱眼福了，哈哈！"
 
 # game/v8/scene39.rpy:256
 translate chinese watching_seb_climb_dc3b46f6:
 
     # u "I don't think I can do it."
-    u "我想我做不到。""
+    u "我想我做不到。"
 
 # game/v8/scene39.rpy:261
 translate chinese watching_seb_climb_4651a897:
 
     # se "Alright, cub. Let this Wolf show you how it's done..."
-    se "好吧,宝宝。让这只狼告诉你该怎么做……"
+    se "好吧，宝宝。让这只狼人告诉你该怎么做……"
 
 # game/v8/scene39.rpy:266
 translate chinese watching_seb_climb_e52b11cf:
@@ -220,7 +220,7 @@ translate chinese watching_seb_climb_b6d03f04:
 translate chinese watching_seb_climb_15280a2a:
 
     # se "Now if you'll excuse me, I've got some HOT business to do."
-    se "现在如果你不介意的话，我有一些火辣的生意要做。"
+    se "现在如果你不介意的话，我有一些性感的生意要做。"
 
 # game/v8/scene39.rpy:311
 translate chinese watching_seb_climb_bfd776c2:
@@ -238,7 +238,7 @@ translate chinese watching_seb_climb_d5a4ca17:
 translate chinese watching_seb_climb_c01cbcb2:
 
     # se "Nevermind. I forgot something and blew all the fun."
-    se "不要紧。我忘了点什么，把所有的乐趣都吹了。"
+    se "不要紧。我忘了点儿什么，把所有的乐趣都吹了。"
 
 # game/v8/scene39.rpy:331
 translate chinese watching_seb_climb_e7551e86:

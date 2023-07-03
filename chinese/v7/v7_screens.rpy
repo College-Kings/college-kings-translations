@@ -60,7 +60,7 @@ translate chinese strings:
 
     # game/v7/v7_screens.rpy:14
     old "Riley and I are good friends. She might say yes if I ask her."
-    new "莱利和我是好朋友。如果我问她，她可能会同意。"
+    new "莱莉和我是好朋友。如果我问她，她可能会同意。"
 
     # game/v7/v7_screens.rpy:105
     old "Lauren would kill me if I asked someone other than her."
@@ -72,23 +72,23 @@ translate chinese strings:
 
     # game/v7/v7_screens.rpy:197
     old "Are you sure you want to end the free roam with Chloe?"
-    new "你确定要和克洛伊结束自由漫游吗?"
+    new "您确定要和克洛伊结束自由漫游吗?"
 
     # game/v7/v7_screens.rpy:204
     old "Are you sure you want to end the free roam with Emily?"
-    new "你确定要和艾米丽结束自由漫游吗?"
+    new "您确定要和艾米丽结束自由漫游吗?"
 
     # game/v7/v7_screens.rpy:211
     old "Are you sure you want to end the free roam with Lauren?"
-    new "你确定要和劳伦结束自由漫游吗?"
+    new "您确定要和劳伦结束自由漫游吗?"
 
     # game/v7/v7_screens.rpy:218
     old "Are you sure you want to end the free roam with Penelope?"
-    new "你确定要和佩内洛普结束自由漫游吗?"
+    new "您确定要和佩内洛普结束自由漫游吗?"
 
     # game/v7/v7_screens.rpy:225
     old "Are you sure you want to end the free roam with Riley?"
-    new "你确定要和莱利结束自由漫游吗?"
+    new "您确定要和莱莉结束自由漫游吗?"
 
     # game/v7/v7_screens.rpy:758
     old "hide overlay"

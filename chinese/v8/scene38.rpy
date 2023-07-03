@@ -22,13 +22,13 @@ translate chinese seb_in_room_eb119fd2:
 translate chinese seb_in_room_50b58ffa:
 
     # se "How you settling in? You cool with being here?"
-    se "你适应得怎么样?你愿意待在这里吗?"
+    se "在这住得怎么样？你喜欢住在这里吗？"
 
 # game/v8/scene38.rpy:48
 translate chinese seb_in_room_9a467561:
 
     # u "Yeah! It's great. Can't think of anything I'm missing."
-    u "耶！太棒了。想不出我错过了什么。"
+    u "是的！太棒了。想不出我错过了什么。"
 
 # game/v8/scene38.rpy:53
 translate chinese seb_in_room_18e518c9:
@@ -40,13 +40,13 @@ translate chinese seb_in_room_18e518c9:
 translate chinese seb_in_room_cc717b25:
 
     # u "Ahh, yeah maybe. I haven't really had time to add a personal touch. I'll get there eventually."
-    u "啊，是的，也许吧。我还没来得及加点个人色彩。我最终会到的。"
+    u "啊，是的，也许吧。我还没来得及加点个人色彩。我最终会搞定的。"
 
 # game/v8/scene38.rpy:63
 translate chinese seb_in_room_ab312397:
 
     # se "Ah yeah, I hear that. Took me almost a month to finally get my cave looking sexy and shit haha."
-    se "啊是的，我知道了。我花了将近一个月的时间终于让我的房间看起来有点样子哈哈。"
+    se "啊，是的，我知道了。我花了将近一个月的时间终于让我的房间看起来有点样子哈哈。"
 
 # game/v8/scene38.rpy:68
 translate chinese seb_in_room_bb0eac50:
@@ -64,7 +64,7 @@ translate chinese seb_in_room_940cf87d:
 translate chinese seb_in_room_8d5eacd9:
 
     # u "Yeah shoot. What's up?"
-    u "好啊。说吧。什么事？"
+    u "好啊。说吧。什么事儿？"
 
 # game/v8/scene38.rpy:88
 translate chinese seb_in_room_37538ebe:
@@ -94,13 +94,13 @@ translate chinese seb_in_room_8acbb78a:
 translate chinese seb_in_room_e6e97d1c:
 
     # se "Fuck man, do I! Haha. I've always just been a \"Do It Yourself\" kind of guy, even for stupid and small things."
-    se "卧槽，伙计，我哪有! 哈哈。我一直只是个\"自己动手\"的男人，即使是愚蠢的小事情。"
+    se "卧槽，伙计，我哪有！哈哈。我一直只是个\"自己动手\"的男人，即使是愚蠢的小事情。"
 
 # game/v8/scene38.rpy:115
 translate chinese seb_in_room_66a7a21c:
 
     # u "Like I said, Wolves stick together, you need a hand, I'll do whatever I can."
-    u "就像我说的，狼会团结在一起，你需要帮助，我会尽我所能。"
+    u "就像我说的，狼人会团结在一起，你需要帮助，我会尽我所能。"
 
 # game/v8/scene38.rpy:120
 translate chinese seb_in_room_bfd96c00:
@@ -118,19 +118,19 @@ translate chinese seb_in_room_4cc24213:
 translate chinese seb_in_room_3f3a6bc0:
 
     # se "Haha, I'm not surprised. Me and Marcus climb the hospital, from the ground to roof, no equipment, just pure balls and stupidity haha."
-    se "哈哈，我一点也不惊讶。我和马库斯爬医院，从地面到屋顶，没有装备，只是纯粹的追求和愚蠢的想法哈哈。"
+    se "哈哈，我一点也不惊讶。我和马库斯爬医院，从地面到屋顶，没有装备，只是纯粹的追求和愚蠢的想法，哈哈。"
 
 # game/v8/scene38.rpy:131
 translate chinese seb_in_room_437fec49:
 
     # se "It's also a great workout bro. Really gets those muscles working and that blood pumping. You in?"
-    se "这也是一个伟大的锻炼兄弟。真的让肌肉工作和血液流动。你加入吗？"
+    se "这也是一次伟大的锻炼，兄弟。真的让肌肉工作和血液流动。你加入吗？"
 
 # game/v8/scene38.rpy:136
 translate chinese seb_in_room_3000c55e:
 
     # u "Damn, that sounds dangerous. What if we fall?"
-    u "D该死，听起来很危险。如果我们掉下来怎么办？"
+    u "该死的，听起来很危险。如果我们掉下来怎么办？"
 
 # game/v8/scene38.rpy:141
 translate chinese seb_in_room_4ba808c1:
@@ -166,7 +166,7 @@ translate chinese seb_in_room_36679b6b:
 translate chinese seb_in_room_cb15c818:
 
     # u "Way ahead of you, let's rock."
-    u "你跑前面，让我们摇滚吧。"
+    u "你跑前面，让我们开始吧。"
 
 # game/v8/scene38.rpy:171
 translate chinese seb_in_room_abd362e9:
