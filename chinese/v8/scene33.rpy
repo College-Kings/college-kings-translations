@@ -16,7 +16,7 @@ translate chinese hallway_w_nora_37fe551f:
 translate chinese hallway_w_nora_1b2fe02e:
 
     # no "We got off to a rough start, but can we just get past that?"
-    no "我们一开始不太顺利，但我们能不能熬过去？"
+    no "我们一开始不太顺利，但我们能不能让她过去？"
 
 # game/v8/scene33.rpy:34
 translate chinese hallway_w_nora_b4ce6e96:

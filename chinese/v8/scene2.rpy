@@ -34,13 +34,13 @@ translate chinese v8_cl_start_6753a320:
 translate chinese v8_cl_start_b0b2c45c:
 
     # u "Like I have a choice? Look at you."
-    u "好像我有选择？看看你。"
+    u "好像我有选择似的？看看你。"
 
 # game/v8/scene2.rpy:71
 translate chinese v8_cl_start_ffe78772:
 
     # cl "Let's get rid of these. I want to taste your cum."
-    cl "让我们搞定这个。我想尝尝你的精液。"
+    cl "让我们拿走这些。我想尝尝你的精液。"
 
 # game/v8/scene2.rpy:75
 translate chinese v8_cl_start_c3f87c70:
@@ -94,7 +94,7 @@ translate chinese v8_cl_start_e1f35df2:
 translate chinese v8_cl_start_68e7fc7f:
 
     # u "Ahh... yeah! That's the spot."
-    u "啊...对！就是那地方。"
+    u "啊……对！就是那地方。"
 
 # game/v8/scene2.rpy:115
 translate chinese v8_cl_start_56c8424f:

@@ -24,7 +24,7 @@ translate chinese strings:
 
     # game/v8/Scene16.rpy:14
     old "You will have to find out some times :)"
-    new "你将不得不在某些时候发现 :)"
+    new "你将不得不在某些时候发现：)"
 
     # game/v8/Scene16.rpy:17
     old "Not this time, but maybe next time you can join me ;)"

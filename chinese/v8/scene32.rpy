@@ -40,7 +40,7 @@ translate chinese mr_aft_class_3e6f909e:
 translate chinese mr_aft_class_f3671add:
 
     # u "Hey, don't worry about it. You have every right to feel whatever you're feeling. I'm sure it couldn't have been easy."
-    u "嘿，别担心。你完全有权利去感受你的感受。我敢肯定这不可能很容易。"
+    u "嘿，别担心。你完全有权利去感受你的内心。我敢肯定这不可能很容易。"
 
 # game/v8/scene32.rpy:57
 translate chinese mr_aft_class_801f18ce:
@@ -94,5 +94,5 @@ translate chinese strings:
 
     # game/v8/scene32.rpy:62
     old "Ask more questions"
-    new "多问问题"
+    new "问更多问题"
 

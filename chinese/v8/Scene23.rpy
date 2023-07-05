@@ -22,7 +22,7 @@ translate chinese josh_calls_you_782346f2:
 translate chinese josh_calls_you_aa1b5e93:
 
     # u "Not much. Just chilling in my room. What's up?"
-    u "没什么。只是在我房间里发呆。什么事儿？"
+    u "没什么。只是在我房间里发呆。怎么了？"
 
 # game/v8/Scene23.rpy:46
 translate chinese josh_calls_you_cadd23b5:
@@ -82,7 +82,7 @@ translate chinese josh_calls_you_782346f2_1:
 translate chinese josh_calls_you_aa1b5e93_1:
 
     # u "Not much. Just chilling in my room. What's up?"
-    u "没什么。只是在我房间里发呆。什么事？"
+    u "没什么。只是在我房间里发呆。怎么了？"
 
 # game/v8/Scene23.rpy:120
 translate chinese josh_calls_you_cadd23b5_1:

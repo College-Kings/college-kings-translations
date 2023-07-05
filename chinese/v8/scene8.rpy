@@ -22,31 +22,31 @@ translate chinese prot_w_au_42b185b2:
 translate chinese prot_w_au_290a938a:
 
     # u "You got my sign?"
-    u "你拿了我的标语了吗？"
+    u "你帮我拿标语了吗？"
 
 # game/v8/scene8.rpy:48
 translate chinese prot_w_au_424b1dcb:
 
     # aut "Yup."
-    aut "是的。"
+    aut "当然。"
 
 # game/v8/scene8.rpy:53
 translate chinese prot_w_au_3d7a91a0:
 
     # u "Yeah, looks better than I remembered. Haha."
-    u "是啊，看起来比我记得的要好。哈哈。"
+    u "好的，看起来比我想象的要好。哈哈。"
 
 # game/v8/scene8.rpy:57
 translate chinese prot_w_au_24a00265:
 
     # aut "Well, it's more about the message anyway."
-    aut "反正更多的是信息。"
+    aut "反正多了点儿内容。"
 
 # game/v8/scene8.rpy:61
 translate chinese prot_w_au_872040b9:
 
     # u "Yeah that's true."
-    u "是啊，那是真的。"
+    u "是的，的确。"
 
 # game/v8/scene8.rpy:69
 translate chinese prot_w_au_dbebb2fe:
@@ -58,25 +58,25 @@ translate chinese prot_w_au_dbebb2fe:
 translate chinese prot_w_au_wing_2be5d203:
 
     # u "Yeah, of course."
-    u "是啊，当然。"
+    u "是的，当然。"
 
 # game/v8/scene8.rpy:95
 translate chinese prot_w_au_wing_7347b600:
 
     # u "We won't stop, until it's fair. We won't stop until it's fair."
-    u "我们不会停下来，直到公平为止。不公平我们是不会罢休的。"
+    u "我们不会停止脚步，直到公平为止。不公平毋宁死。"
 
 # game/v8/scene8.rpy:100
 translate chinese prot_w_au_wing_8d194a53:
 
     # aut "So you have done this before?"
-    aut "那么你以前也这么做过？"
+    aut "那么你以前也这么做过吗？"
 
 # game/v8/scene8.rpy:105
 translate chinese prot_w_au_wing_a71039af:
 
     # u "Yeah, of course. That's how you get the word out."
-    u "是啊，当然。你就是这样把消息传出去的。"
+    u "是啊，当然。就是这样把消息传达去的。"
 
 # game/v8/scene8.rpy:110
 translate chinese prot_w_au_wing_9eb32fda:
@@ -94,19 +94,19 @@ translate chinese prot_w_au_wing_8f6285f1:
 translate chinese prot_w_au_wing_3468a7ad:
 
     # aut "That's good. It's nice to know people who are knowledgeable in politics and the issues we still face in society everyday."
-    aut "这很好。很高兴认识了解政治并和我们每天仍然面临的社会问题的人。"
+    aut "这很好。很高兴认识那些了解政治并和我们每天仍然直面社会问题的人。"
 
 # game/v8/scene8.rpy:125
 translate chinese prot_w_au_wing_2950cb76:
 
     # u "Like I said, we won't stop until it's fair."
-    u "就像我说的，不公平我们是不会罢休的。"
+    u "就像我说的，不公平毋宁死。"
 
 # game/v8/scene8.rpy:131
 translate chinese prot_w_au_no_wing_372f9958:
 
     # u "Uhh... so it's been a while for me. How does this work again?"
-    u "呃……对我来说已经有一段时间了。这是怎么工作的？"
+    u "呃……对我来说已经有一段时间了。应该怎么做来着？"
 
 # game/v8/scene8.rpy:136
 translate chinese prot_w_au_no_wing_4a0a5279:
@@ -124,7 +124,7 @@ translate chinese prot_w_au_no_wing_f8964793:
 translate chinese prot_w_au_no_wing_cff7cd1f:
 
     # aut "It's okay. We're just here to make our voices heard, that's all."
-    aut "没事的。我们只是来让别人听到我们的声音，仅此而已。"
+    aut "没事儿。我们只是来让别人听到我们的声音，仅此而已。"
 
 # game/v8/scene8.rpy:157
 translate chinese prot_w_au_no_wing_68e6d6b9:
@@ -136,13 +136,13 @@ translate chinese prot_w_au_no_wing_68e6d6b9:
 translate chinese prot_w_au_no_wing_2ea7efe6:
 
     # aut "See? Really not much to it."
-    aut "看吧？真的不是很多。"
+    aut "看吧？真的不是很难。"
 
 # game/v8/scene8.rpy:167
 translate chinese prot_w_au_no_wing_6523ea89:
 
     # u "Yeah. Haha. I should've known."
-    u "是啊。哈哈。我早该知道。"
+    u "是的。哈哈。我早该知道。"
 
 # game/v8/scene8.rpy:172
 translate chinese prot_w_au_no_wing_6a8d8e35:
@@ -166,13 +166,13 @@ translate chinese prot_w_au_1_ed6845fc:
 translate chinese prot_w_au_leg_8994a80e:
 
     # u "Yeah, pretty insane if you ask me. Abortion, such a horrible thing."
-    u "是啊，如果你问我的话，我很疯狂。堕胎，这么恐怖的事情。"
+    u "是的，如果你问我的话，我很疯狂。堕胎，这么恐怖的事情。"
 
 # game/v8/scene8.rpy:205
 translate chinese prot_w_au_leg_2fcffc84:
 
     # aut "You're against abortion?"
-    aut "你反对堕胎？"
+    aut "你反对堕胎吗？"
 
 # game/v8/scene8.rpy:210
 translate chinese prot_w_au_leg_0269aa96:
@@ -184,13 +184,13 @@ translate chinese prot_w_au_leg_0269aa96:
 translate chinese prot_w_au_leg_4ff359f0:
 
     # aut "You mean you meant you're against the anti-abortion legislation."
-    aut "你是说你是说你反对反堕胎立法。"
+    aut "你是说你反对反堕胎立法。"
 
 # game/v8/scene8.rpy:220
 translate chinese prot_w_au_leg_7a92024b:
 
     # u "Yeah, that's what I meant."
-    u "是啊，我就是这个意思。"
+    u "是的，我就是这个意思。"
 
 # game/v8/scene8.rpy:225
 translate chinese prot_w_au_leg_60fb5ea1:
@@ -208,7 +208,7 @@ translate chinese prot_w_au_leg_ed47f845:
 translate chinese prot_w_au_leg_0709ae20:
 
     # aut "And that's why we're here right? To tell them that our bodies are our choice. We can't keep letting men think they have the say over everything."
-    aut "这就是我们在这里的原因，对吧？告诉他们我们的身体我们做主。我们不能一直让男人认为他们对一切都有发言权。"
+    aut "这就是我们在这里的原因，对吧？告诉他们我们的身体由我们做主。我们不能一直让男人认为他们对一切都有发言权。"
 
 # game/v8/scene8.rpy:244
 translate chinese prot_w_au_leg_7d6505df:
@@ -226,7 +226,7 @@ translate chinese prot_w_au_leg_fa975d3c:
 translate chinese prot_w_au_leg_651eafeb:
 
     # u "And that's how you create a movement. One by one until everyone's on board."
-    u "这就是你创造运动的方式。一个接一个,直到每个人的。"
+    u "这就是你创造运动的方式。一个接一个，直到每个人的。"
 
 # game/v8/scene8.rpy:259
 translate chinese prot_w_au_leg_d3fae4a6:
@@ -292,7 +292,7 @@ translate chinese prot_w_au_no_leg_01ab6291:
 translate chinese prot_w_au_no_leg_d59cec74:
 
     # u "It's a really sad, unfortunate world we live in... But you know, one step at a time!"
-    u "我们生活的世界真的很悲伤，很不幸……但你知道，一步一个脚印！"
+    u "我们生活的世界真的很悲伤，很不幸……但你懂的，世上本没有路，走的人多了，便成了路！"
 
 # game/v8/scene8.rpy:311
 translate chinese prot_w_au_no_leg_6aa06b77:
@@ -304,7 +304,7 @@ translate chinese prot_w_au_no_leg_6aa06b77:
 translate chinese prot_w_au_no_leg_cb8f8215:
 
     # u "Of course. This is a real world issue. Gotta stand by the woman."
-    u "当然了。这是一个现实世界的问题。得站在女人一边。"
+    u "义不容辞。这是一个现实世界的问题。得站在女人一边。"
 
 # game/v8/scene8.rpy:330
 translate chinese prot_w_au_2_363b66ef:
@@ -316,7 +316,7 @@ translate chinese prot_w_au_2_363b66ef:
 translate chinese prot_w_au_2_36c15b5e:
 
     # u "Yeah, anytime."
-    u "是啊，随时都可以。"
+    u "是的，随时都可以。"
 
 # game/v8/scene8.rpy:346
 translate chinese prot_w_au_2_a497df2e:

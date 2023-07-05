@@ -284,5 +284,5 @@ translate chinese strings:
 
     # game/v8/scene36.rpy:26
     old "Chill reply"
-    new "冷淡的回答"
+    new "冷静地回答"
 

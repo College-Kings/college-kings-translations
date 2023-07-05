@@ -4,7 +4,7 @@
 translate chinese mon_eve_room_josh_e77881ab:
 
     # u "(Let's see who this is.)"
-    u "(让我们看看这是谁。)"
+    u "(让我看看这是谁。)"
 
 # game/v8/scene27.rpy:24
 translate chinese v8s27_phoneContinue1_747f298b:
