@@ -12634,19 +12634,19 @@ translate chinese penelopehocodate_3df105c6:
 translate chinese rileyhocodate_30a148ed:
 
     # ry "Heyyy [name]! You ready for a wild night?"
-    ry "嗨，[name]！准备好狂野的夜晚了吗？"
+    ry "嘿，[name]！准备好狂野的夜晚了吗？"
 
 # game/v7/v7.rpy:11986
 translate chinese rileyhocodate_5b74c6a1:
 
     # u "Yeah, of course!"
-    u "是啊，当然！"
+    u "是的，当然！"
 
 # game/v7/v7.rpy:11991
 translate chinese rileyhocodate_84682214:
 
     # ry "What's up!"
-    ry "什么事！"
+    ry "怎么了！"
 
 # game/v7/v7.rpy:11993
 translate chinese rileyhocodate_d7f37a1f:
@@ -12664,7 +12664,7 @@ translate chinese rileyhocodate_9668b8a6:
 translate chinese rileyhocodate_2feef91c:
 
     # la "What? Oh, no. We're just both predrinking here."
-    la "什么？噢,不。我们只是在喝酒。"
+    la "什么？噢，不。我们只是在喝酒。"
 
 # game/v7/v7.rpy:12008
 translate chinese rileyhocodate_7ef26ec1:
@@ -12694,7 +12694,7 @@ translate chinese rileyhocodate_990bbe83:
 translate chinese rileyhocodate_eccaf7f3:
 
     # u "I definitely am."
-    u "绝对是我。"
+    u "必须的。"
 
 # game/v7/v7.rpy:12027
 translate chinese rileyhocodate_bdfc578e:
@@ -12724,7 +12724,7 @@ translate chinese rileyhocodate_0e10bfbb:
 translate chinese rileyhocodate_08da18fb:
 
     # la "Whichever team flipped both their cups first wins the round and the other team has to take a shot."
-    la "哪个队先把两个杯子都翻了，哪个队就赢了这一轮，另一个队必须投篮。"
+    la "哪个队先把两个杯子都翻过来，哪个队就赢了这一轮，另一个队必须喝酒。"
 
 # game/v7/v7.rpy:12049
 translate chinese rileyhocodate_4a44db57:
@@ -12742,7 +12742,7 @@ translate chinese rileyhocodate_3616396b:
 translate chinese rileyhocodate_8be6dc0b:
 
     # ry "You're on."
-    ry "你先上。"
+    ry "一言为定。"
 
 # game/v7/v7.rpy:12071
 translate chinese rileyhocodate_7aab53ba:
@@ -12754,13 +12754,13 @@ translate chinese rileyhocodate_7aab53ba:
 translate chinese rileyhocodate_27b32290:
 
     # u "Come on, come on!"
-    u "快，快！"
+    u "加油，加油！"
 
 # game/v7/v7.rpy:12095
 translate chinese rileyhocodate_96354ac0:
 
     # u "You got this, man!"
-    u "你还差点啊，伙计！"
+    u "你能行的，伙计！"
 
 # game/v7/v7.rpy:12107
 translate chinese rileyhocodate_f94bbcf9:
@@ -12826,7 +12826,7 @@ translate chinese rileyhocodate_d0a53aaa:
 translate chinese rileyhocodate_86857b62:
 
     # u "You're on."
-    u "你先上。"
+    u "一言为定。"
 
 # game/v7/v7.rpy:12203
 translate chinese rileyhocodate_870e5171:
@@ -12850,7 +12850,7 @@ translate chinese rileyhocodate_aa2c2045:
 translate chinese rileyhocodate_125a2c8a:
 
     # ry "Bro, you got this!"
-    ry "兄弟，你差点啊！"
+    ry "兄弟，你能行的！"
 
 # game/v7/v7.rpy:12238
 translate chinese rileyhocodate_b9d3cbcd:
@@ -12862,7 +12862,7 @@ translate chinese rileyhocodate_b9d3cbcd:
 translate chinese rileyhocodate_b0eab939:
 
     # ri "Drink up, losers!"
-    ri "喝光吧，失败者们！"
+    ri "别养鱼，失败者们！"
 
 # game/v7/v7.rpy:12258
 translate chinese rileyhocodate_67123daa:
@@ -18112,11 +18112,11 @@ translate chinese strings:
 
     # game/v7/v7.rpy:2553
     old "Sounds good, when were you thinking?"
-    new "听起来不错，你什么时候想的？"
+    new "听起来不错，你想什么时候去？"
 
     # game/v7/v7.rpy:2561
     old "Sorry, I can't I'm really busy today"
-    new "对不起，我不能，我今天真的很忙"
+    new "对不起，我不能，我今天真的很忙。"
 
     # game/v7/v7.rpy:2753
     old "Tell her it's fine"
@@ -18124,7 +18124,7 @@ translate chinese strings:
 
     # game/v7/v7.rpy:2753
     old "Tell her he moved out"
-    new "告诉她他搬出去了"
+    new "告诉她，他搬出去了"
 
     # game/v7/v7.rpy:3249
     old "You're cute"
@@ -18156,7 +18156,7 @@ translate chinese strings:
 
     # game/v7/v7.rpy:4299
     old "Do it"
-    new "行动"
+    new "做"
 
     # game/v7/v7.rpy:4299
     old "Of course not"
@@ -18296,7 +18296,7 @@ translate chinese strings:
 
     # game/v7/v7.rpy:9235
     old "Great. I'm at the Deer's House. Do you know how to get there?"
-    new "太好了。我在鹿家。你知道怎么来这儿吗？"
+    new "太好了。我在鹿屋。你知道怎么来这儿吗？"
 
     # game/v7/v7.rpy:9236
     old "Yeah, I think I do. On my way."
@@ -18312,7 +18312,7 @@ translate chinese strings:
 
     # game/v7/v7.rpy:9320
     old "Same something direct"
-    new "直抒胸臆"
+    new "开门见山"
 
     # game/v7/v7.rpy:10451
     old "Ask something sexual"
@@ -18384,11 +18384,11 @@ translate chinese strings:
 
     # game/v7/v7.rpy:14398
     old "Back up Aaron"
-    new "支持亚伦"
+    new "帮助亚伦"
 
     # game/v7/v7.rpy:14398
     old "Side with Lindsey"
-    new "支持林赛"
+    new "帮助林赛"
 
     # game/v7/v7.rpy:14743
     old "Alright, let's go"
