@@ -10,13 +10,13 @@ translate chinese v9_call_w_lindsey_71fbada3:
 translate chinese v9_call_w_lindsey_40e33fe2:
 
     # u "(I didn't see myself going down this road when I started college, but I'm in too deep now. There's no way I'll lose, no way in hell.)"
-    u "(刚上大学的时候，我没想到自己会走上这条路，但现在我陷得太深了。我不可能输，不可能下地狱。)"
+    u "(刚上大学的时候，我没想到自己会走上这条路，但现在我陷得太深了。我不可能输的，没理由的。)"
 
 # game/v9/scene28.rpy:24
 translate chinese v9_call_w_lindsey_3f8c31a9:
 
     # u "(I wonder who's calling this late. Oh, it's Lindsey.)"
-    u "(我想知道是谁这么晚打来的。哦，是林赛。)"
+    u "(我想知道是谁这么晚打来的。噢，是林赛。)"
 
 # game/v9/scene28.rpy:29
 translate chinese v9_call_w_lindsey_31974851:
@@ -64,7 +64,7 @@ translate chinese v9_call_w_lindsey_4326837d:
 translate chinese v9_call_w_lindsey_8ad56a83:
 
     # u "Does a fish need water? Of course I'll come out on top. When I set my mind to something that's it, mission accomplished."
-    u "鱼需要水吗?我当然会胜出。当我下定决心做一件事的时候，任务就完成了。"
+    u "这不秃子头上的虱子？明摆着的。当我下定决心做一件事的时候，事儿就会搞定的。"
 
 # game/v9/scene28.rpy:65
 translate chinese v9_call_w_lindsey_a8ba2731:
@@ -88,13 +88,13 @@ translate chinese v9_call_w_lindsey_f8b84bf1:
 translate chinese v9_call_w_lindsey_ea125876:
 
     # u "Awww, school magazine front page, Linds cares deeply for [name]'s safety."
-    u "哦，学校杂志头版，林很关心[name]的安全。"
+    u "噢，学校杂志头版，林很关心[name]的安全。"
 
 # game/v9/scene28.rpy:83
 translate chinese v9_call_w_lindsey_074433a9:
 
     # li "Keep calling me by that little nickname and I may care a little less."
-    li "一直叫我那个小绰号的话，我可能就不在乎了。"
+    li "一直叫我那个小绰号的话，我可能就不关心你了。"
 
 # game/v9/scene28.rpy:88
 translate chinese v9_call_w_lindsey_f4c98495:
@@ -166,7 +166,7 @@ translate chinese v9_call_w_lindsey_40e33fe2_1:
 translate chinese v9_call_w_lindsey_3f8c31a9_1:
 
     # u "(I wonder who's calling this late. Oh, it's Lindsey.)"
-    u "(我想知道是谁这么晚打来的。哦，是林赛。)"
+    u "(我想知道是谁这么晚打来的。噢，是林赛。)"
 
 # game/v9/scene28.rpy:158
 translate chinese v9_call_w_lindsey_31974851_1:
@@ -232,7 +232,7 @@ translate chinese v9_call_w_lindsey_f8b84bf1_1:
 translate chinese v9_call_w_lindsey_ea125876_1:
 
     # u "Awww, school magazine front page, Linds cares deeply for [name]'s safety."
-    u "哦，学校杂志头版，林很关心[name]的安全。"
+    u "噢，学校杂志头版，林很关心[name]的安全。"
 
 # game/v9/scene28.rpy:210
 translate chinese v9_call_w_lindsey_074433a9_1:
@@ -292,5 +292,5 @@ translate chinese v9_call_w_lindsey_5788969f_1:
 translate chinese v9_call_w_lindsey_9443a35c_1:
 
     # u "(Was she hinting at something? \"I could be even sweeter\", what does that mean? Oh well, time to get some rest. I got a big day tomorrow.)"
-    u "(她在暗示什么吗？\"我可以更好\", 这是什么意思？哦，是时候休息了。明天对我来说可是个大日子。）"
+    u "(她在暗示什么吗？\"我可以更好\"，这是什么意思？噢，是时候休息了。明天对我来说可是个大日子。）"
 

@@ -82,7 +82,7 @@ translate chinese v9_start_wolves_9422f7e6:
 translate chinese v9_start_wolves_84837158:
 
     # ch "You've been working out, right?"
-    ch "你一直在健身，对吧？"
+    ch "你一直在训练，对吧？"
 
 # game/v9/scene01.rpy:92
 translate chinese v9_start_wolves_ee1744e1:
@@ -94,13 +94,13 @@ translate chinese v9_start_wolves_ee1744e1:
 translate chinese v9_start_wolves_0e3fd106:
 
     # ch "Great! We're gonna need it if we plan on beating the Apes."
-    ch "太棒了！如果我们打算打败狂猿就需要这样。"
+    ch "太棒了！如果我们打算打败猿人就需要这样。"
 
 # game/v9/scene01.rpy:102
 translate chinese v9_start_wolves_32b608f3:
 
     # u "(I haven't been training enough for this.)"
-    u "(我对我的训练还不够。)"
+    u "(我想我的训练还不够。)"
 
 # game/v9/scene01.rpy:103
 translate chinese v9_start_wolves_e6a451d1:
@@ -112,7 +112,7 @@ translate chinese v9_start_wolves_e6a451d1:
 translate chinese v9_start_wolves_84837158_1:
 
     # ch "You've been working out, right?"
-    ch "你一直在健身，对吧？"
+    ch "你一直在训练，对吧？"
 
 # game/v9/scene01.rpy:111
 translate chinese v9_start_wolves_df74b9eb:
@@ -148,13 +148,13 @@ translate chinese v9_start_wolves_d5804e02:
 translate chinese v9_start_wolves_6a94dba2:
 
     # ch "Because it's the Freshman Brawl!"
-    ch "因为这是新生大混战！"
+    ch "因为这是新生争霸赛！"
 
 # game/v9/scene01.rpy:135
 translate chinese v9_start_wolves_1c27296d:
 
     # ch "Aww it's gonna be awesome! What better way to see what you pledges have in you?"
-    ch "会很棒的！还有什么更好的方法来证明你个新人？"
+    ch "会很棒的！还有什么更好的方法来证明你个新人的实力？"
 
 # game/v9/scene01.rpy:139
 translate chinese v9_start_wolves_a286b3e5:
@@ -184,13 +184,13 @@ translate chinese v9_start_wolves_31c394e8:
 translate chinese v9_start_wolves_2bd04810:
 
     # u "I don't know... I'm not ready for something like this. A... BRAWL?"
-    u "我不知道……我还没准备好这样的事。一场……比赛？"
+    u "我不知道……我还没准备好这样的事。一场……争霸赛？"
 
 # game/v9/scene01.rpy:165
 translate chinese v9_start_wolves_3a438991:
 
     # ch "Come on. You knew what these frats were about when you pledged. We fight. It'll be fine."
-    ch "来把。你入会的时候就知道这些兄弟会是怎么回事。我们战斗。不会有事的。"
+    ch "来吧。你入会的时候就知道这些兄弟会是怎么回事。我们战斗。不会有事的。"
 
 # game/v9/scene01.rpy:169
 translate chinese v9_start_wolves_e68297c3:
@@ -250,7 +250,7 @@ translate chinese v9_phn_imre1_f67ba0b4:
 translate chinese v9_phn_imre1_cfe1d3a5:
 
     # u "(Freshman Brawl... sounds intense.)"
-    u "(新生混战……听起来很激烈。)"
+    u "(新生争霸赛……听起来很激烈。)"
 
 # game/v9/scene01.rpy:229
 translate chinese v9_phn_imre1_2c4978a8:
@@ -280,11 +280,11 @@ translate chinese strings:
 
     # game/v9/scene01.rpy:8
     old "Damn right! You heading to the gym?"
-    new "该死的对！你要去健身房吗？"
+    new "真他妈的对！你要去健身房吗？"
 
     # game/v9/scene01.rpy:9
     old "Naw, I'm spent. But I have a feeling I'll be spending a lot of my time in there"
-    new "不，我做了。但我有一种感觉，我会花很多时间在那里"
+    new "不，我做了。但我有一种感觉，我会花很多时间在那里。"
 
     # game/v9/scene01.rpy:10
     old "Me too. See ya there!"
@@ -292,15 +292,15 @@ translate chinese strings:
 
     # game/v9/scene01.rpy:13
     old "Lucky we did, huh? I think we got a hand up on those baby apes"
-    new "我们很幸运，嗯？我想我们对那些小猿有帮助"
+    new "我们很幸运，嗯？我想我们对那些小猿有帮助。"
 
     # game/v9/scene01.rpy:14
     old "Damn right! We got this! We need to hit the gym soon... after I get some sleep. I'm bout to pass out"
-    new "该死的对！我们说好了！我们得尽快去健身房……等我睡一会儿。我快要昏过去了"
+    new "该死的对！我们说好了！我们得尽快去健身房……等我睡一会儿。我快要昏过去了。"
 
     # game/v9/scene01.rpy:15
     old "Same! Talk soon"
-    new "一样！很快就谈"
+    new "一样！回头见"
 
     # game/v9/scene01.rpy:80
     old "Hesitant reply"
@@ -320,9 +320,9 @@ translate chinese strings:
 
     # game/v9/scene01.rpy:214
     old "Hell no! But we need to get ready!"
-    new "当然！但我们得做好准备！"
+    new "没有！但我们得做好准备！"
 
     # game/v9/scene01.rpy:215
     old "I think so, actually. You and Sebastian really helped"
-    new "我想是的，实际上。你和塞巴斯蒂安真的帮了大忙"
+    new "我想是的，实际上。你和塞巴斯蒂安真的帮了大忙。"
 

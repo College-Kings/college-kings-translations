@@ -10,7 +10,7 @@ translate chinese v9_thur_room_w_seb_65d949f5:
 translate chinese v9_thur_room_w_seb_600fb90a:
 
     # "Fuck dude, open up!"
-    "卧槽啊兄弟，开门！"
+    "卧槽啊，兄弟，开门！"
 
 # game/v9/scene14.rpy:41
 translate chinese v9_thur_w_punch_dc035b17:
@@ -28,7 +28,7 @@ translate chinese v9_thur_w_punch_0547a9e8:
 translate chinese v9_thur_w_punch_29a0bc4f:
 
     # se "Our cub is a famous Wolf!"
-    se "我们的幼狼是一只有名的狼了！"
+    se "我们的狼崽儿子是一只有名的狼人了！"
 
 # game/v9/scene14.rpy:56
 translate chinese v9_thur_w_punch_93f06e04:
@@ -40,7 +40,7 @@ translate chinese v9_thur_w_punch_93f06e04:
 translate chinese v9_thur_w_punch_74bdcd1f:
 
     # guyc "Holy shit, he doesn't know?!"
-    guyc "天哪，他还不知道？！"
+    guyc "天呐，他还不知道？！"
 
 # game/v9/scene14.rpy:66
 translate chinese v9_thur_w_punch_fb709a74:
@@ -100,7 +100,7 @@ translate chinese v9_thur_w_punch_f327060d:
 translate chinese v9_thur_w_punch_d4116552:
 
     # u "Holy fuck, I didn't know someone was filming. I mean, it's cool and all, but what if I get in trouble with this?"
-    u "天哪，我不知道有人在拍。我是说，这很酷，但如果我遇到麻烦怎么办？"
+    u "天呐，我不知道有人在拍。我是说，这很酷，但如果我惹上麻烦怎么办？"
 
 # game/v9/scene14.rpy:133
 translate chinese v9_thur_w_punch_e3c127c1:
@@ -112,13 +112,13 @@ translate chinese v9_thur_w_punch_e3c127c1:
 translate chinese v9_thur_w_punch_9a284148:
 
     # u "I'm not talking about revenge, that guy attacked me first. I'm talking about fighting in the hallways!"
-    u "我不是在说报复，是那家伙先袭击我的。我是说在走廊里打架！"
+    u "我不是说怕报复，是那家伙先袭击我的。我是说在走廊里打架！"
 
 # game/v9/scene14.rpy:143
 translate chinese v9_thur_w_punch_a1ca067a:
 
     # guyc "Well if he attacked first, people can vouch for you."
-    guyc "如果他先攻击，人们可以为你担保。"
+    guyc "如果他先攻击你，人们可以为你担保。"
 
 # game/v9/scene14.rpy:148
 translate chinese v9_thur_w_punch_f759b150:
@@ -178,7 +178,7 @@ translate chinese v9_thur_w_punch_aa8eb016:
 translate chinese v9_thur_w_punch_2dcbfdd6:
 
     # guyc "Oh no, no! We are always there."
-    guyc "哦不，不！我们一直都在。"
+    guyc "哦，不，不！我们一直都在。"
 
 # game/v9/scene14.rpy:201
 translate chinese v9_thur_w_punch_4e0499e0:
@@ -214,7 +214,7 @@ translate chinese v9_thur_room_w_seb_cont1_f474b68d:
 translate chinese v9_thur_room_w_seb_cont1_4902f10b:
 
     # se "For an ex cub!"
-    se "曾经的幼崽！"
+    se "致曾经的幼崽！"
 
 # game/v9/scene14.rpy:244
 translate chinese v9_thur_room_w_seb_cont1_d46066a3:
@@ -232,7 +232,7 @@ translate chinese v9_thur_room_w_seb_cont1_d58c5592:
 translate chinese v9_thur_room_w_seb_cont1_da71ff05:
 
     # guyc "Two days left before the Freshman Brawl."
-    guyc "离新生格斗比赛还有两天。"
+    guyc "离新生争霸赛还有两天。"
 
 # game/v9/scene14.rpy:265
 translate chinese v9_thur_room_w_seb_cont1_8c1bf5ce:
@@ -280,7 +280,7 @@ translate chinese v9_thur_room_w_seb_cont1_ceee71ce:
 translate chinese v9_thur_room_w_seb_cont1_31530d04:
 
     # guyc "More beer!"
-    guyc "再来点啤酒！"
+    guyc "再来点儿啤酒！"
 
 # game/v9/scene14.rpy:305
 translate chinese v9_thur_room_w_seb_cont1_562e873c:
@@ -364,7 +364,7 @@ translate chinese v9_thur_w_no_punch_f4bf4400:
 translate chinese v9_thur_w_no_punch_5470e392:
 
     # se "Shit dude, are you insane? What were you looking down for? Dropped something? Your brain perhaps?"
-    se "妈的伙计，你疯了吗？你在低头找什么？掉东西了？也许是你的脑子？"
+    se "该死的，伙计，你疯了吗？你在低头找什么？掉东西了？也许是你的脑子？"
 
 # game/v9/scene14.rpy:391
 translate chinese v9_thur_w_no_punch_86f5cfdc:
@@ -394,13 +394,13 @@ translate chinese v9_thur_w_no_punch_4404470e:
 translate chinese v9_thur_w_no_punch_49c1fd8a:
 
     # u "I know. It just fucking..."
-    u "我知道.只是他妈的……"
+    u "我知道。只是他妈的……"
 
 # game/v9/scene14.rpy:421
 translate chinese v9_thur_w_no_punch_c50ce918:
 
     # se "It just fucking what? If you are a Wolf, there is no excuse. How do Wolves walk?"
-    se "他妈的什么？如果你是狼，别找借口。狼是怎么走路的？"
+    se "他妈的什么？如果你是狼人，别找借口。狼人是怎么走路的？"
 
 # game/v9/scene14.rpy:426
 translate chinese v9_thur_w_no_punch_994954c2:
@@ -412,7 +412,7 @@ translate chinese v9_thur_w_no_punch_994954c2:
 translate chinese v9_thur_w_no_punch_0d123f51:
 
     # guyc "Damn right. Upwards and proud."
-    guyc "他妈的是的。趾高气扬。"
+    guyc "他妈的，对。趾高气扬。"
 
 # game/v9/scene14.rpy:436
 translate chinese v9_thur_w_no_punch_dbc9d37d:
@@ -520,7 +520,7 @@ translate chinese v9_thur_w_no_punch_1bedf131:
 translate chinese v9_thur_w_no_punch_10ff6c3a:
 
     # se "Oh is that so, haha? Do tell!"
-    se "哦，是这样吗，哈哈？一定要说！"
+    se "噢，是这样吗，哈哈？一定要说！"
 
 # game/v9/scene14.rpy:546
 translate chinese v9_thur_w_no_punch_e8a49620:

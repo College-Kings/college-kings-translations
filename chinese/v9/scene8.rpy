@@ -40,7 +40,7 @@ translate chinese v9_driving_home_lake_c31b2f0d:
 translate chinese v9_driving_home_lake_a6822e5b:
 
     # ry "Oh yeah? I don't think so. Bravery is recognized in people when they are still young."
-    ry "哦，是吗？我不这么认为。勇敢在人们还年轻的时候就被认可了。"
+    ry "噢，是吗？我不这么认为。勇敢在人们还年轻的时候就被认可了。"
 
 # game/v9/scene8.rpy:49
 translate chinese v9_driving_home_lake_d6f50c92:
@@ -148,7 +148,7 @@ translate chinese v9_driving_home_lake_70b05107:
 translate chinese v9_driving_home_lake_08045f44:
 
     # au "Oh I would not stop for a second."
-    au "哦，我一刻也不会停下来。"
+    au "噢，我一刻也不会停下来。"
 
 # game/v9/scene8.rpy:140
 translate chinese v9_driving_home_lake_7ab351bb:
@@ -364,7 +364,7 @@ translate chinese v9_driving_home_lake_84d4036c:
 translate chinese v9_driving_home_lake_eb8e9e93:
 
     # ri "Oh shut up, Ryan!"
-    ri "哦闭嘴，瑞恩！"
+    ri "噢，闭嘴，瑞恩！"
 
 # game/v9/scene8.rpy:324
 translate chinese v9_driving_home_lake_9bead381:

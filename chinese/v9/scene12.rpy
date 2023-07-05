@@ -4,13 +4,13 @@
 translate chinese v9_hallway_8378bc4d:
 
     # u "(Well that was really something, I guess. Who would have thought Mr. Lee's class could be anything more than a huge snorefest?)"
-    u "(我想这真的很了不起。谁能想到李老师的课上还会闹得这么大？)"
+    u "(我想这真的很了不起。谁能想到李先生的课上还能玩儿得这么大？)"
 
 # game/v9/scene12.rpy:23
 translate chinese v9_hallway_9506aaa6:
 
     # u "(Ohhh goddamn, honey why are you so hot?)"
-    u "(哦，该死的，亲爱的，你为什么这么性感？)"
+    u "(噢，该死的，亲爱的，你为什么这么性感？)"
 
 # game/v9/scene12.rpy:38
 translate chinese v9_hallway_d270ea8a:
@@ -100,19 +100,19 @@ translate chinese v9_hall_punch_b489be0d:
 translate chinese v9_hall_punch_d09ddd7f:
 
     # u "Oh sorry, that was a punch. Didn't catch that? Oh, okay, here!"
-    u "哦，对不起，那是一拳。没听懂吗？哦，好的，再来！"
+    u "噢，对不起，那是一拳。没听懂吗？噢，好的，再来！"
 
 # game/v9/scene12.rpy:157
 translate chinese v9_hall_punch_0ba5ded9:
 
     # u "How about that? Had enough?"
-    u "那怎么样？受够了？"
+    u "那怎么样？舒服了？"
 
 # game/v9/scene12.rpy:162
 translate chinese v9_hall_punch_012e4bb1:
 
     # unknown "Think he's had enough?"
-    unknown "那怎么样？受够了？"
+    unknown "我觉得他受够了？"
 
 # game/v9/scene12.rpy:168
 translate chinese v9_hall_punch_032e9bf7:
@@ -154,7 +154,7 @@ translate chinese v9_hall_punch_2bfb8d77:
 translate chinese v9_hall_punch_27fff20b:
 
     # unknown "I was told to give you this. *Sigh*"
-    unknown "我被告知给你这个。 *叹息*"
+    unknown "有人让我给你这个。 *叹息*"
 
 # game/v9/scene12.rpy:218
 translate chinese v9_hall_punch_b36d0796:
@@ -190,7 +190,7 @@ translate chinese v9_hall_no_punch_0e1458fc:
 translate chinese v9_hall_no_punch_538b62a3:
 
     # u "(Shit.)"
-    u "(妈的。)"
+    u "(糟了。)"
 
 # game/v9/scene12.rpy:268
 translate chinese v9_hall_no_punch_1c7e7f5d:
@@ -274,7 +274,7 @@ translate chinese v9_hall_no_punch_8e69b575:
 translate chinese v9_hall_no_punch_bb86491f:
 
     # li "The bleeding should stop in the next few minutes."
-    li "出血应该在接下来的几分钟内停止。""
+    li "出血应该在接下来的几分钟内停止。"
 
 # game/v9/scene12.rpy:340
 translate chinese v9_hall_no_punch_42eaa55b:

@@ -28,7 +28,7 @@ translate chinese v9_room_fri_morn_db7a4e2e:
 translate chinese v9_room_fri_morn_f92a2101:
 
     # u "(Ms. Rose, did she get a divorce? And what does she mean return the favor? Guess I'll find out soon.)"
-    u "(罗斯女士，她离婚了吗？她报答我是什么意思？我想我很快就会知道了。)"
+    u "(罗斯女士，她离婚了吗？她要报答我是什么意思？我想我很快就会知道了。)"
 
 # game/v9/scene17.rpy:55
 translate chinese s17_PhoneContinueW_8e7cf5c5:

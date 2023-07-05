@@ -46,7 +46,7 @@ translate chinese v9_room_w_sam_2ed27bdb:
 translate chinese v9_room_w_sam_ad4a753d:
 
     # u "I'm all ears."
-    u "我洗耳恭听。"
+    u "洗耳恭听。"
 
 # game/v9/scene22.rpy:67
 translate chinese v9_room_w_sam_1a395c96:
@@ -82,7 +82,7 @@ translate chinese v9_room_w_sam_d517fdcd:
 translate chinese v9_room_w_sam_8aefe0ce:
 
     # u "I bet!"
-    u "我打赌！"
+    u "我猜就是！"
 
 # game/v9/scene22.rpy:98
 translate chinese v9_room_w_sam_2a57e47b:
@@ -94,13 +94,13 @@ translate chinese v9_room_w_sam_2a57e47b:
 translate chinese v9_room_w_sam_0597bc30:
 
     # u "What? No. Don't apologize. We all have our drama. You wouldn't believe some of the stuff that's happened in my life."
-    u "怎么啦？不。不要道歉。我们都有自己的过往。你不会相信我生命中发生的一些事情。"
+    u "怎么啦？不。不用道歉。我们都有自己的过往。你不会相信我生命中发生的一些事情的。"
 
 # game/v9/scene22.rpy:108
 translate chinese v9_room_w_sam_d5da08f1:
 
     # sa "I know, but sometimes Cameron can really be a... well, an Ape!"
-    sa "我知道，但有时卡梅隆真的是个……嗯，一只猿猴！"
+    sa "我知道，但有时卡梅隆真的是个……嗯，一只猿人！"
 
 # game/v9/scene22.rpy:113
 translate chinese v9_room_w_sam_92c85fde:
@@ -124,7 +124,7 @@ translate chinese v9_room_w_sam_d9b88ad4:
 translate chinese v9_room_w_sam_c9c0ae1d:
 
     # sa "Oh."
-    sa "哦。"
+    sa "噢。"
 
 # game/v9/scene22.rpy:135
 translate chinese v9_room_w_sam_2c3ba812:
@@ -172,13 +172,13 @@ translate chinese v9_room_w_sam_a77a999a:
 translate chinese v9_room_w_sam_d4438015:
 
     # u "Maybe not everyone has gone through your troubles, but plenty have... and they've come back from it just fine."
-    u "也许不是每个人都经历了你的烦恼,但是很多……他们已经恢复得很好了。"
+    u "也许不是每个人都经历了你的烦恼，但是很多……他们已经过去了。"
 
 # game/v9/scene22.rpy:175
 translate chinese v9_room_w_sam_4353ec6b:
 
     # sa "You think?"
-    sa "你真的认为？"
+    sa "你真这么想？"
 
 # game/v9/scene22.rpy:180
 translate chinese v9_room_w_sam_0eb231c0:
@@ -232,7 +232,7 @@ translate chinese v9_room_w_sam_4107f913:
 translate chinese v9_room_w_sam_4eef97cd:
 
     # u "Aww, you're welcome. Apes gotta stick together, you know. And that includes you now."
-    u "哦，不客气。狂猿必须团结在一起，你知道的。现在也包括你。"
+    u "哦，不客气。兄弟齐心，其力断金，你知道的。现在也包括你。"
 
 # game/v9/scene22.rpy:230
 translate chinese v9_room_w_sam_8aea6a47:
@@ -256,25 +256,25 @@ translate chinese v9_room_w_sam_ecb9a328:
 translate chinese v9_room_w_sam_3a8a4cad:
 
     # u "And you won't be. I can see it in your eyes. You're strong. You've got this. And you've got us now, too."
-    u "你也不会是。我能从你的眼睛里看出来。你很坚强。你做到了。我们都做到了。"
+    u "你也不会是。我能从你的眼睛里看出来。你很坚强。你能行的。我们都能行的。"
 
 # game/v9/scene22.rpy:250
 translate chinese v9_room_w_sam_90b89bd2:
 
     # sa "Thanks. That means a lot."
-    sa "谢了。那意义重大。"
+    sa "谢了。那对我意义重大。"
 
 # game/v9/scene22.rpy:255
 translate chinese v9_room_w_sam_acfb3160:
 
     # sa "Alright, enough of that! I think I need some fresh air. You should come with me."
-    sa "好了，够了！我想我需要一些新鲜空气。你应该跟我走。"
+    sa "好了，够了！我想我需要一些新鲜空气。你应该跟我一起。"
 
 # game/v9/scene22.rpy:260
 translate chinese v9_room_w_sam_aaeaf486_1:
 
     # u "Sure!"
-    u "当然可以！"
+    u "好的！"
 
 translate chinese strings:
 

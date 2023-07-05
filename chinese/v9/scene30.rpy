@@ -4,19 +4,19 @@
 translate chinese v9_satmorn_gfb_walk_56a4ff13:
 
     # no "Oh wow, I'm sorry."
-    no "哦哇，对不起。"
+    no "噢，哇，抱歉。"
 
 # game/v9/scene30.rpy:20
 translate chinese v9_satmorn_gfb_walk_7034d01f:
 
     # u "*Laugh* You're sorry? I'm the one that was staring into the sun. Are you okay?"
-    u "*笑* 你很抱歉？我是那个盯着太阳的人。你没事吧？"
+    u "*笑* 你很抱歉？我是那个背对着太阳的人。你没事吧？"
 
 # game/v9/scene30.rpy:24
 translate chinese v9_satmorn_gfb_walk_4082d784:
 
     # no "Wow..."
-    no "哇哦……"
+    no "哇噢……"
 
 # game/v9/scene30.rpy:28
 translate chinese v9_satmorn_gfb_walk_f0a1515b:
@@ -52,7 +52,7 @@ translate chinese v9_satmorn_gfb_walk_03ec58b8:
 translate chinese v9_satmorn_gfb_walk_c770390b:
 
     # no "Hahaha. You can say that again. I may not be as good of company as your mom, but I'll join you for breakfast."
-    no "哈哈哈。你可以再说一遍。我可能不如你妈妈好，但我会和你一起吃早餐。"
+    no "哈哈哈。你可以再说一遍。我可能不如你妈妈好，但我会和你一起吃早餐的。"
 
 # game/v9/scene30.rpy:53
 translate chinese v9_satmorn_gfb_walk_80e861a6:

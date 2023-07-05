@@ -214,7 +214,7 @@ translate chinese v9_lau_dorm_3b542673:
 translate chinese v9_lau_dorm_b84edcab:
 
     # u "Wow! That I gotta see!"
-    u "哇哦！我得看看！"
+    u "哇噢！我得看看！"
 
 # game/v9/scene19.rpy:232
 translate chinese v9_lau_dorm_081ef80c:
@@ -250,25 +250,25 @@ translate chinese v9_lau_dorm_4b086a50:
 translate chinese v9_lau_dorm_fa478350:
 
     # u "How about a hand job booth?"
-    u ""一个手工品摊位怎么样？"
+    u "一个帮人打飞机的摊位怎么样？"
 
 # game/v9/scene19.rpy:263
 translate chinese v9_lau_dorm_b5a78e4d:
 
     # u "Everyone but you, of course."
-    u "当然，除了你。"
+    u "当然，你不用动手。"
 
 # game/v9/scene19.rpy:268
 translate chinese v9_lau_dorm_f6595565:
 
     # la "You want me to run a booth of hand jobs and not participate?"
-    la "你想让我经营一个手工摊位而不参与？"
+    la "你想让我经营一个打飞机的摊位而不参与？"
 
 # game/v9/scene19.rpy:273
 translate chinese v9_lau_dorm_c272cb46:
 
     # u "Oh, you can participate! I'll just buy all the tickets myself. Problem solved."
-    u "哦，你可以参加！我自己买所有的票。问题解决了。"
+    u "噢，你可以参与！我自己买下所有的票。问题解决了。"
 
 # game/v9/scene19.rpy:278
 translate chinese v9_lau_dorm_9ccb934b:
@@ -298,19 +298,19 @@ translate chinese v9_lau_dorm_1bf547b6:
 translate chinese v9_lau_dorm_5a1c2584:
 
     # la "Let's put that one on the back burner."
-    la "那件事先放一放。"
+    la "那事儿先放一放。"
 
 # game/v9/scene19.rpy:301
 translate chinese v9_lau_dorm_438cdf47:
 
     # u "I wonder where we could get a hot air balloon on short notice."
-    u "我想知道我们在哪里可以买到热气球。"
+    u "我想知道在短时间内我们在哪里可以进货大量的套套。"
 
 # game/v9/scene19.rpy:306
 translate chinese v9_lau_dorm_d07f6684:
 
     # la "Liability."
-    la "责任。"
+    la "认真点儿。"
 
 # game/v9/scene19.rpy:312
 translate chinese v9_lau_dorm_b7e5e943:
@@ -346,31 +346,31 @@ translate chinese v9_lau_dorm_cebbce50:
 translate chinese v9_lau_dorm_a3251769:
 
     # u "Well, I keep thinking about the old bake sales we always had at school. But then, I also saw a living statue in the park and that was pretty awesome."
-    u "嗯，我一直在想我们在学校总是有的旧烘焙销售。但后来，我还在公园里看到了一尊活生生的雕像，那真是太棒了。"
+    u "嗯，我一直在想我们在学校时总是有传统手工烘焙销售。但后来，我还在公园里看到了一尊活生生的雕像，那真是太棒了。"
 
 # game/v9/scene19.rpy:340
 translate chinese v9_lau_dorm_ad2b6e35:
 
     # la "Oh, yeah. Cakes are a classic at charity events. But the living statue does sound like it would draw a crowd. I don't know. What would you do if it were your booth?"
-    la "哦，是的。蛋糕是慈善活动中的经典。但活生生的雕像听起来确实会吸引一群人。我不知道。如果是你的摊位你会怎么做？"
+    la "噢，是的。蛋糕是慈善活动中的经典。但活生生的雕像听起来确实会吸引一群人。我不知道。如果是你的摊位你会怎么做？"
 
 # game/v9/scene19.rpy:347
 translate chinese v9_lau_dorm_6d3dc536:
 
     # u "Why don't we keep it simple and bake some cakes?"
-    u "我们为什么不简单点，烤点蛋糕呢？"
+    u "我们为什么不简单点，烤点儿蛋糕怎么样？"
 
 # game/v9/scene19.rpy:352
 translate chinese v9_lau_dorm_98c63c96:
 
     # la "Great. Can't go wrong with food and drinks."
-    la "太好了。食物和饮料也都不能出错。"
+    la "太好了。食物和饮料也都不会出错的。"
 
 # game/v9/scene19.rpy:357
 translate chinese v9_lau_dorm_88649ca1:
 
     # u "Yeah... but man, the more I think about that statue."
-    u "是啊……但伙计，我越想那座雕像。"
+    u "是啊……但伙计，我更想那座雕像。"
 
 # game/v9/scene19.rpy:362
 translate chinese v9_lau_dorm_8b365be2:
@@ -484,7 +484,7 @@ translate chinese v9_lau_dorm_f7f2d700:
 translate chinese v9_lau_dorm_dab64db5:
 
     # u "Oooh, I wonder if we can get a rotating base."
-    u "哦，我想知道我们能不能得到一个旋转的底座。"
+    u "噢，我想知道我们能不能得到一个旋转的底座。"
 
 # game/v9/scene19.rpy:469
 translate chinese v9_lau_dorm_00375ea7:
@@ -668,7 +668,7 @@ translate chinese strings:
 
     # game/v9/scene19.rpy:225
     old "Be impressed"
-    new "印象深刻"
+    new "深受感动"
 
     # game/v9/scene19.rpy:225
     old "Support Lauren"

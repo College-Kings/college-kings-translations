@@ -4,19 +4,19 @@
 translate chinese v9_warehouse_lindsey_95bc6014:
 
     # u "(I need a breather. I should go see what this lineup looks like. Prepare myself for the night.)"
-    u "(我需要喘口气。我应该去看看这个阵容是什么样子的。为今晚做好准备。)"
+    u "(我需要喘口气。我应该去看看这个阵容是什么样子的。好为今晚做好准备。)"
 
 # game/v9/scene44.rpy:23
 translate chinese v9_warehouse_lindsey_91786a3f:
 
     # u "Oh, Linds! Hey!"
-    u "哦，林！嘿！"
+    u "噢，林！嘿！"
 
 # game/v9/scene44.rpy:25
 translate chinese v9_warehouse_lindsey_c073d6a2:
 
     # u "You alright? Sorry, I was distracted."
-    u "你没事吧？对不起，我分心了。"
+    u "你没事儿吧？对不起，我分心了。"
 
 # game/v9/scene44.rpy:30
 translate chinese v9_warehouse_lindsey_3257e18e:
@@ -28,7 +28,7 @@ translate chinese v9_warehouse_lindsey_3257e18e:
 translate chinese v9_warehouse_lindsey_bc81aa97:
 
     # u "(Uh oh.)"
-    u "(呃哦。)"
+    u "(呃，噢。)"
 
 # game/v9/scene44.rpy:37
 translate chinese v9_warehouse_lindsey_8305750e:
@@ -40,13 +40,13 @@ translate chinese v9_warehouse_lindsey_8305750e:
 translate chinese v9_warehouse_lindsey_34a3483f:
 
     # li "I'm here with some friends."
-    li "我和几个朋友在这里。"
+    li "我和几个朋友来这里。"
 
 # game/v9/scene44.rpy:47
 translate chinese v9_warehouse_lindsey_90a019df:
 
     # u "Oh, yes of course."
-    u "哦，是的。当然。"
+    u "噢，好吧。当然。"
 
 # game/v9/scene44.rpy:56
 translate chinese v9_warehouse_lindsey_d5b89701:
@@ -58,13 +58,13 @@ translate chinese v9_warehouse_lindsey_d5b89701:
 translate chinese v9_warehouse_lindsey_9e74907e:
 
     # u "I just wanted to say I'm sorry for not coming over. I've been so distracted with this fight. It's really gotten in my head."
-    u "我只是想说很抱歉没过来。这场比赛让我心烦意乱。这真的让我心烦意乱。"
+    u "我只是想说很抱歉没过去。这场比赛让我心烦意乱。这真的让我心烦意乱。"
 
 # game/v9/scene44.rpy:71
 translate chinese v9_warehouse_lindsey_80023ecf:
 
     # li "Yeah, it's a lot bigger deal than I expected."
-    li "好吧，比我预想的要大得多。"
+    li "好吧，比我预想的要重要得多。"
 
 # game/v9/scene44.rpy:76
 translate chinese v9_warehouse_lindsey_58bb3900:
@@ -82,7 +82,7 @@ translate chinese v9_warehouse_lindsey_b60e9ba0:
 translate chinese v9_warehouse_lindsey_133af279:
 
     # u "Yes, of course. Can I text you later?"
-    u "是的，当然。我可以晚点发短信给你吗？"
+    u "好的，当然。我可以晚点发短信给你吗？"
 
 # game/v9/scene44.rpy:91
 translate chinese v9_warehouse_lindsey_1b6ab66c:
@@ -100,25 +100,25 @@ translate chinese v9_warehouse_lindsey_e786f86a:
 translate chinese v9_warehouse_lindsey_9528eb33:
 
     # u "Oh, shit! Hey! Are you alright?"
-    u "哦，妈的！嘿！你没事吧？"
+    u "噢，该死的！嘿！你没事儿吧？"
 
 # game/v9/scene44.rpy:108
 translate chinese v9_warehouse_lindsey_5e3c75d3:
 
     # li "Wow you were on another planet there."
-    li "哇，你在另一个星球上。"
+    li "哇，你看起来很奇怪。"
 
 # game/v9/scene44.rpy:113
 translate chinese v9_warehouse_lindsey_388da7d4:
 
     # u "Yeah, sorry. You sure you're alright?"
-    u "是啊，对不起。你确定你没事？"
+    u "好吧，抱歉。你确定你没事儿？"
 
 # game/v9/scene44.rpy:118
 translate chinese v9_warehouse_lindsey_44e798c3:
 
     # li "If you slam into me that hard later tonight I will be."
-    li "如果今晚晚些时候你这么狠狠地揍我，我会的。"
+    li "如果今晚晚些时候你也这么狠狠地揍我的话，我会的。"
 
 # game/v9/scene44.rpy:123
 translate chinese v9_warehouse_lindsey_d76a6b17:
@@ -136,7 +136,7 @@ translate chinese v9_warehouse_lindsey_a18f046f:
 translate chinese v9_warehouse_lindsey_223965ec:
 
     # u "Aww, don't worry. No cold feet here. You're just very hard to resist."
-    u "哦，别担心。这里没有临阵退缩。你真是让人难以抗拒。"
+    u "噢，别担心。这里没有临阵退缩。你真是让人难以抗拒。"
 
 # game/v9/scene44.rpy:147
 translate chinese v9_warehouse_lindsey_f8d38387:
@@ -208,7 +208,7 @@ translate chinese v9_warehouse_lindsey_b23bcd00:
 translate chinese v9_warehouse_lindsey_05e8f70d:
 
     # u "Oh, really?"
-    u "哦，真的吗？"
+    u "噢，真的吗？"
 
 # game/v9/scene44.rpy:207
 translate chinese v9_warehouse_lindsey_a6c21403:
@@ -232,7 +232,7 @@ translate chinese v9_warehouse_lindsey_71339c69:
 translate chinese v9_warehouse_lindsey_85413aa4:
 
     # u "You gonna nurse me back to health if I lose?"
-    u "如果我输了你会照顾我恢复健康吗？"
+    u "如果我输了你会照顾我直到恢复健康吗？"
 
 # game/v9/scene44.rpy:227
 translate chinese v9_warehouse_lindsey_015f764c:
@@ -286,7 +286,7 @@ translate chinese v9_warehouse_lindsey_822b8242:
 translate chinese v9_warehouse_lindsey_0b80707c:
 
     # u "Oh, hey! You alright? Sorry about that."
-    u "哦，嘿！你没事吧？真对不起。"
+    u "噢，嘿！你没事吧？真对不起。"
 
 # game/v9/scene44.rpy:263
 translate chinese v9_warehouse_lindsey_885cac4f:

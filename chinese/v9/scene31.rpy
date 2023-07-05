@@ -16,7 +16,7 @@ translate chinese v9_sat_cafe_w_nora_67cd3695:
 translate chinese v9_sat_cafe_w_nora_92966436:
 
     # no "Do you really have to ask? We spent a lot of time together when we first started dating, but now it's like I'm second to the Wolves. And I know I shouldn't be jealous, but in a way I am. Like, if you have all this passion, love and attention to give, can some come my way?"
-    no "你真的要问吗？刚开始约会的时候我们经常在一起，但现在我好像仅次于狼队。我知道我不应该嫉妒，但在某种程度上我确实嫉妒了。比如，如果你有所有的热情、爱和关注，但能给我一些吗？"
+    no "你真的要问吗？刚开始约会的时候我们经常在一起，但现在我好像仅次于狼人。我知道我不应该嫉妒，但在某种程度上我确实嫉妒了。比如，如果你有所有的热情、爱和关注，但能给我一些吗？"
 
 # game/v9/scene31.rpy:37
 translate chinese v9_sat_cafe_w_nora_f7ecc16b:
@@ -40,7 +40,7 @@ translate chinese v9_sat_cafe_w_nora_c8e4e4ad:
 translate chinese v9_sat_cafe_w_nora_1ab526a2:
 
     # waiter "Good morning, what can I get for the couple?"
-    waiter "早上好，我能为这对夫妇做点什么？"
+    waiter "早上好，我能为这对夫妇做点儿什么？"
 
 # game/v9/scene31.rpy:61
 translate chinese v9_sat_cafe_w_nora_44c25675:
@@ -52,7 +52,7 @@ translate chinese v9_sat_cafe_w_nora_44c25675:
 translate chinese v9_sat_cafe_w_nora_3c8f81cb:
 
     # waiter "Ahhh okay, what will you be having today?"
-    waiter "啊，好吧，你们今天要吃什么？"
+    waiter "啊，好吧，二位今天想吃点儿什么？"
 
 # game/v9/scene31.rpy:71
 translate chinese v9_sat_cafe_w_nora_2027a26c:
@@ -64,19 +64,19 @@ translate chinese v9_sat_cafe_w_nora_2027a26c:
 translate chinese v9_sat_cafe_w_nora_3bfd1c84:
 
     # no "It's going great! We almost have everything we need. I'm thinking about seeing if we can get a bit more involvement from the houses. I mentioned it to Chris, but he only said \"we'll get to that later\". It means a lot to me that you've taken an interest."
-    no "一切都很顺利！我们需要的东西几乎都有了。我想看看能不能让其他兄弟会多参与一点。我向克里斯提起这件事，但他只说\"我们以后再谈\"。你能关心我，对我意义重大。"
+    no "一切都很顺利！我们需要的东西几乎都有了。我想看看能不能让其他兄弟会多参与一点。我向克里斯提起这件事，但他只说\"我们以后再谈吧\"。你能关心我，对我意义重大。"
 
 # game/v9/scene31.rpy:80
 translate chinese v9_sat_cafe_w_nora_6208327c:
 
     # no "It's going pretty good. Checking something off the list everyday."
-    no "进展得很顺利。每天检查清单上的东西。"
+    no "进展得很顺利。每天都检查清单上的东西。"
 
 # game/v9/scene31.rpy:85
 translate chinese v9_sat_cafe_w_nora_97e99bbf:
 
     # u "Well I'm glad to hear it's all coming together."
-    u "我很高兴听到一切都顺利了。"
+    u "我很高兴听到一切都顺利。"
 
 # game/v9/scene31.rpy:90
 translate chinese v9_sat_cafe_w_nora_20c7b874:
@@ -118,19 +118,19 @@ translate chinese v9_sat_cafe_w_nora_2027a26c_1:
 translate chinese v9_sat_cafe_w_nora_3bfd1c84_1:
 
     # no "It's going great! We almost have everything we need. I'm thinking about seeing if we can get a bit more involvement from the houses. I mentioned it to Chris, but he only said \"we'll get to that later\". It means a lot to me that you've taken an interest."
-    no "一切都很顺利！我们需要的东西几乎都有了。我想看看能不能让其他兄弟会多参与一点。我向克里斯提起这件事，但他只说\"我们以后再谈\"。你能关心我，对我意义重大。"
+    no "一切都很顺利！我们需要的东西几乎都有了。我想看看能不能让其他兄弟会多参与一点。我向克里斯提起这件事，但他只说\"我们以后再谈吧\"。你能关心我，对我意义重大。"
 
 # game/v9/scene31.rpy:135
 translate chinese v9_sat_cafe_w_nora_6208327c_1:
 
     # no "It's going pretty good. Checking something off the list everyday."
-    no "进展得很顺利。每天检查清单上的东西。"
+    no "进展得很顺利。每天都检查清单上的东西。"
 
 # game/v9/scene31.rpy:140
 translate chinese v9_sat_cafe_w_nora_97e99bbf_1:
 
     # u "Well I'm glad to hear it's all coming together."
-    u "我很高兴听到一切都顺利了。"
+    u "我很高兴听到一切都顺利。"
 
 # game/v9/scene31.rpy:145
 translate chinese v9_sat_cafe_w_nora_20c7b874_1:
@@ -178,7 +178,7 @@ translate chinese v9_sat_cafe_c68fb736:
 translate chinese v9_sat_cafe_68ef14fe:
 
     # unknown "Hey, sorry but you're the guy that punched that other guy on Kiwii right?"
-    unknown "嘿，对不起，但你就是那个在圈子上打另一个人的人，对吧？"
+    unknown "嘿，对不起，但你就是那个在猕猴桃上打另一个人的人，对吧？"
 
 # game/v9/scene31.rpy:200
 translate chinese v9_sat_cafe_7720a2b5:
@@ -214,19 +214,19 @@ translate chinese v9_sat_cafe_d653b00c:
 translate chinese v9_sat_cafe_8b513a1b:
 
     # unknown "You're the guy that got his ass kicked on Kiwii right?"
-    unknown "你就是那个在圈子上被揍扁的人，对吧？"
+    unknown "你就是那个在猕猴桃上被揍扁的人，对吧？"
 
 # game/v9/scene31.rpy:231
 translate chinese v9_sat_cafe_9678d4dc:
 
     # u "Well I wouldn't say I got my ass kicked, but yeah."
-    u "我不会说我被揍扁了，但是的。"
+    u "我不想说我被揍扁了，但，是的。"
 
 # game/v9/scene31.rpy:236
 translate chinese v9_sat_cafe_cb76e0dd:
 
     # unknown "Well everyone else would call it getting your ass kicked, including me."
-    unknown "其他人都会叫你被揍扁了，包括我。"
+    unknown "其他人都认为你被揍扁了，包括我。"
 
 # game/v9/scene31.rpy:241
 translate chinese v9_sat_cafe_67e48a73:

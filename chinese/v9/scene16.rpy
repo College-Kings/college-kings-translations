@@ -418,7 +418,7 @@ translate chinese v9_emily_dorm_6b7337c2:
 translate chinese v9_emily_dorm_b87c2079:
 
     # u "Oh God. I've missed this."
-    u "哦，上帝。我很想念这个。"
+    u "噢，上帝。我很想念这个。"
 
 # game/v9/scene16.rpy:511
 translate chinese v9_emily_dorm_0d02ac7c:
@@ -448,7 +448,7 @@ translate chinese v9s16_emilyBlowjob_6887d8ba:
 translate chinese v9s16_emilyBlowjob_8d78e67c:
 
     # u "Oh wowwww!"
-    u "哦---!"
+    u "噢---!"
 
 # game/v9/scene16.rpy:544
 translate chinese v9s16_emilyBlowjob_f6c1daed:
@@ -526,7 +526,7 @@ translate chinese v9s16_emilyMissionary_5bf6ee4f:
 translate chinese v9s16_emilyMissionary_ab26321c:
 
     # em "*Moans Louder* Oh god [name] you're so fucking goooood!!"
-    em "*呻吟得更大声* 哦，上帝啊，[name]你真他妈的厉害！！"
+    em "*呻吟得更大声* 噢，上帝啊，[name]你真他妈的厉害！！"
 
 # game/v9/scene16.rpy:631
 translate chinese v9s16_emilyMissionary_47c91c6a:
@@ -622,7 +622,7 @@ translate chinese v9s16_emilyCowgirl_2ca9fab5:
 translate chinese v9s16_emilyDoggy_e5a034a1:
 
     # em "OH FUUUCK!!"
-    em "哦，操！！"
+    em "噢，操！！"
 
 # game/v9/scene16.rpy:726
 translate chinese v9s16_emilyDoggy_ce9c66f6:
@@ -634,7 +634,7 @@ translate chinese v9s16_emilyDoggy_ce9c66f6:
 translate chinese v9s16_emilyDoggy_2f8cbcf8:
 
     # em "Oh, wow. Oh my God."
-    em "哦，哇哦。天啊。"
+    em "噢，哇噢。天啊。"
 
 # game/v9/scene16.rpy:728
 translate chinese v9s16_emilyDoggy_e0748244:
@@ -652,7 +652,7 @@ translate chinese v9s16_emilyDoggy_37ac908f:
 translate chinese v9s16_emilyDoggy_1f16eef6:
 
     # em "*Moans* Ohhh. Now. Now!"
-    em "*呻吟* 哦。现在。现在！"
+    em "*呻吟* 噢。现在。现在！"
 
 # game/v9/scene16.rpy:736
 translate chinese v9s16_emilyDoggy_73119390:
@@ -790,11 +790,11 @@ translate chinese strings:
 
     # game/v9/scene16.rpy:9
     old "I see you're still riding high from that fight"
-    new "我看你还在战斗中高歌猛进"
+    new "我看你还在为那场战斗回味无穷呢"
 
     # game/v9/scene16.rpy:10
     old "Maybe a little. But I'm still happy you texted"
-    new "也许有一点。但我还是很高兴你给我发短信"
+    new "也许有一点儿。但我还是很高兴你给我发了短信"
 
     # game/v9/scene16.rpy:11
     old "I just wanted to say goodnight... and I was thinking about you"
@@ -802,7 +802,7 @@ translate chinese strings:
 
     # game/v9/scene16.rpy:12
     old "I'll definitely be thinking about you now instead of sleeping ;)"
-    new "我现在肯定会想着你，而不是睡觉 ;)"
+    new "我现在也在想着你，而不是睡觉；)"
 
     # game/v9/scene16.rpy:13
     old "Can I text you before the Brawl?"
@@ -814,15 +814,15 @@ translate chinese strings:
 
     # game/v9/scene16.rpy:18
     old "Yeah, just wanted to say hi. I was thinking about you"
-    new "是啊，只是想打个招呼。我在想你"
+    new "好的，只是想打个招呼。我在想你"
 
     # game/v9/scene16.rpy:19
     old "Oooh, anything interesting? ;)"
-    new "哦，有什么有趣的吗？ ;)"
+    new "噢，有什么有趣的吗？；)"
 
     # game/v9/scene16.rpy:20
     old "A little ;)"
-    new "一点点 ;)"
+    new "一点点；)"
 
     # game/v9/scene16.rpy:21
     old "Do tell!"
@@ -846,11 +846,11 @@ translate chinese strings:
 
     # game/v9/scene16.rpy:28
     old "Oh? Anything fun?"
-    new "哦？有什么好玩的吗？"
+    new "噢？有什么好玩的吗？"
 
     # game/v9/scene16.rpy:29
     old "Maybe ;)"
-    new "也许 ;)"
+    new "也许；)"
 
     # game/v9/scene16.rpy:30
     old "I'd love to hear more"
@@ -866,7 +866,7 @@ translate chinese strings:
 
     # game/v9/scene16.rpy:33
     old "You're so sweet, goodnight :)"
-    new "你真贴心，晚安 :)"
+    new "你真贴心，晚安：)"
 
     # game/v9/scene16.rpy:37
     old "I just couldn't stop worrying about you"
@@ -894,7 +894,7 @@ translate chinese strings:
 
     # game/v9/scene16.rpy:43
     old "Great, goodnight :)"
-    new "太好了，晚安 :)"
+    new "太好了，晚安：)"
 
     # game/v9/scene16.rpy:48
     old "Be right there!"

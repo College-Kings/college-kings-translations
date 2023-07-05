@@ -4,7 +4,7 @@
 translate chinese room_wed_night_effd9593:
 
     # u "(Now this was not a bad day. I guess having fun like this is pretty cool too.)"
-    u "(今天不是糟糕的一天。我想像这样玩得开心也很酷。)"
+    u "(今天不是糟糕的一天。我想像这样玩得开心也很不错。)"
 
 # game/v9/scene09.rpy:24
 translate chinese room_wed_night_0095d73a:
@@ -52,7 +52,7 @@ translate chinese room_wed_night_4be08caa:
 translate chinese room_wed_night_effd9593_1:
 
     # u "(Now this was not a bad day. I guess having fun like this is pretty cool too.)"
-    u "(今天不是糟糕的一天。我想像这样玩得开心也很酷。)"
+    u "(今天不是糟糕的一天。我想像这样玩得开心也很不错。)"
 
 # game/v9/scene09.rpy:86
 translate chinese room_wed_night_0095d73a_1:
@@ -94,5 +94,5 @@ translate chinese room_wed_night_628f7fc6_1:
 translate chinese room_wed_night_4be08caa_1:
 
     # u "What?! Fuck! I'm gonna be late!"
-    u "什么？！操！我要迟到了！"
+    u "什么？！该死的！我要迟到了！"
 

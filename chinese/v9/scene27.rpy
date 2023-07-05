@@ -118,7 +118,7 @@ translate chinese v9_train_w_apes_acd9cc76:
 translate chinese v9_train_w_apes_781dd3fd:
 
     # ca "And you! How the fuck do you call yourself an Ape? Do you know how many people have seen you get your ass kicked? Right before the big fight? Could you be more stupid?"
-    ca "还有你！你他妈怎么叫自己猿猴？你知道有多少人见过你被踢屁股吗？就在大战之前？你能再蠢一点吗？"
+    ca "还有你！你他妈怎么叫自己猿人？你知道有多少人见过你被踢屁股吗？就在大战之前？你能再蠢一点吗？"
 
 # game/v9/scene27.rpy:131
 translate chinese v9_train_w_apes_c6e8a3b3:
@@ -154,7 +154,7 @@ translate chinese v9_train_w_apes_667562ba:
 translate chinese v9_train_w_apes_b6c55d53:
 
     # u "Yeah, I dropped that guy!"
-    u "是啊，我把那家伙摔了！"
+    u "好吧，我把那家伙摔了！"
 
 # game/v9/scene27.rpy:166
 translate chinese v9_train_w_apes_98c0e1b1:
@@ -280,13 +280,13 @@ translate chinese v9_train_w_apes_9bf261e4:
 translate chinese v9_train_w_apes_520929c1:
 
     # ca "Come on, man. We fight to win in this house. Are you an Ape or not?"
-    ca "来吧，伙计。我们在这所房子里为胜利而战。你到底是不是猿猴？"
+    ca "来吧，伙计。我们在这所房子里为胜利而战。你到底是不是猿人？"
 
 # game/v9/scene27.rpy:267
 translate chinese v9_train_w_apes_6d2019f8:
 
     # u "Of course!"
-    u "当然了！"
+    u "当然！"
 
 # game/v9/scene27.rpy:271
 translate chinese v9_train_w_apes_99f67875:
@@ -298,7 +298,7 @@ translate chinese v9_train_w_apes_99f67875:
 translate chinese v9_train_w_apes_4541d05a:
 
     # ca "Good! I'll be back after I whip these pussies into something resembling a man."
-    ca "好呀！我把这些娘们鞭策成像男人的东西后就回来了。"
+    ca "好呀！我把这些娘们鞭策成像男人的东西后就回来。"
 
 # game/v9/scene27.rpy:282
 translate chinese v9_train_w_apes_08fbf1be:
@@ -376,7 +376,7 @@ translate chinese v9_train_w_apes_83694a48:
 translate chinese v9_train_w_apes_1fdba394:
 
     # ca "If you were a Wolf and you knew your opponent was a pussy who got his ass knocked out, what would you be thinking?"
-    ca "如果你是一只狼，你知道你的对手是一个被打掉屁股的娘们，你会怎么想？"
+    ca "如果你是一只狼人，你知道你的对手是一个被打掉屁股的娘们，你会怎么想？"
 
 # game/v9/scene27.rpy:343
 translate chinese v9_train_w_apes_cbfa1a34:
@@ -430,7 +430,7 @@ translate chinese v9_train_w_apes_1ce9f99c:
 translate chinese v9_train_w_apes_b5515944:
 
     # u "Fuck no!"
-    u "他妈的不！"
+    u "噢，不！"
 
 # game/v9/scene27.rpy:407
 translate chinese v9_train_w_apes_79e7d75a:
@@ -472,7 +472,7 @@ translate chinese v9_train_w_apes_fe5d9856:
 translate chinese v9_train_w_apes_0da2bbca:
 
     # ca "Took you long enough. Good job. I thought you'd drop a long time ago. Puke or pass out. That's how you know you're done!"
-    ca "你花了足够长的时间。干得好。我早就以为你会掉下来。呕吐或昏倒。你就知道你完了！"
+    ca "你花了足够长的时间。干得好。我原以为你会掉下来。呕吐或昏倒。你就知道你完了！"
 
 translate chinese strings:
 
@@ -482,9 +482,9 @@ translate chinese strings:
 
     # game/v9/scene27.rpy:240
     old "Be pumped"
-    new "被抽中"
+    new "打鸡血"
 
     # game/v9/scene27.rpy:240
     old "Be concerned"
-    new "关心"
+    new "被关注"
 

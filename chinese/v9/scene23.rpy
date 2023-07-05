@@ -22,7 +22,7 @@ translate chinese v9_dinner_w_rose_40bf4081:
 translate chinese v9_dinner_w_rose_34863b8e:
 
     # ch "I'll have some water, if you don't mind."
-    ch "如果你不介意的话，我要一些水。"
+    ch "如果你不介意的话，我要一杯水。"
 
 # game/v9/scene23.rpy:47
 translate chinese v9_dinner_w_rose_595f9b39:

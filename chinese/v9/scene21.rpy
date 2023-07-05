@@ -40,7 +40,7 @@ translate chinese v9_room_w_chris_822e0947:
 translate chinese v9_room_w_chris_f333c62b:
 
     # u "Of course. I've been wondering how she's doing. What time?"
-    u "当然了。我一直在想她怎么样了。什么时候？"
+    u "好啊。我一直在想她怎么样了。什么时候？"
 
 # game/v9/scene21.rpy:59
 translate chinese v9_room_w_chris_fe91253a:
@@ -90,7 +90,7 @@ translate chinese strings:
 
     # game/v9/scene21.rpy:81
     old "Good! About to go have dinner with some of the guys in my house"
-    new "很好！准备和我宿舍的几个家伙一起吃晚饭"
+    new "很好！准备和我宿舍的几个家伙一起吃晚饭。"
 
     # game/v9/scene21.rpy:82
     old "I'm glad you're making friends, I'm so proud of you!"

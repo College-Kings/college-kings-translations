@@ -34,13 +34,13 @@ translate chinese v9_warehouse_josh_58ff7c89:
 translate chinese v9_warehouse_josh_7aa70210:
 
     # u "Wait really?"
-    u "等等真的吗？"
+    u "等等，真的吗？"
 
 # game/v9/scene43.rpy:47
 translate chinese v9_warehouse_josh_d1eeaa09:
 
     # jo "Yeah, it was kind of odd. Chris and Grayson came over to my place and asked if I'd do it. For some reason they thought I'd be good for it. I remember them using the word \"entertaining\"."
-    jo "是的，有点奇怪。克里斯和格雷森来到我家，问我是否愿意做这件事。出于某种原因，他们认为我会表现得很好。我记得他们用这个词\"娱乐性\"。"
+    jo "是的，有点奇怪。克里斯和格雷森来到我家，问我是否愿意做这件事。出于某种原因，他们认为我会表现得很好。我记得他们用了\"娱乐效果\"这个词。"
 
 # game/v9/scene43.rpy:52
 translate chinese v9_warehouse_josh_e5537ace:
@@ -88,7 +88,7 @@ translate chinese v9_warehouse_josh_6200b983:
 translate chinese v9_warehouse_josh_616c1dcc:
 
     # jo "Oh shit, that's my cue!"
-    jo "哦该死，那是我的提示！"
+    jo "噢，该死，那是我的提示！"
 
 # game/v9/scene43.rpy:94
 translate chinese v9_warehouse_josh_48c37a9e:
