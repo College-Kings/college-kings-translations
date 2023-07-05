@@ -22,7 +22,7 @@ translate chinese v11_aubrey_plane_sex_sg_110380f5:
 translate chinese v11_aubrey_plane_sex_sg_66ce95c6:
 
     # au "I don't see the reason for small talk. Pants off!"
-    au "我不明白为什么要寒暄。脱裤子！
+    au "我不明白为什么要寒暄。脱裤子！"
 
 # game/v11/scene13.rpy:106
 translate chinese v11_aubrey_plane_sex_sg_2c483de5:

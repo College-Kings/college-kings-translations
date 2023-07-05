@@ -280,7 +280,7 @@ translate chinese v12_amber_bus_ea56f5b2:
 translate chinese v12_amber_bus_707dcbae:
 
     # am "Never a reason not to."
-    am "从来没有理由不这么做。""
+    am "从来没有理由不这么做。"
 
 # game/v12/scene10.rpy:267
 translate chinese v12_amber_bus_73d483ce:

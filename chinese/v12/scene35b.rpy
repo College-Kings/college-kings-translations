@@ -172,7 +172,7 @@ translate chinese v12_game_roommate_9139e924:
 translate chinese v12_game_roommate_741da010:
 
     # u "When did you start liking games?"
-    u "你什么时候开始喜欢游戏的？""
+    u "你什么时候开始喜欢游戏的？"
 
 # game/v12/scene35b.rpy:165
 translate chinese v12_game_roommate_a8c2f154:

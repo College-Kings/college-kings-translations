@@ -3316,7 +3316,7 @@ translate espanol v1_caughtContinue_59523f30:
 translate espanol v1_caughtContinue_fccb15df:
 
     # au "I'm gonna leave, I guess I'll see you around."
-    au "Me voy a ir, supongo que nos veremos.
+    au "Me voy a ir, supongo que nos veremos."
 
 # game/v2/v2.rpy:3739
 translate espanol v1_caughtContinue_6684c9a9:

@@ -316,7 +316,7 @@ translate chinese v11_roommate_48c99239:
 translate chinese v11_roommate_9618aedf:
 
     # ri "Most guys would leap at an opportunity like that with her. But I guess you're not most guys."
-    ri "大多数男人都会欣然接受和她在一起的机会。但我猜你不属于大多数人。
+    ri "大多数男人都会欣然接受和她在一起的机会。但我猜你不属于大多数人。"
 
 # game/v11/scene19.rpy:439
 translate chinese v11_roommate_3bbdabbf:

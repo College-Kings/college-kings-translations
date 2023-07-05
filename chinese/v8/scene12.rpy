@@ -364,7 +364,7 @@ translate chinese apes_join_ceremony_c1f7137f_3:
 translate chinese apes_join_ceremony_bd4677fa_2:
 
     # sam "Hah! Of course he did great. This guy was planning to join us even before coming to San Vallejo."
-    sam "哈！他当然做得很好。这家伙甚至在来圣瓦列霍之前就计划加入我们了。""
+    sam "哈！他当然做得很好。这家伙甚至在来圣瓦列霍之前就计划加入我们了。"
 
 # game/v8/scene12.rpy:242
 translate chinese apes_join_ceremony_bf6ec079_1:
@@ -616,7 +616,7 @@ translate chinese apes_faceoff_task_99112020:
 translate chinese apes_faceoff_task_99406695:
 
     # coop "That was ballsy dude, well done."
-    coop "太有胆量了，干得好。""
+    coop "太有胆量了，干得好。"
 
 # game/v8/scene12.rpy:382
 translate chinese apes_faceoff_task_d346fc58:

@@ -118,7 +118,7 @@ translate chinese v13s8_e91eddb9:
 translate chinese v13s8_d5348ec1:
 
     # u "I understand not believing in cheating, so leave him then. You say that you know he's doing wrong by you, yet you're still wanting to do right by him and it's completely contradicting."
-    u "我理解不相信欺骗，那就别管他了。你说你知道他对你做得不对，但你仍然想对他做正确的事，这完全是自相矛盾的。""
+    u "我理解不相信欺骗，那就别管他了。你说你知道他对你做得不对，但你仍然想对他做正确的事，这完全是自相矛盾的。"
 
 # game/v13/scene8.rpy:150
 translate chinese v13s8_f1b98ea6:

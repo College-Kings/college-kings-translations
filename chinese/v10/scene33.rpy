@@ -688,7 +688,7 @@ translate chinese v10s33_aubrey1_7c39d4a3:
 translate chinese v10s33_aubrey1_e91f3b1f_3:
 
     # u "Hot."
-       u "火辣。"
+    u "火辣。"
 
 # game/v10/scene33.rpy:765
 translate chinese v10s33_aubrey1_8c2b5920:
@@ -3990,7 +3990,7 @@ translate chinese strings:
 
     # game/v10/scene33.rpy:423
     old "Make fun of Perry"
-    new "取笑佩里""
+    new "取笑佩里"
 
     # game/v10/scene33.rpy:423
     old "Encourage Perry"

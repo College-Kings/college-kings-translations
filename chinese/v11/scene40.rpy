@@ -916,7 +916,7 @@ translate chinese v11_carriage_ride_321dca36:
 translate chinese v11_carriage_ride_78f50b1a:
 
     # u "Look, you're right. Someone needs to do something and someone is."
-    u "听着，你说得对。有人需要做点什么，而有人正在做。""
+    u "听着，你说得对。有人需要做点什么，而有人正在做。"
 
 # game/v11/scene40.rpy:870
 translate chinese v11_carriage_ride_55a95016:

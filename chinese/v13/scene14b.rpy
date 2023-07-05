@@ -52,7 +52,7 @@ translate chinese v13s14b_e3e9d036:
 translate chinese v13s14b_91f2d630:
 
     # pe "Alright, just something simple though..."
-    pe "好吧，就简单来点儿……
+    pe "好吧，就简单来点儿……"
 
 # game/v13/scene14b.rpy:66
 translate chinese v13s14b_ed3a8c0e:

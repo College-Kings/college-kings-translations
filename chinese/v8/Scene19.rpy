@@ -212,7 +212,7 @@ translate chinese strings:
 
     # game/v8/Scene19.rpy:96
     old "What can I say? You're hot"
-    new "我能说什么呢？你很性感""
+    new "我能说什么呢？你很性感"
 
     # game/v8/Scene19.rpy:97
     old "You're pretty hot yourself and I'm... thinking about things"

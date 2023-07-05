@@ -190,7 +190,7 @@ translate chinese climb_the_hos_b3c44517:
 translate chinese watching_seb_climb_dc3b46f6:
 
     # u "I don't think I can do it."
-    u "我想我做不到。""
+    u "我想我做不到。"
 
 # game/v8/scene39.rpy:261
 translate chinese watching_seb_climb_4651a897:

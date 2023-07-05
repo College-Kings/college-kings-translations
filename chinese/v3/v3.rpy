@@ -70,7 +70,7 @@ translate chinese v3start_a3326c2c:
 translate chinese v3start_db66d353:
 
     # u "If you don't even like Grayson, why were you at his party?"
-    u "如果你那么不喜欢格雷森，为什么要参加他的派对？
+    u "如果你那么不喜欢格雷森，为什么要参加他的派对？"
 
 # game/v3/v3.rpy:72
 translate chinese v3start_87f53c76:
@@ -922,7 +922,7 @@ translate chinese cr_bd_549cbcb0:
 translate chinese cr_bd_6a54ad46:
 
     # imre "So, that's a ye-"
-    imre "所以，你的意思是-""
+    imre "所以，你的意思是-"
 
 # game/v3/v3.rpy:1027
 translate chinese cr_bd_460e63a3:

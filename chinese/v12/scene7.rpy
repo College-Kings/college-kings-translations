@@ -1834,7 +1834,7 @@ translate chinese v12s7_lauren1_869da1db:
 translate chinese v12s7_lauren1_912a7922:
 
     # u "Yeah uhm, I know you're mad right now but I gotta play the game so..."
-    u "嗯，我知道你现在很生气，但我得去玩游戏了，所以……""
+    u "嗯，我知道你现在很生气，但我得去玩游戏了，所以……"
 
 # game/v12/scene7.rpy:1757
 translate chinese v12s7_lauren1_fda23e9a:
@@ -2278,7 +2278,7 @@ translate chinese v12s7_ryan_imre1_76582d73:
 translate chinese v12s7_ryan_imre1_a9e5ae83:
 
     # imre "Yeah, we won't be going."
-    imre 好吧，我们不会去的。"
+    imre "好吧，我们不会去的。"
 
 # game/v12/scene7.rpy:2195
 translate chinese v12s7_ryan_imre1_85a4157e_1:
@@ -4414,7 +4414,7 @@ translate chinese v12s7_riley2_amber_b3432d46:
 translate chinese v12s7_riley2_amber_4dc7afec:
 
     # am "I wouldn't want to give you any false hope or lead you on though."
-    am "不过，我不想给你任何虚假的希望，也不想让你误入歧途。""
+    am "不过，我不想给你任何虚假的希望，也不想让你误入歧途。"
 
 # game/v12/scene7.rpy:4377
 translate chinese v12s7_riley2_amber_9ea1e8f9:

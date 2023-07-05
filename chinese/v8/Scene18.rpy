@@ -268,7 +268,7 @@ translate chinese sun_aft_cameron_113ca27f:
 translate chinese sun_aft_cameron_b99cbf27:
 
     # u "Hey, that's what Apes do. We stick together."
-    u "嘿，猿就是这么做的。我们团结在一起。""
+    u "嘿，猿就是这么做的。我们团结在一起。"
 
 # game/v8/Scene18.rpy:296
 translate chinese sun_aft_cameron_6d265d8a:

@@ -250,7 +250,7 @@ translate chinese v9_lau_dorm_4b086a50:
 translate chinese v9_lau_dorm_fa478350:
 
     # u "How about a hand job booth?"
-    u ""一个手工品摊位怎么样？"
+    u "一个手工品摊位怎么样？"
 
 # game/v9/scene19.rpy:263
 translate chinese v9_lau_dorm_b5a78e4d:

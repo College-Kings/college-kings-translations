@@ -1144,7 +1144,7 @@ translate chinese hd_ad_637ee0cb:
 translate chinese hd_ad_ac1dcb27:
 
     # ri "35."
-    ri "35。
+    ri "35。"
 
 # game/v7/v7.rpy:1033
 translate chinese hd_ad_c0139a90:
@@ -3562,7 +3562,7 @@ translate chinese afterbeach_79394b04:
 translate chinese afterbeach_4f9b9695:
 
     # u "(Wolves pledging starts soon... is it stupid of me to wanna pledge now? I didn't think frat life was for me...)"
-    u "(狼人的入会仪式很快就开始了……我现在想入会是愚蠢的吗？我不认为兄弟会的生活适合我……)
+    u "(狼人的入会仪式很快就开始了……我现在想入会是愚蠢的吗？我不认为兄弟会的生活适合我……)"
 
 # game/v7/v7.rpy:3453
 translate chinese afterbeach_9cf51854:
@@ -13708,7 +13708,7 @@ translate chinese fr4laurendate_5e863585:
 translate chinese fr4laurendate_5be0576c:
 
     # "*Crowd cheers and applauds*"
-    "*人群的欢呼和掌声*""
+    "*人群的欢呼和掌声*"
 
 # game/v7/v7.rpy:13177
 translate chinese fr4laurendate_64812212:
@@ -13840,7 +13840,7 @@ translate chinese fr4laurendatechloe_96e11444:
 translate chinese fr4laurendatechloe_ef2f1671:
 
     # u "What?"
-    u "什么？""
+    u "什么？"
 
 # game/v7/v7.rpy:13294
 translate chinese fr4laurendatechloe_5ed3c56a:
@@ -14026,7 +14026,7 @@ translate chinese fr4penelopedate_df5cfe33:
 translate chinese fr4penelopedate_5be0576c_2:
 
     # "*Crowd cheers and applauds*"
-    "*人群的欢呼和掌声*""
+    "*人群的欢呼和掌声*"
 
 # game/v7/v7.rpy:13453
 translate chinese fr4penelopedate_293323ae:
@@ -14356,7 +14356,7 @@ translate chinese fr4penelopedatechloe_dd08308d:
 translate chinese fr4penelopedatechloe_abf72f6f:
 
     # u "Uhm... now?"
-    u "嗯……现在？
+    u "嗯……现在？"
 
 # game/v7/v7.rpy:13781
 translate chinese fr4penelopedatechloe_6db9cc1b:
@@ -14482,7 +14482,7 @@ translate chinese fr4rileydate_5009e739:
 translate chinese fr4rileydate_5be0576c_1:
 
     # "*Crowd cheers and applauds*"
-    "*人群的欢呼和掌声*""
+    "*人群的欢呼和掌声*"
 
 # game/v7/v7.rpy:13901
 translate chinese fr4rileydate_e9f82a36:
@@ -15280,7 +15280,7 @@ translate chinese fr4alonechloe_7522e1cd:
 translate chinese fr4alonechloe_11dfce6a:
 
     # u "Yeah, agreed. Alright, let's go."
-    u "是啊，同意了。好吧，我们走吧。""
+    u "是啊，同意了。好吧，我们走吧。"
 
 # game/v7/v7.rpy:14796
 translate chinese fr4alonechloe_7522e1cd_1:
@@ -16384,13 +16384,13 @@ translate chinese fr4penelope1_175b5310:
 translate chinese fr4penelope1_638da138:
 
     # pe "Yeah, yeah. It's been great."
-    pe "是啊，是啊。很棒。""
+    pe "是啊，是啊。很棒。"
 
 # game/v7/v7.rpy:15937
 translate chinese fr4penelope1_e40f8b4d:
 
     # u "I really like your dress."
-    u "我真的很喜欢你的裙子。""
+    u "我真的很喜欢你的裙子。"
 
 # game/v7/v7.rpy:15942
 translate chinese fr4penelope1_61a7a070:
@@ -16942,7 +16942,7 @@ translate chinese fr4lockerroomchloe_91a63b40:
 translate chinese fr4lockerroomchloe_fbfa8b63:
 
     # cl "I don't know if I can go on stage right now."
-    cl "我不知道我现在能不能上台。""
+    cl "我不知道我现在能不能上台。"
 
 # game/v7/v7.rpy:16449
 translate chinese fr4lockerroomchloe_03c81636:
@@ -17218,7 +17218,7 @@ translate chinese fr4emily2_cbd7e6a2:
 translate chinese fr4samantha1_b911906a:
 
     # se "Haha. This shit hit different today."
-    se "哈哈。今天发生了很多不同的事。""
+    se "哈哈。今天发生了很多不同的事。"
 
 # game/v7/v7.rpy:16714
 translate chinese fr4samantha1_e0089d73:
@@ -17230,7 +17230,7 @@ translate chinese fr4samantha1_e0089d73:
 translate chinese fr4samantha1_69a02e90:
 
     # se "Maaan."
-    se "伙计--。
+    se "伙计--。"
 
 # game/v7/v7.rpy:16721
 translate chinese fr4samantha1_1d18b47e:
@@ -17536,7 +17536,7 @@ translate chinese fr4laurenending_8f1c9b2c:
 translate chinese fr4laurenending_a7595323:
 
     # u "It definitely is."
-    u "绝对是的。""
+    u "绝对是的。"
 
 # game/v7/v7.rpy:17005
 translate chinese fr4laurenending_521660ef:
@@ -18420,7 +18420,7 @@ translate chinese strings:
 
     # game/v7/v7.rpy:15821
     old "Say something to Imre"
-    new "对伊姆雷说点什么""
+    new "对伊姆雷说点什么"
 
     # game/v7/v7.rpy:15821
     old "Leave them alone"

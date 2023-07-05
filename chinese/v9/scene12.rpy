@@ -274,7 +274,7 @@ translate chinese v9_hall_no_punch_8e69b575:
 translate chinese v9_hall_no_punch_bb86491f:
 
     # li "The bleeding should stop in the next few minutes."
-    li "出血应该在接下来的几分钟内停止。""
+    li "出血应该在接下来的几分钟内停止。"
 
 # game/v9/scene12.rpy:340
 translate chinese v9_hall_no_punch_42eaa55b:
