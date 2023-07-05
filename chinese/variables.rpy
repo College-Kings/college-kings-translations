@@ -44,5 +44,5 @@ translate chinese strings:
 
     # game/variables.rpy:189
     old "na"
-    new "随机变量"
+    new "na"
 

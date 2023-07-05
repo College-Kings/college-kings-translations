@@ -4,7 +4,7 @@ translate chinese strings:
 
     # renpy/common/00accessibility.rpy:28
     old "Self-voicing disabled."
-    new "自动发声模式已禁用。"
+    new "语音朗读模式已禁用。"
 
     # renpy/common/00accessibility.rpy:29
     old "Clipboard voicing enabled. "
@@ -12,11 +12,11 @@ translate chinese strings:
 
     # renpy/common/00accessibility.rpy:30
     old "Self-voicing enabled. "
-    new "自动发声模式已启用。 "
+    new "语音朗读模式已启用。 "
 
     # renpy/common/00accessibility.rpy:32
     old "bar"
-    new "按钮"
+    new "控制条"
 
     # renpy/common/00accessibility.rpy:33
     old "selected"
@@ -32,27 +32,27 @@ translate chinese strings:
 
     # renpy/common/00accessibility.rpy:36
     old "vertical scroll"
-    new "vertical scroll"
+    new "垂直滚动"
 
     # renpy/common/00accessibility.rpy:37
     old "activate"
-    new "activate"
+    new "激活"
 
     # renpy/common/00accessibility.rpy:38
     old "deactivate"
-    new "deactivate"
+    new "停用"
 
     # renpy/common/00accessibility.rpy:39
     old "increase"
-    new "increase"
+    new "增加"
 
     # renpy/common/00accessibility.rpy:40
     old "decrease"
-    new "decrease"
+    new "减少"
 
     # renpy/common/00accessibility.rpy:138
     old "Font Override"
-    new "Font Override"
+    new "字体更改"
 
     # renpy/common/00accessibility.rpy:142
     old "Default"
@@ -68,207 +68,207 @@ translate chinese strings:
 
     # renpy/common/00accessibility.rpy:156
     old "Text Size Scaling"
-    new "Text Size Scaling"
+    new "文本大小"
 
     # renpy/common/00accessibility.rpy:162
     old "Reset"
-    new "Reset"
+    new "重置"
 
     # renpy/common/00accessibility.rpy:168
     old "Line Spacing Scaling"
-    new "Line Spacing Scaling"
+    new "行间距"
 
     # renpy/common/00accessibility.rpy:180
     old "High Contrast Text"
-    new "High Contrast Text"
+    new "文本高度对比"
 
     # renpy/common/00accessibility.rpy:182
     old "Enable"
-    new "Enable"
+    new "启用"
 
     # renpy/common/00accessibility.rpy:186
     old "Disable"
-    new "Disable"
+    new "禁用"
 
     # renpy/common/00accessibility.rpy:193
     old "Self-Voicing"
-    new "Self-Voicing"
+    new "语音朗读"
 
     # renpy/common/00accessibility.rpy:197
     old "Off"
-    new "Off"
+    new "关闭"
 
     # renpy/common/00accessibility.rpy:201
     old "Text-to-speech"
-    new "Text-to-speech"
+    new "文字朗读"
 
     # renpy/common/00accessibility.rpy:205
     old "Clipboard"
-    new "Clipboard"
+    new "剪贴板"
 
     # renpy/common/00accessibility.rpy:209
     old "Debug"
-    new "Debug"
+    new "调试"
 
     # renpy/common/00accessibility.rpy:215
     old "Self-Voicing Volume Drop"
-    new "Self-Voicing Volume Drop"
+    new "语音朗读音量下降"
 
     # renpy/common/00accessibility.rpy:224
     old "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was."
-    new "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was."
+    new "此菜单上的选项旨在提高可访问性。它们可能并不适用于所有游戏，某些选项组合可能会导致游戏无法正常进行。这不是游戏或引擎的问题。为了在更改字体时获得最佳效果，请尽量保持文本大小与原始大小相同。"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Monday"
-    new "{#weekday}Monday"
+    new "{#weekday}星期一"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Tuesday"
-    new "{#weekday}Tuesday"
+    new "{#weekday}星期二"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Wednesday"
-    new "{#weekday}Wednesday"
+    new "{#weekday}星期三"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Thursday"
-    new "{#weekday}Thursday"
+    new "{#weekday}星期四"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Friday"
-    new "{#weekday}Friday"
+    new "{#weekday}星期五"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Saturday"
-    new "{#weekday}Saturday"
+    new "{#weekday}星期六"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Sunday"
-    new "{#weekday}Sunday"
+    new "{#weekday}星期天"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Mon"
-    new "{#weekday_short}Mon"
+    new "{#weekday_short}周一"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Tue"
-    new "{#weekday_short}Tue"
+    new "{#weekday_short}周二"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Wed"
-    new "{#weekday_short}Wed"
+    new "{#weekday_short}周三"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Thu"
-    new "{#weekday_short}Thu"
+    new "{#weekday_short}周四"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Fri"
-    new "{#weekday_short}Fri"
+    new "{#weekday_short}周五"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Sat"
-    new "{#weekday_short}Sat"
+    new "{#weekday_short}周六"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Sun"
-    new "{#weekday_short}Sun"
+    new "{#weekday_short}周日"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}January"
-    new "{#month}January"
+    new "{#month}一月"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}February"
-    new "{#month}February"
+    new "{#month}二月"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}March"
-    new "{#month}March"
+    new "{#month}三月"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}April"
-    new "{#month}April"
+    new "{#month}四月"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}May"
-    new "{#month}May"
+    new "{#month}五月"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}June"
-    new "{#month}June"
+    new "{#month}六月"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}July"
-    new "{#month}July"
+    new "{#month}七月"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}August"
-    new "{#month}August"
+    new "{#month}八月"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}September"
-    new "{#month}September"
+    new "{#month}九月"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}October"
-    new "{#month}October"
+    new "{#month}十月"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}November"
-    new "{#month}November"
+    new "{#month}十一月"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}December"
-    new "{#month}December"
+    new "{#month}十二月"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Jan"
-    new "{#month_short}Jan"
+    new "{#month_short}正月"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Feb"
-    new "{#month_short}Feb"
+    new "{#month_short}仲月"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Mar"
-    new "{#month_short}Mar"
+    new "{#month_short}季月"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Apr"
-    new "{#month_short}Apr"
+    new "{#month_short}初夏"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}May"
-    new "{#month_short}May"
+    new "{#month_short}仲夏"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Jun"
-    new "{#month_short}Jun"
+    new "{#month_short}季暑"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Jul"
-    new "{#month_short}Jul"
+    new "{#month_short}初秋"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Aug"
-    new "{#month_short}Aug"
+    new "{#month_short}中秋"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Sep"
-    new "{#month_short}Sep"
+    new "{#month_short}深秋"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Oct"
-    new "{#month_short}Oct"
+    new "{#month_short}开冬"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Nov"
-    new "{#month_short}Nov"
+    new "{#month_short}冬月"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Dec"
-    new "{#month_short}Dec"
+    new "{#month_short}腊月"
 
     # renpy/common/00action_file.rpy:250
     old "%b %d, %H:%M"
@@ -276,71 +276,71 @@ translate chinese strings:
 
     # renpy/common/00action_file.rpy:364
     old "Save slot %s: [text]"
-    new "Save slot %s: [text]"
+    new "保存存档 %s: [text]"
 
     # renpy/common/00action_file.rpy:445
     old "Load slot %s: [text]"
-    new "Load slot %s: [text]"
+    new "加载存档 %s: [text]"
 
     # renpy/common/00action_file.rpy:498
     old "Delete slot [text]"
-    new "Delete slot [text]"
+    new "删除存档 [text]"
 
     # renpy/common/00action_file.rpy:577
     old "File page auto"
-    new "File page auto"
+    new "文件页自动"
 
     # renpy/common/00action_file.rpy:579
     old "File page quick"
-    new "File page quick"
+    new "文件页快速"
 
     # renpy/common/00action_file.rpy:581
     old "File page [text]"
-    new "File page [text]"
+    new "文件页 [text]"
 
     # renpy/common/00action_file.rpy:639
     old "Page {}"
-    new "Page {}"
+    new "第 {}页"
 
     # renpy/common/00action_file.rpy:639
     old "Automatic saves"
-    new "Automatic saves"
+    new "自动保存"
 
     # renpy/common/00action_file.rpy:639
     old "Quick saves"
-    new "Quick saves"
+    new "速存"
 
     # renpy/common/00action_file.rpy:780
     old "Next file page."
-    new "Next file page."
+    new "下一页。"
 
     # renpy/common/00action_file.rpy:852
     old "Previous file page."
-    new "Previous file page."
+    new "上一页"
 
     # renpy/common/00action_file.rpy:913
     old "Quick save complete."
-    new "Quick save complete."
+    new "快速保存成功"
 
     # renpy/common/00action_file.rpy:931
     old "Quick save."
-    new "Quick save."
+    new "快速保存。"
 
     # renpy/common/00action_file.rpy:950
     old "Quick load."
-    new "Quick load."
+    new "快速加载。"
 
     # renpy/common/00action_other.rpy:381
     old "Language [text]"
-    new "Language [text]"
+    new "语言 [text]"
 
     # renpy/common/00action_other.rpy:703
     old "Open [text] directory."
-    new "Open [text] directory."
+    new "打开 [text] 库。"
 
     # renpy/common/00director.rpy:708
     old "The interactive director is not enabled here."
-    new "The interactive director is not enabled here."
+    new "这里没有启用交互演示。"
 
     # renpy/common/00director.rpy:1481
     old "⬆"
@@ -352,159 +352,159 @@ translate chinese strings:
 
     # renpy/common/00director.rpy:1551
     old "Done"
-    new "Done"
+    new "完成"
 
     # renpy/common/00director.rpy:1561
     old "(statement)"
-    new "(statement)"
+    new "(声明)"
 
     # renpy/common/00director.rpy:1562
     old "(tag)"
-    new "(tag)"
+    new "(标签)"
 
     # renpy/common/00director.rpy:1563
     old "(attributes)"
-    new "(attributes)"
+    new "(图像属性)"
 
     # renpy/common/00director.rpy:1564
     old "(transform)"
-    new "(transform)"
+    new "(变换)"
 
     # renpy/common/00director.rpy:1589
     old "(transition)"
-    new "(transition)"
+    new "(转场)"
 
     # renpy/common/00director.rpy:1601
     old "(channel)"
-    new "(channel)"
+    new "(通道)"
 
     # renpy/common/00director.rpy:1602
     old "(filename)"
-    new "(filename)"
+    new "(文件名)"
 
     # renpy/common/00director.rpy:1631
     old "Change"
-    new "Change"
+    new "改变"
 
     # renpy/common/00director.rpy:1633
     old "Add"
-    new "Add"
+    new "增加"
 
     # renpy/common/00director.rpy:1636
     old "Cancel"
-    new "Cancel"
+    new "取消"
 
     # renpy/common/00director.rpy:1639
     old "Remove"
-    new "Remove"
+    new "移除"
 
     # renpy/common/00director.rpy:1674
     old "Statement:"
-    new "Statement:"
+    new "声明："
 
     # renpy/common/00director.rpy:1695
     old "Tag:"
-    new "Tag:"
+    new "标签："
 
     # renpy/common/00director.rpy:1711
     old "Attributes:"
-    new "Attributes:"
+    new "图像属性："
 
     # renpy/common/00director.rpy:1729
     old "Transforms:"
-    new "Transforms:"
+    new "变换："
 
     # renpy/common/00director.rpy:1748
     old "Behind:"
-    new "Behind:"
+    new "后面："
 
     # renpy/common/00director.rpy:1767
     old "Transition:"
-    new "Transition:"
+    new "转场："
 
     # renpy/common/00director.rpy:1785
     old "Channel:"
-    new "Channel:"
+    new "通道："
 
     # renpy/common/00director.rpy:1803
     old "Audio Filename:"
-    new "Audio Filename:"
+    new "音频文件："
 
     # renpy/common/00gui.rpy:445
     old "Are you sure?"
-    new "Are you sure?"
+    new "您确定吗？"
 
     # renpy/common/00gui.rpy:446
     old "Are you sure you want to delete this save?"
-    new "Are you sure you want to delete this save?"
+    new "您确定要删除这次保存吗？"
 
     # renpy/common/00gui.rpy:447
     old "Are you sure you want to overwrite your save?"
-    new "Are you sure you want to overwrite your save?"
+    new "您确定要重写这次存档吗？"
 
     # renpy/common/00gui.rpy:448
     old "Loading will lose unsaved progress.\nAre you sure you want to do this?"
-    new "Loading will lose unsaved progress.\nAre you sure you want to do this?"
+    new "加载将丢失未保存的进度。\n您确定要这样做吗？"
 
     # renpy/common/00gui.rpy:449
     old "Are you sure you want to quit?"
-    new "Are you sure you want to quit?"
+    new "您确定要退出吗？"
 
     # renpy/common/00gui.rpy:450
     old "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
-    new "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
+    new "您确定要返回主菜单吗？\n这将丢失未保存的进度。"
 
     # renpy/common/00gui.rpy:451
     old "Are you sure you want to end the replay?"
-    new "Are you sure you want to end the replay?"
+    new "你确定要结束录像吗？"
 
     # renpy/common/00gui.rpy:452
     old "Are you sure you want to begin skipping?"
-    new "Are you sure you want to begin skipping?"
+    new "你确定要开始跳过吗？"
 
     # renpy/common/00gui.rpy:453
     old "Are you sure you want to skip to the next choice?"
-    new "Are you sure you want to skip to the next choice?"
+    new "您确定要跳到下一个选项吗？"
 
     # renpy/common/00gui.rpy:454
     old "Are you sure you want to skip unseen dialogue to the next choice?"
-    new "Are you sure you want to skip unseen dialogue to the next choice?"
+    new "你确定要忽略看不见的对话并跳到下一个选项吗？"
 
     # renpy/common/00keymap.rpy:310
     old "Failed to save screenshot as %s."
-    new "Failed to save screenshot as %s."
+    new "保存截图为失败 %s。"
 
     # renpy/common/00keymap.rpy:322
     old "Saved screenshot as %s."
-    new "Saved screenshot as %s."
+    new "截图保存为 %s。"
 
     # renpy/common/00library.rpy:230
     old "Skip Mode"
-    new "Skip Mode"
+    new "跳过模式"
 
     # renpy/common/00library.rpy:316
     old "This program contains free software under a number of licenses, including the MIT License and GNU Lesser General Public License. A complete list of software, including links to full source code, can be found {a=https://www.renpy.org/l/license}here{/a}."
-    new "This program contains free software under a number of licenses, including the MIT License and GNU Lesser General Public License. A complete list of software, including links to full source code, can be found {a=https://www.renpy.org/l/license}here{/a}."
+    new "本程序包含许多已授权的自由软件，包括MIT许可证和GNU宽通用公共许可证。一个完整的软件列表，包括链接到完整的源代码，可以在 {a=https://www.renpy.org/l/license}here{/a}找到。"
 
     # renpy/common/00preferences.rpy:259
     old "display"
-    new "display"
+    new "显示"
 
     # renpy/common/00preferences.rpy:271
     old "transitions"
-    new "transitions"
+    new "转场"
 
     # renpy/common/00preferences.rpy:280
     old "skip transitions"
-    new "skip transitions"
+    new "跳过转场"
 
     # renpy/common/00preferences.rpy:282
     old "video sprites"
-    new "video sprites"
+    new "视频纹理"
 
     # renpy/common/00preferences.rpy:291
     old "show empty window"
-    new "show empty window"
+    new "显示空白窗口"
 
     # renpy/common/00preferences.rpy:300
     old "text speed"
@@ -524,7 +524,7 @@ translate chinese strings:
 
     # renpy/common/00preferences.rpy:318
     old "skip unseen [text]"
-    new "跳过看不见的 [text]"
+    new "跳过看不见的[text]"
 
     # renpy/common/00preferences.rpy:323
     old "skip unseen text"
@@ -540,31 +540,31 @@ translate chinese strings:
 
     # renpy/common/00preferences.rpy:336
     old "skip after choices"
-    new "跳过选择后"
+    new "选择后跳过"
 
     # renpy/common/00preferences.rpy:338
     old "auto-forward time"
-    new "auto-forward time"
+    new "自动前进时间"
 
     # renpy/common/00preferences.rpy:352
     old "auto-forward"
-    new "auto-forward"
+    new "自动-前进"
 
     # renpy/common/00preferences.rpy:359
     old "Auto forward"
-    new "Auto forward"
+    new "自动前进"
 
     # renpy/common/00preferences.rpy:362
     old "auto-forward after click"
-    new "auto-forward after click"
+    new "点击后自动向前"
 
     # renpy/common/00preferences.rpy:371
     old "automatic move"
-    new "automatic move"
+    new "自动移动"
 
     # renpy/common/00preferences.rpy:380
     old "wait for voice"
-    new "wait for voice"
+    new "等待声音"
 
     # renpy/common/00preferences.rpy:389
     old "voice sustain"
@@ -572,27 +572,27 @@ translate chinese strings:
 
     # renpy/common/00preferences.rpy:398
     old "self voicing"
-    new "自发语音"
+    new "语音朗读"
 
     # renpy/common/00preferences.rpy:407
     old "self voicing volume drop"
-    new "自发语音音量下降"
+    new "语音朗读音量下降"
 
     # renpy/common/00preferences.rpy:415
     old "clipboard voicing"
-    new "剪贴板表达"
+    new "语音"
 
     # renpy/common/00preferences.rpy:424
     old "debug voicing"
-    new "debug voicing"
+    new "语音"
 
     # renpy/common/00preferences.rpy:433
     old "emphasize audio"
-    new "emphasize audio"
+    new "强化音频"
 
     # renpy/common/00preferences.rpy:442
     old "rollback side"
-    new "rollback side"
+    new "回退操作"
 
     # renpy/common/00preferences.rpy:452
     old "gl powersave"
@@ -608,139 +608,139 @@ translate chinese strings:
 
     # renpy/common/00preferences.rpy:464
     old "font transform"
-    new "font transform"
+    new "字体变换"
 
     # renpy/common/00preferences.rpy:467
     old "font size"
-    new "font size"
+    new "字体大小"
 
     # renpy/common/00preferences.rpy:475
     old "font line spacing"
-    new "font line spacing"
+    new "字体行间距"
 
     # renpy/common/00preferences.rpy:483
     old "system cursor"
-    new "system cursor"
+    new "系统光标"
 
     # renpy/common/00preferences.rpy:492
     old "renderer menu"
-    new "renderer menu"
+    new "渲染器菜单"
 
     # renpy/common/00preferences.rpy:495
     old "accessibility menu"
-    new "accessibility menu"
+    new "可访问性菜单"
 
     # renpy/common/00preferences.rpy:498
     old "high contrast text"
-    new "high contrast text"
+    new "高对比度文本"
 
     # renpy/common/00preferences.rpy:507
     old "audio when minimized"
-    new "audio when minimized"
+    new "最小化时保持声音"
 
     # renpy/common/00preferences.rpy:527
     old "main volume"
-    new "main volume"
+    new "主音量"
 
     # renpy/common/00preferences.rpy:528
     old "music volume"
-    new "music volume"
+    new "音乐音量"
 
     # renpy/common/00preferences.rpy:529
     old "sound volume"
-    new "sound volume"
+    new "声音音量"
 
     # renpy/common/00preferences.rpy:530
     old "voice volume"
-    new "voice volume"
+    new "语音朗读音量"
 
     # renpy/common/00preferences.rpy:531
     old "mute main"
-    new "mute main"
+    new "静音主音量"
 
     # renpy/common/00preferences.rpy:532
     old "mute music"
-    new "mute music"
+    new "静音音乐"
 
     # renpy/common/00preferences.rpy:533
     old "mute sound"
-    new "mute sound"
+    new "静音声音"
 
     # renpy/common/00preferences.rpy:534
     old "mute voice"
-    new "mute voice"
+    new "静音音效"
 
     # renpy/common/00preferences.rpy:535
     old "mute all"
-    new "mute all"
+    new "静音所有"
 
     # renpy/common/00preferences.rpy:616
     old "Clipboard voicing enabled. Press 'shift+C' to disable."
-    new "Clipboard voicing enabled. Press 'shift+C' to disable."
+    new "剪贴板语音已启用。请按'shift+C'来禁用。"
 
     # renpy/common/00preferences.rpy:618
     old "Self-voicing would say \"[renpy.display.tts.last]\". Press 'alt+shift+V' to disable."
-    new "Self-voicing would say \"[renpy.display.tts.last]\". Press 'alt+shift+V' to disable."
+    new "语音朗读如说到\"[renpy.display.tts.last]\"时。按'alt+shift+V'来禁用。"
 
     # renpy/common/00preferences.rpy:620
     old "Self-voicing enabled. Press 'v' to disable."
-    new "Self-voicing enabled. Press 'v' to disable."
+    new "语音朗读已启用。按'v'来禁用。"
 
     # renpy/common/_compat/gamemenu.rpym:198
     old "Empty Slot."
-    new "Empty Slot."
+    new "清空存档。"
 
     # renpy/common/_compat/gamemenu.rpym:355
     old "Previous"
-    new "Previous"
+    new "上一布"
 
     # renpy/common/_compat/gamemenu.rpym:362
     old "Next"
-    new "Next"
+    new "下一步"
 
     # renpy/common/_compat/preferences.rpym:428
     old "Joystick Mapping"
-    new "Joystick Mapping"
+    new "摇杆映射"
 
     # renpy/common/_developer/developer.rpym:38
     old "Developer Menu"
-    new "Developer Menu"
+    new "开发者菜单"
 
     # renpy/common/_developer/developer.rpym:43
     old "Interactive Director (D)"
-    new "Interactive Director (D)"
+    new "交互式导演 (D)"
 
     # renpy/common/_developer/developer.rpym:45
     old "Reload Game (Shift+R)"
-    new "Reload Game (Shift+R)"
+    new "重新加载游戏 (Shift+R)"
 
     # renpy/common/_developer/developer.rpym:47
     old "Console (Shift+O)"
-    new "Console (Shift+O)"
+    new "控制台 (Shift+O)"
 
     # renpy/common/_developer/developer.rpym:49
     old "Variable Viewer"
-    new "Variable Viewer"
+    new "变量查看器"
 
     # renpy/common/_developer/developer.rpym:51
     old "Image Location Picker"
-    new "Image Location Picker"
+    new "图像位置选择器"
 
     # renpy/common/_developer/developer.rpym:53
     old "Filename List"
-    new "Filename List"
+    new "文件名列表"
 
     # renpy/common/_developer/developer.rpym:57
     old "Show Image Load Log (F4)"
-    new "Show Image Load Log (F4)"
+    new "显示图像加载日志 (F4)"
 
     # renpy/common/_developer/developer.rpym:60
     old "Hide Image Load Log (F4)"
-    new "Hide Image Load Log (F4)"
+    new "隐藏图像加载日志 (F4)"
 
     # renpy/common/_developer/developer.rpym:63
     old "Image Attributes"
-    new "Image Attributes"
+    new "图像属性"
 
     # renpy/common/_developer/developer.rpym:90
     old "[name] [attributes] (hidden)"
@@ -752,27 +752,27 @@ translate chinese strings:
 
     # renpy/common/_developer/developer.rpym:143
     old "Nothing to inspect."
-    new "Nothing to inspect."
+    new "没什么可检查的。"
 
     # renpy/common/_developer/developer.rpym:154
     old "Hide deleted"
-    new "Hide deleted"
+    new "隐藏已删除"
 
     # renpy/common/_developer/developer.rpym:154
     old "Show deleted"
-    new "Show deleted"
+    new "显示已删除"
 
     # renpy/common/_developer/developer.rpym:278
     old "Return to the developer menu"
-    new "Return to the developer menu"
+    new "返回开发者菜单"
 
     # renpy/common/_developer/developer.rpym:443
     old "Rectangle: %r"
-    new "Rectangle: %r"
+    new "矩形：%r"
 
     # renpy/common/_developer/developer.rpym:448
     old "Mouse position: %r"
-    new "Mouse position: %r"
+    new "鼠标位置：%r"
 
     # renpy/common/_developer/developer.rpym:453
     old "Right-click or escape to quit."
@@ -780,7 +780,7 @@ translate chinese strings:
 
     # renpy/common/_developer/developer.rpym:485
     old "Rectangle copied to clipboard."
-    new "Rectangle copied to clipboard."
+    new "矩形已复制到剪切板"
 
     # renpy/common/_developer/developer.rpym:488
     old "Position copied to clipboard."
@@ -788,15 +788,15 @@ translate chinese strings:
 
     # renpy/common/_developer/developer.rpym:506
     old "Type to filter: "
-    new "Type to filter: "
+    new "筛选类型："
 
     # renpy/common/_developer/developer.rpym:633
     old "Textures: [tex_count] ([tex_size_mb:.1f] MB)"
-    new "Textures: [tex_count] ([tex_size_mb:.1f] MB)"
+    new "纹理：[tex_count] ([tex_size_mb:.1f] MB)"
 
     # renpy/common/_developer/developer.rpym:637
     old "Image cache: [cache_pct:.1f]% ([cache_size_mb:.1f] MB)"
-    new "Image cache: [cache_pct:.1f]% ([cache_size_mb:.1f] MB)"
+    new "图像缓存：[cache_pct:.1f]% ([cache_size_mb:.1f] MB)"
 
     # renpy/common/_developer/developer.rpym:647
     old "✔ "
@@ -812,7 +812,7 @@ translate chinese strings:
 
     # renpy/common/_developer/inspector.rpym:38
     old "Displayable Inspector"
-    new "Displayable Inspector"
+    new "可显示检查器"
 
     # renpy/common/_developer/inspector.rpym:61
     old "Size"
@@ -828,11 +828,11 @@ translate chinese strings:
 
     # renpy/common/_developer/inspector.rpym:122
     old "Inspecting Styles of [displayable_name!q]"
-    new "检查风格 [displayable_name!q]"
+    new "检查风格[displayable_name!q]"
 
     # renpy/common/_developer/inspector.rpym:139
     old "displayable:"
-    new "可显示的:"
+    new "可显示的："
 
     # renpy/common/_developer/inspector.rpym:145
     old "        (no properties affect the displayable)"
@@ -856,7 +856,7 @@ translate chinese strings:
 
     # renpy/common/00iap.rpy:219
     old "Contacting App Store\nPlease Wait..."
-    new "联系App Store\n请稍等……"
+    new "联系App Store中\n请稍等……"
 
     # renpy/common/00updater.rpy:419
     old "The Ren'Py Updater is not supported on mobile devices."
@@ -912,7 +912,7 @@ translate chinese strings:
 
     # renpy/common/00updater.rpy:1637
     old "[u.version] is available. Do you want to install it?"
-    new "[u.version] is available. Do you want to install it?"
+    new "[u.version]现已可用。您要安装它吗？"
 
     # renpy/common/00updater.rpy:1639
     old "Preparing to download the updates."
@@ -956,7 +956,7 @@ translate chinese strings:
 
     # renpy/common/00gallery.rpy:647
     old "prev"
-    new "prev"
+    new "上一步"
 
     # renpy/common/00gallery.rpy:648
     old "next"
@@ -1004,11 +1004,11 @@ translate chinese strings:
 
     # renpy/common/00gltest.rpy:132
     old "Gamepad"
-    new "Gamepad"
+    new "手柄"
 
     # renpy/common/00gltest.rpy:136
     old "Enable (No Blocklist)"
-    new "Enable (No Blocklist)"
+    new "启用 (No Blocklist)"
 
     # renpy/common/00gltest.rpy:150
     old "Calibrate"
@@ -1056,19 +1056,19 @@ translate chinese strings:
 
     # renpy/common/00gltest.rpy:251
     old "This computer has a problem displaying graphics: [problem]."
-    new "此计算机显示图形时出现问题: [problem]。"
+    new "此计算机显示图形时出现问题：[problem]。"
 
     # renpy/common/00gltest.rpy:255
     old "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display."
-    new "它的图形驱动程序可能过时或不能正确操作。这可能导致缓慢或不正确的图形显示。"
+    new "图形驱动程序可能过时或不能正确加载。这可能导致缓慢或不正确的图形显示。"
 
     # renpy/common/00gltest.rpy:259
     old "The {a=edit:1:log.txt}log.txt{/a} file may contain information to help you determine what is wrong with your computer."
-    new "The {a=edit:1:log.txt}log.txt{/a} file may contain information to help you determine what is wrong with your computer."
+    new "{a=edit:1:log.txt}log.txt{/a}文件可能包含的信息可以帮助您确定计算机出了什么问题。"
 
     # renpy/common/00gltest.rpy:264
     old "More details on how to fix this can be found in the {a=[url]}documentation{/a}."
-    new "More details on how to fix this can be found in the {a=[url]}documentation{/a}."
+    new "有关如何修复此问题的更多详细信息，请参见{a=[url]}documentation{/a}。"
 
     # renpy/common/00gltest.rpy:269
     old "Continue, Show this warning again"
@@ -1112,23 +1112,23 @@ translate chinese strings:
 
     # renpy/common/_errorhandling.rpym:557
     old "Opens the traceback.txt file in a text editor."
-    new "Opens the traceback.txt file in a text editor."
+    new "用文本编辑器打开traceback.txt文件。"
 
     # renpy/common/_errorhandling.rpym:559
     old "Copy BBCode"
-    new "复制 BBCode"
+    new "复制BBCode"
 
     # renpy/common/_errorhandling.rpym:561
     old "Copies the traceback.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."
-    new "Copies the traceback.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."
+    new "将traceback.txt文件复制到剪贴板，作为BBcode发送至https://lemmasoft.renai.us/论坛。"
 
     # renpy/common/_errorhandling.rpym:563
     old "Copy Markdown"
-    new "复制降价"
+    new "复制Markdown"
 
     # renpy/common/_errorhandling.rpym:565
     old "Copies the traceback.txt file to the clipboard as Markdown for Discord."
-    new "将traceback.txt文件作为Discord的降价复制到剪贴板。"
+    new "将traceback.txt文件复制为Markdown到剪贴板然后发送至Discord。"
 
     # renpy/common/_errorhandling.rpym:594
     old "An exception has occurred."
@@ -1136,7 +1136,7 @@ translate chinese strings:
 
     # renpy/common/_errorhandling.rpym:617
     old "Rollback"
-    new "回滚"
+    new "回退"
 
     # renpy/common/_errorhandling.rpym:619
     old "Attempts a roll back to a prior time, allowing you to save or choose a different choice."

@@ -16,7 +16,7 @@ translate chinese strings:
 
     # game/kct.rpy:63
     old "Congratulations! Your Key Character Trait {b}[kct]{/b} has just changed the outcome of a decision someone was making."
-    new "恭喜你! 你的关键性格特征 {b}[kct]{/b} 改变了某人正在做的决定效果。"
+    new "恭喜你！你的关键性格特征 {b}[kct]{/b} 改变了某人正在做的决定效果。"
 
     # game/kct.rpy:65
     old "Unfortunately, your Key Character Trait {b}[kct]{/b} did not change the outcome of this decision."

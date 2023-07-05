@@ -513,4 +513,3 @@ translate chinese strings:
     # game/characters.rpy:167
     old "Wolf Trainer"
     new "狼人教练"
-

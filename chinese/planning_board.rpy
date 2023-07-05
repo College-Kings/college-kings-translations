@@ -20,9 +20,9 @@ translate chinese strings:
 
     # game/planning_board.rpy:155
     old "{color=#f00}Not enough money to select task.{/color}"
-    new "{color=#f00}Not enough money to select task.{/color}"
+    new "{color=#f00}没有足够的金额来选择任务。{/color}"
 
     # game/planning_board.rpy:171
     old "Budget: $[planning_board.money]"
-    new "Budget: $[planning_board.money]"
+    new "预算：$[planning_board.money]"
 

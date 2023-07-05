@@ -52,7 +52,7 @@ translate chinese strings:
 
     # game/custom_screens.rpy:264
     old "What's New:"
-    new "有什么新鲜事儿:"
+    new "新鲜事儿："
 
     # game/custom_screens.rpy:267
     old "Exit"
@@ -60,5 +60,5 @@ translate chinese strings:
 
     # game/custom_screens.rpy:309
     old "Are you sure you want to end the free roam?"
-    new "你确定要结束自由漫游模式吗？"
+    new "您确定要结束自由漫游模式吗？"
 
