@@ -58,7 +58,7 @@ translate chinese fight_tutorialLabel_472c2aed:
 translate chinese fight_tutorialLabel_bf9a21c1:
 
     # tut "Since Tom has his guard up and could probably block both a jab and a hook, try to kick him by pressing {b}[r!u]{/b} in the upcoming screen."
-    tut "由于汤姆已经提高了警惕，可能会同时阻挡左勾拳和右勾拳，所以在即将到来的场景中按{b}[r!u]{/b}来踢他。"
+    tut "由于汤姆已经提高了警惕，可能会同时阻挡左勾拳和右勾拳，\n所以在即将到来的场景中按{b}[r!u]{/b}来踢他。"
 
 translate chinese strings:
 
