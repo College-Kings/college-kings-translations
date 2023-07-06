@@ -112,7 +112,7 @@ translate chinese strings:
 
     # renpy/common/00accessibility.rpy:215
     old "Self-Voicing Volume Drop"
-    new "语音朗读音量下降"
+    new "音乐音量组件"
 
     # renpy/common/00accessibility.rpy:224
     old "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was."
@@ -308,7 +308,7 @@ translate chinese strings:
 
     # renpy/common/00action_file.rpy:639
     old "Quick saves"
-    new "速存"
+    new "快速保存"
 
     # renpy/common/00action_file.rpy:780
     old "Next file page."
@@ -556,7 +556,7 @@ translate chinese strings:
 
     # renpy/common/00preferences.rpy:362
     old "auto-forward after click"
-    new "点击后自动向前"
+    new "点击后自动前进"
 
     # renpy/common/00preferences.rpy:371
     old "automatic move"
@@ -576,15 +576,15 @@ translate chinese strings:
 
     # renpy/common/00preferences.rpy:407
     old "self voicing volume drop"
-    new "语音朗读音量下降"
+    new "音乐音量组件"
 
     # renpy/common/00preferences.rpy:415
     old "clipboard voicing"
-    new "语音"
+    new "剪切板语音"
 
     # renpy/common/00preferences.rpy:424
     old "debug voicing"
-    new "语音"
+    new "调试语音"
 
     # renpy/common/00preferences.rpy:433
     old "emphasize audio"
@@ -1172,7 +1172,7 @@ translate chinese strings:
 
     # renpy/common/_errorhandling.rpym:652
     old "Quits the game."
-    new "退出游戏。"
+    new "退出这次游戏。"
 
     # renpy/common/_errorhandling.rpym:673
     old "Parsing the script failed."
