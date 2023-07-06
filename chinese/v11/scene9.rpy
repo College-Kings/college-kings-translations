@@ -1048,7 +1048,7 @@ translate chinese v11_mc_horse_room_55bb20d6:
 translate chinese v11_mc_horse_room_5f92d3ac:
 
     # u "Oh shit!"
-    u "哦，操!"
+    u "噢，该死的!"
 
 translate chinese strings:
 

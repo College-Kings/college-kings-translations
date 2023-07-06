@@ -22,7 +22,7 @@ translate chinese v11_chicks_house_b8911521:
 translate chinese v11_chicks_house_84e004ee:
 
     # li "Oh be careful, I'm getting ready to clean that up."
-    li "哦，小心点，我正准备把它清理干净。"
+    li "噢，小心点，我正准备把它清理干净。"
 
 # game/v11/scene8.rpy:50
 translate chinese v11_chicks_house_b898a6eb:
@@ -268,7 +268,7 @@ translate chinese v11_chicks_house_8c63bbdd:
 translate chinese v11_chicks_house_b10872ef:
 
     # u "Oh yeah, that makes sense."
-    u "哦，是的，这就说得通了。"
+    u "噢，是的，这就说得通了。"
 
 # game/v11/scene8.rpy:258
 translate chinese v11_chicks_house_c3a78f86:

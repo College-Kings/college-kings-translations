@@ -46,7 +46,7 @@ translate chinese v11_wolves_seb_prank_853345ab:
 translate chinese v11_wolves_seb_prank_003aa7d8:
 
     # u "Oh, nice! What's the plan so far?"
-    u "哦，太棒了！到目前为止有什么计划？"
+    u "噢，太棒了！到目前为止有什么计划？"
 
 # game/v11/scene9a.rpy:60
 translate chinese v11_wolves_seb_prank_b54be166:
@@ -274,7 +274,7 @@ translate chinese v11s9a_kiwiiPost1_continue_31ce3bba:
 translate chinese v11s9a_kiwiiPost1_continue_62ccd0cf:
 
     # u "*Whisper* Oh shit!"
-    u "*低语* 哦，见鬼！"
+    u "*低语* 噢，见鬼！"
 
 # game/v11/scene9a.rpy:337
 translate chinese v11s9a_kiwiiPost1_continue_624a8b41:
@@ -502,7 +502,7 @@ translate chinese v11s9a_kiwiiPost2_continue_17a4e04e:
 translate chinese v11s9a_kiwiiPost2_continue_1eb3ae52:
 
     # se "Says @CalebTheApeBoy posted it. That's the new Ape pledge. Oh, it's on now."
-    se "据说是 @CalebTheApeBoy 发的这个帖子。那是新的猿人入会仪式。哦，现在开始了。"
+    se "据说是 @CalebTheApeBoy 发的这个帖子。那是新的猿人入会仪式。噢，现在开始了。"
 
 # game/v11/scene9a.rpy:602
 translate chinese v11s9a_kiwiiPost2_continue_e6c20d2d:
@@ -526,7 +526,7 @@ translate chinese v11s9a_kiwiiPost2_continue_5dd3b196:
 translate chinese v11s9a_kiwiiPost2_continue_33a814b8:
 
     # se "Oh don't worry, I got this. Perry will help me too. I'll have it all set up by the time you get back."
-    se "哦，别担心，我会处理好的。佩里也会帮我的。你回来的时候我会把一切都安排好的。"
+    se "噢，别担心，我会处理好的。佩里也会帮我的。你回来的时候我会把一切都安排好的。"
 
 # game/v11/scene9a.rpy:622
 translate chinese v11s9a_kiwiiPost2_continue_44deb6c5:

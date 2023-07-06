@@ -214,7 +214,7 @@ translate chinese v11_at_the_bank_a8797fd1:
 translate chinese v11_at_the_bank_b9ed5b41:
 
     # bank "Let us continue. May I ask, does anyone know what currency we use?"
-    bank "让我们继续吧。请问，有人知道我们使用的是什么货币吗？
+    bank "让我们继续吧。请问，有人知道我们使用的是什么货币吗？"
 
 # game/v11/scene43.rpy:195
 translate chinese v11_at_the_bank_1a8b6c61:
@@ -854,7 +854,7 @@ translate chinese strings:
 
     # game/v11/scene43.rpy:132
     old "A little"
-    new "一点"
+    new "一点儿"
 
     # game/v11/scene43.rpy:260
     old "Stealth"

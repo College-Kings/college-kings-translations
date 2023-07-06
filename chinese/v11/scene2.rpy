@@ -142,7 +142,7 @@ translate chinese v11_nora_chloe_hallway_cb4a0aa6:
 translate chinese v11_nora_chloe_hallway_9b9ac36b:
 
     # no "Oh, hey Charli."
-    no "哦，嘿，查理。"
+    no "噢，嘿，查理。"
 
 # game/v11/scene2.rpy:162
 translate chinese v11_nora_chloe_hallway_70f33159:
@@ -316,7 +316,7 @@ translate chinese v11_nora_chloe_hallway_ab42054f:
 translate chinese v11_nora_chloe_hallway_0850e11c:
 
     # charli "Oh, you're a fan of hotel mattresses? Haha."
-    charli "哦，你是酒店床垫的粉丝？哈哈。"
+    charli "噢，你是酒店床垫的粉丝？哈哈。"
 
 # game/v11/scene2.rpy:304
 translate chinese v11_nora_chloe_hallway_fa2eeaab:
@@ -586,7 +586,7 @@ translate chinese v11_nora_chloe_hallway_a7e11e98:
 translate chinese v11_nora_chloe_hallway_19837ed6:
 
     # cl "Oh okay, well I'll see you later then."
-    cl "哦，好的，那待会儿见。"
+    cl "噢，好的，那待会儿见。"
 
 # game/v11/scene2.rpy:570
 translate chinese v11_nora_chloe_hallway_104440d0:
@@ -616,13 +616,13 @@ translate chinese v11_nora_chloe_hallway_21a98069_1:
 translate chinese v11_nora_chloe_hallway_2aac41e7:
 
     # cl "Oh, hey handsome. What's up?"
-    cl "哦，嘿，帅哥。怎么了？"
+    cl "噢，嘿，帅哥。怎么了？"
 
 # game/v11/scene2.rpy:611
 translate chinese v11_nora_chloe_hallway_477eeba5:
 
     # cl "Oh, hey [name]. What's up?"
-    cl "欧，嘿，[name]怎么了？"
+    cl "欧，嘿，[name]，怎么了？"
 
 # game/v11/scene2.rpy:616
 translate chinese v11_nora_chloe_hallway_de2f2423:
@@ -838,7 +838,7 @@ translate chinese v11_nora_chloe_hallway_a7e11e98_1:
 translate chinese v11_nora_chloe_hallway_19837ed6_1:
 
     # cl "Oh okay, well I'll see you later then."
-    cl "哦，好的，那待会儿见。"
+    cl "噢，好的，那待会儿见。"
 
 # game/v11/scene2.rpy:813
 translate chinese v11_nora_chloe_hallway_104440d0_1:

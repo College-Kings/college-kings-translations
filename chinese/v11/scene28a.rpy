@@ -4,7 +4,7 @@
 translate chinese v11_sam_spa_82484e0c:
 
     # sa "This shit is nice!"
-    sa ""这玩意儿太棒了！"
+    sa "这玩意儿太棒了！"
 
 # game/v11/scene28a.rpy:25
 translate chinese v11_sam_spa_f27312d4:
@@ -448,7 +448,7 @@ translate chinese v11_sam_spa_4a0cd701:
 translate chinese v11_sam_spa_ad808ca8:
 
     # u "Rice? That's a pretty elite school to get into."
-    u 莱斯？那是一所相当优秀的学校。"
+    u "莱斯？那是一所相当优秀的学校。"
 
 # game/v11/scene28a.rpy:415
 translate chinese v11_sam_spa_78d14717:

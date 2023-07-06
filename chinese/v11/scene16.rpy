@@ -10,7 +10,7 @@ translate chinese v11_lauren_airport_convo_53e21e42:
 translate chinese v11_lauren_airport_convo_34c2129e:
 
     # la "Leave me alone, asshole."
-    la "离我远点，混蛋。"
+    la "离我远点儿，混蛋。"
 
 # game/v11/scene16.rpy:52
 translate chinese v11_lauren_airport_convo_dab6e8c7:

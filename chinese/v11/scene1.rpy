@@ -10,13 +10,13 @@ translate chinese v11_start_b3c779ee:
 translate chinese v11_start_0c11b4e6:
 
     # jen "We still have a few more minutes before we start, there's no reason to panic just yet."
-    jen "我们在出发前还有几分钟，现在还没有理由惊慌。"
+    jen "我们在开始前还有几分钟，现在还没有必要惊慌。"
 
 # game/v11/scene1.rpy:40
 translate chinese v11_start_eb8cb6c5:
 
     # pe "He hasn't texted me back all morning, the odds of him showing up now are one in a million."
-    pe "他整个上午都没有给我回短信，他现在出现的几率是百万分之一。"
+    pe "他整个上午都没有给我回信息，他现在出现的几率是百万分之一。"
 
 # game/v11/scene1.rpy:61
 translate chinese v11_start_a1f03760:
@@ -34,13 +34,13 @@ translate chinese v11_start_ad57c078:
 translate chinese v11_start_49f1e1fd:
 
     # jen "It's about time. So what's the plan?"
-    jen "总算到点了。那么有什么计划呢？"
+    jen "总算到点儿了。那么有什么计划呢？"
 
 # game/v11/scene1.rpy:76
 translate chinese v11_start_4b9201c9:
 
     # pe "I honestly have no idea what we're doing. I watched a bunch of videos about this stuff, but it made me worry more than anything."
-    pe "我真的不知道我们在做什么。我看了很多关于这件事的视频，但这让我最担心。"
+    pe "我真的不知道我们要做什么。我看了很多关于这件事的视频，但这让我最担心。"
 
 # game/v11/scene1.rpy:81
 translate chinese v11_start_9f397638:
@@ -52,7 +52,7 @@ translate chinese v11_start_9f397638:
 translate chinese v11_start_bbcc3a46:
 
     # de "Good morning, you may all take a seat. I can't help but notice we have two additional attendees today, would you mind explaining who they are and why they're here?"
-    de "早上好，你们都可以坐下了。我不禁注意到我们今天多了两位与会者，您介意解释一下他们是谁吗？他们为什么会在这里？"
+    de "早上好，你们都可以坐下了。我不禁注意到我们今天多了两位与会者，你介意解释一下他们是谁吗？他们为什么会在这里？"
 
 # game/v11/scene1.rpy:106
 translate chinese v11_start_33d9e7e8:
@@ -70,7 +70,7 @@ translate chinese v11_start_cf0c5fe1:
 translate chinese v11_start_fde48fd4:
 
     # lee "Sounds appropriate, I find no fault."
-    lee "听起来很合适，我看不出有什么错。"
+    lee "听起来很合理，我看不出有什么问题。"
 
 # game/v11/scene1.rpy:121
 translate chinese v11_start_74426c40:
@@ -82,7 +82,7 @@ translate chinese v11_start_74426c40:
 translate chinese v11_start_e9d350e8:
 
     # pe "Yes ma'am."
-    pe "好的。"
+    pe "是的，夫人。"
 
 # game/v11/scene1.rpy:131
 translate chinese v11_start_71c7d1a1:
@@ -118,25 +118,25 @@ translate chinese v11_start_ae1b436f:
 translate chinese v11_start_57bccec3:
 
     # de "Failure to do so, will result in you no longer being a student at San Vallejo College as well as possible legal prosecution."
-    de "如果不这样做，将导致您不再是圣瓦列霍学院的学生，并可能受到法律起诉。"
+    de "如果不这样做，将导致你不再是圣瓦列霍学院的学生，并可能受到法律诉讼。"
 
 # game/v11/scene1.rpy:152
 translate chinese v11_start_66950b82:
 
     # lee "However, no verdict is final until all parties have had the chance to fully explain themselves."
-    lee "然而，在各方都有机会充分解释自己之前，没有最终裁决。"
+    lee "然而，在各方都有机会充分解释自己之前，还没有最终裁决。"
 
 # game/v11/scene1.rpy:157
 translate chinese v11_start_354aba07:
 
     # de "Miss Cross, you have already admitted to being guilty of what you are accused of, so personally I see little here to debate and I expect this will be a very short hearing."
-    de "克罗斯小姐，你已经承认了你被指控的罪名，所以就我个人而言，我觉得没什么好辩论的我希望这次听证会不会太长。"
+    de "克罗斯小姐，你已经承认了你被指控的罪名，所以就我个人而言，我觉得没什么好辩论的，我希望这次听证会不会太长。"
 
 # game/v11/scene1.rpy:162
 translate chinese v11_start_a6e12dcf:
 
     # lee "But in fairness, regardless of anyone's personal opinions, we'll stay as long as need be. The floor is yours."
-    lee "但说句公道话，不管大家的意见如何，我们要待多久就待多久。舞台是你的了。"
+    lee "但说句公道话，不管大家的意见如何，我们要待多久就待多久。舞台是你们的了。"
 
 # game/v11/scene1.rpy:177
 translate chinese v11_start_ccd53b23:
@@ -154,7 +154,7 @@ translate chinese v11_start_bdae0ebb:
 translate chinese v11_start_8abffd5d:
 
     # u "I remember the first time I met Penelope. As shy as she obviously was, she managed enough strength to approach me and introduce herself."
-    u "我记得我第一次见到佩内洛普。尽管她显然很害羞，但她还是有足够的力气走近我并做了自我介绍。"
+    u "我记得我第一次见到佩内洛普时。尽管她很害羞，但她还是有足够的力气走近我并做了自我介绍。"
 
 # game/v11/scene1.rpy:196
 translate chinese v11_start_aaaed004:
@@ -166,19 +166,19 @@ translate chinese v11_start_aaaed004:
 translate chinese v11_start_c19e6cbe:
 
     # de "We aren't here to talk about whatever you might be seeing in her facial features, young man. Please keep your anecdotes related to Ms. Cross' actions."
-    de "我们不是来讨论你在她面部特征上看到的东西的，年轻人。请保留与克罗斯女士的行为有关的趣闻轶事。"
+    de "我们不是来讨论你在她面部特征上看到的东西的，年轻人。请保留与克罗斯女士行为有关的趣闻轶事。"
 
 # game/v11/scene1.rpy:206
 translate chinese v11_start_a71d5216:
 
     # u "But that's exactly it. First impressions are actions. They're permanent marks we leave on other people. And the one Penelope leaves, is one of kindness and honesty."
-    u "但就是这样。第一印象是行动。它们是我们在别人身上留下的永久印记。佩内洛普留下的，是善良和诚实的人。"
+    u "但就是这样。第一印象。它们是我们在别人身上留下的永久印记。佩内洛普留下的，是善良和诚实。"
 
 # game/v11/scene1.rpy:208
 translate chinese v11_start_32234afe:
 
     # u "Aren't those the values you're trying to promote? Why punish someone for acting in line with the school's values?"
-    u "这些不就是你想要推广的价值观吗？为什么要惩罚一个行为符合学校价值观的人呢？"
+    u "这些不就是您想要推广的价值观吗？为什么要惩罚一个行为符合学校价值观的人呢？"
 
 # game/v11/scene1.rpy:214
 translate chinese v11_start_92927cc6:
@@ -208,7 +208,7 @@ translate chinese v11_start_d9ead10c:
 translate chinese v11_start_6ca6e278:
 
     # de "Good, because we'd rather stick to the situation at hand than ramble about what we watched on cable television."
-    de "很好，因为我们宁愿专注于眼前的情况而不是喋喋不休地谈论我们在有线电视上看到了什么。"
+    de "好了，因为我们宁愿专注于眼前的情况而不是喋喋不休地谈论我们在有线电视上看到了什么。"
 
 # game/v11/scene1.rpy:236
 translate chinese v11_start_fa9ff11f:
@@ -250,7 +250,7 @@ translate chinese v11_start_6c91d4b4:
 translate chinese v11_start_62e1102c:
 
     # u "Yes, but the punishment you have in mind is way too serious."
-    u "是的，但你想要的惩罚太严重了。"
+    u "是的，但您的惩罚太严重了。"
 
 # game/v11/scene1.rpy:269
 translate chinese v11_start_d6066831:
@@ -262,7 +262,7 @@ translate chinese v11_start_d6066831:
 translate chinese v11_start_d0442a1a:
 
     # u "Boundaries may have been broken, but at what cost? Who was hurt in the process? No one."
-    u "界限可能虽然被打破了，但代价是什么?有谁在这个过程中谁受到损失？没有。"
+    u "界限可能虽然被打破了，但代价是什么？有谁在这个过程中谁受到损失？没有。"
 
 # game/v11/scene1.rpy:279
 translate chinese v11_start_4d83084e:
@@ -274,7 +274,7 @@ translate chinese v11_start_4d83084e:
 translate chinese v11_start_3bfad6e4:
 
     # u "When you care about someone, you end up doing whatever it takes to make them happy, even if it incriminates yourself."
-    u "当你在乎一个人的时候，你会不惜一切代价让他们开心，即使这会牵连到你自己。"
+    u "当您在乎一个人的时候，您会不惜一切代价让他们开心，即使这会牵连到你自己。"
 
 # game/v11/scene1.rpy:283
 translate chinese v11_start_c0c7317c:
@@ -376,7 +376,7 @@ translate chinese v11_start_758ac4b5:
 translate chinese v11_start_173d0a2e:
 
     # u "You may not believe my words, but my actions of coming here and doing everything I can to defend her should prove to you how much I think of her."
-    u "你可能不相信我说的话，但我来这里尽我所能为她辩护的行为应该向你们证明我有多想念她。"
+    u "您可能不相信我说的话，但我来这里尽我所能为她辩护的行为应该向你们证明我有多想念她。"
 
 # game/v11/scene1.rpy:364
 translate chinese v11_start_1d0bc5f1:
@@ -394,13 +394,13 @@ translate chinese v11_start_f66b1cc5:
 translate chinese v11_start_cbe6f1fc:
 
     # u "Yes, you're right. And on paper, outside of this one incident, Penelope is a honor roll student with several accolades to her name."
-    u "是的，你说得对。名义上，除了这件事，佩内洛普是一名优等生，获得了多项荣誉。"
+    u "是的，您说得对。名义上，除了这件事，佩内洛普是一名优等生，获得了多项荣誉。"
 
 # game/v11/scene1.rpy:380
 translate chinese v11_start_a551b18a:
 
     # u "She volunteers all the time and even the one blemish she has is just more proof of her care for others. So if on paper is what matters most, you should be agreeing with me."
-    u "她一直都是志愿者，即使她身上有一个缺陷，但也更证明了她对别人的关心。所以如果书面文件是最重要的，你应该同意我的观点。"
+    u "她一直都是志愿者，即使她身上有一个污点，但也更证明了她对别人的关心。所以如果书面所示是最重要的，您应该同意我的观点。"
 
 # game/v11/scene1.rpy:385
 translate chinese v11_start_313bd9d8:
@@ -454,7 +454,7 @@ translate chinese v11_start_eeb1e791:
 translate chinese v11_start_5d8fc99a:
 
     # lee "*Whisper* She's not a student, but regardless can you please pay attention. Your childish behavior may be funny to everyone else in the Professor's Lounge, but not here."
-    lee "她不是学生，但不管怎样，请注意。你幼稚的行为可能会让教授休息室里的其他人觉得好笑，但在这里就不会了。"
+    lee "她不是学生，但不管怎样，请注意。你幼稚的行为可能会让教授休息室里的其他人觉得好笑，但在这里就不行。"
 
 # game/v11/scene1.rpy:428
 translate chinese v11_start_170debe1:
@@ -532,7 +532,7 @@ translate chinese v11_start_7a104825:
 translate chinese v11_start_85efff4c:
 
     # u "Dean, I assume since you've been so involved in this case you know all there is to know about it."
-    u "院长,我以为你一直以来在这种情况下,你知道都有了解。"
+    u "院长，我想既然您参与了这个案子您应该知道所有的事情。"
 
 # game/v11/scene1.rpy:491
 translate chinese v11_start_7c8c0873:
@@ -544,7 +544,7 @@ translate chinese v11_start_7c8c0873:
 translate chinese v11_start_21b2bc5f:
 
     # u "Good, I have a question then. What was used to hack the school?"
-    u "很好，我有一个问题。用什么黑进了学校？"
+    u "很好，我有一个问题。是什么东西被用来黑进学校？"
 
 # game/v11/scene1.rpy:501
 translate chinese v11_start_4529f272:
@@ -556,7 +556,7 @@ translate chinese v11_start_4529f272:
 translate chinese v11_start_5f20cecd:
 
     # u "Are you guessing or you know?"
-    u "你是猜的还是你知道的？"
+    u "您是猜的还是您知道的？"
 
 # game/v11/scene1.rpy:511
 translate chinese v11_start_14088fdc:
@@ -586,13 +586,13 @@ translate chinese v11_start_0e3a390a:
 translate chinese v11_start_29c2b3e9:
 
     # de "It would make a difference yes, she would be accused of encouraging misconduct which is far less of an accusation than where we currently stand."
-    de "这会有所不同是的，她会被指控鼓励不当行为，这一指控比我们目前所处的情况要小得多。"
+    de "是的，这会有所不同，她会被指控鼓励不当行为，这一指控比我们目前所处的情况要轻得多。"
 
 # game/v11/scene1.rpy:535
 translate chinese v11_start_67d020f4:
 
     # u "So first you claim you know everything about the case, which we've proven is false. Now you say if other information was to be revealed, Penelope's punishment would be much less severe."
-    u "所以首先你声称你知道这个案子的一切，我们已经证明这是假的。现在你说如果披露其他信息，佩内洛普的惩罚会轻得多。"
+    u "所以首先您声称您知道这个案子的一切，我们已经证明这是假的。现在您说如果披露其他信息，佩内洛普的惩罚会轻得多。"
 
 # game/v11/scene1.rpy:540
 translate chinese v11_start_3242f16e:
@@ -628,7 +628,7 @@ translate chinese v11_start_aa2ab76b:
 translate chinese v11_start_1f56cc61:
 
     # pe "Yes ma'am, I understand."
-    pe "是的，夫人，我知道了。"
+    pe "是的，夫人，我知道。"
 
 # game/v11/scene1.rpy:575
 translate chinese v11_start_05419f4b:
@@ -652,7 +652,7 @@ translate chinese v11_start_d40bcf7b:
 translate chinese v11_start_d7ab3688:
 
     # lee "Knowing how complicated the admission process is, unless you were simply a magician, I don't see how you could have done it without a school official's help."
-    lee "我知道录取过程是多么复杂，除非你只是一个魔术师，否则如果没有学校官员的帮助，我不知道你怎么能做到。"
+    lee "我知道录取过程是多么复杂，除非你只是一个魔术师，否则如果没有学校员工的帮助，我不知道你怎么能做到。"
 
 # game/v11/scene1.rpy:589
 translate chinese v11_start_ec4c646b:
@@ -664,7 +664,7 @@ translate chinese v11_start_ec4c646b:
 translate chinese v11_start_be5666e0:
 
     # lee "My question was not who, but if anyone. I'm not asking you to identify who helped you, I just want to know if someone did."
-    lee "我的问题不是谁，而是是否有人。我不是要你指认谁帮了你，我只是想知道是否有人帮了你。"
+    lee "我的问题不是问他是谁，而是是否有人。我不是要你指认谁帮了你，我只是想知道是否有人帮了你。"
 
 # game/v11/scene1.rpy:604
 translate chinese v11_start_ef6ea0f4:
@@ -694,13 +694,13 @@ translate chinese v11_start_518a0868:
 translate chinese v11_start_924ce306:
 
     # lee "That's not necessary, the school's current investigation is concerning the role Miss Cross played."
-    lee "那没必要，学校目前的调查是关于克罗斯小姐所扮演的角色。"
+    lee "那没必要，学校目前的调查是关于克罗斯小姐所处的角色。"
 
 # game/v11/scene1.rpy:625
 translate chinese v11_start_8c9dc01e:
 
     # lee "We can look further into our own staff here at SVC if need be on another occasion."
-    lee "如果需要，我们可以在其他场合进一步调查我们在SVC的员工。"
+    lee "如果需要，我们可以在其他场合进一步调查我们SVC的员工。"
 
 # game/v11/scene1.rpy:631
 translate chinese v11_start_2c8491b1:
@@ -736,7 +736,7 @@ translate chinese v11_start_b53cd7b1:
 translate chinese v11_start_4082cd6e:
 
     # art "I think we should speak with them privately, I'll take the blonde one and you guys decide who will take the other two."
-    art "我想我们应该私下跟他们谈谈，我去接那个金发的，你们决定谁来接另外两个。"
+    art "我想我们应该私下跟他们谈谈，我去找那个金发的，你们决定谁来接另外两个。"
 
 # game/v11/scene1.rpy:661
 translate chinese v11_start_a57a5aef:
@@ -784,7 +784,7 @@ translate chinese v11_start_3c67141d:
 translate chinese v11_start_621c3aae:
 
     # pe "I think I'm gonna be sick. Oh god..."
-    pe "我想我要吐了。哦，天呐……"
+    pe "我想我要吐了。噢，天呐……"
 
 # game/v11/scene1.rpy:733
 translate chinese v11_start_99ea67ce:
@@ -802,13 +802,13 @@ translate chinese v11s1_riley_d375cca3:
 translate chinese v11s1_riley_c682fdb0:
 
     # u "You came?"
-    u "你来了？"
+    u "你也来了？"
 
 # game/v11/scene1.rpy:767
 translate chinese v11s1_riley_3d9bc0ad:
 
     # ri "Yeah, of course. I mentioned before that I wanted to support both of you. I've been here a while but I didn't want to walk in half way through."
-    ri "是啊，当然可以。我之前说过我想支持你们两个。我已经在这里待了一阵子了，但我不想中途走进去。"
+    ri "是的，当然。我之前说过我想支持你们两个。我已经在这里待了一阵子了，但我不想中途走进去。"
 
 # game/v11/scene1.rpy:773
 translate chinese v11s1_riley_5b84b3ca:
@@ -1414,7 +1414,7 @@ translate chinese strings:
 
     # game/v11/scene1.rpy:1300
     old "What you doing later? ;)"
-    new "你稍后要做什么？ ;)"
+    new "你稍后要做什么？；)"
 
     # game/v11/scene1.rpy:1301
     old "It was an awesome day!"
