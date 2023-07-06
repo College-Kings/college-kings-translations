@@ -154,7 +154,7 @@ translate chinese v11_start_bdae0ebb:
 translate chinese v11_start_8abffd5d:
 
     # u "I remember the first time I met Penelope. As shy as she obviously was, she managed enough strength to approach me and introduce herself."
-    u "我记得我第一次见到佩内洛普时。尽管她很害羞，但她还是有足够的力气走近我并做了自我介绍。"
+    u "我记得我第一次见到佩内洛普时。尽管她很害羞，但她还是有足够的勇气走近我并做了自我介绍。"
 
 # game/v11/scene1.rpy:196
 translate chinese v11_start_aaaed004:
@@ -376,31 +376,31 @@ translate chinese v11_start_758ac4b5:
 translate chinese v11_start_173d0a2e:
 
     # u "You may not believe my words, but my actions of coming here and doing everything I can to defend her should prove to you how much I think of her."
-    u "您可能不相信我说的话，但我来这里尽我所能为她辩护的行为应该向你们证明我有多想念她。"
+    u "您可能不相信我说的话，但我来这里尽我所能为她辩护的行为应该向您证明我有多想念她。"
 
 # game/v11/scene1.rpy:364
 translate chinese v11_start_1d0bc5f1:
 
     # de "Regardless, when it comes to education, who we are on paper is what matters most."
-    de "无论如何，当谈到教育时，我们在纸面上的身份才是最重要的。"
+    de "无论如何，当谈到教育时，外在的我们才是最重要的。"
 
 # game/v11/scene1.rpy:366
 translate chinese v11_start_f66b1cc5:
 
     # de "We may be different behind closed doors, but San Vallejo College can only judge what we show to the outside world. Do you agree?"
-    de "我们关起门来可能会有所不同，但圣瓦列霍学院只能判断我们向外界展示的东西。你同意吗？"
+    de "我们生活中可能会有所不同，但圣瓦列霍学院只能判断我们向外界展示的东西。你同意吗？"
 
 # game/v11/scene1.rpy:378
 translate chinese v11_start_cbe6f1fc:
 
     # u "Yes, you're right. And on paper, outside of this one incident, Penelope is a honor roll student with several accolades to her name."
-    u "是的，您说得对。名义上，除了这件事，佩内洛普是一名优等生，获得了多项荣誉。"
+    u "是的，您说得对。外在的，除了这件事，佩内洛普是一名优等生，还获得了多项荣誉。"
 
 # game/v11/scene1.rpy:380
 translate chinese v11_start_a551b18a:
 
     # u "She volunteers all the time and even the one blemish she has is just more proof of her care for others. So if on paper is what matters most, you should be agreeing with me."
-    u "她一直都是志愿者，即使她身上有一个污点，但也更证明了她对别人的关心。所以如果书面所示是最重要的，您应该同意我的观点。"
+    u "她一直都是志愿者，虽然她身上有一个污点，但那也更证明了她对别人的关心。所以如果外在所示是最重要的，您应该同意我的观点。"
 
 # game/v11/scene1.rpy:385
 translate chinese v11_start_313bd9d8:
@@ -424,13 +424,13 @@ translate chinese v11_start_4cba5b9e:
 translate chinese v11_start_aa46c1ac:
 
     # u "I don't, there's so much stuff about people that is never shown on paper."
-    u "我不知道，有太多关于人的东西从来没有在纸上展示过。"
+    u "我不知道，有很多关于人性从来没有按外在的样子存在。"
 
 # game/v11/scene1.rpy:406
 translate chinese v11_start_740e7b21:
 
     # de "While that's true, what's on paper is what people decide to show the world. And your friend has shown she is willing to do whatever she must in order to get her way."
-    de "虽然这是真的，但纸面上的东西是人们决定向世界展示的东西。而你的朋友已经表明，为了达到她的目的，她愿意做任何她必须做的事情。"
+    de "虽然这是真的，但明面上的东西是人们决定向世界展示的东西。而你的朋友已经表明，为了达到她的目的，她愿意做任何她必须做的事情。"
 
 # game/v11/scene1.rpy:408
 translate chinese v11_start_b3b4de77:
