@@ -4,7 +4,7 @@ translate chinese strings:
 
     # game/main_menu/path_builder/path_builder.rpy:3
     old "Pick your starting location (Act 1 Start skips steps 3-5)"
-    new "选择你开始的位置 (第1季开始跳过步骤 3-5)"
+    new "选择你开始的位置 (第1集开始跳过步骤 3-5)"
 
     # game/main_menu/path_builder/path_builder.rpy:7
     old "Pick your starting KCT"
