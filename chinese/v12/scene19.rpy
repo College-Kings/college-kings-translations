@@ -214,7 +214,7 @@ translate chinese v12_party_wake_up_fe5299f0:
 translate chinese v12_party_wake_up_e15bd30d:
 
     # li "You're so blind to the fact that you're the problem and you don't wanna admit it."
-    li "你对你才是问题的事实视而不见，而且你不想承认这一点。""
+    li "你对你才是问题的事实视而不见，而且你不想承认这一点。"
 
 # game/v12/scene19.rpy:279
 translate chinese v12_party_wake_up_bf2c275c:

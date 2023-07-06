@@ -796,7 +796,7 @@ translate chinese v10s15_c3_cb046e78:
 translate chinese v10s15_c3_ece43916_1:
 
     # u "I'd love to, but I'm busy right now, sorry."
-    u "没问题，我会很快给你打电话的。
+    u "没问题，我会很快给你打电话的。"
 
 # game/v10/scene15.rpy:916
 translate chinese v10s15_c3_f5242dff_1:

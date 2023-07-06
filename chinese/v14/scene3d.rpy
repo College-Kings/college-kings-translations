@@ -436,7 +436,7 @@ translate chinese strings:
 
     # game/v14/scene3d.rpy:148
     old "You get what you pay for"
-    new "一分钱一分货""
+    new "一分钱一分货"
 
     # game/v14/scene3d.rpy:148
     old "Yes I do"

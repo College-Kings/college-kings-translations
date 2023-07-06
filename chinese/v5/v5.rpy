@@ -210,11 +210,6 @@ translate chinese jorepb_b2db8899:
     # cl "Hey. You wanna come in?"
     cl "嘿。你想进来吗？"
 
-# game/v5/v5.rpy:258
-translate chinese jorepb_428dfda8:
-
-    # u "嘿，呃，实际上……我们能-我们能先到外面谈谈吗？我-我只是想把事情弄清楚。"
-
 # game/v5/v5.rpy:263
 translate chinese jorepb_009c5a98:
 
@@ -711,7 +706,7 @@ translate chinese continuez_9eb9ba4e:
 translate chinese continuez_bd485a95:
 
     # la "Oh... yeah, of course, I'm sorry, I didn't-"
-    la 哦……好吧，当然，对不起，我没有-"
+    la "哦……好吧，当然，对不起，我没有-"
 
 # game/v5/v5.rpy:758
 translate chinese continuez_07f0645f:
@@ -969,7 +964,7 @@ translate chinese gokissb_942e4020:
 translate chinese gokissb_f69f1c5b:
 
     # u "Yeah, but that doesn't mean that I don't just have eyes for one of them."
-    u "是的，但这并不意味着我眼里可不止一个。
+    u "是的，但这并不意味着我眼里可不止一个。"
 
 # game/v5/v5.rpy:1007
 translate chinese gokissb_91bf48e2:

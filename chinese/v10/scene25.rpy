@@ -296,7 +296,7 @@ translate chinese strings:
 
     # game/v10/scene25.rpy:58
     old "Stay quiet"
-    new "保持安静""
+    new "保持安静"
 
     # game/v10/scene25.rpy:143
     old "Insult him"

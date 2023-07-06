@@ -442,7 +442,7 @@ translate chinese v12s18_bottlespin_cc5147cc:
 translate chinese v12s18_bottlespin_984adb7f:
 
     # imre "No need for all that, pucker up."
-    imre "没必要这么做，翘起嘴来。""
+    imre "没必要这么做，翘起嘴来。"
 
 # game/v12/scene18.rpy:506
 translate chinese v12s18_bottlespin_1695983c:
@@ -766,7 +766,7 @@ translate chinese v12s18_bottlespin_77fd83a3:
 translate chinese v12s18_bottlespin_0fc34f16:
 
     # no "Why are you hesitating? *Chuckles* We don't have all night."
-    no "你在犹豫什么？ *咯咯笑* 我们可没有一整晚的时间。""
+    no "你在犹豫什么？ *咯咯笑* 我们可没有一整晚的时间。"
 
 # game/v12/scene18.rpy:884
 translate chinese v12s18_bottlespin_e5156e61:
@@ -904,7 +904,7 @@ translate chinese v12s18_bottlespin_2b53851a:
 translate chinese v12s18_fmk_677cb333:
 
     # am "There you are! Come play Fuck, Marry, Kill."
-    am "你来了啊！来玩"操，娶，杀。"
+    am "你来了啊！来玩 操，娶，杀。"
 
 # game/v12/scene18.rpy:1091
 translate chinese v12s18_fmk_f190e387:

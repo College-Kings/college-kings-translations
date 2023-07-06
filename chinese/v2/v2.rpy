@@ -2080,7 +2080,7 @@ translate chinese repeatc_5d206a5d:
 translate chinese repeatc_d1679705:
 
     # pe "I'm really sorry, but I can't tell you. Please stop pressing me about it."
-    pe ""我真的很抱歉，但我不能告诉你。请不要再逼我了。"
+    pe "我真的很抱歉，但我不能告诉你。请不要再逼我了。"
 
 # game/v2/v2.rpy:2495
 translate chinese repeatc_ae3c79d1:

@@ -58,7 +58,7 @@ translate chinese s22_0cf93607:
 translate chinese s22_ee4bcd81:
 
     # pe "Yeah, maybe. At least I hope so. Thanks again [name], I appreciate it."
-    pe ""是啊，也许吧。至少我希望如此。再次感谢[name]，我很感激。"
+    pe "是啊，也许吧。至少我希望如此。再次感谢[name]，我很感激。"
 
 # game/v8/Scene22.rpy:61
 translate chinese s22_ee36d3e6:

@@ -1624,7 +1624,7 @@ translate chinese continuebe_661b4b00:
 translate chinese continuebe_e8ed35c0:
 
     # no "Yeah, I think Chris would kill me if I didn't."
-    no "是啊，我想如果我不这么做克里斯会杀了我的。
+    no "是啊，我想如果我不这么做克里斯会杀了我的。"
 
 # game/v6/v6.rpy:1886
 translate chinese continuebe_adf14c70:
@@ -2452,7 +2452,7 @@ translate chinese emsex_a_9b013366:
 translate chinese emsex_a_507e0dfa:
 
     # em "I haven't been eaten out in so long..."
-    em ""我很久没被口了……"
+    em "我很久没被口了……"
 
 # game/v6/v6.rpy:2745
 translate chinese emsex_a_9c0c9c2f:
@@ -10384,7 +10384,7 @@ translate chinese upstairsaubrey_7ec38816:
 translate chinese upstairsaubrey_deb777c1:
 
     # au "When I removed the blindfold, my best friend, was right in front of him, completely naked. And she was fucking hot."
-    au ""当我摘下他眼罩时，我最好的朋友就在他面前，全身赤裸。可他妈的性感了。"
+    au "当我摘下他眼罩时，我最好的朋友就在他面前，全身赤裸。可他妈的性感了。"
 
 # game/v6/v6.rpy:10007
 translate chinese upstairsaubrey_2afab2e8:
@@ -11140,7 +11140,7 @@ translate chinese strings:
 
     # game/v6/v6.rpy:4
     old "I'm playing drink or dare and got dared to send an underwear pic to a guy."
-    new "我在玩"喝酒大冒险"有人敢给一个男人发内衣照。"
+    new "我在玩喝酒大冒险有人敢给一个男人发内衣照。"
 
     # game/v6/v6.rpy:5
     old "And you chose me, huh?"
@@ -11248,7 +11248,7 @@ translate chinese strings:
 
     # game/v6/v6.rpy:700
     old "Follow her"
-    new "跟着她""
+    new "跟着她"
 
     # game/v6/v6.rpy:700
     old "Trust her"

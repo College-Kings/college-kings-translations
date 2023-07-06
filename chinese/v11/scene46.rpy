@@ -46,7 +46,7 @@ translate chinese v11_dinner_with_lauren_2519d9ba:
 translate chinese v11_dinner_with_lauren_3b34f9f9:
 
     # u "Wait, what? What do you know that I don't? *Chuckles*"
-    u 等等，什么？你知道什么我不知道的么？ *咯咯笑*"
+    u "等等，什么？你知道什么我不知道的么？ *咯咯笑*"
 
 # game/v11/scene46.rpy:46
 translate chinese v11_dinner_with_lauren_bad20935:

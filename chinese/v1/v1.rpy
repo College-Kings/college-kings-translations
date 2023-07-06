@@ -844,7 +844,7 @@ translate chinese af_db_87434f45:
 translate chinese af_db_ce8bea27:
 
     # u "Really? She was super nice to me."
-    u "真的吗？她对我超好的。
+    u "真的吗？她对我超好的。"
 
 # game/v1/v1.rpy:794
 translate chinese af_db_8eb725f2:
@@ -1468,7 +1468,7 @@ translate chinese efra_6f59e463:
 translate chinese efra_7b87d77e:
 
     # imre "Yeah they did, but that doesn't mean shit. The Wolves have won 5 out of the last 10 years."
-    imre "是的，但这并不能说明什么。狼在过去10年中拿了5届冠军。
+    imre "是的，但这并不能说明什么。狼在过去10年中拿了5届冠军。"
 
 # game/v1/v1.rpy:1386
 translate chinese efra_e5629812:

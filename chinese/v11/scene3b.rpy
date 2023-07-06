@@ -52,7 +52,7 @@ translate chinese v11_cafe_with_riley_4f086ef9_1:
 translate chinese v11_cafe_with_riley_ac04ba6e_1:
 
     # ri "Okay cool, thanks. See ya."
-    ri "好的，很好，谢谢。再见。""
+    ri "好的，很好，谢谢。再见。"
 
 # game/v11/scene3b.rpy:59
 translate chinese v11_cafe_with_riley_c5d4568d_1:

@@ -16,7 +16,7 @@ translate chinese v11_chloe_sex_scene_acd62c33:
 translate chinese v11_chloe_sex_scene_6676b031:
 
     # u "Hngh!"
-    u "啊！""
+    u "啊！"
 
 # game/v11/scene41b.rpy:47
 translate chinese v11_chloe_sex_scene_5e646dda:
