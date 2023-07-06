@@ -10,7 +10,7 @@ translate chinese v10_call_with_lauren1_8cdbc059:
 translate chinese v10_call_with_lauren1_ee206c6d:
 
     # u "(Oh, it's Lauren.)"
-    u "(哦，是劳伦。)"
+    u "(噢，是劳伦。)"
 
 # game/v10/scene15.rpy:35
 translate chinese v10_call_with_lauren1_fcfea652:
@@ -52,7 +52,7 @@ translate chinese v10_call_with_lauren1_1378944d:
 translate chinese v10_call_with_lauren1_38422f68:
 
     # u "Oh, where are you going?"
-    u "哦，你要去哪里？"
+    u "噢，你要去哪里？"
 
 # game/v10/scene15.rpy:78
 translate chinese v10_call_with_lauren1_23415198:
@@ -64,7 +64,7 @@ translate chinese v10_call_with_lauren1_23415198:
 translate chinese v10_call_with_lauren1_7fe6ee8b:
 
     # u "Aww that's cute, haha. What'd you get her?"
-    u "哦，真可爱，哈哈。你给她买了什么？"
+    u "噢，真可爱，哈哈。你给她买了什么？"
 
 # game/v10/scene15.rpy:91
 translate chinese v10_call_with_lauren1_b582d901:
@@ -784,7 +784,7 @@ translate chinese v10s15_c3_31f22f5b:
 translate chinese v10s15_c3_d489cef5_1:
 
     # la "Oh okay... no problem, I'll talk to you soon."
-    la "哦，好的……没问题，我会很快给你打电话的。"
+    la "噢，好的……没问题，我会很快给你打电话的。"
 
 # game/v10/scene15.rpy:903
 translate chinese v10s15_c3_cb046e78:
@@ -796,7 +796,7 @@ translate chinese v10s15_c3_cb046e78:
 translate chinese v10s15_c3_ece43916_1:
 
     # u "I'd love to, but I'm busy right now, sorry."
-    u "没问题，我会很快给你打电话的。
+    u "没问题，我会很快给你打电话的。"
 
 # game/v10/scene15.rpy:916
 translate chinese v10s15_c3_f5242dff_1:

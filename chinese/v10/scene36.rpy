@@ -4,7 +4,7 @@
 translate chinese v10_emily_vs_aubrey_d3d835b7:
 
     # au "I know I'm hot, but c'mon, don't just stare at me all day."
-    au "我知道我很火辣，但拜托，别整天盯着我看。"
+    au "我知道我很性感，但拜托，别整天盯着我看。"
 
 # game/v10/scene36.rpy:13
 translate chinese v10_emily_vs_aubrey_018cde62:

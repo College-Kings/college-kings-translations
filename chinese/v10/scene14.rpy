@@ -292,13 +292,13 @@ translate chinese v10_apes_samantha_a49126a3:
 translate chinese v10_apes_samantha_5fd87a1d:
 
     # sa "*Chuckles* Oh shut up. And just so we're clear no one is calling dibs on me. I'm not some leftover lasagna."
-    sa "*咯咯笑* 哦，闭嘴。我们先说清楚，没人能左右我。我不是吃剩的千层面。"
+    sa "*咯咯笑* 噢，闭嘴。我们先说清楚，没人能左右我。我不是吃剩的千层面。"
 
 # game/v10/scene14.rpy:281
 translate chinese v10_apes_samantha_3bb6b427:
 
     # u "Oh, guess I need to tell the guys to forget I called dibs then."
-    u "哦，我想我得告诉那些家伙忘了我说了算。"
+    u "噢，我想我得告诉那些家伙忘了我说了算。"
 
 # game/v10/scene14.rpy:286
 translate chinese v10_apes_samantha_88b3ce91:

@@ -4,7 +4,7 @@
 translate chinese v10_mc_vs_imre_fight_856ab472:
 
     # ry "Hey man real quick. I'm not saying I think you would, but I know you and Imre are friends and have been close since you started college..."
-    ry "嘿，伙计，快点。我不是说我认为你会，但我知道你和伊姆雷是朋友，自从你上大学以来就一直很亲密……"
+    ry "嘿，伙计，快点儿。我并不是针对你，但我知道你和伊姆雷是朋友，自从你上大学以来就一直很亲密……"
 
 # game/v10/scene7.rpy:11
 translate chinese v10_mc_vs_imre_fight_3df88c3b:
@@ -22,13 +22,13 @@ translate chinese v10_mc_vs_imre_fight_e9cf407b:
 translate chinese v10_mc_vs_imre_fight_27baa7fa:
 
     # gr "Don't even start with all the sappy shit! You better destroy his ass!"
-    gr "别一开始就说那些多愁善感的屁话！你最好毁了他的屁股！"
+    gr "别一开始就说那些多愁善感的屁话！你最好剁了他的屁股！"
 
 # game/v10/scene7.rpy:26
 translate chinese v10_mc_vs_imre_fight_8b61ca13:
 
     # jo "*Loud whisper* Hey, I got some plans tonight. How much longer is-"
-    jo "*大声耳语* 嘿，我今晚有安排。还有多长时间-"
+    jo "*大声耳语* 嘿，我今晚还有安排。还有多长时间-"
 
 # game/v10/scene7.rpy:31
 translate chinese v10_mc_vs_imre_fight_538461f3:
@@ -40,13 +40,13 @@ translate chinese v10_mc_vs_imre_fight_538461f3:
 translate chinese v10_mc_vs_imre_fight_58eefc96:
 
     # ry "Do it for the Apes man."
-    ry "为猿队做这件事。"
+    ry "为猿人做这件事。"
 
 # game/v10/scene7.rpy:41
 translate chinese v10_mc_vs_imre_fight_075819f2:
 
     # u "You got it."
-    u "没问题。"
+    u "你能行的。"
 
 # game/v10/scene7.rpy:46
 translate chinese v10_mc_vs_imre_fight_a8519fbf:
@@ -64,13 +64,13 @@ translate chinese v10_mc_vs_imre_fight_451b7f0d:
 translate chinese v10_mc_vs_imre_fight_443ecaf0:
 
     # u "You're going down tonight."
-    u "你今晚就完蛋了。"
+    u "你今晚就要完蛋了。"
 
 # game/v10/scene7.rpy:62
 translate chinese v10_mc_vs_imre_fight_a24f67d4:
 
     # jo "Same rules as before, just get it guys!"
-    jo "规则和以前一样，伙计们，去战斗吧！"
+    jo "规则和原来一样，伙计们，去战斗吧！"
 
 # game/v10/scene7.rpy:421
 translate chinese imre_fightEnd_1863080c:
@@ -82,7 +82,7 @@ translate chinese imre_fightEnd_1863080c:
 translate chinese imre_fightEnd_19324cd4:
 
     # ry "What the fuck did I just say?! I literally just-"
-    ry "我他妈的说什么？！我真的是-"
+    ry "我他妈地说什么？！我真的是-"
 
 # game/v10/scene7.rpy:430
 translate chinese imre_fightEnd_c443bde3:

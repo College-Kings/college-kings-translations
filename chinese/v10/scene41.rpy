@@ -58,13 +58,13 @@ translate chinese v10_mc_pen_call_47df06c6:
 translate chinese v10_mc_pen_call_d32187da:
 
     # u "But it's also true you could just get a little slap on the wrist. We just need to hope for the best and keep a positive attitude."
-    u "但这也是事实，你可能只是受到一点轻微的处罚。我们只需要抱最好的希望，保持积极的态度。"
+    u "但这也是事实，你可能只是受到一点儿轻微的处罚。我们只需要抱最好的希望，保持积极的态度就行。"
 
 # game/v10/scene41.rpy:60
 translate chinese v10_mc_pen_call_4df4e90d:
 
     # pe "*Sighs* Do you practice these speeches?"
-    pe "*叹息* 你练习这些演讲吗？"
+    pe "*叹息* 你练习过辩论吗？"
 
 # game/v10/scene41.rpy:65
 translate chinese v10_mc_pen_call_3ad3758a:
@@ -94,13 +94,13 @@ translate chinese v10_mc_pen_call_b6961b00:
 translate chinese v10_mc_pen_call_2bc291b0:
 
     # u "I will argue the dean to the ground if needed."
-    u "如果需要的话，我会说服院长就范的。"
+    u "如果需要的话，我会说服院长同意的。"
 
 # game/v10/scene41.rpy:82
 translate chinese v10_mc_pen_call_dd92d4b5:
 
     # pe "Thank you [name]. I'm glad I called you, I feel a bit more relaxed now. Enough to get some sleep. I probably won't get much though,"
-    pe "谢谢，[name]。我很高兴给你打电话，我现在感觉轻松多了。足够睡一觉了。不过，我可能不会睡得太多。"
+    pe "谢谢，[name]。我很高兴给你打电话，我现在感觉轻松多了。足够睡一觉了。不过，我可能不会睡得太久。"
 
 # game/v10/scene41.rpy:87
 translate chinese v10_mc_pen_call_8d7e0a44:
@@ -124,11 +124,11 @@ translate chinese v10_mc_pen_call_7b5aecd8:
 translate chinese v10_mc_pen_call_68a9bef4:
 
     # u "(That was a long day.)"
-    u "(那是漫长的一天。)"
+    u "(真是漫长的一天。)"
 
 # game/v10/scene41.rpy:118
 translate chinese v10_mc_pen_call_68a9bef4_1:
 
     # u "(That was a long day.)"
-    u "(那是漫长的一天。)"
+    u "(真是漫长的一天。)"
 

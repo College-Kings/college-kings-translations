@@ -58,7 +58,7 @@ translate chinese v10_aft_walk_home_b564dcbf:
 translate chinese v10_aft_walk_home_c5eb8ee5:
 
     # u "Just a little bit."
-    u "有一点。"
+    u "有一点儿。"
 
 # game/v10/scene23.rpy:78
 translate chinese v10_aft_walk_home_fa623b6b:
@@ -310,15 +310,15 @@ translate chinese strings:
 
     # game/v10/scene23.rpy:31
     old "Check it out"
-    new "看看这个"
+    new "看看"
 
     # game/v10/scene23.rpy:31
     old "Keep walking"
-    new "继续走下去"
+    new "继续走"
 
     # game/v10/scene23.rpy:82
     old "Let it go"
-    new "放手吧"
+    new "不管了"
 
     # game/v10/scene23.rpy:210
     old "Hot girls"

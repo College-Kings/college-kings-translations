@@ -4,7 +4,7 @@
 translate chinese v10_fight_result_1068c009:
 
     # jo "*Laughs* In the words of Smokey, \"you got knocked the fuck out!\""
-    jo "*笑* 用斯莫基的话说，\"你他妈的被打蒙了！\""
+    jo "*笑* 用斯莫基的话说，\"你他妈地被打蒙了！\""
 
 # game/v10/scene8.rpy:20
 translate chinese v10_fight_result_34ffd3e7:
@@ -46,7 +46,7 @@ translate chinese v10_fight_result_6f746018:
 translate chinese v10_fight_result_9392a749:
 
     # u "(I fucking did it!)"
-    u "(我他妈地做到了！)"
+    u "(我他妈的做到了！)"
 
 # game/v10/scene8.rpy:51
 translate chinese v10_fight_result_4ec13f28:
@@ -64,7 +64,7 @@ translate chinese v10_fight_result_53b9e952:
 translate chinese v10_fight_result_4cd684da:
 
     # ry "I worked hard for this and I got it! Wolves fucking suck!"
-    ry "我为此付出了很多，我做到了！狼队真他妈的烂透了！"
+    ry "我为此付出了很多，我做到了！狼人真他妈的烂透了！"
 
 # game/v10/scene8.rpy:70
 translate chinese v10_fight_result_352b55f4_1:
@@ -100,19 +100,19 @@ translate chinese v10_fight_result_4a811766:
 translate chinese v10_fight_result_3c39cb48:
 
     # ch "That's alright, man. You'll get him next time."
-    ch "没关系，伙计。下次你打倒他的。"
+    ch "没关系，伙计。下次你能打倒他的。"
 
 # game/v10/scene8.rpy:105
 translate chinese v10_fight_result_21f66087:
 
     # u "(Fuck, I let my entire frat down...)"
-    u "(操，我让我的整个兄弟会失望了……)"
+    u "(该死的，我让我的整个兄弟会失望了……)"
 
 # game/v10/scene8.rpy:107
 translate chinese v10_fight_result_f259d1fd:
 
     # u "(God, I just wanna go to bed.)"
-    u "(天哪，我只想上床睡觉。)"
+    u "(天呐，我只想上床睡觉。)"
 
 # game/v10/scene8.rpy:118
 translate chinese v10_fight_result_34ffd3e7_1:
@@ -148,7 +148,7 @@ translate chinese v10_fight_result_352b55f4_2:
 translate chinese v10_fight_result_6df98004:
 
     # gr "*Chanting* Apes! Apes! Apes!"
-    gr "*唱着圣歌* 猿队！猿队！猿队！"
+    gr "*唱着圣歌* 猿人！猿人！猿人！"
 
 # game/v10/scene8.rpy:141
 translate chinese v10_fight_result_168b9d02:
@@ -160,7 +160,7 @@ translate chinese v10_fight_result_168b9d02:
 translate chinese v10_fight_result_9392a749_1:
 
     # u "(I fucking did it!)"
-    u "(我他妈的做到了！)"
+    u "(我他妈地做到了！)"
 
 # game/v10/scene8.rpy:145
 translate chinese v10_fight_result_4ec13f28_1:
@@ -178,7 +178,7 @@ translate chinese v10_fight_result_53b9e952_1:
 translate chinese v10_fight_result_c1143392:
 
     # imre "WOLVES FOR LIFE! Also, ladies hit me up."
-    imre "一生一世的狼群！另外，女士们也会找我搭讪。"
+    imre "此生无悔入狼人！另外，女士们也会找我搭讪。"
 
 # game/v10/scene8.rpy:165
 translate chinese v10_fight_result_352b55f4_3:
@@ -190,13 +190,13 @@ translate chinese v10_fight_result_352b55f4_3:
 translate chinese v10_fight_result_4c5f14c7:
 
     # gr "That was absolute shit, man! You gotta do better if you wanna rep the Apes!"
-    gr "那简直是狗屎，伙计！如果你想代表猿队，你就得做得更好！"
+    gr "那简直是狗屎，伙计！如果你想代表猿人，你就得做得更好！"
 
 # game/v10/scene8.rpy:180
 translate chinese v10_fight_result_11f865a6:
 
     # u "Right, I'm sorry..."
-    u "好的，我很抱歉……"
+    u "好吧，我很抱歉……"
 
 # game/v10/scene8.rpy:185
 translate chinese v10_fight_result_78325997:
@@ -208,11 +208,11 @@ translate chinese v10_fight_result_78325997:
 translate chinese v10_fight_result_21f66087_1:
 
     # u "(Fuck, I let my entire frat down...)"
-    u "(操，我让我的整个兄弟会失望了……)"
+    u "(该死的，我让我的整个兄弟会失望了……)"
 
 # game/v10/scene8.rpy:189
 translate chinese v10_fight_result_f259d1fd_1:
 
     # u "(God, I just wanna go to bed.)"
-    u "(天哪，我只想上床睡觉。)"
+    u "(天呐，我只想上床睡觉。)"
 

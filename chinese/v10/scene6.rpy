@@ -4,7 +4,7 @@
 translate chinese v10_mc_vs_ryan_fight_c1876d69:
 
     # imre "Holy shit man, did you see that shit!? I was planning on doing that one-two thing Sebastian showed me but I guess the one was enough!"
-    imre "我的天，你看到了吗？我本来打算做塞巴斯蒂安教我的二合一，但我想一套就够了！"
+    imre "我的天呐，你看到了吗？我本来打算做塞巴斯蒂安教我的二合一，但我想一套就够了！"
 
 # game/v10/scene6.rpy:18
 translate chinese v10_mc_vs_ryan_fight_14505d8e:
@@ -16,7 +16,7 @@ translate chinese v10_mc_vs_ryan_fight_14505d8e:
 translate chinese v10_mc_vs_ryan_fight_8ddb6893:
 
     # imre "*Sings* I'm getting me some pussy after that! I'm getting me some pussy! I'm getting me some pussy!"
-    imre "*唱* 在那之后我要给自己找几个女人！我要给自己找个女人！我要给自己找个女人！"
+    imre "*唱* 在那之后我要给自己找几个女人！我要给自己找几个女人！我要给自己找几个女人！"
 
 # game/v10/scene6.rpy:28
 translate chinese v10_mc_vs_ryan_fight_3b3db138:
@@ -28,7 +28,7 @@ translate chinese v10_mc_vs_ryan_fight_3b3db138:
 translate chinese v10_mc_vs_ryan_fight_4be91cd1:
 
     # jo "*Loud whisper* Hey, I got some plans tonight. How much longer is..."
-    jo "*大声耳语* 嘿，我今晚有安排。还有多长时间……"
+    jo "*大声耳语* 嘿，我今晚还有安排。还有多长时间……"
 
 # game/v10/scene6.rpy:38
 translate chinese v10_mc_vs_ryan_fight_b8606b9d:
@@ -40,7 +40,7 @@ translate chinese v10_mc_vs_ryan_fight_b8606b9d:
 translate chinese v10_mc_vs_ryan_fight_09b6ceab:
 
     # imre "Go take him apart!"
-    imre "去把他拆了！"
+    imre "去把他五马分尸！"
 
 # game/v10/scene6.rpy:48
 translate chinese v10_mc_vs_ryan_fight_3eeb3d50:
@@ -70,7 +70,7 @@ translate chinese v10_mc_vs_ryan_fight_7a9bf57f:
 translate chinese v10_mc_vs_ryan_fight_a24f67d4:
 
     # jo "Same rules as before, just get it guys!"
-    jo "规则和以前一样，伙计们，去战斗吧！"
+    jo "规则和原来一样，伙计们，去战斗吧！"
 
 # game/v10/scene6.rpy:430
 translate chinese ryan_fightEnd_d9990e5b:
@@ -106,9 +106,9 @@ translate chinese strings:
 
     # game/v10/scene6.rpy:65
     old "Fight Ryan"
-    new "与瑞恩决斗"
+    new "与瑞恩战斗"
 
     # game/v10/scene6.rpy:65
     old "Don't fight"
-    new "不要打架"
+    new "别打"
 

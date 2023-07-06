@@ -22,7 +22,7 @@ translate chinese v9_ryan_v_perry_fight_a6b0e8f0:
 translate chinese v9_ryan_v_perry_fight_e964dca7:
 
     # jo "Don't kill each other, stay in the ring, yada, yada, yada. Have fun!"
-    jo "别杀了对方，待在擂台上，等等。玩得开心！"
+    jo "点到为止，待在擂台上等等。玩儿得开心！"
 
 # game/v10/scene4.rpy:36
 translate chinese v9_ryan_v_perry_fight_ff0fe893:
@@ -46,7 +46,7 @@ translate chinese v9_ryan_v_perry_fight_8e185b13:
 translate chinese v9_ryan_v_perry_fight_0e07d8ca:
 
     # jo "Ah, who cares, this is fight night."
-    jo "啊，谁在乎呢，这是拳击之夜。"
+    jo "啊，耗子尾汁，这是战斗之夜。"
 
 # game/v10/scene4.rpy:73
 translate chinese v9_ryan_v_perry_fight_4a6f411d:
@@ -64,11 +64,11 @@ translate chinese v9_ryan_v_perry_fight_bed436de:
 translate chinese v9_ryan_v_perry_fight_f4d955c4:
 
     # ry "I'm just warming up."
-    ry "我只是在热身。"
+    ry "我只不过在热身而已。"
 
 # game/v10/scene4.rpy:85
 translate chinese v9_ryan_v_perry_fight_c596321d:
 
     # jo "You've heard it here first, Ryan came to fight!"
-    jo "你已经在这里听过了，瑞恩是来打架的！"
+    jo "你们已经在这里听过了，瑞恩是来打架的！"
 

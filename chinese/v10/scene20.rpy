@@ -4,7 +4,7 @@
 translate chinese v10s20_PhoneContinueW_66785db8:
 
     # u "(I should reply to Josh.)"
-    u "(我应该给乔什回信。)"
+    u "(我应该给乔什回信息。)"
 
 # game/v10/scene20.rpy:46
 translate chinese v10s20_PhoneContinueW_8bafdcb6:

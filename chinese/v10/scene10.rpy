@@ -22,7 +22,7 @@ translate chinese v10s10_PhoneContinueLinW_02d99096:
 translate chinese v10s10_PhoneContinueJoshW2_88d710ce:
 
     # u "(I should check my phone.)"
-    u "(我应该检查一下我的手机。)"
+    u "(我应该看一下我的手机。)"
 
 # game/v10/scene10.rpy:193
 translate chinese v10s10_PhoneContinueLinA_f9e9813d:

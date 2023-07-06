@@ -946,11 +946,11 @@ translate chinese strings:
 
     # game/v10/scene17.rpy:296
     old "Top"
-    new "顶部"
+    new "上面"
 
     # game/v10/scene17.rpy:296
     old "Bottom"
-    new "底部"
+    new "下面"
 
     # game/v10/scene17.rpy:525
     old "Apologize"

@@ -16,7 +16,7 @@ translate chinese v10_chloe_hallway_8512e44a:
 translate chinese v10_chloe_hallway_0795fe96:
 
     # au "Oh shush. Okay, so I told Chloe she looks really cute today, but she said cute makes it sound really childish so she'd rather look sexy."
-    au "哦嘘。好了，我告诉克洛伊她今天看起来真的很可爱，但是她说可爱会让她听起来很幼稚，所以她宁愿看起来性感。"
+    au "噢，嘘。好了，我告诉克洛伊她今天看起来真的很可爱，但是她说可爱会让她听起来很幼稚，所以她宁愿看起来性感。"
 
 # game/v10/scene29.rpy:34
 translate chinese v10_chloe_hallway_6e2a0fe7:
@@ -250,7 +250,7 @@ translate chinese v10_chloe_hallway_5f16b2ed:
 translate chinese v10_chloe_hallway_2be5d203:
 
     # u "Yeah, of course."
-    u "是啊，当然可以。"
+    u "好啊，当然可以。"
 
 # game/v10/scene29.rpy:269
 translate chinese v10_chloe_hallway_4204e93d:
@@ -280,7 +280,7 @@ translate chinese v10_chloe_hallway_523b8ead:
 translate chinese v10_chloe_hallway_c4b252de_1:
 
     # cl "Oh, yeah okay... no worries. Guess I'll see you around then."
-    cl "哦，好的，好的……别担心。我想我们会再见的。"
+    cl "噢，好的，好的……别担心。我想我们会再见的。"
 
 translate chinese strings:
 
