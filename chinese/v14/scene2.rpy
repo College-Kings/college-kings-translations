@@ -28,7 +28,7 @@ translate chinese v14s02_29547974:
 translate chinese v14s02_2840c8b0:
 
     # imre "Haha, I knew it."
-    imre "哈哈，我就知道。""
+    imre "哈哈，我就知道。"
 
 # game/v14/scene2.rpy:54
 translate chinese v14s02_c1e87309:
