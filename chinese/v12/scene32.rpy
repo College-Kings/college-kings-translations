@@ -76,7 +76,7 @@ translate chinese v12s32_095f9e0e:
 translate chinese v12s32_e7c369ea:
 
     # na "Sister sister, with a mister mister! Oooooh..."
-    na "妹妹呀妹妹，和先生在一起了！哦……"
+    na "妹妹呀妹妹，和先生在一起了！噢……"
 
 # game/v12/scene32.rpy:104
 translate chinese v12s32_1da28961:
@@ -280,13 +280,13 @@ translate chinese v12s32_dedb0670:
 translate chinese v12s32_2c9fedd9:
 
     # u "Oh umm..."
-    u "哦，嗯……"
+    u "噢，嗯……"
 
 # game/v12/scene32.rpy:279
 translate chinese v12s32_df10c864:
 
     # au "Oh, okay."
-    au "哦，好的。"
+    au "噢，好的。"
 
 # game/v12/scene32.rpy:294
 translate chinese v12s32_f2cc5106:
@@ -298,7 +298,7 @@ translate chinese v12s32_f2cc5106:
 translate chinese v12s32_bdf7709d:
 
     # na "Oooh! I'm liking what I see!"
-    na "哦！我喜欢我看到的东西！"
+    na "噢！我喜欢我看到的东西！"
 
 # game/v12/scene32.rpy:311
 translate chinese v12s32_0c1259d9:
@@ -346,7 +346,7 @@ translate chinese v12s32_1682d72e:
 translate chinese v12s32_a39cd53d:
 
     # au "Oh my god, [name]... This is so fucking sick!"
-    au "哦，我的天呐，[name]……这他妈的太厉害了！"
+    au "噢，我的天呐，[name]……这他妈的太厉害了！"
 
 # game/v12/scene32.rpy:371
 translate chinese v12s32_c3d1c65b:
@@ -442,7 +442,7 @@ translate chinese v12s32_8b258704:
 translate chinese v12s32_a70730cf:
 
     # au "What? Oh, nothing. She's really good."
-    au "什么？哦，没什么。她真的很棒。"
+    au "什么？噢，没什么。她真的很棒。"
 
 # game/v12/scene32.rpy:481
 translate chinese v12s32_4e40ec5e:
@@ -466,7 +466,7 @@ translate chinese v12s32_6a4b526e:
 translate chinese v12s32_4b2e8b24:
 
     # na "Ooohh! Someone sure has a lot of faith in you to think you can out do me. *Chuckles* Get up here little sis, let's see it!"
-    na "哦！肯定有人对你很有信心，认为你能胜过我。 *咯咯笑* 过来，小妹妹，让我们看看！"
+    na "噢！肯定有人对你很有信心，认为你能胜过我。 *咯咯笑* 过来，小妹妹，让我们看看！"
 
 # game/v12/scene32.rpy:505
 translate chinese v12s32_fbbd575c:
@@ -862,7 +862,7 @@ translate chinese strings:
 
     # game/v12/scene32.rpy:12
     old "Hehe, you too! Hope to see you soon...;)"
-    new "呵呵，你也是！希望很快能见到你……;)"
+    new "呵呵，你也是！希望很快能见到你……；)"
 
     # game/v12/scene32.rpy:13
     old "OMG!?!?!?!"
@@ -874,7 +874,7 @@ translate chinese strings:
 
     # game/v12/scene32.rpy:17
     old "You're so welcome... Today was amazing. <3"
-    new "你太客气了.今天太棒了。 <3"
+    new "你太客气了……今天太棒了。 <3"
 
     # game/v12/scene32.rpy:273
     old "Turn your back to Aubrey"

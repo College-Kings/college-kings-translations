@@ -112,7 +112,7 @@ translate chinese v12_docks_ec5e488d:
 translate chinese v12_docks_fdbce207:
 
     # u "Oh..."
-    u "哦……"
+    u "噢……"
 
 # game/v12/scene6.rpy:140
 translate chinese v12_docks_26a4d4d0:
@@ -142,7 +142,7 @@ translate chinese v12_docks_d812ab51:
 translate chinese v12_docks_430bbf0d:
 
     # u "Ohh, haha."
-    u "哦，哈哈。"
+    u "噢，哈哈。"
 
 # game/v12/scene6.rpy:165
 translate chinese v12_docks_686a74bd:

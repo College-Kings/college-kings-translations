@@ -28,7 +28,7 @@ translate chinese v12_penelope_call_9bc3e595:
 translate chinese v12_penelope_call_10484c3b:
 
     # pe "Oh, nothing really. I won't go into details, but all the money I owe the school is being handled. I met a good guy that's really helping me out."
-    pe "哦，真的没什么。我不想详述，但我欠学校的钱都在处理中。我遇到了一个很好的人，他真的帮了我很大的忙。"
+    pe "噢，真的没什么。我不想详述，但我欠学校的钱都在处理中。我遇到了一个很好的人，他真的帮了我很大的忙。"
 
 # game/v12/scene3a.rpy:61
 translate chinese v12_penelope_call_b28c587b:
@@ -166,7 +166,7 @@ translate chinese v12_penelope_call_1e63163a:
 translate chinese v12_penelope_call_7beaed05:
 
     # u "Oh uhm, never mind... Sorry. Talk to you later."
-    u "哦，嗯，不要紧……抱歉。晚点再跟你聊。"
+    u "噢，嗯，不要紧……抱歉。晚点再跟你聊。"
 
 # game/v12/scene3a.rpy:186
 translate chinese v12_penelope_call_44aeeaec:
@@ -220,5 +220,5 @@ translate chinese strings:
 
     # game/v12/scene3a.rpy:175
     old "I miss you"
-    new "我想念你"
+    new "我想你"
 

@@ -82,13 +82,13 @@ translate chinese v12_slumber_party_333afaa8:
 translate chinese v12_slumber_party_5086a4ea:
 
     # u "Oh shoot, I'm sorry."
-    u "哦，见鬼，我很抱歉。"
+    u "噢，见鬼，我很抱歉。"
 
 # game/v12/scene18.rpy:133
 translate chinese v12_slumber_party_d9f77fea:
 
     # ri "Oh you're fine, come in."
-    ri "哦，没事儿，进来吧。"
+    ri "噢，没事儿，进来吧。"
 
 # game/v12/scene18.rpy:143
 translate chinese v12_slumber_party_1cdbaf9b:
@@ -106,7 +106,7 @@ translate chinese v12_slumber_party_0f571eaa:
 translate chinese v12_slumber_party_d11d9e72:
 
     # u "*Sarcasm* Oh, yay! Are we doing our nails too?!"
-    u " *讽刺* 哦，耶！我们也要做指甲吗？！"
+    u " *讽刺* 噢，耶！我们也要做指甲吗？！"
 
 # game/v12/scene18.rpy:158
 translate chinese v12_slumber_party_26e91ddd:
@@ -226,7 +226,7 @@ translate chinese v12_slumber_party_44e08934:
 translate chinese v12_slumber_party_397ff786:
 
     # imre "WOOHOOOO! HAPPY BIRTHD-"
-    imre "哇哦！生日快乐-"
+    imre "哇噢！生日快乐-"
 
 # game/v12/scene18.rpy:276
 translate chinese v12_slumber_party_b74c9f91:
@@ -328,7 +328,7 @@ translate chinese v12s18_bottlespin_aeac3026:
 translate chinese v12s18_bottlespin_87809a98:
 
     # imre "Aww yeah, we're playing spin the bottle?!"
-    imre "哦，是吗，我们要玩旋转瓶子？！"
+    imre "噢，是吗，我们要玩旋转瓶子？！"
 
 # game/v12/scene18.rpy:384
 translate chinese v12s18_bottlespin_9158ec8f:
@@ -340,7 +340,7 @@ translate chinese v12s18_bottlespin_9158ec8f:
 translate chinese v12s18_bottlespin_37cb0d32:
 
     # imre "And I didn't get an invite? Wow..."
-    imre "我没有收到邀请函吗？哇哦……"
+    imre "我没有收到邀请函吗？哇噢……"
 
 # game/v12/scene18.rpy:394
 translate chinese v12s18_bottlespin_e9b291c1:
@@ -454,7 +454,7 @@ translate chinese v12s18_bottlespin_1695983c:
 translate chinese v12s18_bottlespin_62e68f8d:
 
     # au "*Chuckles* Ohh yes..."
-    au "*咯咯笑* 哦，是的……"
+    au "*咯咯笑* 噢，是的……"
 
 # game/v12/scene18.rpy:516
 translate chinese v12s18_bottlespin_a941f86d:
@@ -598,7 +598,7 @@ translate chinese v12s18_bottlespin_11799dd8:
 translate chinese v12s18_bottlespin_ded321d2:
 
     # ch "*Whisper* Oh, shit..."
-    ch " *耳语* 哦，见鬼……"
+    ch " *耳语* 噢，见鬼……"
 
 # game/v12/scene18.rpy:670
 translate chinese v12s18_bottlespin_1108a238:
@@ -640,7 +640,7 @@ translate chinese v12s18_bottlespin_0b7d779b:
 translate chinese v12s18_bottlespin_93930b59:
 
     # li "Aww, you wishing you got more kisses, Imre?"
-    li "哦，你希望你能得到更多的吻，伊姆雷？"
+    li "噢，你希望你能得到更多的吻，伊姆雷？"
 
 # game/v12/scene18.rpy:717
 translate chinese v12s18_bottlespin_000e3031:
@@ -754,7 +754,7 @@ translate chinese v12s18_bottlespin_0cd14e5b:
 translate chinese v12s18_bottlespin_3f429969:
 
     # u "Oh, uhh-"
-    u "哦，呃-"
+    u "噢，呃-"
 
 # game/v12/scene18.rpy:869
 translate chinese v12s18_bottlespin_77fd83a3:
@@ -778,7 +778,7 @@ translate chinese v12s18_bottlespin_e5156e61:
 translate chinese v12s18_bottlespin_271f550d:
 
     # au "Oh yay! This is just what you two need. Kiss and make up, boys. *Chuckles*"
-    au "哦耶！这正是你们两个需要的。亲吻和好，伙计们。 *咯咯笑* "
+    au "噢耶！这正是你们两个需要的。亲吻和好，伙计们。 *咯咯笑* "
 
 # game/v12/scene18.rpy:909
 translate chinese v12s18_bottlespin_b2ea673d:
@@ -796,7 +796,7 @@ translate chinese v12s18_bottlespin_791c6445:
 translate chinese v12s18_bottlespin_852175cf:
 
     # u "(Oh shit!)"
-    u "(哦，见鬼！)"
+    u "(噢，见鬼！)"
 
 # game/v12/scene18.rpy:933
 translate chinese v12s18_bottlespin_841ac409:
@@ -844,7 +844,7 @@ translate chinese v12s18_bottlespin_a534c02b:
 translate chinese v12s18_bottlespin_f7112d2b:
 
     # cl "Oh, hush. My turn?"
-    cl "哦，安静。轮到我了？"
+    cl "噢，安静。轮到我了？"
 
 # game/v12/scene18.rpy:998
 translate chinese v12s18_bottlespin_e868c649:
@@ -904,7 +904,7 @@ translate chinese v12s18_bottlespin_2b53851a:
 translate chinese v12s18_fmk_677cb333:
 
     # am "There you are! Come play Fuck, Marry, Kill."
-    am "你来了啊！来玩 操，娶，杀。"
+    am "你来了啊！来玩操，娶，杀。"
 
 # game/v12/scene18.rpy:1091
 translate chinese v12s18_fmk_f190e387:
@@ -1048,7 +1048,7 @@ translate chinese v12s18_fmk_fa217ae4:
 translate chinese v12s18_fmk_c71316b5:
 
     # am "Oh, right. So to start, I'd kill Imre."
-    am "哦，好吧。所以首先，我要杀了伊姆雷。"
+    am "噢，好吧。所以首先，我要杀了伊姆雷。"
 
 # game/v12/scene18.rpy:1221
 translate chinese v12s18_fmk_19845023:
@@ -1180,7 +1180,7 @@ translate chinese v12s18_fmk_16c94a05:
 translate chinese v12s18_fmk_0b7a47ed:
 
     # am "Oooh, I peep your sly game, [name]. That was good..."
-    am "哦，我偷看了你狡猾的游戏，[name]。那真是太好了……"
+    am "噢，我偷看了你狡猾的游戏，[name]。那真是太好了……"
 
 # game/v12/scene18.rpy:1335
 translate chinese v12s18_fmk_546deed0:
@@ -1312,7 +1312,7 @@ translate chinese v12s18_fmk_1623c597:
 translate chinese v12s18_fmk_140c5099:
 
     # u "(Oh boy...)"
-    u "(哦，天呐……)"
+    u "(噢，天呐……)"
 
 # game/v12/scene18.rpy:1455
 translate chinese v12s18_bet_d7c274fe:
@@ -1438,7 +1438,7 @@ translate chinese v12s18_bet_c42f9648:
 translate chinese v12s18_bet_e0056f98:
 
     # u "Oh... okay, umm. What are you doing?"
-    u "哦……好的，嗯。你干吗呢？"
+    u "噢……好的，嗯。你干吗呢？"
 
 # game/v12/scene18.rpy:1608
 translate chinese v12s18_bet_f75d3e50:
@@ -1492,7 +1492,7 @@ translate chinese v12s18_bet_3462d206:
 translate chinese v12s18_bet_eacbe3e5:
 
     # am "Oooo, these are good! Damn..."
-    am "哦，这些真好！该死的……"
+    am "噢，这些真好！该死的……"
 
 # game/v12/scene18.rpy:1680
 translate chinese v12s18_bet_baac5e4b_1:
@@ -1528,7 +1528,7 @@ translate chinese v12s18_bet_909d5397:
 translate chinese v12s18_bet_8df010cf:
 
     # imre "OH SHITTT!"
-    imre "哦，他妈的！"
+    imre "噢，他妈的！"
 
 # game/v12/scene18.rpy:1716
 translate chinese v12s18_bet_ed40d4ef:

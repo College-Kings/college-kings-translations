@@ -96,6 +96,7 @@ translate chinese v12_riley_room_b4ae1984:
     # ri "I really did! I don't know if you could tell but, I've been on a bit of a roller coaster lately with Amber and really needed to just have some fun."
     ri "我很开心！我不知道你能不能看出来，但是，我最近和琥珀就像坐过山车一样，真的需要找点乐子。"
 
+
 # game/v12/scene22.rpy:115
 translate chinese v12_riley_room_1bf73f3f:
 
@@ -124,7 +125,7 @@ translate chinese v12_riley_room_10bb9999:
 translate chinese v12_riley_room_05e8f70d:
 
     # u "Oh, really?"
-    u "哦，真的吗？"
+    u "噢，真的吗？"
 
 # game/v12/scene22.rpy:140
 translate chinese v12_riley_room_dd6435bb:

@@ -124,7 +124,7 @@ translate chinese v12s33_697a7e69:
 translate chinese v12s33_4d1ee075:
 
     # u "Nope, sounds simple enough. Oh, are there towels in the spa room?"
-    u "没有，听起来很简单。哦，spa房里有毛巾吗？"
+    u "没有，听起来很简单。噢，spa房里有毛巾吗？"
 
 # game/v12/scene33.rpy:109
 translate chinese v12s33_46c2466a:
@@ -196,7 +196,7 @@ translate chinese v12s33_9436db2d:
 translate chinese v12s33_cb47791a:
 
     # li "Oh my gosh. *Chuckles*"
-    li "哦，我的天呐。 *咯咯笑* "
+    li "噢，我的天呐。 *咯咯笑* "
 
 # game/v12/scene33.rpy:180
 translate chinese v12s33_806296da:
@@ -214,7 +214,7 @@ translate chinese v12s33_507b2d24:
 translate chinese v12s33_523cd52c:
 
     # u "Oh yeah, guess you're right. Umm..."
-    u "哦，是的，我想你是对的。嗯……"
+    u "噢，是的，我想你是对的。嗯……"
 
 # game/v12/scene33.rpy:195
 translate chinese v12s33_1cfa81ac:
@@ -334,7 +334,7 @@ translate chinese v12s33_a4c4eb2c:
 translate chinese v12s33_b4d3b086:
 
     # imre "Damn girl, you got some strong ass hands... Ohhhh yeahhhh..."
-    imre "天呐，美女，你有一双强壮的大手……哦，舒服……"
+    imre "天呐，美女，你有一双强壮的大手……噢，舒服……"
 
 # game/v12/scene33.rpy:313
 translate chinese v12s33_b5ffc49a:
@@ -382,7 +382,7 @@ translate chinese v12s33_f1cbfacf:
 translate chinese v12s33_cb1c14e9:
 
     # lmass "Oh, you have a kink?"
-    lmass "哦，你有什么怪癖吗？"
+    lmass "噢，你有什么怪癖吗？"
 
 # game/v12/scene33.rpy:350
 translate chinese v12s33_ee3e5096:
@@ -406,7 +406,7 @@ translate chinese v12s33_af4e5c6b:
 translate chinese v12s33_07c7b99f:
 
     # imre "Oh shit, you're an ugly girl!"
-    imre "哦，见鬼，你真是个毒妇！"
+    imre "噢，见鬼，你真是个毒妇！"
 
 # game/v12/scene33.rpy:371
 translate chinese v12s33_fcc18885:
@@ -478,7 +478,7 @@ translate chinese v12s33_41fd3db0_1:
 translate chinese v12s33_4c825fcb:
 
     # lee "OH, BUDDHA AND ALL THAT'S GOOD! Please... don't push so hard."
-    lee "欧，哦弥陀佛，还不错！但……别那么用力。"
+    lee "欧，噢弥陀佛，还不错！但……别那么用力。"
 
 # game/v12/scene33.rpy:423
 translate chinese v12s33_e206ff1e:
@@ -514,7 +514,7 @@ translate chinese v12s33_41fd3db0_2:
 translate chinese v12s33_ade54d38:
 
     # lee "AGH! Oh... Oh no, I can't move my neck."
-    lee "啊！哦……哦，糟了，我的脖子动不了了。"
+    lee "啊！噢……噢，糟了，我的脖子动不了了。"
 
 # game/v12/scene33.rpy:448
 translate chinese v12s33_b475d6ad:
@@ -532,7 +532,7 @@ translate chinese v12s33_41fd3db0_3:
 translate chinese v12s33_df0f045b:
 
     # lee "HOOO! Oh wow, that feels... amazing!"
-    lee "呼！哦，哇，这感觉……太棒了！"
+    lee "呼！噢，哇，这感觉……太棒了！"
 
 # game/v12/scene33.rpy:458
 translate chinese v12s33_4ba0af1a:
@@ -622,7 +622,7 @@ translate chinese v12s33_d6cca808:
 translate chinese v12s33_0b015a77:
 
     # u "*Laughs* Oh shit... Haha!"
-    u " *笑* 哦，该死的……哈哈！"
+    u " *笑* 噢，该死的……哈哈！"
 
 # game/v12/scene33.rpy:530
 translate chinese v12s33_939035f8:
@@ -706,7 +706,7 @@ translate chinese v12s33_door1_a0c28b60:
 translate chinese v12s33_door1_ad8235a7:
 
     # u "Oh sorry, my bad. I was looking for the restroom."
-    u "哦，对不起，我的错。我在找洗手间。"
+    u "噢，对不起，我的错。我在找洗手间。"
 
 # game/v12/scene33.rpy:645
 translate chinese v12s33_door1_64d70bff:
@@ -796,7 +796,7 @@ translate chinese v12s33_door2_5cb726ec:
 translate chinese v12s33_door2_05bf3e22:
 
     # cl "Oh, umm... What happened the other night?"
-    cl "哦，嗯……那天晚上发生了什么事？"
+    cl "噢，嗯……那天晚上发生了什么事？"
 
 # game/v12/scene33.rpy:744
 translate chinese v12s33_door2_60cf52a4:
@@ -964,7 +964,7 @@ translate chinese v12s33_door3_8e2ed356:
 translate chinese v12s33_door3_331db3f4:
 
     # u "Ooooh... Yeah, I know all about that."
-    u "哦……是的，我都知道了。"
+    u "噢……是的，我都知道了。"
 
 # game/v12/scene33.rpy:916
 translate chinese v12s33_door3_9f7d4eec:
@@ -1060,7 +1060,7 @@ translate chinese v12s33_door3_69548c62:
 translate chinese v12s33_door3_409dd2e7:
 
     # u "*Shocked* You're kicking me out? Am I that boring you? Wow..."
-    u "*震惊* 你要把我赶出去了？我有那么让你厌烦吗？哇哦……"
+    u "*震惊* 你要把我赶出去了？我有那么让你厌烦吗？哇噢……"
 
 # game/v12/scene33.rpy:989
 translate chinese v12s33_door3_2f031b7f:
@@ -1168,7 +1168,7 @@ translate chinese v12s33_sauna_c95e84ca:
 translate chinese v12s33_sauna_dbc4acf9:
 
     # ry "Wow..."
-    ry "哇哦……"
+    ry "哇噢……"
 
 # game/v12/scene33.rpy:1095
 translate chinese v12s33_sauna_54d5640a:
@@ -1222,7 +1222,7 @@ translate chinese v12s33_sauna_b4095c56:
 translate chinese v12s33_sauna_347de345:
 
     # u "Oh yeah, Ryan! I forgot to ask why you decided to dye your hair..."
-    u "哦，对了，瑞恩！我忘了问你为什么决定染头发了……"
+    u "噢，对了，瑞恩！我忘了问你为什么决定染头发了……"
 
 # game/v12/scene33.rpy:1146
 translate chinese v12s33_sauna_44f88744:
@@ -1456,7 +1456,7 @@ translate chinese v12s33_sneak_off2_c15e9009:
 translate chinese v12s33_sneak_off2_d7cbf035:
 
     # no "*Whisper* What the fuck are you doing here?"
-    no " *低语* 你他妈的在这里干什么？"
+    no " *低语* 你他妈地在这里干什么？"
 
 # game/v12/scene33.rpy:1381
 translate chinese v12s33_sneak_off2_b22b9fdd:
@@ -1498,7 +1498,7 @@ translate chinese v12s33_sneak_off2_9bb9c1eb:
 translate chinese v12s33_sneak_off2_88d2dbb1:
 
     # u "Oh, okay."
-    u "欧，好吧。"
+    u "噢，好吧。"
 
 translate chinese strings:
 

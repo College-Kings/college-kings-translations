@@ -304,7 +304,7 @@ translate chinese strings:
 
     # game/v12/scene19.rpy:203
     old "Oh no... What did you guys do to him?"
-    new "哦……你们对他做了什么？"
+    new "噢……你们对他做了什么？"
 
     # game/v12/scene19.rpy:204
     old "\"We\" taught him why we shouldn't get too drunk at slumber parties... Hehe"
@@ -316,7 +316,7 @@ translate chinese strings:
 
     # game/v12/scene19.rpy:206
     old "Not cool, Amber... Not cool... ;)"
-    new "一点都不酷，安珀……一点都不酷…… ;)"
+    new "一点都不酷，安珀……一点都不酷……；)"
 
     # game/v12/scene19.rpy:207
     old "It's just a prank bro!"

@@ -94,7 +94,7 @@ translate chinese v12_lindsey_lobby_c1b40249:
 translate chinese v12_lindsey_lobby_48700b28:
 
     # li "Oh, well... Maybe Charli took it? That'd be so horrible if he did... I don't think I could look at him the same."
-    li "哦，好吧……也许是查理拿走的？如果他真的这么做了那就太可怕了…我觉得我无法用同样的眼光看待他。"
+    li "噢，好吧……也许是查理拿走的？如果他真的这么做了那就太可怕了…我觉得我无法用同样的眼光看待他。"
 
 # game/v12/scene36.rpy:131
 translate chinese v12_lindsey_lobby_a5e83433:
@@ -292,5 +292,5 @@ translate chinese v12_lindsey_lobby_305d3cb0:
 translate chinese v12s36_riley_text_3faef724:
 
     # u "(I should probably reply.)"
-    u "(我可能应该回答。)"
+    u "(我可能应该回复。)"
 

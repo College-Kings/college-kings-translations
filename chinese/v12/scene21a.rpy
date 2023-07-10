@@ -28,7 +28,7 @@ translate chinese v12_nursing_aubrey_1bf5867e:
 translate chinese v12_nursing_aubrey_b2e13796:
 
     # u "*Laughs* Oh, that's what it was?"
-    u " *笑* 哦，就是这样吗？"
+    u " *笑* 噢，就是这样吗？"
 
 # game/v12/scene21a.rpy:58
 translate chinese v12_nursing_aubrey_0d03f6dc:
@@ -322,7 +322,7 @@ translate chinese v12_nursing_aubrey_54856801:
 translate chinese v12_nursing_aubrey_d318fc07:
 
     # no "Ooo, a foot massage sounds sooooo nice. Maybe I should fall and get hurt too. *Chuckles*"
-    no "哦，脚底按摩听起来太棒了。也许我也应该摔倒受伤。 *咯咯笑* "
+    no "噢，脚底按摩听起来太棒了。也许我也应该摔倒受伤。 *咯咯笑* "
 
 # game/v12/scene21a.rpy:318
 translate chinese v12_nursing_aubrey_38bbe564:

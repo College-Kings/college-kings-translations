@@ -64,7 +64,7 @@ translate chinese v12_amber_after_spa_4dac23d5:
 translate chinese v12_amber_after_spa_4acb3884:
 
     # am "Oh well, let's go."
-    am "哦，好吧，我们走吧。"
+    am "噢，好吧，我们走吧。"
 
 # game/v12/scene34.rpy:158
 translate chinese v12_amber_after_spa_d7c01c47:
@@ -76,7 +76,7 @@ translate chinese v12_amber_after_spa_d7c01c47:
 translate chinese v12_amber_after_spa_38370e54:
 
     # u "(Oh she's good.)"
-    u "(哦，她很棒。)"
+    u "(噢，她很棒。)"
 
 # game/v12/scene34.rpy:202
 translate chinese v12_amber_after_spa_a68bc13c:

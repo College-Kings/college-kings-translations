@@ -4,7 +4,7 @@
 translate chinese v12_simplr_convo_c0497226:
 
     # u "(Oh shit, how the fuck did I get back here? Damn, that was crazy!)"
-    u "(哦，该死的，我他妈的怎么回来的？妈的，这太疯狂了！)"
+    u "(噢，该死的，我他妈的怎么回来的？妈的，这太疯狂了！)"
 
 # game/v12/scene24.rpy:24
 translate chinese v12_simplr_convo_0fa55aff:

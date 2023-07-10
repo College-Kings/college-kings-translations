@@ -100,7 +100,7 @@ translate chinese v12_riley_ending_1fc99c68:
 translate chinese v12_riley_ending_a9c0c1e2:
 
     # u "Oooo, revenge on Charli? I'm all in! What's the plan?"
-    u "哦，向查理复仇？我全力以赴！有什么计划吗？"
+    u "噢，向查理复仇？我全力以赴！有什么计划吗？"
 
 # game/v12/scene37.rpy:104
 translate chinese v12_riley_ending_646946f5:

@@ -172,7 +172,7 @@ translate chinese v12_murder_mystery_reveal_a460d356:
 translate chinese v12_murder_mystery_reveal_0add4d6e:
 
     # no "Oh no."
-    no "哦，不。"
+    no "噢，不。"
 
 # game/v12/scene8.rpy:172
 translate chinese v12_murder_mystery_reveal_3598fcaa:
@@ -232,13 +232,13 @@ translate chinese v12_murder_mystery_reveal_f08de96d:
 translate chinese v12_murder_mystery_reveal_8454db15:
 
     # no "*Burp* Oh goodness."
-    no "*打嗝* 哦，天呐。"
+    no "*打嗝* 噢，天呐。"
 
 # game/v12/scene8.rpy:248
 translate chinese v12_murder_mystery_reveal_34fd4860:
 
     # u "(Oh fuck.)"
-    u "(哦，真糟糕。)"
+    u "(噢，真糟糕。)"
 
 # game/v12/scene8.rpy:253
 translate chinese v12_murder_mystery_reveal_d04700ff:

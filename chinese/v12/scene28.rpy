@@ -22,7 +22,7 @@ translate chinese v12_riley_lobby_8e006355:
 translate chinese v12_riley_lobby_e5e94be2:
 
     # u "What?! No, no, no! I didn't, I haven't even been here. I just got back from getting a ta-"
-    u "什么？!没有，没有，没有！我没做过，我甚至都没来过这里。我刚从纹身-"
+    u "什么？！没有，没有，没有！我没做过，我甚至都没来过这里。我刚从纹身-"
 
 # game/v12/scene28.rpy:37
 translate chinese v12_riley_lobby_efa0cbca:
