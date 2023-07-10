@@ -40,13 +40,13 @@ translate chinese v9_thur_room_w_cam_punch_e5b62529:
 translate chinese v9_thur_room_w_cam_punch_9a9540f3:
 
     # u "What? No. I've just been chilling. What's going on?"
-    u "什么？不。我只是在休息。有事吗？"
+    u "什么？不。我只是在休息。有事儿吗？"
 
 # game/v9/scene15.rpy:76
 translate chinese v9_thur_room_w_cam_brag_50a3a8d1:
 
     # u "Shit! Didn't know it was caught on camera, but the guy deserved it."
-    u "妈的！没想到会被像机拍到，但那家伙活该。"
+    u "该死的！没想到会被像机拍到，但那家伙活该。"
 
 # game/v9/scene15.rpy:80
 translate chinese v9_thur_room_w_cam_brag_e2a1512e:

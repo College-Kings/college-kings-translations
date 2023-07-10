@@ -4,7 +4,7 @@
 translate chinese v9_room_fri_eve_303d2d04:
 
     # u "(I wonder how much Mr. Lee expects us to remember from everyone else's Viking scenes. I was too busy looking at the costumes to pay attention.)"
-    u "(我想知道李老师希望我们能记住其他人的维京场景。我忙于看服装，没有注意。)"
+    u "(我想知道李先生希望我们能记住其他人的维京场景。我忙于看服装，没有注意。)"
 
 # game/v9/scene25.rpy:18
 translate chinese v9_room_fri_eve_5ef4f2a2:

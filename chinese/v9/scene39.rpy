@@ -4,13 +4,13 @@
 translate chinese v9_hang_w_linds_e62c3f6b:
 
     # li "Hey! You look rough. Bad day?"
-    li "嘿！你看起来很粗糙。糟糕的一天？"
+    li "嘿！你看起来很憔悴。糟糕的一天？"
 
 # game/v9/scene39.rpy:22
 translate chinese v9_hang_w_linds_a98c17ee:
 
     # u "Nah, just frat drama. You know how it is."
-    u "不，只是兄弟会的烦心事。你知道是怎么回事。"
+    u "没有，只是兄弟会的烦心事儿。你知道是怎么回事。"
 
 # game/v9/scene39.rpy:27
 translate chinese v9_hang_w_linds_f932a29f:
@@ -28,7 +28,7 @@ translate chinese v9_hang_w_linds_79a4ccfa:
 translate chinese v9_hang_w_linds_27f64ba1:
 
     # li "Come in, sorry."
-    li "进来，对不起。"
+    li "抱歉，进来吧。"
 
 # game/v9/scene39.rpy:54
 translate chinese v9_hang_w_linds_6a6a943a:
@@ -52,7 +52,7 @@ translate chinese v9_hang_w_linds_1e4a024a:
 translate chinese v9_hang_w_linds_1c1fb2f9:
 
     # u "Yeah, definitely that. And it's gonna be a long night."
-    u "是啊，肯定是这样。这将是一个漫长的夜晚。"
+    u "是的，肯定是这样。这将是一个漫长的夜晚。"
 
 # game/v9/scene39.rpy:75
 translate chinese v9_hang_w_linds_2517f8de:
@@ -82,7 +82,7 @@ translate chinese v9_hang_w_linds_59c86d5e:
 translate chinese v9_hang_w_linds_bcbc7ce6:
 
     # li "Of course! Can't be on the loser's side of the ring."
-    li "当然了！不能站在擂台上的失败者一边。"
+    li "当然！不能站在擂台上的失败者一边。"
 
 # game/v9/scene39.rpy:105
 translate chinese v9_hang_w_linds_018e3205:
@@ -112,7 +112,7 @@ translate chinese v9_hang_w_linds_5551a712:
 translate chinese v9_hang_w_linds_49a084a9:
 
     # u "Because that punch was a lucky shot."
-    u "因为之前那一拳是幸运的一击。"
+    u "因为之前那一拳是只是运气。"
 
 # game/v9/scene39.rpy:130
 translate chinese v9_hang_w_linds_901f82b9:
@@ -178,13 +178,13 @@ translate chinese v9_make_out_w_lin_ed113f2e:
 translate chinese v9_make_out_w_lin_48e2c8c1:
 
     # li "My coffee. It has sooo much sugar, but it's a guilty pleasure. Sorry."
-    li "我的咖啡。它有很多糖，但这是一种罪恶的快乐。对不起。"
+    li "我的咖啡。它有很多糖，但这是一种罪恶的快乐。抱歉。"
 
 # game/v9/scene39.rpy:230
 translate chinese v9_make_out_w_lin_008c9364:
 
     # u "No! I like it. A lot."
-    u "不！我喜欢。很多。"
+    u "不！我喜欢。非常喜欢。"
 
 # game/v9/scene39.rpy:235
 translate chinese v9_make_out_w_lin_9ea2f78c_1:
@@ -226,7 +226,7 @@ translate chinese v9_make_out_w_lin_e4a03077:
 translate chinese v9_make_out_w_lin_e40d15d4:
 
     # u "Dammit! I have to get ready for the Brawl."
-    u "该死！我得为比赛做好准备。"
+    u "真糟糕！我得为比赛做好准备。"
 
 # game/v9/scene39.rpy:272
 translate chinese v9_make_out_w_lin_fd4b3753:
@@ -238,19 +238,19 @@ translate chinese v9_make_out_w_lin_fd4b3753:
 translate chinese v9_make_out_w_lin_5006983a:
 
     # li "I know. But your brothers are counting on you."
-    li "我知道。但你的兄弟们都指望你了。"
+    li "我知道。但你的兄弟们都指望着你。"
 
 # game/v9/scene39.rpy:282
 translate chinese v9_make_out_w_lin_178f5143:
 
     # u "Please say you'll come watch me?"
-    u "请说你会来看我？"
+    u "答应我你会来看我？"
 
 # game/v9/scene39.rpy:287
 translate chinese v9_make_out_w_lin_60d4c34b:
 
     # li "Absolutely. And depending on how the night ends... maybe it can end up back here."
-    li "绝对的。取决于夜晚如何结束……也许它可以回到这里。"
+    li "保证。取决于夜晚如何结束……也许它可以在这里结束。"
 
 # game/v9/scene39.rpy:292
 translate chinese v9_make_out_w_lin_63508daa:
@@ -286,7 +286,7 @@ translate chinese v9_make_out_w_lin_132986ee:
 translate chinese v9_make_out_w_lin_2913cabe:
 
     # u "Nothing. Seriously, you're amazing and I wish I could stay and... hang out with you. But I have to get ready for the fight."
-    u "没什么。说真的，你太棒了，我希望我能留下来……和你一起出去玩。但我得为战斗做好准备。"
+    u "没什么。说真的，你太棒了，我希望我能留下来……留下来陪你。但我得为战斗做好准备。"
 
 # game/v9/scene39.rpy:338
 translate chinese v9_make_out_w_lin_516c8432:
@@ -298,25 +298,25 @@ translate chinese v9_make_out_w_lin_516c8432:
 translate chinese v9_make_out_w_lin_50c4ed11:
 
     # li "No, I get it. It's OK. Get ready for your fight. And be careful."
-    li "没事，我懂了。没事的。准备好你的战斗。还要小心。"
+    li "没事儿，我理解。没事儿的。准备好你的战斗。多加小心。"
 
 # game/v9/scene39.rpy:348
 translate chinese v9_make_out_w_lin_2657993a:
 
     # u "I will. And maybe I can text you later, after the fight."
-    u "我会的。也许我可以晚点发短信给你，打完之后。"
+    u "我会的。也许我可以晚点发短信给你，比赛之后。"
 
 # game/v9/scene39.rpy:353
 translate chinese v9_make_out_w_lin_b25f370b:
 
     # li "Maybe. I'll probably be in bed, though."
-    li "也许吧。不过，我可能会在床上。"
+    li "也许吧。不过，我可能已经睡了。"
 
 # game/v9/scene39.rpy:358
 translate chinese v9_make_out_w_lin_3b4b7920:
 
     # u "(In bed! Geez why am I so stupid?)"
-    u "(在床上！天哪，我怎么这么蠢？)"
+    u "(睡了！天呐，我怎么这么蠢？)"
 
 # game/v9/scene39.rpy:360
 translate chinese v9_make_out_w_lin_93afe0e5:
@@ -328,13 +328,13 @@ translate chinese v9_make_out_w_lin_93afe0e5:
 translate chinese v9_make_out_w_lin_4a9920a8:
 
     # li "You better go."
-    li "你最好快点去。"
+    li "你最好快点儿去。"
 
 # game/v9/scene39.rpy:370
 translate chinese v9_make_out_w_lin_51ebd65f:
 
     # u "Yeah. I'll talk to you later. Promise."
-    u "是啊。我晚点再跟你说。保证。"
+    u "好吧。我晚点儿再跟你聊。保证。"
 
 # game/v9/scene39.rpy:393
 translate chinese v9_make_out_w_lin_013a00bc:
@@ -358,13 +358,13 @@ translate chinese v9_make_out_w_lin_132986ee_1:
 translate chinese v9_make_out_w_lin_4eb2a6bb:
 
     # u "Nothing. Just in the zone I guess. Gotta keep my focus on the brawl. A lot's riding on it. On me."
-    u "没什么。我想只是处于状态。我得把注意力集中在比赛上。很多事情都取决于它。在我身上。"
+    u "没什么。我只是想保持状态。我得把注意力集中在比赛上。很多事情都取决于它。取决于我。"
 
 # game/v9/scene39.rpy:413
 translate chinese v9_make_out_w_lin_78c44f16:
 
     # li "Yeah I guess."
-    li "是啊，我想。"
+    li "好吧，应该吧。"
 
 # game/v9/scene39.rpy:418
 translate chinese v9_make_out_w_lin_3d83ed1c:
@@ -388,9 +388,9 @@ translate chinese strings:
 
     # game/v9/scene39.rpy:80
     old "Get real"
-    new "变得真实"
+    new "坦诚"
 
     # game/v9/scene39.rpy:148
     old "Let Lindsey grab your hand"
-    new "和林赛亲热"
+    new "让林赛搭你的手"
 

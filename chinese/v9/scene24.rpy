@@ -22,13 +22,13 @@ translate chinese v9_walk_w_sam_joke_43f5856a:
 translate chinese v9_walk_w_sam_joke_d56e47c5:
 
     # sa "Yeah, well, I don't like being out here alone. I still don't know my way around."
-    sa "是啊，我不喜欢一个人待在外面。我还是不认识周围的路。"
+    sa "好吧，我不喜欢一个人待在外面。我还是不认识周围的路。"
 
 # game/v9/scene24.rpy:35
 translate chinese v9_walk_w_sam_joke_8e1fbad7:
 
     # u "No, it's fine. I totally get it. And I'm glad to be out here with you."
-    u "不，没事的。我完全明白。我很高兴能和你在一起。"
+    u "不，没事儿。我完全明白。我很高兴能和你在一起。"
 
 # game/v9/scene24.rpy:42
 translate chinese v9_walk_w_sam_serious_c5d4b82d:
@@ -166,7 +166,7 @@ translate chinese v9_walk_w_sam_grayson_0c0e4078:
 translate chinese v9_walk_w_sam_grayson_17291ef5:
 
     # u "Oh! Uh, I'd love to keep you company. Just say when."
-    u "哦！我很乐意陪你。就说什么时候。"
+    u "噢！我很乐意陪你。就说什么时候。"
 
 # game/v9/scene24.rpy:137
 translate chinese v9_walk_w_sam_grayson_f7ef5f02:
@@ -184,7 +184,7 @@ translate chinese v9_walk_w_sam_grayson_bfed90a3:
 translate chinese v9_walk_w_sam_grayson_1a80acaa:
 
     # sa "Yeah."
-    sa "是啊。"
+    sa "好吧。"
 
 # game/v9/scene24.rpy:151
 translate chinese v9_walk_w_sam_cameron_14442b9c:
@@ -196,7 +196,7 @@ translate chinese v9_walk_w_sam_cameron_14442b9c:
 translate chinese v9_walk_w_sam_cameron_cbec7a37:
 
     # u "Oh!"
-    u "哦！"
+    u "噢！"
 
 # game/v9/scene24.rpy:159
 translate chinese v9_walk_w_sam_cameron_2c22928c:
@@ -214,13 +214,13 @@ translate chinese v9_walk_w_sam_cameron_00566635:
 translate chinese v9_walk_w_sam_cameron_99a4b287:
 
     # sa "I know, I know, Apes stick together."
-    sa "我知道，我知道，猿类粘在一起。"
+    sa "我知道，我知道，兄弟齐心，其力断金。"
 
 # game/v9/scene24.rpy:171
 translate chinese v9_walk_w_sam_cameron_66686979:
 
     # u "Always."
-    u "总是。"
+    u "直到永远。"
 
 # game/v9/scene24.rpy:175
 translate chinese v9_walk_w_sam_cameron_bf84fb41:
@@ -256,7 +256,7 @@ translate chinese v9_walk_w_sam_cameron_c8f0417f:
 translate chinese v9_walk_w_sam_cameron_53670bae:
 
     # u "Apes aren't known for their intellect."
-    u "猿类的智力并不为人所知。"
+    u "猿人的智力并不为人所知。"
 
 # game/v9/scene24.rpy:199
 translate chinese v9_walk_w_sam_cameron_45d303e0:
@@ -280,7 +280,7 @@ translate chinese v9_walk_w_sam_cont2_36cbb9b8:
 translate chinese v9_walk_w_sam_cont2_641df416:
 
     # sa "Oh! Um, not really. I haven't been thinking much about the future."
-    sa "哦！嗯，没怎么想过。我没怎么想过未来。"
+    sa "噢！嗯，没怎么想过。我没怎么想过未来。"
 
 # game/v9/scene24.rpy:215
 translate chinese v9_walk_w_sam_cont2_d88615ae:
@@ -304,7 +304,7 @@ translate chinese v9_walk_w_sam_cont2_de16c73e:
 translate chinese v9_walk_w_sam_cont2_2416c388:
 
     # sa "Must be nice. Only saying I remember from my dad is, \"Jesus, Sam, not again!\""
-    sa "一定很好。我只记得我爸爸说的，\"天呐，萨姆，别再来了！\""
+    sa "一定很好。我只记得我爸爸说的，\"天呐，萨曼萨，别再胡闹了！\""
 
 # game/v9/scene24.rpy:231
 translate chinese v9_walk_w_sam_cont2_d7098175:
@@ -430,7 +430,7 @@ translate chinese strings:
 
     # game/v9/scene24.rpy:241
     old "Ask to go out again"
-    new "再次要求外出"
+    new "再次邀请外出"
 
     # game/v9/scene24.rpy:241
     old "Say goodbye"

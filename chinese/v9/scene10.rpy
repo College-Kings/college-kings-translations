@@ -16,7 +16,7 @@ translate chinese v9_history_class_958a2378:
 translate chinese v9_history_class_c7db65fa:
 
     # u "Yeah, just lost track of time."
-    u "是啊，只是忘了时间。"
+    u "是的，只是忘了时间。"
 
 # game/v9/scene10.rpy:54
 translate chinese v9_hc_cont1_a92f1267:
@@ -28,7 +28,7 @@ translate chinese v9_hc_cont1_a92f1267:
 translate chinese v9_hc_heckle_b86e5a88:
 
     # u "Yeah, right! I can count on my naps in this class like clockwork."
-    u "是的,没错!在这门课上我可以像时钟一样依靠小睡。"
+    u "是的，没错！在这门课上我可以像催眠一样依靠小睡。"
 
 # game/v9/scene10.rpy:72
 translate chinese v9_hc_heckle_fa7a3a70:
@@ -52,7 +52,7 @@ translate chinese v9_hc_cont2_ca221422:
 translate chinese v9_hc_cont2_984f61bd:
 
     # lee "...is not a prop. It's from my personal collection, so no touching. But there will be other props for you to use."
-    lee "……是道具。这是我个人收藏的，所以不能碰。但会有其他道具供你们使用。"
+    lee "……不是道具。这是我个人收藏的，所以不能碰。但会有其他道具供你们使用。"
 
 # game/v9/scene10.rpy:95
 translate chinese v9_hc_cont2_a15a9391:
@@ -64,7 +64,7 @@ translate chinese v9_hc_cont2_a15a9391:
 translate chinese v9_hc_cont2_46f86340:
 
     # lee "There's a box of props in the corner at your disposal. Sorry, no real swords."
-    lee "角落里有一盒道具供你们支配。对不起，没有真剑。"
+    lee "角落里有一盒道具供你们使用。对不起，没有真剑。"
 
 # game/v9/scene10.rpy:101
 translate chinese v9_hc_cont2_e945532d:
@@ -94,7 +94,7 @@ translate chinese v9_hc_cont2_079965f2:
 translate chinese v9_hc_grumble_d5164879:
 
     # u "Yeah we're gonna be screwed. Mr. Lee's already mad at me for being late."
-    u "是啊，我们会完蛋的。李老师已经因为我迟到而生我的气了。"
+    u "是啊，我们会完蛋的。李先生已经因为我迟到而生我的气了。"
 
 # game/v9/scene10.rpy:143
 translate chinese v9_hc_grumble_5b20ecbb:
@@ -166,7 +166,7 @@ translate chinese v9_hc_cont3_b83ff9f1:
 translate chinese v9_hc_cont3_87fc2155:
 
     # ca "No the hell I'm not!"
-    ca "不，我不是！"
+    ca "不，我才不是！"
 
 # game/v9/scene10.rpy:226
 translate chinese v9_hc_cont3_c3283f7f:
@@ -178,19 +178,19 @@ translate chinese v9_hc_cont3_c3283f7f:
 translate chinese v9_hc_cont3_5cd65034:
 
     # lee "Alright class, that's enough prep time. Who wants to go first?"
-    lee "好了，同学们，准备时间够了。谁想先走？"
+    lee "好了，同学们，准备时间够了。谁想先来？"
 
 # game/v9/scene10.rpy:244
 translate chinese v9_hc_scared_cb5f50ca:
 
     # u "We can't go first."
-    u "我们不能先走。"
+    u "我们不能先来。"
 
 # game/v9/scene10.rpy:249
 translate chinese v9_hc_scared_180e0b8a:
 
     # pe "Relax, we got this."
-    pe "放松，我们搞定了。"
+    pe "放松，我们能行的。"
 
 # game/v9/scene10.rpy:254
 translate chinese v9_hc_scared_eb27c70d:
@@ -220,19 +220,19 @@ translate chinese v9_hc_cont4_3b51f737:
 translate chinese v9_hc_cont4_5a5be935:
 
     # u "Imagine this... the year is 950, and your ship just landed at port. There's a bald burly guard waiting to take his dues off you. Behind him is your next target... a line of small wooden huts, ripe for plundering."
-    u "想象一下……今年是950年，你们的船刚刚靠岸。有个光头魁梧的守卫在等着从你们身上拿走他的会费。他后面是你的下一个目标……一排小木屋，适合掠夺。"
+    u "想象一下……今年是950年，你们的船刚刚靠岸。有一个秃头魁梧的警卫等着从你们身上拿走他的报酬。在他身后是你们的下一个目标……一排可以掠夺的小木屋。"
 
 # game/v9/scene10.rpy:289
 translate chinese v9_hc_return_281d074a:
 
     # lee "Great job! I'm impressed. That's going to be hard to beat."
-    lee "干得好！我印象深刻。这将是很难打败的。"
+    lee "干得好！让我印象深刻。这将是最精彩的表演。"
 
 translate chinese strings:
 
     # game/v9/scene10.rpy:59
     old "Heckle"
-    new "诘问"
+    new "起哄"
 
     # game/v9/scene10.rpy:130
     old "Grumble with Cameron"

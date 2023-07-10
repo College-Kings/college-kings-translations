@@ -34,19 +34,19 @@ translate chinese v9_ri_sex_f11df369:
 translate chinese v9_ri_sex_2c7af909:
 
     # ri "Had a late night so I've just been chilling in my room mostly."
-    ri "昨晚过得很晚，所以我大部分时间都在房间里发呆。"
+    ri "昨晚睡得很晚，所以我大部分时间都在房间里发呆。"
 
 # game/v9/scene34.rpy:49
 translate chinese v9_ri_sex_fc323bec:
 
     # u "A late night, huh? Should I be jealous?"
-    u "夜了，是吗?我应该嫉妒吗？"
+    u "睡得很晚，嗯？我应该嫉妒吗？"
 
 # game/v9/scene34.rpy:54
 translate chinese v9_ri_sex_6342177d:
 
     # ri "You staking your claim, big boy?"
-    ri "你在坚持你的主张吗，大男孩？"
+    ri "你在宣誓主权么，大男孩？"
 
 # game/v9/scene34.rpy:59
 translate chinese v9_ri_sex_2c55bf47:
@@ -100,7 +100,7 @@ translate chinese v9_ri_sex_00d4562a:
 translate chinese v9s34_rileyBlowjob_9d10ff00:
 
     # u "Fuck. You're good at this."
-    u "操。你很擅长这个。"
+    u "该死的。你口活儿真好。"
 
 # game/v9/scene34.rpy:130
 translate chinese v9s34_rileyBlowjob_a6dffd3d:
@@ -154,7 +154,7 @@ translate chinese v9s34_rileyLicking_588f3b78:
 translate chinese v9s34_rileyLicking_60cc73c1:
 
     # ri "Ohh, yes."
-    ri "哦，是的。"
+    ri "噢，是的。"
 
 # game/v9/scene34.rpy:174
 translate chinese v9s34_rileyLicking_ec1dae41:
@@ -196,7 +196,7 @@ translate chinese v9s34_rileyLicking_af6b7539:
 translate chinese v9s34_rileyLicking_957424b2:
 
     # u "Everything okay?"
-    u "一切还好吧？"
+    u "怎么了？"
 
 # game/v9/scene34.rpy:193
 translate chinese v9s34_rileyLicking_1bfe8df3:
@@ -268,7 +268,7 @@ translate chinese v9s34_rileyMissionary_b80b14bd:
 translate chinese v9s34_rileyMissionary_5a3b116d:
 
     # u "Shit! Riley! You're gonna make me cum!"
-    u "妈的！莱莉！你会让我射精的！"
+    u "妈的！莱莉！你让我快射了！"
 
 # game/v9/scene34.rpy:246
 translate chinese v9s34_rileyMissionary_b349d6bb:
@@ -310,13 +310,13 @@ translate chinese v9s34_rileyMissionary_bebb9ce1:
 translate chinese v9s34_rileyCowgirl_0e7967a9:
 
     # u "Oh, God!"
-    u "哦，天啊！"
+    u "噢，天呐！"
 
 # game/v9/scene34.rpy:280
 translate chinese v9s34_rileyCowgirl_2dc1e1b8:
 
     # ri "Ahhh, fuck! Yes! I'm gonna cum."
-    ri "啊，操！是的！我要射了。"
+    ri "啊，操！是的！我要去了。"
 
 # game/v9/scene34.rpy:281
 translate chinese v9s34_rileyCowgirl_9ea2f78c:
@@ -358,7 +358,7 @@ translate chinese v9s34_rileyCowgirl_36f396d7:
 translate chinese v9s34_rileyCowgirl_671c994b:
 
     # u "(Oh, shit! What is she doing?)"
-    u "(哦，妈的！她在干什么？)"
+    u "(噢，天呐！她在干什么？)"
 
 # game/v9/scene34.rpy:303
 translate chinese v9s34_rileyCowgirl_c853431b:
@@ -370,13 +370,13 @@ translate chinese v9s34_rileyCowgirl_c853431b:
 translate chinese v9s34_rileyCowgirl_f781572b:
 
     # u "You are my favorite person in the whole world."
-    u "你是全世界我最喜欢的人。"
+    u "你是这世上我最喜欢的人。"
 
 # game/v9/scene34.rpy:313
 translate chinese v9s34_rileyCowgirl_922ce4e8:
 
     # u "Ahh! Oh, God. Mmmm."
-    u "啊！哦，天啊。嗯。"
+    u "啊！噢，天呐。嗯。"
 
 # game/v9/scene34.rpy:314
 translate chinese v9s34_rileyCowgirl_5197fdcb:
@@ -442,7 +442,7 @@ translate chinese v9s34_rileyCowgirl_9864fa41:
 translate chinese v9s34_rileyCowgirl_4c84de25:
 
     # u "Absolutely not."
-    u "绝对没有。"
+    u "烟消云散了。"
 
 # game/v9/scene34.rpy:383
 translate chinese v9s34_rileyCowgirl_497a232d:
@@ -454,7 +454,7 @@ translate chinese v9s34_rileyCowgirl_497a232d:
 translate chinese v9s34_rileyCowgirl_28fc7c99:
 
     # u "Definitely."
-    u "肯定的。"
+    u "真的。"
 
 # game/v9/scene34.rpy:400
 translate chinese v9s34_rileyCowgirl_e07d5dc0:
@@ -466,31 +466,31 @@ translate chinese v9s34_rileyCowgirl_e07d5dc0:
 translate chinese v9s34_rileyCowgirl_0be5faa0:
 
     # ri "Come on, sleepyhead. Naptime's over."
-    ri "来吧，昏昏欲睡的人。午休时间结束了。"
+    ri "醒醒，小懒猪。午休时间结束了。"
 
 # game/v9/scene34.rpy:412
 translate chinese v9s34_nsfwSkipLabel1_c1b65a38:
 
     # u "(Nap? What?)"
-    u "(午睡？什么？)"
+    u "(午休？什么？)"
 
 # game/v9/scene34.rpy:417
 translate chinese v9s34_nsfwSkipLabel1_b7495ffd:
 
     # ri "I have to meet some friends for lunch. Gotta hit the road."
-    ri "我得去找几个朋友吃午饭。得上路了。"
+    ri "我得去找几个朋友吃午饭。得出发了。"
 
 # game/v9/scene34.rpy:422
 translate chinese v9s34_nsfwSkipLabel1_999edf04:
 
     # u "What time is it? How long was I out?"
-    u "几点了？我出去多久了？"
+    u "几点了？我睡多久了？"
 
 # game/v9/scene34.rpy:427
 translate chinese v9s34_nsfwSkipLabel1_42ce5cf0:
 
     # ri "Not long. Just a little catnap. You feel refreshed?"
-    ri "没多久。只是小睡一会儿。你觉得精神了吗？"
+    ri "没多久。只是小睡了一会儿。你觉得精神了吗？"
 
 # game/v9/scene34.rpy:432
 translate chinese v9s34_nsfwSkipLabel1_7725473a:
