@@ -22,7 +22,7 @@ translate chinese v13s52a_7dd98d14:
 translate chinese v13s52a_644ef2bd:
 
     # u "Oh shit, I'm sorry."
-    u "哦，见鬼，我很抱歉。"
+    u "噢，见鬼，我很抱歉。"
 
 # game/v13/scene52a.rpy:32
 translate chinese v13s52a_ad242945:

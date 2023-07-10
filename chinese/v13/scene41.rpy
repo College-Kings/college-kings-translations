@@ -64,7 +64,7 @@ translate chinese v13s41_d5d9d53c:
 translate chinese v13s41_bdcf4b1e:
 
     # li "Oh, two seconds. I'll meet you down there, bye!"
-    li "哦，马上到。我去下面找你，再见！"
+    li "噢，马上到。我去下面找你，再见！"
 
 # game/v13/scene41.rpy:72
 translate chinese v13s41_9866be4c:
@@ -124,7 +124,7 @@ translate chinese v13s41_0131ecab:
 translate chinese v13s41_62044451:
 
     # u "Wow... Nobody's here."
-    u "哇哦……这里没人。"
+    u "哇噢……这里没人。"
 
 # game/v13/scene41.rpy:150
 translate chinese v13s41_04c6ef40:
@@ -142,7 +142,7 @@ translate chinese v13s41_b5c65ee7:
 translate chinese v13s41_3e25dde6:
 
     # li "Oh, um... We were hoping to ride the ferris wheel together."
-    li "哦，嗯……我们本来想一起坐摩天轮的。"
+    li "噢，嗯……我们本来想一起坐摩天轮的。"
 
 # game/v13/scene41.rpy:165
 translate chinese v13s41_f9ab383f:
@@ -166,7 +166,7 @@ translate chinese v13s41_2c999fb7:
 translate chinese v13s41_d8a71c1a:
 
     # li "Oh, I'm sorry! I was just asking."
-    li "哦，我很抱歉！我只是问问。"
+    li "噢，我很抱歉！我只是问问。"
 
 # game/v13/scene41.rpy:185
 translate chinese v13s41_f0753585:
@@ -484,7 +484,7 @@ translate chinese v13s41_ed4bdfe4:
 translate chinese v13s41_7b39e37b:
 
     # li "Awww..."
-    li "哇哦……"
+    li "哇噢……"
 
 # game/v13/scene41.rpy:491
 translate chinese v13s41_c26f272b:
@@ -508,7 +508,7 @@ translate chinese v13s41_2f5e769a:
 translate chinese v13s41_126a1286:
 
     # li "Oh my..."
-    li "哦，我的……"
+    li "噢，我的……"
 
 # game/v13/scene41.rpy:521
 translate chinese v13s41_79903b4d:

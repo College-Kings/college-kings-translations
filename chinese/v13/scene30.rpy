@@ -10,7 +10,7 @@ translate chinese v13s30_5120273a:
 translate chinese v13s30_4ab55fbd:
 
     # am "Oh shit, they are."
-    am "哦，该死，是的。"
+    am "噢，该死，是的。"
 
 # game/v13/scene30.rpy:19
 translate chinese v13s30_78221734:
@@ -34,7 +34,7 @@ translate chinese v13s30_d618bccc:
 translate chinese v13s30_c1e437ad:
 
     # sa "Oh umm, I'm cool with hanging out a bit but, I think if you're gonna smoke I should go."
-    sa "哦，嗯，我不介意出去玩一会儿，但是，我想如果你要抽烟，我应该走了。"
+    sa "噢，嗯，我不介意出去玩一会儿，但是，我想如果你要抽烟，我应该走了。"
 
 # game/v13/scene30.rpy:40
 translate chinese v13s30_a70676cf:
@@ -418,7 +418,7 @@ translate chinese v13s30_fc701f2d:
 translate chinese v13s30_6a13d385:
 
     # am "Oh wow, was that a cuss word... Someone's feeling feisty tonight! Just risk it all, huh?"
-    am "哦，哇，那是个粗俗的词吗……今晚有人感觉很活泼！就这么冒险吧，嗯？"
+    am "噢，哇，那是个粗俗的词吗……今晚有人感觉很活泼！就这么冒险吧，嗯？"
 
 # game/v13/scene30.rpy:464
 translate chinese v13s30_9867dd63:
@@ -436,7 +436,7 @@ translate chinese v13s30_d992d423:
 translate chinese v13s30_518b7856:
 
     # am "Oh yeah, that's a damn good strain right there."
-    am "哦，是的，这是一个很好的菌株。"
+    am "噢，是的，这是一个很好的菌株。"
 
 # game/v13/scene30.rpy:491
 translate chinese v13s30_9730c2f9:
@@ -628,7 +628,7 @@ translate chinese v13s30_14c59181:
 translate chinese v13s30_96f746ec:
 
     # am "Oh, don't worry. You'll make it up to me. *Chuckles*"
-    am "哦，别担心。你会补偿我的。 *咯咯笑* "
+    am "噢，别担心。你会补偿我的。 *咯咯笑* "
 
 # game/v13/scene30.rpy:738
 translate chinese v13s30_8ac5774f:

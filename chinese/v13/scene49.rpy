@@ -52,5 +52,5 @@ translate chinese strings:
 
     # game/v13/scene49.rpy:30
     old "OMG! You look just like me! <3"
-    new "天哪！你看起来跟我一模一样！ <3"
+    new "天呐！你看起来跟我一模一样！ <3"
 

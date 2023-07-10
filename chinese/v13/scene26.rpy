@@ -4,7 +4,7 @@
 translate chinese v13_emmy_sex_3ca6429f:
 
     # u "Oh, shit Emmy..."
-    u "哦，该死的艾米……"
+    u "噢，该死的艾米……"
 
 # game/v13/scene26.rpy:23
 translate chinese v13_emmy_sex_591209fc:
@@ -40,7 +40,7 @@ translate chinese v13_emmy_sex_07b82cc0:
 translate chinese v13_emmy_sex_ae48ffbe:
 
     # u "Oh m- (Is she using her... Teeth? I...) Shit..."
-    u "哦，妈(她是在用她的……牙齿？我……)妈的……"
+    u "噢，妈(她是在用她的……牙齿？我……)妈的……"
 
 # game/v13/scene26.rpy:47
 translate chinese v13_emmy_sex_8a458af5:
@@ -94,7 +94,7 @@ translate chinese v13_emmy_sex_ef401155:
 translate chinese v13_emmy_sex_4583cc52:
 
     # emmy "*Moans* Mmmm, oh... You like a flexible woman, don't you?"
-    emmy " *呻吟* 嗯，哦……你喜欢柔韧的女人，不是吗？"
+    emmy " *呻吟* 嗯，噢……你喜欢柔韧的女人，不是吗？"
 
 # game/v13/scene26.rpy:138
 translate chinese v13_emmy_sex_c651256e:
@@ -112,7 +112,7 @@ translate chinese v13_emmy_sex_a2d96460:
 translate chinese v13_emmy_sex_67cbc841:
 
     # emmy "*Gasps* Oh, fuck... You're so fucking strong!"
-    emmy " *喘气* 哦，他妈的……你真他妈的强壮！"
+    emmy " *喘气* 噢，他妈的……你真他妈的强壮！"
 
 # game/v13/scene26.rpy:167
 translate chinese v13_emmy_sex_61efef03:
@@ -154,7 +154,7 @@ translate chinese v13_emmy_sex_9b9d7fb4:
 translate chinese v13_emmy_sex_961e79dd:
 
     # emmy "Ahh! Oh, fuck! I'm... I'm cumming! Fuucck..."
-    emmy "啊！哦，他妈的！我要……我要去了！操……"
+    emmy "啊！噢，他妈的！我要……我要去了！操……"
 
 # game/v13/scene26.rpy:193
 translate chinese v13_emmy_sex_7937c0d8:

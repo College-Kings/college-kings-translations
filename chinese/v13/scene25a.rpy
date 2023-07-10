@@ -100,7 +100,7 @@ translate chinese v13s25a_fcbcadd8:
 translate chinese v13s25a_71b90a1f:
 
     # u "No! Oh, god no."
-    u "不！哦，天呐，不。"
+    u "不！噢，天呐，不。"
 
 # game/v13/scene25a.rpy:136
 translate chinese v13s25a_cad0e719:
@@ -202,7 +202,7 @@ translate chinese v13s25a_e6211dd0:
 translate chinese v13s25a_9e960c57:
 
     # kourt "Oh wow, you're a baby compared to me. *Laughs* And I'm not a very big fan of long distance relationships..."
-    kourt "哦，哇，跟我比起来你还是个婴儿。 *笑* 我不是一个很喜欢异地恋的人……"
+    kourt "噢，哇，跟我比起来你还是个婴儿。 *笑* 我不是一个很喜欢异地恋的人……"
 
 # game/v13/scene25a.rpy:231
 translate chinese v13s25a_2d5396da:
@@ -220,7 +220,7 @@ translate chinese v13s25a_145872bb:
 translate chinese v13s25a_88d2dbb1:
 
     # u "Oh, okay."
-    u "哦，好的。"
+    u "噢，好的。"
 
 # game/v13/scene25a.rpy:246
 translate chinese v13s25a_898bab6b:

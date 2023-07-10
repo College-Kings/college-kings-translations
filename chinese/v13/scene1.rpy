@@ -136,7 +136,7 @@ translate chinese v13_start_931a9f0f:
 translate chinese v13_start_72cf8418:
 
     # u "Oh, don't worry. I've been waiting for a moment like this."
-    u "哦，别担心。我一直在等这样的时刻。"
+    u "噢，别担心。我一直在等这样的时刻。"
 
 # game/v13/scene1.rpy:123
 translate chinese v13_start_5a40e2c8:

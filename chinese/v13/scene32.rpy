@@ -16,7 +16,7 @@ translate chinese v13s32_30c99149:
 translate chinese v13s32_2ab6a004:
 
     # la "Goodnight, babe."
-    la "晚安，宝贝。"
+    la "晚安，宝贝儿。"
 
 # game/v13/scene32.rpy:40
 translate chinese v13s32_5788969f:

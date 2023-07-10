@@ -4,7 +4,7 @@
 translate chinese v13s12a_a8294a1b:
 
     # au "Ooh, perfect timing! Ready to go?"
-    au "哦，来得正是时候！准备好出发了吗？"
+    au "噢，来得正是时候！准备好出发了吗？"
 
 # game/v13/scene12a.rpy:22
 translate chinese v13s12a_da7229bf:
@@ -58,7 +58,7 @@ translate chinese v13s12a_e9a35cf9:
 translate chinese v13s12a_be7251d0:
 
     # au "Oh my gosh. *Chuckles* She goes by Polly."
-    au "哦，我的天呐。 *咯咯笑* 她叫波莉。"
+    au "噢，我的天呐。 *咯咯笑* 她叫波莉。"
 
 # game/v13/scene12a.rpy:92
 translate chinese v13s12a_8cab0957:
@@ -124,25 +124,25 @@ translate chinese v13s12a_8f07dfa1:
 translate chinese v13s12a_bd8b94bc:
 
     # u "OH! *Laughs*"
-    u "哦！ *笑* "
+    u "噢！ *笑* "
 
 # game/v13/scene12a.rpy:150
 translate chinese v13s12a_a2aeac22:
 
     # polly "IF YOU'RE OUT WITH YOUR BEST FRIEND TONIGHT, CAN I GET A HELL YEAHHHH!"
-    polly "如果你们今晚和最好的朋友一起出来，说一声见鬼，是的！"
+    polly "如果你们今晚和最好的朋友一起出来，说一声噢耶！"
 
 # game/v13/scene12a.rpy:160
 translate chinese v13s12a_badd237d:
 
     # u "HELL YEAHHH!!"
-    u "见鬼，是的！！"
+    u "噢耶！！"
 
 # game/v13/scene12a.rpy:165
 translate chinese v13s12a_1e33213b:
 
     # au "HELL YEAHHH!!"
-    au "见鬼，是的！！"
+    au "噢耶！！"
 
 # game/v13/scene12a.rpy:170
 translate chinese v13s12a_25f771dc:
@@ -166,13 +166,13 @@ translate chinese v13s12a_f391cfc9:
 translate chinese v13s12a_a9da8792:
 
     # polly "*Singing* LOVE COMES UNEXPECTED, LOVE'S UNNATURAL!"
-    polly " *唱歌* 爱情来得意想不到，爱是不自然的！"
+    polly " *唱歌* LOVE COMES UNEXPECTED, LOVE'S UNNATURAL！"
 
 # game/v13/scene12a.rpy:188
 translate chinese v13s12a_04c7f2d1:
 
     # au "*SINGING* I CAN *MUMBLE* *MUMBLE* LOVE IS LIKE A BATTERY, IT POWERS UP MY SOUL!"
-    au " *唱歌* 我可以 *喃喃自语* *喃喃自语* 爱情就像电池，它给我的灵魂供电！"
+    au " *唱歌* 我可以 *喃喃自语* *喃喃自语* LOVE IS LIKE A BATTERY, IT POWERS UP MY SOUL！"
 
 # game/v13/scene12a.rpy:193
 translate chinese v13s12a_71072c3f:
@@ -208,7 +208,7 @@ translate chinese v13s12a_b7565fae:
 translate chinese v13s12a_bc2183e8:
 
     # au "TRUST ME, NO ONE WANTS TO BE NEAR YOUR NASTY ASS FACE!"
-    au "相信我没人想靠近你肮脏的屁股！"
+    au "相信我没人想靠近你肮脏的鞋拔子脸！"
 
 # game/v13/scene12a.rpy:223
 translate chinese v13s12a_25f771dc_1:
@@ -226,7 +226,7 @@ translate chinese v13s12a_af33abad:
 translate chinese v13s12a_8f8d7bfc:
 
     # u "LISTEN MY GUY, IF YOU DON'T CHILL THE FUCK OUT AND ENJOY THE SHOW, I'LL KNOCK YOUR TEETH IN."
-    u "听着，伙计，如果你不他妈的冷静下来享受这场表演，我就把你打得落花流水。"
+    u "听着，伙计，如果你不他妈地冷静下来享受这场表演，我就把你打得落花流水。"
 
 # game/v13/scene12a.rpy:239
 translate chinese v13s12a_a51983b6:
@@ -310,7 +310,7 @@ translate chinese v13s12a_6a4b526e:
 translate chinese v13s12a_b4cd37b6:
 
     # polly "Oh, shit... Okay! I like a little bit of sass... How about you two join me backstage, later. *Chuckles*"
-    polly "哦，该死的……好吧!我喜欢有点粗鲁……晚些时候，你们两个和我一起去后台怎么样。 *咯咯笑* "
+    polly "噢，该死的……好吧!我喜欢有点粗鲁……晚些时候，你们两个和我一起去后台怎么样。 *咯咯笑* "
 
 # game/v13/scene12a.rpy:319
 translate chinese v13s12a_5a158a5a:
@@ -328,7 +328,7 @@ translate chinese v13s12a_d695c666:
 translate chinese v13s12a_eb0a5a4f:
 
     # polly "*Singing* LOVE COMES UNEXPECTED, LOVE'S UNNATURAL! I CAN FEEL MY HEARTBEAT, LOVE IS LIKE A BATTERY, IT POWERS UP MY SOUL!"
-    polly " *唱歌* 爱情来得意想不到，爱是不自然的！我能感觉到我的心跳，爱就像一块电池，它给我的灵魂供电！"
+    polly " *唱歌* LOVE COMES UNEXPECTED, LOVE'S UNNATURAL! I CAN FEEL MY HEARTBEAT, LOVE IS LIKE A BATTERY, IT POWERS UP MY SOUL!！"
 
 # game/v13/scene12a.rpy:337
 translate chinese v13s12a_95b34c98:
@@ -370,7 +370,7 @@ translate chinese v13s12a_fa18e911:
 translate chinese v13s12a_9992da1e:
 
     # polly "You guys have been an amazing crowd! And to my two hotshots up here, I'll see you guys backstage... GOODNIGHT!"
-    polly "你们真是一群了不起的人!我的两位高手，我们在后台见……晚安！"
+    polly "你们真是一群了不起的人！我的两位高手，我们在后台见……晚安！"
 
 # game/v13/scene12a.rpy:392
 translate chinese v13s12a_416a706e:
@@ -394,7 +394,7 @@ translate chinese v13s12a_b116d6a8:
 translate chinese v13s12a_5b8ebd88:
 
     # u "(OH SHIT!)"
-    u "(哦，见鬼！)"
+    u "(噢，见鬼！)"
 
 # game/v13/scene12a.rpy:427
 translate chinese v13s12a_42a40c6a:
@@ -412,7 +412,7 @@ translate chinese v13s12a_9457eee2:
 translate chinese v13s12a_f5c28cea:
 
     # polly "*Singing* LOVE COMES UNEXPECTED, LOVE'S UNNATURAL! I CAN FEEL MY HEARTBEAT, LOVE IS LIKE BATTERY, IT POWERS UP MY SOUL!"
-    polly " *唱歌* 爱情来得意想不到，爱是不自然的！我能感觉到我的心跳，爱就像电池，它给我的灵魂供电！"
+    polly " *唱歌* LOVE COMES UNEXPECTED, LOVE'S UNNATURAL! I CAN FEEL MY HEARTBEAT, LOVE IS LIKE BATTERY, IT POWERS UP MY SOUL!！"
 
 # game/v13/scene12a.rpy:445
 translate chinese v13s12a_e10dd611:
@@ -472,7 +472,7 @@ translate chinese v13s12a_9f4e538e:
 translate chinese v13s12a_66f5c660:
 
     # au "Haha, oh my god. It's not your fault at all. Fame is ugly, the stars are beautiful... Goodnight, [name]."
-    au "哈哈，哦我的天啊。这完全不是你的错。名声是丑陋的，星星是美丽的……晚安，[name]。"
+    au "哈哈，噢，我的天呐。这完全不是你的错。名声是丑陋的，星星是美丽的……晚安，[name]。"
 
 # game/v13/scene12a.rpy:538
 translate chinese v13s12a_bc49bd48:
@@ -484,7 +484,7 @@ translate chinese strings:
 
     # game/v13/scene12a.rpy:155
     old "Say hell yeah"
-    new "说见鬼，是的"
+    new "噢耶"
 
     # game/v13/scene12a.rpy:230
     old "Ignore him"

@@ -88,7 +88,7 @@ translate chinese v13s56_59027008:
 translate chinese v13s56_81cd3861:
 
     # u "Oh, my bad."
-    u "哦，我的错。"
+    u "噢，我的错。"
 
 # game/v13/scene56.rpy:124
 translate chinese v13s56_dac155f5:
@@ -280,7 +280,7 @@ translate chinese v13s56_4447e609:
 translate chinese v13s56_f8613983:
 
     # no "Oh, duh... *Laughs*"
-    no "哦，差点儿忘了…… *笑*"
+    no "噢，差点儿忘了…… *笑*"
 
 # game/v13/scene56.rpy:312
 translate chinese v13s56_12d945cf:

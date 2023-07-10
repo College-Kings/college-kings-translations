@@ -82,7 +82,7 @@ translate chinese v13s21_034f1bcf:
 translate chinese v13s21_035f90e0:
 
     # u "Oh... Work? What kind of work is it?"
-    u "哦……工作？那是一份什么样的工作？"
+    u "噢……工作？那是一份什么样的工作？"
 
 # game/v13/scene21.rpy:119
 translate chinese v13s21_a9365ee5:
@@ -106,7 +106,7 @@ translate chinese v13s21_506976ad:
 translate chinese v13s21_3ed3fdb9:
 
     # u "Oh, I see. You think I'm too stupid?"
-    u "哦，我明白了。你觉得我太蠢了吗？"
+    u "噢，我明白了。你觉得我太蠢了吗？"
 
 # game/v13/scene21.rpy:135
 translate chinese v13s21_32ca877a:

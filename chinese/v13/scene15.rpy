@@ -112,7 +112,7 @@ translate chinese v13s15_PhoneContinueLauren_4ee42ef3:
 translate chinese v13s15_PhoneContinueLauren_4af027e3:
 
     # u "Oh, um... My stomach is feeling really empty, so I'm gonna go try to find something to snack on..."
-    u "哦，嗯……我的肚子真的很饿，所以我要去找点吃的……"
+    u "噢，嗯……我的肚子真的很饿，所以我要去找点吃的……"
 
 # game/v13/scene15.rpy:155
 translate chinese v13s15_PhoneContinueLauren_acce47fa:
@@ -130,13 +130,13 @@ translate chinese v13s15_PhoneContinueLauren_b95179e8:
 translate chinese v13s15_PhoneContinueLauren_5821713f:
 
     # cl "Oh, I- Okay..."
-    cl "哦，我-好吧……"
+    cl "噢，我-好吧……"
 
 # game/v13/scene15.rpy:171
 translate chinese v13s15_PhoneContinueLauren_2368dc17:
 
     # u "Oh, um... Imre needs me for something, so I'm gonna go see what's up."
-    u "哦，嗯……伊姆雷有事要找我，所以我要去看看有什么事。"
+    u "噢，嗯……伊姆雷有事要找我，所以我要去看看有什么事。"
 
 # game/v13/scene15.rpy:176
 translate chinese v13s15_PhoneContinueLauren_e7caa1cd:

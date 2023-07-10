@@ -58,7 +58,7 @@ translate chinese v13s35_8e2e91be:
 translate chinese v13s35_a9c5c777:
 
     # u "Oh, so you just want some secret protection?"
-    u "哦，这么说你只是想要一些秘密保护？"
+    u "噢，这么说你只是想要一些秘密保护？"
 
 # game/v13/scene35.rpy:68
 translate chinese v13s35_c32435b8:
@@ -118,7 +118,7 @@ translate chinese v13s35_no_shop_4a9e7b17:
 translate chinese v13s35_no_shop_75d48640:
 
     # u "Oooh, okay... *Laughs* So, is that it?"
-    u "哦，好吧…… *笑* 那么，就这样吧？"
+    u "噢，好吧…… *笑* 那么，就这样吧？"
 
 # game/v13/scene35.rpy:158
 translate chinese v13s35_no_shop_0262f652:
@@ -178,19 +178,19 @@ translate chinese v13s35_no_shop_37fe551f:
 translate chinese v13s35_no_shop_81d6cb3e:
 
     # li "Alright, then. See you, babe."
-    li "好吧。再见，宝贝。"
+    li "好吧。再见，宝贝儿。"
 
 # game/v13/scene35.rpy:226
 translate chinese v13s35_no_shop_b507b226:
 
     # au "Later guys."
-    au "待会见，伙计们。"
+    au "待会儿见，伙计们。"
 
 # game/v13/scene35.rpy:231
 translate chinese v13s35_no_shop_8c5266c8:
 
     # u "Later, Aubs."
-    u "待会见，奥布斯。"
+    u "待会儿见，奥布斯。"
 
 translate chinese strings:
 

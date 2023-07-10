@@ -82,7 +82,7 @@ translate chinese v13s06_105ab2c3:
 translate chinese v13s06_81e13938:
 
     # u "Oh, okay. Thanks for the info."
-    u "哦，好的。谢谢为我提供信息。"
+    u "噢，好的。谢谢为我提供信息。"
 
 # game/v13/scene6.rpy:102
 translate chinese v13s06_15fc4831:

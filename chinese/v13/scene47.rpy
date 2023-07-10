@@ -4,7 +4,7 @@
 translate chinese v13s47_ecb48488:
 
     # u "Did you have fun?"
-    u "玩得高兴吗？"
+    u "玩儿得高兴吗？"
 
 # game/v13/scene47.rpy:27
 translate chinese v13s47_23f1edf0:
@@ -70,7 +70,7 @@ translate chinese v13s47_1ff0c31a:
 translate chinese v13s47_35f272f2:
 
     # u "Oh, hey! *Laughs*I see you."
-    u "哦，嘿！ *笑* 我看到你了。"
+    u "噢，嘿！ *笑* 我看到你了。"
 
 # game/v13/scene47.rpy:91
 translate chinese v13s47_c6e50747:
@@ -166,7 +166,7 @@ translate chinese v13s47_43e71d94:
 translate chinese v13s47_1ce7c679:
 
     # la "Have fun!"
-    la "玩得开心！"
+    la "玩儿得开心！"
 
 # game/v13/scene47.rpy:187
 translate chinese v13s47_dda370cd:

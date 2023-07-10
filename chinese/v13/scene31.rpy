@@ -196,7 +196,7 @@ translate chinese v13s31_f97681ad:
 translate chinese v13s31_7e525c86:
 
     # ca "Oh, shit. I'm sorry. Um, y-yeah, see you later."
-    ca "哦，见鬼。对不起。嗯，是的，回头见。"
+    ca "噢，见鬼。对不起。嗯，是的，回头见。"
 
 # game/v13/scene31.rpy:203
 translate chinese v13s31_052b7b57:

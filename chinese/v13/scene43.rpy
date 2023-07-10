@@ -112,7 +112,7 @@ translate chinese v13s43_7634bd48:
 translate chinese v13s43_64ea9d1a:
 
     # jen "Oh... *Chuckles* Uhh..."
-    jen "哦…… *咯咯笑* 嗯……"
+    jen "噢…… *咯咯笑* 嗯……"
 
 # game/v13/scene43.rpy:118
 translate chinese v13s43_ef2f1671:
@@ -160,7 +160,7 @@ translate chinese v13s43_73a47b12:
 translate chinese v13s43_6a068df0:
 
     # jen "Oh my gosh, now she's calling me. Sorry I called and freaked you out like that, [name]. Talk to you soon?"
-    jen "哦，天哪，现在她给我打电话了。抱歉，我打电话把你吓坏了，[name]。一会儿再跟你聊好吗？"
+    jen "噢，天哪，现在她给我打电话了。抱歉，我打电话把你吓坏了，[name]。一会儿再跟你聊好吗？"
 
 # game/v13/scene43.rpy:158
 translate chinese v13s43_0b23734a:
@@ -226,7 +226,7 @@ translate chinese v13s43_db024181:
 translate chinese v13s43_e46fdeff:
 
     # jen "Oh, wow! Penelope loves her... Did she enjoy herself?"
-    jen "哦，哇！佩内洛普爱她。她玩得开心吗？"
+    jen "噢，哇！佩内洛普爱她。她玩得开心吗？"
 
 # game/v13/scene43.rpy:239
 translate chinese v13s43_d57f57ce:
@@ -274,7 +274,7 @@ translate chinese v13s43_4cfc8368:
 translate chinese v13s43_679be8ce:
 
     # u "Really, haha... No worries Jenny, later."
-    u "真的，哈哈……别担心，珍妮，晚点再说。"
+    u "真的，哈哈……别担心，珍妮，晚点儿再说。"
 
 # game/v13/scene43.rpy:279
 translate chinese v13s43_86358bd5_1:

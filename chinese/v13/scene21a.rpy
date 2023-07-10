@@ -130,7 +130,7 @@ translate chinese v13s21a_88bf6d05:
 translate chinese v13s21a_852175cf:
 
     # u "(Oh shit!)"
-    u "(哦，见鬼！)"
+    u "(噢，见鬼！)"
 
 # game/v13/scene21a.rpy:172
 translate chinese v13s21a_3ea9846f:
@@ -190,7 +190,7 @@ translate chinese v13s21a_4140a1cd:
 translate chinese v13s21a_826ac2d5:
 
     # charli "Oohh, if my life gets ruined because of this, I'm going to end yours. You hear me?"
-    charli "哦，如果我的生活因为这个而毁了，我也会毁了你的。你听到了吗？"
+    charli "噢，如果我的生活因为这个而毁了，我也会毁了你的。你听到了吗？"
 
 # game/v13/scene21a.rpy:240
 translate chinese v13s21a_6269c797:

@@ -52,7 +52,7 @@ translate chinese v13s25_630f5816:
 translate chinese v13s25_3016cb8c:
 
     # emmy "Oh, really? How so?"
-    emmy "哦，真的吗？怎么会这样呢？"
+    emmy "噢，真的吗？怎么会这样呢？"
 
 # game/v13/scene25.rpy:67
 translate chinese v13s25_25491773:
@@ -64,7 +64,7 @@ translate chinese v13s25_25491773:
 translate chinese v13s25_7e4d22d5:
 
     # emmy "Oh, wow... So, do you like to fight? Like, you enjoy it?"
-    emmy "哦，哇……那么，你喜欢拳击吗？你喜欢吗？"
+    emmy "噢，哇……那么，你喜欢拳击吗？你喜欢吗？"
 
 # game/v13/scene25.rpy:81
 translate chinese v13s25_c4748efb:
@@ -238,7 +238,7 @@ translate chinese v13s25_emmysg_d341b606:
 translate chinese v13s25_emmysg_667422ee:
 
     # u "Oh no, I wasn't-"
-    u "哦不，我没有-"
+    u "噢，不，我没有-"
 
 # game/v13/scene25.rpy:300
 translate chinese v13s25_emmysg_4e302d38:

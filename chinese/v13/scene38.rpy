@@ -34,7 +34,7 @@ translate chinese v13_walk_imre_68e502fa:
 translate chinese v13_walk_imre_2ca00d68:
 
     # imre "Oh, that's already decided. They're breaking up."
-    imre "哦，已经决定了。他们要分手了。"
+    imre "噢，已经决定了。他们要分手了。"
 
 # game/v13/scene38.rpy:46
 translate chinese v13_walk_imre_71346b61:

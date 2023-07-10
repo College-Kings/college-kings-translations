@@ -64,7 +64,7 @@ translate chinese v13s62_a3aa73c7:
 translate chinese v13s62_c22228bc:
 
     # u "Oh, wow..."
-    u "哦，哇……"
+    u "噢，哇……"
 
 # game/v13/scene62.rpy:72
 translate chinese v13s62_b53e40da:

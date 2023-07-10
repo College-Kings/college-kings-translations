@@ -22,7 +22,7 @@ translate chinese v13s8_d46b1090:
 translate chinese v13s8_66ac2ab0:
 
     # no "Oh, one sec."
-    no "哦，等一下。"
+    no "噢，等一下。"
 
 # game/v13/scene8.rpy:54
 translate chinese v13s8_a56ad9d8:

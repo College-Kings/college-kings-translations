@@ -16,25 +16,25 @@ translate chinese v13s9_f74fa973:
 translate chinese v13s9_e9213d83:
 
     # u "Need me for something?"
-    u "需要我做点什么吗？"
+    u "需要我做点儿什么吗？"
 
 # game/v13/scene9.rpy:54
 translate chinese v13s9_2686ccaa:
 
     # cl "If you're willing to join me, yeah. I've looked for hours on my phone trying to find some nice Amsterdam stuff to do..."
-    cl "如果你愿意和我一起的话，可以。我在手机上找了好几个小时，想找一些阿姆斯特丹有特色的地方……"
+    cl "如果你愿意和我一起的话，是的。我在手机上找了好几个小时，想找一些阿姆斯特丹有特色的地方……"
 
 # game/v13/scene9.rpy:59
 translate chinese v13s9_b2fd1885:
 
     # cl "Sadly, I didn't find much that I'd actually be interested in..."
-    cl "可悲的是，我没有找到很多我真正感兴趣的东西……"
+    cl "可悲的是，我没有找到很多我真正感兴趣的地方……"
 
 # game/v13/scene9.rpy:64
 translate chinese v13s9_5b5a72af:
 
     # cl "...but I did find a beach."
-    cl "……但我找到了海滩。"
+    cl "……但我发现了一处海滩。"
 
 # game/v13/scene9.rpy:69
 translate chinese v13s9_7c5dbe1b:
@@ -46,19 +46,19 @@ translate chinese v13s9_7c5dbe1b:
 translate chinese v13s9_a1915cf2:
 
     # cl "Yeah, it's called Scheveningen Beach... But instead of swimming, we can go to the pier. Do you wanna come with me?"
-    cl "是的，它叫斯海弗宁恩海滩……但是我们可以去码头而不是去游泳。你想和我一起去吗？"
+    cl "是的，它叫斯海弗宁恩海滩……但我们可以去码头逛逛，不去游泳。你想和我一起去吗？"
 
 # game/v13/scene9.rpy:79
 translate chinese v13s9_d3771754:
 
     # u "Yeah, sure. I don't have anything else to do right now, haha."
-    u "好的，当然可以。我现在没别的事可做，哈哈。"
+    u "好啊，当然。我现在没别的事儿可做，哈哈。"
 
 # game/v13/scene9.rpy:84
 translate chinese v13s9_f4a5ab28:
 
     # cl "Yay! Okay, great. Do you need to grab anything before we go or..."
-    cl "耶！好的，太好了。在我们走之前你需要拿点什么吗或者……"
+    cl "耶！好的，太好了。在我们出发之前你需要拿点儿什么吗或者……"
 
 # game/v13/scene9.rpy:89
 translate chinese v13s9_417564d2:
@@ -112,7 +112,7 @@ translate chinese v13s9_7fe9b031:
 translate chinese v13s9_7fcf3825:
 
     # cl "Oh no, don't get me started on Greek life right now..."
-    cl "哦不，别让我现在就开始学生会的生活……"
+    cl "噢，不，别让我现在就开始学生会的生活……"
 
 # game/v13/scene9.rpy:172
 translate chinese v13s9_1d719bb6:
@@ -124,19 +124,19 @@ translate chinese v13s9_1d719bb6:
 translate chinese v13s9_97b6256d:
 
     # cl "You're fine... Sorry. Talking about it with you doesn't really bother me actually. I need to discuss it with someone; I need to discuss a lot of things on my mind."
-    cl "没关系……对不起。其实和你谈论这件事并不会让我感到困扰。我需要找人讨论一下；我有很多事要和你商量。"
+    cl "没关系……抱歉。其实和你谈论这件事并不会让我感到困扰。我需要找人讨论一下；我有很多事要和你商量。"
 
 # game/v13/scene9.rpy:182
 translate chinese v13s9_c38e0b2a:
 
     # cl "Nora and Chris, Lindsey and this whole President thing..."
-    cl "诺拉和克里斯，林赛和竞选主席的事……"
+    cl "诺拉和克里斯，林赛和竞选会长的事……"
 
 # game/v13/scene9.rpy:189
 translate chinese v13s9_2a6cda45:
 
     # cl "I don't know if you know or not, but it's pretty much public info now that she's running to become the new President of the Chicks."
-    cl "我不知道你是否知道，但现在她正在竞选成为小鸡队的新主席，这几乎是公开的信息。"
+    cl "我不知道你是否知道，但现在她正在竞选成为小鸡队的新会长，这几乎是公开的信息。"
 
 # game/v13/scene9.rpy:194
 translate chinese v13s9_a6624c0e:
@@ -166,7 +166,7 @@ translate chinese v13s9_8ef2330e:
 translate chinese v13s9_d97396e1:
 
     # u "I've heard that the President has never been challenged before."
-    u "我听说主席以前从未受到过挑战。"
+    u "我听说会长以前从未受到过挑战。"
 
 # game/v13/scene9.rpy:229
 translate chinese v13s9_cc94c8f8:
@@ -184,7 +184,7 @@ translate chinese v13s9_e944012e:
 translate chinese v13s9_b6a9ed93:
 
     # cl "Well, I know what is black and white. If I don't remain President going into next semester, I'm going to lose my scholarship."
-    cl "嗯，我知道什么是非黑即白。如果下学期我不能继续担任主席，我就会失去奖学金。"
+    cl "嗯，我知道什么是非黑即白。如果下学期我不能继续担任会长，我就会失去奖学金。"
 
 # game/v13/scene9.rpy:244
 translate chinese v13s9_81d14080:
@@ -220,13 +220,13 @@ translate chinese v13s9_17aac091:
 translate chinese v13s9_62f82373:
 
     # u "So... You have to be the President in order to keep this scholarship?"
-    u "所以……你必须是主席才能保住奖学金吗？"
+    u "所以……你必须是会长才能保住奖学金吗？"
 
 # game/v13/scene9.rpy:271
 translate chinese v13s9_a0de9cf9:
 
     # cl "Yep, it's literally called The Greek Presidential Scholarship."
-    cl "是的，字面意思是大学生联谊会主席奖学金。"
+    cl "是的，字面意思是大学生联谊会会长奖学金。"
 
 # game/v13/scene9.rpy:276
 translate chinese v13s9_541f1150:
@@ -382,7 +382,7 @@ translate chinese v13s9_efd69ff7:
 translate chinese v13s9_216eab03:
 
     # u "Oooh, didn't know that was your kind of scene... *Chuckles*"
-    u "哦，我不知道那是你喜欢的场景…… *咯咯笑* "
+    u "噢，我不知道那是你喜欢的场景…… *咯咯笑* "
 
 # game/v13/scene9.rpy:430
 translate chinese v13s9_5d19c41d:
@@ -418,13 +418,13 @@ translate chinese v13s9_2ba36ea4:
 translate chinese v13s9_68260e11:
 
     # u "Oh, so that's your kind of thing... Good to know. *Chuckles*"
-    u "哦，那这就是你喜欢的类型了……很高兴知道这一点。 *咯咯笑* "
+    u "噢，那这就是你喜欢的类型了……很高兴知道这一点。 *咯咯笑* "
 
 # game/v13/scene9.rpy:462
 translate chinese v13s9_dba26293:
 
     # cl "Oh, you're being bold today. *Laughs*"
-    cl "哦，你今天太大胆了。*笑* "
+    cl "噢，你今天太大胆了。*笑* "
 
 # game/v13/scene9.rpy:467
 translate chinese v13s9_122a4a09:
@@ -442,7 +442,7 @@ translate chinese v13s9_426c8d9e:
 translate chinese v13s9_eb9044aa:
 
     # u "Oh... Well... That's spicy. *Laughs*"
-    u "哦……嗯……简直辣眼睛。 *笑* "
+    u "噢……嗯……简直辣眼睛。 *笑* "
 
 # game/v13/scene9.rpy:483
 translate chinese v13s9_65f3e6e6:
@@ -658,7 +658,7 @@ translate chinese v13s9_continue_51055ded:
 translate chinese v13s9_continue_f9f486b2:
 
     # u "I need to go back and meet him so we can spy on Imre."
-    u "我要回去见他这样我们才能偷偷跟着伊姆雷。"
+    u "我要回去见他，这样我们才能偷偷跟着伊姆雷。"
 
 # game/v13/scene9.rpy:694
 translate chinese v13s9_continue_dd486368:
@@ -676,13 +676,13 @@ translate chinese v13s9_continue_7226b4e9:
 translate chinese v13s9_continue_ec1f3a76:
 
     # cl "Yeah, let's go. Thanks for coming with me."
-    cl "好的，我们走吧。谢谢你陪我一起来看海。"
+    cl "是的，我们走吧。谢谢你陪我一起来看海。"
 
 # game/v13/scene9.rpy:709
 translate chinese v13s9_continue_1b28a406:
 
     # u "Of course."
-    u "当然。"
+    u "不客气。"
 
 translate chinese strings:
 

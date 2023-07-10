@@ -64,7 +64,7 @@ translate chinese v13s50_4135661d:
 translate chinese v13s50_3460a85e:
 
     # u "Oh no, never. *Chuckles*"
-    u "哦，不，从来没有。 *咯咯笑*"
+    u "噢，不，从来没有。 *咯咯笑*"
 
 # game/v13/scene50.rpy:90
 translate chinese v13s50_da5167f5:
@@ -94,7 +94,7 @@ translate chinese v13s50_4628f8ed:
 translate chinese v13s50_e885190f:
 
     # u "(Oh my god.)"
-    u "(哦，我的天呐。)"
+    u "(噢，我的天呐。)"
 
 # game/v13/scene50.rpy:115
 translate chinese v13s50_f1d312c1:
@@ -112,7 +112,7 @@ translate chinese v13s50_731f0611:
 translate chinese v13s50_6585556e:
 
     # ri "Oooh okay, and look at you guys now. Having dates in other countries... *Chuckles*"
-    ri "哦，好吧，看看你们现在。在其他国家约会…… *咯咯笑*"
+    ri "噢，好吧，看看你们现在。在其他国家约会…… *咯咯笑*"
 
 # game/v13/scene50.rpy:130
 translate chinese v13s50_8fe7bb67:
@@ -148,7 +148,7 @@ translate chinese v13s50_a0c33ab7:
 translate chinese v13s50_f33ba3f3:
 
     # ri "Awww..."
-    ri "哇哦……"
+    ri "哇噢……"
 
 # game/v13/scene50.rpy:160
 translate chinese v13s50_a443cf7b:
@@ -202,7 +202,7 @@ translate chinese v13s50_9f088b05:
 translate chinese v13s50_b5779a88:
 
     # ri "Oh yeah, have you seen him fight, Emily?"
-    ri "哦，对了，你看过他打拳击吗，艾米丽？"
+    ri "噢，对了，你看过他打拳击吗，艾米丽？"
 
 # game/v13/scene50.rpy:209
 translate chinese v13s50_b6c7f34b:
