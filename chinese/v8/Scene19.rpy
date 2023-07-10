@@ -40,7 +40,7 @@ translate chinese strings:
 
     # game/v8/Scene19.rpy:11
     old "It's only fair, right? Make us even"
-    new "这样才公平，对吧？让我们扯平"
+    new "这样才公平，对吧？让我们扯平吧。"
 
     # game/v8/Scene19.rpy:21
     old "Wow, better than I thought"
@@ -56,7 +56,7 @@ translate chinese strings:
 
     # game/v8/Scene19.rpy:25
     old "So do something about it"
-    new "所以做点什么吧"
+    new "所以做点儿什么吧"
 
     # game/v8/Scene19.rpy:26
     old "Now? What about you?"
@@ -112,11 +112,11 @@ translate chinese strings:
 
     # game/v8/Scene19.rpy:48
     old "Give me 5 minutes ;)"
-    new "给我5分钟 ;)"
+    new "给我5分钟；)"
 
     # game/v8/Scene19.rpy:49
     old "You're so cute! But it's time for bed. Dream about me ;)"
-    new "你真可爱！但该睡觉了。梦见我 ;)"
+    new "你真可爱！但该睡觉了。梦见我；)"
 
     # game/v8/Scene19.rpy:50
     old "With pleasure! Night!"
@@ -124,15 +124,15 @@ translate chinese strings:
 
     # game/v8/Scene19.rpy:53
     old "Good. Maybe someday we can think about things in the same room and see what happens"
-    new "很好。也许有一天我们可以在同一个房间里思考事情，看看会发生什么"
+    new "很好。也许有一天我们可以在同一个房间里思考事情，看看会发生什么。"
 
     # game/v8/Scene19.rpy:54
     old "Please do"
-    new "请"
+    new "来吧"
 
     # game/v8/Scene19.rpy:55
     old "I guess I better get back to studying. I keep getting distracted"
-    new "我想我还是回去学习吧。我总是分心"
+    new "我想我还是回去学习吧。我总是分心。"
 
     # game/v8/Scene19.rpy:56
     old "I'm not gonna be able to think of anything else now. I'm done studying"
@@ -140,7 +140,7 @@ translate chinese strings:
 
     # game/v8/Scene19.rpy:57
     old "Well, sleep tight then ;)"
-    new "好吧，那就睡个好觉 ;)"
+    new "好吧，那就睡个好觉；)"
 
     # game/v8/Scene19.rpy:60
     old "Great! See you there!"
@@ -152,11 +152,11 @@ translate chinese strings:
 
     # game/v8/Scene19.rpy:64
     old "No, not at all. Just beat. I'd love to go some other time"
-    new "不，一点也不。下次吧。我想改天去"
+    new "不，一点也不。下次吧。我想改天去。"
 
     # game/v8/Scene19.rpy:65
     old "Okay talk to you soon"
-    new "好的，再见"
+    new "好的，再见。"
 
     # game/v8/Scene19.rpy:66
     old "Goodnight"
@@ -184,11 +184,11 @@ translate chinese strings:
 
     # game/v8/Scene19.rpy:82
     old "I have a big test coming up but after that? I miss you"
-    new "我有一个重要的考试，但在那之后怎么样?我想你了。"
+    new "我有一个重要的考试，但在那之后怎么样？我想你了。"
 
     # game/v8/Scene19.rpy:83
     old "I miss you too. It's a date. Just let me know"
-    new "我也想你。这是个约会。让我知道"
+    new "我也想你。这是个约会。让我知道。"
 
     # game/v8/Scene19.rpy:91
     old "Hey u up?"
@@ -196,11 +196,11 @@ translate chinese strings:
 
     # game/v8/Scene19.rpy:92
     old "Always for you ;)"
-    new "永远为你 ;)"
+    new "永远为你；)"
 
     # game/v8/Scene19.rpy:93
     old "That's what I was hoping to hear"
-    new "这就是我希望听到的"
+    new "这就是我希望听到的。"
 
     # game/v8/Scene19.rpy:94
     old "I can be even more up if you want..."
@@ -212,15 +212,15 @@ translate chinese strings:
 
     # game/v8/Scene19.rpy:96
     old "What can I say? You're hot"
-    new "我能说什么呢？你很性感"
+    new "我能说什么呢？你很性感。"
 
     # game/v8/Scene19.rpy:97
     old "You're pretty hot yourself and I'm... thinking about things"
-    new "你自己也很性感而我……在想些事情"
+    new "你自己也很性感而我……在想些事情。"
 
     # game/v8/Scene19.rpy:98
     old "What kind of things? Same things I'm thinking? ;)"
-    new "什么样的事情？和我想的一样？ ;)"
+    new "什么样的事情？和我想的一样？；)"
 
     # game/v8/Scene19.rpy:99
     old "I think so"
@@ -236,11 +236,11 @@ translate chinese strings:
 
     # game/v8/Scene19.rpy:108
     old "Hey, I was thinking"
-    new "嘿，我在想"
+    new "嘿，我想你了"
 
     # game/v8/Scene19.rpy:109
     old "Uh oh that can't be good ;)"
-    new "哦，那不可能是好事 ;)"
+    new "额，噢，那一定不是好事儿；)"
 
     # game/v8/Scene19.rpy:110
     old "Wanna meet up at the arcade?"
@@ -252,9 +252,9 @@ translate chinese strings:
 
     # game/v8/Scene19.rpy:114
     old "Sure! Sounds like fun. I can be there in a few minutes"
-    new "当然可以！听起来挺有意思。我几分钟就能到"
+    new "当然可以！听起来挺有意思的。我几分钟就到。"
 
     # game/v8/Scene19.rpy:115
     old "I would but it's getting late and I haven't even started Mr. Lee's project"
-    new "我想去，但时间不早了，我甚至还没开始李老师的作业"
+    new "我虽然想去，但时间不早了，我甚至还没开始做李先生的作业呢。"
 

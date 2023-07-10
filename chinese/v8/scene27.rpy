@@ -4,7 +4,7 @@
 translate chinese mon_eve_room_josh_e77881ab:
 
     # u "(Let's see who this is.)"
-    u "(让我们看看这是谁。)"
+    u "(让我看看这是谁。)"
 
 # game/v8/scene27.rpy:24
 translate chinese v8s27_phoneContinue1_747f298b:
@@ -16,7 +16,7 @@ translate chinese v8s27_phoneContinue1_747f298b:
 translate chinese v8s27_phoneContinue1_4e68a090:
 
     # u "(Fuck, I have a bad feeling about this.)"
-    u "(操，我对此有不祥的预感。)"
+    u "(糟了，我对此有不祥的预感。)"
 
 # game/v8/scene27.rpy:45
 translate chinese v8s27_phoneContinue1_81469270:
@@ -76,7 +76,7 @@ translate chinese v8s27_phoneContinue2_747f298b:
 translate chinese v8s27_phoneContinue2_df5f1e3a:
 
     # u "(Shit, I hope Josh is alright)"
-    u "(妈的，我希望乔什没事)"
+    u "(天呐，我希望乔什没事儿。)"
 
 # game/v8/scene27.rpy:122
 translate chinese v8s27_phoneContinue2_e77881ab:
@@ -94,7 +94,7 @@ translate chinese v8s27_phoneContinue3_747f298b:
 translate chinese v8s27_phoneContinue3_4e68a090:
 
     # u "(Fuck, I have a bad feeling about this.)"
-    u "(操，我对此有不祥的预感。)"
+    u "(该死的，我对此有不祥的预感。)"
 
 # game/v8/scene27.rpy:155
 translate chinese v8s27_phoneContinue3_81469270:
@@ -154,17 +154,17 @@ translate chinese v8s27_phoneContinue4_747f298b:
 translate chinese v8s27_phoneContinue4_df5f1e3a:
 
     # u "(Shit, I hope Josh is alright)"
-    u "(妈的，我希望乔什没事)"
+    u "(该死的，我希望乔什没事儿。)"
 
 translate chinese strings:
 
     # game/v8/scene27.rpy:17
     old "Hey bro! It's time! Meet me at mine, okay?"
-    new "嘿兄弟！是时候了！在我家见，好吗？"
+    new "嘿，兄弟！是时候了！在我家见，好吗？"
 
     # game/v8/scene27.rpy:18
     old "Okay, I'm on my way."
-    new "好的，我在路上。"
+    new "好的，马上到。"
 
     # game/v8/scene27.rpy:91
     old "Hey bro, I got robbed and my ass kicked bad! Really wish you came with me, man."
@@ -172,7 +172,7 @@ translate chinese strings:
 
     # game/v8/scene27.rpy:92
     old "Fuck! Are you ok??"
-    new "操！你没事吧？？"
+    new "天呐！你没事吧？？"
 
     # game/v8/scene27.rpy:93
     old "No, man! I hurt everywhere! Plus my shit is gone!"

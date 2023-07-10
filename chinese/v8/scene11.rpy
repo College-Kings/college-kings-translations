@@ -4,25 +4,25 @@
 translate chinese work_with_seb_f0ed8561:
 
     # se "This is every teacher who flunked me!"
-    se "这是每一个给我不及格的老师！"
+    se "这是给每一个让我不及格的老师的！"
 
 # game/v8/scene11.rpy:20
 translate chinese work_with_seb_d460ca54:
 
     # u "And this is every guy who stole my girl!"
-    u "这就是所有偷走我女孩的人！"
+    u "这是给所有抢走我姑娘的人的！"
 
 # game/v8/scene11.rpy:25
 translate chinese work_with_seb_fb4e6777:
 
     # se "You got some fight in you after all! Come on."
-    se "你毕竟有斗志！来啊。"
+    se "你可真有抱负啊！继续。"
 
 # game/v8/scene11.rpy:30
 translate chinese work_with_seb_7e62a16c:
 
     # se "This is where I spend most of my time. Ladies love muscles."
-    se "这是我度过大部分时间的地方。女士们都爱肌肉。"
+    se "这是我度过大部分时间的地方。毕竟姑娘们都爱肌肉。"
 
 # game/v8/scene11.rpy:35
 translate chinese work_with_seb_52f4fc9c:
@@ -52,49 +52,49 @@ translate chinese work_with_seb_ea475379:
 translate chinese work_with_seb_0809812e:
 
     # se "No problem, man. We Wolves stick together."
-    se "没问题，伙计。我们狼团结在一起。"
+    se "没问题，伙计。做兄弟在心中。"
 
 # game/v8/scene11.rpy:71
 translate chinese wolves_gym_conf_8f0d0be8:
 
     # u "It's nice to have that, especially being new around here."
-    u "很高兴有这个，尤其是新来的。"
+    u "很高兴听你这么说，尤其是对新来的。"
 
 # game/v8/scene11.rpy:76
 translate chinese wolves_gym_conf_5ff82e09:
 
     # se "Yeah, I remember how rough it was the first few months."
-    se "是啊，我记得头几个月有多艰难。"
+    se "是啊，我仍记得头几个月有多艰难。"
 
 # game/v8/scene11.rpy:81
 translate chinese wolves_gym_conf_b2b043be:
 
     # se "I almost went home. Until the Wolves took me in."
-    se "我差点就回家了。直到狼收留了我。"
+    se "我差点儿就回家了。直到狼人收留了我。"
 
 # game/v8/scene11.rpy:86
 translate chinese wolves_gym_conf_ad9f9711:
 
     # u "I totally get that. I've almost called my step-mom to come get me a couple times. It can get lonely."
-    u "我完全明白。我差点给我继母打了几次电话来接我。它会变得孤独。"
+    u "我完全明白。我也好几次差点儿就给我继母打电话来接我了。这儿真的很孤单。"
 
 # game/v8/scene11.rpy:91
 translate chinese wolves_gym_conf_27801f27:
 
     # se "Well, you're not totally alone. I've seen all the chicks dripping off you."
-    se "你并不完全孤单。我见过所有的小鸡从你身上滴下来。"
+    se "你并不完全孤单。我看见所有小妞的目光都从你身上撇过。"
 
 # game/v8/scene11.rpy:96
 translate chinese wolves_gym_conf_3a0d9ec2:
 
     # u "I'm doing alright."
-    u "我做得很好。"
+    u "没那么夸张。"
 
 # game/v8/scene11.rpy:101
 translate chinese wolves_gym_conf_c43130df:
 
     # se "Alright? I didn't have near that many girls my freshman year!"
-    se "好吗？我大一的时候没有那么多女孩！"
+    se "夸张？我大一的时候可接触不到那么多女孩！"
 
 # game/v8/scene11.rpy:106
 translate chinese wolves_gym_conf_b1f0ff7d:
@@ -106,19 +106,19 @@ translate chinese wolves_gym_conf_b1f0ff7d:
 translate chinese wolves_gym_cool_b00edad9:
 
     # u "Seems to be working out great. Can you spot me?"
-    u "似乎进展得很好。你能认出我吗？"
+    u "似乎进展得很好。你能指导我一下吗？"
 
 # game/v8/scene11.rpy:119
 translate chinese wolves_gym_cool_da607e8b:
 
     # se "Sure. Gotta get those reps up if you want to be a contender."
-    se "当然可以。如果你想成为竞争者，就得让那些代表站起来。"
+    se "当然可以。如果你想成为竞争者，就得把那些杠铃举起来。"
 
 # game/v8/scene11.rpy:124
 translate chinese wolves_gym_cool_4f0f2397:
 
     # u "Not sure I'll ever be that. But the girls seem to like the muscles."
-    u "我不确定我会成为那样的人。但女孩们似乎喜欢肌肉。"
+    u "我不确定我会成为那样的人。但女孩们似乎就喜欢肌肉。"
 
 # game/v8/scene11.rpy:129
 translate chinese wolves_gym_cool_9c2c6245:
@@ -136,7 +136,7 @@ translate chinese wolves_gym_cool_62b12957:
 translate chinese wolves_gym_cool_4071b3fd:
 
     # se "Yeah! I can teach you how to kick ass and you can teach me how to pull some!"
-    se "是的!我可以教你怎么踢屁股，你也可以教我怎么把妹！"
+    se "好吧！我可以教你怎么踢别人屁股，你也可以教我怎么把妹！"
 
 # game/v8/scene11.rpy:144
 translate chinese wolves_gym_cool_1532dd07:
@@ -148,13 +148,13 @@ translate chinese wolves_gym_cool_1532dd07:
 translate chinese wolves_gym_end_a99bf56f:
 
     # se "Shit, it's late. I never finished my chem homework."
-    se "妈的，很晚了。我从没做完化学作业。"
+    se "该死的，很晚了。我还没做完化学作业。"
 
 # game/v8/scene11.rpy:157
 translate chinese wolves_gym_end_c768ca99:
 
     # u "Fuck. I was supposed to be studying."
-    u "操。我本该在学习的。"
+    u "糟透了。我本该在学习的。"
 
 # game/v8/scene11.rpy:162
 translate chinese wolves_gym_end_79f275bc:
@@ -178,7 +178,7 @@ translate chinese wolves_gym_end_9cefd925:
 translate chinese wolves_gym_end_082d0bb4:
 
     # u "I won't. G'night."
-    u "我不会的。晚安。"
+    u "不会的。晚安。"
 
 translate chinese strings:
 

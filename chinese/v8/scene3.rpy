@@ -40,7 +40,7 @@ translate chinese v8_ri_start_59d65f4a:
 translate chinese v8_ri_start_39ac44c8:
 
     # u "(Damn, did not expect Riley had this in her.)"
-    u "(妈的，没想到莱莉还有这惊喜。)"
+    u "(天呐，没想到莱莉还有这惊喜。)"
 
 # game/v8/scene3.rpy:44
 translate chinese v8_ri_start_2159a2cd:
@@ -106,13 +106,13 @@ translate chinese v8s3_rileyCowgirl_73873b8e:
 translate chinese v8s3_rileyCowgirl_87175e70:
 
     # u "(Oh, she's starting to pick up the pace.)"
-    u "(哦，她开始加快步伐了。)"
+    u "(噢，她开始加快步伐了。)"
 
 # game/v8/scene3.rpy:145
 translate chinese v8s3_rileyCowgirl_d839211b:
 
     # ri "Oh yes!"
-    ri "哦，是的！"
+    ri "噢，是的！"
 
 # game/v8/scene3.rpy:151
 translate chinese v8s3_rileyCowgirl_5b185690:
@@ -160,7 +160,7 @@ translate chinese v8s3_rileyLiftDoggy_76fd10b4:
 translate chinese v8s3_rileyLiftDoggy_4b82e33b:
 
     # ri "Oh God! Yes!"
-    ri "天啊！是的！"
+    ri "天呐！是的！"
 
 # game/v8/scene3.rpy:178
 translate chinese v8s3_rileyLiftDoggy_4e02250a:
@@ -220,7 +220,7 @@ translate chinese v8s3_rileyDoggy_46b8446f:
 translate chinese v8s3_rileyDoggy_f0069fd8:
 
     # ri "Oh God baby, you feel so... *moans*"
-    ri "哦，上帝，宝贝，你觉得…… *呻吟*"
+    ri "噢，上帝，宝贝，你觉得…… *呻吟*"
 
 # game/v8/scene3.rpy:202
 translate chinese v8s3_rileyDoggy_7b2c2964:
@@ -412,7 +412,7 @@ translate chinese v8s3_nsfwSkipLabel1_457f269e:
 translate chinese v8s3_nsfwSkipLabel1_0e0d37ca:
 
     # ri "Oh nothing, just this assignment I had pending."
-    ri "哦，没什么，只是这个课题悬而未决。"
+    ri "噢，没什么，只是这个课题悬而未决。"
 
 # game/v8/scene3.rpy:334
 translate chinese v8s3_nsfwSkipLabel1_f15e04e7:
@@ -448,7 +448,7 @@ translate chinese v8s3_nsfwSkipLabel1_c820ecb2:
 translate chinese v8s3_nsfwSkipLabel1_1768e78b:
 
     # ri "Oh, will you stop already? *laughs*"
-    ri "哦，你能停下来吗？ *笑*"
+    ri "噢，你能停下来吗？ *笑*"
 
 # game/v8/scene3.rpy:358
 translate chinese v8s3_nsfwSkipLabel1_2a638174:

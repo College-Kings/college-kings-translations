@@ -22,7 +22,7 @@ translate chinese v8_julia_call_df59e799:
 translate chinese v8_julia_call_7774f570:
 
     # ju "Really? That's great! What's going on?"
-    ju "真的吗？好极了！有事吗？"
+    ju "真的吗？好极了！怎么了？"
 
 # game/v8/scene36.rpy:38
 translate chinese v8_julia_call_585e08c6:
@@ -34,7 +34,7 @@ translate chinese v8_julia_call_585e08c6:
 translate chinese v8_julia_call_e75849bd:
 
     # ju "Wow! I wish we had that when I was in school."
-    ju "哇哦！我希望我们在学校的时候有。"
+    ju "哇哦！我真希望我们在学校的时候能有。"
 
 # game/v8/scene36.rpy:46
 translate chinese v8_julia_call_f8306763:
@@ -52,7 +52,7 @@ translate chinese v8_julia_call_a521f21b:
 translate chinese v8_julia_call_0923f236:
 
     # u "Miss you too. I better get some work done. I was just so excited, I had to tell you."
-    u "也很想你。我最好去完成一些工作。我太激动了，我必须告诉你。"
+    u "我也想你。我最好去完成一些工作。我太激动了，我必须告诉你。"
 
 # game/v8/scene36.rpy:58
 translate chinese v8_julia_call_fb02315b:
@@ -208,7 +208,7 @@ translate chinese v8_julia_call_14173b6d_1:
 translate chinese v8_julia_call_f58593bb_1:
 
     # ju "Anything new?"
-    ju "有什么新鲜事？"
+    ju "有什么新鲜事儿？"
 
 # game/v8/scene36.rpy:178
 translate chinese v8_julia_call_42acf19d_1:
@@ -284,5 +284,5 @@ translate chinese strings:
 
     # game/v8/scene36.rpy:26
     old "Chill reply"
-    new "冷淡的回答"
+    new "冷静地回答"
 

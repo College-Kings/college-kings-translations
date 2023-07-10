@@ -196,7 +196,7 @@ translate chinese v8s5_nsfwSkipLabel1_65ccfb9d:
 translate chinese v8s5_nsfwSkipLabel1_ac32ce18:
 
     # am "I still talk to them all the time, it's not like we're estranged haha. But at least I have the house."
-    am "我还是一直和他们通话，我们不像是疏远了哈哈。但至少我有房子。"
+    am "我还是一直和他们通话，我们不像是疏远了，哈哈。但至少我有房子。"
 
 # game/v8/scene5.rpy:268
 translate chinese v8s5_nsfwSkipLabel1_74c27a44:

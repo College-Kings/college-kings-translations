@@ -22,7 +22,7 @@ translate chinese phn_chloe11_07f76765:
 translate chinese phn_chloe11_done_fd05c7e6:
 
     # u "(An Ape. That's who I am now.)"
-    u "(一只猿猴。这就是我现在的样子。)"
+    u "(一只猿人。这就是我现在的样子。)"
 
 # game/v8/scene13.rpy:71
 translate chinese phn_chloe11_done_023957c8:
@@ -118,7 +118,7 @@ translate chinese phn_chloe11_done_9b6e2a3b:
 translate chinese phn_chloe11_done_83b2bba1:
 
     # u "Don't want to get kicked out of school now that I'm finally an Ape!"
-    u "我不想被学校开除，因为我终于成了一只猿猴了！"
+    u "我不想被学校开除，因为我终于成了一只猿人了！"
 
 # game/v8/scene13.rpy:154
 translate chinese phn_chloe11_done_f8894dc9:
@@ -286,7 +286,7 @@ translate chinese phn_chloe11_done_e6167d94:
 translate chinese phn_chloe11_done_d6c52a0d:
 
     # ca "Of course, yeah. Uh... congrats on getting in. How you enjoying tonig-"
-    ca "当然，是的。嗯……恭喜你被选中。你今晚过得怎么样-"
+    ca "当然，是的。嗯……恭喜你成功加入。你今晚过得怎么样-"
 
 # game/v8/scene13.rpy:283
 translate chinese phn_chloe11_done_84099238:
@@ -334,7 +334,7 @@ translate chinese phn_chloe11_done_11e715b1:
 translate chinese phn_chloe11_done_852e1c82:
 
     # ry "HAHAH OH GOD!"
-    ry "哈哈，天啊！"
+    ry "哈哈，天呐！"
 
 # game/v8/scene13.rpy:319
 translate chinese phn_chloe11_done_e2df060b:
@@ -364,7 +364,7 @@ translate chinese phn_chloe11_done_ac6623d3:
 translate chinese phn_chloe11_done_d07bb30b:
 
     # u "Oh no, is she OK?"
-    u "哦不，她没事吧？"
+    u "哦，不，她没事吧？"
 
 # game/v8/scene13.rpy:340
 translate chinese phn_chloe11_done_ae8706b2:
@@ -562,7 +562,7 @@ translate chinese strings:
 
     # game/v8/scene13.rpy:9
     old "Guess you'll have to wait and see ;)"
-    new "我想你得拭目以待 ;)"
+    new "咱们拭目以待；)"
 
     # game/v8/scene13.rpy:10
     old "I'm moving my stuff now. How about we get started tonight?"
@@ -582,7 +582,7 @@ translate chinese strings:
 
     # game/v8/scene13.rpy:16
     old "Sweet and cute ;)"
-    new "贴心和可爱 ;)"
+    new "贴心和可爱；)"
 
     # game/v8/scene13.rpy:17
     old "I'll take it. For now. Talk to you when I get settled."
@@ -594,7 +594,7 @@ translate chinese strings:
 
     # game/v8/scene13.rpy:29
     old "[name], Ryan and Caleb are the new proud Apes! I can see this fight season turning out well for us!"
-    new "[name]，瑞恩和凯勒是狂猿新的骄傲！我可以想到这个赛季对我们来说很好！"
+    new "[name]，瑞恩和凯勒是猿人新的骄傲！我可以想到这个赛季对我们来说很好！"
 
     # game/v8/scene13.rpy:31
     old "And congrats to the prodigal son, [name], for getting the perfect score. Looks like somebody's coming for my throne!"
@@ -606,7 +606,7 @@ translate chinese strings:
 
     # game/v8/scene13.rpy:33
     old "GO APES!!!"
-    new "加油，猿！！！"
+    new "加油，猿人！！！"
 
     # game/v8/scene13.rpy:34
     old "Congrats guys!"
@@ -614,7 +614,7 @@ translate chinese strings:
 
     # game/v8/scene13.rpy:36
     old "Damn, perfect score? Would love to see you in action in the ring ;)"
-    new "该死，满分？很想看到你在拳击台上表演 ;)"
+    new "该死，满分？很想看到你在拳击台上表演；)"
 
     # game/v8/scene13.rpy:38
     old "Congrats guys! Couldn't be at the ceremony cause of some stupid shit :/"
@@ -634,7 +634,7 @@ translate chinese strings:
 
     # game/v8/scene13.rpy:43
     old "Just shut the fuck up and never come back"
-    new "你他妈的闭嘴，再也不回来了"
+    new "你他妈地闭嘴，再也不回来了"
 
     # game/v8/scene13.rpy:44
     old "That is unless you want me to kick your ass, then of course knock yourself out"
@@ -650,11 +650,11 @@ translate chinese strings:
 
     # game/v8/scene13.rpy:48
     old "Congrats on getting in. Looks like we'll be seeing a lot of each other."
-    new "恭喜你能进来。看来我们会经常见面的。"
+    new "恭喜你能成功加入。看来我们会经常见面的。"
 
     # game/v8/scene13.rpy:49
     old "Exactly how much is a lot? ;)"
-    new "到底多少是很多少？ ;)"
+    new "何为经常一说？；)"
 
     # game/v8/scene13.rpy:50
     old "Hope so. I like talking to you."
@@ -662,7 +662,7 @@ translate chinese strings:
 
     # game/v8/scene13.rpy:119
     old "Party"
-    new "聚会"
+    new "狂欢"
 
     # game/v8/scene13.rpy:119
     old "Stay back and study"

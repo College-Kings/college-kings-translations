@@ -34,13 +34,13 @@ translate chinese v8s30_amberBlowjob_7dff5d3d:
 translate chinese v8s30_amberBlowjob_a912d6d4:
 
     # am "Oh wow, I could get used to this."
-    am "哦哇，我会习惯的。"
+    am "噢哇，我会习惯的。"
 
 # game/v8/scene30.rpy:84
 translate chinese v8s30_amberBlowjob_0efbe7e6:
 
     # u "*Moans* Oh fuck, Amber..."
-    u "*呻吟* 哦操，琥珀……"
+    u "*呻吟* 噢操，琥珀……"
 
 # game/v8/scene30.rpy:85
 translate chinese v8s30_amberBlowjob_f122857a:
@@ -94,13 +94,13 @@ translate chinese v8s30_amberCowgirl_dcd60c77:
 translate chinese v8s30_amberCowgirl_bcbb5e12:
 
     # u "*Moans* Oh my God..."
-    u "*呻吟* 哦，我的天啊……"
+    u "*呻吟* 噢，我的天啊……"
 
 # game/v8/scene30.rpy:137
 translate chinese v8s30_amberCowgirl_68288b6c:
 
     # am "Ohh fuck [name]! You feel sooo good!"
-    am "哦，操，[name]！感觉很好！"
+    am "噢，操，[name]！感觉很好！"
 
 # game/v8/scene30.rpy:139
 translate chinese v8s30_amberCowgirl_3924ae6b:
@@ -118,7 +118,7 @@ translate chinese v8s30_amberCowgirl_83fb8e15:
 translate chinese v8s30_amberCowgirl_d43a7e01:
 
     # am "*Moans* Oh God yes!"
-    am "*呻吟* 哦，上帝，是的！"
+    am "*呻吟* 噢，上帝，是的！"
 
 # game/v8/scene30.rpy:157
 translate chinese v8s30_amberCowgirl_99a407f3:
@@ -172,7 +172,7 @@ translate chinese v8s30_amberAnal_5062cbe8:
 translate chinese v8s30_amberAnal_cf73239b:
 
     # am "Oh yes, a hundred percent. Do it. C'mon."
-    am "哦，是的，百分之百。做吧。来吧。"
+    am "噢，是的，百分之百。做吧。来吧。"
 
 # game/v8/scene30.rpy:185
 translate chinese v8s30_amberAnal_1eabb9b8:
@@ -184,19 +184,19 @@ translate chinese v8s30_amberAnal_1eabb9b8:
 translate chinese v8s30_amberAnal_4caf0ac3:
 
     # am "*Moans loudly* Oh yes baby! I love it!"
-    am "*大声呻吟* 哦，是的，宝贝！我爱死了！"
+    am "*大声呻吟* 噢，是的，宝贝！我爱死了！"
 
 # game/v8/scene30.rpy:192
 translate chinese v8s30_amberAnal_a35e85f4:
 
     # u "Oh fuck Amber, you're amazing!"
-    u "哦，妈的琥珀，你太棒了！"
+    u "噢，天呐，琥珀，你太棒了！"
 
 # game/v8/scene30.rpy:194
 translate chinese v8s30_amberAnal_eabe876f:
 
     # am "OH YES! OHH YESSS!!"
-    am "哦，舒服！哦，就这样！！"
+    am "噢，舒服！噢，就这样！！"
 
 # game/v8/scene30.rpy:195
 translate chinese v8s30_amberAnal_95ba6e4e:
@@ -244,7 +244,7 @@ translate chinese v8s30_amberAnal_586c41d6:
 translate chinese v8s30_amberAnal_9c66471a:
 
     # u "OHHHHH!"
-    u "哦！"
+    u "噢！"
 
 # game/v8/scene30.rpy:216
 translate chinese v8s30_amberAnal_0a73bda9:
@@ -280,7 +280,7 @@ translate chinese v8s30_nsfwSkipLabel1_d997a3e9:
 translate chinese v8s30_nsfwSkipLabel1_049e73a9:
 
     # am "Oh yes! Definitely. I'm counting on it."
-    am "哦，是的！肯定的。我我很期待。"
+    am "噢，是的！肯定的。我我很期待。"
 
 # game/v8/scene30.rpy:251
 translate chinese v8s30_nsfwSkipLabel1_b0c2bea1:
@@ -292,13 +292,13 @@ translate chinese v8s30_nsfwSkipLabel1_b0c2bea1:
 translate chinese v8s30_nsfwSkipLabel1_4c61b4a5:
 
     # u "A little."
-    u "有一点。"
+    u "有一点儿。"
 
 # game/v8/scene30.rpy:259
 translate chinese v8s30_nsfwSkipLabel1_6c0d069e:
 
     # am "Must've been a long day. Goodnight baby."
-    am "一定是过了漫长的一天。晚安，宝贝。"
+    am "一定是过了漫长的一天。晚安，宝贝儿。"
 
 # game/v8/scene30.rpy:263
 translate chinese v8s30_nsfwSkipLabel1_8914c077:

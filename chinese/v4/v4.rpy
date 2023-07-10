@@ -58,7 +58,7 @@ translate chinese v4start_0162cafc:
 translate chinese v4start_fdf80e7c:
 
     # imre "*winces in pain* He was immediately disqualified and kicked out of the Apes."
-    imre "*痛苦地收缩* 他立即被取消了资格，并被踢出猿。"
+    imre "*痛苦地收缩* 他立即被取消了资格，并被赶出了猿人。"
 
 # game/v4/v4.rpy:72
 translate chinese v4start_c76b9e3d:
@@ -142,7 +142,7 @@ translate chinese v4start_f42f951a:
 translate chinese v4start_bed1b982:
 
     # imre "I'll fuck him up myself! *winces in pain* Or do I look like a bitch to you?"
-    imre "我会亲手打倒他的！ *痛苦地收缩* 不然你觉得我像个孙子？"
+    imre "我会亲手打倒他的！ *痛苦地收缩* 不然你觉得我会像个孙子一样？"
 
 # game/v4/v4.rpy:146
 translate chinese v4start_d646d5e5:
@@ -232,7 +232,7 @@ translate chinese dp_ad_6f1017a1:
 translate chinese dp_ad_e79e7310:
 
     # ri "You know that booty calls nowadays aren't actually calls, people just text."
-    ri "你知道现在约炮都不兴打电话了，大家都发短信。"
+    ri "你知道现在约炮都不兴打电话了，大家都发信息。"
 
 # game/v4/v4.rpy:228
 translate chinese dp_ad_a7e3f450:
@@ -262,7 +262,7 @@ translate chinese dp_ad_7cf930cb:
 translate chinese dp_ad_b06a1579:
 
     # ri "Oh my god... Let me know when you're back at your dorm. I'll come over straight away if you wanna talk about it."
-    ri "天啊……你回到宿舍的时候告诉我一声。如果你想谈谈我马上过来。"
+    ri "天呐……你回到宿舍的时候告诉我一声。如果你想谈谈我马上过来。"
 
 # game/v4/v4.rpy:250
 translate chinese dp_ad_dd3101e7:
@@ -310,7 +310,7 @@ translate chinese dp_ad_5031cd94:
 translate chinese dp_ad_a20dfd33:
 
     # u "He gets out on Sunday. If you want to, you can come with me when I pick him up."
-    u "他星期天出院。如果你愿意，你可以跟我一起去接他。"
+    u "他星期天出院。如果你愿意的话，你可以跟我一起去接他。"
 
 # game/v4/v4.rpy:296
 translate chinese dp_ad_8e1db608:
@@ -334,7 +334,7 @@ translate chinese dp_ad_14220c37:
 translate chinese dp_ad_14a15a75:
 
     # u "Come on Riley, you know I don't get mad as easily as Imre... it's just for self-defense."
-    u "别逗了，莱莉，你知道我不像伊姆雷那么容易生气……只是为了自卫。"
+    u "别逗了，莱莉，你知道我不像伊姆雷那么容易冲动……只是为了自卫。"
 
 # game/v4/v4.rpy:313
 translate chinese dp_ad_8029ed88:
@@ -346,7 +346,7 @@ translate chinese dp_ad_8029ed88:
 translate chinese dp_ad_5247df77:
 
     # u "Yeah... I'm sorry. I shouldn't have acted out like that. Tomorrow I'll talk to Ryan and make things right."
-    u "是啊……对不起。我不该那样做的。明天我会和瑞恩谈谈，把事情解决。"
+    u "好吧……对不起。我不该那样做的。明天我会和瑞恩谈谈，把事情解决。"
 
 # game/v4/v4.rpy:328
 translate chinese dp_ad_2adf0f24:
@@ -394,19 +394,19 @@ translate chinese dq_bd_fc80a47f:
 translate chinese dq_bd_abafbfdd:
 
     # ri "Oh reeeally?"
-    ri "哦，真的吗？"
+    ri "噢，真的吗？"
 
 # game/v4/v4.rpy:372
 translate chinese dq_bd_2ae32f65:
 
     # u "Did you guys ever...?"
-    u "你们有没有……？"
+    u "你们是不是……？"
 
 # game/v4/v4.rpy:377
 translate chinese dq_bd_c587782c:
 
     # ri "Me and Imre? No."
-    ri "我和伊姆雷？没有。"
+    ri "我和伊姆雷？不。"
 
 # game/v4/v4.rpy:382
 translate chinese dq_bd_94e3e2d7:
@@ -430,7 +430,7 @@ translate chinese dq_bd_b1cb03ee:
 translate chinese dq_bd_5edf54a9:
 
     # ri "Oh, so you've tried him?"
-    ri "哦，你喜欢他？"
+    ri "噢，你喜欢他？"
 
 # game/v4/v4.rpy:403
 translate chinese dq_bd_1bd7f983:
@@ -604,7 +604,7 @@ translate chinese dr_bd_fb72f591:
 translate chinese dr_bd_539d1006:
 
     # ju "Oh my god, honey! What happened to your eye??"
-    ju "天啊，亲爱的！你的眼睛怎么了？？"
+    ju "天呐，亲爱的！你的眼睛怎么了？？"
 
 # game/v4/v4.rpy:580
 translate chinese dr_bd_613d713c:
@@ -622,7 +622,7 @@ translate chinese dr_bd_d46946d0:
 translate chinese dr_bd_642a2fb3:
 
     # ju "Oh honey, that's horrible! Have you told the college? I don't want you to feel unsafe."
-    ju "哦，亲爱的，太可怕了！你告诉学院了吗？我不想让你觉得不安全。"
+    ju "噢，亲爱的，太可怕了！你告诉学校了吗？我不想让你觉得不安全。"
 
 # game/v4/v4.rpy:592
 translate chinese dr_bd_b7c68c97:
@@ -658,7 +658,7 @@ translate chinese dr_bd_9cd1d510:
 translate chinese dr_bd_dfe12530:
 
     # ju "Oh honey, that volleyball must have been made out of steel."
-    ju "哦，亲爱的，那个排球一定是用钢做的。"
+    ju "噢，亲爱的，那个排球一定是用钢做的。"
 
 # game/v4/v4.rpy:625
 translate chinese dr_bd_dac28827:
@@ -682,7 +682,7 @@ translate chinese du_bd_d4d613bc:
 translate chinese du_bd_b91a74c6:
 
     # u "Yeah, a couple."
-    u "是啊，几个。"
+    u "是啊，有几个。"
 
 # game/v4/v4.rpy:653
 translate chinese du_bd_b94ad4ec:
@@ -826,7 +826,7 @@ translate chinese jupenelope_9862b8fe:
 translate chinese jucon1_808a00d2:
 
     # ju "Aww honeeey! That sounds great, I'm really happy for you."
-    ju "哦，亲爱的！听起来不错，我真的为你高兴。"
+    ju "噢，亲爱的！听起来不错，我真的为你高兴。"
 
 # game/v4/v4.rpy:783
 translate chinese jucon1_66f145da:
@@ -1054,7 +1054,7 @@ translate chinese jucon2_a858ee3d:
 translate chinese jucon2_056e1a90:
 
     # u "(I should probably talk to her about what Ryan said first and clear things up.)"
-    u "(我也许应该先和她谈谈瑞安说的话，把事情弄清楚再说。)"
+    u "(我也许应该先和她谈谈瑞恩说的话，把事情弄清楚再说。)"
 
 # game/v4/v4.rpy:991
 translate chinese dv_cd_fe0c7159:
@@ -1096,7 +1096,7 @@ translate chinese dv_dd_54ce5dbe:
 translate chinese dv_dd_43eb36e2:
 
     # u "(Damn, I still need to finish my essay on transition slides...)"
-    u "(该死，我还得写完关于过渡幻灯片的论文……)"
+    u "(该死的，我还得写完关于过渡幻灯片的论文……)"
 
 # game/v4/v4.rpy:1037
 translate chinese dv_dd_a62428b2:
@@ -1120,7 +1120,7 @@ translate chinese phonev_af61a800:
 translate chinese phonev_8bd166bb:
 
     # u "(Shit, I just remembered that I still need a book for Ms. Rose's class...)"
-    u "(卧槽，我刚想起来我还需要找一本书来预习罗斯老师的课……)"
+    u "(糟了，我刚想起来我还需要找一本书来预习罗斯女士的课……)"
 
 # game/v4/v4.rpy:1065
 translate chinese phonev_d72cab90:
@@ -3018,7 +3018,7 @@ translate chinese strings:
 
     # game/v4/v4.rpy:9
     old "Aww, come on. You'll be back by 11."
-    new "啊, 来吧。你11点准能回去。"
+    new "啊，来吧。你11点准能回去。"
 
     # game/v4/v4.rpy:11
     old "I told my friend Amber about you and she really wants to meet you."
@@ -3070,7 +3070,7 @@ translate chinese strings:
 
     # game/v4/v4.rpy:315
     old "Take responsibility"
-    new "承担责任"
+    new "承认错误"
 
     # game/v4/v4.rpy:315
     old "Blame Ryan"
@@ -3090,7 +3090,7 @@ translate chinese strings:
 
     # game/v4/v4.rpy:945
     old "Buy it"
-    new "买吧"
+    new "买"
 
     # game/v4/v4.rpy:945
     old "Don't buy it"
@@ -3098,7 +3098,7 @@ translate chinese strings:
 
     # game/v4/v4.rpy:1046
     old "Hey Chloe, any chance you can meet up in a bit?"
-    new "嘿克洛伊，咱一会儿能见个面吗？"
+    new "嘿，克洛伊，咱一会儿能见个面吗？"
 
     # game/v4/v4.rpy:1047
     old "I'm really busy today, but I could do tonight after 11 or so."
@@ -3126,7 +3126,7 @@ translate chinese strings:
 
     # game/v4/v4.rpy:1633
     old "I didn't"
-    new "我没有"
+    new "我不知道"
 
     # game/v4/v4.rpy:1684
     old "Buy Penelope a muffin"
@@ -3158,7 +3158,7 @@ translate chinese strings:
 
     # game/v4/v4.rpy:2161
     old "Hey man, you wanna hang out with me and some friends tonight?"
-    new "嘿伙计，今晚你想和我还有朋友们一起出玩吗？"
+    new "嘿，伙计，今晚你想和我还有朋友们一起出来玩吗？"
 
     # game/v4/v4.rpy:2162
     old "Uhh, sure."
@@ -3170,7 +3170,7 @@ translate chinese strings:
 
     # game/v4/v4.rpy:2275
     old "I can move"
-    new "我能做"
+    new "我能行"
 
     # game/v4/v4.rpy:2275
     old "It's my spot now"
@@ -3190,7 +3190,7 @@ translate chinese strings:
 
     # game/v4/v4.rpy:2396
     old "I should stop here"
-    new "我应该到此为止"
+    new "我应该到此为止了"
 
     # game/v4/v4.rpy:2418
     old "Alright, just for a bit"
@@ -3202,7 +3202,7 @@ translate chinese strings:
 
     # game/v4/v4.rpy:2464
     old "Do a handstand"
-    new "对不起，我真的不能"
+    new "倒立"
 
     # game/v4/v4.rpy:2464
     old "Drink three sips"

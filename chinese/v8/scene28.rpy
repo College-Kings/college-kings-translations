@@ -4,67 +4,67 @@
 translate chinese drug_deal_w_josh_abd9e49e:
 
     # jo "(Quietly) Looks like we're a little early. Keep your eyes open and don't say anything, okay?"
-    jo "（悄悄地）看来我们来早了一点。睁大眼睛，什么都别说，好吗？"
+    jo "（悄悄的）看来我们来早了一点。睁大眼睛，什么都别说，好吗？"
 
 # game/v8/scene28.rpy:23
 translate chinese drug_deal_w_josh_8df4069b:
 
     # u "(Quietly) Fuck, it stinks here."
-    u "（悄悄地）操，这里真臭。"
+    u "（悄悄的）该死的，这儿真臭。"
 
 # game/v8/scene28.rpy:28
 translate chinese drug_deal_w_josh_7f9bcfba:
 
     # jo "(Quietly) Yeah. You ready for this?"
-    jo "(悄悄地) 是的。你准备好了吗？"
+    jo "(悄悄的) 有点儿。你准备好了吗？"
 
 # game/v8/scene28.rpy:33
 translate chinese drug_deal_w_josh_11962f29:
 
     # u "(Quietly) Yeah, okay. What do I do if..."
-    u "(悄悄地) 是的，好的。我该怎么办，万一……"
+    u "(悄悄的) 是的，好吧。我该怎么办，万一……"
 
 # game/v8/scene28.rpy:43
 translate chinese drug_deal_w_josh_cfb156a2:
 
     # je "'Sup."
-    je "'兄弟。"
+    je "兄弟。"
 
 # game/v8/scene28.rpy:48
 translate chinese drug_deal_w_josh_96e7fb41:
 
     # jo "'Sup."
-    jo "'兄弟。"
+    jo "兄弟。"
 
 # game/v8/scene28.rpy:53
 translate chinese drug_deal_w_josh_5def5c30:
 
     # je "You got the shit?"
-    je "你拿那玩意了？"
+    je "你拿货了吗？"
 
 # game/v8/scene28.rpy:58
 translate chinese drug_deal_w_josh_a96dcb3e:
 
     # jo "Yeah. You got the cash?"
-    jo "是啊。你拿现金了吗？"
+    jo "是的。你拿现金了吗？"
 
 # game/v8/scene28.rpy:63
 translate chinese drug_deal_w_josh_83f14cd4:
 
     # je "Yeah. Let me see the stuff."
-    je "是啊。让我看看东西。"
+    je "是的。让我先验货。"
 
 # game/v8/scene28.rpy:68
 translate chinese drug_deal_w_josh_fcebfc33:
 
     # jo "Let me see the cash."
-    jo "让我看看现金。"
+    jo "先让我看现金。"
 
 # game/v8/scene28.rpy:80
 translate chinese drug_deal_w_josh_f68777bb:
 
     # je "See, this is where you're under the wrong impression you're in control of this situation. My buddy here, Lars, has a quick temper and fists like rock. Pretty sure I don't gotta spell shit out for ya, do I?"
-    je "看，这就是你错误地认为你能控制局面的原因。这是我朋友，拉尔斯，脾气暴躁，拳头像石头一样。我不需要再跟你说什么，对吧？"
+    je "你知道，这就是你错误地认为你能控制局面的原因。这是我朋友，拉尔斯，脾气暴躁，拳头像石头一样。我不需要再跟你说什么了，对吧？"
 
 # game/v8/scene28.rpy:85
 translate chinese drug_deal_w_josh_d64a601f:
@@ -76,13 +76,13 @@ translate chinese drug_deal_w_josh_d64a601f:
 translate chinese drug_deal_w_josh_dacd3592:
 
     # je "Well gee, looks like you aren't too bright. Lars, enlighten the man, will ya?"
-    je "哎呀，看来你不太聪明。拉尔斯，开导一下那个人，好吗？"
+    je "沃日妈，看来你有点不太聪明。拉尔斯，开导一下那个人，好吗？"
 
 # game/v8/scene28.rpy:100
 translate chinese drug_deal_w_josh_468329a6:
 
     # je "If I were you, I'd just hand over the shit now before you end up with a nice, shiny dent in your skull. Save Lars the effort. You dig?"
-    je "如果我是你，我会现在就把这些东西交出来以免你的脑袋上留下一个漂亮的凹痕。帮拉尔斯省省力气。你明白吗？"
+    je "如果我是你，我会现在就把这些东西交出来以免你的脑壳上留下一个漂亮的凹痕。帮拉尔斯省省力气。你明白吗？"
 
 # game/v8/scene28.rpy:118
 translate chinese int_deal_w_josh_663956cb:
@@ -94,13 +94,13 @@ translate chinese int_deal_w_josh_663956cb:
 translate chinese int_deal_w_josh_c78d3d3d:
 
     # je "Well, lookie here, a real hero. Lars, show him what happens to heroes."
-    je "好吧，看这里，一个真正的英雄。拉尔斯，让他看看跟英雄作对的下场。"
+    je "好吧，看这里，一个真正的英雄。拉尔斯，让他看看谁才是英雄。"
 
 # game/v8/scene28.rpy:492
 translate chinese beat_lars_369b2594:
 
     # u "(Oh shit)"
-    u "(哦，该死)"
+    u "(噢，糟了。)"
 
 # game/v8/scene28.rpy:507
 translate chinese no_int_deal_w_josh_f097ed12:
@@ -154,13 +154,13 @@ translate chinese volley_joe_9ca302d5:
 translate chinese check_on_josh_72dfa49e:
 
     # u "Hey Josh, you alright? Can you move?"
-    u "嘿乔什，你没事吧？你能动吗？"
+    u "嘿，乔什，你没事吧？你能动吗？"
 
 # game/v8/scene28.rpy:667
 translate chinese check_on_josh_661b0966:
 
     # jo "Fuck man, this wasn't supposed to happen..."
-    jo "去他妈的，伙计，情况不该是这样……"
+    jo "去他妈的，伙计，情况不该是这样的……"
 
 # game/v8/scene28.rpy:672
 translate chinese check_on_josh_fad7082b:

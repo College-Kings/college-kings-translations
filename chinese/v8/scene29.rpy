@@ -100,7 +100,7 @@ translate chinese after_drugs_59a25f31:
 translate chinese after_drugs_e9c96e1e:
 
     # u "(Oh...)"
-    u "(哦……)"
+    u "(噢……)"
 
 # game/v8/scene29.rpy:100
 translate chinese after_drugs_f20dae3e:
@@ -178,7 +178,7 @@ translate chinese after_drugs_7b67a6b1:
 translate chinese after_drugs_46bd8354:
 
     # am "Fuck! What the hell was he thinking?"
-    am "操！他到底在想什么？"
+    am "该死的！他到底在想什么？"
 
 # game/v8/scene29.rpy:189
 translate chinese after_drugs_07097634:
@@ -328,7 +328,7 @@ translate chinese after_drugs_57f14a97:
 translate chinese after_drugs_8e8514a2:
 
     # am "You bet your ass I did. Why?"
-    am "你说得对。为什么?"
+    am "你说得对。为什么？"
 
 # game/v8/scene29.rpy:297
 translate chinese after_drugs_79038f36:
@@ -382,7 +382,7 @@ translate chinese after_drugs_032c09f6:
 translate chinese after_drugs_fb5eb463:
 
     # am "He needs to stop before he's caught... or gets killed."
-    am "他需要在被抓之前停下来……或者被杀。"
+    am "他需要在被抓之前停下来……或者被打死。"
 
 # game/v8/scene29.rpy:329
 translate chinese after_drugs_7c2b1401:
@@ -478,7 +478,7 @@ translate chinese after_drugs_11912203:
 translate chinese after_drugs_b76b1416:
 
     # am "*Sigh* He needs to stop before he's caught... or worse, gets killed."
-    am "*叹息* 他需要在被抓住之前停下来……或者更糟，被杀。"
+    am "*叹息* 他需要在被抓住之前停下来……或者更糟，被打死。"
 
 # game/v8/scene29.rpy:396
 translate chinese after_drugs_7c2b1401_1:
@@ -520,7 +520,7 @@ translate chinese after_drugs_f2af1a74:
 translate chinese after_drugs_5281566f:
 
     # u "Oh! I'm glad. Wanna watch a movie to pass time?"
-    u "哦！我很高兴。想看电影打发时间吗？"
+    u "噢！我很高兴。想看电影打发时间吗？"
 
 # game/v8/scene29.rpy:437
 translate chinese after_drugs_401bc764:
@@ -742,7 +742,7 @@ translate chinese after_drugs_7b66b057:
 translate chinese after_drugs_4ede3d75:
 
     # am "*Whispers* Oh, okay. Sorry I woke you up at midnight."
-    am "*耳语* 哦，好的。很抱歉半夜把你吵醒了。"
+    am "*耳语* 噢，好的。很抱歉半夜把你吵醒了。"
 
 # game/v8/scene29.rpy:646
 translate chinese after_drugs_794889c2:
@@ -760,7 +760,7 @@ translate chinese after_drugs_e4c17669:
 translate chinese tues_morning_at_joshs_9f69d0e9:
 
     # u "(Oh, looks like Amber is up already.)"
-    u "(哦，看来琥珀已经起床了。)"
+    u "(噢，看来琥珀已经起床了。)"
 
 # game/v8/scene29.rpy:666
 translate chinese tues_morning_at_joshs_59b0bd66:
@@ -880,7 +880,7 @@ translate chinese tues_morning_at_joshs_39710847:
 translate chinese tues_morning_at_joshs_c3aea97a:
 
     # jo "Awww, c'mon, it was one t-"
-    jo "哦，别这样，这只是一次-"
+    jo "噢，别这样，这只是一次-"
 
 # game/v8/scene29.rpy:743
 translate chinese tues_morning_at_joshs_e6f3fd57:
@@ -922,7 +922,7 @@ translate chinese tues_morning_at_joshs_fcc18885:
 translate chinese tues_morning_at_joshs_e5d37f62:
 
     # u "(Oh, looks like Josh and Amber are up already.)"
-    u "(哦，看来乔什和琥珀已经起床了。)"
+    u "(噢，看来乔什和琥珀已经起床了。)"
 
 # game/v8/scene29.rpy:777
 translate chinese tues_morning_at_joshs_d43e3df8:
@@ -1054,7 +1054,7 @@ translate chinese tues_morning_at_joshs_39710847_1:
 translate chinese tues_morning_at_joshs_c3aea97a_1:
 
     # jo "Awww, c'mon, it was one t-"
-    jo "哦，别这样，只是一次-"
+    jo "噢，别这样，只是一次-"
 
 # game/v8/scene29.rpy:861
 translate chinese tues_morning_at_joshs_e6f3fd57_1:

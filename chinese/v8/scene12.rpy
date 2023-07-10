@@ -46,7 +46,7 @@ translate chinese apes_join_ceremony_31df0aba:
 translate chinese apes_join_ceremony_db436e3d:
 
     # kai "Shit man, is this fucker going to prom or what?"
-    kai "妈的，这混蛋是去舞会还是怎么的？"
+    kai "该死的，这混蛋是去舞会还是怎么的？"
 
 # game/v8/scene12.rpy:38
 translate chinese apes_join_ceremony_92beb20a:
@@ -118,7 +118,7 @@ translate chinese apes_join_ceremony_8f7afc7f:
 translate chinese apes_join_ceremony_360f23ab:
 
     # gr "Dude... I think you got the most of anyone! Great work. You'll be a great Ape... maybe."
-    gr "哥们……我想你得到了最多的人！干得不错。你会成为一只伟大的猿人……也许吧。"
+    gr "哥们儿……我想你得到了最多的人！干得不错。你会成为一只伟大的猿人……也许吧。"
 
 # game/v8/scene12.rpy:80
 translate chinese apes_join_ceremony_4739fa40:
@@ -130,7 +130,7 @@ translate chinese apes_join_ceremony_4739fa40:
 translate chinese apes_join_ceremony_5602c016:
 
     # gr "I didn't have to go to Math for two fucking days!"
-    gr "我他妈的两天都不用上数学课！"
+    gr "我他妈的两天都不用上数学课了！"
 
 # game/v8/scene12.rpy:88
 translate chinese apes_join_ceremony_4a180fe6:
@@ -196,7 +196,7 @@ translate chinese apes_join_ceremony_1bb91421:
 translate chinese apes_join_ceremony_6a3792bf:
 
     # u "(Holy shit! I did it. I'm in! And first in that!)"
-    u "(天哪！我做到了。我加入了！而且是第一个！)"
+    u "(天呐！我做到了。我加入了！而且是第一个！)"
 
 # game/v8/scene12.rpy:121
 translate chinese apes_join_ceremony_ac47a1f5:
@@ -256,7 +256,7 @@ translate chinese apes_join_ceremony_927d9131:
 translate chinese apes_join_ceremony_33defcec:
 
     # gr "...my man [name]! You're in!"
-    gr "……我的伙计[name]！你成功了！"
+    gr "……我的伙计，[name]！你成功了！"
 
 # game/v8/scene12.rpy:168
 translate chinese apes_join_ceremony_65a044a6:
@@ -304,7 +304,7 @@ translate chinese apes_join_ceremony_bd4677fa_1:
 translate chinese apes_join_ceremony_bf6ec079:
 
     # gr "Next Ape with an impressive score is gonna be..."
-    gr "下一个得分令人印象深刻的猿将是……"
+    gr "下一个得分令人印象深刻的猿人将是……"
 
 # game/v8/scene12.rpy:201
 translate chinese apes_join_ceremony_b0168a19:
@@ -346,7 +346,7 @@ translate chinese apes_join_ceremony_35ef9a12:
 translate chinese apes_join_ceremony_c93fd9c4:
 
     # u "(Phew, that was close.)"
-    u "(哎呀，差一点。)"
+    u "(哎呀，差一点儿。)"
 
 # game/v8/scene12.rpy:230
 translate chinese apes_join_ceremony_6803b71e:
@@ -370,7 +370,7 @@ translate chinese apes_join_ceremony_bd4677fa_2:
 translate chinese apes_join_ceremony_bf6ec079_1:
 
     # gr "Next Ape with an impressive score is gonna be..."
-    gr "下一个得分令人印象深刻的猿将是……"
+    gr "下一个得分令人印象深刻的猿人将是……"
 
 # game/v8/scene12.rpy:243
 translate chinese apes_join_ceremony_b0168a19_1:
@@ -406,7 +406,7 @@ translate chinese apes_join_ceremony_b5498a3a:
 translate chinese apes_join_ceremony_0224ce63:
 
     # u "(Fuck!)"
-    u "(操！)"
+    u "(该死的！)"
 
 # game/v8/scene12.rpy:262
 translate chinese apes_join_ceremony_73595b3b:
@@ -430,13 +430,13 @@ translate chinese apes_join_ceremony_af92aaa8:
 translate chinese apes_join_ceremony_c51cc861:
 
     # u "(Oh man, do I have to fight now?)"
-    u "(哦，天哪，我现在必须战斗吗？)"
+    u "(噢，天呐，我现在必须战斗吗？)"
 
 # game/v8/scene12.rpy:272
 translate chinese apes_join_ceremony_155c7481:
 
     # gr "Cameron, tell these three chimp-boys what they're doing."
-    gr "卡梅隆，告诉这三个黑猩猩男孩他们在做什么。"
+    gr "卡梅隆，告诉这三个黑猩猩男孩他们要做什么。"
 
 # game/v8/scene12.rpy:276
 translate chinese apes_join_ceremony_1acdb21e:
@@ -448,7 +448,7 @@ translate chinese apes_join_ceremony_1acdb21e:
 translate chinese apes_faceoff_task_37aa62dc:
 
     # ca "Ok pukes. Now pay some fucking attention."
-    ca "好了，菜鸟们。现在开始都他妈的注意点。"
+    ca "好了，菜鸟们。现在开始都他妈地注意点儿。"
 
 # game/v8/scene12.rpy:287
 translate chinese apes_faceoff_task_63391035:
@@ -460,7 +460,7 @@ translate chinese apes_faceoff_task_63391035:
 translate chinese apes_faceoff_task_e7193872:
 
     # ca "I don't care what you do, just don't let it come back to us, or I'll kick all your sorry asses!"
-    ca "不管你们做什么，只要别让它回到我们这里，否则我会踢你们所有可怜的屁股！"
+    ca "不管你们做什么，只要别让它回到我们这里，否则我会踢你们所有那可怜的屁股！"
 
 # game/v8/scene12.rpy:292
 translate chinese apes_faceoff_task_a23e4d5e:
@@ -472,7 +472,7 @@ translate chinese apes_faceoff_task_a23e4d5e:
 translate chinese apes_faceoff_task_7e014013:
 
     # ca "You have 3 hours now. So, hurry the fuck up!"
-    ca "你们现在起有3个小时。所以，都他妈的快点！"
+    ca "你们现在起有3个小时。所以，都他妈的快点儿！"
 
 # game/v8/scene12.rpy:306
 translate chinese apes_faceoff_task_ddfcf2cd:
@@ -520,7 +520,7 @@ translate chinese apes_faceoff_task_eef1542b:
 translate chinese apes_faceoff_task_e106b9ed:
 
     # u "(...but that guy looks so stupid now hahaha. No way these guys are gonna beat me.)"
-    u "(……但这家伙现在看起来太蠢了哈哈哈。那些家伙不可能打败我的。)"
+    u "(……但这家伙现在看起来太蠢了，哈哈哈。那些家伙不可能打败我的。)"
 
 # game/v8/scene12.rpy:332
 translate chinese apes_faceoff_task_e1cee417:
@@ -544,13 +544,13 @@ translate chinese apes_faceoff_task_2d1c2621:
 translate chinese apes_faceoff_task_2326ff45:
 
     # gr "Cooper. Not bad! Bananas in the tailpipe of 3 security cars."
-    gr "库珀。还不错！3辆保安车的尾管里有香蕉。"
+    gr "库珀。还不错！在3辆保安车的尾管里塞香蕉。"
 
 # game/v8/scene12.rpy:349
 translate chinese apes_faceoff_task_ab65f1d4:
 
     # gr "One of them couldn't even start for more than an hour, the way I heard it."
-    gr "其中一个甚至一个多小时都不能开始，就像我听到的那样。"
+    gr "其中一个甚至一个多小时都还没开始，就像我听到的那样。"
 
 # game/v8/scene12.rpy:353
 translate chinese apes_faceoff_task_8a712be3:
@@ -562,7 +562,7 @@ translate chinese apes_faceoff_task_8a712be3:
 translate chinese apes_faceoff_task_a451f52a:
 
     # gr "Campus bathrooms are gonna be busy today!"
-    gr "学校的厕所今天会很拥挤！"
+    gr "学校的厕所今天会很拥挤的！"
 
 # game/v8/scene12.rpy:358
 translate chinese apes_faceoff_task_cd821e77:
@@ -574,13 +574,13 @@ translate chinese apes_faceoff_task_cd821e77:
 translate chinese apes_faceoff_task_54f25093:
 
     # gr "Taping a giant dildo to the school's statue without being caught is ballsy and absolutely hilarious! Good job, my man!"
-    gr "把一个巨大的假阴茎绑在学校的雕像上并全身而退是大胆的，绝对是搞笑的！干得好，伙计！"
+    gr "把一个巨大的假阴茎绑在学校的雕像上并全身而退可真是艺高人胆大，绝对是搞笑的！干得好，伙计！"
 
 # game/v8/scene12.rpy:363
 translate chinese apes_faceoff_task_660b2cfb:
 
     # gr "I know I made up my mind. What about you Cam?"
-    gr "我知道我下定决心了。你呢卡梅隆？"
+    gr "我知道我下定决心了。你呢，卡梅隆？"
 
 # game/v8/scene12.rpy:367
 translate chinese apes_faceoff_task_73861310:
