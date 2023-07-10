@@ -376,11 +376,11 @@ translate chinese strings:
 
     # game/phone/phone_tracker.rpy:176
     old "• I invited Sam to Europe."
-    new "• 我邀请萨曼莎去欧洲"
+    new "• 我邀请萨曼莎去欧洲。"
 
     # game/phone/phone_tracker.rpy:177
     old "• I invited Sam on the weed bus tour."
-    new "• 我邀请萨曼莎参加大麻巴士之旅"
+    new "• 我邀请萨曼莎参加大麻巴士之旅。"
 
     # game/phone/phone_tracker.rpy:178
     old "• I joked about Samantha's singing."
@@ -392,7 +392,7 @@ translate chinese strings:
 
     # game/phone/phone_tracker.rpy:180
     old "• I slept with Samantha."
-    new "• 我睡了萨曼莎"
+    new "• 我睡了萨曼莎。"
 
     # game/phone/phone_tracker.rpy:181
     old "• I came inside Samantha."

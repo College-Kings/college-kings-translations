@@ -4,7 +4,7 @@ translate chinese strings:
 
     # game/main_menu/path_builder/path_builder.rpy:3
     old "Pick your starting location (Act 1 Start skips steps 3-5)"
-    new "选择你开始的位置 (第1季开始跳过步骤 3-5)"
+    new "选择你开始的位置 (第1集开始跳过步骤 3-5)"
 
     # game/main_menu/path_builder/path_builder.rpy:7
     old "Pick your starting KCT"
@@ -24,7 +24,7 @@ translate chinese strings:
 
     # game/main_menu/path_builder/path_builder.rpy:90
     old "THE PATH BUILDER CONTAINS SPOILERS FOR THE STORY\nOF THE GAME. ARE YOU SURE YOU WANT TO CONTINUE?\nYOU WILL NOT BE ABLE TO EARN ACHIEVEMENTS IN THIS MODE."
-    new "路径生成器包含游戏剧情的剧透\n确实要继续吗？\n你将无法在这种模式下获得成就。"
+    new "路径生成器包含游戏剧情的剧透。\n确实要继续吗？\n你将无法在这种模式下获得成就。"
 
     # game/main_menu/path_builder/path_builder.rpy:106
     old "YES"
@@ -32,7 +32,7 @@ translate chinese strings:
 
     # game/main_menu/path_builder/path_builder.rpy:115
     old "NO"
-    new "否定"
+    new "取消"
 
     # game/main_menu/path_builder/path_builder.rpy:156
     old "Advanced"
@@ -52,7 +52,7 @@ translate chinese strings:
 
     # game/main_menu/path_builder/path_builder.rpy:336
     old "Extras"
-    new "额外"
+    new "额外选项"
 
     # game/main_menu/path_builder/path_builder.rpy:348
     old "Invite Emily to Europe"
@@ -100,7 +100,7 @@ translate chinese strings:
 
     # game/main_menu/path_builder/path_builder.rpy:480
     old "Unlimited Presidency Campaign Budget"
-    new "不受限的主席竞选预算"
+    new "不受限的会长竞选预算"
 
     # game/main_menu/path_builder/path_builder.rpy:492
     old "Show preferred KCT for each girl"
