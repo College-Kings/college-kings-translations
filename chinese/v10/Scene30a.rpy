@@ -34,7 +34,7 @@ translate chinese v10_emily_course_5dcd2bff:
 translate chinese v10_emily_course_cf51a2a2:
 
     # em "Oh hey [name]."
-    em "哦嘿，[name]。"
+    em "噢，嘿，[name]。"
 
 # game/v10/Scene30a.rpy:48
 translate chinese v10_emily_course_5ae4fe71:
@@ -154,13 +154,13 @@ translate chinese v10_emily_course_90ecf18d:
 translate chinese v10_emily_course_ae3059fd:
 
     # u "Oh no, if only someone could save her."
-    u "哦，不，要是有人能救她就好了。"
+    u "噢，不，要是有人能救她就好了。"
 
 # game/v10/Scene30a.rpy:154
 translate chinese v10_emily_course_cd68c0e4:
 
     # em "Oh you're no fun."
-    em "哦，你真没意思。"
+    em "噢，你真没意思。"
 
 # game/v10/Scene30a.rpy:159
 translate chinese v10_emily_course_08487fa9:
@@ -214,13 +214,13 @@ translate chinese v10_emily_course_af4c7165:
 translate chinese v10_emily_course_f090074e:
 
     # u "Oh damn, I need to go. I haven't studied for my assignment at all."
-    u "哦该死，我得走了。我根本没有为我的作业做准备。"
+    u "噢该死，我得走了。我根本没有为我的作业做准备。"
 
 # game/v10/Scene30a.rpy:207
 translate chinese v10_emily_course_51aefb2a:
 
     # em "Oh, well I don't want to keep you."
-    em "哦，好吧，我不想耽误你的时间。"
+    em "噢，好吧，我不想耽误你的时间。"
 
 # game/v10/Scene30a.rpy:212
 translate chinese v10_emily_course_79c48ee2:
@@ -256,13 +256,13 @@ translate chinese v10_emily_course_af4c7165_1:
 translate chinese v10_emily_course_f090074e_1:
 
     # u "Oh damn, I need to go. I haven't studied for my assignment at all."
-    u "哦该死，我得走了。我还没有为我的作业做准备。"
+    u "噢该死，我得走了。我还没有为我的作业做准备。"
 
 # game/v10/Scene30a.rpy:244
 translate chinese v10_emily_course_51aefb2a_1:
 
     # em "Oh, well I don't want to keep you."
-    em "哦，好吧，我不想耽误你的时间。"
+    em "噢，好吧，我不想耽误你的时间。"
 
 # game/v10/Scene30a.rpy:249
 translate chinese v10_emily_course_79c48ee2_1:
@@ -274,7 +274,7 @@ translate chinese v10_emily_course_79c48ee2_1:
 translate chinese v10_emily_course_094b69ff:
 
     # em "Oh uhm... hey [name]."
-    em "哦，嗯……嘿，[name]。"
+    em "噢，嗯……嘿，[name]。"
 
 # game/v10/Scene30a.rpy:259
 translate chinese v10_emily_course_c6ab264e:
@@ -298,7 +298,7 @@ translate chinese v10_emily_course_b9efaafd_1:
 translate chinese v10_emily_course_bfe6a271:
 
     # em "Oh well... I've been trying out a lot of new things recently, a friend suggested this course so I'm trying it out."
-    em "哦，好吧……最近我尝试了很多新东西，一位朋友推荐了这门课程，所以我正在尝试。"
+    em "噢，好吧……最近我尝试了很多新东西，一位朋友推荐了这门课程，所以我正在尝试。"
 
 # game/v10/Scene30a.rpy:279
 translate chinese v10_emily_course_7c08c4ea_1:
@@ -406,13 +406,13 @@ translate chinese v10_emily_course_90ecf18d_1:
 translate chinese v10_emily_course_ae3059fd_1:
 
     # u "Oh no, if only someone could save her."
-    u "哦，不，要是有人能救她就好了。"
+    u "噢，不，要是有人能救她就好了。"
 
 # game/v10/Scene30a.rpy:376
 translate chinese v10_emily_course_cd68c0e4_1:
 
     # em "Oh you're no fun."
-    em "哦，你真没意思。"
+    em "噢，你真没意思。"
 
 # game/v10/Scene30a.rpy:381
 translate chinese v10_emily_course_08487fa9_1:
@@ -466,13 +466,13 @@ translate chinese v10_emily_course_af4c7165_2:
 translate chinese v10_emily_course_f090074e_2:
 
     # u "Oh damn, I need to go. I haven't studied for my assignment at all."
-    u "哦该死，我得走了。我根本没有为我的作业做准备。"
+    u "噢该死，我得走了。我根本没有为我的作业做准备。"
 
 # game/v10/Scene30a.rpy:429
 translate chinese v10_emily_course_51aefb2a_2:
 
     # em "Oh, well I don't want to keep you."
-    em "哦，好吧，我不想耽误你的时间。"
+    em "噢，好吧，我不想耽误你的时间。"
 
 # game/v10/Scene30a.rpy:434
 translate chinese v10_emily_course_79c48ee2_2:
@@ -508,13 +508,13 @@ translate chinese v10_emily_course_af4c7165_3:
 translate chinese v10_emily_course_f090074e_3:
 
     # u "Oh damn, I need to go. I haven't studied for my assignment at all."
-    u "哦，该死，我得走了。我根本没有为我的作业做准备。"
+    u "噢，该死，我得走了。我根本没有为我的作业做准备。"
 
 # game/v10/Scene30a.rpy:466
 translate chinese v10_emily_course_51aefb2a_3:
 
     # em "Oh, well I don't want to keep you."
-    em "哦，好吧，我不想耽误你的时间。"
+    em "噢，好吧，我不想耽误你的时间。"
 
 # game/v10/Scene30a.rpy:471
 translate chinese v10_emily_course_79c48ee2_3:

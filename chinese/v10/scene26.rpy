@@ -4,7 +4,7 @@
 translate chinese v10_amber_skatepark_0105dc21:
 
     # u "(I should get that.)"
-    u "(我应该去接电话。)"
+    u "(我应该接电话。)"
 
 # game/v10/scene26.rpy:30
 translate chinese v10_amber_skatepark_f5b983e1:
@@ -88,19 +88,19 @@ translate chinese v10_amber_skatepark_1f6d8c62:
 translate chinese v10_amber_skatepark_d425cb04:
 
     # am "Hey [name]'s friend!"
-    am "你好，[name]的朋友！"
+    am "嘿，[name]的朋友！"
 
 # game/v10/scene26.rpy:102
 translate chinese v10_amber_skatepark_b410cd69:
 
     # ri "Uhm hey..."
-    ri "嗯，你好……"
+    ri "嗯，嘿……"
 
 # game/v10/scene26.rpy:107
 translate chinese v10_amber_skatepark_e1e3280d:
 
     # am "Hey! My name's Amber."
-    am "你好！我叫琥珀。"
+    am "嘿！我叫琥珀。"
 
 # game/v10/scene26.rpy:112
 translate chinese v10_amber_skatepark_5c006d2b:
@@ -112,7 +112,7 @@ translate chinese v10_amber_skatepark_5c006d2b:
 translate chinese v10_amber_skatepark_d04ac378:
 
     # u "What were you doing in the library?"
-    u "你在图书馆里做什么？"
+    u "你在图书馆里干嘛？"
 
 # game/v10/scene26.rpy:122
 translate chinese v10_amber_skatepark_55cb46de:
@@ -130,13 +130,13 @@ translate chinese v10_amber_skatepark_55c4efa4:
 translate chinese v10_amber_skatepark_9fb99981:
 
     # u "Yeah, you should join us."
-    u "是啊，你应该和我们一起去。"
+    u "是的，你应该和我们一起。"
 
 # game/v10/scene26.rpy:142
 translate chinese v10_amber_skatepark_f4e3c6fe:
 
     # ri "Alright. I need a break anyway. Are we drinking?"
-    ri "好的。反正我也需要休息一下。我们在喝酒吗？"
+    ri "好吧。反正我也需要休息一下。我们要喝酒吗？"
 
 # game/v10/scene26.rpy:148
 translate chinese v10_amber_skatepark_6fd2da58:
@@ -148,13 +148,13 @@ translate chinese v10_amber_skatepark_6fd2da58:
 translate chinese v10_amber_skatepark_d138f7e4:
 
     # ri "It's okay, I need a break anyway. Are we drinking?"
-    ri "没关系，反正我也需要休息一下。我们在喝酒吗？"
+    ri "没关系，反正我也需要休息一下。我们要喝酒吗？"
 
 # game/v10/scene26.rpy:158
 translate chinese v10_amber_skatepark_e49130dc:
 
     # am "Most definitely. And we're not just drinking, we're playing a drinking game."
-    am "非常肯定。我们不只是喝酒，我们是在玩喝酒游戏。"
+    am "非常肯定。我们不只是喝酒，我们还在玩喝酒游戏。"
 
 # game/v10/scene26.rpy:163
 translate chinese v10_amber_skatepark_32759844:
@@ -172,13 +172,13 @@ translate chinese v10_amber_skatepark_2fec38e7:
 translate chinese v10_amber_skatepark_83172589:
 
     # ri "Sounds fun. What are we playing?"
-    ri "听起来很有趣。我们在玩什么？"
+    ri "听起来很有意思。我们要玩什么？"
 
 # game/v10/scene26.rpy:178
 translate chinese v10_amber_skatepark_47a2399f:
 
     # am "Never have I ever."
-    am "我从来没有。"
+    am "我从没有。"
 
 # game/v10/scene26.rpy:183
 translate chinese v10_amber_skatepark_19c151a2:
@@ -190,7 +190,7 @@ translate chinese v10_amber_skatepark_19c151a2:
 translate chinese v10_amber_skatepark_ae7a730a:
 
     # am "Riley start us off. And before you do, since [name] is the only guy let's make him squirm a bit. *Chuckles*"
-    am "莱莉先开始。在你这么做之前，因为[name]是唯一的男人，让我们让他有点不安。 *咯咯笑*"
+    am "莱莉先开始。在你这么做之前，因为[name]是唯一的男人，我们先让他有点不安。 *咯咯笑*"
 
 # game/v10/scene26.rpy:208
 translate chinese v10_amber_skatepark_5f6593b9:
@@ -208,7 +208,7 @@ translate chinese v10_amber_skatepark_2ac63566:
 translate chinese v10_amber_skatepark_02212ad2:
 
     # u "You what? *Chuckles*"
-    u "你什么？ *咯咯笑*"
+    u "你干嘛？ *咯咯笑*"
 
 # game/v10/scene26.rpy:223
 translate chinese v10_amber_skatepark_497a97ad:
@@ -232,7 +232,7 @@ translate chinese v10_amber_skatepark_fcc18885:
 translate chinese v10_amber_skatepark_d4f4b29f:
 
     # am "Alright, never have I ever... damn what have I not done? Never had I ever been caught naked in public."
-    am "好吧，我从来没有。该死的，我还有什么没做的？我从来没有在公共场合被抓到过裸体。"
+    am "好吧，我从没有……该死的，我还有什么没做过？我从没有在公共场合被抓到过裸体。"
 
 # game/v10/scene26.rpy:253
 translate chinese v10_amber_skatepark_b785bb44:
@@ -316,7 +316,7 @@ translate chinese v10_amber_skatepark_1f7b1501:
 translate chinese v10_amber_skatepark_4de960ad:
 
     # ri "Haha, it was nice meeting you Amber and good seeing you again [name]."
-    ri "哈哈，很高兴见到你，琥珀，很高兴再次见到你[name]。"
+    ri "哈哈，很高兴见到你，琥珀，很高兴再次见到你，[name]。"
 
 # game/v10/scene26.rpy:355
 translate chinese v10_amber_skatepark_8bfc147b:
@@ -340,7 +340,7 @@ translate chinese v10_amber_skatepark_fcc18885_2:
 translate chinese v10_amber_skatepark_sg_07a9e06f:
 
     # am "*Whisper* You know, after getting tipsy and thinking of some of the things I've never done, but always wanted to do, I'm pretty horny right now. *Giggles*"
-    am "*耳语* 你知道，在喝醉了，想起一些我从未做过，但一直想做的事情后，我现在相当饥渴。 *傻笑*"
+    am "*耳语* 你知道，喝醉了，想起一些我从未做过，但一直想做的事情后，我现在相当饥渴。 *傻笑*"
 
 # game/v10/scene26.rpy:382
 translate chinese v10_amber_skatepark_sg_0c359d78:
@@ -382,7 +382,7 @@ translate chinese v10s26_amberBlowjob_0d14ebca:
 translate chinese v10s26_amberBlowjob_0dcffdec:
 
     # u "I didn't know you... oh shit!"
-    u "我不知道你……哦，该死！"
+    u "我不知道你……噢，该死！"
 
 # game/v10/scene26.rpy:443
 translate chinese v10s26_amberBlowjob_ac358932:
@@ -394,7 +394,7 @@ translate chinese v10s26_amberBlowjob_ac358932:
 translate chinese v10s26_amberLying_93141561:
 
     # am "Oh I needed this!"
-    am "哦，我需要这样！"
+    am "噢，我需要这样！"
 
 # game/v10/scene26.rpy:457
 translate chinese v10s26_amberLying_cee0f438:
@@ -406,13 +406,13 @@ translate chinese v10s26_amberLying_cee0f438:
 translate chinese v10s26_amberLying_f7fd4196:
 
     # am "Oh god!"
-    am "哦，天呐！"
+    am "噢，天呐！"
 
 # game/v10/scene26.rpy:471
 translate chinese v10s26_amberDoggy_bee091fa:
 
     # am "Oh my God, FASTER!"
-    am "哦，天呐，快点！"
+    am "噢，天呐，快点！"
 
 # game/v10/scene26.rpy:473
 translate chinese v10s26_amberDoggy_cfa8ef6a:
@@ -430,7 +430,7 @@ translate chinese v10s26_amberDoggy_aa368576:
 translate chinese v10s26_amberDoggy_ace625cb:
 
     # am "Oh fuck!"
-    am "哦，该死的！"
+    am "噢，该死的！"
 
 # game/v10/scene26.rpy:489
 translate chinese v10s26_amberCowgirl_2650c780:
@@ -448,7 +448,7 @@ translate chinese v10s26_amberCowgirl_a8d1bb6c:
 translate chinese v10s26_amberCowgirl_9a45d6c4:
 
     # am "Oh shit I'm gonna cum!"
-    am "哦，妈的，我要高潮了！"
+    am "噢，妈的，我要高潮了！"
 
 # game/v10/scene26.rpy:504
 translate chinese v10s26_amberCowgirl_145180e5:
@@ -670,7 +670,7 @@ translate chinese v10s26_amberCowgirl_0d14ebca:
 translate chinese v10s26_amberCowgirl_0dcffdec:
 
     # u "I didn't know you... oh shit!"
-    u "我不知道你……哦，该死！"
+    u "我不知道你……噢，该死！"
 
 # game/v10/scene26.rpy:755
 translate chinese v10s26_amberCowgirl_ac358932:
@@ -682,7 +682,7 @@ translate chinese v10s26_amberCowgirl_ac358932:
 translate chinese v10s26_amberCowgirl_93141561:
 
     # am "Oh I needed this!"
-    am "哦，我需要这样！"
+    am "噢，我需要这样！"
 
 # game/v10/scene26.rpy:765
 translate chinese v10s26_amberCowgirl_cee0f438:
@@ -694,13 +694,13 @@ translate chinese v10s26_amberCowgirl_cee0f438:
 translate chinese v10s26_amberCowgirl_f7fd4196:
 
     # am "Oh god!"
-    am "哦，天呐！"
+    am "噢，天呐！"
 
 # game/v10/scene26.rpy:775
 translate chinese v10s26_amberCowgirl_bee091fa:
 
     # am "Oh my God, FASTER!"
-    am "哦，天哪，快点！"
+    am "噢，天呐，快点！"
 
 # game/v10/scene26.rpy:780
 translate chinese v10s26_amberCowgirl_cfa8ef6a:
@@ -718,7 +718,7 @@ translate chinese v10s26_amberCowgirl_aa368576:
 translate chinese v10s26_amberCowgirl_ace625cb:
 
     # am "Oh fuck!"
-    am "哦，该死的！"
+    am "噢，该死的！"
 
 # game/v10/scene26.rpy:795
 translate chinese v10s26_amberCowgirl_2650c780_1:
@@ -736,7 +736,7 @@ translate chinese v10s26_amberCowgirl_a8d1bb6c_1:
 translate chinese v10s26_amberCowgirl_9a45d6c4_1:
 
     # am "Oh shit I'm gonna cum!"
-    am "哦，妈的，我要高潮了！"
+    am "噢，妈的，我要高潮了！"
 
 # game/v10/scene26.rpy:810
 translate chinese v10s26_amberCowgirl_145180e5_1:
@@ -850,7 +850,7 @@ translate chinese v10s26_amberCowgirl_154a497f:
 translate chinese v10s26_amberCowgirl_c16f841a:
 
     # u "Oh, uhm sorry."
-    u "哦，嗯，对不起。"
+    u "噢，嗯，对不起。"
 
 # game/v10/scene26.rpy:934
 translate chinese v10s26_amberCowgirl_15187a4a:
@@ -904,13 +904,13 @@ translate chinese v10s26_amberCowgirl_02e3dc8d:
 translate chinese v10s26_amberCowgirl_2118d3ae:
 
     # am "True. Guess that ends our night. No buzz no fun."
-    am "真实的。看来今晚就到此为止了。没有嗡嗡声就没有乐趣。"
+    am "是的。看来今晚就到此为止了。无酒不欢。"
 
 # game/v10/scene26.rpy:985
 translate chinese v10s26_amberCowgirl_8055781b:
 
     # u "Haha, yeah it is getting late."
-    u "哈哈，是啊，时间不早了。"
+    u "哈哈，是的，时间不早了。"
 
 # game/v10/scene26.rpy:990
 translate chinese v10s26_amberCowgirl_a66c55cc:

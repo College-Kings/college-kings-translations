@@ -136,7 +136,7 @@ translate chinese v10_riley_walk_b16e29e9:
 translate chinese v10_riley_walk_48e23f9e:
 
     # ri "Did you know Mr. Lee ran for Mayor a few years ago?"
-    ri "你知道李老师几年前竞选市长吗？"
+    ri "你知道李先生几年前竞选市长吗？"
 
 # game/v10/scene39.rpy:133
 translate chinese v10_riley_walk_49134216:

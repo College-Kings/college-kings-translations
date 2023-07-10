@@ -34,7 +34,7 @@ translate chinese v10_leave_fight_1c81c8e1:
 translate chinese v10_leave_fight_6ad29c6e:
 
     # se "Looks like guys really belong into the Wolves. Well done."
-    se "看来大家都属于狼队啊。做得很好。"
+    se "看来大家都属于狼人啊。做得很好。"
 
 # game/v10/scene9.rpy:68
 translate chinese v10_leave_fight_db4a123d:
@@ -148,7 +148,7 @@ translate chinese v10_leave_fight_ed511f23:
 translate chinese v10_leave_fight_935cc2f7:
 
     # ry "We both did, man. Apes all the way!"
-    ry "我们都是，伙计。一路上都是猿人！"
+    ry "我们都是，伙计。猿人到永久！"
 
 # game/v10/scene9.rpy:208
 translate chinese v10_leave_fight_0fcf95e9:

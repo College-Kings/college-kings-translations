@@ -300,7 +300,7 @@ translate chinese strings:
 
     # game/v10/scene25.rpy:143
     old "Insult him"
-    new "侮辱他"
+    new "羞辱他"
 
     # game/v10/scene25.rpy:143
     old "Comfort her"

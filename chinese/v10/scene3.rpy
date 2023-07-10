@@ -4,13 +4,13 @@
 translate chinese v10_imre_vs_caleb_1b7d47e2:
 
     # u "(Let's see who's up first)"
-    u "(让我们看看谁先起来。)"
+    u "(让我们看看谁先来。)"
 
 # game/v10/scene3.rpy:21
 translate chinese v10_imre_vs_caleb_41581a3e:
 
     # jo "Ladies and Gentlemen, the time has arrived for our first matchup to begin. In the Wolves corner, we have Imre!"
-    jo "女士们，先生们，我们的第一场比赛开始的时间到了。在狼队这边，出场的是伊姆雷！"
+    jo "女士们，先生们，我们的第一场比赛就要开始了。在狼队这边，出场的是伊姆雷！"
 
 # game/v10/scene3.rpy:26
 translate chinese v10_imre_vs_caleb_50eba26f:
@@ -34,7 +34,7 @@ translate chinese v10_imre_vs_caleb_d6ff8162:
 translate chinese v10_imre_vs_caleb_a6dae17e:
 
     # u "Oh no! What's wrong?"
-    u "哦不！怎么了？"
+    u "噢，不！怎么了？"
 
 # game/v10/scene3.rpy:47
 translate chinese v10_imre_vs_caleb_ce31a117:
@@ -46,7 +46,7 @@ translate chinese v10_imre_vs_caleb_ce31a117:
 translate chinese v10_imre_vs_caleb_10c3f2fc:
 
     # gr "Aww fuck, man. None of that shit! Suck it up and get in that ring!"
-    gr "他妈的，伙计。别管那些狗屎了！鼓起勇气进入拳击场吧！"
+    gr "他妈的，伙计。别那么怂！鼓起勇气上擂台吧！"
 
 # game/v10/scene3.rpy:62
 translate chinese v10_imre_vs_caleb_861a4707:

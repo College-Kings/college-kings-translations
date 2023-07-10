@@ -22,7 +22,7 @@ translate chinese v10_imre_vs_caleb_fight_07839494:
 translate chinese v10_imre_vs_caleb_fight_e964dca7:
 
     # jo "Don't kill each other, stay in the ring, yada, yada, yada. Have fun!"
-    jo "别杀了对方，待在擂台上，等等。玩得开心！"
+    jo "点到为止，待在擂台上等等。儿玩得开心！"
 
 # game/v10/scene5.rpy:35
 translate chinese v10_imre_vs_caleb_fight_e9a39362:
@@ -46,7 +46,7 @@ translate chinese v10_imre_vs_caleb_fight_8e185b13:
 translate chinese v10_imre_vs_caleb_fight_0e07d8ca:
 
     # jo "Ah, who cares, this is fight night."
-    jo "啊，谁在乎呢，这是拳击之夜。"
+    jo "啊，耗子尾汁，这是战斗之夜。"
 
 # game/v10/scene5.rpy:74
 translate chinese v10_imre_vs_caleb_fight_4a6f411d:
@@ -64,7 +64,7 @@ translate chinese v10_imre_vs_caleb_fight_bed436de:
 translate chinese v10_imre_vs_caleb_fight_2dd3ea2f:
 
     # imre "To all the fine ass ladies out there, that was for you."
-    imre "对所有漂亮的屁股女郎来说，这是给你们的。"
+    imre "对所有漂亮的粉红女郎来说，这是给你们的。"
 
 # game/v10/scene5.rpy:86
 translate chinese v10_imre_vs_caleb_fight_b2240209:

@@ -22,13 +22,13 @@ translate chinese v10_wolves_redec_db45c5a6:
 translate chinese v10_wolves_redec_ba652299:
 
     # ch "Yeah man! Make it scream \"Wolves\", you know?"
-    ch "是啊，伙计！让\"狼群\"尖叫起来，你知道吗？"
+    ch "是的，伙计！让\"狼人\"尖叫起来，你知道吗？"
 
 # game/v10/scene13.rpy:45
 translate chinese v10_wolves_redec_2372efec:
 
     # u "Yeah, that sounds great!"
-    u "是啊，听起来不错！"
+    u "是的，听起来不错！"
 
 # game/v10/scene13.rpy:50
 translate chinese v10_wolves_redec_65d1abb6:

@@ -16,7 +16,7 @@ translate chinese v10_autumn_announcement_141dd807:
 translate chinese v10_autumn_announcement_12e1cef1:
 
     # aut "After a quick count we've already way surpassed our fundraising goal."
-    aut "经过快速清点，我们已经远远超过了我们的筹款目标。"
+    aut "经过快速清点，已经远远超过了我们的筹款目标。"
 
 # game/v10/scene34.rpy:27
 translate chinese v10_autumn_announcement_24a234dd:
@@ -28,25 +28,25 @@ translate chinese v10_autumn_announcement_24a234dd:
 translate chinese v10_autumn_announcement_a3b890ae:
 
     # dg1 "Couldn't have done it without you Autumn!"
-    dg1 "没有你，秋，我们是不可能做到的！"
+    dg1 "秋，没有你，我们是不可能做到的！"
 
 # game/v10/scene34.rpy:34
 translate chinese v10_autumn_announcement_cfeb8a03:
 
     # dg3 "Yeah, cheers for Autumn!"
-    dg3 "是啊，为秋干杯！"
+    dg3 "是啊，为秋欢呼！"
 
 # game/v10/scene34.rpy:39
 translate chinese v10_autumn_announcement_2ab25860:
 
     # aut "Thanks everyone, means a lot. So our main event for today is of course the mud wrestling."
-    aut "谢谢大家，意义重大。所以我们今天的主要项目当然是泥浆摔跤。"
+    aut "谢谢大家，意义重大。所以我们今天的主要项目当然是泥浆摔跤大赛。"
 
 # game/v10/scene34.rpy:44
 translate chinese v10_autumn_announcement_88005043:
 
     # imre "LET'S GOOOOO!!!!"
-    imre "让我们来吧！！！"
+    imre "让我们开始吧！！！"
 
 # game/v10/scene34.rpy:49
 translate chinese v10_autumn_announcement_4e8039a8:
@@ -220,7 +220,7 @@ translate chinese v10_autumn_announcement_50453ff1:
 translate chinese v10_autumn_announcement_f787f809:
 
     # no "Oh shut up."
-    no "哦，闭嘴。"
+    no "噢，闭嘴。"
 
 translate chinese strings:
 
