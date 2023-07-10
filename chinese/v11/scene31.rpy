@@ -88,13 +88,13 @@ translate chinese v11_lindsey_park_57258cce:
 translate chinese v11_lindsey_park_f08c45e4:
 
     # li "I'm one hundred percent certain that I'm running against Chloe to be Chicks President."
-    li "我百分之百确定我将与克洛伊竞争小鸡会主席的职位。"
+    li "我百分之百确定我将与克洛伊竞争小鸡会会长的职位。"
 
 # game/v11/scene31.rpy:95
 translate chinese v11_lindsey_park_6d5778af:
 
     # u "Wow... congrats! What made you decide?"
-    u "哇哦……恭喜你！是什么让你做出决定的？"
+    u "哇噢……恭喜你！是什么让你做出决定的？"
 
 # game/v11/scene31.rpy:100
 translate chinese v11_lindsey_park_40f1b01c:
@@ -184,7 +184,7 @@ translate chinese v11_lindsey_park_277ea261:
 translate chinese v11_lindsey_park_5d0bfb65:
 
     # li "Chloe does too much without the input of the rest of the Chicks, no one is there to hold her accountable because no one knows what's going on. Not even Aubrey and she's the VP."
-    li "克洛伊做了太多没有其他小鸡参与的事，没人会追究她的责任因为没人知道发生了什么。连奥布里都不行，她可是副主席。"
+    li "克洛伊做了太多没有其他姑娘参与的事，没人会追究她的责任因为没人知道发生了什么。连奥布里都不行，她可是副会长。"
 
 # game/v11/scene31.rpy:193
 translate chinese v11_lindsey_park_f98c600b:
@@ -208,31 +208,31 @@ translate chinese v11_lindsey_park_e96c4eb6:
 translate chinese v11_lindsey_park_35e59b1a:
 
     # li "Normally, we don't have these issues so the presidency is just passed on to whoever the former President wants."
-    li "通常情况下，我们没有这些问题，所以主席职位只是移交给前主席想要的任何人。"
+    li "通常情况下，我们没有这些问题，所以会长职位只是移交给前会长想要的任何人。"
 
 # game/v11/scene31.rpy:210
 translate chinese v11_lindsey_park_fcb5342e:
 
     # li "Who they choose or endorse rather is always approved by everyone else."
-    li "她们选择或支持的人总是得到其他人的认可。"
+    li "她们选择或支持的人总是得到其她人的认可。"
 
 # game/v11/scene31.rpy:215
 translate chinese v11_lindsey_park_f8173285:
 
     # u "How often do you all decide on a new President?"
-    u "你们多久会选择一个新的主席？"
+    u "你们多久会选择一个新的会长？"
 
 # game/v11/scene31.rpy:220
 translate chinese v11_lindsey_park_61cce069:
 
     # li "Every half semester we do a vote, but no one ever runs against the current President."
-    li "每半学期我们都要投票，但从来没有人与现任主席竞争过。"
+    li "每半学期我们都要投票，但从来没有人与现任会长竞争过。"
 
 # game/v11/scene31.rpy:222
 translate chinese v11_lindsey_park_a47f4cf4:
 
     # li "So from what I've learned, people just suck up to the President and hope they're chosen when the President leaves."
-    li "所以据我所知，人们只是奉承主席，希望他们在主席离任时被选中。"
+    li "所以据我所知，人们只是奉承会长，希望他们在会长离任时被选中。"
 
 # game/v11/scene31.rpy:227
 translate chinese v11_lindsey_park_857b0ad3:
@@ -268,7 +268,7 @@ translate chinese v11_lindsey_park_f10b11d3:
 translate chinese v11_lindsey_park_6c3d789d:
 
     # li "I want to run a full campaign and really show the girls why I should be President."
-    li "我想进行一场全面的竞选活动，真正向女孩们展示我为什么应该当主席。"
+    li "我想进行一场全面的竞选活动，真正向女孩们展示我为什么应该当会长。"
 
 # game/v11/scene31.rpy:257
 translate chinese v11_lindsey_park_8156370e:
@@ -280,7 +280,7 @@ translate chinese v11_lindsey_park_8156370e:
 translate chinese v11_lindsey_park_67d1c64e:
 
     # li "Well, it starts with me knowing why I want to be President and putting it into a concise message."
-    li "首先，我要知道我为什么想当主席，并把它变成一个简明扼要的信息。"
+    li "首先，我要知道我为什么想当会长，并把它变成一个简明扼要的信息。"
 
 # game/v11/scene31.rpy:267
 translate chinese v11_lindsey_park_71d300e4:
@@ -292,13 +292,13 @@ translate chinese v11_lindsey_park_71d300e4:
 translate chinese v11_lindsey_park_1bcbcb7a:
 
     # li "Exactly, but I'm having trouble coming up with one. I actually planned on meeting with Charli and talking about it, he had some really good ideas."
-    li "没错，但我想不出一个。我本来打算和查莉见面谈谈，他有一些很好的想法。"
+    li "没错，但我想不出一个。我本来打算和查理见面谈谈，他有一些很好的想法。"
 
 # game/v11/scene31.rpy:277
 translate chinese v11_lindsey_park_6759674f:
 
     # u "Well, I can help with that. If someone was to ask, like if you were in an interview or something, why do you want to be the Chicks President? What would you say?"
-    u "好吧，我可以帮忙。如果有人问，比如你在面试中，你为什么想当小鸡会主席？你会怎么说？"
+    u "好吧，我可以帮忙。如果有人问，比如你在面试中，你为什么想当小鸡会会长？你会怎么说？"
 
 # game/v11/scene31.rpy:282
 translate chinese v11_lindsey_park_e310f053:
@@ -316,13 +316,13 @@ translate chinese v11_lindsey_park_5d37e084:
 translate chinese v11_lindsey_park_ca0dc500:
 
     # li "That's why I want to be President."
-    li "这就是我想当主席的原因。"
+    li "这就是我想当会长的原因。"
 
 # game/v11/scene31.rpy:293
 translate chinese v11_lindsey_park_c075d6fa:
 
     # u "Damn, that was some genuine presidential stuff right there. *Chuckles*"
-    u "天呐，这是真正的总统风范。 *咯咯笑*"
+    u "天呐，这是真正的会长风范。 *咯咯笑*"
 
 # game/v11/scene31.rpy:298
 translate chinese v11_lindsey_park_d23d28a5:
@@ -364,7 +364,7 @@ translate chinese v11_lindsey_park_f68ff19f:
 translate chinese v11_lindsey_park_b691736c:
 
     # u "Well yeah, do you not like it?"
-    u "是啊，你不喜欢吗？"
+    u "是的，你不喜欢吗？"
 
 # game/v11/scene31.rpy:343
 translate chinese v11_lindsey_park_b6f60d13:
@@ -376,7 +376,7 @@ translate chinese v11_lindsey_park_b6f60d13:
 translate chinese v11_lindsey_park_c64dc123:
 
     # u "What can I say, I have a talent. Maybe you should ask me to be your VP."
-    u "我能说什么呢，我有天赋。也许你该让我做你的副主席。"
+    u "我能说什么呢，我有天赋。也许你该让我做你的副会长。"
 
 # game/v11/scene31.rpy:353
 translate chinese v11_lindsey_park_ed063ab0:
@@ -388,7 +388,7 @@ translate chinese v11_lindsey_park_ed063ab0:
 translate chinese v11_lindsey_park_e715cb28:
 
     # u "You're gonna invite me to a Chicks party? Won't I be the only guy?"
-    u "你要邀请我参加一个小鸡派对吗？我不是唯一的男人吧？"
+    u "你要邀请我参加一个姑娘派对吗？我不是唯一的男人吧？"
 
 # game/v11/scene31.rpy:363
 translate chinese v11_lindsey_park_8b43202f:
@@ -424,7 +424,7 @@ translate chinese v11_lindsey_park_40d8237a:
 translate chinese v11_lindsey_park_ac06664f:
 
     # li "There is, and I've already got it handled. I'm treating all of the Chicks individually to lunch and telling them that I plan to run and why. Hopefully I'll have their support before the vote."
-    li "有，我已经搞定了。我要分别请所有小妞吃午饭告诉她们我计划参选，以及参选的原因。希望我能在投票前得到他们的支持。"
+    li "有，我已经搞定了。我要分别请所有小妞吃午饭告诉她们我计划参选，以及参选的原因。希望我能在投票前得到她们的支持。"
 
 # game/v11/scene31.rpy:401
 translate chinese v11_lindsey_park_76fff3b3:
@@ -436,7 +436,7 @@ translate chinese v11_lindsey_park_76fff3b3:
 translate chinese v11_lindsey_park_08dffa54:
 
     # li "During the trip I want to give her time to change my mind about running. So I'm not gonna tell her just yet."
-    li "在旅途中，我想给她点时间来打消我对竞选的想法。所以我现在还不打算告诉她。"
+    li "在旅行中，我想给她点儿时间来打消我对竞选的想法。所以我现在还不打算告诉她。"
 
 # game/v11/scene31.rpy:411
 translate chinese v11_lindsey_park_45918ba4:
@@ -460,13 +460,13 @@ translate chinese v11_lindsey_park_becee0eb:
 translate chinese v11_lindsey_park_78e5ee3d:
 
     # li "*Laughs* I'm glad I came to the park today. I'm gonna go run over some more ideas and see what I can come up with."
-    li "*笑* 我很高兴今天来到公园。我要多想几个点子，看看能不能想出点什么来。"
+    li "*笑* 我很高兴今天来到公园。我要多想几个点子，看看还能不能想出点什么来。"
 
 # game/v11/scene31.rpy:431
 translate chinese v11_lindsey_park_b42ff9b0:
 
     # u "You do that. Madame President. *Chuckles*"
-    u "你可以这么做。主席女士。 *咯咯笑*"
+    u "你可以的。会长女士。 *咯咯笑*"
 
 # game/v11/scene31.rpy:436
 translate chinese v11_lindsey_park_64f4e32f:

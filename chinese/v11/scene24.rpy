@@ -190,7 +190,7 @@ translate chinese v11_big_ben_08ba658a:
 translate chinese v11_big_ben_05f575b6:
 
     # u "Oh! *Chuckles*"
-    u "哦！ *咯咯笑*"
+    u "噢！ *咯咯笑*"
 
 # game/v11/scene24.rpy:192
 translate chinese v11_big_ben_90db7d36:
@@ -238,7 +238,7 @@ translate chinese v11_big_ben_80e667ba:
 translate chinese v11_big_ben_54424571:
 
     # u "Oh, it's 6:58."
-    u "哦，现在是6：58。"
+    u "噢，现在是6：58。"
 
 # game/v11/scene24.rpy:232
 translate chinese v11_big_ben_7ccf00a9:
@@ -406,7 +406,7 @@ translate chinese v11_big_ben_0ca8f7d6:
 translate chinese v11_big_ben_2b7f3179:
 
     # no "WHAT THE FUCK ARE YOU DOING!?"
-    no "你他妈的在干什么！？"
+    no "你他妈地在干什么！？"
 
 # game/v11/scene24.rpy:386
 translate chinese v11_big_ben_57afae87:
@@ -442,7 +442,7 @@ translate chinese v11_big_ben_7a104825:
 translate chinese v11_big_ben_d870fbab:
 
     # no "Don't fucking touch me."
-    no "他妈的别碰我。"
+    no "他妈地别碰我。"
 
 # game/v11/scene24.rpy:412
 translate chinese v11_big_ben_5bd398fa:

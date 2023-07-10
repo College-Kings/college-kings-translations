@@ -22,7 +22,7 @@ translate chinese v11_roommate_9391cca4:
 translate chinese v11_roommate_93dc8010:
 
     # cl "Yeah... maybe."
-    cl "是啊……也许吧。"
+    cl "好吧……也许吧。"
 
 # game/v11/scene19.rpy:62
 translate chinese v11_roommate_84f7131d:
@@ -538,7 +538,7 @@ translate chinese v11_roommate_fcc18885:
 translate chinese v11_roommate_533b2e6e_1:
 
     # ri "Oh! Just so you know, every night before I go to sleep I have to listen to my favorite album out loud."
-    ri "哦!你要知道，每天晚上睡觉前我都要大声放我最喜欢的专辑。"
+    ri "噢!你要知道，每天晚上睡觉前我都要大声放我最喜欢的专辑。"
 
 # game/v11/scene19.rpy:681
 translate chinese v11_roommate_ef2f1671_1:
@@ -724,7 +724,7 @@ translate chinese v11_roommate_295c8496:
 translate chinese v11_roommate_f218822f:
 
     # u "Oh, I'm sure he could."
-    u "哦，我肯定他可以。"
+    u "噢，我肯定他可以。"
 
 # game/v11/scene19.rpy:893
 translate chinese v11_roommate_e90aad9e:

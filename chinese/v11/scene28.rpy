@@ -82,7 +82,7 @@ translate chinese v11_ms_rose_sex_sg_4a3c7607:
 translate chinese v11_ms_rose_sex_sg_2d485a62:
 
     # ro "Oh... that feels good."
-    ro "哦……感觉不错。"
+    ro "噢……感觉不错。"
 
 # game/v11/scene28.rpy:206
 translate chinese v11_ms_rose_sex_sg_dfe7f300:

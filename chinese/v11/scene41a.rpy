@@ -70,7 +70,7 @@ translate chinese v11_riley_amber_smoking_10538efe:
 translate chinese v11_riley_amber_smoking_48e19a91:
 
     # u "Oh, haha. Who caught you?"
-    u "哦，哈哈。谁抓到你了？"
+    u "噢，哈哈。谁抓到你了？"
 
 # game/v11/scene41a.rpy:80
 translate chinese v11_riley_amber_smoking_269c9931:
@@ -286,7 +286,7 @@ translate chinese v11_riley_amber_smoking_15009741:
 translate chinese v11_riley_amber_smoking_f61f2954:
 
     # ri "Ooh... I'm sure you do. *Chuckles*"
-    ri "哦……我相信你会的。 *咯咯笑*"
+    ri "噢……我相信你会的。 *咯咯笑*"
 
 # game/v11/scene41a.rpy:295
 translate chinese v11_riley_amber_smoking_14a34382:

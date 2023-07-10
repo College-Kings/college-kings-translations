@@ -10,7 +10,7 @@ translate chinese v11_nightclub_with_josh_e77881ab:
 translate chinese v11s4_PhoneContinueJosh1_88d710ce:
 
     # u "(I should check my phone.)"
-    u "(我应该检查一下我的手机。)"
+    u "(我应该看一下我的手机。)"
 
 # game/v11/scene5.rpy:51
 translate chinese v11s4_PhoneContinueJosh1_d3bd95b2:
@@ -64,7 +64,7 @@ translate chinese v11s4_PhoneContinueJosh1_cf19227a:
 translate chinese v11s4_PhoneContinueJosh1_8ff483f6:
 
     # u "That's the most basic name ever. Should've just used my real name."
-    u "这是有史以来最基本的名字。你应该直接用我的真名。"
+    u "这是有史以来最基本的名字。你还不如直接用我的真名。"
 
 # game/v11/scene5.rpy:124
 translate chinese v11s4_PhoneContinueJosh1_b9a5eb07:
@@ -82,7 +82,7 @@ translate chinese v11s4_PhoneContinueJosh1_177646a9:
 translate chinese v11s4_PhoneContinueJosh1_885f6f41:
 
     # jo "That was good, but watch this. Hey ladies, the name's Bruce Wayne. Anyone tryna have a good time tonight?"
-    jo "很好，但是看这个。嗨，女士们，我叫布鲁斯·韦恩。今晚有人想玩得开心吗？"
+    jo "很好，但是看这个。嘿，女士们，我叫布鲁斯·韦恩。今晚有人想玩得开心吗？"
 
 # game/v11/scene5.rpy:142
 translate chinese v11s4_PhoneContinueJosh1_d6f41812:

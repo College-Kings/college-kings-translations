@@ -70,7 +70,7 @@ translate chinese v11_chloe_sex_scene_4a32ce8e:
 translate chinese v11_chloe_sex_scene_27b9c814:
 
     # cl "OH FUCK! *Moans* Then get a taste of all of me..."
-    cl "哦，他妈的！ *呻吟* 那就尝尝我的全部吧……"
+    cl "噢，他妈的！ *呻吟* 那就尝尝我的全部吧……"
 
 # game/v11/scene41b.rpy:144
 translate chinese v11_chloe_sex_scene_d458fb04:

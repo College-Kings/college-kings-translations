@@ -16,7 +16,7 @@ translate chinese v11_riley_sex_0a88e854:
 translate chinese v11_riley_sex_e38ff51f:
 
     # ri "What did Mr. Lee call you again? Oh yeah, most trusted. *Chuckles*"
-    ri "李先生叫你什么来着？哦，是的，最值得信任的。*咯咯笑*"
+    ri "李先生叫你什么来着？噢，是的，最值得信任的。 *咯咯笑*"
 
 # game/v11/scene35.rpy:35
 translate chinese v11_riley_sex_c4aed7bc:
@@ -40,7 +40,7 @@ translate chinese v11_riley_sex_3a72b208:
 translate chinese v11_riley_sex_0323a753:
 
     # ri "Aww, no late night talks with your awesome roommate?"
-    ri "哦，不和你的超棒室友午夜聊天吗？"
+    ri "噢，不和你的超棒室友午夜聊天吗？"
 
 # game/v11/scene35.rpy:55
 translate chinese v11_riley_sex_44827527:
@@ -58,7 +58,7 @@ translate chinese v11_riley_sex_ea21977d:
 translate chinese v11_riley_sex_532ea6b9:
 
     # u "Oh boy... What did Amber say?"
-    u "哦，天呐……琥珀说了什么？"
+    u "噢，天呐……琥珀说了什么？"
 
 # game/v11/scene35.rpy:70
 translate chinese v11_riley_sex_c32417a7:
@@ -106,7 +106,7 @@ translate chinese v11_riley_sex_8ba5df56:
 translate chinese v11_riley_sex_bb632226:
 
     # ri "Oh, the joys of having a pretty face... Saves you from so many harsh realities."
-    ri "哦，拥有一张漂亮脸蛋的乐趣……在于把你从这么多残酷的现实中拯救出来。"
+    ri "噢，拥有一张漂亮脸蛋的乐趣……在于把你从这么多残酷的现实中拯救出来。"
 
 # game/v11/scene35.rpy:117
 translate chinese v11_riley_sex_37fd44b6:
@@ -460,7 +460,7 @@ translate chinese v11_riley_sex_sg_e6fbf1ed:
 translate chinese v11_riley_sex_sg_f881f2ae:
 
     # ri "*Gasps* OH FUCK!"
-    ri "*喘气* 哦，操！"
+    ri "*喘气* 噢，操！"
 
 # game/v11/scene35.rpy:631
 translate chinese v11_riley_sex_sg_4f7368d9:
@@ -490,13 +490,13 @@ translate chinese v11_riley_sex_sg_2e15e35e:
 translate chinese v11_riley_sex_sg_a65f1382:
 
     # u "Shit, that was nice."
-    u "妈的，太棒了。"
+    u "该死的，太棒了。"
 
 # game/v11/scene35.rpy:664
 translate chinese v11_riley_sex_sg_d1866dec:
 
     # ri "Wow... I like the kinky side of you. *Chuckles* I'm gonna go clean up... I'll be right back."
-    ri "哇哦……我喜欢你古怪的一面。 *咯咯笑* 我要去清理一下……我马上回来。"
+    ri "哇噢……我喜欢你古怪的一面。 *咯咯笑* 我要去清理一下……我马上回来。"
 
 # game/v11/scene35.rpy:690
 translate chinese v11_riley_sex_sg_66117d9b:

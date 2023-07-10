@@ -106,7 +106,7 @@ translate chinese v11_carriage_ride_f993894c:
 translate chinese v11_carriage_ride_65bdf7fe:
 
     # u "Oh, perfect. Who else are we with?"
-    u "哦，太好了。我们还和谁在一起？"
+    u "噢，太好了。我们还和谁在一起？"
 
 # game/v11/scene40.rpy:114
 translate chinese v11_carriage_ride_25f4cfbe:
@@ -154,7 +154,7 @@ translate chinese v11_carriage_ride_35235d34:
 translate chinese v11_carriage_ride_5435ac46:
 
     # li "Oh, we're first!"
-    li "哦，我们是第一批！"
+    li "噢，我们是第一批！"
 
 # game/v11/scene40.rpy:154
 translate chinese v11_carriage_ride_5b761454:
@@ -190,7 +190,7 @@ translate chinese v11_carriage_ride_55f34b8f:
 translate chinese v11_carriage_ride_f82c9a6b:
 
     # li "Oh, haha. Well don't play like that... There's no way I could sit alone on a carriage between those two. *Chuckles*"
-    li "哦，哈哈。好了，别这样玩了。我不可能一个人坐在那两个人中间的马车上。 *咯咯笑*"
+    li "噢，哈哈。好了，别这样玩了。我不可能一个人坐在那两个人中间的马车上。 *咯咯笑*"
 
 # game/v11/scene40.rpy:190
 translate chinese v11_carriage_ride_8720366a:
@@ -220,7 +220,7 @@ translate chinese v11_carriage_ride_c8a22771:
 translate chinese v11_carriage_ride_6a535865:
 
     # u "Oh, hey, it looks like Chloe and Nora are ready."
-    u "哦，嘿，看起来克洛伊和诺拉准备好了。"
+    u "噢，嘿，看起来克洛伊和诺拉准备好了。"
 
 # game/v11/scene40.rpy:218
 translate chinese v11_carriage_ride_687d22a0:
@@ -274,7 +274,7 @@ translate chinese v11_carriage_ride_9e197bd1:
 translate chinese v11_carriage_ride_54aadca5:
 
     # no "Woah..."
-    no "哇哦……"
+    no "哇噢……"
 
 # game/v11/scene40.rpy:283
 translate chinese v11_carriage_ride_e1b5bcdc:
@@ -412,7 +412,7 @@ translate chinese v11_carriage_ride_9f8885ad:
 translate chinese v11_carriage_ride_b2e0be5f:
 
     # cl "Oh, okay."
-    cl "哦，好的。"
+    cl "噢，好的。"
 
 # game/v11/scene40.rpy:403
 translate chinese v11_carriage_ride_cc8a81d1:
@@ -586,7 +586,7 @@ translate chinese v11_carriage_ride_b34648f2:
 translate chinese v11_carriage_ride_b3e5473d:
 
     # cl "Oh really? Like what?"
-    cl "哦真的？比如呢？"
+    cl "噢真的？比如呢？"
 
 # game/v11/scene40.rpy:554
 translate chinese v11_carriage_ride_daedabf5:
@@ -718,7 +718,7 @@ translate chinese v11_carriage_ride_5e77c0c0_1:
 translate chinese v11_carriage_ride_3c9e50aa:
 
     # u "Oh, hey! Did you guys know there's a statue at the museum Mr. Lee took us to that was sculpted by his ex, and is actually the resemblance of the guy she cheated on him with?"
-    u "哦，嘿！你们知道李先生带我们去的博物馆里有一尊雕像是他的前女友雕刻的，实际上长得很像和她一起出轨的那个人吗？"
+    u "噢，嘿！你们知道李先生带我们去的博物馆里有一尊雕像是他的前女友雕刻的，实际上长得很像和她一起出轨的那个人吗？"
 
 # game/v11/scene40.rpy:657
 translate chinese v11_carriage_ride_4bb4b8cb:
@@ -1024,7 +1024,7 @@ translate chinese v11_carriage_ride_a074e3ea:
 translate chinese v11_carriage_ride_86a4def5:
 
     # u "Yeah, of course. Goodnight."
-    u "是啊，当然。晚安。"
+    u "好吧，当然。晚安。"
 
 translate chinese strings:
 

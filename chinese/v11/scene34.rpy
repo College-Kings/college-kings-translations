@@ -10,7 +10,7 @@ translate chinese v11_cardealership_078a28c5:
 translate chinese v11_cardealership_310baa65:
 
     # cl "Oh hi, I'm in the market for a new sports car. Something worthy of being called an eye catcher."
-    cl "哦，你好，我想在车店买一辆新跑车。名副其实又吸引眼球的东西。"
+    cl "噢，你好，我想在车店买一辆新跑车。名副其实又吸引眼球的东西。"
 
 # game/v11/scene34.rpy:32
 translate chinese v11_cardealership_33bbbf07:
@@ -52,7 +52,7 @@ translate chinese v11_cardealership_1657d9b6:
 translate chinese v11_cardealership_f6b1772a:
 
     # csa "Well ma'am, it's your lucky day. We just had an import of the highest quality. A German model. You struck gold finding this man and now lady luck is shining on you once again."
-    csa "好的，夫人，今天是您的幸运日。我们刚进了一批质量最好的进口车。德系车型。您找到了这位男士，就像找到了黄金，现在幸运女神又一次照耀着你。"
+    csa "好的，夫人，今天是您的幸运日。我们刚进了一批质量最好的进口车。德系车型。您找到了这位男士，就像找到了黄金，现在幸运女神又一次眷顾了你。"
 
 # game/v11/scene34.rpy:67
 translate chinese v11_cardealership_f148c955:
@@ -76,7 +76,7 @@ translate chinese v11_cardealership_2f139a7b:
 translate chinese v11_cardealership_a1b4262c:
 
     # cl "What? *Chuckles* I just thought we could have a little fun."
-    cl "什么？ *咯咯笑* 我只是想我们可以找点乐子。"
+    cl "什么？ *咯咯笑* 我只是想我们可以找点儿乐子。"
 
 # game/v11/scene34.rpy:93
 translate chinese v11_cardealership_3e1384c3:
@@ -160,7 +160,7 @@ translate chinese v11_cardealership_cdf953ad:
 translate chinese v11_cardealership_da6c9dfc:
 
     # csa "Okay, so local streets around the dealership are the test driving route. Normally, there are a few more questions and details to run through, but I'm sure you two will be just fine. Here are the keys, sir."
-    csa "好的，经销商周围的街道是试驾路线。通常情况下，还有几个问题和细节需要过目，但我相信二位会没事的。这是钥匙，先生。"
+    csa "好的，经销商周围的街道都是试驾路线。通常情况下，还有几个问题和细节需要过目，但我相信二位会没事的。这是钥匙，先生。"
 
 # game/v11/scene34.rpy:180
 translate chinese v11_cardealership_ccd53b23:
@@ -172,7 +172,7 @@ translate chinese v11_cardealership_ccd53b23:
 translate chinese v11_cardealership_e437dae9:
 
     # u "You ready, babe?"
-    u "准备好了吗，宝贝？"
+    u "准备好了吗，宝贝儿？"
 
 # game/v11/scene34.rpy:197
 translate chinese v11_cardealership_8ca5a74f:
@@ -208,7 +208,7 @@ translate chinese v11_cardealership_f41cb73f:
 translate chinese v11_cardealership_2b5f7452:
 
     # cl "Oh wow, I didn't know you knew how to drive a car like this!"
-    cl "哦，哇，我不知道你会开这样的车！"
+    cl "噢，哇，我不知道你会开这样的车！"
 
 # game/v11/scene34.rpy:258
 translate chinese v11_cardealership_1f427b5e:

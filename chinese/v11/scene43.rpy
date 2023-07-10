@@ -854,7 +854,7 @@ translate chinese strings:
 
     # game/v11/scene43.rpy:132
     old "A little"
-    new "一点"
+    new "一点儿"
 
     # game/v11/scene43.rpy:260
     old "Stealth"

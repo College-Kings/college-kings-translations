@@ -16,7 +16,7 @@ translate chinese v11_emily_park_b59be32a_1:
 translate chinese v11s4_PhoneContinueEmily1_88d710ce:
 
     # u "(I should check my phone.)"
-    u "(我应该检查一下我的手机。)"
+    u "(我应该看一下我的手机。)"
 
 # game/v11/scene4.rpy:58
 translate chinese v11s4_PhoneContinueEmily1_dc79bd0c:

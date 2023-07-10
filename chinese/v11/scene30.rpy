@@ -112,7 +112,7 @@ translate chinese v11_lauren_store_a9c5062d:
 translate chinese v11_lauren_store_98cdb7ba:
 
     # u "Right... and where are we actually going?"
-    u "好的……那我们到底要去哪里呢？"
+    u "好吧……那我们到底要去哪里呢？"
 
 # game/v11/scene30.rpy:146
 translate chinese v11_lauren_store_9221e666:
@@ -148,13 +148,13 @@ translate chinese v11_lauren_store_42f1ca13:
 translate chinese v11_lauren_store_8fa7583e:
 
     # u "*Sarcastic* Oh wow, sounds like fun."
-    u "*讽刺* 哦，哇，听起来很有趣。"
+    u "*讽刺* 噢，哇，听起来很有趣。"
 
 # game/v11/scene30.rpy:176
 translate chinese v11_lauren_store_a7f12e89:
 
     # la "Oh come on, [name]. You're going to love it. Trust me."
-    la "哦，来吧，[name]。你会喜欢的。请相信我。"
+    la "噢，来吧，[name]。你会喜欢的。请相信我。"
 
 # game/v11/scene30.rpy:191
 translate chinese v11_lauren_store_0ead8abe:
@@ -166,13 +166,13 @@ translate chinese v11_lauren_store_0ead8abe:
 translate chinese v11_lauren_store_aff067a9:
 
     # u "What the fuck is this?"
-    u "这他妈的怎么回事？"
+    u "这他妈的是什么鬼？"
 
 # game/v11/scene30.rpy:211
 translate chinese v11_lauren_store_a6c73d2a:
 
     # la "*Chuckles* Oh my gosh [name]! Not so loud... It's a Hotter Parry trivia contest. I signed up for it."
-    la "*咯咯笑* 哦，我的天呐，[name]！不要那么大声……这是一场哈利波特琐事大赛。我报名参加了。"
+    la "*咯咯笑* 噢，我的天呐，[name]！不要那么大声……这是一场哈利波特细节大赛。我报名参加了。"
 
 # game/v11/scene30.rpy:216
 translate chinese v11_lauren_store_b25de584:
@@ -268,7 +268,7 @@ translate chinese v11_lauren_store_0c64a69c:
 translate chinese v11_lauren_store_5a2b1de7:
 
     # la "That's us."
-    la "那就是我们。"
+    la "我们是。"
 
 # game/v11/scene30.rpy:298
 translate chinese v11_lauren_store_b594e3ee:
@@ -286,7 +286,7 @@ translate chinese v11_lauren_store_cc0683f9:
 translate chinese v11_lauren_store_93b929f3:
 
     # u "What the fuck?"
-    u "他妈的，什么鬼？"
+    u "这又是，什么鬼？"
 
 # game/v11/scene30.rpy:333
 translate chinese v11_lauren_store_81a3d6b2:
@@ -430,7 +430,7 @@ translate chinese v11_lauren_store_3de2160d:
 translate chinese v11_lauren_store_eef030ad:
 
     # la "*Whisper* Good god, he's almost as annoying as Charli."
-    la "*低语* 天呐，他几乎和查利一样烦人。"
+    la "*低语* 天呐，他几乎和查理一样烦人。"
 
 # game/v11/scene30.rpy:462
 translate chinese v11_lauren_store_b54e4039:
@@ -580,7 +580,7 @@ translate chinese v11_quiz_q3_1617ab4e:
 translate chinese v11_quiz_q3_4f4aae98:
 
     # jer "Oh, calm down bulldog... I simply misspoke."
-    jer "哦，冷静点，斗牛犬……我只是说错了话。"
+    jer "噢，冷静点，斗牛犬……我只是说错了话。"
 
 # game/v11/scene30.rpy:636
 translate chinese v11_quiz_q3_8ffad9d7:
@@ -610,7 +610,7 @@ translate chinese v11_quiz_q3_31e8882d:
 translate chinese v11_quiz_q3_9b0c6337:
 
     # jer "Oh please... I've won this contest a thousand times and know that unless it's stated in the rules, I can't be disqualified."
-    jer "哦，拜托……我已经赢得这场比赛一千次了，我知道除非规则规定，否则我不能被取消资格。"
+    jer "噢，拜托……我已经赢得这场比赛一千次了，我知道除非规则规定，否则我不能被取消资格。"
 
 # game/v11/scene30.rpy:667
 translate chinese v11_quiz_q3_989ba423:
@@ -682,7 +682,7 @@ translate chinese v11_quiz_q3_c39c7f93:
 translate chinese v11_quiz_q3_206365f4:
 
     # la "*Whisper* I'm sorry [name], but I really have to use the ladies' room. This one is all you."
-    la "*低语* 我很抱歉，[name]，但是我真的要去一下洗手间。这件事全靠你了。"
+    la "*低语* 我很抱歉，[name]，但是我真的要去一下洗手间。这题全靠你了。"
 
 # game/v11/scene30.rpy:742
 translate chinese v11_quiz_q3_f79a93bc:
@@ -760,7 +760,7 @@ translate chinese v11_quiz_bonus_548dca01:
 translate chinese v11_quiz_bonus_962ffd8f:
 
     # la "*Whisper* Way to hold down the fort! Thanks."
-    la "*低语* 坚守基地！谢谢。"
+    la "*低语* 救援来了！谢谢。"
 
 # game/v11/scene30.rpy:843
 translate chinese v11_quiz_bonus_d9eb95bb:
@@ -832,7 +832,7 @@ translate chinese v11_quiz_bonus_94d5c032:
 translate chinese v11_quiz_bonus_6d520103:
 
     # jud "To win, Team Pofflehoof must get the answer correct, and Jerry must not."
-    jud "要想获胜，波夫胡夫团队必须答对，而杰瑞不能。"
+    jud "要想获胜，波夫胡夫团队必须答对，而杰瑞答错。"
 
 # game/v11/scene30.rpy:927
 translate chinese v11_quiz_bonus_fd17c7e0:
@@ -886,7 +886,7 @@ translate chinese v11_quiz_bonus_588668e4:
 translate chinese v11_quiz_bonus_dbbb232b:
 
     # la "*Whisper* Oh... I'm more than sure."
-    la "*低语* 哦……我非常肯定。"
+    la "*低语* 噢……我非常肯定。"
 
 # game/v11/scene30.rpy:972
 translate chinese v11_quiz_bonus_05517bf0:
@@ -952,7 +952,7 @@ translate chinese v11_quiz_bonus_4b6b094d:
 translate chinese v11_quiz_bonus_7081dfdd:
 
     # la "Haha, I bet he was."
-    la "哈哈，我打赌你是。"
+    la "哈哈，我猜你是。"
 
 # game/v11/scene30.rpy:1045
 translate chinese v11_quiz_bonus_7e9d2368:
@@ -1132,7 +1132,7 @@ translate chinese v11_quiz_bonus_de3bcbdc:
 translate chinese v11_quiz_bonus_eaf23fc9:
 
     # u "Oh, she doesn't have to do that."
-    u "哦，她没必要这么做。"
+    u "噢，她没必要这么做。"
 
 # game/v11/scene30.rpy:1268
 translate chinese v11_quiz_bonus_1c5e391d:
@@ -1156,7 +1156,7 @@ translate chinese v11_quiz_bonus_7014f4e8:
 translate chinese v11_quiz_bonus_6b41967e:
 
     # la "Oh my gosh, this is turning out to be the best day ever..."
-    la "哦，天呐，今天是有史以来最棒的一天……"
+    la "噢，天呐，今天是有史以来最棒的一天……"
 
 # game/v11/scene30.rpy:1300
 translate chinese v11_quiz_bonus_b54e4039:
@@ -1174,7 +1174,7 @@ translate chinese v11_quiz_bonus_c2ca86b4:
 translate chinese v11_quiz_bonus_eeedeab1:
 
     # la "Oh my, thank you so much!"
-    la "哦，天呐，太感谢你了！"
+    la "噢，天呐，太感谢你了！"
 
 # game/v11/scene30.rpy:1320
 translate chinese v11_quiz_bonus_330cc592:
@@ -1310,7 +1310,7 @@ translate chinese strings:
 
     # game/v11/scene30.rpy:752
     old "12 Someold Place"
-    new "12号老广场"
+    new "格里莫广场12号"
 
     # game/v11/scene30.rpy:752
     old "Ministry of Fisheries"

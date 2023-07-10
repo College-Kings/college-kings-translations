@@ -142,7 +142,7 @@ translate chinese v11_sam_spa_2f5d19ce:
 translate chinese v11_sam_spa_b603c52c:
 
     # u "Oh... well, it's just us here. Mind telling me more about it?"
-    u "哦……嗯，这里只有我们两个人。介意多给我讲讲吗？"
+    u "噢……嗯，这里只有我们两个人。介意多给我讲讲吗？"
 
 # game/v11/scene28a.rpy:163
 translate chinese v11_sam_spa_07cd6b38:
@@ -520,7 +520,7 @@ translate chinese v11s28a_galleryScene_5b1704cd:
 translate chinese v11s28a_galleryScene_79f2c996:
 
     # sa "Oh hush."
-    sa "哦，嘘。"
+    sa "噢，嘘。"
 
 # game/v11/scene28a.rpy:514
 translate chinese v11s28a_galleryScene_5859c9ab:
@@ -754,7 +754,7 @@ translate chinese v11s28a_galleryScene_07433087:
 translate chinese v11s28a_galleryScene_7f4b77c5:
 
     # sa "Oh, haha. No way. He was too soft for me. He tried to plead with my brother when he was getting his ass whooped instead of fighting back."
-    sa "哦，哈哈。不可能。他对我来说太软弱了。他被我哥哥揍得屁滚尿流的时候没有反抗，反而试图向他求饶。"
+    sa "噢，哈哈。不可能。他对我来说太软弱了。他被我哥哥揍得屁滚尿流的时候没有反抗，反而试图向他求饶。"
 
 # game/v11/scene28a.rpy:709
 translate chinese v11s28a_galleryScene_f31c5072:

@@ -16,7 +16,7 @@ translate chinese v11_walking_back_0246002f:
 translate chinese v11s47_PhoneContinueJenny_88d710ce:
 
     # u "(I should check my phone.)"
-    u "(我应该检查一下我的手机。)"
+    u "(我应该看一下我的手机。)"
 
 # game/v11/scene47.rpy:50
 translate chinese v11s47_PhoneContinueJenny_97b4ecf2:
@@ -52,7 +52,7 @@ translate chinese v11s47_PhoneContinueJenny_c4b01a7f:
 translate chinese v11s47_PhoneContinueJenny_55119281:
 
     # charli "Haha, [name]... I couldn't care less what you think about me, good or bad. And frankly, it doesn't matter what the girls think either, because they're too blinded by your bullshit to see the truth."
-    charli "哈哈，[name]……我不在乎你怎么看我，是好是坏。坦率地说，女孩们怎么想也无关紧要，因为她们被你的废话蒙蔽了双眼，看不到真相。"
+    charli "哈哈，[name]……我不在乎你怎么看我，是好是坏。坦率地说，女孩们怎么想也无关紧要，因为她们被你的屁话蒙蔽了双眼，看不到真相。"
 
 # game/v11/scene47.rpy:91
 translate chinese v11s47_PhoneContinueJenny_81b20669:

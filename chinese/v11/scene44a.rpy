@@ -16,7 +16,7 @@ translate chinese v11_rose_underground_6621988d:
 translate chinese v11_rose_underground_f2301243:
 
     # ro "I mean, I have, but technically I'm still on-the-clock even when I'm resting."
-    ro "我是说，我有，但严格说来我即使在休息的时候也还在工作。"
+    ro "我是说，是的，但严格说来我即使在休息的时候也还在工作。"
 
 # game/v11/scene44a.rpy:29
 translate chinese v11_rose_underground_0a18a0e6:
@@ -70,7 +70,7 @@ translate chinese v11_rose_underground_32e22dbb:
 translate chinese v11_rose_underground_9307511a:
 
     # u "Oh, big plans?"
-    u "哦，大计划？"
+    u "噢，大计划？"
 
 # game/v11/scene44a.rpy:77
 translate chinese v11_rose_underground_cd03b2d4:
@@ -154,7 +154,7 @@ translate chinese v11_rose_underground_686f65a7:
 translate chinese v11_rose_underground_8333f77a:
 
     # ro "I never wanted to be that professor that was really harsh about things like titles, but I won't fall back to being called a teacher. *Chuckles*"
-    ro "我从没想过成为那种对头衔之类的东西很苛刻的教授，但我也不会被人称作先生。 *咯咯笑* "
+    ro "我从没想过成为那种对头衔之类的东西很苛刻的教授，但我也不会被人称作讲师。 *咯咯笑* "
 
 # game/v11/scene44a.rpy:141
 translate chinese v11_rose_underground_4d8445cc:
@@ -172,7 +172,7 @@ translate chinese v11_rose_underground_b970d946:
 translate chinese v11_rose_underground_879a6207:
 
     # ro "Oh, while I remember, when in Paris I'd like to-"
-    ro "哦，趁我还记得，在巴黎的时候我想-"
+    ro "噢，趁我还记得，在巴黎的时候我想-"
 
 # game/v11/scene44a.rpy:156
 translate chinese v11_rose_underground_0af35966:
@@ -190,7 +190,7 @@ translate chinese v11_rose_underground_2d7e0918:
 translate chinese v11_rose_underground_e096a4ff:
 
     # ro "*Sighs* It never ends. I'll text Mr. Lee and let him know we're having a little trouble."
-    ro "*叹息* 没完没了。我给李先生发短信，告诉他我们有点小麻烦。"
+    ro "*叹息* 没完没了了。我给李先生发短信，告诉他我们有点小麻烦。"
 
 # game/v11/scene44a.rpy:165
 translate chinese v11_rose_underground_6a74ec1b:
@@ -226,7 +226,7 @@ translate chinese v11_rose_underground_4b5c11c5:
 translate chinese v11_rose_underground_66686979:
 
     # u "Always."
-    u "一直都是。"
+    u "不客气。"
 
 # game/v11/scene44a.rpy:196
 translate chinese v11_rose_underground_02685c97:

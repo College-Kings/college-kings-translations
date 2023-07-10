@@ -64,7 +64,7 @@ translate chinese v11_bartender_hotel_chat_8e689af4:
 translate chinese v11_bartender_hotel_chat_3113363f:
 
     # u "Oh, uhm... thank you."
-    u "哦，嗯……谢谢。"
+    u "噢，嗯……谢谢。"
 
 # game/v11/scene27.rpy:70
 translate chinese v11_bartender_hotel_chat_e60dfdac:
@@ -82,7 +82,7 @@ translate chinese v11_bartender_hotel_chat_effe1b59:
 translate chinese v11_bartender_hotel_chat_4955cbba:
 
     # bartender "Oh too bad."
-    bartender "哦，太糟糕了。"
+    bartender "噢，太糟糕了。"
 
 # game/v11/scene27.rpy:90
 translate chinese v11_bartender_hotel_chat_ce475e7c:
