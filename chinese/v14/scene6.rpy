@@ -40,7 +40,7 @@ translate chinese v14s06_293f0df2:
 translate chinese v14s06_7443c31d:
 
     # u "Oh shit, good idea!"
-    u "哦，见鬼，好主意！"
+    u "噢，见鬼，好主意！"
 
 # game/v14/scene6.rpy:72
 translate chinese v14s06_9ca82640:

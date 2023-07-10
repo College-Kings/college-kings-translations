@@ -16,7 +16,7 @@ translate chinese v14s08_bbbd937a:
 translate chinese v14s08_193f1d14:
 
     # u "(Oh shit... Was she crying? Oh, fuck... What do I do here?)"
-    u "(哦，该死的……她在哭吗？哦，他妈的……我在这里做什么？)"
+    u "(噢，该死的……她在哭吗？噢，他妈的……我在这里做什么？)"
 
 # game/v14/scene8.rpy:31
 translate chinese v14s08_c11c31cb:

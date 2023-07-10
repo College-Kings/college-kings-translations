@@ -106,7 +106,7 @@ translate chinese v14s02_b3e9a390:
 translate chinese v14s02_14bbb964:
 
     # ry "Oh... Hey [name]."
-    ry "哦……嘿，[name]。"
+    ry "噢……嘿，[name]。"
 
 # game/v14/scene2.rpy:124
 translate chinese v14s02_29045ef0:

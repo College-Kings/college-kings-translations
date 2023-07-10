@@ -22,7 +22,7 @@ translate chinese v14s05_3e74e0dc:
 translate chinese v14s05_afe67cdc:
 
     # cl "Oh no... What happened?"
-    cl "哦，不……发生了什么？"
+    cl "噢，不……发生了什么？"
 
 # game/v14/scene5.rpy:60
 translate chinese v14s05_50474444:

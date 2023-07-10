@@ -16,7 +16,7 @@ translate chinese v14s03e_d8adaeef:
 translate chinese v14s03e_d1323b28:
 
     # u "Oh, good to hear..."
-    u "哦，很高兴听到……"
+    u "噢，很高兴听到……"
 
 # game/v14/scene3e.rpy:52
 translate chinese v14s03e_b4c74a1e:
@@ -34,7 +34,7 @@ translate chinese v14s03e_af98df81:
 translate chinese v14s03e_c00f05a4:
 
     # ry "Oh shut up."
-    ry "哦，闭嘴。"
+    ry "噢，闭嘴。"
 
 # game/v14/scene3e.rpy:67
 translate chinese v14s03e_9dad14db:
@@ -88,7 +88,7 @@ translate chinese v14s03e_b7222158:
 translate chinese v14s03e_c0073a5b:
 
     # u "Oh, my bad. I was, you know... busy. You weren't?"
-    u "哦，我的错。我是，你知道的……很忙。你不是吗？"
+    u "噢，我的错。我是，你知道的……很忙。你不是吗？"
 
 # game/v14/scene3e.rpy:123
 translate chinese v14s03e_87252ce2:
@@ -328,7 +328,7 @@ translate chinese v14s03e_ba81ccd6:
 translate chinese v14s03e_aebe6de8:
 
     # u "*Laughs* Oh god."
-    u " *笑* 哦，天呐。"
+    u " *笑* 噢，天呐。"
 
 # game/v14/scene3e.rpy:335
 translate chinese v14s03e_0a84af6a:
@@ -388,7 +388,7 @@ translate chinese v14s03e_e252469d:
 translate chinese v14s03e_869dce38:
 
     # ry "*Laughs* Oh my god... That was a lot funnier than I expected it to be, he couldn't land a single hit! *Laughs*"
-    ry " *笑* 哦，我的天……这比我想象的要有趣得多，他一个球都没打中！ *笑* "
+    ry " *笑* 噢，我的天……这比我想象的要有趣得多，他一个球都没打中！ *笑* "
 
 # game/v14/scene3e.rpy:426
 translate chinese v14s03e_17b41b14:
