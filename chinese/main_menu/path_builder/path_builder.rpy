@@ -4,11 +4,11 @@ translate chinese strings:
 
     # game/main_menu/path_builder/path_builder.rpy:3
     old "Pick your starting location (Act 1 Start skips steps 3-5)"
-    new "选择你开始的位置 (第1集开始跳过步骤 3-5)"
+    new "选择您开始的位置 (第1集开始跳过步骤 3-5)"
 
     # game/main_menu/path_builder/path_builder.rpy:7
     old "Pick your starting KCT"
-    new "选择你的启始KCT"
+    new "选择您的启始KCT"
 
     # game/main_menu/path_builder/path_builder.rpy:11
     old "Pick a fraternity"
@@ -16,15 +16,15 @@ translate chinese strings:
 
     # game/main_menu/path_builder/path_builder.rpy:15
     old "Pick which girls you want to be romantically involved with"
-    new "选择你想和哪些女孩恋爱"
+    new "选择您想和哪些女孩恋爱"
 
     # game/main_menu/path_builder/path_builder.rpy:19
     old "Pick your homecoming date"
-    new "选择你的返校节舞伴"
+    new "选择您的返校节舞伴"
 
     # game/main_menu/path_builder/path_builder.rpy:90
     old "THE PATH BUILDER CONTAINS SPOILERS FOR THE STORY\nOF THE GAME. ARE YOU SURE YOU WANT TO CONTINUE?\nYOU WILL NOT BE ABLE TO EARN ACHIEVEMENTS IN THIS MODE."
-    new "路径生成器包含游戏剧情的剧透。\n确实要继续吗？\n你将无法在这种模式下获得成就。"
+    new "路径生成器包含游戏剧情的剧透。\n您确实要继续吗？\n您将无法在这种模式下获得成就。"
 
     # game/main_menu/path_builder/path_builder.rpy:106
     old "YES"
