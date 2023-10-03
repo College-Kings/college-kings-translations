@@ -76,7 +76,7 @@ translate chinese strings:
 
     # game/phone/phone_tracker.rpy:89
     old "• I visited Autumn at the dog shelter."
-    new "• 我去狗收容所看望了秋。"
+    new "• 我去狗狗收容所看望了秋。"
 
     # game/phone/phone_tracker.rpy:90
     old "• I helped Autumn create signs for the protest."
@@ -88,7 +88,7 @@ translate chinese strings:
 
     # game/phone/phone_tracker.rpy:92
     old "• I helped Autumn for the dog shelter's grand reopening."
-    new "• 我帮秋筹备了狗狗收容所的盛大重新开业。"
+    new "• 我帮秋筹备了狗狗收容所的重新盛大开业。"
 
     # game/phone/phone_tracker.rpy:93
     old "• I asked Autumn for a free mug."
@@ -128,7 +128,7 @@ translate chinese strings:
 
     # game/phone/phone_tracker.rpy:103
     old "• I agreed to help Chloe with campaign photos."
-    new "• 我答应林赛帮她竞选。"
+    new "• 我答应帮克洛伊拍竞选照片。"
 
     # game/phone/phone_tracker.rpy:104
     old "• I trusted Chloe to meet with Grayson."
@@ -136,7 +136,7 @@ translate chinese strings:
 
     # game/phone/phone_tracker.rpy:105
     old "• I stood up against the Apes posting Chloe's lewds on Kiwii."
-    new "• 我反对猿人在猕猴桃上发布克洛伊的色情内容。"
+    new "• 我反对猿人在猕猴桃上发布克洛伊的艳照。"
 
     # game/phone/phone_tracker.rpy:106
     old "• The Apes posted Chloe's lewds on Kiwii."
@@ -208,7 +208,7 @@ translate chinese strings:
 
     # game/phone/phone_tracker.rpy:126
     old "• I told Lauren you love her \"even more than before\" she started to become more sexual."
-    new "• 我告诉劳伦我爱她\"比以前更爱\"她开始变得更性感了。"
+    new "• 我告诉劳伦我\"比以前更爱她\"她开始变得更饥渴了。"
 
     # game/phone/phone_tracker.rpy:127
     old "• I had sex with Lauren at her party."
@@ -224,11 +224,11 @@ translate chinese strings:
 
     # game/phone/phone_tracker.rpy:131
     old "• I told Lindsey I would help with her campaign."
-    new "• 我告诉琳赛我会帮她竞选。"
+    new "• 我告诉林赛我会帮她竞选。"
 
     # game/phone/phone_tracker.rpy:132
     old "• I got alcohol for Lindsey's party."
-    new "• 我为林赛的派对准备了酒。"
+    new "• 我为林赛的派对搞到了酒。"
 
     # game/phone/phone_tracker.rpy:133
     old "• We got Polly to endorse Lindsey's campaign."
@@ -236,11 +236,11 @@ translate chinese strings:
 
     # game/phone/phone_tracker.rpy:134
     old "• I has sex with Lindsey during her massage."
-    new "• 我在林赛按摩的时候和她做爱。"
+    new "• 我在给林赛按摩的时候和她做了爱。"
 
     # game/phone/phone_tracker.rpy:136
     old "• I has sex with Ms. Rose in Europe."
-    new "• 我在欧洲和罗斯小姐做爱。"
+    new "• 我在欧洲和罗斯女士做了爱。"
 
     # game/phone/phone_tracker.rpy:137
     old "• I'm angry at Ms. Rose."
@@ -252,7 +252,7 @@ translate chinese strings:
 
     # game/phone/phone_tracker.rpy:139
     old "• I threatened Ms. Rose during Chloe's campaign meeting."
-    new "• 我在克洛伊的竞选会议上威胁了罗斯女士。"
+    new "• 我在克洛伊的竞选会上威胁了罗斯女士。"
 
     # game/phone/phone_tracker.rpy:140
     old "• I had sex again with Ms. Rose."
@@ -292,7 +292,7 @@ translate chinese strings:
 
     # game/phone/phone_tracker.rpy:151
     old "• I slept with Nora in Europe."
-    new "• 我和诺拉在欧洲睡过。"
+    new "• 我和诺拉在欧洲睡了。"
 
     # game/phone/phone_tracker.rpy:152
     old "• I blame Nora for the brakeup with Chris."
@@ -312,7 +312,7 @@ translate chinese strings:
 
     # game/phone/phone_tracker.rpy:156
     old "• I fingered Nora during her massage."
-    new "• 诺拉按摩时我用手指干她。"
+    new "• 给诺拉按摩时我用手指干她。"
 
     # game/phone/phone_tracker.rpy:159
     old "• Riley gave me a handjob at Lauren's party."
@@ -328,7 +328,7 @@ translate chinese strings:
 
     # game/phone/phone_tracker.rpy:162
     old "• I signed up for the Newspaper sqaud with Riley."
-    new "• 我和莱莉一起报名参加了报纸小组。"
+    new "• 我和莱莉一起报名参加了报纸小队。"
 
     # game/phone/phone_tracker.rpy:164
     old "• I went blowling with Penelope."
