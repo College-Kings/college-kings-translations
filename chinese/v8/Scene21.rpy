@@ -70,7 +70,7 @@ translate chinese walk_to_dean_0e0c7cfe:
 translate chinese walk_to_dean_de6dd52e:
 
     # u "Well ma'am, I am here on behalf of a friend who is in a bit of trouble."
-    u "嗯，女士，我是代表一个遇到麻烦的朋友来的。"
+    u "嗯，夫人，我是代表一个遇到麻烦的朋友来的。"
 
 # game/v8/Scene21.rpy:95
 translate chinese walk_to_dean_b30b9eb5:
@@ -82,7 +82,7 @@ translate chinese walk_to_dean_b30b9eb5:
 translate chinese walk_to_dean_fa11ffa5:
 
     # u "Oh, yes ma'am. Her name is Penelope. I'm sure you know who she is?"
-    u "哦，是的，女士。她叫佩内洛普。您肯定知道她是谁？"
+    u "噢，是的，夫人。她叫佩内洛普。您肯定知道她是谁？"
 
 # game/v8/Scene21.rpy:105
 translate chinese walk_to_dean_4b0800fb:
@@ -196,7 +196,7 @@ translate chinese walk_to_dean_220dbcb7:
 translate chinese walk_to_dean_3e3f19e2:
 
     # u "Thank you for your time ma'am."
-    u "谢谢您抽出时间，女士。"
+    u "谢谢您抽出时间，夫人。"
 
 # game/v8/Scene21.rpy:196
 translate chinese walk_to_dean_5871d0fc:

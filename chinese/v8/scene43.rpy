@@ -214,7 +214,7 @@ translate chinese for_w_gray_cont_3_db2c8883:
 translate chinese for_w_gray_cont_3_509a0ec8:
 
     # gr "We run this college. Hell, you're looking at the Fight King! Come on! We got it made!"
-    gr "我们称霸这所大学。该死，我可是格斗王！来吧!我们成功了！"
+    gr "我们称霸这所大学。该死，我可是格斗王！来吧！我们成功了！"
 
 # game/v8/scene43.rpy:244
 translate chinese for_w_gray_cont_3_e7dacb23:

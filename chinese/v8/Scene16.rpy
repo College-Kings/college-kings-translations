@@ -4,13 +4,13 @@
 translate chinese mc_wolves_sun_aft_e2049ac4:
 
     # u "(Guess I'll chill out for a bit.)"
-    u "(我想我会冷静一下。)"
+    u "(我想我要冷静一下。)"
 
 # game/v8/Scene16.rpy:68
 translate chinese mc_apes_sun_aft_e2049ac4:
 
     # u "(Guess I'll chill out for a bit.)"
-    u "(我想我会冷静一下。)"
+    u "(我想我要冷静一下。)"
 
 translate chinese strings:
 

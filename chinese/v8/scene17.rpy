@@ -124,7 +124,7 @@ translate chinese phn_penelope6_done_9a4b295e:
 translate chinese phn_penelope6_done_313cc6e6:
 
     # u "Are you alright, Ms. Rose?"
-    u "你没事吧，罗斯老师？"
+    u "你没事吧，罗斯女士？"
 
 # game/v8/scene17.rpy:120
 translate chinese phn_penelope6_done_0b46e452:

@@ -538,7 +538,7 @@ translate chinese phn_chloe11_done_16329908:
 translate chinese phn_chloe11_done_0149d8af:
 
     # ry "Oh man *laughs*"
-    ry "哦，伙计。 *笑*"
+    ry "噢，伙计。 *笑*"
 
 # game/v8/scene13.rpy:447
 translate chinese phn_chloe11_done_19fa6035:
@@ -634,7 +634,7 @@ translate chinese strings:
 
     # game/v8/scene13.rpy:43
     old "Just shut the fuck up and never come back"
-    new "你他妈地闭嘴，再也不回来了"
+    new "你他妈的闭嘴，再也不回来了"
 
     # game/v8/scene13.rpy:44
     old "That is unless you want me to kick your ass, then of course knock yourself out"

@@ -694,67 +694,67 @@ translate chinese after_drugs_d0fef6c9:
 translate chinese after_drugs_86a43a24:
 
     # am "*Whispers* Hey, wake up..."
-    am "*耳语* 嘿，醒醒……"
+    am "*低语* 嘿，醒醒……"
 
 # game/v8/scene29.rpy:591
 translate chinese after_drugs_663e1424:
 
     # am "*Whispers* [name], sleepyhead, wake up..."
-    am "*耳语* [name]，昏昏欲睡的，醒醒……"
+    am "*低语* [name]，昏昏欲睡的，醒醒……"
 
 # game/v8/scene29.rpy:603
 translate chinese after_drugs_0ab4d305:
 
     # u "*Whispers* Amber? What's wrong?"
-    u "*耳语* 琥珀？怎么了？"
+    u "*低语* 琥珀？怎么了？"
 
 # game/v8/scene29.rpy:607
 translate chinese after_drugs_8f76f340:
 
     # am "*Whispers* Nothing's wrong. Wanna sneak into another room?"
-    am "*耳语* 没事。想溜进另一个房间吗？"
+    am "*低语* 没事。想溜进另一个房间吗？"
 
 # game/v8/scene29.rpy:611
 translate chinese after_drugs_fe7a04d3:
 
     # u "*Whispers* For what?"
-    u "*耳语* 为了什么？"
+    u "*低语* 为了什么？"
 
 # game/v8/scene29.rpy:615
 translate chinese after_drugs_22fb5612:
 
     # am "*Whispers* What do you think, genius?"
-    am "*耳语* 你觉得呢，天才？"
+    am "*低语* 你觉得呢，天才？"
 
 # game/v8/scene29.rpy:629
 translate chinese after_drugs_d743a951:
 
     # u "*Whispers* Fuck yes! Let's go!"
-    u "*耳语* 操，是的！我们走吧！"
+    u "*低语* 操，是的！我们走吧！"
 
 # game/v8/scene29.rpy:638
 translate chinese after_drugs_7b66b057:
 
     # u "*Whispers* Sorry Amber, I'm not feeling it tonight."
-    u "*耳语* 对不起，琥珀，我今晚感觉不好。"
+    u "*低语* 对不起，琥珀，我今晚感觉不好。"
 
 # game/v8/scene29.rpy:642
 translate chinese after_drugs_4ede3d75:
 
     # am "*Whispers* Oh, okay. Sorry I woke you up at midnight."
-    am "*耳语* 噢，好的。很抱歉半夜把你吵醒了。"
+    am "*低语* 噢，好的。很抱歉半夜把你吵醒了。"
 
 # game/v8/scene29.rpy:646
 translate chinese after_drugs_794889c2:
 
     # u "*Whispers* Goodnight."
-    u "*耳语* 晚安。"
+    u "*低语* 晚安。"
 
 # game/v8/scene29.rpy:650
 translate chinese after_drugs_e4c17669:
 
     # am "*Whispers* Y-yeah, goodnight."
-    am "*耳语* 好-好吧，晚安。"
+    am "*低语* 好-好吧，晚安。"
 
 # game/v8/scene29.rpy:665
 translate chinese tues_morning_at_joshs_9f69d0e9:
@@ -850,7 +850,7 @@ translate chinese tues_morning_at_joshs_6bbc656a:
 translate chinese tues_morning_at_joshs_98aa6a21:
 
     # am "You make the eggs, I'll get the bacon?"
-    am "你做鸡蛋，我去拿培根？"
+    am "你煎鸡蛋，我去拿培根？"
 
 # game/v8/scene29.rpy:726
 translate chinese tues_morning_at_joshs_eb2a7834:

@@ -1042,7 +1042,7 @@ translate chinese em_arcade_4_beeb390c:
 translate chinese em_arcade_4_b009debc:
 
     # em "Oh! Go over by those people and pick your nose where everyone can see you."
-    em "哦！走到那些人身边，在大家都能看见的地方挖鼻孔。"
+    em "噢！走到那些人身边，在大家都能看见的地方挖鼻孔。"
 
 # game/v8/scene20.rpy:1045
 translate chinese em_arcade_4_604ee734:
@@ -1144,7 +1144,7 @@ translate chinese em_arcade_4_380acf5b:
 translate chinese em_arcade_4_f1c99fac:
 
     # em "Wow."
-    em "哇哦。"
+    em "哇噢。"
 
 # game/v8/scene20.rpy:1112
 translate chinese em_arcade_4_65116731:

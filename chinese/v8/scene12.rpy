@@ -34,7 +34,7 @@ translate chinese apes_join_ceremony_f11ecf3f:
 translate chinese apes_join_ceremony_0040138f:
 
     # u "(I hope I run into Amber tonight. Last night was fun. A bit weird but fun nonetheless.)"
-    u "(我希望今晚能碰到安珀。昨晚很有趣。有点奇怪，但还是很有趣。)"
+    u "(我希望今晚能碰到琥珀。昨晚很有趣。有点奇怪，但还是很有趣。)"
 
 # game/v8/scene12.rpy:33
 translate chinese apes_join_ceremony_31df0aba:

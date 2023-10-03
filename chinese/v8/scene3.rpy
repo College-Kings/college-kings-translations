@@ -88,7 +88,7 @@ translate chinese v8s3_rileyCowgirl_eda8b360:
 translate chinese v8s3_rileyCowgirl_86747027:
 
     # u "(She's so wet, she slipped right through.)"
-    u "(她太湿了，她直接滑走了。)"
+    u "(她太湿了，她简直湿透了。)"
 
 # game/v8/scene3.rpy:138
 translate chinese v8s3_rileyCowgirl_172d2077:

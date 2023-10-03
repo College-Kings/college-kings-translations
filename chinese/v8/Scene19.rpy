@@ -52,7 +52,7 @@ translate chinese strings:
 
     # game/v8/Scene19.rpy:24
     old "Aw man you're driving me crazy"
-    new "哦，伙计，你快把我逼疯了"
+    new "噢，伙计，你快把我逼疯了"
 
     # game/v8/Scene19.rpy:25
     old "So do something about it"
@@ -64,7 +64,7 @@ translate chinese strings:
 
     # game/v8/Scene19.rpy:34
     old "Aw fuck"
-    new "啊操"
+    new "该死的"
 
     # game/v8/Scene19.rpy:35
     old "You like?"
@@ -96,7 +96,7 @@ translate chinese strings:
 
     # game/v8/Scene19.rpy:42
     old "Oh, God yes!"
-    new "哦，上帝是的！"
+    new "噢，上帝啊，不是吧！"
 
     # game/v8/Scene19.rpy:43
     old "NOW!"

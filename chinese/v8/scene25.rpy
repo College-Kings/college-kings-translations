@@ -74,7 +74,7 @@ translate chinese strings:
 
     # game/v8/scene25.rpy:45
     old "Just down the road from the gym on the right hand side of the road"
-    new "就在健身房右边"
+    new "就在健身房路口的右边"
 
     # game/v8/scene25.rpy:46
     old "Cool will meet you both there"
