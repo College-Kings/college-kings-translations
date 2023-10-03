@@ -304,7 +304,7 @@ translate chinese v14s09_4507cfee:
 translate chinese v14s09_c3801be1:
 
     # u "(Oh and Riley's...)"
-    u "(哦，还有莱莉的……)"
+    u "(噢，还有莱莉的……)"
 
 # game/v14/scene9.rpy:293
 translate chinese v14s09_9526d088:
@@ -592,7 +592,7 @@ translate chinese v14s09_bcef1fa5:
 translate chinese v14s09_0c7161fb:
 
     # imre "Hey! Oh, here."
-    imre "嘿！哦，到。"
+    imre "嘿！噢，到。"
 
 # game/v14/scene9.rpy:490
 translate chinese v14s09_f65e4055:
@@ -652,7 +652,7 @@ translate chinese v14s09_e7b74040:
 translate chinese v14s09_0b9c85b9:
 
     # am "Oh, she-"
-    am "哦，她-"
+    am "噢，她-"
 
 # game/v14/scene9.rpy:536
 translate chinese v14s09_b85b15c6:
@@ -748,7 +748,7 @@ translate chinese v14s09_03168cd6:
 translate chinese v14s09_97d2afe9:
 
     # pe "Oh... *Chuckles* Right, sorry!"
-    pe "哦…… *咯咯笑* 好吧，抱歉！"
+    pe "噢…… *咯咯笑* 好吧，抱歉！"
 
 # game/v14/scene9.rpy:604
 translate chinese v14s09_aa3d9c95:

@@ -22,7 +22,7 @@ translate chinese v9_start_apes_7fc469a7:
 translate chinese v9_start_apes_78f9c099:
 
     # ca "To me, you're a pledge 'til you prove yourself...{w} PLEDGE."
-    ca "对我来说，你是新人，直到你证明自己……{w} 新人。"
+    ca "对我来说，你就是新人，直到你证明自己……{w} 新人。"
 
 # game/v9/scene02.rpy:49
 translate chinese v9_start_apes_82f16e9d:
@@ -58,13 +58,13 @@ translate chinese v9_start_apes_c1434064:
 translate chinese v9_start_apes_c00e3b00:
 
     # u "Something's going on. I just don't know what."
-    u "出了点事。我只是不知道是什么。"
+    u "出了点事儿。我只是不知道是什么。"
 
 # game/v9/scene02.rpy:74
 translate chinese v9_start_apes_2deb3af4:
 
     # u "(Cam's just a dick. Not worth it.)"
-    u "(卡梅隆只是个混蛋。不值得。)"
+    u "(卡梅隆就是个混蛋。不值得。)"
 
 # game/v9/scene02.rpy:75
 translate chinese v9_start_apes_d0e0230b:
@@ -76,7 +76,7 @@ translate chinese v9_start_apes_d0e0230b:
 translate chinese v9_start_apes_89dea450:
 
     # ca "Of course I do. I'm an Ape!"
-    ca "我当然知道。我是只猿！"
+    ca "我当然知道。我是只猿人！"
 
 # game/v9/scene02.rpy:83
 translate chinese v9_start_apes_30ba7630:
@@ -130,7 +130,7 @@ translate chinese v9_start_apes_94e4c324:
 translate chinese v9_start_apes_575489d5:
 
     # ca "Hey! If you ever get a girl in that room of yours, pledge... let her call you whatever she wants."
-    ca "嘿!如果你的房间里有个女孩，新人……让她随便叫你什么。"
+    ca "嘿！如果你的房间里有个女孩，新人……让她随便叫你什么。"
 
 # game/v9/scene02.rpy:125
 translate chinese v9_start_apes_5894e6c5:
@@ -154,13 +154,13 @@ translate chinese v9_start_apes_0bb7db1f:
 translate chinese v9_start_apes_0d74e70c:
 
     # ca "Oh shut the fuck up."
-    ca "哦，你他妈的闭嘴。"
+    ca "噢，你他妈地闭嘴。"
 
 # game/v9/scene02.rpy:141
 translate chinese v9_start_apes_b7218951:
 
     # ca "That's for the Freshman Brawl! It's gonna be epic!"
-    ca "那是为了新生比赛！会是史诗般的！"
+    ca "那是为了新生争霸赛！会是史诗般的！"
 
 # game/v9/scene02.rpy:146
 translate chinese v9_start_apes_6848aa41:
@@ -172,13 +172,13 @@ translate chinese v9_start_apes_6848aa41:
 translate chinese v9_start_apes_9d50a3d7:
 
     # ca "The Freshman Brawl! It's gonna be epic!"
-    ca "新生比赛！会是史诗般的！"
+    ca "新生争霸赛！会是史诗般的！"
 
 # game/v9/scene02.rpy:155
 translate chinese v9_start_apes_4784812c:
 
     # ca "Better beef up or you won't stand a chance."
-    ca "最好加把劲，否则你就没有机会了。"
+    ca "最好加把劲儿，否则你就没有机会了。"
 
 # game/v9/scene02.rpy:159
 translate chinese v9_start_apes_8fc2cb21:
@@ -190,7 +190,7 @@ translate chinese v9_start_apes_8fc2cb21:
 translate chinese v9_start_apes_59935874:
 
     # ca "Not just a fight. A brawl! No holds barred. Every pledge for himself. Bloodbath!"
-    ca "不仅仅是打架。一场比赛！没有限制的。每一个成员都是为了他自己。大屠杀！"
+    ca "不仅仅是格斗。一场比赛！没有限制的。每一个成员都是为了他自己。刺刀见红！"
 
 # game/v9/scene02.rpy:172
 translate chinese v9_start_apes_b62174a2:
@@ -202,7 +202,7 @@ translate chinese v9_start_apes_b62174a2:
 translate chinese v9_start_apes_4dfaff91:
 
     # ca "Yeah, and I expect you to wipe the floor with those pussy Wolves."
-    ca "是的，我希望你把那些娘们狼摁在地板上摩擦。"
+    ca "是的，我希望你把那些娘炮狼人摁在地板上摩擦。"
 
 # game/v9/scene02.rpy:180
 translate chinese v9_start_apes_2b4feb02:
@@ -232,19 +232,19 @@ translate chinese v9_start_apes_153a0958:
 translate chinese v9_start_apes_b646e493:
 
     # u "(Bloodbath? I don't like the sound of that.)"
-    u "(大屠杀？我不喜欢那种声音。)"
+    u "(刺刀见红？我不喜欢那种场面。)"
 
 # game/v9/scene02.rpy:208
 translate chinese v9_start_apes_7c299611:
 
     # u "Freshman Brawl? Sounds dangerous."
-    u "新生大乱斗？听起来很危险。"
+    u "新生争霸赛？听起来很危险。"
 
 # game/v9/scene02.rpy:212
 translate chinese v9_start_apes_86aaa3ee:
 
     # ca "I know, right?"
-    ca "我知道，对吧？"
+    ca "我就知道，对吧？"
 
 # game/v9/scene02.rpy:216
 translate chinese v9_start_apes_7d3c7542:
@@ -268,7 +268,7 @@ translate chinese v9_start_apes_5e0232ed:
 translate chinese v9_start_apes_79eb385d:
 
     # u "(Saturday? Oh, shit!)"
-    u "(星期六？哦，妈的！)"
+    u "(星期六？噢，妈的！)"
 
 # game/v9/scene02.rpy:241
 translate chinese v9_start_apes_802268d8:
@@ -286,7 +286,7 @@ translate chinese v9_phn_ryan1_a539245b:
 translate chinese v9_phn_ryan1_cfe1d3a5:
 
     # u "(Freshman Brawl... sounds intense.)"
-    u "(新生比赛……听起来很激烈。)"
+    u "(新生争霸赛……听起来很激烈。)"
 
 # game/v9/scene02.rpy:264
 translate chinese v9_phn_ryan1_2c4978a8:
@@ -320,7 +320,7 @@ translate chinese strings:
 
     # game/v9/scene02.rpy:37
     old "Let it slide"
-    new "随它去"
+    new "顺其自然"
 
     # game/v9/scene02.rpy:121
     old "Defend your honor"

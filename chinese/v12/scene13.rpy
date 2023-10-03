@@ -142,7 +142,7 @@ translate chinese v12_cafe_a6ab6370:
 translate chinese v12_cafe_24b56615:
 
     # ri "Oh, I was about to say I'm hungry too, so where are we going?"
-    ri "哦，我正要说我也饿了，那我们去哪儿呢？"
+    ri "噢，我正要说我也饿了，那我们去哪儿呢？"
 
 # game/v12/scene13.rpy:190
 translate chinese v12_cafe_096e7e65:

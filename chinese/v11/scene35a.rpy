@@ -196,7 +196,7 @@ translate chinese v11_chloe_hotel_room_amber_call_a204fa32:
 translate chinese v11_chloe_hotel_room_amber_call_e23f4729:
 
     # cl "Oh husband... will you really?"
-    cl "哦，老公……你真的愿意吗？"
+    cl "噢，老公……你真的愿意吗？"
 
 # game/v11/scene35a.rpy:202
 translate chinese v11_chloe_hotel_room_amber_call_b8939790:

@@ -82,7 +82,7 @@ translate chinese v10_linds_room_b5c82a08:
 translate chinese v10_linds_room_807bca7e:
 
     # li "Oh... I'm sorry you had to go through that."
-    li "哦……我很抱歉你经历了这一切。"
+    li "噢……我很抱歉你经历了这一切。"
 
 # game/v10/scene11.rpy:79
 translate chinese v10_linds_room_dd152863:
@@ -148,7 +148,7 @@ translate chinese v10_linds_room_fa7bb0f8:
 translate chinese v10_linds_room_09bbcb1e:
 
     # u "Oh my God, no I hadn't heard. I'm so sorry for your loss."
-    u "哦，天哪，不，我没听说。对你失去亲人我深表遗憾。"
+    u "噢，天呐，不，我没听说。对你失去亲人我深表遗憾。"
 
 # game/v10/scene11.rpy:130
 translate chinese v10_linds_room_399d9bd8:
@@ -202,7 +202,7 @@ translate chinese v10_linds_room_900fa81f:
 translate chinese v10_linds_room_0a4726cd:
 
     # u "Wow... that's a really beautiful thought."
-    u "哇哦……这真是个美好的想法。"
+    u "哇噢……这真是个美好的想法。"
 
 # game/v10/scene11.rpy:166
 translate chinese v10_linds_room_2261a0dd:
@@ -292,7 +292,7 @@ translate chinese v10_linds_room_dbc27e42:
 translate chinese v10_linds_room_417da3b3:
 
     # u "Haha, just teasing you."
-    u "哈哈，逗你玩呢。"
+    u "哈哈，逗你玩儿呢。"
 
 # game/v10/scene11.rpy:240
 translate chinese v10_linds_room_58e80ad6:
@@ -352,7 +352,7 @@ translate chinese v10_linds_room_a18f046f:
 translate chinese v10_linds_room_4d708136:
 
     # u "Oh, it was just- it was just a joke..."
-    u "哦，这只是-这只是个玩笑……"
+    u "噢，这只是-这只是个玩笑……"
 
 # game/v10/scene11.rpy:296
 translate chinese v10_linds_room_5ec1709e:
@@ -364,7 +364,7 @@ translate chinese v10_linds_room_5ec1709e:
 translate chinese v10_linds_room_d5c530f3:
 
     # u "Oh uhm my bad, thought I'd try lightening the mood."
-    u "哦，嗯，是我的错，我想我应该试着放松一下心情。"
+    u "噢，嗯，是我的错，我想我应该试着放松一下心情。"
 
 # game/v10/scene11.rpy:306
 translate chinese v10_linds_room_26a3786c:
@@ -466,7 +466,7 @@ translate chinese v10_linds_room_d0e5b246:
 translate chinese v10_linds_room_5736afbc:
 
     # u "Oh, don't worry about it. You're going through stuff, I completely understand."
-    u "哦，别担心。你在经历一些事情，我完全理解。"
+    u "噢，别担心。你在经历一些事情，我完全理解。"
 
 # game/v10/scene11.rpy:410
 translate chinese v10_linds_room_0d0f2f63:

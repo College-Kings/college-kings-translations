@@ -22,7 +22,7 @@ translate chinese v11s23_chris1_eed87296:
 translate chinese v11s23_chris1_0537ad1e:
 
     # u "Right, sorry... Is Sebastian still trying to prank the Apes?"
-    u "好吧，打扰了……塞巴斯蒂安还在试图捉弄猿队吗？"
+    u "好吧，打扰了……塞巴斯蒂安还在试图捉弄猿人吗？"
 
 # game/v11/scene23.rpy:42
 translate chinese v11s23_chris1_91ed7eb1:
@@ -136,13 +136,13 @@ translate chinese v11s23_mrlee1_39d82de1:
 translate chinese v11s23_mrlee1_6f9ccfd5:
 
     # u "You said you went on an abroad trip to China, but you never told me you've been to London."
-    u "你说你出国旅行去了中国，但你从没告诉我你去过伦敦。"
+    u "您说您出国旅行去了中国，但你从没告诉我你去过伦敦。"
 
 # game/v11/scene23.rpy:148
 translate chinese v11s23_mrlee1_b8dd171f:
 
     # lee "Oh, I've lived in many places. I actually toured this museum many years ago."
-    lee "哦，我在很多地方住过。事实上，我很多年前就参观过这个博物馆。"
+    lee "噢，我在很多地方住过。事实上，我很多年前就参观过这个博物馆。"
 
 # game/v11/scene23.rpy:153
 translate chinese v11s23_mrlee1_993418e8:
@@ -232,13 +232,13 @@ translate chinese v11s23_mrlee1_3be269ff:
 translate chinese v11s23_mrlee1_81dc0a8d:
 
     # u "Is the woman you're talking about your wife now?"
-    u "你说的那个女人是你现在妻子吗？"
+    u "您说的那个女人是您现在妻子吗？"
 
 # game/v11/scene23.rpy:220
 translate chinese v11s23_mrlee1_16a75a17:
 
     # lee "Oh never... We had our time, but she ruined it. I decided to continue attending school in London despite her wanting me to quit."
-    lee "哦不……我们有过美好时光，但被她毁了。尽管她想让我退学，但我还是决定继续在伦敦上学。"
+    lee "噢，不……我们有过美好时光，但被她毁了。尽管她想让我退学，但我还是决定继续在伦敦上学。"
 
 # game/v11/scene23.rpy:221
 translate chinese v11s23_mrlee1_878fee7f:
@@ -250,7 +250,7 @@ translate chinese v11s23_mrlee1_878fee7f:
 translate chinese v11s23_mrlee1_71c1fafb:
 
     # u "Sounds like you missed her."
-    u "听起来你很想她。"
+    u "听起来您很想她。"
 
 # game/v11/scene23.rpy:231
 translate chinese v11s23_mrlee1_d8ec0c40:
@@ -304,7 +304,7 @@ translate chinese v11s23_mrlee1_68eaf78b:
 translate chinese v11s23_mrlee1_e129e2a7:
 
     # u "Maybe you should just stop coming to see it."
-    u "也许你不应该再来看了。"
+    u "也许您不应该再来看了。"
 
 # game/v11/scene23.rpy:277
 translate chinese v11s23_mrlee1_9bac7e8d:
@@ -316,7 +316,7 @@ translate chinese v11s23_mrlee1_9bac7e8d:
 translate chinese v11s23_mrlee1_2b836054:
 
     # u "Oh... wow."
-    u "哦……哇。"
+    u "噢……哇。"
 
 # game/v11/scene23.rpy:287
 translate chinese v11s23_mrlee1_1f401c61:
@@ -346,7 +346,7 @@ translate chinese v11s23_riley1_48a7a3a8:
 translate chinese v11s23_riley1_5c06c9d7:
 
     # ri "Oh hush, no one's looking."
-    ri "哦，嘘，没人在看。"
+    ri "噢，嘘，没人在看。"
 
 # game/v11/scene23.rpy:318
 translate chinese v11s23_riley1_9f0c475d:
@@ -616,7 +616,7 @@ translate chinese v11s23_riley1_e9a6ccaf:
 translate chinese v11s23_riley1_a2abc146:
 
     # u "Oh, you don't like having fun?"
-    u "哦，你不是喜欢找乐子吗？"
+    u "噢，你不是喜欢找乐子吗？"
 
 # game/v11/scene23.rpy:569
 translate chinese v11s23_riley1_100aa630:
@@ -628,7 +628,7 @@ translate chinese v11s23_riley1_100aa630:
 translate chinese v11s23_riley1_a292a410:
 
     # u "Oh I am! *Chuckles*"
-    u "哦，我是！*咯咯笑*"
+    u "噢，我是！*咯咯笑*"
 
 # game/v11/scene23.rpy:579
 translate chinese v11s23_riley1_4401ed4d:
@@ -1012,7 +1012,7 @@ translate chinese v11s23_penelope1_90b9a7d6:
 translate chinese v11s23_penelope1_5a48d961:
 
     # pe "Oh wow, I'm so sorry about that."
-    pe "哦，哇，我真的很抱歉。"
+    pe "噢，哇，我真的很抱歉。"
 
 # game/v11/scene23.rpy:944
 translate chinese v11s23_penelope1_c40855fd:
@@ -1084,7 +1084,7 @@ translate chinese v11s23_penelope1_9122968a:
 translate chinese v11s23_penelope1_8aee64e6:
 
     # u "Oh okay, sure. I thought you found out about my stripper abilities."
-    u "哦，好的，当然。我以为你发现了我的脱衣舞男能力。"
+    u "噢，好的，当然。我以为你发现了我的脱衣舞男能力。"
 
 # game/v11/scene23.rpy:1005
 translate chinese v11s23_penelope1_a306849b:
@@ -1102,7 +1102,7 @@ translate chinese v11s23_penelope1_fdb64fd9:
 translate chinese v11s23_penelope1_fd7704e4:
 
     # pe "Oh shoot, I literally forgot, haha."
-    pe "哦，糟了，我真的忘了，哈哈。"
+    pe "噢，糟了，我真的忘了，哈哈。"
 
 # game/v11/scene23.rpy:1020
 translate chinese v11s23_penelope1_58b66ebf:

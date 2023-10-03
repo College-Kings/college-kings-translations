@@ -40,13 +40,13 @@ translate chinese v10s33_autumn1_65103820:
 translate chinese v10s33_autumn1_9772c9e0:
 
     # u "Since everything is running smoothly, do you at least get to relax now?"
-    u "既然一切都很顺利，你现在至少可以放松一下了吗？"
+    u "既然一切都很顺利，你现在至少可以放松一下了吧？"
 
 # game/v10/scene33.rpy:59
 translate chinese v10s33_autumn1_b16f766f:
 
     # aut "Not if I want to keep it that way. Best if I just push through and relax when it's all over."
-    aut "如果我想保持这种状态就不会。最好是我能坚持下去，等一切都结束后放松一下。"
+    aut "如果我想保持这种状态就不能。最好是我能坚持下去，等一切都结束后再放松一下。"
 
 # game/v10/scene33.rpy:64
 translate chinese v10s33_autumn1_7a38161b:
@@ -142,7 +142,7 @@ translate chinese v10s33_autumn1_e912fcea:
 translate chinese v10s33_autumn1_4c236f88:
 
     # aut "Is that so? A lot of guys told me they were really excited once they had heard about the mud wrestling."
-    aut "是真地吗？很多人告诉我，当他们听说泥浆摔跤时，他们真的很兴奋。"
+    aut "是真的吗？很多人告诉我，当他们听说泥浆摔跤时，他们真的很兴奋。"
 
 # game/v10/scene33.rpy:150
 translate chinese v10s33_autumn1_6cf7436f:
@@ -250,7 +250,7 @@ translate chinese v10s33_deergirl11_105c3093:
 translate chinese v10s33_deergirl11_2524c01b:
 
     # guyd "Only took me a thousand tries."
-    guyd "我只试了一千次。"
+    guyd "我试了一千次了。"
 
 # game/v10/scene33.rpy:254
 translate chinese v10s33_deergirl11_7b0e1116:
@@ -280,7 +280,7 @@ translate chinese v10s33_deergirl11_a788126e:
 translate chinese v10s33_deergirl11_64e1e0bc:
 
     # guyd "If you were scrolling on your phone late at night and kept seeing a bunch of short videos type dances."
-    guyd "如果你深夜刷手机，一直看到一堆短视频类型的舞蹈。"
+    guyd "如果你深夜刷手机，就会看到一堆短视频类型的舞蹈。"
 
 # game/v10/scene33.rpy:279
 translate chinese v10s33_deergirl11_ebb0356f:
@@ -556,7 +556,7 @@ translate chinese v10s33_aubrey1_7586d4f1:
 translate chinese v10s33_aubrey1_297fff8d:
 
     # au "Matter of fact, I'll make it even easier for you. I'll say a girl's name and you say if she's hot or not. No reason you can't be honest."
-    au "事实上，我会让你更容易的。我说一个女孩的名字，你说她是否火辣。你没理由不诚实。"
+    au "事实上，我会让你更容易的。我说一个女孩的名字，你说她是否性感。你没理由不诚实。"
 
 # game/v10/scene33.rpy:646
 translate chinese v10s33_aubrey1_ecfde935:
@@ -574,7 +574,7 @@ translate chinese v10s33_aubrey1_63be3a52:
 translate chinese v10s33_aubrey1_e91f3b1f:
 
     # u "hot."
-    u "火辣。"
+    u "性感。"
 
 # game/v10/scene33.rpy:664
 translate chinese v10s33_aubrey1_98036b72:
@@ -604,7 +604,7 @@ translate chinese v10s33_aubrey1_de45ef26:
 translate chinese v10s33_aubrey1_e91f3b1f_1:
 
     # u "hot."
-    u "火辣。"
+    u "性感。"
 
 # game/v10/scene33.rpy:692
 translate chinese v10s33_aubrey1_84fe5278:
@@ -634,13 +634,13 @@ translate chinese v10s33_aubrey1_24a2ecb0:
 translate chinese v10s33_aubrey1_e91f3b1f_2:
 
     # u "hot."
-    u "火辣。"
+    u "性感。"
 
 # game/v10/scene33.rpy:719
 translate chinese v10s33_aubrey1_36c73441:
 
     # au "Cute, but I don't know about hot."
-    au "很可爱，但我不知道她是不是火辣。"
+    au "很可爱，但我不知道她是不是性感。"
 
 # game/v10/scene33.rpy:723
 translate chinese v10s33_aubrey1_3a31f429_2:
@@ -676,7 +676,7 @@ translate chinese v10s33_aubrey1_c3a7ca6d:
 translate chinese v10s33_aubrey1_7ab71bda:
 
     # u "Hot, obviously."
-    u "火辣，很明显。"
+    u "性感，很明显。"
 
 # game/v10/scene33.rpy:757
 translate chinese v10s33_aubrey1_7c39d4a3:
@@ -688,13 +688,13 @@ translate chinese v10s33_aubrey1_7c39d4a3:
 translate chinese v10s33_aubrey1_e91f3b1f_3:
 
     # u "Hot."
-    u "火辣。"
+       u "性感。"
 
 # game/v10/scene33.rpy:765
 translate chinese v10s33_aubrey1_8c2b5920:
 
     # au "Her little innocent attitude is pretty hot."
-    au "她那天真无邪的小态度相当火辣。"
+    au "她那天真无邪的小态度相当性感。"
 
 # game/v10/scene33.rpy:769
 translate chinese v10s33_aubrey1_3a31f429_3:
@@ -724,7 +724,7 @@ translate chinese v10s33_aubrey1_057d6a1c:
 translate chinese v10s33_aubrey1_e91f3b1f_4:
 
     # u "hot."
-    u "火辣。"
+    u "性感。"
 
 # game/v10/scene33.rpy:798
 translate chinese v10s33_aubrey1_0838e6e2:
@@ -748,7 +748,7 @@ translate chinese v10s33_aubrey1_3a31f429_4:
 translate chinese v10s33_aubrey1_cab6e411:
 
     # au "I don't think you know what the word \"hot\" means."
-    au "我想你不知道这个\"火辣\"意味着什么。"
+    au "我想你不知道这个\"性感\"意味着什么。"
 
 # game/v10/scene33.rpy:812
 translate chinese v10s33_aubrey1_450cdbe3:
@@ -784,7 +784,7 @@ translate chinese v10s33_aubrey1_88fe2542:
 translate chinese v10s33_aubrey1_e91f3b1f_5:
 
     # u "hot."
-    u "火辣。"
+    u "性感。"
 
 # game/v10/scene33.rpy:844
 translate chinese v10s33_aubrey1_36fcc5fc:
@@ -904,19 +904,19 @@ translate chinese v10s33_chloe2_5bdb2809:
 translate chinese v10s33_chloe2_21a98069:
 
     # u "Hey Chloe."
-    u "你好，克洛伊。"
+    u "嘿，克洛伊。"
 
 # game/v10/scene33.rpy:955
 translate chinese v10s33_chloe2_debd5884:
 
     # cl "Hey."
-    cl "你好。"
+    cl "嘿。"
 
 # game/v10/scene33.rpy:960
 translate chinese v10s33_chloe2_385c18d3:
 
     # u "There may be a lot of people here, but you're pretty easy to spot in a crowd, you know?"
-    u "尽管百花齐放春满园，但你是那万绿丛中一点红，你知道吗？"
+    u "尽管百花齐放春满园，但你却是那万绿丛中一点红，你知道吗？"
 
 # game/v10/scene33.rpy:965
 translate chinese v10s33_chloe2_6feade1e:
@@ -928,19 +928,19 @@ translate chinese v10s33_chloe2_6feade1e:
 translate chinese v10s33_chloe2_23bb0aa4:
 
     # u "It's a compliment. Just don't think about it for too long, cause I kinda see now that there's other ways to interpret it. *Laughs*"
-    u "这是肺腑之言。别想太多，因为我现在有点明白了，还有其他的解释方法。 *笑*"
+    u "这是肺腑之言。别想太多，因为我现在有点儿明白了，还有其他的解释方法。 *笑*"
 
 # game/v10/scene33.rpy:975
 translate chinese v10s33_chloe2_57669806:
 
     # cl "Thanks. You are right though, there are a lot of people here. Way more than The Deers pulled in last year."
-    cl "谢谢。不过你说得对，这里有很多人。比鹿队去年吸引的要多得多。"
+    cl "谢谢。不过你说得对，这里有很多人。比鹿会去年吸引的要多得多。"
 
 # game/v10/scene33.rpy:977
 translate chinese v10s33_chloe2_485381dc:
 
     # cl "Us Chicks are going to have to step up our game if we're gonna be able to compete with this. Autumn deserves a round of applause."
-    cl "如果我们想要与之竞争的话，我们小鸡会就必须加快我们的比赛。秋理应得到热烈的掌声。"
+    cl "如果我们想要与之竞争的话，我们小鸡会就必须加快我们的节奏。秋理应得到热烈的掌声。"
 
 # game/v10/scene33.rpy:982
 translate chinese v10s33_chloe2_5d8d6afb:
@@ -1090,7 +1090,7 @@ translate chinese v10s33_chloe2_ab8a57d5:
 translate chinese v10s33_chloe2_7f428b8c:
 
     # u "She said a lot, but to sum up everything, she called you fake. Said you do a bunch of pretending for sympathy points from people."
-    u "她说了很多，但总而言之，她说你虚伪。他说你为了博得别人的同情经常假装可怜。"
+    u "她说了很多，但总而言之，就是说你虚伪。她说你为了博得别人的同情经常装可怜。"
 
 # game/v10/scene33.rpy:1113
 translate chinese v10s33_chloe2_8e20fa41:
@@ -1102,7 +1102,7 @@ translate chinese v10s33_chloe2_8e20fa41:
 translate chinese v10s33_chloe2_d197b0c2:
 
     # cl "NORA WHAT'S THE DEAL?"
-    cl "诺拉，怎么回事？"
+    cl "诺拉，你他妈怎么回事儿？"
 
 # game/v10/scene33.rpy:1123
 translate chinese v10s33_chloe2_b5669c67:
@@ -1114,43 +1114,43 @@ translate chinese v10s33_chloe2_b5669c67:
 translate chinese v10s33_chloe2_b775b399:
 
     # cl "Don't act clueless, I heard what you said about me to [name]."
-    cl "别装傻了，我听到你对[name]说我的坏话了。"
+    cl "别装傻了，我听到你跟[name]说我的坏话了。"
 
 # game/v10/scene33.rpy:1134
 translate chinese v10s33_chloe2_84dde34f:
 
     # no "And? I didn't say anything that wasn't true. You're a manipulative person that does anything to get what she wants."
-    no "然后呢？我没有说任何假话。你是个操纵欲很强的人，为了得到你想要的东西不择手段。"
+    no "然后呢？我没有说任何假话。你是个操纵欲极强的人，为了得到你想要的东西而不择手段。"
 
 # game/v10/scene33.rpy:1139
 translate chinese v10s33_chloe2_f9903ef9:
 
     # cl "Oh stop! I don't know if you're jealous or what."
-    cl "哦，闭嘴！我不知道你是在嫉妒还是怎么的。"
+    cl "噢，闭嘴！我不知道你是在嫉妒还是怎么的。"
 
 # game/v10/scene33.rpy:1141
 translate chinese v10s33_chloe2_ec2cf505:
 
     # cl "You've had something against me from the second I became President and I'm honestly getting sick of it!"
-    cl "从我当上主席的那一刻起，你就一直对我怀恨在心，老实说，我对此感到恶心！"
+    cl "从我当上会长的那一刻起，你就一直对我怀恨在心，老实说，我对此感到恶心！"
 
 # game/v10/scene33.rpy:1143
 translate chinese v10s33_chloe2_4a519a34:
 
     # cl "Let's settle this right here right now, in the ring!"
-    cl "让我们现在就在这里解决这个问题，在擂台上！"
+    cl "现在让我们就在这里解决这个问题，在擂台上！"
 
 # game/v10/scene33.rpy:1148
 translate chinese v10s33_chloe2_862441b5:
 
     # no "OH YEAH, THEN GET IN THE RING ALREADY!"
-    no "哦，是啊，那就快点上擂台吧！"
+    no "噢，好吧，那就快点儿上擂台吧！"
 
 # game/v10/scene33.rpy:1156
 translate chinese v10s33_chloe2_e121bbb8:
 
     # u "(Let's not start anything.)"
-    u "(让我们不要开始任何事情。)"
+    u "(让我们不要搞事情。)"
 
 # game/v10/scene33.rpy:1157
 translate chinese v10s33_chloe2_36a53b46:
@@ -1186,7 +1186,7 @@ translate chinese v10s33_chloe2_fbc6319c:
 translate chinese v10s33_chloe2_4d2705e7:
 
     # cl "Okay, I'll think about it."
-    cl "好的，我会考虑的。"
+    cl "好吧，我会考虑的。"
 
 # game/v10/scene33.rpy:1198
 translate chinese v10s33_chloe2_6b5d0ae3:
@@ -4014,7 +4014,7 @@ translate chinese strings:
 
     # game/v10/scene33.rpy:656
     old "Hot"
-    new "火辣"
+    new "性感"
 
     # game/v10/scene33.rpy:656
     old "Not"
@@ -4054,7 +4054,7 @@ translate chinese strings:
 
     # game/v10/scene33.rpy:1265
     old "Play the game"
-    new "玩这个游戏吧"
+    new "玩这个游戏"
 
     # game/v10/scene33.rpy:1374
     old "Get a lottery ticket"
@@ -4130,7 +4130,7 @@ translate chinese strings:
 
     # game/v10/scene33.rpy:3320
     old "What do you mean?"
-    new "你是什么意思？"
+    new "什么意思？"
 
     # game/v10/scene33.rpy:3320
     old "Defend Chloe"

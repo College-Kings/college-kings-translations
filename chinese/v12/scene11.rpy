@@ -16,7 +16,7 @@ translate chinese v12_paris_hotel_1732a8f4:
 translate chinese v12_paris_hotel_6e304614:
 
     # imre "Ohhhh."
-    imre "哦哦。"
+    imre "噢噢。"
 
 # game/v12/scene11.rpy:32
 translate chinese v12_paris_hotel_6c60edc6:
@@ -130,7 +130,7 @@ translate chinese v12_paris_hotel_3e88dae9:
 translate chinese v12_paris_hotel_afbb0d9e:
 
     # u "I don't even fuck with Charli enough to say hi to him. What makes you think I'd bother to have a full on conversation with him about one of my friends?"
-    u "我他妈的都没跟查理打过招呼。你凭什么觉得我会费心地跟他聊我朋友的事？"
+    u "我他妈地都没跟查理打过招呼。你凭什么觉得我会费心地跟他聊我朋友的事？"
 
 # game/v12/scene11.rpy:143
 translate chinese v12_paris_hotel_abac9aa7:

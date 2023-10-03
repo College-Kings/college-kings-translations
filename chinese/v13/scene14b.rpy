@@ -34,13 +34,13 @@ translate chinese v13s14b_29fa186c:
 translate chinese v13s14b_ea34e808:
 
     # pe "Oh, no. I'm not a really big drinker."
-    pe "哦，不。我酒量不怎么好。"
+    pe "噢，不。我酒量不怎么好。"
 
 # game/v13/scene14b.rpy:51
 translate chinese v13s14b_02fa723f:
 
     # polly "Oh, c'mon... You can have one drink."
-    polly "哦，来吧……你可以喝一杯。."
+    polly "噢，来吧……你可以喝一杯。"
 
 # game/v13/scene14b.rpy:56
 translate chinese v13s14b_e3e9d036:
@@ -208,7 +208,7 @@ translate chinese v13s14b_fae62213:
 translate chinese v13s14b_b9592021:
 
     # u "Oh, god..."
-    u "哦，天呐……"
+    u "噢，天呐……"
 
 # game/v13/scene14b.rpy:209
 translate chinese v13s14b_1d4cd07d:
@@ -322,7 +322,7 @@ translate chinese v13s14b_a8fe1c80:
 translate chinese v13s14b_422e17f6:
 
     # u "(Oh, fuck.)"
-    u "(哦，该死的。)"
+    u "(噢，该死的。)"
 
 # game/v13/scene14b.rpy:343
 translate chinese v13s14b_24c55713:
@@ -334,7 +334,7 @@ translate chinese v13s14b_24c55713:
 translate chinese v13s14b_b7f01c2d:
 
     # polly "Oh, wow... Someone's off the rocker. *Chuckles*"
-    polly "哦，哇……有人走火入魔了。 *咯咯笑* "
+    polly "噢，哇……有人走火入魔了。 *咯咯笑* "
 
 # game/v13/scene14b.rpy:358
 translate chinese v13s14b_df9c2fc3:

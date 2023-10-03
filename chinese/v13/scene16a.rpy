@@ -34,7 +34,7 @@ translate chinese v13s16a_d341d6f6:
 translate chinese v13s16a_7ecd954e:
 
     # u "Ohhh, fuck..."
-    u "哦，天呐……"
+    u "噢，天呐……"
 
 # game/v13/scene16a.rpy:48
 translate chinese v13s16a_afc4833b:
@@ -94,7 +94,7 @@ translate chinese v13s16a_079a26d1:
 translate chinese v13s16a_59af7469:
 
     # ri "*Gasps* Oh, my f- [name]..."
-    ri " *气喘吁吁* 哦，我的天-[name]……"
+    ri " *气喘吁吁* 噢，我的天-[name]……"
 
 # game/v13/scene16a.rpy:92
 translate chinese v13s16a_480e5763:
@@ -154,7 +154,7 @@ translate chinese v13s16a_e1905016:
 translate chinese v13s16a_a93ad52c:
 
     # ri "Haaaaa... Oh my- *Gasps*"
-    ri "哈哈……哦，我的- *喘气* "
+    ri "哈哈……噢，我的- *喘气* "
 
 # game/v13/scene16a.rpy:148
 translate chinese v13s16a_40ccfc6a:
@@ -208,7 +208,7 @@ translate chinese v13s16a_ab001691:
 translate chinese v13s16a_f03fd7d8:
 
     # ri "Ooohh, [name]... I... You... *Moans*"
-    ri "哦，[name]……我……你…… *呻吟* "
+    ri "噢，[name]……我……你…… *呻吟* "
 
 # game/v13/scene16a.rpy:187
 translate chinese v13s16a_1b0cac54:
@@ -232,13 +232,13 @@ translate chinese v13s16a_f35df7f2:
 translate chinese v13s16a_500605b7:
 
     # ri "Mmm... Oh, FUCK! *Moans* [name]!"
-    ri "嗯……哦，操！ *呻吟* [name]！"
+    ri "嗯……噢，操！ *呻吟* [name]！"
 
 # game/v13/scene16a.rpy:204
 translate chinese v13s16a_9687eead:
 
     # u "*Moans* Oh... Yes, Riley... FUCK!"
-    u " *呻吟* 哦……操，莱莉……操！"
+    u " *呻吟* 噢……操，莱莉……操！"
 
 # game/v13/scene16a.rpy:217
 translate chinese v13s16a_618429c2:

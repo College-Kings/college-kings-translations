@@ -100,13 +100,13 @@ translate chinese v12_escape_room_03f47ed8:
 translate chinese v12_escape_room_2d3d1338:
 
     # imre "Oh, nice! Nice... Now I gotta ask though, how much is this gonna cost? Because I don't have much."
-    imre "哦，太棒了！棒极了……现在我要问一下，这要花多少钱？因为我没有多少钱。"
+    imre "噢，太棒了！棒极了……现在我要问一下，这要花多少钱？因为我没有多少钱。"
 
 # game/v12/scene17.rpy:98
 translate chinese v12_escape_room_716cd386:
 
     # li "Oh, don't worry, Mr. Lee paid for everything. He's actually the one that set this up."
-    li "哦，别担心，李先生付了所有的钱。实际上是他安排的这个活动。"
+    li "噢，别担心，李先生付了所有的钱。实际上是他安排的这个活动。"
 
 # game/v12/scene17.rpy:103
 translate chinese v12_escape_room_09facf3e:
@@ -160,7 +160,7 @@ translate chinese v12_escape_room_cf3a8cd5:
 translate chinese v12_escape_room_e9066d36:
 
     # li "Oh umm, our teacher set it up. We didn't know there was anything we needed to do."
-    li "哦，嗯，是我们老师安排的。我们不知道我们需要做什么。"
+    li "噢，嗯，是我们老师安排的。我们不知道我们需要做什么。"
 
 # game/v12/scene17.rpy:156
 translate chinese v12_escape_room_de616737:
@@ -262,7 +262,7 @@ translate chinese v12_escape_room_8bf4f1fc:
 translate chinese v12_escape_room_d61c4c2d:
 
     # li "Oooh! *Chuckles* Alrighty, do I just give you my number?"
-    li "哦！ *咯咯笑* 好吧，我要给你我的号码吗？"
+    li "噢！ *咯咯笑* 好吧，我要给你我的号码吗？"
 
 # game/v12/scene17.rpy:241
 translate chinese v12_escape_room_2de3d2cf:
@@ -274,7 +274,7 @@ translate chinese v12_escape_room_2de3d2cf:
 translate chinese v12_escape_room_0c19ce49:
 
     # li "Oh... Damn, okay. *Chuckles*"
-    li "哦……见鬼，好吧。 *咯咯笑* "
+    li "噢……见鬼，好吧。 *咯咯笑* "
 
 # game/v12/scene17.rpy:251
 translate chinese v12_escape_room_78d60edf:
@@ -424,7 +424,7 @@ translate chinese v12_escape_room_30c55572:
 translate chinese v12_escape_room_2ddb84e9:
 
     # li "Oh, wait! Something just came in... It says \"Oh wow, what a beautiful voice you have. Thanks for saying hi to me! Is there something you'd like my help with?\""
-    li "哦，等等！有消息刚进来……上面写着\"哦，哇，你的嗓音真好听。谢谢你向我问好！你有什么需要我帮忙的吗？\""
+    li "噢，等等！有消息刚进来……上面写着\"噢，哇，你的嗓音真好听。谢谢你向我问好！你有什么需要我帮忙的吗？\""
 
 # game/v12/scene17.rpy:397
 translate chinese v12_escape_room_c0a7c3bd:
@@ -616,13 +616,13 @@ translate chinese v12_escape_room_c7a407cf:
 translate chinese v12_escape_room_21ec4d29:
 
     # li "Oh, yeah."
-    li "哦，好吧。"
+    li "噢，好吧。"
 
 # game/v12/scene17.rpy:564
 translate chinese v12_escape_room_6e4d890e:
 
     # charli "Oh, wait! Another text... It says, \"you are not the leader, give the phone back, smart guy.\""
-    charli "哦，等等！又一条短信……上面写着，\"你不是领导，把手机还回去，聪明人。\""
+    charli "噢，等等！又一条短信……上面写着，\"你不是领导，把手机还回去，聪明人。\""
 
 # game/v12/scene17.rpy:569
 translate chinese v12_escape_room_93ff3184_1:
@@ -688,13 +688,13 @@ translate chinese v12_escape_room_2e2d689c:
 translate chinese v12_escape_room_7e640e5c:
 
     # u "Oh shit, the lights are fucking up."
-    u "哦，见鬼，灯都他妈的坏了。"
+    u "噢，见鬼，灯都他妈的坏了。"
 
 # game/v12/scene17.rpy:628
 translate chinese v12_escape_room_4ae5a3db:
 
     # li "Oh my god, [name]... It really is getting cold, no?"
-    li "哦，我的天呐，[name]……开始变冷了，不是吗？"
+    li "噢，我的天呐，[name]……开始变冷了，不是吗？"
 
 # game/v12/scene17.rpy:633
 translate chinese v12_escape_room_0268b0f9:
@@ -1024,7 +1024,7 @@ translate chinese v12_lindsey_sex_fcc90ae3:
 translate chinese v12s17_lindsey_handjob_59c7b043:
 
     # u "Oh, fuck Lindsey. You're so soft..."
-    u "哦，他妈的林赛。你太软了……"
+    u "噢，他妈的林赛。你太软了……"
 
 # game/v12/scene17.rpy:1055
 translate chinese v12s17_lindsey_handjob_3f1f13fe:

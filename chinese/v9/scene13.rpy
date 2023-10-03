@@ -16,7 +16,7 @@ translate chinese thurs_aft_room_6f14c6a2:
 translate chinese thurs_aft_room_02d0c7b4:
 
     # u "(Shouldn't have taken my eyes off that fucker. Catching me off guard like that. But at least I got Lindsey's number, so it wasn't all bad.)"
-    u "(我不该把视线从那混蛋身上移开。让我措手不及。但至少我拿到了琳赛的电话，也不算太糟。)"
+    u "(我不该把视线从那混蛋身上移开。让我措手不及。但至少我拿到了林赛的电话，也不算太糟。)"
 
 # game/v9/scene13.rpy:25
 translate chinese thurs_aft_room_0af68560:
@@ -46,7 +46,7 @@ translate chinese thurs_aft_room_4bd2f8af:
 translate chinese thurs_aft_room_b92814ec:
 
     # u "(Well, fuck.)"
-    u "(好吧，操。)"
+    u "(好吧，该死的。)"
 
 # game/v9/scene13.rpy:53
 translate chinese thurs_aft_room_f5486e2e_1:
@@ -94,5 +94,5 @@ translate chinese thurs_aft_room_4bd2f8af_1:
 translate chinese thurs_aft_room_b92814ec_1:
 
     # u "(Well, fuck.)"
-    u "(好吧，操。）"
+    u "(好吧，该死的。）"
 

@@ -4,19 +4,19 @@
 translate chinese s26_8a332273:
 
     # u "(Ahhh, there's Aubrey and Riley')"
-    u "(啊，奥布里和莱莉在那里)"
+    u "(啊，奥布里和莱莉在那里。)"
 
 # game/v8/Scene26.rpy:18
 translate chinese s26_21d31997:
 
     # u "(Just look how hot they are)"
-    u "(看他们有多火辣)"
+    u "(看她们有多性感。)"
 
 # game/v8/Scene26.rpy:23
 translate chinese s26_734a0af0:
 
     # ri "Hey [name]! What do you think?"
-    ri "嘿，[name]！你觉得呢？"
+    ri "嘿，[name]！你觉得这副怎么样？"
 
 # game/v8/Scene26.rpy:29
 translate chinese s26_5aefc2f1:
@@ -28,43 +28,43 @@ translate chinese s26_5aefc2f1:
 translate chinese s26_647d7e66:
 
     # u "They look great!"
-    u "它们看起来很棒！"
+    u "它看起来很棒！"
 
 # game/v8/Scene26.rpy:42
 translate chinese s26_b19b6152:
 
     # au "I like these!"
-    au "我喜欢这些！"
+    au "我喜欢这副！"
 
 # game/v8/Scene26.rpy:48
 translate chinese s26_35775760:
 
     # u "Hot! You both look amazing."
-    u "火辣！你们俩看起来都很棒。"
+    u "性感！你们俩看起来都很棒。"
 
 # game/v8/Scene26.rpy:51
 translate chinese s26_8b9dee31:
 
     # u "You both really suit them."
-    u "你们俩真的很适合它们。"
+    u "它们真的很适合你们俩。"
 
 # game/v8/Scene26.rpy:56
 translate chinese s26_ab5f9958:
 
     # au "Are you getting a naughty librarian vibe?"
-    au "你是不是有一种调皮的图书管理员的感觉？"
+    au "你觉不觉得戴这副有种淘气图书管理员的感觉？"
 
 # game/v8/Scene26.rpy:61
 translate chinese s26_8eaa20a6:
 
     # u "Definitely with these."
-    u "绝对是。"
+    u "百分之百。"
 
 # game/v8/Scene26.rpy:71
 translate chinese s26_7b32d783:
 
     # au "What do you think? Do you like it?"
-    au "你觉得呢？你喜欢吗？"
+    au "你觉得呢？你喜欢这副吗？"
 
 # game/v8/Scene26.rpy:76
 translate chinese s26_4ddb6179:
@@ -76,25 +76,25 @@ translate chinese s26_4ddb6179:
 translate chinese s26_023a9b50:
 
     # ri "Oh, those look amazing on you! Let me try some."
-    ri "哦，你戴上这些真好看！让我也试试。"
+    ri "噢，这副很适合你！让我也试试。"
 
 # game/v8/Scene26.rpy:91
 translate chinese s26_59751aac:
 
     # ri "How do they look?"
-    ri "它们看起来怎么样？"
+    ri "它看起来怎么样？"
 
 # game/v8/Scene26.rpy:96
 translate chinese s26_aeddc5a5:
 
     # au "Damn, girl. Makes me feel a bit naughty."
-    au "该死，姑娘。让我觉得有点淘气。"
+    au "该死的，姑娘。让我觉得有点淘气。"
 
 # game/v8/Scene26.rpy:101
 translate chinese s26_1961a867:
 
     # u "So it's settled! You both get a pair!"
-    u "就这么定了！你们两个都买一副！"
+    u "就这么定了！你们两个都买一副吧！"
 
 # game/v8/Scene26.rpy:106
 translate chinese s26_8aeb9c5b:
@@ -106,13 +106,13 @@ translate chinese s26_8aeb9c5b:
 translate chinese s26_dc019280:
 
     # u "Yeah, probably wouldn't get much done if I saw you in those every day."
-    u "是啊，如果我每天都看到你们戴这些可能不会有什么进展。"
+    u "好吧，如果我每天都看到你们戴这些可能不会有什么想法了。"
 
 # game/v8/Scene26.rpy:116
 translate chinese s26_17f48d14:
 
     # ri "Both of us?"
-    ri "我们两个？"
+    ri "我们？"
 
 # game/v8/Scene26.rpy:121
 translate chinese s26_fa92393f:
@@ -226,7 +226,7 @@ translate chinese no_take_aub_glasses_07767edb:
 translate chinese no_take_aub_glasses_ec58dd76:
 
     # u "(Pretty? That's not good)"
-    u "(漂亮？那可不好看)"
+    u "(漂亮？那可不好看。)"
 
 # game/v8/Scene26.rpy:236
 translate chinese no_take_aub_glasses_e9dc8015:
@@ -244,7 +244,7 @@ translate chinese no_take_aub_glasses_ce7dd284:
 translate chinese no_take_aub_glasses_175d629a:
 
     # u "(This isn't going like I planned)"
-    u "(这不像我想的那样)"
+    u "(这不像我想的那样。)"
 
 # game/v8/Scene26.rpy:254
 translate chinese after_glasses_choice_fb9cf7ec:
@@ -262,7 +262,7 @@ translate chinese after_glasses_choice_c9d4e42e:
 translate chinese after_glasses_choice_03c2245e:
 
     # u "(She looks so kissable)"
-    u "(她看起来楚楚动人)"
+    u "(她看起来楚楚动人。)"
 
 # game/v8/Scene26.rpy:268
 translate chinese after_glasses_choice_4f77a040:
@@ -274,7 +274,7 @@ translate chinese after_glasses_choice_4f77a040:
 translate chinese after_glasses_choice_f0a54988:
 
     # au "See, we made the right choice asking [name] to come, didn't we Riley?"
-    au "你看，我们叫[name]来是正确的, 对么，莱莉？"
+    au "你看，我们叫[name]来是正确的，对么，莱莉？"
 
 # game/v8/Scene26.rpy:278
 translate chinese after_glasses_choice_03e20d80:
@@ -292,13 +292,13 @@ translate chinese after_glasses_choice_59c0be23:
 translate chinese after_glasses_choice_08da624d:
 
     # u "(Am I dreaming this? They can't mean...)"
-    u "(我是在做梦吗？他们不会是想.……)"
+    u "(我是在做梦吗？他们不会是想……)"
 
 # game/v8/Scene26.rpy:293
 translate chinese after_glasses_choice_38a0e3ab:
 
     # ri "I kinda like these too."
-    ri "我也有点喜欢这副。"
+    ri "我也有点儿喜欢这副。"
 
 # game/v8/Scene26.rpy:298
 translate chinese after_glasses_choice_2266a36e:
@@ -316,19 +316,19 @@ translate chinese after_glasses_choice_8e3c3cf5:
 translate chinese after_glasses_choice_3b157c30:
 
     # u "Those look really hot, but I still think the last pair matches your hair, like Aubrey said."
-    u "这些看起来真的很火辣，但我仍然认为最后一副和你的头发很匹配，就像奥布里说的。"
+    u "这些看起来真的很性感，但我仍然认为最后一副和你的头发很匹配，就像奥布里说的。"
 
 # game/v8/Scene26.rpy:312
 translate chinese after_glasses_choice_63c55ee6:
 
     # u "Those look really good, but I think the last pair looks better."
-    u "那些看起来真的很好，但我认为最后一副看起来更好。"
+    u "那副看起来真的很好，但我认为最后一副看起来更好。"
 
 # game/v8/Scene26.rpy:317
 translate chinese after_glasses_choice_29ffe6d8:
 
     # au "Yeah, they were just so gorgeous."
-    au "是啊，它们太漂亮了。"
+    au "是啊，它太漂亮了。"
 
 # game/v8/Scene26.rpy:322
 translate chinese after_glasses_choice_8a80d168:
@@ -346,13 +346,13 @@ translate chinese after_glasses_choice_e5a82c29:
 translate chinese after_glasses_choice_58e9d255:
 
     # u "(Don't fuck this up, [name])"
-    u "(别搞砸了，[name])"
+    u "(别掉坑里，[name]。)"
 
 # game/v8/Scene26.rpy:337
 translate chinese after_glasses_choice_83b40480:
 
     # u "Those... tonight?"
-    u "那些……今晚？"
+    u "你这副……要不今晚？"
 
 # game/v8/Scene26.rpy:342
 translate chinese after_glasses_choice_44d70fd3:
@@ -370,7 +370,7 @@ translate chinese after_glasses_choice_101b9a0e:
 translate chinese after_glasses_choice_6f083a0f:
 
     # u "Both"
-    u "两者"
+    u "你们俩的"
 
 # game/v8/Scene26.rpy:357
 translate chinese after_glasses_choice_3d4d12e0:
@@ -382,7 +382,7 @@ translate chinese after_glasses_choice_3d4d12e0:
 translate chinese after_glasses_choice_eb20ed1f:
 
     # au "Bold! I like it!"
-    au "大胆！我喜欢！"
+    au "大胆！但是我喜欢！"
 
 # game/v8/Scene26.rpy:367
 translate chinese after_glasses_choice_f0e3dc73:
@@ -394,13 +394,13 @@ translate chinese after_glasses_choice_f0e3dc73:
 translate chinese opti_end_6adba70a:
 
     # ri "I think I'm gonna take these ones."
-    ri "我想我要买这些。"
+    ri "我想我要买这副。"
 
 # game/v8/Scene26.rpy:382
 translate chinese opti_end_9927e9a2:
 
     # ri "Thanks for coming. I feel better about needing glasses now."
-    ri "谢谢你能来。我现在对戴眼镜感觉好多了。"
+    ri "谢谢你能来。我现在对戴眼镜的感觉好多了。"
 
 # game/v8/Scene26.rpy:387
 translate chinese opti_end_199fd772:
@@ -412,13 +412,13 @@ translate chinese opti_end_199fd772:
 translate chinese opti_end_9455b319:
 
     # u "I had a lot of fun."
-    u "我玩得很开心。"
+    u "我觉得得很开心。"
 
 # game/v8/Scene26.rpy:397
 translate chinese opti_end_6bc6ab1f:
 
     # au "We should do this again soon."
-    au "我们应该很快再出来一次。"
+    au "我们应该很快再出来逛一次。"
 
 # game/v8/Scene26.rpy:402
 translate chinese opti_end_9ed85870:
@@ -430,7 +430,7 @@ translate chinese opti_end_9ed85870:
 translate chinese opti_end_eb219a34:
 
     # ri "We have other errands to run, but I'll text you soon."
-    ri "我们还有别的差事要办，但我很快就会发短信给你。"
+    ri "我们还有别的差事儿要办，但我很快就会发短信给你的。"
 
 # game/v8/Scene26.rpy:412
 translate chinese opti_end_1bea4ac4:
@@ -462,9 +462,9 @@ translate chinese strings:
 
     # game/v8/Scene26.rpy:335
     old "Riley's glasses"
-    new "莱莉得眼镜"
+    new "莱莉的眼镜"
 
     # game/v8/Scene26.rpy:335
     old "Both glasses"
-    new "两者的眼镜"
+    new "你们俩的眼镜"
 

@@ -16,7 +16,7 @@ translate chinese v13s13b_8569c4fa:
 translate chinese v13s13b_c591da34:
 
     # polly "Oh, hey! I didn't even see you two there, haha. What's up, Polly 2.0?"
-    polly "哦，嘿！我都没看到你们两个在那儿，哈哈。怎么了，波莉2.0？"
+    polly "噢，嘿！我都没看到你们两个在那儿，哈哈。怎么了，波莉2.0？"
 
 # game/v13/scene13b.rpy:37
 translate chinese v13s13b_59dbbf76:
@@ -34,7 +34,7 @@ translate chinese v13s13b_582f4786:
 translate chinese v13s13b_a603d584:
 
     # pe "Oh, umm... Yeah. Ha, I like your songs a lot."
-    pe "哦，嗯……嗯。哈，我很喜欢你的歌。"
+    pe "噢，嗯……嗯。哈，我很喜欢你的歌。"
 
 # game/v13/scene13b.rpy:52
 translate chinese v13s13b_135569a0:
@@ -106,7 +106,7 @@ translate chinese v13s13b_31ef721a:
 translate chinese v13s13b_354af9f6:
 
     # polly "No fucking way... You're joking!"
-    polly "他妈的不可能……你在开玩笑吧！"
+    polly "不是吧……你在开玩笑吧！"
 
 # game/v13/scene13b.rpy:108
 translate chinese v13s13b_c1f3ecf8:
@@ -118,13 +118,13 @@ translate chinese v13s13b_c1f3ecf8:
 translate chinese v13s13b_43efa22a:
 
     # polly "Penelope is my real name! Like, I'm not even joking!"
-    polly "佩内洛普是我的真名！就像，我甚至不是在开玩笑！"
+    polly "佩内洛普是我的真名！真的，我不是在开玩笑！"
 
 # game/v13/scene13b.rpy:118
 translate chinese v13s13b_7d4db1b8:
 
     # pe "*Shocked* Oh my gosh!"
-    pe " *震惊* 哦，我的天啊！"
+    pe " *震惊* 噢，我的天呐！"
 
 # game/v13/scene13b.rpy:123
 translate chinese v13s13b_109243e5:
@@ -148,7 +148,7 @@ translate chinese v13s13b_13f7ef9d:
 translate chinese v13s13b_9878a1d7:
 
     # pe "*Whisper* Okay, uhm... *Singing* Love comes unexpected-"
-    pe " *低语* 好的，嗯…… *唱歌* 爱来了意想不到的-"
+    pe " *低语* 好的，嗯…… *唱歌* Love comes unexpected-"
 
 # game/v13/scene13b.rpy:143
 translate chinese v13s13b_f5f3b4a9:
@@ -166,7 +166,7 @@ translate chinese v13s13b_736cdf69:
 translate chinese v13s13b_145ae56d:
 
     # pe "*Singing* LOVE COMES UNEXPECTED, LOVE'S UNNATURAL! I CAN FEEL MY HEARTBEAT, LOVE IS LIKE BATTERY, IT POWERS UP MY SOUL!"
-    pe " *唱歌* 爱情来得意想不到，爱是不自然的！我能感觉到我的心跳，爱就像电池，它给我的灵魂供电！"
+    pe " *唱歌* LOVE COMES UNEXPECTED, LOVE'S UNNATURAL! I CAN FEEL MY HEARTBEAT, LOVE IS LIKE BATTERY, IT POWERS UP MY SOUL！"
 
 # game/v13/scene13b.rpy:173
 translate chinese v13s13b_f27119a1:
@@ -244,7 +244,7 @@ translate chinese v13s13b_c3d63018:
 translate chinese v13s13b_ddeaa458:
 
     # pe "Oh umm..."
-    pe "哦，嗯……"
+    pe "噢，嗯……"
 
 # game/v13/scene13b.rpy:237
 translate chinese v13s13b_631d4844:
@@ -262,7 +262,7 @@ translate chinese v13s13b_47803c2e:
 translate chinese v13s13b_06ccbf2c:
 
     # polly "Ooo, okay! You guys are such a cute couple, I can't get enough."
-    polly "哦，好的！你们真是一对可爱的一对儿，我怎么也看不够。"
+    polly "噢，好的！你们真是一对可爱的一对儿，我怎么也看不够。"
 
 # game/v13/scene13b.rpy:254
 translate chinese v13s13b_412c0e91:
@@ -382,7 +382,7 @@ translate chinese v13s13b_cbff42de:
 translate chinese v13s13b_a490a3e8:
 
     # polly "Oh, okay. Gotcha..."
-    polly "哦，好的。知道了……"
+    polly "噢，好的。知道了……"
 
 # game/v13/scene13b.rpy:364
 translate chinese v13s13b_c2dce9e9:
@@ -472,7 +472,7 @@ translate chinese v13s13b_21be91fd:
 translate chinese v13s13b_0bd064e3:
 
     # pe "Jeez... I didn't know Polly and I had so much in common... *Chuckles*"
-    pe "天啊……我不知道波莉和我有这么多共同点…… *咯咯笑* "
+    pe "天呐……我不知道波莉和我有这么多共同点…… *咯咯笑* "
 
 # game/v13/scene13b.rpy:493
 translate chinese v13s13b_a45a9a8b:
@@ -502,7 +502,7 @@ translate chinese v13s13b_2fd5cb43:
 translate chinese v13s13b_6e0e66bb:
 
     # u "Goodnight, P."
-    u "晚安，P。"
+    u "晚安，佩。"
 
 translate chinese strings:
 
@@ -520,5 +520,5 @@ translate chinese strings:
 
     # game/v13/scene13b.rpy:351
     old "Hell yeah!"
-    new "见鬼，太棒了！"
+    new "噢耶！"
 

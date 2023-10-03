@@ -52,7 +52,7 @@ translate chinese v10s19_PhoneContinue1_4f70d32a:
 translate chinese v10s19_PhoneContinue1_a07b4d5a:
 
     # u "Hey Mr. Lee, not much, just taking a little walk. And you?"
-    u "嗨，李先生，没什么，就是散个步。您呢？"
+    u "嘿，李先生，没什么，就是散个步。您呢？"
 
 # game/v10/scene19.rpy:91
 translate chinese v10s19_PhoneContinue1_ecd6a592:
@@ -64,7 +64,7 @@ translate chinese v10s19_PhoneContinue1_ecd6a592:
 translate chinese v10s19_PhoneContinue1_4f274887:
 
     # u "Teachers have friends?"
-    u "老师有朋友吗？"
+    u "老师也有朋友吗？"
 
 # game/v10/scene19.rpy:103
 translate chinese v10s19_PhoneContinue1_794ca2ce:
@@ -76,7 +76,7 @@ translate chinese v10s19_PhoneContinue1_794ca2ce:
 translate chinese v10s19_PhoneContinue1_c091fe4b:
 
     # u "Sounds nice."
-    u "听起来不错。"
+    u "好吧。"
 
 # game/v10/scene19.rpy:111
 translate chinese v10s19_PhoneContinue1_6510ef30:
@@ -100,7 +100,7 @@ translate chinese v10s19_PhoneContinue1_8fedf1ec:
 translate chinese v10s19_PhoneContinue1_8375dbe8:
 
     # u "Guess I'll let you get to it."
-    u "那我就不打扰你了。"
+    u "那我就不打扰您了。"
 
 # game/v10/scene19.rpy:132
 translate chinese v10s19_PhoneContinue1_723d58ff:
@@ -122,9 +122,9 @@ translate chinese strings:
 
     # game/v10/scene19.rpy:40
     old "Go alone"
-    new "一个人去吧"
+    new "一个人去"
 
     # game/v10/scene19.rpy:96
     old "Don't make a joke"
-    new "别开玩笑了"
+    new "别开玩笑"
 

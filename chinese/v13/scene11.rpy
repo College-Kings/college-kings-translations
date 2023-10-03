@@ -22,7 +22,7 @@ translate chinese v13s11_07f884ff:
 translate chinese v13s11_62ccd0cf:
 
     # u "*Whisper* Oh shit!"
-    u " *低语*  哦，见鬼！"
+    u " *低语*  噢，见鬼！"
 
 # game/v13/scene11.rpy:47
 translate chinese v13s11_7af4faa1:
@@ -40,25 +40,25 @@ translate chinese v13s11_5cae1904:
 translate chinese v13s11_b7721b81:
 
     # ry "*Whisper* Fuck, he's coming this way!"
-    ry " *低语*  操，他朝这边来了！"
+    ry " *低语*  遭了，他朝这边来了！"
 
 # game/v13/scene11.rpy:67
 translate chinese v13s11_4b02cee0:
 
     # u "*Whisper* Well, shit Ryan! Do something!"
-    u " *低语*  好吧，该死的瑞恩！做点什么吧！"
+    u " *低语*  好吧，该死的瑞恩！做点儿什么吧！"
 
 # game/v13/scene11.rpy:72
 translate chinese v13s11_0619d5a9:
 
     # ry "*Whisper* You do something!"
-    ry " *低语*  你要做点什么！"
+    ry " *低语*  你要做点儿什么！"
 
 # game/v13/scene11.rpy:87
 translate chinese v13s11_c520294c:
 
     # ry "*Whispers* What the fuck is that supposed to do?!"
-    ry " *低语*  那他妈的该怎么办？！"
+    ry " *低语*  那他妈地该怎么办？！"
 
 # game/v13/scene11.rpy:92
 translate chinese v13s11_f97bf165:
@@ -118,13 +118,13 @@ translate chinese v13_push_ryan_8876b956:
 translate chinese v13_push_ryan_bce82fbe:
 
     # imre "Ryan? What are you doing? And why did you just..."
-    imre "瑞恩？你干吗呢？还有你为什么要……"
+    imre "瑞恩？你干嘛呢？还有你为什么要……"
 
 # game/v13/scene11.rpy:160
 translate chinese v13_push_ryan_977e2c7c:
 
     # u "Oh, hey man! What are you up to?"
-    u "哦，嘿，伙计！你在忙什么呢？"
+    u "噢，嘿，伙计！你在忙什么呢？"
 
 # game/v13/scene11.rpy:165
 translate chinese v13_push_ryan_1b7b9a8d:
@@ -274,7 +274,7 @@ translate chinese v13_imre_continue_8569c4fa:
 translate chinese v13_imre_continue_012a0df2:
 
     # u "Oh, shit... Let's get closer."
-    u "哦，该死的……我们走近一点。"
+    u "噢，该死的……我们走近一点。"
 
 # game/v13/scene11.rpy:334
 translate chinese v13_imre_continue_f7f334c9:
@@ -358,7 +358,7 @@ translate chinese v13_imre_continue_2a5fd4ed:
 translate chinese v13_imre_continue_377ce4a8:
 
     # imre "Please, shut the fuck up..."
-    imre "拜托，他妈的闭嘴……"
+    imre "拜托，他妈地闭嘴……"
 
 # game/v13/scene11.rpy:404
 translate chinese v13_imre_continue_486d9e31:
@@ -406,7 +406,7 @@ translate chinese v13_imre_continue_636a0944:
 translate chinese v13_imre_continue_6bdbd1ad:
 
     # imre "Shut the fuck up, Ryan! Before I rock your shit too."
-    imre "他妈的闭嘴，瑞恩！在我把你的狗屎也摇一摇之前。"
+    imre "他妈地闭嘴，瑞恩！在我把你的狗屎也摇一摇之前。"
 
 # game/v13/scene11.rpy:459
 translate chinese v13_imre_continue_9e8a0f02:
@@ -580,7 +580,7 @@ translate chinese v13_imre_continue_7aefacc6:
 translate chinese v13_imre_continue_69b7f921:
 
     # imre "I don't exactly wanna talk about it, but... I'm sure Ryan is gonna have a field day with this."
-    imre "我不太想谈这件事，但是……我肯定瑞安会为这事大吃一惊的。"
+    imre "我不太想谈这件事，但是……我肯定瑞恩会为这事大吃一惊的。"
 
 # game/v13/scene11.rpy:649
 translate chinese v13_imre_continue_dee69f24:
@@ -592,7 +592,7 @@ translate chinese v13_imre_continue_dee69f24:
 translate chinese v13_imre_continue_132e8e3c:
 
     # u "Look man, you need to ease up on Ryan. He stuck his head out for you today and called me because he cared about you getting catfished... Maybe this can bridge the gap for you two."
-    u "听着，伙计，你得对瑞安放松点。他今天为你挺身而出打电话给我因为他担心你会被钓到。也许这能为你们两个弥合鸿沟。"
+    u "听着，伙计，你得对瑞恩放松点。他今天为你挺身而出打电话给我因为他担心你会被钓到。也许这能为你们两个弥合鸿沟。"
 
 # game/v13/scene11.rpy:665
 translate chinese v13_imre_continue_bf3885c7:
@@ -616,7 +616,7 @@ translate chinese v13_imre_continue_d35db03d:
 translate chinese v13_imre_continue_b2a02aca:
 
     # u "Later,"
-    u "回头见，"
+    u "回头见。"
 
 # game/v13/scene11.rpy:685
 translate chinese v13_imre_continue_d5a3c1fc:
@@ -636,5 +636,5 @@ translate chinese strings:
 
     # game/v13/scene11.rpy:644
     old "Stick up for Ryan"
-    new "支持瑞安"
+    new "支持瑞恩"
 

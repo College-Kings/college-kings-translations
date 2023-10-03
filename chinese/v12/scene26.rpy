@@ -22,7 +22,7 @@ translate chinese v12_nora_chris_fight_e4f8cb35:
 translate chinese v12_nora_chris_fight_852175cf:
 
     # u "(Oh shit!)"
-    u "(哦，见鬼！)"
+    u "(噢，见鬼！)"
 
 # game/v12/scene26.rpy:38
 translate chinese v12_nora_chris_fight_1d30d756:

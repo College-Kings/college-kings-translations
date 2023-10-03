@@ -16,7 +16,7 @@ translate chinese tue_night_in_room_d4509484:
 translate chinese tue_night_in_room_3647f1d2:
 
     # u "(Oh, it's Seb.)"
-    u "(哦，是塞巴斯蒂安。)"
+    u "(噢，是塞巴斯蒂安。)"
 
 # game/v8/scene45.rpy:42
 translate chinese v8s45_phoneContinue1_747f298b:
@@ -100,7 +100,7 @@ translate chinese strings:
 
     # game/v8/scene45.rpy:36
     old "Looking forward to it. :)"
-    new "很期待。 :)"
+    new "很期待。：)"
 
     # game/v8/scene45.rpy:48
     old "I'm thinking about you..."
@@ -112,11 +112,11 @@ translate chinese strings:
 
     # game/v8/scene45.rpy:51
     old "Mmmh, I can almost feel it in my mouth. :)"
-    new "嗯，我几乎能感觉到它在我的嘴里。 :)"
+    new "嗯，我几乎能感觉到它在我的嘴里。：)"
 
     # game/v8/scene45.rpy:52
     old "I think I'm gonna keep it all in for our next meeting. :)"
-    new "我想我要把一切都留到下次见面时再说。:)"
+    new "我想我要把一切都留到下次见面时再说。：)"
 
     # game/v8/scene45.rpy:53
     old "And now I'm hungry."
@@ -124,7 +124,7 @@ translate chinese strings:
 
     # game/v8/scene45.rpy:54
     old ";D"
-    new ";D"
+    new "；D"
 
     # game/v8/scene45.rpy:57
     old "I've had a really crazy night..."
@@ -132,11 +132,11 @@ translate chinese strings:
 
     # game/v8/scene45.rpy:58
     old "And you chose me to tell about it? :)"
-    new "你选择我来诉说？ :)"
+    new "你选择我来诉说？：)"
 
     # game/v8/scene45.rpy:59
     old "Oh c'mon, you've got a great pair of eyes. :)"
-    new "哦，别这样，你有一双迷人的眼睛。 :)"
+    new "噢，别这样，你有一双迷人的眼睛。：)"
 
     # game/v8/scene45.rpy:60
     old "Maybe some other time. These eyes need some rest atm."
@@ -144,11 +144,11 @@ translate chinese strings:
 
     # game/v8/scene45.rpy:61
     old "Sure, later."
-    new "当然，晚点。"
+    new "当然，晚点儿。"
 
     # game/v8/scene45.rpy:103
     old "Yo Ape, still ready for the surprise?"
-    new "哟，猿，还准备好迎接惊喜了吗？"
+    new "哟，猿人，准备好迎接惊喜了吗？"
 
     # game/v8/scene45.rpy:104
     old "Are we still doing this?"
@@ -168,5 +168,5 @@ translate chinese strings:
 
     # game/v8/scene45.rpy:108
     old ":P"
-    new ":P"
+    new "：P"
 

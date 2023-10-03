@@ -10,7 +10,7 @@ translate chinese v14s01_a37f730a:
 translate chinese v14s01_3918831d:
 
     # u "(Oh, shit. This is happening.)"
-    u "(哦，天呐，这真的发生了。)"
+    u "(噢，天呐，这真的发生了。)"
 
 # game/v14/scene1.rpy:85
 translate chinese v14s01_6cda89cf:
@@ -64,7 +64,7 @@ translate chinese v14s01_eceabcb3:
 translate chinese v14s01_89902401:
 
     # ri "*Moans* Oh yes! It gets better... every... time!"
-    ri " *呻吟* 哦，是的！一切都会好起来的……每一个……时刻！"
+    ri " *呻吟* 噢，是的！一切都会好起来的……每一个……时刻！"
 
 # game/v14/scene1.rpy:176
 translate chinese v14s01_4f392938:
@@ -118,7 +118,7 @@ translate chinese v14s01_053eb1ba:
 translate chinese v14s01_b7ff16fc:
 
     # ri "Oh... F-f-fuuuuck... [name]!"
-    ri "哦……操，操，我操……[name]！"
+    ri "噢……操，操，我操……[name]！"
 
 # game/v14/scene1.rpy:240
 translate chinese v14s01_a448fa43:
@@ -298,7 +298,7 @@ translate chinese v14s01_0daf9640:
 translate chinese v14s01_7a9cc1d6:
 
     # ri "Oh..."
-    ri "哦……"
+    ri "噢……"
 
 # game/v14/scene1.rpy:453
 translate chinese v14s01_8232b14c:
@@ -358,7 +358,7 @@ translate chinese v14s01_94f98782:
 translate chinese v14s01_nsfwSkipLabel1_d4d80b8d:
 
     # u "*Sighs* (My sleep schedule is gonna be fucked if I start waking up at night time. Oh well.)"
-    u " *叹息* (如果我开始在晚上醒来，我的睡眠时间表将会被打乱。哦，算了。)"
+    u " *叹息* (如果我开始在晚上醒来，我的睡眠时间表将会被打乱。噢，算了。)"
 
 translate chinese strings:
 

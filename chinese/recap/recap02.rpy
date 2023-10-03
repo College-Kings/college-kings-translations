@@ -82,7 +82,7 @@ translate chinese recap_aubrey_questions_f3122591:
 translate chinese recap_aubrey_questions_8d36890e:
 
     # u "She didn't take it seriously at first."
-    u "她一开始没当回事。"
+    u "她一开始没当回事儿。"
 
 # game/recap/recap02.rpy:284
 translate chinese recap_aubrey_questions_508783c1:
@@ -382,7 +382,7 @@ translate chinese recap_nora_questions_e4305217:
 translate chinese recap_nora_questions_cdce7680:
 
     # u "I had some alone time sightseeing with her..."
-    u "我和她单独在一起观光。"
+    u "我和她单独在一起观光……"
 
 # game/recap/recap02.rpy:818
 translate chinese recap_nora_questions_3ccf26e2:
@@ -442,7 +442,7 @@ translate chinese recap_nora_questions_a7b335c0:
 translate chinese recap_nora_questions_4ca73328:
 
     # u "We ended up having some incredible sex! Sorry, Chris!"
-    u "我们最后有了一段美妙的性爱！对不起，克里斯！"
+    u "我们最后有了一段美妙的性爱！对不起了，克里斯！"
 
 # game/recap/recap02.rpy:963
 translate chinese recap_ms_rose_questions_2067b6ca:
@@ -538,7 +538,7 @@ translate chinese recap_chloe_questions_25887674:
 translate chinese recap_chloe_questions_73101077:
 
     # u "Chloe was the president of the Chicks, and it seems other girls in the sorority didn't want her to be."
-    u "克洛伊是女生会的主席，而女生会的其他女生似乎不希望她当主席。"
+    u "克洛伊是小鸡会的会长，而女生会的其他女生似乎不希望她当会长。"
 
 # game/recap/recap02.rpy:1168
 translate chinese recap_chloe_questions_1af67ccd:
@@ -664,7 +664,7 @@ translate chinese recap_penelope_questions_a4d96cf3:
 translate chinese recap_penelope_questions_a4af815b:
 
     # u "Note to self: Don't go bowling with her again as she has the skills of a pro player..."
-    u "自我提醒:不要再和她去打保龄球了，因为她的技术和职业球员差不多……"
+    u "自我提醒：不要再和她去打保龄球了，因为她的技术和职业球员差不多……"
 
 # game/recap/recap02.rpy:1392
 translate chinese recap_penelope_questions_23cf1fe5:
@@ -694,7 +694,7 @@ translate chinese recap_penelope_questions_11473183:
 translate chinese recap_penelope_questions_97450d9c:
 
     # u "and I suddenly had to figure out how to behave like a professional lawyer type person."
-    u "我突然就得想办法怎么表现得像个专业律师"
+    u "我突然就得想办法怎么表现得像个专业律师。"
 
 # game/recap/recap02.rpy:1438
 translate chinese recap_penelope_questions_77552a17:
@@ -778,7 +778,7 @@ translate chinese recap_amber_questions_0bef61e2:
 translate chinese recap_samantha_questions_ffe0f139:
 
     # u "Yeah, I wasn't going anywhere near Cameron's sister."
-    u "是啊，我没打算靠近卡梅伦的妹妹。"
+    u "好吧，我没打算靠近卡梅伦的妹妹。"
 
 # game/recap/recap02.rpy:1632
 translate chinese recap_samantha_questions_eb29c929:
@@ -790,7 +790,7 @@ translate chinese recap_samantha_questions_eb29c929:
 translate chinese recap_samantha_questions_a5ad5390:
 
     # u "I was totally playing with fire..."
-    u "我完全是在玩火……"
+    u "我完全是在玩儿火……"
 
 # game/recap/recap02.rpy:1650
 translate chinese recap_samantha_questions_eab02711:
@@ -850,25 +850,25 @@ translate chinese recap_samantha_questions_0fda9196:
 translate chinese recap_samantha_questions_b62074dc:
 
     # u "While we were in Amsterdam, there was obviously the opportunity to partake in some drug-taking."
-    u "我们在阿姆斯特丹的时候，显然有机会吸毒。"
+    u "我们在阿姆斯特丹的时候，显然有次机会吸毒。"
 
 # game/recap/recap02.rpy:1750
 translate chinese recap_samantha_questions_abfa3f2d:
 
     # u "But Samantha's lack of self-control was in danger of becoming a problem."
-    u "但萨曼莎的自我控制能力的缺乏有可能成为一个问题。"
+    u "但萨曼莎自我控制能力的缺乏有可能会成为一个隐患。"
 
 # game/recap/recap02.rpy:1771
 translate chinese recap_samantha_questions_5489692c:
 
     # u "We had a good time, but Cameron would surely be coming after me if he ever found out I was encouraging her drug habit."
-    u "我们玩得很开心，但如果卡梅隆发现我鼓励她吸毒，他肯定会来找我的麻烦。"
+    u "我们玩儿得很开心，但如果卡梅隆发现我放任她吸毒，他肯定会来找我的麻烦。"
 
 # game/recap/recap02.rpy:1781
 translate chinese recap_samantha_questions_25e0155c:
 
     # u "But then I found out she ended up in hospital after going off on her own and taking drugs with random people!"
-    u "但后来我发现她自己出去和别人一起吸毒，最后进了医院！"
+    u "但后来我发现她自己出去和别人一起吸毒，最后还进了医院！"
 
 # game/recap/recap02.rpy:1786
 translate chinese recap_samantha_questions_50a1a542:
@@ -964,7 +964,7 @@ translate chinese strings:
 
     # game/recap/recap02.rpy:348
     old "Push for more"
-    new "用力追"
+    new "使劲儿追"
 
     # game/recap/recap02.rpy:348
     old "Don't push it"
@@ -988,11 +988,11 @@ translate chinese strings:
 
     # game/recap/recap02.rpy:617
     old "Contnue relationship"
-    new "继续关系"
+    new "保持关系"
 
     # game/recap/recap02.rpy:668
     old "Have threesome"
-    new "3P"
+    new "来3P吧"
 
     # game/recap/recap02.rpy:668
     old "Don't have threesome"
@@ -1008,7 +1008,7 @@ translate chinese strings:
 
     # game/recap/recap02.rpy:820
     old "Kiss Nora"
-    new "亲吻诺拉a"
+    new "亲吻诺拉"
 
     # game/recap/recap02.rpy:820
     old "Don't kiss Nora"

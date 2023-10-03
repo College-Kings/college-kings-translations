@@ -82,7 +82,7 @@ translate chinese v12_riley_cafe_90b4a4bc:
 translate chinese v12_riley_cafe_e56bcc26:
 
     # u "Oh, really? You think so?"
-    u "哦，真的吗？你这么认为吗？"
+    u "噢，真的吗？你这么认为吗？"
 
 # game/v12/scene14a.rpy:98
 translate chinese v12_riley_cafe_8d142ed5:
@@ -226,7 +226,7 @@ translate chinese v12_riley_cafe_b71d00c9:
 translate chinese v12_riley_cafe_2d79524e:
 
     # ri "*Southern accent* Oh, you mean my southern accent? Well, growing up in Texas I was surrounded by cowboys. Everyone rode horses to school, work, everywhere."
-    ri " *南方口音* 哦，你是说我的南方口音吗？嗯，我在德克萨斯州长大，周围都是牛仔。每个人都骑马上学，上班，到处都是。"
+    ri " *南方口音* 噢，你是说我的南方口音吗？嗯，我在德克萨斯州长大，周围都是牛仔。每个人都骑马上学，上班，到处都是。"
 
 # game/v12/scene14a.rpy:233
 translate chinese v12_riley_cafe_de81bc76:
@@ -340,7 +340,7 @@ translate chinese v12_riley_cafe_8a8ba43f:
 translate chinese v12_riley_cafe_330d4286:
 
     # u "Oh yayyy, another boring treasure hunt."
-    u "哦耶，又是一次无聊的寻宝活动。"
+    u "噢耶，又是一次无聊的寻宝活动。"
 
 # game/v12/scene14a.rpy:334
 translate chinese v12_riley_cafe_0d6ffd39:
@@ -412,7 +412,7 @@ translate chinese v12_riley_cafe_08795ece:
 translate chinese v12_riley_cafe_5bd6d242:
 
     # fwait "Oh, I see, it wasn't very funny..."
-    fwait "哦，我明白了，这不是很好笑……"
+    fwait "噢，我明白了，这不是很好笑……"
 
 # game/v12/scene14a.rpy:399
 translate chinese v12_riley_cafe_1e6db622:
@@ -436,7 +436,7 @@ translate chinese v12_riley_cafe_145900dc:
 translate chinese v12_riley_cafe_ff908bcf:
 
     # fwait "Oh, well... I'd like to keep you from embarrassing yourself even more while you're here in Paris. It wasn't good at all. Also, if I may say... It was pretty rude as well."
-    fwait "哦，好吧……我不想让你在巴黎期间更难堪。一点都不好。另外，如果我可以说……这也是相当粗鲁的。"
+    fwait "噢，好吧……我不想让你在巴黎期间更难堪。一点都不好。另外，如果我可以说……这也是相当粗鲁的。"
 
 # game/v12/scene14a.rpy:419
 translate chinese v12_riley_cafe_1e28e083:
@@ -460,7 +460,7 @@ translate chinese v12_riley_cafe_fcc18885_1:
 translate chinese v12_riley_cafe_012b4e98:
 
     # ri "Oh my gosh! *Chuckles* I seriously just panicked for a second. I thought you were actually pissed and that people had just been lying to me all this time. *Laughs* Holy shit..."
-    ri "哦，天呐！ *咯咯笑* 我真的慌了一会儿。我以为你真的很生气，人们一直在骗我。 *笑* 我靠……"
+    ri "噢，天呐！ *咯咯笑* 我真的慌了一会儿。我以为你真的很生气，人们一直在骗我。 *笑* 我靠……"
 
 # game/v12/scene14a.rpy:439
 translate chinese v12_riley_cafe_4683c6d3:
@@ -522,7 +522,7 @@ translate chinese strings:
 
     # game/v12/scene14a.rpy:321
     old "Oh yeah, good idea"
-    new "哦，好的，好主意"
+    new "噢，好的，好主意"
 
     # game/v12/scene14a.rpy:321
     old "Ugh, do we have to?"

@@ -16,7 +16,7 @@ translate chinese v12_nora_robbed_34d67a72:
 translate chinese v12_nora_robbed_baf209ef:
 
     # ch "Nora, baby... Are you good? Did they hurt you?"
-    ch "诺拉，宝贝……你还好吗？他们伤害你了吗？"
+    ch "诺拉，宝贝儿……你还好吗？他们伤害你了吗？"
 
 # game/v12/scene1.rpy:46
 translate chinese v12_nora_robbed_25b16816:
@@ -46,7 +46,7 @@ translate chinese v12_nora_robbed_3e0eb45e:
 translate chinese v12_nora_robbed_4e42f73e:
 
     # ro "Oh my gosh, you scared the life out of me."
-    ro "哦，天呐，你把我吓死了。"
+    ro "噢，天呐，你把我吓死了。"
 
 # game/v12/scene1.rpy:76
 translate chinese v12_nora_robbed_95231243:
@@ -244,7 +244,7 @@ translate chinese v12_nora_robbed_47185e93:
 translate chinese v12_nora_robbed_5b51d9ee:
 
     # imre "Oh my god, stop. I can feel the pain every time you say it. Luckily for Charli he doesn't have that problem, considering his balls still haven't dropped."
-    imre "哦，天呐，别说了。每次你说这话，我都能感觉到老二的痛苦。幸运的是查理没有这个问题，因为他的蛋蛋还没掉下来。"
+    imre "噢，天呐，别说了。每次你说这话，我都能感觉到老二的痛苦。幸运的是查理没有这个问题，因为他的蛋蛋还没掉下来。"
 
 # game/v12/scene1.rpy:260
 translate chinese v12_nora_robbed_dd62a7a1:

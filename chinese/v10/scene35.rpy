@@ -10,7 +10,7 @@ translate chinese v10_chloe_vs_nora_5899a49a:
 translate chinese v10_chloe_vs_nora_2acacd9e:
 
     # no "Oh my God, GET OFF!"
-    no "哦，天呐，放开我！"
+    no "噢，天呐，放开我！"
 
 # game/v10/scene35.rpy:17
 translate chinese v10_chloe_vs_nora_8d013a1e:
@@ -28,7 +28,7 @@ translate chinese v10_chloe_vs_nora_139523f5:
 translate chinese v10_chloe_vs_nora_ac905342:
 
     # no "C'mon Madame President."
-    no "来吧，主席女士。"
+    no "来吧，会长女士。"
 
 # game/v10/scene35.rpy:31
 translate chinese v10_chloe_vs_nora_5899a49a_1:

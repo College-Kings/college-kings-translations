@@ -16,7 +16,7 @@ translate chinese v13s40_645b50eb:
 translate chinese v13s40_bf3a24de:
 
     # u "(Oh shoot, I almost forgot. I picked up a few surprises for Chloe.)"
-    u "(哦，糟了，我差点忘了。我给克洛伊准备了几个惊喜。)"
+    u "(噢，糟了，我差点忘了。我给克洛伊准备了几个惊喜。)"
 
 # game/v13/scene40.rpy:32
 translate chinese v13s40_ee5858b0:
@@ -40,7 +40,7 @@ translate chinese v13s40_733bb4d9:
 translate chinese v13s40_7b1a73db:
 
     # cl "Oh, really?"
-    cl "哦，真的吗？"
+    cl "噢，真的吗？"
 
 # game/v13/scene40.rpy:52
 translate chinese v13s40_d847467f:
@@ -160,7 +160,7 @@ translate chinese v13s40_feather_a96629c9:
 translate chinese v13s40_feather_325fa1d2:
 
     # cl "Ooh, ha! Okay... Way too ticklish... *Chuckles*"
-    cl "哦，哈！好的……太怕痒了…… *咯咯笑*"
+    cl "噢，哈！好的……太怕痒了…… *咯咯笑*"
 
 # game/v13/scene40.rpy:257
 translate chinese v13s40_feather_25b42f1f:
@@ -172,7 +172,7 @@ translate chinese v13s40_feather_25b42f1f:
 translate chinese v13s40_spanker_45be9c34:
 
     # cl "Oooh, is that what I think it is? *Chuckles*"
-    cl "哦，这是我想的那样吗？ *咯咯笑*"
+    cl "噢，这是我想的那样吗？ *咯咯笑*"
 
 # game/v13/scene40.rpy:286
 translate chinese v13s40_spanker_77cf71e2:
@@ -328,7 +328,7 @@ translate chinese v13s40_end_free_roam_63c322ad:
 translate chinese v13s40_end_free_roam_95500d1c:
 
     # cl "Ohh, fuck! [name]! [name]... I-I'm cumming... *Moans*"
-    cl "哦，他妈的！[name]！[name]……我-我要去了…… *呻吟*"
+    cl "噢，他妈的！[name]！[name]……我-我要去了…… *呻吟*"
 
 # game/v13/scene40.rpy:661
 translate chinese v13s40_end_free_roam_0851ab45:
@@ -346,7 +346,7 @@ translate chinese v13s40_end_free_roam_93cb64d6:
 translate chinese v13s40_end_free_roam_79439081:
 
     # u "*Moans* I'm gonna... Ohhh, my fucking... god!"
-    u "*呻吟* 我要……哦，我他妈的……天呐！"
+    u "*呻吟* 我要……噢，我他妈的……天呐！"
 
 # game/v13/scene40.rpy:686
 translate chinese v13s40_end_free_roam_d150fe4a:
@@ -376,7 +376,7 @@ translate chinese v13s40_end_free_roam_f574238f:
 translate chinese v13s40_end_free_roam_7893975c:
 
     # cl "Oh, really? *Chuckles*"
-    cl "哦，真的吗？ *咯咯笑*"
+    cl "噢，真的吗？ *咯咯笑*"
 
 # game/v13/scene40.rpy:711
 translate chinese v13s40_end_free_roam_5e78e5cb:
@@ -388,7 +388,7 @@ translate chinese v13s40_end_free_roam_5e78e5cb:
 translate chinese v13s40_end_free_roam_920e8069:
 
     # cl "Oh my god, okay... Get up and let me go to the bathroom real quick. You're making me blush. *Chuckles*"
-    cl "哦，天呐，好吧……起来，让我去一下洗手间。你让我脸红了。 *咯咯笑*"
+    cl "噢，天呐，好吧……起来，让我去一下洗手间。你让我脸红了。 *咯咯笑*"
 
 # game/v13/scene40.rpy:721
 translate chinese v13s40_end_free_roam_b54e4039:

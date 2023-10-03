@@ -10,19 +10,19 @@ translate chinese v9_run_w_ryan_e5a5cb7c:
 translate chinese v9_run_w_ryan_e1def2df:
 
     # u "I'm sure you do..."
-    u "我想你知道……"
+    u "我知道你有……"
 
 # game/v9/scene37.rpy:37
 translate chinese v9_run_w_ryan_2daa8e2d:
 
     # u "Everything alright man?"
-    u "一切都好吗，伙计？"
+    u "你没事儿吧，伙计？"
 
 # game/v9/scene37.rpy:42
 translate chinese v9_run_w_ryan_b60bdb67:
 
     # ry "Yeah, just thinking about the brawl."
-    ry "是啊，只是在想比赛的事。"
+    ry "没事儿，只是在想比赛的事。"
 
 # game/v9/scene37.rpy:47
 translate chinese v9_run_w_ryan_3c8a783c:
@@ -46,13 +46,13 @@ translate chinese v9_run_w_ryan_a73d3000:
 translate chinese v9_run_w_ryan_3c6469b5:
 
     # ry "Easier said than done bro, easier said than done."
-    ry "说起来容易做起来难兄弟，说起来容易做起来难。"
+    ry "说起来容易做起来难，兄弟，说起来容易做起来难……"
 
 # game/v9/scene37.rpy:67
 translate chinese v9_run_w_ryan_9767622e:
 
     # u "(Oh shit, is that who I think it is?)"
-    u "(哦，妈的，这还是那个人吗？)"
+    u "(噢，该死的，这还是我认识的那个人吗？)"
 
 # game/v9/scene37.rpy:72
 translate chinese v9_run_w_ryan_892195fa:
@@ -64,25 +64,25 @@ translate chinese v9_run_w_ryan_892195fa:
 translate chinese v9_run_w_ryan_c27e54f0:
 
     # imre "Not in the mood for distractions today, especially from traitors."
-    imre "今天不想分心，尤其是碰到叛徒。"
+    imre "今天没心情和你打哈哈，尤其是叛徒。"
 
 # game/v9/scene37.rpy:82
 translate chinese v9_run_w_ryan_a4aa93f4:
 
     # ry "Well [name], if I get to fight this piece of shit, I got nothing to worry about."
-    ry "嗯，[name]，如果我能和这狗屎决斗，那我就没什么好担心的了。"
+    ry "嗯，[name]，如果我能和这菜狗决斗，那我就没什么好担心的了。"
 
 # game/v9/scene37.rpy:87
 translate chinese v9_run_w_ryan_387289b7:
 
     # imre "Watch your fucking mouth! I don't need a reason to whoop your ass. I'm not in the mood!"
-    imre "你他妈的小心点！我不需要理由踢你的屁股。我没心情！"
+    imre "嘴下留德！我不需要理由就能踢你的屁股。但我没心情！"
 
 # game/v9/scene37.rpy:92
 translate chinese v9_run_w_ryan_6988c1b3:
 
     # imre "Well, you better get in the mood cause the minute I get a chance to put my hands on you it's gonna be lights out."
-    imre "你最好有个好心情因为我一有机会把手放在你身上，你就会歇菜。"
+    imre "你最好有个好心情，因为我一有机会把手放在你身上，你就歇菜了。"
 
 # game/v9/scene37.rpy:97
 translate chinese v9_run_w_ryan_653423c5:
@@ -94,19 +94,19 @@ translate chinese v9_run_w_ryan_653423c5:
 translate chinese v9_run_w_ryan_cebbbd6f:
 
     # ry "See your ass at the brawl bitch!"
-    ry "看到你的屁股在比赛婊子！"
+    ry "期待在比赛上看见你的屁股，婊子！"
 
 # game/v9/scene37.rpy:117
 translate chinese v9_run_w_ryan_8fc23b74:
 
     # u "Bro chill, we can't get caught fucking with him before the brawl. We'd get our asses chewed out!"
-    u "兄弟冷静，我们不能在比赛前被抓。我们会被揍得屁滚尿流！"
+    u "兄弟冷静，我们不能在比赛前惹事儿。不然我们会被揍得屁滚尿流的！"
 
 # game/v9/scene37.rpy:122
 translate chinese v9_run_w_ryan_1fd380b0:
 
     # ry "Fuck! You're right, he just pisses me off. I hate the fucking Wolves."
-    ry "操！你说得对，他只是惹毛我了。我讨厌那些该死的狼。"
+    ry "该死的！你说得对，他只是惹毛我了。我讨厌那些该死的狼人。"
 
 # game/v9/scene37.rpy:127
 translate chinese v9_run_w_ryan_228058b6:
@@ -124,7 +124,7 @@ translate chinese v9_run_w_ryan_9c17c938:
 translate chinese v9_run_w_ryan_9a5aacd6:
 
     # ry "Not really man, I swear the Wolves just always get to me."
-    ry "不是真的，我发誓狼总是来找我。"
+    ry "不怎么好，我发誓狼人总是来烦我。"
 
 # game/v9/scene37.rpy:147
 translate chinese v9_run_w_ryan_bf0dfd45:
@@ -136,13 +136,13 @@ translate chinese v9_run_w_ryan_bf0dfd45:
 translate chinese v9_run_w_ryan_da4fda5a:
 
     # ry "Yeah I guess."
-    ry "是得，我想。"
+    ry "好吧，大概。"
 
 # game/v9/scene37.rpy:162
 translate chinese v9_run_w_ryan_038b16b3:
 
     # ry "Ahh, sorry bro. Gotta dip, duty calls!"
-    ry "啊，对不起，兄弟。得下潜了，任务到了！"
+    ry "啊，对不起，兄弟。得开溜了，职责所在！"
 
 # game/v9/scene37.rpy:167
 translate chinese v9_run_w_ryan_4ddf9452:

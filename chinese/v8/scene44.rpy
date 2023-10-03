@@ -4,7 +4,7 @@
 translate chinese walk_home_w_gray_bab0ecd8:
 
     # gr "Aw man it's gonna be epic. You ready?"
-    gr "天哪，这会是史诗般的。准备好了吗？"
+    gr "天呐，这会是史诗般的。准备好了吗？"
 
 # game/v8/scene44.rpy:20
 translate chinese walk_home_w_gray_780d5551:
@@ -22,7 +22,7 @@ translate chinese walk_home_w_gray_731ca980:
 translate chinese walk_home_w_gray_c836cfa4:
 
     # gr "Aw, man, I almost don't wanna tell you."
-    gr "哦，伙计，我几乎不想告诉你。"
+    gr "噢，伙计，我几乎不想告诉你。"
 
 # game/v8/scene44.rpy:33
 translate chinese walk_home_w_gray_4dd5342c:
@@ -124,7 +124,7 @@ translate chinese walk_home_w_gray_dd6fe419:
 translate chinese walk_home_w_gray_c16f5a61:
 
     # gr "Later, you Great Ape, you!"
-    gr "以后，你这个巨猿，你！"
+    gr "以后，你就是巨猿，你！"
 
 # game/v8/scene44.rpy:121
 translate chinese walk_home_w_gray_ccd47c32:

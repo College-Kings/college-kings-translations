@@ -142,13 +142,13 @@ translate chinese v14s03c_23c05a3a:
 translate chinese v14s03c_2e6bb260:
 
     # satin "Oh..."
-    satin "哦……"
+    satin "噢……"
 
 # game/v14/scene3c.rpy:160
 translate chinese v14s03c_aef1df72:
 
     # u "Ha, uh oh... Why'd you say \"oh\" like that?"
-    u "哈，呃哦……你为什么要说\"噢\"？"
+    u "哈，呃噢……你为什么要说\"噢\"？"
 
 # game/v14/scene3c.rpy:165
 translate chinese v14s03c_8123687d:
@@ -172,7 +172,7 @@ translate chinese v14s03c_2f2f955a:
 translate chinese v14s03c_b7dbc9c1:
 
     # satin "Oh, wow... It's rare for a virgin to walk in here. *Laughs*"
-    satin "哦，哇……处男走进这里是很少见的。 *笑* "
+    satin "噢，哇……处男走进这里是很少见的。 *笑* "
 
 # game/v14/scene3c.rpy:178
 translate chinese v14s03c_2c1f9ca0:
@@ -190,13 +190,13 @@ translate chinese v14s03c_99847b5f:
 translate chinese v14s03c_969edd0f:
 
     # satin "Well, earlier when I said \"oh\" like that, it was because I'm pretty sure the girl he's talking to has an STD..."
-    satin "嗯，早些时候我那样说\"哦\"那是因为我很确定和他说话的那个女孩有性病。"
+    satin "嗯，早些时候我那样说\"噢\"那是因为我很确定和他说话的那个女孩有性病。"
 
 # game/v14/scene3c.rpy:193
 translate chinese v14s03c_56390365:
 
     # u "Oh. I- Oh..."
-    u "噢。我-哦……"
+    u "噢。我-噢……"
 
 # game/v14/scene3c.rpy:198
 translate chinese v14s03c_26e2490b:
@@ -250,7 +250,7 @@ translate chinese v14s03c_5e1fbc83:
 translate chinese v14s03c_6501c99c:
 
     # u "Oh, no. I don't have that kind of money."
-    u "哦，不。我没有那么多钱。"
+    u "噢，不。我没有那么多钱。"
 
 # game/v14/scene3c.rpy:245
 translate chinese v14s03c_803beca1:

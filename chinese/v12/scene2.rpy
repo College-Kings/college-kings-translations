@@ -142,7 +142,7 @@ translate chinese v12_nora_checks_mc_3a9648fe:
 translate chinese v12_nora_checks_mc_071c201c:
 
     # u "Oh, yeah I could see that. I'm really sorry I ran over there like that. I guess I was just really concerned about you."
-    u "哦，是的，我能看出来。真的很抱歉我那样跑过来。我想我只是太担心你了。"
+    u "噢，是的，我能看出来。真的很抱歉我那样跑过来。我想我只是太担心你了。"
 
 # game/v12/scene2.rpy:165
 translate chinese v12_nora_checks_mc_f91691c1:
@@ -160,7 +160,7 @@ translate chinese v12_nora_checks_mc_5d2415a2:
 translate chinese v12_nora_checks_mc_c896070e:
 
     # u "Oh, that's just 'cause of my superpower. It lets me know when a helpless girl is in need."
-    u "哦，那是因为我的超能力。当一个无助的女孩需要帮助的时候，它会让我知道。"
+    u "噢，那是因为我的超能力。当一个无助的女孩需要帮助的时候，它会让我知道。"
 
 # game/v12/scene2.rpy:176
 translate chinese v12_nora_checks_mc_a11cec08:
@@ -226,7 +226,7 @@ translate chinese v12_nora_checks_mc_54c224dd:
 translate chinese v12_nora_checks_mc_e8ecf957:
 
     # u "Oh sorry, I didn't mean to open any wounds."
-    u "哦，对不起，我不是故意要揭开任何伤口的。"
+    u "噢，对不起，我不是故意要揭开任何伤口的。"
 
 # game/v12/scene2.rpy:231
 translate chinese v12_nora_checks_mc_4c44b547:
@@ -268,13 +268,13 @@ translate chinese v12_nora_checks_mc_7003c231:
 translate chinese v12_nora_checks_mc_004eca59:
 
     # u "Oh, I know. Please don't get me started on Charli..."
-    u "哦，我知道。请不要让我开始谈论查理……"
+    u "噢，我知道。请不要让我开始谈论查理……"
 
 # game/v12/scene2.rpy:262
 translate chinese v12_nora_checks_mc_d1349464:
 
     # no "Oh, I didn't know that you guys don't get along... I hadn't noticed. *Chuckles*"
-    no "哦，我不知道你们相处不好……我没注意到。 *咯咯笑*"
+    no "噢，我不知道你们相处不好……我没注意到。 *咯咯笑*"
 
 # game/v12/scene2.rpy:267
 translate chinese v12_nora_checks_mc_ac0a65cc:

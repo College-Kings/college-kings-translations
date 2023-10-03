@@ -196,7 +196,7 @@ translate chinese v13s14a_6bda91d6:
 translate chinese v13s14a_8ff9e469:
 
     # u "Oh, you don't think I can keep up?"
-    u "哦，你觉得我跟不上吗？"
+    u "噢，你觉得我跟不上吗？"
 
 # game/v13/scene14a.rpy:201
 translate chinese v13s14a_b68c30c2:
@@ -232,7 +232,7 @@ translate chinese v13s14a_ea6e051b:
 translate chinese v13s14a_2cf1c092:
 
     # u "Oh, that's a big music swing! *Chuckles*"
-    u "哦，那是一个很大的音乐秋千！ *咯咯笑* "
+    u "噢，那是一个很大的音乐秋千！ *咯咯笑* "
 
 # game/v13/scene14a.rpy:270
 translate chinese v13s14a_b8290e69:
@@ -286,7 +286,7 @@ translate chinese v13s14a_36af5bb7:
 translate chinese v13s14a_b944a0a7:
 
     # au "Haha, oh my god. Goodnight, [name]."
-    au "哈哈，哦，我的天啊。晚安，[name]。"
+    au "哈哈，噢，我的天啊。晚安，[name]。"
 
 # game/v13/scene14a.rpy:332
 translate chinese v13s14a_bc49bd48:
@@ -352,7 +352,7 @@ translate chinese v13s14a_36af5bb7_1:
 translate chinese v13s14a_6c09cfaa:
 
     # au "Haha, oh my god. Goodnight [name]."
-    au "哈哈，哦，我的天啊。晚安，[name]。"
+    au "哈哈，噢，我的天啊。晚安，[name]。"
 
 # game/v13/scene14a.rpy:437
 translate chinese v13s14a_bc49bd48_1:

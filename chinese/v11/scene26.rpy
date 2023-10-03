@@ -304,7 +304,7 @@ translate chinese v11_hotel_bar_apes_a7c22526_1:
 translate chinese v11_hotel_bar_apes_bb0c9534:
 
     # u "*Chuckles* Hey Sam."
-    u "*咯咯笑* 你好，萨曼莎。"
+    u "*咯咯笑* 嘿，萨曼莎。"
 
 # game/v11/scene26.rpy:301
 translate chinese v11_hotel_bar_apes_2c5073c6:

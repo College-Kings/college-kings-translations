@@ -4,13 +4,13 @@
 translate chinese v13s39a_f9d3b7c1:
 
     # ry "Where were you guys just coming from?"
-    ry "你们真是把娜儿回来啊？"
+    ry "你们从哪儿回来啊？"
 
 # game/v13/scene39a.rpy:32
 translate chinese v13s39a_b3736acc:
 
     # u "We were at a little garden place."
-    u "我们在一个小花园里。"
+    u "我们刚在一个小花园里。"
 
 # game/v13/scene39a.rpy:37
 translate chinese v13s39a_6cce89b6:
@@ -286,13 +286,13 @@ translate chinese v13s39a_6e731c78:
 translate chinese v13s39a_cbbcdc4b:
 
     # ry "Oh, okay... You just looked distracted."
-    ry "哦，好吧……你看起来心不在焉。"
+    ry "噢，好吧……你看起来心不在焉。"
 
 # game/v13/scene39a.rpy:330
 translate chinese v13s39a_15457805:
 
     # ry "OH SHIT, THERE'S EMILY!"
-    ry "哦，见鬼，艾米丽来了！"
+    ry "噢，见鬼，艾米丽来了！"
 
 # game/v13/scene39a.rpy:335
 translate chinese v13s39a_038f0282:
@@ -304,7 +304,7 @@ translate chinese v13s39a_038f0282:
 translate chinese v13s39a_0529a669:
 
     # u "Wow..."
-    u "哇哦……"
+    u "哇噢……"
 
 # game/v13/scene39a.rpy:353
 translate chinese v13s39a_6c9510ca:
@@ -328,7 +328,7 @@ translate chinese v13s39a_aaf85a75:
 translate chinese v13s39a_5fdb89bd:
 
     # u "Oh really? What are you getting?"
-    u "哦，真的？你要买什么？"
+    u "噢，真的？你要买什么？"
 
 # game/v13/scene39a.rpy:373
 translate chinese v13s39a_047191b3:
@@ -532,7 +532,7 @@ translate chinese v13s39a_b9b441bb:
 translate chinese v13s39a_0529a669_1:
 
     # u "Wow..."
-    u "哇哦……"
+    u "哇噢……"
 
 translate chinese strings:
 

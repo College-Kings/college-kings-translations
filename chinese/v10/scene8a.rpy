@@ -10,7 +10,7 @@ translate chinese v10_avoid_fight_4cf6faaa:
 translate chinese v10_avoid_fight_a595b5b5:
 
     # u "(Really don't wanna talk right now.)"
-    u "(现在真的不想谈。)"
+    u "(现在真的不想说话。)"
 
 # game/v10/scene8a.rpy:30
 translate chinese v10_avoid_fight_30075b22:
@@ -46,7 +46,7 @@ translate chinese v10_avoid_fight_286f293d:
 translate chinese v10_avoid_fight_b51052a2:
 
     # ch "Busting their ass to show them they belong to the Wolves. Tonight was supposed to be a night of accomplishment and celebration."
-    ch "为了让他们知道自己是狼队的。今晚本该是一个成就和庆祝的夜晚。"
+    ch "为了让他们知道自己是狼人的。今晚本该是一个成就和庆祝的夜晚。"
 
 # game/v10/scene8a.rpy:56
 translate chinese v10_avoid_fight_43d46c21:
@@ -70,7 +70,7 @@ translate chinese v10_avoid_fight_3e5b1f8a:
 translate chinese v10_avoid_fight_0ff0cbdc:
 
     # u "Yeah... FUCK IT! I'll do it."
-    u "是啊……去他妈的！我会做到的。"
+    u "是的……去他妈的！我会做到的。"
 
 # game/v10/scene8a.rpy:78
 translate chinese v10_avoid_fight_8ef10cf7:
@@ -106,7 +106,7 @@ translate chinese v10_avoid_fight_c293ffa4:
 translate chinese v10_avoid_fight_bc167e39:
 
     # u "I respect the Wolves, you guys are like family to me. But my friends are like family too."
-    u "我尊重狼队，你们就像我的家人。但是我的朋友也像家人一样。"
+    u "我尊重狼人，你们就像我的家人。但是我的朋友也像家人一样。"
 
 # game/v10/scene8a.rpy:109
 translate chinese v10_avoid_fight_101d2f41:
@@ -136,7 +136,7 @@ translate chinese v10_avoid_fight_bef090f8:
 translate chinese v10_avoid_fight_8f83aba0_1:
 
     # ch "It's probably best if you just go home. I don't think you wanna face the other Wolves right now."
-    ch "你最好还是回家吧。我觉得你现在不想面对其他狼队。"
+    ch "你最好还是回家吧。我觉得你现在不想面对其他狼人。"
 
 # game/v10/scene8a.rpy:133
 translate chinese v10_avoid_fight_460698fc_1:
@@ -244,13 +244,13 @@ translate chinese v10_avoid_fight_98195fa0:
 translate chinese v10_avoid_fight_d137de44:
 
     # u "Fuck! Why'd you do that?!"
-    u "操！你为什么要这么做？！"
+    u "该死的！你为什么要这么做？！"
 
 # game/v10/scene8a.rpy:243
 translate chinese v10_avoid_fight_5d580940:
 
     # gr "I don't care if we share the same fucking blood, a fight is a fight! You ever do any pussy shit like this again and you're out! You got that?"
-    gr "我不在乎我们他妈的是不是有血缘关系，打架就是打架！如果你再做这样的蠢事，你就出局！你听到了吗？"
+    gr "我不在乎我们他妈的是不是有血缘关系，战斗就是战斗！如果你再做这样的蠢事，你就出局！你听到了吗？"
 
 # game/v10/scene8a.rpy:248
 translate chinese v10_avoid_fight_5f606cca:
@@ -262,13 +262,13 @@ translate chinese v10_avoid_fight_5f606cca:
 translate chinese v10_avoid_fight_b10e297f:
 
     # gr "Now get the fuck out of here, I don't wanna see your face!"
-    gr "现在他妈的给我滚出去，我不想看到你的脸！"
+    gr "现在他妈地给我滚出去，我不想看到你的脸！"
 
 # game/v10/scene8a.rpy:258
 translate chinese v10_avoid_fight_3c582c4b:
 
     # u "(Fuck that hurt, I'm going home.)"
-    u "(操他妈的疼，我要回家了。)"
+    u "(真他妈的疼，我要回家了。)"
 
 translate chinese strings:
 

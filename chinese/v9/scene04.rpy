@@ -88,7 +88,7 @@ translate chinese v9_dream_wolves_388a6938:
 translate chinese v9_dream_wolves_3f9a49b1:
 
     # ch "Who do you wanna fight [name]? Ryan or Caleb?"
-    ch "你想和谁打[name]？瑞恩还是凯勒？"
+    ch "你想和谁打，[name]？瑞恩还是凯勒？"
 
 # game/v9/scene04.rpy:178
 translate chinese v9_dream_wolves_aa8042d4:
@@ -100,7 +100,7 @@ translate chinese v9_dream_wolves_aa8042d4:
 translate chinese v9_dream_wolves_9e03b250:
 
     # ch "Man, you call that a punch?"
-    ch "伙计，你这叫一拳？"
+    ch "伙计，你管这叫一拳？"
 
 # game/v9/scene04.rpy:207
 translate chinese v9_dream_wolves_d42ac66f:
@@ -112,7 +112,7 @@ translate chinese v9_dream_wolves_d42ac66f:
 translate chinese v9_dream_wolves_581b0a50:
 
     # ch "I told you guys we shouldn't have let him into the Wolves. He's gonna lose the whole thing for us."
-    ch "我告诉过你们我们不该让他进狼队。他会让我们失去一切的。"
+    ch "我告诉过你们我们不该让他进狼人的。他会让我们失去一切。"
 
 # game/v9/scene04.rpy:232
 translate chinese v9_dream_wolves_94bc228c:
@@ -124,7 +124,7 @@ translate chinese v9_dream_wolves_94bc228c:
 translate chinese v9_dream_wolves_9e03b250_1:
 
     # ch "Man, you call that a punch?"
-    ch "伙计，你这叫一拳？"
+    ch "伙计，你管这叫一拳？"
 
 # game/v9/scene04.rpy:261
 translate chinese v9_dream_wolves_d42ac66f_1:
@@ -136,7 +136,7 @@ translate chinese v9_dream_wolves_d42ac66f_1:
 translate chinese v9_dream_wolves_581b0a50_1:
 
     # ch "I told you guys we shouldn't have let him into the Wolves. He's gonna lose the whole thing for us."
-    ch "我告诉过你们我们不该让他进狼队。他会让我们失去一切的。"
+    ch "我告诉过你们我们不该让他进狼人的。他会让我们失去一切。"
 
 # game/v9/scene04.rpy:283
 translate chinese v9_dream_wolves_38abafaf:
@@ -148,7 +148,7 @@ translate chinese v9_dream_wolves_38abafaf:
 translate chinese v9_dream_wolves_ce44d44e:
 
     # u "(Fuck! Let's turn this mess around, [name]!)"
-    u "(他妈的！让我们扭转局面，[name]！)"
+    u "(该死的！让我们扭转局面，[name]！)"
 
 # game/v9/scene04.rpy:297
 translate chinese v9_dream_wolves_5166d29a:
@@ -172,7 +172,7 @@ translate chinese v9_dream_wolves_27737a0a:
 translate chinese v9_dream_wolves_cbfd6610:
 
     # la "You risked our relationship to join a fighting frat and you aren't even GOOD at it? What the hell?"
-    la "你拿我们的关系冒险加入了一个格斗兄弟会而你却一点都不给力？搞什么鬼？"
+    la "你拿我们的关系冒险加入了一个格斗兄弟会而你却一点儿也不给力？搞什么鬼？"
 
 # game/v9/scene04.rpy:311
 translate chinese v9_dream_wolves_5944bfd1:
@@ -250,7 +250,7 @@ translate chinese v9_dream_apes_65f98d87:
 translate chinese v9_dream_apes_551c4506:
 
     # gr "Man, you call that a punch?"
-    gr "伙计，你这叫一拳？"
+    gr "伙计，你管这叫一拳？"
 
 # game/v9/scene04.rpy:453
 translate chinese v9_dream_apes_525c2ae1:
@@ -262,7 +262,7 @@ translate chinese v9_dream_apes_525c2ae1:
 translate chinese v9_dream_apes_18b663da:
 
     # gr "I made a huge mistake letting this guy into the Apes. He's gonna lose the whole thing for us."
-    gr "我犯了一个巨大的错误让这家伙进入猿人。他会让我们失去一切的。"
+    gr "我犯了一个巨大的错误让这家伙进入猿人的。他会让我们失去一切。"
 
 # game/v9/scene04.rpy:478
 translate chinese v9_dream_apes_76e839c7:
@@ -274,7 +274,7 @@ translate chinese v9_dream_apes_76e839c7:
 translate chinese v9_dream_apes_551c4506_1:
 
     # gr "Man, you call that a punch?"
-    gr "伙计，你这叫一拳？"
+    gr "伙计，你管这叫一拳？"
 
 # game/v9/scene04.rpy:507
 translate chinese v9_dream_apes_525c2ae1_1:
@@ -286,7 +286,7 @@ translate chinese v9_dream_apes_525c2ae1_1:
 translate chinese v9_dream_apes_18b663da_1:
 
     # gr "I made a huge mistake letting this guy into the Apes. He's gonna lose the whole thing for us."
-    gr "我犯了一个巨大的错误让这家伙进入猿人。他会让我们失去一切的。"
+    gr "我犯了一个巨大的错误让这家伙进入猿人的。他会让我们失去一切。"
 
 # game/v9/scene04.rpy:529
 translate chinese v9_dream_apes_26c66330:
@@ -298,7 +298,7 @@ translate chinese v9_dream_apes_26c66330:
 translate chinese v9_dream_apes_ce44d44e:
 
     # u "(Fuck! Let's turn this mess around, [name]!)"
-    u "(他妈的!让我们扭转局面，[name]！)"
+    u "(该死的！让我们扭转局面，[name]！)"
 
 # game/v9/scene04.rpy:543
 translate chinese v9_dream_apes_5166d29a:
@@ -322,7 +322,7 @@ translate chinese v9_dream_apes_27737a0a:
 translate chinese v9_dream_apes_cbfd6610:
 
     # la "You risked our relationship to join a fighting frat and you aren't even GOOD at it? What the hell?"
-    la "你拿我们的关系冒险加入了一个格斗兄弟会而你却一点都给力？搞什么鬼？"
+    la "你拿我们的关系冒险加入了一个格斗兄弟会而你却一点儿也不给力？搞什么鬼？"
 
 # game/v9/scene04.rpy:557
 translate chinese v9_dream_apes_5944bfd1:

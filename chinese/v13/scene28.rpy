@@ -94,7 +94,7 @@ translate chinese v13s28_34b27eae:
 translate chinese v13s28_598925f4:
 
     # u "Ow, fuck! Okay... Fine, I'll go."
-    u "哦，他妈的！好的……好的，我会去的。"
+    u "噢，他妈的！好的……好的，我会去的。"
 
 # game/v13/scene28.rpy:107
 translate chinese v13s28_6a769d94:
@@ -130,7 +130,7 @@ translate chinese v13s28_76a4c903:
 translate chinese v13s28_396d7a60:
 
     # sa "Oooh! Can I come?"
-    sa "哦哦！我能一起去吗？"
+    sa "噢噢！我能一起去吗？"
 
 # game/v13/scene28.rpy:153
 translate chinese v13s28_ad84a2c7:

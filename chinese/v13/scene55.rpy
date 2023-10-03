@@ -40,7 +40,7 @@ translate chinese v13s55_c1447015:
 translate chinese v13s55_b3cf64ae:
 
     # u "Oh, I was thinking it was Teacher Appreciation Week or something. *Chuckles*"
-    u "哦，我在想今天是教师感恩周什么的。 *咯咯笑*"
+    u "噢，我在想今天是教师感恩周什么的。 *咯咯笑*"
 
 # game/v13/scene55.rpy:59
 translate chinese v13s55_17038a66:

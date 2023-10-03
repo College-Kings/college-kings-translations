@@ -16,13 +16,13 @@ translate chinese v8_tues_eco_class_d2a68984:
 translate chinese v8_tues_eco_class_ff1faec1:
 
     # u "(It's too early for this stuff.)"
-    u "(对这些东西来说还为时过早。)"
+    u "(这些东西对我来说还为时尚早。)"
 
 # game/v8/scene31.rpy:37
 translate chinese v8_tues_eco_class_647d7e66:
 
     # u "They look great!"
-    u "它们看起来很棒！"
+    u "它们看起来很棒啊！"
 
 # game/v8/scene31.rpy:42
 translate chinese v8_tues_eco_class_4657345f:
@@ -172,7 +172,7 @@ translate chinese tec_cool_ryan_a4b90322:
 translate chinese tec_cool_ryan_8963a1af:
 
     # ry "Shit, my parents, too!"
-    ry "妈的，我父母也是！"
+    ry "该死的，我父母也是！"
 
 # game/v8/scene31.rpy:181
 translate chinese tec_cont_2bf6cb2b:
@@ -184,7 +184,7 @@ translate chinese tec_cont_2bf6cb2b:
 translate chinese tec_cont_47fc7cae:
 
     # la "Babe, you're gonna get me started."
-    la "宝贝，你要让我开始了。"
+    la "宝贝儿，你要让我开始了。"
 
 # game/v8/scene31.rpy:197
 translate chinese tec_cont_f07f4de4:
@@ -232,7 +232,7 @@ translate chinese no_fl_w_lau_800cd5a8:
 translate chinese no_fl_w_lau_98b32f33:
 
     # la "Probably the person who picked your schedule... oh wait, that's you."
-    la "可能是为你安排日程的人……哦，等等，就是你。"
+    la "可能是为你安排日程的人……噢，等等，就是你。"
 
 # game/v8/scene31.rpy:251
 translate chinese no_fl_w_lau_474af146:
@@ -244,7 +244,7 @@ translate chinese no_fl_w_lau_474af146:
 translate chinese no_fl_w_lau_bfdf03c0:
 
     # la "You're impossible."
-    la "你是不可能的。"
+    la "你真不可思议。"
 
 # game/v8/scene31.rpy:261
 translate chinese no_fl_w_lau_064ca143:
@@ -256,7 +256,7 @@ translate chinese no_fl_w_lau_064ca143:
 translate chinese no_fl_w_lau_31e33bad:
 
     # u "(Shit!)"
-    u "(妈的！)"
+    u "(该死的！)"
 
 # game/v8/scene31.rpy:275
 translate chinese tec_lau_off_a1789416:
@@ -280,7 +280,7 @@ translate chinese tec_lau_off_2439ae81:
 translate chinese tec_end_time_8bac4f47:
 
     # ro "Who wants to tell the class what they know about the free market?"
-    ro "谁想告诉全班同学他们对自由市场的了解？"
+    ro "谁想告诉全班同学他对自由市场的了解？"
 
 translate chinese strings:
 

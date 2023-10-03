@@ -76,7 +76,7 @@ translate chinese v12_mc_chilling_1924254e:
 translate chinese v12_mc_chilling_53066e7c:
 
     # sa "*Drunk* Ohhhhh, that must be why that guy was yelling at me to leave him alone. I thought it was Ryan... *Chuckles*"
-    sa " *醉醺醺* 哦，那一定是那个家伙冲我大喊让我离他远点的原因。我还以为是瑞恩…… *咯咯笑* "
+    sa " *醉醺醺* 噢，那一定是那个家伙冲我大喊让我离他远点的原因。我还以为是瑞恩…… *咯咯笑* "
 
 # game/v12/scene23a.rpy:121
 translate chinese v12_mc_chilling_feb167d6:
@@ -196,7 +196,7 @@ translate chinese v12_mc_chilling_448dc203:
 translate chinese v12_mc_chilling_13837e21:
 
     # sa "*Drunk* I just want someone to really like me. Someone that's strong and can protect me... Oh, and he has to be able to beat up my brother!"
-    sa " *醉醺醺* 我只是希望有人真的喜欢我。一个坚强的能保护我的人。哦，他必须能打得过我哥哥！"
+    sa " *醉醺醺* 我只是希望有人真的喜欢我。一个坚强的能保护我的人。噢，他必须能打得过我哥哥！"
 
 # game/v12/scene23a.rpy:236
 translate chinese v12_mc_chilling_4ad42dbb:

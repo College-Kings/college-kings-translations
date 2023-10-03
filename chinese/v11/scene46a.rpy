@@ -112,7 +112,7 @@ translate chinese v11_dinner_with_aubrey_abfd2c4b:
 translate chinese v11_dinner_with_aubrey_0f6f638c:
 
     # au "Oh, it will be. Hopefully we make it in time because I really think you'll like my sister. *Chuckles*"
-    au "哦，会的。希望我们能及时赶到因为我真的觉得你会喜欢我姐姐的。 *咯咯笑*"
+    au "噢，会的。希望我们能及时赶到因为我真的觉得你会喜欢我姐姐的。 *咯咯笑*"
 
 # game/v11/scene46a.rpy:92
 translate chinese v11_dinner_with_aubrey_0f897776:
@@ -262,7 +262,7 @@ translate chinese v11_dinner_with_aubrey_5780a348:
 translate chinese v11_dinner_with_aubrey_a6824267:
 
     # au "I've decided then, you're officially a good guy. *Chuckles* I might have gone with lame if you had said no to me."
-    au "我已经想好了，你是个真正的好人。*咯咯笑*如果你对我说不，我可能会选择人渣。"
+    au "我已经想好了，你是个真正的好人。 *咯咯笑* 如果你对我说不，我可能会选择人渣。"
 
 # game/v11/scene46a.rpy:222
 translate chinese v11_dinner_with_aubrey_fcc18885:
@@ -382,7 +382,7 @@ translate chinese v11_dinner_with_aubrey_0b7ae946:
 translate chinese v11_dinner_with_aubrey_a447f959:
 
     # au "Oh shit, you're actually being serious. Well, like I said, I'm not interested in being tied down right now. I enjoy being a free bird, [name]."
-    au "哦，该死，你真的是认真的。嗯，就像我说的，我现在还不想被束缚。我喜欢做一只自由的鸟，[name]。"
+    au "噢，该死，你真的是认真的。嗯，就像我说的，我现在还不想被束缚。我喜欢做一只自由的鸟，[name]。"
 
 # game/v11/scene46a.rpy:324
 translate chinese v11_dinner_with_aubrey_3ba9d021:
@@ -442,7 +442,7 @@ translate chinese v11_dinner_with_aubrey_732aec6b:
 translate chinese v11_dinner_with_aubrey_df738278:
 
     # au "Oh, look! The food's coming out."
-    au "哦，看啊！美食要来了。"
+    au "噢，看啊！美食要来了。"
 
 # game/v11/scene46a.rpy:375
 translate chinese v11_dinner_with_aubrey_bdba322c:
@@ -454,7 +454,7 @@ translate chinese v11_dinner_with_aubrey_bdba322c:
 translate chinese v11_dinner_with_aubrey_a3c41af6:
 
     # au "Oh yeah, Pimp Daddy-I mean... Mr. Lee, ordered for everybody. *Chuckles*"
-    au "哦，好吧，皮条客爸爸-我是说……李先生，已经给大家伙儿点了菜。 *咯咯笑*"
+    au "噢，好吧，皮条客爸爸-我是说……李先生，已经给大家伙儿点了菜。 *咯咯笑*"
 
 # game/v11/scene46a.rpy:385
 translate chinese v11_dinner_with_aubrey_8f19957e:

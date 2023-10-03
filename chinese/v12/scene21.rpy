@@ -22,7 +22,7 @@ translate chinese v12_nora_exploring_def17e47:
 translate chinese v12_nora_exploring_b2f76836:
 
     # no "Oh shit, you don't mind me taking my top off do you? Sorry..."
-    no "哦，妈的，你不介意我把上衣脱了吧？抱歉……"
+    no "噢，妈的，你不介意我把上衣脱了吧？抱歉……"
 
 # game/v12/scene21.rpy:59
 translate chinese v12_nora_exploring_12b978c3:
@@ -310,7 +310,7 @@ translate chinese v12_nora_exploring_5d393d6e:
 translate chinese v12_nora_exploring_a69b8ecb:
 
     # no "Oh- no! Th-That won't be necessary. *Chuckles*"
-    no "哦-不！那-那就没必要了。 *咯咯笑* "
+    no "噢-不！那-那就没必要了。 *咯咯笑* "
 
 # game/v12/scene21.rpy:314
 translate chinese v12_nora_exploring_6c76e2d6:
@@ -322,7 +322,7 @@ translate chinese v12_nora_exploring_6c76e2d6:
 translate chinese v12_nora_exploring_9e671536:
 
     # u "*Whisper* Oooo, I think you made her angry. You just gonna let her talk to you like that?"
-    u " *低语* 哦，我想你让她生气了。你就让她那样跟你说话吗？"
+    u " *低语* 噢，我想你让她生气了。你就让她那样跟你说话吗？"
 
 # game/v12/scene21.rpy:326
 translate chinese v12_nora_exploring_4bf45e0c:
@@ -466,7 +466,7 @@ translate chinese v12_nora_exploring_f77b7d67:
 translate chinese v12_nora_exploring_739a82fc:
 
     # au "*Chuckles* Oh no... What happened?"
-    au " *咯咯笑* 哦，不……发生了什么？"
+    au " *咯咯笑* 噢，不……发生了什么？"
 
 # game/v12/scene21.rpy:493
 translate chinese v12_nora_exploring_37ab3787:

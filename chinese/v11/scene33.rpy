@@ -154,7 +154,7 @@ translate chinese v11_bar_chloe_and_aubrey_bdcf6f0c:
 translate chinese v11_bar_chloe_and_aubrey_5977bbdb:
 
     # au "Well, he failed me my first year. I was a terrible student, but I was so pissed when he failed me. He was doing the whole pass or no pass thing and I missed passing by one assignment."
-    au "第一年他让我不及格。我是个很糟糕的学生，但当他让我不及格时，我很生气。他一直在做及格还是不及格的事情，我挂着一个学科呢。"
+    au "第一年他让我不及格。我是个很糟糕的学生，但当他让我不及格时，我很生气。他一直在做及格还是不及格的事情，我还挂着一科呢。"
 
 # game/v11/scene33.rpy:167
 translate chinese v11_bar_chloe_and_aubrey_fac207d0:
@@ -178,7 +178,7 @@ translate chinese v11_bar_chloe_and_aubrey_926e75af:
 translate chinese v11_bar_chloe_and_aubrey_3416d242:
 
     # u "Haha, later Aubrey."
-    u "哈哈，回见奥布里。"
+    u "哈哈，回见，奥布里。"
 
 # game/v11/scene33.rpy:197
 translate chinese v11_bar_chloe_and_aubrey_8dcda98e:

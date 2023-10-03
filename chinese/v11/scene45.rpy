@@ -100,7 +100,7 @@ translate chinese v11_lobby_mrlee_37a5d34c:
 translate chinese v11_lobby_mrlee_7033ab24:
 
     # lee "Tonight, we celebrate the experiences we've had so far and the fact that you're all legally allowed to drink here. *Chuckles* Please drink responsibly."
-    lee "今晚，我们庆祝我们迄今为止的经历以及你们都可以合法在这里喝酒的事实。*咯咯笑* 大家适度饮酒。"
+    lee "今晚，我们庆祝我们迄今为止的经历以及你们都可以合法地在这里喝酒的事实。*咯咯笑* 大家适度饮酒。"
 
 # game/v11/scene45.rpy:91
 translate chinese v11_lobby_mrlee_5790a066:
@@ -154,7 +154,7 @@ translate chinese v11_lobby_mrlee_9c004e59:
 translate chinese v11_lobby_mrlee_bd043fbf:
 
     # au "It is now."
-    au "现在是了。"
+    au "现在有了。"
 
 # game/v11/scene45.rpy:164
 translate chinese v11_lobby_mrlee_5f657464:

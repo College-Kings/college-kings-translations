@@ -16,13 +16,13 @@ translate chinese drive_to_lake_b9e23283:
 translate chinese drive_to_lake_c25b7d4a:
 
     # au "Says who? There's gonna be at least one babe swimming in there."
-    au "谁说的？至少会有一个宝贝在里面游泳。"
+    au "谁说的？至少会有一个宝贝儿在里面游泳。"
 
 # game/v9/scene06.rpy:29
 translate chinese drive_to_lake_a045aab7:
 
     # ry "Like I was saying, the lake is the best you guys!"
-    ry "就像我说的，湖是最好的你们！"
+    ry "就像我说的，湖和美女最般配哟！"
 
 # game/v9/scene06.rpy:34
 translate chinese drive_to_lake_1bcbbff8:
@@ -40,7 +40,7 @@ translate chinese drive_to_lake_cf17ff7b:
 translate chinese drive_to_lake_04c961dd:
 
     # au "Far enough for us to play a car game or two, for sure."
-    au "足够我们玩一两个汽车游戏，当然。"
+    au "足够我们玩一两个汽车游戏了，确定。"
 
 # game/v9/scene06.rpy:49
 translate chinese drive_to_lake_c43b9497:
@@ -52,7 +52,7 @@ translate chinese drive_to_lake_c43b9497:
 translate chinese drive_to_lake_b7b1b474:
 
     # ri "You wish, Ryan. Don't be such a perv and tell us what do you spy with your little eye..."
-    ri "你希望吧，瑞恩。别这么变态，告诉我们你用你的小眼睛在窥探什么……"
+    ri "你就想吧，瑞恩。别这么变态，告诉我们你用你的小眼睛在窥探什么……"
 
 # game/v9/scene06.rpy:59
 translate chinese drive_to_lake_eb440070:
@@ -64,7 +64,7 @@ translate chinese drive_to_lake_eb440070:
 translate chinese drive_to_lake_4d317b68:
 
     # ry "Oh yeah? Wouldn't want to worry you, ladies, but I was sort of an \"I Spy\" champion back in the day."
-    ry "哦，是吗？我不想让你们担心，女士们，但我曾经是\"我是间谍\"的冠军。"
+    ry "噢，是吗？我不想让你们担心，女士们，但我曾经是\"我是间谍\"的冠军。"
 
 # game/v9/scene06.rpy:69
 translate chinese drive_to_lake_d91f55af:
@@ -82,7 +82,7 @@ translate chinese drive_to_lake_36d6cad7:
 translate chinese drive_to_lake_aa406ab3:
 
     # ri "Oh that's easy! It's Aubrey's bikini."
-    ri "哦，那很容易！是奥布里的比基尼。"
+    ri "噢，那很容易！是奥布里的比基尼。"
 
 # game/v9/scene06.rpy:84
 translate chinese drive_to_lake_4b17622d:
@@ -208,7 +208,7 @@ translate chinese drive_to_lake_051d47c2:
 translate chinese drive_to_lake_9d9df2fc:
 
     # u "Haha, not at all."
-    u "哈哈，一点也不。"
+    u "哈哈，一点儿也不。"
 
 # game/v9/scene06.rpy:189
 translate chinese drive_to_lake_ea71f966:
@@ -316,13 +316,13 @@ translate chinese drive_to_lake_0f027cdd:
 translate chinese drive_to_lake_efd07225:
 
     # u "Hahah, oh c'mon Ryan, we're just messing a bit with you."
-    u "哈哈，哦，来吧，瑞恩，我们只是在耍你。"
+    u "哈哈，噢，来吧，瑞恩，我们只是在耍你。"
 
 # game/v9/scene06.rpy:279
 translate chinese drive_to_lake_265159ee:
 
     # ry "Words can't touch this Ape."
-    ry "言语无法触及这只猿猴。"
+    ry "言语无法触及这只猿人。"
 
 # game/v9/scene06.rpy:284
 translate chinese drive_to_lake_abbeb330:
@@ -370,7 +370,7 @@ translate chinese dtl_cont1_06706f7c:
 translate chinese dtl_cont1_ea38f33b:
 
     # ri "Not at all."
-    ri "一点也不。"
+    ri "一点儿也不。"
 
 # game/v9/scene06.rpy:336
 translate chinese dtl_cont1_223c4970:
@@ -430,7 +430,7 @@ translate chinese dtl_cont1_71f466e7:
 translate chinese dtl_cont1_f92ab4c9:
 
     # ri "99%% no, 100%% hell no."
-    ri "99%不是，100%真不是。"
+    ri "99%%不是，100%%真不是。"
 
 # game/v9/scene06.rpy:386
 translate chinese dtl_cont1_43b696e6:

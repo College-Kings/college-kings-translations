@@ -58,7 +58,7 @@ translate chinese strings:
 
     # game/v8/scene25.rpy:41
     old "At least you can read! I just found out I need glasses!"
-    new "至少你能识字！我刚发现我需要眼镜！"
+    new "至少你能看得见字！我刚发现我需要眼镜！"
 
     # game/v8/scene25.rpy:42
     old "I think you'd look cute in glasses."
@@ -74,7 +74,7 @@ translate chinese strings:
 
     # game/v8/scene25.rpy:45
     old "Just down the road from the gym on the right hand side of the road"
-    new "就在右手边的健身房"
+    new "就在健身房路口的右边"
 
     # game/v8/scene25.rpy:46
     old "Cool will meet you both there"

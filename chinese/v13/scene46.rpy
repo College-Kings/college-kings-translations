@@ -70,7 +70,7 @@ translate chinese v13s46_6d8a9db3:
 translate chinese v13s46_9590c2c3:
 
     # u "Oh, I see... You're really into the outdoors, huh?"
-    u "哦，我明白了……你真的很喜欢户外活动，是吗？"
+    u "噢，我明白了……你真的很喜欢户外活动，是吗？"
 
 # game/v13/scene46.rpy:86
 translate chinese v13s46_92983d6b:
@@ -208,7 +208,7 @@ translate chinese v13s46_2f1a878b:
 translate chinese v13s46_67b4d6ff:
 
     # la "*Whispers* Oh my gosh, [name]! Walk over here already, would you?"
-    la "*低语* 哦，我的天啊，[name]！你已经过来了，嗯？"
+    la "*低语* 噢，我的天啊，[name]！你已经过来了，嗯？"
 
 # game/v13/scene46.rpy:221
 translate chinese v13s46_57ae9944:
@@ -358,7 +358,7 @@ translate chinese v13s46_cf2750ab:
 translate chinese v13s46_01c8267a:
 
     # la "*Laughs* Oh my gosh, stop."
-    la "*笑* 哦，天呐，停下来。"
+    la "*笑* 噢，天呐，停下来。"
 
 # game/v13/scene46.rpy:361
 translate chinese v13s46_148c55f5:
@@ -376,7 +376,7 @@ translate chinese v13s46_e1fc3ae5:
 translate chinese v13s46_01c8267a_1:
 
     # la "*Laughs* Oh my gosh, stop."
-    la "*笑* 哦，天呐，停下来。"
+    la "*笑* 噢，天呐，停下来。"
 
 # game/v13/scene46.rpy:376
 translate chinese v13s46_78852a41:
@@ -484,7 +484,7 @@ translate chinese v13s46_46ef2f64:
 translate chinese v13s46_3d2e79ce:
 
     # la "Oh, come on! I was just curious.*Chuckles*"
-    la "哦，没有！我只是好奇。 *咯咯笑*"
+    la "噢，没有！我只是好奇。 *咯咯笑*"
 
 # game/v13/scene46.rpy:513
 translate chinese v13s46_9d0f3288:

@@ -4,7 +4,7 @@
 translate chinese v13s27_f39f4c96:
 
     # u "Wow... Perfect timing, who is it this time?"
-    u "哇哦……来得正是时候，这次是谁？"
+    u "哇噢……来得正是时候，这次是谁？"
 
 # game/v13/scene27.rpy:32
 translate chinese v13s27_PhoneContinueAmber_88d710ce:
@@ -34,5 +34,5 @@ translate chinese v13s27_PhoneContinueAmber_c1ba7e32:
 translate chinese v13s27_PhoneContinueAmber_c74c29f0:
 
     # u "*Chuckles* (Oh well.)"
-    u " *咯咯笑* (哦，好吧。)"
+    u " *咯咯笑* (噢，好吧。)"
 

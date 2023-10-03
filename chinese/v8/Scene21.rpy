@@ -4,13 +4,13 @@
 translate chinese mon_morning_room_f6ccce84:
 
     # u "(I gotta go talk to the dean today about Penelope. I better get ready)"
-    u "(我今天得去和院长谈谈佩内洛普的事。我得准备一下。)"
+    u "(我今天得去和院长谈谈佩内洛普的事儿。我得准备一下。)"
 
 # game/v8/Scene21.rpy:27
 translate chinese mon_morning_room_f6ccce84_1:
 
     # u "(I gotta go talk to the dean today about Penelope. I better get ready)"
-    u "(我今天得去和院长谈谈佩内洛普的事。我得准备一下。)"
+    u "(我今天得去和院长谈谈佩内洛普的事儿。我得准备一下。)"
 
 # game/v8/Scene21.rpy:42
 translate chinese walk_to_dean_948cf0a5:
@@ -46,13 +46,13 @@ translate chinese walk_to_dean_2f876c44:
 translate chinese walk_to_dean_3d1245c3:
 
     # u "Good morning Mrs. Harrison. My name is [name]. Might I have a-a minute of your time?"
-    u "早上好，哈里森太太。我叫[name]。能占用您一分钟时间吗？"
+    u "早上好，哈里森夫人。我叫[name]。能占用您一分钟时间吗？"
 
 # game/v8/Scene21.rpy:65
 translate chinese walk_to_dean_90a5a797:
 
     # u "(Fuck, I'm nervous.)"
-    u "(操，我很紧张。)"
+    u "(该死的，我很紧张。)"
 
 # game/v8/Scene21.rpy:70
 translate chinese walk_to_dean_1a70ea0d:
@@ -70,7 +70,7 @@ translate chinese walk_to_dean_0e0c7cfe:
 translate chinese walk_to_dean_de6dd52e:
 
     # u "Well ma'am, I am here on behalf of a friend who is in a bit of trouble."
-    u "嗯，女士，我是代表一个遇到麻烦的朋友来的。"
+    u "嗯，夫人，我是代表一个遇到麻烦的朋友来的。"
 
 # game/v8/Scene21.rpy:95
 translate chinese walk_to_dean_b30b9eb5:
@@ -82,7 +82,7 @@ translate chinese walk_to_dean_b30b9eb5:
 translate chinese walk_to_dean_fa11ffa5:
 
     # u "Oh, yes ma'am. Her name is Penelope. I'm sure you know who she is?"
-    u "哦，是的，女士。她叫佩内洛普。你肯定知道她是谁？"
+    u "噢，是的，夫人。她叫佩内洛普。您肯定知道她是谁？"
 
 # game/v8/Scene21.rpy:105
 translate chinese walk_to_dean_4b0800fb:
@@ -94,25 +94,25 @@ translate chinese walk_to_dean_4b0800fb:
 translate chinese walk_to_dean_ae3c8e44:
 
     # u "Yes ma'am, I'm aware of that."
-    u "是的，女士，我知道。"
+    u "是的，夫人，恐怕是有点儿麻烦。"
 
 # game/v8/Scene21.rpy:115
 translate chinese walk_to_dean_9448dded:
 
     # de "And you came here to ask if I can drop the charges?"
-    de "你是来问我能不能撤销指控的？"
+    de "你是来问我能不能撤销指控？"
 
 # game/v8/Scene21.rpy:120
 translate chinese walk_to_dean_2d1cf0c9:
 
     # u "Well ma'am, that would be great but I know that won't happen. I just came here to..."
-    u "好吧，女士，那太好了，但我知道这不会发生。我只是来这里……"
+    u "好吧，夫人，如果那样就太好了，但我知道这不会发生的。我只是来这里……"
 
 # game/v8/Scene21.rpy:125
 translate chinese walk_to_dean_65fc82ce:
 
     # de "Let me spare you the effort. We cannot drop the charges, you understand? If we do, how does that make us look? We'd be encouraging that kind of behavior in others..."
-    de "让我给你省点力气吧。我们不能撤销指控，明白吗？如果我们这样做了，那我们看起来怎么样？我们会鼓励其他人的这种行为……"
+    de "让我给你省点儿力气吧。我们不能撤销指控，明白吗？如果我们这样做了，那我们看起来怎么样？我们会鼓励其他人的这种行为……"
 
 # game/v8/Scene21.rpy:127
 translate chinese walk_to_dean_ed21aa81:
@@ -124,7 +124,7 @@ translate chinese walk_to_dean_ed21aa81:
 translate chinese walk_to_dean_12a20cac:
 
     # u "No ma'am, not at all, but I would like..."
-    u "不，女士，一点也不，但我想……"
+    u "不，夫人，一点儿也不，但我想……"
 
 # game/v8/Scene21.rpy:137
 translate chinese walk_to_dean_cb7ebc4a:
@@ -142,7 +142,7 @@ translate chinese walk_to_dean_87302e95:
 translate chinese walk_to_dean_0bf0ec30:
 
     # u "Ma'am, I am asking you to understand that not everyone is perfect, that we all make mistakes. I am asking that you be lenient with her. She did what she did from a good place. From her heart."
-    u "女士，我希望您能明白不是每个人都是完美的，我们都会犯错。我请求您对她宽大处理。她这么做是出于好意。发自内心。"
+    u "夫人，我希望您能明白不是每个人都是完美的，我们都会犯错。我请求您对她宽大处理。她这么做是出于好意。发自内心的。"
 
 # game/v8/Scene21.rpy:149
 translate chinese walk_to_dean_fcfc734c:
@@ -154,7 +154,7 @@ translate chinese walk_to_dean_fcfc734c:
 translate chinese walk_to_dean_eb1db66d:
 
     # de "You know, you remind me of me back in my time here. Your coming here was ill-advised and I doubt the Disciplinary Committee will change their minds..."
-    de "你让我想起了我在这里的日子。你来这里是不明智的，我怀疑纪律委员会不会改变他们的想法……"
+    de "你让我想起了我曾在这里的日子。你来这里是不明智的，我猜纪律委员会是不会改变他们的想法的……"
 
 # game/v8/Scene21.rpy:159
 translate chinese walk_to_dean_5df5cafc:
@@ -166,25 +166,25 @@ translate chinese walk_to_dean_5df5cafc:
 translate chinese walk_to_dean_8a7c48a3:
 
     # de "I will take what you said under advisement and relay my own thoughts on the matter to the Disciplinary Committee. Will that be satisfactory, [name]?"
-    de "我将考虑你所说的话，并把我对此事的想法转达给纪律委员会。这会令你满意吗，[name]？"
+    de "我将考虑你所说的话，并把我对此事的想法转达给纪律委员会。这能令你满意吗，[name]？"
 
 # game/v8/Scene21.rpy:166
 translate chinese walk_to_dean_5a1e01f4:
 
     # u "Yes ma'am. Thank you. I appreciate this."
-    u "是的，女士。谢谢你。我很感激。"
+    u "是的，夫人。谢谢您。我很感激。"
 
 # game/v8/Scene21.rpy:171
 translate chinese walk_to_dean_e4beb4a7:
 
     # de "Well, I must be getting on. Lots to do today, and I'm sure you have studying to do?"
-    de "好了，我得继续了。今天有很多事要做，你肯定有学习要做吧？"
+    de "好了，我得继续忙了。今天还有很多事要做，你肯定有功课要学吧？"
 
 # game/v8/Scene21.rpy:176
 translate chinese walk_to_dean_2b1b612d:
 
     # u "Yes ma'am, I do."
-    u "是的，女士，我有。"
+    u "是的，夫人，我的确有。"
 
 # game/v8/Scene21.rpy:181
 translate chinese walk_to_dean_220dbcb7:
@@ -196,13 +196,13 @@ translate chinese walk_to_dean_220dbcb7:
 translate chinese walk_to_dean_3e3f19e2:
 
     # u "Thank you for your time ma'am."
-    u "谢谢您抽出时间，女士。"
+    u "谢谢您抽出时间，夫人。"
 
 # game/v8/Scene21.rpy:196
 translate chinese walk_to_dean_5871d0fc:
 
     # de "Oh, and [name]?"
-    de "哦，还有[name]？"
+    de "噢，还有，[name]？"
 
 # game/v8/Scene21.rpy:201
 translate chinese walk_to_dean_918ec190:
@@ -220,13 +220,13 @@ translate chinese walk_to_dean_f45cd28c:
 translate chinese walk_to_dean_860b8fcb:
 
     # u "Yes ma'am. Completely. Thank you."
-    u "是的，女士。我保证。谢谢你。"
+    u "好的，夫人。我保证。谢谢您。"
 
 # game/v8/Scene21.rpy:216
 translate chinese walk_to_dean_8482e119:
 
     # de "Good day, [name]."
-    de "祝你好运, [name]。"
+    de "祝你好运，[name]。"
 
 # game/v8/Scene21.rpy:221
 translate chinese walk_to_dean_6fc6551d:

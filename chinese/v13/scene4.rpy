@@ -16,7 +16,7 @@ translate chinese v13s4_9ef20482:
 translate chinese v13s4_8edf0835:
 
     # ri "You don't even have to ask... *Chuckles*"
-    ri "你甚至不用问…… *咯咯笑* "
+    ri "还用问吗…… *咯咯笑* "
 
 # game/v13/scene4.rpy:52
 translate chinese v13s4_645262a4:

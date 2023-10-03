@@ -16,7 +16,7 @@ translate chinese v11_chloe_bathroom_22f7c7a1:
 translate chinese v11_chloe_bathroom_358e58b2:
 
     # cl "*Whisper* Oh gosh..."
-    cl "*低语* 哦，天呐……"
+    cl "*低语* 噢，天呐……"
 
 # game/v11/scene41.rpy:30
 translate chinese v11_chloe_bathroom_8b81dc60:
@@ -172,7 +172,7 @@ translate chinese v11_chloe_bathroom_ec76a171:
 translate chinese v11_chloe_bathroom_951b33c6:
 
     # u "Oh... okay."
-    u "哦……好吧。"
+    u "噢……好吧。"
 
 # game/v11/scene41.rpy:289
 translate chinese v11_chloe_bathroom_41f237cc:
@@ -190,5 +190,5 @@ translate chinese strings:
 
     # game/v11/scene41.rpy:122
     old "Pull back"
-    new "拉回"
+    new "撤回"
 

@@ -478,7 +478,7 @@ translate chinese v12_roomate_talk_ef2f1671:
 translate chinese v12_roomate_talk_d5273e35:
 
     # ri "Sleep. Shut the light off and let me catch some Z's."
-    ri "睡觉吧。把灯关掉，让我打个盹。"
+    ri "睡觉吧。把灯关掉，让我打个盹儿。"
 
 # game/v12/scene4.rpy:499
 translate chinese v12_roomate_talk_7a4386e2:

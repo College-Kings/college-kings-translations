@@ -40,7 +40,7 @@ translate chinese v11_walk_park_c0b49acf:
 translate chinese v11_walk_park_09a9665e:
 
     # imre "Exhibit A of Ryan being a pussy. *Chuckles*"
-    imre "证据A表明瑞安是个娘们。 *咯咯笑*"
+    imre "证据A表明瑞恩是个娘们。 *咯咯笑*"
 
 # game/v11/scene37.rpy:60
 translate chinese v11_walk_park_4915cd3b:
@@ -202,5 +202,5 @@ translate chinese v11_walk_park_483f0897:
 translate chinese v11_walk_park_27a93b2d:
 
     # imre "Bro, shut the fuck up. How are we gonna get home?"
-    imre "兄弟，他妈的闭嘴。我们怎么回去呢？"
+    imre "兄弟，他妈地闭嘴。我们怎么回去呢？"
 

@@ -28,7 +28,7 @@ translate chinese v12_room_chloe_riley_1e845caa:
 translate chinese v12_room_chloe_riley_c33647aa:
 
     # u "Oh, I thought you'd enjoy being poor. *Chuckles* I was actually the one that suggested it to Mr. Lee."
-    u "哦，我以为你会喜欢贫穷的生活。 *咯咯笑* 实际上是我向李先生建议的。"
+    u "噢，我以为你会喜欢贫穷的生活。 *咯咯笑* 实际上是我向李先生建议的。"
 
 # game/v12/scene12.rpy:38
 translate chinese v12_room_chloe_riley_eea0ca00:
@@ -136,13 +136,13 @@ translate chinese v12_room_chloe_riley_36cba503:
 translate chinese v12_room_chloe_riley_21073d39:
 
     # u "Oh, would you look at that. The poor girl must be seeking warmth."
-    u "哦，你看看这个。这个贫穷的女孩一定是在寻找温暖。"
+    u "噢，你看看这个。这个贫穷的女孩一定是在寻找温暖。"
 
 # game/v12/scene12.rpy:175
 translate chinese v12_room_chloe_riley_6493a9f3:
 
     # cl "Oh, hush."
-    cl "哦，安静。"
+    cl "噢，安静。"
 
 # game/v12/scene12.rpy:180
 translate chinese v12_room_chloe_riley_8569c4fa:
@@ -250,7 +250,7 @@ translate chinese v12_room_chloe_riley_17935d73:
 translate chinese v12_room_chloe_riley_c55e299f:
 
     # u "Oh no, please. Don't let that shit get into your head."
-    u "哦，不，拜托。别让那混蛋进入你的头脑。"
+    u "噢，不，拜托。别让那混蛋进入你的头脑。"
 
 # game/v12/scene12.rpy:280
 translate chinese v12_room_chloe_riley_3a464622:

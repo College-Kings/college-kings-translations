@@ -148,7 +148,7 @@ translate chinese v12_amber_bus_6e64694f:
 translate chinese v12_amber_bus_5ac0a375:
 
     # u "Oh, now I'm getting it. You don't wanna be her teacher."
-    u "哦，现在我明白了。你不会想当她的老师的。"
+    u "噢，现在我明白了。你不会想当她的老师的。"
 
 # game/v12/scene10.rpy:162
 translate chinese v12_amber_bus_e684942f:

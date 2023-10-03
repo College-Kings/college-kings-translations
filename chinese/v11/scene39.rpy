@@ -166,7 +166,7 @@ translate chinese v11_mc_amber_gokart_62f5637c:
 translate chinese v11_mc_amber_gokart_51552b33:
 
     # clerk "Oh, I was just wondering. That's good. So you're um, single then?"
-    clerk "哦，我只是在想。那很好。那么你是单身了？"
+    clerk "噢，我只是在想。那很好。那么你是单身了？"
 
 # game/v11/scene39.rpy:169
 translate chinese v11_mc_amber_gokart_554b3d6c:
@@ -178,7 +178,7 @@ translate chinese v11_mc_amber_gokart_554b3d6c:
 translate chinese v11_mc_amber_gokart_f9d62472:
 
     # clerk "Oh, no reason... Just curious. But um, yeah, the track is closed. Although, maybe for a fine dime like you I'll get it up and running..."
-    clerk "哦，没有理由……只是好奇。但是，赛道关闭了。不过，也许像你这样花一毛钱，我就能把它弄起来……"
+    clerk "噢，没有理由……只是好奇。但是，赛道关闭了。不过，也许像你这样花一毛钱，我就能把它弄起来……"
 
 # game/v11/scene39.rpy:179
 translate chinese v11_mc_amber_gokart_baf8338a:
@@ -214,7 +214,7 @@ translate chinese v11_mc_amber_gokart_df9f7f45:
 translate chinese v11_mc_amber_gokart_de1242b4:
 
     # am "Oh... So, that's why you're broke? *Laughs*"
-    am "哦……所以，这就是你破产的原因？ *笑*"
+    am "噢……所以，这就是你破产的原因？ *笑*"
 
 # game/v11/scene39.rpy:214
 translate chinese v11_mc_amber_gokart_300e204a:
@@ -334,7 +334,7 @@ translate chinese v11_mc_amber_gokart_80b73785:
 translate chinese v11_mc_amber_gokart_17bec5ff:
 
     # am "Oh... Um, okay. *Chuckles*"
-    am "哦……嗯，好的。 *咯咯笑*"
+    am "噢……嗯，好的。 *咯咯笑*"
 
 # game/v11/scene39.rpy:324
 translate chinese v11_mc_amber_gokart_ea8e4469:
@@ -496,7 +496,7 @@ translate chinese v11_mc_amber_gokart_55340bef:
 translate chinese v11_mc_amber_gokart_ac02bbbb:
 
     # u "Oh you a freak, freak."
-    u "哦，你是个怪胎，怪胎。"
+    u "噢，你是个怪胎，怪胎。"
 
 # game/v11/scene39.rpy:479
 translate chinese v11_mc_amber_gokart_f644e50b:
@@ -682,7 +682,7 @@ translate chinese v11_race_continue1_b26fddd7:
 translate chinese v11_race_continue1_d506777e:
 
     # u "Oh, hey! Looks like we have company!"
-    u "哦，嘿！看来我们有客人了！"
+    u "噢，嘿！看来我们有客人了！"
 
 # game/v11/scene39.rpy:695
 translate chinese v11_race_continue1_780537f7:
@@ -718,7 +718,7 @@ translate chinese v11_race_continue1_26d918c3:
 translate chinese v11_race_continue1_71a6b328:
 
     # u "Oh, you must just really like Riley then..."
-    u "哦，那你一定很喜欢莱莉……"
+    u "噢，那你一定很喜欢莱莉……"
 
 # game/v11/scene39.rpy:730
 translate chinese v11_race_continue1_1c8acf17:

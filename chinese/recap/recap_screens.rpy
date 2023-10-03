@@ -20,7 +20,7 @@ translate chinese strings:
 
     # game/recap/recap_screens.rpy:222
     old "Click on a girl to change your decisions about her or click continue to start College Kings."
-    new "点击一个女孩来改变你对她的决定，或者点击继续来开始游戏"
+    new "点击一个女孩来改变你对她的决定，或者点击继续来开始游戏。"
 
     # game/recap/recap_screens.rpy:235
     old "Continue"
@@ -104,7 +104,7 @@ translate chinese strings:
 
     # game/recap/recap_screens.rpy:249
     old "Autumn is Lauren's older sister, and I got the impression that she was more of a long-term challenge if anything serious was ever going to develop between us. I had opportunities to spend some time with her though to start putting the work in, and to learn more about what makes her tick."
-    new "秋是劳伦的姐姐，我的印象是，除非我们之间有什么特别的事发生，否则她将是一个长期的挑战。不过，我仍有机会花些时间和她在一起，全力以赴，更多地了解她为什么会这样"
+    new "秋是劳伦的姐姐，我的印象是，除非我们之间有什么特别的事发生，否则她将是一个长期的挑战。不过，我仍有机会花些时间和她在一起，全力以赴，更多地了解她为什么会这样。"
 
     # game/recap/recap_screens.rpy:249
     old "April 15"
@@ -140,7 +140,7 @@ translate chinese strings:
 
     # game/recap/recap_screens.rpy:249
     old "Ms Rose is our economics teacher, and later I found out she's also Nora's stepmom! After fully expecting some crusty old professor type to be teaching us economics, I was pleasantly surprised to see her at the front of the class."
-    new "罗斯女士是我们的经济学老师，后来我发现她还是诺拉的继母!我原本以为会有个脾气暴躁的老教授来教我们经济学，但看到她站在教室前面，我感到很惊讶。"
+    new "罗斯女士是我们的经济学老师，后来我发现她还是诺拉的继母！我原本以为会有个脾气暴躁的老教授来教我们经济学，但看到她站在教室前面，我感到很惊讶。"
 
     # game/recap/recap_screens.rpy:249
     old "\n\nThe Wolves frat seemed to have way more contact with her, so if I was interested, joining that frat was the only way I'd have a chance of working my way into her affections, and her panties."
@@ -184,7 +184,7 @@ translate chinese strings:
 
     # game/recap/recap_screens.rpy:249
     old "Like Lauren, Riley has been in my life since my very first day on campus. She always seemed to be the girl making herself available for a chat, and was clearly someone I could dependent on, as well as fun to be around."
-    new "和劳伦一样，从我进入校园的第一天起，莱利就一直存在于我的生活中。她似乎总是一个愿意和我聊天的女孩，显然是我可以依赖的人，和她在一起也很有趣。"
+    new "和劳伦一样，从我进入校园的第一天起，莱莉就一直存在于我的生活中。她似乎总是一个愿意和我聊天的女孩，显然是我可以依赖的人，和她在一起也很有趣。"
 
     # game/recap/recap_screens.rpy:249
     old "June 1"
@@ -200,7 +200,7 @@ translate chinese strings:
 
     # game/recap/recap_screens.rpy:249
     old "Nora's been dating Chris, the Wolves president, since before I arrived at college. This didn't stop me being able to flirt with her though. And their relationship didn't seem to be going all that great, so somebody had to give her the attention she was missing."
-    new "诺拉在我上大学之前就和狼队的主席克里斯约会了。但这并没有阻止我和她调情。他们的关系似乎不太好，所以必须有人给予她缺失的关注。"
+    new "诺拉在我上大学之前就和狼人的会长克里斯约会了。但这并没有阻止我和她调情。他们的关系似乎不太好，所以必须有人给予她缺失的关注。"
 
     # game/recap/recap_screens.rpy:249
     old "March 17"
@@ -256,7 +256,7 @@ translate chinese strings:
 
     # game/recap/recap_screens.rpy:249
     old "I was at the Apes' frat house party when I first met Chloe. Clearly, she was one of the hottest girls on campus. But they say the hotter they are, the crazier they are. We were doing some obvious flirting, so I felt I had the chance to find out for myself if there was any truth to that saying."
-    new "我第一次见到克洛伊是在人猿兄弟会的聚会上。显然，她是校园里最性感的女孩之一。但他们说越性感越疯狂。我们显然是在调情，所以我觉得我有机会自己弄清楚这句话是否属实。"
+    new "我第一次见到克洛伊是在猿人兄弟会的聚会上。显然，她是校园里最性感的女孩之一。但他们说越性感越疯狂。我们显然是在调情，所以我觉得我有机会自己弄清楚这句话是否属实。"
 
     # game/recap/recap_screens.rpy:249
     old "August 4"
@@ -280,7 +280,7 @@ translate chinese strings:
 
     # game/recap/recap_screens.rpy:249
     old "My childhood friend, Josh, introduced me to Amber. Straight away I knew she was a party girl, always looking to have fun and enjoy life to the fullest. She was into drinking and taking drugs, but seemed responsible with it rather than totally out of control."
-    new "我儿时的朋友乔什把我介绍给了琥珀。我马上就知道她是一个派对女孩，总是寻找乐趣和享受生活的最大限度。她喜欢喝酒和吸毒，但似乎点到为止，而不是完全失控。"
+    new "我儿时的朋友乔什把我介绍给了琥珀。我马上就知道她是一个派对女孩，总是寻找乐趣和享受生活的最大限度。她喜欢喝酒和吸毒，但似乎又点到为止，不是完全失控。"
 
     # game/recap/recap_screens.rpy:249
     old "December 21"
@@ -296,11 +296,11 @@ translate chinese strings:
 
     # game/recap/recap_screens.rpy:249
     old "Samantha is Cameron's drug-addicted sister. She already had my sympathy for being related to Cameron, but I needed to decide if I wanted to get closer to her or keep my distance."
-    new "萨曼莎是卡梅伦那吸毒成瘾的妹妹。她和卡梅伦有亲戚关系，我很同情她，但我需要决定是接近她还是保持距离。"
+    new "萨曼莎是卡梅伦那吸毒成瘾的妹妹。她和卡梅伦有血缘关系，我很同情她，但我需要决定是接近她还是保持距离。"
 
     # game/recap/recap_screens.rpy:249
     old "Samantha is Cameron's drug-addicted sister and someone I barely even see as she's part of that whole Apes clan. If I really wanted to get to know her better, I had to shape shift into an Ape!"
-    new "萨曼莎是卡梅伦那吸毒成瘾的妹妹，我几乎没怎么见过她，因为她是猿人兄弟会的一员。如果我真的想更好地了解她，我必须成为猿人一员!"
+    new "萨曼莎是卡梅伦那吸毒成瘾的妹妹，我几乎没怎么见过她，因为她是猿人兄弟会的一员。如果我真的想更好地了解她，我必须成为猿人的一员！"
 
     # game/recap/recap_screens.rpy:249
     old "November 24"
@@ -356,7 +356,7 @@ translate chinese strings:
 
     # game/recap/recap_screens.rpy:249
     old "Penelope tried to enroll Jenny into our college by hacking the system, but she got caught and was in a whole heap of trouble. It was kinda weird how I first met Jenny. She sent me a random text one day asking to meet so we can talk about Penelope. To begin with, I had no idea who this Jenny was, but decided there was nothing to lose by meeting up with her. It's too early to say if there's any potential for romance here."
-    new "佩内洛普试图通过入侵学校计算机系统让珍妮进入我们的大学，但她被抓住了，惹上了一大堆麻烦。我第一次遇见珍妮的方式有点奇怪。有一天她随机给我发了一条短信约我见面谈谈佩内洛普的事。一开始，我不知道这个珍妮是谁，但我决定和她见面也不会有什么损失。现在说我俩儿之间是否有发展恋情的可能还为时过早。"
+    new "佩内洛普试图通过入侵学校计算机系统让珍妮进入我们的大学，但她被抓住了，还惹上了一大堆麻烦。我第一次遇见珍妮的方式有点奇怪。有一天她突然给我发了一条信息约我见面好谈谈佩内洛普的事。一开始，我不知道这个珍妮是谁，但我决定和她见个面也不会有什么损失。现在说我俩儿之间是否有发展恋情的可能还为时尚早。"
 
     # game/recap/recap_screens.rpy:249
     old "June 11"

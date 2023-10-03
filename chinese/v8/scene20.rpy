@@ -16,19 +16,19 @@ translate chinese emily_arcade_0b0c021d:
 translate chinese emily_arcade_d7d2f3db:
 
     # em "Thank you. I was hoping you'd like it."
-    em "谢谢你。我希望你会喜欢。"
+    em "谢谢你。我还以为你不喜欢呢。"
 
 # game/v8/scene20.rpy:36
 translate chinese emily_arcade_debcfba4:
 
     # u "Love it! Although..."
-    u "爱死了！虽然……"
+    u "爱死了！不过……"
 
 # game/v8/scene20.rpy:40
 translate chinese emily_arcade_5d8513fd:
 
     # u "This your way of distracting me so you win?"
-    u "你就这样分散我的注意力然后你就赢了？"
+    u "你想这样分散我的注意力然后你就能赢了？"
 
 # game/v8/scene20.rpy:44
 translate chinese emily_arcade_db1ec5f4:
@@ -46,19 +46,19 @@ translate chinese emily_arcade_d8c59c73:
 translate chinese emily_arcade_ac1918c9:
 
     # em "You know how to shoot?"
-    em "你知道怎么开枪吗？"
+    em "你知道怎么玩儿吗？"
 
 # game/v8/scene20.rpy:56
 translate chinese emily_arcade_fc307ffc:
 
     # u "Absolutely not, but I'll give it a... {i}shot!{/i}"
-    u "完全不知道，但我会来一…… {i}枪！{/i}"
+    u "一窍不通，但我会赌一…… {i}把的！{/i}"
 
 # game/v8/scene20.rpy:60
 translate chinese emily_arcade_2d7ac9cd:
 
     # em "You're lucky it's a slot game. If your aim was as bad as that joke..."
-    em "你该庆幸这是个老虎机游戏。如果你的准头像那个笑话那么烂……"
+    em "你该庆幸这是个老虎机游戏。如果你的运气像那个笑话那么烂……"
 
 # game/v8/scene20.rpy:61
 translate chinese emily_arcade_97db5e89:
@@ -70,7 +70,7 @@ translate chinese emily_arcade_97db5e89:
 translate chinese emily_arcade_23a9f377:
 
     # em "Sure it was. Loser pays for the next game?"
-    em "当然是。输家为下一场比赛买单？"
+    em "当然。输家为下一场比赛买单？"
 
 # game/v8/scene20.rpy:86
 translate chinese emily_arcade_4b2d0890:
@@ -88,19 +88,19 @@ translate chinese emily_arcade_3188d288:
 translate chinese emily_arcade_2dee69d1:
 
     # em "No problem. Figured we could chill and I could kick your ass at some games."
-    em "没有问题。我们可以放松一下，我可以在比赛中打败你。"
+    em "不客气。我们可以放松一下，我可以在比赛中打败你。"
 
 # game/v8/scene20.rpy:98
 translate chinese emily_arcade_f323ceba:
 
     # u "Don't be so sure! You know I lived in the arcade back home!"
-    u "别这么肯定！你知道我以前住在游戏厅里！"
+    u "别这么肯定！你知道我以前住在游戏厅里的！"
 
 # game/v8/scene20.rpy:102
 translate chinese emily_arcade_dd51ec17:
 
     # em "Yeah, but I was right there by your side. I'm sure I picked up a few tips."
-    em "是的，但我当时就在你身边。我肯定我学到了一些技巧。"
+    em "是的，但我当时就在你身边。我想我学到了一些技巧。"
 
 # game/v8/scene20.rpy:106
 translate chinese emily_arcade_d8c59c73_1:
@@ -112,13 +112,13 @@ translate chinese emily_arcade_d8c59c73_1:
 translate chinese emily_arcade_ac1918c9_1:
 
     # em "You know how to shoot?"
-    em "你知道怎么开枪吗？"
+    em "你知道怎么玩儿吗？"
 
 # game/v8/scene20.rpy:114
 translate chinese emily_arcade_fc307ffc_1:
 
     # u "Absolutely not, but I'll give it a... {i}shot!{/i}"
-    u "完全不知道，但我会来一…… {i}枪！{/i}"
+    u "完全不知道，但我会赌一…… {i}把的！{/i}"
 
 # game/v8/scene20.rpy:118
 translate chinese emily_arcade_ceb47cc9:
@@ -136,49 +136,49 @@ translate chinese emily_arcade_0cda026b:
 translate chinese em_arcade_2_453732b9:
 
     # u "If we're betting, let's make it interesting. I'll pay for all the games."
-    u "如果我们在打赌，让它变得有趣。我会支付所有游戏的费用。"
+    u "如果我们在打赌的话，就让它变得有趣吧。我会支付所有游戏的费用。"
 
 # game/v8/scene20.rpy:147
 translate chinese em_arcade_2_d6cd3d95:
 
     # em "What you got in mind?"
-    em "你在想什么？"
+    em "你想怎么做？"
 
 # game/v8/scene20.rpy:151
 translate chinese em_arcade_2_7744ccbc:
 
     # u "Winner gets a kiss, loser chooses where..."
-    u "胜利者得到一个吻，失败者选择哪里……"
+    u "胜利者得到一个吻，失败者选择吻哪里……"
 
 # game/v8/scene20.rpy:155
 translate chinese em_arcade_2_28244312:
 
     # em "Ooh, I like it. Pucker up buddy!"
-    em "哦，我喜欢。闭上嘴，伙计!"
+    em "噢，我喜欢。放马过来，伙计！"
 
 # game/v8/scene20.rpy:159
 translate chinese em_arcade_2_9a6d64d4:
 
     # u "Not so fast. I know those lips well. I'm making sure I get to feel 'em!"
-    u "没那么快。我很了解你的嘴唇。我要确保我能感受到它们！"
+    u "别那么急。我很了解你的嘴唇。我要确保我能感受到它们！"
 
 # game/v8/scene20.rpy:163
 translate chinese em_arcade_2_75e63a17:
 
     # em "Put your tokens where your mouth is, then!"
-    em "把你的代币放在你的嘴上！"
+    em "你先去把游戏币换了再说吧！"
 
 # game/v8/scene20.rpy:167
 translate chinese em_arcade_2_9eca3e56:
 
     # u "Yes, ma'am. Let me get some change."
-    u "是的，夫人。我去找些零钱。"
+    u "是的，夫人。我去换些游戏币。"
 
 # game/v8/scene20.rpy:171
 translate chinese em_arcade_2_a40339ad:
 
     # empl "Have fun, sir!"
-    empl "玩得开心点，先生！"
+    empl "玩得开心点儿，先生！"
 
 # game/v8/scene20.rpy:175
 translate chinese em_arcade_2_e23eee7a:
@@ -190,7 +190,7 @@ translate chinese em_arcade_2_e23eee7a:
 translate chinese em_arcade_2_157de9c1:
 
     # em "Highest payout wins?"
-    em "最高的分数赢？"
+    em "最高分的赢？"
 
 # game/v8/scene20.rpy:183
 translate chinese em_arcade_2_ff223546:
@@ -202,7 +202,7 @@ translate chinese em_arcade_2_ff223546:
 translate chinese em_arcade_2_cc201eb4:
 
     # em "Beat that!"
-    em "打败它！"
+    em "不可思议！"
 
 # game/v8/scene20.rpy:205
 translate chinese em_arcade_2_27d8e50b:
@@ -214,13 +214,13 @@ translate chinese em_arcade_2_27d8e50b:
 translate chinese em_arcade_2_36c16371:
 
     # u "No way I coulda won that one."
-    u "我不可能赢的。"
+    u "不是吧，我本可以赢的。"
 
 # game/v8/scene20.rpy:220
 translate chinese em_arcade_2_b36bb524:
 
     # em "Pay up!"
-    em "付钱！"
+    em "兑现承诺！"
 
 # game/v8/scene20.rpy:229
 translate chinese em_arcade_2_22f9c95a:
@@ -244,7 +244,7 @@ translate chinese em_arcade_2_3989623c:
 translate chinese em_arcade_2_221893a6:
 
     # em "Or not. If I didn't know any better, I'd think you were letting me win."
-    em "或者不是。如果我不了解情况，我还以为你让我赢了呢。"
+    em "或者更糟。如果我不了解情况，我还以为你让我赢了呢。"
 
 # game/v8/scene20.rpy:255
 translate chinese em_arcade_2_a3f742f2:
@@ -256,7 +256,7 @@ translate chinese em_arcade_2_a3f742f2:
 translate chinese em_arcade_2_7f327c15:
 
     # em "Step aside. Let me show you how it's done."
-    em "靠边站。我来教你怎么做。"
+    em "靠边儿站。我来教你怎么玩儿。"
 
 # game/v8/scene20.rpy:273
 translate chinese em_arcade_2_ec27168f:
@@ -268,7 +268,7 @@ translate chinese em_arcade_2_ec27168f:
 translate chinese em_arcade_2_2d4af8bb:
 
     # u "Well, where would you like it, ma'am?"
-    u "好吧，您想在哪里，女士？"
+    u "好吧，亲哪里，女士？"
 
 # game/v8/scene20.rpy:281
 translate chinese em_arcade_2_beeb390c:
@@ -286,25 +286,25 @@ translate chinese em_arcade_2_8609c197:
 translate chinese em_arcade_2_beab1522:
 
     # u "I'm starting to think losing isn't so bad."
-    u "我开始觉得失败并不是那么糟糕。"
+    u "我开始觉得失败并不是那么糟糕了。"
 
 # game/v8/scene20.rpy:303
 translate chinese em_arcade_2_f775071b:
 
     # em "First person to get a payout wins-"
-    em "第一个获得奖金的人赢了-"
+    em "获得最多奖品的人赢-"
 
 # game/v8/scene20.rpy:307
 translate chinese em_arcade_2_3c5c2de8:
 
     # u "Oh, you're going down now. I have the magic touch with this game!"
-    u "哦，你现在要完蛋了。我对这个游戏有魔力！"
+    u "噢，你现在要完蛋了。我对这个游戏有魔力！"
 
 # game/v8/scene20.rpy:311
 translate chinese em_arcade_2_b1384bac:
 
     # em "Not just this game."
-    em "不仅仅是这场比赛。"
+    em "游戏不仅是游戏。"
 
 # game/v8/scene20.rpy:315
 translate chinese em_arcade_2_d72d3224:
@@ -334,19 +334,19 @@ translate chinese em_arcade_2_263ca5e3:
 translate chinese em_arcade_2_f7727647:
 
     # em "Guess I gotta pay up."
-    em "我想我得付钱了。"
+    em "我想我得兑现承诺了。"
 
 # game/v8/scene20.rpy:336
 translate chinese em_arcade_2_3943cbdf:
 
     # em "Where do you want it?"
-    em "你想把它放在哪里？"
+    em "你想亲哪里？"
 
 # game/v8/scene20.rpy:337
 translate chinese em_arcade_2_87edf35a:
 
     # u "I think you know where."
-    u "我想你知道在哪。"
+    u "我想你知道亲哪儿。"
 
 # game/v8/scene20.rpy:341
 translate chinese em_arcade_2_9c5e829b:
@@ -358,19 +358,19 @@ translate chinese em_arcade_2_9c5e829b:
 translate chinese em_arcade_2_19a03f0a:
 
     # u "I meant that spot on my neck you naughty girl *laugh*"
-    u "我是说我脖子上的那个斑点，你这个淘气的女孩。 *笑*"
+    u "我是说我脖子上，你这个淘气的女孩。 *笑*"
 
 # game/v8/scene20.rpy:349
 translate chinese em_arcade_2_571fd03a:
 
     # em "Oh.."
-    em "哦……"
+    em "噢……"
 
 # game/v8/scene20.rpy:358
 translate chinese em_arcade_2_b78f789d:
 
     # u "Oh, God. I changed my mind. I choose the other spot."
-    u "哦，天啊。我改变主意了。我选择另一个地点。"
+    u "噢，天呐。我改变主意了。我选择另一个地方。"
 
 # game/v8/scene20.rpy:366
 translate chinese em_arcade_2_6d1e062e:
@@ -388,7 +388,7 @@ translate chinese em_arcade_2_6bcd435f:
 translate chinese em_arcade_2_b272eac8:
 
     # em "First person to get a stuffed animal is the ultimate winner."
-    em "第一个得到毛绒动物的人是最终的赢家。"
+    em "得到毛绒玩具最多的人是赢家。"
 
 # game/v8/scene20.rpy:379
 translate chinese em_arcade_2_b592843e:
@@ -400,25 +400,25 @@ translate chinese em_arcade_2_b592843e:
 translate chinese em_arcade_2_719f99d9:
 
     # em "And loser has to eat her out."
-    em "失败者得把她吃掉。"
+    em "失败者帮口。"
 
 # game/v8/scene20.rpy:387
 translate chinese em_arcade_2_67543184:
 
     # u "Or blow him."
-    u "或者吹他。"
+    u "或者帮吹。"
 
 # game/v8/scene20.rpy:391
 translate chinese em_arcade_2_c4640d4e:
 
     # em "Not the way you've been playing!"
-    em "不是像你玩的那样！"
+    em "这可不是像你以前玩的那种！"
 
 # game/v8/scene20.rpy:392
 translate chinese em_arcade_2_186676dc:
 
     # u "Seems like I win either way, so I'll even let you go first."
-    u "看来无论如何我都赢了，所以我还是让你先来吧。"
+    u "看来无论如何我都会赢，所以我还是让你先来吧。"
 
 # game/v8/scene20.rpy:393
 translate chinese em_arcade_2_953354fa:
@@ -430,7 +430,7 @@ translate chinese em_arcade_2_953354fa:
 translate chinese em_arcade_2_17f40a63:
 
     # em "Get ready to lose."
-    em "做好输的准备。"
+    em "做好输的准备吧。"
 
 # game/v8/scene20.rpy:403
 translate chinese em_arcade_2_4d12181a:
@@ -442,13 +442,13 @@ translate chinese em_arcade_2_4d12181a:
 translate chinese em_arcade_2_9b700d30:
 
     # u "Let me show you how it's done."
-    u "我来教你怎么做。"
+    u "我来教你怎么玩儿。"
 
 # game/v8/scene20.rpy:413
 translate chinese em_arcade_2_622730a3:
 
     # u "So close."
-    u "差一点点。"
+    u "差一点儿。"
 
 # game/v8/scene20.rpy:414
 translate chinese em_arcade_2_e4140240:
@@ -472,7 +472,7 @@ translate chinese em_arcade_2_22554d2e:
 translate chinese em_arcade_2_484f7c8b:
 
     # u "Don't care. Get ready to-"
-    u "不在乎。准备好-"
+    u "别管了。准备好-"
 
 # game/v8/scene20.rpy:463
 translate chinese em_arcade_2_4b1f73ab:
@@ -502,7 +502,7 @@ translate chinese em_arcade_2_7ea29e84:
 translate chinese em_arcade_2_4a623e57:
 
     # u "Don't you think I'll forget about it."
-    u "你不觉得我会忘记这件事吗。"
+    u "你觉得我会忘记这件事儿吗。"
 
 # game/v8/scene20.rpy:489
 translate chinese em_arcade_2_709aba89:
@@ -544,13 +544,13 @@ translate chinese em_arcade_2_bceb4588:
 translate chinese em_arcade_1_30375c87:
 
     # u "You're on. Let me get some change."
-    u "该你了。我去找些零钱。"
+    u "一言为定。我去换些游戏币。"
 
 # game/v8/scene20.rpy:536
 translate chinese em_arcade_1_a40339ad:
 
     # empl "Have fun, sir!"
-    empl "玩得开心点，先生！"
+    empl "玩得开心点儿，先生！"
 
 # game/v8/scene20.rpy:540
 translate chinese em_arcade_1_e23eee7a:
@@ -562,7 +562,7 @@ translate chinese em_arcade_1_e23eee7a:
 translate chinese em_arcade_1_157de9c1:
 
     # em "Highest payout wins?"
-    em "最高的分数赢？"
+    em "最高分的赢？"
 
 # game/v8/scene20.rpy:548
 translate chinese em_arcade_1_ff223546:
@@ -574,7 +574,7 @@ translate chinese em_arcade_1_ff223546:
 translate chinese em_arcade_1_cc201eb4:
 
     # em "Beat that!"
-    em "打败它！"
+    em "不可思议！"
 
 # game/v8/scene20.rpy:570
 translate chinese em_arcade_1_27d8e50b:
@@ -586,13 +586,13 @@ translate chinese em_arcade_1_27d8e50b:
 translate chinese em_arcade_1_36c16371:
 
     # u "No way I coulda won that one."
-    u "我不可能赢的。"
+    u "不是吧，我本可以赢的。"
 
 # game/v8/scene20.rpy:585
 translate chinese em_arcade_1_b36bb524:
 
     # em "Pay up!"
-    em "付钱！"
+    em "兑现承诺！"
 
 # game/v8/scene20.rpy:589
 translate chinese em_arcade_1_31e79d44:
@@ -616,7 +616,7 @@ translate chinese em_arcade_1_3989623c:
 translate chinese em_arcade_1_221893a6:
 
     # em "Or not. If I didn't know any better, I'd think you were letting me win."
-    em "或者不是。如果我不了解情况，我还以为你让我赢了呢。"
+    em "或者更糟。如果我不了解情况，我还以为你让我赢了呢。"
 
 # game/v8/scene20.rpy:615
 translate chinese em_arcade_1_a3f742f2:
@@ -628,7 +628,7 @@ translate chinese em_arcade_1_a3f742f2:
 translate chinese em_arcade_1_7f327c15:
 
     # em "Step aside. Let me show you how it's done."
-    em "靠边站。我来教你怎么做。"
+    em "靠边儿站。我来教你怎么做。"
 
 # game/v8/scene20.rpy:633
 translate chinese em_arcade_1_ec27168f:
@@ -640,7 +640,7 @@ translate chinese em_arcade_1_ec27168f:
 translate chinese em_arcade_1_02db3e98:
 
     # u "More tokens?"
-    u "更多的代币？"
+    u "更多的游戏币？"
 
 # game/v8/scene20.rpy:641
 translate chinese em_arcade_1_d1ca3afc:
@@ -652,19 +652,19 @@ translate chinese em_arcade_1_d1ca3afc:
 translate chinese em_arcade_1_f775071b:
 
     # em "First person to get a payout wins-"
-    em "第一个拿到奖金的人赢了-"
+    em "得到奖品最多的人赢-"
 
 # game/v8/scene20.rpy:653
 translate chinese em_arcade_1_3c5c2de8:
 
     # u "Oh, you're going down now. I have the magic touch with this game!"
-    u "哦，你现在要完蛋了。我对这个游戏有魔力！"
+    u "噢，你现在要完蛋了。我对这个游戏有魔力！"
 
 # game/v8/scene20.rpy:657
 translate chinese em_arcade_1_8c7df5d5:
 
     # em "I'm sure you do."
-    em "我肯定你有。"
+    em "我相信你会的。"
 
 # game/v8/scene20.rpy:661
 translate chinese em_arcade_1_53db0a9b:
@@ -694,7 +694,7 @@ translate chinese em_arcade_1_06f1ee8e:
 translate chinese em_arcade_1_047d856d:
 
     # em "Here."
-    em "这里。"
+    em "过来。"
 
 # game/v8/scene20.rpy:684
 translate chinese em_arcade_1_6d1e062e:
@@ -712,7 +712,7 @@ translate chinese em_arcade_1_6bcd435f:
 translate chinese em_arcade_1_b272eac8:
 
     # em "First person to get a stuffed animal is the ultimate winner."
-    em "第一个得到毛绒动物的人是最终的赢家。"
+    em "得到毛绒玩具最多的人是赢家。"
 
 # game/v8/scene20.rpy:697
 translate chinese em_arcade_1_e492496b:
@@ -730,7 +730,7 @@ translate chinese em_arcade_1_95c21237:
 translate chinese em_arcade_1_186676dc:
 
     # u "Seems like I win either way, so I'll even let you go first."
-    u "看来无论如何我都赢了，所以我还是让你先来吧。"
+    u "看来无论如何我都会赢的，所以我还是让你先来吧。"
 
 # game/v8/scene20.rpy:709
 translate chinese em_arcade_1_953354fa:
@@ -754,13 +754,13 @@ translate chinese em_arcade_1_4d12181a:
 translate chinese em_arcade_1_9b700d30:
 
     # u "Let me show you how it's done."
-    u "我来教你怎么做。"
+    u "我来教你怎么玩儿。"
 
 # game/v8/scene20.rpy:729
 translate chinese em_arcade_1_74a6934c:
 
     # u "So close!"
-    u "差一点点！"
+    u "差一点儿！"
 
 # game/v8/scene20.rpy:730
 translate chinese em_arcade_1_e4140240:
@@ -868,13 +868,13 @@ translate chinese em_arcade_1_bceb4588_1:
 translate chinese em_arcade_4_8cec1134:
 
     # u "If we're betting, let's make it more fun. I'll pay for all the games."
-    u "如果我们在打赌，让它更有趣。我会支付所有游戏的费用。"
+    u "如果我们在打赌的话，就让它更有趣吧。我会支付所有游戏的费用。"
 
 # game/v8/scene20.rpy:890
 translate chinese em_arcade_4_d6cd3d95:
 
     # em "What you got in mind?"
-    em "你在想什么？"
+    em "你想怎么做？"
 
 # game/v8/scene20.rpy:894
 translate chinese em_arcade_4_43bcf275:
@@ -886,25 +886,25 @@ translate chinese em_arcade_4_43bcf275:
 translate chinese em_arcade_4_2257dddc:
 
     # u "Calm down, nothing too bad. Just some fun."
-    u "冷静点，没什么不肯能。只是找点乐子。"
+    u "冷静点儿，没什么大不了的。只是找点乐子。"
 
 # game/v8/scene20.rpy:903
 translate chinese em_arcade_4_345cb781:
 
     # em "Okay, but I'm watching you [name]."
-    em "好吧，但我在看着你[name]。"
+    em "好吧，但我在看着你[name]呢。"
 
 # game/v8/scene20.rpy:907
 translate chinese em_arcade_4_a1c0d5d6:
 
     # u "Don't worry. Let me get some change."
-    u "别担心。我去找些零钱。"
+    u "别担心。我去换些游戏币。"
 
 # game/v8/scene20.rpy:911
 translate chinese em_arcade_4_a40339ad:
 
     # empl "Have fun, sir!"
-    empl "玩得开心点，先生！"
+    empl "玩得开心点儿，先生！"
 
 # game/v8/scene20.rpy:915
 translate chinese em_arcade_4_e23eee7a:
@@ -916,7 +916,7 @@ translate chinese em_arcade_4_e23eee7a:
 translate chinese em_arcade_4_157de9c1:
 
     # em "Highest payout wins?"
-    em "最高分数的赢？"
+    em "最高分的赢？"
 
 # game/v8/scene20.rpy:923
 translate chinese em_arcade_4_ff223546:
@@ -928,7 +928,7 @@ translate chinese em_arcade_4_ff223546:
 translate chinese em_arcade_4_cc201eb4:
 
     # em "Beat that!"
-    em "打败它！"
+    em "不可思议！"
 
 # game/v8/scene20.rpy:945
 translate chinese em_arcade_4_27d8e50b:
@@ -940,13 +940,13 @@ translate chinese em_arcade_4_27d8e50b:
 translate chinese em_arcade_4_36c16371:
 
     # u "No way I coulda won that one."
-    u "我不可能赢的。"
+    u "不是吧，我本可以赢的。"
 
 # game/v8/scene20.rpy:960
 translate chinese em_arcade_4_b36bb524:
 
     # em "Pay up!"
-    em "付钱！"
+    em "兑现承诺！"
 
 # game/v8/scene20.rpy:964
 translate chinese em_arcade_4_7353cdf6:
@@ -964,7 +964,7 @@ translate chinese em_arcade_4_4f347142:
 translate chinese em_arcade_4_2eadc150:
 
     # em "Go flash the camera."
-    em "去把相机打开。"
+    em "去摄像头下边。"
 
 # game/v8/scene20.rpy:973
 translate chinese em_arcade_4_9af825ea:
@@ -982,7 +982,7 @@ translate chinese em_arcade_4_440c6d42:
 translate chinese em_arcade_4_64293962:
 
     # u "I'll get you for this."
-    u "我会拍到你的。"
+    u "我会让你也来的。"
 
 # game/v8/scene20.rpy:985
 translate chinese em_arcade_4_88a75da7:
@@ -1006,7 +1006,7 @@ translate chinese em_arcade_4_3989623c:
 translate chinese em_arcade_4_221893a6:
 
     # em "Or not. If I didn't know any better, I'd think you were letting me win."
-    em "或者不是。如果我不了解情况，我还以为你让我赢了呢。"
+    em "或者更糟。如果我不了解情况，我还以为你让我赢了呢。"
 
 # game/v8/scene20.rpy:1011
 translate chinese em_arcade_4_a3f742f2:
@@ -1018,7 +1018,7 @@ translate chinese em_arcade_4_a3f742f2:
 translate chinese em_arcade_4_7f327c15:
 
     # em "Step aside. Let me show you how it's done."
-    em "靠边站。我来教你怎么做。"
+    em "靠边儿站。我来教你怎么玩儿。"
 
 # game/v8/scene20.rpy:1029
 translate chinese em_arcade_4_ec27168f:
@@ -1042,7 +1042,7 @@ translate chinese em_arcade_4_beeb390c:
 translate chinese em_arcade_4_b009debc:
 
     # em "Oh! Go over by those people and pick your nose where everyone can see you."
-    em "哦!从那些人身边走过去，在大家都能看见的地方挖鼻孔。"
+    em "噢！走到那些人身边，在大家都能看见的地方挖鼻孔。"
 
 # game/v8/scene20.rpy:1045
 translate chinese em_arcade_4_604ee734:
@@ -1078,25 +1078,25 @@ translate chinese em_arcade_4_f4cc304c:
 translate chinese em_arcade_4_026b7135:
 
     # em "Just you wait 'til your defeat."
-    em "你只要等到你失败。"
+    em "你只要等到你失败就行。"
 
 # game/v8/scene20.rpy:1074
 translate chinese em_arcade_4_f775071b:
 
     # em "First person to get a payout wins-"
-    em "第一个拿到奖金的人赢了-"
+    em "得到奖品最多的人赢-"
 
 # game/v8/scene20.rpy:1078
 translate chinese em_arcade_4_3c5c2de8:
 
     # u "Oh, you're going down now. I have the magic touch with this game!"
-    u "哦，你现在要完蛋了。我对这个游戏有魔力！"
+    u "噢，你现在要完蛋了。我对这个游戏有魔力！"
 
 # game/v8/scene20.rpy:1082
 translate chinese em_arcade_4_8c7df5d5:
 
     # em "I'm sure you do."
-    em "我肯定你有。"
+    em "我相信你会的。"
 
 # game/v8/scene20.rpy:1086
 translate chinese em_arcade_4_53db0a9b:
@@ -1120,19 +1120,19 @@ translate chinese em_arcade_4_263ca5e3:
 translate chinese em_arcade_4_f7727647:
 
     # em "Guess I gotta pay up."
-    em "我想我得付钱了。"
+    em "我想我得兑现承诺了。"
 
 # game/v8/scene20.rpy:1105
 translate chinese em_arcade_4_2fd7936e:
 
     # u "(Shit, here's my chance.)"
-    u "(妈的，我的机会来了。)"
+    u "(上帝啊，我的机会来了。)"
 
 # game/v8/scene20.rpy:1106
 translate chinese em_arcade_4_426a7635:
 
     # u "I had to flash the camera..."
-    u "我不得不用照相机……"
+    u "我不得不闪亮摄像头了……"
 
 # game/v8/scene20.rpy:1107
 translate chinese em_arcade_4_380acf5b:
@@ -1144,7 +1144,7 @@ translate chinese em_arcade_4_380acf5b:
 translate chinese em_arcade_4_f1c99fac:
 
     # em "Wow."
-    em "哇哦。"
+    em "哇噢。"
 
 # game/v8/scene20.rpy:1112
 translate chinese em_arcade_4_65116731:
@@ -1162,7 +1162,7 @@ translate chinese em_arcade_4_f15770ee:
 translate chinese em_arcade_4_720e5ec7:
 
     # u "Oh, God, I miss them."
-    u "哦，天哪，我想她们了。"
+    u "噢，天呐，我想她们了。"
 
 # game/v8/scene20.rpy:1139
 translate chinese v8s20_nsfwSkipLabel1_6d1e062e:
@@ -1180,7 +1180,7 @@ translate chinese v8s20_nsfwSkipLabel1_b1a60398:
 translate chinese v8s20_nsfwSkipLabel1_b272eac8:
 
     # em "First person to get a stuffed animal is the ultimate winner."
-    em "第一个得到毛绒动物的人是最终的赢家。"
+    em "得到毛绒玩具最多的人是赢家。"
 
 # game/v8/scene20.rpy:1152
 translate chinese v8s20_nsfwSkipLabel1_b592843e:
@@ -1198,7 +1198,7 @@ translate chinese v8s20_nsfwSkipLabel1_c26bc4f1:
 translate chinese v8s20_nsfwSkipLabel1_186676dc:
 
     # u "Seems like I win either way, so I'll even let you go first."
-    u "看来无论如何我都赢了，所以我还是让你先走吧。"
+    u "看来无论如何我都会赢的，所以我还是让你先来吧。"
 
 # game/v8/scene20.rpy:1164
 translate chinese v8s20_nsfwSkipLabel1_953354fa:
@@ -1228,13 +1228,13 @@ translate chinese v8s20_nsfwSkipLabel1_9b700d30:
 translate chinese v8s20_nsfwSkipLabel1_74a6934c:
 
     # u "So close!"
-    u "差一点点！"
+    u "差一点儿！"
 
 # game/v8/scene20.rpy:1185
 translate chinese v8s20_nsfwSkipLabel1_e4140240:
 
     # em "Good show. My turn now."
-    em "好戏。现在轮到我了。"
+    em "干得好。现在轮到我了。"
 
 # game/v8/scene20.rpy:1225
 translate chinese v8s20_nsfwSkipLabel1_162123b6:
@@ -1336,13 +1336,13 @@ translate chinese v8s20_nsfwSkipLabel1_bceb4588_1:
 translate chinese em_arcade_3_30375c87:
 
     # u "You're on. Let me get some change."
-    u "该你了。我去找些零钱。"
+    u "一言为定。我去换些游戏币。"
 
 # game/v8/scene20.rpy:1344
 translate chinese em_arcade_3_a40339ad:
 
     # empl "Have fun, sir!"
-    empl "玩得开心点，先生！"
+    empl "玩得开心点儿，先生！"
 
 # game/v8/scene20.rpy:1348
 translate chinese em_arcade_3_e23eee7a:
@@ -1354,7 +1354,7 @@ translate chinese em_arcade_3_e23eee7a:
 translate chinese em_arcade_3_157de9c1:
 
     # em "Highest payout wins?"
-    em "最高分数的赢？"
+    em "最高分的赢？"
 
 # game/v8/scene20.rpy:1356
 translate chinese em_arcade_3_ff223546:
@@ -1366,7 +1366,7 @@ translate chinese em_arcade_3_ff223546:
 translate chinese em_arcade_3_cc201eb4:
 
     # em "Beat that!"
-    em "打败它！"
+    em "不可思议！"
 
 # game/v8/scene20.rpy:1378
 translate chinese em_arcade_3_27d8e50b:
@@ -1378,19 +1378,19 @@ translate chinese em_arcade_3_27d8e50b:
 translate chinese em_arcade_3_36c16371:
 
     # u "No way I coulda won that one."
-    u "我不可能赢的。"
+    u "不是吧，我本可以赢的。"
 
 # game/v8/scene20.rpy:1393
 translate chinese em_arcade_3_b36bb524:
 
     # em "Pay up!"
-    em "付钱！"
+    em "兑现承诺！"
 
 # game/v8/scene20.rpy:1397
 translate chinese em_arcade_3_31e79d44:
 
     # u "That was just luck. I got the next one."
-    u "那只是运气。我会赢得下一局。"
+    u "那只是运气。我会赢得下一局的。"
 
 # game/v8/scene20.rpy:1401
 translate chinese em_arcade_3_b1496549:
@@ -1408,7 +1408,7 @@ translate chinese em_arcade_3_3989623c:
 translate chinese em_arcade_3_221893a6:
 
     # em "Or not. If I didn't know any better, I'd think you were letting me win."
-    em "或者不是。如果我不了解情况，我还以为你让我赢了呢。"
+    em "或者更糟。如果我不了解情况，我还以为你让我赢了呢。"
 
 # game/v8/scene20.rpy:1423
 translate chinese em_arcade_3_a3f742f2:
@@ -1420,7 +1420,7 @@ translate chinese em_arcade_3_a3f742f2:
 translate chinese em_arcade_3_7f327c15:
 
     # em "Step aside. Let me show you how it's done."
-    em "靠边站。我来教你怎么做。"
+    em "靠边儿站。我来教你怎么做。"
 
 # game/v8/scene20.rpy:1441
 translate chinese em_arcade_3_ec27168f:
@@ -1432,7 +1432,7 @@ translate chinese em_arcade_3_ec27168f:
 translate chinese em_arcade_3_02db3e98:
 
     # u "More tokens?"
-    u "更多的代币？"
+    u "更多的游戏币？"
 
 # game/v8/scene20.rpy:1449
 translate chinese em_arcade_3_d1ca3afc:
@@ -1444,19 +1444,19 @@ translate chinese em_arcade_3_d1ca3afc:
 translate chinese em_arcade_3_f775071b:
 
     # em "First person to get a payout wins-"
-    em "第一个拿到奖金的人赢了-"
+    em "奖品最多的人赢-"
 
 # game/v8/scene20.rpy:1461
 translate chinese em_arcade_3_3c5c2de8:
 
     # u "Oh, you're going down now. I have the magic touch with this game!"
-    u "哦，你现在要完蛋了。我对这个游戏有魔力！"
+    u "噢，你现在要完蛋了。我对这个游戏有魔力！"
 
 # game/v8/scene20.rpy:1465
 translate chinese em_arcade_3_8c7df5d5:
 
     # em "I'm sure you do."
-    em "我肯定你有。"
+    em "我相信你会的。"
 
 # game/v8/scene20.rpy:1469
 translate chinese em_arcade_3_53db0a9b:
@@ -1486,7 +1486,7 @@ translate chinese em_arcade_3_06f1ee8e:
 translate chinese em_arcade_3_047d856d:
 
     # em "Here."
-    em "这里。"
+    em "过来。"
 
 # game/v8/scene20.rpy:1492
 translate chinese em_arcade_3_f547bd64:
@@ -1516,19 +1516,19 @@ translate chinese em_arcade_3_b592843e:
 translate chinese em_arcade_3_5f5a470d:
 
     # em "Winner gets all the tokens."
-    em "胜利者得到所有的代币。"
+    em "胜利者得到所有的游戏币。"
 
 # game/v8/scene20.rpy:1513
 translate chinese em_arcade_3_3d41ce8e:
 
     # u "One of us will be walking around naked this week."
-    u "我们中的一个这周会裸体到处走。"
+    u "我们中的一个这周要裸奔。"
 
 # game/v8/scene20.rpy:1517
 translate chinese em_arcade_3_0e727bea:
 
     # em "Won't be me. Not the way you've been playing!"
-    em "不会是我。不是你玩过的方式！"
+    em "不会是我。这可不是你原来玩的方式！"
 
 # game/v8/scene20.rpy:1521
 translate chinese em_arcade_3_17f40a63:
@@ -1552,13 +1552,13 @@ translate chinese em_arcade_3_9b700d30:
 translate chinese em_arcade_3_74a6934c:
 
     # u "So close!"
-    u "差一点点！"
+    u "差一点儿！"
 
 # game/v8/scene20.rpy:1538
 translate chinese em_arcade_3_e4140240:
 
     # em "Good show. My turn now."
-    em "好戏。现在轮到我了。"
+    em "干得好。现在轮到我了。"
 
 # game/v8/scene20.rpy:1578
 translate chinese em_arcade_3_162123b6:

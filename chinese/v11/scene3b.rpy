@@ -244,7 +244,7 @@ translate chinese v11_cafe_with_riley_ff499cd4:
 translate chinese v11_cafe_with_riley_a449cba2:
 
     # ri "Oh my god, look it up later."
-    ri "哦，天哪，待会儿再告诉你。"
+    ri "噢，天哪，待会儿再告诉你。"
 
 # game/v11/scene3b.rpy:219
 translate chinese v11_cafe_with_riley_41b9ee1a:
@@ -280,7 +280,7 @@ translate chinese v11_cafe_with_riley_35e3b2f4:
 translate chinese v11_cafe_with_riley_736c6c0f:
 
     # ri "Oh, right! I saw a commercial about that, I did think it kinda looked fun."
-    ri "哦，对了！我看过一则关于这方面的广告，我确实觉得看起来挺有趣的。"
+    ri "噢，对了！我看过一则关于这方面的广告，我确实觉得看起来挺有趣的。"
 
 # game/v11/scene3b.rpy:249
 translate chinese v11_cafe_with_riley_6400f3c1:
@@ -304,7 +304,7 @@ translate chinese v11_cafe_with_riley_18930abe:
 translate chinese v11_cafe_with_riley_a2c4ca94:
 
     # ri "Oh, thank you so much! I'm Riley. And yeah, haha. it's natural... You're a friend of [name]?"
-    ri "哦，太感谢你了！我是莱莉。是的，哈哈。这是很天生的……你是[name]的朋友？"
+    ri "噢，太感谢你了！我是莱莉。是的，哈哈。这是很天生的……你是[name]的朋友？"
 
 # game/v11/scene3b.rpy:274
 translate chinese v11_cafe_with_riley_15ce87e8:
@@ -352,13 +352,13 @@ translate chinese v11_cafe_with_riley_b59b263a:
 translate chinese v11_cafe_with_riley_a22e33b5:
 
     # ri "Oh yayyy! Now I won't be stuck with just [name]. *Chuckles*"
-    ri "哦耶耶！现在我不会再纠结于[name]。 *咯咯笑*"
+    ri "噢耶耶！现在我不会再纠结于[name]。 *咯咯笑*"
 
 # game/v11/scene3b.rpy:318
 translate chinese v11_cafe_with_riley_cb51324b:
 
     # u "Wowww... *Chuckles*"
-    u "哇哦…… *咯咯笑*"
+    u "哇噢…… *咯咯笑*"
 
 # game/v11/scene3b.rpy:323
 translate chinese v11_cafe_with_riley_477fb607:
@@ -430,7 +430,7 @@ translate chinese v11_cafe_with_riley_d3e22b30:
 translate chinese v11_cafe_with_riley_99af0934:
 
     # ri "Oh don't say it like that, he's sweet. Maybe girls would call you sweet too if you paid them a compliment every once in a while."
-    ri "哦，别这么说，他人很好的。如果你每隔一段时间赞美一下女孩子，也许她们也会说你很可爱。"
+    ri "噢，别这么说，他人很好的。如果你每隔一段时间赞美一下女孩子，也许她们也会说你很可爱。"
 
 # game/v11/scene3b.rpy:383
 translate chinese v11_cafe_with_riley_b9ae452b:

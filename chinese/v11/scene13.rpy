@@ -16,7 +16,7 @@ translate chinese v11_aubrey_plane_sex_sg_61b6bf48:
 translate chinese v11_aubrey_plane_sex_sg_110380f5:
 
     # u "Oh wow, someone's moving fast."
-    u "哦，哇，有人行动真快。"
+    u "噢，哇，有人行动真快。"
 
 # game/v11/scene13.rpy:67
 translate chinese v11_aubrey_plane_sex_sg_66ce95c6:
@@ -28,7 +28,7 @@ translate chinese v11_aubrey_plane_sex_sg_66ce95c6:
 translate chinese v11_aubrey_plane_sex_sg_2c483de5:
 
     # u "Oh fuck!"
-    u "哦，操！"
+    u "噢，操！"
 
 # game/v11/scene13.rpy:112
 translate chinese v11_aubrey_plane_sex_sg_fd988d65:
@@ -40,7 +40,7 @@ translate chinese v11_aubrey_plane_sex_sg_fd988d65:
 translate chinese v11_aubrey_plane_sex_sg_6f396561:
 
     # u "You... Oh god."
-    u "你……哦，天呐。"
+    u "你……噢，天呐。"
 
 # game/v11/scene13.rpy:124
 translate chinese v11_aubrey_plane_sex_sg_5af7b6e5:
@@ -88,13 +88,13 @@ translate chinese v11_aubrey_plane_sex_sg_3da13d1c:
 translate chinese v11_aubrey_plane_sex_sg_3ec44c55:
 
     # au "Oh fuck!"
-    au "哦，操！"
+    au "噢，操！"
 
 # game/v11/scene13.rpy:198
 translate chinese v11_aubrey_plane_sex_sg_8d1e43e3:
 
     # u "Oh shit..."
-    u "哦，该死的……"
+    u "噢，该死的……"
 
 # game/v11/scene13.rpy:204
 translate chinese v11_aubrey_plane_sex_sg_fb7863d7:
@@ -130,7 +130,7 @@ translate chinese v11_aubrey_plane_sex_sg_3da13d1c_2:
 translate chinese v11_aubrey_plane_sex_sg_3ec44c55_1:
 
     # au "Oh fuck!"
-    au "哦，操！"
+    au "噢，操！"
 
 # game/v11/scene13.rpy:245
 translate chinese v11_aubrey_plane_sex_sg_c2ba5929_1:
@@ -142,7 +142,7 @@ translate chinese v11_aubrey_plane_sex_sg_c2ba5929_1:
 translate chinese v11_aubrey_plane_sex_sg_e319e24c:
 
     # u "Oh fuck it's Lauren!"
-    u "哦，操，是劳伦！"
+    u "噢，操，是劳伦！"
 
 # game/v11/scene13.rpy:251
 translate chinese v11_aubrey_plane_sex_sg_5b3b55fb:
@@ -154,7 +154,7 @@ translate chinese v11_aubrey_plane_sex_sg_5b3b55fb:
 translate chinese v11_aubrey_plane_sex_sg_4adc212c:
 
     # au "Oh God I'm cumming!"
-    au "哦，天呐，我要去了！"
+    au "噢，天呐，我要去了！"
 
 # game/v11/scene13.rpy:258
 translate chinese v11_aubrey_plane_sex_sg_60634a23:
@@ -190,7 +190,7 @@ translate chinese v11_aubrey_plane_sex_sg_66ebc9fa:
 translate chinese v11_aubrey_plane_sex_sg_89aaf822:
 
     # la "Oh... oh shit. Sorry."
-    la "哦……哦，妈的。抱歉。"
+    la "噢……噢，妈的。抱歉。"
 
 # game/v11/scene13.rpy:314
 translate chinese v11_aubrey_plane_sex_sg_97366b30:

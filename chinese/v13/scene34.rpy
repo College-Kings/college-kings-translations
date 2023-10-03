@@ -814,7 +814,7 @@ translate chinese v13s34_2_22256795:
 translate chinese v13s34_2_7a9cc1d6:
 
     # ri "Oh..."
-    ri "哦……"
+    ri "噢……"
 
 # game/v13/scene34.rpy:716
 translate chinese v13s34_2_25437fbc:
@@ -838,7 +838,7 @@ translate chinese v13s34_2_9d3dbc19:
 translate chinese v13s34_2_8ab59898:
 
     # lee "Oh, so you and Riley being my assistants and receiving a guaranteed A for the rest of the semester, is a waste of time?"
-    lee "哦，那么你和莱莉做我的助手，在本学期的睡觉考试中拿到A的保证，是在浪费时间吗？"
+    lee "噢，那么你和莱莉做我的助手，在本学期的睡觉考试中拿到A的保证，是在浪费时间吗？"
 
 # game/v13/scene34.rpy:736
 translate chinese v13s34_2_db18203f:
@@ -868,7 +868,7 @@ translate chinese v13s34_2_c3821c6a:
 translate chinese v13s34_2_ed0522ab:
 
     # u "Wow, I wanna be mad at you but... I'm kinda impressed."
-    u "哇，我想生你的气，但是……我有点印象深刻。"
+    u "哇，我想生您的气，但是……我有点印象深刻。"
 
 # game/v13/scene34.rpy:761
 translate chinese v13s34_2_1e8812a9:
@@ -910,7 +910,7 @@ translate chinese v13s34_2_f9e9017d:
 translate chinese v13s34_2_435bcdbd:
 
     # u "Wow... Guess I just chose to be friends with the wrong person. *Chuckles*"
-    u "哇哦……我想我只是选择了和错误的人做朋友。 *咯咯笑* "
+    u "哇噢……我想我只是选择了和错误的人做朋友。 *咯咯笑* "
 
 # game/v13/scene34.rpy:801
 translate chinese v13s34_2_eb1cb88b:
@@ -934,7 +934,7 @@ translate chinese v13s34_2_5ce27ad1:
 translate chinese v13s34_2_0542dd3a:
 
     # u "Hey. uh... Sorry about all that, Clipps."
-    u "嘿你好啊。呃……很抱歉刚刚的一切，克利普斯"
+    u "嘿。呃……很抱歉刚刚的一切，克利普斯"
 
 # game/v13/scene34.rpy:826
 translate chinese v13s34_2_b26cc959:
@@ -1000,7 +1000,7 @@ translate chinese v13s34_2_72d95007:
 translate chinese v13s34_2_ba560c40:
 
     # u "Mr. Lee, I'm gonna go as well. I don't know if I should say thanks or that I hate you..."
-    u "李先生，我也要走了。我不知道我应该说谢谢还是我恨你……"
+    u "李先生，我也要走了。我不知道我应该说谢谢还是我恨您……"
 
 # game/v13/scene34.rpy:891
 translate chinese v13s34_2_5d85f34e:
@@ -1012,7 +1012,7 @@ translate chinese v13s34_2_5d85f34e:
 translate chinese v13s34_2_9fb611a7:
 
     # u "You too."
-    u "你也是。"
+    u "您也是。"
 
 translate chinese strings:
 

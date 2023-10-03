@@ -10,7 +10,7 @@ translate chinese v11_lauren_airport_convo_53e21e42:
 translate chinese v11_lauren_airport_convo_34c2129e:
 
     # la "Leave me alone, asshole."
-    la "离我远点，混蛋。"
+    la "离我远点儿，混蛋。"
 
 # game/v11/scene16.rpy:52
 translate chinese v11_lauren_airport_convo_dab6e8c7:
@@ -124,7 +124,7 @@ translate chinese v11_lauren_airport_convo_e11deaf9_1:
 translate chinese v11_lauren_airport_convo_edae0fdf:
 
     # la "Oh okay... well, I guess I'll see you in London."
-    la "哦，好的……嗯，我想我们伦敦见。"
+    la "噢，好的……嗯，我想我们伦敦见。"
 
 # game/v11/scene16.rpy:182
 translate chinese v11_lauren_airport_convo_be82708f:
@@ -268,7 +268,7 @@ translate chinese v11_lauren_airport_convo_12878308:
 translate chinese v11_lauren_airport_convo_71f53713:
 
     # u "Oh, someone's out of character."
-    u "哦，有人不是那种性格的人。"
+    u "噢，有人不是那种性格的人。"
 
 # game/v11/scene16.rpy:333
 translate chinese v11_lauren_airport_convo_e4440e1d:

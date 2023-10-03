@@ -172,7 +172,7 @@ translate chinese v13s48_505a3f68:
 translate chinese v13s48_1db4d94e:
 
     # au "Oh, wow... I might have you do this for me more often."
-    au "哦，哇……我可能会让你多帮我做这件事。"
+    au "噢，哇……我可能会让你多帮我做这件事。"
 
 # game/v13/scene48.rpy:218
 translate chinese v13s48_9b9ff171:
@@ -724,7 +724,7 @@ translate chinese v13s48_3f01f53c:
 translate chinese v13s48_c3d5a8ee:
 
     # u "Oooh, now I'm excited. *Chuckles*"
-    u "哦，现在我很兴奋。 *咯咯笑*"
+    u "噢，现在我很兴奋。 *咯咯笑*"
 
 # game/v13/scene48.rpy:706
 translate chinese v13s48_ccdcf5d3:

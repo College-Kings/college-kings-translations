@@ -4,13 +4,13 @@
 translate chinese v10_cafe_w_jenny_16bf8974:
 
     # u "(Damn, morning comes fast. I need to get ready and head over to the cafe.)"
-    u "(见鬼，早晨来得真快。我需要准备一下，然后去咖啡馆。)"
+    u "(天呐，早晨来得真快。我需要准备一下，然后去咖啡馆。)"
 
 # game/v10/scene22.rpy:20
 translate chinese v10_cafe_w_jenny_16bf8974_1:
 
     # u "(Damn, morning comes fast. I need to get ready and head over to the cafe.)"
-    u "(见鬼，早晨来得真快。我需要准备一下，然后去咖啡馆。)"
+    u "(天呐，早晨来得真快。我需要准备一下，然后去咖啡馆。)"
 
 # game/v10/scene22.rpy:25
 translate chinese v10_cafe_w_jenny_5feaef5f:
@@ -388,7 +388,7 @@ translate chinese v10_cafe_w_jenny_d65d7ab9:
 translate chinese v10_cafe_w_jenny_ce5e6435:
 
     # pe "Oh my god, really? That'd mean so much to me. I don't know anything about hearings or arguing."
-    pe "天啊，真的吗？那对我来说意义重大。我对听证会或争论一无所知。"
+    pe "天呐，真的吗？那对我来说意义重大。我对听证会或争论一无所知。"
 
 # game/v10/scene22.rpy:340
 translate chinese v10_cafe_w_jenny_15605641:
@@ -460,7 +460,7 @@ translate chinese v10_cafe_w_jenny_543a980e:
 translate chinese v10_cafe_w_jenny_6b280663:
 
     # jen "Oh, is everything okay?"
-    jen "哦，一切都还好吗？"
+    jen "噢，一切都还好吗？"
 
 # game/v10/scene22.rpy:410
 translate chinese v10_cafe_w_jenny_5440f44b:
@@ -580,7 +580,7 @@ translate chinese v10_cafe_w_jenny_a72749df:
 translate chinese v10_cafe_w_jenny_4b3a0616:
 
     # jen "Oh, heyyy. I didn't know you were also coming."
-    jen "哦，你好。我不知道你也会来。"
+    jen "噢，你好。我不知道你也会来。"
 
 # game/v10/scene22.rpy:513
 translate chinese v10_cafe_w_jenny_a7ae71de:
@@ -592,7 +592,7 @@ translate chinese v10_cafe_w_jenny_a7ae71de:
 translate chinese v10_cafe_w_jenny_d1e85928:
 
     # pe "Oh okay, that's... that's fine. I guess I needed to tell her at some point."
-    pe "哦，好吧，那是……那很好。我想在某个时候我需要告诉她。"
+    pe "噢，好吧，那是……那很好。我想在某个时候我需要告诉她。"
 
 # game/v10/scene22.rpy:523
 translate chinese v10_cafe_w_jenny_d6498c6c:
@@ -640,7 +640,7 @@ translate chinese v10_cafe_w_jenny_cce17fcd:
 translate chinese v10_cafe_w_jenny_38ee4176:
 
     # jen "Oh my god Penelope, so I'm the reason you've been so upset all this time?"
-    jen "哦，我的天啊，佩内洛普，这么说我就是你一直心烦意乱的原因？"
+    jen "噢，我的天呐，佩内洛普，这么说我就是你一直心烦意乱的原因？"
 
 # game/v10/scene22.rpy:556
 translate chinese v10_cafe_w_jenny_2dc3de48:
@@ -784,7 +784,7 @@ translate chinese v10_cafe_w_jenny_d65d7ab9_1:
 translate chinese v10_cafe_w_jenny_02f8f329:
 
     # pe "Oh my god, really? That'd mean so much to me."
-    pe "天啊，真的吗？那对我来说意义重大。"
+    pe "天呐，真的吗？那对我来说意义重大。"
 
 # game/v10/scene22.rpy:659
 translate chinese v10_cafe_w_jenny_154e4ebe:

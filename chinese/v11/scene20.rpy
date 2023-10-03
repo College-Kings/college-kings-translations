@@ -64,7 +64,7 @@ translate chinese v11_treasure_hunt_f3b12ad7:
 translate chinese v11_treasure_hunt_00968c9b:
 
     # ri "*Sighs* What would you do without me?"
-    ri "*叹息* 没有我你怎么办？"
+    ri "*叹息* 没有我你怎么办啊？"
 
 # game/v11/scene20.rpy:85
 translate chinese v11_treasure_hunt_084fff7a:
@@ -76,7 +76,7 @@ translate chinese v11_treasure_hunt_084fff7a:
 translate chinese v11_treasure_hunt_b8b32797:
 
     # ri "Oh, quit whining. The riddle is \"Deep in London, you'll find Mr. Duncan, not at a luncheon, where gunmen go stunting."
-    ri "哦，别发牢骚了。谜语是\"在伦敦的深处，你会找到邓肯先生，不是在一个午餐会上，枪手们会在那里进行射击。"
+    ri "噢，别发牢骚了。谜语是\"在伦敦的深处，你会找到邓肯先生，不是在一个午餐会上，枪手们会在那里进行射击。"
 
 # game/v11/scene20.rpy:95
 translate chinese v11_treasure_hunt_4a2d663e:
@@ -148,7 +148,7 @@ translate chinese v11_treasure_hunt_b579e14a:
 translate chinese v11_treasure_hunt_c8e750be:
 
     # dun "Oh, so you're a doubter?"
-    dun "哦，这么说你是个怀疑论者了？"
+    dun "噢，这么说你是个怀疑论者了？"
 
 # game/v11/scene20.rpy:180
 translate chinese v11_treasure_hunt_0238517d:
@@ -184,7 +184,7 @@ translate chinese v11_treasure_hunt_17acb9e7:
 translate chinese v11_treasure_hunt_4af2f6cc:
 
     # ri "Oooh! Can I do the shooting? *Chuckles*"
-    ri "哦哦！我能射击吗？ *咯咯笑*"
+    ri "噢噢！我能射击吗？ *咯咯笑*"
 
 # game/v11/scene20.rpy:220
 translate chinese v11_treasure_hunt_06d67ac1:
@@ -304,7 +304,7 @@ translate chinese v11_treasure_hunt_8b843840:
 translate chinese v11_treasure_hunt_40ae7edb:
 
     # u "Oh, shit... I'm sorry Riley, I-"
-    u "哦，该死……抱歉，莱莉，我-"
+    u "噢，该死……抱歉，莱莉，我-"
 
 # game/v11/scene20.rpy:351
 translate chinese v11_treasure_hunt_5c0d85d8:
@@ -352,7 +352,7 @@ translate chinese v11_treasure_hunt_93e37e38:
 translate chinese v11_treasure_hunt_d1981963:
 
     # ri "Oh no... I'm so sorry! You have to get a bullseye, [name]. This is our only chance!"
-    ri "哦，不……我太抱歉了！你得命中靶心，[name]。这是我们唯一的机会！"
+    ri "噢，不……我太抱歉了！你得命中靶心，[name]。这是我们唯一的机会！"
 
 # game/v11/scene20.rpy:448
 translate chinese v11_treasure_hunt_9bd26f39:

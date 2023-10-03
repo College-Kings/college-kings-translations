@@ -40,7 +40,7 @@ translate chinese v12_lauren_sex_92dc5f01:
 translate chinese v12_lauren_sex_87478ca8:
 
     # u "Ooo, what's that?"
-    u "哦，是什么？"
+    u "噢，是什么？"
 
 # game/v12/scene29.rpy:59
 translate chinese v12_lauren_sex_c81193af:
@@ -106,7 +106,7 @@ translate chinese v12_lauren_sex_0ffc2516:
 translate chinese v12_lauren_sex_3ce59ee6:
 
     # u "Holy... Lauren, oh my god!"
-    u "天啊……劳伦，哦，我的天啊！"
+    u "天呐……劳伦，噢，我的天呐！"
 
 # game/v12/scene29.rpy:175
 translate chinese v12_lauren_sex_651c3648:
@@ -124,7 +124,7 @@ translate chinese v12_lauren_sex_500a3bbf:
 translate chinese v12_lauren_sex_51fe3e3e:
 
     # la "Oh, haha... Thank you, you look very handsome as well. Sorry I took so long..."
-    la "哦，哈哈……谢谢，你看起来也很帅。抱歉，我花了这么长时间……"
+    la "噢，哈哈……谢谢，你看起来也很帅。抱歉，我花了这么长时间……"
 
 # game/v12/scene29.rpy:190
 translate chinese v12_lauren_sex_cf86edca:
@@ -178,7 +178,7 @@ translate chinese v12_lauren_sex_6ab680cf:
 translate chinese v12_lauren_sex_89b722df:
 
     # u "Damn, this is a nice place! Treating me to dinner?"
-    u "妈的，这地方真不错！请我吃饭吗？"
+    u "天呐，这地方真不错！请我吃饭吗？"
 
 # game/v12/scene29.rpy:252
 translate chinese v12_lauren_sex_c02c4436:
@@ -244,7 +244,7 @@ translate chinese v12_lauren_sex_93ddf3ac:
 translate chinese v12_lauren_sex_dfc51a4a:
 
     # la "Oh no, what's wrong?"
-    la "哦，不，怎么了？"
+    la "噢，不，怎么了？"
 
 # game/v12/scene29.rpy:320
 translate chinese v12_lauren_sex_828eb2ae:
@@ -676,7 +676,7 @@ translate chinese v12_lauren_sex_sg_18bf60bf:
 translate chinese v12s29_lauren_fingering_17e44010:
 
     # la "Ahh, oh god... Please... be gentle."
-    la "啊，天啊……请……温柔点。"
+    la "啊，天呐……请……温柔点。"
 
 # game/v12/scene29.rpy:885
 translate chinese v12s29_lauren_fingering_9a189e36:
@@ -950,7 +950,7 @@ translate chinese strings:
 
     # game/v12/scene29.rpy:473
     old "Hold her"
-    new "包住她"
+    new "报住她"
 
     # game/v12/scene29.rpy:604
     old "We'll do this another day"

@@ -178,7 +178,7 @@ translate chinese v13s29_ee40d6ac:
 translate chinese v13s29_eb4b16e7:
 
     # am "Ohhh..."
-    am "哦……"
+    am "噢……"
 
 # game/v13/scene29.rpy:211
 translate chinese v13s29_6eb67345:
@@ -202,7 +202,7 @@ translate chinese v13s29_27d1d035:
 translate chinese v13s29_488a74ce:
 
     # gary "Wow indeed."
-    gary "哦，哇！"
+    gary "噢，哇！"
 
 # game/v13/scene29.rpy:241
 translate chinese v13s29_af8e02d5:
@@ -274,7 +274,7 @@ translate chinese v13s29_a27dcdb8:
 translate chinese v13s29_5f8fb01f:
 
     # am "Oh lord..."
-    am "哦，主啊……"
+    am "噢，主啊……"
 
 # game/v13/scene29.rpy:312
 translate chinese v13s29_924fc158:
@@ -370,7 +370,7 @@ translate chinese v13s29_49d85b9c:
 translate chinese v13s29_e9d970b6:
 
     # am "*Whisper* Oh my god. *Chuckles*"
-    am " *低语* 哦，我的天。 *咯咯笑* "
+    am " *低语* 噢，我的天。 *咯咯笑* "
 
 # game/v13/scene29.rpy:401
 translate chinese v13s29_b6c21891:

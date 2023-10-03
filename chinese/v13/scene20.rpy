@@ -4,7 +4,7 @@
 translate chinese v13s20_ec9f3b02:
 
     # u "(Ohhhh shit... I'm gonna fuck some shit up.) *Laughs*"
-    u "(哦，该死的……我要搞砸一些事。) *笑* "
+    u "(噢，该死的……我要搞砸一些事。) *笑* "
 
 # game/v13/scene20.rpy:34
 translate chinese v13s20_closet_ca322295:
@@ -34,7 +34,7 @@ translate chinese v13s20_closet_87c7ad77:
 translate chinese v13s20_closet_5f456375:
 
     # u "(Ugh... Oh, fuck) *Gags*"
-    u "(呃……哦，他妈的) *偷笑* "
+    u "(呃……噢，他妈的) *偷笑* "
 
 # game/v13/scene20.rpy:58
 translate chinese v13s20_closet_a80ed8d1:
@@ -124,7 +124,7 @@ translate chinese v13s20_end_5f6678ce:
 translate chinese v13s20_end_5b757d75:
 
     # u "Hmm... Oh, shit. This is Mr. Lee's test..."
-    u "嗯……哦，见鬼。这是李先生的测试……"
+    u "嗯……噢，见鬼。这是李先生的测试……"
 
 # game/v13/scene20.rpy:210
 translate chinese v13s20_end_6ebd9d56:

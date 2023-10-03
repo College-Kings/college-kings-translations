@@ -262,13 +262,13 @@ translate chinese v13s22_15a765ba:
 translate chinese v13s22_13e90f99:
 
     # u "(Event? What is he... Oh, he's talking about the Simplr thing.)"
-    u "(活动？他在说……哦，他在说简约的事。)"
+    u "(活动？他在说……噢，他在说简约的事儿。)"
 
 # game/v13/scene22.rpy:232
 translate chinese v13s22_cc635569:
 
     # u "Oh, yeah!"
-    u "哦，是啊！"
+    u "噢，是啊！"
 
 # game/v13/scene22.rpy:242
 translate chinese v13s22_194b3f3b:

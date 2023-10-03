@@ -10,7 +10,7 @@ translate chinese v13s44_7367de74:
 translate chinese v13s44_26d31e4f:
 
     # u "Oh, hey Lauren."
-    u "哦，嘿，劳伦。"
+    u "噢，嘿，劳伦。"
 
 # game/v13/scene44.rpy:29
 translate chinese v13s44_ac1930cf:
@@ -112,7 +112,7 @@ translate chinese v13s44_f4e2b0dd:
 translate chinese v13s44_2de9017f:
 
     # u "Oh shit I can't believe I almost forgot. How are you feeling after the hospital?"
-    u "哦，见鬼，真不敢相信我差点忘了。你出院后感觉怎么样？"
+    u "噢，见鬼，真不敢相信我差点忘了。你出院后感觉怎么样？"
 
 # game/v13/scene44.rpy:116
 translate chinese v13s44_74a9f315:

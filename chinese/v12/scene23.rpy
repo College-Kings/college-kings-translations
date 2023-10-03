@@ -52,7 +52,7 @@ translate chinese v12_ms_rose_sex_84ce0bb6:
 translate chinese v12_ms_rose_sex_6da73ef3:
 
     # ro "Oh... That's too bad, but no worries. See you around."
-    ro "哦……那太糟糕了，不过别担心。再见。"
+    ro "噢……那太糟糕了，不过别担心。再见。"
 
 # game/v12/scene23.rpy:72
 translate chinese v12_ms_rose_sex_a4aa42c5:
@@ -190,7 +190,7 @@ translate chinese v12_ms_rose_sex_sg_f31d55e7:
 translate chinese v12_ms_rose_sex_sg_7f599598:
 
     # ro "Ooo, yes baby... I love this!"
-    ro "哦，是的，宝贝……我喜欢这样！"
+    ro "噢，是的，宝贝……我喜欢这样！"
 
 # game/v12/scene23.rpy:315
 translate chinese v12_ms_rose_sex_sg_804b3a75:
@@ -322,7 +322,7 @@ translate chinese v12_ms_rose_sex_sg_98c478d9:
 translate chinese v12s23_nsfwSkipLabel1_21c816a4:
 
     # cl "Oh my g- Is he okay?!"
-    cl "哦，我的天，他还好吗？！"
+    cl "噢，我的天，他还好吗？！"
 
 # game/v12/scene23.rpy:476
 translate chinese v12s23_nsfwSkipLabel1_b610614e:
@@ -334,7 +334,7 @@ translate chinese v12s23_nsfwSkipLabel1_b610614e:
 translate chinese v12s23_nsfwSkipLabel1_1106a139:
 
     # cl "Oh... Not surprised. I got him. *Chuckles* Thank you, Ms. Rose."
-    cl "哦……这并不令人惊讶。我来照顾他。 *咯咯笑* 谢谢你，罗斯女士。"
+    cl "噢……这并不令人惊讶。我来照顾他。 *咯咯笑* 谢谢你，罗斯女士。"
 
 # game/v12/scene23.rpy:486
 translate chinese v12s23_nsfwSkipLabel1_f2daf587:
@@ -346,7 +346,7 @@ translate chinese v12s23_nsfwSkipLabel1_f2daf587:
 translate chinese v12s23_nsfwSkipLabel1_dc8350e9:
 
     # ri "Oh my god, [name]! Is he hurt?!"
-    ri "哦，我的天哪，[name]！他受伤了吗？！"
+    ri "噢，我的天哪，[name]！他受伤了吗？！"
 
 # game/v12/scene23.rpy:502
 translate chinese v12s23_nsfwSkipLabel1_bd4b7184:

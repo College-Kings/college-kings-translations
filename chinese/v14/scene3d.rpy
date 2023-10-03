@@ -22,13 +22,13 @@ translate chinese v14s03d_ee12d347:
 translate chinese v14s03d_d0c98984:
 
     # satin "Oh, and you aren't a virgin like your friend, right?"
-    satin "哦，你也不像你朋友那样是个雏，对吧？"
+    satin "噢，你也不像你朋友那样是个雏，对吧？"
 
 # game/v14/scene3d.rpy:32
 translate chinese v14s03d_002f6181:
 
     # u "Ha, no. Definitely not a virgin."
-    u "哈，不。绝对不是处。"
+    u "哈，不。绝对不是个雏。"
 
 # game/v14/scene3d.rpy:37
 translate chinese v14s03d_044dfbad:
@@ -130,7 +130,7 @@ translate chinese v14s03d_6b3c4b3f:
 translate chinese v14s03d_59214afc:
 
     # satin "At this point, regardless of what you say, I'm not even in the mood."
-    satin "此时此刻，不管你说什么，我都没心情。"
+    satin "此时此刻，不管你说什么，我都没心情了。"
 
 # game/v14/scene3d.rpy:182
 translate chinese v14s03d_fc6b0491:
@@ -160,7 +160,7 @@ translate chinese v14s03d_e7203db1:
 translate chinese v14s03d_19271ff9:
 
     # u "(What the fuck is wrong with me?)"
-    u "(我他妈的怎么了？)"
+    u "(我他妈地怎么了？)"
 
 # game/v14/scene3d.rpy:210
 translate chinese v14s03d_648cfe62:
@@ -178,7 +178,7 @@ translate chinese v14s03d_2e7d6032:
 translate chinese v14s03d_6b84aef1:
 
     # u "Oh f-fuck... You're soaking wet!"
-    u "哦，他-他妈的……你湿透了！"
+    u "噢，他-他妈的……你湿透了！"
 
 # game/v14/scene3d.rpy:234
 translate chinese v14s03d_99e34f2c:
@@ -310,7 +310,7 @@ translate chinese v14s03d_8f16ee08:
 translate chinese v14s03d_739a375d:
 
     # satin "*Whisper* Fuck me, Will! Oh, yes... F-fuck..."
-    satin " *低语* 操我，威尔！哦，是的。他妈的……"
+    satin " *低语* 操我，威尔！噢，是的。他妈的……"
 
 # game/v14/scene3d.rpy:387
 translate chinese v14s03d_4dabffe9:

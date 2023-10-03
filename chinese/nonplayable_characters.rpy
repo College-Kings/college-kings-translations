@@ -24,7 +24,7 @@ translate chinese strings:
 
     # game/nonplayable_characters.rpy:238
     old "Beth"
-    new "Beth"
+    new "贝丝"
 
     # game/nonplayable_characters.rpy:239
     old "Buyer"
@@ -68,7 +68,7 @@ translate chinese strings:
 
     # game/nonplayable_characters.rpy:253
     old "Iris"
-    new "Iris"
+    new "伊立斯"
 
     # game/nonplayable_characters.rpy:255
     old "Josh80085"
@@ -104,7 +104,7 @@ translate chinese strings:
 
     # game/nonplayable_characters.rpy:265
     old "Ms Rose"
-    new "Ms Rose"
+    new "罗斯女士"
 
     # game/nonplayable_characters.rpy:266
     old "NaomiXMarie"

@@ -10,7 +10,7 @@ translate chinese fr5ryan1_3b09e5fa:
 translate chinese fr5ryan1_dec8d92e:
 
     # ry "That obvious, huh?"
-    ry "很明显吧？"
+    ry "很明显，对吧？"
 
 # game/v9/scene7.rpy:44
 translate chinese fr5ryan1_a2337515:
@@ -52,7 +52,7 @@ translate chinese fr5ryan1_a89a262e:
 translate chinese fr5ryan1_a2a93119:
 
     # u "And to me, getting into Wolves really feels like a pretty good choice."
-    u "对我来说，进入狼队真的是一个很好的选择。"
+    u "对我来说，进入狼人真的是一个很好的选择。"
 
 # game/v9/scene7.rpy:73
 translate chinese fr5ryan1_b7a5bce3:
@@ -88,7 +88,7 @@ translate chinese fr5ryan1_3ab5d78a:
 translate chinese fr5ryan1_dd6510e9:
 
     # ry "Oh is that so, little puppy?"
-    ry "哦，是这样吗，小狗？"
+    ry "哦，是这样吗，小狗狗？"
 
 # game/v9/scene7.rpy:100
 translate chinese fr5ryan1_e2212c7d:
@@ -100,7 +100,7 @@ translate chinese fr5ryan1_e2212c7d:
 translate chinese fr5ryan1_5839eb58:
 
     # u "I don't really see you dripping in pussy, haha."
-    u "我真的没看到你在阴道灌水，哈哈。"
+    u "我真的没看见过你睡了哪个姑娘呢，哈哈。"
 
 # game/v9/scene7.rpy:110
 translate chinese fr5ryan1_783a4905:
@@ -118,7 +118,7 @@ translate chinese fr5ryan1_9d598f22:
 translate chinese fr5ryan1_25dd620f:
 
     # ry "Now that you mention it, that first day I met you, I almost mistook you for a babe."
-    ry "既然你提到了，我第一天见到你，我差点把你误认为是个宝贝。"
+    ry "既然你提到了，我第一天见到你，我差点把你误认为是个宝贝儿。"
 
 # game/v9/scene7.rpy:123
 translate chinese fr5ryan1_1a6449c3:
@@ -256,19 +256,19 @@ translate chinese fr5ryan1_29f18b00:
 translate chinese fr5ryan1_c9a180b5:
 
     # u "There was this dark void all around me and then a boxing ring and then a fight."
-    u "我周围是一片黑暗的空虚，然后是拳击台，然后是打架。"
+    u "我周围是一片黑暗的空虚，然后是拳击台，然后是决斗。"
 
 # game/v9/scene7.rpy:242
 translate chinese fr5ryan1_87d48738:
 
     # ry "You were fighting someone? In a dark void?"
-    ry "你在和别人打架？在黑暗的虚空中？"
+    ry "你在和别人决斗？在黑暗的虚空中？"
 
 # game/v9/scene7.rpy:247
 translate chinese fr5ryan1_043c96ab:
 
     # u "Yeah, I wanted to fight the Wolves. But no matter how hard I tried to hit, I did nothing."
-    u "是啊，我想和狼战斗。但不管我怎么使劲打，都没有用。"
+    u "是啊，我想和狼人战斗。但不管我怎么使劲打，都没有用。"
 
 # game/v9/scene7.rpy:252
 translate chinese fr5ryan1_03f07a16:
@@ -358,7 +358,7 @@ translate chinese fr5ryan1_4496ad5f:
 translate chinese fr5ryan1_86b36519:
 
     # ry "And the kind of guy who can do this. Someone to show how great Apes are. And how hard they can punch."
-    ry "也是那种能做到这一点的人。一个展示狂猿有多伟大的人。以及他们能展示所多少力量。"
+    ry "也是那种能做到这一点的人。一个展示猿人有多伟大的人。以及他们能展示所多少力量。"
 
 # game/v9/scene7.rpy:316
 translate chinese fr5ryan1_76a0d067:
@@ -370,7 +370,7 @@ translate chinese fr5ryan1_76a0d067:
 translate chinese fr5ryan1_519b48a7:
 
     # ry "No problem, that's what bros are for, am I right?"
-    ry "没问题，做兄弟在心中，对吧？"
+    ry "没问题，兄弟齐心，其力断金，对吧？"
 
 # game/v9/scene7.rpy:326
 translate chinese fr5ryan1_ac92dc30:
@@ -394,7 +394,7 @@ translate chinese fr5ryan1_8d14f526:
 translate chinese fr5ryan1_c99609d1:
 
     # u "The Freshmen Brawl."
-    u "新生混斗比赛。"
+    u "新生争霸赛。"
 
 # game/v9/scene7.rpy:348
 translate chinese fr5ryan1_105c8062:
@@ -496,7 +496,7 @@ translate chinese fr5ryan1_053e4bcb_1:
 translate chinese fr5riley1_f98229dd:
 
     # u "What's a pretty lady doing all by herself?"
-    u "一个漂亮的女在做什么呢？"
+    u "一个漂亮的女孩在做什么呢？"
 
 # game/v9/scene7.rpy:438
 translate chinese fr5riley1_51d3f5f4:
@@ -514,7 +514,7 @@ translate chinese fr5riley1_9174c262:
 translate chinese fr5riley1_f1e2f83f:
 
     # ri "Where? Can't see. Come closer, mister."
-    ri "哪？看不见。靠近点，先生。"
+    ri "哪？看不见。靠近点儿，先生。"
 
 # game/v9/scene7.rpy:467
 translate chinese fr5riley1_aa94a989:
@@ -556,43 +556,43 @@ translate chinese fr5riley1_7ccbd35d:
 translate chinese fr5riley1_706baa4c:
 
     # ri "What the fuck was that?! Haha!"
-    ri "他妈的那是什么？！哈哈！"
+    ri "这他妈的是什么鬼？！哈哈！"
 
 # game/v9/scene7.rpy:503
 translate chinese fr5riley1_1cbd0ab7:
 
     # u "It's a family recipe, don't even try to ask."
-    u "这是家传秘方，别问了。"
+    u "这是祖传秘方，别问了。"
 
 # game/v9/scene7.rpy:508
 translate chinese fr5riley1_1a7274d0:
 
     # ri "Why would I? It sucks, haha."
-    ri "我为什么要？太烂了，哈哈。"
+    ri "我为什么要？太烂（吸）了，哈哈。"
 
 # game/v9/scene7.rpy:513
 translate chinese fr5riley1_5da49d20:
 
     # u "First of all, it does not suck, it blows! And second of all, it's not an instant remedy, you know."
-    u "首先，这并不遭，而是吹！其次，你知道，这不是立竿见影的办法。"
+    u "首先，这并不是吸，而是吹！其次，你知道，这不是立竿见影的办法。"
 
 # game/v9/scene7.rpy:518
 translate chinese fr5riley1_8ccd0ce0:
 
     # ri "And here was I relaxing. Then HE had to drop by and make me all excited and what not."
-    ri "这是我放松的时候。然后他就顺道来了，让我很兴奋什么的。"
+    ri "然后就趁我放松的时候。他就顺道吹来了，好让我很兴奋什么的。"
 
 # game/v9/scene7.rpy:523
 translate chinese fr5riley1_421475d5:
 
     # u "I was just checking on you. Having a nice time?"
-    u "我只是来看看你。玩得开心吗？"
+    u "我只是来看看你。玩儿得开心吗？"
 
 # game/v9/scene7.rpy:528
 translate chinese fr5riley1_51a2edbe:
 
     # ri "Yeah. I really need this sometimes. Just looking at water is so relaxing. Don't you think so?"
-    ri "是啊。我有时真的需要这个。光是看水就很放松。你不这么认为吗？"
+    ri "是的。我有时真的需要这样。光是看水就很放松。你不这么认为吗？"
 
 # game/v9/scene7.rpy:533
 translate chinese fr5riley1_94b1b55a:
@@ -604,7 +604,7 @@ translate chinese fr5riley1_94b1b55a:
 translate chinese fr5riley1_ea38f33b:
 
     # ri "Not at all."
-    ri "一点也不。"
+    ri "一点儿也不。"
 
 # game/v9/scene7.rpy:543
 translate chinese fr5riley1_fb910257:
@@ -694,7 +694,7 @@ translate chinese fr5aubrey1_38c9a303:
 translate chinese fr5aubrey1_d030d6c2:
 
     # au "Oh what, don't tell me that [name] is afraid of a bit of cold water?"
-    au "哦，什么，别告诉我，[name]怕冷水？"
+    au "噢，什么，别告诉我，[name]怕冷水？"
 
 # game/v9/scene7.rpy:619
 translate chinese fr5aubrey1_bc78feac:
@@ -724,13 +724,13 @@ translate chinese fr5aubrey1_67ce54bf:
 translate chinese fr5aubrey1_3e05c478:
 
     # u "Oh yeah?"
-    u "哦，是吗？"
+    u "噢，是吗？"
 
 # game/v9/scene7.rpy:644
 translate chinese fr5aubrey1_b03baac7:
 
     # au "Yeah."
-    au "是啊。"
+    au "是的。"
 
 # game/v9/scene7.rpy:653
 translate chinese fr5aubrey1_db1a25f9:
@@ -754,7 +754,7 @@ translate chinese fr5aubrey1_043c6ee5:
 translate chinese fr5aubrey1_fda9681e:
 
     # au "You are such a party-pooper, [name]. I'll forgive you, though. But don't forget, you owe me one now."
-    au "你真是个扫兴的人，[name]。不过，我会原谅你的。但别忘了，你现在欠我一个人情。"
+    au "你真是个扫兴的人，[name]。不过，我会原谅你的。但别忘了，你现在欠我一个次。"
 
 # game/v9/scene7.rpy:673
 translate chinese fr5aubrey1_9b74adb0:
@@ -796,25 +796,25 @@ translate chinese fr5aubrey1_b57bff8b:
 translate chinese fr5aubrey1_b28b487b:
 
     # u "Just like it was promised. Almost as cool as me."
-    u "就像承诺的那样。几乎和我一样酷。"
+    u "就像我说的那样。几乎和我一样舒服。"
 
 # game/v9/scene7.rpy:713
 translate chinese fr5aubrey1_0d6b02d2:
 
     # au "Oh, is that so? Well, I'm glad you like it."
-    au "哦，是这样吗？好吧，我很高兴你喜欢。"
+    au "噢，是这样吗？好吧，我很高兴你喜欢。"
 
 # game/v9/scene7.rpy:718
 translate chinese fr5aubrey1_97c8a142:
 
     # u "If it's good to you, why would I be any different? So, why did you invite me here?"
-    u "如果你很好，为什么我有什么不同吗?那你为什么邀请我来这里？"
+    u "如果水让你很舒服，为什么我感觉什么不同？那你为什么邀请我来这里？"
 
 # game/v9/scene7.rpy:723
 translate chinese fr5aubrey1_f97453ac:
 
     # au "I just thought it could be fun, you know. I was getting a bit lonely."
-    au "我只是觉得会很有趣，你知道的。我有点孤单。"
+    au "我只是觉得会很有趣，你知道的。我有点儿孤单。"
 
 # game/v9/scene7.rpy:728
 translate chinese fr5aubrey1_c6b997fb:
@@ -838,7 +838,7 @@ translate chinese fr5aubrey1_ce284c00:
 translate chinese fr5aubrey1_191a6214:
 
     # au "Oh, getting philosophical?"
-    au "哦，变得有哲理了？"
+    au "噢，变得有哲理了？"
 
 # game/v9/scene7.rpy:748
 translate chinese fr5aubrey1_5c6dc2eb:
@@ -880,25 +880,25 @@ translate chinese v9_aubrey_scene_lake_c2fd76b5:
 translate chinese v9_aubrey_scene_lake_c36ecd1c:
 
     # u "What is this?"
-    u "这是什么？"
+    u "这是哪儿？"
 
 # game/v9/scene7.rpy:795
 translate chinese v9_aubrey_scene_lake_3304766b:
 
     # au "It's my secret place. Do you like it?"
-    au "那是我的秘密之地。你喜欢吗？"
+    au "那是我的神秘境地。你喜欢吗？"
 
 # game/v9/scene7.rpy:800
 translate chinese v9_aubrey_scene_lake_9b30ff5e:
 
     # u "Oh I like THAT."
-    u "哦，我喜欢那样。"
+    u "噢，我喜欢那样。"
 
 # game/v9/scene7.rpy:805
 translate chinese v9_aubrey_scene_lake_2fb2c456:
 
     # au "Come. Follow me."
-    au "来啊。跟我来。"
+    au "来吧。跟我来。"
 
 # game/v9/scene7.rpy:810
 translate chinese v9_aubrey_scene_lake_61bed0b8:
@@ -946,7 +946,7 @@ translate chinese v9_aubrey_scene_lake_9ea2f78c_2:
 translate chinese v9_aubrey_scene_lake_9b2a80c9:
 
     # u "Fuck, yeah. It feels soo good!"
-    u "操，是的。感觉很好！"
+    u "该死的，是的。感觉很好！"
 
 # game/v9/scene7.rpy:849
 translate chinese v9_aubrey_scene_lake_9ea2f78c_3:
@@ -1000,7 +1000,7 @@ translate chinese v9_aubrey_scene_lake_c864b3fa:
 translate chinese v9_aubrey_scene_lake_5d270f1e:
 
     # u "That does sound fair, haha."
-    u "听起来确实很公平，哈哈。"
+    u "听起来确实很合理，哈哈。"
 
 # game/v9/scene7.rpy:906
 translate chinese v9s7_nsfwSkipLabel1_9f16ac2e:
@@ -1018,7 +1018,7 @@ translate chinese v9s7_nsfwSkipLabel1_22a23130:
 translate chinese v9s7_nsfwSkipLabel1_b8a5652a:
 
     # au "Oh, so you care about me?"
-    au "哦，所以你关心我？"
+    au "噢，所以你关心我？"
 
 # game/v9/scene7.rpy:921
 translate chinese v9s7_nsfwSkipLabel1_f39b9ab0:
@@ -1042,7 +1042,7 @@ translate chinese v9s7_nsfwSkipLabel1_dc207349:
 translate chinese v9s7_nsfwSkipLabel1_1e8acc57:
 
     # au "What do you mean?"
-    au "你什么意思？"
+    au "什么意思？"
 
 # game/v9/scene7.rpy:941
 translate chinese v9s7_nsfwSkipLabel1_26df9759:
@@ -1144,7 +1144,7 @@ translate chinese fr5treeguy1_54d6cb44:
 translate chinese fr5treeguy1_92688509:
 
     # unknown "Nobody steals from me."
-    unknown "没人偷我的东西。"
+    unknown "没人要我的东西。"
 
 # game/v9/scene7.rpy:1031
 translate chinese fr5treeguy1_fb08245a:
@@ -1366,7 +1366,7 @@ translate chinese fr5dogwalker1_8a95333f:
 translate chinese fr5dogwalker1_ba5ea4bd:
 
     # u "Oh, so you adopted him?"
-    u "哦，所以你收养了它？"
+    u "噢，所以你收养了它？"
 
 # game/v9/scene7.rpy:1221
 translate chinese fr5dogwalker1_9ac14e5f_1:
@@ -1510,7 +1510,7 @@ translate chinese fr5ryan3_8985cc49:
 translate chinese fr5ryan3_37fe551f:
 
     # u "Sure."
-    u "当然。"
+    u "好的。"
 
 # game/v9/scene7.rpy:1364
 translate chinese fr5ryan3_155a8fde:
@@ -1522,15 +1522,15 @@ translate chinese strings:
 
     # game/v9/scene7.rpy:66
     old "Mention the Wolves"
-    new "提到战狼"
+    new "提到狼人"
 
     # game/v9/scene7.rpy:223
     old "Talk about your dream"
-    new "谈谈你的梦想"
+    new "谈谈你做的梦"
 
     # game/v9/scene7.rpy:223
     old "Talk about the brawl"
-    new "谈谈比赛"
+    new "谈谈争霸赛"
 
     # game/v9/scene7.rpy:453
     old "Blow air at her"

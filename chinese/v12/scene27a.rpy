@@ -82,7 +82,7 @@ translate chinese v12s27a_5d049f4a:
 translate chinese v12s27a_204944dc:
 
     # u "Oh no... What's that face for?"
-    u "哦，不……这表情是什么意思?"
+    u "噢，不……这表情是什么意思?"
 
 # game/v12/scene27a.rpy:79
 translate chinese v12s27a_904e1af1:
@@ -226,7 +226,7 @@ translate chinese v12s27a_473bb0e4:
 translate chinese v12s27a_fb427bc8:
 
     # ry "Oh, umm... I have a question for you. We need your help resolving a bet between me and [name]."
-    ry "哦，嗯。我有个问题要问你。我们需要你帮我解决我和[name]的打赌。"
+    ry "噢，嗯。我有个问题要问你。我们需要你帮我解决我和[name]的打赌。"
 
 # game/v12/scene27a.rpy:192
 translate chinese v12s27a_50be3fbd:
@@ -364,7 +364,7 @@ translate chinese v12s27a_1b9188be:
 translate chinese v12s27a_c55ef6d5:
 
     # barber "Oh boy... I sense your hesitation, my friend. Who is forcing you to do this?"
-    barber "哦，天哪……我能感觉到你的犹豫，我的朋友。是谁逼你这么做的？"
+    barber "噢，天哪……我能感觉到你的犹豫，我的朋友。是谁逼你这么做的？"
 
 # game/v12/scene27a.rpy:317
 translate chinese v12s27a_b1eeb88c:
@@ -550,7 +550,7 @@ translate chinese v12s27a_bef123e7:
 translate chinese v12s27a_4c5cd5bc:
 
     # ry "Oh man, everyone on Kiwii keeps commenting \"#RoastedApe\"."
-    ry "哦，伙计，猕猴桃上的每个人都在评论\"#烤焦的猿人\"。"
+    ry "噢，伙计，猕猴桃上的每个人都在评论\"#烤焦的猿人\"。"
 
 # game/v12/scene27a.rpy:484
 translate chinese v12s27a_64d86779:

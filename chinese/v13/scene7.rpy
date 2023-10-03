@@ -34,7 +34,7 @@ translate chinese v13_ticket_transfer_90189303:
 translate chinese v13_ticket_transfer_ee44bf7f:
 
     # u "Oh, that... *Laughs*"
-    u "哦，那个嘛…… *笑* "
+    u "噢，那个嘛…… *笑* "
 
 # game/v13/scene7.rpy:43
 translate chinese v13_ticket_transfer_8fbcff66:
@@ -214,7 +214,7 @@ translate chinese v13_ticket_transfer_999b519b:
 translate chinese v13_ticket_transfer_119b03a1:
 
     # pe "Uh, oh..."
-    pe "呃，哦……"
+    pe "呃，噢……"
 
 # game/v13/scene7.rpy:225
 translate chinese v13_ticket_transfer_f8e2fe18:
@@ -226,7 +226,7 @@ translate chinese v13_ticket_transfer_f8e2fe18:
 translate chinese v13_ticket_transfer_e4455704:
 
     # pe "Oh, wow! A concert in Amsterdam... That's so cool, [name], congrats."
-    pe "哦，哇！阿姆斯特丹的演唱会……太酷了，[name]，祝贺你。"
+    pe "噢，哇！阿姆斯特丹的演唱会……太酷了，[name]，祝贺你。"
 
 # game/v13/scene7.rpy:235
 translate chinese v13_ticket_transfer_d620df0f:
@@ -316,7 +316,7 @@ translate chinese v13_ticket_transfer_749be284:
 translate chinese v13_ticket_transfer_3b1a87b6:
 
     # u "Oh, you met Luuk?"
-    u "哦，你见过卢克了？"
+    u "噢，你见过卢克了？"
 
 # game/v13/scene7.rpy:324
 translate chinese v13_ticket_transfer_e69fa229:

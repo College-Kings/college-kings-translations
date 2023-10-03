@@ -94,7 +94,7 @@ translate chinese v12s27_d7dbe971:
 translate chinese v12s27_a0dcb0b0:
 
     # imre "Oh fuck yeah! Let's go!"
-    imre "哦，他妈的，耶！我们走吧！"
+    imre "噢，他妈的，耶！我们走吧！"
 
 # game/v12/scene27.rpy:93
 translate chinese v12s27_01dae9ff:

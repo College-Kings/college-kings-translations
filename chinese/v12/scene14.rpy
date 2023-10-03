@@ -100,7 +100,7 @@ translate chinese v12_chloe_cafe_3e21e351:
 translate chinese v12_chloe_cafe_93512f79:
 
     # fwait "Oooo, très bien."
-    fwait "哦，很好。（法语）"
+    fwait "噢，很好。（法语）"
 
 # game/v12/scene14.rpy:131
 translate chinese v12_chloe_cafe_a4016fc0:
@@ -196,7 +196,7 @@ translate chinese v12_chloe_cafe_732dddbb:
 translate chinese v12_chloe_cafe_45ce2aef:
 
     # fwait "Oh wow! Congrats... That's exciting stuff."
-    fwait "哦，哇！恭喜……这是令人兴奋的事情。"
+    fwait "噢，哇！恭喜……这是令人兴奋的事情。"
 
 # game/v12/scene14.rpy:222
 translate chinese v12_chloe_cafe_2b9128b2:
@@ -406,7 +406,7 @@ translate chinese v12_chloe_cafe_2140a032:
 translate chinese v12_chloe_cafe_e43d0588:
 
     # u "Good. Now, again, don't quote me. I'm not sure of all the details and I'm not even positive if this is truly her plan, but I heard that Lindsey's been considering running for President of the Chicks, against you."
-    u "很好。再说一次，别说是我说的。我不太清楚细节我甚至不确定这是不是她的计划，但我听说林赛一直在考虑竞选小鸡会主席，和你竞争。"
+    u "很好。再说一次，别说是我说的。我不太清楚细节我甚至不确定这是不是她的计划，但我听说林赛一直在考虑竞选小鸡会会长，和你竞争。"
 
 # game/v12/scene14.rpy:419
 translate chinese v12_chloe_cafe_80f8da7e:

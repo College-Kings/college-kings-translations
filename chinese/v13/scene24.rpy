@@ -136,7 +136,7 @@ translate chinese v13s24_67fec6d2:
 translate chinese v13s24_1468676f:
 
     # ry "Ooooh! *Laughs*"
-    ry "哦！ *笑* "
+    ry "噢！ *笑* "
 
 # game/v13/scene24.rpy:156
 translate chinese v13s24_2d13d1d4:
@@ -304,7 +304,7 @@ translate chinese v13s24_3083dc7b:
 translate chinese v13s24_61276efb:
 
     # u "Oh, right... *Laughs* Sorry."
-    u "哦，好吧…… *笑* 抱歉。"
+    u "噢，好吧…… *笑* 抱歉。"
 
 # game/v13/scene24.rpy:348
 translate chinese v13s24_511ac61b:
@@ -400,7 +400,7 @@ translate chinese v13s24_faa209bf:
 translate chinese v13s24_e82fde9b:
 
     # emmy "Oh... Interesting. *Chuckles*"
-    emmy "哦……有意思。 *咯咯笑* "
+    emmy "噢……有意思。 *咯咯笑* "
 
 # game/v13/scene24.rpy:454
 translate chinese v13s24_b89ce054:

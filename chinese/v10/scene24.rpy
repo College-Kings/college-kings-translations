@@ -4,13 +4,13 @@
 translate chinese v10_lauren_room_f011bf2d:
 
     # la "Heyyyy."
-    la "你好。"
+    la "嘿。"
 
 # game/v10/scene24.rpy:30
 translate chinese v10_lauren_room_7adbc938:
 
     # u "Hey Lauren."
-    u "你好，劳伦。"
+    u "嘿，劳伦。"
 
 # game/v10/scene24.rpy:35
 translate chinese v10_lauren_room_047429af:
@@ -22,7 +22,7 @@ translate chinese v10_lauren_room_047429af:
 translate chinese v10_lauren_room_d692a908:
 
     # u "Oh really? What's up?"
-    u "哦真的？出什么事啦？"
+    u "噢，真的吗？出啥事儿啦？"
 
 # game/v10/scene24.rpy:45
 translate chinese v10_lauren_room_37b2f50a:
@@ -70,7 +70,7 @@ translate chinese v10_lauren_room_8e58f398:
 translate chinese v10_lauren_room_a1e5e56a:
 
     # u "Don't even think about them. Think about the event."
-    u "想都别想。想想这件事。"
+    u "别想那些。想想这件事儿。"
 
 # game/v10/scene24.rpy:87
 translate chinese v10_lauren_room_f11f3620:
@@ -166,7 +166,7 @@ translate chinese v10_lauren_room_2146c2b3:
 translate chinese v10_lauren_room_d8a77a5d:
 
     # la "Oh uhm, I wasn't even considering that to be honest."
-    la "哦，老实说，我甚至没有考虑过这一点。"
+    la "噢，老实说，我甚至没有考虑过这一点。"
 
 # game/v10/scene24.rpy:165
 translate chinese v10_lauren_room_6ca0a4aa:
@@ -244,7 +244,7 @@ translate chinese v10_lauren_room_sg_b349012f:
 translate chinese v10_lauren_room_sg_800a43ac:
 
     # u "Oh no, you're too strong, I give up. *Laughs*"
-    u "哦不，你太强壮了，我放弃。 *笑*"
+    u "噢，不，你太强壮了，我放弃。 *笑*"
 
 # game/v10/scene24.rpy:246
 translate chinese v10_lauren_room_sg_6d1b6cf7:
@@ -262,7 +262,7 @@ translate chinese v10_lauren_room_sg_a92117f6:
 translate chinese v10_lauren_room_sg_3b36c0c6:
 
     # u "(Oh wow!)"
-    u "(哦，哇！)"
+    u "(噢，哇！)"
 
 # game/v10/scene24.rpy:264
 translate chinese v10_lauren_room_sg_49a2ed61:
@@ -292,7 +292,7 @@ translate chinese v10_lauren_room_sg_df7f0172:
 translate chinese v10_lauren_room_sg_eba8f94d:
 
     # la "That was... fun."
-    la "那是……有意思。"
+    la "这真……舒服。"
 
 # game/v10/scene24.rpy:327
 translate chinese v10_lauren_room_sg_a8ae36e3:
@@ -304,7 +304,7 @@ translate chinese v10_lauren_room_sg_a8ae36e3:
 translate chinese v10_lauren_room_sg_ffcb4e14:
 
     # la "I always enjoy spending time with you. With you I'm just... comfortable."
-    la "我总是喜欢和你在一起。和你在一起我只是……很舒服。"
+    la "我总是喜欢和你在一起。和你在一起我就……很舒服。"
 
 # game/v10/scene24.rpy:343
 translate chinese v10_lauren_room_sg_001a95f0:
@@ -358,7 +358,7 @@ translate chinese v10_lauren_room_sg_fdc91fa7:
 translate chinese v10_lauren_room_sg_fcf85d5c:
 
     # la "Thanks for understanding. Maybe we could uhm-"
-    la "谢谢您的理解。或许我们可以呃-"
+    la "谢谢你的理解。或许我们可以呃-"
 
 # game/v10/scene24.rpy:402
 translate chinese v10_lauren_room_sg_eba8f94d_1:
@@ -430,7 +430,7 @@ translate chinese v10s24_nsfwSkipLabel1_87b7c6bc:
 translate chinese v10s24_nsfwSkipLabel1_65303010:
 
     # la "Oh, something funny actually happened the other day."
-    la "哦，前几天真的发生了一件有趣的事。"
+    la "噢，前几天真的发生了一件有趣的事。"
 
 # game/v10/scene24.rpy:463
 translate chinese v10s24_nsfwSkipLabel1_224b150d:
@@ -442,13 +442,13 @@ translate chinese v10s24_nsfwSkipLabel1_224b150d:
 translate chinese v10s24_nsfwSkipLabel1_705b6924:
 
     # la "I told them 'Lauren's Choice Muffins'; tell me why I go to pick up the banner and it says 'Lauren's Moist Muffins'?"
-    la "我告诉他们'劳伦精选松饼'；告诉我为什么我去拿横幅的时候，上面写着'劳伦的湿松饼'？"
+    la "我告诉他们'劳伦的精选松饼'；告诉我为什么我去拿横幅的时候，上面写着'劳伦的湿润松饼'？"
 
 # game/v10/scene24.rpy:470
 translate chinese v10s24_nsfwSkipLabel1_facdd505:
 
     # u "That's actually pretty funny, were you able to get a new sign made in time?"
-    u "这真的很有趣，你能及时做一个新招牌吗？"
+    u "这真的很有好笑，你能及时做一个新招牌吗？"
 
 # game/v10/scene24.rpy:475
 translate chinese v10s24_nsfwSkipLabel1_696ee27d:
@@ -472,7 +472,7 @@ translate chinese v10s24_nsfwSkipLabel1_505dd985:
 translate chinese v10s24_nsfwSkipLabel1_a22fcd29:
 
     # u "But I'm sure he'd be in line for some \"moist muffins.\" *Laughs*"
-    u "但我肯定他会排在队里买点儿\"湿润的松饼。\" *笑*"
+    u "但我肯定他会排在队里买点儿\"湿润松饼。\" *笑*"
 
 # game/v10/scene24.rpy:487
 translate chinese v10s24_nsfwSkipLabel1_f20f0b1d:
@@ -592,7 +592,7 @@ translate chinese v10s24_nsfwSkipLabel1_2184b9c9:
 translate chinese v10s24_nsfwSkipLabel1_bd634b06:
 
     # u "Oh shit, of course. I'm on my way right now."
-    u "哦，该死，当然。我现在就在路上。"
+    u "噢，该死，当然。我现在就在路上。"
 
 # game/v10/scene24.rpy:584
 translate chinese v10s24_nsfwSkipLabel1_283994eb:
@@ -610,7 +610,7 @@ translate chinese v10s24_nsfwSkipLabel1_75100df5:
 translate chinese v10s24_nsfwSkipLabel1_9e5161c9:
 
     # la "Oh okay, I guess I'll see you at the event."
-    la "哦，好的，我想我会在活动上见到你的。"
+    la "噢，好的，我想我会在活动上见到你的。"
 
 # game/v10/scene24.rpy:599
 translate chinese v10s24_nsfwSkipLabel1_1b28a406:
@@ -622,7 +622,7 @@ translate chinese strings:
 
     # game/v10/scene24.rpy:53
     old "Push back"
-    new "推回"
+    new "推迟"
 
     # game/v10/scene24.rpy:172
     old "Encourage her"

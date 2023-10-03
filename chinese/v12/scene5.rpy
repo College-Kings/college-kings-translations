@@ -10,7 +10,7 @@ translate chinese v12_morning_london_21b8068f:
 translate chinese v12_morning_london_f11e5fbd:
 
     # cl "Is it really time to wake up? Pretty surprised that you woke up first. *Chuckles* No offense."
-    cl "真的是该起床的时候了吗？很惊讶你是第一个醒过来的。*咯咯笑*无意冒犯。"
+    cl "真的是该起床的时候了吗？很惊讶你是第一个醒过来的。 *咯咯笑* 无意冒犯。"
 
 # game/v12/scene5.rpy:34
 translate chinese v12_morning_london_49bacfe9:

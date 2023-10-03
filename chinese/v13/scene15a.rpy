@@ -130,7 +130,7 @@ translate chinese v13s15a_PhoneContinueLauren_e68428ab:
 translate chinese v13s15a_PhoneContinueLauren_fdbce207:
 
     # u "Oh..."
-    u "哦……"
+    u "噢……"
 
 # game/v13/scene15a.rpy:161
 translate chinese v13s15a_PhoneContinueLauren_2cdd2982:
@@ -208,7 +208,7 @@ translate chinese v13s15a_PhoneContinueLauren_d946312b:
 translate chinese v13s15a_PhoneContinueLauren_fdbce207_1:
 
     # u "Oh..."
-    u "哦……"
+    u "噢……"
 
 # game/v13/scene15a.rpy:264
 translate chinese v13s15a_PhoneContinueLauren_2cdd2982_1:
@@ -262,5 +262,5 @@ translate chinese strings:
 
     # game/v13/scene15a.rpy:269
     old "Go to sleep"
-    new "去睡觉吧"
+    new "去睡觉"
 

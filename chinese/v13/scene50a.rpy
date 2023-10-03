@@ -46,7 +46,7 @@ translate chinese v13s50a_904c0adb:
 translate chinese v13s50a_8fd30883:
 
     # em "*Gasps* Oh my... Fuckk, [name]."
-    em "*气喘吁吁* 哦，我的天……他妈的，[name]。"
+    em "*气喘吁吁* 噢，我的天……他妈的，[name]。"
 
 # game/v13/scene50a.rpy:102
 translate chinese v13s50a_9a0e90ae:
@@ -130,13 +130,13 @@ translate chinese v13s50a_return_after_emily_b1835a59:
 translate chinese v13s50a_return_after_emily_f831a012:
 
     # u "Oh, sorry the date didn't go according to your plan."
-    u "哦，对不起，约会没有按你的计划进行。"
+    u "噢，对不起，约会没有按你的计划进行。"
 
 # game/v13/scene50a.rpy:214
 translate chinese v13s50a_return_after_emily_bdc3931c:
 
     # ry "Oh no, the date was fine. You didn't hear her call me handsome?"
-    ry "哦，不，约会很好。你没听到她叫我帅哥吗？"
+    ry "噢，不，约会很好。你没听到她叫我帅哥吗？"
 
 # game/v13/scene50a.rpy:219
 translate chinese v13s50a_return_after_emily_847850e6:

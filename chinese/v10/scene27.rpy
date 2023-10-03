@@ -4,7 +4,7 @@
 translate chinese v10_econ_class_672b2a3d:
 
     # u "(Oh shit I'm gonna be late for class if I don't hurry.)"
-    u "(哦，见鬼，如果我不快点，我上课就要迟到了。)"
+    u "(噢，见鬼，如果我不快点，我上课就要迟到了。)"
 
 # game/v10/scene27.rpy:20
 translate chinese v10_econ_class_d5404a41:
@@ -16,7 +16,7 @@ translate chinese v10_econ_class_d5404a41:
 translate chinese v10_econ_class_e4a0db35:
 
     # la "Hey babe, I was starting to get a little worried. It's not like you to show up right on time."
-    la "宝贝，我开始有点担心了。准时出现可不像你的作风。"
+    la "宝贝儿，我开始有点担心了。准时出现可不像你的作风。"
 
 # game/v10/scene27.rpy:36
 translate chinese v10_econ_class_861b2365:
@@ -196,7 +196,7 @@ translate chinese v10_econ_class_65e66f70:
 translate chinese v10_econ_class_84f6b093:
 
     # u "Oh shut up."
-    u "哦，闭嘴。"
+    u "噢，闭嘴。"
 
 # game/v10/scene27.rpy:181
 translate chinese v10_econ_class_6bcd435f:
@@ -346,7 +346,7 @@ translate chinese v10_econ_class_80d66595:
 translate chinese v10_econ_class_56406ff4:
 
     # ro "Enjoy the rest of your day [name]."
-    ro "尽情享受一天中的睡觉吧[name]。"
+    ro "尽情享受一天中的睡觉吧，[name]。"
 
 # game/v10/scene27.rpy:295
 translate chinese v10_econ_class_9fb611a7:
@@ -382,7 +382,7 @@ translate chinese v10_econ_class_061e5e1c:
 translate chinese v10_econ_class_56406ff4_1:
 
     # ro "Enjoy the rest of your day [name]."
-    ro "尽情享受一天中的睡觉吧[name]。"
+    ro "尽情享受一天中的睡觉吧，[name]。"
 
 # game/v10/scene27.rpy:323
 translate chinese v10_econ_class_8d908b69:

@@ -250,13 +250,13 @@ translate chinese v10_sam_kitchen_b4ab373a:
 translate chinese v10_sam_kitchen_934316d8:
 
     # u "(Oh shit, she's fucked up.)"
-    u "(哦，见鬼，她喝蒙了。)"
+    u "(噢，见鬼，她喝蒙了。)"
 
 # game/v10/scene25a.rpy:275
 translate chinese v10_sam_kitchen_1059cd09:
 
     # u "Oh god, alright... let's get you to sit down. You're clearly super drunk."
-    u "哦，天呐，好吧……让我扶你坐下，你显然喝多了。"
+    u "噢，天呐，好吧……让我扶你坐下，你显然喝多了。"
 
 # game/v10/scene25a.rpy:280
 translate chinese v10_sam_kitchen_4c3b5ec6:

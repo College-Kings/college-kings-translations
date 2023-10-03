@@ -184,7 +184,7 @@ translate chinese v12s7fr_93ff3184:
 translate chinese v12s7fr_65760518:
 
     # imre "Oh, you're not joking."
-    imre "哦，你不是在开玩笑吧。"
+    imre "噢，你不是在开玩笑吧。"
 
 # game/v12/scene7.rpy:182
 translate chinese v12s7fr_aa201a5d:
@@ -526,7 +526,7 @@ translate chinese v12s7_aubrey1_4075a964:
 translate chinese v12s7_aubrey1_e1f58f87:
 
     # au "Wowww! You're that good, huh?"
-    au "哇哦！你真的很厉害，是吧？"
+    au "哇噢！你真的很厉害，是吧？"
 
 # game/v12/scene7.rpy:488
 translate chinese v12s7_aubrey1_68d93517:
@@ -538,7 +538,7 @@ translate chinese v12s7_aubrey1_68d93517:
 translate chinese v12s7_aubrey1_a3349de3:
 
     # au "Ooh, impressive. *Chuckles* What happened next?"
-    au "哦，令人印象深刻。 *咯咯笑* 接下来发生了什么？"
+    au "噢，令人印象深刻。 *咯咯笑* 接下来发生了什么？"
 
 # game/v12/scene7.rpy:498
 translate chinese v12s7_aubrey1_d0d40549:
@@ -604,25 +604,25 @@ translate chinese v12s7_aubrey1_45efec3e:
 translate chinese v12s7_aubrey1_a384f93a:
 
     # au "Oh my goodness... I can't even imagine. He must have needed some serious medical attention after the fight."
-    au "哦，我的天呐……我根本无法想象。比赛结束后，他一定需要一些紧急的医疗救护。"
+    au "噢，我的天呐……我根本无法想象。比赛结束后，他一定需要一些紧急的医疗救护。"
 
 # game/v12/scene7.rpy:541
 translate chinese v12s7_aubrey1_ed067e3d:
 
     # u "Oh yeah. They actually had to carry him out of the place. I'm one tough son of a bitch."
-    u "哦，是的。实际上他们不得不把他抬出那个地方。我是个坚强的混蛋。"
+    u "噢，是的。实际上他们不得不把他抬出那个地方。我是个坚强的混蛋。"
 
 # game/v12/scene7.rpy:546
 translate chinese v12s7_aubrey1_52ded90b:
 
     # au "I think I'd like to see exactly how tough you actually are. I... I think I see some bruising. Oh my gosh, and your eye is cut! I'm gonna need to patch that up immediately."
-    au "我想看看你到底有多坚强。我……我想我看到一些瘀伤。哦，我的天呐，你的眼皮被打伤了！我需要马上缝补一下。"
+    au "我想看看你到底有多坚强。我……我想我看到一些瘀伤。噢，我的天呐，你的眼皮被打伤了！我需要马上缝补一下。"
 
 # game/v12/scene7.rpy:555
 translate chinese v12s7_aubrey1_35084c47:
 
     # au "Oh, sweetie. If I didn't take a look at this I wouldn't be able to call myself a nurse. Please come by my office so I can get you fixed up."
-    au "哦，亲爱的。如果我不看看这个，我就不能称自己为护士了。请到我办公室来，我可以帮你处理好伤口。"
+    au "噢，亲爱的。如果我不看看这个，我就不能称自己为护士了。请到我办公室来，我可以帮你处理好伤口。"
 
 # game/v12/scene7.rpy:558
 translate chinese v12s7_aubrey1_6a2916e5:
@@ -730,7 +730,7 @@ translate chinese v12s7_aubrey2_b3f03061:
 translate chinese v12s7_aubrey2_95ed2fb2:
 
     # u "Oh... Yeah, this is definitely more interesting than a murder."
-    u "哦……是啊，这绝对比谋杀案有趣多了。"
+    u "噢……是啊，这绝对比谋杀案有趣多了。"
 
 # game/v12/scene7.rpy:681
 translate chinese v12s7_aubrey2_554d0393:
@@ -784,7 +784,7 @@ translate chinese v12s7_aubrey_kill_fda23e9a:
 translate chinese v12s7_aubrey_kill_b272e20d:
 
     # au "What? Ah, ohhhhhh. *Laughs* You're the murderer. So you get a pretty, innocent girl like me alone in the bathroom and decide to kill her, huh?"
-    au "什么？啊，哦，哦。*笑*你才是凶手。所以你找了个像我一样漂亮无辜的女孩独自在浴室然后决定杀了她，嗯？"
+    au "什么？啊，噢，噢。*笑*你才是凶手。所以你找了个像我一样漂亮无辜的女孩独自在浴室然后决定杀了她，嗯？"
 
 # game/v12/scene7.rpy:745
 translate chinese v12s7_aubrey_kill_8fa6f55d:
@@ -922,7 +922,7 @@ translate chinese v12s7_riley1_67aa1ac1:
 translate chinese v12s7_riley1_c075a236:
 
     # ri "*Shocked* Oh... I see."
-    ri "*震惊* 哦……我明白了。"
+    ri "*震惊* 噢……我明白了。"
 
 # game/v12/scene7.rpy:874
 translate chinese v12s7_riley1_dc8a40b2:
@@ -1096,7 +1096,7 @@ translate chinese v12s7_riley1_4eff5c0c:
 translate chinese v12s7_riley1_21040461:
 
     # ri "What if I wasn't acting? *Chuckles* Uh, oh!"
-    ri "如果我不是在演戏呢？ *咯咯笑* 呃，哦！"
+    ri "如果我不是在演戏呢？ *咯咯笑* 呃，噢！"
 
 # game/v12/scene7.rpy:1017
 translate chinese v12s7_riley1_60992e76:
@@ -1174,7 +1174,7 @@ translate chinese v12s7_chloe1_d78f032e:
 translate chinese v12s7_chloe1_734eed17:
 
     # cl "Oh, so you're a generous type of man."
-    cl "哦，这么说你是个慷慨的人了。"
+    cl "噢，这么说你是个慷慨的人了。"
 
 # game/v12/scene7.rpy:1111
 translate chinese v12s7_chloe1_552adf0b:
@@ -1306,7 +1306,7 @@ translate chinese v12s7_chloe1_3e64dfda:
 translate chinese v12s7_chloe1_12a7d733:
 
     # u "Wow... *Chuckles* You're actually scared of Mr. Lee."
-    u "哇哦…… *咯咯笑* 你实际上是害怕李先生。"
+    u "哇噢…… *咯咯笑* 你实际上是害怕李先生。"
 
 # game/v12/scene7.rpy:1220
 translate chinese v12s7_chloe1_a5b69879:
@@ -1534,7 +1534,7 @@ translate chinese v12s7_riley3_56c44c47:
 translate chinese v12s7_riley3_68810acd:
 
     # cl "Oh, I don't know. Suggesting that people go roam around, causing us to separate?"
-    cl "哦，我不知道。建议人们四处游荡，导致我们分开？"
+    cl "噢，我不知道。建议人们四处游荡，导致我们分开？"
 
 # game/v12/scene7.rpy:1456
 translate chinese v12s7_riley3_4bebd56d:
@@ -1942,7 +1942,7 @@ translate chinese v12s7_lauren1_dd72dbd1:
 translate chinese v12s7_lauren1_bbde7276:
 
     # la "No, I'm not just saying that, oh nevermind. Even if you were the killer I wouldn't care, but at least spend some time with me before you kill me."
-    la "不，我不是那个意思，哦，没关系。即使你是凶手，我也不会介意，但至少在你杀我之前和我待一段时间。"
+    la "不，我不是那个意思，噢，没关系。即使你是凶手，我也不会介意，但至少在你杀我之前和我待一段时间。"
 
 # game/v12/scene7.rpy:1859
 translate chinese v12s7_lauren1_1bdd12d0:
@@ -2074,7 +2074,7 @@ translate chinese v12s7_lauren_kill_a92f89c2:
 translate chinese v12s7_lauren_kill_3d38c70c:
 
     # la "Oh wow, so sweet."
-    la "哦，哇，太甜蜜了。"
+    la "噢，哇，太甜蜜了。"
 
 # game/v12/scene7.rpy:1987
 translate chinese v12s7_lauren_kill_1c1bb58c:
@@ -2086,7 +2086,7 @@ translate chinese v12s7_lauren_kill_1c1bb58c:
 translate chinese v12s7_lauren_kill_8554378e:
 
     # la "Oh my gosh."
-    la "哦，我的天呐。"
+    la "噢，我的天呐。"
 
 # game/v12/scene7.rpy:2016
 translate chinese v12s7_ryan_imre1_006c5605:
@@ -2242,7 +2242,7 @@ translate chinese v12s7_ryan_imre1_19c111f1:
 translate chinese v12s7_ryan_imre1_85a4157e:
 
     # u "Oh, that's unfortunate."
-    u "哦，那真是太不幸了。"
+    u "噢，那真是太不幸了。"
 
 # game/v12/scene7.rpy:2165
 translate chinese v12s7_ryan_imre1_e55bbe8e:
@@ -2284,7 +2284,7 @@ translate chinese v12s7_ryan_imre1_a9e5ae83:
 translate chinese v12s7_ryan_imre1_85a4157e_1:
 
     # u "Oh, that's unfortunate."
-    u "哦，那真是太不幸了。"
+    u "噢，那真是太不幸了。"
 
 # game/v12/scene7.rpy:2200
 translate chinese v12s7_ryan_imre1_f62f5e40:
@@ -2320,7 +2320,7 @@ translate chinese v12s7_ryan_imre1_905e573e:
 translate chinese v12s7_ryan_imre1_7eb168c8:
 
     # ry "Aww, baby just give me a kiss."
-    ry "哦，宝贝，给我一个吻。"
+    ry "噢，宝贝，给我一个吻。"
 
 # game/v12/scene7.rpy:2227
 translate chinese v12s7_ryan_imre1_fcc18885_1:
@@ -2338,7 +2338,7 @@ translate chinese v12s7_ryan_imre1_83dfa6b1:
 translate chinese v12s7_ryan_imre1_150ffd0b:
 
     # ry "Oh my gosh, this is gold."
-    ry "哦，天哪，这是金色的。"
+    ry "噢，天哪，这是金色的。"
 
 # game/v12/scene7.rpy:2244
 translate chinese v12s7_ryan_imre1_6928c484:
@@ -2572,7 +2572,7 @@ translate chinese v12s7_ryan_kill_ff223546:
 translate chinese v12s7_ryan_kill_e47fd058:
 
     # ry "Oh shoot, that's great. The one thing Imre and I agree on is ending this game so hurry up and kill everyone."
-    ry "哦，糟了，太棒了。我和伊姆雷达成一致的一件事就是结束这场游戏，所以快点把所有人都杀了。"
+    ry "噢，糟了，太棒了。我和伊姆雷达成一致的一件事就是结束这场游戏，所以快点把所有人都杀了。"
 
 # game/v12/scene7.rpy:2475
 translate chinese v12s7_ryan_kill_423c6f19:
@@ -2986,7 +2986,7 @@ translate chinese v12s7_lindsey_charlie1_3ac61ec7:
 translate chinese v12s7_lindsey_charlie1_8ac3f6ad:
 
     # charli "Oh..."
-    charli "哦……"
+    charli "噢……"
 
 # game/v12/scene7.rpy:2865
 translate chinese v12s7_lindsey_charlie1_16df0f0f:
@@ -3202,7 +3202,7 @@ translate chinese v12s7_lindsey2_68f0538b:
 translate chinese v12s7_lindsey2_af32fac9:
 
     # li "Oh no, I'm definitely running. I'm saying I'm not stressed about it anymore. Most of the girls are cool with me running, I have a gameplan to persuade the others, so right now I'm happy just enjoying Europe."
-    li "哦不，我肯定要竞选。我是说我不再有压力了。大多数女孩对我的竞选都很满意，我有一个说服其他人的策略，所以现在我很高兴能享受欧洲之旅。"
+    li "噢不，我肯定要竞选。我是说我不再有压力了。大多数女孩对我的竞选都很满意，我有一个说服其他人的策略，所以现在我很高兴能享受欧洲之旅。"
 
 # game/v12/scene7.rpy:3082
 translate chinese v12s7_lindsey2_764aa7de:
@@ -3268,19 +3268,19 @@ translate chinese v12s7_lindsey2_06796ee6:
 translate chinese v12s7_lindsey2_45651142:
 
     # u "Oh so you don't like me? *Chuckles*"
-    u "哦，这么说你不喜欢我了？*咯咯笑*"
+    u "噢，这么说你不喜欢我了？*咯咯笑*"
 
 # game/v12/scene7.rpy:3137
 translate chinese v12s7_lindsey2_44721488:
 
     # li "Oh that's not fair, you just tried to hit me with a trap question. *Chuckles*"
-    li "哦，那不公平，你刚才想用陷阱问题来占我便宜。*咯咯笑*"
+    li "噢，那不公平，你刚才想用陷阱问题来占我便宜。*咯咯笑*"
 
 # game/v12/scene7.rpy:3142
 translate chinese v12s7_lindsey2_16e920b0:
 
     # u "Oh no it's fine, Charli's got me used to not being liked."
-    u "哦，不，没关系，查理让我习惯了不被人喜欢的感觉。"
+    u "噢，不，没关系，查理让我习惯了不被人喜欢的感觉。"
 
 # game/v12/scene7.rpy:3156
 translate chinese v12s7_lindsey2_c7f6e755:
@@ -3424,7 +3424,7 @@ translate chinese v12s7_msrose1_2998d9db:
 translate chinese v12s7_msrose1_305f79f3:
 
     # u "*Laughs* \"History Class\"? Oh yeah, I think I have seen you in a few films."
-    u "*笑* \"历史课\"？哦，是的，我想我在几部电影里见过你。"
+    u "*笑* \"历史课\"？噢，是的，我想我在几部电影里见过你。"
 
 # game/v12/scene7.rpy:3345
 translate chinese v12s7_msrose1_c34949b9:
@@ -3460,7 +3460,7 @@ translate chinese v12s7_msrose1_98f1b052:
 translate chinese v12s7_msrose1_4809187b:
 
     # u "OH THAT MIA, MIA SCARLETT!!! YES, I REMEMBER!"
-    u "哦，那个米娅，米娅·斯佳丽！！！是的，我想起来了！"
+    u "噢，那个米娅，米娅·斯佳丽！！！是的，我想起来了！"
 
 # game/v12/scene7.rpy:3380
 translate chinese v12s7_msrose1_7983832a:
@@ -3664,13 +3664,13 @@ translate chinese v12s7_penelope1_26427238:
 translate chinese v12s7_penelope1_97a6265c:
 
     # u "I won't tell if you won't."
-    u "如果你不说，我也不会说。"
+    u "如果你不说，我不说。"
 
 # game/v12/scene7.rpy:3593
 translate chinese v12s7_penelope1_c0f10304:
 
     # pe "I really should be cleaning before he comes back and checks up on me. I've been in the same place for like ten minutes because this one little spot won't clean."
-    pe "在他回来检查我之前，我真的应该打扫一下。我在同一个地方待了大概十分钟，因为这个小污点洗不干净。"
+    pe "在他回来检查我之前，我真的应该打扫一下。我在同一个地方待了大概十分钟，因为这个小污点儿洗不干净。"
 
 # game/v12/scene7.rpy:3598
 translate chinese v12s7_penelope1_c902f0e1:
@@ -3700,7 +3700,7 @@ translate chinese v12s7_penelope1_9559a775:
 translate chinese v12s7_penelope1_bc1ce31e:
 
     # u "It's got to be hard enough having to clean, so I'm sure it sucks cleaning in character. I'll leave you alone so I don't get you in trouble and are given even more work."
-    u "打扫已经够难的了，所以我相信在角色里打扫肯定很糟糕。我不会打扰你的，这样就不会给你带来麻烦，也不会给你更多的工作。"
+    u "打扫已经够难的了，所以我相信在角色里打扫肯定很糟糕。我不会打扰你的，这样就不会给你带来麻烦了，也不会给你更多的工作量。"
 
 # game/v12/scene7.rpy:3626
 translate chinese v12s7_penelope1_4a2250c1:
@@ -3730,25 +3730,25 @@ translate chinese v12s7_penelope1_5beffdba:
 translate chinese v12s7_penelope1_970d7198:
 
     # pe "Oh... *Chuckles*"
-    pe "哦…… *咯咯笑*"
+    pe "噢…… *咯咯笑*"
 
 # game/v12/scene7.rpy:3658
 translate chinese v12s7_penelope1_24c08997:
 
     # u "And look at that, spot's gone."
-    u "你看，点点不见了。"
+    u "你看，点儿不见了。"
 
 # game/v12/scene7.rpy:3663
 translate chinese v12s7_penelope1_da5c4191:
 
     # pe "Guess I just needed a little bit of man strength."
-    pe "我想我只是需要一点男人的力量。"
+    pe "我想我只是需要一点儿男人的力量。"
 
 # game/v12/scene7.rpy:3668
 translate chinese v12s7_penelope1_1a7ba803:
 
     # u "Just a little."
-    u "一点点。"
+    u "一点儿。"
 
 # game/v12/scene7.rpy:3673
 translate chinese v12s7_penelope1_c9c6daca:
@@ -3814,7 +3814,7 @@ translate chinese v12s7_penelope1_f0f3a0de:
 translate chinese v12s7_penelope1_2e06b4f0:
 
     # pe "Oooo, I see what you did there. Very creative."
-    pe "哦，我明白你的意思了。很有创意。"
+    pe "噢，我明白你的意思了。很有创意。"
 
 # game/v12/scene7.rpy:3731
 translate chinese v12s7_penelope1_ecccc142:
@@ -3874,13 +3874,13 @@ translate chinese v12s7_penelope1_2d2bdb41:
 translate chinese v12s7_penelope1_a88f993d:
 
     # u "Oh, what was that for?"
-    u "哦，那是为了什么？"
+    u "噢，那是为了什么？"
 
 # game/v12/scene7.rpy:3792
 translate chinese v12s7_penelope1_7ec44aff:
 
     # pe "I thought you wanted me to do something fun?"
-    pe "我以为你想让我做点有趣的事？"
+    pe "我以为你想让我做点儿有趣的事？"
 
 # game/v12/scene7.rpy:3797
 translate chinese v12s7_penelope1_70ca5744:
@@ -3922,7 +3922,7 @@ translate chinese v12s7_penelope_kill_e0ceaaa2:
 translate chinese v12s7_penelope_kill_296836e5:
 
     # u "Haha, you do that."
-    u "哈哈，你去做吧。"
+    u "哈哈，你去吧。"
 
 # game/v12/scene7.rpy:3882
 translate chinese v12s7_amber1_1fbc5afa:
@@ -4048,7 +4048,7 @@ translate chinese v12s7_amber1_02a8309e:
 translate chinese v12s7_amber1_684aad24:
 
     # am "Oh shit, that's your... why are you hard right now? Are you turned on by this?"
-    am "哦，见鬼，那是你的……为什么你现在那么硬？你被这个激起性欲了吗？"
+    am "噢，见鬼，那是你的……为什么你现在那么硬？你被这个激起性欲了吗？"
 
 # game/v12/scene7.rpy:3998
 translate chinese v12s7_amber1_e3e7d7eb:
@@ -4438,7 +4438,7 @@ translate chinese v12s7_riley2_amber_5aa33551:
 translate chinese v12s7_riley2_amber_ae01d106:
 
     # u "Oh, yeah, no problem."
-    u "哦，好的，没问题。"
+    u "噢，好的，没问题。"
 
 # game/v12/scene7.rpy:4402
 translate chinese v12s7_riley2_amber_6fc032aa:
@@ -4510,7 +4510,7 @@ translate chinese v12s7_sam_cameron_49dcb5d1:
 translate chinese v12s7_sam_cameron_4380a0ac:
 
     # u "Oh yeah."
-    u "哦，好吧。"
+    u "噢，好吧。"
 
 # game/v12/scene7.rpy:4481
 translate chinese v12s7_sam_cameron_05fbcf5b:
@@ -4534,7 +4534,7 @@ translate chinese v12s7_sam_cameron_757ae1ff:
 translate chinese v12s7_sam_cameron_017e6afa:
 
     # sa "Oh god."
-    sa "哦，天呐。"
+    sa "噢，天呐。"
 
 # game/v12/scene7.rpy:4501
 translate chinese v12s7_sam_cameron_c05b1e2b:
@@ -4744,7 +4744,7 @@ translate chinese v12s7_sam2_17b10a38:
 translate chinese v12s7_sam2_34d73f74:
 
     # sa "Oh... Yeah. *Chuckles* That definitely helps."
-    sa "哦……嗯。 *咯咯笑* 这绝对是有帮助的。"
+    sa "噢……嗯。 *咯咯笑* 这绝对是有帮助的。"
 
 # game/v12/scene7.rpy:4721
 translate chinese v12s7_sam2_ab749b87:
@@ -5008,7 +5008,7 @@ translate chinese v12s7_samantha_kill_8979f63a:
 translate chinese v12s7_samantha_kill_ebe5dbd5:
 
     # u "*Laughs* Oh yeah."
-    u "*笑* 哦，好吧。"
+    u "*笑* 噢，好吧。"
 
 # game/v12/scene7.rpy:4950
 translate chinese v12s7_samantha_kill_7cec54be:
@@ -5110,13 +5110,13 @@ translate chinese v12s7_cameron2_bd835ac5:
 translate chinese v12s7_cameron2_9d32e6a0:
 
     # ca "Home Alone. *Laughs* Oh my god I'm too good."
-    ca "一个人在家里。 *笑* 哦，天哪，我太棒了。"
+    ca "一个人在家里。 *笑* 噢，天哪，我太棒了。"
 
 # game/v12/scene7.rpy:5059
 translate chinese v12s7_cameron2_8cf8218f:
 
     # u "Oh god..."
-    u "哦，天呐……"
+    u "噢，天呐……"
 
 # game/v12/scene7.rpy:5077
 translate chinese v12s7_cameron_kill_fda23e9a:
@@ -5152,7 +5152,7 @@ translate chinese v12s7_nora1_924d49c5:
 translate chinese v12s7_nora1_7ad6a0e3:
 
     # u "Oh, damn. Sorry."
-    u "哦，该死的。抱歉。"
+    u "噢，该死的。抱歉。"
 
 # game/v12/scene7.rpy:5130
 translate chinese v12s7_nora1_fab35b3f:
@@ -5842,7 +5842,7 @@ translate chinese v12s7_josh2_8c640a70:
 translate chinese v12s7_josh2_90be1788:
 
     # u "Oh wow, that sucks... I really wanted to."
-    u "哦，哇，那太糟糕了……我真的很想。"
+    u "噢，哇，那太糟糕了……我真的很想。"
 
 # game/v12/scene7.rpy:6022
 translate chinese v12s7_josh2_567a56f8:

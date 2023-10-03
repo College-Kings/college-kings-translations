@@ -34,7 +34,7 @@ translate chinese v13s25b_4d40af3f:
 translate chinese v13s25b_cadc6fc0:
 
     # u "Oh, wow! So you write books or..."
-    u "哦，哇！那么你是写书还是……"
+    u "噢，哇！那么你是写书还是……"
 
 # game/v13/scene25b.rpy:42
 translate chinese v13s25b_03cbbfef:

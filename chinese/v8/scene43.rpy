@@ -34,7 +34,7 @@ translate chinese for_w_gray_no_q_926b434c:
 translate chinese for_w_gray_no_q_578470e4:
 
     # gr "I bet you're wondering why I brought you here. And not all the other Apes."
-    gr "我打赌你一定在想我为什么带你来这里。而不是所有其他猿类。"
+    gr "我猜你一定在想我为什么带你来这里。而不是所有其他猿人。"
 
 # game/v8/scene43.rpy:58
 translate chinese for_w_gray_cont_5a3343de:
@@ -88,7 +88,7 @@ translate chinese forest_no_fugazi_0ec0b6c2:
 translate chinese for_w_gray_cont_2_958106f4:
 
     # gr "The Apes will open a lot of doors for you, [name]."
-    gr "猿类会为你打开很多门，[name]。"
+    gr "猿人会为你打开很多门，[name]。"
 
 # game/v8/scene43.rpy:121
 translate chinese for_w_gray_cont_2_0ecc1c5b:
@@ -100,19 +100,19 @@ translate chinese for_w_gray_cont_2_0ecc1c5b:
 translate chinese for_w_gray_cont_2_f4bb71a3:
 
     # u "I'm down for that!"
-    u "我同意!"
+    u "我同意！"
 
 # game/v8/scene43.rpy:131
 translate chinese for_w_gray_cont_2_89204e6c:
 
     # gr "I bet you are!"
-    gr "我打赌你是！"
+    gr "我猜你就会！"
 
 # game/v8/scene43.rpy:137
 translate chinese for_w_gray_cont_2_3c85d55f:
 
     # gr "I had a feeling about you before bringing you into the Apes. But the way you aced those challenges!"
-    gr "在把你带进狂猿之前我就对你有预感。你战胜那些挑战的方式！"
+    gr "在把你带进猿人之前我就对你有预感。你完成那些挑战的方式！"
 
 # game/v8/scene43.rpy:142
 translate chinese for_w_gray_cont_2_e2a660f9:
@@ -124,7 +124,7 @@ translate chinese for_w_gray_cont_2_e2a660f9:
 translate chinese for_w_gray_cont_2_f7a21e5b:
 
     # gr "I had a feeling about you before bringing you into the Apes. And when you scored so well in the challenges, I knew I'd made the right choice."
-    gr "在把你带进狂猿之前我就对你有预感。当你在挑战中取得如此优异的成绩时，我知道我的选择是正确的。"
+    gr "在把你带进猿人之前我就对你有预感。当你在挑战中取得如此优异的成绩时，我知道我的选择是正确的。"
 
 # game/v8/scene43.rpy:155
 translate chinese for_w_gray_cont_2_a5292ec9:
@@ -148,13 +148,13 @@ translate chinese for_w_gray_cont_2_48c99239:
 translate chinese for_w_gray_cont_2_0056d039:
 
     # gr "You didn't do too well in the challenges. Are you sure you want to be an Ape?"
-    gr "你在挑战中做得不太好。你确定你想当猿吗？"
+    gr "你在挑战中做得不太好。你确定你想当猿人吗？"
 
 # game/v8/scene43.rpy:186
 translate chinese deffo_be_ape_for_76666776:
 
     # u "YES! I'm in. Tell me what I need to do."
-    u "是的！我加入。告诉我我需要做什么。"
+    u "是的！我想。告诉我我需要做什么。"
 
 # game/v8/scene43.rpy:191
 translate chinese deffo_be_ape_for_a70e6cab:
@@ -196,13 +196,13 @@ translate chinese maybe_be_ape_for_d3aa6314:
 translate chinese maybe_be_ape_for_980e02fd:
 
     # gr "Is that all? Dude, don't worry about that. You're an Ape now!"
-    gr "就这些吗？伙计，别担心那个。你现在是猿了！"
+    gr "就这些吗？伙计，别担心那个。你现在是猿人了！"
 
 # game/v8/scene43.rpy:229
 translate chinese for_w_gray_cont_3_d0638013:
 
     # gr "You're an Ape, man! Can you believe it?"
-    gr "你是只猿，伙计！你能相信吗？"
+    gr "你是只猿人，伙计！你能相信吗？"
 
 # game/v8/scene43.rpy:234
 translate chinese for_w_gray_cont_3_db2c8883:
@@ -214,7 +214,7 @@ translate chinese for_w_gray_cont_3_db2c8883:
 translate chinese for_w_gray_cont_3_509a0ec8:
 
     # gr "We run this college. Hell, you're looking at the Fight King! Come on! We got it made!"
-    gr "我们管理这所大学。该死，我可是格斗王！来吧!我们成功了！"
+    gr "我们称霸这所大学。该死，我可是格斗王！来吧！我们成功了！"
 
 # game/v8/scene43.rpy:244
 translate chinese for_w_gray_cont_3_e7dacb23:
@@ -226,7 +226,7 @@ translate chinese for_w_gray_cont_3_e7dacb23:
 translate chinese for_w_gray_cont_3_c4c31fe6:
 
     # gr "You'll have your choice of babes. I'm dripping in pussy. Anytime I want it!"
-    gr "你可以选择你的宝贝。我在阴道里放水。随时都可以！"
+    gr "你可以选择你的宝贝。我只要想干哪个姑娘，随时都可以！"
 
 # game/v8/scene43.rpy:263
 translate chinese for_w_gray_agree_748b79be:
@@ -322,7 +322,7 @@ translate chinese for_w_gray_cont_4_37063d71:
 translate chinese for_w_gray_cont_4_ad73c478:
 
     # gr "There's a lot that goes into being the leader of the Apes and I need to show you all the stuff the other guys will never see."
-    gr "成为狂猿的领袖需要很多东西，我需要向你展示所有其他人永远看不到的东西。"
+    gr "成为猿人的领袖需要很多东西，我需要向你展示所有其他人永远看不到的东西。"
 
 # game/v8/scene43.rpy:356
 translate chinese for_w_gray_agree_2_551580c9:
@@ -394,7 +394,7 @@ translate chinese for_w_gray_cont_5_69a43adf:
 translate chinese for_w_gray_cont_5_077ca6a5:
 
     # gr "You ready to go back to the house and show these Apes how to be Great?"
-    gr "你准备好回房子里教这些猿猴如何变得伟大了吗？"
+    gr "你准备好回房子里教这些猿人如何变得伟大了吗？"
 
 # game/v8/scene43.rpy:419
 translate chinese for_w_gray_cont_5_e7dacb23:
@@ -418,11 +418,11 @@ translate chinese strings:
 
     # game/v8/scene43.rpy:178
     old "I definitely want to be an Ape"
-    new "我绝对想成为一只猿"
+    new "我绝对想成为一只猿人"
 
     # game/v8/scene43.rpy:178
     old "I think I want to be an Ape"
-    new "我想成为一只猿"
+    new "我想成为一只猿人"
 
     # game/v8/scene43.rpy:254
     old "Agree with Grayson"

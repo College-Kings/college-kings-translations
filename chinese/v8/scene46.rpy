@@ -16,7 +16,7 @@ translate chinese v8_ending_b674200b:
 translate chinese v8_ending_daba3e17:
 
     # u "(I hope Sebastian doesn't think less of me for chickening out at the hospital. Wasn't very Wolflike of me.)"
-    u "(我希望塞巴斯蒂安不会因为我在医院临阵退缩而看不起我。我不是很狼人。)"
+    u "(我希望塞巴斯蒂安不会因为我在医院临阵退缩而看不起我。我不是真的狼人。)"
 
 # game/v8/scene46.rpy:32
 translate chinese v8_ending_8f6e2dff:
@@ -46,7 +46,7 @@ translate chinese v8_ending_aae83263:
 translate chinese v8_ending_52bcb011:
 
     # u "(Grayson was acting strange in the woods. Wonder what that was all about)"
-    u "(格雷森在树林里表现得很奇怪。不知道这是怎么回事)"
+    u "(格雷森在树林里表现得很奇怪。不知道这是怎么回事。)"
 
 # game/v8/scene46.rpy:85
 translate chinese v8_ending_8f6e2dff_1:
@@ -58,7 +58,7 @@ translate chinese v8_ending_8f6e2dff_1:
 translate chinese v8s46_phoneCheck_31be7c9c:
 
     # u "I need to check my phone."
-    u "我得检查一下我的电话。"
+    u "我得看一下我的电话。"
 
 # game/v8/scene46.rpy:114
 translate chinese v8s46_phoneCheck_f975cffd:
@@ -70,7 +70,7 @@ translate chinese strings:
 
     # game/v8/scene46.rpy:42
     old "Dude, you see this shit on Kiwii?"
-    new "伙计，你看到圈子上的玩意儿了吗？"
+    new "伙计，你看到猕猴桃上的玩意儿了吗？"
 
     # game/v8/scene46.rpy:43
     old "No, what?"
@@ -78,7 +78,7 @@ translate chinese strings:
 
     # game/v8/scene46.rpy:44
     old "IDK, it's crazy"
-    new "不知道, 太疯狂了"
+    new "不知道，太疯狂了"
 
     # game/v8/scene46.rpy:96
     old "What the hell's happening on Kiwii?"
@@ -90,5 +90,5 @@ translate chinese strings:
 
     # game/v8/scene46.rpy:98
     old "Fuckin check it out man. Crazy shit"
-    new "快他妈的看看，伙计。疯狂的玩意儿"
+    new "快他妈地看看，伙计。疯狂的玩意儿。"
 

@@ -22,7 +22,7 @@ translate chinese v11_nora_chris_plane_a9490e57:
 translate chinese v11_nora_chris_plane_6484c682:
 
     # no "*Whisper* Oh I'm sorry, am I interrupting your frat plans?"
-    no "*低语* 哦，对不起，我打扰到你的兄弟会计划了吗？"
+    no "*低语* 噢，对不起，我打扰到你的兄弟会计划了吗？"
 
 # game/v11/scene14.rpy:35
 translate chinese v11_nora_chris_plane_866c8ee6:
@@ -94,7 +94,7 @@ translate chinese v11_nora_chris_plane_7d42a1f6:
 translate chinese v11_nora_chris_plane_107a213e:
 
     # u "(Oh shit.)"
-    u "(哦，见鬼。)"
+    u "(噢，见鬼。)"
 
 # game/v11/scene14.rpy:92
 translate chinese v11_nora_chris_plane_609ec259:
@@ -112,7 +112,7 @@ translate chinese v11_nora_chris_plane_2e07f5a4:
 translate chinese v11_nora_chris_plane_08089356:
 
     # imre "*Yawn* Oh shit, that actually works."
-    imre "*哈欠* 哦，该死，这真的管用。"
+    imre "*哈欠* 噢，该死，这真的管用。"
 
 # game/v11/scene14.rpy:107
 translate chinese v11_nora_chris_plane_f63ce472:

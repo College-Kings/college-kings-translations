@@ -388,7 +388,7 @@ translate chinese v12_nora_sex_2fa84de5:
 translate chinese v12_nora_sex_b0157895:
 
     # no "*Moans* Oh, fuck..."
-    no " *呻吟* 哦，操……"
+    no " *呻吟* 噢，操……"
 
 # game/v12/scene35a.rpy:487
 translate chinese v12_nora_sex_02aaf59c:
@@ -460,13 +460,13 @@ translate chinese v12_nora_sex_06fea136:
 translate chinese v12_nora_sex_f08195bd:
 
     # u "Ohhhh no... Not yet, baby. I'm not ready for this to end..."
-    u "哦不……还不行，宝贝。我还没准备好让这一切结束。"
+    u "噢不……还不行，宝贝。我还没准备好让这一切结束。"
 
 # game/v12/scene35a.rpy:569
 translate chinese v12_nora_sex_53f83c0f:
 
     # no "Oh my fucking... God... *Moans*"
-    no "哦，我他妈的……上帝啊…… *呻吟* "
+    no "噢，我他妈的……上帝啊…… *呻吟* "
 
 # game/v12/scene35a.rpy:571
 translate chinese v12_nora_sex_a19606cf:
@@ -508,7 +508,7 @@ translate chinese v12_nora_sex_c1f3b058:
 translate chinese v12_nora_sex_fedcf55d:
 
     # u "Oh my fucking god, Nora..."
-    u "哦，我的天呐，诺拉……"
+    u "噢，我的天呐，诺拉……"
 
 # game/v12/scene35a.rpy:611
 translate chinese v12_nora_sex_cabd2299:
@@ -604,7 +604,7 @@ translate chinese v12_nora_sex_22ab8908:
 translate chinese v12s35a_nsfwSkipLabel1_ca110429:
 
     # u "(I just had sex with Nora. NORA!!! I fucked Chris' girl! Wow... Gonna have to sleep on this one.)"
-    u "(我刚刚和诺拉做爱了。诺拉！！！我上了克里斯的女朋友！哇哦……这件事我得先睡一觉。)"
+    u "(我刚刚和诺拉做爱了。诺拉！！！我上了克里斯的女朋友！哇噢……这件事我得先睡一觉。)"
 
 translate chinese strings:
 

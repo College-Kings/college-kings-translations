@@ -10,13 +10,13 @@ translate chinese v9_walk_li_txt_1d8a7ae7:
 translate chinese v9_walk_li_txt_ed398106:
 
     # u "(I may need some help if they run into each other again)"
-    u "(如果他们再碰见，我可能需要帮助)"
+    u "(如果他们再碰面，我可能需要帮助。)"
 
 # game/v9/scene38.rpy:32
 translate chinese v9_walk_li_txt_112e72aa:
 
     # u "(Please no more drama)"
-    u "(请不要再胡闹了)"
+    u "(请不要再胡闹了。)"
 
 # game/v9/scene38.rpy:46
 translate chinese s38_PhoneContinue_f9e9813d:
@@ -44,7 +44,7 @@ translate chinese strings:
 
     # game/v9/scene38.rpy:12
     old ":("
-    new ":("
+    new "：("
 
     # game/v9/scene38.rpy:13
     old "Please don't hate me. You know I want to. I really, really want to."
@@ -60,11 +60,11 @@ translate chinese strings:
 
     # game/v9/scene38.rpy:34
     old "Hey Freshmeat! How's it hangin?"
-    new "嘿，小鲜肉！怎么样了？"
+    new "嘿，小鲜肉！在干嘛？"
 
     # game/v9/scene38.rpy:35
     old "Hey Linds ;)"
-    new "嘿，林 ;)"
+    new "嘿，林；)"
 
     # game/v9/scene38.rpy:36
     old "I've decided to allow the nickname under one condition"
@@ -72,15 +72,15 @@ translate chinese strings:
 
     # game/v9/scene38.rpy:37
     old "Really? And what's that?"
-    new "真的吗？那是什么？"
+    new "真的吗？什么条件下？"
 
     # game/v9/scene38.rpy:38
     old "Come hang out with me"
-    new "和我一起出去玩"
+    new "过来陪我"
 
     # game/v9/scene38.rpy:39
     old "Hell yeah! Be right there, Linds!"
-    new "见鬼耶！马上就到，林！"
+    new "好的！马上就到，林！"
 
     # game/v9/scene38.rpy:40
     old "Aww, I wish I could, but I gotta get ready for the brawl"

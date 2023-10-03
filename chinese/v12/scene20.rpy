@@ -136,7 +136,7 @@ translate chinese v12_urban_exploring_a789bc61:
 translate chinese v12_urban_exploring_ade3a425:
 
     # au "Oh shit Imre! You weren't lying, haha..."
-    au "哦，该死，伊姆雷！你没有撒谎，哈哈……"
+    au "噢，该死，伊姆雷！你没有撒谎，哈哈……"
 
 # game/v12/scene20.rpy:140
 translate chinese v12_urban_exploring_5811726d:
@@ -148,7 +148,7 @@ translate chinese v12_urban_exploring_5811726d:
 translate chinese v12_urban_exploring_b2827ebf:
 
     # no "Oh, you got more?"
-    no "哦，你还有更多吗？"
+    no "噢，你还有更多吗？"
 
 # game/v12/scene20.rpy:150
 translate chinese v12_urban_exploring_93ff3184:
@@ -190,7 +190,7 @@ translate chinese v12_urban_exploring_4c8f5417:
 translate chinese v12_urban_exploring_7b5806f3:
 
     # no "Oooo! The double flip... Very impressive, [name]. *Laughs*"
-    no "哦哦！双人翻转……令人印象深刻，[name]。 *笑* "
+    no "噢噢！双人翻转……令人印象深刻，[name]。 *笑* "
 
 # game/v12/scene20.rpy:214
 translate chinese v12_urban_exploring_84a29d35:
@@ -226,13 +226,13 @@ translate chinese v12_urban_exploring_09645ba0:
 translate chinese v12_urban_exploring_b2ecec1a:
 
     # no "Uh, oh. *Chuckles*"
-    no "呃，哦。 *咯咯笑* "
+    no "呃，噢。 *咯咯笑* "
 
 # game/v12/scene20.rpy:248
 translate chinese v12_urban_exploring_f5a8703f:
 
     # u "Oh, shit... Aubrey, how the hell..."
-    u "哦，该死的……奥布里，见鬼的怎么……"
+    u "噢，该死的……奥布里，见鬼的怎么……"
 
 # game/v12/scene20.rpy:253
 translate chinese v12_urban_exploring_08a5f439:
@@ -382,7 +382,7 @@ translate chinese v12s20_faillabel_baa1182e:
 translate chinese v12s20_faillabel_6ac41e4d:
 
     # au "OH- FUCK... Oww! Ow, ow, ow..."
-    au "哦-操……哇哦！噢，噢，噢……"
+    au "噢-操……哇噢！噢，噢，噢……"
 
 # game/v12/scene20.rpy:427
 translate chinese v12s20_faillabel_6ccd5900:

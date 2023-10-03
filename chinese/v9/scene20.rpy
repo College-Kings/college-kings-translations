@@ -22,7 +22,7 @@ translate chinese s20_phoneExit1_ba2fedec:
 translate chinese s20_phoneExit2_4b007b2e:
 
     # u "(I should reply to that post on Kiwii)"
-    u "(我应该回复那篇关于猕猴桃上的帖子)"
+    u "(我应该回复那篇关于猕猴桃上的帖子。)"
 
 # game/v9/scene20.rpy:72
 translate chinese v9_room_fri_aft_contW_1e418b32:

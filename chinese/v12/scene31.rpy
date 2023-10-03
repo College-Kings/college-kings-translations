@@ -76,7 +76,7 @@ translate chinese v12_aubrey_wake_up_c8a1fb61:
 translate chinese v12_aubrey_wake_up_3ac3b9a4:
 
     # cl "Oh yeah, we're dating."
-    cl "哦，对了，我们在约会。"
+    cl "噢，对了，我们在约会。"
 
 # game/v12/scene31.rpy:84
 translate chinese v12_aubrey_wake_up_7544f916:

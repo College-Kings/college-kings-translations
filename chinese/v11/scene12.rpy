@@ -10,7 +10,7 @@ translate chinese v11_sit_ryan_convo_23fd9d7e:
 translate chinese v11_sit_ryan_convo_88d2dbb1:
 
     # u "Oh, okay."
-    u "哦，好的。"
+    u "噢，好的。"
 
 # game/v11/scene12.rpy:31
 translate chinese v11_sit_ryan_convo_35ff1c60:
@@ -52,7 +52,7 @@ translate chinese v11_sit_ryan_convo_88908331:
 translate chinese v11_sit_ryan_convo_b8d2aad2:
 
     # ry "Oh damn, why?"
-    ry "哦，天呐，为什么？"
+    ry "噢，天呐，为什么？"
 
 # game/v11/scene12.rpy:66
 translate chinese v11_sit_ryan_convo_8fcf427c:
@@ -214,7 +214,7 @@ translate chinese v11_sit_ryan_convo_88908331_1:
 translate chinese v11_sit_ryan_convo_b8d2aad2_1:
 
     # ry "Oh damn, why?"
-    ry "哦，天呐，为什么？"
+    ry "噢，天呐，为什么？"
 
 # game/v11/scene12.rpy:207
 translate chinese v11_sit_ryan_convo_8fcf427c_1:
@@ -250,7 +250,7 @@ translate chinese v11_sit_ryan_convo_8fcac7b5:
 translate chinese v11_sit_ryan_convo_5a23313e:
 
     # ry "Oh yeah, uhm, that doesn't bother you does it?"
-    ry "哦，是的，嗯，你不介意吧？"
+    ry "噢，是的，嗯，你不介意吧？"
 
 # game/v11/scene12.rpy:240
 translate chinese v11_sit_ryan_convo_0d1e6c7e:
@@ -406,7 +406,7 @@ translate chinese v11_sit_ryan_convo_0f8d31f9:
 translate chinese v11_sit_ryan_convo_6c5fac2a:
 
     # u "Oh sure, go ahead and try to get something else I already had."
-    u "哦，当然可以，试着拿走一些我已经有的东西。"
+    u "噢，当然可以，试着拿走一些我已经有的东西。"
 
 # game/v11/scene12.rpy:380
 translate chinese v11_sit_ryan_convo_3ce7ce96:
@@ -466,7 +466,7 @@ translate chinese v11_sit_ryan_convo_a4e36e89_2:
 translate chinese v11_sit_ryan_convo_c607a29d:
 
     # ry "Yeah, for sure."
-    ry "是啊，当然可以。"
+    ry "是的，当然可以。"
 
 translate chinese strings:
 

@@ -4,7 +4,7 @@ translate chinese strings:
 
     # game/custom_screens.rpy:77
     old "THIS MODE PROHIBITS you from saving during important choices, meaning all choices are final. this can't be disabled without starting a new game."
-    new "这种模式禁止你在做重要的选择时保存进度，这意味着所有的选择都是不可逆的。除非重新启动游戏，否则无法禁用此功能。"
+    new "这种模式禁止您在做重要的选择时保存进度，这意味着所有的选择都是不可逆的。除非重新启动游戏，否则无法禁用此功能。"
 
     # game/custom_screens.rpy:85
     old "ENABLE"
@@ -20,7 +20,7 @@ translate chinese strings:
 
     # game/custom_screens.rpy:114
     old "* CONTENT NOT SUITABLE FOR TWITCH OR YOUTUBE"
-    new "*此内容不适合在twitch或YouTube上展示"
+    new "* 此内容不适合在Twitch或YouTube上展示"
 
     # game/custom_screens.rpy:127
     old "TO VIEW THIS SCENE YOU MUST HAVE NSFW ENABLED"
@@ -40,11 +40,11 @@ translate chinese strings:
 
     # game/custom_screens.rpy:152
     old "OR YOU MAY CHOOSE TO SKIP THIS SCENE"
-    new "或者你可以选择跳过这一幕"
+    new "或者您可以选择跳过这一幕"
 
     # game/custom_screens.rpy:211
     old "You've just unlocked the social media app Kiwii! Open it now from the homescreen."
-    new "你刚刚解锁了社交媒体应用猕猴桃！现在从主屏幕打开它。"
+    new "您刚刚解锁了社交媒体应用猕猴桃！现在从主屏幕打开它。"
 
     # game/custom_screens.rpy:213
     old "OK"
@@ -52,7 +52,7 @@ translate chinese strings:
 
     # game/custom_screens.rpy:264
     old "What's New:"
-    new "有什么新鲜事儿:"
+    new "新鲜事儿："
 
     # game/custom_screens.rpy:267
     old "Exit"
@@ -60,5 +60,5 @@ translate chinese strings:
 
     # game/custom_screens.rpy:309
     old "Are you sure you want to end the free roam?"
-    new "你确定要结束自由漫游模式吗？"
+    new "您确定要结束自由漫游模式吗？"
 

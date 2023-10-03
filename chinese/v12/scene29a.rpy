@@ -82,7 +82,7 @@ translate chinese v12_late_night_workout_505a3f68:
 translate chinese v12_late_night_workout_2ceaf98f:
 
     # li "Oh my gosh, thanks. I just knew you were gonna say no."
-    li "哦，天哪，谢谢。我以为你会说不。"
+    li "噢，天哪，谢谢。我以为你会说不。"
 
 # game/v12/scene29a.rpy:90
 translate chinese v12_late_night_workout_8e0dec03:
@@ -112,7 +112,7 @@ translate chinese v12_late_night_workout_d7f8a3e5:
 translate chinese v12_late_night_workout_464ea082:
 
     # li "Oh wow, this is so nice. This is nothing like what I expected."
-    li "哦，哇，这真是太好了。这和我预想的一点也不一样。"
+    li "噢，哇，这真是太好了。这和我预想的一点也不一样。"
 
 # game/v12/scene29a.rpy:128
 translate chinese v12_late_night_workout_b486b60a:
@@ -562,7 +562,7 @@ translate chinese v12s29a_faillabel3_2e307e34:
 translate chinese v12s29a_faillabel3_651ffe75:
 
     # li "Oh god!"
-    li "哦，天呐！"
+    li "噢，天呐！"
 
 # game/v12/scene29a.rpy:745
 translate chinese v12s29a_faillabel3_eea9f122:

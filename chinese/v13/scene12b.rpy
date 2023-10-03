@@ -58,7 +58,7 @@ translate chinese v13s12b_f24b08bf:
 translate chinese v13s12b_41542b4d:
 
     # pe "Oh my gosh... I was not expecting this many people."
-    pe "哦，我的天啊……我没想到会有这么多人。"
+    pe "噢，我的天呐……我没想到会有这么多人。"
 
 # game/v13/scene12b.rpy:92
 translate chinese v13s12b_3fb44dd5:
@@ -70,7 +70,7 @@ translate chinese v13s12b_3fb44dd5:
 translate chinese v13s12b_210aeb20:
 
     # u "Yeah... Don't worry about it. We didn't come for them, we came for Polly and a good time."
-    u "是啊……不必为那事担心了。我们不是来找他们的，我们是来找波莉的，我们是来找乐子的。"
+    u "是啊……不必为那事儿担心了。我们不是来找他们的，我们是来找波莉的，我们是来找乐子的。"
 
 # game/v13/scene12b.rpy:102
 translate chinese v13s12b_4905de2b:
@@ -88,7 +88,7 @@ translate chinese v13s12b_bac05d6b:
 translate chinese v13s12b_cafc118c:
 
     # pe "OH WOW, THAT'S SO LOUD!"
-    pe "哦，哇，声音太大了！"
+    pe "噢，哇，声音太大了！"
 
 # game/v13/scene12b.rpy:120
 translate chinese v13s12b_de6df5e2:
@@ -100,25 +100,25 @@ translate chinese v13s12b_de6df5e2:
 translate chinese v13s12b_1c9a6856:
 
     # pe "WORD FOR WORD!"
-    pe "一字不差！"
+    pe "一字儿不差！"
 
 # game/v13/scene12b.rpy:130
 translate chinese v13s12b_e3ad708d:
 
     # polly "IF YOU'RE OUT WITH YOUR BEST FRIEND TONIGHT CAN I GET A HELL YEAHHHH!"
-    polly "如果你们今晚和你最好的朋友出来，说一声见鬼，是的！"
+    polly "如果你们今晚和你最好的朋友出来，说一声噢耶！"
 
 # game/v13/scene12b.rpy:140
 translate chinese v13s12b_badd237d:
 
     # u "HELL YEAHHH!!"
-    u "见鬼，是的！！"
+    u "噢耶！！"
 
 # game/v13/scene12b.rpy:145
 translate chinese v13s12b_169e114d:
 
     # pe "*Chuckles* Hell yeah!"
-    pe " *咯咯笑* 见鬼，是的！"
+    pe " *咯咯笑* 噢耶！"
 
 # game/v13/scene12b.rpy:150
 translate chinese v13s12b_28942e3e:
@@ -142,13 +142,13 @@ translate chinese v13s12b_f391cfc9:
 translate chinese v13s12b_a9da8792:
 
     # polly "*Singing* LOVE COMES UNEXPECTED, LOVE'S UNNATURAL!"
-    polly " *唱歌* 爱情来得意想不到，爱是不自然的！"
+    polly " *唱歌* LOVE COMES UNEXPECTED, LOVE'S UNNATURAL！"
 
 # game/v13/scene12b.rpy:168
 translate chinese v13s12b_d2fa5dce:
 
     # pe "*SINGING* I CAN FEEL MY HEART BEAT, LOVE IS LIKE A BATTERY, IT POWERS UP MY SOUL!"
-    pe  " *唱歌* 我能感觉到我的心跳，爱就像一块电池，它给我的灵魂供电！"
+    pe  " *唱歌* I CAN FEEL MY HEART BEAT, LOVE IS LIKE A BATTERY, IT POWERS UP MY SOUL！"
 
 # game/v13/scene12b.rpy:173
 translate chinese v13s12b_45fa678c:
@@ -202,13 +202,13 @@ translate chinese v13s12b_54e28776:
 translate chinese v13s12b_b260f100:
 
     # u "Good."
-    u "好的。"
+    u "很好。"
 
 # game/v13/scene12b.rpy:218
 translate chinese v13s12b_2be93e33:
 
     # pe "You're always so quick to speak up... *Chuckles*"
-    pe "你说话总是那么快…… *咯咯笑* "
+    pe "你说话总是那么拽…… *咯咯笑* "
 
 # game/v13/scene12b.rpy:223
 translate chinese v13s12b_631be721:
@@ -238,19 +238,19 @@ translate chinese v13s12b_c7e3144c:
 translate chinese v13s12b_4fc1a2a0:
 
     # pe "Wha- Oh gosh! *Chuckles* This is definitely something else!"
-    pe "哇--哦，天呐！ *咯咯笑* 这真是意想不到！"
+    pe "哇--噢，天呐！ *咯咯笑* 这真是意想不到！"
 
 # game/v13/scene12b.rpy:276
 translate chinese v13s12b_adb2737e:
 
     # u "(Fuck, I don't know how much longer I can hold her.)"
-    u "(操，我不知道我还能扛她多久。)"
+    u "(该死的，我不知道我还能扛她多久。)"
 
 # game/v13/scene12b.rpy:281
 translate chinese v13s12b_cfcb6235:
 
     # unknown "Oh shit, sorry man."
-    unknown "哦，见鬼，对不起，伙计。"
+    unknown "噢，见鬼，对不起，伙计。"
 
 # game/v13/scene12b.rpy:297
 translate chinese v13s12b_bbfbcb04:
@@ -268,7 +268,7 @@ translate chinese v13s12b_31c09c7f:
 translate chinese v13s12b_82e29e96:
 
     # pe "Oh... Okay. *Chuckles*"
-    pe "哦……好的。 *咯咯笑* "
+    pe "噢……好的。 *咯咯笑* "
 
 # game/v13/scene12b.rpy:323
 translate chinese v13s12b_d695c666:
@@ -280,7 +280,7 @@ translate chinese v13s12b_d695c666:
 translate chinese v13s12b_f5c28cea:
 
     # polly "*Singing* LOVE COMES UNEXPECTED, LOVE'S UNNATURAL! I CAN FEEL MY HEARTBEAT, LOVE IS LIKE BATTERY, IT POWERS UP MY SOUL!"
-    polly " *唱歌* 爱情来得意想不到，爱是不自然的！我能感觉到我的心跳，爱就像电池，它给我的灵魂供电！"
+    polly " *唱歌* LOVE COMES UNEXPECTED, LOVE'S UNNATURAL! I CAN FEEL MY HEARTBEAT, LOVE IS LIKE BATTERY, IT POWERS UP MY SOUL！"
 
 # game/v13/scene12b.rpy:336
 translate chinese v13s12b_8b0e3680:
@@ -310,7 +310,7 @@ translate chinese v13s12b_e6da48e1:
 translate chinese v13s12b_failed_timer_bbee55b6:
 
     # u "Oh shit! I'm so sorry, Penelope... I-"
-    u "哦，妈的！我很抱歉佩内洛普……我-"
+    u "噢，该死的！我很抱歉佩内洛普……我-"
 
 # game/v13/scene12b.rpy:401
 translate chinese v13s12b_failed_timer_3af340f6:
@@ -376,7 +376,7 @@ translate chinese v13s12b_failed_timer_bd8b46a0:
 translate chinese v13s12b_failed_timer_1b28a406:
 
     # u "Of course."
-    u "当然。"
+    u "不客气。"
 
 # game/v13/scene12b.rpy:481
 translate chinese v13s12b_failed_timer_b94b59ac:
@@ -406,7 +406,7 @@ translate chinese v13s12b_failed_timer_059a79e4:
 translate chinese v13s12b_failed_timer_306b776f:
 
     # pe "Oh... Okay, good. *Chuckles* Thanks for a fun night out..."
-    pe "哦……好吧，很好。 *咯咯笑* 谢谢你今晚带我出来玩得那么开心……"
+    pe "噢……好吧，很好。 *咯咯笑* 谢谢你今晚带我出来玩得那么开心……"
 
 # game/v13/scene12b.rpy:506
 translate chinese v13s12b_failed_timer_173f2156:

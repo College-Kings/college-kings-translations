@@ -116,7 +116,7 @@ translate chinese strings:
 
     # game/achievements.rpy:86
     old "Pull down Mr. Lee's pants"
-    new "撤下李先生的裤子"
+    new "扯下李先生的裤子"
 
     # game/achievements.rpy:87
     old "Bunk homecoming with Amber"
@@ -144,7 +144,7 @@ translate chinese strings:
 
     # game/achievements.rpy:96
     old "Flashing lights at the arcade"
-    new "街机厅相机闪灯"
+    new "闪亮街机厅摄像头"
 
     # game/achievements.rpy:97
     old "Win the alley fight"
@@ -180,7 +180,7 @@ translate chinese strings:
 
     # game/achievements.rpy:108
     old "Skip the gym and get with Riley"
-    new "跳过健身房然后去找莱利"
+    new "跳过健身房然后去找莱莉"
 
     # game/achievements.rpy:109
     old "Don't kiss Lindsey"
@@ -208,7 +208,7 @@ translate chinese strings:
 
     # game/achievements.rpy:118
     old "Have fun in the bathroom"
-    new "在卫生间玩得尽兴"
+    new "在卫生间玩儿得尽兴"
 
     # game/achievements.rpy:119
     old "Kiss Ms. Rose"
@@ -216,7 +216,7 @@ translate chinese strings:
 
     # game/achievements.rpy:120
     old "Have fun at the skatepark"
-    new "在滑冰场玩得开心"
+    new "在滑冰场玩儿得开心"
 
     # game/achievements.rpy:121
     old "Find out Nora and Ms. Rose are family"
@@ -244,7 +244,7 @@ translate chinese strings:
 
     # game/achievements.rpy:130
     old "Don't balance the horse at the end of the manhunt"
-    new "不要在追捕结束时稳住马儿"
+    new "在追捕结束时没稳住马儿"
 
     # game/achievements.rpy:131
     old "Kiss Penelope at the airport"
@@ -252,7 +252,7 @@ translate chinese strings:
 
     # game/achievements.rpy:132
     old "Hit a bullseye at Duncan's"
-    new "在邓肯家打中靶心"
+    new "在邓肯的店打中靶心"
 
     # game/achievements.rpy:133
     old "Tell Riley dinosaurs aren't real"
@@ -260,7 +260,7 @@ translate chinese strings:
 
     # game/achievements.rpy:134
     old "Have a cocktail at the bar"
-    new "在吧台喝鸡尾酒"
+    new "在吧台点鸡尾酒"
 
     # game/achievements.rpy:135
     old "Get all the HP answers right"
@@ -332,7 +332,7 @@ translate chinese strings:
 
     # game/achievements.rpy:155
     old "Embarrassing Kiwii picture for losing the race"
-    new "猕猴桃上传输掉比赛的尴尬照片"
+    new "猕猴桃晒输掉比赛的尴尬照片"
 
     # game/achievements.rpy:156
     old "Defend Chris every time as a Wolf"

@@ -4,7 +4,7 @@
 translate chinese v13s52_a1363602:
 
     # u "(I wonder how my baby girl Chloe is doing.)"
-    u "(我想知道我的宝贝姑娘克洛伊怎么样了。)"
+    u "(我想知道我的宝藏女孩克洛伊怎么样了。)"
 
 # game/v13/scene52.rpy:27
 translate chinese v13s52_5d3eadec:
@@ -34,5 +34,5 @@ translate chinese v13s52_54b4d659:
 translate chinese v13s52_b5fe3021:
 
     # u "Haha... Goodnight babe."
-    u "哈哈……晚安，宝贝。"
+    u "哈哈……晚安，宝贝儿。"
 

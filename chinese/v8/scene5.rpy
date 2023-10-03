@@ -112,7 +112,7 @@ translate chinese hoco_amb_morning_5fcd9181:
 translate chinese hoco_amb_morning_2b95bb58:
 
     # am "Oh shit. Must've passed out on the floor last night."
-    am "哦操。一定是昨晚昏倒在地板上了。"
+    am "该死的。一定是昨晚昏倒在地板上了。"
 
 # game/v8/scene5.rpy:189
 translate chinese hoco_amb_morning_e6d40b58:
@@ -148,7 +148,7 @@ translate chinese v8s5_nsfwSkipLabel1_ea0397dc:
 translate chinese v8s5_nsfwSkipLabel1_f88953d1:
 
     # am "Oh yeah... My parents moved away to Europe."
-    am "哦，好吧……我父母搬到欧洲去了。"
+    am "噢，好吧……我父母搬到欧洲去了。"
 
 # game/v8/scene5.rpy:228
 translate chinese v8s5_nsfwSkipLabel1_ef5eae93:
@@ -196,7 +196,7 @@ translate chinese v8s5_nsfwSkipLabel1_65ccfb9d:
 translate chinese v8s5_nsfwSkipLabel1_ac32ce18:
 
     # am "I still talk to them all the time, it's not like we're estranged haha. But at least I have the house."
-    am "我还是一直和他们通话，我们不像是疏远了哈哈。但至少我有房子。"
+    am "我还是一直和他们通话，我们不像是疏远了，哈哈。但至少我有房子。"
 
 # game/v8/scene5.rpy:268
 translate chinese v8s5_nsfwSkipLabel1_74c27a44:

@@ -28,13 +28,13 @@ translate chinese recap_end_8ab1aa07:
 translate chinese recap_end_b06b3ceb:
 
     # u "it got out that Lindsey had decided to run against Chloe to be president of the Chicks sorority."
-    u "有消息传出，林赛决定和克洛伊竞选女生会的主席。"
+    u "有消息传出，林赛决定和克洛伊竞选小鸡会的会长。"
 
 # game/recap/recap03.rpy:53
 translate chinese recap_end_2ac32ff3:
 
     # u "The tension was clearly building between her and Chloe."
-    u "她和克洛伊之间的关系显然越来越紧张。"
+    u "她和克洛伊之间的关系显然越来越紧张了。"
 
 # game/recap/recap03.rpy:63
 translate chinese recap_end_c9a0c89d:
@@ -58,7 +58,7 @@ translate chinese recap_end_d3f3446f:
 translate chinese recap_end_ce6b76cc:
 
     # u "And then our Europe trip was over and it was time to fly home. It went by so fast but it's something I'll never forget!"
-    u "然后我们的欧洲之旅结束了，是时候飞回家了。时间过得太快了，但这是我永远不会忘记的！"
+    u "然后我们的欧洲之旅就结束了，是时候飞回家了。时间如白驹过隙，但这是我永生难忘的！"
 
 translate chinese strings:
 

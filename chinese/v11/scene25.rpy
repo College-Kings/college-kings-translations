@@ -160,7 +160,7 @@ translate chinese v11_hotel_bar_85f95420:
 translate chinese v11_hotel_bar_ff37bcd0:
 
     # jo "Oh shit, gotta go man. I'll see ya around."
-    jo "哦，糟糕，我得走了，伙计。回头见。"
+    jo "噢，糟糕，我得走了，伙计。回头见。"
 
 # game/v11/scene25.rpy:174
 translate chinese v11_hotel_bar_75ddc0e7:

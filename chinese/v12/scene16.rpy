@@ -34,7 +34,7 @@ translate chinese v12_valentine_98e7a193:
 translate chinese v12_valentine_2615c92f:
 
     # lee "Oh, no need to apologize for that. I'm happy to see you guys being so productive with the hunt!"
-    lee "哦，没必要为此道歉。我很高兴看到你们寻宝活动如此有成效！"
+    lee "噢，没必要为此道歉。我很高兴看到你们寻宝活动如此有成效！"
 
 # game/v12/scene16.rpy:48
 translate chinese v12_valentine_29c8ace7:
@@ -64,7 +64,7 @@ translate chinese v12_valentine_61506f7d:
 translate chinese v12_valentine_cd00edc2:
 
     # li "Oooo, okay. *Chuckles*"
-    li "哦，好的。 *咯咯笑*"
+    li "噢，好的。 *咯咯笑*"
 
 # game/v12/scene16.rpy:78
 translate chinese v12_valentine_63ee26cf:
@@ -268,7 +268,7 @@ translate chinese v12_valentine_d6319c29:
 translate chinese v12_valentine_6fddbaa8:
 
     # li "Awww."
-    li "哇哦。"
+    li "哇噢。"
 
 # game/v12/scene16.rpy:278
 translate chinese v12_valentine_67aa57bd:
@@ -334,7 +334,7 @@ translate chinese v12_valentine_9d77f0cf:
 translate chinese v12_valentine_34ec8c3e:
 
     # ch "Oh... *Chuckles*"
-    ch "哦…… *咯咯笑* "
+    ch "噢…… *咯咯笑* "
 
 # game/v12/scene16.rpy:333
 translate chinese v12_valentine_c0735ef3:
@@ -562,7 +562,7 @@ translate chinese v12_valentine_ddb6f8d7:
 translate chinese v12_valentine_831bdbb6:
 
     # li "Oh my gosh! I love weddings!"
-    li "哦，我的天哪！我爱死婚礼了！"
+    li "噢，我的天哪！我爱死婚礼了！"
 
 # game/v12/scene16.rpy:499
 translate chinese v12_valentine_ad34225d:
@@ -598,7 +598,7 @@ translate chinese v12_valentine_3a7a8e1f:
 translate chinese v12_valentine_e162dfb0:
 
     # ch "Oh no."
-    ch "哦，不。"
+    ch "噢，不。"
 
 # game/v12/scene16.rpy:536
 translate chinese v12_valentine_442fb507:
@@ -628,7 +628,7 @@ translate chinese v12_valentine_8c3839cd:
 translate chinese v12_valentine_ed8a3f83:
 
     # u "Oh, yeah. Sure."
-    u "哦，是啊。好的。"
+    u "噢，是啊。好的。"
 
 # game/v12/scene16.rpy:583
 translate chinese v12_valentine_ae25db16:
@@ -742,13 +742,13 @@ translate chinese v12_valentine_2168df98:
 translate chinese v12_valentine_88ba17fb:
 
     # cl "*Whispers* Oh! Yeah, haha. He asked me out while we were in London... It was so cute."
-    cl " *低语* 哦！是啊，哈哈。我们在伦敦的时候他约我出去。太可爱了。"
+    cl " *低语* 噢！是啊，哈哈。我们在伦敦的时候他约我出去。太可爱了。"
 
 # game/v12/scene16.rpy:704
 translate chinese v12_valentine_c2998444:
 
     # li "*Whispers* Oh my gosh! That's so sweet, Chloe! I had no idea..."
-    li "*低语* 哦，我的天！太贴心了，克洛伊！我不知道……"
+    li "*低语* 噢，我的天！太贴心了，克洛伊！我不知道……"
 
 # game/v12/scene16.rpy:709
 translate chinese v12_valentine_63df38c0:

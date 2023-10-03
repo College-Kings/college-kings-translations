@@ -16,7 +16,7 @@ translate chinese v9_wolves_pre_fight_be6febb1:
 translate chinese v9_wolves_pre_fight_4a098bc2:
 
     # u "(I hope Lindsey's not mad at me. She's a nice girl. And she's really hot! I don't wanna blow it.)"
-    u "(我希望林赛没有生我的气。她是个好女孩。而且她真的很性感！我不想搞砸。)"
+    u "(我希望林赛没有生我的气。她是个好女孩儿。而且她真的很性感！我不想搞砸。)"
 
 # game/v9/scene40.rpy:24
 translate chinese v9_wolves_pre_fight_b95d2744:
@@ -46,31 +46,31 @@ translate chinese v9_wolves_pre_fight_51be6310:
 translate chinese v9_wolves_pre_fight_6ad44547:
 
     # u "More than ready!"
-    u "不止准备好了！"
+    u "整装待发！"
 
 # game/v9/scene40.rpy:60
 translate chinese v9_wolves_pre_fight_4211c23e:
 
     # ch "A lot of people are going to be paying close attention tonight. Girls, frat brothers, enemies, friends and foes, everyone."
-    ch "今晚会有很多人密切关注。女孩，兄弟会兄弟，敌人，朋友和敌人，每个人。"
+    ch "今晚会有很多人密切关注。女孩，兄弟会兄弟，敌人，敌人的朋友，每个人。"
 
 # game/v9/scene40.rpy:61
 translate chinese v9_wolves_pre_fight_0aa51e56:
 
     # ch "But when you're in the ring don't think about anything except your opponent. No distractions, got it?"
-    ch "但是当你在拳台上的时候，除了你的对手，不要想任何事情。别分心，明白了吗？"
+    ch "但是当你在擂台上的时候，除了你的对手，不要想任何事情。别分心，明白了吗？"
 
 # game/v9/scene40.rpy:66
 translate chinese v9_wolves_pre_fight_0b67c2c5:
 
     # u "No distractions."
-    u "心无旁骛。"
+    u "全力以赴。"
 
 # game/v9/scene40.rpy:71
 translate chinese v9_wolves_pre_fight_57592911:
 
     # ch "Great, time to go! Downstairs."
-    ch "太好了，该走了！楼下。"
+    ch "太好了，该走了！下楼吧。"
 
 # game/v9/scene40.rpy:81
 translate chinese v9_wolves_pre_fight_40ad6bd3:

@@ -46,13 +46,13 @@ translate chinese v13s60_93e09692:
 translate chinese v13s60_958fee6c:
 
     # u "Oh, fuck! Fuck, fuck, fuck!"
-    u "哦，他妈的！操，操，操！"
+    u "噢，他妈的！操，操，操！"
 
 # game/v13/scene60.rpy:99
 translate chinese v13s60_a2310ab8:
 
     # au "Oh my god, [name]!"
-    au "哦，我的天呐，[name]！"
+    au "噢，我的天呐，[name]！"
 
 # game/v13/scene60.rpy:104
 translate chinese v13s60_152ea5b2:

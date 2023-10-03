@@ -214,7 +214,7 @@ translate chinese v12_game_roommate_c0e60ae6:
 translate chinese v12_game_roommate_3827540c:
 
     # cl "Wow... Good answer. Let's use this as a practice run though, I need the milestone. *Chuckles*"
-    cl "哇哦……回答得好。让我们把这当作一次练习，不过，我需要里程碑。 *咯咯笑* "
+    cl "哇噢……回答得好。让我们把这当作一次练习，不过，我需要里程碑。 *咯咯笑* "
 
 # game/v12/scene35b.rpy:202
 translate chinese v12_game_roommate_0df56e30:
@@ -256,7 +256,7 @@ translate chinese v12_game_roommate_535e4b0b:
 translate chinese v12_game_roommate_b08b4387:
 
     # cl "Oh, come on! No creativity?"
-    cl "哦，别呀！没有创造力吗？"
+    cl "噢，别呀！没有创造力吗？"
 
 # game/v12/scene35b.rpy:237
 translate chinese v12_game_roommate_18823a3a:
@@ -280,7 +280,7 @@ translate chinese v12_game_roommate_3b4fa11b:
 translate chinese v12_game_roommate_cf246335:
 
     # cl "Ohhh, there's different types of weddings and depending on which one you choose, determines the wedding quality and what medal you get. We have to go with the big one!"
-    cl "哦，婚礼有不同的类型，根据你选择的是哪一种，决定了婚礼的质量和你得到的奖牌。我们得选大的那个！"
+    cl "噢，婚礼有不同的类型，根据你选择的是哪一种，决定了婚礼的质量和你得到的奖牌。我们得选大的那个！"
 
 # game/v12/scene35b.rpy:272
 translate chinese v12_game_roommate_1751052c:
@@ -310,7 +310,7 @@ translate chinese v12_game_roommate_7ce1e4ed:
 translate chinese v12_game_roommate_a727772a:
 
     # u "Oh, you'll see."
-    u "哦，你会看到的。"
+    u "噢，你会看到的。"
 
 # game/v12/scene35b.rpy:303
 translate chinese v12_game_roommate_84d4355b:
@@ -334,7 +334,7 @@ translate chinese v12_game_roommate_bdf1c3d2:
 translate chinese v12_game_roommate_af73ad32:
 
     # cl "Wait, why did you need to- OH MY GOD! YOU KILLED YOUR PARENTS!?"
-    cl "等等，你为什么要-哦，天呐！你杀了你的父母！？"
+    cl "等等，你为什么要-噢，天呐！你杀了你的父母！？"
 
 # game/v12/scene35b.rpy:323
 translate chinese v12_game_roommate_a8fa64ca:
@@ -430,7 +430,7 @@ translate chinese v12_game_roommate_fe150c73:
 translate chinese v12_game_roommate_feb44c11:
 
     # u "Oh cool! I got a millionaire milestone."
-    u "哦，酷！我获得了一个百万富翁里程碑。"
+    u "噢，酷！我获得了一个百万富翁里程碑。"
 
 # game/v12/scene35b.rpy:405
 translate chinese v12_game_roommate_34f81ae4:
@@ -448,7 +448,7 @@ translate chinese v12_game_roommate_0ec7e076:
 translate chinese v12_game_roommate_723cd448:
 
     # u "Awww! Just a little longer? I was starting to enjoy it... *Chuckles*"
-    u "哇哦！再等一会儿好吗？我开始喜欢上它了…… *咯咯笑* "
+    u "哇噢！再等一会儿好吗？我开始喜欢上它了…… *咯咯笑* "
 
 # game/v12/scene35b.rpy:420
 translate chinese v12_game_roommate_e1990993:
@@ -490,7 +490,7 @@ translate chinese v12_game_roommate_667524dc:
 translate chinese v12_game_roommate_34ab6a14:
 
     # cl "OH MY GOD! *Chuckles* STOP IT! [name]! PLEASE... PLEASE STOP! *Laughs*"
-    cl "哦，天呐！ *咯咯笑* 住手！[name]！求求你……停下来！ *笑* "
+    cl "噢，天呐！ *咯咯笑* 住手！[name]！求求你……停下来！ *笑* "
 
 # game/v12/scene35b.rpy:457
 translate chinese v12_game_roommate_fcc18885_1:

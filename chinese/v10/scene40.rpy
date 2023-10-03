@@ -214,7 +214,7 @@ translate chinese v10s40_galleryScene_58bfc2d4:
 translate chinese v10s40_galleryScene_7c83caef:
 
     # u "Oh so you're kicking me out?"
-    u "哦，这么说你要把我赶出去了？"
+    u "噢，这么说你要把我赶出去了？"
 
 # game/v10/scene40.rpy:213
 translate chinese v10s40_galleryScene_028f7cc4:
@@ -268,13 +268,13 @@ translate chinese v10s40_rileyReverse_79aa4919:
 translate chinese v10s40_rileyReverse_a3f53d1b:
 
     # ri "Oh god!"
-    ri "哦，天呐！"
+    ri "噢，天呐！"
 
 # game/v10/scene40.rpy:287
 translate chinese v10s40_rileyReverse_647e3692:
 
     # ri "Oh fuck!"
-    ri "哦，该死的！"
+    ri "噢，该死的！"
 
 # game/v10/scene40.rpy:292
 translate chinese v10s40_rileyReverse_7fd21f74:
@@ -304,7 +304,7 @@ translate chinese v10s40_rileyCowgirl_cf3ce5ee:
 translate chinese v10s40_rileyCowgirl_429717d2:
 
     # u "Oh fuck, YESSS!"
-    u "哦，该死的，是的！"
+    u "噢，该死的，是的！"
 
 # game/v10/scene40.rpy:309
 translate chinese v10s40_rileyCowgirl_5077813d:
@@ -364,13 +364,13 @@ translate chinese v10s40_rileyCowgirl_79aa4919:
 translate chinese v10s40_rileyCowgirl_a3f53d1b:
 
     # ri "Oh god!"
-    ri "哦，天呐！"
+    ri "噢，天呐！"
 
 # game/v10/scene40.rpy:392
 translate chinese v10s40_rileyCowgirl_647e3692:
 
     # ri "Oh fuck!"
-    ri "哦，他妈的！"
+    ri "噢，他妈的！"
 
 # game/v10/scene40.rpy:397
 translate chinese v10s40_rileyCowgirl_7fd21f74:
@@ -400,7 +400,7 @@ translate chinese v10s40_rileyCowgirl_cf3ce5ee_1:
 translate chinese v10s40_rileyCowgirl_429717d2_1:
 
     # u "Oh fuck, YESSS!"
-    u "哦，他妈的，是的！"
+    u "噢，他妈的，是的！"
 
 # game/v10/scene40.rpy:417
 translate chinese v10s40_rileyCowgirl_5077813d_1:
@@ -556,7 +556,7 @@ translate chinese v10s40_rileyCowgirl_58bfc2d4:
 translate chinese v10s40_rileyCowgirl_7c83caef:
 
     # u "Oh so you're kicking me out?"
-    u "哦，这么说你要把我赶出去了？"
+    u "噢，这么说你要把我赶出去了？"
 
 # game/v10/scene40.rpy:551
 translate chinese v10s40_rileyCowgirl_028f7cc4:
@@ -610,13 +610,13 @@ translate chinese v10s40_rileyCowgirl_79aa4919_1:
 translate chinese v10s40_rileyCowgirl_a3f53d1b_1:
 
     # ri "Oh god!"
-    ri "哦，天呐！"
+    ri "噢，天呐！"
 
 # game/v10/scene40.rpy:632
 translate chinese v10s40_rileyCowgirl_647e3692_1:
 
     # ri "Oh fuck!"
-    ri "哦，他妈的！"
+    ri "噢，他妈的！"
 
 # game/v10/scene40.rpy:637
 translate chinese v10s40_rileyCowgirl_7fd21f74_1:
@@ -646,7 +646,7 @@ translate chinese v10s40_rileyCowgirl_cf3ce5ee_2:
 translate chinese v10s40_rileyCowgirl_429717d2_2:
 
     # u "Oh fuck, YESSS!"
-    u "哦，该死的，是的！"
+    u "噢，该死的，是的！"
 
 # game/v10/scene40.rpy:653
 translate chinese v10s40_rileyCowgirl_5077813d_2:
@@ -826,7 +826,7 @@ translate chinese v10s40_rileyCowgirl_58bfc2d4_1:
 translate chinese v10s40_rileyCowgirl_7c83caef_1:
 
     # u "Oh so you're kicking me out?"
-    u "哦，这么说你要把我赶出去了？"
+    u "噢，这么说你要把我赶出去了？"
 
 # game/v10/scene40.rpy:807
 translate chinese v10s40_rileyCowgirl_028f7cc4_1:
@@ -880,13 +880,13 @@ translate chinese v10s40_rileyCowgirl_79aa4919_2:
 translate chinese v10s40_rileyCowgirl_a3f53d1b_2:
 
     # ri "Oh god!"
-    ri "哦天呐！"
+    ri "噢天呐！"
 
 # game/v10/scene40.rpy:880
 translate chinese v10s40_rileyCowgirl_647e3692_2:
 
     # ri "Oh fuck!"
-    ri "哦，他妈的！"
+    ri "噢，他妈的！"
 
 # game/v10/scene40.rpy:885
 translate chinese v10s40_rileyCowgirl_7fd21f74_2:
@@ -916,7 +916,7 @@ translate chinese v10s40_rileyCowgirl_cf3ce5ee_3:
 translate chinese v10s40_rileyCowgirl_429717d2_3:
 
     # u "Oh fuck, YESSS!"
-    u "哦，他妈的，是的！"
+    u "噢，他妈的，是的！"
 
 # game/v10/scene40.rpy:901
 translate chinese v10s40_rileyCowgirl_5077813d_3:
@@ -1072,7 +1072,7 @@ translate chinese v10s40_rileyCowgirl_58bfc2d4_2:
 translate chinese v10s40_rileyCowgirl_7c83caef_2:
 
     # u "Oh so you're kicking me out?"
-    u "哦，这么说你要把我赶出去了？"
+    u "噢，这么说你要把我赶出去了？"
 
 # game/v10/scene40.rpy:1033
 translate chinese v10s40_rileyCowgirl_028f7cc4_2:
@@ -1258,7 +1258,7 @@ translate chinese v10s40_rileyCowgirl_58bfc2d4_3:
 translate chinese v10s40_rileyCowgirl_7c83caef_3:
 
     # u "Oh so you're kicking me out?"
-    u "哦，这么说你要把我赶出去了？"
+    u "噢，这么说你要把我赶出去了？"
 
 # game/v10/scene40.rpy:1216
 translate chinese v10s40_rileyCowgirl_028f7cc4_3:

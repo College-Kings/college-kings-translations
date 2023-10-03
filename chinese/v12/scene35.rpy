@@ -34,7 +34,7 @@ translate chinese v12_chris_nora_room_d0b91878:
 translate chinese v12_chris_nora_room_1abef72a:
 
     # no "Just get the fuck out! If you don't wanna be around me, don't be around me."
-    no "他妈的给我滚出去！如果你不想和我在一起，那就别和我在一起。"
+    no "他妈地给我滚出去！如果你不想和我在一起，那就别和我在一起。"
 
 # game/v12/scene35.rpy:58
 translate chinese v12_chris_nora_room_9a0a5644:
@@ -46,7 +46,7 @@ translate chinese v12_chris_nora_room_9a0a5644:
 translate chinese v12_chris_nora_room_852175cf:
 
     # u "(Oh shit!)"
-    u "(哦，见鬼！)"
+    u "(噢，见鬼！)"
 
 # game/v12/scene35.rpy:70
 translate chinese v12_chris_nora_room_48d6ddc1:

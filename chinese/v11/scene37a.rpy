@@ -370,7 +370,7 @@ translate chinese v11_ride_with_mrlee_5cfa34ad:
 translate chinese v11_ride_with_mrlee_50f6cedd:
 
     # u "Yeah, for sure. Um, thank you Mr. Lee, really."
-    u "是啊，当然。嗯，李先生，谢谢您，真的。"
+    u "是的，当然。嗯，李先生，谢谢您，真的。"
 
 # game/v11/scene37a.rpy:294
 translate chinese v11_ride_with_mrlee_69cf1ac4:
@@ -728,5 +728,5 @@ translate chinese strings:
 
     # game/v11/scene37a.rpy:406
     old "Side with Ryan"
-    new "站在瑞安一边"
+    new "站在瑞恩一边"
 

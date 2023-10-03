@@ -10,19 +10,19 @@ translate chinese v9_sat_gym_90842537:
 translate chinese v9_sat_hit_gym_b9ee1b75:
 
     # u "Hey, you seem to handle that bench pretty easy."
-    u "嘿，你似乎很容易驾驭那张长椅。"
+    u "嘿，你似乎很轻松就能驾驭那张长椅。"
 
 # game/v9/scene32.rpy:46
 translate chinese v9_sat_hit_gym_60664cc8:
 
     # ev "Yeah, I'm trying to focus on reps rather than increasing my weight endurance. The more times you do something the better, practice makes perfect. I'm sure you at least picked up on that in school."
-    ev "是的，我正试着集中精力练习而不是提高我的体重耐力。你做一件事次数越多越好，熟能生巧。我相信你至少在学校学过这个。"
+    ev "是的，我正试着集中精力练习而不是提高我的体能耐力。你做一件事次数越多越好，熟能生巧。我相信你至少在学校学过这个。"
 
 # game/v9/scene32.rpy:50
 translate chinese v9_sat_hit_gym_cd1bc029:
 
     # u "Ha, I did. So I guess that means I should be taking you out again soon."
-    u "哈，我说了。所以我想这意味着我应该很快再约你出去。"
+    u "哈，我学过。所以我想这意味着我应该很快再约你出去。"
 
 # game/v9/scene32.rpy:54
 translate chinese v9_sat_hit_gym_2779ede6:
@@ -34,7 +34,7 @@ translate chinese v9_sat_hit_gym_2779ede6:
 translate chinese v9_sat_hit_gym_convince_fd8692dd:
 
     # u "A wise woman once told me \"practice makes perfect\", I was just trying to follow her example."
-    u "一个聪明的女人曾经告诉我\"熟能生巧\"我只是想效仿她。"
+    u "一个聪明的女人曾经告诉我\"熟能生巧\"，我只是想效仿她。"
 
 # game/v9/scene32.rpy:71
 translate chinese v9_sat_hit_gym_convince_2b48792d:
@@ -88,13 +88,13 @@ translate chinese v9_sat_hit_gym_train_306d75b2:
 translate chinese v9_sat_skip_gym_1dc7f3d3:
 
     # u "(Best that I don't push it.)"
-    u "(最好我不要推它。)"
+    u "(我最好不要推开它。)"
 
 # game/v9/scene32.rpy:157
 translate chinese v9_sat_skip_gym_4b950da2:
 
     # u "(Oh, who's that?)"
-    u "(哦，那是谁？)"
+    u "(噢，那是谁？)"
 
 # game/v9/scene32.rpy:169
 translate chinese s32_PhoneContinue_d172984c:
@@ -106,11 +106,11 @@ translate chinese strings:
 
     # game/v9/scene32.rpy:8
     old "So you're coming?"
-    new "那你要来了？"
+    new "那你过来么？"
 
     # game/v9/scene32.rpy:9
     old "I hope so ;)"
-    new "我希望如此 ;)"
+    new "我希望如此；)"
 
     # game/v9/scene32.rpy:10
     old "See you in a few!"
@@ -130,7 +130,7 @@ translate chinese strings:
 
     # game/v9/scene32.rpy:17
     old "I'm so sorry. You know I would any other day. Really."
-    new "我很抱歉。你知道我们改天。真的。"
+    new "我很抱歉。你知道我们可以改天。真的。"
 
     # game/v9/scene32.rpy:18
     old "Ok well, your loss."
@@ -154,11 +154,11 @@ translate chinese strings:
 
     # game/v9/scene32.rpy:160
     old "I really shouldn't. Big day tomorrow. Stressed out"
-    new "我真的不应该。明天是大日子。压力过大"
+    new "我真的不应该。明天是大日子。压力很大"
 
     # game/v9/scene32.rpy:161
     old "Duh, that's why I'm asking ;)"
-    new "嗯，这就是我问的原因 ;)"
+    new "嗯，这就是我问的原因；)"
 
     # game/v9/scene32.rpy:162
     old "Well you shoulda led with that!"

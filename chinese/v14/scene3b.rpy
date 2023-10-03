@@ -160,7 +160,7 @@ translate chinese v14s03b_609e1a23:
 translate chinese v14s03b_26038eaf:
 
     # u "Oh shit."
-    u "哦，天呐。"
+    u "噢，天呐。"
 
 # game/v14/scene3b.rpy:150
 translate chinese v14s03b_fcc18885:
@@ -178,7 +178,7 @@ translate chinese v14s03b_7871cffb:
 translate chinese v14s03b_c96f7789:
 
     # u "Oh, you're being serious?"
-    u "哦，你是认真的吗？"
+    u "噢，你是认真的吗？"
 
 # game/v14/scene3b.rpy:165
 translate chinese v14s03b_7a0ee021:
@@ -190,7 +190,7 @@ translate chinese v14s03b_7a0ee021:
 translate chinese v14s03b_ac207d43:
 
     # u "Oh damn..."
-    u "哦，该死的……"
+    u "噢，该死的……"
 
 # game/v14/scene3b.rpy:179
 translate chinese v14s03b_0c05be82:

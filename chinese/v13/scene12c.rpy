@@ -58,7 +58,7 @@ translate chinese v13s12c_4ab12e26:
 translate chinese v13s12c_bcc88e71:
 
     # u "Oh, yeah. Maybe... I mean It would depend-"
-    u "哦，是啊。也许……我是说这要看-"
+    u "噢，是啊。也许……我是说这要看-"
 
 # game/v13/scene12c.rpy:67
 translate chinese v13s12c_cdb74674:

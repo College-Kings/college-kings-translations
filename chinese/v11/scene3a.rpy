@@ -124,7 +124,7 @@ translate chinese v11_wolves_packing_chris_66f53efe:
 translate chinese v11_wolves_packing_chris_a35e17a3:
 
     # ch "I've known her forever. I mean, we've been dating since high school. But ever since I became Wolves President it's like I'm being torn two ways."
-    ch "我认识她很久了。我是说，我们从高中就开始约会了。但自从我成为狼队主席我就像被一分为二了。"
+    ch "我认识她很久了。我是说，我们从高中就开始约会了。但自从我成为狼人主席我就像被一分为二了。"
 
 # game/v11/scene3a.rpy:124
 translate chinese v11_wolves_packing_chris_5a11bca8:
@@ -238,7 +238,7 @@ translate chinese v11_wolves_packing_chris_2b9b3b47:
 translate chinese v11_wolves_packing_chris_a7a4cf32:
 
     # ch "I've set an example of what it means to lead the Wolves and I won't ruin that for a vacation."
-    ch "我已经树立了领导狼队的榜样我不会为了度假而破坏它。"
+    ch "我已经树立了领导狼人的榜样我不会为了度假而破坏它。"
 
 # game/v11/scene3a.rpy:210
 translate chinese v11_wolves_packing_chris_89168212:
@@ -364,7 +364,7 @@ translate chinese v11_wolves_packing_chris_2b9b3b47_1:
 translate chinese v11_wolves_packing_chris_a7a4cf32_1:
 
     # ch "I've set an example of what it means to lead the Wolves and I won't ruin that for a vacation."
-    ch "我已经树立了领导狼队的榜样我不会为了度假而破坏它。"
+    ch "我已经树立了领导狼人的榜样我不会为了度假而破坏它。"
 
 # game/v11/scene3a.rpy:310
 translate chinese v11_wolves_packing_chris_89168212_1:

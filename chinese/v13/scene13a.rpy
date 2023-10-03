@@ -34,13 +34,13 @@ translate chinese v13s13a_55ed99af:
 translate chinese v13s13a_6698b7af:
 
     # u "I guess so, we've been sitting here for a minute and no one else has come so far."
-    u "我想是的，我们已经在这里坐了一分钟了，到目前为止还没有其他人来。"
+    u "我想是的，我们已经在这里坐了一会儿了，到目前为止还没有其他人来。"
 
 # game/v13/scene13a.rpy:52
 translate chinese v13s13a_2cb3ce88:
 
     # polly "*Sighs* Good..."
-    polly " *叹息*很好……"
+    polly " *叹息* 很好……"
 
 # game/v13/scene13a.rpy:57
 translate chinese v13s13a_b61dfe2c:
@@ -118,7 +118,7 @@ translate chinese v13s13a_4ce8c062:
 translate chinese v13s13a_4c8a029e:
 
     # u "Oh, come on... She's not that bad."
-    u "哦，得了吧……她没那么遭。"
+    u "噢，得了吧……她没那么遭。"
 
 # game/v13/scene13a.rpy:116
 translate chinese v13s13a_938f4f7f:
@@ -316,7 +316,7 @@ translate chinese v13s13a_af7e7400:
 translate chinese v13s13a_b33d7684:
 
     # u "Oh, hell yeah. Who doesn't love a good club?"
-    u "哦，见鬼，是的。谁不喜欢好的夜总会呢？"
+    u "噢，见鬼，是的。谁不喜欢好的夜总会呢？"
 
 # game/v13/scene13a.rpy:301
 translate chinese v13s13a_773c67bb:
@@ -328,7 +328,7 @@ translate chinese v13s13a_773c67bb:
 translate chinese v13s13a_9578c6f3:
 
     # au "Oh, we are."
-    au "哦，我们会的。"
+    au "噢，我们会的。"
 
 # game/v13/scene13a.rpy:311
 translate chinese v13s13a_8569c4fa_1:
@@ -428,5 +428,5 @@ translate chinese strings:
 
     # game/v13/scene13a.rpy:283
     old "Hell, yeah!"
-    new "见鬼，是的！"
+    new "噢耶！"
 

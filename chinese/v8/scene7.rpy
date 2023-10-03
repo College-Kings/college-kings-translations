@@ -46,7 +46,7 @@ translate chinese caf_w_aub_a2561724:
 translate chinese caf_w_aub_3db669d1:
 
     # au "Haha! Someone's horny."
-    au "哈哈！有人欲火焚身。"
+    au "哈哈！有人欲火焚身了。"
 
 # game/v8/scene7.rpy:63
 translate chinese caf_w_aub_724b0e3f:
@@ -136,13 +136,13 @@ translate chinese caf_w_aub_dc004f75:
 translate chinese caf_w_aub_c995719d:
 
     # au "Well I guess, even if I was with someone, I don't need them following me around the next day."
-    au "好吧，我想，即使我和某人在一起，我也不需要他们第二天跟着我。"
+    au "好吧，我想，即使我和某人在一起，我也不需要他整天跟着我。"
 
 # game/v8/scene7.rpy:150
 translate chinese caf_w_aub_1429a51f:
 
     # u "True. I feel you on that one."
-    u "没错。在这一点上我理解你。"
+    u "没错。在这一点上我很理解你。"
 
 # game/v8/scene7.rpy:155
 translate chinese caf_w_aub_a4e1e8dd:
@@ -154,13 +154,13 @@ translate chinese caf_w_aub_a4e1e8dd:
 translate chinese caf_w_aub_add10c59:
 
     # u "Yeah. It was cool. Yours?"
-    u "是啊。很酷。你呢？"
+    u "是的。很酷。你呢？"
 
 # game/v8/scene7.rpy:165
 translate chinese caf_w_aub_417f81b6:
 
     # au "I actually had a lot of fun at the dance."
-    au "我在舞会上玩得很开心。"
+    au "我在舞会上玩儿得很开心。"
 
 # game/v8/scene7.rpy:171
 translate chinese caf_w_aub_0ffa63bb:
@@ -178,7 +178,7 @@ translate chinese caf_w_aub_de2fce52:
 translate chinese caf_w_aub_6eb4fc94:
 
     # u "Yeah, good pick."
-    u "是啊，选得好。"
+    u "是的，有眼光。"
 
 # game/v8/scene7.rpy:185
 translate chinese caf_w_aub_486443a6:
@@ -202,13 +202,13 @@ translate chinese caf_w_aub_40f3e036_1:
 translate chinese cafe_no_call_87045a2b:
 
     # u "Nothing in particular except for some of the Wolves' stuff."
-    u "没什么特别的，除了一些狼的东西。"
+    u "没什么特别的，除了一些狼人的东西。"
 
 # game/v8/scene7.rpy:215
 translate chinese cafe_no_call_bad41073:
 
     # u "Apes joining ceremony is tonight, so there's that."
-    u "猿人入会仪式在今晚，所以有。"
+    u "猿人的入会仪式在今晚，所以是的。"
 
 # game/v8/scene7.rpy:217
 translate chinese cafe_no_call_bab2dd5d:
@@ -226,7 +226,7 @@ translate chinese cafe_no_call_08aad0c0:
 translate chinese cafe_no_call_92f02149:
 
     # u "Mhm. Can I have a bite? I'm starving."
-    u "嗯。我能吃一口吗？我饿死了。"
+    u "嗯。我能吃一口吗？我快饿死了。"
 
 # game/v8/scene7.rpy:242
 translate chinese au_prot_call_fcfea652:
@@ -244,7 +244,7 @@ translate chinese au_prot_call_dd9ace9f:
 translate chinese caf_prot_au_6bcc6ef4:
 
     # u "Oh yeah, the protest."
-    u "哦，是的，抗议活动。"
+    u "噢，是的，抗议活动。"
 
 # game/v8/scene7.rpy:269
 translate chinese caf_prot_au_fc34d0c9:
@@ -298,7 +298,7 @@ translate chinese caf_no_prot_au_cd13abb2:
 translate chinese caf_no_prot_au_ac224700:
 
     # aut "Oh... yeah, it's cool!"
-    aut "哦……是啊，很酷！"
+    aut "噢……是啊，很酷！"
 
 # game/v8/scene7.rpy:329
 translate chinese caf_no_prot_au_45eb663a:
@@ -334,7 +334,7 @@ translate chinese caf_no_prot_au_cf976fba:
 translate chinese caf_no_prot_au_2e10b4c4:
 
     # au "Oh okay. Sounded like you had to be somewhere."
-    au "哦，好吧。听起来你要去某个地方。"
+    au "噢，好吧。听起来你要去某个地方。"
 
 # game/v8/scene7.rpy:364
 translate chinese caf_no_prot_au_63b0e693:

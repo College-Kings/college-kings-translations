@@ -58,7 +58,7 @@ translate chinese v10_riley_vs_amber_19dfed92:
 translate chinese v10_riley_vs_amber_66e4963f:
 
     # am "That was kinda hot?"
-    am "那是不是有点火辣？"
+    am "那是不是有点性感？"
 
 # game/v10/scene37.rpy:45
 translate chinese v10_riley_vs_amber_724522dd:
@@ -94,7 +94,7 @@ translate chinese v10_riley_vs_amber_6c4dff21:
 translate chinese v10_riley_vs_amber_055f5cd0:
 
     # ri "Kinda hurts."
-    ri "有点疼。"
+    ri "有点儿疼。"
 
 # game/v10/scene37.rpy:72
 translate chinese v10_riley_vs_amber_b86d8a96:
@@ -184,7 +184,7 @@ translate chinese v10_riley_vs_amber_d02cb279:
 translate chinese v10_riley_vs_amber_85b8b78e:
 
     # aut "That concludes this year's main event, though some of the stations will remain open a bit longer."
-    aut "总结今年的主要事件,虽然有些站仍将开放一段时间。"
+    aut "这就是今年的主要活动，虽然有些站仍将开放一段时间。"
 
 # game/v10/scene37.rpy:138
 translate chinese v10_riley_vs_amber_c19ab11b:

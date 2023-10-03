@@ -4,7 +4,7 @@
 translate chinese v11_nora_airport_convo_e9c96e1e:
 
     # u "(Oh...)"
-    u "(哦……)"
+    u "(噢……)"
 
 # game/v11/scene15.rpy:15
 translate chinese v11_nora_airport_convo_773cf37f:

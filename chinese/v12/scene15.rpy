@@ -136,7 +136,7 @@ translate chinese v12_riddle_riley_7b6333da:
 translate chinese v12_riddle_riley_edef53e6:
 
     # u "Oh, I'm sure you can."
-    u "哦，我相信你可以的。"
+    u "噢，我相信你可以的。"
 
 # game/v12/scene15.rpy:168
 translate chinese v12_riddle_riley_0954abe9:
@@ -148,7 +148,7 @@ translate chinese v12_riddle_riley_0954abe9:
 translate chinese v12_riddle_riley_c2fdeef5:
 
     # ri "Oh, wait! I just found something."
-    ri "哦，等等！我刚发现了一些东西。"
+    ri "噢，等等！我刚发现了一些东西。"
 
 # game/v12/scene15.rpy:188
 translate chinese v12_riddle_riley_9a9c20f2:
@@ -256,7 +256,7 @@ translate chinese v12_riddle_riley_2057c186:
 translate chinese v12_riddle_riley_830e231b:
 
     # ri "Oh nice, we're good I guess. Let's get back and..."
-    ri "哦，太好了，我想我们很好。我们回去吧然后……"
+    ri "噢，太好了，我想我们很好。我们回去吧然后……"
 
 # game/v12/scene15.rpy:293
 translate chinese v12_riddle_riley_af2d87b2:
@@ -334,7 +334,7 @@ translate chinese v12_riddle_riley_80b42b77:
 translate chinese v12_riddle_riley_61ff1ffd:
 
     # u "Oh shit, are you okay?"
-    u "哦，天呐，你还好吗？"
+    u "噢，天呐，你还好吗？"
 
 # game/v12/scene15.rpy:410
 translate chinese v12_riddle_riley_0a344163:
@@ -388,7 +388,7 @@ translate chinese v12_riddle_riley_0061f725:
 translate chinese v12_riddle_riley_b126a3df:
 
     # ri "Oh yeah, Mr. Lee has an event planned for when we get back."
-    ri "哦，是的，李先生在我们回去的时候有一个活动计划。"
+    ri "噢，是的，李先生在我们回去的时候有一个活动计划。"
 
 # game/v12/scene15.rpy:468
 translate chinese v12_riddle_riley_1fabb2fe:

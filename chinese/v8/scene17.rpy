@@ -40,7 +40,7 @@ translate chinese phn_penelope6_done_d3f66e85:
 translate chinese phn_penelope6_done_0d8533cf:
 
     # ch "Listen, Ms. Rose is in trouble and needs our help. Some of us are heading over to help her move out of her house. You in?"
-    ch "听着，罗斯老师有麻烦了，需要我们的帮助。我们中的一些人正过去帮她搬出她的房子。你要加入吗？"
+    ch "听着，罗斯女士有麻烦了，需要我们的帮助。我们中的一些人正过去帮她搬家。你要加入吗？"
 
 # game/v8/scene17.rpy:58
 translate chinese phn_penelope6_done_52472f3f:
@@ -58,7 +58,7 @@ translate chinese phn_penelope6_done_fb80a3c9:
 translate chinese phn_penelope6_done_503de2c6:
 
     # ch "She's having some trouble with her old man. I don't know all the details..."
-    ch "她和她丈夫有点麻烦。我不知道所有的细节……"
+    ch "她和她丈夫有点麻烦。但我不知道所有的细节……"
 
 # game/v8/scene17.rpy:67
 translate chinese phn_penelope6_done_267776dd:
@@ -124,7 +124,7 @@ translate chinese phn_penelope6_done_9a4b295e:
 translate chinese phn_penelope6_done_313cc6e6:
 
     # u "Are you alright, Ms. Rose?"
-    u "你没事吧，罗斯老师？"
+    u "你没事吧，罗斯女士？"
 
 # game/v8/scene17.rpy:120
 translate chinese phn_penelope6_done_0b46e452:
@@ -208,7 +208,7 @@ translate chinese phn_penelope6_done_4abab1f7:
 translate chinese phn_penelope6_done_6aa8a1b9:
 
     # u "It won't be long Ms. Rose. We brought our best Wolves."
-    u "不会太久的，罗斯女士。我们带来了我们最好的狼。"
+    u "不会太久的，罗斯女士。我们带来了我们最好的狼人。"
 
 # game/v8/scene17.rpy:183
 translate chinese phn_penelope6_done_df98a8b9:
@@ -376,7 +376,7 @@ translate chinese phn_penelope6_done_e2d5fe3e:
 translate chinese phn_penelope6_done_bb34d75a:
 
     # la "Hey [name], you wanna meet up? I've had enough Econ assignments for the day."
-    la "嘿，[name],，你想见个面吗？我今天已经做了够多的经济学作业了。"
+    la "嘿，[name]，你想见个面吗？我今天已经做了够多的经济学作业了。"
 
 # game/v8/scene17.rpy:295
 translate chinese phn_penelope6_done_48b2624a:
@@ -508,7 +508,7 @@ translate chinese strings:
 
     # game/v8/scene17.rpy:12
     old "Thank you! :)"
-    new "谢谢你！ :)"
+    new "谢谢你！：)"
 
     # game/v8/scene17.rpy:150
     old "Stay to console her"

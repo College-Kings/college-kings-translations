@@ -58,7 +58,7 @@ translate chinese v13s57_98bfe9dd:
 translate chinese v13s57_825822c6:
 
     # ro "Oh, wow... You guys didn't have to do this! But thank you..."
-    ro "哦，哇……你们没必要这么做！但是谢谢你们……"
+    ro "噢，哇……你们没必要这么做！但是谢谢你们……"
 
 # game/v13/scene57.rpy:80
 translate chinese v13s57_07d6dfda:
@@ -154,7 +154,7 @@ translate chinese v13s57_3ebbc330:
 translate chinese v13s57_305f9f37:
 
     # no "Oh, okay. Well... Have fun."
-    no "哦，好的。嗯……玩得开心。"
+    no "噢，好的。嗯……玩得开心。"
 
 # game/v13/scene57.rpy:162
 translate chinese v13s57_d3497820:

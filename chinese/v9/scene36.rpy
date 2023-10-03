@@ -22,7 +22,7 @@ translate chinese v9_run_w_imre_2daa8e2d:
 translate chinese v9_run_w_imre_04367cc7:
 
     # imre "Yeah, just thinking about the brawl."
-    imre "是啊，只是在想比赛的事。"
+    imre "是的，只是在想比赛的事。"
 
 # game/v9/scene36.rpy:47
 translate chinese v9_run_w_imre_3c8a783c:
@@ -64,7 +64,7 @@ translate chinese v9_run_w_imre_73a2dace:
 translate chinese v9_run_w_imre_8aa1e63c:
 
     # imre "Sure it was. But I'm not worried about you. If I get the shit beat out of me my pussy getting days are over."
-    imre "当然是。但我不担心你。如果我被打得屁滚尿流，我就丧失优先择偶权了。"
+    imre "好吧。但我不担心你。但如果我被打得屁滚尿流的话，我就丧失优先择偶权了。"
 
 # game/v9/scene36.rpy:81
 translate chinese v9_run_w_imre_0f044105:
@@ -76,13 +76,13 @@ translate chinese v9_run_w_imre_0f044105:
 translate chinese v9_run_w_imre_265be1cb:
 
     # imre "Easier said than done bro, easier said than done."
-    imre "说起来容易做起来难兄弟，说起来容易做起来难。"
+    imre "说起来容易做起来难，兄弟，说起来容易做起来难……"
 
 # game/v9/scene36.rpy:91
 translate chinese v9_run_w_imre_9767622e:
 
     # u "(Oh shit, is that who I think it is?)"
-    u "(哦，妈的，这还是那个人吗？)"
+    u "(噢，该死的，这还是我认识的那个人吗？)"
 
 # game/v9/scene36.rpy:96
 translate chinese v9_run_w_imre_892195fa:
@@ -94,25 +94,25 @@ translate chinese v9_run_w_imre_892195fa:
 translate chinese v9_run_w_imre_f0800d72:
 
     # ry "Not in the mood for distractions today, so just leave me the fuck alone."
-    ry "今天没心情分心，所以你他妈的别烦我。"
+    ry "我今天没心情和你打哈哈，所以别他妈地烦我。"
 
 # game/v9/scene36.rpy:106
 translate chinese v9_run_w_imre_9b50059e:
 
     # imre "Well [name], if I get to fight this piece of shit I got nothing to worry about."
-    imre "嗯，[name]，如果我能和这狗屎对决，那我就没什么好担心的了。"
+    imre "嗯，[name]，如果我能和这菜狗对决，那我就没什么好担心的了。"
 
 # game/v9/scene36.rpy:111
 translate chinese v9_run_w_imre_3a3bb105:
 
     # ry "Watch your fucking mouth bro! I don't need a reason to whoop your ass. I'm not in the mood!"
-    ry "嘴下留德，兄弟！我不需要理由踢你的屁股。我没心情！"
+    ry "嘴下留德，兄弟！我不需要理由就能踢你的屁股。但我没心情！"
 
 # game/v9/scene36.rpy:116
 translate chinese v9_run_w_imre_6988c1b3:
 
     # imre "Well, you better get in the mood cause the minute I get a chance to put my hands on you it's gonna be lights out."
-    imre "你最好有个好心情因为我一有机会把手放在你身上，你就会歇菜。"
+    imre "你最好有个好心情，因为我一有机会把手放在你身上，你就歇菜了。"
 
 # game/v9/scene36.rpy:121
 translate chinese v9_run_w_imre_653423c5:
@@ -130,13 +130,13 @@ translate chinese v9_run_w_imre_ef3e7e2f:
 translate chinese v9_run_w_imre_8fc23b74:
 
     # u "Bro chill, we can't get caught fucking with him before the brawl. We'd get our asses chewed out!"
-    u "兄弟冷静，我们不能在比赛前被抓。我们会被揍得屁滚尿流！"
+    u "兄弟冷静，我们不能在比赛前惹事儿。不然我们会被揍得屁滚尿流的！"
 
 # game/v9/scene36.rpy:146
 translate chinese v9_run_w_imre_bbee20b0:
 
     # imre "Fuck! You're right, he just pisses me off. I hate the fucking Apes."
-    imre "操！你说得对，他只是惹毛我了。我讨厌那些该死的猿猴。"
+    imre "该死的！你说得对，他只是惹毛我了。我讨厌那些该死的猿人。"
 
 # game/v9/scene36.rpy:151
 translate chinese v9_run_w_imre_228058b6:
@@ -154,7 +154,7 @@ translate chinese v9_run_w_imre_9c17c938:
 translate chinese v9_run_w_imre_8e77ef1d:
 
     # imre "Not really man, I swear the Apes just always get to me."
-    imre "不是真的，我发誓猿类总是来找我。"
+    imre "不是真的，我发誓猿人总是来烦我。"
 
 # game/v9/scene36.rpy:171
 translate chinese v9_run_w_imre_bf0dfd45:
@@ -166,13 +166,13 @@ translate chinese v9_run_w_imre_bf0dfd45:
 translate chinese v9_run_w_imre_88eeaf49:
 
     # imre "Yeah I guess."
-    imre "是的，我想。"
+    imre "好吧，大概。"
 
 # game/v9/scene36.rpy:186
 translate chinese v9_run_w_imre_a5dd9279:
 
     # imre "Ahh, sorry bro. Gotta dip, duty calls!"
-    imre "啊，对不起，兄弟。得下潜了，任务到了！"
+    imre "啊，对不起，兄弟。得开溜了，职责所在！"
 
 # game/v9/scene36.rpy:191
 translate chinese v9_run_w_imre_4ddf9452:

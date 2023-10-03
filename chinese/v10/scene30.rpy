@@ -112,7 +112,7 @@ translate chinese v10_chloe_gym_cdb40013:
 translate chinese v10_chloe_gym_f0711688:
 
     # cl "Is playing me not enough?"
-    cl "玩我还不够吗？"
+    cl "玩儿我还不够吗？"
 
 # game/v10/scene30.rpy:129
 translate chinese v10_chloe_gym_edf9cdb5:
@@ -244,7 +244,7 @@ translate chinese v10s30_chloeBlowjob_bcc0c0dd:
 translate chinese v10s30_chloeBlowjob_77595f28:
 
     # u "This is... oh fuck."
-    u "这是……哦，他妈的。"
+    u "这真是……噢，该死的。"
 
 # game/v10/scene30.rpy:307
 translate chinese v10s30_chloeBlowjob_5077813d:

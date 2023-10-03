@@ -160,7 +160,7 @@ translate chinese strings:
 
     # game/v11/scene38.rpy:9
     old "Haha, thank you [name]"
-    new "哈哈，谢谢你，[name]"
+    new "哈哈，谢谢你，[name]。"
 
     # game/v11/scene38.rpy:10
     old "Fucking simp"
@@ -168,7 +168,7 @@ translate chinese strings:
 
     # game/v11/scene38.rpy:14
     old "You were busy somewhere else... ;)"
-    new "你在别的地方忙着…… ;)"
+    new "你在别的地方忙着……；)"
 
     # game/v11/scene38.rpy:18
     old "Living the London life"
@@ -176,11 +176,11 @@ translate chinese strings:
 
     # game/v11/scene38.rpy:19
     old "So that's where you've been this entire trip! Beautiful as always"
-    new "原来你这趟旅行就待在那儿!一如既往的美丽"
+    new "原来你这趟旅行就待在那儿！一如既往的美丽。"
 
     # game/v11/scene38.rpy:20
     old "Hotttt! We need a girls night soon ;)"
-    new "火辣！我们很快就需要一个女孩之夜 ;)"
+    new "性感！我们很快就需要一个女孩之夜；)"
 
     # game/v11/scene38.rpy:21
     old "Damn... looking good"
@@ -192,7 +192,7 @@ translate chinese strings:
 
     # game/v11/scene38.rpy:23
     old "Woah! Hot as always"
-    new "哇！一如既往的火辣"
+    new "哇！一如既往的性感"
 
     # game/v11/scene38.rpy:24
     old "Thanks for the invite... lol"

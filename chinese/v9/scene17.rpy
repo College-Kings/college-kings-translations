@@ -28,7 +28,7 @@ translate chinese v9_room_fri_morn_db7a4e2e:
 translate chinese v9_room_fri_morn_f92a2101:
 
     # u "(Ms. Rose, did she get a divorce? And what does she mean return the favor? Guess I'll find out soon.)"
-    u "(罗斯女士，她离婚了吗？她报答我是什么意思？我想我很快就会知道了。)"
+    u "(罗斯女士，她离婚了吗？她要报答我是什么意思？我想我很快就会知道了。)"
 
 # game/v9/scene17.rpy:55
 translate chinese s17_PhoneContinueW_8e7cf5c5:
@@ -46,7 +46,7 @@ translate chinese s17_PhoneContinueW_23ba1da1:
 translate chinese s17_PhoneContinueW_5cdddfcb:
 
     # gr "Wake up, [name], Apes aren't lazy assholes. Get up. Go be productive. Oh, and I'd avoid the toilet. Cameron backed it up again."
-    gr "醒醒，[name]，猿人不收废物。起来。去做个保持高效的人。哦，我会避开厕所。卡梅伦再次证实了这一点。"
+    gr "醒醒，[name]，猿人不收废物。起来。去做个保持高效的人。噢，我会避开厕所。卡梅伦再次证实了这一点。"
 
 # game/v9/scene17.rpy:71
 translate chinese s17_PhoneContinueW_19541c97:

@@ -4,7 +4,7 @@
 translate chinese v9_room_fri_eve_303d2d04:
 
     # u "(I wonder how much Mr. Lee expects us to remember from everyone else's Viking scenes. I was too busy looking at the costumes to pay attention.)"
-    u "(我想知道李老师希望我们能记住其他人的维京场景。我忙于看服装，没有注意。)"
+    u "(我想知道李先生希望我们能记住其他人的维京场景。我忙于看服装，没有注意。)"
 
 # game/v9/scene25.rpy:18
 translate chinese v9_room_fri_eve_5ef4f2a2:
@@ -16,7 +16,7 @@ translate chinese v9_room_fri_eve_5ef4f2a2:
 translate chinese v9_room_fri_eve_e5648356:
 
     # u "(Wonder how Lauren's doing with the Deers charity.)"
-    u "(不知道劳伦在鹿的慈善机构的事上做得怎么样了。)"
+    u "(不知道劳伦在鹿会慈善机构的事上做得怎么样了。)"
 
 # game/v9/scene25.rpy:37
 translate chinese s25_ContinueW_8e7cf5c5:
@@ -52,7 +52,7 @@ translate chinese s25_ContinueW_5ef4f2a2:
 translate chinese s25_ContinueW_e5648356:
 
     # u "(Wonder how Lauren's doing with the Deers charity.)"
-    u "(不知道劳伦在鹿的慈善机构的事上做得怎么样了。)"
+    u "(不知道劳伦在鹿会慈善机构的事上做得怎么样了。)"
 
 # game/v9/scene25.rpy:81
 translate chinese s25_ContinueA_8e7cf5c5:
@@ -92,7 +92,7 @@ translate chinese strings:
 
     # game/v9/scene25.rpy:30
     old "Don't mention it, talk soon?"
-    new "别客气，晚点再聊？"
+    new "别客气，晚点儿再聊？"
 
     # game/v9/scene25.rpy:31
     old "Sure!"

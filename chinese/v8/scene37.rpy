@@ -68,15 +68,15 @@ translate chinese strings:
 
     # game/v8/scene37.rpy:19
     old "Of course, that drink was just my cup of tea. :)"
-    new "当然，那饮料只是我的一杯茶。:)"
+    new "当然，那酒只是我的一杯茶。：)"
 
     # game/v8/scene37.rpy:20
     old "Oh haha, is that so? I think it at least poured a bit of courage in there."
-    new "哦哈哈，是这样吗？我想这至少给了我一点勇气。"
+    new "噢，哈哈，是这样吗？我想这至少给了我一点勇气。"
 
     # game/v8/scene37.rpy:21
     old "Don't flatter yourself, witty cowboy. :)"
-    new "别自以为是了，机智的牛仔。:)"
+    new "别自以为是了，机智的牛仔。：)"
 
     # game/v8/scene37.rpy:22
     old "You flatter me, ma'am."
@@ -88,7 +88,7 @@ translate chinese strings:
 
     # game/v8/scene37.rpy:24
     old "Kiss you*:)"
-    new "吻你*:)"
+    new "吻你*：)"
 
     # game/v8/scene37.rpy:28
     old "Hey there, could you help me with studying?"
@@ -96,7 +96,7 @@ translate chinese strings:
 
     # game/v8/scene37.rpy:29
     old "Umm, sure?"
-    new "嗯，当然？"
+    new "嗯，怎么了？"
 
     # game/v8/scene37.rpy:30
     old "I'm puzzled just as much as I was back on that bench..."
@@ -108,15 +108,15 @@ translate chinese strings:
 
     # game/v8/scene37.rpy:32
     old "Maybe?"
-    new "也许？"
+    new "也许吧？"
 
     # game/v8/scene37.rpy:33
     old "Seriously [name], I have things to do!"
-    new "说真的[[name]，有事情要做！"
+    new "说真的，[name]，我还有事情要做！"
 
     # game/v8/scene37.rpy:34
     old "Later then."
-    new "晚些时候。"
+    new "晚点儿再说。"
 
     # game/v8/scene37.rpy:44
     old "If your legs were lies, you could call me a liar. For I would be gladly spreading them."
@@ -124,7 +124,7 @@ translate chinese strings:
 
     # game/v8/scene37.rpy:45
     old "That was the most corny, idiotic joke I've ever heard, Mr. Liar. :)"
-    new "这是我听过的最老套，最白痴的笑话，骗子先生。 :)"
+    new "这是我听过的最老套，最白痴的笑话，骗子先生。：)"
 
     # game/v8/scene37.rpy:46
     old "Thinking of you makes it harder to study. And in some other places as well..."
@@ -132,11 +132,11 @@ translate chinese strings:
 
     # game/v8/scene37.rpy:47
     old "I'll be the judge of that. :)"
-    new "我来判断。 :)"
+    new "我来判断。：)"
 
     # game/v8/scene37.rpy:48
     old "Can't wait. :)"
-    new "等不及了。 :)"
+    new "等不及了。：)"
 
     # game/v8/scene37.rpy:51
     old "I have a serious question to ask you."

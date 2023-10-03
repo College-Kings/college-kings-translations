@@ -28,7 +28,7 @@ translate chinese v13s17a_df5207b5:
 translate chinese v13s17a_f0d1e845:
 
     # u "Oh, really? *Chuckles*"
-    u "哦，真的吗？ *咯咯笑* "
+    u "噢，真的吗？ *咯咯笑* "
 
 # game/v13/scene17a.rpy:47
 translate chinese v13s17a_5c750207:

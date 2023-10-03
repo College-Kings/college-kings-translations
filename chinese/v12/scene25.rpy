@@ -34,7 +34,7 @@ translate chinese v12_julia_call_119eba3a:
 translate chinese v12_julia_call_08ee4d1e:
 
     # ju "Ooo, so exciting! It's been years since I went to Paris. I'd do anything to go back."
-    ju "哦，太令人兴奋了！我已经好多年没去巴黎了。只要能回到过去，我愿意做任何事。"
+    ju "噢，太令人兴奋了！我已经好多年没去巴黎了。只要能回到过去，我愿意做任何事。"
 
 # game/v12/scene25.rpy:61
 translate chinese v12_julia_call_50b70d5c:
@@ -262,7 +262,7 @@ translate chinese v12_jc_lauren_e9a0bf4d:
 translate chinese v12_jc_lauren_7e44d993:
 
     # ju "Ooo, she may really like you."
-    ju "哦，她可能真的很喜欢你。"
+    ju "噢，她可能真的很喜欢你。"
 
 # game/v12/scene25.rpy:263
 translate chinese v12_jc_lauren_892c559d:

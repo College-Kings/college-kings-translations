@@ -22,7 +22,7 @@ translate chinese steak_w_chloe_b3bf8b00:
 translate chinese steak_w_chloe_f7179422:
 
     # u "You look delicious yourself."
-    u "你自己看起来也很好吃。"
+    u "你自己看起来也很诱人。"
 
 # game/v8/scene35.rpy:44
 translate chinese steak_w_chloe_647d0c2b:
@@ -34,13 +34,13 @@ translate chinese steak_w_chloe_647d0c2b:
 translate chinese steak_w_chloe_ef744036:
 
     # u "It sure does!"
-    u "当然有！"
+    u "当然！"
 
 # game/v8/scene35.rpy:52
 translate chinese steak_w_chloe_bb0fe35a:
 
     # cl "Two more minutes and I would have started without you."
-    cl "再多两分钟，没有你我就开始了。"
+    cl "再多两分钟，不等你我就开始了。"
 
 # game/v8/scene35.rpy:57
 translate chinese steak_w_chloe_e6304982:
@@ -52,7 +52,7 @@ translate chinese steak_w_chloe_e6304982:
 translate chinese steak_w_chloe_192c986d:
 
     # cl "Yeah, I smell this place every day on the way back to my room and I just had to give it a try."
-    cl "是啊，我每天在回房间的路上都闻到这个地方的味道，我只是想试一试。"
+    cl "是啊，我每天在回房间的路上都闻到这个地方的味道，我不得不试一试。"
 
 # game/v8/scene35.rpy:67
 translate chinese steak_w_chloe_489d30f1:
@@ -88,7 +88,7 @@ translate chinese steak_w_chloe_9dd57dff:
 translate chinese steak_w_chloe_63df5340:
 
     # u "What? You're definitely the best at certain things."
-    u "什么？你在某些事情上绝对是最好的。"
+    u "什么？你在某些方面绝对是最棒的。"
 
 # game/v8/scene35.rpy:98
 translate chinese steak_w_chloe_22afef28:
@@ -100,7 +100,7 @@ translate chinese steak_w_chloe_22afef28:
 translate chinese steak_w_chloe_4b1b55c1:
 
     # u "Not nearly enough, but I'm sure we can fix that."
-    u "并没有，但我相信我们能解决这个问题。"
+    u "并没有，但我相信我们能解决这个问题的。"
 
 # game/v8/scene35.rpy:108
 translate chinese steak_w_chloe_1ffa15ce:
@@ -148,7 +148,7 @@ translate chinese steak_flirt_w_chloe_a3ff9715:
 translate chinese steak_flirt_w_chloe_b0e1b2da:
 
     # u "Definitely the hottest one."
-    u "绝对是最火辣的一个。"
+    u "绝对是最性感的那个。"
 
 # game/v8/scene35.rpy:159
 translate chinese steak_flirt_w_chloe_132d1b6e:
@@ -160,7 +160,7 @@ translate chinese steak_flirt_w_chloe_132d1b6e:
 translate chinese steak_no_flirt_w_chloe_c8af0c79:
 
     # u "Good, because if this was a real date I'd be too nervous to eat."
-    u "很好，因为如果这是真的约会，我会紧张得吃不下饭。"
+    u "很好，因为如果这是真的约会，我会紧张得吃不下饭的。"
 
 # game/v8/scene35.rpy:169
 translate chinese steak_no_flirt_w_chloe_b5c5146b:
@@ -220,13 +220,13 @@ translate chinese steak_w_chloe_cont_8caebd33:
 translate chinese steak_w_chloe_cont_b87f9aa1:
 
     # cl "Most certainly not! Get your own. Haha."
-    cl "当然不是！自己拿。哈哈。"
+    cl "当然不！自己拿。哈哈。"
 
 # game/v8/scene35.rpy:222
 translate chinese steak_w_chloe_cont_41f8ae11:
 
     # u "Okay, then I'll do steak hibachi medium rare with extra steamed vegetables."
-    u "好吧，那我就做半熟的木槿牛排，外加蒸蔬菜。"
+    u "好吧，那我就要份五分熟的木槿牛排，外加蒸蔬菜。"
 
 # game/v8/scene35.rpy:227
 translate chinese steak_w_chloe_cont_24113f9f:
@@ -316,7 +316,7 @@ translate chinese steak_w_chloe_cont_2_bb92d525:
 translate chinese steak_w_chloe_cont_2_386da6d5:
 
     # u "Oh, God. You're insanely hot."
-    u "哦，天啊。你太性感了。"
+    u "噢，天呐。你太性感了。"
 
 # game/v8/scene35.rpy:326
 translate chinese steak_w_chloe_cont_2_77efd572:
@@ -346,13 +346,13 @@ translate chinese steak_w_chloe_cont_2_d86e47b3:
 translate chinese steak_w_chloe_cont_2_1a993788:
 
     # u "(Oh, God that's hot)"
-    u "(哦，天哪，太性感了)"
+    u "(噢，天呐，太性感了。)"
 
 # game/v8/scene35.rpy:356
 translate chinese steak_w_chloe_cont_2_340ef3f5:
 
     # cl "Delicious!"
-    cl "好吃！"
+    cl "真好吃！"
 
 # game/v8/scene35.rpy:361
 translate chinese steak_w_chloe_cont_2_42341b66:
@@ -394,7 +394,7 @@ translate chinese steak_w_chloe_cont_2_ca94c629:
 translate chinese steak_w_chloe_cont_2_272d869b:
 
     # u "Oh... you mean... Nooo."
-    u "哦……你是说……不。"
+    u "噢……你是说……不。"
 
 # game/v8/scene35.rpy:402
 translate chinese steak_w_chloe_cont_2_c5034cfe:
@@ -418,7 +418,7 @@ translate chinese steak_w_chloe_cont_2_10371bca:
 translate chinese steak_w_chloe_cont_2_17624bdb:
 
     # u "Yeah! If I was a knight, I'd slay a hundred dragons to get to you."
-    u "是的! 如果我是骑士，我会杀一百条龙来找到你。"
+    u "是的！如果我是骑士，我会杀一百条龙来找到你。"
 
 # game/v8/scene35.rpy:422
 translate chinese steak_w_chloe_cont_2_612e30e9:
@@ -436,13 +436,13 @@ translate chinese steak_w_chloe_cont_2_db30d7b8:
 translate chinese steak_w_chloe_cont_2_88bda9b2:
 
     # cl "Oh... I'm stuffed."
-    cl "哦……我吃饱了。"
+    cl "噢……我吃饱了。"
 
 # game/v8/scene35.rpy:446
 translate chinese steak_w_chloe_cont_2_57b05cf5:
 
     # u "Yeah, I was so hungry, I think I ordered too much."
-    u "好吧，我太饿了，我想我点的太多了。"
+    u "好吧，我太饿了，我想我点得太多了。"
 
 # game/v8/scene35.rpy:451
 translate chinese steak_w_chloe_cont_2_e673739e:
@@ -586,13 +586,13 @@ translate chinese steak_w_chloe_cont_3_e0c92d91:
 translate chinese steak_w_chloe_cont_3_ee20584d:
 
     # u "(Oh God)"
-    u "(天啊)"
+    u "(天呐！)"
 
 # game/v8/scene35.rpy:588
 translate chinese steak_w_chloe_cont_3_c0ad831f:
 
     # cl "I'll text you next time I'm craving sushi."
-    cl "下次我想吃寿司的时候给你发短信。"
+    cl "下次我想吃寿司的时候就给你发短信。"
 
 # game/v8/scene35.rpy:593
 translate chinese steak_w_chloe_cont_3_6015dc54:

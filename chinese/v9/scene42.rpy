@@ -4,13 +4,13 @@
 translate chinese v9_at_warehouse_7830199a:
 
     # u "Shit, Sebastian, was that really necessary?"
-    u "妈的，塞巴斯蒂安，那真的有必要吗？"
+    u "该死的，塞巴斯蒂安，那真的有必要吗？"
 
 # game/v9/scene42.rpy:27
 translate chinese v9_at_warehouse_c7d3989d:
 
     # se "You tell me."
-    se "你告诉我。"
+    se "你说呢。"
 
 # game/v9/scene42.rpy:32
 translate chinese v9_at_warehouse_b3537043:
@@ -40,13 +40,13 @@ translate chinese v9_at_warehouse_f60ed12b:
 translate chinese v9_at_warehouse_6865f65f:
 
     # guyd "Holy shit, guys. This is major!"
-    guyd "天哪，伙计们。我是少校！"
+    guyd "天呐，伙计们。这真振奋人心！"
 
 # game/v9/scene42.rpy:57
 translate chinese v9_at_warehouse_809c58da:
 
     # imre "Yeah, I wasn't expecting all this."
-    imre "是啊，我没想到这一切。"
+    imre "是的，我没想到这一切。"
 
 # game/v9/scene42.rpy:62
 translate chinese v9_at_warehouse_e003491e:
@@ -58,7 +58,7 @@ translate chinese v9_at_warehouse_e003491e:
 translate chinese v9_at_warehouse_9c63790b:
 
     # se "Wolves do things right. This took a lot of work. But it's gonna be worth it when you guys wipe the floor with those Apes."
-    se "狼做事是对的。这花了很多功夫。但当你们和那些猿猴一起扭打的时候就值得了。"
+    se "狼人只做对的事。这花了很多功夫。但当你们和那些猿人扭打在一起的时候就值得了。"
 
 # game/v9/scene42.rpy:72
 translate chinese v9_at_warehouse_8358bff1:
@@ -88,7 +88,7 @@ translate chinese v9_at_warehouse_4a5bd33f:
 translate chinese v9_at_warehouse_ca1ee4d4:
 
     # u "(Sebastian lost? Shit. I don't stand a chance.)"
-    u "(塞巴斯蒂安输了？妈的。我没机会了。)"
+    u "(塞巴斯蒂安输了？糟了。我没机会了。)"
 
 # game/v9/scene42.rpy:94
 translate chinese v9_at_warehouse_370d85c1:
@@ -112,7 +112,7 @@ translate chinese v9_at_warehouse_33bfef3f:
 translate chinese v9_at_warehouse_9d291376:
 
     # se "I WAS WINNING!"
-    se "我赢了！"
+    se "我会赢的！"
 
 # game/v9/scene42.rpy:114
 translate chinese v9_at_warehouse_4ffc3155:
@@ -124,13 +124,13 @@ translate chinese v9_at_warehouse_4ffc3155:
 translate chinese v9_at_warehouse_2d02c5d4:
 
     # u "*Whispers* Hey, Im, if I draw Ryan first, want me to warm him up for you?"
-    u "*耳语* 嘿，伊姆雷，如果我打瑞恩，要我帮你热身吗？"
+    u "*耳语* 嘿，伊姆雷，如果我打瑞恩，要我帮你教训他吗？"
 
 # game/v9/scene42.rpy:128
 translate chinese v9_at_warehouse_55f235b8:
 
     # imre "Fuck no! I want you to hand him over."
-    imre "他妈的不！我要你把他交出来。"
+    imre "他妈的不！我要跟你换过来。"
 
 # game/v9/scene42.rpy:131
 translate chinese v9_at_warehouse_6b2f0979:
@@ -148,19 +148,19 @@ translate chinese v9_at_warehouse_92632841:
 translate chinese v9_at_warehouse_8e5fad89:
 
     # u "(I have a reputation to uphold.)"
-    u "(我有名誉要维护。)"
+    u "(老子以后还要在这带混呢。)"
 
 # game/v9/scene42.rpy:148
 translate chinese v9_at_warehouse_81978c28:
 
     # u "(Oh, God what if they boo me when I get in the ring?)"
-    u "(哦，天呐，如果我上拳台时他们嘘我怎么办？)"
+    u "(噢，天呐，如果我上拳台时他们嘘我怎么办？)"
 
 # game/v9/scene42.rpy:189
 translate chinese v9_at_warehouse_317aceca:
 
     # ch "They're gonna fight dirty. But you can't stoop to their level."
-    ch "他们会打得很脏。但你不能屈从到他们的水平。"
+    ch "他们会打得很脏。但你们不能与他们同流合污。"
 
 # game/v9/scene42.rpy:194
 translate chinese v9_at_warehouse_b2acaa07:
@@ -184,37 +184,37 @@ translate chinese v9_at_warehouse_27043e88:
 translate chinese v9_at_warehouse_65705f0f:
 
     # u "Sorry man."
-    u "对不起，伙计。"
+    u "抱歉，伙计。"
 
 # game/v9/scene42.rpy:212
 translate chinese v9_at_warehouse_7ec833de:
 
     # u "Ryan started some shit earlier and I had to pull Imre off of him."
-    u "瑞恩之前惹了些麻烦我不得不把伊姆雷拉开。"
+    u "瑞恩之前惹了些麻烦，我不得不把伊姆雷拉开。"
 
 # game/v9/scene42.rpy:217
 translate chinese v9_at_warehouse_681ba191:
 
     # ch "Ah, told ya man, fighting dirty. But that's fine. He started shit, you finish it in the ring. That goes for all of you."
-    ch "我告诉过你，要不择手段。不过没关系。他挑起事端，你在拳台上了结。这对你们所有人都适用。"
+    ch "啊，我告诉过你的，肮脏的手段。不过没关系。他先挑起事端，但你得在擂台上了结。这对你们所有人都适用。"
 
 # game/v9/scene42.rpy:226
 translate chinese v9_at_warehouse_3e8347ca:
 
     # u "(Not my place.)"
-    u "(不是我的地盘。)"
+    u "(事不关己。)"
 
 # game/v9/scene42.rpy:231
 translate chinese v9_at_warehouse_400a3961:
 
     # ch "Fine. Let's just keep it clean 'til we're in the ring."
-    ch "好吧。让我们保持干净直到我们进入拳击台。"
+    ch "好吧。让我们保持冷静直到我们登上擂台。"
 
 # game/v9/scene42.rpy:233
 translate chinese v9_at_warehouse_ed40fcb8:
 
     # ch "Okay, guys. Go check out the place, chill for a bit. Get familiar with the setup. And let's meet up five minutes before first bell. I'm rooting for you."
-    ch "好了，伙计们。去看看这个地方，冷静一下。熟悉环境。我们在第一声响前五分钟见面。我支持你们。"
+    ch "好了，伙计们。去看看这个地方，冷静一下。熟悉环境。我们在第一声响前五分钟集合。我支持你们。"
 
 # game/v9/scene42.rpy:253
 translate chinese v9_at_warehouse_f89bebe5:
@@ -304,7 +304,7 @@ translate chinese v9_at_warehouse_648d380f:
 translate chinese v9_at_warehouse_35acd71f:
 
     # gr "You're Apes now! And with great honor comes great responsibility."
-    gr "你们现在是猿猴了！伴随着巨大的荣誉而来的是巨大的责任。"
+    gr "你们现在是猿人了！伴随着巨大的荣誉而来的是巨大的责任。"
 
 # game/v9/scene42.rpy:343
 translate chinese v9_at_warehouse_0cd0597d:
@@ -316,7 +316,7 @@ translate chinese v9_at_warehouse_0cd0597d:
 translate chinese v9_at_warehouse_991e9978:
 
     # gr "Cam! I told you to chill. Wait."
-    gr "卡梅隆! 我告诉过你冷静点。等等。"
+    gr "卡梅隆！我告诉过你冷静点。等等。"
 
 # game/v9/scene42.rpy:353
 translate chinese v9_at_warehouse_833b402c:
@@ -358,7 +358,7 @@ translate chinese v9_at_warehouse_2fd93952:
 translate chinese v9_at_warehouse_38612e47:
 
     # ca "Yeah... forget that shit. Listen, you gotta pound those pups into the ground. You hear me?"
-    ca "是得……忘了那些屁事儿吧。听着，你得把那些小狗打倒在地。你听到了吗？"
+    ca "是的……忘了那些屁事儿吧。听着，你们得把那些小奶狗打倒在地。你们听到了吗？"
 
 # game/v9/scene42.rpy:387
 translate chinese v9_at_warehouse_05a7aabd:
@@ -382,13 +382,13 @@ translate chinese v9_at_warehouse_e48abf28:
 translate chinese v9_at_warehouse_fb32b427:
 
     # cal "They'll wish they never even pledged in the first place!"
-    cal "他们会后悔当初没在第一次做过宣誓！"
+    cal "他们会后悔当初没在第一次做对的宣誓！"
 
 # game/v9/scene42.rpy:408
 translate chinese v9_at_warehouse_847f313b:
 
     # ca "Come out swinging and leave nothing to chance. Fuck their shit up!"
-    ca "出来摇摆，不要留下任何机会。去他们的！"
+    ca "灵活攻击，不要留下任何机会。把他们打出屎！"
 
 # game/v9/scene42.rpy:411
 translate chinese v9_at_warehouse_2750ce43:
@@ -424,37 +424,37 @@ translate chinese v9_at_warehouse_8574e584:
 translate chinese v9_at_warehouse_38baaa66:
 
     # ca "Apes don't fail and failures can't be Apes. Am I clear?"
-    ca "猿不会失败，失败不再是猿。我说清楚了吗？"
+    ca "黄沙百战穿金甲，不破楼兰终不还。明白了吗？"
 
 # game/v9/scene42.rpy:441
 translate chinese v9_at_warehouse_9acb7c8a:
 
     # u "(Shit, really?)"
-    u "(妈的，真的吗？)"
+    u "(天呐，真的吗？)"
 
 # game/v9/scene42.rpy:446
 translate chinese v9_at_warehouse_8e539eac:
 
     # ca "Am I clear?!"
-    ca "我说清楚了吗？！"
+    ca "明白了吗？！"
 
 # game/v9/scene42.rpy:451
 translate chinese v9_at_warehouse_ee020e28:
 
     # u "Yes!"
-    u "是的！"
+    u "明白！"
 
 # game/v9/scene42.rpy:453
 translate chinese v9_at_warehouse_a0e1807a:
 
     # ry "Yes!"
-    ry "是的！"
+    ry "明白！"
 
 # game/v9/scene42.rpy:455
 translate chinese v9_at_warehouse_5f28ec67:
 
     # cal "Yes!"
-    cal "是的！"
+    cal "明白！"
 
 # game/v9/scene42.rpy:460
 translate chinese v9_at_warehouse_9b57b25e:
@@ -466,7 +466,7 @@ translate chinese strings:
 
     # game/v9/scene42.rpy:18
     old "Be upset"
-    new "心烦意乱"
+    new "沮丧"
 
     # game/v9/scene42.rpy:119
     old "Talk about Ryan"
@@ -482,7 +482,7 @@ translate chinese strings:
 
     # game/v9/scene42.rpy:397
     old "Get pumped"
-    new "获得抽奖"
+    new "给自己打气"
 
     # game/v9/scene42.rpy:397
     old "Ask Cameron what's up"

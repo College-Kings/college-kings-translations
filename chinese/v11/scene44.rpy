@@ -22,7 +22,7 @@ translate chinese v11_nora_lingerie_05166ac0:
 translate chinese v11_nora_lingerie_ea7c245c:
 
     # no "The way Amber got dragged out of there... You totally could've fooled us."
-    no "琥珀被拖出来的方式……你们差点就让我们行了。"
+    no "琥珀被拖出来的方式……你们差点就让我们刑了。"
 
 # game/v11/scene44.rpy:34
 translate chinese v11_nora_lingerie_cb344fc0:
@@ -358,7 +358,7 @@ translate chinese v11_nora_lingerie_0fc53264:
 translate chinese v11_nora_lingerie_f759017e:
 
     # u "Oh shit, yeah. *Chuckles* Guess we better run."
-    u "哦，见鬼，好吧。*咯咯笑*我想我们最好跑着回去。"
+    u "噢，见鬼，好吧。 *咯咯笑* 我想我们最好跑着回去。"
 
 # game/v11/scene44.rpy:362
 translate chinese v11_nora_lingerie_049cc3f0:

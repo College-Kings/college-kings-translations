@@ -106,7 +106,7 @@ translate chinese v11_dinner_with_lauren_391dc0eb:
 translate chinese v11_dinner_with_lauren_95dbd4b2:
 
     # u "Okay, yeah... *Chuckles* Maybe \"cornball\" was the wrong word but either way, I really respect him after seeing what he's been doing for us on this trip."
-    u "好的，是的…… *咯咯笑* 也许吧\"乡巴佬\"是个错误的词，但不管怎样，在看到他在这次旅行中为我们所做的一切后，我真的很尊敬他。"
+    u "好吧，是的…… *咯咯笑* 也许\"乡巴佬\"是个错误的词，但不管怎样，在看到他在这次旅行中为我们所做的一切后，我真的很尊敬他。"
 
 # game/v11/scene46.rpy:92
 translate chinese v11_dinner_with_lauren_28403400:
@@ -214,7 +214,7 @@ translate chinese v11_dinner_with_lauren_76410080:
 translate chinese v11_dinner_with_lauren_1b507994:
 
     # u "Oh. Well... As I've said before, it's up to you. I'm only ready if you're ready."
-    u "哦。嗯……就像我之前说的，这取决于你。你准备好了我才准备好。"
+    u "噢。嗯……就像我之前说的，这取决于你。你准备好了我才准备好。"
 
 # game/v11/scene46.rpy:181
 translate chinese v11_dinner_with_lauren_4d5fea48:
@@ -232,7 +232,7 @@ translate chinese v11_dinner_with_lauren_067cbc10:
 translate chinese v11_dinner_with_lauren_43c8e0c9:
 
     # la "Oh, don't worry about it. *Chuckles* It was more funny than rude."
-    la "哦，别担心。 *咯咯笑* 这与其说是粗鲁，不如说是有趣。"
+    la "噢，别担心。 *咯咯笑* 这与其说是粗鲁，不如说是有趣。"
 
 # game/v11/scene46.rpy:196
 translate chinese v11_dinner_with_lauren_7219be6f:
@@ -298,7 +298,7 @@ translate chinese v11_dinner_with_lauren_9e44027f:
 translate chinese v11_dinner_with_lauren_eb384335:
 
     # imre "Oh, really?"
-    imre "哦，真的吗？"
+    imre "噢，真的吗？"
 
 # game/v11/scene46.rpy:250
 translate chinese v11_dinner_with_lauren_81592ef3:
@@ -436,7 +436,7 @@ translate chinese v11_dinner_with_lauren_38f7f05e:
 translate chinese v11_dinner_with_lauren_6a556570:
 
     # u "Oh, finally! Looks like the food is coming out."
-    u "哦，终于来了！看起来大餐要来了。"
+    u "噢，终于来了！看起来大餐要来了。"
 
 # game/v11/scene46.rpy:391
 translate chinese v11_dinner_with_lauren_03cf9825:
@@ -454,7 +454,7 @@ translate chinese v11_dinner_with_lauren_7ef1bc0c:
 translate chinese v11_dinner_with_lauren_2787fde4:
 
     # imre "*Whisper* Have a nice dinner with Blue Ball Lauren? *Laughs*"
-    imre "*低语* 与蛋蛋劳伦共进晚餐愉快吗？ *笑*"
+    imre "*低语* 与怀春劳伦共进晚餐愉快吗？ *笑*"
 
 # game/v11/scene46.rpy:411
 translate chinese v11_dinner_with_lauren_8d402e41:

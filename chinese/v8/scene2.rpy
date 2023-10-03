@@ -4,7 +4,7 @@
 translate chinese v8_cl_start_38908185:
 
     # u "Holy fuck."
-    u "我操。"
+    u "上帝啊。"
 
 # game/v8/scene2.rpy:22
 translate chinese v8_cl_start_94b8b18f:
@@ -34,19 +34,19 @@ translate chinese v8_cl_start_6753a320:
 translate chinese v8_cl_start_b0b2c45c:
 
     # u "Like I have a choice? Look at you."
-    u "好像我有选择？看看你。"
+    u "好像我有选择似的？看看你。"
 
 # game/v8/scene2.rpy:71
 translate chinese v8_cl_start_ffe78772:
 
     # cl "Let's get rid of these. I want to taste your cum."
-    cl "让我们搞定这个。我想尝尝你的精液。"
+    cl "让我们拿走这些。我想尝尝你的精液。"
 
 # game/v8/scene2.rpy:75
 translate chinese v8_cl_start_c3f87c70:
 
     # cl "Oh wow."
-    cl "哇哦。"
+    cl "哇噢。"
 
 # game/v8/scene2.rpy:83
 translate chinese v8_cl_start_d7aff9c4:
@@ -94,7 +94,7 @@ translate chinese v8_cl_start_e1f35df2:
 translate chinese v8_cl_start_68e7fc7f:
 
     # u "Ahh... yeah! That's the spot."
-    u "啊...对！就是那地方。"
+    u "啊……对！就是那地方。"
 
 # game/v8/scene2.rpy:115
 translate chinese v8_cl_start_56c8424f:
@@ -184,7 +184,7 @@ translate chinese v8_cl_start_242645cd:
 translate chinese v8_cl_start_02c1f738:
 
     # cl "Oh yes!"
-    cl "哦，是的！"
+    cl "噢，是的！"
 
 # game/v8/scene2.rpy:170
 translate chinese v8_cl_start_f428807e:
@@ -202,13 +202,13 @@ translate chinese v8_cl_start_47b5f7bb:
 translate chinese v8_cl_start_72253b7d:
 
     # cl "Oh shit!"
-    cl "哦，天呐！"
+    cl "噢，天呐！"
 
 # game/v8/scene2.rpy:181
 translate chinese v8_cl_start_a4edd057:
 
     # u "(Oh, come on!)"
-    u "(哦，别这样！)"
+    u "(噢，别这样！)"
 
 # game/v8/scene2.rpy:182
 translate chinese v8_cl_start_c1c07a10:
@@ -280,7 +280,7 @@ translate chinese v8s2_nsfwSkipLabel1_c6918bb1:
 translate chinese v8s2_nsfwSkipLabel1_6680ff12:
 
     # u "(Damn, that came out of nowhere.)"
-    u "(该死，不知从哪里冒出来的。)"
+    u "(该死的，不知从哪里冒出来的。)"
 
 # game/v8/scene2.rpy:243
 translate chinese v8s2_nsfwSkipLabel1_ae64e706:
@@ -292,7 +292,7 @@ translate chinese v8s2_nsfwSkipLabel1_ae64e706:
 translate chinese v8s2_nsfwSkipLabel1_fdbce207:
 
     # u "Oh..."
-    u "哦……"
+    u "噢……"
 
 # game/v8/scene2.rpy:251
 translate chinese v8s2_nsfwSkipLabel1_eac01c19:
@@ -304,7 +304,7 @@ translate chinese v8s2_nsfwSkipLabel1_eac01c19:
 translate chinese v8s2_nsfwSkipLabel1_45d8b8be:
 
     # u "Oh yeah... uhm, of course. Go help your friend."
-    u "哦，好吧……嗯，当然。去帮你的朋友吧。"
+    u "噢，好吧……嗯，当然。去帮你的朋友吧。"
 
 # game/v8/scene2.rpy:259
 translate chinese v8s2_nsfwSkipLabel1_82fa3603:

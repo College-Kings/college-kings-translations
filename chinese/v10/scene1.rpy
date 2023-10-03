@@ -46,13 +46,13 @@ translate chinese v10start_9ac6850d:
 translate chinese v10start_8f23467c:
 
     # ca "Why the fuck would you wrestle him?! Go for a fucking punch if you mean it!"
-    ca "你他妈地为什么要和他摔跤？！如果你是认真的，那就他妈地给他一拳吧！"
+    ca "你他妈地为什么要和他摔跤？！如果你是认真的，那就给他妈地一拳吧！"
 
 # game/v10/scene1.rpy:62
 translate chinese v10start_ba2f2598:
 
     # se "Why the fuck would you wrestle him?! Go for a fucking punch if you mean it!"
-    se "你他妈地为什么要和他摔跤？！如果你是认真的，那就他妈地给他一拳吧！"
+    se "你他妈地为什么要和他摔跤？！如果你是认真的，那就给他妈地一拳吧！"
 
 # game/v10/scene1.rpy:70
 translate chinese v10start_84845ca2:

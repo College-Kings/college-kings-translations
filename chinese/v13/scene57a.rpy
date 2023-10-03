@@ -52,7 +52,7 @@ translate chinese v13s57a_715d2ae1:
 translate chinese v13s57a_af10761f:
 
     # u "What was with all the sir stuff? I've never heard you talk like that before. *Chuckles*"
-    u "那些先生的东西是怎么回事？我从来没听你这么说过。 *咯咯笑*"
+    u "那些先生的东西是怎么回事儿？我从来没听你这么说过。 *咯咯笑*"
 
 # game/v13/scene57a.rpy:93
 translate chinese v13s57a_73b51270:
@@ -94,7 +94,7 @@ translate chinese v13s57a_cb5d7655:
 translate chinese v13s57a_05d22163:
 
     # no "What's wrong, do you not like it? I can take it back and get you something else..."
-    no "怎么了，您不喜欢吗？我可以把它拿回去给您换点儿别的..。"
+    no "怎么了，您不喜欢吗？我可以把它拿回去给您换点儿别的……"
 
 # game/v13/scene57a.rpy:155
 translate chinese v13s57a_66c12ddf:
@@ -196,7 +196,7 @@ translate chinese v13s57a_1d147b85:
 translate chinese v13s57a_305f9f37:
 
     # no "Oh, okay. Well... Have fun."
-    no "哦，好的。嗯……玩得开心。"
+    no "噢，好的。嗯……玩得开心。"
 
 # game/v13/scene57a.rpy:242
 translate chinese v13s57a_53c33be7:

@@ -10,13 +10,13 @@ translate chinese v9_fri_training_w_wolves_74e4cb3b:
 translate chinese v9_fri_training_w_wolves_bbaa1453:
 
     # ch "Good. Just getting some of the guys together in the gym. Can you join us?"
-    ch "很好。只是让一些人在健身房聚聚。你能加入我们吗？"
+    ch "很好。只是让一些人在健身房聚聚。你要加入我们吗？"
 
 # game/v9/scene26.rpy:25
 translate chinese v9_fri_training_w_wolves_97a5b46a:
 
     # u "Yeah, sure. I'm not doing anything."
-    u "是啊，当然。我什么也没做。"
+    u "好的，当然。我也没事儿做。"
 
 # game/v9/scene26.rpy:30
 translate chinese v9_fri_training_w_wolves_09538e1a:
@@ -94,7 +94,7 @@ translate chinese v9_fri_training_w_wolves_568b21ab:
 translate chinese v9_fri_training_w_wolves_0b1f506b:
 
     # u "I think punching an Ape's thick skull is gonna be like hitting a wall."
-    u "我想打猿猴厚厚的头骨就像撞墙一样。"
+    u "我想打猿人厚厚的头骨就像撞墙一样。"
 
 # game/v9/scene26.rpy:116
 translate chinese v9_fri_training_w_wolves_0938aa62:
@@ -130,7 +130,7 @@ translate chinese v9_fri_training_w_wolves_974b060b:
 translate chinese v9_fri_training_w_wolves_26a30497:
 
     # ch "I wanna win this thing just as bad as the Apes wanna win, maybe more since Grayson's already got the title on his side."
-    ch "我和猿队一样想赢，也许更想赢，因为格雷森已经赢得冠军了。"
+    ch "我和猿人一样想赢，也许更想赢，因为格雷森已经赢得冠军了。"
 
 # game/v9/scene26.rpy:147
 translate chinese v9_fri_training_w_wolves_f5398ff2:
@@ -154,19 +154,19 @@ translate chinese v9_fri_training_w_wolves_7694dcbe:
 translate chinese v9_fri_training_w_wolves_1d674af8:
 
     # ch "I can't tell you if the Apes will be harder to beat than that guy, but they certainly won't be easier. The Apes have a proven track record in the ring."
-    ch "我不能告诉你们猿队是否会比那家伙更难打败，但肯定不会更容易。猿队在拳击场上的战绩已经被证实。"
+    ch "我不能告诉你们猿人是否会比那家伙更难打败，但肯定不会更容易。猿人在拳击场上的战绩已经被证实。"
 
 # game/v9/scene26.rpy:164
 translate chinese v9_fri_training_w_wolves_c5b8a219:
 
     # ch "But... now we have our champ here. I know for a fact those Apes are shitting their pants after that knockout."
-    ch "但是……现在我们的冠军来了。我知道那些人猿在被击倒后都吓得尿裤子了。"
+    ch "但是……现在我们的冠军来了。我知道那些猿人在被击倒后都吓得尿裤子了。"
 
 # game/v9/scene26.rpy:169
 translate chinese v9_fri_training_w_wolves_4c8977f8:
 
     # imre "As they should!"
-    imre "就像他们应该做的！"
+    imre "他们会的！"
 
 # game/v9/scene26.rpy:172
 translate chinese v9_fri_training_w_wolves_52279b78:
@@ -226,7 +226,7 @@ translate chinese v9_fri_training_w_wolves_ef885754:
 translate chinese v9_fri_training_w_wolves_fc346597:
 
     # ch "You're all Wolves now! And by the time we're done here, you're gonna show those Ape pledges what real fighting looks like."
-    ch "你们现在都是狼了！当我们结束的时候，你们要向那些猿类新人展示真正的战斗是什么样子的。"
+    ch "你们现在都是狼人了！当我们结束的时候，你们要向那些猿人菜鸟展示真正的战斗是什么样子的。"
 
 # game/v9/scene26.rpy:214
 translate chinese v9_fri_training_w_wolves_dee470f6:
@@ -268,7 +268,7 @@ translate chinese v9_fri_training_w_wolves_c5313db9:
 translate chinese v9_fri_training_w_wolves_52933f49:
 
     # ch "Imre, I want you over on the weight bench. Get those arms pumped!"
-    ch "姆雷，我要你坐在举重椅上。把胳膊打起来！"
+    ch "姆雷雷，我要你躺在举重椅上。把胳膊胎起来！"
 
 # game/v9/scene26.rpy:246
 translate chinese v9_fri_training_w_wolves_75bea383:
@@ -280,19 +280,19 @@ translate chinese v9_fri_training_w_wolves_75bea383:
 translate chinese v9_fri_training_w_wolves_2cd66ad9:
 
     # ch "Perry, hit the jump rope. Let's get that stamina up!"
-    ch "佩里，打跳绳。让我们振作起来！"
+    ch "佩里，打跳绳。让我们动起来！"
 
 # game/v9/scene26.rpy:253
 translate chinese v9_fri_training_w_wolves_4815e429:
 
     # ch "And [name], I want you on the punching bag."
-    ch "然后[name]，你要在出气筒旁。"
+    ch "然后[name]，你要你站在沙袋旁。"
 
 # game/v9/scene26.rpy:269
 translate chinese v9_fri_training_w_wolves_84ee892b:
 
     # ch "We're counting on you to bring that magic tomorrow, but chances are you won't get a KO right out of the corner."
-    ch "我们希望你明天能带来魔法，而不是在拐角处被KO。"
+    ch "我们希望你明天能获得魔法，而不是在拐角处被KO。"
 
 # game/v9/scene26.rpy:278
 translate chinese v9_fri_training_w_wolves_a9df7db4:
@@ -454,7 +454,7 @@ translate chinese v9_fri_training_w_wolves_1d292775:
 translate chinese v9_fri_training_w_wolves_d4741aeb:
 
     # ch "No! Not now! Tomorrow. When the fight starts and you have an Ape charging at you, step back."
-    ch "不！现在不行！明天。当战斗开始，你有一只猿猴向你冲来时，后退。"
+    ch "不！现在不行！明天。当战斗开始，你有一只猿人向你冲来时，后退。"
 
 # game/v9/scene26.rpy:408
 translate chinese v9_fri_training_w_wolves_43f1a630:

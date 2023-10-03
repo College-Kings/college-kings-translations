@@ -52,7 +52,7 @@ translate chinese v13s37_2f0b729c:
 translate chinese v13s37_f8388e93:
 
     # li "Oooh, okay! I may have to hang out at your house... *Laughs*"
-    li "哦，好吧！我可能得去你家逛逛了…… *笑* "
+    li "噢，好吧！我可能得去你家逛逛了…… *笑* "
 
 # game/v13/scene37.rpy:62
 translate chinese v13s37_980efcc7:
@@ -334,7 +334,7 @@ translate chinese v13s37_nora_173f2156:
 translate chinese v13s37_nora_7ceb7406:
 
     # u "(Oh wow, she... She does look to me.)"
-    u "(哦，哇，她……她确实看着我。)"
+    u "(噢，哇，她……她确实看着我。)"
 
 # game/v13/scene37.rpy:318
 translate chinese v13s37_nora_65e529e9:

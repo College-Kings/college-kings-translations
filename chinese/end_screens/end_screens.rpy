@@ -16,7 +16,7 @@ translate chinese strings:
 
     # game/end_screens/end_screens.rpy:69
     old "{b}OscarSix{/b} - Chief Technology Officer"
-    new "{b}OscarSix{/b} - 首席技术官"
+    new "{b}OscarSix{/b} - 首席工程师"
 
     # game/end_screens/end_screens.rpy:73
     old "{b}Condy{/b} - Senior Production Engineer"
@@ -132,7 +132,7 @@ translate chinese strings:
 
     # game/end_screens/end_screens.rpy:137
     old "{b}Ema9000{/b} - Human Resources Manager"
-    new "{b}Ema9000{/b} - 人力资源经理"
+    new "{b}Ema9000{/b} - 人事主管"
 
     # game/end_screens/end_screens.rpy:141
     old "{b}Mobi{/b} - Amendments Lead"
@@ -148,5 +148,5 @@ translate chinese strings:
 
     # game/end_screens/end_screens.rpy:153
     old "Special thanks to all the community members and players who have made this possible"
-    new "特别感谢所有社区成员和玩家们，他们使这一切成为可能"
+    new "特别感谢所有社区成员和玩家们，他们使得这一切成为可能。"
 

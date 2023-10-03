@@ -28,7 +28,7 @@ translate chinese v9_apes_pre_fight_b95d2744:
 translate chinese v9_apes_pre_fight_ada0b2b3:
 
     # gr "Time to go! Downstairs."
-    gr "该走了！楼下。"
+    gr "该走了！下楼。"
 
 # game/v9/scene41.rpy:56
 translate chinese v9_apes_pre_fight_6f80ed38:

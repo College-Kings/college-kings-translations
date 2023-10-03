@@ -304,7 +304,7 @@ translate chinese v12s1a_failed_timer_bd57b6e5:
 translate chinese v12s1a_failed_timer_055f2b18:
 
     # u "(Rhymes with \"bitch boy?\" Oh...) *Laughs* Charli?"
-    u "(和\"婊子男？\押韵？\"欧……)  *笑* 查理？"
+    u "(和\"婊子男？\"押韵？欧……)  *笑* 查理？"
 
 # game/v12/scene1a.rpy:363
 translate chinese v12s1a_failed_timer_cd02b8b6:
