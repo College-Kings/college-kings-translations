@@ -298,7 +298,7 @@ translate chinese v9_dinner_w_rose_3d56ad80:
 translate chinese v9_dinner_w_rose_caafb493:
 
     # finn "Oooh, dessert!"
-    finn "哦，甜点！"
+    finn "噢，甜点！"
 
 # game/v9/scene23.rpy:300
 translate chinese v9_dinner_w_rose_8aad783f:
@@ -394,7 +394,7 @@ translate chinese v9_dinner_w_rose_a6235dc6:
 translate chinese v9_dinner_w_rose_32dac2c1:
 
     # ch "OK, you convinced me. I'll have some dessert!"
-    ch "好吧，你说服了我。我来点甜点！"
+    ch "好吧，你说服了我。我来点儿甜点！"
 
 # game/v9/scene23.rpy:378
 translate chinese v9_dinner_w_rose_29e2429d:
@@ -424,7 +424,7 @@ translate chinese v9_dinner_w_rose_c1beece0:
 translate chinese v9_dinner_w_rose_409d6bbb:
 
     # ch "Whoa! You actually filled Finn up, Ms. Rose! I don't think that's ever happened!"
-    ch "哇哦！你真的把芬恩灌满了，罗斯女士！我不认为这发生过！"
+    ch "哇噢！你真的把芬恩灌满了，罗斯女士！我不认为这发生过！"
 
 # game/v9/scene23.rpy:403
 translate chinese v9_dinner_w_rose_4ed93385:
@@ -490,7 +490,7 @@ translate chinese v9_dinner_w_rose_a31b4951:
 translate chinese v9_dinner_w_rose_06f11a54:
 
     # ch "Oh, no! Well, at least you got an upgrade out of the deal. I wish we'd have stayed to help you setup, though."
-    ch "哦，不！好吧，至少你从交易中得到了升级。不过我希望我们能留下来帮你布置。"
+    ch "噢，不！好吧，至少你从交易中得到了升级。不过我希望我们能留下来帮你布置。"
 
 # game/v9/scene23.rpy:470
 translate chinese v9_dinner_w_rose_34b84b47:
@@ -544,7 +544,7 @@ translate chinese v9_dinner_w_rose_710b7d5c:
 translate chinese v9_dinner_w_rose_4e520c3f:
 
     # u "Aww, well you're welcome. You're such a great teacher... a great person. I just want to make sure you're OK."
-    u "哦，不客气。你真是个好老师……一个伟大的人。我只想确定你没事。"
+    u "噢，不客气。你真是个好老师……一个伟大的人。我只想确定你没事。"
 
 # game/v9/scene23.rpy:521
 translate chinese v9_dinner_w_rose_a1e0e1f6:

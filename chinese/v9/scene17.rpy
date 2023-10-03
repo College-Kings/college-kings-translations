@@ -46,7 +46,7 @@ translate chinese s17_PhoneContinueW_23ba1da1:
 translate chinese s17_PhoneContinueW_5cdddfcb:
 
     # gr "Wake up, [name], Apes aren't lazy assholes. Get up. Go be productive. Oh, and I'd avoid the toilet. Cameron backed it up again."
-    gr "醒醒，[name]，猿人不收废物。起来。去做个保持高效的人。哦，我会避开厕所。卡梅伦再次证实了这一点。"
+    gr "醒醒，[name]，猿人不收废物。起来。去做个保持高效的人。噢，我会避开厕所。卡梅伦再次证实了这一点。"
 
 # game/v9/scene17.rpy:71
 translate chinese s17_PhoneContinueW_19541c97:

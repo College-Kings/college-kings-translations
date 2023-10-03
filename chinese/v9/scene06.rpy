@@ -82,7 +82,7 @@ translate chinese drive_to_lake_36d6cad7:
 translate chinese drive_to_lake_aa406ab3:
 
     # ri "Oh that's easy! It's Aubrey's bikini."
-    ri "哦，那很容易！是奥布里的比基尼。"
+    ri "噢，那很容易！是奥布里的比基尼。"
 
 # game/v9/scene06.rpy:84
 translate chinese drive_to_lake_4b17622d:

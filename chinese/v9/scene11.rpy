@@ -4,7 +4,7 @@
 translate chinese v9_hc_demo_24689d7f:
 
     # pe "*Deep voice* Hark, good sir, it is I, your King. This is my bride, your Queen."
-    pe "*低沉的声音* 嘿，你好，先生，是孤，你们的国王。这是我的新娘，你们的王后。"
+    pe "*低沉的声音* 嘿，你好，先生，是孤，尔等的国王。这是孤的新娘，尔等的王后。"
 
 # game/v9/scene11.rpy:32
 translate chinese v9_hc_demo_49a7f6b9:
@@ -70,7 +70,7 @@ translate chinese v9_hc_demo_a70466b8:
 translate chinese v9_hc_demo_dcaa595d:
 
     # pe "Why yes, Sir [name], it is. Did well with my last pillage, did I not?"
-    pe "是的，[name]先生，孤上次洗劫做得很好，不是吗？"
+    pe "是的，[name]先生，孤上次的洗劫做得很好，不是吗？"
 
 # game/v9/scene11.rpy:114
 translate chinese v9_hc_demo_b6ef4624:
@@ -136,7 +136,7 @@ translate chinese v9_hc_demo_41bf3ace:
 translate chinese v9_hc_demo_06535cf8:
 
     # pe "Great news. We spent months cooped up in our cabin, it will be good to get my sword wet again."
-    pe "真是喜讯。孤与王后在小木屋里住了好几个月，孤的剑又要湿润了。"
+    pe "真是喜讯。孤与王后在小木屋里住了好几个月，孤的剑又要饮血了。"
 
 # game/v9/scene11.rpy:169
 translate chinese v9_hc_demo_2f6f2c32:
@@ -208,7 +208,7 @@ translate chinese v9_hc_demo_b57df1f0:
 translate chinese v9_hc_demo_8d4d761c:
 
     # pe "Yes, dear thing can't be away from me for long, can she?"
-    pe "是的，亲爱的美人儿不能离开我太久，对吧？"
+    pe "是的，亲爱的美人儿不能离开孤太久，对吧？"
 
 # game/v9/scene11.rpy:232
 translate chinese v9_hc_demo_c840e0f1:

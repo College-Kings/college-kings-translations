@@ -46,7 +46,7 @@ translate chinese thurs_aft_room_4bd2f8af:
 translate chinese thurs_aft_room_b92814ec:
 
     # u "(Well, fuck.)"
-    u "(好吧，操。)"
+    u "(好吧，该死的。)"
 
 # game/v9/scene13.rpy:53
 translate chinese thurs_aft_room_f5486e2e_1:
@@ -94,5 +94,5 @@ translate chinese thurs_aft_room_4bd2f8af_1:
 translate chinese thurs_aft_room_b92814ec_1:
 
     # u "(Well, fuck.)"
-    u "(好吧，操。）"
+    u "(好吧，该死的。）"
 
