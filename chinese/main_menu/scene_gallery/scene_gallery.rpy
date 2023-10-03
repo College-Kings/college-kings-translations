@@ -20,7 +20,7 @@ translate chinese strings:
 
     # game/main_menu/scene_gallery/scene_gallery.rpy:47
     old "Taking back Emily"
-    new "追回艾丽米"
+    new "追回艾米丽"
 
     # game/main_menu/scene_gallery/scene_gallery.rpy:48
     old "Fun with Aubrey"
