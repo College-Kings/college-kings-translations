@@ -46,13 +46,13 @@ translate chinese v5start_c319e66f:
 translate chinese v5start_30adda01:
 
     # no "Hey, it's none of my business, but... what did you guys talk about that made you wanna punch a wall after?"
-    no "嘿，这不关我的事，但是……你们说了什么让你想击打墙壁？"
+    no "嘿，这不关我的事，但是……你们都说了些什么让你想击打墙壁？"
 
 # game/v5/v5.rpy:100
 translate chinese v5start_7ff172e2:
 
     # u "*Drunk* My uhm, my friend, he- he said that Chloe did some shady shit in the past and I just had to find out the truth!"
-    u "*醉酒* 我的-嗯，我的一个朋友，他-他说克洛伊过去做了一些见不得人的事，我得问清楚什么回事儿！"
+    u "*醉酒* 我的-嗯，我的一个朋友，他-他说克洛伊过去做了一些见不得人的事，我得问清楚怎么回事儿！"
 
 # game/v5/v5.rpy:105
 translate chinese v5start_203a8419:
@@ -70,7 +70,7 @@ translate chinese v5start_ba31489a:
 translate chinese v5start_4dc2dc97:
 
     # no "Yeah, that sounds about right."
-    no "是的，听起来是那么回事儿。"
+    no "好吧，听起来是那么回事儿。"
 
 # game/v5/v5.rpy:120
 translate chinese v5start_ce9d80ae:
@@ -100,7 +100,7 @@ translate chinese v5start_3e1869e8:
 translate chinese v5start_f53fb841:
 
     # no "It's late, I really don't wanna get into it. But hey, let me know how your little love story ends."
-    no "很晚了，我真的不想谈这个。不过，告诉我你的小爱情故事是怎么结束的。"
+    no "很晚了，我真的不想谈这个。不过，告诉我你们的爱情小故事是怎么结束的。"
 
 # game/v5/v5.rpy:139
 translate chinese v5start_cdb2d7d3:
@@ -130,7 +130,7 @@ translate chinese v5start_c9a8b304:
 translate chinese v5start_a132ad83:
 
     # no "Alright, well let me know how your little love story ends."
-    no "好吧，让我知道你的小爱情故事是怎么结束的。"
+    no "好吧，让我知道你们的爱情小故事是怎么结束的。"
 
 # game/v5/v5.rpy:159
 translate chinese v5start_cdb2d7d3_1:
@@ -154,7 +154,7 @@ translate chinese v5start_04b2a395:
 translate chinese v5start_cc6f375e:
 
     # no "Alright, well let's hope you and our house don't get into another fight in the future."
-    no "好吧，希望你和我们的房子以后不会再吵架了。"
+    no "好吧，希望以后你和我们的房子不会再吵架了。"
 
 # game/v5/v5.rpy:180
 translate chinese v5start_0fba9dcb:
@@ -172,7 +172,7 @@ translate chinese ev_bd_7e2bb437:
 translate chinese ev_bd_5a88a05e:
 
     # u "(Oh man, I drank way too much last night...)"
-    u "(哦，天哪，我昨晚喝得太多了……)"
+    u "(噢，天呐，我昨晚喝得太多了……)"
 
 # game/v5/v5.rpy:206
 translate chinese ev_bd_7d193b2b:
@@ -262,7 +262,7 @@ translate chinese jorepb_ee48bd46:
 translate chinese jorepb_0ed764dd:
 
     # cl "Yeah, I get that."
-    cl "是啊，我明白了。"
+    cl "好的，我明白了。"
 
 # game/v5/v5.rpy:303
 translate chinese jorepb_6fab2291:
@@ -322,7 +322,7 @@ translate chinese jorepb_da5d6565:
 translate chinese jorepb_339940d9:
 
     # u "You're lying. Yeah sure, the hottest girl in school wants me, the freshman who got beaten up at his first college party."
-    u "你在撒谎。哦，当然，学校里最性感的女孩喜欢我，喜欢那个在第一次大学派对上被打的新生。"
+    u "你在撒谎。噢，当然，学校里最性感的女孩喜欢我，喜欢那个在第一次大学派对上被打的新生。"
 
 # game/v5/v5.rpy:371
 translate chinese jorepb_827ff41b:
@@ -334,7 +334,7 @@ translate chinese jorepb_827ff41b:
 translate chinese jorepb_17de23f6:
 
     # cl "[name], I don't care about the fighting, or any of that shit. What Grayson did to you was pathetic. I like you 'cause you were funny and kind and ... and you cared."
-    cl "[name]，我才不关心打斗什么的。格雷森对你的所作所为太可悲了。我喜欢你，因为你风趣善良，还有……你关心我。"
+    cl "[name]，我才不关心打斗什么的。格雷森对你的所作所为太可悲了。我喜欢你，因为你的风趣善良，还有……你关心我。"
 
 # game/v5/v5.rpy:381
 translate chinese jorepb_023c11e2:
@@ -364,7 +364,7 @@ translate chinese jorepb_a688755b:
 translate chinese jorepb_fd7e91c0:
 
     # cl "What have I ever done for you not to fucking trust me one bit?!"
-    cl "我做了什么让你一点都不相信我？！"
+    cl "我做了什么让你一点儿都不相信我？！"
 
 # game/v5/v5.rpy:403
 translate chinese jorepb_b5bccc9e:
@@ -484,13 +484,13 @@ translate chinese jorepb_8b940739:
 translate chinese jorepb_30adda01:
 
     # no "Hey, it's none of my business, but... what did you guys talk about that made you wanna punch a wall after?"
-    no "嘿，这不关我的事，但是……你们说了什么让你想打墙？"
+    no "嘿，这不关我的事儿，但是……你们说了什么让你想打墙壁？"
 
 # game/v5/v5.rpy:496
 translate chinese jorepb_d9ef0c47:
 
     # u "My uhm, my friend said that Chloe did some shady shit in the past and I just had to find out the truth."
-    u "我的朋友说克洛伊过去做了一些见不得人的事，我想弄清楚什么回事儿。"
+    u "我的朋友说克洛伊过去做了一些见不得人的事，我想弄清楚怎么回事儿。"
 
 # game/v5/v5.rpy:501
 translate chinese jorepb_203a8419:
@@ -508,7 +508,7 @@ translate chinese jorepb_67cf5e6e:
 translate chinese jorepb_4dc2dc97:
 
     # no "Yeah, that sounds about right."
-    no "是的，听起来是那么回事儿。"
+    no "好吧，听起来是那么回事儿。"
 
 # game/v5/v5.rpy:516
 translate chinese jorepb_0330cd59:
@@ -538,7 +538,7 @@ translate chinese jorepb_a88454dd:
 translate chinese jorepb_f53fb841:
 
     # no "It's late, I really don't wanna get into it. But hey, let me know how your little love story ends."
-    no "很晚了，我真的不想谈这个。不过，告诉我你的小爱情故事是怎么结束的。"
+    no "很晚了，我真的不想谈这个。不过，告诉我你们的爱情小故事是怎么结束的。"
 
 # game/v5/v5.rpy:535
 translate chinese jorepb_cdb2d7d3:
@@ -568,7 +568,7 @@ translate chinese jorepb_7ead0570:
 translate chinese jorepb_a132ad83:
 
     # no "Alright, well let me know how your little love story ends."
-    no "好吧，让我知道你的小爱情故事是怎么结束的。"
+    no "好吧，让我知道你们的爱情小故事是怎么结束的。"
 
 # game/v5/v5.rpy:555
 translate chinese jorepb_cdb2d7d3_1:
@@ -592,7 +592,7 @@ translate chinese jorepb_f57452fe:
 translate chinese jorepb_cc6f375e:
 
     # no "Alright, well let's hope you and our house don't get into another fight in the future."
-    no "好吧，希望你和我们的房子以后不要再吵架了。"
+    no "好吧，希望以后你和我们的房子不要再吵架了。"
 
 # game/v5/v5.rpy:576
 translate chinese jorepb_76c398ec:
@@ -604,7 +604,7 @@ translate chinese jorepb_76c398ec:
 translate chinese nnbd_7e2bb437:
 
     # u "(Way to mess things up with Chloe... great fucking job, [name].)"
-    u "(把克洛伊的事情搞砸了……真他妈地干得好，[name]。)"
+    u "(把克洛伊的事情搞砸了……真他妈的干得好，[name]。)"
 
 # game/v5/v5.rpy:603
 translate chinese nnbd_7d193b2b:
@@ -694,7 +694,7 @@ translate chinese continuez_98b5930c:
 translate chinese continuez_e0d74a98:
 
     # la "*Tsk* I feel like you saying you can't wait for us to finish hanging out isn't as romantic as you may think."
-    la "*啧啧* 我觉得你说你等不及我们一起出去玩并没有你想的那么浪漫。"
+    la "*啧啧* 我觉得你说你等不及我们一起出去玩儿并没有你想的那么浪漫。"
 
 # game/v5/v5.rpy:743
 translate chinese continuez_39a9a9b0:
@@ -784,7 +784,7 @@ translate chinese continuez_5ad03eed:
 translate chinese continuez_f190eaf9:
 
     # la "Yeah, of course."
-    la "是啊，当然。"
+    la "好吧，当然。"
 
 # game/v5/v5.rpy:809
 translate chinese continuez_7498febe:
@@ -1018,7 +1018,7 @@ translate chinese gokissb_942e4020_1:
 translate chinese gokissb_da98d599:
 
     # u "Yeah, I guess that's true."
-    u "是啊，我想那是真的。"
+    u "是的，我想那是真的。"
 
 # game/v5/v5.rpy:1056
 translate chinese gokissb_fb97281e:
@@ -1030,7 +1030,7 @@ translate chinese gokissb_fb97281e:
 translate chinese gokissb_fdbf6092:
 
     # u "What do you mean, test my character?"
-    u "你什么意思，考验我的性格？"
+    u "什么意思，考验我的性格？"
 
 # game/v5/v5.rpy:1066
 translate chinese gokissb_814bed1c:
@@ -1072,7 +1072,7 @@ translate chinese gokissb_e9e4a51b:
 translate chinese fa_ad_e5133ff6:
 
     # la "Okay, I want you to rest your head on the table and close your eyes."
-    la "好的，我要你把头靠在桌子上闭上眼睛。"
+    la "好的，我要你把头靠在桌子上然后闭上眼睛。"
 
 # game/v5/v5.rpy:1099
 translate chinese fa_ad_040c4976:
@@ -1084,7 +1084,7 @@ translate chinese fa_ad_040c4976:
 translate chinese fa_ad_a67df8d1:
 
     # la "Yeah. Come on, the personality test is only accurate if you participate."
-    la "是啊。得了吧，性格测试只有你参与才准确。"
+    la "是的。来吧，性格测试只有你身临其境才准确。"
 
 # game/v5/v5.rpy:1109
 translate chinese fa_ad_b8911521:
@@ -1120,7 +1120,7 @@ translate chinese continuetrolley_d2aab557:
 translate chinese continuetrolley_6c920b56:
 
     # u "Okay, yeah."
-    u "好得，有了。"
+    u "好的，有了。"
 
 # game/v5/v5.rpy:1142
 translate chinese continuetrolley_176d311c:
@@ -1150,13 +1150,13 @@ translate chinese continuetrolley_5db69547:
 translate chinese continuetrolley_a7c0fc3e:
 
     # la "Now, you could flick the lever in order for the train to switch to the left track. However, there's also a person scared for their life on that track."
-    la "现在，你可以轻弹操纵杆，让火车切换到左边的轨道上。然而，也有一个人为他们在这条赛道上的感到害怕。"
+    la "现在，你可以轻弹操纵杆，让火车切换到左边的轨道上。然而，也有一个人为他们在这条赛道上感到害怕。"
 
 # game/v5/v5.rpy:1162
 translate chinese continuetrolley_c5ad21f9:
 
     # la "Now it's up to you, will you actively decide to kill someone to save five people or will you stand by and see five times as many people die as needed?"
-    la "现在取决于你，你会主动决定杀死一个人来拯救五个人，还是会袖手旁观，看着五倍于需要的人死亡？"
+    la "现在取决于你，你会主动决定杀死一个人来拯救五个人，还是会袖手旁观，看着五倍的人死亡？"
 
 # game/v5/v5.rpy:1167
 translate chinese continuetrolley_6b879436:
@@ -1180,7 +1180,7 @@ translate chinese trolleyab_c441c6f8:
 translate chinese continueam_0aa37b28:
 
     # u "Jesus, that got pretty intense..."
-    u "天呐，这激烈的……"
+    u "天呐，这强烈的……"
 
 # game/v5/v5.rpy:1217
 translate chinese continueam_32671ba6:
@@ -1360,7 +1360,7 @@ translate chinese continuean_1f143709:
 translate chinese continuean_253af055:
 
     # u "Lauren, what the fuck?! How do you even know about Emily?"
-    u "劳伦，搞什么？！你怎么知道艾米丽的事？"
+    u "劳伦，搞什么？！你怎么知道艾米丽的事儿？"
 
 # game/v5/v5.rpy:1383
 translate chinese continuean_fc4109de:
@@ -1426,7 +1426,7 @@ translate chinese continueao_7cc710c6:
 translate chinese continueao_579f3000:
 
     # la "Oh, alright."
-    la "哦，好吧。"
+    la "噢，好吧。"
 
 # game/v5/v5.rpy:1477
 translate chinese continueao_eb1e8286:
@@ -1474,7 +1474,7 @@ translate chinese continueao_b0b652ff:
 translate chinese continueao_bbe88f90:
 
     # la "[name], I'm sorry, please."
-    la "[name]，对不起，求你了。"
+    la "[name]，对不起。"
 
 # game/v5/v5.rpy:1530
 translate chinese continueao_34bb646e:
@@ -1492,7 +1492,7 @@ translate chinese continueao_c3a92748:
 translate chinese continueao_caaf72fc:
 
     # la "Oh, okay, yeah."
-    la "哦，好吧，是的。"
+    la "噢，好吧，好的。"
 
 # game/v5/v5.rpy:1545
 translate chinese continueao_eb1e8286_1:
@@ -1540,7 +1540,7 @@ translate chinese skiptrolleya_7cc710c6:
 translate chinese skiptrolleya_579f3000:
 
     # la "Oh, alright."
-    la "哦，好吧。"
+    la "噢，好吧。"
 
 # game/v5/v5.rpy:1597
 translate chinese skiptrolleya_eb1e8286:
@@ -1780,7 +1780,7 @@ translate chinese apo_24b53218:
 translate chinese apo_2be5d203:
 
     # u "Yeah, of course."
-    u "是啊，当然。"
+    u "好吧，当然。"
 
 # game/v5/v5.rpy:1785
 translate chinese apo_712a38ff:
@@ -1816,7 +1816,7 @@ translate chinese apo_0a0dccb2:
 translate chinese apo_9064cdac:
 
     # u "Yeah, sure."
-    u "是啊，当然。"
+    u "好吧，当然。"
 
 # game/v5/v5.rpy:1817
 translate chinese apo_0fb46afe_1:
@@ -1894,7 +1894,7 @@ translate chinese apo_24b53218_1:
 translate chinese apo_2be5d203_1:
 
     # u "Yeah, of course."
-    u "是啊，当然。"
+    u "好吧，当然。"
 
 # game/v5/v5.rpy:1867
 translate chinese apo_712a38ff_1:
@@ -1930,7 +1930,7 @@ translate chinese apo_0a0dccb2_1:
 translate chinese apo_9064cdac_1:
 
     # u "Yeah, sure."
-    u "是啊，当然。"
+    u "好的，当然。"
 
 # game/v5/v5.rpy:1897
 translate chinese apo_6439e089_2:
@@ -1972,7 +1972,7 @@ translate chinese apo_a48a00f4:
 translate chinese apo_999eec7d:
 
     # u "Yeah, I'd love that."
-    u "是啊，我很乐意。"
+    u "是的，我很乐意。"
 
 # game/v5/v5.rpy:1928
 translate chinese apo_c6415055:
@@ -2014,7 +2014,7 @@ translate chinese apo_0a0dccb2_2:
 translate chinese apo_9064cdac_2:
 
     # u "Yeah, sure."
-    u "是啊，当然。"
+    u "是的，当然。"
 
 # game/v5/v5.rpy:1971
 translate chinese apo_19a37158_1:
@@ -2068,7 +2068,7 @@ translate chinese apo_0a0dccb2_3:
 translate chinese apo_9064cdac_3:
 
     # u "Yeah, sure."
-    u "是啊，当然。"
+    u "是的，当然。"
 
 # game/v5/v5.rpy:2018
 translate chinese apo_19a37158_2:
@@ -2134,7 +2134,7 @@ translate chinese apo_0a0dccb2_4:
 translate chinese apo_9064cdac_4:
 
     # u "Yeah, sure."
-    u "是啊，当然。"
+    u "是的，当然。"
 
 # game/v5/v5.rpy:2075
 translate chinese gokiss_b00ceeb6:
@@ -2350,7 +2350,7 @@ translate chinese hospitala_b56e3c55:
 translate chinese hospitala_390b10ff:
 
     # ri "Yeah, of course."
-    ri "是啊，必须的。"
+    ri "好了，不客气。"
 
 # game/v5/v5.rpy:2269
 translate chinese hospitala_f959f467:
@@ -2362,7 +2362,7 @@ translate chinese hospitala_f959f467:
 translate chinese hospitala_2ff9262d:
 
     # imre "Ah, yeah, shit. Still tryin' to recover."
-    imre "啊，是的，真糟糕。仍在努力恢复。"
+    imre "啊，好吧，真糟糕。仍在努力恢复。"
 
 # game/v5/v5.rpy:2279
 translate chinese hospitala_acb99ae3:
@@ -2374,7 +2374,7 @@ translate chinese hospitala_acb99ae3:
 translate chinese hospitala_048400eb:
 
     # imre "It's cool, just a couple of broken ribs."
-    imre "很酷，只是断了几根肋骨而已。"
+    imre "没事儿，只是断了几根肋骨而已。"
 
 # game/v5/v5.rpy:2289
 translate chinese hospitala_88a0b29c:
@@ -2386,7 +2386,7 @@ translate chinese hospitala_88a0b29c:
 translate chinese hospitala_aaff17b7:
 
     # imre "Yeah, me too."
-    imre "是啊，我也是。"
+    imre "是的，我也是。"
 
 # game/v5/v5.rpy:2299
 translate chinese hospitala_ff82a13e:
@@ -2482,7 +2482,7 @@ translate chinese hospitala_6fc18859:
 translate chinese hospitala_93f869b7:
 
     # u "Oh, sorry, I thought you were someone else."
-    u "哦，对不起，我以为你是别人。"
+    u "噢，对不起，我认错了人。"
 
 # game/v5/v5.rpy:2448
 translate chinese hospitala_d3621754:
@@ -2560,7 +2560,7 @@ translate chinese hospitala_144eef0d:
 translate chinese hospitala_ba953188:
 
     # imre "Don't fucking tell me when I can fight or not. I know myself. This is about me and him. I'll make him remember who he's fucking with."
-    imre "别他妈地告诉我什么时候我能打还是不能打。我了解我自己。这是我和他的事。我会让他知道他在跟谁作对。"
+    imre "别他妈的告诉我什么时候我能打还是不能打。我了解我自己。这是我和他的事。我会让他知道他在跟谁作对。"
 
 # game/v5/v5.rpy:2515
 translate chinese hospitala_609b11d6:
@@ -2650,7 +2650,7 @@ translate chinese hospitala_293e2f97:
 translate chinese hospitala_7d881c04:
 
     # au "Yeah. Why?"
-    au "是啊。为什么这么问？"
+    au "是的。为什么这么问？"
 
 # game/v5/v5.rpy:2619
 translate chinese hospitala_15abbbea:
@@ -3226,7 +3226,7 @@ translate chinese adamfinish_39689522:
 translate chinese adamfinish_2a0fbecd:
 
     # u "Really? You see me get beaten up and you still want me to join the Wolves, who's only requirement for joining is being good at fighting?"
-    u "真的吗？你看我被打了，还想让我加入狼队，我加入狼队的唯一要求就是打得好？"
+    u "真的吗？你看我被打了，还想让我加入狼人，我加入狼人的唯一要求就是打得好？"
 
 # game/v5/v5.rpy:3924
 translate chinese adamfinish_699d1d5a:
@@ -3730,7 +3730,7 @@ translate chinese strings:
 
     # game/v5/v5.rpy:5
     old "Oh really? How are you gonna do that?"
-    new "哦，真的吗？你打算怎么做？"
+    new "噢，真的吗？你打算怎么做？"
 
     # game/v5/v5.rpy:6
     old "I give some world-class massages"
@@ -3750,11 +3750,11 @@ translate chinese strings:
 
     # game/v5/v5.rpy:17
     old "Oh okay, hope everything's okay xx"
-    new "哦，好吧，希望一切都好 xx"
+    new "噢，好吧，希望一切都好 xx"
 
     # game/v5/v5.rpy:18
     old "Yeah, it's all good."
-    new "是啊，都很好。"
+    new "是的，都很好。"
 
     # game/v5/v5.rpy:23
     old "Oh wow, I was just checking. :P"
@@ -3778,7 +3778,7 @@ translate chinese strings:
 
     # game/v5/v5.rpy:35
     old "Oh okay, hope you're good xx"
-    new "哦，好吧，希望你是对的 xx"
+    new "噢，好吧，希望你是对的 xx"
 
     # game/v5/v5.rpy:36
     old "Yeah, no worries"
@@ -3786,7 +3786,7 @@ translate chinese strings:
 
     # game/v5/v5.rpy:41
     old "Oh shut up, I was just checking in"
-    new "哦，闭嘴，我只是来检查一下"
+    new "噢，闭嘴，我只是来检查一下"
 
     # game/v5/v5.rpy:42
     old "Don't worry, you'll see me again"
