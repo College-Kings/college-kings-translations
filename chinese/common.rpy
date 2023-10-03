@@ -4,15 +4,15 @@ translate chinese strings:
 
     # renpy/common/00accessibility.rpy:28
     old "Self-voicing disabled."
-    new "语音朗读模式已禁用。"
+    new "自发声模式已禁用。"
 
     # renpy/common/00accessibility.rpy:29
     old "Clipboard voicing enabled. "
-    new "剪贴板语音已启用。 "
+    new "剪贴板语音已启用。"
 
     # renpy/common/00accessibility.rpy:30
     old "Self-voicing enabled. "
-    new "语音朗读模式已启用。 "
+    new "自发声模式已启用。"
 
     # renpy/common/00accessibility.rpy:32
     old "bar"
@@ -92,7 +92,7 @@ translate chinese strings:
 
     # renpy/common/00accessibility.rpy:193
     old "Self-Voicing"
-    new "语音朗读"
+    new "自发声"
 
     # renpy/common/00accessibility.rpy:197
     old "Off"
@@ -112,7 +112,7 @@ translate chinese strings:
 
     # renpy/common/00accessibility.rpy:215
     old "Self-Voicing Volume Drop"
-    new "音乐音量组件"
+    new "自发声模式音乐音量控制条"
 
     # renpy/common/00accessibility.rpy:224
     old "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was."
@@ -316,7 +316,7 @@ translate chinese strings:
 
     # renpy/common/00action_file.rpy:852
     old "Previous file page."
-    new "上一页"
+    new "上一页。"
 
     # renpy/common/00action_file.rpy:913
     old "Quick save complete."
@@ -416,7 +416,7 @@ translate chinese strings:
 
     # renpy/common/00director.rpy:1748
     old "Behind:"
-    new "后面："
+    new "Behind:"
 
     # renpy/common/00director.rpy:1767
     old "Transition:"
@@ -456,11 +456,11 @@ translate chinese strings:
 
     # renpy/common/00gui.rpy:451
     old "Are you sure you want to end the replay?"
-    new "你确定要结束录像吗？"
+    new "您确定要结束录像吗？"
 
     # renpy/common/00gui.rpy:452
     old "Are you sure you want to begin skipping?"
-    new "你确定要开始跳过吗？"
+    new "您确定要开始跳过吗？"
 
     # renpy/common/00gui.rpy:453
     old "Are you sure you want to skip to the next choice?"
@@ -472,11 +472,11 @@ translate chinese strings:
 
     # renpy/common/00keymap.rpy:310
     old "Failed to save screenshot as %s."
-    new "保存截图为失败 %s。"
+    new "Failed to save screenshot as %s."
 
     # renpy/common/00keymap.rpy:322
     old "Saved screenshot as %s."
-    new "截图保存为 %s。"
+    new "Saved screenshot as %s."
 
     # renpy/common/00library.rpy:230
     old "Skip Mode"
@@ -572,11 +572,11 @@ translate chinese strings:
 
     # renpy/common/00preferences.rpy:398
     old "self voicing"
-    new "语音朗读"
+    new "自发声"
 
     # renpy/common/00preferences.rpy:407
     old "self voicing volume drop"
-    new "音乐音量组件"
+    new "self voicing volume drop"
 
     # renpy/common/00preferences.rpy:415
     old "clipboard voicing"
@@ -652,7 +652,7 @@ translate chinese strings:
 
     # renpy/common/00preferences.rpy:530
     old "voice volume"
-    new "语音朗读音量"
+    new "自发声音量"
 
     # renpy/common/00preferences.rpy:531
     old "mute main"
@@ -680,11 +680,11 @@ translate chinese strings:
 
     # renpy/common/00preferences.rpy:618
     old "Self-voicing would say \"[renpy.display.tts.last]\". Press 'alt+shift+V' to disable."
-    new "语音朗读如说到\"[renpy.display.tts.last]\"时。按'alt+shift+V'来禁用。"
+    new "自发声如说到\"[renpy.display.tts.last]\"时。按'alt+shift+V'来禁用。"
 
     # renpy/common/00preferences.rpy:620
     old "Self-voicing enabled. Press 'v' to disable."
-    new "语音朗读已启用。按'v'来禁用。"
+    new "自发声已启用。按'v'来禁用。"
 
     # renpy/common/_compat/gamemenu.rpym:198
     old "Empty Slot."
@@ -692,7 +692,7 @@ translate chinese strings:
 
     # renpy/common/_compat/gamemenu.rpym:355
     old "Previous"
-    new "上一布"
+    new "上一步"
 
     # renpy/common/_compat/gamemenu.rpym:362
     old "Next"
@@ -716,7 +716,7 @@ translate chinese strings:
 
     # renpy/common/_developer/developer.rpym:47
     old "Console (Shift+O)"
-    new "控制台 (Shift+O)"
+    new "Console (Shift+O)"
 
     # renpy/common/_developer/developer.rpym:49
     old "Variable Viewer"
@@ -740,7 +740,7 @@ translate chinese strings:
 
     # renpy/common/_developer/developer.rpym:63
     old "Image Attributes"
-    new "图像属性"
+    new "Image Attributes"
 
     # renpy/common/_developer/developer.rpym:90
     old "[name] [attributes] (hidden)"
@@ -768,11 +768,11 @@ translate chinese strings:
 
     # renpy/common/_developer/developer.rpym:443
     old "Rectangle: %r"
-    new "矩形：%r"
+    new "Rectangle: %r"
 
     # renpy/common/_developer/developer.rpym:448
     old "Mouse position: %r"
-    new "鼠标位置：%r"
+    new "Mouse position: %r"
 
     # renpy/common/_developer/developer.rpym:453
     old "Right-click or escape to quit."
@@ -780,23 +780,23 @@ translate chinese strings:
 
     # renpy/common/_developer/developer.rpym:485
     old "Rectangle copied to clipboard."
-    new "矩形已复制到剪切板"
+    new "Rectangle copied to clipboard."
 
     # renpy/common/_developer/developer.rpym:488
     old "Position copied to clipboard."
-    new "位置复制到剪贴板。"
+    new "Position copied to clipboard."
 
     # renpy/common/_developer/developer.rpym:506
     old "Type to filter: "
-    new "筛选类型："
+    new "Type to filter: "
 
     # renpy/common/_developer/developer.rpym:633
     old "Textures: [tex_count] ([tex_size_mb:.1f] MB)"
-    new "纹理：[tex_count] ([tex_size_mb:.1f] MB)"
+    new "Textures: [tex_count] ([tex_size_mb:.1f] MB)"
 
     # renpy/common/_developer/developer.rpym:637
     old "Image cache: [cache_pct:.1f]% ([cache_size_mb:.1f] MB)"
-    new "图像缓存：[cache_pct:.1f]% ([cache_size_mb:.1f] MB)"
+    new "Image cache: [cache_pct:.1f]% ([cache_size_mb:.1f] MB)"
 
     # renpy/common/_developer/developer.rpym:647
     old "✔ "
@@ -812,27 +812,27 @@ translate chinese strings:
 
     # renpy/common/_developer/inspector.rpym:38
     old "Displayable Inspector"
-    new "可显示检查器"
+    new "Displayable Inspector"
 
     # renpy/common/_developer/inspector.rpym:61
     old "Size"
-    new "尺寸"
+    new "Size"
 
     # renpy/common/_developer/inspector.rpym:65
     old "Style"
-    new "风格"
+    new "Style"
 
     # renpy/common/_developer/inspector.rpym:71
     old "Location"
-    new "定位"
+    new "Location"
 
     # renpy/common/_developer/inspector.rpym:122
     old "Inspecting Styles of [displayable_name!q]"
-    new "检查风格[displayable_name!q]"
+    new "Inspecting Styles of [displayable_name!q]"
 
     # renpy/common/_developer/inspector.rpym:139
     old "displayable:"
-    new "可显示的："
+    new "displayable:"
 
     # renpy/common/_developer/inspector.rpym:145
     old "        (no properties affect the displayable)"
@@ -864,7 +864,7 @@ translate chinese strings:
 
     # renpy/common/00updater.rpy:548
     old "An error is being simulated."
-    new "正在模拟错误。"
+    new "一个错误正在被模拟。"
 
     # renpy/common/00updater.rpy:738
     old "Either this project does not support updating, or the update status file was deleted."
@@ -1036,7 +1036,7 @@ translate chinese strings:
 
     # renpy/common/00gltest.rpy:191
     old "Tearing"
-    new "极好的"
+    new "极好"
 
     # renpy/common/00gltest.rpy:207
     old "Changes will take effect the next time this program is run."
@@ -1052,19 +1052,19 @@ translate chinese strings:
 
     # renpy/common/00gltest.rpy:249
     old "This game requires use of GL2 that can't be initialised."
-    new "此游戏需要使用的GL2无法初始化。"
+    new "This game requires use of GL2 that can't be initialised."
 
     # renpy/common/00gltest.rpy:251
     old "This computer has a problem displaying graphics: [problem]."
-    new "此计算机显示图形时出现问题：[problem]。"
+    new "This computer has a problem displaying graphics: [problem]."
 
     # renpy/common/00gltest.rpy:255
     old "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display."
-    new "图形驱动程序可能过时或不能正确加载。这可能导致缓慢或不正确的图形显示。"
+    new "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display."
 
     # renpy/common/00gltest.rpy:259
     old "The {a=edit:1:log.txt}log.txt{/a} file may contain information to help you determine what is wrong with your computer."
-    new "{a=edit:1:log.txt}log.txt{/a}文件可能包含的信息可以帮助您确定计算机出了什么问题。"
+    new "The {a=edit:1:log.txt}log.txt{/a} file may contain information to help you determine what is wrong with your computer."
 
     # renpy/common/00gltest.rpy:264
     old "More details on how to fix this can be found in the {a=[url]}documentation{/a}."
@@ -1140,7 +1140,7 @@ translate chinese strings:
 
     # renpy/common/_errorhandling.rpym:619
     old "Attempts a roll back to a prior time, allowing you to save or choose a different choice."
-    new "尝试回滚到以前的时间，允许您保存或选择不同的选项。"
+    new "尝试回退到以前的时间，允许您保存或选择不同的选项。"
 
     # renpy/common/_errorhandling.rpym:622
     old "Ignore"
