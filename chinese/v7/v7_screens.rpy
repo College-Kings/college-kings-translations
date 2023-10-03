@@ -36,7 +36,7 @@ translate chinese strings:
 
     # game/v7/v7_screens.rpy:14
     old "I don't think asking Emily is the right call."
-    new "我觉得问艾米莉不是个正确的决定。"
+    new "我觉得问艾米丽不是个正确的决定。"
 
     # game/v7/v7_screens.rpy:14
     old "I'm not sure Lauren sees me as more than a friend, but we have been getting closer."
@@ -64,7 +64,7 @@ translate chinese strings:
 
     # game/v7/v7_screens.rpy:105
     old "Lauren would kill me if I asked someone other than her."
-    new "我可以一个人去"
+    new "如果我叫了其他人去，劳伦会杀了我的"
 
     # game/v7/v7_screens.rpy:109
     old "I could always go alone..."
@@ -72,29 +72,29 @@ translate chinese strings:
 
     # game/v7/v7_screens.rpy:197
     old "Are you sure you want to end the free roam with Chloe?"
-    new "您确定要和克洛伊结束自由漫游吗?"
+    new "您确定要和克洛伊结束自由漫游吗？"
 
     # game/v7/v7_screens.rpy:204
     old "Are you sure you want to end the free roam with Emily?"
-    new "您确定要和艾米丽结束自由漫游吗?"
+    new "您确定要和艾米丽结束自由漫游吗？"
 
     # game/v7/v7_screens.rpy:211
     old "Are you sure you want to end the free roam with Lauren?"
-    new "您确定要和劳伦结束自由漫游吗?"
+    new "您确定要和劳伦结束自由漫游吗？"
 
     # game/v7/v7_screens.rpy:218
     old "Are you sure you want to end the free roam with Penelope?"
-    new "您确定要和佩内洛普结束自由漫游吗?"
+    new "您确定要和佩内洛普结束自由漫游吗？"
 
     # game/v7/v7_screens.rpy:225
     old "Are you sure you want to end the free roam with Riley?"
-    new "您确定要和莱莉结束自由漫游吗?"
+    new "您确定要和莱莉结束自由漫游吗？"
 
     # game/v7/v7_screens.rpy:758
     old "hide overlay"
-    new "隐藏叠加"
+    new "隐藏分层"
 
     # game/v7/v7_screens.rpy:762
     old "show overlay"
-    new "显示叠加"
+    new "显示分层"
 
