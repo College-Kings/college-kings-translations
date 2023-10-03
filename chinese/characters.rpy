@@ -504,7 +504,7 @@ translate chinese strings:
 
     # game/characters.rpy:165
     old "Satin"
-    new "撒旦"
+    new "斯丹"
 
     # game/characters.rpy:166
     old "Trainer"
