@@ -88,7 +88,7 @@ translate chinese v2start_c08fe457:
 translate chinese v2start_f558cfe4:
 
     # u "I'm not fighting. I'll just stay away from them."
-    u "我不想学拳击。我离他们远点就行。"
+    u "我不想学格斗。我离他们远点就行。"
 
 # game/v2/v2.rpy:162
 translate chinese v2start_e8ead580:
@@ -190,7 +190,7 @@ translate chinese walk1_ae5cc9c0:
 translate chinese walk1_4b258b6b:
 
     # tom "Eyy, Mr. steal-your-girl got beaten up. *laughs*"
-    tom "哎，偷女朋友的先生被打了。 *笑* "
+    tom "哎，偷女朋友先生被打了。 *笑* "
 
 # game/v2/v2.rpy:260
 translate chinese walk1_50708946:
@@ -988,7 +988,7 @@ translate chinese nextsceneo_d818341c:
 translate chinese nextsceneo_a6a56d8e:
 
     # lee "Many people believe that history is about analyzing and understanding the past."
-    lee "许多人认为历史只是关于分析和理解过去的。"
+    lee "许多人认为历史只是关于分析和理解过去的学科。"
 
 # game/v2/v2.rpy:1556
 translate chinese nextsceneo_dd2e8650:
@@ -1126,7 +1126,7 @@ translate chinese nextsceneo_518e3ddb:
 translate chinese nextsceneo_9f78718a:
 
     # imre "Oh, I'm not."
-    imre "哦，才不是呢。"
+    imre "噢，才不是呢。"
 
 # game/v2/v2.rpy:1678
 translate chinese nextsceneo_bd395da8:
@@ -1138,7 +1138,7 @@ translate chinese nextsceneo_bd395da8:
 translate chinese nextsceneo_fdbce207:
 
     # u "Oh..."
-    u "哦……"
+    u "噢……"
 
 # game/v2/v2.rpy:1685
 translate chinese nextsceneo_b5efee6a:
@@ -1204,7 +1204,7 @@ translate chinese nextsceneo_99bd1ed9:
 translate chinese nextsceneo_28849dd3:
 
     # u "First of all, I was just telling you that you're cute."
-    u "首先，我只是告诉你你很可爱。"
+    u "首先，我只是想告诉你你很可爱。"
 
 # game/v2/v2.rpy:1737
 translate chinese nextsceneo_e5214ea4:
@@ -1378,7 +1378,7 @@ translate chinese bo_ad_912bf9be:
 translate chinese bo_ad_821b0bf4:
 
     # em "Oh... okay. That's- that's good. You should tell her stuff like this."
-    em "哦……好吧。那-那很好。你应该告诉她这种事情。"
+    em "噢……好吧。那-那很好。你应该告诉她这种事情。"
 
 # game/v2/v2.rpy:1898
 translate chinese bo_ad_cc8c914a:
@@ -1918,7 +1918,7 @@ translate chinese repeatc_ebff5a89:
 translate chinese repeatc_9e6d33de:
 
     # u "With Mr. Lee?"
-    u "李老师的课？"
+    u "李先生的课？"
 
 # game/v2/v2.rpy:2371
 translate chinese repeatc_3afc33fc:
@@ -2008,7 +2008,7 @@ translate chinese repeatc_0e8d6143:
 translate chinese repeatc_1b522938:
 
     # u "So, what did you mean by \"you need to start talking to people at some point\"? Are you a freshman?"
-    u "你刚才说的是什么意思\"你需要在某个时候开始与人交谈\"？你是大一新生吗？"
+    u "你刚才说的\"你需要在某个时候开始与人交谈？\"是什么意思，你是大一新生吗？"
 
 # game/v2/v2.rpy:2444
 translate chinese repeatc_1b0771d1:
@@ -2698,7 +2698,7 @@ translate chinese v2_nsfwSkipLabel3_d8940fd5:
 translate chinese by_bd_289003d8:
 
     # au "Oh god, that looks so bad on you."
-    au "哦，天呐，你看起来真糟糕。"
+    au "噢，天呐，你看起来真糟糕。"
 
 # game/v2/v2.rpy:3132
 translate chinese by_bd_89e51cb4:
@@ -2710,7 +2710,7 @@ translate chinese by_bd_89e51cb4:
 translate chinese by_bd_702693e1:
 
     # au "Oh no. Just whatever you do, do not buy this costume."
-    au "哦不。无论如何，别要买这套服装。"
+    au "噢，不。无论如何，不要买这套服装。"
 
 # game/v2/v2.rpy:3139
 translate chinese by_bd_5ebbd48f:
@@ -2806,7 +2806,7 @@ translate chinese cspe_c648d714:
 translate chinese cspe_bfdc89dd:
 
     # pe "At my old college we weren't even allowed to wear costumes on Halloween, because of the dress code."
-    pe "在我原来的学校，由于着装有规定，我们甚至不允许在万圣节穿戏服。"
+    pe "在我原来的学校，由于着装有规定，我们甚至不允许在万圣节穿套装。"
 
 # game/v2/v2.rpy:3231
 translate chinese try4done_0d76acd2:
@@ -2878,7 +2878,7 @@ translate chinese v2_nsfwSkipLabel4_4445f003:
 translate chinese v2_nsfwSkipLabel4_42a8d686:
 
     # pe "And Mr. Lee said that the costumes should be historically accurate."
-    pe "因为李老师说，服装应该是历史上准确的。"
+    pe "因为李先生说，服装应该是历史上准确的。"
 
 # game/v2/v2.rpy:3311
 translate chinese v2_nsfwSkipLabel4_74466041:
@@ -2908,7 +2908,7 @@ translate chinese v2_nsfwSkipLabel4_b030db80:
 translate chinese v2_nsfwSkipLabel4_d07ac90d:
 
     # pe "Yeah, it's kinda cool."
-    pe "是啊，有点酷。"
+    pe "是的，有点酷。"
 
 # game/v2/v2.rpy:3334
 translate chinese v2_nsfwSkipLabel4_784f0486:
@@ -3052,7 +3052,7 @@ translate chinese v2_nsfwSkipLabel5_8928515d:
 translate chinese v2_nsfwSkipLabel5_2f9da969:
 
     # u "Yeah, it would be a cool partner costume."
-    u "是啊，这会是一套很酷的搭档服装。"
+    u "是的，这会是一套很酷的搭档服装。"
 
 # game/v2/v2.rpy:3485
 translate chinese v2_nsfwSkipLabel5_5c182744:
@@ -3142,7 +3142,7 @@ translate chinese v2_nsfwSkipLabel6_38062494:
 translate chinese v2_nsfwSkipLabel6_8d333e1a:
 
     # u "Oh come on, Penelope. I wanna see."
-    u "哦，别这样，佩内洛普。我想看看。"
+    u "噢，别这样，佩内洛普。我想看看。"
 
 # game/v2/v2.rpy:3586
 translate chinese v2_nsfwSkipLabel6_6749b01c:
