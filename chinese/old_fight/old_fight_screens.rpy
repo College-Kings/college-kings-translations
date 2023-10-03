@@ -24,7 +24,7 @@ translate chinese strings:
 
     # game/old_fight/old_fight_screens.rpy:61
     old "Fighting is big part of College Kings, however you can simulate all fights if you'd like to."
-    new "格斗是学院之王的重要组成部分，但如果你愿意，你可以模拟所有的格斗。"
+    new "格斗是学院之王的重要组成部分，但如果您愿意，您可以模拟所有的格斗。"
 
     # game/old_fight/old_fight_screens.rpy:68
     old "Play Fight"

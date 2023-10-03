@@ -4,19 +4,19 @@
 translate chinese fight_tutorialLabel_0aadd307:
 
     # tut "In every fight, you'll have positions from which you can attack and positions from which you'll need to defend."
-    tut "在每一场战斗中，你都会有可以进攻的位置和需要防守的位置。"
+    tut "在每一场战斗中，您都会有可以进攻的位置和需要防守的位置。"
 
 # game/old_fight/old_fight_labels.rpy:8
 translate chinese fight_tutorialLabel_ae7d5522:
 
     # tut "In attacking positions you'll have a set of offensive actions, as shown on the left."
-    tut "在进攻位置，你会有一系列进攻动作，如左图所示。"
+    tut "在进攻位置，您会有一系列进攻动作，如左图所示。"
 
 # game/old_fight/old_fight_labels.rpy:9
 translate chinese fight_tutorialLabel_0c9e457e:
 
     # tut "Since you're new to fighting, you only have 3 simple attacks:"
-    tut "由于你是新手，你只有3种简单的攻击方式："
+    tut "由于您是新手，您只有3种简单的攻击方式："
 
 # game/old_fight/old_fight_labels.rpy:13
 translate chinese fight_tutorialLabel_96c8a50f:
@@ -40,7 +40,7 @@ translate chinese fight_tutorialLabel_9eb7a572:
 translate chinese fight_tutorialLabel_0892bfef:
 
     # tut "As you learn more about fighting, you'll gain new attack moves."
-    tut "随着你对战斗的了解越来越多，你将获得新的攻击招式。"
+    tut "随着您对战斗的了解越来越多，您将获得新的攻击招式。"
 
 # game/old_fight/old_fight_labels.rpy:27
 translate chinese fight_tutorialLabel_bcd5956e:
@@ -52,7 +52,7 @@ translate chinese fight_tutorialLabel_bcd5956e:
 translate chinese fight_tutorialLabel_472c2aed:
 
     # tut "With your three actions, there are three possible points of attack."
-    tut "通过你的三个动作，有三个可能的攻击点。"
+    tut "通过您的三个动作，有三个可能的攻击点。"
 
 # game/old_fight/old_fight_labels.rpy:35
 translate chinese fight_tutorialLabel_bf9a21c1:
