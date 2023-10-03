@@ -160,7 +160,7 @@ translate chinese imreconb_6bf3e75e:
 translate chinese imreconb_3fbd7e50:
 
     # imre "You can't fucking hide from me forever!"
-    imre "你他妈地不能永远躲着我！"
+    imre "你他妈的不能永远躲着我！"
 
 # game/v6/v6.rpy:267
 translate chinese imreconb_66bfa7ca:
@@ -508,7 +508,7 @@ translate chinese fo_ad_b7cb28c4:
 translate chinese fo_ad_46ebc6bd:
 
     # cl "Yeah, haha. Bye."
-    cl "是啊，哈哈。再见。"
+    cl "好吧，哈哈。再见。"
 
 # game/v6/v6.rpy:639
 translate chinese fo_ad_c915a837:
@@ -550,7 +550,7 @@ translate chinese fp_ad_4e0a698d:
 translate chinese fp_ad_2e8c8088:
 
     # u "Yeah, sounds good."
-    u "是啊，听起来不错。"
+    u "好的，听起来不错。"
 
 # game/v6/v6.rpy:683
 translate chinese fp_ad_f5d2629a:
@@ -1396,7 +1396,7 @@ translate chinese ft_ad_104b948f:
 translate chinese ft_ad_11f06a15:
 
     # u "(Is that Ms. Rose crying?)"
-    u "(是罗斯女士在哭吗？?)"
+    u "(是罗斯女士在哭吗？？)"
 
 # game/v6/v6.rpy:1674
 translate chinese ft_ad_ffc2de0a:
@@ -1426,7 +1426,7 @@ translate chinese ft_ad_3edb39b7:
 translate chinese ft_ad_3c75c9fa:
 
     # u "Are you sure? Maybe I can help."
-    u "您确定吗？也许我能帮上忙。"
+    u "您确定吗？也许我能帮得上忙。"
 
 # game/v6/v6.rpy:1699
 translate chinese ft_ad_fee87927:
@@ -1462,13 +1462,13 @@ translate chinese ft_ad_ba66880b:
 translate chinese ft_ad_4a58dbb5:
 
     # ro "I'm sorry. I didn't mean to snap at you. I just have a lot going on right now."
-    ro "对不起。我不是想骂你。我现在有很多烦心事。"
+    ro "对不起。我不是迁怒于你。我现在有很多烦心事儿。"
 
 # game/v6/v6.rpy:1729
 translate chinese ft_ad_2e47791b:
 
     # u "It's okay. I get it. I don't wanna pry."
-    u "没事的。我懂的。我不想打听。"
+    u "没事儿。我能理解。我不想打听。"
 
 # game/v6/v6.rpy:1734
 translate chinese ft_ad_281dfb87:
@@ -1522,13 +1522,13 @@ translate chinese nr_bb_bb201991:
 translate chinese nr_bb_07491fbc:
 
     # u "(And what the fuck am I gonna do about Grayson?)"
-    u "(我他妈地该怎么回复格雷森？)"
+    u "(我他妈的该怎么回复格雷森？)"
 
 # game/v6/v6.rpy:1797
 translate chinese nr_bb_6acf9f9d:
 
     # u "(What the fuck am I gonna do about Grayson?)"
-    u "(我他妈地该怎么回复格雷森？)"
+    u "(我他妈的该怎么回复格雷森？)"
 
 # game/v6/v6.rpy:1803
 translate chinese continuebe_a547874d:
@@ -1942,7 +1942,7 @@ translate chinese fw_a_16296ffa:
 translate chinese fw_a_419c4d03:
 
     # em "[name], this is different. I promise. Please can you just come over? I'm in Dorm 17, Block A."
-    em "[name]，这不一样。我保证.你能过来一下吗？我在A座17号宿舍。"
+    em "[name]，这不一样。我保证。你能过来一下吗？我在A座17号宿舍。"
 
 # game/v6/v6.rpy:2246
 translate chinese fw_a_4c9b5b30:
@@ -2170,7 +2170,7 @@ translate chinese fw_a_356fe308_1:
 translate chinese fz_a_d66f90c9:
 
     # u "Hey, it's okay."
-    u "嘿，没事的。"
+    u "嘿，没事儿的。"
 
 # game/v6/v6.rpy:2472
 translate chinese fz_a_3bd65c28:
@@ -2230,7 +2230,7 @@ translate chinese fz_a_2b1c9282:
 translate chinese fz_a_30f93b47:
 
     # u "Yeah and we got caught 'cause you couldn't keep your cool."
-    u "是啊，我们被抓是因为你不能保持冷静。"
+    u "是的，我们被抓是因为你不能保持冷静。"
 
 # game/v6/v6.rpy:2519
 translate chinese fz_a_73fe48d6:
@@ -2290,7 +2290,7 @@ translate chinese fz_a_1b03ac11:
 translate chinese fz_b_19101482:
 
     # u "Are you fucking kidding me?! This is why you're calling me??? Over something stupid like this?"
-    u "你他妈地开什么玩笑？！这就是你打电话给我的原因？？？就为了这种蠢事？"
+    u "你他妈的开什么玩笑？！这就是你打电话给我的原因？？？就为了这种蠢事？"
 
 # game/v6/v6.rpy:2584
 translate chinese fz_b_13dba02e:
@@ -2950,7 +2950,7 @@ translate chinese gc_ad_7cd3e74f:
 translate chinese gc_ad_7e6ec529:
 
     # waiter "Can I start you two off with something to drink?"
-    waiter "二位想喝点什么？"
+    waiter "二位想喝点儿什么？"
 
 # game/v6/v6.rpy:3199
 translate chinese gc_ad_2cdff11e:
@@ -3004,7 +3004,7 @@ translate chinese gc_ad_e40d34c2:
 translate chinese gc_ad_ef7ae04f:
 
     # u "Soo... anything else new lately?"
-    u "那么……最近有什么新鲜事吗？"
+    u "那么……最近有什么新鲜事儿吗？"
 
 # game/v6/v6.rpy:3259
 translate chinese gc_ad_be4ab9b3:
@@ -4132,7 +4132,7 @@ translate chinese naubclimax_e3fce937:
 translate chinese naubclimax_8a9991c7:
 
     # u "Yeah, me too."
-    u "是啊，我也是。"
+    u "是的，我也是。"
 
 # game/v6/v6.rpy:4354
 translate chinese naubclimax_d0ccd9d2:
@@ -4174,7 +4174,7 @@ translate chinese aubreytalk_71de2b6b:
 translate chinese aubreytalk_8d90ba73:
 
     # u "Yeah, I get that. My economics teacher just keeps giving us assignment after assignment."
-    u "是啊，我明白了。我的经济学老师总是一次又一次地给我们布置作业。"
+    u "好吧，我明白了。我的经济学老师总是一次又一次地给我们布置作业。"
 
 # game/v6/v6.rpy:4388
 translate chinese aubreytalk_093d1cce:
@@ -5008,7 +5008,7 @@ translate chinese wakeupa_c3a74fec:
 translate chinese wakeupa_f9ac4eb4:
 
     # u "Shit. Imre, be careful."
-    u "糟糕。伊姆雷，小心点。"
+    u "糟糕。伊姆雷，小心点儿。"
 
 # game/v6/v6.rpy:5252
 translate chinese wakeupa_17c236f2:
@@ -5044,7 +5044,7 @@ translate chinese wakeupa_827fd5c0:
 translate chinese wakeupa_09131575:
 
     # u "*Breathing heavily* (Fuck, that was so much harder than last time.)"
-    u "*呼吸沉重* (操，这比上次难多了。)"
+    u "*呼吸沉重* (该死的，这比上次难多了。)"
 
 # game/v6/v6.rpy:5387
 translate chinese wakeupa_1908f62b_1:
@@ -5614,7 +5614,7 @@ translate chinese gp_ad_7ad7bb7c:
 translate chinese gp_ad_e6b50040:
 
     # host "Be it what you've scribbled on your notebook or what you've collected on your phone's notes app."
-    host "无论是你在笔记本上潦草地写的东西，还是你在手机笔记应用程序上收集的东西。"
+    host "无论是你在笔记本上潦草写的东西，还是你在手机笔记应用程序上收集的东西。"
 
 # game/v6/v6.rpy:5806
 translate chinese gp_ad_be02824c:
@@ -6190,7 +6190,7 @@ translate chinese afterpsb_79da2596:
 translate chinese afterpsb_87b4e96a:
 
     # u "Okay, something doesn't add up."
-    u "好吧，有点不对劲。"
+    u "好吧，有点不对劲儿。"
 
 # game/v6/v6.rpy:6343
 translate chinese afterpsb_ddfa5209:
@@ -8488,7 +8488,7 @@ translate chinese v6_fr3riley1_1d8375f4:
 translate chinese v6_fr3riley1_ef9cc579:
 
     # u "Maybe later, I still got some exploring to do."
-    u "也许晚点，我还有一些地方要看看。"
+    u "也许晚点儿，我还有一些地方要看看。"
 
 # game/v6/v6.rpy:8352
 translate chinese v6_fr3riley1_7bf0f9dc:
@@ -9388,7 +9388,7 @@ translate chinese v6_fr3chloe1_e094596c:
 translate chinese v6_fr3chloe1_ebc7bc0d:
 
     # cl "*Sniff* I'm fine. Please. I need a minute."
-    cl "*嗅* 我很好。求求你。我需要一点时间。"
+    cl "*嗅* 我很好。求求你。我需要一点儿时间。"
 
 # game/v6/v6.rpy:9119
 translate chinese v6_fr3chloe1_3e160fa0:
@@ -9940,7 +9940,7 @@ translate chinese v6_fr3amber3_85f28863:
 translate chinese v6_fr3amber3_06371f6d:
 
     # u "I'll see you later then."
-    u "那我们晚点见。"
+    u "那我们晚点儿见。"
 
 # game/v6/v6.rpy:9632
 translate chinese v6_fr3amber3_14660504:
@@ -10240,7 +10240,7 @@ translate chinese upstairsaubrey_616a8530:
 translate chinese upstairsaubrey_236fba21:
 
     # au "Yeah, it was. I'll see you back downstairs."
-    au "是啊，的确是。下楼见。"
+    au "是啊，的确是。楼下见。"
 
 # game/v6/v6.rpy:9893
 translate chinese upstairsaubrey_3c026204_1:
@@ -10846,7 +10846,7 @@ translate chinese upstairsamber_3b8dfe30:
 translate chinese upstairsamber_bb91a7df:
 
     # am "Oh no, really? Okay I'll come down."
-    am "噢不，真的吗？好吧，我下来。"
+    am "噢，不，真的吗？好吧，我下来。"
 
 # game/v6/v6.rpy:10395
 translate chinese upstairsamber_b33920a3:
@@ -10858,7 +10858,7 @@ translate chinese upstairsamber_b33920a3:
 translate chinese upstairsamber_8cdd3120:
 
     # u "Oh shit. Uhm... I'll see you later then."
-    u "噢，真糟糕。嗯……那我们晚点见。"
+    u "噢，真糟糕。嗯……那我们晚点儿见。"
 
 # game/v6/v6.rpy:10405
 translate chinese upstairsamber_c4cc8676:
@@ -11156,11 +11156,11 @@ translate chinese strings:
 
     # game/v6/v6.rpy:14
     old "Maybe if you're lucky xx"
-    new "也许只是你运气好 嘻嘻"
+    new "也许只是你运气好 xx"
 
     # game/v6/v6.rpy:18
     old "I'm glad you like it xx"
-    new "我很高兴你喜欢它 嘻嘻"
+    new "我很高兴你喜欢它 xx"
 
     # game/v6/v6.rpy:19
     old "I hope there's more of that in the future :P"
@@ -11428,7 +11428,7 @@ translate chinese strings:
 
     # game/v6/v6.rpy:5399
     old "Heyy, what are you up to? xx"
-    new "嘿，你在忙什么？嘻嘻"
+    new "嘿，你在忙什么？xx"
 
     # game/v6/v6.rpy:5400
     old "Just walking back from the gym wbu?"
