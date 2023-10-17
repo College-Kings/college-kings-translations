@@ -1,4 +1,5 @@
-
 *.rpyc
 *.zip
 *.rar
+
+vscode/
