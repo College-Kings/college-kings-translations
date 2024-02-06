@@ -10,7 +10,7 @@ translate chinese v12_nora_robbed_4db69537:
 translate chinese v12_nora_robbed_34d67a72:
 
     # no "My bag! They have my bag! It has all of my-"
-    no "我的包！他们抢了我的包！它里面有我所有的-"
+    no "我的包！他们抢了我的包！它里面有我所有的……"
 
 # game/v12/scene1.rpy:41
 translate chinese v12_nora_robbed_baf209ef:
@@ -58,7 +58,7 @@ translate chinese v12_nora_robbed_95231243:
 translate chinese v12_nora_robbed_fca10fac:
 
     # u "(Did she almost say 'Mom'?)"
-    u "(她几乎要说'妈'了吗？)"
+    u "(她几乎要说\"妈\"了吗？)"
 
 # game/v12/scene1.rpy:86
 translate chinese v12_nora_robbed_8dd125c6:
