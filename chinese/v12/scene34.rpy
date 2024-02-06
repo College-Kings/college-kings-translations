@@ -100,7 +100,7 @@ translate chinese v12_amber_after_spa_4b12320c:
 translate chinese v12_amber_after_spa_5c3d0028:
 
     # u "Imre, shut the fuck up."
-    u "伊姆雷，他妈的闭嘴。"
+    u "伊姆雷，他妈地闭嘴。"
 
 # game/v12/scene34.rpy:238
 translate chinese v12_amber_after_spa_5177e724:
@@ -142,7 +142,7 @@ translate chinese strings:
 
     # game/v12/scene34.rpy:18
     old "Tease Amber"
-    new "逗弄安珀"
+    new "逗弄琥珀"
 
     # game/v12/scene34.rpy:18
     old "Nice towel"
