@@ -4,5 +4,5 @@ translate chinese strings:
 
     # game/checklist.rpy:15
     old "Replay Template"
-    new "录像模板"
+    new "Replay Template"
 

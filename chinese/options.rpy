@@ -4,5 +4,5 @@ translate chinese strings:
 
     # game/options.rpy:15
     old "College Kings"
-    new "学院之王"
+    new "College Kings"
 
