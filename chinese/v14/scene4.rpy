@@ -16,7 +16,7 @@ translate chinese v14s04_6a0ac584:
 translate chinese v14s04_6a0ac584_1:
 
     # u "(Fuck it, I'll talk to him later I guess.)"
-    u "(去他妈的，我想我晚点再跟他谈。))"
+    u "(去他妈的，我想我晚点再跟他谈。)"
 
 translate chinese strings:
 
