@@ -16,7 +16,7 @@ translate chinese v12_penelope_call_fcfea652:
 translate chinese v12_penelope_call_ceb28167:
 
     # pe "Hey, hey! I didn't wake you, did I?"
-    pe "嘿，嘿！我没吵醒你吧，是吗？"
+    pe "嘿，嘿！我没吵醒你吧，对吧？"
 
 # game/v12/scene3a.rpy:51
 translate chinese v12_penelope_call_9bc3e595:
@@ -88,7 +88,7 @@ translate chinese v12_penelope_call_0951aa80:
 translate chinese v12_penelope_call_7eefa9d3:
 
     # u "*Chuckles* Trust me, it's not bad at all. I'm perfectly fine and just laying here relaxing in my room. It feels good knowing you care so much though."
-    u "*咯咯笑* 相信我，一点事都没有。我很好，只是躺在房间里放松。知道你这么在乎我，我感觉很好。"
+    u "*咯咯笑* 相信我，一点事儿都没有。我很好，只是躺在房间里放松。知道你这么在乎我，我感觉很好。"
 
 # game/v12/scene3a.rpy:118
 translate chinese v12_penelope_call_8bade814:
@@ -118,7 +118,7 @@ translate chinese v12_penelope_call_d72d9216:
 translate chinese v12_penelope_call_8e9a53ce:
 
     # u "Last time you were looking out for people it got you in trouble."
-    u "上次你照顾别人的时候惹上了麻烦。"
+    u "上次你照顾别人的时候就惹上了麻烦。"
 
 # game/v12/scene3a.rpy:143
 translate chinese v12_penelope_call_8423ea58:
@@ -166,7 +166,7 @@ translate chinese v12_penelope_call_1e63163a:
 translate chinese v12_penelope_call_7beaed05:
 
     # u "Oh uhm, never mind... Sorry. Talk to you later."
-    u "噢，嗯，不要紧……抱歉。晚点再跟你聊。"
+    u "噢，嗯，不要紧……抱歉。晚点儿再跟你聊。"
 
 # game/v12/scene3a.rpy:186
 translate chinese v12_penelope_call_44aeeaec:
@@ -184,7 +184,7 @@ translate chinese v12_penelope_call_1ab85b71:
 translate chinese v12_penelope_call_4a015b36:
 
     # pe "Aww... That was way too sweet, [name]. *Chuckles* I miss you too. Hurry back, okay?"
-    pe "啊……太甜蜜了，[name]。 *咯咯笑* 我也想你。快点回来，好吗？"
+    pe "啊……太甜蜜了，[name]。 *咯咯笑* 我也想你。快点儿回来，好吗？"
 
 # game/v12/scene3a.rpy:205
 translate chinese v12_penelope_call_b261385f:

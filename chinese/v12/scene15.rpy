@@ -226,7 +226,7 @@ translate chinese v12_riddle_riley_747de4d3:
 translate chinese v12_riddle_riley_cdac905d:
 
     # ri "Well, you know-"
-    ri "嗯，你知道-"
+    ri "嗯，你知道……"
 
 # game/v12/scene15.rpy:268
 translate chinese v12_riddle_riley_93b929f3:

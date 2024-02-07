@@ -4,7 +4,7 @@
 translate chinese v12_valentine_eafdec51:
 
     # u "Home sweet home... *Laughs* Feeling alright?"
-    u "到家了。*笑* 感觉还好吗？"
+    u "到家了…… *笑* 感觉还好吗？"
 
 # game/v12/scene16.rpy:18
 translate chinese v12_valentine_e86d9dac:
@@ -190,7 +190,7 @@ translate chinese v12_valentine_5e4d268b:
 translate chinese v12_valentine_e612e93e:
 
     # lee "Imre, behave yourself. This is no time for jokes."
-    lee "伊姆雷，规矩点。现在不是开玩笑的时候。"
+    lee "伊姆雷，规矩点儿。现在不是开玩笑的时候。"
 
 # game/v12/scene16.rpy:213
 translate chinese v12_valentine_9163eec0:
@@ -394,7 +394,7 @@ translate chinese v12_valentine_40786f70:
 translate chinese v12_valentine_5743bfa4:
 
     # lee "I-"
-    lee "我-"
+    lee "我……"
 
 # game/v12/scene16.rpy:379
 translate chinese v12_valentine_3d96698a:

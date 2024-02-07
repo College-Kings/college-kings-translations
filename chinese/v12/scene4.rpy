@@ -16,7 +16,7 @@ translate chinese v12_roomate_talk_a270b5dc:
 translate chinese v12_roomate_talk_ebdfd07a:
 
     # u "Yeah, kinda... It's not like we weren't just in the middle of a robbery or anything."
-    u "是的，有点……我们又不是在抢劫现场或者别的什么地方。"
+    u "是的，有点儿……我们又不是在抢劫现场或者别的什么地方。"
 
 # game/v12/scene4.rpy:38
 translate chinese v12_roomate_talk_21c5ffec:
@@ -112,7 +112,7 @@ translate chinese v12_roomate_talk_69635914:
 translate chinese v12_roomate_talk_e2680fa8:
 
     # cl "Mainly about him getting strong enough to take on Grayson."
-    cl "要是关于他变得足够强壮可以和格雷森较量。"
+    cl "是关于他变得足够强壮可以和格雷森较量。"
 
 # game/v12/scene4.rpy:139
 translate chinese v12_roomate_talk_a92af3bc:
@@ -130,7 +130,7 @@ translate chinese v12_roomate_talk_ad6517d9:
 translate chinese v12_roomate_talk_61e793ba:
 
     # u "He is, I just don't think he's at Grayson level. You have to be a bit crazy to fight like him."
-    u "他是，我只是不认为他能达到格雷森的水平。你得有点疯狂才能像他那样战斗。"
+    u "是的，我只是不认为他能达到格雷森的水平。你得有点儿疯狂才能像他那样战斗。"
 
 # game/v12/scene4.rpy:157
 translate chinese v12_roomate_talk_e4ec4174:
@@ -166,7 +166,7 @@ translate chinese v12_roomate_talk_653aa6a7:
 translate chinese v12_roomate_talk_385ca9ec:
 
     # cl "*Hiccup* Oh my gosh, excuse me. *Chuckles* I'm so sorry."
-    cl "*打嗝* 哦，天呐，不好意思。 *咯咯笑* 我很抱歉。"
+    cl "*打嗝* 噢，天呐，不好意思。 *咯咯笑* 我很抱歉。"
 
 # game/v12/scene4.rpy:189
 translate chinese v12_roomate_talk_4b1d1506:
@@ -220,7 +220,7 @@ translate chinese v12_roomate_talk_9957587c:
 translate chinese v12_roomate_talk_f26f97e3:
 
     # cl "Our bed now, silly... Turn the light off so we can go to sleep. And hurry! I'm cold. *Chuckles*"
-    cl "现在是我们的床了，笨蛋……把灯关掉，这样我们就可以睡觉了。快点！我觉得冷。 *咯咯笑*"
+    cl "现在是我们的床了，笨蛋……把灯关掉，这样我们就可以睡觉了。快点儿！我觉得冷。 *咯咯笑*"
 
 # game/v12/scene4.rpy:245
 translate chinese v12_roomate_talk_73a3999a:
@@ -256,7 +256,7 @@ translate chinese v12_roomate_talk_db00970b:
 translate chinese v12_roomate_talk_2bf4e1e6:
 
     # u "What? *Chuckles* I was just curious where you went after everything that happened. I thought you were gonna be in the room."
-    u "干嘛？*咯咯笑*我只是好奇在发生了那么多事之后你去哪里了。我以为你会在房间里。"
+    u "干嘛？ *咯咯笑* 我只是好奇在发生了那么多事之后你去哪里了。我以为你会在房间里。"
 
 # game/v12/scene4.rpy:302
 translate chinese v12_roomate_talk_21d66c26:
@@ -268,7 +268,7 @@ translate chinese v12_roomate_talk_21d66c26:
 translate chinese v12_roomate_talk_febcd899:
 
     # u "Oh, yeah? Where at?"
-    u "哦，是吗？去哪里？"
+    u "噢，是吗？去了哪里？"
 
 # game/v12/scene4.rpy:312
 translate chinese v12_roomate_talk_8eceb744:
@@ -292,7 +292,7 @@ translate chinese v12_roomate_talk_e32d807e:
 translate chinese v12_roomate_talk_b08b1b3a:
 
     # u "Haha, not really. I was kinda enjoying the alone time. I just wanted to know what you were doing so I know how to keep you occupied the next time I wanna be alone."
-    u "哈哈，不太可能。我有点享受独处的时光。我只想知道你在做什么，这样下次我想独处的时候我就知道怎么让你忙个不停。"
+    u "哈哈，不太可能。我有点儿享受独处的时光。我只想知道你在做什么，这样下次我想独处的时候我就知道怎么让你忙个不停。"
 
 # game/v12/scene4.rpy:337
 translate chinese v12_roomate_talk_7a2295b6:
@@ -352,7 +352,7 @@ translate chinese v12_roomate_talk_37a024e2:
 translate chinese v12_roomate_talk_51180891:
 
     # ri "Oh, whatever. *Chuckles* I told Lindsey I was on the fence about joining a sorority because my family was against it, but that I've been really considering it lately."
-    ri "哦，随便了。 *咯咯笑* 我告诉林赛，我对加入女生联谊会一事犹豫不决，因为我的家人反对，但我最近真的在考虑。"
+    ri "噢，随便了。 *咯咯笑* 我告诉林赛，我对加入女生会一事犹豫不决，因为我的家人反对，但我最近真的在考虑。"
 
 # game/v12/scene4.rpy:390
 translate chinese v12_roomate_talk_f5050366:
@@ -376,7 +376,7 @@ translate chinese v12_roomate_talk_e12272af:
 translate chinese v12_roomate_talk_a87796d1:
 
     # u "Yeah, I actually know already. Her and I have actually talked about it a few times."
-    u "是啊，我其实已经知道了。事实上，我和她已经谈过几次了。"
+    u "好吧，我其实已经知道了。事实上，我和她已经谈过几次了。"
 
 # game/v12/scene4.rpy:413
 translate chinese v12_roomate_talk_5ac6fd15:
@@ -400,7 +400,7 @@ translate chinese v12_roomate_talk_0093fb65:
 translate chinese v12_roomate_talk_05e8f70d:
 
     # u "Oh, really?"
-    u "哦，真的吗？"
+    u "噢，真的吗？"
 
 # game/v12/scene4.rpy:434
 translate chinese v12_roomate_talk_cf218723:
@@ -412,7 +412,7 @@ translate chinese v12_roomate_talk_cf218723:
 translate chinese v12_roomate_talk_9a4d80bd:
 
     # u "Wow, that's some major news. I'm kinda nervous to see how all that plays out."
-    u "哇，这可是个大新闻。我有点紧张，想看看这一切会如何发展。"
+    u "哇哦，这可是个大新闻。我有点儿紧张，想看看这一切会如何发展。"
 
 # game/v12/scene4.rpy:444
 translate chinese v12_roomate_talk_6200c2dc:
@@ -430,7 +430,7 @@ translate chinese v12_roomate_talk_c680ec46:
 translate chinese v12_roomate_talk_23e3f9d8:
 
     # ri "It sucks that we can't all hang out at night and do what we want you know? Like without Mr. Lee and Ms. Rose."
-    ri "我们不能在晚上一起出去玩，做我们想做的事，这太糟糕了，你知道吗？就像没有李先生和罗斯女士一样。"
+    ri "我们不能在晚上一起出去玩儿，做我们想做的事，这太糟糕了，你知道吗？就像没有李先生和罗斯女士一样。"
 
 # game/v12/scene4.rpy:459
 translate chinese v12_roomate_talk_e9dd15fd:
@@ -442,7 +442,7 @@ translate chinese v12_roomate_talk_e9dd15fd:
 translate chinese v12_roomate_talk_534bbc6a:
 
     # ri "I don't know, like a little sleepover or something."
-    ri "我不知道，就像一个小小的过夜聚会之类的。"
+    ri "我不知道，就像一个小小的睡衣派对之类的。"
 
 # game/v12/scene4.rpy:469
 translate chinese v12_roomate_talk_3eaf4f42:
@@ -484,17 +484,17 @@ translate chinese v12_roomate_talk_d5273e35:
 translate chinese v12_roomate_talk_7a4386e2:
 
     # u "Haha, goodnight loser."
-    u "哈哈，晚安失败者。"
+    u "哈哈，晚安，失败者。"
 
 translate chinese strings:
 
     # game/v12/scene4.rpy:146
     old "He is"
-    new "他是"
+    new "是的"
 
     # game/v12/scene4.rpy:146
     old "Nope"
-    new "不是的"
+    new "不是"
 
     # game/v12/scene4.rpy:402
     old "Really?"

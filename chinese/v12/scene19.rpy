@@ -316,7 +316,7 @@ translate chinese strings:
 
     # game/v12/scene19.rpy:206
     old "Not cool, Amber... Not cool... ;)"
-    new "一点都不酷，安珀……一点都不酷……；)"
+    new "一点都不酷，琥珀……一点都不酷……；)"
 
     # game/v12/scene19.rpy:207
     old "It's just a prank bro!"

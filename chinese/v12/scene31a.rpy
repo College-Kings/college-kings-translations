@@ -10,7 +10,7 @@ translate chinese v12_aubrey_wake_up_ri_7b10314c:
 translate chinese v12_aubrey_wake_up_ri_2a460796:
 
     # u "Aubr- What? How'd you get in here?"
-    u "奥布-什么？你怎么进来的？"
+    u "奥布……什么？你怎么进来的？"
 
 # game/v12/scene31a.rpy:23
 translate chinese v12_aubrey_wake_up_ri_c490d0da:

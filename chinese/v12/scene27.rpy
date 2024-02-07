@@ -94,7 +94,7 @@ translate chinese v12s27_d7dbe971:
 translate chinese v12s27_a0dcb0b0:
 
     # imre "Oh fuck yeah! Let's go!"
-    imre "噢，他妈的，耶！我们走吧！"
+    imre "噢，他妈的，是的！我们走吧！"
 
 # game/v12/scene27.rpy:93
 translate chinese v12s27_01dae9ff:
@@ -286,7 +286,7 @@ translate chinese v12s27_f130ce76:
 translate chinese v12s27_b53004bd:
 
     # imre "Big time! The ladies love me and I love the ladies."
-    imre "大场面!女士们喜欢我，我也喜欢女士们。"
+    imre "大场面！女士们喜欢我，我也喜欢女士们。"
 
 # game/v12/scene27.rpy:260
 translate chinese v12s27_aab5e256:
@@ -592,7 +592,7 @@ translate chinese v12s27_816c1afe:
 translate chinese v12s27_63245ff7:
 
     # imre "*Sighs* Whatever, dude. Fuck off. *Laughs*"
-    imre " *叹息* 随便了，伙计。去他妈的。 *笑* "
+    imre "*叹息* 随便了，伙计。去他妈的。 *笑* "
 
 # game/v12/scene27.rpy:521
 translate chinese v12s27_738916ef:

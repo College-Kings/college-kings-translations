@@ -64,13 +64,13 @@ translate chinese v12s33_49b47b74:
 translate chinese v12s33_25524bd2:
 
     # li "Of course."
-    li "当然。"
+    li "不客气。"
 
 # game/v12/scene33.rpy:66
 translate chinese v12s33_561572e5:
 
     # lee "Alright, it looks like Lindsey caught the two of you up. Everyone else has already been given instructions, so allow me to fill you in."
-    lee "好吧，看来琳赛抓到你们俩了。其他人都已经得到指示了，所以让我来告诉你们。"
+    lee "好吧，看来林赛抓到你们俩了。其他人都已经得到指示了，所以让我来告诉你们。"
 
 # game/v12/scene33.rpy:68
 translate chinese v12s33_8d50f241:

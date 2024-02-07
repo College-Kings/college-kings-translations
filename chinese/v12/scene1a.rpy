@@ -88,7 +88,7 @@ translate chinese v12s1a_failed_timer_2da57c3f:
 translate chinese v12s1a_failed_timer_3cf631da:
 
     # imre "You look exactly how you looked when Grayson got done with you, minus the black eye. *Laughs*"
-    imre "你现在的样子和格雷森干你时一模一样，只是眼睛被打青了。 *笑*"
+    imre "你现在的样子和格雷森干你时一模一样，都是眼睛被打青了。 *笑*"
 
 # game/v12/scene1a.rpy:148
 translate chinese v12s1a_failed_timer_e482bf90:
@@ -202,7 +202,7 @@ translate chinese v12s1a_failed_timer_9d9b3d8b:
 translate chinese v12s1a_failed_timer_8ec4364c:
 
     # imre "I didn't even stop to turn and see. I saw you run and just started running too. You guys just got away from me there for a bit."
-    imre "我都没有停下来看看。我看到你跑了，我就开始跟了。你们刚就在我前面不远。"
+    imre "我都没有停下来看看。我看到你跑了，我就开始跟来了。你们刚就在我前面不远。"
 
 # game/v12/scene1a.rpy:258
 translate chinese v12s1a_failed_timer_621bc555:
@@ -322,7 +322,7 @@ translate chinese v12s1a_failed_timer_a4b9b526:
 translate chinese v12s1a_failed_timer_e5b839ef:
 
     # no "Oh my God, you actually got my bag!"
-    no "噢，天呐，你居然拿回了我的包！"
+    no "噢，天呐，你们居然拿回了我的包！"
 
 # game/v12/scene1a.rpy:383
 translate chinese v12s1a_failed_timer_31b99011:
@@ -412,7 +412,7 @@ translate chinese v12s1a_failed_timer_3d97d177:
 translate chinese v12s1a_failed_timer_f19c8b85:
 
     # imre "Only the best fighters on campus. Imre, Imre and Imre. *Laughs*"
-    imre "只有校园里最好的拳击手。伊姆雷，伊姆雷还是伊姆雷。 *笑*"
+    imre "只有校园里最好的拳击手。伊姆雷，伊姆雷还是他妈的伊姆雷。 *笑*"
 
 # game/v12/scene1a.rpy:468
 translate chinese v12s1a_failed_timer_c5bc4b6f:
@@ -442,7 +442,7 @@ translate chinese v12s1a_failed_timer_d786b6e3:
 translate chinese v12s1a_failed_timer_9d6c7bea:
 
     # u "You chased a robber, my guy! A robber! You could've died! *Chuckles*"
-    u "你在追劫匪，我的伙计！一个抢劫犯！你可能会死的！ *咯咯笑*"
+    u "你居然追劫匪，我的伙计！一个抢劫犯！你可能会死的！ *咯咯笑*"
 
 # game/v12/scene1a.rpy:512
 translate chinese v12s1a_failed_timer_f205468e:

@@ -256,7 +256,7 @@ translate chinese v12_lindsey_lobby_e66012a8:
 translate chinese v12_lindsey_lobby_094d7f63:
 
     # u "No problem with that..."
-    u "方然没问题……"
+    u "当然没问题……"
 
 # game/v12/scene36.rpy:289
 translate chinese v12_lindsey_lobby_9a070eb3:
@@ -280,7 +280,7 @@ translate chinese v12_lindsey_lobby_c59a8542:
 translate chinese v12_lindsey_lobby_e2675108:
 
     # u "Of course, thanks for getting me up."
-    u "当然，谢谢你把我叫醒。"
+    u "不客气，谢谢你把我叫醒。"
 
 # game/v12/scene36.rpy:309
 translate chinese v12_lindsey_lobby_305d3cb0:

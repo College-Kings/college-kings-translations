@@ -10,7 +10,7 @@ translate chinese v12_chase_nora_b061b991:
 translate chinese v12_chase_nora_0f24c85d:
 
     # no "*Crying* I'm fine, [name]."
-    no " *哭泣* 我没事，[name]。"
+    no " *哭泣* 我没事儿，[name]。"
 
 # game/v12/scene26b.rpy:43
 translate chinese v12_chase_nora_0e7052d2:

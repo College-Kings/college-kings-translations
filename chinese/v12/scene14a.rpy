@@ -130,7 +130,7 @@ translate chinese v12_riley_cafe_6606f89b:
 translate chinese v12_riley_cafe_cf0fbdf4:
 
     # fwait "Bonjour, comment allez-vous?"
-    fwait "你们好，身体好吗？（法语）"
+    fwait "你们好，最近好吗？（法语）"
 
 # game/v12/scene14a.rpy:143
 translate chinese v12_riley_cafe_9ec4c9cb:
@@ -232,7 +232,7 @@ translate chinese v12_riley_cafe_2d79524e:
 translate chinese v12_riley_cafe_de81bc76:
 
     # u "*Laughs* That's not even funny, it is not like that."
-    u " *笑* 那一点都不好笑，不是那样的。"
+    u " *笑* 那一点儿都不好笑，不是那样的。"
 
 # game/v12/scene14a.rpy:238
 translate chinese v12_riley_cafe_18b7e1cb:
@@ -358,7 +358,7 @@ translate chinese v12_riley_cafe_557996ef:
 translate chinese v12_riley_cafe_ecbe9197:
 
     # u "Riley... At least tell me what the clue was."
-    u "莱莉。至少告诉我线索是什么。"
+    u "莱莉……至少告诉我线索是什么。"
 
 # game/v12/scene14a.rpy:349
 translate chinese v12_riley_cafe_4cb60ee1:
@@ -442,7 +442,7 @@ translate chinese v12_riley_cafe_ff908bcf:
 translate chinese v12_riley_cafe_1e28e083:
 
     # ri "I... I'm so s-"
-    ri "我……我很抱歉-"
+    ri "我……我很抱歉……"
 
 # game/v12/scene14a.rpy:424
 translate chinese v12_riley_cafe_1e45bca8:
