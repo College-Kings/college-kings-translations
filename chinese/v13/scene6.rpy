@@ -4,7 +4,7 @@
 translate chinese v13s06_7f996fde:
 
     # u "(Waking up on my own, Amsterdam is starting out nice. *Chuckles*)"
-    u "(睡到自然醒，阿姆斯特丹之旅开始得很美好。 *咯咯笑* )"
+    u "(睡到自然醒，阿姆斯特丹之旅开始得很美好。 *咯咯笑*)"
 
 # game/v13/scene6.rpy:37
 translate chinese v13s06_0408dccb:
@@ -58,7 +58,7 @@ translate chinese v13s06_446d3ce3:
 translate chinese v13s06_e90bde5a:
 
     # u "*Chuckles* Fair enough."
-    u " *咯咯笑* 很公平。"
+    u " *咯咯笑* 好吧。"
 
 # game/v13/scene6.rpy:82
 translate chinese v13s06_0f667cbd:

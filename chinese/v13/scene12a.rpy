@@ -484,7 +484,7 @@ translate chinese strings:
 
     # game/v13/scene12a.rpy:155
     old "Say hell yeah"
-    new "噢耶"
+    new "说噢耶"
 
     # game/v13/scene12a.rpy:230
     old "Ignore him"

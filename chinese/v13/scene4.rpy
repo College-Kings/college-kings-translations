@@ -4,7 +4,7 @@
 translate chinese v13s4_daf5b3b8:
 
     # ro "*Yawn* Alright students, by now you all know how this check-in process works so... Please get yourselves situated."
-    ro " *哈欠* 好了，同学们，现在你们都知道整个登记流程是如何操作的了，所以……请坐好。"
+    ro "*哈欠* 好了，同学们，现在你们都知道整个登记流程是如何操作的了，所以……请坐好。"
 
 # game/v13/scene4.rpy:42
 translate chinese v13s4_9ef20482:
@@ -16,7 +16,7 @@ translate chinese v13s4_9ef20482:
 translate chinese v13s4_8edf0835:
 
     # ri "You don't even have to ask... *Chuckles*"
-    ri "还用问吗…… *咯咯笑* "
+    ri "还用问吗…… *咯咯笑*"
 
 # game/v13/scene4.rpy:52
 translate chinese v13s4_645262a4:
@@ -76,5 +76,5 @@ translate chinese v13s4_27760dd2:
 translate chinese v13s4_61e2016b:
 
     # u "*Chuckles* Right behind you."
-    u " *咯咯笑* 我马上就来。"
+    u "*咯咯笑* 我马上就来。"
 
