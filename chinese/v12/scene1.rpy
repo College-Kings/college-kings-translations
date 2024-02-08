@@ -10,7 +10,7 @@ translate chinese v12_nora_robbed_4db69537:
 translate chinese v12_nora_robbed_34d67a72:
 
     # no "My bag! They have my bag! It has all of my-"
-    no "我的包！他们抢了我的包！它里面有我所有的-"
+    no "我的包！他们抢了我的包！它里面有我所有的……"
 
 # game/v12/scene1.rpy:41
 translate chinese v12_nora_robbed_baf209ef:
@@ -34,13 +34,13 @@ translate chinese v12_nora_robbed_af864424:
 translate chinese v12_nora_robbed_af76003c:
 
     # li "Oh my gosh, Nora! Please tell me you're alright... He didn't hurt you, did he?"
-    li "我的天啊，诺拉！请告诉我你没事。他没有伤害你，好吗？"
+    li "噢，我的天啊，诺拉！请告诉我你没事儿……他没有伤害你，好吗？"
 
 # game/v12/scene1.rpy:61
 translate chinese v12_nora_robbed_3e0eb45e:
 
     # no "No guys, I'm fine... Really. I just had something important in my bag and I can't believe it's just gone..."
-    no "不，伙计们，我很好……真的。我包里刚放了件重要的东西，真不敢相信它就这么不见了……"
+    no "没事儿，伙计们，我很好……真的。我包里刚放了件重要的东西，真不敢相信它就这么不见了……"
 
 # game/v12/scene1.rpy:71
 translate chinese v12_nora_robbed_4e42f73e:
@@ -52,13 +52,13 @@ translate chinese v12_nora_robbed_4e42f73e:
 translate chinese v12_nora_robbed_95231243:
 
     # no "Mo-Ms. Rose, please. I'm fine... Really."
-    no "妈-罗斯女士, 别担心。我没事……真的。"
+    no "妈-罗斯女士，别担心。我没事……真的。"
 
 # game/v12/scene1.rpy:81
 translate chinese v12_nora_robbed_fca10fac:
 
     # u "(Did she almost say 'Mom'?)"
-    u "(她几乎要说'妈'了吗？)"
+    u "(她差点说\"妈\"了吗？)"
 
 # game/v12/scene1.rpy:86
 translate chinese v12_nora_robbed_8dd125c6:
@@ -94,7 +94,7 @@ translate chinese v12_nora_robbed_fcb01bac:
 translate chinese v12_nora_robbed_25fef2ad:
 
     # imre "There's no \"chance\" when it comes to me, Ms. Rose. I'd never lose a fight to some scummy, French, son of-"
-    imre "对我来说，没有\"冒险\"这一说，罗斯女士。我绝不会输给那些法国人渣，瘪犊-"
+    imre "对我来说，没有\"冒险\"这一说，罗斯女士。我绝不会输给那些法国人渣，瘪犊……"
 
 # game/v12/scene1.rpy:117
 translate chinese v12_nora_robbed_a30f2aea:
@@ -232,13 +232,13 @@ translate chinese v12_nora_robbed_f1a445d5:
 translate chinese v12_nora_robbed_61ebcd72:
 
     # imre "If you got to fight that asshole I'm gonna be pissed."
-    imre "如果你和那个混蛋打架，我会被人看不起的。"
+    imre "如果你和那个混蛋打了一架，我会被人看不起的。"
 
 # game/v12/scene1.rpy:250
 translate chinese v12_nora_robbed_47185e93:
 
     # am "Okay, calm down little guy... *Chuckles* I didn't want to mess up my nails so I just took the easy route and made sure he wouldn't be able to... well, reproduce in the near future. *Chuckles*"
-    am "好了，冷静点，小家伙…… *咯咯笑* 我不想弄脏我的指甲，所以我采取了简单的方法，确保他不能……嗯，在不久的将来繁殖。 *咯咯笑*"
+    am "好了，冷静点儿，小家伙…… *咯咯笑* 我不想弄脏我的指甲，所以我采取了简单的方法，确保他不能……嗯，在不久的将来繁殖。 *咯咯笑*"
 
 # game/v12/scene1.rpy:255
 translate chinese v12_nora_robbed_5b51d9ee:

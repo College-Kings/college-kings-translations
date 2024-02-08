@@ -293,7 +293,7 @@ translate chinese v12_riley_room_e884951d:
 translate chinese v12_riley_room_1b28a406:
 
     # u "Of course."
-    u "当然。"
+    u "不客气。"
 
 # game/v12/scene22.rpy:286
 translate chinese v12_riley_room_5237a574:

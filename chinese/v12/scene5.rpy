@@ -220,7 +220,7 @@ translate chinese v12_morning_london_6d392409:
 translate chinese v12_morning_london_5ab38507:
 
     # u "Yeah sur-"
-    u "好吧-"
+    u "好吧……"
 
 # game/v12/scene5.rpy:289
 translate chinese v12_morning_london_d3ae063f:

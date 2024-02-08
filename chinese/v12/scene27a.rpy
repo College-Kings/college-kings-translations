@@ -76,7 +76,7 @@ translate chinese v12s27a_2e36770d:
 translate chinese v12s27a_5d049f4a:
 
     # u "Well, you're gonna have to come up with something. *Chuckles*"
-    u "嗯，你得想出点办法来。 *咯咯笑* "
+    u "嗯，你得想出点办法来。 *咯咯笑*"
 
 # game/v12/scene27a.rpy:74
 translate chinese v12s27a_204944dc:
@@ -130,7 +130,7 @@ translate chinese v12s27a_3f8215db:
 translate chinese v12s27a_0d3405b7:
 
     # u "What made you come up with this? Like... Why black hair? *Chuckles*"
-    u "你是怎么想到这个的？比如……为什么是黑头发? *咯咯笑* "
+    u "你是怎么想到这个的？比如……为什么是黑头发？ *咯咯笑* "
 
 # game/v12/scene27a.rpy:119
 translate chinese v12s27a_a58a1a5f:

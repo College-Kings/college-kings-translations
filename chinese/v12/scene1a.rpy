@@ -4,7 +4,7 @@
 translate chinese v12_chase_robber_a5c95981:
 
     # u "(What the fuck? He's too fast... Where'd he go?)"
-    u "(这他妈的怎么回事？他太快了。他去哪里了？)"
+    u "(这他妈的怎么回事？他太快了……他去哪里了？)"
 
 # game/v12/scene1a.rpy:30
 translate chinese v12_chase_robber_6852c676:
@@ -28,7 +28,7 @@ translate chinese v12_chase_robber_9b9366fa:
 translate chinese v12_chase_robber_7adaf1c0:
 
     # u "Ahh, shit! You've really fucked up now."
-    u "啊，该死！你现在真的搞砸了。"
+    u "啊，该死的！你现在真的搞砸了。"
 
 # game/v12/scene1a.rpy:61
 translate chinese v12_chase_robber_d51bf734:
@@ -88,7 +88,7 @@ translate chinese v12s1a_failed_timer_2da57c3f:
 translate chinese v12s1a_failed_timer_3cf631da:
 
     # imre "You look exactly how you looked when Grayson got done with you, minus the black eye. *Laughs*"
-    imre "你现在的样子和格雷森干你时一模一样，只是眼睛被打青了。 *笑*"
+    imre "你现在的样子和格雷森干你时一模一样，都是眼睛被打青了。 *笑*"
 
 # game/v12/scene1a.rpy:148
 translate chinese v12s1a_failed_timer_e482bf90:
@@ -112,7 +112,7 @@ translate chinese v12s1a_failed_timer_def99c38:
 translate chinese v12s1a_failed_timer_d92148cc:
 
     # u "Oh I'm sorry, should I have kindly asked for the bag before or after I got my ass kicked?"
-    u "欧，抱歉。 我应该在被揍之前礼貌的索要这个包？"
+    u "噢，抱歉。 我应该在被揍之前礼貌的索要这个包？"
 
 # game/v12/scene1a.rpy:173
 translate chinese v12s1a_failed_timer_93ff3184:
@@ -202,7 +202,7 @@ translate chinese v12s1a_failed_timer_9d9b3d8b:
 translate chinese v12s1a_failed_timer_8ec4364c:
 
     # imre "I didn't even stop to turn and see. I saw you run and just started running too. You guys just got away from me there for a bit."
-    imre "我都没有停下来看看。我看到你跑了，我就开始跟了。你们刚就在我前面不远。"
+    imre "我都没有停下来看看。我看到你跑了，我就开始跟来了。你们刚就在我前面不远。"
 
 # game/v12/scene1a.rpy:258
 translate chinese v12s1a_failed_timer_621bc555:
@@ -304,7 +304,7 @@ translate chinese v12s1a_failed_timer_bd57b6e5:
 translate chinese v12s1a_failed_timer_055f2b18:
 
     # u "(Rhymes with \"bitch boy?\" Oh...) *Laughs* Charli?"
-    u "(和\"婊子男？\"押韵？欧……)  *笑* 查理？"
+    u "(和\"婊子男？\"押韵？噢……)  *笑* 是查理？"
 
 # game/v12/scene1a.rpy:363
 translate chinese v12s1a_failed_timer_cd02b8b6:
@@ -322,7 +322,7 @@ translate chinese v12s1a_failed_timer_a4b9b526:
 translate chinese v12s1a_failed_timer_e5b839ef:
 
     # no "Oh my God, you actually got my bag!"
-    no "天哪，你居然拿回了我的包！"
+    no "噢，天呐，你们居然拿回了我的包！"
 
 # game/v12/scene1a.rpy:383
 translate chinese v12s1a_failed_timer_31b99011:
@@ -346,7 +346,7 @@ translate chinese v12s1a_failed_timer_83de5a6a:
 translate chinese v12s1a_failed_timer_1d59cae3:
 
     # no "Th-Thank you [name]. That was really sweet of you. This means a lot."
-    no "谢-谢谢你，[name]。你真是太好了。这意味深长。"
+    no "谢……谢谢你，[name]。你真是太好了。这意味深长。"
 
 # game/v12/scene1a.rpy:400
 translate chinese v12s1a_failed_timer_53e81398:
@@ -412,7 +412,7 @@ translate chinese v12s1a_failed_timer_3d97d177:
 translate chinese v12s1a_failed_timer_f19c8b85:
 
     # imre "Only the best fighters on campus. Imre, Imre and Imre. *Laughs*"
-    imre "只有校园里最好的拳击手。伊姆雷，伊姆雷还是伊姆雷。 *笑*"
+    imre "只有校园里最好的拳击手。伊姆雷，伊姆雷还是他妈的伊姆雷。 *笑*"
 
 # game/v12/scene1a.rpy:468
 translate chinese v12s1a_failed_timer_c5bc4b6f:
@@ -442,7 +442,7 @@ translate chinese v12s1a_failed_timer_d786b6e3:
 translate chinese v12s1a_failed_timer_9d6c7bea:
 
     # u "You chased a robber, my guy! A robber! You could've died! *Chuckles*"
-    u "你在追劫匪，我的伙计！一个抢劫犯！你可能会死的！ *咯咯笑*"
+    u "你居然追劫匪，我的伙计！一个抢劫犯！你可能会死的！ *咯咯笑*"
 
 # game/v12/scene1a.rpy:512
 translate chinese v12s1a_failed_timer_f205468e:

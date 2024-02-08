@@ -22,7 +22,7 @@ translate chinese v12_penelope_roof_text_0336fa14:
 translate chinese v12_penelope_roof_text_58e663ab:
 
     # pe "I... Okay. Don't make fun of me, but I'm kinda nervous to be by myself."
-    pe "我……好吧。别取笑我，但我一个人有点紧张。"
+    pe "我……好吧。别取笑我，但我一个人有点儿紧张。"
 
 # game/v12/scene3.rpy:57
 translate chinese v12_penelope_roof_text_aa953a2c:
@@ -82,13 +82,13 @@ translate chinese v12_penelope_roof_text_4d18c26f:
 translate chinese v12_penelope_roof_text_c95fd348:
 
     # pe "I'm here because I got into trouble and you want me to do something silly like this."
-    pe "我来这是因为我惹了麻烦而你想让我做这种傻事。"
+    pe "我来这是因为我惹了麻烦，而你想让我做这种傻事儿。"
 
 # game/v12/scene3.rpy:107
 translate chinese v12_penelope_roof_text_d5b0bfcd:
 
     # u "Well, we could always just go our separate ways and get some sleep."
-    u "我们可以各走各的，然后睡一觉。"
+    u "好吧，我们可以各走各的，然后睡一觉。"
 
 # game/v12/scene3.rpy:112
 translate chinese v12_penelope_roof_text_6581ce28:
@@ -118,7 +118,7 @@ translate chinese v12_penelope_roof_text_f31d55e7:
 translate chinese v12_penelope_roof_text_d6f982bb:
 
     # u "Well, would you look at that..."
-    u "你能看看这个……"
+    u "嗯，你能看看这个……"
 
 # game/v12/scene3.rpy:147
 translate chinese v12_penelope_roof_text_e7c31802:
@@ -154,7 +154,7 @@ translate chinese v12_penelope_roof_text_59dbbf76:
 translate chinese v12_penelope_roof_text_01f25d46:
 
     # u "Oh, nothing. *Chuckles*"
-    u "哦，没什么。 *咯咯笑*"
+    u "噢，没什么。 *咯咯笑*"
 
 # game/v12/scene3.rpy:195
 translate chinese v12_penelope_roof_text_4796ee8c:
@@ -172,7 +172,7 @@ translate chinese v12_penelope_roof_text_f43fc282:
 translate chinese v12_penelope_roof_text_09332657:
 
     # u "What do you mean?"
-    u "什么意思？"
+    u "怎么说？"
 
 # game/v12/scene3.rpy:210
 translate chinese v12_penelope_roof_text_5d69c430:
@@ -196,13 +196,13 @@ translate chinese v12_penelope_roof_text_414abb92:
 translate chinese v12_penelope_roof_text_943672cd:
 
     # pe "Sure, I may have done some bad things before, but I could never do something bad that resulted in someone being a victim."
-    pe "当然，我以前可能做过一些坏事，但我永远不会做导致某人成为受害者的坏事。"
+    pe "当然，我以前可能做过一些坏事儿，但我永远不会做导致某人成为受害者的坏事儿。"
 
 # game/v12/scene3.rpy:230
 translate chinese v12_penelope_roof_text_c9c2317e:
 
     # u "There's only one way to get away from all the bad stuff in the world."
-    u "只有一种方法可以摆脱世界上所有的坏事。"
+    u "只有一种方法可以摆脱世界上所有的坏事儿。"
 
 # game/v12/scene3.rpy:235
 translate chinese v12_penelope_roof_text_1dc9463e:
@@ -310,13 +310,13 @@ translate chinese v12_penelope_roof_text_5888201c:
 translate chinese v12_penelope_roof_text_c5b30f7f:
 
     # u "*Gulp*"
-    u "*大口呼吸*"
+    u "*呼吸*"
 
 # game/v12/scene3.rpy:330
 translate chinese v12_penelope_roof_text_8b621f1e:
 
     # pe "Oh, I wasn't trying to imply anything. *Chuckles* I just think you'd be a really good guy to spend a lifetime with."
-    pe "哦，我不是想暗示什么。 *咯咯笑* 我只是觉得你会是一个可以共度一生的好男人。"
+    pe "噢，我不是想暗示什么。 *咯咯笑* 我只是觉得你会是一个可以共度一生的好男人。"
 
 # game/v12/scene3.rpy:335
 translate chinese v12_penelope_roof_text_5ff3bc04:
@@ -352,13 +352,13 @@ translate chinese v12_penelope_roof_text_15641bec:
 translate chinese v12_penelope_roof_text_d5b4820a:
 
     # pe "*Chuckles* I'll try and remember that."
-    pe "*咯咯笑* 我会努力记住这一点。"
+    pe "*咯咯笑* 我会努力记住这一点的。"
 
 # game/v12/scene3.rpy:386
 translate chinese v12_penelope_roof_text_08de13f9:
 
     # u "I don't know about you, but this wind is making me a little chilly."
-    u "我不知道你怎么样，但是这风让我有点冷。"
+    u "我不知道你怎么样，但是这风让我有点儿冷。"
 
 # game/v12/scene3.rpy:391
 translate chinese v12_penelope_roof_text_ebe51ccc:
@@ -388,13 +388,13 @@ translate chinese v12_penelope_roof_text_4a2c69ab:
 translate chinese v12_penelope_roof_text_1b28a406:
 
     # u "Of course."
-    u "当然。"
+    u "不客气。"
 
 # game/v12/scene3.rpy:441
 translate chinese v12_penelope_roof_text_24db047a:
 
     # pe "I better get to bed, Mr. Lee wants me up early to help with our departure."
-    pe "我最好上床睡觉了，李先生要我早点起床帮助我们离开。"
+    pe "我最好上床睡觉了，李先生要我早点儿起床帮助我们离开。"
 
 # game/v12/scene3.rpy:454
 translate chinese v12_penelope_roof_text_8608e56f:

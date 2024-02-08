@@ -238,7 +238,7 @@ translate chinese v12_slumber_party_b74c9f91:
 translate chinese v12_slumber_party_4116201c:
 
     # imre "Fuck ye- I mean... Yes Mom, Ma'am! I meant, um... Ma'am. Yes, ma'am."
-    imre "妈的当-我是说……是的，妈，女士！我是说，嗯……女士。是的，女士。"
+    imre "妈的当……我是说……是的，妈，女士！我是说，嗯……女士。是的，女士。"
 
 # game/v12/scene18.rpy:286
 translate chinese v12_slumber_party_7d7175f5:
@@ -298,7 +298,7 @@ translate chinese v12_slumber_party_a40da749:
 translate chinese v12s18_bottlespin_2cfb2e83:
 
     # au "Hey [name], come over here and play with us?"
-    au "嘿，[name]，过来和我们一起玩好吗？"
+    au "嘿，[name]，过来和我们一起玩儿好吗？"
 
 # game/v12/scene18.rpy:354
 translate chinese v12s18_bottlespin_c0fa9095:
@@ -1720,7 +1720,7 @@ translate chinese v12s18_bet_bba80a90:
 translate chinese v12s18_bet_4ed75bb6:
 
     # u "(Not with all these girls in here. *Chuckles*)"
-    u "(这里有这么多女孩就不行了。 *咯咯笑* )"
+    u "(这里有这么多女孩就不行了。 *咯咯笑*)"
 
 translate chinese strings:
 

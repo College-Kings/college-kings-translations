@@ -160,7 +160,7 @@ translate chinese v12_amber_bus_e684942f:
 translate chinese v12_amber_bus_9b8ac141:
 
     # am "I just wanna have fun. I just don't think we're a good match, you know? On the ferry we talked about it a little bit, but got interrupted by Mr. Lee."
-    am "我只想找点乐子。我只是不认为我们很配，你知道吗？在渡船上我们谈了一会儿，但被李先生打断了。"
+    am "我只想找点儿乐子。我只是不认为我们很配，你知道吗？在渡船上我们谈了一会儿，但被李先生打断了。"
 
 # game/v12/scene10.rpy:165
 translate chinese v12_amber_bus_be71f740:
@@ -322,7 +322,7 @@ translate chinese v12_amber_bus_ce4d34b1:
 translate chinese v12_amber_bus_d641ecec:
 
     # u "Woah, big words. Was that your word of the day or something? *Chuckles*"
-    u "哇，大词。这是你的今日之词吗？ *咯咯笑*"
+    u "哇，好大的口气。这是你的今日之词吗？ *咯咯笑*"
 
 # game/v12/scene10.rpy:302
 translate chinese v12_amber_bus_f7565f4b:

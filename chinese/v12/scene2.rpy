@@ -28,31 +28,31 @@ translate chinese v12_nora_checks_mc_5daf9a89:
 translate chinese v12_nora_checks_mc_449effb6:
 
     # no "You always jump to do things for me, so I'm not surprised you went after him."
-    no "你总是迫不及待地帮我做事，所以你追上他我一点也不惊讶。"
+    no "你总是迫不及待地帮我做事儿，所以你追上他我一点儿也不惊讶。"
 
 # game/v12/scene2.rpy:55
 translate chinese v12_nora_checks_mc_ae949f39:
 
     # no "You were one of the last people I expected to do something like that for me."
-    no "你是我最没想到会为我做这种事的人之一。"
+    no "你是我最没想到会为我做这种事儿的人之一。"
 
 # game/v12/scene2.rpy:60
 translate chinese v12_nora_checks_mc_e83a127e:
 
     # u "I'm fine, really. I may have taken a few hits, but I'm alright. I planned on doing whatever it took to get it back to you, haha."
-    u "我没事，真的。我可能受了点伤，但我没事。我打算不惜一切代价把它还给你，哈哈。"
+    u "我没事儿，真的。我可能受了点伤，但我没事。我打算不惜一切代价把它还给你，哈哈。"
 
 # game/v12/scene2.rpy:65
 translate chinese v12_nora_checks_mc_6cc031a4:
 
     # no "For someone that just got into an alley fight with a robber from a foreign country, you're in an awfully good mood. *Chuckles* Are you sure you're okay?"
-    no "对于一个刚在巷子里和外国劫匪打架的人来说，你的心态真是太好了。 *笑* 你确定你没事吗？"
+    no "对于一个刚在巷子里和外国劫匪打架的人来说，你的心态真是太好了。 *笑* 你确定你没事儿吗？"
 
 # game/v12/scene2.rpy:70
 translate chinese v12_nora_checks_mc_a26e1311:
 
     # u "I'm fine. *Chuckles*"
-    u "我没事。 *咯咯笑*"
+    u "我没事儿。 *咯咯笑*"
 
 # game/v12/scene2.rpy:85
 translate chinese v12_nora_checks_mc_c7d01873:
@@ -76,13 +76,13 @@ translate chinese v12_nora_checks_mc_613844a5:
 translate chinese v12_nora_checks_mc_c5b30f7f:
 
     # u "*Gulp*"
-    u "*倒吸气*"
+    u "*吸气*"
 
 # game/v12/scene2.rpy:107
 translate chinese v12_nora_checks_mc_7eabd18c:
 
     # no "Hmm, maybe you are fine."
-    no "嗯，也许你没事。"
+    no "嗯，也许你没事儿。"
 
 # game/v12/scene2.rpy:112
 translate chinese v12_nora_checks_mc_a36aebff:
@@ -118,13 +118,13 @@ translate chinese v12_nora_checks_mc_3d84f625:
 translate chinese v12_nora_checks_mc_307980c4:
 
     # u "Sometimes it's about just doing the right thing."
-    u "有时候只是做正确的事。"
+    u "有时候只是做正确的事儿。"
 
 # game/v12/scene2.rpy:144
 translate chinese v12_nora_checks_mc_4c645bb3:
 
     # no "The right thing for me tonight was to make sure I came over here and thanked you."
-    no "今晚对我来说最正确的事就是过来感谢你。"
+    no "今晚对我来说最正确的事儿就是过来感谢你。"
 
 # game/v12/scene2.rpy:149
 translate chinese v12_nora_checks_mc_263f49f0:
@@ -136,7 +136,7 @@ translate chinese v12_nora_checks_mc_263f49f0:
 translate chinese v12_nora_checks_mc_3a9648fe:
 
     # no "I... I really didn't like being surrounded like that after everything that happened."
-    no "发生了那么多事之后，我……我真的不喜欢那么多人关注。"
+    no "发生了那么多事儿之后，我……我真的不喜欢被那么多人关注。"
 
 # game/v12/scene2.rpy:160
 translate chinese v12_nora_checks_mc_071c201c:
@@ -148,7 +148,7 @@ translate chinese v12_nora_checks_mc_071c201c:
 translate chinese v12_nora_checks_mc_f91691c1:
 
     # no "You know... That's the odd thing. When I looked up and you were there, it didn't bother me. I was actually happy you ran over to me."
-    no "你知道的……这很奇怪。当我抬头看到你在的时候，我一点也不介意。其实我很高兴你跑过来找我。"
+    no "你知道的……这很奇怪。当我抬头看到你在的时候，我一点儿也不介意。其实我很高兴你跑过来找我。"
 
 # game/v12/scene2.rpy:166
 translate chinese v12_nora_checks_mc_5d2415a2:
@@ -184,7 +184,7 @@ translate chinese v12_nora_checks_mc_57a7e0d6:
 translate chinese v12_nora_checks_mc_beeb8dda:
 
     # u "I was just-"
-    u "我只是-"
+    u "我只是……"
 
 # game/v12/scene2.rpy:196
 translate chinese v12_nora_checks_mc_4b350b3e:
@@ -238,7 +238,7 @@ translate chinese v12_nora_checks_mc_4c44b547:
 translate chinese v12_nora_checks_mc_18165561:
 
     # u "I was a little surprised with how much interest he's taken in this whole thing. I think his beef with Ryan and the fact that Chris has been so busy, is making him seek a new bromance. *Chuckles*"
-    u "我有点惊讶他对整件事这么感兴趣。我觉得他对瑞恩的不满，加上克里斯一直很忙，让他开始寻找新的兄弟关系。 *咯咯笑*"
+    u "我有点惊讶他对整件事儿这么感兴趣。我觉得他对瑞恩的不满，加上克里斯一直很忙，让他开始寻找新的兄弟关系。 *咯咯笑*"
 
 # game/v12/scene2.rpy:241
 translate chinese v12_nora_checks_mc_e1b1ea29:
@@ -256,7 +256,7 @@ translate chinese v12_nora_checks_mc_3b0d6663:
 translate chinese v12_nora_checks_mc_092e3b24:
 
     # no "*Sighs* It's fine. At least you didn't mean to. Chris is all Charli wants to talk about. He thinks talking about it will make me feel better."
-    no "*叹息* 没事。至少你不是故意的。克里斯是查理最想谈论的话题。他认为谈论这件事会让我感觉好些。"
+    no "*叹息* 没事儿。至少你不是故意的。克里斯是查理最想谈论的话题。他认为谈论这件事会让我感觉好些。"
 
 # game/v12/scene2.rpy:252
 translate chinese v12_nora_checks_mc_7003c231:

@@ -22,13 +22,13 @@ translate chinese v13_start_640c55cc:
 translate chinese v13_start_2057c186:
 
     # ri "*Chuckles*"
-    ri " *咯咯笑* "
+    ri "*咯咯笑*"
 
 # game/v13/scene1.rpy:33
 translate chinese v13_start_1e0e84e1:
 
     # u "What? *Laughs*"
-    u "什么？ *笑* "
+    u "什么？ *笑*"
 
 # game/v13/scene1.rpy:38
 translate chinese v13_start_51ee2fdc:
@@ -58,13 +58,13 @@ translate chinese v13_start_e4f2aa99:
 translate chinese v13_start_cd2098b1:
 
     # ri "While I'm playing decoy, you get to do the dirty work. *Chuckles*"
-    ri "当我在做诱饵的时候，你来做肮脏的工作。 *咯咯笑* "
+    ri "当我在做诱饵的时候，你来做肮脏的工作。 *咯咯笑*"
 
 # game/v13/scene1.rpy:61
 translate chinese v13_start_2e059ea9:
 
     # u "*Laughs* Okay, I'm also enjoying this, but please don't make that face. I can't take you seriously when you do that... *Chuckles*"
-    u " *笑* 好吧，我也很喜欢这个注意，但是请不要做那个表情。当你那样做的时候我可不敢把你当回事…… *咯咯笑* "
+    u "*笑* 好吧，我也很喜欢这个注意，但是请不要做那个表情。当你那样做的时候我可不敢把你当回事…… *咯咯笑* "
 
 # game/v13/scene1.rpy:66
 translate chinese v13_start_302a0e24:
@@ -250,13 +250,13 @@ translate chinese v13_start_2d5b6252:
 translate chinese v13_start_1b28a406:
 
     # u "Of course."
-    u "当然。"
+    u "不客气。"
 
 # game/v13/scene1.rpy:239
 translate chinese v13_start_f049272a:
 
     # u "(Unlimited access to Charli's room... This is gonna be interesting. *Laughs*)"
-    u "(无限制进入查理的房间……这会很有趣的。 *笑* )"
+    u "(无限制进入查理的房间……这会很有趣的。 *笑*)"
 
 translate chinese strings:
 

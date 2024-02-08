@@ -52,7 +52,7 @@ translate chinese v12_chloe_cafe_0bbaa8c4:
 translate chinese v12_chloe_cafe_0a9ea506:
 
     # u "I'm in another country and have no idea what I'm reading half the time. Probably best to just tell them to surprise us. *Laughs*"
-    u "我在另一个国家，有一半的时间不知道我在读什么。最好还是让他们给我们个惊喜。 *笑* "
+    u "我在另一个国家，有一半的时间不知道我在读什么。最好还是让他们给我们个惊喜。 *笑*"
 
 # game/v12/scene14.rpy:86
 translate chinese v12_chloe_cafe_1eba4b42:
@@ -70,7 +70,7 @@ translate chinese v12_chloe_cafe_f0576b40:
 translate chinese v12_chloe_cafe_cf0fbdf4:
 
     # fwait "Bonjour, comment allez-vous?"
-    fwait "你们好，身体好吗？（法语）"
+    fwait "你们好，最近好吗？（法语）"
 
 # game/v12/scene14.rpy:106
 translate chinese v12_chloe_cafe_9ec4c9cb:
@@ -82,7 +82,7 @@ translate chinese v12_chloe_cafe_9ec4c9cb:
 translate chinese v12_chloe_cafe_3cf961a1:
 
     # cl "V-Very good. We um-"
-    cl "很好。我们嗯-"
+    cl "很好。我们嗯……"
 
 # game/v12/scene14.rpy:116
 translate chinese v12_chloe_cafe_4f925068:
@@ -94,7 +94,7 @@ translate chinese v12_chloe_cafe_4f925068:
 translate chinese v12_chloe_cafe_3e21e351:
 
     # cl "Un peu."
-    cl "会一点。（法语）"
+    cl "会一点儿。（法语）"
 
 # game/v12/scene14.rpy:126
 translate chinese v12_chloe_cafe_93512f79:
@@ -118,7 +118,7 @@ translate chinese v12_chloe_cafe_9240e5e6:
 translate chinese v12_chloe_cafe_0446e6ff:
 
     # fwait "Que puis-je faire pour vous?"
-    fwait "我能为你做什么？（法语）"
+    fwait "我能为您做点儿什么？（法语）"
 
 # game/v12/scene14.rpy:146
 translate chinese v12_chloe_cafe_7a6ac15d:
@@ -130,7 +130,7 @@ translate chinese v12_chloe_cafe_7a6ac15d:
 translate chinese v12_chloe_cafe_d5d07445:
 
     # u "And... We found the extent of your French skills. *Laughs*"
-    u "而且……我们知道了你的法语水平。 *笑* "
+    u "现在……我们知道了你的法语水平。 *笑* "
 
 # game/v12/scene14.rpy:156
 translate chinese v12_chloe_cafe_b554b390:
@@ -196,7 +196,7 @@ translate chinese v12_chloe_cafe_732dddbb:
 translate chinese v12_chloe_cafe_45ce2aef:
 
     # fwait "Oh wow! Congrats... That's exciting stuff."
-    fwait "噢，哇！恭喜……这是令人兴奋的事情。"
+    fwait "噢，哇哦！恭喜……这是令人兴奋的事情。"
 
 # game/v12/scene14.rpy:222
 translate chinese v12_chloe_cafe_2b9128b2:

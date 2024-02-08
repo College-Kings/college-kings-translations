@@ -130,7 +130,7 @@ translate chinese v12_escape_room_9cd2ab1b:
 translate chinese v12_escape_room_72e733ca:
 
     # escman "*Dry Tone* Welcome to Escape, do you have a reservation?"
-    escman " *冷淡的语气* 欢迎光临密室逃脱，你们有预订吗？"
+    escman "*冷淡的语气* 欢迎光临密室逃脱，你们有预订吗？"
 
 # game/v12/scene17.rpy:131
 translate chinese v12_escape_room_da7808fb:
@@ -142,7 +142,7 @@ translate chinese v12_escape_room_da7808fb:
 translate chinese v12_escape_room_89cb25cf:
 
     # escman "*Dry Tone* You guys are the students."
-    escman " *冷淡的语气* 你们是学生。"
+    escman "*冷淡的语气* 你们是学生。"
 
 # game/v12/scene17.rpy:141
 translate chinese v12_escape_room_da4b4502:
@@ -154,7 +154,7 @@ translate chinese v12_escape_room_da4b4502:
 translate chinese v12_escape_room_cf3a8cd5:
 
     # escman "*Dry Tone* You're supposed to have the ID of the person that it's booked under."
-    escman " *冷淡语气* 你应该有预订的人的身份证。"
+    escman "*冷淡语气* 你应该有预订的人的身份证。"
 
 # game/v12/scene17.rpy:151
 translate chinese v12_escape_room_e9066d36:
@@ -166,7 +166,7 @@ translate chinese v12_escape_room_e9066d36:
 translate chinese v12_escape_room_de616737:
 
     # escman "*Dry Tone* Are you the birthday girl?"
-    escman " *冷淡的语气* 你是过生日的女孩吗？"
+    escman "*冷淡的语气* 你是过生日的女孩吗？"
 
 # game/v12/scene17.rpy:161
 translate chinese v12_escape_room_0a022258:
@@ -178,7 +178,7 @@ translate chinese v12_escape_room_0a022258:
 translate chinese v12_escape_room_def8c9e6:
 
     # escman "*Dry Tone* What will you find at the end of every rainbow?"
-    escman " *冷淡的语气* 在每一道彩虹的尽头，你会发现什么？"
+    escman "*冷淡的语气* 在每一道彩虹的尽头，你会发现什么？"
 
 # game/v12/scene17.rpy:171
 translate chinese v12_escape_room_76e55460:
@@ -190,19 +190,19 @@ translate chinese v12_escape_room_76e55460:
 translate chinese v12_escape_room_23f051a9:
 
     # escman "*Dry Tone* I said, what will you find at the end of every rainbow?"
-    escman " *冷淡的语气* 我说，在每一道彩虹的尽头，你会发现什么？"
+    escman "*冷淡的语气* 我说，在每一道彩虹的尽头，你会发现什么？"
 
 # game/v12/scene17.rpy:181
 translate chinese v12_escape_room_f9f31df7:
 
     # li "I don't know, a W? Haha, see what I did there guys? *Chuckles*"
-    li "我不知道，一个W？哈哈，看到我做了什么吗？  *咯咯笑* "
+    li "我不知道，一个W？哈哈，看到我做了什么吗？ *咯咯笑* "
 
 # game/v12/scene17.rpy:186
 translate chinese v12_escape_room_f2c2e1da:
 
     # escman "*Dry Tone* That was correct."
-    escman " *冷淡的语气* 回答正确。"
+    escman "*冷淡的语气* 回答正确。"
 
 # game/v12/scene17.rpy:191
 translate chinese v12_escape_room_825e97f7:
@@ -214,7 +214,7 @@ translate chinese v12_escape_room_825e97f7:
 translate chinese v12_escape_room_eb7811d3:
 
     # escman "*Dry Tone* You answered correctly, and your teacher said if you get the answer right, to let you in."
-    escman " *冷淡的语气* 你答对了，你的老师说如果你答对了，就让你们进去。"
+    escman "*冷淡的语气* 你答对了，你的老师说如果你答对了，就让你们进去。"
 
 # game/v12/scene17.rpy:201
 translate chinese v12_escape_room_6b554c2f:
@@ -226,7 +226,7 @@ translate chinese v12_escape_room_6b554c2f:
 translate chinese v12_escape_room_cbe58060:
 
     # escman "*Dry Tone* He said if you got it wrong I was to call him and say you failed, then he would have given you permission."
-    escman " *冷淡的语气* 他说如果你弄错了，我打电话给他说你失败了，那么他会允许你们进去的。"
+    escman "*冷淡的语气* 他说如果你弄错了，我打电话给他说你失败了，那么他会允许你们进去的。"
 
 # game/v12/scene17.rpy:211
 translate chinese v12_escape_room_7ddea605:

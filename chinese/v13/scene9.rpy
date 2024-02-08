@@ -346,7 +346,7 @@ translate chinese v13s9_0d28a341:
 translate chinese v13s9_9d1c29ca:
 
     # u "But we're not there right now. Right now, you and I are trying to enjoy this \"I don't know if I like it or not\" beach."
-    u "但我们现在不在那里。现在，你和我正试着享受这一切\"我不知道我喜不喜欢\"海滩。"
+    u "但我们现在不在那里。现在，你和我正试着享受这\"我不知道我喜不喜欢\"的海滩。"
 
 # game/v13/scene9.rpy:401
 translate chinese v13s9_0e455dd7:

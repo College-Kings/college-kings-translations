@@ -16,5 +16,5 @@ translate chinese v13s5_22f7c7a1_1:
 translate chinese v13s5_ec6d178c:
 
     # u "(That didn't last long. *Chuckles*)"
-    u "(那并没有持续太久。 *咯咯笑* )"
+    u "(那并没有持续太久。 *咯咯笑*)"
 

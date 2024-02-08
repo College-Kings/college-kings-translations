@@ -32,7 +32,7 @@ translate chinese strings:
 
     # game/screens.rpy:640
     old "PAGE {}"
-    new "第{}页"
+    new "PAGE {}"
 
     # game/screens.rpy:640
     old "AUTOMATIC SAVES"

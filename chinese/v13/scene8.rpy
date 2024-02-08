@@ -16,7 +16,7 @@ translate chinese v13s8_2fb7bdb7:
 translate chinese v13s8_d46b1090:
 
     # u "Umm, it's not Chris. It's me, [name]."
-    u "嗯，不是克里斯。是我呀，[name]。"
+    u "嗯，不是克里斯。是我，[name]。"
 
 # game/v13/scene8.rpy:44
 translate chinese v13s8_66ac2ab0:
@@ -448,7 +448,7 @@ translate chinese v13s8_b0eeeca2:
 translate chinese v13s8_1b28a406:
 
     # u "Of course."
-    u "当然。"
+    u "不客气。"
 
 translate chinese strings:
 

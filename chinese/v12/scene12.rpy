@@ -322,7 +322,7 @@ translate chinese v12_room_chloe_riley_9b647c69:
 translate chinese v12_room_chloe_riley_734702f0:
 
     # u "*Laughs* I'm just messing with you. Thought I'd try to hit a nerve..."
-    u "*笑* 我只是在逗你玩。我想我应该试着戳到你的痛处……"
+    u "*笑* 我只是在逗你玩儿。我想我应该试着戳到你的痛处……"
 
 # game/v12/scene12.rpy:340
 translate chinese v12_room_chloe_riley_310c19e6:

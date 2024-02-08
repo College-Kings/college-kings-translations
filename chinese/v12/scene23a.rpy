@@ -4,7 +4,7 @@
 translate chinese v12_mc_chilling_c01866a4:
 
     # u "(I feel like I haven't had any time to just lay back and chill. There's always so-)"
-    u "(我觉得我没有时间躺下来放松一下。总会有这样的-)"
+    u "(我觉得我没有时间躺下来放松一下。总会有这样的……)"
 
 # game/v12/scene23a.rpy:56
 translate chinese v12_mc_chilling_27121c3a:
