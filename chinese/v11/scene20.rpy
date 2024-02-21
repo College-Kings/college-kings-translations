@@ -304,7 +304,7 @@ translate chinese v11_treasure_hunt_8b843840:
 translate chinese v11_treasure_hunt_40ae7edb:
 
     # u "Oh, shit... I'm sorry Riley, I-"
-    u "噢，该死……抱歉，莱莉，我-"
+    u "噢，该死……抱歉，莱莉，我……"
 
 # game/v11/scene20.rpy:351
 translate chinese v11_treasure_hunt_5c0d85d8:
@@ -388,13 +388,13 @@ translate chinese v11_treasure_hunt_81083ef3:
 translate chinese v11_treasure_hunt_7b15cc9a:
 
     # u "*Whispers* \"The chosen ones\"? What's going on here, Riley? *Chuckles*"
-    u "*耳语* \"天选之人\"？这是怎么回事，莱莉？ *咯咯笑*"
+    u "*低语* \"天选之人\"？这是怎么回事，莱莉？ *咯咯笑*"
 
 # game/v11/scene20.rpy:511
 translate chinese v11_treasure_hunt_111dbc2b:
 
     # ri "*Whispers* Haha, hush! *Chuckles* Let's just get the next part of the riddle and get out of here."
-    ri "*耳语* 哈哈，安静！ *咯咯笑* 让我们拿到下一条谜语，然后离开这里。"
+    ri "*低语* 哈哈，安静！ *咯咯笑* 让我们拿到下一条谜语，然后离开这里。"
 
 # game/v11/scene20.rpy:526
 translate chinese v11_treasure_hunt_979a9194:

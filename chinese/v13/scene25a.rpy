@@ -40,7 +40,7 @@ translate chinese v13s25a_e8b11ee2:
 translate chinese v13s25a_f5cd990b:
 
     # u "That's not all we-"
-    u "这不是我们的全部-"
+    u "这不是我们的全部……"
 
 # game/v13/scene25a.rpy:54
 translate chinese v13s25a_7c2f0dd6:
@@ -76,7 +76,7 @@ translate chinese v13s25a_64ea05cc:
 translate chinese v13s25a_62cdbc20:
 
     # kourt "*Grunts* You seriously need some help."
-    kourt " *咕噜声* 你真的需要一些帮助。"
+    kourt "*咕噜声* 你真的需要一些帮助。"
 
 # game/v13/scene25a.rpy:84
 translate chinese v13s25a_f1ffdac8:
@@ -94,7 +94,7 @@ translate chinese v13s25a_58a695ce:
 translate chinese v13s25a_fcbcadd8:
 
     # u "(What a Hothead! I've dealt with worse, but did she seriously have a dildo in there? Well I won't find out now... *Chuckles*)"
-    u "(真是个鲁莽的人！我见过更糟的，但她里面真的有假阴茎吗？好吧，我现在不会发现的…… *咯咯笑* )"
+    u "(真是个鲁莽的人！我见过更糟的，但她里面真的有假阴茎吗？好吧，我现在不会发现的…… *咯咯笑*)"
 
 # game/v13/scene25a.rpy:131
 translate chinese v13s25a_71b90a1f:
@@ -124,7 +124,7 @@ translate chinese v13s25a_7b03c827:
 translate chinese v13s25a_464cf3d0:
 
     # u "I guess I was raised right. *Chuckles*"
-    u "我想我是在正确的环境中长大的。 *咯咯笑* "
+    u "我想我是在正确的环境中长大的。 *咯咯笑*"
 
 # game/v13/scene25a.rpy:156
 translate chinese v13s25a_ff380bb4:
@@ -148,13 +148,13 @@ translate chinese v13s25a_781adfd5:
 translate chinese v13s25a_3107b293:
 
     # u "No, I meant-"
-    u "不，我是说-"
+    u "不，我是说……"
 
 # game/v13/scene25a.rpy:186
 translate chinese v13s25a_b41c13d8:
 
     # kourt "*Laughs* I was just kidding."
-    kourt " *笑* 我只是在开玩笑。"
+    kourt "*笑* 我只是在开玩笑。"
 
 # game/v13/scene25a.rpy:191
 translate chinese v13s25a_0536b7ae:
@@ -214,7 +214,7 @@ translate chinese v13s25a_2d5396da:
 translate chinese v13s25a_145872bb:
 
     # kourt "Sweetie, I'm 28. *Chuckles*"
-    kourt "宝贝，我28岁了。 *咯咯笑* "
+    kourt "宝贝，我28岁了。 *咯咯笑*"
 
 # game/v13/scene25a.rpy:241
 translate chinese v13s25a_88d2dbb1:

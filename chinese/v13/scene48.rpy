@@ -52,7 +52,7 @@ translate chinese v13s48_a7b0fbc6:
 translate chinese v13s48_5b1bd0b0:
 
     # u "*Laughs* You're the expert, not me."
-    u "*笑* 你是专家，不是我。"
+    u "*笑* 你是专家，我不是。"
 
 # game/v13/scene48.rpy:68
 translate chinese v13s48_ddca86d9:
@@ -106,7 +106,7 @@ translate chinese v13s48_efe17af6:
 translate chinese v13s48_4734d11a:
 
     # u "Pfft. Are you ready?"
-    u "呵呵。准备好了吗？"
+    u "切。你准备好了吗？"
 
 # game/v13/scene48.rpy:118
 translate chinese v13s48_40557c11:
@@ -172,13 +172,13 @@ translate chinese v13s48_505a3f68:
 translate chinese v13s48_1db4d94e:
 
     # au "Oh, wow... I might have you do this for me more often."
-    au "噢，哇……我可能会让你多帮我做这件事。"
+    au "噢，哇哦……我可能会让你多帮我做这件事。"
 
 # game/v13/scene48.rpy:218
 translate chinese v13s48_9b9ff171:
 
     # u "No problem. *Chuckles* My regular rate is one fifty a shoot but for you, I'll do seventy-five."
-    u "没问题。*咯咯笑* 我的官方指导价是一次150英镑，但对你来说，我只要75英镑。"
+    u "没问题。*咯咯笑* 我的官方指导价是一次150块，但对你来说，我只要75块。"
 
 # game/v13/scene48.rpy:223
 translate chinese v13s48_6b04dd03:
@@ -196,7 +196,7 @@ translate chinese v13s48_00f9328b:
 translate chinese v13s48_d474734c:
 
     # au "Well, that was the \"need you to do something\" part, but now it's time for the \"hang out with you\" part. *Laughs*"
-    au "嗯，那就是\"我需要你做点什么\"部分，但现在是时候到\"和你一起闲逛\"部分了。 *笑*"
+    au "嗯，那就是\"我需要你做点儿什么\"部分，但现在是时候到了\"和你一起亲热\"的部分了。 *笑*"
 
 # game/v13/scene48.rpy:238
 translate chinese v13s48_2b5d5270:
@@ -208,7 +208,7 @@ translate chinese v13s48_2b5d5270:
 translate chinese v13s48_af03c391:
 
     # au "Get in my bikini and tell you to meet me at the beach."
-    au "穿上我的比基尼告诉你在海滩等我。"
+    au "穿上我的比基尼，告诉你在海滩等我。"
 
 # game/v13/scene48.rpy:245
 translate chinese v13s48_c88e438b:
@@ -304,7 +304,7 @@ translate chinese v13s48_a208dfd1:
 translate chinese v13s48_e2bae14e:
 
     # au "Like I said, my childhood was pretty basic. I had both parents, a suburban home, an older sister, I did cheerleading... Super basic stuff."
-    au "就像我说的，我的童年很普通。我和我父母，住在郊区，有个姐姐，我当过啦啦队……超基本的东西。"
+    au "就像我说的，我的童年很普通。我和我父母，住在郊区，有个姐姐，我当过啦啦队……很基础的东西。"
 
 # game/v13/scene48.rpy:332
 translate chinese v13s48_706daf30:
@@ -334,7 +334,7 @@ translate chinese v13s48_a41e0260:
 translate chinese v13s48_04a9b591:
 
     # au "You mean like, while I was in school?"
-    au "你是说，我在学校的时候？"
+    au "你是说，我在原来学校的时候？"
 
 # game/v13/scene48.rpy:357
 translate chinese v13s48_505a3f68_1:
@@ -358,7 +358,7 @@ translate chinese v13s48_134a71f9:
 translate chinese v13s48_29e6edb1:
 
     # au "No wait, wait... I was good at PE."
-    au "不，等等，等等……我擅长PE。"
+    au "不，等等，等等……我原来擅长PE。"
 
 # game/v13/scene48.rpy:377
 translate chinese v13s48_1e9a076d:
@@ -412,7 +412,7 @@ translate chinese v13s48_028f438f:
 translate chinese v13s48_45523f68:
 
     # u "Phy-"
-    u "体-"
+    u "体……"
 
 # game/v13/scene48.rpy:422
 translate chinese v13s48_6e334c13:
@@ -526,7 +526,7 @@ translate chinese v13s48_533877a5:
 translate chinese v13s48_44b80c48:
 
     # u "That's kinda surprising with her being so new compared to Chloe, right?"
-    u "和克洛伊相比她是新来的有点让人惊讶，对吧？"
+    u "和克洛伊相比她是年轻人，有点让人惊讶，对吧？"
 
 # game/v13/scene48.rpy:508
 translate chinese v13s48_87252147:
@@ -568,7 +568,7 @@ translate chinese v13s48_afe2a64c:
 translate chinese v13s48_0d310688:
 
     # au "Oka-"
-    au "好吧-"
+    au "好吧……"
 
 # game/v13/scene48.rpy:554
 translate chinese v13s48_8bfd42e2:
@@ -652,7 +652,7 @@ translate chinese v13s48_1cfa81ac:
 translate chinese v13s48_e0587502:
 
     # u "Canoeing, and then maybe a little picnic."
-    u "划独木舟，然后可能去野餐。"
+    u "划独木舟，然后可能去吃个野餐。"
 
 # game/v13/scene48.rpy:634
 translate chinese v13s48_fb3a5a7c:
@@ -670,7 +670,7 @@ translate chinese v13s48_3e345047:
 translate chinese v13s48_b1ba02ab:
 
     # u "I meant it as friends."
-    u "我是以朋友的身份说的。"
+    u "我是以朋友的身份做的。"
 
 # game/v13/scene48.rpy:651
 translate chinese v13s48_21cf6980:
@@ -772,7 +772,7 @@ translate chinese v13s48_f9691f0d:
 translate chinese v13s48_1298095a:
 
     # u "Yeah man, I'm not feeling too comfortable about it."
-    u "是啊，伙计，我觉得不太舒服。"
+    u "好吧，伙计，我觉得不太舒服。"
 
 # game/v13/scene48.rpy:751
 translate chinese v13s48_277a26b7:
@@ -802,7 +802,7 @@ translate chinese v13s48_44918a53:
 translate chinese v13s48_466b1bb2:
 
     # au "I am, yeah. I'm kinda starting to get cold. *Chuckles*"
-    au "是的，我是。我有点冷了。 *咯咯笑*"
+    au "是的。我有点冷了。 *咯咯笑*"
 
 # game/v13/scene48.rpy:776
 translate chinese v13s48_ef985377:

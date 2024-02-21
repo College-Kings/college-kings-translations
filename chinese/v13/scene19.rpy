@@ -10,13 +10,13 @@ translate chinese v13s19_74bf3814:
 translate chinese v13s19_c47c2d16:
 
     # u "*Chuckles* Talking about Charli?"
-    u " *咯咯笑* 谈论查理？"
+    u "*咯咯笑* 谈论查理？"
 
 # game/v13/scene19.rpy:27
 translate chinese v13s19_e587bfdd:
 
     # ri "*Chuckles* You know it! C'mon."
-    ri " *咯咯笑* 你知道的！来吧。"
+    ri "*咯咯笑* 你知道的！来吧。"
 
 # game/v13/scene19.rpy:37
 translate chinese v13s19_f1f1b41e:
@@ -34,7 +34,7 @@ translate chinese v13s19_5ef7f0d8:
 translate chinese v13s19_788bc90d:
 
     # ri "Exactly. *Chuckles*"
-    ri "是的。 *咯咯笑* "
+    ri "是的。 *咯咯笑*"
 
 # game/v13/scene19.rpy:67
 translate chinese v13s19_375b2e4d:
@@ -52,7 +52,7 @@ translate chinese v13s19_ce3a0e0c:
 translate chinese v13s19_89fda55f:
 
     # ri "Gotta give props to our favorite little hacker... *Chuckles*"
-    ri "要给我们最喜欢的小黑客点个赞…… *咯咯笑* "
+    ri "要给我们最喜欢的小黑客点个赞…… *咯咯笑*"
 
 # game/v13/scene19.rpy:88
 translate chinese v13s19_51a9ec6f:
@@ -76,7 +76,7 @@ translate chinese v13s19_4dd7baaa:
 translate chinese v13s19_77eab3c9:
 
     # ri "Bingo! We're in, baby!"
-    ri "对啰！我们进去了，宝贝！"
+    ri "对啰！我们进去了，宝贝儿！"
 
 # game/v13/scene19.rpy:112
 translate chinese v13s19_21b87474:
@@ -88,7 +88,7 @@ translate chinese v13s19_21b87474:
 translate chinese v13s19_a89a65e7:
 
     # u "Wow, you got this all worked out, huh?"
-    u "哇，你都计划好了，是吧？"
+    u "哇哦，你都计划好了，是吧？"
 
 # game/v13/scene19.rpy:122
 translate chinese v13s19_4d908746:
@@ -106,7 +106,7 @@ translate chinese v13s19_83be499a:
 translate chinese v13s19_eccbeb12:
 
     # ri "*Chuckles* Thank you..."
-    ri " *咯咯笑* 谢谢……"
+    ri "*咯咯笑* 谢谢……"
 
 # game/v13/scene19.rpy:143
 translate chinese v13s19_569cb78c:

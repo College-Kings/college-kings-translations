@@ -52,7 +52,7 @@ translate chinese v13s41_f136889d:
 translate chinese v13s41_fb8c7195:
 
     # li "I'm in my room at the hotel. You?"
-    li "我在酒店的房间里。你？"
+    li "我在酒店的房间里。你呢？"
 
 # game/v13/scene41.rpy:57
 translate chinese v13s41_d5d9d53c:
@@ -124,7 +124,7 @@ translate chinese v13s41_0131ecab:
 translate chinese v13s41_62044451:
 
     # u "Wow... Nobody's here."
-    u "哇噢……这里没人。"
+    u "哇哦……这里没人。"
 
 # game/v13/scene41.rpy:150
 translate chinese v13s41_04c6ef40:
@@ -172,7 +172,7 @@ translate chinese v13s41_d8a71c1a:
 translate chinese v13s41_f0753585:
 
     # u "Correct me if I'm wrong, but aren't you the asshole that catfishes people at the bar a few blocks from here?"
-    u "如果我说错了请指正，但你不就是那个在几个街区外的酒吧里钓鱼的混蛋吗？"
+    u "如果我说错了请指正，但你不就是那个在几个街区外的酒吧里骗人的混蛋吗？"
 
 # game/v13/scene41.rpy:190
 translate chinese v13s41_9d1288ec:
@@ -190,7 +190,7 @@ translate chinese v13s41_eb018c8b:
 translate chinese v13s41_d4e297cb:
 
     # ash "I do."
-    ash "我是。"
+    ash "是的。"
 
 # game/v13/scene41.rpy:205
 translate chinese v13s41_6d9af206:
@@ -214,7 +214,7 @@ translate chinese v13s41_7b1c1392:
 translate chinese v13s41_d66766a1:
 
     # ash "*Gulp* I'll get it running. Just uh, take a seat on the ride."
-    ash "*吞咽* 我会把它启动的。在车上坐下吧。"
+    ash "*吞口水* 我会把它启动的。在车上坐下吧。"
 
 # game/v13/scene41.rpy:225
 translate chinese v13s41_1a5beab6:
@@ -550,7 +550,7 @@ translate chinese v13s41_dd9ec666:
 translate chinese v13s41_0987c127:
 
     # u "Of course it is. *Chuckles*"
-    u "它当然是的。 *咯咯笑* "
+    u "它当然是的。 *咯咯笑*"
 
 # game/v13/scene41.rpy:572
 translate chinese v13s41_3293d9ee:
@@ -604,7 +604,7 @@ translate chinese v13s41_2955aacb:
 translate chinese v13s41_6e116e14:
 
     # u "Let's go, Linds."
-    u "我们走，林。"
+    u "我们走吧，林。"
 
 # game/v13/scene41.rpy:632
 translate chinese v13s41_b1b44b26:

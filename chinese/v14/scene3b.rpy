@@ -10,19 +10,19 @@ translate chinese v14s03b_30a0841f:
 translate chinese v14s03b_2c1c965c:
 
     # u "*Whispers* Damn dude!"
-    u " *低语* 该死的伙计！"
+    u "*低语* 该死的伙计！"
 
 # game/v14/scene3b.rpy:22
 translate chinese v14s03b_c1af5f10:
 
     # imre "*Laughs* Catch you guys later."
-    imre " *笑* 待会儿见。"
+    imre "*笑* 待会儿见。"
 
 # game/v14/scene3b.rpy:27
 translate chinese v14s03b_faa11962:
 
     # u "Wait, Imre... Aren't you-"
-    u "等等，伊姆雷……你不是-"
+    u "等等，伊姆雷……你不是……"
 
 # game/v14/scene3b.rpy:32
 translate chinese v14s03b_a79c7c23:
@@ -46,7 +46,7 @@ translate chinese v14s03b_6bcd435f:
 translate chinese v14s03b_94afea75:
 
     # ry "*Whispers* Come here, get closer."
-    ry " *低语* 过来，靠近一点。"
+    ry "*低语* 过来，靠近一点。"
 
 # game/v14/scene3b.rpy:52
 translate chinese v14s03b_95826d78:
@@ -88,7 +88,7 @@ translate chinese v14s03b_ebf2444c:
 translate chinese v14s03b_4f784171:
 
     # u "*Chuckles* Yeah, kinda. A hotel for three minutes to an hour, depending on the type of man you are."
-    u " *咯咯笑* 是的，有点。住三分钟到一个小时的酒店，这取决于你是哪种类型的男人。"
+    u "*咯咯笑* 是的，有点儿。住三分钟到一个小时的酒店，这取决于你是哪种类型的男人。"
 
 # game/v14/scene3b.rpy:83
 translate chinese v14s03b_589a2b42:
@@ -100,7 +100,7 @@ translate chinese v14s03b_589a2b42:
 translate chinese v14s03b_3f09240f:
 
     # u "Bro, it's a brothel. You thought we'd come to the Red Light District without stopping here? Imre wouldn't miss out on a chance like this. *Laughs*"
-    u "兄弟，这是妓院。你认为我们来这里的红灯区不停停看吗？伊姆雷不会错过这样的机会。 *笑* "
+    u "兄弟，这是妓院。你认为我们来这里的红灯区不停停看吗？伊姆雷不会错过这样的机会。 *笑*"
 
 # game/v14/scene3b.rpy:93
 translate chinese v14s03b_d30ba2e8:
@@ -112,13 +112,13 @@ translate chinese v14s03b_d30ba2e8:
 translate chinese v14s03b_572eefa6:
 
     # u "Yeah... I'm kinda shocked at how vanilla you are when it comes to all of this. *Chuckles*"
-    u "是啊……当涉及到这一切的时候，我有点惊讶于你是如此的香草。*咯咯笑* "
+    u "是啊……当涉及到这一切的时候，我有点惊讶于你是如此的香草。*咯咯笑*"
 
 # game/v14/scene3b.rpy:103
 translate chinese v14s03b_b0c06684:
 
     # ry "Well, my name's Ryan. Not Imre."
-    ry "我叫瑞恩。不是伊姆雷。"
+    ry "好吧，我叫瑞恩。不是伊姆雷。"
 
 # game/v14/scene3b.rpy:108
 translate chinese v14s03b_288e8153:
@@ -154,7 +154,7 @@ translate chinese v14s03b_a813e760:
 translate chinese v14s03b_609e1a23:
 
     # ry "*Sighs* I'm a virgin."
-    ry " *叹息* 我是个雏儿。"
+    ry "*叹息* 我是个雏儿。"
 
 # game/v14/scene3b.rpy:144
 translate chinese v14s03b_26038eaf:
@@ -166,13 +166,13 @@ translate chinese v14s03b_26038eaf:
 translate chinese v14s03b_fcc18885:
 
     # u "*Laughs*"
-    u " *笑* "
+    u "*笑*"
 
 # game/v14/scene3b.rpy:155
 translate chinese v14s03b_7871cffb:
 
     # ry "*Whispers* Don't laugh!"
-    ry " *低语* 不要笑！"
+    ry "*低语* 不要笑！"
 
 # game/v14/scene3b.rpy:160
 translate chinese v14s03b_c96f7789:
@@ -202,7 +202,7 @@ translate chinese v14s03b_0c05be82:
 translate chinese v14s03b_9eafdd5a:
 
     # ry "Look, I guess I'm just... I'm a little nervous."
-    ry "听着，我想我只是……我有点紧张。"
+    ry "听着，我想我只是……我有点儿紧张。"
 
 # game/v14/scene3b.rpy:191
 translate chinese v14s03b_31f79584:
@@ -214,7 +214,7 @@ translate chinese v14s03b_31f79584:
 translate chinese v14s03b_2f3b3b19:
 
     # ry "*Whispers* Sex!"
-    ry " *低语* 性爱！"
+    ry "*低语* 性爱！"
 
 # game/v14/scene3b.rpy:201
 translate chinese v14s03b_1a7f292f:
@@ -292,13 +292,13 @@ translate chinese v14s03b_c8f2cbfa:
 translate chinese v14s03b_58c09294:
 
     # ry "*Sighs* I don't know how to feel at this point."
-    ry " *叹息* 我不知道在这一点上是什么感觉。"
+    ry "*叹息* 我不知道在这一点上是什么感觉。"
 
 # game/v14/scene3b.rpy:270
 translate chinese v14s03b_e9e27e8a:
 
     # emerald "Hey boys... You two sure are handsome. *Chuckles*"
-    emerald "嘿，孩子们……你们两个真的很帅。 *咯咯笑* "
+    emerald "嘿，孩子们……你们两个真的很帅。 *咯咯笑*"
 
 # game/v14/scene3b.rpy:275
 translate chinese v14s03b_3038dcfe:
@@ -316,7 +316,7 @@ translate chinese v14s03b_346691b2:
 translate chinese v14s03b_97a80eff:
 
     # u "Thank you, you-"
-    u "谢谢你，你-"
+    u "谢谢你，你……"
 
 # game/v14/scene3b.rpy:287
 translate chinese v14s03b_408c1314:
@@ -340,7 +340,7 @@ translate chinese v14s03b_923808a3:
 translate chinese v14s03b_076c32ae:
 
     # ry "Hey [name], would you mind-"
-    ry "嘿，[name]，你介意-"
+    ry "嘿，[name]，你介意……"
 
 # game/v14/scene3b.rpy:307
 translate chinese v14s03b_a821e64a:
@@ -352,7 +352,7 @@ translate chinese v14s03b_a821e64a:
 translate chinese v14s03b_d2fd5691:
 
     # ry "*Chuckles* Thanks man."
-    ry " *咯咯笑* 谢谢，伙计。"
+    ry "*咯咯笑* 谢谢，伙计。"
 
 translate chinese strings:
 

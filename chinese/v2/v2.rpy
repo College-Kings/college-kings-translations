@@ -4,13 +4,13 @@
 translate chinese v2start_1bba6b51:
 
     # cl "*Muffled* Why did you do that?! We were just talking!"
-    cl " *闷闷不乐* 你为什么要这么做？！我们只是在聊天！"
+    cl " *闷闷不乐* 你为什么要这么做？！我们只是在聊天儿！"
 
 # game/v2/v2.rpy:90
 translate chinese v2start_c3b1a1ef:
 
     # ry "*Muffled* [name]?! Are you okay??"
-    ry " *消沉* [name]？！你没事吧？？"
+    ry " *消沉* [name]？！你没事儿吧？？"
 
 # game/v2/v2.rpy:99
 translate chinese v2start_cb54d010:
@@ -154,7 +154,7 @@ translate chinese repeatb_b7c5def3:
 translate chinese repeatb_1ee1e1aa:
 
     # u "(Maybe taking a walk will relax me.)"
-    u "(也许散散步会能我放松。)"
+    u "(也许散散步会能让我放松。)"
 
 # game/v2/v2.rpy:240
 translate chinese walk1_5d38ae25:
@@ -190,7 +190,7 @@ translate chinese walk1_ae5cc9c0:
 translate chinese walk1_4b258b6b:
 
     # tom "Eyy, Mr. steal-your-girl got beaten up. *laughs*"
-    tom "哎，偷女朋友先生被打了。 *笑* "
+    tom "哎，偷女朋友先生被打了。 *笑*"
 
 # game/v2/v2.rpy:260
 translate chinese walk1_50708946:
@@ -466,7 +466,7 @@ translate chinese meet_lauren2_d4b73dc2_2:
 translate chinese meet_lauren2_e6b1bdd2:
 
     # la "Heyyy-"
-    la "嘿-"
+    la "嘿……"
 
 # game/v2/v2.rpy:1130
 translate chinese meet_lauren2_379acf5e:
@@ -634,7 +634,7 @@ translate chinese meet_lauren2_616ab277:
 translate chinese meet_lauren2_577bd505:
 
     # u "Lauren, please... give me a chance."
-    u "劳伦，求求你……给我个机会。"
+    u "劳伦，求求你……给我个机会吧。"
 
 # game/v2/v2.rpy:1269
 translate chinese meet_lauren2_c73b9d6b:
@@ -754,13 +754,13 @@ translate chinese meet_lauren2_e6b07d44:
 translate chinese history2_0306743c:
 
     # u "(Time to sit through another boring ass lecture.)"
-    u "(是时候坐下来听另一个无聊的狗屁讲座了。)"
+    u "(是时候坐下来听另一场无聊的狗屁讲座了。)"
 
 # game/v2/v2.rpy:1377
 translate chinese history2_4329feeb:
 
     # imre "Hey man, about earlier, I-"
-    imre "嘿，伙计，关于早些时候，我-"
+    imre "嘿，伙计，关于早些时候，我……"
 
 # game/v2/v2.rpy:1383
 translate chinese history2_3ebb916e:
@@ -970,7 +970,7 @@ translate chinese nextsceneo_58eff7c4:
 translate chinese nextsceneo_aaf1e329:
 
     # lee "Even though it is unfathomable to me how you could actively try to avoid the most exciting subject in the world..."
-    lee "尽管我无法理解你怎么能积极地回避世界上最令人兴奋的话题……"
+    lee "尽管我无法理解你们怎么能积极地回避世界上最令人兴奋的话题……"
 
 # game/v2/v2.rpy:1542
 translate chinese nextsceneo_cba6747b:
@@ -1006,13 +1006,13 @@ translate chinese nextsceneo_cc2072c5:
 translate chinese nextsceneo_afc5bc9d:
 
     # imre "*Whispers* What is he talking about??"
-    imre " *低语* 他在说什么鬼？？"
+    imre "*低语* 他在说什么鬼？？"
 
 # game/v2/v2.rpy:1569
 translate chinese nextsceneo_9c2212ed:
 
     # u "*Whispers* I don't know."
-    u " *低语* 我不知道。"
+    u "*低语* 我也不知道。"
 
 # game/v2/v2.rpy:1574
 translate chinese nextsceneo_6d78d111:
@@ -1132,7 +1132,7 @@ translate chinese nextsceneo_9f78718a:
 translate chinese nextsceneo_bd395da8:
 
     # u "Then why are you-"
-    u "那你为什么-"
+    u "那你为什么……"
 
 # game/v2/v2.rpy:1680
 translate chinese nextsceneo_fdbce207:
@@ -1240,7 +1240,7 @@ translate chinese nextsceneo_38842db1:
 translate chinese nextsceneo_0038c3f0:
 
     # u "Emily, we're not-"
-    u "艾米丽，我们不是-"
+    u "艾米丽，我们不是……"
 
 # game/v2/v2.rpy:1768
 translate chinese nextsceneo_79913920:
@@ -1264,7 +1264,7 @@ translate chinese nextsceneo_377de940:
 translate chinese nextsceneo_d1f7d7f9:
 
     # u "What? I didn't even-"
-    u "什么？我甚至还没-"
+    u "什么？我甚至还没……"
 
 # game/v2/v2.rpy:1782
 translate chinese nextsceneo_62b194d4:
@@ -1276,7 +1276,7 @@ translate chinese nextsceneo_62b194d4:
 translate chinese nextsceneo_bba611ad:
 
     # em "Come on, let's-"
-    em "来吧，让我们-"
+    em "来吧，让我们……"
 
 # game/v2/v2.rpy:1792
 translate chinese nextsceneo_24ff09d8:
@@ -1378,7 +1378,7 @@ translate chinese bo_ad_912bf9be:
 translate chinese bo_ad_821b0bf4:
 
     # em "Oh... okay. That's- that's good. You should tell her stuff like this."
-    em "噢……好吧。那-那很好。你应该告诉她这种事情。"
+    em "噢……好吧。那……那很好。你应该告诉她这种事情。"
 
 # game/v2/v2.rpy:1898
 translate chinese bo_ad_cc8c914a:
@@ -1618,7 +1618,7 @@ translate chinese bq_bd_7a9562a5:
 translate chinese bq_bd_1051b39e:
 
     # u "Just - just stay away from her, okay?"
-    u "只要-只要离她远点，好吗？"
+    u "只要……只要离她远点儿，好吗？"
 
 # game/v2/v2.rpy:2129
 translate chinese bq_bd_3afbede2:
@@ -1696,7 +1696,7 @@ translate chinese br_bd_bc513adc:
 translate chinese br_bd_fb7ee5e1:
 
     # em "Haha, he is kinda cute."
-    em "哈哈，他有点可爱。"
+    em "哈哈，他有点儿可爱。"
 
 # game/v2/v2.rpy:2191
 translate chinese br_bd_4174c731:
@@ -1894,7 +1894,7 @@ translate chinese repeatc_dfbd0821:
 translate chinese repeatc_029469d6:
 
     # pe "I- I know you-"
-    pe "我-我认识你-"
+    pe "我……我认识你……"
 
 # game/v2/v2.rpy:2354
 translate chinese repeatc_3c4681a3:
@@ -1942,7 +1942,7 @@ translate chinese repeatc_0e69188c:
 translate chinese repeatc_8046f99c:
 
     # u "Uhm, okay so-"
-    u "嗯，好吧-"
+    u "嗯，好吧……"
 
 # game/v2/v2.rpy:2390
 translate chinese repeatc_8b6bda4f:
@@ -1954,7 +1954,7 @@ translate chinese repeatc_8b6bda4f:
 translate chinese repeatc_c40fb6f1:
 
     # u "Well you're not-"
-    u "额，你不是-"
+    u "额，你不是……"
 
 # game/v2/v2.rpy:2400
 translate chinese repeatc_19c16b65:
@@ -1966,7 +1966,7 @@ translate chinese repeatc_19c16b65:
 translate chinese repeatc_0fb938bb:
 
     # u "Okay... I'm [name] and-"
-    u "好吧……我叫[name]然后-"
+    u "好吧……我叫[name]，然后……"
 
 # game/v2/v2.rpy:2410
 translate chinese repeatc_b60f3409:
@@ -2032,7 +2032,7 @@ translate chinese repeatc_5f653432:
 translate chinese repeatc_8e02afde:
 
     # pe "I mean they don't really talk to each other since the divorce and it's like-"
-    pe "我是说他们离婚后就不说话了，就像-"
+    pe "我是说他们离婚后就不说话了，就像……"
 
 # game/v2/v2.rpy:2455
 translate chinese repeatc_2bec789e:
@@ -3184,7 +3184,7 @@ translate chinese v2_nsfwSkipLabel6_22984668:
 translate chinese v2_nsfwSkipLabel6_89e51cb4:
 
     # u "What?? I considered cowboy to be a serious career path for me after I saw myself in this outfit."
-    u "什么? ?当我看到自己穿上这身行头后，我认为牛仔是我的梦想。"
+    u "什么？？当我看到自己穿上这身行头后，我认为牛仔是我的梦想。"
 
 # game/v2/v2.rpy:3618
 translate chinese v2_nsfwSkipLabel6_e93cf270:

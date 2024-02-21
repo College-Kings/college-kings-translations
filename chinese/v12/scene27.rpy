@@ -88,7 +88,7 @@ translate chinese v12s27_0c4ae768:
 translate chinese v12s27_d7dbe971:
 
     # u "*Chuckles* Yeah, dude."
-    u " *咯咯笑* 是的，伙计。"
+    u "*咯咯笑* 是的，伙计。"
 
 # game/v12/scene27.rpy:88
 translate chinese v12s27_a0dcb0b0:
@@ -106,7 +106,7 @@ translate chinese v12s27_01dae9ff:
 translate chinese v12s27_dd58249e:
 
     # imre "Yeah, I saw it yesterday. That's the only reason I thought of it. *Chuckles*"
-    imre "是的，我昨天看到了。这是我想到它的唯一原因。 *咯咯笑* "
+    imre "是的，我昨天看到了。这是我想到它的唯一原因。 *咯咯笑*"
 
 # game/v12/scene27.rpy:106
 translate chinese v12s27_c34e09f7:
@@ -124,13 +124,13 @@ translate chinese v12s27_d1703716:
 translate chinese v12s27_cb5d9944:
 
     # u "*Laughs* Nope. Guess we'll find out when we get there."
-    u " *笑* 不知道。我想等我们到了那里就知道了。"
+    u "*笑* 不知道。我想等我们到了那里就知道了。"
 
 # game/v12/scene27.rpy:121
 translate chinese v12s27_a8ba76a7:
 
     # imre "*Chuckles* Guess so!"
-    imre " *咯咯笑* 我想是的！"
+    imre "*咯咯笑* 我想是的！"
 
 # game/v12/scene27.rpy:134
 translate chinese v12s27_807ffe33:
@@ -178,13 +178,13 @@ translate chinese v12s27_2105cf8e:
 translate chinese v12s27_143544d3:
 
     # u "We actually have no idea what we want. *Laughs*"
-    u "我们实际上不知道我们想要什么。 *笑* "
+    u "我们实际上不知道我们想要什么。 *笑*"
 
 # game/v12/scene27.rpy:174
 translate chinese v12s27_7214cf23:
 
     # tattoo "*Chuckles* I see, well, let's start with why you want a tattoo."
-    tattoo " *咯咯笑* 我明白了，好吧，让我们从你们为什么想要纹身开始吧。"
+    tattoo "*咯咯笑* 我明白了，好吧，让我们从你们为什么想要纹身开始吧。"
 
 # game/v12/scene27.rpy:179
 translate chinese v12s27_f8a4ee31:
@@ -232,7 +232,7 @@ translate chinese v12s27_797b0b13:
 translate chinese v12s27_69ba9f04:
 
     # u "What the fuck, I don't even get a choice? *Chuckles*"
-    u "搞什么，我都没得选吗？ *咯咯笑* "
+    u "搞什么，我都没得选吗？ *咯咯笑*"
 
 # game/v12/scene27.rpy:215
 translate chinese v12s27_90a3404c:
@@ -244,7 +244,7 @@ translate chinese v12s27_90a3404c:
 translate chinese v12s27_99cd03f8:
 
     # u "Alright then, guess that's what we'll do. *Chuckles*"
-    u "好吧，那我们就这么办吧。 *咯咯笑* "
+    u "好吧，那我们就这么办吧。 *咯咯笑*"
 
 # game/v12/scene27.rpy:225
 translate chinese v12s27_e3536f95:
@@ -268,7 +268,7 @@ translate chinese v12s27_974c5ea8:
 translate chinese v12s27_2d2fb097:
 
     # u "He drinks a lot. *Chuckles*"
-    u "他喝了很多酒。 *咯咯笑* "
+    u "他喝了很多酒。 *咯咯笑*"
 
 # game/v12/scene27.rpy:245
 translate chinese v12s27_af85f330:
@@ -310,7 +310,7 @@ translate chinese v12s27_059c037b:
 translate chinese v12s27_66d0c4a9:
 
     # u "*Laughs* Don't be mad at me just because I'm Mr. Lee's favorite and you're not."
-    u " *笑* 别因为我是李先生的最爱，而你不是，就生我的气。"
+    u "*笑* 别因为我是李先生的最爱，而你不是，就生我的气。"
 
 # game/v12/scene27.rpy:274
 translate chinese v12s27_c74423ac:
@@ -322,7 +322,7 @@ translate chinese v12s27_c74423ac:
 translate chinese v12s27_ff73d477:
 
     # u "I wouldn't go with teacher's-"
-    u "我不会同意老师的-"
+    u "我不会同意老师的……"
 
 # game/v12/scene27.rpy:284
 translate chinese v12s27_b387eefa:
@@ -520,7 +520,7 @@ translate chinese v12s27_9b0ad2cf:
 translate chinese v12s27_f802e1ac:
 
     # u "Yeah. Plus, it comes with an awesome story. *Chuckles*"
-    u "嗯。另外，它还有一个很棒的故事。 *咯咯笑* "
+    u "嗯。另外，它还有一个很棒的故事。 *咯咯笑*"
 
 # game/v12/scene27.rpy:460
 translate chinese v12s27_4ba6546c:
@@ -556,7 +556,7 @@ translate chinese v12s27_999344ac:
 translate chinese v12s27_8ccabc29:
 
     # u "*Chuckles* Okay."
-    u " *咯咯笑* 好的。"
+    u "*咯咯笑* 好的。"
 
 # game/v12/scene27.rpy:488
 translate chinese v12s27_5c1614e5:
@@ -586,7 +586,7 @@ translate chinese v12s27_a2b57b46:
 translate chinese v12s27_816c1afe:
 
     # u "Just give it time man, give it time. *Chuckles*"
-    u "给它点时间，伙计，给它点时间。 *咯咯笑* "
+    u "给它点时间，伙计，给它点时间。 *咯咯笑*"
 
 # game/v12/scene27.rpy:513
 translate chinese v12s27_63245ff7:

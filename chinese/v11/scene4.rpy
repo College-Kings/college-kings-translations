@@ -112,7 +112,7 @@ translate chinese v11s4_PhoneContinueEmily1_0f993ef4:
 translate chinese v11s4_PhoneContinueEmily1_c9c77364:
 
     # u "Ugh, obviously your mind is made up."
-    u "呃显然你已经下定决心了。"
+    u "呃，显然你已经下定决心了。"
 
 # game/v11/scene4.rpy:164
 translate chinese v11s4_PhoneContinueEmily1_034de290:

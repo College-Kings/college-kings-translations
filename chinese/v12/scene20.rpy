@@ -100,7 +100,7 @@ translate chinese v12_urban_exploring_388cf653:
 translate chinese v12_urban_exploring_cb2eb4ac:
 
     # au "I never say no to a challenge, babe."
-    au "我从不对挑战说不，宝贝。"
+    au "我从不对挑战说不，宝贝儿。"
 
 # game/v12/scene20.rpy:100
 translate chinese v12_urban_exploring_42da43cb:

@@ -4,13 +4,13 @@
 translate chinese v13s34_d28276ac:
 
     # clipps "Welcome, welcome! My name is Clipps, how can I help you?"
-    clipps "欢迎，欢迎！我叫克利普斯，有什么可以帮您的吗？"
+    clipps "欢迎，欢迎！我叫克利普斯，有什么可以帮你们的吗？"
 
 # game/v13/scene34.rpy:22
 translate chinese v13s34_73359e23:
 
     # u "*Sighs* Treasure hunt, you're the third clue location, yatta, yatta, yatta..."
-    u " *叹息* 寻宝，你是第三个线索地点， 太好了, 太好了, 太好了……"
+    u "*叹息* 寻宝，你是第三个线索地点， 太好了，太好了，太好了……"
 
 # game/v13/scene34.rpy:27
 translate chinese v13s34_bf9acc23:
@@ -28,7 +28,7 @@ translate chinese v13s34_808939e0:
 translate chinese v13s34_801aa066:
 
     # clipps "Well, allow me to ease your frustrations. This is your last venture and the clue I give you will be sure to ease your concerns."
-    clipps "好吧，让我来缓解你的沮丧。这是你的最后一次冒险，我给你的线索一定会减轻你的担忧。"
+    clipps "好吧，让我来缓解你的沮丧。这是你们的最后一次冒险，我给你们的线索一定会减轻你们的担忧。"
 
 # game/v13/scene34.rpy:42
 translate chinese v13s34_e7b5fe4a:
@@ -100,7 +100,7 @@ translate chinese v13s34_12f8c8f5:
 translate chinese v13s34_7eefda7a:
 
     # ri "*Chuckles* What do you mean?"
-    ri " *咯咯笑* 什么意思？"
+    ri "*咯咯笑* 什么意思？"
 
 # game/v13/scene34.rpy:99
 translate chinese v13s34_c8bc2fba:
@@ -136,7 +136,7 @@ translate chinese v13s34_0906ee7b:
 translate chinese v13s34_7924f31c:
 
     # clipps "I assure you, this isn't a humorous venture. This is all very serious."
-    clipps "我向你保证，这不是一个幽默的冒险。这一切都非常严肃。"
+    clipps "我向你们保证，这不是一个幽默的冒险。这一切都非常严肃。"
 
 # game/v13/scene34.rpy:129
 translate chinese v13s34_578c6570:
@@ -322,7 +322,7 @@ translate chinese v13s34_1_ff6710a0:
 translate chinese v13s34_1_71b3aa89:
 
     # u "I'M NOT PLAYING THIS STUPID F-"
-    u "我不想玩这个愚蠢的-"
+    u "我不想玩这个愚蠢的……"
 
 # game/v13/scene34.rpy:338
 translate chinese v13s34_1_3ddece32:
@@ -370,7 +370,7 @@ translate chinese v13s34_1_9ad969c3:
 translate chinese v13s34_1_c0712f88:
 
     # ri "[name]?! Is that you?"
-    ri "[name]？!是你吗？"
+    ri "[name]？！是你吗？"
 
 # game/v13/scene34.rpy:365
 translate chinese v13s34_1_144498c3:
@@ -418,7 +418,7 @@ translate chinese v13s34_1_29c725f0:
 translate chinese v13s34_1_635f1a31:
 
     # u "The treasure, it's... it's not as secretive as one may think. *Chuckles*"
-    u "宝藏，它……它并不像人们想象的那样神秘。 *咯咯笑* "
+    u "宝藏，它……它并不像人们想象的那样神秘。 *咯咯笑*"
 
 # game/v13/scene34.rpy:381
 translate chinese v13s34_1_74b28ced:
@@ -430,13 +430,13 @@ translate chinese v13s34_1_74b28ced:
 translate chinese v13s34_1_50d249d3:
 
     # unknown "If you're honest, you'll be let go."
-    unknown "如果你够诚实，我们就让你走。"
+    unknown "如果你们够诚实，我们就让你们走。"
 
 # game/v13/scene34.rpy:385
 translate chinese v13s34_1_568cd990:
 
     # unknown "If you lie, you can just get comfy. *Chuckles*"
-    unknown "如果你撒谎，你就会尝到甜头。 *咯咯笑* "
+    unknown "如果你们撒谎，你们就会尝到甜头。 *咯咯笑*"
 
 # game/v13/scene34.rpy:387
 translate chinese v13s34_1_0e60747d:
@@ -466,7 +466,7 @@ translate chinese v13s34_1_024ea0f5:
 translate chinese v13s34_1_68c9f43e:
 
     # ri "No, wait! I-I'm sorry, I might just have a different definition of a liar than you do."
-    ri "不，等等！抱歉，我对骗子的定义可能和你不同。"
+    ri "不，等等！我……我很抱歉，我对骗子的定义可能和你们不同。"
 
 # game/v13/scene34.rpy:397
 translate chinese v13s34_1_c6329da3:
@@ -478,7 +478,7 @@ translate chinese v13s34_1_c6329da3:
 translate chinese v13s34_1_511a5d8c:
 
     # u "Yeah, I'm a liar. But who isn't?"
-    u "是啊，我是个骗子。但谁不是呢？"
+    u "好吧，我是个骗子。但谁不是呢？"
 
 # game/v13/scene34.rpy:404
 translate chinese v13s34_1_f74e08e2:
@@ -490,7 +490,7 @@ translate chinese v13s34_1_f74e08e2:
 translate chinese v13s34_1_57ae9944:
 
     # u "*Sighs*"
-    u " *叹息* "
+    u "*叹息*"
 
 # game/v13/scene34.rpy:409
 translate chinese v13s34_1_7ad7a01e:
@@ -514,7 +514,7 @@ translate chinese v13s34_1_53405a74:
 translate chinese v13s34_1_c8a641e7:
 
     # ri "*Crying*"
-    ri " *哭泣* "
+    ri "*哭泣*"
 
 # game/v13/scene34.rpy:417
 translate chinese v13s34_1_97b0eadb:
@@ -526,13 +526,13 @@ translate chinese v13s34_1_97b0eadb:
 translate chinese v13s34_1_dac594af:
 
     # ri "*Crying* I... I..."
-    ri " *哭泣* 我……我……"
+    ri "*哭泣* 我……我……"
 
 # game/v13/scene34.rpy:421
 translate chinese v13s34_1_006dc6ec:
 
     # ri "*Crying* I j-just blame myself for... getting you wrapped up in a-all of this..."
-    ri " *哭泣* 我只是-只是责怪我自己……让你沉浸在这一切中……"
+    ri "*哭泣* 我只是……只是责怪我自己……让你沉浸在……在这一切中……"
 
 # game/v13/scene34.rpy:423
 translate chinese v13s34_1_8995c58b:
@@ -544,7 +544,7 @@ translate chinese v13s34_1_8995c58b:
 translate chinese v13s34_1_7131ce2a:
 
     # u "*Gasps*"
-    u " *气喘吁吁* "
+    u "*气喘吁吁*"
 
 # game/v13/scene34.rpy:451
 translate chinese v13s34_1_a9996573:
@@ -580,7 +580,7 @@ translate chinese v13s34_1_a4cd6c44:
 translate chinese v13s34_1_a4c17839:
 
     # ri "*Crying* What's going on?!"
-    ri " *哭泣* 这是怎么回事？！"
+    ri "*哭泣* 这是怎么回事？！"
 
 # game/v13/scene34.rpy:497
 translate chinese v13s34_1_0fd2ca93:
@@ -616,7 +616,7 @@ translate chinese v13s34_1_6478ca87:
 translate chinese v13s34_1_1e321f87:
 
     # ri "I can't lie and say that if the shoe were on the other foot, I wouldn't have let the teasing go on once I knew you were safe. *Chuckles*"
-    ri "我不能撒谎，如果情况正好相反，一旦我知道你是安全的，我就不会继续取笑你了。 *咯咯笑* "
+    ri "我不能撒谎，如果情况正好相反，一旦我知道你是安全的，我就不会继续取笑你了。 *咯咯笑*"
 
 # game/v13/scene34.rpy:529
 translate chinese v13s34_1_76e6786c:
@@ -628,19 +628,19 @@ translate chinese v13s34_1_76e6786c:
 translate chinese v13s34_1_71ea3712:
 
     # ri "Too good of an opportunity, [name]. Sorry, not sorry. *Chuckles*"
-    ri "这个机会太好了，[name]。抱歉，不是抱歉。 *咯咯笑* "
+    ri "这个机会太好了，[name]。抱歉，不是抱歉。 *咯咯笑*"
 
 # game/v13/scene34.rpy:539
 translate chinese v13s34_1_57ae9944_1:
 
     # u "*Sighs*"
-    u " *叹息* "
+    u "*叹息*"
 
 # game/v13/scene34.rpy:546
 translate chinese v13s34_1_bae26ae7:
 
     # ri "Please... Just let us go! *Crying*"
-    ri "求求你……让我们走吧。 *哭泣* "
+    ri "求求你们……让我们走吧。 *哭泣*"
 
 # game/v13/scene34.rpy:551
 translate chinese v13s34_1_9bf6fd4c:
@@ -706,7 +706,7 @@ translate chinese v13s34_1_6a2e978a:
 translate chinese v13s34_1_282441c6:
 
     # ri "During two tests, but... they were really hard! You don't unders-"
-    ri "在两次测试中，但是……它们真的很难！你不明白-"
+    ri "在两次测试中，但是……它们真的很难！你不明白……"
 
 # game/v13/scene34.rpy:606
 translate chinese v13s34_1_613c50f1:
@@ -718,13 +718,13 @@ translate chinese v13s34_1_613c50f1:
 translate chinese v13s34_1_195c22e7:
 
     # ri "Well, I'm not the only one that-"
-    ri "嗯，我不是唯一一个-"
+    ri "嗯，我不是唯一一个……"
 
 # game/v13/scene34.rpy:616
 translate chinese v13s34_1_7536e97c:
 
     # ri "*Sighs* Yes, I shouldn't do that."
-    ri " *叹息* 是的，我不应该那样做。"
+    ri "*叹息* 是的，我不应该那样做。"
 
 # game/v13/scene34.rpy:621
 translate chinese v13s34_1_e984dd2d:
@@ -766,19 +766,19 @@ translate chinese v13s34_1_e27790e5:
 translate chinese v13s34_1_3a5bb531:
 
     # clipps "*Laughs*"
-    clipps " *笑* "
+    clipps "*笑*"
 
 # game/v13/scene34.rpy:661
 translate chinese v13s34_1_f7b3cefc:
 
     # dun "*Laughs*"
-    dun " *笑* "
+    dun "*笑*"
 
 # game/v13/scene34.rpy:666
 translate chinese v13s34_1_fcc18885:
 
     # u "*Laughs*"
-    u " *笑* "
+    u "*笑*"
 
 # game/v13/scene34.rpy:679
 translate chinese v13s34_1_be48bd78:
@@ -790,7 +790,7 @@ translate chinese v13s34_1_be48bd78:
 translate chinese v13s34_2_e465c6e7:
 
     # ri "What's going on?!"
-    ri "到底怎么回事？!"
+    ri "到底怎么回事？！"
 
 # game/v13/scene34.rpy:696
 translate chinese v13s34_2_4a2bad1e:
@@ -802,13 +802,13 @@ translate chinese v13s34_2_4a2bad1e:
 translate chinese v13s34_2_b75785e5:
 
     # ri "I'm so sorry... I- How did you know?"
-    ri "我很抱歉……我-你怎么知道的？"
+    ri "我很抱歉……我……你怎么知道的？"
 
 # game/v13/scene34.rpy:706
 translate chinese v13s34_2_22256795:
 
     # lee "Simple... We have a class camera. *Chuckles*"
-    lee "很简单……我们有一台班级摄像机。*咯咯笑* "
+    lee "很简单……我们有一台班级摄像机。*咯咯笑*"
 
 # game/v13/scene34.rpy:711
 translate chinese v13s34_2_7a9cc1d6:
@@ -826,7 +826,7 @@ translate chinese v13s34_2_25437fbc:
 translate chinese v13s34_2_26a01b7d:
 
     # lee "And other reasons. One was to make sure I enjoyed my time in Europe. *Laughs*"
-    lee "还有其他原因。其一是确保我在欧洲过得愉快。 *笑* "
+    lee "还有其他原因。其一是确保我在欧洲过得愉快。 *笑*"
 
 # game/v13/scene34.rpy:726
 translate chinese v13s34_2_9d3dbc19:
@@ -874,7 +874,7 @@ translate chinese v13s34_2_ed0522ab:
 translate chinese v13s34_2_1e8812a9:
 
     # lee "As you should. *Chuckles*"
-    lee "这是你应该做的。 *咯咯笑* "
+    lee "这是你应该做的。 *咯咯笑*"
 
 # game/v13/scene34.rpy:766
 translate chinese v13s34_2_4c0e9d8c:
@@ -910,13 +910,13 @@ translate chinese v13s34_2_f9e9017d:
 translate chinese v13s34_2_435bcdbd:
 
     # u "Wow... Guess I just chose to be friends with the wrong person. *Chuckles*"
-    u "哇噢……我想我只是选择了和错误的人做朋友。 *咯咯笑* "
+    u "哇哦……我想我只是选择了和错误的人做朋友。 *咯咯笑*"
 
 # game/v13/scene34.rpy:801
 translate chinese v13s34_2_eb1cb88b:
 
     # ri "Wow, okay... I'm so ready to go. I need to process all this, I... I just thought I was going to die five minutes ago."
-    ri "哇，好吧……我已经准备好要走了。我需要处理这一切，我……五分钟前我还以为我要死了。"
+    ri "哇哦，好吧……我已经准备好要走了。我需要处理这一切，我……五分钟前我还以为我要死了。"
 
 # game/v13/scene34.rpy:806
 translate chinese v13s34_2_cbbc187f:
@@ -934,7 +934,7 @@ translate chinese v13s34_2_5ce27ad1:
 translate chinese v13s34_2_0542dd3a:
 
     # u "Hey. uh... Sorry about all that, Clipps."
-    u "嘿。呃……很抱歉刚刚的一切，克利普斯"
+    u "嘿。呃……很抱歉刚刚的一切，克利普斯。"
 
 # game/v13/scene34.rpy:826
 translate chinese v13s34_2_b26cc959:
@@ -946,7 +946,7 @@ translate chinese v13s34_2_b26cc959:
 translate chinese v13s34_2_32080d06:
 
     # u "Haha, thanks. You too. *Chuckles*"
-    u "哈哈，谢谢。你也是。 *咯咯笑* "
+    u "哈哈，谢谢。你也是。 *咯咯笑*"
 
 # game/v13/scene34.rpy:841
 translate chinese v13s34_2_fcfea652:
@@ -970,7 +970,7 @@ translate chinese v13s34_2_a80e4ea8:
 translate chinese v13s34_2_141cf12c:
 
     # au "*Sighs* Take a left right outside the hotel, keep straight past the coffee place, and then it'll be right there around the corner."
-    au " *叹息* 在酒店外右转，直行过咖啡厅，然后咖啡厅就在拐角处。"
+    au "*叹息* 在酒店外右转，直行过咖啡厅，然后咖啡厅就在拐角处。"
 
 # game/v13/scene34.rpy:861
 translate chinese v13s34_2_9fc6cf93:

@@ -10,7 +10,7 @@ translate chinese v13s58_237009a7:
 translate chinese v13s58_57ae9944:
 
     # u "*Sighs*"
-    u " *叹息* "
+    u "*叹息*"
 
 # game/v13/scene58.rpy:37
 translate chinese v13s58_33801095:
@@ -40,11 +40,11 @@ translate chinese v13s58_574851b5:
 translate chinese v13s58_b46f3a5a:
 
     # au "*Chuckles* Okay mister, whatever you say..."
-    au " *咯咯笑* 好的，先生，随你怎么说……"
+    au "*咯咯笑* 好的，先生，随你怎么说……"
 
 # game/v13/scene58.rpy:78
 translate chinese v13s58_ee8e39a0:
 
     # au "*Chuckles*"
-    au " *咯咯笑* "
+    au "*咯咯笑*"
 

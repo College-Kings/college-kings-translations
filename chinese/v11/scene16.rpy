@@ -262,7 +262,7 @@ translate chinese v11_lauren_airport_convo_a0818388_1:
 translate chinese v11_lauren_airport_convo_12878308:
 
     # la "*Whisper* I'll show you soon."
-    la "*耳语* 我很快就会让你知道的。"
+    la "*低语* 我很快就会让你知道的。"
 
 # game/v11/scene16.rpy:328
 translate chinese v11_lauren_airport_convo_71f53713:
@@ -424,13 +424,13 @@ translate chinese v11_lauren_airport_convo_2d71fa61:
 translate chinese v11_lauren_airport_convo_586648a9:
 
     # u "*Whisper* Fucking asshole!"
-    u "*耳语* 该死的混蛋！"
+    u "*低语* 该死的混蛋！"
 
 # game/v11/scene16.rpy:491
 translate chinese v11_lauren_airport_convo_92d7d6bc:
 
     # ri "*Whisper* [name]! Why'd you say that to him?"
-    ri "*耳语* [name]！你怎么能这么说他？"
+    ri "*低语* [name]！你怎么能这么说他？"
 
 # game/v11/scene16.rpy:496
 translate chinese v11_lauren_airport_convo_361c8c34:

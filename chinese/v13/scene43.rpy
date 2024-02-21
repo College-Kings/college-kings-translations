@@ -58,7 +58,7 @@ translate chinese v13s43_8ad4b430:
 translate chinese v13s43_14d6f907:
 
     # u "What?! How can I not freak- *Sighs*"
-    u "什么？!我怎么能冷静- *叹息*"
+    u "什么？！我怎么能不惊慌失措…… *叹息*"
 
 # game/v13/scene43.rpy:73
 translate chinese v13s43_90aec308:
@@ -106,7 +106,7 @@ translate chinese v13s43_a1bf9832:
 translate chinese v13s43_7634bd48:
 
     # jen "I haven't contacted-"
-    jen "我还没有联系过-"
+    jen "我还没有联系过……"
 
 # game/v13/scene43.rpy:113
 translate chinese v13s43_64ea9d1a:
@@ -154,13 +154,13 @@ translate chinese v13s43_39b75a39:
 translate chinese v13s43_73a47b12:
 
     # u "It's fine, Jenny. *Chuckles* It was good to hear from you-"
-    u "没事的，珍妮。 *咯咯笑* 很高兴听到你的声音-"
+    u "没事的，珍妮。 *咯咯笑* 很高兴听到你的声音……"
 
 # game/v13/scene43.rpy:153
 translate chinese v13s43_6a068df0:
 
     # jen "Oh my gosh, now she's calling me. Sorry I called and freaked you out like that, [name]. Talk to you soon?"
-    jen "噢，天哪，现在她给我打电话了。抱歉，我打电话把你吓坏了，[name]。一会儿再跟你聊好吗？"
+    jen "噢，天呐，现在她给我打电话了。抱歉，我打电话把你吓坏了，[name]。一会儿再跟你聊好吗？"
 
 # game/v13/scene43.rpy:158
 translate chinese v13s43_0b23734a:

@@ -16,13 +16,13 @@ translate chinese v13s12b_09660ecc:
 translate chinese v13s12b_7f86f0b5:
 
     # pe "Okay, okay... I don't know why I'm stressed... I think my anxiety is acting up, ha. This girl is like... Super famous."
-    pe "好吧，好吧……我不知道为什么我会有压力。我想我的焦虑是不是有点不对劲了，哈。这个女孩就像……超级著名。"
+    pe "好吧，好吧……我不知道为什么我会有压力……我想我的焦虑是不是有点不对劲了，哈。这个女孩就像……超级著名。"
 
 # game/v13/scene12b.rpy:32
 translate chinese v13s12b_2927a9a1:
 
     # u "*Chuckles* Don't worry, if you ever get to the point where you wanna leave, just say the word and we'll go."
-    u " *咯咯笑* 别担心，如果你真的想走了，就说一声，我们就走。"
+    u "*咯咯笑* 别担心，如果你真的想走了，就说一声，我们就走。"
 
 # game/v13/scene12b.rpy:37
 translate chinese v13s12b_c701216f:
@@ -40,13 +40,13 @@ translate chinese v13s12b_098f86b3:
 translate chinese v13s12b_7f06779e:
 
     # pe "*Chuckles* You're a goofball. Her name is Polly. She's literally one of the biggest international stars."
-    pe " *咯咯笑* 你是个傻蛋。她的名字叫波莉。她是名副其实的国际巨星之一。"
+    pe "*咯咯笑* 你是个傻蛋。她的名字叫波莉。她是名副其实的国际巨星之一。"
 
 # game/v13/scene12b.rpy:52
 translate chinese v13s12b_30675118:
 
     # u "Shows what I know. *Chuckles*"
-    u "展示了我所知道的。 *咯咯笑* "
+    u "展示了我所知道的。 *咯咯笑*"
 
 # game/v13/scene12b.rpy:57
 translate chinese v13s12b_f24b08bf:
@@ -64,19 +64,19 @@ translate chinese v13s12b_41542b4d:
 translate chinese v13s12b_3fb44dd5:
 
     # pe "I mean, I knew there'd be a lot, but... Wow, this is insane."
-    pe "我是说，我知道会有很多，但是……哇，这太疯狂了。"
+    pe "我是说，我知道会有很多，但是……哇哦，这太疯狂了。"
 
 # game/v13/scene12b.rpy:97
 translate chinese v13s12b_210aeb20:
 
     # u "Yeah... Don't worry about it. We didn't come for them, we came for Polly and a good time."
-    u "是啊……不必为那事儿担心了。我们不是来找他们的，我们是来找波莉的，我们是来找乐子的。"
+    u "好吧……不必为那事儿担心了。我们不是来找他们的，我们是来找波莉的，我们是来找乐子的。"
 
 # game/v13/scene12b.rpy:102
 translate chinese v13s12b_4905de2b:
 
     # pe "*Deep breath* You're right. *Chuckles* You're right..."
-    pe " *深呼吸* 你说得对。 *咯咯笑* 你说得对……"
+    pe "*深呼吸* 你说得对。 *咯咯笑* 你说得对……"
 
 # game/v13/scene12b.rpy:110
 translate chinese v13s12b_bac05d6b:
@@ -118,7 +118,7 @@ translate chinese v13s12b_badd237d:
 translate chinese v13s12b_169e114d:
 
     # pe "*Chuckles* Hell yeah!"
-    pe " *咯咯笑* 噢耶！"
+    pe "*咯咯笑* 噢耶！"
 
 # game/v13/scene12b.rpy:150
 translate chinese v13s12b_28942e3e:
@@ -130,7 +130,7 @@ translate chinese v13s12b_28942e3e:
 translate chinese v13s12b_573166b2:
 
     # pe "I just don't want people staring at me. *Laughs*"
-    pe "我只是不想让人们盯着我看。 *笑* "
+    pe "我只是不想让人们盯着我看。 *笑*"
 
 # game/v13/scene12b.rpy:158
 translate chinese v13s12b_f391cfc9:
@@ -142,13 +142,13 @@ translate chinese v13s12b_f391cfc9:
 translate chinese v13s12b_a9da8792:
 
     # polly "*Singing* LOVE COMES UNEXPECTED, LOVE'S UNNATURAL!"
-    polly " *唱歌* LOVE COMES UNEXPECTED, LOVE'S UNNATURAL！"
+    polly "*唱歌* LOVE COMES UNEXPECTED, LOVE'S UNNATURAL！"
 
 # game/v13/scene12b.rpy:168
 translate chinese v13s12b_d2fa5dce:
 
     # pe "*SINGING* I CAN FEEL MY HEART BEAT, LOVE IS LIKE A BATTERY, IT POWERS UP MY SOUL!"
-    pe  " *唱歌* I CAN FEEL MY HEART BEAT, LOVE IS LIKE A BATTERY, IT POWERS UP MY SOUL！"
+    pe  "*唱歌* I CAN FEEL MY HEART BEAT, LOVE IS LIKE A BATTERY, IT POWERS UP MY SOUL！"
 
 # game/v13/scene12b.rpy:173
 translate chinese v13s12b_45fa678c:
@@ -184,7 +184,7 @@ translate chinese v13s12b_d35fda10:
 translate chinese v13s12b_b308acce:
 
     # pe "I'm so sorry... I'll-"
-    pe "我很抱歉……我会-"
+    pe "我很抱歉……我会……"
 
 # game/v13/scene12b.rpy:203
 translate chinese v13s12b_d86d92b1:
@@ -196,7 +196,7 @@ translate chinese v13s12b_d86d92b1:
 translate chinese v13s12b_54e28776:
 
     # unknown "S-sorry dude... I don't want any problems..."
-    unknown "抱-抱歉，伙计……我不想有任何问题……"
+    unknown "抱……抱歉，伙计……我不想有任何问题……"
 
 # game/v13/scene12b.rpy:213
 translate chinese v13s12b_b260f100:
@@ -208,7 +208,7 @@ translate chinese v13s12b_b260f100:
 translate chinese v13s12b_2be93e33:
 
     # pe "You're always so quick to speak up... *Chuckles*"
-    pe "你说话总是那么拽…… *咯咯笑* "
+    pe "你说话总是那么拽…… *咯咯笑*"
 
 # game/v13/scene12b.rpy:223
 translate chinese v13s12b_631be721:
@@ -226,7 +226,7 @@ translate chinese v13s12b_4d62f116:
 translate chinese v13s12b_227d6979:
 
     # pe "I wish I had a ladder or something... *Laughs*"
-    pe "我真希望我有个梯子什么的…… *笑* "
+    pe "我真希望我有个梯子什么的…… *笑*"
 
 # game/v13/scene12b.rpy:251
 translate chinese v13s12b_c7e3144c:
@@ -238,7 +238,7 @@ translate chinese v13s12b_c7e3144c:
 translate chinese v13s12b_4fc1a2a0:
 
     # pe "Wha- Oh gosh! *Chuckles* This is definitely something else!"
-    pe "哇--噢，天呐！ *咯咯笑* 这真是意想不到！"
+    pe "哇……噢，天呐！ *咯咯笑* 这真是意想不到！"
 
 # game/v13/scene12b.rpy:276
 translate chinese v13s12b_adb2737e:
@@ -280,7 +280,7 @@ translate chinese v13s12b_d695c666:
 translate chinese v13s12b_f5c28cea:
 
     # polly "*Singing* LOVE COMES UNEXPECTED, LOVE'S UNNATURAL! I CAN FEEL MY HEARTBEAT, LOVE IS LIKE BATTERY, IT POWERS UP MY SOUL!"
-    polly " *唱歌* LOVE COMES UNEXPECTED, LOVE'S UNNATURAL! I CAN FEEL MY HEARTBEAT, LOVE IS LIKE BATTERY, IT POWERS UP MY SOUL！"
+    polly "*唱歌* LOVE COMES UNEXPECTED, LOVE'S UNNATURAL! I CAN FEEL MY HEARTBEAT, LOVE IS LIKE BATTERY, IT POWERS UP MY SOUL！"
 
 # game/v13/scene12b.rpy:336
 translate chinese v13s12b_8b0e3680:
@@ -310,7 +310,7 @@ translate chinese v13s12b_e6da48e1:
 translate chinese v13s12b_failed_timer_bbee55b6:
 
     # u "Oh shit! I'm so sorry, Penelope... I-"
-    u "噢，该死的！我很抱歉佩内洛普……我-"
+    u "噢，该死的！我很抱歉佩内洛普……我……"
 
 # game/v13/scene12b.rpy:401
 translate chinese v13s12b_failed_timer_3af340f6:
@@ -322,7 +322,7 @@ translate chinese v13s12b_failed_timer_3af340f6:
 translate chinese v13s12b_failed_timer_ca819a5f:
 
     # unknown "Way to get noticed. *Laughs*"
-    unknown "多吸引人的眼球啊。 *笑* "
+    unknown "多吸引人的眼球啊。 *笑*"
 
 # game/v13/scene12b.rpy:411
 translate chinese v13s12b_failed_timer_c42a7b05:
@@ -400,7 +400,7 @@ translate chinese v13s12b_failed_timer_0dba75a5:
 translate chinese v13s12b_failed_timer_059a79e4:
 
     # u "*Chuckles* Yes, Penelope."
-    u " *咯咯笑* 是的，佩内洛普。"
+    u "*咯咯笑* 是的，佩内洛普。"
 
 # game/v13/scene12b.rpy:501
 translate chinese v13s12b_failed_timer_306b776f:

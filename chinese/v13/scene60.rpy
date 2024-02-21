@@ -16,7 +16,7 @@ translate chinese v13s60_225a8c75:
 translate chinese v13s60_74503c68:
 
     # au "*Chuckles* I was thinking something from a higher angle if we could."
-    au " *咯咯笑* 如果可以的话，我想从更高的角度拍点东西。"
+    au "*咯咯笑* 如果可以的话，我想从更高的角度拍点儿东西。"
 
 # game/v13/scene60.rpy:42
 translate chinese v13s60_110ad001:
@@ -34,19 +34,19 @@ translate chinese v13s60_4d1553f2:
 translate chinese v13s60_f122006d:
 
     # au "Pleaseeeeee?"
-    au "好嘛？"
+    au "好嘛……？"
 
 # game/v13/scene60.rpy:57
 translate chinese v13s60_93e09692:
 
     # u "*Sighs* Alrighty."
-    u " *叹息* 好吧。"
+    u "*叹息* 好吧。"
 
 # game/v13/scene60.rpy:94
 translate chinese v13s60_958fee6c:
 
     # u "Oh, fuck! Fuck, fuck, fuck!"
-    u "噢，他妈的！操，操，操！"
+    u "噢，他妈的！糟了，完了，操！"
 
 # game/v13/scene60.rpy:99
 translate chinese v13s60_a2310ab8:

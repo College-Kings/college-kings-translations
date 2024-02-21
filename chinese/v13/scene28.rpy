@@ -4,7 +4,7 @@
 translate chinese v13s28_1cc33d31:
 
     # am "Jeez... Took you long enough. Did you have to do your nails real quick? *Laughs*"
-    am "呀……花了你很长时间。你非得急着做指甲吗？ *笑* "
+    am "呀……花了你很长时间。你非得急着做指甲吗？ *笑*"
 
 # game/v13/scene28.rpy:27
 translate chinese v13s28_d39e2f7a:
@@ -40,7 +40,7 @@ translate chinese v13s28_b1472b4f:
 translate chinese v13s28_1308259d:
 
     # am "*Laughs* Interested or not, I already bought your ticket, so you're going."
-    am " *笑* 不管你有没有兴趣，我已经给你买了票，所以你都得去。"
+    am "*笑* 不管你有没有兴趣，我已经给你买了票，所以你都得去。"
 
 # game/v13/scene28.rpy:57
 translate chinese v13s28_4896956e:
@@ -82,13 +82,13 @@ translate chinese v13s28_c04ad792:
 translate chinese v13s28_05d4db6d:
 
     # u "*Laughs* How do I owe you money? I didn't tell you to-"
-    u " *笑* 我怎么欠你钱？我没告诉你-"
+    u "*笑* 我怎么欠你钱？我没告诉你……"
 
 # game/v13/scene28.rpy:97
 translate chinese v13s28_34b27eae:
 
     # am "Money or tour, you pick."
-    am "钱还是旅游，你选吧。"
+    am "钱还是旅行，你选吧。"
 
 # game/v13/scene28.rpy:102
 translate chinese v13s28_598925f4:
@@ -112,31 +112,31 @@ translate chinese v13s28_cd2689d1:
 translate chinese v13s28_73796dd3:
 
     # am "I know. *Chuckles*"
-    am "我知道呀。 *咯咯笑* "
+    am "我知道呀。 *咯咯笑*"
 
 # game/v13/scene28.rpy:138
 translate chinese v13s28_f890ade4:
 
     # sa "Hey guys! What are you up to?"
-    sa "嘿伙计们！你在忙什么呢？"
+    sa "嘿，伙计们！你们在忙什么呢？"
 
 # game/v13/scene28.rpy:143
 translate chinese v13s28_76a4c903:
 
     # am "Going on a little weed tour. *Chuckles*"
-    am "去参加一次小小的大麻之旅。 *咯咯笑* "
+    am "去参加一次小小的大麻之旅。 *咯咯笑*"
 
 # game/v13/scene28.rpy:148
 translate chinese v13s28_396d7a60:
 
     # sa "Oooh! Can I come?"
-    sa "噢噢！我能一起去吗？"
+    sa "噢！我能一起去吗？"
 
 # game/v13/scene28.rpy:153
 translate chinese v13s28_ad84a2c7:
 
     # am "You got money for a ticket? *Chuckles*"
-    am "你有钱买票吗？ *咯咯笑* "
+    am "你有钱买票吗？ *咯咯笑*"
 
 # game/v13/scene28.rpy:158
 translate chinese v13s28_73320947:
@@ -148,7 +148,7 @@ translate chinese v13s28_73320947:
 translate chinese v13s28_c0f0d7e4:
 
     # am "Well, there's your answer."
-    am "这就是你的答案。"
+    am "嗯，这就是你的答案。"
 
 # game/v13/scene28.rpy:168
 translate chinese v13s28_56257892:
@@ -166,7 +166,7 @@ translate chinese v13s28_a60a2ecf:
 translate chinese v13s28_a702e90a:
 
     # u "I don't think you going on a marijuana tour is a good idea, Sam. You know, because of your... history."
-    u "我不认为你去大麻旅行是个好主意，萨曼莎。你知道的，因为你的……过去。"
+    u "我不认为你去大麻之旅是个好主意，萨曼莎。你知道的，因为你的……过去。"
 
 # game/v13/scene28.rpy:186
 translate chinese v13s28_485d1e8a:
@@ -184,25 +184,25 @@ translate chinese v13s28_9f442640:
 translate chinese v13s28_3759a1a7:
 
     # sa "Nah, you're trying to control what I do. Just like my obsessive brother. Fuck this and fuck you."
-    sa "不，你是想控制我的行为。就像我那有强迫症的哥哥一样。去你的，去你的。"
+    sa "不，你是想控制我的行为。就像我那有强迫症的哥哥一样。这也不给，那又不行。"
 
 # game/v13/scene28.rpy:206
 translate chinese v13s28_716fdb33:
 
     # am "Yikes. That was fun. *chuckles*"
-    am "哎呀。那真是太有趣了。 *咯咯笑* "
+    am "哎呀。那真是太有趣了。 *咯咯笑*"
 
 # game/v13/scene28.rpy:211
 translate chinese v13s28_57ae9944:
 
     # u "*Sighs*"
-    u " *叹息* "
+    u "*叹息*"
 
 # game/v13/scene28.rpy:219
 translate chinese v13s28_52989e72:
 
     # u "I mean it might be a little triggering but... Whatever, yeah. I'll pay for it."
-    u "我的意思是，这可能有点令人激动，但是……无论如何,是的。我来付钱。"
+    u "我的意思是，这可能有点令人激动，但是……无论如何，好吧。我来付钱。"
 
 # game/v13/scene28.rpy:224
 translate chinese v13s28_a86c4df1:
@@ -220,7 +220,7 @@ translate chinese v13s28_f0e6f3fa:
 translate chinese v13s28_ec40c72b:
 
     # sa "Don't worry, I'll be good. *Chuckles*"
-    sa "别担心，我会好好的。 *咯咯笑* "
+    sa "别担心，我会好好的。 *咯咯笑*"
 
 # game/v13/scene28.rpy:244
 translate chinese v13s28_302e4347:

@@ -46,13 +46,13 @@ translate chinese v13s4_3d4e4c38:
 translate chinese v13s4_0b2792ce:
 
     # cl "Huh? Yeah?"
-    cl "哈？怎么了？"
+    cl "嗯？怎么了？"
 
 # game/v13/scene4.rpy:79
 translate chinese v13s4_1ed6631c:
 
     # u "Were you just standing there asleep? *Chuckles*"
-    u "你只是站在那里睡着了吗？ *咯咯笑* "
+    u "你只是站在那里就睡着了吗？ *咯咯笑*"
 
 # game/v13/scene4.rpy:84
 translate chinese v13s4_0a89d766:
@@ -64,7 +64,7 @@ translate chinese v13s4_0a89d766:
 translate chinese v13s4_54f4afc4:
 
     # u "Aww, poor baby. *Chuckles*"
-    u "噢，可怜的孩子。 *咯咯笑* "
+    u "噢，可怜的孩子。 *咯咯笑*"
 
 # game/v13/scene4.rpy:94
 translate chinese v13s4_27760dd2:

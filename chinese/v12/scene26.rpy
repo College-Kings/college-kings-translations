@@ -10,7 +10,7 @@ translate chinese v12_nora_chris_fight_19588a61:
 translate chinese v12_nora_chris_fight_80229153:
 
     # u "Not much man, just starting the-"
-    u "没什么，伙计，只是开始-"
+    u "没什么，伙计，只是开始……"
 
 # game/v12/scene26.rpy:28
 translate chinese v12_nora_chris_fight_e4f8cb35:
@@ -34,7 +34,7 @@ translate chinese v12_nora_chris_fight_1d30d756:
 translate chinese v12_nora_chris_fight_ca533a8f:
 
     # no "You don't- ARE YOU A FUCKING IDIOT?!"
-    no "你不-你是他妈的白痴吗？！"
+    no "你不……你是他妈的白痴吗？！"
 
 # game/v12/scene26.rpy:48
 translate chinese v12_nora_chris_fight_0c8c933e:

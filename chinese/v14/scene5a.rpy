@@ -4,7 +4,7 @@
 translate chinese v14s05a_57ae9944:
 
     # u "*Sighs*"
-    u " *叹息* "
+    u "*叹息*"
 
 # game/v14/scene5a.rpy:28
 translate chinese v14s05a_a0b8ad4d:
@@ -34,13 +34,13 @@ translate chinese v14s05a_052c9a03:
 translate chinese v14s05a_f08219b6:
 
     # ri "Aubrey and I just felt like you could've used a little, pick me up."
-    ri "奥布里和我只是觉得你需要一点，来接我。"
+    ri "奥布里和我只是觉得你需要一点儿，过来。"
 
 # game/v14/scene5a.rpy:69
 translate chinese v14s05a_a5761465:
 
     # u "It definitely picked me up... *Laughs*"
-    u "它肯定让我振作起来…… *笑* "
+    u "它肯定让我振作起来…… *笑*"
 
 # game/v14/scene5a.rpy:73
 translate chinese v14s05a_573e19a8:
@@ -88,7 +88,7 @@ translate chinese v14s05a_f6a74930:
 translate chinese v14s05a_13c16ad7:
 
     # ri "Plus, I think I've had enough of you for today. *Chuckles*"
-    ri "另外，我想我今天已经受够你了。 *咯咯笑* "
+    ri "另外，我想我今天已经受够你了。 *咯咯笑*"
 
 # game/v14/scene5a.rpy:139
 translate chinese v14s05a_9ab46e06:

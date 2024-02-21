@@ -46,7 +46,7 @@ translate chinese v11_samantha_packing_2d8b8168:
 translate chinese v11_samantha_packing_79c03dd3:
 
     # sa "Wait what? No one told me about some kind of trip. How long are you going to be gone?"
-    sa "等什么？没人告诉我什么旅行的事。你要去多久？"
+    sa "等什么？没人告诉我什么旅行的事。你们要去多久？"
 
 # game/v11/scene3.rpy:67
 translate chinese v11_samantha_packing_f7c1ae25:
@@ -124,7 +124,7 @@ translate chinese v11_samantha_packing_476eafcb:
 translate chinese v11_samantha_packing_0487c7ca:
 
     # u "Oh, there's also a $200 fee. Just give it to me and I'll make sure it gets to where it needs to go."
-    u "哦，还有200美元的费用。把它给我，我会确保它送到该去的地方。"
+    u "噢，还有200美元的费用。把它给我，我会确保它送到该去的地方。"
 
 # game/v11/scene3.rpy:137
 translate chinese v11_samantha_packing_26e72024:
@@ -142,7 +142,7 @@ translate chinese v11_samantha_packing_cafe53c2:
 translate chinese v11_samantha_packing_ba650973:
 
     # sa "A vacation in Europe and you said the only people from here going are you and Ryan. That means for however long we're there I can be away from my brother."
-    sa "去欧洲度假，你说这里只有你和瑞恩能去。也就是说不管我们在那里待多久我都可以离开我哥哥。"
+    sa "去欧洲度假，你说这里只有你和瑞恩会去。也就是说我可以离开我哥哥，不管我们在那里待多久。"
 
 # game/v11/scene3.rpy:152
 translate chinese v11_samantha_packing_ff0f80ae:

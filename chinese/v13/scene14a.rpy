@@ -4,7 +4,7 @@
 translate chinese v13s14a_25cd2512:
 
     # u "Oh shit, this is a club, club!"
-    u "该死，这才是夜总会，夜总会！"
+    u "噢，天呐，这才是夜总会，夜总会！"
 
 # game/v13/scene14a.rpy:25
 translate chinese v13s14a_b41053fc:
@@ -28,7 +28,7 @@ translate chinese v13s14a_526ef0d1:
 translate chinese v13s14a_4e81075f:
 
     # polly "He'll never know what that's like. *Laughs*"
-    polly "他永远不会知道那是什么感觉。 *笑* "
+    polly "他永远不会知道那是什么感觉。 *笑*"
 
 # game/v13/scene14a.rpy:46
 translate chinese v13s14a_d0da72c5:
@@ -52,13 +52,13 @@ translate chinese v13s14a_f5f0afc0:
 translate chinese v13s14a_1b66f950:
 
     # u "I plead the fifth. *Chuckles*"
-    u "拒绝回答。 *咯咯笑* "
+    u "拒绝回答。 *咯咯笑*"
 
 # game/v13/scene14a.rpy:70
 translate chinese v13s14a_f530ab00:
 
     # polly "I think I got my answer. *Laughs*"
-    polly "我想我知道答案了。 *笑* "
+    polly "我想我知道答案了。 *笑*"
 
 # game/v13/scene14a.rpy:75
 translate chinese v13s14a_14832024:
@@ -76,13 +76,13 @@ translate chinese v13s14a_178bb7dc:
 translate chinese v13s14a_82515fad:
 
     # u "*Chuckles* Positive."
-    u " *咯咯笑* 肯定。"
+    u "*咯咯笑* 肯定。"
 
 # game/v13/scene14a.rpy:90
 translate chinese v13s14a_762567a0:
 
     # polly "Interesting... *Chuckles*"
-    polly "有趣…… *咯咯笑* "
+    polly "有趣…… *咯咯笑*"
 
 # game/v13/scene14a.rpy:96
 translate chinese v13s14a_aeef4f37:
@@ -136,13 +136,13 @@ translate chinese v13s14a_0ea44766:
 translate chinese v13s14a_c249560c:
 
     # random_guy "Don't talk to-"
-    random_guy "D别跟我说话-"
+    random_guy "别跟我说话……"
 
 # game/v13/scene14a.rpy:141
 translate chinese v13s14a_b6d60b7b:
 
     # polly "*Laughs* That's hilarious, I'm gonna have to steal that."
-    polly " *笑* 这太好笑了，我得把它偷走。"
+    polly "*笑* 这太好笑了，我得把它偷走。"
 
 # game/v13/scene14a.rpy:151
 translate chinese v13s14a_0a026ae5:
@@ -154,7 +154,7 @@ translate chinese v13s14a_0a026ae5:
 translate chinese v13s14a_2e107e96:
 
     # polly "Aww... Poor baby, that's what you get when you wanna be an ass!"
-    polly "啊……可怜的宝贝，这就是你想做蠢货的下场！"
+    polly "啊……可怜的宝贝儿，这就是你想做蠢货的下场！"
 
 # game/v13/scene14a.rpy:166
 translate chinese v13s14a_56b4a193:
@@ -166,13 +166,13 @@ translate chinese v13s14a_56b4a193:
 translate chinese v13s14a_930ae4eb:
 
     # polly "You two have fun! *Chuckles*"
-    polly "你们两个玩得开心！ *咯咯笑* "
+    polly "祝你们两个玩得开心！ *咯咯笑*"
 
 # game/v13/scene14a.rpy:176
 translate chinese v13s14a_834aa2b9:
 
     # u "I forgot how much you like to dance. *Laughs*"
-    u "我都忘了你有多喜欢跳舞了。 *笑* "
+    u "我都忘了你有多喜欢跳舞了。 *笑*"
 
 # game/v13/scene14a.rpy:181
 translate chinese v13s14a_3970e311:
@@ -184,13 +184,13 @@ translate chinese v13s14a_3970e311:
 translate chinese v13s14a_9a4704d0:
 
     # u "*Chuckles* Show me what you got."
-    u " *咯咯笑* 让我看看你有什么本事。"
+    u "*咯咯笑* 让我看看你有什么本事。"
 
 # game/v13/scene14a.rpy:191
 translate chinese v13s14a_6bda91d6:
 
     # au "I don't want to show you up... My skills would embarrass you. *Laughs*"
-    au "我不想让你难堪……我的舞姿会让你难堪的。 *笑* "
+    au "我不想让你为难……我的舞姿会让你难堪的。 *笑*"
 
 # game/v13/scene14a.rpy:196
 translate chinese v13s14a_8ff9e469:
@@ -214,13 +214,13 @@ translate chinese v13s14a_6ccd05df:
 translate chinese v13s14a_5dee16cd:
 
     # au "I know you didn't just do the damn robot! *Laughs*"
-    au "我知道你不只是做那该死的机器人！*笑* "
+    au "我知道你不只是做那该死的机器人！*笑*"
 
 # game/v13/scene14a.rpy:246
 translate chinese v13s14a_2b311fba:
 
     # u "These are moves of the future, girl! Don't be a hater..."
-    u "这些都是未来的动作，女孩！不要做一个憎恨的人……"
+    u "这些都是未来的动作，姑娘！不要做一个憎恨的人……"
 
 # game/v13/scene14a.rpy:251
 translate chinese v13s14a_ea6e051b:
@@ -232,13 +232,13 @@ translate chinese v13s14a_ea6e051b:
 translate chinese v13s14a_2cf1c092:
 
     # u "Oh, that's a big music swing! *Chuckles*"
-    u "噢，那是一个很大的音乐秋千！ *咯咯笑* "
+    u "噢，那是一个很大的音乐秋千！ *咯咯笑*"
 
 # game/v13/scene14a.rpy:270
 translate chinese v13s14a_b8290e69:
 
     # au "Uhh, yeah. Definitely a vibe change. *Chuckles*"
-    au "嗯，是的。绝对是氛围的改变。 *咯咯笑* "
+    au "嗯，是的。绝对是氛围的改变。 *咯咯笑*"
 
 # game/v13/scene14a.rpy:277
 translate chinese v13s14a_a38afcd3:
@@ -256,13 +256,13 @@ translate chinese v13s14a_0086e1b1:
 translate chinese v13s14a_6a7a04eb:
 
     # u "Haha, yes please."
-    u "哈哈，好的，请给我。"
+    u "哈哈，是的。"
 
 # game/v13/scene14a.rpy:291
 translate chinese v13s14a_bc57dec2:
 
     # au "*Chuckles* Think we can walk back?"
-    au " *咯咯笑* 你觉得我们能走回去吗？"
+    au "*咯咯笑* 你觉得我们能走回去吗？"
 
 # game/v13/scene14a.rpy:296
 translate chinese v13s14a_11a6bb76:
@@ -280,7 +280,7 @@ translate chinese v13s14a_adac8d3a:
 translate chinese v13s14a_36af5bb7:
 
     # u "How could you, Miss. \"soon-to-be Superstar\"?"
-    u "你怎么会呢，\"即将成为超级巨星的人\"小姐？"
+    u "你怎么会呢，\"即将成为超级巨星的\"小姐？"
 
 # game/v13/scene14a.rpy:327
 translate chinese v13s14a_b944a0a7:
@@ -298,7 +298,7 @@ translate chinese v13s14a_bc49bd48:
 translate chinese v13s14a_0133399d:
 
     # au "Oh! Wow, I..."
-    au "噢！哇，我……"
+    au "噢！哇哦，我……"
 
 # game/v13/scene14a.rpy:363
 translate chinese v13s14a_ef2f1671:
@@ -334,7 +334,7 @@ translate chinese v13s14a_f38de683:
 translate chinese v13s14a_f282ed41:
 
     # u "Sure, c'mon..."
-    u "当然，来吧……"
+    u "当然，走吧……"
 
 # game/v13/scene14a.rpy:422
 translate chinese v13s14a_adac8d3a_1:
@@ -346,7 +346,7 @@ translate chinese v13s14a_adac8d3a_1:
 translate chinese v13s14a_36af5bb7_1:
 
     # u "How could you, Miss. \"soon-to-be Superstar\"?"
-    u "你怎么会呢，\"即将成为超级巨星的人\"小姐？"
+    u "你怎么会呢，\"即将成为超级巨星的\"小姐？"
 
 # game/v13/scene14a.rpy:432
 translate chinese v13s14a_6c09cfaa:
@@ -400,13 +400,13 @@ translate chinese v13s14a_04c928f0:
 translate chinese v13s14a_e834df59:
 
     # au "Well, goodnight, for real this time. *Chuckles*"
-    au "好吧，晚安，这次是真的。 *咯咯笑* "
+    au "好吧，晚安，这次是真的。 *咯咯笑*"
 
 # game/v13/scene14a.rpy:490
 translate chinese v13s14a_6d19442d:
 
     # u "*Chuckles* Goodnight."
-    u " *咯咯笑* 晚安。"
+    u "*咯咯笑* 晚安。"
 
 translate chinese strings:
 

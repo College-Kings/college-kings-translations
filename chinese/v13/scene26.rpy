@@ -10,37 +10,37 @@ translate chinese v13_emmy_sex_3ca6429f:
 translate chinese v13_emmy_sex_591209fc:
 
     # emmy "*Gags*"
-    emmy " *吞咽* "
+    emmy "*吞咽*"
 
 # game/v13/scene26.rpy:29
 translate chinese v13_emmy_sex_26910f5e:
 
     # u "That's s-so different... I love it. *Moans*"
-    u "那太-太不一样了……我爱死它了。 *呻吟* "
+    u "那太……太不一样了……我爱死它了。 *呻吟*"
 
 # game/v13/scene26.rpy:31
 translate chinese v13_emmy_sex_c42af467:
 
     # emmy "*Chuckles* Mmmmm..."
-    emmy " *咯咯笑* 嗯……"
+    emmy "*咯咯笑* 嗯……"
 
 # game/v13/scene26.rpy:37
 translate chinese v13_emmy_sex_bbd6cd28:
 
     # u "Fuck yessssss... (She's vibrating my fucking cock...) Don't stop, you're so fucking good at t-"
-    u "妈的，舒服……(她在挑逗我那该死的老二……)别停，你真他妈的舒服-"
+    u "妈的，舒服……(她在挑逗我那该死的老二……)别停，你真他妈的舒服……"
 
 # game/v13/scene26.rpy:39
 translate chinese v13_emmy_sex_07b82cc0:
 
     # emmy "MmmmhMMMMM! *Gags*"
-    emmy "嗯！ *吞咽* "
+    emmy "嗯！ *吞咽*"
 
 # game/v13/scene26.rpy:45
 translate chinese v13_emmy_sex_ae48ffbe:
 
     # u "Oh m- (Is she using her... Teeth? I...) Shit..."
-    u "噢，妈(她是在用她的……牙齿？我……)妈的……"
+    u "噢，天……(她是在用她的……牙齿？我……)天呐……"
 
 # game/v13/scene26.rpy:47
 translate chinese v13_emmy_sex_8a458af5:
@@ -64,19 +64,19 @@ translate chinese v13_emmy_sex_77cf71e2:
 translate chinese v13_emmy_sex_0c326dd6:
 
     # emmy "*Moans* Make... me... your... bitch... [name]!"
-    emmy " *呻吟* 把……我……当你的……婊子……[name]！"
+    emmy "*呻吟* 把……我……当你的……婊子……[name]！"
 
 # game/v13/scene26.rpy:98
 translate chinese v13_emmy_sex_aeffe3c6:
 
     # u "You are my fucking bitch... *Moans*"
-    u "你他妈的是我的婊子…… *呻吟* "
+    u "你他妈的是我的婊子…… *呻吟*"
 
 # game/v13/scene26.rpy:104
 translate chinese v13_emmy_sex_a0e0396d:
 
     # emmy "*Moans* HARDER! Please!"
-    emmy " *呻吟* 更用力！求你了！"
+    emmy "*呻吟* 更用力！求你了！"
 
 # game/v13/scene26.rpy:110
 translate chinese v13_emmy_sex_93c3bf21:
@@ -88,13 +88,13 @@ translate chinese v13_emmy_sex_93c3bf21:
 translate chinese v13_emmy_sex_ef401155:
 
     # emmy "Stretch me out, papi... *Chuckles*"
-    emmy "把我伸展开，爸爸…… *咯咯笑* "
+    emmy "把我伸展开，爸爸…… *咯咯笑*"
 
 # game/v13/scene26.rpy:132
 translate chinese v13_emmy_sex_4583cc52:
 
     # emmy "*Moans* Mmmm, oh... You like a flexible woman, don't you?"
-    emmy " *呻吟* 嗯，噢……你喜欢柔韧的女人，不是吗？"
+    emmy "*呻吟* 嗯，噢……你喜欢柔韧的女人，不是吗？"
 
 # game/v13/scene26.rpy:138
 translate chinese v13_emmy_sex_c651256e:
@@ -112,25 +112,25 @@ translate chinese v13_emmy_sex_a2d96460:
 translate chinese v13_emmy_sex_67cbc841:
 
     # emmy "*Gasps* Oh, fuck... You're so fucking strong!"
-    emmy " *喘气* 噢，他妈的……你真他妈的强壮！"
+    emmy "*喘气* 噢，他妈的……你真他妈的强壮！"
 
 # game/v13/scene26.rpy:167
 translate chinese v13_emmy_sex_61efef03:
 
     # u "Why thank you... *Chuckles*"
-    u "为什么，要谢谢你…… *咯咯笑* "
+    u "谢谢…… *咯咯笑*"
 
 # game/v13/scene26.rpy:173
 translate chinese v13_emmy_sex_ed20cc3d:
 
     # u "You're so fucking beautiful, Emmy. *Moans*"
-    u "你真他妈的漂亮，艾米。 *呻吟* "
+    u "你真他妈的漂亮，艾米。 *呻吟*"
 
 # game/v13/scene26.rpy:175
 translate chinese v13_emmy_sex_28b8dee5:
 
     # emmy "Keep... fucking me... baby... *Moans*"
-    emmy "继续……操我……宝贝…… *呻吟* "
+    emmy "继续……操我……宝贝儿…… *呻吟*"
 
 # game/v13/scene26.rpy:181
 translate chinese v13_emmy_sex_0d8c6652:
@@ -148,7 +148,7 @@ translate chinese v13_emmy_sex_bd02c84b:
 translate chinese v13_emmy_sex_9b9d7fb4:
 
     # u "Yes, baby... *Moans* Cum for me."
-    u "是的，宝贝…… *呻吟* 为我而高潮。"
+    u "是的，宝贝儿…… *呻吟* 为我而高潮。"
 
 # game/v13/scene26.rpy:191
 translate chinese v13_emmy_sex_961e79dd:
@@ -160,7 +160,7 @@ translate chinese v13_emmy_sex_961e79dd:
 translate chinese v13_emmy_sex_7937c0d8:
 
     # u "I... I am t-too... *Gasps*"
-    u "我……我也-是…… *气喘吁吁* "
+    u "我……我也是…… *气喘吁吁*"
 
 # game/v13/scene26.rpy:203
 translate chinese v13_emmy_sex_0ba2504b:
@@ -172,7 +172,7 @@ translate chinese v13_emmy_sex_0ba2504b:
 translate chinese v13_emmy_sex_dca74aac:
 
     # u "Shit, Emmy I... I didn't mean to, but I think I just came inside of you. *Chuckles*"
-    u "该死的，艾米……我不是故意的，但我想我刚刚射在了你的里面。 *咯咯笑* "
+    u "该死的，艾米……我不是故意的，但我想我刚刚射在了你的里面。 *咯咯笑*"
 
 # game/v13/scene26.rpy:207
 translate chinese v13_emmy_sex_fc24ab9c:
@@ -184,17 +184,17 @@ translate chinese v13_emmy_sex_fc24ab9c:
 translate chinese v13_emmy_sex_0aff841e:
 
     # emmy "*Chuckles* Don't worry, if anything happens I'll handle it."
-    emmy " *咯咯笑* 别担心，如果有什么事情发生，我会处理的。"
+    emmy "*咯咯笑* 别担心，如果有什么事情发生，我会处理的。"
 
 # game/v13/scene26.rpy:219
 translate chinese v13s25_nsfwSkipLabel1_6928ed5d:
 
     # emmy "Thanks for a good fuck, cutie! Later... *Laughs*"
-    emmy "谢谢你的完美性爱，小可爱！再见…… *笑* "
+    emmy "谢谢你的完美性爱，小可爱！再见…… *笑*"
 
 # game/v13/scene26.rpy:224
 translate chinese v13s25_nsfwSkipLabel1_ce64d3de:
 
     # u "*Chuckles* (She's definitely not the relationship type.)"
-    u " *咯咯笑* (她绝对不是恋爱类型。)"
+    u "*咯咯笑* (她绝对不是恋爱类型。)"
 

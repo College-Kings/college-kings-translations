@@ -118,7 +118,7 @@ translate chinese v13s57a_6e87cdee:
 translate chinese v13s57a_0074b2f6:
 
     # lee "I don't know how you two knew, but these are my favorite. *Chuckles* I have tons of them all over my house and even in my office back on campus."
-    lee "我不知道你们是怎么知道的，但这些是我的最爱。我家里到处都是，甚至在学校的办公室里也有很多。"
+    lee "我不知道你们是怎么知道的，但这些是我的最爱。 *咯咯笑* 我家里到处都是，甚至在学校的办公室里也有很多。"
 
 # game/v13/scene57a.rpy:172
 translate chinese v13s57a_4504936c:

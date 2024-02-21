@@ -34,7 +34,7 @@ translate chinese v13s61_2781efd5:
 translate chinese v13s61_297c1469:
 
     # au "*Sighs* Okay, let me know if you need anything. Please."
-    au " *叹息* 好吧，如果你需要什么就告诉我。拜托了。"
+    au "*叹息* 好吧，如果你需要什么就告诉我。拜托了。"
 
 # game/v13/scene61.rpy:62
 translate chinese v13s61_d6224755:
@@ -52,7 +52,7 @@ translate chinese v13s61_9144aa84:
 translate chinese v13s61_1906699e:
 
     # u "Don't worry about it, Aubrey. It's not your fault I can't climb. *Chuckles*"
-    u "别担心，奥布里。我爬不上去不是你的错。 *咯咯笑* "
+    u "别担心，奥布里。我爬不上去不是你的错。 *咯咯笑*"
 
 # game/v13/scene61.rpy:82
 translate chinese v13s61_2ec6d181:
@@ -64,5 +64,5 @@ translate chinese v13s61_2ec6d181:
 translate chinese v13s61_7d193b2b:
 
     # u "*Yawns*"
-    u " *打哈欠* "
+    u "*打哈欠*"
 

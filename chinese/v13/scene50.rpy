@@ -136,7 +136,7 @@ translate chinese v13s50_3a63e0b4:
 translate chinese v13s50_8e7ab8bb:
 
     # ri "I've always liked the beginning, you know? The part where you're just getting to know each other and everything."
-    ri "我一直喜欢开头，你知道吗?你们刚刚开始了解彼此的那部分。"
+    ri "我一直喜欢开头，你知道吗？你们刚刚开始了解彼此的那部分。"
 
 # game/v13/scene50.rpy:150
 translate chinese v13s50_a0c33ab7:
@@ -154,7 +154,7 @@ translate chinese v13s50_f33ba3f3:
 translate chinese v13s50_a443cf7b:
 
     # em "There's still plenty to learn. *Chuckles* [name] still knows more about me than you do I think."
-    em "还有很多东西需要学习。 *咯咯笑* [name]还是比你更了解我。"
+    em "还有很多东西需要学习。 *咯咯笑* [name]，还是比你更了解我。"
 
 # game/v13/scene50.rpy:165
 translate chinese v13s50_bfc6db32:
@@ -172,7 +172,7 @@ translate chinese v13s50_d83cb76a:
 translate chinese v13s50_65cc9639:
 
     # u "Yeah, you guys haven't talked long enough to make up for years of knowing each other, haha."
-    u "是啊，你们聊得还不够久，不足以弥补多年的相互了解，哈哈。"
+    u "好吧，你们聊得还不够久，不足以弥补多年的相互了解，哈哈。"
 
 # game/v13/scene50.rpy:184
 translate chinese v13s50_f3387375:
@@ -280,7 +280,7 @@ translate chinese v13s50_bec5d3ea:
 translate chinese v13s50_28aaceb1:
 
     # ry "Hurry back, Em! A minute away from your beautiful face is a minute I regret."
-    ry "快回来，艾米！离开你美丽脸庞的一分钟都是我后悔的一分钟。"
+    ry "快回来，艾米丽！离开你美丽脸庞的一分钟都是我后悔的一分钟。"
 
 # game/v13/scene50.rpy:279
 translate chinese v13s50_b2e1715d:

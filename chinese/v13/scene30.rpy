@@ -16,7 +16,7 @@ translate chinese v13s30_4ab55fbd:
 translate chinese v13s30_78221734:
 
     # am "And we got some weed!!! You know what that means..."
-    am "我们还有一些大麻！你知道那意味着什么……"
+    am "我们还有一些大麻！！！你知道那意味着什么……"
 
 # game/v13/scene30.rpy:24
 translate chinese v13s30_ef2f1671:
@@ -82,19 +82,19 @@ translate chinese v13s30_9f970a74:
 translate chinese v13s30_0efc084f:
 
     # u "I don't know about all that. *Chuckles*"
-    u "我都不知道。 *咯咯笑* "
+    u "我都不知道。 *咯咯笑*"
 
 # game/v13/scene30.rpy:90
 translate chinese v13s30_9333ba98:
 
     # am "Well, she didn't give me a hug... *Chuckles*"
-    am "嗯，她没有给我一个拥抱…… *咯咯笑* "
+    am "嗯，她没有给我一个拥抱…… *咯咯笑*"
 
 # game/v13/scene30.rpy:95
 translate chinese v13s30_e90bde5a:
 
     # u "*Chuckles* Fair enough."
-    u " *咯咯笑* 很公平。"
+    u "*咯咯笑* 好吧。"
 
 # game/v13/scene30.rpy:100
 translate chinese v13s30_f63998eb:
@@ -112,19 +112,19 @@ translate chinese v13s30_a2cffee9:
 translate chinese v13s30_3f52d6d4:
 
     # am "So, if you get fucked up I'll try to feel bad. *Chuckles*"
-    am "所以，如果你搞砸了，我会很难过的。 *咯咯笑* "
+    am "所以，如果你搞砸了，我会很难过的。 *咯咯笑*"
 
 # game/v13/scene30.rpy:114
 translate chinese v13s30_5e886813:
 
     # am "You said you wanted to come back when we were in London. So if you get fucked up, that's on you. *Chuckles*"
-    am "你说我们在伦敦的时候你想来，所以，如果你搞砸了，让你好看。 *咯咯笑* "
+    am "你说我们在伦敦的时候你想来，所以，如果你搞砸了，让你好看。 *咯咯笑*"
 
 # game/v13/scene30.rpy:119
 translate chinese v13s30_030429e0:
 
     # u "I appreciate that. *Chuckles*"
-    u "我很感激。 *咯咯笑* "
+    u "我很感激。 *咯咯笑*"
 
 # game/v13/scene30.rpy:124
 translate chinese v13s30_78821685:
@@ -172,7 +172,7 @@ translate chinese v13s30_3eaadda6:
 translate chinese v13s30_8a96c26d:
 
     # u "Always with the games. Tsk tsk..."
-    u "总是和游戏在一起。啧啧啧啧……"
+    u "总是和游戏在一起。啧啧啧……"
 
 # game/v13/scene30.rpy:185
 translate chinese v13s30_74270f08:
@@ -184,7 +184,7 @@ translate chinese v13s30_74270f08:
 translate chinese v13s30_52f3e131:
 
     # u "Better not have grabbed that HardOn stuff..."
-    u "最好不要拿硬通货的东西。"
+    u "最好不要拿能哈登的东西……"
 
 # game/v13/scene30.rpy:195
 translate chinese v13s30_2db4ab88:
@@ -196,7 +196,7 @@ translate chinese v13s30_2db4ab88:
 translate chinese v13s30_4cad4617:
 
     # u "I'm good, not trying to get fucked up, fucked up. *Laughs*"
-    u "我很好，不想搞砸，不想。 *笑* "
+    u "我很好，不想搞砸，不想。 *笑*"
 
 # game/v13/scene30.rpy:207
 translate chinese v13s30_153d3ac9:
@@ -208,7 +208,7 @@ translate chinese v13s30_153d3ac9:
 translate chinese v13s30_fcc18885:
 
     # u "*Laughs*"
-    u " *笑* "
+    u "*笑*"
 
 # game/v13/scene30.rpy:220
 translate chinese v13s30_c5a1219a:
@@ -220,7 +220,7 @@ translate chinese v13s30_c5a1219a:
 translate chinese v13s30_46869296:
 
     # am "That was a wack way to put it, but let's roll up. *Laughs*"
-    am "这是一个古怪的说法，但是让我们开始吧。 *笑* "
+    am "这是一个古怪的说法，但是让我们开始吧。 *笑*"
 
 # game/v13/scene30.rpy:230
 translate chinese v13s30_51bb962d:
@@ -238,25 +238,25 @@ translate chinese v13s30_8ad3509a:
 translate chinese v13s30_5c532546:
 
     # am "*Chuckles* Come roll up with us."
-    am " *咯咯笑* 和我们一起嗨吧。"
+    am "*咯咯笑* 和我们一起嗨吧。"
 
 # game/v13/scene30.rpy:256
 translate chinese v13s30_8a3e3cf1:
 
     # u "*Whisper* Amber, really?"
-    u " *低语* 琥珀，真的吗？"
+    u "*低语* 琥珀，真的吗？"
 
 # game/v13/scene30.rpy:261
 translate chinese v13s30_3ba00623:
 
     # am "What? Weed solves everything... She won't be mad at you after a good session on the Cheex. *Chuckles*"
-    am "什么？大麻能解决一切问题。她不会生你的气的，在体面上开了一次好课之后她就不会生你气了。 *咯咯笑* "
+    am "什么？大麻能解决一切问题。她不会生你的气的，在体面上开了一次好课之后她就不会生你气了。 *咯咯笑*"
 
 # game/v13/scene30.rpy:266
 translate chinese v13s30_e52454a6:
 
     # la "*Sighs* I've been thinking about this anyway, and I'm not gonna walk around all the time with an angry face just because of you."
-    la " *叹息* 反正我一直在想这件事，我不会因为你而一直带着愤怒的表情走来走去。"
+    la "*叹息* 反正我一直在想这件事，我不会因为你而一直带着愤怒的表情走来走去。"
 
 # game/v13/scene30.rpy:271
 translate chinese v13s30_6c837126:
@@ -286,7 +286,7 @@ translate chinese v13s30_53435770:
 translate chinese v13s30_7f12c608:
 
     # am "See? No hard feelings. Time to light up."
-    am "看？没有什么不好的感觉。是时候点烟了。"
+    am "看吧？没有什么不好的感觉。是时候点烟了。"
 
 # game/v13/scene30.rpy:307
 translate chinese v13s30_46d0c475:
@@ -316,7 +316,7 @@ translate chinese v13s30_5a978b58:
 translate chinese v13s30_a1e848d2:
 
     # la "*Chuckles*"
-    la " *咯咯笑* "
+    la "*咯咯笑*"
 
 # game/v13/scene30.rpy:358
 translate chinese v13s30_c75895ac:
@@ -328,13 +328,13 @@ translate chinese v13s30_c75895ac:
 translate chinese v13s30_01338660:
 
     # am "I hate you. *Laughs*"
-    am "我讨厌你。 *笑* "
+    am "我讨厌你。 *笑*"
 
 # game/v13/scene30.rpy:368
 translate chinese v13s30_6d1b6cf7:
 
     # la "*Laughs*"
-    la " *笑* "
+    la "*笑*"
 
 # game/v13/scene30.rpy:374
 translate chinese v13s30_80925854:
@@ -400,7 +400,7 @@ translate chinese v13s30_cfaeda08:
 translate chinese v13s30_897cc7d7:
 
     # la "Is it going to make me feel sick?"
-    la "这会让我觉得恶心吗？"
+    la "这会让我觉得上头吗？"
 
 # game/v13/scene30.rpy:444
 translate chinese v13s30_9f2360c5:
@@ -418,7 +418,7 @@ translate chinese v13s30_fc701f2d:
 translate chinese v13s30_6a13d385:
 
     # am "Oh wow, was that a cuss word... Someone's feeling feisty tonight! Just risk it all, huh?"
-    am "噢，哇，那是个粗俗的词吗……今晚有人感觉很活泼！就这么冒险吧，嗯？"
+    am "噢，哇哦，那是个粗俗的词吗……今晚有人感觉很活泼！就这么冒险吧，嗯？"
 
 # game/v13/scene30.rpy:464
 translate chinese v13s30_9867dd63:
@@ -442,7 +442,7 @@ translate chinese v13s30_518b7856:
 translate chinese v13s30_9730c2f9:
 
     # la "*Cough* *Cough* *Cough* *Cough*"
-    la " *咳嗽* *咳嗽* *咳嗽* *咳嗽* "
+    la "*咳嗽* *咳嗽* *咳嗽* *咳嗽*"
 
 # game/v13/scene30.rpy:496
 translate chinese v13s30_8c9b6345:
@@ -454,13 +454,13 @@ translate chinese v13s30_8c9b6345:
 translate chinese v13s30_8569c4fa:
 
     # u "*Chuckles*"
-    u " *咯咯笑* "
+    u "*咯咯笑*"
 
 # game/v13/scene30.rpy:506
 translate chinese v13s30_7e3d9978:
 
     # la "*Coughs* Don't laugh just because I'm not a pothead like you guys."
-    la " *咳嗽* 别因为我不像你们一样吸毒就笑。"
+    la "*咳嗽* 别因为我不像你们一样吸毒就笑。"
 
 # game/v13/scene30.rpy:512
 translate chinese v13s30_b39558ea:
@@ -490,7 +490,7 @@ translate chinese v13s30_ffa46330:
 translate chinese v13s30_7ea8a42a:
 
     # am "It's a little quick for a reaction, you sure you're not just faking it? *Chuckles*"
-    am "这对于反应来说有点太快了，你确定你不是在假装吗？ *咯咯笑* "
+    am "这对于反应来说有点太快了，你确定你不是在假装吗？ *咯咯笑*"
 
 # game/v13/scene30.rpy:569
 translate chinese v13s30_43365b81:
@@ -502,7 +502,7 @@ translate chinese v13s30_43365b81:
 translate chinese v13s30_dd577bab:
 
     # u "It was one hit, though."
-    u "不过，这只是一首热门歌曲。"
+    u "不过，这只是一种兴奋。"
 
 # game/v13/scene30.rpy:579
 translate chinese v13s30_9e3f1e8f:
@@ -514,7 +514,7 @@ translate chinese v13s30_9e3f1e8f:
 translate chinese v13s30_363f21b6:
 
     # am "Ayeeee, it's working! *Laughs*"
-    am "哎哟哎, 它起作用了！*笑* "
+    am "哎哟哎, 它起作用了！*笑*"
 
 # game/v13/scene30.rpy:589
 translate chinese v13s30_a76c8c2f:
@@ -568,7 +568,7 @@ translate chinese v13s30_e9e4d32b:
 translate chinese v13s30_9dc584de:
 
     # la "*Mumble*"
-    la " *含糊不清* "
+    la "*含糊不清*"
 
 # game/v13/scene30.rpy:662
 translate chinese v13s30_9f9035e6:
@@ -592,13 +592,13 @@ translate chinese v13s30_21412df9:
 translate chinese v13s30_f4ebe128:
 
     # la "*Sighs* Please don't make me feel bad. Maybe another time, okay?"
-    la " *叹息* 请不要让我难过。也许改天吧，好吗？"
+    la "*叹息* 请不要让我难过。也许改天吧，好吗？"
 
 # game/v13/scene30.rpy:703
 translate chinese v13s30_373f8b2e:
 
     # am "*Sighs* Fine."
-    am " *叹息* 好吧。"
+    am "*叹息* 好吧。"
 
 # game/v13/scene30.rpy:713
 translate chinese v13s30_2982a1b8:
@@ -628,7 +628,7 @@ translate chinese v13s30_14c59181:
 translate chinese v13s30_96f746ec:
 
     # am "Oh, don't worry. You'll make it up to me. *Chuckles*"
-    am "噢，别担心。你会补偿我的。 *咯咯笑* "
+    am "噢，别担心。你会补偿我的。 *咯咯笑*"
 
 # game/v13/scene30.rpy:738
 translate chinese v13s30_8ac5774f:

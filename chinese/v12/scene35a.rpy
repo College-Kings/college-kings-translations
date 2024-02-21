@@ -52,7 +52,7 @@ translate chinese v12_nora_room_f2a3b5c9:
 translate chinese v12_nora_room_1c1865fa:
 
     # no "*Sighs* I can't even remember what it's like to be the center of someone's world..."
-    no " *叹息* 我甚至忘了成为别人世界的中心是种什么感觉……"
+    no "*叹息* 我甚至忘了成为别人世界的中心是种什么感觉……"
 
 # game/v12/scene35a.rpy:64
 translate chinese v12_nora_room_a7277248:
@@ -118,13 +118,13 @@ translate chinese v12_nora_room_f511104e:
 translate chinese v12_nora_room_0dc6bd00:
 
     # no "*Whispers* Ha..."
-    no " *窃窃私语* 哈……"
+    no "*低语* 哈……"
 
 # game/v12/scene35a.rpy:125
 translate chinese v12_nora_room_de4ba1c0:
 
     # no "*Sighs* Wow..."
-    no " *叹息* 哇……"
+    no "*叹息* 哇哦……"
 
 # game/v12/scene35a.rpy:130
 translate chinese v12_nora_room_ef2f1671:
@@ -172,7 +172,7 @@ translate chinese v12_nora_room_c9b67ddb:
 translate chinese v12_nora_room_5d136b66:
 
     # u "The closer the better... *Chuckles*"
-    u "越亲密越好…… *咯咯笑* "
+    u "越亲密越好…… *咯咯笑*"
 
 # game/v12/scene35a.rpy:170
 translate chinese v12_nora_room_dea0ed80:
@@ -184,13 +184,13 @@ translate chinese v12_nora_room_dea0ed80:
 translate chinese v12_nora_room_26f16b8d:
 
     # u "Haven't heard that one before... *Chuckles*"
-    u "我以前没听过这个…… *咯咯笑* "
+    u "我以前没听过这个…… *咯咯笑*"
 
 # game/v12/scene35a.rpy:180
 translate chinese v12_nora_room_4fe2c3fe:
 
     # no "*Sighs* God..."
-    no " *叹息* 天呐……"
+    no "*叹息* 天呐……"
 
 # game/v12/scene35a.rpy:185
 translate chinese v12_nora_room_159d8765:
@@ -220,7 +220,7 @@ translate chinese v12_nora_room_1810f2da:
 translate chinese v12_nora_room_b06dcec5:
 
     # u "Well, at first you did. *Chuckles*"
-    u "嗯，一开始你是这么想的。 *咯咯笑* "
+    u "嗯，一开始你是这么想的。 *咯咯笑*"
 
 # game/v12/scene35a.rpy:210
 translate chinese v12_nora_room_9a685710:
@@ -238,7 +238,7 @@ translate chinese v12_nora_room_a051c5ef:
 translate chinese v12_nora_room_fb078f00:
 
     # u "That's how it's supposed to be. *Chuckles*"
-    u "事情本该是这样的。 *咯咯笑* "
+    u "事情本该是这样的。 *咯咯笑*"
 
 # game/v12/scene35a.rpy:225
 translate chinese v12_nora_room_5466160c:
@@ -280,7 +280,7 @@ translate chinese v12_nora_room_e7e5761d:
 translate chinese v12_nora_room_f06b340e:
 
     # u "*Sighs* I wouldn't put you in a situation like this, I don't do things with a motive. I'm just here to be your friend..."
-    u " *叹息* 我不会让你陷入这样的境地，我做事没有动机。我只是来做你的朋友的。"
+    u "*叹息* 我不会让你陷入这样的境地，我做事没有动机。我只是来做你的朋友的。"
 
 # game/v12/scene35a.rpy:283
 translate chinese v12_nora_no_sex_584ca87a:
@@ -322,7 +322,7 @@ translate chinese v12_nora_no_sex_9be162cf:
 translate chinese v12_nora_no_sex_49126883:
 
     # no "Yeah, I will."
-    no "的，我会的。"
+    no "好的，我会的。"
 
 # game/v12/scene35a.rpy:346
 translate chinese v12_nora_no_sex_49c85835:
@@ -340,7 +340,7 @@ translate chinese v12_nora_no_sex_f9c8b293:
 translate chinese v12_nora_sex_34826dad:
 
     # no "Is this-"
-    no "这是不是-"
+    no "这是不是……"
 
 # game/v12/scene35a.rpy:391
 translate chinese v12_nora_sex_dbff9016:
@@ -358,7 +358,7 @@ translate chinese v12_nora_sex_20cdfa69:
 translate chinese v12_nora_sex_0760a9ad:
 
     # no "Mmm... This feels so relaxing... Do you want me to-"
-    no "嗯……这感觉太放松了。你想让我-"
+    no "嗯……这感觉太放松了。你想让我……"
 
 # game/v12/scene35a.rpy:419
 translate chinese v12_nora_sex_80f116bc:
@@ -388,7 +388,7 @@ translate chinese v12_nora_sex_2fa84de5:
 translate chinese v12_nora_sex_b0157895:
 
     # no "*Moans* Oh, fuck..."
-    no " *呻吟* 噢，操……"
+    no "*呻吟* 噢，操……"
 
 # game/v12/scene35a.rpy:487
 translate chinese v12_nora_sex_02aaf59c:
@@ -400,7 +400,7 @@ translate chinese v12_nora_sex_02aaf59c:
 translate chinese v12_nora_sex_83fda248:
 
     # no "Sh-shit... *Moans*"
-    no "操…… *呻吟* "
+    no "操…… *呻吟*"
 
 # game/v12/scene35a.rpy:495
 translate chinese v12_nora_sex_158bca37:
@@ -412,7 +412,7 @@ translate chinese v12_nora_sex_158bca37:
 translate chinese v12_nora_sex_1b67e2fc:
 
     # no "Y-yes..."
-    no "是-是的……"
+    no "是……是的……"
 
 # game/v12/scene35a.rpy:503
 translate chinese v12_nora_sex_3feba3c8:
@@ -424,13 +424,13 @@ translate chinese v12_nora_sex_3feba3c8:
 translate chinese v12_nora_sex_2ccb4942:
 
     # u "I always fucking have."
-    u "我他妈的一直都有。"
+    u "我他妈的一直都是。"
 
 # game/v12/scene35a.rpy:526
 translate chinese v12_nora_sex_11e289ee:
 
     # no "*Moans* It's been such a long time since I've felt this... Good... *Moans* Fuck!"
-    no " *呻吟* 我已经很长时间没有这种感觉了……很好…… *呻吟* 操！"
+    no "*呻吟* 我已经很长时间没有这种感觉了……很好…… *呻吟* 操！"
 
 # game/v12/scene35a.rpy:532
 translate chinese v12_nora_sex_e3b73dbf:
@@ -442,7 +442,7 @@ translate chinese v12_nora_sex_e3b73dbf:
 translate chinese v12_nora_sex_75fc1e76:
 
     # no "Mmm, yes [name]!"
-    no "嗯，是的[name]！"
+    no "嗯，是的，[name]！"
 
 # game/v12/scene35a.rpy:540
 translate chinese v12_nora_sex_79838d5e:
@@ -454,25 +454,25 @@ translate chinese v12_nora_sex_79838d5e:
 translate chinese v12_nora_sex_06fea136:
 
     # no "*Gasps* [name]! I'm- I'm going t-"
-    no " *喘气* [name]！我要-我要去了-"
+    no "*喘气* [name]！我要……我要去了……"
 
 # game/v12/scene35a.rpy:548
 translate chinese v12_nora_sex_f08195bd:
 
     # u "Ohhhh no... Not yet, baby. I'm not ready for this to end..."
-    u "噢不……还不行，宝贝。我还没准备好让这一切结束。"
+    u "噢，不……还不行，宝贝儿。我还没准备好让这一切结束……"
 
 # game/v12/scene35a.rpy:569
 translate chinese v12_nora_sex_53f83c0f:
 
     # no "Oh my fucking... God... *Moans*"
-    no "噢，我他妈的……上帝啊…… *呻吟* "
+    no "噢，我他妈的……上帝啊…… *呻吟*"
 
 # game/v12/scene35a.rpy:571
 translate chinese v12_nora_sex_a19606cf:
 
     # no "This feels so... wrong... *Moans*"
-    no "这感觉太……遭了…… *呻吟* "
+    no "这感觉太……上头了…… *呻吟*"
 
 # game/v12/scene35a.rpy:577
 translate chinese v12_nora_sex_eddc179f:
@@ -490,7 +490,7 @@ translate chinese v12_nora_sex_497cf11d:
 translate chinese v12_nora_sex_99e20b3d:
 
     # no "*Moans* Okay, yeah... You're s- so fucking right... *Moans*"
-    no " *呻吟* 好的，是的……你他妈的说得太对了…… *呻吟* "
+    no "*呻吟* 好的，是的……你他妈的说得太对了…… *呻吟*"
 
 # game/v12/scene35a.rpy:591
 translate chinese v12_nora_sex_b58e0d61:
@@ -502,7 +502,7 @@ translate chinese v12_nora_sex_b58e0d61:
 translate chinese v12_nora_sex_c1f3b058:
 
     # no "*Moans* Don't... stop... I'm- *Gasps*"
-    no " *呻吟* 别……别停下来……我又要- *喘气* "
+    no "*呻吟* 别……别停下来……我又要…… *喘气*"
 
 # game/v12/scene35a.rpy:609
 translate chinese v12_nora_sex_fedcf55d:
@@ -520,7 +520,7 @@ translate chinese v12_nora_sex_cabd2299:
 translate chinese v12_nora_sex_41c089a7:
 
     # no "*Chuckles* I'm glad you know it, babe."
-    no " *咯咯笑* 很高兴你知道，宝贝。"
+    no "*咯咯笑* 很高兴你知道，宝贝儿。"
 
 # game/v12/scene35a.rpy:623
 translate chinese v12_nora_sex_acd71bfe:
@@ -532,7 +532,7 @@ translate chinese v12_nora_sex_acd71bfe:
 translate chinese v12_nora_sex_78d414a1:
 
     # u "*Moans* FUCK-"
-    u " *呻吟* 操-"
+    u "*呻吟* 操……"
 
 # game/v12/scene35a.rpy:644
 translate chinese v12_nora_sex_55e60ad9:
@@ -562,13 +562,13 @@ translate chinese v12_nora_sex_f9e7a340:
 translate chinese v12_nora_sex_fd8c7add:
 
     # u "I am too. *Chuckles*"
-    u "我也是。 *咯咯笑* "
+    u "我也是。 *咯咯笑*"
 
 # game/v12/scene35a.rpy:669
 translate chinese v12_nora_sex_e3ea8cd1:
 
     # no "*Chuckles* I'm sure you are. I'm gonna take a shower, okay?"
-    no " *咯咯笑* 我相信你是。我去洗个澡，好吗？"
+    no "*咯咯笑* 我相信你是。我去洗个澡，好吗？"
 
 # game/v12/scene35a.rpy:674
 translate chinese v12_nora_sex_f241214b:
@@ -604,7 +604,7 @@ translate chinese v12_nora_sex_22ab8908:
 translate chinese v12s35a_nsfwSkipLabel1_ca110429:
 
     # u "(I just had sex with Nora. NORA!!! I fucked Chris' girl! Wow... Gonna have to sleep on this one.)"
-    u "(我刚刚和诺拉做爱了。诺拉！！！我上了克里斯的女朋友！哇噢……这件事我得先睡一觉。)"
+    u "(我刚刚和诺拉做爱了。诺拉！！！我上了克里斯的女朋友！哇哦……这件事后我得先睡一觉。)"
 
 translate chinese strings:
 

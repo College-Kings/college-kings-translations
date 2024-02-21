@@ -16,7 +16,7 @@ translate chinese v11_imre_ryan_grapple_66874e1b:
 translate chinese v11_imre_ryan_grapple_120a53eb:
 
     # u "Sorry, I-"
-    u "抱歉，我-"
+    u "抱歉，我……"
 
 # game/v11/scene36.rpy:61
 translate chinese v11_imre_ryan_grapple_308d2a8f:

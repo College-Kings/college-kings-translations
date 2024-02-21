@@ -4,13 +4,13 @@
 translate chinese v12_amber_after_spa_8ff2a4ae:
 
     # u "Damn Amber, is that employee merch? *Chuckles*"
-    u "该死的琥珀，这是员工的东西吗？ *咯咯笑* "
+    u "该死的琥珀，这是员工的东西吗？ *咯咯笑*"
 
 # game/v12/scene34.rpy:32
 translate chinese v12_amber_after_spa_fd5d70c3:
 
     # u "Wow Amber, that's a really nice towel."
-    u "哇，琥珀，那条毛巾真不错。"
+    u "哇哦，琥珀，那条毛巾真不错。"
 
 # game/v12/scene34.rpy:40
 translate chinese v12_amber_after_spa_bb4d39de:
@@ -34,7 +34,7 @@ translate chinese v12_amber_after_spa_a0b3bab8:
 translate chinese v12_amber_after_spa_55b333c6:
 
     # u "*Chuckles* Come on... Just having a little fun, Amber."
-    u " *咯咯笑* 没有……只是想找点乐子，琥珀。"
+    u "*咯咯笑* 没有……只是想找点乐子，琥珀。"
 
 # game/v12/scene34.rpy:92
 translate chinese v12_amber_after_spa_538bc683:
@@ -94,7 +94,7 @@ translate chinese v12_amber_after_spa_be730509:
 translate chinese v12_amber_after_spa_4b12320c:
 
     # imre "Damn bro, she just rocked your shit! *Laughs*"
-    imre "该死的兄弟，她让你爽翻了！ *笑* "
+    imre "该死的兄弟，她让你爽翻了！ *笑*"
 
 # game/v12/scene34.rpy:233
 translate chinese v12_amber_after_spa_5c3d0028:
@@ -118,7 +118,7 @@ translate chinese v12_amber_after_spa_79b592fc:
 translate chinese v12_amber_after_spa_3b68fc68:
 
     # imre "Yeah, we saw. *Laughs*"
-    imre "是的，我们看到了。 *笑* "
+    imre "是的，我们看到了。 *笑*"
 
 # game/v12/scene34.rpy:253
 translate chinese v12_amber_after_spa_319258b5:

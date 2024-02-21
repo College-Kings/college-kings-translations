@@ -88,7 +88,7 @@ translate chinese v14s06_c3c818f7:
 translate chinese v14s06_ff57c6e7:
 
     # u "Are you gonna-"
-    u "你要不要-"
+    u "你要不要……"
 
 # game/v14/scene6.rpy:111
 translate chinese v14s06_66167a8a:
@@ -100,7 +100,7 @@ translate chinese v14s06_66167a8a:
 translate chinese v14s06_57ae9944:
 
     # u "*Sighs*"
-    u " *叹息* "
+    u "*叹息*"
 
 # game/v14/scene6.rpy:121
 translate chinese v14s06_09f54a91:

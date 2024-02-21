@@ -16,7 +16,7 @@ translate chinese v13s12a_da7229bf:
 translate chinese v13s12a_480f12b4:
 
     # au "*Chuckles* Yeah, where were you?"
-    au " *咯咯笑* 是啊，你刚去了哪里？"
+    au "*咯咯笑* 是啊，你刚去了哪里？"
 
 # game/v13/scene12a.rpy:32
 translate chinese v13s12a_f4957aa6:
@@ -40,13 +40,13 @@ translate chinese v13s12a_f5dab63d:
 translate chinese v13s12a_b9563d83:
 
     # u "Yeah, let's go."
-    u "好的，我们走吧。"
+    u "是的，我们走吧。"
 
 # game/v13/scene12a.rpy:77
 translate chinese v13s12a_0750e036:
 
     # au "Wow, haha... There's plenty of people here. I knew it'd be packed."
-    au "哇，哈哈……这里有很多人。我就知道会挤得满满的。"
+    au "哇哦，哈哈……这里有很多人。我就知道会挤得满满的。"
 
 # game/v13/scene12a.rpy:82
 translate chinese v13s12a_e9a35cf9:
@@ -64,25 +64,25 @@ translate chinese v13s12a_be7251d0:
 translate chinese v13s12a_8cab0957:
 
     # u "Where do these artists come up with their names? *Chuckles*"
-    u "这些艺人的名字是从哪里来的？ *咯咯笑* "
+    u "这些艺人的名字是从哪里来的？ *咯咯笑*"
 
 # game/v13/scene12a.rpy:97
 translate chinese v13s12a_ba77ed24:
 
     # au "I'm not sure about everyone, but I know her last name is Lolly and her first name starts with a P, so she mashed it up and went by Polly. *Laughs*"
-    au "我不确定每个人的情况，但我知道她姓洛莉，名字以P开头，所以她把名字混在一起，叫波莉。 *笑* "
+    au "我不确定每个人的情况，但我知道她姓洛莉，名字以P开头，所以她把名字混在一起，叫波莉。 *笑*"
 
 # game/v13/scene12a.rpy:102
 translate chinese v13s12a_7c93346d:
 
     # u "That actually makes a little sense. *Chuckles*"
-    u "这实际上有点道理。 *咯咯笑* "
+    u "这实际上有点道理。 *咯咯笑*"
 
 # game/v13/scene12a.rpy:107
 translate chinese v13s12a_f0ff98b1:
 
     # au "Haha, luckily we got a front row spot. We won't have a problem-"
-    au "哈哈，幸运的是我们有一个前排的位置。我们不会有问题的-"
+    au "哈哈，幸运的是我们有一个前排的位置。我们不会有问题的……"
 
 # game/v13/scene12a.rpy:115
 translate chinese v13s12a_bac05d6b:
@@ -124,7 +124,7 @@ translate chinese v13s12a_8f07dfa1:
 translate chinese v13s12a_bd8b94bc:
 
     # u "OH! *Laughs*"
-    u "噢！ *笑* "
+    u "噢！ *笑*"
 
 # game/v13/scene12a.rpy:150
 translate chinese v13s12a_a2aeac22:
@@ -154,7 +154,7 @@ translate chinese v13s12a_25f771dc:
 translate chinese v13s12a_e0ef9d2e:
 
     # au "*Laughs*"
-    au " *笑* "
+    au "*笑*"
 
 # game/v13/scene12a.rpy:178
 translate chinese v13s12a_f391cfc9:
@@ -166,25 +166,25 @@ translate chinese v13s12a_f391cfc9:
 translate chinese v13s12a_a9da8792:
 
     # polly "*Singing* LOVE COMES UNEXPECTED, LOVE'S UNNATURAL!"
-    polly " *唱歌* LOVE COMES UNEXPECTED, LOVE'S UNNATURAL！"
+    polly "*唱歌* LOVE COMES UNEXPECTED, LOVE'S UNNATURAL！"
 
 # game/v13/scene12a.rpy:188
 translate chinese v13s12a_04c7f2d1:
 
     # au "*SINGING* I CAN *MUMBLE* *MUMBLE* LOVE IS LIKE A BATTERY, IT POWERS UP MY SOUL!"
-    au " *唱歌* 我可以 *喃喃自语* *喃喃自语* LOVE IS LIKE A BATTERY, IT POWERS UP MY SOUL！"
+    au "*唱歌* 我可以 *喃喃自语* *喃喃自语* LOVE IS LIKE A BATTERY, IT POWERS UP MY SOUL！"
 
 # game/v13/scene12a.rpy:193
 translate chinese v13s12a_71072c3f:
 
     # u "STUMBLED THERE A BIT. *Chuckles*"
-    u "有点磕磕绊绊。 *咯咯笑* "
+    u "有点磕磕绊绊。 *咯咯笑*"
 
 # game/v13/scene12a.rpy:198
 translate chinese v13s12a_3ea043c6:
 
     # au "CLOSE ENOUGH! *Laughs*"
-    au "够近了！ *笑* "
+    au "够近了！ *笑*"
 
 # game/v13/scene12a.rpy:203
 translate chinese v13s12a_9076967f:
@@ -202,13 +202,13 @@ translate chinese v13s12a_7c3d1fb5:
 translate chinese v13s12a_b7565fae:
 
     # unknown "YO, SHUT UP! YOU'RE YELLING IN MY FUCKING FACE!"
-    unknown "哟，闭嘴！别他妈的在我脸上大喊大叫！"
+    unknown "哟，闭嘴！别他妈地在我脸上大喊大叫！"
 
 # game/v13/scene12a.rpy:218
 translate chinese v13s12a_bc2183e8:
 
     # au "TRUST ME, NO ONE WANTS TO BE NEAR YOUR NASTY ASS FACE!"
-    au "相信我没人想靠近你肮脏的鞋拔子脸！"
+    au "相信我没人想靠近你那肮脏的鞋拔子脸！"
 
 # game/v13/scene12a.rpy:223
 translate chinese v13s12a_25f771dc_1:
@@ -238,7 +238,7 @@ translate chinese v13s12a_a51983b6:
 translate chinese v13s12a_28776696:
 
     # unknown "S-SORRY BRO, I DIDN'T MEAN ANYTHING BY IT..."
-    unknown "抱-抱歉，兄弟，我不是故意的……"
+    unknown "抱……抱歉，兄弟，我不是故意的……"
 
 # game/v13/scene12a.rpy:249
 translate chinese v13s12a_4b07b18c:
@@ -262,7 +262,7 @@ translate chinese v13s12a_fe8b7f8f:
 translate chinese v13s12a_ab67e78b:
 
     # unknown "DON'T FUCKING IGNORE ME, DO YOU KNOW WHO I-"
-    unknown "别他妈不理我，你知道我是谁-"
+    unknown "别他妈不理我，你知道我是谁……"
 
 # game/v13/scene12a.rpy:269
 translate chinese v13s12a_55ae301c:
@@ -274,7 +274,7 @@ translate chinese v13s12a_55ae301c:
 translate chinese v13s12a_fcc18885:
 
     # u "*Laughs*"
-    u " *笑* "
+    u "*笑*"
 
 # game/v13/scene12a.rpy:279
 translate chinese v13s12a_091064ab:
@@ -292,7 +292,7 @@ translate chinese v13s12a_5214e2ca:
 translate chinese v13s12a_671df067:
 
     # polly "My love in the front, could you chill with the camera? What's with all the pictures? People usually use video at concerts these days. *Chuckles*"
-    polly "我的爱人，你能对着镜头冷静点吗？这些照片是怎么回事？现在人们通常在音乐会上录像了。 *咯咯笑* "
+    polly "我的爱人，你能对着镜头冷静点吗？这些照片是怎么回事？现在人们通常在音乐会上录像了。 *咯咯笑*"
 
 # game/v13/scene12a.rpy:304
 translate chinese v13s12a_6765b87f:
@@ -304,13 +304,13 @@ translate chinese v13s12a_6765b87f:
 translate chinese v13s12a_6a4b526e:
 
     # au "*Whisper* [name]!"
-    au " *低语* [name]！"
+    au "*低语* [name]！"
 
 # game/v13/scene12a.rpy:314
 translate chinese v13s12a_b4cd37b6:
 
     # polly "Oh, shit... Okay! I like a little bit of sass... How about you two join me backstage, later. *Chuckles*"
-    polly "噢，该死的……好吧!我喜欢有点粗鲁……晚些时候，你们两个和我一起去后台怎么样。 *咯咯笑* "
+    polly "噢，该死的……好吧!我喜欢有点粗鲁……晚些时候，你们两个和我一起去后台怎么样。 *咯咯笑*"
 
 # game/v13/scene12a.rpy:319
 translate chinese v13s12a_5a158a5a:
@@ -328,7 +328,7 @@ translate chinese v13s12a_d695c666:
 translate chinese v13s12a_eb0a5a4f:
 
     # polly "*Singing* LOVE COMES UNEXPECTED, LOVE'S UNNATURAL! I CAN FEEL MY HEARTBEAT, LOVE IS LIKE A BATTERY, IT POWERS UP MY SOUL!"
-    polly " *唱歌* LOVE COMES UNEXPECTED, LOVE'S UNNATURAL! I CAN FEEL MY HEARTBEAT, LOVE IS LIKE A BATTERY, IT POWERS UP MY SOUL!！"
+    polly "*唱歌* LOVE COMES UNEXPECTED, LOVE'S UNNATURAL! I CAN FEEL MY HEARTBEAT, LOVE IS LIKE A BATTERY, IT POWERS UP MY SOUL!！"
 
 # game/v13/scene12a.rpy:337
 translate chinese v13s12a_95b34c98:
@@ -340,7 +340,7 @@ translate chinese v13s12a_95b34c98:
 translate chinese v13s12a_2db25100:
 
     # u "OF COURSE. *Laughs*"
-    u "当然。 *笑* "
+    u "不客气。 *笑*"
 
 # game/v13/scene12a.rpy:353
 translate chinese v13s12a_de19ee5d:
@@ -364,7 +364,7 @@ translate chinese v13s12a_1aa0d5dd:
 translate chinese v13s12a_fa18e911:
 
     # u "(Little does Polly know, we already had backstage passes. *Chuckles*)"
-    u "(波莉不知道，我们已经有后台通行证了。 *咯咯笑* )"
+    u "(波莉不知道，我们已经有后台通行证了。 *咯咯笑*)"
 
 # game/v13/scene12a.rpy:384
 translate chinese v13s12a_9992da1e:
@@ -400,7 +400,7 @@ translate chinese v13s12a_5b8ebd88:
 translate chinese v13s12a_42a40c6a:
 
     # polly "Just gonna stand there with nothing to say, huh? *Chuckles* Just cool it with the flashes, alright sweetheart?"
-    polly "就打算站在那里什么都不说吗？*咯咯笑* 用闪光灯冷静一下，好吗，甜心？"
+    polly "就打算站在那里什么都不说吗？*咯咯笑* 用闪光灯冷静一下，好吗，宝贝儿？"
 
 # game/v13/scene12a.rpy:432
 translate chinese v13s12a_9457eee2:
@@ -412,7 +412,7 @@ translate chinese v13s12a_9457eee2:
 translate chinese v13s12a_f5c28cea:
 
     # polly "*Singing* LOVE COMES UNEXPECTED, LOVE'S UNNATURAL! I CAN FEEL MY HEARTBEAT, LOVE IS LIKE BATTERY, IT POWERS UP MY SOUL!"
-    polly " *唱歌* LOVE COMES UNEXPECTED, LOVE'S UNNATURAL! I CAN FEEL MY HEARTBEAT, LOVE IS LIKE BATTERY, IT POWERS UP MY SOUL!！"
+    polly "*唱歌* LOVE COMES UNEXPECTED, LOVE'S UNNATURAL! I CAN FEEL MY HEARTBEAT, LOVE IS LIKE BATTERY, IT POWERS UP MY SOUL!！"
 
 # game/v13/scene12a.rpy:445
 translate chinese v13s12a_e10dd611:
@@ -424,7 +424,7 @@ translate chinese v13s12a_e10dd611:
 translate chinese v13s12a_596756b8:
 
     # unknown "SHE TOLD YOUR ASS! *Laughs*"
-    unknown "她说了你的坏话！ *笑* "
+    unknown "她说了你的坏话！ *笑*"
 
 # game/v13/scene12a.rpy:454
 translate chinese v13s12a_a74eb799:
@@ -448,13 +448,13 @@ translate chinese v13s12a_b8731567:
 translate chinese v13s12a_f61ffe01:
 
     # au "*Sighs* If you say so... Even if she is a bitch... I'd still like to meet her. *Laughs*"
-    au " *叹息* 如果你这么说……即使她是个婊子……我还是想见见她。 *笑* "
+    au "*叹息* 如果你这么说……即使她是个婊子……我还是想见见她。 *笑*"
 
 # game/v13/scene12a.rpy:491
 translate chinese v13s12a_54f9527d:
 
     # u "*Sighs* Not the night I expected either... OKAY, LET'S GO."
-    u " *叹息* 也不是我预期的夜晚……好吧，我们走吧。"
+    u "*叹息* 也不是我预期的夜晚……好吧，我们走吧。"
 
 # game/v13/scene12a.rpy:517
 translate chinese v13s12a_b88241cf:

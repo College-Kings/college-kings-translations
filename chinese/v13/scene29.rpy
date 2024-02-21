@@ -4,19 +4,19 @@
 translate chinese v13s29_dd541353:
 
     # gary "My friends, my wonderful friends. Welcome to the bus of weed, or as I like to call it, The AmsterDamn."
-    gary "我的朋友们，我的好朋友们。欢迎乘坐大麻巴士，我喜欢叫它阿姆斯特丹。"
+    gary "我的朋友们，我的好朋友们。欢迎乘坐大麻巴士，我喜欢叫它\"梦幻阿姆斯特丹\"。"
 
 # game/v13/scene29.rpy:33
 translate chinese v13s29_854a11b1:
 
     # am "*Whisper* Weirdo."
-    am " *低语* 怪人。"
+    am "*低语* 怪人。"
 
 # game/v13/scene29.rpy:38
 translate chinese v13s29_8569c4fa:
 
     # u "*Chuckles*"
-    u " *咯咯笑* "
+    u "*咯咯笑*"
 
 # game/v13/scene29.rpy:43
 translate chinese v13s29_40ac7b59:
@@ -28,19 +28,19 @@ translate chinese v13s29_40ac7b59:
 translate chinese v13s29_dd541353_1:
 
     # gary "My friends, my wonderful friends. Welcome to the bus of weed, or as I like to call it, The AmsterDamn."
-    gary "我的朋友们，我的好朋友们。欢迎乘坐大麻巴士，我喜欢叫它阿姆斯特丹。"
+    gary "我的朋友们，我的好朋友们。欢迎乘坐大麻巴士，我喜欢叫它\"梦幻阿姆斯特丹\"。"
 
 # game/v13/scene29.rpy:79
 translate chinese v13s29_854a11b1_1:
 
     # am "*Whisper* Weirdo."
-    am " *低语* 怪人。"
+    am "*低语* 怪人。"
 
 # game/v13/scene29.rpy:84
 translate chinese v13s29_8569c4fa_1:
 
     # u "*Chuckles*"
-    u " *咯咯笑* "
+    u "*咯咯笑*"
 
 # game/v13/scene29.rpy:89
 translate chinese v13s29_40ac7b59_1:
@@ -64,25 +64,25 @@ translate chinese v13s29_2e187a31:
 translate chinese v13s29_a5d88899:
 
     # gary "Now I should introduce myself, my name is Gary Ganja, King of Weeds, etc."
-    gary "现在我要自我介绍一下，我叫大麻加里，杂草之王，等等。"
+    gary "现在我要自我介绍一下，我叫大麻加里，传奇毒枭，等等。"
 
 # game/v13/scene29.rpy:114
 translate chinese v13s29_6e331bce:
 
     # u "So, what did we spend our money on...?"
-    u "那么，我们把钱花在……上了吗？"
+    u "那么，我们把钱花在什么上了吗……？"
 
 # game/v13/scene29.rpy:119
 translate chinese v13s29_51853462:
 
     # gary "Well young friend, you paid for a ticket, but you're getting an experience."
-    gary "好的，年轻的朋友，你付了钱，但你得到了一次体验。"
+    gary "好了，年轻的朋友，你付了钱，但你得到了一次体验。"
 
 # game/v13/scene29.rpy:124
 translate chinese v13s29_8ab56835:
 
     # am "I paid to find out what's the best weed so let's get on with it."
-    am "我付钱是为了找出什么是最好的杂草，所以让我们开始吧。"
+    am "我付钱是为了找出什么是最好的烟草，所以让我们开始吧。"
 
 # game/v13/scene29.rpy:129
 translate chinese v13s29_b988d3fa:
@@ -124,7 +124,7 @@ translate chinese v13s29_a6046f2b:
 translate chinese v13s29_31315083:
 
     # am "Good pot. *Chuckles*"
-    am "上乘的大麻。 *咯咯笑* "
+    am "上乘的大麻。 *咯咯笑*"
 
 # game/v13/scene29.rpy:166
 translate chinese v13s29_b19684a0:
@@ -142,7 +142,7 @@ translate chinese v13s29_ea777461:
 translate chinese v13s29_deb99d94:
 
     # gary "Because your cheeks is what you'll be on after a good hit of this beautiful creation of god."
-    gary "因为你美丽的脸颊是上帝好好享受这玩意儿后创造的。"
+    gary "因为你美丽的脸颊是上帝尽情享受这玩意儿之后创造的。"
 
 # game/v13/scene29.rpy:181
 translate chinese v13s29_78a95b01:
@@ -160,7 +160,7 @@ translate chinese v13s29_1c73ae60:
 translate chinese v13s29_2a123ef1:
 
     # am "Really? You take my money and show me everything, but now you wanna ask our ages? Don't be like that!"
-    am "认真的？你拿了我的钱，就该什么都给我看，现在你却要问我们的年龄？别这样！"
+    am "认真的？你拿了我的钱，就该什么都给我，现在你却要问我们的年龄？别这样！"
 
 # game/v13/scene29.rpy:196
 translate chinese v13s29_1e9ada2a:
@@ -196,19 +196,19 @@ translate chinese v13s29_def694e7:
 translate chinese v13s29_27d1d035:
 
     # am "Oh wow!"
-    am "Oh wow!"
+    am "噢，哇哦！"
 
 # game/v13/scene29.rpy:236
 translate chinese v13s29_488a74ce:
 
     # gary "Wow indeed."
-    gary "噢，哇！"
+    gary "确实哇哦。"
 
 # game/v13/scene29.rpy:241
 translate chinese v13s29_af8e02d5:
 
     # gary "This here is a HardOn!"
-    gary "哇，确实是个硬通货。"
+    gary "确实是个哈登。"
 
 # game/v13/scene29.rpy:246
 translate chinese v13s29_8529170a:
@@ -220,7 +220,7 @@ translate chinese v13s29_8529170a:
 translate chinese v13s29_095b6755:
 
     # gary "You heard me right, it's a HardOn."
-    gary "你没听错，硬通货。"
+    gary "你没听错，哈登。"
 
 # game/v13/scene29.rpy:257
 translate chinese v13s29_7d5b1be7:
@@ -268,7 +268,7 @@ translate chinese v13s29_b0e35718:
 translate chinese v13s29_a27dcdb8:
 
     # u "I don't have a hard-"
-    u "我没有硬-"
+    u "我没有哈……"
 
 # game/v13/scene29.rpy:307
 translate chinese v13s29_5f8fb01f:
@@ -298,7 +298,7 @@ translate chinese v13s29_463ae28c:
 translate chinese v13s29_be9c1760:
 
     # u "*Whisper* What the fuck."
-    u " *低语* 他妈的怎么回事。"
+    u "*低语* 他妈的怎么回事。"
 
 # game/v13/scene29.rpy:332
 translate chinese v13s29_14ed434e:
@@ -322,19 +322,19 @@ translate chinese v13s29_f85f77cd:
 translate chinese v13s29_a29fbbc2:
 
     # gary "Those who don't support legalization aren't crazy and have a very fair point. Even though I LOVE WEED, I don't even support its legalization."
-    gary "那些不支持合法化的人并不疯狂，而且有一个非常公平的观点。虽然我喜欢大麻，但我甚至不支持大麻合法化。"
+    gary "那些不支持合法化的人并不疯狂，而且有一个非常合理的观点。虽然我喜欢大麻，但我不支持大麻合法化。"
 
 # game/v13/scene29.rpy:365
 translate chinese v13s29_b7f2a68c:
 
     # am "How the fuck does that work? *Chuckles*"
-    am "这他妈是怎么做到的？ *咯咯笑* "
+    am "这他妈是怎么做到的？ *咯咯笑*"
 
 # game/v13/scene29.rpy:370
 translate chinese v13s29_3e949e02:
 
     # gary "Again, I love the shit, but we don't know its affects on every demographic. Young and old, healthy and sick, direct or secondhand high, etc."
-    gary "再说一次，我喜欢这玩意儿，但我们不知道它对每一个人群的影响。老少咸宜、健康多病、直接或间接等等。"
+    gary "再说一次，我喜欢这玩意儿，但我们不知道它对每一个人群的影响。老人小孩、健康多病、直接或间接等等。"
 
 # game/v13/scene29.rpy:371
 translate chinese v13s29_b5cc30cd:
@@ -370,7 +370,7 @@ translate chinese v13s29_49d85b9c:
 translate chinese v13s29_e9d970b6:
 
     # am "*Whisper* Oh my god. *Chuckles*"
-    am " *低语* 噢，我的天。 *咯咯笑* "
+    am "*低语* 噢，我的天。 *咯咯笑*"
 
 # game/v13/scene29.rpy:401
 translate chinese v13s29_b6c21891:
@@ -406,7 +406,7 @@ translate chinese v13s29_6f361414:
 translate chinese v13s29_aec89ce9:
 
     # am "Go, go, go!"
-    am "快走，快走，快走！"
+    am "快点，快点，快点！"
 
 # game/v13/scene29.rpy:452
 translate chinese v13s29_b60be43a:
@@ -430,19 +430,19 @@ translate chinese v13s29_09a14f61:
 translate chinese v13s29_a3a0f47c:
 
     # am "The story of my life! *Laughs*"
-    am "我的灿烂人生！ *笑* "
+    am "我的灿烂人生！ *笑*"
 
 # game/v13/scene29.rpy:512
 translate chinese v13s29_253d5705:
 
     # u "*Heavy breathing* Fuck!"
-    u " *沉重的呼吸* 操！"
+    u "*沉重的呼吸* 操！"
 
 # game/v13/scene29.rpy:517
 translate chinese v13s29_7800ba8e:
 
     # am "*Heavy breathing* You're out of shape."
-    am " *呼吸急促* 你身材走样了。"
+    am "*呼吸急促* 你身材走样了。"
 
 # game/v13/scene29.rpy:522
 translate chinese v13s29_a8ab0b4c:
@@ -454,13 +454,13 @@ translate chinese v13s29_a8ab0b4c:
 translate chinese v13s29_df00af1a:
 
     # am "*Heavy breathing* I could run another mile, I noticed you slowing down."
-    am " *呼吸急促* 我可以再跑一英里，我注意到你放慢了速度。"
+    am "*呼吸急促* 我可以再跑一英里，我注意到你放慢了速度。"
 
 # game/v13/scene29.rpy:532
 translate chinese v13s29_5353be6d:
 
     # u "*Heavy breathing* Whatever."
-    u " *沉重的呼吸* 随便了。"
+    u "*沉重的呼吸* 随便了。"
 
 # game/v13/scene29.rpy:538
 translate chinese v13s29_5d4ac436:
@@ -472,7 +472,7 @@ translate chinese v13s29_5d4ac436:
 translate chinese v13s29_27594969:
 
     # am "*Heavy breathing* When you get some meat on your bones come talk to me."
-    am " *沉重的呼吸* 当你的骨头上有肉的时候，再来跟我说。"
+    am "*沉重的呼吸* 当你的骨头上有肉的时候，再来跟我说。"
 
 # game/v13/scene29.rpy:548
 translate chinese v13s29_c34294eb:

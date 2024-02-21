@@ -28,7 +28,7 @@ translate chinese v13s33_d11bd0c7:
 translate chinese v13s33_0e690f5b:
 
     # u "*Sighs* Where is it?"
-    u " *叹息* 它在哪里？"
+    u "*叹息* 它在哪里？"
 
 # game/v13/scene33.rpy:55
 translate chinese v13s33_529ea372:
@@ -46,7 +46,7 @@ translate chinese v13s33_10f86b22:
 translate chinese v13s33_35fa3030:
 
     # ri "Same way I knew the last few times, these clues are way too easy. *Chuckles*"
-    ri "就像我前几次知道的一样，这些线索太简单了。 *咯咯笑* "
+    ri "就像我前几次知道的一样，这些线索太简单了。 *咯咯笑*"
 
 # game/v13/scene33.rpy:70
 translate chinese v13s33_ec3eb410:
@@ -64,7 +64,7 @@ translate chinese v13s33_dc6dba25:
 translate chinese v13s33_57ae9944:
 
     # u "*Sighs*"
-    u " *叹息* "
+    u "*叹息*"
 
 # game/v13/scene33.rpy:95
 translate chinese v13s33_e7a41f39:

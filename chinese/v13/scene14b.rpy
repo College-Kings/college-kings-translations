@@ -4,13 +4,13 @@
 translate chinese v13s14b_25cd2512:
 
     # u "Oh shit, this is a club, club!"
-    u "该死的，这才是夜总会，夜总会！"
+    u "噢，天呐，这才是夜总会，夜总会！"
 
 # game/v13/scene14b.rpy:25
 translate chinese v13s14b_b41053fc:
 
     # polly "*Chuckles* What were you expecting?"
-    polly " *咯咯笑* 你在期待什么？"
+    polly "*咯咯笑* 你在期待什么？"
 
 # game/v13/scene14b.rpy:31
 translate chinese v13s14b_ef0ca01d:
@@ -22,7 +22,7 @@ translate chinese v13s14b_ef0ca01d:
 translate chinese v13s14b_e322537a:
 
     # pe "Holy... I love this! I've only seen clubs like this on TV. *Chuckles*"
-    pe "天啊……我喜欢这个！我只在电视上看到过这样的夜总会。 *咯咯笑* "
+    pe "天啊……我喜欢这个！我只在电视上看到过这样的夜总会。 *咯咯笑*"
 
 # game/v13/scene14b.rpy:41
 translate chinese v13s14b_29fa186c:
@@ -46,7 +46,7 @@ translate chinese v13s14b_02fa723f:
 translate chinese v13s14b_e3e9d036:
 
     # u "One shouldn't hurt."
-    u "一杯没有事的。"
+    u "一杯没事儿的。"
 
 # game/v13/scene14b.rpy:61
 translate chinese v13s14b_91f2d630:
@@ -58,7 +58,7 @@ translate chinese v13s14b_91f2d630:
 translate chinese v13s14b_ed3a8c0e:
 
     # polly "I can make that work. Hey! Dickhead! Bring us some beers!"
-    polly "我来叫酒。嘿！白痴！给我们那些啤酒来！"
+    polly "我来叫酒。嘿！白痴！给我们拿些啤酒来！"
 
 # game/v13/scene14b.rpy:71
 translate chinese v13s14b_3342e208:
@@ -82,13 +82,13 @@ translate chinese v13s14b_1bcbfabb:
 translate chinese v13s14b_5360e7b9:
 
     # random_guy "You guys aren't having this softie here, drink are you? *Scoffs*"
-    random_guy "你们不会是在喝软性饮料吧？ *嘲笑* "
+    random_guy "你们不会是在喝软性饮料吧？ *嘲笑*"
 
 # game/v13/scene14b.rpy:87
 translate chinese v13s14b_ed251715:
 
     # random_guy "Don't look at me when she's sitting on her ass. *Laughs*"
-    random_guy "她坐着的时候别看我。 *笑* "
+    random_guy "她坐着的时候别看我。 *笑*"
 
 # game/v13/scene14b.rpy:92
 translate chinese v13s14b_fe327f67:
@@ -106,13 +106,13 @@ translate chinese v13s14b_4cc02504:
 translate chinese v13s14b_5dc6bf3c:
 
     # u "*Chuckles* Don't look at me."
-    u " *咯咯笑* 别看我。"
+    u "*咯咯笑* 别看我。"
 
 # game/v13/scene14b.rpy:112
 translate chinese v13s14b_4e4c95df:
 
     # pe "*Sighs* Bottoms up..."
-    pe " *叹息* 干杯……"
+    pe "*叹息* 干杯……"
 
 # game/v13/scene14b.rpy:122
 translate chinese v13s14b_e3a662d8:
@@ -124,7 +124,7 @@ translate chinese v13s14b_e3a662d8:
 translate chinese v13s14b_341a0266:
 
     # polly "The taste doesn't matter, sister! It's the vibe you get from the chug that counts. *Chuckles*"
-    polly "味道不重要，妹妹！你喝啤酒时感受到的氛围才重要。 *咯咯笑* "
+    polly "味道不重要，妹妹！你喝啤酒时感受到的氛围才重要。 *咯咯笑*"
 
 # game/v13/scene14b.rpy:132
 translate chinese v13s14b_f33c8a24:
@@ -142,13 +142,13 @@ translate chinese v13s14b_11dfd3e4:
 translate chinese v13s14b_8055d6f9:
 
     # pe "*Chuckles* I'm a lot like you so far."
-    pe " *咯咯笑* 到目前为止，我和你很像。"
+    pe "*咯咯笑* 到目前为止，我和你很像。"
 
 # game/v13/scene14b.rpy:147
 translate chinese v13s14b_ae742f2e:
 
     # polly "See? You're loosening up already!"
-    polly "看？你已经开始放松了！"
+    polly "看吧？你已经开始放松了！"
 
 # game/v13/scene14b.rpy:152
 translate chinese v13s14b_d4fb57ae:
@@ -172,31 +172,31 @@ translate chinese v13s14b_e7167356:
 translate chinese v13s14b_8e5821c4:
 
     # pe "Woah, I can definitely feel it working its magic. *Chuckles*"
-    pe "哇，我真的能感觉到它在发挥它的魔力。 *咯咯笑* "
+    pe "哇，我真的能感觉到它在发挥它的魔力。 *咯咯笑*"
 
 # game/v13/scene14b.rpy:179
 translate chinese v13s14b_a1a7cfb8:
 
     # u "This is low-key impressive. *Laughs*"
-    u "真是低调轻奢华。 *笑* "
+    u "真是低调轻奢华。 *笑*"
 
 # game/v13/scene14b.rpy:184
 translate chinese v13s14b_2e316301:
 
     # pe "*Tipsy* Round of applause for Penelope!"
-    pe " *醉了* 为佩内洛普鼓掌！"
+    pe "*醉酒* 为佩内洛普鼓掌！"
 
 # game/v13/scene14b.rpy:189
 translate chinese v13s14b_bbcbb0c4:
 
     # polly "Which one? *Laughs*"
-    polly "哪一个？ *笑* "
+    polly "哪一个？ *笑*"
 
 # game/v13/scene14b.rpy:192
 translate chinese v13s14b_04a9fadf:
 
     # u "You should slow down a bit."
-    u "你应该喝慢一点。"
+    u "你应该喝慢一点儿。"
 
 # game/v13/scene14b.rpy:197
 translate chinese v13s14b_fae62213:
@@ -214,7 +214,7 @@ translate chinese v13s14b_b9592021:
 translate chinese v13s14b_1d4cd07d:
 
     # pe "*Tipsy* C'mon, [name]! I wanna dance."
-    pe " *醉了* 来吧，[name]！我想跳舞。"
+    pe "*醉酒* 来吧，[name]！我想跳舞。"
 
 # game/v13/scene14b.rpy:214
 translate chinese v13s14b_651a31e3:
@@ -226,19 +226,19 @@ translate chinese v13s14b_651a31e3:
 translate chinese v13s14b_cc2e1e12:
 
     # u "You're turned all the way up right now. *Chuckles*"
-    u "你现在的情绪太激动了。 *咯咯笑* "
+    u "你现在的情绪太激动了。 *咯咯笑*"
 
 # game/v13/scene14b.rpy:244
 translate chinese v13s14b_06a7f501:
 
     # pe "*Drunk* Haha, I'm so happy!"
-    pe " *醉酒* 哈哈，我太高兴了！"
+    pe "*醉酒* 哈哈，我太高兴了！"
 
 # game/v13/scene14b.rpy:249
 translate chinese v13s14b_ace1b262:
 
     # pe "*Drunk* You're so handsome, I just wanna eat you up..."
-    pe " *醉酒* 你太帅了，我真想把你吃掉……"
+    pe "*醉酒* 你太帅了，我真想把你吃掉……"
 
 # game/v13/scene14b.rpy:257
 translate chinese v13s14b_6f82d915:
@@ -250,7 +250,7 @@ translate chinese v13s14b_6f82d915:
 translate chinese v13s14b_6193e2ed:
 
     # pe "*Drunk* Aww..."
-    pe " *醉酒* 哇……"
+    pe "*醉酒* 啊……"
 
 # game/v13/scene14b.rpy:267
 translate chinese v13s14b_a65415e4:
@@ -268,13 +268,13 @@ translate chinese v13s14b_68e92e14:
 translate chinese v13s14b_51af99ed:
 
     # polly "She kicked over the can, huh? *Chuckles*"
-    polly "她踢翻了罐子，嗯？ *咯咯笑* "
+    polly "她踢翻了罐子，嗯？ *咯咯笑*"
 
 # game/v13/scene14b.rpy:287
 translate chinese v13s14b_9f1fc251:
 
     # u "You could say that. *Chuckles*"
-    u "可以这么说。 *咯咯笑* "
+    u "可以这么说。 *咯咯笑*"
 
 # game/v13/scene14b.rpy:291
 translate chinese v13s14b_cf833256:
@@ -298,7 +298,7 @@ translate chinese v13s14b_7a289d4d:
 translate chinese v13s14b_aa43cfbc:
 
     # pe "*Drunk* We have to remember our night together... *Chuckles*"
-    pe " *醉酒* 我们必须记住我们在一起的夜晚…… *咯咯笑* "
+    pe "*醉酒* 我们必须记住我们在一起的夜晚…… *咯咯笑*"
 
 # game/v13/scene14b.rpy:318
 translate chinese v13s14b_bbf9e907:
@@ -310,13 +310,13 @@ translate chinese v13s14b_bbf9e907:
 translate chinese v13s14b_a91752d5:
 
     # pe "*Drunk* I'm a little dizzy..."
-    pe " *醉酒* 我有点头晕……"
+    pe "*醉酒* 我有点儿头晕……"
 
 # game/v13/scene14b.rpy:328
 translate chinese v13s14b_a8fe1c80:
 
     # u "Are you-"
-    u "你是不是-"
+    u "你是不是……"
 
 # game/v13/scene14b.rpy:338
 translate chinese v13s14b_422e17f6:
@@ -328,13 +328,13 @@ translate chinese v13s14b_422e17f6:
 translate chinese v13s14b_24c55713:
 
     # pe "*Drunk* This is a funny night... *Laughs*"
-    pe " *醉酒* 这是个有趣的夜晚…… *笑* "
+    pe "*醉酒* 这是个有趣的夜晚…… *笑*"
 
 # game/v13/scene14b.rpy:353
 translate chinese v13s14b_b7f01c2d:
 
     # polly "Oh, wow... Someone's off the rocker. *Chuckles*"
-    polly "噢，哇……有人走火入魔了。 *咯咯笑* "
+    polly "噢，哇哦……有人走火入魔了。 *咯咯笑*"
 
 # game/v13/scene14b.rpy:358
 translate chinese v13s14b_df9c2fc3:
@@ -400,7 +400,7 @@ translate chinese v13s14b_d6224755:
 translate chinese v13s14b_bce39785:
 
     # pe "*Drunk* I'm flying!!!"
-    pe " *醉酒* 我在飞翔！！！"
+    pe "*醉酒* 我在飞翔！！！"
 
 # game/v13/scene14b.rpy:421
 translate chinese v13s14b_fd2f14c9:

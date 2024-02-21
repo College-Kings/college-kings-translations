@@ -256,13 +256,13 @@ translate chinese v10_lauren_room_sg_6d1b6cf7:
 translate chinese v10_lauren_room_sg_a92117f6:
 
     # u "Lauren are we-"
-    u "劳伦，我们是不是-"
+    u "劳伦，我们是不是……"
 
 # game/v10/scene24.rpy:256
 translate chinese v10_lauren_room_sg_3b36c0c6:
 
     # u "(Oh wow!)"
-    u "(噢，哇！)"
+    u "(噢，哇哦！)"
 
 # game/v10/scene24.rpy:264
 translate chinese v10_lauren_room_sg_49a2ed61:

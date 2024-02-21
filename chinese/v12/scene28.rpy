@@ -16,13 +16,13 @@ translate chinese v12_riley_lobby_c2c2be8d:
 translate chinese v12_riley_lobby_8e006355:
 
     # ri "*Crying* Don't \"what are you talking about\" me! You hung my picture up for everyone to see!"
-    ri " *哭泣* 别对我一副\"你在说什么呢\"的样子！你把我的照片挂起来让大家看！"
+    ri "*哭泣* 别对我一副\"你在说什么呢\"的样子！你把我的照片挂起来让大家看！"
 
 # game/v12/scene28.rpy:32
 translate chinese v12_riley_lobby_e5e94be2:
 
     # u "What?! No, no, no! I didn't, I haven't even been here. I just got back from getting a ta-"
-    u "什么？！没有，没有，没有！我没做过，我甚至都没来过这里。我刚从纹身-"
+    u "什么？！没有，没有，没有！我没做过，我甚至都没来过这里。我刚从纹身……"
 
 # game/v12/scene28.rpy:37
 translate chinese v12_riley_lobby_efa0cbca:

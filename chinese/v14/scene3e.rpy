@@ -160,7 +160,7 @@ translate chinese v14s03e_1ac49958:
 translate chinese v14s03e_b416daa4:
 
     # ry "Yeah, yeah. Whatever, [name]."
-    ry "是啊，是啊。不管怎样，[name]。"
+    ry "好吧，好吧。不管怎样，[name]。"
 
 # game/v14/scene3e.rpy:180
 translate chinese v14s03e_0b792270:
@@ -172,7 +172,7 @@ translate chinese v14s03e_0b792270:
 translate chinese v14s03e_9a447b3b:
 
     # u "Haha, thanks. I promise next time I'll-"
-    u "哈哈，谢谢。我保证下次我会-"
+    u "哈哈，谢谢。我保证下次我会……"
 
 # game/v14/scene3e.rpy:190
 translate chinese v14s03e_d41edc34:
@@ -184,7 +184,7 @@ translate chinese v14s03e_d41edc34:
 translate chinese v14s03e_406e754d:
 
     # u "Yeah... that."
-    u "是啊……就那样。"
+    u "是的……就那样。"
 
 # game/v14/scene3e.rpy:200
 translate chinese v14s03e_e89c83c8:
@@ -214,7 +214,7 @@ translate chinese v14s03e_cf7ba45b:
 translate chinese v14s03e_3295ab92:
 
     # imre "No, not even with the money I sto-"
-    imre "不，即使我存了那么多钱也不行-"
+    imre "不，即使我存了那么多钱也不行……"
 
 # game/v14/scene3e.rpy:230
 translate chinese v14s03e_c5587799:
@@ -250,7 +250,7 @@ translate chinese v14s03e_e8015a74:
 translate chinese v14s03e_f5ddd912:
 
     # ry "There's a girl named Ashley here... She's in booth two, and in my opinion, she's the hottest girl here."
-    ry "这里有个叫阿什莉的女孩。她在二号展位，在我看来，她是这里最性感的女孩。"
+    ry "这里有个叫阿什莉的女孩……她在二号展位，在我看来，她是这里最性感的女孩。"
 
 # game/v14/scene3e.rpy:260
 translate chinese v14s03e_b14d70ec:
@@ -262,7 +262,7 @@ translate chinese v14s03e_b14d70ec:
 translate chinese v14s03e_87aec256:
 
     # imre "*Gasps* Ryan... Bro... Are you serious right now?"
-    imre " *气喘吁吁* 瑞恩……兄弟……你现在是认真的吗？"
+    imre "*气喘吁吁* 瑞恩……兄弟……你现在是认真的吗？"
 
 # game/v14/scene3e.rpy:270
 translate chinese v14s03e_08d94bc6:
@@ -310,25 +310,25 @@ translate chinese v14s03e_23728e62:
 translate chinese v14s03e_dfefba39:
 
     # ry "*Laughs* No it wasn't."
-    ry " *笑* 不，不是的。"
+    ry "*笑* 不，不是的。"
 
 # game/v14/scene3e.rpy:317
 translate chinese v14s03e_1533d8ef:
 
     # ry "Ashley is a man."
-    ry "艾希礼是个男人。"
+    ry "阿什莉是个男人。"
 
 # game/v14/scene3e.rpy:322
 translate chinese v14s03e_ba81ccd6:
 
     # ry "*Laughs* Emerald told me about him."
-    ry " *笑* 翡翠告诉我关于他的事。"
+    ry "*笑* 翡翠告诉了我关于他的事。"
 
 # game/v14/scene3e.rpy:331
 translate chinese v14s03e_aebe6de8:
 
     # u "*Laughs* Oh god."
-    u " *笑* 噢，天呐。"
+    u "*笑* 噢，天呐。"
 
 # game/v14/scene3e.rpy:335
 translate chinese v14s03e_0a84af6a:
@@ -346,13 +346,13 @@ translate chinese v14s03e_6c03de9d:
 translate chinese v14s03e_1dccfcdd:
 
     # ry "So did he. *Laughs*"
-    ry "他也是。 *笑* "
+    ry "他也是。 *笑*"
 
 # game/v14/scene3e.rpy:350
 translate chinese v14s03e_a94dbee2:
 
     # u "Bro, that's fucked up. What if the guy tries to-"
-    u "兄弟，这太糟糕了。如果那家伙想要-"
+    u "兄弟，这太糟糕了。如果那家伙想要……"
 
 # game/v14/scene3e.rpy:352
 translate chinese v14s03e_37122ba1:
@@ -376,7 +376,7 @@ translate chinese v14s03e_45ad5395:
 translate chinese v14s03e_c1dd0b44:
 
     # u "Imre, calm down!"
-    u "伊姆雷，冷静点！"
+    u "伊姆雷，冷静点儿！"
 
 # game/v14/scene3e.rpy:403
 translate chinese v14s03e_e252469d:
@@ -388,7 +388,7 @@ translate chinese v14s03e_e252469d:
 translate chinese v14s03e_869dce38:
 
     # ry "*Laughs* Oh my god... That was a lot funnier than I expected it to be, he couldn't land a single hit! *Laughs*"
-    ry " *笑* 噢，我的天……这比我想象的要有趣得多，他一个球都没打中！ *笑* "
+    ry "*笑* 噢，我的天……这比我想象的要有趣得多，他一个球都没打中！ *笑*"
 
 # game/v14/scene3e.rpy:426
 translate chinese v14s03e_17b41b14:
@@ -418,13 +418,13 @@ translate chinese v14s03e_425b0267:
 translate chinese v14s03e_73a55142:
 
     # u "*Sighs* That's not what I'm talking about, and you know it."
-    u " *叹息* 这不是我说的，你知道的。"
+    u "*叹息* 这不是我说的，你知道的。"
 
 # game/v14/scene3e.rpy:454
 translate chinese v14s03e_e40a96c9:
 
     # ry "Ha, alright [name]. Chill out."
-    ry "哈，好吧，[name]。冷静点。"
+    ry "哈，好吧，[name]。冷静点儿。"
 
 translate chinese strings:
 

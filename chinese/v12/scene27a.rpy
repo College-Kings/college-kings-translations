@@ -448,7 +448,7 @@ translate chinese v12s27a_bd17a259:
 translate chinese v12s27a_38734d17:
 
     # u "Wowww!!! It's... Different. *Chuckles*"
-    u "哇！还真是……与众不同。 *咯咯笑* "
+    u "哇！！！还真是……与众不同。 *咯咯笑* "
 
 # game/v12/scene27a.rpy:380
 translate chinese v12s27a_8fcf7d06:
@@ -532,7 +532,7 @@ translate chinese v12s27a_660bc645:
 translate chinese v12s27a_03e770de:
 
     # u "Look at that! Good karma for being a good sport..."
-    u "看啊！行好必有好报。"
+    u "看啊！行好必有好报……"
 
 # game/v12/scene27a.rpy:454
 translate chinese v12s27a_bc1ee255:

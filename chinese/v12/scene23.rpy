@@ -130,7 +130,7 @@ translate chinese v12_ms_rose_sex_sg_7e98b472:
 translate chinese v12_ms_rose_sex_sg_deb0bb8f:
 
     # u "Like it? I lov-"
-    u "喜欢吗？我喜欢-"
+    u "喜欢吗？我喜欢……"
 
 # game/v12/scene23.rpy:211
 translate chinese v12_ms_rose_sex_sg_5651885a:

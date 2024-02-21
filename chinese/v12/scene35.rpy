@@ -10,19 +10,19 @@ translate chinese v12_chris_nora_room_29d73290:
 translate chinese v12_chris_nora_room_57ae9944:
 
     # u "*Sighs*"
-    u " *叹息* "
+    u "*叹息*"
 
 # game/v12/scene35.rpy:38
 translate chinese v12_chris_nora_room_8e3039b2:
 
     # no "*Inaudible*"
-    no " *听不见* "
+    no "*听不见*"
 
 # game/v12/scene35.rpy:43
 translate chinese v12_chris_nora_room_6de8f3c2:
 
     # ch "*Inaudible*"
-    ch " *听不见* "
+    ch "*听不见*"
 
 # game/v12/scene35.rpy:48
 translate chinese v12_chris_nora_room_d0b91878:
@@ -88,7 +88,7 @@ translate chinese v12_chris_nora_room_5f8c802a:
 translate chinese v12_chris_nora_room_3bb7e37d:
 
     # u "*Sighs* Alright."
-    u " *叹息* 好吧。"
+    u "*叹息* 好吧。"
 
 # game/v12/scene35.rpy:131
 translate chinese v12_chris_nora_room_5c4d09e6:

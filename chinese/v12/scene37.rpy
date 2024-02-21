@@ -16,7 +16,7 @@ translate chinese v12_riley_ending_907ba5b0:
 translate chinese v12_riley_ending_b1a1c994:
 
     # ri "I know it wasn't you that took my picture."
-    ri "我知道不是你拿我的照片。"
+    ri "我知道不是你拿的我照片。"
 
 # game/v12/scene37.rpy:33
 translate chinese v12_riley_ending_21483b73:
@@ -28,13 +28,13 @@ translate chinese v12_riley_ending_21483b73:
 translate chinese v12_riley_ending_1b8ef06e:
 
     # ri "*Sighs* Yeah, I guess."
-    ri " *叹息* 是的，我想是的。"
+    ri "*叹息* 是的，我想是的。"
 
 # game/v12/scene37.rpy:43
 translate chinese v12_riley_ending_5ccd26d3:
 
     # u "Good, now go ahead and tell me just how sorry you are. *Chuckles*"
-    u "很好，现在继续告诉我你有多抱歉。 *咯咯笑* "
+    u "很好，现在继续告诉我你有多抱歉。 *咯咯笑*"
 
 # game/v12/scene37.rpy:48
 translate chinese v12_riley_ending_45a07aef:
@@ -58,13 +58,13 @@ translate chinese v12_riley_ending_edf3a226:
 translate chinese v12_riley_ending_987cce27:
 
     # u "Sounds good, but we'll see... *Chuckles*"
-    u "听起来不错，不过我们走着瞧…… *咯咯笑* "
+    u "听起来不错，不过我们走着瞧…… *咯咯笑*"
 
 # game/v12/scene37.rpy:68
 translate chinese v12_riley_ending_cce7ae0c:
 
     # ri "I'm sure you'll like it... Now, as for the motherfucker that actually stole my picture and humiliated me, they tried framing you..."
-    ri "我相信你会喜欢的……至于那个偷了我照片羞辱我的混蛋，他们想陷害你……"
+    ri "我相信你会喜欢的……至于那些个偷了我照片羞辱我的混蛋，他们想陷害你……"
 
 # game/v12/scene37.rpy:73
 translate chinese v12_riley_ending_12fea7be:
@@ -76,7 +76,7 @@ translate chinese v12_riley_ending_12fea7be:
 translate chinese v12_riley_ending_e6191b36:
 
     # u "Wow, big surprise! It's the guy that hates me, and was in the hallway while we were talking with the door open... How ever did you find out it was him? *Chuckles*"
-    u "哇，大惊喜！就是那个讨厌我的人，我们在房间里聊天的时候门还开着……你怎么知道是他干的？ *咯咯笑* "
+    u "哇哦，大惊喜！就是那个讨厌我的人，我们在房间里聊天的时候门还开着……你怎么知道是他干的？ *咯咯笑*"
 
 # game/v12/scene37.rpy:83
 translate chinese v12_riley_ending_9079d45a:

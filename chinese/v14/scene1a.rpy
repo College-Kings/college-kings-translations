@@ -16,7 +16,7 @@ translate chinese v14s01a_8b258704:
 translate chinese v14s01a_nsfwSkipLabel1_1df632ca:
 
     # u "What the- holy shit...!"
-    u "这他妈- 卧槽……！"
+    u "这他妈……卧槽……！"
 
 # game/v14/scene1a.rpy:44
 translate chinese v14s01a_nsfwSkipLabel1_bacf76df:

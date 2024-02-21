@@ -4,19 +4,19 @@
 translate chinese v13s13a_3bf5de33:
 
     # polly "*Sighs* Whew! I'm exhausted..."
-    polly " *叹息* 哇！我已经筋疲力尽了……"
+    polly "*叹息* 呼！我已经筋疲力尽了……"
 
 # game/v13/scene13a.rpy:27
 translate chinese v13s13a_8569c4fa:
 
     # u "*Chuckles*"
-    u " *咯咯笑* "
+    u "*咯咯笑*"
 
 # game/v13/scene13a.rpy:32
 translate chinese v13s13a_437e8305:
 
     # polly "Oh! I didn't even see you two there... Hey, hey, picture girl. *Chuckles*"
-    polly "噢！我都没看到你们两个在那里……嘿，嘿，照相女孩。 *咯咯笑* "
+    polly "噢！我都没看到你们两个在那里……嘿，嘿，照相女孩。 *咯咯笑*"
 
 # game/v13/scene13a.rpy:37
 translate chinese v13s13a_36765ebf:
@@ -40,13 +40,13 @@ translate chinese v13s13a_6698b7af:
 translate chinese v13s13a_2cb3ce88:
 
     # polly "*Sighs* Good..."
-    polly " *叹息* 很好……"
+    polly "*叹息* 很好……"
 
 # game/v13/scene13a.rpy:57
 translate chinese v13s13a_b61dfe2c:
 
     # au "Why is that good? *Chuckles*"
-    au "为什么很好？ *咯咯笑* "
+    au "为什么很好？ *咯咯笑*"
 
 # game/v13/scene13a.rpy:62
 translate chinese v13s13a_1e292e24:
@@ -64,13 +64,13 @@ translate chinese v13s13a_12f5fa21:
 translate chinese v13s13a_3b79aaeb:
 
     # polly "Wait... A... Flipping... Minute! Aubrey!?"
-    polly "等等……我……想想……奥布里！？"
+    polly "等等……我……想想！奥布里！？"
 
 # game/v13/scene13a.rpy:77
 translate chinese v13s13a_66f0cc02:
 
     # au "Y-Yes... That's my name, how do you know me?"
-    au "是-是的……那是我的名字，你怎么认识我的？"
+    au "是……是的……那是我的名字，你怎么认识我的？"
 
 # game/v13/scene13a.rpy:82
 translate chinese v13s13a_adae45d0:
@@ -94,7 +94,7 @@ translate chinese v13s13a_eb6998ce:
 translate chinese v13s13a_2b784ed9:
 
     # polly "Why are you acting surprised? *Chuckles*"
-    polly "你为什么表现得很惊讶？ *咯咯笑* "
+    polly "你为什么表现得很惊讶？ *咯咯笑*"
 
 # game/v13/scene13a.rpy:98
 translate chinese v13s13a_ff123126:
@@ -124,19 +124,19 @@ translate chinese v13s13a_4c8a029e:
 translate chinese v13s13a_938f4f7f:
 
     # polly "She's not that good either. *Chuckles*"
-    polly "她也没那么好。 *咯咯笑* "
+    polly "她也没那么好。 *咯咯笑*"
 
 # game/v13/scene13a.rpy:120
 translate chinese v13s13a_fcc18885:
 
     # u "*Laughs*"
-    u " *笑* "
+    u "*笑*"
 
 # game/v13/scene13a.rpy:125
 translate chinese v13s13a_5b2db314:
 
     # polly "See! *Chuckles* I'm not the only one that thinks that..."
-    polly "看！ *咯咯笑* 我不是唯一一个这么认为的……"
+    polly "看吧！ *咯咯笑* 我不是唯一一个这么认为的……"
 
 # game/v13/scene13a.rpy:131
 translate chinese v13s13a_54d9476e:
@@ -154,7 +154,7 @@ translate chinese v13s13a_6f297d4a:
 translate chinese v13s13a_9afb5bec:
 
     # polly "Based on what I saw, you're gonna be the Next. Big. Thing. Your first gig is international work in Paris... C'mon now. *Laughs*"
-    polly "根据我所看到的，你会是下个-大-人物。你的第一份工作是在巴黎的国际首秀……加油。*笑* "
+    polly "根据我所看到的，你会是下个大人物。你的第一份工作是在巴黎的国际首秀……加油。*笑*"
 
 # game/v13/scene13a.rpy:146
 translate chinese v13s13a_c6488931:
@@ -166,7 +166,7 @@ translate chinese v13s13a_c6488931:
 translate chinese v13s13a_4c2833ed:
 
     # u "*Chuckles* What?"
-    u " *咯咯笑* 什么？"
+    u "*咯咯笑* 什么？"
 
 # game/v13/scene13a.rpy:156
 translate chinese v13s13a_02870c96:
@@ -274,13 +274,13 @@ translate chinese v13s13a_786e5114:
 translate chinese v13s13a_72cbe0a1:
 
     # polly "Don't forget me when you're famous... *Chuckles*"
-    polly "当你出名的时候别忘了我…… *咯咯笑* "
+    polly "当你出名的时候别忘了我…… *咯咯笑*"
 
 # game/v13/scene13a.rpy:263
 translate chinese v13s13a_c64f5a54:
 
     # au "*Laughs* I won't."
-    au " *笑* 我不会的。"
+    au "*笑* 我不会的。"
 
 # game/v13/scene13a.rpy:268
 translate chinese v13s13a_89e01396:
@@ -292,7 +292,7 @@ translate chinese v13s13a_89e01396:
 translate chinese v13s13a_e4ad8efe:
 
     # au "Haha, I'll try not to. *Chuckles*"
-    au "哈哈，我尽量不。 *咯咯笑* "
+    au "哈哈，我尽量不。 *咯咯笑*"
 
 # game/v13/scene13a.rpy:278
 translate chinese v13s13a_9c3294f2:
@@ -304,13 +304,13 @@ translate chinese v13s13a_9c3294f2:
 translate chinese v13s13a_a93c9536:
 
     # u "I'm not really... Although, I've probably never been to a real, pop star-worthy nightclub. *Laughs*"
-    u "我不是真的……不过，我可能从来没有去过真正的、当之无愧的流行歌星夜总会。 *笑* "
+    u "我不是真的……不过，我可能从来没有去过真正的、当之无愧的流行歌星夜总会。 *笑*"
 
 # game/v13/scene13a.rpy:290
 translate chinese v13s13a_af7e7400:
 
     # polly "Ah, okay. *Chuckles*"
-    polly "啊，好的。 *咯咯笑* "
+    polly "啊，好的。 *咯咯笑*"
 
 # game/v13/scene13a.rpy:296
 translate chinese v13s13a_b33d7684:
@@ -334,7 +334,7 @@ translate chinese v13s13a_9578c6f3:
 translate chinese v13s13a_8569c4fa_1:
 
     # u "*Chuckles*"
-    u " *咯咯笑* "
+    u "*咯咯笑*"
 
 # game/v13/scene13a.rpy:316
 translate chinese v13s13a_16fdb172:
@@ -364,7 +364,7 @@ translate chinese v13s13a_0de1c95a:
 translate chinese v13s13a_e0ef9d2e:
 
     # au "*Laughs*"
-    au " *笑* "
+    au "*笑*"
 
 # game/v13/scene13a.rpy:369
 translate chinese v13s13a_f912b119:
@@ -406,7 +406,7 @@ translate chinese v13s13a_43579e8f:
 translate chinese v13s13a_ab775e7e:
 
     # u "*Chuckles* Are you kidding? I had a blast. You're more than welcome."
-    u " *咯咯笑* 你在开玩笑吗？我玩得很开心。不客气。"
+    u "*咯咯笑* 你在开玩笑吗？我玩得很开心。不客气。"
 
 # game/v13/scene13a.rpy:430
 translate chinese v13s13a_39a1519b:

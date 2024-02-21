@@ -10,7 +10,7 @@ translate chinese v13s35_buy_item_dialog_b806c559:
 translate chinese v13s35_a6dd6946:
 
     # u "Aubrey wanting to go to a sex shop? Not surprised. *Chuckles*"
-    u "奥布里想去情趣商店吗？这并不令人惊讶。 *咯咯笑* "
+    u "奥布里想去情趣商店吗？这并不令人惊讶。 *咯咯笑*"
 
 # game/v13/scene35.rpy:28
 translate chinese v13s35_01fcc5da:
@@ -40,7 +40,7 @@ translate chinese v13s35_842db262:
 translate chinese v13s35_a0732e6a:
 
     # au "*Chuckles* You don't even have to walk around with me, I prefer to look around myself. But, just stay close?"
-    au " *咯咯笑* 你不需要一直陪着我，我宁愿自己到处看看。但是，就走太远？"
+    au "*咯咯笑* 你不需要一直陪着我，我宁愿自己到处看看。但是，别走太远？"
 
 # game/v13/scene35.rpy:53
 translate chinese v13s35_9e9ebc90:
@@ -94,7 +94,7 @@ translate chinese v13s35_3289e7ca:
 translate chinese v13s35_adult_shop_continue_131a7563:
 
     # u "(She'll be happy with these, I think. We're gonna have some fun... *Chuckles*)"
-    u "(我想她会喜欢这些的。我们会玩得很开心…… *咯咯笑* )"
+    u "(我想她会喜欢这些的。我们会玩得很开心…… *咯咯笑*)"
 
 # game/v13/scene35.rpy:128
 translate chinese v13s35_no_shop_8685ca40:
@@ -112,7 +112,7 @@ translate chinese v13s35_no_shop_5e83b0db:
 translate chinese v13s35_no_shop_4a9e7b17:
 
     # au "Oh, I got some really, really good stuff. *Chuckles*"
-    au "我买了一些非常非常好的东西。*咯咯笑* "
+    au "噢，我买了一些非常非常好的东西。*咯咯笑*"
 
 # game/v13/scene35.rpy:153
 translate chinese v13s35_no_shop_75d48640:
@@ -136,7 +136,7 @@ translate chinese v13s35_no_shop_4432323e:
 translate chinese v13s35_no_shop_70315650:
 
     # au "Sorry to disappoint. *Chuckles*"
-    au "抱歉让你失望了。 *咯咯笑* "
+    au "抱歉让你失望了。 *咯咯笑*"
 
 # game/v13/scene35.rpy:173
 translate chinese v13s35_no_shop_f6844995:

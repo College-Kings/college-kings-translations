@@ -544,7 +544,7 @@ translate chinese v12_escape_room_93b929f3:
 translate chinese v12_escape_room_f8c3b00a:
 
     # charli "*Sighs* I should've known. Like I said, we need to be very logical here. The text said \"I can help you 3 get out of the cell."
-    charli " *叹息* 我早该知道。就像我说的，我们需要非常合乎逻辑。短信说\"我可以帮你们3个离开牢房。"
+    charli " *叹息* 我早该知道。就像我说的，我们需要非常合乎逻辑。短信说\"我可以帮你们3个离开牢房。\""
 
 # game/v12/scene17.rpy:499
 translate chinese v12_escape_room_7059c152:
@@ -574,7 +574,7 @@ translate chinese v12_escape_room_f6e320ae:
 translate chinese v12_escape_room_12779de2:
 
     # imre "Goofball? I am not a-"
-    imre "傻蛋？我不是-"
+    imre "傻蛋？我不是……"
 
 # game/v12/scene17.rpy:523
 translate chinese v12_escape_room_16ee73ae:
@@ -682,7 +682,7 @@ translate chinese v12_escape_room_5e076f81:
 translate chinese v12_escape_room_2e2d689c:
 
     # unknown "Being separated is a scary thing, but we can always find comfort in those we're left with. Huddle close to those next to you... It's about to get chilly."
-    unknown "被分开是一件可怕的事情，但我们总能从与我们在一起的人身上找到安慰。紧挨着你身旁的人挤在一起。天要冷了。"
+    unknown "被分开是一件可怕的事情，但我们总能从与我们在一起的人身上找到安慰。紧挨着你身旁的人挤在一起……要变冷了。"
 
 # game/v12/scene17.rpy:623
 translate chinese v12_escape_room_7e640e5c:
@@ -814,13 +814,13 @@ translate chinese v12_escape_room_f583d454:
 translate chinese v12_escape_room_5a4cb100:
 
     # imre "Are you fucking crazy?! You're not going anywhere you stupid s-"
-    imre "你他妈的疯了吗？！你哪儿也不能去，你这个笨蛋-"
+    imre "你他妈的疯了吗？！你哪儿也不能去，你这个笨蛋……"
 
 # game/v12/scene17.rpy:750
 translate chinese v12_escape_room_8135285d:
 
     # charli "*Shivering* Can I please just-"
-    charli " *浑身发抖* 我能不能-"
+    charli "*浑身发抖* 我能不能……"
 
 # game/v12/scene17.rpy:755
 translate chinese v12_escape_room_be2b3120:
@@ -838,7 +838,7 @@ translate chinese v12_escape_room_2caadd3a:
 translate chinese v12_escape_room_9597e8a0:
 
     # imre "I don't care if his fucking non-existent balls freeze off, I'm not touchin- *inaudible*."
-    imre "我不在乎他那该死的不存在的蛋蛋是不是冻坏了，我不会碰- *听不见* 。"
+    imre "我不在乎他那该死的不存在的蛋蛋是不是冻坏了，我不会碰…… *听不见*"
 
 # game/v12/scene17.rpy:772
 translate chinese v12_escape_room_d0e522df:
@@ -850,13 +850,13 @@ translate chinese v12_escape_room_d0e522df:
 translate chinese v12_escape_room_f74e6142:
 
     # u "Well, at least we got lucky, right? *Laughs*"
-    u "嗯，至少我们很幸运，对吧？ *笑* "
+    u "嗯，至少我们很幸运，对吧？ *笑*"
 
 # game/v12/scene17.rpy:782
 translate chinese v12_escape_room_83e1be30:
 
     # li "This is lucky for you? We're stuck in here, it's freezing, and our fate is in the hands of the three buffoons on the other side of the wall. *Chuckles*"
-    li "这对你来说是幸运的吗？我们被困在这里，天寒地冻，我们的命运掌握在墙另一边的三个小丑手中。 *咯咯笑* "
+    li "这对你来说是幸运的吗？我们被困在这里，天寒地冻，我们的命运掌握在墙另一边的三个小丑手中。 *咯咯笑*"
 
 # game/v12/scene17.rpy:787
 translate chinese v12_escape_room_4747da4c:
@@ -880,7 +880,7 @@ translate chinese v12_escape_room_164efba5:
 translate chinese v12_escape_room_8d7f766d:
 
     # li "I- Wait..."
-    li "我-等等……"
+    li "我……等等……"
 
 # game/v12/scene17.rpy:811
 translate chinese v12_escape_room_9f45b6d0:
@@ -892,7 +892,7 @@ translate chinese v12_escape_room_9f45b6d0:
 translate chinese v12_escape_room_f844fc51:
 
     # u "Uhh yeah, probably not."
-    u "呃，是啊，可能不会。"
+    u "呃，好吧，可能不行。"
 
 # game/v12/scene17.rpy:821
 translate chinese v12_escape_room_437df2c7:
@@ -904,7 +904,7 @@ translate chinese v12_escape_room_437df2c7:
 translate chinese v12_escape_room_ab28b725:
 
     # u "I think so too. I'm sorry, I-"
-    u "我也这样认为。我很抱歉，我-"
+    u "我也这样认为。我很抱歉，我……"
 
 # game/v12/scene17.rpy:837
 translate chinese v12_escape_room_8925c2da:
@@ -916,7 +916,7 @@ translate chinese v12_escape_room_8925c2da:
 translate chinese v12_escape_room_75d054e9:
 
     # li "I-um..."
-    li "我-嗯……"
+    li "我……嗯……"
 
 # game/v12/scene17.rpy:861
 translate chinese v12_escape_room_7d27ad00:
@@ -928,7 +928,7 @@ translate chinese v12_escape_room_7d27ad00:
 translate chinese v12_escape_room_75d054e9_1:
 
     # li "I-um..."
-    li "我-嗯……"
+    li "我……嗯……"
 
 # game/v12/scene17.rpy:912
 translate chinese v12_lindsey_kiss_or_not_fd1b9e1a:
@@ -940,19 +940,19 @@ translate chinese v12_lindsey_kiss_or_not_fd1b9e1a:
 translate chinese v12_lindsey_kiss_or_not_f57f01a0:
 
     # li "Um, no. I haven't really gotten a chance to. Plus, I'm a little scared to have a conversation with her. *Chuckles*."
-    li "嗯，没有。我还没有真正有机会。另外，我有点害怕和她谈话。 *咯咯笑* "
+    li "嗯，没有。我还没有真正有机会。另外，我有点害怕和她谈话。 *咯咯笑*"
 
 # game/v12/scene17.rpy:922
 translate chinese v12_lindsey_kiss_or_not_3fe7b85f:
 
     # li "I'm not backing down, just nervous about that hurdle. She won't be happy, at all. She'd be the first President ever challenged."
-    li "我不是退缩，只是对那个障碍有点紧张。她不会高兴的，一点也不会。她将是第一位受到挑战的主席。"
+    li "我不是退缩，只是对那个障碍有点紧张。她不会高兴的，一点也不会。她将是第一位受到挑战的会长。"
 
 # game/v12/scene17.rpy:927
 translate chinese v12_lindsey_kiss_or_not_16f048f2:
 
     # u "Yeah, I don't think anyone really wants that title."
-    u "是啊，我觉得没人真的想要那个头衔。"
+    u "好吧，我觉得没人真的想要那个头衔。"
 
 # game/v12/scene17.rpy:938
 translate chinese v12_lindsey_sex_96e9d3e6:
@@ -970,7 +970,7 @@ translate chinese v12_lindsey_sex_566cc0c0:
 translate chinese v12_lindsey_sex_ef48016a:
 
     # li "You know, I'm starting to think that just cuddling isn't enough... I'm still so cold. So, so cold... *Chuckles*"
-    li "你知道吗，我开始觉得仅仅拥抱是不够的……我还是很冷。所以，太冷了…… *咯咯笑* "
+    li "你知道吗，我开始觉得仅仅拥抱是不够的……我还是很冷。所以，太冷了…… *咯咯笑*"
 
 # game/v12/scene17.rpy:953
 translate chinese v12_lindsey_sex_facb9f36:
@@ -1018,7 +1018,7 @@ translate chinese v12_lindsey_sex_1bec654e:
 translate chinese v12_lindsey_sex_fcc90ae3:
 
     # li "*Chuckles* Good."
-    li " *咯咯笑* 很好。"
+    li "*咯咯笑* 很好。"
 
 # game/v12/scene17.rpy:1049
 translate chinese v12s17_lindsey_handjob_59c7b043:
@@ -1036,7 +1036,7 @@ translate chinese v12s17_lindsey_handjob_3f1f13fe:
 translate chinese v12s17_lindsey_handjob_7bf48cab:
 
     # u "Y-yes..."
-    u "是-是的……"
+    u "是……是的……"
 
 # game/v12/scene17.rpy:1067
 translate chinese v12s17_lindsey_handjob_c221dd93:
@@ -1048,7 +1048,7 @@ translate chinese v12s17_lindsey_handjob_c221dd93:
 translate chinese v12s17_lindsey_handjob_2ff8b24c:
 
     # li "*Chuckles* I'm not sure how much time we have left but... I'll give you all that I can, okay?"
-    li " *咯咯笑* 我不确定我们还剩多少时间，但是……我会尽我所能给你的，好吗？"
+    li "*咯咯笑* 我不确定我们还剩多少时间，但是……我会尽我所能给你的，好吗？"
 
 # game/v12/scene17.rpy:1084
 translate chinese v12s17_lindsey_blowjob_3701371b:
@@ -1078,7 +1078,7 @@ translate chinese v12s17_lindsey_blowjob_fadedd9a:
 translate chinese v12s17_lindsey_blowjob_41cbf45d:
 
     # li "What? Is something wrong? I can try-"
-    li "什么？出什么事了吗？我可以试试-"
+    li "什么？出什么事了吗？我可以试试……"
 
 # game/v12/scene17.rpy:1112
 translate chinese v12s17_lindsey_blowjob_8fbd9db9:
@@ -1102,7 +1102,7 @@ translate chinese v12s17_lindsey_sixty_nine_a7f97674:
 translate chinese v12s17_lindsey_sixty_nine_93b84fc3:
 
     # li "*Moans*"
-    li " *呻吟*"
+    li "*呻吟*"
 
 # game/v12/scene17.rpy:1150
 translate chinese v12s17_lindsey_sixty_nine_59b249b5:
@@ -1114,7 +1114,7 @@ translate chinese v12s17_lindsey_sixty_nine_59b249b5:
 translate chinese v12s17_lindsey_sixty_nine_ed8406ec:
 
     # li "*Moans* *Gags*"
-    li " *呻吟* *恶作剧*"
+    li "*呻吟* *恶作剧*"
 
 # game/v12/scene17.rpy:1158
 translate chinese v12s17_lindsey_sixty_nine_b22f7031:
@@ -1126,7 +1126,7 @@ translate chinese v12s17_lindsey_sixty_nine_b22f7031:
 translate chinese v12s17_lindsey_sixty_nine_a9d54e05:
 
     # li "*Loud moaning* Mmm!"
-    li " *大声呻吟* 嗯！"
+    li "*大声呻吟* 嗯！"
 
 # game/v12/scene17.rpy:1178
 translate chinese v12s17_lindsey_sixty_nine_09d0e553:
@@ -1150,13 +1150,13 @@ translate chinese v12s17_lindsey_sixty_nine_230fe863:
 translate chinese v12s17_lindsey_sixty_nine_8ea1fe76:
 
     # li "*Heavy breathing* Shit [name]... That was the best... Birthday sex... Ever! *Laughs*"
-    li " *沉重的呼吸* 操，[name]……那是最棒的……生日性爱……未曾有过的！ *笑*"
+    li "*沉重的呼吸* 操，[name]……那是最棒的……生日性爱……未曾有过的！ *笑*"
 
 # game/v12/scene17.rpy:1212
 translate chinese v12s17_nsfwSkipLabel1_00a883d0:
 
     # u "What can I say, you deserve nothing but the best. *Chuckles*"
-    u "我能说什么呢，你值得拥有。 *咯咯笑* "
+    u "我能说什么呢，你值得拥有。 *咯咯笑*"
 
 # game/v12/scene17.rpy:1217
 translate chinese v12s17_nsfwSkipLabel1_837be94f:
@@ -1192,19 +1192,19 @@ translate chinese v12_after_sex_9c75c1c2:
 translate chinese v12_after_sex_c67af23e:
 
     # unknown "We're having some sort of technical difficulties with the electric... So, you'll be- Or, I mean, your teacher will be refunded. Sorry. Thanks."
-    unknown "我们在电力方面遇到了一些技术问题……所以，你们会-或者，我是说，你们的老师会退款。抱歉的。谢谢。"
+    unknown "我们在电力方面遇到了一些技术问题……所以，你们会……或者，我是说，你们的老师会退款。抱歉的。谢谢。"
 
 # game/v12/scene17.rpy:1272
 translate chinese v12_after_sex_b5979805:
 
     # li "I'd say we've gotten a lot \"closer\" today, would you? *Chuckles*"
-    li "我想说今天我们已经得到了很多\"更亲密\"的感觉，对么？ *咯咯笑* "
+    li "我想说今天我们已经得到了很多\"更亲密\"的感觉，对么？ *咯咯笑*"
 
 # game/v12/scene17.rpy:1278
 translate chinese v12_after_sex_5407f84d:
 
     # u "*Chuckles* A whole lot closer..."
-    u " *咯咯笑* 更亲密……"
+    u "*咯咯笑* 更亲密……"
 
 # game/v12/scene17.rpy:1284
 translate chinese v12_after_sex_80df082e:
@@ -1252,7 +1252,7 @@ translate chinese v12_after_sex_440ed327:
 translate chinese v12_after_sex_0931f31d:
 
     # u "Let's watch... *Chuckles*"
-    u "让我们来看看…… *咯咯笑* "
+    u "让我们来看看…… *咯咯笑*"
 
 # game/v12/scene17.rpy:1339
 translate chinese v12_after_sex_39df2fe2:
@@ -1360,7 +1360,7 @@ translate chinese v12_after_sex_9683af53:
 translate chinese v12_after_sex_97d5c54a:
 
     # imre "*Laughs* Weeb!"
-    imre " *笑* 厉害！"
+    imre "*笑* 厉害！"
 
 # game/v12/scene17.rpy:1429
 translate chinese v12_after_sex_f153aa4f_1:
@@ -1408,7 +1408,7 @@ translate chinese v12_after_sex_7512ecd2:
 translate chinese v12_after_sex_fcc18885:
 
     # u "*Laughs*"
-    u " *笑* "
+    u "*笑*"
 
 # game/v12/scene17.rpy:1482
 translate chinese v12_after_sex_ff25896d:
@@ -1420,7 +1420,7 @@ translate chinese v12_after_sex_ff25896d:
 translate chinese v12_after_sex_5265cf26:
 
     # escman "*Dry tone* Noted."
-    escman " *冷淡的语气* 知道了。"
+    escman "*冷淡的语气* 知道了。"
 
 # game/v12/scene17.rpy:1492
 translate chinese v12_after_sex_9bd5ee0a:

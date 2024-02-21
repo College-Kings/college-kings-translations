@@ -46,7 +46,7 @@ translate chinese v14s03c_52f0755e:
 translate chinese v14s03c_1daba214:
 
     # satin "*Sigh*"
-    satin " *叹息* "
+    satin "*叹息*"
 
 # game/v14/scene3c.rpy:77
 translate chinese v14s03c_d1f7ea46:
@@ -58,7 +58,7 @@ translate chinese v14s03c_d1f7ea46:
 translate chinese v14s03c_c8b0a5c0:
 
     # satin "What did you say?"
-    satin "您说什么？"
+    satin "你说什么？"
 
 # game/v14/scene3c.rpy:87
 translate chinese v14s03c_5bdaf5ec:
@@ -82,7 +82,7 @@ translate chinese v14s03c_bcaabc1e:
 translate chinese v14s03c_b2662b37:
 
     # satin "Satin, you?"
-    satin "萨坦, 你呢？"
+    satin "萨坦，你呢？"
 
 # game/v14/scene3c.rpy:107
 translate chinese v14s03c_906208de:
@@ -100,7 +100,7 @@ translate chinese v14s03c_d74ca6dc:
 translate chinese v14s03c_b43129d0:
 
     # u "Good genes. *Chuckles*"
-    u "好的基因。 *咯咯笑* "
+    u "好的基因。 *咯咯笑*"
 
 # game/v14/scene3c.rpy:126
 translate chinese v14s03c_bc20649d:
@@ -184,37 +184,37 @@ translate chinese v14s03c_2c1f9ca0:
 translate chinese v14s03c_99847b5f:
 
     # u "*Chuckles* Seems like it to me."
-    u " *咯咯笑* 在我看来是这样。"
+    u "*咯咯笑* 在我看来是这样。"
 
 # game/v14/scene3c.rpy:188
 translate chinese v14s03c_969edd0f:
 
     # satin "Well, earlier when I said \"oh\" like that, it was because I'm pretty sure the girl he's talking to has an STD..."
-    satin "嗯，早些时候我那样说\"噢\"那是因为我很确定和他说话的那个女孩有性病。"
+    satin "嗯，早些时候我那样说\"噢\"，那是因为我很确定和他说话的那个女孩有性病。"
 
 # game/v14/scene3c.rpy:193
 translate chinese v14s03c_56390365:
 
     # u "Oh. I- Oh..."
-    u "噢。我-噢……"
+    u "噢。我……噢……"
 
 # game/v14/scene3c.rpy:198
 translate chinese v14s03c_26e2490b:
 
     # satin "*Laughs*"
-    satin " *笑* "
+    satin "*笑*"
 
 # game/v14/scene3c.rpy:203
 translate chinese v14s03c_8d402e41:
 
     # u "What? *Chuckles*"
-    u "什么？ *咯咯笑* "
+    u "什么？ *咯咯笑*"
 
 # game/v14/scene3c.rpy:208
 translate chinese v14s03c_1501e2c0:
 
     # satin "Haha, I'm sorry... It was just funny that you did exactly what I did. *Laughs*"
-    satin "哈哈，我很抱歉……有趣的是你做了我做的事。 *笑* "
+    satin "哈哈，我很抱歉……有趣的是你做了我做的事。 *笑*"
 
 # game/v14/scene3c.rpy:213
 translate chinese v14s03c_bf511421:
@@ -244,7 +244,7 @@ translate chinese v14s03c_5f6a1544:
 translate chinese v14s03c_5e1fbc83:
 
     # u "Yeah, but I don't have that kind of money."
-    u "是啊，但是我没有那么多钱。"
+    u "是的，但是我没有那么多钱。"
 
 # game/v14/scene3c.rpy:240
 translate chinese v14s03c_6501c99c:
@@ -268,7 +268,7 @@ translate chinese v14s03c_7dda4a46:
 translate chinese v14s03c_98ffa935:
 
     # u "Oh, Satin... I don't-"
-    u "噢，撒旦……我不知道-"
+    u "噢，撒旦……我不知道……"
 
 # game/v14/scene3c.rpy:257
 translate chinese v14s03c_e572f53c:
@@ -280,13 +280,13 @@ translate chinese v14s03c_e572f53c:
 translate chinese v14s03c_10f0cd25:
 
     # u "*Gulps* I-"
-    u " *吞咽* 我-"
+    u "*吞咽* 我……"
 
 # game/v14/scene3c.rpy:267
 translate chinese v14s03c_752bbd8d:
 
     # satin "Secondly, before you answer, you should know that I was getting ready to go home anyways. *Chuckles*"
-    satin "其次，在你回答之前，你应该知道我无论如何都准备回家了。 *咯咯笑* "
+    satin "其次，在你回答之前，你应该知道我无论如何都准备回家了。 *咯咯笑*"
 
 # game/v14/scene3c.rpy:269
 translate chinese v14s03c_1ecd0635:
@@ -340,7 +340,7 @@ translate chinese v14s03c_6d9dd2bc:
 translate chinese v14s03c_sg_cab5337a:
 
     # u "I can't pass up on an opportunity to be with you in a \"private booth\". *Chuckles*"
-    u "我不能错过和你在\"私人展位\"的机会。 *咯咯笑* "
+    u "我不能错过和你在\"私人展位\"的机会。 *咯咯笑*"
 
 # game/v14/scene3c.rpy:329
 translate chinese v14s03c_sg_5bc72673:
@@ -352,13 +352,13 @@ translate chinese v14s03c_sg_5bc72673:
 translate chinese v14s03c_sg_0505f445:
 
     # u "*Sighs* As much as I'm gonna regret this..."
-    u " *叹息* 尽管我会后悔这一点……"
+    u "*叹息* 尽管我会后悔这一点……"
 
 # game/v14/scene3c.rpy:353
 translate chinese v14s03c_sg_38fa8739:
 
     # u "Please go save my friend."
-    u "请去救我的朋友。"
+    u "请去救我的朋友吧。"
 
 # game/v14/scene3c.rpy:358
 translate chinese v14s03c_sg_81933fbb:
@@ -384,7 +384,7 @@ translate chinese strings:
 
     # game/v14/scene3c.rpy:233
     old "Yes, kinda"
-    new "是的，有点"
+    new "是的，有点儿"
 
     # game/v14/scene3c.rpy:303
     old "Go with her"

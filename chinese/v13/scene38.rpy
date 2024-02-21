@@ -10,7 +10,7 @@ translate chinese v13_walk_imre_bf480442:
 translate chinese v13_walk_imre_ca830689:
 
     # u "I'm not a fuckboy, Imre."
-    u "我不是混蛋伊姆雷。"
+    u "我不是混蛋，伊姆雷。"
 
 # game/v13/scene38.rpy:26
 translate chinese v13_walk_imre_5d768374:
@@ -100,7 +100,7 @@ translate chinese v13_walk_imre_d127df34:
 translate chinese v13_walk_imre_4fea82f1:
 
     # imre "*Sighs* You know how my brother was a Wolf?"
-    imre " *叹息* 你知道我哥哥是怎样的狼人吗？"
+    imre "*叹息* 你知道我哥哥是怎样的狼人吗？"
 
 # game/v13/scene38.rpy:96
 translate chinese v13_walk_imre_505a3f68:

@@ -46,7 +46,7 @@ translate chinese v10_aubrey_house_4c0b9a3e:
 translate chinese v10_aubrey_house_4e5b297a:
 
     # au "Oh, that's too bad. I was hoping for just a little more. *Laughs*"
-    au "哦，那太糟糕了。我只希望能多一点。 *笑*"
+    au "噢，那太糟糕了。我只希望能多一点。 *笑*"
 
 # game/v10/scene17.rpy:56
 translate chinese v10_aubrey_house_2f53c0a8:
@@ -136,7 +136,7 @@ translate chinese v10_aubrey_house_bcaf0ca6:
 translate chinese v10_aubrey_house_5bf7d588:
 
     # au "Oh God no, I was actually super shy growing up."
-    au "哦，天呐，我从小就非常害羞。"
+    au "噢，天呐，我从小就非常害羞。"
 
 # game/v10/scene17.rpy:117
 translate chinese v10_aubrey_house_209591cb:
@@ -178,7 +178,7 @@ translate chinese v10_aubrey_house_f6a9372f:
 translate chinese v10_aubrey_house_b3c1a3eb:
 
     # au "Oh, funny."
-    au "哦，真有趣。"
+    au "噢，真有趣。"
 
 # game/v10/scene17.rpy:159
 translate chinese v10_aubrey_house_92550d09:
@@ -280,7 +280,7 @@ translate chinese v10_aubrey_house_7d9f410b:
 translate chinese v10_aubrey_house_e5f230fd:
 
     # u "Oh yes, we do..."
-    u "哦，是的，我们的确……"
+    u "噢，是的，我们的确……"
 
 # game/v10/scene17.rpy:235
 translate chinese v10_aubrey_house_2560dff6:
@@ -454,7 +454,7 @@ translate chinese v10s17_aubreyBlowjob_911ee71d:
 translate chinese v10s17_aubreyBlowjob_2c483de5:
 
     # u "Oh fuck!"
-    u "哦，他妈的！"
+    u "噢，他妈的！"
 
 # game/v10/scene17.rpy:427
 translate chinese v10s17_aubreyBlowjob_5af7b6e5:
@@ -478,7 +478,7 @@ translate chinese v10s17_aubreyCowgirl_ee7c99c7:
 translate chinese v10s17_aubreyCowgirl_a2ba8d61:
 
     # au "Oh my God it's BIG!"
-    au "哦，天哪，太大了！"
+    au "噢，天哪，太大了！"
 
 # game/v10/scene17.rpy:443
 translate chinese v10s17_aubreyCowgirl_aa368576:
@@ -568,7 +568,7 @@ translate chinese v10s17_aubreyStanding_6a0c8740:
 translate chinese v10s17_aubreyStanding_e6139509:
 
     # u "(Oh shit, ughhhh...)"
-    u "(哦，见鬼，嗯……)"
+    u "(噢，见鬼，嗯……)"
 
 # game/v10/scene17.rpy:518
 translate chinese v10s17_aubreyStanding_80dfe053:
@@ -796,7 +796,7 @@ translate chinese v10s17_nsfwSkipLabel1_7283b5bb:
 translate chinese v10s17_nsfwSkipLabel1_dc65d7eb:
 
     # au "Oh shush."
-    au "哦嘘。"
+    au "噢嘘。"
 
 # game/v10/scene17.rpy:728
 translate chinese v10s17_nsfwSkipLabel1_7b0efd81:

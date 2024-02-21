@@ -40,7 +40,7 @@ translate chinese v12s33_3af73e6f:
 translate chinese v12s33_fe96d076:
 
     # u "No one thought to text or call us? *Chuckles*"
-    u "没人想过给我们发短信或打电话吗？ *咯咯笑* "
+    u "没人想过给我们发短信或打电话吗？ *咯咯笑*"
 
 # game/v12/scene33.rpy:50
 translate chinese v12s33_f3b6b886:
@@ -52,7 +52,7 @@ translate chinese v12s33_f3b6b886:
 translate chinese v12s33_31f77d75:
 
     # li "I don't know how long I could've held them off. *Chuckles*"
-    li "我不知道我还能拖他们多久。 *咯咯笑* "
+    li "我不知道我还能拖他们多久。 *咯咯笑*"
 
 # game/v12/scene33.rpy:56
 translate chinese v12s33_49b47b74:
@@ -82,7 +82,7 @@ translate chinese v12s33_8d50f241:
 translate chinese v12s33_e104fdbc:
 
     # u "Sorry you had to experience that. *Chuckles*"
-    u "很抱歉让您经历了这一切。 *咯咯笑* "
+    u "很抱歉让您经历了这一切。 *咯咯笑*"
 
 # game/v12/scene33.rpy:78
 translate chinese v12s33_7969dbd8:
@@ -112,7 +112,7 @@ translate chinese v12s33_2262fd39:
 translate chinese v12s33_b36e9333:
 
     # au "Definitely going nude... *Laughs*"
-    au "肯定要裸体…… *笑* "
+    au "肯定要裸体…… *笑*"
 
 # game/v12/scene33.rpy:99
 translate chinese v12s33_697a7e69:
@@ -178,7 +178,7 @@ translate chinese v12s33_28c33980:
 translate chinese v12s33_dd870fb5:
 
     # au "If anyone saw me then... All I did was give them a reason to smile today. *Chuckles*"
-    au "如果有人看见我……我所做的只是给他们一个微笑的理由。 *咯咯笑* "
+    au "如果有人看见我……我所做的只是给他们一个微笑的理由。 *咯咯笑*"
 
 # game/v12/scene33.rpy:165
 translate chinese v12s33_8569c4fa:
@@ -190,13 +190,13 @@ translate chinese v12s33_8569c4fa:
 translate chinese v12s33_9436db2d:
 
     # au "See, it's already working. *Laughs*"
-    au "看，它已经起作用了。 *笑* "
+    au "看，它已经起作用了。 *笑*"
 
 # game/v12/scene33.rpy:175
 translate chinese v12s33_cb47791a:
 
     # li "Oh my gosh. *Chuckles*"
-    li "噢，我的天呐。 *咯咯笑* "
+    li "噢，我的天呐。 *咯咯笑*"
 
 # game/v12/scene33.rpy:180
 translate chinese v12s33_806296da:
@@ -208,7 +208,7 @@ translate chinese v12s33_806296da:
 translate chinese v12s33_507b2d24:
 
     # li "*Chuckles* That, I agree with."
-    li " *咯咯笑* 这一点，我同意。"
+    li "*咯咯笑* 这一点，我同意。"
 
 # game/v12/scene33.rpy:190
 translate chinese v12s33_523cd52c:
@@ -250,7 +250,7 @@ translate chinese v12s33_d214b552:
 translate chinese v12s33_a7d433c2:
 
     # imre "Where's the masseuse? I hope I get a lady! *Laughs*"
-    imre "技师在哪里？我希望来位女士！ *笑* "
+    imre "技师在哪里？我希望来位女士！ *笑*"
 
 # game/v12/scene33.rpy:245
 translate chinese v12s33_aa828c82:
@@ -310,7 +310,7 @@ translate chinese v12s33_9bc0e37d:
 translate chinese v12s33_8854ebe5:
 
     # lee "*Sighs* So embarrassing."
-    lee " *叹息* 太尴尬了。"
+    lee "*叹息* 太尴尬了。"
 
 # game/v12/scene33.rpy:295
 translate chinese v12s33_f1bdd86e:
@@ -340,7 +340,7 @@ translate chinese v12s33_b4d3b086:
 translate chinese v12s33_b5ffc49a:
 
     # lee "*Laughs* I needed that today."
-    lee " *笑* 我今天需要这个。"
+    lee "*笑* 我今天需要这个。"
 
 # game/v12/scene33.rpy:318
 translate chinese v12s33_f2bcea62:
@@ -352,7 +352,7 @@ translate chinese v12s33_f2bcea62:
 translate chinese v12s33_68fde7d3:
 
     # u "Probably a lot of sweating. *Chuckles*"
-    u "可能会出很多汗。 *咯咯笑* "
+    u "可能会出很多汗。 *咯咯笑*"
 
 # game/v12/scene33.rpy:328
 translate chinese v12s33_e6eda243:
@@ -364,13 +364,13 @@ translate chinese v12s33_e6eda243:
 translate chinese v12s33_91c22356:
 
     # u "Uhh, like... Over a hundred degrees, I know that much."
-    u "呃，就像……超过100度那么热，我就知道这么多。"
+    u "呃，就像……东京那么热，我就知道这么多。"
 
 # game/v12/scene33.rpy:338
 translate chinese v12s33_8d0c10ba:
 
     # imre "Shit, that sounds kinda nice... I bet the girls are all sweaty in there. I may have to stop by... *Chuckles*"
-    imre "天呐，听起来真不错……我打赌那里的女孩们都汗流浃背。我可能得顺道去一趟…… *咯咯笑* "
+    imre "天呐，听起来真不错……我打赌那里的女孩们都汗流浃背了。我可能得顺道去一趟…… *咯咯笑*"
 
 # game/v12/scene33.rpy:343
 translate chinese v12s33_f1cbfacf:
@@ -382,19 +382,19 @@ translate chinese v12s33_f1cbfacf:
 translate chinese v12s33_cb1c14e9:
 
     # lmass "Oh, you have a kink?"
-    lmass "噢，你有什么怪癖吗？"
+    lmass "噢，你有什么不适吗？"
 
 # game/v12/scene33.rpy:350
 translate chinese v12s33_ee3e5096:
 
     # imre "Not that I-"
-    imre "不是说我-"
+    imre "不是说我……"
 
 # game/v12/scene33.rpy:356
 translate chinese v12s33_41fd3db0:
 
     # "*Crack*"
-    " *咔嚓* "
+    "*咔嚓*"
 
 # game/v12/scene33.rpy:361
 translate chinese v12s33_af4e5c6b:
@@ -412,25 +412,25 @@ translate chinese v12s33_07c7b99f:
 translate chinese v12s33_fcc18885:
 
     # u "*Laughs*"
-    u " *笑* "
+    u "*笑*"
 
 # game/v12/scene33.rpy:376
 translate chinese v12s33_636a0944:
 
     # ry "*Laughs*"
-    ry " *笑* "
+    ry "*笑*"
 
 # game/v12/scene33.rpy:381
 translate chinese v12s33_735dab25:
 
     # lee "*Laughs*"
-    lee " *笑* "
+    lee "*笑*"
 
 # game/v12/scene33.rpy:386
 translate chinese v12s33_c2cfc876:
 
     # mmass "*Deep voice* Please, lie back down."
-    mmass " *深沉的声音* 请躺下。"
+    mmass "*深沉的声音* 请躺下。"
 
 # game/v12/scene33.rpy:391
 translate chinese v12s33_f39ff2a7:
@@ -442,7 +442,7 @@ translate chinese v12s33_f39ff2a7:
 translate chinese v12s33_3f529807:
 
     # mmass "*Sighs*"
-    mmass " *叹息* "
+    mmass "*叹息*"
 
 # game/v12/scene33.rpy:401
 translate chinese v12s33_53844155:
@@ -466,25 +466,25 @@ translate chinese v12s33_186dd63b:
 translate chinese v12s33_ae252ebb:
 
     # lee "I most certainly-"
-    lee "遭不住-"
+    lee "遭不住……"
 
 # game/v12/scene33.rpy:419
 translate chinese v12s33_41fd3db0_1:
 
     # "*Crack*"
-    " *咔嚓* "
+    "*咔嚓*"
 
 # game/v12/scene33.rpy:421
 translate chinese v12s33_4c825fcb:
 
     # lee "OH, BUDDHA AND ALL THAT'S GOOD! Please... don't push so hard."
-    lee "欧，噢弥陀佛，还不错！但……别那么用力。"
+    lee "噢，噢弥陀佛，还不错！但……别那么用力。"
 
 # game/v12/scene33.rpy:423
 translate chinese v12s33_e206ff1e:
 
     # mmass "Sir, you have a serious knot."
-    mmass "先生，你有个严重的肩周炎。"
+    mmass "先生，你有严重的肩周炎。"
 
 # game/v12/scene33.rpy:428
 translate chinese v12s33_1719932e:
@@ -502,7 +502,7 @@ translate chinese v12s33_135000aa:
 translate chinese v12s33_dd85dc5c:
 
     # lee "You'll understand when you're my age."
-    lee "等你到了我这个年纪你就会明白了。"
+    lee "等你们到了我这个年纪你们就会明白了。"
 
 # game/v12/scene33.rpy:444
 translate chinese v12s33_41fd3db0_2:
@@ -526,7 +526,7 @@ translate chinese v12s33_b475d6ad:
 translate chinese v12s33_41fd3db0_3:
 
     # "*Crack*"
-    " *咔嚓* "
+    "*咔嚓*"
 
 # game/v12/scene33.rpy:456
 translate chinese v12s33_df0f045b:
@@ -550,7 +550,7 @@ translate chinese v12s33_a82378e4:
 translate chinese v12s33_bda7ff4f:
 
     # imre "You don't look it... *Laughs*"
-    imre "你看起来不像…… *笑* "
+    imre "你看起来不像…… *笑*"
 
 # game/v12/scene33.rpy:470
 translate chinese v12s33_c043254e:
@@ -586,7 +586,7 @@ translate chinese v12s33_20c40c7f:
 translate chinese v12s33_aaf9b05b:
 
     # lmass "*Chuckles* You guys are the most exciting bunch we've had."
-    lmass " *咯咯笑* 你们是我们遇到的最令人兴奋的一群人。"
+    lmass "*咯咯笑* 你们是我们遇到的最令人兴奋的一群人。"
 
 # game/v12/scene33.rpy:500
 translate chinese v12s33_a5a792a5:
@@ -604,7 +604,7 @@ translate chinese v12s33_e2f95e62:
 translate chinese v12s33_357d3fe3:
 
     # imre "Damn, so you'll finish him off, but won't even start with me? That's harsh, baby."
-    imre "见鬼，所以你宁愿帮他做完，也不远从我开始？这太残酷了，宝贝。"
+    imre "见鬼，所以你宁愿帮他做完，也不远从我开始？这太残酷了，宝贝儿。"
 
 # game/v12/scene33.rpy:515
 translate chinese v12s33_2529b281:
@@ -616,25 +616,25 @@ translate chinese v12s33_2529b281:
 translate chinese v12s33_d6cca808:
 
     # ry "Fucking rolled dude! *Laughs*"
-    ry "该死的伙计！ *笑* "
+    ry "该死的伙计！ *笑*"
 
 # game/v12/scene33.rpy:525
 translate chinese v12s33_0b015a77:
 
     # u "*Laughs* Oh shit... Haha!"
-    u " *笑* 噢，该死的……哈哈！"
+    u "*笑* 噢，该死的……哈哈！"
 
 # game/v12/scene33.rpy:530
 translate chinese v12s33_939035f8:
 
     # ch "*Chuckles*"
-    ch " *咯咯笑* "
+    ch "*咯咯笑*"
 
 # game/v12/scene33.rpy:535
 translate chinese v12s33_6b71eb88:
 
     # imre "Not cool mommas, not cool."
-    imre "不好笑妈妈，不好笑。"
+    imre "不好笑，妈妈，不好笑。"
 
 # game/v12/scene33.rpy:540
 translate chinese v12s33_4930d287:
@@ -652,7 +652,7 @@ translate chinese v12s33_b8cc05d5:
 translate chinese v12s33_b23e7e60:
 
     # lmass "Alright, I'll make sure to get to it in a bit."
-    lmass "好的，我马上就到。"
+    lmass "好的，我马上就好。"
 
 # game/v12/scene33.rpy:564
 translate chinese v12s33_64d70bff:
@@ -664,7 +664,7 @@ translate chinese v12s33_64d70bff:
 translate chinese v12s33_732fe03a:
 
     # imre "*Sighs* Shame."
-    imre " *叹息* 遗憾。"
+    imre "*叹息* 遗憾。"
 
 # game/v12/scene33.rpy:581
 translate chinese v12s33_sneak_off1_9a480a1c:
@@ -676,13 +676,13 @@ translate chinese v12s33_sneak_off1_9a480a1c:
 translate chinese v12s33_sneak_off1_8dc58587:
 
     # imre "*Laughs* Gross dude! You don't need to announce it."
-    imre " *笑* 恶心的家伙！你不需要宣布这件事。"
+    imre "*笑* 恶心的家伙！你不需要宣布这件事。"
 
 # game/v12/scene33.rpy:591
 translate chinese v12s33_sneak_off1_636a0944:
 
     # ry "*Laughs*"
-    ry " *笑* "
+    ry "*笑*"
 
 # game/v12/scene33.rpy:596
 translate chinese v12s33_sneak_off1_9ad7bbe6:
@@ -694,7 +694,7 @@ translate chinese v12s33_sneak_off1_9ad7bbe6:
 translate chinese v12s33_door1_cf80f10c:
 
     # u "*Whistles*"
-    u " *吹口哨* "
+    u "*吹口哨*"
 
 # game/v12/scene33.rpy:626
 translate chinese v12s33_door1_a0c28b60:
@@ -724,13 +724,13 @@ translate chinese v12s33_door2_d258a84a:
 translate chinese v12s33_door2_876c60a0:
 
     # au "I win! *Laughs*"
-    au "我赢了！*笑* "
+    au "我赢了！*笑*"
 
 # game/v12/scene33.rpy:682
 translate chinese v12s33_door2_7b77d28a:
 
     # cl "[name]! *Sighs* Why? *Chuckles*"
-    cl "[name]！ *叹息* 为什么？ *咯咯笑* "
+    cl "[name]！ *叹息* 为什么？ *咯咯笑*"
 
 # game/v12/scene33.rpy:687
 translate chinese v12s33_door2_ef2f1671:
@@ -790,7 +790,7 @@ translate chinese v12s33_door2_ef9ca4b5:
 translate chinese v12s33_door2_5cb726ec:
 
     # u "*Chuckles* Don't worry about it, Sam. Just be careful of how much you drink next time, yeah?"
-    u " *咯咯笑* 别担心，萨曼莎。下次注意别喝太多，好吗？"
+    u "*咯咯笑* 别担心，萨曼莎。下次注意别喝太多，好吗？"
 
 # game/v12/scene33.rpy:739
 translate chinese v12s33_door2_05bf3e22:
@@ -802,13 +802,13 @@ translate chinese v12s33_door2_05bf3e22:
 translate chinese v12s33_door2_60cf52a4:
 
     # sa "*Sighs* I was drunk and kept bothering him with a bunch of dumb questions after I knocked on everyone's door... His was the only one open."
-    sa " *叹息* 我喝醉了，敲了每个人的门后，然后用一堆愚蠢的问题来打扰他……他的门是唯一开着的。"
+    sa "*叹息* 我喝醉了，敲了每个人的门后，然后用一堆愚蠢的问题来打扰他……他的门是唯一开着的。"
 
 # game/v12/scene33.rpy:749
 translate chinese v12s33_door2_2b38ac48:
 
     # au "*Chuckles* Volunteered and didn't even know it."
-    au " *咯咯笑* 自愿的，甚至猝不及防。"
+    au "*咯咯笑* 自愿的，甚至猝不及防。"
 
 # game/v12/scene33.rpy:754
 translate chinese v12s33_door2_ff223546:
@@ -832,7 +832,7 @@ translate chinese v12s33_door2_02963682:
 translate chinese v12s33_door2_e4e2d44d:
 
     # u "Not at all, you can talk about me all you want. I like knowing I'm on your mind... *Chuckles*"
-    u "不，你们想怎么说我就怎么说吧。我很乐意知道我在你们的脑海里…… *咯咯笑* "
+    u "不，你们想怎么说我就怎么说吧。我很乐意知道我在你们的脑海里…… *咯咯笑*"
 
 # game/v12/scene33.rpy:778
 translate chinese v12s33_door2_ea32ba8f:
@@ -862,7 +862,7 @@ translate chinese v12s33_door2_f783b33a:
 translate chinese v12s33_door2_ce3bbff6:
 
     # cl "I'm being as careful as I wanna be... *Chuckles*"
-    cl "我已经尽我所能地小心了…… *咯咯笑* "
+    cl "我已经尽我所能地小心了…… *咯咯笑*"
 
 # game/v12/scene33.rpy:803
 translate chinese v12s33_door2_cfe8e1a0:
@@ -880,7 +880,7 @@ translate chinese v12s33_door2_172ac297:
 translate chinese v12s33_door2_e68660a1:
 
     # cl "We're not planning anything, just talking. *Chuckles*"
-    cl "我们没有什么计划，只是谈谈而已。 *咯咯笑* "
+    cl "我们没有什么计划，只是谈谈而已。 *咯咯笑*"
 
 # game/v12/scene33.rpy:816
 translate chinese v12s33_door2_24c38192:
@@ -892,7 +892,7 @@ translate chinese v12s33_door2_24c38192:
 translate chinese v12s33_door2_2b9b9763:
 
     # cl "*Chuckles* I mean, no. That'd mess up the plan."
-    cl " *咯咯笑* 我想不会，那会打乱计划的。"
+    cl "*咯咯笑* 我想不会，那会打乱计划的。"
 
 # game/v12/scene33.rpy:826
 translate chinese v12s33_door2_61b2a94d:
@@ -946,7 +946,7 @@ translate chinese v12s33_door3_5b5a2f02:
 translate chinese v12s33_door3_bc37dbcf:
 
     # am "You know, [name], This is why you and I get along... You're a rule breaker just like me. *Chuckles*"
-    am "你知道，[name]，这就是你和我相处融洽的原因。你和我一样是个破坏规则的人。 *咯咯笑* "
+    am "你知道，[name]，这就是你和我相处融洽的原因。你和我一样是个破坏规则的人。 *咯咯笑*"
 
 # game/v12/scene33.rpy:901
 translate chinese v12s33_door3_de37322b:
@@ -976,7 +976,7 @@ translate chinese v12s33_door3_9f7d4eec:
 translate chinese v12s33_door3_8460c480:
 
     # u "Wow, Lindsey... Really?"
-    u "哇，林赛……真的？"
+    u "哇哦，林赛……真的？"
 
 # game/v12/scene33.rpy:926
 translate chinese v12s33_door3_96e84983:
@@ -1018,19 +1018,19 @@ translate chinese v12s33_door3_a744aeaf:
 translate chinese v12s33_door3_b14058a1:
 
     # am "Nah, I wanna see some drama! *Chuckles*"
-    am "不，我想吃瓜看戏！ *咯咯笑* "
+    am "不，我想吃瓜看戏！ *咯咯笑*"
 
 # game/v12/scene33.rpy:954
 translate chinese v12s33_door3_6f7f3e7a:
 
     # li "Amber! *Chuckles*"
-    li "琥珀！ *咯咯笑* "
+    li "琥珀！ *咯咯笑*"
 
 # game/v12/scene33.rpy:959
 translate chinese v12s33_door3_ada1c816:
 
     # am "*Laughs* What? I'm just being honest... I still want everything to work out in the end, but there's no reason I can't get a good show along the way."
-    am " *笑* 干嘛？我只是实话实说……我仍然希望一切最终都能解决，但没有理由我不能在这一过程中看到一场精彩的表演。"
+    am "*笑* 干嘛？我只是实话实说……我仍然希望一切最终都能解决，但没有理由我不能在这一过程中看到一场精彩的表演。"
 
 # game/v12/scene33.rpy:964
 translate chinese v12s33_door3_c76a2678:
@@ -1048,31 +1048,31 @@ translate chinese v12s33_door3_10817abc:
 translate chinese v12s33_door3_0c48ea59:
 
     # u "*Chuckles* You guys are something else."
-    u " *咯咯笑* 你们真有意思。"
+    u "*咯咯笑* 你们真有意思。"
 
 # game/v12/scene33.rpy:979
 translate chinese v12s33_door3_69548c62:
 
     # li "[name], you may wanna step out before you get caught. *Chuckles*"
-    li "[name]，在你被抓到之前，你最好出去。 *咯咯笑* "
+    li "[name]，在你被抓到之前，你最好出去。 *咯咯笑*"
 
 # game/v12/scene33.rpy:984
 translate chinese v12s33_door3_409dd2e7:
 
     # u "*Shocked* You're kicking me out? Am I that boring you? Wow..."
-    u "*震惊* 你要把我赶出去了？我有那么让你厌烦吗？哇噢……"
+    u "*震惊* 你要把我赶出去了？我有那么让你厌烦吗？哇哦……"
 
 # game/v12/scene33.rpy:989
 translate chinese v12s33_door3_2f031b7f:
 
     # li "No, I was just saying-"
-    li "不，我是说-"
+    li "不，我是说……"
 
 # game/v12/scene33.rpy:994
 translate chinese v12s33_door3_ec1da567:
 
     # u "*Laughs* I'm just messing with you. You're right though, I'll catch you guys later."
-    u " *笑* 我逗你呢。不过你说得对，我待会儿再来找你们。"
+    u "*笑* 我逗你呢。不过你说得对，我待会儿再来找你们。"
 
 # game/v12/scene33.rpy:999
 translate chinese v12s33_door3_6e94d2fc:
@@ -1102,7 +1102,7 @@ translate chinese v12s33_three_doors_back_f1075c56:
 translate chinese v12s33_three_doors_back_b7b39f60:
 
     # u "It's not my fault you don't take man shits like I do. *Laughs*"
-    u "不是我的错，你不像我一样会思考人生。 *笑* "
+    u "不是我的错，你不像我一样会思考人生。 *笑*"
 
 # game/v12/scene33.rpy:1034
 translate chinese v12s33_three_doors_back_1cf224fa:
@@ -1132,7 +1132,7 @@ translate chinese v12s33_three_doors_back_4d0230c9:
 translate chinese v12s33_three_doors_back_287f0e2a:
 
     # lmass "*Sighs*"
-    lmass " *叹息* "
+    lmass "*叹息*"
 
 # game/v12/scene33.rpy:1053
 translate chinese v12s33_three_doors_back_37f343e4:
@@ -1168,7 +1168,7 @@ translate chinese v12s33_sauna_c95e84ca:
 translate chinese v12s33_sauna_dbc4acf9:
 
     # ry "Wow..."
-    ry "哇噢……"
+    ry "哇哦……"
 
 # game/v12/scene33.rpy:1095
 translate chinese v12s33_sauna_54d5640a:
@@ -1180,7 +1180,7 @@ translate chinese v12s33_sauna_54d5640a:
 translate chinese v12s33_sauna_94dfecc0:
 
     # imre "I already am. *Chuckles*"
-    imre "我已经准备好了。 *咯咯笑* "
+    imre "我已经准备好了。 *咯咯笑*"
 
 # game/v12/scene33.rpy:1105
 translate chinese v12s33_sauna_1955f674:
@@ -1198,7 +1198,7 @@ translate chinese v12s33_sauna_f9b35ed8:
 translate chinese v12s33_sauna_5ce27ad1:
 
     # lee "Of course."
-    lee "当然。"
+    lee "不客气。"
 
 # game/v12/scene33.rpy:1120
 translate chinese v12s33_sauna_4d62cf9f:
@@ -1210,7 +1210,7 @@ translate chinese v12s33_sauna_4d62cf9f:
 translate chinese v12s33_sauna_f5cb9ec3:
 
     # ch "Am I allowed to give a compliment? *Chuckles*"
-    ch "我可以赞美一下吗？ *咯咯笑* "
+    ch "我可以赞美一下吗？ *咯咯笑*"
 
 # game/v12/scene33.rpy:1130
 translate chinese v12s33_sauna_b4095c56:
@@ -1234,19 +1234,19 @@ translate chinese v12s33_sauna_44f88744:
 translate chinese v12s33_sauna_3c4f4b29:
 
     # ry "Uh, hell no... I lost a bet. \"Hashtag roasted ape\". Ha..."
-    ry "欧，才不是呢……我打赌输了。\"猿人烧烤标签\"。哈哈……"
+    ry "额，才不是呢……我打赌输了。\"猿人烧烤标签\"。哈哈……"
 
 # game/v12/scene33.rpy:1156
 translate chinese v12s33_sauna_08299fc9:
 
     # imre "Wow, that was sad."
-    imre "哇，那真的很伤心。"
+    imre "哇哦，那真的很伤心。"
 
 # game/v12/scene33.rpy:1161
 translate chinese v12s33_sauna_fcc18885:
 
     # u "*Laughs*"
-    u " *笑* "
+    u "*笑*"
 
 # game/v12/scene33.rpy:1172
 translate chinese v12s33_sauna_03a715d4:
@@ -1276,7 +1276,7 @@ translate chinese v12s33_sauna_16bc2c48:
 translate chinese v12s33_sauna_2209f6a3:
 
     # lee "*Chuckles* Alright, enough bantering. Let’s go back to silently relaxing, boys."
-    lee " *咯咯笑* 好了，玩笑开够了。让我们回到安静放松的状态，孩子们。"
+    lee "*咯咯笑* 好了，玩笑开够了。让我们回到安静放松的状态，孩子们。"
 
 # game/v12/scene33.rpy:1219
 translate chinese v12s33_sauna_a2bfc20e:
@@ -1330,13 +1330,13 @@ translate chinese v12s33_sneak_off2_9a480a1c:
 translate chinese v12s33_sneak_off2_8dc58587:
 
     # imre "*Laughs* Gross dude! You don't need to announce it."
-    imre " *笑* 恶心的家伙!你不需要宣布。"
+    imre "*笑* 恶心的家伙！你不需要宣布。"
 
 # game/v12/scene33.rpy:1266
 translate chinese v12s33_sneak_off2_636a0944:
 
     # ry "*Laughs*"
-    ry " *笑* "
+    ry "*笑*"
 
 # game/v12/scene33.rpy:1270
 translate chinese v12s33_sneak_off2_9ad7bbe6:
@@ -1354,7 +1354,7 @@ translate chinese v12s33_sneak_off2_6375ec5a:
 translate chinese v12s33_sneak_off2_6f9728ab:
 
     # u "*Chuckles* No, I'm using the restroom."
-    u " *咯咯笑* 不，我要去洗手间。"
+    u "*咯咯笑* 不，我要去洗手间。"
 
 # game/v12/scene33.rpy:1285
 translate chinese v12s33_sneak_off2_408e5e08:
@@ -1390,85 +1390,85 @@ translate chinese v12s33_sneak_off2_a7a4d94e:
 translate chinese v12s33_sneak_off2_6d255190:
 
     # am "*Whisper* What on earth are you doing?! *Chuckles*"
-    am " *低语* 你到底在干什么？！ *咯咯笑* "
+    am "*低语* 你到底在干什么？！ *咯咯笑*"
 
 # game/v12/scene33.rpy:1323
 translate chinese v12s33_sneak_off2_c462aaf7:
 
     # u "*Whisper* Enjoying myself? Making the most of the moment?"
-    u " *低语* 享受自己？充分利用这一刻？"
+    u "*低语* 享受自己？充分利用这一刻？"
 
 # game/v12/scene33.rpy:1328
 translate chinese v12s33_sneak_off2_2f345b76:
 
     # am "*Whisper* You're a bit of a perv, you know. *Chuckles*"
-    am " *低语* 你知道吗，你有点变态。 *咯咯笑* "
+    am "*低语* 你知道吗，你有点变态。 *咯咯笑*"
 
 # game/v12/scene33.rpy:1333
 translate chinese v12s33_sneak_off2_d2a462d9:
 
     # u "*Whisper* Call me what you want, but I'd rather get caught being a perv than sit around in a sauna with a bunch of guys circle jerking each other. *Chuckles*"
-    u " *低语* 随你怎么叫我，但我宁愿被发现是个变态也不愿和一群男人坐在桑拿房里互相打酱油。 *咯咯笑* "
+    u "*低语* 随你怎么叫我，但我宁愿被发现是个变态也不愿和一群男人坐在桑拿房里互相打酱油。 *咯咯笑*"
 
 # game/v12/scene33.rpy:1338
 translate chinese v12s33_sneak_off2_2b302ad6:
 
     # am "*Whisper* Haha! Okay, you have a point. Maybe you're just an evolved straight man..."
-    am " *低语* 哈哈！好吧，你说的有道理。也许你只是一个进化了的直男……"
+    am "*低语* 哈哈！好吧，你说的有道理。也许你只是一个进化了的直男……"
 
 # game/v12/scene33.rpy:1343
 translate chinese v12s33_sneak_off2_77880a9a:
 
     # u "*Whisper* See, you get it."
-    u " *低语* 看，你懂的。"
+    u "*低语* 看，你懂的。"
 
 # game/v12/scene33.rpy:1348
 translate chinese v12s33_sneak_off2_790d4521:
 
     # am "*Whisper* I'm not snitching, but I'm not missing out on this massage either so, you're gonna have to leave me be."
-    am " *低语* 我不会告密，但我也不想错过这次按摩所以，你还是别来烦我了。"
+    am "*低语* 我不会告密，但我也不想错过这次按摩所以，你还是别来烦我了。"
 
 # game/v12/scene33.rpy:1353
 translate chinese v12s33_sneak_off2_cdb0479d:
 
     # u "*Whisper* Haha, alright."
-    u " *低语* 哈哈，好吧。"
+    u "*低语* 哈哈，好吧。"
 
 # game/v12/scene33.rpy:1361
 translate chinese v12s33_sneak_off2_2ff635e9:
 
     # u "*Whisper* Nora Nora, can I \"bora bora\" you?"
-    u " *低语* 诺拉，诺拉。我能\"巴拉巴拉\"你吗？"
+    u "*低语* 诺拉，诺拉。我能\"巴拉巴拉\"你吗？"
 
 # game/v12/scene33.rpy:1366
 translate chinese v12s33_sneak_off2_b838ccf5:
 
     # no "*Whisper* Holy shit! You scared me!"
-    no " *低语* 天呐！你吓到我了！"
+    no "*低语* 天呐！你吓到我了！"
 
 # game/v12/scene33.rpy:1371
 translate chinese v12s33_sneak_off2_c15e9009:
 
     # u "*Whisper* Haha, sorry!"
-    u " *低语* 哈哈，抱歉！"
+    u "*低语* 哈哈，抱歉！"
 
 # game/v12/scene33.rpy:1376
 translate chinese v12s33_sneak_off2_d7cbf035:
 
     # no "*Whisper* What the fuck are you doing here?"
-    no " *低语* 你他妈地在这里干什么？"
+    no "*低语* 你他妈地在这里干什么？"
 
 # game/v12/scene33.rpy:1381
 translate chinese v12s33_sneak_off2_b22b9fdd:
 
     # u "*Whisper* Something that isn't boring... I thought I'd come and talk to you guys."
-    u " *低语* 一些不无聊的事情……我想过来和你们聊聊。"
+    u "*低语* 一些不无聊的事情……我想过来和你们聊聊。"
 
 # game/v12/scene33.rpy:1386
 translate chinese v12s33_sneak_off2_40054557:
 
     # no "*Whisper* What if you get-"
-    no " *低语* 要是你被抓-"
+    no "*低语* 要是你被抓……"
 
 # game/v12/scene33.rpy:1391
 translate chinese v12s33_sneak_off2_ab2cdf54:

@@ -16,7 +16,7 @@ translate chinese v13s62_fd839871:
 translate chinese v13s62_11cc15d9:
 
     # au "I felt so terrible for what happened to you so, me and Riley thought we'd come by and try to cheer you up. *Chuckles*"
-    au "我对发生在你身上的事感到很难过所以我和莱莉想过来安慰你一下。 *咯咯笑* "
+    au "我对发生在你身上的事感到很难过所以我和莱莉想过来安慰你一下。 *咯咯笑*"
 
 # game/v13/scene62.rpy:32
 translate chinese v13s62_1950b384:
@@ -28,7 +28,7 @@ translate chinese v13s62_1950b384:
 translate chinese v13s62_2057c186:
 
     # ri "*Chuckles*"
-    ri " *咯咯笑* "
+    ri "*咯咯笑*"
 
 # game/v13/scene62.rpy:42
 translate chinese v13s62_a53e0e70:
@@ -46,7 +46,7 @@ translate chinese v13s62_12a1af1f:
 translate chinese v13s62_191908c5:
 
     # ri "Yeah, I'm pretty sure I heard that too... *Chuckles*"
-    ri "是的，我很确定我也听到了…… *咯咯笑* "
+    ri "是的，我很确定我也听到了…… *咯咯笑*"
 
 # game/v13/scene62.rpy:57
 translate chinese v13s62_6f64cbe0:
@@ -64,7 +64,7 @@ translate chinese v13s62_a3aa73c7:
 translate chinese v13s62_c22228bc:
 
     # u "Oh, wow..."
-    u "噢，哇……"
+    u "噢，哇哦……"
 
 # game/v13/scene62.rpy:72
 translate chinese v13s62_b53e40da:

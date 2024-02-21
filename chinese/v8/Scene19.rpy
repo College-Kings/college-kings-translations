@@ -4,37 +4,37 @@
 translate chinese v8s19_phoneCheck1_e6825ef5:
 
     # u "I should reply to Emily"
-    u "我应该给艾米丽回个信息"
+    u "我应该给艾米丽回个信息。"
 
 # game/v8/Scene19.rpy:130
 translate chinese v8s19_phoneCheck1_c478a397:
 
     # u "(I think I'll get an early night)"
-    u "(我想我该早点睡)"
+    u "(我想我该早点睡。)"
 
 # game/v8/Scene19.rpy:136
 translate chinese v8s19_phoneCheck1_c478a397_1:
 
     # u "(I think I'll get an early night)"
-    u "(我想我该早点睡)"
+    u "(我想我该早点睡。)"
 
 # game/v8/Scene19.rpy:191
 translate chinese v8s19_phoneCheck2_e6825ef5:
 
     # u "I should reply to Emily"
-    u "我应该给艾米丽回个信息"
+    u "我应该给艾米丽回个信息。"
 
 # game/v8/Scene19.rpy:200
 translate chinese v8s19_phoneCheck2_c478a397:
 
     # u "(I think I'll get an early night)"
-    u "(我想我该早点睡)"
+    u "(我想我该早点睡。)"
 
 # game/v8/Scene19.rpy:206
 translate chinese v8s19_phoneCheck2_c478a397_1:
 
     # u "(I think I'll get an early night)"
-    u "(我想我该早点睡)"
+    u "(我想我该早点睡。)"
 
 translate chinese strings:
 

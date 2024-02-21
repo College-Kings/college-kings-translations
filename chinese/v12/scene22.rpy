@@ -341,5 +341,5 @@ translate chinese v12_riley_room_c6f31bd1:
 translate chinese v12_riley_room_189feee2_1:
 
     # u "(Bastard was probably listening that whole fucking time...)"
-    u "(那混蛋可能他妈的一直在听……)"
+    u "(他妈的那混蛋可能一直在偷听……)"
 

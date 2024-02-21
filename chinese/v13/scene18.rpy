@@ -4,7 +4,7 @@
 translate chinese v13s18_31f2fa67:
 
     # u "Hey Luuk, please tell me you got something for me today... *Chuckles*"
-    u "嘿，卢克，请告诉我你今天有东西给我…… *咯咯笑* "
+    u "嘿，卢克，请告诉我你今天有东西给我…… *咯咯笑*"
 
 # game/v13/scene18.rpy:17
 translate chinese v13s18_60b199a2:
@@ -16,43 +16,43 @@ translate chinese v13s18_60b199a2:
 translate chinese v13s18_435fa388:
 
     # u "My man... *Laughs*"
-    u "我的伙计…… *笑* "
+    u "我的伙计…… *笑*"
 
 # game/v13/scene18.rpy:62
 translate chinese v13s18_d2830463:
 
     # no "*INAUDIBLE*"
-    no " *听不清* "
+    no "*听不清*"
 
 # game/v13/scene18.rpy:67
 translate chinese v13s18_692c6e65:
 
     # ch "*INAUDIBLE*"
-    ch " *听不清* "
+    ch "*听不清*"
 
 # game/v13/scene18.rpy:72
 translate chinese v13s18_d2830463_1:
 
     # no "*INAUDIBLE*"
-    no " *听不清* "
+    no "*听不清*"
 
 # game/v13/scene18.rpy:77
 translate chinese v13s18_692c6e65_1:
 
     # ch "*INAUDIBLE*"
-    ch " *听不清* "
+    ch "*听不清*"
 
 # game/v13/scene18.rpy:82
 translate chinese v13s18_d2830463_2:
 
     # no "*INAUDIBLE*"
-    no " *听不清* "
+    no "*听不清*"
 
 # game/v13/scene18.rpy:87
 translate chinese v13s18_692c6e65_2:
 
     # ch "*INAUDIBLE*"
-    ch " *听不清* "
+    ch "*听不清*"
 
 # game/v13/scene18.rpy:92
 translate chinese v13s18_5b818039:
@@ -82,13 +82,13 @@ translate chinese v13s18_d3d2d66a:
 translate chinese v13s18_759ec41b:
 
     # ch "I'm glad to hear that, babe."
-    ch "很高兴听到你这么说，宝贝。"
+    ch "很高兴听到你这么说，宝贝儿。"
 
 # game/v13/scene18.rpy:132
 translate chinese v13s18_99bd2308:
 
     # u "*Mouthing* What are you doing?"
-    u " *说* 你在做什么？"
+    u "*咀嚼* 你在做什么？"
 
 # game/v13/scene18.rpy:137
 translate chinese v13s18_8511a600:
@@ -100,7 +100,7 @@ translate chinese v13s18_8511a600:
 translate chinese v13s18_4945864e:
 
     # u "(Well... She looked... happy? *Chuckles*)"
-    u "(嗯……她看起来……开心吗？ *咯咯笑* )"
+    u "(嗯……她看起来……开心吗？ *咯咯笑*)"
 
 # game/v13/scene18.rpy:151
 translate chinese v13s18_dfcfcbf9:
@@ -124,37 +124,37 @@ translate chinese v13s18_PhoneContinueNora_2a87eeb0:
 translate chinese v13s18_PhoneContinueNora_0d8613de:
 
     # u "*Sighs* (Nah, nevermind. I'll just let this play out on its own...)"
-    u " *叹息* (不，没关系。我就让这件事自己来演吧……)"
+    u "*叹息* (不，没关系。我就让这件事自己来演吧……)"
 
 # game/v13/scene18.rpy:185
 translate chinese v13s18_PhoneContinueNora_25720b28:
 
     # luuk "I worked hard on this masterpiece, so you better enjoy it... *Laughs*"
-    luuk "我为这幅杰作付出了很多心血，所以你最好好好享受…… *笑* "
+    luuk "我为这幅杰作付出了很多心血，所以你最好好好享受…… *笑*"
 
 # game/v13/scene18.rpy:190
 translate chinese v13s18_PhoneContinueNora_3cc348ce:
 
     # u "*Chuckles* I'm sure I will. Thanks."
-    u " *咯咯笑* 我相信我会的。谢谢。"
+    u "*咯咯笑* 我相信我会的。谢谢。"
 
 # game/v13/scene18.rpy:195
 translate chinese v13s18_PhoneContinueNora_94ec04aa:
 
     # luuk "Of course! So, you and Riley are getting ready to do your little \"Charli stunt\", huh?"
-    luuk "当然！所以，你和莱莉正准备做你们的\"查理特技\"，嗯？"
+    luuk "不客气！所以，你和莱莉正准备做你们的\"查理特技\"，嗯？"
 
 # game/v13/scene18.rpy:200
 translate chinese v13s18_PhoneContinueNora_da5d8d28:
 
     # u "*Shocked* How the fuck do you know that?"
-    u " *震惊* 你他妈的怎么知道的？"
+    u "*震惊* 你他妈的怎么知道的？"
 
 # game/v13/scene18.rpy:205
 translate chinese v13s18_PhoneContinueNora_4b3a0e33:
 
     # luuk "I didn't, but I do now. *Laughs*"
-    luuk "我没有，但我现在知道了。 *笑* "
+    luuk "我没有，但我现在知道了。 *笑*"
 
 # game/v13/scene18.rpy:210
 translate chinese v13s18_PhoneContinueNora_185eb072:

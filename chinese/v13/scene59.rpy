@@ -4,7 +4,7 @@
 translate chinese v13s59_c0de590c:
 
     # au "Why am I getting nervous? I've got butterflies over here. *Laughs*"
-    au "为什么我会紧张呢？我这里有只蝴蝶。 *笑* "
+    au "为什么我会紧张呢？我这里有只蝴蝶。 *笑*"
 
 # game/v13/scene59.rpy:27
 translate chinese v13s59_4ee8ca79:
@@ -34,7 +34,7 @@ translate chinese v13s59_07cdae04:
 translate chinese v13s59_09d09514:
 
     # u "What do you mean? *Chuckles*"
-    u "什么意思？ *咯咯笑* "
+    u "怎么会？ *咯咯笑*"
 
 # game/v13/scene59.rpy:52
 translate chinese v13s59_c8f3548e:
@@ -46,13 +46,13 @@ translate chinese v13s59_c8f3548e:
 translate chinese v13s59_eb266ad1:
 
     # u "Wait, what? You never learned how to swim? *Chuckles*"
-    u "等等，什么？你从来没学过游泳？ *咯咯笑* "
+    u "等等，什么？原来你是只旱鸭子？ *咯咯笑*"
 
 # game/v13/scene59.rpy:62
 translate chinese v13s59_8324da4e:
 
     # au "Yeah, I know... It's kinda funny at first but I was terrified of the water when I was little."
-    au "是啊，我知道……说出来有点儿好笑，但我小时候很怕水。"
+    au "好吧，我知道……说出来有点儿好笑，但我小时候很怕水。"
 
 # game/v13/scene59.rpy:67
 translate chinese v13s59_e97ee3fa:
@@ -70,7 +70,7 @@ translate chinese v13s59_24944aef:
 translate chinese v13s59_745b6a60:
 
     # au "Diving into a body of water, especially with unknown creatures inside of it... Is terrifying. *Chuckles*"
-    au "潜入水中，尤其是里面有未知生物……太可怕了。 *咯咯笑* "
+    au "潜入水中，尤其是里面有未知生物……太可怕了。 *咯咯笑*"
 
 # game/v13/scene59.rpy:79
 translate chinese v13s59_b5768ac5:
@@ -82,7 +82,7 @@ translate chinese v13s59_b5768ac5:
 translate chinese v13s59_25b548b0:
 
     # au "*Chuckles* Yes, really."
-    au " *咯咯笑* 是的，真的。"
+    au "*咯咯笑* 是的，真的。"
 
 # game/v13/scene59.rpy:89
 translate chinese v13s59_276b7e42:
@@ -94,7 +94,7 @@ translate chinese v13s59_276b7e42:
 translate chinese v13s59_8acb7b24:
 
     # au "I was never really interested and also horrified, but right now I'm wishing I had. *Laughs*"
-    au "我从来没有真正感兴趣，也很害怕，但现在我希望我会。 *笑* "
+    au "我从来没有真正感兴趣，也很害怕，但现在我希望我会。 *笑*"
 
 # game/v13/scene59.rpy:99
 translate chinese v13s59_dd704049:
@@ -112,19 +112,19 @@ translate chinese v13s59_44f98e79:
 translate chinese v13s59_d90a5158:
 
     # au "This is kinda... hard. *Chuckles*"
-    au "这有点……难。 *咯咯笑* "
+    au "这有点……难。 *咯咯笑*"
 
 # game/v13/scene59.rpy:134
 translate chinese v13s59_47bcd4e1:
 
     # u "That's what she said... *Laughs*"
-    u "她就是这么说的…… *笑* "
+    u "她就是这么说的…… *笑*"
 
 # game/v13/scene59.rpy:139
 translate chinese v13s59_52109e08:
 
     # au "*Chuckles* I'm serious!"
-    au " *咯咯笑* 我认真的！"
+    au "*咯咯笑* 我认真的！"
 
 # game/v13/scene59.rpy:151
 translate chinese v13s59_f9cf14cd:
@@ -136,13 +136,13 @@ translate chinese v13s59_f9cf14cd:
 translate chinese v13s59_606f800e:
 
     # u "Nah, you're just weak. *Chuckles*"
-    u "不，你太弱啦。 *咯咯笑* "
+    u "不，你太弱啦。 *咯咯笑*"
 
 # game/v13/scene59.rpy:163
 translate chinese v13s59_c0d9d659:
 
     # au "Uhh, rude! *Chuckles*"
-    au "额，粗鲁！ *咯咯笑* "
+    au "额，粗鲁！ *咯咯笑*"
 
 # game/v13/scene59.rpy:168
 translate chinese v13s59_6552445b:
@@ -196,7 +196,7 @@ translate chinese v13s59_af2c9a31:
 translate chinese v13s59_09cd767e:
 
     # u "*Chuckles* Well, you gave it a chance."
-    u " *咯咯笑* 好吧，你给了它一个机会。"
+    u "*咯咯笑* 好吧，你给了它一个机会。"
 
 # game/v13/scene59.rpy:243
 translate chinese v13s59_e6cc87ae:
@@ -250,7 +250,7 @@ translate chinese v13s59_505a3f68:
 translate chinese v13s59_a208dfd1:
 
     # au "*Chuckles* Well..."
-    au " *咯咯笑* 好吧……"
+    au "*咯咯笑* 好吧……"
 
 # game/v13/scene59.rpy:294
 translate chinese v13s59_2f534376:
@@ -280,7 +280,7 @@ translate chinese v13s59_0a84af6a:
 translate chinese v13s59_41d9ff4b:
 
     # au "Oh... My... *Laughs*"
-    au "我……的…… *笑* "
+    au "我……的…… *笑*"
 
 # game/v13/scene59.rpy:346
 translate chinese v13s59_9e14a675:
@@ -292,13 +292,13 @@ translate chinese v13s59_9e14a675:
 translate chinese v13s59_7d87fc3e:
 
     # au "Definitely not. *Laughs*"
-    au "可不是嘛。 *笑* "
+    au "可不是嘛。 *笑*"
 
 # game/v13/scene59.rpy:356
 translate chinese v13s59_cf72d9d3:
 
     # u "So... What was that little kiss for?"
-    u "所以……那个小吻是为了什么？"
+    u "所以……那个吻是为了什么？"
 
 # game/v13/scene59.rpy:361
 translate chinese v13s59_d43ef4c5:

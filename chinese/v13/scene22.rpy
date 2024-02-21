@@ -4,7 +4,7 @@
 translate chinese v13s22_d1f8fc03:
 
     # au "Please fill me in... 'Cause that shit was odd."
-    au "请告诉我……因为那狗屎很奇怪"
+    au "请告诉我……因为那狗屎很奇怪。"
 
 # game/v13/scene22.rpy:17
 translate chinese v13s22_b58b329f:
@@ -82,13 +82,13 @@ translate chinese v13s22_1d24db76:
 translate chinese v13s22_1e5e46e5:
 
     # au "You ratted him out... I would've made him give me a cut to keep my mouth shut. *Chuckles*"
-    au "你出卖了他……我会让他给我一笔钱让我闭嘴。 *咯咯笑* "
+    au "你出卖了他……我会让他给我一笔钱让我闭嘴。 *咯咯笑*"
 
 # game/v13/scene22.rpy:83
 translate chinese v13s22_16a019bb:
 
     # ri "Not a bad idea... *Chuckles*"
-    ri "这主意不错…… *咯咯笑* "
+    ri "这主意不错…… *咯咯笑*"
 
 # game/v13/scene22.rpy:89
 translate chinese v13s22_bfa96342:
@@ -130,7 +130,7 @@ translate chinese v13s22_a0b2e3a4:
 translate chinese v13s22_ff4f4c6f:
 
     # ri "Yeah, that actually would've been a good idea... *Chuckles*"
-    ri "是的，那确实是个好主意…… *咯咯笑* "
+    ri "是的，那确实是个好主意…… *咯咯笑*"
 
 # game/v13/scene22.rpy:123
 translate chinese v13s22_0567a039:
@@ -142,7 +142,7 @@ translate chinese v13s22_0567a039:
 translate chinese v13s22_aa863068:
 
     # au "To you. *Laughs*"
-    au "敬你。 *笑* "
+    au "敬你。 *笑*"
 
 # game/v13/scene22.rpy:133
 translate chinese v13s22_5f9f3ba8:
@@ -166,13 +166,13 @@ translate chinese v13s22_643cde23:
 translate chinese v13s22_902976c4:
 
     # ri "Outside of hating you for no reason and doing mean shit, he was kind of cool... *Chuckles*"
-    ri "除了无缘无故地恨你和做一些卑鄙的事，他还挺酷的…… *咯咯笑* "
+    ri "除了无缘无故地恨你和做一些卑鄙的事，他还挺酷的…… *咯咯笑*"
 
 # game/v13/scene22.rpy:153
 translate chinese v13s22_c0a7e6ae:
 
     # u "Wow, thanks..."
-    u "哇，谢谢……"
+    u "哇哦，谢谢……"
 
 # game/v13/scene22.rpy:158
 translate chinese v13s22_6b523af1:
@@ -190,7 +190,7 @@ translate chinese v13s22_63c98225:
 translate chinese v13s22_74891ac2:
 
     # au "Oh my god, Riley... That picture was nothing. We all have a silly childhood picture. *Chuckles*"
-    au "我的天啊，莱莉……那张照片算不了什么。我们都有一张愚蠢的童年照片。 *咯咯笑* "
+    au "噢，我的天啊，莱莉……那张照片算不了什么。我们都有一张愚蠢的童年照片。 *咯咯笑*"
 
 # game/v13/scene22.rpy:170
 translate chinese v13s22_1b1f9b2c:
@@ -220,25 +220,25 @@ translate chinese v13s22_77401104:
 translate chinese v13s22_514e6c73:
 
     # u "Probably? *Chuckles*"
-    u "可能？ *咯咯笑* "
+    u "可能？ *咯咯笑*"
 
 # game/v13/scene22.rpy:195
 translate chinese v13s22_dfd1aab3:
 
     # ri "Okay, I definitely was. *Laughs*"
-    ri "好吧，我确实是。 *笑* "
+    ri "好吧，我确实是。 *笑*"
 
 # game/v13/scene22.rpy:205
 translate chinese v13s22_9267928a:
 
     # imre "What's up ladies? And Aubrey. *Chuckles*"
-    imre "怎么了，女士们？还有奥布里。 *咯咯笑* "
+    imre "怎么了，女士们？还有奥布里。 *咯咯笑*"
 
 # game/v13/scene22.rpy:210
 translate chinese v13s22_bd33760a:
 
     # au "Eat a dick, Imre. *Chuckles*"
-    au "吃个鸡吧，伊姆雷。 *咯咯笑* "
+    au "吃个鸡吧，伊姆雷。 *咯咯笑*"
 
 # game/v13/scene22.rpy:215
 translate chinese v13s22_f366a2b2:
@@ -280,5 +280,5 @@ translate chinese v13s22_194b3f3b:
 translate chinese v13s22_9d8e68fd:
 
     # au "We are. C'mon Riley! Let me go show off these baby bloopers. *Laughs*"
-    au "我们没事。走吧，莱莉！让这些孩子们炫耀一下吧。 *笑* "
+    au "我们没事。走吧，莱莉！让这些孩子们炫耀一下吧。 *笑*"
 

@@ -16,7 +16,7 @@ translate chinese v12_simplr_convo_0fa55aff:
 translate chinese v12_simplr_convo_aeeb154a:
 
     # u "(Randomly waking up in the middle of the night, with nothing to do except stare at the wall, yayyy.)"
-    u "(半夜随机醒来，除了盯着墙，没什么可做的，耶耶。)"
+    u "(半夜随机醒来，除了盯着墙，没什么可做的，哎呀。)"
 
 # game/v12/scene24.rpy:35
 translate chinese v12_simplr_convo_9d27cce1:

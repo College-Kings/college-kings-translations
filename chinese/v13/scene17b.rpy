@@ -4,13 +4,13 @@
 translate chinese v13s17b_a79c388a:
 
     # u "(Wow... It doesn't get any better than this.)"
-    u "(哇……没有比这更好的了。)"
+    u "(哇哦……没有比这更好的了。)"
 
 # game/v13/scene17b.rpy:22
 translate chinese v13s17b_1eb9bd11:
 
     # u "*Stomach growls*"
-    u " *胃里咕噜叫* "
+    u "*胃里咕噜叫*"
 
 # game/v13/scene17b.rpy:24
 translate chinese v13s17b_d9a255e9:
@@ -22,7 +22,7 @@ translate chinese v13s17b_d9a255e9:
 translate chinese v13s17b_2677ab5e:
 
     # u "*Chuckles* (She is not gonna let me go...)"
-    u " *咯咯笑* (她不会让我走的……)"
+    u "*咯咯笑* (她不会让我走的……)"
 
 # game/v13/scene17b.rpy:44
 translate chinese v13s17b_c31feb14:

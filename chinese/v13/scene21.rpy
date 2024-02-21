@@ -16,7 +16,7 @@ translate chinese v13s21_0a09a160:
 translate chinese v13s21_feb67581:
 
     # u "*Sighs* How much?"
-    u " *叹息* 多少钱？"
+    u "*叹息* 多少钱？"
 
 # game/v13/scene21.rpy:42
 translate chinese v13s21_b8f6f524:
@@ -34,19 +34,19 @@ translate chinese v13s21_14462728:
 translate chinese v13s21_4f20312c:
 
     # luuk "*Chuckles* If you would've looked around a bit before coming here, you would've seen that he's right there in the cafe."
-    luuk " *咯咯笑* 如果你在来这里之前环顾四周，你就会看到他就在咖啡馆里。"
+    luuk "*咯咯笑* 如果你在来这里之前环顾四周，你就会看到他就在咖啡馆里。"
 
 # game/v13/scene21.rpy:57
 translate chinese v13s21_e3f29b02:
 
     # u "Ha, wow... Okay, thanks."
-    u "哈，哇……好的，谢谢。"
+    u "哈，哇哦……好的，谢谢。"
 
 # game/v13/scene21.rpy:62
 translate chinese v13s21_48e4e0b4:
 
     # luuk "Anytime. *Chuckles*"
-    luuk "随时可以。 *咯咯笑* "
+    luuk "随时可以。 *咯咯笑*"
 
 # game/v13/scene21.rpy:67
 translate chinese v13s21_df100b79:
@@ -118,7 +118,7 @@ translate chinese v13s21_32ca877a:
 translate chinese v13s21_234bbea1:
 
     # charli "*Gulp* What are you talking about?"
-    charli " *咕噜声* 你在说什么？"
+    charli "*咕噜声* 你在说什么？"
 
 # game/v13/scene21.rpy:145
 translate chinese v13s21_27598524:
@@ -148,7 +148,7 @@ translate chinese v13s21_d2fa7a3a:
 translate chinese v13s21_e9f4a881:
 
     # charli "My laptop? Ha! That's in my room? That's a crime, plus you have no concrete-"
-    charli "我的笔记本电脑？哈哈！那是在我房间里吗？那是犯罪，再加上你没有具体的-"
+    charli "我的笔记本电脑？哈哈！那是在我房间里吗？那是犯罪，再加上你没有具体的……"
 
 # game/v13/scene21.rpy:175
 translate chinese v13s21_ce8c04e0:
@@ -172,13 +172,13 @@ translate chinese v13s21_d7aba75b:
 translate chinese v13s21_bb72108d:
 
     # charli "Well... That was pretty dumb of you. *Chuckles*"
-    charli "好吧……你真是太傻了。 *咯咯笑* "
+    charli "好吧……你真是太傻了。 *咯咯笑*"
 
 # game/v13/scene21.rpy:191
 translate chinese v13s21_e0610501:
 
     # charli "Now you have no leverage, it's your word against mine. Isn't a very strong argument. *Laughs*"
-    charli "现在你没有筹码了，只能用你的话来对付我。并不是一个强有力的论点。 *笑* "
+    charli "现在你没有筹码了，只能用你的话来对付我。并不是一个强有力的论点。 *笑*"
 
 # game/v13/scene21.rpy:196
 translate chinese v13s21_b9008c90:
@@ -202,7 +202,7 @@ translate chinese v13s21_4e3b9c9e:
 translate chinese v13s21_fcd419f0:
 
     # u "*Chuckles* You did this shit to yourself, don't expect a drop of pity from me."
-    u " *咯咯笑* 这都是你咎由自取，别指望我会怜悯你。"
+    u "*咯咯笑* 这都是你咎由自取，别指望我会怜悯你。"
 
 # game/v13/scene21.rpy:216
 translate chinese v13s21_ef2d2131:
@@ -232,7 +232,7 @@ translate chinese v13s21_ae041d7f:
 translate chinese v13s21_f8c85924:
 
     # u "What's fair is me, Riley, and every other person who you've acted like a little snake to, never having to see your dumb fucking face again."
-    u "公平的是我，莱丽，还有每一个被你耍得像条小蛇一样的人，永远不会再看到你那张蠢脸。"
+    u "公平的是我，莱莉，还有每一个被你耍得像条小蛇一样的人，永远不会再看到你那张蠢脸。"
 
 # game/v13/scene21.rpy:237
 translate chinese v13s21_c9050236:
@@ -244,7 +244,7 @@ translate chinese v13s21_c9050236:
 translate chinese v13s21_0f8e4d73:
 
     # charli "I care for the students-"
-    charli "我关心同学们-"
+    charli "我关心同学们……"
 
 # game/v13/scene21.rpy:247
 translate chinese v13s21_da7a2eb6:
@@ -256,7 +256,7 @@ translate chinese v13s21_da7a2eb6:
 translate chinese v13s21_ae249794:
 
     # charli "*Sighs* There's no point in trying to convince you."
-    charli " *叹息* 试图说服你是没有意义的。"
+    charli "*叹息* 试图说服你是没有意义的。"
 
 # game/v13/scene21.rpy:267
 translate chinese v13s21_966b79bd:

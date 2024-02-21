@@ -4,7 +4,7 @@
 translate chinese v14s05_57ae9944:
 
     # u "*Sighs*"
-    u " *叹息* "
+    u "*叹息*"
 
 # game/v14/scene5.rpy:30
 translate chinese v14s05_7e41c814:
@@ -34,13 +34,13 @@ translate chinese v14s05_50474444:
 translate chinese v14s05_fdc5df04:
 
     # cl "*Loud laugh*"
-    cl " *放声大笑* "
+    cl "*放声大笑*"
 
 # game/v14/scene5.rpy:75
 translate chinese v14s05_074498ba:
 
     # cl "Sorry! I shouldn't have laughed, it's just-"
-    cl "抱歉的！我不该笑的，只是-"
+    cl "抱歉！我不该笑的，只是……"
 
 # game/v14/scene5.rpy:80
 translate chinese v14s05_8d8ba451:
@@ -64,7 +64,7 @@ translate chinese v14s05_c0b4e813:
 translate chinese v14s05_538c4a66:
 
     # u "Very true, and that's why I'm going to sleep. *Chuckles*"
-    u "非常正确，这就是我要睡觉的原因。 *咯咯笑* "
+    u "非常正确，这就是我要睡觉的原因。 *咯咯笑*"
 
 # game/v14/scene5.rpy:130
 translate chinese v14s05_870a0f97:

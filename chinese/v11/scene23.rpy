@@ -448,7 +448,7 @@ translate chinese v11s23_riley1_2a999dfd:
 translate chinese v11s23_riley1_b784a2da:
 
     # ri "*Whisper* Sounds fun to me. But, don't make a promise you can't keep, [name]."
-    ri "*耳语* 听起来很有趣。但是，不要许下你做不到的承诺，[name]。"
+    ri "*低语* 听起来很有趣。但是，不要许下你做不到的承诺，[name]。"
 
 # game/v11/scene23.rpy:410
 translate chinese v11s23_riley1_7804d17d:
@@ -532,7 +532,7 @@ translate chinese v11s23_riley1_839935de:
 translate chinese v11s23_riley1_dcac14fc:
 
     # ri "*Whisper* You already know, but I can show you again."
-    ri "*耳语* 你已经知道了，但我可以再给你看一遍。"
+    ri "*低语* 你已经知道了，但我可以再给你看一遍。"
 
 # game/v11/scene23.rpy:483
 translate chinese v11s23_riley1_5127e434:
@@ -586,7 +586,7 @@ translate chinese v11s23_riley1_ea9d1593:
 translate chinese v11s23_riley1_d0fea954:
 
     # ri "No, uhm... I was just-"
-    ri "不，嗯……我只是-"
+    ri "不，嗯……我只是……"
 
 # game/v11/scene23.rpy:538
 translate chinese v11s23_riley1_a20cccab:
@@ -604,7 +604,7 @@ translate chinese v11s23_riley1_127638b3:
 translate chinese v11s23_riley1_30619ab3:
 
     # u "*Whisper* Mr. Lee, Riley is touching the dinosaurs."
-    u "*耳语* 李先生，莱莉正在触摸恐龙。"
+    u "*低语* 李先生，莱莉正在触摸恐龙。"
 
 # game/v11/scene23.rpy:559
 translate chinese v11s23_riley1_e9a6ccaf:

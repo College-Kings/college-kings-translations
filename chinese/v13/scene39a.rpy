@@ -22,7 +22,7 @@ translate chinese v13s39a_6cce89b6:
 translate chinese v13s39a_7040e7a2:
 
     # u "The girls were there too, so if chilling with girls is gay then I guess that's what I am. *Chuckles*"
-    u "女孩们也在那里，所以如果和女孩们在一起是同性恋，那么我想我就是同性恋 *咯咯笑* "
+    u "女孩们也在那里，所以如果和女孩们在一起是同性恋，那么我想我就是同性恋。 *咯咯笑*"
 
 # game/v13/scene39a.rpy:47
 translate chinese v13s39a_2a2b694b:
@@ -52,7 +52,7 @@ translate chinese v13s39a_f55e98f3:
 translate chinese v13s39a_e8a4b474:
 
     # u "So you're asking me to go on a double date with you and Emily?"
-    u "所以你是要我和你和艾米丽去四人约会？"
+    u "所以你是要我和你还有艾米丽来场四人约会？"
 
 # game/v13/scene39a.rpy:73
 translate chinese v13s39a_0a0c9454:
@@ -124,7 +124,7 @@ translate chinese v13s39a_72f42a3e:
 translate chinese v13s39a_5ce5b452:
 
     # ry "Too bad! Right pocket. *Chuckles*"
-    ry "太糟了！右边的洞。 *咯咯笑* "
+    ry "太糟了！右边的洞。 *咯咯笑*"
 
 # game/v13/scene39a.rpy:180
 translate chinese v13s39a_66630714:
@@ -136,7 +136,7 @@ translate chinese v13s39a_66630714:
 translate chinese v13s39a_1c0fa32b:
 
     # u "You got lucky. *Chuckles*"
-    u "真有好运气。 *咯咯笑* "
+    u "真有好运气。 *咯咯笑*"
 
 # game/v13/scene39a.rpy:191
 translate chinese v13s39a_89528416:
@@ -172,13 +172,13 @@ translate chinese v13s39a_157697d1:
 translate chinese v13s39a_24ff95e8:
 
     # u "Or I'm just good. *Laughs*"
-    u "或者我就是很棒。 *笑* "
+    u "或者我就是很棒。 *笑*"
 
 # game/v13/scene39a.rpy:226
 translate chinese v13s39a_7d96ca36:
 
     # ry "Sureee... *Chuckles*"
-    ry "好吧…… *咯咯笑* "
+    ry "好吧…… *咯咯笑*"
 
 # game/v13/scene39a.rpy:231
 translate chinese v13s39a_be9d0161:
@@ -208,13 +208,13 @@ translate chinese v13s39a_5429a564:
 translate chinese v13s39a_6d728b3a:
 
     # ry "Wow, that's not what I expected. Thanks dude, really."
-    ry "哇，这不是我想要的。谢谢你，伙计，真的。"
+    ry "哇哦，这不是我想要的。谢谢你，伙计，真的。"
 
 # game/v13/scene39a.rpy:258
 translate chinese v13s39a_164a16ae:
 
     # u "Yeah, for sure."
-    u "是啊，当然。"
+    u "好吧，不客气。"
 
 # game/v13/scene39a.rpy:264
 translate chinese v13s39a_c6e768b2:
@@ -322,13 +322,13 @@ translate chinese v13s39a_0efd91ba:
 translate chinese v13s39a_aaf85a75:
 
     # ry "I'm getting a new car."
-    ry "我要买一辆新车。"
+    ry "我搞了一辆新车。"
 
 # game/v13/scene39a.rpy:368
 translate chinese v13s39a_5fdb89bd:
 
     # u "Oh really? What are you getting?"
-    u "噢，真的？你要买什么？"
+    u "噢，真的？是什么车？"
 
 # game/v13/scene39a.rpy:373
 translate chinese v13s39a_047191b3:
@@ -352,7 +352,7 @@ translate chinese v13s39a_034abea6:
 translate chinese v13s39a_cd6df897:
 
     # u "Wow, that’s exciting man."
-    u "哇，那真是令人兴奋，伙计。"
+    u "哇哦，那真是令人兴奋，伙计。"
 
 # game/v13/scene39a.rpy:398
 translate chinese v13s39a_4dde9574:
@@ -394,13 +394,13 @@ translate chinese v13s39a_8569c4fa_1:
 translate chinese v13s39a_4bcf0f6f:
 
     # ry "Man... It looks like Nora and Chris are gonna be back on the market here soon."
-    ry "男人……看起来诺拉和克里斯很快就会回到正轨。"
+    ry "伙计……看起来诺拉和克里斯很快就会回到正轨了。"
 
 # game/v13/scene39a.rpy:434
 translate chinese v13s39a_7b5b5854:
 
     # u "Maybe, maybe not. Why do you bring it up? Trying to take Chris to dinner? *Chuckles*"
-    u "可能会，也可能不会。你为什么要提起这件事？想带克里斯去吃饭吗？ *咯咯笑* "
+    u "可能会，也可能不会。你为什么要提起这件事？想带克里斯去吃饭吗？ *咯咯笑*"
 
 # game/v13/scene39a.rpy:439
 translate chinese v13s39a_d7069fc6:
@@ -412,7 +412,7 @@ translate chinese v13s39a_d7069fc6:
 translate chinese v13s39a_ef7b6ef8:
 
     # u "Thank you, I'm here all night. *Laughs*"
-    u "谢谢，我整晚都在这里。 *笑* "
+    u "谢谢，我整晚都在这里。 *笑*"
 
 # game/v13/scene39a.rpy:449
 translate chinese v13s39a_c61d3db6:
@@ -430,7 +430,7 @@ translate chinese v13s39a_9c5b95fc:
 translate chinese v13s39a_db90dc24:
 
     # ry "What's really gonna be a surprise is when I beat you during this game. *Chuckles*"
-    ry "真正让人惊讶的是我在这场比赛中打败了你。 *咯咯笑* "
+    ry "真正让人惊讶的是我在这场比赛中打败了你。 *咯咯笑*"
 
 # game/v13/scene39a.rpy:464
 translate chinese v13s39a_46f1de46:
@@ -460,7 +460,7 @@ translate chinese v13s39a_72f42a3e_1:
 translate chinese v13s39a_5ce5b452_1:
 
     # ry "Too bad! Right pocket. *Chuckles*"
-    ry "太早了！右边的洞。 *咯咯笑* "
+    ry "太早了！右边的洞。 *咯咯笑*"
 
 # game/v13/scene39a.rpy:534
 translate chinese v13s39a_66630714_1:
@@ -472,7 +472,7 @@ translate chinese v13s39a_66630714_1:
 translate chinese v13s39a_1c0fa32b_1:
 
     # u "You got lucky. *Chuckles*"
-    u "真有好运气。 *咯咯笑 *"
+    u "真有好运气。 *咯咯笑*"
 
 # game/v13/scene39a.rpy:545
 translate chinese v13s39a_89528416_1:
@@ -508,7 +508,7 @@ translate chinese v13s39a_157697d1_1:
 translate chinese v13s39a_24ff95e8_1:
 
     # u "Or I'm just good. *Laughs*"
-    u "或者我就是很棒。 *笑* "
+    u "或者我就是很棒。 *笑*"
 
 # game/v13/scene39a.rpy:575
 translate chinese v13s39a_7d96ca36_1:
@@ -532,7 +532,7 @@ translate chinese v13s39a_b9b441bb:
 translate chinese v13s39a_0529a669_1:
 
     # u "Wow..."
-    u "哇噢……"
+    u "哇哦……"
 
 translate chinese strings:
 
