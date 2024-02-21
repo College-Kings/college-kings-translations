@@ -10,7 +10,7 @@ translate chinese imrecona_05b8b552:
 translate chinese imrecona_76592c06:
 
     # u "Imre, look-"
-    u "伊姆雷，听着-"
+    u "伊姆雷，听着……"
 
 # game/v6/v6.rpy:124
 translate chinese imrecona_b36deda7:
@@ -160,7 +160,7 @@ translate chinese imreconb_6bf3e75e:
 translate chinese imreconb_3fbd7e50:
 
     # imre "You can't fucking hide from me forever!"
-    imre "你他妈的不能永远躲着我！"
+    imre "你他妈地不能永远躲着我！"
 
 # game/v6/v6.rpy:267
 translate chinese imreconb_66bfa7ca:
@@ -388,7 +388,7 @@ translate chinese phoneac_9a4cf874:
 translate chinese phoneac_f87f4afc:
 
     # u "Hey, you're gonna-"
-    u "嘿，你要-"
+    u "嘿，你要……"
 
 # game/v6/v6.rpy:478
 translate chinese phoneac_94c537b9:
@@ -1408,7 +1408,7 @@ translate chinese ft_ad_ffc2de0a:
 translate chinese ft_ad_4be465d7:
 
     # ro "Y- *sniffles* Yes?"
-    ro "你- *鼻涕* 什么事？"
+    ro "你…… *抽泣* 什么事？"
 
 # game/v6/v6.rpy:1684
 translate chinese ft_ad_7e08fcea:
@@ -1438,7 +1438,7 @@ translate chinese ft_ad_fee87927:
 translate chinese ft_ad_1ef1f2c7:
 
     # u "I'm sorry-"
-    u "我很抱歉-"
+    u "我很抱歉……"
 
 # game/v6/v6.rpy:1709
 translate chinese ft_ad_ca52e5d7:
@@ -1816,7 +1816,7 @@ translate chinese fu_b_f3d03d64:
 translate chinese fu_b_7e006013:
 
     # u "Yeah... there's one more issue, I don't really have a car-"
-    u "是啊……还有一个问题，我真的没有车-"
+    u "是啊……还有一个问题，我真的没有车……"
 
 # game/v6/v6.rpy:2066
 translate chinese fu_b_9d2ff1d7:
@@ -2902,7 +2902,7 @@ translate chinese continuebg_170cb77f:
 translate chinese continuebg_ebb05709:
 
     # u "Wow, you look-"
-    u "哇，你看起来-"
+    u "哇，你看起来……"
 
 # game/v6/v6.rpy:3151
 translate chinese continuebg_ec06c268:
@@ -5128,7 +5128,7 @@ translate chinese phoneak_8eb59800:
 translate chinese phoneak_bd6be078:
 
     # u "Cool, will do."
-    u "酷，就行了。"
+    u "酷，好的。"
 
 # game/v6/v6.rpy:5485
 translate chinese phoneak_8686e81c:
@@ -5152,7 +5152,7 @@ translate chinese phoneak_23998ed2:
 translate chinese phoneak_90ecd6d0:
 
     # host "Welcome everyone, familiar faces and new faces."
-    host "欢迎大家，新老朋友们。"
+    host "新老朋友们，欢迎大家。"
 
 # game/v6/v6.rpy:5504
 translate chinese phoneak_d4218446:
@@ -5170,7 +5170,7 @@ translate chinese phoneak_06289722:
 translate chinese phoneak_87a5797b:
 
     # host "Today, we will hear from many talented and amazing people. So without further ado, let's bring out our first poet, Lisa."
-    host "今日，我们将一起走进诗情画意之中。现在开始，让我们隆重有请第一位诗人，丽莎。"
+    host "今天，我们将一起走进诗情画意之中。现在开始，让我们隆重有请第一位诗人，丽莎。"
 
 # game/v6/v6.rpy:5519
 translate chinese phoneak_06289722_1:
@@ -8308,7 +8308,7 @@ translate chinese v6_fr3riley1_2a60fa46:
 translate chinese v6_fr3riley1_5117949a:
 
     # finn "Yeah, that's what it feels like-"
-    finn "是的，就是那种感觉-"
+    finn "是的，就是那种感觉……"
 
 # game/v6/v6.rpy:8182
 translate chinese v6_fr3riley1_9ea1e8f9:
@@ -11216,7 +11216,7 @@ translate chinese strings:
 
     # game/v6/v6.rpy:351
     old "Oh wow, you're so fucking hot"
-    new "噢，哇，你真他妈的性感"
+    new "噢，哇哦，你真他妈的性感"
 
     # game/v6/v6.rpy:371
     old "I'll make time for you :)"
@@ -11448,7 +11448,7 @@ translate chinese strings:
 
     # game/v6/v6.rpy:5404
     old "Awww I'm SV Fitness :("
-    new "哇 我在SV Fitness：("
+    new "啊 我在SV Fitness :("
 
     # game/v6/v6.rpy:5405
     old "Maybe we should do a home workout together sometime ;)"

@@ -46,7 +46,7 @@ translate chinese v8_ri_start_39ac44c8:
 translate chinese v8_ri_start_2159a2cd:
 
     # u "Wow Riley, you-"
-    u "哇，莱莉，你-"
+    u "哇哦，莱莉，你……"
 
 # game/v8/scene3.rpy:48
 translate chinese v8_ri_start_b4d74582:
@@ -262,7 +262,7 @@ translate chinese v8s3_rileyDoggy_c9e65db6:
 translate chinese v8s3_rileyDoggy_afde7175:
 
     # u "Did you-"
-    u "你有没有-"
+    u "你有没有……"
 
 # game/v8/scene3.rpy:214
 translate chinese v8s3_rileyDoggy_ee532d24:

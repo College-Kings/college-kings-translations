@@ -106,7 +106,7 @@ translate chinese v4start_05f159fd:
 translate chinese v4start_4b864680:
 
     # imre "Nah, this is my fight *winces in pain*."
-    imre "不，这是我的战斗。 *痛苦地收缩* "
+    imre "不，这是我的战斗。 *痛苦地收缩*"
 
 # game/v4/v4.rpy:113
 translate chinese v4start_ab9aa661:
@@ -124,7 +124,7 @@ translate chinese v4start_dd1f40cd:
 translate chinese v4start_e66b65b5:
 
     # imre "Alright, player. *winces in pain*"
-    imre "好吧，混蛋。 *痛苦地收缩* "
+    imre "好吧，混蛋。 *痛苦地收缩*"
 
 # game/v4/v4.rpy:128
 translate chinese v4start_8ba31839:
@@ -262,7 +262,7 @@ translate chinese dp_ad_7cf930cb:
 translate chinese dp_ad_b06a1579:
 
     # ri "Oh my god... Let me know when you're back at your dorm. I'll come over straight away if you wanna talk about it."
-    ri "天呐……你回到宿舍的时候告诉我一声。如果你想谈谈我马上过来。"
+    ri "噢，天呐……你回到宿舍的时候告诉我一声。如果你想谈谈我马上过来。"
 
 # game/v4/v4.rpy:250
 translate chinese dp_ad_dd3101e7:
@@ -514,7 +514,7 @@ translate chinese dr_bd_35192050:
 translate chinese dr_bd_eec1fa69:
 
     # u "We get along so well... I-"
-    u "我们相处得很好……我-"
+    u "我们相处得很好……我……"
 
 # game/v4/v4.rpy:479
 translate chinese dr_bd_e7190543:
@@ -574,7 +574,7 @@ translate chinese dr_bd_42e11ebb:
 translate chinese dr_bd_3fd3d76d:
 
     # u "*Breathing heavily*"
-    u " *呼吸沉重* "
+    u " *呼吸沉重*"
 
 # game/v4/v4.rpy:523
 translate chinese dr_bd_ce7dce11:
@@ -1624,7 +1624,7 @@ translate chinese ec_bd_0c716ca8:
 translate chinese ec_bd_d1b41516:
 
     # u "Dude, Chloe is no-"
-    u "伙计，克洛伊不是-"
+    u "伙计，克洛伊不是……"
 
 # game/v4/v4.rpy:1543
 translate chinese ec_bd_b8d264ac:
@@ -1828,7 +1828,7 @@ translate chinese ed_bd_8184b887:
 translate chinese ed_bd_cd574ba8:
 
     # pe "Just- just go please. I don't feel comfortable around you anymore."
-    pe "就-就走吧。我在你身边感觉不舒服。"
+    pe "就……就走吧。我在你身边感觉不舒服。"
 
 # game/v4/v4.rpy:1743
 translate chinese ed_bd_fdff1dbf:
@@ -1888,7 +1888,7 @@ translate chinese ed_bd_5850a261:
 translate chinese ed_bd_a7e115cd:
 
     # u "Uhh... I uhm-"
-    u "呃……我嗯-"
+    u "呃……我……嗯……"
 
 # game/v4/v4.rpy:1803
 translate chinese ed_bd_7d635033:
@@ -1936,13 +1936,13 @@ translate chinese eg_b_f4815bc8:
 translate chinese eg_b_44b8e0ce:
 
     # pe "I- I thought you were my friend and then you broke my trust."
-    pe "我-我以为你是我的朋友，然而你辜负了我的信任。"
+    pe "我……我以为你是我的朋友，然而你辜负了我的信任。"
 
 # game/v4/v4.rpy:1844
 translate chinese eg_b_1163e371:
 
     # u "Penelope, I never-"
-    u "佩内洛普，我从来没有-"
+    u "佩内洛普，我从来没有……"
 
 # game/v4/v4.rpy:1849
 translate chinese eg_b_4a2b5236:
@@ -2140,7 +2140,7 @@ translate chinese ef_bd_e9224c22:
 translate chinese ef_bd_5722d9bd:
 
     # pe "I don't- I don't watch porn."
-    pe "我不-我不看色情片。"
+    pe "我不……我不看色情片。"
 
 # game/v4/v4.rpy:2007
 translate chinese ef_bd_90cca9a4:
@@ -2248,7 +2248,7 @@ translate chinese ek_ad_b92b0fd7:
 translate chinese ek_ad_8f85037b:
 
     # pe "Sorry, I- I really can't. I need to study."
-    pe "对不起，我-我真的不能。我需要学习。"
+    pe "对不起，我……我真的不能。我需要学习。"
 
 # game/v4/v4.rpy:2109
 translate chinese ek_ad_ce5911bb:
@@ -2728,7 +2728,7 @@ translate chinese ep_a_7aa5ee22:
 translate chinese ep_a_4edf4b8d:
 
     # jo "*Drunk* Alright [name], lick the salt off her collarbone, drink the shot out of her belly button and bite the lime out of her mouth."
-    jo "*醉酒* 好吧，[name]，舔她锁骨上的盐，喝她肚脐上的子弹，咬她嘴里的酸橙。"
+    jo "*醉酒* 好吧，[name]，舔她锁骨上的盐，喝她肚脐上的酒，咬她嘴里的酸橙。"
 
 # game/v4/v4.rpy:2689
 translate chinese ep_a_2e9d9883:
@@ -2758,7 +2758,7 @@ translate chinese ep_a_f99b5c3c:
 translate chinese ep_a_4edf4b8d_1:
 
     # jo "*Drunk* Alright [name], lick the salt off her collarbone, drink the shot out of her belly button and bite the lime out of her mouth."
-    jo "*醉酒* 好吧，[name]，舔她锁骨上的盐，喝她肚脐上的子弹，咬她嘴里的酸橙。"
+    jo "*醉酒* 好吧，[name]，舔她锁骨上的盐，喝她肚脐上的酒，咬她嘴里的酸橙。"
 
 # game/v4/v4.rpy:2755
 translate chinese ep_a_a7999c7a:

@@ -220,5 +220,5 @@ translate chinese v8s5_nsfwSkipLabel1_b0c6fbf4:
 translate chinese v8s5_nsfwSkipLabel1_b36f0799:
 
     # am "Of course. Anytime."
-    am "当然了。随时为您效劳。"
+    am "不客气。随时为您效劳。"
 

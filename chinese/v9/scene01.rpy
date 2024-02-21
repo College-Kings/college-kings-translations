@@ -118,7 +118,7 @@ translate chinese v9_start_wolves_84837158_1:
 translate chinese v9_start_wolves_df74b9eb:
 
     # u "A little... but I-I don't know."
-    u "有时……但我-我不知道。"
+    u "有时……但我……我不知道。"
 
 # game/v9/scene01.rpy:115
 translate chinese v9_start_wolves_7b3ac1b6:
@@ -226,7 +226,7 @@ translate chinese v9_start_wolves_0fac4ac9:
 translate chinese v9_start_wolves_69c57e14:
 
     # u "I have been pushing myself. I added some extra reps-"
-    u "我一直在鞭策自己。我增加了一些额外的训练-"
+    u "我一直在鞭策自己。我增加了一些额外的训练……"
 
 # game/v9/scene01.rpy:193
 translate chinese v9_start_wolves_3a2b9354:

@@ -148,7 +148,7 @@ translate chinese v5start_52e838e0_1:
 translate chinese v5start_04b2a395:
 
     # u "*Drunk* It's- it's nothing. I gotta go, I'll see you around, Nora."
-    u "*醉酒* 这-这没什么。我得走了，回头见，诺拉。"
+    u "*醉酒* 这……这没什么。我得走了，回头见，诺拉。"
 
 # game/v5/v5.rpy:175
 translate chinese v5start_cc6f375e:
@@ -214,7 +214,7 @@ translate chinese jorepb_b2db8899:
 translate chinese jorepb_428dfda8:
 
     # u "Hey uh, actually... can we- can we talk outside first? I- I just wanna clear something up."
-    u "嘿，呃，实际上……我们能-我们能先到外面谈谈吗？我-我只是想把事情弄清楚。"
+    u "嘿，呃，实际上……我们能……我们能先到外面谈谈吗？我……我只是想把事情弄清楚。"
 
 # game/v5/v5.rpy:263
 translate chinese jorepb_009c5a98:
@@ -346,7 +346,7 @@ translate chinese jorepb_023c11e2:
 translate chinese jorepb_1e16adae:
 
     # cl "I- I..."
-    cl "我-我……"
+    cl "我……我……"
 
 # game/v5/v5.rpy:388
 translate chinese jorepb_a5093b42:
@@ -358,7 +358,7 @@ translate chinese jorepb_a5093b42:
 translate chinese jorepb_a688755b:
 
     # u "*Ryan said that you just saw his punch as a personal attack and didn't give one fuck about me being hurt. And you know what? Maybe he's right!"
-    u "*瑞恩说，你只是把他的一拳视为人身攻击，根本不在乎我受伤。你知道吗？也许他是对的！"
+    u "瑞恩说，你只是把他的一拳视为人身攻击，根本不在乎我受伤。你知道吗？也许他是对的！"
 
 # game/v5/v5.rpy:398
 translate chinese jorepb_fd7e91c0:
@@ -514,7 +514,7 @@ translate chinese jorepb_4dc2dc97:
 translate chinese jorepb_0330cd59:
 
     # u "What- What do you mean?"
-    u "什么-你什么意思？"
+    u "什么……你什么意思？"
 
 # game/v5/v5.rpy:521
 translate chinese jorepb_90159cdb:
@@ -586,7 +586,7 @@ translate chinese jorepb_88a3c768_1:
 translate chinese jorepb_f57452fe:
 
     # u "It's- it's nothing. I gotta go, I'll see you around, Nora."
-    u "这-这没什么。我得走了，回头见，诺拉。"
+    u "这……这没什么。我得走了，回头见，诺拉。"
 
 # game/v5/v5.rpy:571
 translate chinese jorepb_cc6f375e:
@@ -604,7 +604,7 @@ translate chinese jorepb_76c398ec:
 translate chinese nnbd_7e2bb437:
 
     # u "(Way to mess things up with Chloe... great fucking job, [name].)"
-    u "(把克洛伊的事情搞砸了……真他妈的干得好，[name]。)"
+    u "(把克洛伊的事情搞砸了……真他妈地干得好，[name]。)"
 
 # game/v5/v5.rpy:603
 translate chinese nnbd_7d193b2b:
@@ -688,7 +688,7 @@ translate chinese continuez_80148402:
 translate chinese continuez_98b5930c:
 
     # u "Complaints? I love kissing you. I can't wait till we say goodbye and I can kiss you again. *Laughs*"
-    u "不行么？我还迫不及待地想和你道别，然后再吻你呢。*笑*"
+    u "不行么？我还迫不及待地想和你道别，然后再吻你呢。 *笑*"
 
 # game/v5/v5.rpy:738
 translate chinese continuez_e0d74a98:
@@ -712,7 +712,7 @@ translate chinese continuez_9eb9ba4e:
 translate chinese continuez_bd485a95:
 
     # la "Oh... yeah, of course, I'm sorry, I didn't-"
-    la "噢……好吧，当然，对不起，我没有-"
+    la "噢……好吧，当然，对不起，我没有……"
 
 # game/v5/v5.rpy:758
 translate chinese continuez_07f0645f:
@@ -988,7 +988,7 @@ translate chinese gokissb_cb5ed241:
 translate chinese gokissb_6c37984e:
 
     # u "Lauren, it's not like-"
-    u "劳伦，这不像-"
+    u "劳伦，这不像……"
 
 # game/v5/v5.rpy:1025
 translate chinese gokissb_339fe58a:
@@ -1834,7 +1834,7 @@ translate chinese apo_cd84c2f9:
 translate chinese apo_69129072:
 
     # u "Lauren, I-"
-    u "劳伦，我-"
+    u "劳伦，我……"
 
 # game/v5/v5.rpy:1829
 translate chinese apo_923d8e02:
@@ -2182,7 +2182,7 @@ translate chinese gokiss_9eb9ba4e:
 translate chinese gokiss_bd485a95:
 
     # la "Oh... yeah, of course, I'm sorry, I didn't-"
-    la "噢……是的，当然，对不起，我没有-"
+    la "噢……是的，当然，对不起，我没有……"
 
 # game/v5/v5.rpy:2117
 translate chinese gokiss_07f0645f:
@@ -2518,7 +2518,7 @@ translate chinese hospitala_79be525a:
 translate chinese hospitala_fc7386d5:
 
     # u "Imre-"
-    u "伊姆雷-"
+    u "伊姆雷……"
 
 # game/v5/v5.rpy:2480
 translate chinese hospitala_b12b86cd:
@@ -3478,7 +3478,7 @@ translate chinese findimre_f34a6855:
 translate chinese findimre_27ada699:
 
     # u "Can I at least-"
-    u "我至少能-"
+    u "我至少能……"
 
 # game/v5/v5.rpy:4116
 translate chinese findimre_d366a356:
@@ -3640,7 +3640,7 @@ translate chinese findimre_f34a6855_1:
 translate chinese findimre_27ada699_1:
 
     # u "Can I at least-"
-    u "我至少能-"
+    u "我至少能……"
 
 # game/v5/v5.rpy:4236
 translate chinese findimre_ecf38ec3:
@@ -3664,7 +3664,7 @@ translate chinese continueba_9399425c:
 translate chinese continueba_af6f658d:
 
     # u "(A couple hours ago Imre was so happy to see me and now he probably hates me...)"
-    u "(几个小时前，伊姆雷还很高兴见到我，现在他可能讨厌我了。)"
+    u "(几个小时前，伊姆雷还很高兴见到我，现在他可能讨厌我了……)"
 
 # game/v5/v5.rpy:4256
 translate chinese continueba_4ee172ff:
@@ -3966,7 +3966,7 @@ translate chinese strings:
 
     # game/v5/v5.rpy:4291
     old "Wanna go swimming?"
-    new "想去游泳吗？?"
+    new "想去游泳吗？"
 
     # game/v5/v5.rpy:4292
     old "Any chance we could do it later? Or tomorrow?"

@@ -4,7 +4,7 @@
 translate chinese sun_aft_apes_house_bba62240:
 
     # sa "Cameron, what are you-"
-    sa "卡梅隆，你在干什么-"
+    sa "卡梅隆，你在干什么……"
 
 # game/v8/Scene18.rpy:23
 translate chinese sun_aft_apes_house_a6674391:
@@ -124,7 +124,7 @@ translate chinese sun_aft_apes_house_e92bac5b:
 translate chinese sun_aft_apes_house_a048da7b:
 
     # u "Just being a-"
-    u "只是作为一个-"
+    u "只是作为一个……"
 
 # game/v8/Scene18.rpy:135
 translate chinese sun_aft_apes_house_8473ca20:
