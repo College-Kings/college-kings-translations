@@ -82,7 +82,7 @@ translate chinese v12_late_night_workout_505a3f68:
 translate chinese v12_late_night_workout_2ceaf98f:
 
     # li "Oh my gosh, thanks. I just knew you were gonna say no."
-    li "噢，天哪，谢谢。我以为你会说不。"
+    li "噢，天呐，谢谢。我以为你会说不。"
 
 # game/v12/scene29a.rpy:90
 translate chinese v12_late_night_workout_8e0dec03:
@@ -112,13 +112,13 @@ translate chinese v12_late_night_workout_d7f8a3e5:
 translate chinese v12_late_night_workout_464ea082:
 
     # li "Oh wow, this is so nice. This is nothing like what I expected."
-    li "噢，哇，这真是太好了。这和我预想的一点也不一样。"
+    li "噢，哇哦，这真是太好了。这和我预想的一点也不一样。"
 
 # game/v12/scene29a.rpy:128
 translate chinese v12_late_night_workout_b486b60a:
 
     # u "*Chuckles* You look like a kid at a chocolate factory. This is no different than any other gym really."
-    u " *咯咯笑* 你看起来像个在巧克力工厂的孩子。这和其他健身房没有什么不同。"
+    u "*咯咯笑* 你看起来像个在巧克力工厂的孩子。这和其他健身房没有什么不同。"
 
 # game/v12/scene29a.rpy:133
 translate chinese v12_late_night_workout_589e384b:
@@ -148,7 +148,7 @@ translate chinese v12_late_night_workout_89ca8af5:
 translate chinese v12_late_night_workout_124b3395:
 
     # li "Yeah, but I usually just do at-home stuff. I don't have any of my stuff with me here and I thought it'd be fun to actually go to a gym for once."
-    li "是啊，但我一般都在家做。我什么东西都没带来这里，我觉得去一次健身房会很有趣。"
+    li "嗯，但我一般都在家做。我什么东西都没带来这里，我觉得去一次健身房会很有趣。"
 
 # game/v12/scene29a.rpy:158
 translate chinese v12_late_night_workout_68f34be2:
@@ -262,13 +262,13 @@ translate chinese v12_late_night_workout_daa8cacc:
 translate chinese v12_late_night_workout_4bff80da:
 
     # u "Well I'm not gonna break my back to touch my toes. *Chuckles*"
-    u "我可不想为了碰脚趾而伤了我的背。 *咯咯笑* "
+    u "我可不想为了碰脚趾而伤了我的背。 *咯咯笑*"
 
 # game/v12/scene29a.rpy:278
 translate chinese v12_late_night_workout_ab4dbcd1:
 
     # li "*Sighs* Boys are so silly when it comes to stretching. C'mere."
-    li " *叹息* 男生在拉伸的时候都很傻。到这来。"
+    li "*叹息* 男生在拉伸的时候都很傻。到这来。"
 
 # game/v12/scene29a.rpy:288
 translate chinese v12_late_night_workout_98ce10f2:
@@ -292,7 +292,7 @@ translate chinese v12_late_night_workout_49254a42:
 translate chinese v12_late_night_workout_33eb037d:
 
     # u "You making this sound frightening. *Chuckles*"
-    u "你把这话说得很吓人。 *咯咯笑* "
+    u "你把这话说得很吓人。 *咯咯笑*"
 
 # game/v12/scene29a.rpy:313
 translate chinese v12_late_night_workout_30d67e06:
@@ -310,7 +310,7 @@ translate chinese v12s29a_faillabel1_0ed6b7a0:
 translate chinese v12s29a_faillabel1_1e1437c3:
 
     # u "*Deep breath*"
-    u " *深呼吸* "
+    u "*深呼吸*"
 
 # game/v12/scene29a.rpy:344
 translate chinese v12s29a_faillabel1_8e6c79bc:
@@ -340,7 +340,7 @@ translate chinese v12s29a_faillabel2_b172f8c6:
 translate chinese v12s29a_faillabel2_944318f8:
 
     # u "Finally. *Chuckles*"
-    u "终于完了。 *咯咯笑* "
+    u "终于完了。 *咯咯笑*"
 
 # game/v12/scene29a.rpy:384
 translate chinese v12s29a_faillabel3_0ed6b7a0:
@@ -370,7 +370,7 @@ translate chinese v12s29a_faillabel3_2e0ce57e:
 translate chinese v12s29a_faillabel3_ea40069b:
 
     # li "Okay Bulk Bogan! *Chuckles*"
-    li "好的，大块头！ *咯咯笑* "
+    li "好的，大块头！ *咯咯笑*"
 
 # game/v12/scene29a.rpy:464
 translate chinese v12s29a_faillabel3_02bd85a7:
@@ -412,7 +412,7 @@ translate chinese v12s29a_faillabel3_bd882c47:
 translate chinese v12s29a_faillabel3_a59acbe3:
 
     # u "(Never had a spot like this. *Chuckles*)"
-    u "(从未有过这样复位的。 *咯咯笑* )"
+    u "(从未有过这样复位的。 *咯咯笑*)"
 
 # game/v12/scene29a.rpy:524
 translate chinese v12s29a_faillabel3_1c7e7f5d:
@@ -430,7 +430,7 @@ translate chinese v12s29a_faillabel3_4503d9b6:
 translate chinese v12s29a_faillabel3_a57829eb:
 
     # u "You've never seen someone spot before have you? *Chuckles*"
-    u "你以前从来没见过有人复位，是吗？ *咯咯笑* "
+    u "你以前从来没见过有人复位，是吗？ *咯咯笑*"
 
 # game/v12/scene29a.rpy:544
 translate chinese v12s29a_faillabel3_d324f89b:
@@ -448,7 +448,7 @@ translate chinese v12s29a_faillabel3_229bc6de:
 translate chinese v12s29a_faillabel3_025bf398:
 
     # li "Oh, I wasn't supposed to climb on top of you like that was I?"
-    li "我不该那样爬到你身上的，对吧？"
+    li "噢，我不该那样爬到你身上的，对吧？"
 
 # game/v12/scene29a.rpy:564
 translate chinese v12s29a_faillabel3_5e6d5844:
@@ -472,7 +472,7 @@ translate chinese v12s29a_faillabel3_be94f8e5:
 translate chinese v12s29a_faillabel3_4a530135:
 
     # li "*Chuckles*"
-    li " *咯咯笑* "
+    li "*咯咯笑*"
 
 # game/v12/scene29a.rpy:589
 translate chinese v12s29a_faillabel3_28329560:
@@ -484,7 +484,7 @@ translate chinese v12s29a_faillabel3_28329560:
 translate chinese v12s29a_faillabel3_0610ad1b:
 
     # li "*Chuckles* I'm sure it was."
-    li " *咯咯笑* 我敢肯定是这样。"
+    li "*咯咯笑* 我敢肯定是这样。"
 
 # game/v12/scene29a.rpy:605
 translate chinese v12s29a_faillabel3_7f3e8ae3:
@@ -574,7 +574,7 @@ translate chinese v12s29a_faillabel3_eea9f122:
 translate chinese v12s29a_faillabel3_355be2bc:
 
     # u "*Laughs* I promise it is."
-    u " *笑* 我保证是的。"
+    u "*笑* 我保证是的。"
 
 # game/v12/scene29a.rpy:755
 translate chinese v12s29a_faillabel3_7dc85afb:
@@ -598,7 +598,7 @@ translate chinese v12s29a_faillabel3_2a82869b:
 translate chinese v12s29a_faillabel3_ecdbc203:
 
     # u "You mean the punching bag? *Chuckles*"
-    u "你是说出气筒？ *咯咯笑* "
+    u "你是说出气筒？ *咯咯笑*"
 
 # game/v12/scene29a.rpy:775
 translate chinese v12s29a_faillabel3_5a29691a:
@@ -610,7 +610,7 @@ translate chinese v12s29a_faillabel3_5a29691a:
 translate chinese v12s29a_faillabel3_0304d189:
 
     # u "The question should be, why isn't it just called a bag since people punch and kick it. *Chuckles*"
-    u "问题应该是，既然人们对它拳打脚踢，为什么不直接叫它袋子呢？ *咯咯笑* "
+    u "问题应该是，既然人们对它拳打脚踢，为什么不直接叫它袋子呢？ *咯咯笑*"
 
 # game/v12/scene29a.rpy:785
 translate chinese v12s29a_faillabel3_715e7430:
@@ -670,7 +670,7 @@ translate chinese v12s29a_faillabel3_99b6ddf6:
 translate chinese v12s29a_faillabel3_5c7b63cd:
 
     # li "Just a little. *Chuckles*"
-    li "有一点。 *咯咯笑* "
+    li "有一点。 *咯咯笑*"
 
 # game/v12/scene29a.rpy:870
 translate chinese v12s29a_faillabel3_0192e1df:
@@ -742,7 +742,7 @@ translate chinese v12s29a_faillabel3_4085c33f:
 translate chinese v12s29a_faillabel3_f4d518b6:
 
     # u "*Chuckles* Thought I'd bring it back."
-    u " *咯咯笑* 以为我会把它带回来。"
+    u "*咯咯笑* 以为我会把它带回来。"
 
 # game/v12/scene29a.rpy:943
 translate chinese v12s29a_faillabel3_ae8227a6:

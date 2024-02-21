@@ -16,7 +16,7 @@ translate chinese v12s32_8efb972a:
 translate chinese v12s32_750713bd:
 
     # u "*Laughs* Tell me why I thought it was just at a random photography studio..."
-    u " *笑* 告诉我为什么我认为它只是在一个随意的摄影工作室……"
+    u "*笑* 告诉我为什么我认为它只是在一个随意的摄影工作室……"
 
 # game/v12/scene32.rpy:44
 translate chinese v12s32_ad6079f7:
@@ -46,19 +46,19 @@ translate chinese v12s32_58e7ce6d:
 translate chinese v12s32_85636f28:
 
     # u "What does that mean? Should I be preparing for something?"
-    u "什么意思？我应该准备些什么吗？"
+    u "怎么说？我应该准备些什么吗？"
 
 # game/v12/scene32.rpy:66
 translate chinese v12s32_d2ef197a:
 
     # au "You have nothing to worry about, I'm the one that has to get ready. *Chuckles*"
-    au "你不需要担心什么，我才是那个要准备的人。 *咯咯笑* "
+    au "你不需要担心什么，我才是那个要准备的人。 *咯咯笑*"
 
 # game/v12/scene32.rpy:71
 translate chinese v12s32_c69baa7b:
 
     # u "You're starting to actually scare me... *Chuckles*"
-    u "你真的吓到我了…… *咯咯笑* "
+    u "你真的吓到我了…… *咯咯笑*"
 
 # game/v12/scene32.rpy:84
 translate chinese v12s32_5c6db047:
@@ -76,7 +76,7 @@ translate chinese v12s32_095f9e0e:
 translate chinese v12s32_e7c369ea:
 
     # na "Sister sister, with a mister mister! Oooooh..."
-    na "妹妹呀妹妹，和先生在一起了！噢……"
+    na "妹妹呀妹妹，和弟弟在一起了！噢……"
 
 # game/v12/scene32.rpy:104
 translate chinese v12s32_1da28961:
@@ -94,7 +94,7 @@ translate chinese v12s32_60ad9274:
 translate chinese v12s32_6f4194ea:
 
     # na "*Chuckles* Good to know!"
-    na " *咯咯笑* 很高兴知道！"
+    na "*咯咯笑* 很高兴知道！"
 
 # game/v12/scene32.rpy:116
 translate chinese v12s32_274cf9be:
@@ -256,7 +256,7 @@ translate chinese v12s32_7faa747e:
 translate chinese v12s32_b6ad43c4:
 
     # u "*Whisper* Why don't you-"
-    u " *低语* 为什么你不-"
+    u " *低语* 为什么你不……"
 
 # game/v12/scene32.rpy:253
 translate chinese v12s32_93033221:
@@ -274,7 +274,7 @@ translate chinese v12s32_40fde312:
 translate chinese v12s32_dedb0670:
 
     # pg "I want you posing together, get sexy!"
-    pg "我要你们一起摆姿势，性感一点！"
+    pg "我要你们一起摆姿势，性感一点儿！"
 
 # game/v12/scene32.rpy:271
 translate chinese v12s32_2c9fedd9:
@@ -352,7 +352,7 @@ translate chinese v12s32_a39cd53d:
 translate chinese v12s32_c3d1c65b:
 
     # na "Following in your sister's footsteps... This is how it starts Aubby!"
-    na "追随你姐姐的脚步……奥比里就是这样开始的！"
+    na "追随你姐姐的脚步……奥比就是这样开始的！"
 
 # game/v12/scene32.rpy:376
 translate chinese v12s32_a27c36d0:
@@ -364,7 +364,7 @@ translate chinese v12s32_a27c36d0:
 translate chinese v12s32_0d347132:
 
     # au "It's just something she does, please don't read into it..."
-    au "这只是她做的一些事情，请不要过度解读……"
+    au "这只是她随口一说，请不要过度解读……"
 
 # game/v12/scene32.rpy:386
 translate chinese v12s32_0dc9f58c:
@@ -430,7 +430,7 @@ translate chinese v12s32_a8a78ccd:
 translate chinese v12s32_a52c502f:
 
     # au "*Whisper to self* I'll never be that fucking good..."
-    au " *自言自语* 我他妈的永远都做不到那么优秀……"
+    au "*低语* 我他妈的永远都做不到那么优秀……"
 
 # game/v12/scene32.rpy:471
 translate chinese v12s32_8b258704:
@@ -490,7 +490,7 @@ translate chinese v12s32_83d1fb32:
 translate chinese v12s32_f5718e36:
 
     # au "*Whisper to self* Let's get this over with."
-    au " *自言自语* 让我们把这件事做完。"
+    au " *低语* 让我们把这件事做完。"
 
 # game/v12/scene32.rpy:528
 translate chinese v12s32_988faab4:
@@ -538,7 +538,7 @@ translate chinese v12s32_70e682cb:
 translate chinese v12s32_7fa4455d:
 
     # na "Maybe I showed her a little too much of my talent... *Chuckles*"
-    na "也许我向她展示了太多我的才华…… *咯咯笑* "
+    na "也许我向她展示了太多我的才华…… *咯咯笑*"
 
 # game/v12/scene32.rpy:581
 translate chinese v12s32_baa3f95d:
@@ -550,7 +550,7 @@ translate chinese v12s32_baa3f95d:
 translate chinese v12s32_d872fb82:
 
     # au "*Chuckles* Can I see the pictures?"
-    au " *咯咯笑* 我能看看照片吗？"
+    au "*咯咯笑* 我能看看照片吗？"
 
 # game/v12/scene32.rpy:591
 translate chinese v12s32_9331e32b:
@@ -574,7 +574,7 @@ translate chinese v12s32_5a89ac9a:
 translate chinese v12s32_3f915095:
 
     # u "Of course. I'll always be there for you."
-    u "当然了。我会永远在你身边。"
+    u "不客气。我会永远在你身边。"
 
 # game/v12/scene32.rpy:620
 translate chinese v12s32_02b5819c:
@@ -610,7 +610,7 @@ translate chinese v12s32_8589fb6b:
 translate chinese v12s32_a1f8c8d0:
 
     # au "I... I really want to, but-"
-    au "我……我真的很想，但是-"
+    au "我……我真的很想，但是……"
 
 # game/v12/scene32.rpy:643
 translate chinese v12s32_4563d883:
@@ -640,13 +640,13 @@ translate chinese v12s32_3ee6e7ea:
 translate chinese v12s32_55924e5d:
 
     # u "I do. It's the happiest you've looked in a long time."
-    u "我知道。这是你很久以来看起来最开心的一次了。"
+    u "是的。这是你很久以来看起来最开心的一次了。"
 
 # game/v12/scene32.rpy:668
 translate chinese v12s32_5149396e:
 
     # au "*Chuckles* Okay."
-    au " *咯咯笑* 好吧。"
+    au "*咯咯笑* 好吧。"
 
 # game/v12/scene32.rpy:673
 translate chinese v12s32_0c66bf28:
@@ -688,7 +688,7 @@ translate chinese v12s32_cd8820bb:
 translate chinese v12s32_1d873176:
 
     # pg "You walk in and not only does she like you but, it's clear you've also got a shot with her sister. Honestly, her sister is badder than she is. *Chuckles*"
-    pg "你成功了，不仅因为她喜欢你，而且很明显，你也给了她姐姐一个回击。老实说，她姐姐比她更糟糕。 *咯咯笑* "
+    pg "你成功了，不仅因为她喜欢你，而且很明显，你也给了她姐姐一个回击。老实说，她姐姐比她更糟糕。 *咯咯笑*"
 
 # game/v12/scene32.rpy:710
 translate chinese v12s32_581054aa:
@@ -700,7 +700,7 @@ translate chinese v12s32_581054aa:
 translate chinese v12s32_03418382:
 
     # pg "*Laughs* Don't ever believe that BS... Everyone is the relationship type. You just have to tame the beast."
-    pg " *笑* 千万别相信那些屁话……每个人都是恋爱类型。你只需要驯服这头野兽。"
+    pg "*笑* 千万别相信那些屁话……每个人都是恋爱类型。你只需要驯服这头野兽。"
 
 # game/v12/scene32.rpy:720
 translate chinese v12s32_49fa90f2:
@@ -730,7 +730,7 @@ translate chinese v12s32_a2c87577:
 translate chinese v12s32_5211a463:
 
     # au "They got me all set up! I think my sister is a little salty because she's just packed up and left... She said she had somewhere to be and that we'll talk later. *Sighs*"
-    au "他们帮我注册好了！我觉得我姐姐有点生气，因为她刚刚收拾好行李离开了……她说她要去别的地方我们晚点再谈。 *叹息* "
+    au "他们帮我注册好了！我觉得我姐姐有点生气，因为她刚刚收拾好行李离开了……她说她要去别的地方我们晚点再谈。 *叹息*"
 
 # game/v12/scene32.rpy:746
 translate chinese v12s32_d046a4c1:
@@ -772,7 +772,7 @@ translate chinese v12s32_f98eb7f3:
 translate chinese v12s32_5a477939:
 
     # au "I get she's older and everything, but this was my dream first... She wanted to be a vet. *Chuckles*"
-    au "我知道她有经验又全能，但这是我的第一个梦想……她想成为一名职业模特。 *咯咯笑* "
+    au "我知道她有经验又全能，但这是我的第一个梦想……她想成为一名职业模特。 *咯咯笑*"
 
 # game/v12/scene32.rpy:771
 translate chinese v12s32_6c9ecdfb:
@@ -820,13 +820,13 @@ translate chinese v12s32_4e4004cf:
 translate chinese v12s32_6ee5b2ad:
 
     # u "There's only one girl like you in this world and before all the Kiwii simps start lining up, I wanna be here at the beginning. *Chuckles*"
-    u "这个世界上只有一个像你这样的女孩，在所有的猕猴桃傻瓜们开始排队之前，我想直接在这里开始。*咯咯笑* "
+    u "这个世界上只有一个像你这样的女孩，在所有的猕猴桃傻瓜们开始排队之前，我想直接在这里开始。*咯咯笑*"
 
 # game/v12/scene32.rpy:867
 translate chinese v12s32_20e5d2a9:
 
     # au "For once [name], I'll try not to be an asshole. *Chuckles*"
-    au "就这一次[name]，我会尽量不做个混蛋。 *咯咯笑* "
+    au "就这一次[name]，我会尽量不做个混蛋。 *咯咯笑*"
 
 # game/v12/scene32.rpy:872
 translate chinese v12s32_de19ee5d:

@@ -22,7 +22,7 @@ translate chinese v12_lauren_sex_e6922037:
 translate chinese v12_lauren_sex_bbc15eb1:
 
     # la "I've been talking with my sister a lot, actually. Also hanging out with Amber."
-    la "实际上，我和我姐姐聊了很久。还和琥珀在一起。"
+    la "实际上，我和我姐姐聊了很久。还和琥珀在一起玩儿。"
 
 # game/v12/scene29.rpy:44
 translate chinese v12_lauren_sex_6887e69c:
@@ -34,7 +34,7 @@ translate chinese v12_lauren_sex_6887e69c:
 translate chinese v12_lauren_sex_92dc5f01:
 
     # la "I wasn't there because outside of hanging with Amber... I've been getting something prepared for us. *Chuckles*"
-    la "我不在那里是因为除了和安珀在一起。我一直在为我们准备一些东西。 *咯咯笑* "
+    la "我不在那里是因为除了和琥珀在一起之外。我还一直在为我们准备一些东西。 *咯咯笑*"
 
 # game/v12/scene29.rpy:54
 translate chinese v12_lauren_sex_87478ca8:
@@ -70,7 +70,7 @@ translate chinese v12_lauren_sex_bbf78abf:
 translate chinese v12_lauren_sex_340e6d89:
 
     # la "*Chuckles* Yes, [name], Like a suit."
-    la " *咯咯笑* 是的，[name]，比如说西装。"
+    la "*咯咯笑* 是的，[name]，比如说西装。"
 
 # game/v12/scene29.rpy:84
 translate chinese v12_lauren_sex_8ad5b74c:
@@ -82,7 +82,7 @@ translate chinese v12_lauren_sex_8ad5b74c:
 translate chinese v12_lauren_sex_a0ef52e7:
 
     # la "Yes! I'm gonna get changed also. I'll try not to take too long. *Chuckles*"
-    la "是的！我也要换衣服了。我会尽量不花太长时间的。 *咯咯笑* "
+    la "是的！我也要换衣服了。我会尽量不花太长时间的。 *咯咯笑*"
 
 # game/v12/scene29.rpy:94
 translate chinese v12_lauren_sex_f2b6160f:
@@ -112,7 +112,7 @@ translate chinese v12_lauren_sex_3ce59ee6:
 translate chinese v12_lauren_sex_651c3648:
 
     # la "W-what? Is something wrong wi-"
-    la "怎-怎么了？是不是有什么不对劲-"
+    la "怎……怎么了？是不是有什么不对劲……"
 
 # game/v12/scene29.rpy:180
 translate chinese v12_lauren_sex_500a3bbf:
@@ -136,7 +136,7 @@ translate chinese v12_lauren_sex_cf86edca:
 translate chinese v12_lauren_sex_cd1f190d:
 
     # la "*Chuckles* Okay... Are you ready to go?"
-    la " *咯咯笑* 好的……你准备好出发了吗？"
+    la "*咯咯笑* 好了……你准备好出发了吗？"
 
 # game/v12/scene29.rpy:200
 translate chinese v12_lauren_sex_f10f2a27:
@@ -184,7 +184,7 @@ translate chinese v12_lauren_sex_89b722df:
 translate chinese v12_lauren_sex_c02c4436:
 
     # la "For our first stop, I wanted to make sure you had a full stomach. *Chuckles*"
-    la "我们的第一站，我想确定你吃饱了。 *咯咯笑* "
+    la "我们的第一站，我想确定你吃饱了。 *咯咯笑*"
 
 # game/v12/scene29.rpy:257
 translate chinese v12_lauren_sex_997736a3:
@@ -202,19 +202,19 @@ translate chinese v12_lauren_sex_6a25a065:
 translate chinese v12_lauren_sex_fcc18885:
 
     # u "*Laughs*"
-    u " *笑* "
+    u "*笑*"
 
 # game/v12/scene29.rpy:285
 translate chinese v12_lauren_sex_df1b2807:
 
     # greeter "Bonjour!"
-    greeter "你们好！"
+    greeter "你们好！（法语）"
 
 # game/v12/scene29.rpy:290
 translate chinese v12_lauren_sex_0ff8798d:
 
     # la "Hello! We have a reservation for Lauren."
-    la "你好！我们预订了劳伦的房间。"
+    la "你好！我们预订了劳伦的包间。"
 
 # game/v12/scene29.rpy:295
 translate chinese v12_lauren_sex_b789bdff:
@@ -226,7 +226,7 @@ translate chinese v12_lauren_sex_b789bdff:
 translate chinese v12_lauren_sex_e3093b8a:
 
     # greeter "Ah! English, okay... Let me see... Hmm..."
-    greeter "啊！英语，好的……让我想想……嗯……"
+    greeter "啊！英语，好的……让我看看……嗯……"
 
 # game/v12/scene29.rpy:305
 translate chinese v12_lauren_sex_7849e693:
@@ -238,7 +238,7 @@ translate chinese v12_lauren_sex_7849e693:
 translate chinese v12_lauren_sex_93ddf3ac:
 
     # greeter "Ah, I see. I do apologize Ma'am, but we have a bit of a situation."
-    greeter "啊，我明白了。我真的很抱歉，女士，但我们有点情况。"
+    greeter "啊，我看到了。我真的很抱歉，女士，但我们有点情况。"
 
 # game/v12/scene29.rpy:315
 translate chinese v12_lauren_sex_dfc51a4a:
@@ -280,25 +280,25 @@ translate chinese v12_lauren_sex_008e0b7d:
 translate chinese v12_lauren_sex_ce45a571:
 
     # greeter "My apologies, Madame. If we had an empty table I'd be happy to accommodate you, but unfortunately we are fully booked for tonight."
-    greeter "我很抱歉，夫人。哪怕我们有一张空桌子，我也很乐意为您提供服务，但不幸的是我们没有。"
+    greeter "我很抱歉，女士。哪怕我们有一张空桌子，我也很乐意为您提供服务，但不幸的是我们没有了。"
 
 # game/v12/scene29.rpy:356
 translate chinese v12_lauren_sex_45d4c8a1:
 
     # u "It's not a problem madam. Thank you."
-    u "这不是问题，夫人。谢谢。"
+    u "这不是问题，女士。谢谢。"
 
 # game/v12/scene29.rpy:362
 translate chinese v12_lauren_sex_c08bcb62:
 
     # u "Lauren, relax. *Chuckles* I appreciate that you planned on doing this, and no matter how it happened, it's not a big deal. Don't stress."
-    u "劳伦，放松点。 *咯咯笑* 我很感谢你计划这样做，无论发生什么，这都不是什么大不了的事。别紧张。"
+    u "劳伦，放松点儿。 *咯咯笑* 我很感谢你计划这样做，无论发生什么，这都不是什么大不了的事。别紧张。"
 
 # game/v12/scene29.rpy:370
 translate chinese v12_lauren_sex_ac661599:
 
     # u "Thank you for everything, Madam."
-    u "谢谢您所做的一切，夫人。"
+    u "谢谢你所做的一切，女士。"
 
 # game/v12/scene29.rpy:375
 translate chinese v12_lauren_sex_cb7cb860:
@@ -316,7 +316,7 @@ translate chinese v12_lauren_sex_5e350608:
 translate chinese v12_lauren_sex_cacfb477:
 
     # la "I did it through the website while we were in London."
-    la "我们在伦敦的时候，我通过网站做的。"
+    la "我们在伦敦的时候，我通过网站弄的。"
 
 # game/v12/scene29.rpy:390
 translate chinese v12_lauren_sex_98e9467d:
@@ -328,13 +328,13 @@ translate chinese v12_lauren_sex_98e9467d:
 translate chinese v12_lauren_sex_d79b160d:
 
     # la "*Chuckles* Wow, of course. That's probably exactly what happened."
-    la " *咯咯笑* 哇，当然。这很可能就是发生的事情。"
+    la "*咯咯笑* 哇哦，当然。这很可能就是发生的事情。"
 
 # game/v12/scene29.rpy:400
 translate chinese v12_lauren_sex_9197eac4:
 
     # u "Haha, no worries. We'll have fun tonight regardless, have a good evening Madam."
-    u "哈哈，别担心。不管怎样，我们今晚会玩得很开心的，祝您晚上愉快，夫人。"
+    u "哈哈，别担心。不管怎样，我们今晚会玩得很开心的，祝您晚上愉快，女士。"
 
 # game/v12/scene29.rpy:405
 translate chinese v12_lauren_sex_3c39fd63:
@@ -352,7 +352,7 @@ translate chinese v12_lauren_sex_0ac16f67:
 translate chinese v12_lauren_sex_15be7b8c:
 
     # u "*Chuckles* C'mon... There's a whole night ahead of us, what's next?"
-    u " *咯咯笑* 别担心……我们前面还有一整晚，接下来要做什么？"
+    u "*咯咯笑* 别担心……我们前面还有一整晚，接下来要做什么？"
 
 # game/v12/scene29.rpy:425
 translate chinese v12_lauren_sex_129bf918:
@@ -376,19 +376,19 @@ translate chinese v12_lauren_sex_565d0c76:
 translate chinese v12_lauren_sex_dee9e061:
 
     # la "It feels like the universe is working against me today... I just wanted tonight to be special."
-    la "感觉今天整个宇宙都在和我作对。我只想让今晚变得特别。"
+    la "感觉今天整个宇宙都在和我作对……我只想让今晚变得特别。"
 
 # game/v12/scene29.rpy:468
 translate chinese v12_lauren_sex_ece6c3fa:
 
     # la "I'm sure you're thinking this is the worst \"special day\" ever."
-    la "我敢肯定你在想这是最糟糕的\"特殊的日子\"没有之一。"
+    la "我敢肯定你在想这是最糟糕的\"特殊的日子\"，没有之一。"
 
 # game/v12/scene29.rpy:477
 translate chinese v12_lauren_sex_30a663e1:
 
     # u "I'm not. What actually matters to me is the amount of effort you've put into the night, not the way it's going. What's the saying? \"It's the thought that counts\"? *Chuckles*"
-    u "我没有。对我来说，真正重要的是你在这个晚上付出了多少努力，而不是事情的发展。那句话怎么说来着？\"心意才是最重要的\"？ *咯咯笑* "
+    u "我没有。对我来说，真正重要的是你在这个晚上付出了多少努力，而不是事情的发展。那句话怎么说来着？\"心意才是最重要的\" *咯咯笑*"
 
 # game/v12/scene29.rpy:482
 translate chinese v12_lauren_sex_f0dc3f3d:
@@ -412,7 +412,7 @@ translate chinese v12_lauren_sex_6db67d1a:
 translate chinese v12_lauren_sex_1f46c651:
 
     # u "I'm not. What matters to me the most is the amount of effort you've put into the night, not the way it's going. What's the saying? \"It's the thought that counts\"?"
-    u "我没有。对我来说，真正重要的是你在这个晚上付出了多少努力，而不是事情的发展。那句话怎么说来着？\"心意才是最重要的\"？"
+    u "我没有。对我来说，真正重要的是你在这个晚上付出了多少努力，而不是事情的发展。那句话怎么说来着？\"心意才是最重要的\""
 
 # game/v12/scene29.rpy:506
 translate chinese v12_lauren_sex_42f76455:
@@ -424,13 +424,13 @@ translate chinese v12_lauren_sex_42f76455:
 translate chinese v12_lauren_sex_bb5aa257:
 
     # u "How could I be? Seeing the way you smile in that dress is a treat in itself. *Chuckles*"
-    u "我怎么会呢？看到你穿着这件衣服微笑的样子本身就是一种享受。 *咯咯笑* "
+    u "我怎么会呢？看到你穿着这件衣服微笑的样子本身就是一种享受。 *咯咯笑*"
 
 # game/v12/scene29.rpy:516
 translate chinese v12_lauren_sex_c28fdd86:
 
     # la "*Sighs* Thank you."
-    la " *叹息* 谢谢。"
+    la "*叹息* 谢谢。"
 
 # game/v12/scene29.rpy:521
 translate chinese v12_lauren_sex_6963ba79:
@@ -448,13 +448,13 @@ translate chinese v12_lauren_sex_500a7a25:
 translate chinese v12_lauren_sex_e08e0377:
 
     # u "That sounds perfect. There's no way that could get messed up. *Laughs*"
-    u "听起来很不错。不可能搞砸的。 *笑* "
+    u "听起来很不错。不可能搞砸的。 *笑*"
 
 # game/v12/scene29.rpy:536
 translate chinese v12_lauren_sex_7aa75fc2:
 
     # la "We'll see won't we? *Chuckles*"
-    la "我们走着瞧？ *咯咯笑* "
+    la "我们走着瞧？ *咯咯笑*"
 
 # game/v12/scene29.rpy:541
 translate chinese v12_lauren_sex_516885a4:
@@ -508,7 +508,7 @@ translate chinese v12_lauren_sex_fad687cc:
 translate chinese v12_lauren_sex_8fadc442:
 
     # u "Of course. I'd like that."
-    u "当然了。我很期待。"
+    u "不客气。我很期待。"
 
 # game/v12/scene29.rpy:623
 translate chinese v12_lauren_sex_779e2681:
@@ -556,7 +556,7 @@ translate chinese v12_lauren_sex_ba08aa0f:
 translate chinese v12_lauren_sex_7f3f56ee:
 
     # la "*Chuckles* Saw that one coming as soon as the words left my mouth..."
-    la " *咯咯笑* 你刚张开嘴，我就知道了……"
+    la "*咯咯笑* 你刚张开嘴，我就知道了……"
 
 # game/v12/scene29.rpy:697
 translate chinese v12_lauren_sex_4d0c77e0:
@@ -568,7 +568,7 @@ translate chinese v12_lauren_sex_4d0c77e0:
 translate chinese v12_lauren_sex_1f317d4b:
 
     # u "*Chuckles* Of course."
-    u " *咯咯笑* 当然。"
+    u "*咯咯笑* 当然。"
 
 # game/v12/scene29.rpy:707
 translate chinese v12_lauren_sex_9967c93a:
@@ -634,7 +634,7 @@ translate chinese v12_lauren_sex_sg_5d89cc9b:
 translate chinese v12_lauren_sex_sg_b3357dfa:
 
     # u "Your roommate isn't there? *Chuckles*"
-    u "你室友不在么？ *咯咯笑* "
+    u "你室友不在么？ *咯咯笑*"
 
 # game/v12/scene29.rpy:773
 translate chinese v12_lauren_sex_sg_17873763:
@@ -652,7 +652,7 @@ translate chinese v12_lauren_sex_sg_395840d8:
 translate chinese v12_lauren_sex_sg_6ae3cdde:
 
     # la "Well... it looks like everything ended up perfectly. *Chuckles*"
-    la "嗯……看起来一切都很完美。*咯咯笑* "
+    la "嗯……看起来一切都很完美。*咯咯笑*"
 
 # game/v12/scene29.rpy:813
 translate chinese v12_lauren_sex_sg_bf2a6f92:
@@ -664,7 +664,7 @@ translate chinese v12_lauren_sex_sg_bf2a6f92:
 translate chinese v12_lauren_sex_sg_a3634a5f:
 
     # la "*Chuckles* I'm sure he is."
-    la " *咯咯笑* 我确定。"
+    la "*咯咯笑* 我确定。"
 
 # game/v12/scene29.rpy:836
 translate chinese v12_lauren_sex_sg_18bf60bf:
@@ -694,13 +694,13 @@ translate chinese v12s29_lauren_fingering_34f5436f:
 translate chinese v12s29_lauren_fingering_f3bd4290:
 
     # la "*Moans* Let me please you."
-    la " *呻吟* 让我来取悦你。"
+    la "*呻吟* 让我来取悦你。"
 
 # game/v12/scene29.rpy:919
 translate chinese v12s29_lauren_blowjob_091e026c:
 
     # u "L-Lauren... Fuck!"
-    u "劳-劳伦……操！"
+    u "劳……劳伦……操！"
 
 # game/v12/scene29.rpy:925
 translate chinese v12s29_lauren_blowjob_816eaf11:
@@ -712,13 +712,13 @@ translate chinese v12s29_lauren_blowjob_816eaf11:
 translate chinese v12s29_lauren_blowjob_2f2a2356:
 
     # u "This is the best fucking bl- Oh, god!"
-    u "这他妈的是最好的口-噢，天呐！"
+    u "这他妈的是最好的口……噢，天呐！"
 
 # game/v12/scene29.rpy:937
 translate chinese v12s29_lauren_blowjob_d4fbf119:
 
     # u "Lauren, w-wait!"
-    u "劳伦，等-等等！"
+    u "劳伦，等……等等！"
 
 # game/v12/scene29.rpy:942
 translate chinese v12s29_lauren_blowjob_e8a4ae64:
@@ -748,13 +748,13 @@ translate chinese v12s29_lauren_blowjob_d6224755:
 translate chinese v12s29_lauren_legs_up_9b579aa7:
 
     # la "*Gasps* Ah! Oh... ah, fuck..."
-    la " *喘息* 啊！噢……啊，疼……"
+    la "*喘息* 啊！噢……啊，疼……"
 
 # game/v12/scene29.rpy:986
 translate chinese v12s29_lauren_legs_up_4f69ec1f:
 
     # la "*Heavy breathing* Ow... Haa... Fuck!"
-    la " *沉重呼吸* 噢……哈……操！"
+    la "*沉重呼吸* 噢……哈……操！"
 
 # game/v12/scene29.rpy:992
 translate chinese v12s29_lauren_legs_up_d55324a1:
@@ -772,7 +772,7 @@ translate chinese v12s29_lauren_legs_up_62b036fc:
 translate chinese v12s29_lauren_legs_up_49a2ed61:
 
     # la "*Moans*"
-    la " *呻吟* "
+    la "*呻吟*"
 
 # game/v12/scene29.rpy:1022
 translate chinese v12s29_lauren_cowgirl_0dc3bfb1:
@@ -796,13 +796,13 @@ translate chinese v12s29_lauren_cowgirl_d3a18713:
 translate chinese v12s29_lauren_cowgirl_14ed6671:
 
     # la "*Moans* Mhmm! I'll never forget it... Mmm, fuck..."
-    la " *呻吟* 嗯！我永远不会忘记……嗯，操……"
+    la "*呻吟* 嗯！我永远不会忘记……嗯，操……"
 
 # game/v12/scene29.rpy:1038
 translate chinese v12s29_lauren_cowgirl_fa54eb6f:
 
     # la "Yes... Yes, [name]! I'm... I'm cu- *Gasps*"
-    la "对……对，[name]！我快……我快要去…… *喘息* "
+    la "对……对，[name]！我快……我快要去…… *喘息*"
 
 # game/v12/scene29.rpy:1040
 translate chinese v12s29_lauren_cowgirl_c22b2874:
@@ -826,19 +826,19 @@ translate chinese v12s29_lauren_cowgirl_528ba085:
 translate chinese v12s29_lauren_cowgirl_5929c6ef:
 
     # la "Phew! Haha... That was absolutely perfect."
-    la "唷！哈哈……真是完美。"
+    la "呼！哈哈……真是完美。"
 
 # game/v12/scene29.rpy:1083
 translate chinese v12s29_lauren_cowgirl_69f6751d:
 
     # u "*Chuckles* It really was."
-    u " *咯咯笑* 可不是么。"
+    u "*咯咯笑* 可不是么。"
 
 # game/v12/scene29.rpy:1088
 translate chinese v12s29_lauren_cowgirl_85195af7:
 
     # la "I'm so happy I waited for you, you have no idea."
-    la "我很高兴我等了你，你不知道。"
+    la "我很高兴我等到了你，你想象不到的那种感觉。"
 
 # game/v12/scene29.rpy:1093
 translate chinese v12s29_lauren_cowgirl_b5894090:
@@ -862,25 +862,25 @@ translate chinese v12s29_lauren_cowgirl_f012b960:
 translate chinese v12s29_lauren_cowgirl_46b95941:
 
     # la "*Chuckles* Of course."
-    la " *咯咯笑* 当然。"
+    la "*咯咯笑* 当然。"
 
 # game/v12/scene29.rpy:1138
 translate chinese v12s29_nsfwSkipLabel1_a800404a:
 
     # la "That was crazy! *Laughs*"
-    la "太疯狂了！ *笑* "
+    la "太疯狂了！ *笑*"
 
 # game/v12/scene29.rpy:1143
 translate chinese v12s29_nsfwSkipLabel1_e4a4f692:
 
     # u "Glad we didn't get caught! *Chuckles*"
-    u "很高兴我们没有被发现！ *咯咯笑* "
+    u "很高兴我们没有被发现！ *咯咯笑*"
 
 # game/v12/scene29.rpy:1157
 translate chinese v12s29_nsfwSkipLabel1_ac4b6892:
 
     # la "I had so much fun tonight, but now I'm going to bed... or else I'm gonna end up asking you to stay all night. Roommate or not... *Chuckles*"
-    la "今晚我过得很开心，但现在我得睡觉了……否则我就得让你留下过夜，不知室友是否…… *咯咯笑* "
+    la "今晚我过得很开心，但现在我得睡觉了……否则我就得让你留下过夜，不知室友是否…… *咯咯笑*"
 
 # game/v12/scene29.rpy:1159
 translate chinese v12s29_nsfwSkipLabel1_4d5337ce:
@@ -892,13 +892,13 @@ translate chinese v12s29_nsfwSkipLabel1_4d5337ce:
 translate chinese v12s29_nsfwSkipLabel1_3f06a8cf:
 
     # u "Love you too, goodnight."
-    u "我也爱你，晚安。"
+    u "我也爱你，晚安儿。"
 
 # game/v12/scene29.rpy:1169
 translate chinese v12s29_nsfwSkipLabel1_435b774f:
 
     # u "(Wow, Lauren and I actually fucking did it.)"
-    u "(劳伦和我真他妈地做爱了。)"
+    u "(劳伦和我真他妈的做爱了。)"
 
 # game/v12/scene29.rpy:1187
 translate chinese v12s29_nsfwSkipLabel1_ba25568d:
@@ -922,13 +922,13 @@ translate chinese v12s29_nsfwSkipLabel1_59187764:
 translate chinese v12s29_nsfwSkipLabel1_8eec5065:
 
     # u "Let's get in bed before a gust of wind knocks us off the roof. *Chuckles*"
-    u "在一阵风把我们从屋顶上刮下来之前，我们赶紧上床睡觉吧。 *咯咯笑* "
+    u "在一阵风把我们从屋顶上刮下来之前，我们赶紧上床睡觉吧。 *咯咯笑*"
 
 # game/v12/scene29.rpy:1219
 translate chinese v12s29_nsfwSkipLabel1_fc820035:
 
     # la "*Chuckles* Yeah, let's do that."
-    la " *咯咯笑* 好吧，我们回去吧。"
+    la "*咯咯笑* 好吧，我们回去吧。"
 
 # game/v12/scene29.rpy:1229
 translate chinese v12s29_nsfwSkipLabel1_353b7882:

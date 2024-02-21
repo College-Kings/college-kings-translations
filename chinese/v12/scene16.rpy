@@ -40,13 +40,13 @@ translate chinese v12_valentine_2615c92f:
 translate chinese v12_valentine_29c8ace7:
 
     # ri "Of course. By the way, I hate to miss out on the next activity but I twisted my ankle a bit while we were hunting, and I was hoping to rest it off a little..."
-    ri "当然。顺便说一句，我不想错过下一个活动，但我在寻宝时扭伤了脚踝，我希望休息一下……"
+    ri "好吧。顺便说一句，我不想错过下一个活动，但我在寻宝时扭伤了脚踝，我希望休息一下……"
 
 # game/v12/scene16.rpy:53
 translate chinese v12_valentine_f4cdac5e:
 
     # lee "Of course, yes! Ms. Rose will be staying here at the hotel so if you need anyone at all, you go to her."
-    lee "好的，是的！罗斯女士将住在酒店里，所以如果你需要人帮忙，你可以去找她。"
+    lee "好的，当然！罗斯女士将住在酒店里，所以如果你需要人帮忙，你可以去找她。"
 
 # game/v12/scene16.rpy:58
 translate chinese v12_valentine_ac1bfc9b:
@@ -94,7 +94,7 @@ translate chinese v12_valentine_031d3a4f:
 translate chinese v12_valentine_d5702d98:
 
     # li "This is kind of exciting... *Chuckles*"
-    li "这是一种令人兴奋的……*咯咯笑* "
+    li "这是一种令人兴奋的……*咯咯笑*"
 
 # game/v12/scene16.rpy:103
 translate chinese v12_valentine_814f5f68:
@@ -160,19 +160,19 @@ translate chinese v12_valentine_8bb0be8a:
 translate chinese v12_valentine_4dd7f8a2:
 
     # no "I'm familiar with the holiday. *Chuckles*"
-    no "我对这个节日很熟悉。 *咯咯笑* "
+    no "我对这个节日很熟悉。 *咯咯笑*"
 
 # game/v12/scene16.rpy:192
 translate chinese v12_valentine_0660ab18:
 
     # li "*Laughs* Yeah, that's about it for me as well."
-    li " *笑* 是的，对我来说也是这样。"
+    li "*笑* 是的，对我来说也是这样。"
 
 # game/v12/scene16.rpy:197
 translate chinese v12_valentine_5789e68e:
 
     # bishop "*Chuckles* That's usually the case for most students. Due to most holidays stemming from religious roots, it's rare for schools to actually teach students the meaning behind Valentine's."
-    bishop " *咯咯笑* 这通常是大多数学生的情况。由于大多数节日源于宗教根源，学校很少真正教会学生情人节背后的意义。"
+    bishop "*咯咯笑* 这通常是大多数学生的情况。由于大多数节日源于宗教根源，学校很少真正教会学生情人节背后的意义。"
 
 # game/v12/scene16.rpy:198
 translate chinese v12_valentine_ad35984f:
@@ -310,7 +310,7 @@ translate chinese v12_valentine_74a83191:
 translate chinese v12_valentine_c8482af8:
 
     # ch "Rome still exists. *Chuckles*"
-    ch "罗马仍然存在。 *咯咯笑* "
+    ch "罗马仍然存在。 *咯咯笑*"
 
 # game/v12/scene16.rpy:313
 translate chinese v12_valentine_3babc258:
@@ -334,7 +334,7 @@ translate chinese v12_valentine_9d77f0cf:
 translate chinese v12_valentine_34ec8c3e:
 
     # ch "Oh... *Chuckles*"
-    ch "噢…… *咯咯笑* "
+    ch "噢…… *咯咯笑*"
 
 # game/v12/scene16.rpy:333
 translate chinese v12_valentine_c0735ef3:

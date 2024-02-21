@@ -16,13 +16,13 @@ translate chinese v12_lindsey_lobby_0a6c8c3d:
 translate chinese v12_lindsey_lobby_c9a47040:
 
     # li "*Chuckles* I need you to come be a good friend and try the hotel breakfast with me."
-    li " *咯咯笑* 我需要你来做个好朋友，和我一起品尝酒店的早餐。"
+    li "*咯咯笑* 我需要你来做个好朋友，和我一起品尝酒店的早餐。"
 
 # game/v12/scene36.rpy:56
 translate chinese v12_lindsey_lobby_69cfaf16:
 
     # u "Okay... You forgot how to eat? *Chuckles*"
-    u "好的……你忘了怎么吃了？ *咯咯笑* "
+    u "好的……你忘了怎么吃了？ *咯咯笑*"
 
 # game/v12/scene36.rpy:61
 translate chinese v12_lindsey_lobby_202b72ba:
@@ -34,7 +34,7 @@ translate chinese v12_lindsey_lobby_202b72ba:
 translate chinese v12_lindsey_lobby_6d31e19e:
 
     # u "*Sighs* Alright, let's go."
-    u " *叹息* 好吧，我们走吧。"
+    u "*叹息* 好吧，我们走吧。"
 
 # game/v12/scene36.rpy:81
 translate chinese v12_lindsey_lobby_8eae845f:
@@ -52,7 +52,7 @@ translate chinese v12_lindsey_lobby_ef2f1671:
 translate chinese v12_lindsey_lobby_3aba6a45:
 
     # li "Well, I won't say what I saw... but, what I think I saw."
-    li "我不会说我看到了什么……但是我想我看到的是。"
+    li "好吧，我不会说我看到了什么……但是我想我看到的是……"
 
 # game/v12/scene36.rpy:96
 translate chinese v12_lindsey_lobby_ca73a73f:
@@ -106,7 +106,7 @@ translate chinese v12_lindsey_lobby_a5e83433:
 translate chinese v12_lindsey_lobby_5e55939c:
 
     # li "*Chuckles* You're so mean."
-    li " *咯咯笑* 你太刻薄了。"
+    li "*咯咯笑* 你太刻薄了。"
 
 # game/v12/scene36.rpy:141
 translate chinese v12_lindsey_lobby_ec061c79:
@@ -130,7 +130,7 @@ translate chinese v12_lindsey_lobby_e6face5e:
 translate chinese v12_lindsey_lobby_9279872f:
 
     # li "*Sighs* Really? Dang, I really thought this would be the time for it to be open."
-    li " *叹息* 真的吗？妈的，我真的以为现在是开门的时候了。"
+    li "*叹息* 真的吗？天呐，我真的以为现在是开门的时候了。"
 
 # game/v12/scene36.rpy:166
 translate chinese v12_lindsey_lobby_affcf120:
@@ -154,7 +154,7 @@ translate chinese v12_lindsey_lobby_3c3e8b03:
 translate chinese v12_lindsey_lobby_40146bc7:
 
     # li "*Sighs* One more stop and then we're headed back home."
-    li " *叹息* 再停一站，然后我们就回家了。"
+    li "*叹息* 再走完一站，然后我们就可以回家了。"
 
 # game/v12/scene36.rpy:194
 translate chinese v12_lindsey_lobby_90b7b465:
@@ -166,7 +166,7 @@ translate chinese v12_lindsey_lobby_90b7b465:
 translate chinese v12_lindsey_lobby_220e48c6:
 
     # li "Honestly, I am. I was really nervous about dealing with Chloe, but the other girls have made me feel very comfortable about my decision."
-    li "说实话，我是。和克洛伊打交道我真的很紧张，但其他女孩让我对我的决定感到很舒服。"
+    li "说实话，是的。和克洛伊打交道我真的很紧张，但其他女孩让我对我的决定感到很舒服。"
 
 # game/v12/scene36.rpy:204
 translate chinese v12_lindsey_lobby_f1c6d628:
@@ -184,13 +184,13 @@ translate chinese v12_lindsey_lobby_e79ebefc:
 translate chinese v12_lindsey_lobby_51cbab07:
 
     # u "Well, you know I don't get in the middle of all that, but I'm glad the sorority is starting to have a single vision."
-    u "嗯，你知道我不会插手这一切，但我很高兴女生会开始有了一致的想法。"
+    u "好吧，你知道我不会插手这一切，但我很高兴女生会开始有了一致的想法。"
 
 # game/v12/scene36.rpy:219
 translate chinese v12_lindsey_lobby_9401dfe1:
 
     # u "I'll be happy to see the result of all this. Good or bad, it'll be entertaining. *Chuckles*"
-    u "我很高兴看到这一切的结果。不管是好是坏，都会很有趣的。 *咯咯笑* "
+    u "我很高兴看到这一切的结果。不管是好是坏，都会很有趣的。 *咯咯笑*"
 
 # game/v12/scene36.rpy:224
 translate chinese v12_lindsey_lobby_45a5a17e:
@@ -202,7 +202,7 @@ translate chinese v12_lindsey_lobby_45a5a17e:
 translate chinese v12_lindsey_lobby_f6c1bdde:
 
     # u "Ha, really? What do you mean?"
-    u "哈，真的吗？什么意思？"
+    u "哈，真的吗？怎么说？"
 
 # game/v12/scene36.rpy:234
 translate chinese v12_lindsey_lobby_482ffcaf:
@@ -214,13 +214,13 @@ translate chinese v12_lindsey_lobby_482ffcaf:
 translate chinese v12_lindsey_lobby_42260fc3:
 
     # u "Nah, she just says stuff like me. I'm the original. *Chuckles*"
-    u "不，她只是说像我这样的话。我是原版。 *咯咯笑* "
+    u "不，她只是说像我这样的话。我是原版。 *咯咯笑*"
 
 # game/v12/scene36.rpy:244
 translate chinese v12_lindsey_lobby_5ba300cb:
 
     # li "Oh, yes. Of course, my bad. *Chuckles*"
-    li "噢，是的。当然，是我的错。 *咯咯笑* "
+    li "噢，是的。当然，是我的错。 *咯咯笑*"
 
 # game/v12/scene36.rpy:249
 translate chinese v12_lindsey_lobby_065a05b4:

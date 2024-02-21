@@ -4,25 +4,25 @@
 translate chinese v14s03_b0192c3a:
 
     # imre "Hell yeah boys! This is my kind of place!"
-    imre "见鬼，耶，伙计们！这是我喜欢的地方！"
+    imre "哦耶，伙计们！这是我喜欢的地方！"
 
 # game/v14/scene3.rpy:22
 translate chinese v14s03_893ed748:
 
     # u "Who would've guessed? *Chuckles*"
-    u "谁会猜到呢？ *咯咯笑* "
+    u "谁会猜到呢？ *咯咯笑*"
 
 # game/v14/scene3.rpy:27
 translate chinese v14s03_d31e9481:
 
     # ry "There's gambling, a brothel, and hoes everywhere!"
-    ry "那里有赌博，妓院，到处都是妓女！"
+    ry "这里有赌博，妓院，到处都是妓女！"
 
 # game/v14/scene3.rpy:32
 translate chinese v14s03_7417620b:
 
     # imre "*Whispers* Hey! The fuck? Don't say hoes... You gotta show respect to these beautiful creatures."
-    imre " *低语* 嘿！他妈的？别说妓女……你应该尊重这些美丽的生物。"
+    imre "*低语* 嘿！他妈的？别说妓女……你应该尊重这些美丽的生物。"
 
 # game/v14/scene3.rpy:37
 translate chinese v14s03_ecad0008:

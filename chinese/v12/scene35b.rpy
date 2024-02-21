@@ -34,19 +34,19 @@ translate chinese v12_game_roommate_ace3104d:
 translate chinese v12_game_roommate_6b938e7f:
 
     # u "Definitely does not look fun... I'll say that."
-    u "看起来一点都不好玩……我会这么说。"
+    u "看起来一点都不好玩……我很肯定。"
 
 # game/v12/scene35b.rpy:50
 translate chinese v12_game_roommate_0fef1245:
 
     # cl "Luckily, my boyfriend would never put me through something like that, would he? *Chuckles*"
-    cl "幸运的是，我男朋友不会让我经历这种事，对吧？ *咯咯笑* "
+    cl "幸运的是，我男朋友不会让我经历这种事，对吧？ *咯咯笑*"
 
 # game/v12/scene35b.rpy:55
 translate chinese v12_game_roommate_f7cd50b1:
 
     # u "I wouldn't imagine it. *Chuckles*"
-    u "我不敢想象。 *咯咯笑* "
+    u "我不敢想象。 *咯咯笑*"
 
 # game/v12/scene35b.rpy:60
 translate chinese v12_game_roommate_0b3c4bbb:
@@ -58,7 +58,7 @@ translate chinese v12_game_roommate_0b3c4bbb:
 translate chinese v12_game_roommate_9f18db56:
 
     # cl "Oh my god... You're not funny. *Chuckles*"
-    cl "我的天啊。你一点都不好笑。 *咯咯笑* "
+    cl "我的天啊……你一点儿都不好笑。 *咯咯笑*"
 
 # game/v12/scene35b.rpy:70
 translate chinese v12_game_roommate_9cae0dbe:
@@ -94,7 +94,7 @@ translate chinese v12_game_roommate_06c4d344:
 translate chinese v12_game_roommate_dae835db:
 
     # cl "Stop it, [name]! I didn't have many options. *Chuckles*"
-    cl "别说了，[name]！我没有太多的选择。 *咯咯笑* "
+    cl "别说了，[name]！我没有太多的选择。 *咯咯笑*"
 
 # game/v12/scene35b.rpy:100
 translate chinese v12_game_roommate_c13709b6:
@@ -106,13 +106,13 @@ translate chinese v12_game_roommate_c13709b6:
 translate chinese v12_game_roommate_9aac7a66:
 
     # cl "Yep, and that one right next to me just went for sale so when you download it in a second, that's the one you'll buy. *Chuckles*"
-    cl "是的，我旁边的那个刚刚出售，所以当你马上下载它的时候，你就会买到那个。 *咯咯笑* "
+    cl "是的，我旁边的那个刚刚出售，所以当你马上下载它的时候，你就会买到那个。 *咯咯笑*"
 
 # game/v12/scene35b.rpy:110
 translate chinese v12_game_roommate_20d22a43:
 
     # u "Who said I was downloading it? *Chuckles*"
-    u "谁说我要下载？  *咯咯笑* "
+    u "谁说我要下载？  *咯咯笑*"
 
 # game/v12/scene35b.rpy:115
 translate chinese v12_game_roommate_1abcc468:
@@ -136,13 +136,13 @@ translate chinese v12_game_roommate_3ba118fe:
 translate chinese v12_game_roommate_5b1160d0:
 
     # u "Is he an undergrad? *Laughs*"
-    u "他是本科生吗？ *笑* "
+    u "他是本科生吗？ *笑*"
 
 # game/v12/scene35b.rpy:135
 translate chinese v12_game_roommate_03d965f2:
 
     # cl "Oh my gosh, I knew you were gonna say that... *Laughs*"
-    cl "天呐，我就知道你会这么说…… *笑* "
+    cl "天呐，我就知道你会这么说…… *笑*"
 
 # game/v12/scene35b.rpy:140
 translate chinese v12_game_roommate_cf1edadc:
@@ -178,13 +178,13 @@ translate chinese v12_game_roommate_741da010:
 translate chinese v12_game_roommate_a8c2f154:
 
     # cl "I don't, but I do like this one. *Chuckles*"
-    cl "我不喜欢，但我确实喜欢这款。 *咯咯笑* "
+    cl "我不喜欢，但我确实喜欢这款。 *咯咯笑*"
 
 # game/v12/scene35b.rpy:170
 translate chinese v12_game_roommate_be85ba62:
 
     # u "*Chuckles* Alright, I got the house. Now what?"
-    u " *咯咯笑* 好了，我得到房子了。接下来呢？"
+    u "*咯咯笑* 好了，我得到房子了。接下来呢？"
 
 # game/v12/scene35b.rpy:175
 translate chinese v12_game_roommate_fa74b915:
@@ -214,7 +214,7 @@ translate chinese v12_game_roommate_c0e60ae6:
 translate chinese v12_game_roommate_3827540c:
 
     # cl "Wow... Good answer. Let's use this as a practice run though, I need the milestone. *Chuckles*"
-    cl "哇噢……回答得好。让我们把这当作一次练习，不过，我需要里程碑。 *咯咯笑* "
+    cl "哇哦……回答得好。让我们把这当作一次练习，不过，我需要里程碑。 *咯咯笑*"
 
 # game/v12/scene35b.rpy:202
 translate chinese v12_game_roommate_0df56e30:
@@ -238,13 +238,13 @@ translate chinese v12_game_roommate_eae92942:
 translate chinese v12_game_roommate_fcc18885:
 
     # u "*Laughs*"
-    u " *笑* "
+    u "*笑*"
 
 # game/v12/scene35b.rpy:222
 translate chinese v12_game_roommate_db7e57ed:
 
     # cl "You talked about my character, yet yours look nothing like you! *Chuckles*"
-    cl "你谈到了我的性格，但你的性格看起来一点也不像你！ *咯咯笑* "
+    cl "你谈到了我的性格，但你的性格看起来一点也不像你！ *咯咯笑*"
 
 # game/v12/scene35b.rpy:227
 translate chinese v12_game_roommate_535e4b0b:
@@ -334,13 +334,13 @@ translate chinese v12_game_roommate_bdf1c3d2:
 translate chinese v12_game_roommate_af73ad32:
 
     # cl "Wait, why did you need to- OH MY GOD! YOU KILLED YOUR PARENTS!?"
-    cl "等等，你为什么要-噢，天呐！你杀了你的父母！？"
+    cl "等等，你为什么要……噢，天呐！你杀了你的父母！？"
 
 # game/v12/scene35b.rpy:323
 translate chinese v12_game_roommate_a8fa64ca:
 
     # u "I prefer the phrase, \"got twelve million dollars\". Killed your parents sounds so harsh. *Chuckles*"
-    u "我更喜欢这句话，\"拿到了一千二百万美元\"。杀了你的父母听起来太刺耳了。 *咯咯笑* "
+    u "我更喜欢这句话，\"拿到了一千二百万美元\"。杀了你的父母听起来太刺耳了。 *咯咯笑*"
 
 # game/v12/scene35b.rpy:328
 translate chinese v12_game_roommate_a6482b2c:
@@ -358,13 +358,13 @@ translate chinese v12_game_roommate_b31567f0:
 translate chinese v12_game_roommate_1bc8bfdd:
 
     # cl "This game allows that? Holy shit... *Chuckles*"
-    cl "这个游戏允许这样吗？真他妈的…… *咯咯笑* "
+    cl "这个游戏允许这样吗？真他妈的…… *咯咯笑*"
 
 # game/v12/scene35b.rpy:343
 translate chinese v12_game_roommate_433980bc:
 
     # u "I guess so. *Laughs*"
-    u "可能是吧。 *笑* "
+    u "可能是吧。 *笑*"
 
 # game/v12/scene35b.rpy:350
 translate chinese v12_game_roommate_9b699c6d:
@@ -406,7 +406,7 @@ translate chinese v12_game_roommate_df4abfe1:
 translate chinese v12_game_roommate_ac65e087:
 
     # u "I'm playing the game for you. *Laughs*"
-    u "我是在为你玩这个游戏。 *笑* "
+    u "我是在为你玩这个游戏。 *笑*"
 
 # game/v12/scene35b.rpy:385
 translate chinese v12_game_roommate_55f5b0cb:
@@ -448,7 +448,7 @@ translate chinese v12_game_roommate_0ec7e076:
 translate chinese v12_game_roommate_723cd448:
 
     # u "Awww! Just a little longer? I was starting to enjoy it... *Chuckles*"
-    u "哇噢！再等一会儿好吗？我开始喜欢上它了…… *咯咯笑* "
+    u "哇噢！再等一会儿好吗？我开始喜欢上它了…… *咯咯笑*"
 
 # game/v12/scene35b.rpy:420
 translate chinese v12_game_roommate_e1990993:
@@ -478,7 +478,7 @@ translate chinese v12_game_roommate_7d96efaa:
 translate chinese v12_game_roommate_3059d9c5:
 
     # cl "Welcome to the real world. *Chuckles*"
-    cl "欢迎来到现实世界。 *咯咯笑* "
+    cl "欢迎来到现实世界。 *咯咯笑*"
 
 # game/v12/scene35b.rpy:445
 translate chinese v12_game_roommate_667524dc:
@@ -490,13 +490,13 @@ translate chinese v12_game_roommate_667524dc:
 translate chinese v12_game_roommate_34ab6a14:
 
     # cl "OH MY GOD! *Chuckles* STOP IT! [name]! PLEASE... PLEASE STOP! *Laughs*"
-    cl "噢，天呐！ *咯咯笑* 住手！[name]！求求你……停下来！ *笑* "
+    cl "噢，天呐！ *咯咯笑* 住手！[name]！求求你……停下来！ *笑*"
 
 # game/v12/scene35b.rpy:457
 translate chinese v12_game_roommate_fcc18885_1:
 
     # u "*Laughs*"
-    u " *笑* "
+    u "*笑*"
 
 # game/v12/scene35b.rpy:463
 translate chinese v12_game_roommate_3d9fb0a2:
@@ -508,7 +508,7 @@ translate chinese v12_game_roommate_3d9fb0a2:
 translate chinese v12_game_roommate_0994b4ab:
 
     # u "*Whisper* You sure you don't want my company?"
-    u " *耳语* 你确定不想要我的狠活儿了吗？"
+    u "*耳语* 你确定不想要我的狠活儿了吗？"
 
 # game/v12/scene35b.rpy:473
 translate chinese v12_game_roommate_0f6c1a9b:
@@ -520,7 +520,7 @@ translate chinese v12_game_roommate_0f6c1a9b:
 translate chinese v12_game_roommate_dfdb6735:
 
     # u "Is that your way of asking? *Chuckles*"
-    u "这就是你想要的方式吗？ *咯咯笑* "
+    u "这就是你想要的方式吗？ *咯咯笑*"
 
 # game/v12/scene35b.rpy:483
 translate chinese v12_game_roommate_d38aa789:
@@ -538,7 +538,7 @@ translate chinese v12_game_roommate_a38e5664:
 translate chinese v12_game_roommate_cd650154:
 
     # cl "Oh my god, are you okay?! *Chuckles?*"
-    cl "天哪，你还好吗？！ *咯咯笑？* "
+    cl "天哪，你还好吗？！ *咯咯笑？*"
 
 # game/v12/scene35b.rpy:524
 translate chinese v12_game_roommate_2d2a4704:
@@ -550,25 +550,25 @@ translate chinese v12_game_roommate_2d2a4704:
 translate chinese v12_game_roommate_4004cc32:
 
     # cl "Sorry, my reflexes kicked in. *Chuckles*"
-    cl "抱歉，我的条件反射起作用了。 *咯咯笑* "
+    cl "抱歉，我的条件反射起作用了。 *咯咯笑*"
 
 # game/v12/scene35b.rpy:539
 translate chinese v12_game_roommate_1a6bc0ed:
 
     # u "Now I'm the tired one... Damn near knocked me out!"
-    u "现在我是疲惫的那个了……差一点就把我打晕了！"
+    u "现在我是疲惫的那个了……差一点儿就把我打晕了！"
 
 # game/v12/scene35b.rpy:544
 translate chinese v12_game_roommate_198e221f:
 
     # cl "*Laughs* You're exaggerating."
-    cl " *笑* 你太夸张了。"
+    cl "*笑* 你太夸张了。"
 
 # game/v12/scene35b.rpy:549
 translate chinese v12_game_roommate_97ec3273:
 
     # u "No I'm not! *Chuckles*"
-    u "不，我没有！*咯咯笑* "
+    u "不，我没有！*咯咯笑*"
 
 # game/v12/scene35b.rpy:559
 translate chinese v12_game_roommate_37e87c42:
@@ -610,7 +610,7 @@ translate chinese v12_game_roommate_7f07f945:
 translate chinese v12_game_roommate_57ae9944:
 
     # u "*Sighs*"
-    u " *叹息* "
+    u "*叹息*"
 
 # game/v12/scene35b.rpy:611
 translate chinese v12_game_roommate_24f7f46a:

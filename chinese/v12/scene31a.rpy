@@ -64,7 +64,7 @@ translate chinese v12_aubrey_wake_up_ri_3b124a85:
 translate chinese v12_aubrey_wake_up_ri_c960024f:
 
     # u "When she realizes it wasn't me, she'll be all sorry and shit... So, I'm just ignoring the attitude for now."
-    u "当她意识到不是我的时候，她会后悔的。所以，我暂时不想理她。"
+    u "当她意识到不是我的时候，她会后悔的……所以，我暂时不想理她。"
 
 # game/v12/scene31a.rpy:73
 translate chinese v12_aubrey_wake_up_ri_68149dad:
@@ -88,7 +88,7 @@ translate chinese v12_aubrey_wake_up_ri_1bc7b16e:
 translate chinese v12_aubrey_wake_up_ri_369a983f:
 
     # u "On that note, let's go. We're in a rush right?"
-    u "说到这里，我们走吧。我们赶时间，对吧？"
+    u "到此为止，我们走吧。我们赶时间，对吧？"
 
 # game/v12/scene31a.rpy:93
 translate chinese v12_aubrey_wake_up_ri_58a7f273:
@@ -100,7 +100,7 @@ translate chinese v12_aubrey_wake_up_ri_58a7f273:
 translate chinese v12_aubrey_wake_up_ri_d5ffdc7b:
 
     # au "*Whisper* Hey Riley, maybe try and do a little investigating before jumping to conclusions, yeah? Let's not point fingers at the guy who's been good to both of us, without all the evidence."
-    au " *低语* 莱莉，在妄下结论之前先做点调查，好吗？在没有证据的情况下，我们不要指责那个对我们都很好的人。"
+    au "*低语* 莱莉，在妄下结论之前先做点调查，好吗？在没有证据的情况下，我们不要指责那个对我们都很好的人。"
 
 # game/v12/scene31a.rpy:103
 translate chinese v12_aubrey_wake_up_ri_7a452fdc:

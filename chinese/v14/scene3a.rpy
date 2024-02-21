@@ -106,7 +106,7 @@ translate chinese v14s03a_cf6b0706:
 translate chinese v14s03a_944c9cfe:
 
     # ngam "First game no bet, just-"
-    ngam "第一场比赛没有赌注，只是-"
+    ngam "第一场比赛没有赌注，只是……"
 
 # game/v14/scene3a.rpy:162
 translate chinese v14s03a_671ce1b1:
@@ -118,13 +118,13 @@ translate chinese v14s03a_671ce1b1:
 translate chinese v14s03a_f04983bb:
 
     # ngam "*Whispers* Filthy kids."
-    ngam " *低语* 肮脏的孩子。"
+    ngam "*低语* 肮脏的孩子。"
 
 # game/v14/scene3a.rpy:184
 translate chinese v14s03a_b9a3acea:
 
     # u "He was... persistent."
-    u "他是……坚持不懈。"
+    u "他真是……坚持不懈。"
 
 # game/v14/scene3a.rpy:189
 translate chinese v14s03a_05ec9ecd:
@@ -136,13 +136,13 @@ translate chinese v14s03a_05ec9ecd:
 translate chinese v14s03a_fcc18885:
 
     # u "*Laughs*"
-    u " *笑* "
+    u "*笑*"
 
 # game/v14/scene3a.rpy:199
 translate chinese v14s03a_798c0085:
 
     # ry "*Laughs* Not us Americans jumping a European for the hell of it."
-    ry " *笑* 不是我们美国人为了好玩而打欧洲人。"
+    ry "*笑* 不是我们美国人为了好玩而打欧洲人。"
 
 # game/v14/scene3a.rpy:204
 translate chinese v14s03a_6b4c40f0:
@@ -268,7 +268,7 @@ translate chinese v14s03a_4899d02e:
 translate chinese v14s03a_e2aceedd:
 
     # u "As a matter of fact, I slept all damn day \"brother man\"."
-    u "事实上，我睡了一整天\"兄弟\"。"
+    u "事实上，我睡了一整天了，\"兄弟\"。"
 
 # game/v14/scene3a.rpy:388
 translate chinese v14s03a_8f106c52:
@@ -286,7 +286,7 @@ translate chinese v14s03a_df7b9105:
 translate chinese v14s03a_43cde668:
 
     # imre "Alright, I'm gonna roll this motherfu-."
-    imre "好的，我要干这个狗日的-。"
+    imre "好的，我要干这个狗日的……"
 
 # game/v14/scene3a.rpy:423
 translate chinese v14s03a_8465752e:
@@ -316,19 +316,19 @@ translate chinese v14s03a_85d22e89:
 translate chinese v14s03a_78208e9d:
 
     # ngam "*Panting* I do what I do to get by... Gotta make ends meet."
-    ngam " *气喘吁吁* 我所做的一切都是为了过日子……得维持收支平衡。"
+    ngam "*气喘吁吁* 我所做的一切都是为了过日子……得维持收支平衡。"
 
 # game/v14/scene3a.rpy:453
 translate chinese v14s03a_2403f18e:
 
     # imre "Well, karma said it's time to pay up and I'm here to collect, motherfucker. Hand over that wallet \"brother man\"."
-    imre "嗯，因果报应说该付钱了，我是来收钱的，狗娘养的。把钱包交出来\"兄弟\"。"
+    imre "嗯，因果报应说该付钱了，我是来收钱的，狗娘养的。把钱包交出来，\"兄弟\"。"
 
 # game/v14/scene3a.rpy:458
 translate chinese v14s03a_7e6a3a58:
 
     # ry "*Whispers* Imre, that's enough, man. He learned his lesson I think."
-    ry " *低语* 伊姆雷，够了，伙计。我想他吸取了教训。"
+    ry "*低语* 伊姆雷，够了，伙计。我想他吸取了教训。"
 
 # game/v14/scene3a.rpy:463
 translate chinese v14s03a_a17b7a66:
@@ -388,7 +388,7 @@ translate chinese v14s03a_9aa2c2b1:
 translate chinese v14s03a_9a8f0774:
 
     # ry "*Sighs*"
-    ry " *叹息* "
+    ry "*叹息*"
 
 # game/v14/scene3a.rpy:527
 translate chinese v14s03a_a50be72f:
@@ -400,7 +400,7 @@ translate chinese v14s03a_a50be72f:
 translate chinese v14s03a_eaa271d0:
 
     # u "Imre, cool it. I'm pretty sure he won't be scamming people anymore after this."
-    u "伊姆雷，冷静点。我很肯定这之后他不会再骗人了。"
+    u "伊姆雷，冷静点儿。我很肯定这之后他不会再骗人了。"
 
 # game/v14/scene3a.rpy:536
 translate chinese v14s03a_0ce2f3a0:
@@ -436,7 +436,7 @@ translate chinese v14s03a_3cc7f193:
 translate chinese v14s03a_405ee50d:
 
     # ry "*Sighs* Let's go guys, please."
-    ry " *叹息* 我们走吧，伙计们，走吧。"
+    ry "*叹息* 我们走吧，伙计们，走吧。"
 
 translate chinese strings:
 
@@ -458,15 +458,15 @@ translate chinese strings:
 
     # game/v14/scene3a.rpy:290
     old "Left cup"
-    new "左杯"
+    new "左边杯子"
 
     # game/v14/scene3a.rpy:290
     old "Right cup"
-    new "右杯子"
+    new "右边杯子"
 
     # game/v14/scene3a.rpy:475
     old "Take the wallet"
-    new "把钱包拿去"
+    new "拿钱包"
 
     # game/v14/scene3a.rpy:475
     old "Don't take the wallet"

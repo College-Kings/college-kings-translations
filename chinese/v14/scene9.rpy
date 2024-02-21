@@ -16,7 +16,7 @@ translate chinese v14s09_20537cf3:
 translate chinese v14s09_1a84d2d9:
 
     # ro "*Laughs* It wasn't all bad. We both had a little bit of fun at least, right?"
-    ro " *笑* 也不全是坏事。我们俩至少都玩得很开心，对吧？"
+    ro "*笑* 也不全是坏事。我们俩至少都玩得很开心，对吧？"
 
 # game/v14/scene9.rpy:37
 translate chinese v14s09_d84f9560:
@@ -40,25 +40,25 @@ translate chinese v14s09_b58c7138:
 translate chinese v14s09_00079126:
 
     # ro "*Chuckles* I know you very well, generous statue giver."
-    ro " *咯咯笑* 我非常了解你，慷慨的雕像赠送者。"
+    ro "*咯咯笑* 我非常了解你，慷慨的雕像赠送者。"
 
 # game/v14/scene9.rpy:57
 translate chinese v14s09_d9c2bcd8:
 
     # lee "Okay... There is absolutely- *Whispers* No need to bring that up."
-    lee "好的……绝对有- *低语* 没必要提起这件事。"
+    lee "好的……绝对有…… *低语* 没必要提起这件事。"
 
 # game/v14/scene9.rpy:62
 translate chinese v14s09_78b0605b:
 
     # ro "*Laughs* Are you saying what I think you're saying?"
-    ro " *笑* 你在说我认为你在说的话吗？"
+    ro "*笑* 你在说我认为你在说的话吗？"
 
 # game/v14/scene9.rpy:67
 translate chinese v14s09_75c6b474:
 
     # lee "*Sighs* I suppose that what happens in Europe, truly does stay in Europe..."
-    lee " *叹息* 我想在欧洲发生的事情，真的会留在欧洲……"
+    lee "*叹息* 我想在欧洲发生的事情，真的会留在欧洲……"
 
 # game/v14/scene9.rpy:83
 translate chinese v14s09_5783ae5d:
@@ -124,7 +124,7 @@ translate chinese v14s09_576cab4b:
 translate chinese v14s09_3eafb567:
 
     # charli "*High pitch* It... it can wait, yeah. No rush."
-    charli " *高音* 它……可以等，是的。别急。"
+    charli "*高音* 它……可以等，是的。别急。"
 
 # game/v14/scene9.rpy:165
 translate chinese v14s09_1aba697a:
@@ -220,7 +220,7 @@ translate chinese v14s09_28ff84b6:
 translate chinese v14s09_c792fed5:
 
     # lee "Amber."
-    lee "琥珀"
+    lee "琥珀。"
 
 # game/v14/scene9.rpy:243
 translate chinese v14s09_e2c0bbd1:
@@ -280,7 +280,7 @@ translate chinese v14s09_56f36f6a:
 translate chinese v14s09_de73bf91:
 
     # u "(She had a decent time getting into that “poor person” role.)"
-    u "(她在扮演“穷人”这个角色时过得很愉快。)"
+    u "(她在扮演\"穷人\"这个角色时过得很愉快。)"
 
 # game/v14/scene9.rpy:277
 translate chinese v14s09_499eb435:
@@ -448,13 +448,13 @@ translate chinese v14s09_a60b637c:
 translate chinese v14s09_07f4ec28:
 
     # ro "Not here? Where-"
-    ro "不在这？哪去了-"
+    ro "不在这？哪去了……"
 
 # game/v14/scene9.rpy:386
 translate chinese v14s09_7a42ec2b:
 
     # lee "*Whispers* I have him handled. He already left, headed back to campus. I'll be attending his meeting with the Dean when we return."
-    lee " *低语* 我已经处理好他了。他已经走了，回学校了。回去后我会去参加他和院长的会议。"
+    lee "*低语* 我已经处理好他了。他已经走了，回学校了。回去后我会去参加他和院长的会议。"
 
 # game/v14/scene9.rpy:397
 translate chinese v14s09_a4c927f8_1:
@@ -472,13 +472,13 @@ translate chinese v14s09_e6f4deac:
 translate chinese v14s09_52154442:
 
     # u "(Right, Charli.)"
-    u "(好的，查理。)"
+    u "(好吧，查理。)"
 
 # game/v14/scene9.rpy:411
 translate chinese v14s09_f6f4992f:
 
     # u "(Who fucking cares what that douche's favorite part was...)"
-    u "(谁他妈的在乎那个混蛋最喜欢的部分是什么……)"
+    u "(谁他妈地在乎那个混蛋最喜欢的部分是什么……)"
 
 # game/v14/scene9.rpy:414
 translate chinese v14s09_b9243158:
@@ -538,7 +538,7 @@ translate chinese v14s09_ba110bcf:
 translate chinese v14s09_d717220f:
 
     # lee "*Sighs* There's always one..."
-    lee " *叹息* 总有一个……"
+    lee "*叹息* 总有一个……"
 
 # game/v14/scene9.rpy:456
 translate chinese v14s09_9e2c1e0a:
@@ -550,7 +550,7 @@ translate chinese v14s09_9e2c1e0a:
 translate chinese v14s09_2145d4a5:
 
     # ry "My bad, \"here\". *Laughs*"
-    ry "我的错，\"到\"。 *笑* "
+    ry "我的错，\"到\"。 *笑*"
 
 # game/v14/scene9.rpy:463
 translate chinese v14s09_4abf15e9:
@@ -580,7 +580,7 @@ translate chinese v14s09_f4bb61b2:
 translate chinese v14s09_1b19a55b:
 
     # imre "*Whispers* Nice one, dumbass. Haven't heard that joke since middle school... Did you learn it from your sister? Haha-"
-    imre " *低语* 不错，笨蛋。从中学开始就没听过这个笑话了。你是从你姐姐那里学的吗？哈哈-"
+    imre "*低语* 不错，笨蛋。从中学开始就没听过这个笑话了。你是从你姐姐那里学的吗？哈哈……"
 
 # game/v14/scene9.rpy:483
 translate chinese v14s09_bcef1fa5:
@@ -646,13 +646,13 @@ translate chinese v14s09_ffe5de64:
 translate chinese v14s09_e7b74040:
 
     # ro "...Sam? Where's Samantha?"
-    ro "……萨？萨曼莎在哪？"
+    ro "……萨曼莎？萨曼莎在哪？"
 
 # game/v14/scene9.rpy:534
 translate chinese v14s09_0b9c85b9:
 
     # am "Oh, she-"
-    am "噢，她-"
+    am "噢，她……"
 
 # game/v14/scene9.rpy:536
 translate chinese v14s09_b85b15c6:
@@ -664,7 +664,7 @@ translate chinese v14s09_b85b15c6:
 translate chinese v14s09_3ee533d9:
 
     # ro "*Sighs* She should've told us."
-    ro " *叹息* 她应该告诉我们的。"
+    ro "*叹息* 她应该告诉我们的。"
 
 # game/v14/scene9.rpy:546
 translate chinese v14s09_3875dcd5:
@@ -694,7 +694,7 @@ translate chinese v14s09_ea8d5ce6:
 translate chinese v14s09_fbf9bc66:
 
     # jo "*Sighs* Here."
-    jo " *叹息* 到。"
+    jo "*叹息* 到。"
 
 # game/v14/scene9.rpy:569
 translate chinese v14s09_7563b158:
@@ -882,7 +882,7 @@ translate chinese strings:
 
     # game/v14/scene9.rpy:409
     old "Who fucking cares?"
-    new "谁他妈的在乎呢？"
+    new "谁他妈地在乎呢？"
 
     # game/v14/scene9.rpy:409
     old "Being a bitch"

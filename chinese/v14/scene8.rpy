@@ -10,7 +10,7 @@ translate chinese v14s08_5473ad9d:
 translate chinese v14s08_bbbd937a:
 
     # am "*Sniffs*"
-    am " *嗅探* "
+    am "*嗅探*"
 
 # game/v14/scene8.rpy:29
 translate chinese v14s08_193f1d14:
@@ -40,7 +40,7 @@ translate chinese v14s08_97dee065:
 translate chinese v14s08_f95e119b:
 
     # u "*Sighs* (I knew I shouldn't have asked.)"
-    u " *叹息* (我就知道我不应该问。)"
+    u "*叹息* (我就知道我不应该问。)"
 
 # game/v14/scene8.rpy:67
 translate chinese v14s08_21142ddc:
@@ -58,7 +58,7 @@ translate chinese v14s08_b91ecda6:
 translate chinese v14s08_73fc62a0:
 
     # am "*Deep breath*"
-    am " *深呼吸* "
+    am "*深呼吸*"
 
 # game/v14/scene8.rpy:109
 translate chinese v14s08_e4e24d10:
@@ -76,19 +76,19 @@ translate chinese v14s08_daaee57b:
 translate chinese v14s08_475f7ab7:
 
     # u "I respect your privacy, Amber. If you need to talk, you know I'm right here. If you'd rather sit in silence, I'm still here... *Laughs*"
-    u "我尊重你的隐私，琥珀。如果你需要谈谈，你知道我就在这里。如果你宁愿静静地坐着，我还在这里…… *笑* "
+    u "我尊重你的隐私，琥珀。如果你需要谈谈，你知道我就在这里。如果你宁愿静静地坐着，我还在这里…… *笑*"
 
 # game/v14/scene8.rpy:121
 translate chinese v14s08_8279b9fb:
 
     # am "*Chuckles* For the first time ever, I think I see you as more than just a cute little fucktoy."
-    am " *咯咯笑* 有史以来第一次，我想我看到的你不仅仅是一个可爱的小玩具。"
+    am "*咯咯笑* 有史以来第一次，我想我看到的你不仅仅是一个可爱的小玩具。"
 
 # game/v14/scene8.rpy:126
 translate chinese v14s08_96c76367:
 
     # u "Uhh, thanks. *Chuckles*"
-    u "呃，谢谢。 *咯咯笑* "
+    u "呃，谢谢。 *咯咯笑*"
 
 # game/v14/scene8.rpy:131
 translate chinese v14s08_dd62a7a1:

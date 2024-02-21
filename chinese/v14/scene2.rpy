@@ -22,7 +22,7 @@ translate chinese v14s02_a1e9db9a:
 translate chinese v14s02_29547974:
 
     # u "Maybe a little bit."
-    u "也许有一点吧。"
+    u "也许有一点儿吧。"
 
 # game/v14/scene2.rpy:46
 translate chinese v14s02_2840c8b0:
@@ -82,7 +82,7 @@ translate chinese v14s02_8aa354af:
 translate chinese v14s02_79235e92:
 
     # u "*Laughs* Look at you. Being mature and all."
-    u " *笑* 看看你。变得成熟了。"
+    u "*笑* 看看你。变得成熟了。"
 
 # game/v14/scene2.rpy:104
 translate chinese v14s02_46750048:
@@ -94,13 +94,13 @@ translate chinese v14s02_46750048:
 translate chinese v14s02_fcc18885:
 
     # u "*Laughs*"
-    u " *笑* "
+    u "*笑*"
 
 # game/v14/scene2.rpy:114
 translate chinese v14s02_b3e9a390:
 
     # ry "Imre, he isn't in his-"
-    ry "伊姆雷，他不是在他的-"
+    ry "伊姆雷，他不是在他的……"
 
 # game/v14/scene2.rpy:119
 translate chinese v14s02_14bbb964:
@@ -148,11 +148,11 @@ translate chinese v14s02_8cc8ab17:
 translate chinese v14s02_b9f22368:
 
     # u "*Sighs* Typical Imre."
-    u " *叹息* 典型的伊姆雷。"
+    u "*叹息* 典型的伊姆雷。"
 
 translate chinese strings:
 
     # game/v14/scene2.rpy:36
     old "A little bit"
-    new "有一点"
+    new "有一点儿"
 

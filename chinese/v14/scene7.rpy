@@ -34,13 +34,13 @@ translate chinese v14s07_3d50375e:
 translate chinese v14s07_4a77a35b:
 
     # au "*Whispers* Involved with each other..."
-    au " *低语* 彼此牵扯在一起……"
+    au "*低语* 彼此牵扯在一起……"
 
 # game/v14/scene7.rpy:57
 translate chinese v14s07_81e42504:
 
     # ri "*Whispers* Oh my god, Aubrey! Haha, shhh..."
-    ri " *低语* 我的天，奥布里！哈哈，嘘……"
+    ri "*低语* 噢，我的天，奥布里！哈哈，嘘……"
 
 # game/v14/scene7.rpy:62
 translate chinese v14s07_1f5f7273:
@@ -82,7 +82,7 @@ translate chinese v14s07_1d9e426a:
 translate chinese v14s07_87c36052:
 
     # imre "*Laughs* Not anytime soon."
-    imre " *笑* 短期内不会。"
+    imre "*笑* 短期内不会。"
 
 # game/v14/scene7.rpy:98
 translate chinese v14s07_db7ac4d7:

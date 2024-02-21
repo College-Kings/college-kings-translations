@@ -52,7 +52,7 @@ translate chinese v12_nora_robbed_4e42f73e:
 translate chinese v12_nora_robbed_95231243:
 
     # no "Mo-Ms. Rose, please. I'm fine... Really."
-    no "妈-罗斯女士，别担心。我没事……真的。"
+    no "妈……罗斯女士，别担心。我没事……真的。"
 
 # game/v12/scene1.rpy:81
 translate chinese v12_nora_robbed_fca10fac:
