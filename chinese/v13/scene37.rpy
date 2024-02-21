@@ -22,7 +22,7 @@ translate chinese v13s37_b767411d:
 translate chinese v13s37_9b0fa550:
 
     # li "Well, her suggestions never disappoint. *Chuckles*"
-    li "嗯，她的建议从来不会让人失望。 *咯咯笑* "
+    li "嗯，她的建议从来不会让人失望。 *咯咯笑*"
 
 # game/v13/scene37.rpy:37
 translate chinese v13s37_6fda700f:
@@ -52,7 +52,7 @@ translate chinese v13s37_2f0b729c:
 translate chinese v13s37_f8388e93:
 
     # li "Oooh, okay! I may have to hang out at your house... *Laughs*"
-    li "噢，好吧！我可能得去你家逛逛了…… *笑* "
+    li "噢，好吧！我可能得去你家逛逛了…… *笑*"
 
 # game/v13/scene37.rpy:62
 translate chinese v13s37_980efcc7:
@@ -64,19 +64,19 @@ translate chinese v13s37_980efcc7:
 translate chinese v13s37_1e102926:
 
     # li "*Chuckles* Not like that, fuckboy."
-    li " *咯咯笑* 不是那意思，混蛋。"
+    li "*咯咯笑* 不是那意思，混蛋。"
 
 # game/v13/scene37.rpy:70
 translate chinese v13s37_4c1843f2:
 
     # li "And don't call me Linds... Only the girls and [name] get to call me that. *Laughs*"
-    li "别叫我林……只有女孩和[name]可以这么叫我。 *笑* "
+    li "别叫我林……只有女孩和[name]可以这么叫我。 *笑*"
 
 # game/v13/scene37.rpy:75
 translate chinese v13s37_604c5cb0:
 
     # imre "Well, damn. *Chuckles*"
-    imre "嗯，该死的。 *咯咯笑* "
+    imre "嗯，该死的。 *咯咯笑*"
 
 # game/v13/scene37.rpy:80
 translate chinese v13s37_ed8cfdef:
@@ -130,7 +130,7 @@ translate chinese v13s37_nora_fe11a3c6:
 translate chinese v13s37_nora_afe16e35:
 
     # no "Obviously not good enough... *Chuckles*"
-    no "显然还不够好…… *咯咯笑* "
+    no "显然还不够好…… *咯咯笑*"
 
 # game/v13/scene37.rpy:134
 translate chinese v13s37_nora_ca301da2:
@@ -166,7 +166,7 @@ translate chinese v13s37_nora_fec3c108:
 translate chinese v13s37_nora_8f6c9266:
 
     # u "I saw you avoiding him and it looks as though every smile you give is forced so hard that you're going to throw up. *Chuckles*"
-    u "我看到你在躲着他，看起来你的每一个微笑都是如此勉强，以至于你都要吐了。 *咯咯笑* "
+    u "我看到你在躲着他，看起来你的每一个微笑都是如此勉强，以至于你都要吐了。 *咯咯笑*"
 
 # game/v13/scene37.rpy:166
 translate chinese v13s37_nora_994cbd74:
@@ -196,7 +196,7 @@ translate chinese v13s37_nora_021dcc62:
 translate chinese v13s37_nora_6bb2d893:
 
     # no "*Sighs* And then there's Lindsey..."
-    no " *叹息* 然后就是林赛……"
+    no "*叹息* 然后就是林赛……"
 
 # game/v13/scene37.rpy:188
 translate chinese v13s37_nora_bc767bb6:
@@ -214,7 +214,7 @@ translate chinese v13s37_nora_d6479a59:
 translate chinese v13s37_nora_57b6ddb8:
 
     # no "*Sighs* *Muffled* What am I going to do?"
-    no " *叹息* *低沉* 我该怎么办？"
+    no "*叹息* *低沉* 我该怎么办？"
 
 # game/v13/scene37.rpy:203
 translate chinese v13s37_nora_3982c068:
@@ -250,7 +250,7 @@ translate chinese v13s37_nora_40cd2d32:
 translate chinese v13s37_nora_926924fb:
 
     # no "*Sighs* Please try not to overreact when I tell you this... And I beg you, don't go around telling everybody, but..."
-    no " *叹息* 当我告诉你这件事时，请尽量不要反应过度……我求求你，不要告诉别人，但是……"
+    no "*叹息* 当我告诉你这件事时，请尽量不要反应过度……我求求你，不要告诉别人，但是……"
 
 # game/v13/scene37.rpy:231
 translate chinese v13s37_nora_2a3766fe:
@@ -292,7 +292,7 @@ translate chinese v13s37_nora_4d8be1be:
 translate chinese v13s37_nora_7191d349:
 
     # u "*Sighs* I'm gonna sit here and act like this situation doesn't bother me."
-    u " *叹息* 我要坐在这里，表现得好像这种情况并不困扰我。"
+    u "*叹息* 我要坐在这里，表现得好像这种情况并不困扰我。"
 
 # game/v13/scene37.rpy:271
 translate chinese v13s37_nora_d2a175ee:
@@ -322,7 +322,7 @@ translate chinese v13s37_nora_d4c5f159:
 translate chinese v13s37_nora_5dc5debd:
 
     # no "I will, thanks [name]."
-    no "我会的，谢谢[name]。"
+    no "我会的，谢谢，[name]。"
 
 # game/v13/scene37.rpy:297
 translate chinese v13s37_nora_173f2156:
@@ -334,7 +334,7 @@ translate chinese v13s37_nora_173f2156:
 translate chinese v13s37_nora_7ceb7406:
 
     # u "(Oh wow, she... She does look to me.)"
-    u "(噢，哇，她……她确实看着我。)"
+    u "(噢，哇哦，她……她确实看着我。)"
 
 # game/v13/scene37.rpy:318
 translate chinese v13s37_nora_65e529e9:
@@ -382,7 +382,7 @@ translate chinese v13s37_nora_b260f100:
 translate chinese v13s37_nora_83806e3d:
 
     # imre "*Whisper* What the fuck are you doing?!"
-    imre "*低语* 你们他妈的在干什么？！"
+    imre "*低语* 你们他妈地在干什么？！"
 
 # game/v13/scene37.rpy:398
 translate chinese v13s37_nora_fc058cfc:
@@ -394,13 +394,13 @@ translate chinese v13s37_nora_fc058cfc:
 translate chinese v13s37_nora_30288a84:
 
     # imre "Don't even try gaslighting me into not believing what the fuck I just saw."
-    imre "别想让我不相信我他妈的看到了什么。"
+    imre "别想让我不相信我他妈地看到了什么。"
 
 # game/v13/scene37.rpy:408
 translate chinese v13s37_nora_2c18dcc7:
 
     # imre "How could you guys do this to Chris?! Nora, you're dating Chris..."
-    imre "你怎么能这样对克里斯？！诺拉你在和克里斯约会……"
+    imre "你怎么能这样对克里斯？！诺拉，你在和克里斯约会……"
 
 # game/v13/scene37.rpy:413
 translate chinese v13s37_nora_cf923b3f:
@@ -472,7 +472,7 @@ translate chinese v13s37_nora_b4fdc090:
 translate chinese v13s37_nora_da29cdb3:
 
     # imre "*Sighs* Ahhh!"
-    imre " *叹息* 啊！"
+    imre "*叹息* 啊！"
 
 # game/v13/scene37.rpy:473
 translate chinese v13s37_nora_402687a9:
@@ -526,7 +526,7 @@ translate chinese v13s37_nora_084ab723:
 translate chinese v13s37_nora_91bd159a:
 
     # no "He'll most likely take all of his anger out on me, but that's nothing new. *Chuckles*"
-    no "他很可能会把所有的怒气都发泄在我身上，但这并不是什么新鲜事。 *咯咯笑* "
+    no "他很可能会把所有的怒气都发泄在我身上，但这并不是什么新鲜事。 *咯咯笑*"
 
 # game/v13/scene37.rpy:518
 translate chinese v13s37_nora_f6e45c8f:
@@ -646,7 +646,7 @@ translate chinese v13s37_chris_705ac50f:
 translate chinese v13s37_chris_c9de8c9b:
 
     # u "Yeah, you guys are viewing things a little differently at the moment."
-    u "是啊，你们现在对事情的看法有点不同。"
+    u "好吧，你们现在对事情的看法有点不同。"
 
 # game/v13/scene37.rpy:656
 translate chinese v13s37_chris_99a4956c:
@@ -784,7 +784,7 @@ translate chinese v13s37_chris_4d79bdfd:
 translate chinese v13s37_chris_4663bb1d:
 
     # ch "Yeah, actually... I'm pretty sure her ass cheated on me, ha."
-    ch "是的,实际上……我很确定她对我不忠。"
+    ch "好吧，实际上……我很确定她对我不忠，哈。"
 
 # game/v13/scene37.rpy:778
 translate chinese v13s37_chris_f3e15bed:
@@ -856,13 +856,13 @@ translate chinese v13s37_chris_28dafbd6:
 translate chinese v13s37_chris_404be6ff:
 
     # ch "Well, you can always look away. *Chuckles*"
-    ch "嗯，你可以随时把目光移开。 *咯咯笑* "
+    ch "嗯，你可以随时把目光移开。 *咯咯笑*"
 
 # game/v13/scene37.rpy:838
 translate chinese v13s37_chris_c867674e:
 
     # u "*Chuckles* Is that your way of asking for some alone time?"
-    u " *咯咯笑* 这就是你要求独处的方式吗？"
+    u "*咯咯笑* 这就是你要求独处的方式吗？"
 
 # game/v13/scene37.rpy:843
 translate chinese v13s37_chris_6973ed41:
@@ -970,7 +970,7 @@ translate chinese v13s37_end_83b269b1:
 translate chinese v13s37_end_75811464:
 
     # li "You do that. *Chuckles*"
-    li "可以 *咯咯笑*"
+    li "可以。 *咯咯笑*"
 
 # game/v13/scene37.rpy:952
 translate chinese v13s37_end_29b19b42:

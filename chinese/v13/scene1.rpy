@@ -46,7 +46,7 @@ translate chinese v13_start_a67e8a83:
 translate chinese v13_start_a4de2dd2:
 
     # ri "Well, Charli technically still has no idea that I know it was him. As far as he's concerned, I'm still completely pissed at you."
-    ri "严格来说查理还不知道我已经发现是他做的了。就他目前而言，我应该还在生你的气。"
+    ri "好吧，严格来说查理还不知道我已经发现是他做的了。就他目前而言，我应该还在生你的气。"
 
 # game/v13/scene1.rpy:53
 translate chinese v13_start_e4f2aa99:
@@ -64,13 +64,13 @@ translate chinese v13_start_cd2098b1:
 translate chinese v13_start_2e059ea9:
 
     # u "*Laughs* Okay, I'm also enjoying this, but please don't make that face. I can't take you seriously when you do that... *Chuckles*"
-    u "*笑* 好吧，我也很喜欢这个注意，但是请不要做那个表情。当你那样做的时候我可不敢把你当回事…… *咯咯笑* "
+    u "*笑* 好吧，我也很喜欢这个注意，但是请不要做那个表情。当你那样做的时候我可不敢把你当回事…… *咯咯笑*"
 
 # game/v13/scene1.rpy:66
 translate chinese v13_start_302a0e24:
 
     # ri "It's my evil mastermind face! *Chuckles*"
-    ri "这是我邪恶策划者的脸！ *咯咯笑* "
+    ri "这是我邪恶策划者的脸！ *咯咯笑*"
 
 # game/v13/scene1.rpy:71
 translate chinese v13_start_7b2ce6f3:
@@ -106,7 +106,7 @@ translate chinese v13_start_098b675a:
 translate chinese v13_start_e58d27c3:
 
     # u "This is a bit of a dark side for you, you know? I thought you were a nice girl... *Chuckles*"
-    u "这对你来说有点阴暗面，你知道吗？我以为你是个好女孩…… *咯咯笑* "
+    u "这对你来说有点阴暗面，你知道吗？我以为你是个好女孩…… *咯咯笑*"
 
 # game/v13/scene1.rpy:98
 translate chinese v13_start_07b5f16f:
@@ -118,7 +118,7 @@ translate chinese v13_start_07b5f16f:
 translate chinese v13_start_368bd8e4:
 
     # u "Seems fair. *Chuckles*"
-    u "看起来很公平。 *咯咯笑* "
+    u "看起来很不错。 *咯咯笑*"
 
 # game/v13/scene1.rpy:108
 translate chinese v13_start_51911626:
@@ -154,7 +154,7 @@ translate chinese v13_start_9b7a65be:
 translate chinese v13_start_cec7900a:
 
     # ri "Yep. There's been some in every hotel we've stayed at so far, under the sink in the bathrooms... You can ruin anything with a little bleach."
-    ri "是啊。到目前为止，我们住过的每一家酒店都有一些，在浴室的水槽下面……你可以用一点漂白剂做点事情。"
+    ri "是的。到目前为止，我们住过的每一家酒店都有一些，在浴室的水槽下面……你可以用一点漂白剂做点事情。"
 
 # game/v13/scene1.rpy:138
 translate chinese v13_start_e5e06e74:
@@ -166,7 +166,7 @@ translate chinese v13_start_e5e06e74:
 translate chinese v13_start_68e02dea:
 
     # ri "As far as I know, we-"
-    ri "据我所知，我们-"
+    ri "据我所知，我们……"
 
 # game/v13/scene1.rpy:148
 translate chinese v13_start_74e24ff1:
@@ -178,13 +178,13 @@ translate chinese v13_start_74e24ff1:
 translate chinese v13_start_520f7a01:
 
     # u "Guess that answers my question. *Chuckles*"
-    u "我想这回答了我的问题。 *咯咯笑* "
+    u "我想这回答了我的问题。 *咯咯笑*"
 
 # game/v13/scene1.rpy:166
 translate chinese v13_start_be7aeb77:
 
     # ri "See you on the bus! I'm sure it's like a seven or eight hour ride so you'll be able to sleep most of the way. No murder to commit this time. *Chuckles*"
-    ri "公交车上见！我敢肯定大概有七八个小时的车程，所以你大部分时间都能睡个好觉。这一次不会犯下谋杀罪。 *咯咯笑* "
+    ri "公交车上见！我敢肯定大概有七八个小时的车程，所以你大部分时间都能睡个好觉。这一次不会犯下谋杀罪。 *咯咯笑*"
 
 # game/v13/scene1.rpy:171
 translate chinese v13_start_5ceeadc8:
@@ -244,7 +244,7 @@ translate chinese v13_start_5a8b7caa:
 translate chinese v13_start_2d5b6252:
 
     # ri "*Chuckles* See you later, and thanks again... For being a friend."
-    ri " *咯咯笑* 回头见，再次感谢……感谢你做我的朋友。"
+    ri "*咯咯笑* 回见，再次感谢……感谢你做我的朋友。"
 
 # game/v13/scene1.rpy:234
 translate chinese v13_start_1b28a406:

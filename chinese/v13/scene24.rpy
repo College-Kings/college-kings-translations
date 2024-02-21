@@ -4,7 +4,7 @@
 translate chinese v13s24_7c8ae896:
 
     # barh "Well, well, well... If it isn't the guy who got catfished and his two stalker friends. *Laughs*"
-    barh "好吧，好吧，好吧……这不是被钓到的人和他的两个跟踪狂朋友吗。 *笑* "
+    barh "好吧，好吧，好吧……这不是被钓到的人和他的两个跟踪狂朋友吗。 *笑*"
 
 # game/v13/scene24.rpy:27
 translate chinese v13s24_44aa2436:
@@ -40,13 +40,13 @@ translate chinese v13s24_2ee51159:
 translate chinese v13s24_0a693ca8:
 
     # barh "Well, you're the only guys that came. *Chuckles*"
-    barh "嗯，你们是唯一来的人。 *咯咯笑* "
+    barh "嗯，你们是唯一来的人。 *咯咯笑*"
 
 # game/v13/scene24.rpy:57
 translate chinese v13s24_0aac1053:
 
     # barh "There's three other singles, but they're all girls. One for each of you maybe? *Laughs*"
-    barh "还有另外三个单身的，但都是女孩。也许你们每人一个？ *笑* "
+    barh "还有另外三个单身的，但都是女孩。也许你们每人一个？ *笑*"
 
 # game/v13/scene24.rpy:66
 translate chinese v13s24_a272651b:
@@ -64,13 +64,13 @@ translate chinese v13s24_9bac5a46:
 translate chinese v13s24_6ff33369:
 
     # imre "Sucks for him! *Laughs*"
-    imre "他太差劲了！ *笑* "
+    imre "他太差劲了！ *笑*"
 
 # game/v13/scene24.rpy:81
 translate chinese v13s24_636a0944:
 
     # ry "*Laughs*"
-    ry " *笑* "
+    ry "*笑*"
 
 # game/v13/scene24.rpy:96
 translate chinese v13s24_4f18f734:
@@ -82,19 +82,19 @@ translate chinese v13s24_4f18f734:
 translate chinese v13s24_53f2c91e:
 
     # u "Fuck yeah, let's mingle boys! *Chuckles*"
-    u "管他呢，让我们找点乐子吧！ *咯咯笑* "
+    u "管他呢，让我们找点乐子吧！ *咯咯笑*"
 
 # game/v13/scene24.rpy:111
 translate chinese v13s24_9a4c007d:
 
     # u "One for all and all for... Well, when you guys are finished it can be all for one. *Chuckles*"
-    u "我为人人，人人为……嗯，等你们吃完了就可以一个人吃了。 *咯咯笑* "
+    u "我为人人，人人为……嗯，等你们吃完了就可以一个人吃了。 *咯咯笑*"
 
 # game/v13/scene24.rpy:116
 translate chinese v13s24_5a57bf68:
 
     # barh "*Laughs* I like this guy!"
-    barh " *笑* 我喜欢这家伙！"
+    barh "*笑* 我喜欢这家伙！"
 
 # game/v13/scene24.rpy:121
 translate chinese v13s24_bb14c792:
@@ -124,7 +124,7 @@ translate chinese v13s24_908bc35a:
 translate chinese v13s24_81b31876:
 
     # barh "*Chuckles* Don't worry, pal."
-    barh " *咯咯笑* 别担心，伙计。"
+    barh "*咯咯笑* 别担心，伙计。"
 
 # game/v13/scene24.rpy:146
 translate chinese v13s24_67fec6d2:
@@ -136,7 +136,7 @@ translate chinese v13s24_67fec6d2:
 translate chinese v13s24_1468676f:
 
     # ry "Ooooh! *Laughs*"
-    ry "噢！ *笑* "
+    ry "噢！ *笑*"
 
 # game/v13/scene24.rpy:156
 translate chinese v13s24_2d13d1d4:
@@ -154,7 +154,7 @@ translate chinese v13s24_72bd1e82:
 translate chinese v13s24_a04e28fe:
 
     # ry "*Chuckles* Here we go..."
-    ry " *咯咯笑* 开始吧……"
+    ry "*咯咯笑* 开始吧……"
 
 # game/v13/scene24.rpy:186
 translate chinese v13s24_3870fa11:
@@ -166,7 +166,7 @@ translate chinese v13s24_3870fa11:
 translate chinese v13s24_8821924b:
 
     # u "*Laughs* Okay, cornball catfish."
-    u " *笑* 好的，菜鸟骗子。"
+    u "*笑* 好的，菜鸟骗子。"
 
 # game/v13/scene24.rpy:196
 translate chinese v13s24_c1c9f666:
@@ -178,13 +178,13 @@ translate chinese v13s24_c1c9f666:
 translate chinese v13s24_7b1eda8d:
 
     # u "What does that change? *Laughs*"
-    u "这有什么区别？ *笑* "
+    u "这有什么区别？ *笑*"
 
 # game/v13/scene24.rpy:206
 translate chinese v13s24_ca781d8b:
 
     # ry "*Chuckles* You guys think the questions will be really deep or just like, surface level?"
-    ry " *咯咯笑* 你们认为问题会真的很深刻，还是只是表面上的？"
+    ry "*咯咯笑* 你们认为问题会真的很深刻，还是只是表面上的？"
 
 # game/v13/scene24.rpy:211
 translate chinese v13s24_2d5f576b:
@@ -202,7 +202,7 @@ translate chinese v13s24_2661a731:
 translate chinese v13s24_4e4e84be:
 
     # u "What's wrong? Getting nervous about that new hairdo all of a sudden? *Laughs*"
-    u "怎么了？突然对那个新发型感到紧张？ *笑* "
+    u "怎么了？突然对那个新发型感到紧张？ *笑*"
 
 # game/v13/scene24.rpy:226
 translate chinese v13s24_aa959be9:
@@ -214,13 +214,13 @@ translate chinese v13s24_aa959be9:
 translate chinese v13s24_3da94aee:
 
     # imre "*Laughs* Either way, I'm dicking someone down after this, boys."
-    imre " *笑* 不管怎样，我一定要找个人来干，伙计们。"
+    imre "*笑* 不管怎样，我一定要找个人来干，伙计们。"
 
 # game/v13/scene24.rpy:236
 translate chinese v13s24_7a00164e:
 
     # ry "What the hell are you on about? As soon as they see that cupcake on your boob they'll be long gone. *Laughs*"
-    ry "你在说什么？她们一看到你胸前的小蛋糕就会跑得远远的。 *笑* "
+    ry "你在说什么？她们一看到你胸前的小蛋糕就会跑得远远的。 *笑*"
 
 # game/v13/scene24.rpy:241
 translate chinese v13s24_541c0ecf:
@@ -238,7 +238,7 @@ translate chinese v13s24_f1abdfcb:
 translate chinese v13s24_91811a7e:
 
     # imre "Man, you guys are a bunch a d-"
-    imre "伙计，你们真是一群-"
+    imre "伙计，你们真是一群……"
 
 # game/v13/scene24.rpy:256
 translate chinese v13s24_071b7714:
@@ -256,13 +256,13 @@ translate chinese v13s24_43f36c39:
 translate chinese v13s24_8cf23b47:
 
     # emmy "*Whispers* Is that you [name]?"
-    emmy " *低语* 是你吗？[name]？"
+    emmy "*低语* 是你吗？[name]？"
 
 # game/v13/scene24.rpy:308
 translate chinese v13s24_16370306:
 
     # u "*Whispers* In the flesh."
-    u " *低语* 是我本人。"
+    u "*低语* 是我本人。"
 
 # game/v13/scene24.rpy:313
 translate chinese v13s24_83f214d1:
@@ -292,7 +292,7 @@ translate chinese v13s24_dcefbf14:
 translate chinese v13s24_79f229ba:
 
     # u "I'm ready when you are. *Chuckles*"
-    u "你准备好的时候我就准备好了。 *咯咯笑* "
+    u "你准备好的时候我就准备好了。 *咯咯笑*"
 
 # game/v13/scene24.rpy:338
 translate chinese v13s24_3083dc7b:
@@ -340,13 +340,13 @@ translate chinese v13s24_ea7ef44b:
 translate chinese v13s24_eb8b1f7d:
 
     # ry "Well, I'll be honest. I'm not interested in having kids at this very moment, but I do want children in the future... And many of them. *Chuckles*"
-    ry "嗯，老实说。我现在对要孩子不感兴趣，但我确实想在未来要孩子……他们中的许多人。 *咯咯笑* "
+    ry "嗯，老实说。我现在对要孩子不感兴趣，但我确实想在未来要孩子……他们中的许多人。 *咯咯笑*"
 
 # game/v13/scene24.rpy:383
 translate chinese v13s24_62ae606a:
 
     # u "Yeah, I'm on the no kids vibe at the moment too. Guess it's just not something I think about."
-    u "是啊，我现在也不想要孩子。我想这不是我想的。"
+    u "好吧，我现在也不想要孩子。我想这不是我想的。"
 
 # game/v13/scene24.rpy:396
 translate chinese v13s24_7d456685:
@@ -358,7 +358,7 @@ translate chinese v13s24_7d456685:
 translate chinese v13s24_80915f3f:
 
     # emmy "Okay... Interesting answers so far. *Chuckles*"
-    emmy "好的……到目前为止答案很有趣。 *咯咯笑* "
+    emmy "好的……到目前为止答案很有趣。 *咯咯笑*"
 
 # game/v13/scene24.rpy:411
 translate chinese v13s24_2d6932e0:
@@ -400,7 +400,7 @@ translate chinese v13s24_faa209bf:
 translate chinese v13s24_e82fde9b:
 
     # emmy "Oh... Interesting. *Chuckles*"
-    emmy "噢……有意思。 *咯咯笑* "
+    emmy "噢……有意思。 *咯咯笑*"
 
 # game/v13/scene24.rpy:454
 translate chinese v13s24_b89ce054:
@@ -418,7 +418,7 @@ translate chinese v13s24_67e9bffa:
 translate chinese v13s24_1f75e0d9:
 
     # emmy "Very sure. *Chuckles*"
-    emmy "非常确定。 *咯咯笑* "
+    emmy "非常确定。 *咯咯笑*"
 
 # game/v13/scene24.rpy:469
 translate chinese v13s24_1e42516a:
@@ -436,7 +436,7 @@ translate chinese v13s24_bbf83e75:
 translate chinese v13s24_7e5fc5a8:
 
     # imre "*Chuckles* She was definitely into me."
-    imre " *咯咯笑* 她绝对喜欢我。"
+    imre "*咯咯笑* 她绝对喜欢我。"
 
 # game/v13/scene24.rpy:494
 translate chinese v13s24_bd473ad6:
@@ -478,13 +478,13 @@ translate chinese v13s24_0781f5c6:
 translate chinese v13s24_82684d4d:
 
     # imre "*Whisper* Simp."
-    imre " *低语* 舔狗。"
+    imre "*低语* 舔狗。"
 
 # game/v13/scene24.rpy:539
 translate chinese v13s24_8569c4fa:
 
     # u "*Chuckles*"
-    u " *咯咯笑* "
+    u "*咯咯笑*"
 
 # game/v13/scene24.rpy:544
 translate chinese v13s24_8cc5c530:
@@ -508,7 +508,7 @@ translate chinese v13s24_45b84f7b:
 translate chinese v13s24_9dc2512c:
 
     # imre "Sorry babe, that's not for me. *Laughs*"
-    imre "抱歉，宝贝，那不适合我。 *笑* "
+    imre "抱歉，宝贝儿，那不适合我。 *笑*"
 
 # game/v13/scene24.rpy:564
 translate chinese v13s24_ddf1de4c:
@@ -532,7 +532,7 @@ translate chinese v13s24_206b4b50:
 translate chinese v13s24_738eb004:
 
     # kourt "Well, I can easily see who is and isn't a real man. *Chuckles*"
-    kourt "嗯，我很容易看出谁是真正的男人，谁不是真正的男人。 *咯咯笑* "
+    kourt "嗯，我很容易看出谁是真正的男人，谁不是真正的男人。 *咯咯笑*"
 
 # game/v13/scene24.rpy:592
 translate chinese v13s24_efc11d65:
@@ -580,13 +580,13 @@ translate chinese v13s24_d938af94:
 translate chinese v13s24_9cde89e0:
 
     # imre "*Shocked* I was just... They brought up the- Nevermind. *Sighs*"
-    imre " *震惊* 我只是……他们提到了-不要紧。 *叹息* "
+    imre " *震惊* 我只是……他们提到了……算了。 *叹息*"
 
 # game/v13/scene24.rpy:667
 translate chinese v13s24_ddfda04c:
 
     # ary "*Chuckles* Okay so, I also just have one question."
-    ary " *咯咯笑* 好吧，那，我也只有一个问题。"
+    ary "*咯咯笑* 好吧，那，我也只有一个问题。"
 
 # game/v13/scene24.rpy:672
 translate chinese v13s24_9361e64a:
@@ -622,13 +622,13 @@ translate chinese v13s24_4c931dae:
 translate chinese v13s24_1912699c:
 
     # u "Why work if you're rich? Isn't that the point in getting rich? So that you don't have to work? *Chuckles*"
-    u "如果你有钱，为什么还要工作呢？这不就是致富的意义所在吗？这样你就不用工作了？ *咯咯笑* "
+    u "如果你有钱，为什么还要工作呢？这不就是致富的意义所在吗？这样你就不用工作了？ *咯咯笑*"
 
 # game/v13/scene24.rpy:711
 translate chinese v13s24_93ff3184:
 
     # imre "*Laughs*"
-    imre " *笑* "
+    imre "*笑*"
 
 # game/v13/scene24.rpy:716
 translate chinese v13s24_21e94b82:
@@ -640,7 +640,7 @@ translate chinese v13s24_21e94b82:
 translate chinese v13s24_2f7ef2e8:
 
     # u "We try to be different. *Chuckles*"
-    u "我们试着与众不同。 *咯咯笑* "
+    u "我们试着与众不同。 *咯咯笑*"
 
 # game/v13/scene24.rpy:726
 translate chinese v13s24_d9d65155:
@@ -664,7 +664,7 @@ translate chinese v13s24_09c898e5:
 translate chinese v13s24_7dec8eab:
 
     # barh "That's what she said. *Laughs*"
-    barh "她也是这么说的。 *笑* "
+    barh "她也是这么说的。 *笑*"
 
 # game/v13/scene24.rpy:761
 translate chinese v13s24_fddc9f3b:
@@ -688,13 +688,13 @@ translate chinese v13s24_c3fa8ad4:
 translate chinese v13s24_03a152a3:
 
     # imre "I'm all yours baby!"
-    imre "我是你的了，宝贝！"
+    imre "我是你的了，宝贝儿！"
 
 # game/v13/scene24.rpy:854
 translate chinese v13s24_df301529:
 
     # emmy "*Chuckles*"
-    emmy " *咯咯笑* "
+    emmy "*咯咯笑*"
 
 # game/v13/scene24.rpy:859
 translate chinese v13s24_0701fbde:
@@ -748,7 +748,7 @@ translate chinese v13s24_emmy_date_64403f9e:
 translate chinese v13s24_emmy_date_2bac152c:
 
     # u "Sorry man. *Chuckles*"
-    u "抱歉，伙计。 *咯咯笑* "
+    u "抱歉，伙计。 *咯咯笑*"
 
 # game/v13/scene24.rpy:947
 translate chinese v13s24_kourtney_date_203bc2fe:
@@ -784,7 +784,7 @@ translate chinese v13s24_no_simplr_date_16d492ef:
 translate chinese v13s24_no_simplr_date_44f57a7a:
 
     # imre "Well, we will enjoy ourselves. *Chuckles*"
-    imre "嗯，我们会玩得很开心的。 *咯咯笑* "
+    imre "嗯，我们会玩得很开心的。 *咯咯笑*"
 
 translate chinese strings:
 

@@ -4,13 +4,13 @@
 translate chinese v13s9_264d220a:
 
     # cl "Oh! Hey there handsome. Guess I won't have to go around the hotel looking for you since you're right here. *Chuckles*"
-    cl "噢！嘿，你好啊，帅哥。既然你就在这里，我想我就不用到处找你了。 *咯咯笑* "
+    cl "噢！嘿，你好啊，帅哥。既然你就在这里，我想我就不用到处找你了。 *咯咯笑*"
 
 # game/v13/scene9.rpy:44
 translate chinese v13s9_f74fa973:
 
     # cl "Oh! Hey [name]. Guess I won't have to go around the hotel looking for you since you're right here. *Chuckles*"
-    cl "噢！嘿，[name]。既然你就在这里，我想我就不用到处找你了。 *咯咯笑* "
+    cl "噢！嘿，[name]。既然你就在这里，我想我就不用到处找你了。 *咯咯笑*"
 
 # game/v13/scene9.rpy:49
 translate chinese v13s9_e9213d83:
@@ -94,7 +94,7 @@ translate chinese v13s9_fc455de7:
 translate chinese v13s9_65e70801:
 
     # cl "I'm really not sure... *Chuckles*"
-    cl "我不确定…… *咯咯笑* "
+    cl "我不确定…… *咯咯笑*"
 
 # game/v13/scene9.rpy:157
 translate chinese v13s9_48956dec:
@@ -148,7 +148,7 @@ translate chinese v13s9_a6624c0e:
 translate chinese v13s9_d52cfec3:
 
     # cl "I haven't, no. I know we're all open and honest and everything, but I just don't feel that it's my place. Knowing her she'd say the same thing... *Chuckles*"
-    cl "我还没，没有。我知道我们都是开诚布公的，但我就是觉得这不是我该做的。我了解她，她也会说同样的话。 *咯咯笑* "
+    cl "我还没，没有。我知道我们都是开诚布公的，但我就是觉得这不是我该做的。我了解她，她也会说同样的话。 *咯咯笑*"
 
 # game/v13/scene9.rpy:204
 translate chinese v13s9_33196883:
@@ -190,7 +190,7 @@ translate chinese v13s9_b6a9ed93:
 translate chinese v13s9_81d14080:
 
     # u "*Sighs* Yeah, I heard about that..."
-    u " *叹息* 是的，我听说了……"
+    u "*叹息* 是的，我听说了……"
 
 # game/v13/scene9.rpy:249
 translate chinese v13s9_2ca1a5e1:
@@ -322,7 +322,7 @@ translate chinese v13s9_bb341a25:
 translate chinese v13s9_571fb994:
 
     # cl "*Sighs* I can understand that..."
-    cl " *叹息* 我能理解……"
+    cl "*叹息* 我能理解……"
 
 # game/v13/scene9.rpy:381
 translate chinese v13s9_27b3d344:
@@ -352,7 +352,7 @@ translate chinese v13s9_9d1c29ca:
 translate chinese v13s9_0e455dd7:
 
     # cl "*Chuckles* I guess you're right."
-    cl " *咯咯笑* 我想你是对的。"
+    cl "*咯咯笑* 我想你是对的。"
 
 # game/v13/scene9.rpy:406
 translate chinese v13s9_150198ab:
@@ -376,13 +376,13 @@ translate chinese v13s9_0b525d4c:
 translate chinese v13s9_efd69ff7:
 
     # cl "I wanted to go in, but I was a little nervous to tell Aubrey. *Chuckles*"
-    cl "我想进去，但是告诉奥布里我有点紧张。 *咯咯笑* "
+    cl "我想进去，但是告诉奥布里我有点紧张。 *咯咯笑*"
 
 # game/v13/scene9.rpy:425
 translate chinese v13s9_216eab03:
 
     # u "Oooh, didn't know that was your kind of scene... *Chuckles*"
-    u "噢，我不知道那是你喜欢的场景…… *咯咯笑* "
+    u "噢，我不知道那是你喜欢的场景…… *咯咯笑*"
 
 # game/v13/scene9.rpy:430
 translate chinese v13s9_5d19c41d:
@@ -400,7 +400,7 @@ translate chinese v13s9_cd4015bf:
 translate chinese v13s9_6bc519c3:
 
     # cl "Don't embarrass me. *Chuckles*"
-    cl "别让我难堪。 *咯咯笑* "
+    cl "别让我难堪。 *咯咯笑*"
 
 # game/v13/scene9.rpy:447
 translate chinese v13s9_2123b5c7:
@@ -412,19 +412,19 @@ translate chinese v13s9_2123b5c7:
 translate chinese v13s9_2ba36ea4:
 
     # cl "*Chuckles* Okay, fine. I wanna know what cute cuffs and blindfolds they have."
-    cl " *咯咯笑* 好的，好的。我想知道他们有什么可爱的手铐啊、眼罩啊之类的。"
+    cl "*咯咯笑* 好了，好了。我想知道他们有没有什么可爱的手铐啊、眼罩啊之类的。"
 
 # game/v13/scene9.rpy:457
 translate chinese v13s9_68260e11:
 
     # u "Oh, so that's your kind of thing... Good to know. *Chuckles*"
-    u "噢，那这就是你喜欢的类型了……很高兴知道这一点。 *咯咯笑* "
+    u "噢，那这就是你喜欢的类型了……很高兴知道这一点。 *咯咯笑*"
 
 # game/v13/scene9.rpy:462
 translate chinese v13s9_dba26293:
 
     # cl "Oh, you're being bold today. *Laughs*"
-    cl "噢，你今天太大胆了。*笑* "
+    cl "噢，你今天太大胆了。*笑*"
 
 # game/v13/scene9.rpy:467
 translate chinese v13s9_122a4a09:
@@ -436,13 +436,13 @@ translate chinese v13s9_122a4a09:
 translate chinese v13s9_426c8d9e:
 
     # cl "You know, I've always had a fantasy of being tied up and left to someone's will... Like some Fifty Shades of Chloe. *Chuckles*"
-    cl "你知道吗，我一直幻想着被绑起来任由某人的意志支配……就像克洛伊的“五十度灰”。 *咯咯笑* "
+    cl "你知道吗，我一直幻想着被绑起来任由某人的意志支配……就像克洛伊的\"五十度灰\"。 *咯咯笑*"
 
 # game/v13/scene9.rpy:477
 translate chinese v13s9_eb9044aa:
 
     # u "Oh... Well... That's spicy. *Laughs*"
-    u "噢……嗯……简直辣眼睛。 *笑* "
+    u "噢……嗯……简直辣眼睛。 *笑*"
 
 # game/v13/scene9.rpy:483
 translate chinese v13s9_65f3e6e6:
@@ -466,7 +466,7 @@ translate chinese v13s9_f0d393a9:
 translate chinese v13s9_bf3070a2:
 
     # u "Alright, I get it... You don't have to tell me twice. *Chuckles*"
-    u "好的，我明白了……你不必告诉我两次。 *咯咯笑* "
+    u "好的，我明白了……你不必告诉我两次。 *咯咯笑*"
 
 # game/v13/scene9.rpy:503
 translate chinese v13s9_d8c36300:
@@ -484,7 +484,7 @@ translate chinese v13s9_2243895b:
 translate chinese v13s9_2899d738:
 
     # cl "Well, anytime would be fine. Whenever you-"
-    cl "嗯，任何时候都可以。每当你-"
+    cl "嗯，任何时候都可以。每当你……"
 
 # game/v13/scene9.rpy:520
 translate chinese v13s9_7503519e:
@@ -514,7 +514,7 @@ translate chinese v13s9_462ff2ce:
 translate chinese v13s9_e2b2c3d9:
 
     # u "*Sighs* What's up?"
-    u " *叹息* 怎么了？"
+    u "*叹息* 怎么了？"
 
 # game/v13/scene9.rpy:547
 translate chinese v13s9_691ddca0:
@@ -544,13 +544,13 @@ translate chinese v13s9_128873ca:
 translate chinese v13s9_6b0366a7:
 
     # u "*Laughs* Why?"
-    u " *笑* 为什么？"
+    u "*笑* 为什么？"
 
 # game/v13/scene9.rpy:572
 translate chinese v13s9_be9a607c:
 
     # ry "I just got a bad vibe... You know I'm not his biggest fan but, I'm not about to see him get beat up by some con."
-    ry "我只是有种不好的预感。你知道我不是他的忠实粉丝，但是我不想看到他被什么骗子打。"
+    ry "我只是有种不好的预感……你知道我不是他的忠实粉丝，但是我不想看到他被什么骗子打一顿。"
 
 # game/v13/scene9.rpy:577
 translate chinese v13s9_6fe63dc4:
@@ -568,13 +568,13 @@ translate chinese v13s9_f00f6265:
 translate chinese v13s9_470728b1:
 
     # u "*Sighs* You really feel like something's up?"
-    u " *叹息* 你真的觉得有什么不对劲吗？"
+    u "*叹息* 你真的觉得有什么不对劲吗？"
 
 # game/v13/scene9.rpy:592
 translate chinese v13s9_84c9a43d:
 
     # ry "Yeah, man."
-    ry "是啊，伙计。"
+    ry "是的，伙计。"
 
 # game/v13/scene9.rpy:598
 translate chinese v13s9_d09f04f3:
@@ -592,7 +592,7 @@ translate chinese v13s9_1c396f38:
 translate chinese v13s9_no_concert_ee992f10:
 
     # u "*Sighs* Alright man, I'll go."
-    u " *叹息* 好吧，我跟你去。"
+    u "*叹息* 好吧，我跟你去。"
 
 # game/v13/scene9.rpy:629
 translate chinese v13s9_no_concert_d0712ef7:
@@ -604,7 +604,7 @@ translate chinese v13s9_no_concert_d0712ef7:
 translate chinese v13s9_no_concert_42589953:
 
     # u "*Chuckles* Why so specific?"
-    u " *咯咯笑* 为什么这么具体？"
+    u "*咯咯笑* 为什么这么具体？"
 
 # game/v13/scene9.rpy:639
 translate chinese v13s9_no_concert_4d45ad42:
@@ -652,7 +652,7 @@ translate chinese v13s9_continue_276d1d8d:
 translate chinese v13s9_continue_51055ded:
 
     # u "Imre has a date and Ryan thinks it's a catfish."
-    u "伊姆雷有个约会，瑞恩认为是仙人跳。"
+    u "伊姆雷有个约会，瑞恩认为可能是仙人跳。"
 
 # game/v13/scene9.rpy:689
 translate chinese v13s9_continue_f9f486b2:

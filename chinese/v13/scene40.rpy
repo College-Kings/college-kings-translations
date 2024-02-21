@@ -28,7 +28,7 @@ translate chinese v13s40_ee5858b0:
 translate chinese v13s40_1a2be665:
 
     # cl "Bored and looking for something to do... *Chuckles*"
-    cl "无聊又想找点事做…… *咯咯笑* "
+    cl "无聊又想找点事做…… *咯咯笑*"
 
 # game/v13/scene40.rpy:42
 translate chinese v13s40_733bb4d9:
@@ -52,13 +52,13 @@ translate chinese v13s40_d847467f:
 translate chinese v13s40_edc7a6f1:
 
     # cl "Then I'd say what are we doing down here? *Chuckles*"
-    cl "那我就会说，我们在这里做什么？ *咯咯笑* "
+    cl "那我就会说，我们在这里做什么？ *咯咯笑*"
 
 # game/v13/scene40.rpy:62
 translate chinese v13s40_b496b020:
 
     # u "*Whispers* Lead the way."
-    u "*低语* 带路。"
+    u "*低语* 带路吧。"
 
 # game/v13/scene40.rpy:100
 translate chinese v13s40_sg_3d5e86bb:
@@ -76,7 +76,7 @@ translate chinese v13s40_sg_8d3fb640:
 translate chinese v13s40_sg_e81229fa:
 
     # cl "I'm a little nervous, but plenty excited... *Chuckles*"
-    cl "我有点紧张，但很兴奋…… *咯咯笑* "
+    cl "我有点紧张，但很兴奋…… *咯咯笑*"
 
 # game/v13/scene40.rpy:120
 translate chinese v13s40_sg_abbd42a5:
@@ -106,7 +106,7 @@ translate chinese v13s40_honey_9d37a92b:
 translate chinese v13s40_honey_96078e8e:
 
     # u "Call me Pinnie Wooh."
-    u "叫我品妮·吴就行了。"
+    u "叫我小熊面包机就行。"
 
 # game/v13/scene40.rpy:182
 translate chinese v13s40_honey_108b353e:
@@ -148,7 +148,7 @@ translate chinese v13s40_feather_d3d8cf76:
 translate chinese v13s40_feather_dfb264f6:
 
     # cl "No... Please, keep going. *Chuckles*"
-    cl "不……继续 *咯咯笑*"
+    cl "不……继续。 *咯咯笑*"
 
 # game/v13/scene40.rpy:242
 translate chinese v13s40_feather_a96629c9:
@@ -250,7 +250,7 @@ translate chinese v13s40_end_free_roam_11cc959b:
 translate chinese v13s40_end_free_roam_d0d27b89:
 
     # cl "*Moans* F-fuck baby... No one's ever been able to bring this side out of me!"
-    cl "*呻吟* 操他妈的宝贝……从来没有人能把我的这一面带出来！"
+    cl "*呻吟* 操他妈的宝贝儿……从来没有人能把我的这一面带出来！"
 
 # game/v13/scene40.rpy:543
 translate chinese v13s40_end_free_roam_9b7f914a:
@@ -274,7 +274,7 @@ translate chinese v13s40_end_free_roam_a96629c9:
 translate chinese v13s40_end_free_roam_00db36d7:
 
     # cl "I... *Moans* Like it... Rough... *Whispers* F-Fuck... Like this... [name]!"
-    cl "我…… *呻吟* 喜欢它……粗暴的…… *耳语* 操……就像这样……[name]！"
+    cl "我…… *呻吟* 喜欢它……粗暴的…… *低语* 操……就像这样……[name]！"
 
 # game/v13/scene40.rpy:582
 translate chinese v13s40_end_free_roam_8b069716:
@@ -334,13 +334,13 @@ translate chinese v13s40_end_free_roam_95500d1c:
 translate chinese v13s40_end_free_roam_0851ab45:
 
     # cl "[name]! *Gasps* F-f-uck... *Moans*"
-    cl "[name]！ *喘气* 操-操-我操…… *呻吟*"
+    cl "[name]！ *喘气* 操……天呐……我操…… *呻吟*"
 
 # game/v13/scene40.rpy:667
 translate chinese v13s40_end_free_roam_93cb64d6:
 
     # u "Ah, shit Chlo... *Moans* You- I'm-"
-    u "啊，该死的克洛…… *呻吟* 你-我-"
+    u "啊，该死的克洛…… *呻吟* 你……我要……"
 
 # game/v13/scene40.rpy:673
 translate chinese v13s40_end_free_roam_79439081:

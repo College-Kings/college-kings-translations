@@ -22,7 +22,7 @@ translate chinese v13s06_603ef0a2:
 translate chinese v13s06_8b258704:
 
     # u "Huh?"
-    u "哈？"
+    u "嗯？"
 
 # game/v13/scene6.rpy:52
 translate chinese v13s06_87d46caf:
@@ -34,7 +34,7 @@ translate chinese v13s06_87d46caf:
 translate chinese v13s06_b944ff66:
 
     # u "Ahh, guess nothing gets past you, huh?"
-    u "看来什么都瞒不过你了？"
+    u "啊。看来什么都瞒不过你了？"
 
 # game/v13/scene6.rpy:62
 translate chinese v13s06_1606a6b0:
@@ -52,13 +52,13 @@ translate chinese v13s06_b8a31fd8:
 translate chinese v13s06_446d3ce3:
 
     # luuk "I work at a hotel, everyone I talk to is someone I just met. *Chuckles*"
-    luuk "我在酒店工作，跟我说话的人都是我刚认识的。 *咯咯笑* "
+    luuk "我在酒店工作，跟我说话的人都是我刚认识的。 *咯咯笑*"
 
 # game/v13/scene6.rpy:77
 translate chinese v13s06_e90bde5a:
 
     # u "*Chuckles* Fair enough."
-    u " *咯咯笑* 好吧。"
+    u "*咯咯笑* 好吧。"
 
 # game/v13/scene6.rpy:82
 translate chinese v13s06_0f667cbd:
@@ -82,7 +82,7 @@ translate chinese v13s06_105ab2c3:
 translate chinese v13s06_81e13938:
 
     # u "Oh, okay. Thanks for the info."
-    u "噢，好的。谢谢为我提供信息。"
+    u "噢，好吧。谢谢为我提供信息。"
 
 # game/v13/scene6.rpy:102
 translate chinese v13s06_15fc4831:
@@ -106,7 +106,7 @@ translate chinese v13s06_b8defaf3:
 translate chinese v13s06_f599782e:
 
     # u "Huh... You've really thought this through. *Chuckles*"
-    u "嗯……你想得真周到。 *咯咯笑* "
+    u "嗯……你想得真周到。 *咯咯笑*"
 
 # game/v13/scene6.rpy:122
 translate chinese v13s06_aedab0ce:
@@ -124,7 +124,7 @@ translate chinese v13s06_9d6f835a:
 translate chinese v13s06_d09cc295:
 
     # luuk "You're not built for this kind of life, trust me. *Chuckles*"
-    luuk "你不是为这种生活而生，相信我。 *咯咯笑* "
+    luuk "你不是为这种生活而生的，相信我。 *咯咯笑*"
 
 # game/v13/scene6.rpy:139
 translate chinese v13s06_15ac0275:
@@ -142,13 +142,13 @@ translate chinese v13s06_d99dfb80:
 translate chinese v13s06_cede5d4d:
 
     # luuk "Impressive. *Chuckles*"
-    luuk "印象深刻。 *咯咯笑* "
+    luuk "印象深刻。 *咯咯笑*"
 
 # game/v13/scene6.rpy:160
 translate chinese v13s06_ab3b95ae:
 
     # u "Yeah, probably not. More of a straight and narrow kind of guy."
-    u "是的，可能不会。更像个坦率而缜密的人。"
+    u "好吧，可能不是。更像个坦率而缜密的人。"
 
 # game/v13/scene6.rpy:165
 translate chinese v13s06_e116ec3b:
@@ -166,7 +166,7 @@ translate chinese v13s06_d004697c:
 translate chinese v13s06_d1f9aeb6:
 
     # luuk "That they do. *Chuckles*"
-    luuk "他们确实是这么做的。 *咯咯笑* "
+    luuk "他们确实是这么做的。 *咯咯笑*"
 
 # game/v13/scene6.rpy:180
 translate chinese v13s06_351fb9a5:

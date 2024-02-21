@@ -28,7 +28,7 @@ translate chinese v13s47_20260e99:
 translate chinese v13s47_532d3eef:
 
     # u "Sure, I could use a-"
-    u "当然，我可以用-"
+    u "当然，我可以用……"
 
 # game/v13/scene47.rpy:49
 translate chinese v13s47_16003780:

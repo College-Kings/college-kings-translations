@@ -22,7 +22,7 @@ translate chinese v13s21a_663768d9:
 translate chinese v13s21a_1c523430:
 
     # lee "That's not your concern, I need to-"
-    lee "这不关你的事，我需要-"
+    lee "这不关你的事，我需要……"
 
 # game/v13/scene21a.rpy:43
 translate chinese v13s21a_9ea8e647:
@@ -40,7 +40,7 @@ translate chinese v13s21a_acac8fe1:
 translate chinese v13s21a_53563c58:
 
     # charli "Huh? What are you-"
-    charli "哈？你在干什么-"
+    charli "嗯？你在干什么……"
 
 # game/v13/scene21a.rpy:63
 translate chinese v13s21a_27edd57c:
@@ -106,25 +106,25 @@ translate chinese v13s21a_72a5ca20:
 translate chinese v13s21a_39522f8f:
 
     # charli "Your students goof off without concern for you or anyone else. They aren't learning from you any more than they're learning from me. *Chuckles*"
-    charli "你的学生游手好闲，不关心你或其他任何人。他们不会向你学习，就像他们不会向我学习一样。 *咯咯笑* "
+    charli "你的学生游手好闲，不关心你或其他任何人。他们不会向你学习，就像他们不会向我学习一样。 *咯咯笑*"
 
 # game/v13/scene21a.rpy:142
 translate chinese v13s21a_e4d08bde:
 
     # lee "*Whisper* Remove. Your hand. Now."
-    lee " *低语* 拿走。你的手。现在。"
+    lee "*低语* 拿开……你的手……马上。"
 
 # game/v13/scene21a.rpy:147
 translate chinese v13s21a_999babd9:
 
     # charli "Excuse me?"
-    charli "对不起？"
+    charli "什么？"
 
 # game/v13/scene21a.rpy:152
 translate chinese v13s21a_88bf6d05:
 
     # lee "I SAID, REMOVE. YOUR. HAND!"
-    lee "我说了，放开。你的。手！"
+    lee "我说了，拿开……你的……手！"
 
 # game/v13/scene21a.rpy:167
 translate chinese v13s21a_852175cf:
@@ -136,7 +136,7 @@ translate chinese v13s21a_852175cf:
 translate chinese v13s21a_3ea9846f:
 
     # ri "*Whisper* This is getting pretty ugly..."
-    ri " *低语* 这变得相当难堪……"
+    ri "*低语* 这变得相当难堪……"
 
 # game/v13/scene21a.rpy:177
 translate chinese v13s21a_d718e5ff:
@@ -178,13 +178,13 @@ translate chinese v13s21a_9c3d83ea:
 translate chinese v13s21a_40992525:
 
     # charli "This isn't fair! I've done nothing wrong! I-"
-    charli "这不公平！我没做错什么！我-"
+    charli "这不公平！我没做错什么！我……"
 
 # game/v13/scene21a.rpy:230
 translate chinese v13s21a_4140a1cd:
 
     # charli "It was you! You sent that email! You must've broken into my room..."
-    charli "是你干的！那封电子邮件是你发的！你一定是闯进了我的房间6"
+    charli "是你干的！那封电子邮件是你发的！你一定是闯进了我的房间……"
 
 # game/v13/scene21a.rpy:235
 translate chinese v13s21a_826ac2d5:

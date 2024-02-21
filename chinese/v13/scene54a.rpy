@@ -10,5 +10,5 @@ translate chinese v13s54a_04e37c2d:
 translate chinese v13s54a_fe62782e:
 
     # u "(Guess I'm the last one to get it started. *Chuckles*)"
-    u "(我想我是最后一个开始的。 *咯咯笑* )"
+    u "(我想我是最后一个开始的。 *咯咯笑*)"
 

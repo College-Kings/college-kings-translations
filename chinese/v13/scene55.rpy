@@ -10,7 +10,7 @@ translate chinese v13s55_85742452:
 translate chinese v13s55_8b42dbad:
 
     # no "*Chuckles* You're fine."
-    no "*咯咯笑* 没事的"
+    no "*咯咯笑* 没事的。"
 
 # game/v13/scene55.rpy:34
 translate chinese v13s55_507b1598:

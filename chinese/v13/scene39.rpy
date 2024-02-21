@@ -4,7 +4,7 @@
 translate chinese v13_hotel_imre_bcc20088:
 
     # imre "I'm gonna go take a hot shower. Really not in the mood for people right now."
-    imre "我要去洗个热水澡。现在真的和别人说话。"
+    imre "我要去洗个热水澡。现在真的不适合谈话。"
 
 # game/v13/scene39.rpy:17
 translate chinese v13_hotel_imre_c8af3034:

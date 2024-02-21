@@ -10,7 +10,7 @@ translate chinese v13s25_e0a30217:
 translate chinese v13s25_2aba7358:
 
     # emmy "That you're on the \"no kids kind of vibe\". *Chuckles*"
-    emmy "那是因为你的\"不想要孩子的观点\"。 *咯咯笑* "
+    emmy "那是因为你的\"不想要孩子的观点\"。 *咯咯笑*"
 
 # game/v13/scene25.rpy:32
 translate chinese v13s25_7e5ae7e8:
@@ -22,13 +22,13 @@ translate chinese v13s25_7e5ae7e8:
 translate chinese v13s25_5a1ddb72:
 
     # emmy "And look where honesty got us. *Laughs*"
-    emmy "看看诚实把我们带到了什么地方。 *笑* "
+    emmy "看看诚实把我们带到了什么地方。 *笑*"
 
 # game/v13/scene25.rpy:42
 translate chinese v13s25_d5e81ebd:
 
     # u "To a date at a bar in Amsterdam. *Chuckles*"
-    u "在阿姆斯特丹的一家酒吧约会。 *咯咯笑* "
+    u "在阿姆斯特丹的一家酒吧约会。 *咯咯笑*"
 
 # game/v13/scene25.rpy:47
 translate chinese v13s25_2a6d3116:
@@ -40,7 +40,7 @@ translate chinese v13s25_2a6d3116:
 translate chinese v13s25_72d201db:
 
     # emmy "*Laughs* Okay, don't start getting all soft on me. Tell me this, can you fight?"
-    emmy " *笑* 好吧，不要开始对我手软。告诉我，你会拳击吗？"
+    emmy "*笑* 好吧，不要开始对我手软。告诉我，你会拳击吗？"
 
 # game/v13/scene25.rpy:57
 translate chinese v13s25_630f5816:
@@ -64,7 +64,7 @@ translate chinese v13s25_25491773:
 translate chinese v13s25_7e4d22d5:
 
     # emmy "Oh, wow... So, do you like to fight? Like, you enjoy it?"
-    emmy "噢，哇……那么，你喜欢拳击吗？你喜欢吗？"
+    emmy "噢，哇哦……那么，你喜欢拳击吗？你喜欢吗？"
 
 # game/v13/scene25.rpy:81
 translate chinese v13s25_c4748efb:
@@ -94,7 +94,7 @@ translate chinese v13s25_55314fb5:
 translate chinese v13s25_5fcfd008:
 
     # u "Of course, haha. I wouldn't let some punk try to fuck with you."
-    u "当然，哈哈。我不会让一些小流氓想要操你。"
+    u "当然，哈哈。我不会让一些小流氓想要刁难你。"
 
 # game/v13/scene25.rpy:106
 translate chinese v13s25_5201eaa1:
@@ -106,7 +106,7 @@ translate chinese v13s25_5201eaa1:
 translate chinese v13s25_10da7d8c:
 
     # emmy "Not at all, it was actually pretty hot. *Chuckles*"
-    emmy "一点也不，实际上很性感。 *咯咯笑* "
+    emmy "一点也不，实际上很性感。 *咯咯笑*"
 
 # game/v13/scene25.rpy:135
 translate chinese v13s25_f77307fe:
@@ -154,7 +154,7 @@ translate chinese v13s25_emmysg_3d3f1d83:
 translate chinese v13s25_emmysg_e4917491:
 
     # u "Yeah, I was thinking we could-"
-    u "是的，我在想我们可以-"
+    u "是的，我在想我们可以……"
 
 # game/v13/scene25.rpy:200
 translate chinese v13s25_emmysg_9b1a3979:
@@ -184,7 +184,7 @@ translate chinese v13s25_emmysg_2dc4ad9e:
 translate chinese v13s25_emmysg_16d96c0a:
 
     # emmy "You're very attractive, don't get me wrong. *Chuckles*"
-    emmy "你很有魅力，别误会我的意思。 *咯咯笑* "
+    emmy "你很有魅力，别误会我的意思。 *咯咯笑*"
 
 # game/v13/scene25.rpy:240
 translate chinese v13s25_emmysg_caf4db96:
@@ -220,7 +220,7 @@ translate chinese v13s25_emmysg_5eeeac4f:
 translate chinese v13s25_emmysg_cd7c271c:
 
     # u "Who would like fighting? *Chuckles*"
-    u "谁想打架？ *咯咯笑* "
+    u "谁想打架？ *咯咯笑*"
 
 # game/v13/scene25.rpy:285
 translate chinese v13s25_emmysg_2e437df5:
@@ -238,7 +238,7 @@ translate chinese v13s25_emmysg_d341b606:
 translate chinese v13s25_emmysg_667422ee:
 
     # u "Oh no, I wasn't-"
-    u "噢，不，我没有-"
+    u "噢，不，我没有……"
 
 # game/v13/scene25.rpy:300
 translate chinese v13s25_emmysg_4e302d38:
@@ -250,7 +250,7 @@ translate chinese v13s25_emmysg_4e302d38:
 translate chinese v13s25_emmysg_37ae72e9:
 
     # emmy "Maybe I would've had better luck with your friend Imre. *Chuckles* Have a nice night, pussy."
-    emmy "也许我和你的朋友伊姆雷会有更好的运气。 *咯咯笑*祝你有个愉快的夜晚，小猫咪。"
+    emmy "也许我和你的朋友伊姆雷会有更好的运气。 *咯咯笑* 祝你有个愉快的夜晚，小猫咪。"
 
 # game/v13/scene25.rpy:310
 translate chinese v13s25_emmysg_9c44613c:

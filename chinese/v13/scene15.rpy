@@ -4,7 +4,7 @@
 translate chinese v13s15_e99db1b7:
 
     # u "(Oh shit, she's probably asleep. Gonna have to tiptoe in the dark.)"
-    u "(该死的，她可能睡着了。得在黑暗中蹑手蹑脚了。)"
+    u "(噢，该死的，她可能睡着了。得在黑暗中蹑手蹑脚了。)"
 
 # game/v13/scene15.rpy:34
 translate chinese v13s15_bfb2c4b5:
@@ -16,7 +16,7 @@ translate chinese v13s15_bfb2c4b5:
 translate chinese v13s15_718f474c:
 
     # u "*Whisper* Fuck!"
-    u " *低语* 该死的！"
+    u "*低语* 该死的！"
 
 # game/v13/scene15.rpy:49
 translate chinese v13s15_dc006ca9:
@@ -40,7 +40,7 @@ translate chinese v13s15_e6e44ef7:
 translate chinese v13s15_f83bee6f:
 
     # cl "You should've turned on the light. *Chuckles*"
-    cl "你应该把灯打开的。 *咯咯笑* "
+    cl "你应该把灯打开的。 *咯咯笑*"
 
 # game/v13/scene15.rpy:69
 translate chinese v13s15_79a1274d:
@@ -58,7 +58,7 @@ translate chinese v13s15_a8db311c:
 translate chinese v13s15_f93d3f36:
 
     # u "*Laughs* Thanks, but the pain is already gone."
-    u " *笑* 谢谢，但是我已经不疼了。"
+    u "*笑* 谢谢，但是我已经不疼了。"
 
 # game/v13/scene15.rpy:84
 translate chinese v13s15_bafaa2d2:
@@ -118,7 +118,7 @@ translate chinese v13s15_PhoneContinueLauren_4af027e3:
 translate chinese v13s15_PhoneContinueLauren_acce47fa:
 
     # cl "But... It's the middle of the night... I don't know if-"
-    cl "但是……现在已经是半夜了……我不知道是不是-"
+    cl "但是……现在已经是半夜了……我不知道是不是……"
 
 # game/v13/scene15.rpy:160
 translate chinese v13s15_PhoneContinueLauren_b95179e8:
@@ -130,7 +130,7 @@ translate chinese v13s15_PhoneContinueLauren_b95179e8:
 translate chinese v13s15_PhoneContinueLauren_5821713f:
 
     # cl "Oh, I- Okay..."
-    cl "噢，我-好吧……"
+    cl "噢，我……好吧……"
 
 # game/v13/scene15.rpy:171
 translate chinese v13s15_PhoneContinueLauren_2368dc17:
@@ -154,7 +154,7 @@ translate chinese v13s15_PhoneContinueLauren_4b8d879c:
 translate chinese v13s15_PhoneContinueLauren_14700b49:
 
     # cl "*Sighs* Okay."
-    cl " *叹息* 好吧。"
+    cl "*叹息* 好吧。"
 
 # game/v13/scene15.rpy:191
 translate chinese v13s15_PhoneContinueLauren_359d3734:

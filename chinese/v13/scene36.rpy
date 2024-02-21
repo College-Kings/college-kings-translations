@@ -16,13 +16,13 @@ translate chinese v13_walk_garden_9007669e:
 translate chinese v13_walk_garden_b5784ae7:
 
     # li "He finished up with all of his frat planning with Sebastian and now for the last few days of our little vacay, he wants to be the perfect boyfriend. *Chuckles*"
-    li "他结束了与塞巴斯蒂安的兄弟会计划，现在在我们小假期的最后几天，他想成为一个完美的男朋友。 *咯咯笑* "
+    li "他结束了与塞巴斯蒂安的兄弟会计划，现在在我们小假期的最后几天，他想成为一个完美的男朋友。 *咯咯笑*"
 
 # game/v13/scene36.rpy:37
 translate chinese v13_walk_garden_6ca942c7:
 
     # u "*Laughs* Right..."
-    u " *笑* 好吧……"
+    u "*笑* 好吧……"
 
 # game/v13/scene36.rpy:43
 translate chinese v13_walk_garden_ceccb9b6:
@@ -52,7 +52,7 @@ translate chinese v13_walk_garden_a121b961:
 translate chinese v13_walk_garden_a0f101d7:
 
     # li "Well, here's your chance. *Chuckles*"
-    li "好吧，你的机会来了。 *咯咯笑* "
+    li "好吧，你的机会来了。 *咯咯笑*"
 
 # game/v13/scene36.rpy:70
 translate chinese v13_walk_garden_82131369:

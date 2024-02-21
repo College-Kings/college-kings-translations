@@ -10,7 +10,7 @@ translate chinese v13s52_a1363602:
 translate chinese v13s52_5d3eadec:
 
     # u "(She's beautiful no matter what she's doing. *Chuckles*)"
-    u "(不管她在做什么，她都很漂亮。 *咯咯笑* )"
+    u "(不管她在做什么，她都很漂亮。 *咯咯笑*)"
 
 # game/v13/scene52.rpy:42
 translate chinese v13s52_a3076082:

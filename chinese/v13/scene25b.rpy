@@ -76,7 +76,7 @@ translate chinese v13s25b_cf2a01ea:
 translate chinese v13s25b_b7ca204c:
 
     # ary "A curse because it's all on me and a blessing also because it's all on me. *Chuckles*"
-    ary "这是诅咒，因为这都是我的错，也是一种祝福，因为这都是我的错。 *咯咯笑* "
+    ary "这是诅咒，因为这都是我的错，也是一种祝福，因为这都是我的错。 *咯咯笑*"
 
 # game/v13/scene25b.rpy:77
 translate chinese v13s25b_db145fbd:
@@ -88,13 +88,13 @@ translate chinese v13s25b_db145fbd:
 translate chinese v13s25b_449e7ff8:
 
     # u "Wow, that's... I mean, I'm just a student right now... I don't even have a job. *Chuckles*"
-    u "哇，那真是……我是说，我现在只是个学生。我甚至没有工作。 *咯咯笑* "
+    u "哇哦，那真是……我是说，我现在只是个学生。我甚至没有工作。 *咯咯笑*"
 
 # game/v13/scene25b.rpy:87
 translate chinese v13s25b_83771a67:
 
     # ary "Oh! I'm a student as well. *Chuckles*"
-    ary "噢！我也是一名学生。 *咯咯笑* "
+    ary "噢！我也是一名学生。 *咯咯笑*"
 
 # game/v13/scene25b.rpy:92
 translate chinese v13s25b_461fca41:
@@ -118,7 +118,7 @@ translate chinese v13s25b_c7b9bf48:
 translate chinese v13s25b_707f1783:
 
     # ary "What you call impressive, many men have called intimidating. *Chuckles*"
-    ary "你所说的令人印象深刻，很多男人都说令人畏惧。 *咯咯笑* "
+    ary "你所说的令人印象深刻，很多男人都说令人畏惧。 *咯咯笑*"
 
 # game/v13/scene25b.rpy:112
 translate chinese v13s25b_3fc7c4ab:
@@ -142,7 +142,7 @@ translate chinese v13s25b_0c013479:
 translate chinese v13s25b_43679264:
 
     # u "I have always considered myself a hard worker, so it's definitely something I might look into soon. *Chuckles*"
-    u "我一直认为自己是一个勤奋的人，所以这肯定是我很快会考虑的事情。 *咯咯笑* "
+    u "我一直认为自己是一个勤奋的人，所以这肯定是我很快会考虑的事情。 *咯咯笑*"
 
 # game/v13/scene25b.rpy:134
 translate chinese v13s25b_ccf39281:
@@ -154,13 +154,13 @@ translate chinese v13s25b_ccf39281:
 translate chinese v13s25b_fec51c77:
 
     # u "Good to know. *Chuckles*"
-    u "很高兴知道这一点。 *咯咯笑* "
+    u "很高兴知道这一点。 *咯咯笑*"
 
 # game/v13/scene25b.rpy:144
 translate chinese v13s25b_7b81a631:
 
     # ary "Do think we could-"
-    ary "我觉得我们可以-"
+    ary "我觉得我们可以……"
 
 # game/v13/scene25b.rpy:150
 translate chinese v13s25b_f261607f:
@@ -172,7 +172,7 @@ translate chinese v13s25b_f261607f:
 translate chinese v13s25b_4c6f5322:
 
     # ary "You don't think I'm focused on school? *Chuckles*"
-    ary "你以为我不专注于学业吗？ *咯咯笑* "
+    ary "你以为我不专注于学业吗？ *咯咯笑*"
 
 # game/v13/scene25b.rpy:160
 translate chinese v13s25b_29c468b4:
@@ -214,7 +214,7 @@ translate chinese v13s25b_4dc5f32d:
 translate chinese v13s25b_4b8ed091:
 
     # ary "It's fine, this just shows that we're not very compatible. *Chuckles*"
-    ary "没关系，这只是说明我们不太合适。 *咯咯笑* "
+    ary "没关系，这只是说明我们不太合适。 *咯咯笑*"
 
 # game/v13/scene25b.rpy:200
 translate chinese v13s25b_ba138ba1:
@@ -238,7 +238,7 @@ translate chinese v13s25b_e60e3b68:
 translate chinese v13s25b_0b5cdd68:
 
     # u "Look, right now-"
-    u "听着，现在-"
+    u "听着，现在……"
 
 # game/v13/scene25b.rpy:235
 translate chinese v13s25b_bda1e2ce:
@@ -256,7 +256,7 @@ translate chinese v13s25b_ddbe43cc:
 translate chinese v13s25b_f1931d73:
 
     # u "(*Singing* Work, work, work, work, work... All she do is work, work, work, work, work.) *Chuckles*"
-    u "( *唱* 工作，工作，工作……她所做的就是工作，工作，工作，工作。) *咯咯笑* "
+    u "(*唱歌* 工作，工作，工作……她所做的就是工作，工作，工作，工作。) *咯咯笑*"
 
 translate chinese strings:
 

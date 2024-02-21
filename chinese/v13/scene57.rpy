@@ -58,7 +58,7 @@ translate chinese v13s57_98bfe9dd:
 translate chinese v13s57_825822c6:
 
     # ro "Oh, wow... You guys didn't have to do this! But thank you..."
-    ro "噢，哇……你们没必要这么做！但是谢谢你们……"
+    ro "噢，哇哦……你们没必要这么做！但是谢谢你们……"
 
 # game/v13/scene57.rpy:80
 translate chinese v13s57_07d6dfda:
@@ -76,13 +76,13 @@ translate chinese v13s57_3eb49777:
 translate chinese v13s57_e1ca64a4:
 
     # no "I'm out of money, so [name] was actually the one who paid for it."
-    no "我没钱了，所以[name]实际上帮给的钱。"
+    no "我没钱了，所以，实际上是[name]帮给的钱。"
 
 # game/v13/scene57.rpy:96
 translate chinese v13s57_e9a38468:
 
     # ro "That was very kind of you [name], I won't forget this."
-    ro "你真是太好了[name]，我不会忘记的。"
+    ro "你真是太好了，[name]，我不会忘记的。"
 
 # game/v13/scene57.rpy:101
 translate chinese v13s57_75448f3c:
@@ -112,7 +112,7 @@ translate chinese v13s57_81ea29a9:
 translate chinese v13s57_2bab0dec:
 
     # no "No worries, you really do deserve it."
-    no "别担心，红粉赠佳人。"
+    no "不客气，红粉赠佳人。"
 
 # game/v13/scene57.rpy:127
 translate chinese v13s57_08d0d58a:

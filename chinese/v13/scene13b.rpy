@@ -4,13 +4,13 @@
 translate chinese v13s13b_1f1e4e1d:
 
     # polly "*Sighs* Whew! I'm so exhausted..."
-    polly " *叹息* 哇！我太累了……"
+    polly "*叹息* 呼！我太累了……"
 
 # game/v13/scene13b.rpy:27
 translate chinese v13s13b_8569c4fa:
 
     # u "*Chuckles*"
-    u " *咯咯笑* "
+    u "*咯咯笑*"
 
 # game/v13/scene13b.rpy:32
 translate chinese v13s13b_c591da34:
@@ -22,13 +22,13 @@ translate chinese v13s13b_c591da34:
 translate chinese v13s13b_59dbbf76:
 
     # pe "Huh?"
-    pe "哈？"
+    pe "嗯？"
 
 # game/v13/scene13b.rpy:42
 translate chinese v13s13b_582f4786:
 
     # polly "*Chuckles* You're a shy one aren't you? You didn't seem shy when you were singing all my lyrics, though. You knew the songs word for word."
-    polly " *咯咯笑* 你是个害羞的人，不是吗？不过，当你唱完我所有的歌词时，你看起来并不害羞。你一字不差地知道这首歌。"
+    polly "*咯咯笑* 你是个害羞的人，不是吗？不过，当你唱完我所有的歌词时，你看起来并不害羞。你一字不差地知道这首歌。"
 
 # game/v13/scene13b.rpy:47
 translate chinese v13s13b_a603d584:
@@ -40,7 +40,7 @@ translate chinese v13s13b_a603d584:
 translate chinese v13s13b_135569a0:
 
     # polly "Girl, loosen up! Why are you so tense?"
-    polly "女孩，放松点！你为什么这么紧张？"
+    polly "姑娘，放松点儿！你为什么这么紧张呢？"
 
 # game/v13/scene13b.rpy:57
 translate chinese v13s13b_7cb0e1d6:
@@ -52,19 +52,19 @@ translate chinese v13s13b_7cb0e1d6:
 translate chinese v13s13b_7ba3432f:
 
     # pe "Like, please don't get me wrong, I love you. I'm just really nervous... *Chuckles*"
-    pe "就像，请不要误会我，我爱你。我只是真的很紧张…… *咯咯笑* "
+    pe "就像，请不要误会我，我喜欢你。我只是真的很紧张…… *咯咯笑*"
 
 # game/v13/scene13b.rpy:63
 translate chinese v13s13b_d26b7045:
 
     # polly "Haha, well... There's no reason to be nervous. Are you two the only ones back here?"
-    polly "哈哈，那么……没有理由紧张。你们两个是这里唯一来这的人吗？"
+    polly "哈哈，好吧……没有理由紧张。你们两个是唯一来这的人吗？"
 
 # game/v13/scene13b.rpy:68
 translate chinese v13s13b_b71906b4:
 
     # u "Seems so. We've been back here for a minute and I haven't seen a soul."
-    u "看起来是这样。我们来到这里已经有一分钟了，我一个人影也没有看到。"
+    u "看起来是这样。我们来到这里已经有几分钟了，我一个人影也没有看到。"
 
 # game/v13/scene13b.rpy:73
 translate chinese v13s13b_8e86971a:
@@ -82,7 +82,7 @@ translate chinese v13s13b_604b7bee:
 translate chinese v13s13b_de5ee3bb:
 
     # polly "Because I get to spend more time with my new friend here? Duh! *Chuckles*"
-    polly "因为我可以有更多的时间和我的新朋友在一起？啊！ *咯咯笑* "
+    polly "因为我可以有更多的时间和我的新朋友在一起？啊！ *咯咯笑*"
 
 # game/v13/scene13b.rpy:88
 translate chinese v13s13b_65c95cf9:
@@ -94,7 +94,7 @@ translate chinese v13s13b_65c95cf9:
 translate chinese v13s13b_a42d5482:
 
     # polly "*Laughs* Yes... How could I not be friends with someone who knows my songs as well as you do? What's your name, bestie?"
-    polly " *笑* 是的……我怎么能不和一个像你一样懂我歌的人做朋友呢？你叫什么名字，闺蜜？"
+    polly "*笑* 是的……我怎么能不和一个像你一样懂我歌的人做朋友呢？你叫什么名字，闺蜜？"
 
 # game/v13/scene13b.rpy:98
 translate chinese v13s13b_31ef721a:
@@ -106,13 +106,13 @@ translate chinese v13s13b_31ef721a:
 translate chinese v13s13b_354af9f6:
 
     # polly "No fucking way... You're joking!"
-    polly "不是吧……你在开玩笑吧！"
+    polly "他妈的不是吧……你在开玩笑吧！"
 
 # game/v13/scene13b.rpy:108
 translate chinese v13s13b_c1f3ecf8:
 
     # u "Nope, she's being serious. *Chuckles*"
-    u "不，她是认真的。 *咯咯笑* "
+    u "不，她是认真的。 *咯咯笑*"
 
 # game/v13/scene13b.rpy:113
 translate chinese v13s13b_43efa22a:
@@ -124,7 +124,7 @@ translate chinese v13s13b_43efa22a:
 translate chinese v13s13b_7d4db1b8:
 
     # pe "*Shocked* Oh my gosh!"
-    pe " *震惊* 噢，我的天呐！"
+    pe "*震惊* 噢，我的天呐！"
 
 # game/v13/scene13b.rpy:123
 translate chinese v13s13b_109243e5:
@@ -148,13 +148,13 @@ translate chinese v13s13b_13f7ef9d:
 translate chinese v13s13b_9878a1d7:
 
     # pe "*Whisper* Okay, uhm... *Singing* Love comes unexpected-"
-    pe " *低语* 好的，嗯…… *唱歌* Love comes unexpected-"
+    pe "*低语* 好的，嗯…… *唱歌* Love comes unexpected……"
 
 # game/v13/scene13b.rpy:143
 translate chinese v13s13b_f5f3b4a9:
 
     # polly "Girl, c'mon, that ain't singing! Put some soul into it."
-    polly "女孩，来吧，那不是唱歌！把一些灵魂注入其中。"
+    polly "姑娘，加油，那不是唱歌！把一些灵魂注入其中。"
 
 # game/v13/scene13b.rpy:153
 translate chinese v13s13b_736cdf69:
@@ -166,7 +166,7 @@ translate chinese v13s13b_736cdf69:
 translate chinese v13s13b_145ae56d:
 
     # pe "*Singing* LOVE COMES UNEXPECTED, LOVE'S UNNATURAL! I CAN FEEL MY HEARTBEAT, LOVE IS LIKE BATTERY, IT POWERS UP MY SOUL!"
-    pe " *唱歌* LOVE COMES UNEXPECTED, LOVE'S UNNATURAL! I CAN FEEL MY HEARTBEAT, LOVE IS LIKE BATTERY, IT POWERS UP MY SOUL！"
+    pe "*唱歌* LOVE COMES UNEXPECTED, LOVE'S UNNATURAL! I CAN FEEL MY HEARTBEAT, LOVE IS LIKE BATTERY, IT POWERS UP MY SOUL！"
 
 # game/v13/scene13b.rpy:173
 translate chinese v13s13b_f27119a1:
@@ -184,19 +184,19 @@ translate chinese v13s13b_24a67a37:
 translate chinese v13s13b_4aed9774:
 
     # pe "I... I-"
-    pe "我……我-"
+    pe "我……我……"
 
 # game/v13/scene13b.rpy:186
 translate chinese v13s13b_5d19ad59:
 
     # polly "Ahh, don't worry about it sis. Maybe I'm the more extroverted twin. *Chuckles*"
-    polly "啊，别担心，妹妹。也许我是更外向的双胞胎。 *咯咯笑* "
+    polly "啊，别担心，妹妹。也许我是更外向的双胞胎。 *咯咯笑*"
 
 # game/v13/scene13b.rpy:191
 translate chinese v13s13b_587c98cc:
 
     # pe "*Chuckles*"
-    pe " *咯咯笑* "
+    pe "*咯咯笑*"
 
 # game/v13/scene13b.rpy:197
 translate chinese v13s13b_70f366e1:
@@ -208,13 +208,13 @@ translate chinese v13s13b_70f366e1:
 translate chinese v13s13b_51a8e56e:
 
     # pe "Yes, I actually wanted to ask you about them! I never understand them... *Chuckles*"
-    pe "是的，我真的想问你关于它们的事！我从来都不明白他们的意思…… *咯咯笑* "
+    pe "是的，我真的想问你关于它们的事！我从来都不明白他们的意思…… *咯咯笑*"
 
 # game/v13/scene13b.rpy:207
 translate chinese v13s13b_033c9ed6:
 
     # polly "That's what I'm always going for. *Laughs*"
-    polly "这就是我一直追求的。 *笑* "
+    polly "这就是我一直追求的。 *笑*"
 
 # game/v13/scene13b.rpy:212
 translate chinese v13s13b_1cfc5a9d:
@@ -226,13 +226,13 @@ translate chinese v13s13b_1cfc5a9d:
 translate chinese v13s13b_a2e252eb:
 
     # pe "That's extremely creative."
-    pe "这是非常有创意的。"
+    pe "这非常有创意。"
 
 # game/v13/scene13b.rpy:222
 translate chinese v13s13b_e4ab8fe9:
 
     # polly "Thanks! I bring it up because when I saw you being lifted up by your friend here, I felt like that was the most beautiful showing of friendship I've ever seen."
-    polly "谢谢！我提起这件事是因为当我看到你被你的朋友抱起来的时候，我觉得这是我见过的最美丽的友谊表现。"
+    polly "谢谢！我提起这件事是因为当我看到你被你的朋友抱起来的时候，我觉得这是我见过的最美丽的友谊。"
 
 # game/v13/scene13b.rpy:227
 translate chinese v13s13b_c3d63018:
@@ -322,13 +322,13 @@ translate chinese v13s13b_9ac80f79:
 translate chinese v13s13b_4d385389:
 
     # pe "*Shocked*"
-    pe " *震惊* "
+    pe "*震惊*"
 
 # game/v13/scene13b.rpy:311
 translate chinese v13s13b_e9a33f50:
 
     # polly "*Chuckles* What?"
-    polly " *咯咯笑* 什么？"
+    polly "*咯咯笑* 什么？"
 
 # game/v13/scene13b.rpy:316
 translate chinese v13s13b_eddc7acc:
@@ -358,13 +358,13 @@ translate chinese v13s13b_021a2a13:
 translate chinese v13s13b_69c51784:
 
     # polly "Maybe our families knew each other or something? *Chuckles*"
-    polly "也许我们的家人彼此认识？ *咯咯笑* "
+    polly "也许我们的家人彼此认识？ *咯咯笑*"
 
 # game/v13/scene13b.rpy:341
 translate chinese v13s13b_f6c84592:
 
     # pe "Maybe. *Laughs*"
-    pe "也许吧。 *笑* "
+    pe "也许吧。 *笑*"
 
 # game/v13/scene13b.rpy:346
 translate chinese v13s13b_bdd199af:
@@ -406,7 +406,7 @@ translate chinese v13s13b_fd327149:
 translate chinese v13s13b_8569c4fa_1:
 
     # u "*Chuckles*"
-    u " *咯咯笑* "
+    u "*咯咯笑*"
 
 # game/v13/scene13b.rpy:384
 translate chinese v13s13b_554b77a8:
@@ -448,7 +448,7 @@ translate chinese v13s13b_e4db4dc0:
 translate chinese v13s13b_09f89e34:
 
     # pe "It was beyond my expectations, meeting you. If we hadn't already met before... *Chuckles*"
-    pe "见到你是我意想不到的事。如果我们以前没有见过面的话…… *咯咯笑* "
+    pe "见到你是我意想不到的事。如果我们以前没有见过面的话…… *咯咯笑*"
 
 # game/v13/scene13b.rpy:447
 translate chinese v13s13b_10e9e509:
@@ -472,7 +472,7 @@ translate chinese v13s13b_21be91fd:
 translate chinese v13s13b_0bd064e3:
 
     # pe "Jeez... I didn't know Polly and I had so much in common... *Chuckles*"
-    pe "天呐……我不知道波莉和我有这么多共同点…… *咯咯笑* "
+    pe "天呐……我不知道波莉和我有这么多共同点…… *咯咯笑*"
 
 # game/v13/scene13b.rpy:493
 translate chinese v13s13b_a45a9a8b:
@@ -484,13 +484,13 @@ translate chinese v13s13b_a45a9a8b:
 translate chinese v13s13b_5f33201c:
 
     # pe "*Chuckles* You really gave me a night to remember, thank you."
-    pe " *咯咯笑* 你真的给了我一个难忘的夜晚，谢谢。"
+    pe "*咯咯笑* 你真的给了我一个难忘的夜晚，谢谢。"
 
 # game/v13/scene13b.rpy:503
 translate chinese v13s13b_1b28a406:
 
     # u "Of course."
-    u "当然。"
+    u "不客气。"
 
 # game/v13/scene13b.rpy:508
 translate chinese v13s13b_2fd5cb43:

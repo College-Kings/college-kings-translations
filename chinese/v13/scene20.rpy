@@ -4,7 +4,7 @@
 translate chinese v13s20_ec9f3b02:
 
     # u "(Ohhhh shit... I'm gonna fuck some shit up.) *Laughs*"
-    u "(噢，该死的……我要搞砸一些事。) *笑* "
+    u "(噢，该死的……我要搞砸一些事。) *笑*"
 
 # game/v13/scene20.rpy:34
 translate chinese v13s20_closet_ca322295:
@@ -28,25 +28,25 @@ translate chinese v13s20_closet_70a80b01:
 translate chinese v13s20_closet_87c7ad77:
 
     # u "Ahhh... Call it a stream of revenge. *Chuckles*"
-    u "啊哈……就当这是一股复仇之流吧。 *咯咯笑* "
+    u "啊哈……就当这是一股复仇之流吧。 *咯咯笑*"
 
 # game/v13/scene20.rpy:53
 translate chinese v13s20_closet_5f456375:
 
     # u "(Ugh... Oh, fuck) *Gags*"
-    u "(呃……噢，他妈的) *偷笑* "
+    u "(呃……噢，他妈的。) *偷笑*"
 
 # game/v13/scene20.rpy:58
 translate chinese v13s20_closet_a80ed8d1:
 
     # u "*Laughs* Shit, man... He pisses so many people off, it's only fair he smells like it too. Haha!"
-    u " *笑* 妈的，伙计……他惹了那么多人生气，他身上也有这种味道才公平。哈哈！"
+    u "*笑* 妈的，伙计……他惹了那么多人生气，他身上也有这种味道才公平。哈哈！"
 
 # game/v13/scene20.rpy:61
 translate chinese v13s20_closet_c9f4504c:
 
     # u "*Chuckles* I can't do that nasty shit."
-    u " *咯咯笑* 我不能做那种肮脏的事。"
+    u "*咯咯笑* 我不能做那种肮脏的事。"
 
 # game/v13/scene20.rpy:76
 translate chinese v13s20_bleach_14b7bd55:
@@ -64,7 +64,7 @@ translate chinese v13s20_bleach_857fdaa9:
 translate chinese v13s20_bleach_cdf15eb0:
 
     # u "(Riley said this suitcase is special to him, and that bleach would be a good addition to it... Let's find out.) *Laughs*"
-    u "(莱莉说这个手提箱对他来说很特别，漂白剂会是很好的礼物……让我看看。) *笑* "
+    u "(莱莉说这个手提箱对他来说很特别，漂白剂会是很好的礼物……让我看看。) *笑*"
 
 # game/v13/scene20.rpy:107
 translate chinese v13s20_bleach_522e8c88:
@@ -76,7 +76,7 @@ translate chinese v13s20_bleach_522e8c88:
 translate chinese v13s20_bleach_fb2afe1c:
 
     # u "(He's gonna need therapy after today.) *Laughs*"
-    u "(今天之后他需要心理治疗。) *笑* "
+    u "(今天之后他需要心理治疗。) *笑*"
 
 # game/v13/scene20.rpy:130
 translate chinese v13s20_bleach_c44d79b5:
@@ -88,13 +88,13 @@ translate chinese v13s20_bleach_c44d79b5:
 translate chinese v13s20_toothbrush_db3ffa84:
 
     # u "Ha... The classic \"toothbrush in the toilet\" trick, shall we?"
-    u "哈哈……经典\"厕所里的牙刷\"把戏，对吗？"
+    u "哈哈……经典的\"厕所里的牙刷\"把戏，对吗？"
 
 # game/v13/scene20.rpy:169
 translate chinese v13s20_toothbrush_7e757b60:
 
     # u "TASTE SHIT BITCH! *Chuckles*"
-    u "尝尝屎的味道吧，贱人！ *咯咯笑* "
+    u "尝尝屎的味道吧，贱人！ *咯咯笑*"
 
 # game/v13/scene20.rpy:174
 translate chinese v13s20_toothbrush_d6934e11:
@@ -118,7 +118,7 @@ translate chinese v13s20_end_da798547:
 translate chinese v13s20_end_5f6678ce:
 
     # u "*Whispers* Is this man doing homework on the trip? *Chuckles*"
-    u " *低语* 这个男人在旅途中做作业吗？ *咯咯笑* "
+    u "*低语* 这个男人在旅途中做作业吗？ *咯咯笑*"
 
 # game/v13/scene20.rpy:205
 translate chinese v13s20_end_5b757d75:
@@ -142,7 +142,7 @@ translate chinese v13s20_end_7ab04272:
 translate chinese v13s20_end_9b7a553f:
 
     # u "Haha! This is too fucking good... He's helping students cheat their way to the top..."
-    u "哈哈！这他妈的太棒了……他在帮助学生通过作弊达到顶峰。"
+    u "哈哈！这他妈的太棒了……他在帮助学生通过作弊达到顶峰……"
 
 # game/v13/scene20.rpy:225
 translate chinese v13s20_end_85d147b3:

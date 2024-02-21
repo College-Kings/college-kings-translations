@@ -34,13 +34,13 @@ translate chinese v13_ticket_transfer_90189303:
 translate chinese v13_ticket_transfer_ee44bf7f:
 
     # u "Oh, that... *Laughs*"
-    u "噢，那个嘛…… *笑* "
+    u "噢，那个嘛…… *笑*"
 
 # game/v13/scene7.rpy:43
 translate chinese v13_ticket_transfer_8fbcff66:
 
     # lee "Give yourself more credit than you have! You accomplished something that is not so easily accomplished."
-    lee "给自己一点信心！你完成了一些不容易完成的事情。"
+    lee "给自己一点儿信心！你完成了一些不容易完成的事情。"
 
 # game/v13/scene7.rpy:48
 translate chinese v13_ticket_transfer_adadc4e2:
@@ -52,7 +52,7 @@ translate chinese v13_ticket_transfer_adadc4e2:
 translate chinese v13_ticket_transfer_75d5832a:
 
     # lee "Of course. Hmm, I'm curious... Are you familiar with the story of Genghis Khan?"
-    lee "当然了。嗯，我很好奇……你熟悉成吉思汗的故事吗？"
+    lee "不客气。嗯，我很好奇……你熟悉成吉思汗的故事吗？"
 
 # game/v13/scene7.rpy:58
 translate chinese v13_ticket_transfer_938aa3c7:
@@ -118,7 +118,7 @@ translate chinese v13_ticket_transfer_269d7a75:
 translate chinese v13_ticket_transfer_e90039c5:
 
     # u "Wow, thanks. I'm surprised you got me these, haha."
-    u "哇，谢谢。我很惊讶你送我这些，哈哈。"
+    u "哇哦，谢谢。我很惊讶您送我这些，哈哈。"
 
 # game/v13/scene7.rpy:117
 translate chinese v13_ticket_transfer_4d3394fd:
@@ -148,13 +148,13 @@ translate chinese v13_ticket_transfer_665dae89:
 translate chinese v13_ticket_transfer_3d516b34:
 
     # u "*Chuckles* This was really nice of you, Mr. Lee. You didn't have to do this. I'm pretty sure these were expensive..."
-    u " *咯咯笑* 李先生，您真是太慷慨了。您没必要这么做。我很确定这些东西很贵……"
+    u "*咯咯笑* 李先生，您真是太慷慨了。您没必要这么做。我很确定这些东西很贵……"
 
 # game/v13/scene7.rpy:139
 translate chinese v13_ticket_transfer_a33f25b6:
 
     # lee "*Laughs* Have you ever heard me complain about money?"
-    lee " *笑* 你有没有听过我抱怨钱的事儿？"
+    lee "*笑* 你有没有听过我抱怨钱的事儿？"
 
 # game/v13/scene7.rpy:144
 translate chinese v13_ticket_transfer_d5f2a82b:
@@ -172,13 +172,13 @@ translate chinese v13_ticket_transfer_872e8249:
 translate chinese v13_ticket_transfer_cd80f3df:
 
     # lee "Now, have a good time at the concert."
-    lee "现在，祝你在音乐会上玩得愉快。"
+    lee "现在，祝你在音乐会上玩儿得愉快。"
 
 # game/v13/scene7.rpy:159
 translate chinese v13_ticket_transfer_01325ab8:
 
     # u "*Laughs* (Did he just lowkey flex on me and then walk off? Haha, he gave me two concert tickets as well...)"
-    u " *笑*  (他是不是低调地跟我打了个招呼然后就走了？哈哈，他还给了我两张音乐会的票……)"
+    u "*笑*  (他是不是低调地跟我打了个招呼然后就走了？哈哈，他还给了我两张音乐会的票……)"
 
 # game/v13/scene7.rpy:166
 translate chinese v13_ticket_transfer_2bd65d80:
@@ -190,7 +190,7 @@ translate chinese v13_ticket_transfer_2bd65d80:
 translate chinese v13_ticket_transfer_ac2e92d1:
 
     # u "(Wait what?! Including backstage passes and after party access?! Holy shit, Mr. Lee... Definitely a flex, but I'll take it, nonetheless.) *Chuckles*"
-    u "(等等，什么？！包括后台通行证和派对入场券吗！该死，李先生……这绝对是世所罕见，但我还是接受了。)  *咯咯笑* "
+    u "(等等，什么？！包括后台通行证和派对入场券吗！该死，李先生……这绝对是世所罕见，但我还是接受了。)  *咯咯笑*"
 
 # game/v13/scene7.rpy:177
 translate chinese v13_ticket_transfer_93c80bf3:
@@ -226,7 +226,7 @@ translate chinese v13_ticket_transfer_f8e2fe18:
 translate chinese v13_ticket_transfer_e4455704:
 
     # pe "Oh, wow! A concert in Amsterdam... That's so cool, [name], congrats."
-    pe "噢，哇！阿姆斯特丹的演唱会……太酷了，[name]，祝贺你。"
+    pe "噢，哇哦！阿姆斯特丹的演唱会……太酷了，[name]，祝贺你。"
 
 # game/v13/scene7.rpy:235
 translate chinese v13_ticket_transfer_d620df0f:
@@ -262,7 +262,7 @@ translate chinese v13_ticket_transfer_a404bf73:
 translate chinese v13_ticket_transfer_1509356b:
 
     # u "Of course. I can't wait for this."
-    u "当然了。我等不及了。"
+    u "不客气。我等不及了。"
 
 # game/v13/scene7.rpy:269
 translate chinese v13_ticket_transfer_53391a1b:
@@ -274,7 +274,7 @@ translate chinese v13_ticket_transfer_53391a1b:
 translate chinese v13_ticket_transfer_8569c4fa:
 
     # u "*Chuckles*"
-    u " *咯咯笑* "
+    u "*咯咯笑*"
 
 # game/v13/scene7.rpy:279
 translate chinese v13_ticket_transfer_c22ee84f:
@@ -328,13 +328,13 @@ translate chinese v13_ticket_transfer_e69fa229:
 translate chinese v13_ticket_transfer_2eec06f5:
 
     # u "Definitely a character. *Laughs*"
-    u "绝对是个好人。 *笑* "
+    u "绝对是个好人。 *笑*"
 
 # game/v13/scene7.rpy:334
 translate chinese v13_ticket_transfer_f9427e14:
 
     # au "So, what's up? I saw you talking to Mr. Lee."
-    au "那么，有什么事吗？我看到你在和李先生谈话。"
+    au "那么，有什么事儿吗？我看到你在和李先生谈话。"
 
 # game/v13/scene7.rpy:339
 translate chinese v13_ticket_transfer_f928a781:
@@ -358,7 +358,7 @@ translate chinese v13_ticket_transfer_ab606270:
 translate chinese v13_ticket_transfer_5f617eba:
 
     # u "Guess I don't have to ask if you'd wanna go? *Chuckles*"
-    u "我想我不用问你想不想去了吧？ *咯咯笑* "
+    u "我想我不用问你想不想去了吧？ *咯咯笑*"
 
 # game/v13/scene7.rpy:359
 translate chinese v13_ticket_transfer_bce2a67b:
@@ -388,7 +388,7 @@ translate chinese v13_ticket_transfer_b84ffead:
 translate chinese v13_ticket_transfer_8569c4fa_1:
 
     # u "*Chuckles*"
-    u " *咯咯笑* "
+    u "*咯咯笑*"
 
 # game/v13/scene7.rpy:387
 translate chinese v13_ticket_transfer_114874c7:
@@ -478,7 +478,7 @@ translate chinese v13_ticket_transfer_825b8fe4:
 translate chinese v13_ticket_transfer_7373a0d2:
 
     # pe "Of course! You're the only person I'd want to spend the entire night with. *Chuckles*"
-    pe "当然！你是唯一一个我整晚都待在一起的人。 *咯咯笑* "
+    pe "不客气！你是唯一一个我整晚都待在一起的人。 *咯咯笑*"
 
 # game/v13/scene7.rpy:465
 translate chinese v13_ticket_transfer_e8a78dd5:
@@ -508,7 +508,7 @@ translate chinese v13_ticket_transfer_c7d71cff:
 translate chinese v13_ticket_transfer_f228fc38:
 
     # u "Wow! This is gonna be sick..."
-    u "哇！这会让人疯狂的……"
+    u "哇哦！这会让人疯狂的……"
 
 # game/v13/scene7.rpy:491
 translate chinese v13_ticket_transfer_8c3a1ae7:
@@ -520,7 +520,7 @@ translate chinese v13_ticket_transfer_8c3a1ae7:
 translate chinese v13_ticket_transfer_8d402e41:
 
     # u "What? *Chuckles*"
-    u "什么？ *咯咯笑* "
+    u "什么？ *咯咯笑*"
 
 # game/v13/scene7.rpy:501
 translate chinese v13_ticket_transfer_1747d7e3:

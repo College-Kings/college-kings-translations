@@ -28,13 +28,13 @@ translate chinese v13s50a_363b918d:
 translate chinese v13s50a_384927ac:
 
     # em "*Moans* I missed this so much, [name]!"
-    em "*呻吟*我太怀念这个了，[name]！"
+    em "*呻吟* 我太怀念这个了，[name]！"
 
 # game/v13/scene50a.rpy:81
 translate chinese v13s50a_a02c470a:
 
     # em "I know you missed this, baby... I know you love me!"
-    em "我知道你也怀念这个，宝贝……我知道你是爱我的！"
+    em "我知道你也怀念这个，宝贝儿……我知道你是爱我的！"
 
 # game/v13/scene50a.rpy:86
 translate chinese v13s50a_904c0adb:
@@ -112,7 +112,7 @@ translate chinese v13s50a_7c878117:
 translate chinese v13s50a_eed3b03c:
 
     # u "(It's kinda fucked up to just bang her, say that and walk out, but... *Sighs*)"
-    u "(上了她，说了这句话，然后就走了，这有点他妈的搞砸了，但是…… *叹息* )"
+    u "(上了她，说了这句话，然后就走了，这有点他妈的搞砸了，但是…… *叹息*)"
 
 # game/v13/scene50a.rpy:199
 translate chinese v13s50a_return_after_emily_3f50309a:
@@ -142,7 +142,7 @@ translate chinese v13s50a_return_after_emily_bdc3931c:
 translate chinese v13s50a_return_after_emily_847850e6:
 
     # u "(Wow, this is kinda sad.)"
-    u "(哇，这有点可悲。)"
+    u "(哇哦，这有点可悲。)"
 
 # game/v13/scene50a.rpy:221
 translate chinese v13s50a_return_after_emily_19384294:

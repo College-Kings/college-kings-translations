@@ -76,7 +76,7 @@ translate chinese v13s56_59760249:
 translate chinese v13s56_11084e89:
 
     # no "Lorraine likes basic lady stuff and Mr. Lee is all about weird history things, so keep those things in mind."
-    no "洛林喜欢基本的女人的东西，而李先生则喜欢奇怪的古董，所以要记住这些东西。"
+    no "洛林喜欢普通的女人东西，而李先生则喜欢奇怪的古董，所以要记住这些东西。"
 
 # game/v13/scene56.rpy:98
 translate chinese v13s56_59027008:
@@ -106,19 +106,19 @@ translate chinese v13s56_86254df5:
 translate chinese v13s56_2a014f25:
 
     # no "Yeah... I heard you."
-    no "是的……我听到了。"
+    no "好吧……我听到了。"
 
 # game/v13/scene56.rpy:141
 translate chinese v13s56_2a014f25_1:
 
     # no "Yeah... I heard you."
-    no "是的……我听到了。"
+    no "好吧……我听到了。"
 
 # game/v13/scene56.rpy:149
 translate chinese v13s56_78f6efd8:
 
     # u "(Calm down big fella.)"
-    u "(大个子，冷静点。)"
+    u "(大个子，冷静点儿。)"
 
 # game/v13/scene56.rpy:154
 translate chinese v13s56_d62e0471:
@@ -220,7 +220,7 @@ translate chinese v13s56_b4d077ec:
 translate chinese v13s56_01f1eb53:
 
     # u "I can't afford both of these, Nora. *Chuckles*"
-    u "这两件我都买不起，诺拉。 *咯咯笑*"
+    u "这两件我买不起，诺拉。 *咯咯笑*"
 
 # game/v13/scene56.rpy:249
 translate chinese v13s56_f2ad413c:
@@ -238,7 +238,7 @@ translate chinese v13s56_c1c1f639:
 translate chinese v13s56_aea8d7ec:
 
     # no "*Chuckles* I'm just messing with you."
-    no "*咯咯笑* 我只是在逗你玩的。"
+    no "*咯咯笑* 我只是在逗你玩儿。"
 
 # game/v13/scene56.rpy:264
 translate chinese v13s56_4926f373:

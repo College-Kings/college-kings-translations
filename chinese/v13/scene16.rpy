@@ -22,7 +22,7 @@ translate chinese v13s16_777868e3:
 translate chinese v13s16_9557502e:
 
     # u "Well, perfect. *Chuckles*"
-    u "嗯，太好了。 *咯咯笑* "
+    u "嗯，太好了。 *咯咯笑*"
 
 # game/v13/scene16.rpy:57
 translate chinese v13s16_2572b85d:
@@ -40,7 +40,7 @@ translate chinese v13s16_92aeceaf:
 translate chinese v13s16_a0e307b1:
 
     # u "You're the cute one. *Chuckles*"
-    u "你是那个可爱的人。 *咯咯笑* "
+    u "你是那个可爱的人。 *咯咯笑*"
 
 # game/v13/scene16.rpy:72
 translate chinese v13s16_1ac5a369:
@@ -64,7 +64,7 @@ translate chinese v13s16_c898e6be:
 translate chinese v13s16_0f3d22ec:
 
     # u "(What gave that impression? *Chuckles*)"
-    u "(是什么给人这样的印象？ *咯咯笑* )"
+    u "(是什么给人这样的印象？ *咯咯笑*)"
 
 # game/v13/scene16.rpy:92
 translate chinese v13s16_a8e798c6:
@@ -118,7 +118,7 @@ translate chinese v13s16_c129175a:
 translate chinese v13s16_53a09ff8:
 
     # u "Of course I am, Lauren... I wouldn't be here if I wasn't, and you give me many reasons to be."
-    u "我当然是，劳伦……如果我不是，我就不会在这里，而你给了我很多理由。"
+    u "当然，劳伦……如果我不是，我就不会在这里，而你给了我很多理由。"
 
 # game/v13/scene16.rpy:151
 translate chinese v13s16_17f83ba7:
@@ -142,7 +142,7 @@ translate chinese v13s16_e8443683:
 translate chinese v13s16_024c744c:
 
     # u "*Chuckles* Why wouldn't I?"
-    u " *咯咯笑* 为什么我不会？"
+    u "*咯咯笑* 为什么我不会？"
 
 # game/v13/scene16.rpy:171
 translate chinese v13s16_50de667b:
@@ -166,7 +166,7 @@ translate chinese v13s16_e52c5b1a:
 translate chinese v13s16_2c0b6923:
 
     # la "Well, I don't even know if I'll get along with my family. *Chuckles*"
-    la "嗯，我甚至不知道我能不能和家人和睦相处。 *咯咯笑* "
+    la "嗯，我甚至不知道我能不能和家人和睦相处。 *咯咯笑*"
 
 # game/v13/scene16.rpy:196
 translate chinese v13s16_c8fbbb0f:
@@ -178,7 +178,7 @@ translate chinese v13s16_c8fbbb0f:
 translate chinese v13s16_68098f48:
 
     # u "I'm glad I could help. *Chuckles*"
-    u "我很高兴能帮上忙。 *咯咯笑* "
+    u "我很高兴能帮上忙。 *咯咯笑*"
 
 # game/v13/scene16.rpy:207
 translate chinese v13s16_43dc0d1a:
@@ -190,13 +190,13 @@ translate chinese v13s16_43dc0d1a:
 translate chinese v13s16_5e6e2388:
 
     # u "I wouldn't mind dating myself. *Chuckles*"
-    u "我不介意和自己约会。 *咯咯笑* "
+    u "我不介意和自己约会。 *咯咯笑*"
 
 # game/v13/scene16.rpy:217
 translate chinese v13s16_a1e848d2:
 
     # la "*Chuckles*"
-    la " *咯咯笑* "
+    la "*咯咯笑*"
 
 # game/v13/scene16.rpy:222
 translate chinese v13s16_128c84a9:
@@ -208,7 +208,7 @@ translate chinese v13s16_128c84a9:
 translate chinese v13s16_e2e0e53e:
 
     # u "Goodnight, babe."
-    u "晚安，宝贝。"
+    u "晚安，宝贝儿。"
 
 # game/v13/scene16.rpy:232
 translate chinese v13s16_e0a98f10:

@@ -22,7 +22,7 @@ translate chinese v13s53a_e2a23e94:
 translate chinese v13s53a_44409c90:
 
     # ri "Oh my god... I'm going back to sleep."
-    ri "我的天呐……我要继续睡觉了。"
+    ri "噢，我的天呐……我要继续睡觉了。"
 
 # game/v13/scene53a.rpy:37
 translate chinese v13s53a_6f46bbc5:

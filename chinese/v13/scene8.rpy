@@ -58,7 +58,7 @@ translate chinese v13s8_93c10bf8:
 translate chinese v13s8_6fcb53bc:
 
     # no "*Sighs* I knew we'd have to have this conversation sooner or later... I was hoping later so I could prepare myself a bit better."
-    no " *叹息* 我知道我们迟早要进行这场对话……我希望晚一点，这样我就能更好地为自己做好准备。"
+    no "*叹息* 我知道我们迟早要进行这场对话……我希望晚一点，这样我就能更好地为自己做好准备。"
 
 # game/v13/scene8.rpy:95
 translate chinese v13s8_09332657:
@@ -94,13 +94,13 @@ translate chinese v13s8_44c54c85:
 translate chinese v13s8_5e9286ce:
 
     # no "I don't believe in cheating at all. I'm so sorry I got you mixed up in all of this... I should have never d-"
-    no "我一点也不相信欺骗什么的。我很抱歉把你牵扯进来……我就不该-"
+    no "我一点也不相信欺骗什么的。我很抱歉把你牵扯进来……我就不该……"
 
 # game/v13/scene8.rpy:127
 translate chinese v13s8_fda16e45:
 
     # u "*Sighs* I'm not going to sit here and say I didn't enjoy what we shared the other night."
-    u " *叹息* 我不会坐在这里说我不喜欢我们那晚分享的东西。"
+    u "*叹息* 我不会坐在这里说我不喜欢我们那晚分享的东西。"
 
 # game/v13/scene8.rpy:132
 translate chinese v13s8_53f42f46:
@@ -124,7 +124,7 @@ translate chinese v13s8_d5348ec1:
 translate chinese v13s8_f1b98ea6:
 
     # no "[name], I-"
-    no "[name]，我-"
+    no "[name]，我……"
 
 # game/v13/scene8.rpy:155
 translate chinese v13s8_84def619:
@@ -136,7 +136,7 @@ translate chinese v13s8_84def619:
 translate chinese v13s8_d7ddc0e7:
 
     # no "*Sighs* This is a lot, [name]. In the moment it felt right but... Now I know for sure that it wasn't."
-    no " *叹息* 事情很复杂，[name]。在那一刻感觉是对的，但是……现在我确定它不是。"
+    no "*叹息* 事情很复杂，[name]。在那一刻感觉是对的，但是……现在我确定它不是。"
 
 # game/v13/scene8.rpy:165
 translate chinese v13s8_1f12ba63:
@@ -148,7 +148,7 @@ translate chinese v13s8_1f12ba63:
 translate chinese v13s8_d2e93cff:
 
     # no "I hope you can understand, [name], I... I don't know what's gonna end up happening between me and Chris, but right now I'd..."
-    no "我希望你能理解，[name]，我，我……我不知道我和克里斯之间会发生什么，但现在我……"
+    no "我希望你能理解，[name]，我……我不知道我和克里斯之间会发生什么，但现在我……"
 
 # game/v13/scene8.rpy:172
 translate chinese v13s8_736f9445:
@@ -160,7 +160,7 @@ translate chinese v13s8_736f9445:
 translate chinese v13s8_cfaa2f32:
 
     # u "*Sighs* I understand where you're coming from. How do you plan to go about this with Chris?"
-    u " *叹息* 我明白你的初衷。你打算怎么跟克里斯谈这件事？"
+    u "*叹息* 我明白你的初衷。你打算怎么跟克里斯谈这件事？"
 
 # game/v13/scene8.rpy:182
 translate chinese v13s8_786be6bc:
@@ -256,7 +256,7 @@ translate chinese v13s8_973f75a6:
 translate chinese v13s8_ebc18f98:
 
     # u "That's a real pickle you're in. *Chuckles*"
-    u "这可真是你的麻烦。 *咯咯笑* "
+    u "这可真是你的麻烦。 *咯咯笑*"
 
 # game/v13/scene8.rpy:259
 translate chinese v13s8_d62ad421:
@@ -388,19 +388,19 @@ translate chinese v13s8_197911b3:
 translate chinese v13s8_ec428925:
 
     # u "Wow, that adds a whole other dynamic to this situation."
-    u "哇，这给这种情况增加了一种完全不同的动力。"
+    u "哇哦，这给这种情况增加了一种完全不同的动力。"
 
 # game/v13/scene8.rpy:377
 translate chinese v13s8_6685c883:
 
     # no "Yep, it's crazy how much this Chicks stuff has affected everyone. You wouldn't believe it, but Chloe and I used to be really close."
-    no "是的，小鸡的事对每个人的影响都太大了，这太疯狂了。你不会相信的，但我和克洛伊曾经很要好。"
+    no "是的，小鸡会的事对每个人的影响都太大了，这太疯狂了。你不会相信的，但我和克洛伊曾经很要好。"
 
 # game/v13/scene8.rpy:382
 translate chinese v13s8_20ba4975:
 
     # u "You're right, I wouldn't believe it. *Laughs*"
-    u "你说得对，我真不敢相信。 *笑* "
+    u "你说得对，我真不敢相信。 *笑*"
 
 # game/v13/scene8.rpy:387
 translate chinese v13s8_d48389ad:

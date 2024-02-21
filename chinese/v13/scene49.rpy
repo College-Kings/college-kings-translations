@@ -10,7 +10,7 @@ translate chinese v13s49_ad528d8c:
 translate chinese v13s49_dc8be81f:
 
     # u "Of course, anytime."
-    u "当然可以，随时都可以。"
+    u "不客气，随时都可以。"
 
 # game/v13/scene49.rpy:45
 translate chinese v13s49_6ab96f1f:
@@ -40,7 +40,7 @@ translate chinese strings:
 
     # game/v13/scene49.rpy:27
     old "Wow, they turned out great!"
-    new "哇，效果很棒！"
+    new "哇哦，效果很棒！"
 
     # game/v13/scene49.rpy:28
     old "Ah, beautiful. But even better in person ;)"

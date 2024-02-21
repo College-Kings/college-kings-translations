@@ -4,61 +4,61 @@
 translate chinese v13s11_9d601d50:
 
     # imre "*Humming*"
-    imre " *嗡嗡作响* "
+    imre "*含糊不清*"
 
 # game/v13/scene11.rpy:22
 translate chinese v13s11_92a877f2:
 
     # u "*Whisper* Is this dude singing to himself? *Laughs*"
-    u " *低语* 这家伙在自言自语吗？ *笑* "
+    u "*低语* 这家伙在自言自语吗？ *笑*"
 
 # game/v13/scene11.rpy:27
 translate chinese v13s11_07f884ff:
 
     # ry "*Whisper* He must be extra happy today. *Laughs*"
-    ry " *低语* 他今天一定特别开心。 *笑* "
+    ry "*低语* 他今天一定特别开心。 *笑*"
 
 # game/v13/scene11.rpy:37
 translate chinese v13s11_62ccd0cf:
 
     # u "*Whisper* Oh shit!"
-    u " *低语*  噢，见鬼！"
+    u "*低语*  噢，见鬼！"
 
 # game/v13/scene11.rpy:47
 translate chinese v13s11_7af4faa1:
 
     # ry "*Whisper* You think he saw us?"
-    ry " *低语*  你认为他看到我们了吗？"
+    ry "*低语*  你认为他看到我们了吗？"
 
 # game/v13/scene11.rpy:52
 translate chinese v13s11_5cae1904:
 
     # u "*Whisper* Not sure."
-    u " *低语*  不确定。"
+    u "*低语*  不确定。"
 
 # game/v13/scene11.rpy:62
 translate chinese v13s11_b7721b81:
 
     # ry "*Whisper* Fuck, he's coming this way!"
-    ry " *低语*  遭了，他朝这边来了！"
+    ry "*低语*  遭了，他朝这边来了！"
 
 # game/v13/scene11.rpy:67
 translate chinese v13s11_4b02cee0:
 
     # u "*Whisper* Well, shit Ryan! Do something!"
-    u " *低语*  好吧，该死的瑞恩！做点儿什么吧！"
+    u "*低语*  好吧，该死的瑞恩！做点儿什么吧！"
 
 # game/v13/scene11.rpy:72
 translate chinese v13s11_0619d5a9:
 
     # ry "*Whisper* You do something!"
-    ry " *低语*  你要做点儿什么！"
+    ry "*低语*  你得做点儿什么！"
 
 # game/v13/scene11.rpy:87
 translate chinese v13s11_c520294c:
 
     # ry "*Whispers* What the fuck is that supposed to do?!"
-    ry " *低语*  那他妈地该怎么办？！"
+    ry "*低语*  那他妈地该怎么办？！"
 
 # game/v13/scene11.rpy:92
 translate chinese v13s11_f97bf165:
@@ -70,13 +70,13 @@ translate chinese v13s11_f97bf165:
 translate chinese v13s11_96cdb0cf:
 
     # ry "I don't underst-"
-    ry "我不明白-"
+    ry "我不明白……"
 
 # game/v13/scene11.rpy:107
 translate chinese v13s11_2603991a:
 
     # imre "Ryan? What are you- Wait, [name]? What the fuck is going on?!"
-    imre "瑞恩？你在干什么-等等，[name]？他妈的怎么回事？！"
+    imre "瑞恩？你在干什么……等等，[name]？这他妈的怎么回事？！"
 
 # game/v13/scene11.rpy:112
 translate chinese v13s11_aed8f22b:
@@ -88,7 +88,7 @@ translate chinese v13s11_aed8f22b:
 translate chinese v13s11_bc26f1ae:
 
     # ry "He treats me like royalty, unlike you. *Chuckles*"
-    ry "他把我当皇室成员对待，不像你。 *咯咯笑* "
+    ry "他把我当皇室成员对待，不像你。 *咯咯笑*"
 
 # game/v13/scene11.rpy:122
 translate chinese v13s11_267bd1bc:
@@ -100,7 +100,7 @@ translate chinese v13s11_267bd1bc:
 translate chinese v13_push_ryan_7032a2b7:
 
     # ry "*Whispers* Hey! What are you-"
-    ry " *低语*  嘿！你在做-"
+    ry "*低语*  嘿！你在做……"
 
 # game/v13/scene11.rpy:145
 translate chinese v13_push_ryan_fbf94c33:
@@ -112,7 +112,7 @@ translate chinese v13_push_ryan_fbf94c33:
 translate chinese v13_push_ryan_8876b956:
 
     # u "*Chuckles* Sorry, I-"
-    u " *咯咯笑* 对不起，我-"
+    u "*咯咯笑* 对不起，我……"
 
 # game/v13/scene11.rpy:155
 translate chinese v13_push_ryan_bce82fbe:
@@ -130,7 +130,7 @@ translate chinese v13_push_ryan_977e2c7c:
 translate chinese v13_push_ryan_1b7b9a8d:
 
     # imre "I'm going on a date... Why are you hiding behind the wall?"
-    imre "我要去约会。你为什么躲在墙后？"
+    imre "我要去约会……你们为什么躲在墙后？"
 
 # game/v13/scene11.rpy:175
 translate chinese v13_push_ryan_eefb38ff:
@@ -166,13 +166,13 @@ translate chinese v13_imre_continue_e4ddf531:
 translate chinese v13_imre_continue_53c737c6:
 
     # u "Well, there were some rumors about you going on some hot date and-"
-    u "嗯，有传言说你要和辣妹有个约会-"
+    u "嗯，有传言说你要和辣妹有个约会……"
 
 # game/v13/scene11.rpy:206
 translate chinese v13_imre_continue_c1e67656:
 
     # imre "Ahh, I get it... So you two are jealous and wanna ruin my date?"
-    imre "啊，我明白了……这么说你们两个嫉妒我想毁了我的约会？"
+    imre "啊，我明白了……这么说你们两个嫉妒我，想毁了我的约会？"
 
 # game/v13/scene11.rpy:211
 translate chinese v13_imre_continue_22f39854:
@@ -202,7 +202,7 @@ translate chinese v13_imre_continue_2c801063:
 translate chinese v13_imre_continue_fdbbded2:
 
     # u "*Laughs* Deal."
-    u " *笑* 成交。"
+    u "*笑* 成交。"
 
 # game/v13/scene11.rpy:236
 translate chinese v13_imre_continue_e0d5183a:
@@ -220,13 +220,13 @@ translate chinese v13_imre_continue_525d0ba3:
 translate chinese v13_imre_continue_6ad0d0f8:
 
     # ry "*Whispers* He's not too happy about this..."
-    ry " *低语* 他对此不太高兴……"
+    ry "*低语* 他对此不太高兴……"
 
 # game/v13/scene11.rpy:251
 translate chinese v13_imre_continue_736bf173:
 
     # u "*Whispers* He'll get over it. *Chuckles* C'mon."
-    u " *低语* 他会克服的。 *咯咯笑* 来吧。"
+    u "*低语* 他会克服的。 *咯咯笑* 来吧。"
 
 # game/v13/scene11.rpy:289
 translate chinese v13_imre_continue_d94fb5e7:
@@ -250,7 +250,7 @@ translate chinese v13_imre_continue_ae35461b:
 translate chinese v13_imre_continue_d790855a:
 
     # imre "*Inaudible*"
-    imre " *听不见* "
+    imre "*听不见*"
 
 # game/v13/scene11.rpy:309
 translate chinese v13_imre_continue_19c97fe0:
@@ -262,19 +262,19 @@ translate chinese v13_imre_continue_19c97fe0:
 translate chinese v13_imre_continue_8a5ef60f:
 
     # ry "His date probably needed to shave his beard. *Chuckles*"
-    ry "他的约会对象可能需要刮胡子。 *咯咯笑* "
+    ry "他的约会对象可能需要刮胡子。 *咯咯笑*"
 
 # game/v13/scene11.rpy:319
 translate chinese v13_imre_continue_8569c4fa:
 
     # u "*Chuckles*"
-    u " *咯咯笑* "
+    u "*咯咯笑*"
 
 # game/v13/scene11.rpy:324
 translate chinese v13_imre_continue_012a0df2:
 
     # u "Oh, shit... Let's get closer."
-    u "噢，该死的……我们走近一点。"
+    u "噢，该死的……我们走近一点儿。"
 
 # game/v13/scene11.rpy:334
 translate chinese v13_imre_continue_f7f334c9:
@@ -334,7 +334,7 @@ translate chinese v13_imre_continue_13958bdc:
 translate chinese v13_imre_continue_530569bf:
 
     # ash "I am the real Ashton, silly... I haven't updated my pictures in a while, but-"
-    ash "我才是真正的阿什顿，笨蛋。我已经有一段时间没有更新我的照片了，但是-"
+    ash "我才是真正的阿什顿，笨蛋……我已经有一段时间没有更新我的照片了，但是……"
 
 # game/v13/scene11.rpy:384
 translate chinese v13_imre_continue_8b263ff8:
@@ -388,7 +388,7 @@ translate chinese v13_imre_continue_ca857bcf:
 translate chinese v13_imre_continue_fc61f0f4:
 
     # imre "I SAID I WAS ONLY GONNA SAY IT ONCE! GET. OUT."
-    imre "我说过我只会说一次！到达。出去。"
+    imre "我说过我只会说一次！出去。"
 
 # game/v13/scene11.rpy:434
 translate chinese v13_imre_continue_40f2b442:
@@ -400,7 +400,7 @@ translate chinese v13_imre_continue_40f2b442:
 translate chinese v13_imre_continue_636a0944:
 
     # ry "*Laughs*"
-    ry " *笑* "
+    ry "*笑*"
 
 # game/v13/scene11.rpy:454
 translate chinese v13_imre_continue_6bdbd1ad:
@@ -436,13 +436,13 @@ translate chinese v13_imre_continue_2cb66c96:
 translate chinese v13_imre_continue_49573f74:
 
     # imre "Yeah, whatever."
-    imre "是啊，管他呢。"
+    imre "好吧，管他呢。"
 
 # game/v13/scene11.rpy:497
 translate chinese v13_imre_continue_2e786d73:
 
     # barh "I never like to assume, despite the number of times this happens... But, that guy has been pulling this stunt ever since I started working here. I always feel bad because I know his past..."
-    barh "我从来不喜欢假设，尽管这样的事情发生了很多次.但是，自从我开始在这里工作以来，那个家伙就一直在耍这个把戏。我总是很难过因为我知道他的过去……"
+    barh "我从来不喜欢假设，尽管这样的事情发生了很多次……但是，自从我开始在这里工作以来，那个家伙就一直在耍这个把戏。我总是很难过因为我知道他的过去……"
 
 # game/v13/scene11.rpy:502
 translate chinese v13_imre_continue_34e96b3f:
@@ -478,7 +478,7 @@ translate chinese v13_imre_continue_46410b92:
 translate chinese v13_imre_continue_d495e496:
 
     # imre "*Sighs?* Yeah?"
-    imre " *叹息？* 什么？"
+    imre "*叹息* 嗯？"
 
 # game/v13/scene11.rpy:532
 translate chinese v13_imre_continue_c37c54a5:
@@ -496,7 +496,7 @@ translate chinese v13_imre_continue_072afd11:
 translate chinese v13_imre_continue_8dba19a9:
 
     # barh "*Laughs* The event is being hosted right here actually and I'll be the one hosting."
-    barh " *笑* 活动实际上就在这里举办，我会主持。"
+    barh "*笑* 活动实际上就在这里举办，我会主持。"
 
 # game/v13/scene11.rpy:547
 translate chinese v13_imre_continue_93f290ae:
@@ -508,7 +508,7 @@ translate chinese v13_imre_continue_93f290ae:
 translate chinese v13_imre_continue_c58461ea:
 
     # imre "You guys wanna go?"
-    imre "你想去吗？"
+    imre "你们想去吗？"
 
 # game/v13/scene11.rpy:557
 translate chinese v13_imre_continue_7816f7e7:
@@ -532,7 +532,7 @@ translate chinese v13_imre_continue_e1a5715a:
 translate chinese v13_imre_continue_57ae9944:
 
     # u "*Sighs*"
-    u " *叹息* "
+    u "*叹息*"
 
 # game/v13/scene11.rpy:577
 translate chinese v13_imre_continue_7bf594f2:
@@ -604,7 +604,7 @@ translate chinese v13_imre_continue_bf3885c7:
 translate chinese v13_imre_continue_91f241d1:
 
     # u "*Sighs* Don't say I never tried."
-    u " *叹息* 不要说我从未尝试过。"
+    u "*叹息* 不要说我从未尝试过。"
 
 # game/v13/scene11.rpy:675
 translate chinese v13_imre_continue_d35db03d:

@@ -34,19 +34,19 @@ translate chinese v13s12c_b5d836d3:
 translate chinese v13s12c_829c951a:
 
     # u "Could probably see it from the roof... *Chuckles*"
-    u "很可能从屋顶上就能看到…… *咯咯笑* "
+    u "很可能从屋顶上就能看到…… *咯咯笑*"
 
 # game/v13/scene12c.rpy:47
 translate chinese v13s12c_78605a4c:
 
     # au "*Shocked* You're a genius!"
-    au " *震惊* 你真是个天才！"
+    au "*震惊* 你真是个天才！"
 
 # game/v13/scene12c.rpy:52
 translate chinese v13s12c_cde9b0b2:
 
     # u "What'd I say? *Chuckles*"
-    u "我说什么了？ *咯咯笑* "
+    u "我说什么了？ *咯咯笑*"
 
 # game/v13/scene12c.rpy:57
 translate chinese v13s12c_4ab12e26:
@@ -58,7 +58,7 @@ translate chinese v13s12c_4ab12e26:
 translate chinese v13s12c_bcc88e71:
 
     # u "Oh, yeah. Maybe... I mean It would depend-"
-    u "噢，是啊。也许……我是说这要看-"
+    u "噢，是啊。也许……我是说这要看……"
 
 # game/v13/scene12c.rpy:67
 translate chinese v13s12c_cdb74674:
@@ -76,7 +76,7 @@ translate chinese v13s12c_515b4515:
 translate chinese v13s12c_7f410459:
 
     # au "C'mon then, we're going to the roof!"
-    au "那快点，我们要去屋顶了！"
+    au "那快点儿，我们要去屋顶了！"
 
 # game/v13/scene12c.rpy:105
 translate chinese v13s12c_6101648a:
@@ -94,13 +94,13 @@ translate chinese v13s12c_064fd46c:
 translate chinese v13s12c_7a7683d5:
 
     # u "You and Riley both. *Chuckles*"
-    u "你和莱莉都是。 *咯咯笑* "
+    u "你和莱莉都是。 *咯咯笑*"
 
 # game/v13/scene12c.rpy:120
 translate chinese v13s12c_28c5e62a:
 
     # au "Not surprised, actually. That girl and I have a lot in common... *Laughs*"
-    au "实际上，这并不令人惊讶。那个女孩和我有很多共同点…… *笑* "
+    au "实际上，这并不令人惊讶。那个女孩和我有很多共同点…… *笑*"
 
 # game/v13/scene12c.rpy:125
 translate chinese v13s12c_50d17a80:
@@ -112,7 +112,7 @@ translate chinese v13s12c_50d17a80:
 translate chinese v13s12c_22770a09:
 
     # au "*Sighs* I can't see shit, and I can't hear shit."
-    au " *叹息* 我什么也看不见，什么也听不见。"
+    au "*叹息* 我什么也看不见，什么也听不见。"
 
 # game/v13/scene12c.rpy:140
 translate chinese v13s12c_ce587f87:
@@ -142,7 +142,7 @@ translate chinese v13s12c_f81f2cfe:
 translate chinese v13s12c_24606601:
 
     # u "Not gonna lie, I always forget you're the VP. I guess I never really hear you talk about Chicks stuff. *Chuckles*"
-    u "实话实说，我总是忘了你是副主席。我想我从来没听你说过小鸡的事。 *咯咯笑* "
+    u "实话实说，我总是忘了你是副主席。我想我从来没听你说过小鸡的事。 *咯咯笑*"
 
 # game/v13/scene12c.rpy:170
 translate chinese v13s12c_35880416:
@@ -172,7 +172,7 @@ translate chinese v13s12c_09332657:
 translate chinese v13s12c_aa185eec:
 
     # au "Will Lindsey be President? Will Chloe be President? Will Chris and Nora split? Will we all get nicknames like Lindsey suggested? Will Riley join the Chicks? *Chuckles*"
-    au "林赛会当主席吗？克洛伊会当主席吗？克里斯和诺拉会分手吗？我们都会得到林赛建议的昵称吗？莱莉会加入小鸡队吗？ *咯咯笑* "
+    au "林赛会当主席吗？克洛伊会当主席吗？克里斯和诺拉会分手吗？我们都会得到林赛建议的昵称吗？莱莉会加入小鸡会吗？ *咯咯笑*"
 
 # game/v13/scene12c.rpy:195
 translate chinese v13s12c_8730b730:
@@ -202,7 +202,7 @@ translate chinese v13s12c_ef88981b:
 translate chinese v13s12c_0a41fb7b:
 
     # u "*Laughs* You sound like a middle school boy that plays MineBuild."
-    u " *笑* 你听起来像个玩我的建造的中学生。"
+    u "*笑* 你听起来像个玩我的建造的中学生。"
 
 # game/v13/scene12c.rpy:220
 translate chinese v13s12c_b63ebc78:
@@ -256,7 +256,7 @@ translate chinese v13s12c_611e93c7:
 translate chinese v13s12c_e76a11fa:
 
     # u "*Laughs* I'm sorry for laughing, but wouldn't it be a bitch if it literally went fifty/fifty and your vote decided it all?"
-    u " *笑* 我很抱歉笑了，但如果真的是五五开，你的投票决定了一切，这不是让你当婊子吗？"
+    u "*笑* 我很抱歉笑了，但如果真的是五五开，你的投票决定了一切，这不是让你当婊子吗？"
 
 # game/v13/scene12c.rpy:265
 translate chinese v13s12c_28fa6faf:
@@ -280,13 +280,13 @@ translate chinese v13s12c_c5a2f9f5:
 translate chinese v13s12c_76d70906:
 
     # u "Also, you act like the Nora and Chris stuff is gonna make things worse... What do you expect the outcome of that situation to be? *Laughs*"
-    u "而且，你表现得好像诺拉和克里斯的事会让事情变得更糟……你认为这种情况的结果会是什么？ *笑* "
+    u "而且，你表现得好像诺拉和克里斯的事会让事情变得更糟……你认为这种情况的结果会是什么？ *笑*"
 
 # game/v13/scene12c.rpy:285
 translate chinese v13s12c_ff6cd92a:
 
     # au "It may, or it may not cause an entire tidal wave to come through and destroy everyone and everything... *Chuckles*"
-    au "它可能会，也可能不会引起一场滔天的海啸，摧毁每个人和一切…… *咯咯笑* "
+    au "它可能会，也可能不会引起一场滔天的海啸，摧毁每个人和一切…… *咯咯笑*"
 
 # game/v13/scene12c.rpy:290
 translate chinese v13s12c_c97b2d5c:
@@ -310,7 +310,7 @@ translate chinese v13s12c_a40c71e2:
 translate chinese v13s12c_7e051671:
 
     # au "*Sighs*"
-    au " *叹息* "
+    au "*叹息*"
 
 # game/v13/scene12c.rpy:310
 translate chinese v13s12c_ef2f1671:
@@ -388,19 +388,19 @@ translate chinese v13s12c_56dadd41:
 translate chinese v13s12c_1eed690d:
 
     # u "And... that's life. *Chuckles*"
-    u "因为……这就是生活。 *咯咯笑* "
+    u "因为……这就是生活。 *咯咯笑*"
 
 # game/v13/scene12c.rpy:389
 translate chinese v13s12c_c90f7157:
 
     # au "Thanks for coming up here with me, even though we didn't really have a concert. *Chuckles*"
-    au "谢谢你陪我一起，尽管我们并没有真的参加演唱会。 *咯咯笑* "
+    au "谢谢你陪我一起，尽管我们并没有真的参加演唱会。 *咯咯笑*"
 
 # game/v13/scene12c.rpy:394
 translate chinese v13s12c_c6ffe0ea:
 
     # u "*Chuckles* Yeah, you're welcome."
-    u " *咯咯笑* 好的，不客气。"
+    u "*咯咯笑* 好的，不客气。"
 
 # game/v13/scene12c.rpy:409
 translate chinese v13s12c_cf62b435:

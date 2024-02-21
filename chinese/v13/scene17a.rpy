@@ -4,7 +4,7 @@
 translate chinese v13s17a_eee6c9c9:
 
     # u "*Yawn* What are you doing?"
-    u " *哈欠* 你在干什么？"
+    u "*哈欠* 你在干什么？"
 
 # game/v13/scene17a.rpy:27
 translate chinese v13s17a_f6c2874a:
@@ -16,7 +16,7 @@ translate chinese v13s17a_f6c2874a:
 translate chinese v13s17a_a928f501:
 
     # u "*Laughs* Thank my mother for that."
-    u " *笑* 感谢我的母亲。"
+    u "*笑* 感谢我的母亲。"
 
 # game/v13/scene17a.rpy:37
 translate chinese v13s17a_df5207b5:
@@ -28,7 +28,7 @@ translate chinese v13s17a_df5207b5:
 translate chinese v13s17a_f0d1e845:
 
     # u "Oh, really? *Chuckles*"
-    u "噢，真的吗？ *咯咯笑* "
+    u "噢，真的吗？ *咯咯笑*"
 
 # game/v13/scene17a.rpy:47
 translate chinese v13s17a_5c750207:
@@ -70,7 +70,7 @@ translate chinese v13s17a_deb82656:
 translate chinese v13s17a_37f48ab3:
 
     # u "*Chuckles* Sounds like a plan."
-    u " *咯咯笑* 听起来像是个计划。"
+    u "*咯咯笑* 听起来像是个计划。"
 
 # game/v13/scene17a.rpy:94
 translate chinese v13s15a_nsfwSkipLabel1_4337f655:

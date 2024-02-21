@@ -46,7 +46,7 @@ translate chinese v13s51_emily_fight_bb1940cc:
 translate chinese v13s51_emily_fight_b3219151:
 
     # u "Emily, shut the fuck up for once!"
-    u "艾米丽，他妈的立刻闭嘴！"
+    u "艾米丽，他妈地立刻闭嘴！"
 
 # game/v13/scene51.rpy:54
 translate chinese v13s51_emily_fight_ca532f44:
@@ -58,7 +58,7 @@ translate chinese v13s51_emily_fight_ca532f44:
 translate chinese v13s51_emily_fight_92d8613b:
 
     # u "Attitude like this make me glad you cheated. It gave me a reason to get the fuck away from your psycho ass."
-    u "这样的态度让我很高兴你出轨了。这给了我一个他妈的离开你这个神经病的理由。"
+    u "这样的态度让我很高兴你出轨了。这给了我一个他妈地离开你这个神经病的理由。"
 
 # game/v13/scene51.rpy:64
 translate chinese v13s51_emily_fight_7c293bc6:
@@ -130,7 +130,7 @@ translate chinese v13s51_emily_fight_4bae7e85:
 translate chinese v13s51_emily_fight_397f0ed3:
 
     # u "We're not doing this. Like deadass, get the fuck out!"
-    u "我们不会这么做的。味如嚼蜡，他妈的滚出去！"
+    u "我们不会这么做的。味如嚼蜡，他妈地滚出去！"
 
 # game/v13/scene51.rpy:212
 translate chinese v13s51_emily_fight_af9e0a50:

@@ -256,7 +256,7 @@ translate chinese v13s46_ac549aab:
 translate chinese v13s46_624269c2:
 
     # u "He fucking bit me!"
-    u "它他妈的咬了我一口！"
+    u "它他妈地咬了我一口！"
 
 # game/v13/scene46.rpy:263
 translate chinese v13s46_a79d8db1:

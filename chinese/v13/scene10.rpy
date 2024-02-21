@@ -34,7 +34,7 @@ translate chinese v13s10_5b5c3847:
 translate chinese v13s10_3ae24664:
 
     # u "Yeah, man. I'm gonna sit here and wait for my concert companion. *Chuckles*"
-    u "是啊，伙计。我要坐在这里等我的演唱会同伴。 *咯咯笑* "
+    u "是的，伙计。我要坐在这里等我的演唱会同伴。 *咯咯笑*"
 
 # game/v13/scene10.rpy:54
 translate chinese v13s10_01a72d0e:
@@ -70,7 +70,7 @@ translate chinese v13s10_7a36c672:
 translate chinese v13s10_524be98a:
 
     # ry "*Chuckles*"
-    ry " *咯咯笑* "
+    ry "*咯咯笑*"
 
 # game/v13/scene10.rpy:103
 translate chinese v13s10_ddd57a85:
@@ -106,7 +106,7 @@ translate chinese v13s9_PhoneContinueAubrey_88d710ce:
 translate chinese v13s9_PhoneContinueAubrey_3e442535:
 
     # u "Who's buzzing me?"
-    u "谁打电话我？"
+    u "谁发信息给我？"
 
 # game/v13/scene10.rpy:155
 translate chinese v13s9_PhoneContinuePenelope_88d710ce:

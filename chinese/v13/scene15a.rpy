@@ -4,7 +4,7 @@
 translate chinese v13s15a_e99db1b7:
 
     # u "(Oh shit, she's probably asleep. Gonna have to tiptoe in the dark.)"
-    u "(该死的，她可能睡着了。得在黑暗中蹑手蹑脚了。)"
+    u "(噢，该死的，她可能睡着了。得在黑暗中蹑手蹑脚了。)"
 
 # game/v13/scene15a.rpy:34
 translate chinese v13s15a_bfb2c4b5:
@@ -16,7 +16,7 @@ translate chinese v13s15a_bfb2c4b5:
 translate chinese v13s15a_718f474c:
 
     # u "*Whisper* Fuck!"
-    u " *低语* 该死的！"
+    u "*低语* 该死的！"
 
 # game/v13/scene15a.rpy:49
 translate chinese v13s15a_a29f77b6:
@@ -28,7 +28,7 @@ translate chinese v13s15a_a29f77b6:
 translate chinese v13s15a_8b7c151c:
 
     # ri "Don't be sorry, do better. I'm trying to sleep. *Chuckles*"
-    ri "别抱歉，注意点儿。我在试着睡着。 *咯咯笑* "
+    ri "别抱歉，注意点儿。我在试着睡着。 *咯咯笑*"
 
 # game/v13/scene15a.rpy:59
 translate chinese v13s15a_893fc89a:

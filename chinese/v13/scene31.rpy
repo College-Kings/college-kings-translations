@@ -4,7 +4,7 @@
 translate chinese v13s31_97a48f50:
 
     # am "Hello, our friend here is having a negative reaction to marijuana... It was her first time and I-"
-    am "你好，我们的朋友对大麻有过敏反应……这是她第一次吸，我-"
+    am "你好，我们的朋友对大麻有过敏反应……这是她第一次吸，我……"
 
 # game/v13/scene31.rpy:17
 translate chinese v13s31_1cc07476:
@@ -124,13 +124,13 @@ translate chinese v13s31_48ddc6f3:
 translate chinese v13s31_1fe35eea:
 
     # ca "She said you basically called her a fiend, pissed her off to the point that she relapsed."
-    ca "她说你说她是恶魔，把她惹毛了，导致她旧病复发。"
+    ca "她说你说她是恶魔，把她惹毛了，导致她复吸过量了。"
 
 # game/v13/scene31.rpy:132
 translate chinese v13s31_3969e284:
 
     # u "*Sighs* You know, I actually care about your sister's well-being, Cam."
-    u " *叹息* 你知道，我真的很关心你妹妹的幸福，卡梅隆。"
+    u "*叹息* 你知道，我真的很关心你妹妹的幸福，卡梅隆。"
 
 # game/v13/scene31.rpy:137
 translate chinese v13s31_d1596e98:
@@ -154,7 +154,7 @@ translate chinese v13s31_17bd9553:
 translate chinese v13s31_04075b74:
 
     # ca "*Whispers* Fuck."
-    ca " *低语* 操。"
+    ca "*低语* 操。"
 
 # game/v13/scene31.rpy:158
 translate chinese v13s31_ba2f3577:
@@ -172,7 +172,7 @@ translate chinese v13s31_d2c26d3e:
 translate chinese v13s31_ff832313:
 
     # u "Thanks Cam. How are you, man?"
-    u "谢谢，卡。你还好吗，伙计？"
+    u "谢谢，卡梅隆。你还好吗，伙计？"
 
 # game/v13/scene31.rpy:178
 translate chinese v13s31_fb08ea78:
@@ -184,7 +184,7 @@ translate chinese v13s31_fb08ea78:
 translate chinese v13s31_d61f1cc6:
 
     # ca "*Whisper* Fuck."
-    ca " *低语* 操。"
+    ca "*低语* 操。"
 
 # game/v13/scene31.rpy:188
 translate chinese v13s31_f97681ad:
@@ -196,7 +196,7 @@ translate chinese v13s31_f97681ad:
 translate chinese v13s31_7e525c86:
 
     # ca "Oh, shit. I'm sorry. Um, y-yeah, see you later."
-    ca "噢，见鬼。对不起。嗯，是的，回头见。"
+    ca "噢，见鬼。对不起。嗯，好……好吧，回头见。"
 
 # game/v13/scene31.rpy:203
 translate chinese v13s31_052b7b57:
@@ -208,7 +208,7 @@ translate chinese v13s31_052b7b57:
 translate chinese v13s31_a950f740:
 
     # u "I'll catch up with you later Cameron."
-    u "我晚些时候再来找你，卡梅伦。"
+    u "我晚些时候再来找你，卡梅隆。"
 
 # game/v13/scene31.rpy:218
 translate chinese v13s31_1a4ee626:
