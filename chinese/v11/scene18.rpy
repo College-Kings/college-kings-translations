@@ -16,7 +16,7 @@ translate chinese v11_msrose_convo_498320be:
 translate chinese v11_msrose_convo_28decb6d:
 
     # ro "[name], I-"
-    ro "[name]，我-"
+    ro "[name]，我……"
 
 # game/v11/scene18.rpy:73
 translate chinese v11_msrose_convo_18fe395f:

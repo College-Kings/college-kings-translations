@@ -568,7 +568,7 @@ translate chinese v11_start_14088fdc:
 translate chinese v11_start_11a673f9:
 
     # u "Is it though? What if she just asked someone in admissions to do it, what if it wasn't actually her that did the \"hacking\"?"
-    u "不过，真的是这样吗？如果她只是让招生处的人帮忙呢，如果实际上不是她做的\"入侵\"？"
+    u "不过，真的是这样吗？如果她只是让招生处的人帮忙呢，如果实际上不是她做的\"入侵\"呢？"
 
 # game/v11/scene1.rpy:518
 translate chinese v11_start_119d813f:
@@ -622,7 +622,7 @@ translate chinese v11_start_cdcff078:
 translate chinese v11_start_aa2ab76b:
 
     # de "You understand that by choosing not to tell us we have no choice but to assume you did this on your own? Which makes you fully responsible."
-    de "你明白吗，选择不告诉我们我们别无选择，只能假设这是你自己干的？所以你要负全部责任。"
+    de "你明白吗，选择不告诉我们，我们别无选择，只能假设这是你自己干的？所以你要负全部责任。"
 
 # game/v11/scene1.rpy:570
 translate chinese v11_start_1f56cc61:
@@ -634,7 +634,7 @@ translate chinese v11_start_1f56cc61:
 translate chinese v11_start_05419f4b:
 
     # lee "One second there, Dean. Miss Cross, before I ask you this question you understand that lying can result in causing harm to your case, yes?"
-    lee "等一下，院长、克罗斯小姐，在我问你这个问题之前，你应该明白撒谎会对你的案子造成不良影响，对吗？"
+    lee "等一下，院长。克罗斯小姐，在我问你这个问题之前，你应该明白撒谎会对你的案子造成不良影响，对吗？"
 
 # game/v11/scene1.rpy:580
 translate chinese v11_start_ae968959:
@@ -754,7 +754,7 @@ translate chinese v11_start_777e9f28:
 translate chinese v11_start_4e81de3f:
 
     # u "No further comments. I know you as the board will make the right decision."
-    u "没有进一步评论。我相信董事会会做出正确的决定。"
+    u "没有进一步评论。我相信听证会会做出正确的决定。"
 
 # game/v11/scene1.rpy:684
 translate chinese v11_start_8b10f88b:
@@ -796,7 +796,7 @@ translate chinese v11_start_99ea67ce:
 translate chinese v11s1_riley_d375cca3:
 
     # u "Hey, it's really cool to see that you came."
-    u "嘿，看到你来真的很酷。"
+    u "嘿，看到你来真的很好。"
 
 # game/v11/scene1.rpy:761
 translate chinese v11s1_riley_c682fdb0:
@@ -814,13 +814,13 @@ translate chinese v11s1_riley_3d9bc0ad:
 translate chinese v11s1_riley_5b84b3ca:
 
     # ri "Yeah, you guys had already started before I got here so I didn't wanna walk in. It sounded pretty heated, how did it go?"
-    ri "是的，你们在我来之前就已经开始了，所以我不想走进去。听起来很热，怎么样？"
+    ri "是的，你们在我来之前就已经开始了，所以我不想走进去。听说过程很艰难，怎么样了？"
 
 # game/v11/scene1.rpy:783
 translate chinese v11s1_riley_82024f61:
 
     # u "They're in deliberation right now, but I think we had a pretty good case."
-    u "他们现在正在商议，但我想我们有一个很好的案例。"
+    u "他们现在正在商议，但我想我们有了一个很好的案例。"
 
 # game/v11/scene1.rpy:788
 translate chinese v11s1_riley_b2118472:
@@ -832,7 +832,7 @@ translate chinese v11s1_riley_b2118472:
 translate chinese v11s1_riley_4b103dd5:
 
     # u "The dean was pretty harsh, so I'm not sure how this'll go."
-    u "院长相当严厉，所以我不确定这件事会怎么样。"
+    u "院长相当严厉，所以我不确定这件事儿会怎么样。"
 
 # game/v11/scene1.rpy:799
 translate chinese v11s1_riley_9d25bfef:
@@ -850,13 +850,13 @@ translate chinese v11s1_riley_ded1db42:
 translate chinese v11s1_riley_7b668255:
 
     # ri "So, how's Penelope? I saw her run to the restroom."
-    ri "佩内洛普怎么样了？我看见她跑去洗手间。"
+    ri "佩内洛普怎么样了？我看见她跑去了洗手间。"
 
 # game/v11/scene1.rpy:812
 translate chinese v11s1_riley_a0e1818c:
 
     # u "She said she was feeling sick. It didn't help that I got here late either. If it was me I'm not sure I'd be able to keep it together as well as she has."
-    u "她说她感觉不舒服。我来晚了也没什么帮助。如果是我，我不确定我能不能像她那样团结一致。"
+    u "她说她感觉不舒服。我来晚了也没什么帮助。如果是我，我不确定我能不能像她那样坚持到底。"
 
 # game/v11/scene1.rpy:817
 translate chinese v11s1_riley_3774cf7b:
@@ -1072,7 +1072,7 @@ translate chinese v11s1_jenny_17c9f85e:
 translate chinese v11s1_jenny_b131a820:
 
     # jen "Thanks, you're right. I'm going to take a minute to breathe and grab some water before they call us back in."
-    jen "谢谢，你说得对。在他们叫我们回来之前，我要休息一下，喝点水。"
+    jen "谢谢，你说得对。在他们叫我们回来之前，我要休息一下，喝点儿水。"
 
 # game/v11/scene1.rpy:1021
 translate chinese v11s1_delib_cde4c05f:
@@ -1336,7 +1336,7 @@ translate chinese v11_case_verdict_d9f5b4a1:
 translate chinese v11_case_verdict_96133da5_1:
 
     # jen "What just happened?"
-    jen "刚才发生了什么事？"
+    jen "刚才发生了什么事儿？"
 
 # game/v11/scene1.rpy:1263
 translate chinese v11_case_verdict_42ff2ab3:
@@ -1360,7 +1360,7 @@ translate chinese v11_case_verdict_ca46ec29:
 translate chinese v11_case_verdict_eeec42ee:
 
     # u "(Wow, what a way to start my day. *Phew* Let's see who's going to Europe.)"
-    u "(哇，多好的一天开始方式啊。*唷*让我们看看谁要去欧洲。）"
+    u "(哇哦，多好的一个早上啊。*呼* 让我们看看谁要去欧洲。）"
 
 translate chinese strings:
 

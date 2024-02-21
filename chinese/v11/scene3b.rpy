@@ -244,7 +244,7 @@ translate chinese v11_cafe_with_riley_ff499cd4:
 translate chinese v11_cafe_with_riley_a449cba2:
 
     # ri "Oh my god, look it up later."
-    ri "噢，天哪，待会儿再告诉你。"
+    ri "噢，天呐，待会儿再告诉你。"
 
 # game/v11/scene3b.rpy:219
 translate chinese v11_cafe_with_riley_41b9ee1a:
@@ -310,7 +310,7 @@ translate chinese v11_cafe_with_riley_a2c4ca94:
 translate chinese v11_cafe_with_riley_15ce87e8:
 
     # charli "Yea- well... I don't know, actually. *Chuckles* Would you say we're friends [name]?"
-    charli "是啊-嗯。实际上，我不知道。 *咯咯笑* 你会说我们是朋友吗，[name]？"
+    charli "是啊……嗯。实际上，我不知道。 *咯咯笑* 你会说我们是朋友吗，[name]？"
 
 # game/v11/scene3b.rpy:281
 translate chinese v11_cafe_with_riley_b222b29c:

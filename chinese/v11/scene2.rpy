@@ -274,7 +274,7 @@ translate chinese v11_nora_chloe_hallway_2e1925ee:
 translate chinese v11_nora_chloe_hallway_4b6e6225:
 
     # charli "And what kind of company are you?"
-    charli "你是一家什么性格的人？"
+    charli "你是一个什么性格的人？"
 
 # game/v11/scene2.rpy:263
 translate chinese v11_nora_chloe_hallway_d06e7fb9:

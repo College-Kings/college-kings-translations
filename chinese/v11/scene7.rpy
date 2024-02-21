@@ -472,13 +472,13 @@ translate chinese v11_room_aubrey_shopping_7a153ba3:
 translate chinese v11_room_aubrey_shopping_f22e5fa4:
 
     # u "*Laughs* Nope, have a nice day."
-    u "*笑* 不，祝你有愉快的一天。"
+    u "*笑* 没有，祝你有愉快的一天。"
 
 # game/v11/scene7.rpy:477
 translate chinese v11_room_aubrey_shopping_09af90ca:
 
     # am "You too, come back and see us soon."
-    am "您也是，常回来看看。"
+    am "二位也是，常回来看看。"
 
 # game/v11/scene7.rpy:487
 translate chinese v11_room_aubrey_shopping_97d3c60f:
