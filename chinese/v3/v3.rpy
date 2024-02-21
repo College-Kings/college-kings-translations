@@ -82,7 +82,7 @@ translate chinese v3start_87f53c76:
 translate chinese v3start_3fc28f4c:
 
     # cl "Girls join the Chicks 'cause they wanna party and have fun."
-    cl "女孩们加入小鸡会是因为她们想参加派对和玩得开心。"
+    cl "女孩们加入小鸡会是因为她们想参加派对和玩儿得开心。"
 
 # game/v3/v3.rpy:76
 translate chinese v3start_41cf4bab:
@@ -166,7 +166,7 @@ translate chinese v3start_1508a5ef:
 translate chinese cm_bd_5fb83b2e:
 
     # imre "Yeah, turns out it wasn't a good idea at all. One of the girls had a mental breakdown and they consoled her for hours."
-    imre "是啊，事实证明这根本不是个好主意。其中一个女孩精神崩溃了，她们安慰了她几个小时。"
+    imre "好吧，事实证明这根本不是个好主意。其中一个女孩精神崩溃了，她们安慰了她几个小时。"
 
 # game/v3/v3.rpy:169
 translate chinese cm_bd_8f3a69b5:
@@ -196,7 +196,7 @@ translate chinese cm_bd_5de4b440:
 translate chinese cm_bd_0dc1ceb7:
 
     # u "What? Not what I was-"
-    u "什么？不是我-"
+    u "什么？不是我……"
 
 # game/v3/v3.rpy:188
 translate chinese cm_bd_5762d060:
@@ -214,7 +214,7 @@ translate chinese cm_bd_3c209707:
 translate chinese cm_bd_6de04fd1:
 
     # u "Well, I met this really nice girl called Penelope. And apparently, she's in our history class."
-    u "我遇到了一个很好的女孩，叫佩内洛普。很明显，她也上我们的历史课。"
+    u "嗯，我遇到了一个很好的女孩，叫佩内洛普。很明显，她也上我们的历史课。"
 
 # game/v3/v3.rpy:203
 translate chinese cm_bd_3d04ec9b:
@@ -382,7 +382,7 @@ translate chinese conl_4d0c5768:
 translate chinese conl_66c7877e:
 
     # imre "Man, shut the fuck up. She so wants you!"
-    imre "伙计，你他妈的闭嘴。她就是想要你！"
+    imre "伙计，你他妈地闭嘴。她就是想要你！"
 
 # game/v3/v3.rpy:370
 translate chinese conl_a38f0071:
@@ -496,7 +496,7 @@ translate chinese conl_a066df0b:
 translate chinese conl_5e38262e:
 
     # u "Fair enough."
-    u "有道理。"
+    u "好吧。"
 
 # game/v3/v3.rpy:484
 translate chinese conl_cc7fbe03:
@@ -1972,7 +1972,7 @@ translate chinese continuem_3da13d1c:
 translate chinese continuem_f413f9e1:
 
     # au "Oh, [name]!"
-    au "哦，[name]！"
+    au "噢，[name]！"
 
 # game/v3/v3.rpy:2141
 translate chinese continuem_deeeaee6:
@@ -2134,7 +2134,7 @@ translate chinese abj_0f04caa8:
 translate chinese abj_af0e0b3a:
 
     # au "*Whispers* Fuck me, [name]."
-    au " *低语* 操我，[name]。"
+    au "*低语* 操我，[name]。"
 
 # game/v3/v3.rpy:2318
 translate chinese amiss_69b49d53:
@@ -2152,7 +2152,7 @@ translate chinese amiss_9ea2f78c:
 translate chinese amiss_2ef60271:
 
     # au "*moans*"
-    au " *呻吟* "
+    au "*呻吟*"
 
 # game/v3/v3.rpy:2326
 translate chinese amiss_9ea2f78c_1:
@@ -2176,7 +2176,7 @@ translate chinese amiss_9ea2f78c_2:
 translate chinese amiss_1e7ee0b5:
 
     # au "*Squeals* Yes, yes, yes!"
-    au " *尖叫* 快点，快点，再快点！"
+    au "*尖叫* 快点，快点，再快点！"
 
 # game/v3/v3.rpy:2338
 translate chinese amiss_9ea2f78c_3:
@@ -2956,7 +2956,7 @@ translate chinese df_bd_09332657:
 translate chinese df_bd_d4ef56c4:
 
     # ri "You're attractive and charismatic and-"
-    ri "你很有魅力很有魅力-"
+    ri "你很有魅力很有魅力……"
 
 # game/v3/v3.rpy:3080
 translate chinese df_bd_9ea2f78c:
@@ -2968,7 +2968,7 @@ translate chinese df_bd_9ea2f78c:
 translate chinese df_bd_0a0f40c2:
 
     # ri "*Blushes* Uhm..."
-    ri " *脸红* 嗯……"
+    ri "*脸红* 嗯……"
 
 # game/v3/v3.rpy:3090
 translate chinese df_bd_e4879c99:
@@ -3190,7 +3190,7 @@ translate chinese dk_bb_b91d7543:
 translate chinese dk_bb_06178cae:
 
     # u "*Whispers* Oh come on, it's not that bad."
-    u "*低语* 哦，别这样，没那么要紧。"
+    u "*低语* 噢，别这样，没那么要紧。"
 
 # game/v3/v3.rpy:3297
 translate chinese dk_bb_33c26e3e:
@@ -3238,7 +3238,7 @@ translate chinese dl_b_b55fed01:
 translate chinese dl_b_2497b947:
 
     # la "*Moans quietly*"
-    la " *安静地呻吟* "
+    la "*安静地呻吟*"
 
 # game/v3/v3.rpy:3378
 translate chinese dl_b_da50d460:
@@ -3280,7 +3280,7 @@ translate chinese dl_b_c8a4dc14:
 translate chinese dl_b_bee32251:
 
     # u "Oh trust me, you just haven't seen my tickle attack."
-    u "相信我，你只是没见过我挠痒痒的样子。"
+    u "噢，相信我，你只是没见过我挠痒痒的样子。"
 
 # game/v3/v3.rpy:3459
 translate chinese dl_b_c06e9f97:
@@ -3292,7 +3292,7 @@ translate chinese dl_b_c06e9f97:
 translate chinese dl_b_cf680df2:
 
     # la "*Laughs* Hahaha, stop."
-    la " *笑* 哈哈哈，住手。"
+    la "*笑* 哈哈哈，住手。"
 
 # game/v3/v3.rpy:3469
 translate chinese dl_b_10958600:
