@@ -790,7 +790,7 @@ translate chinese v10_call_with_lauren2_26f1f200_1:
 translate chinese v10_call_with_lauren2_55e92563_1:
 
     # u "You're making it too easy! If you're not granting him the wish then you would be granting him the wish, but that would mean you wouldn't grant him the wish and that-"
-    u "你把事情搞得太简单了！如果你不答应他的愿望，那你就是答应了他的愿望，但那就意味着你不会答应他的愿望，然后-"
+    u "你把事情搞得太简单了！如果你不答应他的愿望，那你就是答应了他的愿望，但那就意味着你不会答应他的愿望，然后……"
 
 # game/v10/scene18.rpy:685
 translate chinese v10_call_with_lauren2_0517d272_1:
